@@ -5,7 +5,7 @@ lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 17
 
@@ -81,7 +81,7 @@ Otros ejemplos:
 | 3\. sg. Pres. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. Pres. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Pres. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) |
+| 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ⟪हन्⟫ 2 P "golpear, matar, dar muerte"
@@ -230,7 +230,7 @@ También ⟪स्तु⟫ 2 U "alabar" tiene, además de las formas indicadas 
 
 | | |
 | :--- | :--- |
-| 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
+| 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ## 17.6. Lista de palabras

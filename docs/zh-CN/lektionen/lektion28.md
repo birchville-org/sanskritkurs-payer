@@ -169,7 +169,7 @@ ISKCON 班加罗尔寺庙。
 ::: grammar-box
 **Konstitutionstyp 1: (meist) hochstufige Wurzel + -aya-**
 :::
-Beispiele:
+Beispiele: <!-- TODO: Fallback translation -->
 
 | 词根 | 使役式 第三人称单数 直陈式 现在时 | 含义 |
 | :--- | :--- | :--- |

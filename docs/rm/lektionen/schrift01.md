@@ -8,7 +8,7 @@ Il sanscrit vegn ed è scrit en ina varietad da scripts. La suandanta vista gene
 Fig.: Exemplars da scritura sanscrita  
 \[Sursaint d’imagina: Wikipedia, licenza GNU FD\]
 
-Die wichtigste mnine nordindische Sanskritschrift ist die Devanāgarī:
+Die wichtigste mnine nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ mintga signa consonantica designa in «a» che suonda la consonanta. Sche la con
 
 Vocalas che suflan ina consonanta -- excusà «a» -- vegnan scritas uschia:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
 
 La sequenza durant la scritura da quests cumbinaments da consonanta + vocala è:
 

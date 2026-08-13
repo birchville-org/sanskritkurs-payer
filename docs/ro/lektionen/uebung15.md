@@ -46,7 +46,7 @@ B) Rezolvați următorii Tatpuruṣa:
 
 ⟪१४⟫. ⟪ग्रामलेखकाः⟫ ⟪।⟫ ⟪ग्रामाणां⟫ ⟪लेखकाः⟫ — secretarii satului
 
-⟪१५⟫. ⟪नागदेवः⟫ ⟪।⟫ ⟪नागानां⟫ ⟪देवः⟫ — zeul șerpilor, prințul șerpilor, zeul elefanților, regele elefanților
+⟪१५⟫. ⟪नागदेवः⟫ ⟪।⟫ ⟪नागानां⟫ ⟪देवः⟫ — zeul șerpilor, prințul șerpilor, zeul elefanților, regele elefanților <!-- TODO: Fallback translation -->
 
 ⟪१६⟫. ⟪पुण्यजिताभिः⟫ ⟪।⟫ ⟪पुण्येन⟫ ⟪जिताभिः⟫ — prin merit / fapte bune câștigată (fem.)
 
@@ -75,7 +75,7 @@ B) Rezolvați următorii Tatpuruṣa:
 Fig.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung014))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Exerciții suplimentare
 
@@ -85,7 +85,7 @@ Rezolvați următoarele compuse ca Tatpuruṣa în sanscrită și oferiți o tra
 
 ⟪२⟫. ⟪दुःखदग्धा⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪दग्धा⟫ — o femeie arsă de durere
 
-⟪३⟫. ⟪मोक्षधर्मः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪धर्मः⟫ — învățătura despre mântuire, legea mântuirii
+⟪३⟫. ⟪मोक्षधर्मः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪धर्मः⟫ — învățătura despre mântuire, legea mântuirii <!-- TODO: Fallback translation -->
 
 ⟪४⟫. ⟪अन्नजातानि⟫ ⟪।⟫ ⟪अन्नेन⟫ ⟪जातानि⟫ ⟪।⟫ ⟪अन्नस्य⟫ ⟪जातानि⟫ — produs din hrană, tipuri de mâncare
 
@@ -97,7 +97,7 @@ Rezolvați următoarele compuse ca Tatpuruṣa în sanscrită și oferiți o tra
 
 ⟪८⟫. ⟪देवेश्वरः⟫ ⟪।⟫ ⟪देवानामीश्वरः⟫ — STĂPÂNUL zeilor
 
-⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — jertfă (acuzativ) a kṣatriyelor / a kṣatriya, jertfă pentru kṣatriya / un kṣatriya
+⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — jertfă (acuzativ) a kṣatriyelor / a kṣatriya, jertfă pentru kṣatriya / un kṣatriya <!-- TODO: Fallback translation -->
 
 ⟪१०⟫. ⟪वैश्यभावेन⟫ ⟪।⟫ ⟪वैश्यस्य⟫ ⟪भावेन⟫ ⟪।⟫ ⟪वैश्यानां⟫ ⟪भावेन⟫ — prin ființe vaiśya
 
@@ -107,7 +107,7 @@ Rezolvați următoarele compuse ca Tatpuruṣa în sanscrită și oferiți o tra
 
 ⟪१३⟫. ⟪गृहदासी⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪दासी⟫ — slujitoare de casă
 
-⟪१४⟫. ⟪दुःखमोहः⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहः⟫ — neînțelegere cu privire la durere, confuzie cauzată de durere
+⟪१४⟫. ⟪दुःखमोहः⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहः⟫ — neînțelegere cu privire la durere, confuzie cauzată de durere <!-- TODO: Fallback translation -->
 
 ⟪१५⟫. ⟪ग्रामेश्वरम्⟫ ⟪।⟫ ⟪ग्रामस्येश्वरम्⟫ ⟪।⟫ ⟪ग्रामाणामीश्वरम्⟫ — stăpânii satului
 
@@ -135,7 +135,7 @@ Rezolvați următoarele compuse ca Tatpuruṣa în sanscrită și oferiți o tra
 
 ⟪२७⟫. ⟪स्वर्गलोकः⟫ ⟪।⟫ ⟪स्वर्⟫ga⟪णां⟫ ⟪लोकः⟫ ⟪।⟫ ⟪स्वर्ग⟫ ⟪एव⟫ ⟪लोकः⟫ — lumea cerurilor, lumea cerurilor
 
-⟪२८⟫. ⟪ऋषियज्ञैः⟫ ⟪।⟫ ⟪ऋषेर्यज्ञैः⟫ ⟪।⟫ ⟪ऋषीणां⟫ ⟪यज्ञैः⟫ — prin jertfa vechilor înțelepți veda / a vechiului înțelept veda
+⟪२८⟫. ⟪ऋषियज्ञैः⟫ ⟪।⟫ ⟪ऋषेर्यज्ञैः⟫ ⟪।⟫ ⟪ऋषीणां⟫ ⟪यज्ञैः⟫ — prin jertfa vechilor înțelepți veda / a vechiului înțelept veda <!-- TODO: Fallback translation -->
 
 ⟪२९⟫. ⟪तत्कालम्⟫ ⟪।⟫ ⟪तस्य⟫ ⟪कालम्⟫ ⟪।⟫ ⟪त्स्याः⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तेषां⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तासां⟫ ⟪कालम्⟫ — momentul (acuzativ) pentru aceasta, momentul (potrivit) pentru aceasta
 
@@ -145,4 +145,4 @@ Rezolvați următoarele compuse ca Tatpuruṣa în sanscrită și oferiți o tra
 ![](/images/uebung016.webp)
 Fig.: ⟪गृहकरणम्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung016))
-:::
+::: <!-- TODO: Fallback translation -->

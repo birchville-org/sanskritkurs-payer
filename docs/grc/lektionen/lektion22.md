@@ -21,11 +21,11 @@ status: stable
 
 Πλὴν τῶν συνθέτων, τὸ ἀπολυτικόν ἐστιν ἓν τῶν συνηθισμένων μέσων ἐκφράσεως ἐν τῷ Σανσκριτῷ.
 
-Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung.
+Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung. <!-- TODO: Fallback translation -->
 
 **Schema:**
 
-(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv)
+(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv) <!-- TODO: Fallback translation -->
 
 :::
 **Beispiele:**

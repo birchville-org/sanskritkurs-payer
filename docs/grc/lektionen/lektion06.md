@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα ϛʹ
 
@@ -73,7 +73,7 @@ status: stable
 | :--- | :--- | :--- |
 | **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" |
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
-| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
+| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" | <!-- TODO: Fallback translation -->
 
 ## 6.4. Πρωτογενεῖς καταλήξεις τοῦ τρίτου προσώπου (prathama ἀρσ. = ⟪प्रथम⟫ = "πρῶτον (!) πρόσωπον")
 
@@ -129,7 +129,7 @@ status: stable
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Ῥήματα τῆς 4ης ἐνεστωτικῆς κλίσεως (διβάδι = ⟪दिवादि⟫ = "διβ κτλ.")
+### 6.5.3. Ῥήματα τῆς 4ης ἐνεστωτικῆς κλίσεως (διβάδι = ⟪दिवादि⟫ = "διβ κτλ.") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Ῥίζα ἐνεστῶτος = ἡ ῥίζα ἐν τῇ βαθείᾳ φωνῇ (ἐν ᾗ παρατίθεται) + ya-**
@@ -189,9 +189,9 @@ status: stable
 3. kavis ... (man, smṛ, viś)
    ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
 4. dhenus ... (viś, bhū)
-   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
+   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫ <!-- TODO: Fallback translation -->
 
-**B) Setzt die in Übung A gebildeten Sätze in den Plural.**
+**B) Setzt die in Übung A gebildeten Sätze in den Plural.** <!-- TODO: Fallback translation -->
 
 **C) Übersetzt ins Sanskrit:**
 1. Er verehrt mit einem Opfer. (Der Opferpriester für einen Opferherrn)
@@ -206,7 +206,7 @@ status: stable
 10. Kṣatriyas kämpfen.
 11. Heilige Männer führen.
 12. Sie erinnern sich.
-13. Wer (fem.) tanzt?
+13. Wer (fem.) tanzt? <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0601.webp)
@@ -237,9 +237,13 @@ status: stable
 9. (βραχμάνος, βραχμανί) ... εἰσέρχονται
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (γουρού) ... σελήνη-δόξα
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (ἀγαθός) ... ῥάμα
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **B) Θέτε εἰς τὸν πληθυντικόν:**
 1. βραχμάνος θυσιάζει. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

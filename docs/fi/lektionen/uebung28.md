@@ -100,7 +100,7 @@ A) Muodosta kausatiivi seuraavista verbimuodoista ja partisiippimuodoista:
 | ⟪हन्⟫ | ⟪घातयति⟫ | antaa surmata, tappaa
 | ⟪जि⟫ | ⟪जापयति⟫ | antaa voittaa
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | elvyttää
-B) Käännä seuraavat lauseet ja muodosta yksinkertaisilla verbeillä lauseita, jotka ilmaisevat, mitä tapahtuu, kun kausatiivilla ilmaistaan aiheutettu teko.
+B) Käännä seuraavat lauseet ja muodosta yksinkertaisilla verbeillä lauseita, jotka ilmaisevat, mitä tapahtuu, kun kausatiivilla ilmaistaan aiheutettu teko. <!-- TODO: Fallback translation -->
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
 Kṣatriya on voittaakseen viholliset antanut brahminin Harin ja Haran kunnioittaa jumalia uhrauksella, ja hän taistelee vihollisia vastaan.
@@ -109,11 +109,11 @@ Kṣatriya on voittaakseen viholliset antanut brahminin Harin ja Haran kunnioitt
 
 ⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫**
 Opettaja on opettanut pojalle Vedan ja lähtenyt sitten kotiin.
-(Perusta: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
+(Perusta: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
 
 ⟪३⟫. **⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫ ⟪॥३॥⟫**
 Sisimmässä pyhättössä esitellään jumalattaren kuva.
-(Perusta: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
+(Perusta: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
 
 ⟪४⟫. **⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫**
 Uhraaja antaa tulelle ruokaa syötäväksi ja juomaa juotavaksi.
@@ -137,14 +137,15 @@ Hyvä kṣatriyā antaa brahmanin palvella hänen henkilökohtaista jumalaaan.
 
 ⟪९⟫. **⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫**
 Valloittaakseen rikkaudet suuri kṣatriya antaa tiikerinvoimaisten taistelijoiden pitää lupauksia.
-(Perusta: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
+(Perusta: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
 
 ⟪१०⟫. **⟪पापाद्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫**
 Vapauttaakseen heidät pahasta Buddha antaa jaloiden ihmisten ymmärtää jalot totuudet.
-(Perusta: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
+(Perusta: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung045.webp)
 Kuv.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung045))
 :::
+ <!-- TODO: Fallback translation -->

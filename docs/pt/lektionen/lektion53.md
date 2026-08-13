@@ -368,7 +368,7 @@ Os seguintes adjetivos pronominais são declinados como ⟪सर्व⟫. No A
 **Um certo número de adjetivos forma o comparativo e o superlativo com os seguintes sufixos ⟪कृत्⟫ (!):**
 
 *   Comparativo: **-īyas**
-*   Superlativo: **-iṣṭha**
+*   Superlativo: **-iṣṭha** <!-- TODO: Fallback translation -->
 
 **Enquanto os sufixos ⟪तद्धित⟫ -⟪तर⟫ e -⟪तम⟫ se anexam ao tema masculino do adjetivo, os sufixos -⟪ईयस्⟫ e -⟪इष्ठ⟫ são anexados à raiz da qual o adjetivo é derivado (se tal raiz existir!). A vogal da raiz está no grau forte.**
 
@@ -376,7 +376,7 @@ Os seguintes adjetivos pronominais são declinados como ⟪सर्व⟫. No A
 
 **Deklination von -īyas siehe unten.**
 :::
-Exemplos:
+Exemplos: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Raiz | Adjetivo | Comparativo | Superlativo |
@@ -456,7 +456,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "velho") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "velho") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declinação dos comparativos em -īyas
+## 53.9. Declinação dos comparativos em -īyas <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Os comparativos em -īyas formam o feminino em -īyasī (declinação como ⟪देवी⟫). O masculino e o neutro são declinados segundo o paradigma seguinte.**
@@ -482,7 +482,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5303))
 :::
-Ver também:
+Ver também: <!-- TODO: Fallback translation -->
 
 > **Payer, Alois \<1944 - \>:** Introdução à exegese de textos sânscritos : Apostila. -- Cap. 8: A exegese propriamente dita, Parte II: Sobre questões individuais da compreensão sincrônica. -- Apêndice B: Sobre a métrica dos textos sânscritos. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
@@ -490,16 +490,18 @@ Ver também:
 
 A determinação do metro é importante pelas seguintes razões:
 
-1.  **Estética:** o metro contribui, entre outras coisas, para a beleza de uma declaração. Além disso, certos metros podem servir para expressar determinados estados de espírito, ou estão associados a certas classes sociais (⟪वर्ण⟫). Os diferentes metros são recitados de maneiras distintas. :br Uma boa impressão do efeito estético é dada, por exemplo, pela recitação do ⟪शिवताण्डवस्तोत्र⟫ (Louvor à dança de Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Estética:** o metro contribui, entre outras coisas, para a beleza de uma declaração. Além disso, certos metros podem servir para expressar determinados estados de espírito, ou estão associados a certas classes sociais (⟪वर्ण⟫). Os diferentes metros são recitados de maneiras distintas.
+Uma boa impressão do efeito estético é dada, por exemplo, pela recitação do ⟪शिवताण्डवस्तोत्र⟫ (Louvor à dança de Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Crítica textual:** Erros no metro podem ser um indício de que o texto não foi transmitido corretamente em algum ponto. O metro ajuda a fazer correções no texto.
-3.  **Cronológica:** certos metros passaram por certas mudanças ao longo da história. Isso pode ajudar na datação aproximada de um texto. Veja sobre isso **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; idem: Zur Geschichte des Śloka. -- Ambos impressos em: :br **Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Ed. por Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vols. -- (Glasenapp-Stiftung ; ...). -- vol. 2. -- 1967. -- p. 1188 - 1255.
+3.  **Cronológica:** certos metros passaram por certas mudanças ao longo da história. Isso pode ajudar na datação aproximada de um texto. Veja sobre isso **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; idem: Zur Geschichte des Śloka. -- Ambos impressos em:
+**Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Ed. por Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vols. -- (Glasenapp-Stiftung ; ...). -- vol. 2. -- 1967. -- p. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
 Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5304))
 :::
-### 53.10.2. Tipos de metros
+### 53.10.2. Tipos de metros <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Os indianos distinguem:**
@@ -544,7 +546,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   não se seguir um Visarga,
 *   nem duas consoantes.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
 
 **Todas as outras sílabas são ⟪गुरु⟫ = pesadas. A última sílaba de um quarto de verso (⟪पाद⟫) é sempre considerada ⟪गुरु⟫.**
 
@@ -569,7 +571,7 @@ Distribuição de ⟪लघु⟫ e ⟪गुरु⟫ :
 ::: metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. O Śloka épico (⟪श्लोक⟫ m.)
+### 53.10.4. O Śloka épico (⟪श्लोक⟫ m.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Verso mnemônico:**
@@ -637,7 +639,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Fontes**
 
-**Payer, Alois \<1944 - \>:** Curso de Sânscrito. -- 53. Lição 53 (Férias semestrais). -- Versão de 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois \<1944 - \>:** Curso de Sânscrito. -- 53. Lição 53 (Férias semestrais). -- Versão de 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
 
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19

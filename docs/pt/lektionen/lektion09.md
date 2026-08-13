@@ -35,9 +35,9 @@ Além desta regra básica para a formação de Samāhāradvandvas, há uma séri
 
 **putra m. "filho" » putraka m. ⟪पुत्रक⟫ "filhinho"**
 
-**aśva m. "cavalo" » aśvaka m. ⟪अश्वक⟫ "cavalinho, uma coisa semelhante a um cavalo"**
+**aśva m. "cavalo" » aśvaka m. ⟪अश्वक⟫ "cavalinho, uma coisa semelhante a um cavalo"** <!-- TODO: Fallback translation -->
 
-**putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
+**putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫** <!-- TODO: Fallback translation -->
 
 4\. **Nomes que expressam "relacionado ao conceito da palavra base":**
 **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "nativo de Benares, originário de Benares"**
@@ -156,7 +156,7 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 3. Deveres específicos de um Kṣatriya:
    **rakṣaṇaṃ sarvabhūtānām**
 ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(sarvabhūtānām = Genitivo: "de todos os seres"; Gautamadharmasūtra X, 7)
+(sarvabhūtānām = Genitivo: "de todos os seres"; Gautamadharmasūtra X, 7) <!-- TODO: Fallback translation -->
 
 4. Deveres específicos de um Vaiśya:
    **kṛṣivāṇijyapāśupālyakusīdam**
@@ -172,3 +172,4 @@ Explicação: dvijātīnām = Genitivo plural de dvijāti (traduza aqui: "para c
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
 ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
 (segundo o Kauṭilīya-Arthaśāstra 1.4.1.)
+ <!-- TODO: Fallback translation -->

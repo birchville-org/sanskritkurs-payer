@@ -63,7 +63,7 @@ last_reconstructed: 2026-05-07
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | “领袖，主人，丈夫,:br情人 / 爱人，女士” |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | “祭祀者，祭司” |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | “舞者 / 舞女” |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | “胜利的” |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | “胜利的” | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **这些构词中的一些具有更狭窄的含义：“以词根所表达的习惯性或义务性或良好地执行者”。**
@@ -76,7 +76,7 @@ last_reconstructed: 2026-05-07
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | “农夫”:br(弱级!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | “折磨者” |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | “食者，吃者” |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | “食者，吃者” | <!-- TODO: Fallback translation -->
 
 此外，后缀 **-aka** 还有一些不太重要的用法。参见 Wackernagel，《古印度语法》，第二卷，§45ff。
 

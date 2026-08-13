@@ -3,17 +3,15 @@ aside: false
 outline: false
 ---
 
+# Grammatik Index
 
-
-# מפתח דקדוק
-
-מפתח הדקדוק מפרט את כל הנושאים והתופעות הדקדוקיים מקורס הסנסקריט ומאפשר גישה מהירה לשיעורים ספציפיים.
+מילון הדקדוק מפרט את כל הנושאים והתופעות הדקדוקיים מקורס הסנסקריט ומאפשר גישה מהירה לשיעורים ספציפיים.
 
 <PayerTopicIndex />
 
 <style>
-/* התאם פריסה למפתח ברוחב מלא */
+/* Adjust layout for full width index */
 .VPDoc {
-padding: 32px 48px 64px !important;
+  padding: 32px 48px 64px !important;
 }
 </style>

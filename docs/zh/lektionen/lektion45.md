@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 45
+# 第45課
 
 ## 45.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung) <!-- TODO: Fallback translation -->
 

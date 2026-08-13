@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# 42. lecke
+# 42. lecke <!-- TODO: Fallback translation -->
 
-## 42.1. A -ṛ végződésű tövek
+## 42.1. A -ṛ végződésű tövek <!-- TODO: Fallback translation -->
 
 ### 42.1.1. A erős ragozásban nyújtott szótagú tövek
 
@@ -19,14 +19,14 @@ Minden -ṛ végű nemű névszó, kivéve az 1.3-ban felsorolt rokonsági nevek
 *   ⟪नप्तृ⟫ m. "unoka"
 *   ⟪भर्तृ⟫ m. "férj (szó szerint: fenntartó)"
 
-Ide tartozó főnevek nagy részét a ⟪कृत्⟫-suffixummal képzett -⟪तृ⟫ cselekvőnév képezi.
+Ide tartozó főnevek nagy részét a ⟪कृत्⟫-suffixummal képzett -⟪तृ⟫ cselekvőnév képezi. <!-- TODO: Fallback translation -->
 
 **Képzés:**
 
 *   **Erős töv: -ār**
 *   **Gyenge töv**
     *   **magánhangzó előtt: -r**
-    *   **mássalhangzó előtt: -ṛ**
+    *   **mássalhangzó előtt: -ṛ** <!-- TODO: Fallback translation -->
 
 Vegye figyelembe a szabálytalan képzéseket (**pirossal** jelölve)!
 :::
@@ -62,7 +62,7 @@ A nagyon gyakori ⟪कृत्⟫-suffixum -⟪तृ⟫ segítségével agent
 
 **Képzés:**
 
-*   **magas fokú Tő + -tṛ**
+*   **magas fokú Tő + -tṛ** <!-- TODO: Fallback translation -->
 
 vagy
 
@@ -90,11 +90,11 @@ Példák:
 ::: grammar-box
 Ritkán előforduló -⟪तृ⟫ végű középnemű szavaknak van egy részben önálló ragozásuk (lásd Kielhorn, Grammatik § 148).
 
-A -⟪तृ⟫ végű tövekhez tartozó nőnemek -⟪त्री⟫ végűek (mint ⟪देवी⟫).
+A -⟪तृ⟫ végű tövekhez tartozó nőnemek -⟪त्री⟫ végűek (mint ⟪देवी⟫). <!-- TODO: Fallback translation -->
 
 pl. ⟪कर्त्री⟫ f. "Cselekvőnő"
 :::
-### 42.1.3. Magas fokú tövek az erős ragozásban
+### 42.1.3. Magas fokú tövek az erős ragozásban <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Ide tartoznak a következő rokonsági megnevezések:
@@ -105,7 +105,7 @@ Ide tartoznak a következő rokonsági megnevezések:
 *   ⟪भ्रातृ⟫ m. "fivér"
 *   ⟪देवृ⟫ m. "férj testvére (a feleség sógora)"
 *   ⟪यातृ⟫ f. "a férj testvérének felesége"
-*   ⟪ननान्दृ⟫ f. "a férj testvére (a feleség sógornője)"
+*   ⟪ननान्दृ⟫ f. "a férj testvére (a feleség sógornője)" <!-- TODO: Fallback translation -->
 
 **Alakítás:**
 
@@ -188,7 +188,7 @@ Inf. ⟪चलितुम्⟫
 
 ⟪लीला⟫ f.:  tréfa, játék
 
-⟪यावत्⟫ Határozószó:  mennyi ideig, alatt
+⟪यावत्⟫ Határozószó:  mennyi ideig, alatt <!-- TODO: Fallback translation -->
 
 ⟪तावत्⟫ Határozószó: addig
 
@@ -220,10 +220,10 @@ Inf. ⟪शंसितुम्⟫
 
 ⟪पितृ⟫ m.: apa
 
-⟪पितृ⟫ m. többes szám: a szellemek, azaz
+⟪पितृ⟫ m. többes szám: a szellemek, azaz <!-- TODO: Fallback translation -->
 
 1.  apa, nagyapa, dédapa
-2.  az emberiség ősei
+2.  az emberiség ősei <!-- TODO: Fallback translation -->
 
 Mindkettőjüknek rituáléket végeznek, úgynevezett ⟪श्राद्ध⟫ n. Naponta három-három férfi ősnek (mind az apa, mind az anya oldalról) vizet és bizonyos alkalmakkor rizsgombócokat vagy lisztesgombócokat (⟪पिण्ड⟫ m. "gombóc") ajánlanak fel. Így az őseket táplálják meg. E szertartás végrehajtása egyike azoknak az okoknak, amiért férfiként fiút kell nemzeni. Azok, akiket ez a ⟪पिण्ड⟫-ajándék összeköt, ⟪सपिण्ड⟫ (akiknek közös a पिण्ड) nevet viselnek. A ⟪सपिण्ड⟫ hat nemzedéket foglal magában: három visszafelé (a dédapáig) és három előre (a nagyunokáig).
 
@@ -322,7 +322,7 @@ Fordítsa le:
 
 A **pirossal** kiemelt kifejezések magyarázata:
 
-:sig[⟪सीता⟫] f. Saját név: a király leánya, ⟪जनक⟫, ⟪विदेह⟫. A földből jött elő, amikor a király egyszer aratott, ezért neve: :sig[⟪सीता⟫] f. "Aratás"
+:sig[⟪सीता⟫] f. Saját név: a király leánya, ⟪जनक⟫, ⟪विदेह⟫. A földből jött elő, amikor a király egyszer aratott, ezért neve: :sig[⟪सीता⟫] f. "Aratás" <!-- TODO: Fallback translation -->
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
@@ -336,7 +336,7 @@ Kép: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान�
 Kép: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4206))
 :::
-⟪जनक⟫ m. Saját név: király ⟪विदेह⟫
+⟪जनक⟫ m. Saját név: király ⟪विदेह⟫ <!-- TODO: Fallback translation -->
 
 ⟪गुरुतर⟫ 3: Komparatív a szinonimákhoz ⟪गुरु⟫ 3: nehéz, nagyon nehéz
 
@@ -344,7 +344,7 @@ Kép: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪शतशस्⟫ Hatószó: százasával
 
-:sig[⟪लङ्का⟫] Nőnemű sajátnév: a mai Srí Lanka-val (ශ්‍රී ලංකාව / இலங்கை) azonosítják
+:sig[⟪लङ्का⟫] Nőnemű sajátnév: a mai Srí Lanka-val (ශ්‍රී ලංකාව / இலங்கை) azonosítják <!-- TODO: Fallback translation -->
 
 ⟪रावण⟫ Férfi nemű sajátnév; :sig[⟪लङ्का⟫] uralkodója, a ⟪राक्षस⟫ uralkodója.
 
@@ -363,7 +363,7 @@ Kép: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 :sig[⟪विश्वामित्र⟫] m. Saját név: ⟪ऋषि⟫, kirendelte ⟪राम⟫ és ⟪लक्ष्मन⟫, hogy öljék meg a démonokat; ezért varázsfegyvereket kapnak tőle.
 
-⟪सीतारामयोस्⟫ Gen.Lok.kettes szám (dualis) to ⟪सीताराम⟫
+⟪सीतारामयोस्⟫ Gen.Lok.kettes szám (dualis) to ⟪सीताराम⟫ <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

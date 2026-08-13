@@ -1,14 +1,15 @@
 ---
-title: "Esergiz 10"
+title: "Exercizi 10"
 uebung_id: 10
-category: "Esergiz"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lecziun 10
+# Exercizi 10
 
-A) Formai il passiv a las suandantas formas verbalas (cun la tradiziun da la forma verbala), uschè ditg il passiv, che correspunda a la forma verbala en persuna e numer:
+A) Formai il passiv per las suandantas formas verbalas (cun la tradiziun da la forma verbala), uschè ditg il passiv, che correspunda a la forma verbala en persuna e numer:
 
 1. sṛjati ⟪सृजति⟫ : sṛjyate ⟪सृज्यते⟫
 2. yudhyate ⟪युध्यते⟫ : yudhyate ⟪युध्यते⟫
@@ -33,9 +34,9 @@ A) Formai il passiv a las suandantas formas verbalas (cun la tradiziun da la for
 21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
 22. tanvanti ⟪तन्वन्ति⟫ (2 formas!) : tanyante / tāyante ⟪तन्यन्ते⟫ ⟪तायन्ते⟫
 
-B) Formai l'instrumental singular e plural a tut las sustantivs emprims aprendids
+B) Formai l'instrumental singular e plural per tut las sustantivs fin uss aprendids
 
-C) Mettai las suandantas frasis en il passiv e traditziu las:
+C) Mettai las suandantas frasis en il passiv e traditziunaielas:
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 
@@ -81,11 +82,11 @@ anena kavinā mantraḥ smaryate.
 
 8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
 
-anayā devyā kṣatriyā rakṣyante.
+anayā devyā kṣatriyā rakṣyante. <!-- TODO: Fallback translation -->
 
 ⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 pussaivladads)
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 pussaivladads) <!-- TODO: Fallback translation -->
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
@@ -103,7 +104,7 @@ vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
 
 ⟪वैश्यैरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्यैरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 
-Vaiśyas / Vaiśyafrauas van en quest vitg.
+Vaiśyas / Dunas da vaiśya van en questa vischnanca.
 
 12\. ete gurūṃstu śṛṇvanti. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 
@@ -111,7 +112,7 @@ etair guravas tu śrūyante.
 
 ⟪एतैर्गुरवस्तु⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
 
-Ellos ascutan lur magisters.
+Els audan però lur magisters.
 
 13\. sādhuḥ svargamāpnoti. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
 
@@ -119,7 +120,7 @@ sādhunā svarga āpyate.
 
 ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫
 
-In sant cuntegna il tschiel.
+In Saint cuntans il Paradis.
 
 14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
 
@@ -127,7 +128,7 @@ brāhmaṇaiḥ somaḥ sūyate.
 
 ⟪ब्राह्मणैः⟫ ⟪सोमः⟫ ⟪सूयते⟫ ⟪।⟫
 
-Brahmans premeschan soma.
+Bramans premnan Soma.
 
 15\. paśūṃllabhate. ⟪पशूल्ंलभते⟫
 
@@ -135,7 +136,7 @@ paśavo labhyante.
 
 ⟪पशवो⟫ ⟪लभ्यन्ते⟫ ⟪।⟫
 
-On ottegna animals da stalla.
+On ottains animals da chasa.
 
 16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
 
@@ -143,65 +144,65 @@ kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
 ⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪॥⟫
 
-Tutgads da guerra combatan (ensetgna) cun ils Kṣatriyas?
+Quals soldads combatan (ensetg) cun ils Kṣatriyas? <!-- TODO: Fallback translation -->
 
-D) Tradusìs en il Sanscrit:
+D) Tradusì en il Sanscrit:
 
-1\. In brahman va cun in vaiśya en il vitg.
+1\. In Braman va cun in Vaiśya al vit.
 
 brāhmano vaiśyena saha grāmaṃ gacchati.
 
 ⟪ब्राह्मणो⟫ ⟪वैश्येन⟫ ⟪सह⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 
-2\. El venerescha Viṣṇu cun in sacrifici. (exprima il sacrifici cun yajña!)
+2\. El adora Viṣṇu cun in sacrifici. (Expressar il sacrifici yajña!)
 
 yajñena viṣṇuṃ yajati / yajate.
 
 ⟪यज्ञेन⟫ ⟪विष्णुं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
-3\. Il Veda vegn numnà śruti. (vad)
+3\. Il Veda vegn numinà śruti. (vad)
 
 vedaḥ śrutir (ity) udyate.
 
 ⟪वेदः⟫ ⟪श्रुतिरित्युद्यते⟫ ⟪।⟫
 
-4\. On stira la trama dal tissèr. (2 pussaivladads)
+4\. On stira la trama da l'armadura. (2 pussaivladads)
 
 tantraṃ tanyate / tāyate / tanvanti.
 
 ⟪तन्त्रं⟫ ⟪तन्यते⟫ / ⟪तायते⟫ / ⟪तन्वन्ति⟫ ⟪।⟫
 
-5\. Magisters dumandan. (construcziun passiva)
+5\. Magisters dumandan. (Constructiun passiva)
 
 gurubhiḥ pṛcchyate.
 
 ⟪गुरुभिः⟫ ⟪प्र्च्छ्यते⟫ ⟪।⟫
 
-6\. L'eglia guida. (construcziun passiva) (eglia ed avertg vegnan usitadamain duvrads en il dual)
+6\. L'eglia guida. (Constructiun passiva) (Egli ed avert vegnan usitadamain normalmain duvrads en il dual)
 
 netreṇa nīyate.
 
 ⟪नेत्रेण⟫ ⟪नीयते⟫ ⟪।⟫
 
-7\. Il poet vescha ina divinitad. (construcziun passiva)
+7\. Il poet vescha ina divinitad. (Constructiun passiva)
 
 kavinā devatā dṛśyate.
 
 ⟪कविना⟫ ⟪देवता⟫ ⟪दृश्यते⟫ ⟪।⟫
 
-8\. Tgi (fem.) custodescha la uffanta? (construcziun passiva)
+8\. Qui (fem.) custodescha la giuvna? (Constructiun passiva)
 
 kayā bālā rakṣyate.
 
 ⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
 
-9\. Il Kṣatriya venerescha il SIGNUR cun in sacrifici. (construcziun passiva, senza duvrar la paraula yajña)
+9\. Il Kṣatriya adora il SIGNUR cun in sacrifici. (Constructiun passiva, senza duvrar la paraula yajña)
 
 kṣatriyeṇeśvara ijyate.
 
 ⟪क्षत्रियेनेश्वर⟫ ⟪इज्यते⟫ ⟪।⟫
 
-10\. Cun generusitad cuntegna in sectatur dal Buddha in tschiel.
+10\. Cun generusitad cuntanscha in sectari dal Buddha in paradis.
 
 dānena śrāvakaḥ svargam āpnoti / aśnute.
 
@@ -209,16 +210,16 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 ::: media
 ![](/images/uebung011.webp)
-Abb.: ⟪ग्रामः⟫
-(Sursa d'imagines: [Detagls](/licenses#uebung011))
+Fig.: ⟪ग्रामः⟫
+(Sursa da l'imaginescha: [Detagls](/licenses#uebung011))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Esergizi da lectura
+## Lecziun da lectura
 
-Legia e tradusìs e metta en il passiv:
+Legetg e tradusì ed applicai en il passiv:
 
-**⟪क⟫**
+⟪क⟫
 
 ⟪१⟫.
 > ⟪मक्सिका⟫ ⟪व्रणमिच्छन्ति⟫
@@ -231,10 +232,10 @@ Legia e tradusìs e metta en il passiv:
 > ⟪नीचैः⟫ ⟪कलह⟫ ⟪इष्यते⟫
 > ⟪शान्तिरिष्यते⟫ ⟪साध⟫u⟪भिः⟫ ⟪॥⟫
 
-Gnats vulan ina ferida,
-regents vulan richetscha,
-basgins vulan discordia,
-sants vulan pasch.
+Flugs vulan ina ferida,
+Regins vulen riczza,
+Bassas vulan discordia,
+Pacifists vulan pasch.
 
 ⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ |
 ⟪नरा⟫ ⟪देवैः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫
@@ -242,7 +243,7 @@ Las divinitads creeschan ils umans.
 
 ⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ |
 ⟪कविभिर्धनं⟫ ⟪लभ्यते⟫ ⟪।⟫
-Poets disiran richetscha.
+Poets disiran riczza.
 
 ⟪४⟫. ⟪ऋषिः⟫ ⟪सूक्तानि⟫ ⟪पश्यति⟫ |
 ⟪ऋषिणा⟫ ⟪सूक्तानि⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
@@ -254,29 +255,29 @@ Der vedische Weise opfert Viṣṇu.
 
 ⟪६⟫. ⟪गुरूञ्शिष्यांश्च⟫ ⟪पश्यति⟫ |
 ⟪गुरवः⟫ ⟪शिष्याश्च⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
-El vescha magisters ed alliev.
+El vescha magisters e discipels.
 
 ⟪७⟫. ⟪स्वर्गं⟫ ⟪लभन्ते⟫ |
 ⟪स्वर्गो⟫ ⟪लभ्यते⟫ ⟪।⟫
-Elts la glisch.
+Els cuntanschan il paradis.
 
 ⟪८⟫. ⟪अत्रर्षिर्भानुं⟫ ⟪वन्दते⟫ |
 ⟪अत्रर्षिणा⟫ ⟪भानुर्वन्स्यते⟫ ⟪।⟫
-Là accumpogna in savis vedic la glisch.
+Inat ina veschia vedica la suna.
 
 ⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
 ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-Elts van al vitg.
+Els van al vitg.
 
 ⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
 ⟪दानानि⟫ ⟪वृष्यन्ते⟫ ⟪नृपैः⟫ ⟪॥⟫
-Reis laschan plivgar donaziuns.
+Ils regs fan chaschentar donaziuns.
 
-**⟪ख⟫**
+⟪ख⟫
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ |
 ⟪सदा⟫ ⟪देवाः⟫ ⟪स्मर्यन्ते।⟫
-Elts represchentan adina ils deus.
+Els represchentan adina puspè ils deus.
 
 ⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ |
 ⟪ऋषिभिः⟫ ⟪सह⟫ ⟪रामेणोष्यते⟫ ⟪।⟫
@@ -284,27 +285,27 @@ Rāma wohnt bei den vedischen Weisen.
 
 ⟪३⟫. ⟪हरिं⟫ ⟪क्षीरेण⟫ ⟪यजति⟫ |
 ⟪हरिः⟫ ⟪क्षीरेणेज्यते⟫ ⟪।⟫
-El adulescha Hari cun in sacrifici da latga.
+El rendescha onur a Hari cun in sacrifici da latg.
 
 ⟪४⟫. ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
 ⟪मार्गेन⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪मार्गेन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-Elts van sin la via al vitg.
+Els van sin il viadi al vitg.
 
 ⟪५⟫. ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪नराः⟫ |
 ⟪धनेने⟫ ⟪नरैः⟫ ⟪सुखमिष्यते⟫ ⟪।⟫
-La glisch vul la furtuna tras la riqueza.
+La glieud vul furtuna tras richzza.
 
 ⟪६⟫. ⟪एवं⟫ ⟪वदन्ति⟫ |
 ⟪एवमुद्यते⟫ ⟪।⟫
-Uschia di la glisch.
+Uschia di man.
 
 ⟪७⟫. ⟪शान्त्यर्षय⟫ ⟪इह⟫ ⟪शोभन्ते⟫ |
 ⟪शान्त्यर्षिभिरिह⟫ ⟪शुभ्यते⟫ ⟪।⟫
-Sin la terra splendeschon sants tras la pasch.
+Sin la terra splendieschan sants tras pasch.
 
 ⟪८⟫. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
 ⟪कपिभिः⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
-Scimuns mangian fructas.
+Scimmias mangesan fruits.
 
 ⟪९⟫. ⟪गजो⟫ ⟪गच्छति⟫ |
 ⟪गजेन⟫ ⟪गम्यते⟫ ⟪।⟫
@@ -321,5 +322,6 @@ Il cochier guida il char.
 ::: media
 ![](/images/uebung012.webp)
 Abb.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
-(Sursa da l'imagines: [Detagls](/licenses#uebung012))
+(Sursa da l'imaginescha: [Detagls](/licenses#uebung012))
 :::
+ <!-- TODO: Fallback translation -->

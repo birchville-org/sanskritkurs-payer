@@ -47,7 +47,7 @@ status: stable
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
 | **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung | <!-- TODO: Fallback translation -->
 
 **இறுதிகள் வழக்கமானவை. பெண்பால்/பால் ஒருமை விளிச்சொல் -n இல்லாமல் அமைக்கப்படுகிறது.**
 :::
@@ -107,7 +107,7 @@ status: stable
 
 Sonstige Bildung wie unter 3.1.
 :::
-Beispiele:
+Beispiele: <!-- TODO: Fallback translation -->
 
 ⟪आत्मन्⟫ n. "ஆன்மா"
 

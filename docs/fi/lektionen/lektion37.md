@@ -14,16 +14,16 @@ status: stable
 Sanskritissa adverbit muodostetaan
 
 1.  substantiivien ja pronominalien taivutusmuotojen avulla
-2.  erityisten päätteiden ja pääte-
+2.  erityisten päätteiden ja pääte- <!-- TODO: Fallback translation -->
 
-Ensimmäisessä tapauksessa elävän taivutusmuodon ja adverbin välinen raja on liukuva. Tähän kuuluvat erikoistapauksena adverbit, jotka ovat jäykistyneitä vanhoja taivutusmuotoja, kun taas deklinaatiossa käytetään muita muotoja tai vastaavia substantiiveja ei enää käytetä substantiivina.
+Ensimmäisessä tapauksessa elävän taivutusmuodon ja adverbin välinen raja on liukuva. Tähän kuuluvat erikoistapauksena adverbit, jotka ovat jäykistyneitä vanhoja taivutusmuotoja, kun taas deklinaatiossa käytetään muita muotoja tai vastaavia substantiiveja ei enää käytetä substantiivina. <!-- TODO: Fallback translation -->
 
-## 37.2. Taivutusmuotojen adverbiaalinen käyttö
+## 37.2. Taivutusmuotojen adverbiaalinen käyttö <!-- TODO: Fallback translation -->
 
 ### 37.2.1. Akkusatiivi (⟪द्वितीया⟫)
 
 ::: grammar-box
-Akkusatiivi (⟪द्वितीया⟫) voi toimia adverbina seuraaviin kysymyksiin:
+Akkusatiivi (⟪द्वितीया⟫) voi toimia adverbina seuraaviin kysymyksiin: <!-- TODO: Fallback translation -->
 
 *   millä tavalla?
 *   kuinka kauan?
@@ -41,7 +41,7 @@ Esimerkit:
 Esimerkkejä:  
 ⟪सुखम्⟫ "kevyt, onnellinen"  
 ⟪नित्यम्⟫ "aina"  
-⟪साधु⟫ "oikein, hyvä"
+⟪साधु⟫ "oikein, hyvä" <!-- TODO: Fallback translation -->
 
 *   pronomineista neutrin muodossa
 Esimerkkejä:  
@@ -49,28 +49,28 @@ Esimerkkejä:
 ⟪यद्⟫ "jos, että"  
 ⟪एतद्⟫ "näin, täällä, nyt"
 :::
-### 37.2.2. Instrumentaali (⟪तृतीया⟫)
+### 37.2.2. Instrumentaali (⟪तृतीया⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-Instrumentaalia (⟪तृतीया⟫) voidaan käyttää adverbina seuraaviin kysymyksiin:
+Instrumentaalia (⟪तृतीया⟫) voidaan käyttää adverbina seuraaviin kysymyksiin: <!-- TODO: Fallback translation -->
 
 *   millä?
 *   minkä avulla?
-*   jne.
+*   jne. <!-- TODO: Fallback translation -->
 
-Instrumentaalia voidaan käyttää adverbina:
+Instrumentaalia voidaan käyttää adverbina: <!-- TODO: Fallback translation -->
 
 *   substantiiveista
 Esimerkit:  
 ⟪अर्थेन⟫ "vuoksi"
-⟪क्षणेन⟫ "hetkessä, välittömästi" (sanasta ⟪क्षण⟩ m. "hetki")
+⟪क्षणेन⟫ "hetkessä, välittömästi" (sanasta ⟪क्षण⟩ m. "hetki") <!-- TODO: Fallback translation -->
 
 *   adjektiiveista, usein myös monikkomuodossa
 Esimerkit:  
 ⟪दूरेण⟩ "kaukana, kaukaa" (sanasta ⟪दूर⟩ 3 "kaukana, kaukana")
 ⟪उच्चैस्⟩ "korkealla, äänekkäästi" (sanasta ⟪उच्च⟩ 3 "korkea, korotettu, äänekäs, kirkas (äänestä)")
 :::
-### 37.2.3. Datiiivi (⟪चतुर्थी⟩)
+### 37.2.3. Datiiivi (⟪चतुर्थी⟩) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Datiiivia (⟪चतुर्थी⟩) käytetään harvoin adverbina kysymyksiin:
@@ -86,14 +86,14 @@ Esimerkki:
 ### 37.2.4. Ablatiivi (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Ablatiivi (⟪पञ्चमी⟫) voidaan käyttää adverbialtisesti seuraaviin kysymyksiin:
+Ablatiivi (⟪पञ्चमी⟫) voidaan käyttää adverbialtisesti seuraaviin kysymyksiin: <!-- TODO: Fallback translation -->
 
 *   miksi?
 *   minkä vuoksi?
 *   mistä päin?
-*   jne.
+*   jne. <!-- TODO: Fallback translation -->
 
-Ablatiivia voidaan käyttää adverbina:
+Ablatiivia voidaan käyttää adverbina: <!-- TODO: Fallback translation -->
 
 *   substantiiveista
 esim. ⟪बलात्⟫ "väkivaltaisesti, voimalla"
@@ -109,18 +109,18 @@ Esimerkit:
 ### 37.2.5. Genetiivi (⟪षष्ठी⟫)
 
 ::: grammar-box
-Genetiiviä (⟪षष्ठी⟫) käytetään harvinaisesti adverbialtarkoitteessa kysymykseen "kuinka pitkän ajan kuluttua?"
+Genetiiviä (⟪षष्ठी⟫) käytetään harvinaisesti adverbialtarkoitteessa kysymykseen "kuinka pitkän ajan kuluttua?" <!-- TODO: Fallback translation -->
 
 esim. ⟪चिरस्य⟫ "kauan aikaa myöhemmin" (katso ⟪चिर⟫ 3 "pitkä (aika)")
 :::
-### 37.2.6. Lokatiivi (⟪सप्तमी⟫)
+### 37.2.6. Lokatiivi (⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-Lokatiivia (⟪सप्तमी⟫) voidaan käyttää adverbialtarkoitteessa kysymyksiin:
+Lokatiivia (⟪सप्तमी⟫) voidaan käyttää adverbialtarkoitteessa kysymyksiin: <!-- TODO: Fallback translation -->
 
 *   missä?
 *   millaisissa olosuhteissa?
-*   jne.
+*   jne. <!-- TODO: Fallback translation -->
 
 Esimerkit:
 :::
@@ -129,26 +129,26 @@ Esimerkit:
 \-⟪कृते⟫ "tähden"  
 ⟪दूरे⟫ "kaukana"
 :::
-## 37.3. Adverbialinen käyttö enää käytöstä poistuneissa sijamuodoissa
+## 37.3. Adverbialinen käyttö enää käytöstä poistuneissa sijamuodoissa <!-- TODO: Fallback translation -->
 
 Esimerkit:
 ::: indent
-⟪जातु⟫ "yhtään" (alkuperäisesti "syntymältä, luonnolta", akk.sg.n. sanalle ⟪जातु⟩ \&lt;ei enää substantiivina käytössä\&gt;)
+⟪जातु⟫ "yhtään" (alkuperäisesti "syntymältä, luonnolta", akk.sg.n. sanalle ⟪जातु⟩ \&lt;ei enää substantiivina käytössä\&gt;) <!-- TODO: Fallback translation -->
 
-⟪तूष्णीम्⟫ "vaikenemalla" (akk.sg. sanasta, joka ei enää käytössä oleva ⟪तूष्णी⟩ f. "vaikeneminen")
+⟪तूष्णीम्⟫ "vaikenemalla" (akk.sg. sanasta, joka ei enää käytössä oleva ⟪तूष्णी⟩ f. "vaikeneminen") <!-- TODO: Fallback translation -->
 
 ⟪एवम्⟫ "niin" (muuten kadonneesta pronominaalivartaloista ⟪एव⟩ "yksi, ainoa")
 :::
 ## 37.4. Adverbien muodostaminen adverbijänteillä
 
 ::: grammar-box
-Pronominivijurista ⟪तद्⟫, ⟪इदम्⟫ tai ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ tai ⟪कु⟫ voidaan adverbijänteillä
+Pronominivijurista ⟪तद्⟫, ⟪इदम्⟫ tai ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ tai ⟪कु⟫ voidaan adverbijänteillä <!-- TODO: Fallback translation -->
 
 *   \-⟪तस्⟫ (ablatiivi)
 *   \-⟪त्र⟫ (lokatiivi)
 *   \-⟪था⟫ (tapa)
 *   \-⟪थम्⟫ (tapa)
-*   \-⟪दा⟫ (aika)
+*   \-⟪दा⟫ (aika) <!-- TODO: Fallback translation -->
 
 johtaa vastaavia pronominaaliadverbejä.
 :::
@@ -161,7 +161,7 @@ johtaa vastaavia pronominaaliadverbejä.
 | **-⟪त्र⟫** :br(lokatiivi) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -171,7 +171,7 @@ Toinen kysymysadverbi on: ⟪क्व⟫ "missä?"
 ![lekt3701.jpg](/images/lekt3701.webp)
 Kuva: ⟪क्व⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3701))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -181,27 +181,27 @@ Kuva: ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
 
 :::
 ## 37.5. Adverbialiset yhdyssanat
 
-### 37.5.1. Adverbialisen tai adverbina käytetyn sijamuodon sisältävät yhdyssanat
+### 37.5.1. Adverbialisen tai adverbina käytetyn sijamuodon sisältävät yhdyssanat <!-- TODO: Fallback translation -->
 
-Esimerkki: ⟪सुचिरम्⟩ "erittäin pitkä (aika)"
+Esimerkki: ⟪सुचिरम्⟩ "erittäin pitkä (aika)" <!-- TODO: Fallback translation -->
 
-### 37.5.2. Adverbina käytetyt ⟪बहुव्रीहि⟩
+### 37.5.2. Adverbina käytetyt ⟪बहुव्रीहि⟩ <!-- TODO: Fallback translation -->
 
-Esimerkki: ⟪रक्षार्थम्⟩ "jonkun kaltaisesti, jonka tarkoitus on suojelu, suojelun tarkoituksella". Sitä voidaan pitää myös kuuluvana kohtaan 5.1.: -⟪अर्थम्⟩ adverbina jälkiosana.
+Esimerkki: ⟪रक्षार्थम्⟩ "jonkun kaltaisesti, jonka tarkoitus on suojelu, suojelun tarkoituksella". Sitä voidaan pitää myös kuuluvana kohtaan 5.1.: -⟪अर्थम्⟩ adverbina jälkiosana. <!-- TODO: Fallback translation -->
 
 ### 37.5.3. ⟪अव्ययीभाव⟩-yhdyssanat
 
 ⟪अव्ययीभाव⟫ = "muuttumaton/taivutumaton"
 
 ::: grammar-box
-Ein ⟪अव्ययीभाव⟫ on adverbiaalinen yhdyssana, jonka etuliite on taivutumaton (postpositio, partikkeli jne.) ja jonka jälkiosa on substantiivi, joka saa akkusatiivin yksikön neutrin pääkkeen.
+Ein ⟪अव्ययीभाव⟫ on adverbiaalinen yhdyssana, jonka etuliite on taivutumaton (postpositio, partikkeli jne.) ja jonka jälkiosa on substantiivi, joka saa akkusatiivin yksikön neutrin pääkkeen. <!-- TODO: Fallback translation -->
 
-Yhdyssanan ratkaisemisessa etuliite hallitsee jälkiosaa:
+Yhdyssanan ratkaisemisessa etuliite hallitsee jälkiosaa: <!-- TODO: Fallback translation -->
 
 Esimerkkejä:
 :::
@@ -212,7 +212,7 @@ Esimerkkejä:
 
 ⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "eteen, kohti"
 :::
-Erityisen tärkeitä ovat ⟪अव्ययीभाव⟫, joissa on ⟪यथा⟫ "kuinka" etuosana:
+Erityisen tärkeitä ovat ⟪अव्ययीभाव⟫, joissa on ⟪यथा⟫ "kuinka" etuosana: <!-- TODO: Fallback translation -->
 
 esim. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "kuten toivotus, toivomuksen mukaan, mielivaltaisesti"
 ::: media
@@ -220,7 +220,7 @@ esim. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्त�
 Kuv.: ⟪यथाशक्ति⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3702))
 :::
-## 37.6. Syntaktinen
+## 37.6. Syntaktinen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Verbeissä
@@ -229,7 +229,7 @@ Verbeissä
 *   ⟪भू⟫ 1P
 *   ⟪कृ⟫ 8U
 
-predikatiivisen adjektiivin sijaan voi olla predikatiivinen adverb:
+predikatiivisen adjektiivin sijaan voi olla predikatiivinen adverb: <!-- TODO: Fallback translation -->
 
 esim. ⟪तूष्णीं⟫ ⟪बभूव⟫ "hän tuli hiljaiseksi, hän vaieti"
 :::
@@ -238,10 +238,10 @@ esim. ⟪तूष्णीं⟫ ⟪बभूव⟫ "hän tuli hiljaiseksi, hä
 Kuv.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3703))
 :::
-## 37.7. Epämääräiset pronominit
+## 37.7. Epämääräiset pronominit <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-Epämääräiset pronominit (epämääräiset pronominisana) muodostetaan liittämällä
+Epämääräiset pronominit (epämääräiset pronominisana) muodostetaan liittämällä <!-- TODO: Fallback translation -->
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
@@ -255,11 +255,11 @@ esim.
 ⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "jokin, joku"  
 ⟪कस्यचिद्⟫ = jonkun
 :::
-## 37.8. Kysymyslause
+## 37.8. Kysymyslause <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 "Kuka?, miten?, mitä, miksi? minkä vuoksi? miksi?  
-Kysymättä pysyy tyhmänä."
+Kysymättä pysyy tyhmänä." <!-- TODO: Fallback translation -->
 
 ⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
 ⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
@@ -268,14 +268,14 @@ Kysymättä pysyy tyhmänä."
 
 Sesamstrassan motto, joka on hyvä elämän ja sanskritin opiskelun ohje
 :::
-Katso myös [Lektion 4](lektion04.md).
+Katso myös [Lektion 4](lektion04.md). <!-- TODO: Fallback translation -->
 
 On eritettävä
 
 *   Sanakysymykset (täydennyskysymykset)
 *   Lausetekstikysymykset
 
-Sanakysymyksissä kysytään toimijalta (⟪कर्तृ⟩), kohteelta, toiminnalta, olosuhteelta jne., esim.
+Sanakysymyksissä kysytään toimijalta (⟪कर्तृ⟩), kohteelta, toiminnalta, olosuhteelta jne., esim. <!-- TODO: Fallback translation -->
 
 *   kuka tulee?
 *   mitä Rāma tekee?
@@ -283,12 +283,12 @@ Sanakysymyksissä kysytään toimijalta (⟪कर्तृ⟩), kohteelta, toim
 *   miten hän puhuu sanskritia?
 *   missä äiti on?
 
-Lausuntokysymyksessä kysytään koko lauseen sisältöä, esim.
+Lausuntokysymyksessä kysytään koko lauseen sisältöä, esim. <!-- TODO: Fallback translation -->
 
 *   meneekö Rāma tänään Ofterdingeniin?
-*   onko se oikein, että ... ?
+*   onko se oikein, että ... ? <!-- TODO: Fallback translation -->
 
-### 37.8.1. Sanakysymykset (täydennyskysymykset)
+### 37.8.1. Sanakysymykset (täydennyskysymykset) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Kaava:
@@ -297,9 +297,9 @@ Kysymyssana/kysymysadverbi – lause
 :::
 Esimerkit:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Kuka menee kylään?"
+⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Kuka menee kylään?" <!-- TODO: Fallback translation -->
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Mitä lasten tulisi oppia?"
+⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Mitä lasten tulisi oppia?" <!-- TODO: Fallback translation -->
 
 ⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Missä Rāma asuu?
 :::
@@ -308,13 +308,13 @@ Esimerkit:
 Kuva: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3704))
 :::
-### 37.8.2. Kysymyslauseet
+### 37.8.2. Kysymyslauseet <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Joskus vain kontekstista näkyy, onko lause kysymyslause.
 :::
 ::: grammar-box
-Kaavio I:
+Kaavio I: <!-- TODO: Fallback translation -->
 
 Verbi - loput lauseesta
 :::
@@ -323,15 +323,15 @@ Esimerkki:
 ⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟩ "Meneekö brahmanipoika mestarin luo?"
 :::
 ::: grammar-box
-Kaavio II:
+Kaavio II: <!-- TODO: Fallback translation -->
 
-Kysymyssana (yleensä lauseen alussa) - lause
+Kysymyssana (yleensä lauseen alussa) - lause <!-- TODO: Fallback translation -->
 
 Tärkeimmät kysymyspartikkelit ovat:
 
 *   ⟪अपि⟫
 
-*   ⟪किम्⟫ (jättää usein odottamaan kielteistä vastausta)
+*   ⟪किम्⟫ (jättää usein odottamaan kielteistä vastausta) <!-- TODO: Fallback translation -->
 
 *   ⟪कच्चिद्⟫
 
@@ -339,7 +339,7 @@ Nämä partikkelit vastaavat kysymysmerkkiä.
 :::
 Esimerkki:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Onko sekin totta?"
+⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Onko sekin totta?" <!-- TODO: Fallback translation -->
 
 ⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Voiko hän sitten?"
 
@@ -349,9 +349,9 @@ Huomautus: ⟪किम्⟫ voi merkityksen "mitä?" ja kysymyspartikkelin ohe
 ::: indent
 ⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Mihin vihaan? Mitä hyötyä vihasta on? Miksi vihan?"
 :::
-## 37.9. Sanalista
+## 37.9. Sanalista <!-- TODO: Fallback translation -->
 
-⟪मूर्ख⟫ 3: tyhmä, idiootti, pöyristyttävä m. tyhmi
+⟪मूर्ख⟫ 3: tyhmä, idiootti, pöyristyttävä m. tyhmi <!-- TODO: Fallback translation -->
 
 ⟪मुनि⟫ m.: viisas, (vaikenemis)asketi
 
@@ -363,7 +363,7 @@ Huomautus: ⟪किम्⟫ voi merkityksen "mitä?" ja kysymyspartikkelin ohe
 Kuv.: ⟪शाक्यमुनिः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: päivä
+⟪दिन⟫ n.: päivä <!-- TODO: Fallback translation -->
 
 ⟪वृक्ष⟫ m.: puu
 
@@ -372,11 +372,11 @@ Kuv.: ⟪शाक्यमुनिः⟫
 Kuv.: ⟪वृक्षः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: suu, kasvot, etuosa, alku
+⟪मुख⟫ n.: suu, kasvot, etuosa, alku <!-- TODO: Fallback translation -->
 
 ## 37.10. Harjoitus
 
-A) Vastaa seuraaviin kysymyksiin sanskritiksi käyttämällä sulkuihin merkittyjä sanoja. Käännä kysymyslauseet.
+A) Vastaa seuraaviin kysymyksiin sanskritiksi käyttämällä sulkuihin merkittyjä sanoja. Käännä kysymyslauseet. <!-- TODO: Fallback translation -->
 
 Esimerkki: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟩ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
 
@@ -457,7 +457,7 @@ C) Käännä seuraavat ⟪अव्ययीभाव⟫ :
 Kuv.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "mukaisesti, pitkin, mukaan"
+3\. ⟪अनु⟫ "mukaisesti, pitkin, mukaan" <!-- TODO: Fallback translation -->
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -504,9 +504,9 @@ Kuva: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 :::
 ## 37.11 Toistoharjoitus
 
-Käännä sanskritiksi käyttäen yksinomaan perfekti-verbimuotoja:
+Käännä sanskritiksi käyttäen yksinomaan perfekti-verbimuotoja: <!-- TODO: Fallback translation -->
 
-Kertakerrallaan eräs vanhus meni toiseen kylään, ja hän väsyi matkan varrella. Hän meni levähtämään viereisen mangopuun juurelle. Tässä puussa oli kypsiä hedelmiä. Vanhus halusi näitä hedelmiä. Mutta hän ei voinut kiivetä puuhun ja ottaa hedelmät. Onneksi tässä puussa oli apinoita, jotka söivät hedelmiä. Kun hän näki nämä, vanhus iloitui. Mitä hän teki? Hän otti muutamia kiviä, tähtäsi apinoihin ja heitti. Suuttuneet apinat poimivat joitakin hedelmiä ja heittivät ne vanhukselle. Vanhus otti nämä iloisesti ja meni haluttuun paikkaansa. Katso, vanhuksen kohtalo!
+Kertakerrallaan eräs vanhus meni toiseen kylään, ja hän väsyi matkan varrella. Hän meni levähtämään viereisen mangopuun juurelle. Tässä puussa oli kypsiä hedelmiä. Vanhus halusi näitä hedelmiä. Mutta hän ei voinut kiivetä puuhun ja ottaa hedelmät. Onneksi tässä puussa oli apinoita, jotka söivät hedelmiä. Kun hän näki nämä, vanhus iloitui. Mitä hän teki? Hän otti muutamia kiviä, tähtäsi apinoihin ja heitti. Suuttuneet apinat poimivat joitakin hedelmiä ja heittivät ne vanhukselle. Vanhus otti nämä iloisesti ja meni haluttuun paikkaansa. Katso, vanhuksen kohtalo! <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

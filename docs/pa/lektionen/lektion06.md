@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # ਪਾਠ 6
 
@@ -129,7 +129,7 @@ status: stable
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. 4. ਵਰਤਮਾਨ ਕਾਲ ਦੀ ਵਰਗ ਦੀਆਂ ਕਿਰਿਆਵਾਂ (ਦਿਵਾਦਿ = ਦਿਵਾਦਿ = "ਦਿਵ ਆਦਿ")
+### 6.5.3. 4. ਵਰਤਮਾਨ ਕਾਲ ਦੀ ਵਰਗ ਦੀਆਂ ਕਿਰਿਆਵਾਂ (ਦਿਵਾਦਿ = ਦਿਵਾਦਿ = "ਦਿਵ ਆਦਿ") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪वर्तमान⟫ ⟪काल⟫ ⟪का⟫ ⟪तन्तु⟫ = ⟪गहरे⟫ ⟪स्तर⟫ ⟪में⟫ ⟪मूल⟫ (⟪जिसमें⟫ ⟪इसे⟫ ⟪सूचीबद्ध⟫ ⟪किया⟫ ⟪गया⟫ ⟪है⟫) + ya-**
@@ -237,9 +237,13 @@ status: stable
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **B) ਇਹਨਾਂ ਨੂੰ ਬਹੁਵਚਨ ਵਿੱਚ ਬਦਲੋ:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫
@@ -284,7 +288,7 @@ status: stable
 **F) ਸੰਸਕ੍ਰਿਤ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ:**
 1. Rāma opfert (als Opferherr).
 2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
+3. Mīnākṣī ist eine Göttin. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0602.webp)

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 22
+# Lekcija 22
 
 ## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
 

@@ -5,7 +5,7 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα 7
 
@@ -39,7 +39,7 @@ status: stable
 Ο Θεός νικά, όχι ο αντίθεος.
 :::
 
-## 7.1. Η ρηματική πρόταση mit direktem Objekt
+## 7.1. Η ρηματική πρόταση με άμεσο αντικείμενο
 
 ::: grammar-box
 **Σχήμα:**
@@ -195,7 +195,7 @@ status: stable
 | **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
 | **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
 | **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) | <!-- TODO: Fallback translation -->
 
 ## 7.6. Λεξιλόγιο
 

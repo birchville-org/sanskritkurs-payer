@@ -19,9 +19,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \&lt;⟪जुहुषे⟫\&gt; | \&lt;⟪जुहुध्वे⟫\&gt; |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \&lt;⟪अजुहुथास्⟫\&gt; | \&lt;⟪अजुहुध्वम्⟫\&gt; |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \&lt;⟪जुह्वीथास्⟫\&gt; | \&lt;⟪जुह्वीध्वम्⟫\&gt; |
 :::
 ⟪धा⟫ 2U
 
@@ -104,14 +104,14 @@ Abb.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Übung
 
-A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt \<⟪लङ्⟫\> verwenden):
+A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt \&lt;⟪लङ्⟫\&gt; verwenden):
 
 1\. Du spaltest die (buddhistische) Gemeinde.
 
 ::: indent
 zur Gemeindespaltung (⟪सङ्घभेद⟫) siehe:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. Habt ihr die Erde genossen?
 

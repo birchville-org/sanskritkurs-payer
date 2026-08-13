@@ -50,7 +50,7 @@ status: stable
 
 **教育：**
 
-(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**)
+(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**) <!-- TODO: Fallback translation -->
 
 只有否定前缀 **a-** / **an-** 可以与后缀 **-⟪त्वा⟫** 结合：**⟪अकृत्वा⟫** “未做（某事）”
 
@@ -84,7 +84,7 @@ status: stable
 ::: indent
 **⟪उपनीय⟫** “在（……）引导/带领之后”
 
-**⟪प्रभूय⟫** “nachdem er (...) herausgeragt ist / war” “nachdem er (...) Macht hatte”
+**⟪प्रभूय⟫** “nachdem er (...) herausgeragt ist / war” “nachdem er (...) Macht hatte” <!-- TODO: Fallback translation -->
 
 **⟪प्राप्य⟫** “在……之后获得/曾获得”
 :::

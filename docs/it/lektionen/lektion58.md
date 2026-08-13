@@ -29,9 +29,9 @@ Prima di -vas e -vahe, la vocale tematica -a- viene sostituita da -ā-.
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
-| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
-| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \&lt;⟪भवावहे⟫\&gt; |
+| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \&lt;⟪भवेथे⟫\&gt;:brbhav-a + īthe |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \&lt;⟪भवेते⟫\&gt; | &lt;!-- TODO: Fallback translation --&gt;
 
 ### 58.2.2. Quarta classe del presente (⟪दिवादिगणः⟫)
 
@@ -191,9 +191,9 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \<⟪जुहुवहे⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \&lt;⟪जुहुवहे⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \&lt;⟪जुह्वाथे⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \&lt;⟪जुह्वाते⟫\&gt; |
 :::
 ⟪धा⟫ 3U "porre, deporre, collocare"
 
@@ -303,26 +303,34 @@ Il suffisso di formazione del tema + le desinenze dell'aoristo iṣ-Aorist sono 
 
 *   **Radici con vocale breve prima di consonante semplice: grado pieno nel P e Ā**  
     Esempi:  
-    ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫  
-    ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+::: indent
+⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
+⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+:::
 
 *   **Radici con vocale finale:**
     *   **P: grado allungato**
     *   **Ā: grado pieno**
 
     Esempi:  
-    ⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+::: indent
+⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+:::
 
 *   **Radici in -ar., -al nonché ⟪वद्⟫ 1P "dire", ⟪व्रज्⟫ 1P "andare via": P: grado allungato**  
     Esempi:  
-    ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫  
-    ⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+::: indent
+⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫
+⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+:::
 
 *   **Altre radici della forma (Cons.-)Cons.-a-Cons.: nel P opzionalmente grado allungato (non vale per le radici in -h, -m, -y nonché alcune altre radici)**  
     Esempio:  
-    ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
-    ma:  
-    ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+::: indent
+⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
+ma:
+⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+:::
 :::
 Paradigmi:
 
@@ -360,16 +368,24 @@ Paradigmi:
 **Particolarità:**
 
 1.  In alcune radici la vocale di giunzione -i- nel ⟪आत्मनेपद⟫ può essere sostituita da -ī-. Dopo ⟪ग्रह्⟫ 9U "afferrare" questa sostituzione deve avvenire nel P e Ā:  
-    ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+::: indent
+⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+:::
 
 2.  Le radici della 8ª classe di presente in -n (o -ṇ) possono essere di grado ridotto nella 2.3.sg.Ā:  
-    ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aoristo della radice) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+::: indent
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aoristo della radice) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+:::
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā ecc. possono assumere, al posto della 3.sg. Ā, anche la forma dell'aoristo passivo:  
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
 4.  ⟪विज्⟫ 7P non ha ablaut:  
-    ⟪अविजीत्⟫
+::: indent
+⟪अविजीत्⟫
+:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

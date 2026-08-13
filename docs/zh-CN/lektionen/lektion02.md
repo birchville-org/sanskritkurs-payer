@@ -1,8 +1,8 @@
 ---
-title: Lektion 2
-subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
+title: 第2课
+subtitle: "名词句与变格基础"
 lesson_id: 2
-category: "Grammatik"
+category: "语法"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---

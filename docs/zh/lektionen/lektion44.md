@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 44
+# 第44課
 
 ## 44.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix <!-- TODO: Fallback translation -->
 

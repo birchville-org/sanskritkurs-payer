@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # ਪਾਠ 36
 
@@ -63,7 +63,7 @@ status: stable
 - ਵਿਸ਼ੇਸ਼ਣ ਦਾ ਅੰਤਿਮ ਸਵਰ -ām ਤੋਂ ਪਹਿਲਾਂ guṇa ਬਣ ਜਾਂਦਾ ਹੈ।
 - ⟪अस्⟫ ਅਤੇ ⟪भू⟫ ਆਤਮਨੇਪਦ ਕ੍ਰਿਆਵਾਂ ਵਿੱਚ ਵੀ ਪਰਾਸਮੈਪਦ ਵਿੱਚ ਸੰਯੁਕਤ ਕੀਤੇ ਜਾਂਦੇ ਹਨ⟪।⟫
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 ਉਦਾਹਰਣਾਂ:
 
@@ -518,3 +518,4 @@ D) ਅਨੁਵਾਦ ਕਰੋ:
 - **lekt3606.jpg**: ਚਿਤਰ:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫ ਮੁਦਰਾ [ਚਿਤਰ ਸਰੋਤ: Payer]
 - **lekt3607.jpg**: ਚਿਤਰ: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [ਚਿਤਰ ਸਰੋਤ: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- ਪ੍ਰਾਪਤੀ ਦਿਨ  2008-12-29. --   Creative  Commons ਲਾਇਸੰਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
 :::
+ <!-- TODO: Fallback translation -->

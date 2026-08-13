@@ -3,7 +3,7 @@ title: Lektion 18
 lesson_id: 18
 ---
 
-# Lektion 18
+# Lekcija 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
@@ -111,17 +111,29 @@ Beispiele:
 Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
 
 1.  Ähnlichkeit (⟪तत्सादृश्यम्⟫):
-    ⟪अब्राह्मणः⟫ = ein Kṣatriya oder Vaiśya, der die heilige Schnur (⟪यज्ञोपवीत⟫ n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein
+::: indent
+⟪अब्राह्मणः⟫ = ein Kṣatriya oder Vaiśya, der die heilige Schnur (⟪यज्ञोपवीत⟫ n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein
+:::
 2.  Fehlen, Nichtvorhandensein (⟪तदभावः⟫):
-    ⟪अज्ञानम्⟫ = Unwissenheit (Fehlen von Wissen)
+::: indent
+⟪अज्ञानम्⟫ = Unwissenheit (Fehlen von Wissen)
+:::
 3.  Andersheit (⟪तदन्यत्वम्⟫):
-    ⟪अपटम्⟫ = etwas, das kein Stoff / Gewand (⟪पट⟫ m: Gewebe, Gewand) ist
+::: indent
+⟪अपटम्⟫ = etwas, das kein Stoff / Gewand (⟪पट⟫ m: Gewebe, Gewand) ist
+:::
 4.  Kleinheit (⟪तदल्पता⟫):
-    ⟪अनुदरम्⟫ = ein kleiner Bauch (ein Nicht-Bauch)
+::: indent
+⟪अनुदरम्⟫ = ein kleiner Bauch (ein Nicht-Bauch)
+:::
 5.  Missbilligung (⟪अप्राशास्त्यम्⟫):
-    ⟪अकालः⟫ = Unzeit
+::: indent
+⟪अकालः⟫ = Unzeit
+:::
 6.  Feindschaft (⟪निरोधः⟫):
-    ⟪असुरः⟫ = Gegengott (nach der falschen Etymologie a-sura)
+::: indent
+⟪असुरः⟫ = Gegengott (nach der falschen Etymologie a-sura)
+:::
 
 Folgender Vers fasst diese Bedeutungen zusammen:
 

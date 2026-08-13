@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Урок 61
 
@@ -34,7 +34,7 @@ status: stable
 ### 61.1.2. Жіночі кореневі іменники на -ī
 
 ::: grammar-box
-**Vor vokalischer Закінчення wird -ī durch -iy ersetzt.**
+**Vor vokalischer Закінчення wird -ī durch -iy ersetzt.** &lt;!-- TODO: Fallback translation --&gt;
 
 **Окрім утворень із регулярними відмінковими закінченнями, у Дав.Від.Род.Міс.одн. та Род.множ. трапляються також утворення за зразком багатоскладних жіночих іменників на -ī (⟪देवी⟫).**
 :::
@@ -114,7 +114,7 @@ status: stable
 
 **Deklination analog zu den femininen Коріньnomina auf -ī**
 :::
-Парадигма:
+Парадигма: &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪भू⟫ f. "Земля"
 
@@ -201,7 +201,7 @@ status: stable
 ::: grammar-box
 **Форма кореня: Корінь зазвичай має ту саму форму, що й у простому майбутньому часі. Те саме стосується сполучного голосного -i-.**
 :::
-Приклади:
+Приклади: &lt;!-- TODO: Fallback translation --&gt;
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ тощо |
 | --- | --- |
@@ -232,18 +232,26 @@ status: stable
 **Інтенсив означає:**
 
 *   **що особа або річ знову і знову робить або зазнає того, що виражено основою**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "він знову і знову робить"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "він (стає) часто"  
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "він знову і знову робить"
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "він (стає) часто"
+:::
 
 *   **що особа або річ інтенсивно робить або зазнає того, що виражено основою:**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "він робить інтенсивно, він робить старанно"  
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "він робить інтенсивно, він робить старанно"
+:::
 
 *   **для основ, що виражають рух, інтенсив означає зігнутий рух:**  
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "він йде зігнуто" (НЕ: "він часто йде")  
+::: indent
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "він йде зігнуто" (НЕ: "він часто йде")
+:::
 
 *   **для деяких основ (перелік: Кільгорн, Граматика § 458b) інтенсив означає докір:**  
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "він погано ріже"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "він погано сідає"
+::: indent
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "він погано ріже"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "він погано сідає"
+:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -280,7 +288,7 @@ status: stable
 Правила докладно у Кільгорна, Граматика § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Приклади:
+Приклади: &lt;!-- TODO: Fallback translation --&gt;
 
 | ⟪दा⟫ 3-я особа | ⟪देदीय⟫- |
 | --- | --- |
@@ -553,7 +561,7 @@ status: stable
 :::
 
 ::: indent
-**Вестергаард**, Нільс Людвіг \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- С. 335 - 341.
+**Вестергаард**, Нільс Людвіг \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- С. 335 - 341.
 :::
 ## 61.5. Бенедиктив (⟪आशीर्लिङ्⟫)
 
@@ -775,7 +783,7 @@ status: stable
 
 **lekt6110:** Карлі [Джерело зображення: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Зазначення авторства, некомерційне використання, без обробки)]
 
-**lekt6111:** [Джерело зображення: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Зазначення авторства, поділіться аналогічно)]
+**lekt6111:** [Джерело зображення: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Зазначення авторства, поділіться аналогічно)] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt6113:** Таїланд - เมืองไทย [Джерело зображення: Подорож «Відбитки: Від реальності до екрану» (Ронн на березі). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Зазначення авторства, некомерційне використання, без обробки)]
 
@@ -785,7 +793,7 @@ status: stable
 
 **lekt6118:** [Джерело зображення: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Зазначення авторства)]
 
-**lekt6117:** Народ апатані, Аруначал-Прадеш [Джерело зображення: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
+**lekt6117:** Народ апатані, Аруначал-Прадеш [Джерело зображення: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt6101:** Халбід (ಹಳೆಬೀಡು), XII/XIII ст. н. е. [Джерело зображення: Quadell / Вікіпедія. GNU FDLicense]
 

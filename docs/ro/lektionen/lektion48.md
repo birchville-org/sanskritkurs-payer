@@ -152,7 +152,7 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. A treia clasă de prezintă (⟪जुहोत्यादि⟫)
+### 48.2.4. A treia clasă de prezintă (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Sfârșitul 3.pl.P cu \-atu !**
@@ -191,7 +191,7 @@ Nota: ¹ **⟪धेहि⟫** din \*dhazdhi: dispariția sunetului sibilant in
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Despre formarea substantivelor: sufixele -a și -ya de tipul ⟪तद्धित⟫
+## 48.3. Despre formarea substantivelor: sufixele -a și -ya de tipul ⟪तद्धित⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Cu sufixul **-a** și (mai rar) **-ya** se poate deriva un substantiv din alt substantiv. În acest caz, prima silabă a substantivului original primește gradul lung (**⟪वृद्धि⟫**). Dacă radicalul cuvântului original se termină deja în **-a**, atunci **⟪वृद्धि⟫** este singurul semn al derivării, deoarece nu se produce nicio modificare la finalul radicalului.
@@ -228,7 +228,7 @@ Exemple:
 | **\-a** | Înlocuirea **\-a** a cuvântului de bază cu noul sufix **\-a**.:brVezi exemplele de mai sus. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **alte tipuri de declinare:** | vezi Wackernagel, Gramatica sanscrită veche II,2 § 38 |
+| **alte tipuri de declinare:** | vezi Wackernagel, Gramatica sanscrită veche II,2 § 38 | <!-- TODO: Fallback translation -->
 
 Înainte de sufixul **-ya**, finalul radicalului este tratat similar ca înainte de sufixul **-a**.
 :::
@@ -248,7 +248,7 @@ de exemplu, **⟪व्याघ्र⟫** m. "tigru" » **⟪वैयाघ�
 Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4801))
 :::
-## 48.4. Listă de cuvinte
+## 48.4. Listă de cuvinte <!-- TODO: Fallback translation -->
 
 ⟪श्वस्⟫ : mâine
 
@@ -265,7 +265,7 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4802))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4803.webp)
@@ -273,7 +273,7 @@ Fig.: ⟪तन्त्री⟫
 Muzician la sitar = ⟪सितारवादकः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: femeie, soție ; feminin
+⟪स्त्री⟫ f.: femeie, soție ; feminin <!-- TODO: Fallback translation -->
 
 Declinare:
 
@@ -299,7 +299,7 @@ Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : a atârna, a se atașa
 
-⟪कुमार⟫ m.: copil, tânăr, prinț; epitet al lui ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
+⟪कुमार⟫ m.: copil, tânăr, prinț; epitet al lui ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4805.webp)
@@ -307,7 +307,7 @@ Fig.: ⟪कुमारः⟫
 Festivalul Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: fată, fiică
+⟪कुमारी⟫ f.: fată, fiică <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -327,7 +327,7 @@ Fig.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4807))
 :::
-⟪स्थाविर⟫ n.: (înaltă) bătrânețe
+⟪स्थाविर⟫ n.: (înaltă) bătrânețe <!-- TODO: Fallback translation -->
 
 ⟪वाच्य⟫ 3: de asemenea: demn de mustrare
 

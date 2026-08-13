@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 50
 
@@ -189,7 +189,7 @@ Fig.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : ver
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : ver <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. ⟪चचक्षे⟫
@@ -305,7 +305,7 @@ Explicações:
 
 **lekt5003:** [Fonte da imagem: dhyanji. -- [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Acedido em 2009-01-12. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Fonte da imagem: Kounosu / Wikipedia. GNU FDLicense]
+**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Fonte da imagem: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt5008:** Ganeshpuri, a 80 km de Mumbai (⟪मुंबई⟫) [Fonte da imagem: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Acessado em 2009-01-13. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, uso não comercial, Partilha nos Mesmos Termos)]
 

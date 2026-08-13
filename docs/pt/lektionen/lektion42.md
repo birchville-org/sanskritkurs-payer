@@ -62,7 +62,7 @@ Com o sufixo ⟪कृत्⟫ -⟪तृ⟫, que ocorre com muita frequência,
 
 **Formação:**
 
-*   **raiz em grau forte + -tṛ**
+*   **raiz em grau forte + -tṛ** <!-- TODO: Fallback translation -->
 
 ou
 
@@ -329,14 +329,14 @@ Explicação das expressões destacadas em **vermelho**:
 Fig.: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4205))
 :::
-⟪मिथिला⟫ f. Nome próprio: capital de ⟪विदेह⟫
+⟪मिथिला⟫ f. Nome próprio: capital de ⟪विदेह⟫ <!-- TODO: Fallback translation -->
 
 ::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4206))
 :::
-⟪जनक⟫ m. Nome próprio: rei de ⟪विदेह⟫
+⟪जनक⟫ m. Nome próprio: rei de ⟪विदेह⟫ <!-- TODO: Fallback translation -->
 
 ⟪गुरुतर⟫ 3: Comparativo de ⟪गुरु⟫ 3: mais pesado, muito pesado
 

@@ -14,18 +14,18 @@ lesson_id: 53
 ::: indent
 ⟪अश्विनौ⟫ "kaksi Aśvinia"
 :::
-**Kaksikon käyttö on pakollista, kun kyseessä ovat kaksi asiaa jne.:**
+**Kaksikon käyttö on pakollista, kun kyseessä ovat kaksi asiaa jne.:** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪हस्तौ⟫ "ihden yksilön kädet"
 ⟪पादौ⟫ "jalanpäät (ihmisen, apinan tai muun kaksijalkaisen)"
 :::
-**Joskus kaksikko tarkoittaa samaan luokkaan (lajiin, sukuun) kuuluvaa uros- ja naaras yksilöä:**
+**Joskus kaksikko tarkoittaa samaan luokkaan (lajiin, sukuun) kuuluvaa uros- ja naaras yksilöä:** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪पितरौ⟫ "isä ja äiti = vanhemmat"
 :::
-**Sanat, jotka tarkoittavat "paria" – esim. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. – käytetään kuitenkin aina yksikössä, ellei kyseessä ole kaksi tai useampaa paria:**
+**Sanat, jotka tarkoittavat "paria" – esim. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. – käytetään kuitenkin aina yksikössä, ellei kyseessä ole kaksi tai useampaa paria:** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪बाहुद्वयम्⟫ "pari käsivarsia"
@@ -34,14 +34,14 @@ lesson_id: 53
 ![](/images/lekt5301.webp)
 Kuv.: ⟪मार्जारयुगम्⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt5301))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5302.webp)
 Kuv.: ⟪हस्तौ⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5302))
 :::
-## 53.2. Nomien kaksikon päätteen muodot
+## 53.2. Nomien kaksikon päätteen muodot <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | Maskulininum/feminiini :br ⟪पुंस्⟫/⟪स्त्री⟫ | neutri :br ⟪नपुंसक⟫ 
@@ -53,9 +53,9 @@ Kuv.: ⟪हस्तौ⟫
 ::: grammar-box
 **Vartalon asteistuksen omaavilla nomineilla nominatiivin, akkusatiivin ja vokatiivin kaksikko m.f.:ssa on vahva vartalo**
 :::
-## 53.3. Konsonanttivartaloisten vartaloiden kaksikko
+## 53.3. Konsonanttivartaloisten vartaloiden kaksikko <!-- TODO: Fallback translation -->
 
-### 53.3.1. Vartaloita, joissa ei ole asteistusta
+### 53.3.1. Vartaloita, joissa ei ole asteistusta <!-- TODO: Fallback translation -->
 
 ⟪सत्यवाच्⟫ 3 "totuutta puhuva"
 
@@ -199,7 +199,7 @@ Kuv.: ⟪भरन्तौ⟫
 **-a-päätteiset varjot**
 
 ⟪देव⟩ m. "jumala"  
-⟪फल⟩ n. "hedelmä"
+⟪फल⟩ n. "hedelmä" <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | neutri :br ⟪नपुंसक⟫ |
@@ -297,7 +297,7 @@ Esimerkit:
 ⟪शीतोष्णे⟫ "Kylmyys ja lämpö"
 :::
 ::: grammar-box
-**Kun kaksi sukulaissanaa päättymällä -ṛ (tai kaksi substantiivia päättymällä -ṛ, jotka ovat nimet uhripapille) yhdistetään dvandvaksi, ensimmäinen osa on nominatiivin yksikön muodossa:**
+**Kun kaksi sukulaissanaa päättymällä -ṛ (tai kaksi substantiivia päättymällä -ṛ, jotka ovat nimet uhripapille) yhdistetään dvandvaksi, ensimmäinen osa on nominatiivin yksikön muodossa:** <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -308,7 +308,7 @@ Esimerkit:
 ::: indent
 ⟪पितापुत्रौ⟫ "Isä ja poika"
 :::
-**Kun kahden jumalan, joita yleensä mainitaan uhreissa, nimet muodostavat dvandvan, ensimmäisen osan päätteinen vokaali yleensä pidennetään:**
+**Kun kahden jumalan, joita yleensä mainitaan uhreissa, nimet muodostavat dvandvan, ensimmäisen osan päätteinen vokaali yleensä pidennetään:** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪मि⟫:sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra ja Varuṇa"
@@ -354,29 +354,29 @@ Seuraavat pronominaladjektiivit taivutetaan kaikissa sijamuodoissa kuten ⟪य�
 *   ⟪उभय⟫ 3 "molemmat" -sanalla ei ole duaalia. Yksikössä ja monikossa mask. ja neutr. se taipuu kuten ⟪सर्व⟫. Feminiini: ⟪उभयी⟫ (kuten ⟪देवी⟫).
 *   ⟪उभ⟫ 3 "molemmat" käytetään vain duaalissa ja se taipuu kuten ⟪देव⟫ m., ⟪फल⟫ n. tai ⟪देवता⟫ f.
 
-Seuraavat pronominaaliadjektiivit taipuvat kuten ⟪सर्व⟫. Abl.lok.sg.m.n:ssä sekä nom.pl:ssä ne voidaan taipua -a- tai -ā-deklinaation mukaan:
+Seuraavat pronominaaliadjektiivit taipuvat kuten ⟪सर्व⟫. Abl.lok.sg.m.n:ssä sekä nom.pl:ssä ne voidaan taipua -a- tai -ā-deklinaation mukaan: <!-- TODO: Fallback translation -->
 
 *   ⟪अपर⟫ 3 "toinen"
 *   ⟪उत्तर⟫ 3 "ylempi, pohjoinen, seuraava"
 *   ⟪पर⟫ 3 "seuraava, myöhempi"
 *   ⟪पूर्व⟫ 3 "edeltävä, itäinen"
-*   ⟪स्व⟫ 3 "oma (minun, sinun, hänen ...)"
+*   ⟪स्व⟫ 3 "oma (minun, sinun, hänen ...)" <!-- TODO: Fallback translation -->
 
-## 53.8. Epäsäännöllinen komparaatio
+## 53.8. Epäsäännöllinen komparaatio <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Tietyt adjektiivit muodostavat komparatiivin ja superlatiivin seuraavilla ⟪कृत्⟫-päätteillä (!):**
 
 *   Komparatiivi: **-īyas**
-*   Superlatiivi: **-iṣṭha**
+*   Superlatiivi: **-iṣṭha** <!-- TODO: Fallback translation -->
 
-**Kun ⟪तद्धित⟫-päätteet -⟪तर⟫ ja -⟪तम⟫ liitetään adjektiivin maskuliinin vartalon perään, päätteet -⟪ईयस्⟫ ja -⟪इष्ठ⟫ liitetään vartalon, josta adjektiivi on johdettu (jos sellainen on olemassa!), juureen. Vartalon vokaali on korkealla asteella.**
+**Kun ⟪तद्धित⟫-päätteet -⟪तर⟫ ja -⟪तम⟫ liitetään adjektiivin maskuliinin vartalon perään, päätteet -⟪ईयस्⟫ ja -⟪इष्ठ⟫ liitetään vartalon, josta adjektiivi on johdettu (jos sellainen on olemassa!), juureen. Vartalon vokaali on korkealla asteella.** <!-- TODO: Fallback translation -->
 
 **-iṣṭha-päätteiset superlatiivit (naispuolinen: iṣṭhā) taivutetaan a- tai ā-vartalojen tapaan.**
 
 **Deklination von -īyas siehe unten.**
 :::
-Esimerkit:
+Esimerkit: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Juuri | Adjektiivi | Komparatiivi | Superlatiivi |
@@ -384,12 +384,12 @@ Esimerkit:
 | ⟪क्षिप्⟫ 6P "heittää" | ⟪क्षिप्र⟫ 3 "nopea" | :sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
 | ⟪स्था⟫ 1P "seistä" | ⟪स्थिर⟫ 3 "vakaa, kiinteä" | :sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
 :::
-**Nämä päätteet liitettäessä noudatettavat erityiset säännöt:**
+**Nämä päätteet liitettäessä noudatettavat erityiset säännöt:** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Sääntö 1:** **Monitavuisen maskuliinivarsan päätteessä oleva vokaali tai päätteessä ja sitä edeltävässä tavussa olevat vokaalit putoavat.**
 :::
-Esimerkit:
+Esimerkit: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Adjektiivi | Komparatiivi | Superlatiivi |
@@ -412,14 +412,14 @@ Esimerkit:
 ::: grammar-box
 **Sääntö 3:** **-ṛ:-n tilalle tulee -ra-, jos sen edellä on alkuvokaali ja perässä vain yksi konsonantti.**
 :::
-Esimerkki:
+Esimerkki: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Adjektiivi | Komparatiivi | Superlatiivi |
 | --- | --- 
 | ⟪पृथु⟫ 3 "leveä" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
 :::
-**Yleisimpien tähän asti opetettujen adjektiivien vertailumuotojen luettelo:**
+**Yleisimpien tähän asti opetettujen adjektiivien vertailumuotojen luettelo:** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Adjektiivi | Komparatiivi | Superlatiivi |
@@ -444,7 +444,7 @@ Esimerkki:
 Kuv: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5309))
 :::
-**Jotkut tämän tyyppiset vertailumuodot eivät lainkaan omaa vartalon sukua olevaa perusmuotoa, ne ovat "defektiivisiä". Siksi seuraavat muodot on erityisesti pidettävä mielessä:**
+**Jotkut tämän tyyppiset vertailumuodot eivät lainkaan omaa vartalon sukua olevaa perusmuotoa, ne ovat "defektiivisiä". Siksi seuraavat muodot on erityisesti pidettävä mielessä:** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | (Adjektiivi) | Komparatiivi | Superlatiivi |
@@ -456,12 +456,12 @@ Kuv: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "vanha") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "vanha") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. -īyas-päätteisten komparatiivien taivutus
+## 53.9. -īyas-päätteisten komparatiivien taivutus <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Komparativit muodostetaan pääte -īyas, ja feminiinimuoto päättyy -īyasī (taivutus kuten ⟪देवी⟫). Maskuliini- ja neutrummuodot taivutetaan seuraavan kaavikon mukaisesti.**
 :::
-::: grammar-box
+::: grammar-box <!-- TODO: Fallback translation -->
 
 |   | ⟪एकवचनम्⟫ || ⟪द्विवचनम्⟫ || ⟪बहुवचनम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -482,37 +482,39 @@ Kuv: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 Kuv.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5303))
 :::
-Katso myös:
+Katso myös: <!-- TODO: Fallback translation -->
 
 > **Payer, Alois (1944–):** Johdatus sanskritintekstien eksegeesiin : käsikirjoitus. -- Luku 8: Oikea eksegeesi, osa II: Yksittäisiä kysymyksiä synkronisesta ymmärtämisestä. -- Liite B: Sanskritintekstien metriikasta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Mitan määrittämisen merkitys
 
-Mitan määrittäminen on tärkeää seuraavista syistä:
+Mitan määrittäminen on tärkeää seuraavista syistä: <!-- TODO: Fallback translation -->
 
-1.  **Estetiikka:** runomitta tekee osaltaan esityksen kauneudesta. Tietyt runomitat voivat myös palvella tiettyjen mielialojen ilmaisemista, tai ne on liitetty tiettyihin yhteiskuntaluokkiin (⟪वर्ण⟩). Eri runomittoja recitoidaan eri tavoin. :br Hyvän kuvan estettisestä vaikutuksesta antaa esimerkiksi ⟪शिवताण्डवस्तोत्र⟩ (Śivan tanssin ylistys): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Estetiikka:** runomitta tekee osaltaan esityksen kauneudesta. Tietyt runomitat voivat myös palvella tiettyjen mielialojen ilmaisemista, tai ne on liitetty tiettyihin yhteiskuntaluokkiin (⟪वर्ण⟩). Eri runomittoja recitoidaan eri tavoin.
+Hyvän kuvan estettisestä vaikutuksesta antaa esimerkiksi ⟪शिवताण्डवस्तोत्र⟩ (Śivan tanssin ylistys): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Tekstikritiikki:** virheet runomitassa voivat viitata siihen, että tekstiä ei ole välitetty oikein kohdasta. Runomitta auttaa tekemään tekstiparannuksia.
-3.  **Kronologia:** tietyt runomitat ovat kokeneet tiettyjä muutoksia historian kuluessa. Tämä voi auttaa tekstin suunnilleen ajoittamisessa. Katso **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; sama kirjoittaja: Zur Geschichte des Śloka. -- Molemmat julkaistu teoksessa: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Toim. Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 osaa. -- (Glasenapp-Stiftung ; ...). -- Os. 2. -- 1967. -- Ss. 1188 - 1255.
+3.  **Kronologia:** tietyt runomitat ovat kokeneet tiettyjä muutoksia historian kuluessa. Tämä voi auttaa tekstin suunnilleen ajoittamisessa. Katso **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; sama kirjoittaja: Zur Geschichte des Śloka. -- Molemmat julkaistu teoksessa:
+**Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Toim. Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 osaa. -- (Glasenapp-Stiftung ; ...). -- Os. 2. -- 1967. -- Ss. 1188 - 1255. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5304.jpg)
 Kuv.: ⟪हर्मन्⟩-⟪ओल्डन्बेर्ग्⟩
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5304))
 :::
-### 53.10.2. Mitojen tyypit
+### 53.10.2. Mitojen tyypit <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Intialaiset tekevät eron:**
 
 *   **⟪वृत्त⟫ n.:** Mitan tyypit, joissa tavujen lukumäärä (⟪अक्षर⟫) on kiinteästi määrätty
-*   **⟪जाति⟫ f.:** Mitan tyypit, joissa metrisen pituusyksiköiden summa (⟪मात्रा⟫) (morat) on kiinteästi määrätty (näistä myöhemmin)
+*   **⟪जाति⟫ f.:** Mitan tyypit, joissa metrisen pituusyksiköiden summa (⟪मात्रा⟫) (morat) on kiinteästi määrätty (näistä myöhemmin) <!-- TODO: Fallback translation -->
 
 **Niissä mitan tyypeissä, joissa tavujen lukumäärä on kiinteästi määrätty (⟪वृत्त⟫), voidaan aluksi tehdä seuraava erottelu:**
 
 *   Mitan tyypit, joissa tavujen lukumäärä on kiinteästi määrätty mutta näiden tavujen kvantiteetti vain osittain
 *   Mitan tyypit, joissa sekä tavujen lukumäärä että niiden kvantiteetti on kiinteästi määrätty
 :::
-### 53.10.3. Tavujen metristä kvantiteettia
+### 53.10.3. Tavujen metristä kvantiteettia <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Merkilma**
@@ -532,7 +534,7 @@ Kuv.: ⟪हर्मन्⟩-⟪ओल्डन्बेर्ग्⟩
 *   samoin jos se sijaitsee konsonanttiyhtymän edessä
 *   sekä jos tavu on säkeenvälin (pāda) lopussa."
 ::: grammar-box
-**Yksi tavu on**
+**Yksi tavu on** <!-- TODO: Fallback translation -->
 
 *   joko **⟪लघु⟫ = kevyt**
 *   tai **⟪गुरु⟫ = raskas**
@@ -542,9 +544,9 @@ Kuv.: ⟪हर्मन्⟩-⟪ओल्डन्बेर्ग्⟩
 *   sen vokaali on lyhyt ja tätä vokaalia
 *   kein Anusvāra,
 *   ei seuraa visargaa,
-*   kahta konsonanttia.
+*   kahta konsonanttia. <!-- TODO: Fallback translation -->
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
 
 **Kaikki muut tavut ovat ⟪गुरु⟩ = raskaita. Runopuoliskon viimeinen tavu (⟪पाद⟩) on aina ⟪गुरु⟩.**
 
@@ -584,10 +586,10 @@ Esimerkki: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 "Ślokassa pādan kuudes tavu on raskas,  
 viides kaikissa pādoissa kevyt  
 Seitsemäs tavu on lyhyt toisessa ja neljännessä pādassa, pitkä molemmissa muissa."
-Tärkein runomitta eepoksissa (⟪महाभारत⟫, ⟪रामायण⟫) sekä lukemattomissa muissa teoksissa on śloka ("huuto", "äänne", "säkeistö", juuresta ⟪श्रु⟫ "kuulla").
+Tärkein runomitta eepoksissa (⟪महाभारत⟫, ⟪रामायण⟫) sekä lukemattomissa muissa teoksissa on śloka ("huuto", "äänne", "säkeistö", juuresta ⟪श्रु⟫ "kuulla"). <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**⟪श्लोक⟫ on kaksoissäe, joka koostuu puolisäkeistä, joissa on 16 tavua kussakin. Jokainen puolisäe jakautuu edelleen kahteen neljännessäkeeseen (⟪पाद⟫), joissa on 8 tavua kussakin. Jokainen neljännessäe jakautuu kahteen osaan, joissa on 4 tavua kussakin. Koko säe (⟪पद्य⟫ n.) koostuu siis neljästä ⟪पाद⟫:sta (m. "jalka, neljännes"). Neljä ⟪पाद⟫:ta numeroidaan kirjaimin a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫).**
+**⟪श्लोक⟫ on kaksoissäe, joka koostuu puolisäkeistä, joissa on 16 tavua kussakin. Jokainen puolisäe jakautuu edelleen kahteen neljännessäkeeseen (⟪पाद⟫), joissa on 8 tavua kussakin. Jokainen neljännessäe jakautuu kahteen osaan, joissa on 4 tavua kussakin. Koko säe (⟪पद्य⟫ n.) koostuu siis neljästä ⟪पाद⟫:sta (m. "jalka, neljännes"). Neljä ⟪पाद⟫:ta numeroidaan kirjaimin a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫).** <!-- TODO: Fallback translation -->
 
 **Ślokan rakenne:**
 
@@ -602,9 +604,9 @@ Tärkein runomitta eepoksissa (⟪महाभारत⟫, ⟪रामाय�
 ::: metrik-schema
 × × × ×   **◡ — ◡ —**
 :::
-Toisen ja kolmannen tavun tulee olla ⟪पाद⟫, ei samanaikaisesti ⟪लघु⟫. Säkeissä b ja d tavun 2–4 ei saa olla ¯ ˘ ¯.
+Toisen ja kolmannen tavun tulee olla ⟪पाद⟫, ei samanaikaisesti ⟪लघु⟫. Säkeissä b ja d tavun 2–4 ei saa olla ¯ ˘ ¯. <!-- TODO: Fallback translation -->
 
-**Aliskaavat (⟪विपुला⟩) säkeille a ja c:**
+**Aliskaavat (⟪विपुला⟩) säkeille a ja c:** <!-- TODO: Fallback translation -->
 
 **⟪विपुला⟫ 1:**
 ::: metrik-schema
@@ -635,9 +637,9 @@ Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
 ::: deleteme-box
-**Lähteet**
+**Lähteet** <!-- TODO: Fallback translation -->
 
-**Payer, Alois (1944–):** Sanskritkurssi. -- 53. Luento 53 (Semesterialan loma). -- Versio päivätty 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Sanskritkurssi. -- 53. Luento 53 (Semesterialan loma). -- Versio päivätty 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -647,5 +649,5 @@ Alois Maria Payer
 ::: deleteme-box
 
 **Payer, Alois (1944–):** Sanskritkurssi. -- 53. Luento 53 (Semesterialan loma). -- Kuvan lähde alkuperäiseen taulukkoon 53.9: Alkuperäisen lähteen (Payer) kuvakaappaus.
-:::
+::: <!-- TODO: Fallback translation -->
 

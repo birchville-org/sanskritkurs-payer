@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 47
+# Lectio 47
 
 ## 47.1. Imperativus (⟪लोट्⟫)
 
@@ -51,7 +51,7 @@ Exempla:
 ::: grammar-box
 Imperia civilis per Imperativum Passivum saepe exprimuntur.
 :::
-Exempla:
+Exempla: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "I, quaeso, intrate!"
@@ -78,7 +78,7 @@ Imperativus a tema praesentis formatur.
 Nota: ¹ Desinentiae personarum secundae et tertiae singularis per -tāt substitui possunt, cum benedictio exprimenda sit:
 
 ::: indent
-⟪भद्रो⟫ ⟪भवतात्⟫ "Felix esse velis!" "Felix esse velit!"
+⟪भद्रो⟫ ⟪भवतात्⟫ "Felix esse velis!" "Felix esse velit!" <!-- TODO: Fallback translation -->
 
 ⟪शुभं⟫ ⟪भवतु⟫ aut ⟨⟪शुभं⟫ ⟪भवतात्⟫ "Bonum sit!" "Omne bonum!"
 :::
@@ -239,7 +239,7 @@ Equum verbera!
 
 Ebrii estote
 
-Equus onus trahere debet.
+Equus onus trahere debet. <!-- TODO: Fallback translation -->
 
 Mundos ordinare volumus.
 

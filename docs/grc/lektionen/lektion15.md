@@ -42,7 +42,7 @@ status: stable
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > κτλ.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. Προσδιοριστικὰ σύνθετα μετὰ ἐπιθετικοῦ / παραθετικοῦ πρώτου μέλους = Karmadhāraya ἀρσ. = ⟪कर्मधारय⟫
@@ -71,16 +71,20 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   ἐὰν Καρμαθάριγια σύγκρισιν ἐκφράζῃ, τότε ὁ συγκρινόμενος ἐν τῷ ὀπίσω μέλει τοῦ συνθέτου τίθεται:
 
+::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ἀνὴρ ὡς λέων"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ἀνὴρ ὡς τίγρις"
+:::
 
 *   ἐὰν δὲ Καρμαθάριγια ἑρμηνείαν (προσδιορισμὸν τοῦ ὀπίσω μέλους διὰ οὐσιαστικοῦ) ἐκφράζῃ, τότε τὸ προσδιορίζον ἐν τῷ προτέρῳ μέλει τίθεται, καθὼς καὶ ὁ κοινὸς κανὼν περὶ τῆς τάξεως τῶν μελῶν ἐν Τάτπουρουσᾳ ἀπαιτεῖ:
 
+::: indent
 ⟪नरसिंहः⟫ δύναται καὶ ἀνάλυσιν ἔχειν: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "λέων τις, ὅς ἐν ἀληθείᾳ ἄνηρ ἐστίν."
+:::
 
 Τοιαῦται ἀποδοτικαὶ Καρμαθάραϊαι ἐν τοῖς ντόπιοις ὑπομνήμασι, καθάπερ ἐν τῷ προκειμένῳ παραδείγματι, διὰ ⟪एव⟫ ἀναλύονται.
 
@@ -304,7 +308,7 @@ Fig.: ⟪इन्द्रः⟫
 
 ⟪एव⟫ (μετατεθέν): ἰσχυρὸν τὸ προηγούμενον, ἀναλογεῖ τῇ Γερμανικῷ ἰσχύσει, εἶδος ἐμοτικόν `\&lt;!\&gt;`, π.χ. ⟪सत्यमेव⟫ ⟪जयति⟫ "μόνη ἡ ἀλήθεια νικᾷ", "ἀκριβὴς ἡ ἀλήθεια νικᾷ", "ἡ ἀλήθεια νικᾷ"
 
-⟪अरि⟫ μ.: ἐχθρός (κατὰ Thieme, Der Fremdling im Ṛgveda: ἀρχικῶς = ξένος)
+⟪अरि⟫ μ.: ἐχθρός (κατὰ Thieme, Der Fremdling im Ṛgveda: ἀρχικῶς = ξένος) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आर्य⟫ 3: ἀριστός, εὐγενής· ὁ ἀριστεύων (αὑτὸν καλούμενοι οἱ παλαιοὶ Ἰνδοὶ τὰς Σανσκριτὶ λαλοῦντες, κυρίως: φιλόξενος (Thieme))· ὁ εὐγενής, ἀνὴρ τιμιώτατος

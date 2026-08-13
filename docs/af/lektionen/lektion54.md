@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 54
+# Les 54
 
 ## 54.1. Vorbemerkung
 
@@ -194,38 +194,50 @@ Hochstufe:
 
 *   Wurzeln mit kurzem Vokal (ausser a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am
     Beispiele:  
-    ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"  
-    ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestossen"
+::: indent
+⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestossen"
+:::
 
 Dehnstufe:
 
 *   Wurzeln mit auslautendem Vokal
     Beispiele:  
-    ⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"  
-    ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"  
-    ⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"
+::: indent
+⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"
+⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"
+:::
 
 *   Wurzeln mit a vor einfachem Konsonanten (ausser ⟪जन्⟫ und Wurzeln auf -am)
     Beispiel:  
-    ⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"  
-    aber:  
-    ⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"
+::: indent
+⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"
+aber:
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"
+:::
 
 *   einige Wurzeln auf -am
     Beispiel:  
-    ⟪गम्⟫ ⟪अगामि⟫
+::: indent
+⟪गम्⟫ ⟪अगामि⟫
+:::
 
 Einschub von y vor Endung:
 
 *   Wurzeln auf -ā, -e, -ai, -o schieben zwischen das -ā der Wurzel und die Endung ein y ein:
     Beispiel:  
-    ⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben"
+::: indent
+⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben"
+:::
 
 Nasalinfix:
 
 *   einige Wurzeln haben ein Nasalinfix:
     Beispiel:  
-    ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen"
+::: indent
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen"
+:::
 
 (Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben).
 :::

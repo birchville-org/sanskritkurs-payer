@@ -174,7 +174,7 @@ Fig.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Camboja, séc. IX d.C.
 (Fonte da imagem: [Detalhes](/licenses#lekt2001))
 :::
-## 20.5. Bahuvrīhi com um primeiro membro adverbial
+## 20.5. Bahuvrīhi com um primeiro membro adverbial <!-- TODO: Fallback translation -->
 
 No primeiro membro encontra-se um advérbio, uma preposição, um preverbo ou outro indeclinável; tais compostos são geralmente ⟪नित्यसमास⟫.
 
@@ -470,7 +470,7 @@ Um Kṣatriya que não segura o bastão na mão não protege o povo.
 
 Kālidāsa e os outros poetas são os mestres de sânscrito.
 
-Um Kṣatriya obtém seu sustento por meio de armas.
+Um Kṣatriya obtém seu sustento por meio de armas. <!-- TODO: Fallback translation -->
 
 Também as mulheres Śūdra têm como dharma a não-violência, a verdade, a pureza, a ausência de queixas, a ausência de malícia e a longanimidade.
 

@@ -5,14 +5,14 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 2
+# Lectio 2
 
-## 2.1. Der Nominalsatz
+## 2.1. Der Nominalsatz <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**Schema: Nomen praedicativum - Subiectum**
+**Schema: Nomen praedicativum - Subiectum** <!-- TODO: Fallback translation -->
 
 z.B. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu est deus."
 :::
@@ -68,7 +68,7 @@ Sequentiae nominalium, quae vocali terminantur, Nominativum Singularem formant c
 
 Finis verbi in Sanscrito etiam secundum initium sequentis verbi regitur. Haec phaenomenon **Sandhi** (m.) appellatur = ⟪सन्धि⟫ ("coniunctio").
 
-### 2.4.1. Sandhi von auslautendem -s
+### 2.4.1. Sandhi von auslautendem -s <!-- TODO: Fallback translation -->
 
 Vide etiam summam:
 
@@ -160,7 +160,7 @@ Fig.: Representatio ordinum Europae Medii Aevi (xylographia finis saec. XV).
 
 Tres ordines vestem suam gerunt. Super eos, qui ideo divinitus iussi dicuntur, Christus sedet.
 
-Max Weber (1864–1920) statum definit sic:
+Max Weber (1864–1920) statum definit sic: <!-- TODO: Fallback translation -->
 
 ::: note-box
 »**Status**« nomen esse debet multitudinis hominum, quae intra consortium
@@ -176,7 +176,7 @@ Evolutio status natalis regulariter est forma (hereditariae) appropriationis pri
 
 Cum ordines mercatorii in solo economiae mercatus orientatae crescunt, ordines potissimum in solo monopolisticae leurgicae vel feudalis vel status patrimonialis necessitatum consortium satisfactione oriuntur et consistunt.
 
-»**Ständisch**« societas appellari debet, cum ordinibus potissimum societas dividitur, »**klassenmäßig**« autem, cum classibus. «Status» proxima est «socialis» classis, «classis acquisitiva» remota. Ordines saepe per classes possessionum constituuntur.
+»**Ständisch**« societas appellari debet, cum ordinibus potissimum societas dividitur, »**klassenmäßig**« autem, cum classibus. «Status» proxima est «socialis» classis, «classis acquisitiva» remota. Ordines saepe per classes possessionum constituuntur. <!-- TODO: Fallback translation -->
 
 Quaeque societas ordinis est conventionalis, regulis vitae ordinata, ideoque condiciones consumptionis economicum irrationalis creat, et per hanc rationem per appropriationes monopolisticas et per exclusionem liberam dispositionem de propria facultate acquisitionis liberam formationem mercatus impedit.
 
@@ -186,7 +186,7 @@ Varṇas sunt igitur ordines nati.
 
 **kavi** m. -- ⟪कवि⟫ : Poeta.
 
-**agni** m. -- ⟪अग्नि⟫ : ignis, deus Agni.
+**agni** m. -- ⟪अग्नि⟫ : ignis, deus Agni. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0203.jpg)

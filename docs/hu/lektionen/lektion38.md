@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 38. lecke
+# 38. lecke <!-- TODO: Fallback translation -->
 
 ## 38.1. A hét üzenete
 
@@ -21,7 +21,7 @@ status: stable
 :::
 Magyarázatok:
 
-\-⟪अग्नि⟫ semlegesnem nominativus/akkuzatívus egyes szám a következőhöz: ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ semlegesnem nominativus/akkuzatívus egyes szám a következőhöz: ⟪अग्नि⟫ m. <!-- TODO: Fallback translation -->
 
 \-:sig[⟪गु⟫] semlegesnem nominativus/akkuzatívus egyes szám a következőhöz: ⟪गो⟫ m.f. "tehén, szarvasmarha"
 
@@ -37,7 +37,7 @@ A szóban lévő nazálisok a rájuk következő mássalhangzókhoz asszimilál�
 
 A c- és j-előtagok után a -n- helyett -ñ- lép fel.
 :::
-## 38.3. A -n végű tövek ragozása
+## 38.3. A -n végű tövek ragozása <!-- TODO: Fallback translation -->
 
 ### 38.3.1. -an végű főnevek, valamint a magánhangzó után álló -man vagy -van végű főnevek
 ::: grammar-box
@@ -47,7 +47,7 @@ A **-an** végű főnevek, valamint a magánhangzó után álló **-man** és **
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Tő** | **-ān** | **-mān** | **-vān** | Nominativus, Akkusativus, Vokativus egyes szám nemű:brNominativus, Akkusativus, Vokativus kettős szám nemű:brNominativus, Vokativus többes szám nemű:brNominativus, Akkusativus többes szám középnemű |
 | **Mittlerer Schwacher Tő** | **-a** :br(*-n-ből) | **-ma** :br(*-mn-ből) | **-va** :br(*-vn-ből) | Übrige Kasus vor konsonantisch anlautender Végződés:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Tő** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Végződés |
+| **Schwächster Tő** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Végződés | <!-- TODO: Fallback translation -->
 
 **A végződések szabályosak. A nominativus singularis m. f. -n kimenetel nélkül képződik.**
 :::
@@ -114,7 +114,7 @@ Példák:
 *   erős Tő: ⟪आत्मान्⟫
 *   gyenge Tő:
     *   mássalhangzó előtt: ⟪आत्म⟫
-    *   magánhangzó előtt: ⟪आत्मन्⟫
+    *   magánhangzó előtt: ⟪आत्मन्⟫ <!-- TODO: Fallback translation -->
 
 ⟪ब्रह्मन्⟫ n.: Abszolútum, Veda, Brahman
 
@@ -122,7 +122,7 @@ Példák:
 *   gyenge Tő:
     *   mássalhangzó előtt: ⟪ब्रह्म⟫
     *   magánhangzó előtt: ⟪ब्रह्मन्⟫
-::: grammar-box
+::: grammar-box <!-- TODO: Fallback translation -->
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
 | :--- | :---: | :---: |
@@ -144,18 +144,18 @@ Példák:
 | ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
-### 38.3.3. Maskulina és Neutra -in, -min, -vin végződésűek
+### 38.3.3. Maskulina és Neutra -in, -min, -vin végződésűek <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-Ezek a főnevek **nem** mutatnak gyökváltozást.
+Ezek a főnevek **nem** mutatnak gyökváltozást. <!-- TODO: Fallback translation -->
 
 A nominativus egyes számú nemnemű és a nominativus-akkuzatívus többes számú semleges alakok az -an gyökökhöz hasonlóan képződtek (az -i- megnyújtása), ugyanígy a mássalhangzós végződés előtt álló **\-i-** gyök.
 
 A nőnemű alakot a -ī képzővel képezzük: pl. ⟪बलिनी⟫
 :::
-Példa:
+Példa: <!-- TODO: Fallback translation -->
 
-⟪बलिन्⟫ m.n. "erős, erős (kifejezetten ⟪बल⟫-szel jellemezve, ⟪बल⟫ birtokában)"
+⟪बलिन्⟫ m.n. "erős, erős (kifejezetten ⟪बल⟫-szel jellemezve, ⟪बल⟫ birtokában)" <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -197,7 +197,7 @@ Példa:
 Ábr.: ⟪हस्ती⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : egy olyan, akinek (emberi) keze van
+⟪हस्तवन्त्⟫ : egy olyan, akinek (emberi) keze van <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3807.webp)
@@ -215,7 +215,7 @@ Példa:
 ## 38.5. Szintaktikai megjegyzések ⟪नामन्⟫ kapcsán
 
 ::: grammar-box
-Annak kifejezésére, hogy "N. N. nevű valaki", a következő szerkezetet alkalmazzuk:
+Annak kifejezésére, hogy "N. N. nevű valaki", a következő szerkezetet alkalmazzuk: <!-- TODO: Fallback translation -->
 
 **N.N. (alanyesetben) ⟪नाम⟫**
 
@@ -238,7 +238,7 @@ Természetesen ugyanazt kifejezhetjük egy ⟪बहुव्रीहि⟫ seg
 Ábr.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt3808))
 :::
-## 38.6. Szintaktikai megjegyzések a ⟪आत्मन्⟫ kapcsán
+## 38.6. Szintaktikai megjegyzések a ⟪आत्मन्⟫ kapcsán <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 ⟪आत्मन्⟫ **hímnem** használható a **tőszám**ban visszautaló névmódként (reflexív névmás) mindhárom nemre, számra (kettős és többes szám is), valamint személyekre.
@@ -258,17 +258,17 @@ Példa:
 ::: indent
 ⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Belép a saját házába."
 :::
-## 38.7. Mássalhangzóra végződő tövek mint a összetételek első tagjai
+## 38.7. Mássalhangzóra végződő tövek mint a összetételek első tagjai <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Azok a tövek, amelyek mássalhangzóra végződnek, az összetétel első tagjaként abban (gyenge) alakban jelennek meg, amelyet a lokativus (-su) többes számú végződés előtt felvennek. (⟪सप्तमी⟫)
 :::
-Példa:
+Példa: <!-- TODO: Fallback translation -->
 
 ::: indent
 :sig[⟪राज⟫]⟪पुत्र⟫ "Királyfi"
 :::
-## 38.8. -an végződésű tövek mint a ⟪बहुव्रीहि⟫ második tagja
+## 38.8. -an végződésű tövek mint a ⟪बहुव्रीहि⟫ második tagja <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 A ⟪बहुव्रीहि⟫ második tagjaként egy -an végződésű tő használható mindhárom nemben. Általában azonban a nőnemet a leggyengébb hímnemű tőből képezik az -ī végződéssel.
@@ -278,9 +278,9 @@ Példa:
 ::: indent
 ⟪दुर्णाम्नी⟫ „egy, akinek a neve rossz; betegségek démonnője”
 :::
-## 38.9. Szószedet
+## 38.9. Szószedet <!-- TODO: Fallback translation -->
 
-⟪सूर्य⟫ m.: Nap, napisten Sūrya
+⟪सूर्य⟫ m.: Nap, napisten Sūrya <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3802.webp)
@@ -294,7 +294,7 @@ Példa:
 Ábr.: ⟪उदकम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : fúj, fou
+⟪वा⟫ 2P ⟪वाति⟫ : fúj, fou <!-- TODO: Fallback translation -->
 
 ::: indent
 Jöv. ⟪वास्यति⟫
@@ -337,7 +337,7 @@ ebből:
 :::
 ⟪सुत⟫ m.: fiú
 
-⟪राजन्⟫ m.: király (az indiai királyságról lásd Basham, Wonder old. 82–94). Összetétel végén (különösen ⟪तत्पुरुष⟫) általában: -:sig[⟪राज⟫] m. (mint ⟪देव⟫)
+⟪राजन्⟫ m.: király (az indiai királyságról lásd Basham, Wonder old. 82–94). Összetétel végén (különösen ⟪तत्पुरुष⟫) általában: -:sig[⟪राज⟫] m. (mint ⟪देव⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Nem:
@@ -356,7 +356,7 @@ a(z) :sig[⟪राज⟫] :
 
 ⟪ब्रह्मन्⟫ n.: az abszolút, a Védák (Thieme szerint eredetileg: megfogalmazott igazság, ebből ⟪ब्राह्मण⟫ "az igazság megfogalmazója")
 
-⟪ब्रह्मन्⟫ m.: személyes teremtő isten, Brahmā
+⟪ब्रह्मन्⟫ m.: személyes teremtő isten, Brahmā <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3809.webp)
@@ -368,16 +368,16 @@ a(z) :sig[⟪राज⟫] :
 ::: indent
 ⟪कर्मविपाक⟫ m.: a cselekvések érlelődése = a korábbi létezési állapotokban elkövetett cselekvések jó és rossz következményei (lásd ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: elefánt (_Elephas maximus_)
+⟪हस्तिन्⟫ m.: elefánt (_Elephas maximus_) <!-- TODO: Fallback translation -->
 
-⟪मनु⟫ m.: ember, férfi; az emberi nem atyjának a neve (lásd ⟪मन्⟫ 4Ā)
+⟪मनु⟫ m.: ember, férfi; az emberi nem atyjának a neve (lásd ⟪मन्⟫ 4Ā) <!-- TODO: Fallback translation -->
 
 ::: indent
 ebből:
 
 ⟪मनुष्य⟫ m.: ember
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (lángzik, ragyog); gyászol, sirat
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (lángzik, ragyog); gyászol, sirat <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -408,7 +408,7 @@ ebből:
 :::
 ## 38.10. Gyakorlat
 
-A) Illessze be a következő mondatokba a zárójelben megadott szavak megfelelő alakját, és fordítsa le őket:
+A) Illessze be a következő mondatokba a zárójelben megadott szavak megfelelő alakját, és fordítsa le őket: <!-- TODO: Fallback translation -->
 
 ... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
 
@@ -442,7 +442,7 @@ A) Illessze be a következő mondatokba a zárójelben megadott szavak megfelel�
 
 ## 38.11. Szószedet a fordítási gyakorláshoz
 
-⟪प्राय⟫  m.: fő dolog, felsz. ⟪प्रायेण⟫ : általában, szokásosan (a ⟪प्र⟫-⟪इ⟫ szavakhoz)
+⟪प्राय⟫  m.: fő dolog, felsz. ⟪प्रायेण⟫ : általában, szokásosan (a ⟪प्र⟫-⟪इ⟫ szavakhoz) <!-- TODO: Fallback translation -->
 
 ⟪विनोद⟫ m.: időtöltés, szórakozás, élvezet
 
@@ -460,7 +460,7 @@ Kaus. ⟪आटयति⟫
 :::
 ⟪गाध⟫ 3: sekély
 
-⟪तॄ⟫ 1P ⟪तरति⟫: átkel, megmenti magát (vki/mtől) (Tárgyeset)
+⟪तॄ⟫ 1P ⟪तरति⟫: átkel, megmenti magát (vki/mtől) (Tárgyeset) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
@@ -479,7 +479,7 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 Kép: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt3813))
 :::
-⟪एकैकशस्⟫ Hat.: egyesével
+⟪एकैकशस्⟫ Hat.: egyesével <!-- TODO: Fallback translation -->
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : számol
 
@@ -565,9 +565,9 @@ Magyarázatok:
 
 ⟪बाहुभ्याम्⟫ Instrumentális/Datív/Ablatív kettős szám a ⟪बाहु⟫ m. "kar" szóból
 
-:sig[⟪सर्वे⟫] Nominatív többes szám, férfi nem a ⟪सर्व⟫ 3 "minden egyes, mind" szóból
+:sig[⟪सर्वे⟫] Nominatív többes szám, férfi nem a ⟪सर्व⟫ 3 "minden egyes, mind" szóból <!-- TODO: Fallback translation -->
 
-:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "tudni akar, tudni szeret"
+:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "tudni akar, tudni szeret" <!-- TODO: Fallback translation -->
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "kilenc"
 
@@ -581,7 +581,7 @@ Magyarázatok:
 
 :sig[⟪समजनि⟫] 3. személy, egyes szám, közönséges mód, múlt idő, szenvedő szerkezet a következőhöz: ⟪जन्⟫
 
-⟪तरसा⟫ Eszközes eset, egyes szám a következőhöz: ⟪तरस्⟫ n. "energia", határozószói jelentésben: "gyorsan, erővel"
+⟪तरसा⟫ Eszközes eset, egyes szám a következőhöz: ⟪तरस्⟫ n. "energia", határozószói jelentésben: "gyorsan, erővel" <!-- TODO: Fallback translation -->
 
 :sig[⟪यूयम्⟫] Névrag. "ő"
 

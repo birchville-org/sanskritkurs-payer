@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Урок 44
 
@@ -129,7 +129,7 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Теперішній час** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
+| **Indikativ Теперішній час** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
 | **Імперфект** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
 | **Оптатив** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
 :::
@@ -343,7 +343,7 @@ PPP ⟪रब्ध⟫
 ::: deleteme-box
 Див.:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Основні поняття правил ордену та орденного права Тхеравади. -- Частина I. -- (Матеріали до основних понять буддизму). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Основні поняття правил ордену та орденного права Тхеравади. -- Частина I. -- (Матеріали до основних понять буддизму). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -488,9 +488,9 @@ B) Перекладіть:
 
 **lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання, з однаковим ліцензуванням)
 
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання)
+**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання) &lt;!-- TODO: Fallback translation --&gt;
 
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання)
+**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання) &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання, з однаковим ліцензуванням)
 

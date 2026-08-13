@@ -98,7 +98,7 @@ Informasi lebih lanjut mengenai penggunaan Lokatif akan menyusul kemudian.
 **Note the sound changes before -su as well as the possible cerebralization of -su to -ṣu!**
 
 :::
-### 27.2.1. Stamm Konsonan
+### 27.2.1. Batang Konsonan
 
 ::: grammar-box
 
@@ -122,7 +122,7 @@ Informasi lebih lanjut mengenai penggunaan Lokatif akan menyusul kemudian.
 | Feminin:brLokatif Jamak | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
-### 27.2.3. Stamm Vokal
+### 27.2.3. Batang Vokal
 
 ::: grammar-box
 
@@ -163,7 +163,10 @@ Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ �
 Rāma-Satz.
 (Image source: [Detail](/en/licenses#lekt2708))
 :::
-**:sig[⟪रामो⟫]** ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ **:sig[⟪रामं⟫]** ⟪रमेशं⟫ ⟪भजे⟫:br**:sig[⟪रामेणा⟫]**⟪भिहता⟫ ⟪निशाचरचमू⟫ **:sig[⟪रामाय⟫]** ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br**:sig[⟪रामान्ना⟫]**⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ **:sig[⟪रामस्य⟫]** ⟪दासोऽस्म्यहम्⟫:br**:sig[⟪रामे⟫]** ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ **:sig[⟪राम⟫]** ⟪मामुद्धर⟫ ⟪॥⟫
+**:sig[⟪रामो⟫]** ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ **:sig[⟪रामं⟫]** ⟪रमेशं⟫ ⟪भजे⟫
+**:sig[⟪रामेणा⟫]**⟪भिहता⟫ ⟪निशाचरचमू⟫ **:sig[⟪रामाय⟫]** ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
+**:sig[⟪रामान्ना⟫]**⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ **:sig[⟪रामस्य⟫]** ⟪दासोऽस्म्यहम्⟫
+**:sig[⟪रामे⟫]** ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ **:sig[⟪राम⟫]** ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Terjemahan:**
 1. **Nominatif:** Rāma, permata (⟪मणि⟩ m.) di antara raja-raja (⟪राजन्⟩ m.) selalu menaklukkan (⟪सदा⟩).
@@ -180,7 +183,10 @@ Rāma-Satz.
 **⟪वस्⟫** 1P (⟪वसति⟫): tinggal, berdiam (dengan lokatif orang tempat seseorang berdiam)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br**Pass.:** ⟪उष्यते⟫:br**PPP:** ⟪उषित⟫:br**Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫
+**Pass.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Inf.:** ⟪वस्तुम्⟫
 :::
 from this:
 
@@ -194,7 +200,9 @@ from this:
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): to put on (clothing), to wear (clothing)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br**PPP:** ⟪वसित⟫:br**Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 from this:
 
@@ -223,7 +231,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫): menahan, membawa; mengambil, membawa pergi, mencuri
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br**Pass.:** ⟪ह्रियते⟫:br**PPP:** ⟪हृत⟫:br**Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 from this:
 

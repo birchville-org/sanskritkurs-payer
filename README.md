@@ -10,7 +10,7 @@ To initialize the project and start working locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/marcodem/sanskritkurs-payer.git
+   git clone https://github.com/birchville-org/sanskritkurs-payer.git
    cd sanskritkurs-payer
    ```
 
@@ -80,7 +80,7 @@ Pre-built Docker images are published to GitHub Container Registry (GHCR) on eve
 ### Pull the Image
 
 ```bash
-docker pull ghcr.io/marcodem/sanskritkurs-payer:latest
+docker pull ghcr.io/birchville-org/sanskritkurs-payer:latest
 ```
 
 Available tags:
@@ -91,7 +91,7 @@ Available tags:
 ### Run Locally
 
 ```bash
-docker run -d -p 8080:80 ghcr.io/marcodem/sanskritkurs-payer:latest
+docker run -d -p 8080:80 ghcr.io/birchville-org/sanskritkurs-payer:latest
 # Visit http://localhost:8080
 ```
 
@@ -102,7 +102,7 @@ Example `docker-compose.yml` for deployment with a reverse proxy (e.g., Caddy, T
 ```yaml
 services:
   payer:
-    image: ghcr.io/marcodem/sanskritkurs-payer:latest
+    image: ghcr.io/birchville-org/sanskritkurs-payer:latest
     restart: unless-stopped
     ports:
       - "8080:80"

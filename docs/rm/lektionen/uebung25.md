@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Completai ils exempels da declinaziun da Lecziun 16 agiungent 4. Dativ (⟪चतुर्थी⟫) e 5. Ablativ (⟪पञ्चमी⟫).
 
-### ⟪१⟫. **⟪सन्त्⟫** (essend, bun)
+### ⟪१⟫. **⟪सन्त्⟫** (essend, bun) <!-- TODO: Fallback translation -->
 
 | Kasus | m. Singular | m. Plural | n. Singular | n. Plural |
 | :--- | :--- | :--- | :--- | :--- |
@@ -96,7 +96,7 @@ I va facil (felic).
 Stessa cun la spaventa!
 
 ⟪१७⟫. **⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫**
-(Hari = Viṣṇu / Kṛṣṇa) Mai grond che il mund è Hari.
+(Hari = Viṣṇu / Kṛṣṇa) Mai grond che il mund è Hari. <!-- TODO: Fallback translation -->
 
 ---
 

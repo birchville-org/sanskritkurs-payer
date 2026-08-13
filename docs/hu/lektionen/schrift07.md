@@ -53,7 +53,7 @@ A) Írja le Devanāgarí írással, és adja meg a fordítást (8. leckét felt�
 
 śravaṇa, darśana, kāraṇa, sarga, krodhaḥ, netram, śruti, kurvate. śudraḥ śṛṇoti. śrutirvedaḥ. dhenurviśati. sādhurguruḥ. gururyajate. kavirmāghaḥ.
 
-B) Olvassa el, transzliterálja és fordítsa le:
+B) Olvassa el, transzliterálja és fordítsa le: <!-- TODO: Fallback translation -->
 
 ⟪श्रुतिः⟫ | ⟪गुर्वी⟫ | ⟪क्रुध्⟫ | ⟪शृणोति⟫ | ⟪कविर्भारविः⟫ | ⟪कविर्हर्षदेवः⟫ | ⟪पशुर्धेनुः⟫ | ⟪शूद्रेतरा⟫ | ⟪श्रोत्रम्⟫ ||
 

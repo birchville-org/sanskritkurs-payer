@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα 6
 
@@ -73,7 +73,7 @@ status: stable
 | :--- | :--- | :--- |
 | **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" |
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
-| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
+| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" | <!-- TODO: Fallback translation -->
 
 ## 6.4. Πρωτογενείς καταλήξεις του τρίτου προσώπου (prathama αρσ. = ⟪प्रथम⟫ = «πρώτο (!) πρόσωπο»)
 
@@ -129,7 +129,7 @@ status: stable
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Ρήματα της 4ης τάξης ενεστώτα (divādi = ⟪दिवादि⟫ = "div κ.λπ.")
+### 6.5.3. Ρήματα της 4ης τάξης ενεστώτα (divādi = ⟪दिवादि⟫ = "div κ.λπ.") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Παροξύτονο ρίζας = Ρίζα σε βαθιά κλίση (όπως αναφέρεται) + ya-**
@@ -237,9 +237,13 @@ status: stable
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **Β) Βάλτε στον πληθυντικό:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

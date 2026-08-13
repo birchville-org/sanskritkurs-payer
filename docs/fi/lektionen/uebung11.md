@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 11
 
-A) Käännä seuraavat lauseet
+A) Käännä seuraavat lauseet <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ ⟪।⟫
 Védinen viisas puhuu totuutta.
@@ -22,13 +22,13 @@ Brahmani haluaa pojan.
 Pyhimys tulee taivaaseen.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
-Näin brahmani tuo jumalalle uhrauksen.
+Näin brahmani tuo jumalalle uhrauksen. <!-- TODO: Fallback translation -->
 
 ⟪७⟫. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ ⟪।⟫
 Vaiśyänainen ajattelee, että hänen poikansa tekee pahaa.
@@ -37,7 +37,7 @@ Vaiśyänainen ajattelee, että hänen poikansa tekee pahaa.
 Kṣatriya taistelee kṣatriyan kanssa.
 
 ⟪९⟫. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
-Koska epätotuus on vääryys, poika ei tee pahaa.
+Koska epätotuus on vääryys, poika ei tee pahaa. <!-- TODO: Fallback translation -->
 
 ⟪१०⟫. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
 Tämä kṣatriya suojaa dharmaa.
@@ -74,7 +74,7 @@ B) Muuta lauseet osassa A) passiivirakenteeseen
 
 ⟪१२⟫. ⟪तेन⟫ ⟪श्रावकेण⟫ ⟪बुद्धो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪॥⟫
 
-C) Muuta lauseissa osassa A), missä se on järkevää, subjektit, objektit ja predikaatit monikkoon
+C) Muuta lauseissa osassa A), missä se on järkevää, subjektit, objektit ja predikaatit monikkoon <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ऋषयः⟫ ⟪सत्यं⟫ ⟪वदन्ति⟫ ⟪।⟫
 
@@ -132,13 +132,13 @@ D) Muuta osassa C) muodostettujen lauseiden passiivirakenteet
 Kuva: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Kuv lähde: [Details](/licenses#uebung022))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Lisätehtävät
+## Lisätehtävät <!-- TODO: Fallback translation -->
 
-A) Käännä sanskritiksi passiivilausekkeilla:
+A) Käännä sanskritiksi passiivilausekkeilla: <!-- TODO: Fallback translation -->
 
-1. Vaiśya-naiset kysyvät brahmaneilta dharmaa.
+1. Vaiśya-naiset kysyvät brahmaneilta dharmaa. <!-- TODO: Fallback translation -->
 
 ⟪वैश्याभिर्ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪।⟫
 
@@ -150,7 +150,7 @@ A) Käännä sanskritiksi passiivilausekkeilla:
 
 ⟪साध्वीभिः⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽश्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫
 
-4. Vedalainen varjo ei tee mitään pahaa.
+4. Vedalainen varjo ei tee mitään pahaa. <!-- TODO: Fallback translation -->
 
 ⟪ऋषिणा⟫ ⟪पापं⟫ ⟪न⟫ ⟪क्रियते⟫ ⟪।⟫
 
@@ -168,11 +168,11 @@ A) Käännä sanskritiksi passiivilausekkeilla:
 
 B)
 
-1. Ilmoita kaikkien kahdesti syntyneiden tehtävät dvandvalla. Ratkaise yhdyssana sanskritiksi.
+1. Ilmoita kaikkien kahdesti syntyneiden tehtävät dvandvalla. Ratkaise yhdyssana sanskritiksi. <!-- TODO: Fallback translation -->
 
 ⟪इज्याध्ययनदानानि⟫ = ⟪इज्याध्ययनं⟫ ⟪दानं⟫ ⟪च⟫
 
-2. Ilmoita vaiśyoiden tehtävät dvandvalla. Ratkaise yhdyssana sanskritiksi.
+2. Ilmoita vaiśyoiden tehtävät dvandvalla. Ratkaise yhdyssana sanskritiksi. <!-- TODO: Fallback translation -->
 
 ⟪कृषिवाणिज्यपाशुपाल्यकुसीदानि⟫ = ⟪कृषीर्वाणिज्यं⟫ (⟪वाणिज्या⟫, ⟪वणिज्या⟫) ⟪कुसीदं⟫ ⟪च⟫ ⟪।⟫
 
@@ -191,18 +191,18 @@ Buddhalainen kannattaja ei uhraa HERRALLE.
 Amuletti suojaa mestaria.
 
 ⟪५⟫. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ ⟪।⟫
-Brahmani ei puhu epätotuutta.
+Brahmani ei puhu epätotuutta. <!-- TODO: Fallback translation -->
 
 ⟪६⟫. ⟪शूद्रेतरा⟫ ⟪।⟫
 Itarā ist eine Śūdrafrau.
 
 ⟪७⟫. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫
-Vedan aputieteet ovat: ääntöoppi, rituaalinen tiede, kielioppi, sananmerkitystiede, metriikka ja kalenteritiede.
+Vedan aputieteet ovat: ääntöoppi, rituaalinen tiede, kielioppi, sananmerkitystiede, metriikka ja kalenteritiede. <!-- TODO: Fallback translation -->
 
 ⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪॥⟫
-Tieteet ovat: filosofia, vedatiede, taloustiede ja politiikka.
+Tieteet ovat: filosofia, vedatiede, taloustiede ja politiikka. <!-- TODO: Fallback translation -->
 
-D) Käännä ja muuta sanskritiksi agenssi, objekti ja verbi monikkoon:
+D) Käännä ja muuta sanskritiksi agenssi, objekti ja verbi monikkoon: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪फलमश्नुते⟫ ⟪।⟫
 Hän saa hedelmän.
@@ -220,7 +220,7 @@ Vaiśya saa karjaa.
 Poikani tekee ansaittavaa.
 ⟪पुत्राः⟫ ⟪पुण्यानि⟫ ⟪कुर्वन्ति⟫ ⟪॥⟫
 
-E) Muuta lauseet C)1-5 aktiivilauseiksi.
+E) Muuta lauseet C)1-5 aktiivilauseiksi. <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪श्रवणं⟫ ⟪शृणोति⟫ ⟪।⟫
 
@@ -236,4 +236,4 @@ E) Muuta lauseet C)1-5 aktiivilauseiksi.
 ![](/images/uebung021.webp)
 Kuva: ⟪फलान्यश्नुते⟫
 (Kuv lähde: [Details](/licenses#uebung021))
-:::
+::: <!-- TODO: Fallback translation -->

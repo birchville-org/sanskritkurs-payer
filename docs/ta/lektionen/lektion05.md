@@ -5,7 +5,7 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # பாடம் 5
 
@@ -151,7 +151,7 @@ Dvandva பொதுவாக ஒரு நடுப்பால் (கடை�
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / in gutem Sanskrit: sāmārgyajurvedās trayī)
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (சிறந்த சமசுகிருதத்தில்: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+   (சிறந்த சமசுகிருதத்தில்: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
 
 4. மனிதனின் மூன்று எதிரிகள், நரகத்தின் வாயிலை உருவாக்குபவை (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -168,7 +168,7 @@ Dvandva பொதுவாக ஒரு நடுப்பால் (கடை�
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
    (Nach Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
 
 ## 5.6. மீள்பயிற்சி
 

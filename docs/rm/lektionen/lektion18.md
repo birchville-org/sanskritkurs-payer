@@ -3,7 +3,7 @@ title: Lektion 18
 lesson_id: 18
 ---
 
-# Lektion 18
+# Lecziun 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
@@ -25,12 +25,12 @@ Comglia adverbiala (non declinabla)
 ::: indent
 vennir aduprà. Talsas Tatpuruṣa appartegnan per la mai part a la classa dals Nityasamāsa = ⟪नित्यसमास⟫ (m. "cumpost permanent"), è a dir dals cumposts che n'è betg pussaivel u betg mo da resolvers cun las paraulas che sa chatta en il cumpost sez.
 :::
-Exempels:
+Exempels: <!-- TODO: Fallback translation -->
 
 ⟪अति⟫ "darüber hinaus":
 
 ::: indent
-⟪अतिगुरु⟫ 3: extrem schwer, extrem gewichtig
+⟪अतिगुरु⟫ 3: extrem schwer, extrem gewichtig <!-- TODO: Fallback translation -->
 
 ⟪अतिपुरुष⟫ m.: umna uman, Superman, eroi
 
@@ -45,7 +45,7 @@ Las preposiziuns adverbialas pli impurtantas èn a-/an-, su-, dus-.
 Ezempels:
 
 ::: indent
-⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): falschadad, mendacium
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): falschadad, mendacium <!-- TODO: Fallback translation -->
 
 ⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: betg fatg, betg disfatg
 
@@ -58,7 +58,7 @@ Ezempels:
 Ezempels:
 
 ::: indent
-⟪सुकवि⟫ m.: in bun poet
+⟪सुकवि⟫ m.: in bun poet <!-- TODO: Fallback translation -->
 
 ⟪सुकृत⟫ n.: buna acziun
 
@@ -75,7 +75,7 @@ Ezempels:
 
 ⟪दुष्करण⟫ n.: acṛta, duṣkṛta
 :::
-Quai vala la lescha suandanta:
+Quai vala la lescha suandanta: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -111,17 +111,29 @@ Ezempels:
 Tatpuruṣa cun a- / an- ponan suenter ils suandants significats:
 
 1.  Ähnelch (⟪तत्सादृश्यम्⟫):  
-    ⟪अब्राह्मणः⟫ = in Kṣatriya u Vaiśya, che porta il sacru fil (⟪यज्ञोपवीत⟫ n.) e uschia è in brahman, senza esser in
+::: indent
+⟪अब्राह्मणः⟫ = in Kṣatriya u Vaiśya, che porta il sacru fil (⟪यज्ञोपवीत⟫ n.) e uschia è in brahman, senza esser in
+:::
 2.  Mancanza, Absenza (⟪तदभावः⟫):  
-    ⟪अज्ञानम्⟫ = ignoranza (mancanza da savida)
+::: indent
+⟪अज्ञानम्⟫ = ignoranza (mancanza da savida)
+:::
 3.  Diversitad (⟪तदन्यत्वम्⟫):  
-    ⟪अपटम्⟫ = quai ch'è nagina stoffa / vestgì (⟪पट⟫ m: tessì, vestgì)
+::: indent
+⟪अपटम्⟫ = quai ch'è nagina stoffa / vestgì (⟪पट⟫ m: tessì, vestgì)
+:::
 4.  Piccinate (⟪तदल्पता⟫):  
-    ⟪अनुदरम्⟫ = in pitschen ventg (in nagin ventg)
+::: indent
+⟪अनुदरम्⟫ = in pitschen ventg (in nagin ventg)
+:::
 5.  Disapprovaziun (⟪अप्राशास्त्यम्⟫):  
-    ⟪अकालः⟫ = temp malgiont
+::: indent
+⟪अकालः⟫ = temp malgiont
+:::
 6.  Ostilitad (⟪निरोधः⟫):  
-    ⟪असुरः⟫ = cuntradiu (suenter l'etimologia falsa a-sura)
+::: indent
+⟪असुरः⟫ = cuntradiu (suenter l'etimologia falsa a-sura)
+:::
 
 Il seguente verso riassume questi significati:
 
@@ -152,7 +164,7 @@ Verbs pònan esser colliads cun prefixas (⟪उपसर्ग⟩ m.) en il San
 :::
 Qualche preverb impurtant è:
 
-⟪उप⟫ "a, vers, cunter"
+⟪उप⟫ "a, vers, cunter" <!-- TODO: Fallback translation -->
 
 Ezempels:
 
@@ -163,7 +175,7 @@ Ezempels:
 
 ⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : cuntans
 
-*   PPP ⟪उपपन्न⟫ 3: equipà cun (Instrumentalis)
+*   PPP ⟪उपपन्न⟫ 3: equipà cun (Instrumental)
 
 ⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : cumprender, ottegnair
 :::
@@ -178,7 +190,7 @@ Ezempels:
 
 ⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : svegliar, reconuscher
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.) <!-- TODO: Fallback translation -->
 
 ⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : explicar, communiticar, exprimer
 
@@ -226,7 +238,7 @@ Ezempels:
 :::
 ::: grammar-box
 
-La radis ⟪कृ⟫ "far" mussa en connexiun cun ils preverbs ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ era la furma ⟪स्कृ⟫
+La radis ⟪कृ⟫ "far" mussa en connexiun cun ils preverbs ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ era la furma ⟪स्कृ⟫ <!-- TODO: Fallback translation -->
 
 :::
 Esempel:
@@ -284,7 +296,7 @@ Fig.: ⟪उपनयनम्⟫
 
 ⟪शूर⟫ 3: coragiuss, eroic; m.: ero
 
-⟪शब्द⟫ m.: son, ton, signal da vusch: pled
+⟪शब्द⟫ m.: son, ton, signal da vusch: pled <!-- TODO: Fallback translation -->
 
 ⟪उदक⟫ n.: Aua
 
@@ -292,7 +304,7 @@ Fig.: ⟪उपनयनम्⟫
 
 ⟪आदि⟫ m.: cumenzament
 
-⟪दण्ड⟫ m.: bastun, stangas, sancziun
+⟪दण्ड⟫ m.: bastun, stangas, sancziun <!-- TODO: Fallback translation -->
 
 ⟪मात्रा⟫ f. ⟪मात्र⟫ n.: mesira, limitaziun
 
@@ -306,7 +318,7 @@ Fig.: ⟪उपनयनम्⟫
 
 A) Tradusci il ⟪सुभाषित⟫ al cumenzament da la lecziun.
 
-B) Tradusci suventscha Tatpuruṣa:
+B) Tradusci suventscha Tatpuruṣa: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪सुकर⟫ ⟪३⟫
 
@@ -370,7 +382,7 @@ B) Tradusci suventscha Tatpuruṣa:
 
 ⟪३१⟫. ⟪अमृत⟫. n.
 
-## 18.6. Wiederholungsübung
+## 18.6. Exercizi da repetiziun
 
 Per plaschair, betg duvrar agients!
 
@@ -400,7 +412,7 @@ Imag.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Impressiun
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt1802))
 :::
-B) Traduscha usondà verbs da la 2. classa da present:
+B) Traduscha usondà verbs da la 2. classa da present: <!-- TODO: Fallback translation -->
 
 1\. Il Brahman loda le dee.
 
@@ -408,11 +420,11 @@ B) Traduscha usondà verbs da la 2. classa da present:
 
 3\. La serva da chasa munta las muertas.
 
-4\. Ils inimis dals Arians sglatschan ils Kṣatriyas pussants.
+4\. Ils inimis dals Arians sglatschan ils Kṣatriyas pussants. <!-- TODO: Fallback translation -->
 
 5\. In fantasma mangia betga fruits.
 
-6\. Uscheina quai, che ha [il passadi per las reinkarnaziuns] bain fatg, al dischipel.
+6\. Uscheina quai, che ha [il passadi per las reinkarnaziuns] bain fatg, al dischipel. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1803.webp)
@@ -430,9 +442,9 @@ D) Tradusci:
 
 **lekt1801:** "Inna giuvna veglia vegniva visibil durant il ritual da l'upanayana. Il filgial, fin, che va da la spalla sanestra fin a la vita è il Yagnopaivta. Notar er la cinghia d'erba munja enturn la vita. La stizz in maun dretg (normalmain da l'arvur peepa) signiescha ses entirar en il Brahmacharya." [Sursa da l'imaginescha: Nagesh Rao / Wikipedia, Licenza GNU FDLicense]
 
-**lekt1802:** 1770 Print [Bildquelle: Wikipedia, Public domain]
+**lekt1802:** 1770 Print [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
-**lekt1803:** ⟪गन्धार⟫ 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia, Public domain]
+**lekt1803:** ⟪गन्धार⟫ 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
 **lekt1804:** Matrimoni = ⟪विवाह⟫ m., in impurtant ⟪संस्कारः⟫ [sursainta da l'imagines: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Access il 2008-12-08. -- Licenza Creative Commons (Nominaziun, nagina utisaziun cummerciala, nagina modificaziun)]
 :::

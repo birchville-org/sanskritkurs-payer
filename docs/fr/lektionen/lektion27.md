@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Leçon 27
 
@@ -32,7 +32,7 @@ status: stable
 Fig. : ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Source de l'image : [Détails](/fr/licenses#lekt2701))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -163,7 +163,10 @@ Fig. : :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ �
 Rāma-Satz.
 (Source de l'image : [Détails](/fr/licenses#lekt2708))
 :::
-*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫:br *:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫:br *:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
+*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫
+*:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
+*:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫
+*:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Traduction :**
 1. **Nominatif :** Rāma, le joyau (⟪मणि⟫ m.) parmi les rois (⟪राजन्⟫ m.) triomphe toujours (⟪सदा⟫).
@@ -180,7 +183,10 @@ Rāma-Satz.
 **⟪वस्⟫** 1P (⟪वसति⟫): résider, habiter (avec le locatif de la personne chez qui on habite)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫
+**Pass.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Inf.:** ⟪वस्तुम्⟫
 :::
 de cela :
 
@@ -194,7 +200,9 @@ de cela :
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫) : revêtir (des vêtements), porter (des vêtements)
 
 ::: indent
-**Fut.** : ⟪वसिष्यते⟫:br **PPP** : ⟪वसित⟫:br **Inf.** : ⟪वसितुम्⟫
+**Fut.** : ⟪वसिष्यते⟫
+**PPP** : ⟪वसित⟫
+**Inf.** : ⟪वसितुम्⟫
 :::
 de cela :
 
@@ -223,7 +231,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫) : tenir, porter ; chercher, enlever, voler
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 de cela :
 
@@ -468,7 +479,7 @@ Fig. : ⟪सद्गुरुः⟫
 Sai Baba de Shirdi (1835 - 1918).
 (Source de l'image : [Détails](/fr/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫
+### 27.7.10. ⟪महान्त्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 

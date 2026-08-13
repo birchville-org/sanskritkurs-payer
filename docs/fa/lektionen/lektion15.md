@@ -42,7 +42,7 @@ status: stable
 > جمع فاعلی ⟨⟪तत्पुरुषाः⟩ = ⟪तस्य⟩ ⟪पुरुषाः⟩
 > و غیره
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. ترکیبات تعیین‌کننده با جزء اول وصفی / بدل = Karmadhāraya m. = ⟪कर्मधारय⟫
@@ -71,16 +71,20 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   اگر یک کرم‌دهارایا بیانگر مقایسه باشد، آن چیزی که با آن مقایسه می‌شود در بخش پسین ترکیب قرار دارد:
 
+::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "مردی مانند شیر"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "مردی مانند ببر"
+:::
 
 *   اما اگر یک کرم‌دهارایا بیانگر عطف (تعیین نزدیک‌تر بخش پسین توسط یک اسم) باشد، آن تعیین‌کننده در بخش پیشین قرار دارد، همان‌طور که قاعده کلی برای ترتیب اجزا در یک تاتپوروشا ایجاب می‌کند:
 
+::: indent
 ⟪नरसिंहः⟫ می‌تواند به این صورت نیز تجزیه شود: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = «شیری که (در واقع) یک مرد است.»
+:::
 
 چنین ترکیبات کارماذارایای عطفی در تفاسیر بومی، مانند مثال بالا، به وسیله ⟪एव⟫ تجزیه می‌شوند.
 
@@ -189,7 +193,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = «آنچه توسط پسر شایسته‌ی من انجام شده است»
 2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = «کار پسر شایسته‌ی من»
-3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = «کار شایسته‌ی انجام شده توسط پسر من»
+3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "das verdienstvolle, von meinem Sohn Getane" <!-- TODO: Fallback translation -->
    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = «کار شایسته‌ی پسر من»
 :::
 ## 15.6. Die Form des Vorderglieds in Komposita (⟪समास⟫ m.) <!-- TODO: Fallback translation -->

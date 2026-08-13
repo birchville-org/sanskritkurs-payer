@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 43. lecke
+# 43. lecke <!-- TODO: Fallback translation -->
 
 ## 43.1. A második személy egyes számú végződései (⟪मध्यमः⟫ = "középső \&lt;személy\&gt;")
 
@@ -19,23 +19,23 @@ status: stable
 | **Másodlagos végződések** | -s | -ta | -thās | -dhvam |
 | **Perfektus végződések** | -tha | -a | -se | -dhve |
 :::
-Vegye figyelembe, hogy a második személy többes számú másodlagos végződése megegyezik a harmadik személy egyes számú aktív másodlagos végződéssel.
+Vegye figyelembe, hogy a második személy többes számú másodlagos végződése megegyezik a harmadik személy egyes számú aktív másodlagos végződéssel. <!-- TODO: Fallback translation -->
 
 ## 43.2. A második személy ragozott igéinek képzése (⟪मध्यमः⟫)
 
 Második személy:
 
 *   egyes szám: „te”
-*   többes szám: „ti” (kettőnél többen!)
+*   többes szám: „ti” (kettőnél többen!) <!-- TODO: Fallback translation -->
 
 ### 43.2.1. Témás alapok
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
-A 3. személy egyes számú ātāt-pécse vagy optativus időalak megegyezik a 2. személy többes számú ātāt-pécse vagy optativus időalakjával!
+A 3. személy egyes számú ātāt-pécse vagy optativus időalak megegyezik a 2. személy többes számú ātāt-pécse vagy optativus időalakjával! <!-- TODO: Fallback translation -->
 
-#### 43.2.1.1. Első jelen idői osztály (⟪भ्वादि⟫)
+#### 43.2.1.1. Első jelen idői osztály (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1. személy egyes szám
 
@@ -46,7 +46,7 @@ A 3. személy egyes számú ātāt-pécse vagy optativus időalak megegyezik a 2
 | **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
 | **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \<⟪भवेथास्⟫\> | \<⟪भवेध्वम्⟫\> |
 
-#### 43.2.1.2. Hatodik jelen idő osztály (⟪तुदादि⟫)
+#### 43.2.1.2. Hatodik jelen idő osztály (⟪तुदादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪विश्⟫ 6P
 
@@ -57,7 +57,7 @@ A 3. személy egyes számú ātāt-pécse vagy optativus időalak megegyezik a 2
 | **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
 | **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
 
-#### 43.2.1.3. Negyedik jelen idő osztály (⟪दिवादि⟫)
+#### 43.2.1.3. Negyedik jelen idő osztály (⟪दिवादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪नृत्⟫ 4P
 
@@ -89,7 +89,7 @@ A 3. személy egyes számú ātāt-pécse vagy optativus időalak megegyezik a 2
 | **Múlt idő (imperfektum)** ⟪लङ्⟫ | ⟪ऐक्ष्यथास्⟫ | ⟪ऐक्ष्यध्वम्⟫ |
 | **Kívánó mód (optativus)** ⟪विधिलिङ्⟫ | ⟪ईक्ष्येथास्⟫ | ⟪ईक्ष्येध्वम्⟫ |
 
-#### 43.2.1.6. Jövő idő (⟪ऌट्⟫)
+#### 43.2.1.6. Jövő idő (⟪ऌट्⟫) <!-- TODO: Fallback translation -->
 
 #### 43.2.1.6.1. ⟪अनिट्⟫ képzések
 
@@ -112,7 +112,7 @@ A 3. személy egyes számú ātāt-pécse vagy optativus időalak megegyezik a 2
 ## 43.3. A második személyes névmás
 
 *   egyes szám: ⟪त्वद्⟫ "te"
-*   többes szám: ⟪युष्मद्⟫ "ti"
+*   többes szám: ⟪युष्मद्⟫ "ti" <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪एकवचनम्⟫ (⟪त्वद्⟫) | ⟪बहुवचनम्⟫ (⟪युष्मद्⟫) |
@@ -132,7 +132,7 @@ A ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ alakok nem használhatók eg
 :::
 ## 43.4. Szójegyzék
 
-⟪ज्ञा⟫ + ⟪आ⟫ kauzatívum ⟪आज्ञापयति⟫ : parancsolni, elrendelni
+⟪ज्ञा⟫ + ⟪आ⟫ kauzatívum ⟪आज्ञापयति⟫ : parancsolni, elrendelni <!-- TODO: Fallback translation -->
 
 ⟪आपण⟫ m.: piac
 
@@ -150,7 +150,7 @@ A ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ alakok nem használhatók eg
 Ábra: ⟪पण्यानि⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4303))
 :::
-⟪आम्⟫ : igen
+⟪आम्⟫ : igen <!-- TODO: Fallback translation -->
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -173,25 +173,25 @@ A ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ alakok nem használhatók eg
 Kép: ⟪विपणिः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: Kereskedő
+⟪वणिज्⟫ m.: Kereskedő <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4305.webp)
 Kép: ⟪वणिक्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4305))
 :::
-⟪वर⟫ 3: legjobb
+⟪वर⟫ 3: legjobb <!-- TODO: Fallback translation -->
 
 ⟪शीघ्र⟫ 3: gyors, sietve
 
-⟪वत्स⟫ m: Borjú, utód, gyermek; Vok.: kedvesem
+⟪वत्स⟫ m: Borjú, utód, gyermek; Vok.: kedvesem <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4306.webp)
 Ábra: ⟪वत्सः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4306))
 :::
-⟪उत्तम⟫ 3: legfelsőbb, legjobb
+⟪उत्तम⟫ 3: legfelsőbb, legjobb <!-- TODO: Fallback translation -->
 
 ⟪अल्प⟫ 3: kicsi, alacsony
 
@@ -199,7 +199,7 @@ Kép: ⟪वणिक्⟫
 
 ⟪कियत्⟫ 3: mekkora
 
-⟪शर्करा⟫ f.: cukor (a német „Zucker” az olasz zucchero-n, onnan az arab sukkar - سكر és a perzsa äkär - شکر nyelven át ered vissza a szanszkrit ⟪शर्करा⟫-re!)
+⟪शर्करा⟫ f.: cukor (a német „Zucker” az olasz zucchero-n, onnan az arab sukkar - سكر és a perzsa äkär - شکر nyelven át ered vissza a szanszkrit ⟪शर्करा⟫-re!) <!-- TODO: Fallback translation -->
 
 ⟪अधिक⟫ 3: plusz, felesleges, rendkívüli
 
@@ -214,7 +214,7 @@ Kép: ⟪वणिक्⟫
 :::
 ⟪कर्गल⟫ n.: papír
 
-⟪संपुट⟫ m.: doboz (itt: csomag, köteg)
+⟪संपुट⟫ m.: doboz (itt: csomag, köteg) <!-- TODO: Fallback translation -->
 
 ⟪पुरतस्⟫ : elöl, előre, előtt
 
@@ -241,7 +241,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪पश्चात्ताप⟫ m.: bűnbánat
 
-⟪इत्थम्⟫ Adv.: így, ezen a módon
+⟪इत्थम्⟫ Adv.: így, ezen a módon <!-- TODO: Fallback translation -->
 
 ⟪दिन⟫ n.: nap
 
@@ -306,13 +306,13 @@ A) Képezze a következő igeképzők időben, számban, módban stb. megfelelő
 51.  ⟪तिष्ठन्ति⟫
 52.  ⟪आहरत्⟫
 
-B) Fordítsd le szanszkritra:
+B) Fordítsd le szanszkritra: <!-- TODO: Fallback translation -->
 
 Miért ülsz, miközben a tanár áll?
 
 Kétségbe vonod-e, hogy egy jó cselekedetnek jó gyümölcse van?
 
-[L0]3\. Megmutattátok az apa legbelső templomi szentélyét?
+[L0]3\. Megmutattátok az apa legbelső templomi szentélyét? <!-- TODO: Fallback translation -->
 
 [L2]4\. Melyik költő dicséretének énekét adtátok elő?
 
@@ -383,7 +383,7 @@ Kép: ⟪शर्करा⟫
 
 **lekt4307.jpg**: Ray Witlin / Világbank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Hozzáférés: 2009-01-06. -- Creative Commons licenc (Nevesítés, nem kereskedelmi célú felhasználás, származékos művek tilalma)
 
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense
+**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
 
 **lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Hozzáférés: 2009-01-07. -- Creative Commons licenc (Nevesítés, származékos művek tilalma)
 :::

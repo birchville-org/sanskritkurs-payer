@@ -73,4 +73,4 @@ Vocativo sg. de los masculinos / neutros en -a termina en -a: por ejemplo, ⟪�
 ![](/images/uebung057.jpg)
 Abb.: ⟪तिलप्रमाणम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung057))
-:::
+::: <!-- TODO: Fallback translation -->

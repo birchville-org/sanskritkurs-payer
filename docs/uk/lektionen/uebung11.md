@@ -20,10 +20,10 @@ A) Перекладіть наведені нижче речення
 Святий приходить на небо.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma. &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 Так приносить браман богам жертву.

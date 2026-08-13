@@ -6,19 +6,19 @@ status: stable
 
 # Luento 31
 
-## 31.1. 7. preesensluokka (⟪रुधादि⟫ = "⟪रुध्⟫ jne.")
+## 31.1. 7. preesensluokka (⟪रुधादि⟫ = "⟪रुध्⟫ jne.") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Muodostus:**
 
-**Syväasteisen verbijuvan loppukonsonantin edessä lisätään ns. nasali-infixi (-na- tai -n-):**
+**Syväasteisen verbijuvan loppukonsonantin edessä lisätään ns. nasali-infixi (-na- tai -n-):** <!-- TODO: Fallback translation -->
 
 *   **vahvassa vartaalossa: -na-**
 *   **heikossa vartaalossa: -n-**
 
 **Verbijuvan loppukonsonanttien ja konsonantilla alkavien päätteiden yhdistämisessä noudatetaan samoja sääntöjä kuin 2. preesensluokassa.**
 :::
-Esimerkkejä:
+Esimerkkejä: <!-- TODO: Fallback translation -->
 
 ⟪युज्⟫ 7U "yhdistää, jännittää"
 
@@ -30,7 +30,7 @@ Esimerkkejä:
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **Optatiivi** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Partizip Preesens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+| **Partizip Preesens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | | <!-- TODO: Fallback translation -->
 
 :::
 ⟪रुध्⟫ 7U "pysäyttää, tuoda pysähdykseen"
@@ -49,7 +49,7 @@ Esimerkkejä:
 ::: grammar-box
 **Joissakin vartaloissa heikon preesensvartalon -n- on tunkeutunut myös ei-preesenseihin, minkä vuoksi nämä vartalot asetetaan nasaloinfiksilla.**
 :::
-Esimerkki:
+Esimerkki: <!-- TODO: Fallback translation -->
 
 ⟪भञ्ज्⟫ 7P "murtua"
 
@@ -69,16 +69,16 @@ Esimerkki:
 **Pass. ⟪युज्यते⟫**
 **Kaus. ⟪योजयति⟫**
 **PPP ⟪युक्त⟫**
-**Inf. ⟪योक्तुम्⟫**
+**Inf. ⟪योक्तुम्⟫** <!-- TODO: Fallback translation -->
 
 tästä:
 **⟪युग⟫ n. → ⟪युग⟫ n.:** jousi, pari, maailmankausi (on olemassa neljä maailmankautta:
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
-4. ⟪कलि⟫
+4. ⟪कलि⟫ <!-- TODO: Fallback translation -->
 
-⟪कलियुग⟫ alkoi n. 3102 eKr., jona vuonna käytiin ⟪महाभारत⟫-sota. Lisätietoja Basham, Wonder s. 323)
+⟪कलियुग⟫ alkoi n. 3102 eKr., jona vuonna käytiin ⟪महाभारत⟫-sota. Lisätietoja Basham, Wonder s. 323) <!-- TODO: Fallback translation -->
 
 **⟪योग⟫ m.:** "kiinnitys, kiristys", ponnistus, yhteys, jooga (katso Basham, Wonder s. 327ff.)
 :::
@@ -120,7 +120,7 @@ Joogakuvaus.
 :::
 **⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : voidella erilleen = meikata, tehdä erottuvaksi
 ::: indent
-**PPP ⟪व्यक्त⟫ :** erottunut, avautunut
+**PPP ⟪व्यक्त⟫ :** erottunut, avautunut <!-- TODO: Fallback translation -->
 
 siitä:
 **⟪व्यञ्जन⟫ n.:** erottamiskeino = voide, mauste, tunnusmerkki, konsonantti (se, minkä kautta merkitykset erotetaan)
@@ -145,7 +145,7 @@ Kathakali-tanssin valmistelu, Kochi.
 **Pass. ⟪भुज्यते⟫**
 **Kaus. ⟪भोजयति⟫**
 **PPP bhukt → PPP ⟪भुक्त⟫**
-**Inf. ⟪भोक्तुम्⟫**
+**Inf. ⟪भोक्तुम्⟫** <!-- TODO: Fallback translation -->
 
 siitä:
 **⟪भोग⟫ m.:** nautinto, syöminen, ilo, hyöty, vero, maksu
@@ -156,7 +156,7 @@ siitä:
 **Pass. ⟪बध्यते⟫**
 **Kaus. ⟪बन्धयति⟫**
 **PPP ⟪बद्ध⟫**
-**Inf. ⟪बद्धुम्⟫**
+**Inf. ⟪बद्धुम्⟫** <!-- TODO: Fallback translation -->
 
 siitä:
 **⟪बन्धन⟫ n.:** sitominen, kahle
@@ -172,13 +172,13 @@ Kuv.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : syntyä, olla olemassa
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : syntyä, olla olemassa <!-- TODO: Fallback translation -->
 
 **⟪शरीर⟫ n.:** ruumis, vartalo
 
 ## 31.3. Harjoitus
 
-A) Käännä seuraavat lauseet ja purekaavi yhdyssanat:
+A) Käännä seuraavat lauseet ja purekaavi yhdyssanat: <!-- TODO: Fallback translation -->
 
 ⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫
 
@@ -202,7 +202,7 @@ Rāhula, der Sohn Buddhas, Laos.
 :::
 ⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
-B) Muodosta seuraavien 7. luokan verbien juurten vartaloista kaikki kolmannen persoonan yksikön ja monikon muodot, P- ja Ā-vartaloilla, indikatiivin ja optatiivin preesensissä:
+B) Muodosta seuraavien 7. luokan verbien juurten vartaloista kaikki kolmannen persoonan yksikön ja monikon muodot, P- ja Ā-vartaloilla, indikatiivin ja optatiivin preesensissä: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪छिद्⟫
 
@@ -216,11 +216,11 @@ B) Muodosta seuraavien 7. luokan verbien juurten vartaloista kaikki kolmannen pe
 
 ::: deleteme-box
 
-**lekt3101:** Joogakuvaukset. [Kuvan lähde: Flickr, 2008-12-25. CC BY]
+**lekt3101:** Joogakuvaukset. [Kuvan lähde: Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
 
-**lekt3102:** Kathakali-tanssin valmistelu, Kochi. [Kuvan lähde: winchrisabi. Flickr, 2008-12-25. CC BY]
+**lekt3102:** Kathakali-tanssin valmistelu, Kochi. [Kuvan lähde: winchrisabi. Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
 
-**lekt3103:** Käsikirjoitus teoksesta Prajñāpāramitā. [Kuvan lähde: zeno.org. Kansallinen omaisuudessav]
+**lekt3103:** Käsikirjoitus teoksesta Prajñāpāramitā. [Kuvan lähde: zeno.org. Kansallinen omaisuudessav] <!-- TODO: Fallback translation -->
 
 **lekt3105:** 18. ratsuväkirykmentin (Intian armeija) panssarit liikkeellä vuoden 1965 Intia–Pakistan -sodan aikana. [Kuvan lähde: Hari Singh Deora / Wikipedia. Kansallinen omaisuudessav]
 

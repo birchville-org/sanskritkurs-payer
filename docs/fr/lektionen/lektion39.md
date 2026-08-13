@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 39
+# Leçon 39
 
 ## 39.1. Les désinences personnelles de la première personne (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**troisième** personne")
 
@@ -34,7 +34,7 @@ Les désinences de la première personne (**:sig[⟪तृतीयः⟫]** ⟪
 **Règle :**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. Première classe de présent (⟪भ्वादि⟫)
+### 39.2.1. Première classe de présent (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P
 
@@ -45,7 +45,7 @@ Les désinences de la première personne (**:sig[⟪तृतीयः⟫]** ⟪
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indikativ Präsens  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
 | **Imperfekt  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
+| **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi | <!-- TODO: Fallback translation -->
 
 :::
 ### 39.2.2. Sixième classe de présent (⟪tudādi⟫)
@@ -110,7 +110,7 @@ Les désinences de la première personne (**:sig[⟪तृतीयः⟫]** ⟪
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. Formation de ⟪अनिट्⟫
+### 39.3.1. Formation de ⟪अनिट्⟫ <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U
 

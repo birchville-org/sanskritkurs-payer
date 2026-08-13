@@ -1,9 +1,9 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: ⲡⲓϣⲁϫⲱ 3
+subtitle: "ⲡⲓⲛⲟϥ ⲉⲧⲃⲏ ϯⲛⲓϣⲟⲡ ⲉⲧⲙⲛⲭⲏⲙⲓ"
 lesson_id: 3
 last_reconstructed: 2026-05-07
-category: "Grammatik"
+category: "Ⲕⲱⲙⲧ"
 status: stable
 ---
 
@@ -39,7 +39,7 @@ status: stable
 **انتباه!** هناك أيضًا أسماء جذور مؤنثة أحادية المقطع على -ī، اللي حالة مفعول به مفرد بتنتهي على -s: مثال، dhī f. "فكرة" -- Nom. sg.: dhīs = ⟪धीस्⟫. كمان lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "قارب" و tantrī (⟪तन्त्री⟫) f. "وتر" بيعملوا حالة مفعول به مفرد بشكل غير منتظم على -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
-## 3.2. Bildung der Feminina zu Maskulina <!-- TODO: Fallback translation -->
+## 3.2. ⲛⲧⲉ ϯⲙⲁⲣⲓϫ ⲛⲧⲉ ϯⲙⲏⲓⲥ ⲛⲧⲉ ϯϣⲟⲡⲓ ⲛⲧⲉ ϯϣⲱⲡⲓ]
 
 ::: grammar-box
 **الذكور على -ا:**
@@ -54,7 +54,7 @@ status: stable
 ## 3.3. ⲛⲟⲙⲓⲛⲁⲧⲓⲃ ⲡⲗⲟⲩⲣⲁⲗ ⲙⲁⲥⲕⲩⲗⲓⲛⲟⲛ ⲛⲉⲙ ⲫⲉⲙⲓⲛⲓⲛⲟⲛ
 
 ::: grammar-box
-ⲡⲓϣⲟⲛ ϧⲉⲙ ⲡⲓϣⲁⲛⲟⲕ **-as**. <!-- TODO: Fallback translation -->
+ⲡⲓϣⲟⲛ ϧⲉⲙ ⲡⲓϣⲁⲛⲟⲕ **-as**.
 - **ϣⲁⲛⲟⲕ ϧⲉⲙ -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
 - **ϣⲁⲛⲟⲕ ϧⲉⲙ -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
 - **ϣⲁⲛⲟⲕ ϧⲉⲙ -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
@@ -91,11 +91,11 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪द�
 :::
 
 ::: grammar-box
-**Einfache Vokale (ausser -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:** <!-- TODO: Fallback translation -->
+**ⲁⲛⲏⲗⲟⲅϧⲉ ⲡⲁⲣⲓⲕⲟⲥ (ⲉⲝ ⲁϧⲓ ϩⲛ -a / -ā) ⲙⲡⲏϥⲧⲉ ϩⲛ ⲇⲓⲕⲟⲥϧⲉ ⲡⲁⲣⲓⲕⲟⲥ ⲛⲁϫⲱ:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
-(!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!)
+(!! Ⲛⲁϥ ϩⲛ ⲡⲱϣⲟⲡ ⲡⲁⲛ ϩⲙⲉϥⲧⲉ ⲇⲓⲕⲟⲥϧⲉ ϩⲛ ⲇⲓⲕⲟϫⲉ!!)
 :::
 مثال:
 
@@ -195,7 +195,7 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 
 ## 3.7. Übung
 
-**A) Translate the following sentences into the plural:**
+**ⲁ) ⲦⲞⲚϨⲎⲤ ⲠⲬⲦⲞⲒϨⲎⲤ ⲠⲬⲦⲞⲒϨⲎⲤ ⲛⲧⲉ ϯⲙⲏⲓⲥ:**
 
 1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
 2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫

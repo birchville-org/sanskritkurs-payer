@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # บทที่ 50
 
@@ -305,8 +305,9 @@ B) จงแปล:
 
 **lekt5003:** [แหล่งที่มาของภาพ: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- เข้าถึงเมื่อ 2009-01-12. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต ไม่ใช้เพื่อการค้า ไม่ดัดแปลง)]
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [แหล่งที่มาของภาพ: Kounosu / Wikipedia. GNU FDLicense]
+**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [แหล่งที่มาของภาพ: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt5008:** Ganeshpuri, อยู่ห่างจากมุมไบ (⟪मुंबई⟫) 80 กม. [แหล่งที่มาของภาพ: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- เข้าถึงเมื่อ 2009-01-13. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ให้เครดิต ไม่ใช้เพื่อการค้า แบบเดียวกัน)]
 
 :::
+

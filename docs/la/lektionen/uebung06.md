@@ -419,7 +419,7 @@ E) Vertite:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
 
 2\. śūdrā inferior.
 

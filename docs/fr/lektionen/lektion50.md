@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Leçon 50
 
@@ -305,7 +305,7 @@ Explications :
 
 **lekt5003:** [Source de l'image : dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Consulté le 2009-01-12. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Source de l'image : Kounosu / Wikipedia. GNU FDLicense]
+**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Source de l'image : Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt5008:** Ganeshpuri, à 80 km de Mumbai (⟪मुंबई⟫) [Source de l'image : Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Consulté le 2009-01-13. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, pas d'utilisation commerciale, partage à l'identique)]
 

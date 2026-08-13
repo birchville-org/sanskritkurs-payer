@@ -100,7 +100,7 @@ Rezultat: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति�
 Rezultatul acestui rezultat: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda merge"
 :::
 ::: grammar-box
-**Excepții de la Schema 1:**
+**Excepții de la Schema 1:** <!-- TODO: Fallback translation -->
 
 **Construite conform Schemei 2 sunt, de asemenea, următoarele verbe:**
 
@@ -347,7 +347,7 @@ Inf. **kāmayitum** / **kamitum**
 Fig.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 Pictură de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2804))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪चुर्⟫** 10 **⟪चोरयति⟫**: a fura
@@ -466,7 +466,7 @@ Fetiță poartă povara. Lângă Ahmedabad.
 4. ⟪लभ्⟫ — ⟪लम्भयति⟫
 5. ⟪हन्⟫ — ⟪घातयति⟫
 6. ⟪जि⟫ — ⟪जापयति⟫
-7. ⟪जीव्⟫ — ⟪जीवयति⟫
+7. ⟪जीव्⟫ — ⟪जीवयति⟫ <!-- TODO: Fallback translation -->
 
 **B. Traduceți următoarele propoziții, descompuneți compusele în sanscrită și formați, folosind verbele simple, propoziții care exprimă ceea ce se întâmplă atunci când este realizat ceea ce este exprimat prin cauzativ:**
 

@@ -47,7 +47,7 @@ outline: 2
 | ⟪अन्तर्⟫ | [antar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=antar&filter=roman&accent=no&transLit=roman) | Adv | ภายใน, ด้านใน ; Postposition กับ Gen. Lok. (, ): ภายใน, ตรงกลาง ; Postposition กับ Gen. Abl. (, ): ออกมาจาก  | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪अन्यथा⟫ | [anyathā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyathā&filter=roman&accent=no&transLit=roman) | — | อื่น, อีกอย่างหนึ่ง, ผิดพลาด, ไม่ถูกต้อง | [25](/th/lektionen/lektion25#_25-5-) |
 | ⟪अन्यद्⟫ | [anyad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyad&filter=roman&accent=no&transLit=roman) | 3 | อื่น (การผันคำเหมือน ) | [43](/th/lektionen/lektion43#_43-4-) |
-| ⟪अन्योन्य⟫ | [anyonya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyonya&filter=roman&accent=no&transLit=roman) | 3 | ซึ่งกันและกัน, | [52](/th/lektionen/lektion52#_52-7-) |
+| ⟪अन्योन्य⟫ | [anyonya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyonya&filter=roman&accent=no&transLit=roman) | 3 | ซึ่งกันและกัน | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪अपवर्ग⟫ | [apavarga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apavarga&filter=roman&accent=no&transLit=roman) | — | จุดจบ, การหลุดพ้น | [20](/th/lektionen/lektion20#_20-9-) |
 | ⟪अपोह⟫ | [apoha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apoha&filter=roman&accent=no&transLit=roman) | m | การปฏิเสธ ( + ) | [24](/th/lektionen/lektion24#_24-4-) |
 | ⟪अभि⟫ | [abhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhi&filter=roman&accent=no&transLit=roman) | — | be-, nach - ไป, ถึง - มา, ถึง - ต่อ, ใน - เข้าไป, เกี่ยวกับ, บน, เหนือ | [24](/th/lektionen/lektion24#_24-4-) |
@@ -108,7 +108,7 @@ outline: 2
 | ⟪इन्द्र⟫ | [indra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indra&filter=roman&accent=no&transLit=roman) | m | เจ้าผู้ปกครอง, ผู้แรก, ที่ดีที่สุด among ; พระราชาแห่งเทพเจ้าอินทรา | [15](/th/lektionen/lektion15#_15-8-) |
 | ⟪इन्द्रिय⟫ | [indriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indriya&filter=roman&accent=no&transLit=roman) | n | พลัง, อวัยวะรับความรู้สึก | [24](/th/lektionen/lektion24#_24-4-) |
 | ⟪इव⟫ | [iva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iva&filter=roman&accent=no&transLit=roman) | — | เสมือน, เช่น (ในการเปรียบเทียบ: = "ชายคนหนึ่งเหมือนเสือ", "ชายผู้ดุจเสือ" | [15](/th/lektionen/lektion15#_15-8-) |
-| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ส่ง | [42](/th/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | sig[] : ส่ง | [42](/th/lektionen/lektion42#_42-2-) |
 | ⟪इह⟫ | [iha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iha&filter=roman&accent=no&transLit=roman) | Adv | ที่นี่, บนโลกนี้, มาที่นี่ ; ตอนนี้. หน้าคำนามใน Lokativ () มีความหมายเดียวกับ  | [50](/th/lektionen/lektion50#_50-2-) |
 
 ## ई
@@ -204,12 +204,7 @@ outline: 2
 | ⟪कोविद⟫ | [kovida](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kovida&filter=roman&accent=no&transLit=roman) | 3 | ชำนาญใน ( ) | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪कौमर⟫ | [kaumara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kaumara&filter=roman&accent=no&transLit=roman) | — | วัยเด็ก | [48](/th/lektionen/lektion48#_48-4-) |
 | ⟪कौशिक⟫ | [kauśika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kauśika&filter=roman&accent=no&transLit=roman) | — | นกฮูก | [51](/th/lektionen/lektion51#_51-6-) |
-| ⟪क्रमयति⟫ | [kramayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramayati&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
-| ⟪क्रमितुम्⟫ | [kramitum](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramitum&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
-| ⟪क्रमिष्यति⟫ | [kramiṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramiṣyati&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | เดิน, ไป | [35](/th/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्यते⟫ | [kramyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramyate&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
-| ⟪क्रा⟫ | [krā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krā&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | sig[], 4P :sig[] : เดิน, ไป | [35](/th/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | [kriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kriyā&filter=roman&accent=no&transLit=roman) | — | การกระทำ, พิธีกรรมศักดิ์สิทธิ์, การบูชา, พิธีการ (เกี่ยวข้องกับ 8) | [20](/th/lektionen/lektion20#_20-9-) |
 | ⟪क्री⟫ | [krī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krī&filter=roman&accent=no&transLit=roman) | 9U | ซื้อ | [30](/th/lektionen/lektion30#_30-6-) |
 | ⟪क्रूर⟫ | [krūra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krūra&filter=roman&accent=no&transLit=roman) | 3 | ดิบ, โหดร้าย | [51](/th/lektionen/lektion51#_51-6-) |
@@ -218,10 +213,6 @@ outline: 2
 | ⟪क्षत्रियी⟫ | [kṣatriyī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriyī&filter=roman&accent=no&transLit=roman) | f | ภรรยาของกษัตริย์ | [3](/th/lektionen/lektion03#_3-6-) |
 | ⟪क्षमा⟫ | [kṣamā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣamā&filter=roman&accent=no&transLit=roman) | f | ความอดทน, ความเมตตา, ความใจกว้าง | [16](/th/lektionen/lektion16#_16-2-) |
 | ⟪क्षिप्⟫ | [kṣip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣip&filter=roman&accent=no&transLit=roman) | 6P | ทิ้ง, โยน | [49](/th/lektionen/lektion49#_49-4-) |
-| ⟪क्षिप्त⟫ | [kṣipta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣipta&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪क्षिप्यते⟫ | [kṣipyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣipyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪क्षेपयति⟫ | [kṣepayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣepayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪क्षेप्स्यति⟫ | [kṣepsyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣepsyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
 | ⟪क्षेम⟫ | [kṣema](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣema&filter=roman&accent=no&transLit=roman) | n | ความสงบ, สันติภาพ, ความเป็นอยู่ที่ดี, การครอบครองที่มั่นคง | [16](/th/lektionen/lektion16#_16-2-) |
 
 ## ख
@@ -240,24 +231,16 @@ outline: 2
 | ⟪गम्⟫ | [gam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gam&filter=roman&accent=no&transLit=roman) | — | พบ, ถึง, บรรลุ | [20](/th/lektionen/lektion20#_20-9-) |
 | ⟪गर्भगृह⟫ | [garbhagṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garbhagṛha&filter=roman&accent=no&transLit=roman) | — | Volwahsen, A.: อินเดีย : สิ่งปลูกสร้างของชาวฮินดู พุทธ และไจนา. -- มิวนิก, 1968) | [19](/th/lektionen/lektion19#_19-3-) |
 | ⟪गर्ह्⟫ | [garh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garh&filter=roman&accent=no&transLit=roman) | 1Ā | ด่าทอ, ตำหนิ | [51](/th/lektionen/lektion51#_51-6-) |
-| ⟪गापयति⟫ | [gāpayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gāpayati&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
-| ⟪गास्यति⟫ | [gāsyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gāsyati&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
-| ⟪गीत⟫ | [gīta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gīta&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
-| ⟪गीयते⟫ | [gīyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gīyate&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
 | ⟪गुप्त⟫ | [gupta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gupta&filter=roman&accent=no&transLit=roman) | 3 | ปกป้อง, ป้องกัน | [29](/th/lektionen/lektion29#_29-2-) |
 | ⟪गुरु⟫ | [guru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=guru&filter=roman&accent=no&transLit=roman) | 3 | ร้ายแรง มีนัยสำคัญ น่าเคารพ | [2](/th/lektionen/lektion02#_2-5-) |
 | ⟪गुर्वी⟫ | [gurvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gurvī&filter=roman&accent=no&transLit=roman) | f | รูปสตรีของ guru | [3](/th/lektionen/lektion03#_3-6-) |
 | ⟪गृहस्थ⟫ | [gṛhastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhastha&filter=roman&accent=no&transLit=roman) | 3 | อยู่ในบ้าน; m. หัวหน้าครอบครัว (บุคคลที่อยู่ในสถานะที่ 2 ) | [29](/th/lektionen/lektion29#_29-2-) |
-| ⟪गृहीत⟫ | [gṛhīta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhīta&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪गृह्यते⟫ | [gṛhyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
 | ⟪गै⟫ | [gai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gai&filter=roman&accent=no&transLit=roman) | 1P | ร้องเพลง, สวดด้วยทำนองร้องเพลง, ประกาศในถ้อยคำที่มีจังหวะ | [35](/th/lektionen/lektion35#_35-4-) |
 | ⟪गोदान⟫ | [godāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=godāna&filter=roman&accent=no&transLit=roman) | n | การให้วัว / วัวหนึ่งตัว; พิธีตัดผมครั้งที่สอง (พิธี ) | [25](/th/lektionen/lektion25#_25-5-) |
 | ⟪ग्रस्⟫ | [gras](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gras&filter=roman&accent=no&transLit=roman) | 1Ā | กิน, กัดกิน | [29](/th/lektionen/lektion29#_29-2-) |
 | ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | m | การจับ, ผู้จับ, จระเข้, ดาวเคราะห์ | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | n | การจับ | [24](/th/lektionen/lektion24#_24-4-) |
-| ⟪ग्रहीष्यति⟫ | [grahīṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahīṣyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | จับ, ถือ, กอด | [46](/th/lektionen/lektion46#_46-2-) |
-| ⟪ग्राहयति⟫ | [grāhayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāhayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
+| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : จับ, ถือ, กอด | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | 1P | รู้สึกไม่เต็มใจ, จางหาย | [36](/th/lektionen/lektion36#_36-4-) |
 
 ## घ
@@ -266,14 +249,13 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghāta&filter=roman&accent=no&transLit=roman) | m | การฆ่า | [17](/th/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | [ghṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghṛta&filter=roman&accent=no&transLit=roman) | — | เนยละลาย, กี ( / گھی / ঘী) | [33](/th/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | ได้กลิ่น | [36](/th/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | sig[] : ได้กลิ่น | [36](/th/lektionen/lektion36#_36-4-) |
 
 ## च
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪चक्र⟫ | [cakra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakra&filter=roman&accent=no&transLit=roman) | — | ล้อ | [52](/th/lektionen/lektion52#_52-7-) |
-| ⟪चक्राम⟫ | [cakrāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakrāma&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
 | ⟪चक्ष्⟫ | [cakṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakṣ&filter=roman&accent=no&transLit=roman) | 2Ā | เห็น | [50](/th/lektionen/lektion50#_50-2-) |
 | ⟪चतुर्थ⟫ | [caturtha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=caturtha&filter=roman&accent=no&transLit=roman) | 3 | ลำดับที่สี่ | [15](/th/lektionen/lektion15#_15-8-) |
 | ⟪चर⟫ | [cara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cara&filter=roman&accent=no&transLit=roman) | — | สิ่งที่สามารถเคลื่อนไหวได้ = สัตว์ (ต่างจากพืช) | [22](/th/lektionen/lektion22#_22-3-) |
@@ -281,17 +263,13 @@ outline: 2
 | ⟪चर्⟫ | [car](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=car&filter=roman&accent=no&transLit=roman) | — | ปฏิบัติคำปฏิญาณ โดยเฉพาะความบริสุทธิ์ทางเพศ) | [22](/th/lektionen/lektion22#_22-3-) |
 | ⟪चल्⟫ | [cal](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cal&filter=roman&accent=no&transLit=roman) | 1P | เคลื่อนไหว | [42](/th/lektionen/lektion42#_42-2-) |
 | ⟪चाण्डाल⟫ | [cāṇḍāla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cāṇḍāla&filter=roman&accent=no&transLit=roman) | — | ระดับล่างสุดของ [Dalits](http://de.wikipedia.org/wiki/Dalit) | [49](/th/lektionen/lektion49#_49-4-) |
-| ⟪चाययति⟫ | [cāyayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cāyayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪चि⟫ | [ci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ci&filter=roman&accent=no&transLit=roman) | 5U | , รวมกัน | [36](/th/lektionen/lektion36#_36-4-) |
-| ⟪चित⟫ | [cita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cita&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
+| ⟪चि⟫ | [ci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ci&filter=roman&accent=no&transLit=roman) | 5U |  รวมกัน | [36](/th/lektionen/lektion36#_36-4-) |
 | ⟪चित्त⟫ | [citta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=citta&filter=roman&accent=no&transLit=roman) | n | จิตสำนึก การคิด มโนธรรม | [16](/th/lektionen/lektion16#_16-2-) |
 | ⟪चिन्तापर⟫ | [cintāpara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cintāpara&filter=roman&accent=no&transLit=roman) | 3 | จมอยู่ในความคิด | [42](/th/lektionen/lektion42#_42-2-) |
 | ⟪चिन्त्⟫ | [cint](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cint&filter=roman&accent=no&transLit=roman) | — | คิด, พิจารณา | [51](/th/lektionen/lektion51#_51-6-) |
-| ⟪चीयते⟫ | [cīyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cīyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
 | ⟪चुर्⟫ | [cur](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cur&filter=roman&accent=no&transLit=roman) | — | ลักขโมย | [28](/th/lektionen/lektion28#_28-10-) |
 | ⟪चेत्⟫ | [cet](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cet&filter=roman&accent=no&transLit=roman) | — | ถ้า; โดยสมมติว่า (ไม่อยู่ต้นประโยค) | [30](/th/lektionen/lektion30#_30-6-) |
 | ⟪चेष्ट्⟫ | [ceṣṭ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ceṣṭ&filter=roman&accent=no&transLit=roman) | — | เคลื่อนไหว | [20](/th/lektionen/lektion20#_20-9-) |
-| ⟪चेष्यति⟫ | [ceṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ceṣyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
 | ⟪चौल⟫ | [caula](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=caula&filter=roman&accent=no&transLit=roman) | n | พิธี () การตัดผม (เมื่ออายุ 3 ปี) | [24](/th/lektionen/lektion24#_24-4-) |
 | ⟪च्यु⟫ | [cyu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cyu&filter=roman&accent=no&transLit=roman) | 1Ā | เคลื่อนไหว, เคลื่อนที่, ตก | [52](/th/lektionen/lektion52#_52-7-) |
 
@@ -306,7 +284,6 @@ outline: 2
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
-| ⟪जगौ⟫ | [jagau](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jagau&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
 | ⟪जटा⟫ | [jaṭā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jaṭā&filter=roman&accent=no&transLit=roman) | — | ผมเปีย (ทรงผมของฤๅษี) | [51](/th/lektionen/lektion51#_51-6-) |
 | ⟪जन्मन्⟫ | [janman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=janman&filter=roman&accent=no&transLit=roman) | — | การเกิด | [43](/th/lektionen/lektion43#_43-4-) |
 | ⟪जव⟫ | [java](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=java&filter=roman&accent=no&transLit=roman) | 3 | เร็ว, รีบ | [43](/th/lektionen/lektion43#_43-4-) |
@@ -388,8 +365,11 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | — | สิ่งที่ยึดมั่นและยึดไว้ได้ = ธรรม | [25](/th/lektionen/lektion25#_25-5-) |
-| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | — | มุ่งความสนใจทั้งหมดไปที่บางสิ่ง, รวมตัว | [33](/th/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | อัญ | — | sig[] | [33](/th/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | [dhānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhānya&filter=roman&accent=no&transLit=roman) | — | ธัญพืชที่สีแล้ว | [25](/th/lektionen/lektion25#_25-5-) |
+| ⟪धापयति⟫ | เหตุ | — | sig[] | [33](/th/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | อนาคต | — | sig[] | [33](/th/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | สุภาพ | — | sig[] | [33](/th/lektionen/lektion33#_33-6-) |
 | ⟪धीर⟫ | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhīra&filter=roman&accent=no&transLit=roman) | 3 | มั่นคง, ยืนหยัด, ต่อเนื่อง, ดื้อรั้น | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | [dhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhṛ&filter=roman&accent=no&transLit=roman) | 1U | ถือ, จับให้แน่น | [25](/th/lektionen/lektion25#_25-5-) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (โคนม) | [3](/th/lektionen/lektion03#_3-6-) |
@@ -401,7 +381,6 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪ननान्दृ⟫ | [nanāndṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nanāndṛ&filter=roman&accent=no&transLit=roman) | f | พี่ชายของสามี | [42](/th/lektionen/lektion42#_42-2-) |
-| ⟪ननाश⟫ | [nanāśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nanāśa&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
 | ⟪नन्दिन्⟫ | [nandin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nandin&filter=roman&accent=no&transLit=roman) | 3 | มีลักษณะโดย (ความ) สุขเป็นพิเศษ, ด้วยความสุข ; น. ชื่อของพาหนะ () ของ (วัวผู้) | [44](/th/lektionen/lektion44#_44-5-) |
 | ⟪नन्द्⟫ | [nand](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nand&filter=roman&accent=no&transLit=roman) | 1P | ยินดีกับ () | [44](/th/lektionen/lektion44#_44-5-) |
 | ⟪नप्तृ⟫ | [naptṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naptṛ&filter=roman&accent=no&transLit=roman) | m | หลาน | [42](/th/lektionen/lektion42#_42-2-) |
@@ -409,11 +388,9 @@ outline: 2
 | ⟪नम्⟫ | [nam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nam&filter=roman&accent=no&transLit=roman) | — | โค้ง | [20](/th/lektionen/lektion20#_20-9-) |
 | ⟪नम्⟫ | [nam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nam&filter=roman&accent=no&transLit=roman) | 1P | ก้ม,bow,เอียงตัว,โค้งคำนับ | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪नवग्रह⟫ | [navagraha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=navagraha&filter=roman&accent=no&transLit=roman) | m | ดาวเคราะห์เก้าดวง (ไม่ใช่ดาวเคราะห์!) (ดู Basham, Wonder หน้า 493) | [46](/th/lektionen/lektion46#_46-2-) |
-| ⟪नशिष्यति⟫ | [naśiṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naśiṣyati&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
 | ⟪नश्⟫ | [naś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naś&filter=roman&accent=no&transLit=roman) | 4P | หายไป, พินาศ, ล่องหน | [35](/th/lektionen/lektion35#_35-4-) |
 | ⟪नाभि⟫ | [nābhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nābhi&filter=roman&accent=no&transLit=roman) | — | สะดือ | [20](/th/lektionen/lektion20#_20-9-) |
 | ⟪नामन्⟫ | [nāman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāman&filter=roman&accent=no&transLit=roman) | n | ชื่อ | [38](/th/lektionen/lektion38#_38-9-) |
-| ⟪नाशयति⟫ | [nāśayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāśayati&filter=roman&accent=no&transLit=roman) | — | br | [35](/th/lektionen/lektion35#_35-4-) |
 | ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | ลงไป, ด้านล่าง, เข้าไปใน, ย้อนกลับ | [20](/th/lektionen/lektion20#_20-9-) |
 | ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | ลง, ลงไป, เข้าไปใน, ย้อนกลับ | [24](/th/lektionen/lektion24#_24-4-) |
 | ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | ลงไป, ด้านล่าง, เข้าไปใน, ย้อนกลับ | [46](/th/lektionen/lektion46#_46-2-) |
@@ -544,7 +521,7 @@ outline: 2
 | ⟪भृत्य⟫ | [bhṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛtya&filter=roman&accent=no&transLit=roman) | — | ผู้ใต้บังคับบัญชา, บ่าว | [28](/th/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | คำอุทานในการเรียก, เช่น: เฮ้, ฮีดา, โอ้, เอ๋ย, สวัสดี, ไฮ! มักไม่สามารถแปลได้โดยตรง Particles นี้มี Sandhi พิเศษ: ก่อนเส | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | [bhraṃśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhraṃśa&filter=roman&accent=no&transLit=roman) | m | การหายไป | [46](/th/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | เดินเร่ร่อน, เดินเตร่ | [46](/th/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | sig[] : เดินเร่ร่อน, เดินเตร่ | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | [bhrātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhrātṛ&filter=roman&accent=no&transLit=roman) | m | พี่ชายหรือน้องชาย | [42](/th/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -605,7 +582,7 @@ outline: 2
 | ⟪यदि⟫ | [yadi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadi&filter=roman&accent=no&transLit=roman) | — | ถ้า | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | [yadyapi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyapi&filter=roman&accent=no&transLit=roman) | — | แม้แต่, แม้ว่า, ทั้งที่ | [30](/th/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | [yadyevam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyevam&filter=roman&accent=no&transLit=roman) | — | ถ้าเป็นเช่นนั้น, ในกรณีนี้ | [30](/th/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | ถือ, นำ ; มอบให้, ให้; รวมกัน, ควบคุม, จูง, ชักลาก, ยอมจำนน | [44](/th/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | sig[] : ถือ, นำ ; มอบให้, ให้; รวมกัน, ควบคุม, จูง, ชักลาก, ยอมจำนน | [44](/th/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | [yā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yā&filter=roman&accent=no&transLit=roman) | 2P | ไป, เดินทาง | [44](/th/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | [yātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yātṛ&filter=roman&accent=no&transLit=roman) | m | ภรรยาของพี่ชายหรือน้องชายของสามี (พี่สะใภ้/น้องสะใภ้) | [42](/th/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | [yāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yāna&filter=roman&accent=no&transLit=roman) | n | การไป, เส้นทาง, ยานพาหนะ | [44](/th/lektionen/lektion44#_44-5-) |
@@ -635,11 +612,7 @@ outline: 2
 | ⟪रुधिर⟫ | [rudhira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rudhira&filter=roman&accent=no&transLit=roman) | — | เลือด | [51](/th/lektionen/lektion51#_51-6-) |
 | ⟪रुध्⟫ | [rudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rudh&filter=roman&accent=no&transLit=roman) | 7U | หยุด, ทำให้หยุดนิ่ง, ยับยั้ง = กักขัง, ปิดบัง | [31](/th/lektionen/lektion31#_31-2-) |
 | ⟪रुह्⟫ | [ruh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ruh&filter=roman&accent=no&transLit=roman) | 1P | ปีน, ขึ้นสู่ | [46](/th/lektionen/lektion46#_46-2-) |
-| ⟪रुह्यते⟫ | [ruhyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ruhyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪रूढ⟫ | [rūḍha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rūḍha&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
 | ⟪रे⟫ | [re](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=re&filter=roman&accent=no&transLit=roman) | — | เฮ้! คุณนั่น! | [43](/th/lektionen/lektion43#_43-4-) |
-| ⟪रोक्ष्यति⟫ | [rokṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rokṣyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪रोहयति⟫ | [rohayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rohayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
 
 ## ल
 
@@ -652,9 +625,6 @@ outline: 2
 | ⟪लिप्ति⟫ | [lipti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lipti&filter=roman&accent=no&transLit=roman) | — | การทา, การเขียน, ตัวอักษร | [25](/th/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | [līlā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=līlā&filter=roman&accent=no&transLit=roman) | f | การหยอกล้อ, การเล่น | [42](/th/lektionen/lektion42#_42-2-) |
 | ⟪लुप्⟫ | [lup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lup&filter=roman&accent=no&transLit=roman) | — | แตก, ทำลาย | [50](/th/lektionen/lektion50#_50-2-) |
-| ⟪लोकयिष्यति⟫ | [lokayiṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lokayiṣyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪लोकित⟫ | [lokita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lokita&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪लोक्यते⟫ | [lokyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lokyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
 | ⟪लौल्य⟫ | [laulya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laulya&filter=roman&accent=no&transLit=roman) | — | ความโลภ, ความใคร่ | [52](/th/lektionen/lektion52#_52-7-) |
 
 ## व
@@ -664,7 +634,6 @@ outline: 2
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | — | ผู้ฉ้อโกง | [43](/th/lektionen/lektion43#_43-4-) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | m | พ่อค้า | [43](/th/lektionen/lektion43#_43-4-) |
 | ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | m | ลูกวัว, ลูกอ่อน, เด็ก; vocative: เพื่อนรักของฉัน | [43](/th/lektionen/lektion43#_43-4-) |
-| ⟪वत्स्यति⟫ | fut.: | — | br pass.: :br PPP: :br inf | [27](/th/lektionen/lektion27#_27-5-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | ยินดีอย่างเป็นทางการ, กล่าวทักทาย | [36](/th/lektionen/lektion36#_36-4-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | 1P | ตอบกลับ = ตอบ | [44](/th/lektionen/lektion44#_44-5-) |
 | ⟪वन⟫ | [vana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vana&filter=roman&accent=no&transLit=roman) | — | ป่า | [51](/th/lektionen/lektion51#_51-6-) |
@@ -675,9 +644,8 @@ outline: 2
 | ⟪वर्ग⟫ | [varga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varga&filter=roman&accent=no&transLit=roman) | — | ส่วน, หมวด, กลุ่ม | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | — | สี, สถานะกำเนิด (ความพยายาม) | [2](/th/lektionen/lektion02#_2-5-) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | — | ฝน, ฤดูฝน, ปี | [25](/th/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | :sig[] : ต้องการ, สั่ง, ต้องการ | [52](/th/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], Imperat. 2.sg.: :sig[] : ต้องการ, สั่ง, ต้องการ | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("ส่องแสง" =) ฤดูใบไม้ผลิ (มีนาคมถึงพฤษภาคม) | [27](/th/lektionen/lektion27#_27-5-) |
-| ⟪वसिष्यते⟫ | fut.: | — | br PPP: :br inf | [27](/th/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | ความมั่งคั่ง, มรดก, ทรัพย์สิน, การเป็นเจ้าของ | [27](/th/lektionen/lektion27#_27-5-) |
 | ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | พักอยู่, อาศัยอยู่ (ร่วมกับ locative ของบุคคลที่ตนอาศัยอยู่) | [27](/th/lektionen/lektion27#_27-5-) |
 | ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | n | ที่นั่ง, สถานที่; วัตถุจริง, สิ่งของที่เป็นรูปธรรม, ความจริง, วัตถุประสงค์ | [27](/th/lektionen/lektion27#_27-5-) |
@@ -727,7 +695,7 @@ outline: 2
 | ⟪वेष⟫ | [veṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=veṣa&filter=roman&accent=no&transLit=roman) | m | เครื่องแต่งกาย, รูปลักษณ์, ภายนอก | [49](/th/lektionen/lektion49#_49-4-) |
 | ⟪वै⟫ | [vai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vai&filter=roman&accent=no&transLit=roman) | — | อนุภาคที่เน้นคำก่อนหน้า: แท้จริง, แน่นอน, แต่ | [50](/th/lektionen/lektion50#_50-2-) |
 | ⟪वैश्य⟫ | [vaiśya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśya&filter=roman&accent=no&transLit=roman) | — | ไวกษัย (สถานะเกษตรกรและพ่อค้า) | [2](/th/lektionen/lektion02#_2-5-) |
-| ⟪वैश्या⟫ | [vaiśyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśyā&filter=roman&accent=no&transLit=roman) | f | ไศยสตรี | [3](/th/lektionen/lektion03#_3-6-) |
+| ⟪वैश्या⟫ | [vaiśyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśyā&filter=roman&accent=no&transLit=roman) | f | ไ往ศยสตรี | [3](/th/lektionen/lektion03#_3-6-) |
 | ⟪व्यवहार⟫ | [vyavahāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyavahāra&filter=roman&accent=no&transLit=roman) | — | การกระทำ, การเปลี่ยนแปลง, การติดต่อ, การค้าขาย, ธุรกิจ, การค้า, (กระบวนการ) ศาล | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪व्याकरण⟫ | [vyākaraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyākaraṇa&filter=roman&accent=no&transLit=roman) | — | ไวยากรณ์ (เกี่ยวกับ ) | [48](/th/lektionen/lektion48#_48-4-) |
 | ⟪व्याघ्र⟫ | [vyāghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyāghra&filter=roman&accent=no&transLit=roman) | m | เสือโคร่ง (_Panthera tigris tigris_) (ตามตัวอักษร: ผู้หาว) | [15](/th/lektionen/lektion15#_15-8-) |
@@ -740,7 +708,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪शंस्⟫ | [śaṃs](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śaṃs&filter=roman&accent=no&transLit=roman) | 1P | ชมเชย, สั่ง | [42](/th/lektionen/lektion42#_42-2-) |
-| ⟪शकुनि⟫ | [śakuni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śakuni&filter=roman&accent=no&transLit=roman) | — | นก | [51](/th/lektionen/lektion51#_51-6-) |
+| ⟪शकुनि⟫ | [śakuni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śakuni&filter=roman&accent=no&transLit=roman) | — | นก <!-- TODO: Fallback translation --> | [51](/th/lektionen/lektion51#_51-6-) |
 | ⟪शक्ति⟫ | [śakti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śakti&filter=roman&accent=no&transLit=roman) | — | พลังแห่งเทพเจ้า, บุคคลเป็นหญิงโดยเฉพาะของ | [22](/th/lektionen/lektion22#_22-3-) |
 | ⟪शबर⟫ | [śabara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śabara&filter=roman&accent=no&transLit=roman) | — | ชื่อเฉพาะของชนเผ่าที่ไม่ใช่ภาษาอารยัน | [51](/th/lektionen/lektion51#_51-6-) |
 | ⟪शब्द⟫ | [śabda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śabda&filter=roman&accent=no&transLit=roman) | — | เสียง, โทนเสียง, เสียงสัญญาณ: คำ | [18](/th/lektionen/lektion18#_18-4-) |
@@ -760,7 +728,7 @@ outline: 2
 | ⟪शिशु⟫ | [śiśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiśu&filter=roman&accent=no&transLit=roman) | m | เด็ก, ลูกสัตว์ | [49](/th/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | [śiṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣ&filter=roman&accent=no&transLit=roman) | 7P | ทิ้งไว้, เหลือทิ้ง | [51](/th/lektionen/lektion51#_51-6-) |
 | ⟪शिष्य⟫ | [śiṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣya&filter=roman&accent=no&transLit=roman) | 3 | ผู้ควรได้รับการสอน = นักเรียน | [41](/th/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | นอนอยู่ รากนี้ในทุก bentukของปัจจุบันมีระดับสูง: 1.sg.Ind.Präs.Ā :sig[] (śe + e) รูปต่อไปนี้มี: 3.pl.Ind.Präs.Ā :sig[] | [44](/th/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | นอนอยู่ รากนี้ในทุก bentukของปัจจุบันมีระดับสูง: 1.sg.Ind.Präs.Ā :sig[] (śe + e) รูปต่อไปนี้มี: 3.pl.Ind.Präs.Ā :sig[],  | [44](/th/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīghra&filter=roman&accent=no&transLit=roman) | 3 | เร็ว, รวดเร็ว | [43](/th/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīla&filter=roman&accent=no&transLit=roman) | — | ประเพณี, ความเคยชิน, ธรรมชาติ, ลักษณะนิสัย, ความดี = จริยธรรม | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | ส่องแสง, เรืองรอง; m.: ความบริสุทธิ์ | [29](/th/lektionen/lektion29#_29-2-) |
@@ -774,12 +742,7 @@ outline: 2
 | ⟪शोक⟫ | [śoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śoka&filter=roman&accent=no&transLit=roman) | m | ความเศร้า, ความทุกข์ | [38](/th/lektionen/lektion38#_38-9-) |
 | ⟪शोभन⟫ | [śobhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śobhana&filter=roman&accent=no&transLit=roman) | 3 | ส่องแสง, สวยงาม, หรูหรา, สวย, ดี | [18](/th/lektionen/lektion18#_18-4-) |
 | ⟪शौच⟫ | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śauca&filter=roman&accent=no&transLit=roman) | n | การชำระให้บริสุทธิ์ ความสะอาด | [16](/th/lektionen/lektion16#_16-2-) |
-| ⟪श्रमयति⟫ | [śramayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪श्रमित्वा⟫ | [śramitvā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramitvā&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪श्रमिष्यते⟫ | [śramiṣyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramiṣyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | พยายามอย่างหนัก, เหนื่อยล้า | [46](/th/lektionen/lektion46#_46-2-) |
-| ⟪श्रम्यते⟫ | [śramyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
-| ⟪श्रान्त⟫ | [śrānta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śrānta&filter=roman&accent=no&transLit=roman) | — | br | [32](/th/lektionen/lektion32#_32-5-) |
+| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : พยายามอย่างหนัก, เหนื่อยล้า | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | พาดพิง, พักพิง, หาที่พึ่ง, ไปหาใครสักคน (, ) | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | การฟัง, ศรัทธนิกรณ (ชื่อเรียกพระเวทและคัมภีร์พราหมณะ) | [3](/th/lektionen/lektion03#_3-6-) |
 | ⟪श्रेष्ठिन्⟫ | [śreṣṭhin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śreṣṭhin&filter=roman&accent=no&transLit=roman) | m | พ่อค้าผู้มั่งคั่ง | [43](/th/lektionen/lektion43#_43-4-) |
@@ -800,10 +763,10 @@ outline: 2
 | ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | m | การติด, การสัมผัส () | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | — | (จาก - : รวมกันตี): กลุ่ม, กอง, สังคม (เช่น พุทธศาสนา) | [41](/th/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | แขวน, ติดพัน | [48](/th/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | ติด, ยึดติดกับ () | [46](/th/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : ติด, ยึดติดกับ () | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | เร็ว, รีบ | [43](/th/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | นั่ง, ตั้งตัว | [20](/th/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | นั่งลง | [46](/th/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : นั่งลง | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪सनातन⟫ | [sanātana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sanātana&filter=roman&accent=no&transLit=roman) | — |  นิรันดร์, ไม่เสื่อมสลาย, มั่นคง | [30](/th/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | เท่ากัน, เสมอ, คล้าย (กับกรณีนามstrumental) | [18](/th/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | เท่ากัน, เปรียบเสมือน, คล้ายคลึง | [46](/th/lektionen/lektion46#_46-2-) |
@@ -825,7 +788,7 @@ outline: 2
 | ⟪सार⟫ | [sāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāra&filter=roman&accent=no&transLit=roman) | — | แก่น, ไข, สาระสำคัญ, สารัตถะ | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪सिंह⟫ | [siṃha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=siṃha&filter=roman&accent=no&transLit=roman) | m | สิงโต (_Panthera leo persica_) | [15](/th/lektionen/lektion15#_15-8-) |
 | ⟪सीमन्⟫ | [sīman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sīman&filter=roman&accent=no&transLit=roman) | f | ขอบเขต | [38](/th/lektionen/lektion38#_38-9-) |
-| ⟪सुत⟫ | [suta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suta&filter=roman&accent=no&transLit=roman) | m | ลูกชาย | [38](/th/lektionen/lektion38#_38-9-) |
+| ⟪सुत⟫ | [suta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suta&filter=roman&accent=no&transLit=roman) | m | ลูกชาย <!-- TODO: Fallback translation --> | [38](/th/lektionen/lektion38#_38-9-) |
 | ⟪सुष्टु⟫ | [suṣṭu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suṣṭu&filter=roman&accent=no&transLit=roman) | 3 | ได้รับการสรรเสริญสูง, ยอดเยี่ยม, ดี | [18](/th/lektionen/lektion18#_18-4-) |
 | ⟪सूक्ष्म⟫ | [sūkṣma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sūkṣma&filter=roman&accent=no&transLit=roman) | 3 | เล็ก, จิ๋ว, บางเบา | [48](/th/lektionen/lektion48#_48-4-) |
 | ⟪सूर्य⟫ | [sūrya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sūrya&filter=roman&accent=no&transLit=roman) | — | พระอาทิตย์ เทพเจ้าแห่งพระอาทิตย์ สุริย | [38](/th/lektionen/lektion38#_38-9-) |
@@ -851,7 +814,7 @@ outline: 2
 | ⟪स्वयम्⟫ | [svayam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svayam&filter=roman&accent=no&transLit=roman) | — | เอง, โดยตัวเอง | [49](/th/lektionen/lektion49#_49-4-) |
 | ⟪स्वसृ⟫ | [svasṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svasṛ&filter=roman&accent=no&transLit=roman) | f | พี่สาวหรือน้องสาว | [42](/th/lektionen/lektion42#_42-2-) |
 | ⟪स्वस्ति⟫ | [svasti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svasti&filter=roman&accent=no&transLit=roman) | f | โชค, ความสงบสุข (การสร้างนามจาก = "มันดี") | [24](/th/lektionen/lektion24#_24-4-) |
-| ⟪स्वागत⟫ | [svāgata](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svāgata&filter=roman&accent=no&transLit=roman) | n | ยินดีต้อนรับ (จาก su-ā-gata) | [24](/th/lektionen/lektion24#_24-4-) |
+| ⟪स्वागत⟫ | [svāgata](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svāgata&filter=roman&accent=no&transLit=roman) | n | ยินดีต้อนรับ (จาก su-ā-gata) <!-- TODO: Fallback translation --> | [24](/th/lektionen/lektion24#_24-4-) |
 | ⟪स्वाध्याय⟫ | [svādhyāya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svādhyāya&filter=roman&accent=no&transLit=roman) | — | "การศึกษาตนเอง", การสวด (โดยเฉพาะเวท), การศึกษาพระเวท | [20](/th/lektionen/lektion20#_20-9-) |
 
 ## ह
@@ -862,12 +825,12 @@ outline: 2
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | 2P | ตีกลับ | [44](/th/lektionen/lektion44#_44-5-) |
 | ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | นำไป; m.: ผู้ทำลาย = ชื่อรองของ Śiva | [27](/th/lektionen/lektion27#_27-5-) |
 | ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | ผมสีบลอนด์, สีเหลือง, สีเขียว; m. ชื่อรองของ Viṣṇu (ไม่เกี่ยวข้องกับรากศัพท์ 1) | [27](/th/lektionen/lektion27#_27-5-) |
-| ⟪हरिष्यति⟫ | fut.: | — | br pass.: :br PPP: :br inf | [27](/th/lektionen/lektion27#_27-5-) |
 | ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | Viṣṇu และ Śiva รวมเป็นเทพเจ้าองค์เดียว | [27](/th/lektionen/lektion27#_27-5-) |
 | ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | m | (การตั้งขนขึ้น), ความยินดี | [25](/th/lektionen/lektion25#_25-5-) |
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | — | มือ | [18](/th/lektionen/lektion18#_18-4-) |
 | ⟪हस्तिन्⟫ | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hastin&filter=roman&accent=no&transLit=roman) | m | ช้าง (_Elephas maximus_) | [38](/th/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | [hā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hā&filter=roman&accent=no&transLit=roman) | 3P | ทิ้ง | [33](/th/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/th/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य⟫ | [hiraṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hiraṇya&filter=roman&accent=no&transLit=roman) | — | สีทอง ; n.: ทอง, เงิน, ความมั่งคั่ง | [25](/th/lektionen/lektion25#_25-5-) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | ทิ้งโดย, ขาดแคลน, ไม่สมบูรณ์ | [33](/th/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | [hīnayāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hīnayāna&filter=roman&accent=no&transLit=roman) | n | ยานที่บกพร่อง (ของพุทธศาสนา): คำดูถูกโดยผู้แทนของ "ยานใหญ่", ของ ; เส้นทางที่บกพร่อง ( ไปยัง 2: ไป, ขับรถ). คำว่า ไม่ควร | [33](/th/lektionen/lektion33#_33-6-) |

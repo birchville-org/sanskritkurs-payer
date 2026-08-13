@@ -47,7 +47,7 @@ status: stable
 
 في صيغة المخاطب المفرد، يُستخدم ⟪अर्ह्⟫ + المصدر غالبًا كطلب لطيف: "يجب عليك".
 
-**Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:**
+**Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:** <!-- TODO: Fallback translation -->
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "شخص يرغب في التحدث؛ شخص يريد التحدث".
 :::
@@ -79,14 +79,14 @@ status: stable
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
 
 ## 23.3. المصدر (⟪तुमुन्⟫) للجذور التي تم تعلمها حتى الآن
 

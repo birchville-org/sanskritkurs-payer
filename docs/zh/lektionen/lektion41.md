@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 41
+# 第41課
 
 ## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
 

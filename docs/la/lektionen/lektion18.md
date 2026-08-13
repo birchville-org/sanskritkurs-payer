@@ -3,7 +3,7 @@ title: Lektion 18
 lesson_id: 18
 ---
 
-# Lektion 18
+# Lectio 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
@@ -49,7 +49,7 @@ Exempla:
 
 ⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: non factum, inefficax
 
-⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : mulier non Brahmana, non Brahmana
+⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : mulier non Brahmana, non Brahmana <!-- TODO: Fallback translation -->
 
 ⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : deus non, sine deo
 :::
@@ -111,17 +111,29 @@ Exempla:
 Tatpuruṣa cum a- / an- haec significata habere possunt:
 
 1.  Similitudo (⟪तत्सादृश्यम्⟫):
-    ⟪अब्राह्मणः⟫ = Kṣatriya vel Vaiśya, qui sacrum filum (⟪यज्ञोपवीत⟫ n.) gerit et ita Brahmanae similis est, quamvis non sit
+::: indent
+⟪अब्राह्मणः⟫ = Kṣatriya vel Vaiśya, qui sacrum filum (⟪यज्ञोपवीत⟫ n.) gerit et ita Brahmanae similis est, quamvis non sit
+:::
 2.  Defectus, absentia (⟪तदभावः⟫):
-    ⟪अज्ञानम्⟫ = Ignorantia (defectus scientiae)
+::: indent
+⟪अज्ञानम्⟫ = Ignorantia (defectus scientiae)
+:::
 3.  Diversitas (⟪तदन्यत्वम्⟫):
-    ⟪अपटम्⟫ = aliquid quod non est vestis (⟪पट⟫ m: textum, vestis)
+::: indent
+⟪अपटम्⟫ = aliquid quod non est vestis (⟪पट⟫ m: textum, vestis)
+:::
 4.  Parvitas (⟪तदल्पता⟫):
-    ⟪अनुदरम्⟫ = parvus ventris (ventris non)
+::: indent
+⟪अनुदरम्⟫ = parvus ventris (ventris non)
+:::
 5.  Repraesentatio (⟪अप्राशास्त्यम्⟫):
-    ⟪अकालः⟫ = tempus inopportunum
+::: indent
+⟪अकालः⟫ = tempus inopportunum
+:::
 6.  Inimicitia (⟪निरोधः⟫):
-    ⟪असुरः⟫ = Deus adversarius (secus falsam etymologiam a-sura)
+::: indent
+⟪असुरः⟫ = Deus adversarius (secus falsam etymologiam a-sura)
+:::
 
 Versus sequens has haec significata complectitur:
 
@@ -370,7 +382,7 @@ B) Versa Tatpuruṣa sequentia:
 
 ⟪३१⟫. ⟪अमृत⟫ n.
 
-## 18.6. Wiederholungsübung
+## 18.6. Wiederholungsübung <!-- TODO: Fallback translation -->
 
 Nihil adiutorii utere!
 
@@ -408,7 +420,7 @@ B) Versiones facite, utentes verbis classis secundae praesentis:
 
 3\. Ancilla domus vaccae mulget.
 
-4\. Hostes Ariorum Kṣatriyas potentes caedunt.
+4\. Hostes Ariorum Kṣatriyas potentes caedunt. <!-- TODO: Fallback translation -->
 
 5\. Spectrum fructus non ed
 

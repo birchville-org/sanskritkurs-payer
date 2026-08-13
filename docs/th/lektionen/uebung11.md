@@ -22,10 +22,10 @@ A) จงแปลประโยคด้านล่างต่อไปน�
 นักบวชผู้ศักดิ์สิทธิ์เสด็จสู่สรวงสวรรค์
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 พราหมณ์จึงถวายเครื่องบูชาแด่เทพเจ้า

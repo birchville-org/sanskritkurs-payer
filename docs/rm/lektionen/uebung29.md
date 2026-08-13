@@ -33,7 +33,7 @@ Davant in regim excessiv (daṇḍa) davan las creatiras tremblar. In regim lax 
 > Il mund cun ses quatter stans ed stadi da vita  
 > è protegì dal re per il regim:  
 > Allegrà davart l'activitad suenter ses dretg ed usanza  
-> mova ella sin ses propis curs.
+> mova ella sin ses propis curs. <!-- TODO: Fallback translation -->
 
 ::: deleteme-box Glossar & Grammatik
 - **⟪उद्वेजनीय⟫** (3): quai davent dal qual ins dovra tremblar

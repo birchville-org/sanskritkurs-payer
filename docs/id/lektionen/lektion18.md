@@ -1,6 +1,7 @@
 ---
-title: Lektion 18
+title: "Pelajaran 18"
 lesson_id: 18
+
 ---
 
 # Pelajaran 18
@@ -8,309 +9,296 @@ lesson_id: 18
 ## 18.1. ⟪सुभाषितम्⟫
 
 ::: indent
-⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
-⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
+⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫
 :::
-## 18.2. Komposita determinatif (⟪तत्पुरुष⟫) dengan unsur pertama adverbial
+## 18.2. Determinativkomposita (⟪तत्पुरुष⟫) dengan unsur depan adverbia
 
-As an adverbial (indeclinable) first member,
+Sebagai unsur depan (yang tidak dapat dideklinasi) yang berfungsi adverbia,
 
-*   adverbs
-*   prepositions
-*   particles
-*   other indeclinables
+*   Kata keterangan (Adverbien)
+*   Preposisi
+*   Partikel
+*   Kata-kata indeklinabel lainnya
 
 ::: indent
-dapat digunakan. Senyawa Tatpuruṣa semacam itu sebagian besar termasuk ke dalam kelas Nityasamāsa = ⟪नित्यसमास⟫ (m. "senyawa permanen"), yaitu, senyawa yang sama sekali tidak dapat diuraikan, atau tidak hanya dengan menggunakan kata-kata yang terdapat dalam senyawa itu sendiri.
+>> dapat digunakan. Tatpuruṣa semacam ini biasanya termasuk ke dalam kelas Nityasamāsa = ⟪नित्यसमास⟫ (m. "kompositum tetap"), yaitu komposita yang sama sekali tidak dapat atau hanya dapat diuraikan dengan cara lain, bukan hanya melalui kata-kata yang terdapat dalam kompositum itu sendiri.
 :::
-Contoh-contoh:
+Contoh:
 
-⟪अति⟫ "beyond, moreover":
+⟪अति⟫ "selain itu":
 
 ::: indent
-⟪अतिगुरु⟫ 3: extremely heavy, extremely weighty
+⟪अतिगुरु⟫ 3: sangat berat, sangat penting
 
-⟪अतिपुरुष⟫ m.: outstanding man, Superman, hero
+⟪अतिपुरुष⟫ m.: pria yang unggul, Superman, pahlawan
 
-⟪अतिस्तुति⟫ f.: excessive praise
+⟪अतिस्तुति⟫ f.: pujian yang berlebihan
 
-⟪अत्युक्ति⟫ f.: excessive speech, exaggeration
+⟪अत्युक्ति⟫ f.: pembicaraan yang berlebihan, hiperbola
 :::
-The most important adverbial first members are a-/an-, su-, dus-.
+Unsur depan adverbia yang paling penting adalah a-/an-, su-, dus-.
 
-⟪अ⟫ (before consonants), ⟪अन्⟫ (before vowels): un-: stands in the compound in place of ⟪न⟫ "not".
+⟪अ⟫ (sebelum konsonan), ⟪अन्⟫ (sebelum vokal): un-: muncul dalam kompositum sebagai pengganti ⟪न⟫ "tidak".
 
-Contoh-contoh:
+Contoh:
 
 ::: indent
-⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): untruth, lie
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): ketidakbenaran, kebohongan
 
-⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: not done, undone
+⟪अकृत⟫ 3 = ⟪न कृत⟫ 3: tidak dilakukan, belum dikerjakan
 
-⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : a non-Brahmin woman, non-Brahmin
+⟪अब्राह्मणी⟫ f. = ⟪न ब्राह्मणी⟫ : seorang wanita non-Brahmana, perempuan tidak Brahmana
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : a non-god, non-god
+⟪अदेव⟫ m. = ⟪न देवः⟫ : seorang dewa non-..., laki-laki tidak Dewa
 :::
-⟪सु⟫ "well, good"; when resolving the compound, commentators replace it with an adjective meaning "good" (e.g., ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
+⟪सु⟫ "baik, bagus"; dalam penguraian kompositum, kata ini diganti oleh para komentator dengan adjektiva yang bermakna "baik" (misalnya ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
 
-Contoh-contoh:
+Contoh:
 
 ::: indent
-⟪सुकवि⟫ m.: a good poet
+⟪सुकवि⟫ m.: seorang penyair yang baik
 
-⟪सुकृत⟫ n.: good deed
+⟪सुकृत⟫ n.: perbuatan yang baik
 
-⟪सुखादित⟫ 3: well chewed
+⟪सुखादित⟫ 3: kunyah benar
 
-⟪सुदुःख⟫ n.: great suffering
+⟪सुदुःख⟫ n.: penderitaan besar
 :::
-⟪दुस्⟫ "bad, evil" (observe Sandhi!).
+⟪दुस्⟫ "buruk, jahat" (perhatikan Sandhi!).
 
-Contoh-contoh:
+Contoh:
 
 ::: indent
-⟪दुर्नय⟫ m.: bad guidance, bad conduct
+⟪दुर्नय⟫ m.: bimbingan buruk, perilaku buruk
 
-⟪दुष्करण⟫ n.: bad deed, difficult deed
+⟪दुष्करण⟫ n.: perbuatan buruk, perbuatan sulit
 :::
-The following rule applies:
+Berikut ini berlaku hukum berikut:
 
 ::: grammar-box
 
-Phonetic Change of -s in Compounds
+>> Perubahan bunyi -s dalam komposita
 
-Berbeda dengan Sandhi kalimat, pada posisi akhir dari anggota pertama majemuk:
+>> Bertentangan dengan Sat Sandhi, pada akhir bagian depan dari komposita berlaku:
 
-\-s after -i- or -u- before voiceless guttural or labial » -ṣ
+\-s setelah -i- atau -u- sebelum gutural atau labial tanpa nada » -ṣ
 
-Therefore: ⟪दुष्करण⟫
+Oleh karena itu: ⟪दुष्करण⟫
 
 :::
-### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
+>> ### 18.2.1. Komposita dari Tipe ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::: grammar-box
 
-Kata majemuk Tipe ⟪सुकर⟫ / ⟪दुष्कर⟫ terutama menunjukkan makna kemungkinan pasif:
+>> Komposita dari tipe ⟪सुकर⟫ / ⟪दुष्कर⟫ terutama memiliki makna kemungkinan pasif:
 
-Contoh-contoh:
+Contoh:
 
 :::
 ::: indent
-⟪सुकर⟫ 3: easy to do
+⟪सुकर⟫ 3: mudah untuk dilakukan
 
-⟪सुगम⟫ 3: easy to go
+⟪सुगम⟫ 3: mudah untuk berjalan
 
-⟪दुर्गम⟫ 3: difficult to go
+⟪दुर्गम⟫ 3: sulit untuk berjalan
 
-⟪सुदुर्गम⟫ 3: sangat sulit untuk dilalui
+⟪सुदुर्गम⟫ 3: sangat sulit untuk berjalan
 :::
-### 18.2.2. Makna-makna dari nañ-Tatpuruṣa (a- / an-)
+### 18.2.2. Makna nañ-Tatpuruṣa (a- / an-)
 
-Tatpuruṣa with a- / an- can have the following meanings:
+Tatpuruṣa dengan a- / an- dapat memiliki makna berikut:
 
-1.  Persamaan (⟪तत्सादृश्यम्⟫):  
-⟪अब्राह्मणः⟫ = seorang Kṣatriya atau Vaiśya yang mengenakan benang suci (⟪यज्ञोपवीत⟫ n.) dan dengan demikian menyerupai seorang Brahmin, tanpa menjadi satu
-2.  Ketidakhadiran, ketiadaan (⟪तदभावः⟫):  
-⟪अज्ञानम्⟫ = kebodohan (ketidakhadiran pengetahuan)
-3.  Keasingan (⟪तदन्यत्वम्⟫):  
-⟪अपटम्⟫ = sesuatu yang bukan kain / pakaian (⟪पट⟫ m: kain, pakaian)
-4.  Kekecilan (⟪तदल्पता⟫):  
-⟪अनुदरम्⟫ = perut kecil (sebuah bukan-perut)
-5.  Ketidaksetujuan (⟪अप्राशास्त्यम्⟫):  
-⟪अकालः⟫ = ketidakmusatan
-6.  permusuhan (⟪निरोधः⟫):  
-⟪असुरः⟫ = anti-dewa (menurut etimologi palsu a-sura)
+1. Kesamaan (⟪तत्सादृश्यम्⟫):  
+⟪अब्राह्मणः⟫ = seorang Kṣatriya atau Vaiśya yang mengenakan tali suci (⟪यज्ञोपवीत⟫ n.) dan dengan demikian menyerupai seorang Brahmana, tanpa menjadi satu
+2. Ketidakhadiran, tidak adanya (⟪तदभावः⟫):  
+⟪अज्ञानम्⟫ = ketidaktahuan (ketiadaan pengetahuan)
+3. Keunikan, perbedaan (⟪तदन्यत्वम्⟫):  
+⟪अपटम्⟫ = sesuatu yang bukan kain / pakaian (⟪पट⟫ m: tenunan, pakaian)
+4. Kecilnya (⟪तदल्पता⟫):  
+⟪अनुदरम्⟫ = perut kecil (perut yang bukan perut)
+5. Ketidaksetujuan (⟪अप्राशास्त्यम्⟫):  
+⟪अकालः⟫ = waktu yang tidak tepat
+6. Musuh (⟪निरोधः⟫):  
+⟪असुरः⟫ = dewa lawan (menurut etimologi yang salah a-sura)
 
-The following verse summarizes these meanings:
+Berikut adalah ringkasan makna-makna tersebut dalam sebuah sloka:
 
 ::: indent
-⟪तत्सादृश्यमभावश्च⟫  
-⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
-⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
-⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
+⟪तत्सादृश्यमभावश्च तदन्यत्वं तदल्पता । अप्राशास्त्यं निरोधश्च नजर्थाः षट्प्रकीर्तिताः ॥⟫
 
-Six meanings of nañ (= a-/an-) are named ....
+Enam makna dari nañ (= a-/an-) disebutkan ....
 :::
-## 18.3. Verbalkomposita
+## 18.3. Komposisi Verbal
 
 ::: indent
-⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
-⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
-⟪गङ्गासलिलमाधुर्यं⟫  
-⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
+⟪उपसर्गेण धात्वर्थो बलादन्यत्र नीयते । गङ्गासलिलमाधुर्यं सागरेण यथाम्भसा ॥⟫
 :::
-⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ p. 2 l. 14f.
+⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ Hal. 2 Baris 14f.
 
-Sebuah awalan mengubah makna akar kata secara drastis, sebagaimana manisnya air Gangga diubah oleh air laut.
+Dengan menambahkan preverb, makna sebuah akar kata diubah secara paksa, seperti rasa manis air Sungai Gangga yang berubah karena air laut.
 
 ::: grammar-box
 
-Verba dalam bahasa Sanskerta dapat digabungkan dengan awalan (⟪उपसर्ग⟫ m.). Dalam melakukan hal ini, sandhi kalimat biasanya berlaku. Awalan dapat mengubah makna akar kata secara signifikan, sehingga dalam banyak kasus makna akar kata dengan awalan harus dipelajari secara terpisah. Verba dengan awalan dapat memiliki modus (P, Ā) yang berbeda dari akar kata sederhana. Beberapa awalan dapat ditempatkan sebelum akar kata secara bersamaan.
+Dalam bahasa Sanskerta, kata kerja dapat digabungkan dengan preverb (⟪उपसर्ग⟫ m.). Pada umumnya, Sandhi kalimat berlaku. Preverb dapat memodifikasi makna akar kata secara signifikan, sehingga dalam banyak kasus, makna sebuah akar kata yang disertai preverb harus dipelajari secara terpisah. Kata kerja dengan preverb dapat memiliki Modus (P, Ā) yang berbeda dari akar kata dasarnya. Beberapa preverb dapat ditempatkan secara bersamaan sebelum sebuah akar kata.
 
 :::
-Some important prefixes are:
+Beberapa preverb penting adalah:
 
-⟪उप⟫ "to, towards, against"
+⟪उप⟫ "ke, menuju, terhadap"
 
-Contoh-contoh:
+Contoh:
 
 ::: indent
-⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : to go towards, to approach
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : pergi ke, mendekati
 
-⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : menunjukkan, menginstruksikan, menasihati
+⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : menunjukkan, mengajar, memberi nasihat
 
-⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : to reach, to arrive
+⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : tiba di, mencapai
 
-*   PPP ⟪उपपन्न⟫ 3: equipped with (Instrumental)
+*   PPP ⟪उपपन्न⟫ 3: dilengkapi dengan (Instrumental)
 
-⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : to grasp, to attain
+⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : memahami, memperoleh
 :::
-⟪प्र⟫ "forward, forth"
+⟪प्र⟫ "maju, ke depan"
 
-Contoh-contoh:
+Contoh:
 
 ::: indent
-⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : to attain
+⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : memperoleh
 
-⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : to show
+⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : menunjukkan
 
-⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : to awaken, to recognize
+⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : bangun, menyadari
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : muncul, menonjol, memiliki kekuasaan atas (Gen., Loc. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : muncul, menonjol, memiliki kekuasaan atas (Gen., Lok. Dat.)
 
-⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : menjelaskan, mengkomunikasikan, mengucapkan
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : menjelaskan, menyampaikan, mengucapkan
 
-⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : mengucapkan, menunjuk sebagai, menyatakan sebagai
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : mengucapkan, menandai sebagai, menjelaskan sebagai
 
-⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : memuji sebelumnya, memuji dengan keras, menyebutkan sesuatu, memulai
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : memuji di hadapan, memuji dengan keras, membahas sesuatu, memulai
 :::
-⟪वि⟫ "terpisah, menjauh, terpisah, ver-"
+⟪वि⟫ "terpisah, pergi, hancur-, ver-"
 
-Contoh-contoh:
+Contoh:
 
 ::: indent
-⟪विगम्⟫ 1 ⟪विगच्छति⟫ : pergi terpisah, meninggal dunia, menghilang
+⟪विगम्⟫ 1 ⟪विगच्छति⟫ : berjalan terpisah, berlalu, menghilang
 
-⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : to conquer
+⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : mengalahkan
 
-⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : to release, to free
+⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : melepaskan, membebaskan
 
-⟪विवद्⟫ 1 ⟪विवदति⟫ : berdebat, mendiskusikan, menceritakan
+⟪विवद्⟫ 1 ⟪विवदति⟫ : berdebat, menguraikan, bercerita
 
-⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : to forget
+⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : melupakan
 
-⟪विहन्⟫ 2 ⟪विहन्ति⟫ : menghancurkan, membinasakan, melenyapkan
+⟪विहन्⟫ 2 ⟪विहन्ति⟫ : menghancurkan, merusakkan, memusnahkan
 :::
 ⟪सम्⟫ "bersama, dengan"
 
-Contoh-contoh:
+Contoh:
 
 ::: indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : duduk bersama, tinggal, berdiam
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : duduk bersama, berada, tinggal
 
-⟪समि⟫ 2 ⟪समेति⟫ : to come together, to unite
+⟪समि⟫ 2 ⟪समेति⟫ : berkumpul, bersatu
 
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : datang bersama, bertemu (secara ramah atau bermusuhan), berhubungan seksual dengan (Akk.)
+⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : berkumpul, bertemu (secara ramah atau bermusuhan), bersetubuh dengan (Akk.)
 
-⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : to arise
+⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : muncul
 
-*   PPP ⟪संजात⟫ 3: born, arisen, become
+*   PPP ⟪संजात⟫ 3: lahir, muncul, menjadi
 
-⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : untuk sepenuhnya terbangun (akan kebenaran)
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : bangun sepenuhnya (kepada kebenaran)
 
 ⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : diberikan kepada seseorang, berhasil
 
-*   PPP ⟪सम्पन्न⟫ 3: provided with (Instr.)
+*   PPP ⟪सम्पन्न⟫ 3: dilengkapi dengan (Instr.)
 :::
 ::: grammar-box
 
-Akar kata ⟪कृ⟫ "melakukan" menunjukkan, dalam hubungannya dengan awalan ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫, juga bentuk ⟪स्कृ⟫
+Akar kata ⟪कृ⟫ "melakukan" menunjukkan dalam hubungannya dengan preverb ⟪सम् । उप । अप । परि⟫ juga bentuk ⟪स्कृ⟫
 
 :::
 Contoh:
 
 ::: indent
-sam-kṛ 8 ⟪संस्करोति⟫ : mempersiapkan, menyiapkan untuk pengorbanan, menguduskan
+sam-kṛ 8 ⟪संस्करोति⟫ : menyiapkan, mempersiapkan untuk korban, menguduskan
 
-*   PPP ⟪संस्कृत⟫ 3: disiapkan untuk pengorbanan; ⟪संस्कृत⟫ n.: Sanskerta: bahasa yang sesuai untuk pengorbanan; lawan kata ⟪प्राकृत⟫ 3: biasa, umum; ⟪प्राकृत⟫ n.: bahasa sehari-hari, Prakrit (penyebutan untuk bahasa rakyat dan perdagangan yang berkaitan dengan Sanskerta)
+*   PPP ⟪संस्कृत⟫ 3: disiapkan untuk korban ; ⟪संस्कृत⟫ n.: Sanskerta: bahasa yang cocok untuk korban ; pasangan ⟪प्राकृत⟫ 3: biasa, ordinari ; ⟪प्राकृत⟫ n.: bahasa biasa, Prakrit (penyebutan untuk bahasa rakyat dan lingua franca yang berkaitan dengan Sanskerta)
 :::
-### 18.3.1. Nominalbildungen zu Verbalkomposita
+### 18.3.1. Pembentukan Nomina dari Komposisi Verbal
 
 ::: grammar-box
 
-Dari akar kata dengan preverba, nomina dapat dibentuk menggunakan sufiks kṛt.
+Dari akar-akar kata dengan preverb, nomina dapat dibentuk menggunakan sufiks kṛt.
 
 :::
-Contoh-contoh:
+Contoh:
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: konsekrasi, persiapan; ritual transisi = sebutan untuk upacara yang menyertai berbagai tahap kehidupan mulai dari konsepsi hingga kematian (lihat ringkasan bagus oleh Basham, Wonder hal. 160 - 170!)
+sam-kṛ + -a = ⟪संस्कार⟫ m.: inisiasi, persiapan ; Ritual transisi = sebutan untuk upacara-upacara yang menemani berbagai tahap kehidupan mulai dari konsepsi hingga kematian (lihat ringkasan luar biasa oleh Basham, Wonder hal. 160 - 170!)
 
 ::: media
 ![](/images/lekt1804.webp)
-Fig.: ⟪विवाहः⟫
+Ilustrasi: ⟪विवाहः⟫
 Pernikahan = ⟪विवाह⟫ m., sebuah ⟪संस्कारः⟫ yang penting
-(Sumber gambar: [Detail](/en/licenses#lekt1804))
+(Sumber gambar: [Details](/id/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: pengantar dekat (ke api korban) = upacara di mana benang suci (⟪यज्ञोपवीत⟫ n.) diletakkan pada anggota laki-laki dari tiga kasta teratas dan mantra suci ⟪सावित्री⟫ dibisikkan ke telinga mereka, yang harus diucapkan setiap hari saat matahari terbit dan tenggelam mulai saat itu. Bagi para Brahmin, ini adalah Ṛgveda III.62.10:
+upa-nī + -ana = ⟪उपनयन⟫ n.: pengantar (ke api korban) = upacara di mana benang suci (⟪यज्ञोपवीत⟫ n.) dipasang pada anggota laki-laki dari tiga tingkatan atas, serta mantra suci ⟪सावित्री⟫ dibisikkan ke telinga mereka, yang sejak saat itu harus mereka recitakan setiap hari saat matahari terbit dan terbenam. Bagi para Brahmana, ini adalah Ṛgveda III.62.10:
 
 ::: indent
-"May we receive the excellent radiance of the god 'Driver,' who may set our thoughts in motion."
+"Semoga kita menerima cahaya agung dari Dewa 'Penggerak' yang menggerakkan pikiran-pikiran kita."
 :::
-Through the Upanayana, the second birth occurs, therefore: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+Melalui Upanayana terjadi kelahiran kedua, oleh karena itu: ⟪द्विज । द्विजाति⟫
 
 ::: media
 ![](/images/lekt1801.webp)
-Fig.: ⟪उपनयनम्⟫
-"Seorang anak laki-laki muda terlihat selama upacara upanayana. Benang kuning tipis yang berjalan dari bahu kiri ke pinggang adalah Yagnopaivta. Perhatikan juga ikat pinggang dari rumput munja di sekitar pinggang. Cabang kecil di tangan kanan (biasanya dari pohon peepa) menandakan masuknya ke dalam Brahmacharya."
-(Sumber gambar: [Detail](/en/licenses#lekt1801))
+Ilustrasi: ⟪उपनयनम्⟫
+"Seorang anak laki-laki muda terlihat selama ritual upanayana. Benang kuning tipis yang berjalan dari bahu kiri ke pinggang adalah Yagnopaivta. Perhatikan juga ikat pinggang dari rumput munja di sekitar pinggang. Cabang kecil di tangan kanan (biasanya dari pohon peepa) menandakan masuknya dia ke dalam Brahmacharya."
+(Sumber gambar: [Details](/id/licenses#lekt1801))
 :::
 ## 18.4. Daftar Kata
 
-⟪सुष्टु⟫ 3: highly praised, distinguished, good
+⟪सुष्टु⟫ 3: dipuji tinggi, luar biasa, baik
 
-⟪शोभन⟫ 3: brilliant, magnificent, splendid, beautiful, good
+⟪शोभन⟫ 3: berkilau, megah, indah, cantik, baik
 
-⟪सम⟫ 3: sama, rata, serupa (dengan kasus instrumental)
+>> ⟪सम⟫ 3: sama, rata, serupa (dengan Instrumentalis)
 
-⟪व्याधि⟫ m.: illness
+⟪व्याधि⟫ m.: penyakit
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫, deceiver
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , penipu
 
-⟪वह्नि⟫ m. = ⟪अग्नि⟫
+⟪वह्नि⟫ m. = ⟪अग्नि ज्ञान⟫ n.: pengetahuan
 
-⟪ज्ञान⟫ n.: knowledge
+⟪शूर⟫ 3: berani, kepahlawanan ; m.: pahlawan
 
-⟪शूर⟫ 3: brave, heroic; m.: hero
+⟪शब्द⟫ m.: suara, nada, bunyi isyarat: kata
 
-⟪शब्द⟫ m.: sound, tone, signal sound: word
+⟪उदक⟫ n.: air
 
-⟪उदक⟫ n.: water
+⟪अन्त⟫ m.: akhir, batas
 
-⟪अन्त⟫ m.: end, limit
+⟪आदि⟫ m.: awal
 
-⟪आदि⟫ m.: beginning
+⟪दण्ड⟫ m.: tongkat, cambuk, hukuman
 
-⟪दण्ड⟫ m.: stick, cudgel, punishment
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.: ukuran, batasan
 
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: measure, limitation
+⟪सहित⟫ 3: bersatu, dilengkapi dengan
 
-⟪सहित⟫ 3: united, provided with
+⟪हस्त⟫ m.: tangan
 
-⟪हस्त⟫ m.: hand
-
-⟪प्रभृति⟫ f.: beginning
+⟪प्रभृति⟫ f.: awal
 
 ## 18.5. Latihan
 
-[A] Terjemahkan ⟪सुभाषित⟫ di awal pelajaran.
+A) Terjemahkan ⟪सुभाषित⟫ di awal pelajaran.
 
-B) Translate the following Tatpuruṣa compounds:
+B) Terjemahkan Tatpuruṣa berikut:
 
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫
-
-⟪२⟫. ⟪सुकुल⟫ n.
+⟪१⟫. ⟪सुकर ३ २⟫. ⟪सुकुल⟫ n.
 
 ⟪३⟫. ⟪सुकृती⟫ f.
 
@@ -370,11 +358,11 @@ B) Translate the following Tatpuruṣa compounds:
 
 ⟪३१⟫. ⟪अमृत⟫ n.
 
-## 18.6. Latihan Tinjauan
+## 18.6. Latihan Ulangan
 
-Please do not use any aids!
+Harap jangan menggunakan alat bantu!
 
-A) Resolve the following Sanskrit compounds and provide translation suggestions:
+>> A) Uraikan Komposita berikut dalam bahasa Sanskerta dan berikan saran terjemahan:
 
 ⟪१⟫. ⟪अन्तगत⟫ 3
 
@@ -396,43 +384,42 @@ A) Resolve the following Sanskrit compounds and provide translation suggestions:
 
 ::: media
 ![](/images/lekt1802.webp)
-Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
-1770 Print
-(Image source: [Detail](/en/licenses#lekt1802))
+Fig.: ⟪मृतिसाधनी काली⟫
+Cetak 1770
+(Sumber gambar: [Details](/id/licenses#lekt1802))
 :::
-B) Terjemahkan menggunakan verba dari kelas presens ke-2:
+B) Terjemahkan dengan menggunakan kata kerja kelas Present II:
 
-The Brahmin praises the goddesses.
+1\. Brahmana memuji para dewi.
 
-Para pahlawan menempuh jalan yang sulit dilalui menuju desa kaum Ārya.
+2\. Para pahlawan berjalan di jalan yang sulit dilalui menuju desa orang Arya.
 
-The housemaid milks the cows.
+3\. Pelayan perempuan rumah itu memerah sapi-sapi.
 
-Para musuh para Ārya membunuh para Kṣatriya yang perkasa.
+4\. Musuh-musuh orang Arya membunuh para Kṣatriya yang perkasa.
 
-A ghost eats no fruits.
+5\. Hantu tidak memakan buah-buahan.
 
-Demikianlah ia yang telah [melalui jalan reinkarnasi] dengan baik berbicara kepada muridnya.
+6\. Demikianlah berbicara orang yang [telah berjalan baik di jalan reinkarnasi] kepada muridnya.
 
 ::: media
 ![](/images/lekt1803.webp)
-Fig.: ⟪सुगतः⟫
-⟪गन्धार⟫ 1st/2nd cent. CE
-(Sumber gambar: [Detail](/en/licenses#lekt1803))
+Fig.: ⟪सुगतः गन्धार⟫ Abad ke-1/2 M.
+(Sumber gambar: [Details](/id/licenses#lekt1803))
 :::
-C) Berikan definisi Yoga dalam bahasa Sanskerta dengan dua cara: sekali menggunakan majemuk (compound), dan sekali lagi dengan menguraikan majemuk tersebut.
+C) Berikan dalam bahasa Sanskerta definisi Yoga dengan dua cara: sekali menggunakan kompositum, dan sekali lagi dengan memecah kompositum tersebut.
 
-D) Translate:
+D) Terjemahkan:
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
 
 ::: deleteme-box
 
-**lekt1801:** "Seorang anak laki-laki muda terlihat selama upacara upanayana. Benang kuning, tipis yang berjalan dari bahu kiri ke pinggang adalah Yagnopaivta. Perhatikan juga ikat pinggang dari rumput munja di sekitar pinggang. Cabang kecil di tangan kanan (biasanya dari pohon peepa) menandakan masuknya dia ke dalam Brahmacharya." [Sumber gambar: Nagesh Rao / Wikipedia, GNU FDLicense]
+**lekt1801:** "Seorang anak laki-laki muda terlihat selama ritual upanayana. Benang kuning tipis yang berjalan dari bahu kiri ke pinggang adalah Yagnopaivta. Perhatikan juga ikat pinggang dari rumput munja di sekitar pinggang. Cabang kecil di tangan kanan (biasanya dari pohon peepa) menandakan masuknya dia ke dalam Brahmacharya." [Sumber gambar: Nagesh Rao / Wikipedia, GNU FDLicense]
 
-**lekt1802:** 1770 Print [Image source: Wikipedia, Public domain]
+**lekt1802:** Cetak 1770 [Sumber gambar: Wikipedia, Domain publik]
 
-**lekt1803:** ⟪गन्धार⟫ 1st/2nd cent. CE [Image source: Wikipedia, Public domain]
+**lekt1803:** ⟪गन्धार⟫ Abad ke-1/2 M. [Sumber gambar: Wikipedia, Domain publik]
 
-**lekt1804:** Wedding = ⟪विवाह⟫ m., an important ⟪संस्कारः⟫ [Image source: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Accessed on 2008-12-08. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
+**lekt1804:** Pernikahan = ⟪विवाह⟫ m., sebuah ⟪संस्कारः⟫ yang penting [Sumber gambar: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Diakses pada 2008-12-08. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
 :::

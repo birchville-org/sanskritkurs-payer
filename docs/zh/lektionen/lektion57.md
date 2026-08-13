@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 57
+# 第57課
 
 ## 57.1. Aorist 4: s-不定过去时
 
@@ -142,10 +142,14 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (im P hat ⟪गम्⟫ den themavokalischen Aorist)** <!-- TODO: Fallback translation -->
 
 2.  ⟪पद्⟫ 4Ā ist regelmäßig (z.B. ⟪अपत्सि⟫), in der 3.sg.Ā hat es aber die Form des passivischen Wurzelaorist: <!-- TODO: Fallback translation -->
-    ⟪अपादि⟫ "er ging" <!-- TODO: Fallback translation -->
+::: indent
+⟪अपादि⟫ "er ging" <!-- TODO: Fallback translation -->
+:::
 
 3.  ⟪बुध्⟫ Ā kann in der 3.sg.Ā wahlweise die Form des passiven Wurzelaorists annehmen: <!-- TODO: Fallback translation -->
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "er erkannte" <!-- TODO: Fallback translation -->
+::: indent
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "er erkannte" <!-- TODO: Fallback translation -->
+:::
 :::
 ## 57.2. 练习
 

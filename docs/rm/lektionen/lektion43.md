@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 43
+# Lecziun 43
 
-## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \<Person\>")
+## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \<Person\>") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -28,7 +28,7 @@ Notai che la desinenza secundaria da 2.pl.P. è identica a la desinenza secundar
 *   Singular: "du"
 *   Plural: "ihr" (plis che duas!)
 
-### 43.2.1. Temats
+### 43.2.1. Temats <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4301.jpg)
@@ -91,7 +91,7 @@ La 3.sg.Ā.Imperfect resp. Optativ è formamain cun la 2.pl.P.Imperfect resp. Op
 
 #### 43.2.1.6. Futur (⟪ऌट्⟫)
 
-#### 43.2.1.6.1. ⟪अनिट्⟫-Bildungen
+#### 43.2.1.6.1. Furmaziuns ⟪अनिट्⟫
 
 ⟪दा⟫ 3U
 
@@ -100,7 +100,7 @@ La 3.sg.Ā.Imperfect resp. Optativ è formamain cun la 2.pl.P.Imperfect resp. Op
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪दास्यसि⟫ | ⟪दास्यथ⟫ | ⟪दास्यसे⟫ | ⟪दास्यध्वे⟫ |
 
-#### 43.2.1.6.2. ⟪सेट्⟫-Bildungen
+#### 43.2.1.6.2. Furmaziuns ⟪सेट्⟫
 
 ⟪भू⟫ 1P
 
@@ -132,7 +132,7 @@ Las furmas ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ na pon esser adoper
 :::
 ## 43.4. Glossari
 
-⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen
+⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen <!-- TODO: Fallback translation -->
 
 ⟪आपण⟫ m.: martg
 
@@ -141,7 +141,7 @@ Las furmas ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ na pon esser adoper
 Fig.: ⟪आपणः⟫
 (Sursa d'immagis: [Detagls](/rm/licenses#lekt4302))
 :::
-⟪सत्वर⟫ 3: svelt, urgents
+⟪सत्वर⟫ 3: svelt, urgents <!-- TODO: Fallback translation -->
 
 ⟪पण्य⟫ 3: cumpràivel; n.: merkanzía, cumert
 
@@ -150,7 +150,7 @@ Fig.: ⟪आपणः⟫
 Imag.: ⟪पण्यानि⟫
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt4303))
 :::
-⟪आम्⟫ : gea
+⟪आम्⟫ : gea <!-- TODO: Fallback translation -->
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -173,14 +173,14 @@ Imag.: ⟪पण्यानि⟫
 Imagg.: ⟪विपणिः⟫
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: commerziant
+⟪वणिज्⟫ m.: commerziant <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4305.webp)
 Imag.: ⟪वणिक्⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt4305))
 :::
-⟪वर⟫ 3: il meglir
+⟪वर⟫ 3: il meglir <!-- TODO: Fallback translation -->
 
 ⟪शीघ्र⟫ 3: svelt, spert
 
@@ -212,7 +212,7 @@ Fig.: ⟪वत्सः⟫
 Fig.: ⟪तोलन्ति⟫
 (Sursa d'immagis: [Detagls](/rm/licenses#lekt4307))
 :::
-⟪कर्गल⟫ n.: Carta
+⟪कर्गल⟫ n.: Carta <!-- TODO: Fallback translation -->
 
 ⟪संपुट⟫ m.: Dosa (qua: pachet, fasci)
 
@@ -308,7 +308,7 @@ A) Formai la segunda persona correspondenta en temp, numer, modus e.c. als suven
 
 B) Tradusci en Sanscrit:
 
-1\. Perchei sedischa vus mentras il magister stat?
+1\. Perchei sedischa vus mentras il magister stat? <!-- TODO: Fallback translation -->
 
 2\. Dubbias ti sche ina bona acziun ha in bun resultà?
 
@@ -324,9 +324,9 @@ B) Tradusci en Sanscrit:
 
 8\. Avais-vos, en tant que maîtres du sacrifice, honoré les dieux par un sacrifice ?
 
-9\. In tgea nasch es ti naschì?
+9\. In tgea nasch es ti naschì? <!-- TODO: Fallback translation -->
 
-10\. Coam chei ti (suraschentas) avant il inimis?
+10\. Coam chei ti (suraschentas) avant il inimis? <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4308.webp)
@@ -337,28 +337,28 @@ Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 
 | ⟪संवादः⟫ | Erklärungen |
 | --- | --- |
-| ⟪सुरेशः⟫ : ⟪अशोक⟫1 ⟪क्व⟫ ⟪गच्छसीदानीम्⟫ ⟪॥⟫ | 1 Vokativ sg. |
+| ⟪सुरेशः⟫ : ⟪अशोक⟫1 ⟪क्व⟫ ⟪गच्छसीदानीम्⟫ ⟪॥⟫ | 1 Vocativ sg. |
 | ⟪अशोकः⟫ : ⟪आपणे⟫ ⟪गच्छामि⟫ ⟪।⟫ ⟪सत्वरमेव⟫ ⟪कानिचित्पण्यानि⟫ ⟪क्रीत्वा⟫ ⟪निवर्तिष्ये⟫ ⟪॥⟫ | |
 | ⟪सुरेशः⟫ : ⟪किं⟫ ⟪कश्चिदुत्सवो⟫ ⟪ऽद्य⟫ ⟪तव⟫ ⟪गृहे⟫ ⟪॥⟫ | |
 | ⟪अशोकः⟫ : ⟪आम्⟫ ⟪।⟫ ⟪अद्य⟫ ⟪पितृपादानां⟫2 ⟪जन्मदिनोत्सवः⟫ ⟪॥⟫ | 2 -⟪पाद⟫ pl. kann an Namen, Titel usw. angefügt werden, um Respekt auszudrücken |
 | ⟪सुरेशः⟫ : ⟪किं⟫ ⟪वयस्तव⟫3 ⟪पितृचरणानाम्⟫ ⟪॥⟫ | 3 Nom.Akk.sg zu ⟪वयस्⟫ n. "Alter" |
 | ⟪अशोकः⟫ : ⟪पञ्चषष्टिसमायुतं⟫4 ⟪मम⟫ ⟪पितुर्वयः⟫ ⟪।⟫ ⟪अद्य⟫ ⟪मम⟫ ⟪गृहे⟫ ⟪बहवः⟫ ⟪संबन्धिनो⟫ ⟪मित्राणि⟫ ⟪चागमिष्यन्ति⟫ ⟪।⟫ ⟪त्वयाप्यागन्तव्यम्⟫ ⟪॥⟫ | 4 ⟪पञ्चषष्टि⟫ fünfundsechzig |
-| **⟪सुरेशः⟫** : ⟪भद्र⟫5 ⟪कतिवादन⟫5k ⟪आगमिष्यन्ति⟫ ⟪जनाः⟫ ⟪॥⟫ | 5 Vokativ sg. 5k ⟪वादन⟫ n. "-Uhr" |
+| **⟪सुरेशः⟫** : ⟪भद्र⟫5 ⟪कतिवादन⟫5k ⟪आगमिष्यन्ति⟫ ⟪जनाः⟫ ⟪॥⟫ | 5 Vocativ sg. 5k ⟪वादन⟫ n. "-Uhr" |
 | ⟪अशोकः⟫ : ⟪समयं⟫ ⟪किं⟫ ⟪पृच्छसि⟫ ⟪।⟫ ⟪षड्वादनं⟫6 ⟪यावदागच्छ⟫7 ⟪॥⟫ | 6 ⟪षड्⟫ "sechs" 7 2.sg.Imperativ |
 | ⟪सुरेशः⟫ : ⟪सार्धषड्वादनं⟫ ⟪यावदागच्छामि⟫ ⟪चेत्⟫ ⟪॥⟫ | |
 | ⟪अशोकः⟫ : ⟪नैव⟫ ⟪षड्वादन⟫ ⟪एव⟫ ⟪निश्चितरूपेणागन्तव्यं⟫ ⟪त्वया⟫ ⟪॥⟫ | |
 | ⟪सुरेशः⟫ : ⟪अस्तु⟫8 ⟪।⟫ ⟪तर्हि⟫ ⟪गच्छ⟫ ⟪त्वं⟫ ⟪।⟫ ⟪नोचेद्विलम्बो⟫ ⟪भविष्यति⟫ ⟪॥⟫ | 8 3.sg.Imperativ zu ⟪अस्⟫ 2P |
-| ⟪अशोकः⟫ : (⟪विपण्यां⟫ ⟪प्रविशति⟫ ⟪वणिजमुपसृत्य⟫ ⟪वदति⟫ ⟪च⟫) ⟪अयि⟫ ⟪वणिग्वर⟫9 ⟪कानिचित्पण्यानि⟫ ⟪क्रेतुमागतो⟫ ⟪ऽहम्⟫ ⟪।⟫ ⟪देहि⟫10 ⟪शीघ्रं⟫ ⟪मह्यम्⟫ ⟪॥⟫ | 9 Vokativ sg. 10 2.sg.Imperativ P zu ⟪दा⟫ 3U |
+| ⟪अशोकः⟫ : (⟪विपण्यां⟫ ⟪प्रविशति⟫ ⟪वणिजमुपसृत्य⟫ ⟪वदति⟫ ⟪च⟫) ⟪अयि⟫ ⟪वणिग्वर⟫9 ⟪कानिचित्पण्यानि⟫ ⟪क्रेतुमागतो⟫ ⟪ऽहम्⟫ ⟪।⟫ ⟪देहि⟫10 ⟪शीघ्रं⟫ ⟪मह्यम्⟫ ⟪॥⟫ | 9 Vocativ sg. 10 2.sg.Imperativ P zu ⟪दा⟫ 3U |
 | ⟪वणिक्⟫11 : ⟪वत्स⟫ ⟪त्वं⟫ ⟪किंकिं⟫ ⟪क्रेतुमिच्छसि⟫ ⟪।⟫ ⟪मम⟫ ⟪विपणौ⟫ ⟪बहून्युत्तमोत्तमानि⟫ ⟪पण्यानि⟫ ⟪सन्ति⟫ ⟪तानि⟫ ⟪च⟫ ⟪स्वल्पमूल्यानि⟫ ⟪।⟫ ⟪वद⟫12 ⟪कियत्परिमाणं⟫ ⟪किं⟫ ⟪क्रेतुमिच्छसि⟫ ⟪॥⟫ | 11 Nom.sg. zu ⟪वणिज्⟫ m. 12 2.sg.Imperativ |
 | ⟪अशोकः⟫ : ⟪सेरभारा⟫13 ⟪शर्करा⟫ ⟪कियता⟫ ⟪मूल्येन⟫ ⟪विक्रीयते⟫ ⟪॥⟫ | 13 ⟪सेर⟫ = Seer (= 0.93310 kg) |
 | ⟪वणिक्⟫ : ⟪नाधिक्यं⟫ ⟪मूल्यम्⟫ ⟪।⟫ ⟪केवलमष्टाणकेन⟫14 ⟪दास्यामि⟫ ⟪सेरभारां⟫ ⟪शर्कराम्⟫ ⟪॥⟫ | 14 ⟪आणक⟫ = Anna = 1/16 Rupee |
 | ⟪अशोकः⟫ : ⟪तर्हि⟫ ⟪तोलयित्वा⟫ ⟪शीघ्रं⟫ ⟪सेरपरिमितां⟫ ⟪शर्करां⟫ ⟪देहि⟫15 ⟪॥⟫ | 15 2.sg.Imperativ P zu ⟪दा⟫ 3U |
-| ⟪वणिक्⟫ : (⟪शर्करां⟫ ⟪कर्गले⟫ ⟪संपुटीकृत्य⟫) ⟪बाल⟫16 ⟪गृहाण⟫17 ⟪शर्कराम्⟫ ⟪।⟫ ⟪देहि⟫ ⟪च⟫ ⟪मह्यमाणकाष्टकम्⟫18 ⟪।⟫ ⟪सत्वरं⟫ ⟪देहि⟫ ⟪॥⟫ | 16 Vokativ sg. 17 2.sg.Imperativ 18 ⟪अष्ट⟫ "acht" |
+| ⟪वणिक्⟫ : (⟪शर्करां⟫ ⟪कर्गले⟫ ⟪संपुटीकृत्य⟫) ⟪बाल⟫16 ⟪गृहाण⟫17 ⟪शर्कराम्⟫ ⟪।⟫ ⟪देहि⟫ ⟪च⟫ ⟪मह्यमाणकाष्टकम्⟫18 ⟪।⟫ ⟪सत्वरं⟫ ⟪देहि⟫ ⟪॥⟫ | 16 Vocativ sg. 17 2.sg.Imperativ 18 ⟪अष्ट⟫ "acht" |
 | ⟪अशोकः⟫ : (⟪आदाय⟫ ⟪हस्ते⟫ ⟪तस्य⟫ ⟪भारं⟫ ⟪चाल्पं⟫ ⟪विलोक्य⟫) ⟪भो⟫ ⟪वणिक्⟫ ⟪।⟫ ⟪नैषा⟫ ⟪सेरभारा⟫ ⟪शर्करा⟫ ⟪दृश्यते⟫ ⟪।⟫ ⟪पुनः⟫ ⟪सम्यक्तोलयित्वा⟫19 ⟪देहि⟫ ⟪॥⟫ | 19 ⟪सम्यक्⟫ Adv. "richtig" |
 | ⟪वणिक्⟫ : (⟪सहासम्⟫) ⟪किमनेन⟫ ⟪।⟫ ⟪अकिञ्चिद्करमेतत्⟫ ⟪।⟫ ⟪तव⟫ ⟪भारवहनक्लेशो⟫ ⟪ऽल्पो⟫ ⟪भविष्यति⟫ ⟪॥⟫ | |
 | ⟪अशोकः⟫ : (⟪मनसि⟫20 ⟪किंचिद्विचार्याणकचतुष्टयं⟫21 ⟪च⟫ ⟪तस्य⟫ ⟪पुरत⟫ ⟪उपस्थाप्य⟫) ⟪भो⟫ ⟪श्रेष्ठिन्⟫ ⟪गृहाण⟫22 ⟪मूल्यम्⟫ ⟪।⟫ ⟪मया⟫ ⟪हि⟫ ⟪शीघ्रं⟫ ⟪गृहं⟫ ⟪गन्तव्यम्⟫ ⟪॥⟫ (⟪इत्युक्त्वा⟫ ⟪ततः⟫ ⟪प्रस्थितः⟫) | 20 Lok.sg. zu ⟪मनस्⟫ n. "Geist" 21 -⟪चतुष्टय⟫ "Anzahl von vier" 22 Imperativ.sg. |
-| ⟪वणिक्⟫ : ⟪रे⟫ ⟪बालक⟫23 ⟪।⟫ ⟪एह्येहि⟫24 ⟪शृणु⟫25 ⟪तावत्⟫ ⟪।⟫ ⟪अल्पमेव⟫ ⟪मूल्यं⟫ ⟪दत्त्वा⟫ ⟪क्व⟫ ⟪व्रजसि⟫ ⟪।⟫ ⟪आणकचतुष्टयमन्यदपि⟫ ⟪देहि⟫ ⟪॥⟫ | 23 Vokativ sg. 24 2.g.Imperativ P zu ⟪इ⟫+⟪आ⟫ 25 2.sg.Imperativ P |
-| ⟪अशोकः⟫ : ⟪श्रेष्ठिन्⟫26 ⟪।⟫ ⟪किमनेन⟫ ⟪।⟫ ⟪अकिंचित्करमेतत्⟫ ⟪।⟫ ⟪नाणकगणनाक्लेशस्ते⟫ ⟪ऽल्पीयान्भविष्यति⟫27 ⟪॥⟫ (⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫) | 26 Vokativ sg. 27 Nom.sg.m. Komparativ zu ⟪अल्प⟫ = "ganz gering" |
+| ⟪वणिक्⟫ : ⟪रे⟫ ⟪बालक⟫23 ⟪।⟫ ⟪एह्येहि⟫24 ⟪शृणु⟫25 ⟪तावत्⟫ ⟪।⟫ ⟪अल्पमेव⟫ ⟪मूल्यं⟫ ⟪दत्त्वा⟫ ⟪क्व⟫ ⟪व्रजसि⟫ ⟪।⟫ ⟪आणकचतुष्टयमन्यदपि⟫ ⟪देहि⟫ ⟪॥⟫ | 23 Vocativ sg. 24 2.g.Imperativ P zu ⟪इ⟫+⟪आ⟫ 25 2.sg.Imperativ P |
+| ⟪अशोकः⟫ : ⟪श्रेष्ठिन्⟫26 ⟪।⟫ ⟪किमनेन⟫ ⟪।⟫ ⟪अकिंचित्करमेतत्⟫ ⟪।⟫ ⟪नाणकगणनाक्लेशस्ते⟫ ⟪ऽल्पीयान्भविष्यति⟫27 ⟪॥⟫ (⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫) | 26 Vocativ sg. 27 Nom.sg.m. Komparativ zu ⟪अल्प⟫ = "ganz gering" |
 | (⟪विपणिस्थो⟫ ⟪वञ्चको⟫ ⟪वणिग्⟫28 ⟪किमपि⟫ ⟪कर्तुमशक्नोत्⟫ ⟪केवलं⟫ ⟪तस्य⟫ ⟪मनसि⟫29 ⟪पश्चात्ताप⟫ ⟪एवासीत्⟫) | 28 ⟪वणिक्⟫ Nom.sg. zu ⟪वणिज्⟫ 29 Lok.sg. zu ⟪मनस्⟫ n. "Geist" |
 | ⟪अशोको⟫ ⟪गृहमागत्य⟫ ⟪सर्वमपीतिवृत्तमकथयत्⟫ ⟪।⟫ ⟪तत्रस्था⟫ ⟪सर्वे⟫ ⟪ऽपि⟫ ⟪बान्धवा⟫ ⟪मित्राणि⟫ ⟪च⟫ ⟪परमानन्दं⟫ ⟪प्रापुः⟫ ⟪।⟫ ⟪इत्थं⟫ ⟪जन्मोत्सवः⟫ ⟪सानन्दं⟫ ⟪समाप्तिं⟫ ⟪यातः⟫ ⟪॥⟫ | |
 | (Nach: Saral Sanskrit Shikshak III, S. 4f.) | |
@@ -373,7 +373,7 @@ Fig.: ⟪शर्करा⟫
 
 **lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Access il 2009-01-06. -- Licenza Creative Commons (Attribuzione, senza utilizzi cummercial)
 
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)
+**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
 
 **lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Access il 2009-01-06. -- Licenza Creative Commons (Attribuzione)
 
@@ -387,3 +387,4 @@ Fig.: ⟪शर्करा⟫
 
 **lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Zugriff il 2009-01-07. -- Licenza Creative Commons (Nominament, nagina modifitgaziun)
 :::
+ <!-- TODO: Fallback translation -->

@@ -63,7 +63,7 @@ last_reconstructed: 2026-05-07
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "ਮਾਰਗਦਰਸ਼ਕ, ਸ਼ਾਸਕ, ਪਤੀ,:brਪ੍ਰੇਮੀ / ਪ੍ਰੇਮਿਕਾ, ਔਰਤ" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "ਬਲੀਦਾਨ ਦੇਣ ਵਾਲਾ, ਬਲੀਦਾਨ ਯਾਜਕ" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "ਨਾਚਣ ਵਾਲਾ / ਨਾਚਣ ਵਾਲੀ" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "ਜਿੱਤਣ ਵਾਲਾ" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "ਜਿੱਤਣ ਵਾਲਾ" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **ਇਹਨਾਂ ਵਿੱਚੋਂ ਕੁਝ ਸ਼ਬਦਾਂ ਦੀ ਸੀਮਿਤ ਭਾਵਨਾ ਹੈ: "ਜੜ੍ਹ ਦੁਆਰਾ ਪ੍ਰਗਟ ਕੀਤੇ ਗਏ ਆਦਤਨ ਜਾਂ ਕਰਤਵਜਨਕ ਜਾਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰਨ ਵਾਲਾ"।**
@@ -76,7 +76,7 @@ last_reconstructed: 2026-05-07
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "ਖੇਤੀਬਾੜੀ ਕਰਨ ਵਾਲਾ":br(ਗਹਿਰਾ ਪੱਧਰ!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "ਤੰਗ ਕਰਨ ਵਾਲਾ" |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "ਖਾਣ ਵਾਲਾ, ਖਾਣਹਾਰ" |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "ਖਾਣ ਵਾਲਾ, ਖਾਣਹਾਰ" | <!-- TODO: Fallback translation -->
 
 ਇਸ ਤੋਂ ਇਲਾਵਾ ਸ਼ਬਦਾਵਲੀ **-aka** ਦੇ ਕੁਝ ਘੱਟ ਮਹੱਤਵਪੂਰਨ ਵਰਤੋਂ ਵੀ ਹਨ। ਵੇਖੋ Wackernagel, Altindische Grammatik, II, §45ff.
 

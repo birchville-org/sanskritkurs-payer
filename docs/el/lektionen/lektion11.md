@@ -5,7 +5,7 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα 11
 
@@ -145,3 +145,4 @@ status: stable
 Εικ.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt1103))
 :::
+ <!-- TODO: Fallback translation -->

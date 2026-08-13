@@ -42,7 +42,7 @@ de exemplu:
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
 > etc.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. Compuse determinative cu elementul anterior atributiv / apositional = Karmadhāraya m. = ⟪कर्मधारय⟫
@@ -71,16 +71,20 @@ Fig.: ⟪लक्ष्मी⟫
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   dacă un Karmadhāraya exprimă un COMPARATIV, atunci ceea cu ce se face comparația se află în elementul posterior al compusului:
 
-    ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "un om ca un leu"  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un om ca un tigru"
+::: indent
+⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "un om ca un leu"
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un om ca un tigru"
+:::
 
 *   dacă un Karmadhāraya exprimă o apositională (precizare mai detaliată a elementului posterior printr-un substantiv), atunci cel care precizează mai detaliat se află în elementul anterior, așa cum cere și regula generală privind ordinea componentelor într-un Tatpuruṣa:
 
-    ⟪नरसिंहः⟫ poate fi, de asemenea, descompus: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Un leu, care (în realitate) este un om."
+::: indent
+⟪नरसिंहः⟫ poate fi, de asemenea, descompus: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Un leu, care (în realitate) este un om."
+:::
 
     Astfel de Karmadhāraya apositională sunt rezolvate în comentariile indigene, așa cum se arată în exemplul de mai sus, prin intermediul ⟪एव⟫.
 
@@ -102,7 +106,7 @@ de ex.
 ⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "fiul unui Kṣatriya", "un tânăr Kṣatriya", "un membru al grupului Kṣatriyas"  
 Ac. sg. ⟪क्षत्रियपुत्रम्⟫  
 Gen. sg. ⟪क्षत्रियपुत्रस्य⟫  
-etc.  
+etc.   <!-- TODO: Fallback translation -->
 
 ⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "natura unui învățător"
 
@@ -121,12 +125,12 @@ Primul element poate, la descompunerea compusului, să fie în singular, dual sa
 :::
 Exemple:
 
-Primul element reprezintă acuzativul (⟪द्वितीया⟫): de ex. la anumite PPP la verbe de mișcare (Pāṇini 2,1,24):
+Primul element reprezintă acuzativul (⟪द्वितीया⟫): de ex. la anumite PPP la verbe de mișcare (Pāṇini 2,1,24): <!-- TODO: Fallback translation -->
 
 ⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "cel care a mers în sat"  
 ⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "cea care a căzut într-o iad"
 
-Primul element reprezintă instrumentalul (⟪तृतीया⟫): de ex. frecvent agentul (⟪कर्तृ⟫) de forme nominale cu sufixe kṛt (de ex. PPP):
+Primul element reprezintă instrumentalul (⟪तृतीया⟫): de ex. frecvent agentul (⟪कर्तृ⟫) de forme nominale cu sufixe kṛt (de ex. PPP): <!-- TODO: Fallback translation -->
 
 ⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "făcut de un zeu / de zei"  
 Ar fi de asemenea rezolvabil: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "fapt / acțiune a unui zeu / de zei; fapt divin, fapt divin"  

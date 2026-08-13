@@ -30,23 +30,35 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 por ejemplo:
 :::
 ::: indent
-    ⟪इष्ट⟫ "deseado" (es decir, no solo deseado en el pasado, sino también en el presente)
+::: indent
+⟪इष्ट⟫ "deseado" (es decir, no solo deseado en el pasado, sino también en el presente)
+:::
 :::
 
-    ⟪त्वरित⟫ "apresurado, veloz" (PPP de tvar 1 Ā "apresurarse"; Dhātupāṭha: ñitvárā)
 ::: indent
-    ⟪इष्टं⟫ ⟪फलम्⟫ "la fruta deseada (por ejemplo, la de las acciones)"
+⟪त्वरित⟫ "apresurado, veloz" (PPP de tvar 1 Ā "apresurarse"; Dhātupāṭha: ñitvárā)
+:::
+::: indent
+::: indent
+⟪इष्टं⟫ ⟪फलम्⟫ "la fruta deseada (por ejemplo, la de las acciones)"
+:::
 :::
 
 Si en este caso ⟪अपि⟫ sigue al PPP, ⟪अपि⟫ tiene el significado "aunque":
 por ejemplo:
 ::: indent
-    ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Aunque el que desea la fruta no la obtiene."
+::: indent
+⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Aunque el que desea la fruta no la obtiene."
+:::
 :::
 
-    ⟪गत⟫ n.: "el ir, el andar"
 ::: indent
-    ⟪नृत्त⟫ n.: "el bailar, el baile"
+⟪गत⟫ n.: "el ir, el andar"
+:::
+::: indent
+::: indent
+⟪नृत्त⟫ n.: "el bailar, el baile"
+:::
 :::
 
 ## 13.3. Determinantes atributivas de los nombres (orden de las palabras)
@@ -68,7 +80,7 @@ Ejemplo:
 
 Mediante los sufijos taddhita -mant o -vant se forman adjetivos posesivos a partir de nombres. Su significado es: "que posee lo designado por el nombre subyacente".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. &lt;!-- TODO: Fallback translation --&gt;
 
 Ejemplos:
 
@@ -163,15 +175,15 @@ Aprenda las siguientes palabras:
 - **asura** m. ⟪असुर⟫ : demonio
 
 > **ASURA.** 'Espiritual, divino.'
->
+&gt;
 > En las partes más antiguas del Ṛgveda, este término se utiliza para el espíritu supremo, y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios', se aplicó a varias de las deidades principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado completamente opuesto, y pasó a significar, como ahora, un demonio o enemigo de los dioses.
->
+&gt;
 > La palabra se encuentra con esta significación en las partes posteriores del Ṛgveda, particularmente en el último libro, y también en el Atharvaveda. Los Brāhmaṇas le atribuyen el mismo significado, y registran muchos conflictos entre los Asuras y los dioses. Según el Taittirīya Brāhmaṇa, el aliento *(asu)* de Prajapati se volvió vivo, y "con ese aliento creó a los Asuras". En otra parte de la misma obra se dice que Prajāpati "quedó embarazado. Creó Asuras de su abdomen". El Śatapatha Brāhmaṇa coincide con la declaración anterior, y afirma que "creó Asuras de su aliento inferior". El Taittirīya Āraṇyaka representa que Prajāpati creó dioses, hombres, padres, Gandharvas y Apsarases del agua, y que los Asuras, Rakṣasas y piśācas surgieron de las gotas que se derramaron. La declaración de Manu es que fueron creados por los Prajāpatis.
->
+&gt;
 > Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). La cuenta del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (Prajāpati) vientre. *Asu* es declarado por el Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras". La palabra ha sido utilizada durante mucho tiempo como un nombre general para los enemigos de los dioses, incluyendo a los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo a los Rakṣasas descendientes de Pulastya.
->
+&gt;
 > En este sentido, se ha encontrado una derivación diferente para ella: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura*, comúnmente utilizada para 'un dios'."
->
+&gt;
 > [Fuente: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
@@ -191,7 +203,7 @@ Fig.: ⟪महिषासुरः⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : odiar, hostilizar
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : comer, consumir
-- **anna** n. ⟪अन्न⟫ : comida (del PPP: *ad-na: lo comido)
+- **anna** n. ⟪अन्न⟫ : comida (del PPP: *ad-na: lo comido) &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -213,7 +225,7 @@ pad 4 Ā:
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1303))
 :::
-dviṣ 2 U:
+dviṣ 2 U: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : odio

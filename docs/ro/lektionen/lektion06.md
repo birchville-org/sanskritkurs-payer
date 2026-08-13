@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 6
 
@@ -27,7 +27,7 @@ status: stable
 **Schema II: Agent (kartṛ m. = ⟪कर्तृ⟫) – Formă verbală**
 - ex. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma onorează cu un jertfă", "Rāma jertfește"
 :::
-Când agentul (**kartṛ** m. = ⟪कर्तृ⟫) este menționat într-o propoziție verbală care nu este la pasiv, atunci agentul este în **nominativ** (cazul întâi, prathamā = ⟪प्रथमा⟫). În număr (vacana n. = ⟪वचन⟫), agentul și forma verbală se potrivesc.
+Când agentul (**kartṛ** m. = ⟪कर्तृ⟫) este menționat într-o propoziție verbală care nu este la pasiv, atunci agentul este în **nominativ** (cazul întâi, prathamā = ⟪प्रथमा⟫). În număr (vacana n. = ⟪वचन⟫), agentul și forma verbală se potrivesc. <!-- TODO: Fallback translation -->
 
 ## 6.2. Despre formarea formelor verbale
 
@@ -75,7 +75,7 @@ Exemple:
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "el (ea, el) apare" |
 | **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "el (ea, el) dansează" |
 
-## 6.4. Terminationsle de persoana a treia (prathama m. = ⟪प्रथम⟫ = "prima (!) persoană")
+## 6.4. Terminationsle de persoana a treia (prathama m. = ⟪प्रथम⟫ = "prima (!) persoană") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
@@ -237,9 +237,13 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **B) Pluralizați:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

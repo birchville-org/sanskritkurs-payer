@@ -7,16 +7,16 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 56
+# Oppitunti 56 <!-- TODO: Fallback translation -->
 
-## 56.1. Kertautunut aoristi
+## 56.1. Kertautunut aoristi <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Muodostus:**
 
-**Lisäys + reduplikoitu vartalo + a + tematiinen sekundääripääte**
+**Lisäys + reduplikoitu vartalo + a + tematiinen sekundääripääte** <!-- TODO: Fallback translation -->
 
-**Vartalotavu voi olla matala- tai korkeataustainen. -i tai -u päättyvissä vartaloissa matalaaste on sääntö.**
+**Vartalotavu voi olla matala- tai korkeataustainen. -i tai -u päättyvissä vartaloissa matalaaste on sääntö.** <!-- TODO: Fallback translation -->
 
 **Loppuun jäävät -i ja -u korvataan muodoilla -iy ja -uv.**
 
@@ -39,12 +39,12 @@ Tämän aoristimuodon muodostavat muun muassa:
 *   ⟪द्रु⟩ 1P "juosta"
 *   ⟪कम्⟩ 1Ā "rakastaa": ⟪अचकमत⟩ / ⟪अचीकमत⟩ (katso alta!)
 *   ⟪पत्⟩ 1P "putota": ⟪अपप्तत्⟩ (a-pa-pt-a-t; pt = syväaste verbistä pat)
-*   ⟪वच्⟩ 2P "sanoa": ⟪अवोचत्⟩ (a-va + uc-a-t)
+*   ⟪वच्⟩ 2P "sanoa": ⟪अवोचत्⟩ (a-va + uc-a-t) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Kaikkien 10. preesansiluokan juuret sekä kaikki kausatiivit muodostavat aina reduplikoidun aoristin.**
 :::
-### 56.1.1. Kausatiivien ja 10. preesansiluokan juurten aoristin muodostaminen
+### 56.1.1. Kausatiivien ja 10. preesansiluokan juurten aoristin muodostaminen <!-- TODO: Fallback translation -->
 
 Varsinainen vartalo:
 
@@ -73,16 +73,16 @@ Varsinainen vartalo:
 :::
 Reduplikatiivisen sillan vokaali:
 
-Kun yllä mainitut säännöt on sovellettu vartalon sillaan, seuraavien sääntöjen tulee täyttää reduplikatiivisen sillan vokaalin osalta:
+Kun yllä mainitut säännöt on sovellettu vartalon sillaan, seuraavien sääntöjen tulee täyttää reduplikatiivisen sillan vokaalin osalta: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**Lähtökohtana on säännöllinen reduplikatiivinen vokaali, eli**
+**Lähtökohtana on säännöllinen reduplikatiivinen vokaali, eli** <!-- TODO: Fallback translation -->
 
 *   a:lle a, ā, ṛ,  ṝ, ḷ
 *   i:lle i, ī, e, ai
 *   u:lle u, ū, o, au
 
-**Tämä toistovokaali käy läpi seuraavat muutokset:**
+**Tämä toistovokaali käy läpi seuraavat muutokset:** <!-- TODO: Fallback translation -->
 
 *   **i, u korvataan ī:llä, ū:lla, jos Vartalo-sylvi alkaa vain yhdellä konsonantilla ja on metrisesti lyhyt:**
 ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत्⟫  
@@ -92,15 +92,15 @@ Kun yllä mainitut säännöt on sovellettu vartalon sillaan, seuraavien säänt
 :sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, Aor.-vartalon sylvi ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
 :sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, Aor.-vartalon sylvi ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
 ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Aor.-vartalon sylvi ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫  
-⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Aor.-vartalon sylvi ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
+⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Aor.-vartalon sylvi ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫ <!-- TODO: Fallback translation -->
 
 Tietyiden juurten erityispiirteet Kielhornin, Grammatik § 435c jne.
 
-**Vokaalialkuiset vartalopohjat reduplikoidaan seuraavien sääntöjen mukaisesti:**
+**Vokaalialkuiset vartalopohjat reduplikoidaan seuraavien sääntöjen mukaisesti:** <!-- TODO: Fallback translation -->
 
 *   **Jos vokaalialkuista seuraa vain yksi konsonantti tai konsonanttiryhmä, jonka ensimmäinen jäsen ei ole nasali eikä d tai r, reduplikoituneen sillaben muoto on:**
 
-Vokaali - sitä seuraava ensimmäinen konsonantti (tai reduplikointisilabassa vaadittu vastine) - **i** \- kaikki muut konsonantit
+Vokaali - sitä seuraava ensimmäinen konsonantti (tai reduplikointisilabassa vaadittu vastine) - **i** \- kaikki muut konsonantit <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -108,9 +108,9 @@ Vokaali - sitä seuraava ensimmäinen konsonantti (tai reduplikointisilabassa va
 ⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, reduplikoitunut silba ⟪एषिष्⟫, aor. ⟪ऐषिषत्⟫
 ⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, reduplikoitunut silba ⟪ईचिक्ष्⟫, aor. ⟪ऐचिक्षत्⟫
 :::
-*   **Jos vokaalialkuista seuraa konsonanttiryhmä, jonka alussa on nasali tai d tai r, ryhmän toinen konsonantti (tai sen vastine) lisätään i-kirjaimen avulla seuraavan kaavion mukaisesti:**
+*   **Jos vokaalialkuista seuraa konsonanttiryhmä, jonka alussa on nasali tai d tai r, ryhmän toinen konsonantti (tai sen vastine) lisätään i-kirjaimen avulla seuraavan kaavion mukaisesti:** <!-- TODO: Fallback translation -->
 
-Vokaali - ensimmäinen konsonantti - toinen konsonantti (sijaishahmo) - i - toinen konsonantti
+Vokaali - ensimmäinen konsonantti - toinen konsonantti (sijaishahmo) - i - toinen konsonantti <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, punnittu tavu ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
@@ -118,29 +118,29 @@ Vokaali - ensimmäinen konsonantti - toinen konsonantti (sijaishahmo) - i - toin
 ⟪अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, punnittu tavu ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
 :::
 Tätä vokaalilla alkavien johdannaisten (kausatiivien) punnintamuotoa kutsutaan "attiseksi punninnaksi".
-## 56.2. Injunktivi
+## 56.2. Injunktivi <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Injunktivi on augmentiton muoto augmentillisista muodoista, eli sen muodot ovat samat kuin indikatiivin imperfektin tai aoristin augmentittomat muodot. Intialainen kotimainen grammatikka ei ole tunnustanut injunktivia erityiseksi grammattiseksi kategoriaksi.**
 :::
-Perustyön mukaisesti:
+Perustyön mukaisesti: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5601.jpg)
 Kuv.:
 Vertailevan kielitieteen professori, Erlangen-Nürnbergin yliopisto (1955 - 1983)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5601))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
 :::
-injunktivilla Veda seuraavat ominaisuudet:
+injunktivilla Veda seuraavat ominaisuudet: <!-- TODO: Fallback translation -->
 
 *   se ei ole kertova, vaan mainitseva
 *   se on aikatasoton
 *   injunktiiivi Preesens (= augmentiton imperfekti) ilmaisee keskenjääneen aspektin
-*   injunktiiivi Aorist ilmaisee valmiiksi tulleen aspektin.
+*   injunktiiivi Aorist ilmaisee valmiiksi tulleen aspektin. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Jälkivedisessä sanskritissa injunktiiivi esiintyy vain kielto-osan मा (+ injunktiiivi Aorist) tai मा स्म (+ injunktiiivi Preesens tai Aorist) kanssa; eri aspekti ei yleensä enää tule voimaan.**
@@ -148,11 +148,11 @@ injunktivilla Veda seuraavat ominaisuudet:
 (aspektin
 
 *   ilmaisee ⟪मा⟫ + injunktivi aoristus kieltokehotteen: "Älä aloita ...!", "Älä tee ...!"
-*   ilmaisee ⟪मा⟫ ⟪स्म⟫ + injunktivi preesens inhibitiivikehotteen, ts. jo käynnissä oleva toiminta tai jo olemassa oleva tilanne kielletään: "Lopeta ...!", "Hylkää ...!"
+*   ilmaisee ⟪मा⟫ ⟪स्म⟫ + injunktivi preesens inhibitiivikehotteen, ts. jo käynnissä oleva toiminta tai jo olemassa oleva tilanne kielletään: "Lopeta ...!", "Hylkää ...!" <!-- TODO: Fallback translation -->
 
 Tätä eroa ei kuitenkaan yleensä tehdä klassisessa sanskritissa.)
 :::
-## 56.3. Kieltokehotus
+## 56.3. Kieltokehotus <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Päämuoto:**
@@ -164,7 +164,7 @@ Tätä eroa ei kuitenkaan yleensä tehdä klassisessa sanskritissa.)
 Esimerkit:
 
 ::: indent
-⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Älä tule sellaiseksi, jota teon hedelmä motivoi!" (injunktiiivi aoristus) (⟪भगवद्गीता⟫ 2,47c)
+⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Älä tule sellaiseksi, jota teon hedelmä motivoi!" (injunktiiivi aoristus) (⟪भगवद्गीता⟫ 2,47c) <!-- TODO: Fallback translation -->
 
 ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Älä tule epämieheksi!" (injunktiiivi aoristus) (⟪भगवद्गीता⟫ 2,3a)
 :::
@@ -174,7 +174,7 @@ Kuv.: ⟪क्लैब्यं⟩ ⟪मा⟩ ⟪स्म⟩ ⟪गमः�
 Juliste (Ernesto Che Guevara) poliittisesta puolueesta Vallachirassa (വാല്ലചിര), Thrissurissa (തൃശ്ശൂര്‍). "Karkea käännös siitä, mitä siinä lukee, olisi: Marttyyrikuolema on kiehtova kokemus vallankumoukselliselle. Ja uhmaava pakonpakolainen petturille. Che ei ole roolimalli pelkureille."
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5602))
 :::
-Molemmat esimerkit ovat kielto- tai varoitusmerkityksellisiä. Injunktiiivi aoristusta käytetään tässä siis alkuperäisessä merkityksessään. (Injunktiiivi aoristuksen yleisyys näissä lauseissa selittyy ehkä kielto-lauseiden yleisyydellä inhibitiivisiin lauseisiin verrattuna, mutta tätä kysymystä tulisi vielä tutkia klassisessa sanskritissa.)
+Molemmat esimerkit ovat kielto- tai varoitusmerkityksellisiä. Injunktiiivi aoristusta käytetään tässä siis alkuperäisessä merkityksessään. (Injunktiiivi aoristuksen yleisyys näissä lauseissa selittyy ehkä kielto-lauseiden yleisyydellä inhibitiivisiin lauseisiin verrattuna, mutta tätä kysymystä tulisi vielä tutkia klassisessa sanskritissa.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Kielto-lauseiden muita muotoja:**
@@ -183,11 +183,11 @@ Molemmat esimerkit ovat kielto- tai varoitusmerkityksellisiä. Injunktiiivi aori
 **esim. ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫**
 
 *   ⟪अलम्⟫ tai ⟪कृतम्⟫  = instrumentaali kielto-lauseessa
-esim. ⟪अलं⟫  ⟪विषादेन⟫ "Riittää masennus! = Lopeta masentuminen! Pää pystyyn!"
+esim. ⟪अलं⟫  ⟪विषादेन⟫ "Riittää masennus! = Lopeta masentuminen! Pää pystyyn!" <!-- TODO: Fallback translation -->
 
 *   ⟪न⟫ + gerundiivi (tarvisuuspartisiippi)
 
-Lisäksi on olemassa joitakin muita, harvinaisempia kielto-lauseen muotoja, ks. esim.
+Lisäksi on olemassa joitakin muita, harvinaisempia kielto-lauseen muotoja, ks. esim. <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -198,16 +198,16 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 Kuv: ⟪अलं⟫  ⟪विषादेन⟫
 (Kuvälähde: [Tiedot](/fi/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫
+## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪स्म⟫ korostaa: "todellakin, tietysti, varmasti, juuri"**
 
-**Lisäksi seuraava rakenne on erittäin tärkeä:**
+**Lisäksi seuraava rakenne on erittäin tärkeä:** <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
-⟪स्म⟫ + indikatiivin preesens palvelee menneen ajan kertomiseen, erityisesti keston ilmaisemiseksi menneisyydessä:
+⟪स्म⟫ + indikatiivin preesens palvelee menneen ajan kertomiseen, erityisesti keston ilmaisemiseksi menneisyydessä: <!-- TODO: Fallback translation -->
 
 esim. ⟪वसति⟫ ⟪स्म⟫ "asui kerran" (⟪स्म⟩ voi joskus puuttua).
 :::
@@ -298,10 +298,10 @@ A) Määritä ja käännä ilman apuvälineitä (!) seuraavat muodot:
 
 ::: deleteme-box
 
-**lekt5601:** Professor für vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983) [Kuvalähde: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Zugriff am 2009-02-27]
+**lekt5601:** Professor für vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983) [Kuvalähde: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Zugriff am 2009-02-27] <!-- TODO: Fallback translation -->
 
-**lekt5602:** Plakat (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards." [Kuvalähde: Hari\_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)]
+**lekt5602:** Plakat (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards." [Kuvalähde: Hari\_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt5603:** [Kuvalähde: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt5603:** [Kuvalähde: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
 :::

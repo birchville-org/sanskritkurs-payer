@@ -187,7 +187,7 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (ตาม Kauṭilīya-arthaṣāstra 1.3.3.) คำอธิบาย: chando = นามเอกพจน์, อกรรมกริยา เอกพจน์ จาก chandas n.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (ตาม Kauṭilīya-arthaṣāstra 1.3.3.) คำอธิบาย: chando = นามเอกพจน์, อกรรมกริยา เอกพจน์ จาก chandas n.) <!-- TODO: Fallback translation -->
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 

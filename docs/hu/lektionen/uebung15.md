@@ -10,13 +10,13 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 15
 
-A) Fordítsa le a leckében szereplő mondást
+A) Fordítsa le a leckében szereplő mondást <!-- TODO: Fallback translation -->
 
 ⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫  
 ⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫  
 ⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫  
 ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫  
-A tudás az előírt engedelmesség révén, vagy rendkívül nagy pénzért, vagy tudáscsere útján szerezhető. Negyedik lehetőség nincs.
+A tudás az előírt engedelmesség révén, vagy rendkívül nagy pénzért, vagy tudáscsere útján szerezhető. Negyedik lehetőség nincs. <!-- TODO: Fallback translation -->
 
 B) Oldja fel a következő Tatpuruṣa összetételeket:
 
@@ -50,9 +50,9 @@ B) Oldja fel a következő Tatpuruṣa összetételeket:
 
 ⟪१५⟫. ⟪नागदेवः⟫ ⟪।⟫ ⟪नागानां⟫ ⟪देवः⟫ — kígyóisten, kígyófőnök, elefántisten, elefántkirály
 
-⟪१६⟫. ⟪पुण्यजिताभिः⟫ ⟪।⟫ ⟪पुण्येन⟫ ⟪जिताभिः⟫ — érdem / jó cselekedet által legyőzött (női nemű)
+⟪१६⟫. ⟪पुण्यजिताभिः⟫ ⟪।⟫ ⟪पुण्येन⟫ ⟪जिताभिः⟫ — érdem / jó cselekedet által legyőzött (női nemű) <!-- TODO: Fallback translation -->
 
-⟪१७⟫. ⟪पापलोकम्⟫ ⟪।⟫ ⟪पापस्य⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापानां⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापं⟫ ⟪लोकम्⟫ — a rossz világa, a gonoszok világa, pokol, gonosz világ
+⟪१७⟫. ⟪पापलोकम्⟫ ⟪।⟫ ⟪पापस्य⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापानां⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापं⟫ ⟪लोकम्⟫ — a rossz világa, a gonoszok világa, pokol, gonosz világ <!-- TODO: Fallback translation -->
 
 ⟪१८⟫. ⟪सत्यवदनस्य⟫ ⟪।⟫ ⟪सत्यस्य⟫ ⟪वदनस्य⟫ — az igazság kimondásának
 
@@ -116,7 +116,7 @@ Oldja fel a következő összetételeket Tatpuruṣa szerkezetként szanszkrit n
 
 ⟪१६⟫. ⟪नगरजनाः⟫ ⟪।⟫ ⟪नगरस्य⟫ ⟪जनाः⟫ ⟪।⟫ ⟪नगराणां⟫ ⟪जनाः⟫ — városi nép, városlakók
 
-⟪१७⟫. ⟪यज्ञकालस्य⟫ ⟪॥⟫ ⟪यज्ञस्य⟫ ⟪कालस्य⟫ ⟪।⟫ ⟪जज्ञानां⟫ ⟪कालस्य⟫ — a megfelelő időpont az áldozatra / az áldozatokra, az idő ...
+⟪१७⟫. ⟪यज्ञकालस्य⟫ ⟪॥⟫ ⟪यज्ञस्य⟫ ⟪कालस्य⟫ ⟪।⟫ ⟪जज्ञानां⟫ ⟪कालस्य⟫ — a megfelelő időpont az áldozatra / az áldozatokra, az idő ... <!-- TODO: Fallback translation -->
 
 ⟪१८⟫. ⟪देवगृहाणि⟫ ⟪।⟫ ⟪देवस्य⟫ ⟪गृहाणि⟫ ⟪।⟫ ⟪देवाणां⟫ ⟪गृहाणि⟫ — isteni házak
 

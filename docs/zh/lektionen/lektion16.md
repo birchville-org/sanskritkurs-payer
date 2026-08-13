@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 16
+# 第16課
 
 ## 16.1. Zum Sandhi auslautender Konsonanten
 

@@ -5,11 +5,11 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 36. lecke
+# 36. lecke <!-- TODO: Fallback translation -->
 
-## 36.1. A perfekta különleges képzései
+## 36.1. A perfekta különleges képzései <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Néhány gyökér a reduplikációs szótag után megváltoztatja a gyöktőhangot.
@@ -46,10 +46,10 @@ A ⟪भू⟫ 1P gyöknek perfekttöve ⟪बभू⟫, magánhangzók előtt p
 | :--- | :--- | :--- |
 | ⟪भू⟫ 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::
-## 36.2. A perifrástikus perfektképzés (⟪अनुप्रयोगलिट्⟫)
+## 36.2. A perifrástikus perfektképzés (⟪अनुप्रयोगलिट्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-A perifrástikus perfektképzés (⟪अनुप्रयोगलिट्⟫) a következő esetekben használatos:
+A perifrástikus perfektképzés (⟪अनुप्रयोगलिट्⟫) a következő esetekben használatos: <!-- TODO: Fallback translation -->
 
 1. az átvont igeképzések (kauzativum, dezideratívum, frequentativum, denominalis igék) esetén
 2. olyan Tőknél, amelyek hosszú magánhangzóval (kivéve ā-) kezdődnek, vagy mássalhangzók előtt álló magánhangzóval (kivéve a-)
@@ -58,12 +58,12 @@ A perifrástikus perfektképzés (⟪अनुप्रयोगलिट्⟫)
 ::: grammar-box
 **Képzés:**
 
-(gyenge) jelen idői tő + -ām + a megfelelő perfektképzés ⟪कृ⟫, ⟪अस्⟫ vagy ⟪भू⟫ alapján
+(gyenge) jelen idői tő + -ām + a megfelelő perfektképzés ⟪कृ⟫, ⟪अस्⟫ vagy ⟪भू⟫ alapján <!-- TODO: Fallback translation -->
 
 - A szó végi tőmag hangzó guṇa fokúvá válik az -ām előtt.
 - ⟪अस्⟫ és ⟪भू⟫ az Ātmanepada igék esetén is a Parasmaipada szerint ragozódnak.
 :::
-Das periphrastische Perfekt ist wohl aus dem tárgyeset (accusativus) eine Verbalnomens auf -ā entstanden. Dieser tárgyeset (accusativus) wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem tárgyeset (accusativus) eine Verbalnomens auf -ā entstanden. Dieser tárgyeset (accusativus) wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 Példák:
 
@@ -72,10 +72,10 @@ Példák:
 | ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
 | ⟪बन्ध्⟫ :brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
 
-## 36.3. Perfekt passivum
+## 36.3. Perfekt passivum <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-A perfektban az aktívumhoz képest az Ātmanepada alakjait használjuk. Ezzel szemben előnyösebb a PPP használatát részesíteni mindkét esetben. A szerkezet mindkét esetben a passzívum mondataié:
+A perfektban az aktívumhoz képest az Ātmanepada alakjait használjuk. Ezzel szemben előnyösebb a PPP használatát részesíteni mindkét esetben. A szerkezet mindkét esetben a passzívum mondataié: <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -83,9 +83,9 @@ A perfektban az aktívumhoz képest az Ātmanepada alakjait használjuk. Ezzel s
 :::
 ## 36.4. Szószedet
 
-⟪अह्⟫ P csak perfekttartalmú jelenlegi jelentés ⟪आह⟫, ⟪आहुर्⟫ : mondani, beszélni
+⟪अह्⟫ P csak perfekttartalmú jelenlegi jelentés ⟪आह⟫, ⟪आहुर्⟫ : mondani, beszélni <!-- TODO: Fallback translation -->
 
-⟪अह्⟫ ⟪प्र⟫ P csak Perfektum jelenértéssel ⟪प्राह⟫ : mond, beszél
+⟪अह्⟫ ⟪प्र⟫ P csak Perfektum jelenértéssel ⟪प्राह⟫ : mond, beszél <!-- TODO: Fallback translation -->
 
 ⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : lát, (meg)pillant, szemlél
 
@@ -111,7 +111,7 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Kép: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3601))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : lépni, menni, elmenni
 
@@ -123,7 +123,7 @@ Kaus. ⟪व्राजयति⟫
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
 :::
-⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : elmenni (különösen a háztól való elszakadást, az aszkéta magányba vonulást jelenti = szerzetesnek állni)
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : elmenni (különösen a háztól való elszakadást, az aszkéta magányba vonulást jelenti = szerzetesnek állni) <!-- TODO: Fallback translation -->
 
 ⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: ház, otthon
 
@@ -156,7 +156,7 @@ ebből:
 ::: indent
 ⟪पृष्ठम्⟫ : hátul, mögött
 :::
-⟪प्रजापति⟫ m.: a lények ura, teremtőisten
+⟪प्रजापति⟫ m.: a lények ura, teremtőisten <!-- TODO: Fallback translation -->
 
 ⟪अनु⟫ előtag: után, mentén, át - végig, hosszán, szerint, hozzá, mögé - felé
 
@@ -167,7 +167,7 @@ pl.
 
 ⟪अनुगम्⟫ : után megy, elhalad mellett
 :::
-⟪अभि⟫ : be-, után - felé, oda - le, oda - felé, ellen, be -, vonatkozásban, fel, fölött, mellett
+⟪अभि⟫ : be-, után - felé, oda - le, oda - felé, ellen, be -, vonatkozásban, fel, fölött, mellett <!-- TODO: Fallback translation -->
 
 ::: indent
 pl.
@@ -239,25 +239,25 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Kép: ⟪लोमहर्षः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3604))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ⟪स्वक⟫ 3: saját (én, te ...) ; m.: tag
 
 ## 36.5. Gyakorlat
 
-A) Az alábbi gyököknek mind reduplikált, mind periphrasztikus perfektrumuk van. Képezze a következő alakokhoz a megfelelő periphrasztikus és reduplikált perfektrumformákat:
+A) Az alábbi gyököknek mind reduplikált, mind periphrasztikus perfektrumuk van. Képezze a következő alakokhoz a megfelelő periphrasztikus és reduplikált perfektrumformákat: <!-- TODO: Fallback translation -->
 
 1.  ⟪बिभ्रते⟫
 2.  ⟪बिभ्यति⟫
 3.  ⟪जुहोति⟫
 4.  ⟪वेत्ति⟫
 
-B) A ⟪आस्⟫ "ül" gyök periphrasztikus perfekttel rendelkezik. Alakítsák ki ezt a következő formákra:
+B) A ⟪आस्⟫ "ül" gyök periphrasztikus perfekttel rendelkezik. Alakítsák ki ezt a következő formákra: <!-- TODO: Fallback translation -->
 
 1.  ⟪आस्ते⟫
 2.  ⟪आसते⟫
 
-C) Alakítsák ki a megfelelő perfekttartalmat a következő formákból:
+C) Alakítsák ki a megfelelő perfekttartalmat a következő formákból: <!-- TODO: Fallback translation -->
 
 1.  ⟪जीयते⟫
 2.  ⟪विदन्ति⟫
@@ -418,11 +418,11 @@ Fordítsa le:
 
 Magyarázatok:
 
-⟪पितरम्⟫ : Akk. sg. zu ⟪पितृ⟫ m. "Vater"
+⟪पितरम्⟫ : Akk. sg. zu ⟪पितृ⟫ m. "Vater" <!-- TODO: Fallback translation -->
 
-⟪मातरम्⟫ : Akk. sg. zu ⟪मातृ⟫ f. "anya" m."anyik"
+⟪मातरम्⟫ : Akk. sg. zu ⟪मातृ⟫ f. "anya" m."anyik" <!-- TODO: Fallback translation -->
 
-⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "anyat" n."anyá"
+⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "anyat" n."anyá" <!-- TODO: Fallback translation -->
 
 :sig[⟪सर्वे⟫] : Nom. pl. mask. zu ⟪सर्व⟫ "anyá" m."anyé"
 
@@ -457,9 +457,9 @@ Magyarázat: ⟪विज्ञेय⟫ ⟪३⟫: az, aki felismerhető; az, a
 
 Magyarázatok:
 
-Ebben a versben ⟪ब्रू⟫ az birtokos esettel van konstruálva
+Ebben a versben ⟪ब्रू⟫ az birtokos esettel van konstruálva <!-- TODO: Fallback translation -->
 
-⟪मेधावी⟫ : Név, egyes szám, nemű. ⟪मेधाविन्⟫ ⟪३⟫ "értelmes, okos"
+⟪मेधावी⟫ : Név, egyes szám, nemű. ⟪मेधाविन्⟫ ⟪३⟫ "értelmes, okos" <!-- TODO: Fallback translation -->
 
 ⟪जडवत्⟫ Határozószó: „Befaszkodó/Tompa/Tülekedő módjában”
 :::

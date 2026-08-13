@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 58
+# Leçon 58
 
 ## 58.1. Les désinences du duel (⟪द्विवचनम्⟫)
 
@@ -31,7 +31,7 @@ Devant -vas et -vahe, la voyelle thématique -a- est remplacée par -ā-.
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
 
 ### 58.2.2. Quatrième classe de présent (⟪divādigaṇaḥ⟫)
 
@@ -54,7 +54,7 @@ Fig. : ⟪नृत्यतः⟫
 Devant -vas et -vahe, la voyelle thématique -a- est remplacée par -ā-.
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुदावस्⟫ | ⟪तुदावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
@@ -234,7 +234,7 @@ Fig. : ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪कृ⟫ 8U « faire, accomplir »
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪कुर्वस्⟫ | ⟪कुर्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ |
@@ -254,7 +254,7 @@ Fig. : ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪युज्⟩ 7U "atteler"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्वस्⟫ | ⟪युञ्ज्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ |
@@ -295,7 +295,7 @@ Le suffixe de formation de la base + les désinences de l’iṣ-Aorist sont don
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
 | **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h oder Halbvokal) |
-| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
+| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -303,26 +303,34 @@ Le suffixe de formation de la base + les désinences de l’iṣ-Aorist sont don
 
 *   **Racines avec voyelle brève devant consonne simple : état fort au P et Ā**  
     Exemples :  
-    ⟪बुध्⟫ 1U : 1.sg.P ⟪अबोधिषम्⟫  
-    ⟪कॢप्⟫ 1Ā : 1.sg.Ā ⟪अकल्पिषि⟫
+::: indent
+⟪बुध्⟫ 1U : 1.sg.P ⟪अबोधिषम्⟫
+⟪कॢप्⟫ 1Ā : 1.sg.Ā ⟪अकल्पिषि⟫
+:::
 
 *   **Racines avec voyelle finale :**
     *   **P : état allongé**
     *   **Ā : état fort**
 
     Exemples :  
-    ⟪पू⟫ 9U : 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+::: indent
+⟪पू⟫ 9U : 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+:::
 
 *   **Racines en -ar., -al ainsi que ⟪वद्⟫ 1P « dire », ⟪व्रज्⟫ 1P « s’éloigner » : P : état allongé**  
     Exemples :  
-    ⟪चर्⟫ 1P : 1.sg.P ⟪अचारिषम्⟫  
-    ⟪वद्⟫ 1P : 1.sg.P ⟪अवादिषम्⟫
+::: indent
+⟪चर्⟫ 1P : 1.sg.P ⟪अचारिषम्⟫
+⟪वद्⟫ 1P : 1.sg.P ⟪अवादिषम्⟫
+:::
 
 *   **Autres racines de la forme (Cons.-)Cons.-a-Cons. : au P, au choix état allongé (ne s’applique pas aux racines en -h, -m, -y ainsi qu’à quelques autres racines)**  
     Exemple :  
-    ⟪तन्⟫ 8U : 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
-    mais :  
-    ⟪क्रम्⟫ 1U : 1.sg.P ⟪अक्रमिषम्⟫
+::: indent
+⟪तन्⟫ 8U : 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
+mais :
+⟪क्रम्⟫ 1U : 1.sg.P ⟪अक्रमिषम्⟫
+:::
 :::
 Paradigmes :
 
@@ -360,16 +368,24 @@ Paradigmes :
 **Particularités :**
 
 1.  Pour certaines racines, la voyelle de jonction -i- dans le ⟪आत्मनेपद⟫ peut être remplacée par -ī-. Après ⟪ग्रह्⟫ 9U « saisir », ce remplacement doit avoir lieu au P et Ā :  
-    ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+::: indent
+⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+:::
 
 2.  Les racines de la 8e classe de présent en -n (ou -ṇ) peuvent être à état faible à la 2.3.sg.Ā :  
-    ⟪तन्⟫ 8U : 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aoriste de racine) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+::: indent
+⟪तन्⟫ 8U : 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aoriste de racine) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+:::
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā et autres peuvent, au lieu de la 3.sg. Ā, prendre aussi la forme de l’aoriste passif :  
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
 4.  ⟪विज्⟫ 7P n’a pas d’apophonie :  
-    ⟪अविजीत्⟫
+::: indent
+⟪अविजीत्⟫
+:::
 :::
 ::: media
 ![](/images/lekt5808.webp)
@@ -446,7 +462,7 @@ B) Traduisez et déterminez les formes suivantes :
 
 **lekt5802:** ⟪ओडिसी⟫ [Source de l’image : Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Consulté le 2009-03-02. -- [Licence Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 
-**lekt5803:** Parc national de Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
+**lekt5803:** Parc national de Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ <!-- TODO: Fallback translation -->
 
 **lekt5806:** [Source de l’image : stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- Consulté le 2009-03-02. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d’utilisation commerciale, pas de travaux dérivés)]
 

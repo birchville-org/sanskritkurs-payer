@@ -5,7 +5,7 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα κεʹ
 
@@ -33,7 +33,7 @@ status: stable
 | ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
 | ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
 | ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
-| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
+| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) | <!-- TODO: Fallback translation -->
 
 :::
 ## 25.2. Χρῆσις τῆς ἀφαιρετικῆς (⟪पञ्चमी⟫)
@@ -255,7 +255,7 @@ Absol. 2: -⟪याय⟫
 
 ⟪प्रदान⟫ n. = ⟪दान⟫
 
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : commandere, docēre, punīre
+⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : commandere, docēre, punīre <!-- TODO: Fallback translation -->
 
 ::: indent
 Pass. ⟪शिष्यते⟫  

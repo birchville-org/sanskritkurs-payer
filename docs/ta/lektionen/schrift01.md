@@ -8,7 +8,7 @@
 அடிக்குறிப்பு: எழுத்து மாதிரிகள் சமஸ்கிருதம்  
 \[படம் மூலம்: விக்கிப்பீடியா, GNU FD அனுமதி\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 ஒரு ஒலி எழுத்திற்குப் பின் வரும் உயிரெழுத்துக்கள் -- "a" தவிர்த்த -- இவ்வாறு எழுதப்படும்:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
 
 இந்த ஒலி எழுத்து + உயிரெழுத்து இணைப்புகளை எழுதும் வரிசை:
 

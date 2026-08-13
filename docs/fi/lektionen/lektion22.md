@@ -13,19 +13,19 @@ status: stable
 
 ::: grammar-box
 
-Jos sanskritissa halutaan ilmaista, että agensin (⟪कर्तृ⟫) toiminta edeltää tai on samanaikainen toisen agensin toiminnan kanssa, käytetään absolutiivia (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟩). Siis
+Jos sanskritissa halutaan ilmaista, että agensin (⟪कर्तृ⟫) toiminta edeltää tai on samanaikainen toisen agensin toiminnan kanssa, käytetään absolutiivia (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟩). Siis <!-- TODO: Fallback translation -->
 
-"kun hän on tehnyt tämän, hän tekee tuon"; "hän tekee tämän, sitten hän tekee tuon"; "tämän seurauksena hän tekee tuon"; "minä tulin, näin ja voitin" jne.
+"kun hän on tehnyt tämän, hän tekee tuon"; "hän tekee tämän, sitten hän tekee tuon"; "tämän seurauksena hän tekee tuon"; "minä tulin, näin ja voitin" jne. <!-- TODO: Fallback translation -->
 
-Absolutiivi on verbiadverbi, eli sitä ei taivuteta eikä konjugoida, mutta sillä on aina — harvinaisia poikkeuksia lukuun ottamatta — sama agenssi (⟪कर्तृ⟩) kuin toiminnalla, jota absolutiivilla kuvattu toiminta edeltää tai jonka se seuraa. Absolutiivin agenssi on siis nominatiivissa (⟪प्रथमा⟩) tai instrumentaalisessa sijassa (⟪तृतीया⟩).
+Absolutiivi on verbiadverbi, eli sitä ei taivuteta eikä konjugoida, mutta sillä on aina — harvinaisia poikkeuksia lukuun ottamatta — sama agenssi (⟪कर्तृ⟩) kuin toiminnalla, jota absolutiivilla kuvattu toiminta edeltää tai jonka se seuraa. Absolutiivin agenssi on siis nominatiivissa (⟪प्रथमा⟩) tai instrumentaalisessa sijassa (⟪तृतीया⟩). <!-- TODO: Fallback translation -->
 
-Yhdyssanojen ohella absolutiivi on yksi sanskritin yleisimmistä ilmauskeinoista.
+Yhdyssanojen ohella absolutiivi on yksi sanskritin yleisimmistä ilmauskeinoista. <!-- TODO: Fallback translation -->
 
 Kun käännettäessä saksaksi, vältä "jälkeen" sanomista jatkuvasti. Käytä sen sijaan saksa kielessä yleisiä ilmaisuja ajalliselle peräkkäisyydelle.
 
 **Kaava:**
 
-(tarkempi määrittely absolutiiville: tilannemääritys, objekti jne.) - absolutiivi - absolutiivi - ... - absolutiivi - ... agentti + verbilause (aktiivissa tai passiivissa)
+(tarkempi määrittely absolutiiville: tilannemääritys, objekti jne.) - absolutiivi - absolutiivi - ... - absolutiivi - ... agentti + verbilause (aktiivissa tai passiivissa) <!-- TODO: Fallback translation -->
 
 :::
 **Esimerkit:**
@@ -50,9 +50,9 @@ Monikko: **⟪गृहं⟩ ⟪प्रविश्य⟩ ⟪बालां�
 
 **Harjoittelu:**
 
-(useimmiten) matalan äänisävyisen juuren muoto, joka edeltää PPP:tä + **-tvā** (**-⟪त्वा⟫**)
+(useimmiten) matalan äänisävyisen juuren muoto, joka edeltää PPP:tä + **-tvā** (**-⟪त्वा⟫**) <!-- TODO: Fallback translation -->
 
-Vain kieltävä **a-** / **an-** sietää liitteen **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "tehty ilman"
+Vain kieltävä **a-** / **an-** sietää liitteen **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "tehty ilman" <!-- TODO: Fallback translation -->
 
 :::
 **Esimerkit:**
@@ -66,13 +66,13 @@ Vain kieltävä **a-** / **an-** sietää liitteen **-⟪त्वा⟫** : ⟪
 
 ⟪स्थित्वा⟫ "sen jälkeen kun hän (...) oli seisonut"
 
-⟪जित्वा⟫ "kun hän (...) voitti / oli voittanut"
+⟪जित्वा⟫ "kun hän (...) voitti / oli voittanut" <!-- TODO: Fallback translation -->
 
 ⟪उक्त्वा⟫ "kun hän (...) puhui / oli puhunut"
 :::
-### 22.2.2. Verbit, joissa on prepositio
+### 22.2.2. Verbit, joissa on prepositio <!-- TODO: Fallback translation -->
 
-#### 22.2.2.1. Vartalon päättyminen pitkään vokaaliin (paitsi -ā) tai konsonantin
+#### 22.2.2.1. Vartalon päättyminen pitkään vokaaliin (paitsi -ā) tai konsonantin <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -82,7 +82,7 @@ Vain kieltävä **a-** / **an-** sietää liitteen **-⟪त्वा⟫** : ⟪
 **Esimerkit:**
 
 ::: indent
-⟪उपनीय⟫ "sen jälkeen kun hän (...) on johdattanut / johti"
+⟪उपनीय⟫ "sen jälkeen kun hän (...) on johdattanut / johti" <!-- TODO: Fallback translation -->
 
 ⟪प्रभूय⟫ "sen jälkeen kun hän (...) on noussut esiin / oli" "sen jälkeen kun hän (...) valta oli"
 
@@ -100,7 +100,7 @@ Vain kieltävä **a-** / **an-** sietää liitteen **-⟪त्वा⟫** : ⟪
 ::: indent
 ⟪उपस्थाय⟫ "kun hän (...) oli astunut / on" ; (mutta ilman prefiksiä: ⟪स्थित्वा⟫)
 :::
-#### 22.2.2.3. Juuret, jotka päättyvät syväsävytteisessä muodossa lyhyeen -i, -u, -ṛ
+#### 22.2.2.3. Juuret, jotka päättyvät syväsävytteisessä muodossa lyhyeen -i, -u, -ṛ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -110,13 +110,13 @@ Vain kieltävä **a-** / **an-** sietää liitteen **-⟪त्वा⟫** : ⟪
 **Esimerkit:**
 
 ::: indent
-⟪प्रस्तुत्य⟫ "kun hän (...) on ylistänyt äänekkäästi / oli ylistänyt äänekkäästi"
+⟪प्रस्तुत्य⟫ "kun hän (...) on ylistänyt äänekkäästi / oli ylistänyt äänekkäästi" <!-- TODO: Fallback translation -->
 
-⟪विस्मृत्य⟫ "kun hän (...) on unohtanut / oli unohtanut"
+⟪विस्मृत्य⟫ "kun hän (...) on unohtanut / oli unohtanut" <!-- TODO: Fallback translation -->
 
 ⟪संस्कृत्य⟫ "kunnen (...) til offerringen har forberedt / havde forberedt"
 :::
-#### 22.2.2.4. Rødder på -am / -an, der i den svage grad udløber med -a
+#### 22.2.2.4. Rødder på -am / -an, der i den svage grad udløber med -a <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -136,7 +136,7 @@ Vartalo sananlopulla **-a** + **-tya**
 :::
 ## 22.3. Sanalista
 
-**⟪काम⟫ m.:** toive, halunnu; haluttu lahja, aistinharha, rakkaus, rakkauden jumala
+**⟪काम⟫ m.:** toive, halunnu; haluttu lahja, aistinharha, rakkaus, rakkauden jumala <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪कामम्⟫ Akk. adverbina: toiveen mukaan, sydämen mielen mukaan
@@ -147,7 +147,7 @@ Kuv.: ⟪कामदेवः⟫
 19. vuosisata
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** olla pystynyt, voida
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** olla pystynyt, voida <!-- TODO: Fallback translation -->
 
 siitä:
 
@@ -162,21 +162,21 @@ Kuv.: ⟪दुर्गाशक्तिः⟫
 Kolkata = কলকাতা
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** ansaita jotain (tulla kelvolliseksi jhk), saada luvan, olla velvoitettu tekemään jotain, pitää (2. persoonassa ⟪अर्ह्⟫ + infinitiivi toimii usein lieventettynä käskynä: "Sinun pitäisi")
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** ansaita jotain (tulla kelvolliseksi jhk), saada luvan, olla velvoitettu tekemään jotain, pitää (2. persoonassa ⟪अर्ह्⟫ + infinitiivi toimii usein lieventettynä käskynä: "Sinun pitäisi") <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪अर्हन्त्⟫ 3** Part. Präs. P: ansioitunut henkilö. Buddhalaisuudessa ja Jainismissä: henkilö, joka on saavuttanut lopullisen vapautuksen
 :::
-**⟪व्रत⟫ n.:** lupaus, uskonnollinen velvollisuus, uskonnollinen harjoitus (lupaa jumaluudelle jotain saadakseen jotain häneltä. Esim.: äiti lupaa antaa tyttärensä temppelinprostituoitavaksi (⟪देवदासी⟫), jos tämä paranee. Tärkeitä ⟪व्रत⟫ nykyään: paastoaminen; pidättäytyminen rakkaista ruoka-aineista; seksuaalinen pidättyvyys; pyhien kirjojen lukeminen; tiettyjen rituaalien suorittaminen; brahmanien ruokkiminen jne. Lyhyesti ⟪व्रत⟫:stä: Walker, Hindu World vol. II, s. 581f. Laajasti: P. V. Kane: History of Dharmaśāstra vol. 5,1 s. 1 - 462. Siellä s. 253 - 462 lista ⟪व्रत⟫:stä ja uskonnollisista juhlapyhistä ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟫ n.:** lupaus, uskonnollinen velvollisuus, uskonnollinen harjoitus (lupaa jumaluudelle jotain saadakseen jotain häneltä. Esim.: äiti lupaa antaa tyttärensä temppelinprostituoitavaksi (⟪देवदासी⟫), jos tämä paranee. Tärkeitä ⟪व्रत⟫ nykyään: paastoaminen; pidättäytyminen rakkaista ruoka-aineista; seksuaalinen pidättyvyys; pyhien kirjojen lukeminen; tiettyjen rituaalien suorittaminen; brahmanien ruokkiminen jne. Lyhyesti ⟪व्रत⟫:stä: Walker, Hindu World vol. II, s. 581f. Laajasti: P. V. Kane: History of Dharmaśāstra vol. 5,1 s. 1 - 462. Siellä s. 253 - 462 lista ⟪व्रत⟫:stä ja uskonnollisista juhlapyhistä ("the following list ... does not claim to be thoroughly exhaustive" !!!) <!-- TODO: Fallback translation -->
 
-**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟩) :** laidunta, vaeltaa, liikkua, toimia, harjoittaa jotakin, suorittaa (esim. **⟪व्रतं⟫ ⟪चर्⟫**: harjoittaa lupaus, erityisesti seksuaalinen pidättyvyys)
+**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟩) :** laidunta, vaeltaa, liikkua, toimia, harjoittaa jotakin, suorittaa (esim. **⟪व्रतं⟫ ⟪चर्⟫**: harjoittaa lupaus, erityisesti seksuaalinen pidättyvyys) <!-- TODO: Fallback translation -->
 
 tästä:
 
 ::: indent
 **⟪चर⟫ ⟪३⟫:** liikkuvainen; n.: liikkuva = eläimet (kasveista poiketen)
 
-**⟪चरण⟫ n., m.:** jalka
+**⟪चरण⟫ n., m.:** jalka <!-- TODO: Fallback translation -->
 
 **⟪चरित⟫ n.:** elämäntapa, elämän teot
 
@@ -190,7 +190,7 @@ Goa = ⟪गोंय⟫
 :::
 ## 22.4. Harjoitus
 
-**A) Muodosta ja käännä absolutiivi seuraavien verbejen kanssa:**
+**A) Muodosta ja käännä absolutiivi seuraavien verbejen kanssa:** <!-- TODO: Fallback translation -->
 
 1.  ⟪आप्⟫
 2.  ⟪प्राप्⟫
@@ -229,7 +229,7 @@ Goa = ⟪गोंय⟫
 35.  ⟪प्रवद्⟫
 36.  ⟪हन्⟫
 
-**B) Käännä ja ratkaise sanskritinkieliset yhdyssanat:**
+**B) Käännä ja ratkaise sanskritinkieliset yhdyssanat:** <!-- TODO: Fallback translation -->
 
 ⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदासो⟫ ⟪ऽत्ति⟫ ⟪॥१॥⟫
 
@@ -257,16 +257,16 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Kuva: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2204))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
-**lekt2201:** Goa = ⟪गोंय⟫ [Kuv lähde: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Viitattu 2008-12-12. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
+**lekt2201:** Goa = ⟪गोंय⟫ [Kuv lähde: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Viitattu 2008-12-12. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei johdannaisteoksia)] <!-- TODO: Fallback translation -->
 
-**lekt2202:** 1800-luku [Kuv lähde: Wikipedia, Public domain]
+**lekt2202:** 1800-luku [Kuv lähde: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
-**lekt2203:** Kolkatta = কলকাতা [Kuv lähde: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Viitattu 2008-12-12. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
+**lekt2203:** Kolkatta = কলকাতা [Kuv lähde: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Viitattu 2008-12-12. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei johdannaisteoksia)] <!-- TODO: Fallback translation -->
 
 **lekt2204:** [Kuv lähde: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Viitattu 2008-12-12. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
-:::
+::: <!-- TODO: Fallback translation -->
 

@@ -5,11 +5,11 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 25
 
-## 25.1. Formación del Ablativooo (⟪पञ्चमी⟫ = "quinta terminación casual")
+## 25.1. Formación del Ablativoooooo (⟪पञ्चमी⟫ = "quinta terminación casual")
 
 ::: grammar-box
 Excepto en los masculinos / neutros en -a y en los pronombres, en el singular las formas del ablativo (⟪पञ्चमी⟫) en todas las clases de declinación son idénticas a las del genitivo (⟪षष्ठी⟫).
@@ -19,7 +19,7 @@ Excepto en los pronombres personales, en todas las declinaciones en el plural la
 Ahora reconocen la razón del orden de los casos (⟪विभक्ति⟫) en sánscrito: están dispuestos de manera que las formas homófonas estén lo más juntas posible — o entre sí.
 
 ::: grammar-box
-**Ablativooo singular de los masculinos / neutros en -a**
+**Ablativoooooo singular de los masculinos / neutros en -a**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
@@ -36,7 +36,7 @@ Pronombres interrogativos, relativos y demostrativos:
 | ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Uso del Ablativooo (⟪पञ्चमी⟫)
+## 25.2. Uso del Ablativoooooo (⟪पञ्चमी⟫)
 
 "El ablativo designa aquello que permanece fijo cuando algo se aleja de él."
 
@@ -367,7 +367,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ## 25.6. Ejercicio
 
-A) Complete los ejemplos de declinación de [Lección 16](lektion16.md), ejercicio de repaso A, añadiendo 4. Dativooo (⟪चतुर्थी⟫) y 5. Ablativooo (⟪पञ्चमी⟫). Forme también series de declinación con todas las formas aprendidas hasta ahora para
+A) Complete los ejemplos de declinación de [Lección 16](lektion16.md), ejercicio de repaso A, añadiendo 4. Dativoooooo (⟪चतुर्थी⟫) y 5. Ablativoooooo (⟪पञ्चमी⟫). Forme también series de declinación con todas las formas aprendidas hasta ahora para
 
 ⟪१⟫. ⟪सन्त्⟫ (m., n.)
 
@@ -476,13 +476,13 @@ Explicación de las palabras resaltadas en rojo en el texto anterior:
 
 1.5.5.  ⟪इतरम्⟫ Acusativo singular masculino, derivado de ⟪इतर⟫ ⟪३⟫ "otro"
 
-1.5.7. :sig[⟪कर्मा⟫] : Nominativooo singular masculino, derivado de ⟪कर्मन्⟫ neutro "acción, obra" ; ⟪उपयुञ्जीत⟫ : Optativooo 3. sg. Ā derivado de upa-yuj 7 "apropiarse": "que él se apropie"
+1.5.7. :sig[⟪कर्मा⟫] : Nominativoooooo singular masculino, derivado de ⟪कर्मन्⟫ neutro "acción, obra" ; ⟪उपयुञ्जीत⟫ : Optativoooooo 3. sg. Ā derivado de upa-yuj 7 "apropiarse": "que él se apropie"
 
-1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Ablativooo, Dativooo plural, derivado de ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "teóricos y prácticos"
+1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Ablativoooooo, Dativoooooo plural, derivado de ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "teóricos y prácticos"
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "decimosexto"
 
-1.5.10. :sig[⟪कर्म⟫] Nominativooo, Acusativo singular, derivado de ⟪कर्मन्⟫ n. "acción"
+1.5.10. :sig[⟪कर्म⟫] Nominativoooooo, Acusativo singular, derivado de ⟪कर्मन्⟫ n. "acción"
 
 1.5.16. ⟪धि⟫ Forma de sandhi derivada de ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "autocontrol"
 

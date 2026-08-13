@@ -237,9 +237,13 @@ In Sanskrit word die werkwoorde in die **wortelvorm** aangegee. Die getal na die
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **B) Verander na die meervoud:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

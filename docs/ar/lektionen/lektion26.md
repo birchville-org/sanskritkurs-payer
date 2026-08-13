@@ -5,7 +5,7 @@ lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # الدرس 26
 
@@ -67,7 +67,7 @@ status: stable
 ## 26.6. استخدام المستقبل البسيط (⟪ऌत्⟫، ⟪भविष्यन्ती⟫ م.)
 
 ::: grammar-box
-**Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:**
+**Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:** <!-- TODO: Fallback translation -->
 
 - **المستقبل**
 - **فعل مقصود أو مرغوب فيه ("سأذهب"، "أريد أن أذهب")**

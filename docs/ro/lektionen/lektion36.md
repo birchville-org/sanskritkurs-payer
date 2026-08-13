@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 36
 
@@ -20,7 +20,7 @@ Exemple:
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫**:sig[⟪गा⟫]**⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫**:sig[⟪घा⟫]**⟪न⟫ | ⟪ज⟫**:sig[⟪घ्नु⟫]**⟪र्⟫ | | |
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫**:sig[⟪घा⟫]**⟪न⟫ | ⟪ज⟫**:sig[⟪घ्नु⟫]**⟪र्⟫ | | | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 2\. Rădăcina ⟪विद्⟫ 2P "a ști" are un perfect cu sens prezentic.
@@ -63,7 +63,7 @@ timp prezent (slab) + -ām + forma corespunzătoare de perfect a lui ⟪कृ�
 - Vocala finală a temei devine guṇa înainte de -ām.
 - ⟪अस्⟫ și ⟪भू⟫ sunt, de asemenea, conjugate la Parasmaipada pentru verbele Ātmanepada.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 Exemple:
 
@@ -131,7 +131,7 @@ Inf. ⟪व्रजितुम्⟫
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3602))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 din care:
@@ -151,7 +151,7 @@ Fig.: ⟪अनगार्यम्⟫
 
 ⟪पृथिवी⟫ f.: pământ
 
-⟪पृष्ठ⟫ n: spate, parte din spate
+⟪पृष्ठ⟫ n: spate, parte din spate <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪पृष्ठम्⟫ : în spate
@@ -424,9 +424,9 @@ Explicații:
 
 ⟪ब्रह्म⟫ : Nom./Ac. sg. la ⟪ब्रह्मन्⟫ n. "Absolut, Veda"
 
-:sig[⟪सर्वे⟫] : Nom. pl. masc. la ⟪सर्व⟫ "toți, fiecare"
+:sig[⟪सर्वे⟫] : Nom. pl. masc. la ⟪सर्व⟫ "toți, fiecare" <!-- TODO: Fallback translation -->
 
-⟪त्रयस्⟫ : Nom. pl. masc. la ⟪त्रि⟫ "trei"
+⟪त्रयस्⟫ : Nom. pl. masc. la ⟪त्रि⟫ "trei" <!-- TODO: Fallback translation -->
 
 ⟪सर्वास्⟫ : Nom./Ac. pl. fem. la ⟪सर्व⟫ "toți, fiecare"
 :::
@@ -459,7 +459,7 @@ Explicații:
 
 În acest vers, ⟪ब्रू⟫ este construit cu genitivul
 
-⟪मेधावी⟫ : Nom. sg. masc. la ⟪मेधाविन्⟫ ⟪३⟫ "înțelept, isteț"
+⟪मेधावी⟫ : Nom. sg. masc. la ⟪मेधाविन्⟫ ⟪३⟫ "înțelept, isteț" <!-- TODO: Fallback translation -->
 
 ⟪जडवत्⟫ Adv. "În felul unui obtuz/întârziat/moș"
 :::

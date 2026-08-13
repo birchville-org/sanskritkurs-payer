@@ -117,7 +117,7 @@ status: stable
 * ในด้านหนึ่งคือระดับขยายของชุดการแปรเสียงที่มี -a-
 * ในอีกด้านหนึ่งคือระดับสูงในชุดการแปรเสียงของกลุ่ม ā
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A.**
@@ -170,7 +170,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optative** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. รากศัพท์ ⟪दा⟫ และ :sig[⟪धा⟫]
+### 33.4.1. รากศัพท์ ⟪दा⟫ และ :sig[⟪धा⟫] <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **รากศัพท์ ⟪दा⟫ และ :sig[⟪धा⟫] ทำการซ้ำด้วยสระ -a- และสูญเสียรากศัพท์ในรากที่อ่อน.**
@@ -186,7 +186,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optative** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-รูปแบบของ ⟪दा⟫ ได้รับโดยการแทนที่ **dh** ด้วย **d** ในตารางของ :sig[⟪धा⟫] ดังนั้น:
+รูปแบบของ ⟪दा⟫ ได้รับโดยการแทนที่ **dh** ด้วย **d** ในตารางของ :sig[⟪धा⟫] ดังนั้น: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 ⟪दा⟫ 3U "ให้"

@@ -34,20 +34,26 @@ status: stable
 
 *   من الأسماء
     أمثلة:
-    ⟪कामम्⟫ "حسب الرغبة، حسب الطلب"
-    ⟪अर्थम्⟩ "بسبب"
+::: indent
+⟪कामम्⟫ "حسب الرغبة، حسب الطلب"
+⟪अर्थम्⟩ "بسبب"
+:::
 
 *   من الصفات في المذكر والمؤنث
     أمثلة:
-    ⟪सुखम्⟫ "خفيف، سعيد"
-    ⟪नित्यम्⟫ "دائمًا"
-    ⟪साधु⟫ "صحيح، جيد"
+::: indent
+⟪सुखम्⟫ "خفيف، سعيد"
+⟪नित्यम्⟫ "دائمًا"
+⟪साधु⟫ "صحيح، جيد"
+:::
 
 *   من الضمائر في المحايد
     أمثلة:
-    ⟪तद्⟫ "ثم، لذلك"
-    ⟪यद्⟫ "إذا، أن"
-    ⟪एतद्⟫ "هكذا، هنا، الآن"
+::: indent
+⟪तद्⟫ "ثم، لذلك"
+⟪यद्⟫ "إذا، أن"
+⟪एतद्⟫ "هكذا، هنا، الآن"
+:::
 :::
 ### 37.2.2. الآلة (⟪तृतीया⟫)
 
@@ -62,13 +68,17 @@ status: stable
 
 *   من الأسماء
     أمثلة:
-    ⟪अर्थेन⟫ "بسبب"
-    ⟪क्षणेन⟫ "في اللحظة، فوراً" (من ⟪क्षण⟫ م. "لحظة")
+::: indent
+⟪अर्थेन⟫ "بسبب"
+⟪क्षणेन⟫ "في اللحظة، فوراً" (من ⟪क्षण⟫ م. "لحظة")
+:::
 
 *   من الصفات، وغالبًا ما تكون في صيغة الجمع
     أمثلة:
-    ⟪दूरेण⟫ "بعيد، من بعيد" (إلى ⟪दूर⟫ 3 "بعيد، بعيد عن")
-    ⟪उच्चैस्⟫ "عالي، مرتفع" (إلى ⟪उच्च⟫ 3 "عالي، مرتفع، مرتفع، حاد (بالنسبة للصوت)")
+::: indent
+⟪दूरेण⟫ "بعيد، من بعيد" (إلى ⟪दूर⟫ 3 "بعيد، بعيد عن")
+⟪उच्चैस्⟫ "عالي، مرتفع" (إلى ⟪उच्च⟫ 3 "عالي، مرتفع، مرتفع، حاد (بالنسبة للصوت)")
+:::
 :::
 ### 37.2.3. حالة الجر (⟪चतुर्थी⟫)
 
@@ -103,8 +113,10 @@ status: stable
 
 *   من الضمائر
     أمثلة:
-    ⟪कस्मात्⟫ "لماذا"
-    ⟪अकस्मात्⟫ "بشكل غير متوقع"
+::: indent
+⟪कस्मात्⟫ "لماذا"
+⟪अकस्मात्⟫ "بشكل غير متوقع"
+:::
 :::
 ### 37.2.5. المضاف إليه (⟪षष्ठी⟫)
 
@@ -161,7 +173,7 @@ status: stable
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -181,7 +193,7 @@ status: stable
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
 
 :::
 ## 37.5. المركبات الظرفية

@@ -11,7 +11,7 @@ status: stable
 
 ## 13.1. PPP -na-päätteisillä
 
-Paikallisten partisiipin menneen aikamuodon (-ta- tai -na-) jakautumisesta ei voida asettaan tiukkoja sääntöjä. Mutta:
+Paikallisten partisiipin menneen aikamuodon (-ta- tai -na-) jakautumisesta ei voida asettaan tiukkoja sääntöjä. Mutta: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -22,7 +22,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::
 
-## 13.2. Lisää PPP:n käytöstä
+## 13.2. Lisää PPP:n käytöstä <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -53,7 +53,7 @@ esim.
 ⟪नृत्त⟧ n.: "tanssi, tanssiminen"
 :::
 
-## 13.3. Nomien attribuuttimääritykset (sananjärjestys)
+## 13.3. Nomien attribuuttimääritykset (sananjärjestys) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -70,9 +70,9 @@ Esimerkki:
 
 ::: grammar-box
 
-Omistusta ilmaisevia adjektiiveja muodostetaan taddhita-jäsen -mant tai -vant substantiivien avulla. Niiden merkitys on: "se, mikä perustuu lähtökohtaiseen substantiiviin".
+Omistusta ilmaisevia adjektiiveja muodostetaan taddhita-jäsen -mant tai -vant substantiivien avulla. Niiden merkitys on: "se, mikä perustuu lähtökohtaiseen substantiiviin". <!-- TODO: Fallback translation -->
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 Esimerkkejä:
 
@@ -97,15 +97,15 @@ Nimistön varressa, jossa on asteittainen muutos, erotetaan vahvat ja heikot kä
 | **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | nominatiivi:br⟪प्रथमा⟫:brakkusatiivi:br⟪द्वितीया⟫:brvokatiivi:br⟪सम्बोधनप्रथमा⟫ | nominatiivi:br⟪प्रथमा⟫:brakkusatiivi:br⟪द्वितीया⟫:brvokatiivi:br⟪सम्बोधनप्रथमा⟫ | nominatiivi:br⟪प्रथमा⟫:br:brvokatiivi:br⟪सम्बोधनप्रथमा⟫ |
 | **Bei Neutra** :br⟪नपुंसक⟫ | — | — | nominatiivi:br⟪प्रथमा⟫:brakkusatiivi:br⟪द्वितीया⟫:brvokatiivi:br⟪सम्बोधनप्रथमा⟫ |
 
-**Kaikki muut käänteet ovat heikkoja.**
+**Kaikki muut käänteet ovat heikkoja.** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Kompositumin etuosana oleva substantiivi, jolla on vartalon asteistus, esiintyy heikossa muodossa (kolmivartisissa substantiiveissa ns. keskimääräisessä vartalomuodossa).
 :::
 
-## 13.6. Sanayhdistelmäsandista
+## 13.6. Sanayhdistelmäsandista <!-- TODO: Fallback translation -->
 
-Ymmärtääksesi yksittäiset -mant ja -vant-päätteisten substantiivien taivutusmuodot, tarvitaan seuraavat sandhi-säännöt:
+Ymmärtääksesi yksittäiset -mant ja -vant-päätteisten substantiivien taivutusmuodot, tarvitaan seuraavat sandhi-säännöt: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1. Sanan loppukonsanttien lukumäärä: Jos sana päättyisi kahteen tai useampaan konsanttiin, vain ensimmäinen säilyy ja loput putoavat. -r- + konsantti-yhdistelmä on sallittu.
@@ -123,14 +123,14 @@ Esimerkit:
 -c + dh- » -g-dh- ⟪ग्ध्⟫
 :::
 
-## 13.7. Konsonanttivartalon kasupäätteet
+## 13.7. Konsonanttivartalon kasupäätteet <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
 Konsonanttivartaloisissa sanoissa:
 * dvitīyän (akkusatiivi) monikon maskuliinin ja feminiinin -as-pääte.
 * säännöllisesti muodostetuissa vartaloissa neutrin nominatiivin (prathamā) ja akkusatiivin (dvitīyän) yksikön pääte on äänetön.
-* säännöllisesti muodostetuissa vartaloissa neutrin nominatiivin ja akkusatiivin monikon pääte on -i.
+* säännöllisesti muodostetuissa vartaloissa neutrin nominatiivin ja akkusatiivin monikon pääte on -i. <!-- TODO: Fallback translation -->
 
 :::
 
@@ -139,7 +139,7 @@ Konsonanttivartaloisissa sanoissa:
 ::: grammar-box
 
 * vahva vartalo: substantiivi + -mant- / -vant-
-* heikko vartalo: substantiivi + -mat- / -vat- (johdettu: *-mnt- / *-vnt-)
+* heikko vartalo: substantiivi + -mat- / -vat- (johdettu: *-mnt- / *-vnt-) <!-- TODO: Fallback translation -->
 
 | | | maskuliini || neutri ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
@@ -164,7 +164,7 @@ Esimerkki:
 Opiskele seuraavat sanat:
 
 - **eva** ⟪एव⟫ : korostaa edeltävää sanaa
-- **asura** m. ⟪असुर⟫ : demoni
+- **asura** m. ⟪असुर⟫ : demoni <!-- TODO: Fallback translation -->
 
 > **ASURA.** 'Hengellinen, jumalallinen.'
 >
@@ -176,7 +176,7 @@ Opiskele seuraavat sanat:
 >
 > Tässä merkityksessä sille on löydetty eri johtoperä: lähteenä ei ole enää asu, 'hengitys', vaan alkuinen *a* tulkitaan negatiiviseksi prefiksiksi, ja *asura* tarkoittaa 'ei jumala;' joten joidenkin mukaan syntyi sana *sura*, jota yleisesti käytetään 'jumalasta'."
 >
-> [Lähde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Lähde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ] <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -195,19 +195,19 @@ Kuva: ⟪महिषासुरः⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : vihata, olla vihollinen
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : syödä, kuluttaa
-- **anna** n. ⟪अन्न⟫ : ruoka (PPP:sta: *ad-na: syöty)
+- **anna** n. ⟪अन्न⟫ : ruoka (PPP:sta: *ad-na: syöty) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1304.webp)
 Kuva: ⟪अन्नम्⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1304))
 :::
-Sananmuodostus:
+Sananmuodostus: <!-- TODO: Fallback translation -->
 
 pad 4 Ā:
 
 ::: indent
-**pada** n. ⟪पद⟫ : askel, paikka, sijainti
+**pada** n. ⟪पद⟫ : askel, paikka, sijainti <!-- TODO: Fallback translation -->
 
 **pāda** m. ⟪पाद⟫ : jalka, neljäs osa, säe
 :::
@@ -217,7 +217,7 @@ pad 4 Ā:
 Kuva: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1303))
 :::
-dviṣ 2 U:
+dviṣ 2 U: <!-- TODO: Fallback translation -->
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : viha
@@ -225,7 +225,7 @@ dviṣ 2 U:
 
 ## 13.10. Harjoitus
 
-A) Käännä ja muunna aktiivisiksi preesens-lauseiksi:
+A) Käännä ja muunna aktiivisiksi preesens-lauseiksi: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
 ⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
@@ -245,7 +245,7 @@ Kuva: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪ब�
 ⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
 ⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
 
-B) Käännä ja muunna menneen ajan passiivilauseiksi:
+B) Käännä ja muunna menneen ajan passiivilauseiksi: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
 ⟪२⟫. ⟪योद्धा⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
@@ -266,7 +266,7 @@ B) Käännä ja muunna menneen ajan passiivilauseiksi:
 
 ## 13.11. Toistoharjoitus
 
-A) Käännä seuraavat lauseet:
+A) Käännä seuraavat lauseet: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫

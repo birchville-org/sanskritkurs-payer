@@ -1,16 +1,17 @@
 ---
-title: "Esercizi 2"
+title: "Exercizi 2"
 uebung_id: 2
-category: "Esercizi"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lecziun 2
+# Exercizi 2
 
-A) Inserisca en las sentenzias suventas, tenend enditg al Sandhi, ils numens e noms indicads e furmia sentenzias nominalas:
+A) Insertar en las sentenzias suventas, observond il Sandhi, ils numens e noms indicads e furmar sentenzias nominalas:
 
-1\. devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra) = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
+1\. devaḥ ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra) = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 
 devaḥ śivaḥ. devo 'gniḥ. devo viṣṇuḥ. devo gaṇeśaḥ. devaḥ kṛṣṇaḥ. deva indra.
 
@@ -46,9 +47,9 @@ kaviḥ kālidāsaḥ. kavir māghaḥ. kavir bhāraviḥ. kavir harṣadevaḥ.
 
 | ⟪कविः⟫ ⟪कालिदासः⟫ | ⟪कविर्माघः⟫ | ⟪कविर्भारविः⟫ | ⟪कविर्हर्षदेवः⟫ |
 
-B) Traduscha en il Sanscrit:
+B) Tradusir en Sanscrit:
 
-1\. Rāma è in Brahmana.
+1\. Rāma è in Brahman.
 
 brāhmaṇo rāmaḥ.
 
@@ -60,13 +61,13 @@ vaiśyo guruḥ.
 
 ⟪वैश्यो⟫ ⟪गुरुः⟫
 
-3\. Il Śūdra è in umn sacri.
+3\. Il Śūdra è in uoman sacri.
 
 sādhuḥ śūdraḥ.
 
 ⟪साधुः⟫ ⟪शूद्रः⟫
 
-4\. Il poet è il magister.
+4\. Il poeta è il magister.
 
 guruḥ kaviḥ.
 
@@ -84,19 +85,19 @@ guruḥ kaviḥ.
 
 ⟪शिव⟫ ⟪ईश्वरः⟫
 
-7\. Il naschì duas giadas è in Brahmana.
+7\. Il naschì duas giadas è in Brahman. <!-- TODO: Fallback translation -->
 
 brāhmaṇo dvijaḥ.
 
 ⟪ब्राह्मणो⟫ ⟪द्विजः⟫
 
-8\. L'umn sacri è in magister.
+8\. L'uoman sacri è in magister.
 
 guruḥ sādhuḥ.
 
 ⟪गुरुः⟫ ⟪साधुः⟫
 
-9\. Il magister è in umn sacri.
+9\. Il magister è in uoman sacri.
 
 sādhur guruḥ.
 
@@ -104,6 +105,6 @@ sādhur guruḥ.
 
 ::: media
 ![](/images/uebung002.jpg)
-Abb.: ⟪ईश्वरः⟫ ⟪शिवः⟫
-(Sursa da l'imaginescha: [Detagls](/licenses#uebung002))
+Fig.: ⟪ईश्वरः⟫ ⟪शिवः⟫
+(Font da l'imagines: [Detagls](/licenses#uebung002))
 :::

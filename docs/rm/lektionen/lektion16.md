@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 16
+# Lecziun 16
 
 ## 16.1. Al Sandhi da consonantas finalas
 
@@ -21,12 +21,12 @@ Gutturala, retroflessa, dentala e labiala clausuras finalas (cunzèquentamain na
 | :--- | :--- |
 | **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
 | **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
+| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
 
 :::
 Excepziun a la reglia sura menziunada:
 
-Auslautender dentaler Verschlusslaut (nicht Nasal):
+Auslautender dentaler Verschlusslaut (nicht Nasal): <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -35,7 +35,7 @@ Auslautender dentaler Verschlusslaut (nicht Nasal):
 | **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- ni -cch-** |
 | **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
+| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
 
 :::
 Egimpels:
@@ -90,7 +90,7 @@ daquest:
 
 ⟪निरोध⟫ m.: fermar, fermai
 
-* **bhūta n.** (⟪भूत⟫) (PPP da bhū): esser, spèir
+* **bhūta n.** (⟪भूत⟫) (PPP da bhū): esser, spèir <!-- TODO: Fallback translation -->
 
 ⟪योग⟫ m.: Attach, cumpagnia, uniun, acquista; Yoga
 
@@ -134,7 +134,7 @@ Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / Harianā
 (Imaginaschigna: [Detagls](/rm/licenses#lekt1604))
 :::
-⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
+⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
 
 ⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
@@ -172,7 +172,7 @@ B) Dissolvi tut ils suandantas frasis tuttas las cumponidas en Sanscrit, furmai 
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 
-## 16.4. Wiederholungsübung
+## 16.4. Exercizi da repetiziun
 
 A) Formai tut ils casus fin uss emprais als suandantas pleds sco exempels per las classes da declinaziun fin uss empraisas.
 
@@ -181,9 +181,9 @@ Adina quai suonda il schema, che correspunda a l'ordin da casus en ils grammatic
 | Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
 | **⟪१⟫. ⟪प्रथमा⟫** :brNominativ | **⟪१⟫. ⟪प्रथमा⟫** |
-| **⟪२⟫. ⟪द्वितीया⟫** :brAkkusativ | **⟪२⟫. ⟪द्वितीया⟫** |
-| **⟪३⟫. ⟪तृतीया⟫** :brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** |
-| **⟪६⟫. ⟪षष्ठी⟫** :brGenetiv | **⟪६⟫. ⟪षष्ठी⟫** |
+| **⟪२⟫. ⟪द्वितीया⟫** :brAccusativ | **⟪२⟫. ⟪द्वितीया⟫** |
+| **⟪३⟫. ⟪तृतीया⟫** :brInstrumental | **⟪३⟫. ⟪तृतीया⟫** |
+| **⟪६⟫. ⟪षष्ठी⟫** :brGenitiv | **⟪६⟫. ⟪षष्ठी⟫** |
 
 Memorisiar ils models da declinaziun tenor quests exempels!!!
 
@@ -234,7 +234,7 @@ Explicaziuns;
 
 Frased 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, che duas "Sachas" designa
 
-Frasa 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum a ⟪कर्मन्⟫ "acziun"
+Frasa 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum a ⟪कर्मन्⟫ "acziun" <!-- TODO: Fallback translation -->
 
 Frasi 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. a ⟪सर्व⟫ "mintgin, tut" (pronom, declinà betg sco deva)
 :::

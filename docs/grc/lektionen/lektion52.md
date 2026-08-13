@@ -196,7 +196,7 @@ Fig.: ⟪अन्नमयम्⟫
 ⟪भस्मसात्करोति⟫ "μεταβάλλει πᾶν εἰς τέφραν (⟪भस्मन्⟫ n. "τέφρα"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
 
 *   **τοῦ ὑπάρχοντος ἐξ οὗ γίνεται**
 *   **εἰς τὴν κτῆσιν τοῦτο ὑφίσταται**
@@ -295,7 +295,7 @@ Fig.: ⟪अन्नमयम्⟫
 Παραδείγματα:
 
 ::: indent
-100 ⟪शत⟫ οὐδ.:br
+100 ⟪शत⟫ οὐδ.
 1000 ⟪सहस्र⟫ οὐδ.
 :::
 Τὰ ἑκάστοτε ἀριθμητικὰ ὀνόματα βλέπε π.χ. παρὰ Kielhorn, Γραμματική §201.
@@ -597,7 +597,7 @@ Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Bildquelle: [Details](/grc/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: βαλανόδεντρον (_Musa_ sp.)
+⟪कदली⟫ f.: βαλανόδεντρον (_Musa_ sp.) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -794,15 +794,15 @@ Mahābhārata : τὸ μέγα ἔπος τῆς Ἰνδίας / ἐκ Σανσ�
 
 **lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Πηγή εικόνας: Βικιπαίδεια. Δημόσιος τομέας]
 
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Πηγή εικόνας: Dan Tunstall / Προσωπικό Παγκόσμιου Ινστιτούτου Πόρων. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Πρόσβαση στις 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά συγγραφέα)]
+**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Πηγή εικόνας: Dan Tunstall / Προσωπικό Παγκόσμιου Ινστιτούτου Πόρων. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Πρόσβαση στις 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά συγγραφέα)] <!-- TODO: Fallback translation -->
 
 **lekt5212:** Ὑδραβᾶδες = హైదరాబాద్ [Πηγὴ εἰκόνος: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Πρόσβασις ἐν 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, οὐδὲ τροποποίησις)]
 
-**lekt5213:** ⟪मुंबई⟫ [Πηγὴ εἰκόνος: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Πρόσβασις ἐν 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Ὁνομασία, οὐδὲ τροποποίησις)]
+**lekt5213:** ⟪मुंबई⟫ [Πηγὴ εἰκόνος: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Πρόσβασις ἐν 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Ὁνομασία, οὐδὲ τροποποίησις)] <!-- TODO: Fallback translation -->
 
 **lekt5214:** Κοναρκ = ⟪कोनार्क⟫ [Πηγὴ εἰκόνος: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Πρόσβασις ἐν 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, οὐδὲ τροποποίησις)]
 
-**lekt5208:** Ἁμπὶ = ಹಂಪೆ [Πηγὴ εἰκόνος: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Πρόσβασις ἐν 2009-01-15. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, ὁμοία ἀδειοδότησις)]
+**lekt5208:** Ἁμπὶ = ಹಂಪೆ [Πηγὴ εἰκόνος: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Πρόσβασις ἐν 2009-01-15. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, ὁμοία ἀδειοδότησις)] <!-- TODO: Fallback translation -->
 
 **lekt5215:** ⟪मुंबई⟫ [Πηγὴ εἰκόνος: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Πρόσβασις ἐν 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Ἀναφορά)]
 

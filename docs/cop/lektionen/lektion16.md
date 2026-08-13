@@ -11,9 +11,9 @@ status: stable
 
 ## 16.1. Zum Sandhi auslautender Konsonanten
 
-ⲡⲓⲛⲟϥ ϧⲁϫⲱⲡ ⲛⲧⲉ ϯⲙⲉⲧⲣⲟϥ ⲛⲁⲕⲓⲧⲉ ϯⲙⲛⲣⲉ ⲛⲧⲉ ϯϥⲙⲟⲕ ⲛⲁⲣⲭⲏ. <!-- TODO: Fallback translation -->
+ⲡⲓⲛⲟϥ ϧⲁϫⱣ ⲛⲧⲉ ϯⲙⲉⲧⲣⲟϥ ⲛⲁⲕⲓⲧⲉ ϯⲙⲛⲣⲉ ⲛⲧⲉ ϯϥⲙⲟⲕ ⲛⲁⲣⲭⲏ.
 
-ⲡⲓⲛⲟϥ ϧⲁϫⱣ ⲛⲧⲉ ϯⲙⲉⲧⲣⲟϥ ⲛⲁⲕⲓⲧⲉ ϯⲙⲛⲣⲉ ⲛⲧⲉ ϯϥⲙⲟⲕ ⲛⲁⲣⲭⲏ. <!-- TODO: Fallback translation -->
+ⲡⲓⲛⲟϥ ϧⲁϫⱣ ⲛⲧⲉ ϯⲙⲉⲧⲣⲟϥ ⲛⲁⲕⲓⲧⲉ ϯⲙⲛⲣⲉ ⲛⲧⲉ ϯϥⲙⲟⲕ ⲛⲁⲣⲭⲏ.
 
 ::: no-header
 
@@ -63,7 +63,7 @@ Consonne occlusive dentale en position finale (non nasale) :
 ::: media
 ![](/images/lekt1602.webp)
 Abb.: ⟪अध्यापनम्⟫
-"ⲁϥ ⲛⲧⲉ ϯⲙⲏⲣϫ ⲛⲁⲕ ϧⲉⲙ ⲃϩⲟⲗ ⲛⲁⲕ ϧⲉⲙ Ṣatara (⟪सातारा⟫). ⲁϥ ϧⲉⲙ ⲛⲓⲃⲟⲗ ϧⲉⲙ ⲛϣⱩⲟⲥ ϧⲉⲙ ⲛϫⲓⲱϣ. ⲁϥ ϧⲉⲙ ⲛϫⲓⲱϣ. ⲁϥ ϧⲉⲙ ⲛϫⲓⲱϣ. ⲁϥ ϧⲉⲙ ⲛϫⲓⲱϣ." <!-- TODO: Fallback translation -->
+"ⲁϥ ⲛⲧⲉ ϯⲙⲏⲣϫ ⲛⲁⲕ ϧⲉⲙ ⲃϩⲟⲗ ⲛⲁⲕ ϧⲉⲙ Ṣatara (⟪सातारा⟫). ⲁϥ ϧⲉⲙ ⲛⲓⲃⲟⲗ ϧⲉⲙ ⲛϣⱩⲟⲥ ϧⲉⲙ ⲛϫⲓⲱϣ. ⲁϥ ϧⲉⲙ ⲛϫⲓⲱϣ. ⲁϥ ϧⲉⲙ ⲛϫⲓⲱϣ. ⲁϥ ϧⲉⲙ ⲛϫⲓⲱϣ."
 (Bildquelle: [Details](/licenses#lekt1602))
 :::
 ⟪अनसूया⟫ f.: ⲛⲧϣⱩ, ϯⲙⲏⲣϫ
@@ -80,11 +80,11 @@ davon:
 from that:
 
 ::: indent
-⟪आजीव⟫ m.: livelihood
+⟪आजीव⟫ ⲛⲓⲥϣⲧ: ϯⲙⲉⲩⲱⲃ
 :::
-⟪क्षमा⟫ f.: patience, forbearance, leniency
+⟪क्षमा⟫ ⲛⲓⲥϣⲧ: ⲡⲉⲕⲟ, ⲛⲓϣⲱⲡ, ⲛⲓⲃⲁϣ
 
-⟪क्षेम⟫ n.: rest, peace, well-being, secure possession
+⟪क्षेम⟫ ⲛⲓⲥϣⲧ: ϯⲙⲉⲩⲱⲃ, ⲡⲓϣⲱⲡ, ϯⲙⲉⲩⲁϣ, ⲛⲓⲃⲏⲧ
 
 ⟪चित्त⟫ n.: ⲧⲙⲏⲛⲓ, ⲡϣⲟⲡⲉⲩⲱ, ⲛⲁⲓϣⲧⲉ
 
@@ -112,13 +112,13 @@ Birla Mandir, Delhi
 
 ::: media
 ![](/images/lekt1603.jpg)
-Abb.: ⟪अहिंसा⟫
-"ⲡⲓϣⲟⲡ ⲛⲧⲉ ϩⲓⲥϫⲏ ⲛⲁⲕ ϩⲉⲙⲟϥ ⲛⲧⲉ Ϣⲓⲁⲛ ⲙⲡϫⲟⲣⲏ. ⲡⲓⲛⲁϫⲱⲙ ϩⲉ ⲡⲓⲛϣⲟⲡ. ⲡⲓϫⲱⲙ ϩⲉ ⲡⲧⲁϫⲱⲙ ϩⲉ ⲡⲓⲛϣⲟⲡ." <!-- TODO: Fallback translation -->
+Fig.: ⟪अहिंसा⟫
+"ⲡⲓϣⲟⲡ ⲛⲧⲉ ϩⲓⲥϫⲏ ⲛⲁⲕ ϩⲉⲙⲟϥ ⲛⲧⲉ Ϣⲓⲁⲛ ⲙⲡϫⲟⲣⲏ. ⲡⲓⲛⲁϫⲱⲙ ϩⲉ ⲡⲓⲛϣⲟⲡ. ⲡⲓϫⲱⲙ ϩⲉ ⲡⲧⲁϫⲱⲙ ϩⲉ ⲡⲓⲛϣⲟⲡ."
 (Bildquelle: [Details](/licenses#lekt1603))
 :::
 ## 16.3. ⲙⲁⲑⲏⲙⲁ
 
-A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie: <!-- TODO: Fallback translation -->
+A) Convert the following expressions into Tatpuruṣa and translate them:
 
 ⟪१⟫. ⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫
 

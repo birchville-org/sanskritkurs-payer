@@ -129,7 +129,7 @@ Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
 | **Imperfekt** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
 | **Optativ** :br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
 :::
@@ -343,7 +343,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Siehe:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)

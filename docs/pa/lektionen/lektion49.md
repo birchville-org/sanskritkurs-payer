@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # ਪਾਠ 49
 
@@ -243,7 +243,7 @@ Abb.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, 11. ਸਦੀ
 (Bildquelle: [Details](/pa/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: ਇੱਛਾ
+⟪वर⟫ m.n.: ਇੱਛਾ <!-- TODO: Fallback translation -->
 
 ⟪उत⟫ Indekl.: ਅਤੇ, ਵੀ, ਜਾਂ
 
@@ -254,7 +254,7 @@ Abb.: ⟪उत्तमा⟫ ⟪काला⟫
 Abb.: ⟪विहंगः⟫
 (Bildquelle: [Details](/pa/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: ਕੱਪੜਾ, ਦਿੱਖ, ਬਾਹਰੀ ਰੂਪ
+⟪वेष⟫ m.: ਕੱਪੜਾ, ਦਿੱਖ, ਬਾਹਰੀ ਰੂਪ <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4904.webp)
@@ -262,7 +262,7 @@ Abb.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
 (Bildquelle: [Details](/pa/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: ਢੱਕਣ, ਲੁਕਾਉਣ ਦੀ ਥਾਂ
+⟪छन्न⟫ n.: ਢੱਕਣ, ਲੁਕਾਉਣ ਦੀ ਥਾਂ <!-- TODO: Fallback translation -->
 
 ⟪पञ्जर⟫ n.: ਪੰਜਰ
 
@@ -299,7 +299,7 @@ Abb.: ⟪सादरः⟫
 ਅੰਮ੍ਰਿਤਸਰ = ਅੰਮ੍ਰਿਤਸਰ
 (Bildquelle: [Details](/pa/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
 
 ⟪परम⟫ 3: ਸਭ ਤੋਂ ਦੂਰ, ਸਭ ਤੋਂ ਉੱਚਾ ; ⟪पञ्चम्या⟫ : ਬਿਹਤਰ, ਉੱਚਾ
 
@@ -311,7 +311,7 @@ Abb.: ⟪गजशिशुः⟫
 ਸ੍ਰੀ ਲੰਕਾ
 (Bildquelle: [Details](/pa/licenses#lekt4906))
 :::
-## 49.5. ਰੂਪ ਵਿਗਿਆਨ ਲਈ ਦੁਹਰਾਉਣ ਦੀ ਅਭਿਆਸ
+## 49.5. ਰੂਪ ਵਿਗਿਆਨ ਲਈ ਦੁਹਰਾਉਣ ਦੀ ਅਭਿਆਸ <!-- TODO: Fallback translation -->
 
 ਹੇਠ ਲਿਖੇ ਰੂਪਾਂ ਦਾ ਨਿਰਧਾਰਨ ਕਰੋ:
 

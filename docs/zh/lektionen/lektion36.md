@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 36
+# 第36課
 
 ## 36.1. Besondere Bildungen des Perfekts
 

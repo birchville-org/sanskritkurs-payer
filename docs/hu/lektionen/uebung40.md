@@ -28,7 +28,7 @@ Egy tanítvány a (tudásból) egy negyedet kapja a mesterétől, egy negyediket
 
 ## Verbalis transzformációk (Perfektum)
 
-B) Alakítsa át a következő igei formákat megfelelő perfektrum alakokra (1. személy):
+B) Alakítsa át a következő igei formákat megfelelő perfektrum alakokra (1. személy): <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Jelen idő / Befejezetlen múlt | Perfektrum (1. személy) |
@@ -157,5 +157,5 @@ Határozza meg és fordítsa le a következő szóalakokat:
 ![](/images/uebung066.webp)
 Abb.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
 (Képmagyarázat: [Details](/licenses#uebung066))
-:::
+::: <!-- TODO: Fallback translation -->
 

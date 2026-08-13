@@ -10,9 +10,9 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 29
 
-Käännä sanasta sanaan hyvään saksaan ja opettele sanskritinkieliset tekstit ulkoa:
+Käännä sanasta sanaan hyvään saksaan ja opettele sanskritinkieliset tekstit ulkoa: <!-- TODO: Fallback translation -->
 
-### ⟪१⟫. Määritelmä sanalle ⟪अविद्या⟫
+### ⟪१⟫. Määritelmä sanalle ⟪अविद्या⟫ <!-- TODO: Fallback translation -->
 
 **⟪अनित्याशुचिदुःखानात्मसु⟫ ⟪नित्यशुचिस⟩u⟪खात्मख्यातिरविद्या⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪५⟫ ⟪॥⟫**
 
@@ -21,7 +21,7 @@ Tuntemattomuus tarkoittaa, että pysymätöntä, ep puhdasta, kärsimyksellistä
 ::: deleteme-box Erläuterung
 ⟪आत्मसु⟫ = Lok. sg. sanalle ⟪आत्मन्⟫ m. "Sielu; absoluutti, siinä määrin kuin se toteutuu yksilössä"
 :::
-### ⟪२⟫. Oikeasta käytöstä sanalla ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
+### ⟪२⟫. Oikeasta käytöstä sanalla ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4) <!-- TODO: Fallback translation -->
 
 ⟪तीक्ष्णदण्डो⟫ ⟪भूतानामुद्वेजनीयो⟫ ⟪भवति⟫ ⟪।⟫ ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।⟫ ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।⟫ ⟪सुविज्ञातप्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामैर्योजयति⟫ ⟪।⟫ ⟪दुष्प्रणीतः⟫ ⟪कामक्रोधाभ्यामवज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, ⟪किमङ्ग⟫ ⟪पुनर्गृहस्थान्⟫ ⟪।⟫ ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।⟫ ⟪बलीयानबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।⟫ ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।⟫
 
@@ -30,12 +30,12 @@ Tuntemattomuus tarkoittaa, että pysymätöntä, ep puhdasta, kärsimyksellistä
 ⟪स्वधर्मकर्माभिरतो⟫
 ⟪वर्तते⟫ ⟪स्वेषु⟫ ⟪वर्त्मसु⟫ ⟪॥१६॥⟫
 
-Liian ankaran hallinnon (daṇḍa) edellä olentojen on pakko vapista. Huolimaton hallinto on halveksittua. Juuri oikea hallinto on kunnioitettua. Viisaasti johdettu hallinnon edistää alamaisissa oikeutta, hyötyä ja iloa. Hallinto, joka on huonosti johdettu rakkauden tai vihan tai halveksunnan vuoksi, vihastuttaa jopa metsään vetäytyneitä vanhuksia ja vaeltavia asketeja, sitäkin enemmän kotiväkeä. Harjoittamaton hallinto aiheuttaa kaltaista käyttäytymistä (mātsyanayāya). Jos ei ole ketään, joka ylläpitää hallintoa, vahvempi nielaisee heikomman. Jos heikko on suojassa hallitsijan toimesta, hän menestyy.
+Liian ankaran hallinnon (daṇḍa) edellä olentojen on pakko vapista. Huolimaton hallinto on halveksittua. Juuri oikea hallinto on kunnioitettua. Viisaasti johdettu hallinnon edistää alamaisissa oikeutta, hyötyä ja iloa. Hallinto, joka on huonosti johdettu rakkauden tai vihan tai halveksunnan vuoksi, vihastuttaa jopa metsään vetäytyneitä vanhuksia ja vaeltavia asketeja, sitäkin enemmän kotiväkeä. Harjoittamaton hallinto aiheuttaa kaltaista käyttäytymistä (mātsyanayāya). Jos ei ole ketään, joka ylläpitää hallintoa, vahvempi nielaisee heikomman. Jos heikko on suojassa hallitsijan toimesta, hän menestyy. <!-- TODO: Fallback translation -->
 
 > Maailma sen neljässä asteessa ja elämänvaiheissa
 > On kuninkaan suojassa hallinnon kautta:
 > Iloinen omasta toiminnastaan oman oikeutensa ja oman tapansa mukaan
-> Liikkuu omilla radoillaan.
+> Liikkuu omilla radoillaan. <!-- TODO: Fallback translation -->
 
 ::: deleteme-box Glossar & Grammatik
 - ⟪उद्वेजनीय⟫ (3): jokin, josta on pakko vapista
@@ -53,5 +53,5 @@ Liian ankaran hallinnon (daṇḍa) edellä olentojen on pakko vapista. Huolimat
 ![](/images/uebung046.webp)
 Kuv.: ⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫
 (Kuv lähde: [Details](/licenses#uebung046))
-:::
+::: <!-- TODO: Fallback translation -->
 

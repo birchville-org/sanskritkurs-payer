@@ -148,7 +148,7 @@ mis. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Ia mempero
 ::: grammar-box
 **Dalam kata sifat neutrum, bentuk untuk Nominatif (prathamā) dan Akusativ (dvitīyā) adalah identik.**
 :::
-### 7.4.1. Kata Sifat Neutrum Berakhiran -a
+### 7.4.1. Kata Sifat Netral Berakhiran -a
 
 ::: grammar-box
 - **Akhiran Nominatif / Akusativ Tunggal: -m**

@@ -5,9 +5,9 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 44
+# Oppitunti 44 <!-- TODO: Fallback translation -->
 
 ## 44.1. Toisen persoonan verbimuotojen muodostaminen (⟪मध्यमः⟫) äänettömien kantainsaalojen vokaalipäätteisillä päätteillä
 
@@ -17,7 +17,7 @@ status: stable
 ::: grammar-box
 **Kolmannen persoonan yksikön Ā-imperfekti on muotonsa puoleensa sama kuin toisen persoonan monikon imperfekti!!!**
 :::
-### 44.1.1. Viides preesensluokka (⟪स्वादि⟫)
+### 44.1.1. Viides preesensluokka (⟪स्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪सु⟫ 5U
 
@@ -63,11 +63,11 @@ status: stable
 :::
 ## 44.2. Sanasandhiin liittyvää
 
-Konsonanttisesti päättyvien preesensvartalojen kohdalla on noudatettava jo käsiteltyjä sanasandhilakeja.
+Konsonanttisesti päättyvien preesensvartalojen kohdalla on noudatettava jo käsiteltyjä sanasandhilakeja. <!-- TODO: Fallback translation -->
 
 Lisäksi sovelletaan seuraavia sanasandhilakeja.
 
-(Laajallinen yhteenveto täähän kuuluvista äänteenmuutoksista Kielhornin, Grammatik s. 76f.)
+(Laajallinen yhteenveto täähän kuuluvista äänteenmuutoksista Kielhornin, Grammatik s. 76f.) <!-- TODO: Fallback translation -->
 
 ### 44.2.1. Sanasandhi dh-:lle
 
@@ -91,9 +91,9 @@ Esimerkkejä:
 2. **-ṣ + s- » -kṣ-**
 Esim. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪द्वेक्षि⟫ (dve**kṣ**i)
 :::
-## 44.3. Vartalon 2. persoonan verbimuotojen muodostaminen (⟪मध्यमः⟫) atemaattisissa vartaloissa, joissa ei ole vokaalipäätteistä suffiksia
+## 44.3. Vartalon 2. persoonan verbimuotojen muodostaminen (⟪मध्यमः⟫) atemaattisissa vartaloissa, joissa ei ole vokaalipäätteistä suffiksia <!-- TODO: Fallback translation -->
 
-### 44.3.1. Toinen preesensluokka (⟪अदादि⟫)
+### 44.3.1. Toinen preesensluokka (⟪अदादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -186,9 +186,9 @@ Esim. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » �
 Paikalliset grammatikot eivät pidä vokatia (⟪आमन्त्रितम्⟫) erillisenä sijana, vaan ainoastaan nominatiivin (⟪प्रथमा⟩) muunnelmana.
 
 ::: important
-**Vokatiivia käytetään huutamiseen, puhutteluun ja se on irrallaan muusta lauseesta, joten se eroaa muista sijamuodoista, jotka ilmaisevat suhdetta verbiin tai toiseen substantiiviin.**
+**Vokatiivia käytetään huutamiseen, puhutteluun ja se on irrallaan muusta lauseesta, joten se eroaa muista sijamuodoista, jotka ilmaisevat suhdetta verbiin tai toiseen substantiiviin.** <!-- TODO: Fallback translation -->
 
-**Vokatiivi sijoitetaan yleensä lauseen alkuun:**
+**Vokatiivi sijoitetaan yleensä lauseen alkuun:** <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -201,16 +201,16 @@ Paikalliset grammatikot eivät pidä vokatia (⟪आमन्त्रितम�
 ![](/images/lekt4402.webp)
 Kuv.: "O":n oikea käyttö saksassa: **"O mies!"**
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4402))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Vokatiivin monikon ja kaksikon muodot ovat samat kuin nominatiivin (⟪प्रथमा⟫) monikon tai kaksikon.**
 
 **Vokatiivin yksikön muodot esitetään [Lektion 45](lektion45.md).**
 :::
-## 44.5. Sanalista
+## 44.5. Sanalista <!-- TODO: Fallback translation -->
 
-⟪प्रति⟫ Prefiksi: takaisin, vasten, vastaan - kohti
+⟪प्रति⟫ Prefiksi: takaisin, vasten, vastaan - kohti <!-- TODO: Fallback translation -->
 
 ::: indent
 esim.
@@ -240,7 +240,7 @@ niistä:
 Kuv.: ⟪रेल्यानम्⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt4403))
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : maata. Tämä verbijuurten muodostaa kaikissa preesensvartalon muodoissa **korkean asteen:** 1.sg.Ind.Prees.Ā :sig[⟪शेये⟫] (śe + e). Seuraavat muodot ovat erityisesti huomioitava: 3.pl.Ind.Prees.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
+⟪शी⟫ 2Ā ⟪शेते⟫ : maata. Tämä verbijuurten muodostaa kaikissa preesensvartalon muodoissa **korkean asteen:** 1.sg.Ind.Prees.Ā :sig[⟪शेये⟫] (śe + e). Seuraavat muodot ovat erityisesti huomioitava: 3.pl.Ind.Prees.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫] <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -258,7 +258,7 @@ siitä:
 Kuv.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : iloita jstk (⟪तृतीयया⟫)
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : iloita jstk (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -279,9 +279,9 @@ siitä:
 Kuv: ⟪नन्दी⟩
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt4405))
 :::
-⟪नन्द्⟩ + ⟪अभि⟩ 1P (1Ā)  ⟪अभिनन्दति⟩: hänellä on iloa (⟪द्वितीयया⟩), tervehditä joku iloisesti, tervetuloa
+⟪नन्द्⟩ + ⟪अभि⟩ 1P (1Ā)  ⟪अभिनन्दति⟩: hänellä on iloa (⟪द्वितीयया⟩), tervehditä joku iloisesti, tervetuloa <!-- TODO: Fallback translation -->
 
-⟪यम्⟩ 1P :sig[⟪यच्छति⟩]: pitää, kantaa; tarjota, myöntää; pitää yhdessä, kesyttää, ohjata, voittaa
+⟪यम्⟩ 1P :sig[⟪यच्छति⟩]: pitää, kantaa; tarjota, myöntää; pitää yhdessä, kesyttää, ohjata, voittaa <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. Vb ⟪ययाम⟩, ⟪येमुर्⟩  
@@ -302,7 +302,7 @@ PPP ⟪आयत⟩ 3: pitkälle ojitettu
 Kuv: ⟪आयतो⟩ ⟪मरुः⟩
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt4406))
 :::
-⟪यम्⟩ + ⟪प्र⟩ 1P ⟪प्रयच्छति⟩: tarjota, antaa, luovuttaa
+⟪यम्⟩ + ⟪प्र⟩ 1P ⟪प्रयच्छति⟩: tarjota, antaa, luovuttaa <!-- TODO: Fallback translation -->
 
 ⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : sitoa yhteen, sidotaan, kesyttää
 
@@ -325,7 +325,7 @@ siitä:
 Kuva: ⟪यत्नेन⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4407))
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (muoto sanalle ⟪लभ्⟫): tarttua, ottaa kiinni
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (muoto sanalle ⟪लभ्⟫): tarttua, ottaa kiinni <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
@@ -336,9 +336,9 @@ PPP ⟪रब्ध⟫
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : koskea, aloittaa, ryhtyä
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : koskea, aloittaa, ryhtyä <!-- TODO: Fallback translation -->
 
-⟪प्रव्रज्या⟫ f. (sanasta ⟪प्र⟫-⟪व्रज्⟫): kotinsa hylkääminen asuimattomuuteen; seremonia, jossa tulee buddhalaiseksi novitsiksi (paliksi: ⟪पब्बजा⟫)
+⟪प्रव्रज्या⟫ f. (sanasta ⟪प्र⟫-⟪व्रज्⟫): kotinsa hylkääminen asuimattomuuteen; seremonia, jossa tulee buddhalaiseksi novitsiksi (paliksi: ⟪पब्बजा⟫) <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 Katso:
@@ -350,9 +350,9 @@ Katso:
 Kuva: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4408))
 :::
-## 44.6. Harjoitus
+## 44.6. Harjoitus <!-- TODO: Fallback translation -->
 
-A) Määritä ja käännä seuraavat muodot:
+A) Määritä ja käännä seuraavat muodot: <!-- TODO: Fallback translation -->
 
 1.  ⟪आदेः⟫
 2.  ⟪आदः⟫
@@ -412,7 +412,7 @@ A) Määritä ja käännä seuraavat muodot:
 Kuva: ⟪कस्माद्रोदिषि⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4409))
 :::
-B) Käännä:
+B) Käännä: <!-- TODO: Fallback translation -->
 
 ⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
 
@@ -480,21 +480,22 @@ Määritä seuraavat muodot:
 
 **lekt4301.jpg**: Yksityiskohdat tiedostossa licenses.md
 
-**lekt4401.jpg**: Erityistä lisenssiä/kuvaa ei löydy tekstistä
+**lekt4401.jpg**: Erityistä lisenssiä/kuvaa ei löydy tekstistä <!-- TODO: Fallback translation -->
 
-**lekt4402.jpg**: Piirros Henri Gerbaultilta (1863–1930) (julkinen omaisuus)
+**lekt4402.jpg**: Piirros Henri Gerbaultilta (1863–1930) (julkinen omaisuus) <!-- TODO: Fallback translation -->
 
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Viitattu 8.1.2009. -- Creative Commons -lisenssi (Nimeä, ei kaupallista käyttöä, ei johdannaisteoksia)
+**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Viitattu 8.1.2009. -- Creative Commons -lisenssi (Nimeä, ei kaupallista käyttöä, ei johdannaisteoksia) <!-- TODO: Fallback translation -->
 
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Haettu 2009-01-08. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, sama lisenssi)
+**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Haettu 2009-01-08. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, sama lisenssi) <!-- TODO: Fallback translation -->
 
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Haettu 2009-01-08. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä)
+**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Haettu 2009-01-08. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä) <!-- TODO: Fallback translation -->
 
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Haettu 2009-01-08. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä)
+**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Haettu 2009-01-08. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä) <!-- TODO: Fallback translation -->
 
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Haettu 2009-01-08. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, sama lisenssi)
+**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Haettu 2009-01-08. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, sama lisenssi) <!-- TODO: Fallback translation -->
 
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Viitattu 2009-01-08. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)
+**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Viitattu 2009-01-08. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia) <!-- TODO: Fallback translation -->
 
 **lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Viitattu 2009-01-08. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)
 :::
+ <!-- TODO: Fallback translation -->

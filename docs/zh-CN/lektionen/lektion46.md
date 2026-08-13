@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. 第一类完美时态：无词干变音
+### 46.1.3. 第一类完美时态：无词干变音 <!-- TODO: Fallback translation -->
 
 动词，遵循此类型的：
 
@@ -658,7 +658,7 @@ B) 翻译：
 
 ::: deleteme-box
 
-Navagraha-Bilderquelle: Redtigerxyz / Wikipedia. GNU FDLicense
+Navagraha-Bilderquelle: Redtigerxyz / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
 
 L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, 约 1870 年)。来源：维基百科。公有领域
 

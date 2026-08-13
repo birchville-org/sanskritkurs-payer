@@ -11,7 +11,7 @@ status: stable
 
 ## 13.1. PPP ⲉⲧϫⲱⲕ ⲉ̀ⲃⲟⲗ ϧⲉⲛ -na-
 
-Für die Verteilung der PPPs auf -ta- bzw. -na- lassen sich keine festen Regeln aufstellen. Doch: <!-- TODO: Fallback translation -->
+ⲡⲓⲛⲁϧⲟⲕ ϩⲉ ⲡⲓⲱϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓⲥϣⲟⲛ ϩⲙ ⲡⲓ
 
 ::: grammar-box
 
@@ -26,11 +26,11 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 ::: grammar-box
 
-**ⲡϫⲓ ⲛ̀ⲧⲙⲟⲕ ϫⲉ ⲛϣⱧⲓⲟⲡ ϫⲉ ⲛϣⱧⲓⲟⲡ "ϫⲉ", "ϣⱧⲓⲟⲡ", "ϫⲉ ϣⱧⲓⲟⲡ", "ϫⲉ ϣⱧⲓⲟⲡ", "ϫⲉ ϣⱧⲓⲟⲡ" ⲕⲁϫⲱ ϧⲛ̀ⲟⲩ ⲡⲓϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ ⲛ̀ⲇϫⲁⲧⲟⲡⲛ̀, ⲛϫⲉ ϣⱧⲓⲟⲡ ⲛ̀ϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ ñi ⲛϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ ⲛϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ ⲛϫⲉ ϣⱧⲓⲟⲡ:** <!-- TODO: Fallback translation -->
+**ⲡϫⲓ ⲛ̀ⲧⲙⲟⲕ ϫⲉ ⲛϣⱧⲓⲟⲡ ϫⲉ ⲛϣⱧⲓⲟⲡ "ϫⲉ", "ϣⱧⲓⲟⲡ", "ϫⲉ ϣⱧⲓⲟⲡ", "ϫⲉ ϣⱧⲓⲟⲡ", "ϫⲉ ϣⱧⲓⲟⲡ" ⲕⲁϫⲱ ϧⲛ̀ⲟⲩ ⲡⲓϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ ⲛ̀ⲇϫⲁⲧⲟⲡⲛ̀, ⲛϫⲉ ϣⱧⲓⲟⲡ ⲛ̀ϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ ñi ⲛϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ ⲛϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ ⲛϫⲉ ϣⱧⲓⲟⲡ:**
 ⲛϫⲉ ϣⱧⲓⲟⲡ
 :::
 ::: indent
-⟪इष्ट⟫ "ϣⱧⲓⲟⲡ" (ⲛϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ) <!-- TODO: Fallback translation -->
+⟪इष्ट⟫ "ϣⱧⲓⲟⲡ" (ⲛϫⲉ ϣⱧⲓⲟⲡ, ⲛϫⲉ ϣⱧⲓⲟⲡ)
 :::
 
 ⟪त्वरित⟫ "ϣⱧⲓⲟⲡ, ϣⱧⲓⲟⲡ" (ϫⲉ tvar 1 Ā "ϣⱧⲓⲟⲡ"; Dhātupāṭha: ñitvárā)
@@ -45,7 +45,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 :::
 
 **3. Das Neutrum Singular des PPP von jedem Verb kann auch als Verbalabstraktum verwendet werden:**
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 ::: indent
 ⟪नृत्त⟫ n.: "ϣⱧⲓⲟⲡ, ϯϥ"
 :::
@@ -54,7 +54,7 @@ z.B. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
-Attribute (Beifügungen) stehen in Prosa in der normalen Wortfolge vor dem Wort, das sie näher bestimmen. Adjektivische Attribute stimmen mit dem Nomen in Zahl, Fall und Geschlecht überein: <!-- TODO: Fallback translation -->
+ⲡⲓϣⲟⲛⲧ (ⲁⲡⲃⲓϫⲱⲛ) ⲛⲧⲉ ϯⲙⲏⲣⲓ ⲛⲁϥ ϯⲙⲉⲧⲣⲟⲩϥ ⲛⲁⲡⲓ ϯⲙⲏⲣⲓ ⲛⲁϥ ϯⲙⲉⲧⲣⲟⲩϥ ⲛⲁⲡⲓ. ⲡⲓϣⲟⲛⲧ ⲁⲙⲉⲣⲓϥ ⲛⲧⲉ ϯⲙⲏⲣⲓ ⲛⲁϥ ϯⲙⲉⲧⲣⲟⲩϥ ⲛⲁⲡⲓ.
 
 Beispiel:
 
@@ -67,7 +67,7 @@ Beispiel:
 
 ::: grammar-box
 
-Mittels der taddhita-Suffixe -mant bzw. -vant werden von Nomina besitzanzeigende Adjektive gebildet. Ihre Bedeutung ist: "das durch das zugrundeliegende Nomen Bezeichnete besitzend". <!-- TODO: Fallback translation -->
+ⲙⲡⲓⲛϣⲟⲧ ⲛⲧⲉ taddhita -mant ⲟⲩϫ- vant, ϧⲉⲙ ⲛⲟⲩϣⲓⲱϫ ϧⲛ ⲛⲟⲩϣⲓⲱϫ ϧⲛ ⲛⲟⲩϣⲓⲱϫ ϧⲛ ⲛⲟⲩϣⲓⲱϫ.
 
 -vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
@@ -77,12 +77,12 @@ Beispiele:
 ::: indent
 ⟪पशुमन्त्⟫ "Vieh besitzend"
 
-⟪गुणवन्त्⟫ "ⲛⲓⲥϣⲟⲡ ⲉⲧϫⲓⲙⲱⲛ ⲛⲉⲙ ϯϥⲟⲩⲱϣ ⲛⲉⲙ ϯϥⲃⲏⲧ ⲛⲉⲙ ϯϥⲃⲏⲧ ⲛⲉⲙ ϯϥⲃⲏ <!-- TODO: Fallback translation -->
+⟪गुणवन्त्⟫ "ⲛⲓⲥϣⲟⲡ ⲉⲧϫⲓⲙⱦⲛ ⲛⲉⲙ ϯϥⲟⲩⱦⲣ ⲛⲉⲙ ϯϥⲃⱦⲧ ⲛⲉⲙ ϯϥⲃⱦⲧ ⲛⲉⲙ ϯϥⲃⱦ
 :::
 
 ## 13.5. Ⲧⲁⲃⲥⲧⲩϥⲓⲛⲅ ⲛ̄ⲣⲏⲧ von Nomina
 
-Die Stämme auf -mant bzw. -vant gehören zu den Nominalstämmen mit Stammabstufung. <!-- TODO: Fallback translation -->
+ⲡⲓϧⲁⲃⲟⲥ ϩⲛ -mant ⲫⲓϣⲟⲡ -vant ϧⲛ ⲉⲓϫⲏⲙⲟⲥ ϧⲛ ⲉⲓϫⲏⲙⲟⲥ ϧⲛ ⲉⲓϫⲏⲙⲟⲥ ϧⲛ ⲉⲓϫⲏⲙⲟⲥ.
 
 ::: grammar-box
 Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und schwachen Kasus (Fällen). In den starken Kasus hat das stammbildende Suffix — bei Wurzelnomina der wurzelhafte Bestandteil — Hochstufe bzw. Dehnstufe, in den schwachen Kasus Tiefstufe.
@@ -97,7 +97,7 @@ Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und sc
 **ⲡⲛⲟϥ ⲧⲉ ϯⲙⲁⲣⲓϫ ⲛⲧⲉ ϯⲙⲟⲩϫ ⲛⲧⲉ ϯⲙⲁⲣⲓϫ.**
 
 ::: grammar-box
-Als Vorderglied eines Kompositums steht ein Nomen mit Stammabstufung im schwachen Stamm (bei dreistämmigen Nomina im sog. mittleren). <!-- TODO: Fallback translation -->
+ὡς πρόμελον σύνθετον ἐστιὸν ὄνομα μετὰ κλίσεως ἐν τῷ ἀσθενεῖ ῥίζᾳ (ἐν τοις τριστάμφοις ὀνόμασι ἐν τῷ λεγομένῳ μέσῳ).
 :::
 
 ## 13.6. Ⲉⲧⲣⲉ ⲡⲓⲥⲁⲛⲇϩⲓ ⲛ̄ⲛⲓⲥⲁϩⲓ
@@ -125,7 +125,7 @@ Als Vorderglied eines Kompositums steht ein Nomen mit Stammabstufung im schwache
 ::: grammar-box
 
 ϯⲃ ⲛϧⲟⲡ ⲛⲓⲙⲉⲧⲃⲏ ⲛϣⲟⲡ:
-* ⲉⲥⲧⲱⲛ ϯⲃ ⲛϣⲟⲡ ⲛⲓⲙⲉⲧⲃⲏ ⲛϣⲟⲡ (dvitīyā) ϯⲙⲉϥ ⲛⲓⲱⲧⲃ ⲛⲓⲙⲉⲧⲃⲏ ⲛϣⲟⲡ -as.
+* ⲉⲥⲧⱫⲛ ϯⲃ ⲛϣⲟⲡ ⲛⲓⲙⲉⲧⲃⲏ ⲛϣⲟⲡ (dvitīyā) ϯⲙⲉϥ ⲛⲓⱫⲧⲃ ⲛⲓⲙⲉⲧⲃⲏ ⲛϣⲟⲡ -as.
 * ist bei regelmässig bildenden Stämmen das Neutrum in Nominativ (prathamā) und Akkusativ (dvitīyā) Singular endungslos. <!-- TODO: Fallback translation -->
 * ist bei regelmäßig bildenden Stämmen im Neutrum die Endung des Nominativ und Akkusativ Plural -i.
 
@@ -163,9 +163,9 @@ Als Vorderglied eines Kompositums steht ein Nomen mit Stammabstufung im schwache
 - **eva** ⟪एव⟫ : ⲛⲁϣⲟⲡ ⲛⲧⲉ ϯⲙⲏⲣⲓ
 - **asura** m. ⟪असुर⟫ : ⲛⲓⲥⲁϣ
 
-> **ASURA.** 'ⲛⲓⲱϣ ⲛⲧⲉ ϯⲙⲏⲣⲓ.'
->ⲛⲉϥⲙⲟⲕ ϧⲡⲓⲛⲁⲕ ⲛⲧⲉ Ṛgveda, ϯϥⲙⲏⲣⲓ ⲛⲧⲉ ϯⲙⲏⲣⲓ ⲛⲧⲉ ϯⲙⲏⲣⲓ ⲛⲧⲉ ϯⲙⲏⲣⲓ ⲛⲧⲉ ϯ <!-- TODO: Fallback translation -->
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods. <!-- TODO: Fallback translation -->
+> **ⲠⲬⲞⲢⲒ.** 'ⲛⲓⲱϣ ⲛⲧⲉ ϯⲙⲏⲣⲓ.'
+>ⲛⲉϥⲙⲟⲕ ϧⲡⲓⲛⲁⲕ ⲛⲧⲉ Ṛgveda, ϯϥⲙⲏⲣⲓ ⲛⲧⲉ ϯⲙⲏⲣⲓ ⲛⲧⲉ ϯⲙⲏⲣⲓ ⲛⲧⲉ ϯⲙⲏⲣⲓ ⲛⲧⲉ ϯ
+> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
 >According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
 > According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
 >In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
@@ -222,7 +222,7 @@ dviṣ 2 U:
 
 ## 13.10. Übung
 
-ⲁ) ⲧⲛⲟϥⲓⲱϣ ϫⲉ ⲛⲧⲥⲁⲓϯ ϵⲩⲛⲟⲕ ⲉⲃⲟⲗ: <!-- TODO: Fallback translation -->
+ⲁ) ⲧⲛⲟϥⲓⱡⲟϣ ⫼ⲉ ⲛⲧⲥⲁⲓϯ ϵⲩⲛⱡⱦ ⲉⲃⱡⱦ:
 
 ⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
 ⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
@@ -242,7 +242,7 @@ Abb.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪ब�
 ⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
 ⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
 
-B) Translate and convert into past passive sentences:
+Ⲓⲥⲱⲧⲉ ϫⲟⲩ ⲛϣⲓⲱⲧ ϫⲉ ⲡⲓϣⲟⲡⲛⲏⲥ ⲛⲧⲉ ϯϣⲟⲡⲛⲏⲥ:
 
 ⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
 ⟪२⟫. ⟪योद्धा⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫

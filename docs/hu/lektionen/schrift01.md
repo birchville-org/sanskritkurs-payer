@@ -6,9 +6,9 @@ A szanszkritot sokféle írással írták és írják. A következő áttekinté
 
 ![](/images/schrift001.webp)
 Ábra: Szanszkrit írásminták
-\[Kép forrása: Wikipedia, GNU FD licenc\]
+\[Kép forrása: Wikipedia, GNU FD licenc\] <!-- TODO: Fallback translation -->
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift002.webp)
 
@@ -18,15 +18,15 @@ Minden mássalhangzójel egyben egy azt követő „a” hangot is jelöl. Ha a 
 
 A mássalhangzót követő magánhangzókat – az „a” kivételével – a következőképpen írjuk:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
 
 Ezeknek a mássalhangzó + magánhangzó kapcsolatoknak az írási sorrendje a következő:
 
 ![](/images/schrift003.jpg)
 
-Írás közben minden betűt, beleértve a felső vízszintes vonalat is, teljesen befejezünk, mielőtt a következő betűt leírnánk.
+Írás közben minden betűt, beleértve a felső vízszintes vonalat is, teljesen befejezünk, mielőtt a következő betűt leírnánk. <!-- TODO: Fallback translation -->
 
 ## Gyakorlat
 
@@ -40,6 +40,6 @@ Olvassa el és írja át (transzliterálja):
 
 További olvasási gyakorlat:
 
-⟪पिता⟫ apa, ⟪कपि⟫ majom, ⟪कृत⟫ megtett, ⟪टीका⟫ alkommentár, ⟪तत्⟫ ez, ⟪तट⟫ part, ⟪पत्⟫ ellőni, ⟪पट⟫ szövet, ⟪काच⟫ üveg, ⟪काकुत्⟫ szájpad, ⟪चित्⟫ észlelni, ⟪पृच्⟫ keverni, ⟪पोटक⟫ szolga, ⟪चेतु⟫ szándék, ⟪तौतातित⟫ Kumārila követője (Mīmāṃsā), ⟪तूत⟫ eperfa, ⟪पीत⟫ megivott, ⟪पीति⟫ ital, ⟪कॢप्⟫ illeszkedni, ⟪कृपते⟫ jajgat, ⟪पुटी⟫ ránc, ⟪चापि⟫ hasonlóképpen, ⟪तोक⟫ utódok, ⟪तृपत्⟫ jóllakott, ⟪पॄ⟫ tölteni, ⟪कृकाटी⟫ nyakízület, ⟪पूपौ⟫ két sütemény, ⟪पैतृकी⟫ apai (nőnem), ⟪कौट⟫ csaló, ⟪कच⟫ hajzat, ⟪कुतपे⟫ a kecskeszőr takarón, ⟪कुचौ⟫ kebel, ⟪चकिता⟫ megrémült (nőnem)
+⟪पिता⟫ apa, ⟪कपि⟫ majom, ⟪कृत⟫ megtett, ⟪टीका⟫ alkommentár, ⟪तत्⟫ ez, ⟪तट⟫ part, ⟪पत्⟫ ellőni, ⟪पट⟫ szövet, ⟪काच⟫ üveg, ⟪काकुत्⟫ szájpad, ⟪चित्⟫ észlelni, ⟪पृच्⟫ keverni, ⟪पोटक⟫ szolga, ⟪चेतु⟫ szándék, ⟪तौतातित⟫ Kumārila követője (Mīmāṃsā), ⟪तूत⟫ eperfa, ⟪पीत⟫ megivott, ⟪पीति⟫ ital, ⟪कॢप्⟫ illeszkedni, ⟪कृपते⟫ jajgat, ⟪पुटी⟫ ránc, ⟪चापि⟫ hasonlóképpen, ⟪तोक⟫ utódok, ⟪तृपत्⟫ jóllakott, ⟪पॄ⟫ tölteni, ⟪कृकाटी⟫ nyakízület, ⟪पूपौ⟫ két sütemény, ⟪पैतृकी⟫ apai (nőnem), ⟪कौट⟫ csaló, ⟪कच⟫ hajzat, ⟪कुतपे⟫ a kecskeszőr takarón, ⟪कुचौ⟫ kebel, ⟪चकिता⟫ megrémült (nőnem) <!-- TODO: Fallback translation -->
 
 

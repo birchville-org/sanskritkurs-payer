@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 6
 
@@ -34,7 +34,7 @@ Si se menciona el agente (**kartṛ** m. = ⟪कर्तृ⟫) en una oració
 Una forma verbal finita, es decir, una forma verbal con terminación personal, expresa en sánscrito lo siguiente:
 
 1. **Significado** (**artha** m. ⟪अर्थ⟫)
-2. **Persona** y **número** (número, **vacana** n. = ⟪वचन⟫) (yo, tú, él \<ella, ello\>, nosotros dos, vosotros dos, ellos dos, nosotros, vosotros, ellos)
+2. **Persona** y **número** (número, **vacana** n. = ⟪वचन⟫) (yo, tú, él \&lt;ella, ello\&gt;, nosotros dos, vosotros dos, ellos dos, nosotros, vosotros, ellos)
 3. Modo de comportamiento (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("forma verbal con referencia a otro"): Activo. p.ej. **yajati** = ⟪यजति⟫ = "Él venera con un sacrificio" (a saber, el sacerdote, que realiza el sacrificio por otra persona)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("forma verbal con referencia a sí mismo"): Medio. p.ej. **yajate** = ⟪यजते⟫ = "Él venera con un sacrificio en su propio interés" (a saber, el señor del sacrificio, que sacrifica por sí mismo y por su familia)
@@ -48,14 +48,14 @@ Una forma verbal finita, es decir, una forma verbal con terminación personal, e
 
 4. **Modo de expresión** (Modus):
    1. **Indicativo**: Forma enunciativa
-   2. **Optativooo**: Forma de deseo y forma de posibilidad
-   3. **Imperativooo**: Forma de mandato
+   2. **Optativoooooo**: Forma de deseo y forma de posibilidad
+   3. **Imperativoooooo**: Forma de mandato
 5. **Tiempo** (Tempus):
    1. **Presente**: Presente
    2. **Imperfecto**
    3. **Perfecto**
    4. **Aoristo**
-   5. **Futurooo**: Futurooo
+   5. **Futuroooooo**: Futuroooooo
    6. **Condicional**
 
 Los tiempos se forman a partir de las raíces temporales: raíz del presente, raíz del aoristo, raíz del perfecto, raíz del futuro.
@@ -116,7 +116,7 @@ Ejemplo **yaj** = ⟪यज्⟫ = "honrar con un sacrificio", "sacrificar":
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Sandhi de palabras de e y o
-Ante vocales, en el interior de la palabra, **e** se reemplaza por **ay**, **o** por **av**.
+Ante vocales, en el interior de la palabra, **e** se reemplaza por **ay**, **o** por **av**. &lt;!-- TODO: Fallback translation --&gt;
 
 #### 6.5.2.2. Gradación (Ablaut)
 
@@ -237,9 +237,13 @@ En sánscrito, los verbos se enumeran en la **forma de raíz**. El número despu
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **B) Ponga en plural:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

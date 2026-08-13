@@ -51,7 +51,7 @@ Fig.: ⟪हस्तौ⟫
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 :::
 ::: grammar-box
-**Nei nomi con alternanza vocale della radice (stemma), il duale maschile/femminile del Nominativooo, Accusativo e Vocativo presenta la forma forte della radice.**
+**Nei nomi con alternanza vocale della radice (stemma), il duale maschile/femminile del Nominativoooooo, Accusativo e Vocativo presenta la forma forte della radice.**
 :::
 ## 53.3. Il duale dei temi consonantici
 
@@ -286,7 +286,7 @@ Fig.: :sig[⟪धेनू⟫]
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
 :::
-## 53.5. Dualeedvandva
+## 53.5. Dualeeeeedvandva
 
 Esempi:
 
@@ -297,7 +297,7 @@ Esempi:
 **⟪शीतोष्णे⟫** "Freddo e caldo"
 :::
 ::: grammar-box
-**Quando due parole di parentela terminanti in -ṛ (o due sostantivi in -ṛ che indicano sacerdoti sacrificatori) vengono composti in un Dvandva, il primo membro appare nella forma del Nominativooo Singolare:**
+**Quando due parole di parentela terminanti in -ṛ (o due sostantivi in -ṛ che indicano sacerdoti sacrificatori) vengono composti in un Dvandva, il primo membro appare nella forma del Nominativoooooo Singolare:**
 
 :::
 ::: indent
@@ -350,11 +350,11 @@ I seguenti aggettivi pronominali vengono declinati in tutti i casi come **⟪य
 *   **⟪अन्यतर⟫** 3 "uno dei due"
 *   **⟪इतर⟫** 3 "l'altro"
 
-*   **⟪सर्व⟫** 3 "ogni, tutto" viene declinato in tutti i casi tranne il Nominativooo/Accusativo singolare neutro (**⟪सर्वम्⟫**) come **⟪यद्⟫**.
+*   **⟪सर्व⟫** 3 "ogni, tutto" viene declinato in tutti i casi tranne il Nominativoooooo/Accusativo singolare neutro (**⟪सर्वम्⟫**) come **⟪यद्⟫**.
 *   **⟪उभय⟫** 3 "entrambi" non ha il duale. Al singolare e al plurale, maschile e neutro, viene declinato come **⟪सर्व⟫**. Femminile: **⟪उभयी⟫** (come **⟪देवी⟫**).
 *   **⟪उभ⟫** 3 "entrambi" viene usato solo nel duale e viene declinato come **⟪देव⟫** m., **⟪फल⟫** n. oppure **⟪देवता⟫** f.
 
-I seguenti aggettivi pronominali vengono declinati come **⟪सर्व⟫**. Nell'Ablativooo/Locativo singolare maschile/neutro, nonché nel Nominativooo plurale, possono essere declinati secondo la declinazione in **-a-** o **-ā-**:
+I seguenti aggettivi pronominali vengono declinati come **⟪सर्व⟫**. Nell'Ablativoooooo/Locativo singolare maschile/neutro, nonché nel Nominativoooooo plurale, possono essere declinati secondo la declinazione in **-a-** o **-ā-**:
 
 *   **⟪अपर⟫** 3 "un altro"
 *   **⟪उत्तर⟫** 3 "il superiore, il settentrionale, il successivo"
@@ -368,7 +368,7 @@ I seguenti aggettivi pronominali vengono declinati come **⟪सर्व⟫**. 
 **Un certo numero di aggettivi forma il comparativo e il superlativo utilizzando i seguenti suffissi ⟪कृत्⟫ (!):**
 
 *   Comparativo: **-īyas**
-*   Superlativo: **-iṣṭha**
+*   Superlativo: **-iṣṭha** &lt;!-- TODO: Fallback translation --&gt;
 
 **Mentre i suffissi ⟪तद्धित⟫ -⟪तर⟫ e -⟪त⟫am si attaccano al tema maschile dell'aggettivo, i suffissi -⟪ईयस्⟫ e -⟪इष्ठ⟫ vengono aggiunti alla radice da cui l'aggettivo è derivato (se esiste una tale radice!). Il vocale della radice è in grado di grado (guṇa).**
 
@@ -456,7 +456,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "anziano") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "anziano") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declinazione dei comparativi in -īyas
+## 53.9. Declinazione dei comparativi in -īyas &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **I comparativi in -īyas formano il femminile in -īyasī (declinazione come ⟪देवी⟫). Il maschile e il neutro vengono declinati secondo il seguente paradigma.**
@@ -490,9 +490,11 @@ Si veda anche:
 
 La determinazione del metro è importante per le seguenti ragioni:
 
-1.  **Estetica:** la metrica contribuisce, tra l’altro, alla bellezza di un’espressione. Inoltre, determinati metri possono servire a esprimere specifiche atmosfere o sono associati a determinate caste (⟪वर्ण⟫). I vari metri vengono recitati in modo diverso. :br Una buona impressione dell’effetto estetico si ottiene, ad esempio, dalla recitazione dello ⟪शिवताण्डवस्तोत्र⟫ (*Śivataṇḍvastotra*, Lode della danza di Śiva*): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Estetica:** la metrica contribuisce, tra l’altro, alla bellezza di un’espressione. Inoltre, determinati metri possono servire a esprimere specifiche atmosfere o sono associati a determinate caste (⟪वर्ण⟫). I vari metri vengono recitati in modo diverso.
+Una buona impressione dell’effetto estetico si ottiene, ad esempio, dalla recitazione dello ⟪शिवताण्डवस्तोत्र⟫ (*Śivataṇḍvastotra*, Lode della danza di Śiva*): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Filologia testuale:** errori nel metro possono indicare che il testo non è stato tramandato correttamente in un determinato punto. Il metro aiuta a effettuare emendamenti testuali.
-3.  **Cronologia:** alcuni metri hanno subito determinate trasformazioni nel corso della storia. Ciò può essere utile per la datazione approssimativa di un testo. Si veda **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; idem: Zur Geschichte des Śloka. -- Entrambi ripubblicati in: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+3.  **Cronologia:** alcuni metri hanno subito determinate trasformazioni nel corso della storia. Ciò può essere utile per la datazione approssimativa di un testo. Si veda **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; idem: Zur Geschichte des Śloka. -- Entrambi ripubblicati in:
+**Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -637,7 +639,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Fonti**
 
-**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lezione 53 (Vacanze semestrali). -- Versione del 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lezione 53 (Vacanze semestrali). -- Versione del 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) &lt;!-- TODO: Fallback translation --&gt;
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  

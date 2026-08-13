@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 58
 
-## 58.1. Desinențele primare ale dualului (⟪द्विवचनम्⟫)
+## 58.1. Desinențele primare ale dualului (⟪द्विवचनम्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
@@ -31,7 +31,7 @@ status: stable
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
 
 ### 58.2.2. A patra clasă de prezente (⟪दिवादिगणः⟫)
 
@@ -184,7 +184,7 @@ Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5805))
 :::
-### 58.5.2. A treia clasă de prezent (⟪जुहोत्यादिगणः⟫)
+### 58.5.2. A treia clasă de prezent (⟪जुहोत्यादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪हु⟫ 3P "a turna în focul jertfei"
 
@@ -220,7 +220,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5807))
 :::
-### 58.5.4. A optulea clasă de prezente (⟪तनादिगणः⟫)
+### 58.5.4. A optulea clasă de prezente (⟪तनादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪तन्⟫ 8U "a întinde"
 
@@ -275,7 +275,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-Aorist
+## 58.6. Aorist 5: iṣ-Aorist <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Aoristul iṣ se formează de la toate rădăcinile seṭ, pentru care nu se învață explicit o altă formă a aoristului.**
@@ -295,7 +295,7 @@ Sufixul de formare a temei + terminațiile aoristului iṣ sunt, așadar:
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
 | **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(opțional după -h sau semivocală) |
-| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
+| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -303,26 +303,34 @@ Sufixul de formare a temei + terminațiile aoristului iṣ sunt, așadar:
 
 *   **Rădăcini cu vocală scurtă înainte de consoană simplă: gradul înalt în P și Ā**  
     Exemple:  
-    ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫  
-    ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+::: indent
+⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
+⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+:::
 
 *   **Rădăcini cu vocală finală:**
     *   **P: Gradul lung**
     *   **Ā: Gradul înalt**
 
     Exemple:  
-    ⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+::: indent
+⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+:::
 
 *   **Rădăcini pe -ar., -al, precum și ⟪वद्⟫ 1P "a spune", ⟪व्रज्⟫ 1P "a merge departe": P: Gradul lung**  
     Exemple:  
-    ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫  
-    ⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+::: indent
+⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫
+⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+:::
 
 *   **Alte rădăcini de forma (Consoană-)Consoană-a-Consoană: în P opțional gradul lung (nu se aplică pentru rădăcini pe -h, -m, -y, precum și pentru alte câteva rădăcini)**  
     Exemplu:  
-    ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
-    dar:  
-    ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+::: indent
+⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
+dar:
+⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+:::
 :::
 Paradigme:
 
@@ -360,16 +368,24 @@ Paradigme:
 **Particularități:**
 
 1.  La unele rădăcini, vocala de legătură -i- din ⟪आत्मनेपद⟫ poate fi înlocuită cu -ī-. După ⟪ग्रह्⟫ 9U "a prinde", această înlocuire trebuie să aibă loc în P și Ā:  
-    ⟪अग्र⟫**:sig[⟪ही⟫]**⟪षम्⟫ , ⟪अग्र⟫**:sig[⟪ही⟫]**⟪षि⟫
+::: indent
+⟪अग्र⟫**:sig[⟪ही⟫]**⟪षम्⟫ , ⟪अग्र⟫**:sig[⟪ही⟫]**⟪षि⟫
+:::
 
 2.  Rădăcinile celei de-a 8-a clase de prezent pe -n (sau -ṇ) pot fi în gradul scăzut la 2.3.sg.Ā:  
-    ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aorist al rădăcinii) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+::: indent
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aorist al rădăcinii) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+:::
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā și altele pot lua, în loc de 3.sg. Ā, și forma de pasivaorist:  
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
 4.  ⟪विज्⟫ 7P nu are ablaut:  
-    ⟪अविजीत्⟫
+::: indent
+⟪अविजीत्⟫
+:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

@@ -69,7 +69,7 @@ status: stable
 
 Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3)
 :::
-### 40.2.1. الماضي التام النوع الأول: لا يوجد تدرج جذري
+### 40.2.1. الماضي التام النوع الأول: لا يوجد تدرج جذري <!-- TODO: Fallback translation -->
 
 1.مفرد = 3.مفرد
 

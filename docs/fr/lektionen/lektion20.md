@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 20
+# Leçon 20
 
 ## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
 
@@ -210,7 +210,7 @@ Fig. : ⟪सपुत्रा⟫
 *   **les stems en -ī (f.) doivent prendre le suffixe -ka, -kā, -ka (n.) à la fin des Bahuvrīhis ; ce suffixe peut ou doit aussi être pris par de nombreux autres Bahuvrīhis**
 
 :::
-## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
+## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis <!-- TODO: Fallback translation -->
 
 Les exemples sont ici donnés pour un travail ultérieur ; pour certains, la grammaire et le vocabulaire nécessaires n'ont pas encore été abordés.
 

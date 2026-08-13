@@ -113,15 +113,19 @@ Figures Wayang, Java, Indonésie
 
 *   **des mots numéraux**  
     Exemples :  
-    ⟪एकशस्⟫ « un par un, chacun »  
-    ⟪द्विशस्⟫ « deux par deux, chacun deux »  
-    ⟪शतशस्⟫ « par centaines, chacun cent »
+::: indent
+⟪एकशस्⟫ « un par un, chacun »
+⟪द्विशस्⟫ « deux par deux, chacun deux »
+⟪शतशस्⟫ « par centaines, chacun cent »
+:::
 
 *   **d’autres mots**  
     Exemples :  
-    ⟪भागशस्⟫ « partie par partie »  
-    ⟪सर्वशस्⟫ « partout, absolument tous »  
-    ⟪नित्यशस्⟫ « constamment »
+::: indent
+⟪भागशस्⟫ « partie par partie »
+⟪सर्वशस्⟫ « partout, absolument tous »
+⟪नित्यशस्⟫ « constamment »
+:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -148,14 +152,18 @@ La terminaison du nom est traitée comme suit :
 
 *   **les terminaisons -a et -ā des mots déclinables sont remplacées par -ī**  
     Exemples :  
-    ⟪कृष्णीभवति⟫ « quelque chose qui n’est pas noir devient noir »  
-    ⟪कृष्णीकरोति⟫ « il rend noir quelque chose qui n’est pas noir »  
-    ⟪गङ्गीभवति⟫ « il/elle devient le Gange »  
+::: indent
+⟪कृष्णीभवति⟫ « quelque chose qui n’est pas noir devient noir »
+⟪कृष्णीकरोति⟫ « il rend noir quelque chose qui n’est pas noir »
+⟪गङ्गीभवति⟫ « il/elle devient le Gange »
+:::
 
 *   **les terminaisons -i et -u sont remplacées par la voyelle longue correspondante**  
     Exemples :  
-    ⟪शुचीभवति⟫ « il/elle/es devient pur »  
-    ⟪गुरूभवामि⟫ « je deviens maître »  
+::: indent
+⟪शुचीभवति⟫ « il/elle/es devient pur »
+⟪गुरूभवामि⟫ « je deviens maître »
+:::
 
 *   **la terminaison -ṛ est remplacée par --rī**  
     Par exemple, ⟪पित्रीभवति⟫ « celui qui n’est pas père (⟪पितृ⟫) devient père = un homme a son premier enfant »  
@@ -225,9 +233,11 @@ Exemple :
     par ex. ⟪पुनः⟫ ⟪पुनः⟫ « à plusieurs reprises »
 *   **La distribution**  
     Exemples :  
-    ⟪पृथक्पृथक्⟫ « chacun séparément, chacun individuellement »  
-    ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ « quoi que ... tout cela »  
-    ⟪युगे⟫ ⟪युगे⟫ « dans chaque âge du monde individuel »
+::: indent
+⟪पृथक्पृथक्⟫ « chacun séparément, chacun individuellement »
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ « quoi que ... tout cela »
+⟪युगे⟫ ⟪युगे⟫ « dans chaque âge du monde individuel »
+:::
 
 **Il est parfois possible de former un composé à partir de telles combinaisons**
 
@@ -283,7 +293,7 @@ Les autres adverbes numéraux jusqu'à 19 voir par ex. chez Kielhorn, Grammaire 
 Exemples :
 
 ::: indent
-20 ⟪विंशति⟩ f. :br
+20 ⟪विंशति⟩ f.
 30 ⟪त्रिंशत्⟩ f.
 :::
 
@@ -295,7 +305,7 @@ Exemples :
 Exemples :
 
 ::: indent
-100 ⟪शत⟩ n. :br
+100 ⟪शत⟩ n.
 1000 ⟪सहस्र⟩ n.
 :::
 Les substantifs numéraux individuels voir par ex. chez Kielhorn, Grammaire §201.
@@ -393,7 +403,9 @@ Les Sept Étoiles = les sept étoiles les plus brillantes de la Grande Ourse (Ur
 2.  le composé ainsi formé est utilisé dans un sens qui est autrement désigné par un suffixe Taddhita (dans ce type, la transition vers le Bahuvrīhi est fluide) :  
     Exemples :  
     dvi + go » :sig[⟪द्विगु⟫] : non : "deux vaches", mais : "**acquis pour deux vaches**"  
-    ⟪द्विवर्ष⟫ non : "deux ans", mais : "**âgé de deux ans**"  
+::: indent
+⟪द्विवर्ष⟫ non : "deux ans", mais : "**âgé de deux ans**"
+:::
 
 3.  le composé ainsi formé constitue le premier membre d'un autre composé  
     Exemple :  
@@ -788,7 +800,7 @@ Fig. : ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्
 
 **lekt5209 :** Défrichement par brûlis, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Source : parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Consulté le 2009-01-15. --  [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de modification)]
 
-**lekt5205:** [Source de l'image : Wikipedia. Domaine public]
+**lekt5205:** [Source de l'image : Wikipedia. Domaine public] <!-- TODO: Fallback translation -->
 
 **lekt5206:** Le Grand Chariot = les sept étoiles les plus brillantes de la Grande Ourse (Ursa maior) [Source de l'image : Wikipedia, licence GNU FDL]
 

@@ -58,7 +58,7 @@ last_reconstructed: 2026-05-15
 (चित्र स्रोत: [विवरण](/licenses#uebung078))
 ::::
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## ⟪⟪बाण⟫⟫ (⟪⟪७⟫⟫. शताब्दी ईस्वी): ⟪⟪कादम्बरी⟫⟫
 

@@ -92,7 +92,7 @@ outline: 2
 
 [**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-Τα Varṇas είναι, ως εκ τούτου, στάδια γέννησης.
+Τα Varṇas είναι, ως εκ τούτου, στάδια γέννησης. <!-- TODO: Fallback translation -->
 
 **kavi** αρσ. -- ⟪कवि⟫ : ποιητής.
 
@@ -381,7 +381,7 @@ outline: 2
 Στην Ινδία αποδόθηκε μαγική δύναμη στον αληθινό λόγο, και μάλιστα ολόκληρη η κοσμική τάση διατηρείται και δημιουργείται από τον αληθινό λόγο. Για αυτή την σημαντική έννοια, δείτε το θεμελιώδες έργο:
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Από το αρχείο, επιμ. Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Τόμος 2: Varuna und das Ṛta. -- 1959. -- XXIII σελ., σσ. 340 - 764
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1003.webp)
@@ -985,7 +985,7 @@ Badami (ಬದಾಮಿ)
 
 ⟪वा⟫ : ή
 
-⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.)
+⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2008.webp)
@@ -995,7 +995,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend
 
-⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8)
+⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
 
 ⟪कर⟫ m.: φόρος, τέλη, φορολογία (όχι προς ⟪कृ⟫, αλλά πιθανόν δάνειο από τα Ταμίλ - தமிழ்)
 
@@ -1517,7 +1517,10 @@ PPP ⟪वृद्ध⟫ : ενήλικας, ηλικιωμένος, αυξημ
 **⟪वस्⟫** 1P (⟪वसति⟫): παραμένω, κατοικώ (με δοτική του προσώπου, παρά στον οποίο κατοικεί κανείς)
 
 ::: indent
-**Μτπ. μέλλ.:** ⟪वत्स्यति⟫:br **Παθ.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Απαρ.:** ⟪वस्तुम्⟫
+**Μτπ. μέλλ.:** ⟪वत्स्यति⟫
+**Παθ.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Απαρ.:** ⟪वस्तुम्⟫
 :::
 από αυτό:
 
@@ -1531,7 +1534,9 @@ PPP ⟪वृद्ध⟫ : ενήλικας, ηλικιωμένος, αυξημ
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): ντύνω, φοράω (ρούχο)
 
 ::: indent
-**Μελλ.:** ⟪वसिष्यते⟫:br **ΑΡΚ:** ⟪वसित⟫:br **Άρ.:** ⟪वसितुम्⟫
+**Μελλ.:** ⟪वसिष्यते⟫
+**ΑΡΚ:** ⟪वसित⟫
+**Άρ.:** ⟪वसितुम्⟫
 :::
 από:
 
@@ -1560,7 +1565,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫): κρατώ, φέρω; παίρνω, αφαιρώ, αρπάζω
 
 ::: indent
-**Μελλ.:** ⟪हरिष्यति⟫:br **Παθ.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Απαρέμφ.:** ⟪हर्तुम्⟫
+**Μελλ.:** ⟪हरिष्यति⟫
+**Παθ.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Απαρέμφ.:** ⟪हर्तुम्⟫
 :::
 από αυτό:
 
@@ -1585,7 +1593,7 @@ Hari-hara (αριστερά: Viṣṇu, δεξιά: Śiva).
 Εικ.: ⟪हरिहरः⟫
 Hari-hara (αριστερά: Viṣṇu, δεξιά: Śiva). Godrumdwip, Δυτική Bengāl.
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt2705))
-:::
+::: <!-- TODO: Fallback translation -->
 
 
 ## Μάθημα 28
@@ -1986,12 +1994,12 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫:br
-⟪श्रम्यते⟫:br
-⟪श्रमयति⟫:br
-⟪श्रान्त⟫:br
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
--⟪श्रम्य⟫:br
+⟪श्रमिष्यते⟫
+⟪श्रम्यते⟫
+⟪श्रमयति⟫
+⟪श्रान्त⟫
+⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
+-⟪श्रम्य⟫
 ⟪श्रमितुम्⟫
 :::
 ⟪पार्श्व⟫
@@ -2014,20 +2022,20 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪रुह्⟫ ⟪रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫:br
-⟪रुह्यते⟫:br
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-:sig[⟪रूढ⟫]:br
--⟪रुह्य⟫:br
+⟪रोक्ष्यति⟫
+⟪रुह्यते⟫
+⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
+:sig[⟪रूढ⟫]
+-⟪रुह्य⟫
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!):br
-⟪गृह्यते⟫:br
-⟪ग्राहयति⟫:br
-⟪गृहीत⟫:br
--⟪गृह्य⟫:br
+⟪ग्रहीष्यति⟫ (!)
+⟪गृह्यते⟫
+⟪ग्राहयति⟫
+⟪गृहीत⟫
+-⟪गृह्य⟫
 ⟪ग्रहीतुम्⟫ (!)
 :::
 **⟪वानर⟫ ⟪कपि⟫**
@@ -2040,10 +2048,10 @@ Aus einem Prajñāpāramitā-Manuskript.
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫:br
-⟪लोक्यते⟫:br
-⟪लोकित⟫:br
--⟪लोक्य⟫:br
+⟪लोकयिष्यति⟫
+⟪लोक्यते⟫
+⟪लोकित⟫
+-⟪लोक्य⟫
 ⟪लोकितुम्⟫
 :::
 ⟪प्रहर्ष⟫
@@ -2068,20 +2076,20 @@ Aus einem Prajñāpāramitā-Manuskript.
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫:br
-⟪क्षिप्यते⟫:br
-⟪क्षेपयति⟫:br
-⟪क्षिप्त⟫:br
--⟪क्षिप्य⟫:br
+⟪क्षेप्स्यति⟫
+⟪क्षिप्यते⟫
+⟪क्षेपयति⟫
+⟪क्षिप्त⟫
+-⟪क्षिप्य⟫
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫:br
-⟪चीयते⟫:br
-⟪चाययति⟫:br
-⟪चित⟫:br
--⟪चित्य⟫:br
+⟪चेष्यति⟫
+⟪चीयते⟫
+⟪चाययति⟫
+⟪चित⟫
+-⟪चित्य⟫
 ⟪चेतुम्⟫
 :::
 ::: media
@@ -2342,21 +2350,21 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : χάνομαι, καταστρέφομαι, εξαφανίζομαι
 ::: indent
-**Περφ. Ρήμα ⟪ननाश⟫, ⟪नेशुर्⟫** :br
-**Μέλλ. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
-**Αιτιτ. ⟪नाशयति⟫** :br
+**Περφ. Ρήμα ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Μέλλ. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Αιτιτ. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : εξαφανίζομαι, χάνομαι, καταστρέφομαι
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : προχωρώ, πηγαίνω
 ::: indent
-**Περφ. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
-**Μέλλ. ⟪क्रमिष्यति⟫** :br
-**Παθ. ⟪क्रम्यते⟫** :br
-**Αιτιτ. ⟪क्रमयति⟫** :br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫** :br
-**Αρ. ⟪क्रमितुम्⟫** :br
+**Περφ. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Μέλλ. ⟪क्रमिष्यति⟫**
+**Παθ. ⟪क्रम्यते⟫**
+**Αιτιτ. ⟪क्रमयति⟫**
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
+**Αρ. ⟪क्रमितुम्⟫**
 **Αποσ. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
@@ -2367,11 +2375,11 @@ People walking, Senegal.
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): τραγουδώ, αναγιγνώσκω με ύμνο, ανακοινώσω σε στίχους
 ::: indent
-**Περφ. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
-**Μέλλ. ⟪गास्यति⟫** :br
-**Παθ. ⟪गीयते⟫** :br
-**Αιτιτ. ⟪गापयति⟫** :br
-**PPP ⟪गीत⟫** :br
+**Περφ. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Μέλλ. ⟪गास्यति⟫**
+**Παθ. ⟪गीयते⟫**
+**Αιτιτ. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Αρ. ⟪गातुम्⟫**
 
 από τα οποία:
@@ -3544,7 +3552,7 @@ PPP ⟪परिभूत⟫ 3: νικημένος, ταπεινωμένος, ε
 Εικ.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt4802))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4803.webp)
@@ -4348,43 +4356,43 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 
 
-**lekt0201**: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts). Beschriftung: * Priesterstand (~Brāhmaṇa): Tu supplex ora = Du bete flehend! * Adelsstand (~Kṣatriya): Tu protege = Du schütze! * Bauernstand (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! Die drei Stände tragen die jeweilige Standestracht. Über den - damit als gottgewollt bezeichneten - Ständen trohnt Christus. [Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129]
+**lekt0201**: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts). Beschriftung: * Priesterstand (~Brāhmaṇa): Tu supplex ora = Du bete flehend! * Adelsstand (~Kṣatriya): Tu protege = Du schütze! * Bauernstand (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! Die drei Stände tragen die jeweilige Standestracht. Über den - damit als gottgewollt bezeichneten - Ständen trohnt Christus. [Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129] <!-- TODO: Fallback translation -->
 
-**lekt0203**: Gott Agni, Miniatur, 18. Jhdt [Bildquelle: Wikipedia, Public domain]
+**lekt0203**: Gott Agni, Miniatur, 18. Jhdt [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
-**lekt0202**: Sādhu (⟪साधु⟫), Pashupatinath Tempel (⟪पशुपतिनाथ⟫ ⟪मन्दिर⟫), Kathmandu (⟪काठमांडौ⟫), Nepal (⟪नेपाल⟫), 2007 [Bildquelle: Peter Akkermans, Wikipedia, GNU FDLizenz]
+**lekt0202**: Sādhu (⟪साधु⟫), Pashupatinath Tempel (⟪पशुपतिनाथ⟫ ⟪मन्दिर⟫), Kathmandu (⟪काठमांडौ⟫), Nepal (⟪नेपाल⟫), 2007 [Bildquelle: Peter Akkermans, Wikipedia, GNU FDLizenz] <!-- TODO: Fallback translation -->
 
-**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Bildquelle: Wikipedia, GNU FDLizenz]
+**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Bildquelle: Wikipedia, GNU FDLizenz] <!-- TODO: Fallback translation -->
 
-**lekt0501**: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt. [Bildquelle: Wikipedia, Public domain]
+**lekt0501**: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
-**lekt0701**: War das die vedische Somapflanze?: Fliegenpilz: Amanita muscaria (L.) Lam. [Bildquelle: Wikipedia, GNU FDLizenz]
+**lekt0701**: War das die vedische Somapflanze?: Fliegenpilz: Amanita muscaria (L.) Lam. [Bildquelle: Wikipedia, GNU FDLizenz] <!-- TODO: Fallback translation -->
 
-**lekt0809**: ⟪लिख्⟫ : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
+**lekt0809**: ⟪लिख्⟫ : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei] <!-- TODO: Fallback translation -->
 
-**lekt0810**: ⟪लिख्⟫ : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
+**lekt0810**: ⟪लिख्⟫ : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei] <!-- TODO: Fallback translation -->
 
-**lekt0903**: adhyayana = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai [Bildquelle: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
+**lekt0903**: adhyayana = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai [Bildquelle: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
-**lekt0902**: kāru = ⟪कारु⟫, Gujarat [Bildquelle: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt0902**: kāru = ⟪कारु⟫, Gujarat [Bildquelle: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
-**lekt1003**: Gott Varuṇa = ⟪वरुण⟫, 17. Jhdt. [Bildquelle. Wikipedia, Public domain]
+**lekt1003**: Gott Varuṇa = ⟪वरुण⟫, 17. Jhdt. [Bildquelle. Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
-**lekt1002**: Ein Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / von Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \<1848 - 1906\> [Bildquelle: Wikipedia, Public domain]
+**lekt1002**: Ein Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / von Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \<1848 - 1906\> [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
-**lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Bildquelle: Prakash Subbarao / Wikipedia. -- Public domain]
+**lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Bildquelle: Prakash Subbarao / Wikipedia. -- Public domain] <!-- TODO: Fallback translation -->
 
-**lekt1304**: ⟪अन्नम्⟫, Karnataka (ಕರ್ನಾಟಕ), 2005 [Bildquelle: Wikipedia, Public domain]
+**lekt1304**: ⟪अन्नम्⟫, Karnataka (ಕರ್ನಾಟಕ), 2005 [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
-**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Bildquelle: Wikipedia, GNU FDLicense]
+**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Bildquelle: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt1405**: ⟪दीपाः⟫ [Bildquelle: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Zugriff am 2008-12-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt1405**: ⟪दीपाः⟫ [Bildquelle: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Zugriff am 2008-12-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
 **lekt1504**: ⟪पूजा⟫ A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India, at the start of a seismic survey contract. [Bildquelle: Wikiepdia, Public domain]
 
 **lekt1505**: Indra and Sachi Riding the Divine Elephant Airavata, Folio from a Panchakalyanaka (Five Auspicious Events in the Life of Jina Rishabhanatha [Adinatha]), circa 1670-1680 Painting; Watercolor, Opaque watercolor, gold, and silver on paper, Image: 9 1/8 x 15 1/8 in. (23.18 x 38.42 cm); Sheet: 10 5/8 x 16 3/4 in. (26.99 x 42.55 cm. Made in: India, Rajasthan, Amber [Bildquelle: Wikipedia, Public domain]
 
-**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Bildquelle: Wikipedia, GNU FDLicense]
+**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Bildquelle: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain]
 
@@ -4394,15 +4402,15 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt1603**: ⟪अहिंसा⟫ «Το χέρι με τον τροχό στην παλάμα συμβολίζει την Τάση της Αहिμσάς των Ινδουιστών. Η λέξη στο κέντρο είναι "ahimsa". Ο τροχός αντιπροσωπεύει το dharmacakra, που συμβολίζει την απόφαση να σταματήσει ο κύκλος της μετενσάρκωσης μέσω της αδιάλειπτης αναζήτησης της αλήθειας και της μη βίας.» [Πηγή εικόνας: Wikipedia, Δημόσιο Τομέα]
 
-**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Πρόσβαση στις 07-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
+**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Πρόσβαση στις 07-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 **lekt1701**: ⟪योगासनम्⟫ [Πηγή εικόνας: από tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Πρόσβαση στις 07-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, απαγόρευση τροποποίησης)]
 
 **lekt1702**: ⟪दोग्धि⟫ [Πηγή εικόνας: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Πρόσβαση στις 07-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)]
 
-**lekt1809**: ⟪कामः⟫ Illustration zum ⟪कामसूत्र⟫ [Bildquelle: Wikipedia, Public domain]
+**lekt1809**: ⟪कामः⟫ Illustration zum ⟪कामसूत्र⟫ [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
-**lekt1901**: ⟪गर्भगृहम्⟫ Badami (ಬದಾಮಿ) [Πηγή εικόνας: Sudarshan Bhat Khandige / Wikipedia, Δημόσιος τομέας]
+**lekt1901**: ⟪गर्भगृहम्⟫ Badami (ಬದಾಮಿ) [Πηγή εικόνας: Sudarshan Bhat Khandige / Wikipedia, Δημόσιος τομέας] <!-- TODO: Fallback translation -->
 
 **lekt1902**: ⟪वारिदः⟫ Goa (⟪गोंय⟫) [Πηγή εικόνας: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Πρόσβαση στις 2008-12-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση εξαγωγής)]
 
@@ -4426,7 +4434,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt2405**: ⟪अलंकारः⟫ [Πηγή εικόνας: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Πρόσβαση στις 14-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση τροποποίησης)]
 
-**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Πηγή εικόνας: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Πρόσβαση στις 14-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
+**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Πηγή εικόνας: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Πρόσβαση στις 14-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 **lekt2407**: ⟪ऊहापोहः⟫ "NEW DELHI/INDIA, 16NOV08 - Η Suhasini Haidar, Αναπληρώτρια Διευθύνουσα Σύμβουλος Εξωτερικών Ειδήσεων του δικτύου CNN-IBN 18, India, διευθύνει μια συζήτηση σε πάνελ στο Ινδικό Οικονομικό Σύνοδο 2008 του Παγκόσμιου Οικονομικού Φόρουμ στη Νέα Δελχί." [Πηγή εικόνας: Παγκόσμιο Οικονομικό Φόρουμ / Φωτογραφία από Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Πρόσβαση στις 14-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, ομοίως άδεια)]
 
@@ -4434,21 +4442,21 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt2411**: ⟪जयदेवकविर्विष्णुं⟫ Χειρόγραφο του ⟪गीतगोविन्द⟫, 1730 μ.Χ. [Πηγή εικόνας: Wikipedia, Δημόσιοι χώροι]
 
-**lekt2501**: ⟪धान्यम्⟫ Khanna [Bildquelle: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
+**lekt2501**: ⟪धान्यम्⟫ Khanna [Bildquelle: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
 
-**lekt2502**: ⟪मूलानि⟫ Varanasi [Bildquelle: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+**lekt2502**: ⟪मूलानि⟫ Varanasi [Bildquelle: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt2503**: ⟪लिप्तिः⟫ Jaina-Manuskript [Bildquelle: Wikipedia, Public domain]
+**lekt2503**: ⟪लिप्तिः⟫ Jaina-Manuskript [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
-**lekt2504**: ⟪विवाहः⟫ ⟪मुंबई⟫ [Bildquelle: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt2504**: ⟪विवाहः⟫ ⟪मुंबई⟫ [Bildquelle: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
-**lekt2505**: ⟪विष्टिः⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt2505**: ⟪विष्टिः⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
-**lekt2506**: ⟪हिरण्यम्⟫ Chennai = சென்னை [Bildquelle: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
+**lekt2506**: ⟪हिरण्यम्⟫ Chennai = சென்னை [Bildquelle: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
 
 **lekt2706**: ⟪वस्त्राणि⟫ Βαστράνι. Μάτζουλι, Άσαμ. [Πηγή εικόνας: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
 
-**lekt2707**: ⟪वसन्तः⟫ Βασάντα (Schleichera oleosa), Κοπόλι, Μαχαράστρα, 2007-04-07. [Πηγή εικόνας: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
+**lekt2707**: ⟪वसन्तः⟫ Βασάντα (Schleichera oleosa), Κοπόλι, Μαχαράστρα, 2007-04-07. [Πηγή εικόνας: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND] <!-- TODO: Fallback translation -->
 
 **lekt2704**: ⟪हरिहरः⟫ Χάριχαρα (αριστερά: Βισνού, δεξιά: Σίβα). [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
 
@@ -4462,17 +4470,17 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt2903**: ⟪परिव्राजकाः⟫ Pushkar = ⟪पुष्कर⟫ [Πηγή εικόνας: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Πρόσβαση στις 20-12-2008. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Παρόμοια Διανομή)]
 
-**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Πηγή εικόνας: Khalid Mahmood / Wikipedia. Άδεια GNU FDLicense]
+**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Πηγή εικόνας: Khalid Mahmood / Wikipedia. Άδεια GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt3001**: ⟪क्रीणन्ति⟫ Μπάντι = ⟪बुन्दी⟫, Ρατζαστάν = ⟪राजस्थान⟫ [Πηγή εικόνας: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση τροποποιήσεων)]
 
 **lekt3002**: ⟪ज्ञातयः⟫ Νταρέβαντι, Περιοχή Άχμεντναγκάρ = ⟪अहमदनगर⟫, Μαχαράστρα = ⟪महाराष्ट्र⟫ [Πηγή εικόνας: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, ομοίως άδεια)]
 
-**lekt3003**: ⟪श्रोत्राणि⟫ [Πηγή εικόνας: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, ομοίως άδεια)]
+**lekt3003**: ⟪श्रोत्राणि⟫ [Πηγή εικόνας: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, ομοίως άδεια)] <!-- TODO: Fallback translation -->
 
 **lekt3005**: ⟪अश्नीयात्⟫ ⟪थाली⟫, Νότια Ινδία [Πηγή εικόνας: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, ομοίως άδεια)]
 
-**lekt3004**: ⟪प्रिया⟫ [Πηγή εικόνας: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, ομοίως άδεια)]
+**lekt3004**: ⟪प्रिया⟫ [Πηγή εικόνας: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, ομοίως άδεια)] <!-- TODO: Fallback translation -->
 
 **lekt2904**: ⟪पुनर्भवः⟫ [Bildquelle: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
 
@@ -4482,9 +4490,9 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt3103**: Από ένα χειρόγραφο Πραγιάπαραμίτα. [Πηγή εικόνας: zeno.org. Δημόσιος τομέας]
 
-**lekt3202**: ⟪चूतः⟫ ⟪कानपुर⟫, / کان پور [Bildquelle: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Namensnennung, share alike)]
+**lekt3202**: ⟪चूतः⟫ ⟪कानपुर⟫, / کان پور [Bildquelle: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [Bildquelle: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+**lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [Bildquelle: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt3204**: ⟪उपलाः⟫ Δένδρο μάνγκο, Καμπούρ. [Πηγή εικόνας: AmarChandra / Wikipedia. CC BY-SA]
 
@@ -4496,15 +4504,15 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt3306**: ⟪दानम्⟫ "On August 20th, 2005 in Chennai, India my soon to be in-laws gave us a formal Indian engagement party. It looks like it was a wedding but it wasn't, it's how they do things. Very extravagate. This event was a huge blessing for me. I have never felt so love by another family. I only wish my family could have been there but at least I have a video of the whole thing to share. My soon to be in-laws made the whole thing happen in 3 days. Everything between invitations to a hired photographer. It was fantastic, beyond words can explain the emotions flowing." [Quelle von Bild und Text: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, share alike)]
 
-**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
-**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]
+**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt3304**: ⟪भयम्⟫ Mumbai = ⟪मुंबई⟫, 2008 [Bildquelle: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung)]
+**lekt3304**: ⟪भयम्⟫ Mumbai = ⟪मुंबई⟫, 2008 [Bildquelle: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
 
-**lekt3303**: ⟪हीनयानमेव⟫ Thailand [Bildquelle: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt3303**: ⟪हीनयानमेव⟫ Thailand [Bildquelle: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
-**lekt3302**: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫ ⟪यज्ञ⟫ im Shiva ashram, Kothavala, Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt [Bildquelle: Dey. -- http://www.flickr.com/photos/dey/466758922/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+**lekt3302**: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫ ⟪यज्ञ⟫ im Shiva ashram, Kothavala, Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt [Bildquelle: Dey. -- http://www.flickr.com/photos/dey/466758922/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt3308**: ⟪घृतम्⟫ [Bildquelle: Wikipedia. GNU FDLicense] "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk." [Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
 
@@ -4524,57 +4532,57 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt3501**: ⟪जगुः⟫ Ιερά μουσικοί, Ναός Kaadu Malleswara, Μπανγκαλόρ. [Πηγή εικόνας: Samuelraj / Flickr. CC BY-NC]
 
-**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
-**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Bildquelle: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, shere alike)]
+**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Bildquelle: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, shere alike)] <!-- TODO: Fallback translation -->
 
-**lekt3603**: ⟪अनगार्यम्⟫ Nordostthailand = อีสาน [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt3603**: ⟪अनगार्यम्⟫ Nordostthailand = อีสาน [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
 **lekt3606**: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्शमुद्रा⟫ [Bildquelle: Payer]
 
-**lekt3604**: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. Körperhaar) [Bildquelle: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Zugriff am 2008-12-29. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt3604**: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. Körperhaar) [Bildquelle: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Zugriff am 2008-12-29. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
-**lekt3705**: ⟪शाक्यमुनिः⟫ Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [Bildquelle: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt3705**: ⟪शाक्यमुनिः⟫ Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [Bildquelle: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
-**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [Bildquelle: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [Bildquelle: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ [Bildquelle: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ [Bildquelle: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
-**lekt3805**: ⟪उदकम्⟫ Darewadi village, Ahmed Nagar District = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [Bildquelle: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+**lekt3805**: ⟪उदकम्⟫ Darewadi village, Ahmed Nagar District = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [Bildquelle: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, 2./3. Jhdt. n. Chr. [Bildquelle: Wikipedia. Public domain]
+**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, 2./3. Jhdt. n. Chr. [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
 
-**lekt3809**: ⟪ब्रह्मा⟫ Halebidu = ಹಳೆಬೀಡು [Bildquelle: Wikipedia. GNU FDLicense]
+**lekt3809**: ⟪ब्रह्मा⟫ Halebidu = ಹಳೆಬೀಡು [Bildquelle: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense]
+**lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt3811**: ⟪अशोकः⟫ Grösste Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte [Bildquelle: Wikipedia.GNU FDLicense]
+**lekt3811**: ⟪अशोकः⟫ Grösste Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte [Bildquelle: Wikipedia.GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt3812**: ⟪विनोदः⟫ Carrom-Spiel [Bildquelle: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+**lekt3812**: ⟪विनोदः⟫ Carrom-Spiel [Bildquelle: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt3813**: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ [Bildquelle: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt3813**: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ [Bildquelle: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
-**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Bildquelle: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Bildquelle: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
-**lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)]
+**lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
 
-**lekt4002**: ⟪तीर्थङ्करः⟫ [Bildquelle: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt4002**: ⟪तीर्थङ्करः⟫ [Bildquelle: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
 **lekt4001**: ⟪विष्णोर्दशावताराः⟫ Im Uhrzeigersinn: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪प्रशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, in der Mitte: ⟪कृष्ण⟫ [Bildquelle: Wikipedia. Public domain]
 
-**lekt4004**: ⟪स्वपन्ति⟫ Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt4004**: ⟪स्वपन्ति⟫ Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
 **lekt4105**: ⟪भुजङ्गः⟫ Banded Krait (_Bungarus fasciatus_) [Bildquelle: J. Ewart. The poisonous snakes of India, 1878. Public domain]
 
-**lekt4104**: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫ Melken von Schlangengift (Krait), Thailand [Bildquelle: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung)]
+**lekt4104**: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫ Melken von Schlangengift (Krait), Thailand [Bildquelle: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
 
-**lekt4109**: ⟪शासना⟫ Ashoka-Edikt, Dhauli, Orissa [Bildquelle: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt4109**: ⟪शासना⟫ Ashoka-Edikt, Dhauli, Orissa [Bildquelle: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
-**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), ca. 1898 [Bildquelle: Wikipedia. Public domain]
+**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), ca. 1898 [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
 
-**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. [Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
+**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. [Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt4302**: ⟪आपणः⟫ .jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Πρόσβαση στις 2009-01-06. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση)
+**lekt4302**: ⟪आपणः⟫ .jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Πρόσβαση στις 2009-01-06. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση) <!-- TODO: Fallback translation -->
 
 **lekt4303**: ⟪पण्यानि⟫ .jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Πρόσβαση στις 2009-01-06. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση)
 
@@ -4586,53 +4594,53 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt4307**: ⟪तोलन्ति⟫ .jpg**: Ray Witlin / Παγκόσμιος Τράπεζα. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Πρόσβαση στις 2009-01-06. -- Άδεια Creative Commons (Αναφορά, Μη Εμπορική Χρήση, Όχι Παράγωγα Έργα)
 
-**lekt4403**: ⟪रेल्यानम्⟫ .jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγές)
+**lekt4403**: ⟪रेल्यानम्⟫ .jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγές) <!-- TODO: Fallback translation -->
 
-**lekt4404**: ⟪योगी⟫ .jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Παρόμοια Διανομή)
+**lekt4404**: ⟪योगी⟫ .jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Παρόμοια Διανομή) <!-- TODO: Fallback translation -->
 
-**lekt4405**: ⟪नन्दी⟫ .jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση)
+**lekt4405**: ⟪नन्दी⟫ .jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση) <!-- TODO: Fallback translation -->
 
-**lekt4406**: ⟪आयतो⟫ .jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση)
+**lekt4406**: ⟪आयतो⟫ .jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση) <!-- TODO: Fallback translation -->
 
 **lekt4407**: ⟪यत्नेन⟫ .jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Παρόμοια Διανομή)
 
 **lekt4408**: ⟪प्रव्रज्या⟫ .jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Όχι Παράγωγα Έργα)
 
-**lekt4602**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+**lekt4602**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt4603**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+**lekt4603**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt4604**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+**lekt4604**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt4605**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+**lekt4605**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = oberster Schlangenkönig) [Bildquelle: Wikipedia. Public domain]
+**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = oberster Schlangenkönig) [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
 
-**lekt4606**: ⟪अश्वरोहकः⟫ Pune = ⟪पुणे⟫ [Bildquelle: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung)]
+**lekt4606**: ⟪अश्वरोहकः⟫ Pune = ⟪पुणे⟫ [Bildquelle: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
 
-**lekt4608**: ⟪महामात्रः⟫ ⟪उदयपुर⟫ [Bildquelle: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt4608**: ⟪महामात्रः⟫ ⟪उदयपुर⟫ [Bildquelle: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
-**lekt4609**: ⟪श्रान्तः⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt4609**: ⟪श्रान्तः⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
-**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [Bildquelle: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [Bildquelle: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
-**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
-**lekt4611**: ⟪भोः⟫ Kutch = ⟪कच्छ⟫ [Bildquelle: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt4611**: ⟪भोः⟫ Kutch = ⟪कच्छ⟫ [Bildquelle: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
-**lekt4802**: ⟪तन्त्रम्⟫ Sualkuchi = সুৱালকুচি, Assam = অসম [Πηγή εικόνας: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Πρόσβαση στις 10-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)]
+**lekt4802**: ⟪तन्त्रम्⟫ Sualkuchi = সুৱালকুচি, Assam = অসম [Πηγή εικόνας: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Πρόσβαση στις 10-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)] <!-- TODO: Fallback translation -->
 
 **lekt4803**: ⟪तन्त्री⟫ Παίχτης sitar = ⟪सितारवादकः⟫ [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
 
 **lekt4804**: ⟪स्वतन्त्राः⟫ [Ομάδα αυτοβοήθειας (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Πηγή εικόνας: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Πρόσβαση στις 10-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση)]
 
-**lekt4805**: ⟪कुमारः⟫ Φεστιβάλ Thaipusam = தைப்பூசம், Batu Caves, Μαλαισία [Πηγή εικόνας: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Πρόσβαση στις 2009-01-10. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)]
+**lekt4805**: ⟪कुमारः⟫ Φεστιβάλ Thaipusam = தைப்பூசம், Batu Caves, Μαλαισία [Πηγή εικόνας: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Πρόσβαση στις 2009-01-10. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)] <!-- TODO: Fallback translation -->
 
 **lekt4806**: ⟪कुमारी⟫ ⟪नेपाल⟫ [Πηγή εικόνας: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Πρόσβαση στις 2009-01-10. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση εξαγωγικών έργων)]
 
 **lekt4807**: ⟪स्थविराः⟫ ⟪जोधपुर⟫ [Πηγή εικόνας: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Πρόσβαση στις 2009-01-10. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση εξαγωγικών έργων)]
 
-**lekt4808**: ⟪सूक्ष्मम्⟫ Λίμνη Karanji = ಕಾರಂಜಿ ಕೆರೆ [Πηγή εικόνας: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Πρόσβαση στις 2009-01-10. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Αναφορά δημιουργού, κοινόχρηστο)]
+**lekt4808**: ⟪सूक्ष्मम्⟫ Λίμνη Karanji = ಕಾರಂಜಿ ಕೆರೆ [Πηγή εικόνας: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Πρόσβαση στις 2009-01-10. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Αναφορά δημιουργού, κοινόχρηστο)] <!-- TODO: Fallback translation -->
 
 **lekt4809**: ⟪जाया⟫ (Εικόνα: Payer)
 
@@ -4654,15 +4662,15 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt5002**: ⟪महामेघो⟫ Άφιξη του μουσώνα, Μπανγκαλόρ ಬೆಂಗಳೂರು [Πηγή εικόνας: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Πρόσβαση στις 12-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγές)]
 
-**lekt5005**: ⟪आदित्यः⟫ [Πηγή εικόνας: sunder_iyer. -- [http://www.flickr.com/photos/sunder_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Πρόσβαση στις 12-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Αναφορά δημιουργού, ομοίως άδεια)]
+**lekt5005**: ⟪आदित्यः⟫ [Πηγή εικόνας: sunder_iyer. -- [http://www.flickr.com/photos/sunder_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Πρόσβαση στις 12-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Αναφορά δημιουργού, ομοίως άδεια)] <!-- TODO: Fallback translation -->
 
 **lekt5003**: ⟪कल्याणी⟫ [Πηγή εικόνας: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Πρόσβαση στις 12-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγές)]
 
-**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [Πηγή εικόνας: Kounosu / Wikipedia. Άδεια GNU FDLicense]
+**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [Πηγή εικόνας: Kounosu / Wikipedia. Άδεια GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt5105**: ⟪कृष्णमृगः⟫ [Πηγή εικόνας: Wikipedia, δημόσιο πεδίο]
 
-**lekt5106**: ⟪ऋतुः⟫ "Graphische Darstellung für die Berechnung der fruchtbaren Tage nach OGINO bei 26- bis 30tägigen Zyklusintervallen... [Quelle für Text und Bild: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Zugriff am 2003-12-16]
+**lekt5106**: ⟪ऋतुः⟫ "Graphische Darstellung für die Berechnung der fruchtbaren Tage nach OGINO bei 26- bis 30tägigen Zyklusintervallen... [Quelle für Text und Bild: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Zugriff am 2003-12-16] <!-- TODO: Fallback translation -->
 
 **lekt5107**: ⟪जटा⟫ ⟪ऋषिकेश⟫ [Πηγή εικόνας: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, κοινό κτήμα)]
 
@@ -4670,17 +4678,17 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt5109**: ⟪मधु⟫ Παλάτι της Πόλης, ⟪उदयपुर⟫ [Πηγή εικόνας: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, κοινό κτήμα)]
 
-**lekt5110**: ⟪मृगया⟫ Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Bildquelle: Wikipedia. Public domain]
+**lekt5110**: ⟪मृगया⟫ Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
 
-**lekt5111**: ⟪शिवा⟫ _Canis aureus_, Kalatop Khajjiar Sanctuary [Bildquelle: gautamnguitar. -- http://www.flickr.com/photos/gautamnguitar/2181211040/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt5111**: ⟪शिवा⟫ _Canis aureus_, Kalatop Khajjiar Sanctuary [Bildquelle: gautamnguitar. -- http://www.flickr.com/photos/gautamnguitar/2181211040/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
 
 **lekt5112**: ⟪कौशिकः⟫ Κυνηγητό με ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Γκουτζαράτ = ગુજરાત, 1812 [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
 
 **lekt5113**: ⟪श्वा⟫ _Canis aureus_, Καλατόπ Κχατζιάρ Σάνκτουαρι [Πηγή εικόνας: gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
 
-**lekt5114**: ⟪आपानकम्⟫ Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Πηγή εικόνας: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
+**lekt5114**: ⟪आपानकम्⟫ Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Πηγή εικόνας: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)] <!-- TODO: Fallback translation -->
 
-**lekt5115**: ⟪मूषिकाविषाणि⟫ Καρνάτακα = ಕರ್ನಾಟಕ [Πηγή εικόνας: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Αναφορά, μη εμπορική χρήση)]
+**lekt5115**: ⟪मूषिकाविषाणि⟫ Καρνάτακα = ಕರ್ನಾಟಕ [Πηγή εικόνας: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Αναφορά, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 **lekt5116**: ⟪भुजङ्गः⟫ Αλυσοειδής αγκαθόφιδος (_Daboia russelii_), Μπανγκαλόρ = ಬೆಂಗಳೂರು [πηγή εικόνας: teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/). -- Πρόσβαση στις 13-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ομοίως άδεια)]
 
@@ -4688,11 +4696,11 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt5117**: ⟪मदः⟫ [Πηγή εικόνας: muzina_shanghai. -- [http://www.flickr.com/photos/muzina_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/). -- Πρόσβαση στις 13-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)]
 
-**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Πηγή εικόνας: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά πηγής)]
+**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Πηγή εικόνας: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά πηγής)] <!-- TODO: Fallback translation -->
 
 **lekt5212**: ⟪पीडिताः⟫ Χαϊντεραμπάντ = హైదరాబాద్ [Πηγή εικόνας: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαλλαγές)]
 
-**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [Πηγή εικόνας: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Αναφορά δημιουργού, χωρίς εξαλλαγές)]
+**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [Πηγή εικόνας: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Αναφορά δημιουργού, χωρίς εξαλλαγές)] <!-- TODO: Fallback translation -->
 
 **lekt5214**: ⟪चक्रम्⟫ Κοναρκ = ⟪कोनार्क⟫ [Πηγή εικόνας: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαλλαγές)]
 

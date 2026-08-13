@@ -63,7 +63,7 @@ last_reconstructed: 2026-05-07
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **இவற்றுள் சில உருவாக்கங்கள் குறிப்பிட்ட பொருளைக் கொண்டுள்ளன: "மூலத்தால் வெளிப்படுத்தப்படும் பழக்கவழக்கமாகவோ கடமையாகவோ நன்மையாகவோ செயல்படுத்துபவர்".**
@@ -76,7 +76,7 @@ last_reconstructed: 2026-05-07
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" | <!-- TODO: Fallback translation -->
 
 அதற்கு அப்பால், **-aka** என்ற பின்னொற்றின் சில குறைவான முக்கியத்துவம் வாய்ந்த பயன்பாடுகளும் உள்ளன. வாகர்நாகல், ஆலந்திந்திய இலக்கணம், II, §45ff. ஐப் பார்க்கவும்.
 

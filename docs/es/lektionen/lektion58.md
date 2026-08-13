@@ -29,9 +29,9 @@ Ante -vas y -vahe, la vocal temática -a- se reemplaza por -ā-.
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
-| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
-| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \&lt;⟪भवावहे⟫\&gt; |
+| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \&lt;⟪भवेथे⟫\&gt;:brbhav-a + īthe |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \&lt;⟪भवेते⟫\&gt; | &lt;!-- TODO: Fallback translation --&gt;
 
 ### 58.2.2. Cuarta clase de presente (⟪दिवादिगणः⟫)
 
@@ -191,9 +191,9 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \<⟪जुहुवहे⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \&lt;⟪जुहुवहे⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \&lt;⟪जुह्वाथे⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \&lt;⟪जुह्वाते⟫\&gt; |
 :::
 ⟪धा⟫ 3U "colocar, poner, situar"
 
@@ -275,7 +275,7 @@ Pune
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5801))
 :::
-## 58.6. Aoristo 5: Aoristo iṣ
+## 58.6. Aoristo 5: Aoristo iṣ &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **El aoristo iṣ se forma a partir de todas las raíces seṭ para las cuales no se enseña explícitamente únicamente otra forma de aoristo.**
@@ -303,26 +303,34 @@ El sufijo de formación de la base + las terminaciones del aoristo iṣ son, por
 
 *   **Raíces con vocal breve antes de consonante simple: grado fuerte en P y Ā**  
     Ejemplos:  
-    ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫  
-    ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+::: indent
+⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
+⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+:::
 
 *   **Raíces con vocal final:**
     *   **P: grado alargado**
     *   **Ā: grado fuerte**
 
     Ejemplos:  
-    ⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+::: indent
+⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+:::
 
 *   **Raíces en -ar., -al, así como ⟪वद्⟫ 1P "decir", ⟪व्रज्⟫ 1P "irse": P: grado alargado**  
     Ejemplos:  
-    ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫  
-    ⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+::: indent
+⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫
+⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+:::
 
 *   **Otras raíces de la forma (Cons.-)Cons.-a-Cons.: en P opcionalmente grado alargado (no se aplica a raíces en -h, -m, -y, ni a algunas otras raíces)**  
     Ejemplo:  
-    ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
-    pero:  
-    ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+::: indent
+⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
+pero:
+⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+:::
 :::
 Paradigmas:
 
@@ -360,16 +368,24 @@ Paradigmas:
 **Particularidades:**
 
 1.  En algunas raíces, la vocal de unión -i- en el Ātmanepadam puede ser reemplazada por -ī-. Después de ⟪ग्रह्⟫ 9U "aprehender", esta sustitución debe ocurrir tanto en P como en Ā:  
-    ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+::: indent
+⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+:::
 
 2.  Las raíces de la 8. clase de presente en -n (o -ṇ) pueden tener grado débil en la 2.3.sg.Ā:  
-    ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aoristo de raíz) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+::: indent
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aoristo de raíz) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+:::
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā y otras pueden adoptar, en lugar de la 3.ª persona del singular de la voz activa (Ā), la forma del perfecto de voz pasiva:  
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
 4.  ⟪विज्⟫ 7P no presenta ablaut:  
-    ⟪अविजीत्⟫
+::: indent
+⟪अविजीत्⟫
+:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

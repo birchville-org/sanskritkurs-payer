@@ -29,12 +29,18 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 PPP-ul verbelor cu sensul de „a gândi”, „a dori”, „a cunoaște”, „a ști”, „a venera”, precum și al altor verbe marcate în Dhātupāṭha, lista de rădăcini a lui Pāṇini, prin ñi, nu are doar sensul trecutului, ci poate fi utilizat și cu sens prezent:
 :::
 ::: indent
-    ⟪इष्ट⟫ „dorit” (adică nu doar dorit în trecut, ci și în prezent)
+::: indent
+⟪इष्ट⟫ „dorit” (adică nu doar dorit în trecut, ci și în prezent)
+:::
 :::
 
-    ⟪त्वरित⟫ „grăbit, urgent” (PPP la tvar 1 Ā „a grăbi”; Dhātupāṭha: ñitvárā)
 ::: indent
-    ⟪इष्टं⟫ ⟪फलम्⟫ „roada dorită (de exemplu, a faptelor)”
+⟪त्वरित⟫ „grăbit, urgent” (PPP la tvar 1 Ā „a grăbi”; Dhātupāṭha: ñitvárā)
+:::
+::: indent
+::: indent
+⟪इष्टं⟫ ⟪फलम्⟫ „roada dorită (de exemplu, a faptelor)”
+:::
 :::
 
 Dacă în acest caz ⟪अपि⟫ urmează după PPP, atunci ⟪अपि⟫ are sensul „deși”:
@@ -43,9 +49,13 @@ de ex.
 ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = „Deși cel care dorește roada, nu o obține.”
 :::
 
-    ⟪गत⟫ n.: „mersul, mersul”
 ::: indent
-    ⟪नृत्त⟫ n.: „dansul, dansul”
+⟪गत⟫ n.: „mersul, mersul”
+:::
+::: indent
+::: indent
+⟪नृत्त⟫ n.: „dansul, dansul”
+:::
 :::
 
 ## 13.3. Determinative atributive ale substantivel (poziția cuvântului)
@@ -67,7 +77,7 @@ Exemplu:
 
 Prin intermediul sufixelor taddhita -mant, respectiv -vant, se formează adjective posesive din substantive. Semnificația lor este: "care posedă ceea ce este indicat de substantivul de bază".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 Exemple:
 
@@ -92,15 +102,15 @@ La rădăcinile nominale cu declinare tematică, se face distincție între cazu
 | **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
 | **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
 
-**Toate celelalte cazuri sunt slabe.**
+**Toate celelalte cazuri sunt slabe.** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 În compunere, un substantiv cu declinare tematică stă în prima parte, la forma de temă slabă (la substantivul cu trei rădăcini, la ceea ce se numește „temă medie”).
 :::
 
-## 13.6. Despre sandha cuvântului
+## 13.6. Despre sandha cuvântului <!-- TODO: Fallback translation -->
 
-Pentru înțelegerea formelor individuale ale declinării substantivelor pe -mant și -vant sunt necesare următoarele legi ale sandha cuvântului:
+Pentru înțelegerea formelor individuale ale declinării substantivelor pe -mant și -vant sunt necesare următoarele legi ale sandha cuvântului: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1. Numărul de consoane finale ale unui cuvânt: Din două sau mai multe consoane, la care ar termina un cuvânt, rămâne doar prima consoană, celelalte dispar. Este permisă combinația -r- + consoană.
@@ -190,14 +200,14 @@ Fig.: ⟪महिषासुरः⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : urî, invidia
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : mânca, consuma
-- **anna** n. ⟪अन्न⟫ : mâncare (din PPP: *ad-na: ceea ce este mâncat)
+- **anna** n. ⟪अन्न⟫ : mâncare (din PPP: *ad-na: ceea ce este mâncat) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1304))
 :::
-Formarea cuvintelor:
+Formarea cuvintelor: <!-- TODO: Fallback translation -->
 
 pad 4 Ā:
 
@@ -212,7 +222,7 @@ pad 4 Ā:
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1303))
 :::
-dviṣ 2 U:
+dviṣ 2 U: <!-- TODO: Fallback translation -->
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : ură
@@ -287,7 +297,7 @@ C) Formați o construcție PPP pentru propozițiile din exercițiul A).
 Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1302))
 :::
-D) Din ce combinații de sunete pot fi derivate următoarele forme Sandhi? Dați toate posibilitățile:
+D) Din ce combinații de sunete pot fi derivate următoarele forme Sandhi? Dați toate posibilitățile: <!-- TODO: Fallback translation -->
 
 1. -a înainte de vocală (în afară de a-)
 2. -ā-

@@ -5,7 +5,7 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
----
+--- <!-- TODO: Fallback translation -->
 
 # الدرس 8
 
@@ -44,7 +44,7 @@ last_reconstructed: 2026-05-07
   - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » التّفضيل (المقارنة، التّفضيل المطلق)، المقارنة
   - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » الأعداد الترتيبيّة (الأوّل، إلخ.)
   - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » بدلًا من نهايات الإعراب (مثل **-tas** -⟪तस्⟫، **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (تكوينات **cvi** ⟪च्वि⟫، **-sāt** -⟪सात्⟫)
+  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (تكوينات **cvi** ⟪च्वि⟫، **-sāt** -⟪सात्⟫) <!-- TODO: Fallback translation -->
 
 **التقسيم حسب الأبلوت:**
 - **guṇya** (⟪गुण्य⟫): صياغة عالية الدرجة
@@ -71,7 +71,7 @@ last_reconstructed: 2026-05-07
 | **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" | <!-- TODO: Fallback translation -->
 
 ### 8.3.2. -ana ن. (كريت)
 
@@ -87,7 +87,7 @@ last_reconstructed: 2026-05-07
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
 | **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
 | **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0801.webp)
@@ -102,7 +102,7 @@ last_reconstructed: 2026-05-07
 (المصدر: ويكيبيديا)
 :::
 
-### 8.3.3. -tra محايد (kṛt)
+### 8.3.3. -tra محايد (kṛt) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **تُكوّن اللاحقة kṛt -tra (في الغالب) أسماء محايدة، تدل على الوسيلة أو الأداة التي من خلالها تتحقق الفعل المشار إليه بواسطة الجذر. يتم استبدال القصير في المقطع قبل الأخير وحرف العلة في نهاية الجذر بمستوى مرتفع (guṇa).**
@@ -115,7 +115,7 @@ last_reconstructed: 2026-05-07
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" | <!-- TODO: Fallback translation -->
 
 ::: media
 **مانترا أوم الأصلية (⟪ॐ⟫) في مختلف النصوص الهندية**
@@ -145,7 +145,7 @@ last_reconstructed: 2026-05-07
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) | <!-- TODO: Fallback translation -->
 
 *ملاحظة: يشير الرمز \* قبل صيغة معينة إلى أن هذه الصيغة غير موجودة في السنسكريتية، بل تم استنتاجها نظريًا كشرط مسبق لتكوين معين. الدرجة العميقة (Guna) من **gam** هي gṃ = \*gm، حيث يُستبدل الحرف m بحرف nasalis sonans بواسطة **a** لتصبح » **ga**. ينطبق الأمر نفسه على **man** » **ma**.
 
@@ -160,7 +160,7 @@ last_reconstructed: 2026-05-07
 | :--- | :--- | :--- | :--- |
 | **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
 | **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
+| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" | <!-- TODO: Fallback translation -->
 
 يمكن تشكيل هذه الاشتقاقات عمليًا لأي اسم، وهي شائعة جدًا في النصوص السنسكريتية العلمية.
 
@@ -172,10 +172,14 @@ last_reconstructed: 2026-05-07
 - **الجذر الضعيف: جذر + -u- (قبل حرف العلة: -v-)**
 
 مثال **tan** 8 U (⟪तन्⟫) "يمدد":
-- 3\. مفرد ماضٍ **tanoti** :br⟪तनोति⟫
-- 3\. جمع ماضٍ **tanvanti** :br⟪तन्वन्ति⟫
-- 3\. مفرد ماضٍ **tanute** :br⟪तनुते⟫
-- 3\. جمع ماضٍ **tanvate** :br⟪तन्वते⟫
+- 3\. مفرد ماضٍ **tanoti**
+⟪तनोति⟫
+- 3\. جمع ماضٍ **tanvanti**
+⟪तन्वन्ति⟫
+- 3\. مفرد ماضٍ **tanute**
+⟪तनुते⟫
+- 3\. جمع ماضٍ **tanvate**
+⟪तन्वते⟫
 :::
 ملاحظة: حول الجدل، ما إذا كان **tan** في الواقع جذرًا من الفئة الخامسة (*tn » ta + no-)، انظر Thumb-Hauschild، دليل اللغة السنسكريتية II، 265.
 
@@ -183,10 +187,14 @@ last_reconstructed: 2026-05-07
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "يَفْعَل، يَصْنَع"**
-- 3\. sg. P. **karoti** :br⟪करोति⟫
-- 3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute** :br⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
+- 3\. sg. P. **karoti**
+⟪करोति⟫
+- 3\. pl. P. **kurvanti**
+⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute**
+⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate**
+⟪कुर्वते⟫
 :::
 
 ## 8.5. قائمة الكلمات

@@ -5,9 +5,9 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 5
+# Leçon 5
 
 ::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
@@ -151,7 +151,7 @@ Fig. : Dieu Kāma = kāmadeva = ⟪कामदेव⟫, XVIIIe siècle.
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / en bon sanskrit : sāmārgyajurvedās trayī)
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (en bon sanskrit : ⟪सामार्यजुर्वेदास्त्रयी⟫)
+   (en bon sanskrit : ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
 
 4. Les trois ennemis de l’homme, qui forment la porte de l’enfer (Viṣṇusmṛti 33,1+6) :
    kāmakrodhalobhāḥ
@@ -170,7 +170,7 @@ Fig. : Dieu Kāma = kāmadeva = ⟪कामदेव⟫, XVIIIe siècle.
    (D’après Kauṭilīya-arthaśāstra 1.2.1.)
    ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
-## 5.6. Wiederholungsübung
+## 5.6. Wiederholungsübung <!-- TODO: Fallback translation -->
 
 **A) Traduisez :**
 

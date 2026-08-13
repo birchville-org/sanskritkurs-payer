@@ -29,7 +29,7 @@ Antes de -tha, na maioria das raízes em -ṛ, não ocorre a vogal de ligação 
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Perfeito Tipo I: sem gradação da raiz
+### 46.1.3. Perfeito Tipo I: sem gradação da raiz <!-- TODO: Fallback translation -->
 
 Verbos que seguem este tipo:
 
@@ -384,20 +384,20 @@ Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गल
 ![](/images/lekt4603.webp)
 Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
 (Fonte da imagem: [Detalhes](/licenses#lekt4603))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
 (Fonte da imagem: [Detalhes](/licenses#lekt4604))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
 (Fonte da imagem: [Detalhes](/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : contentar-se, estar satisfeito com (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : contentar-se, estar satisfeito com (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫
@@ -440,7 +440,7 @@ Inf. ⟪रोढुम्⟫
 Fig.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
 (Fonte da imagem: [Detalhes](/licenses#lekt4606))
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : chamar, invocar
+⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : chamar, invocar <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫
@@ -456,7 +456,7 @@ Absol. -⟪हूय⟫
 ![](/images/lekt4608.webp)
 Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
 (Fonte da imagem: [Detalhes](/licenses#lekt4608))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "móvel", ⟪दूरशब्द⟫ m. "chamada de longa distância, telefone" » ⟪चरिष्णुदूरशब्द⟫ "telefone móvel" (Formação de palavra: A. Payer)
@@ -514,7 +514,7 @@ daí:
 Fig.: [⟪सङ्गः⟫](/licenses#lekt4610)
 (Fonte da imagem: [Detalhes](/licenses#lekt4610))
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : correr, apressar-se
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : correr, apressar-se <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫
@@ -556,7 +556,7 @@ Absol. -⟪लम्ब्य⟫
 Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
 (Fonte da imagem: [Detalhes](/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : apegar-se a (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : apegar-se a (⟪द्वितीयया⟫) <!-- TODO: Fallback translation -->
 
 ⟪यदि⟫ Conjunção:  se
 
@@ -658,7 +658,7 @@ Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪�
 
 ::: deleteme-box
 
-Fonte das imagens Navagraha: Redtigerxyz / Wikipedia. Licença GNU FD
+Fonte das imagens Navagraha: Redtigerxyz / Wikipedia. Licença GNU FD <!-- TODO: Fallback translation -->
 
 L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870). Fonte: Wikipedia. Domínio público
 

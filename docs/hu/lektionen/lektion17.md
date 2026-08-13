@@ -5,13 +5,13 @@ lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 17. lecke
+# 17. lecke <!-- TODO: Fallback translation -->
 
-## 17.1. Második jelen idejű osztály (⟪अदादि⟫ = ⟪अद्⟫ stb.)
+## 17.1. Második jelen idejű osztály (⟪अदादि⟫ = ⟪अद्⟫ stb.) <!-- TODO: Fallback translation -->
 
-A ragozott végződések közvetlenül a gyökérhez kapcsolódnak. Ebben az esetben figyelembe kell venni a szókapcsolatból (szó-szandhi) eredő hangváltozásokat.
+A ragozott végződések közvetlenül a gyökérhez kapcsolódnak. Ebben az esetben figyelembe kell venni a szókapcsolatból (szó-szandhi) eredő hangváltozásokat. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -24,7 +24,7 @@ A második jelen idejű osztályba tartozó képzési módok a következők:
 3.  Két szótagú, -i/-ī végű tőfokozással
 
 :::
-## 17.2. A második jelen idejű osztály gyökei erős fok – gyenge fok tőfokozással
+## 17.2. A második jelen idejű osztály gyökei erős fok – gyenge fok tőfokozással <!-- TODO: Fallback translation -->
 
 Példák:
 
@@ -40,24 +40,24 @@ Példák:
 | 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
 | 3\. pl. Präs. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
 | 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
+| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) | <!-- TODO: Fallback translation -->
 
 :::
 Itt a következő szandhi szabály érvényesül:
 
 ::: grammar-box
-Szandhi a -ṣ + t(h)- elemek között
+Szandhi a -ṣ + t(h)- elemek között <!-- TODO: Fallback translation -->
 
 \-ṣ + t(h)- » -ṣṭ(h)-
 :::
-További példák:
+További példák: <!-- TODO: Fallback translation -->
 
-⟪इ⟫ 2 P „megy“ (Ā bizonyos előtagok után)
+⟪इ⟫ 2 P „megy“ (Ā bizonyos előtagok után) <!-- TODO: Fallback translation -->
 
 *   erős jelen időű tő: e-
 *   gyenge jelen időű tő:
     *   mássalhangzó előtt: i-
-    *   magánhangzó előtt: y-/iy-
+    *   magánhangzó előtt: y-/iy- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -66,13 +66,13 @@ További példák:
 | 3\. sg. Präs. P | ⟪एति⟫ (e-ti) |
 | 3\. pl. Präs. P | ⟪यन्ति⟫ (y-anti) |
 | 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
-| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
+| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪दुह्⟫ 2 U "melken"
 
 *   erős jelen időű tő: doh-
-*   gyenge jelen időű tő: duh-
+*   gyenge jelen időű tő: duh- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -81,15 +81,15 @@ További példák:
 | 3\. sg. Präs. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. Präs. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
+| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
 
 :::
-⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
+⟪हन्⟫ 2 P "schlagen, erschlagen, töten" <!-- TODO: Fallback translation -->
 
 *   erős jelen idői tő: han-
 *   gyenge jelen idői tő:
     *   mássalhangzó előtt: ha- (« \*hn-)
-    *   magánhangzó előtt: ghn-/han-
+    *   magánhangzó előtt: ghn-/han- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -98,20 +98,20 @@ További példák:
 | 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) |
 | 3\. pl. Präs. P | ⟪घ्नन्ति⟫ (ghn-anti) |
 | 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
+| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪अस्⟫ 2 P "sein"
 
 *   erős jelen idői tő: as-
-*   gyenge jelen idői tő: s-
+*   gyenge jelen idői tő: s- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
-| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
+| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.3. A második jelen időosztály gyökei szótagváltással (hosszított mélységi fok)
@@ -123,7 +123,7 @@ Példa:
 *   erős jelen idő igealak: stau-
 *   gyenge jelen idő igealak:
     *   mássalhangzó előtt: stu-
-    *   magánhangzó előtt: stuv-
+    *   magánhangzó előtt: stuv- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -132,7 +132,7 @@ Példa:
 | 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
 | 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
-| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
+| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.4. A második jelen időosztály gyökei szótagsváltás nélkül
@@ -142,14 +142,14 @@ Szótagsváltás nélkül a -ā-ra végződő gyökök tartoznak a második jele
 :::
 Példa:
 
-⟪पा⟫  2 P "védelmez, óv, gondoskodik"
+⟪पा⟫  2 P "védelmez, óv, gondoskodik" <!-- TODO: Fallback translation -->
 
 ::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
+| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) | <!-- TODO: Fallback translation -->
 
 :::
 Néhány más, a második osztályba tartozó gyökérnek sincs szóalakváltása:
@@ -163,7 +163,7 @@ Példák:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
+| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪आस्⟫ 2 Ā "sitzen"
@@ -173,7 +173,7 @@ Példák:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
+| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪वच्⟫ 2 P "mond"
@@ -183,12 +183,12 @@ Példák:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | kommt nicht vor |
+| 3\. pl. Präs. P | kommt nicht vor | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.5. Két szótagú gyökök -i/-ī végződéssel szabatásos váltakozással
 
-Több gyök kétszótagú többféle alakban, azaz mássalhangzós végződés előtt -i-t (illetve egyes végződések előtt -ī-t) tartalmaz. Ezeket a gyököket azonban az őshonos grammatikusok és szótárak stb. egyszótagúként kezelik.
+Több gyök kétszótagú többféle alakban, azaz mássalhangzós végződés előtt -i-t (illetve egyes végződések előtt -ī-t) tartalmaz. Ezeket a gyököket azonban az őshonos grammatikusok és szótárak stb. egyszótagúként kezelik. <!-- TODO: Fallback translation -->
 
 Példák:
 
@@ -197,14 +197,14 @@ Példák:
 *   erős jelen idejű tő: rodi-
 *   gyenge jelen idejű tő:
     *   mássalhangzó előtt: rudi-
-    *   magánhangzó előtt: rud-
+    *   magánhangzó előtt: rud- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
+| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪ब्रू⟫ 2 U "beszél"
@@ -235,7 +235,7 @@ A ⟪स्तु⟫ 2. igemértékű „dicsér” mellé a fentebb megadott al
 :::
 ## 17.6. Szószedet
 
-⟪हन्⟫ 2. személy, többes szám ⟪हन्ति⟫, ⟪घ्नन्ति⟫ szenvedő szerkezet ⟪हन्यते⟫  múlt idejű melléknévi igenev ⟪हत⟫ : ütni, megütni, megölni
+⟪हन्⟫ 2. személy, többes szám ⟪हन्ति⟫, ⟪घ्नन्ति⟫ szenvedő szerkezet ⟪हन्यते⟫  múlt idejű melléknévi igenev ⟪हत⟫ : ütni, megütni, megölni <!-- TODO: Fallback translation -->
 
 ebből:
 
@@ -249,7 +249,7 @@ ebből:
 Bangalore = ಬೆಂಗಳೂರು
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : ülni
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : ülni <!-- TODO: Fallback translation -->
 
 ebből:
 
@@ -262,14 +262,14 @@ ebből:
 Ábra: ⟪योगासनम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1701))
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : sírni, nyögni
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : sírni, nyögni <!-- TODO: Fallback translation -->
 
 abból:
 
 ::: indent
 ⟪रुद्र⟫ m.: (a nyögő =) a viharisten, Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter tárgyeset (accusativus))
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter tárgyeset (accusativus)) <!-- TODO: Fallback translation -->
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken
 
@@ -278,7 +278,7 @@ abból:
 Ábra: ⟪दोग्धि⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mutat, utasít, parancsol
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mutat, utasít, parancsol <!-- TODO: Fallback translation -->
 
 ebből:
 
@@ -290,7 +290,7 @@ ebből:
 
 ## 17.7. Gyakorlat 1
 
-A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
+A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫)
 
@@ -312,7 +312,7 @@ A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫)
 
-B) Helyettesítse be az A)-ban képzett mondatokba a cselekvőt és az igét többes számban.
+B) Helyettesítse be az A)-ban képzett mondatokba a cselekvőt és az igét többes számban. <!-- TODO: Fallback translation -->
 
 ## 17.8. Gyakorlat 2
 

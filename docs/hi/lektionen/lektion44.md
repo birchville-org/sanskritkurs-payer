@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # पाठ 44
 

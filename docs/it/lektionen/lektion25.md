@@ -5,7 +5,7 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 25
 
@@ -19,7 +19,7 @@ Tranne nei pronomi personali, in tutte le declinazioni nel plurale le forme dell
 Ora riconoscete il motivo dell'ordine dei casi (⟪विभक्ति⟫) nel sanscrito: sono disposti in modo che le forme identiche siano il più possibile vicine tra loro, o comunque raggruppate.
 
 ::: grammar-box
-**Ablativooo singolare dei maschili/neutri in -a**
+**Ablativoooooo singolare dei maschili/neutri in -a**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
@@ -367,7 +367,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ## 25.6. Esercizio
 
-A) Completare gli esempi di declinazione della [Lezione 16](lektion16.md), Esercizio di ripetizione A, aggiungendo il 4. Dativooo (⟪चतुर्थी⟫) e il 5. Ablativooo (⟪पञ्चमी⟫). Formare inoltre serie di declinazione con tutte le forme apprese finora per
+A) Completare gli esempi di declinazione della [Lezione 16](lektion16.md), Esercizio di ripetizione A, aggiungendo il 4. Dativoooooo (⟪चतुर्थी⟫) e il 5. Ablativoooooo (⟪पञ्चमी⟫). Formare inoltre serie di declinazione con tutte le forme apprese finora per
 
 ⟪१⟫. ⟪सन्त्⟫ (m., n.)
 

@@ -9,11 +9,11 @@ status: stable
 
 # Luento 16
 
-## 16.1. Lopullisten konsonanttien sandhi
+## 16.1. Lopullisten konsonanttien sandhi <!-- TODO: Fallback translation -->
 
-Yhdistettyjen substantiivien muodostamiseksi, joiden ensimmäinen osa on konsonantilla päättyvä varma, tarvitaan seuraavat säännöt:
+Yhdistettyjen substantiivien muodostamiseksi, joiden ensimmäinen osa on konsonantilla päättyvä varma, tarvitaan seuraavat säännöt: <!-- TODO: Fallback translation -->
 
-Lopputon gutturaali, retrofleksi, dentali ja labiaali klusiili (eli ei nasaleja eikä palataaleja).
+Lopputon gutturaali, retrofleksi, dentali ja labiaali klusiili (eli ei nasaleja eikä palataaleja). <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -24,9 +24,9 @@ Lopputon gutturaali, retrofleksi, dentali ja labiaali klusiili (eli ei nasaleja 
 | **nasaalisten konsonanttien edellä** | **Korvaaminen vastaavalla nasaalilla:** :br **esim.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
-Poikkeus yllä olevaan sääntöön:
+Poikkeus yllä olevaan sääntöön: <!-- TODO: Fallback translation -->
 
-Lopussa oleva dentalinen klusiili (ei nasaali):
+Lopussa oleva dentalinen klusiili (ei nasaali): <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -35,7 +35,7 @@ Lopussa oleva dentalinen klusiili (ei nasaali):
 | **vor Palatalen** | **Ersetzung durch den betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- oder -cch-** |
 | **vor Retroflexen** | **Ersetzung durch den betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
+| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
 
 :::
 Esimerkit:
@@ -66,7 +66,7 @@ Kuva: ⟪अध्यापनम्⟫
 "Tämä on erityinen seremonia pienessä temppelissä Sataran kaupungissa (⟪सातारा⟫). Sen suorittavat Swami Muktanandan Veda-koulun opiskelijat Mahāśivarātri-juhlan yhteydessä. Tämä on vedalainen koulu, jossa lapset ulkoa pyhiin teksteihin kutsuttuja Vedoja. Koulu opettaa Krishna Yajurvedaa ja osia Samavedasta. Teen tästä koulusta pro gradu -tutkielmani."
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt1602))
 :::
-⟪अनसूया⟫ f.: valittamattomuus, kateudettomuus
+⟪अनसूया⟫ f.: valittamattomuus, kateudettomuus <!-- TODO: Fallback translation -->
 
 ⟪नृशंस्य⟫ n.: pahuus, halventavuus
 
@@ -82,17 +82,17 @@ siitä:
 ::: indent
 ⟪आजीव⟫ m.: elinkeino, toimeentulo
 :::
-⟪क्षमा⟫ f.: kärsivällisyys, pitkämielisyys, anteeksianto
+⟪क्षमा⟫ f.: kärsivällisyys, pitkämielisyys, anteeksianto <!-- TODO: Fallback translation -->
 
-⟪क्षेम⟫ n.: rauha, hyvinvointi, turvallinen omaisuus
+⟪क्षेम⟫ n.: rauha, hyvinvointi, turvallinen omaisuus <!-- TODO: Fallback translation -->
 
 ⟪चित्त⟫ n.: tietoisuus, ajattelu, mieli
 
 ⟪निरोध⟫ m.: pysähtyminen, saattaminen seisomaan
 
-* **bhūta n.** (⟪भूत⟫) (PPP verbistä bhū): olento, aave
+* **bhūta n.** (⟪भूत⟫) (PPP verbistä bhū): olento, aave <!-- TODO: Fallback translation -->
 
-⟪योग⟫ m.: valjastus, yhteys, yhdistyminen, hankinta; jooga
+⟪योग⟫ m.: valjastus, yhteys, yhdistyminen, hankinta; jooga <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1601.webp)
@@ -102,13 +102,13 @@ Birla Mandir, Delhi
 :::
 ⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫: kääntyä, muuttua, sijaita (jossakin), asua
 
-⟪शस्त्र⟫ (śastra) n.: leikkaustyökalu, leikkaasekäside, miekka, ase
+⟪शस्त्र⟫ (śastra) n.: leikkaustyökalu, leikkaasekäside, miekka, ase <!-- TODO: Fallback translation -->
 
 ⟪शौच⟫ n.: puhdistus, puhtaus
 
 ⟪साधन⟫ m,n. ⟪साधनी⟫ ⟪साधना⟫ f.: tavoitteeseen johtava, aiheuttava
 
-⟪अहिंसा⟫ f.: kenenkään tekemättä vahinkoa, ei-vahingoittaminen, väkivallattomuus
+⟪अहिंसा⟫ f.: kenenkään tekemättä vahinkoa, ei-vahingoittaminen, väkivallattomuus <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1603.jpg)
@@ -116,9 +116,9 @@ Kuva: ⟪अहिंसा⟫
 "Käsi, jonka kämmenessä on pyörä, symboloi jainilaisen ahimsa-valaa. Keskeinen sana on 'ahimsa'. Pyörä edustaa dharmacakraa, joka symboloi päättymättömän totuuden ja väkivallattomuuden tavoittelun kautta uudelleensyntymän kierteen pysäyttämisen päättymystä."
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt1603))
 :::
-## 16.3. Harjoitus
+## 16.3. Harjoitus <!-- TODO: Fallback translation -->
 
-A) Muunna seuraavat ilmaukset Tatpuruṣaksi ja käännä ne:
+A) Muunna seuraavat ilmaukset Tatpuruṣaksi ja käännä ne: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫
 
@@ -150,7 +150,7 @@ Kuva: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫
 
-B) Ratkaise seuraavissa lauseissa kaikki sanskritinkieliset samasat, muodosta niistä taivutettuja substantiiveja sisältävät lauseet ja käännä ne:
+B) Ratkaise seuraavissa lauseissa kaikki sanskritinkieliset samasat, muodosta niistä taivutettuja substantiiveja sisältävät lauseet ja käännä ne: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 
@@ -176,7 +176,7 @@ B) Ratkaise seuraavissa lauseissa kaikki sanskritinkieliset samasat, muodosta ni
 
 A) Muodosta kaikki tähän mennessä opetellut sijamuodat seuraaville sanoille esimerkkeinä aiemmin opetuista taivutusluokista.
 
-Käytä seuraavaa kaaviota, joka vastaa intialaisten grammatikkojen sijamuotojen järjestystä ja jota länsimaiset grammatikot ovat ottaneet käyttöön sen myöhemmin käsiteltävien etujen vuoksi:
+Käytä seuraavaa kaaviota, joka vastaa intialaisten grammatikkojen sijamuotojen järjestystä ja jota länsimaiset grammatikot ovat ottaneet käyttöön sen myöhemmin käsiteltävien etujen vuoksi: <!-- TODO: Fallback translation -->
 
 | yksikkö:br⟪एकवचनम्⟫ | monikko:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
@@ -185,7 +185,7 @@ Käytä seuraavaa kaaviota, joka vastaa intialaisten grammatikkojen sijamuotojen
 | **⟪३⟫. ⟪तृतीया⟫** :brinstrumentaali | **⟪३⟫. ⟪तृतीया⟫** |
 | **⟪६⟫. ⟪षष्ठी⟫** :brgenetiivi | **⟪६⟫. ⟪षष्ठी⟫** |
 
-Opiskele taivutusmallit näiden esimerkkien perusteella ulkoa!!!
+Opiskele taivutusmallit näiden esimerkkien perusteella ulkoa!!! <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪नर⟫ m.
 
@@ -213,7 +213,7 @@ Opiskele taivutusmallit näiden esimerkkien perusteella ulkoa!!!
 
 ⟪१३⟫. ⟪इदम्⟫ m., n., f.
 
-B) Käännä ja ratkaise kaikki sanskritinkieliset yhdyssanat:
+B) Käännä ja ratkaise kaikki sanskritinkieliset yhdyssanat: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫
 
@@ -232,7 +232,7 @@ B) Käännä ja ratkaise kaikki sanskritinkieliset yhdyssanat:
 ::: indent
 Selitykset;
 
-Lause 7: ⟪कृषिपाशुपाल्ये⟩ Kaksikko, nominatiivi akkusatiivi: dvandva, joka tarkoittaa kahta "asiaa"
+Lause 7: ⟪कृषिपाशुपाल्ये⟩ Kaksikko, nominatiivi akkusatiivi: dvandva, joka tarkoittaa kahta "asiaa" <!-- TODO: Fallback translation -->
 
 Lause 8: ⟪कर्म⟩ Nominatiivi, akkusatiivin yksikkö neutri sanaan ⟪कर्मन्⟩ "teko"
 
@@ -242,11 +242,12 @@ Lause 13: ⟪सर्वेषाम्⟩ Genetiivin monikko maskuliini sanaan
 
 ::: deleteme-box
 
-**lekt1601:** Birla Mandir, Delhi [Kuv lähde: Deepak / Wikipedia ; Creative Commons -lisenssi (Nimittäminen, jakaminen samalla lisensoinnilla)]
+**lekt1601:** Birla Mandir, Delhi [Kuv lähde: Deepak / Wikipedia ; Creative Commons -lisenssi (Nimittäminen, jakaminen samalla lisensoinnilla)] <!-- TODO: Fallback translation -->
 
-**lekt1602:** "Tämä on erityinen seremonia pienessä temppelissä Satarassa (⟪सातारा⟫). Sen suorittavat Swami Muktananda Vedashalan opiskelijat Mahāśivarātrin juhlan yhteydessä. Tämä on vedakoulu, jossa lapset ulkoa pyhiin teksteihin kutsuttuihin Vedoihin. Tämä koulu opettaa Krishna Yajurvedaa ja osia Samavedasta. Teen pro gradu -tutkielmani tästä koulusta." [Kuv lähde: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Haettu 2008-12-07. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)]
+**lekt1602:** "Tämä on erityinen seremonia pienessä temppelissä Satarassa (⟪सातारा⟫). Sen suorittavat Swami Muktananda Vedashalan opiskelijat Mahāśivarātrin juhlan yhteydessä. Tämä on vedakoulu, jossa lapset ulkoa pyhiin teksteihin kutsuttuihin Vedoihin. Tämä koulu opettaa Krishna Yajurvedaa ja osia Samavedasta. Teen pro gradu -tutkielmani tästä koulusta." [Kuv lähde: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Haettu 2008-12-07. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
 
-**lekt1603:** "Kämmenessä oleva pyörä symboloi jainilaisen Ahimsa-valaa. Keskeinen sana on "ahimsa". Pyörä edustaa dharmacakraa, joka symboloi päättymättömän totuuden ja väkivallattomuuden tavoittelun kautta uudelleensyntymisen kierteen pysäyttämistä." [Kuv lähde: Wikipedia, Public domain]
+**lekt1603:** "Kämmenessä oleva pyörä symboloi jainilaisen Ahimsa-valaa. Keskeinen sana on "ahimsa". Pyörä edustaa dharmacakraa, joka symboloi päättymättömän totuuden ja väkivallattomuuden tavoittelun kautta uudelleensyntymisen kierteen pysäyttämistä." [Kuv lähde: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
 **lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Kuv lähde: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Haettu 2008-12-07. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)]
 :::
+ <!-- TODO: Fallback translation -->

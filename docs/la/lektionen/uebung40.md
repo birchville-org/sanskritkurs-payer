@@ -24,7 +24,7 @@ Discipulus quartam partem (scientiae) accipit a magistro, quartam per ingenium s
 
 ---
 
-## Transformationes Verborum (Perfektum)
+## Transformationes Verborum (Perfektum) <!-- TODO: Fallback translation -->
 
 B) Vertite sequentes formas verbales in correspondenter Perfektum (1. Persona):
 

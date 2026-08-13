@@ -569,13 +569,13 @@ B) Перекладіть, використовуючи складні слов�
 
 **lekt2001:** Сіамреап (ក្រុងសៀមរាប), Камбоджа, 9 ст. н.е. [Джерело зображення: Вікіпедія, суспільне надбання]
 
-**lekt2002:** [Джерело зображення: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926]
+**lekt2002:** [Джерело зображення: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt2003:** Санчі = ⟪सांची⟫ [Джерело зображення: Вікіпедія, суспільне надбання]
 
 **lekt2004:** Джодхпур = ⟪जोधपुर⟫ [Джерело зображення: Джаред Зіммърман. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Доступ від 2008-12-11. -- Ліцензія Creative Commons (Attribution, NonCommercial, NoDerivs)]
 
-**lekt2005:** Ісус та інші боги, Ахмедабад [Джерело зображення: від ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Доступ від 2008-12-11. -- Ліцензія Creative Commons (Attribution, NonCommercial, NoDerivs)]
+**lekt2005:** Ісус та інші боги, Ахмедабад [Джерело зображення: від ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Доступ від 2008-12-11. -- Ліцензія Creative Commons (Attribution, NonCommercial, NoDerivs)] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt2006:** Мадх'я-Прадеш [Джерело зображення: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Доступ від 2008-12-11. -- Ліцензія Creative Commons (Attribution, NonCommercial, NoDerivs)]
 

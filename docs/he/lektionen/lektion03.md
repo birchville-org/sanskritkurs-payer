@@ -76,7 +76,7 @@ status: stable
 :::
 למשל
 
-devatā + annapūrṇā » devatānnapūrṇā «אלוהה אנפורנה היא אלה» = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā «אלוהה אנפורנה היא אלה» = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
 
 > (אננפורנה היא אלת המזון והבישול, נחשבת לגילום של פארבתי, אשת שיבה.)
 
@@ -127,7 +127,7 @@ devatā + annapūrṇā » devatānnapūrṇā «אלוהה אנפורנה הי�
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-למשל
+למשל <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "וישיה הם בני שתי לידות" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

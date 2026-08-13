@@ -28,7 +28,7 @@ status: stable
 :::
 ## 48.2. ساخت امر (⟪लोट्⟫) ریشه‌های مضارع آتماتیک
 
-### 48.2.1. پایانه‌ها des Imperativ an athematischen Präsensstämmen <!-- TODO: Fallback translation -->
+### 48.2.1. پایانه‌های امری بر بندهای حال بدون صامت]
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -48,7 +48,7 @@ status: stable
 | **\-hi** | alle übrigen Präsensstämme, die auf Vokal oder Halbvokal enden (Ausnahme: **⟪जुहुधि⟫** zu **⟪हु⟫ 3**) |
 | **\-dhi** | Alle übrigen Fälle |
 :::
-### 48.2.2. شکل ستاک زمان حال
+### 48.2.2. شکل ستاک زمان حال <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **بن قوی:**
@@ -58,7 +58,7 @@ status: stable
 
 **بن ضعیف: سایر شکل‌ها**
 :::
-### 48.2.3. Zweite Präsensklasse (⟪अदादि⟫) <!-- TODO: Fallback translation -->
+### 48.2.3. کلاس دوم فعل مضارع (⟪अदादि⟫)
 
 ⟪द्विष्⟫ ۲U
 
@@ -228,7 +228,7 @@ status: stable
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
+| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
 
 پیش از پسوند **-ya**، پایان بن به‌مانند حالتی که پیش از پسوند **-a** است، رفتار می‌شود.
 :::
@@ -248,13 +248,13 @@ z.B. **⟪व्याघ्र⟫** m. "Tiger" » **⟪वैयाघ्र⟫
 Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Bildquelle: [Details](/licenses#lekt4801))
 :::
-## 48.4. فهرست واژگان
+## 48.4. فهرست واژگان <!-- TODO: Fallback translation -->
 
 ⟪श्वस्⟫ : morgen
 
 ⟪अद्य⟫ : heute
 
-⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck)
+⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck) <!-- TODO: Fallback translation -->
 
 ⟪व्याकरण⟫ n.: دستور زبان (به ⟪व्याकृ⟫)
 
@@ -265,7 +265,7 @@ Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 تصویر: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি، Assam = অসম
 (منبع تصویر: [جزئیات](/licenses#lekt4802))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4803.webp)
@@ -370,17 +370,17 @@ Sualkuchi = সুৱালকুচি، Assam = অসম
 7. من می‌خواهم ⟪शिव⟫ و دیگر خدایان را ستایش کنم.
 8. بگو!
 9. دوزخ را بسنجید!
-10. Sie (pl.) sollen auf diesen Liegen liegen. <!-- TODO: Fallback translation -->
-11. Die tigergleichen Männer sollen die töten, die Indra feind sind. <!-- TODO: Fallback translation -->
-12. Konzentriere dich! <!-- TODO: Fallback translation -->
-13. Sitzt hier! <!-- TODO: Fallback translation -->
-14. Wir wollen diese Früchte essen. <!-- TODO: Fallback translation -->
-15. Der Diener soll die Kuh melken. <!-- TODO: Fallback translation -->
-16. König, hüte den Dharma und die Leute. <!-- TODO: Fallback translation -->
-17. Lehre die Schüler den Veda! <!-- TODO: Fallback translation -->
-18. Er soll neue Kleider anziehen. <!-- TODO: Fallback translation -->
-19. Sie (pl.) sollen in meinem Haus sitzen. <!-- TODO: Fallback translation -->
-20. Ehemänner sollen ihre Gattinnen erhalten (i. S. v. Unterhalt). <!-- TODO: Fallback translation -->
+10. آن‌ها (جمع) باید بر این تخت‌خواب‌ها دراز بکشند.
+11. مردان شیری‌چهره باید کسانی را بکشند که ایندرا دشمن آن‌هاست.
+12. تمرکز کن!
+13. اینجا بنشینید!
+14. ما می‌خواهیم این میوه‌ها را بخوریم.
+15. خدمتکار باید گاو را شیر بدهد (پست زنی کند).
+16. ای پادشاه، دharma و مردم را حفظ کن!
+17. به شاگردان ودا را بیاموز!
+18. او باید لباس‌های نو بپوشد.
+19. آن‌ها (جمع) باید در خانهٔ من بنشینند.
+20. شوهران باید همسران خود را تأمین کنند (به معنای نفقه).
 
 ## 48.6. تمرین ترجمه
 
@@ -392,7 +392,7 @@ Sualkuchi = সুৱালকুচি، Assam = অসম
 ⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमरे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫  
 ⟪रक्षन्ति⟫ ⟪स्थाविरे⟫ ⟪पुत्रा⟫ ⟪न⟫ ⟪स्त्री⟫ ⟪स्वातन्त्र्यमर्हति⟫ ⟪॥३॥⟫  
 ⟪काले⟫ ⟪ऽदाता⟫ ⟪पिता⟫ ⟪वाच्यो⟫ ⟪वाच्यश्चानुपनयन्पतिः⟫ ⟪।⟫  
-⟪मृते⟫ ⟪भर्तर⟫i ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥४॥⟫  
+⟪मृते⟫ ⟪भर्तरi ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥४॥⟫  
 ⟪सूक्ष्मेभ्यो⟫ ⟪ऽपि⟫ ⟪प्रसङ्गेभ्यः⟫ ⟪स्त्रियो⟫ ⟪रक्ष्या⟫ ⟪विशेषतः⟫ ⟪।⟫  
 ***:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫]*** ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥५॥⟫  
 ⟪इमं⟫ ⟪हि⟫ ⟪सर्ववर्णानां⟫ ⟪पश्यन्तो⟫ ⟪धर्ममुत्तमम्⟫ ⟪।⟫  
@@ -400,28 +400,28 @@ Sualkuchi = সুৱালকুচি، Assam = অসম
 ⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫  
 ⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥७॥⟫  
 ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫  
-⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
 :::
-Erklärung:  
-:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual zu ⟪द्वे⟫ ⟪कुले⟫ "zwei Familien" <!-- TODO: Fallback translation -->
+توضیح:  
+:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : حالت مفعولی (⟪षष्ठी⟫) دوگانه به ⟪द्वे⟫ ⟪कुले⟫ "دو خانواده"
 
 ::: deleteme-box
 
-**lekt4801:** [Bildquelle: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt4801:** [منبع تصویر: گونلاوگور ت. بریم. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- دسترسی در ۲۰۰۹-۰۱-۱۰. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
 
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Bildquelle: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt4802:** سواالکوچی = সুৱালকুচি، آسام = অসم [منبع تصویر: کن مک‌چزنی. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- دسترسی در ۲۰۰۹-۰۱-۱۰. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
 
-**lekt4803:** Sitarspieler = ⟪सितारवादकः⟫ [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt4803:** نوازنده سیتار = ⟪सितारवादकः⟫ [منبع تصویر: ویکی‌پدیا. مالکیت عمومی]
 
-**lekt4804:** [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt4804:** [گروه خودیاری (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\))، تامیل نادو = தமிழ்நாடு [منبع تصویر: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- دسترسی در ۲۰۰۹-۰۱-۱۰. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری)]
 
-**lekt4805:** Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia [Bildquelle: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt4805:** جشن تایپوسام = தைப்பூசم، باتو کوزس، مالزی [منبع تصویر: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- دسترسی در 2009-01-10. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب)]
 
-**lekt4806:** ⟪नेपाल⟫ [Bildquelle: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt4806:** ⟪नेपाल⟫ [منبع تصویر: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- دسترسی در 2009-01-10. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt4807:** ⟪जोधपुर⟫ [Bildquelle: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt4807:** ⟪जोधपुर⟫ [منبع تصویر: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- دسترسی در 2009-01-10. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt4808:** Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Bildquelle: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt4808:** دریاچه کارانجی = ಕಾರಂಜಿ ಕೆರೆ [منبع تصویر: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- دسترسی در 2009-01-10. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (نسب، اشتراک یکسان)]
 
-**lekt4809:** (Bild: Payer) <!-- TODO: Fallback translation -->
+**lekt4809:** (تصویر: پیتر)
 :::

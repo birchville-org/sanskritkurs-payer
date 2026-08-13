@@ -5,9 +5,9 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 50
+# Lecziun 50
 
 ## 50.1. Furmaziun nominala: augment regular
 
@@ -60,7 +60,7 @@ Ezempels:
 
 ⟪उद्⟫ Indekl. "sün", "sür" » ⟪उत्तर⟫ 3 "plü" » ⟪उत्तम⟫ 3 "sürmaun"
 :::
-**Quai che questis suffigens sajan adina en la furma adverbiala:**
+**Quai che questis suffigens sajan adina en la furma adverbiala:** <!-- TODO: Fallback translation -->
 
 * **-⟪तराम्⟫**
 * **-⟪तमाम्⟫**
@@ -93,7 +93,7 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 
 ⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : disprezzar, menprezzar
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
+⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5001.jpg)
@@ -152,7 +152,7 @@ Arrivada dal monsun, Bangalore  ಬೆಂಗಳೂರು
 Imm.: ⟪आदित्यः⟫
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: mintgin, tut
+⟪सर्व⟫ 3: mintgin, tut <!-- TODO: Fallback translation -->
 
 Declinaziun sco ⟪यद्⟫ (eccepziun: Nom.Akk.sg.Neutrum)
 
@@ -161,11 +161,11 @@ Declinaziun sco ⟪यद्⟫ (eccepziun: Nom.Akk.sg.Neutrum)
 | | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | *:sig[⟪सर्वम्⟫]* | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | *:sig[⟪सर्वम्⟫]* | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
+| **2. Accusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | *:sig[⟪सर्वम्⟫]* | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
+| **6. Genitiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
 | **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
 ⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
@@ -189,7 +189,7 @@ Imm.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : vesair
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : vesair <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. ⟪चचक्षे⟫

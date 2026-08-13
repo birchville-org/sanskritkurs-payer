@@ -29,7 +29,7 @@ status: stable
 ### 12.1.1. แผนภาพสำหรับกริยา Transitiv
 
 ::: grammar-box
-**Agens (kartṛ) ใน Instrumentalis (tṛtīyā) -- กรรมตรง (karman) ใน Nominativ (prathamā) -- Participium Perfekti Passivum**
+**Agens (kartṛ) ใน Instrumentalis (tṛtīyā) -- กรรมตรง (karman) ใน Nominativ (prathamā) -- Participium Perfekti Passivum** <!-- TODO: Fallback translation -->
 
 ในกรณีนี้ PPP จะตรงกันกับกรรมในจำนวน กรณี และเพศ
 
@@ -44,7 +44,7 @@ status: stable
 ### 12.1.2. แผนภาพ I สำหรับกริยา Intransitiv และกริยาสถานที่
 
 ::: grammar-box
-**Agens (kartṛ) ใน Nominativ (prathamā) -- Participium Perfekti Passivum**
+**Agens (kartṛ) ใน Nominativ (prathamā) -- Participium Perfekti Passivum** <!-- TODO: Fallback translation -->
 
 ในกรณีนี้ PPP จะตรงกันกับ Agens ในจำนวน กรณี และเพศ Participium Perfekti "Passive" สำหรับกริยา Intransitiv (กริยาที่ไม่มีกรรมตรง) และกริยาสถานที่ มีความหมาย Active
 

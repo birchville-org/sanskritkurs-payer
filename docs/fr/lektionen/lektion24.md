@@ -5,11 +5,11 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 24
+# Leçon 24
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
+## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **1. Pour rendre le but ou l'intention ("afin de") d'une action, on peut, au lieu de l'infinitif (⟪तुमुन्⟫), utiliser un nom avec un suffixe kṛt, qui désigne une action ou un état, au datif (⟪चतुर्थी⟫ = "quatrième terminaison casuelle").**

@@ -111,17 +111,29 @@ Ejemplos:
 Los Tatpuruṣa con a- / an- pueden tener los siguientes significados:
 
 1.  Similitud (⟪तत्सादृश्यम्⟫):  
-    ⟪अब्राह्मणः⟫ = un Kṣatriya o Vaiśya que lleva el hilo sagrado (⟪यज्ञोपवीत⟫ n.) y por lo tanto se asemeja a un Brahman, sin serlo
+::: indent
+⟪अब्राह्मणः⟫ = un Kṣatriya o Vaiśya que lleva el hilo sagrado (⟪यज्ञोपवीत⟫ n.) y por lo tanto se asemeja a un Brahman, sin serlo
+:::
 2.  Falta, ausencia (⟪तदभावः⟫):  
-    ⟪अज्ञानम्⟫ = ignorancia (falta de conocimiento)
+::: indent
+⟪अज्ञानम्⟫ = ignorancia (falta de conocimiento)
+:::
 3.  Diferencia (⟪तदन्यत्वम्⟫):  
-    ⟪अपटम्⟫ = algo que no es tela / vestido (⟪पट⟫ m: tejido, vestido)
+::: indent
+⟪अपटम्⟫ = algo que no es tela / vestido (⟪पट⟫ m: tejido, vestido)
+:::
 4.  Pequeñez (⟪तदल्पता⟫):  
-    ⟪अनुदरम्⟫ = un pequeño vientre (un no-ventre)
+::: indent
+⟪अनुदरम्⟫ = un pequeño vientre (un no-ventre)
+:::
 5.  Desaprobación (⟪अप्राशास्त्यम्⟫):  
-    ⟪अकालः⟫ = tiempo inoportuno
+::: indent
+⟪अकालः⟫ = tiempo inoportuno
+:::
 6.  Hostilidad (⟪निरोधः⟫):  
-    ⟪असुरः⟫ = dios enemigo (según la falsa etimología a-sura)
+::: indent
+⟪असुरः⟫ = dios enemigo (según la falsa etimología a-sura)
+:::
 
 El siguiente verso resume estos significados:
 

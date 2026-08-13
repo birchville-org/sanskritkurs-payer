@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 13. lecke
+# 13. lecke <!-- TODO: Fallback translation -->
 
 ## 13.1. PPP a -na- végződésen
 
@@ -15,7 +15,7 @@ A -ta- vagy -na- végződésű PPP-k eloszlására nem lehetek szigorú szabály
 
 ::: grammar-box
 
-Szinte minden -d végű gyökér képezi a PPP-t -na- végződésben. Ebben az esetben a -d-n- helyett -n-n- lép fel, ami egyébként nem történik meg a szószandhiban, hanem a mondat-szandha utánzásának tekinthető.
+Szinte minden -d végű gyökér képezi a PPP-t -na- végződésben. Ebben az esetben a -d-n- helyett -n-n- lép fel, ami egyébként nem történik meg a szószandhiban, hanem a mondat-szandha utánzásának tekinthető. <!-- TODO: Fallback translation -->
 
 Példa:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
@@ -72,7 +72,7 @@ Példa:
 
 A taddhita -mant és -vant képzők segítségével birtokos jelzőket képezünk főnevekből. Jelentésük: „az alapul szolgáló főnévvel jelöltet birtokolva”.
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 Példák:
 
@@ -83,7 +83,7 @@ Példák:
 ⟪गुणवन्त्⟫ "jó tulajdonságokkal / erényekkel rendelkező"
 :::
 
-## 13.5. Törzsszintezés a főnevi törzseknél
+## 13.5. Törzsszintezés a főnevi törzseknél <!-- TODO: Fallback translation -->
 
 A -mant vagy -vant végződésű törzsek a szófaji törzsszintézést alkalmazó főnévi törzsek közé tartoznak.
 
@@ -114,7 +114,7 @@ A -mant és -vant végződésű főnevek ragozásának egyes formáit megértés
 :::
 Példák:
 ::: indent
--t + bh- » -d-bh- ⟪द्भ्⟫
+-t + bh- » -d-bh- ⟪द्भ्⟫ <!-- TODO: Fallback translation -->
 
 -k + bh- » -g-bh- ⟪ग्भ्⟫
 
@@ -134,7 +134,7 @@ Konsonánssal végződő tövek esetén:
 
 :::
 
-## 13.8. A -mant és -vant végződésű tövek ragozása
+## 13.8. A -mant és -vant végződésű tövek ragozása <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -152,7 +152,7 @@ Konsonánssal végződő tövek esetén:
 
 Nőnem:
 
-A -mant- és -vant- végződésű tőkhöz tartozó nőnemű alap -mat-ī, illetve -vat-ī végződésű. A ragozás a devī szóéval megegyezik, azaz nincs tőhangzó-változás.
+A -mant- és -vant- végződésű tőkhöz tartozó nőnemű alap -mat-ī, illetve -vat-ī végződésű. A ragozás a devī szóéval megegyezik, azaz nincs tőhangzó-változás. <!-- TODO: Fallback translation -->
 
 Példa:
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
@@ -161,7 +161,7 @@ Példa:
 
 ## 13.9. Szószedet
 
-Tanulják meg a következő szavakat:
+Tanulják meg a következő szavakat: <!-- TODO: Fallback translation -->
 
 - **eva** ⟪एव⟫ : az előző szó hangsúlyozása
 - **asura** m. ⟪असुर⟫ : démon
@@ -176,7 +176,7 @@ Tanulják meg a következő szavakat:
 >
 > Ebben az értelemben más eredetet találtak rá: a forrás már nem asu, 'lélegzet', hanem az első *a* tagadó előtagként van értelmezve, és az asura jelentése 'nem isten'; ezért egyesek szerint keletkezett a *sura* szó, amelyet általában 'istennek' használnak.”
 >
-> [Forrás: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Forrás: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ] <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -195,7 +195,7 @@ Kép: ⟪महिषासुरः⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : gyűlölni, ellensége lenni
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : enni, elfogyasztani
-- **anna** n. ⟪अन्न⟫ : étel (a PPP-ből: *ad-na: a megevett)
+- **anna** n. ⟪अन्न⟫ : étel (a PPP-ből: *ad-na: a megevett) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -217,7 +217,7 @@ pad 4 Ā:
 Ábr.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1303))
 :::
-dviṣ 2 U:
+dviṣ 2 U: <!-- TODO: Fallback translation -->
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : gyűlölet
@@ -266,7 +266,7 @@ B) Fordítás és átalakítás múltbeli passzív mondatokká:
 
 ## 13.11. Ismétlőgyakorlat
 
-A) Fordítsa le a következő mondatokat:
+A) Fordítsa le a következő mondatokat: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫

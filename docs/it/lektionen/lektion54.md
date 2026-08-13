@@ -194,38 +194,50 @@ Grado alto:
 
 *   Radici con vocale breve (tranne a) prima di consonante semplice nonché ⟪जन्⟫ e la maggior parte delle radici in -am  
     Esempi:  
-    ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "egli fu spezzato"  
-    ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "egli fu spinto"
+::: indent
+⟪भिद्⟫ 7U: ⟪अभेदि⟫ "egli fu spezzato"
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ "egli fu spinto"
+:::
 
 Grado allungato:
 
 *   Radici con vocale finale  
     Esempi:  
-    ⟪नी⟫ 1U: ⟪अनायि⟫ "egli fu condotto"  
-    ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "essa fu lodata"  
-    ⟪कृ⟫ 8U: ⟪अकारि⟫ "fu fatto"  
+::: indent
+⟪नी⟫ 1U: ⟪अनायि⟫ "egli fu condotto"
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "essa fu lodata"
+⟪कृ⟫ 8U: ⟪अकारि⟫ "fu fatto"
+:::
 
 *   Radici con a prima di consonante semplice (tranne ⟪जन्⟫ e radici in -am)  
     Esempio:  
-    ⟪वद्⟫ 1P: ⟪अवादि⟫ "fu detto"  
-    ma:  
-    ⟪जन्⟫ 4Ā: ⟪अजनि⟫ "essa fu generata"  
+::: indent
+⟪वद्⟫ 1P: ⟪अवादि⟫ "fu detto"
+ma:
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ "essa fu generata"
+:::
 
 *   alcune radici in -am  
     Esempio:  
-    ⟪गम्⟫ ⟪अगामि⟫
+::: indent
+⟪गम्⟫ ⟪अगामि⟫
+:::
 
 Inserimento di y prima della desinenza:
 
 *   Radici in -ā, -e, -ai, -o inseriscono tra la -ā della radice e la desinenza una y:  
     Esempio:  
-    ⟪दा⟫ 3U: ⟪अदायि⟫ "fu dato"
+::: indent
+⟪दा⟫ 3U: ⟪अदायि⟫ "fu dato"
+:::
 
 Infix nasale:
 
 *   alcune radici hanno un infix nasale:  
     Esempio:  
-    ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ accanto a ⟪अलाभि⟫ : "fu ricevuto"
+::: indent
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ accanto a ⟪अलाभि⟫ : "fu ricevuto"
+:::
 
 (Le altre forme del Passivo nell'aoristo sono espresse da forme di Ātmanepada).
 :::

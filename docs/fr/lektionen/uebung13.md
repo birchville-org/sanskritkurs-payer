@@ -32,7 +32,7 @@ Le brāhmane souhaitait la libération.
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
+⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
 Il est dit que les sages védiques ont dit seulement la vérité.

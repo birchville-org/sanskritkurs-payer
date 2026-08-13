@@ -367,7 +367,7 @@ B) Μεταφράστε στα Σανσκριτικά:
 ![](/images/lekt4309.webp)
 Fig.: ⟪शर्करा⟫
 (Font image: [Details](/grc/licenses#lekt4309))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
@@ -383,7 +383,7 @@ Fig.: ⟪शर्करा⟫
 
 **lekt4307.jpg**: Ray Witlin / Παγκόσμιος Τράπεζα. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Πρόσβασις ἐν 2009-01-06. -- Ἄδεια Creative Commons (Ἀναφορά, Οὐκ ἐμπορική χρῆσις, Οὐκ τροποποίησις)
 
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. Ἄδεια GNU FDLicense
+**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. Ἄδεια GNU FDLicense <!-- TODO: Fallback translation -->
 
 **lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Πρόσβασις ἐν 2009-01-07. -- Ἄδεια Creative Commons (Ἀναφορά, Οὐκ τροποποίησις)
 :::

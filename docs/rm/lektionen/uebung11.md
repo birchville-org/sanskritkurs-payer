@@ -1,32 +1,33 @@
 ---
-title: "Esercitaziun 11"
+title: "Exercizi 11"
 uebung_id: 11
-category: "Esercitaziun"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lecziun 11
+# Exercizi 11
 
-A) Traduscià ils suandantas frasis
+A) Traduschar ils suandantas frasis <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ ⟪।⟫
 Il savis vedic di la veritad.
 
 ⟪२⟫. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ ⟪।⟫
-In brahman vul in figl.
+In brahman vul avair in figl.
 
 ⟪३⟫. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ ⟪।⟫
 In sant vegn en il tschiel.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
-Uschia preschenta il brahman in sacrifici al deus.
+Uschia offra il brahman al deus in sacrifici.
 
 ⟪७⟫. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ ⟪।⟫
 La femna vaiśya pensa che ses figl fa il mal.
@@ -35,18 +36,18 @@ La femna vaiśya pensa che ses figl fa il mal.
 Il kṣatriya combat cun il kṣatriya.
 
 ⟪९⟫. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
-Perquai che la falsitad è in’ingiustia, il figl commetta nagin delict.
+Perquai che la falsitad è inagiu, commetta il figl nagin delict.
 
 ⟪१०⟫. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
 Quest kṣatriya protegia il dharma.
 
 ⟪११⟫. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ ⟪।⟫
-Tgi venerescha il fieu (il deus Agni) cun in sacrifici?
+Tgi adora il fieu (il deus agni) cun in sacrifici?
 
 ⟪१२⟫. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪॥⟫
-Quest dischèpol dumonda il Buddha davart sia doctrina.
+Quest discipul dumonda il buddha davart sia doctrina.
 
-B) Metta las frasis da A) en la construcziun dal passì
+B) Transfurmear las frasis da A) en construcziuns passivas
 
 ⟪१⟫. ⟪ऋषिणा⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
 
@@ -72,7 +73,7 @@ B) Metta las frasis da A) en la construcziun dal passì
 
 ⟪१२⟫. ⟪तेन⟫ ⟪श्रावकेण⟫ ⟪बुद्धो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪॥⟫
 
-C) Metta en las frasis da A), là nua ch’è pussaivel, il subject, l’object ed il predicat en il plural
+C) Transfurmear en las frasis da A), lura che quai ha sens, subject, object e predicat en il plural
 
 ⟪१⟫. ⟪ऋषयः⟫ ⟪सत्यं⟫ ⟪वदन्ति⟫ ⟪।⟫
 
@@ -98,7 +99,7 @@ C) Metta en las frasis da A), là nua ch’è pussaivel, il subject, l’object 
 
 ⟪१२⟫. ⟪ते⟫ ⟪श्रावका⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪॥⟫
 
-D) Cumpiglia per las frasis formadas suenter C) la construcziun dal passì
+D) Crear las construcziuns passivas per las frasis formadas suenter C)
 
 ⟪१⟫. ⟪ऋषिभिः⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
 
@@ -127,15 +128,15 @@ D) Cumpiglia per las frasis formadas suenter C) la construcziun dal passì
 ::: media
 ![](/images/uebung022.webp)
 Abb.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
-(Bildquelle: [Detagl](/licenses#uebung022))
+(Funtana d'imagines: [Detagls](/licenses#uebung022))
 :::
 ---
 
-## Exercizis suplementaris
+## Exercizis supplementars
 
-A) Traduscha in Sanscrit cun construcziuns passivas:
+A) Tradusì in sanscrit cun construcziuns passivas:
 
-1\. Femnas vaiśya dumandan brahmins davart il dharma.
+1\. Las femnas vaiśya dumandan als brahmins davart il dharma.
 
 ⟪वैश्याभिर्ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪।⟫
 
@@ -143,7 +144,7 @@ A) Traduscha in Sanscrit cun construcziuns passivas:
 
 ⟪गुरुणा⟫ ⟪मन्त्र⟫ ⟪उद्यते⟫ ⟪।⟫
 
-3\. Femnas saccradas arrivanes en in tschiel.
+3\. Femnas sgrasavan en in tschiel. <!-- TODO: Fallback translation -->
 
 ⟪साध्वीभिः⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽश्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫
 
@@ -151,7 +152,7 @@ A) Traduscha in Sanscrit cun construcziuns passivas:
 
 ⟪ऋषिणा⟫ ⟪पापं⟫ ⟪न⟫ ⟪क्रियते⟫ ⟪।⟫
 
-5\. Brahmins aduleschan sco sacrificants la deessa cun sacrificis.
+5\. Brahmins adoran sco sacrificants la deessa cun sacrifices.
 
 ⟪ब्राह्मनैर्देवीज्यते⟫ ⟪।⟫
 
@@ -159,21 +160,21 @@ A) Traduscha in Sanscrit cun construcziuns passivas:
 
 ⟪शूद्रया⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 
-7\. Tgi vescha la veritad?
+7\. Qui vescha la veritad?
 
 ⟪केन⟫ ⟪सत्यं⟫ ⟪दृश्यते⟫ ⟪॥⟫
 
 B)
 
-1\. Dat cun in dvandva las incumbensas da tut ils dusnaschids. Resolvì il compositum en Sanscrit.
+1\. Datti cun in dvandva las incumbensas da tut ils duas giadas naschids. Resolvì il cumpositiv en sanscrit.
 
 ⟪इज्याध्ययनदानानि⟫ = ⟪इज्याध्ययनं⟫ ⟪दानं⟫ ⟪च⟫
 
-2\. Dat cun in dvandva las incumbensas dals vaiśyas. Resolvì il compositum en Sanscrit.
+2\. Datti cun in dvandva las incumbensas dals vaiśyas. Resolvì il cumpositiv en sanscrit.
 
 ⟪कृषिवाणिज्यपाशुपाल्यकुसीदानि⟫ = ⟪कृषीर्वाणिज्यं⟫ (⟪वाणिज्या⟫, ⟪वणिज्या⟫) ⟪कुसीदं⟫ ⟪च⟫ ⟪।⟫
 
-C) Traduscha:
+C) Tradusì:
 
 ⟪१⟫. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ ⟪।⟫
 L'ureglia auda. Cun l'ureglia auda ins.
@@ -182,24 +183,24 @@ L'ureglia auda. Cun l'ureglia auda ins.
 Agriculturs aran.
 
 ⟪३⟫. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ ⟪।⟫
-In sectatur dal Buddha n'adulescha nagin SIGNUR.
+In sectatur dal Buddha n'offra nagin SIGNUR.
 
 ⟪४⟫. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ ⟪।⟫
 L'amulet protegia il magister.
 
 ⟪५⟫. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ ⟪।⟫
-In brahmin na pronunzia nagina falsitad.
+In brahman pronunzia nagina falsitad.
 
 ⟪६⟫. ⟪शूद्रेतरा⟫ ⟪।⟫
 Itarā ist eine Śūdrafrau.
 
 ⟪७⟫. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫
-Scienzas auxiliaras dal Veda èn: doctrina da la pronunzia, ritualistica, grammatica, doctrina dal significà da las paraulas, metrica e doctrina dal calendari.
+Sciencas auxiliaras al veda èn: doctrina da la pronunzia, ritualistica, grammatica, doctrina dal significà dals pleds, metrica e doctrina dal calendari.
 
 ⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪॥⟫
-Scienzas èn: filosofia, vedistica, economia e politologia.
+Sciencas èn: filosofia, vedistica, economia e politologia.
 
-D) Traduscha e metta en Sanscrit agent, object e verb en il plural:
+D) Tradusì e metta en sanscrit agent, object e verb al plural:
 
 ⟪१⟫. ⟪फलमश्नुते⟫ ⟪।⟫
 El riceva in fruit.
@@ -214,10 +215,10 @@ Il vaiśya riceva bestial.
 ⟪वैश्याः⟫ ⟪पशुंल्लभन्ते⟫ ⟪।⟫
 
 ⟪४⟫. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪॥⟫
-Mia figlia fa meritabel.
+Mieu figl fa meritabel.
 ⟪पुत्राः⟫ ⟪पुण्यानि⟫ ⟪कुर्वन्ति⟫ ⟪॥⟫
 
-E) Transfurma las frastas C)1-5 en construcziuns activas.
+E) Transfurma las frasa C)1-5 en construcziuns activas.
 
 ⟪१⟫. ⟪श्रवणं⟫ ⟪शृणोति⟫ ⟪।⟫
 
@@ -232,6 +233,5 @@ E) Transfurma las frastas C)1-5 en construcziuns activas.
 ::: media
 ![](/images/uebung021.webp)
 Abb.: ⟪फलान्यश्नुते⟫
-(Bildquelle: [Detagl](/licenses#uebung021))
-
+(Funtana d'imagines: [Detagls](/licenses#uebung021))
 :::

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 27
+# Les 27
 
 ## 27.1. Gebrauch des Lokativ (⟪सप्तमी⟫ f. = "siebte Kasusendung")
 
@@ -163,7 +163,10 @@ Abb.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ �
 Rāma-Satz.
 (Bildquelle: [Details](/licenses#lekt2708))
 :::
-:sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫:br :sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br :sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫:br :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
+:sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫
+:sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
+:sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫
+:sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Übersetzung:**
 1. **Nominativ:** Rāma, das Juwel (⟪मणि⟫ m.) unter den Königen (⟪राजन्⟫ m.) siegt immer (⟪सदा⟫).
@@ -180,7 +183,10 @@ Rāma-Satz.
 ⟪वस्⟫ 1P (⟪वसति⟫): verweilen, wohnen (mit Lokativ der Person, bei der man wohnt)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫
+**Pass.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Inf.:** ⟪वस्तुम्⟫
 :::
 davon:
 
@@ -194,7 +200,9 @@ davon:
 ⟪वस्⟫ 2Ā (⟪वस्ते⟫): anziehen (Kleidung), tragen (Kleidung)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 davon:
 
@@ -223,7 +231,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 ⟪हृ⟫ 1U (⟪हरति⟫): halten, tragen; holen, wegnehmen, rauben
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 davon:
 

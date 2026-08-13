@@ -68,8 +68,10 @@ Stem syllable:
 **Untuk akar kata tertentu, perubahan-perubahan yang telah disebutkan bersifat opsional atau harus ditiadakan:**
 
 *   **ar, ār, īr, al, yang mendahului konsonan akhir dari suku kata akar dan menggantikan ṛ, ṝ, ḷ, tetap opsional tidak berubah atau diganti oleh ṛ atau ḷ:**  
-    ⟪कॢप्⟫ 1Ā: Kaus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U: Kaus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
+::: indent
+⟪कॢप्⟫ 1Ā: Kaus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫
+⟪कृष्⟫ 1P/6U: Kaus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
+:::
 :::
     Vokal dari suku kata reduplicasi:
 
@@ -85,14 +87,18 @@ Setelah aturan-aturan tersebut di atas diterapkan pada suku kata akar, aturan be
 **This reduplication vowel undergoes the following changes:**
 
 *   **i, u diganti menjadi ī, ū jika suku kata akar hanya diawali oleh satu konsonan dan secara metris pendek:**  
-    ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫  
+::: indent
+⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
+⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
+:::
 
 *   **a diganti menjadi ī jika suku kata akar secara metris pendek dan hanya diawali oleh satu konsonan. Jika suku kata akar secara metris pendek dan diawali oleh lebih dari satu konsonan, maka a pada suku kata reduplikasi diganti menjadi i. Jika suku kata akar secara metris panjang, maka a tetap:**  
     :sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, suku kata akar dari Aor. ⟪नय्⟫, Aor. ⟪अ⟫**:sig[⟪नी⟫]**⟪नयत्⟫  
     :sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, suku kata akar dari Aor. ⟪कर्⟫, Aor. ⟪अ⟫**:sig[⟪ची⟫]**⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, suku kata akar dari Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, suku kata akar dari Aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
+::: indent
+⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, suku kata akar dari Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫
+⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, suku kata akar dari Aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
+:::
 
 Particularities of certain roots in Kielhorn, Grammar § 435c ff.
 

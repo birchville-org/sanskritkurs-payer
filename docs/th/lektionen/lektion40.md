@@ -405,7 +405,7 @@ Perfectus แบบประกอบสร้างจาก:
 
 :::
 ::: grammar-box
-Die kürzeren Formen, die oben an zweiter Stelle stehen (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden.
+Die kürzeren Formen, die oben an zweiter Stelle stehen (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden. <!-- TODO: Fallback translation -->
 
 ก่อนอนุภาค ⟪च⟫, ⟪वा⟫, ⟪एव⟫ ไม่สามารถใช้รูปแบบที่เรียกว่า enklitischen forms เหล่านี้ได้เช่นกัน:
 

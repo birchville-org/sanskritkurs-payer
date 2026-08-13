@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 60
+# Leçon 60
 
 ## 60.1. Les désinences du duel du parfait (⟪द्विवचनम्⟫)
 
@@ -19,7 +19,7 @@ status: stable
 
 ## 60.2. Le duel du parfait redoublé (⟪द्वित्वलिट्⟫)
 
-### 60.2.1. Typ 1: keine Stammabstufung
+### 60.2.1. Typ 1: keine Stammabstufung <!-- TODO: Fallback translation -->
 
 ⟪बन्ध्⟫ 9P « lier »
 
@@ -359,16 +359,20 @@ Les règles concernant l'utilisation de la voyelle de liaison -i- sont indiquée
 **Sur la redoublement :**
 
 1.  Racines à consonne initiale : La reduplication s'effectue sur les racines modifiées selon les règles ci-dessus, selon les règles habituelles. Au lieu de a comme voyelle de reduplication, i apparaît :  
-    ⟪पा⟫ » ⟪पिपास⟫-  
-    ⟪त्यज्⟫ » ⟪तित्यज⟫-  
-    ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
-    La cérébralisation après i/u de la consonne finale -s de la racine est absente lorsque le s du suffixe desideratif est cérébralisé :  
-    ⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+::: indent
+⟪पा⟫ » ⟪पिपास⟫-
+⟪त्यज्⟫ » ⟪तित्यज⟫-
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-
+La cérébralisation après i/u de la consonne finale -s de la racine est absente lorsque le s du suffixe desideratif est cérébralisé :
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+:::
 
 2.  Les racines commençant par une voyelle sont redoublées selon les règles correspondantes pour l’aoriste redoublé ([Leçon 56](lektion56.md)) :  
-    ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
-    ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-    ⟪ऋ⟫ » ⟪अरिरिष⟫-
+::: indent
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
+⟪ऋ⟫ » ⟪अरिरिष⟫-
+:::
 
 3.  La formation spéciale du desideratif de certaines racines, voir Kielhorn, Grammaire § 451.
 :::

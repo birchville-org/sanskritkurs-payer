@@ -27,7 +27,7 @@ status: stable
 
 *   持续多久？
 *   去往何处？
-*   等等。
+*   宾格可用作状语：
 *   宾格可用作状语：
 
 宾格可用作状语：
@@ -55,7 +55,7 @@ status: stable
 工具格（⟪तृतीया⟫）可以作副词使用，回答以下问题：
 
 *   用什么？
-*   等等。
+*   工具格可用作状语：
 *   工具格可用作状语：
 
 工具格可用作状语：
@@ -157,11 +157,11 @@ status: stable
 | 后缀 | 代词词根 | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪तस्⟫** :br(离格) | ⟪ततस्⟫ :br从那里，因此 | ⟪इतस्⟫ :br ⟪अतस्⟫ :br从这里，为此 | ⟪यतस्⟫ :br从哪里，为何 | ⟪कुतस्⟫ :br从何而来？为何？ |
+| **-⟪त्र⟫** :br(依格) | ⟪तत्र⟫ :br在那里，那里 | ⟪अत्र⟫ :br这里 | ⟪यत्र⟫ :br哪里 | ⟪कुत्र⟫ :br何处？ |
+| **-⟪था⟫** :br(方式) | ⟪तथा⟫ :br如此 | | ⟪यथा⟫ :br如何 | |
+| **-⟪थम्⟫** :br(方式) | | | | ⟪कथम्⟫ :br如何？ |
+| **-⟪दा⟫** :br(时间) | ⟪तदा⟫ :br那时，当时 | | ⟪यदा⟫ :br当……时 | ⟪कदा⟫ :br何时？ |
 
 :::
 ::: grammar-box
@@ -179,9 +179,9 @@ status: stable
 
 | 后缀 | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪वत्⟫** | 可附加至任意名词，以表达“像……一样”之意：br例如 ⟪पुत्रवत्⟫ “如子一般” |
+| **-⟪तस्⟫** | 附加于名词与代词。通常具有离格含义“从哪里？”，但也可能表示“在哪里？”、“去哪里？”：br例如 ⟪आदितस्⟫ “自始以来” |
+| **-⟪धा⟫** | 1. 用于数词副词，意为“-倍”、“-重”：br例如 ⟪द्विधा⟫ “双重”：br2. 表示“以某种方式”：br例如 ⟪समधा⟫ “以相同的方式”（对应于 ⟪सम⟫ 3 “相似”） |
 
 :::
 ## 37.5. 副词性复合词

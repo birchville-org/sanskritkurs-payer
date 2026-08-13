@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 6
 
@@ -49,13 +49,13 @@ Una forma verbale finita, cioè una forma verbale con desinenza personale, espri
 4. **Modalità** (Modus):
    1. **Indicativo**: Forma affermativa
    2. **Ottativoo**: Forma desiderativa e forma di possibilità
-   3. **Imperativooo**: Forma imperativa
+   3. **Imperativoooooo**: Forma imperativa
 5. **Tempo** (Tempus):
    1. **Presente**: Presente
    2. **Imperfetto**
    3. **Perfetto**
    4. **Aoristo**
-   5. **Futurooo**: Futurooo
+   5. **Futuroooooo**: Futuroooooo
    6. **Condizionale**
 
 Le tempori sono formate da stemmi temporali: stemma del presente, stemma dell’aoristo, stemma del perfetto, stemma del futuro.
@@ -116,7 +116,7 @@ Esempio **yaj** = ⟪यज्⟫ = "onorare con un sacrificio", "sacrificare":
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Wortsandhi di e e o
-Prima delle vocali, all’interno della parola, **e** viene sostituito da **ay**, **o** da **av**.
+Prima delle vocali, all’interno della parola, **e** viene sostituito da **ay**, **o** da **av**. &lt;!-- TODO: Fallback translation --&gt;
 
 #### 6.5.2.2. Ablaut (gradazione vocale)
 
@@ -129,7 +129,7 @@ Prima delle vocali, all’interno della parola, **e** viene sostituito da **ay**
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verbi della quarta classe del presente (divādi = ⟪दिवादि⟫ = "div ecc.")
+### 6.5.3. Verbi della quarta classe del presente (divādi = ⟪दिवादि⟫ = "div ecc.") &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **Stema del presente = Radice in grado debole (in cui è elencata) + ya-**
@@ -237,9 +237,13 @@ In sanscrito i verbi sono elencati nella **forma di radice**. Il numero dopo la 
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **B) Mettere al plurale:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

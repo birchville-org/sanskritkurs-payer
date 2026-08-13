@@ -93,7 +93,7 @@ status: stable
 ::: indent
 ⟪दृश्⟫ 3.ஒ.ப ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪कृष्⟫ 1ப/6U 3.ஒ.ப ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -141,10 +141,14 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (P-ல் ⟪गम्⟫ தீம்-ஒலி அரிஸ்டைக் கொண்டுள்ளது)**
 
 2.  ⟪पद्⟫ 4Ā இயல்பானது (எ.கா. ⟪अपत्सि⟫), ஆனால் 3.sg.Ā-ல் அது செயலற்ற வார்த்தை அரிஸ்டின் வடிவத்தைக் கொண்டுள்ளது:
-    ⟪अपादि⟫ "அவர் சென்றார்"
+::: indent
+⟪अपादि⟫ "அவர் சென்றார்"
+:::
 
 3.  ⟪बुध्⟫ Ā 3.sg.Ā-ல் செயலற்ற வார்த்தை அரிஸ்டின் வடிவத்தைத் தேர்ந்தெடுக்கலாம்:
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "அவர் அறிந்தார்"
+::: indent
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "அவர் அறிந்தார்"
+:::
 :::
 ## 57.2. பயிற்சி
 

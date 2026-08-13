@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 4
+# Oppitunti 4 <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 **Tässä lektiossa opit:**
@@ -17,7 +17,7 @@ status: stable
 - Sandhi loppu-d:lla
 - Yksinkertaiset kysymyslauseet
 :::
-## 4.1. Yksinkertaiset täydennyskysymykset (sanakysymykset) ja vastaukset
+## 4.1. Yksinkertaiset täydennyskysymykset (sanakysymykset) ja vastaukset <!-- TODO: Fallback translation -->
 
 ### 4.1.1. Kysymyspronominet ja demonstratiivipronominit
 
@@ -48,20 +48,20 @@ status: stable
 **Nom. sg. mask.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) esiintyy kaikissa äänteissä paitsi lyhyessä **-a**-äänteessä
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) esiintyy **-a**:n edellä, joka elidioidaan avagrahalla (pudota)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) esiintyy vain pauksessa (lauseen tai runon lopussa)
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) esiintyy vain pauksessa (lauseen tai runon lopussa) <!-- TODO: Fallback translation -->
 
-Jotta näiden pronominien (sarvanāman n.) kanssa voisi muodostaa lauseita, tarvitaan seuraavien sandhi-sääntöjen tuntemus:
+Jotta näiden pronominien (sarvanāman n.) kanssa voisi muodostaa lauseita, tarvitaan seuraavien sandhi-sääntöjen tuntemus: <!-- TODO: Fallback translation -->
 
-### 4.1.2. Lopasääntö ulos puhetulle -m:lle
+### 4.1.2. Lopasääntö ulos puhetulle -m:lle <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Ulos puhettu -m korvataan konsonanttien edellä anusvāralla (-ṃ). Lauseen tai säkeen lopussa sekä vokaalien edessä -m säilyy.**
 :::
-### 4.1.3. Lopasääntö ulos puhetulle -e:lle
+### 4.1.3. Lopasääntö ulos puhetulle -e:lle <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1. **a-:n edessä -e pysyy muuttumattomana: alkuun puhettu a- elidiintuu avagrahalla:**
-esim. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Nämä tulit"
+esim. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Nämä tulit" <!-- TODO: Fallback translation -->
 
 2. **Muiden kuin lyhyiden a-:n edessä -e korvataan yleensä -a:lla ja hiatuksella. Myös korvaaminen -ay:llä on mahdollista:**
 esim. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (harv. imay īśvarāh = ⟪इमयीश्वराः⟫) "Nämä HERRAT"
@@ -73,9 +73,9 @@ esim. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वरा�
 
 Muiden konsonanttien edessä tapahtuvaa korvaamista käsitellään myöhemmin. Vältä näitä äänteytymisvastakkainasetteluja toistaiseksi!
 :::
-### 4.1.5. Kysymyslauseet
+### 4.1.5. Kysymyslauseet <!-- TODO: Fallback translation -->
 
-Näiden pronominaalien avulla muodostetaan esimerkiksi seuraavat kysymyslauseet:
+Näiden pronominaalien avulla muodostetaan esimerkiksi seuraavat kysymyslauseet: <!-- TODO: Fallback translation -->
 
 ::: no-header
 | | | | |
@@ -87,11 +87,11 @@ Näiden pronominaalien avulla muodostetaan esimerkiksi seuraavat kysymyslauseet:
 | ^^ | **maskuliini** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
 | ^^ | **feminiini** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 :::
-Esimerkki muista kysymyksistä:
+Esimerkki muista kysymyksistä: <!-- TODO: Fallback translation -->
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟩ Vastaus: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Tässä nominilauseessa voi esimerkiksi asettaa subjektin alkuun korostaakseen yhteyttä kysymykseen.)
+> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟩ Vastaus: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Tässä nominilauseessa voi esimerkiksi asettaa subjektin alkuun korostaakseen yhteyttä kysymykseen.) <!-- TODO: Fallback translation -->
 
-HUOMAUTUS: Vastaukset, joita voit antaa näihin kysymyksiin aiemman sanskritintuntemuksesi perusteella, eivät tietenkään vielä ole kaikilta osin idiomattisesti hyvää sanskritia.
+HUOMAUTUS: Vastaukset, joita voit antaa näihin kysymyksiin aiemman sanskritintuntemuksesi perusteella, eivät tietenkään vielä ole kaikilta osin idiomattisesti hyvää sanskritia. <!-- TODO: Fallback translation -->
 
 ## 4.2. Harjoitus
 

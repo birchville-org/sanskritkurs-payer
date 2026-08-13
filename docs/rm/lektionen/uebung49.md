@@ -58,7 +58,7 @@ Determinai las suandantas furmas:
 Abb.: ⟪गायी⟫
 (Font da l'imagines: [Detagls](/licenses#uebung078))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## ⟪बाण⟫ (⟪७⟫. Jhdt. n. Chr.): ⟪कादम्बरी⟫
 

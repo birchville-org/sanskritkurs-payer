@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # الدرس الثاني4
 
@@ -216,7 +216,7 @@ status: stable
 
 ⟪वृत्त⟫ n.: سلوك
 :::
-⟪अभि⟫ حرف قبل الفعل:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ حرف قبل الفعل:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an <!-- TODO: Fallback translation -->
 
 ⟪नि⟫ البادئة: إلى أسفل، إلى الأسفل، إلى الداخل، إلى الخلف
 

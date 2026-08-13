@@ -127,7 +127,7 @@ devī + umā » devy umā “乌玛是一位/那位女神” = ⟪देव्�
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-例如
+例如 <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ “婆罗门与吠舍：吠舍是再生者” = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

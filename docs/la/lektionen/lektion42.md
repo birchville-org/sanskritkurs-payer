@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 42
+# Lectio 42
 
 ## 42.1. Tribus in -ṛ
 
@@ -149,7 +149,7 @@ Ut pars prior compositionis nomina in -ṛ stant, quod naturaliter est in suo gr
 ::: indent
 PPP ⟪अवस्थित⟫ 3: stans, existens
 :::
-⟪पुरा⟫ Adv.: olim, ante
+⟪पुरा⟫ Adv.: olim, ante <!-- TODO: Fallback translation -->
 
 ⟪अनेक⟫ 3: multi (non pauci)
 
@@ -207,7 +207,7 @@ Inf. ⟪शंसितुम्⟫
 :::
 ⟪हृदय⟫ n.: cor
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+### 42.2.1. Einige Verwandtschaftsbezeichnungen <!-- TODO: Fallback translation -->
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
@@ -216,7 +216,7 @@ Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 :::
 ⟪भर्तृ⟫ m. (ad ⟪भृ⟫ "ferre, sustinere"): Sustentator, Nutritor, Maritus
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Uxor (⟪भार्या⟫ = Gerundivum ad ⟪भृ⟫ : quae ferenda est, quae sustinenda est, ius habens sustentationis)
+⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Uxor (⟪भार्या⟫ = Gerundivum ad ⟪भृ⟫ : quae ferenda est, quae sustinenda est, ius habens sustentationis) <!-- TODO: Fallback translation -->
 
 ⟪पितृ⟫ m.: Pater
 
@@ -259,7 +259,7 @@ Utrisque ritus perficitur, scil. ⟪श्राद्ध⟩ n. Quotidie singuli
 
 ⟪पितामह⟫ m.: avus paternus
 
-⟪पितामही⟫ f.: amita patris (avus mater)
+⟪पितामही⟫ f.: amita patris (avus mater) <!-- TODO: Fallback translation -->
 
 ⟪मातामह⟫ m.: avus maternus
 
@@ -340,7 +340,7 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪गुरुतर⟫ 3: Comparativus ad ⟪गुरु⟫ 3: gravior, valde gravis
 
-⟪धनुस्⟫ Nom.Akk.sg.n. ad ⟪धनुस्⟫ n. "Arcus"
+⟪धनुस्⟫ Nom.Akk.sg.n. ad ⟪धनुस्⟫ n. "Arcus" <!-- TODO: Fallback translation -->
 
 ⟪शतशस्⟫ Adv.: ad centena
 

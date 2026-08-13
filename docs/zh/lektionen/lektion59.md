@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 59
+# 第59課
 
 ## 59.1. 双数的次要结尾和命令式结尾 (⟪द्विवचनम्⟫)
 

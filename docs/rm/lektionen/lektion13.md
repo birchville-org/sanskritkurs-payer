@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 13
+# Lecziun 13
 
-## 13.1. PPP auf -na-
+## 13.1. PPP auf -na- <!-- TODO: Fallback translation -->
 
 Per la distribuziun dals PPPs sin -ta- u -na- na pon vegnir formuladas reglas fixas. Ma:
 
@@ -25,35 +25,38 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 ## 13.2. Ulteriur davart dal participi dal passà (PPP)
 
 ::: grammar-box
-
 **1. Il PPP a verbs dal significà "pensar", "vulér", "conuscher", "saber", "adorar" uschè sco ulteriurs verbs, che vegnan marcads en il Dhātupāṭha, il registral da radichas a Pāṇini, cun ñi, ha betg mo significà dal temp passà, ma po era vegnir duvrà cun significà presentic:**
 p.ex.
 :::
 ::: indent
 ⟪इष्ट⟫ "desiderà" (d.h. betg mo en il passà vulà, ma era en il present)
+⟪त्वरित⟫ "cun hast, eilig" (PPP da tvar 1 Ā "se festinar"; Dhātupāṭha: ñitvárā)
 :::
 
-    ⟪त्वरित⟫ "eilend, eilig" (PPP zu tvar 1 Ā "eilen"; Dhātupāṭha: ñitvárā)
-::: indent
-    ⟪इष्टं⟫ ⟪फलम्⟫ "la fructa desiderada (p.ex. quella dals act)"
-:::
-
-En quest cas, sche ⟪अपि⟫ suonda al PPP, ha ⟪अपि⟫ il significat "benché":
+**2. Il PPP po vegnir duvrà attributivamain sco adjectiv:**
 p.ex.
 ::: indent
-    ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Benchè quel che vò la fructa, el na ottenta betg."
+⟪इष्टं⟫ ⟪फलम्⟫ "la fructa desiderada (p.ex. quella dals acts)"
 :::
 
-⟪गत⟫ n.: "il ir, il pass"
+Sche en quest cas ⟪अपि⟫ suonda al PPP, ha ⟪अपि⟫ il significat "benché":
+p.ex.
 ::: indent
-    ⟪नृत्त⟫ n.: "il ballar, il ball"
+⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Benchè quel ch'ha la fructa desiderada, el na l'obtena betg."
+:::
+
+**3. Il neutrum singular dal PPP da mintga verb po era vegnir duvrà sco substantiv verbal abstract:**
+p.ex.
+::: indent
+⟪गत⟫ n.: "il ir, il pass"
+⟪नृत्त⟫ n.: "il ballar, il ball"
 :::
 
 ## 13.3. Determinativas attributivas da sustantivs (posiziun da la paraula)
 
 ::: grammar-box
 
-Attribute (Beifügungen) stehen in Prosa in der normalen Wortfolge vor dem Wort, das sie näher bestimmen. Adjektivische Attribute stimmen mit dem Nomen in Zahl, Fall und Geschlecht überein:
+Attribute (Beifügungen) stehen in Prosa in der normalen Wortfolge vor dem Wort, das sie näher bestimmen. Adjektivische Attribute stimmen mit dem Nomen in Zahl, Fall und Geschlecht überein: <!-- TODO: Fallback translation -->
 
 Esempel:
 
@@ -68,7 +71,7 @@ Esempel:
 
 Mediant las suffixes taddhita -mant resp. -vant vegnan adjetivs possessivs da nomens formads. Lur significaziun è: "quai che vegn designà tras il num da basegna possedend".
 
--vant tritt an Nomina, deren letzter ni vorletzter Laut ein a, ā ni m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter ni vorletzter Laut ein a, ā ni m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 Ezempels:
 
@@ -90,8 +93,8 @@ En las radices nominalas cun fluctuaziun da la radis distinghescha ins tranter c
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
-| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
+| **Tar masculins e feminins** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAccusativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAccusativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVocativ:br⟪सम्बोधनप्रथमा⟫ |
+| **Tar neutris** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAccusativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ |
 
 **Tuts ils auters casus èn faibles.**
 
@@ -99,18 +102,18 @@ En las radices nominalas cun fluctuaziun da la radis distinghescha ins tranter c
 Sco dal prefix d’ina cumpunaziun stat in num cun declinaziun dal stem en il stem debel (en il cuntrapè dal num cun trais stems en il cuntrapè ditg «miez»).
 :::
 
-## 13.6. Zum Wortsandhi
+## 13.6. Concerne il sandhi da las paraulas
 
 Per capir las singulas formas da la declinaziun da nomina sin -mant e -vant èn necessarias las suandantas reglas dal sandhi da las paraulas:
 
 ::: grammar-box
 1. Dumber da consonantas finalas d’ina paraula: Da duas u dapliiras consonantas, sin las qualas ina paraula pudess finir, resta mo la prima consonanta; las autras vegnan eliminadas. Permess è la cumbinaziun -r- + consonanta.
 
-2. Ein stimmloser Verschlusslaut wird vor einem stimmhaften Verschlusslaut (nicht Nasal) durch den ihm entsprechenden stimmhaften Verschlusslaut ersetzt:
+2. Ina plosiva surda vegn sustituida davant ina plosiva sonora (betg nasala) tras la plosiva sonora correspundenta:
 :::
-    Beispiele:
+Esempis:
 ::: indent
-    -t + bh- » -d-bh- ⟪द्भ्⟫
+-t + bh- » -d-bh- ⟪द्भ्⟫
 
 -k + bh- » -g-bh- ⟪ग्भ्⟫
 
@@ -140,11 +143,11 @@ En cun stins che finescon cun consonant:
 | | | Masculin || Neutrum ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | Singular:br⟪एकवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
+| | Accusativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Instrumental:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
 | Plural:br⟪बहुवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
+| | Accusativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Instrumental:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
 Feminin:
 
@@ -198,7 +201,7 @@ Abb.: ⟪महिषासुरः⟫
 Abb.: ⟪अन्नम्⟫
 (Bildquelle: [Detagl](/rm/licenses#lekt1304))
 :::
-pad 4 Ā:
+pad 4 Ā: <!-- TODO: Fallback translation -->
 
 pad 4 Ā:
 
@@ -213,7 +216,7 @@ pad 4 Ā:
 Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Quellbild: [Detagl](/rm/licenses#lekt1303))
 :::
-dviṣ 2 U:
+dviṣ 2 U: <!-- TODO: Fallback translation -->
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : Od
@@ -260,9 +263,9 @@ B) Tradusci e trasforma in frasi passive al passato:
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
 
-## 13.11. Wiederholungsübung
+## 13.11. Exercizi da repetiziun
 
-A) Traducir las siguientes frasas:
+A) Tradusci las suandantas frasis:
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
@@ -288,7 +291,7 @@ C) Formai inculcas cunstructiuns PPP a las frasis d'exercizi A).
 Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Fontana da l'imagina: [Detagls](/rm/licenses#lekt1302))
 :::
-D) Da tgeis cumpigns da sons pon esser naschidas las suandantas furmas da Sandhi? Dat tuttas pussaivladads:
+D) Da tgeis cumpigns da sons pon esser naschidas las suandantas furmas da Sandhi? Dat tuttas pussaivladads: <!-- TODO: Fallback translation -->
 
 1. -ṇḍ(h)-
 2. -o-

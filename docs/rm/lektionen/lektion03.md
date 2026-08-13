@@ -1,214 +1,219 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: "Lecziun 3"
+subtitle: "Il nominativ singular dal feminin"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 3
+# Lecziun 3
 
 ::: deleteme-box
-**En questa lecziun avais da aprender:**
+**En questa lecziun avais a discurrir:**
 - il nominativ singular dal feminin
-- il nominativ plural dal masculin e dal feminin
-- la furmaziun dal feminin a partir da masculins
-- Vokalsandhi
+- il nominativ plural dal masculinum e dal feminin
+- la furmaziun dal feminin a partir da masculina
+- sandha vocalic
 - Satzsandhi von -ās
 :::
 ## 3.1. Nominativ singular dal feminin
 
-### 3.1.1. Nominativ singular sin -s
+### 3.1.1. Nominativ singular cun -s
 
-Anche las suentas nominalas, che finischan cun in vocal, furman il nominativ singular cun **-s**:
+Era las suandantas radischs nominalas, che finischan cun in vocal, furman il nominativ singular cun **-s**:
 
 ::: grammar-box
-- **Feminina en -i**: per exempl **śruti** f. "l'udir" -- Nom. sg.: **śrutis** = ⟪⟪श्रुतिस्⟫⟫
-- **Feminina en -u**: per exempl **dhenu** f. "vacca da latg" -- Nom. sg.: **dhenus** = ⟪⟪धेनुस्⟫⟫
+- **Femininas cun -i**: p.ex. **śruti** f. "l'udir" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
+- **Femininas cun -u**: p.ex. **dhenu** f. "vacca da latg" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativ singular senza desinenza
+### 3.1.2. Nominativ singular senza desinentza
 
-Il nominativ singular vegn format senza desinentza:
+Il nominativ singular furman senza desinentza:
 
 ::: grammar-box
-- **Feminina su -ā**: per exempl **devatā** f. "divinitad" -- Nom. sg.: **devatā** = ⟪देवता⟫
-- **Feminina su -ī**: per exempl **devī** f. "diva" -- Nom. sg.: **devī** = ⟪देवी⟫
+- **Femininas cun -ā**: p.ex. **devatā** f. "divinitad" -- Nom. sg.: **devatā** = ⟪देवता⟫
+- **Femininas cun -ī**: p.ex. **devī** f. "diva" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
 ::: important
-**Attenziun!** Ultra quai existeschan nouns radicals femenins monosillabics su -ī, il qual cas nominativ singular finischa cun -s: per exempl dhī f. "pensament" -- Nom. sg.: dhīs = ⟪धीस्⟫. Era lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "navet" e tantrī (⟪तन्त्री⟫) f. "chorda" furman irregularmain il cas nominativ singular cun -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
+**Attenziun!** Ultra da quai dat insatgi radischs verbalas femininas monosillabicas cun -ī, il cui nominativ singular finischa cun -s: p.ex. dhī f. "pensament" -- Nom. sg.: dhīs = ⟪धीस्⟫. Era lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "navet" e tantrī (⟪तन्त्री⟫) f. "chorda" furman irregularmain il nominativ singular cun -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
-## 3.2. Furmaziun dals feminins als mascuins
+## 3.2. Furmaziun dal femininas a partir da masculina
 
 ::: grammar-box
-**Maskulina su -a:**
-- **Feminin su -ā**: p.ex. **kṣatriya** m. » **kṣatriyā** f. "femna da Kṣatriya" = ⟪क्षत्रिया⟫
-- **Feminin su -ī**: p.ex. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫
+**Masculinas cun -a:**
+- **Feminin cun -ā**: p.ex. **kṣatriya** m. » **kṣatriyā** f. "dama kṣatriya" = ⟪क्षत्रिया⟫
+- **Feminin cun -ī**: p.ex. **brāhmaṇa** m. » **brāhmaṇī** f. "dama brahmana" = ⟪ब्राह्मणी⟫
 
-**Maschilins cun finala -u:**
-- **Feminin cun finala -ī**: per exempels **sādhu** m. » **sādhvī** f. (bon, sàint) = ⟪साध्वी⟫
-  (**-u-** davant vocala daventa **-v-**, perquai **-u- + -ī** » **-vī**)
+**Masculinas cun -u:**
+- **Feminin cun -ī**: p.ex. **sādhu** m. » **sādhvī** f. (bon, santa) = ⟪साध्वी⟫
+(**-u-** davant vocal daventa **-v-**, perquai **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativ plural masculin e feminin
+## 3.3. Nominativ plural masculinum e feminin
 
 ::: grammar-box
-La desinenza dal nominativ plural en il masculin ed il feminin è **-as**.
-- **Masculina sur -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
-- **Femina sur -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
-- **Masculina sur -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
-- **Femina sur -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
-- **Femina sur -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
-- **Masculina sur -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
-- **Femina sur -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
+La desinentza dal nominativ plural en il masculinum e feminin è **-as**.
+- **Masculinas cun -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+- **Femininas cun -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+- **Masculinas cun -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+- **Femininas cun -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+- **Femininas cun -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+- **Masculinas cun -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+- **Femininas cun -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
-Nota: **e** è il nivel elevà (**guṇa**) per **i**, **o** è il nivel elevà per **u**.
+Nota: **e** è il grad elevà (**guṇa**) a **i**, **o** è il grad elevà a **u**.
 
-## 3.4. Vokalsandhi
+
+## 3.4. Sandha vocalic
 
 ::: grammar-box
-**Vocalis simplas, quae vel non vel modo longitudine differunt, "coalescunt" in vocalem longam correspondentem:**
+**Vocalis simplas, che na sa differenzieschan betg u mo en lur lunghezza, "s'unischan" al vocal lung correspundent:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
 :::
-e.g.
+p.ex.
 
-devatā + annapūrṇā » devatānnapūrṇā «Annapūrṇa è ina dea» = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇa è ina divinitad" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
 
-> (Annapūrṇā è la dea del nutrimento e da la cucina, considerata un'incarnazione di Pārvatī, consorte di Śiva.)
+> (Annapūrṇa è la dea dal mangiar e da la preparaziun, ella vala sco ina incarnaziun da Pārvatī, la consorta da Śiva.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī è ina deessa" = ⟪देवीन्द्राणी⟫
+devī + indrāṇī » devīndrāṇī "Indrāṇi è ina diva" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī è la consorte del dio Indra.)
+> (Indrāṇi è la consorta dal diev Indra.)
 
 ::: media
 ![](/images/lekt0301.webp)
-Fig.: Indra ed Indrāṇī sin l' elefant Airavata, miniatura, Rājasthān, 1670/80
-(Sursa da l'imagines: [Detagls](/rm/licenses#lekt0301))
+Fig.: Indra e Indrāṇī sin l’elefant Airavata, miniatura, Rājasthān, 1670/80
+(Font dal maletg: [Detagls](/rm/licenses#lekt0301))
 :::
 
 ::: grammar-box
-**Vocalis simplas (praeter -a / -ā) ante vocales dissimiles per semivocem correspondentem substituitur:**
+**Vocalis simplas (except -a / -ā) vegnan avant vocalis dissimiladas sustituidas dal semivocal correspundent:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
-exempli gratia
+(!! A questa regla datti specialmain per furmas dal dual excepziuns !!)
 :::
-exempli gratia
+p.ex.
 
-devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫
+devī + umā » devy umā "Umā è ina / la deessa" = ⟪देव्युमा⟫
 
 > (Umā è in num per Pārvatī, la consorta da Śiva)
 
 ::: grammar-box
-**-a / -ā davant vocal diferent:**
+**-a / -ā avant vocal dissimila:**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
 :::
-Per quest Sandhi val uschè il suandant schema:
+Per quest sandhi vala uschia il suandant schema:
 
 ::: media
 ![](/images/lekt0302.jpg)
-per exempel
+(Font dal maletg: [Detagls](/rm/licenses#lekt0302))
 :::
-per exempel
+A questa cuntrapartida dal stem vesair pli tard!
 
 p.ex.
 
-śūdrā + itarā » śudretarā "Itarā es ina femna śūdra" = ⟪शूद्रेतरा⟫
+śūdrā + itarā » śudretarā "Itara è ina femna da Śūdra" = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās
+
+## 3.5. Sandhi da frasa cun -ās
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-p.ex.
+p.ex. <!-- TODO: Fallback translation -->
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas èn naschidnas" = ⟪द्विजा⟫ ⟪वैश्याः⟫
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas èn naschids duas giadas" = ⟪द्विजा वैश्याः⟫
 
-## 3.6. Glista da pleds
 
-**Imparar las suentas suventas:**
+## 3.6. Glosa
 
-**śruti** f. = ⟪श्रुति⟫ : l’udir, la tradiziun eterna (denominaziun per ils Veds e ils Brāhmaṇa).
+**Memorisai las suandantas paraulas:**
 
-**smṛti** f. = ⟪स्मृति⟫ : Actualisaziun, remembranza, actualisaziun meditativa = atgion, transmissiun (cuntracumpart a **śruti**). Cuntena:
+**śruti** f. = ⟪श्रुति⟫ : l’udir, la transmissiun eterna (denominaziun per ils Veda e Brāhmaṇa's).
+
+**smṛti** f. = ⟪स्मृति⟫ : actualisaziun, rememraziun, actualisaziun meditativa = atgna conscienza, transmissiun (contrapartida a **śruti**). Cunfonda:
 - ils sis **vedāṅga** n. (⟪वेदाङ्ग⟫)
-  1. **śikṣā** f. (⟪शिक्षा⟫): correcta pronunzia
-  2. **chandas** n. (⟪छन्दस्⟫): metr
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): gramatica
-  4. **nirukta** n. (⟪निरुक्त⟫) : explicaziun da parolas, etimologia
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomia, doctrina dal calendari
-  6. **kalpa** m. (⟪कल्प⟫) : ceremonial
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : ovras da scola per l'execuziun da las grans sacrificis
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : ovras da scola per las ceremonias e sacrificis dal vitg dal di
+1. **śikṣā** f. (⟪शिक्षा⟫): correcta pronunzia
+2. **chandas** n. (⟪छन्दस्⟫): metr
+3. **vyākaraṇa** n. (⟪व्याकरण⟫): gramatica
+4. **nirukta** n. (⟪निरुक्त⟫) : explicaziun da paraulas, etimologia
+5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomia, doctrina dal calendari
+6. **kalpa** m. (⟪कल्प⟫) : cerimonial
+- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : ovras da scola per l’execuziun dals grans sacrificis
+- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : ovras da scola per las ceremonias e sacrificis dal vitge
 - **dharmasūtra** n. (⟪धर्मसूत्र⟫) e **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : ovras da scola davart dretg ed usanza (comportaziun correcta)
 - ils grans epes **mahābhārata** n. (⟪महाभारत⟫) e **rāmāyaṇa** n. (⟪रामायण⟫)
 - ils **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : ovras da scola da la savida dal viver
+- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : ovras da scola da la savessa dal vitge
 
-**smṛti** è er specialmain in significaziun per ovras davart il dretg.
+**smṛti** è specialmain er denominaziun per ovras da scola davart il dharma.
 
-**dhenu** f. = ⟪धेनु⟫ : (Vacca da) latg.
+**dhenu** f. = ⟪धेनु⟫ : (latg-) vacca.
 
-**paśu** m. = ⟪पशु⟫ : animal domesticà da engreder, bestialitad (collectivum).
+**paśu** m. = ⟪पशु⟫ : animal da cultiva domesticà, bestgiament (collectivum).
 
-**devatā** f. = ⟪देवता⟫ : divinitad (abstracta e concreta).
+**devatā** f. = ⟪देवता⟫ : deïtat (abstract e concret).
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : Kṣatriya femina.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : femna da Kṣatriya. <!-- TODO: Fallback translation -->
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Donna d'un Kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : femna d’in Kṣatriya.
 
-**vaiśyā** f. = ⟪वैश्या⟫ : femina Vaiśya.
+**vaiśyā** f. = ⟪वैश्या⟫ : femna da Vaiśya.
 
-**śūdrā** f. = ⟪शूद्रा⟫ : femina Śūdra.
+**śūdrā** f. = ⟪शूद्रा⟫ : femna da Śūdra.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : femna d’in Śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : femna d’in Śūdra.
 
-**devī** f. = ⟪देवी⟫ : diva, spezialmain Durgā f. = ⟪दुर्गा⟫, la consorta da Śiva = ⟪शिव⟫.
+**devī** f. = ⟪देवी⟫ : deessa, specialmain Durgā f. = ⟪दुर्गा⟫, la consorta da Śiva = ⟪शिव⟫.
 
 ::: media
 ![](/images/lekt0303.webp)
 Fig.: Durgā = ⟪दुर्गा⟫, Orissa
-(Fontana da l'immagina: [Detagls](/images/lekt0303))
+(Font dal maletg: [Detagls](/images/lekt0303))
 :::
 **sādhvī** f. = ⟪साध्वी⟫ : fem. a sādhu.
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. a guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Identitad", quai dir, il (fals) creder: **Jau** ei quai, che vescha ecc.
+**asmitā** f. = ⟪अस्मिता⟫ : "esser-essezza", idest il (falsch) credi: **Jeu** ess el che ves etc. <!-- TODO: Fallback translation -->
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Filosofìa (la scienza che arriva a sias conclusiuns tras argumetaziuns logicamain correctas).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filosofia (la scienza che arriva a las suas conclusiuns tras argumaints logicamain corrects).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : Ignoranza, imperturbabilitad.
+**upekṣā** f. = ⟪उपेक्षा⟫ : neglect, equanimitad. <!-- TODO: Fallback translation -->
 
-**karuṇā** f. = ⟪करुणा⟫ : Cunfluenza, cumpassiun.
+**karuṇā** f. = ⟪करुणा⟫ : compassion, pietad.
 
-**muditā** f. = ⟪मुदिता⟫ : gaud, spezialmain gaud cun auters (cuntrari a gelusia).
+**muditā** f. = ⟪मुदिता⟫ : gieuja, specialmain la gieuja cun auters (cuntrari a l'invidia).
+
 
 ## 3.7. Exercizi
 
-**A) Metter las suentas en il plural:**
+**A) Mettai las sentenzias suventantas en il plural:**
 
-1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
-2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫
-3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫
+1. dvijo brāhmaṇaḥ = ⟪द्विजो ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो वैश्यः⟫
 4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
-6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫
-7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫
-8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता गुरुः⟫
 9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
-10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫
+10. gurvī sādhvī = ⟪गुर्वी साध्वी⟫
 
-**B) Formai sentenzes nominalas per inserir:**
+**B) Formai sentenzias nominalas tras inserir:**
 
 1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
 2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
@@ -216,19 +221,19 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
 5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
 
-**C) Traduscha en il feminin:**
+**C) Translatai en il feminin:**
 
 1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
-3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः साधुः⟫
 
-**D) Traducir en sànscrit:**
+**D) Translatai en il sanscrit:**
 
 1. Umā è ina deessa.
-2. Umā è ina deessa.
-3. Il Veda è śruti.
-4. Las magisteras èn deessas.
-5. Las muolas da latg èn animals domestichads.
-6. Poëtas èn magisters.
-7. Ils umans sants èn Śūdras.
+2. Il Veda è śruti.
+3. Las magistras èn deessas.
+4. Las muallas da latg èn animals domesticads.
+5. Els poets èn magisters.
+6. Ils Kṣatriyas èn naschids duas giadas.
+7. Ils umens sants èn Śūdras.
 

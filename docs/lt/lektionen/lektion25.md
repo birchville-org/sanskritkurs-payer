@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 25
+# Pamoka 25
 
 ## 25.1. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
 

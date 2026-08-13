@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 57
+# Lectio 57
 
-## 57.1. Aorist 4: s-Aoristus
+## 57.1. Aorist 4: s-Aoristus <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Radix s-aoristus ad radices plures ⟪अनिट्⟫ formatur, nisi quae aliam aoristi formam tantum habent. Radices facultativae ⟪अनिट्⟫ communiter vel hunc vel aoristem iṣ- formare possunt. Item radices ⟪अनिट्⟫, quae post formam primam, secundam vel sextam aoristi ⟪परस्मैपद⟫ formant, radices ⟪आत्मनेपद⟫ secundum aoristem s- formant.**
@@ -94,7 +94,7 @@ Exempla:
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -141,10 +141,14 @@ Praeterea sunt pro ⟨JAG⟩ formae regulares gradu basso:
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (in P ⟨JAG⟩ habet aoristum thematicum)**
 
 2.  ⟪पद्⟫ 4Ā est regularis (e.g. ⟪अपत्सि⟫), in 3.sg.Ā habet tamen formam aoristi radicalis passivi:
-    ⟪अपादि⟫ "ibat"
+::: indent
+⟪अपादि⟫ "ibat"
+:::
 
 3.  ⟪बुध्⟫ Ā potest in 3.sg.Ī formam aoristi radicalis passivi assumere:
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "agnovit"
+::: indent
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "agnovit"
+:::
 :::
 ## 57.2. Exercitatio
 
@@ -237,6 +241,6 @@ B) Translate et determina sequentes formas:
 
 ::: deleteme-box
 
-**lekt5701:** [Imago fontis: Wikipedia. Dominium publicum.]
+**lekt5701:** [Imago fontis: Wikipedia. Dominium publicum.] <!-- TODO: Fallback translation -->
 
 :::

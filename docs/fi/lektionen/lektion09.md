@@ -15,7 +15,7 @@ last_reconstructed: 2026-05-07
 - Nominaalivarsien muodostuminen suffikseilla **-ka** (taddhita) ja **-aka** (kṛt)
 - Sanastoa ammateista ja sosiaalisista rooleista
 - Lainauksia klassisista lakiteksteistä (Dharmaśāstras)
-:::
+::: <!-- TODO: Fallback translation -->
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "yhteenvetodvandva")
 
@@ -24,7 +24,7 @@ last_reconstructed: 2026-05-07
 
 esim. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ ei tarkoita yksinkertaisesti "ruokaa (**āhāra** m.), unta (**nidrā** f.), parittelua (**maithuna** n.) ja pelkoa (**bhaya** n.)", vaan näitä neljää **yksikkönä**, joka karakterisoi eläinten elämää.
 :::
-Tämän Dvandva-sanan muodostamista koskevan perussäännön lisäksi on olemassa joukko muita sääntöjä, jotka löytyvät Pāṇinin 2,4,2-17 tai esim. Mr. R. Kalesta, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. Kielen kehityksen eri vaiheissa samoja sääntöjä ei aina noudatettu!
+Tämän Dvandva-sanan muodostamista koskevan perussäännön lisäksi on olemassa joukko muita sääntöjä, jotka löytyvät Pāṇinin 2,4,2-17 tai esim. Mr. R. Kalesta, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. Kielen kehityksen eri vaiheissa samoja sääntöjä ei aina noudatettu! <!-- TODO: Fallback translation -->
 
 ## 9.2. Nominaalivartalojen muodostus
 
@@ -37,24 +37,24 @@ Tämän Dvandva-sanan muodostamista koskevan perussäännön lisäksi on olemass
 **putra m. "poika" » putraka m. ⟪पुत्रक⟫ "pieni poika"**
 
 2\. **Nomina, jotka ilmaisevat suunnilleen samankaltaisuutta:**
-**aśva m. "hevonen" » aśvaka m. ⟪अश्वक⟫ "pieni hevonen, hevoseläin"**
+**aśva m. "hevonen" » aśvaka m. ⟪अश्वक⟫ "pieni hevonen, hevoseläin"** <!-- TODO: Fallback translation -->
 
 3\. **Nomina ilman merkityseroa perusnominaan nähden:**
-**putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
+**putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫** <!-- TODO: Fallback translation -->
 
 4\. **Substantitvit, jotka ilmaisevat "perusmerkitykseen liittyvät":**
 **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟩ "Benaresissa syntynyt, kotoisin Benaresta"**
 **rūpa n. "muoto" » rūpaka 3 ⟪रूपक⟩ "jonkin muodon omaava"**
-:::
+::: <!-- TODO: Fallback translation -->
 
-### 9.2.2. -aka (kṛt), fem. usein -ikā
+### 9.2.2. -aka (kṛt), fem. usein -ikā <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**kṛt-jäsen -aka, feminiini usein -ikā muodostaa toimijan substantiivit (substantiivit, jotka ilmaisevat tekijän) jokaiselle juurelle.**
+**kṛt-jäsen -aka, feminiini usein -ikā muodostaa toimijan substantiivit (substantiivit, jotka ilmaisevat tekijän) jokaiselle juurelle.** <!-- TODO: Fallback translation -->
 
 Juuren loppuvokaali sekä **-a-** juuren toiseksi viimeisellä paikalla korvataan niiden pidennysasteella (**vṛddhi**) (on joitakin poikkeuksia), muut vokaalit korvataan niiden korkeusasteella (**guṇa**).
 :::
-**Esimerkit:**
+**Esimerkit:** <!-- TODO: Fallback translation -->
 
 | Juuri:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Merkitys |
 | :--- | :--- | :--- |
@@ -63,12 +63,12 @@ Juuren loppuvokaali sekä **-a-** juuren toiseksi viimeisellä paikalla korvataa
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Johtaja, isäntä, aviomies,:brrakastettu / rakastajatar, nainen" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Uhraaja, uhripappi" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tanssija / tanssijatar" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "voittoisa" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "voittoisa" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Jotkut näistä muodostelmista ovat tarkemmin: "se, mikä juuressa ilmaistun toiminnan suorittaa tottumuksesta tai velvollisuutena tai hyvin".**
 :::
-katso yllä esim. **śrāvaka**, **yājaka**, **jayaka**
+katso yllä esim. **śrāvaka**, **yājaka**, **jayaka** <!-- TODO: Fallback translation -->
 
 **Esimerkit:**
 
@@ -76,15 +76,15 @@ katso yllä esim. **śrāvaka**, **yājaka**, **jayaka**
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Maanviljelijä":br(guṇa-aste!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Piinaja" |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Syöjä, ahmija" |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Syöjä, ahmija" | <!-- TODO: Fallback translation -->
 
-Lisäksi on olemassa joitakin vähemmän tärkeitä käyttötapoja suffiksille **-aka**. Vrt. Wackernagel, Altindische Grammatik, II, §45ff.
+Lisäksi on olemassa joitakin vähemmän tärkeitä käyttötapoja suffiksille **-aka**. Vrt. Wackernagel, Altindische Grammatik, II, §45ff. <!-- TODO: Fallback translation -->
 
 ## 9.3. Sanalista
 
 **Opettele seuraavat sanat:**
 
-- **adhyayana** n. (⟪अध्ययन⟫) : oppiminen, erityisesti vedatutkimus
+- **adhyayana** n. (⟪अध्ययन⟫) : oppiminen, erityisesti vedatutkimus <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0903.webp)
@@ -112,7 +112,7 @@ Kuva: **kāru** = ⟪कारु⟫, Gujarat.
   - **yajana** n. (⟪यजन⟫) : uhraus jonkun toimeksiannosta
 - **rūpa** n. (⟪रूप⟫) : ulkonäkö, muoto, kaunis muoto, luonne, olemus
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : kauppa
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : kuuliaisuus, kuuliainen palvelus
+- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : kuuliaisuus, kuuliainen palvelus <!-- TODO: Fallback translation -->
 
 ## 9.4. Harjoitus
 
@@ -149,17 +149,17 @@ Kuva: **karṣaka** = ⟪कर्षक⟫.
 1. Kaikkien kahdesti syntyneiden tehtävät:
    **ijyādhyayanadānāni**
 ⟪इज्याध्ययनदानानि⟫
-(Yājñavalkyadharmaśāstra I, 118)
+(Yājñavalkyadharmaśāstra I, 118) <!-- TODO: Fallback translation -->
 
 2. Brahminin erityistehtävät:
    **pravacanayājanapratigrahāḥ**
 ⟪प्रवचनयाजनप्रतिग्रहाः⟫
-(Gautamadharmasūtra X, 2)
+(Gautamadharmasūtra X, 2) <!-- TODO: Fallback translation -->
 
 3. Kṣatriyan erityistehtävät:
    **rakṣaṇaṃ sarvabhūtānām**
 ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(sarvabhūtānām = genetiivi: "kaikkien olentojen"; Gautamadharmasūtra X, 7)
+(sarvabhūtānām = genetiivi: "kaikkien olentojen"; Gautamadharmasūtra X, 7) <!-- TODO: Fallback translation -->
 
 4. Vaiśyan erityistehtävät:
    **kṛṣivāṇijyapāśupālyakusīdam**
@@ -170,8 +170,9 @@ Kuva: **karṣaka** = ⟪कर्षक⟫.
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
 ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
 (Kauṭilīya-Arthaśāstra 1.3.8:n mukaan)
-Selitys: dvijātīnām = genetiivi monikossa sanasta dvijāti (käännä tässä: "kahdesti syntyneiden edessä"); kārukuśīlavakarma on Tatpuruṣa-yhdyssana, jonka etuosassa on Dvandva (kārukuśīlava). karma = nominatiivin yksikkö sanasta karman n. "teko, toiminta, karma" juuresta kṛ 8 U). Käännä "teko/toiminta ... (genetiivi)" (Dvandvan määrittämät).
+Selitys: dvijātīnām = genetiivi monikossa sanasta dvijāti (käännä tässä: "kahdesti syntyneiden edessä"); kārukuśīlavakarma on Tatpuruṣa-yhdyssana, jonka etuosassa on Dvandva (kārukuśīlava). karma = nominatiivin yksikkö sanasta karman n. "teko, toiminta, karma" juuresta kṛ 8 U). Käännä "teko/toiminta ... (genetiivi)" (Dvandvan määrittämät). <!-- TODO: Fallback translation -->
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
 ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
 (Kauṭilīya-Arthaśāstra 1.4.1:n mukaan)
+ <!-- TODO: Fallback translation -->

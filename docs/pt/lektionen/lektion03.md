@@ -76,7 +76,7 @@ Nota: **e** é o grau vocálico forte (**guṇa**) de **i**, **o** é o grau voc
 :::
 p. ex.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā é uma divindade" = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā é uma divindade" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
 
 > (Annapūrṇā é a deusa dos alimentos e da culinária, ela é considerada uma encarnação de Pārvatī, a esposa de Śiva.)
 
@@ -127,7 +127,7 @@ p. ex.
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-p. ex.
+p. ex. <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Os Vaiśyas são nascidos duas vezes" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

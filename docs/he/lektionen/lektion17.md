@@ -5,7 +5,7 @@ lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # שיעור 17
 
@@ -40,7 +40,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
 | 3\. רבים. זמן הווה. קול פעיל | ⟪द्विषन्ति⟫ (dviṣ-anti) |
 | 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. רבים. נוכח. אָ | ⟪द्विषते⟫ (dviṣ-ate) |
+| 3\. רבים. נוכח. אָ | ⟪द्विषते⟫ (dviṣ-ate) | <!-- TODO: Fallback translation -->
 
 :::
 חל כאן כלל הסנדהי הבא:
@@ -66,7 +66,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪एति⟫ (e-ti) |
 | 3\. רבים. נוכח. פעול | ⟪यन्ति⟫ (y-anti) |
 | 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
-| 3\. רבים. זמן הווה. פעול | ⟪इयते⟫ (iy-ate) |
+| 3\. רבים. זמן הווה. פעול | ⟪इयते⟫ (iy-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪दुह्⟫ 2 U "חלב"
@@ -81,7 +81,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. רבים. זמן הווה. פעיל | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. רבים. נוכח. א | ⟪दुहते⟫ (duh-ate) |
+| 3\. רבים. נוכח. א | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪हन्⟫ 2 P "להכות, להרוג, לחסל"
@@ -98,7 +98,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) |
 | 3\. רבים. הווה. קול פעיל | ⟪घ्नन्ति⟫ (ghn-anti) |
 | 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
-| 3\. רבים. הווה. אָ | ⟪घ्नते⟫ (ghn-ate) |
+| 3\. רבים. הווה. אָ | ⟪घ्नते⟫ (ghn-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪अस्⟫ 2 P "להיות"
@@ -111,7 +111,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
-| 3\. רבים. נוכח. פעל | ⟪सन्ति⟫ (s-anti) |
+| 3\. רבים. נוכח. פעל | ⟪सन्ति⟫ (s-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.3. שורשי כיתה הנוכחית השנייה עם מדרגת גזע: שלב הארכה - שלב נמוך
@@ -132,7 +132,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
 | 3\. רבים. זמן הווה. פעל בינוני | ⟪स्तुवन्ति⟫ (stuv-anti) |
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
-| 3\. רבים. נוכח. אָ | ⟪स्तुवते⟫ (stuv-ate) |
+| 3\. רבים. נוכח. אָ | ⟪स्तुवते⟫ (stuv-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.4. שורשי כיתה הנוכחית השנייה ללא מדרגת גזע
@@ -149,7 +149,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. רבים. נוכח. פעל | ⟪पान्ति⟫ (« pā- + -anti) |
+| 3\. רבים. נוכח. פעל | ⟪पान्ति⟫ (« pā- + -anti) | <!-- TODO: Fallback translation -->
 
 :::
 כמו כן, לשורשים אחרים מהמחלקה השנייה אין מדרגת שורש:
@@ -163,7 +163,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. רבים. זמן הווה. פעל | ⟪अदन्ति⟫ (ad-anti) |
+| 3\. רבים. זמן הווה. פעל | ⟪अदन्ति⟫ (ad-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪आस्⟫ 2 א "לשבת"
@@ -173,7 +173,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. רבים. נוכח. אָ | ⟪आसते⟫ (ās-ate) |
+| 3\. רבים. נוכח. אָ | ⟪आसते⟫ (ās-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪वच्⟫ 2 P "אומרים"
@@ -183,7 +183,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| :--- | :--- |
+| :--- | :--- | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.5. שורשים דו-הברתיים הסוגיים -i/-ī עם מדרגת שורש
@@ -204,7 +204,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. רבים. נוכח. קול פעל | ⟪रुदन्ति⟫ (rud-anti) |
+| 3\. רבים. נוכח. קול פעל | ⟪रुदन्ति⟫ (rud-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪ब्रू⟫ 2 U "דבר"
@@ -230,7 +230,7 @@ status: stable
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.6. רשימת מילים
@@ -418,3 +418,4 @@ status: stable
 
 **lekt1703:** באנג'ור = ಬೆಂಗಳೂರು [מקור התמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- נגיש ב-2008-12-07. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
 :::
+ <!-- TODO: Fallback translation -->

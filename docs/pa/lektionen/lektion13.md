@@ -29,23 +29,35 @@ pad 4 ਆ ਪੀ.ਪੀ.ਪੀ.: panna 3 = ⟪पन्न⟫
 "ਸੋਚਣ", "ਚਾਹੁਣ", "ਜਾਣਨ", "ਦਾਨ ਕਰਨ", "ਪੂਜਾ ਕਰਨ" ਅਤੇ ਕੁਝ ਹੋਰ ਕ੍ਰਿਆਵਾਂ, ਜਿਨ੍ਹਾਂ ਦਾ ਅਰਥ ਹੈ, ਦੇ ਪੀਪੀ, ਜੋ ਪਾਣਿਨੀ ਦੇ ਮੂਲ ਸੂਚੀ, ਧਾਤੁਪਾਠ ਵਿੱਚ ñi ਦੁਆਰਾ ਚਿੰਨ੍ਹਿਤ ਹਨ, ਵਿੱਚ ਸਿਰਫ਼ ਭੂਤਕਾਲੀ ਅਰਥ ਨਹੀਂ ਹੁੰਦਾ, ਸਗੋਂ ਵਰਤਮਾਨਕਾਲੀ ਅਰਥ ਵਿੱਚ ਵੀ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ:
 :::
 ::: indent
-    ⟪इष्ट⟫ "ਚਾਹੀਦਾ" (ਭਾਵ, ਸਿਰਫ਼ ਭੂਤਕਾਲ ਵਿੱਚ ਨਹੀਂ, ਸਗੋਂ ਵਰਤਮਾਨ ਵਿੱਚ ਵੀ)
+::: indent
+⟪इष्ट⟫ "ਚਾਹੀਦਾ" (ਭਾਵ, ਸਿਰਫ਼ ਭੂਤਕਾਲ ਵਿੱਚ ਨਹੀਂ, ਸਗੋਂ ਵਰਤਮਾਨ ਵਿੱਚ ਵੀ)
+:::
 :::
 
-    ⟪त्वरित⟫ "ਭੱਜਦਾ, ਜਲਦੀ" (tvar 1 Ā ਦਾ ਪੀਪੀ; ਧਾਤੁਪਾਠ: ñitvárā)
 ::: indent
-    ⟪इष्टं⟫ ⟪फलम्⟫ "ਚਾਹੀਦੀ ਫ਼ਲ (ਉਦਾਹਰਣ ਵਜੋਂ, ਕੰਮਾਂ ਦੀ)"
+⟪त्वरित⟫ "ਭੱਜਦਾ, ਜਲਦੀ" (tvar 1 Ā ਦਾ ਪੀਪੀ; ਧਾਤੁਪਾਠ: ñitvárā)
+:::
+::: indent
+::: indent
+⟪इष्टं⟫ ⟪फलम्⟫ "ਚਾਹੀਦੀ ਫ਼ਲ (ਉਦਾਹਰਣ ਵਜੋਂ, ਕੰਮਾਂ ਦੀ)"
+:::
 :::
 
 Wenn in diesem Fall ⟪अपि⟫ nach dem PPP steht, hat ⟪अपि⟫ die Bedeutung "obwohl":
 ਉਦਾਹਰਨ:
 ::: indent
-    ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "ਹਾਲਾਂਕਿ ਉਹ ਫ਼ਲ ਚਾਹੁੰਦਾ ਹੈ, ਉਹ ਉਸਨੂੰ ਨਹੀਂ ਪ੍ਰਾਪਤ ਕਰਦਾ⟪।⟫"
+::: indent
+⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "ਹਾਲਾਂਕਿ ਉਹ ਫ਼ਲ ਚਾਹੁੰਦਾ ਹੈ, ਉਹ ਉਸਨੂੰ ਨਹੀਂ ਪ੍ਰਾਪਤ ਕਰਦਾ⟪।⟫"
+:::
 :::
 
-    ⟪गत⟫ ਨ.: "ਜਾਣਾ, ਚੱਲਣਾ"
 ::: indent
-    ⟪नृत्त⟫ ਨ.: "ਨੱਚਣਾ, ਨਾਚ"
+⟪गत⟫ ਨ.: "ਜਾਣਾ, ਚੱਲਣਾ"
+:::
+::: indent
+::: indent
+⟪नृत्त⟫ ਨ.: "ਨੱਚਣਾ, ਨਾਚ"
+:::
 :::
 
 ## 13.3. ਨਾਮਵਾਚਕਾਂ ਦੇ ਗੁਣਵਾਚਕ ਨਿਰਦੇਸ਼ (ਸ਼ਬਦ ਕ੍ਰਮ)
@@ -67,7 +79,7 @@ Wenn in diesem Fall ⟪अपि⟫ nach dem PPP steht, hat ⟪अपि⟫ die 
 
 ਤੱਦਹਿਤ ਪ੍ਰਤੱਖ -ਮੰਤ ਜਾਂ -ਵੰਤ ਦੁਆਰਾ ਨਾਮਾਂ ਤੋਂ ਮਾਲਕਤਾ ਦਰਸਾਉਣ ਵਾਲੇ ਵਿਸ਼ੇਸ਼ਣ ਬਣਾਏ ਜਾਂਦੇ ਹਨ⟪।⟫ ਉਹਨਾਂ ਦਾ ਅਰਥ ਹੈ: "ਜਿਸ ਵਿੱਚ ਮੂਲ ਨਾਮ ਦੁਆਰਾ ਦਰਸਾਇਆ ਗਿਆ ਹੋਵੇ"⟪।⟫
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 ਉਦਾਹਰਣਾਂ:
 

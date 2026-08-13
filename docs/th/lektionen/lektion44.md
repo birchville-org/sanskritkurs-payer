@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # บทที่ 44
 
@@ -484,17 +484,18 @@ B) แปล:
 
 **lekt4402.jpg**: ภาพวาดโดย Henri Gerbault (1863 - 1930) (สาธารณสมบัติ)
 
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, ไม่ดัดแปลง)
+**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, ไม่ดัดแปลง) <!-- TODO: Fallback translation -->
 
-**lekt4409.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike)
+**lekt4409.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike) <!-- TODO: Fallback translation -->
 
 **lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า)
 
 **lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า)
 
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike)
+**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike) <!-- TODO: Fallback translation -->
 
 **lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, ไม่ดัดแปลง)
 
 **lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, ไม่ดัดแปลง)
 :::
+ <!-- TODO: Fallback translation -->

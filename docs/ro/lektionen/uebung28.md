@@ -106,7 +106,7 @@ Kṣatriya, pentru a-i învinge pe dușmani, i-a poruncit brahmanului Hari și H
 
 ⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫**
 Învățătorul i-a poruncit băiatului să învețe Veda și apoi s-a întors acasă.
-(Bază: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
+(Bază: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
 
 ⟪३⟫. **⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫ ⟪॥३॥⟫**
 În sanctuarul interior este expusă imaginea zeiței.
@@ -144,4 +144,4 @@ Pentru a-i elibera de rău, Buddha poruncește oamenilor nobili să recunoască 
 ![](/images/uebung045.webp)
 Fig.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung045))
-:::
+::: <!-- TODO: Fallback translation -->

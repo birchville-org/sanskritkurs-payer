@@ -4,9 +4,9 @@ lesson_id: 33
 status: stable
 ---
 
-# Lektion 33
+# Lectio 33
 
-## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
+## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.) <!-- TODO: Fallback translation -->
 
 * Tertia classis praesentis
 * (simul verba quaedam aliarum classium praesentis),
@@ -19,7 +19,7 @@ fiunt per reduplicationem. Pars formae reduplicatae, quae ante radicem ponitur, 
 
 Syllaba reduplicativa ex consonante (et) vocali constat.
 
-### 33.1.1. Der Reduplikationskonsonant
+### 33.1.1. Der Reduplikationskonsonant <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **1. Communiter:**  
@@ -76,7 +76,7 @@ Exemplum:
 **⟪स्था⟫** 1 "stare"
 * 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
 :::
-## 33.2. Tertia classis praesentis (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.")
+## 33.2. Tertia classis praesentis (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Educatio:**
@@ -110,14 +110,14 @@ Exempla:
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. Zum Ablaut von ā
+## 33.3. Zum Ablaut von ā <!-- TODO: Fallback translation -->
 
 ā kann
 
 * ex una parte gradus productus unius series consonanticae cum -a- esse possit
 * ex altera parte gradus productus in una serie apophonicae classis ā esse possit
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A.**
@@ -170,7 +170,7 @@ Exempla:
 | **Imperfectum** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativus** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Radices **⟪दा⟫** et **:sig[⟪धा⟫]**
+### 33.4.1. Radices **⟪दा⟫** et **:sig[⟪धा⟫]** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Radices ⟪दा⟫ et :sig[⟪धा⟫] reduplicantur vocali -a- et in stemmate infirmiori vocalem radicalis amittunt.**
@@ -178,7 +178,7 @@ Exempla:
 **Notate bei :sig[⟪धा⟫] das Hauchdissimilationsgesetz!**
 :::
 ::: grammar-box
-**:sig[⟪धा⟫]** 3U "setzen, festsetzen, zuteilen"
+**:sig[⟪धा⟫]** 3U "setzen, festsetzen, zuteilen" <!-- TODO: Fallback translation -->
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Exempla:
 | **Imperfectum** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativus** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Formae **⟪दा⟫** obtinentur, cum in paradigma **:sig[⟪धा⟫]** **dh** per **d** mutatur. Ita:
+Formae **⟪दा⟫** obtinentur, cum in paradigma **:sig[⟪धा⟫]** **dh** per **d** mutatur. Ita: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪दा⟫** 3U "dare"

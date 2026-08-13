@@ -12,11 +12,11 @@ status: stable
 ## 57.1. Aorist 4: آئوریست s-
 
 ::: grammar-box
-**Der s-Aorist wird zu den meisten ⟪अनिट्⟫-Wurzeln gebildet, sofern sie nicht ausschließlich eine andere Aoristform haben. Fakultative ⟪अनिट्⟫-Wurzeln können im allgemeinen wahlweise diesen oder den iṣ-Aorist bilden. Auch ⟪अनिट्⟫-Wurzeln, die das ⟪परस्मैपद⟫ nach der 1.,2. oder 6. Form des Aorist bilden, bilden das ⟪आत्मनेपद⟫ nach dem s-Aorist.** <!-- TODO: Fallback translation -->
+**ساختار س-آئوریست به بیشتر ریشه‌های ⟪अनिट्⟫ اطلاق می‌شود، مگر آنکه صرفاً شکل آئوریست دیگری داشته باشند. ریشه‌های اختیاری ⟪अनिट्⟫ به طور کلی می‌توانند این شکل یا آئوریست iṣ را تشکیل دهند. همچنین ریشه‌های ⟪अनिट्⟫ که پس از شکل اول، دوم یا ششم آئوریست، ⟪परस्मैपद⟫ را می‌سازند، نیز ⟨⟪आत्मनेपद⟫ را بر اساس س-آئوریست می‌سازند.**
 
-**Bildung: Augment + Wurzel + s + athematische Sekundärendung** <!-- TODO: Fallback translation -->
+**ساختار: آگمنت + ریشه + s + پایان ثانوی اتماتیک**
 :::
-Tabelle der Endungen mit Stammbildungssuffix <!-- TODO: Fallback translation -->
+جدول پایان‌ها با پسوند ساخت بن
 
 ::: grammar-box
 
@@ -28,44 +28,44 @@ Tabelle der Endungen mit Stammbildungssuffix <!-- TODO: Fallback translation -->
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
 :::
 ::: grammar-box
-**Es wird das allgemeine Lautgesetz angewendet, dass ein Zischlaut zwischen zwei Verschlusslauten ausfällt (vgl. ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), d.h. das Stammbildungssuffix -s- vor Endungen, die mit -t- oder -th- beginnen, entfällt (nicht aber nach Nasalen oder r-).** <!-- TODO: Fallback translation -->
+**قانون کلی آوایی اعمال می‌شود که بر اساس آن، یک صدای سایشی (Zischlaut) بین دو صدای بسته حذف می‌شود (مقایسه کنید با ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫)، یعنی پسوند ساخت ریشه -s- پیش از پایان‌هایی که با -t- یا -th- شروع می‌شوند، حذف می‌گردد (اما نه پس از صامت‌های بینی یا r-).**
 
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 :::
 ::: indent
-3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***:sig[⟪क्षिप्त⟫]***
-2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***:sig[⟪क्षिप्था⟫]***⟪स्⟫ <!-- TODO: Fallback translation -->
+مفرد سوم Ā a-kṣip + s + ta » ⟪अ⟫***:sig[⟪क्षिप्त⟫]***
+مفرد دوم Ā a-kṣip + s + thās » ⟪अ⟫***:sig[⟪क्षिप्था⟫]***⟪स्⟫
 :::
-Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin. <!-- TODO: Fallback translation -->
-Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin.
-Die indischen Grammatiker haben auch Formen wie :sig[⟪अकृत⟫] (3.sg.Ā) zum s-Aorist gerechnet, die eindeutig zum Wurzelaorist gehören. Zu diesem Zweck haben die indischen Grammatiker folgende ad-hoc Lautregel für den s-Aorist erfunden: <!-- TODO: Fallback translation -->
+چنین شکلی ممکن است به آئورست ریشه‌ای (Wurzelaorist) تعلق داشته باشد و احتمالاً بخشی از آن نیز واقعاً به آئورست ریشه‌ای تعلق دارد.
+چنین شکلی ممکن است به آئورست ریشه‌ای (Wurzelaorist) تعلق داشته باشد و احتمالاً بخشی از آن نیز واقعاً به آئورست ریشه‌ای تعلق دارد.
+دستوران هندی همچنین شکلی مانند :sig[⟪अकृत⟫] (مفرد سوم Ā) را به س-آئورست محسوب کرده‌اند که قطعاً به آئورست ریشه‌ای تعلق دارد. برای این منظور، دستوران هندی قانون آوایی زیر را به صورت ad-hoc برای س-آئورست ابداع کردند:
 
 ::: indent
-"Nach kurzem Vokal verlieren die "Endungen", die mit -st- oder -sth- beginnen, das -s-." <!-- TODO: Fallback translation -->
+«پس از مصوت کوتاه، "پایان‌ها" که با -st- یا -sth- شروع می‌شوند، -s- را از دست می‌دهند.»
 :::
-Sonst sind die Lautregeln für die Verbindung auslautender Konsonanten mit s- zu beachten. <!-- TODO: Fallback translation -->
+در غیر این صورت، قوانین آوایی مربوط به ترکیب صامت‌های پایانی با s- باید رعایت شوند.
 
-Für -dhvam gilt: <!-- TODO: Fallback translation -->
+برای -dhvam حکم زیر برقرار است:
 
 ::: grammar-box
-**Das -dh- von -dhvam wird nach allen Nicht-a/ā-Vokalen sowie nach -r durch -ḍh- ersetzt.** <!-- TODO: Fallback translation -->
+**-dh-** در -dhvam پس از همه مصوت‌های غیر a/ā و همچنین پس از **-r** به **-ḍh-** تبدیل می‌شود.
 
 :::
 ::: indent
-z.B. ***:sig[⟪चि⟫]*** 5U: 2.pl.Ā ***:sig[⟪अचेढ्वम्⟫]*** <!-- TODO: Fallback translation -->
+مثال: ***:sig[⟪चि⟫]*** 5U: 2.pl.Ā ***:sig[⟪अचेढ्वम्⟫]***
 :::
 ::: grammar-box
-**Form der Wurzel:** <!-- TODO: Fallback translation -->
+**شکل ریشه:**
 
-*   **⟪परस्मैपद⟫ : Dehnstufe** <!-- TODO: Fallback translation -->
+*   **⟪परस्मैपद⟫ : مرحله دراز**
 *   **⟪आत्मनेपद⟫ :**
-    *   **Wurzeln mit auslautendem i/ī/u/ū: Hochstufe** <!-- TODO: Fallback translation -->
-    *   **auslautendes -ṝ wird durch -īr oder -ūr ersetzt** <!-- TODO: Fallback translation -->
-    *   **ablautfähige Wurzeln auf ā/e/o: Tiefstufe** <!-- TODO: Fallback translation -->
-    *   **andere Wurzelvokale: unverändert (d.h. in der Regel tiefstufig)** <!-- TODO: Fallback translation -->
+    *   **ریشه‌هایی با i/ī/u/ū در پایان: مرحله بالا**
+    *   **-ṝ پایانی به -īr یا -ūr تبدیل می‌شود**
+    *   **ریشه‌های قابل تغییر مصوت با ā/e/o: مرحله پایین**
+    *   **سایر مصوت‌های ریشه: بدون تغییر (یعنی معمولاً در مرحله پایین)**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 |   | **3.sg.P** |
 | --- | --- |
@@ -88,20 +88,20 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟫ und ⟪सृज्⟫ haben im ⟪परस्मैपद⟫ Dehnstufe mit steigendem Diphton -rā-:** <!-- TODO: Fallback translation -->
+**⟪दृश्⟫ و ⟪सृज्⟫ در ⟪परस्मैपद⟫ با مرحله‌ی کشش و دیفتون افزایش‌یابنده -rā-:**
 
 :::
 ::: indent
-⟪दृश्⟫ 3.sg.P ⟪अ⟫***:sig[⟪द्राक्षी⟫]***⟪त्⟫ <!-- TODO: Fallback translation -->
+⟪दृश्⟫ ۳.sg.P ⟪अ⟫***:sig[⟪द्राक्षी⟫]***⟪त्⟫
 :::
 Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
-⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***:sig[⟪क्राक्षी⟫]***⟪त्⟫ <!-- TODO: Fallback translation -->
+⟪कृष्⟫ ۱P/۶U ۳.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***:sig[⟪क्राक्षी⟫]***⟪त्⟫
 :::
-Paradigmen: <!-- TODO: Fallback translation -->
+پارادایم‌ها:
 
-⟪नी⟫ 1U "führen" <!-- TODO: Fallback translation -->
+⟪नी⟫ ۱U "هدایت کردن"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -112,10 +112,10 @@ Paradigmen: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5701.webp)
-Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt5701)) <!-- TODO: Fallback translation -->
+تصویر: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5701))
 :::
-⟪कृ⟫ 8U "tun" <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U "انجام دادن"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -124,7 +124,7 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | *:sig[⟪अकृथास्⟫]* | ⟪अकृढ्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | *:sig[⟪अकृत⟫]* | ⟪अकृषत⟫ |
 
-⟪तुद्⟫ 6U "schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U «ضرب کردن»
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -134,22 +134,22 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | **3. ⟪प्रथमः⟫** | ⟪अतौत्सीत्⟫ | ⟪अतौत्सुर्⟫ | ⟪अतुत्त⟫ | ⟪अतुत्सत⟫ |
 
 ::: grammar-box
-**Unregelmäßige Formen:** <!-- TODO: Fallback translation -->
+**شکل‌های نامنظم:**
 
-**1.  Wurzeln auf Nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) bilden den s-Aorist hochstufig:**
+**۱. ریشه‌هایی که به ناسال ختم می‌شوند (⟪गम्⟫، ⟪मन्⟫، ⟪रम्⟫) ائوریست s را با درجه بالا می‌سازند:**
 **⟪अगंसि⟫ ⟪।⟫ ⟪अमंसि⟫ ⟪।⟫ ⟪अरंस्त⟫**
-**Daneben gibt es für ⟪गम्⟫ die regelmäßigen tiefstufigen Formen:**
-**⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (im P hat ⟪गम्⟫ den themavokalischen Aorist)** <!-- TODO: Fallback translation -->
+**علاوه بر این، برای ⟪गम्⟫ شکل‌های منظم با درجه پایین وجود دارد:**
+**⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (در p، ⟪गम्⟫ دارای ائوریست تماتیک است)**
 
-2.  ⟪पद्⟫ 4Ā ist regelmäßig (z.B. ⟪अपत्सि⟫), in der 3.sg.Ā hat es aber die Form des passivischen Wurzelaorist: <!-- TODO: Fallback translation -->
-    ⟪अपादि⟫ "er ging" <!-- TODO: Fallback translation -->
+2.  ⟪पद्⟫ 4Ā منظم است (مثلاً ⟪अपत्सि⟫)، اما در 3.sg.ġ شکل ائوریست ریشه‌ای مجهول را دارد:
+⟪अपादि⟫ "او رفت"
 
-3.  ⟪बुध्⟫ Ā kann in der 3.sg.Ā wahlweise die Form des passiven Wurzelaorists annehmen: <!-- TODO: Fallback translation -->
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "er erkannte" <!-- TODO: Fallback translation -->
+3.  ⟪बुध्⟫ Ā می‌تواند در 3.sg.ġ به طور اختیاری شکل ائوریست ریشه‌ای مجهول را بگیرد:
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "او شناخت"
 :::
-## 57.2. تمرین
+## ۵۷.۲ تمرین
 
-A) Übersetzen und bestimmen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Aoristformen. Außer bei Kausativen und Wurzeln, die den s-Aorist bilden, ist in Klammer die Klasse des entsprechenden Aorists angegeben: <!-- TODO: Fallback translation -->
+الف) اشکال زیر را بدون استفاده از ابزارهای کمکی ترجمه و تعیین کنید و شکل‌های مربوط به آئوریست (Aorist) را بسازید. در غیر این مورد برای کائوزاتیو و ریشه‌هایی که آئوریست s- تشکیل می‌دهند، کلاس مربوط به آئوریست در پرانتز ذکر شده است:
 
 1.  ⟪पेचिथ⟫
 2.  ⟪अवक्⟫ (⟪३⟫)
@@ -177,7 +177,7 @@ A) Übersetzen und bestimmen Sie ohne Hilfsmittel folgende Formen und bilden Sie
 24.  ⟪कर्षन्ति⟫
 25.  ⟪अप्रच्छयन्⟫
 
-B) Übersetzen und bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
+ب) اشکال زیر را ترجمه و تعیین کنید:
 
 1.  ⟪चेलुः⟫
 2.  ⟪जन्तुः⟫
@@ -238,6 +238,6 @@ B) Übersetzen und bestimmen Sie folgende Formen: <!-- TODO: Fallback translatio
 
 ::: deleteme-box
 
-**lekt5701:** [Bildquelle: Wikipedia. Public Domain] <!-- TODO: Fallback translation -->
+**lekt5701:** [منبع تصویر: ویکی‌پدیا. مالکیت عمومی]
 
 :::

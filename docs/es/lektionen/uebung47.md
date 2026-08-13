@@ -155,4 +155,4 @@ Queremos ser guiados por ti.
 ![](/images/uebung075.webp)
 Fig.: ⟪माद्यत⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung075))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

@@ -5,7 +5,7 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 41
 
@@ -23,7 +23,7 @@ Explicație: ⟪पर⟫ "altul"
 ![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4102))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
@@ -131,7 +131,7 @@ Exemple:
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | „ce trebuie făcut” |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | „ce trebuie văzut; ce merită văzut” |
 | ⟪बुध्⟫ Cauz. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | „unul de trezit” |
-| ⟪दा⟫ Cauz. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | „ce trebuie lăsat să fie dat” |
+| ⟪दा⟫ Cauz. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | „ce trebuie lăsat să fie dat” | <!-- TODO: Fallback translation -->
 
 :::
 #### 41.2.2.3. Sufixul -⟪य⟫ / -⟪या⟫
@@ -187,7 +187,7 @@ Exemple:
 ![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4103))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **2b. Rădăcinile pe -u /-ū înlocuiesc -o din gradul maxim (guṇa) înainte de -ya cu -av, iar -au din gradul lung (vṛddhi) cu -āv. Formarea în gradul lung (vṛddhi) înseamnă în acest caz necesitate.**
@@ -320,7 +320,7 @@ Cu ⟪सु⟫- și ⟪दुस्⟫- în sensul de "ușor" respectiv "greu",
 Fig.: ⟪भुजङ्गः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: doar, singur, complet
+⟪केवलम्⟫ Adv.: doar, singur, complet <!-- TODO: Fallback translation -->
 
 ⟪विष⟫ n.: venin
 
@@ -360,7 +360,7 @@ Fig.: ⟪शासना⟫
 ![lekt4110.jpg](/images/lekt4110.webp)
 Fig.: ⟪शास्त्री⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4110))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪शिष्य⟫** 3: cel care trebuie învățat = elev

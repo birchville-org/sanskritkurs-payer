@@ -112,7 +112,7 @@ outline: 2
 | ⟪इन्द्र⟫ | [indra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indra&filter=roman&accent=no&transLit=roman) | — | அரசன், முதலாவது, சிறந்தவர் ; தேவராசன் இந்திரன் | [15](/ta/lektionen/lektion15#_15-8-) |
 | ⟪इन्द्रिय⟫ | [indriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indriya&filter=roman&accent=no&transLit=roman) | — | சக்தி, உணர்வுறுப்பு | [24](/ta/lektionen/lektion24#_24-4-) |
 | ⟪इव⟫ | [iva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iva&filter=roman&accent=no&transLit=roman) | — | போல, எவ்வாறு (ஒப்பீடுகளில்: = "ஒரு புலனைப் போன்ற மனிதன்", "ஒரு புலனைப் போன்ற மனிதன்" | [15](/ta/lektionen/lektion15#_15-8-) |
-| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | அனுப்பு | [42](/ta/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | sig[] : அனுப்பு | [42](/ta/lektionen/lektion42#_42-2-) |
 | ⟪इह⟫ | [iha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iha&filter=roman&accent=no&transLit=roman) | Adv | இங்கே, பூமியில் இங்கே, இங்கே; இப்போது. பெயர்ச்சொற்களுக்கு முன் () , க்கு சமமானது | [50](/ta/lektionen/lektion50#_50-2-) |
 
 ## ई
@@ -210,7 +210,7 @@ outline: 2
 | ⟪कोविद⟫ | [kovida](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kovida&filter=roman&accent=no&transLit=roman) | 3 | அனுபவம் பெற்ற ( ) | [52](/ta/lektionen/lektion52#_52-7-) |
 | ⟪कौमर⟫ | [kaumara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kaumara&filter=roman&accent=no&transLit=roman) | n | குழந்தைப் பருவம் | [48](/ta/lektionen/lektion48#_48-4-) |
 | ⟪कौशिक⟫ | [kauśika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kauśika&filter=roman&accent=no&transLit=roman) | — | புலி | [51](/ta/lektionen/lektion51#_51-6-) |
-| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | நடத்தல், செல்வது | [35](/ta/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | sig[], 4P :sig[] : நடத்தல், செல்வது | [35](/ta/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | [kriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kriyā&filter=roman&accent=no&transLit=roman) | — | செயல், புனித செயல், பலி செயல், விழாவாக்கம் ( 8 க்கு) | [20](/ta/lektionen/lektion20#_20-9-) |
 | ⟪क्री⟫ | [krī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krī&filter=roman&accent=no&transLit=roman) | 9U | வாங்கு | [30](/ta/lektionen/lektion30#_30-6-) |
 | ⟪क्रूर⟫ | [krūra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krūra&filter=roman&accent=no&transLit=roman) | 3 | கடுமையான, கொடுமையான | [51](/ta/lektionen/lektion51#_51-6-) |
@@ -251,7 +251,7 @@ outline: 2
 | ⟪ग्रस्⟫ | [gras](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gras&filter=roman&accent=no&transLit=roman) | 1Ā | உண்ணு, திண்ணு | [29](/ta/lektionen/lektion29#_29-2-) |
 | ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | — | பிடித்தல், பிடிப்பவர், மீன், சுற்று நட்சத்திரம் | [46](/ta/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | — | பற்றிக்கொள்ளல் | [24](/ta/lektionen/lektion24#_24-4-) |
-| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | பிடி, பற்றிக் கொள், பற்றி | [46](/ta/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : பிடி, பற்றிக் கொள், பற்றி | [46](/ta/lektionen/lektion46#_46-2-) |
 | ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | 1P | எதிர்ப்பு உணர்தல், மறைதல் | [36](/ta/lektionen/lektion36#_36-4-) |
 
 ## घ
@@ -260,7 +260,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghāta&filter=roman&accent=no&transLit=roman) | m | கொல்லுதல் | [17](/ta/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | [ghṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghṛta&filter=roman&accent=no&transLit=roman) | n | நெய், நெய் ( / گھی / ঘী) | [33](/ta/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | ஒரு வாசனை | [36](/ta/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | sig[] : ஒரு வாசனை | [36](/ta/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -383,7 +383,7 @@ outline: 2
 | சமஸ்கிருதம் | IAST | பால் | தமிழ் | பாடம் |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | — | நிலையானது; நிலைக்கிறது = தர்மம் | [25](/ta/lektionen/lektion25#_25-5-) |
-| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | — | வை, நிலைநாட்டு, பங்கீடு செய் | [33](/ta/lektionen/lektion33#_33-6-) |
+| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | 3U | sig[]: வை, நிலைநாட்டு, பங்கீடு செய் | [33](/ta/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | [dhānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhānya&filter=roman&accent=no&transLit=roman) | n | அரைக்கப்பட்ட தானியம் | [25](/ta/lektionen/lektion25#_25-5-) |
 | ⟪धीर⟫ | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhīra&filter=roman&accent=no&transLit=roman) | 3 | நிலையானது, உறுதியானது, தொடர்ச்சியானது, தீவிரமானது | [52](/ta/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | [dhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhṛ&filter=roman&accent=no&transLit=roman) | 1U | பிடித்தல், பற்றியிருத்தல் | [25](/ta/lektionen/lektion25#_25-5-) |
@@ -448,7 +448,7 @@ outline: 2
 | ⟪पा⟫ | [pā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pā&filter=roman&accent=no&transLit=roman) | — | குடித்தல் (பாரம்பரியமாக 1. வகுப்புக்குக் கணக்கிடப்பட்டது) | [13](/ta/lektionen/lektion13#_13-9-) |
 | ⟪पात्र⟫ | [pātra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pātra&filter=roman&accent=no&transLit=roman) | — | மதிக்கத்தக்கவர், குரு, மதிக்கத்தக்கவர் | [40](/ta/lektionen/lektion40#_40-6-) |
 | ⟪पाद⟫ | பாத | — | கால், ஒரு பங்கு, வரிசை | [13](/ta/lektionen/lektion13#_13-9-) |
-| ⟪पालयति⟫ | [pālayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pālayati&filter=roman&accent=no&transLit=roman) | — | பொருள் ரீதியாக -க்கு சமமானது | [29](/ta/lektionen/lektion29#_29-2-) |
+| ⟪पालयति⟫ | [pālayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pālayati&filter=roman&accent=no&transLit=roman) | — | பொருள் ரீதியாக -க்கு சமமானது <!-- TODO: Fallback translation --> | [29](/ta/lektionen/lektion29#_29-2-) |
 | ⟪पितामह⟫ | [pitāmaha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmaha&filter=roman&accent=no&transLit=roman) | — | மூதாதையர் | [42](/ta/lektionen/lektion42#_42-2-) |
 | ⟪पितामही⟫ | [pitāmahī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmahī&filter=roman&accent=no&transLit=roman) | f | தாயாரின் தரப்பில் உள்ள பெரியம்மா | [42](/ta/lektionen/lektion42#_42-2-) |
 | ⟪पितृ⟫ | [pitṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitṛ&filter=roman&accent=no&transLit=roman) | — | தந்தை | [42](/ta/lektionen/lektion42#_42-2-) |
@@ -538,7 +538,7 @@ outline: 2
 | ⟪भृत्य⟫ | [bhṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛtya&filter=roman&accent=no&transLit=roman) | — | கீழ்மை, அடிமை | [28](/ta/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | அழைப்பின் அழைப்பு, எ.கா.: ஹை, ஹெடா, ஓ, எய், வணக்கம், ஹி! பெரும்பாலும் மொழிபெயர்க்க முடியாது. இந்த அழைப்புச் சொல்லுக்கு ஒ | [46](/ta/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | [bhraṃśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhraṃśa&filter=roman&accent=no&transLit=roman) | — | விழுவதும் | [46](/ta/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | சுற்றித் திரிதல், சுற்றிச் செல்வது | [46](/ta/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | sig[] : சுற்றித் திரிதல், சுற்றிச் செல்வது | [46](/ta/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | [bhrātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhrātṛ&filter=roman&accent=no&transLit=roman) | — | சகோதரர் | [42](/ta/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -600,7 +600,7 @@ outline: 2
 | ⟪यदि⟫ | [yadi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadi&filter=roman&accent=no&transLit=roman) | — | எങ്കில் | [46](/ta/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | [yadyapi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyapi&filter=roman&accent=no&transLit=roman) | — | எப்படியும், இருந்தபோதிலும், இருந்தபோதிலும் | [30](/ta/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | [yadyevam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyevam&filter=roman&accent=no&transLit=roman) | — | அப்படியானால், அந்த நிலையில் | [30](/ta/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | பிடி, தாங்கு ; அளி, வழங்கு ; ஒன்றாகப் பிடி, கட்டு, கட்டு, கட்டு, கட்டு | [44](/ta/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | sig[] : பிடி, தாங்கு ; அளி, வழங்கு ; ஒன்றாகப் பிடி, கட்டு, கட்டு, கட்டு, கட்டு | [44](/ta/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | [yā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yā&filter=roman&accent=no&transLit=roman) | 2P | செல், பயணம் செய் | [44](/ta/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | [yātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yātṛ&filter=roman&accent=no&transLit=roman) | — | மனைவியின் சகோதரனின் கணவரின் மனைவி | [42](/ta/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | [yāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yāna&filter=roman&accent=no&transLit=roman) | n | செல்வம், பாதை, வாகனம் | [44](/ta/lektionen/lektion44#_44-5-) |
@@ -643,7 +643,7 @@ outline: 2
 | ⟪लिप्⟫ | [lip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lip&filter=roman&accent=no&transLit=roman) | 6U | பூசு, பூசி | [25](/ta/lektionen/lektion25#_25-5-) |
 | ⟪लिप्ति⟫ | [lipti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lipti&filter=roman&accent=no&transLit=roman) | — | பூசல், எழுதுதல், எழுத்து | [25](/ta/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | [līlā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=līlā&filter=roman&accent=no&transLit=roman) | — | விளையாட்டு, விளையாட்டு | [42](/ta/lektionen/lektion42#_42-2-) |
-| ⟪लुप्⟫ | [lup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lup&filter=roman&accent=no&transLit=roman) | 6U | உடை, அழி | [50](/ta/lektionen/lektion50#_50-2-) |
+| ⟪लुप्⟫ | [lup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lup&filter=roman&accent=no&transLit=roman) | 6U | sig[] : உடை, அழி | [50](/ta/lektionen/lektion50#_50-2-) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | — | வறுமை, பொறாமை | [5](/ta/lektionen/lektion05#_5-4-) |
 | ⟪लौल्य⟫ | [laulya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laulya&filter=roman&accent=no&transLit=roman) | n | ஆசை, காமம் | [52](/ta/lektionen/lektion52#_52-7-) |
 
@@ -654,7 +654,6 @@ outline: 2
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | — | ஏமாற்றி | [43](/ta/lektionen/lektion43#_43-4-) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | — | வணிகர் | [43](/ta/lektionen/lektion43#_43-4-) |
 | ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | — | பசுக் குட்டி, இளம் உயிரி, பிள்ளை ; பன்மை: என் அன்பே | [43](/ta/lektionen/lektion43#_43-4-) |
-| ⟪वत्स्यति⟫ | எதிர்காலம்: | — | br செய்யுள்: :br PPP: :br இன்ஃ | [27](/ta/lektionen/lektion27#_27-5-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | அதிகாரப்பூர்வமாக வரவேற்க, அழைக்க | [36](/ta/lektionen/lektion36#_36-4-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | 1P | பதிலளி = பதில் | [44](/ta/lektionen/lektion44#_44-5-) |
 | ⟪वन⟫ | [vana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vana&filter=roman&accent=no&transLit=roman) | — | காடு | [51](/ta/lektionen/lektion51#_51-6-) |
@@ -666,9 +665,8 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | — | நிறம், பிறப்பு வகுப்பு (நோக்கம்) | [2](/ta/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | — | நிறம், வகை, நிலை | [5](/ta/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | — | மழை, மழைக்காலம், ஆண்டு | [25](/ta/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P |  விரும்புதல், கட்டளை, விரும்புதல் | [52](/ta/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], கட்டளை. 2.: :sig[] : விரும்புதல், கட்டளை, விரும்புதல் | [52](/ta/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | — | ("ஒளிர்வது" =) வசந்த காலம் (மார்ச் முதல் மே வரை) | [27](/ta/lektionen/lektion27#_27-5-) |
-| ⟪वसिष्यते⟫ | எதிர்காலம்: | — | br முற்றுப்பெயர்: :br வினையெச்சம் | [27](/ta/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | செல்வம், களஞ்சியம், சொத்து, உடைமை | [27](/ta/lektionen/lektion27#_27-5-) |
 | ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | தங்கு, வாழ் (தங்கும் நபரின் இடத்துடன்) | [27](/ta/lektionen/lektion27#_27-5-) |
 | ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | n | இருக்கை, இடம்; உண்மை, உண்மையான பொருள், உலகம், பொருள் | [27](/ta/lektionen/lektion27#_27-5-) |
@@ -754,7 +752,7 @@ outline: 2
 | ⟪शिशु⟫ | [śiśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiśu&filter=roman&accent=no&transLit=roman) | — | குழந்தை, இளம் | [49](/ta/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | [śiṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣ&filter=roman&accent=no&transLit=roman) | 7P | விட்டுவிடு, கைவிடு | [51](/ta/lektionen/lektion51#_51-6-) |
 | ⟪शिष्य⟫ | [śiṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣya&filter=roman&accent=no&transLit=roman) | 3 | கற்பிக்க வேண்டிய = மாணவர் | [41](/ta/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | கிட. இந்த மூலச்சொல் அனைத்து வடிவங்களிலும் பிரேசன் தண்டு உயர்நிலை: 1.ஒ.வி.பிரே.Ā (śe + e). பின்வரும் வடிவங்கள் குறிப்பாகக | [44](/ta/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | கிட. இந்த மூலச்சொல் அனைத்து வடிவங்களிலும் பிரேசன் தண்டு உயர்நிலை: 1.ஒ.வி.பிரே.Ā :sig[] (śe + e). பின்வரும் வடிவங்கள் குற | [44](/ta/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīghra&filter=roman&accent=no&transLit=roman) | 3 | விரைவான, வேகமான | [43](/ta/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīla&filter=roman&accent=no&transLit=roman) | n | பழக்கம், பழக்கம், இயல்பு, தன்மை, நல்ல பழக்கம் = நெறிமுறை | [52](/ta/lektionen/lektion52#_52-7-) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | ஒளிர்வது, மின்னும், நுண்ணிய; : சுத்தம் | [29](/ta/lektionen/lektion29#_29-2-) |
@@ -768,7 +766,7 @@ outline: 2
 | ⟪शोक⟫ | [śoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śoka&filter=roman&accent=no&transLit=roman) | — | வாழ்த்து, கவலை | [38](/ta/lektionen/lektion38#_38-9-) |
 | ⟪शोभन⟫ | [śobhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śobhana&filter=roman&accent=no&transLit=roman) | 3 | ஒளிர்வு, அற்புதமானது, அழகிய, அழகான, நல்லது | [18](/ta/lektionen/lektion18#_18-4-) |
 | ⟪शौच⟫ | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śauca&filter=roman&accent=no&transLit=roman) | n | சுத்திகரிப்பு, சுத்தம் | [16](/ta/lektionen/lektion16#_16-2-) |
-| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | களை, களைப்பு அடை | [46](/ta/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : களை, களைப்பு அடை | [46](/ta/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | சார்பு கொள்ளுதல், சார்தல், ஆதாரம் பெறுதல், ஒருவரிடம் செல்வது (, ) | [46](/ta/lektionen/lektion46#_46-2-) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | — | கேட்டல், நித்தியமான பாரம்பரியம் (வேதங்கள் மற்றும் பிராமணங்களுக்கான பெயர்) | [3](/ta/lektionen/lektion03#_3-6-) |
 | ⟪श्रेष्ठिन्⟫ | [śreṣṭhin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śreṣṭhin&filter=roman&accent=no&transLit=roman) | — | செல்வந்த வணிகர் | [43](/ta/lektionen/lektion43#_43-4-) |
@@ -789,11 +787,11 @@ outline: 2
 | ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | m | ஒட்டிக்கொள்ளுதல், தொடர்பு () | [46](/ta/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (- : ஒன்றாக அடி): கூட்டம், கூட்டம், சமூகம் (எ.கா. பௌத்த) | [41](/ta/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | தொங்கு, ஒட்டிக்கொள் | [48](/ta/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | ஒட்டிக்கொள்ளுதல், ஒட்டிக்கொள்ளுதல் () | [46](/ta/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : ஒட்டிக்கொள்ளுதல், ஒட்டிக்கொள்ளுதல் () | [46](/ta/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | — | உண்மை | [10](/ta/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | விரைவான, அவசரமான | [43](/ta/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | அமர், அமர் | [20](/ta/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | கீழே அமர்வது | [46](/ta/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : கீழே அமர்வது | [46](/ta/lektionen/lektion46#_46-2-) |
 | ⟪सनातन⟫ | [sanātana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sanātana&filter=roman&accent=no&transLit=roman) | — |  என்றென்றும், அழியாத, நிலையான | [30](/ta/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | சமமான, சமமான, ஒத்த (கருவிநிலையுடன்) | [18](/ta/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | சமம், சரி, ஒத்த | [46](/ta/lektionen/lektion46#_46-2-) |
@@ -855,7 +853,6 @@ outline: 2
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | 2P | தாக்கித் திரும்பு | [44](/ta/lektionen/lektion44#_44-5-) |
 | ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | நீக்கும்; ஆண்: அழிப்பவர் = சிவனின் பெயர்ச்சொல் | [27](/ta/lektionen/lektion27#_27-5-) |
 | ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | மஞ்சள், மஞ்சள் நிறமான, பச்சை; விஷ்ணுவின் ஒரு பெயர் (வழக்கமான வார்த்தை 1-க்குச் சேர்ந்தது அல்ல) | [27](/ta/lektionen/lektion27#_27-5-) |
-| ⟪हरिष्यति⟫ | எதிர்காலம்: | — | br செய்யுள்: :br PPP: :br இன்ஃ | [27](/ta/lektionen/lektion27#_27-5-) |
 | ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | — | விஷ்ணு மற்றும் சிவன் ஒரே ஒரு கடவுளாக இணைந்திருத்தல் | [27](/ta/lektionen/lektion27#_27-5-) |
 | ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | — | உடல் முடி உயர்தல் (எரிச்சல்), மகிழ்ச்சி | [25](/ta/lektionen/lektion25#_25-5-) |
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | — | கை | [18](/ta/lektionen/lektion18#_18-4-) |

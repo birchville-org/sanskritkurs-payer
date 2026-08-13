@@ -22,7 +22,7 @@ Te szétválogatod (a buddhista) közösséget.
 Kaptál-e ajándékot a királytól?
 
 ⟪४⟫. **⟪साधो⟫ ⟪कस्माद्भयेभ्यो⟫ ⟪न⟫ ⟪बिभेषि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Szent ember, miért nem félsz a veszélyektől?
+Szent ember, miért nem félsz a veszélyektől? <!-- TODO: Fallback translation -->
 
 ⟪५⟫. **⟪पितः⟫ ⟪कुत्र⟫ ⟪गच्छन्कुलं⟫ ⟪जहासि⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 Atyám, hová indulva hagyod el a családot?
@@ -31,7 +31,7 @@ Atyám, hová indulva hagyod el a családot?
 Śúdra asszony, nem hoztad-e a terhet a gazdag bráhmana házába?
 
 ⟪७⟫. **⟪देवि⟫ ⟪कृतपुण्यस्य⟫ ⟪वैश्यस्य⟫ ⟪सुखेष्टिं⟫ ⟪पिपूर्याः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Iznődik, teljesítened kell a vaiśya boldogságra vonatkozó vágyát, aki érdemeket gyűjtött.
+Iznődik, teljesítened kell a vaiśya boldogságra vonatkozó vágyát, aki érdemeket gyűjtött. <!-- TODO: Fallback translation -->
 
 ⟪८⟫. **⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (Vagy: **... ⟪न⟫ ⟪भिन्द्यात⟫ ⟪॥⟫**)
 Elefántok, nem szabadna szétzúznia a bilincseket.
@@ -44,12 +44,12 @@ Kérted-e, ó költő, a világok mérését?
 
 ---
 
-## Gyakorló szövegek
+## Gyakorló szövegek <!-- TODO: Fallback translation -->
 
 B) Fordítsa:
 
 ⟪१⟫. **⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Ardzsuna, vagy megölnek és eléred az eget, vagy győzelmet aratsz és élvezed a földet. Ezért harcolnod kell (harcolnod kell).
+Ardzsuna, vagy megölnek és eléred az eget, vagy győzelmet aratsz és élvezed a földet. Ezért harcolnod kell (harcolnod kell). <!-- TODO: Fallback translation -->
 
 ⟪२⟫. **⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 Tisztelendő, hogyan szüntette meg a végtelen szenvedést?
@@ -64,4 +64,4 @@ Ellenség, nem a lelket (az életet) szétválogatod a kardoddal.
 ![](/images/uebung074.webp)
 Kép: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung074))
-:::
+::: <!-- TODO: Fallback translation -->

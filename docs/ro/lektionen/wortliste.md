@@ -14,7 +14,7 @@ outline: 2
 ## Lecție 2
 
 
-**deva** m. -- ⟪देव⟫ : Cerească, zeu; prinț, rege.
+**deva** m. -- ⟪देव⟫ : Cerească, zeu; prinț, rege. <!-- TODO: Fallback translation -->
 
 **īśvara** m. -- ⟪ईश्वर⟫ : Stăpân, conducător, zeu (monoteist).
 
@@ -93,7 +93,7 @@ Orice societate castală este convențională, ordonată prin reguli de conduit�
 
 [**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-Varṇas sunt, în consecință, caste de naștere.
+Varṇas sunt, în consecință, caste de naștere. <!-- TODO: Fallback translation -->
 
 **kavi** m. -- ⟪कवि⟫: poet.
 
@@ -177,7 +177,7 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filosofie (știința care ajunge la concluziile sale prin argumente logic corecte).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : neasociere, echilibru.
+**upekṣā** f. = ⟪उपेक्षा⟫ : neasociere, echilibru. <!-- TODO: Fallback translation -->
 
 **karuṇā** f. = ⟪करुणा⟫ : compasiune, milă.
 
@@ -193,14 +193,14 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **abhiniveṣa** m. = ⟪अभिनिवेष⟫ : inclinație, tenacitate, insistență; în special: atașament față de corp, considerându-l ca fiind al său.
 
-**kāma** m. = ⟪काम⟫ : dorință, poftă, dar dorit, plăcere senzorială, iubire; zeul iubirii Kāma.
+**kāma** m. = ⟪काम⟫ : dorință, poftă, dar dorit, plăcere senzorială, iubire; zeul iubirii Kāma. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0501.webp)
 Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 (Sursa imaginii: Wikipedia, Domeniu public)
 :::
-**krodha** m. = ⟪क्रोध⟫ : furie.
+**krodha** m. = ⟪क्रोध⟫ : furie. <!-- TODO: Fallback translation -->
 
 **kleśa** m. = ⟪क्लेश⟫ : suferință, chin.
 
@@ -212,7 +212,7 @@ Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 
 **dveṣa** m. = ⟪द्वेष⟫ : ură.
 
-**maitrī** f. = ⟪मैत्री⟫ : prietenie, amabilitate, bunăvoință prietenoasă.
+**maitrī** f. = ⟪मैत्री⟫ : prietenie, amabilitate, bunăvoință prietenoasă. <!-- TODO: Fallback translation -->
 
 **rāga** m. = ⟪राग⟫ : (culoare) roșie, pasiune, iubire.
 
@@ -400,7 +400,7 @@ Fig.: ⟪वरुणः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt1003))
 ::::
 :::
-- **anṛta** n. ⟪अनृत⟫ : minciună, falsitate (opusul lui **satya**)
+- **anṛta** n. ⟪अनृत⟫ : minciună, falsitate (opusul lui **satya**) <!-- TODO: Fallback translation -->
 
 ::: note-box
   Derivare **an-** („ne-“) + **ṛta** n.
@@ -456,10 +456,10 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : întreba
-  - **praśna** m. ⟪प्रश्न⟫ : întrebare (sufixul **-na** ca în **yaj-ña**)
+  - **praśna** m. ⟪प्रश्न⟫ : întrebare (sufixul **-na** ca în **yaj-ña**) <!-- TODO: Fallback translation -->
 
 - **iṣ** 6 P ⟪इष्⟫ : dori
-  - **iṣṭi** f. ⟪इष्टि⟫ : dorință (**iṣ** + **-ti**)
+  - **iṣṭi** f. ⟪इष्टि⟫ : dorință (**iṣ** + **-ti**) <!-- TODO: Fallback translation -->
 
 ---
 
@@ -495,7 +495,7 @@ La formarea cuvintelor:
 
 - **muc**: **mokṣa** m. ⟪मोक्ष⟫ : desfacere, eliberare, mântuire
 - **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : stropire a unui rege la încoronare, încoronare
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : trezirea (prin care un Buddha sau Jina ajunge la înțelegerea mântuitoare)
+- **budh**: **bodhi** m./f. ⟪बोधि⟫ : trezirea (prin care un Buddha sau Jina ajunge la înțelegerea mântuitoare) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1203.webp)
@@ -596,14 +596,14 @@ Fig.: ⟪महिषासुरः⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : urî, invidia
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : mânca, consuma
-- **anna** n. ⟪अन्न⟫ : mâncare (din PPP: *ad-na: ceea ce este mâncat)
+- **anna** n. ⟪अन्न⟫ : mâncare (din PPP: *ad-na: ceea ce este mâncat) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1304))
 :::
-Formarea cuvintelor:
+Formarea cuvintelor: <!-- TODO: Fallback translation -->
 
 pad 4 Ā:
 
@@ -778,7 +778,7 @@ din care:
 
 ⟪निरोध⟫ m.: oprire, aducere la oprire
 
-* **bhūta n.** (⟪भूत⟫) (PPP la bhū): ființă, fantomă
+* **bhūta n.** (⟪भूत⟫) (PPP la bhū): ființă, fantomă <!-- TODO: Fallback translation -->
 
 ⟪योग⟫ m.: legare, conexiune, unire, dobândire; Yoga
 
@@ -804,7 +804,7 @@ Fig.: ⟪अहिंसा⟫
 „Mâna cu un roată pe palmă simbolizează jurământul Jain al Ahimsa. Cuvântul din mijloc este „ahimsa”. Roata reprezintă dharmacakra, care stă pentru rezoluția de a opri ciclul reîncarnării prin urmărirea neobosită a adevărului și non-violeței.”
 (Sursă imagine: [Detalii](/ro/licenses#lekt1603))
 :::
-## Lecție 17
+## Lecție 17 <!-- TODO: Fallback translation -->
 
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : a lovi, a ucide, a omorî
@@ -820,7 +820,7 @@ Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1703))
 ::::
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : a ședea
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : a ședea <!-- TODO: Fallback translation -->
 
 de acolo:
 
@@ -876,7 +876,7 @@ de acolo:
 
 ⟪शूर⟫ 3: curajos, eroic ; m.: erou
 
-⟪शब्द⟫ m.: sunet, ton, sunet de semnal: cuvânt
+⟪शब्द⟫ m.: sunet, ton, sunet de semnal: cuvânt <!-- TODO: Fallback translation -->
 
 ⟪उदक⟫ n.: apă
 
@@ -949,7 +949,7 @@ Fig.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 Pers. ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** a sufla
+**⟪वा⟫ 2 Pers. ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** a sufla <!-- TODO: Fallback translation -->
 
 din acesta:
 
@@ -966,7 +966,7 @@ Fig.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), în costum tradițional, este o tradiție în părțile de sud ale Kerala. _Onappottan_ vizitează casele în timpul _onam_ și oferă binecuvântări. În ultimul timp, _onappottan_ a devenit o vedere rară, limitată la sate."
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** învățat, înțelept ; 3: înțelept, experimentat (în)
+**⟪पण्डित⟫ m.:** învățat, înțelept ; 3: înțelept, experimentat (în) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1903.jpg)
@@ -974,7 +974,7 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 ⟪१९५९⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** a locui la, a locui (Ac., Loc.) ; a vizita, a se deplasa către (Ac.) ; a servi, a îngriji, a venera ; a exersa, a folosi ; a asista, a avea relații sexuale
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** a locui la, a locui (Ac., Loc.) ; a vizita, a se deplasa către (Ac.) ; a servi, a îngriji, a venera ; a exersa, a folosi ; a asista, a avea relații sexuale <!-- TODO: Fallback translation -->
 
 **⟪नि⟫ Prefix verbal:** jos, în interior
 
@@ -994,7 +994,7 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪बान्धव⟫** m.:** rudă
 
-**⟪हि⟫** : deoarece, anume (nu trebuie niciodată să se afle la începutul propoziției)
+**⟪हि⟫** : deoarece, anume (nu trebuie niciodată să se afle la începutul propoziției) <!-- TODO: Fallback translation -->
 
 
 ## Lecție 20
@@ -1012,7 +1012,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Aceasta este de fapt o parte din Ashramul
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : făcând, producând, cauzând
 
-⟪कर⟫ m.: mână (la ⟪कृ⟫ 8)
+⟪कर⟫ m.: mână (la ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
 
 ⟪कर⟫ m.: tribut, datorie, impozit (nu la ⟪कृ⟫, ci probabil împrumutat din tamilă - தமிழ்)
 
@@ -1020,7 +1020,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Aceasta este de fapt o parte din Ashramul
 
 ⟪अधि⟫ prefix verbal: peste, pe, er-, cu referire la 
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : întâlni, ajunge la, obține
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : întâlni, ajunge la, obține <!-- TODO: Fallback translation -->
 
 ⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : reduce, slăbi
 
@@ -1331,9 +1331,9 @@ Manuscript al ⟪गीतगोविन्द⟫, 1730 d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2411))
 ::::
 :::
-⟪स्वागत⟫ n.: Bine ați venit (din su-ā-gata)
+⟪स्वागत⟫ n.: Bine ați venit (din su-ā-gata) <!-- TODO: Fallback translation -->
 
-⟪तृण⟫ n.: Tulpină de iarbă
+⟪तृण⟫ n.: Tulpină de iarbă <!-- TODO: Fallback translation -->
 
 ⟪पुनर्⟫ Adverb: din nou, din nou, înapoi, dar
 
@@ -1365,7 +1365,7 @@ de la care:
 Fig.: ⟪धान्यम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : a ține, a reține
+⟪धृ⟫ 1U ⟪धरति⟫ : a ține, a reține <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪धरिष्यति⟫  
@@ -1436,7 +1436,7 @@ de la care:
 
 ⟪किल्बिष⟫ n.: vină, insultă, păcat
 
-⟪विना⟫ Postpoziție: fără, exceptând (cu Akk., Instr., Abl.)
+⟪विना⟫ Postpoziție: fără, exceptând (cu Akk., Instr., Abl.) <!-- TODO: Fallback translation -->
 
 ⟪मूल⟫ n.: rădăcină
 
@@ -1445,7 +1445,7 @@ de la care:
 Fig.: ⟪मूलानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): a unsge, a unge
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): a unsge, a unge <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
@@ -1525,7 +1525,7 @@ din:
 Fig.: ⟪हिरण्यम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : subțire, fin, foarte mic ; m.: atom
+⟪अणु⟫ ⟪३⟫ : subțire, fin, foarte mic ; m.: atom <!-- TODO: Fallback translation -->
 
 ⟪गोदान⟫ n.: dare de vaci / a unei vaci; a doua ceremonie de tundere a părului (un ⟪संस्कार⟫)
 
@@ -1536,7 +1536,10 @@ Fig.: ⟪हिरण्यम्⟫
 **⟪वस्⟫** 1P (⟪वसति⟫): a rămâne, a locui (cu locativul persoanei, la care locuiești)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br**Pass.:** ⟪उष्यते⟫:br**PPP:** ⟪उषित⟫:br**Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫
+**Pass.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Inf.:** ⟪वस्तुम्⟫
 :::
 de la care:
 
@@ -1550,7 +1553,9 @@ de la care:
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): a îmbrăca (îmbrăcăminte), a purta (îmbrăcăminte)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br**PPP:** ⟪वसित⟫:br**Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 de la care:
 
@@ -1579,7 +1584,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫): a ține, a purta; a aduce, a lua, a fura
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br**Pass.:** ⟪ह्रियते⟫:br**PPP:** ⟪हृत⟫:br**Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 de la care:
 
@@ -1664,7 +1672,7 @@ Fig.: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā-Spielerin.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2803))
 :::
-**⟪भार⟫** m.: povară
+**⟪भार⟫** m.: povară <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2805.webp)
@@ -1708,7 +1716,7 @@ Inf. ⟪ग्रसितुम्⟫
 
 ⟪न्याय⟫ m.: normă, regulă, mod corect și potrivit; metodă, logică (de la ⟪इ⟫ + ⟪नि⟫)
 
-⟪परिव्राजक⟫ m.: călător, călugăr itinerant, pelerin
+⟪परिव्राजक⟫ m.: călător, călugăr itinerant, pelerin <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2903.webp)
@@ -1836,7 +1844,7 @@ Fig.: ⟪अश्नीयात्⟫
 Fig.: ⟪प्रिया⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3004))
 :::
-⟪चेत्⟫ Conjuncție: dacă; cu condiția ca (nu apare niciodată la începutul unei propoziții)
+⟪चेत्⟫ Conjuncție: dacă; cu condiția ca (nu apare niciodată la începutul unei propoziții) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : dacă nu
@@ -2006,12 +2014,12 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫:br
-⟪श्रम्यते⟫:br
-⟪श्रमयति⟫:br
-⟪श्रान्त⟫:br
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
--⟪श्रम्य⟫:br
+⟪श्रमिष्यते⟫
+⟪श्रम्यते⟫
+⟪श्रमयति⟫
+⟪श्रान्त⟫
+⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
+-⟪श्रम्य⟫
 ⟪श्रमितुम्⟫
 :::
 **⟪पार्श्व⟫**
@@ -2024,7 +2032,7 @@ Fig.: ⟪चूतः⟫
 Copac de mango, Kanpur.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3202))
 :::
-**⟪तरु⟫** **⟪वृक्ष⟫**
+**⟪तरु⟫** **⟪वृक्ष⟫** <!-- TODO: Fallback translation -->
 
 **⟪पचेलिम⟫**
 
@@ -2034,20 +2042,20 @@ Copac de mango, Kanpur.
 
 **⟪रुह्⟫ ⟪रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫:br
-⟪रुह्यते⟫:br
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-:sig[⟪रूढ⟫]:br
--⟪रुह्य⟫:br
+⟪रोक्ष्यति⟫
+⟪रुह्यते⟫
+⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
+:sig[⟪रूढ⟫]
+-⟪रुह्य⟫
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!):br
-⟪गृह्यते⟫:br
-⟪ग्राहयति⟫:br
-⟪गृहीत⟫:br
--⟪गृह्य⟫:br
+⟪ग्रहीष्यति⟫ (!)
+⟪गृह्यते⟫
+⟪ग्राहयति⟫
+⟪गृहीत⟫
+-⟪गृह्य⟫
 ⟪ग्रहीतुम्⟫ (!)
 :::
 **⟪वानर⟫ ⟪कपि⟫**
@@ -2060,10 +2068,10 @@ Maimuțe (macaci rhesus) în Delhi.
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫:br
-⟪लोक्यते⟫:br
-⟪लोकित⟫:br
--⟪लोक्य⟫:br
+⟪लोकयिष्यति⟫
+⟪लोक्यते⟫
+⟪लोकित⟫
+-⟪लोक्य⟫
 ⟪लोकितुम्⟫
 :::
 **⟪प्रहर्ष⟫**
@@ -2088,20 +2096,20 @@ Exercițiu de tragere / țintă cu săgeți, Karnataka.
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫:br
-⟪क्षिप्यते⟫:br
-⟪क्षेपयति⟫:br
-⟪क्षिप्त⟫:br
--⟪क्षिप्य⟫:br
+⟪क्षेप्स्यति⟫
+⟪क्षिप्यते⟫
+⟪क्षेपयति⟫
+⟪क्षिप्त⟫
+-⟪क्षिप्य⟫
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫:br
-⟪चीयते⟫:br
-⟪चाययति⟫:br
-⟪चित⟫:br
--⟪चित्य⟫:br
+⟪चेष्यति⟫
+⟪चीयते⟫
+⟪चाययति⟫
+⟪चित⟫
+-⟪चित्य⟫
 ⟪चेतुम्⟫
 :::: media
 ![](/images/lekt3207.webp)
@@ -2183,7 +2191,7 @@ Fig.: ⟪समाधि⟫
 3.pl.P **:sig[⟪पिपुरति⟫]**  
 3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (din: \*apipart)  
 3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
-3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]** <!-- TODO: Fallback translation -->
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -2269,7 +2277,7 @@ Fig.: ⟪हीनयानमेव⟫
 :::: media
 ![](/images/lekt3302.webp)
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Sursa imaginii: [Detalii](/ro/licenses#lekt3302))
+(Sursa imaginii: [Detalii](/ro/licenses#lekt3302)) <!-- TODO: Fallback translation -->
 
 ::::
 :::
@@ -2349,7 +2357,7 @@ Statuia Taurului Nandi, Dealurile Chamundi, Mysore.
 :::
 **⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** a reține, a ține, a oferi, a acorda
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** a întinde, a oferi, a preda
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** a întinde, a oferi, a preda <!-- TODO: Fallback translation -->
 
 **⟪या⟫ 2P ⟪याति⟫ :** a merge, a călători
 
@@ -2361,21 +2369,21 @@ Statuia Taurului Nandi, Dealurile Chamundi, Mysore.
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : a se pierde, a fi distrus, a dispărea
 ::: indent
-**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**:br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
-**Kaus. ⟪नाशयति⟫**:br
+**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : a dispărea, a se pierde, a fi distrus
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : a merge, a merge înainte
 ::: indent
-**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
-**Fut. ⟪क्रमिष्यति⟫**:br
-**Pass. ⟪क्रम्यते⟫**:br
-**Kaus. ⟪क्रमयति⟫**:br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
-**Inf. ⟪क्रमितुम्⟫**:br
+**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Kaus. ⟪क्रमयति⟫**
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::: media
 ![](/images/lekt3502.webp)
@@ -2386,12 +2394,12 @@ Oameni mergând, Senegal.
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): a cânta, a recita în ton cântător, a anunța în vorbire poetică
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
-**Fut. ⟪गास्यति⟫**:br
-**Pass. ⟪गीयते⟫**:br
-**Kaus. ⟪गापयति⟫**:br
-**PPP ⟪गीत⟫**:br
-**Inf. ⟪गातुम्⟫**
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Kaus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
+**Inf. ⟪गातुम्⟫** <!-- TODO: Fallback translation -->
 
 din care:
 **⟪गीता⟫ f.:** cânt, imn
@@ -2453,7 +2461,7 @@ Inf. ⟪व्रजितुम्⟫
 Fig.: ⟪अगारम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3602))
 :::: indent
-din care:
+din care: <!-- TODO: Fallback translation -->
 
 ⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: lipsa casei a unui monah sau novic budist
 ::::
@@ -2471,7 +2479,7 @@ Fig.: ⟪अनगार्यम्⟫
 
 ⟪पृथिवी⟫ f.: pământ
 
-⟪पृष्ठ⟫ n: spate, parte din spate
+⟪पृष्ठ⟫ n: spate, parte din spate <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪पृष्ठम्⟫ : în spate
@@ -2600,14 +2608,14 @@ Fig.: ⟪वृक्षः⟫
 Fig.: ⟪सूर्यः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Apă
+⟪उदक⟫ n.: Apă <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3805.webp)
 Fig.: ⟪उदकम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : a sufla, a bate vântul
+⟪वा⟫ 2P ⟪वाति⟫ : a sufla, a bate vântul <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪वास्यति⟫
@@ -2655,7 +2663,7 @@ din care:
 ::: indent
 Feminin:
 
-⟪राज्ञी⟫ f.: Regină, soție a unui rege
+⟪राज्ञी⟫ f.: Regină, soție a unui rege <!-- TODO: Fallback translation -->
 
 de la ⟪राज⟫ :
 
@@ -2832,7 +2840,7 @@ Fig.: ⟪स्वपन्ति⟫
 Fig.: ⟪भुजङ्गः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: doar, singur, complet
+⟪केवलम्⟫ Adv.: doar, singur, complet <!-- TODO: Fallback translation -->
 
 ⟪विष⟫ n.: venin
 
@@ -2905,7 +2913,7 @@ PPP **⟪अतीत⟫** : n. trecut
 ::: indent
 PPP ⟪अवस्थित⟫ 3: stând, existent
 :::
-⟪पुरा⟫ Adv.: odată, mai devreme
+⟪पुरा⟫ Adv.: odată, mai devreme <!-- TODO: Fallback translation -->
 
 ⟪अनेक⟫ 3: mulți (nu câțiva)
 
@@ -2972,7 +2980,7 @@ Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 :::
 ⟪भर्तृ⟫ m. (de la ⟪भृ⟫ "a purta, a întreține"): Cel care întreține, cel care hrănește, soț
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Soție (⟪भार्या⟫ = gerunziu la ⟪भृ⟫ : cea care trebuie purtată, cea care trebuie întreținută, cea îndreptățită la întreținere)
+⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Soție (⟪भार्या⟫ = gerunziu la ⟪भृ⟫ : cea care trebuie purtată, cea care trebuie întreținută, cea îndreptățită la întreținere) <!-- TODO: Fallback translation -->
 
 ⟪पितृ⟫ m.: Tată
 
@@ -3036,14 +3044,14 @@ Fig.: ⟪आपणः⟫
 :::
 ⟪सत्वर⟫ 3: rapid, grăbit
 
-⟪पण्य⟫ 3: vândut; n.: marfă, comerț
+⟪पण्य⟫ 3: vândut; n.: marfă, comerț <!-- TODO: Fallback translation -->
 
 ::: media
 ![]/images/lekt4303.webp
 Fig.: ⟪पण्यानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4303))
 :::
-⟪आम्⟫ : da
+⟪आम्⟫ : da <!-- TODO: Fallback translation -->
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -3073,7 +3081,7 @@ Fig.: ⟪विपणिः⟫
 Fig.: ⟪वणिक्⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4305))
 :::
-⟪वर⟫ 3: cel mai bun
+⟪वर⟫ 3: cel mai bun <!-- TODO: Fallback translation -->
 
 ⟪शीघ्र⟫ 3: rapid, repede
 
@@ -3084,7 +3092,7 @@ Fig.: ⟪वणिक्⟫
 Fig.: ⟪वत्सः⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4306))
 :::
-⟪उत्तम⟫ 3: suprem, cel mai bun
+⟪उत्तम⟫ 3: suprem, cel mai bun <!-- TODO: Fallback translation -->
 
 ⟪अल्प⟫ 3: mic, puțin
 
@@ -3194,7 +3202,7 @@ Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4404))
 ::::
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : a se bucura de (⟪तृतीयया⟫)
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : a se bucura de (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -3238,9 +3246,9 @@ Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4406))
 ::::
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : a oferi, a prezenta, a predă
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : a oferi, a prezenta, a predă <!-- TODO: Fallback translation -->
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : a lega împreună, a lega, a stăpâni
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : a lega împreună, a lega, a stăpâni <!-- TODO: Fallback translation -->
 
 ⟪यत्⟫ 1Ā ⟪यतते⟫ : a ținti spre (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
@@ -3287,7 +3295,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt4408))
 ::::
 :::
-## Lecție 45
+## Lecție 45 <!-- TODO: Fallback translation -->
 
 
 ⟪वा⟫ ... ⟪वा⟫ : fie ... fie
@@ -3379,7 +3387,7 @@ Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4607))
 ::::
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : a urca, a cățara
+⟪रुह्⟫ 1P ⟪रोहति⟫ : a urca, a cățara <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
@@ -3413,7 +3421,7 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 ::::
 :::
 ::: indent
-1 ⟪महामात्र⟫ m. "mahout"; ⟪चरिष्णु⟫ 3 "mobil", ⟪दूरशब्द⟫ m. "telefonie fixă" » ⟪चरिष्णुदूरशब्द⟫ "telefon mobil" (morfologie: A. Payer)
+1 ⟪महामात्र⟫ m. "mahout"; ⟪चरिष्णु⟫ 3 "mobil", ⟪दूरशब्द⟫ m. "telefonie fixă" » ⟪चरिष्णुदूरशब्द⟫ "telefon mobil" (morfologie: A. Payer) <!-- TODO: Fallback translation -->
 
 :::
 ⟪विभ्रम⟫ m.: mișcarea înainte și înapoi
@@ -3510,7 +3518,7 @@ Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/ro/
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4601))
 ::::
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : a se agăța de (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : a se agăța de (⟪द्वितीयया⟫) <!-- TODO: Fallback translation -->
 
 ⟪यदि⟫ Conjuncție:  dacă
 
@@ -3534,7 +3542,7 @@ de exemplu
 Fig.: [⟪भोः⟫](/ro/licenses#lekt4611)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4611))
 :::
-## Lecție 48
+## Lecție 48 <!-- TODO: Fallback translation -->
 
 
 ⟪श्वस्⟫ : mâine
@@ -3585,7 +3593,7 @@ Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : a atârna, a se atașa
 
-⟪कुमार⟫ m.: copil, tânăr, prinț; epitet al lui ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
+⟪कुमार⟫ m.: copil, tânăr, prinț; epitet al lui ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4805.webp)
@@ -3593,7 +3601,7 @@ Fig.: ⟪कुमारः⟫
 Festivalul Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: fată, fiică
+⟪कुमारी⟫ f.: fată, fiică <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -3613,7 +3621,7 @@ Fig.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4807))
 :::
-⟪स्थाविर⟫ n.: (înaltă) bătrânețe
+⟪स्थाविर⟫ n.: (înaltă) bătrânețe <!-- TODO: Fallback translation -->
 
 ⟪वाच्य⟫ 3: de asemenea: demn de mustrare
 
@@ -3641,7 +3649,7 @@ Fig.: ⟪मम⟫ ⟪जाया⟫
 (Imagine: Payer)
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4809))
 :::
-## Lecție 49
+## Lecție 49 <!-- TODO: Fallback translation -->
 
 
 ⟪दीर्घ⟫ 3: lung
@@ -3700,7 +3708,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Fig.: ⟪कुलूहलम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: întreg, complet
+⟪कृत्स्न⟫ 3: întreg, complet <!-- TODO: Fallback translation -->
 
 ⟪परिचय⟫ m.: cunoaștere, familiaritate
 
@@ -3712,7 +3720,7 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, sec. al XI-lea
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: dorință
+⟪वर⟫ m.n.: dorință <!-- TODO: Fallback translation -->
 
 ⟪उत⟫ Indekl.: și, de asemenea, sau
 
@@ -3743,7 +3751,7 @@ Văzător cu papagal în cușcă: papagalul scoate bilețele pe care este scris 
 :::
 ⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: cel mai jos nivel al [Dalitilor](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: însuși, de la sine
+⟪स्वयम्⟫ Indekl.: însuși, de la sine <!-- TODO: Fallback translation -->
 
 ⟪अवनि⟫ f.: pământ
 
@@ -3768,7 +3776,7 @@ Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
 
 ⟪परम⟫ 3: cel mai îndepărtat, cel mai înalt ; ⟪पञ्चम्या⟫ : mai bun decât, mai sus decât
 
@@ -3780,7 +3788,7 @@ Fig.: ⟪गजशिशुः⟫
 Sri Lanka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4906))
 :::
-## Lecție 50
+## Lecție 50 <!-- TODO: Fallback translation -->
 
 
 ⟪ध्रुव⟫ 3: ferm, neschimbat
@@ -3789,7 +3797,7 @@ Sri Lanka
 
 ⟪पण्डित⟫ 3: isteț, înțelept, învățat
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫: a disprețui, a neglija
+⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫: a disprețui, a neglija <!-- TODO: Fallback translation -->
 
 ⟪मन्त्रिन्⟫ 3: sfătuitor ; m.: consilier, consilier de stat, ministru
 
@@ -3799,7 +3807,7 @@ Fig.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), ministru de stat în Ministerul Științei și Tehnologiei și Ministerul Științelor Pământului (din 2006)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: secret, singurătate
+⟪रहस्⟫ n.: secret, singurătate <!-- TODO: Fallback translation -->
 
 ⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫: a fi afectat, a eșua, a deteriora
 
@@ -3850,7 +3858,7 @@ Sosirea monsunului, Bangalore  ಬೆಂಗಳೂರು
 Fig.: ⟪आदित्यः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: fiecare, toți
+⟪सर्व⟫ 3: fiecare, toți <!-- TODO: Fallback translation -->
 
 Declinație ca ⟪यद्⟫ (excepție: Nom.Akk.sg.Neutrum)
 
@@ -3887,7 +3895,7 @@ Fig.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : vedea
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : vedea <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. ⟪चचक्षे⟫
@@ -3910,7 +3918,7 @@ nu este utilizat în celelalte timpuri
 Fig.:
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5105))
 :::
-⟪अतिथि⟫ m.: oaspete
+⟪अतिथि⟫ m.: oaspete <!-- TODO: Fallback translation -->
 
 ⟪अभ्यन्तर⟫ 3: situat în interior, cel mai apropiat; m. cel mai apropiat membru, autohton
 
@@ -3946,7 +3954,7 @@ Fig.: ⟪जटा⟫
 
 ⟪बाह्य⟫ 3: situat în exterior, afară, străin
 
-⟪भिक्षा⟫ f.: milostenie cerută, hrană de cerșetor
+⟪भिक्षा⟫ f.: milostenie cerută, hrană de cerșetor <!-- TODO: Fallback translation -->
 
 ⟪मार्यादा⟫ f.: limită
 
@@ -4027,7 +4035,7 @@ Fig.: ⟪कौशिकः⟫
 Bufnița lui Brahma (_Athene brama\"), Mahesana = મહેસાણા
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: pasăre
+⟪शकुनि⟫ m.: pasăre <!-- TODO: Fallback translation -->
 
 ⟪श्वन्⟫ m.: câine
 
@@ -4056,7 +4064,7 @@ Fig.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: crud, crud, brutal
+⟪क्रूर⟫ 3: crud, crud, brutal <!-- TODO: Fallback translation -->
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : unge, unsură
 
@@ -4099,7 +4107,7 @@ Vipera lanț (_Daboia russelii\"), Bangalore = ಬೆಂಗಳೂರು
 
 ⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
 
-⟪बलि⟫ m.:  impozit, donație, tribut
+⟪बलि⟫ m.:  impozit, donație, tribut <!-- TODO: Fallback translation -->
 
 ⟪मणि⟫ m.: bijuterie
 
@@ -4109,7 +4117,7 @@ Fig.: ⟪मणिः⟫
 Diamantul Hope din Guntur = ગુંતૂર, astăzi Muzeul Național de Istorie Naturală Smithsonian, Washington DC
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5118))
 :::
-⟪वन⟫ n.: pădure
+⟪वन⟫ n.: pădure <!-- TODO: Fallback translation -->
 
 ⟪मद⟫ m.: de asemenea „suc de rută” al unui elefant (în [Musht](http://en.wikipedia.org/wiki/Musth))
 
@@ -4203,7 +4211,7 @@ Fig.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: lăcomie, poftă
+⟪लौल्य⟫ n.: lăcomie, poftă <!-- TODO: Fallback translation -->
 
 ⟪वर्ग⟫ m.: secțiune, departament, grupă
 
@@ -4307,7 +4315,7 @@ Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: bananier (_Musa_ sp.)
+⟪कदली⟫ f.: bananier (_Musa_ sp.) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -4315,7 +4323,7 @@ Abb.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: miez, esență, substanță
+⟪सार⟫ m.n.: miez, esență, substanță <!-- TODO: Fallback translation -->
 
 ⟪दिव्य⟫ 3: ceresc, divin
 

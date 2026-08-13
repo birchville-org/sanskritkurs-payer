@@ -5,9 +5,9 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 7
+# Oppitunti 7 <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 **Tässä luvussa opit:**
@@ -16,7 +16,7 @@ status: stable
 - Sananloppuisen -n sandhi
 - A-juuristen taivutusluokkien neutri
 - Atemaattiset preesensluokat (5. luokan esimerkki)
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: center
 **Viikon sananlasku**
@@ -37,13 +37,13 @@ Oikeus voittaa, ei väärinkäsitys,
 Totuus voittaa, ei epätosi,
 Anteeksianto voittaa, ei viha,
 Jumala voittaa, ei vastajumala.
-:::
+::: <!-- TODO: Fallback translation -->
 
-## 7.1. Verbilause suoran objektin kanssa
+## 7.1. Verbilause suoran objektin kanssa <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Kaava:**
-**(Agens = kartṛ m. = ⟪कर्तृ⟫) – suora objekti (karman n. = ⟪कर्मन्⟫) – verbi**
+**(Agens = kartṛ m. = ⟪कर्तृ⟫) – suora objekti (karman n. = ⟪कर्मन्⟫) – verbi** <!-- TODO: Fallback translation -->
 
 esim.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma syö (kaut) hedelmän."
@@ -51,7 +51,7 @@ esim.
 :::
 Jos verbi on parasmaipadassa tai ātmanepadissa, suora objekti (**karman** n. = ⟪कर्मन्⟫) on yleensä **akkusatiivissa** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫).
 
-## 7.2. Akkusatiivi (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "toinen taivaspääte")
+## 7.2. Akkusatiivi (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "toinen taivaspääte") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Akkusatiivin yksikön maskuliinin ja feminiinin pääte vokaalin jälkeen: -m**
@@ -87,7 +87,7 @@ Jos verbi on parasmaipadassa tai ātmanepadissa, suora objekti (**karman** n. = 
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
 
-### 7.2.1. Kysymis- ja osoittapronomien akkusatiivin yksikkö ja monikko
+### 7.2.1. Kysymis- ja osoittapronomien akkusatiivin yksikkö ja monikko <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | || maskuliini | feminiini | neutri |
@@ -104,7 +104,7 @@ Jos verbi on parasmaipadassa tai ātmanepadissa, suora objekti (**karman** n. = 
 Muodot **enam** (⟪एनम्⟩) jne. kuuluvat vartalon **enad** (⟪एनद्⟩), joka muodostaa taivutusmuotoja vain joissakin kasuksissa. Näitä käytetään **etad** ja **idam** muotojen sijaan, kun niillä tarkoitettu asia on jo mainittu edellisessä tekstissä.
 esim. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟩ ⟪देवः⟩ | ⟪एनं⟩ ⟪यजन्ते⟩ || : "Hän on jumala. Häntä palvotaan uhraamalla."
 
-### 7.2.2. Akkusatiivin käyttö (toinen kasu, dvitīyā f. = ⟪द्वितीया⟩ = "toinen kasupääte")
+### 7.2.2. Akkusatiivin käyttö (toinen kasu, dvitīyā f. = ⟪द्वितीया⟩ = "toinen kasupääte") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Akkusatiivi (dvitīyā f. = ⟪द्वितीया⟩) ilmaisee:
@@ -116,7 +116,7 @@ esim.
 esim.
    - **narakaṃ gacchati** = ⟪नरकं⟩ ⟪गच्छति⟩ : "Hän menee helvettiin."
 :::
-Akkusatiivin muita käyttötapoja käsitellään myöhemmin.
+Akkusatiivin muita käyttötapoja käsitellään myöhemmin. <!-- TODO: Fallback translation -->
 
 ## 7.3. San-dhi loppun -n kohdalla
 
@@ -128,10 +128,10 @@ Akkusatiivin muita käyttötapoja käsitellään myöhemmin.
    - **-n** ennen **ḍ-, ḍh-, ṇ-, ṣ-** » **-ṇ**
 esim. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = ⟪क्षत्रियांञ्जयति⟫ : "Hän voittaa kṣatriyat."
 Alussa oleva **ś-** korvataan yleensä **ch-**:lla:
-**gurūn + śṛṇoti** » **gurūñ chṛṇoti** (myös gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : "Hän kuuntelee opettajia." "Hän tottelee opettajia."
+**gurūn + śṛṇoti** » **gurūñ chṛṇoti** (myös gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : "Hän kuuntelee opettajia." "Hän tottelee opettajia." <!-- TODO: Fallback translation -->
 
 2. Korvataan alussa olevalla **l-** -lla **-l**:llä, jossa on anunāsika (nasaloitu l, kirjoitettuna ⟪ल्⟫ anunāsikalla ⟪ँ⟫):
-esim. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Hän saa kotieläimiä."
+esim. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Hän saa kotieläimiä." <!-- TODO: Fallback translation -->
 
 3. Korvataan alussa olevilla ääntymättömillä palataaleilla, retrofleksiveillä tai dentaalilla **anusvāralla** + näiden äänteiden mukaisella sibilantilla:
    - **-n** ennen **c-, ch-** » **-ṃś**
@@ -155,7 +155,7 @@ esim. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "j
 esim. **phala** n. = ⟪फल⟫ = "hedelmä": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫
 - **Nominatiivin / akkusatiivin monikon pääte: -āni**
 esim. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
-:::
+::: <!-- TODO: Fallback translation -->
 
 ## 7.5. Athemeattiset preesensluokat
 
@@ -164,7 +164,7 @@ Viides preesensluokka muodostaa niin kutsutun athemeattisen preesensvartalon, el
 ::: grammar-box
 **Athemeattiset preesensluokat ovat vartalonasteisia, eli preesensvartalolla on kaksi muotoa:**
 1. **vahva vartalo**: täysaste (harvoin pidennetty aste)
-2. **heikko vartalo**: alhaisaste
+2. **heikko vartalo**: alhaisaste <!-- TODO: Fallback translation -->
 
 **Vahva vartalo esiintyy:**
 - indikatiivin yksikössä parasmaipadassa preesensissä (laṭ) ja imperfektissa (laṅ)
@@ -173,7 +173,7 @@ Viides preesensluokka muodostaa niin kutsutun athemeattisen preesensvartalon, el
 
 **Kaikki muut muodot käyttävät heikkoa preesensvartaloa.**
 :::
-### 7.5.1. Kolmannen persoonan monikon primaaripäätteet athemaattisissa vartaloissa
+### 7.5.1. Kolmannen persoonan monikon primaaripäätteet athemaattisissa vartaloissa <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Athemaattisissa preesensvartaloissa kolmannen persoonan monikon primaaripäätteet ovat:**
@@ -184,18 +184,18 @@ Viides preesensluokka muodostaa niin kutsutun athemeattisen preesensvartalon, el
 
 ::: grammar-box
 - **Vahva vartalo**: (usein) syysävyötteinen juuri (kuten yllä mainittu) + **-no-**
-- **Heikko vartalo**: (usein) syysävyötteinen juuri (kuten yllä mainittu) + **-nu-**
+- **Heikko vartalo**: (usein) syysävyötteinen juuri (kuten yllä mainittu) + **-nu-** <!-- TODO: Fallback translation -->
 
 **Vokaalipäätteisten juurten kohdalla -nu- korvautuu muodolla -nv-, kun se seuraa vokaalipäätettä; konsonanttisävyötteisten juurten kohdalla -nu- korvautuu muodolla -nuv-, kun se seuraa vokaalipäätettä.**
 :::
-**Esimerkit:**
+**Esimerkit:** <!-- TODO: Fallback translation -->
 
 | Juuri:br⟪धातु⟫ | Starker Vartalo | Schwacher Vartalo | Ennen vokaalia:br(heikko) |
 | :--- | :--- | :--- | :--- |
 | **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
 | **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
 | **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) | <!-- TODO: Fallback translation -->
 
 ## 7.6. Sanalista
 
@@ -223,7 +223,7 @@ Kuv.: Oliko tämä vedinen somakasvi?: Lennokkisiipi: *Amanita muscaria* (L.) La
 
 ## 7.7. Harjoitus
 
-**A) Lisää jokainen yksikössä ja monikossa suora objekti tai suuntatyyppinen akkusatiivi:**
+**A) Lisää jokainen yksikössä ja monikossa suora objekti tai suuntatyyppinen akkusatiivi:** <!-- TODO: Fallback translation -->
 
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
    ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
@@ -255,7 +255,7 @@ Kuva: Viṣṇu = ⟪विष्णु⟫, 8./9. vuosisata.
 4. devī ... (kup, krudh)
    ⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
 
-**C) Muuttakaa harjoituslauseissa B) tekijä, kohde ja verbi monikkoon.**
+**C) Muuttakaa harjoituslauseissa B) tekijä, kohde ja verbi monikkoon.** <!-- TODO: Fallback translation -->
 
 **D) Aseta Ātmanepadaan:**
 
@@ -273,7 +273,7 @@ Kuva: Viṣṇu = ⟪विष्णु⟫, 8./9. vuosisata.
 Kuv: **yajati** = ⟪यजति⟫ — Veda-uhrinen uhri = **yajña** m. = ⟪यज्ञ⟫
 (Kuvälähde: [Tiedot](/fi/licenses#lekt0702))
 :::
-**E) Muodosta kaikki tähän mennessä opetellut substantiivit akkusatiivin (dvitīyā) yksikössä ja monikossa.**
+**E) Muodosta kaikki tähän mennessä opetellut substantiivit akkusatiivin (dvitīyā) yksikössä ja monikossa.** <!-- TODO: Fallback translation -->
 
 **F) Käännä:**
 
@@ -296,5 +296,5 @@ Kuva: Millelle jumalalle tässä uhrataan? Vastaus: Gaṇeśa (Gaṇapati) = ⟪
 :::
 9. Mitä tämä pyhä mies pureskelee?
 10. Mitä nämä (täällä) puristavat?
-11. Hän on opettaja. Häntä kuunnellaan (= he kuuntelevat).
+11. Hän on opettaja. Häntä kuunnellaan (= he kuuntelevat). <!-- TODO: Fallback translation -->
 

@@ -17,9 +17,9 @@ status: stable
 - sandhi vocálico
 - Sandhi de oración de -ās
 :::
-## 3.1. Nominativooo singular del femenino
+## 3.1. Nominativoooooo singular del femenino
 
-### 3.1.1. Nominativooo singular en -s
+### 3.1.1. Nominativoooooo singular en -s
 
 Los siguientes stems nominales, que terminan en una vocal, también forman el nominativo singular en **-s**:
 
@@ -27,7 +27,7 @@ Los siguientes stems nominales, que terminan en una vocal, también forman el no
 - **Femeninos en -i**: p. ej. **śruti** f. "la escucha" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Femeninos en -u**: p. ej. **dhenu** f. "vaca lechera" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativooo singular sin terminación
+### 3.1.2. Nominativoooooo singular sin terminación
 
 El nominativo singular se forma sin terminación:
 
@@ -51,7 +51,7 @@ El nominativo singular se forma sin terminación:
   (**-u-** se convierte en **-v-** antes de vocal, por lo tanto **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativooo plural masculino y femenino
+## 3.3. Nominativoooooo plural masculino y femenino
 
 ::: grammar-box
 La terminación del nominativo plural en masculino y femenino es **-as**.
@@ -76,7 +76,7 @@ Nota: **e** es la forma reforzada (**guṇa**) de **i**, **o** es la forma refor
 :::
 p. ej.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā es una deidad" = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā es una deidad" = ⟪देवतान्नपूर्णा⟫ &lt;!-- TODO: Fallback translation --&gt;
 
 > (Annapūrṇā es la diosa de los alimentos y la cocina, se la considera una encarnación de Pārvatī, la esposa de Śiva.)
 
@@ -127,7 +127,7 @@ p. ej.
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-por ejemplo
+por ejemplo &lt;!-- TODO: Fallback translation --&gt;
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Los vaiśyas son dos veces nacidos" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -162,7 +162,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Los vaiśyas son dos veces nacidos"
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : brahmán.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya femenina.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya femenina. &lt;!-- TODO: Fallback translation --&gt;
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : esposa de un kṣatriya.
 

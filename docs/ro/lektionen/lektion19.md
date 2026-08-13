@@ -5,7 +5,7 @@ lesson_id: 19
 
 # Lecția 19
 
-## 19.1. Propoziția relativă
+## 19.1. Propoziția relativă <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -67,7 +67,7 @@ Notă: În relațiile de conținut universal, se preferă adesea folosirea optat
 | **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
 
 **Ca prefix al compuselor, apare rădăcina ⟪यद्⟫ (respectând sandhi-ul).**
 
@@ -126,7 +126,7 @@ Fig.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 Pers. ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** a sufla
+**⟪वा⟫ 2 Pers. ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** a sufla <!-- TODO: Fallback translation -->
 
 din acesta:
 
@@ -143,7 +143,7 @@ Fig.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), în costum tradițional, este o tradiție în părțile de sud ale Kerala. _Onappottan_ vizitează casele în timpul _onam_ și oferă binecuvântări. În ultimul timp, _onappottan_ a devenit o vedere rară, limitată la sate."
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** învățat, înțelept ; 3: înțelept, experimentat (în)
+**⟪पण्डित⟫ m.:** învățat, înțelept ; 3: înțelept, experimentat (în) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1903.jpg)
@@ -151,7 +151,7 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 ⟪१९५९⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** a locui la, a locui (Ac., Loc.) ; a vizita, a se deplasa către (Ac.) ; a servi, a îngriji, a venera ; a exersa, a folosi ; a asista, a avea relații sexuale
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** a locui la, a locui (Ac., Loc.) ; a vizita, a se deplasa către (Ac.) ; a servi, a îngriji, a venera ; a exersa, a folosi ; a asista, a avea relații sexuale <!-- TODO: Fallback translation -->
 
 **⟪नि⟫ Prefix verbal:** jos, în interior
 
@@ -171,7 +171,7 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪बान्धव⟫** m.:** rudă
 
-**⟪हि⟫** : deoarece, anume (nu trebuie niciodată să se afle la începutul propoziției)
+**⟪हि⟫** : deoarece, anume (nu trebuie niciodată să se afle la începutul propoziției) <!-- TODO: Fallback translation -->
 
 ## 19.4. Exerciții
 
@@ -205,7 +205,7 @@ Explicație: ⟪वारि⟫ Nom., Ac. sg. la ⟪वारि⟫ n.: apă
 ⟪धर्मार्थकामसंयोगं⟫  
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
 :::
-Explicație: ⟪यथाकालम्⟫ Compus Avyayībhāva: la momentul potrivit; întotdeauna, când există momentul potrivit pentru aceasta.
+Explicație: ⟪यथाकालम्⟫ Compus Avyayībhāva: la momentul potrivit; întotdeauna, când există momentul potrivit pentru aceasta. <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
@@ -222,13 +222,13 @@ Explicație: ⟪पुमान्⟫ Nom. sg. la ⟪पुंस्⟫ "bărbat
 
 ::: deleteme-box
 
-**lekt1809:** Ilustrație pentru ⟪कामसूत्र⟫ [Sursă imagine: Wikipedia, Domeniu public]
+**lekt1809:** Ilustrație pentru ⟪कामसूत्र⟫ [Sursă imagine: Wikipedia, Domeniu public] <!-- TODO: Fallback translation -->
 
-**lekt1901:** Badami (ಬದಾಮಿ) [Sursă imagine: Sudarshan Bhat Khandige / Wikipedia, Domeniu public]
+**lekt1901:** Badami (ಬದಾಮಿ) [Sursă imagine: Sudarshan Bhat Khandige / Wikipedia, Domeniu public] <!-- TODO: Fallback translation -->
 
 **lekt1902:** Goa (⟪गोंय⟫) [Sursă imagine: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Accesat la 2008-12-08. -- Licență Creative Commons (Atribuire, fără utilizare comercială, fără lucrări derivate)]
 
-**lekt1903:** ⟪१९५९⟫ [Sursă imagine: Wikipedia, Domeniu public]
+**lekt1903:** ⟪१९५९⟫ [Sursă imagine: Wikipedia, Domeniu public] <!-- TODO: Fallback translation -->
 
 **lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), în costum tradițional, este o consuetudine în părțile de sud ale Kerala. _Onappottan_ vizitează case în timpul _onam_ și oferă binecuvântări. În ultimul timp, _onappottan_ a devenit o priveliște rară, limitată la sate." [Sursă imagine: Căpitan Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Accesat la 2008-12-08. -- Licență Creative Commons (Atribuire)]
 :::

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 12
+# Lekcija 12
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:**

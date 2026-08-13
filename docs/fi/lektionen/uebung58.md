@@ -12,12 +12,12 @@ last_reconstructed: 2026-05-15
 
 ## A) iṣ-aorist-muunnokset
 
-Määritä ja käännä seuraavat muodot sekä muodosta niihin vastaavat **iṣ-aorist**in muodot:
+Määritä ja käännä seuraavat muodot sekä muodosta niihin vastaavat **iṣ-aorist**in muodot: <!-- TODO: Fallback translation -->
 
 1. ⟪औहे⟫ - ⟪ऊह्⟫ 1Ā 1.sg.Impf.Ā minä työntelin - ⟪औहिषि⟫
 2. ⟪जाग्रति⟫ - ⟪जागृ⟫ 2P 3.pl.Ind.Präs.P he ovat hereillä - ⟪अजागरिषुः⟫
 3. ⟪जीर्यन्ति⟫ - ⟪जॄ⟫ 4P 3.pl.Ind.Präs.P he ikääntyvät - ⟪अजारिषुः⟫
-4. ⟪आनर्च⟫ - ⟪अर्च्⟫ 1P palvotaan 1.3.sg.2.pl.Perf.P - ⟪आर्चिषम्⟫ ⟪।⟫ ⟪आर्चीत्⟫ ⟪।⟫ ⟪आर्चिष्ट⟫
+4. ⟪आनर्च⟫ - ⟪अर्च्⟫ 1P palvotaan 1.3.sg.2.pl.Perf.P - ⟪आर्चिषम्⟫ ⟪।⟫ ⟪आर्चीत्⟫ ⟪।⟫ ⟪आर्चिष्ट⟫ <!-- TODO: Fallback translation -->
 
 5. ⟪खादामः⟫ - ⟪खाद्⟫ 1P 1.pl.Ind.Präs.P me pureskelemme - ⟪अखादिष्म⟫
 6. ⟪नेद⟫ - ⟪नद्⟫ 1P 2.pl.Perf.P te soitte - ⟪अनादिष्ट⟫ ⟪।⟫ ⟪अनदिष्ट⟫
@@ -40,17 +40,17 @@ Määritä ja käännä seuraavat muodot sekä muodosta niihin vastaavat **iṣ-
 Kuv.: ⟪तब्लाः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung095))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## B) Sanaluokitukset
 
-Määritä ja käännä seuraavat muodot:
+Määritä ja käännä seuraavat muodot: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung097.webp)
 Kuv.: ⟪मातुलङ्गविक्रेतायं⟫ ⟪ना⟫ ⟪॥⟫
 Pune - ⟪पुणे⟫
-\[Kuv lähde: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Haettu 2009-03-12. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimeäminen, ei kaupallista käyttöä, ei johdannaissuostumusta)\]
+\[Kuv lähde: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Haettu 2009-03-12. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimeäminen, ei kaupallista käyttöä, ei johdannaissuostumusta)\] <!-- TODO: Fallback translation -->
 
 1. ⟪अनेढ्वम्⟫ - ⟪नी⟫ 1U 2.pl.Aor(4).Ā te johdatte itseänne
 2. ⟪एनयोः⟫ - ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫ Gen.Lok.sg.du.m.f.n. nämä kaksi / näissä kahdessa
@@ -90,10 +90,10 @@ Pune - ⟪पुणे⟫
 36. ⟪इमे⟫ - ⟪इदम्⟫ 3 Nom.pl.m.Nom.Akk.du.f.n. nämä / nämä kaksi
 37. ⟪इतः⟫ - ⟪इ⟫ 2P 3.du.Ind.Präs.P te kaksi menet ; ⟪इतस्⟫ Adv. täältä
 38. ⟪दद⟫ - ⟪दा⟫ 3U 2.pl.Perf.P te annoitte
-39. ⟪अञ्ज्वः⟫ - ⟪अञ्ज्⟫ 7P 1.du.Ind.Präs.P me kaksi voitele
+39. ⟪अञ्ज्वः⟫ - ⟪अञ्ज्⟫ 7P 1.du.Ind.Präs.P me kaksi voitele <!-- TODO: Fallback translation -->
 
 
 ![](/images/uebung096.webp)
 Kuv: ⟪श्वा⟫ ⟪श्वानमघ्रात्⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung096))
-:::
+::: <!-- TODO: Fallback translation -->

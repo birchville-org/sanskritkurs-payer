@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 38
+# Leçon 38
 
-## 38.1. Losung der Woche
+## 38.1. Losung der Woche <!-- TODO: Fallback translation -->
 
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ sur l’urination correcte :
 
@@ -212,7 +212,7 @@ Exemple :
 
 ⟪सत्यवादिन्⟫ de ⟪सत्यवाद⟫ m. "parole de vérité" : "celui qui est marqué par la parole de vérité = celui qui dit toujours la vérité"
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫
+## 38.5. Syntaktisches zu ⟪नामन्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Pour exprimer « quelqu’un nommé N. N. », on construit :

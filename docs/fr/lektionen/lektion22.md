@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 22
+# Leçon 22
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -144,10 +144,8 @@ Racine sur **-a** + **-tya**
 ::: media
 ![](/images/lekt2202.webp)
 Fig. : ⟪कामदेवः⟫
-XIXe s.
-Fig. : ⟪कामदेवः⟫
-XIXe s.
-(Source de l'image : [Détails](/fr/licenses#lekt2202))
+19e s.
+(Source de l'image : [Détails](/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Passé.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** être capable, pouvoir
 

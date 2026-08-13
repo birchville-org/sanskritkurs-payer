@@ -51,5 +51,5 @@ Formas sequentes determinate et traducite, atque formas correspondentes **a-Aori
 ![](/images/uebung092.webp)
 Abb.: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Imago fontis: [Detalia](/licenses#uebung092))
-:::
+::: <!-- TODO: Fallback translation -->
 

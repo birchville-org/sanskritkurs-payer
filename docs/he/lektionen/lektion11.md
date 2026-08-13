@@ -5,7 +5,7 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # שיעור 11
 
@@ -71,7 +71,7 @@ status: stable
 מקור התמונה: [פרטים](/he/licenses#lekt1102)
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : לשאול
-  - **praśna** m. ⟪प्रश्न⟫ : שאלה (סיומת **-na** כמו ב-**yaj-ña**)
+  - **praśna** m. ⟪प्रश्न⟫ : שאלה (סיומת **-na** כמו ב-**yaj-ña**) <!-- TODO: Fallback translation -->
 
 - **iṣ** 6 P ⟪इष्⟫ : לרצות
   - **iṣṭi** f. ⟪इष्टि⟫ : רצון (**iṣ** + **-ti**)
@@ -145,3 +145,4 @@ status: stable
 איור: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (מקור התמונה: [פרטים](/he/licenses#lekt1103))
 :::
+ <!-- TODO: Fallback translation -->

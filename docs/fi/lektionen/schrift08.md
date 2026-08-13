@@ -1,6 +1,6 @@
 # Kirjoitusharjoitus 8
 
-Vokaalimerkit sanan alussa, jos sanaa ei ole kirjoitettu yhdistettynä edeltävään sanaan:
+Vokaalimerkit sanan alussa, jos sanaa ei ole kirjoitettu yhdistettynä edeltävään sanaan: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift015.webp)
 
@@ -8,15 +8,15 @@ Vokaalimerkit sanan alussa, jos sanaa ei ole kirjoitettu yhdistettynä edeltäv�
 
 ### Konsonanttiligatuurit
 
-Kun sanassa tai lauseessa kaksi tai useampi konsonantti seuraavat toisiaan välittömästi, ne kirjoitetaan ligatuurilla (yhdistetty merkki).
+Kun sanassa tai lauseessa kaksi tai useampi konsonantti seuraavat toisiaan välittömästi, ne kirjoitetaan ligatuurilla (yhdistetty merkki). <!-- TODO: Fallback translation -->
 
-1. Jos yhdistettävien konsonanttimerkkien ensimmäinen päättyy oikealle pystyviivaan, se menettää tämän viivan ja sijoitetaan toisen konsonantin eteen.
+1. Jos yhdistettävien konsonanttimerkkien ensimmäinen päättyy oikealle pystyviivaan, se menettää tämän viivan ja sijoitetaan toisen konsonantin eteen. <!-- TODO: Fallback translation -->
 
-Poikkeus: jos toinen konsonanttimerkki on ⟪न्⟫ tai ⟪ल्⟫, tämä sijoitetaan ensimmäisen konsonantin alle vaakaviivan menettämällä. Riippuen kirjoityyypistä on muita poikkeuksia, jotka luetellaan seuraavassa. Jos ligatuuria ei ole suunniteltu kyseiseen kirjoityyppiin, virāma asetetaan.
+Poikkeus: jos toinen konsonanttimerkki on ⟪न्⟫ tai ⟪ल्⟫, tämä sijoitetaan ensimmäisen konsonantin alle vaakaviivan menettämällä. Riippuen kirjoityyypistä on muita poikkeuksia, jotka luetellaan seuraavassa. Jos ligatuuria ei ole suunniteltu kyseiseen kirjoityyppiin, virāma asetetaan. <!-- TODO: Fallback translation -->
 
 Esimerkkejä:
 
-Tässä tekstissä käytetyssä tyypissä:
+Tässä tekstissä käytetyssä tyypissä: <!-- TODO: Fallback translation -->
 
 ⟪ख्⟫ kh: ⟪ख्य⟫  khya, ⟪ख्र⟫ khra
 
@@ -60,11 +60,11 @@ Tässä tekstissä käytetyssä tyypissä:
 
 ⟪स्⟫ s: ⟪स्क⟫ ska, ⟪स्ख⟫ skha, ⟪स्त⟫ sta, ⟪स्त्य⟫ stya, ⟪स्त्र⟫ stra, ⟪स्त्व⟫ stva, ⟪स्थ⟫ stha, ⟪स्न⟫ sna, ⟪स्प⟫ spa, ⟪स्र⟫ sra
 
-Beachten Sie die Schreibung von jña:
+Beachten Sie die Schreibung von jña: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift017.webp)
 
-Alussa oleva -a, joka sandhisääntöjen mukaan elidioidaan (-as + a- » -o ' ), merkitään ns. avagrahalla:
+Alussa oleva -a, joka sandhisääntöjen mukaan elidioidaan (-as + a- » -o ' ), merkitään ns. avagrahalla: <!-- TODO: Fallback translation -->
 
 ⟪ऽ⟫
 
@@ -76,7 +76,7 @@ Esim.
 
 A) Kirjoita kaikki yllä olevassa listassa esiintyvät ligatuurit
 
-B) Kirjoita ja käännä:
+B) Kirjoita ja käännä: <!-- TODO: Fallback translation -->
 
 1\. devo viṣṇuḥ.
 
@@ -119,7 +119,7 @@ C) Kirjoita:
 
 agraṃ agniḥ ākāśa ūrdhvaṃ īpsitaḥ āptaṃ udayo īśo āsanno uttamaṃ
 
-D) Lue, translitteroi ja käännä:
+D) Lue, translitteroi ja käännä: <!-- TODO: Fallback translation -->
 
 ⟪शूद्रा⟫ ⟪नृत्यन्ति⟫ | ⟪साध्व्यः⟫ ⟪स्मरन्ति⟫ | ⟪देव्यो⟫ ⟪मन्यन्ते⟫ | ⟪योधाञ्जयति⟫ | ⟪गुरूञ्छृणोति⟫ | ⟪पशूल्लंभते⟫ | ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ | ⟪साधवो⟫ ⟪गुरूञ्छृण्वन्ति⟫ | ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ | ⟪सृष्टिः⟫ | ⟪तन्वन्ति⟫ |
 

@@ -5,7 +5,7 @@ status: stable
 last_reconstructed: 2026-05-16
 ---
 
-# Lektion 28
+# Pamoka 28
 
 ## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 

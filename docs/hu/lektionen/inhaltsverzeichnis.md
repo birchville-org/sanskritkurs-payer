@@ -1,15 +1,15 @@
 # Tartalomjegyzék
 
-## [1. lecke](lektion01)
+## [1. lecke](lektion01) <!-- TODO: Fallback translation -->
 
 *   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Gaṇeśa tisztelete
 *   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Szerencsés kezdet"
 *   1\. Irodalom az indológiai kezdők számára
 *   2\. A szanszkrit hangjai a hagyományos indiai osztályozás szerint és tudományos átírásuk
 *   2.1. Az egyes hangok kiejtéséről
-*   3\. Gyakorlat
+*   3\. Gyakorlat <!-- TODO: Fallback translation -->
 
-## [2. lecke](lektion02)
+## [2. lecke](lektion02) <!-- TODO: Fallback translation -->
 
 *   1\. A névszói mondat
 *   2\. Az ragozásról (főnevek és melléknevek ragozása)
@@ -20,7 +20,7 @@
 *   5\. Szószedet
 *   6\. Gyakorlat
 
-## [3. lecke](lektion03)
+## [3. lecke](lektion03) <!-- TODO: Fallback translation -->
 
 *   1\. Nominativus egyes szám = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫ (folytatás)
 *   1.1. Nominativus egyes szám -s végződésű alakokkal (folytatás)
@@ -30,9 +30,9 @@
 *   4\. Vokális szandhi
 *   5\. Mondatbeli szandhi -ās végződés esetén
 *   6\. Szószedet
-*   7\. Gyakorlat
+*   7\. Gyakorlat <!-- TODO: Fallback translation -->
 
-## [4. lecke](lektion04)
+## [4. lecke](lektion04) <!-- TODO: Fallback translation -->
 
 Beszélt szanszkrit
 
@@ -46,7 +46,7 @@ Beszélt szanszkrit
 *   1.5. Kérdőformulák
 *   2\. Gyakorlat
 
-## [5. lecke](lektion05)
+## [5. lecke](lektion05) <!-- TODO: Fallback translation -->
 
 *   1\. Névsszós összetételek = samāsa m. = ⟪समास⟫
 *   2\. A szanszkrit terminológia az összetételekről
@@ -54,9 +54,9 @@ Beszélt szanszkrit
 *   3.1. Az összetételek első tagjai
 *   3.2. Többes számú Itaretaradvandva
 *   4\. Szószedet
-*   5\. Gyakorlat
+*   5\. Gyakorlat <!-- TODO: Fallback translation -->
 
-## [6. lecke](lektion06)
+## [6. lecke](lektion06) <!-- TODO: Fallback translation -->
 
 *   1\. Az igehasználati mondat
 *   2\. Az igealakok képzése
@@ -72,9 +72,9 @@ Beszélt szanszkrit
 *   6\. Beszélt szanszkrit: További kérdések (praśna m. = ⟪प्रश्न⟫)
 *   7\. Szószedet
 *   8\. Gyakorlat
-*   9\. Ismétlőgyakorlat
+*   9\. Ismétlőgyakorlat <!-- TODO: Fallback translation -->
 
-## [7. lecke](lektion07)
+## [7. lecke](lektion07) <!-- TODO: Fallback translation -->
 
 Heti idézet
 
@@ -89,10 +89,10 @@ Heti idézet
 *   5.1. Elsődleges végződések a harmadik személy többes számában atémás jelen idő alapoknál
 *   5.2. Az 5. jelen időosztály (svādi = ⟪स्वादि⟫ = "su stb."
 *   6\. Szószedet
-*   7\. Gyakorlat
+*   7\. Gyakorlat <!-- TODO: Fallback translation -->
 
 
-## [8. lecke](lektion08)
+## [8. lecke](lektion08) <!-- TODO: Fallback translation -->
 
 *   1\. Főnévképzés
 *   2\. A névmás utótagok osztályozása
@@ -105,18 +105,18 @@ Heti idézet
 *   4\. A 8. jelen időosztály (tanādi = ⟪तनादि⟫ = "tan stb.")
 *   5\. Szószedet
 *   6\. Gyakorlat
-*   7\. Olvasó- és fordítógyakorlat
+*   7\. Olvasó- és fordítógyakorlat <!-- TODO: Fallback translation -->
 
-## [9. lecke](lektion09)
+## [9. lecke](lektion09) <!-- TODO: Fallback translation -->
 
 *   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("összefoglaló dvandva")
 *   2\. Főnémi alapok képzése
 *   2.1. -ka (taddhita)
 *   2.2. -aka (kṛt), nőnem gyakran -ikā
 *   3\. Szószedet
-*   4\. Gyakorlat
+*   4\. Gyakorlat <!-- TODO: Fallback translation -->
 
-## [10. lecke](lektion10)
+## [10. lecke](lektion10) <!-- TODO: Fallback translation -->
 
 *   1\. Az igenevmondat (passzív szerkezet)
 *   2\. Az eszközes esetség = tṛtīyā f. = ⟪तृतीया⟫ = "harmas esetrag"
@@ -127,16 +127,16 @@ Heti idézet
 *   5\. Szószedet
 *   6\. Gyakorlat
 *   7\. Szószedet 2.
-*   8\. Olvasó- és fordítógyakorlat
+*   8\. Olvasó- és fordítógyakorlat <!-- TODO: Fallback translation -->
 
-## [11. lecke](lektion11)
+## [11. lecke](lektion11) <!-- TODO: Fallback translation -->
 
 *   1\. Kettős tárgyeset
 *   2\. Szószedet
 *   3\. Gyakorlat
 *   4\. Ismétlőgyakorlat
 
-## [12. lecke](lektion12)
+## [12. lecke](lektion12) <!-- TODO: Fallback translation -->
 
 *   1\. Múlt idejű igenev passzív (PPP)
 *   1.1. Sémák tranzitív igékhez
@@ -152,7 +152,7 @@ Heti idézet
 *   5.1. A eddig tanult gyökök passzív szerkezete és PPP-je
 *   6\. Gyakorlat
 
-## [13. lecke](lektion13)
+## [13. lecke](lektion13) <!-- TODO: Fallback translation -->
 
 *   1\. -na- végződésű PPP
 *   2\. További információk a PPP használatáról
@@ -166,7 +166,7 @@ Heti idézet
 *   10\. Gyakorlat
 *   11\. Ismétlőgyakorlat
 
-## [14. lecke](lektion14)
+## [14. lecke](lektion14) <!-- TODO: Fallback translation -->
 
 *   1\. A birtokos viszony kifejezése főnevek által: a birtokos eset (ṣaṣṭhī f. = ⟪षष्टी⟫ = hatos esetrag)
 *   2\. A birtokos alakok képzése (ṣāṣṭhī f. = ⟪षष्ठी⟫)
@@ -175,7 +175,7 @@ Heti idézet
 *   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = közmondások
 *   6\. Gyakorlat
 
-## [15. lecke](lektion15)
+## [15. lecke](lektion15) <!-- TODO: Fallback translation -->
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
 *   2\. Determinatív összetételek = Tatpuruṣa m. = ⟪तत्पुरुष⟫
@@ -188,17 +188,17 @@ Heti idézet
 *   8\. Szószedet
 *   9\. Gyakorlat 1.
 *   10\. Gyakorlat 2.
-*   11\. Gyakorlat 3.
+*   11\. Gyakorlat 3. <!-- TODO: Fallback translation -->
 
 
-## [Lektion 16](lektion16)
+## [Lektion 16](lektion16) <!-- TODO: Fallback translation -->
 
 *   1\. A szó végén álló mássalhangzók sandhija
 *   2\. Szótár
 *   3\. Gyakorlatok
 *   4\. Ismétlő gyakorlatok
 
-## [Lektion 17](lektion17)
+## [Lektion 17](lektion17) <!-- TODO: Fallback translation -->
 
 *   1\. Második jelen időosztály (⟪अदादि⟫ = ⟪अद्⟫ stb.)
 *   2\. A második jelen időosztály gyökei magánhangzó-változással: magas fok – mély fok
@@ -209,7 +209,7 @@ Heti idézet
 *   7\. Gyakorlatok 1.
 *   8\. Gyakorlatok 2.
 
-## [Lektion 18](lektion18)
+## [Lektion 18](lektion18) <!-- TODO: Fallback translation -->
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
 *   2\. Determinatív összetételek (⟪तत्पुरुष⟫) adverbiumi előtaggal
@@ -221,7 +221,7 @@ Heti idézet
 *   5\. Gyakorlatok
 *   6\. Ismétlő gyakorlatok
 
-## [Lektion 19](lektion19)
+## [Lektion 19](lektion19) <!-- TODO: Fallback translation -->
 
 *   1\. Mondatszerkezetek a viszonyító igenevekkel
 *   2\. Viszonyító névmás = ⟪व्यपेक्षकसर्वनाम⟫ n.
@@ -229,7 +229,7 @@ Heti idézet
 *   4\. Gyakorlatok
 *   ⟪५⟫. ⟪सुभाषितानि⟫
 
-## [Lektion 20](lektion20)
+## [Lektion 20](lektion20) <!-- TODO: Fallback translation -->
 
 *   1\. Birtokos összetételek = ⟪बहुव्रीहि⟫ m.
 *   2\. Bahuvrīhi attribútum előtaggal
@@ -244,7 +244,7 @@ Heti idézet
 *   11\. Gyakorlatok 2.
 *   12\. Fordítási gyakorlatok
 
-## [Lektion 21](lektion21)
+## [Lektion 21](lektion21) <!-- TODO: Fallback translation -->
 
 *   1\. További -nt végű jelen időtörzsek
 *   1.1. Jelen idejű igenevek (⟪लडादेशः⟫) Parasmaipada
@@ -254,7 +254,7 @@ Heti idézet
 *   4\. Szótár
 *   5\. Gyakorlatok
 
-## [Lektion 22](lektion22)
+## [Lektion 22](lektion22) <!-- TODO: Fallback translation -->
 
 *   1\. Az abszolútum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
 *   2\. Az abszolútum képzése
@@ -267,7 +267,7 @@ Heti idézet
 *   3\. Szótár
 *   4\. Gyakorlatok
 
-## [Lektion 23](lektion23)
+## [Lektion 23](lektion23) <!-- TODO: Fallback translation -->
 
 *   1\. Az infinitivus (⟪तुमुन्⟫)
 *   2\. Az infinitivus képzése (⟪तुमुन्⟫)
@@ -276,7 +276,7 @@ Heti idézet
 *   5\. Gyakorlatok
 *   6\. Ismétlő gyakorlatok
 
-## [Lektion 24](lektion24)
+## [Lektion 24](lektion24) <!-- TODO: Fallback translation -->
 
 *   1\. Dativus (⟪चतुर्थी⟫ = "negyes esetrag")
 *   2\. A Dativus képzése (⟪चतुर्थी⟫)
@@ -289,7 +289,7 @@ Heti idézet
 *   5\. Gyakorlatok
 *   6\. További gyakorlatok a Dativus használatára
 
-## [Lektion 25](lektion25)
+## [Lektion 25](lektion25) <!-- TODO: Fallback translation -->
 
 *   1\. Az Ablativus képzése (⟪पञ्चमी⟫ = "ötös esetrag")
 *   2\. Az Ablativus használata (⟪पञ्चमी⟫)
@@ -301,7 +301,7 @@ Heti idézet
 *   8\. Fordítási gyakorlatok
 
 
-## [26. lecke](lektion26)
+## [26. lecke](lektion26) <!-- TODO: Fallback translation -->
 
 *   1\. Cerebralisációs törvény a szóbeli -s- esetén
 *   2\. Cerebralisációs törvény a szóbeli dentálisok esetén
@@ -312,7 +312,7 @@ Heti idézet
 *   7\. Az egyszerű jövő idő képzése (⟪ऌत्⟫, ⟪भविष्यन्ती⟩  f.)
 *   8\. Gyakorlat
 
-## [27. lecke](lektion27)
+## [27. lecke](lektion27) <!-- TODO: Fallback translation -->
 
 *   1\. A lokatíva használata (⟪सप्तमी⟫ f. = "hetedik esetrag")
 *   2\. A lokatíva képzése (⟪सप्तमी⟫)
@@ -339,7 +339,7 @@ Heti idézet
 *   7.13. Viszonyító névmás: ⟪यद्⟫
 *   7.14. Kérdő névmás: ⟪किम्⟫
 
-## [28. lecke](lektion28)
+## [28. lecke](lektion28) <!-- TODO: Fallback translation -->
 
 *   1\. A kausatívum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 *   2\. Mondatkonstrukció a kausatívummal (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
@@ -351,16 +351,16 @@ Heti idézet
 *   8\. Az infinitívus képzése (⟪तुमुन्⟫) a kausatívumhoz
 *   9\. A 10. jelen idői osztály (⟪चुरादि⟫ = ⟪चुर्⟫ stb.)
 *   10\. Szószedet
-*   11\. Gyakorlat
+*   11\. Gyakorlat <!-- TODO: Fallback translation -->
 
-## [29. lecke](lektion29)
+## [29. lecke](lektion29) <!-- TODO: Fallback translation -->
 
 *   1\. A Parasmaipada és Ātmanepada használata a kausatívumban
 *   2\. Szószedet
 *   3\. Fordítási gyakorlat ismétlésre
 *   4\. Jövő idő és kausatív a eddig tanult gyökökhöz
 
-## [30. lecke](lektion30)
+## [30. lecke](lektion30) <!-- TODO: Fallback translation -->
 
 *   1\. A 9. jelen idői osztály (⟪क्र्यादि⟫ = "⟪क्री⟫ stb.")
 *   2\. Az optativus használata (⟪लिङ्⟫)
@@ -371,15 +371,15 @@ Heti idézet
 *   5\. Szandhi végződő -r esetén
 *   6\. Szószedet
 *   7\. Gyakorlat
-*   8\. Ismétlő gyakorlat a ragozástanhoz
+*   8\. Ismétlő gyakorlat a ragozástanhoz <!-- TODO: Fallback translation -->
 
-## [31. lecke](lektion31)
+## [31. lecke](lektion31) <!-- TODO: Fallback translation -->
 
 *   1\. A 7. jelen idői osztály (⟪रुधादि⟫ = "⟪रुध्⟫ stb.")
 *   2\. Szószedet
-*   3\. Gyakorlat
+*   3\. Gyakorlat <!-- TODO: Fallback translation -->
 
-## [32. lecke](lektion32)
+## [32. lecke](lektion32) <!-- TODO: Fallback translation -->
 
 *   1\. A múlt idői idők
 *   2\. Az imperfectum (⟪लङ्⟫)
@@ -392,7 +392,7 @@ Heti idézet
 *   7\. Ismétlő gyakorlat a karácsonyi szünet alatt
 
 
-## [33. lecke](lektion33)
+## [33. lecke](lektion33) <!-- TODO: Fallback translation -->
 
 *   1\. A reduplikáció (⟪अभ्यास⟫ m.)
 *   1.1. A reduplikációs mássalhangzó
@@ -403,9 +403,9 @@ Heti idézet
 *   4.1. A ⟪दा⟫ és a ⟪धा⟫ gyökök
 *   5\. A harmadik jelen idő osztály gyökeinek parasmaipada jelen idejű melléknévige
 *   6\. Szószedet
-*   7\. Gyakorlatok
+*   7\. Gyakorlatok <!-- TODO: Fallback translation -->
 
-## [34. lecke](lektion34)
+## [34. lecke](lektion34) <!-- TODO: Fallback translation -->
 
 *   1\. A perfekta (⟪लिट्⟫)
 *   2\. A reduplikált perfekta (⟪द्वित्वलिट्⟫)
@@ -421,7 +421,7 @@ Heti idézet
 *   7\. Gyakorlatok
 *   8\. Fordítási gyakorlatok
 
-## [35. lecke](lektion35)
+## [35. lecke](lektion35) <!-- TODO: Fallback translation -->
 
 *   1\. Perfekta III. típus: erős tő magas fok/hosszúsított fok
 *   1.1. Perfekta IIIa. típus: erős tő magas fok/hosszúsított fok, gyenge tő mély fok
@@ -432,9 +432,9 @@ Heti idézet
 *   3.2. Perfekta Vb. típus: mássalhangzó-a-mássalhangzó gyökök, kezdőmássalhangzó nem gutturális, aspirált vagy h. Gyenge tő reduplikáció nélkül, -e- képzővel
 *   3.3. Perfekta Vc. típus: mássalhangzó-a-mássalhangzó gyökök. Erős tő magas fok
 *   4\. Szószedet
-*   5\. Gyakorlatok
+*   5\. Gyakorlatok <!-- TODO: Fallback translation -->
 
-## [36. lecke](lektion36)
+## [36. lecke](lektion36) <!-- TODO: Fallback translation -->
 
 *   1\. A perfekta különleges képzései
 *   2\. Periphrasztikus perfekta (⟪अनुप्रयोगलिट्⟫)
@@ -443,9 +443,9 @@ Heti idézet
 *   5\. Gyakorlatok
 *   6\. A perfekta (⟪लिट्⟫) eddig tanult gyökekre
 *   7\. Fordítási gyakorlatok
-*   8\. Alakzattan ismétlőgyakorlat
+*   8\. Alakzattan ismétlőgyakorlat <!-- TODO: Fallback translation -->
 
-## [37. lecke](lektion37)
+## [37. lecke](lektion37) <!-- TODO: Fallback translation -->
 
 *   1\. Az határozószó (⟪क्रियाविशेषनम्⟫)
 *   2\. Kaszusformák határozószói használata
@@ -470,7 +470,7 @@ Heti idézet
 *   10\. Gyakorlatok
 *   11\. Ismétlőgyakorlat
 
-## [38. lecke](lektion38)
+## [38. lecke](lektion38) <!-- TODO: Fallback translation -->
 
 *   1\. A heti megoldások
 *   2\. Nasálok hangváltozása a szóban
@@ -489,7 +489,7 @@ Heti idézet
 *   12\. Fordítási gyakorlatok
 
 
-## [39. lecke](lektion39)
+## [39. lecke](lektion39) <!-- TODO: Fallback translation -->
 
 *   1\. Az első személyű személyragok (⟪तृतीयः⟫ ⟪पुरुषः⟫ = "harmadik személy")
 *   2\. Az első személyű igeképzések képzése témás jelen idői törzseknél
@@ -508,9 +508,9 @@ Heti idézet
 *   4.4. Nyolcadik jelen idői osztály (⟪तनादि⟫)
 *   4.5. Hetedik jelen idői osztály (⟪रुधादि⟫)
 *   4.6. Kilencedik jelen idői osztály (⟪क्र्यादि⟫)
-*   5\. Gyakorlat
+*   5\. Gyakorlat <!-- TODO: Fallback translation -->
 
-## [40. lecke](lektion40)
+## [40. lecke](lektion40) <!-- TODO: Fallback translation -->
 
 *   1\. ⟪सुभाषितानि⟫
 *   2\. Az első személyű igeképzések képzése a perfektnél (⟪लिट्⟫)
@@ -530,9 +530,9 @@ Heti idézet
 *   5\. Személyes névmások (⟪पुरुषार्थकसर्वनाम⟫) az első személy egyes és többes számában
 *   6\. Szószedet
 *   7\. Gyakorlat
-*   8\. Ismétlőgyakorlat a képzettanhoz
+*   8\. Ismétlőgyakorlat a képzettanhoz <!-- TODO: Fallback translation -->
 
-## [41. lecke](lektion41)
+## [41. lecke](lektion41) <!-- TODO: Fallback translation -->
 
 *   1\. ⟪सुभाषिते⟫ (két közmondás)
 *   2\. További ⟪कृत्⟫-képzések -a végén
@@ -548,10 +548,10 @@ Heti idézet
 *   2.4. Különbségek a gerundívum suffixusok használatában
 *   2.5. Nincs kapcsolat a ⟪सु⟫- és ⟪दुस्⟫-val
 *   3\. Szószedet
-*   4\. Gyakorlat
+*   4\. Gyakorlat <!-- TODO: Fallback translation -->
 
 
-## [42. lecke](lektion42)
+## [42. lecke](lektion42) <!-- TODO: Fallback translation -->
 
 *   1\. Törzsek -ṛ végződéssel
 *   1.1. Törzsek nyújtott fokkú erős törzzsel
@@ -563,7 +563,7 @@ Heti idézet
 *   3\. Gyakorlat
 *   4\. Fordítási gyakorlat
 
-## [43. lecke](lektion43)
+## [43. lecke](lektion43) <!-- TODO: Fallback translation -->
 
 *   1\. A második személyű személyes végződések (⟪मध्यमः⟫ = "középső \&lt;személy\&gt;")
 *   2\. A második személyű ragozott alakok képzése (⟪मध्यमः⟫)
@@ -579,9 +579,9 @@ Heti idézet
 *   3\. A második személyű névmás
 *   4\. Szószedet
 *   5\. Gyakorlat
-*   6\. ⟪संवादः⟫ = Beszélgetés
+*   6\. ⟪संवादः⟫ = Beszélgetés <!-- TODO: Fallback translation -->
 
-## [44. lecke](lektion44)
+## [44. lecke](lektion44) <!-- TODO: Fallback translation -->
 
 *   1.  A második személyű ragozott alakok képzése (⟪मध्यमः⟩) témátlan törzsek magánhangzó végződésű képzővel
 *   1.1. Ötödik jelen idő osztály (⟪स्वादि⟫)
@@ -597,7 +597,7 @@ Heti idézet
 *   6\. Gyakorlat
 *   7\. Ragozási ismétlőgyakorlat
 
-## [45. lecke](lektion45)
+## [45. lecke](lektion45) <!-- TODO: Fallback translation -->
 
 *   1\. A második személyű ragozott alakok képzése (⟪मध्यमः⟫) témátlan törzsek magánhangzó végződésű képző nélkül (folytatás)
 *   1.1. Harmadik jelen idő osztály (⟪जुहोत्यादि⟫)
@@ -606,7 +606,7 @@ Heti idézet
 *   3\. Szószedet
 *   4\. Gyakorlat
 
-## [46. lecke](lektion46)
+## [46. lecke](lektion46) <!-- TODO: Fallback translation -->
 
 *   1\. A második személyű ragozott alakok képzése (⟪मध्यमः⟫) tökéletes idő (⟪लिट्⟫)
 *   1.1. Végződések
@@ -624,10 +624,10 @@ Heti idézet
 *   1.8. Különleges tökéletes idő képzések
 *   1.9. Periphrasztikus tökéletes idő (⟪अनुप्रयोगलिट्⟫)
 *   2\. Szószedet
-*   3\. Gyakorlat
+*   3\. Gyakorlat <!-- TODO: Fallback translation -->
 
 
-## [47. lecke](lektion47)
+## [47. lecke](lektion47) <!-- TODO: Fallback translation -->
 
 *   1\. Az imperativus (⟪लोट्⟫)
 *   2\. Az imperativus képzése (⟪लोट्⟫) tematikus jelenstémák esetén
@@ -637,9 +637,9 @@ Heti idézet
 *   2.4. Negyedik jelenosztály (⟪दिवादि⟫)
 *   2.5. Tizedik jelenosztály (⟪चुरादि⟫) és kausatívák
 *   2.6. Passzív
-*   3\. Gyakorlatok
+*   3\. Gyakorlatok <!-- TODO: Fallback translation -->
 
-## [48. lecke](lektion48)
+## [48. lecke](lektion48) <!-- TODO: Fallback translation -->
 
 *   1\. ⟪सुभाषितानि⟫
 *   2\. Az imperativus képzése (⟪लोट्⟫) atematikus jelenstémák esetén
@@ -652,7 +652,7 @@ Heti idézet
 *   5\. Gyakorlatok
 *   6\. Fordítási gyakorlatok
 
-## [49. lecke](lektion49)
+## [49. lecke](lektion49) <!-- TODO: Fallback translation -->
 
 *   1\. Az imperativus képzése (⟪लोट्⟫) atematikus jelenstémák esetén (folytatás)
 *   1.1. Hetedik jelenosztály (⟪रुधादि⟫)
@@ -665,13 +665,13 @@ Heti idézet
 *   5\. Ismétlő gyakorlatok a ragozástanból
 *   6\. Fordítási gyakorlatok
 
-## [50. lecke](lektion50)
+## [50. lecke](lektion50) <!-- TODO: Fallback translation -->
 
 *   1\. A névszóképzés: szabályos fokozás
 *   2\. Szószedet
 *   3\. Fordítási gyakorlatok
 
-## [51. lecke](lektion51)
+## [51. lecke](lektion51) <!-- TODO: Fallback translation -->
 
 *   1\. ⟪उपपद⟫ összetételek
 *   2\. Az egyszerű mássalhangzóra végződő (kivéve nazális, fénmagánhangzó, -s) stémák ragozása
@@ -684,7 +684,7 @@ Heti idézet
 *   6\. Szószedet
 *   7\. Fordítási gyakorlatok
 
-## [52. lecke](lektion52)
+## [52. lecke](lektion52) <!-- TODO: Fallback translation -->
 
 *   1\. A -i és -u végű stémák középneme
 *   2\. A névszóképzés
@@ -709,7 +709,7 @@ Heti idézet
 *   8\. Fordítási gyakorlatok
 *   9\. Feladatok a félévszünet alatt
 
-## [53. lecke](lektion53)  (Félévszünet)
+## [53. lecke](lektion53)  (Félévszünet) <!-- TODO: Fallback translation -->
 
 *   1\. A kettős szám (⟪द्विवचन⟫ n.) a névszavaknál
 *   2\. A névszó kettős számú végződései
@@ -730,7 +730,7 @@ Heti idézet
 *   11\. Gyakorlatok
 
 
-## [54. lecke](lektion54)
+## [54. lecke](lektion54) <!-- TODO: Fallback translation -->
 
 *   1\. Előszó
 *   2\. Szóképzés: ⟪कृत्⟫-utótag -u a desideratív törzsekhez
@@ -741,26 +741,26 @@ Heti idézet
 *   6.1. A 3.sg.passzív aoristja
 *   7\. Gyakorlat
 
-## [55. lecke](lektion55)
+## [55. lecke](lektion55) <!-- TODO: Fallback translation -->
 
 *   1\. Az a-aorist (témavokállal ellátott aorist)
-*   2\. Gyakorlat
+*   2\. Gyakorlat <!-- TODO: Fallback translation -->
 
-## [56. lecke](lektion56)
+## [56. lecke](lektion56) <!-- TODO: Fallback translation -->
 
 *   1\. A reduplikált aorist
 *   1.1. A kausatívok és a 10. jelen időosztály tőinek aoristja
 *   2\. Az injunktív
 *   3\. A tiltó mondat
 *   4\. ⟪स्म⟫
-*   5\. Gyakorlat
+*   5\. Gyakorlat <!-- TODO: Fallback translation -->
 
-## [57. lecke](lektion57)
+## [57. lecke](lektion57) <!-- TODO: Fallback translation -->
 
 *   1\. Aorist 4: s-aorist
 *   2\. Gyakorlat
 
-## [58. lecke](lektion58)
+## [58. lecke](lektion58) <!-- TODO: Fallback translation -->
 
 *   1\. A duális elsődges végződések (⟪द्विवचनम्⟫)
 *   2\. A témás jelen időosztályok duálisa: indikatív jelen (⟪लट्⟫)
@@ -780,9 +780,9 @@ Heti idézet
 *   5.5. Hetedik jelen időosztály (⟪रुधादिगणः⟫)
 *   5.6. Kilencedik jelen időosztály (⟪क्र्यादिगणः⟫)
 *   6\. Aorist 5: iṣ-aorist
-*   7\. Gyakorlat
+*   7\. Gyakorlat <!-- TODO: Fallback translation -->
 
-## [59. lecke](lektion59)
+## [59. lecke](lektion59) <!-- TODO: Fallback translation -->
 
 *   1\. A duális másodleges végződések és az imperatívus végződése (⟪द्विवचनम्⟫)
 *   2\. A témás jelen időosztályok duálisa: optatív (⟪विधिलिङ्⟫), imperfektum (⟪लङ्⟫), imperatívus (⟪लोट्⟫)
@@ -806,9 +806,9 @@ Heti idézet
 *   4.5. iṣ-aorist
 *   5\. Aorist (⟪लुङ्⟫) 6: siṣ-aorist (csak P-ben)
 *   6\. Aorist (⟪लुङ्⟫) 7: sa-aorist (témás s-aorist)
-*   7\. Gyakorlat
+*   7\. Gyakorlat <!-- TODO: Fallback translation -->
 
-## [60. lecke](lektion60)
+## [60. lecke](lektion60) <!-- TODO: Fallback translation -->
 
 *   1\. A duális perfektvégződések (⟪द्विवचनम्⟫)
 *   2\. A reduplikált perfektrum duálisa (⟪द्वित्वलिट्⟫)
@@ -833,7 +833,7 @@ Heti idézet
 *   7\. Gyakorlat
 
 
-## [61. lecke](lektion61)
+## [61. lecke](lektion61) <!-- TODO: Fallback translation -->
 
 *   1\. A -ā, -ī, -ū végződésű tőnévszó ragozása
 *   1.1. -ā végződésű tőnévszavak a ⟪तत्पुरुष⟩ végén

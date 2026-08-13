@@ -113,9 +113,11 @@ PPP + -vant / נק': vatī
 
 *   **מילים מספרות**
     דוגמאות:
-    ⟪एकशस्⟫ "בנפרד, כל אחד"
-    ⟪द्विशस्⟫ "שניים, כל שניים"
-    ⟪शतशस्⟫ "במאות, כל מאה"
+::: indent
+⟪एकशस्⟫ "בנפרד, כל אחד"
+⟪द्विशस्⟫ "שניים, כל שניים"
+⟪शतशस्⟫ "במאות, כל מאה"
+:::
 
 *   **מילים אחרות**
 דוגמאות:
@@ -196,7 +198,7 @@ PPP + -vant / נק': vatī
 ⟪भस्मसात्करोति⟫ "הוא הופך לגמרי לאפר (⟪भस्मन्⟫ נ' "אפר"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
 
 *   **תלוי ב־ או**
 *   **עובר לבעלותו של**
@@ -226,9 +228,11 @@ PPP + -vant / נק': vatī
     למשל, ⟪पुनः⟫ ⟪पुनः⟫ "שוב ושוב"
 *   **התפלגות**  
     דוגמאות:  
-    ⟪पृथक्पृथक्⟫ "כל אחד בנפרד, כל אחד בנפרד"  
-    ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "מה שכל ... כל מה"  
-    ⟪युगे⟫ ⟪युगे⟫ "בכל יובל זמן בנפרד"
+::: indent
+⟪पृथक्पृथक्⟫ "כל אחד בנפרד, כל אחד בנפרד"
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "מה שכל ... כל מה"
+⟪युगे⟫ ⟪युगे⟫ "בכל יובל זמן בנפרד"
+:::
 
 **לעיתים ניתן ליצור קומפוזיציה מקשרים כאלה**
 
@@ -285,7 +289,7 @@ PPP + -vant / נק': vatī
 דוגמאות:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f.
 :::
 
@@ -297,7 +301,7 @@ PPP + -vant / נק': vatī
 דוגמאות:
 
 ::: indent
-100 ⟪शत⟫ נ.:br
+100 ⟪शत⟫ נ.
 1000 ⟪सहस्र⟫ נ.
 :::
 את שמות העצם של המספרים הבודדים ראו למשל אצל קילפורן, דקדוק סעיף 201.
@@ -695,7 +699,7 @@ Inf. ⟪त्रातुम्⟫
 איור: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
 _Ficus religiosa_ L. ⟪बोधगया⟫, כ. 1810
 (מקור התמונה: [פרטים](/he/licenses#lekt5216))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
@@ -782,7 +786,7 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, כ. 1810
 
 ::: deleteme-box
 
-**lekt5202:** ⟪विवाहः⟩, צ'נאי = சென்னை [מקור תמונה: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- גישה ב-2009-01-15. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
+**lekt5202:** ⟪विवाहः⟩, צ'נאי = சென்னை [מקור תמונה: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- גישה ב-2009-01-15. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt5203:** דמות Wayang, ג'אווה, אינדונזיה [מקור תמונה. ויקיפדיה. תחום הציבור]
 
@@ -800,7 +804,7 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, כ. 1810
 
 **lekt5212:** היידראבאד = హైదరాబాద్ [מקור התמונה: דייוויד A G וילסון. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- תאריך גישה 2009-01-16. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (יחוס, לא לשימוש מסחרי, ללא עיבוד)]
 
-**lekt5213:** ⟪मुंबई⟫ [מקור התמונה: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- תאריך גישה 2009-01-16. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (יחוס, ללא עיבוד)]
+**lekt5213:** ⟪मुंबई⟫ [מקור התמונה: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- תאריך גישה 2009-01-16. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (יחוס, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt5214:** קונארק = ⟪कोनार्क⟫ [מקור התמונה: גאוראב ארקה. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- תאריך גישה 2009-01-16. --  [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (יחוס, לא לשימוש מסחרי, ללא עיבוד)]
 

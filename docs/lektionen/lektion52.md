@@ -769,9 +769,9 @@ Während der Semesterferien sollten folgende Aufgaben erfüllt werden:
 8.  Durcharbeiten:  
     **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm. -- S. 208 - 254 (Sytactical government)
 9.  Fertig durcharbeiten von:  
-    **Basham, A. L. (Arthur Llewellyn) \<1914-1986\>**The wonder that was IndiaTeil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
+    **Basham, A. L. (Arthur Llewellyn) (1914–1986)**The wonder that was IndiaTeil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
 10.  Beginn mit der Durcharbeit von:  
-     **Winternitz, Moriz \<1863 - 1937\>:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 Bde. -- 1908 - 1922 (immer noch die bei weitem beste Literaturgeschichte der Sanskrit-, Pali- und Prakritliteratur)
+     **Winternitz, Moriz (1863–1937):** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 Bde. -- 1908 - 1922 (immer noch die bei weitem beste Literaturgeschichte der Sanskrit-, Pali- und Prakritliteratur)
 
 ::: media
 ![](/images/lekt5201.webp)

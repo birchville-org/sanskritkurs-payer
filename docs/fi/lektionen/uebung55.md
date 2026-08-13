@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 55
 
-Määritä ja käännä seuraavat muodot sekä muodosta niille vastaavat **a-aoristin** muodot:
+Määritä ja käännä seuraavat muodot sekä muodosta niille vastaavat **a-aoristin** muodot: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Nro. | Muoto | Määritelmä / Merkitys | a-aoristi |
@@ -46,12 +46,12 @@ Määritä ja käännä seuraavat muodot sekä muodosta niille vastaavat **a-aor
 | ⟪२९⟫. | ⟪अशाम्यत⟫ | :sig[⟪शम्⟫] 4P: 2. Pl. Impf. P. (te rauhoituitte) | ⟪अशमत⟫ |
 | ⟪३०⟫. | ⟪अशोभथाः⟫ | :sig[⟪शुभ्⟫] 1Ā: 2. Sg. Impf. Ā. (sinä olit kaunis) | ⟪अशुभः⟫ (a-aor.: P.) |
 | ⟪३१⟫. | ⟪अशुष्याम⟫ | :sig[⟪शुष्⟫] 4P: 1. Pl. Impf. P. (me kuivuimme) | ⟪अशुषाम⟫ |
-| ⟪३२⟫. | ⟪सिष्णेह⟫ | :sig[⟪स्निह्⟫] 4P: 1. 3. Sg. Perf. P. (minä rakastin / hän rakasti) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** |
+| ⟪३२⟫. | ⟪सिष्णेह⟫ | :sig[⟪स्निह्⟫] 4P: 1. 3. Sg. Perf. P. (minä rakastin / hän rakasti) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** | <!-- TODO: Fallback translation -->
 
 :::
 ::: media
 ![](/images/uebung092.webp)
 Kuva: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Kuv lähde: [Details](/licenses#uebung092))
-:::
+::: <!-- TODO: Fallback translation -->
 

@@ -40,7 +40,8 @@ Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes P
 1\. ϯⲛⲁϧⲟⲩⲏ:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "ⲛⲓϣⲱⲙⲉ ⲛⲧⲥⲁϫⲓ ⲛⲉⲙ ϣⲱⲙ"
+**yajant**
+⟪यजन्त्⟫ "ⲛⲓϣⲱⲙⲉ ⲛⲧⲥⲁϫⲓ ⲛⲉⲙ ϣⲱⲙ"
 :::
 ::: grammar-box
 

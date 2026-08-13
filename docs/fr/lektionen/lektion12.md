@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 12
+# Leçon 12
 
 ::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
@@ -18,7 +18,7 @@ status: stable
 - Le passif et le PPP des racines apprises jusqu'à présent
 :::
 
-## 12.1. Partizip Perfekt Passif (PPP)
+## 12.1. Partizip Perfekt Passif (PPP) <!-- TODO: Fallback translation -->
 
 Une manière de former des phrases passées au passif est la construction avec le soi-disant participe passé passif (PPP).
 
@@ -86,7 +86,7 @@ Les formations suivantes sont attestées (pour chaque racine, il convient d’ap
 Les thèmes féminins se terminent par : **-tā**, **-itā**, **-nā** ; le neutre se décline comme **phala** n.
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP auf -ta (kta) <!-- TODO: Fallback translation -->
 
 #### 12.3.1.1. Sans voyelle d'insertion -i- (aniṭ)
 
@@ -158,7 +158,7 @@ Fig. : ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (quelque chose) brûler
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : surmonter, endurer, supporter patiemment = pardonner
 - **mṛga** m. ⟪मृग⟫ : animal sauvage
-- **mārga** m. ⟪मार्ग⟫ : chemin (les chemins étaient souvent des sentiers de bêtes)
+- **mārga** m. ⟪मार्ग⟫ : chemin (les chemins étaient souvent des sentiers de bêtes) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1202.webp)

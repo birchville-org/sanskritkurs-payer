@@ -5,7 +5,7 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα 2
 
@@ -72,7 +72,7 @@ last_reconstructed: 2026-04-30
 
 Δείτε επίσης την επισκόπηση:
 
-> **Payer, Alois (1944–):** Sandhi von auslautendem -s. -- (Υλικό για τα Σανσκριτικά). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi von auslautendem -s. -- (Υλικό για τα Σανσκριτικά). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm <!-- TODO: Fallback translation -->
 
 Τελικό **-s**:
 
@@ -182,7 +182,7 @@ last_reconstructed: 2026-04-30
 
 [**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-Τα Varṇas είναι, ως εκ τούτου, στάδια γέννησης.
+Τα Varṇas είναι, ως εκ τούτου, στάδια γέννησης. <!-- TODO: Fallback translation -->
 
 **kavi** αρσ. -- ⟪कवि⟫ : ποιητής.
 

@@ -1,60 +1,62 @@
 ---
-title: Lektion 1
-subtitle: "Die Laute des Sanskrit"
+title: "Lecziun 1"
+subtitle: "Las sillas dal Sanscrit"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
-# Lektion 1
+# Lecziun 1
+
 
 ::: center
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
-Aduraziun dal Gaṇeśa
+Omagi dal Gaṇeśa
 :::
 
 ::: media
 ![](/images/lekt0102.webp)
-Fig.: Gaṇeśa, Adamspeak, Sri Lanka
-(Imagisur: [Detagl](/rm/licenses#lekt0102))
+Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
+(Fontana da l'imagines: [Detagls](/rm/licenses#lekt0102))
 :::
 
 ::: center
-⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
-⟪सततं⟫ ⟪मोदकप्रिय⟫ |
-⟪निर्विघ्नं⟫ ⟪कुरु⟫ ⟪मे⟫ ⟪देव⟫
-⟪सर्वकार्येषु⟫ ⟪सर्वदा⟫ |
+:sig[लम्बोदर नमस् तुभ्यं]
+:sig[सततं मोदकप्रिय ⟪|⟫]
+:sig[निर्विघ्नं कुरु मे देव]
+:sig[सर्वकार्येषु सर्वदा ⟪||⟫]
 
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
 nirvighnaṃ kuru me deva
 sarvakāryeṣu sarvadā |**
 
-Tú panza pendenta, tú golosina,
-Che ti saja adina veneraziun!
-Deus, fa tut mes emprendimaints
+Ti cun ventg da sursida, ti gustader,
+Che tia omagi saja adina!
+Diu, fa tut mes emprendiments
 Libers da obstaculs!
 :::
 
 ::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
-"Cumenzament auspizius"
+"Cumenzament auspicious"
 :::
 
 ::: media
 ![](/images/lekt0101.webp)
-Abb.: Ardhanarīśvara
-(Quella da l’imagina: [Detagls](/rm/licenses#lekt0101))
+Fig. 1.1: Ardhanarīśvara
+(Fontana da l'imagines: [Detagls](/rm/licenses#lekt0101))
 :::
 
 ::: center
-⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
-⟪वागर्थप्रतिपत्तये⟫ |
-⟪जगतः⟫ ⟪पितरौ⟫ ⟪वन्दे⟫
-⟪पार्वतीपरमेश्वरौ⟫ |
+:sig[वागर्थाविव संपृक्तौ]
+:sig[वागर्थप्रतिपत्तये ⟪|⟫]
+:sig[जगतः पितरौ वन्दे]
+:sig[पार्वतीपरमेश्वरौ ⟪||⟫]
 
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
@@ -63,125 +65,128 @@ pārvatīparameśvarau |**
 
 (Kālidāsa: Raghuvaṃśa 1.1)
 
-Jau la geniturs dal mund,
+J'omagies ils geniturs dal mund,
 Pārvatī e Śiva,
-Che èn tant fermamain colliads
-Sco parola e sens per la comprension
-Dal sens da la parola.
+Che èn uschè fermamain colliads l'un cun l'auter
+Sco la paraula e il sens per la comprension
+Dal signific da la paraula.
 :::
 
-A l'iniziala inqua curiusitad:
+Al cumenzament in curiosum:
 
->"Quand William Jones [1746–1794] et Henry Thomas Colebrooke (1765—1857) e studiat a basa il sanscrit per l'emprima giada, l'han parzialmain tradusì e chattà ch'el ha ina litteratura rica ed ina parentela betg minuscla cun las linguas classicas, alura han els scontrà cun ina resistenza betg minuscla. Visto che questa relaziun intima dal sanscrit cun las linguas europeicas, geograficamain uschè lunsch distentas, na sa lascha betg conciliar cun las ideas veglias, las qualas derivan tut las linguas dal hebraic u las isolavan per gronda part ina da l'autra, alura ha il famus filolog Dugald Steward (1753—1828) emprimà la via simpla, cun declerar l'entira istorgia cun la lingua sanscrita sco ina falsificaziun. El ha scrit in essay, en il qual el ha empruvà da demussar ch'ella saja stada fabricada dals brahmans astuzs suenter il model dal grec e dal latin e che la lingua sco er la litteratura sajan ina falsificaziun. Questa opiniun ha sviluppà anc l'onn 1840 il professur a Dublin, Charles William Wall, detagliadamain (Göttingische gelehrte Anzeigen 1842 p. 1888)."
+
+>"Cun che William Jones [1746–1794] e Henry Thomas Colebrooke (1765—1857) han studiat il sanscrit per la emprima giada detg, parzialmain tradusì e chattà ch'el ha ina litteratura rica ed inna parentela betg pitschna cun las linguas classicas, han els scontrà ina resistenza betg pitschna. Vus che cun questa relaziun intima dal sanscrit cun las linguas europeicas uschè lunsch geograficamain, las ideas veglias, che derivan tuttas linguas dal hebraic u èn per gronda part isoladas l'ina da l'autra, na pon betg esser en concordanza, alura ha il famus filolog Dugald Steward (1753—1828) agì il via simpla, cun declerar l'entira istorgia cun la lingua sanscrita sco ina falsificaziun. El ha scrit in essay, en il qual el vuliva demussar ch'ella saja stada forgiaida dals brahmins astuzs suenter il model dal grec e latin, ed che la lingua sco er la litteratura saja ina falsificaziun. Questa opiniun ha sviluppà anc l'onn 1840 il professur a Dublin, Charles William Wall, detg (Göttingische gelehrte Anzeigen 1842 S. 1888)."
 >
->[Sursa: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- Munich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Access il 2010-01-10]
+>[Fontana: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Access il 2010-01-10]
 
-## 1.1. Literatira per principiants en indologia
+## 1.1. Litteratura per principiants en indologia
 
 ::: media
 ![](/images/lekt0103.webp)
-Fig.: Copertina d'una ediziun da tschertgader
-(fonte da l'imagines: [detagl](/rm/licenses#lekt0103))
-:::
+Fig.: Titul da la coperta d'ina ediziun da tschep
+(Fontana da l'imagines: [Detagls](/rm/licenses#lekt0103))
+::: <!-- TODO: Fallback translation -->
 
->**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Dapi alura blers ediziuns, era ediziuns da tascha. -- **Lectura obligatoria.** Ina buna survista davart la vita, la istorgia e la cultura en l'India preislamica. Survista cumpletta davart ils differents champs da l'indologia classica.
+>**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Dapi alura bleras ediziuns, er ediziuns da tschep. -- **Lectura obligatoria.** Ina buna survista davart vita, istorgia e cultura en l'India preislamica. Survista generala da las differentas areas da la classica indologia.
 
 ::: media
 ![](/images/lekt0104.webp)
-Fig.: Pagina da titel
-(fonte da figura: [Detagls](/rm/licenses#lekt0104))
+Fig.: Titelpagina
+(Font dal maletg: [Detagls](/rm/licenses#lekt0104))
 :::
 
-**La sistematica gramatica la pli buna**
+La meglra grammatica sistematica:
 
-> **Kielhorn**, Franz \<1840-1908\>: Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language
+> **Kielhorn**, Franz \<1840-1908\>: Grammatica da la lingua sanscrita / Translatà dal englais da W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 paginas. -- Titul original: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0105.webp)
-Abb.: Titelpagina da la coperta
-(fonte da l’imagina: [Detagls](/rm/licenses#lekt0105))
+Fig.: Titul da la coperta
+(Font dal maletg: [Detagls](/rm/licenses#lekt0105))
 :::
 
-**Ina buna sistematica da la gramatica sin la basa dals gramatichers nativs ed al emprim in’introducziun en Pāṇini:**
+Ina buna grammatica sistematica sin la basa dals grammatichers nativs ed al emprim in'introducziun en Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Grammatica Sanscritica / Primus scriptus in Malayalam. In Anglicam linguam translatus a K.V.R. Pai. -- Parathode : Typis propriis, 1983. -- 818 pag. ; 23 cm.
+> **Kunnappally, John:** Prakriyā bhāshyam : Grammatica sanscrita / Originalmainent scrit en malayalam. Translatà en englais da K.V.R. Pai. -- Parathode : Edituraziun propria, 1983. -- 818 paginas ; 23 cm. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0107.jpg)
-Imagg.: Copertina dal titel
-(Fontana da l’imaggina: [Detagls](/rm/licenses#lekt0107))
+Fig.: Titul da la coperta
+(Font dal maletg: [Detagls](/rm/licenses#lekt0107))
 :::
 
-Ina buna, curta represchentaziun da la terminologia linguistica europeica chattais Vus en:
+Ina buna, curta preschentaziun da la terminologia linguistic europeica chattais Vus en:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \<1856 - 1926\>. Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
+> **Dicziunari etimologic da la lingua tudestga** / [Friedrich] Kluge \<1856 - 1926\>. Elavurà da Elmar Seebold. -- 24., actualisada ed augmentada ediziun. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 paginas : 24 cm. -- ISBN 3-11-017473-1 Coperta morbida. -- paginas XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)
-Imag.: Titelschiglia
-(fonte da l'imagina: [Detagls](/rm/licenses#lekt0108))
+Fig.: Titul da la coperta
+(Font dal maletg: [Detagls](/rm/licenses#lekt0108))
 :::
 
-Per quai ch’ha invidia da scolar:
+Per curiosus per consultar:
 
-> **Lexikon der Sprachwissenschaft** / hrsg. von Hadumod Bußmann. -- 4., durchges. und bibliogr. erg. Aufl. / unter Mitarb. von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexicon da la lingistica** / edità da Hadumod Bussmann. -- 4., actualisada ed augmentada bibliograficamain ediziun / cun la collavuraziun da Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 paginas ; 22 cm. -- ISBN 978-3-520-45204-7
 
-## 1.2. Las suttas dal sanscrit
 
-I suns dal Sanskrit segun la classificaziun indiana tradicionala ed lur transliteraziun scientifica.
+## 1.2. Ils sons dal sanscrit
+
+Ils sons dal sanscript suenter la classificaziun indiana tradiziunala ed lur transcripziun scientifica.
 
 ::: media
 ![](/images/lekt0106.webp)
-(Fontana da l'imagina: [Detagls](/rm/licenses#lekt0106))
+(Font dal maletg: [Detagls](/rm/licenses#lekt0106))
 :::
-Dizionaris mnins dal sanscrit èn ordenads en la sequenza da questa classificaziun. Questa classificaziun e la sequenza dals sons èn indispensablas per capir la gramatica dal sanscrit e dastgan perquai esser savidas a memoria:
+Dicziunaris moderns dal sanscrit èn ordnaids en la successiun da questa classificaziun. Questa classificaziun è indispensabla per capir la grammatica dal sanscrit e dovra esser savida a memoria:
 
 ::: note-box
 Classificaziun
-- **vocalis simplas** (samānākṣara -- ⟪समानाक्षर⟫):
-  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+- **vocals simples** (samānākṣara -- ⟪समानाक्षर⟫):
+⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
 - **diftongs** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
-  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
 - **consonantas** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
-  ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
-  ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
-  ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
-  ⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
-  ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
-  ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
-  ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
-  ⟪ह⟫ ha
+⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+⟪ह⟫ ha
 :::
-### 1.2.1. Davart la pronunzia da singulas sonoritads
+### 1.2.1. Davart la pronunzia da singuls sons
 
 ::: laut-table
-| Son | Descripziun |
+| Son | descripziun |
 | :--- | :--- |
-| **a - ⟪अ⟫** | "a curt" vegn pronunzià dals Indians – gia da temp vegl – spess sco ə. En Europa sa pronunzia el sco a curt, en Bengala sco o curt. |
-| **ṛ - ⟪ऋ⟫** | sco r vocalisà bohem. Ina pitschna resonanza d'i. |
-| **ṝ - ⟪ॠ⟫** | sco r vocalisà bohem. Ina pitschna resonanza d'u. |
-| **jñ - ⟪ज्ञ्⟫** | er sco dny (Marāṭhī) u gy (Nordindia). |
-| **ś - ⟪श्⟫** | s-son cun la pitschna da la lingua curvada giu. Simil sco sch en "mischar". |
-| **ṣ - ⟪ष्⟫** | ch-son cun la pitschna da la lingua curvada enavos. Spess articuleà uschè lunsch enavos en la gola, ch'el suna quasi sco kh. |
-| **h - ⟪ह्⟫** | aspiraziun, mai sign da lungia. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Aspiraziun senza vusch cun la resonanza dal vocal precedent u dal segund part dal dittong precedent: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
-| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Avant s-sons, h, l: nasalaziun dal vocal. En finala = m. En interna avant consonantas: la nasal correspundenta a la consonanta suandanta: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
+| **a - ⟪अ⟫** "cort a" vegn pronunzià dals indians -- gia da temp anc vegl -- spess sco ə. En Europa pronunziai Vus l' sco curt a, en Bengala sco curt o obscur. |
+| **ṛ - ⟪ऋ⟫** sco r vocalisà bohem. Ina curta resonanza d'i. |
+| **ṝ - ⟪ॠ⟫** sco r vocalisà bohem. Ina curta resonanza d'u. |
+| **jñ - ⟪ज्ञ्⟫** | era sco dny (Marāṭhī) u gy (Nordindisch). |
+| **ś - ⟪श्⟫** | s-ch-sound cun la punta da la lingua curvada giu. Simil a sch en "mischen". |
+| **ṣ - ⟪ष्⟫** | s-ch-sound cun la punta da la lingua curvada enavos. Spess articulà uschè lunsch en il gurgut, ch'el suna quasi sco kh. |
+| **h - ⟪ह्⟫** | aspiraziun, mai sign da lungida. |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Aspiraziun senza vusch cun il retschonder dal vocal precedent u da la segunda part dal diphthong precedent: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
+| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Avant s-ch-sounds, h, l: nasalaziun dal vocal. En la fin = m. En il center avant consonantas: il nasals correspundent a la consonanta suandanta: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
-La meglra pronunzia cuntansescha ins cun leger las frastas, vers u pleds quasi lentamain e monotun cun exacta observaziun da la lungia dals vocals.
+La meglra pronunzia s'attaina, sche on legia las frasis, vers u pleds quasi lentamain e monotun cun exacta consideraziun da la lungida dals vocals.
+
 
 ## 1.3. Exercizi
 
-**A) Leghì su las suentas paraulas:**
+**A) Legia ils suandants pleds:**
 
-1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
-2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫
-3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम⟫ ⟪ब्राह्मचारिन्⟫ ⟪गृहस्थ⟫ ⟪वानप्रस्थ⟫ ⟪संन्यासिन्⟫
-4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद⟫ ⟪सामवेद⟫ ⟪यजुर्वेद⟫ ⟪अथर्ववेद⟫
+1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र⟫
+2. brahmā viṣṇu śiva — ⟪ब्रह्मा विष्णु शिव⟫
+3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्⟫
+4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद सामवेद यजुर्वेद अथर्ववेद⟫
 5. upaniṣad — ⟪उपनिषद्⟫
-6. jaina bauddha — ⟪जैन⟫ ⟪बौद्ध⟫
+6. jaina bauddha — ⟪जैन बौद्ध⟫
 7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫
-8. cakra vajra — ⟪चक्र⟫ ⟪वज्र⟫
+8. cakra vajra — ⟪चक्र वज्र⟫
 9. pitṝn — ⟪पितॄन्⟫
 10. saṃskṛta — ⟪संस्कृत⟫
 
-**B) Legi els expressiuns sanscrites en la classificaziun da la lingia sur.**
+**B) Legia ils expressiuns sanscritas en la classificaziun da sons sura.**

@@ -5,7 +5,7 @@ lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lectio 26
 
@@ -202,7 +202,7 @@ B) Cum vocali coniunctiva -i-:
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Futurum optionale cum et sine -i-:
+C) Futurum optionale cum et sine -i-: <!-- TODO: Fallback translation -->
 
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫

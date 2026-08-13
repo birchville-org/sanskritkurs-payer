@@ -66,7 +66,7 @@ Stăpânul a mers în oraș pentru a predica Dharma.
 Sanctuarul interior este o clădire pentru imaginea zeului.
 
 ⟪६⟫. **⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫**
-Oamenii vor să facă fapte meritorii pentru cer.
+Oamenii vor să facă fapte meritorii pentru cer. <!-- TODO: Fallback translation -->
 
 ⟪७⟫. **⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫**
 (⟪मोक्षस्यार्थम्⟫ ⟪।⟫ ⟪बुद्धं⟫ ⟪गताः⟫ ⟪।⟫ ⟪बुद्धेराप्तिम्⟫)
@@ -77,14 +77,14 @@ Pentru a fi eliberați, cei înțelept vor obține înțelepciune eliberatoare.
 Zeii se mânie pe acești brahmani care nu le-au adus închinare.
 
 ⟪९⟫. **⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫**
-Pentru a muri, ființele se nasc.
+Pentru a muri, ființele se nasc. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung037.webp)
 Fig.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung037))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Variații sintactice
 
@@ -136,7 +136,7 @@ E) În propoziția B) 6, înlocuiți dativul cu o construcție cu **-⟪अर�
 **⟪विष्णुरपि⟫ ⟪शिवाय⟫ ⟪न⟫ ⟪प्रभवति⟫ ⟪॥⟫**
 
 10\. După ce m-am închinat celor trei înțelepți... El se închină lui Narasiṃha.
-**⟪मुनित्रयं⟫ ⟪नमस्कृत्य⟫... ⟪।⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫ ⟪॥⟫**
+**⟪मुनित्रयं⟫ ⟪नमस्कृत्य⟫... ⟪।⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 11\. Bine ai venit! Bine ai venit, regină!
 **⟪स्वागतं⟫ ⟪भवद्भ्यः⟫ ⟪।⟫ ⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
@@ -157,4 +157,4 @@ E) În propoziția B) 6, înlocuiți dativul cu o construcție cu **-⟪अर�
 ![](/images/uebung038.webp)
 Fig.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Sursa imaginii: [Detalii](/licenses#uebung038))
-:::
+::: <!-- TODO: Fallback translation -->

@@ -194,8 +194,10 @@ Strong grade:
 
 *   Roots with a short vowel (except a) before a simple consonant as well as ⟪जन्⟫ and most roots ending in -am  
     Examples:  
-    ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "he was split"  
-    ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "he was pushed"
+::: indent
+⟪भिद्⟫ 7U: ⟪अभेदि⟫ "he was split"
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ "he was pushed"
+:::
 
 Guṇa grade:
 
@@ -213,7 +215,9 @@ tetapi:
 
 *   some roots ending in -am  
     Example:  
-    ⟪गम्⟫ ⟪अगामि⟫
+::: indent
+⟪गम्⟫ ⟪अगामि⟫
+:::
 
 Insertion of y before the ending:
 
@@ -225,7 +229,9 @@ Nasal infix:
 
 *   some roots have a nasal infix:  
     Example:  
-    ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ alongside ⟪अलाभि⟫ : "it was received"
+::: indent
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ alongside ⟪अलाभि⟫ : "it was received"
+:::
 
 (Bentuk-bentuk pasif lainnya dinyatakan dalam aorist dengan bentuk Ātmanepada).
 :::

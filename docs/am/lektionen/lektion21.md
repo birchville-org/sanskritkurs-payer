@@ -40,7 +40,8 @@ status: stable
 የአሁን ጊዜ ክፍል፡
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "በመስዋዕት የሚያመልክ"
+**yajant**
+⟪यजन्त्⟫ "በመስዋዕት የሚያመልክ"
 :::
 ::: grammar-box
 

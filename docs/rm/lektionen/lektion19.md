@@ -3,9 +3,9 @@ title: Lektion 19
 lesson_id: 19
 ---
 
-# Lektion 19
+# Lecziun 19
 
-## 19.1. Der Relativsatz
+## 19.1. Der Relativsatz <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -61,13 +61,13 @@ Nota: En relaziuns cun in cuntegn generalmain valaivel vegn gustà d'utilisar il
 | | | **Maskulinum** :br ⟪पुंस्⟫ | **Neutrum** :br ⟪नपुंसक⟫ | **Femininum** :br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br ⟪एकवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
-| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
-| | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
+| | **2. Accusativ** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
+| | **3. Instrumental** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
+| | **6. Genitiv** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
 | **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
-| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
-| | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
+| | **2. Accusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **3. Instrumental** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
+| | **6. Genitiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
 
 **Comè il prim element da compounds, appariscia la radis ⟪यद्⟫ (sut resguard dal Sandhi).**
 
@@ -222,9 +222,9 @@ Explicaziun: ⟪पुमान्⟫ Nom. sg. a ⟪पुंस्⟫ "um"; ⟪
 
 ::: deleteme-box
 
-**lekt1809:** Illustraziun al ⟪कामसूत्र⟫ [sursa da l’imagines: Wikipedia, domin public]
+**lekt1809:** Illustraziun al ⟪कामसूत्र⟫ [sursa da l’imagines: Wikipedia, domin public] <!-- TODO: Fallback translation -->
 
-**lekt1901:** Badami (ಬದಾಮಿ) [sursa da l’imagina: Sudarshan Bhat Khandige / Wikipedia, domin public]
+**lekt1901:** Badami (ಬದಾಮಿ) [sursa da l’imagina: Sudarshan Bhat Khandige / Wikipedia, domin public] <!-- TODO: Fallback translation -->
 
 **lekt1902:** Goa (⟪गोंय⟫) [fonte da l'imagina: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- consultà il 2008-12-08. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala, nagina modificaziun)]
 

@@ -5,7 +5,7 @@ lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Урок 17
 
@@ -81,7 +81,7 @@ status: stable
 | 3\. sg. теп. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. теп. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. теп. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. теп. Ā | ⟪दुहते⟫ (duh-ate) |
+| 3\. pl. теп. Ā | ⟪दुहते⟫ (duh-ate) | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ⟪हन्⟫ 2 P "бити, вбивати, вбивати"
@@ -149,7 +149,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
+| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 Деякі інші корені другого класу також не мають чергування основи:
@@ -163,7 +163,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
+| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ⟪आस्⟫ 2 Ā "сидіти"
@@ -173,7 +173,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
+| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ⟪वच्⟫ 2 P "казати"
@@ -183,7 +183,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | не зустрічається |
+| 3\. pl. Präs. P | не зустрічається | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ## 17.5. Двоскладні корені на -i/-ī з чергуванням основи
@@ -204,7 +204,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
+| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ⟪ब्रू⟫ 2 U "говорити"
@@ -230,7 +230,7 @@ status: stable
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ## 17.6. Словник
@@ -418,3 +418,4 @@ B) Утворіть у реченнях, сформованих у частин�
 
 **lekt1703:** Бангалор = ಬೆಂಗಳೂರು [Джерело зображення: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без комерційного використання)]
 :::
+ &lt;!-- TODO: Fallback translation --&gt;

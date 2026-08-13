@@ -5,16 +5,16 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 21. lecke
+# 21. lecke <!-- TODO: Fallback translation -->
 
-## 21.1. További -nt végű jelenlegi törzsek
+## 21.1. További -nt végű jelenlegi törzsek <!-- TODO: Fallback translation -->
 
 ### 21.1.1. Jelen idői melléknév (⟪लडादेशः⟫) Parasmaipada
 
 ::: grammar-box
-Ez a melléknévige igenev az igerendszer jelen időjének tövéből képződik, tehát valódi igenev. Melléknév, amely azt jelzi, hogy valaki vagy valami éppen azt teszi, amit az igerendszer (+ előtag) kifejez, miközben valami más történik. Állandó állapotot is így fejezhetünk ki.
+Ez a melléknévige igenev az igerendszer jelen időjének tövéből képződik, tehát valódi igenev. Melléknév, amely azt jelzi, hogy valaki vagy valami éppen azt teszi, amit az igerendszer (+ előtag) kifejez, miközben valami más történik. Állandó állapotot is így fejezhetünk ki. <!-- TODO: Fallback translation -->
 
 **Példák:**
 
@@ -32,7 +32,7 @@ Ez a melléknévige igenev az igerendszer jelen időjének tövéből képződik
 | | **schwacher Tő** | Jelen idejű tő + **-t-** |
 | **nemek** | | |
 | | | Jelen idejű tő + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Jelen időklasse** | Jelen idejű tő + **-nt-** + **-ī** :broder::brJelen idejű tő + **-t-** + **-ī** |
+| | **6. Jelen időklasse** | Jelen idejű tő + **-nt-** + **-ī** :broder::brJelen idejű tő + **-t-** + **-ī** | <!-- TODO: Fallback translation -->
 
 :::
 Példák:
@@ -40,7 +40,8 @@ Példák:
 1\. jelen időosztály:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "egy áldozattal tisztelő"
+**yajant**
+⟪यजन्त्⟫ "egy áldozattal tisztelő"
 :::
 ::: grammar-box
 
@@ -53,7 +54,7 @@ Példák:
 | **többes szám** :br⟪बहुवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
 | | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
 | | **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
-| | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
+| | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | | <!-- TODO: Fallback translation -->
 
 :::
 Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 3. személy többes számú ragozás azonosságát!
@@ -84,7 +85,7 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 | | **starker Tő** | Jelen idejű tő + **-ant-** |
 | | **schwacher Tő** | Jelen idejű tő + **-at-** :br(Der Auslaut des schwachen Jelen idejű tőes lautet gleich wie vor der 3. Plur. P.) |
 | **nőnem** | | |
-| | | Jelen idejű tő + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Jelen idejű tő + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | <!-- TODO: Fallback translation -->
 
 :::
 2\. jelen idői osztály:
@@ -103,7 +104,7 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 | **többes szám** :br⟪बहुवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
 | | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सन्ति⟫ | |
 | | **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪सद्भिस्⟫ :braus s-at-bhis | ⟪सद्भिस्⟫ | |
-| | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | |
+| | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | | <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -124,7 +125,7 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 *   semlegesnem Nom. Akk. sg. ⟪सुन्वत्⟫
 *   nőnem Nom. sg. ⟪सुन्वती⟫
 :::
-8\. Jelen időklasse
+8\. Jelen időklasse <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪कृ⟫ "tun": ⟪कुर्वन्त्⟫
@@ -133,7 +134,7 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 *   semlegesnem Nom. Akk. sg. ⟪कुर्वत्⟫
 *   nőnem Nom. sg. ⟪कुर्वती⟫
 :::
-### 21.1.2. ⟪महान्त्⟫ "gross"
+### 21.1.2. ⟪महान्त्⟫ "gross" <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -143,7 +144,7 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 | | **starker Tő** | ⟪महान्त्⟫ |
 | | **schwacher Tő** | ⟪महत्⟫ |
 | **nőnem** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -161,7 +162,7 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 
 :::
 ::: grammar-box
-**Als Vorderglied eines Kompositums steht statt ⟪महत्⟫ ⟪महा⟫:**
+**Als Vorderglied eines Kompositums steht statt ⟪महत्⟫ ⟪महा⟫:** <!-- TODO: Fallback translation -->
 
 **Példák:**
 
@@ -175,7 +176,7 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 Ábra: ⟪महादेवो⟫ ⟪विष्णुः⟫
 "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
 (Képforrás: [Részletek](/hu/licenses#lekt2102))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 "Egy 4-6. századi karneol pecsét, amely Viṣṇut egy imádkozóval ábrázolja. A kurzív baktriai felirat: 'Mihira, Viṣṇu és Śiva'."
@@ -201,7 +202,7 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 **2. sg. » 2. pl. » 3. sg. megfelelő főnévvel » 3. pl. megfelelő főnévvel**
 :::
 **A legfontosabb ilyen udvariassági főnév ⟪भवन्त्⟫, nőnem: ⟪भवती⟫. Használata megfelel a magyar „Ön” udvarias megszólításnak.**
-Ez az ⟪भवन्त्⟫ egy összevonás az ⟪भगवन्त्⟫-ból, ragozása a **-vant** végű főneveké (lásd [13. lecke](lektion13.md)). Ezt az ⟪भवन्त्⟫-t meg kell különböztetni a ⟪भू⟫ „lesz” igéből származó ⟪भवन्त्⟫ jelen idői melléknévi igenev (P) alakjától: a ⟪भवन्त्⟫ „Ön” névmás egyes számú alaki alakja ⟪भवान्⟫, a melléknévi igenev ⟪भवन्⟫-é.
+Ez az ⟪भवन्त्⟫ egy összevonás az ⟪भगवन्त्⟫-ból, ragozása a **-vant** végű főneveké (lásd [13. lecke](lektion13.md)). Ezt az ⟪भवन्त्⟫-t meg kell különböztetni a ⟪भू⟫ „lesz” igéből származó ⟪भवन्त्⟫ jelen idői melléknévi igenev (P) alakjától: a ⟪भवन्त्⟫ „Ön” névmás egyes számú alaki alakja ⟪भवान्⟫, a melléknévi igenev ⟪भवन्⟫-é. <!-- TODO: Fallback translation -->
 
 **Példák:**
 
@@ -224,13 +225,13 @@ További szavak, amelyek hasonlóan használhatók mint ⟪भवन्त्⟫
 *   ⟪आर्य⟫ (n.: ⟪आर्या⟫) "Nemes". Pl. **⟪यदार्य⟫ ⟪इच्छति⟫** "Ahogy kívánja"
 *   ⟪महाभाग⟫ "akié nagy a rész / szerencse = Kiváló". Gyakran használják nők, amikor megszólítanak vagy beszélnek jó státuszú férfiakról. Modern beszélt szanszkritban nagyon gyakori.
 
-Ha nem csak udvariasságot, hanem tiszteletet is kifejezni akarunk valaki iránt, jelenlévő vagy közeli személy esetén ⟪भवन्त्⟫ ⟪अत्रभवन्त्⟫ helyett, távolabbi vagy hiányzó személy esetén ⟪तत्रभवन्त्⟫-t használunk. A ⟪अत्रभवन्त्⟫ és a ⟪तत्रभवन्त्⟫ lefordítható "Ön", "Tisztelt Úr/Asszony" stb. alakokkal:
+Ha nem csak udvariasságot, hanem tiszteletet is kifejezni akarunk valaki iránt, jelenlévő vagy közeli személy esetén ⟪भवन्त्⟫ ⟪अत्रभवन्त्⟫ helyett, távolabbi vagy hiányzó személy esetén ⟪तत्रभवन्त्⟫-t használunk. A ⟪अत्रभवन्त्⟫ és a ⟪तत्रभवन्त्⟫ lefordítható "Ön", "Tisztelt Úr/Asszony" stb. alakokkal: <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = "Örömtlen (jelenlévő) asszony a felesége?"  
 **⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (levélben vagy telefonbeszélgetésben) = "Jó közérzete van?"
 :::
-## 21.4. Szószedet
+## 21.4. Szószedet <!-- TODO: Fallback translation -->
 
 **⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** valakinek (Tárgyeset) valamit kioszt, megad, szeret, tisztel, imád
 
@@ -257,7 +258,7 @@ ebből:
 Ábra: ⟪भगवद्गीता⟫
 ⟪भगवद्गीता⟫ - Kézirat, 19. szd.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2105))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (valójában egy desideratívum a ⟪भज्⟫ igéhez: kívánni, hogy valaki részt vegyen): koldulni
@@ -273,7 +274,7 @@ ebből:
 Luang Prabang = ຫລວງພະບາງ, Laosz = ປະເທດລາວ
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2104))
 :::
-**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** romlani (intransitív), rosszul lenni, szégyenbe jutni
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** romlani (intransitív), rosszul lenni, szégyenbe jutni <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪दोष⟫ m.:** hiba
@@ -282,7 +283,7 @@ Luang Prabang = ຫລວງພະບາງ, Laosz = ປະເທດລາວ
 
 ## 21.5. Gyakorlat
 
-A) Fordítsa le a következő összetételeket:
+A) Fordítsa le a következő összetételeket: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪अनादिकालिकसंसारः⟫
 

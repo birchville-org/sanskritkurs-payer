@@ -1,8 +1,8 @@
 # Kirjoitusharjoitus 10
 
-### Toinen sääntö konsonanttiligatuurien muodostamiseksi
+### Toinen sääntö konsonanttiligatuurien muodostamiseksi <!-- TODO: Fallback translation -->
 
-\[Ensimmäinen sääntö ks. [Kirjoitusharjoitus 8](schrift08.md)\]
+\[Ensimmäinen sääntö ks. [Kirjoitusharjoitus 8](schrift08.md)\] <!-- TODO: Fallback translation -->
 
 Jos yhdistettävien konsonanttien ensimmäinen ei pääty pystyviivaan, seuraava konsonantti sijoitetaan ensimmäisen konsonantin alle menettämällä sen vaakaviiva.
 
@@ -28,7 +28,7 @@ Esimerkit (poikkeukset alleviivattu):
 
 Kirjoita kaikki yllä mainitut ligatuurit
 
-Luettelo Kielhornin grammatikan kirjoitustyylin yleisimmistä ligatuureista
+Luettelo Kielhornin grammatikan kirjoitustyylin yleisimmistä ligatuureista <!-- TODO: Fallback translation -->
 
 ![](/images/schrift023.jpg)
 

@@ -81,7 +81,7 @@ anena kavinā mantraḥ smaryate.
 
 8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
 
-anayā devyā kṣatriyā rakṣyante.
+anayā devyā kṣatriyā rakṣyante. &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
 
@@ -212,7 +212,7 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 Fig.: ⟪ग्रामः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung011))
 :::
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 ## Ejercicio de lectura
 
@@ -225,7 +225,7 @@ Lea y traduzca, y convierta a pasiva:
 > ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 > ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
 > ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
->
+&gt;
 > ⟪मक्षिकाभिर्व्रण⟫ ⟪इष्यते⟫
 > ⟪धनमिष्यते⟫ ⟪पार्थिवैः⟫ ⟪।⟫
 > ⟪नीचैः⟫ ⟪कलह⟫ ⟪इष्यते⟫
@@ -322,4 +322,4 @@ El cochero guía el carro.
 ![](/images/uebung012.webp)
 Fig.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung012))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

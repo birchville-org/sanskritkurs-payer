@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 13
+# Lectio 13
 
-## 13.1. PPP auf -na-
+## 13.1. PPP auf -na- <!-- TODO: Fallback translation -->
 
 De distributione PPPs in -ta- sive -na- regulae certae constituere non possunt. Sed:
 
@@ -29,24 +29,32 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 ⟪इष्ट⟫ "optatum" (id est non solum in praeterito optatum, sed etiam in praesenti)
 :::
 ::: indent
-    ⟪त्वरित⟫ "festinans, festinus" (PPP ad verbum tvar 1 Ā "festinare"; Dhātupāṭha: ñitvárā)
+::: indent
+⟪त्वरित⟫ "festinans, festinus" (PPP ad verbum tvar 1 Ā "festinare"; Dhātupāṭha: ñitvárā)
+:::
 :::
 
 **2. PPP ut adiectivum attributum adhiberi potest:**
 exempli gratia:
 ::: indent
-    ⟪इष्टं⟫ ⟪फलम्⟫ "fructus desideratus (exempli gratia actionum)"
+::: indent
+⟪इष्टं⟫ ⟪फलम्⟫ "fructus desideratus (exempli gratia actionum)"
+:::
 :::
 
 Si in hoc casu ⟪अपि⟫ post PPP stat, habet ⟪अपि⟫ significationem "etsi":
 exempli gratia:
 ::: indent
-    ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Quamvis fructum cupiat, tamen eum non accipit."
+::: indent
+⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Quamvis fructum cupiat, tamen eum non accipit."
+:::
 :::
 
 ⟪गत⟫ n.: "ambulare, motus"
 ::: indent
-    ⟪नृत्त⟫ n.: "saltare, saltus"
+::: indent
+⟪नृत्त⟫ n.: "saltare, saltus"
+:::
 :::
 
 ## 13.3. Determinationes attributivae nominum (ordo verborum)
@@ -68,7 +76,7 @@ Exemplum:
 
 Mediantibus suffixis taddhita -mant sive -vant adiectiva possessiva ex nominibus formantur. Eorum significatio est: "habens id quod nomine subiecto designatur".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 Exempla:
 
@@ -99,12 +107,12 @@ In nominibus radicalibus, quae gradum radicis ostendunt, inter casus fortes et i
 Cum parte anteriori compositi, nomen cum gradatione radicis in gradu debili (in nominibus tribus radicibus praeditis in dicto medio).
 :::
 
-## 13.6. Zum Wortsandhi
+## 13.6. Zum Wortsandhi <!-- TODO: Fallback translation -->
 
 Ad intellegendum formas singulares declinationis nominum in -mant et -vant sequentes leges sandhi vocis necessariae sunt:
 
 ::: grammar-box
-1. Numerus consonantium finalium in verbo: Si duo pluresve consonantes verbum claudere deberent, tantum prima consonans manet, caeterae cadunt. Connexio -r- + consonans permittitur.
+1. Numerus consonantium finalium in verbo: Si duo pluresve consonantes verbum claudere deberent, tantum prima consonans manet, caeterae cadunt. Connexio -r- + consonans permittitur. <!-- TODO: Fallback translation -->
 
 2. Sine voce articulatio clausa ante articulatio clausam sonantem (non nasalem) per articulatio clausam sonantem sibi correspondentem mutatur:
 :::
@@ -260,7 +268,7 @@ B) Translate et in passiva praeteriti temporis redige:
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
 
-## 13.11. Wiederholungsübung
+## 13.11. Wiederholungsübung <!-- TODO: Fallback translation -->
 
 A) Versio facite sequentes sententias:
 

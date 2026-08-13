@@ -5,9 +5,9 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 50
+# Lectio 50
 
 ## 50.1. Formatio nominalis: gradus regularis
 
@@ -181,7 +181,7 @@ Declinatio ut ⟪यद्⟫ (exceptio: Nom.Akk.sg.Neutrum)
 Fig.: ⟪कल्याणी⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5003))
 :::
-⟪कु⟫- : ut pars prior compositionum: malus
+⟪कु⟫- : ut pars prior compositionum: malus <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5004.webp)

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 20
+# Lectio 20
 
 ## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
 
@@ -116,7 +116,7 @@ Traditionem distinguunt:
 
 ⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "qui / quae / quod, cuius finis hic est" = "ita finiens"
 :::
-::: grammar-box
+::: grammar-box <!-- TODO: Fallback translation -->
 
 **Maximi momenti sunt appositionalia Bahuvrīhi cum finibus ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "primus, initium", rarius ⟪प्रभृति⟫ "initium". Talia composita respondent "et cetera":**
 
@@ -214,7 +214,7 @@ Madhya Pradesh
 *   **-ī-stemmas (f.) debent in fine Bahuvrīhionum suffixum -ka, -kā, -ka (n.) assumere; hoc suffixum etiam multae aliae Bahuvrīhiones possunt vel debent assumere**
 
 :::
-## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
+## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis <!-- TODO: Fallback translation -->
 
 Exempla hic data sunt ad postmodum exercitanda; quibusdam nondum necessaria grammatica et vocabula tractata sunt.
 
@@ -272,7 +272,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Haec pars est Ashram in Rishikesh ubi Bea
 
 ⟪क्रिया⟫ f.: actio, actio sacra, sacrificium, caerimonia (ad ⟪कृ⟫ 8)
 
-⟪अधि⟫ Praeverbium: super, super, ex, cum relatione ad
+⟪अधि⟫ Praeverbium: super, super, ex, cum relatione ad <!-- TODO: Fallback translation -->
 
 ⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : occur, reach, attain
 
@@ -300,7 +300,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Haec pars est Ashram in Rishikesh ubi Bea
 
 ⟪अपवर्ग⟫ m.: finis, liberatio
 
-⟪नि⟫ Praeverbium: deorsum, sursum, introrsum, retrorsum
+⟪नि⟫ Praeverbium: deorsum, sursum, introrsum, retrorsum <!-- TODO: Fallback translation -->
 
 ⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : reverttere, redeas
 
@@ -332,7 +332,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Haec pars est Ashram in Rishikesh ubi Bea
 
 ⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : flectere
 
-⟪उद्⟫ Praeverbium: sursum, deorsum, foras, e, ex-
+⟪उद्⟫ Praeverbium: sursum, deorsum, foras, e, ex- <!-- TODO: Fallback translation -->
 
 ⟪नाभि⟫ f.: umbilicus
 
@@ -470,7 +470,7 @@ B) Versa in Sanscritum per composita:
 
 2\. Kālidāsa et reliqui poetae sunt magistri in Sanscrito.
 
-3\. Kṣatriya vitam suum armis sustentat.
+3\. Kṣatriya vitam suum armis sustentat. <!-- TODO: Fallback translation -->
 
 4\. Etiam mulieres Śūdrae, ut Dharma, habent non-violentiam, veritatem, puritatem, non-murmurationem, non-malitiam et patientiam.
 
@@ -555,7 +555,7 @@ Fig.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt2003))
 :::
-Aliud quoddam ⟪सुभाषितम्⟫ :
+Aliud quoddam ⟪सुभाषितम्⟫ : <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
@@ -571,7 +571,7 @@ Explicatio: ⟪इच्छताम्⟫ = gen. Pl. Part. Praes. P a ⟪इष
 
 **lekt2002:** [Imago fons: Contributiones ad litteraturam scientiamque spiritus Indiae. -- Bonn, 1926]
 
-**lekt2003:** Sanchi = ⟪सांची⟫ [Imago fons Wikipedia, Dominium publicum]
+**lekt2003:** Sanchi = ⟪सांची⟫ [Imago fons Wikipedia, Dominium publicum] <!-- TODO: Fallback translation -->
 
 **lekt2004:** Iodupur = ⟪जोधपुर⟫ [Imago a Iared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Accessus die 2008-12-11. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
 

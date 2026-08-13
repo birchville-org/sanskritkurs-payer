@@ -3,7 +3,7 @@ title: Lektion 18
 lesson_id: 18
 ---
 
-# Lektion 18
+# 第18課
 
 ## 18.1. ⟪सुभाषितम्⟫
 
@@ -111,17 +111,29 @@ Beispiele: <!-- TODO: Fallback translation -->
 Tatpuruṣa mit a- / an- können folgende Bedeutungen haben: <!-- TODO: Fallback translation -->
 
 1.  Ähnlichkeit (⟪तत्सादृश्यम्⟫):   <!-- TODO: Fallback translation -->
-    ⟪अब्राह्मणः⟫ = ein Kṣatriya oder Vaiśya, der die heilige Schnur (⟪यज्ञोपवीत⟫ n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein <!-- TODO: Fallback translation -->
+::: indent
+⟪अब्राह्मणः⟫ = ein Kṣatriya oder Vaiśya, der die heilige Schnur (⟪यज्ञोपवीत⟫ n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein <!-- TODO: Fallback translation -->
+:::
 2.  Fehlen, Nichtvorhandensein (⟪तदभावः⟫):   <!-- TODO: Fallback translation -->
-    ⟪अज्ञानम्⟫ = Unwissenheit (Fehlen von Wissen) <!-- TODO: Fallback translation -->
+::: indent
+⟪अज्ञानम्⟫ = Unwissenheit (Fehlen von Wissen) <!-- TODO: Fallback translation -->
+:::
 3.  Andersheit (⟪तदन्यत्वम्⟫):   <!-- TODO: Fallback translation -->
-    ⟪अपटम्⟫ = etwas, das kein Stoff / Gewand (⟪पट⟫ m: Gewebe, Gewand) ist <!-- TODO: Fallback translation -->
+::: indent
+⟪अपटम्⟫ = etwas, das kein Stoff / Gewand (⟪पट⟫ m: Gewebe, Gewand) ist <!-- TODO: Fallback translation -->
+:::
 4.  Kleinheit (⟪तदल्पता⟫):   <!-- TODO: Fallback translation -->
-    ⟪अनुदरम्⟫ = ein kleiner Bauch (ein Nicht-Bauch) <!-- TODO: Fallback translation -->
+::: indent
+⟪अनुदरम्⟫ = ein kleiner Bauch (ein Nicht-Bauch) <!-- TODO: Fallback translation -->
+:::
 5.  Missbilligung (⟪अप्राशास्त्यम्⟫):   <!-- TODO: Fallback translation -->
-    ⟪अकालः⟫ = Unzeit <!-- TODO: Fallback translation -->
+::: indent
+⟪अकालः⟫ = Unzeit <!-- TODO: Fallback translation -->
+:::
 6.  Feindschaft (⟪निरोधः⟫):   <!-- TODO: Fallback translation -->
-    ⟪असुरः⟫ = Gegengott (nach der falschen Etymologie a-sura) <!-- TODO: Fallback translation -->
+::: indent
+⟪असुरः⟫ = Gegengott (nach der falschen Etymologie a-sura) <!-- TODO: Fallback translation -->
+:::
 
 Folgender Vers fasst diese Bedeutungen zusammen: <!-- TODO: Fallback translation -->
 

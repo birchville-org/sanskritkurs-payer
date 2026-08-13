@@ -32,7 +32,7 @@ last_reconstructed: 2026-05-15
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 (μόλις) ἐκ τῆς ὀροφῆς / τοῦ υφαντικοῦ ἐρχόμενος = νέον ὑφασμένον
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : χορευτής
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : χορευτής <!-- TODO: Fallback translation -->
 
 12\. naraka ⟪नरक⟫ : m. ἄδης
 

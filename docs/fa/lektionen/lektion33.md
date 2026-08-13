@@ -76,7 +76,7 @@ status: stable
 **⟪स्था⟫** ۱ «ایستادن»
 * 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
 :::
-## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.") <!-- TODO: Fallback translation -->
+## ۳۳.۲. کلاس سوم فعل حال (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ و غیره")
 
 ::: grammar-box
 **ساخت:**
@@ -110,14 +110,14 @@ status: stable
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. درباره ابلاوت ā
+## 33.3. درباره ابلاوت ā <!-- TODO: Fallback translation -->
 
 ā kann
 
 * از یک سو، مرحله دراز یکی از سری‌های واژگانی با -a- باشد
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein <!-- TODO: Fallback translation -->
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **الف.**
@@ -145,7 +145,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 * **مرحله بلند: -ā-**
 مثلاً **⟪पा⟫** ۱: مصدر **⟪पातुम्⟫**
 :::
-## 33.4. Wurzeln auf -ā der dritten Präsensklasse <!-- TODO: Fallback translation -->
+## ۳۳.۴. ریشه‌های دارای -ā از کلاس سوم صرف
 
 ::: grammar-box
 **ریشه‌های ختم شده به -ā (به جز ⟪दा⟫ و :sig[⟪धा⟫]) در بن ضعیف معمولاً به -ī- ختم می‌شوند** (برای جزئیات به Thumb-Hauschild جلد ۱، صفحه ۲۷۱ مراجعه کنید. به نظر می‌رسد که سری ابلاغ ذکر شده در بالا به عنوان الگو عمل کرده است، اگرچه این ریشه‌ها معمولاً پس از سری A ابلاغ می‌شوند)، **قبل از پایان‌های واکه‌ای، واکه ریشه کاملاً ناپدید می‌شود (به سری ابلاغ A مراجعه کنید).**
@@ -170,7 +170,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. ریشه‌های **⟪दा⟫** و **:sig[⟪धा⟫]**
+### 33.4.1. ریشه‌های **⟪दा⟫** و **:sig[⟪धा⟫]** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **ریشه‌های ⟪दा⟫ و :sig[⟪धा⟫] با افزودن مصوت -a- دوباره‌سازی می‌شوند و در بن ضعیف، مصوت ریشه را از دست می‌دهند.**

@@ -32,7 +32,7 @@ last_reconstructed: 2026-05-15
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
+⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
 لقد قيل إن الحكماء الفيديين قالوا الحقيقة فقط.
@@ -133,7 +133,7 @@ Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
 
 ب) حوّل جمل تمرين أ) إلى المبني للمجهول
 
-ج) كوّن بناء PPP (Partizip Past Passive) للجمل في تمرين أ)
+ج) كوّن بناء PPP (Partizip Past Passive) للجمل في تمرين أ) <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 Rāma geht auf dem Weg ins Dorf.

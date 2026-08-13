@@ -565,7 +565,7 @@ status: stable
 
 הסבר: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P zu ⟪इष्⟫ : der wünschenden
 :::
-::: deleteme-box
+::: deleteme-box <!-- TODO: Fallback translation -->
 
 **lekt2003:** סנצ'י = ⟪सांची⟫ [מקור התמונה ויקיפדיה, רשות ציבורית]
 

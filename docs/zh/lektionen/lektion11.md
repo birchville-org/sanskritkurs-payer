@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 11
+# 第11課
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 48
+# Lekcija 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 

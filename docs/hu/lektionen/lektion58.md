@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# 58. lecke
+# 58. lecke <!-- TODO: Fallback translation -->
 
-## 58.1. A duális elsődges végződések (⟪द्विवचनम्⟫)
+## 58.1. A duális elsődges végződések (⟪द्विवचनम्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
@@ -23,7 +23,7 @@ status: stable
 
 A -vas és -vahe végződés előtt a téma magánhangzót -a- helyett -ā- írjuk.
 
-### 58.2.1. Első jelen idő osztály (⟪भ्वादिगणः⟫)
+### 58.2.1. Első jelen idő osztály (⟪भ्वादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟩ 1. személy "lesz, van"
 
@@ -31,9 +31,9 @@ A -vas és -vahe végződés előtt a téma magánhangzót -a- helyett -ā- írj
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
 
-### 58.2.2. Negyedik jelen időosztály (⟪दिवादिगणः⟫)
+### 58.2.2. Negyedik jelen időosztály (⟪दिवादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪नृत्⟫ 4P "táncolni"
 
@@ -49,7 +49,7 @@ A -vas és -vahe végződés előtt a téma magánhangzót -a- helyett -ā- írj
 ⟪ओडिसी⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5802))
 :::
-### 58.2.3. Hatodik jelen időosztály (⟪तुदादिगणः⟫)
+### 58.2.3. Hatodik jelen időosztály (⟪तुदादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪तुद्⟫ 6U „tolni, verni“
 
@@ -111,7 +111,7 @@ Bandipur Nemzeti Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. A kettős athémata jelen osztályok: Jelentő mód, jelen idő (⟪लट्⟫)
+## 58.5. A kettős athémata jelen osztályok: Jelentő mód, jelen idő (⟪लट्⟫) <!-- TODO: Fallback translation -->
 
 ### 58.5.1. Második jelen osztály (⟪अदादिगणः⟫)
 
@@ -184,7 +184,7 @@ Bandipur Nemzeti Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 Ábra: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5805))
 :::
-### 58.5.2. Harmadik jelen időosztály (⟪जुहोत्यादिगणः⟫)
+### 58.5.2. Harmadik jelen időosztály (⟪जुहोत्यादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪हु⟫ 3P "áldozati tűzbe önt"
 
@@ -220,7 +220,7 @@ Bandipur Nemzeti Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 ⟪पुणेनगरे⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5807))
 :::
-### 58.5.4. Nyolcadik jelen időosztály (⟪तनादिगणः⟫)
+### 58.5.4. Nyolcadik jelen időosztály (⟪तनादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪तन्⟫ 8U "megfeszít"
 
@@ -275,18 +275,18 @@ Bandipur Nemzeti Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 Ábra: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-aorist
+## 58.6. Aorist 5: iṣ-aorist <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**Az iṣ-aoristot minden seṭ gyökér képezi, amelyre kifejezetten kizárólag más aoristforma van tanítva.**
+**Az iṣ-aoristot minden seṭ gyökér képezi, amelyre kifejezetten kizárólag más aoristforma van tanítva.** <!-- TODO: Fallback translation -->
 
 **Képzés:**
 
-**Augment + Tő + i + s + athematische Sekundärendung**
+**Augment + Tő + i + s + athematische Sekundärendung** <!-- TODO: Fallback translation -->
 
 **!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Múlt idő (imperfektum)s von Tőn des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Tőaorist-Formen).
 :::
-Tőbildungssuffix + Végződésen des iṣ-Aorist lauten also:
+Tőbildungssuffix + Végződésen des iṣ-Aorist lauten also: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -295,7 +295,7 @@ Tőbildungssuffix + Végződésen des iṣ-Aorist lauten also:
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
 | **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h vagy fényhangzó) |
-| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
+| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -304,7 +304,7 @@ Tőbildungssuffix + Végződésen des iṣ-Aorist lauten also:
 *   **Rövid magánhangzós gyök egyszerű mássalhangzó előtt: emelt fok P-ben és Ā-ban**
 Példák:  
 ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫  
-⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫ <!-- TODO: Fallback translation -->
 
 *   **Kiejtésben végződő magánhangzós gyök:**
     *   **P: Hosszúsított fok**
@@ -324,7 +324,7 @@ Példa:
 de:  
 ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
 :::
-Paradigmák:
+Paradigmák: <!-- TODO: Fallback translation -->
 
 ⟪पू⟫ 9U "tisztít"
 
@@ -360,25 +360,29 @@ Paradigmák:
 **Különleges esetek:**
 
 1.  Néhány tőnél a kapcsolómagánhangzó -i- helyett ⟪आत्मनेपद⟫ esetén előfordulhat -ī- is. A ⟪ग्रह्⟫ 9U "megragadni" esetén ezt a helyettesítést az P és Ā alakokban el kell végezni:
-⟪अग्र⟫:sig[⟪ही⟫]⟪षम्⟫ , ⟪अग्र⟫:sig[⟪ही⟫]⟪षि⟫
+⟪अग्र⟫:sig[⟪ही⟫]⟪षम्⟫ , ⟪अग्र⟫:sig[⟪ही⟫]⟪षि⟫ <!-- TODO: Fallback translation -->
 
 2.  A 8. osztályú igék jelen idejű -n (vagy -ṇ) végződésű alakjai a 2.3.sg.Ā-ban mély fokúak lehetnek:
 ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (gyökaorista) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
 3.  A ⟪दीप्⟫ 4Ā, a ⟪जन्⟫ 4ġ és mások az 3.sg. Ā helyett felvehetik a passzív aorista alakját:
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
 4.  A ⟪विज्⟫ 7P nem mutat ablautot:
-    ⟪अविजीत्⟫
+::: indent
+⟪अविजीत्⟫
+:::
 :::
 ::: media
 ![](/images/lekt5808.webp)
 Ábr.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5808))
 :::
-## 58.7. Gyakorlat
+## 58.7. Gyakorlat <!-- TODO: Fallback translation -->
 
-A) Határozza meg és fordítsa le segédeszközök nélkül a következő alakokat, valamint alkossa meg az i-aorista megfelelő alakjait:
+A) Határozza meg és fordítsa le segédeszközök nélkül a következő alakokat, valamint alkossa meg az i-aorista megfelelő alakjait: <!-- TODO: Fallback translation -->
 
 1.  ⟪औहे⟫
 2.  ⟪जाग्रति⟫
@@ -400,7 +404,7 @@ A) Határozza meg és fordítsa le segédeszközök nélkül a következő alako
 18.  ⟪ऐक्षध्वम्⟫
 19.  ⟪अचेतः⟫
 
-B) Fordítsa le és határozza meg a következő alakokat:
+B) Fordítsa le és határozza meg a következő alakokat: <!-- TODO: Fallback translation -->
 
 1.  ⟪अनेढ्वम्⟫
 2.  ⟪एनयोः⟫

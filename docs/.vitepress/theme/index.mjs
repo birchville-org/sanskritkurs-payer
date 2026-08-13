@@ -13,6 +13,7 @@ import PayerWideToggle from './components/PayerWideToggle.vue'
 import PayerLanguageSettings from './components/PayerLanguageSettings.vue'
 import PayerOfflineIndicator from './components/PayerOfflineIndicator.vue'
 import PayerNotFound from './components/PayerNotFound.vue'
+import PayerSemanticSearch from './components/PayerSemanticSearch.vue'
 import 'markdown-it-extensible/css'
 import './custom.css'
 
@@ -155,7 +156,8 @@ export default {
   Layout: () => h(DefaultTheme.Layout, null, {
     'doc-before': () => h(PayerOfflineIndicator),
     'doc-footer-before': () => h(PayerDocFooter),
-    'nav-bar-content-after': () => h(PayerWideToggle)
+    'nav-bar-content-after': () => h(PayerWideToggle),
+    'nav-bar-search-before': () => h(PayerSemanticSearch)
   }),
   NotFound: PayerNotFound,
   setup() {
@@ -218,6 +220,7 @@ export default {
       app.component('PayerRelatedLessons', PayerRelatedLessons)
       app.component('PayerLanguageSettings', PayerLanguageSettings)
       app.component('PayerOfflineIndicator', PayerOfflineIndicator)
+      app.component('PayerSemanticSearch', PayerSemanticSearch)
       
       if (typeof window !== 'undefined') {
           // Suche: Detailansicht immer einschalten

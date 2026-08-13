@@ -5,13 +5,13 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 49
+# Oppitunti 49 <!-- TODO: Fallback translation -->
 
-## 49.1. Imperatiivin muodostus (⟪लोट्⟫) atemaattisten preesanssivarten jatkumo
+## 49.1. Imperatiivin muodostus (⟪लोट्⟫) atemaattisten preesanssivarten jatkumo <!-- TODO: Fallback translation -->
 
-### 49.1.1. Seitäs preesanssiluokka (⟪रुधादि⟫)
+### 49.1.1. Seitäs preesanssiluokka (⟪रुधादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪युज्⟫ 7U
 
@@ -153,9 +153,9 @@ Muut monikon taivutusmuodot kuten neutraali
 :::
 ## 49.3. Nominaalijohdokset: ⟪कृत्⟩-liite -as neutraali
 
-Neutrin substantiivit muodostetaan ⟪कृत्⟫-liitteellä -as. Useimmiten ne ovat abstrakteja tai toimintanimiä (sanat, jotka kuvaavat toimintaa).
+Neutrin substantiivit muodostetaan ⟪कृत्⟫-liitteellä -as. Useimmiten ne ovat abstrakteja tai toimintanimiä (sanat, jotka kuvaavat toimintaa). <!-- TODO: Fallback translation -->
 
-Vartalon lyhyt vokaali yksinkertaisen konsonantin edellä sekä vartalon loppuvokaali esiintyvät korkeassa asteessa.
+Vartalon lyhyt vokaali yksinkertaisen konsonantin edellä sekä vartalon loppuvokaali esiintyvät korkeassa asteessa. <!-- TODO: Fallback translation -->
 
 Esimerkkejä:
 
@@ -173,18 +173,18 @@ Esimerkkejä:
 Kuva: ⟪नमस्ते⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4907))
 :::
-## 49.4. Sanalista
+## 49.4. Sanalista <!-- TODO: Fallback translation -->
 
 ⟪दीर्घ⟫ 3: pitkä
 
 ⟪ह्रस्व⟫ 3: lyhyt
 
-⟪आयुस्⟫ n.: elinikä (täysi elinikä, jonka voi elää ilman keskeytyksiä) ;
+⟪आयुस्⟫ n.: elinikä (täysi elinikä, jonka voi elää ilman keskeytyksiä) ; <!-- TODO: Fallback translation -->
 
 ::: indent
 siitä:
 
-⟪आयुर्वेद⟫ m.: Intian perinteinen lääketieteellinen järjestelmä
+⟪आयुर्वेद⟫ m.: Intian perinteinen lääketieteellinen järjestelmä <!-- TODO: Fallback translation -->
 
 katso:
 
@@ -192,7 +192,7 @@ katso:
 ::: indent
 **Carakasaṃhitā:** Valittuja tekstejä Carakasaṃhitāsta / kääntänyt ja kommentoinut Alois Payer (1944–). -- 0. Johdanto. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : heittää, viskata
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : heittää, viskata <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -231,7 +231,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Kuva: ⟪कुलूहलम्⟫
 (Kuvalähde: [Tiedot](/fi/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: ganz, vollständig
+⟪कृत्स्न⟫ 3: ganz, vollständig <!-- TODO: Fallback translation -->
 
 ⟪परिचय⟫ m.: tuttavuus
 
@@ -243,9 +243,9 @@ Kuva: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, 1100-luku
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: toive
+⟪वर⟫ m.n.: toive <!-- TODO: Fallback translation -->
 
-⟪उत⟫ Indekl.: ja, myös, tai
+⟪उत⟫ Indekl.: ja, myös, tai <!-- TODO: Fallback translation -->
 
 ⟪विहंग⟫ m.: lintu ("luf⟪स्⟫unessa - ⟪विह⟫ - menevä")
 
@@ -254,7 +254,7 @@ Kuva: ⟪उत्तमा⟫ ⟪काला⟫
 Kuv.: ⟪विहंगः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: vaate, ulkonäkö, ulkoasu
+⟪वेष⟫ m.: vaate, ulkonäkö, ulkoasu <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4904.webp)
@@ -262,7 +262,7 @@ Kuv.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: peitto, piilopaikka
+⟪छन्न⟫ n.: peitto, piilopaikka <!-- TODO: Fallback translation -->
 
 ⟪पञ्जर⟫ n.: häkki
 
@@ -272,7 +272,7 @@ Kuvaus.: ⟪पञ्जरम्⟫
 Ennustaja papukaijan kanssa häkissä: papukaija vetää lappuja, joilla on kohtalo kirjoitettuna Mysore
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: alin taso [Dalit](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: alin taso [Dalit](http://de.wikipedia.org/wiki/Dalit) <!-- TODO: Fallback translation -->
 
 ⟪स्वयम्⟫ Indekl.: itse, itsestään
 
@@ -299,9 +299,9 @@ Kuv.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Kuvälähde: [Tiedot](/fi/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
 
-⟪परम⟫ 3: kaukaisin, korkein ; ⟪पञ्चम्या⟫ : parempi kuin, korkeampi kuin
+⟪परम⟫ 3: kaukaisin, korkein ; ⟪पञ्चम्या⟫ : parempi kuin, korkeampi kuin <!-- TODO: Fallback translation -->
 
 ⟪शिशु⟫ m.: lapsi, pentu
 
@@ -311,7 +311,7 @@ Kuv.: ⟪गजशिशुः⟫
 Sri Lanka
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4906))
 :::
-## 49.5. Muoto-opin toistoharjoitus
+## 49.5. Muoto-opin toistoharjoitus <!-- TODO: Fallback translation -->
 
 Määritä seuraavat muodot:
 
@@ -355,7 +355,7 @@ Määritä seuraavat muodot:
 38.  ⟪गायी⟫
 39.  ⟪मय्हम्⟫
 
-## 49.6. Käännösharjoitus
+## 49.6. Käännösharjoitus <!-- TODO: Fallback translation -->
 
 ⟪बान⟫ (7. vuosisata jaa.): ⟪कादम्बरी⟫, toim. M. R. Kale, 1968, s. 35f.
 
@@ -374,23 +374,23 @@ Lokkipapukaija = Psittacula cyanocephala
 
 ::: deleteme-box
 
-**lekt4907:** [Kuv lähde: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Haettu 10.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimike, ei kaupallista käyttöä, sama lisensointi)]
+**lekt4907:** [Kuv lähde: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Haettu 10.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimike, ei kaupallista käyttöä, sama lisensointi)] <!-- TODO: Fallback translation -->
 
-**lekt4901:** [Kuv lähde: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Haettu 11.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Nimike, ei muokkauksia)]
+**lekt4901:** [Kuv lähde: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Haettu 11.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Nimike, ei muokkauksia)] <!-- TODO: Fallback translation -->
 
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, 11. vuosisata [Kuv lähde: Vassil / Wikipedia. Julkinen omaisuus]
+**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, 11. vuosisata [Kuv lähde: Vassil / Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
 
-**lekt4903:** [Kuv lähde: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Haettu 11.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimike, ei kaupallista käyttöä, ei muokkauksia)]
+**lekt4903:** [Kuv lähde: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Haettu 11.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimike, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
 
-**lekt4904:** ⟪वाराणस्याम्⟫ [Kuv lähde: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Haettu 2009-01-11. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimike, ei kaupallista käyttöä, sama lisensointi)]
+**lekt4904:** ⟪वाराणस्याम्⟫ [Kuv lähde: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Haettu 2009-01-11. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimike, ei kaupallista käyttöä, sama lisensointi)] <!-- TODO: Fallback translation -->
 
-**lekt4909:** Ennustaja papukaijan kanssa häkissä: papukaija vetää lippuja, joissa on kohtalo Mysore [Kuv lähde: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Haettu 2009-01-12. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimike)]
+**lekt4909:** Ennustaja papukaijan kanssa häkissä: papukaija vetää lippuja, joissa on kohtalo Mysore [Kuv lähde: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Haettu 2009-01-12. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimike)] <!-- TODO: Fallback translation -->
 
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Kuv lähde: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Haettu 2009-01-11. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimike)]
+**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Kuv lähde: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Haettu 2009-01-11. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimike)] <!-- TODO: Fallback translation -->
 
-**lekt4906:** Sri Lanka [Kuv lähde: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Haettu 2009-01-11. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimike, ei kaupallista käyttöä, ei muokkauksia)]
+**lekt4906:** Sri Lanka [Kuv lähde: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Haettu 2009-01-11. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimike, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
 
-**lekt4908:** Lokakuusarasti _= Psittacula cyanocephala_[Kuvälähde: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Haettu 2009-01-12. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallinen käyttö, sama lisensointi)]
+**lekt4908:** Lokakuusarasti _= Psittacula cyanocephala_[Kuvälähde: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Haettu 2009-01-12. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallinen käyttö, sama lisensointi)] <!-- TODO: Fallback translation -->
 
 :::
 

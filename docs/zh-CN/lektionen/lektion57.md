@@ -93,7 +93,7 @@ status: stable
 ::: indent
 ⟪दृश्⟫ 第三人称单数 ⟨⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪कृष्⟫ 第一人称/第六类 第三人称单数现在时 ⟨�अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -141,10 +141,14 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 **⟪अगसि⟩（“\*a-gm-si”）⟪।⟩ ⟪अगथास्⟩ ⟪।⟩ ⟪अगत⟩（在第三人称单数中，⟪गम्⟩ 具有主题元音不定过去时）**
 
 2.  ⟪⟪पद्⟫⟫ 4Ā 是常规的（例如 ⟪⟪अपत्सि⟫⟫），但在第三人称单数Ā中，它却具有被动词干不定过去式的形式：
-    ⟪⟪अपादि⟫⟫ “他走了”
+::: indent
+⟪⟪अपादि⟫⟫ “他走了”
+:::
 
 3.  ⟪बुध्⟩ Ā 可以在第三人称单数中可选地采用被动词干不定过去式的形式：
-    ⟪अबोधि⟩ / ⟪अबुद्ध⟩ “他认识”
+::: indent
+⟪अबोधि⟩ / ⟪अबुद्ध⟩ “他认识”
+:::
 :::
 ## 57.2. 练习
 

@@ -60,12 +60,12 @@ status: stable
 ⟪ज्ञा⟫ 9U: Kaus. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫
 
 *   **-ā (למען -e) בסוף המילה נופל.**
-⟪चित्⟫ 1P: Kaus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫
+⟪चित्⟫ 1P: Kaus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫ <!-- TODO: Fallback translation -->
 
 *   ⟪श्रि⟫ 1U "ללכת אל, להישען"
 ⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
 
-**Bei einigen Wurzeln sind die bisher genannten Veränderungen wahlweise bzw. müssen unterbleiben:**
+**Bei einigen Wurzeln sind die bisher genannten Veränderungen wahlweise bzw. müssen unterbleiben:** <!-- TODO: Fallback translation -->
 
 *   |   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 ⟪कॢप्⟫ 1א: קוסי. **:sig[⟪कल्प⟫]**⟪यति⟫, אור. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫  

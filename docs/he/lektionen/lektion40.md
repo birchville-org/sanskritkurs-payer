@@ -606,7 +606,7 @@ B) המירו את צורות הפועל הבאות לצורות Perfect המת�
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. תרגיל חזרה zur Formenlehre
+## 40.8. תרגיל חזרה zur Formenlehre <!-- TODO: Fallback translation -->
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫

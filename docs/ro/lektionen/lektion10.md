@@ -120,7 +120,9 @@ Construcțiile pasive sanscrite sunt extrem de frecvente: pasivul este, de aseme
 2. **pentru a indica mijlocul sau instrumentul cu care se realizează ceva**
 3. **pentru a indica calea pe care cineva ajunge undeva**
 4. **pentru a exprima conexiunea, unirea, însoțirea de**
-5. **înaintea postpozițiilor cu sensul "împreună cu, cu"; de ex. saha = ⟪सह⟫ = "cu"**:brde ex.:br**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "împreună cu brahmanul"
+5. **înaintea postpozițiilor cu sensul "împreună cu, cu"; de ex. saha = ⟪सह⟫ = "cu"**
+de ex.
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "împreună cu brahmanul"
 :::
 Alte utilizări ale instrumentalului (tṛtīyā) vor urma mai târziu.
 
@@ -171,19 +173,26 @@ de ex.
 ### 10.4.1. Reguli speciale pentru formarea pasivului
 
 1. **Rădăcinile cu terminația -i sau -u** își prelungesc vocala înainte de sufixul pasiv **-ya-**:
-   * **ji** 1 P: **jīyate**, **jīyante**:br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P: **śrūyate**, **śrūyante**:br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U: **sūyate**, **sūyante**:br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 1 P: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Rădăcinile cu -a- între consoane** (în afară de nazale, y, r, v) rămân în gradul plin:
-   * **labh** 1 Ā: **labhyate**, **labhyante**:br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Unele rădăcini își formează pasivul în gradul plin** (sau în gradul de apofonie al temei prezente):
-   * **āp** 5 P: **āpyate**, **āpyante**:br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante**:br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante**:br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-4. **Gradul redus al verbelor care încep cu ya, va, ra, sau în care aceste sunete se află după o altă consoană (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
+4. **Gradul redus al verbelor care încep cu ya, va, ra, sau în care aceste sunete se află după o altă consoană (Samprasāraṇa = ⟪सम्प्रसारण⟫):** <!-- TODO: Fallback translation -->
 
    | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
    | :--- | :--- | :--- |
@@ -191,19 +200,23 @@ de ex.
    | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
    | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-   Denumirea tradițională autohtonă pentru această formare a gradului redus la verbele cu **ya** sau **va** este **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
+   Denumirea tradițională autohtonă pentru această formare a gradului redus la verbele cu **ya** sau **va** este **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫). <!-- TODO: Fallback translation -->
 
 5. **-ṛ** final, după o singură consoană, este înlocuit cu **-ri-** înainte de sufixul pasiv **-ya-**:
-   * **kṛ** 8 U: **kriyate**, **kriyante**:br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Dar: **smṛ** 1 P: **smaryate**:br⟪स्मर्यते⟫
+* **kṛ** 8 U: **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Dar: **smṛ** 1 P: **smaryate**
+⟪स्मर्यते⟫
 
 6. **Unele rădăcini cu terminația -an au alternativ două forme de formare a temei pasive:**
    * una **-an-ya**
    * una **-ā-ya-** (lungul **ā** este un reprezentant al unui nasal ipotetic lung)
 
    ex. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte**:br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte**:br⟪तायते⟫, ⟪तायन्ते⟫ (din \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (din \*tn-ya-nte)
 
 ## 10.5. Listă de cuvinte
 
@@ -225,10 +238,10 @@ de ex.
   Derivare: **yaj** 1 U + sufixul kṛt **-na-**.
   :::
 
-- **puṇya** n. ⟪पुण्य⟫ : faptă bună, merit
+- **puṇya** n. ⟪पुण्य⟫ : faptă bună, merit <!-- TODO: Fallback translation -->
 
   ::: note-box
-Ceea ce câștigă bunăstare și nașteri bune în reîncarnări.
+  Ceea ce câștigă bunăstare și nașteri bune în reîncarnări.
   :::
 
 - Prin care câștigi bunăstare și nașteri bune ulterioare.
@@ -266,7 +279,7 @@ Fig.: ⟪विश्वामित्रः⟫
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : a spune, a vorbi
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : a întreba (pe cineva: Acuzativ; despre ceva: Acuzativ)
-- **saha** ⟪सह⟫ : împreună cu, alături de (și în contextul „a lupta cu” etc.) (Postpoziție cu Instrumental)
+- **saha** ⟪सह⟫ : împreună cu, alături de (și în contextul „a lupta cu” etc.) (Postpoziție cu Instrumental) <!-- TODO: Fallback translation -->
 
 ## 10.6. Exercitare
 
@@ -331,7 +344,7 @@ Fig.: ⟪तन्तुवायः⟫
 7. Poetul vede o zeitate. (Construcție pasivă)
 8. Cine (fem.) păzește fata? (Construcție pasivă)
 9. Kṣatriya-l îl onorează pe DOMNUL cu un sacrificiu. (Construcție pasivă, fără a folosi cuvântul **yajña**)
-10. Prin generozitate, un adep al lui Buddha ajunge la cer.
+10. Prin generozitate, un adep al lui Buddha ajunge la cer. <!-- TODO: Fallback translation -->
 
 ## 10.7. Listă de cuvinte 2
 
@@ -358,7 +371,7 @@ Fig.: ⟪तन्तुवायः⟫
 - **mārga** m. ⟪मार्ग⟫ : cale
 - **evam** ⟪एवम्⟫ : așa
 - **iha** ⟪इह⟫ : aici
-- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : a fi frumos, a străluci
+- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : a fi frumos, a străluci <!-- TODO: Fallback translation -->
 
 ## 10.8. Exercițiu de citire și traducere
 

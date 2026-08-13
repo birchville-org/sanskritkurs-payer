@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 58
+# Lectio 58
 
 ## 58.1. Des Dualis primae terminationes (⟪द्विवचनम्⟫)
 
@@ -31,7 +31,7 @@ Ante -vas et -vahe, tema vocalis -a- per -ā- substituitur.
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
 
 ### 58.2.2. Classis praesentis quarta (⟪दिवादिगणः⟫)
 
@@ -49,7 +49,7 @@ Fig.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
 (Fons imaginis: [Details](/la/licenses#lekt5802))
 :::
-### 58.2.3. Sexta classis praesentis (⟪तुदादिगणः⟫)
+### 58.2.3. Sexta classis praesentis (⟪तुदादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪तुद्⟫ 6U "pulsare, percutere"
 
@@ -220,7 +220,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5807))
 :::
-### 58.5.4. Octava classis praesentium (⟪तनादिगणः⟫)
+### 58.5.4. Octava classis praesentium (⟪तनादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪तन्⟫ 8U "tendere"
 
@@ -275,7 +275,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5801))
 :::
-## 58.6. Aoristus: iṣ-Aoristus
+## 58.6. Aoristus: iṣ-Aoristus <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Aoristus iṣ a radicibus seṭ omnibus formatur, pro quibus non expresse alia forma aoristi sola docetur.**
@@ -295,7 +295,7 @@ La formation du thème + les terminaisons de l'aoriste iṣ sont donc :
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
 | **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h oder Halbvokal) |
-| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
+| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -303,26 +303,34 @@ La formation du thème + les terminaisons de l'aoriste iṣ sont donc :
 
 *   **Radices cum vocali brevi ante consonantem simplicem: Gradus optimus in P et Ā**
     Exemplaria:  
-    ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫  
-    ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+::: indent
+⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
+⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+:::
 
 *   **Radices cum vocali finali:**
     *   **P: Gradus augmentatus**
     *   **Ā: Gradus optimus**
 
 Exemplaria:  
-    ⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+::: indent
+⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+:::
 
 *   **Radices in -ar., -al atque ⟪वद्⟫ 1P "dicere", ⟪व्रज्⟫ 1P "abire": P: Gradus dilatus**
     Exemplis:  
-    ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫  
-    ⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+::: indent
+⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫
+⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+:::
 
 *   **Aliae radices formae (Cons.-)Cons.-a-Cons.: in P gradu dilato electivo (non valet pro radicibus in -h, -m, -y atque aliis nonnullis)**
     Exemplum:  
-    ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
-    sed:  
-    ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+::: indent
+⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
+sed:
+⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+:::
 :::
 Paradigmata:
 
@@ -360,16 +368,24 @@ Paradigmata:
 **Particularia:**
 
 1.  Apud aliquas radices, vocalis iunctiva -i- in ⟪आत्मनेपद⟫ per -ī- substitui potest. Post ⟪ग्रह्⟫ 9U "prehenedere" haec substitutio in P et Ā fieri debet:
-    ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+::: indent
+⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+:::
 
 2.  Radices octavae classis praesentis in -n (aut -ṇ) in 2.3.sg.Ā gradum profundum esse possunt:
-    ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (radix aoristi) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+::: indent
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (radix aoristi) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+:::
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā et c. formam passivi aoristi pro forma 3.sg. Ā assumere possunt:
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
 4.  ⟪विज्⟫ 7P nullum ablautum habet:
-    ⟪अविजीत्⟫
+::: indent
+⟪अविजीत्⟫
+:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

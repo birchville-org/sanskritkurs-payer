@@ -5,7 +5,7 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 8
 
@@ -53,7 +53,7 @@ Nella grammatica indiana tradizionale si distinguono, tra i suffissi con cui si 
 
 ## 8.3. Alcuni suffissi nominali importanti
 
-### 8.3.1. -a m. (kṛt)
+### 8.3.1. -a m. (kṛt) &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **Il suffisso kṛt -a forma sostantivi maschili (raramente neutri) che indicano un'azione o uno stato designato dalla radice; talvolta anche aggettivi o sostantivi che esprimono l'agente (kartṛ) dell'azione designata dalla radice verbale. Per penultima breve (= vocale prima di consonante, su cui termina la radice) o vocale radicalesca finale, di solito viene sostituita la forma forte (guṇa) o la forma allungata (vṛddhi).**
@@ -73,7 +73,7 @@ Nella grammatica indiana tradizionale si distinguono, tra i suffissi con cui si 
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "il diventare, l'(essere) qualcosa, natura, carattere" |
 | **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "combattente, guerriero, soldato" |
 
-### 8.3.2. -ana n. (kṛt)
+### 8.3.2. -ana n. (kṛt) &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **Il suffisso kṛt -ana forma di solito sostantivi neutri che indicano un'azione, uno stato o il mezzo/strumento attraverso il quale l'azione designata dalla radice o da un tema verbale viene realizzata. Per una penultima breve o una vocale finale della radice, di solito viene sostituita la forma rafforzata (guṇa).**
@@ -102,7 +102,7 @@ I devoti induisti vanno al tempio per ottenere la visione di Dio attraverso un s
 (Fonte: Wikipedia)
 :::
 
-### 8.3.3. -tra n. (kṛt)
+### 8.3.3. -tra n. (kṛt) &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **Il suffisso kṛt -tra forma (di solito) sostantivi neutri, che indicano il mezzo o lo strumento, attraverso il quale l'azione designata dalla radice si realizza. La penultima breve e la vocale finale della radice vengono sostituite dal grado rafforzato (guṇa).**
@@ -130,7 +130,7 @@ I devoti induisti vanno al tempio per ottenere la visione di Dio attraverso un s
 (Fonti delle immagini: [Dettagli](/it/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti f. (kṛt)
+### 8.3.4. -ti f. (kṛt) &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **Il suffisso kṛt -ti forma sostantivi femminili che, in generale, esprimono l'azione indicata dalla radice o lo stato da essa designato. La forma della radice è al grado ridotto.**
@@ -172,10 +172,14 @@ Queste formazioni possono essere create praticamente con ogni nome e sono molto 
 - **Tema debole: Radice + -u- (davanti a vocale: -v-)**
 
 Esempio **tan** 8 U (⟪तन्⟫) "stendere":
-- 3\. sg. P. **tanoti**:br⟪तनोति⟫
-- 3\. pl. P. **tanvanti**:br⟪तन्वन्ति⟫
-- 3\. sg. Ā. **tanute**:br⟪तनुते⟫
-- 3\. pl. Ā. **tanvate**:br⟪तन्वते⟫
+- 3\. sg. P. **tanoti**
+⟪तनोति⟫
+- 3\. pl. P. **tanvanti**
+⟪तन्वन्ति⟫
+- 3\. sg. Ā. **tanute**
+⟪तनुते⟫
+- 3\. pl. Ā. **tanvate**
+⟪तन्वते⟫
 :::
 Nota: Per la controversia se **tan** sia in realtà una radice della 5ª classe (*tn » ta + no-), cfr. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
@@ -183,10 +187,14 @@ La radice più importante della 8ª classe è **kṛ** 8 U (⟪कृ⟫) "fare,
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "fare, fare"**
-- 3\. sg. P. **karoti**:br⟪करोति⟫
-- 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
+- 3\. sg. P. **karoti**
+⟪करोति⟫
+- 3\. pl. P. **kurvanti**
+⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute**
+⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate**
+⟪कुर्वते⟫
 :::
 
 ## 8.5. Elenco di parole

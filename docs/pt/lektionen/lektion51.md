@@ -253,7 +253,7 @@ Fig.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5104))
 :::
-### 51.2.3. Temas em -h
+### 51.2.3. Temas em -h <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Antes de uma terminação que começa com vogal, o -h permanece inalterado.**
@@ -466,7 +466,7 @@ Fig.: ⟪कौशिकः⟫
 Mocho-brahmany (_Athene brama_), Mahesana = મહેસાણા
 (Fonte da imagem: [Detalhes](/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: pássaro
+⟪शकुनि⟫ m.: pássaro <!-- TODO: Fallback translation -->
 
 ⟪श्वन्⟫ m.: cão
 
@@ -495,7 +495,7 @@ Fig.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: rude, cruel
+⟪क्रूर⟫ 3: rude, cruel <!-- TODO: Fallback translation -->
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : untar, besuntar
 
@@ -514,7 +514,7 @@ Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte da imagem: [Detalhes](/licenses#lekt5115))
 :::
-⟪भुजंग⟫ m.: serpente
+⟪भुजंग⟫ m.: serpente <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5116.webp)
@@ -550,14 +550,14 @@ Diamante Hope de Guntur = గుంటూరు, hoje no Smithsonian Museum of N
 :::
 ⟪वन⟫ n.: floresta
 
-⟪मद⟫ m.: também "secreção de cio" de um elefante (em [muste](http://en.wikipedia.org/wiki/Musth))
+⟪मद⟫ m.: também "secreção de cio" de um elefante (em [muste](http://en.wikipedia.org/wiki/Musth)) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5117.webp)
 Fig.: ⟪मदः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5117))
 :::
-⟪राग⟫ m.: também: cor, cor vermelha
+⟪राग⟫ m.: também: cor, cor vermelha <!-- TODO: Fallback translation -->
 
 ⟪कालन⟫ n.: floresta
 

@@ -466,7 +466,7 @@ _Canis aureus_, Kalatop Khajjiar Sanctuary
 Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
 (แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt5112))
 :::
-⟪शकुनि⟫ ค.: นก
+⟪शकुनि⟫ ค.: นก <!-- TODO: Fallback translation -->
 
 ⟪श्वन्⟫ ค.: สุนัข
 

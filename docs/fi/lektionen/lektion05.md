@@ -5,9 +5,9 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 5
+# Oppitunti 5 <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 **Tällä tunnilla opit:**
@@ -25,40 +25,40 @@ Tärkeimmät yhdyssanatyypit ovat:
 - **määräiset yhdyssanat** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
 - **omistusyhdyssanat** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
 
-(Katso jälkimmäiset kaksi myöhemmin!)
+(Katso jälkimmäiset kaksi myöhemmin!) <!-- TODO: Fallback translation -->
 
-## 5.2. Sanskritin yhdyssanojen terminologiasta
+## 5.2. Sanskritin yhdyssanojen terminologiasta <!-- TODO: Fallback translation -->
 
 - **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟩ : yhdyssanan jäsenet
 - **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟩ : yhdyssanan analyysi
 - **nityasamāsaḥ** m. = ⟪नित्यसमासः⟩ : yhdyssana, jolle ei ole vigrahavākyata tai jonka vigrahavākya on mahdotonta muodostaa yhdyssanan sanoilla.
 - **aluksamāsaḥ** m. = ⟪अलुक्समासः⟩ : yhdyssana, jossa etujäsen säilyttää sijapääkkeen
 - **luksamāsaḥ** m. = ⟪लुक्समासः⟩ : yhdyssana, jonka etujäsenet ovat ilman sijapääkkeitä (normaali tapaus)
-- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟩ : yhdyssana, jossa yksi tai useampi keskinäinen jäsen on jätetty pois
+- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟩ : yhdyssana, jossa yksi tai useampi keskinäinen jäsen on jätetty pois <!-- TODO: Fallback translation -->
 
-## 5.3. Kopuliiviset yhdyssanat (Dvandva n. = ⟪द्वन्द्व⟫)
+## 5.3. Kopuliiviset yhdyssanat (Dvandva n. = ⟪द्वन्द्व⟫) <!-- TODO: Fallback translation -->
 
-Kopuliiviset yhdyssanat palvelevat grammattisesti samantyyppisten, koordinoitujen jäsenyhdistelmien (substantiivien tai adjektiivien) yhdistämistä.
+Kopuliiviset yhdyssanat palvelevat grammattisesti samantyyppisten, koordinoitujen jäsenyhdistelmien (substantiivien tai adjektiivien) yhdistämistä. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Dvandva tarkoittaa:**
 
 1. **joko sen henkilöiden, asioiden tai ominaisuuksien summaavaa yhdistelmää, joita sen yksittäiset jäsenet tarkoittavat:**
-Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
+Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫ <!-- TODO: Fallback translation -->
 
 2. **taike se ryhmittelee nämät henkilöt, asiat tai ominaisuudet yhdeksi kokonaisuudeksi:**
-Samāhāradvandva ("yhteenvetodvandva") = ⟪समाहारद्वन्द्व⟫
+Samāhāradvandva ("yhteenvetodvandva") = ⟪समाहारद्वन्द्व⟫ <!-- TODO: Fallback translation -->
 
 **Ensimmäisessä tapauksessa (Itaretaradvandva):**
-Dvandva saa taivutuksen mukaan viimeisen jäsenen sukunsa ja kaksikon (kahden asian kohdalla) tai monikon (kaksi tai useampaa asiaa kohtaan) päätteet. Myös yksikön päätteen käyttö on sallittua.
+Dvandva saa taivutuksen mukaan viimeisen jäsenen sukunsa ja kaksikon (kahden asian kohdalla) tai monikon (kaksi tai useampaa asiaa kohtaan) päätteet. Myös yksikön päätteen käyttö on sallittua. <!-- TODO: Fallback translation -->
 
 **Toisessa tapauksessa (Samāhāradvandva):**
-Dvandva on yleensä neutri (riippumatta viimeisen jäsenen sukupuolesta) ja yksikössä.
+Dvandva on yleensä neutri (riippumatta viimeisen jäsenen sukupuolesta) ja yksikössä. <!-- TODO: Fallback translation -->
 
 **Ratkaisu:**
 Tapahtuu sanalla "ja" (**ca** = ⟪च⟫), joskus sanalla "tai" (**vā** = ⟪वा⟫) tai "kumpikin".
 :::
-Katso kaksikoiden dvandvaa myöhemmin!
+Katso kaksikoiden dvandvaa myöhemmin! <!-- TODO: Fallback translation -->
 
 ### 5.3.1. Kompositumien etuliitteet
 
@@ -86,42 +86,42 @@ Esimerkkejä pluraldvandvasta:
 - Yleensä tärkeämpi sana tulee sijoittaa alkuun.
 - **-i** tai **-u**-päätteiset sanat tulee sijoittaa eteen.
 - **-a**-päätteiset sanat, jotka alkavat vokaalilla, tulee sijoittaa eteen.
-- Vähemmän tavuja sisältävät sanat tulee sijoittaa eteen.
+- Vähemmän tavuja sisältävät sanat tulee sijoittaa eteen. <!-- TODO: Fallback translation -->
 
-Jos kaksi kolmesta viimeksi mainitusta määräyksestä voi tulla kyseeseen samanaikaisesti, tulee aina noudattaa myöhemmin annettua sääntöä. (Esimerkkejä duaalidvandvoista näihin sääntöihin löytyy Kielhornin grammatikasta § 570).
+Jos kaksi kolmesta viimeksi mainitusta määräyksestä voi tulla kyseeseen samanaikaisesti, tulee aina noudattaa myöhemmin annettua sääntöä. (Esimerkkejä duaalidvandvoista näihin sääntöihin löytyy Kielhornin grammatikasta § 570). <!-- TODO: Fallback translation -->
 
 ## 5.4. Sanalista
 
 **Opettele seuraavat sanat:**
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : taipumus, pitkäjänteisyys, kiinnipitäminen; erityisesti: sitoutuminen kehoon kuin se olisi omaisuutta.
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : taipumus, pitkäjänteisyys, kiinnipitäminen; erityisesti: sitoutuminen kehoon kuin se olisi omaisuutta. <!-- TODO: Fallback translation -->
 
-**kāma** m. = ⟪काम⟫ : halu, toive, haluttu lahja, aistimielinen nautinto, rakkaus; rakkauden jumala Kāma.
+**kāma** m. = ⟪काम⟫ : halu, toive, haluttu lahja, aistimielinen nautinto, rakkaus; rakkauden jumala Kāma. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0501.webp)
 Kuva: Jumala Kāma = kāmadeva = ⟪कामदेव⟫, 1700-luku
 (Kuvälähde: Wikipedia, yleinen omistus)
 :::
-**krodha** m. = ⟪क्रोध⟫ : viha.
+**krodha** m. = ⟪क्रोध⟫ : viha. <!-- TODO: Fallback translation -->
 
 **kleśa** m. = ⟪क्लेश⟫ : kärsimys, vaiva.
 
-**trayī** f. = ⟪त्रयी⟫ : kolmikko; erityisesti kolme Veda-kirjaa (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** f. = ⟪त्रयी⟫ : kolmikko; erityisesti kolme Veda-kirjaa (Ṛgveda, Sāmaveda, Yajurveda). <!-- TODO: Fallback translation -->
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politiikka (Tatpuruṣa-yhdyssana sanasta daṇḍa m. = "sauva, valta, hallinta, rangaistus" ja nīti f. = "oikea johto").
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politiikka (Tatpuruṣa-yhdyssana sanasta daṇḍa m. = "sauva, valta, hallinta, rangaistus" ja nīti f. = "oikea johto"). <!-- TODO: Fallback translation -->
 
 **dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Kaksi kertaa syntynyt.
 
 **dveṣa** m. = ⟪द्वेष⟫ : Viha.
 
-**maitrī** f. = ⟪मैत्री⟫ : Ystävyys, ystävällisyys, ystävällinen hyväntahtoisuus.
+**maitrī** f. = ⟪मैत्री⟫ : Ystävyys, ystävällisyys, ystävällinen hyväntahtoisuus. <!-- TODO: Fallback translation -->
 
 **rāga** m. = ⟪राग⟫ : (punainen) väri, intohimo, rakkaus.
 
-**lobha** m. = ⟪लोभ⟫ : Ahne, kunnianhimo.
+**lobha** m. = ⟪लोभ⟫ : Ahne, kunnianhimo. <!-- TODO: Fallback translation -->
 
-**varṇa** m. = ⟪वर्ण⟫ : Väri, suku, yhteiskuntaluokka.
+**varṇa** m. = ⟪वर्ण⟫ : Väri, suku, yhteiskuntaluokka. <!-- TODO: Fallback translation -->
 
 **vārttā** f. = ⟪वार्त्ता⟫ : Toimeentulo, talous (talous).
 
@@ -132,16 +132,16 @@ Kuva: Jumala Kāma = kāmadeva = ⟪कामदेव⟫, 1700-luku
 **ca** = ⟪च⟫ : ja.
 (Sijoitetaan sanan perään, jota se yhdistää. Kun useita sanoja yhdistetään, sen tulisi olla ihanteellisesti viimeisen liitososan ensimmäisen sanan perässä: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟩).
 
-**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sekä ... että.
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sekä ... että. <!-- TODO: Fallback translation -->
 
 ## 5.5. Harjoitus
 
-**A) Käännä seuraavat lauseet ja yhdyssanat sekä ratkaise niissä esiintyvät dvandvat sanskritiksi:**
+**A) Käännä seuraavat lauseet ja yhdyssanat sekä ratkaise niissä esiintyvät dvandvat sanskritiksi:** <!-- TODO: Fallback translation -->
 
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
 (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
 ⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
-(Selitys: catvāras = ⟪चत्वारस्⟫ = "neljä")
+(Selitys: catvāras = ⟪चत्वारस्⟫ = "neljä") <!-- TODO: Fallback translation -->
 
 2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ.
 (Vāsiṣṭhadharmaśāstra II,1)
@@ -151,7 +151,7 @@ Kuva: Jumala Kāma = kāmadeva = ⟪कामदेव⟫, 1700-luku
 3. sāmavedargvedayajurvedās trayī.
 (Kauṭilīya-arthaśāstra 1.3.1. / hyvässä sanskritissa: sāmārgyajurvedās trayī)
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-(hyvässä sanskritissa: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+(hyvässä sanskritissa: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
 
 4. Kolme ihmisen vihollista, jotka muodostavat portin helvettiin (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -159,7 +159,7 @@ Kuva: Jumala Kāma = kāmadeva = ⟪कामदेव⟫, 1700-luku
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
 ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-(Selitys: brahmavihāra: "Brahman oleskelutilat", myös nimeltä "Rajatut". Ne ovat buddhalaisia meditaatiomuotoja.)
+(Selitys: brahmavihāra: "Brahman oleskelutilat", myös nimeltä "Rajatut". Ne ovat buddhalaisia meditaatiomuotoja.) <!-- TODO: Fallback translation -->
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
 (Yogasūtra 2,3)
@@ -168,7 +168,7 @@ Kuva: Jumala Kāma = kāmadeva = ⟪कामदेव⟫, 1700-luku
 
 7. ānvīkṣikītrīvārttādaṇḍanitayo vidyāḥ.
 (Kauṭilīya-arthaśāstra 1.2.1:n mukaan.)
-⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
 
 ## 5.6. Toistoharjoitus
 
@@ -183,7 +183,7 @@ Kuva: Jumala Kāma = kāmadeva = ⟪कामदेव⟫, 1700-luku
 3. dvijā vaiśyāḥ. (2 mahdollisuutta)
    ⟪द्विजा⟫ ⟪वैश्याः⟫ |
 
-**B) Aseta vastaava muoto:**
+**B) Aseta vastaava muoto:** <!-- TODO: Fallback translation -->
 
 1. (dvija, sādhu, kavi) ... rāmaḥ
    (⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
@@ -194,11 +194,11 @@ Kuva: Jumala Kāma = kāmadeva = ⟪कामदेव⟫, 1700-luku
 3. dvijātayas ... (vaiśyā, kṣatriya)
    ⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
 
-**C) Ratkaise seuraava lause sanskritiksi purkamalla sen yhdyssana ja muodosta samalla ratkaistulla muodolla sama lause:**
+**C) Ratkaise seuraava lause sanskritiksi purkamalla sen yhdyssana ja muodosta samalla ratkaistulla muodolla sama lause:** <!-- TODO: Fallback translation -->
 
 sāmargyajurvedās trayī.
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ |
 
-**D) Käännä sanskritiksi kahdella tavalla (kerran yhdyssanan kanssa, kerran ilman):**
+**D) Käännä sanskritiksi kahdella tavalla (kerran yhdyssanan kanssa, kerran ilman):** <!-- TODO: Fallback translation -->
 
 "Brahman asettumiset" ovat: ystävällinen hyväntahtoisuus, myötätunto, ilon osanotto ja tasapainoisuus.

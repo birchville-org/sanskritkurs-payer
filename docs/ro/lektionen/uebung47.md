@@ -20,13 +20,13 @@ Nobil, privește umilința mea!
 Stăpâne Rāma, dacă trebuie să plec, atunci această fată să fie și ea însoțitoarea mea.
 
 ⟪४⟫. **⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Doamnă, stați, stați. Nu trebuie să vă temeți.
+Doamnă, stați, stați. Nu trebuie să vă temeți. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. **⟪प्रसीदत्वार्यः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 Calmă, nobilule!
 
 ⟪६⟫. **⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Bine ați venit, doamnă!
+Bine ați venit, doamnă! <!-- TODO: Fallback translation -->
 
 ⟪७⟫. **⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 Stăpâne nobil, vă rog să comandați ce trebuie să fac.
@@ -77,7 +77,7 @@ Fiul meu, aspiră la bogăție!
 Dați ofrande de mâncare strămoșilor!
 
 ⟪१०⟫. **⟪नन्दन्तु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Ei să se bucure!
+Ei să se bucure! <!-- TODO: Fallback translation -->
 
 ⟪११⟫. **⟪लोकमवेक्षै⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 Vreau să privesc lumea.
@@ -98,7 +98,7 @@ Să mi se nască fii!
 Vreau să îți arăt casa mea.
 
 ⟪१७⟫. **⟪मत्प्रव्रज⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫**
-Mergi departe de mine!
+Mergi departe de mine! <!-- TODO: Fallback translation -->
 
 ⟪१८⟫. **⟪मुच्यताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
 El să fie eliberat!
@@ -155,4 +155,4 @@ Să fie spre noroc! (Urare de binecuvântare)
 ![](/images/uebung075.webp)
 Fig.: ⟪माद्यत⟫
 (Sursa imaginii: [Detalii](/licenses#uebung075))
-:::
+::: <!-- TODO: Fallback translation -->

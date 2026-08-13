@@ -59,7 +59,7 @@ Le costruzioni passive sanscrite sono estremamente frequenti: il passivo è infa
 ::: grammar-box
 **Le desinenze regolari dell'ablativo-strumentale (tṛtīyā):**
 - **Singolare: -ā**
-- **Pluraleee: -bhis**
+- **Pluraleeeeeee: -bhis**
 
 **Formazioni regolari:**
 
@@ -104,7 +104,7 @@ Le costruzioni passive sanscrite sono estremamente frequenti: il passivo è infa
 :::
 
 ::: deleteme-box
-Fuori dal Nominativooo e dall'Accusativo, le forme dei Neutri in -a, del pronome interrogativo e dei pronomi dimostrativi sono identiche alle forme del corrispondente Maschile.
+Fuori dal Nominativooooooo e dall'Accusativo, le forme dei Neutri in -a, del pronome interrogativo e dei pronomi dimostrativi sono identiche alle forme del corrispondente Maschile.
 :::
 
 ### 10.2.1. Sull'uso dello strumentale (tṛtīyā = ⟪तृतीया⟫)
@@ -120,7 +120,9 @@ Fuori dal Nominativooo e dall'Accusativo, le forme dei Neutri in -a, del pronome
 2. **per indicare il mezzo o lo strumento con cui viene compiuta un'azione**
 3. **per indicare la via, attraverso cui qualcuno raggiunge una destinazione**
 4. **per esprimere l'unione, l'associazione, la compagnia con**
-5. **con le posposizioni nel significato di "insieme con, con"; ad es. saha = ⟪सह⟫ = "con"**:brad es.:br**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "insieme con il brāhmaṇa"
+5. **con le posposizioni nel significato di "insieme con, con"; ad es. saha = ⟪सह⟫ = "con"**
+ad es.
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "insieme con il brāhmaṇa"
 :::
 Ulteriori usi dello strumentale (tṛtīyā) seguiranno più avanti.
 
@@ -171,17 +173,24 @@ ad esempio
 ### 10.4.1. Regole speciali per la formazione del passivo
 
 1. **Radici in -i o -u** allungano la propria vocale prima del suffisso passivo **-ya-**:
-   * **ji** 1 P: **jīyate**, **jīyante**:br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P: **śrūyate**, **śrūyante**:br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U: **sūyate**, **sūyante**:br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 1 P: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Radici con -a- tra consonanti** (tranne nasali, y, r, v) rimangono di alto livello:
-   * **labh** 1 Ā: **labhyate**, **labhyante**:br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Alcune radici formano il passivo di alto livello** (o nella forma di ablaut dello stema del presente):
-   * **āp** 5 P: **āpyate**, **āpyante**:br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante**:br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante**:br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **Forma di basso livello di verbi che iniziano con ya, va, ra, o in cui questi suoni seguono un'altra consonante (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -194,16 +203,20 @@ ad esempio
    La denominazione tradizionale indigena per questa formazione della forma di basso livello nei verbi con **ya** o **va** è **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ finale** dopo una singola consonante viene sostituito da **-ri-** prima del suffisso passivo **-ya-**:
-   * **kṛ** 8 U: **kriyate**, **kriyante**:br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Ma: **smṛ** 1 P: **smaryate**:br⟪स्मर्यते⟫
+* **kṛ** 8 U: **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Ma: **smṛ** 1 P: **smaryate**
+⟪स्मर्यते⟫
 
 6. **Alcune radici in -an hanno alternativamente due formazioni dello stema del passivo:**
    * una **-an-ya**
    * una **-ā-ya-** (il lungo **ā** è un rappresentante di un ipotetico nasale lungo)
 
    Es. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte**:br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte**:br⟪तायते⟫, ⟪तायन्ते⟫ (da \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (da \*tn-ya-nte)
 
 ## 10.5. Elenco di parole
 
@@ -214,7 +227,7 @@ ad esempio
 - **nagara** n. ⟪नगर⟫ : Città
 
   ::: note-box
-**yajña** m. ⟪यज्ञ⟫ : sacrificio
+  **yajña** m. ⟪यज्ञ⟫ : sacrificio
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : sacrificio
@@ -228,7 +241,7 @@ ad esempio
 - **puṇya** n. ⟪पुण्य⟫ : opera buona, merito
 
   ::: note-box
-**satya** n. ⟪सत्य⟫ : verità
+  **satya** n. ⟪सत्य⟫ : verità
   :::
 
 - **pāpa** n. ⟪पाप⟫ : cattiva azione, male (contrario a **puṇya**)

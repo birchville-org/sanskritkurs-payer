@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 49
 
@@ -36,7 +36,7 @@ status: stable
 ### 49.1.2. Quinta clase de presente (⟪स्वादि⟫)
 
 ::: grammar-box
-La 2.sg.P Imperativooo es sin desinencia en raíces de la 5. y 8. clase, donde al -u final del sufijo solo le precede una consonante.
+La 2.sg.P Imperativoooooo es sin desinencia en raíces de la 5. y 8. clase, donde al -u final del sufijo solo le precede una consonante.
 :::
 ⟪सु⟫ 5U
 
@@ -299,7 +299,7 @@ Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪परम⟫ 3: más lejano, más alto ; ⟪पञ्चम्या⟫ : mejor que, más alto que
 

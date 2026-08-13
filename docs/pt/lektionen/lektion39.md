@@ -34,7 +34,7 @@ As desinências da primeira pessoa (:sig[⟪:sig[तृतीयः]⟫] ⟪प�
 **Regra:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. Primeira classe de presente (⟪भ्वादि⟫)
+### 39.2.1. Primeira classe de presente (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P
 
@@ -110,7 +110,7 @@ As desinências da primeira pessoa (:sig[⟪:sig[तृतीयः]⟫] ⟪प�
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫-formação
+### 39.3.1. ⟪अनिट्⟫-formação <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U
 

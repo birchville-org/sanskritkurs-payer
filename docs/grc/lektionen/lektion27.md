@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα βʹ7
 
@@ -163,7 +163,10 @@ Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ �
 Rāma-Satz.
 (Bildquelle: [Details](/grc/licenses#lekt2708))
 :::
-*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟩:br *:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟧:br *:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟧:br *:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟧ ⟪मे⟫ ⟪भो⟧ *:sig[⟪राम⟫]* ⟪मामुद्धर⟧ ⟪॥⟫
+*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟩
+*:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟧
+*:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟧
+*:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟧ ⟪मे⟫ ⟪भो⟧ *:sig[⟪राम⟫]* ⟪मामुद्धर⟧ ⟪॥⟫
 
 **Übersetzung:**
 1. **Nominativ:** Rāma, das Juwel (⟪मणि⟫ m.) unter den Königen (⟪राजन्⟫ m.) siegt immer (⟪सदा⟧).
@@ -173,14 +176,17 @@ Rāma-Satz.
 5. **Ablativ:** Es gibt keine bessere (⟪परतर⟫ 3) Zuflucht (⟪परायण⟧ n.) als Rāma.
 6. **Genetiv:** Ich (⟪अहम्⟧) bin (⟪अस्मि⟫) ein Knecht Rāmas.
 7. **Lokativ:** In Rāma sei (⟪भवतु⟧) immer die Ruhe (⟪लय⟫ m.) meines (⟪मे⟧) Herzens.
-8. **Vokativ:** Rāma, errette (⟪उद्धर⟫ = Imperativ zu ⟪उद्⟧ + ⟪हृ⟫ bzw. ⟪उद्⟧ + ⟪धृ⟫) mich (⟪माम्⟧)!
+8. **Vokativ:** Rāma, errette (⟪उद्धर⟫ = Imperativ zu ⟪उद्⟧ + ⟪हृ⟫ bzw. ⟪उद्⟧ + ⟪धृ⟫) mich (⟪माम्⟧)! <!-- TODO: Fallback translation -->
 
 ## 27.5. Λεξιλόγιον
 
 **⟪वस्⟫** 1P (⟪वसति⟫): ἐμμενεῖν, οἰκεῖν (σὺν τοπικῇ τῆς προσώπου, παρ’ ᾧ οἰκεῖ)
 
 ::: indent
-**Μελ.:** ⟪वत्स्यति⟫:br **Παθ.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Ἐντ.:** ⟪वस्तुम्⟫
+**Μελ.:** ⟪वत्स्यति⟫
+**Παθ.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Ἐντ.:** ⟪वस्तुम्⟫
 :::
 ἐκ τούτου:
 
@@ -194,7 +200,9 @@ Rāma-Satz.
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): ἐνδύεσθαι (ἱμάτια), φέρειν (ἱμάτια)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 ἐξ αὐτῶν:
 
@@ -223,7 +231,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1Υ (⟪हरति⟫): κρατεῖν, φέρειν· λαμβάνειν, ἀφαιρεῖν, ἁρπάζειν
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 ἐκ τούτου:
 
@@ -306,7 +317,7 @@ Fig.: ⟪नराः⟫
 Naran. Udaipur.
 (Image source: [Details](/grc/licenses#lekt2711))
 :::
-### 27.7.2. Neuter in -α: ⟪फल⟫
+### 27.7.2. Neuter in -α: ⟪फल⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -447,7 +458,7 @@ Fig.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Bildquelle: [Details](/grc/licenses#lekt2715))
 :::
-### 27.7.9. Μετοχὴ ἐνεστῶτος Parasmaipada εἰς -ant: ⟪सन्त्⟫
+### 27.7.9. Μετοχὴ ἐνεστῶτος Parasmaipada εἰς -ant: ⟪सन्त्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -468,7 +479,7 @@ Fig.: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
 (Image source: [Details](/grc/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫
+### 27.7.10. ⟪महान्त्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 

@@ -22,10 +22,10 @@ last_reconstructed: 2026-05-15
 ὁ ἅγιος εἰς τὸν οὐρανὸν ἔρχεται.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 οὕτως ὁ Βραχμὰν τῷ θεῷ θυσίαν ἀναφέρει.

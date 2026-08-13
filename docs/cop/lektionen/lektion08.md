@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# Lektion 8
+# ⲙⲁⲑⲏⲙⲁ 8
 
 ::: deleteme-box
 **ⲛⲓϣⲱⲡ ⲉⲙⲁⲧⲛⲣⲏ ⲉϥⲙⲟⲕ:**
@@ -21,8 +21,8 @@ last_reconstructed: 2026-05-07
 
 ϧⲉⲛ ϯⲅⲣⲁⲙⲙⲁⲧⲓⲕⲏ ⲛ̀ⲁⲣⲭⲁⲓⲟⲛ ⲛ̀ⲧⲉ ϩⲓⲛⲇⲓⲁ, ⲥⲉⲧⲱϣ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲓⲉⲡⲓⲑⲏⲙⲁ, ⲉⲧⲟⲩϫⲡⲟ ⲛ̀ϩⲉⲛϣⲗⲟⲗ ⲛ̀ⲣⲁⲛ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲩ:
 
-- **ⲛⲓⲉⲡⲓⲑⲏⲙⲁ-kṛt (⟪कृत्⟫) (ⲛⲓⲉⲡⲓⲑⲏⲙⲁ ⲛ̀ϣⲟⲣⲡ):** ⲥⲉⲧⲁⲙⲓⲟ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲓⲛⲟⲩⲛⲓ ⲛ̀ⲣⲏⲙⲁ (**dhātu** (ⲃⲱ) = ⟪धातु⟫) ⲛⲉⲙ ⲛⲓϣⲗⲟⲗ ⲛ̀ⲣⲏⲙⲁ ⲛ̀ϩⲉⲛϣⲗⲟⲗ ⲛ̀ⲣⲁⲛ, ⲛⲓⲁⲡⲟⲗⲩⲧⲟⲛ ⲛⲉⲙ ⲛⲓⲁⲡⲁⲣⲉⲙⲫⲁⲧⲟⲥ.
-- **taddhita-Suffixe (⟪तद्धित⟫) (Sekundärsuffixe):** treten an Nominalstämme und Indeklinabilia und bilden neue Nominalstämme bzw. Indeklinabilia. <!-- TODO: Fallback translation -->
+- **ⲛⲓⲉⲡⲓⲑⲏⲙⲁ-kṛt (⟪कृत्⟫) (ⲛⲓⲉⲡⲓⲑⲏⲙⲁ ⲛ̀ϣⲟⲣⲡ):** ⲥⲉⲧⲁⲙⲓⲟ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲓⲛⲟⲩⲛⲓ ⲛ̀ⲣⲏⲙⲁ (**dhātu** (ⲃⱦ) = ⟪धातु⟫) ⲛⲉⱱ ⲛⲓϣⲗⲟⲗ ⲛ̀ⲣⲏⱱⲁ ⲛ̀ϩⲉⲛϣⲗⲟⲗ ⲛ̀ⲣⲁⲛ, ⲛⲓⲁⲡⲟⲗⱱⲧⲟⲛ ⲛⲉⱱ ⲛⲓⲁⲡⲁⲣⲉⱱⲫⲁⲧⲟⲥ.
+- **taddhita-Suffixe (⟪तद्धित⟫) (Sekundärsuffixe):** treten an Nominalstämme und Indeklinabilia und bilden neue Nominalstämme bzw. Indeklinabilia.
 
 ::: grammar-box
 **Schema:**
@@ -56,9 +56,9 @@ last_reconstructed: 2026-05-07
 ### 8.3.1. -a ⲙ. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -a bildet maskuline (seltener neutrale) Substantive, die eine Handlung oder einen Zustand bezeichnen, der durch die Wurzel bezeichnet wird; manchmal auch Adjektive oder Substantive, die den Agens (kartṛ) der von der Verbalwurzel bezeichneten Handlung ausdrücken. Für kurze Penultima (= Vokal vor Konsonant, auf den die Wurzel auslautet) oder auslautenden Wurzelvokal wird meist Hochstufe (guṇa) oder Dehnstufe (vṛddhi) substituiert.** <!-- TODO: Fallback translation -->
+**ⲡϣⲟⲡ -a ⲛⲧⲉ kṛt ⲁϥ ϣⲱⲡⲓ ⲉⲃⲟⲗ ϯϣⲱⲡ ⲛⲧⲉ masculine (ⲟϥⲕⲓ ⲛⲧⲉ neuter) substantives, ϯϣⲱⲡ ⲛⲧⲉ action ⲟϥⲕⲓ state, ϯϣⲱⲡ ⲛⲧⲉ root; ϯϣⲱⲡ ⲟϥⲕⲓ adjectives ϯϣⲱⲡ substantives, ϯϣⲱⲡ agent (kartṛ) ⲛⲧⲉ verbal root. ⲡϣⲟⲡ penultimate (vowel before consonant, root ends) ⲟϥⲕⲓ final vowel: guṇa ⲟϥⲕⲓ vṛddhi substitution.**
 :::
-**Beispiele:**
+**ⲡϣⲟⲡ examples:**
 
 | Wurzel:br⟪धातु⟫ | + -a (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -76,7 +76,7 @@ last_reconstructed: 2026-05-07
 ### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ana bildet meist neutrale Substantive, die eine Handlung, einen Zustand oder das Mittel bzw. Werkzeug bezeichnen, durch welches die von der Wurzel oder einem Verbalstamm bezeichnete Handlung zustande gebracht wird. Für eine kurze Penultima oder einen auslautenden Vokal der Wurzel wird gewöhnlich Hochstufe (guṇa) substituiert.** <!-- TODO: Fallback translation -->
+**ⲡϣⲟⲡ -ana ⲛⲧⲉ kṛt ϫⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛⲁϥⲧⲉ ϣⲟⲡ ⲛ
 :::
 **Beispiele:**
 
@@ -133,9 +133,9 @@ Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine
 ### 8.3.4. -ti ⲥ. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ti bildet feminine Substantive, die im Allgemeinen die von der Wurzel bezeichnete Handlung oder den von der Wurzel bezeichneten Zustand ausdrückt. Die Form der Wurzel ist tiefstufig.** <!-- TODO: Fallback translation -->
+**ⲡϣⲟⲡ -ti ⲛⲧⲉ kṛt ϫⲟⲩϥ ⲛⲁⲓⲧⲉⲙⲛⲭⲏⲙⲓ ⲉϥⲧⲁⲛⲣⲏ, ⲉϥⲙⲟⲛⲧⲁ ϫⲉ ⲡϣⲟⲡ ⲛⲧⲉ ϯⲙⲏⲓ ⲁⲛⲟⲕ ϫⲉ ⲡϣⲟⲡ ⲛⲧⲉ ϯⲙⲏⲓ. ⲡϣⲟⲡ ⲛⲧⲉ ϯⲙⲏⲓ ⲛⲁϥⲧⲉⲙ.**
 :::
-**Beispiele:**
+**ⲉϥⲣⱧⲛ:**
 
 | Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -147,7 +147,7 @@ Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
 
-*Anmerkung: \* vor einer Form bedeutet, dass diese Form im Sanskrit nicht vorkommt, sondern theoretisch erschlossen ist als Voraussetzung für eine bestimmte Bildung. Die Tiefstufe von **gam** ist gṃ = \*gm, das m wird als sogenannte nasalis sonans durch **a** ersetzt » **ga**. Analoges gilt für **man** » **ma**. <!-- TODO: Fallback translation -->
+ⲡⲓϣⲟⲡ: ⲛⲁⲕ ⲫⲣⲟⲙ ⲛⲧⲥϯ ⲉⲡⲓⲱⲛ ϫⲟⲥ ⲉϯⲙⲱⲧⲛ ϩⲓ ⲉϯⲙⲱⲧⲛ ϩⲓ ⲉϯⲙⱧⲟⲛ ϩⲓ ⲉϯⲙⱧⲟⲛ ϩⲓ ⲉϯⲙⱧⲟⲛ. ⲡⲓϣⲟⲡ ⲉⲧⲛⲁⲕ ϫⲟⲥ ⲉϯⲙⱧⲟⲛ ϩⲓ ⲉϯⲙⱧⲟⲛ ϩⲓ ⲉϯⲙⱧⲟⲛ. ⲡⲓϣⲟⲡ ⲉⲧⲛⲁⲕ ϫⲟⲥ ⲉϯⲙⱧⲟⲛ ϩⲓ ⲉϯⲙⱧⲟⲛ ϩⲓ ⲉϯⲙⱧⲟⲛ.
 
 ### 8.3.5. -ⲧⲩⲁ ⲛ., -ⲧⲁ ϥ.
 
@@ -162,7 +162,7 @@ Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine
 | **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
 | **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
 
-ⲡⲓⲧⲉϥⲛⲟⲩⲱϣ ⲡⲉⲧⲙⲏⲛ ⲛⲁϥ ϩⲓⲱϣ ⲉϫⲟϥ ⲛⲧⲡⲓⲙⲉⲧⲣⲟⲡ ⲛⲓⲙⲉⲧⲣⲟⲡ ⲛⲓⲙⲉⲧϣⲟⲡ. <!-- TODO: Fallback translation -->
+ⲡⲓⲧⲉϥⲛⲟⲩⱫⲟϣ ⲡⲉⲧⲙⲏⲛ ⲛⲁϥ ϩⲓⱫⲟϣ ⲉϫⲟϥ ⲛⲧⲡⲓⲙⲉⲧϣⲟⲡ.
 
 ## 8.4. ϯⲙⲁϩ ϩⲙⲏⲛ ⲧⲁⲝⲓⲥ ⲛ̀ⲧⲉ ⲡ̀ⲧⲉⲗⲉⲓⲟⲛ (tanādi = ⟪तनादि⟫ = "tan ⲕⲁⲧⲁ ⲡⲁⲓ")
 
@@ -172,10 +172,14 @@ Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine
 - **ⲛⲓϧⲟⲩⲱⲡ ⲛⲓϫⲉⲙ: ϣⲱⲙ + -u- (ϫⲉ ⲛⲓⲃⲟⲗ: -v-)**
 
 ⲙⲡⲕⲱϫⲓ **tan** 8 U (⟪तन्⟫) "ⲛⲓϣⲱⲙ:"
-- 3\. sg. P. **tanoti** :br⟪तनोति⟫
-- 3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫
-- 3\. sg. Ā. **tanute** :br⟪तनुते⟫
-- 3\. pl. Ā. **tanvate** :br⟪तन्वते⟫
+- 3\. sg. P. **tanoti**
+⟪तनोति⟫
+- 3\. pl. P. **tanvanti**
+⟪तन्वन्ति⟫
+- 3\. sg. Ā. **tanute**
+⟪तनुते⟫
+- 3\. pl. Ā. **tanvate**
+⟪तन्वते⟫
 :::
 Ⲛⲓϫⲱⲡ: ⲛⲧⲉ ϯϣⲟⲙⲓ ⲛⲁⲕ ϫⲉ ⲛⲓϣⲱⲙ ⲛⲓⲃⲟⲗ ϯϥⲙ ⲛⲧⲉ 5. ϣⲟⲕ (tn » ta + no-), ⲛϫⲓⲥ Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
@@ -183,10 +187,14 @@ Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "ⲛⲓϣⲱⲙ, ⲛⲓϫⲉⲙ"**
-- 3\. sg. P. **karoti** :br⟪करोति⟫
-- 3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute** :br⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
+- 3\. sg. P. **karoti**
+⟪करोति⟫
+- 3\. pl. P. **kurvanti**
+⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute**
+⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate**
+⟪कुर्वते⟫
 :::
 
 ## 8.5. Wortliste

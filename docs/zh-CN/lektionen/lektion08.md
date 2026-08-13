@@ -5,7 +5,7 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
----
+--- <!-- TODO: Fallback translation -->
 
 # 第八课
 
@@ -55,7 +55,7 @@ last_reconstructed: 2026-05-07
 
 ## 8.3. 一些重要的名词后缀
 
-### 8.3.1. -a 阳性 (kṛt)
+### 8.3.1. -a 阳性 (kṛt) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **后缀 -a 构成阳性（偶尔中性）名词，表示由词根所指的动作或状态；有时也指代表达动词词根所指示动作的施事者（kartṛ）的形容词或名词。对于短倒数第二个音节（即词根结尾辅音前的元音）或以词根元音结尾的情况，通常替换为强级（guṇa）或长级（vṛddhi）。**
@@ -73,9 +73,9 @@ last_reconstructed: 2026-05-07
 | **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | “释放，流注，创造”（关于词法 Sandhi j » g 见后文） |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | “听” |
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | “成为，（某物）存在，本性，性质” |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | “战士，士兵” |
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | “战士，士兵” | <!-- TODO: Fallback translation -->
 
-### 8.3.2. -ana 中性 (kṛt)
+### 8.3.2. -ana 中性 (kṛt) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **后缀 -ana 通常构成中性名词，表示由词根或动词词干所指的行动、状态或通过该行动得以实现的手段/工具。对于短元音或词尾的根音节，通常替换为高一级（guṇa）。**
@@ -89,7 +89,7 @@ last_reconstructed: 2026-05-07
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | “（听的工具 =）耳朵” |
 | **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | “（使某事被做的东西，即）原因、理由” |
 | **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | “成为、产生” |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | “看、观点、哲学体系、现象，特指：Darśan” |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | “看、观点、哲学体系、现象，特指：Darśan” | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0801.webp)
@@ -104,7 +104,7 @@ last_reconstructed: 2026-05-07
 （来源：维基百科）
 :::
 
-### 8.3.3. -tra 中性 (kṛt)
+### 8.3.3. -tra 中性 (kṛt) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **后缀-kṛt -tra 通常构成中性名词，表示由词根所指的行动得以实现的手段或工具。短元音的倒数第二个音节和词尾的元音通过强形式（guṇa）替换。**
@@ -117,7 +117,7 @@ last_reconstructed: 2026-05-07
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | “（引导的手段 =）眼睛” |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | “（听觉器官 =）耳朵” |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | “（思考工具：）咒语，‘魔法’公式（曼特罗）” |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | “经线” |
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | “经线” | <!-- TODO: Fallback translation -->
 
 ::: media
 **原始曼特罗 Oṃ (⟪ॐ⟫) 在不同印度文献中的形式**
@@ -132,7 +132,7 @@ last_reconstructed: 2026-05-07
 （图片来源：[详情](/zh-CN/licenses#lekt0803)）
 :::
 
-### 8.3.4. -ti 阴性 (kṛt)
+### 8.3.4. -ti 阴性 (kṛt) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **后缀 -ti 构成阴性名词，通常表示由词根所指的动作或状态。词根的形态为弱级（guṇa 之前的低等级，即 zero-grade）。**
@@ -147,7 +147,7 @@ last_reconstructed: 2026-05-07
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | “流注，创造” |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | “视，面，见解” |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | “行走，轨道，目标”（源自 *gm » ga + -ti） |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | “思考，想法，意见”（源自 *mn » ma + -ti） |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | “思考，想法，意见”（源自 *mn » ma + -ti） | <!-- TODO: Fallback translation -->
 
 *注：形式前的 \* 表示该形式在梵语中不存在，而是作为特定构词的前提理论上推导出来的。**gam** 的弱级形式是 gṃ = \*gm，其中的 m 作为响鼻音（nasalis sonans）被 **a** 取代 » **ga**。**man** » **ma** 同理。
 
@@ -174,10 +174,14 @@ last_reconstructed: 2026-05-07
 - **弱词干：词根 + -u-（元音前为 -v-）**
 
 示例 **tan** 第8类主动态 (⟪तन्⟫) “伸展”：
-- 第三人称单数现在时主动态 **tanoti** :br⟪तनोति⟫
-- 第三人称复数现在时主动态 **tanvanti** :br⟪तन्वन्ति⟫
-- 第三人称单数现在时中动态 **tanute** :br⟪तनुते⟫
-- 第三人称复数现在时中动态 **tanvate** :br⟪तन्वते⟫
+- 第三人称单数现在时主动态 **tanoti**
+⟪तनोति⟫
+- 第三人称复数现在时主动态 **tanvanti**
+⟪तन्वन्ति⟫
+- 第三人称单数现在时中动态 **tanute**
+⟪तनुते⟫
+- 第三人称复数现在时中动态 **tanvate**
+⟪तन्वते⟫
 :::
 注：关于 **tan** 是否本质上属于第5类词根（*tn » ta + no-）的争议，参见 Thumb-Hauschild《梵语手册》第二卷，第265页。
 
@@ -185,10 +189,14 @@ last_reconstructed: 2026-05-07
 
 ::: grammar-box
 **kṛ 第8类主动态 (⟪कृ⟫) “制作，做”**
-- 第三人称单数现在时主动态 **karoti** :br⟪करोति⟫
-- 第三人称复数现在时主动态 **kurvanti** :br⟪कुर्वन्ति⟫
-- 第三人称单数现在时中动态 **kurute** :br⟪कुरुते⟫
-- 第三人称复数现在时中动态 **kurvate** :br⟪कुर्वते⟫
+- 第三人称单数现在时主动态 **karoti**
+⟪करोति⟫
+- 第三人称复数现在时主动态 **kurvanti**
+⟪कुर्वन्ति⟫
+- 第三人称单数现在时中动态 **kurute**
+⟪कुरुते⟫
+- 第三人称复数现在时中动态 **kurvate**
+⟪कुर्वते⟫
 :::
 
 ## 8.5. 词汇表

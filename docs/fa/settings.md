@@ -1,8 +1,9 @@
 ---
 layout: doc
-title: تنظیمات
+title: "تنظیمات"
+
 ---
 
-<ClientOnly>
-  <PayerLanguageSettings />
-</ClientOnly>
+<کلاینت‌تنها>
+<پیکربندی زبان پرداخت‌کننده />
+</کلاینت‌تنها>

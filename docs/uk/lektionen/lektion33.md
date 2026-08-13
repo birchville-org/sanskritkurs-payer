@@ -106,9 +106,9 @@ status: stable
 
 | | 3. ос. П. | 3. мн. П. | 3. ос. А. | 3. мн. А. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Теперішній час** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **Імперфект** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **Оптин** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **Indikativ Теперішній час** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;:brjuhu + ate |
+| **Імперфект** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:bra-juhu + ata |
+| **Оптин** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \&lt;⟪जुह्वीत⟫\&gt;:brjuhu + ī-ta | \&lt;⟪जुह्वीरन्⟫\&gt;:brjuhu + ī-ran |
 :::
 ## 33.3. Про аблаут ā
 
@@ -117,7 +117,7 @@ status: stable
 * з одного боку, подовжений ступінь однієї з серій аблауту з -a-
 * з іншого боку, подовжений ступінь в одній з серій аблауту ā-групи
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **А.**
@@ -170,7 +170,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Імперфект** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Оптин** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Корінь ⟪हा⟫ hat vor dem Оптатив-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Корені **⟪दा⟫** та **:sig[⟪धा⟫]**
+### 33.4.1. Корені **⟪दा⟫** та **:sig[⟪धा⟫]** &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **Корені ⟪दा⟫ та :sig[⟪धा⟫] редуплюються за допомогою голосного -a- і в слабкій основі втрачають кореневий голосний.**
@@ -186,7 +186,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Імперфект** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Оптин** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Форми **⟪दा⟫** отримуються шляхом заміни **dh** на **d** у парадигмі **:sig[⟪धा⟫]**. Тобто:
+Форми **⟪दा⟫** отримуються шляхом заміни **dh** на **d** у парадигмі **:sig[⟪धा⟫]**. Тобто: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **⟪दा⟫** 3U "давати"

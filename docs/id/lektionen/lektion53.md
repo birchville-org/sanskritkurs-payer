@@ -490,9 +490,11 @@ See also:
 
 Penentuan metrum penting karena alasan berikut:
 
-1.  **Secara estetis:** ukuran syair berkontribusi, antara lain, pada keindahan suatu ucapan. Selanjutnya, ukuran syair tertentu dapat berfungsi untuk mengekspresikan suasana hati tertentu, atau mereka ditugaskan untuk kelas sosial tertentu (⟪वर्ण⟫). Berbagai ukuran syair diresitasikan secara berbeda satu sama lain. :br Kesan yang baik tentang efek estetis dapat diberikan, misalnya, oleh resitasi ⟪शिवताण्डवस्तोत्र⟫ (pujian terhadap tarian Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Secara estetis:** ukuran syair berkontribusi, antara lain, pada keindahan suatu ucapan. Selanjutnya, ukuran syair tertentu dapat berfungsi untuk mengekspresikan suasana hati tertentu, atau mereka ditugaskan untuk kelas sosial tertentu (⟪वर्ण⟫). Berbagai ukuran syair diresitasikan secara berbeda satu sama lain.
+Kesan yang baik tentang efek estetis dapat diberikan, misalnya, oleh resitasi ⟪शिवताण्डवस्तोत्र⟫ (pujian terhadap tarian Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Secara tekstual:** kesalahan dalam ukuran syair dapat menjadi indikasi bahwa teks tidak ditransmisikan dengan benar pada titik tertentu. Ukuran syair membantu dalam melakukan emendasi tekstual.
-3.  **Secara kronologis:** ukuran syair tertentu mengalami perubahan spesifik sepanjang sejarah. Hal ini dapat membantu dalam penanggalan perkiraan sebuah teks. Lihat **Oldenberg, Hermann (1854–1920):** Tentang Sejarah Triṣṭhubh ; oleh penulis yang sama: Tentang Sejarah Śloka. -- Keduanya dicetak dalam: :br **Oldenberg, Hermann (1854–1920):** Tulisan-tulisan Kecil / Hermann Oldenberg. Disunting oleh Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 jilid. -- (Glasenapp-Stiftung ; ...). -- Jilid 2. -- 1967. -- hlm. 1188 - 1255.
+3.  **Secara kronologis:** ukuran syair tertentu mengalami perubahan spesifik sepanjang sejarah. Hal ini dapat membantu dalam penanggalan perkiraan sebuah teks. Lihat **Oldenberg, Hermann (1854–1920):** Tentang Sejarah Triṣṭhubh ; oleh penulis yang sama: Tentang Sejarah Śloka. -- Keduanya dicetak dalam:
+**Oldenberg, Hermann (1854–1920):** Tulisan-tulisan Kecil / Hermann Oldenberg. Disunting oleh Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 jilid. -- (Glasenapp-Stiftung ; ...). -- Jilid 2. -- 1967. -- hlm. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)

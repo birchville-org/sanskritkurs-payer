@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 50
+# Pamoka 50
 
 ## 50.1. Nominalbildung: regelmässige Steigerung
 

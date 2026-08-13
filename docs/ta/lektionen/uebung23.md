@@ -91,7 +91,7 @@ D) மொழிபெயர்க்கவும் மற்றும் சங
 வாசனை நிறைந்தவர்கள், அழகிய சேவகியைக் கண்டுபிடிக்கச் சென்றனர்.
 
 ⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
+Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert. <!-- TODO: Fallback translation -->
 
 ⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)

@@ -58,7 +58,7 @@ Exemple:
 Exemple:
 
 ::: indent
-⟪सुकवि⟫ m.: un poet bun
+⟪सुकवि⟫ m.: un poet bun <!-- TODO: Fallback translation -->
 
 ⟪सुकृत⟫ n.: faptă bună
 
@@ -111,17 +111,29 @@ Exemple:
 Tatpuruṣa cu a- / an- pot avea următoarele semnificații:
 
 1.  Asemănare (⟪तत्सादृश्यम्⟫):  
-    ⟪अब्राह्मणः⟫ = un kṣatriya sau vaiśya care poartă coarda sacră (⟪यज्ञोपवीत⟫ n.) și, prin urmare, seamănă cu un brahman, fără a fi unul
+::: indent
+⟪अब्राह्मणः⟫ = un kṣatriya sau vaiśya care poartă coarda sacră (⟪यज्ञोपवीत⟫ n.) și, prin urmare, seamănă cu un brahman, fără a fi unul
+:::
 2.  Lipsă, absență (⟪तदभावः⟫):  
-    ⟪अज्ञानम्⟫ = ignoranță (lipsa cunoașterii)
+::: indent
+⟪अज्ञानम्⟫ = ignoranță (lipsa cunoașterii)
+:::
 3.  Diferență (⟪तदन्यत्वम्⟫):  
-    ⟪अपटम्⟫ = ceva ce nu este material / haină (⟪पट⟫ m: țesătură, haină)
+::: indent
+⟪अपटम्⟫ = ceva ce nu este material / haină (⟪पट⟫ m: țesătură, haină)
+:::
 4.  Mărime mică (⟪तदल्पता⟫):  
-    ⟪अनुदरम्⟫ = un burtică mică (un non-ventru)
+::: indent
+⟪अनुदरम्⟫ = un burtică mică (un non-ventru)
+:::
 5.  Dezaprobare (⟪अप्राशास्त्यम्⟫):  
-    ⟪अकालः⟫ = moment nepotrivit
+::: indent
+⟪अकालः⟫ = moment nepotrivit
+:::
 6.  Inamicitate (⟪निरोधः⟫):  
-    ⟪असुरः⟫ = zeu opus (conform etimologiei false a-sura)
+::: indent
+⟪असुरः⟫ = zeu opus (conform etimologiei false a-sura)
+:::
 
 Următorul verset rezumă aceste semnificații:
 
@@ -161,7 +173,7 @@ Exemple:
 
 ⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : a indica, a învăța, a sfătui
 
-⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : a ajunge, a parveni
+⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : a ajunge, a parveni <!-- TODO: Fallback translation -->
 
 *   PPP ⟪उपपन्न⟫ 3: echipat cu (Instrumental)
 
@@ -186,7 +198,7 @@ Exemple:
 
 ⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : a lăuda, a lăuda cu voce tare, a menționa, a începe
 :::
-⟪वि⟫ "împreună, departe, des-, dis-"
+⟪वि⟫ "împreună, departe, des-, dis-" <!-- TODO: Fallback translation -->
 
 Exemple:
 
@@ -232,7 +244,7 @@ Rădăcina ⟪कृ⟫ "a face" arată, în combinație cu prefixele ⟪सम�
 Exemplu:
 
 ::: indent
-sam-kṛ 8 ⟪संस्करोति⟫ : a pregăti, a pregăti pentru jertfă, a consacra
+sam-kṛ 8 ⟪संस्करोति⟫ : a pregăti, a pregăti pentru jertfă, a consacra <!-- TODO: Fallback translation -->
 
 *   PPP ⟪संस्कृत⟫ 3: pregătit pentru jertfă ; ⟪संस्कृत⟫ n.: sanscrită: limba potrivită pentru jertfă ; opus ⟪प्राकृत⟫ 3: obișnuit, vulgar ; ⟪प्राकृत⟫ n.: limbă obișnuită, Prakrit (denumire pentru limbile vorbite și de circulație, înrudite cu sanscrita)
 :::
@@ -284,7 +296,7 @@ Fig.: ⟪उपनयनम्⟫
 
 ⟪शूर⟫ 3: curajos, eroic ; m.: erou
 
-⟪शब्द⟫ m.: sunet, ton, sunet de semnal: cuvânt
+⟪शब्द⟫ m.: sunet, ton, sunet de semnal: cuvânt <!-- TODO: Fallback translation -->
 
 ⟪उदक⟫ n.: apă
 
@@ -400,7 +412,7 @@ Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Imprimat
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1802))
 :::
-B) Traduceți folosind verbe din clasa a II-a de prezent:
+B) Traduceți folosind verbe din clasa a II-a de prezent: <!-- TODO: Fallback translation -->
 
 1\. Brahmanul laudă zeițele.
 
@@ -410,7 +422,7 @@ B) Traduceți folosind verbe din clasa a II-a de prezent:
 
 4\. Inamicii arienilor ucid pe kṣatriyas puternici.
 
-5\. Un fantomă nu mănâncă fructe.
+5\. Un fantomă nu mănâncă fructe. <!-- TODO: Fallback translation -->
 
 6\. Așa vorbește cel care [a parcurs bine calea renașterilor] către ucenic.
 
@@ -420,7 +432,7 @@ Fig.: ⟪सुगतः⟫
 ⟪गन्धार⟫ Sec. I/II d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1803))
 :::
-C) Dați în sanscrită definiția yoga în două moduri: o dată folosind un compus, o dată rezolvând compusul.
+C) Dați în sanscrită definiția yoga în două moduri: o dată folosind un compus, o dată rezolvând compusul. <!-- TODO: Fallback translation -->
 
 D) Traduceți:
 
@@ -432,7 +444,7 @@ D) Traduceți:
 
 **lekt1802:** 1770 Imprimat [Sursa imaginii: Wikipedia, Domeniu public]
 
-**lekt1803:** ⟪गन्धार⟫ Sec. I/II d.Hr. [Sursa imaginii: Wikipedia, Domeniu public]
+**lekt1803:** ⟪गन्धार⟫ Sec. I/II d.Hr. [Sursa imaginii: Wikipedia, Domeniu public] <!-- TODO: Fallback translation -->
 
 **lekt1804:** Căsătorie = ⟪विवाह⟫ m., o importantă ⟪संस्कारः⟫ [Sursa imaginii: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Accesat la 2008-12-08. -- Licență Creative Commons (Atribuire, utilizare non-comercială, fără modificări)]
 :::

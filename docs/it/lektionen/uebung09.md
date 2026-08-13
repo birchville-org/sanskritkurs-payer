@@ -20,7 +20,7 @@ A) Cercate di determinare i possibili significati delle seguenti parole:
 
 5\. jayaka ⟪जयक⟫ : 3 vittorioso
 
-6\. rakṣikā ⟪रक्षिका⟫ : f. guardiana, amuleto
+6\. rakṣikā ⟪रक्षिका⟫ : f. guardiana, amuleto &lt;!-- TODO: Fallback translation --&gt;
 
 7\. karṣaka ⟪कर्षक⟫ : 3 arando ; m. contadino
 
@@ -30,7 +30,7 @@ A) Cercate di determinare i possibili significati delle seguenti parole:
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 (appena) venuto dalla catena di orditura / dal telaio = tessuto di recente
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : ballerino
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : ballerino &lt;!-- TODO: Fallback translation --&gt;
 
 12\. naraka ⟪नरक⟫ : m. inferno
 
@@ -72,7 +72,7 @@ Insegnare, sacrificare per incarico, accettare offerte.
 
 rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 
-(sarvabhūtānām = genitivo (caso fondamentale): "di tutti gli esseri")
+(sarvabhūtānām = genitivo (caso fondamentale): "di tutti gli esseri") &lt;!-- TODO: Fallback translation --&gt;
 
 (Gautamadharmasūtra X,7)
 

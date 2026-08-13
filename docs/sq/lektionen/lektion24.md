@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 24
+# Mësimi 24
 
 ## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
 

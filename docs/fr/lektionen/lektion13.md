@@ -72,7 +72,7 @@ Exemple :
 
 À l'aide des suffixes taddhita -mant ou -vant, on forme des adjectifs possessifs à partir de noms. Leur sens est : "possédant ce qui est désigné par le nom sous-jacent".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 Exemples :
 

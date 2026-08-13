@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 61
 
@@ -34,7 +34,7 @@ Paradigma:
 ### 61.1.2. Sustantivos radicales femeninos en -ī
 
 ::: grammar-box
-**Vor vokalischer Terminación wird -ī durch -iy ersetzt.**
+**Vor vokalischer Terminación wird -ī durch -iy ersetzt.** &lt;!-- TODO: Fallback translation --&gt;
 
 **Además de las formaciones con las terminaciones casuales regulares, en el Dat.Ab.Gen.Lok.sg. y Gen.pl. también se encuentran formaciones según el modelo de femeninos polisílabos en -ī (⟪देवी⟫).**
 :::
@@ -158,7 +158,7 @@ Fig.: ⟪रथ्याप्वः⟫
 ### 61.1.6. Declinación de femeninos polisílabos en -ū
 
 ::: grammar-box
-**Los sustantivos femeninos polisílabos en -ū se declinan de manera análoga a los temas masculinos polisílabos en -ī (⟪देवी⟫), pero terminan en -s en el Nominativooo singular.**
+**Los sustantivos femeninos polisílabos en -ū se declinan de manera análoga a los temas masculinos polisílabos en -ī (⟪देवी⟫), pero terminan en -s en el Nominativoooooo singular.**
 :::
 Paradigma:
 
@@ -234,18 +234,26 @@ Paradigma:
 **El intensivo significa:**
 
 *   **que una persona o cosa hace o experimenta repetidamente lo expresado por la raíz**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "él hace una y otra vez"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "él es (se vuelve) a menudo"
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "él hace una y otra vez"
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "él es (se vuelve) a menudo"
+:::
 
 *   **que una persona o cosa realiza o experimenta intensamente lo expresado por la raíz:**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "él realiza intensamente, él realiza con eficacia"
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "él realiza intensamente, él realiza con eficacia"
+:::
 
 *   **en Raízn, que expresa un movimiento, el intensivo significa el movimiento curvado:**  
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "él va en curvaturas" (NO: "él va a menudo")
+::: indent
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "él va en curvaturas" (NO: "él va a menudo")
+:::
 
 *   **en algunos Raízn (lista: Kielhorn, Grammatik § 458b) el intensivo significa reproche:**  
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "corta mal"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "se sienta mal"
+::: indent
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "corta mal"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "se sienta mal"
+:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -283,7 +291,7 @@ Ejemplos:
 Las reglas en detalle en Kielhorn, Gramática § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Ejemplos:
+Ejemplos: &lt;!-- TODO: Fallback translation --&gt;
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -315,8 +323,8 @@ por ejemplo
     *   **Presentes pasivos: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
     *   **Perfecto: perifrástico: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
     *   **Aoristo: aoristo iṣ (Aoristo 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Futurooo: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **Futurooo perifrástico: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+    *   **Futuroooooo: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+    *   **Futuroooooo perifrástico: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
 ### 61.3.2. Intensivo de Parasmaipada
 
@@ -349,7 +357,7 @@ Imperfecto (⟪लङ्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-Imperativooo (⟪लोट्⟫):
+Imperativoooooo (⟪लोट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -358,7 +366,7 @@ Imperativooo (⟪लोट्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
-Optativooo (⟪विधिलिङ्⟫):
+Optativoooooo (⟪विधिलिङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -438,7 +446,7 @@ Observe el significado de:
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
 ⟪हरिद्वार⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6105))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt6103.webp)
@@ -655,7 +663,7 @@ Paradigmas: Kielhorn, Grammatik § 153:
 ::: media
 ![](/images/lekt6115.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6115))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt6118.webp)
@@ -671,7 +679,7 @@ Kielhorn, Grammatik § 177:
 ::: media
 ![](/images/lekt6116.jpg)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6116))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt6117.webp)

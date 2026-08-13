@@ -3,7 +3,7 @@ title: Lektion 53
 lesson_id: 53
 ---
 
-# Lektion 53
+# Leçon 53
 
 ## 53.1. Der Dual (⟪द्विवचन⟫ n.) der Nomina
 
@@ -96,7 +96,7 @@ Fig. : ⟪हस्तौ⟫
 ⟪दीर्घायुस्⟫ 3 "durable"
 
 ::: grammar-box
-|   | Masculin/Féminin :br ⟪पुंस्⟫/⟪⟪स्त्री⟫ | Neutre :br ⟪नपुंसक⟫ 
+|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
@@ -342,7 +342,7 @@ Fig. : ⟪पितापुत्रौ⟫
 :::
 ⟪कतर⟫ 3 « lequel des deux » et ⟪कतम⟫ 3 « lequel des plusieurs » se déclinent dans tous les cas comme ⟪यद्⟫.
 
-## 53.7. Pronominaladjektive
+## 53.7. Pronominaladjektive <!-- TODO: Fallback translation -->
 
 Les adjectifs pronominaux suivants se déclinent dans tous les cas comme ⟪यद्⟫ :
 
@@ -368,7 +368,7 @@ Les adjectifs pronominaux suivants se déclinent comme ⟪सर्व⟫. Au ab
 **Un certain nombre d'adjectifs forment le comparatif ou le superlatif avec les suffixes ⟪कृत्⟫ suivants (!) :**
 
 *   Comparatif : **-īyas**
-*   Superlatif : **-iṣṭha**
+*   Superlatif : **-iṣṭha** <!-- TODO: Fallback translation -->
 
 **Alors que les suffixes ⟪तद्धित⟫ -⟪तर⟫ et -⟪तम⟫ s'ajoutent au masculin de l'adjectif, les suffixes -⟪ईयस्⟫ et -⟪इष्ठ⟫ s'ajoutent à la racine dont l'adjectif est dérivé (s'il existe une telle racine !). Le voyelle de la racine est au degré plein.**
 
@@ -376,7 +376,7 @@ Les adjectifs pronominaux suivants se déclinent comme ⟪सर्व⟫. Au ab
 
 **Deklination von -īyas siehe unten.**
 :::
-Exemples :
+Exemples : <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Racine | Adjectif | Comparatif | Superlatif |
@@ -456,7 +456,7 @@ Fig. : ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 «vieux») | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 «vieux») | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Déclinaison des comparatifs en -īyas
+## 53.9. Déclinaison des comparatifs en -īyas <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Les comparatifs en -īyas forment le féminin en -īyasī (déclinaison comme ⟪देवी⟫). Le masculin et le neutre se déclinent selon le paradigme suivant.**
@@ -491,9 +491,11 @@ Voir aussi :
 Fig. : ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt5303))
 
-1.  **Esthétique :** le mètre contribue notamment à la beauté d'une affirmation. Certains mètres peuvent également servir à exprimer des états d'âme spécifiques, ou ils sont attribués à certaines castes (⟪वर्ण⟫). Les différents mètres sont récités de manière variable. :br Une bonne impression de l'effet esthétique est par exemple donnée par la récitation du ⟪शिवताण्डवस्तोत्र⟫ (louange de la danse de Śiva) : [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Esthétique :** le mètre contribue notamment à la beauté d'une affirmation. Certains mètres peuvent également servir à exprimer des états d'âme spécifiques, ou ils sont attribués à certaines castes (⟪वर्ण⟫). Les différents mètres sont récités de manière variable.
+Une bonne impression de l'effet esthétique est par exemple donnée par la récitation du ⟪शिवताण्डवस्तोत्र⟫ (louange de la danse de Śiva) : [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Payer, Alois (1944–) :** Introduction à l'exégèse des textes sanskrits : Script. -- Chap. 8 : L'exégèse proprement dite, Partie II : Sur certaines questions de compréhension synchronique. -- Annexe B : Sur la métrique des textes sanskrits. -- URL : [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
-3.  **Chronologique :** certains mètres ont connu au cours de l'histoire des évolutions spécifiques. Cela peut aider à dater approximativement un texte. Voir à ce sujet **Oldenberg, Hermann (1854–1920):** Sur l'histoire du Triṣṭhubh ; id. : Sur l'histoire du Śloka. -- Les deux sont reproduits dans : :br **Oldenberg, Hermann (1854–1920):** Petits écrits / Hermann Oldenberg. Éd. par Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fondation Glasenapp ; ...). -- Vol. 2. -- 1967. -- P. 1188 - 1255.
+3.  **Chronologique :** certains mètres ont connu au cours de l'histoire des évolutions spécifiques. Cela peut aider à dater approximativement un texte. Voir à ce sujet **Oldenberg, Hermann (1854–1920):** Sur l'histoire du Triṣṭhubh ; id. : Sur l'histoire du Śloka. -- Les deux sont reproduits dans :
+**Oldenberg, Hermann (1854–1920):** Petits écrits / Hermann Oldenberg. Éd. par Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fondation Glasenapp ; ...). -- Vol. 2. -- 1967. -- P. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -546,7 +548,7 @@ Fig. : ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर
 *   pas de visarga,
 *   ne suivent pas deux consonnes.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
 
 **Toutes les autres syllabes sont ⟪गुरु⟫ = lourdes. La dernière syllabe d'un quart de vers (⟪पाद⟫) est toujours considérée comme ⟪गुरु⟫.**
 
@@ -571,7 +573,7 @@ Répartition de ⟪लघु⟫ et ⟪गुरु⟫ :
 ::: metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. Le śloka épique (⟪श्लोक⟫ m.)
+### 53.10.4. Le śloka épique (⟪श्लोक⟫ m.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Vers mnémotechnique :**

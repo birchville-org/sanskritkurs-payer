@@ -1,9 +1,9 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: 第14课
+subtitle: "通过名词所表示之关系的表达：属格（ṣaṣṭhī f. = ⟪षष्टी⟫ = 第六格词尾）"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
 ---
 
@@ -27,14 +27,14 @@ status: stable
 ::: grammar-box
 正常语序为：
 
-> **Genetiv 的限定词 — 其他格中被限定的名词**
+> **属格的限定词——其他格中受限定的名词**
 :::
 **属格与过去分词：**
 
 ::: grammar-box
 在PPP中，属格（genetivus）可以代替工具格（tṛtīyā）来表示施事者（kartṛ）；在使用工具格的构造中，PPP被视为被动动词形式（工具格中的词表示施事者），而在使用属格的构造中，PPP被视为名词或形容词（因此属格中的词实际上不作为施事者）。
 
-根据帕尼尼 2.3.67，当派生过去分词（PPP）具有现在时意义时（见上文），其属格（Genetiv）适用；当派生过去分词（PPP）具有过去时意义时，其工具格（Instrumentalis）适用：
+Gemäß Pāṇini 2.3.67 gilt der Genitiv, wenn das abgeleitete Partizip Perfekt Passiv (PPP) eine gegenwärtige Bedeutung hat (siehe oben); der Instrumentalis gilt, wenn das PPP eine vergangene Bedeutung hat: <!-- TODO: Fallback translation -->
 
 > ⟪रामस्येष्टं⟫ ⟪फलम्⟫ “罗摩所求之果 = 罗摩此刻所求之果”
 > 
@@ -106,7 +106,7 @@ status: stable
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
 
 :::
 **疑问代词和指示代词：**
@@ -118,7 +118,7 @@ status: stable
 | **阳性 / 中性** | **属格单数** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
 | | **属格复数** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
 | **阴性** | **属格单数** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **属格复数** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| | **属格复数** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ | <!-- TODO: Fallback translation -->
 
 :::
 **形式同一性：**
@@ -168,7 +168,7 @@ status: stable
   * **vac-ana n.** (⟪वचन⟫) ：说话，话语
   * **vāk-ya n.** (⟪वाक्य⟫) ：话语，言论
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = 谚语
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = 谚语 <!-- TODO: Fallback translation -->
 
 翻译以下谚语并背诵：
 

@@ -559,7 +559,7 @@ Abb.:
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
+**Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
 ## 61.5. Der Benediktiv (⟪आशीर्लिङ्⟫)
 

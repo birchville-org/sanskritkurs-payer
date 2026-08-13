@@ -20,7 +20,7 @@ A) Încercați să determinați posibilele semnificații ale următoarelor cuvin
 
 5\. jayaka ⟪जयक⟫ : 3 victorios
 
-6\. rakṣikā ⟪रक्षिका⟫ : f. gardiană, amuletă
+6\. rakṣikā ⟪रक्षिका⟫ : f. gardiană, amuletă <!-- TODO: Fallback translation -->
 
 7\. karṣaka ⟪कर्षक⟫ : 3 arând ; m. agricultor
 
@@ -30,7 +30,7 @@ A) Încercați să determinați posibilele semnificații ale următoarelor cuvin
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 (chiar) venind din lanțul de urzeală / războiul de țesut = țesut nou
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : dansator
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : dansator <!-- TODO: Fallback translation -->
 
 12\. naraka ⟪नरक⟫ : m. iad
 
@@ -48,7 +48,7 @@ A) Încercați să determinați posibilele semnificații ale următoarelor cuvin
 
 19\. darśaka ⟪दर्शक⟫ : 3 văzând
 
-20\. kopaka ⟪कोपक⟫ : 3 cineva care se mânie ușor, irascibil
+20\. kopaka ⟪कोपक⟫ : 3 cineva care se mânie ușor, irascibil <!-- TODO: Fallback translation -->
 
 B) Traduceți:
 
@@ -72,7 +72,7 @@ Predare, sacrificare în numele, acceptarea darurilor.
 
 rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genitiv: "a tuturor ființelor")
+(sarvabhūtānām = Genitiv: "a tuturor ființelor") <!-- TODO: Fallback translation -->
 
 (Gautamadharmasūtra X,7)
 
@@ -109,4 +109,4 @@ Economia este agricultură, creșterea animalelor și comerț.
 ![](/images/uebung013.webp)
 Fig.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung013))
-:::
+::: <!-- TODO: Fallback translation -->

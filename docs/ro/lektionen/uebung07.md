@@ -166,13 +166,13 @@ Ei ascultă, totuși, pe maestri.
 
 ⟪शूद्राः⟫ ⟪स्वर्गमाप्नुवन्ति⟫ ⟪।⟫
 
-4\. Kṣatriyas onorează ca stăpâni ai jertfei zeițele cu jertfe.
+4\. Kṣatriyas onorează ca stăpâni ai jertfei zeițele cu jertfe. <!-- TODO: Fallback translation -->
 
 kṣatriyā devīr yajante.
 
 ⟪क्षत्रिया⟫ ⟪देवीर्यजन्ते⟫ ⟪।⟫
 
-5\. Femeile Vaiśya onorează divinitățile cu jertfe.
+5\. Femeile Vaiśya onorează divinitățile cu jertfe. <!-- TODO: Fallback translation -->
 
 vaiśyā devatā yajante.
 
@@ -184,7 +184,7 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Conform Kauṭilīya-arthaṣāstra 1.3.3.) Explicație: chando = Nom., Akk. sg. de la chandas n.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Conform Kauṭilīya-arthaṣāstra 1.3.3.) Explicație: chando = Nom., Akk. sg. de la chandas n.) <!-- TODO: Fallback translation -->
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
@@ -196,7 +196,7 @@ ayaṃ brāhmaṇaḥ kaṃ devaṃ yajati / yajate?
 
 ⟪अयं⟫ ⟪ब्राह्मणः⟫ ⟪कं⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
-9\. Ce mestecă acest om sfânt?
+9\. Ce mestecă acest om sfânt? <!-- TODO: Fallback translation -->
 
 ayaṃ sādhuḥ kiṃ khādati?
 
@@ -218,4 +218,4 @@ sa guruḥ. enaṃ śṛṇvanti.
 ![](/images/uebung006.jpg)
 Fig.: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (Sursa imaginii: [Detalii](/licenses#uebung006))
-:::
+::: <!-- TODO: Fallback translation -->

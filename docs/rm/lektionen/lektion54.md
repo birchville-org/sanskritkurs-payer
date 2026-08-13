@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 54
+# Lecziun 54
 
-## 54.1. Vorbemerkung
+## 54.1. Vorbemerkung <!-- TODO: Fallback translation -->
 
 Cun la lecziun 54 cumenza l'uni versitad il 2. semestral. A partir da quaivola funcziunescha il curs mo anc en in'activitad laterala dal tema principial da quest semestral: la lectura da l'intira Bhagavadgītā. L'objectiv d'apprendiment è ina talia fluidezza en la lectura d'in text da media difficultad, che en l'ultim terz dal semestral grans parts da la Bhagavadgītā pon vegnir traduids dal stadi present. A l'inizium èn en l'uni versitad anc distribuids listas da vuschas, pli tard han ils students duvrà sez dictionaris correspundents (Monier-Williams, Apte, PW).
 
@@ -20,7 +20,7 @@ Las lecziuns dal curs da Sanscrit tractan tems da la gramatica dal Sanscrit, che
 ## 54.2. Furmaziun da pleds: ⟪कृत्⟫-Suffix -u an Desiderativstämme
 
 ::: grammar-box
-**Als Desiderativstämme (⟪इच्छाप्रकृति⟫) ("vulair da far quaicosa" ; "sesser prest a far quaicosa") apparischa per la furmaziun da nomina agentis il sufix -u.**
+**Als Desiderativstämme (⟪इच्छाप्रकृति⟫) ("vulair da far quaicosa" ; "sesser prest a far quaicosa") apparischa per la furmaziun da nomina agentis il sufix -u.** <!-- TODO: Fallback translation -->
 
 (Il formaziun dals stims dal desiderativ suonda pli tard)
 
@@ -116,7 +116,7 @@ Exempl d'ina recitaziun: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](h
 ## 54.5. Tips da furmaziun da l'aorist (⟪लुङ्⟫)
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfect (⟪लङ्⟫) vorgesetzt wird.**
+**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfect (⟪लङ्⟫) vorgesetzt wird.** <!-- TODO: Fallback translation -->
 
 Dal aorist è en sanscrit mo indiciu e precativ usitads.
 :::
@@ -131,7 +131,7 @@ Dal aorist è en sanscrit mo indiciu e precativ usitads.
     *   54.4. -s-Aorist: Augment + Radis + **s** \+ Sekundärendung
     *   54.5. -iṣ-Aorist: Augment + Radis + **i** + **ṣ** + Sekundärendung
     *   54.6. -siṣ-Aorist: Augment + Radis + **siṣ** + Sekundärendung
-    *   54.7. -sa-Aorist: Augment + Radis + **s** + **a** + Sekundärendung
+    *   54.7. -sa-Aorist: Augment + Radis + **s** + **a** + Sekundärendung <!-- TODO: Fallback translation -->
 
 La distribuziun dals radichals sin ils singuls tipus da furmaziun vesair tar ils singuls tipus
 :::
@@ -155,7 +155,7 @@ Esempel:
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
 :::
-Il tempus aorist da la radis vegn format mo da 12 radis:
+Il tempus aorist da la radis vegn format mo da 12 radis: <!-- TODO: Fallback translation -->
 
 1.  ⟪गा⟫ 3 "ir"
 2.  ⟪घ्रा⟫ 1P "mirar"
@@ -179,7 +179,7 @@ A ⟪भू⟫ 1P vegn il aorist da la radis uschia furmà:
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | *:sig[⟪अभूवन्⟫]* (!!!) |
 :::
-### 54.6.1. Der Aorist der 3.sg.Passiv
+### 54.6.1. L'aorist da la 3.sg. passiv
 
 Ina furma speziala dal aorist da la radis è l’aorist dal passiv 3.sg. Questu po vegnir format da tuttas radis.
 
@@ -213,7 +213,7 @@ ma:
 
 *   radis che finischan cun -am  
 Esempel:  
-⟪गम्⟫ ⟪अगामि⟫
+⟪गम्⟫ ⟪अगामि⟫ <!-- TODO: Fallback translation -->
 
 Aggiunta di y prima da la desinenza:
 

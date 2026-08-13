@@ -283,7 +283,7 @@ Para os demais advérbios numerais até 19, veja, por exemplo, em Kielhorn, Gram
 Exemplos:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f.
 :::
 
@@ -295,7 +295,7 @@ Exemplos:
 Exemplos:
 
 ::: indent
-100 ⟪शत⟫ n.:br
+100 ⟪शत⟫ n.
 1000 ⟪सहस्र⟫ n.
 :::
 Para os substantivos numerais individuais, veja p. ex. em Kielhorn, Grammatik §201.
@@ -380,7 +380,7 @@ Portanto, por exemplo, de ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "
 Fig.: ⟪सप्तर्षयः⟫
 As Sete Estrelas = as sete estrelas mais brilhantes da Ursa Maior
 (Fonte da imagem: [Detalhes](/licenses#lekt5206))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Regra 2: Em desvio da Regra 1, uma palavra que designa uma direção cardeal ou um numeral cardinal pode formar um Tatpuruṣa com outro nome se**
@@ -597,7 +597,7 @@ Fig.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: bananeira (_Musa_ sp.)
+⟪कदली⟫ f.: bananeira (_Musa_ sp.) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -693,7 +693,7 @@ Explicações:
 Fig.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
 _Ficus religiosa_ L. ⟪बोधगया⟫, c. 1810
 (Fonte da imagem: [Detalhes](/licenses#lekt5216))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
@@ -776,7 +776,7 @@ Mahābhārata : O grande épico da Índia / traduzido e resumido do sânscrito p
 Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Imagem: Payer)
 (Fonte da imagem: [Details](/licenses#lekt5201))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

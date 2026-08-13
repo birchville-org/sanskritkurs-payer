@@ -116,3 +116,5 @@ When an official release tag (e.g. `v1.6.5`) is pushed:
 | **2026-08-11** | **AI Infrastructure** | Provisioned Ollama (`nomic-embed-text`, `qwen2.5:7b`) on Nataraja. | Offloaded embeddings & secondary checks from `nyx.local:8000`. |
 | **2026-08-11** | **Backup System** | Activated automated TM Cache Vault archiving on Nataraja. | Guaranteed 100% recovery safety for translation memory files. |
 | **2026-08-11** | **Pipeline Logic** | Configured `generate_report.py` priority queue sequence (`EN` ➔ `BG`). | Enforced exact Weg B sequence override requested by user. |
+| **2026-08-12** | **Semantic AI Search** | Integrated `PayerSemanticSearch.vue` frontend component & pre-compiled vector index (`docs/public/vector_index.json`). | Enables instant, 100% client-side semantic vector search in browser without server dependencies. |
+

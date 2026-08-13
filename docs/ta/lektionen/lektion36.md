@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # பாடம் 36
 
@@ -63,7 +63,7 @@ status: stable
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ மற்றும் ⟪भू⟫ ஆகியவை ஆத்மனைபத வினைச்சொற்களில் பரமஸ்பதத்தில் அமைக்கப்படுகின்றன.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 உதாரணங்கள்:
 

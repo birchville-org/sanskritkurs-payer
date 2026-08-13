@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 56
+# Lectio 56
 
 ## 56.1. Aoristus reduplicatus
 
@@ -22,7 +22,7 @@ status: stable
 
 **-ā finale -ā (für -e) fällt ab.**
 :::
-Paradigma:
+Paradigma: <!-- TODO: Fallback translation -->
 
 ⟪श्रि⟫ 1U "adire, inniti"
 
@@ -54,22 +54,30 @@ Syllaba radicalis:
 **Vocalis huius dictae syllabae radicalem in aoristo determinatur secundum sequentes regulas:**
 
 *   **\-ā- ante consonantem simplicem per -a- substituitur:**
-    ⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫  
-    ⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫  
-    :sig[⟪नी⟫] 1U: Caus. **:sig[⟪नाय⟫]**⟪यति⟫, Aor. ⟪अनी⟫**:sig[⟪नय⟫]**⟪त्⟫  
-    ⟪ज्ञा⟫ 9U: Caus. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫
+::: indent
+⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫
+⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫
+:sig[⟪नी⟫] 1U: Caus. **:sig[⟪नाय⟫]**⟪यति⟫, Aor. ⟪अनी⟫**:sig[⟪नय⟫]**⟪त्⟫
+⟪ज्ञा⟫ 9U: Caus. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫
+:::
 
 *   **\-ī-, -e-, -ai- ante consonantem simplicem per -i- substituitur:**
-    ⟪चित्⟫ 1P: Caus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫
+::: indent
+⟪चित्⟫ 1P: Caus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫
+:::
 
 *   **-u-, -o-, -au- ante consonantem simplicem per -u- substituitur:**
-    ⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
+::: indent
+⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
+:::
 
 **Quibusdam radicibus mutationes praedictae vel optativae sunt vel omittendae:**
 
 *   **post consonantem ultimam syllabae radicalis immediate praecedens, pro ṛ, ṝ, ḷ substitutum ar, ār, īr, al vel immutatum relinqui potest vel per ṛ sive ḷ substitui:**
-    ⟪कॢप्⟩ 1Ā: Caus. ***⟪कल्प⟩***⟪यति⟩, Aor. ⟪अच⟩***⟪कल्प⟩***⟪त्⟩ / ⟪अची⟩***⟪कॢ⟩***⟪पत्⟩  
-    ⟪कृष्⟩ 1P/6U: Caus. ***⟪कर्ष⟩***⟪यति⟩, Aor. ⟪अच⟩***⟪कर्ष⟩***⟪त्⟩ / ⟪अची⟩***⟪कृ⟩***⟪षत्⟩
+::: indent
+⟪कॢप्⟩ 1Ā: Caus. ***⟪कल्प⟩***⟪यति⟩, Aor. ⟪अच⟩***⟪कल्प⟩***⟪त्⟩ / ⟪अची⟩***⟪कॢ⟩***⟪पत्⟩
+⟪कृष्⟩ 1P/6U: Caus. ***⟪कर्ष⟩***⟪यति⟩, Aor. ⟪अच⟩***⟪कर्ष⟩***⟪त्⟩ / ⟪अची⟩***⟪कृ⟩***⟪षत्⟩
+:::
 :::
 Vocalis syllabae reduplicativae:
 
@@ -85,14 +93,18 @@ Postquam regulae modo dictae ad syllabam radicalem applicatae sunt, sequentes re
 **Haec vocalis reduplicativa subicitur his mutationibus:**
 
 *   **i, u per ī, ū substituitur, si syllaba radicalis uno tantum consonante incipit et metrico brevi est:**
-    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
+::: indent
+⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
+⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
+:::
 
 *   **a mutatur in ī, si syllaba radicalis metricum brevem habet et uno tantum consonante incipit. Si syllaba radicalis metricum brevem habet et pluribus quam uno consonantibus incipit, a syllabae reduplicationis in i mutatur. Si syllaba radicalis metricum longum habet, a manet:**
-    ⟪नी⟩ 1U: Caus. ⟪नाययति⟩, syllaba radicalis Aoristi ⟪नय्⟩, Aor. ⟪अ⟩***⟪नी⟩***⟪नयत्⟩  
-    ⟪कृ⟩ 8U: Caus. ⟪कारयति⟩, syllaba radicalis Aoristi ⟪कर्⟩, Aor. ⟪अ⟩***⟪ची⟩***⟪करत्⟩  
-    ⟪त्यज्⟩ 1P: Caus. ⟪त्याजयति⟩, syllaba radicalis Aoristi ⟪त्यज्⟩, Aor. ⟪अ⟩***⟪ति⟩***⟪त्यजत्⟩  
-    ⟪भू⟩ 1P: Caus. ⟪भावयति⟩, syllaba radicalis Aoristi ⟪भव्⟩, Aor. ⟪अ⟩***⟪बी⟩***⟪भवत्⟩
+::: indent
+⟪नी⟩ 1U: Caus. ⟪नाययति⟩, syllaba radicalis Aoristi ⟪नय्⟩, Aor. ⟪अ⟩***⟪नी⟩***⟪नयत्⟩
+⟪कृ⟩ 8U: Caus. ⟪कारयति⟩, syllaba radicalis Aoristi ⟪कर्⟩, Aor. ⟪अ⟩***⟪ची⟩***⟪करत्⟩
+⟪त्यज्⟩ 1P: Caus. ⟪त्याजयति⟩, syllaba radicalis Aoristi ⟪त्यज्⟩, Aor. ⟪अ⟩***⟪ति⟩***⟪त्यजत्⟩
+⟪भू⟩ 1P: Caus. ⟪भावयति⟩, syllaba radicalis Aoristi ⟪भव्⟩, Aor. ⟪अ⟩***⟪बी⟩***⟪भवत्⟩
+:::
 
 Particularia radicum quaedam apud Kielhorn, Grammatik § 435c seq.
 
@@ -198,7 +210,7 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 Abb.: ⟪अलं⟫  ⟪विषादेन⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫
+## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪स्म⟫ eminet: "vere, quidem, certe, ipsum"**

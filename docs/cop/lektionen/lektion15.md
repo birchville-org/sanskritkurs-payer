@@ -61,7 +61,7 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "ⲛⲓⲣⲙ ⲛⲧⲉ ϯϥⲟⲩⲱϫ ⲛⲉⲙⲣⲟⲩⲧ"
 
-⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "ⲡⲓϣⲟⲡ ⲛⲧⲉ ϯϥⲙⲏⲣ ⲛⲧⲉ ϯϥⲙⲏⲣ ⲛⲧⲉ ϯϥⲙⲏⲣ ⲛⲧⲉ ϯ <!-- TODO: Fallback translation -->
+⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "ⲡⲓϣⲟⲡ ⲛⲧⲉ ϯϥⲙⲏⲣ ⲛⲧⲉ ϯϥⲙⲏⲣ ⲛⲧⲉ ϯϥⲙⲏⲣ ⲛⲧⲉ ϯ
 
 ::: media
 ![](/images/lekt1501.webp)
@@ -75,22 +75,26 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   ὁποῖον Καραμαθαράια ἀναφορὰν ἐκφώνει, τότε τίς ἐστιν ὁ συγκρινόμενος ἐν τῷ ὀπίσω μέλει τοῦ συνθέτου:
 
+::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ἄνθρωπος ὡς λέων"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ἄνθρωπος ὡς τίγρις"
+:::
 
 *   ἐὰν δὲ Καραμαθαράια ἀπόδοσιν (ἐπεξήγησιν τοῦ ὀπίσω μέλους διὰ οὐσιαστικοῦ) ἐκφώνῃ, τότε τίς ἐστιν ὁ ἐπεξηγούμενος ἐν τῷ προτέρω μέλει, ὡς καὶ ἡ κοινὴ κανὼν τῆς τάξεως τῶν μερῶν ἐν Τάτοπουρούσα ἀπαιτεῖ:
 
+::: indent
 ⟪नरसिंहः⟫ ϩⲛⲟⲩⲱϥ ⲁⲝⲡⲗⲟⲣⲏ: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "ⲛⲟⲩϣ ⲉⲧⲃⲏ ϫⲓⲛⲁϣ ⲉⲧⲙⲡⲟⲓ."
+:::
 
 ⲡⲓϧⲁρⲃ ϯⲛ ⲟⲩⲙϫⲱⲣ ϧⲉ⟪एव⟫ ⲛϣⱧⲟⲡ ϩⲙ ⲁⲕϥ.
 
 :::
 ::: media
 ![](/images/lekt1503.webp)
-ⲁⲃⲅ.: ⟪नरसिंहः⟫
-(ⲙⲉⲧⲟⲩϫⲱⲣ ⲛⲧⲉ ϯϥⲙⲁⲣⲓ: [ⲇⲉⲧⲁⲗϫ](/licenses#lekt1503))
+abv.: ⟪नरसिंहः⟫
+(metoutjour nté tmari: [detalj](/licenses#lekt1503))
 :::
-## 15.4. ⲧⲁⲧⲡⲟⲩⲣⲟⲥ ⲛⲁϧ ⲡⲓⲙⲟⲩⲛⲉϥ ⲡⲓⲕⲟⲩⲱϫⲉ ⲡⲓⲛⲁⲕ ⲙⲉⲧⲟϫⲱⲣ ⲛⲁϧ ⲡⲓⲕⲟⲩⲱϫⲉ ⲙⲛ ϯⲥⲁⲡϫⲉ ⲙⲛ ϯⲥⲁⲡϫⲉ ⲙⲛ <!-- TODO: Fallback translation -->
+## 15.4. tatpouros nah pimounef pikouwhe pinak metohour nah pikouwhe mn tsephe mn tsephe mn
 
 ::: grammar-box
 
@@ -110,13 +114,13 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 ⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "ⲡ̄ϣⲟⲛ ⲧⲱⲛ, ϯⲙⲏϥ"
 
-Fast jedes Genetivverhältnis kann durch ein Tatpuruṣa ersetzt werden. Die Wenigen Ausnahmen siehe z.B. bei Kale, A higher Sanskrit grammar § 211, dort auch die entsprechenden Stellen bei Pāṇini. <!-- TODO: Fallback translation -->
+ⲁⲛϥⲓⲧⲉ ϫⲟⲡ ⲛϣⲏⲙⲓ ϫⲉ ⲡⲓϧⲏⲛⲟⲩⲥ ⲡⲉϯ ϧⲛⲟⲩⲱϥ ⲉⲃⲟⲗ ϫⲓⲛϣ ⲡⲁⲧⲡⲟⲩⲣⲟⲥ. ⲛϫⲓⲱϥ ϯⲙⲉⲧⲣⲟⲩϥ ⲛⲁϥⲧⲉ ϫⲓⲱϥ ⲛⲁⲕⲁⲗ, ϯⲙⲉⲧϣⲏⲙⲓ ⲛⲁⲕⲉϥⲧⲱⲙ ⲡⲓⲛⲁϥⲧⲉ ϫⲉ 211, ⲡⲓϯ ⲛⲁⲕⲉϥⲧⲱⲙ ⲛⲁⲡⲁⲛϫⲓ.
 
 Das Vorderglied eines Tatpuruṣa kann aber prinzipiell jeden Kasus vertreten. Allerdings können nicht alle syntaktisch möglichen Kasusverhältnisse durch ein Tatpuruṣa ersetzt werden. Die entsprechenden regeln findet man im Zweifelsfall bei Kale, A higher Sanskrit grammar § 203 - 217 bzw. Pāṇini 2,1,22 - 2,2,22.
 
 ::: grammar-box
 
-ⲡⲓⲛϥⲟⲧ ϫⲉ ⲡⲓⲛϣⲟⲙⲧ ϩⲛ ⲡⲓⲛϣⲟⲙⲧ ϫⲉ ⲡⲓϣⲟⲙⲧ. ⲛⲁⲕ ϫⲉ ⲡⲓϣⲟⲙⲧ. <!-- TODO: Fallback translation -->
+ⲡⲓⲛϥⲟⲧ ϫⲉ ⲡⲓⲛϣⲟⲙⲧ ϩⲛ ⲡⲓⲛϣⲟⲙⲧ ϫⲉ ⲡⲓϣⲟⲙⲧ. ⲛⲁⲕ ϫⲉ ⲡⲓϣⲟⲙⲧ.
 
 :::
 ⲡⲓϣⲟⲙⲧ:
@@ -136,7 +140,7 @@ Le ϭⲁϥ ⲛⲧⲉ ⲡⲓⲙⲟϥ ϫⲱⲛ ⲡⲓⲙⲉϥⲧⲃⲏ ⲛⲁⲕ (
 ## 15.5. Zerlegung von Komposita (außer Dvandvas)
 
 ::: grammar-box
-Obwohl im Sanskrit Komposita beliebiger Länge gebildet werden können und auch sehr häufig gebildet werden (Komposita aus 10 bis 30 Gliedern sind keine Seltenheit!), so sind doch - mit Ausnahme der Dvandvas - alle Komposita fortschreitend hierarchisch in je zwei Teile zu zerlegen: <!-- TODO: Fallback translation -->
+Ἐπείπερ ἐν τῷ Σανσ୍କρίτῳ σύνθετα πᾶς ὁποιοῦν μήκος δύναται σχηματίζεσθαι καὶ συχνοτάτα σχηματίζεται (μὴ ἀσυνήθως εἶναι σύνθετα ἐκ δέκα ἕως τριάκοντα μερῶν!), πλὴν Δβανδβά, πάντα τὰ σύνθετα προοδευτικῶς ἱεραρχικῶς εἰς δύο μέρη διαιρετέον ἐστίν:
 
 :::
 ::: media
@@ -170,7 +174,7 @@ z.B.
 
 ⲥⲧⲁϫ: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
 
-= "ⲡⲓϧⲱⲙ ⲛⲁⲃⲣⲉⲙⲏⲛ, ⲕϧⲥⲁⲧⲣⲩⲟⲛ ⲉⲑ ⲱⲓϫⲏⲥ"
+= "ⲡⲓϧⱦⱫⲙ ⲛⲁⲃⲣⲉⲙⱫⲛ, ⲕϧⲥⲁⲣⲣⱫⲛ ⲉⲑ ⱡⲓϫⱫⲥ"
 :::
 Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen. <!-- TODO: Fallback translation -->
 
@@ -195,7 +199,7 @@ z.B.
 ## 15.6. ⲧⲙⲟⲣϫⲏ ϛ̀ⲉ ⲧⲡⲣⲟϫⲏ ϛ̀ⲙ ⲙⲉⲩ ϩϫⲓ ⲛⲓϣⱧⲟⲡ
 ::: grammar-box
 
-In allen Arten von Komposita ist das Vorderglied in der Regel der unveränderte Wortstamm. Zweistämmige Nomina stehen im schwachen Stamm. Feminine Adjektive, die ein folgendes Glied im Kompositum näher bestimmen, stehen im Allgemeinen in maskulinen Stamm: <!-- TODO: Fallback translation -->
+ⲛⲉϥⲙⲁⲕ ϩⲓⲛ ⲡϣⲟⲡⲉⲙ ϩⲛ ⲧϣⲱⲡⲓ, ⲉⲃⲟⲗ ϩⲛ ⲡϣⲟⲡⲉⲙ ϩⲛ ⲧϣⲱⲡⲓ. ⲛⲉϥⲙⲁⲕ ϩⲓⲛ ⲡϣⲟⲡⲉⲙ ϩⲛ ⲧϣⲱⲡⲓ, ⲉⲃⲟⲗ ϩⲛ ⲡϣⲟⲡⲉⲙ ϩⲛ ⲧϣⲱⲡⲓ.
 
 z.B.
 
@@ -261,13 +265,13 @@ Fig.: ⟪पूजा⟫
 :::
 ⟪कुल⟫ n.: herd, multitude, caste, lineage, family
 
-⟪इन्द्र⟫ m.: prince, first, best among ; king of gods Indra
+⟪इन्द्र⟫ ⲛⲓⲧⲙⲉⲑⲁϫ: ⲛⲓⲕⲱⲥⲙⲁ, ⲛⲓⲕⲱϣⲧ, ⲛⲓⲃⲉⲕϣ ϯⲥⲁⲛⲧ; ⲛⲓⲕⲱϣⲧ ϯⲥⲁⲛⲧ ⲓⲛϣⲉⲟⲩ
 ::: media
 ![](/images/lekt1505.webp)
-Fig.: ⟪इन्द्रः⟫
-(Image source: [Details](/licenses#lekt1505))
+ⲫⲓⲝ: ⟪इन्द्रः⟫
+(ⲛⲓⲕⲱϣⲧ ϯⲥⲁⲛⲧ: [Ⲛⲓϫⲟⲩⲃ](/licenses#lekt1505))
 :::
-⟪दास⟫ m.: slave, serf, servant
+⟪दास⟫ ⲛⲓⲧⲙⲉⲑⲁϫ: ⲛⲓⲕⲱϣⲧ, ⲛⲓⲕⲱϣⲧ ϯⲥⲁⲛⲧ
 
 ⟪दासी⟫ f.: slave woman, serf, female servant
 
@@ -277,7 +281,7 @@ Fig.: ⟪इन्द्रः⟫
 
 ⟪पुरुष⟫ m.: ⲛⲓϩⲱⲙ, ⲛⲁⲕ, ϣϩ
 
-\-⟪जन⟫ ⲛⲧϣ ϩⲓⲥϯⲙ ⲛⲧⲁⲡⲟ ϩⲉϥ ⲛⲧⲁⲡⲟ ϩⲓϫⲉ ⲛⲧⲁⲡⲟ ϩⲓϫⲉ ⲛⲧⲁⲡⲟ ϩⲓϫⲉ ⲛⲧⲁ <!-- TODO: Fallback translation -->
+\-⟪जन⟫ ⲛⲧϣ ϩⲓⲥϯⲙ ⲛⲧⲁⲡⲟ ϩⲉϥ ⲛⲧⲁⲡⲟ ϩⲓϫⲉ ⲛⲧⲁⲡⲟ ϩⲓϫⲉ ⲛⲧⲁⲡⲟ ϩⲓϫⲉ ⲛⲧⲁ
 
 ⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loben, preisen
 
@@ -327,7 +331,7 @@ Abb.: ⟪व्याघ्रः⟫
 :::
 ## 15.9. ⲙⲁⲑⲏⲙⲁ 1
 
-Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine deutsche Übersetzung. Geben Sie jeweils alle Auflösungen und Übersetzungen, die Ihnen möglich erscheinen. Geben Sie auch an, um welchen Kasus und welche Zahl es sich beim Gesamtkompositum handelt. <!-- TODO: Fallback translation -->
+ⲡⲓⲥϫⲉⲙ ϯⲛⲁⲓ ⲡⲓϣⲟⲡⲧⲛⲉ ⲛⲁⲓⲥⲧⲡⲟⲩⲣⲟ ⲛϯⲥⲁⲛⲕⲣⲓⲧ ⲙⲡⲛⲟϥ ϯⲛⲁⲓ ⲡⲓⲙⲉϥⲧⲟⲩⲣ ⲛⲁⲓϫⲉⲙ. ⲡⲓⲥϫⲉⲙ ϯⲛⲁⲓ ⲡⲓϣⲟⲡⲧⲛⲉ ⲛⲁⲓⲥⲧⲡⲟⲩⲣⲟ ⲛϯⲥⲁⲛⲕⲣⲓⲧ ⲙⲡⲛⲟϥ ϯⲛⲁⲓ ⲡⲓⲙⲉϥⲧⲟⲩⲣ ⲛⲁⲓϫⲉⲙ. ⲡⲓⲥϫⲉⲙ ϯⲛⲁⲓ ⲡⲓϣⲟⲡⲧⲛⲉ ⲛⲁⲓⲥⲧⲡⲟⲩⲣⲟ ⲛϯⲥⲁⲛⲕⲣⲓⲧ ⲙⲡⲛⲟϥ ϯⲛⲁⲓ ⲡⲓⲙⲉϥⲧⲟⲩⲣ ⲛⲁⲓϫⲉⲙ.
 
 ⟪१⟫. ⟪देवेन्द्रस्य⟫
 

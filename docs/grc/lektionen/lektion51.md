@@ -494,7 +494,7 @@ Fig.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Image source: [Details](/grc/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: ἄγριος, ἀνθρωποκτόνος
+⟪क्रूर⟫ 3: ἄγριος, ἀνθρωποκτόνος <!-- TODO: Fallback translation -->
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : ἐγχρίω
 
@@ -616,11 +616,11 @@ PPP ⟪खात⟫
 
 **lekt5105:** [Πηγή εικόνας: Βικιπαίδεια, δημόσιος τομέας]
 
-**lekt5107:** ⟪ऋषिकेश⟫ [Πηγή εικόνας: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, share alike)]
+**lekt5107:** ⟪ऋषिकेश⟫ [Πηγή εικόνας: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt5108:** Kolkata = কলকাতা [Πηγή εικόνας: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, share alike)]
+**lekt5108:** Kolkata = কলকাতা [Πηγή εικόνας: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt5109:** City Palace, ⟪उदयपुर⟫ [Πηγή εικόνας: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, share alike)]
+**lekt5109:** City Palace, ⟪उदयपुर⟫ [Πηγή εικόνας: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt5110:** Θήρα με ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Γκουτζαράτ = ગુજરાત, 1812 [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
 
@@ -628,7 +628,7 @@ PPP ⟪खात⟫
 
 **lekt5112:** Βράχμα-Κοί (_Athene brama_), Μαχεσάνα = મહેસાણા [Πηγή εικόνας: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
 
-**lekt5113:** Καρνάτακα = ಕರ್ನಾಟಕ [Πηγή εικόνας: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Αναφορά, μη εμπορική χρήση)]
+**lekt5113:** Καρνάτακα = ಕರ್ನಾಟಕ [Πηγή εικόνας: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Αναφορά, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 **lekt5114:** ⟪जोधपुर⟫
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 51. lecke
+# 51. lecke <!-- TODO: Fallback translation -->
 
 ## 51.1. ⟪उपपद⟫-összetétek
 
@@ -17,7 +17,7 @@ status: stable
 * **-a**
 * **-t**
 
-**képzett. Azok az agensi főnevek, azaz egy olyan agenset jelölnek (⟪कर्तृ⟫), aki elvégzi az alapvető gyökér által jelölt cselekvést.**
+**képzett. Azok az agensi főnevek, azaz egy olyan agenset jelölnek (⟪कर्तृ⟫), aki elvégzi az alapvető gyökér által jelölt cselekvést.** <!-- TODO: Fallback translation -->
 
 **Ilyen összetételeket a bennszülött kommentátorok nem főnévi kombinációkkal, hanem igeképzetekkel oldják fel:**
 
@@ -36,7 +36,7 @@ a) ⟪कृत्⟫-képző \-Ø
 ::: indent
 \-⟪नी⟫ 3 "vezető" pl. ⟪सेनानी⟫ m. "hadvezér" (⟪सेना⟫ f. "sereg")
 
-\-⟪भुज्⟫ 3 "élvező, evő" pl. ⟪भूमिभुज्⟫ m. "király" (⟪भूमि⟫ f. "föld")
+\-⟪भुज्⟫ 3 "élvező, evő" pl. ⟪भूमिभुज्⟫ m. "király" (⟪भूमि⟫ f. "föld") <!-- TODO: Fallback translation -->
 
 \-⟪विद्⟫ 3 „tudó“ pl. ⟪धर्मविद्⟫  3 „a dharmát ismerve“
 :::
@@ -46,7 +46,7 @@ a) ⟪कृत्⟫-képző \-Ø
 ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008)
 (Képmeghatározás: [Részletek](/hu/licenses#lekt5101))
 :::
-b) ⟪कृत्⟫-képző -t
+b) ⟪कृत्⟫-képző -t <!-- TODO: Fallback translation -->
 
 ::: indent
 \-⟪कृत्⟫ 3 „cselekvő“ pl.
@@ -71,10 +71,10 @@ b) ⟪कृत्⟫-képző -t
 ⟪भरतपुर⟫, ⟪राजस्थान⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5103))
 :::
-c) ⟪कृत्⟫-képző -a
+c) ⟪कृत्⟫-képző -a <!-- TODO: Fallback translation -->
 
 ::: indent
-\-⟪ग⟫ 3 „haladó (ben, felé)“ (valószínűleg a gā gyöktől, mély fok: g + a) pl. ⟪खग⟫ 3 „repülő“ m. „madár, vándorló bolygó“ (⟪ख⟩ n. „lyuk, 'légtér'“)
+\-⟪ग⟫ 3 „haladó (ben, felé)“ (valószínűleg a gā gyöktől, mély fok: g + a) pl. ⟪खग⟫ 3 „repülő“ m. „madár, vándorló bolygó“ (⟪ख⟩ n. „lyuk, 'légtér'“) <!-- TODO: Fallback translation -->
 
 \-⟪घ्न⟫ 3 „megölő“ pl. ⟪कुलघ⟫ 3 „család(ok) megölő“
 
@@ -86,7 +86,7 @@ c) ⟪कृत्⟫-képző -a
 
 \-⟪प⟫ 3 "ivó" (p-a) pl. ⟪द्विप⟫ m. "elefánt (kétszer ivó)"
 
-\-⟪प⟫ 3 „védő“ (p-a) pl. ⟪भूप⟫ „a földet védő = király“
+\-⟪प⟫ 3 „védő“ (p-a) pl. ⟪भूप⟫ „a földet védő = király“ <!-- TODO: Fallback translation -->
 
 \-⟪स्थ⟫ 3 „valamiben álló, valamiben lévő“ (sth-a) pl. ⟪गृहस्थ⟩ m. „háztartó, házigazda“
 
@@ -162,7 +162,7 @@ Teljes paradigmák Kielhorn, Grammatik 16. oldaltól
 * **a szó végi -c és -j helyett k kerül, majd a tővel úgy bánnak, mintha -k-ra végződne**
 * **néhány szóban (listát lásd Kielhorn, Grammatik S. 18) a szó végi -j helyett -ṭ kerül**
 * **a szó végi -ch helyett -ṭ kerül**
-* **a szó végi -ś és -ṣ helyett – néhány kivétellel – -ṭ kerül. A kivételes esetekben a -ś és -ṣ helyett -k kerül**
+* **a szó végi -ś és -ṣ helyett – néhány kivétellel – -ṭ kerül. A kivételes esetekben a -ś és -ṣ helyett -k kerül** <!-- TODO: Fallback translation -->
 
 **azt jelenti, hogy**
 
@@ -189,7 +189,7 @@ Név/Vok. ⟪सत्यवाक्⟫
 Tárgyeset. ⟪सत्यवाचम्⟫
 Eszközös. ⟪सत्यवाचा⟫
 :::
-Többes szám:
+Többes szám: <!-- TODO: Fallback translation -->
 
 ::: indent
 Utas. ⟪सत्यवाग्भिस्⟫
@@ -241,7 +241,7 @@ Eset:
 alanyeset (nominativus)/megszólító eset (vocativus) ⟪परिव्राट्⟫
 Akkusatív ⟪परिव्राजम्⟫
 :::
-Többes szám:
+Többes szám: <!-- TODO: Fallback translation -->
 
 ::: indent
 eszközhatározó eset (instrumentalis) ⟪परिव्राड्भिस्⟫
@@ -261,9 +261,9 @@ lokativus ⟪परिव्राट्सु⟫
 **A többi végződés előtt**
 * **általában a -h helyett -ḍh szerepel**
 * **ha az alapul szolgáló tő d-vel végződik, a -h helyett -gh szerepel. Ugyanez áll fenn néhány más szó esetében is, választás szerint vagy kötelezően (Kielhorn: Grammatik §80,2)**
-* **(a tőnév végén a -h helyett -dh szerepel)**
+* **(a tőnév végén a -h helyett -dh szerepel)** <!-- TODO: Fallback translation -->
 
-**Ezeket a helyettesítéseket követően a tő tovább kezelendő, mintha -ḍh-val, -gh-val vagy -dh-val végződne.**
+**Ezeket a helyettesítéseket követően a tő tovább kezelendő, mintha -ḍh-val, -gh-val vagy -dh-val végződne.** <!-- TODO: Fallback translation -->
 
 **Lásd a táblázatokat Kielhorn: Grammatik, 20. o.**
 :::
@@ -301,7 +301,7 @@ Esetek:
 alanyeset (nominativus)/megszólító eset (vocativus) ⟪ध्रुट्⟫ ⟪।⟫ ⟪ध्रुक्⟫
 Akkusatív ⟪द्रुहम्⟫
 :::
-Többes szám:
+Többes szám: <!-- TODO: Fallback translation -->
 
 ::: indent
 eszközhatározó eset (instrumentalis) ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
@@ -310,7 +310,7 @@ Lokalis ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ## 51.3. Az h- hangzóval kezdődő szavak sandhija
 
 ::: grammar-box
-**Ha- szókezdő hang előtt a megelőző zárhangot a megfelelő hangzó nem aspirált változat helyettesíti, és a szókezdő ha- a megfelelő hangzó aspirált változattá alakul:**
+**Ha- szókezdő hang előtt a megelőző zárhangot a megfelelő hangzó nem aspirált változat helyettesíti, és a szókezdő ha- a megfelelő hangzó aspirált változattá alakul:** <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -323,7 +323,7 @@ Lokalis ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ## 51.4. A szókezdő ch- sandhija
 
 ::: grammar-box
-**A rövid magánhangzó, a ⟪मा⟫ "nem" és a ⟪आ⟫ "túl" után az anlautos ch- cch-vá alakul:**
+**A rövid magánhangzó, a ⟪मा⟫ "nem" és a ⟪आ⟫ "túl" után az anlautos ch- cch-vá alakul:** <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -351,11 +351,11 @@ pl. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 :::
 ⟪अतिथि⟫ m.: vendég
 
-⟪अभ्यन्तर⟫ 3: belül található, legközelebbi; m. a legközelebbi tag, bennszülött
+⟪अभ्यन्तर⟫ 3: belül található, legközelebbi; m. a legközelebbi tag, bennszülött <!-- TODO: Fallback translation -->
 
 ⟪अरण्य⟫ n.: vadon, erdő
 
-⟪ऋतु⟫ m.: ciklikus folyamat, évszak, időszaki szakasz, menstruáció, az a időszak, amikor a nő fogamzóképes és joga van férje közösüléséhez.
+⟪ऋतु⟫ m.: ciklikus folyamat, évszak, időszaki szakasz, menstruáció, az a időszak, amikor a nő fogamzóképes és joga van férje közösüléséhez. <!-- TODO: Fallback translation -->
 
 ::: note-box
 A ⟪ऋतु⟫ vonatkozásában lásd Manu III, 45-48: ezek szerint a ⟪ऋतु⟫ 16 napig tart (az alternatív fordítás szerint: 20 nap) a menstruáció kezdetétől számítva, az első négy napon tilos a közösülés (az alternatív fordítás szerint: az első nyolc (4 + 4) napon), továbbá a 11. (illetve 15.) és 13. (illetve 18.) napon. Páros napokon a fiúkat, páratlan napokon a lányokat fogamzza meg a nő. A továbbiakban egy összesen 16 napos ⟪ऋतु⟫-t feltételezünk (nem az alternatív fordítást), ahogy a legtöbb belföldi kommentár is teszi, ami tehát a domináns nézet volt.
@@ -420,7 +420,7 @@ Perfektum ⟪जगर्हे⟫
 Jövő időum ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
 :::
-⟪पिशित⟫ n.: (felkészített) hús
+⟪पिशित⟫ n.: (felkészített) hús <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5108.webp)
@@ -466,7 +466,7 @@ _Canis aureus_, Kalatop Khajjiar Sanctuary
 Brahma- bagoly (_Athene brama_), Mahesana = મહેસાણા
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: madár
+⟪शकुनि⟫ m.: madár <!-- TODO: Fallback translation -->
 
 ⟪श्वन्⟫ m.: kutya
 
@@ -481,7 +481,7 @@ gyenge tő mássalhangzó előtt ⟪श्व⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5113))
 :::
-⟪परिचित⟫ 3: ismerős, ismert
+⟪परिचित⟫ 3: ismerős, ismert <!-- TODO: Fallback translation -->
 
 ⟪अटवी⟫ f.: erdő
 
@@ -495,7 +495,7 @@ Karnataka = ಕರ್ನಾಟಕ
 ⟪जोधपुर⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: nyers, kegyetlen
+⟪क्रूर⟫ 3: nyers, kegyetlen <!-- TODO: Fallback translation -->
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : megken, beken
 
@@ -514,7 +514,7 @@ Kép: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Képmegjelölés: [Részletek](/hu/licenses#lekt5115))
 :::
-⟪भुजंग⟫ m.: Kígyó
+⟪भुजंग⟫ m.: Kígyó <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5116.webp)
@@ -572,7 +572,7 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 :::
 ⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : gondol, elmélkedik
 
-⟪शबर⟫ .:  egy nem-árja törzs neve
+⟪शबर⟫ .:  egy nem-árja törzs neve <!-- TODO: Fallback translation -->
 
 ## 51.7. Fordítási gyakorlat
 
@@ -585,7 +585,7 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 Magyarázat: -⟪अभिषेकौ⟫ Név./Tárgy/Ék. Kétes szám, hímnemű (Kétes számú összetétel)
 
-⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ A ⟪वर्नाश्रमधर्म⟫ tiszteletben tartásának szükségességéről
+⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ A ⟪वर्नाश्रमधर्म⟫ tiszteletben tartásának szükségességéről <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪तस्मात्स्वधर्मं⟫ ⟪भूतानाम्⟫
@@ -601,7 +601,7 @@ Magyarázat: -⟪अभिषेकौ⟫ Név./Tárgy/Ék. Kétes szám, hímne
 
 ⟪आसीच्च⟫ ⟪मे⟫ ⟪मनसि⟫ -- ⟪अहो⟫ ⟪मोहप्रायमेतेषां⟫ ⟪जीवितं⟫ ⟪साधुजनगर्हितं⟫ ⟪च⟫ ⟪चरितम्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ ⟪।⟫ ⟪पुरुषपिशितोपहारे⟫ ⟪धर्मबुद्धिः⟫ , ⟪अहारः⟫ ⟪साधुजनगर्हितो⟫ ⟪मधुमांसादिः⟫ , ⟪श्रमो⟫ ⟪मृगया⟫ , ⟪शास्त्रं⟫ ⟪शिवारुतम्⟫ , ⟪समुपदेष्टारः⟫ ⟪सद्सतां⟫ ⟪कौशिकाः⟫ , ⟪प्रज्ञा⟫ ⟪शकुनिज्ञानम्⟫ , ⟪परिचिताः⟫ ⟪श्वानः⟫ , ⟪राज्यं⟫ ⟪शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि⟫ ⟪क्रुरकर्मसाधनानि⟫ ⟪धनूंषि⟫ , ⟪सहाया⟫ ⟪विषदिग्धमुखा⟫ ⟪भुजंगा⟫ ⟪इव⟫ ⟪सायकाः⟫ , ⟪गीतमुत्सादकारि⟫ ⟪मुग्धमृगाणाम्⟫ , ⟪कलत्राणि⟫ ⟪बन्दीगृहीताः⟫ ⟪परयोषितः⟫ , ⟪क्रूरात्मभिः⟫ ⟪शार्दूलैः⟫ ⟪सह⟫ ⟪संवासः⟫ , ⟪पशुरुधिरेण⟫ ⟪देवतार्चनम्⟫ , ⟪मांसेन⟫ ⟪बलिकर्म⟫ , ⟪चौर्येण⟫ ⟪जीवनम्⟫ , ⟪भूषणानि⟫ ⟪भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव⟫ ⟪कानने⟫ ⟪निवसन्ति⟫ ⟪तदेवोत्ख्यातमूलमशेषतः⟫ ⟪कुर्वत⟫ ⟪इति⟫ ⟪चिन्तयत्येव⟫ ⟪मयि⟫ ⟪शबरसेनापतिः⟫ ⟪समुपाविशत्⟫ ⟪॥⟫
 
-⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (16. Jhdt.) zu vorhergehendem Abschnit der ⟪कादम्बरी⟫ (diese Gyakorlat sollte unter Anleitung eines Lehrers übersetzt werden. Ist ein solcher nicht verfügbar, kann man sie übergehen)
+⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (16. Jhdt.) zu vorhergehendem Abschnit der ⟪कादम्बरी⟫ (diese Gyakorlat sollte unter Anleitung eines Lehrers übersetzt werden. Ist ein solcher nicht verfügbar, kann man sie übergehen) <!-- TODO: Fallback translation -->
 
 ⟪आसीच्चेति⟫ ⟪।⟫ ⟪मे⟫ ⟪मम⟫ ⟪मनसि⟫ ⟪चित्त⟫ ⟪आसीद्बभूव⟫ ⟪।⟫ ⟪खेद⟫ ⟪इति⟫ ⟪शेषः⟫ ⟪।⟫ ⟪तदेव⟫ ⟪दर्शयति⟫ -- ⟪अहो⟫ ⟪इत्यादिना⟫ ⟪।⟫ ⟪अहो⟫ ⟪इत्याश्चर्ये⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪भिल्लानां⟫ ⟪जीवितं⟫ ⟪प्राणितं⟫ ⟪मोहो⟫ ⟪ऽज्ञानं⟫ ⟪प्रायं⟫ ⟪प्रचुरं⟫ ⟪यत्र⟫ ⟪तादृशम्⟫ ⟪।⟫ ⟪चः⟫ ⟪पुनरर्थे⟫ ⟪।⟫ ⟪चरितमाचरणं⟫ ⟪साधुजनैः⟫ ⟪सज्जनजनैर्गर्हितं⟫ ⟪निन्दितम्⟫ ⟪।⟫ ⟪तदेव⟫ ⟪विशेषतो⟫ ⟪दर्शयति⟫ -- ⟪तथा⟫ ⟪हीति⟫ ⟪।⟫ ⟪पुरुषेति⟫ ⟪।⟫ ⟪पुरुषस्य⟫ ⟪पुंसो⟫ ⟪यत्पिशितं⟫ ⟪मांसं⟫ ⟪तस्य⟫ ⟪य⟫ ⟪उपहारो⟫ ⟪भगवत्यै⟫ ⟪नैवेद्यदर्शनं⟫ ⟪तस्मिन्धर्मबुद्धिः⟫ ⟪श्रेयोधीः⟫ ⟪।⟫ ⟪आहार⟫ ⟪इति⟫ ⟪।⟫ ⟪आहारः⟫ ⟪प्रत्यवसानं⟫ ⟪साधुजनैर्गर्हितो⟫ ⟪निन्दितो⟫ ⟪मधुमांसादिर्मधुः⟫ ⟪मद्यं⟫ ⟪माक्षिकं⟫ ⟪वा⟫ ⟪।⟫ ⟪मांसं⟫ ⟪प्रतीतम्⟫ ⟪।⟫ ⟪ते⟫ ⟪आदौ⟫ ⟪यस्येति⟫ ⟪बहुव्रीहिः⟫ ⟪।⟫ ⟪आदिशब्दात्कन्दादिपरिग्रहः⟫ ⟪।⟫ ⟪श्रम⟫ ⟪इति⟫ ⟪।⟫ ⟪श्रमः⟫ ⟪शक्तिसाधनायासो⟫ ⟪मृगयाखेटकः⟫ ⟪।⟫ ⟪शास्त्रमिति⟫ ⟪।⟫ ⟪शिवा⟫ ⟪सृगाली⟫ ⟪तस्य⟫ ⟪रुतं⟫ ⟪शब्दितं⟫ ⟪शास्त्रमुच्चस्वरवेदपाठः⟫ ⟪।⟫ ⟪प्रबोधजनकत्वसाम्यात्तदुपमानम्⟫ ⟪।⟫ ⟪सदिति⟫ ⟪।⟫ ⟪सदसतां⟫ ⟪शुभाशुभानां⟫ ⟪समुपदेष्टारो⟫ ⟪बोधकाः⟫ ⟪कौशिका⟫ ⟪उलूकाः⟫ ⟪।⟫ ⟪प्रज्ञेति⟫ ⟪।⟫ ⟪शकुनयः⟫ ⟪पत्त्रिणस्तेषां⟫ ⟪स्थूलमहत्त्वादिना⟫ ⟪ज्ञानं⟫ ⟪तदेव⟫ ⟪प्रज्ञा⟫ ⟪विवेकबुद्धिः⟫ ⟪।⟫ ⟪परीति⟫ ⟪।⟫ ⟪श्वानः⟫ ⟪सारमेयाः⟫ ⟪परिचिता⟫ ⟪विश्वासपालत्राणि⟫ ⟪।⟫ ⟪राज्यमिति⟫ ⟪।⟫ ⟪शून्यासु⟫ ⟪जनरहितासु⟫ ⟪विन्ध्याटवीषु⟫ ⟪राज्यं⟫ ⟪स्वामित्वम्⟫ ⟪।⟫ ⟪आपानकेति⟫ ⟪।⟫ ⟪उत्सवः⟫ ⟪संतुष्टिकार्यं⟫ ⟪तदेवापानमेवापानकम्⟫ ⟪।⟫ ⟪स्वार्थे⟫ ⟪कः⟫ ⟪।⟫ ⟪पानगोष्ठिका⟫ ⟪।⟫ ⟪मित्राणीति⟫ ⟪।⟫ ⟪क्रूरं⟫ ⟪यत्कर्म⟫ ⟪तत्साधनानि⟫ ⟪तद्धेतुभूतानि⟫ ⟪धनूंष्येव⟫ ⟪चापान्येव⟫ ⟪मित्राणि⟫ ⟪सहृदः⟫ ⟪।⟫ ⟪हितचिन्तकानीति⟫ ⟪यावत्⟫ ⟪।⟫ ⟪सहाया⟫ ⟪इति⟫ ⟪।⟫ ⟪विषेण⟫ ⟪दिग्धं⟫ ⟪मुखमाननं⟫ ⟪येषामेवंविधाः⟫ ⟪सायका⟫ ⟪बाणास्त⟫ ⟪एव⟫ ⟪सहाया⟫ ⟪इष्टकार्यकर्तृत्वात्साहाय्यकारिणः⟫ ⟪।⟫ ⟪क⟫ ⟪इव⟫ ⟪।⟫ ⟪भुजंगाः⟫ ⟪सर्पा⟫ ⟪इव⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪विषदिग्धमुखत्वं⟫ ⟪स्वाभाविकम्⟫ ⟪।⟫ ⟪तेषामौपाधिकमिति⟫ ⟪भावः⟫ ⟪।⟫ ⟪गीतमिति⟫ ⟪।⟫ ⟪मुग्धा⟫ ⟪अनभिज्ञा⟫ ⟪ये⟫ ⟪मृगा⟫ ⟪हरिणास्तेषामुत्साहकारि⟫ ⟪स्तब्धताविधायि⟫ ⟪गीतं⟫ ⟪गानम्⟫ ⟪।⟫ ⟪कलत्रेति⟫ ⟪।⟫ ⟪परयोषितो⟫ ⟪ऽन्यस्त्रिय⟫ ⟪एव⟫ ⟪बन्दी⟫ ⟪ग्रहकस्तद्रूपत्वेन⟫ ⟪गृहीताः⟫ ⟪स्त्रीकृताः⟫ ⟪कलत्राणि⟫ ⟪स्वपत्न्यः⟫ ⟪।⟫ ⟪क्रूरेति⟫ ⟪।⟫ ⟪क्रूरात्मभिर्दुष्टात्मभिः⟫ ⟪शार्दुलैश्चित्रकैः⟫ ⟪समं⟫ ⟪संवासः⟫ ⟪सहावस्थानम्⟫ ⟪।⟫ ⟪पश्वेति⟫ ⟪।⟫ ⟪पशवो⟫ ⟪महिषास्तेषां⟫ ⟪रुधिरेण⟫ ⟪रक्तेन⟫ ⟪देवतार्चनं⟫ ⟪देवपूजनम्⟫ ⟪।⟫ ⟪मांसेनेति⟫ ⟪।⟫ ⟪मांसेन⟫ ⟪पिशितेन⟫ ⟪बलिर्हन्तकरस्तत्कर्म⟫ ⟪तत्कृत्यम्⟫ ⟪।⟫ ⟪चौर्येणेति⟫ ⟪।⟫ ⟪चौर्येण⟫ ⟪परद्रव्यापहारेण⟫ ⟪जीवनं⟫ ⟪प्राणधारणम्⟫ ⟪।⟫ ⟪भूषणनीति⟫ ⟪।⟫ ⟪भूषणान्याभरणानि⟫ ⟪भुजंगमणयः⟫ ⟪सर्परत्नानि⟫ ⟪।⟫ ⟪पर्वतवासित्वात्तेषां⟫ ⟪ते⟫ ⟪सुलभा⟫ ⟪इति⟫ ⟪भावः⟫ ⟪।⟫ ⟪वनेति⟫ ⟪।⟫ ⟪वनकरिणामरण्यहस्तिनां⟫ ⟪मदैर्दानवारिभिरङ्गरागो⟫ ⟪विलेपनम्⟫ ⟪।⟫ ⟪यस्मिन्निति⟫ ⟪।⟫ ⟪अनिर्दिष्टनामनि⟫ ⟪कानने⟫ ⟪वने⟫ ⟪निवसन्ति⟫ ⟪निवासं⟫ ⟪कुर्वन्ति⟫ ⟪तदेव⟫ ⟪काननमशेषतः⟫ ⟪समग्रत⟫ ⟪उत्खातमुत्पाटितं⟫ ⟪मूलं⟫ ⟪मध्यभागो⟫ ⟪यस्यैवंभूतं⟫ ⟪कुर्वते⟫ ⟪विदधत⟫ ⟪इति⟫ ⟪पूर्वोक्तप्रकारेण⟫ ⟪मयि⟫ ⟪चन्तयति⟫ ⟪ध्यायति⟫ ⟪सत्येव⟫ ... ⟪॥⟫
 
@@ -639,6 +639,6 @@ Magyarázat: -⟪अभिषेकौ⟫ Név./Tárgy/Ék. Kétes szám, hímne
 
 **lekt5118:** Hope gyémánt Gunturból = ಗುಂತೂರು, ma Smithsonian Természettörténeti Múzeum, Washington DC [Képmegjelenítés: David Bjorgen / Wikipedia. GNU FDLicense]
 
-**lekt5117:** [Képmegjelenítés forrása: muzina\_shanghai. -- [http://www.flickr.com/photos/muzina\_shanghai/2408592293/](http://www.flickr.com/photos/muzina\_shanghai/2408592293/). -- Hozzáférés: 2009-01-13. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, share alike)]
+**lekt5117:** [Képmegjelenítés forrása: muzina\_shanghai. -- [http://www.flickr.com/photos/muzina\_shanghai/2408592293/](http://www.flickr.com/photos/muzina\_shanghai/2408592293/). -- Hozzáférés: 2009-01-13. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, share alike)] <!-- TODO: Fallback translation -->
 
 :::

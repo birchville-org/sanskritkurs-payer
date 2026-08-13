@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 21
+# 第21課
 
 ## 21.1. Weitere Präsensstämme auf -nt <!-- TODO: Fallback translation -->
 
@@ -40,7 +40,8 @@ Beispiele: <!-- TODO: Fallback translation -->
 1\. Präsensklasse: <!-- TODO: Fallback translation -->
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "ein mit einem Opfer verehrender" <!-- TODO: Fallback translation -->
+**yajant**
+⟪यजन्त्⟫ "ein mit einem Opfer verehrender" <!-- TODO: Fallback translation -->
 :::
 ::: grammar-box
 

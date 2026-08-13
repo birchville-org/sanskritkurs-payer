@@ -146,7 +146,7 @@ Focul jertfei a ars mâncarea.
 Buddha a fost eliberat prin cunoașterea adevărului.
 
 ⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫
-Sfinții vedici spun că a vorbi minciună este nedrept.
+Sfinții vedici spun că a vorbi minciună este nedrept. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫
 Oamenii nu sunt eliberați prin jertfe către zei.
@@ -179,4 +179,4 @@ Al cuiă mâncare a jertfit acest sfânt vedic?
 ![](/images/uebung017.webp)
 Fig.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Sursa imaginii: [Detalii](/licenses#uebung017))
-:::
+::: <!-- TODO: Fallback translation -->

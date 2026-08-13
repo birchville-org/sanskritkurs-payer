@@ -14,27 +14,27 @@ hero:
       link: /id/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: "Tipografi terintegrasi yang sempurna untuk aksara India."
-  - title: Leicht Durchsuchbar
-    details: "Pencarian teks lokal mendalam menjaga pengetahuan tetap siap dalam genggaman jari."
-  - title: Moderne Architektur
+  - title: "Devanāgarī ready"
+    details: "Tipografi sempurna dan terintegrasi untuk aksara India."
+  - title: "Mudah Dicari"
+    details: "Pencarian teks lokal yang mendalam membuat pengetahuan tersedia hanya dengan satu klik."
+  - title: "Arsitektur Modern"
     details: "Dibangun di atas fondasi VitePress untuk kecepatan maksimal."
+
 ---
 
+::: note-box  Version 1.6.4 — Global Integrity, SSOT & Stabilität
+**Baru dalam v1.6.4 (Juli 2026):**
 
+**Penyelesaian 100% dalam 21 Bahasa Target:** 21 bahasa (termasuk Yunani Kuno, Finlandia, Hungaria, Arab, Ibrani, Latin, Mandarin Sederhana, dan banyak lagi) kini diterjemahkan sepenuhnya tanpa fallback dan dikunci secara ketat sebagai hanya-baca.
+**Lokalisasi UI Lengkap (SSOT):** Semua elemen navigasi dan kontrol (Pelajaran Sebelumnya/Selanjutnya, Latihan, Daftar Isi) disediakan secara dinamis dalam semua 32 bahasa melalui register bahasa terpusat.
+**Tipografi & Jaminan Kualitas:** Tipografi Devanāgarī tegak tanpa distorsi miring, tag merah sinyal yang telah dipisahkan, dan bagian teks yang dibersihkan di seluruh versi bahasa yang selesai.
+**PWA & Offline-First:** Penggunaan offline penuh untuk semua konten kursus di seluruh versi bahasa aktif.
 
-::: note-box  Versi 1.6.4 — Integritas Global, SSOT & Stabilität
-**Baru di v1.6.4 (Juli 2026):**
+**Komentar dan laporan kesalahan diterima di:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Berpartisipasi sebagai Editor atau Kurator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
-- **Penyelesaian 100% dalam 21 Bahasa Sasaran:** 21 bahasa (termasuk Yunani Kuno, Suomi, Magyar, Arab, Ibrani, Latin, Mandarin Sederhana, dan lainnya) kini telah diterjemahkan secara lengkap tanpa fallback dan dilindungi sebagai *read-only* di bawah kunci total absolut.
-- **Lokalisasi UI Lengkap (SSOT):** Semua elemen navigasi dan kontrol (Pelajaran Sebelumnya/Selanjutnya, Latihan, Daftar Isi) disediakan secara dinamis dalam semua 32 bahasa melalui register bahasa terpusat.
-- **Tipografi & Penjaminan Kualitas:** Tipografi Devanāgari tegak tanpa distorsi miring, tag merah sinyal yang telah diperbaiki, dan teks yang telah dibersihkan di seluruh versi bahasa yang selesai.
-- **PWA & Offline-First:** Penggunaan offline penuh untuk semua konten kursus di seluruh versi bahasa aktif.
-
-**Komentar dan laporan bug diterima di:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Berpartisipasi sebagai editor atau kurator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
-
-- Untuk penulis (dan siapa pun yang ingin menggunakan editor Markdown mandiri yang ringan), tersedia editor sumber terbuka di https://github.com/marcodem/zentauri
+Untuk penulis (dan siapa pun yang ingin menggunakan Editor Markdown Standalone ringan), tersedia editor sumber terbuka di https://github.com/marcodem/zentauri
+**Arsitektur Sistem Teknis & Wiki Pengembang:** [GitHub Project Wiki](https://github.com/marcodem/sanskritkurs-payer/wiki)
 
 :::

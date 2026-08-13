@@ -72,7 +72,7 @@ Exemple:
 
 ⟪चिन्मय⟫ 3 (la ⟪चित्⟫ f. "inteligență") "constând din gândire / minte"
 
-⟪वाङ्मय⟫ 3 (la ⟪वाच्⟫ f. "limbă") "constând din vorbire"
+⟪वाङ्मय⟫ 3 (la ⟪वाच्⟫ f. "limbă") "constând din vorbire" <!-- TODO: Fallback translation -->
 
 ⟪सोममय⟫ 3 "făcut din Soma, constând din Soma"
 :::
@@ -113,15 +113,19 @@ Figură Wayang, Java, Indonezia
 
 *   **Numere**  
     Exemple:  
-    ⟪एकशस्⟫ "în mod individual, câte unul"  
-    ⟪द्विशस्⟫ "pe perechi, câte doi"  
-    ⟪शतशस्⟫ "la sute, câte o sută"
+::: indent
+⟪एकशस्⟫ "în mod individual, câte unul"
+⟪द्विशस्⟫ "pe perechi, câte doi"
+⟪शतशस्⟫ "la sute, câte o sută"
+:::
 
 *   **altor cuvinte**  
     Exemple:  
-    ⟪भागशस्⟫ "pe părți, pe rând"  
-    ⟪सर्वशस्⟫ "pretutindeni, pe toți"  
-    ⟪नित्यशस्⟫ "în mod constant"
+::: indent
+⟪भागशस्⟫ "pe părți, pe rând"
+⟪सर्वशस्⟫ "pretutindeni, pe toți"
+⟪नित्यशस्⟫ "în mod constant"
+:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -148,14 +152,18 @@ Finalul substantivului este tratat astfel:
 
 *   **finalurile -a și -a ale substantivelor declinabile sunt înlocuite cu -ī**  
     Exemple:  
-    ⟪कृष्णीभवति⟫ "ceva care nu este negru devine negru"  
-    ⟪कृष्णीकरोति⟫ "el face ceva care nu este negru, negru"  
-    ⟪गङ्गीभवति⟫ "el/ea devine Gangele"  
+::: indent
+⟪कृष्णीभवति⟫ "ceva care nu este negru devine negru"
+⟪कृष्णीकरोति⟫ "el face ceva care nu este negru, negru"
+⟪गङ्गीभवति⟫ "el/ea devine Gangele"
+:::
 
 *   **finalurile -i și -u sunt înlocuite cu vocala lungă corespunzătoare**  
     Exemple:  
-    ⟪शुचीभवति⟫ "el/ea/el devine pur"  
-    ⟪गुरूभवामि⟫ "eu devin maestru"  
+::: indent
+⟪शुचीभवति⟫ "el/ea/el devine pur"
+⟪गुरूभवामि⟫ "eu devin maestru"
+:::
 
 *   **finalul -ṛ este înlocuit cu --rī**  
     De exemplu, ⟪पित्रीभवति⟫ "cel care nu este tată (⟪पितृ⟫) devine tată = un bărbat își primește primul copil"  
@@ -196,7 +204,7 @@ Exemple:
 ⟪भस्मसात्करोति⟫ „se transformă complet în cenușă (⟪भस्मन्⟫ n. „cenușă”))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
 
 *   **că devine dependent de**
 *   **sau intră în posesia**
@@ -225,9 +233,11 @@ Exemplu:
     de ex. ⟪पुनः⟫ ⟪पुनः⟫ "mereu din nou"
 *   **Distribuție**  
     Exemple:  
-    ⟪पृथक्पृथक्⟫ "fiecare separat, fiecare individual"  
-    ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "ceea ce este ... totul"  
-    ⟪युगे⟫ ⟪युगे⟫ "în fiecare epocă mondială individuală"
+::: indent
+⟪पृथक्पृथक्⟫ "fiecare separat, fiecare individual"
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "ceea ce este ... totul"
+⟪युगे⟫ ⟪युगे⟫ "în fiecare epocă mondială individuală"
+:::
 
 **Ocazional, din astfel de combinații se poate forma un compus**
 
@@ -272,7 +282,7 @@ Adjective numerale:
 :::
 Declinarea urmează, acolo unde este cazul, în listele de cuvinte.
 
-Celelalte adverbe numerale până la 19 vezi, de exemplu, la Kielhorn, Gramatică §201.
+Celelalte adverbe numerale până la 19 vezi, de exemplu, la Kielhorn, Gramatică §201. <!-- TODO: Fallback translation -->
 
 #### 52.6.1.2. Substantive numerale (pentru 19 în sus)
 
@@ -283,7 +293,7 @@ Celelalte adverbe numerale până la 19 vezi, de exemplu, la Kielhorn, Gramatic�
 Exemple:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f.
 :::
 
@@ -295,7 +305,7 @@ Exemple:
 Exemple:
 
 ::: indent
-100 ⟪शत⟫ n.:br
+100 ⟪शत⟫ n.
 1000 ⟪सहस्र⟫ n.
 :::
 Substantivele numerale individuale vezi, de exemplu, la Kielhorn, Gramatică §201.
@@ -316,7 +326,7 @@ Substantivele numerale individuale vezi, de exemplu, la Kielhorn, Gramatică §2
 :::
 ### 52.6.2. Numere ordinale
 
-Vezi, de exemplu, la Kielhorn, Grammatik §201f.
+Vezi, de exemplu, la Kielhorn, Grammatik §201f. <!-- TODO: Fallback translation -->
 
 ### 52.6.3. Adverbe numerice
 
@@ -367,7 +377,7 @@ Exemplu:
 ![](/images/lekt5205.webp)
 Fig.: ⟪चतुर्मुखः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5205))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪तत्पुरुष⟫ cu un număr cardinal în primul component nu pot fi formate arbitrar:**
@@ -383,7 +393,7 @@ Cele șapte stele = cei șapte cei mai strălucitori steți ai Ursa Majoră (Urs
 :::
 
 ::: grammar-box
-**Regula 2: În contrast cu Regula 1, un cuvânt care indică o direcție cardinală sau un număr cardinal poate forma un Tatpuruṣa cu un alt substantiv dacă**
+**Regula 2: În contrast cu Regula 1, un cuvânt care indică o direcție cardinală sau un număr cardinal poate forma un Tatpuruṣa cu un alt substantiv dacă** <!-- TODO: Fallback translation -->
 
 1.  compusul astfel format primește un sufix Taddhita  
     Exemple:  
@@ -393,7 +403,9 @@ Cele șapte stele = cei șapte cei mai strălucitori steți ai Ursa Majoră (Urs
 2.  compusul astfel format este folosit într-un sens care este de obicei indicat de un sufix Taddhita (în acest caz, trecerea la Bahuvrīhi este fluidă):  
     Exemple:  
     dvi + go » :sig[⟪द्विगु⟫] : nu: "doi boi", ci: "**cumpărat pentru doi boi**"  
-    ⟪द्विवर्ष⟫ nu: "doi ani", ci: "**cu vârsta de doi ani**"  
+::: indent
+⟪द्विवर्ष⟫ nu: "doi ani", ci: "**cu vârsta de doi ani**"
+:::
 
 3.  compusul astfel format constituie primul component al unui alt compus  
     Exemplu:  
@@ -409,7 +421,7 @@ Jalakandapuram = ஜலகண்டபுரம்
 ::: grammar-box
 **O denumire pentru un număr cardinal (dar nu pentru o direcție cardinală) poate forma un Tatpuruṣa cu un alt substantiv chiar și atunci când compusul astfel format indică un agregat al mai multor lucruri, adună două sau mai multe lucruri într-o singură unitate.**
 
-**Tatpuruṣa, care sunt formate conform acestei reguli, se numesc ***Dvigu (:sig[⟪द्विगु⟫])***.**
+**Tatpuruṣa, care sunt formate conform acestei reguli, se numesc ***Dvigu (:sig[⟪द्विगु⟫])***.** <!-- TODO: Fallback translation -->
 
 **Compusele Dvigu, care indică o unitate, sunt de obicei neutre. Dacă al doilea component se termină în -a, atunci sufixul feminin -ī poate fi adăugat. Dacă al doilea component se termină în fem. -ā, atunci acesta este înlocuit fie cu neutru -a, fie cu feminin -ī. Dacă al doilea component se termină în -an, atunci acesta este înlocuit cu -a sau -ī.**
 :::
@@ -494,7 +506,7 @@ Fig.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: lăcomie, poftă
+⟪लौल्य⟫ n.: lăcomie, poftă <!-- TODO: Fallback translation -->
 
 ⟪वर्ग⟫ m.: secțiune, departament, grupă
 
@@ -597,7 +609,7 @@ Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: bananier (_Musa_ sp.)
+⟪कदली⟫ f.: bananier (_Musa_ sp.) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -605,7 +617,7 @@ Abb.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: miez, esență, substanță
+⟪सार⟫ m.n.: miez, esență, substanță <!-- TODO: Fallback translation -->
 
 ⟪दिव्य⟫ 3: ceresc, divin
 
@@ -776,7 +788,7 @@ Cu Lecția 52 se încheie primul semestru (13 săptămâți x 4 ore de curs) al 
 Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Imagine: Payer)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5201))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
@@ -788,7 +800,7 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 
 **lekt5209:** Tăiere și ardere, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Sursa imaginii: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Accesat la 2009-01-15. --  [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, fără utilizare comercială, fără lucrări derivate)]
 
-**lekt5205:** [Sursă imagine: Wikipedia. Domeniu public]
+**lekt5205:** [Sursă imagine: Wikipedia. Domeniu public] <!-- TODO: Fallback translation -->
 
 **lekt5206:** Stelele Marele Urs = cei șapte cei mai strălucitori stele ai Marele Urs (Ursa maior) [Sursă imagine: Wikipedia, GNU FDLicense]
 

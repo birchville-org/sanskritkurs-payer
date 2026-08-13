@@ -1,10 +1,11 @@
 ---
-title: Lektion 40
+title: "Lesson 40"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lesson 40
@@ -12,27 +13,14 @@ status: stable
 ## 40.1. ⟪सुभाषितानि⟫
 
 ::: indent
-⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫  
-⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫  
-⟪पात्रत्वाद्धनमाप्नोति⟫  
-⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥१॥⟫
-
-⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫  
-⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫  
-⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫  
-⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥२॥⟫
-
-⟪आचार्यात्पादमादत्ते⟫  
-⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫  
-⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫  
-⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥३॥⟫
+⟪विद्या ददाति विनयं विनयाद्याति पात्रताम् । पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥१॥ सुखार्थी चेत्त्यजेद्विद्यां विद्यार्थी चेत्त्यजेत्सुखम् । सुखार्थिनः कुतो विद्या कुतो विद्यार्थिनः सुखम् ॥२॥ आचार्यात्पादमादत्ते पादं शिष्यः स्वमेधया । पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥३॥⟫
 :::
 ::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
-Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
+Fig.: ⟪पादं सब्रह्मचारिभ्यः⟫
 (Image source: [Details](/en/licenses#lekt4005))
 :::
-## 40.2. Formation of the first person perfect verb forms (⟪लिट्⟫)
+## 40.2. Formation of the first person perfect forms (⟪लिट्⟫)
 
 Endings of the first person (⟪तृतीयः⟫) in the perfect (⟪लिट्⟫)
 
@@ -47,27 +35,27 @@ Endings of the first person (⟪तृतीयः⟫) in the perfect (⟪लि
 ::: grammar-box
 Note that the endings of the 1st person singular P,Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except type III(a,b) and type V(a,b,c), the forms of the 1st singular P or Ā are always identical to those of the 3rd singular P or Ā.
 
-In type IV, the 1st sg. P ends like the 3rd sg. P in -au.
+In type IV, the 1st sg. P ends like the 3.sg.P in -au.
 
 In perfect types III and V, the 1st singular Ā is always identical to the 3rd singular Ā.
 
-In perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3rd sg. P must always be in the guṇa grade for these formation types, while the 1st sg. P can optionally be in the strong grade or the guṇa grade.
+In perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3.sg.P must always be in the guṇa grade for these formation types, while the 1.sg.P can optionally be in the vṛddhi grade or guṇa grade.
 :::
 ::: grammar-box
-Before consonant-initial endings, the connecting vowel -i- occurs with the majority of roots.
+Before endings beginning with a consonant, the connecting vowel -i- appears in the majority of roots.
 
-Except before the ending -re, before which -i- must always occur, the connecting vowel before consonant-initial endings never occurs with eight roots ending in -ṛ or -u, namely
+Except before the ending -re, to which -i- must always be added; this connecting vowel before consonant-initial endings never appears in eight roots ending in -ṛ or -u, namely
 
-1.  ⟪कृ⟫ 8U (except ⟪संस्कृ⟫)
-2.  ⟪भृ⟫ 1U
-3.  ⟪वृ⟫ 9U "to choose"
-4.  ⟪सृ⟫ 1P
-5.  ⟪द्रु⟫ 1p "to run"
-6.  ⟪श्रु⟫ 5P
-7.  ⟪स्तु⟫ 2U
-8.  ⟪स्रु⟫ 1P "to flow"
+1. ⟪कृ⟫ 8U (except ⟪संस्कृ⟫)
+2. ⟪भृ⟫ 1U
+3. ⟪वृ⟫ 9U "to choose"
+4. ⟪सृ⟫ 1P
+5. ⟪द्रु⟫ 1p "to run"
+6. ⟪श्रु⟫ 5P
+7. ⟪स्तु⟫ 2U
+8. ⟪स्रु⟫ 1P "to flow"
 
-With so-called optional ⟪अनिट्⟫-roots, the connecting vowel may optionally be inserted or not. (List of these roots in Kielhorn, Grammar p. 92 § 298b,2,3)
+In so-called facultative ⟪अनिट्⟫-roots, the connecting vowel may optionally be inserted or not. (List of these roots in Kielhorn, Grammar p. 92 § 298b,2,3)
 :::
 ### 40.2.1. Perfect Type I: no stem gradation
 
@@ -75,66 +63,66 @@ With so-called optional ⟪अनिट्⟫-roots, the connecting vowel may op
 
 Verbs following this type:
 
-*   Consonant-Long Vowel-Consonant
-*   Consonant-Vowel-Consonant-Consonant
-*   a-Consonant(-Consonant)
+* Consonant-long vowel-consonant
+* Consonant-vowel-consonant-consonant
+* a-consonant(-consonant)
 *   ā-Konsonant
 
 ⟪बन्ध्⟫ 9P
 
 ::: indent
-*   1.sg.P ⟪बबन्ध⟫
-*   1.pl.P ⟪बबन्धिम⟫
+* 1.sg.P ⟪बबन्ध⟫
+* 1.pl.P ⟪बबन्धिम⟫
 :::
 ⟪जीव्⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪जिजीव⟫
-*   1.pl.P ⟪जिजिविम⟫
+* 1.sg.P ⟪जिजीव⟫
+* 1.pl.P ⟪जिजिविम⟫
 :::
 ⟪अश्⟫ 5Ā
 
 ::: indent
-*   1.sg.Ā ⟪आनशे⟫
-*   1.pl.Ā ⟪आनशिमहे⟫
+* 1.sg.Ā ⟪आनशे⟫
+* 1.pl.Ā ⟪आनशिमहे⟫
 :::
 ⟪अस्⟫ 2P and ⟪अस्⟫ 4P
 
 ::: indent
-*   1.sg.P ⟪आस⟫
-*   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
+* 1.sg.P ⟪आस⟫
+* 1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfect Type II: strong stem strong grade, weak stem low grade
+### 40.2.2. Perfect Type II: strong stem guṇa grade, weak stem zero grade
 
 Verbs following this type:
 
-*   (Consonant-)i/u/ṛ/ḷ-Consonant
+* (consonant)i/u/ṛ/ḷ-consonant
 
 ⟪भिद्⟫ 7U
 
 ::: indent
-*   1.sg.P ⟪बिभेद⟫
+* 1.sg.P ⟪बिभेद⟫
 
-*   1.pl.P ⟪बिभिदिम⟫
+* 1.pl.P ⟪बिभिदिम⟫
 
-*   1.sg.Ā ⟪बिभिदे⟫
+* 1.sg.Ā ⟪बिभिदे⟫
 
-*   1.pl.Ā ⟪बिभिदिमहे⟫
+* 1.pl.Ā ⟪बिभिदिमहे⟫
 :::
-⟪मुह्⟫ 4P optionally ⟪अनिट्⟫
+⟪मुह्⟫ 4P facultative ⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪मुमोह⟫
+* 1.sg.P ⟪मुमोह⟫
 
-*   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
+* 1.pl.P ⟪मुमुहिम । मुमुह्म⟫
 :::
-### 40.2.3. Perfect Type III: Strong stem Guṇa/long vowel grade
+### 40.2.3. Perfect Type III: strong stem guṇa/dīrgha grade
 
-1.sg.P optionally Guṇa or long vowel grade
+1.sg.P optionally high-grade or lengthened-grade
 
-#### 40.2.3.1. Perfect Type IIIa: Strong stem Guṇa/long vowel grade, weak stem Low grade
+#### 40.2.3.1. Perfect Type IIIa: Strong stem high-grade/lengthened-grade, weak stem low-grade
 
-Verbs following this type:
+Verbs that follow this type:
 
 *   (Consonant-)(Consonant-)i/ī/u/ū
 *   (Consonant-)-ṛ
@@ -142,14 +130,14 @@ Verbs following this type:
 ⟪इ⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪इयाय⟩ ⟪।⟫ ⟪इयय⟫ (i+e+a)
+*   1.sg.P ⟪इयाय । इयय⟫ (i+e+a)
 
 *   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
 :::
 ⟪नी⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
+*   1.sg.P ⟪निनाय । निनय⟫
 
 *   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
 
@@ -160,7 +148,7 @@ Verbs following this type:
 ⟪स्तु⟫ 2U strictly ⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
+*   1.sg.P ⟪तुष्टाव । तुष्टव⟫ (tu-sto + a)
 
 *   1.pl.P ⟪तुष्टुम⟫
 
@@ -171,7 +159,7 @@ Verbs following this type:
 ⟪कृ⟫ 8U strictly ⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
+*   1.sg.P ⟪चकार । चकर⟫
 
 *   1.pl.P ⟪चकृम⟫
 
@@ -179,9 +167,9 @@ Verbs following this type:
 
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfect Type IIIb: Strong stem Guṇa/long vowel grade, weak stem Guṇa grade
+#### 40.2.3.2. Perfect Type IIIb: Strong stem high-grade/lengthened-grade, weak stem high-grade
 
-Verbs following this type:
+Verbs that follow this type:
 
 *   (Consonant-)(Consonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -189,21 +177,21 @@ Verbs following this type:
 ⟪पॄ⟫ 3P
 
 ::: indent
-*   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
+*   1.sg.P ⟪पपार । पपर⟫
 
 *   1.pl.P ⟪पपरिम⟫
 :::
 ⟪स्मृ⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
+*   1.sg.P ⟪सस्मार । सस्मर⟫
 
 *   1.pl.P ⟪सस्मरिम⟫
 :::
 ⟪संस्कृ⟫ 8U
 
 ::: indent
-*   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
+*   1.sg.P ⟪सञ्चस्कार । सञ्चस्कर⟫
 
 *   1.pl.P ⟪सञ्चस्करिम⟫
 
@@ -214,10 +202,10 @@ Verbs following this type:
 ### 40.2.4. Perfect Type IV: Roots ending in -ā / -ai
 
 *   Strong stem:
-    *   1.,3. sg. Parasamaipadiya: -au
+*   1.,3. sg. Parasamaip.: -au
 *   Weak stem:
-    *   before consonant: Low grade-i
-    *   before vowel: Low grade-ø
+*   before consonant: low-grade-i
+*   before vowel: low-grade-ø
 
 ⟪दा⟫ 3U
 
@@ -232,32 +220,32 @@ Verbs following this type:
 :::
 ### 40.2.5. Perfect Type V: Consonant-a-Consonant
 
-1.sg.P. optionally Guṇa or long vowel grade
+1.sg.P. optionally strong-grade or lengthened-grade
 
-#### 40.2.5.1. Perfect Type Va: Consonant-a-Consonant, weak stem Low grade
+#### 40.2.5.1. Perfect Type Va: Consonant-a-Consonant, weak stem low-grade
 
-Verbs following this type:
+Verbs that follow this type:
 
 ::: indent
-1.  gam "to go"
-2.  han (»ghan) "to strike"
-3.  jan "to be born"
-4.  vac "to speak"
-5.  vad "to speak"
-6.  yaj "to sacrifice"
-7.  etc.
+1. gam "to go"
+2. han (»ghan) "to strike down"
+3. jan "to be born"
+4. vac "to speak"
+5. vad "to say"
+6. yaj "to sacrifice"
+7. etc.
 :::
 ⟪गम्⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
+*   1.sg.P ⟪जगाम । जगम⟫
 
 *   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
 :::
 ⟪हन्⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
+*   1.sg.P ⟪जघान । जघन⟫
 
 *   1.pl.P ⟪जघ्निम⟫
 :::
@@ -271,25 +259,25 @@ Verbs following this type:
 ⟪वच्⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
+*   1.sg.P ⟪उवाच । उवच⟫
 
 *   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
 :::
 ⟪वद्⟫ 1P (Ā)
 
 ::: indent
-*   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
+*   1.sg.P ⟪उवाद । उवद⟫
 
 *   1.pl.P ⟪ऊदिम⟫
 
 *   1.sg.Ā ⟪ऊदे⟫
 
-*   1.pl.Ā  ⟪ऊदिमहे⟫
+*   1.pl.Ā ⟪ऊदिमहे⟫
 :::
 ⟪यज्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
+*   1.sg.P ⟪इयाज । इयज⟫
 
 *   1.pl.P ⟪ईजिम⟫
 
@@ -297,12 +285,12 @@ Verbs following this type:
 
 *   1.pl.Ā ⟪ईजिमहे⟫
 :::
-#### 40.2.5.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, Weak stem without reduplication, with -e-
+#### 40.2.5.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
 
 ⟪पच्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪पपाच⟫ ⟪।⟫ ⟪पपच⟫
+*   1.sg.P ⟪पपाच । पपच⟫
 
 *   1.pl.P ⟪पेचिम⟫
 
@@ -310,7 +298,7 @@ Verbs following this type:
 
 *   1.pl.Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfect Type Vc: Consonant-a-Consonant, weak stem strong grade
+#### 40.2.5.3. Perfect Type Vc: Consonant-a-Consonant, weak stem strong-grade
 
 Verbs that follow this type:
 
@@ -319,7 +307,7 @@ Verbs that follow this type:
 ⟪क्रम्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪चक्राम⟫ ⟪।⟫ ⟪चक्रम⟫
+*   1.sg.P ⟪चक्राम । चक्रम⟫
 
 *   1.pl.P ⟪चक्रमिम⟫
 
@@ -327,16 +315,16 @@ Verbs that follow this type:
 
 *   1.pl.Ā ⟪चक्रमिमहे⟫
 :::
-### 40.2.6. Special Perfect formations
+### 40.2.6. Special Perfect Formations
 
-⟪विद्⟫ 2P present perfect:
+⟪विद्⟫ 2P presentic perfect:
 
 ::: indent
 *   1.sg.P ⟪वेद⟫ (= 3.sg.P)
 
 *   1.pl.P ⟪विद्म⟫
 :::
-⟪अह्⟫ 1st person not commonly used!
+⟪अह्⟫ 1st person not customary!
 
 ⟪भू⟫ 1P
 
@@ -348,7 +336,7 @@ Verbs that follow this type:
 ⟪जि⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
+*   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪। जिगय⟫
 
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
@@ -356,44 +344,44 @@ Verbs that follow this type:
 
 The periphrastic perfect is formed from:
 
-*   derived verbal stems (causative, desiderative, frequentative, denominative), especially causative
+*   derived verbal stems (causative, desiderative, frequentative, denominatives), especially causative
 *   roots that begin with a long vowel (except ā)
-*   roots: vowel (except a-)-consonant-consonant
+*   roots: Vowel (except a-)-Consonant-Consonant
 *   some others
-*   for some roots both perfects can optionally be formed: uṣ "to burn", vid "to know", jāgṛ "to wake", daridrā "to be poor"
-*   for the following roots both perfects can optionally be formed and also the periphrastic perfect is reduplicated, namely with the reduplication syllable of the present stem:
-    *   bhī "to fear"
-    *   bhṛ "to carry"
-    *   hu "to sacrifice"
-    *   hrī "to be ashamed"
+*   for some roots, both perfects can optionally be formed: uṣ "to burn", vid "to know", jāgṛ "to wake", daridrā "to be poor"
+*   for the following roots, both perfects can optionally be formed and also the periphrastic perfect is reduplicated, namely with the reduplication syllable of the present stem:
+*   bhī "to fear"
+*   bhṛ "to carry"
+*   hu "to sacrifice"
+*   hrī "to be ashamed"
 
 ⟪ईक्ष्⟫ 1Ā
 
 ::: indent
-*   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
+*   1.sg.Ā ⟪ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव⟫
 
-*   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
+*   1.pl.Ā ⟪ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम⟫
 :::
-⟪बन्ध्⟩ Causative P: ⟪बन्धयति⟫
+⟪बन्ध्⟫ Causative P: ⟪बन्धयति⟫
 
 ::: indent
-*   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
+*   1.sg.P ⟪बन्धयां चकर । बन्धयां चकार⟫ (= 3.sg.P) ⟪। बन्धयामास⟫ (= 3.sg.P) ⟪। बन्धयां बभूव⟫ (= 3.sg.P)
 
-*   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
+*   1.pl.P ⟪बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम⟫
 :::
-## 40.4. Syntax of the first person (⟪तृतीयः⟫)
+## 40.4. Syntax of the First Person (⟪तृतीयः⟫)
 
 ::: grammar-box
-Since a finite verb (conjugated verb) expresses the agent (⟪कर्तृ⟫), the "I", "we" in non-passive verbal sentences with finite verb does not need to be expressed additionally by a personal pronoun
+[L374] Since a finite verb (conjugated verb) also expresses the agent (⟪कर्तृ⟫), "I" or "we" does not need to be explicitly expressed by a personal pronoun in non-passive verbal sentences with a finite verb.
 :::
-## 40.5. Personal pronouns (⟪पुरुषार्थकसर्वनाम⟫) of the 1st person singular and plural
+## 40.5. Personal Pronouns (⟪पुरुषार्थकसर्वनाम⟫) of the First Person Singular and Plural
 
 ::: grammar-box
-The form of the personal pronoun (personal pronoun) is the same for all genders.
+The form of the personal pronoun (personal pronominal word) is the same for all genders.
 :::
 ::: grammar-box
 
-| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
+| | ⟪एकवचनम्⟫ :br"I" | ⟪बहुवचनम्⟫ :br"we" |
 | :---: | :---: | :---: |
 | ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
 | ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |
@@ -405,21 +393,21 @@ The form of the personal pronoun (personal pronoun) is the same for all genders.
 
 :::
 ::: grammar-box
-The shorter forms, which stand in second place above (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) must never be used at the beginning of a sentence or verse.
+The shorter forms, which appear in the second position above (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), must never be used at the beginning of a sentence or verse.
 
-Before the particles ⟪च⟫, ⟪वा⟫, ⟪एव⟫, these so-called enclitic forms must not be used either:
+Before the particles ⟪च⟫, ⟪वा⟫, ⟪एव⟫, these so-called enclitic forms must also not be used:
 
-only: ... ⟪मां⟫ ⟪च⟫ ... "and me"
+only: ... ⟪मां च⟫ ... "and me"
 :::
 ::: grammar-box
 The genitive (⟪षष्ठी⟫) of the personal pronouns is used as a possessive pronoun:
 
-⟪मम⟫ ⟪।⟫ ⟪मे⟫ = "my"
+⟪मम । मे⟫ = "my"
 
-⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "our"
+⟪अस्माकम् । नस्⟫ = "our"
 :::
 ::: grammar-box
-As the first member of compounds, the stems for these pronouns are:
+As the first member of compounds, these pronouns have the following stems:
 
 *   sg. ⟪मद्⟫
 *   pl. ⟪अस्मद्⟫
@@ -434,25 +422,25 @@ e.g. ⟪मत्पुस्तकम्⟫ "my book" ; ⟪अस्मद्�
 
 ⟪पुस्तक⟫ m.n.: Manuscript, Book
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : to be in proper order, to fit (Loc.) ; to take shape, to form ; to resolve to, to condescend to (Dativeee)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : to be in proper order, to correspond to (Loc.) ; to take shape, to form itself ; to resolve upon, to condescend to (Dative)
 
 ::: indent
 Perf. II ⟪चकॢपे⟫ optionally ⟪अनिट्⟫  
-Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
+Fut. ⟪कल्पिष्यते । कल्प्स्यते⟫  
 Caus. ⟪कल्पयति⟫ : to put in order, to create, to form in the imagination, to imagine  
 PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
+Inf. ⟪कल्पितुम् । कल्प्तुम्⟫
 
 from this:
 
-⟪कल्पना⟫ f.: The forming in thought, the assumption of something non-existent in reality, fiction
+⟪कल्पना⟫ f.: The forming in thought, the assumption of something non-existent in reality, Fiction
 :::
 ⟪कॢप्⟫ + ⟪वि⟫ Caus. ⟪विकल्पयति⟫ : (to imagine differently =) to question, to doubt
 
 ::: indent
 from this:
 
-⟪विक्ल्प⟫ m.: Alternative, doubt
+⟪विक्ल्प⟫ m.: Alternative, Doubt
 :::
 ⟪तुद्⟫ 6U ⟪तुदति⟫ : to strike
 
@@ -464,15 +452,15 @@ Caus. ⟪तोदयति⟫
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ : to cross over, to cross, to save oneself from someone (Acc. = to cross someone)
+⟪तॄ⟫ 1P ⟪तरति⟫ : to cross over, to transgress, to save oneself from someone (Acc. = to cross over someone)
 
 ::: indent
-Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
+Perf. IIIb ⟪ततार⟫, ⟪ततरुर् । तेरुर्⟫  
+Fut. ⟪तरिष्यति । तरीष्यति⟫  
 Pass. ⟪तीर्यते⟫  
 Caus. ⟪तारयति⟫  
 PPP ⟪तीर्ण⟫  
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+Inf. ⟪तरितुम् । तरीतुम्⟫
 
 from this:
 
@@ -480,26 +468,26 @@ from this:
 :::
 ::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
+Abb.: ⟪हरिद्वारे तीर्थम्⟫
 (Image source: [Details](/en/licenses#lekt4003))
 :::
 
 ::: indent
-⟪तीर्थङ्कर⟫ m. (from: ⟪तीर्थम्⟫+ ⟪कृ⟫): Ford-maker (beyond suffering) = the 24 teachers of the Jains
+⟪तीर्थङ्कर⟫ m. (from: ⟪तीर्थम्⟫+ ⟪कृ⟫): Ford-maker (across suffering) = the 24 teachers of Jainism
 :::
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
 Fig.: ⟪तीर्थङ्करः⟫
 (Image source: [Details](/en/licenses#lekt4002))
 :::
-⟪अव⟫ Preverb.: down, downward, away, off-
+⟪अव⟫ Prefix: down, downward, away, ab-
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : to descend
 
 ::: indent
 from this:
 
-⟪अवतार⟫ m.: (Descender, Descent) Incarnation of a god, esp. Viṣṇu's 10 incarnations (see Basham, Wonder pp. 304 - 309)
+⟪अवतार⟫ m.: (descender, descent) incarnation of a god, esp. Viṣṇu 10 incarnations (see Basham, Wonder pp. 304 - 309)
 :::
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
@@ -509,37 +497,37 @@ Fig.: ⟪विष्णोर्दशावताराः⟫
 ⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : to sleep, to go to sleep
 
 ::: indent
-Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
-Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
-Fut. ⟪स्वप्स्यति⟫  
-Pass. ⟪सुप्यते⟫ (from \*svp-ya-te)  
-Caus. ⟪स्वापयति⟫  
+Imperfect ⟪अस्वपीत् । अस्वपत्⟫  
+Perfect ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
+Future ⟪स्वप्स्यति⟫  
+[L502] Passive ⟪सुप्यते⟫ (from \*svp-ya-te)
+Causative ⟪स्वापयति⟫  
 PPP ⟪सुप्त⟫  
-Inf. ⟪स्वप्तुम्⟫
+[L505] Infinitive ⟪स्वप्तुम्⟫
 
 from this:
 
-⟪स्वप्न⟫ m.: Sleep, dream
+⟪स्वप्न⟫ m.: sleep, dream
 
-⟪सुप्ति⟫ f. (from \*svp-ti): Sleep, esp. deep sleep
+⟪सुप्ति⟫ f. (from \*svp-ti): sleep, esp. deep sleep
 :::
 ::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: ⟪स्वपन्ति⟫
 (Image source: [Details](/en/licenses#lekt4004))
 :::
-## 40.7. Exercise
+## Lesson 40.7. Exercise
 
 A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson.
 
-B) Transform the following verbal forms into the corresponding perfect forms. If there are multiple possibilities, please provide all possibilities.
+B) Convert the following verbal forms into their corresponding perfect forms. If there are multiple possibilities, please provide all of them.
 
-(Explanation of symbols: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = optional ⟪अनिट्⟫)
+(Key: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = optional ⟪अनिट्⟫)
 
 1.  ⟪अश्नीमः⟫
 2.  ⟪स्मः⟫
 3.  ⟪स्रक्ष्यामि⟫
-4.  ⟪स्तुमहे⟫ ⟪अ⟫
+4.  ⟪स्तुमहे अ⟫
 5.  ⟪वर्धामहे⟫
 6.  ⟪आवर्ते⟫
 7.  ⟪सेक्ष्यामि⟫
@@ -556,13 +544,13 @@ B) Transform the following verbal forms into the corresponding perfect forms. If
 18.  ⟪वसामः⟫
 19.  ⟪अभवाम⟫
 20.  ⟪अस्यामि⟫
-21.  ⟪अबिभ्रि⟫ ⟪अ⟫
-22.  ⟪कल्पामहे⟫ ⟪इ⟫
+21.  ⟪अबिभ्रि अ⟫
+22.  ⟪कल्पामहे इ⟫
 23.  ⟪त्यज्यामि⟫
 24.  ⟪अतरम्⟫
 25.  ⟪चिन्मः⟫
 26.  ⟪पृच्छामः⟫
-27.  ⟪अनश्याम⟫ ⟪इ⟫
+27.  ⟪अनश्याम इ⟫
 28.  ⟪चरामः⟫
 29.  ⟪अवदाम⟫
 30.  ⟪शोचयामः⟫
@@ -574,12 +562,12 @@ B) Transform the following verbal forms into the corresponding perfect forms. If
 36.  ⟪मन्ये⟫
 37.  ⟪स्वपिमः⟫
 38.  ⟪पामि⟫
-39.  ⟪शृणुमः⟫ ⟪अ⟫
+39.  ⟪शृणुमः अ⟫
 40.  ⟪अतुदम्⟫
 41.  ⟪अमिम⟫
 42.  ⟪तिष्ठामि⟫
 43.  ⟪अवहाम⟫
-44.  ⟪अकुर्महि⟫ ⟪अ⟫
+44.  ⟪अकुर्महि अ⟫
 45.  ⟪जहीमः⟫
 46.  ⟪अस्पृशम्⟫
 47.  ⟪नेष्यामः⟫
@@ -588,7 +576,7 @@ B) Transform the following verbal forms into the corresponding perfect forms. If
 50.  ⟪पुने⟫
 51.  ⟪भुञ्ज्मः⟫
 52.  ⟪स्मरिष्यामः⟫
-53.  ⟪अभजाम⟫ (follows Type Vb)
+53.  ⟪अभजाम⟫ (follows type Vb)
 54.  ⟪जेष्यामः⟫
 55.  ⟪आसे⟫ (periphrastic)
 56.  ⟪विन्दामः⟫
@@ -606,7 +594,7 @@ B) Transform the following verbal forms into the corresponding perfect forms. If
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Review Exercise on Morphology
+## 40.8. Morphology Review Exercise
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫
@@ -649,9 +637,9 @@ B) Transform the following verbal forms into the corresponding perfect forms. If
 
 ::: deleteme-box
 
-- **Image lekt4005.jpg** (Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம் [Image source: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, share alike)]
-- **Image lekt4003.jpg** (Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Image source: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Accessed on 2009-01-02. -- Creative Commons license (Attribution)]
-- **Image lekt4002.jpg** (Fig.: ⟪तीर्थङ्करः⟫): [Image source: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-- **Image lekt4001.jpg** (Fig.: ⟪विष्णोर्दशावताराः⟫): Clockwise: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, in the center: ⟪कृष्ण⟫ [Image source: Wikipedia. Public domain]
-- **Image lekt4004.jpg** (Fig.: ⟪स्वपन्ति⟫): Indian flying foxes (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Image source: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
+**Image lekt4005.jpg** (Fig.: ⟪पादं सब्रह्मचारिभ्यः⟫): Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம் [Image source: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, Share Alike)]
+**Image lekt4003.jpg** (Fig.: ⟪हरिद्वारे तीर्थम्⟫): [Image source: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution)]
+**Image lekt4002.jpg** (Fig.: ⟪तीर्थङ्करः⟫): [Image source: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, Non-commercial Use, No Derivative Works)]
+**Image lekt4001.jpg** (Fig.: ⟪विष्णोर्दशावताराः⟫): Clockwise: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, in the center: ⟪कृष्ण⟫ [Image source: Wikipedia. Public domain]
+**Image lekt4004.jpg** (Fig.: ⟪स्वपन्ति⟫): Indian flying foxes (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Image source: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, Non-commercial Use, No Derivative Works)]
 :::

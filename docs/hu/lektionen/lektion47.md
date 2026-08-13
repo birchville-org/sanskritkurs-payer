@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 47. lecke
+# 47. lecke <!-- TODO: Fallback translation -->
 
 ## 47.1. Az imperativus (⟪लोट्⟫)
 
@@ -23,7 +23,7 @@ Az imperativus (⟪लोट्⟫) jelenti
 *   **Elgondolás**
 *   **Kérdés**
 
-A fenti jelentések mindegyike közös a képzett igemóddal (⟪विधिलिङ्⟫).
+A fenti jelentések mindegyike közös a képzett igemóddal (⟪विधिलिङ्⟫). <!-- TODO: Fallback translation -->
 
 Az imperatívussal kifejezhető még:
 
@@ -58,14 +58,14 @@ Példák:
 
 ⟪निषद्यताम्⟫ ⟪।⟫ „Kérem, foglaljanak helyet!”
 :::
-Az klasszikus szanszkit imperatívusában az első személyű alakok régi konjunktív formák. A védikus konjunktív főleg az a módus, amely kívánságot fejez ki: „Menjünk!” „Hagyjuk, hogy menjünk!”
+Az klasszikus szanszkit imperatívusában az első személyű alakok régi konjunktív formák. A védikus konjunktív főleg az a módus, amely kívánságot fejez ki: „Menjünk!” „Hagyjuk, hogy menjünk!” <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Az imperatívust a jelen idő töve képezi.
 :::
-## 47.2. Az imperatívus képzése (⟪लोट्⟫) tematikus jelen idő tövekből
+## 47.2. Az imperatívus képzése (⟪लोट्⟫) tematikus jelen idő tövekből <!-- TODO: Fallback translation -->
 
-### 47.2.1. Az imperatívus végződéseit tematikus jelen idő töveknél
+### 47.2.1. Az imperatívus végződéseit tematikus jelen idő töveknél <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -75,14 +75,14 @@ Az imperatívust a jelen idő töve képezi.
 | **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
 | **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
-Megjegyzés: ¹ A második és harmadik személy egyes számának végződéseit -tát helyettesítheti, ha áldást kívánunk kifejezni:
+Megjegyzés: ¹ A második és harmadik személy egyes számának végződéseit -tát helyettesítheti, ha áldást kívánunk kifejezni: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪भद्रो⟫ ⟪भवतात्⟫ "Legyél boldog!" "Ő legyen boldog!"
 
 ⟪शुभं⟫ ⟪भवतु⟫ vagy ⟪शुभं⟫ ⟪भवतात्⟫ "Legyen jól!" "Minden jó!"
 :::
-### 47.2.2. Első jelen idő osztály (⟪भ्वादि⟫)
+### 47.2.2. Első jelen idő osztály (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -193,7 +193,7 @@ Kiáltani fogunk.
 
 Meghajolni akarok előtted (⟪चतुर्थ्या⟫).
 
-Ezt a cselekedetet el kell végezni.
+Ezt a cselekedetet el kell végezni. <!-- TODO: Fallback translation -->
 
 Aludjanak (passzív szerkezet).
 
@@ -215,7 +215,7 @@ Elindulunk Benaresba (⟪पद्⟫).
 
 [L1] 15. Szüljetek nekem fiakat!
 
-[L3] 16. Megmutatom neked a házamat.
+[L3] 16. Megmutatom neked a házamat. <!-- TODO: Fallback translation -->
 
 [L5] 17. Távolodj el tőlem!
 
@@ -247,7 +247,7 @@ Iddad az italt!
 
 Gondolj!
 
-Őket (többes szám) legyőzendők!
+Őket (többes szám) legyőzendők! <!-- TODO: Fallback translation -->
 
 Minket vezessenél te.
 

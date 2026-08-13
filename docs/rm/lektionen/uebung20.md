@@ -1,59 +1,60 @@
 ---
-title: "Esercitaziun 20"
+title: "Exercizi 20"
 uebung_id: 20
-category: "Esercitaziun"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lecziun 20
+# Exercizi 20
 
-A) Traduscià e resolvì ils cumponiments en sanscrit:
+A) Tradusci e resvulpa ils cumponiments en sanscrit:
 
 ⟪१⟫. ⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
 ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪ऽनार्या⟫ ⟪देवानामिन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪।⟫ (u: ⟪इन्द्रस्य⟫ ⟪शत्रव⟫ ⟪एवानार्या⟫...)
-Il princip da las divinitats sconfigescha ils non-āryans, ils inimis d'Indra èn (u: lur inimì Indra è).
+Il princip da las divinitads sconfigescha ils non-āryans, ils inimis d'Indra (u: cun l'inimi Indra).
 
 ⟪२⟫. ⟪शूरबलक्षत्रिययोधः⟫ ⟪शूरपुत्रमिच्छति⟫ ⟪॥२॥⟫
 ⟪शूरस्य⟫ ⟪बलं⟫ ⟪यस्य⟫ ⟪स⟫ ⟪क्षत्रिय⟫ ⟪एव⟫ ⟪योधः⟫ ⟪शूरमेव⟫ ⟪पुत्रमि्च्छति⟫ ⟪॥⟫
-Il guerrier kṣatriya cun la forza d'in eroi s'aspeta in figl d'eroi.
+Il guerrier kṣatriya cun la forza d'in eroi s'aspeta in figl da l'eroina.
 
 ⟪३⟫. ⟪सुदुर्गममार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकमार्गः⟫ ⟪॥३॥⟫
 ⟪सुदुर्गमेण⟫ ⟪मार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकस्य⟫ ⟪मार्गः⟫ ⟪॥⟫
-Sin in viadi fitg difficultus vegn ins en in tschiel. Il viadi ad in infern è però simpl.
+Sin in viadi fitg difficultus arrivai ins en in paradis. Il viadi ad in infern è però simpl.
 
 ⟪४⟫. ⟪मृतपुत्रब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥४॥⟫
 ⟪मृतः⟫ ⟪पुत्रो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥⟫
-La brahmana, cun figl mort, plenta.
+La brahmana, cun il figl mort, plora.
 
 ⟪५⟫. ⟪वीतमोहब्राह्मणः⟫ ⟪सम्पन्नरूपामपि⟫ ⟪शूद्रां⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥५॥⟫
 ⟪वीतो⟫ ⟪मोहो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्तामपि⟫ ⟪शूद्रां⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥⟫
-In brahmana liber da confusiun na desiderescha nagina femna śūdra, er sche ella ha in corpus perfetg.
+In brahman liber da l'illusium na s'aspeta nagina femna śūdra, anc sche ella ha in corp perfetg.
 
 ⟪६⟫. ⟪सुनीतिपुत्रः⟫ ⟪प्राप्तमतिदर्शनसाधुं⟫ ⟪गच्छति⟫ ⟪॥६॥⟫
 ⟪शोभना⟫ ⟪नीतिर्यस्य⟫ ⟪स⟫ ⟪पुत्रः⟫ ⟪प्राप्तं⟫ ⟪मतेर्दर्शनं⟫ ⟪येन⟫ ⟪तं⟫ ⟪साधुं⟫ ⟪गच्छति⟫ ⟪॥⟫
-Il figl cortès va al sant, ch'ha gudagnà la facultad da leger ils pensaments.
+Il figl amabel va al sant, ch'ha gudagnà la facultad da leger ils pensaments.
 
 ⟪७⟫. ⟪प्राप्तप्रभावक्षत्रिया⟫ ⟪दृष्टमात्राञ्छत्रून्घन्ति⟫ ⟪॥७॥⟫
 ⟪प्राप्तः⟫ ⟪प्रभावो⟫ ⟪यैस्ते⟫ ⟪क्षत्रिया⟫ ⟪दृष्टं⟫ ⟪मात्रं⟫ ⟪येषां⟫ ⟪ताञ्छत्रून्घन्ति⟫ ⟪॥⟫
-Ils kṣatriyas arrivads al podi uccidan ils inimis uschè spert sco ch'els els vis.
+Ils kṣatriyas, ch'èn daventads pussants, uccidan ils inimis uschè spert sco che els els visan.
 
 ⟪८⟫. ⟪जितशत्रुयोधाः⟫ ⟪शत्रुजितान्मुञ्चन्ति⟫ ⟪॥८॥⟫
 ⟪जितः⟫ ⟪शत्रुर्यैस्ते⟫ ⟪योधाः⟫ ⟪शत्रुणा⟫ ⟪जितान्मुञ्चन्ति⟫ ⟪।⟫ (u: ⟪जिताः⟫ ⟪शत्रवो⟫ ⟪यैस्त्ते⟫...)
-Ils guerriers, ch'avevan sconfigì l'inimì, liberan ils sconfigids da l'inimì.
+Ils guerriers, ch'han sconfigì l'inimi, liberan ils sconfigids da l'inimi.
 
 ⟪९⟫. ⟪कृतोपनयनबालः⟫ ⟪शिवादिदेवपूजां⟫ ⟪करोति⟫ ⟪॥९॥⟫
 ⟪कृतमुपनयनं⟫ ⟪यय्स⟫ ⟪स⟫ ⟪बालः⟫ ⟪शिव⟫ ⟪आदिर्येषां⟫ ⟪तेषां⟫ ⟪देवानां⟫ ⟪पुजां⟫ ⟪करोति⟫ ⟪॥⟫
-Il uffant initià en ils Veda venerescha Śiva e las autras divinitats.
+Il giuvna initià en ils Veda venera Śiva e las autras divinitads.
 
 ⟪१०⟫. ⟪बुद्धगता⟫ ⟪दुःखादिसत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥१०॥⟫
 ⟪बुद्धं⟫ ⟪गता⟫ ⟪दुःखमादिर्येषां⟫ ⟪तानि⟫ ⟪सत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
-Quels ch'èn ids a Buddha audan la veritad davent dal suferiment e las autras (noblas) veritads.
+Ils ch'èn ids a Buddha audan la veritad davant il suferiment e las autras (noblas) veritads.
 
-B) Traduscià sut utilizaziun da cumponiments en sanscrit:
+B) Tradusci sut utilizaziun da cumponiments en sanscrit:
 
-1\. In kṣatriya, ch'na tegna il bastun en la maun, protegescha il pievel betg.
-⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (u: ⟪जनान्रक्षति⟫ ⟪।⟫)
+1\. In kṣatriya, ch'na tiena il bastun en la maun, na custodiescha il pievel.
+⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (u: ⟪जनान्रक्षति⟫ ⟪।⟫) <!-- TODO: Fallback translation -->
 
 2\. Kālidāsa e las autras poets èn ils magisters en il sanscrit.
 ⟪संस्कृतगुरवः⟫ ⟪कालिदासादिक्वयः⟫ ⟪।⟫
@@ -61,15 +62,15 @@ B) Traduscià sut utilizaziun da cumponiments en sanscrit:
 3\. In kṣatriya ha ses sustegniment da vita tras armas.
 ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫ ⟪।⟫
 
-4\. Era las femnas śūdra han sco dharma la nonviolenza, la veritad, la puritad, il betg-murmurar, il betg-malivolenza e la pazienza.
+4\. Anc femnas śūdra han sco dharma la nonviolenza, la veritad, la puritad, il betg-murmurar, il betg-malvag e la longanimitad.
 ⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः⟫ ⟪शूद्रा⟫ ⟪अपि⟫ ⟪॥⟫
 
 ::: media
 ![](/images/uebung031.webp)
 Abb.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
-(Fonte da maletga: [Detagls](/licenses#uebung031))
+(Sursa da l'imaginescha: [Detagls](/licenses#uebung031))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Analisa da cumponids
 
@@ -151,107 +152,106 @@ Solvì ils cumponids suventschents sco Bahuvrīhi e/u Dvandva e/u Tatpuruṣa en
 
 ⟪३८⟫. **⟪जातपुत्राः⟫** ⟪।⟫ ⟪जाताः⟫ ⟪पुत्रा⟫ ⟪येषां⟫ ⟪ते⟫ ⟪।⟫
 
-⟪३९⟫. **⟪दुरन्ताभिः⟫** ⟪।⟫ fin malgistaivla
+⟪४१⟫. ⟪मतिदर्शनम्⟫ ⟪।⟫ ⟪मतीनां⟫ ⟪दर्शनम्⟫ ⟪।⟫ (vidar da ils pensaments)
 
-⟪४०⟫. **⟪भूतसर्गेण⟫** ⟪।⟫ ⟪भूतानां⟫ ⟪सर्गेण⟫ ⟪।⟫
+⟪४२⟫. ⟪मुक्तहस्ता⟫ ⟪।⟫ ⟪मुक्तं⟫ ⟪हस्तं⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ (generus)
 
-⟪४१⟫. **⟪मतिदर्शनम्⟫** ⟪।⟫ ⟪मतीनां⟫ ⟪दर्शनम्⟫ ⟪।⟫ (vesair ils pensaments)
+⟪४३⟫. ⟪तदन्तः⟫ ⟪।⟫ ⟪तस्यान्तः⟫ ⟪।⟫ (u: ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
 
-⟪४२⟫. **⟪मुक्तहस्ता⟫** ⟪।⟫ ⟪मुक्तं⟫ ⟪हस्तं⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ (generus)
+⟪४४⟫. ⟪जातिमात्रम्⟫ ⟪।⟫ ⟪जातिरेव⟫ ⟪मात्रं⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫ (mo per la naschientscha)
 
-⟪४३⟫. **⟪तदन्तः⟫** ⟪।⟫ ⟪तस्यान्तः⟫ ⟪।⟫ (u: ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
+⟪४५⟫. ⟪तज्जयेन⟫ ⟪।⟫ ⟪तस्य⟫ ⟪जयेन⟫ ⟪।⟫ (u: ⟪तस्य⟫ ⟪जयो⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫)
 
-⟪४४⟫. **⟪जातिमात्रम्⟫** ⟪।⟫ ⟪जातिरेव⟫ ⟪मात्रं⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫ (mo per la naschientscha)
+⟪४६⟫. ⟪लब्धधनानाम्⟫ ⟪।⟫ ⟪लब्धं⟫ ⟪धनं⟫ ⟪येषां⟫ ⟪तेषाम्⟫ ⟪।⟫
 
-⟪४५⟫. **⟪तज्जयेन⟫** ⟪।⟫ ⟪तस्य⟫ ⟪जयेन⟫ ⟪।⟫ (u: ⟪तस्य⟫ ⟪जयो⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫)
+⟪४७⟫. ⟪सुदर्शः⟫ ⟪।⟫ bain visibel
 
-⟪४६⟫. **⟪लब्धधनानाम्⟫** ⟪।⟫ ⟪लब्धं⟫ ⟪धनं⟫ ⟪येषां⟫ ⟪तेषाम्⟫ ⟪।⟫
+⟪४८⟫. ⟪सकारणः⟫ ⟪।⟫ cun ina causa
 
-⟪४७⟫. **⟪सुदर्शः⟫** ⟪।⟫ bain da vesair
+⟪४९⟫. ⟪तनादयः⟫ ⟪।⟫ ⟪तन्⟫ e.c. (= 8. classa da prezens)
 
-⟪४८⟫. **⟪सकारणः⟫** ⟪।⟫ cun ina causa
+⟪५०⟫. ⟪जातमात्राम्⟫ ⟪।⟫ ⟪जातमेव⟫ ⟪मात्रं⟫ ⟪यस्यस्ताम्⟫ ⟪।⟫ (mo naschì)
 
-⟪४९⟫. **⟪तनादयः⟫** ⟪।⟫ ⟪तन्⟫ e.c. (= 8. classa da prezens)
+⟪५१⟫. ⟪दुर्जातयः⟫ ⟪।⟫ da maletta naschientscha
 
-⟪५०⟫. **⟪जातमात्राम्⟫** ⟪।⟫ ⟪जातमेव⟫ ⟪मात्रं⟫ ⟪यस्यस्ताम्⟫ ⟪।⟫ (gènìt sco nov)
+⟪५२⟫. ⟪हतपुत्रः⟫ ⟪।⟫ ⟪हतः⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
 
-⟪५१⟫. **⟪दुर्जातयः⟫** ⟪।⟫ da naschientscha malgistaivla
+⟪५३⟫. ⟪दुरासितम्⟫ ⟪।⟫ maletta moda da star
 
-⟪५२⟫. **⟪हतपुत्रः⟫** ⟪।⟫ ⟪हतः⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
+⟪५४⟫. ⟪इष्टदेवतया⟫ ⟪।⟫ ⟪इष्टा⟫ ⟪देवता⟫ ⟪यस्यास्तया⟫ ⟪।⟫
 
-⟪५३⟫. **⟪दुरासितम्⟫** ⟪।⟫ malgistaivl mod da star
+⟪५५⟫. ⟪कृतपुण्याभिः⟫ ⟪।⟫ ⟪कृतं⟫ ⟪पुण्यं⟫ ⟪याभिस्ताभिः⟫ ⟪।⟫
 
-⟪५४⟫. **⟪इष्टदेवतया⟫** ⟪।⟫ ⟪इष्टा⟫ ⟪देवता⟫ ⟪यस्यास्तया⟫ ⟪।⟫
+⟪५६⟫. ⟪श्रुत्युदितम्⟫ ⟪।⟫ ⟪श्रुतेरुदितम्⟫ ⟪।⟫
 
-⟪५५⟫. **⟪कृतपुण्याभिः⟫** ⟪।⟫ ⟪कृतं⟫ ⟪पुण्यं⟫ ⟪याभिस्ताभिः⟫ ⟪।⟫
+⟪५७⟫. ⟪गतपापैः⟫ ⟪।⟫ ⟪गतं⟫ ⟪पापं⟫ ⟪येषां⟫ ⟪तैः⟫ ⟪।⟫
 
-⟪५६⟫. **⟪श्रुत्युदितम्⟫** ⟪।⟫ ⟪श्रुतेरुदितम्⟫ ⟪।⟫
+⟪५८⟫. ⟪जितारिणा⟫ ⟪।⟫ ⟪जितो⟫ ⟪ऽरि⟫ ⟪येन⟫ ⟪तेन⟫ ⟪।⟫
 
-⟪५७⟫. **⟪गतपापैः⟫** ⟪।⟫ ⟪गतं⟫ ⟪पापं⟫ ⟪येषां⟫ ⟪तैः⟫ ⟪।⟫
+⟪५९⟫. ⟪जातकोपा⟫ ⟪।⟫ ⟪जातः⟫ ⟪कोपो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫
 
-⟪५८⟫. **⟪जितारिणा⟫** ⟪।⟫ ⟪जितो⟫ ⟪ऽरि⟫ ⟪येन⟫ ⟪तेन⟫ ⟪।⟫
+⟪६०⟫. ⟪जातिधर्मः⟫ ⟪।⟫ ⟪जातीनां⟫ ⟪धर्मः⟫ ⟪।⟫
 
-⟪५९⟫. **⟪जातकोपा⟫** ⟪।⟫ ⟪जातः⟫ ⟪कोपो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫
+⟪६१⟫. ⟪तत्प्रभृतयः⟫ ⟪।⟫ ⟪सा⟫ ⟪प्रभृतिर्येषां⟫ ⟪ते⟫ ⟪।⟫ (quai e.c.)
 
-⟪६०⟫. **⟪जातिधर्मः⟫** ⟪।⟫ ⟪जातीनां⟫ ⟪धर्मः⟫ ⟪।⟫
+⟪६२⟫. ⟪सुदुर्जयः⟫ ⟪।⟫ fitg difficil da sconfiger
 
-⟪६१⟫. **⟪तत्प्रभृतयः⟫** ⟪।⟫ ⟪सा⟫ ⟪प्रभृतिर्येषां⟫ ⟪ते⟫ ⟪।⟫ (quai e.c.)
+⟪६३⟫. ⟪जितक्रोधेन⟫ ⟪।⟫ ⟪जितः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫
 
-⟪६२⟫. **⟪सुदुर्जयः⟫** ⟪।⟫ fitg difficil da sconfiger
+⟪६४⟫. ⟪दुरुपदेशम्⟫ ⟪।⟫ instrucziun difficila
 
-⟪६३⟫. **⟪जितक्रोधेन⟫** ⟪।⟫ ⟪जितः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫
+⟪६५⟫. ⟪लब्धलाभा⟫ ⟪।⟫ ⟪लब्धो⟫ ⟪लाभो⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫
 
-⟪६४⟫. **⟪दुरुपदेशम्⟫** ⟪।⟫ instrucziun difficila
+⟪६६⟫. ⟪बुद्धदासः⟫ ⟪।⟫ ⟪बुद्धस्य⟫ ⟪दासः⟫ ⟪।⟫
 
-⟪६५⟫. **⟪लब्धलाभा⟫** ⟪।⟫ ⟪लब्धो⟫ ⟪लाभो⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫
+⟪६७⟫. ⟪मुक्तबुद्धिः⟫ ⟪।⟫ ⟪मुक्ता⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ⟪।⟫
 
-⟪६६⟫. **⟪बुद्धदासः⟫** ⟪।⟫ ⟪बुद्धस्य⟫ ⟪दासः⟫ ⟪।⟫
+⟪६८⟫. ⟪यज्ञकालम्⟫ ⟪।⟫ ⟪यज्ञस्य⟫ ⟪कालम्⟫ ⟪।⟫
 
-⟪६७⟫. **⟪मुक्तबुद्धिः⟫** ⟪।⟫ ⟪मुक्ता⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ⟪।⟫
+⟪६९⟫. ⟪जितशत्रून्⟫ ⟪।⟫ ⟪जितः⟫ ⟪शत्रुर्यैस्तान्⟫ ⟪।⟫
 
-⟪६८⟫. **⟪यज्ञकालम्⟫** ⟪।⟫ ⟪यज्ञस्य⟫ ⟪कालम्⟫ ⟪।⟫
+⟪७०⟫. ⟪शत्रुजितान्⟫ ⟪।⟫ ⟪शत्रुणा⟫ ⟪जितान्⟫ ⟪।⟫
 
-⟪६९⟫. **⟪जितशत्रून्⟫** ⟪।⟫ ⟪जितः⟫ ⟪शत्रुर्यैस्तान्⟫ ⟪।⟫
+⟪७१⟫. ⟪तत्फलः⟫ ⟪।⟫ ⟪तस्य⟫ ⟪फलं⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
 
-⟪७०⟫. **⟪शत्रुजितान्⟫** ⟪।⟫ ⟪शत्रुणा⟫ ⟪जितान्⟫ ⟪।⟫
+⟪७२⟫. ⟪सुगुणा⟫ ⟪।⟫ da buna qualitad
 
-⟪७१⟫. **⟪तत्फलः⟫** ⟪।⟫ ⟪तस्य⟫ ⟪फलं⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
+⟪७३⟫. ⟪जातक्रोधः⟫ ⟪।⟫ ⟪जातः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
 
-⟪७२⟫. **⟪सुगुणा⟫** ⟪।⟫ da buna qualitad
+⟪७४⟫. ⟪दृष्टमात्रः⟫ ⟪।⟫ suenter ch'el è stà visibel
 
-⟪७३⟫. **⟪जातक्रोधः⟫** ⟪।⟫ ⟪जातः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
+⟪७५⟫. ⟪भूतकालः⟫ ⟪।⟫ passà
 
-⟪७४⟫. **⟪दृष्टमात्रः⟫** ⟪।⟫ suenter ch’el è vegnì vesì
+⟪७६⟫. ⟪सुनेत्राः⟫ ⟪।⟫ bunas egls avend
 
-⟪७५⟫. **⟪भूतकालः⟫** ⟪।⟫ passà
+⟪७७⟫. ⟪तदादीनाम्⟫ ⟪।⟫ ⟪सादिर्येषां⟫ ⟪तेषाम्⟫ ⟪।⟫
 
-⟪७६⟫. **⟪सुनेत्राः⟫** ⟪।⟫ bain vesent
+⟪७८⟫. ⟪जातिस्मरणम्⟫ ⟪।⟫ remembranza da naschientschas passadas <!-- TODO: Fallback translation -->
 
-⟪७७⟫. **⟪तदादीनाम्⟫** ⟪।⟫ ⟪सादिर्येषां⟫ ⟪तेषाम्⟫ ⟪।⟫
+⟪७९⟫. ⟪सफलम्⟫ ⟪।⟫ fertila
 
-⟪७८⟫. **⟪जातिस्मरणम्⟫** ⟪।⟫ remembranza da naschientschas passadas
+⟪८०⟫. ⟪अकरुणस्य⟫ ⟪।⟫ senza cumpassiun
 
-⟪७९⟫. **⟪सफलम्⟫** ⟪।⟫ fructifer
-
-⟪८०⟫. **⟪अकरुणस्य⟫** ⟪।⟫ senza cumpassiun
-
-⟪८१⟫. **⟪सोढदुःखाः⟫** ⟪।⟫ ⟪सोढं⟫ ⟪दुःखं⟫ ⟪यैस्ते⟫ ⟪।⟫
+⟪८१⟫. ⟪सोढदुःखाः⟫ ⟪।⟫ ⟪सोढं⟫ ⟪दुःखं⟫ ⟪यैस्ते⟫ ⟪।⟫
 
 ::: media
 ![](/images/uebung030.webp)
 Abb.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
-(Sursa da l’imaginescha: [Detagls](/licenses#uebung030))
+(font dal maletg: [detagls](/licenses#uebung030))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Frags da la scienza
+## Scholarly Fragments
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪३३⟫ ⟪॥⟫  
-La schiarida da la ment succedia tras la sviluppa da benevolenza amiaivla, cumpassiun, cumpagnaivladad e neutralitad, las qualas han sco object la feliicitad e il dolur, il merit e il non-merit.
+La schliadad da la ment succedia tras il svilup dal favor amiaivel, cumpassiun, allegranza e equalitad da sentiment, che han sco object la glisch ed il dolur, il merit e il non-merit.
 
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪१⟫ ⟪॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
-L’Yoga da l’acziun è ascetissem, studis dal Veda e servetsch attent al SIGNUR. El ha sco fin la svilupaziun da la concentraziun e la sminuziun da las «dolors».
+Lo yoga da l'acziun è ascetissem, studis dal Veda e servetsch attent al SIGNUR. El ha sco fin il svilup da la concentraziun ed il sfatschament dals "dolars".
+
+::: deleteme-box Erläuterung
+Ils tschintg "dolars" (⟪क्लेश⟫) èn: ⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫ (Yoga-Sūtra 2.3) — ignoranza, egoïssem, avidad, odi e attachament al corp.
 
 ::: deleteme-box Erläuterung
 Las tschintg «dolors» (⟪क्लेश⟫) èn: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — ignoranza, egoïssem, avidad, odi e attachament al corp.
@@ -289,10 +289,10 @@ En il mez stgir, a las anclias largias, cun labras cotschnas, egls nairs, cun in
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫  
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
-Bratschas che els na vulan, han fitg blers figls, riccs n’han nagin figl. Strusch è il curs da la creaziun.
+Bratschas che els na vulan, han fitg blers figls, riccs n’han nagin figl. Strusch è il curs da la creaziun. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung032.webp)
 Abb.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung032))
-:::
+::: <!-- TODO: Fallback translation -->

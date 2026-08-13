@@ -4,7 +4,7 @@ lesson_id: 34
 status: stable
 ---
 
-# Lektion 34
+# Les 34
 
 ## 34.1. Das Perfekt (⟪लिट्⟫)
 

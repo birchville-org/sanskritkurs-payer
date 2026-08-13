@@ -4,7 +4,7 @@ lesson_id: 35
 status: stable
 ---
 
-# Lektion 35
+# Pamoka 35
 
 ## 35.1. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
 
@@ -169,21 +169,21 @@ Beispiel:
 
 ⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gehen, zugrundegehen, verschwinden
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
-**Kaus. ⟪नाशयति⟫** :br
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
 
 ⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : schreiten, gehen
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
-**Fut. ⟪क्रमिष्यति⟫** :br
-**Pass. ⟪क्रम्यते⟫** :br
-**Kaus. ⟪क्रमयति⟫** :br
-**PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
-**Inf. ⟪क्रमितुम्⟫** :br
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Kaus. ⟪क्रमयति⟫**
+**PPP :sig[⟪क्रा⟫]⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
@@ -194,11 +194,11 @@ People walking, Senegal.
 :::
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
-**Fut. ⟪गास्यति⟫** :br
-**Pass. ⟪गीयते⟫** :br
-**Kaus. ⟪गापयति⟫** :br
-**PPP ⟪गीत⟫** :br
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Kaus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Inf. ⟪गातुम्⟫**
 
 davon:

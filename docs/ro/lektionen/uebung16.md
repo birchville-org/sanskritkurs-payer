@@ -81,7 +81,7 @@ El onorează zeitatea personală a Vaiśya-ului meritoriu.
 Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung023))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Modele de declinare
 
@@ -261,4 +261,4 @@ Bătaia produce dobândirea și posesia sigură a filosofiei, vedisticii și eco
 ![](/images/uebung024.webp)
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung024))
-:::
+::: <!-- TODO: Fallback translation -->

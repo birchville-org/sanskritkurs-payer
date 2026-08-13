@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Παρακείμενος τύπου Αʹ: οὐδεμία φωνηεντικὴ ἐναλλαγή
+### 46.1.3. Παρακείμενος τύπου Αʹ: οὐδεμία φωνηεντικὴ ἐναλλαγή <!-- TODO: Fallback translation -->
 
 Ῥήματα, ταῦτα τὸν τύπον ἀκολουθοῦντα:
 
@@ -130,7 +130,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 #### 46.1.5.2. Παρακείμενος τύπου Γβʹ: Ἰσχυρὸν θέμα πλήρους/ἐκτεταμένης βαθμίδος, ἀσθενὲς θέμα πλήρους βαθμίδος
 
-Verba quae hunc typum sequuntur:
+Verba quae hunc typum sequuntur: <!-- TODO: Fallback translation -->
 
 *   (Consonant-)(Consonant-)-ṝ
 *   Konsonant-Konsonant-ṛ

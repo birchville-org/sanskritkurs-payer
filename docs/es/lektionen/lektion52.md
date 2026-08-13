@@ -113,15 +113,19 @@ Figura Wayang, Java, Indonesia
 
 *   **palabras numerales**  
     Ejemplos:  
-    ⟪एकशस्⟫ "individualmente, cada uno"  
-    ⟪द्विशस्⟫ "en parejas, cada dos"  
-    ⟪शतशस्⟫ "en cientos, cada cien"
+::: indent
+⟪एकशस्⟫ "individualmente, cada uno"
+⟪द्विशस्⟫ "en parejas, cada dos"
+⟪शतशस्⟫ "en cientos, cada cien"
+:::
 
 *   **otras palabras**  
     Ejemplos:  
-    ⟪भागशस्⟫ "parte por parte"  
-    ⟪सर्वशस्⟫ "en todas partes, absolutamente todos"  
-    ⟪नित्यशस्⟫ "constantemente"
+::: indent
+⟪भागशस्⟫ "parte por parte"
+⟪सर्वशस्⟫ "en todas partes, absolutamente todos"
+⟪नित्यशस्⟫ "constantemente"
+:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -148,14 +152,18 @@ La terminación del sustantivo se trata de la siguiente manera:
 
 *   **la terminación en -a y -ā de palabras declinables se reemplaza por -ī**  
     Ejemplos:  
-    ⟪कृष्णीभवति⟫ "algo que no es negro se vuelve negro"  
-    ⟪कृष्णीकरोति⟫ "él hace que algo que no es negro se vuelva negro"  
-    ⟪गङ्गीभवति⟫ "él/ella se convierte en el Ganges"  
+::: indent
+⟪कृष्णीभवति⟫ "algo que no es negro se vuelve negro"
+⟪कृष्णीकरोति⟫ "él hace que algo que no es negro se vuelva negro"
+⟪गङ्गीभवति⟫ "él/ella se convierte en el Ganges"
+:::
 
 *   **la terminación en -i y -u se reemplaza por la vocal larga correspondiente**  
     Ejemplos:  
-    ⟪शुचीभवति⟫ "él/ella/ello se vuelve puro"  
-    ⟪गुरूभवामि⟫ "me convierto en maestro"  
+::: indent
+⟪शुचीभवति⟫ "él/ella/ello se vuelve puro"
+⟪गुरूभवामि⟫ "me convierto en maestro"
+:::
 
 *   **la terminación en -ṛ se reemplaza por --rī**  
     p.ej. ⟪पित्रीभवति⟫ "uno que no era padre (⟪पितृ⟫) se convierte en padre = un hombre tiene su primer hijo"  
@@ -196,7 +204,7 @@ Ejemplos:
 ⟪भस्मसात्करोति⟫ "él convierte por completo en ceniza (⟪भस्मन्⟫ n. "ceniza"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** &lt;!-- TODO: Fallback translation --&gt;
 
 *   **del cual depende o**
 *   **pasa a ser poseedor de ello**
@@ -225,9 +233,11 @@ Ejemplo:
     p.ej. ⟪पुनः⟫ ⟪पुनः⟫ "una y otra vez"
 *   **Distribución**  
     Ejemplos:  
-    ⟪पृथक्पृथक्⟫ "cada uno por separado, cada uno individualmente"  
-    ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "lo que sea ... todo eso"  
-    ⟪युगे⟫ ⟪युगे⟫ "en cada era mundial individual"
+::: indent
+⟪पृथक्पृथक्⟫ "cada uno por separado, cada uno individualmente"
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "lo que sea ... todo eso"
+⟪युगे⟫ ⟪युगे⟫ "en cada era mundial individual"
+:::
 
 **Ocasionalmente, de tales combinaciones se puede formar un compuesto**
 
@@ -283,7 +293,7 @@ Los demás numerales adverbiales hasta 19 véase p.ej. en Kielhorn, Gramática �
 Ejemplos:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f.
 :::
 
@@ -295,7 +305,7 @@ Ejemplos:
 Ejemplos:
 
 ::: indent
-100 ⟪शत⟫ n.:br
+100 ⟪शत⟫ n.
 1000 ⟪सहस्र⟫ n.
 :::
 Los sustantivos numéricos individuales véase p.ej. en Kielhorn, Gramática §201.
@@ -393,7 +403,9 @@ Las Siete Estrellas = las siete estrellas más brillantes de la Osa Mayor (Ursa 
 2.  el compuesto así formado se usa en un significado que de otro modo sería designado por un sufijo Taddhita (en este tipo, la transición a Bahuvrīhi es fluida):  
     Ejemplos:  
     dvi + go » :sig[⟪द्विगु⟫] : no: "dos vacas", sino: "**adquirido para dos vacas**"  
-    ⟪द्विवर्ष⟫ no: "dos años", sino: "**de dos años de edad**"  
+::: indent
+⟪द्विवर्ष⟫ no: "dos años", sino: "**de dos años de edad**"
+:::
 
 3.  el compuesto así formado forma el primer miembro de otro compuesto  
     Ejemplo:  
@@ -776,7 +788,7 @@ Durante las vacaciones semestrales se deben cumplir las siguientes tareas:
 Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Imagen: Payer)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5201))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: deleteme-box
 

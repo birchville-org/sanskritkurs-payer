@@ -1,0 +1,170 @@
+---
+title: "تمرین ۵"
+uebung_id: 5
+category: "تمرین"
+last_reconstructed: 2026-05-15
+---
+
+
+# تمرین 5
+
+الف) جملات و ترکیبات زیر را ترجمه کنید و دوندواهای موجود در آن‌ها را به سانسکریت تجزیه نمایید:
+
+1\. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ. (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
+
+⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
+
+Erklärung catvāras = ⟪चत्वारस्⟫ = "vier"
+
+Brahmanen, Kṣatriyas, Vaiśyas und Śūdras sind die vier Stände. <!-- TODO: Fallback translation -->
+
+catvāro varnā brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca / catvāro varṇā brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca.
+
+⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वश्यः⟫ ⟪शूद्रश्च⟫ ⟪।⟫ ⟪चत्वारो⟫ ⟪वर्णब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वश्याः⟫ ⟪शूद्राश्च⟫ ⟪।⟫
+
+2\. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ. (Vāsiṣṭhadharmaśāstra II,1)
+
+⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫
+
+Erklärung: trayas = ⟪त्रयस्⟫ = "drei"
+
+برهم‌نشینان، کشتریایاها و ویश्यاس سه طبقهٔ دوباره‌زاده هستند.
+
+trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇā dvijātayo brāhmaṇāḥ kṣatriyā vaiśyāś ca.
+
+⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪।⟫ ⟪त्रयो⟫ ⟪वर्णाद्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
+
+3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (in gutem Sanskrit: sāmargyajurvedās trayī) <!-- TODO: Fallback translation -->
+
+⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫
+
+(in gutem Sanskrit: ⟪सामर्ग्यजुर्वेदास्त्रयी⟫)
+
+Die drei Veden sind: Sāmavaeda, Ṛgveda und Yajurveda. <!-- TODO: Fallback translation -->
+
+sāmaveda ṛgvedo yajurvedaś ca trayī.
+
+⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
+
+۴. سه دشمن انسان که دروازه‌ی جهنم را تشکیل می‌دهند (ویشnusمرتی ۳۳،۱+۶): kāmakrodhalobhāḥ
+
+⟪कामक्रोधलोभाः⟫
+
+Leidenschaft, Zorn und Gier. <!-- TODO: Fallback translation -->
+
+kāmaḥ krodho lobhaś ca. <!-- TODO: Fallback translation -->
+
+⟪कामः⟫ ⟪क्रोधो⟫ ⟪लोभश्च⟫ ⟪।⟫
+
+5\. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
+
+⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫
+
+توضیح: براهم‌ویهارا (brahmavihāra): «حالت‌های سکونت برهما»، همچنین به نام «بی‌کران» شناخته می‌شوند: نگرش‌های بی‌پایان. آن‌ها اشکال مدیتیشن بودایی هستند که با آن‌ها، مراقبه‌کننده به تدریج و گام‌به‌گام کل واقعیت را «منور» می‌سازد. این چهار مورد در یوگا (یوگاسوترا ۱،۳۳) نیز در آرامش ذهن نقش دارند.
+
+نگرش‌های بی‌کران عبارتند از: مهربانی، همدردی، شادی مشترک و تعادل.
+
+maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
+
+⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ ⟪च⟫ ⟪चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫
+
+6\. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ. (Yogasūtra 2,3)
+
+⟪अविद्यास्मितारागद्वेषाभिनिवेषाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫
+
+Erklärung: pañca = "fünf"
+
+پنج بلا عبارتند از: نادانی، خودخواهی، طمع، کینه و بدن‌دوستی.
+
+avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
+
+⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
+
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.) <!-- TODO: Fallback translation -->
+
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫
+
+دانش‌ها فلسفه، ودشناسی، اقتصاد و سیاست هستند.
+
+ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
+
+⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
+
+::: media
+![](/images/uebung010.webp)
+تصویر: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
+(منبع تصویر: [جزئیات](/licenses#uebung010))
+:::
+---
+
+## Wiederholungsübung Lektion 5 <!-- TODO: Fallback translation -->
+
+A) Übersetzen Sie:
+
+1\. vidyā vārttā.
+
+⟪विद्या⟫ ⟪वार्त्ता⟫
+
+Ökonomie ist eine Wissenschaft. <!-- TODO: Fallback translation -->
+
+2\. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
+
+⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫
+
+سه طبقهٔ دوباره‌زاده عبارتند از: برهمین، کشتری و ویشتا.
+
+3\. dvijā vaiśyāḥ. (2 Möglichkeiten)
+
+⟪द्विजा⟫ ⟪वैश्याः⟫
+
+Vaiśyas sind Zweimalgeborene / Vaiśyafrauen sind Zweimalgeborene. <!-- TODO: Fallback translation -->
+
+ب) شکل مناسب را جایگذاری کنید:
+
+(dvija, sādhu, kavi) ... rāmaḥ
+
+(⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫
+
+dvijo rāmaḥ. sādhū rāmaḥ. kavī rāmaḥ.
+
+⟪द्विजो⟫ ⟪रामः⟫ ⟪।⟫ ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫ ⟪कवी⟫ ⟪रामः⟫ ⟪।⟫
+
+(devī) ... indrāṇī
+
+(⟪देवी⟫) ... ⟪इन्द्राणी⟫
+
+devīndrāṇī.
+
+⟪देवीन्द्राणी⟫ ⟪।⟫
+
+dvijātayas ... (vaiśyā, kṣatriya)
+
+(⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫)
+
+dvijātayo vaiśyāḥ. dvijātayaḥ kṣatriyāḥ.
+
+⟪द्विजातयो⟫ ⟪वश्याः⟫ ⟪।⟫ ⟪द्विजातयः⟫ ⟪क्षत्रियाः⟫ ⟪॥⟫
+
+[L1] C) ترکیب (کومپوزیتوم) را در جمله زیر به زبان سانسکریت تجزیه کنید و با این شکل تجزیه‌شده، همان جمله را بسازید:
+
+sāmargyajurvedās trayī.
+
+⟪सामर्ग्यजुर्वेदास्त्रयी⟫
+
+sāmaveda ṛgvedo yajurvedaś ca trayī / ... yajurvedas trayī
+
+⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫ ... ⟪यजुर्वेदस्त्रयी⟫ ⟪॥⟫
+
+د) به دو روش به سانسکریت ترجمه کنید (یک بار با ترکیب، یک بار بدون):
+
+«حالات سکون برهما» عبارتند از: مهربانی دوستانه، همدردی، شادی مشترک و بی‌طرفی.
+
+maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā (ca) brahmavihārāḥ.
+
+⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪॥⟫
+
+::: media
+![](/images/uebung009.webp)
+تصویر: ⟪ऋग्वेदः⟫
+(منبع تصویر: [جزئیات](/licenses#uebung009))
+:::

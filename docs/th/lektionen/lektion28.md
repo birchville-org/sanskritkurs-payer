@@ -214,7 +214,7 @@ last_reconstructed: 2026-05-16
 | ราก | คำกริยาทำให้ 3. เอกพจน์ บ่งชี้ ปัจจุบัน | ความหมาย |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | ทำให้ยืน, ตั้งไว้ |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | ให้ศึกษา, สอน |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | ให้ศึกษา, สอน | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **การสร้างที่ผิดปกติ:**

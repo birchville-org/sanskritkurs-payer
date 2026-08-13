@@ -20,7 +20,7 @@ last_reconstructed: 2026-05-15
 > * harjoittaa sukupuoliyhdyntää naisen hedelmällisinä aikoina
 > * kunnioittaa jumalia, esi-isiä ja vieraita
 > * olla anteliaita hänestä riippuvaisia kohtaan
-> * ja syödä sitä, mikä jää jäljelle.
+> * ja syödä sitä, mikä jää jäljelle. <!-- TODO: Fallback translation -->
 
 **⟪ब्रह्मचारिणः⟫ ⟪स्वाध्यायो⟫ ⟪ऽग्निकार्याभिषेकौ⟫ ⟪भैक्षाव्रतित्वमाचार्ये⟫ ⟪प्राणान्तिकी⟫ ⟪वृत्तिस्तदभावे⟫ ⟪गुरुपुत्रे⟫ ⟪सब्रह्मचारिणि⟫ ⟪वा⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 
@@ -29,7 +29,7 @@ last_reconstructed: 2026-05-15
 > * hoitaa tulta rituaalisesti
 > * suorittaa vihmomiset
 > * pitää lupaus elää almuruoalla
-> * asua ācāryan luona ja huolehtia hänestä hänen kuolemaansa asti, tai mestarin pojan luona tai kanssaoppilaan luona.
+> * asua ācāryan luona ja huolehtia hänestä hänen kuolemaansa asti, tai mestarin pojan luona tai kanssaoppilaan luona. <!-- TODO: Fallback translation -->
 
 **⟪वानप्रस्थस्य⟫ ⟪ब्रह्मचर्यं⟫ ⟪भूमौ⟫ ⟪शय्या⟫ ⟪जाटाजिनधारणमग्निहोत्राभिषेकौ⟫ ⟪देवतापित्रतिथिपूजा⟫ ⟪वन्यश्चाहारः⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 
@@ -39,7 +39,7 @@ last_reconstructed: 2026-05-15
 > * kantaa hiuspalmikkoja ja antilopinnahkaa
 > * suorittaa tuliuhrit ja vihmomiset
 > * kunnioittaa jumalia, esi-isiä ja vieraita
-> * elää metsän tuotteista.
+> * elää metsän tuotteista. <!-- TODO: Fallback translation -->
 
 **⟪प्रव्राजकस्य⟫ ⟪जितेन्द्रियत्वमनारम्भो⟫ ⟪निष्किंचनत्वं⟫ ⟪सङ्गत्यागो⟫ ⟪भैक्षाव्रतमनेकत्रारण्ये⟫ ⟪च⟫ ⟪वासो⟫ ⟪बाह्याभ्यन्तरं⟫ ⟪च⟫ ⟪शौचम्⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫**
 
@@ -50,7 +50,7 @@ last_reconstructed: 2026-05-15
 > * luovuttaa kaikki kiinnittyminen
 > * pitää lupaus elää almuruoalla
 > * asua monissa erämaan paikoissa
-> * olla sisäisesti ja ulkoisesti puhdas.
+> * olla sisäisesti ja ulkoisesti puhdas. <!-- TODO: Fallback translation -->
 
 ---
 
@@ -62,25 +62,25 @@ last_reconstructed: 2026-05-15
 **⟪व्यवस्थितार्यमर्यादः⟫ ⟪कृतवर्णाश्रमस्थितिः⟫ ⟪।⟫**  
 **⟪त्रय्याभिरक्षितो⟫ ⟪लोकः⟫ ⟪प्रसीदति⟫ ⟪न⟫ ⟪सीदति⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫**
 
-> Sen tähden kuninkaan ei tule antaa olentojen poiketa heidän erityisestä dharmastaan. Sillä joka täyttää oman erityisen dharmansa, hän iloitsee kuolemansa jälkeen ja tässä elämässä. Kun jalojen järjestys pysyy vakaana, kun säädyt ja elämänvaiheet on saatettu pysyviksi, niin kolmen Vedan suojelema maailma elää rauhassa eikä tuhoudu.
+> Sen tähden kuninkaan ei tule antaa olentojen poiketa heidän erityisestä dharmastaan. Sillä joka täyttää oman erityisen dharmansa, hän iloitsee kuolemansa jälkeen ja tässä elämässä. Kun jalojen järjestys pysyy vakaana, kun säädyt ja elämänvaiheet on saatettu pysyviksi, niin kolmen Vedan suojelema maailma elää rauhassa eikä tuhoudu. <!-- TODO: Fallback translation -->
 
 ---
 
 ## ⟪३⟫. ⟪बाण⟫ (⟪७⟫. vuosisata jKr.): ⟪कादम्बरी⟫
 
-Papukaijan ⟪वैशम्पायन⟫ pohdintoja metsästäjän elämästä:
+Papukaijan ⟪वैशम्पायन⟫ pohdintoja metsästäjän elämästä: <!-- TODO: Fallback translation -->
 
 **⟪आसीच्च⟫ ⟪मे⟫ ⟪मनसि⟫ -- ⟪अहो⟫ ⟪मोहप्रायमेतेषां⟫ ⟪जीवितं⟫ ⟪साधुजनगर्हितं⟫ ⟪च⟫ ⟪चरितम्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ ⟪।⟫ ⟪पुरुषपिशितोपहारे⟫ ⟪धर्मबुद्धिः⟫ , ⟪अहारः⟫ ⟪साधुजनगर्हितो⟫ ⟪मधुमांसादिः⟫ , ⟪श्रमो⟫ ⟪मृगया⟫ , ⟪शास्त्रं⟫ ⟪शिवारुतम्⟫ , ⟪समुपदेष्टारः⟫ ⟪सद्सतां⟫ ⟪कौशिकाः⟫ , ⟪प्रज्ञा⟫ ⟪शकुनिज्ञानम्⟫ , ⟪परिचिताः⟫ ⟪श्वानः⟫ , ⟪राज्यं⟫ ⟪शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि⟫ ⟪क्रुरकर्मसाधनानि⟫ ⟪धनूंषि⟫ , ⟪सहाया⟫ ⟪विषदिग्धमुखा⟫ ⟪भुजंगा⟫ ⟪इव⟫ ⟪सायकाः⟫ , ⟪गीतमुत्सादकारि⟫ ⟪मुग्धमृगाणाम्⟫ , ⟪कलत्राणि⟫ ⟪बन्दीगृहीताः⟫ ⟪परयोषितः⟫ , ⟪क्रूरात्मभिः⟫ ⟪शार्दूलैः⟫ ⟪सह⟫ ⟪संवासः⟫ , ⟪पशुरुधिरेण⟫ ⟪देवतार्चनम्⟫ , ⟪मांसेन⟫ ⟪बलिकर्म⟫ , ⟪चौर्येण⟫ ⟪जीवनम्⟫ , ⟪भूषणानि⟫ ⟪भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव⟫ ⟪कानने⟫ ⟪निवसन्ति⟫ ⟪तदेवोत्ख्यातममूलमशेषतः⟫ ⟪कुर्वत⟫ ⟪इति⟫ ⟪चिन्तयत्येव⟫ ⟪मयि⟫ ⟪शबरसेनापतिः⟫ ⟪समुपाविशत्⟫ ⟪॥⟫**
 
 
-> Ja, se tuli minulle tietoiseksi: Ah, heidän [metsästäjien] elämänsä koostuu pääasiassa harhaanjohtamisesta, ja heidän käytöstään moittivat hyvät. Niin nimittäin: He pitävät ihmistenlihan uhrina oikeana uskontona; heidän ruokansa koostuu hyvien moittimasta hunajaviinistä, lihasta ja vastaavista; heidän ponnistuksensa on metsästys; heidän opetus kirjansa on šakaalien ulvonta; pöllöt ovat hyvän ja pahen opettajia; heidän viisautensa on lintutietämys; heidän luotetut ystävänsä ovat koirat; heidän valtakuntansa on tyhmissä metsissä; heidän juhlatilaisuutensa on humalaisuus; heidän ystävänsä ovat jouset, jotka tekevät armottomia tekosia; heidän seuralaisensa ovat nuolet, joiden kärki on maustettu myrkyllä kuin käärmeillä; heidän laulunsa tuo sekaantuneelle villieläimille tuhoa; heidän vaimonsa ovat varastetut nuoret tytöt muilta; he asuvat yhdessä armottomien tiikerien kanssa; eläinten verellä he palvovat jumaluuksia; lihaa he tuovat uhri-annikkeina; ryöstäen he elävät; heidän koristeensa ovat käärmejalokivet; he voitelevat jäsenensä metsäelefanttien parveilunesteellä; jokaisen metsän, johon he asettuvat, he juurineen hävittävät täysin – Kun ajattelin näin, yleinen Śabara-taistelija astui luokseni.
+> Ja, se tuli minulle tietoiseksi: Ah, heidän [metsästäjien] elämänsä koostuu pääasiassa harhaanjohtamisesta, ja heidän käytöstään moittivat hyvät. Niin nimittäin: He pitävät ihmistenlihan uhrina oikeana uskontona; heidän ruokansa koostuu hyvien moittimasta hunajaviinistä, lihasta ja vastaavista; heidän ponnistuksensa on metsästys; heidän opetus kirjansa on šakaalien ulvonta; pöllöt ovat hyvän ja pahen opettajia; heidän viisautensa on lintutietämys; heidän luotetut ystävänsä ovat koirat; heidän valtakuntansa on tyhmissä metsissä; heidän juhlatilaisuutensa on humalaisuus; heidän ystävänsä ovat jouset, jotka tekevät armottomia tekosia; heidän seuralaisensa ovat nuolet, joiden kärki on maustettu myrkyllä kuin käärmeillä; heidän laulunsa tuo sekaantuneelle villieläimille tuhoa; heidän vaimonsa ovat varastetut nuoret tytöt muilta; he asuvat yhdessä armottomien tiikerien kanssa; eläinten verellä he palvovat jumaluuksia; lihaa he tuovat uhri-annikkeina; ryöstäen he elävät; heidän koristeensa ovat käärmejalokivet; he voitelevat jäsenensä metsäelefanttien parveilunesteellä; jokaisen metsän, johon he asettuvat, he juurineen hävittävät täysin – Kun ajattelin näin, yleinen Śabara-taistelija astui luokseni. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung086.webp)
 Kuv.: Metsästäjä
 (Kuvan lähde: [Details](/licenses#uebung086))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## ⟪४⟫. Kommentti ⟪भानुचन्द्र⟫:sta (⟪१६⟫. vuosisata)
 
@@ -97,4 +97,4 @@ Kommentti edelliseen osioon ⟪कादम्बरी⟫:sta:
 ![](/images/uebung089.jpg)
 Kuv.: Scholastic Sanskrit
 (Kuvan lähde: [Details](/licenses#uebung089))
-:::
+::: <!-- TODO: Fallback translation -->

@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 22
+# Lectio 22
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -50,7 +50,7 @@ Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 
 **Educatio:**
 
-(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**)
+(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**) <!-- TODO: Fallback translation -->
 
 Solum negans **a-** / **an-** cum suffixo **-⟪त्वा⟫** compatitur: **⟪अकृत्वा⟫** "sine facto"
 
@@ -139,15 +139,13 @@ Radix in **-a** + **-tya**
 **⟪काम⟫ m.:** voluntas, cupiditas; donum optatum, voluptas sensuum, amor, deus amoris
 
 ::: indent
-**⟪कामम्⟫** Acc. adverbial: pro arbitrio, pro libidine
+**⟪कामम्⟫** Acc. adverbialis: pro arbitrio, pro libidine
 :::
 ::: media
 ![](/images/lekt2202.webp)
 Abb.: ⟪कामदेवः⟫
-saec. XIX
-Fig.: ⟪कामदेवः⟫
-saec. XIX
-(Fons imaginis: [Details](/la/licenses#lekt2202))
+Saec. XIX
+(Fons imaginis: [Detalia](/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** posse, valere
 
@@ -192,7 +190,7 @@ Goa = ⟪गोंय⟫
 :::
 ## 22.4. Exercitatio
 
-**A) Formate et vertite Absolutivum ad verba sequentia:**
+**A) Formate et vertite Absolutivum ad verba sequentia:** <!-- TODO: Fallback translation -->
 
 1.  ⟪आप्⟫
 2.  ⟪प्राप्⟫
@@ -265,7 +263,7 @@ Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 
 **lekt2201:** Goa = ⟪गोंय⟫ [Imago auctoris: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accessus die 2008-12-12. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
 
-**lekt2202:** Saeculum XIX [Imago: Wikipedia, Dominium publicum]
+**lekt2202:** Saeculum XIX [Imago: Wikipedia, Dominium publicum] <!-- TODO: Fallback translation -->
 
 **lekt2203:** Collis Nigri = कलकাতा [Fontes imaginis: Aeternitas. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Accessus die 2008-12-12. -- Licentia Creative Commons (Attributio, usus non-commercialis, nulla modificatio)]
 

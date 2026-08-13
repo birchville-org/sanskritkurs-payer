@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # שיעור 44
 
@@ -433,7 +433,7 @@ PPP ⟪रब्ध⟫
 ⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
 ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
 
-## 44.7. תרגיל חזרה zur Formenlehre
+## 44.7. תרגיל חזרה zur Formenlehre <!-- TODO: Fallback translation -->
 
 קבעו את הצורות הבאות:
 
@@ -484,15 +484,15 @@ PPP ⟪रब्ध⟫
 
 **lekt4401.jpg**: לא נמצא רישיון או מקור תמונה ספציפי בטקסט
 
-**lekt4402.jpg**: ציור מאת Henri Gerbault (1863 - 1930) (Domain ציבורי)
+**lekt4402.jpg**: ציור מאת Henri Gerbault (1863 - 1930) (Domain ציבורי) <!-- TODO: Fallback translation -->
 
 **lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- תאריך גישה 2009-01-08. -- רישיון Creative Commons (ייחוס, לא מסחרי, ללא עיבוד)
 
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- תאריך גישה 2009-01-08. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה)
+**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- תאריך גישה 2009-01-08. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה) <!-- TODO: Fallback translation -->
 
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- תאריך גישה 2009-01-08. -- רישיון Creative Commons (ייחוס, לא מסחרי)
+**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- תאריך גישה 2009-01-08. -- רישיון Creative Commons (ייחוס, לא מסחרי) <!-- TODO: Fallback translation -->
 
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- תאריך גישה 2009-01-08. -- רישיון Creative Commons (ייחוס, לא מסחרי)
+**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- תאריך גישה 2009-01-08. -- רישיון Creative Commons (ייחוס, לא מסחרי) <!-- TODO: Fallback translation -->
 
 **lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- תאריך גישה 2009-01-08. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה)
 

@@ -78,7 +78,7 @@ kṣatriyo brāhmaṇaṃ / brāhmaṇān / vaiśyaṃ / vaiśyān rakṣati. k�
 
 ஈ) மொழிபெயர்க்கவும்
 
-1\. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
+1\. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
 
 kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / kṣatriyā brāhmaṇavaiśyaśūdrān rakṣanti.
 
@@ -188,7 +188,7 @@ kiṃ kāraṇam?
 நங்கை வீட்டிற்குள் நுழைகிறாள்.
 
 14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 குழந்தை யானையைச் சுமக்கிறான்.

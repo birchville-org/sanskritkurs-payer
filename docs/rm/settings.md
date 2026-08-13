@@ -1,8 +1,9 @@
 ---
 layout: doc
-title: Parameters
+title: "Configuraziuns"
+
 ---
 
 <ClientOnly>
-  <PayerLanguageSettings />
+<PayerLanguageSettings />
 </ClientOnly>

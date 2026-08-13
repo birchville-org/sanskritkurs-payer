@@ -5,7 +5,7 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 ## 11.2. قائمة الكلمات
 
@@ -145,3 +145,4 @@ status: stable
 الصورة: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (مصدر الصورة: [تفاصيل](/ar/licenses#lekt1103))
 :::
+ <!-- TODO: Fallback translation -->

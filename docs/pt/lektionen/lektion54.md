@@ -262,7 +262,7 @@ Traduza por escrito as seguintes formas e forme as correspondentes formas do aor
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Fonte da imagem: [Detalhes](/licenses#lekt5401))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

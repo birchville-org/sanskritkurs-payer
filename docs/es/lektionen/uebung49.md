@@ -69,11 +69,11 @@ Preguntas del rey **⟪शूद्रक⟫** de **⟪विदिशा⟫** a
 **⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫**
 
 > El rey dijo: «¡Dejemos todo eso! ¡Satisfagan nuestra curiosidad! Señor, cuéntenos desde el principio: ¿En qué país nació usted? ¿Quién le dio el nombre? ¿Quién es su madre? ¿Cómo obtuvo los Vedas? ¿Cómo se familiarizó con las obras de enseñanza? ¿De dónde adquirió las artes? ¿Puede recordar nacimientos anteriores o cumplir deseos? ¿O habita, vistiendo la ropa de un pájaro, un escondite? ¿O dónde vivía antes? ¿O cuántos años tiene? ¿Cómo fue capturado en una jaula? ¿Y cómo llegó a manos de los cāṇḍālas? ¿O cómo llegó aquí?»
->
+&gt;
 > Sin embargo, Vaiśampāyana, quien había sido preguntado por el Señor de la Tierra con una curiosidad espontánea y gran respeto, reflexionó un momento y luego respondió con gran reverencia: «Rey, esta es una historia larga. Si le interesa, ¡presteme su oído!»
 
 ::: media
 ![](/images/uebung079.webp)
 Fig.: ⟪शुकः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung079))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

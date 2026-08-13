@@ -419,7 +419,7 @@ E) மொழிபெயர்க்கவும்:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
 
 2\. śūdretarā.
 
@@ -489,13 +489,13 @@ rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā ist eine Göttin.
+2\. Durgā ist eine Göttin. <!-- TODO: Fallback translation -->
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī ist eine Göttin.
+3\. Mīnākṣī ist eine Göttin. <!-- TODO: Fallback translation -->
 
 devī mīnākṣī.
 
@@ -513,19 +513,19 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Wer ist der HERR?
+6\. Wer ist der HERR? <!-- TODO: Fallback translation -->
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7\. Indra ist der HERR.
+7\. Indra ist der HERR. <!-- TODO: Fallback translation -->
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Die Nutztiere treten ein.
+8\. Die Nutztiere treten ein. <!-- TODO: Fallback translation -->
 
 paśavo viśanti.
 
@@ -549,7 +549,7 @@ sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ ⟪।⟫ ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-12\. Diese Göttin ist gut.
+12\. Diese Göttin ist gut. <!-- TODO: Fallback translation -->
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
@@ -561,7 +561,7 @@ avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo 
 
 ⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫ ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-14\. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten)
+14\. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ / maitrī karuṇā muditopekṣā (ca) brahmavihārāḥ.
 
@@ -585,7 +585,7 @@ dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣa
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪।⟫ ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-18 .Geht es Ihnen gut?
+18 .Geht es Ihnen gut? <!-- TODO: Fallback translation -->
 
 kiṃ kuśalam?
 

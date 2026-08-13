@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα 36
 
@@ -20,7 +20,7 @@ status: stable
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫*:sig[⟪गा⟫]*⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫*:sig[⟪घा⟫]*⟪न⟫ | ⟪ज⟫*:sig[⟪घ्नु⟫]*⟪र्⟫ | | |
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫*:sig[⟪घा⟫]*⟪न⟫ | ⟪ज⟫*:sig[⟪घ्नु⟫]*⟪र्⟫ | | | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 2\. Η ρίζα ⟪विद्⟫ 2P «γινώσκω» έχει παρακείμενο με σημασία ενεστώτα.
@@ -63,7 +63,7 @@ status: stable
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ και ⟪भू⟫ χρησιμοποιούνται επίσης σε ρήματα του Ātmanepada στον Parasmaipada.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 Παραδείγματα:
 
@@ -294,7 +294,7 @@ B) Η ρίζη ⟪आस्⟫ "καθίζω" έχει περιφραστικό 
 
 ⟪ब्राह्मणीभिः⟫ ⟪स्वान्नानि⟫ ⟪पेचिरे⟫ ⟪॥७॥⟫
 
-## 36.6. Ο Παρακείμενος (⟪लिट्⟫) zu den bisher gelernten Wurzeln
+## 36.6. Ο Παρακείμενος (⟪लिट्⟫) για τις μέχρι τώρα διδαχθείσες ρίζες
 
 | Wurzel:br⟪धातु⟫ | Perfektklasse | Perfekt (⟪लिट्⟫) |
 | :--- | :--- | :--- |

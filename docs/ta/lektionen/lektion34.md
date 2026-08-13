@@ -90,7 +90,7 @@ status: stable
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
 
 :::
 ### 34.2.5. ஒலிவழக்க எழுத்தோடு தொடங்கும் மூலச்சொற்களின் மீண்டும் வருதல்
@@ -104,7 +104,7 @@ status: stable
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -117,7 +117,7 @@ status: stable
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
-| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box

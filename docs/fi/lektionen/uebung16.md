@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 16
 
-A) Muunna seuraavat ilmaukset Tatpuruṣa-yhdistelmiksi ja käännä ne:
+A) Muunna seuraavat ilmaukset Tatpuruṣa-yhdistelmiksi ja käännä ne: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫ — ⟪देवपुरुषः⟫
 
@@ -36,7 +36,7 @@ A) Muunna seuraavat ilmaukset Tatpuruṣa-yhdistelmiksi ja käännä ne:
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫ — ⟪देवस्तुतिः⟫
 
-B) Pura seuraavat lauseet Sanskritin yhdistelmistä (samāsa), muodosta niistä lauseita taivutetuilla substantiiveilla ja käännä ne:
+B) Pura seuraavat lauseet Sanskritin yhdistelmistä (samāsa), muodosta niistä lauseita taivutetuilla substantiiveilla ja käännä ne: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 ⟪पुण्यवान्वैश्यस्य⟫ ⟪पुत्रो⟫ ⟪देवानामिन्द्रस्य⟫ ⟪लोकं⟫ ⟪गच्छति⟫ ⟪।⟫ (tai: ⟪पुण्यवतो⟫ ⟪वैश्यस्य⟫ ⟪पुत्रो⟫...)
@@ -48,7 +48,7 @@ Hyvien tekojen tekeminen on tie taivaaseen.
 
 ⟪३⟫. ⟪न⟫ ⟪साधुः⟫ ⟪पशुवन्नरधेनुलोभः⟫ ⟪।⟫
 ⟪न⟫ ⟪साधुः⟫ ⟪पशुवतो⟫ ⟪नरस्य⟫ ⟪धेनूनां⟫ ⟪लोभः⟫ ⟪।⟫ (tai: ...⟪धेनोर्लोभः⟫ ⟪।⟫)
-Karjaan rikas miehen ahneus lehmää kohtaan / lehden kohtaa ei ole hyvää.
+Karjaan rikas miehen ahneus lehmää kohtaan / lehden kohtaa ei ole hyvää. <!-- TODO: Fallback translation -->
 
 ⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫
 ⟪न⟫ ⟪पशूनां⟫ ⟪यज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मस्य⟫ ⟪यज्ञैस्तु⟫ ⟪स्वर्गस्य⟫ ⟪सुखमाप्नुवन्ति⟫ ⟪।⟫
@@ -83,9 +83,9 @@ Hän kunnioittaa ansioikkaan vaiśyan henkilökohtaista jumaluutta.
 Kuv.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung023))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Taivutusmallit
+## Taivutusmallit <!-- TODO: Fallback translation -->
 
 A) Muodosta kaikki tähän mennessä opetellut sijamuodat seuraaville sanoille esimerkkeinä aiemmin opetuista taivutusluokista.
 
@@ -224,9 +224,9 @@ A) Muodosta kaikki tähän mennessä opetellut sijamuodat seuraaville sanoille e
 :::
 ---
 
-## Lisäharjoitukset
+## Lisäharjoitukset <!-- TODO: Fallback translation -->
 
-B) Käännä ja ratkaise kaikki sanskritinkieliset sandhikombinaatiit:
+B) Käännä ja ratkaise kaikki sanskritinkieliset sandhikombinaatiit: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪२⟫ ⟪॥⟫
 ⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ (tai: ⟪वृत्तीनां⟫ ⟪निरोधः⟫) ⟪।⟫
@@ -245,7 +245,7 @@ Vaiśyan erityinen velvollisuus on: Veda-opiskelu, uhraaminen uhraherran rooliss
 
 ⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫
 ⟪शुड्रस्य⟫ ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारूणां⟫ ⟪कुशीलवानां⟫ ⟪च⟫ ⟪कर्म⟫ ⟪।⟫
-Śūdran erityinen velvollisuus on tottelevainen palvelus kahdesti syntyneille, taloudellinen toiminta ja käsityöläisen sekä esittäjän toiminta.
+Śūdran erityinen velvollisuus on tottelevainen palvelus kahdesti syntyneille, taloudellinen toiminta ja käsityöläisen sekä esittäjän toiminta. <!-- TODO: Fallback translation -->
 
 ⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
 Kaikkien velvollisuus on: väkivallattomuus, totuudenmukaisuus, puhtaus, valituksen puuttuminen omasta kohtalosta, pahuuden puuttuminen ja kärsivällinen myötätunto.
@@ -259,10 +259,10 @@ Lause 13: ⟪सर्वेषाम्⟫ Genetiivin monikko maskuliini sanall
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
-Sauva aiheuttaa filosofian, vedistisen tutkimuksen ja taloustieteen hankkimisen sekä turvatun omistamisen. Sauvan hallinta on politiikkaa.
+Sauva aiheuttaa filosofian, vedistisen tutkimuksen ja taloustieteen hankkimisen sekä turvatun omistamisen. Sauvan hallinta on politiikkaa. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung024.webp)
 Kuv.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung024))
-:::
+::: <!-- TODO: Fallback translation -->

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 23
+# Lecke 23 <!-- TODO: Fallback translation -->
 
 ## 23.1. A végtelen mód (⟪तुमुन्⟫)
 
@@ -20,14 +20,14 @@ status: stable
 
 > "Megtanul táncolni" tehát nem lehet az infinitívussal ("táncolni") lefordítani, hanem egy névmást kell használni, például: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "tanulni").
 
-**Az infinitívuszt akkor is használjuk igék és főnevek "kívánni" vagy "vágyakozni" jelentésében, ha az infinitívus és az ige alanya (⟪कर्तृ⟫) megegyezik:**
+**Az infinitívuszt akkor is használjuk igék és főnevek "kívánni" vagy "vágyakozni" jelentésében, ha az infinitívus és az ige alanya (⟪कर्तृ⟫) megegyezik:** <!-- TODO: Fallback translation -->
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Ráma hallani kívánja a mester beszédét."
 
 **Az infinituszt többek között olyan igékben használják, amelyek jelentése: "képes lenni", "létezik", "tudni", "kezdeni":**
 
 > ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Egy szent nem tehet jót."
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Van mit enni" (⟪भुज्⟩ 7: Ā: esssen, P: regieren)
+> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Van mit enni" (⟪भुज्⟩ 7: Ā: esssen, P: regieren) <!-- TODO: Fallback translation -->
 
 **Az infinituszt továbbá olyan szavakkal használják, amelyek jelentése: "megfelelő", "képes" és olyan főnevekkel, amelyek jelentése: "képesség", "erő", "ügyesség":**
 
@@ -45,9 +45,9 @@ pl.
 
 > ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Egy szent nem követhet el bűnt."
 
-**A 2. személyben a ⟪अर्ह्⟫ + igeképző gyakran enyhített parancsként használatos: "Te kellene, hogy..."**
+**A 2. személyben a ⟪अर्ह्⟫ + igeképző gyakran enyhített parancsként használatos: "Te kellene, hogy..."** <!-- TODO: Fallback translation -->
 
-**Ha az infinitívus egy főnévtől függ, nem kapcsolódhat hozzá összetett szóként. Kivételt képeznek a Bahuvrīhi-szavak, amelyek második tagja ⟪काम⟫ vagy ⟪मनस्⟫:**
+**Ha az infinitívus egy főnévtől függ, nem kapcsolódhat hozzá összetett szóként. Kivételt képeznek a Bahuvrīhi-szavak, amelyek második tagja ⟪काम⟫ vagy ⟪मनस्⟫:** <!-- TODO: Fallback translation -->
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = „egy olyan, akinek a vágya beszélni; egy, aki beszélni kíván”.
 :::
@@ -58,9 +58,9 @@ pl.
 
 **vagy**
 
-**magas rangú gyökér + -i- + -tum**
+**magas rangú gyökér + -i- + -tum** <!-- TODO: Fallback translation -->
 
-**A gyökör végződő mássalhangzói a -tum előtt ugyanazok szerint változnak, mint a PPP -ta előtti esetben.**
+**A gyökör végződő mássalhangzói a -tum előtt ugyanazok szerint változnak, mint a PPP -ta előtti esetben.** <!-- TODO: Fallback translation -->
 
 **Préfixumos igék az infinitívust ugyanúgy képezik, mint a egyszerű gyökök.**
 :::
@@ -72,21 +72,21 @@ Példák:
 :::
 Az -i- kötőmagyaró használatáról nem lehet szilárd szabályokat felállítani. Alapvetően az infinitívus esetében a kötőmagyaró eloszlása megegyezik az időjelével.
 
-A eddig tanult gyökökhöz a következő infinitívusok különösen figyelembe veendők:
+A eddig tanult gyökökhöz a következő infinitívusok különösen figyelembe veendők: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Tőn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Tőn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
 
 ## 23.3. Az infinitívus (⟪तुमुन्⟫) a eddig tanult gyökökhez
 
@@ -157,13 +157,13 @@ Die anderen Tőn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-,
 
 ⟪सामान्य⟫ n.: egyenlőség, összhang
 
-⟪अधिक⟫ ⟪३⟫ : fölösleges, további, nagyobb, jobb, rendkívüli
+⟪अधिक⟫ ⟪३⟫ : fölösleges, további, nagyobb, jobb, rendkívüli <!-- TODO: Fallback translation -->
 
 ⟪विशेष⟫ m.: sajátosság, specifikáció, differentia specifica
 
 ## 23.5. Gyakorlat
 
-A) Az alábbi gyökök képezik az infinitivumot -i- kötőmag hang nélkül. Képezd az infinitivumot a hangváltoztatások figyelembevételével:
+A) Az alábbi gyökök képezik az infinitivumot -i- kötőmag hang nélkül. Képezd az infinitivumot a hangváltoztatások figyelembevételével: <!-- TODO: Fallback translation -->
 
 1.  ⟪आप्⟫
 2.  ⟪इ⟫
@@ -203,7 +203,7 @@ A) Az alábbi gyökök képezik az infinitivumot -i- kötőmag hang nélkül. K�
 36.  ⟪पच्⟫
 37.  ⟪सद्⟫
 
-B) Az alábbi gyökök képezik az infinitivumot -i- kötőmaggal. Képezd az infinitivumot:
+B) Az alábbi gyökök képezik az infinitivumot -i- kötőmaggal. Képezd az infinitivumot: <!-- TODO: Fallback translation -->
 
 1.  ⟪आस्⟫
 2.  ⟪नृत्⟫
@@ -221,7 +221,7 @@ C) A következő gyökök választás szerint kötőmaggal vagy anélkül:
 4.  ⟪मुह्⟫ (3 alak!)
 5.  ⟪सह्⟫
 
-D) Fordítsa le, és bontsa fel a szanszkrit összetételeket:
+D) Fordítsa le, és bontsa fel a szanszkrit összetételeket: <!-- TODO: Fallback translation -->
 
 ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫
 
@@ -251,14 +251,14 @@ Chiang Mai, Thaiföld = เชียงใหม่, ประเทศไทย
 
 ⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫
 
-C) Fordítsa le a következőt ⟪सुभाषितम्⟫
+C) Fordítsa le a következőt ⟪सुभाषितम्⟫ <!-- TODO: Fallback translation -->
 
 ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
 ⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
 
-Magyarázat: ⟪हीन⟫ ⟪३⟫: PPP a következőhöz ⟪हा⟫ 3: elhagy; ⟪धर्मे⟫ = Lokális egyes szám: „a ...-ban”
+Magyarázat: ⟪हीन⟫ ⟪३⟫: PPP a következőhöz ⟪हा⟫ 3: elhagy; ⟪धर्मे⟫ = Lokális egyes szám: „a ...-ban” <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2302.webp)
@@ -266,7 +266,7 @@ Magyarázat: ⟪हीन⟫ ⟪३⟫: PPP a következőhöz ⟪हा⟫ 3: el
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2302))
 :::
-## 23.6. Ismétlőgyakorlat
+## 23.6. Ismétlőgyakorlat <!-- TODO: Fallback translation -->
 
 Kérjük, ne használjanak segédeszközöket!
 
@@ -292,7 +292,7 @@ A tudás megszerzése a tanár iránti engedelmességgel, nagy pénzösszeggel v
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, India miniszterelnöke = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, 2004 óta
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2304))
 :::
-8\. Feleség, fiú és szolga, ezek a három (⟪त्रयस्⟫) hagyomány szerint birtok nélküliek. Amit ezekhez társul, az a tulajdonosaé, akinek ez a három (három) tartozik.
+8\. Feleség, fiú és szolga, ezek a három (⟪त्रयस्⟫) hagyomány szerint birtok nélküliek. Amit ezekhez társul, az a tulajdonosaé, akinek ez a három (három) tartozik. <!-- TODO: Fallback translation -->
 
 9\. A szúnyogok sebet kívánnak, uralkodók birtokot, alacsonyabb rendűek vitát, jók békét.
 
@@ -318,7 +318,7 @@ C) Adja meg a következő igák tőalakjait (jelentés, jelen időosztály, mód
 
 ::: deleteme-box
 
-**lekt2301:** Chiang Mai, Thaiföld = เชียงใหม่, ประเทศไทย [Képmegjelenítés: Wikipedia. GNU FDLicense]
+**lekt2301:** Chiang Mai, Thaiföld = เชียงใหม่, ประเทศไทย [Képmegjelenítés: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Képmegjelenítés: zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Hozzáférés: 2008-12-13. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
@@ -326,3 +326,4 @@ C) Adja meg a következő igák tőalakjait (jelentés, jelen időosztály, mód
 
 **lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, India miniszterelnöke = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, 2004 óta [Képmegjelenítés: Wikipedia, közterület]
 :::
+ <!-- TODO: Fallback translation -->

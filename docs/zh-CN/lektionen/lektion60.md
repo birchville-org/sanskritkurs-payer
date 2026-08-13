@@ -169,7 +169,7 @@ status: stable
 
 **Wenn der schwache Perfektstamm nur aus einer Silbe besteht, wird der Bindevokal -i- angehängt. Bei einigen Perfektformen ist der Bindevokal optional.**
 :::
-例如：
+例如： <!-- TODO: Fallback translation -->
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ “分裂者” |
 | --- | --- |
@@ -251,13 +251,13 @@ status: stable
 
 *   ⟪उदञ्च्⟫ 3 “向上，北方”
 
-*   ⟪तिर्यञ्च्⟫ 3 “waagrecht gehend (von Tieren)”
+*   ⟪तिर्यञ्च्⟫ 3 “horizontal verlaufend (von Tieren)”
 
 *   ⟪सम्यञ्च्⟫ 3 “richtig”
 
 *   ⟪न्यञ्च्⟫ 3 “niedrig”
 
-*   ⟪विष्वञ्च्⟫ 3 “in alle Richtungen gehend”
+*   ⟪विष्वञ्च्⟫ 3 “在一切方向上行走”
 
 ### 60.5.2. 以 -añc 结尾的双词干
 
@@ -272,14 +272,14 @@ status: stable
 *   ⟪प्राञ्च्⟫ 3 “朝前，东方”
 *   ⟪अवाञ्च्⟫ 3 “朝下”
 
-Paradigma ⟪प्राञ्च्⟫ siehe oben!
+范式 ⟪प्राञ्च्⟩ 见上文！
 
-主要方向
+主要天体方向
 
-|   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
+|   | ⟪उदञ्च्⟩ 3:br“向上指向，”br“北方” |   |
 | :---: | :---: | :---: |
-| ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
-|   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
+| ⟪प्रत्यञ्च्⟩ 3:br“向后，”br“西方” | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟩ 3:br“向前指向，”br“东方” |
+|   | ⟪दक्षिण⟩ 3:br“右侧，”br“南方” |   |
 
 (图片来源：[详细信息](/zh-CN/licenses#lekt6005))
 
@@ -310,7 +310,7 @@ Paradigma ⟪प्राञ्च्⟫ siehe oben!
 
 **或者：**
 
-**reduplizierte Wurzel + i + ṣa**
+**重复词根 + i + ṣa**
 
 关于连接元音 -i- 的使用规则，参见 Kielhorn《语法》§ 443 - 445。
 
@@ -359,16 +359,20 @@ Paradigma ⟪प्राञ्च्⟫ siehe oben!
 **关于重叠：**
 
 1.  以辅音开头的词根：重叠形式按照上述规则修改后的词根，遵循通常的重叠规则。以 i 代替 a 作为重叠元音出现：  
-    ⟪पा⟫ » ⟪पिपास⟫-  
-    ⟪त्यज्⟫ » ⟪तित्यज⟫-  
-    ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
-    如果词尾的 -s 因 i/u 而发生腭化，则词根末尾的 -s 的腭化将不发生，前提是 desiderative 后缀的 s 发生了腭化：  
-    ⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+::: indent
+⟪पा⟫ » ⟪पिपास⟫-
+⟪त्यज्⟫ » ⟪तित्यज⟫-
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-
+如果词尾的 -s 因 i/u 而发生腭化，则词根末尾的 -s 的腭化将不发生，前提是 desiderative 后缀的 s 发生了腭化：
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+:::
 
 2.  以元音开头的词根按照适用于重叠过去时（[第56课](lektion56.md)）的相应规则进行重叠：  
-    ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
-    ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-    ⟪ऋ⟫ » ⟪अरिरिष⟫-
+::: indent
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
+⟪ऋ⟫ » ⟪अरिरिष⟫-
+:::
 
 3.  关于特定词根的特别意求态（Desiderativ）构成，请参见Kielhorn《语法》§ 451。
 :::

@@ -19,7 +19,7 @@ Veneración de Gaṇeśa
 ![](/images/lekt0102.webp)
 Fig.: Gaṇeśa, Adamspeak, Sri Lanka
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0102))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: center
 ⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
@@ -72,9 +72,9 @@ Del significado de la palabra.
 
 Al principio, una curiosidad:
 
->"Cuando William Jones [1746–1794] y Henry Thomas Colebrooke (1765—1857) estudiaron por primera vez el sánscrito de manera exhaustiva, lo tradujeron en parte y descubrieron que poseía una rica literatura y una notable parentesco con las lenguas clásicas, se toparon con una considerable resistencia. Dado que esta íntima relación del sánscrito con las lenguas europeas geográficamente tan distantes no podía conciliarse con las concepciones antiguas, las cuales o bien derivaban todas las lenguas del hebreo o las aislaban en gran medida, el famoso filólogo Dugald Stewart (1753—1828) tomó la salida más sencilla, declarando toda la historia con la lengua sánscrita como una mentira. Escribió un ensayo en el que intentó demostrar que había sido forjada por los astutos brahmanes siguiendo el modelo del griego y el latín, y que tanto la lengua como la literatura eran una falsificación. Esta opinión la desarrolló aún más en 1840 el profesor de Dublín, Charles William Wall, extensamente (Anuncios eruditos de Gotinga 1842 p. 1888)."
->
->[Fuente: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- Múnich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- En línea: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Acceso el 2010-01-10]
+&gt;"Cuando William Jones [1746–1794] y Henry Thomas Colebrooke (1765—1857) estudiaron por primera vez el sánscrito de manera exhaustiva, lo tradujeron en parte y descubrieron que poseía una rica literatura y una notable parentesco con las lenguas clásicas, se toparon con una considerable resistencia. Dado que esta íntima relación del sánscrito con las lenguas europeas geográficamente tan distantes no podía conciliarse con las concepciones antiguas, las cuales o bien derivaban todas las lenguas del hebreo o las aislaban en gran medida, el famoso filólogo Dugald Stewart (1753—1828) tomó la salida más sencilla, declarando toda la historia con la lengua sánscrita como una mentira. Escribió un ensayo en el que intentó demostrar que había sido forjada por los astutos brahmanes siguiendo el modelo del griego y el latín, y que tanto la lengua como la literatura eran una falsificación. Esta opinión la desarrolló aún más en 1840 el profesor de Dublín, Charles William Wall, extensamente (Anuncios eruditos de Gotinga 1842 p. 1888)."
+&gt;
+&gt;[Fuente: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- Múnich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- En línea: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Acceso el 2010-01-10]
 
 ## 1.1. Literatura para principiantes en Estudios de la India
 
@@ -84,7 +84,7 @@ Fig.: Portada de una edición de bolsillo
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Parte: Un estudio de la cultura del subcontinente indio antes de la llegada de los musulmanes. -- Londres : Sidgwick & Jackson, 1954. -- Desde entonces, muchas ediciones, también ediciones de bolsillo. -- **Lectura obligatoria.** Una buena visión general de la vida, la historia y la cultura en la India preislámica. Visión general de las diversas áreas de los estudios clásicos de la India.
+&gt;**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Parte: Un estudio de la cultura del subcontinente indio antes de la llegada de los musulmanes. -- Londres : Sidgwick & Jackson, 1954. -- Desde entonces, muchas ediciones, también ediciones de bolsillo. -- **Lectura obligatoria.** Una buena visión general de la vida, la historia y la cultura en la India preislámica. Visión general de las diversas áreas de los estudios clásicos de la India.
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -94,7 +94,7 @@ Fig.: Página de título
 
 **La mejor gramática sistemática**
 
-> **Kielhorn**, Franz \<1840-1908\>: Grammatik der Sanskrit-Sprache / Traducido del inglés por W. Solf [1862 - 1936]. -- Berlín : Dümmler, 1888. -- XIII, 238 p. -- Título original: A grammar of the Sanscrit language
+> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatik der Sanskrit-Sprache / Traducido del inglés por W. Solf [1862 - 1936]. -- Berlín : Dümmler, 1888. -- XIII, 238 p. -- Título original: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +114,7 @@ Fig.: Portada
 
 Una buena y concisa exposición de la terminología lingüística europea se encuentra en:
 
-> **Diccionario Etimológico de la Lengua Alemana** / [Friedrich] Kluge \<1856 - 1926\>. Editado por Elmar Seebold. -- 24.ª ed. revisada y ampliada. -- Berlín [y otros] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Tapa blanda. -- Págs. XIII - XLVII.
+> **Diccionario Etimológico de la Lengua Alemana** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Editado por Elmar Seebold. -- 24.ª ed. revisada y ampliada. -- Berlín [y otros] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Tapa blanda. -- Págs. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)

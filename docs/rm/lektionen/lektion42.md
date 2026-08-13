@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 42
+# Lecziun 42
 
 ## 42.1. Tribus cun final -ṛ
 
@@ -58,7 +58,7 @@ Feminin:
 ### 42.1.2. Formaziun da sustantivs: Suffix -⟪तृ⟫ ⟨⟪कृत्⟫-⟫
 
 ::: grammar-box
-Cun il sufix -⟪तृ⟫, che è fitg cumünà cun ⟪कृत्⟫, vegnan formads nomina agentis (designaziuns per il ⟪कर्तृ⟫) a la quasi tut las radischas u stemms causativs.
+Cun il sufix -⟪तृ⟫, che è fitg cumünà cun ⟪कृत्⟫, vegnan formads nomina agentis (designaziuns per il ⟪कर्तृ⟫) a la quasi tut las radischas u stemms causativs. <!-- TODO: Fallback translation -->
 
 **Educaziun:**
 
@@ -114,7 +114,7 @@ Quai cumprendan las suenterdidas relaziuns da parentada:
     *   **avant vocal: -r**
     *   **avant consonant: -ṛ**
 :::
-Exemples:
+Exemples: <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪पितृ⟫** m. "bà"
@@ -138,11 +138,11 @@ Comè element anterior d'un cumponì, ston sustantivs sin -ṛ natiralmain en lu
 *   **vor Konsonant: -ṛ**
 *   **vor Vokal: -r**
 :::
-## 42.2. Glista da pleds
+## 42.2. Glista da pleds <!-- TODO: Fallback translation -->
 
 ⟪प्रकृति⟫ f.: (a ⟪कृ⟫ + ⟪प्र⟫) furma da basa, stadi natirala, natira; materia primordiala, sustantiv primordial
 
-⟪अर्जुन⟫ m. num propriu: Arjuna, inu da ils tschintg fegls da ⟪पण्डु⟫. Eroi en ⟪महाभारत⟫ (vesei Basham, Wonder p. 409 - 414)
+⟪अर्जुन⟫ m. num propriu: Arjuna, inu da ils tschintg fegls da ⟪पण्डु⟫. Eroi en ⟪महाभारत⟫ (vesei Basham, Wonder p. 409 - 414) <!-- TODO: Fallback translation -->
 
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstinenz da, s'allontanar da, s'astgirar, restar, star
 
@@ -151,7 +151,7 @@ PPP ⟪अवस्थित⟫ 3: stentent, preschent
 :::
 ⟪पुरा⟫ Adv.: ina, avant
 
-⟪अनेक⟫ 3: bler (betg in uer)
+⟪अनेक⟫ 3: bler (betg in uer) <!-- TODO: Fallback translation -->
 
 ⟪कुमार⟫ m.: Prinzi
 
@@ -161,7 +161,7 @@ PPP ⟪अवस्थित⟫ 3: stentent, preschent
 
 ⟪सकाश⟫ m.: Preschientscha, preschaint
 
-⟪शर⟫ m.: tija da fleug, fleug
+⟪शर⟫ m.: tija da fleug, fleug <!-- TODO: Fallback translation -->
 
 ⟪बाण⟫ m.: fleu, object
 
@@ -207,7 +207,7 @@ Inf. ⟪शंसितुम्⟫
 :::
 ⟪हृदय⟫ n.: cor
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+### 42.2.1. Einige Verwandtschaftsbezeichnungen <!-- TODO: Fallback translation -->
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
@@ -216,7 +216,7 @@ Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 :::
 ⟪भर्तृ⟫ m. (a ⟪भृ⟫ "portar, mantegnair"): mantegnidor, nutrider, consors
 
-⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
+⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte) <!-- TODO: Fallback translation -->
 
 ⟪पितृ⟫ m.: babb
 
@@ -243,7 +243,7 @@ Ambedue vegnan ritus executads, usitads ⟪श्राद्ध⟫ n. Mintgadi 
 
 ⟪देवृ⟫ m.: frar dal marià (sorella dal marià)
 
-⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns
+⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns <!-- TODO: Fallback translation -->
 
 ⟪ननान्दृ⟫ f.: Sora dal mari
 
@@ -336,11 +336,11 @@ Fig.: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान�
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Sursa da l’imagina: [Detagls](/rm/licenses#lekt4206))
 :::
-⟪जनक⟫ m. num da persuna: re da ⟪विदेह⟫
+⟪जनक⟫ m. num da persuna: re da ⟪विदेह⟫ <!-- TODO: Fallback translation -->
 
 ⟪गुरुतर⟫ 3: Komparativ zu ⟪गुरु⟫ 3: pli ferm, assai ferm
 
-⟪धनुस्⟫ Nom.Akk.sg.n. zu ⟪धनुस्⟫ n. "Arc"
+⟪धनुस्⟫ Nom.Akk.sg.n. zu ⟪धनुस्⟫ n. "Arc" <!-- TODO: Fallback translation -->
 
 ⟪शतशस्⟫ Adv.: a chadasc
 
@@ -353,7 +353,7 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 Abb.: ⟪रावणः⟫
 (Quellbild: [Details](/rm/licenses#lekt4207))
 :::
-⟪अयोध्या⟫ f. num da l’agen: chapitala da ⟪कोसल⟫ (vess la charta sura!)
+⟪अयोध्या⟫ f. num da l’agen: chapitala da ⟪कोसल⟫ (vess la charta sura!) <!-- TODO: Fallback translation -->
 
 ⟪दशरथ⟫ m. num propriu: règ da ⟪कोसल⟫
 
@@ -363,7 +363,7 @@ Abb.: ⟪रावणः⟫
 
 :sig[⟪विश्वामित्र⟫] m. num propriu: ⟪ऋषि⟫, ha strit ⟪राम⟫ e ⟪लक्ष्मन⟫ per serrar demòns; per quai els duan da el armas magicas.
 
-⟪सीतारामयोस्⟫ Genitiv Lokativ Dual zu ⟪सीताराम⟫
+⟪सीतारामयोस्⟫ Genitiv Lokativ Dual zu ⟪सीताराम⟫ <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

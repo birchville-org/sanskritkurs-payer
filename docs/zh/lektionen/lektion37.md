@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 37
+# 第37課
 
 ## 37.1. 副词（⟪क्रियाविशेषणम्⟫）
 
@@ -34,20 +34,26 @@ Adverbial gebraucht werden kann der Akkusativ: <!-- TODO: Fallback translation -
 
 *   von Substantiven   <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪कामम्⟫ "wunschgemäß, nach Wunsch"  
-    ⟪अर्थम्⟫ "wegen"   <!-- TODO: Fallback translation -->
+::: indent
+⟪कामम्⟫ "wunschgemäß, nach Wunsch"
+⟪अर्थम्⟫ "wegen"   <!-- TODO: Fallback translation -->
+:::
 
 *   von Adjektiven im Neutrum   <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪सुखम्⟫ "leicht, glücklich"  
-    ⟪नित्यम्⟫ "stets"  
-    ⟪साधु⟫ "richtig, gut"   <!-- TODO: Fallback translation -->
+::: indent
+⟪सुखम्⟫ "leicht, glücklich"
+⟪नित्यम्⟫ "stets"
+⟪साधु⟫ "richtig, gut"   <!-- TODO: Fallback translation -->
+:::
 
 *   von Pronomina im Neutrum   <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪तद्⟫ "dann, darum"  
-    ⟪यद्⟫ "wenn, dass"  
-    ⟪एतद्⟫ "so, hier, jetzt" <!-- TODO: Fallback translation -->
+::: indent
+⟪तद्⟫ "dann, darum"
+⟪यद्⟫ "wenn, dass"
+⟪एतद्⟫ "so, hier, jetzt" <!-- TODO: Fallback translation -->
+:::
 :::
 ### 37.2.2. Instrumentalis (⟪तृतीया⟫)
 
@@ -62,13 +68,17 @@ Adverbial gebraucht werden kann der Instrumentalis: <!-- TODO: Fallback translat
 
 *   von Substantiven   <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪अर्थेन⟫ "wegen"  
-    ⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")   <!-- TODO: Fallback translation -->
+::: indent
+⟪अर्थेन⟫ "wegen"
+⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")   <!-- TODO: Fallback translation -->
+:::
 
 *   von Adjektiven, oft auch in der Pluralform   <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")  
-    ⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)") <!-- TODO: Fallback translation -->
+::: indent
+⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")
+⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)") <!-- TODO: Fallback translation -->
+:::
 :::
 ### 37.2.3. Dativ (⟪चतुर्थी⟫)
 
@@ -103,8 +113,10 @@ Adverbial gebraucht werden kann der Ablativ: <!-- TODO: Fallback translation -->
 
 *   von Pronomina   <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪कस्मात्⟫ "warum"  
-    ⟪अकस्मात्⟫ "unerwartet" <!-- TODO: Fallback translation -->
+::: indent
+⟪कस्मात्⟫ "warum"
+⟪अकस्मात्⟫ "unerwartet" <!-- TODO: Fallback translation -->
+:::
 :::
 ### 37.2.5. Genetiv (⟪षष्ठी⟫)
 

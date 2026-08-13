@@ -21,7 +21,7 @@ status: stable
 
 ::: grammar-box
 **Esquema:**
-**(Agente - kartṛ - en Instrumental (tṛtīyā)) - (objeto directo - karman - en Nominativooo) - forma verbal pasiva**
+**(Agente - kartṛ - en Instrumental (tṛtīyā)) - (objeto directo - karman - en Nominativooooooo) - forma verbal pasiva**
 
 p.ej. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "Un brahmán venera a un dios con un sacrificio" (literalmente: "Un dios es venerado por un brahmán con un sacrificio.")
 
@@ -30,13 +30,13 @@ Esta oración es **totalmente (!) equivalente en significado** con la oración:
 :::
 
 ::: grammar-box
-- En la oración pasiva, el Agente (**kartṛ**) está en **Instrumental** (tṛtīyā f. "tercer caso"), y el objeto directo (**karman** n.) está en **Nominativooo** (prathamā f.).
+- En la oración pasiva, el Agente (**kartṛ**) está en **Instrumental** (tṛtīyā f. "tercer caso"), y el objeto directo (**karman** n.) está en **Nominativooooooo** (prathamā f.).
 - Las oraciones pasivas en las que no se designa al Agente suelen tener un significado impersonal ("uno"):
   p.ej. **ijyate** = ⟪इज्यते⟫ "Uno sacrifica" (literalmente: "se venera con un sacrificio").
 :::
 
 ::: grammar-box
-**Incluso si la oración activa correspondiente contuviera un acusativo (dvitīyā) del destino, este puede ponerse en el Nominativooo (prathamā) en la oración pasiva:**
+**Incluso si la oración activa correspondiente contuviera un acusativo (dvitīyā) del destino, este puede ponerse en el Nominativooooooo (prathamā) en la oración pasiva:**
 
 A la oración activa **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma va a la aldea." corresponden las oraciones pasivas:
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
@@ -120,7 +120,9 @@ Excepto en el nominativo y acusativo, las formas de los neutros en -a, del prono
 2. **para indicar el medio o instrumento con el que se realiza algo**
 3. **para indicar la vía o camino por el que alguien llega a un lugar**
 4. **para expresar la conexión, unión o acompañamiento de**
-5. **con postposiciones en el significado "junto con, con"; p. ej. saha = ⟪सह⟫ = "con"**:brp. ej.:br**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "junto con el brahmán"
+5. **con postposiciones en el significado "junto con, con"; p. ej. saha = ⟪सह⟫ = "con"**
+p. ej.
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "junto con el brahmán"
 :::
 Otros usos del instrumental (tṛtīyā) se presentan más adelante.
 
@@ -171,17 +173,24 @@ por ejemplo
 ### 10.4.1. Reglas especiales para la formación del pasivo
 
 1. **Raíces terminadas en -i o -u** alargan su vocal antes del sufijo pasivo **-ya-**:
-   * **ji** 1 P: **jīyate**, **jīyante**:br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P: **śrūyate**, **śrūyante**:br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U: **sūyate**, **sūyante**:br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 1 P: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Raíces con -a- entre consonantes** (excepto nasales, y, r, v) permanecen en grado pleno:
-   * **labh** 1 Ā: **labhyate**, **labhyante**:br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Algunas raíces forman su pasivo en grado pleno** (o en el grado de ablaut de la raíz del presente):
-   * **āp** 5 P: **āpyate**, **āpyante**:br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante**:br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante**:br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **Grado reducido de verbos que comienzan con ya, va, ra, o donde estos sonidos se encuentran después de otra consonante (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -194,16 +203,20 @@ por ejemplo
    La denominación tradicional nativa para esta formación del grado reducido en verbos con **ya** o **va** es **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ final** después de una única consonante se reemplaza por **-ri-** antes del sufijo pasivo **-ya-**:
-   * **kṛ** 8 U: **kriyate**, **kriyante**:br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Pero: **smṛ** 1 P: **smaryate**:br⟪स्मर्यते⟫
+* **kṛ** 8 U: **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Pero: **smṛ** 1 P: **smaryate**
+⟪स्मर्यते⟫
 
 6. **Algunas raíces terminadas en -an tienen alternativamente dos formaciones de la raíz del pasivo:**
    * una **-an-ya**
    * una **-ā-ya-** (el largo **ā** es un representante de un hipotético nasal largo)
 
    p. ej. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte**:br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte**:br⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
 
 ## 10.5. Lista de palabras
 
@@ -214,7 +227,7 @@ por ejemplo
 - **nagara** n. ⟪नगर⟫ : Ciudad
 
   ::: note-box
-**yajña** m. ⟪यज्ञ⟫ : sacrificio
+  **yajña** m. ⟪यज्ञ⟫ : sacrificio
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : sacrificio
@@ -228,7 +241,7 @@ por ejemplo
 - **puṇya** n. ⟪पुण्य⟫ : buena acción, mérito
 
   ::: note-box
-**satya** n. ⟪सत्य⟫ : verdad
+  **satya** n. ⟪सत्य⟫ : verdad
   :::
 
 - **pāpa** n. ⟪पाप⟫ : maldad, mal (contrario a **puṇya**)

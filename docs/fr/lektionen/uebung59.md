@@ -23,7 +23,7 @@ La traduction est volontairement maladroite, afin de servir d'aide à la traduct
 
 _Aide à la traduction :_ Vers 6 : ⟪दिदृक्षते⟫ \= Désidératif de ⟪दृश्⟫
 
-Texte tiré de : Otto Böhtlingk : Sanskrit-Chrestomathie p. 127s.
+Texte tiré de : Otto Böhtlingk : Sanskrit-Chrestomathie p. 127s. <!-- TODO: Fallback translation -->
 
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫

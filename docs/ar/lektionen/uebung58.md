@@ -48,7 +48,7 @@ Abb.: ⟪तब्लाः⟫
 ![](/images/uebung097.webp)
 Abb.: ⟪मातुलङ्गविक्रेतायं⟫ ⟪ना⟫ ⟪॥⟫  
 Pune - ⟪पुणे⟫  
-\[Bildquelle: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Zugriff am 2009-03-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+\[Bildquelle: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Zugriff am 2009-03-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] <!-- TODO: Fallback translation -->
 
 1.  ⟪अनेढ्वम्⟫ - ⟪नी⟫ 1U 2.pl.Aor(4).Ā أنتما قادتما لأنفسكما
 2.  ⟪एनयोः⟫ - ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫ Gen.Lok.du.m.f.n. هذان / في هذين

@@ -117,7 +117,7 @@ status: stable
 * ἐξ ἑνὸς πλευρᾶς εἴδησις βαθμοῦ τῆς ἀblaut με -a-
 * ἀφ' ἑτέρου υψηλός βαθμός σε μια σειρά ablaut της ομάδας ā
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A.**
@@ -170,7 +170,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Ἀόριστος** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Εὐκτικὸς** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Αἱ ῥίζαι ⟪दा⟫ καὶ :sig[⟪धा⟫]
+### 33.4.1. Αἱ ῥίζαι ⟪दा⟫ καὶ :sig[⟪धा⟫] <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Αἱ ῥίζαι ⟪दा⟫ καὶ :sig[⟪धा⟫] διπλασιάζουσι μετὰ τοῦ φωνήεντος -a- καὶ ἀποβάλλουσι τὸν φωνήεντα τῆς ῥίζης ἐν τῷ ἀσθενεῖ φωνήεντι.**

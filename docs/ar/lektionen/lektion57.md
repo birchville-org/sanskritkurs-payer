@@ -94,7 +94,7 @@ status: stable
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪कृष्⟫ 1ش/6ج 3مخ. ⟨�अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -142,10 +142,14 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 **⟪अगसि⟩ (« \*a-gm-si) ⟪।⟩ ⟪अगथास्⟩ ⟪।⟩ ⟪अगत⟩ (في صيغة المتكلم المفرد "پ" يمتلك ⟪गम्⟩ الماضي البسيط ذو اللفظ الموضوعي)**
 
 2.  ⟪⟪पद्⟫⟫ 4Ā هو نظام منتظم (مثل ⟪अपत्सि⟫)، لكن في صيغة الغائب المفرد المفرد 3.sg.ġ له شكل الماضي السلبي للجذر:
-    ⟪अपादि⟫ "ذهب"
+::: indent
+⟪अपादि⟫ "ذهب"
+:::
 
 3.  ⟪बुध्⟫ يمكن أن يأخذ ā في صيغة الغائب المفرد الثالث شكل أوريست السلبي اختياريًا:
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "أدرك"
+::: indent
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "أدرك"
+:::
 :::
 ## 57.2. تمرين
 

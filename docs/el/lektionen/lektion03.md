@@ -76,7 +76,7 @@ status: stable
 :::
 π.χ.
 
-devatā + annapūrṇā » devatānnapūrṇā «Η Ανναπούρνα είναι μια θεότητα» = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā «Η Ανναπούρνα είναι μια θεότητα» = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
 
 > (Η Ανναπούρνα είναι η θεά των τροφίμων και του μαγειρέματος, θεωρείται ως μια ενσάρκωση της Πάrvatī, συζύγου του Σίβα.)
 
@@ -127,7 +127,7 @@ devī + umā » devy umā «Η Ούμα είναι μια / η θεά» = ⟪द
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-π.χ.
+π.χ. <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ «Vaiśyas είναι δις γεννημένοι» = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

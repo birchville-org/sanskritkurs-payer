@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 6
 
-A) Alkoss igemondatokat a zárójelben megadott gyökökből az igei elemek behelyettesítésével:
+A) Alkoss igemondatokat a zárójelben megadott gyökökből az igei elemek behelyettesítésével: <!-- TODO: Fallback translation -->
 
 brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
 
@@ -44,7 +44,7 @@ dhenur viśati. dhenur bhavati.
 
 ⟪धेनुर्विशति⟫ ⟪।⟫ ⟪धेनुर्भवति⟫ ⟪॥⟫
 
-B) Alakítsd át az A gyakorlatban képzett mondatokat többes számra
+B) Alakítsd át az A gyakorlatban képzett mondatokat többes számra <!-- TODO: Fallback translation -->
 
 brāhmaṇā yajanti / yajante / nṛtyanti / viśanti / manyante / yudhyante / nayanti / nayante / muhyanti.
 
@@ -151,7 +151,7 @@ sā brāhmaṇī nṛtyati.
 
 ## Ismétlőgyakorlat 6. lecke
 
-A) Helyettesítő gyakorlat: Alkoss kérdéseket, amelyekre a mondatok válaszai azok, amelyeket az alábbi helyettesítő gyakorlatok után képeznek:
+A) Helyettesítő gyakorlat: Alkoss kérdéseket, amelyekre a mondatok válaszai azok, amelyeket az alábbi helyettesítő gyakorlatok után képeznek: <!-- TODO: Fallback translation -->
 
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -374,7 +374,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Alakítsa át a nőneműre:
+D) Alakítsa át a nőneműre: <!-- TODO: Fallback translation -->
 
 1\. śūdro nayati.
 
@@ -423,7 +423,7 @@ E) Fordítás:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
 
 2. śūdretarā.
 
@@ -447,7 +447,7 @@ Māgha ist ein Dichter.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin.
+Umā ist eine Göttin. <!-- TODO: Fallback translation -->
 
 6. śrutirvedaḥ.
 
@@ -459,13 +459,13 @@ Der Veda ist Śruti.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein.
+Die Kuh tritt ein. <!-- TODO: Fallback translation -->
 
 8. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister.
+Caitanya ist ein Meister. <!-- TODO: Fallback translation -->
 
 9. devīndrāṇī.
 
@@ -477,15 +477,15 @@ Indrāṇī ist eine Göttin.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger.
+Der Meister ist ein Heiliger. <!-- TODO: Fallback translation -->
 
 11. gururyajate.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-Der Meister opfert als Opferherr.
+Der Meister opfert als Opferherr. <!-- TODO: Fallback translation -->
 
-F) Übersetzen Sie ins Sanskrit:
+F) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
 
 1. Rāma opfert (als Opferherr).
 
@@ -493,13 +493,13 @@ rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2. Durgā ist eine Göttin.
+2. Durgā ist eine Göttin. <!-- TODO: Fallback translation -->
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3. Mīnākṣī ist eine Göttin.
+3. Mīnākṣī ist eine Göttin. <!-- TODO: Fallback translation -->
 
 devī mīnākṣī.
 
@@ -517,25 +517,25 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6. Wer ist der HERR?
+6. Wer ist der HERR? <!-- TODO: Fallback translation -->
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7. Indra ist der HERR.
+7. Indra ist der HERR. <!-- TODO: Fallback translation -->
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8. Die Nutztiere treten ein.
+8. Die Nutztiere treten ein. <!-- TODO: Fallback translation -->
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9. Viṣṇu lässt emanieren = Viṣṇu erschafft.
+9. Viṣṇu lässt emanieren = Viṣṇu erschafft. <!-- TODO: Fallback translation -->
 
 viṣṇuḥ sṛjati.
 
@@ -547,37 +547,37 @@ sādhavo dvijātayaḥ.
 
 ⟪साधवो⟫ ⟪द्विजातयः⟫ ⟪।⟫
 
-11. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten)
+11. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
 
 sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ ⟪।⟫ ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-12. Diese Göttin ist gut.
+12. Diese Göttin ist gut. <!-- TODO: Fallback translation -->
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
 ⟪साध्व्यीयं⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्व्येषा⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्वी⟫ ⟪सा⟫ ⟪देवी⟫ ⟪।⟫
 
-13. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten)
+13. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
 
 avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo dveṣo 'bhiniveśaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫ ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-14. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten)
+14. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ / maitrī karuṇā muditopekṣā (ca) brahmavihārāḥ.
 
 ⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪।⟫
 
-15. Diese Brahmanen opfern im Auftrag anderer.
+15. Diese Brahmanen opfern im Auftrag anderer. <!-- TODO: Fallback translation -->
 
 ete / ime brāhmaṇā yajanti.
 
 ⟪एते⟫ / ⟪इमे⟫ ⟪ब्राह्मणा⟫ ⟪यजन्ति⟫ ⟪।⟫
 
-16. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten)
+16. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
 
 dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣatriyā vaiśyāś ca.
 
@@ -596,7 +596,7 @@ kiṃ kuśalam?
 
 ⟪किं⟫ ⟪कुशलम्⟫ ⟪।⟫
 
-19. (Minden tekintetben) jól vagyok.
+19. (Minden tekintetben) jól vagyok. <!-- TODO: Fallback translation -->
 
 sarvathā kuśalam.
 

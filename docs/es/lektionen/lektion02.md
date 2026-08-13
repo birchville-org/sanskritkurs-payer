@@ -5,7 +5,7 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 2
 
@@ -49,12 +49,12 @@ En los diccionarios de sánscrito, los sustantivos se listan en su **tema nomina
 
 ## 2.3. El nominativo singular
 
-**Nominativooo singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
+**Nominativoooooo singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 ::: grammar-box
 **El nominativo singular termina en -s = -⟪स्⟫ o bien es sin terminación.**
 :::
-### 2.3.1. Nominativooo singular en -s
+### 2.3.1. Nominativoooooo singular en -s
 
 Los siguientes stems nominales, que terminan en una vocal, forman el nominativo singular en **-s**:
 
@@ -72,7 +72,7 @@ La terminación de una palabra se ajusta en sánscrito también según la inicia
 
 Véase también el resumen:
 
-> **Payer, Alois \<1944 - \>:** Sandhi de la -s final. -- (Materiales de sánscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi de la -s final. -- (Materiales de sánscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 La **-s** final:
 
@@ -160,7 +160,7 @@ Fig.: Representación de la división de estados de la Europa medieval (grabado 
 
 Los tres estados llevan el traje correspondiente a su estado. Sobre los estados, designados como voluntad divina, trona Cristo.
 
-Max Weber \<1864 – 1920\> define estado así:
+Max Weber \&lt;1864 – 1920\&gt; define estado así:
 
 ::: note-box
 "**Estado**" debe significar una multitud de personas que, dentro de una asociación,
@@ -180,7 +180,7 @@ Mientras que las clases ocupacionales crecen sobre la base de la economía orien
 
 Cada sociedad estamental es convencional, ordenada por reglas de conducta, crea por tanto condiciones de consumo económicamente irracionales y obstaculiza de esta manera mediante apropiaciones monopolísticas y mediante la exclusión de la libre disposición de la propia capacidad de ganancia la libre formación del mercado.
 
-[**Weber, Max \<1864 – 1920\>:** Economía y sociedad : bosquejo de una sociología comprensiva. – 5., revisada ed. – Tubinga : Mohr, 1976. – P. 625 ss.]
+[**Weber, Max \&lt;1864 – 1920\&gt;:** Economía y sociedad : bosquejo de una sociología comprensiva. – 5., revisada ed. – Tubinga : Mohr, 1976. – P. 625 ss.]
 :::
 Los varṇas son, por consiguiente, estamentos de nacimiento.
 

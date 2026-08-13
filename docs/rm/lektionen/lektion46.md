@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 46
+# Lecziun 46
 
-## 46.1. Furmaziun dals furmaverbs da la 2. persuna (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
+## 46.1. Furmaziun dals furmaverbs da la 2. persuna (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫) <!-- TODO: Fallback translation -->
 
 ### 46.1.1. Desinenzas
 
@@ -29,14 +29,14 @@ Avant -tha, la mai part dals radis -ṛ n'han nagina vocala da cunvegna \-i-. Pe
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u ni -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal ni h unmittelbar vorangeht.
 :::
-### 46.1.3. Perfekt Tip I: nagina la declinaziun dal stem
+### 46.1.3. Perfekt Tip I: nagina la declinaziun dal stem <!-- TODO: Fallback translation -->
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   Konsonant-Langvokal-Konsonant
 *   Konsonant-Vokal-Konsonant-Konsonant
 *   a-Konsonant(-Konsonant)
-*   ā-Konsonant
+*   ā-Konsonant <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1.sg.P = 3.sg.P = 2.pl.P
@@ -65,9 +65,9 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   (Konsonant-)i/u/ṛ/ḷ-Konsonant
 
@@ -91,7 +91,7 @@ Verben, die diesem Typ folgen:
 
 #### 46.1.5.1. Tip IIIa dal perfet: radza forta cun vusch stenta/lungida, radza debila cun vusch bassa
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   (Konsonant-)(Konsonant-)i/ī/u/ū
 *   (Konsonant-)-ṛ
@@ -128,9 +128,9 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfekt Tip IIIb: Stamm fort, nivellev autgìr / nivellev allungà, Stamm debel nivellev autgìr
+#### 46.1.5.2. Perfekt Tip IIIb: Stamm fort, nivellev autgìr / nivellev allungà, Stamm debel nivellev autgìr <!-- TODO: Fallback translation -->
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   (Konsonant-)(Konsonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -177,7 +177,7 @@ Verben, die diesem Typ folgen:
 
 #### 46.1.7.1. Perfekt Tip Va: Konsonant-a-Konsonant, stem debole livell bass
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 ::: indent
 1.  tra auters
@@ -188,7 +188,7 @@ Verben, die diesem Typ folgen:
 6.  tra auters
 7.  tra auters
 :::
-⟪गम्⟫ 1P
+⟪गम्⟫ 1P <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -267,7 +267,7 @@ La 2.sg.P. vegnida formada dal stem deble, sche il vocal da giuntaziun -i- s'att
 :::
 #### 46.1.7.3. Perfetg tip Vc: Consonant-a-Consonant, stem fiabl nivell aut
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   Tut las autras radichas cun -a- intermediar
 
@@ -279,7 +279,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Besondere Perfekt-Bildungen
+### 46.1.8. Furmaziuns da perfect spezialas
 
 ⟪विद्⟫ 2P presentic perfect
 
@@ -390,14 +390,14 @@ Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/rm/licenses#lekt4
 ![](/images/lekt4604.webp)
 Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/rm/licenses#lekt4604)
 (Imàgin da la font: [Detagls](/rm/licenses#lekt4604))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/rm/licenses#lekt4605)
 (Fontana d'immagim: [Detagls](/rm/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sa cuntentar, esser cuntent cun (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sa cuntentar, esser cuntent cun (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪⟪तुतोष⟫⟫, ⟪⟪तुतुषुर्⟫⟫  
@@ -424,7 +424,7 @@ V. inf. ⟪नन्तुम्⟫
 Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/rm/licenses#lekt4607)
 (Bildquelle: [Detagls](/rm/licenses#lekt4607))
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : gudagnar, muntar
+⟪रुह्⟫ 1P ⟪रोहति⟫ : gudagnar, muntar <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
@@ -440,7 +440,7 @@ Inf. ⟪रोढुम्⟫
 Abb.: [⟪अश्वरोहकः⟫](/rm/licenses#lekt4606)
 (Bildquelle: [Details](/rm/licenses#lekt4606))
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : clamar, evocar
+⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : clamar, evocar <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. IIIa ⟪⟪जुहाव⟫⟫, ⟪⟪जुहुवे⟫⟫  
@@ -514,7 +514,7 @@ davon:
 Fig.: [⟪सङ्गः⟫](/rm/licenses#lekt4610)
 (Fontana da l'imaginescha: [Detagls](/rm/licenses#lekt4610))
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : ir, cursar
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : ir, cursar <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
@@ -566,7 +566,7 @@ Imm.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/rm/
 PPP ⟪परिभूत⟫ 3: sconfigiu, umilià, degradà
 
 :::
-⟪नि⟩ Präverb: giu, versu, en, enavos
+⟪नि⟩ Präverb: giu, versu, en, enavos <!-- TODO: Fallback translation -->
 
 ::: indent
 z.B.
@@ -658,7 +658,7 @@ Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪�
 
 ::: deleteme-box
 
-Fonta dals imatgs dals Navagraha: Redtigerxyz / Wikipedia. Licenza GNU FDL
+Fonta dals imatgs dals Navagraha: Redtigerxyz / Wikipedia. Licenza GNU FDL <!-- TODO: Fallback translation -->
 
 L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870). Fonte: Wikipedia. Domini public
 

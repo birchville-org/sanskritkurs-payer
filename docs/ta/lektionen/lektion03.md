@@ -127,7 +127,7 @@ devī + umā » devy umā "உமா ஒரு / அந்த தெய்வம
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-எ.கா
+எ.கா <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "வைசியர்கள் இருமுறை பிறந்தவர்கள்" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

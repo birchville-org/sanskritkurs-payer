@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 55
 
-Határozza meg és fordítsa le a következő alakokat, valamint képezze az **a-aoristos** megfelelő alakjait:
+Határozza meg és fordítsa le a következő alakokat, valamint képezze az **a-aoristos** megfelelő alakjait: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Szám. | Alak | Meghatározás / Jelentés | a-aoristos |
@@ -46,7 +46,7 @@ Határozza meg és fordítsa le a következő alakokat, valamint képezze az **a
 | ⟪२९⟫. | ⟪अशाम्यत⟫ | :sig[⟪शम्⟫] 4P: 2. Pl. Impf. P. (nyugodtak lettetek) | ⟪अशमत⟫ |
 | ⟪३०⟫. | ⟪अशोभथाः⟫ | :sig[⟪शुभ्⟫] 1Ā: 2. Sg. Impf. Ā. (szép voltál) | ⟪अशुभः⟫ (a-aor.: P.) |
 | ⟪३१⟫. | ⟪अशुष्याम⟫ | :sig[⟪शुष्⟫] 4P: 1. Pl. Impf. P. (szárazak lettünk) | ⟪अशुषाम⟫ |
-| ⟪३२⟫. | ⟪सिष्णेह⟫ | :sig[⟪स्निह्⟫] 4P: 1. 3. Sg. Perf. P. (szerettem / szerette) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** |
+| ⟪३२⟫. | ⟪सिष्णेह⟫ | :sig[⟪स्निह्⟫] 4P: 1. 3. Sg. Perf. P. (szerettem / szerette) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** | <!-- TODO: Fallback translation -->
 
 :::
 ::: media

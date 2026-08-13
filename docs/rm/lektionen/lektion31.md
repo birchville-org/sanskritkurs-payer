@@ -4,7 +4,7 @@ lesson_id: 31
 status: stable
 ---
 
-# Lektion 31
+# Lecziun 31
 
 ## 31.1. La 7. classa da prezens (⟪रुधादि⟫ = "⟪रुध्⟫ e.u.i.")
 
@@ -30,7 +30,7 @@ Exempels:
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | | <!-- TODO: Fallback translation -->
 
 :::
 ⟪रुध्⟫ 7U "fermar, fermar en il stadi da quiet"
@@ -76,7 +76,7 @@ davon:
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
-4. ⟪कलि⟫
+4. ⟪कलि⟫ <!-- TODO: Fallback translation -->
 
 Il **⟪कलियुग⟫** cumenzà vers l'onn 3102 a.C., l'onn da la guerra dal **⟪महाभारत⟫**. Detagls cun Basham, Wonder p. 323)
 
@@ -172,7 +172,7 @@ Abb.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Bildquelle: [Details](/rm/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : nascher, exister
+**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : nascher, exister <!-- TODO: Fallback translation -->
 
 **⟪शरीर⟫ n.:** corp, corp
 

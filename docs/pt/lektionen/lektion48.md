@@ -152,7 +152,7 @@ Nota: ¹ para a explicação de ⟪जहि⟫, ver Thumb-Hauschild I,2 p. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Terceira classe do presente (⟪जुहोत्यादि⟫)
+### 48.2.4. Terceira classe do presente (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A 3ª pl. P termina em \-atu !**
@@ -191,7 +191,7 @@ Nota: ¹ ⟪धेहि⟫ de *dhazdhi: queda do sibilante indo-europeu z com a
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Sobre a formação nominal: sufixos ⟪तद्धित⟫ -a e -ya
+## 48.3. Sobre a formação nominal: sufixos ⟪तद्धित⟫ -a e -ya <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Com o sufixo **-a** e (mais raramente) **-ya**, um substantivo pode ser derivado de outro substantivo. Nesse processo, a primeira sílaba do substantivo original recebe o grau de alongamento (⟪वृद्धि⟫). Se o radical da palavra original já termina em **-a**, o ⟪वृद्धि⟫ é o único sinal da derivação, pois nada muda no final do radical.
@@ -228,7 +228,7 @@ Exemplos:
 | **\-a** | Substituição do **\-a** da palavra base pelo novo sufixo **\-a**.:brVer exemplos acima. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **outros radicais de declinação:** | ver Wackernagel, Altind. Grammatik II,2 § 38 |
+| **outros radicais de declinação:** | ver Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
 
 Antes do sufixo **-ya**, a vogal final do radical é tratada de forma semelhante a como é antes do sufixo **-a**.
 :::
@@ -265,7 +265,7 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Fonte da imagem: [Detalhes](/licenses#lekt4802))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4803.webp)
@@ -307,7 +307,7 @@ Fig.: ⟪कुमारः⟫
 Festival de Thaipusam = தைப்பூசம், Batu Caves, Malásia
 (Fonte da imagem: [Detalhes](/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: menina, filha
+⟪कुमारी⟫ f.: menina, filha <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -315,7 +315,7 @@ Fig.: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: infância
+⟪कौमर⟫ n.: infância <!-- TODO: Fallback translation -->
 
 ⟪यौवन⟫ n.: juventude
 

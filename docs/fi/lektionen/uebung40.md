@@ -10,25 +10,25 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 40
 
-A) Käännä ⟪सुभाषितानि⟫ harjoituksen alussa:
+A) Käännä ⟪सुभाषितानि⟫ harjoituksen alussa: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. **⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫ ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫**  
 **⟪पात्रत्वाद्धनमाप्नोति⟫ ⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-Tieto synnyttää oikean käytöksen, ja oikeasta käytöksestä tulee kunnioitettava; kun on kunnioitettava, tulee rikkaaksi; kun on rikas, tulee oikeudenmukaiseksi — ja tästä seuraa onni.
+Tieto synnyttää oikean käytöksen, ja oikeasta käytöksestä tulee kunnioitettava; kun on kunnioitettava, tulee rikkaaksi; kun on rikas, tulee oikeudenmukaiseksi — ja tästä seuraa onni. <!-- TODO: Fallback translation -->
 
 ⟪२⟫. **⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫ ⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫**  
 **⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫ ⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Kun etsii onnea ja luopuu tiedosta, tai kun etsii tietoa ja luopuu onnesta: mistä löytää tietoja etsivä tiedon, ja mistä onnea etsivä onnen?
+Kun etsii onnea ja luopuu tiedosta, tai kun etsii tietoa ja luopuu onnesta: mistä löytää tietoja etsivä tiedon, ja mistä onnea etsivä onnen? <!-- TODO: Fallback translation -->
 
 ⟪३⟫. **⟪आचार्यात्पादमादत्ते⟫ ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫**  
 **⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫ ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-Oppilas saa neljäsosan (tiedosta) opettajaltaan, neljäsosan omasta ymmärryksestään, neljäsosaa vertaisiltaan ja neljäsosan ajan kulumiselta.
+Oppilas saa neljäsosan (tiedosta) opettajaltaan, neljäsosan omasta ymmärryksestään, neljäsosaa vertaisiltaan ja neljäsosan ajan kulumiselta. <!-- TODO: Fallback translation -->
 
 ---
 
 ## Verbaliset muunnokset (Perfekti)
 
-B) Muunna seuraavat verbimuodot vastaaviksi perfektimuodoiksi (1. persoona):
+B) Muunna seuraavat verbimuodot vastaaviksi perfektimuodoiksi (1. persoona): <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Preesens / Imperfekti | Perfekti (1. persoona) |
@@ -111,9 +111,9 @@ Kuva: ⟪आशिमेति⟫
 :::
 ---
 
-## Sanamuodon määrittäminen
+## Sanamuodon määrittäminen <!-- TODO: Fallback translation -->
 
-Määritä ja käännä seuraavat sanamuodot:
+Määritä ja käännä seuraavat sanamuodot: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Sanamuoto | Määritelmä | Merkitys |
@@ -157,5 +157,5 @@ Määritä ja käännä seuraavat sanamuodot:
 ![](/images/uebung066.webp)
 Kuva: ⟪काश्चन⟫ ⟪वाहिकाः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung066))
-:::
+::: <!-- TODO: Fallback translation -->
 

@@ -34,20 +34,26 @@ L'accusativo può essere usato in senso avverbiale:
 
 *   da sostantivi  
     Esempi:  
-    ⟪कामम्⟫ "secondo il desiderio"  
-    ⟪अर्थम्⟫ "a causa di"  
+::: indent
+⟪कामम्⟫ "secondo il desiderio"
+⟪अर्थम्⟫ "a causa di"
+:::
 
 *   da aggettivi al neutro  
     Esempi:  
-    ⟪सुखम्⟫ "facilmente, felicemente"  
-    ⟪नित्यम्⟫ "sempre"  
-    ⟪साधु⟫ "correttamente, bene"  
+::: indent
+⟪सुखम्⟫ "facilmente, felicemente"
+⟪नित्यम्⟫ "sempre"
+⟪साधु⟫ "correttamente, bene"
+:::
 
 *   da pronomi al neutro  
     Esempi:  
-    ⟪तद्⟫ "allora, perciò"  
-    ⟪यद्⟫ "se, che"  
-    ⟪एतद्⟫ "così, qui, ora"
+::: indent
+⟪तद्⟫ "allora, perciò"
+⟪यद्⟫ "se, che"
+⟪एतद्⟫ "così, qui, ora"
+:::
 :::
 ### 37.2.2. Strumentale (⟪तृतीया⟫)
 
@@ -62,15 +68,19 @@ Lo Strumentale può essere usato in senso avverbiale:
 
 *   da sostantivi  
     Esempi:  
-    ⟪अर्थेन⟫ "a causa di"  
-    ⟪क्षणेन⟫ "in questo momento, immediatamente" (da ⟪क्षण⟫ m. "momento")  
+::: indent
+⟪अर्थेन⟫ "a causa di"
+⟪क्षणेन⟫ "in questo momento, immediatamente" (da ⟪क्षण⟫ m. "momento")
+:::
 
 *   da aggettivi, spesso anche al plurale  
     Esempi:  
-    ⟪दूरेण⟫ "lontano, da lontano" (a ⟪दूर⟫ 3 "lontano, distante da")  
-    ⟪उच्चैस्⟫ "alto, forte" (a ⟪उच्च⟫ 3 "alto, elevato, forte, acuto (di voce)")
+::: indent
+⟪दूरेण⟫ "lontano, da lontano" (a ⟪दूर⟫ 3 "lontano, distante da")
+⟪उच्चैस्⟫ "alto, forte" (a ⟪उच्च⟫ 3 "alto, elevato, forte, acuto (di voce)")
 :::
-### 37.2.3. Dativooo (⟪चतुर्थी⟫)
+:::
+### 37.2.3. Dativoooooo (⟪चतुर्थी⟫)
 
 ::: grammar-box
 Raramente il dativo (⟪चतुर्थी⟫) è usato in senso avverbiale alle domande:
@@ -83,7 +93,7 @@ Esempio:
 ::: indent
 ⟪अर्थाय⟫ "a scopo di, per il bene di ..."
 :::
-### 37.2.4. Ablativooo (⟪पञ्चमी⟫)
+### 37.2.4. Ablativoooooo (⟪पञ्चमी⟫)
 
 ::: grammar-box
 L'ablativo (⟪पञ्चमी⟫) può essere usato in senso avverbiale alle domande:
@@ -103,8 +113,10 @@ L'ablativo può essere usato in senso avverbiale:
 
 *   da pronomi  
     Esempi:  
-    ⟪कस्मात्⟫ "perché"  
-    ⟪अकस्मात्⟫ "inaspettatamente"
+::: indent
+⟪कस्मात्⟫ "perché"
+⟪अकस्मात्⟫ "inaspettatamente"
+:::
 :::
 ### 37.2.5. Genitivo (⟪षष्ठी⟫)
 
@@ -144,7 +156,7 @@ Esempi:
 ::: grammar-box
 Dalle radici pronominali ⟪तद्⟫, ⟪इदम्⟫ rispettivamente ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ rispettivamente ⟪कु⟫ si possono derivare, mediante i suffissi avverbiali
 
-*   \-⟪तस्⟫ (Ablativooo)
+*   \-⟪तस्⟫ (Ablativoooooo)
 *   \-⟪त्र⟫ (Locativo)
 *   \-⟪था⟫ (MODO)
 *   \-⟪थम्⟫ (MODO)
@@ -161,7 +173,7 @@ i corrispondenti avverbi pronominali.
 | **-⟪त्र⟫** :br(Locativo) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ::: grammar-box
@@ -181,7 +193,7 @@ Fig.: ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ## 37.5. Composti avverbiali

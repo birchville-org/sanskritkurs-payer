@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # பாடம் 21
 
@@ -40,7 +40,8 @@ status: stable
 1\. நிகழ்கால வகுப்பு:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "ஒரு பலியால் வழிபடுபவர்"
+**yajant**
+⟪यजन्त्⟫ "ஒரு பலியால் வழிபடுபவர்"
 :::
 ::: grammar-box
 

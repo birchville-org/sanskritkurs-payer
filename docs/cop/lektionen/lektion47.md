@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 47
+# ⲙⲁⲑⲏⲙⲁ 47
 
 ## 47.1. Der Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 

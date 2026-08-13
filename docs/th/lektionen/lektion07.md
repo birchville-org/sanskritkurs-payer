@@ -5,7 +5,7 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # บทที่ 7
 

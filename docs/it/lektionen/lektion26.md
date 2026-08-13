@@ -5,7 +5,7 @@ lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 26
 
@@ -90,7 +90,7 @@ Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 ## 26.7. Formazione del futuro semplice (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 
 ::: grammar-box
-**Futurooo semplice:**
+**Futuroooooo semplice:**
 
 :::
 ::: indent
@@ -202,7 +202,7 @@ B) Con vocale di congiunzione -i-:
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Futurooo opzionalmente con e senza -i-:
+C) Futuroooooo opzionalmente con e senza -i-:
 
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫

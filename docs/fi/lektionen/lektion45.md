@@ -5,13 +5,13 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 45
+# Oppitunti 45 <!-- TODO: Fallback translation -->
 
-## 45.1. Toisen persoonan verbimuotojen muodostaminen (⟪मध्यमः⟫) äänettömien vartalojen ilman vokaalipäätteisiä päätteitä (jatkuu)
+## 45.1. Toisen persoonan verbimuotojen muodostaminen (⟪मध्यमः⟫) äänettömien vartalojen ilman vokaalipäätteisiä päätteitä (jatkuu) <!-- TODO: Fallback translation -->
 
-### 45.1.1. Kolmas preesensluokka (⟪जुहोत्यादि⟫)
+### 45.1.1. Kolmas preesensluokka (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪हु⟫ 3P
 
@@ -63,7 +63,7 @@ esim. ⟪युज्⟫ 3.prt.Prees.Ihmis. ⟪युङ्क्ते⟫ tai �
 ## 45.2. Vokatiivi yksikkö (⟪आमन्त्रितमेकवचने⟫)
 
 ::: grammar-box
-**Useimmat yksikön vokatiivit ovat vartalo korkealla asteella.**
+**Useimmat yksikön vokatiivit ovat vartalo korkealla asteella.** <!-- TODO: Fallback translation -->
 
 esim. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** jne.
 
@@ -98,13 +98,13 @@ esim. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन
 Kuv.: ⟪भवति⟩ ⟪किं⟩ ⟪करोषि⟩
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4501))
 :::
-## 45.3. Sanalista
+## 45.3. Sanalista <!-- TODO: Fallback translation -->
 
 ⟪वा⟩ ... ⟪वा⟩ : joko ... tai
 
 ## 45.4. Harjoitus
 
-A) Käännä sanskritiksi (käytä menneen ajan muodoissa imperfektia \&lt;⟪लङ्⟫\&gt;):
+A) Käännä sanskritiksi (käytä menneen ajan muodoissa imperfektia \&lt;⟪लङ्⟫\&gt;): <!-- TODO: Fallback translation -->
 
 1\. Jaat (buddhalaisen) yhteisön.
 
@@ -113,23 +113,23 @@ yhteisön jakamisesta (⟪सङ्घभेद⟫) katso:
 
 **Payer, Alois (1944–):** Vinayamukha : Theravādan luostarisääntöjen ja kirkkolain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-2\. Oletteko nauttineet maasta?
+2\. Oletteko nauttineet maasta? <!-- TODO: Fallback translation -->
 
 3\. Oletko saanut kuninkaalta lahjan?
 
-4\. Pyhä mies, miksi et pelkää vaaroja?
+4\. Pyhä mies, miksi et pelkää vaaroja? <!-- TODO: Fallback translation -->
 
-5\. Isä, minne jätät perheesi?
+5\. Isä, minne jätät perheesi? <!-- TODO: Fallback translation -->
 
 6\. Śūdra-nainen, oletko kantanut taakan rikkaan brahminin taloon?
 
-O jumalatar, sinun tulisi täyttää vaiśya:n onnenhalu, joka on tehnyt ansioituneita tekoja.
+O jumalatar, sinun tulisi täyttää vaiśya:n onnenhalu, joka on tehnyt ansioituneita tekoja. <!-- TODO: Fallback translation -->
 
-Norsut, teidän ei tulisi rikkoa kahleita.
+Norsut, teidän ei tulisi rikkoa kahleita. <!-- TODO: Fallback translation -->
 
 Sinä leijonamainen mies, miksi et kiinnitä koko huomiota absoluuttiseen (Brahman)?
 
-Oletko sinä, runoilija, mitannut maailmankaikkeuden?
+Oletko sinä, runoilija, mitannut maailmankaikkeuden? <!-- TODO: Fallback translation -->
 
 B) Käännä:
 
@@ -145,12 +145,12 @@ B) Käännä:
 ![](/images/lekt4502.jpg)
 Kuva: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4502))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
 **lekt4501.jpg**: Tekstiilipainatus, Ahmedabad. -- Kuvälähde: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Pääsy 8.1.2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, sama lupa)
 
 **lekt4502.jpg**: Kuvälähde: John Isaac / Maailmanpankki. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Pääsy 8.1.2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)
-:::
+::: <!-- TODO: Fallback translation -->
 

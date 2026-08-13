@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # பாடம் 50
 
@@ -154,7 +154,7 @@ Absol.-⟪वृष्य⟫
 :::
 ⟪सर्व⟫ 3: எவரும், அனைவரும்
 
-Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
+Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
@@ -293,9 +293,9 @@ B) மொழிபெயர்க்கவும்:
 :::
 ::: deleteme-box
 
-**lekt5007:** படம்: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = எவரெஸ்ட் மலை [படம் மூலம்: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- 2009-01-12 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (நிர்வாகம்)]
+**lekt5007:** படம்: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = எவரெஸ்ட் மலை [படம் மூலம்: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- 2009-01-12 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (நிர்வாகம்)] <!-- TODO: Fallback translation -->
 
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [படம் மூலம்: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- 2009-01-12 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
+**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [படம் மூலம்: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- 2009-01-12 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)] <!-- TODO: Fallback translation -->
 
 **lekt5001:** Kapil Sibal (1948 -), அறிவியல் மற்றும் தொழில்நுட்ப அமைச்சகம் மற்றும் பூமி அறிவியல் அமைச்சகத்தில் யூனியன் அமைச்சர் (2006 முதல்) [படம் மூலம்: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- 2009-01-12 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (நிர்வாகம், பகிர்வு ஒரே மாதிரி)]
 
@@ -305,7 +305,7 @@ B) மொழிபெயர்க்கவும்:
 
 **lekt5003:** [பட மூலம்: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- 2009-01-12 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (நாமகுத்தல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [பட மூலம்: Kounosu / Wikipedia. GNU FDLicense]
+**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [பட மூலம்: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt5008:** மும்பையிலிருந்து (⟪मुंबई⟫) 80 கி.மீ. தொலைவில் உள்ள கணேஷ்புரி [பட மூலம்: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- 2009-01-13 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (நாமகுத்தல், வணிகரீதியான பயன்பாடு இல்லை, share alike)]
 

@@ -124,7 +124,7 @@ Esempi:
 | ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | *:sig[⟪जघ्नुर्⟫]* | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
 ### 35.3.2. Tipo di Perfetto Vb: radice debole, contrazione (tipo e)
@@ -170,21 +170,21 @@ Esempio:
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : perdersi, andare perduto, scomparire
 ::: indent
-**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**:br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
-**Caus. ⟪नाशयति⟫**:br
+**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Caus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : scomparire, perdersi, andare perduto
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : procedere, andare
 ::: indent
-**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
-**Fut. ⟪क्रमिष्यति⟫**:br
-**Pass. ⟪क्रम्यते⟫**:br
-**Caus. ⟪क्रमयति⟫**:br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
-**Inf. ⟪क्रमितुम्⟫**:br
+**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Caus. ⟪क्रमयति⟫**
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Assol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
@@ -195,11 +195,11 @@ Persone che camminano, Senegal. [Fonte immagine: Curt Carnemark / World Bank. CC
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): cantare, recitare in tono cantilenante, annunziare in discorso poetico
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
-**Fut. ⟪गास्यति⟫**:br
-**Pass. ⟪गीयते⟫**:br
-**Caus. ⟪गापयति⟫**:br
-**PPP ⟪गीत⟫**:br
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Caus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Inf. ⟪गातुम्⟫**
 
 da ciò:

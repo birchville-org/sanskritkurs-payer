@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 47
+# Lekcija 47
 
 ## 47.1. Der Imperativ (⟪लोट्⟫)
 

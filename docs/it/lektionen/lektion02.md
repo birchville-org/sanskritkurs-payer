@@ -5,7 +5,7 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 2
 
@@ -30,8 +30,8 @@ In sanscrito esistono:
 
 - **tre numeri** (forme di conteggio) = **vacana** n. -- ⟪वचन⟫
   - Singolare (singolarità) = **ekavacana** n. -- ⟪एकवचन⟫
-  - Dualeee (dualità) = **dvivacana** n. -- ⟪द्विवचन⟫
-  - Pluraleee (pluralità) = **bahuvacana** n. -- ⟪बहुवचन⟫
+  - Dualeeeeee (dualità) = **dvivacana** n. -- ⟪द्विवचन⟫
+  - Pluraleeeeee (pluralità) = **bahuvacana** n. -- ⟪बहुवचन⟫
 - **tre generi** (generi grammaticali) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
   - Maschile (maschile) = **puṃs** m. -- ⟪पुंस्⟫
   - Femminile (femminile) = **strī** f. -- ⟪स्त्री⟫
@@ -40,23 +40,23 @@ In sanscrito esistono:
 
 Alla declinazione si aggiungono le desinenze casuali (**sup** = ⟪सुप्⟫) al cosiddetto **tema nominale** (forma del nome senza desinenze casuali).
 
-Esempio: **devas** = ⟪देवस्⟫ (Nominativooo Singolare Maschile) "il/un dio" = **deva-** -- ⟪देव⟫- (tema nominale) + **-s** -- -⟪स्⟫ (desinenza casuale).
+Esempio: **devas** = ⟪देवस्⟫ (Nominativoooooo Singolare Maschile) "il/un dio" = **deva-** -- ⟪देव⟫- (tema nominale) + **-s** -- -⟪स्⟫ (desinenza casuale).
 
 Ne dizionari sanscriti i nomi sono indicati nel **tema nominale**:
 - **deva** m. -- ⟪देव⟫ m. (maschile)
 - **vacana** n. -- ⟪वचन⟫ n. (neutro)
 - **vyakti** f. -- ⟪व्यक्ति⟫ f. (femminile)
 
-## 2.3. Il Nominativooo Singolare
+## 2.3. Il Nominativoooooo Singolare
 
-**Nominativooo Singolare = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
+**Nominativoooooo Singolare = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 ::: grammar-box
-**Il Nominativooo Singolare termina in -s = -⟪स्⟫ oppure è privo di desinenza.**
+**Il Nominativoooooo Singolare termina in -s = -⟪स्⟫ oppure è privo di desinenza.**
 :::
-### 2.3.1. Nominativooo Singolare in -s
+### 2.3.1. Nominativoooooo Singolare in -s
 
-I seguenti temi nominali, che terminano con una vocale, formano il Nominativooo Singolare in **-s**:
+I seguenti temi nominali, che terminano con una vocale, formano il Nominativoooooo Singolare in **-s**:
 
 ::: grammar-box
 **Maschili in -a:** es. deva m. = ⟪देव⟫ "dio" -- Nom. sg.: devas = ⟪देवस्⟫
@@ -72,7 +72,7 @@ La finale di una parola in sanscrito è determinata anche dall'inizio della paro
 
 Vedi anche la panoramica:
 
-> **Payer, Alois \<1944 - \>:** Sandhi di finale -s. -- (Materiali per il sanscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi di finale -s. -- (Materiali per il sanscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Uscita **-s**:
 
@@ -160,7 +160,7 @@ Fig.: Rappresentazione della divisione in ordini del Medioevo europeo (xilografi
 
 I tre ordini indossano l'abito specifico del rispettivo ordine. Sopra di essi – definiti così come voluti da Dio – troneggia Cristo.
 
-Max Weber \<1864 – 1920\> definisce "ordine" così:
+Max Weber \&lt;1864 – 1920\&gt; definisce "ordine" così:
 
 ::: note-box
 "**Ordine**" dovrebbe indicare una moltitudine di persone che, all'interno di un'associazione,
@@ -180,7 +180,7 @@ Mentre le classi di guadagno crescono sulla base dell'economia orientata al merc
 
 Ogni società di ordini è convenzionale, ordinata da regole di stile di vita, crea quindi condizioni di consumo economicamente irrazionali e ostacola in questo modo, attraverso appropriazioni monopolistiche e l'esclusione della libera disposizione della propria capacità di guadagno, la libera formazione del mercato.
 
-[**Weber, Max \<1864 – 1920\>:** Economia e società : abbozzo di sociologia comprensiva. – 5ª ed. riveduta. – Tubinga : Mohr, 1976. – P. 625 s.]
+[**Weber, Max \&lt;1864 – 1920\&gt;:** Economia e società : abbozzo di sociologia comprensiva. – 5ª ed. riveduta. – Tubinga : Mohr, 1976. – P. 625 s.]
 :::
 I Varṇa sono quindi ordini di nascita.
 

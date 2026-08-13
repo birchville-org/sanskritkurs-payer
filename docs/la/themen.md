@@ -3,9 +3,9 @@ aside: false
 outline: false
 ---
 
-# Index Grammaticae
+# Grammatik Index
 
-Index Grammaticae omnes argumenta grammatica et phaenomena e cursu Sanscritico enarrat et ad lectiones speciales celerem accessum praebet.
+Der Grammatik Index listet alle grammatischen Themen und Phänomene aus dem Sanskritkurs auf und ermöglicht einen schnellen Zugriff auf spezifische Lektionen.
 
 <PayerTopicIndex />
 

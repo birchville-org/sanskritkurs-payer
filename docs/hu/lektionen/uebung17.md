@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 17
 
-A) Illessze be a következő mondatokba az igét, és fordítsa le:
+A) Illessze be a következő mondatokba az igét, és fordítsa le: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) ⟪।⟫
 ⟪ब्रवीति⟫ ⟪।⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪वदति⟫ ⟪।⟫
@@ -18,7 +18,7 @@ Egy bráhmanista nem mond hazugot.
 
 ⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫) ⟪।⟫
 ⟪पाति⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫
-Egy kṣatriya gondoskodik az emberekről.
+Egy kṣatriya gondoskodik az emberekről. <!-- TODO: Fallback translation -->
 
 ⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) ⟪।⟫
 ⟪द्विजारीञ्जयति⟫ ⟪।⟫ ⟪द्विजारीन्हन्ति⟫ ⟪।⟫ ⟪युध्यते⟫ ⟪।⟫
@@ -38,7 +38,7 @@ A fiatal vaiśya fejti / őrizte a tehenet.
 
 ⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
 ⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-Egy szolga a kétszer születetteknek bejár az erdei ösvényen a bráhmanafaluba.
+Egy szolga a kétszer születetteknek bejár az erdei ösvényen a bráhmanafaluba. <!-- TODO: Fallback translation -->
 
 ⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
 ⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
@@ -83,7 +83,7 @@ Kép: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 
 ## Igeformák-gyakorlat
 
-Fordítsa le a következő igeformákat, és adja meg a hozzájuk tartozó gyökeret:
+Fordítsa le a következő igeformákat, és adja meg a hozzájuk tartozó gyökeret: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪अदन्ति⟫ (⟪अद्⟫ 2P): esznek
 

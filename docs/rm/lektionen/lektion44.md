@@ -1,13 +1,13 @@
 ---
 title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+subtitle: "Furmaziun da las formas verbalas da la 2. persuna (⟪मध्यमः⟫) da stems atematics cun sufix vocalic"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 ---
 
-# Lektion 44
+# Lecziun 44
 
 ## 44.1. Furmaziun dals verbs da la 2. persuna (⟪मध्यमः⟫) stims sans tema cun suffix vocalic
 
@@ -61,15 +61,15 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
-## 44.2. Zum Wortsandhi
+## 44.2. Concerne il sandhi da las paraulas
 
 En cun stizs da prezens che fineschan cun consonantas, vegnan observadas las regurdas dal sandhi da paraula gia tractadas.
 
-Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
+Ultraclav è ancun applicadas las suandantas reglas dal sandhi da las paraulas.
 
 (Una collaziun detagliada da tut las mutaziuns foneticas che apparatschentan qua en Kielhorn, Grammatica pag. 76s.)
 
-### 44.2.1. Zum Wortsandhi für dh-
+### 44.2.1. Concerne il sandhi da las paraulas per dh-
 
 ::: grammar-box
 1. **Aspirata wird vor Aspirata durch den entsprechenden Nichtspiraten ersetzt:**
@@ -81,7 +81,7 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 4. **-s + dh- » -dh-** (Sparogn dal -s)
    z.B. **⟪आस्⟫** 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve)
 :::
-### 44.2.2. Al sandha da las paraulas per s-
+### 44.2.2. Al sandha da las paraulas per s- <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1. **-s + s- » -ts- u (bet!) -ss-** (usà en la 2. classa da prezens)
@@ -181,7 +181,7 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 | **Imperfekt** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
 :::
-## 44.4. Der Vokativ (⟪आमन्त्रितम्⟫)
+## 44.4. Der Vocativ (⟪आमन्त्रितम्⟫)
 
 I grammatichs nativs cunsideres il vocativ (⟪आमन्त्रितम्⟫) bet sco in casus separat, mo mozz sco ina modificaziun dal nominativ (⟪प्रथमा⟫).
 
@@ -210,7 +210,7 @@ Abb.: Per l'utilisaziun correcta da "O" en il tudestg: **"O um!"**
 :::
 ## 44.5. Lista da vuschs
 
-⟪प्रति⟫ Präverb: zurück, wider, gegen - hin
+⟪प्रति⟫ Präverb: zurück, wider, gegen - hin <!-- TODO: Fallback translation -->
 
 ::: indent
 p.ex.
@@ -412,7 +412,7 @@ A) Determinar e tradurre las suandantas formas:
 Fig.: ⟪कस्माद्रोदिषि⟫
 (Fontana da l'imagia: [Detagls](/rm/licenses#lekt4409))
 :::
-B) Traduscher:
+B) Traduscher: <!-- TODO: Fallback translation -->
 
 ⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
 
@@ -431,7 +431,7 @@ B) Traduscher:
 ⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
 ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
 
-## 44.7. Wiederholungsübung zur Formenlehre
+## 44.7. Exercizi da repetiziun zur Formenlehre
 
 Determinai las suentas formas:
 
@@ -484,15 +484,15 @@ Determinai las suentas formas:
 
 **lekt4402.jpg**: Disegn da Henri Gerbault (1863 - 1930) (Dominio public)
 
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)
+**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
 
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)
+**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
 
 **lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Access il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non comercial)
 
 **lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Access il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non comercial)
 
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)
+**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
 
 **lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Zugrì on 2009-01-08. -- Licenza Creative Commons (Nominaziun, nagina utisaziun cumerciala, nagina modifitgaziun)
 

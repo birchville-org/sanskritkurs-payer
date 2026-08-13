@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 24
+# 第24課
 
 ## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
 

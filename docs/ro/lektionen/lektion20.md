@@ -201,7 +201,7 @@ Fig.: ⟪सपुत्रा⟫
 Madhya Pradesh
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2006))
 :::
-## 20.6. Flexiunea componentei finale a unui Bahuvrīhi
+## 20.6. Flexiunea componentei finale a unui Bahuvrīhi <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -266,7 +266,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Aceasta este de fapt o parte din Ashramul
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : făcând, producând, cauzând
 
-⟪कर⟫ m.: mână (la ⟪कृ⟫ 8)
+⟪कर⟫ m.: mână (la ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
 
 ⟪कर⟫ m.: tribut, datorie, impozit (nu la ⟪कृ⟫, ci probabil împrumutat din tamilă - தமிழ்)
 
@@ -274,7 +274,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Aceasta este de fapt o parte din Ashramul
 
 ⟪अधि⟫ prefix verbal: peste, pe, er-, cu referire la 
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : întâlni, ajunge la, obține
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : întâlni, ajunge la, obține <!-- TODO: Fallback translation -->
 
 ⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : reduce, slăbi
 
@@ -466,7 +466,7 @@ A) Traduceți și descompuneți compusele în sanscrită:
 
 B) Traduceți folosind compuse în sanscrită:
 
-1\. Un kṣatriya care nu ține bastonul în mână nu ocrotește poporul.
+1\. Un kṣatriya care nu ține bastonul în mână nu ocrotește poporul. <!-- TODO: Fallback translation -->
 
 2\. Kālidāsa și ceilalți poeți sunt profesorii de sanscrită.
 
@@ -567,11 +567,11 @@ Explicație: ⟪इच्छताम्⟫ = genitiv plural Participiu Prezent 
 :::
 ::: deleteme-box
 
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Cambodgia, sec. 9 d.Hr. [Sursa imaginii: Wikipedia, Domeniu public]
+**lekt2001:** Siemreap (ក្រុងសៀមរាប), Cambodgia, sec. 9 d.Hr. [Sursa imaginii: Wikipedia, Domeniu public] <!-- TODO: Fallback translation -->
 
 **lekt2002:** [Sursa imaginii: Contribuții la filozofia literaturii și gândirii Indiei. -- Bonn, 1926]
 
-**lekt2003:** Sanchi = ⟪सांची⟫ [Sursa imaginii Wikipedia, Domeniu public]
+**lekt2003:** Sanchi = ⟪सांची⟫ [Sursa imaginii Wikipedia, Domeniu public] <!-- TODO: Fallback translation -->
 
 **lekt2004:** Jodhpur = ⟪जोधपुर⟫ [Sursa imaginii: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Accesat la 2008-12-11. -- Licență Creative Commons (Atribuire, fără utilizare comercială, fără modificări)]
 

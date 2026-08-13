@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # 第6课
 
@@ -129,7 +129,7 @@ status: stable
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. 第四类现在时动词 (divādi = ⟪दिवादि⟫ = "div 等")
+### 6.5.3. 第四类现在时动词 (divādi = ⟪दिवादि⟫ = "div 等") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **现在词干 = 词根在弱级形式（即其列出的形式）+ ya-**
@@ -237,9 +237,13 @@ status: stable
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **B) 将以下词语变为复数：**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

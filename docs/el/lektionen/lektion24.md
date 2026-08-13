@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα 24
 
@@ -413,17 +413,17 @@ E) Αντικαταστήστε στην πρόταση A) 6 τη Δακτυλι
 
 **lekt2403:** «Ο Ράμα (δεξιά) καθισμένος στους ώμους του Χάνουμαν, πολεμά τον δαιμονικό βασιλιά Ραβανά». περ. 1820 [Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο]
 
-**lekt2404:** [Πηγή εικόνας: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Πρόσβαση στις 14-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, χωρίς εξαίρεση)]
+**lekt2404:** [Πηγή εικόνας: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Πρόσβαση στις 14-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, χωρίς εξαίρεση)] <!-- TODO: Fallback translation -->
 
 **lekt2405:** [Πηγή εικόνας: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Πρόσβαση στις 14-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση τροποποίησης)]
 
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Πηγή εικόνας: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Πρόσβαση στις 14-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
+**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Πηγή εικόνας: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Πρόσβαση στις 14-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 **lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Η Suhasini Haidar, Αναπληρώτρια Διευθύνουσα Σύμβουλος Εξωτερικών Ειδήσεων του δικτύου CNN-IBN 18, India, διευθύνει μια συζήτηση σε πάνελ στο Ινδικό Οικονομικό Σύνοδο 2008 του Παγκόσμιου Οικονομικού Φόρουμ στη Νέα Δελχί." [Πηγή εικόνας: Παγκόσμιο Οικονομικό Φόρουμ / Φωτογραφία από Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Πρόσβαση στις 14-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, ομοίως άδεια)]
 
 **lekt2408:** "Ο αφηγητής ιστοριών από το Σαν Φρανσίσκο, Jeff Byers, μοιράζεται μια ιστορία με τους κατοίκους του Chenneri, ενός χωριού των Irula. Ο αφηγητής ιστοριών Jeeva Raghunath μεταφράζει στα Ταμίλ για τους κατοίκους του χωριού." [Πηγή εικόνας: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Πρόσβαση στις 14-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
 
-**lekt2409:** [Πηγή εικόνας: Redtigerxyz / Wikipedia, άδεια GNU FDLicense]
+**lekt2409:** [Πηγή εικόνας: Redtigerxyz / Wikipedia, άδεια GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt2410:** ⟪नरसिंह⟫ διασπείρει हिरण्यकशिपु, σελίδα από χειρόγραφο του ⟪भागवतपुराण⟫ [Πηγή εικόνας: Wikipedia, Δημόσιοι χώροι]
 

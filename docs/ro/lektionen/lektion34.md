@@ -159,7 +159,7 @@ Exemple:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 34.5. Tipul II al Perfectului: Rădăcină puternică la treapta superioară, rădăcină slabă la treapta inferioară
@@ -220,7 +220,7 @@ Harta Insulelor Lakshadweep.
 Fig.: ⟪तिलाः⟫
 Semințe de susan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3403))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3404.webp)
@@ -254,7 +254,7 @@ Statuia Taurului Nandi, Dealurile Chamundi, Mysore.
 :::
 **⟪यम्⟫ 1P ⟪यच्छति⟫ :** a reține, a ține, a oferi, a acorda
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** a întinde, a oferi, a preda
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** a întinde, a oferi, a preda <!-- TODO: Fallback translation -->
 
 **⟪या⟫ 2P ⟪याति⟫ :** a merge, a călători
 
@@ -337,14 +337,14 @@ Ritual de nuntă hindus.
 
 **lekt3402:** Templul de Aur (Harmandir Sahib), Amritsar. [Sursa imaginii: Wikipedia. GNU FDL]
 
-**lekt3403:** Semințe de susan. [Sursa imaginii: Wikipedia. Domeniu public]
+**lekt3403:** Semințe de susan. [Sursa imaginii: Wikipedia. Domeniu public] <!-- TODO: Fallback translation -->
 
-**lekt3404:** Înflorirea plantei de susan. [Sursa imaginii: Franz Xaver / Wikipedia. GNU FDL]
+**lekt3404:** Înflorirea plantei de susan. [Sursa imaginii: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
 
 **lekt3405:** Harta Insulelor Lakshadweep. [Sursa imaginii: CIA World Factbook. Domeniu public]
 
 **lekt3406:** Câmp de orez în India. [Sursa imaginii: Ray Witlin / Banca Mondială. CC BY-NC-ND]
 
 **lekt3407:** Ritual de nuntă hindus. [Sursa imaginii: BriceFR / Flickr. CC BY-NC-SA]
-:::
+::: <!-- TODO: Fallback translation -->
 

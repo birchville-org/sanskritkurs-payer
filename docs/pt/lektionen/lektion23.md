@@ -54,11 +54,11 @@ p. ex.
 ## 23.2. Formação do Infinitivo (⟪तुमुन्⟫)
 
 ::: grammar-box
-**raiz em grau forte + -tum**
+**raiz em grau forte + -tum** <!-- TODO: Fallback translation -->
 
 **ou**
 
-**raiz de grau forte + -i- + -tum**
+**raiz de grau forte + -i- + -tum** <!-- TODO: Fallback translation -->
 
 **As consoantes finais da raiz são modificadas antes de -tum segundo as mesmas regras como antes do -ta do PPP.**
 
@@ -79,14 +79,14 @@ Dos radicais aprendidos até agora, os seguintes infinitivos devem ser especialm
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
 
 ## 23.3. O Infinitivo (⟪तुमुन्⟫) das raízes aprendidas até agora
 
@@ -318,7 +318,7 @@ C) Indique as formas básicas (significado, classe de presente, voz, 3ª p. sg. 
 
 ::: deleteme-box
 
-**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Fonte da imagem: Wikipedia. GNU FDLicense]
+**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Fonte da imagem: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Fonte da imagem: de zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Acessado em 2008-12-13. -- Licença Creative Commons (Atribuição, Uso Não Comercial, Sem Derivações)]
 

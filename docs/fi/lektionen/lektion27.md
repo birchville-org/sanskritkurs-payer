@@ -5,11 +5,11 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Luento 27
 
-## 27.1. Lokatiivin käyttö (⟪सप्तमी⟫ f. = "seitäsä taivutuspääte")
+## 27.1. Lokatiivin käyttö (⟪सप्तमी⟫ f. = "seitäsä taivutuspääte") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -17,12 +17,12 @@ status: stable
 *   **missä?**
 *   **milloin?**
 *   **milloin/missä olosuhteissa?**
-*   **suhteessa mihin?**
+*   **suhteessa mihin?** <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
 
-**1. Lokatiivi (⟪सप्तमी⟫) vastaa kysymykseen "Missä?" ja ilmaisee tilan, jossa (missä, missä päällä, missä luona) toimija (⟪कर्ता⟫) tai teon kohde sijaitsee, tai missä toiminta itsessään tapahtuu.**
+**1. Lokatiivi (⟪सप्तमी⟫) vastaa kysymykseen "Missä?" ja ilmaisee tilan, jossa (missä, missä päällä, missä luona) toimija (⟪कर्ता⟫) tai teon kohde sijaitsee, tai missä toiminta itsessään tapahtuu.** <!-- TODO: Fallback translation -->
 
 > ⟪नगरे⟫ ⟪वसति⟫ = "Hän asuu kaupungissa"
 
@@ -32,29 +32,29 @@ status: stable
 Kuv.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2701))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
-**2. Lokatiivi ilmaisee kysymykseen "Milloin?" vastaten ajankohtaa tai ulkoisia olosuhteita:**
+**2. Lokatiivi ilmaisee kysymykseen "Milloin?" vastaten ajankohtaa tai ulkoisia olosuhteita:** <!-- TODO: Fallback translation -->
 
 > ⟪तस्मिन्काले⟫ = "sillä hetkellä, tuona aikana"
 
 **Tähän ryhmään kuuluu myös ns. Locativus Absolutus:**
 
-**Jos jonkun henkilön tai esineen toiminta tai tila määrittää sen ajan, jolloin — tai ne olosuhteet, joissa — TOINEN henkilö tai esine suorittaa toiminnan tai on tietyssä tilassa, sanan, joka ilmaisee ensimmäisen henkilön tai esineen, sekä sitä tarkemmin määrittävän sanan (joka on usein partisiippi) täytyy olla lokatiivissa (⟪सप्तमी⟫):**
+**Jos jonkun henkilön tai esineen toiminta tai tila määrittää sen ajan, jolloin — tai ne olosuhteet, joissa — TOINEN henkilö tai esine suorittaa toiminnan tai on tietyssä tilassa, sanan, joka ilmaisee ensimmäisen henkilön tai esineen, sekä sitä tarkemmin määrittävän sanan (joka on usein partisiippi) täytyy olla lokatiivissa (⟪सप्तमी⟫):** <!-- TODO: Fallback translation -->
 
 > ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "sillä aikaa kun aika kuluu näin..."
 >
-> ⟪तस्मिन्गते⟫ = "kun hän oli mennyt..."
+> ⟪तस्मिन्गते⟫ = "kun hän oli mennyt..." <!-- TODO: Fallback translation -->
 
 **Joskus agenttia (⟪कर्ता⟫) ei mainita erikseen:**
 
-> ⟪एवं⟫ ⟪सति⟫ = "koska asia on näin"
+> ⟪एवं⟫ ⟪सति⟫ = "koska asia on näin" <!-- TODO: Fallback translation -->
 
 **Locativus absolutus on käännettävä asiayhteydestä riippuen ilmaisulla "sillä aikaa kun" (esim. preesenspartisiippi), "sen jälkeen kun", "kun" (esim. PPP), "koska", "sillä", "vaikka", "jos" jne.**
 
-**Huom: Absolutiivin tapauksessa absoluuttisen konstruktion subjektin ja pääverbin subjektin on oltava samat; lokatiivin absoluuttisessa konstruktionissa absoluuttisen konstruktion subjektin ja pääverbin subjektin on oltava eri.**
+**Huom: Absolutiivin tapauksessa absoluuttisen konstruktion subjektin ja pääverbin subjektin on oltava samat; lokatiivin absoluuttisessa konstruktionissa absoluuttisen konstruktion subjektin ja pääverbin subjektin on oltava eri.** <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -62,13 +62,13 @@ Jaipur, 1875.
 Kuv.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rajasthan.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2702))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
-**3. Lokatiivi vastaa myös kysymykseen "Mihin nähden?" tms.:**
+**3. Lokatiivi vastaa myös kysymykseen "Mihin nähden?" tms.:** <!-- TODO: Fallback translation -->
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Hänellä on rakkautta poikaansa kohtaan" (san. "Poikaa nähden hänellä on rakkautta")
+> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Hänellä on rakkautta poikaansa kohtaan" (san. "Poikaa nähden hänellä on rakkautta") <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -76,11 +76,11 @@ Rajasthan.
 Kuv.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2703))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
-**4. Lokatiivi toimii kotimaisten sanakirjojen ja kommentaattoreiden keskuudessa sanan merkityksen määrittämiseksi:**
+**4. Lokatiivi toimii kotimaisten sanakirjojen ja kommentaattoreiden keskuudessa sanan merkityksen määrittämiseksi:** <!-- TODO: Fallback translation -->
 
 > ⟪भू⟫ ⟪सत्तायाम्⟫ = "juuri ⟪भू⟩ merkityksessä 'olevuus' (sat-tā)"
 
@@ -93,7 +93,7 @@ Lokatiivin käytöstä myöhemmin.
 
 **Säännölliset lokatiivin pääteet (⟪सप्तमी⟫) ovat:**
 *   **yksikkö: -i**
-*   **monikko: -su**
+*   **monikko: -su** <!-- TODO: Fallback translation -->
 
 **Huomioi äänteenmuutokset ennen -su:ta sekä mahdollinen cerebralisointi -su:sta muotoon -ṣu!**
 
@@ -150,10 +150,10 @@ Lokatiivin käytöstä myöhemmin.
 | **4. datiivi** :br **⟪४⟫. ⟪चतुर्थी⟫** | -e || -bhyas ||
 | **5. ablatiivi** :br **⟪५⟫. ⟪पञ्चमी⟫** | -as || -bhyas ||
 | **6. genetiivi** :br **⟪६⟫. ⟪षष्ठी⟫** | -as || -ām ||
-| **7. lokatiivi** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
+| **7. lokatiivi** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su || <!-- TODO: Fallback translation -->
 
 :::
-**Signalrot painotettu**: vahvat sijamuodot (vartalon vaihtelun yhteydessä).
+**Signalrot painotettu**: vahvat sijamuodot (vartalon vaihtelun yhteydessä). <!-- TODO: Fallback translation -->
 
 ## 27.4. Runo, jossa on kaikki taivutusmuodot (yksikkö) sanalle :sig[⟪राम⟫]
 
@@ -163,7 +163,10 @@ Kuv.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ �
 Rāma-Satz.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2708))
 :::
-:sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫:br :sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br :sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫:br :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
+:sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫
+:sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
+:sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫
+:sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Käännös:**
 1. **nominatiivi:** Rāma, jalokivi (⟪मणि⟩ m.) kuningasten kesken (⟪राजन्⟩ m.) voittaa aina (⟪सदा⟩).
@@ -180,21 +183,26 @@ Rāma-Satz.
 ⟪वस्⟩ 1P (⟪वसति⟩): viipyä, asua (henkilön lokatiivin kanssa, jonka luona asuu)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟩:br **Pass.:** ⟪उष्यते⟩:br **PPP:** ⟪उषित⟩:br **Inf.:** ⟪वस्तुम्⟩
+**Fut.:** ⟪वत्स्यति⟩
+**Pass.:** ⟪उष्यते⟩
+**PPP:** ⟪उषित⟩
+**Inf.:** ⟪वस्तुम्⟩
 :::
 siitä:
 
 ::: indent
-⟪वस्तु⟫ n.: istuin, paikka; todellinen esine, konkreettinen asia, todellisuus, kohde
+⟪वस्तु⟫ n.: istuin, paikka; todellinen esine, konkreettinen asia, todellisuus, kohde <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
 ⟪वस्तुतस्⟫: todellisuudessa, aidosti
 :::
-⟪वस्⟫ 2Ā (⟪वस्ते⟫): pukea (vaatteita), käyttää (vaatteita)
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): pukea (vaatteita), käyttää (vaatteita) <!-- TODO: Fallback translation -->
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 siitä:
 
@@ -220,19 +228,22 @@ Kuv.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Kuvälähde: [Tiedot](/fi/licenses#lekt2707))
 :::
-⟪हृ⟫ 1U (⟪हरति⟫): pitää, kantaa; hakea, viedä pois, ryöstää
+⟪हृ⟫ 1U (⟪हरति⟫): pitää, kantaa; hakea, viedä pois, ryöstää <!-- TODO: Fallback translation -->
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 niistä:
 
 ::: indent
 ⟪हर⟫ 3: vieden pois; m.: tuhoaja = Šivan lisänimi
 :::
-Vastine sanalle ⟪हर⟫:
+Vastine sanalle ⟪हर⟫: <!-- TODO: Fallback translation -->
 
-⟪हरि⟫ 3: vaalea, keltainen, vihreä; m. Viṣṇun lisänimi (ei kuulu juureen ⟪हृ⟫ 1)
+⟪हरि⟫ 3: vaalea, keltainen, vihreä; m. Viṣṇun lisänimi (ei kuulu juureen ⟪हृ⟫ 1) <!-- TODO: Fallback translation -->
 
 ⟪हरिहर⟫ m.: Viṣṇu ja Śiva yhdistettynä yhteen jumaluuteen.
 
@@ -251,11 +262,11 @@ Harihara (vasen: Viṣṇu, oikea: Śiva). Godrumdwip, Länsi-Bengali.
 :::
 ## 27.6. Harjoitus
 
-**A) Aseta seuraavassa lauseessa sulkulausekkeen ilmaukset lokatiiviin (⟪सप्तमी⟫) yksikköön ja — missä se on järkevää — monikkoon. Huomioi eri sandhi, eli kirjoita joka kerta koko lause uudelleen!**
+**A) Aseta seuraavassa lauseessa sulkulausekkeen ilmaukset lokatiiviin (⟪सप्तमी⟫) yksikköön ja — missä se on järkevää — monikkoon. Huomioi eri sandhi, eli kirjoita joka kerta koko lause uudelleen!** <!-- TODO: Fallback translation -->
 
 ⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫ (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
 
-**B) Käännä ja ratkaise yhdyssanat:**
+**B) Käännä ja ratkaise yhdyssanat:** <!-- TODO: Fallback translation -->
 
 ⟪धर्मं⟫ ⟪वदति⟫ ⟪गुरौ⟫ ⟪दुर्जना⟫ ⟪न⟫ ⟪शृण्वन्ति⟫ ⟪॥१॥⟫
 
@@ -283,9 +294,9 @@ Maalaus Rāja Ravi Varmalta (1848 - 1906).
 
 ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫ ⟪॥१०॥⟫
 
-## 27.7. Taivutusmuotoparadigmat ulkoa opeteltavaksi
+## 27.7. Taivutusmuotoparadigmat ulkoa opeteltavaksi <!-- TODO: Fallback translation -->
 
-### 27.7.1. Maskuliinit -a-päätteisillä: ⟪नर⟫
+### 27.7.1. Maskuliinit -a-päätteisillä: ⟪नर⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -306,7 +317,7 @@ Kuva: ⟪नराः⟫
 Naran. Udaipur.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2711))
 :::
-### 27.7.2. Neutraali -a-päätteiset sanat: ⟪फल⟫
+### 27.7.2. Neutraali -a-päätteiset sanat: ⟪फल⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -327,7 +338,7 @@ Kuva: ⟪फलानि⟫
 Hedelmät. Bangalore.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2710))
 :::
-### 27.7.3. Naispuoliset substantiivit, jotka päättyvät -ā: ⟪क्षत्रिया⟫
+### 27.7.3. Naispuoliset substantiivit, jotka päättyvät -ā: ⟪क्षत्रिया⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -369,7 +380,7 @@ Kuva: ⟪अरयः⟫
 Kahden vuoden 1857 kapinallisen hirttäminen. Felice Beaton (1833/1834 – n. 1907) valokuva.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2712))
 :::
-### 27.7.5. Naispuoliset substantiivit, jotka päättyvät -iin: ⟪मति⟫
+### 27.7.5. Naispuoliset substantiivit, jotka päättyvät -iin: ⟪मति⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -405,7 +416,7 @@ Kuva: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2713))
 :::
-### 27.7.7. Feminina auf -u: ⟪धेनु⟫
+### 27.7.7. Feminina auf -u: ⟪धेनु⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -426,7 +437,7 @@ Kuva: ⟪धेनुः⟫
 Lehmä Udaipurissa.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2714))
 :::
-### 27.7.8. Monitavuiset vartalon -ī pääteiset feminiinit: ⟪देवी⟫
+### 27.7.8. Monitavuiset vartalon -ī pääteiset feminiinit: ⟪देवी⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -447,7 +458,7 @@ Kuva: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2715))
 :::
-### 27.7.9. Partisiipin preesens Parasmaipada -ant: ⟪सन्त्⟫
+### 27.7.9. Partisiipin preesens Parasmaipada -ant: ⟪सन्त्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -468,7 +479,7 @@ Kuva: ⟪सद्गुरुः⟫
 Sai Baba Shirdista (1835 - 1918).
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫
+### 27.7.10. ⟪महान्त्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -576,7 +587,7 @@ Sai Baba Shirdista (1835 - 1918).
 Kuv.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2717))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

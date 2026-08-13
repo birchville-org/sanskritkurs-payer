@@ -90,7 +90,7 @@ Eroul kṣatriya a părăsit familia împreună cu fiul său pentru a lupta. Deo
 
 ⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
 
-Chiar și fericirea, oferită de zei, nu îndeplinește dorința de eliberare de suferință. Această dorință este îndeplinită complet doar prin înțelegerea eliberatoare.
+Chiar și fericirea, oferită de zei, nu îndeplinește dorința de eliberare de suferință. Această dorință este îndeplinită complet doar prin înțelegerea eliberatoare. <!-- TODO: Fallback translation -->
 
 ⟪देवदत्तान्यपि⟫ ⟪सुखानि⟫ ⟪दुःखमोक्षेष्तीर्न⟫ ⟪पिपुरति⟫ ⟪।⟫ ⟪ता⟫ ⟪इष्टयः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यन्ते⟫ ⟪॥५॥⟫
 

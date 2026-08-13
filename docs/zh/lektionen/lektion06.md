@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 6
+# 第6課
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
@@ -237,9 +237,13 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 9. (brāhmaṇa, brāhmaṇī) ... viśanti <!-- TODO: Fallback translation -->
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ <!-- TODO: Fallback translation -->
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ <!-- TODO: Fallback translation -->
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **B) Setzen Sie in den Plural:** <!-- TODO: Fallback translation -->
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫ <!-- TODO: Fallback translation -->

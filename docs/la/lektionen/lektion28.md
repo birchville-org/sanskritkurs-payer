@@ -5,9 +5,9 @@ status: stable
 last_reconstructed: 2026-05-16
 ---
 
-# Lektion 28
+# Lectio 28
 
-## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Si vis exprimere quod aliquis vel aliquid persuadet vel efficit ut alius vel aliud faciat aut patiatur, quod per radicem (cum vel sine praebito) exprimitur, causativum adhibetur (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
@@ -159,7 +159,7 @@ Resultatum: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "Se
 ⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma iubet servum onus adferre"
 Resultatum: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Servus onus adfert"
 
-## 28.3. Formationis radix praesentis ad causativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.3. Formationis radix praesentis ad causativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Ad radicem causativam desinentes thematici praesentis**
@@ -176,7 +176,7 @@ Exempla:
 | ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein |
 | ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken |
 | ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Typus formationis 2: radix producta + -aya-**
@@ -191,7 +191,7 @@ Exempla:
 | ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
 | ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Typus educationis 3: radix humillima + -aya-**
@@ -202,7 +202,7 @@ Exemplum:
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Typus educationis 4: Radix + -paya-**
@@ -214,7 +214,7 @@ Exempla:
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Formae irregulariter formatae:**

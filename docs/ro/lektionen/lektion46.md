@@ -11,7 +11,7 @@ status: stable
 
 ## 46.1. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) Perfect (⟪लिट्⟫)
 
-### 46.1.1. Desinențe
+### 46.1.1. Desinențe <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -29,7 +29,7 @@ Rețineți că desinența -- de obicei, dar nu întotdeauna forma! -- a persoane
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Tipul Perfect: fără inflexiune de stemă
+### 46.1.3. Tipul Perfect: fără inflexiune de stemă <!-- TODO: Fallback translation -->
 
 Verbe care urmează acest tip:
 
@@ -384,13 +384,13 @@ Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गल
 ![](/images/lekt4603.webp)
 Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/ro/licenses#lekt4603)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4603))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/ro/licenses#lekt4604)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4604))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4605.webp)
@@ -424,7 +424,7 @@ Inf. ⟪नन्तुम्⟫
 Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/ro/licenses#lekt4607)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4607))
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : a urca, a cățara
+⟪रुह्⟫ 1P ⟪रोहति⟫ : a urca, a cățara <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
@@ -456,10 +456,10 @@ Absol. -⟪हूय⟫
 ![](/images/lekt4608.webp)
 Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/ro/licenses#lekt4608)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4608))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
-1 ⟪महामात्र⟫ m. "mahout"; ⟪चरिष्णु⟫ 3 "mobil", ⟪दूरशब्द⟫ m. "telefonie fixă" » ⟪चरिष्णुदूरशब्द⟫ "telefon mobil" (morfologie: A. Payer)
+1 ⟪महामात्र⟫ m. "mahout"; ⟪चरिष्णु⟫ 3 "mobil", ⟪दूरशब्द⟫ m. "telefonie fixă" » ⟪चरिष्णुदूरशब्द⟫ "telefon mobil" (morfologie: A. Payer) <!-- TODO: Fallback translation -->
 
 :::
 ⟪विभ्रम⟫ m.: mișcarea înainte și înapoi
@@ -556,7 +556,7 @@ Absol. -⟪लम्ब्य⟫
 Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/ro/licenses#lekt4601)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : a se agăța de (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : a se agăța de (⟪द्वितीयया⟫) <!-- TODO: Fallback translation -->
 
 ⟪यदि⟫ Conjuncție:  dacă
 
@@ -580,7 +580,7 @@ de exemplu
 Fig.: [⟪भोः⟫](/ro/licenses#lekt4611)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4611))
 :::
-## 46.3. Exercitiu
+## 46.3. Exercitiu <!-- TODO: Fallback translation -->
 
 A) Determinați și traduceți următoarele forme:
 
@@ -658,7 +658,7 @@ Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪�
 
 ::: deleteme-box
 
-Sursa imaginilor Navagraha: Redtigerxyz / Wikipedia. Licență GNU FDL
+Sursa imaginilor Navagraha: Redtigerxyz / Wikipedia. Licență GNU FDL <!-- TODO: Fallback translation -->
 
 L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, c. 1870). Sursă: Wikipedia. Domeniu public
 

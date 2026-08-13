@@ -43,7 +43,7 @@ last_reconstructed: 2026-05-15
 :::: media
 ![](/images/uebung090.webp)
 תמונה: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
-(מקור התמונה: [פרטים](/licenses#uebung090))
+(מקור התמונה: [פרטים](/licenses#uebung090)) <!-- TODO: Fallback translation -->
 
 ::::
 :::
@@ -94,7 +94,7 @@ last_reconstructed: 2026-05-15
 | ⟪३६⟫. | **⟪रजसी⟫** | *:sig[⟪रजस्⟫]* n.: Nom. Akk. Vok. Du. (שני הזוהרים) |
 | ⟪३७⟫. | **⟪विक्रेढ्वम्⟫** | *⟪वि⟫-⟪क्री⟫* 9Ā: 2. Pl. Ā. Injunkt. s-Aor. (מכור!) |
 | ⟪३८⟫. | **⟪युष्मत्⟫** | *:sig[⟪युष्मद्⟫]*: Abl. Pl. (ממכם) |
-| ⟪३९⟫. | **⟪अघम्⟫** | *:sig[⟪अघ⟫]* n.: Nom. Akk. Vok. Sg. (הרע); Akk. Sg. m. (הרשע) |
+| ⟪३९⟫. | **⟪अघम्⟫** | *:sig[⟪अघ⟫]* n.: Nom. Akk. Vok. Sg. (הרע); Akk. Sg. m. (הרשע) | <!-- TODO: Fallback translation -->
 
 | ⟪४०⟫. | **⟪अभुक्थाः⟫** | *:sig[⟪भुज्⟫]* 7U: 2. Sg. s-Aor. Ā. (אכלת) |
 | ⟪४१⟫. | **⟪उत्थानाय⟫** | *:sig[⟪उत्थान⟫]* n.: Dat. Sg. (לקימה) |
@@ -118,4 +118,4 @@ last_reconstructed: 2026-05-15
 מק.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (מקור התמונה: [פרטים](/licenses#uebung094))
 ::::
-:::
+::: <!-- TODO: Fallback translation -->

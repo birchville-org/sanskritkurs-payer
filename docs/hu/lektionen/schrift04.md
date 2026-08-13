@@ -4,7 +4,7 @@
 
 ![](/images/schrift006.webp)
 
-Anusvāra ṃ: pont a betű felett, amely a következő hangot jelöli: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
+Anusvāra ṃ: pont a betű felett, amely a következő hangot jelöli: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫ <!-- TODO: Fallback translation -->
 
 Írásmód:
 

@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Урок 24
 
@@ -413,17 +413,17 @@ E) У реченні A) 6 замініть давальну конструкці
 
 **lekt2403:** "Рама (праворуч), що сидить на плечах Ханумана, веде бій з демоном-королем Раваною." бл. 1820 р. [Джерело зображення: Вікіпедія, суспільне надбання]
 
-**lekt2404:** [Джерело зображення: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, No Derivative Works)]
+**lekt2404:** [Джерело зображення: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, No Derivative Works)] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt2405:** [Джерело зображення: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
 
-**lekt2406:** Хампі = ಹಂಪೆ, Карнатака = ಕರ್ನಾಟಕ [Джерело зображення: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, Non-commercial)]
+**lekt2406:** Хампі = ಹಂಪೆ, Карнатака = ಕರ್ನಾಟಕ [Джерело зображення: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, Non-commercial)] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt2407:** "НОВА ДЕЛІ/ІНДІЯ, 16ЛИС08 - Сухасіні Хайдар, заступник редактора з закордонних справ мережі CNN-IBN 18, Індія, модерує панельну дискусію на Індійському економічному саміті Світового економічного форуму 2008 року в Нью-Делі." [Джерело зображення: Світовий економічний форум / Фото Дани Сміллі. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, Share Alike)]
 
 **lekt2408:** «Оповідач із Сан-Франциско Джефф Байєр розповідає історію мешканцям Ченнері, села ірула. Оповідач Джіва Рагхунат перекладає її тамільською мовою для селян.» [Джерело зображення: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Доступ 2008-12-14. -- Ліцензія Creative Commons (Attribution, Non-Commercial)]
 
-**lekt2409:** [Джерело зображення: Redtigerxyz / Wikipedia, GNU FDLicense]
+**lekt2409:** [Джерело зображення: Redtigerxyz / Wikipedia, GNU FDLicense] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt2410:** ⟪नरसिंह⟫ розриває ⟪हिरण्यकशिपु⟫, сторінка з рукопису ⟪भागवतपुराण⟫ [Джерело зображення: Wikipedia, Public domain]
 

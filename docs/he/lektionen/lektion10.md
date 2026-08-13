@@ -94,14 +94,14 @@ important
 
 **כינויי רמיזה:**
 
-| כינוי | מין | כלים יחיד | כלים רבים |
+| תואר עצם | מין | יחיד | רבים |
 | :--- | :--- | :--- | :--- |
-| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
-| | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
-| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
-| | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
-| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
-| | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
+| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | ז/ט | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| | נ' | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
+| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | ז/ט | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| | נ' | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
+| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | ז/ט | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| | נ' | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
 ::: deleteme-box
@@ -121,9 +121,11 @@ important
 2. | **נקבות על -ī**::brdevī:br⟪देवी⟫ | **devy-ā**:br⟪देव्या⟫ | **devī-bhis**:br⟪देवीभिस्⟫ |
 3. | **נקבות על -u**::brdhenu:br⟪धेनु⟫ | **dhenv-ā**:br⟪धेन्वा⟫ | **dhenu-bhis**:br⟪धेनुभिस्⟫ |
 4. **צורות לא סדירות (יחיד):**
-5. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = ⟪सह⟫ = "mit"** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "gemeinsam mit dem Brahmanen"
+5. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = ⟪सह⟫ = "mit"**
+z.B.
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "gemeinsam mit dem Brahmanen"
 :::
-Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
+Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später. <!-- TODO: Fallback translation -->
 
 ## 10.3. מה שמכונה חוק הצרברליזציה עבור -n- (סנדהי-מילים)
 
@@ -133,7 +135,7 @@ Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 **Deshalb:**
 
 ::: grammar-box
-| | Instrumentalis Singular |
+| | Instrumentalis יחיד |
 | :--- | :--- |
 | **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
 | **śūdra** :br⟪शूद्र⟫ | **śūdreṇa** :br⟪शूद्रेण⟫ |
@@ -141,7 +143,7 @@ Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
 :::
-**So ist auch das -ṇ- zu erklären in:**
+**כך יש להסביר גם את ה-ṇ- ב:**
 
 ::: indent
 **śravaṇa** ⟪श्रवण⟫
@@ -153,7 +155,7 @@ Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das סביל, Indikativ Präsens (yak = ⟪यक्⟫)
+## 10.4. Das סביל, Indikativ Präsens (yak = ⟪यक्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **בנייה:**
@@ -172,17 +174,24 @@ Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 ### 10.4.1. כללים מיוחדים לבניית הפעל הסביל
 
 1. **שורשים המסתיימים ב-i או -u** מאריכים את התנועה לפני הסיומת הפעלית **-ya-**:
-   * | :--- | :--- | :--- |
-   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
-   * | **viś**:br6 P:br(viśati) | **viśyate**:br(⟪विश्यते⟫):br"נכנס" | **viśyante**:br(⟪विश्यन्ते⟫) |
+* **ji** 1 P: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **שורשים עם -a- בין עיצורים** (למעט נחצי, y, r, v) שומרים על דרגה גבוהה:
-   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **שימו לב, כי בפועלים מהכיתה הרביעית של עבר הווה, ל-Ātmanepada ולפעל הסביל יש צורות זהות! במקרה זה, ניתן להסיק האם מדובר ב-Ātmanepada או בפעל הסביל רק מהמבנה המשפטי.**
-   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **רמת עומק של פעלים המתחילים ב-ya, va, ra או בהם מופיע צליל זה לאחר עיצור אחר (סמפסָארַנַּ = ⟪सम्प्रसारण⟫):**
 
@@ -195,16 +204,20 @@ Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 השם המקומי המסורתי לצורה זו בשלב העמוק אצל פעלים עם **ya** או **va** הוא **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ** בסוף המילה אחרי עיצור יחיד מוחלף ב-**ri-** לפני הסיומת הפעיל **-ya-**:
-   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * אבל: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+* **kṛ** 8 U: **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* אבל: **smṛ** 1 P: **smaryate**
+⟪स्मर्यते⟫
 
 6. **שורשים מסוימים עם -an יש להם לחלופין שתי בנייני שורש פעיל:**
    * אחת **-an-ya**
    * אחת **-ā-ya-** (ה-**ā** הארוך הוא נציג של אפנון היפותטי ארוך)
 
 למשל, **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (מ-\*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (מ-\*tn-ya-nte) <!-- TODO: Fallback translation -->
 
 ## 10.5. רשימת מילים
 
@@ -221,7 +234,7 @@ Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 - **yajña** m. ⟪यज्ञ⟫ : קורבן
 
   ::: note-box
-הקורבן הוא בהודו קודם כל השתחוויה לאל כאל אורח. בכך מתחייבים את האל.
+  הקורבן הוא בהודו קודם כל השתחוויה לאל כאל אורח. בכך מתחייבים את האל.
 
   בניין מילים: **yaj** 1 U + סיומת **-na-**.
   :::
@@ -229,7 +242,7 @@ Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 - **puṇya** n. ⟪पुण्य⟫ : מעשה זכות, זכות
 
   ::: note-box
-**satya** n. ⟪सत्य⟫ : אמת
+  **satya** n. ⟪सत्य⟫ : אמת
   :::
 
 - **pāpa** n. ⟪पाप⟫ : עבירה, רע (ניגוד ל-**puṇya**)
@@ -257,7 +270,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 - **ṛṣi** m. ⟪ऋषि⟫ : חכם ודאי, מחבר שירי הוֹדָה
 
   ::: note-box
-שמותיהם של **ṛṣi**s אלו מוזכרים בברָהְמַנָס וכן ברשימות ייעודיות לווֹדוֹת. כל הברָהְמַנים מוציאים את יוחסין שלהם מאותם **ṛṣi**s, ששמות ה-**gotra** (⟪गोत्र⟩) שלהם נגזרים מהם. לעניין **gotra** ראה באשמ, *פלא*, פרק 5.
+  שמותיהם של **ṛṣi**s אלו מוזכרים בברָהְמַנָס וכן ברשימות ייעודיות לווֹדוֹת. כל הברָהְמַנים מוציאים את יוחסין שלהם מאותם **ṛṣi**s, ששמות ה-**gotra** (⟪गोत्र⟩) שלהם נגזרים מהם. לעניין **gotra** ראה באשמ, *פלא*, פרק 5.
   :::
 
 ::: media

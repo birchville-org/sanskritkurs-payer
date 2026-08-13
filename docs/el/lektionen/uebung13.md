@@ -34,7 +34,7 @@ last_reconstructed: 2026-05-15
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
+⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
 Έχει ειπωθεί ότι οι βεδικοί σοφοί είπαν μόνο την αλήθεια.
@@ -80,35 +80,35 @@ Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
 
 ⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫ -> (Sanskrit verse line)
 Wer Söhne hat, kommt in keine Hölle. -> Όποιος έχει γιους δεν πάει σε καμία κόλαση/κάτω κόσμο.
-⟪पुत्रवान्न्रकं⟫ ⟪न⟫ ⟪गतः⟫ ⟪।⟫ -> (Sanskrit verse line)
+⟪पुत्रवान्न्रकं⟫ ⟪न⟫ ⟪गतः⟫ ⟪।⟫ -> (Sanskrit verse line) <!-- TODO: Fallback translation -->
 
 ⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫ -> (Sanskrit verse line)
 Der Meister sagt, dass eine fromme Frau nichts Böses tut. -> Ο δάσκαλος λέει ότι μια ευσεβής γυναίκα δεν κάνει κακό.
-⟪धर्मवत्या⟫ ⟪पापं⟫ ⟪न⟫ ⟪कृतमिति⟫ ⟪गुरुणोदितम्⟫ ⟪।⟫ -> (Sanskrit verse line)
+⟪धर्मवत्या⟫ ⟪पापं⟫ ⟪न⟫ ⟪कृतमिति⟫ ⟪गुरुणोदितम्⟫ ⟪।⟫ -> (Sanskrit verse line) <!-- TODO: Fallback translation -->
 
 ⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪प्र्च्छन्ति⟫ ⟪।⟫ -> (Sanskrit verse line)
 Einsichtige befragen die, die die Wahrheit besitzen, über den Dharma. -> Οι σοφοί ρωτούν όσους κατέχουν την αλήθεια για τον Ντάρμα.
-⟪बुद्धिमद्भिः⟫ ⟪सत्यवन्तो⟫ ⟪धर्मं⟫ ⟪पृष्टाः⟫ ⟪।⟫ -> (Sanskrit verse line)
+⟪बुद्धिमद्भिः⟫ ⟪सत्यवन्तो⟫ ⟪धर्मं⟫ ⟪पृष्टाः⟫ ⟪।⟫ -> (Sanskrit verse line) <!-- TODO: Fallback translation -->
 
 ⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ -> (Sanskrit verse line)
 Religiöse Personen tun Verdienstvolles, das Frucht bringt. -> Οι θρησκευόμενοι άνθρωποι κάνουν αρετές που φέρνουν καρπό/αποτέλεσμα.
-⟪धर्मवद्भिः⟫ ⟪फलवत्पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫ -> (Sanskrit verse line)
+⟪धर्मवद्भिः⟫ ⟪फलवत्पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫ -> (Sanskrit verse line) <!-- TODO: Fallback translation -->
 
 ⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫ -> (Sanskrit verse line)
 Brahmanen wünschen sich vorzügliche Söhne. -> Οι Βραχμανοί επιθυμούν άριστους γιους.
-⟪ब्राह्मणैर्गुणवन्तः⟫ ⟪पुत्रा⟫ ⟪इष्टाः⟫ ⟪।⟫ -> (Sanskrit verse line)
+⟪ब्राह्मणैर्गुणवन्तः⟫ ⟪पुत्रा⟫ ⟪इष्टाः⟫ ⟪।⟫ -> (Sanskrit verse line) <!-- TODO: Fallback translation -->
 
 ⟪११⟫. ⟪कयृग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫ -> (Sanskrit verse line)
 Welche Männer hören den Ṛgveda? -> Ποιοι άντρες ακούνουν τον Ργκβέδα;
-⟪कैरृग्वेदः⟫ ⟪श्रुतः⟫ ⟪।⟫ -> (Sanskrit verse line)
+⟪कैरृग्वेदः⟫ ⟪श्रुतः⟫ ⟪।⟫ -> (Sanskrit verse line) <!-- TODO: Fallback translation -->
 
 ⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫ -> (Sanskrit verse line)
 Was erschafft der HERR? -> Τι δημιουργεί ο ΚΥΡΙΟΣ;
-⟪किमीश्वरेण⟫ ⟪सृष्टम्⟫ ⟪।⟫ -> (Sanskrit verse line)
+⟪किमीश्वरेण⟫ ⟪सृष्टम्⟫ ⟪।⟫ -> (Sanskrit verse line) <!-- TODO: Fallback translation -->
 
 ⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫ -> (Sanskrit verse line)
 Ein Heiliger erträgt ihm zugefügtes Übel. -> Ένας άγιος υποφέρει από το κακό που του επιβλήθηκε/προκλήθηκε.
-⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪।⟫ -> (Sanskrit verse line)
+⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪।⟫ -> (Sanskrit verse line) <!-- TODO: Fallback translation -->
 
 
 ⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
@@ -125,18 +125,18 @@ Ein Heiliger erträgt ihm zugefügtes Übel. -> Ένας άγιος υποφέρ
 
 ::: media
 ![](/images/uebung019.webp)
-Abb.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung019))
+Εικ.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
+(Πηγή εικόνας: [Λεπτομέρειες](/licenses#uebung019))
 :::
 ---
 
-## Zusätzliche Übungen
+## Επιπρόσθετες Ασκήσεις
 
-A) Übersetzen Sie folgende Sätze.
+A) Übersetzen Sie folgende Sätze. <!-- TODO: Fallback translation -->
 
-B) Setzen Sie die Sätze Übung A) ins Passiv
+B) Setzen Sie die Sätze Übung A) ins Passiv <!-- TODO: Fallback translation -->
 
-C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion
+C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 Rāma geht auf dem Weg ins Dorf.
@@ -194,7 +194,7 @@ Welche Gottheit sieht der Ṛṣi?
 Welchen Göttern opfern Brahmanen, Katriyas und Vaśyas?
 ⟪के⟫ ⟪देवा⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिष्टाः⟫ ⟪॥⟫
 
-D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
+D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an: <!-- TODO: Fallback translation -->
 
 1. -a vor Vokal (ausser a-): -as
 2. -ā- : -a + -a/-ā -ā + a-/ā-
@@ -234,7 +234,7 @@ D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? G
 36. Anusvara vor Konsonant: -m
 37. -ṃśc-: -n + c-
 38. -ṃṣṭ-: -n + ṭ-
-39. -mst-: -n + t-
+39. -mst-: -n + t- <!-- TODO: Fallback translation -->
 
 
 Ε) Μεταφράστε στα Σανσκριτικά:

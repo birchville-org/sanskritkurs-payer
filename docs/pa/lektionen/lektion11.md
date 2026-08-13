@@ -5,7 +5,7 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # ਪਾਠ 11
 
@@ -71,7 +71,7 @@ status: stable
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : ਪੁੱਛਣਾ
-  - **praśna** m. ⟪प्रश्न⟫ : ਸਵਾਲ (ਸਫਿਕਸ **-na** **yaj-ña** ਵਾਂਗ)
+  - **praśna** m. ⟪प्रश्न⟫ : ਸਵਾਲ (ਸਫਿਕਸ **-na** **yaj-ña** ਵਾਂਗ) <!-- TODO: Fallback translation -->
 
 - **iṣ** 6 P ⟪इष्⟫ : ਚਾਹੁਣਾ
   - **iṣṭi** f. ⟪इष्टि⟫ : ਇੱਛਾ (**iṣ** + **-ti**)

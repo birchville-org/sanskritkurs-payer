@@ -12,7 +12,7 @@ A) In Kielhorn, Grammatica § 451 discite irregularia desiderativa formationes a
 
 B) Determinate et vertite sine auxiliis sequentes formas:
 
-1. ⟪ददुषोः⟫ - ⟪ददिवांस्⟫ Part.Perf.P ad Lok.Gen.du.m.n. duorum / apud duos, qui dederunt
+1. ⟪ददुषोः⟫ - ⟪ददिवांस्⟫ Part.Perf.P ad Lok.Gen.du.m.n. duorum / apud duos, qui dederunt <!-- TODO: Fallback translation -->
 
 2. ⟪अहिंसीः⟫ - ⟪हिंस्⟫ 7P 2.sg.Aor(5).P tu laesisti
 
@@ -28,7 +28,7 @@ B) Determinate et vertite sine auxiliis sequentes formas:
 
 8. ⟪अस्नाः⟫ - ⟪स्ना⟫ 2P 2.sg.Impf.P tu lavisti
 
-9. ⟪जिहिंसुषि⟫ - ⟪हिंस्⟫ 7P Part.Perf.P Lok.sg.m.n. apud eum, qui laesit
+9. ⟪जिहिंसुषि⟫ - ⟪हिंस्⟫ 7P Part.Perf.P Lok.sg.m.n. apud eum, qui laesit <!-- TODO: Fallback translation -->
 
 10. ⟪जिहिंसिषुणा⟫ - ⟪जिहिंसिषु⟫ 3 (ad Desid. de ⟪हिंस्⟫ 7P) Instr.sg.m.n. per eum, qui laedere vult
 
@@ -95,7 +95,7 @@ B) Determinate et vertite sine auxiliis sequentes formas:
 
 41. ⟪अहः⟫ - ⟪अहन्⟫ n. Nom.Akk.sg. diem
 
-42. ⟪जग्मुषः⟫ - ⟪जग्मिवांस्⟫ ⟪।⟫ ⟪जगन्वांस्⟫ Part.Perf.P ad ⟪गम्⟫ 1P Ab.Gen.sg.m.n.Akk.pl.m. eius, qui abiit ...
+42. ⟪जग्मुषः⟫ - ⟪जग्मिवांस्⟫ ⟪।⟫ ⟪जगन्वांस्⟫ Part.Perf.P ad ⟪गम्⟫ 1P Ab.Gen.sg.m.n.Akk.pl.m. eius, qui abiit ... <!-- TODO: Fallback translation -->
 
 43. ⟪अताप्स्व⟫ - ⟪तप्⟫ 1P 1.duAor(4).P nos duo ardentes
 

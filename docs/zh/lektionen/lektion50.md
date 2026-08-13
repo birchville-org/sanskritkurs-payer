@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 50
+# 第50課
 
 ## 50.1. 名词构成：规则比较级
 

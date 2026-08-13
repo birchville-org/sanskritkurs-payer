@@ -30,7 +30,7 @@ A) 请尝试确定以下词语的可能含义：
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 （刚刚）从经线/织机而来 = 新织成
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : 舞者
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : 舞者 <!-- TODO: Fallback translation -->
 
 12\. naraka ⟪नरक⟫ : m. 地狱
 

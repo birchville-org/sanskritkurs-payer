@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 21
 
@@ -40,7 +40,8 @@ Exemplos:
 Classe do presente:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "aquele que venera com um sacrifício"
+**yajant**
+⟪यजन्त्⟫ "aquele que venera com um sacrifício"
 :::
 ::: grammar-box
 

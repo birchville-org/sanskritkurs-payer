@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 61
 
@@ -34,7 +34,7 @@ Paradigma:
 ### 61.1.2. Substantivos-raiz femininos em -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
 
 **Além das formações com as desinências de caso regulares, também ocorrem no Dat.Ab.Gen.Loc.sg. e no Gen.pl. formações segundo o padrão dos femininos polissilábicos em -ī (⟪देवी⟫).**
 :::
@@ -114,7 +114,7 @@ Paradigmas:
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Paradigma:
+Paradigma: <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ f. "terra"
 
@@ -203,7 +203,7 @@ As terminações do futuro perifrástico são, portanto, as seguintes:
 ::: grammar-box
 **Forma da raiz: A raiz geralmente tem a mesma forma que no futuro simples. O mesmo se aplica à vogal de ligação -i-.**
 :::
-Exemplos:
+Exemplos: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ etc. |
 | --- | --- |
@@ -280,10 +280,10 @@ Exemplos:
 ⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
 ⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
 :::
-As regras em detalhe em Kielhorn, Grammatik § 461.
+As regras em detalhe em Kielhorn, Grammatik § 461. <!-- TODO: Fallback translation -->
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Exemplos:
+Exemplos: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -438,14 +438,14 @@ Observe o significado de:
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ⟪हरिद्वार⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt6105))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6103.webp)
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt6103))
 :::
-### 61.4.3. Formação com o sufixo -kāmya, Parasmaipada
+### 61.4.3. Formação com o sufixo -kāmya, Parasmaipada <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Significado:**
@@ -464,7 +464,7 @@ Fig.: ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt6109))
 :::
-### 61.4.4. Formação com o sufixo -sya ou -asya, Parasmaipada
+### 61.4.4. Formação com o sufixo -sya ou -asya, Parasmaipada <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Significado:**
@@ -655,14 +655,14 @@ Paradigmas: Kielhorn, Grammatik § 153:
 ::: media
 ![](/images/lekt6115.webp)
 (Fonte da imagem: [Details](/licenses#lekt6115))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6118.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 (Fonte da imagem: [Details](/licenses#lekt6118))
 :::
-## 61.8. Pronomes Restantes
+## 61.8. Pronomes Restantes <!-- TODO: Fallback translation -->
 
 ### 61.8.1. Pronomes Pessoais do Dual
 
@@ -671,7 +671,7 @@ Kielhorn, Gramática § 177:
 ::: media
 ![](/images/lekt6116.jpg)
 (Fonte da imagem: [Details](/licenses#lekt6116))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6117.webp)
@@ -679,7 +679,7 @@ Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 Povo Apatani, Arunachal Pradesh
 (Fonte da imagem: [Detalhes](/licenses#lekt6117))
 :::
-### 61.8.2. Pronome demonstrativo ⟪अदस्⟫ "aquele (distante)"
+### 61.8.2. Pronome demonstrativo ⟪अदस्⟫ "aquele (distante)" <!-- TODO: Fallback translation -->
 
 Masculino (⟪पुंस्⟫)
 

@@ -1,41 +1,43 @@
 ---
-title: Lektion 35
+title: "Lesson 35"
 lesson_id: 35
 status: stable
+
 ---
 
 # Lesson 35
 
-## 35.1. Perfect Type III: Strong Stem, Guṇa/Ḍīrgha Grade
+## 35.1. Perfect Type III: Strong Stem Guṇa/Long-Guṇa
 
 ::: grammar-box
 **Formation:**
 
 **strong stem:**
-*   3.sg.P: Ḍīrgha grade
-*   2.sg.P: Guṇa grade
-*   1.sg.P: optionally Guṇa grade or Ḍīrgha grade
+*   3.sg.P: Long-Guṇa
+*   2.sg.P: Guṇa
+*   1.sg.P: optionally Guṇa or Long-Guṇa
 
-**weak stem:** see the subtypes
+**weak stem:** see under the subtypes
 :::
-### 35.1.1. Perfect Type IIIa: Strong stem in guṇa/long grade, weak stem in zero grade
+### 35.1.1. Perfect Type IIIa: Strong Stem Guṇa/Long-Guṇa, weak stem Zero-grade
 
 ::: grammar-box
 **Formation:**
 
 :::
 ::: indent
-**weak stem:** zero grade
+**weak stem:** Zero-grade
 :::
-Formed from roots of the following types:
+Formed from roots of the types:
 *   (Consonant)-(Consonant) - i/ī/u/ū
 *   (Consonant) - ṛ
 
-Before endings beginning with a vowel, the following replacements occur:
-*   -i/-ī becomes -iy
-*   -u/-ū becomes -uv
-*   -ṛ becomes r
+Before a vowel-initial ending, it is replaced by:
+*   -i/-ī by -iy
+*   -u/-ū by -uv
+*   -ṛ by r
 Examples:
+
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -45,19 +47,20 @@ Examples:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfect Type IIIb: Strong stem in guṇa/long grade, weak stem in guṇa grade
+### 35.1.2. Perfect Type IIIb: Strong Stem Guṇa/Long-Guṇa, weak stem Guṇa
 
 ::: grammar-box
 **Formation:**
 
 :::
 ::: indent
-**weak stem:** guṇa grade
+**weak stem:** Guṇa
 :::
-Formed from roots of the following types:
+Formed from roots of the types:
 *   (Consonant)-(Consonant)-ṝ
-*   Consonant-Consonant-ṛ (i.e., roots ending in -ṛ preceded by multiple consonants)
+*   Consonant-Consonant-ṛ (i.e., roots ending in -ṛ, when preceded by multiple consonants)
 Examples:
+
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -65,22 +68,23 @@ Examples:
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfect Type IV: Stems ending in -ā / -āi
+## 35.2. Perfect Type IV: Roots ending in -ā / -āi
 
 ::: grammar-box
 **Formation:**
 
 **strong stem:**
 *   3rd/1st sg. P Perfect ends in -au
-*   2nd sg. P : Strengthened grade -ā or Weakened grade -i
+*   2nd sg. P : Strong grade -ā or Weak grade -i
 
 **weak stem:**
-*   before consonant: Weakened grade -i
-*   before vowel: Weakened grade Ø
+*   before consonant: Weak grade -i
+*   before vowel: Weak grade Ø
 
-Formed from stems ending in -ā / -āi
+Formed from roots ending in -ā / -āi
 :::
 Example:
+
 
 | Root | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -92,24 +96,24 @@ Example:
 **Formation:**
 
 **strong stem:**
-*   3.sg.P: guṇa grade
-*   2.sg.P: zero grade
-*   1.sg.P: optionally zero grade or guṇa grade
+*   3.sg.P: Guṇa grade
+*   2.sg.P: Strong grade
+*   1.sg.P: optionally Strong grade or Guṇa grade
 
 **weak stem:** see subtypes
 
 Formed from roots of the type (Consonant)-Consonant-a-Consonant
 :::
-### 35.3.1. Perfect Type Va: Weak Stem, Guṇa Grade
+### 35.3.1. Perfect Type Va: weak stem Weak grade
 
 ::: grammar-box
 **Formation:**
 
 :::
 ::: indent
-**weak stem:** Guṇa grade
+**weak stem:** Weak grade
 :::
-Formed by various roots, including:
+Formed among others from the roots:
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
@@ -118,13 +122,14 @@ Formed by various roots, including:
 *   ⟪यज्⟫
 Examples:
 
+
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
-| ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | *:sig[⟪जघ्नुर्⟫]* | | |
+| ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | :sig[⟪जघ्नुर्⟫] | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
 ### 35.3.2. Perfect Type Vb: Weak Stem Contraction (e-Type)
@@ -134,16 +139,15 @@ Examples:
 
 :::
 ::: indent
-**weak stem:** no reduplication. Replacement of the root’s -a- with -e-  
+**weak stem:** no reduplication. Replacement of the root's -a- with -e-
 (for explanation, see Thumb-Hauschild 1,2 p. 286f.)
 :::
-Formed from roots containing -a- between two simple consonants, whose initial consonant remains unchanged in the reduplicating syllable (i.e., whose initial consonant is not a guttural, aspirate, or h).
-Example:
+Formed from roots with -a- between two simple consonants, whose initial consonant is not changed in the reduplication syllable (i.e., whose initial consonant is not a guttural, aspirate, or h).
 Example:
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ |
 
 ### 35.3.3. Perfect Type Vc: Roots Consonant-a-Consonant. Weak Stem Strong Grade
 
@@ -168,24 +172,24 @@ Example:
 
 ## 35.4. Word List
 
-**⟪नश्⟫** 4P **⟪नश्यति⟫** : to perish, to be destroyed, to disappear
+⟪नश्⟫ 4P ⟪नश्यति⟫ : to perish, go to ruin, disappear
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**:br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
-**Kaus. ⟪नाशयति⟫**:br
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
+**Fut. ⟪नशिष्यति । नङ्क्ष्यति⟫** :br
+**Caus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : to disappear, to perish, to be destroyed
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : to disappear, perish, go to ruin
 
-**⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : to stride, to go
+⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : to stride, to go
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
-**Fut. ⟪क्रमिष्यति⟫**:br
-**Pass. ⟪क्रम्यते⟫**:br
-**Kaus. ⟪क्रमयति⟫**:br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
-**Inf. ⟪क्रमितुम्⟫**:br
-**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
+**Fut. ⟪क्रमिष्यति⟫** :br
+**Pass. ⟪क्रम्यते⟫** :br
+**Kaus. ⟪क्रमयति⟫** :br
+**PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
+**Inf. ⟪क्रमितुम्⟫** :br
+**Absol. ⟪क्रमित्वा । क्रन्त्वा । क्रान्त्वा⟫**
 :::
 ::: media
 ![](/images/lekt3502.webp)
@@ -193,22 +197,22 @@ Fig.: ⟪क्रामन्ति⟫
 People walking, Senegal.
 (Image source: [Details](/en/licenses#lekt3502))
 :::
-**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): to sing, to recite in a singing tone, to proclaim in verse
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): to sing, to recite in a singing tone, to proclaim in verse
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
-**Fut. ⟪गास्यति⟫**:br
-**Pass. ⟪गीयते⟫**:br
-**Kaus. ⟪गापयति⟫**:br
-**PPP ⟪गीत⟫**:br
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
+**Fut. ⟪गास्यति⟫** :br
+**Pass. ⟪गीयते⟫** :br
+**Kaus. ⟪गापयति⟫** :br
+**PPP ⟪गीत⟫** :br
 **Inf. ⟪गातुम्⟫**
 
-derived from:
+of which:
 **⟪गीता⟫ f.:** song, chant
 :::
 ::: media
 ![](/images/lekt3501.webp)
 Fig.: ⟪जगुः⟫
-Temple musicians, Kaadu Malleswara Temple, Bangalore.
+Temple musicians Kaadu Malleswara Temple Bangalore.
 (Image source: [Details](/en/licenses#lekt3501))
 :::
 ## 35.5. Exercise
@@ -246,9 +250,9 @@ A) Form the corresponding perfect forms for the following verb forms:
 29. ⟪मिमति⟫  
 ::: media
 ![](/images/lekt3503.webp)
-    Fig.: ⟪मिमति⟫
+Fig.: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
-    (Image source: [Details](/en/licenses#lekt3503))
+(Image source: [Details](/en/licenses#lekt3503))
 :::
 30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫
@@ -265,29 +269,25 @@ Market in Vadaseri, Tamil Nadu.
 
 B) Translate:
 
-⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫
-
-⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवुर्⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫
-
-⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫
+⟪एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥ रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवुर् रामाय चेष्टपुत्रं ददुः ॥२॥ ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥⟫
 
 ::: media
 ![](/images/lekt3504.webp)
 Fig.: ... ⟪ब्राह्मणाश्चेजुः⟫
-Yajña ceremony, Shiva Ashram, Ganeshpuri.
+Yajña ceremony, Shiva ashram, Ganeshpuri.
 (Image source: [Details](/en/licenses#lekt3504))
 :::
-⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
+⟪अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥⟫
 
-C) Transform the sentences from Exercise B) by replacing perfect forms with imperfect forms.
+C) Transform the sentences of exercise B by replacing perfects with imperfects.
 
 ::: deleteme-box
 
-**lekt3501:** Temple musicians, Kaadu Malleswara Temple, Bangalore. [Image source: Samuelraj / Flickr. CC BY-NC]
+**lekt3501:** Temple musicians Kaadu Malleswara Temple Bangalore. [Image source: Samuelraj / Flickr. CC BY-NC]
 
 **lekt3502:** People walking, Senegal. [Image source: Curt Carnemark / World Bank. CC BY-NC-ND]
 
 **lekt3503:** Market in Vadaseri, Tamil Nadu. [Image source: kifo / Flickr. CC BY-SA]
 
-**lekt3504:** Yajña ceremony, Shiva Ashram, Ganeshpuri. [Image source: Dey / Flickr. CC BY-NC-SA]
+**lekt3504:** Yajña ceremony, Shiva ashram, Ganeshpuri. [Image source: Dey / Flickr. CC BY-NC-SA]
 :::

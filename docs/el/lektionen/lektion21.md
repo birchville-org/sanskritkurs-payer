@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα 21
 
@@ -32,7 +32,7 @@ status: stable
 | | **schwacher Stamm** | Präsensstamm + **-t-** |
 | **Femininum** | | |
 | | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** |
+| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** | <!-- TODO: Fallback translation -->
 
 :::
 Παραδείγματα:
@@ -40,7 +40,8 @@ status: stable
 1\. Τάξη Ενεστώτα:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "ένας που τιμά με θυσία"
+**yajant**
+⟪यजन्त्⟫ "ένας που τιμά με θυσία"
 :::
 ::: grammar-box
 
@@ -84,7 +85,7 @@ status: stable
 | | **starker Stamm** | Präsensstamm + **-ant-** |
 | | **schwacher Stamm** | Präsensstamm + **-at-** :br(Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.) |
 | **Femininum** | | |
-| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | <!-- TODO: Fallback translation -->
 
 :::
 2\. Σύγκληση:
@@ -143,7 +144,7 @@ status: stable
 | | **starker Stamm** | ⟪महान्त्⟫ |
 | | **schwacher Stamm** | ⟪महत्⟫ |
 | **Femininum** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box

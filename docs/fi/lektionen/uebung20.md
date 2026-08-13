@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 20
 
-A) Käännä ja ratkaise sanskritinkieliset yhdyssanat:
+A) Käännä ja ratkaise sanskritinkieliset yhdyssanat: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
 ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪ऽनार्या⟫ ⟪देवानामिन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪।⟫ (tai: ⟪इन्द्रस्य⟫ ⟪शत्रव⟫ ⟪एवानार्या⟫...)
@@ -52,10 +52,10 @@ Vedoihin vihitty poika kunnioittaa Śivaa ja muita jumalia.
 ⟪बुद्धं⟫ ⟪गता⟫ ⟪दुःखमादिर्येषां⟫ ⟪तानि⟫ ⟪सत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 Buddhan luo menneet kuulevat kärsimyksen totuuden ja muut (jalot) totuudet.
 
-B) Käännä sanskritiksi käyttäen yhdyssanoja:
+B) Käännä sanskritiksi käyttäen yhdyssanoja: <!-- TODO: Fallback translation -->
 
 1\. Kṣatriya, joka ei pidä sauva kädessään, ei suojella kansaa.
-⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (tai: ⟪जनान्रक्षति⟫ ⟪।⟫)
+⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (tai: ⟪जनान्रक्षति⟫ ⟪।⟫) <!-- TODO: Fallback translation -->
 
 2\. Kālidāsa ja muut runoilijat ovat sanskritin opettajia.
 ⟪संस्कृतगुरवः⟫ ⟪कालिदासादिक्वयः⟫ ⟪।⟫
@@ -69,12 +69,12 @@ B) Käännä sanskritiksi käyttäen yhdyssanoja:
 ::: media
 ![](/images/uebung031.webp)
 Kuv.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
-(Kuv lähde: [Yksityiskohdat](/licenses#uebung031))
+(Kuv lähde: [Yksityiskohdat](/licenses#uebung031)) <!-- TODO: Fallback translation -->
 
 :::
 ---
 
-## Yhdistelmien analyysi
+## Yhdistelmien analyysi <!-- TODO: Fallback translation -->
 
 Ratkaise seuraavat yhdistelmät bahuvrīhi- ja/tai dvandva- ja/tai tatpuruṣa-yhdistelminä kaikilla sinusta mahdollisilta tavoittain sanskritiksi.
 
@@ -225,7 +225,7 @@ Ratkaise seuraavat yhdistelmät bahuvrīhi- ja/tai dvandva- ja/tai tatpuruṣa-y
 
 ⟪७३⟫. ⟪जातक्रोधः⟫ ⟪।⟫ ⟪जातः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
 
-⟪७४⟫. ⟪दृष्टमात्रः⟫ ⟪।⟫ kun hän on nähty
+⟪७४⟫. ⟪दृष्टमात्रः⟫ ⟪।⟫ kun hän on nähty <!-- TODO: Fallback translation -->
 
 ⟪७५⟫. ⟪भूतकालः⟫ ⟪।⟫ menneisyys
 
@@ -246,7 +246,7 @@ Ratkaise seuraavat yhdistelmät bahuvrīhi- ja/tai dvandva- ja/tai tatpuruṣa-y
 Kuva: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung030))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Scholarly Fragments
 
@@ -266,7 +266,7 @@ Ihmisen korkein päämäärä on, että kolminkertainen kärsimys katoaa täysin
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२२⟫ ⟪॥⟫  
-Kärsimystä merkitsee ahdistus. Vapautuminen on täydellinen vapautuminen siitä.
+Kärsimystä merkitsee ahdistus. Vapautuminen on täydellinen vapautuminen siitä. <!-- TODO: Fallback translation -->
 
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫  
 ⟪नैव⟫ ⟪वर्णाश्रमादीनां⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫  
@@ -294,10 +294,10 @@ Keskeltä hoikka, lantiolta leveä, punaiset huulet, mustat silmät, kaareva nav
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫  
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
-Köyhät, joita hän ei halua, saavat hyvin paljon poikia; rikkailla ei ole yhtään poikaa. Luomakunnan kulku on outoa.
+Köyhät, joita hän ei halua, saavat hyvin paljon poikia; rikkailla ei ole yhtään poikaa. Luomakunnan kulku on outoa. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung032.webp)
 Kuv.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung032))
-:::
+::: <!-- TODO: Fallback translation -->

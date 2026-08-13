@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 29
+# Les 29
 
 ## 29.1. Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum
 

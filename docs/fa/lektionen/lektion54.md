@@ -11,93 +11,93 @@ status: stable
 
 ## 54.1. مقدمه
 
-Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters große Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen. <!-- TODO: Fallback translation -->
+با درس ۵۴، ترم دوم در کلاس‌های دانشگاهی آغاز می‌شود. از این پس، دوره فقط موازی با موضوع اصلی این ترم: مطالعه کامل بھاگوادگی‌تا، پیش می‌رود. هدف آموزشی رسیدن به چنان روانی در خواندن یک متن با سطح دشواری متوسط است که بتوان در ثلث آخر ترم، بخش‌های بزرگی از بھاگوادگی‌تا را به صورت شفاهی ترجمه کرد. در ابتدا، فهرست واژگانی در کلاس‌های دانشگاهی توزیع می‌شد و بعدها دانشجویان باید خود از فرهنگ‌نامه‌های مربوطه (مونیر-ویلیامز، آپته، پی‌دبلیو) استفاده می‌کردند.
 
-Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung gestellt. <!-- TODO: Fallback translation -->
+دوره مربوط به بھاگوادگی‌تا فعلاً هنوز آنلاین در دسترس قرار نمی‌گیرد.
 
-Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bisher noch nicht behandelt wurden. <!-- TODO: Fallback translation -->
+درس‌های دوره زبان سنسکریت به موضوعاتی از دستور زبان سنسکریت می‌پردازند که تاکنون مورد بررسی قرار نگرفته‌اند.
 
 ## 54.2. واژه‌سازی: پسوند ⟪कृत्⟫ -u به ریشه‌های آرزویی
 
 ::: grammar-box
-**An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.** <!-- TODO: Fallback translation -->
+**به بن‌های تمنا (⟪इच्छाप्रकृति⟫) («خواستن انجام چیزی»؛ «در آستانه انجام کاری بودن») برای ساخت اسم‌های فاعلی، پسوند -u افزوده می‌شود.**
 
-(Bildung der Desiderativstämme folgt später) <!-- TODO: Fallback translation -->
+(ساخت بن‌های تمنا بعداً آمده است)
 
-Beispiel: <!-- TODO: Fallback translation -->
+مثال:
 
 :::
 ::: indent
-⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen" <!-- TODO: Fallback translation -->
+⟪युयुत्सु⟫ (yu-yudh + s + u) «شور جنگجو، در آستانه نبرد»
 :::
 ::: media
 ![](/images/lekt5402.webp)
-Abb.: ⟪अयुयुत्सुरर्जुनः⟫
-⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Bildquelle: [Details](/licenses#lekt5402)) <!-- TODO: Fallback translation -->
+تصویر: ⟪अयुयुत्सुरर्जुनः⟫
+⟪भगवद्गीतोपदेशः⟫ تیروپتی = తిరుపతి
+(منبع تصویر: [جزئیات](/licenses#lekt5402))
 :::
 ## 54.3. وزن شعر II: ⟪त्रिष्टुभ्⟫ حماسی و ⟪जगती⟫
 
 ::: grammar-box
-Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren. <!-- TODO: Fallback translation -->
+⟪त्रिष्टुभ्⟫ («سه ناله») در حماسه‌ها، درست در میان بخش‌های معمول ⟪श्लोक⟫، دقیقاً در نقاطی ظاهر می‌شود که حال و هوا یا روایت اوج یا پایانی ویژه‌ای را تجربه می‌کنند.
 
-Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden. <!-- TODO: Fallback translation -->
+مصراع ⟪त्रिष्टुभ्⟫ از چهار مصراع یازده‌هجایی ⟪पाद⟫ تشکیل شده است که از نظر ساختار هیچ تفاوتی با یکدیگر ندارند.
 
-Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des ⟪पाद⟫ steht. <!-- TODO: Fallback translation -->
+⟪त्रिष्टुभ्⟫ دو الگوی بنیادین دارد، بسته به اینکه وقفه (پایان واژه، شکاف ترکیبی یا پیشوند خاصی مانند -tara، -tama و غیره) پس از هجای چهارم یا پنجم ⟪पाद⟫ قرار گیرد.
 
-Schema I: <!-- TODO: Fallback translation -->
+الگوی I:
 
 :::
 ::: metrik-schema
-× — × — / × ◡ — **— ◡ — —** <!-- TODO: Fallback translation -->
+× — × — / × ◡ — **— ◡ — —**
 :::
-Schema II: <!-- TODO: Fallback translation -->
+طرح دوم:
 
 ::: metrik-schema
-× — × — × / × ◡ **— ◡ — —** <!-- TODO: Fallback translation -->
+× — × — × / × ◡ **— ◡ — —**
 :::
-Die Quantität der vier letzten Silben ist also in beiden Schemata gleich. <!-- TODO: Fallback translation -->
+بنابراین کمیت چهار هجای آخر در هر دو طرح یکسان است.
 
-⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten: <!-- TODO: Fallback translation -->
+شکل بنیادی ⟪जगती⟫: همانند ⟪त्रिष्टुभ्⟫، اما دوازده هجایی. پنج هجوی آخر هر پادا کمیت‌های زیر را دارند:
 
 ::: metrik-schema
-**— ◡ — ◡ —** <!-- TODO: Fallback translation -->
+**— ◡ — ◡ —**
 :::
-Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied: <!-- TODO: Fallback translation -->
+در کنار آن، نوعی به نام ⟪त्रिष्टुभ्⟫ معمولاً با پنج هجای آغازین وجود دارد که مانند یک ⟪त्रिष्टुभ्⟫ با چهار هجای آغازین ادامه می‌یابد:
 
 ::: metrik-schema
-— × — × / × ◡ — **— ◡ — —** <!-- TODO: Fallback translation -->
+— × — × / × ◡ — **— ◡ — —**
 :::
-In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind: <!-- TODO: Fallback translation -->
+در دوران بعدی، اشکال ⟪त्रिष्टुभ्⟫ بر اساس یک طرح دقیق از دراز و کوتاه تعیین می‌شوند، دیگر قطع (سکون) نقش مهمی ندارد. مهم‌ترین اشکال بعدی عبارتند از:
 
-a) ⟪इन्द्रवज्रा⟫ <!-- TODO: Fallback translation -->
-
-::: metrik-schema
-**—** — ◡ — , — ◡ ◡ — ◡ — — <!-- TODO: Fallback translation -->
-:::
-b) ⟪उपेन्द्रवज्रा⟫ <!-- TODO: Fallback translation -->
+الف) ⟪इन्द्रवज्रा⟫
 
 ::: metrik-schema
-**◡** — ◡ — , — ◡ ◡ — ◡ — — <!-- TODO: Fallback translation -->
+**—** — ◡ — ، — ◡ ◡ — ◡ — —
 :::
-c) ⟪उपजाति⟫ <!-- TODO: Fallback translation -->
+ب) ⟪उपेन्द्रवज्रा⟫
+
+::: metrik-schema
+**◡** — ◡ — ، — ◡ ◡ — ◡ — —
+:::
+ج) ⟪उपजाति⟫
 
 ::: indent
-⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt. <!-- TODO: Fallback translation -->
+⟪पाद⟫ در ⟪इन्द्रवज्रा⟫ و ⟪पाद⟫ در ⟪उपेन्द्रवज्रा⟫ در یک بیت آمیخته شده‌اند.
 :::
 ::: grammar-box
-**Merkverse:** <!-- TODO: Fallback translation -->
+**آیات کلیدی:**
 
 **⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
 
 :::
 ::: indent
-"Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind. <!-- TODO: Fallback translation -->
+«این یک ایندراواجرا است، اگر در تمام پاداها سیلاب‌های ta ta ja ga ga باشند.
 :::
 ⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
 ::: indent
-"Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat" <!-- TODO: Fallback translation -->
+«یک اپندراواجرا مانند یک ایندراواجرا است که در ابتدا دارای یک سیلاب سبک باشد.»
 :::
 ⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
 ⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
@@ -105,48 +105,48 @@ c) ⟪उपजाति⟫ <!-- TODO: Fallback translation -->
 ⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
 ::: indent
-"Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti." <!-- TODO: Fallback translation -->
+«اگر دو پادا که ویژگی‌های ایندراواجرا یا اپندراواجرا را دارند در یک شعر مشارکت کنند، آنگاه آن‌ها آپاجاتی هستند. حتی اگر متون دیگر در یک شعر مخلوط شوند، به آن آپاجاتی گفته می‌شود.»
 :::
-## 54.4. تمرین zur Metrik
+## 54.4. تمرین مربوط به متریک
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs. <!-- TODO: Fallback translation -->
+در باگاوادگی‌تا بخش دوم، تریشتوبه‌ها و جاگتی‌ها را تعیین کنید.
 
-Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28 <!-- TODO: Fallback translation -->
+نمونه‌ای از تلاوت: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- دسترسی در ۲۸ ژانویه ۲۰۰۹
 
 ## 54.5. انواع ساخت آئوریست (⟪लुङ्⟫)
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.** <!-- TODO: Fallback translation -->
+**ویژگی مشترک همه انواع ساختاری آوریست (⟪लुङ्⟫)، افزودهٔ a- است که طبق همان قواعدی که در امپرfectum (⟪लङ्⟫) صدق می‌کند، پیش از ریشه قرار می‌گیرد.**
 
-Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich. <!-- TODO: Fallback translation -->
+در زبان سنسکریت تنها حالت خبری (Indikativ) و آرزویی (Prekative) آوریست کاربرد دارند.
 :::
 ::: grammar-box
-**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):** <!-- TODO: Fallback translation -->
+**انواع ساختاری آوریست (⟪लुङ्⟫) به شرح زیر است:**
 
-1.  Nichtsibilantische (asigmatische) Aoriste:  <!-- TODO: Fallback translation -->
-    *   54.1. Wurzelaorist: Augment + Wurzel + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.2. Themavokalischer Aorist: Augment + Wurzel + **a** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Wurzel + **a** + Sekundärendung  <!-- TODO: Fallback translation -->
-2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung  <!-- TODO: Fallback translation -->
-    *   54.4. -s-Aorist: Augment + Wurzel + **s** \+ Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.5. -iṣ-Aorist: Augment + Wurzel + **i** + **ṣ** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.6. -siṣ-Aorist: Augment + Wurzel + **siṣ** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.7. -sa-Aorist: Augment + Wurzel + **s** + **a** + Sekundärendung <!-- TODO: Fallback translation -->
+1.  آوریست‌های غیرسیبانتی (آسیماتیک):
+    *   54.1. آوریست ریشه‌ای: افزوده + ریشه + پسوند ثانویه
+    *   54.2. آوریست با واکهٔ موضوعی: افزوده + ریشه + **a** + پسوند ثانویه
+    *   54.3. آوریست با تکرار (Reduplizierter): افزوده + **ریشهٔ تکرارشده** + **a** + پسوند ثانویه
+2.  آوریست‌های سیبانتی (سیگماتیک): حرف s یا هجایی که حاوی s (ṣ) است پیش از پایان شخصی می‌آید
+    *   54.4. آوریست -s: افزوده + ریشه + **s** \+ پسوند ثانویه
+    *   54.5. آوریست -iṣ: افزوده + ریشه + **i** + **ṣ** + پسوند ثانویه
+    *   54.6. آوریست -siṣ: افزوده + ریشه + **siṣ** + پسوند ثانویه
+    *   54.7. آوریست -sa: افزوده + ریشه + **s** + **a** + پسوند ثانویه
 
-Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen <!-- TODO: Fallback translation -->
+برای توزیع ریشه‌ها در انواع مختلف ساختاری، به بخش مربوط به هر نوع مراجعه کنید.
 :::
 ## 54.6. آوریست ریشه‌ای
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**آموزش:**
 
-**Augment + Wurzel + Sekundärendung** <!-- TODO: Fallback translation -->
+**مکمل + ریشه + پسوند ثانویه**
 :::
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich. <!-- TODO: Fallback translation -->
+پایان سوم شخص جمع -ur است. حالت آتمنپادا رایج نیست.
 
-Beispiel: <!-- TODO: Fallback translation -->
+مثال:
 
-⟪पा⟫ 1P "trinken" <!-- TODO: Fallback translation -->
+⟪पा⟫ 1P "نوشیدن"
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -155,22 +155,22 @@ Beispiel: <!-- TODO: Fallback translation -->
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
 :::
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet: <!-- TODO: Fallback translation -->
+صرفاً از ۱۲ ریشه، ائوریست ریشه‌ای ساخته می‌شود:
 
-1.  ⟪गा⟫ 3 "gehen" <!-- TODO: Fallback translation -->
-2.  ⟪घ्रा⟫ 1P "riechen" <!-- TODO: Fallback translation -->
-3.  ⟪छो⟫ 6 "schneiden" (⟪अच्छात्⟫) <!-- TODO: Fallback translation -->
-4.  ⟪दा⟫ 3U "geben" <!-- TODO: Fallback translation -->
-5.  ⟪दो⟫  1, 4 "schneiden" <!-- TODO: Fallback translation -->
-6.  ⟪धा⟫ 3U "setzen" <!-- TODO: Fallback translation -->
-7.  ⟪धे⟫ 1 "saugen" (⟪अधात्⟫) <!-- TODO: Fallback translation -->
-8.  ⟪पा⟫ 1P "trinken" <!-- TODO: Fallback translation -->
-9.  ⟪शो⟫ 4P "schärfen" <!-- TODO: Fallback translation -->
-10.  ⟪सो⟫ "beendigen" <!-- TODO: Fallback translation -->
-11.  ⟪स्था⟫ 1P "stehen" <!-- TODO: Fallback translation -->
-12.  ⟪भू⟫ 1P "sein <!-- TODO: Fallback translation -->
+1.  ⟪गा⟫ ۳ «رفتن»
+2.  ⟪घ्रा⟫ ۱پ «بو کردن»
+3.  ⟪छो⟫ ۶ «بریدن» (⟪अच्छात्⟫)
+4.  ⟪दा⟫ ۳و «دادن»
+5.  ⟪दो⟫  ۱، ۴ «بریدن»
+6.  ⟪धा⟫ ۳و «نشاندن»
+7.  ⟪धे⟫ ۱ «مکیدن» (⟪अधात्⟫)
+8.  ⟪पा⟫ ۱پ «نوشیدن»
+9.  ⟪शो⟫ ۴پ «تیز کردن»
+10.  ⟪सो⟫ «پایان دادن»
+11.  ⟪स्था⟫ ۱پ «ایستادن»
+12.  ⟪भू⟫ ۱پ «بودن»
 
-Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet: <!-- TODO: Fallback translation -->
+به ⟪भू⟫ ۱پ ائوریست ریشه‌ای به این شکل ساخته می‌شود:
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -181,57 +181,57 @@ Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet: <!-- TODO: Fallback transl
 :::
 ### 54.6.1. Der Aorist der 3.sg.مجهول
 
-Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden. <!-- TODO: Fallback translation -->
+یک شکل ویژه از ائوریست ریشه‌ای، ائوریس سوم شخص مفرد مجهول است. این می‌تواند از همه ریشه‌ها ساخته شود.
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**ساخت:**
 
-**Augment + Wurzel + i** <!-- TODO: Fallback translation -->
+**آگمنت + ریشه + i**
 
-**Die Wurzel hat folgende Gestalt:** <!-- TODO: Fallback translation -->
+**ریشه شکل زیر را دارد:**
 
-Hochstufe: <!-- TODO: Fallback translation -->
+سطح پیشرفته:
 
-*   Wurzeln mit kurzem Vokal (außer a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am   <!-- TODO: Fallback translation -->
-Beispiele:  
-⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"  
-⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestoßen" <!-- TODO: Fallback translation -->
+*   ریشه‌هایی با واکه کوتاه (به جز a) پیش از همخوان ساده، همچنین ⟪जन्⟫ و بیشتر ریشه‌های منتهی به -am
+مثال‌ها:  
+⟪भिद्⟫ 7U: ⟪अभेदि⟫ «او شکافت شد»  
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ «او رانده شد»
 
-Dehnstufe: <!-- TODO: Fallback translation -->
+مرحله دراز (Guna):
 
-*   Wurzeln mit auslautendem Vokal   <!-- TODO: Fallback translation -->
-Beispiele:  
-⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"  
-⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"  
-⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"   <!-- TODO: Fallback translation -->
+*   ریشه‌هایی با واکه پایانی
+مثال‌ها:  
+⟪नी⟫ 1U: ⟪अनायि⟫ «او هدایت شد»  
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ «او ستایش شد»  
+⟪कृ⟫ 8U: ⟪अकारि⟫ «آن ساخته شد»
 
-*   Wurzeln mit a vor einfachem Konsonanten (außer ⟪जन्⟫ und Wurzeln auf -am)   <!-- TODO: Fallback translation -->
-Beispiel:  
-⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"  
-aber:  
-⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"   <!-- TODO: Fallback translation -->
+*   ریشه‌هایی با a قبل از همخوان ساده (به جز ⟪जन्⟫ و ریشه‌های منتهی به -am)
+مثال:  
+⟪वद्⟫ شخص اول مفرد: ⟪अवादि⟫ "گفته شد"  
+اما:  
+⟪जन्⟫ چهارم، حالت خودکار: ⟪अजनि⟫ "زاده شد"
 
-*   einige Wurzeln auf -am   <!-- TODO: Fallback translation -->
-Beispiel:  
-⟪गम्⟫ ⟪अगामि⟫ <!-- TODO: Fallback translation -->
+*   برخی ریشه‌های منتهی به -am
+مثال:  
+⟪गम्⟫ ⟪अगामि⟫
 
-Einschub von y vor Endung: <!-- TODO: Fallback translation -->
+درج y قبل از پایان:
 
-*   Wurzeln auf -ā, -e, -ai, -o schieben zwischen das -ā der Wurzel und die Endung ein y ein:   <!-- TODO: Fallback translation -->
-Beispiel:  
-⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben" <!-- TODO: Fallback translation -->
+*   ریشه‌های منتهی به -ā، -e، -ai، -o بین -ā ریشه و پایان y را قرار می‌دهند:
+مثال:  
+⟪दा⟫ سوم، حالت خودکار: ⟪अदायि⟫ "داده شد"
 
-Nasalinfix: <!-- TODO: Fallback translation -->
+پسوند بینی:
 
-*   einige Wurzeln haben ein Nasalinfix:   <!-- TODO: Fallback translation -->
-Beispiel:  
-⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen" <!-- TODO: Fallback translation -->
+*   برخی از ریشه‌ها دارای یک پسوند بینی هستند:
+مثال:  
+⟪लभ्⟫ ۱آ: ⟪अलम्भि⟫ در کنار ⟪अलाभि⟫ : "آن دریافت شد"
 
-(Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben). <!-- TODO: Fallback translation -->
+(بقیه شکل‌های مجهول در ائوریست با فرم‌های آتمناپادا بازگردانده می‌شوند).
 :::
-## 54.7. تمرین
+## ۵۴.۷ تمرین
 
-Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen: <!-- TODO: Fallback translation -->
+شکل‌های زیر را به صورت مکتوب ترجمه کنید و ائوریست مربوطه را بسازید:
 
 1.  ⟪यन्ति⟫
 2.  ⟪पिबामि⟫
@@ -253,22 +253,22 @@ Beispiel:
 18.  ⟪उद्यते⟫
 19.  ⟪स्तूयते⟫
 20.  ⟪कृष्यते⟫
-21.  ⟪जायते⟫ (Pass.) <!-- TODO: Fallback translation -->
+21.  ⟪जायते⟫ (مبني للمجهول)
 22.  ⟪गीयते⟫
 23.  ⟪गम्यते⟫
 
 ::: media
 ![](/images/lekt5401.webp)
-Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
-Tamil Nadu
-(Bildquelle: [Details](/licenses#lekt5401)) <!-- TODO: Fallback translation -->
+تصویر: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
+تامیل نادو
+(منبع تصویر: [جزئیات](/licenses#lekt5401))
 :::
 
 ::: deleteme-box
 
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Bildquelle: Raji Srinivas / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ تیروپتی = తిరుపati [منبع تصویر: راجی سرینواس / ویکی‌پدیا. مجوز FD گنو]
 
-**lekt5401:** Tamil Nadu [Bildquelle: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Zugriff am 2009-01-28. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, shre alike)] <!-- TODO: Fallback translation -->
+**lekt5401:** تامیل نادو [منبع تصویر: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- دسترسی در ۲۰۰۹-۰۱-۲۸. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک مشابه)]
 
 :::
 

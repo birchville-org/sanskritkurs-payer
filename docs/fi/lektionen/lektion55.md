@@ -7,16 +7,16 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 55
+# Oppitunti 55 <!-- TODO: Fallback translation -->
 
 ## 55.1. a-Aoristi (aoristi, jossa on temattivokaali)
 
 ::: grammar-box
-**a-aoristi muodostetaan samalla tavalla kuin imperfekti (⟪लङ्⟫) 6. preesensluokan (⟪तुदादि⟫), eli:**
+**a-aoristi muodostetaan samalla tavalla kuin imperfekti (⟪लङ्⟫) 6. preesensluokan (⟪तुदादि⟫), eli:** <!-- TODO: Fallback translation -->
 
-**Augment + matalapohjainen vartalo + a + sekundääripäätteet**
+**Augment + matalapohjainen vartalo + a + sekundääripäätteet** <!-- TODO: Fallback translation -->
 
-**-a- korvataan samoin taivutusmuotoina imperfektin kanssa -ā:lla.**
+**-a- korvataan samoin taivutusmuotoina imperfektin kanssa -ā:lla.** <!-- TODO: Fallback translation -->
 
 **Ei nasaaliliitteitä.**
 
@@ -24,7 +24,7 @@ status: stable
 
 **Luettelo juurista, joilla on tämä aoristi Kielhornin, Grammatik §340.**
 :::
-Esimerkki:
+Esimerkki: <!-- TODO: Fallback translation -->
 
 ⟪सिच्⟫ 6U "roiskeita"
 
@@ -39,20 +39,20 @@ Esimerkki:
 Epäsäännölliset muodot:
 
 ::: indent
-⟪अस्⟫ 4P "heittää": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (selitys ks. Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "heittää": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (selitys ks. Thumb-Hauschild §541,4) <!-- TODO: Fallback translation -->
 
 ⟪ख्या⟫ + ⟪आ⟫ 2P "kertoa": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
 ⟪दृश्⟫ "nähdä": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (korkea aste!)
 :::
-Huomaa:
+Huomaa: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪शास्⟫ 2P "kehoittaa": ⟪अशिषत्⟫ (säännöllinen matala aste!)
 :::
-## 55.2. Harjoitus
+## 55.2. Harjoitus <!-- TODO: Fallback translation -->
 
-Määritä ja käännä kirjallisesti seuraavat muodot sekä muodosta niistä vastaavat a-aoristin muodot:
+Määritä ja käännä kirjallisesti seuraavat muodot sekä muodosta niistä vastaavat a-aoristin muodot: <!-- TODO: Fallback translation -->
 
 1.  ⟪दोक्ष्यन्ति⟫
 2.  ⟪बुबोध⟫
@@ -92,10 +92,10 @@ Määritä ja käännä kirjallisesti seuraavat muodot sekä muodosta niistä va
 Kuv.: ⟪अजीर्यमिति⟫
 'Inâyat Khân kuolemaisillaan, luonnos miniatyyriin käsikirjoitukseen Jahângîrille = جهانگير, n. 1618
 (Kuvälähde: [Yksityiskohdat](/fi/licenses#lekt5501))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
-**lekt5501:** 'Inâyat Khân kuolemassa, luonnos miniatyyriin käsikirjoitukseen Jahângîrille = جهانگير, noin 1618 [Kuvälähde: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Haettu 2009-01-28. Kansanomaisessa käytössä]
+**lekt5501:** 'Inâyat Khân kuolemassa, luonnos miniatyyriin käsikirjoitukseen Jahângîrille = جهانگير, noin 1618 [Kuvälähde: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Haettu 2009-01-28. Kansanomaisessa käytössä] <!-- TODO: Fallback translation -->
 
 :::

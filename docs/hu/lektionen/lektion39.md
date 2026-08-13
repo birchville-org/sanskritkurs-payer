@@ -7,11 +7,11 @@ category: "Grammatik"
 status: stable
 ---
 
-# 39. lecke
+# 39. lecke <!-- TODO: Fallback translation -->
 
-## 39.1. Az első személyű végződések (:sig[तृतीयः] ⟪पुरुषः⟫ = "**harmadik** személy")
+## 39.1. Az első személyű végződések (:sig[तृतीयः] ⟪पुरुषः⟫ = "**harmadik** személy") <!-- TODO: Fallback translation -->
 
-Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**harmadik** személy") a következők:
+Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**harmadik** személy") a következők: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -23,7 +23,7 @@ Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुर�
 | **Másodlagos képzők** | **-m** | **-ma** | **-i** | **-mahi** |
 | **Másodlagos képzők (tárgyatlan)** | **-am** | ^^ | ^^ | ^^ |
 | **Kívánó mód (optativus)endung** | ^^ | ^^ | **-a** | ^^ |
-| **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** |
+| **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
 
 :::
 ¹ Megjegyzés: valójában a tárgyas főnévi származékok Ā képzője -e formában is előfordul, ahol a téma magánhangzója -a- analógia okból kiesik. Az eredmény azonban úgy hangzik, mintha a -i képző kapcsolódna a téma magánhangzójához: a + i » e.
@@ -34,7 +34,7 @@ Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुर�
 **Szabály:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. Első jelen idői osztály (⟪भ्वादि⟫)
+### 39.2.1. Első jelen idői osztály (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P
 
@@ -45,7 +45,7 @@ Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुर�
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Jelen idő kijelentő mód  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
 | **Múlt idő (imperfektum)  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
-| **Kívánó mód (optativus)  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
+| **Kívánó mód (optativus)  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi | <!-- TODO: Fallback translation -->
 
 :::
 ### 39.2.2. Hatodik jelenidő-osztály (⟪तुदादि⟫)
@@ -100,7 +100,7 @@ Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुर�
 | :--- | :---: | :---: |
 | **Jelen idő indikatívja - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
 | **Múlt idő (imperfektum) - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
-| **Kívánó mód (optativus) - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
+| **Kívánó mód (optativus) - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi | <!-- TODO: Fallback translation -->
 
 :::
 ## 39.3. Az egyszerű jövő idő első személyű ragozott formáinak képzése - ⟪ऌत्⟫
@@ -110,7 +110,7 @@ Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुर�
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫-képzés
+### 39.3.1. ⟪अनिट्⟫-képzés <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U
 
@@ -146,7 +146,7 @@ Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुर�
 
 pl. ⟪वच्⟫ 1.sg.Ind.Präs.P ⟪व⟫*⟪च्मि⟫***
 :::
-### 39.4.1. Második jelen időosztály (⟪अदादि⟫)
+### 39.4.1. Második jelen időosztály (⟪अदादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪द्विष्⟫ 2U
 
@@ -177,7 +177,7 @@ pl. ⟪वच्⟫ 1.sg.Ind.Präs.P ⟪व⟫*⟪च्मि⟫***
 Ábra: ⟪सो⟫ ⟪ऽस्मि⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3901))
 :::
-### 39.4.2. Harmadik jelen idő osztály (⟪जुहोत्यादि⟫)
+### 39.4.2. Harmadik jelen idő osztály (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪हु⟫ 3P
 

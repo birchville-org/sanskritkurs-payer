@@ -53,5 +53,5 @@ A túlságosan szigorú kormányzás (daṇḍa) előtt a lényeknek remegniük 
 ![](/images/uebung046.webp)
 Kép: ⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung046))
-:::
+::: <!-- TODO: Fallback translation -->
 

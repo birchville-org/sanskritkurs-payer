@@ -42,7 +42,7 @@ p. ex.
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > etc.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. Compostos determinativos com membro anterior atributivo / apositivo = Karmadhāraya m. = ⟪कर्मधारय⟫
@@ -71,16 +71,20 @@ Fig.: ⟪लक्ष्मी⟫
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   se um Karmadhāraya expressa uma COMPARAÇÃO, então aquilo com que se compara fica no membro posterior do composto:
 
+::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "um homem como um leão"
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "um homem como um tigre"
+:::
 
 *   se, no entanto, um Karmadhāraya expressa uma aposição (especificação mais detalhada do membro posterior por um substantivo), então o elemento especificador fica no membro anterior, como também exige a regra geral para a ordem dos membros em um Tatpuruṣa:
 
+::: indent
 ⟪नरसिंहः⟫ também pode ser dissolvido: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Um leão que (na realidade) é um homem."
+:::
 
 Tais Karmadhārayas aposicionais são dissolvidos nos comentários nativos, como no exemplo acima, por meio de ⟪एव⟫.
 
@@ -300,7 +304,7 @@ Fig.: ⟪सिंहः⟫
 Fig.: ⟪व्याघ्रः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt1507))
 :::
-⟪इव⟫ (posposto): como se, como (em comparações: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "um homem como um tigre", "um homem semelhante a um tigre"
+⟪इव⟫ (posposto): como se, como (em comparações: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "um homem como um tigre", "um homem semelhante a um tigre" <!-- TODO: Fallback translation -->
 
 ⟪एव⟫ (posposto): enfatiza o precedente, corresponde frequentemente em português à ênfase, uma espécie de emoticon `\<!\>`, p.ex. ⟪सत्यमेव⟫ ⟪जयति⟫ "só a verdade vence", "precisamente a verdade vence", "a verdade vence"
 

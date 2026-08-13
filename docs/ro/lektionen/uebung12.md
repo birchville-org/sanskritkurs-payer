@@ -103,4 +103,4 @@ C) Transformați propozițiile din [Lecția 10](lektion10.md), Exercițiul C, la
 ![](/images/uebung020.webp)
 Fig.: ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung020))
-:::
+::: <!-- TODO: Fallback translation -->

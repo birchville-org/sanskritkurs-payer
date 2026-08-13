@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 52
+# Lecziun 52
 
 ## 52.1. Neutrum dals stems sin -i e -u
 
@@ -50,7 +50,7 @@ Declinaziun sco las radichas cun -vant resp. f. ⟪देवी⟫
 Exempels:
 
 ::: indent
-⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "in/ina, che ha fatg"
+⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "in/ina, che ha fatg" <!-- TODO: Fallback translation -->
 
 ⟪भिन्नवन्त्⟫ "in chel che ha spartì"
 :::
@@ -88,7 +88,7 @@ Abb.: ⟪अन्नमयम्⟫
 ⟪विवाहः⟫, Chennai = சென்னை
 (font da l'imagines: [detagls](/rm/licenses#lekt5202))
 :::
-### 52.2.3. ⟪तद्धित⟫-finiala -eya
+### 52.2.3. ⟪तद्धित⟫-finiala -eya <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Il sufix ⟪तद्धित⟫ -eya / f.: -eyī appar, tranter auters, a feminas en il significà da**
@@ -131,7 +131,7 @@ Coda davant il temple, Trivandrum = Thiruvananthapuram = തിരുവനന�
 :::
 ## 52.4. Cumposts verbalics che expriman ch'insatgi daventa u vegn fatg quai ch'el n'era betg avant (⟪अभुततद्भावः⟫)
 
-### 52.4.1. cvi-Bildungen
+### 52.4.1. Furmaziuns cvi
 
 ::: grammar-box
 **Vers las radischs**
@@ -172,7 +172,7 @@ Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
 Brada da stgallei, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt5209))
 :::
-### 52.4.2. Suffix -sāt
+### 52.4.2. Suffix -sāt <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Per exprimer che ina persuna u chos daventa cumplettamain quai, u che inqualcun fa qualchidina u inqual auter cumplettamain quai, ch'è designà tras in num substantiv, po al num substantiv**
@@ -188,7 +188,7 @@ Brada da stgallei, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्र�
 
 **a ina cumpostaziun verbala.**
 :::
-Exempels:
+Exempels: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫ "el daventa cumplainamain foc"
@@ -196,7 +196,7 @@ Exempels:
 ⟪भस्मसात्करोति⟫ "el transfigurescha cumplettamain en tschendra (⟪भस्मन्⟫ n. "tschendra"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person ni Sache**
+**Manchmal bedeutet das Suffix -sāt, dass eine Person ni Sache** <!-- TODO: Fallback translation -->
 
 *   **da quai ch'el dependescha u**
 *   **ch'il vegn en possessiun da quai**
@@ -244,7 +244,7 @@ Cun ils cumposts ditschs ⟪आम्रेडित⟫, nua ch'ins repeta parau
 
 Quai betg tractà qua vesair per ex. en Kielhorn, Grammatik §201ss.
 
-### 52.6.1. Kardinalzahlen
+### 52.6.1. Kardinalzahlen <!-- TODO: Fallback translation -->
 
 #### 52.6.1.1. Numerali adiectivs (per 1 fin a 19)
 
@@ -283,7 +283,7 @@ Ils ulteriurs adverbis numerals fin 19 vesair per ex. en Kielhorn, Grammatica §
 Exempels:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f.
 :::
 
@@ -295,7 +295,7 @@ Exempels:
 Exemples:
 
 ::: indent
-100 ⟪शत⟫ n.:br
+100 ⟪शत⟫ n.
 1000 ⟪सहस्र⟫ n.
 :::
 Ils singuls nums sustantivs vesair per exempel en Kielhorn, Grammatica §201.
@@ -318,7 +318,7 @@ p.ex. ⟪गोविंशत्या⟫ "travess 20 vacas"
 
 Vedeir per exaimpel en Kielhorn, Grammatica §201s.
 
-### 52.6.3. Zahladverbien
+### 52.6.3. Zahladverbien <!-- TODO: Fallback translation -->
 
 a) "-mal":
 
@@ -329,7 +329,7 @@ trais giadas: ⟪त्रिस्⟫
 quatter giadas: ⟪चतुस्⟫
 quintgiadas e cun sufix ***\-:sig[⟪कृत्वस्⟫]***: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-fach": vegn exprimà cun il sufix ***\-:sig[⟪धा⟫]***
+b) "-fach": vegn exprimà cun il sufix ***\-:sig[⟪धा⟫]*** <!-- TODO: Fallback translation -->
 
 ::: indent
 simpl: ⟪एकधा⟫
@@ -347,7 +347,7 @@ c) "je ...", "a ...": vegn exprimà cun il sufix ***\-:sig[⟪शस्⟫]*** (
 
 ::: indent
 zweifältig, aus duas existent
-dreifältig, da trais parts existent
+dreifältig, da trais parts existent <!-- TODO: Fallback translation -->
 
 a partir da 4 vegn "-fältig" exprimaì dal suffix ***\-:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫])***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "quatterfältig"
 :::
@@ -367,7 +367,7 @@ Exempl:
 ![](/images/lekt5205.webp)
 Abb.: ⟪चतुर्मुखः⟫
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt5205))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪तत्पुरुष⟫ cun in num cardinal en il prim element na pon betg vegnir formatids a gieu:**
@@ -380,7 +380,7 @@ Perquai na dastga per exempel da ⟪उत्तरा⟫ ⟪वृक्षा�
 Abb.: ⟪सप्तर्षयः⟫
 La constellaziun da set stailas = ils set stailas pli clers da l'Ursa maior
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt5206))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Regla 2: Differente da la regla 1, ina paraula che designescha in directiun dal tschiel u in numeral cardinal po furmar cun autra substantiv in Tatpuruṣa, sche**
@@ -416,14 +416,14 @@ Jalakandapuram = ஜலகண்டபுரம்
 Exemples:
 
 ::: indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "l'aggregat da las trais munds, las trais munds sco unitad, il tri-mund (tschiel-terra-sutmund)
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "l'aggregat da las trais munds, las trais munds sco unitad, il tri-mund (tschiel-terra-sutmund) <!-- TODO: Fallback translation -->
 
 ⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "Dreiwelt"
 :::
 ::: grammar-box
 **Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Significaziun haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi)**
 :::
-Exempl:
+Exempl: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪पञ्चगु⟫ 3: "per quatter vuschas gudagnà"
@@ -460,11 +460,11 @@ PPP ⟪विपरीत⟫ 3: sbagl, fals
 | | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
 | **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **2. Accusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
 | **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
 | **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **6. Genitiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
 ⟪निस्⟫ Postposiziun e prefix tar substantivs e verbs: giu, lunsch, ora, davent, senza - da
@@ -494,7 +494,7 @@ Abb.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: avidad, lüsternadad
+⟪लौल्य⟫ n.: avidad, lüsternadad <!-- TODO: Fallback translation -->
 
 ⟪वर्ग⟫ m.: sectiun, departiment, gruppa
 
@@ -543,7 +543,7 @@ Inf. ⟪वर्जितुम्⟫
 
 ⟪सूर्य⟫: m. Suna
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫: a inu (⟪द्वितीया⟫) servir, star al servetsch, onorar, amar
+⟪सेव्⟫ 1Ā ⟪सेवते⟫: a inu (⟪द्वितीया⟫) servir, star al servetsch, onorar, amar <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf I ⟪सिषेवे⟫
@@ -597,7 +597,7 @@ Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (sursa d’imagines: [detagls](/rm/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: plantag da bananas (_Musa_ sp.)
+⟪कदली⟫ f.: plantag da bananas (_Musa_ sp.) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -605,7 +605,7 @@ Fig.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Fonte da imagem: [Detalhes](/rm/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: cor, miez, essenza, substanzia
+⟪सार⟫ m.n.: cor, miez, essenza, substanzia <!-- TODO: Fallback translation -->
 
 ⟪दिव्य⟫ 3: celestial, divin
 
@@ -613,7 +613,7 @@ Hampi = ಹಂಪೆ
 
 ⟪आदर्श⟫ m.: specch
 
-⟪मल⟫ m.n.: sursch, defect
+⟪मल⟫ m.n.: sursch, defect <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5215.webp)
@@ -621,7 +621,7 @@ Abb.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (fonte da l'imagines: [Detagls](/rm/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: il tschiel d'Indra
+⟪त्रिपिष्टप⟫ n.: il tschiel d'Indra <!-- TODO: Fallback translation -->
 
 ⟪मार⟫ m.: il mal personifitgà, la seducziun/personificaziun manipulativa, diav
 
@@ -675,14 +675,14 @@ Explicaziun: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvand
 
 Explicaziun: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ davart ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ en la vita dal prinzi
+⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ davart ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ en la vita dal prinzi <!-- TODO: Fallback translation -->
 
 ⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*:sig[⟪मितरौ⟫]* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*:sig[⟪मूलौ⟫]* ⟪हि⟫ ⟪धर्मका⟫*:sig[⟪मावि⟫]*⟪ति⟫ ⟪।७।⟫
 
 ::: indent
 Explicaziuns:
 
-⟪इतरौ⟫ Nom.Akk.Dual.m a ⟪इतर⟫ 3 "auter"
+⟪इतरौ⟫ Nom.Akk.Dual.m a ⟪इतर⟫ 3 "auter" <!-- TODO: Fallback translation -->
 
 ⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ è Dualdvandva)
 :::
@@ -769,14 +769,14 @@ Mahābhārata : L'epos indian / trad. e resumà dal sanscrit da Biren Roy. -- 10
 9.  Finir da tractar:
 **Basham, A. L. (Arthur Llewellyn) (1914–1986)**Il miracel che era l'IndiaPart: Ina survista da la cultura dal subcontinents indian avant l'aventgiment dals musulmans. -- London : Sidgwick & Jackson, 1954.
 10.  Cumenzar cun tractar:
-**Winternitz, Moriz (1863–1937):** Istorgia da la litteratura indiana. Stuttgart : Koehler. -- 3 toms. -- 1908 - 1922 (anc adina la millura istorgia da litteratura dal sanscrit, pali e prakrit)
+**Winternitz, Moriz (1863–1937):** Istorgia da la litteratura indiana. Stuttgart : Koehler. -- 3 toms. -- 1908 - 1922 (anc adina la millura istorgia da litteratura dal sanscrit, pali e prakrit) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5201.webp)
 Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Imagina: Payer)
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt5201))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
@@ -788,7 +788,7 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 
 **lekt5209:** Brischada cun la fiamma, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Fonta da l'imagines: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Access il 2009-01-15. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuziun, nagina utilizaziun cummerciala, nagina lavur da transformaziun)]
 
-**lekt5205:** [Sursa da l’imagina: Wikipedia. Public domain]
+**lekt5205:** [Sursa da l’imagina: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
 
 **lekt5206:** Il Septentrion = las setg stailas pli cleras da l’Ursa maior (Osa maiura) [Sursa da l’imagina: Wikipedia, Licenza GNU FDLicense]
 

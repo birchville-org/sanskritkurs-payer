@@ -5,24 +5,24 @@ lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Luento 26
 
-## 26.1. Sanojen sisäisen -s:n cerebralisointilaki
+## 26.1. Sanojen sisäisen -s:n cerebralisointilaki <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**-s-** korvataan **-ṣ:**lla, jos **k, r, l** tai **Vokaali** — paitsi **a, ā** — edeltää välittömästi tai vain ⟪अनुस्वार⟫ tai ⟪विसर्ग⟫ erottamana, ja seuraava äänne on muu kuin **ṛ, r**.
+**-s-** korvataan **-ṣ:**lla, jos **k, r, l** tai **Vokaali** — paitsi **a, ā** — edeltää välittömästi tai vain ⟪अनुस्वार⟫ tai ⟪विसर्ग⟫ erottamana, ja seuraava äänne on muu kuin **ṛ, r**. <!-- TODO: Fallback translation -->
 
 Tähän sandhiin liittyy myös **⟪दुस्⟫-** äänettömien kitalautakonsonanttien ja huulikonsonanttien edellä yhdyssanoissa.
 :::
 *Esimerkit:*
 ::: indent
-⟪तेषाम्⟫ (lähteestä: *te-sām*)
+⟪तेषाम्⟫ (lähteestä: *te-sām*) <!-- TODO: Fallback translation -->
 
 mutta: ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Sisäsanadentaalien cerebralisointilaki
+## 26.2. Sisäsanadentaalien cerebralisointilaki <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Dentaalit tukkeutumisäänteet korvautuvat vastaavilla retrofleksillä retrofleksien (myös **-ṣ-**) jälkeen:
@@ -31,7 +31,7 @@ Dentaalit tukkeutumisäänteet korvautuvat vastaavilla retrofleksillä retroflek
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
 *(**ṉ** edellisen **i:n** vuoksi, **ṭh** seuraavan **ṣ:n** vuoksi)*
 :::
-## 26.3. Palataalien, kitalautakonsonanttien, ṣ:n ja h:n + -s sanaloppusandhi
+## 26.3. Palataalien, kitalautakonsonanttien, ṣ:n ja h:n + -s sanaloppusandhi <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
@@ -41,7 +41,7 @@ Katso esimerkit alta
 ## 26.4. Grassmannin henkiassimilaatiolaki
 
 ::: grammar-box
-**Kahden aspiroidun konsonantin (aspiroitu konsonantti - vokaali - aspiroitu konsonantti) välitön seuraus on ensimmäisen äänteen henkittymisen menetys:**
+**Kahden aspiroidun konsonantin (aspiroitu konsonantti - vokaali - aspiroitu konsonantti) välitön seuraus on ensimmäisen äänteen henkittymisen menetys:** <!-- TODO: Fallback translation -->
 
 Esimerkki:
 
@@ -49,7 +49,7 @@ Esimerkki:
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**Jos toinen äänne menettää hengityksen ääntelakien vuoksi, hengitys palaa ensimmäiseen äänneeseen.**
+**Jos toinen äänne menettää hengityksen ääntelakien vuoksi, hengitys palaa ensimmäiseen äänneeseen.** <!-- TODO: Fallback translation -->
 
 Esimerkit: ks. alla tulevaisuuden muoto sanasta  ⟪दुह्⟫ ja  ⟪बुध्⟫
 ::: media
@@ -57,14 +57,14 @@ Esimerkit: ks. alla tulevaisuuden muoto sanasta  ⟪दुह्⟫ ja  ⟪ब
 Kuv.: Hermann Grassmann
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi -m:n ja -n:n kohdalla ennen sibilanttia
+## 26.5. Wortsandhi -m:n ja -n:n kohdalla ennen sibilanttia <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Sibilanttien edellä -n ja -m korvautuvat muodolla -ṃ-:**
 
 Esimerkki: ks. alla tulevaisuuden muoto sanasta ⟪मन्⟫
 :::
-## 26.6. Yksinkertaisen tulevaisuuden käyttö (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. Yksinkertaisen tulevaisuuden käyttö (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Yksinkertainen tulevaisuuden aikamuodon (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) merkitys on:**
@@ -80,14 +80,14 @@ Esimerkki: ks. alla tulevaisuuden muoto sanasta ⟪मन्⟫
 
 **Tulevaisuuden aikamuoto kilpailee osittain optatiivin kanssa (katso myöhemmin).**
 :::
-esim. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Henkilö, joka haluaa tehdä lupauksen, menee temppeliin."
+esim. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Henkilö, joka haluaa tehdä lupauksen, menee temppeliin." <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2602.webp)
 Kuv.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2602))
 :::
-## 26.7 Yksinkertaisen tulevaisuuden aikamuodon muodostaminen (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 26.7 Yksinkertaisen tulevaisuuden aikamuodon muodostaminen (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Yksinkertainen tulevaisuusaika:**
@@ -176,7 +176,7 @@ A) ilman liitinvokaalia -i-:
 34.  ⟪स्तौति⟫
 35.  ⟪तिष्ठति⟫
 
-B) Yhdyttävällä vokaalilla -i-:
+B) Yhdyttävällä vokaalilla -i-: <!-- TODO: Fallback translation -->
 
 1.  ⟪अस्यति⟫
 2.  ⟪आसते⟫

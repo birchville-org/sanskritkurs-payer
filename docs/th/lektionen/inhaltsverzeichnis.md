@@ -806,7 +806,7 @@
 *   4.5. iṣ-Aorist
 *   5\. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (เฉพาะ P)
 *   6\. Aorist (⟪लुङ्⟫) 7: sa-Aorist (s-Aorist ที่มีธีม)
-*   7\. แบบฝึกหัด
+*   7\. แบบฝึกหัด <!-- TODO: Fallback translation -->
 
 ## บทที่ 60 (lektion60)
 

@@ -34,7 +34,7 @@ status: stable
 **כלל:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. המחלקה הראשונה של ההווה (⟪भ्वादि⟫)
+### 39.2.1. המחלקה הראשונה של ההווה (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P
 
@@ -110,7 +110,7 @@ status: stable
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫-היווצרות
+### 39.3.1. ⟪अनिट्⟫-היווצרות <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U
 

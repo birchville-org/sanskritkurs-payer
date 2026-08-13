@@ -4,7 +4,7 @@ lesson_id: 33
 status: stable
 ---
 
-# Lektion 33
+# Pamoka 33
 
 ## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
 

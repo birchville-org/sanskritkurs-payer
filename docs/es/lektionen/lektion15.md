@@ -42,7 +42,7 @@ p. ej.
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
 > etc.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ## 15.3. Compuestos determinativos con miembro anterior atributivo / aposicional = Karmadhāraya m. = ⟪कर्मधारय⟫
@@ -71,16 +71,19 @@ Fig.: ⟪लक्ष्मी⟫
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: &lt;!-- TODO: Fallback translation --&gt;
 
 *   si un Karmadhāraya expresa una COMPARACIÓN, entonces aquello con lo que se compara se encuentra en el segundo miembro del compuesto:
 
-⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "un hombre como un león"  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un hombre como un tigre"
+::: indent
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un hombre como un tigre"
+:::
 
 *   expresa un Karmadhāraya una aposición (especificación más detallada del segundo miembro por un sustantivo), entonces el especificador más detallado se encuentra en el primer miembro, como también lo exige la regla general para el orden de los miembros en un Tatpuruṣa:
 
+::: indent
 ⟪नरसिंहः⟫ también puede resolverse: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Un león que (en realidad) es un hombre."
+:::
 
 Tales compuestos appositivos Karmadhāraya se resuelven en los comentarios nativos, como en el ejemplo anterior, mediante ⟪एव⟫.
 
@@ -205,11 +208,11 @@ por ejemplo
 :::
 ## 15.7. Clasificación de ⟪तत्पुरुष⟫
 
-1.  ⟪प्रथमातत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Nominativooo (⟪प्रथमा⟫)
+1.  ⟪प्रथमातत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Nominativooooooo (⟪प्रथमा⟫)
 2.  ⟪द्वितीयातत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Acusativo (⟪द्वितीया⟫)
 3.  ⟪तृतीयातत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Instrumental (⟪तृतीया⟫)
-4.  ⟪चतुर्थीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Dativooo (⟪चतुर्थी⟫)
-5.  ⟪पञ्चमीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Ablativooo (⟪पज्चमी⟫)
+4.  ⟪चतुर्थीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Dativooooooo (⟪चतुर्थी⟫)
+5.  ⟪पञ्चमीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Ablativooooooo (⟪पज्चमी⟫)
 6.  ⟪षष्ठीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Genitivo (⟪षष्ठी⟫)
 7.  ⟪सप्तमीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Locativo (⟪सप्तमी⟫)
 

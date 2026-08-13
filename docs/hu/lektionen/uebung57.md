@@ -12,7 +12,7 @@ last_reconstructed: 2026-05-15
 
 ## A) Aorist-transzformációk
 
-Fordítsa le és határozza meg a következő alakokat, valamint alkossa meg a megfelelő **aorist** formákat. A kausatívok és az **s-aoristot** képező gyökök kivételével a zárójelben meg van adva az adott aorist osztálya:
+Fordítsa le és határozza meg a következő alakokat, valamint alkossa meg a megfelelő **aorist** formákat. A kausatívok és az **s-aoristot** képező gyökök kivételével a zárójelben meg van adva az adott aorist osztálya: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Szám. | Alak | Meghatározás / Jelentés | Aorist |
@@ -48,11 +48,11 @@ Fordítsa le és határozza meg a következő alakokat, valamint alkossa meg a m
 Kép: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung090))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## B) Szóhatározások
 
-Határozza meg és fordítsa le a következő alakokat:
+Határozza meg és fordítsa le a következő alakokat: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Szám. | Alak | Meghatározás / Jelentés |
@@ -99,7 +99,7 @@ Határozza meg és fordítsa le a következő alakokat:
 | ⟪३९⟫. | ⟪अघम्⟫ | :sig[⟪अघ⟫] középnemű: Nominativusz / Akkusztívus / Vokativus Singular (a rossz); Akkusztívus Singular nemű (a gonosz) |
 | ⟪४०⟫. | ⟪अभुक्थाः⟫ | :sig[⟪भुज्⟫] 7U: 2. Singular s-Aorisztum Átménő mód (ettél) |
 | ⟪४१⟫. | ⟪उत्थानाय⟫ | :sig[⟪उत्थान⟫] középnemű: Dativus Singular (a felkelésnek) |
-| ⟪४२⟫. | ⟪अलुम्पत⟫ | :sig[⟪लुप्⟫] 6U: 2. Pluralis Imperfektum Aktiv / 3. Singular Imperfektum Átménő mód |
+| ⟪४२⟫. | ⟪अलुम्पत⟫ | :sig[⟪लुप्⟫] 6U: 2. Pluralis Imperfektum Aktiv / 3. Singular Imperfektum Átménő mód | <!-- TODO: Fallback translation -->
 
 | ⟪४३⟫. | ⟪अलुपत⟫ | :sig[⟪लुप्⟫] 6U: 2. Pl. a-Aor. P. (ti töröttétek) |
 | ⟪४४⟫. | ⟪अलुप्त⟫ | :sig[⟪लुप्⟫] 6U: 3. Sg. s-Aor. Ā. (ő eltört) |
@@ -120,5 +120,5 @@ Határozza meg és fordítsa le a következő alakokat:
 ![](/images/uebung094.webp)
 Kép: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung094))
-:::
+::: <!-- TODO: Fallback translation -->
 

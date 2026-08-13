@@ -21,9 +21,9 @@ status: stable
 :::
 ## 58.2. Tematiikan preteritiluokkien kaksikko: indikatiivin preesens (⟪लट्⟫)
 
-Ennen -vas ja -vahe, teemavokaali -a- korvataan vokaalilla -ā-.
+Ennen -vas ja -vahe, teemavokaali -a- korvataan vokaalilla -ā-. <!-- TODO: Fallback translation -->
 
-### 58.2.1. Ensimmäinen preesensluokka (⟪भ्वादिगणः⟫)
+### 58.2.1. Ensimmäinen preesensluokka (⟪भ्वादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟩ 1P "tulla, olla"
 
@@ -31,9 +31,9 @@ Ennen -vas ja -vahe, teemavokaali -a- korvataan vokaalilla -ā-.
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
 
-### 58.2.2. Neljäs preesensluokka (⟪दिवादिगणः⟫)
+### 58.2.2. Neljäs preesensluokka (⟪दिवादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪नृत्⟫ 4P "tanssia"
 
@@ -49,7 +49,7 @@ Kuva: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5802))
 :::
-### 58.2.3. Kuudes preesensluokka (⟪तुदादिगणः⟫)
+### 58.2.3. Kuudes preesensluokka (⟪तुदादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪तुद्⟫ 6U "työntää, lyödä"
 
@@ -113,7 +113,7 @@ Bandipurin kansallispuisto -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 ## 58.5. duaaliin athemaattiset preesensluokat: indikatiivin preesens (⟪लट्⟫)
 
-### 58.5.1. Toinen preesensluokka (⟪अदादिगणः⟫)
+### 58.5.1. Toinen preesensluokka (⟪अदादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪द्विष्⟫ 2U "vihaata"
 
@@ -184,7 +184,7 @@ Kuva: ⟪कन्ये⟩ ⟪अधीयते⟩
 Kuva: ⟪भगिन्यौ⟩ ⟪स्वः⟩
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5805))
 :::
-### 58.5.2. Kolmas preesensluokka (⟪जुहोत्यादिगणः⟩)
+### 58.5.2. Kolmas preesensluokka (⟪जुहोत्यादिगणः⟩) <!-- TODO: Fallback translation -->
 
 ⟪हु⟩ 3P "kaataa uhrinuoleen"
 
@@ -220,7 +220,7 @@ Kuv: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
 (Kuvälde: [Yksityiskohdat](/fi/licenses#lekt5807))
 :::
-### 58.5.4. Kahdeksas preesensluokka (⟪तनादिगणः⟫)
+### 58.5.4. Kahdeksas preesensluokka (⟪तनादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪तन्⟫ 8U "jännittää"
 
@@ -275,7 +275,7 @@ Kuv: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Kuva: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-aoristi
+## 58.6. Aorist 5: iṣ-aoristi <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **iṣ-aoristi muodostetaan kaikista seet-juurista, joille ei nimenomaisesti opeteta yksinomaan toista aoristimuotoa.**
@@ -304,11 +304,11 @@ Vartalonmuodostuspäätteet + iṣ-aoristin päätteen ovat siis:
 *   **Lyhyen vokaalin sisältävät juuret yksinkertaisen konsonantin edellä: korkea aste P:ssä ja Ā:ssa**
 Esimerkkejä:  
 ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫  
-⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫ <!-- TODO: Fallback translation -->
 
 *   **Päättyvää vokaalia sisältävät juuret:**
     *   **P: Pitkä aste**
-    *   **Ā: Korkea aste**
+    *   **Ā: Korkea aste** <!-- TODO: Fallback translation -->
 
 Esimerkit:  
 ⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
@@ -316,7 +316,7 @@ Esimerkit:
 *   **Juuret, jotka päättyvät -ar., -al sekä ⟪वद्⟫ 1P "sanoa", ⟪व्रज्⟫ 1P "mennä pois": P: Pitkä aste**
 Esimerkit:  
 ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫  
-⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫ <!-- TODO: Fallback translation -->
 
 *   **Muut juuren muodon (Konsonantti-)Vokaali-Konsonantti-juuret: P:ssä valinnainen pitkä aste (ei koske juuria, jotka päättyvät -h, -m, -y sekä joitakin muita juuria)**
 Esimerkki:  
@@ -324,7 +324,7 @@ Esimerkki:
 mutta:  
 ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
 :::
-Paradigmat:
+Paradigmat: <!-- TODO: Fallback translation -->
 
 ⟪पू⟫ 9U "puhdistaa"
 
@@ -363,22 +363,26 @@ Paradigmat:
 ⟪अग्र⟫:sig[⟪ही⟫]⟪षम्⟫ , ⟪अग्र⟫:sig[⟪ही⟫]⟪षि⟫
 
 2.  Juurten, jotka kuuluvat preesensluokkaan -n (tai -ṇ), voivat olla 2. ja 3.sg.Ā syötasoisia:
-⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (juuren aoristi) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (juuren aoristi) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫ <!-- TODO: Fallback translation -->
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4ġ jne. voivat 3.sg. Ā:n sijaan saada passiivin aoristin muodon:
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
 4.  ⟪विज्⟫ 7P ei tunne ablautia:
-    ⟪अविजीत्⟫
+::: indent
+⟪अविजीत्⟫
+:::
 :::
 ::: media
 ![](/images/lekt5808.webp)
 Kuv.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5808))
 :::
-## 58.7. Harjoitus
+## 58.7. Harjoitus <!-- TODO: Fallback translation -->
 
-A) Määritä ja käännä seuraavat muodot ilman apuvälineitä sekä muodosta niille vastaavat i-aoristin muodot:
+A) Määritä ja käännä seuraavat muodot ilman apuvälineitä sekä muodosta niille vastaavat i-aoristin muodot: <!-- TODO: Fallback translation -->
 
 1.  ⟪औहे⟫
 2.  ⟪जाग्रति⟫
@@ -400,7 +404,7 @@ A) Määritä ja käännä seuraavat muodot ilman apuvälineitä sekä muodosta 
 18.  ⟪ऐक्षध्वम्⟫
 19.  ⟪अचेतः⟫
 
-B) Käännä ja määritä seuraavat muodot:
+B) Käännä ja määritä seuraavat muodot: <!-- TODO: Fallback translation -->
 
 1.  ⟪अनेढ्वम्⟫
 2.  ⟪एनयोः⟫
@@ -444,14 +448,14 @@ B) Käännä ja määritä seuraavat muodot:
 
 ::: deleteme-box
 
-**lekt5802:** ⟪ओडिसी⟫ [Kuv lähde: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Haettu 2009-03-02. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimikehitys)]
+**lekt5802:** ⟪ओडिसी⟫ [Kuv lähde: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Haettu 2009-03-02. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimikehitys)] <!-- TODO: Fallback translation -->
 
 **lekt5803:** Bandipurin kansallispuisto -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
-**lekt5806:** [Kuv lähde: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- Haettu 2009-03-02. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimikehitys, ei kaupallista käyttöä, ei muokkauksia)]
+**lekt5806:** [Kuv lähde: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- Haettu 2009-03-02. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimikehitys, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
 
 **lekt5807:** ⟪पुणेनगरे⟫
 
-**lekt5801:** [Kuv lähde: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Pääsy 2009-03-02. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)]
+**lekt5801:** [Kuv lähde: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Pääsy 2009-03-02. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
 
 :::

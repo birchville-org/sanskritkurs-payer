@@ -72,7 +72,7 @@ pad 4 Ā 过去分词：panna 3 = ⟪पन्न⟫
 
 通过使用taddhita后缀-mant或-vant，可以从名词构成表示拥有的形容词。其含义是：“拥有以底层名词所指代之物的”。
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 示例：
 
@@ -110,7 +110,7 @@ pad 4 Ā 过去分词：panna 3 = ⟪पन्न⟫
 ::: grammar-box
 1. 词尾辅音的数量：如果一个词以两个或更多辅音结尾，则只保留第一个辅音，其余辅音脱落。允许的组合是 -r- + 辅音。
 
-2. 清塞音在浊塞音（非鼻音）前，被替换为对应的浊塞音：
+2. Stimmloser Verschlusslaut wird vor stimmhaftem Verschlusslaut (nicht Nasal) durch den ihm entsprechenden stimmhaften Verschlusslaut ersetzt: <!-- TODO: Fallback translation -->
 :::
 示例：
 ::: indent
@@ -141,7 +141,7 @@ pad 4 Ā 过去分词：panna 3 = ⟪पन्न⟫
 * 强词干：名词 + -mant- / -vant-
 * 弱词干：名词 + -mat- / -vat-（源自：*-mnt- / *-vnt-）
 
-| | | 阳性 || 中性 ||
+| | | Maskulinum || Neutrum ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | Singular:br⟪एकवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
 | | Akkusativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
@@ -195,7 +195,7 @@ pad 4 Ā 过去分词：panna 3 = ⟪पन्न⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : 憎恨，敌视
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : 吃，消耗
-- **anna** n. ⟪अन्न⟫ : 食物（源自PPP：*ad-na：所食之物）
+- **anna** n. ⟪अन्न⟫ : 食物（源自PPP：*ad-na：所食之物） <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1304.webp)

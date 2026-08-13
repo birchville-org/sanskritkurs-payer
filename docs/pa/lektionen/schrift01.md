@@ -8,7 +8,7 @@
 ਚਿੱਤਰ: ਸੰਸਕ੍ਰਿਤ ਲਿਪੀ ਦੇ ਨਮੂਨੇ  
 \[ਚਿੱਤਰ ਸਰੋਤ: ਵਿਕੀਪੀਡੀਆ, GNU FD ਲਾਇਸੈਂਸ\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 ਅਨੁਸਾਰੀ ਤੋਂ ਬਾਅਦ ਵੋਕਲ -- "a" ਨੂੰ ਛੱਡ ਕੇ -- ਇਸ ਤਰ੍ਹਾਂ ਲਿਖੇ ਜਾਂਦੇ ਹਨ:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
 
 ਇਨ੍ਹਾਂ ਅਨੁਸਾਰੀ + ਵੋਕਲ ਜੋੜਿਆਂ ਨੂੰ ਲਿਖਣ ਦਾ ਕ੍ਰਮ ਹੈ:
 

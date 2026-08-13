@@ -4,7 +4,7 @@ lesson_id: 35
 status: stable
 ---
 
-# 35. lecke
+# 35. lecke <!-- TODO: Fallback translation -->
 
 ## 35.1. Perfekt III. típus: Erős alap, magas fok/hosszúsági fok
 
@@ -35,7 +35,7 @@ Vokális hangzó végződés előtt helyettesíti:
 *   -i/-ī → -iy
 *   -u/-ū → -uv
 *   -ṛ durch r
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 | Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ Példák:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfektum IIIb típus: Erős tő magas fokú/hosszúsított fok, gyenge tő magas fokú
+### 35.1.2. Perfektum IIIb típus: Erős tő magas fokú/hosszúsított fok, gyenge tő magas fokú <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Alkotás:**
@@ -72,7 +72,7 @@ Példák:
 
 **erős tövű:**
 *   3./1. sg. P Perfekt végződés -au
-*   2\. sg. P : magas fok -ā vagy mély fok -i
+*   2\. sg. P : magas fok -ā vagy mély fok -i <!-- TODO: Fallback translation -->
 
 **gyenge tövű:**
 *   mássalhangzó előtt: mély fok -i
@@ -116,7 +116,7 @@ Képződik többek között az alábbi gyökökből:
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 | Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -127,7 +127,7 @@ Példák:
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfektum Vb-típus: gyenge alap Kontrakció (e-típus)
+### 35.3.2. Perfektum Vb-típus: gyenge alap Kontrakció (e-típus) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Alakítás:**
@@ -142,14 +142,14 @@ Példa:
 
 | Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ | <!-- TODO: Fallback translation -->
 
-### 35.3.3. Perfekt V. típusc: mássalhangzó-a-mássalhangzó gyökök. Gyenge alap erős fok
+### 35.3.3. Perfekt V. típusc: mássalhangzó-a-mássalhangzó gyökök. Gyenge alap erős fok <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Alakítás:**
 
-**gyenge alap:** erős fok
+**gyenge alap:** erős fok <!-- TODO: Fallback translation -->
 
 Minden más gyökből képződik, amelyekben közép -a- van, azaz olyan gyökökből, amelyekben közép -a- található:
 *   amelyek két mássalhangzóval kezdődnek
@@ -159,7 +159,7 @@ Minden más gyökből képződik, amelyekben közép -a- van, azaz olyan gyökö
 
 ha nem a Perfekt Va típusba tartoznak.
 :::
-Példa:
+Példa: <!-- TODO: Fallback translation -->
 
 | Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -169,21 +169,21 @@ Példa:
 
 ⟪नश्⟫ 4P ⟪नश्यति⟫ : elveszni, elpusztulni, eltűnni
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
-**Kaus. ⟪नाशयति⟫** :br
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : eltűnni, elveszni, elpusztulni
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : eltűnni, elveszni, elpusztulni <!-- TODO: Fallback translation -->
 
 ⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : menni, haladni
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
-**Fut. ⟪क्रमिष्यति⟫** :br
-**Pass. ⟪क्रम्यते⟫** :br
-**Kaus. ⟪क्रमयति⟫** :br
-**PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
-**Inf. ⟪क्रमितुम्⟫** :br
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Kaus. ⟪क्रमयति⟫**
+**PPP :sig[⟪क्रा⟫]⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
@@ -194,11 +194,11 @@ People walking, Senegal.
 :::
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): énekelni, éneklő hangon előadni, rímes beszédben hirdetni
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
-**Fut. ⟪गास्यति⟫** :br
-**Pass. ⟪गीयते⟫** :br
-**Kaus. ⟪गापयति⟫** :br
-**PPP ⟪गीत⟫** :br
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Kaus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Inf. ⟪गातुम्⟫**
 
 ebből:
@@ -210,9 +210,9 @@ Kép: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Képmegjelölés: [Részletek](/hu/licenses#lekt3501))
 :::
-## 35.5. Gyakorlat
+## 35.5. Gyakorlat <!-- TODO: Fallback translation -->
 
-A) Alakítsa ki a következő igai formákhoz a megfelelő perfekta formákat:
+A) Alakítsa ki a következő igai formákhoz a megfelelő perfekta formákat: <!-- TODO: Fallback translation -->
 
 1. ⟪गायन्ति⟫
 2. ⟪स्मरन्ति⟫
@@ -286,7 +286,8 @@ C) Alakítsa át a B) gyakorlat mondatait úgy, hogy az perfekta igealakokat imp
 
 **lekt3502:** Emberek sétálnak, Szenegál. [Képmegjelenítés: Curt Carnemark / Világbank. CC BY-NC-ND]
 
-**lekt3503:** Piac Vadaseriben, Tamilnádu. [Képmegjelenítés: kifo / Flickr. CC BY-SA]
+**lekt3503:** Piac Vadaseriben, Tamilnádu. [Képmegjelenítés: kifo / Flickr. CC BY-SA] <!-- TODO: Fallback translation -->
 
 **lekt3504:** Yajña szertartás, Sivá ásram, Ganeshpuri. [Képmegjelenítés: Dey / Flickr. CC BY-NC-SA]
 :::
+ <!-- TODO: Fallback translation -->

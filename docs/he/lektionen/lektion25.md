@@ -5,7 +5,7 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # שיעור 25
 
@@ -33,7 +33,7 @@ status: stable
 | ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
 | ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
 | ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
-| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
+| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) | <!-- TODO: Fallback translation -->
 
 :::
 ## 25.2. שימוש באבלטיב (⟪पञ्चमी⟫)
@@ -482,7 +482,7 @@ PPP ⟪वृद्ध⟫ : גדול, זקן, מרובה
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "שִׁשָּׁה עָשָׂר"
 
-1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "מעשה"
+1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "מעשה" <!-- TODO: Fallback translation -->
 
 1.5.16. ⟪धि⟫ Sandhiform zu ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "בעלות עצמית"
 

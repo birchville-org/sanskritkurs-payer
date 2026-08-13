@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 60
+# Pamoka 60
 
 ## 60.1. Die Perfektendungen des Dual (⟪द्विवचनम्⟫)
 
@@ -359,16 +359,20 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
 **Zur Reduplikation:**
 
 1.  Konsonantisch anlautende Wurzeln: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Wurzeln nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:
-    ⟪पा⟫ » ⟪पिपास⟫-  
-    ⟪त्यज्⟫ » ⟪तित्यज⟫-  
-    ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
-    Die Zerebralisierung nach i/u von auslautendem -s der Wurzel unterbleibt, wenn das s des Desiderativsuffixes zerebralisiert wird:  
-    ⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+::: indent
+⟪पा⟫ » ⟪पिपास⟫-
+⟪त्यज्⟫ » ⟪तित्यज⟫-
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-
+Die Zerebralisierung nach i/u von auslautendem -s der Wurzel unterbleibt, wenn das s des Desiderativsuffixes zerebralisiert wird:
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+:::
 
 2.  Vokalisch anlautende Wurzeln werden nach den entsprechenden Regeln für den reduplizierten Aorist ([Lektion 56](lektion56.md)) redupliziert:
-    ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
-    ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-    ⟪ऋ⟫ » ⟪अरिरिष⟫-
+::: indent
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
+⟪ऋ⟫ » ⟪अरिरिष⟫-
+:::
 
 3.  Die besondere Desiderativbildung bestimmter Wurzeln siehe bei Kielhorn, Grammatik § 451.
 :::

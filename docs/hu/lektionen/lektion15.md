@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 15. lecke
+# 15. lecke <!-- TODO: Fallback translation -->
 
 ## 15.1. ⟪सुभाषितम्⟫
 
@@ -29,9 +29,9 @@ A hattag (meghatározó tag) és a utótag (meghatározott tag) viszonya lehet:
 
 *   attributív vagy appozíciós: a szanszkrit összetétel feloldásakor az előtag egy további meghatározást képez a hátsó tag számára ugyanabban az esetségben (azaz mondaton kívül alanyesetben (nominativus) (⟪प्रथमा⟫), mondaton belül pedig a szintaktikusan kért esetben)
 *   kasuális: az előtag feloldáskor más esetben áll, mint a hátsó tag (azaz nem alanyesetben (nominativus) - ⟪प्रथमा⟫)
-*   adverbális: az előtag egy nem deklinálható szó
+*   adverbális: az előtag egy nem deklinálható szó <!-- TODO: Fallback translation -->
 
-Az összetett tagok mindkét elemének esetviszonya független attól, hogy milyen esetben áll az összetett szó: hisz ez egyetlen deklinálható szó:
+Az összetett tagok mindkét elemének esetviszonya független attól, hogy milyen esetben áll az összetett szó: hisz ez egyetlen deklinálható szó: <!-- TODO: Fallback translation -->
 
 pl.
 
@@ -42,13 +42,13 @@ pl.
 > alanyeset (nominativus)us pluralis ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > stb.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
 ::: grammar-box
 
-Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus.
+Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus. <!-- TODO: Fallback translation -->
 
 :::
 z.B.
@@ -71,16 +71,20 @@ Nom pl. ⟪गुणवत्पुत्राः⟫
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   ha egy Karmadhāraya hasonlóságot fejez ki, akkor az összehasonlítási alany a szóösszetétel hátsó tagjában áll:
 
+::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "egy ember, mint egy oroszlán"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "egy ember, mint egy tigris"
+:::
 
-*   ha azonban egy Karmadhāraya appozíciót (a hátsó tag pontosabb meghatározását egy főnévvel) fejez ki, akkor a pontosabban meghatározó elem az első tagban áll, ahogy azt az általános szabály is előírja a Tatpuruṣa tagjainak sorrendjére:
+*   ha azonban egy Karmadhāraya appozíciót (a hátsó tag pontosabb meghatározását egy főnévvel) fejez ki, akkor a pontosabban meghatározó elem az első tagban áll, ahogy azt az általános szabály is előírja a Tatpuruṣa tagjainak sorrendjére: <!-- TODO: Fallback translation -->
 
+::: indent
 ⟪नरसिंहः⟫ felbontva is értelmezhető: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = „Egy oroszlán, aki (valójában) ember.”
+:::
 
 Az ilyen appozíciós Karmadhāraya összetételeket a helyi kommentárokban, mint a fenti példában is, ⟪एव⟫ segítségével oldják fel.
 
@@ -94,7 +98,7 @@ Az ilyen appozíciós Karmadhāraya összetételeket a helyi kommentárokban, mi
 
 ::: grammar-box
 
-A tatpuruṣa kapcsolatok lehetségesek névszói (főnevek és melléknevek) kapcsolatainál, ahol az első tag a szintaxis szabályainak megfelelően bármelyes esetben állhat. Várhatóan az első tag leggyakrabban birtokos esetet (⟪षष्ठी⟫) fejez ki, mivel ez az eset a főnevek közötti viszony kifejezésére szolgál.
+A tatpuruṣa kapcsolatok lehetségesek névszói (főnevek és melléknevek) kapcsolatainál, ahol az első tag a szintaxis szabályainak megfelelően bármelyes esetben állhat. Várhatóan az első tag leggyakrabban birtokos esetet (⟪षष्ठी⟫) fejez ki, mivel ez az eset a főnevek közötti viszony kifejezésére szolgál. <!-- TODO: Fallback translation -->
 
 :::
 pl.
@@ -102,7 +106,7 @@ pl.
 ⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "egy kṣatriya fia", "fiatal kṣatriya", "a kṣatriyák csoportjának tagja"
 Többes szám ragozás: ⟪क्षत्रियपुत्रम्⟫
 Birtokos eset, egyes szám: ⟪क्षत्रियपुत्रस्य⟫
-stb.
+stb. <!-- TODO: Fallback translation -->
 
 ⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "egy tanár természete"
 
@@ -110,13 +114,13 @@ stb.
 
 ⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "a világ menete, az emberek viselkedése"
 
-Majdnem minden birtokos eset viszony helyettesíthető Tatpuruṣa összetétellel. A kevés kivételért lásd például Kale, A higher Sanskrit grammar § 211, ahol Pāṇini megfelelő helyei is szerepelnek.
+Majdnem minden birtokos eset viszony helyettesíthető Tatpuruṣa összetétellel. A kevés kivételért lásd például Kale, A higher Sanskrit grammar § 211, ahol Pāṇini megfelelő helyei is szerepelnek. <!-- TODO: Fallback translation -->
 
-A Tatpuruṣa első tagja azonban elvileg bármelyik esetet képviselheti. Azonban nem minden szintaktikailag lehetséges esetviszony helyettesíthető Tatpuruṣa összetétellel. A megfelelő szabályokat kétség esetén Kale, A higher Sanskrit grammar § 203 - 217 vagy Pāṇini 2,1,22 - 2,2,22 műveiben találjuk.
+A Tatpuruṣa első tagja azonban elvileg bármelyik esetet képviselheti. Azonban nem minden szintaktikailag lehetséges esetviszony helyettesíthető Tatpuruṣa összetétellel. A megfelelő szabályokat kétség esetén Kale, A higher Sanskrit grammar § 203 - 217 vagy Pāṇini 2,1,22 - 2,2,22 műveiben találjuk. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
-Az összetétel felbontásakor az első tag egyeses, kettős vagy többes számú lehet. A konkrét esetet a jelentés és a kontextus alapján kell megállapítani.
+Az összetétel felbontásakor az első tag egyeses, kettős vagy többes számú lehet. A konkrét esetet a jelentés és a kontextus alapján kell megállapítani. <!-- TODO: Fallback translation -->
 
 :::
 Példák:
@@ -129,14 +133,14 @@ Az első tag az accusativust helyettesíti (⟪द्वितीया⟫): pé
 Az előtag az abszolútivuszt (⟪तृतीया⟫) helyettesíti: pl. gyakran az agensét (⟪कर्तृ⟫) kṛt-utókéval képzett főnevek esetén (pl. PPP):
 
 ⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "egy isten / istenek által alkotott"  
-Felbontható így is: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "egy isten cselekedete / tette; isteni tett, istenek műve"
+Felbontható így is: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "egy isten cselekedete / tette; isteni tett, istenek műve" <!-- TODO: Fallback translation -->
 
-⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "aki Buddha által oltalmazva lett" (egy sajátnév)
+⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "aki Buddha által oltalmazva lett" (egy sajátnév) <!-- TODO: Fallback translation -->
 
 ## 15.5. Összetételek felbontása (Dvandva kivételével)
 
 ::: grammar-box
-Bár a szanszkritban tetszőleges hosszúságú összetett szavak képezhetők, sőt nagyon gyakoriak is (10-30 tagú összetett szavak egyáltalán nem ritkák!), kivéve a dvandva-kapcsolatokat, minden összetett szó fokozatosan hierarchikusan bontható két részre:
+Bár a szanszkritban tetszőleges hosszúságú összetett szavak képezhetők, sőt nagyon gyakoriak is (10-30 tagú összetett szavak egyáltalán nem ritkák!), kivéve a dvandva-kapcsolatokat, minden összetett szó fokozatosan hierarchikusan bontható két részre: <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -144,7 +148,7 @@ Bár a szanszkritban tetszőleges hosszúságú összetett szavak képezhetők, 
 Ábra: ⟪समासविच्छेदः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1502))
 :::
-stb., amíg el nem jutunk az egyes szógyökökig.
+stb., amíg el nem jutunk az egyes szógyökökig. <!-- TODO: Fallback translation -->
 
 pl.
 
@@ -220,9 +224,9 @@ z.B.
     *   ⟪द्विगुसमासः⟫ : számjel az első tagban
 *   ⟪नञ्तत्पुरुषः⟫ (⟪निषेधतत्पुरुषः⟫) : tagadás az első tagban, a- vagy an- előtaggal
 *   ⟪गतिसमासः⟫ : előtagban prepozícióval
-*   ⟪प्रथमातत्पुरुषः⟫ stb. (lásd fent)
+*   ⟪प्रथमातत्पुरुषः⟫ stb. (lásd fent) <!-- TODO: Fallback translation -->
 
-### 15.7.1. A ⟪कर्मधारय⟫ osztályozása
+### 15.7.1. A ⟪कर्मधारय⟫ osztályozása <!-- TODO: Fallback translation -->
 
 1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : az első tag melléknév (⟪विशेषण⟫)
 2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : mindkét tag melléknév, ide tartoznak azok a melléknevek is, amelyek időbeli sorrendet fejeznek ki: „először megfürdött, aztán bekenték”
@@ -233,7 +237,7 @@ z.B.
 7.  ⟪कर्मधारयः⟫ a ⟪कु⟫ / ⟪कद्⟫ első taggal: „rossz...”
 8.  ⟪कर्मधारयः⟫ a ⟪किम्⟫ első taggal: kifogás
 9.  PPP + megtagadott PPP: „részben”, pl. ⟪कृताकृतम्⟫ = „részben megcsinálva”
-10.  ⟪द्विगुसमासः⟫ : számjel az első tagban
+10.  ⟪द्विगुसमासः⟫ : számjel az első tagban <!-- TODO: Fallback translation -->
 
 ## 15.8. Szószedet
 
@@ -267,17 +271,17 @@ z.B.
 Ábr.: ⟪इन्द्रः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1505))
 :::
-⟪दास⟫ m.: szolga, jobbágy, cseléd
+⟪दास⟫ m.: szolga, jobbágy, cseléd <!-- TODO: Fallback translation -->
 
-⟪दासी⟫ f.: szolgaasszony, jobbágyasszony, cselédnő
+⟪दासी⟫ f.: szolgaasszony, jobbágyasszony, cselédnő <!-- TODO: Fallback translation -->
 
 ⟪काल⟫ m.: idő, (megfelelő) pillanat ; sors, halál ; halálgod Kāla
 
 ⟪काल⟫ 3: fekete, kékesfekete, sötét
 
-⟪पुरुष⟫ m.: ember, férfi, szolga
+⟪पुरुष⟫ m.: ember, férfi, szolga <!-- TODO: Fallback translation -->
 
-\-⟪जन⟫ mint a Tatpuruṣa második tagja gyakran a többes szám kifejezője
+\-⟪जन⟫ mint a Tatpuruṣa második tagja gyakran a többes szám kifejezője <!-- TODO: Fallback translation -->
 
 ⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : dicsér, magasztal
 
@@ -302,9 +306,9 @@ Kép: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (utólagosan): olyasvalami, mint (hasonlatokban: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "egy ember, mint egy tigris", "tigriszerű ember"
 
-⟪एव⟫ (utólagosan): hangsúlyozza az előzőt, a németben gyakran a hangsúlynak felel meg, egyfajta érzelmi jelző `\&lt;!\&gt;`, pl. ⟪सत्यमेव⟫ ⟪जयति⟫ "csak az igazság győz", "pontosan az igazság győz", "az igazság győz"
+⟪एव⟫ (utólagosan): hangsúlyozza az előzőt, a németben gyakran a hangsúlynak felel meg, egyfajta érzelmi jelző `\&lt;!\&gt;`, pl. ⟪सत्यमेव⟫ ⟪जयति⟫ "csak az igazság győz", "pontosan az igazság győz", "az igazság győz" <!-- TODO: Fallback translation -->
 
-⟪अरि⟫ m.: ellenség (Thieme szerint, Der Fremdling im Ṛgveda: eredetileg = idegen)
+⟪अरि⟫ m.: ellenség (Thieme szerint, Der Fremdling im Ṛgveda: eredetileg = idegen) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आर्य⟫ 3: ári, nemes; m. ária (a szanszkittal beszélő ókori indiaiak önmegnevezése, szó szerint: vendégszerető (Thieme)); nemes ember, becsületes férfi
@@ -325,9 +329,9 @@ ebből:
 
 ⟪मृत्यु⟫ m.: halál; personifikált: a halál istene
 :::
-## 15.9. Gyakorlat 1
+## 15.9. Gyakorlat 1 <!-- TODO: Fallback translation -->
 
-Oldja fel a következő összetett szavakat (tatpuruṣa) szanszkrit nyelven, és adjon német fordítást. Adja meg az összes lehetséges feloldást és fordítást, amelyeket képesnek talál. Adja meg továbbá, hogy az összetett szó egészében melyik esetre és számra vonatkozik.
+Oldja fel a következő összetett szavakat (tatpuruṣa) szanszkrit nyelven, és adjon német fordítást. Adja meg az összes lehetséges feloldást és fordítást, amelyeket képesnek talál. Adja meg továbbá, hogy az összetett szó egészében melyik esetre és számra vonatkozik. <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪देवेन्द्रस्य⟫
 
@@ -517,11 +521,11 @@ Oldja meg a következő Tatpuruṣa-összetételt, akárcsak az 1. gyakorlatban:
 Ábra: ⟪ग्रामदेवता⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt1508))
 :::
-## 15.11. Gyakorlat 3
+## 15.11. Gyakorlat 3 <!-- TODO: Fallback translation -->
 
 A) Fordítsa le a tanóra elején szereplő mondást
 
-B) Oldja fel az alábbi Tatpuruṣa-t:
+B) Oldja fel az alábbi Tatpuruṣa-t: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪बलकृतः⟫
 

@@ -1,17 +1,17 @@
 ---
 title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+subtitle: "Zweite classa da preschent (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 ---
 
-# Lektion 17
+# Lecziun 17
 
 ## 17.1. Segunda classa dal temp preschent (⟪adādi⟫ = ⟪ad⟫ e.u.v.)
 
-Las desinenzas verbalas s'attachesch directamain a la radis. Qua èn las midadas da son da resguardar, che resulteschan dal Wortsandhi.
+Las desinenzas verbalas s'attachesch directamain a la radis. Qua èn las midadas da son da resguardar, che resulteschan dal sandhi da las paraulas.
 
 ::: grammar-box
 
@@ -31,7 +31,7 @@ Ezempels:
 ⟪द्विष्⟫ 2 U "odiar"
 
 *   starker Stampa da preschent: dveṣ-
-*   schwacher Stampa da preschent: dviṣ-
+*   schwacher Stampa da preschent: dviṣ- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -40,13 +40,13 @@ Ezempels:
 | 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
 | 3\. pl. Präs. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
 | 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
+| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) | <!-- TODO: Fallback translation -->
 
 :::
 Qua quai vala la suandanta regla da sandhi:
 
 ::: grammar-box
-Wortsandhi da -ṣ + t(h)-
+sandhi da las paraulas da -ṣ + t(h)- <!-- TODO: Fallback translation -->
 
 \-ṣ + t(h)- » -ṣṭ(h)-
 :::
@@ -66,7 +66,7 @@ Exemples ulteriurs:
 | 3\. sg. Präs. P | ⟪एति⟫ (e-ti) |
 | 3\. pl. Präs. P | ⟪यन्ति⟫ (y-anti) |
 | 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
-| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
+| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪दुह्⟫ 2 U "mular"
@@ -81,15 +81,15 @@ Exemples ulteriurs:
 | 3\. sg. Präs. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. Präs. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
+| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
 
 :::
-⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
+⟪हन्⟫ 2 P "schlagen, erschlagen, töten" <!-- TODO: Fallback translation -->
 
 *   starker Stampa da preschent: han-
 *   schwacher Stampa da preschent:
     *   vor Konsonant: ha- (« \*hn-)
-    *   vor Vokal: ghn-/han-
+    *   vor Vokal: ghn-/han- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -98,20 +98,20 @@ Exemples ulteriurs:
 | 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) |
 | 3\. pl. Präs. P | ⟪घ्नन्ति⟫ (ghn-anti) |
 | 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
+| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪अस्⟫ 2 P "esser"
 
 *   fortstärker Stampa da preschent: as-
-*   schwacher Stampa da preschent: s-
+*   schwacher Stampa da preschent: s- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
-| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
+| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.3. Radisch da la segunda classa da prezens cun declinaziun dal stemma: nivel da lungida – nivel bass
@@ -123,7 +123,7 @@ Esempel:
 *   starker Stampa da preschent: stau-
 *   schwacher Stampa da preschent:
     *   vor Konsonant: stu-
-    *   vor Vokal: stuv-
+    *   vor Vokal: stuv- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -132,7 +132,7 @@ Esempel:
 | 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
 | 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
-| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
+| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.4. Radixs da la segunda classa da presentis senza declinaziun dal stem
@@ -149,7 +149,7 @@ Esempio:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
+| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) | <!-- TODO: Fallback translation -->
 
 :::
 Anch auter radis da la segunda classa n'han nagina declinaziun dal stem:
@@ -163,7 +163,7 @@ Ezempels:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
+| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪आस्⟫ 2 Ā "seder"
@@ -173,7 +173,7 @@ Ezempels:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
+| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪वच्⟫ 2 P "dir"
@@ -183,7 +183,7 @@ Ezempels:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | kommt nicht vor |
+| 3\. pl. Präs. P | kommt nicht vor | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.5. Radis bilsilbics cun -i/-ī cun fluctuaziun dal stem
@@ -197,14 +197,14 @@ Ezempels:
 *   starker Stampa da preschent: rodi-
 *   schwacher Stampa da preschent:
     *   vor Konsonant: rudi-
-    *   vor Vokal: rud-
+    *   vor Vokal: rud- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
+| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪ब्रू⟫ 2 U "dir"
@@ -212,7 +212,7 @@ Ezempels:
 *   starker Stampa da preschent: bravī- (« bro- + -ī)
 *   schwacher Stampa da preschent:
     *   vor Konsonant: brū-
-    *   vor Vokal: bruv-
+    *   vor Vokal: bruv- <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -230,7 +230,7 @@ Aunch ⟪स्तु⟫ 2 U "preisan" ha cunzè las sut 3. inditgadas formas su
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.6. Glista da pleds

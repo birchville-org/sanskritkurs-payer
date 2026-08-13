@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 49
 
@@ -173,7 +173,7 @@ Substantivos em -is e -us são relativamente raros.
 Fig.: ⟪नमस्ते⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4907))
 :::
-## 49.4. Lista de palavras
+## 49.4. Lista de palavras <!-- TODO: Fallback translation -->
 
 ⟪दीर्घ⟫ 3: longo
 
@@ -231,7 +231,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Fig.: ⟪कुलूहलम्⟫
 (Fonte da imagem: [Details](/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: inteiro, completo
+⟪कृत्स्न⟫ 3: inteiro, completo <!-- TODO: Fallback translation -->
 
 ⟪परिचय⟫ m.: conhecimento, familiaridade
 
@@ -274,7 +274,7 @@ Adivinho com papagaio numa gaiola: o papagaio tira pequenos bilhetes, nos quais 
 :::
 ⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: o nível mais baixo dos [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: mesmo, por si mesmo
+⟪स्वयम्⟫ Indekl.: mesmo, por si mesmo <!-- TODO: Fallback translation -->
 
 ⟪अवनि⟫ f.: Terra
 
@@ -299,7 +299,7 @@ Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fonte da imagem: [Detalhes](/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
 
 ⟪परम⟫ 3: o mais distante, o mais alto ; ⟪पञ्चम्या⟫ : melhor que, mais alto que
 

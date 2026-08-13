@@ -5,11 +5,11 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 2
 
-## 2.1. Propoziția nominală
+## 2.1. Propoziția nominală <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Schema: Nume predicativ - Subiect**
@@ -99,11 +99,11 @@ Sunetul final **-s**:
       - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
       - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
     - înaintea altor vocale: devine **-a** (hiat)
-      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
+      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫ <!-- TODO: Fallback translation -->
 
 ## 2.5. Listă de cuvinte
 
-**deva** m. -- ⟪देव⟫ : Cerească, zeu; prinț, rege.
+**deva** m. -- ⟪देव⟫ : Cerească, zeu; prinț, rege. <!-- TODO: Fallback translation -->
 
 **īśvara** m. -- ⟪ईश्वर⟫ : Stăpân, conducător, zeu (monoteist).
 
@@ -182,7 +182,7 @@ Orice societate castală este convențională, ordonată prin reguli de conduit�
 
 [**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-Varṇas sunt, în consecință, caste de naștere.
+Varṇas sunt, în consecință, caste de naștere. <!-- TODO: Fallback translation -->
 
 **kavi** m. -- ⟪कवि⟫: poet.
 
@@ -208,7 +208,7 @@ Fig.: Sādhu (⟪साधु⟫), Templul Pashupatinath, Kathmandu.
 
 ## 2.6. Exercițiu
 
-**A) Introduceți ținând cont de Sandhi și formați propoziții nominale:**
+**A) Introduceți ținând cont de Sandhi și formați propoziții nominale:** <!-- TODO: Fallback translation -->
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
    = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)

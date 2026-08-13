@@ -5,7 +5,7 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
----
+--- <!-- TODO: Fallback translation -->
 
 # Luento 2
 
@@ -18,13 +18,13 @@ esim. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Vi�
 :::
 Verbi "olla" ("on", "ovat", "olen", "olet", "olette") ei ole tarpeen, mutta se voi joskus esiintyä.
 
-**Artikkeleita ei ole**: **devaḥ** -- ⟪देवः⟫ voi tarkoittaa "jumala" tai "joku jumala".
+**Artikkeleita ei ole**: **devaḥ** -- ⟪देवः⟫ voi tarkoittaa "jumala" tai "joku jumala". <!-- TODO: Fallback translation -->
 
 Vaikka sanskritissa lauserakenne on melko vapaa (erityisesti runoudessa), nominalilauseen kääntämisessä on aina ensisijaisesti harkittava yllä olevan standardikaavan mukaista käännöstä.
 
-Nominalilauseessa subjektia ilmaiseva substantiivi on nominatiivissa (ensimmäinen sijamuoto = **prathamā** f. = ⟪प्रथमा⟫). Predikaattisubstantiivi sopii subjektin kanssa luvussa ja sijamuodossa; jos predikaattisubstantiivi on adjektiivi, myös sukuna.
+Nominalilauseessa subjektia ilmaiseva substantiivi on nominatiivissa (ensimmäinen sijamuoto = **prathamā** f. = ⟪प्रथमा⟫). Predikaattisubstantiivi sopii subjektin kanssa luvussa ja sijamuodossa; jos predikaattisubstantiivi on adjektiivi, myös sukuna. <!-- TODO: Fallback translation -->
 
-## 2.2. Nomien taivutus (Deklinaatio)
+## 2.2. Nomien taivutus (Deklinaatio) <!-- TODO: Fallback translation -->
 
 Sanskritissa on:
 
@@ -38,16 +38,16 @@ Sanskritissa on:
   - neutri (epämääräinen) = **napuṃsaka** n. -- ⟪नपुंसक⟫
 - **kahdeksan sijamuotoa** (kasus) = **sup** -- ⟪सुप्⟫ (= kasuspäätteet)
 
-Deklinaatioon liittyvät kasuspäätteet (**sup** = ⟪सुप्⟫) liitetään ns. **nominalivartalon** (kasuspäätteettömän substantiivin muotoon).
+Deklinaatioon liittyvät kasuspäätteet (**sup** = ⟪सुप्⟫) liitetään ns. **nominalivartalon** (kasuspäätteettömän substantiivin muotoon). <!-- TODO: Fallback translation -->
 
 Esimerkki: **devas** = ⟪देवस्⟫ (nominatiivin yksikkö maskuliini) "jumala / yksi jumala" = **deva-** -- ⟪देव⟫- (nominaalivarsi) + **-s** -- -⟪स्⟫ (kasusloppu).
 
 Sanskrit-sanakirjoissa substantiivit on lueteltu **nominaalivarressa**:
 - **deva** m. -- ⟪देव⟫ m. (maskuliini)
 - **vacana** n. -- ⟪वचन⟫ n. (neutri)
-- **vyakti** f. -- ⟪व्यक्ति⟫ f. (feminini)
+- **vyakti** f. -- ⟪व्यक्ति⟫ f. (feminini) <!-- TODO: Fallback translation -->
 
-## 2.3. Nominatiivin yksikkö
+## 2.3. Nominatiivin yksikkö <!-- TODO: Fallback translation -->
 
 **Nominatiivi yksikkö = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
@@ -72,7 +72,7 @@ Sanskritissa sanan loppuääneen määräytyy myös seuraavan sanan alkuäänne.
 
 Katso myös yhteenveto:
 
-> **Payer, Alois (1944–):** Lopun -s:n sandhi. -- (Materiaaleja sanskritiin). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Lopun -s:n sandhi. -- (Materiaaleja sanskritiin). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm <!-- TODO: Fallback translation -->
 
 Lopullinen **-s**:
 
@@ -109,14 +109,14 @@ Lopullinen **-s**:
 
 **brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : brahmani (pappissääty).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (ruhten ja sotilasluokka).
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (ruhten ja sotilasluokka). <!-- TODO: Fallback translation -->
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (viljelijät ja kauppiaat).
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (viljelijät ja kauppiaat). <!-- TODO: Fallback translation -->
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (palvelusluokka).
 
 ::: note-box Die vier Stände (varna)
-Klassisen teorian (esim. Manusmṛti I, 88-91) mukaan tehtävät on jaettu:
+Klassisen teorian (esim. Manusmṛti I, 88-91) mukaan tehtävät on jaettu: <!-- TODO: Fallback translation -->
 
 - **brahmanien**
   - vedainto
@@ -146,7 +146,7 @@ Klassisen teorian (esim. Manusmṛti I, 88-91) mukaan tehtävät on jaettu:
 
 **varṇa** m. -- ⟪वर्ण⟫ : Väri, syntymäkastin asema (pyrkimys).
 
-Neljää kastia (**varṇa** m.) sekoitetaan usein eri yhteiskuntaluokkiin. Neljä kastia ovat kuitenkin -- toisin kuin eri yhteiskuntaluokat -- ei nimenomaan intialainen ilmiö; Euroopassakin oli (osittain ensimmäiseen maailmansotaan asti) yhteiskuntaluokkajärjestelmä, kuten seuraava 1400-luvun lopulla tehty kuvitus vahvistaa:
+Neljää kastia (**varṇa** m.) sekoitetaan usein eri yhteiskuntaluokkiin. Neljä kastia ovat kuitenkin -- toisin kuin eri yhteiskuntaluokat -- ei nimenomaan intialainen ilmiö; Euroopassakin oli (osittain ensimmäiseen maailmansotaan asti) yhteiskuntaluokkajärjestelmä, kuten seuraava 1400-luvun lopulla tehty kuvitus vahvistaa: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0201.webp)
@@ -158,31 +158,31 @@ Kuva: Eurooppalaisen keskiajan yhteiskuntaluokkien jako (puukaiverrus 1400-luvun
 - **Aateliskasti** (~kṣatriya): Tu protege = Suojele!
 - **Maalaiskasti** (~vaiśya/śūdra): Tuque labora = Ja työskentele!
 
-Kolme säätyä kantavat kunkin säädyllisen asun. Niiden yläpuolella – joita siten kutsutaan jumalallisesti määrätyiksi – istuu Kristus.
+Kolme säätyä kantavat kunkin säädyllisen asun. Niiden yläpuolella – joita siten kutsutaan jumalallisesti määrätyiksi – istuu Kristus. <!-- TODO: Fallback translation -->
 
-Max Weber (1864–1920) määrittelee säädyn näin:
+Max Weber (1864–1920) määrittelee säädyn näin: <!-- TODO: Fallback translation -->
 
 ::: note-box
 »**Sääty**« tarkoittaa suurta ihmisjoukkoa, joka toimii yhteisön sisällä
 a) säätykohtaista erityisarvostusta, – mahdollisesti myös
-b) säätykohtaisia erityismonopooleja.
+b) säätykohtaisia erityismonopooleja. <!-- TODO: Fallback translation -->
 
 Säädyt voivat syntyä
 a) ensisijaisesti oman säätykohtaisen elämäntavan kautta, erityisesti **ammatin** (**elämäntapa- tai ammattisäädyt**),
 b) toissijaisesti, perinnöllisen karisman kautta, menestyksekkäiden kunnioitusvaatimusten nojalla säätykohtaisen **syntyperän** (**syntyperäsäädyt**),
-c) säätykohtaisen **omistautumisen** kautta poliittisiin tai hierokraattisiin herruusvaltoihin monopooleina (**poliittiset tai hierokraattiset säädyt**).
+c) säätykohtaisen **omistautumisen** kautta poliittisiin tai hierokraattisiin herruusvaltoihin monopooleina (**poliittiset tai hierokraattiset säädyt**). <!-- TODO: Fallback translation -->
 
-Syntyperusteinen kehitys on säännöllisesti muoto (perinnöllisistä) etuoikeuksista yhdistykselle tai kvalifioiduille yksilöille tapahtuvasta approprioinnista. Jokaista kiinteää mahdollisuuksien, erityisesti [herruusvaltojen tai ansainta]mahdollisuuksien appropriointia, pyrkii johtamaan säätyjen muodostumiseen. Jokaista säätyjen muodostumista pyrkii johtamaan monopolistiseen appropriointiin herruusvalloista ja ansaintamahdollisuuksista.
+Syntyperusteinen kehitys on säännöllisesti muoto (perinnöllisistä) etuoikeuksista yhdistykselle tai kvalifioiduille yksilöille tapahtuvasta approprioinnista. Jokaista kiinteää mahdollisuuksien, erityisesti [herruusvaltojen tai ansainta]mahdollisuuksien appropriointia, pyrkii johtamaan säätyjen muodostumiseen. Jokaista säätyjen muodostumista pyrkii johtamaan monopolistiseen appropriointiin herruusvalloista ja ansaintamahdollisuuksista. <!-- TODO: Fallback translation -->
 
-Kun ansioluokat kasvavat markkinatalouden pohjalla, säädyt syntyvät ja säilyvät mieluiten monopolistisen liturgisen tai feodaalisen tai säätyperustaisen patriotaalisen yhteisöjen tarpeiden tyydyttämisen pohjalla.
+Kun ansioluokat kasvavat markkinatalouden pohjalla, säädyt syntyvät ja säilyvät mieluiten monopolistisen liturgisen tai feodaalisen tai säätyperustaisen patriotaalisen yhteisöjen tarpeiden tyydyttämisen pohjalla. <!-- TODO: Fallback translation -->
 
-»**Säätyinen**« yhteisön tulee tarkoittaa, jos sosiaalinen erottelu tapahtuu mieluiten säätyjen mukaan, »**luokkainen**«, jos se tapahtuu mielysten luokkien mukaan. »Säätyyn« kuuluu lähimpänä »luokista« on »sosiaalinen« luokka, kauimpana on »ansaintaluokka«. Säädyt muodostuvat usein omistusluokkien kautta.
+»**Säätyinen**« yhteisön tulee tarkoittaa, jos sosiaalinen erottelu tapahtuu mieluiten säätyjen mukaan, »**luokkainen**«, jos se tapahtuu mielysten luokkien mukaan. »Säätyyn« kuuluu lähimpänä »luokista« on »sosiaalinen« luokka, kauimpana on »ansaintaluokka«. Säädyt muodostuvat usein omistusluokkien kautta. <!-- TODO: Fallback translation -->
 
-Jokaista säätyistä yhteisöä on konventionaalinen, elämäntapojen säännöillä järjestetty, luo siksi taloudellisesti irracionaalisen kulutusolosuhteet ja estää tällä tavalla monopolististen appropriointien kautta ja oman ansaintakyvyn vapaan käytön estämisen kautta vapaan markkinoiden muodostumisen.
+Jokaista säätyistä yhteisöä on konventionaalinen, elämäntapojen säännöillä järjestetty, luo siksi taloudellisesti irracionaalisen kulutusolosuhteet ja estää tällä tavalla monopolististen appropriointien kautta ja oman ansaintakyvyn vapaan käytön estämisen kautta vapaan markkinoiden muodostumisen. <!-- TODO: Fallback translation -->
 
 [**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-Varṇat ovat siten syntyperäisiä yhteiskuntaluokkia.
+Varṇat ovat siten syntyperäisiä yhteiskuntaluokkia. <!-- TODO: Fallback translation -->
 
 **kavi** m. -- ⟪कवि⟫ : runoilija.
 
@@ -193,7 +193,7 @@ Varṇat ovat siten syntyperäisiä yhteiskuntaluokkia.
 Kuv.: Jumala Agni, miniatyyri, 1700-luku.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0203))
 :::
-**sādhu** 3 -- ⟪साधु⟫ : oikein, hyvä.
+**sādhu** 3 -- ⟪साधु⟫ : oikein, hyvä. <!-- TODO: Fallback translation -->
 
 **sādhu** m. -- ⟪साधु⟫ : "pyhä" mies, Sādhu.
 
@@ -202,9 +202,9 @@ Kuv.: Jumala Agni, miniatyyri, 1700-luku.
 Kuva: Sādhu (⟪साधु⟫), Pashupatinathin temppeli, Kathmandu.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt0202))
 :::
-**guru** 3 -- ⟪गुरु⟫ : raskas, merkittävä, kunnioitettava
+**guru** 3 -- ⟪गुरु⟫ : raskas, merkittävä, kunnioitettava <!-- TODO: Fallback translation -->
 
-**guru** m. -- ⟪गुरु⟫ : kunnioitettava henkilö: isä, äiti, vanhempi sukulainen, erityisesti opettaja, mestari
+**guru** m. -- ⟪गुरु⟫ : kunnioitettava henkilö: isä, äiti, vanhempi sukulainen, erityisesti opettaja, mestari <!-- TODO: Fallback translation -->
 
 ## 2.6. Harjoitus
 

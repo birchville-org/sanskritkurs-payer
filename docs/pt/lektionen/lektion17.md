@@ -5,7 +5,7 @@ lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 17
 
@@ -81,7 +81,7 @@ Outros exemplos:
 | 3ª sg. Pres. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3ª pl. Pres. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3ª sg. Pres. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3ª pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) |
+| 3ª pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪हन्⟫ 2 P "golpear, matar, assassinar"
@@ -173,7 +173,7 @@ Exemplos:
 | | |
 | :--- | :--- |
 | 3ª sg. Pres. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3ª pl. Pres. Ā | ⟪आसते⟫ (ās-ate) |
+| 3ª pl. Pres. Ā | ⟪आसते⟫ (ās-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪वच्⟫ 2 P "dizer"
@@ -230,7 +230,7 @@ Também ⟪स्तु⟫ 2 U "louvar" tem, além das formas indicadas em 3., f
 
 | | |
 | :--- | :--- |
-| 3ª p. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
+| 3ª p. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.6. Vocabulário
@@ -249,7 +249,7 @@ Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte da imagem: [Detalhes](/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sentar-se
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sentar-se <!-- TODO: Fallback translation -->
 
 daí:
 
@@ -262,7 +262,7 @@ daí:
 Fig.: ⟪योगासनम्⟫
 (Fonte da imagem: [Details](/licenses#lekt1701))
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : chorar, lamentar
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : chorar, lamentar <!-- TODO: Fallback translation -->
 
 Derivado:
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 42
+# Les 42
 
 ## 42.1. Stämme auf -ṛ
 

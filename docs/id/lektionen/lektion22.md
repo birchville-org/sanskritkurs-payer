@@ -1,274 +1,255 @@
 ---
-title: Lektion 22
-subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: "Pelajaran 22"
+subtitle: "Absolutif (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 22
 
-## 22.1. Absolutif (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. Absolutif (⟪क्त्वा । ल्यप्⟫)
 
 ::: grammar-box
 
-Jika seseorang ingin menyatakan dalam bahasa Sanskerta bahwa suatu tindakan dari pelaku (⟪कर्तृ⟩) mendahului atau menyertai tindakan lain dari pelaku tersebut sebagai kondisi kontekstual, maka digunakan bentuk absolutif (⟪क्त्वा⟩ ⟪।⟩ ⟪ल्यप्⟩). Dengan demikian
+Jika dalam bahasa Sanskerta ingin dinyatakan bahwa suatu tindakan dari Agen (⟪कर्तृ⟫) mendahului atau menyertai tindakan lain dari Agen sebagai keadaan pengiring, maka digunakan Absolutif (⟪क्त्वा । ल्यप्⟫). Jadi
 
-"setelah ia melakukan itu, ia melakukan hal lain tersebut"; "ia melakukan itu, kemudian ia melakukan hal lain tersebut"; "akibat dari ini ia melakukan hal lain tersebut"; "aku datang, melihat, dan menaklukkan" serta sejenisnya.
+"setelah ia melakukan itu, ia melakukan ini"; "ia melakukan yang pertama, kemudian ia melakukan yang kedua"; "akibat dari hal itu ia melakukan ini"; "aku datang, melihat dan menang" serta sejenisnya
 
-Bentuk absolutif adalah kata keterangan verbal, yaitu, ia tidak dapat dikonjugasikan maupun dideklinasi, tetapi selalu memiliki — dengan sedikit pengecualian — pelaku yang sama (⟪कर्तृ⟩) dengan tindakan yang mendahului atau menyertai tindakan yang dimaksudkan oleh bentuk absolutif. Pelaku dari bentuk absolutif berada dalam kasus nominatif (⟪प्रथमा⟩) atau instrumental (⟪तृतीया⟩).
+Absolutif adalah verba-adverbia, artinya tidak dapat dikonjugasikan maupun dideklinasi, namun selalu memiliki - dengan sedikit pengecualian - Agen (⟪कर्तृ⟫) yang sama dengan tindakan yang didahului atau disertainya oleh Absolutif. Jadi Agen dari Absolutif berada dalam Nominatif (⟪प्रथमा⟫) atau Instrumentalis (⟪तृतीया⟫).
 
-Selain majemuk, bentuk absolutif adalah salah satu sarana ekspresi yang paling sering digunakan dalam bahasa Sanskerta.
+Selain Komposita, Absolutif adalah salah satu alat ekspresi yang paling umum dalam bahasa Sanskerta.
 
-In translating into German, one should avoid constantly saying "after." Instead, one should use the common German expressions for temporal sequence.
+Dalam terjemahan ke bahasa Jerman, hindari terus-menerus mengatakan "setelah". Gunakan alih-alih ungkapan-ungkapan yang lazim dalam bahasa Jerman untuk pengurutan temporal.
 
-**Schema:**
+**Skema:**
 
-(determining specification of the absolutive: adverbial modifier, object, etc.) - absolutive - absolutive - ... - absolutive - ... agent + verbal sentence (in active or passive)
+(penentuan lebih lanjut mengenai Absolutif: keterangan keadaan, objek dan seterusnya) - Absolutif - Absolutif - ... - Absolutif - ... Agen + klausa verbal (dalam bentuk Aktif atau Pasif)
 
 :::
-**Examples:**
+**Contoh:**
 
 ::: indent
-**⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति** = konstruksi pasif: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते**
-"Pria itu memasuki rumah, melihat gadis kecil itu, dan menyapanya."
+**⟪गृहं प्रविश्य बालां दृष्ट्वा नरो वदति⟫** = konstruksi Pasif: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते⟫**  
+"Pria itu memasuki rumah, melihat gadis kecil tersebut dan menyapanya."
 
-Jamak: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
+Plural: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।⟫**
 :::
-## 22.2. Pembentukan  Absolutifs
+## 22.2. Pembentukan Absolutif
 
 ::: grammar-box
-**Formation of the Absolutive**
+**Pembentukan Absolutif**
 
-*   Verba tanpa awalan: Absolutif dalam **-tvā**
-*   Verba dengan awalan: Absolutif dalam **-ya** atau **-tya**
+*   Kata kerja tanpa prefiks: Absolutif berakhiran **-tvā**
+*   Kata kerja dengan prefiks: Absolutif berakhiran **-ya** atau **-tya**
 :::
-### 22.2.1. Verba tanpa praverba: Absolutif pada -⟪त्वा⟫
+### 22.2.1. Kata kerja tanpa prefiks: Absolutif berakhiran -⟪त्वा⟫
 
 ::: grammar-box
 
-**Formation:**
+**Pembentukan:**
 
-(sebagian besar) akar kata dalam tingkatan terendah dalam bentuk yang dimilikinya sebelum PPP + **-tvā** (**-⟪त्वा⟫**)
+(biasanya) akar tingkat rendah dalam bentuk yang dimilikinya sebelum PPP + **-tvā** (**-⟪त्वा⟫**)
 
-Hanya negatif **a-** / **an-** yang kompatibel dengan akhiran **-⟪त्वा⟫** : **⟪अकृत्वा⟫"tanpa telah melakukan"**
+Hanya **a-** / **an-** yang negatif dapat digabungkan dengan sufiks **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "tanpa telah melakukan"
 
 :::
-**Examples:**
+**Contoh:**
 
 ::: indent
-**⟪आप्त्वा⟫** "after he / she / it / I / you / we / they / we two / you two / they two has / had reached"
+⟪आप्त्वा⟫ "setelah ia / dia / itu / saya / kamu / kami / mereka / kita berdua / kalian berdua / mereka berdua telah mencapai"
 
-**⟪आसित्वा⟫** "after he (...) has / had sat"
+⟪आसित्वा⟫ "setelah ia (...) telah duduk / sedang duduk"
 
-**⟪इत्वा⟫** "after he (...) has / had gone"
+⟪इत्वा⟫ "setelah ia (...) telah berjalan / sedang berjalan"
 
-**⟪स्थित्वा⟫** "after he (...) has / had stood"
+⟪स्थित्वा⟫ "setelah ia (...) telah berdiri / sedang berdiri"
 
-**⟪जित्वा⟫** "after he (...) has / had won"
+⟪जित्वा⟫ "setelah ia (...) telah menang"
 
-**⟪उक्त्वा⟫** "setelah ia (...) telah berbicara"
+⟪उक्त्वा⟫ "setelah ia (...) telah berbicara"
 :::
-### 22.2.2. Verba dengan Preverb
+### 22.2.2. Kata kerja dengan prefiks
 
-#### 22.2.2.1. Akarn auf langen Vokal (ausser -ā) oder auf Konsonant
+#### 22.2.2.1. Akar berakhiran vokal panjang (kecuali -ā) atau konsonan
 
 ::: grammar-box
 
-**(mostly) low-grade root + -ya**
+**(biasanya) akar tingkat rendah + -ya**
 
 :::
-**Examples:**
+**Contoh:**
 
 ::: indent
-**⟪उपनीय⟫** "after he (...) has led forward / had led forward"
+⟪उपनीय⟫ "setelah ia (...) telah membawa ke sini"
 
-**⟪प्रभूय⟫** "after he (...) has protruded / was protruding" "after he (...) had power"
+⟪प्रभूय⟫ "setelah ia (...) telah menonjol keluar" "setelah ia (...) memiliki kekuatan"
 
-**⟪प्राप्य⟫** "after he (...) has obtained / had obtained"
+⟪प्राप्य⟫ "setelah ia (...) telah memperoleh"
 :::
-#### 22.2.2.2. Akarn auf -ā
+#### 22.2.2.2. Akar berakhiran -ā
 
 ::: grammar-box
 
-**unmodified high-grade root + -ya**
+**akar tingkat tinggi tidak berubah + -ya**
 
 :::
-**Example:**
+**Contoh:**
 
 ::: indent
-**⟪उपस्थाय⟫** "setelah ia (...) telah melangkah maju / sudah melangkah maju" ; (tetapi tanpa preverbium: **⟪स्थित्वा⟫**)
+⟪उपस्थाय⟫ "setelah ia (...) telah melangkah ke arah" ; (tetapi tanpa prefiks: ⟪स्थित्वा⟫)
 :::
-#### 22.2.2.3. Akar-akar yang dalam tingkat reduksi berakhiran -i, -u, -ṛ pendek
+#### 22.2.2.3. Akar yang dalam tingkat rendah berakhiran -i, -u, -ṛ pendek
 
 ::: grammar-box
 
-**low-grade root + -tya**
+**akar tingkat rendah + -tya**
 
 :::
-**Examples:**
+**Contoh:**
 
 ::: indent
-**⟪प्रस्तुत्य⟫** "after he (...) has loudly praised / had loudly praised"
+⟪प्रस्तुत्य⟫ "setelah ia (...) telah memuji dengan lantang / pernah memuji"
 
-**⟪विस्मृत्य⟫** "after he (...) has forgotten / had forgotten"
+⟪विस्मृत्य⟫ "setelah ia (...) telah lupa / pernah lupa"
 
-**⟪संस्कृत्य⟫** "setelah ia (...) telah mempersiapkan korban / telah menyiapkan korban"
+⟪संस्कृत्य⟫ "setelah ia (...) telah mempersiapkan untuk korban / pernah mempersiapkan"
 :::
-#### 22.2.2.4. Akar-akar berakhiran -am / -an yang berakhiran -a pada tingkat lemah
+#### 22.2.2.4. Akar yang berakhiran -am / -an, yang pada tingkat rendah berakhir dengan -a
 
 ::: grammar-box
 
-**Optional:**
+**Opsional:**
 
-Root ending in **-am** / **-an** + **-ya**
+Akar berakhiran **-am** / **-an** + **-ya**
 
-or:
+atau:
 
-Root ending in **-a** + **-tya**
+Akar berakhiran **-a** + **-tya**
 
 :::
-**Example:**
+**Contoh:**
 
 ::: indent
-**⟪विगम्य⟫** or **⟪विगत्य⟫** "after he (...) has passed / was passing"
+⟪विगम्य⟫ atau ⟪विगत्य⟫ "setelah ia (...) telah berlalu / pernah berlalu"
 :::
 ## 22.3. Daftar Kata
 
-**⟪काम⟫ m.:** wish, desire; desired gift, sensual pleasure, love, god of love
+**⟪काम⟫ m.:** keinginan, hasrat; hadiah yang diinginkan, kenikmatan indra, cinta, dewa asmara
 
 ::: indent
-**⟪कामम्⟫** Acc. secara adverbia: sesuai keinginan, sesuai dengan kehendak hati
+⟪कामम्⟫ Akk. adverbia: sesuai keinginan, sepuasnya
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Gbr.: ⟪कामदेवः⟫
+Ilustr.: ⟪कामदेवः⟫
 Abad ke-19
-Gbr.: ⟪कामदेवः⟫
-Abad ke-19
-(Sumber gambar: [Rincian](/id/licenses#lekt2202))
+(Sumber gambar: [Detail](/id/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** dapat, mampu
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** mampu, dapat
 
-from this:
+dari itu:
 
 ::: indent
-**⟪शक्ति⟫ f.:** ability, power, capability, strength; also: divine power, personified as a female companion especially of **⟪शिव⟫**
+**⟪शक्ति⟫ f.:** kemampuan, kekuatan, kapasitas; juga: kekuatan ilahi, dipersonifikasikan sebagai pendamping perempuan khususnya dari ⟪शिव⟫
 
-**⟪शक्र⟫ m.:** yang kuat (epitet dari **⟪इन्द्र⟫**)
+**⟪शक्र⟫ m.:** Yang Kuat (epitet dari ⟪इन्द्र⟫)
 :::
 ::: media
 ![](/images/lekt2203.webp)
-Fig.: ⟪दुर्गाशक्तिः⟫
+Ilustr.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
-(Sumber gambar: [Detail](/en/licenses#lekt2203))
+(Sumber gambar: [Detail](/id/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** pantas (layak akan sesuatu), diperbolehkan, berkewajiban, harus (dalam orang kedua, **⟪अर्ह्⟫** + infinitif sering digunakan sebagai perintah ringan: "Kau harus")
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** layak (menjadi pantas akan sesuatu), boleh, berkewajiban untuk, harus (dalam orang kedua, ⟪अर्ह्⟫ + infinitif sering digunakan sebagai perintah halus: "Kau seharusnya")
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Pres. Part. P: seorang yang layak. Dalam Buddhisme dan Jainisme: seseorang yang telah mencapai pembebasan akhir
+**⟪अर्हन्त्⟫ 3** Part. Präs. P: seseorang yang layak. Dalam Buddhisme dan Jainisme: seseorang yang telah mencapai pembebasan akhir
 :::
-**⟪व्रत⟫ n.:** sumpah, kewajiban agama, pengamalan keagamaan (seseorang berjanji kepada dewa untuk menerima sesuatu darinya. Contoh: seorang ibu berjanji akan memberikan putrinya sebagai pelacur kuil (**⟪देवदासी⟫**) jika putrinya sembuh. **⟪व्रत⟫** penting saat ini: berpuasa; menjauhi makanan yang disukai; pantangan seksual; membaca teks suci; melakukan ritual tertentu; memberi makan Brahmin, dll. Singkat tentang **⟪व्रत⟫**: Walker, Hindu World Vol. II, hlm. 581f. Secara rinci: P. V. Kane: History of Dharmaśāstra Vol. 5,1 hlm. 1 - 462. Di sana hlm. 253 - 462 daftar **⟪व्रत⟫** dan festival keagamaan ("daftar berikut ... tidak mengklaim secara menyeluruh lengkap" !!!)
+**⟪व्रत⟫ n.:** Vrata, kewajiban religius, observansi religius (seseorang berjanji kepada dewa untuk mendapatkan sesuatu darinya. Contoh: seorang ibu berjanji akan menyerahkan putrinya sebagai pelacur kuil (⟪देवदासी⟫) jika putrinya sembuh kembali. ⟪व्रत⟫ penting saat ini: berpuasa; menahan diri dari makanan yang disukai; kontinens seksual; membaca kitab suci; melaksanakan ritual tertentu; memberi makan Brahmana dan lain-lain. Ringkasan tentang ⟪व्रत⟫: Walker, Hindu World Vol. II, hlm. 581f. Secara rinci: P. V. Kane: History of Dharmaśāstra Vol. 5,1 hlm. 1 - 462. Di sana hlm. 253 - 462 daftar ⟪व्रत⟫ dan festival religius ("daftar berikut ... tidak mengklaim untuk sangat lengkap" !!!)
 
-**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** menggembala, berkeliaran, bergerak, bertindak, berolahraga, melakukan (mis. **⟪व्रतं⟫ ⟪चर्⟫**: mengamalkan sumpah, terutama pantangan seksual)
+**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫):** menggembala, berjalan-jalan, bergerak, bertindak, melakukan sesuatu (misalnya **⟪व्रतं चर्⟫**: mempraktikkan vrata, khususnya kontinens seksual)
 
-from this:
+dari itu:
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** mobile; n.: the mobile = animals (in contrast to plants)
+**⟪चर ३⟫:** bergerak; n.: yang bergerak = hewan (berbeda dengan tumbuhan)
 
-**⟪चरण⟫ n., m.:** foot
+**⟪चरण⟫ n., m.:** kaki
 
-**⟪चरित⟫ n.:** way of life, life deeds
+**⟪चरित⟫ n.:** gaya hidup, perbuatan kehidupan
 
-**⟪ब्रह्मचर्य⟫ n.:** pelaksanaan Veda (**⟪ब्रह्मन्⟫**) = studi Veda pada tahap awal kehidupan (yaitu **⟪ब्रह्मचारिन्⟫**), yang memerlukan pantangan seksual ketat; oleh karena itu juga: pantangan seksual, cara hidup selibat
+**⟪ब्रह्मचर्य⟫ n.:** pelaksanaan Weda (⟪ब्रह्मन्⟫) = studi Weda pada tahap kehidupan pertama (tahap ⟪ब्रह्मचारिन्⟫), yang memerlukan kontinens seksual ketat; oleh karena itu juga: kontinens seksual, gaya hidup celibate
 :::
 ::: media
 ![](/images/lekt2201.webp)
-Fig.: ⟪धेनवश्चरन्ति⟫
+Gambar: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
-(Sumber gambar: [Detail](/en/licenses#lekt2201))
+(Sumber gambar: [Details](/id/licenses#lekt2201))
 :::
 ## 22.4. Latihan
 
-**A) Bentuk dan terjemahkan Kata Benda Absolut ke dalam kata kerja berikut:**
+**A) Bentuk dan terjemahkan Absolutif untuk kata kerja berikut:**
 
-1.  ⟪आप्⟫
-2.  ⟪प्राप्⟫
-3.  ⟪समास्⟫
-4.  ⟪आस्⟫
-5.  ⟪समि⟫
-6.  ⟪संस्कृ⟫
-7.  ⟪कृ⟫
-8.  ⟪गम्⟫
-9.  ⟪उपगम्⟫ (2 forms)
-10.  ⟪जि⟫
-11.  ⟪विजि⟫
-12.  ⟪तन्⟫
-13.  ⟪दह्⟫
-14.  ⟪उपदिश्⟫
-15.  ⟪नी⟫
-16.  ⟪पच्⟫
-17.  ⟪उपपद्⟫
-18.  ⟪पा⟫ ⟪१⟫
-19.  ⟪प्रच्छ्⟫
-20.  ⟪बुध्⟫
-21.  ⟪सम्बुध्⟫
-22.  ⟪भज्⟫
-23.  ⟪भू⟫
-24.  ⟪प्रभू⟫
-25.  ⟪मन्⟫
-26.  ⟪मुच्⟫
-27.  ⟪विमुच्⟫
-28.  ⟪मृ⟫
-29.  ⟪यज्⟫
-30.  ⟪लभ्⟫
-31.  ⟪उपलभ्⟫
-32.  ⟪वच्⟫
-33.  ⟪प्रवच्⟫
-34.  ⟪वद्⟫
-35.  ⟪प्रवद्⟫
-36.  ⟪हन्⟫
+1. ⟪आप्⟫
+2. ⟪प्राप्⟫
+3. ⟪समास्⟫
+4. ⟪आस्⟫
+5. ⟪समि⟫
+6. ⟪संस्कृ⟫
+7. ⟪कृ⟫
+8. ⟪गम्⟫
+9. ⟪उपगम्⟫ (2 bentuk)
+10. ⟪जि⟫
+11. ⟪विजि⟫
+12. ⟪तन्⟫
+13. ⟪दह्⟫
+14. ⟪उपदिश्⟫
+15. ⟪नी⟫
+16. ⟪पच्⟫
+17. ⟪उपपद्⟫
+18. ⟪पा १⟫
+19. ⟪प्रच्छ्⟫
+20. ⟪बुध्⟫
+21. ⟪सम्बुध्⟫
+22. ⟪भज्⟫
+23. ⟪भू⟫
+24. ⟪प्रभू⟫
+25. ⟪मन्⟫
+26. ⟪मुच्⟫
+27. ⟪विमुच्⟫
+28. ⟪मृ⟫
+29. ⟪यज्⟫
+30. ⟪लभ्⟫
+31. ⟪उपलभ्⟫
+32. ⟪वच्⟫
+33. ⟪प्रवच्⟫
+34. ⟪वद्⟫
+35. ⟪प्रवद्⟫
+36. ⟪हन्⟫
 
-**B) Translate and resolve the compounds into Sanskrit:**
+**B) Terjemahkan dan uraikan komposita berikut ke dalam bahasa Sanskerta:**
 
-⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदासो⟫ ⟪ऽत्ति⟫ ⟪॥१॥⟫
+⟪अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥ इष्टदेवतापूजां कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः स्तुवन्ति ॥२॥ प्रस्थाय रामः सपुत्रः सद्गुरुश्रवणार्थेन ब्राह्मणग्रामं गच्छति ॥३॥ अनिष्ट्वा नरो भगवद्भक्तिमात्रेणापि मोक्षमाप्नोति ॥४॥ गृहगर्भं प्रविश्य ब्राह्मणपुत्रमुपस्थाय क्षत्रियशूरो वक्ति ॥५॥ सम्बुध्य दुःखाद्यार्यसत्यानि प्रोच्य सुगतो मोक्षमार्गेण नरान्नयति ॥६॥ मन्त्रं विस्मृत्य यजन्यज्ञदोषं करोति ॥७॥ धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति ॥८॥ अनार्यशत्रुभिः संगत्य नरसिंहा विजयन्ते ॥९॥ पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥⟫
 
-⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः⟫ ⟪स्तुवन्ति⟫ ⟪॥२॥⟫
-
-⟪प्रस्थाय⟫ ⟪रामः⟫ ⟪सपुत्रः⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छति⟫ ⟪॥३॥⟫
-
-⟪अनिष्ट्वा⟫ ⟪नरो⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्षमाप्नोति⟫ ⟪॥४॥⟫
-
-⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫
-
-⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫
-
-⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫
-
-⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫
-
-⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫
-
-⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫
-
-**C) Make passive constructions from the above sentences (except sentences 8 and 10)**
+**C) Ubah kalimat-kalimat di atas (kecuali Kalimat 8 dan 10) menjadi konstruksi pasif**
 
 ::: media
 ![](/images/lekt2204.webp)
-Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
-(Image source: [Detail](/en/licenses#lekt2204))
+Gambar: ⟪अन्नं पक्त्वा⟫
+(Sumber gambar: [Details](/id/licenses#lekt2204))
 :::
 
 ::: deleteme-box
 
-**lekt2201:** Goa = ⟪गोंय⟫ [Image source: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accessed on 2008-12-12. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
+**lekt2201:** Goa = ⟪गोंय⟫ [Sumber gambar: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Diakses pada 2008-12-12. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
 
-**lekt2202:** 19th century [Image source: Wikipedia, Public domain]
+**lekt2202:** Abad ke-19 [Sumber gambar: Wikipedia, Domain publik]
 
-**lekt2203:** Kolkatta = কলকাতা [Image source: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Accessed on 2008-12-12. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
+**lekt2203:** Kolkatta = কলকাতা [Sumber gambar: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Diakses pada 2008-12-12. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
 
-**lekt2204:** [Image source: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Accessed on 2008-12-12. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
+**lekt2204:** [Sumber gambar: Curt Carnemark / Bank Dunia. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Diakses pada 2008-12-12. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
 :::
 

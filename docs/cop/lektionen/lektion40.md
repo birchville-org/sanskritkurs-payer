@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 40
+# ⲙⲁⲑⲏⲙⲁ 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 48
+# Leçon 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 
@@ -265,7 +265,7 @@ Fig. : ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig. : ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Source de l'image : [Détails](/fr/licenses#lekt4802))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4803.webp)

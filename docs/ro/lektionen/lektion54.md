@@ -13,7 +13,7 @@ status: stable
 
 Cu Lecția 54 începe, în cadrul cursurilor universitare, al doilea semestru. De acum înainte, cursul decurge paralel cu tema principală a acestui semestru: lectura integrală a Bhagavadgītā. Scopul învățării este atingerea unei astfel de fluente în lectura unui text de complexitate medie, încât, în ultima treime a semestrului, părți semnificative din Bhagavadgītā să poată fi traduse spontan. La început, în cadrul cursurilor universitare se distribuiau liste de cuvinte, iar ulterior studenții trebuiau să utilizeze ei înșiși dicționare corespunzătoare (Monier-Williams, Apte, PW).
 
-Cursul despre Bhagavadgītā nu va fi pus, pentru moment, la dispoziție online.
+Cursul despre Bhagavadgītā nu va fi pus, pentru moment, la dispoziție online. <!-- TODO: Fallback translation -->
 
 Lecțiile cursului de sanscrită tratează subiecte de gramatică sanscrită care nu au fost încă abordate.
 
@@ -194,38 +194,50 @@ Nivel înalt:
 
 *   Rădăcini cu vocală scurtă (în afară de a) înainte de consoană simplă, precum și ⟪जन्⟫ și cele mai multe rădăcini în -am  
     Exemple:  
-    ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "a fost despicat"  
-    ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "a fost împins"
+::: indent
+⟪भिद्⟫ 7U: ⟪अभेदि⟫ "a fost despicat"
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ "a fost împins"
+:::
 
 Nivel lung:
 
 *   Rădăcini cu vocală finală  
     Exemple:  
-    ⟪नी⟫ 1U: ⟪अनायि⟫ "a fost condus"  
-    ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "a fost lăudată"  
-    ⟪कृ⟫ 8U: ⟪अकारि⟫ "a fost făcut"  
+::: indent
+⟪नी⟫ 1U: ⟪अनायि⟫ "a fost condus"
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "a fost lăudată"
+⟪कृ⟫ 8U: ⟪अकारि⟫ "a fost făcut"
+:::
 
 *   Rădăcini cu a înainte de consoană simplă (în afară de ⟪जन्⟫ și rădăcini în -am)  
     Exemplu:  
-    ⟪वद्⟫ 1P: ⟪अवादि⟫ "a fost spus"  
-    dar:  
-    ⟪जन्⟫ 4Ā: ⟪अजनि⟫ "a fost născută"  
+::: indent
+⟪वद्⟫ 1P: ⟪अवादि⟫ "a fost spus"
+dar:
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ "a fost născută"
+:::
 
 *   unele rădăcini în -am  
     Exemplu:  
-    ⟪गम्⟫ ⟪अगामि⟫
+::: indent
+⟪गम्⟫ ⟪अगामि⟫
+:::
 
 Adăugarea lui y înainte de terminație:
 
 *   Rădăcinile în -ā, -e, -ai, -o inserează y între -ā al rădăcinii și terminație:  
     Exemplu:  
-    ⟪दा⟫ 3U: ⟪अदायि⟫ "a fost dat"
+::: indent
+⟪दा⟫ 3U: ⟪अदायि⟫ "a fost dat"
+:::
 
 Nasal-infix:
 
 *   unele rădăcini au un nasal-infix:  
     Exemplu:  
-    ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ alături de ⟪अलाभि⟫ : "a fost primit"
+::: indent
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ alături de ⟪अलाभि⟫ : "a fost primit"
+:::
 
 (celelalte forme ale pasivului sunt exprimate în aorist prin forme de Ātmanepada).
 :::
@@ -262,7 +274,7 @@ Traduceți scris următoarele forme și formați corespunzătoarele forme de aor
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5401))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

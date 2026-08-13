@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 38
+# 第38課
 
 ## 38.1. Losung der Woche
 

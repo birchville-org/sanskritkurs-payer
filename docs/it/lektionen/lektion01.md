@@ -72,9 +72,9 @@ Del senso della parola.
 
 Iniziamo con una curiosità:
 
->"Quando William Jones [1746–1794] e Henry Thomas Colebrooke (1765—1857) studiarono per la prima volta approfonditamente il sanscrito, lo tradussero in parte e scoprirono che possedeva una ricca letteratura e una notevole affinità con le lingue classiche, incontrarono una notevole resistenza. Poiché questa intima relazione del sanscrito con le lingue europee, geograficamente così lontane, non poteva essere conciliata con le vecchie concezioni, che facevano derivare tutte le lingue dall'ebraico o le isolavano in gran parte l'una dall'altra, il famoso filologo Dugald Steward (1753—1828) prese la via più semplice, dichiarando falsa l'intera storia con la lingua sanscrita. Scrisse un saggio in cui cercava di dimostrare che essa era stata forgiata dai furbi brahmani sul modello del greco e del latino, e che sia la lingua che la letteratura erano un falso. Questa opinione fu sviluppata ulteriormente nel 1840 dal professore di Dublino, Charles William Wall, ampiamente (Göttingische gelehrte Anzeigen 1842 pag. 1888)."
->
->[Fonte: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- Monaco di Baviera : Langen. -- Vol. 2. -- 1923. -- pag. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accesso il 2010-01-10]
+&gt;"Quando William Jones [1746–1794] e Henry Thomas Colebrooke (1765—1857) studiarono per la prima volta approfonditamente il sanscrito, lo tradussero in parte e scoprirono che possedeva una ricca letteratura e una notevole affinità con le lingue classiche, incontrarono una notevole resistenza. Poiché questa intima relazione del sanscrito con le lingue europee, geograficamente così lontane, non poteva essere conciliata con le vecchie concezioni, che facevano derivare tutte le lingue dall'ebraico o le isolavano in gran parte l'una dall'altra, il famoso filologo Dugald Steward (1753—1828) prese la via più semplice, dichiarando falsa l'intera storia con la lingua sanscrita. Scrisse un saggio in cui cercava di dimostrare che essa era stata forgiata dai furbi brahmani sul modello del greco e del latino, e che sia la lingua che la letteratura erano un falso. Questa opinione fu sviluppata ulteriormente nel 1840 dal professore di Dublino, Charles William Wall, ampiamente (Göttingische gelehrte Anzeigen 1842 pag. 1888)."
+&gt;
+&gt;[Fonte: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- Monaco di Baviera : Langen. -- Vol. 2. -- 1923. -- pag. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accesso il 2010-01-10]
 
 ## 1.1. Letteratura per principianti in indologia
 
@@ -84,7 +84,7 @@ Fig.: Copertina di un'edizione tascabile
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Parte: Una panoramica della cultura del subcontinente indiano prima dell'arrivo dei musulmani. -- Londra : Sidgwick & Jackson, 1954. -- Da allora molte edizioni, anche edizioni tascabili. -- **Lettura obbligatoria.** Una buona panoramica sulla vita, la storia e la cultura dell'India pre-islamica. Panoramica generale dei diversi campi della classica indologia.
+&gt;**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Parte: Una panoramica della cultura del subcontinente indiano prima dell'arrivo dei musulmani. -- Londra : Sidgwick & Jackson, 1954. -- Da allora molte edizioni, anche edizioni tascabili. -- **Lettura obbligatoria.** Una buona panoramica sulla vita, la storia e la cultura dell'India pre-islamica. Panoramica generale dei diversi campi della classica indologia.
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -94,7 +94,7 @@ Fig.: Frontespizio
 
 Ottima grammatica sistematica:
 
-> **Kielhorn**, Franz \<1840-1908\>: Grammatik der Sanskrit-Sprache / Tradotto dall'inglese da W. Solf [1862 - 1936]. -- Berlino : Dümmler, 1888. -- XIII, 238 p. -- Titolo originale: A grammar of the Sanscrit language
+> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatik der Sanskrit-Sprache / Tradotto dall'inglese da W. Solf [1862 - 1936]. -- Berlino : Dümmler, 1888. -- XIII, 238 p. -- Titolo originale: A grammar of the Sanscrit language &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +114,7 @@ Fig.: Titolo della copertina
 
 Una buona e concisa esposizione della terminologia linguistica europea si trova in:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \<1856 - 1926\>. A cura di Elmar Seebold. -- 24., rivista e ampliata ed.. -- Berlino [e alt.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Brossura. -- Pagg. XIII - XLVII.
+> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. A cura di Elmar Seebold. -- 24., rivista e ampliata ed.. -- Berlino [e alt.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Brossura. -- Pagg. XIII - XLVII. &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt0108.jpg)

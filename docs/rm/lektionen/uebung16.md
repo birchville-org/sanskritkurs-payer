@@ -1,14 +1,15 @@
 ---
-title: "Ezercitaziun 16"
+title: "Exercizi 16"
 uebung_id: 16
-category: "Ezercitaziun"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lecziun 16
+# Exercizi 16
 
-A) Transforment ils suandants expressiuns en Tatpuruṣa e tradusìtz els:
+A) Transfurmà ils suandants exprès en Tatpuruṣa e tradusì els:
 
 ⟪१⟫. ⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫ — ⟪देवपुरुषः⟫
 
@@ -34,23 +35,23 @@ A) Transforment ils suandants expressiuns en Tatpuruṣa e tradusìtz els:
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫ — ⟪देवस्तुतिः⟫
 
-B) Resolvìtz en las suandantas frasis tut ils compositums en Sanscrit, furmàtz uschia frasis cun nomina declinadas e tradusìtz:
+B) Resolvì en las suandantas frasa tut ils composita en Sanscrit, formà uschia frasis cun nomina declinadas e tradusì:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 ⟪पुण्यवान्वैश्यस्य⟫ ⟪पुत्रो⟫ ⟪देवानामिन्द्रस्य⟫ ⟪लोकं⟫ ⟪गच्छति⟫ ⟪।⟫ (u: ⟪पुण्यवतो⟫ ⟪वैश्यस्य⟫ ⟪पुत्रो⟫...)
-Il figl meritabel d'in Vaiśya vegn en il tschiel dal prinç da ils divitgs. (u: Il figl d'in meritabel Vaiśya...)
+Il figl meritivel d'in Vaiśya vegn en il tschiel dal prinç da ils deus. (u: Il figl d'in meritivel Vaiśya...)
 
 ⟪२⟫. ⟪पुण्यकरणं⟫ ⟪स्वर्गमार्गः⟫ ⟪।⟫
 ⟪पुण्यस्य⟫ ⟪करणं⟫ ⟪स्वर्गस्य⟫ ⟪मार्गः⟫ ⟪।⟫ (u: ⟪पुण्यानां⟫ ⟪करणं⟫ ⟪स्वर्गं⟫ ⟪मार्गः⟫ ⟪।⟫)
-Far meritabel è la via vers il tschiel.
+Far meritabel è il viadi en il tschiel.
 
 ⟪३⟫. ⟪न⟫ ⟪साधुः⟫ ⟪पशुवन्नरधेनुलोभः⟫ ⟪।⟫
 ⟪न⟫ ⟪साधुः⟫ ⟪पशुवतो⟫ ⟪नरस्य⟫ ⟪धेनूनां⟫ ⟪लोभः⟫ ⟪।⟫ (u: ...⟪धेनोर्लोभः⟫ ⟪।⟫)
-La aviditad da l'um rich cun bestgiament vers las vacchas / vers la vaccha n'è betg buna.
+La avidad da l'um rich en bestgiament per vatschas / per la vacca n'è betg buna. <!-- TODO: Fallback translation -->
 
 ⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫
 ⟪न⟫ ⟪पशूनां⟫ ⟪यज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मस्य⟫ ⟪यज्ञैस्तु⟫ ⟪स्वर्गस्य⟫ ⟪सुखमाप्नुवन्ति⟫ ⟪।⟫
-Cun sacrificis d'animals na vegnan ils umens betg en il tschiel. Cun sacrificis (sanza sangle) da la gistizia dentant cuntanschan els la beatezza celestiala.
+Cun sacrificis d'animals vegnan umans betg en il tschiel. Cun (sensanguins) sacrificis da la gistezza alcuventan elas beanza celestiala.
 
 ⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
 ⟪द्विजानां⟫ ⟪दासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
@@ -74,21 +75,21 @@ Ils guerriers fermus èn ids en il vitg da Brahmanas.
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टवेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 ⟪पुन्यवतो⟫ ⟪वैश्यस्येष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजां⟫ ⟪करोति⟫ ⟪।⟫
-El onurescha la deïtat persunala dal meritabel Vaiśya.
+El onurescha la deidad persunala dal meritivel Vaiśya.
 
 ::: media
 ![](/images/uebung023.webp)
 Abb.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
-(Sursa da l'imagina: [Detagls](/licenses#uebung023))
+(sursainta d'imagines: [Detagls](/licenses#uebung023))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Modèls da declinaziun
+## Modells da declinaziun
 
-A) Formai tut ils casus fin uss aprendids per las suandantas paraulas sco exempels per las fin uss aprendidas classes da declinaziun.
+A) Formà tut ils casus fin ussa aprendids per las suandantas paraulas sco exempels per las classes da declinaziun fin ussa aprendidas.
 
 ::: grammar-box
-⟪१⟫. **⟪नर⟫** (m.)
+⟪१⟫. ⟪नर⟫ (m.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -97,7 +98,7 @@ A) Formai tut ils casus fin uss aprendids per las suandantas paraulas sco exempe
 | 3. Instr. | ⟪नरेण⟫ | ⟪नरैस्⟫ (⟪नरैः⟫) |
 | 6. Gen. | ⟪नरस्य⟫ | ⟪नराणाम्⟫ |
 
-⟪२⟫. **⟪फल⟫** (n.)
+⟪२⟫. ⟪फल⟫ (n.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -106,7 +107,7 @@ A) Formai tut ils casus fin uss aprendids per las suandantas paraulas sco exempe
 | 3. Instr. | ⟪फलेन⟫ | ⟪फलैस्⟫ (⟪फलैः⟫) |
 | 6. Gen. | ⟪फलस्य⟫ | ⟪फलानाम्⟫ |
 
-⟪३⟫. **⟪क्षत्रिया⟫** (f.)
+⟪३⟫. ⟪क्षत्रिया⟫ (f.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -115,7 +116,7 @@ A) Formai tut ils casus fin uss aprendids per las suandantas paraulas sco exempe
 | 3. Instr. | ⟪क्षत्रियया⟫ | ⟪क्षत्रियाभिस्⟫ (⟪क्षत्रियाभिः⟫) |
 | 6. Gen. | ⟪क्षत्रियायास्⟫ (⟪क्षत्रियायाः⟫) | ⟪क्षत्रियाणाम्⟫ |
 
-⟪४⟫. **⟪अरि⟫** (m.)
+⟪४⟫. ⟪अरि⟫ (m.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -124,7 +125,7 @@ A) Formai tut ils casus fin uss aprendids per las suandantas paraulas sco exempe
 | 3. Instr. | ⟪अरिणा⟫ | ⟪अरिभिस्⟫ (⟪अरिभिः⟫) |
 | 6. Gen. | ⟪अरेस्⟫ (⟪अरेः⟫) | ⟪अरीणाम्⟫ |
 
-⟪५⟫. **⟪मति⟫** (f.)
+⟪५⟫. ⟪मति⟫ (f.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -133,7 +134,7 @@ A) Formai tut ils casus fin uss aprendids per las suandantas paraulas sco exempe
 | 3. Instr. | ⟪मत्या⟫ | ⟪मतिभिस्⟫ (⟪मतिभिः⟫) |
 | 6. Gen. | ⟪मतेस्⟫ (⟪मतेः⟫) / ⟪मत्यास्⟫ (⟪मत्याः⟫) | ⟪मतीनाम्⟫ |
 
-⟪६⟫. **⟪गुरु⟫** (m.)
+⟪६⟫. ⟪गुरु⟫ (m.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -142,7 +143,7 @@ A) Formai tut ils casus fin uss aprendids per las suandantas paraulas sco exempe
 | 3. Instr. | ⟪गुरुणा⟫ | ⟪गुरुभिस्⟫ (⟪गुरुभिः⟫) |
 | 6. Gen. | ⟪गुरोस्⟫ (⟪गुरोः⟫) | ⟪गुरूणाम्⟫ |
 
-⟪७⟫. **⟪धेनु⟫** (f.)
+⟪७⟫. ⟪धेनु⟫ (f.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -151,7 +152,7 @@ A) Formai tut ils casus fin uss aprendids per las suandantas paraulas sco exempe
 | 3. Instr. | ⟪धेन्वा⟫ | ⟪धेनुभिस्⟫ (⟪धेनुभिः⟫) |
 | 6. Gen. | ⟪धेनोस्⟫ (⟪धेनोः⟫) / ⟪धेन्वास्⟫ (⟪धेन्वाः⟫) | ⟪धेनूनाम्⟫ |
 
-⟪८⟫. **⟪देवी⟫** (f.)
+⟪८⟫. ⟪देवी⟫ (f.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -160,9 +161,9 @@ A) Formai tut ils casus fin uss aprendids per las suandantas paraulas sco exempe
 | 3. Instr. | ⟪देव्या⟫ | ⟪देवीभिस्⟫ (⟪देवीभिः⟫) |
 | 6. Gen. | ⟪देव्यास्⟫ (⟪देव्याः⟫) | ⟪देवीनाम्⟫ |
 
-⟪९⟫. **⟪गुणवन्त्⟫** (m./n.)
+⟪९⟫. ⟪गुणवन्त्⟫ (m./n.)
 
-**Masculinum:**
+**Masculin:**
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -180,15 +181,15 @@ A) Formai tut ils casus fin uss aprendids per las suandantas paraulas sco exempe
 | 3. Instr. | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Gen. | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-(Feminin **⟪गुणवती⟫** declinescha sco **⟪देवी⟫**)
+(Feminin ⟪गुणवती⟫ dekliniert wie ⟪देवी⟫)
 
-⟪१०⟫. **⟪किम्⟫** (m./n./f.)
+⟪१०⟫. ⟪किम्⟫ (m./n./f.)
 
 | Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-
 | 1. Nom. | ⟪कस्⟫ (⟪कः⟫) | ⟪किम्⟫ | ⟪का⟫ | ⟪के⟫ | ⟪कानि⟫ | ⟪कास्⟫ (⟪काः⟫) |
 | 2. Akk. | ⟪कम्⟫ | ⟪किम्⟫ | ⟪काम्⟫ | ⟪कान्⟫ | ⟪कानि⟫ | ⟪कास्⟫ (⟪काः⟫) |
+| 3. Instr. | ⟪केन⟫ | — | ⟪कया⟫ | — | — | ⟪काभिस्⟫ (⟪काभिः⟫) |
 | 3. Instr. | ⟪केन⟫ | — | ⟪कया⟫ | — | — | ⟪काभिस्⟫ (⟪काभिः⟫) |
 | 6. Gen. | ⟪कस्य⟫ | — | ⟪कस्यास्⟫ (⟪कस्याः⟫) | ⟪केषाम्⟫ | — | ⟪कासाम्⟫ |
 
@@ -244,21 +245,18 @@ Il deber spezial d'in vaiśya è: studiar il Veda, offrir sco patrun da sacrific
 ⟪शुड्रस्य⟫ ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारूणां⟫ ⟪कुशीलवानां⟫ ⟪च⟫ ⟪कर्म⟫ ⟪।⟫
 Il deber spezial d'in śūdra è il servetsch obedient envers ils dus naschids nov, activitad economica e lavur sco artesan ed exhibidor.
 
-⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
-L'obligaziun da tut è: la nonviolenza, la veridicitad, la puritad, betg plazzar sasez sur ses destins, l'absenza da malizia e la pazienza toleranta.
-(⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
-
 ::: deleteme-box Erklärungen
-Frasa 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Acc.: Dvandva, che designescha las duas "chosas"
-Frasa 8: **⟪कर्म⟫** Nom., Acc. sg. Neutrum a ⟪कर्मन्⟫ "acziun"
-Frasa 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. a ⟪सर्व⟫ "mintgin, tut" (pronomen, declinà betg sco deva)
+Frasa 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, quai designes dus "chosas"
+Frasa 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum a ⟪कर्मन्⟫ "acziun"
+Frasa 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. a ⟪सर्व⟫ "mintgin, tut" (pronomen, declinà betg sco deva)
 :::
-⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫ ⟪तस्य⟫, ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 La verga provi l'acquisiziun ed il possess segir da filosofia, vedistica ed economia. La direcziun da la verga è politica.
 
 ::: media
 ![](/images/uebung024.webp)
-Abb.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
-(Sursa da l'imagina: [Detagls](/licenses#uebung024))
+Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
+(Sursa da l'imagia: [Detagls](/licenses#uebung024))
 :::
+ <!-- TODO: Fallback translation -->

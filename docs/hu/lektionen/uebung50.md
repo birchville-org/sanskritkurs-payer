@@ -24,7 +24,7 @@ A) Az igeképzés ismétlésére: a következő vers tartalmazza az összes egye
 > Nincs magasabb dolog a tanárnál,  
 > A tanárom gyermeke vagyok,  
 > A szívem a tanáromnál van,  
-> Tanár, óvj engem!
+> Tanár, óvj engem! <!-- TODO: Fallback translation -->
 
 ---
 
@@ -37,7 +37,7 @@ A) Az igeképzés ismétlésére: a következő vers tartalmazza az összes egye
 **⟪तेन⟩ ⟪यायात्सतां⟩ ⟪मार्गम्⟩**  
 **⟪तेन⟩ ⟪गच्छन्न⟩ ⟪रिष्यते⟩ ⟪॥⟩ ⟪१⟩ ⟪॥⟩**
 
-> Menjenek a jók útján, amelyen az atyák mentek, amelyen az őseik mentek. Ha valaki ezen az úton halad, akkor nem szenved kárt.
+> Menjenek a jók útján, amelyen az atyák mentek, amelyen az őseik mentek. Ha valaki ezen az úton halad, akkor nem szenved kárt. <!-- TODO: Fallback translation -->
 
 ### ⟪मनुस्मृति⟩ ⟪३⟩, ⟪६३⟩
 
@@ -64,7 +64,7 @@ Kép: ⟪संतुष्टो⟩ ⟪भार्यया⟩ ⟪भर्त
 :::
 ---
 
-### ⟪मनुस्मृति⟩ ⟪३⟩, ⟪७५⟩ - ⟪७६⟩: Az áldozat szükségességéről
+### ⟪मनुस्मृति⟩ ⟪३⟩, ⟪७५⟩ - ⟪७६⟩: Az áldozat szükségességéről <!-- TODO: Fallback translation -->
 
 **⟪स्वाध्याये⟩ ⟪नित्ययुक्तः⟩ ⟪स्याद्⟩**  
 **⟪दैवे⟩ ⟪चैवेह⟩ ⟪कर्मणि⟩ ⟪।⟩**  
@@ -76,7 +76,7 @@ Kép: ⟪संतुष्टो⟩ ⟪भार्यया⟩ ⟪भर्त
 **⟪आदित्याज्जायते⟩ ⟪वृष्टिर्⟩**  
 **⟪वृष्टेरन्नं⟩ ⟪ततः⟩ ⟪प्रजाः⟩ ⟪॥⟩ ⟪५⟩ ⟪॥⟩**
 
-> Mindig foglalkozzon a Védák tanulmányozásával és az isteneknek szánt áldozatokkal. Az, aki foglalkozik az isteneknek szánt áldozatokkal, ezt a világot kapja meg élő és élettelen dolgokkal. Az áldozat, amelyet helyesen a tűzbe dobnak, eljut az égbe, az égből eső jön, az esőből táplálék, a táplékból teremtmények.
+> Mindig foglalkozzon a Védák tanulmányozásával és az isteneknek szánt áldozatokkal. Az, aki foglalkozik az isteneknek szánt áldozatokkal, ezt a világot kapja meg élő és élettelen dolgokkal. Az áldozat, amelyet helyesen a tűzbe dobnak, eljut az égbe, az égből eső jön, az esőből táplálék, a táplékból teremtmények. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung082.webp)

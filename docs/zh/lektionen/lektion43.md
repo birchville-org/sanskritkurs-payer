@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 43
+# 第43課
 
 ## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \<Person\>")
 

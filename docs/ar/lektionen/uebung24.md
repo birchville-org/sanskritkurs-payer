@@ -85,7 +85,7 @@ last_reconstructed: 2026-05-15
 Abb.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (مصدر الصورة: [تفاصيل](/licenses#uebung037))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## التباينات النحوية
 
@@ -158,4 +158,4 @@ Abb.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 ![](/images/uebung038.webp)
 Abb.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (مصدر الصورة: [تفاصيل](/licenses#uebung038))
-:::
+::: <!-- TODO: Fallback translation -->

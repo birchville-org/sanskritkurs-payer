@@ -112,7 +112,7 @@ outline: 2
 | ⟪इन्द्र⟫ | [indra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indra&filter=roman&accent=no&transLit=roman) | m | ਰਾਜਾ, ਪਹਿਲਾਂ, ਸਭ ਤੋਂ ਵਧੀਆ ਵਿੱਚ ; ਦੇਵਤਾ-ਰਾਜ ਇੰਦਰ | [15](/pa/lektionen/lektion15#_15-8-) |
 | ⟪इन्द्रिय⟫ | [indriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indriya&filter=roman&accent=no&transLit=roman) | — | ਸ਼ਕਤੀ, ਇੰਦਰੀ | [24](/pa/lektionen/lektion24#_24-4-) |
 | ⟪इव⟫ | [iva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iva&filter=roman&accent=no&transLit=roman) | — | ਜਿਵੇਂ, ਜਿਸ ਤਰ੍ਹਾਂ (ਤੁਲਨਾਵਾਂ ਵਿੱਚ: = "ਇੱਕ ਮਰਦ ਜਿਵੇਂ ਬਾਘ", "ਇੱਕ ਬਾਘ-ਸਮਾਨ ਮਰਦ" | [15](/pa/lektionen/lektion15#_15-8-) |
-| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ਭੇਜਣਾ | [42](/pa/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | sig[] : ਭੇਜਣਾ | [42](/pa/lektionen/lektion42#_42-2-) |
 | ⟪इह⟫ | [iha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iha&filter=roman&accent=no&transLit=roman) | Adv | ਇੱਥੇ, ਧਰਤੀ 'ਤੇ ਇੱਥੇ, ਇੱਥੇ ਤੱਕ ; ਹੁਣ. ਲੋਕੇਟਿਵ ਵਿੱਚ ਵਿਸ਼ੇਸ਼ਣਾਂ () ਤੋਂ ਪਹਿਲਾਂ , ਦੇ ਸਮਾਨਾਰਥੀ | [50](/pa/lektionen/lektion50#_50-2-) |
 
 ## ई
@@ -213,7 +213,7 @@ outline: 2
 | ⟪क्रमयति⟫ | [kramayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramayati&filter=roman&accent=no&transLit=roman) | — | ਬ੍ਰ | [35](/pa/lektionen/lektion35#_35-4-) |
 | ⟪क्रमितुम्⟫ | [kramitum](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramitum&filter=roman&accent=no&transLit=roman) | — | ਬ੍ਰ | [35](/pa/lektionen/lektion35#_35-4-) |
 | ⟪क्रमिष्यति⟫ | [kramiṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramiṣyati&filter=roman&accent=no&transLit=roman) | — | ਬ੍ਰ | [35](/pa/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | ਚੱਲਣਾ, ਜਾਣਾ | [35](/pa/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | sig[]], 4P ਸਿਗ[:sig[]] : ਚੱਲਣਾ, ਜਾਣਾ | [35](/pa/lektionen/lektion35#_35-4-) |
 | ⟪क्रम्यते⟫ | [kramyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramyate&filter=roman&accent=no&transLit=roman) | — | ਬ੍ਰ | [35](/pa/lektionen/lektion35#_35-4-) |
 | ⟪क्रा⟫ | [krā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krā&filter=roman&accent=no&transLit=roman) | — | ਬ੍ਰ | [35](/pa/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | [kriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kriyā&filter=roman&accent=no&transLit=roman) | f | ਕਾਰਜ, ਪਵਿੱਤਰ ਕਾਰਜ, ਬਲੀਦਾਨ ਕਾਰਜ, ਰਸਮ ( 8 ਲਈ) | [20](/pa/lektionen/lektion20#_20-9-) |
@@ -259,7 +259,7 @@ outline: 2
 | ⟪ग्रस्⟫ | [gras](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gras&filter=roman&accent=no&transLit=roman) | 1Ā | ਖਾਣਾ, ਖਾਣਾ | [29](/pa/lektionen/lektion29#_29-2-) |
 | ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | m | ਫੜਨਾ, ਫੜਨ ਵਾਲਾ, ਮੱਘਰ, ਚਲਦਾ ਤਾਰਾ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | — | ਫੜਨਾ | [24](/pa/lektionen/lektion24#_24-4-) |
-| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | ਫੜਨਾ, ਫੜਨਾ, ਫੜਨਾ | [46](/pa/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : ਫੜਨਾ, ਫੜਨਾ, ਫੜਨਾ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | 1P | ਅਸੰਤੁਸ਼ਟਤਾ ਮਹਿਸੂਸ ਕਰਨਾ, ਖਤਮ ਹੋਣਾ | [36](/pa/lektionen/lektion36#_36-4-) |
 
 ## घ
@@ -268,7 +268,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghāta&filter=roman&accent=no&transLit=roman) | m | ਮੌਤ | [17](/pa/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | [ghṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghṛta&filter=roman&accent=no&transLit=roman) | n | ਮੱਖਣ ਦਾ ਘੀ, ਘੀ ( / گھی / ঘী) | [33](/pa/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | ਕੁਝ ਸੁੰਘਣਾ | [36](/pa/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | sig[] : ਕੁਝ ਸੁੰਘਣਾ | [36](/pa/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -297,7 +297,7 @@ outline: 2
 
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
-| ⟪छन्न⟫ | [channa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=channa&filter=roman&accent=no&transLit=roman) | n | ਢੱਕਣ, ਲੁਕਾਉਣ ਦੀ ਥਾਂ | [49](/pa/lektionen/lektion49#_49-4-) |
+| ⟪छन्न⟫ | [channa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=channa&filter=roman&accent=no&transLit=roman) | n | ਢੱਕਣ, ਲੁਕਾਉਣ ਦੀ ਥਾਂ <!-- TODO: Fallback translation --> | [49](/pa/lektionen/lektion49#_49-4-) |
 | ⟪छिद्⟫ | [chid](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=chid&filter=roman&accent=no&transLit=roman) | 7U | ਕੱਟਣਾ | [31](/pa/lektionen/lektion31#_31-2-) |
 
 ## ज
@@ -394,7 +394,7 @@ outline: 2
 | ਸੰਸਕ੍ਰਿਤ | IAST | ਲਿੰਗ | ਪੰਜਾਬੀ | ਪਾਠ |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | — | ਜੋ ਮਜ਼ਬੂਤ ਹੈ ਅਤੇ ਮਜ਼ਬੂਤ ਰੱਖਦਾ ਹੈ = ਧਰਮ | [25](/pa/lektionen/lektion25#_25-5-) |
-| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | — | ਰੱਖਣਾ, ਨਿਰਧਾਰਤ ਕਰਨਾ, ਵੰਡਣਾ | [33](/pa/lektionen/lektion33#_33-6-) |
+| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | 3U | sig[]: ਰੱਖਣਾ, ਨਿਰਧਾਰਤ ਕਰਨਾ, ਵੰਡਣਾ | [33](/pa/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | [dhānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhānya&filter=roman&accent=no&transLit=roman) | — | ਧੁਣਿਆਂ ਹੋਇਆਂ ਅਨਾਜ | [25](/pa/lektionen/lektion25#_25-5-) |
 | ⟪धीर⟫ | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhīra&filter=roman&accent=no&transLit=roman) | 3 | ਮਜ਼ਬੂਤ, ਸਥਿਰ, ਲਗਾਤਾਰ, ਦ੍ਰਿੜ੍ਹ | [52](/pa/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | [dhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhṛ&filter=roman&accent=no&transLit=roman) | 1U | ਫੜ੍ਹਨਾ, ਮਜ਼ਬੂਤੀ ਨਾਲ ਫੜ੍ਹਨਾ | [25](/pa/lektionen/lektion25#_25-5-) |
@@ -553,7 +553,7 @@ outline: 2
 | ⟪भृत्य⟫ | [bhṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛtya&filter=roman&accent=no&transLit=roman) | m | ਅਧੀਨ ਕਰਮਚਾਰੀ, ਸੇਵਕ | [28](/pa/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | ਸੰਬੋਧਨ ਦਾ ਵਿਸ਼ੇਸ਼ ਅਵਾਜ਼, ਉਦਾਹਰਣ: ਹੇ, ਹੇਡਾ, ਓ, ਏ, ਹੈਲੋ, ਹਾਈ! ਅਕਸਰ ਅਨੁਵਾਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ. ਇਸ ਕਣ ਦਾ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਸੰਧੀ ਹੈ: | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | [bhraṃśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhraṃśa&filter=roman&accent=no&transLit=roman) | m | ਛੁੱਟਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | ਭਟਕਣਾ, ਭਟਕਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | sig[] : ਭਟਕਣਾ, ਭਟਕਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | [bhrātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhrātṛ&filter=roman&accent=no&transLit=roman) | — | ਭਰਾ | [42](/pa/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -616,7 +616,7 @@ outline: 2
 | ⟪यदि⟫ | [yadi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadi&filter=roman&accent=no&transLit=roman) | — | ਜੇਕਰ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | [yadyapi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyapi&filter=roman&accent=no&transLit=roman) | — | ਭਾਵੇਂ, ਭਾਵੇਂ, ਹਾਲਾਂਕਿ | [30](/pa/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | [yadyevam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyevam&filter=roman&accent=no&transLit=roman) | — | ਜੇਕਰ ਇਸ ਤਰ੍ਹਾਂ ਹੈ, ਇਨ੍ਹਾਂ ਹਾਲਤਾਂ ਵਿੱਚ | [30](/pa/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | ਰੱਖਣਾ, ਚੁੱਕਣਾ ; ਦੇਣਾ, ਪ੍ਰਦਾਨ ਕਰਨਾ ; ਇਕੱਠਾ ਰੱਖਣਾ, ਦਬਾਉਣਾ, ਰੋਕਣਾ, ਜਿੱਤਣਾ | [44](/pa/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | sig[] : ਰੱਖਣਾ, ਚੁੱਕਣਾ ; ਦੇਣਾ, ਪ੍ਰਦਾਨ ਕਰਨਾ ; ਇਕੱਠਾ ਰੱਖਣਾ, ਦਬਾਉਣਾ, ਰੋਕਣਾ, ਜਿੱਤਣਾ | [44](/pa/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | [yā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yā&filter=roman&accent=no&transLit=roman) | 2P | ਜਾਣਾ, ਚਲਣਾ | [44](/pa/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | [yātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yātṛ&filter=roman&accent=no&transLit=roman) | — | ਪਤੀ ਦੇ ਭਰਾ ਦੀ ਪਤਨੀ | [42](/pa/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | [yāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yāna&filter=roman&accent=no&transLit=roman) | n | ਜਾਣਾ, ਰਸਤਾ, ਵਾਹਨ | [44](/pa/lektionen/lektion44#_44-5-) |
@@ -637,7 +637,7 @@ outline: 2
 | ⟪रहस्⟫ | [rahas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rahas&filter=roman&accent=no&transLit=roman) | n | ਰਹੱਸ, ਅਕੇਲਾਪਨ | [50](/pa/lektionen/lektion50#_50-2-) |
 | ⟪राग⟫ | ਰਾਗ | — | (ਲਾਲ) ਰੰਗ, ਲਗਨ, ਪ੍ਰੇਮ। | [5](/pa/lektionen/lektion05#_5-4-) |
 | ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | m | ਰੰਗ, ਲਾਲ ਰੰਗ | [51](/pa/lektionen/lektion51#_51-6-) |
-| ⟪राजन्⟫ | [rājan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rājan&filter=roman&accent=no&transLit=roman) | m | ਰਾਜਾ (ਭਾਰਤ ਵਿੱਚ ਰਾਜਤੰਤਰ ਬਾਰੇ ਦੇਖੋ ਬਾਸ਼ਮ, ਅਦਭੁਤ ਸ. 82 -94). ਕੋਮਪੋਸ਼ਿਅਮ ਦੇ ਅੰਤ ਵਿੱਚ (ਖਾਸ ਤੌਰ 'ਤੇ ) ਆਮ ਤੌਰ 'ਤੇ: - (ਜਿਵੇਂ ) | [38](/pa/lektionen/lektion38#_38-9-) |
+| ⟪राजन्⟫ | [rājan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rājan&filter=roman&accent=no&transLit=roman) | m | ਰਾਜਾ (ਭਾਰਤ ਵਿੱਚ ਰਾਜਤੰਤਰ ਬਾਰੇ ਦੇਖੋ ਬਾਸ਼ਮ, ਅਦਭੁਤ ਸ. 82 -94). ਕੋਮਪੋਸ਼ਿਅਮ ਦੇ ਅੰਤ ਵਿੱਚ (ਖਾਸ ਤੌਰ 'ਤੇ ) ਆਮ ਤੌਰ 'ਤੇ: -:sig[] (ਜਿ | [38](/pa/lektionen/lektion38#_38-9-) |
 | ⟪राज्ञी⟫ | [rājñī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rājñī&filter=roman&accent=no&transLit=roman) | f | ਰਾਣੀ, ਰਾਜੇ ਦੀ ਪਤਨੀ | [38](/pa/lektionen/lektion38#_38-9-) |
 | ⟪राज्य⟫ | [rājya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rājya&filter=roman&accent=no&transLit=roman) | 3 | ਰਾਜਕੀ; ਰਾਜ, ਰਾਜਤੰਤਰ, ਸ਼ਾਸਨ | [38](/pa/lektionen/lektion38#_38-9-) |
 | ⟪रिष्⟫ | [riṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=riṣ&filter=roman&accent=no&transLit=roman) | 1P | ਨੁਕਸਾਨ ਪਹੁੰਚਣਾ, ਅਸਫਲ ਹੋਣਾ, ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਣਾ | [50](/pa/lektionen/lektion50#_50-2-) |
@@ -659,7 +659,7 @@ outline: 2
 | ⟪लिप्⟫ | [lip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lip&filter=roman&accent=no&transLit=roman) | 6U | ਲੇਪਣਾ, ਮਲਣਾ | [25](/pa/lektionen/lektion25#_25-5-) |
 | ⟪लिप्ति⟫ | [lipti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lipti&filter=roman&accent=no&transLit=roman) | — | ਲੇਪਣਾ, ਲਿਖਣਾ, ਲਿਖਤ | [25](/pa/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | [līlā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=līlā&filter=roman&accent=no&transLit=roman) | — | ਹਾਸਾ, ਖੇਡ | [42](/pa/lektionen/lektion42#_42-2-) |
-| ⟪लुप्⟫ | [lup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lup&filter=roman&accent=no&transLit=roman) | 6U | ਟੁੱਟਣਾ, ਨਸ਼ਟ ਕਰਨਾ | [50](/pa/lektionen/lektion50#_50-2-) |
+| ⟪लुप्⟫ | [lup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lup&filter=roman&accent=no&transLit=roman) | 6U | sig[] : ਟੁੱਟਣਾ, ਨਸ਼ਟ ਕਰਨਾ | [50](/pa/lektionen/lektion50#_50-2-) |
 | ⟪लोभ⟫ | ਲੋਭ | — | ਲਾਲਚ, ਲੋਭ। | [5](/pa/lektionen/lektion05#_5-4-) |
 | ⟪लौल्य⟫ | [laulya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laulya&filter=roman&accent=no&transLit=roman) | n | ਲਾਲਸਾ, ਕਾਮਨਾ | [52](/pa/lektionen/lektion52#_52-7-) |
 
@@ -670,21 +670,19 @@ outline: 2
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | — | ਧੋਖਾਦੇਹ | [43](/pa/lektionen/lektion43#_43-4-) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | m | ਵਪਾਰੀ | [43](/pa/lektionen/lektion43#_43-4-) |
 | ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | m | ਗਾਊ ਦਾ ਬੱਚਾ, ਜਵਾਨ, ਬੱਚਾ ; ਸੰਬੋਧਨ: ਮੇਰੇ ਪਿਆਰੇ | [43](/pa/lektionen/lektion43#_43-4-) |
-| ⟪वत्स्यति⟫ | ਭਵਿੱਖ: | — | brਪਾਸ: :brPPP: :brਅਨੰਤ | [27](/pa/lektionen/lektion27#_27-5-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | ਰਸਮੀ ਤੌਰ 'ਤੇ ਸਤਕਾਰ ਕਰਨਾ, ਸੰਬੋਧਨ ਕਰਨਾ | [36](/pa/lektionen/lektion36#_36-4-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | 1P | ਪਿੱਛੇ ਕਹਿਣਾ = ਜਵਾਬ ਦੇਣਾ | [44](/pa/lektionen/lektion44#_44-5-) |
 | ⟪वन⟫ | [vana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vana&filter=roman&accent=no&transLit=roman) | n | ਜੰਗਲ | [51](/pa/lektionen/lektion51#_51-6-) |
 | ⟪वपुस्⟫ | [vapus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vapus&filter=roman&accent=no&transLit=roman) | — | ਸੁੰਦਰਤਾ, ਰੂਪ (ਵਿਕਾਰ ਬਾਅਦ ਵਿੱਚ ਦੇਖੋ) | [20](/pa/lektionen/lektion20#_20-9-) |
 | ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | 3 | ਸਭ ਤੋਂ ਵਧੀਆ | [43](/pa/lektionen/lektion43#_43-4-) |
-| ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | m | ਇੱਛਾ | [49](/pa/lektionen/lektion49#_49-4-) |
+| ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | m | ਇੱਛਾ <!-- TODO: Fallback translation --> | [49](/pa/lektionen/lektion49#_49-4-) |
 | ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | 3 | ਸਭ ਤੋਂ ਵਧੀਆ | [52](/pa/lektionen/lektion52#_52-7-) |
 | ⟪वर्ग⟫ | [varga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varga&filter=roman&accent=no&transLit=roman) | m | ਖੰਡ, ਵਿਭਾਗ, ਟੋਲੀ | [52](/pa/lektionen/lektion52#_52-7-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | ਰੰਗ, ਜਨਮ ਵਰਗ (ਪ੍ਰਵਿਰਤੀ)। | [2](/pa/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | ਵਰਣ | — | ਰੰਗ, ਜਾਤੀ, ਵਰਣ। | [5](/pa/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | — | ਮੀਂਹ, ਮੀਂਹ ਦਾ ਮੌਸਮ, ਸਾਲ | [25](/pa/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P |  ਚਾਹੁਣਾ, ਹੁਕਮ ਕਰਨਾ, ਲਾਲਸਾ ਕਰਨਾ | [52](/pa/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], ਅਪੇਤ. 2.ਸਿੰ.: :sig[]: ਚਾਹੁਣਾ, ਹੁਕਮ ਕਰਨਾ, ਲਾਲਸਾ ਕਰਨਾ | [52](/pa/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("ਚਮਕਦਾ" =) ਵਸੰਤ (ਮਾਰਚ ਤੋਂ ਮਈ ਤੱਕ) | [27](/pa/lektionen/lektion27#_27-5-) |
-| ⟪वसिष्यते⟫ | ਭਵਿੱਖ: | — | brPPP: :brਅਨੰਤ | [27](/pa/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | ਅਮੀਰੀ, ਖਜ਼ਾਨਾ, ਸੰਪਤੀ, ਮਾਲਕੀ | [27](/pa/lektionen/lektion27#_27-5-) |
 | ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | ਰਹਿਣਾ, ਵਸਣਾ (ਉਸ ਵਿਅਕਤੀ ਦੇ ਲੋਕਤਵ ਵਿੱਚ, ਜਿੱਥੇ ਤੁਸੀਂ ਵਸਦੇ ਹੋ) | [27](/pa/lektionen/lektion27#_27-5-) |
 | ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | n | ਸੀਟ, ਸਥਾਨ; ਵਾਸਤਵਿਕ ਵਸਤੂ, ਵਾਸਤਵਿਕ ਵਸਤੂ, ਵਾਸਤਵਿਕਤਾ, ਵਸਤੂ | [27](/pa/lektionen/lektion27#_27-5-) |
@@ -734,7 +732,7 @@ outline: 2
 | ⟪वृद्धि⟫ | [vṛddhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛddhi&filter=roman&accent=no&transLit=roman) | f | ਵਾਧਾ, ਵਿਕਾਸ, ਵਿਸਤਾਰ ਦਾ ਪੜਾਅ (ਵਿੱਤ-ਤਿ ਤੋਂ) | [25](/pa/lektionen/lektion25#_25-5-) |
 | ⟪वृध्⟫ | [vṛdh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛdh&filter=roman&accent=no&transLit=roman) | 1Ā | ਵਧਣਾ, ਵੱਡਾ ਹੋਣਾ | [25](/pa/lektionen/lektion25#_25-5-) |
 | ⟪वृष्⟫ | [vṛṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛṣ&filter=roman&accent=no&transLit=roman) | 1P | ਵਰ੍ਹਨਾ (ਆਮ ਤੌਰ 'ਤੇ ਇੱਕ -- ਇੱਕ ਦੇਵਤਾ ਜਾਂ ਬੱਦਲ) ਨਾਲ | [50](/pa/lektionen/lektion50#_50-2-) |
-| ⟪वेष⟫ | [veṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=veṣa&filter=roman&accent=no&transLit=roman) | m | ਕੱਪੜਾ, ਦਿੱਖ, ਬਾਹਰੀ ਰੂਪ | [49](/pa/lektionen/lektion49#_49-4-) |
+| ⟪वेष⟫ | [veṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=veṣa&filter=roman&accent=no&transLit=roman) | m | ਕੱਪੜਾ, ਦਿੱਖ, ਬਾਹਰੀ ਰੂਪ <!-- TODO: Fallback translation --> | [49](/pa/lektionen/lektion49#_49-4-) |
 | ⟪वै⟫ | [vai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vai&filter=roman&accent=no&transLit=roman) | — | ਪਾਰਟੀਕਲ, ਜੋ ਪਿਛਲੇ ਸ਼ਬਦ ਨੂੰ ਜ਼ੋਰ ਦਿੰਦਾ ਹੈ: ਸੱਚਮੁੱਚ, ਸੱਚ, ਪਰ | [50](/pa/lektionen/lektion50#_50-2-) |
 | ⟪वैश्य⟫ | [vaiśya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśya&filter=roman&accent=no&transLit=roman) | m | ਵੈਸ਼ (ਪਾਲਣ-ਪੋਸ਼ਣ ਅਤੇ ਵਪਾਰ ਵਰਗ)। | [2](/pa/lektionen/lektion02#_2-5-) |
 | ⟪वैश्या⟫ | [vaiśyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśyā&filter=roman&accent=no&transLit=roman) | f | ਮਾਦਾ Vaiśya | [3](/pa/lektionen/lektion03#_3-6-) |
@@ -769,7 +767,7 @@ outline: 2
 | ⟪शिशु⟫ | [śiśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiśu&filter=roman&accent=no&transLit=roman) | m | ਬੱਚਾ, ਬੱਚਾ | [49](/pa/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | [śiṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣ&filter=roman&accent=no&transLit=roman) | 7P | ਛੱਡ ਦਿੱਤਾ, ਬਾਕੀ ਛੱਡਣਾ | [51](/pa/lektionen/lektion51#_51-6-) |
 | ⟪शिष्य⟫ | [śiṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣya&filter=roman&accent=no&transLit=roman) | 3 | ਸਿਖਲਾਈ ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲਾ = ਵਿਦਿਆਰਥੀ | [41](/pa/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | ਪੈਣਾ ਇਹ ਧਾਤੂ ਸਾਰੇ ਵਰਤਮਾਨ ਕਾਲ ਦੇ ਸ਼ਬਦਮੰਡਲ ਵਿੱਚ ਉੱਚ ਸਥਿਤੀ: 1.ਇਕ.ਸੰ.ਵਰਤਮਾਨ.Ā (śe + e) ਹੈ ਹੇਠ ਲਿਖੇ ਰੂਪ ਵਿਸ਼ੇਸ਼ ਤੌਰ 'ਤੇ ਧਿਆਨ  | [44](/pa/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | ਪੈਣਾ ਇਹ ਧਾਤੂ ਸਾਰੇ ਵਰਤਮਾਨ ਕਾਲ ਦੇ ਸ਼ਬਦਮੰਡਲ ਵਿੱਚ ਉੱਚ ਸਥਿਤੀ: 1.ਇਕ.ਸੰ.ਵਰਤਮਾਨ.Ā :sig[] (śe + e) ਹੈ ਹੇਠ ਲਿਖੇ ਰੂਪ ਵਿਸ਼ੇਸ਼ ਤੌਰ 'ਤ | [44](/pa/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīghra&filter=roman&accent=no&transLit=roman) | 3 | ਤੇਜ਼, ਜਲਦੀ | [43](/pa/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīla&filter=roman&accent=no&transLit=roman) | n | ਰਿਵਾਜ, ਅਦਾ, ਕੁਦਰਤ, ਸੁਭਾਅ, ਚੰਗੀ ਅਦਾ = ਨੈਤਿਕਤਾ | [52](/pa/lektionen/lektion52#_52-7-) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | ਚਮਕਦਾ, ਚਮਕਦਾ, ਸੂਖਮ ; ਸ਼ੁੱਧਤਾ | [29](/pa/lektionen/lektion29#_29-2-) |
@@ -783,7 +781,7 @@ outline: 2
 | ⟪शोक⟫ | [śoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śoka&filter=roman&accent=no&transLit=roman) | m | ਦੁੱਖ, ਗਮ | [38](/pa/lektionen/lektion38#_38-9-) |
 | ⟪शोभन⟫ | [śobhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śobhana&filter=roman&accent=no&transLit=roman) | 3 | ਚਮਕਦਾਰ, ਸ਼ਾਨਦਾਰ, ਭਵ્ય, ਸੁੰਦਰ, ਚੰਗਾ | [18](/pa/lektionen/lektion18#_18-4-) |
 | ⟪शौच⟫ | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śauca&filter=roman&accent=no&transLit=roman) | n | ਸ਼ੁੱਧਤਾ, ਪਵਿੱਤਰਤਾ | [16](/pa/lektionen/lektion16#_16-2-) |
-| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | ਥੱਕਣਾ, ਥੱਕ ਜਾਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : ਥੱਕਣਾ, ਥੱਕ ਜਾਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | ਟਿਕਣਾ, ਟਿਕਾਉਣਾ, ਸਹਾਰਾ ਪ੍ਰਾਪਤ ਕਰਨਾ, ਕਿਸੇ ਕੋਲ ਜਾਣਾ (, ) | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | ਸੁਣਨਾ, ਸ਼ਾਸ਼ਵਤ ਪਰੰਪਰਾ (ਵੇਦਾਂ ਅਤੇ ਬ੍ਰਾਹਮਣਾਂ ਦਾ ਸੰਕੇਤ) | [3](/pa/lektionen/lektion03#_3-6-) |
 | ⟪श्रेष्ठिन्⟫ | [śreṣṭhin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śreṣṭhin&filter=roman&accent=no&transLit=roman) | m | ਅਮੀਰ ਵਪਾਰੀ | [43](/pa/lektionen/lektion43#_43-4-) |
@@ -804,10 +802,10 @@ outline: 2
 | ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | m | ਚਿਪਕਣਾ, ਸੰਪਰਕ () | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | — | (- ਸ਼ਬਦ ਤੋਂ: ਇਕੱਠੇ-ਮਾਰਨਾ): ਟੋਲੀ, ਭੀੜ, ਸੰਗਠਨ (ਜਿਵੇਂ ਬੌਧਿਕ) | [41](/pa/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | ਲਟਕਣਾ, ਚਿਪਕਣਾ | [48](/pa/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | ਚਿਪਕਣਾ, ਚਿਪਕਣਾ () | [46](/pa/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : ਚਿਪਕਣਾ, ਚਿਪਕਣਾ () | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | ਤੇਜ਼, ਜਲਦੀ | [43](/pa/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | ਬੈਠਣਾ, ਆਰਾਮ ਕਰਨਾ | [20](/pa/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | ਹੇਠਾਂ ਬੈਠਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : ਹੇਠਾਂ ਬੈਠਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪सनातन⟫ | [sanātana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sanātana&filter=roman&accent=no&transLit=roman) | — |  ਸਦੀਵੀ, ਅਮਰ, ਸਥਿਰ | [30](/pa/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | ਬਰਾਬਰ, ਸਮਾਨ, ਸਮਾਨ (ਉਪਕਰਣ ਵਿਭਕਤੀ ਨਾਲ) | [18](/pa/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | ਬਰਾਬਰ, ਠੀਕ, ਸਮਾਨ | [46](/pa/lektionen/lektion46#_46-2-) |
@@ -869,7 +867,6 @@ outline: 2
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | 2P | ਪਿੱਛੇ ਮਾਰਨਾ | [44](/pa/lektionen/lektion44#_44-5-) |
 | ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | ਛਿਣਦਾ; : ਵਿਨਾਸ਼ਕ = ਸ਼ਿਵ ਦਾ ਉਪਨਾਮ | [27](/pa/lektionen/lektion27#_27-5-) |
 | ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | ਬਲਾਂਦਾ, ਪੀਲਾ, ਹਰਾ; ਵਿਸ਼ਣੁ ਦਾ ਉਪਨਾਮ ( 1 ਮੂਲ ਨਾਲ ਸਬੰਧਤ ਨਹੀਂ ਹੈ) | [27](/pa/lektionen/lektion27#_27-5-) |
-| ⟪हरिष्यति⟫ | ਭਵਿੱਖ: | — | brਪਾਸ: :brPPP: :brਅਨੰਤ | [27](/pa/lektionen/lektion27#_27-5-) |
 | ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | ਵਿਸ਼ਣੁ ਅਤੇ ਸ਼ਿਵ ਇੱਕ ਹੀ ਦੇਵਤਾ ਵਜੋਂ ਮਿਲੇ ਹੋਏ | [27](/pa/lektionen/lektion27#_27-5-) |
 | ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | m | (ਸਰੀਰ ਦੇ ਵਾਲ ਖੜ੍ਹੇ ਕਰਨਾ), ਖੁਸ਼ੀ | [25](/pa/lektionen/lektion25#_25-5-) |
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | — | ਹੱਥ | [18](/pa/lektionen/lektion18#_18-4-) |

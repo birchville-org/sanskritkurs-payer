@@ -104,7 +104,7 @@ A) Solvite sequentia composita in Sanscrito et date propositiones versionis:
 
 ⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪।⟫ ⟪सिंहस्य⟫ ⟪संहननम्⟫ ⟪।⟫ — leo interficere / plures leones, per unum / plures leones interfici
 
-⟪६⟫. ⟪अरिसिंह⟫ m. ⟪।⟫ ⟪सिंह⟫ ⟪इव⟫ ⟪अरिः⟫ ⟪।⟫ — hostis leonis similis
+⟪६⟫. ⟪अरिसिंह⟫ m. ⟪।⟫ ⟪सिंह⟫ ⟪इव⟫ ⟪अरिः⟫ ⟪।⟫ — hostis leonis similis <!-- TODO: Fallback translation -->
 
 ⟪७⟫. ⟪आहारनिद्राभय⟫ n. ⟪।⟫ ⟪आहारो⟫ ⟪निद्रा⟫ ⟪भयं⟫ ⟪च⟫ ⟪।⟫ — cibus, somnus et timor
 

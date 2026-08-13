@@ -199,7 +199,7 @@ lesson_id: 53
 **Θέματα σε -a**
 
 ⟪देव⟫ m. "Gott"  
-⟪फल⟫ n. "Frucht"
+⟪फल⟫ n. "Frucht" <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
@@ -217,7 +217,7 @@ Abb.: ⟪फले⟫
 
 ⟪अग्नि⟫ m. "Feuer"  
 ⟪वारि⟫ n. "Wasser"  
-⟪मति⟫ f. "Gedanke"
+⟪मति⟫ f. "Gedanke" <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
@@ -376,7 +376,7 @@ Fig.: :sig[⟪धेनू⟫]
 
 **Deklination von -īyas siehe unten.**
 :::
-παραδείγματα:
+παραδείγματα: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | ῥίζα | ἐπίθετον | συγκριτικόν | ὑπερθετικόν |
@@ -456,7 +456,7 @@ Fig.: :sig[⟪धेनू⟫]
 | (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Κλίσις τῶν συγκριτικῶν εἰς -īyas
+## 53.9. Κλίσις τῶν συγκριτικῶν εἰς -īyas <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Οἱ συγκριτικοὶ ἐπὶ -īyas σχηματίζουσι τὸ θηλυκὸν ἐπὶ -īyasī (πτῶσις ὡς ⟪देवी⟫). Τὸ ἀρσενικὸν καὶ τὸ οὐδέτερον πτῶται κατὰ τὴν ἑπομένην παράδειγμα.**
@@ -490,9 +490,11 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 
 Τὸ μέτρον τῶν λόγων διὰ τοὺς ἑξῆς λόγους σπουδαίον ἐστιν·
 
-1.  **Αἰσθητικόν:** τὸ μέτρον ποιητικὴν ὁμοίως καλλιεργεῖ τὴν φράσιν. Ἐπὶ πλεόνων μέτρων ἐστίν, ὅπως τινὰς παθήσεις δηλώσωσι, ἢ καὶ πρὸς τινὰς τάξεις (⟪वर्ण⟫) ἀναφέρεσθαι. Τὰ μέτρα ἕκαστα κατ’ ἀλλήλους ἐπαναλαμβάνεται. :br Ἐνδεικτικὸν τῆς αἰσθητικῆς ἐνεργείας ὁ τῶν ⟪शिवताण्डवस्तोत्र⟫ (ἐπαινετικὸς λόγος τοῦ Σίβα χοροῦ) ἐπαναληπτικὸς τρόπος· [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Αἰσθητικόν:** τὸ μέτρον ποιητικὴν ὁμοίως καλλιεργεῖ τὴν φράσιν. Ἐπὶ πλεόνων μέτρων ἐστίν, ὅπως τινὰς παθήσεις δηλώσωσι, ἢ καὶ πρὸς τινὰς τάξεις (⟪वर्ण⟫) ἀναφέρεσθαι. Τὰ μέτρα ἕκαστα κατ’ ἀλλήλους ἐπαναλαμβάνεται.
+Ἐνδεικτικὸν τῆς αἰσθητικῆς ἐνεργείας ὁ τῶν ⟪शिवताण्डवस्तोत्र⟫ (ἐπαινετικὸς λόγος τοῦ Σίβα χοροῦ) ἐπαναληπτικὸς τρόπος· [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Κριτικόν:** τὰ ἐν τῷ μέτρῳ λάθη ἴχνη εἶναι δύνανται, ὅτι τὸ κείμενον ἐν τινὶ τόπῳ οὐκ ὀρθῶς παραδόθη. Τὸ μέτρον βοηθεῖ τὰς κειμενικὰς βελτιώσεις ποιεῖν.
-3.  **Χρονικόν:** τινὰ μέτρα δι’ ἱστορίας μεταβολάς τινας ἐπῆλθον. Το�το δύνανται τὴν ἀκριβῆ χρονολόγησιν τοῦ κειμένου βοηθεῖν. Ἰδὲ **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+3.  **Χρονικόν:** τινὰ μέτρα δι’ ἱστορίας μεταβολάς τινας ἐπῆλθον. Το�το δύνανται τὴν ἀκριβῆ χρονολόγησιν τοῦ κειμένου βοηθεῖν. Ἰδὲ **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in:
+**Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -544,7 +546,7 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 *   οὐδὲ ὀξύς,
 *   δύο σύμφοροι οὐκ ἀκολουθοῦσιν.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
 
 **Πᾶσαι δά ἄλλαι συλλαβαὶ εἰσιν ⟪गुरु⟫ = βαρεῖαι. ἡ τελευταία συλλαβὴ τοῦ τετάρτου τοῦ στίχου (⟪पाद⟫) ἀεὶ ἡγεῖται εἶναι ⟪गुरु⟫.**
 

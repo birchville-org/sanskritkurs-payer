@@ -7,18 +7,18 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 1
+# 第1課
 
 ::: center
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
-Verehrung des Gaṇeśa <!-- TODO: Fallback translation -->
+敬禮象頭神（Gaṇeśa）
 :::
 
 ::: media
 ![](/images/lekt0102.webp)
-Abb.: Gaṇeśa, Adamspeak, Sri Lanka
-(Bildquelle: [Details](/licenses#lekt0102)) <!-- TODO: Fallback translation -->
+圖：象頭神（Gaṇeśa），亞當峰，斯里蘭卡
+（圖片來源：[詳情](/licenses#lekt0102)）
 :::
 
 ::: center
@@ -30,24 +30,24 @@ Abb.: Gaṇeśa, Adamspeak, Sri Lanka
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
 nirvighnaṃ kuru me deva
-sarvakāryeṣu sarvadā |** <!-- TODO: Fallback translation -->
+sarvakāryeṣu sarvadā |**
 
-Du Hängebauch, Du Naschkatze,
-Stets sei Dir Verehrung!
-Gott, mache all meine Unternehmungen
-Frei von Hindernissen! <!-- TODO: Fallback translation -->
+你這大腹便便、貪吃懶做的傢伙，
+願你永遠受到敬仰！
+神明啊，請使我的所有事業
+免除一切障礙！
 :::
 
 ::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
-"Glückbringender Anfang" <!-- TODO: Fallback translation -->
+「吉祥的開端」
 :::
 
 ::: media
 ![](/images/lekt0101.webp)
-Abb.: Ardhanarīśvara
-(Bildquelle: [Details](/licenses#lekt0101)) <!-- TODO: Fallback translation -->
+圖： Ardhanarīśvara（半女自在天）
+（圖片來源：[詳情](/licenses#lekt0101)）
 :::
 
 ::: center
@@ -59,129 +59,129 @@ Abb.: Ardhanarīśvara
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
 jagataḥ pitarau vande
-pārvatīparameśvarau |** <!-- TODO: Fallback translation -->
+pārvatīparameśvarau |**
 
-(Kālidāsa: Raghuvaṃśa 1.1) <!-- TODO: Fallback translation -->
+（迦梨陀娑：《王朝世系》1.1）
 
-Ich grüße die Eltern der Welt,
-Pārvatī und Śiva,
-Die so fest miteinander verbunden sind
-Wie Wort und Sinn zum Verständnis
-Des Wortsinns. <!-- TODO: Fallback translation -->
+我向世界的雙親致敬，
+帕爾瓦蒂與濕婆，
+他們彼此緊密相連，
+如同語音與意義對於理解
+詞義。
 :::
 
-Zu Beginn ein Kuriosum: <!-- TODO: Fallback translation -->
+開頭有一個奇觀：
 
->"Als William Jones [1746–1794] und Henry Thomas Colebrooke (1765—1857) das Sanskrit erstmalig gründlich studiert, teilweise übersetzt und gefunden hatten, dass es eine reiche Literatur und nicht geringe Verwandtschaft mit den klassischen Sprachen aufwies, stießen sie auf nicht geringen Widerstand. Da sich mit dieser innigen Beziehung des Sanskrits zu den geographisch so weit entlegenen europäischen Sprachen die alten Anschauungen, welche entweder alle Sprachen aus dem Hebräischen ableiteten oder größtenteils von einander isolierten, nicht in Einklang bringen lassen, so ergriff der berühmte Philologe Dugald Steward (1753—1828) den einfachsten Ausweg, indem er die ganze Geschichte mit der Sanskritsprache für eine Lüge erklärte. Er schrieb einen Essay, in dem er zu beweisen suchte, dass sie von den spitzbübischen Brahmanen nach dem Muster des Griechischen und Lateinischen zusammengeschmiedet sei und die Sprache sowohl als auch die Literatur eine Fälschung seien. Diese Ansicht entwickelte noch im Jahre 1840 der Professor in Dublin, Charles William Wall, weitläufig (Göttingische gelehrte Anzeigen 1842 S. 1888)." <!-- TODO: Fallback translation -->
-><!-- TODO: Fallback translation -->
->[Quelle: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+>「當威廉·瓊斯（1746–1794）與亨利·托馬斯·科爾布魯克（1765–1857）首次對梵語進行嚴謹研究、部分翻譯，並發現其擁有豐富的文學且與古典語言存在顯著親緣關係時，他們遭遇了強烈的反對。由於梵語與地理上如此遙遠的歐洲語言之間存在這種緊密關係，無法與當時流行的觀點——即所有語言均源自希伯來語或彼此完全孤立——相協調，因此著名學者杜加爾德·斯圖亞德（1753–1828）採取了最簡單的解決方式，他將整個梵語歷史宣稱為謊言。他撰寫了一篇論文，試圖證明該語言是由狡詐的婆羅門模仿希臘語和拉丁語編造而成，其語言與文學均為偽作。都柏林的查爾斯·威廉·沃爾教授在1840年進一步詳細闡述了這一觀點（《哥廷根學術通報》1842年，第1888頁）。」
+>
+>[來源：**Kemmerich**，Max \<1876-1932\>：《文化奇聞》。——慕尼黑：Langen。——第2卷。——1923年。——第74頁。——線上版：[http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft)。——訪問日期：2010-01-10]
 
 ## 1.1. Literatur für Anfänger in Indologie
 
 ::: media
 ![](/images/lekt0103.webp)
-Abb.: Einbandtitel einer Taschenbuchausgabe
-(Bildquelle: [Details](/licenses#lekt0103)) <!-- TODO: Fallback translation -->
+圖：平裝本封面標題
+（圖片來源：[詳細資訊](/licenses#lekt0103)）
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Teil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie. <!-- TODO: Fallback translation -->
+>**巴沙姆（Basham），A. L.**（Arthur Llewellyn）\<1914-1986\> _The wonder that was India_ 部分：A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- 倫敦：Sidgwick & Jackson，1954。--此後多次再版，亦有多種平裝本。**必讀**。關於穆斯林來臨前印度次大陸的生活、歷史與文化的良好概覽。全面概述古典印度學的各個領域。
 
 ::: media
 ![](/images/lekt0104.webp)
-Abb.: Titelblatt
-(Bildquelle: [Details](/licenses#lekt0104)) <!-- TODO: Fallback translation -->
+圖：書名頁
+（圖片來源：[詳細資訊](/licenses#lekt0104)）
 :::
 
-**Beste systematische Grammatik** <!-- TODO: Fallback translation -->
+**最佳系統性文法**
 
-> **Kielhorn**, Franz \<1840-1908\>: Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+> **Kielhorn**，Franz \<1840-1908\>：《梵語文法》／由 W. Solf [1862 - 1936] 從英文翻譯。-- 柏林：Dümmler，1888。-- XIII, 238 頁。-- 原名：A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
-Abb.: Umschlagtitel
-(Bildquelle: [Details](/licenses#lekt0105)) <!-- TODO: Fallback translation -->
+圖：書名頁封面
+（圖片來源：[詳情](/licenses#lekt0105)）
 :::
 
-**Gute systematische Grammatik auf der Grundlage der einheimischen Grammatiker und zugleich eine Einführung in Pāṇini:** <!-- TODO: Fallback translation -->
+**基於本土語法學家且同時作為帕坦伽利（Pāṇini）導論的良好系統性文法：**
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm. <!-- TODO: Fallback translation -->
+> **Kunnappally, John**：《Prakriyā bhāshyam ：梵語文法》／最初以马拉雅拉姆语（Malayalam）撰寫。由 K.V.R. Pai 翻譯為英文。-- Parathode ：自費出版，1983。-- 818 頁；23 公分。
 
 ::: media
 ![](/images/lekt0107.jpg)
-Abb.: Einbandtitel
-(Bildquelle: [Details](/licenses#lekt0107)) <!-- TODO: Fallback translation -->
+圖：書名頁
+（圖片來源：[詳情](/licenses#lekt0107)）
 :::
 
-Eine gute, knappe Darstellung der europäischen sprachwissenschaftlichen Terminologie findet man in: <!-- TODO: Fallback translation -->
+關於歐洲語言學術語的精簡且良好的闡述，可參考：
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \<1856 - 1926\>. Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+> **德語詞源辭典** / [弗里德里希] 克魯格 \<1856 - 1926\>. 由埃爾馬爾·塞博爾德編纂. -- 第24版，修訂並擴充版. -- 柏林 [等.] : de Gruyter, 2002. - LXXXIX, 1023頁 : 24公分. -- ISBN 3-11-017473-1 平裝本. -- 第XIII - XLVII頁.
 
 ::: media
 ![](/images/lekt0108.jpg)
-Abb.: Umschlagtitel
-(Bildquelle: [Details](/licenses#lekt0108)) <!-- TODO: Fallback translation -->
+圖：封面標題
+（圖片來源：[詳情](/licenses#lekt0108)）
 :::
 
-Für Wissbegierige zum Nachschlagen: <!-- TODO: Fallback translation -->
+供求知者查閱：
 
-> **Lexikon der Sprachwissenschaft** / hrsg. von Hadumod Bußmann. -- 4., durchges. und bibliogr. erg. Aufl. / unter Mitarb. von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7 <!-- TODO: Fallback translation -->
+> **語言學詞典** / Hadumod Bußmann 主編。-- 第4版，修訂並增補 bibliogr. / Hartmut Lauffer 協作。-- Stuttgart : Kröner, 2008. -- 816頁 ; 22公分。-- ISBN 978-3-520-45204-7
 
 ## 1.2. Die Laute des Sanskrit
 
-Die Laute des Sanskrit nach der traditionellen indischen Klassifikation und ihre wissenschaftliche Umschrift. <!-- TODO: Fallback translation -->
+（圖片來源：[詳情](/licenses#lekt0106)）
 
 ::: media
 ![](/images/lekt0106.webp)
-(Bildquelle: [Details](/licenses#lekt0106)) <!-- TODO: Fallback translation -->
+現代的梵語詞典皆依此分類順序編排。理解梵語文法必須掌握此分類與音素順序，因此務必熟記：
 :::
-Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation und die Reihenfolge der Laute ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden: <!-- TODO: Fallback translation -->
+Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden: <!-- TODO: Fallback translation -->
 
 ::: note-box
 Klassifikation <!-- TODO: Fallback translation -->
-- **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫): <!-- TODO: Fallback translation -->
-  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ <!-- TODO: Fallback translation -->
-- **Diphtonge** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫): <!-- TODO: Fallback translation -->
-  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au <!-- TODO: Fallback translation -->
-- **Konsonanten** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫): <!-- TODO: Fallback translation -->
-  ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
-  ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
-  ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
-  ⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
-  ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
-  ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
-  ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
-  ⟪ह⟫ ha <!-- TODO: Fallback translation -->
+- **單元音**（samānākṣara -- ⟪समानाक्षर⟫）：
+⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+- **雙元音**（sandhyakṣara -- ⟪सन्ध्यक्षर⟫）：
+⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+- **輔音**（vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫）：
+⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+⟪ह⟫ ha
 :::
-### 1.2.1. Zur Aussprache einzelner Laute
+### 1.2.1. 個別音素的發音說明
 
 ::: laut-table
-| Laut | Beschreibung |
+| 音素 | 說明 |
 | :--- | :--- |
-| **a - ⟪अ⟫** | "kurzes a" wird bei den Indern -- schon seit alter Zeit -- oft wie ə ausgesprochen. In Europa spricht man es als kurzes a, in Bengalen als kurzes dunkles o. |
-| **ṛ - ⟪ऋ⟫** | wie böhmisches vokalisiertes r. Leichter Nachklang von i. |
-| **ṝ - ⟪ॠ⟫** | wie böhmisches vokalisiertes r. Leichter Nachklang von u. |
-| **jñ - ⟪ज्ञ्⟫** | auch wie dny (Marāṭhī) oder gy (Nordindisch). |
-| **ś - ⟪श्⟫** | sch-Laut mit nach unten gebogener Zungenspitze. Ähnlich wie sch in "mischen". |
-| **ṣ - ⟪ष्⟫** | ach-Laut mit zurückgebogener Zungenspitze. Öfters so weit hinten im Rachen artikuliert, dass es fast wie kh klingt. |
-| **h - ⟪ह्⟫** | Hauchlaut, nie Dehnungszeichen. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
-| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
+| **a - ⟪अ⟫** | 「短 a」在印度——自古以來——常被發音為 ə。在歐洲，人們將其發音為短 a；在孟加拉地區，則發音為短而暗的 o。 |
+| **ṛ - ⟪ऋ⟫** | 類似捷克語中元音化的 r。帶有輕微的 i 餘韻。 |
+| **ṝ - ⟪ॠ⟫** | 類似捷克語中元音化的 r。帶有輕微的 u 餘韻。 |
+| **jñ - ⟪ज्ञ्⟫** | 也可發音為 dny（馬拉地語）或 gy（北印度）。 |
+| **ś - ⟪श्⟫** | 舌尖向下彎曲的 sch 音。類似「mischen」中的 sch。 |
+| **ṣ - ⟪ष्⟫** | 舌尖向後彎曲的 ach 音。有時在喉嚨深處發音，聽起來幾乎像 kh。 |
+| **h - ⟪ह्⟫** | 氣音，絕非長音符號。 |
+| **ḥ - :** | **Visarga（Visarjanīya）** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫。無聲氣音，帶有前一個元音或前一個雙元音第二部分的餘韻：agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
+| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫。在咝音、h、l 之前：元音鼻化。在字尾 = m。在字中輔音前：對應於後接輔音的鼻音：saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
-Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest. <!-- TODO: Fallback translation -->
+若要達到最佳的發音，應以相當緩慢且平穩的語調朗讀句子、詩句或詞彙，並精確注意元音的長度。
 
 ## 1.3. 练习
 
-**A) Lesen Sie folgende Worte:** <!-- TODO: Fallback translation -->
+**A) 請朗讀以下詞彙：**
 
-1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫ <!-- TODO: Fallback translation -->
-2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫ <!-- TODO: Fallback translation -->
-3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम⟫ ⟪ब्राह्मचारिन्⟫ ⟪गृहस्थ⟫ ⟪वानप्रस्थ⟫ ⟪संन्यासिन्⟫ <!-- TODO: Fallback translation -->
-4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद⟫ ⟪सामवेद⟫ ⟪यजुर्वेद⟫ ⟪अथर्ववेद⟫ <!-- TODO: Fallback translation -->
-5. upaniṣad — ⟪उपनिषद्⟫ <!-- TODO: Fallback translation -->
-6. jaina bauddha — ⟪जैन⟫ ⟪बौद्ध⟫ <!-- TODO: Fallback translation -->
-7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫ <!-- TODO: Fallback translation -->
-8. cakra vajra — ⟪चक्र⟫ ⟪वज्र⟫ <!-- TODO: Fallback translation -->
-9. pitṝn — ⟪पितॄन्⟫ <!-- TODO: Fallback translation -->
-10. saṃskṛta — ⟪संस्कृत⟫ <!-- TODO: Fallback translation -->
+1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
+2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫
+3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम⟫ ⟪ब्राह्मचारिन्⟫ ⟪गृहस्थ⟫ ⟪वानप्रस्थ⟫ ⟪संन्यासिन्⟫
+4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद⟫ ⟪सामवेद⟫ ⟪यजुर्वेद⟫ ⟪अथर्ववेद⟫
+5. upaniṣad — ⟪उपनिषद्⟫
+6. jaina bauddha — ⟪जैन⟫ ⟪बौद्ध⟫
+7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫
+8. cakra vajra — ⟪चक्र⟫ ⟪वज्र⟫
+9. pitṝn — ⟪पितॄन्⟫
+10. saṃskṛta — ⟪संस्कृत⟫
 
-**B) Lesen Sie die Sanskrit-Ausdrücke in der Lautklassifikation oben.** <!-- TODO: Fallback translation -->
+**B) 請朗讀上述音類分類中的梵文詞彙。**

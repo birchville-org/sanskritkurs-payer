@@ -63,9 +63,9 @@ status: stable
 ::: grammar-box
 คำสั่งสร้างจาก Präsensstamm
 :::
-## 47.2. การสร้างคำสั่ง (⟪लोट्⟫) Präsensstamm แบบ thematischer
+## 47.2. การสร้างคำสั่ง (⟪लोट्⟫) Präsensstamm แบบ thematischer <!-- TODO: Fallback translation -->
 
-### 47.2.1. Endings ของคำสั่งใน Präsensstamm แบบ thematischer
+### 47.2.1. Endings ของคำสั่งใน Präsensstamm แบบ thematischer <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||

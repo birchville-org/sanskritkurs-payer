@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. ماضی نقلی نوع اول: بدون درجه‌بندی پایه
+### ۴۶.۱.۳. ماضی نقلی نوع اول: بدون درجه‌بندی پایه <!-- TODO: Fallback translation -->
 
 افعالی که از این نوع پیروی می‌کنند:
 
@@ -163,9 +163,9 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪ददाथ⟫:br⟪ददिथ⟫:brda-di-tha:broder::brda-d-i-tha | ⟪दद⟫ | ⟪ददिषे⟫ | ⟪ददिध्वे⟫ |
+| ⟪ददाथ⟫:br⟪ददिथ⟫:برda-di-tha:broder::brda-d-i-tha | ⟪दद⟫ | ⟪ददिषे⟫ | ⟪ददिध्वे⟫ |
 :::
-⟪गै⟫ 1P
+⟪गै⟫ ۱P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -252,7 +252,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
-#### 46.1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e- <!-- TODO: Fallback translation -->
+#### ۴۶.۱.۷.۲. نوع پنجم کامل (پرfect): همخوان-الفبای همخوان، آغازگر گوتورال نباشد، اسپیرانت نباشد، h نباشد، بن ضعیف بدون تکرار (ردوپلیکیشن)، با -e-
 
 ::: grammar-box
 صیغه دوم شخص مفرد از ساقه ضعیف تشکیل می‌شود، اگر واکه اتصال -i- اضافه شود.
@@ -263,9 +263,9 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
+| ⟪पपक्थ⟩:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
-#### 46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
+#### ۴۶.۱.۷.۳. نوع پنجم کامل: همخوان-آ-همخوان، بن ضعیف در سطح بالا
 
 افعالی که از این الگو پیروی می‌کنند:
 
@@ -580,7 +580,7 @@ PPP ⟪परिभूत⟫ ۳: شکست‌خورده، تحقیرشده، ذل
 تصویر: [⟪भोः⟫](/licenses#lekt4611)
 (منبع تصویر: [جزئیات](/licenses#lekt4611))
 :::
-## 46.3. Übung <!-- TODO: Fallback translation -->
+## ۴۶.۳. تمرین
 
 الف) اشکال زیر را تعیین و ترجمه کنید:
 

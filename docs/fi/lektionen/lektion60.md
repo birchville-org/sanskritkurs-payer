@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 60
+# Oppitunti 60 <!-- TODO: Fallback translation -->
 
 ## 60.1. duaaliin imperfektin pääte (⟪द्विवचनम्⟫)
 
@@ -17,9 +17,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | \-athur | \-āthe |
 | 3\. ⟪प्रथमः⟫ | \-atur | \-āte |
 
-## 60.2. Punainen toistuvan perfektin muoto (⟪द्वित्वलिट्⟫)
+## 60.2. Punainen toistuvan perfektin muoto (⟪द्वित्वलिट्⟫) <!-- TODO: Fallback translation -->
 
-### 60.2.1. Tyyppi 1: ei vartalon astevaihtelua
+### 60.2.1. Tyyppi 1: ei vartalon astevaihtelua <!-- TODO: Fallback translation -->
 
 ⟪बन्ध्⟫ 9P "sitominen"
 
@@ -39,7 +39,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
 :::
-### 60.2.2. Tyyppi 2: vahva vartalo korkeatasoinen, heikko vartalo matalatasoinen
+### 60.2.2. Tyyppi 2: vahva vartalo korkeatasoinen, heikko vartalo matalatasoinen <!-- TODO: Fallback translation -->
 
 ⟪भिद्⟫ 7U "halkeilla"
 
@@ -52,7 +52,7 @@ status: stable
 :::
 ### 60.2.3. Tyyppi 3: Vahva vartalo korkeatasoinen/pitennystaso
 
-#### 60.2.3.1. Tyyppi 3a: Vahva vartalo korkeatasoinen/pitennystaso, heikko vartalo matalatasoinen
+#### 60.2.3.1. Tyyppi 3a: Vahva vartalo korkeatasoinen/pitennystaso, heikko vartalo matalatasoinen <!-- TODO: Fallback translation -->
 
 ⟪नी⟫ 1U "johtaa"
 
@@ -105,9 +105,9 @@ status: stable
 
 \* identtinen vastaavien indikatiivin preesensin muotojen kanssa!
 :::
-### 60.2.5. Tyyppi 5: Konsonantti-a-Konsonantti
+### 60.2.5. Tyyppi 5: Konsonantti-a-Konsonantti <!-- TODO: Fallback translation -->
 
-#### 60.2.5.1. Tyyppi 5a: Konsonantti-a-Konsonantti, heikko vartalo syväaste
+#### 60.2.5.1. Tyyppi 5a: Konsonantti-a-Konsonantti, heikko vartalo syväaste <!-- TODO: Fallback translation -->
 
 ⟪गम्⟫ 1U "mennä"
 
@@ -118,7 +118,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
 :::
-#### 60.2.5.2. Tyyppi 5b: Konsonantti-a-Konsonantti, alkonsonantti ei gutturaali, aspiratta tai h, heikko vartalo ilman reduplikaatiota, -e-:lla
+#### 60.2.5.2. Tyyppi 5b: Konsonantti-a-Konsonantti, alkonsonantti ei gutturaali, aspiratta tai h, heikko vartalo ilman reduplikaatiota, -e-:lla <!-- TODO: Fallback translation -->
 
 ⟪पच्⟫ 1U "asua"
 
@@ -169,14 +169,14 @@ status: stable
 
 **Jos heikko perfektivipääte koostuu vain yhdestä tavusta, liitevokaali -i- lisätään. Joissakin perfektivimuodoissa liitevokaali on valinnainen.**
 :::
-Esimerkit:
+Esimerkit: <!-- TODO: Fallback translation -->
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "joku, joka on halunnut" |
 | --- | --- |
 | ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "joku, joka on ollut" ; "joku, joka on heittänyt" |
 | ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "joku, joka on antanut" |
 | ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "joku, joka on keittänyt" |
-| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "joku, joka on mennyt" |
+| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "joku, joka on mennyt" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Taivutus:**
@@ -184,17 +184,17 @@ Esimerkit:
 *   **vahva vartalo: -vāṃs**
 *   **heikko vartalo:**
     *   **konsonantin edellä: -**
-    *   **vor Vokal: -uṣ**
+    *   **vor Vokal: -uṣ** <!-- TODO: Fallback translation -->
 
-**Vor uṣ entfällt der Bindevokal -i-.**
+**Vor uṣ entfällt der Bindevokal -i-.** <!-- TODO: Fallback translation -->
 
 **Feminin:**
 
-**schwacher Vartalo vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
+**schwacher Vartalo vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)** <!-- TODO: Fallback translation -->
 
 Esimerkki: ⟪विदुषी⟫ "tietävä"
 :::
-Paradigmat ks. Kielhorn, Grammatik § 124:
+Paradigmat ks. Kielhorn, Grammatik § 124: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6001.webp)
@@ -205,7 +205,7 @@ Paradigmat ks. Kielhorn, Grammatik § 124:
 ![](/images/lekt6002.webp)
 (Kuv lähde: [Tiedot](/fi/licenses#lekt6002))
 :::
-## 60.5. Vartalojen taivutus vartalopäätteellä -añc (-ac)
+## 60.5. Vartalojen taivutus vartalopäätteellä -añc (-ac) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Vartalopäätteellä -añc/-ac varustetut vartalo ovat yhdistelmiä, jotka muodostuvat prepositioista jne. ja juurivartalosta ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "liikkua".**
@@ -228,11 +228,11 @@ Paradigmat ks. Kielhorn, Grammatik § 124:
 
 **Nainen:**
 
-**heikko vartalo vokaalin edellä + -ī (taivutus kuten ⟪देवी⟫)**
+**heikko vartalo vokaalin edellä + -ī (taivutus kuten ⟪देवी⟫)** <!-- TODO: Fallback translation -->
 
 Esimerkki: ⟪प्रतीची⟫
 :::
-####  Taivutusmallit ks. Kielhorn, Grammatik § 128:
+####  Taivutusmallit ks. Kielhorn, Grammatik § 128: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6003.webp)
@@ -243,7 +243,7 @@ Esimerkki: ⟪प्रतीची⟫
 ![](/images/lekt6004.webp)
 (Kuv lähde: [Tiedot](/fi/licenses#lekt6004))
 :::
-Tähän kuuluvat:
+Tähän kuuluvat: <!-- TODO: Fallback translation -->
 
 *   ⟪प्रत्यञ्च्⟫ 3 "taaksepäin, länteen"
 
@@ -267,10 +267,10 @@ Tähän kuuluvat:
 *   **vahva vartalo: -añc**
 *   **heikko vartalo konsonantin tai vokaalin edellä: -ac**
 :::
-Tähän kuuluvat:
+Tähän kuuluvat: <!-- TODO: Fallback translation -->
 
 *   ⟪प्राञ्च्⟫ 3 "eteenpäin suuntautunut, itäinen"
-*   ⟪अवाञ्च्⟫ 3 "alas suuntautunut"
+*   ⟪अवाञ्च्⟫ 3 "alas suuntautunut" <!-- TODO: Fallback translation -->
 
 Paradigma ⟪प्राञ्च्⟫ ks. yllä!
 
@@ -293,13 +293,13 @@ Pääilmansuunnat
 *   **henkilö tai asia haluaa tehdä tai kärsiä jotakin, mikä ilmaistaan juurimuodolla tai kausatiivilla**
 *   **harvemmin: joku tai jotakin on tekemässä sitä, mikä ilmaistaan juurimuodolla tai kausatiivilla**
 :::
-####  Esimerkkejä:
+####  Esimerkkejä: <!-- TODO: Fallback translation -->
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "hän haluaa tehdä" |
 | --- | --- |
 | ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "hän on laskemassa" |
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "hän haluaa varastaa" |
-| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "hän haluaa opettaa (herättää tietoisuuteen)" |
+| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "hän haluaa opettaa (herättää tietoisuuteen)" | <!-- TODO: Fallback translation -->
 
 ### 60.6.1. Desideratiivivarsan muodostaminen
 
@@ -312,14 +312,14 @@ Pääilmansuunnat
 
 **reduploitujuuri + i + ṣa**
 
-Katso Kielhornin grammatikan sääntöjä liitevokaalin -i- käytöstä kohdista § 443–445.
+Katso Kielhornin grammatikan sääntöjä liitevokaalin -i- käytöstä kohdista § 443–445. <!-- TODO: Fallback translation -->
 
 **Kymmenennen preesensluokan juuret ja kausatiivit:**
 
 **reduplikoitu preesensvartalo + i + ṣa**
 :::
 ::: grammar-box
-**Vartalon muoto:**
+**Vartalon muoto:** <!-- TODO: Fallback translation -->
 
 1.  Juuri on yleensä alapäässä: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
@@ -330,7 +330,7 @@ Katso Kielhornin grammatikan sääntöjä liitevokaalin -i- käytöstä kohdista
     2.  loppupään -ṛ, -ṝ korvataan -īr:llä, labiaalisten jälkeen -ūr:lla, jos konjunktiivista vokaalia ei seuraa:
 ⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "tehdä haluta"  
 ⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "kuoleman partaalla olla"  
-⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "täyttää haluta"
+⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "täyttää haluta" <!-- TODO: Fallback translation -->
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ ja muutamat muut juurin -ā, -e, -o päässä ovat syvän asteen Ø:
 ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -368,25 +368,25 @@ Juureen päättyvän -s:n cerebralisointi i/u:n jälkeen jätetään pois, jos d
 2.  Vokaalilla alkavat juuret reduplikoidaan vastaavien punistuneen aoristin sääntöjen ([Lektion 56](lektion56.md)) mukaisesti:
 ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
 ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-⟪ऋ⟫ » ⟪अरिरिष⟫-
+⟪ऋ⟫ » ⟪अरिरिष⟫- <!-- TODO: Fallback translation -->
 
 3.  Tietyntyyppisten juurten erityinen desideratiivimuoto ks. Kielhorn, Grammatik § 451.
 :::
 ::: grammar-box
 **Joillekin juurille muodostetaan desideratiiveja ilman desideratiivista merkitystä. Näihin desideratiiveihin voidaan muodostaa desideratiiveja, joilla on desideratiivinen merkitys.**
 :::
-Luettelo Kielhorn, Grammatik § 452:
+Luettelo Kielhorn, Grammatik § 452: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6006.webp)
 (Kuv lähde: [Tiedot](/fi/licenses#lekt6006))
 :::
-### 60.6.2. Desideratiivin konjugaatio (⟪सन्⟫)
+### 60.6.2. Desideratiivin konjugaatio (⟪सन्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Desideratiivi on - muutamia poikkeuksia lukuun ottamatta - P, Ā tai U riippuen siitä, onko taustalla oleva juuri (tai verbi) P, Ā vai U.**
 
-**Preesanssivarsi: Taivutus kuin temaatinen vartalo:**
+**Preesanssivarsi: Taivutus kuin temaatinen vartalo:** <!-- TODO: Fallback translation -->
 
 ⟪यज्⟫ 1U:
 
@@ -396,12 +396,12 @@ P: ⟪यियक्षति⟫ "hän toivoo uhraavansa jonkun muun puolesta"
 Ā: ⟪यियक्षते⟫ "hän toivoo uhraavansa itsensä (uhraherran roolissa)"
 Passiivi: ⟪यियक्ष्यते⟫ "toivotaan uhrattavan"
 :::
-**Perfekti: perifeerinen:**
+**Perfekti: perifeerinen:** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "hän toivoi saavansa"
 :::
-**Aorist: iṣ-Aorist:**
+**Aorist: iṣ-Aorist:** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
@@ -415,7 +415,7 @@ Nomien agentis -u:n muodostaminen desideratiivivartalon perusteella ks. [Lektion
 
 ## 60.7. Harjoitus
 
-A) Opette Kielhornin, Grammatik § 451:ssä esitetyt aiemmin opeteltujen verbien epäsäännölliset desideratiivimuodot:
+A) Opette Kielhornin, Grammatik § 451:ssä esitetyt aiemmin opeteltujen verbien epäsäännölliset desideratiivimuodot: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6007.webp)
@@ -431,7 +431,7 @@ A) Opette Kielhornin, Grammatik § 451:ssä esitetyt aiemmin opeteltujen verbien
 ![](/images/lekt6009.webp)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6009))
 :::
-B) Määritä ja käännä seuraavat muodot ilman apuvälineitä:
+B) Määritä ja käännä seuraavat muodot ilman apuvälineitä: <!-- TODO: Fallback translation -->
 
 1.  ⟪ददुषोः⟫
 

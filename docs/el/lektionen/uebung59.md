@@ -25,7 +25,7 @@ last_reconstructed: 2026-05-15
 
 _Βοήθημα μετάφρασης:_ Στίχος 6: ⟪दिदृक्षते⟫ \= Desiderativ του ⟪दृश्⟫
 
-Κείμενο από: Otto Böhtlingk: Sanskrit-Chrestomathie σ. 127κ.ε.
+Κείμενο από: Otto Böhtlingk: Sanskrit-Chrestomathie σ. 127κ.ε. <!-- TODO: Fallback translation -->
 
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫

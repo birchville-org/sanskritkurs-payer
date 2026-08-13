@@ -198,7 +198,7 @@ Speyer, Jacob S. (Jacob Samuel) <1849-1913>: Sanskrit sytax. -- Leyden : Brill, 
 Fig.: ⟪अलं⟫  ⟪विषादेन⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫
+## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪स्म⟫ enfatiza: "verdadeiramente, de facto, certamente, precisamente"**

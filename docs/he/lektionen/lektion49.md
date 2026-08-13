@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # שיעור 49
 
@@ -245,7 +245,7 @@ Gerundiv: ⟪क्षेप्य⟫
 :::
 ⟪वर⟫ m.n.: חפץ
 
-⟪उत⟫ Indekl.: ו, גם, או
+⟪उत⟫ Indekl.: ו, גם, או <!-- TODO: Fallback translation -->
 
 ⟪विहंग⟫ m.: ציפור ("הנכנס ל⟪स्⟫חלום - ⟪विह⟫ -")
 
@@ -376,7 +376,7 @@ PPP ⟪ध्यात⟫
 
 **lekt4907:** [מקור התמונה: ראגש וסודבאן. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- נגיש ב־10 בינואר 2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
 
-**lekt4901:** [מקור התמונה: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- נגיש ב־11 בינואר 2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (ייחוס, ללא עיבוד)]
+**lekt4901:** [מקור התמונה: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- נגיש ב־11 בינואר 2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (ייחוס, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, המאה ה־11. [מקור התמונה: Vassil / ויקיפדיה. רשות ציבורית]
 
@@ -388,9 +388,9 @@ PPP ⟪ध्यात⟫
 
 **lekt4905:** אמריטסר = ਅੰਮ੍ਰਿਤਸਰ [מקור התמונה: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- תאריך גישה: 2009-01-11. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ייחוס)]
 
-**lekt4906:** סרי לנקה [מקור התמונה: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- תאריך גישה: 2009-01-11. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
+**lekt4906:** סרי לנקה [מקור התמונה: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- תאריך גישה: 2009-01-11. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
-**lekt4908:** תוכי אגוז-שזף _= Psittacula cyanocephala_[מקור התמונה: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- תאריך כניסה 2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
+**lekt4908:** תוכי אגוז-שזף _= Psittacula cyanocephala_[מקור התמונה: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- תאריך כניסה 2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, שימוש לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 :::
 

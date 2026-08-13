@@ -607,9 +607,9 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 ::: deleteme-box
 
-**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [Джерело зображення: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Доступ від 2009-01-13. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
+**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [Джерело зображення: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Доступ від 2009-01-13. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)] &lt;!-- TODO: Fallback translation --&gt;
 
-**lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [Джерело зображення: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- Доступ 2009-01-13. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Атрибуція)]
+**lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [Джерело зображення: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- Доступ 2009-01-13. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Атрибуція)] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt5102:** ⟪नेपाल⟫ [Джерело зображення: amanderson2. -- [http://www.flickr.com/photos/amanderson/2420198291/](http://www.flickr.com/photos/amanderson/2420198291/). -- Доступ 2009-01-13. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Атрибуція)]
 

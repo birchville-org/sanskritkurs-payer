@@ -34,10 +34,10 @@ last_reconstructed: 2026-05-07
 **ส่วนต่อท้าย taddhita -ka สร้างสิ่งต่างๆ รวมถึง:**
 
 1\. **Diminutiva (รูปแบบลดขนาด เช่น ภาษาเยอรมัน -chen, -lein, -li, -le):**
-**putra m. "Sohn" » putraka m. ⟪पुत्रक⟫ "Söhnchen"**
+**putra m. "Sohn" » putraka m. ⟪पुत्रक⟫ "Söhnchen"** <!-- TODO: Fallback translation -->
 
 2\. **Nomina ที่สื่อถึงความคล้ายคลึงโดยประมาณ:**
-**aśva m. "Pferd" » aśvaka m. ⟪अश्वक⟫ "Rösslein, ein dem Pferd ähnliches Ding"**
+**aśva m. "Pferd" » aśvaka m. ⟪अश्वक⟫ "Rösslein, ein dem Pferd ähnliches Ding"** <!-- TODO: Fallback translation -->
 
 3\. **Nomina ที่ไม่มีความแตกต่างของความหมายจากนามพื้นฐาน:**
 **putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
@@ -45,7 +45,7 @@ last_reconstructed: 2026-05-07
 4\. **Nomina ที่สื่อถึง "สัมพันธ์กับแนวคิดของคำพื้นฐาน":**
 **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "in Benares gebürtig, aus Benares stammend"**
 **rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"**
-:::
+::: <!-- TODO: Fallback translation -->
 
 ### 9.2.2. -อก (กฤต), เพศหญิงมักเป็น -อิกา
 
@@ -63,7 +63,7 @@ last_reconstructed: 2026-05-07
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "นักเต้นชาย / นักเต้นหญิง" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "ผู้ชนะ" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "ผู้ชนะ" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **คำสร้างบางคำมีความหมายเฉพาะว่า: "ผู้กระทำตามนิสัยหรือหน้าที่ หรือทำอย่างถูกต้อง โดยอาศัยรากศัพท์"**
@@ -76,7 +76,7 @@ last_reconstructed: 2026-05-07
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "ชาวนา":br(ระดับต่ำ!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "ผู้ทรมาน" |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "ผู้กิน, ผู้หิว" |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "ผู้กิน, ผู้หิว" | <!-- TODO: Fallback translation -->
 
 นอกจากนี้ยังมีการใช้งานอื่นๆ ของคำลงท้าย **-aka** ที่สำคัญน้อยกว่าบ้าง ดู Wackernagel, Altindische Grammatik, II, §45ff.
 

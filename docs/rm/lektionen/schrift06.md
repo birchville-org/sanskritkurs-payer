@@ -18,7 +18,7 @@ A) Scriver en Devanāgarī:
 
 bhavati yudh dhenuḥ sādhavaḥ bhūmiḥ ḍhuḍhi ghaṭa ḍuḍhauke jhālā ḍhola ghoṣaṃ bhṛ jaghajhagāyamāno bhos jhāḍhāmalā bhogaḥ
 
-B) Legier e translitterar:
+B) Legier e translitterar: <!-- TODO: Fallback translation -->
 
   a) ⟪द⟫ ⟪ध⟫ ⟪त⟫ ⟪फ⟫ ⟪प⟫ ⟪न⟫ ⟪च⟫ ⟪ड⟫ ⟪ग⟫ ⟪क⟫ ⟪भ⟫ ⟪ब⟫ ⟪थ⟫ ⟪छ⟫ ⟪य⟫ ⟪ख⟫ ⟪झ⟫
 

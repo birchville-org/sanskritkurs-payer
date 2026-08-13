@@ -42,7 +42,7 @@ status: stable
 > 主格复数 ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
 > 等等。
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. 带限定性/同位语前项的限定复合词 = Karmadhāraya 阳性 = ⟪कर्मधारय⟫
@@ -71,16 +71,19 @@ Abb.: ⟪लक्ष्मी⟫
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
-*   当复合词为依主释并表达比较时，被比较的对象位于复合词的第二个成分中：
+*   ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = “如狮之男子”  
 
-⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = “如狮之男子”  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = “如虎之男子”
+::: indent
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = “如虎之男子”
+:::
 
 *   如果复合词（Karmadhāraya）表达的是同位语关系（即通过名词对后项进行更具体的限定），那么更具体的限定成分位于前项，这也符合 Tatpuruṣa 复合词中各组成部分顺序的一般规则：
 
+::: indent
 ⟪नरसिंहः⟫ 亦可解析为：⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = “一头（实际上）是人的狮子。”
+:::
 
 此类同位语复合限定名（Karmadhāraya）在本地注释中，如上述示例所示，通过⟪एव⟫进行解析。
 

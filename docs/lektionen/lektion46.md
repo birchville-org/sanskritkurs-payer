@@ -55,7 +55,7 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \&lt;⟪जिजीविषे⟫\&gt; | \&lt;⟪जिजीविध्वे⟫\&gt;:br\&lt;⟪जिजीविढ्वे⟫\&gt; |
 :::
 ⟪अस्⟫ 2P, 4P
 
@@ -63,7 +63,7 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
 :::
 ### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
@@ -373,7 +373,7 @@ davon:
 :::
 Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)

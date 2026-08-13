@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # الدرس 36
 
@@ -63,7 +63,7 @@ status: stable
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ و ⟪भू⟫ تُصرف أيضًا مع أفعال آتمانيبادا في صيغة باراسمايبادا.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 أمثلة:
 
@@ -167,7 +167,7 @@ Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā
 
 ⟪अनुगम्⟫ : يتبع شخصًا، يمشي على طول
 :::
-⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an <!-- TODO: Fallback translation -->
 
 ::: indent
 مثلاً

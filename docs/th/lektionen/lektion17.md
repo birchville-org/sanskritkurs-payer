@@ -5,7 +5,7 @@ lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # บทที่ 17
 
@@ -81,7 +81,7 @@ status: stable
 | 3\. sg. ปัจจุบัน P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. ปัจจุบัน P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. ปัจจุบัน Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. ปัจจุบัน Ā | ⟪दुहते⟫ (duh-ate) |
+| 3\. pl. ปัจจุบัน Ā | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪हन्⟫ 2 P "ตี, ทำลาย, สังหาร"
@@ -149,7 +149,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
+| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) | <!-- TODO: Fallback translation -->
 
 :::
 รากศัพท์อื่นๆ ในชั้นที่สองบางรากก็ไม่มีระดับรากศัพท์:
@@ -163,7 +163,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
+| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪आस्⟫ 2 Ā "นั่ง"
@@ -173,7 +173,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
+| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪वच्⟫ 2 P "พูด"
@@ -183,7 +183,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | ไม่ปรากฏ |
+| 3\. pl. Präs. P | ไม่ปรากฏ | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.5. รากศัพท์สองพยางค์ลงท้ายด้วย -i/-ī ที่มีระดับรากศัพท์
@@ -204,7 +204,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
+| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪ब्रू⟫ 2 U "พูด"
@@ -230,7 +230,7 @@ status: stable
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.6. รายการคำศัพท์

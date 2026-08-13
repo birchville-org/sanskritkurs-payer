@@ -303,20 +303,26 @@ Suffix pembentuk stem + akhiran dari Aorist iṣ adalah:
 
 *   **Roots with short vowel before simple consonant: Strong grade in P and Ā**  
     Examples:  
-    ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫  
-    ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+::: indent
+⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
+⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+:::
 
 *   **Roots with final vowel:**
     *   **P: Guṇa grade**
     *   **Ā: Strong grade**
 
     Examples:  
-    ⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+::: indent
+⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+:::
 
 *   **Roots ending in -ar., -al as well as ⟪वद्⟫ 1P "to say", ⟪व्रज्⟫ 1P "to go away": P: Guṇa grade**  
     Examples:  
-    ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫  
-    ⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+::: indent
+⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫
+⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+:::
 
 *   **Akar-akar lain dari bentuk (Konsonan-)Vokal-Konsonan-a-Konsonan: dalam bahasa Pāli secara opsional berderet Guṇa (tidak berlaku untuk akar yang berakhir dengan -h, -m, -y dan beberapa akar lainnya)**  
 Contoh:  
@@ -366,10 +372,14 @@ Paradigma:
 ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aorist akar) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā dan lainnya dapat mengambil bentuk aorist pasif sebagai pengganti tunggal ke-3:  
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
 4.  ⟪विज्⟫ 7P has no ablaut:  
-    ⟪अविजीत्⟫
+::: indent
+⟪अविजीत्⟫
+:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα καʹ
 
@@ -32,7 +32,7 @@ status: stable
 | | **schwacher Stamm** | Präsensstamm + **-t-** |
 | **Femininum** | | |
 | | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** |
+| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** | <!-- TODO: Fallback translation -->
 
 :::
 παραδείγματα:
@@ -40,7 +40,8 @@ status: stable
 1\. τάξις ἐνεστῶτος:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "τιμῶν θυσίᾳ"
+**yajant**
+⟪यजन्त्⟫ "τιμῶν θυσίᾳ"
 :::
 ::: grammar-box
 
@@ -84,7 +85,7 @@ status: stable
 | | **starker Stamm** | Präsensstamm + **-ant-** |
 | | **schwacher Stamm** | Präsensstamm + **-at-** :br(Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.) |
 | **Femininum** | | |
-| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | <!-- TODO: Fallback translation -->
 
 :::
 2\. Παρουσία κλάσσις:
@@ -143,7 +144,7 @@ status: stable
 | | **starker Stamm** | ⟪महान्त्⟫ |
 | | **schwacher Stamm** | ⟪महत्⟫ |
 | **Femininum** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -308,13 +309,13 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 
 ::: deleteme-box
 
-**lekt2101:** ⟪सती⟫-Gedenkplatte im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Bildquelle: Flicka / Wikipedia. GNU FDLicense]
+**lekt2101:** ⟪सती⟫-Gedenkplatte im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Bildquelle: Flicka / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt2102:** "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva". [Bildquelle: PHGCOM / Wikipedia. GNU FDLicense]
 
-**lekt2103:** ⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense]
+**lekt2103:** ⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລ
+**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລ <!-- TODO: Fallback translation -->
 
 **lekt2105:** ⟪भगवद्गीता⟫ - Χειρόγραφον, 19ος αιώνας. [Πηγή εικόνας: Βικιπαίδεια, Δημόσιος τομέας]
 :::

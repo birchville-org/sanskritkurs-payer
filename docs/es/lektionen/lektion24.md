@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 24
 
@@ -423,7 +423,7 @@ Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 **lekt2408:** "El narrador de historias de San Francisco, Jeff Byers, comparte una historia con los residentes de Chenneri, una aldea irula. El narrador de historias Jeeva Raghunath traduce al tamil para los aldeanos." [Fuente de la imagen: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial)]
 
-**lekt2409:** [Fuente de la imagen: Redtigerxyz / Wikipedia, Licencia GNU FDL]
+**lekt2409:** [Fuente de la imagen: Redtigerxyz / Wikipedia, Licencia GNU FDL] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt2410:** ⟪नरसिंह⟫ desgarrado ⟪हिरण्यकशिपु⟫, página de un manuscrito del ⟪भागवतपुराण⟫ [Fuente de la imagen: Wikipedia, Dominio público]
 

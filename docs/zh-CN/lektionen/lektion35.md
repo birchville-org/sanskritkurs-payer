@@ -169,9 +169,9 @@ status: stable
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : 消失，毁灭，消失
 ::: indent
-**完成时动词 ⟪ननाश⟫, ⟪नेशुर्⟫** :br
-**将来时 ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
-**使役式 ⟪नाशयति⟫** :br
+**完成时动词 ⟪ननाश⟫, ⟪नेशुर्⟫**
+**将来时 ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**使役式 ⟪नाशयति⟫**
 **过去被动分词 ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : 消失，毁灭，毁灭
@@ -282,7 +282,7 @@ C) 将练习B)中的句子进行转换，用未完成过去时（Imperfekta）�
 
 ::: deleteme-box
 
-**lekt3501:** Tempelmusiker Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC]
+**lekt3501:** Tempelmusiker Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC] <!-- TODO: Fallback translation -->
 
 **lekt3502:** Menschen, die gehen，塞内加尔。[图片来源：Curt Carnemark / 世界银行。CC BY-NC-ND]
 

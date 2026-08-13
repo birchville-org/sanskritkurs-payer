@@ -118,7 +118,7 @@ status: stable
 | | 3. Person Однина | 3. Person Множина |
 | :--- | :--- | :--- |
 | **Парасмаїпада** | **-t** | athematische Klassen: **-an** oder **-ur** :brОптатив: **-ur** |
-| **Āтманепада** | **-ta** | athematische Klassen: **-ata** (aus *nta):brОптатив: **-ran** |
+| **Āтманепада** | **-ta** | athematische Klassen: **-ata** (aus *nta):brОптатив: **-ran** | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ## 30.4. Утворення оптива теперішнього часу (⟪लिङ्⟫)
@@ -226,7 +226,8 @@ status: stable
 | **3 особа:brĀтманепада** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ**:br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 

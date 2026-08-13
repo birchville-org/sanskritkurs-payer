@@ -12,7 +12,7 @@ A) Explicare hos nominativos per radicem, ex qua derivati sunt, et suffixum nome
 
 1\. lobha: lubh 4 P "cupidum esse" + -a m.: "cupiditas"
 
-2\. rakṣa: rakṣ 1 P "custodire" + -a 3: "custodiens, protegens"; m.: "custos"
+2\. rakṣa: rakṣ 1 P "custodire" + -a 3: "custodiens, protegens"; m.: "custos" <!-- TODO: Fallback translation -->
 
 3\. śrotra: śru 5 P "audire" + -tra n.: "auris"
 
@@ -24,7 +24,7 @@ A) Explicare hos nominativos per radicem, ex qua derivati sunt, et suffixum nome
 
 7\. lābha: labh 1 Ā "accipere" + -a m.: "acceptio, lucrum"
 
-8\. kāraṇa: kṛ 8 U "facere" + -ana n.: "causa, ratio"
+8\. kāraṇa: kṛ 8 U "facere" + -ana n.: "causa, ratio" <!-- TODO: Fallback translation -->
 
 9\. gati: gam 1 P "ire" + -ti f.: "gressus, 'cursus', meta"
 
@@ -34,7 +34,7 @@ A) Explicare hos nominativos per radicem, ex qua derivati sunt, et suffixum nome
 
 12\. sṛṣṭi: sṛj 6 P / 4 A "emanare facere, creare" + -ti: "emanatio, creatio"
 
-13\. tantra: tan 8 U "tendere" + -tra n.: "licium, textus"
+13\. tantra: tan 8 U "tendere" + -tra n.: "licium, textus" <!-- TODO: Fallback translation -->
 
 14\. bhāva: bhū 1 P "fieri, esse" + -a m.: "fieri, natura, character"
 
@@ -58,7 +58,7 @@ A) Explicare hos nominativos per radicem, ex qua derivati sunt, et suffixum nome
 
 24\. nīti: nī 1 U "ducere" + -ti f.: "ductus"
 
-25\. nartana: nṛt 4 P "saltare" + -ana 3: "saltans, saltator"; n.: "saltatio"
+25\. nartana: nṛt 4 P "saltare" + -ana 3: "saltans, saltator"; n.: "saltatio" <!-- TODO: Fallback translation -->
 
 26\. jaya: ji 1 P "vincere" + -a m.: "victoria, victoria"
 
@@ -135,7 +135,7 @@ devāḥ kiṃ lubhyanti?
 ⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
 
 11\. Quae est causa?
-kiṃ kāraṇam?
+kiṃ kāraṇam? <!-- TODO: Fallback translation -->
 
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
@@ -188,13 +188,13 @@ Puella scribit vel pingit.
 Virgo domum intrat.
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Puer elephāntum ducit.
 
 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ nōmen proprium Vimalā)
-Vimalā ist traurig.
+Vimalā ist traurig. <!-- TODO: Fallback translation -->
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
 Psittacus volat.

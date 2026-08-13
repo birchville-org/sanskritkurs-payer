@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 15
+# Pamoka 15
 
 ## 15.1. ⟪सुभाषितम्⟫
 
@@ -75,12 +75,16 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   drückt ein Karmadhāraya einen VERGLEICH aus, dann steht das, womit verglichen wird, im Hinterglied des Kompositums:
 
-    ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ein Mann wie ein Löwe"  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger"
+::: indent
+⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ein Mann wie ein Löwe"
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger"
+:::
 
 *   drückt ein Karmadhāraya aber eine Apposition (nähere Bestimmung des Hinterglieds durch ein Substantiv) aus, so steht das näher Bestimmende im Vorderglied, wie es auch die allgemeine Regel für die Reihenfolge für die Glieder in einem Tatpuruṣa fordert:
 
-    ⟪नरसिंहः⟫ kann auch aufgelöst werden: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Ein Löwe, der (in Wirklichkeit) ein Mann ist."
+::: indent
+⟪नरसिंहः⟫ kann auch aufgelöst werden: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Ein Löwe, der (in Wirklichkeit) ein Mann ist."
+:::
 
     Solche appositionelle Karmadhāraya werden in den einheimischen Kommentaren wie im obigen Beispiel mittels ⟪एव⟫ aufgelöst.
 

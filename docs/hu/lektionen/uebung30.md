@@ -88,7 +88,7 @@ B) Fordítsa le a következő mondatokat, és bontsa fel a szanszkrit összetét
 Buddha a nemesek javára hirdette ki az emberiségnek tanítását, hogy felismerjék a nemes igazságokat.
 
 ⟪२⟫. **⟪ये⟫ ⟪नरा⟫ ⟪देवान्न⟫ ⟪यजेरन्व्रतानि⟫ ⟪च⟫ ⟪न⟫ ⟪चरेयुरनृतं⟫ ⟪च⟫ ⟪वदेयुरधर्मं⟫ ⟪च⟫ ⟪कुर्युस्ते⟫ ⟪सुखं⟫ ⟪नाप्नुयुर्मृत्वा⟫ ⟪च⟫ ⟪नरकं⟫ ⟪पतेयुः⟫ ⟪॥२॥⟫**
-Azok az emberek, akik nem áldoznak az isteneknek, nem tartják be a fogadalmakat, hazudnak és igazságtalanságot követnek el, nem lesznek boldogok, és haláluk után egy pokolba kerülnek.
+Azok az emberek, akik nem áldoznak az isteneknek, nem tartják be a fogadalmakat, hazudnak és igazságtalanságot követnek el, nem lesznek boldogok, és haláluk után egy pokolba kerülnek. <!-- TODO: Fallback translation -->
 
 ⟪३⟫. **⟪ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो⟫ ⟪ज्ञातिं⟫ ⟪दासमाययति⟫ ⟪॥३॥⟫**
 (⟪आर्यपुत्रः⟫ — ⟪आर्याणां⟫ ⟪पुत्रः⟫)
@@ -155,7 +155,7 @@ Határozzák meg és fordítsák le a következő szóalakatokat:
 | ⟪२०⟫. ⟪स्थित्या⟫ | Instr. sg. f. | a meghatározás által |
 | ⟪२१⟫. ⟪मात्रायै⟫ | Dat. sg. f. | a mértéknek |
 | ⟪२२⟫. ⟪प्रभृतौ⟫ | Lok. sg. f. | kezdetben |
-| ⟪२३⟫. ⟪हस्तेन⟫ | Instr. sg. m. | a kéz által |
+| ⟪२३⟫. ⟪हस्तेन⟫ | Instr. sg. m. | a kéz által | <!-- TODO: Fallback translation -->
 
 | ⟪२४⟫. ⟪आदेः⟫ | Abl./Gen. sg. m. | a kezdetről / a kezdetnek |
 | ⟪२५⟫. ⟪दिष्टिम्⟫ | Akk. sg. f. | az utasítás |
@@ -179,5 +179,5 @@ Határozzák meg és fordítsák le a következő szóalakatokat:
 ![](/images/uebung047.webp)
 Kép: ⟪भक्त्याः⟫
 (Képmegjelölés: [Részletek](/licenses#uebung047))
-:::
+::: <!-- TODO: Fallback translation -->
 

@@ -81,7 +81,7 @@ Los guerreros fuertes han ido a la aldea de los brahmanes.
 Leyenda: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung023))
 :::
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 ## Patrón de declinación
 
@@ -261,4 +261,4 @@ El palo provoca la adquisición y la posesión segura de filosofía, vedística 
 ![](/images/uebung024.webp)
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung024))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

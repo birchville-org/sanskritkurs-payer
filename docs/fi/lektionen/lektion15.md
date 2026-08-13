@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 15
+# Oppitunti 15 <!-- TODO: Fallback translation -->
 
 ## 15.1. ⟪सुभाषितम्⟫
 
@@ -23,15 +23,15 @@ Nomien (substantiivien ja adjektiivien) nimeämien asioiden välinen suhde voida
 ⟪तत्पुरुषः⟩ =  ⟪तस्य⟩ ⟪पुरुषः⟩ "hänen palvelijansa", ts. tällaisen yhdyssanan nimenä käytetään esimerkkiä tällaisesta yhdyssanasta.
 ::: grammar-box
 
-Determinatiivisissa yhdyssanoissa (Tatpuruṣa) substantiivi tai adjektiivi tarkentuu toisen substantiivin tai adverbin avulla. Tarkennettu sana muodostaa yleensä yhdyssanan jälkiosan.
+Determinatiivisissa yhdyssanoissa (Tatpuruṣa) substantiivi tai adjektiivi tarkentuu toisen substantiivin tai adverbin avulla. Tarkennettu sana muodostaa yleensä yhdyssanan jälkiosan. <!-- TODO: Fallback translation -->
 
-Et etulinneen (määrittävä jäsen) ja takalinneen (määritettyjä osia) välinen suhde voi olla:
+Et etulinneen (määrittävä jäsen) ja takalinneen (määritettyjä osia) välinen suhde voi olla: <!-- TODO: Fallback translation -->
 
 *   attributiivinen tai apposiitio: kun kaksiosainen yhdistelmä puretaan, etulinneen muodostaa takalinneen kanssa tarkemman määritelmän samassa sijamuodossa (eli lauseyhteyden ulkopuolella nominatiivi (⟪प्रथमा⟫), lauseessa syntaktisesti vaaditussa sijamuodossa)
 *   kasuaalinen: etulinneen esiintyy kaksiosaisen yhdistelmän purkamisessa eri sijamuodossa kuin takalinneen (eli ei nominatiivi - ⟪प्रथमा⟫)
-*   adverbiaalinen: etulinneen on taivuttamaton sana
+*   adverbiaalinen: etulinneen on taivuttamaton sana <!-- TODO: Fallback translation -->
 
-Kaksiosaisen yhdistelmän molempien jäsenten sijamuotosuhde on riippumatta siitä, missä sijamuodossa kaksiosainen yhdistelmä esiintyy: kaksiosainen yhdistelmä on nimittäin yksi taivuttava sana:
+Kaksiosaisen yhdistelmän molempien jäsenten sijamuotosuhde on riippumatta siitä, missä sijamuodossa kaksiosainen yhdistelmä esiintyy: kaksiosainen yhdistelmä on nimittäin yksi taivuttava sana: <!-- TODO: Fallback translation -->
 
 esim.
 
@@ -42,7 +42,7 @@ esim.
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > jne.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. Determinatiiviyhdyssanat, joissa attributiivinen / apposiitiovmainen etuosan = Karmadhāraya m. = ⟪कर्मधारय⟫
@@ -71,16 +71,20 @@ Kuva: ⟪लक्ष्मी⟫
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   jos Karmadhāraya ilmaisee VERTAILUn, niin vertailukohde on yhdyssanan jälkiosassa:
 
+::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "mies kuin leijona"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "mies kuin tiikeri"
+:::
 
 *   jos Karmadhāraya ilmaisee appositionsan (jälkiosan tarkennuksen substantiivilla), niin tarkentava osa on etuosassa, kuten Tatpuruṣan jäsenten järjestystä koskeva yleinen sääntö vaatii:
 
+::: indent
 ⟪नरसिंहः⟫ voidaan myös purkaa: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Leijona, joka (todellisuudessa) on mies."
+:::
 
 Tällaiset apposiittiset karmadhārayat puretaan kotimaisten kommentaarien mukaan yllä olevan esimerkin kaltaisesti ⟪एव⟩ avulla.
 
@@ -94,7 +98,7 @@ Kuva: ⟪नरसिंहः⟫
 
 ::: grammar-box
 
-Tatpuruṣayhdistelmät ovat mahdollisia substantiiviyhdistelmissä (substantiivit ja adjektiivit), joissa etuliike voi olla missä tahansa sijamuodassa syntaktisten sääntöjen mukaisesti. Odotusten mukaan etuliike edustaa yleisimmin genetiiviä (⟪षष्ठी⟩), koska se on sijamuoto, jolla ilmaistaan substantiivien välistä suhdetta.
+Tatpuruṣayhdistelmät ovat mahdollisia substantiiviyhdistelmissä (substantiivit ja adjektiivit), joissa etuliike voi olla missä tahansa sijamuodassa syntaktisten sääntöjen mukaisesti. Odotusten mukaan etuliike edustaa yleisimmin genetiiviä (⟪षष्ठी⟩), koska se on sijamuoto, jolla ilmaistaan substantiivien välistä suhdetta. <!-- TODO: Fallback translation -->
 
 :::
 esim.
@@ -108,11 +112,11 @@ jne.
 
 ⟪धनलोभः⟫ = ⟪धनस्य⟫  ⟪लोभः⟫ = "halu varallisuudesta, ahneus"
 
-⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "maailman kulkeminen, ihmisten käyttäytyminen"
+⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "maailman kulkeminen, ihmisten käyttäytyminen" <!-- TODO: Fallback translation -->
 
-Lähes jokainen genetiivisuhde voidaan korvata tatpuruṣa-kompositiivilla. Muutokset katso esim. teoksesta Kale, A higher Sanskrit grammar § 211; siellä on myös vastaavat kohdat Pāṇinin tekstissä.
+Lähes jokainen genetiivisuhde voidaan korvata tatpuruṣa-kompositiivilla. Muutokset katso esim. teoksesta Kale, A higher Sanskrit grammar § 211; siellä on myös vastaavat kohdat Pāṇinin tekstissä. <!-- TODO: Fallback translation -->
 
-Tatpuruṣa-kompositiivin ensimmäinen jäsen voi kuitenkin periaatteessa edustaa mitä tahansa sijamuotoa. Kaikkia syntaktisesti mahdollisia sijasuhdetta ei kuitenkaan voida korvata tatpuruṣalla. Vastaavat säännöt löytyvät epäselvissä tapauksissa teoksesta Kale, A higher Sanskrit grammar § 203 - 217 tai Pāṇini 2,1,22 - 2,2,22.
+Tatpuruṣa-kompositiivin ensimmäinen jäsen voi kuitenkin periaatteessa edustaa mitä tahansa sijamuotoa. Kaikkia syntaktisesti mahdollisia sijasuhdetta ei kuitenkaan voida korvata tatpuruṣalla. Vastaavat säännöt löytyvät epäselvissä tapauksissa teoksesta Kale, A higher Sanskrit grammar § 203 - 217 tai Pāṇini 2,1,22 - 2,2,22. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -121,22 +125,22 @@ Etulinja voi yksikössä, kaksikossa tai monikossa olla kompositiumin purkamisen
 :::
 Esimerkkejä:
 
-Etulinja edittää akkusatiivia (⟪द्वितीया⟫): esim. tietyissä verbien liikkeestä ilmaisevien verbbartikkien (Pāṇini 2,1,24) kanssa:
+Etulinja edittää akkusatiivia (⟪द्वितीया⟫): esim. tietyissä verbien liikkeestä ilmaisevien verbbartikkien (Pāṇini 2,1,24) kanssa: <!-- TODO: Fallback translation -->
 
 ⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "joka on mennyt kylään"
 ⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "joka on pudonnut helvettiin"
 
-Ensimmainen jäsen edustaa abstraktia instrumentaalia (⟪तृतीया⟫): esim. usein agenssi (⟪कर्तृ⟫) nominalisointien kohdalla kṛt-liitteillä (esim. PPP):
+Ensimmainen jäsen edustaa abstraktia instrumentaalia (⟪तृतीया⟫): esim. usein agenssi (⟪कर्तृ⟫) nominalisointien kohdalla kṛt-liitteillä (esim. PPP): <!-- TODO: Fallback translation -->
 
 ⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "jumalan / jumalien luoma"
-Voisi myös ratkaista: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "teko / toiminta jumalan / jumalien; jumalallinen teko, jumalten teko"
+Voisi myös ratkaista: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "teko / toiminta jumalan / jumalien; jumalallinen teko, jumalten teko" <!-- TODO: Fallback translation -->
 
 ⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "joka oli buddhan suojelema" (oma nimi)
 
 ## 15.5. Kompositojen purkaminen (paitsi Dvandvas)
 
 ::: grammar-box
-Vaikka sanskritissa voidaan muodostaa mielivaltaisen pituisia samasjoja ja niitä käytetäänkin erittäin usein (kymmenestä kolmekymmeneen osaan muodostetut samasjat eivät ole harvinaisia!), kaikki samasiat — dvandvat lukuun ottamatta — ovat eteneviä hierarkioita, jotka voidaan aina jakaa kahteen osaan:
+Vaikka sanskritissa voidaan muodostaa mielivaltaisen pituisia samasjoja ja niitä käytetäänkin erittäin usein (kymmenestä kolmekymmeneen osaan muodostetut samasjat eivät ole harvinaisia!), kaikki samasiat — dvandvat lukuun ottamatta — ovat eteneviä hierarkioita, jotka voidaan aina jakaa kahteen osaan: <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -144,7 +148,7 @@ Vaikka sanskritissa voidaan muodostaa mielivaltaisen pituisia samasjoja ja niit�
 Kuva: ⟪समासविच्छेदः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1502))
 :::
-jne., kunnes päädytään yksittäisiin sanajänteisiin.
+jne., kunnes päädytään yksittäisiin sanajänteisiin. <!-- TODO: Fallback translation -->
 
 esim.
 
@@ -172,7 +176,7 @@ taso: ⟪ब्राह्मणानां⟫ ⟪क्षत्रिया�
 
 "brahmanien, kṣatriyoiden ja vaiśyoiden dharma"
 :::
-Komposiitille on erittäin usein olemassa useita eri ratkaisuvaihtoehtoja. Oikein tai ainakin parhaiten se voidaan valita vain tekstin kontekstista ja sisällöstä. Joskus tällaista päätöstä ei ole mahdollinen tehdä. Usein kaksi ratkaisuvaihtoehtoa on todennäköisesti kirjoittajan tarkoitus. Tällöin käännöksessä on palautettava molemmat ratkaisuvaihtoehdot (yhdistettynä "ja", "tai" tai "eli").
+Komposiitille on erittäin usein olemassa useita eri ratkaisuvaihtoehtoja. Oikein tai ainakin parhaiten se voidaan valita vain tekstin kontekstista ja sisällöstä. Joskus tällaista päätöstä ei ole mahdollinen tehdä. Usein kaksi ratkaisuvaihtoehtoa on todennäköisesti kirjoittajan tarkoitus. Tällöin käännöksessä on palautettava molemmat ratkaisuvaihtoehdot (yhdistettynä "ja", "tai" tai "eli"). <!-- TODO: Fallback translation -->
 
 esim.
 
@@ -195,7 +199,7 @@ taso: joko - tai
 ## 15.6. Johdannaisten muoto kompaundeissa (⟪समास⟩ m.)
 ::: grammar-box
 
-Kaikissa kompaundityypeissä johdannaisten muoto on yleensä muuttumaton sanajäännös. Kaksivartaloiset substantiivit ovat heikossa vartalossa. Naispuoliset adjektiivit, jotka määrittävät seuraavaa kompaundijäsentä, ovat yleensä maskuliinisessa vartalossa:
+Kaikissa kompaundityypeissä johdannaisten muoto on yleensä muuttumaton sanajäännös. Kaksivartaloiset substantiivit ovat heikossa vartalossa. Naispuoliset adjektiivit, jotka määrittävät seuraavaa kompaundijäsentä, ovat yleensä maskuliinisessa vartalossa: <!-- TODO: Fallback translation -->
 
 esim.
 
@@ -259,7 +263,7 @@ esim.
 Kuv.: ⟪पूजा⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt1504))
 :::
-⟪कुल⟫ n.: lauma, joukko, suku, syntyperä, perhe
+⟪कुल⟫ n.: lauma, joukko, suku, syntyperä, perhe <!-- TODO: Fallback translation -->
 
 ⟪इन्द्र⟫ m.: ruhtinas, ensimmäinen, paras ; jumalakuningas Indra
 ::: media
@@ -267,7 +271,7 @@ Kuv.: ⟪पूजा⟫
 Kuv.: ⟪इन्द्रः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt1505))
 :::
-⟪दास⟫ m.: orja, talonpoika, palvelija
+⟪दास⟫ m.: orja, talonpoika, palvelija <!-- TODO: Fallback translation -->
 
 ⟪दासी⟫ f.: orja, talonpoika, palvelija
 
@@ -275,9 +279,9 @@ Kuv.: ⟪इन्द्रः⟫
 
 ⟪काल⟫ 3: musta, sinertumaa, tumma
 
-⟪पुरुष⟫ m.: ihminen, mies, orja
+⟪पुरुष⟫ m.: ihminen, mies, orja <!-- TODO: Fallback translation -->
 
-\-⟪जन⟫ toisena osana Tatpuruṣa-yhdyssanoissa usein monikon ilmaus
+\-⟪जन⟫ toisena osana Tatpuruṣa-yhdyssanoissa usein monikon ilmaus <!-- TODO: Fallback translation -->
 
 ⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : ylistää, kiittää
 
@@ -300,16 +304,16 @@ Kuv.: ⟪सिंहः⟫
 Kuv.: ⟪व्याघ्रः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt1507))
 :::
-⟪इव⟫ (jälkiliite): ikään kuin, kuten (vertauksissa: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "mies kuin tiikeri", "tiikerimainen mies"
+⟪इव⟫ (jälkiliite): ikään kuin, kuten (vertauksissa: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "mies kuin tiikeri", "tiikerimainen mies" <!-- TODO: Fallback translation -->
 
 ⟪एव⟫ (jälkiliite): korostaa edeltävää, vastaa usein saksankielistä painotusta, eräänlainen emotionaalinen merkki `\&lt;!\&gt;`, esim. ⟪सत्यमेव⟫ ⟪जयति⟫ "vain totuus voittaa", "juuri totuus voittaa", "totuus voittaa"
 
-⟪अरि⟫ m.: vihollinen (Thiemen mukaan, Der Fremdling im Ṛgveda: alun perin = vieras)
+⟪अरि⟫ m.: vihollinen (Thiemen mukaan, Der Fremdling im Ṛgveda: alun perin = vieras) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आर्य⟫ 3: aarilainen, jalosukuinen; m. aarialainen (sanskritinkielisten vanhojen intialaisten itse nimitys, kirjaimellisesti: vieraanvarainen (Thieme)); jalosukuinen, arvostettu mies
 :::
-sanalle ⟪जन्⟫
+sanalle ⟪जन्⟫ <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪जाति⟫ f.: synty, laji, kasti (kasta-sanan ⟪जाति⟫ merkityksessä katso Basham, Wonder, s. 148ff.)
@@ -327,7 +331,7 @@ tästä:
 :::
 ## 15.9. Harjoitus 1
 
-Ratkaise seuraavat samasat tatpuruṣana Sanskritiksi ja anna saksankielinen käännös. Anna kaikki mahdolliset ratkaisut ja käännökset, jotka näet järkeviksi. Ilmoita myös, mihin sijamuotoon ja lukemaan kokonaiskompositumilla viitataan.
+Ratkaise seuraavat samasat tatpuruṣana Sanskritiksi ja anna saksankielinen käännös. Anna kaikki mahdolliset ratkaisut ja käännökset, jotka näet järkeviksi. Ilmoita myös, mihin sijamuotoon ja lukemaan kokonaiskompositumilla viitataan. <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪देवेन्द्रस्य⟫
 
@@ -517,11 +521,11 @@ Ratkaise seuraava Tatpuruṣa samoin kuin harjoituksessa 1:
 Kuva: ⟪ग्रामदेवता⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1508))
 :::
-## 15.11. Harjoitus 3
+## 15.11. Harjoitus 3 <!-- TODO: Fallback translation -->
 
-A) Käännä oppitunnin alussa oleva sananlasku
+A) Käännä oppitunnin alussa oleva sananlasku <!-- TODO: Fallback translation -->
 
-B) Ratkaise seuraavat tatpuruṣa-yhdyssanat:
+B) Ratkaise seuraavat tatpuruṣa-yhdyssanat: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪बलकृतः⟫
 

@@ -8,7 +8,7 @@
 ภาพตัวอย่าง: ตัวอย่างอักษรสันสกฤต
 \[แหล่งที่มาภาพ: Wikipedia, ใบอนุญาต GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 สระอื่นๆ ที่ตามหลังพยัญชนะ (ยกเว้น "a") เขียนดังนี้:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kḷ, ⟪कॢ⟫  = kṝ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kḷ, ⟪कॢ⟫  = kṝ <!-- TODO: Fallback translation -->
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
 
 ลำดับการเขียนคำผสมพยัญชนะ+สระเหล่านี้คือ:
 

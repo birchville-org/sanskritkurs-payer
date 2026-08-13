@@ -1,12 +1,12 @@
 # Exercizi da scrittira 9
 
-### Separaziun da paraulas
+### Separaziun da paraulas <!-- TODO: Fallback translation -->
 
 En in frasa (mezvers) ha la separaziun da paraulas en la scrittira lieu mo sche ina parola finischa cun
 
 *   vocala
 *   Anusvāra (ṃ)
-*   Visarga (ḥ)
+*   Visarga (ḥ) <!-- TODO: Fallback translation -->
 
 e la proxima parola cumenza consonanticamain. Uschia er en ils cas, nua che suenter las reglas da Sandhi dal frasa nascha in Hiatus tranter vocalas.
 
@@ -24,13 +24,13 @@ Signs d’abreviaziun (p.ex. en indicaziuns d’ovras) è °, p.ex. ⟪पा⟫
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden. <!-- TODO: Fallback translation -->
 
 ## Exercizi
 
 A) Scriver en Devanāgarī:
 
-ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
+ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha <!-- TODO: Fallback translation -->
 
 B) Legir e translitterar:
 

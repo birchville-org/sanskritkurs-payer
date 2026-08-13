@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 55
+# Lectio 55
 
 ## 55.1. Aoristus a- (Aoristus cum vocali thematica)
 
@@ -92,7 +92,7 @@ Determina et scripto versa hasce formas, simulque aoristum in a- formam redige:
 Fig.: ⟪अजीर्यमिति⟫
 'Inâyat Khân moriens, consilium pro miniatura codicis Iahangīr = جهانگير circa annum 1618
 (Fons imaginis: [Detalia](/la/licenses#lekt5501))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

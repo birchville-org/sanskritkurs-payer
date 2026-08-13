@@ -106,4 +106,4 @@ sādhur guruḥ.
 ![](/images/uebung002.jpg)
 Fig.: ⟪ईश्वरः⟫ ⟪शिवः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung002))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

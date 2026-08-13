@@ -96,7 +96,7 @@ lesson_id: 53
 ⟪दीर्घायुस्⟩ 3 "ארוך ימים"
 
 ::: grammar-box
-|   | זכר/נקבה :br ⟪पुंस्⟫/⟪स्त्री⟫ | נייטרלי :br ⟪नपुंसक⟫ 
+|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
@@ -376,7 +376,7 @@ lesson_id: 53
 
 **Deklination von -īyas siehe unten.**
 :::
-דוגמאות:
+דוגמאות: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | שורש | תואר עצם | השוואה | השוואה עליונה |
@@ -456,7 +456,7 @@ lesson_id: 53
 | (⟪वृद्ध⟫ 3 "מבוגר") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "אלט") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. נטיית צורות יתרון המסתיימות ב-īyas-
+## 53.9. נטיית צורות יתרון המסתיימות ב-īyas- <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **השוואות בסיומת -īyas יוצרות נקבה בסיומת -īyasī (תחביר כמו ⟪देवी⟩). הזכר והסמוך מנוסחים לפי הטבלה הבאה.**
@@ -491,16 +491,18 @@ lesson_id: 53
 תמונה: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
 (מקור תמונה: [פרטים](/he/licenses#lekt5303))
 
-1.  **אסתטי:** המטרות שבהן משתמשים תורמות, בין היתר, ליופייה של הצהרה. כמו כן, ייתכן שמשמשים מטרים מסוימים כדי לבטא מצבים רגשיים מסוימים, או שהם משויכים למעמדות מסוימים (⟪वर्ण⟫). המטרים השונים מושמעים בצורות שונות. :br רושם טוב של ההשפעה האסתטית ניתן לקבל, למשל, מההשמעה של ⟪शिवताण्डवस्तोत्र⟫ (שבח לריקודו של שיוו): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **אסתטי:** המטרות שבהן משתמשים תורמות, בין היתר, ליופייה של הצהרה. כמו כן, ייתכן שמשמשים מטרים מסוימים כדי לבטא מצבים רגשיים מסוימים, או שהם משויכים למעמדות מסוימים (⟪वर्ण⟫). המטרים השונים מושמעים בצורות שונות.
+רושם טוב של ההשפעה האסתטית ניתן לקבל, למשל, מההשמעה של ⟪शिवताण्डवस्तोत्र⟫ (שבח לריקודו של שיוו): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **פאיר, אלוויד (1944–): מבוא לפרשנות טקסטים בסנסקריט : סקריפט. -- פרק 8: הפרשנות עצמה, חלק שני: לשאלות בודדות של הבנה סינכרונית. -- תוסף ב: על המטריקה של טקסטים בסנסקריט. -- כתובת: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)**
-3.  **כרונולוגי:** מספר מטרים עברו שינויים מסוימים במהלך ההיסטוריה. זה יכול לעזור בקביעת התאריך המשוער של טקסט. ראה **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+3.  **כרונולוגי:** מספר מטרים עברו שינויים מסוימים במהלך ההיסטוריה. זה יכול לעזור בקביעת התאריך המשוער של טקסט. ראה **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in:
+**Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
 Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 (Bildquelle: [Details](/he/licenses#lekt5304))
 :::
-### 53.10.2. סוגים של מטרים
+### 53.10.2. סוגים של מטרים <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 תמונה: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
@@ -546,7 +548,7 @@ Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   אין ויסרگا,
 *   אינם עוקבים שני עיצורים.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
 
 **כל ההברות האחרות הן ⟪गुरु⟫ = כבדות. ההברה האחרונה של רבע השיר (⟪पाद⟫) נחשבת תמיד כ- ⟪गुरु⟫.**
 
@@ -602,9 +604,9 @@ Kurze Vokale sind a, i, u, ṛ, ḷ
 ::: metrik-schema
 × × × ×   **◡ — ◡ —**
 :::
-Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein.
+Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein. <!-- TODO: Fallback translation -->
 
-**Nebenschemata (⟪विपुला⟫) für a und c:**
+**Nebenschemata (⟪विपुला⟫) für a und c:** <!-- TODO: Fallback translation -->
 
 **⟪विपुला⟫ 1:**
 ::: metrik-schema
@@ -623,7 +625,7 @@ Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪ल�
 × × × ×   / — ◡ — —
 :::
 Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.
-## 53.11. תרגיל
+## 53.11. תרגיל <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **קבעו מתוך כל הוורסים שנלמדו עד כה את השלוקות. כתבו עבורן את התבנית המטרית. ציינו אי-סדירויות או צורות ויפולה אפשריות.**

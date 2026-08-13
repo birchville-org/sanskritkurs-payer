@@ -80,3 +80,4 @@ last_reconstructed: 2026-05-15
 Εικ.: ⟪शुकः⟫
 (Πηγή εικόνας: [Details](/licenses#uebung079))
 :::
+ <!-- TODO: Fallback translation -->

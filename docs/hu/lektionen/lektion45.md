@@ -5,13 +5,13 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 45. lecke
+# 45. lecke <!-- TODO: Fallback translation -->
 
 ## 45.1. A második személy ragozott formáinak képzése (⟪मध्यमः⟫) hangzó végű toldalék nélküli athémás tövek (folytatás)
 
-### 45.1.1. Harmadik jelen idő osztály (⟪जुहोत्यादि⟫)
+### 45.1.1. Harmadik jelen idő osztály (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪हु⟫ 3P
 
@@ -63,7 +63,7 @@ pl. ⟪युज्⟫ 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ vagy ⟪
 ## 45.2. A vocativus singularis (⟪आमन्त्रितमेकवचने⟫)
 
 ::: grammar-box
-**A legtöbb egyes számú vocativus a tő magas fokú végződésével.**
+**A legtöbb egyes számú vocativus a tő magas fokú végződésével.** <!-- TODO: Fallback translation -->
 
 pl. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** stb.
 
@@ -98,7 +98,7 @@ pl. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 Ábr.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4501))
 :::
-## 45.3. Szószedet
+## 45.3. Szószedet <!-- TODO: Fallback translation -->
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
@@ -113,11 +113,11 @@ a közösség szétosztásáról (⟪सङ्घभेद⟫) lásd:
 
 **Payer, Alois (1944–):** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda számára. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-Élveztétek-e a földet?
+Élveztétek-e a földet? <!-- TODO: Fallback translation -->
 
 Kaptál ajándékot a királytól?
 
-Szent ember, miért nem félsz a veszélyektől?
+Szent ember, miért nem félsz a veszélyektől? <!-- TODO: Fallback translation -->
 
 Atyám, hová hagyod el a családot?
 
@@ -129,7 +129,7 @@ Elefántok, ne törjétek szét a bilincseket.
 
 Te oroszlánhoz méltó férfiú, miért nem fordítod teljes figyelmedet az Abszolutra (Brahman-ra)?
 
-Te költő, megmérted-e a világokat?
+Te költő, megmérted-e a világokat? <!-- TODO: Fallback translation -->
 
 B) Fordítsa le:
 

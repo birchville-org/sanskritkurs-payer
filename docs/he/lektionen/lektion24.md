@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # שיעור 24
 
@@ -413,9 +413,9 @@ D) החליפו במשפט א') 7 את הבניין עם -⟪अर्थ⟫ ב�
 
 **lekt2403:** "ראמה (מימין) יושב על כתפיו של האנומן, נלחם במלך השדים ראבאנה." סביב 1820 [מקור התמונה: ויקיפדיה, רשות הציבור]
 
-**lekt2404:** [מקור התמונה: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- תאריך גישה: 14.12.2008. -- רישיון Creative Commons (ייחוס, ללא עיבוד)]
+**lekt2404:** [מקור התמונה: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- תאריך גישה: 14.12.2008. -- רישיון Creative Commons (ייחוס, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
-**lekt2405:** [מקור התמונה: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- תאריך גישה: 2008-12-14. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
+**lekt2405:** [מקור התמונה: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- תאריך גישה: 2008-12-14. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [מקור התמונה: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- תאריך גישה: 2008-12-14. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
 

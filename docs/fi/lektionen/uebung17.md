@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 17
 
-A) Lisää seuraaviin lauseisiin verbi ja käännä ne:
+A) Lisää seuraaviin lauseisiin verbi ja käännä ne: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) ⟪।⟫
 ⟪ब्रवीति⟫ ⟪।⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪वदति⟫ ⟪।⟫
@@ -26,7 +26,7 @@ Voimakas taistelija voittaa / tappaa / taistelee kaksinkertaisesti syntyneiden v
 
 ⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) ⟪।⟫
 ⟪स्तौति⟫ ⟪।⟫ ⟪स्तुते⟫ ⟪।⟫ ⟪यजते⟫ ⟪।⟫ ⟪यजति⟫ ⟪।⟫
-Brahmana-pappi ylistää MAAILMAN HERRAA. (tai: ...uhraa... MAAILMAN HERRALLE)
+Brahmana-pappi ylistää MAAILMAN HERRAA. (tai: ...uhraa... MAAILMAN HERRALLE) <!-- TODO: Fallback translation -->
 
 ⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) ⟪।⟫
 ⟪अत्ति⟫ ⟪।⟫ ⟪दहति⟫ ⟪।⟫
@@ -38,7 +38,7 @@ Nuori Vaiṣya lypsetään / karjaa lehmää.
 
 ⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
 ⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-Kaksinkertaisesti syntyneen palvelija kävelee villieläinten polulla brahmanakylään.
+Kaksinkertaisesti syntyneen palvelija kävelee villieläinten polulla brahmanakylään. <!-- TODO: Fallback translation -->
 
 ⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
 ⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
@@ -52,7 +52,7 @@ Pieni brahmananainen itkee / istuu / kuolee.
 ⟪द्वेष्टि⟫ ⟪।⟫ ⟪द्विष्टे⟫ ⟪।⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪।⟫
 Hyvä ihminen vihaa väärinkäytöksiä. (tai: ...ei tee väärinkäytöksiä.)
 
-B) Lisää osassa A muodostettuihin lauseisiin agentti ja verbi monikossa
+B) Lisää osassa A muodostettuihin lauseisiin agentti ja verbi monikossa <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ब्राह्मणा⟫ ⟪अनृतं⟫ ⟪न⟫ ⟪ब्रुवन्ति⟫ ⟪।⟫ (Monikko sanasta ⟪वच्⟫ ei esiinny) ⟪।⟫ ⟪वदन्ति⟫ ⟪।⟫
 
@@ -79,11 +79,11 @@ B) Lisää osassa A muodostettuihin lauseisiin agentti ja verbi monikossa
 Kuv.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung025))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Verbilausekkeet-harjoitus
 
-Käännä seuraavat verbilausekkeet ja anna niihin liittyvä vartalo:
+Käännä seuraavat verbilausekkeet ja anna niihin liittyvä vartalo: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪अदन्ति⟫ (⟪अद्⟫ 2P): he syövät
 
@@ -182,4 +182,4 @@ Käännä seuraavat verbilausekkeet ja anna niihin liittyvä vartalo:
 ![](/images/uebung026.webp)
 Kuv.: ⟪शृणोति⟫
 (Kuv lähde: [Details](/licenses#uebung026))
-:::
+::: <!-- TODO: Fallback translation -->

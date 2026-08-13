@@ -8,7 +8,7 @@ Le sanskrit a été et est écrit dans une multitude de scripts. Le résumé sui
 Fig. : Échantillons d’écriture sanskrite  
 \[Source de l’image : Wikipédia, licence GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ Chaque signe consonantique inclut un « a » suivant la consonne. Si l’on souh
 
 Les voyelles suivantes une consonne -- sauf « a » -- s’écrivent ainsi :
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
 
 L’ordre lors de l’écriture de ces combinaisons consonne + voyelle est le suivant :
 

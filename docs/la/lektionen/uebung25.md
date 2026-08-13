@@ -126,7 +126,7 @@ Fur a culpa furti liberatur per poenam vel liberationem. Si autem rex eum non pu
 
 ---
 
-## Staatswissenschaftliche Fragmente (Arthaśāstra)
+## Staatswissenschaftliche Fragmente (Arthaśāstra) <!-- TODO: Fallback translation -->
 
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 Oeconomia utilis est, quia frumenta, pecora, aurum, metalla et operam producit.

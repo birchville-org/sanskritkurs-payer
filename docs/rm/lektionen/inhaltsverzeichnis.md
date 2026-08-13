@@ -587,9 +587,9 @@ surscrit dal di
 *   1.1. Quinta classa da present (⟪स्वादि⟫)
 *   1.2. Octava classa da present (⟪तनादि⟫)
 *   1.3. Nona classa da present (⟪क्र्यादि⟫)
-*   2\. Al Wortsandhi
-*   2.1. Al Wortsandhi per dh-
-*   2.2. Al Wortsandhi per s-
+*   2\. Al sandhi da las paraulas
+*   2.1. Al sandhi da las paraulas per dh-
+*   2.2. Al sandhi da las paraulas per s-
 *   3. Furmaziun dals verbs da la seconda persuna (⟪मध्यमः⟫) tribus atematicas senza suffig finì vocalic
 *   3.1. Segunda classa da present (⟪अदादि⟫)
 *   4\. Il vocativ (⟪आमन्त्रितम्⟫)
@@ -753,7 +753,7 @@ surscrit dal di
 *   2\. L'injunktiv
 *   3\. La sentenzia da prohibiziun
 *   4\. ⟪स्म⟫
-*   5\. Exercizi
+*   5\. Exercizi <!-- TODO: Fallback translation -->
 
 ## [Lecziun 57](lektion57)
 
@@ -861,5 +861,5 @@ surscrit dal di
 *   8.2. Pronoms demonstrativs ⟪अदस्⟫ "quell (lunsch)"
 *   9\. Licenza en l’ocèan da la litteratura sanscrita: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-FIN DAL CURS DA SANSKRIT
+FIN DAL CURS DA SANSKRIT <!-- TODO: Fallback translation -->
 

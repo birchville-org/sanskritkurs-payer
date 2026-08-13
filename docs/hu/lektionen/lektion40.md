@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 40. lecke
+# 40. lecke <!-- TODO: Fallback translation -->
 
 ## 40.1. ⟪सुभाषितानि⟫
 
@@ -34,7 +34,7 @@ Kép: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 :::
 ## 40.2. Az első személyű perfekti ragozás képzése (⟪लिट्⟫)
 
-Az első személyű végződések (⟪तृतीयः⟫) a perfektiban (⟪लिट्⟫)
+Az első személyű végződések (⟪तृतीयः⟫) a perfektiban (⟪लिट्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -45,11 +45,11 @@ Az első személyű végződések (⟪तृतीयः⟫) a perfektiban (⟪�
 
 :::
 ::: grammar-box
-Vegye figyelembe, hogy az első személy egyes számú P,Ā végződései megegyeznek a harmadik személy egyes számúével. Ezért minden perfekt típusnál, kivéve az III(a,b) és V(a,b,c) típusokat, az első személy egyes számú P vagy Ā alakja mindig megegyezik a harmadik személy egyes számú P vagy Ā alakjával.
+Vegye figyelembe, hogy az első személy egyes számú P,Ā végződései megegyeznek a harmadik személy egyes számúével. Ezért minden perfekt típusnál, kivéve az III(a,b) és V(a,b,c) típusokat, az első személy egyes számú P vagy Ā alakja mindig megegyezik a harmadik személy egyes számú P vagy Ā alakjával. <!-- TODO: Fallback translation -->
 
 A IV. típusnál az első személy egyes számú P végződése, mint a harmadik személy egyes számú P-é, -au-ra végződik.
 
-A III. és V. perfekt típusoknál az első személy egyes számú Ā mindig megegyezik a harmadik személy egyes számú Ā-jával.
+A III. és V. perfekt típusoknál az első személy egyes számú Ā mindig megegyezik a harmadik személy egyes számú Ā-jával. <!-- TODO: Fallback translation -->
 
 A III. és V. perfekttípusoknál az 1. személy egyes számú P alakja és a 3. személy egyes számú P alakja választhatóan azonosak: ezek képzési típusoknál a 3. szg.P mindig nyújtott fokú kell legyen, az 1. szg.P pedig választhatóan magas fokú vagy nyújtott fokú lehet.
 :::
@@ -104,9 +104,9 @@ Ezen típust követő igék:
 *   1. sz. P ⟪आस⟫
 *   1. szpl. P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfektum típus II: erős alapalak magas fok, gyenge alapalak mély fok
+### 40.2.2. Perfektum típus II: erős alapalak magas fok, gyenge alapalak mély fok <!-- TODO: Fallback translation -->
 
-Ige, amelyek ezt a típust követik:
+Ige, amelyek ezt a típust követik: <!-- TODO: Fallback translation -->
 
 *   (mássalhangzó-)i/u/ṛ/ḷ-mássalhangzó
 
@@ -121,10 +121,10 @@ Ige, amelyek ezt a típust követik:
 
 *   1. sz. többes szám, á hangzó ⟪बिभिदिमहे⟫
 :::
-⟪मुह्⟫ 4P opcionális ⟪अनिट्⟫
+⟪मुह्⟫ 4P opcionális ⟪अनिट्⟫ <!-- TODO: Fallback translation -->
 
 ::: indent
-*   1. sz. egyes szám, jelen idő ⟪मुमोह⟫
+*   1. sz. egyes szám, jelen idő ⟪मुमोह⟫ <!-- TODO: Fallback translation -->
 
 *   1.b.e.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
 :::
@@ -151,7 +151,7 @@ Ezen típusba tartozó igék:
 ::: indent
 *   1. sz. P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
 
-*   1. szpl. P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
+*   1. szpl. P ⟪निन्यिम⟫ (ni-nī + i + ma !!!) <!-- TODO: Fallback translation -->
 
 *   1. sz. Ā ⟪निन्ये⟫
 
@@ -181,7 +181,7 @@ Ezen típusba tartozó igék:
 :::
 #### 40.2.3.2. Perfektum IIIb típus: Erős alap erős fok/hosszúsági fok, gyenge alap erős fok
 
-Ige, amelyek ezt a típust követik:
+Ige, amelyek ezt a típust követik: <!-- TODO: Fallback translation -->
 
 *   (Mássalhangzó-)(mássalhangzó)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -217,14 +217,14 @@ Ige, amelyek ezt a típust követik:
     *   1.,3. sg. Parasamaip.: -au
 *   Gyenge alap:
     *   mássalhangzó előtt: mérsékelt fokú -i
-    *   magánhangzó előtt: mérsékelt fokú -ø
+    *   magánhangzó előtt: mérsékelt fokú -ø <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U
 
 ::: indent
-*   1. személy, egyes szám, jelen idő ⟪ददौ⟫
+*   1. személy, egyes szám, jelen idő ⟪ददौ⟫ <!-- TODO: Fallback translation -->
 
-*   1. személy, többes szám, jelen idő ⟪ददिम⟫ (da-d-i-ma)
+*   1. személy, többes szám, jelen idő ⟪ददिम⟫ (da-d-i-ma) <!-- TODO: Fallback translation -->
 
 *   1. személy, egyes szám, ágyügi mód ⟪ददे⟫
 
@@ -234,7 +234,7 @@ Ige, amelyek ezt a típust követik:
 
 sz. K. választólag magas fokú vagy nyújtott fokú
 
-#### 40.2.5.1. Perfekt V: mássalhangzó-a-mássalhangzó, gyenge alap alacsony fok
+#### 40.2.5.1. Perfekt V: mássalhangzó-a-mássalhangzó, gyenge alap alacsony fok <!-- TODO: Fallback translation -->
 
 Az ehhez a típushoz tartozó igék:
 
@@ -275,7 +275,7 @@ Az ehhez a típushoz tartozó igék:
 
 *   1. számú személy, többes szám, jelen idő ⟪ऊचिम⟫ (u + uc-ima)
 :::
-⟪वद्⟫ 1. személy, egyes szám (Ā)
+⟪वद्⟫ 1. személy, egyes szám (Ā) <!-- TODO: Fallback translation -->
 
 ::: indent
 *   1. számú személy, egyes szám, jelen idő ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
@@ -310,11 +310,11 @@ Az ehhez a típushoz tartozó igék:
 
 *   1. szpl. Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfektum Vc-típus: mássalhangzó-a-mássalhangzó, gyenge alap erős fok
+#### 40.2.5.3. Perfektum Vc-típus: mássalhangzó-a-mássalhangzó, gyenge alap erős fok <!-- TODO: Fallback translation -->
 
 Ezen típust követő igék:
 
-*   Minden többi gyökér közép -a-
+*   Minden többi gyökér közép -a- <!-- TODO: Fallback translation -->
 
 ⟪क्रम्⟫ 1U
 
@@ -327,12 +327,12 @@ Ezen típust követő igék:
 
 *   1. sz. Ā ⟪चक्रमिमहे⟫
 :::
-### 40.2.6. Különleges perfektképzések
+### 40.2.6. Különleges perfektképzések <!-- TODO: Fallback translation -->
 
 ⟪विद्⟫ 2. sz. jelenkori perfekta:
 
 ::: indent
-*   1. sz. P ⟪वेद⟫ (= 3. sz. P)
+*   1. sz. P ⟪वेद⟫ (= 3. sz. P) <!-- TODO: Fallback translation -->
 
 *   1. t. P ⟪विद्म⟫
 :::
@@ -352,9 +352,9 @@ Ezen típust követő igék:
 
 *   1. sz. főnévi igenév ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
-## 40.3. Az első személyű periphrasztikus perfektképzés (⟪अनुप्रयोगलिट्⟫)
+## 40.3. Az első személyű periphrasztikus perfektképzés (⟪अनुप्रयोगलिट्⟫) <!-- TODO: Fallback translation -->
 
-A periphrasztikus perfektképzés a következőkből áll:
+A periphrasztikus perfektképzés a következőkből áll: <!-- TODO: Fallback translation -->
 
 *   képzett igatövek (kauzális, dezideratív, frequentatív, denominalis), különösen a kauzális
 *   olyan tövek, amelyek hosszú magánhangzóval (kivéve ā) kezdődnek
@@ -381,7 +381,7 @@ A periphrasztikus perfektképzés a következőkből áll:
 
 *   1. sz.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
 :::
-## 40.4. Szintaktikai megjegyzések az első személyről (⟪तृतीयः⟫)
+## 40.4. Szintaktikai megjegyzések az első személyről (⟪तृतीयः⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Mivel egy ragozott ige (konjugált ige) az agens-t (⟪कर्तृ⟫) is kifejezi, az „én”, „mi” nem kell, hogy passzív szerkezetű ragozott igékkel ellátott mondatokban külön személyes névmóddal legyen kifejezve
@@ -405,7 +405,7 @@ A személyes névmav (személyes határozószó) alakja minden nemre ugyanaz.
 
 :::
 ::: grammar-box
-A rövidebb alakok, amelyek fent a második helyen szerepelnek (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) soha nem használhatók mondat vagy vers elején.
+A rövidebb alakok, amelyek fent a második helyen szerepelnek (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) soha nem használhatók mondat vagy vers elején. <!-- TODO: Fallback translation -->
 
 A ⟪च⟫, ⟪वा⟫, ⟪एव⟫ partikulák előtt ezeket az ún. enklitikus formákat sem szabad használni:
 
@@ -426,7 +426,7 @@ Ezeknek a névmásoknak összetételek első tagjaként az alábbi tövek állna
 
 pl. ⟪मत्पुस्तकम्⟫ "a könyvem" ; ⟪अस्मद्पुस्तकानि⟫ "könyveink"
 :::
-## 40.6. Szószedet
+## 40.6. Szószedet <!-- TODO: Fallback translation -->
 
 ⟪पात्र⟫ n.: Tisztelendő, Mester, Méltó
 
@@ -441,7 +441,7 @@ Perf. II ⟪चकॢपे⟫ fakultatív ⟪अनिट्⟫
 Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
 Kaus. ⟪कल्पयति⟫ : rendbe hoz, létrehoz, a képzeletben alkot, elképzel
 PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
+Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫ <!-- TODO: Fallback translation -->
 
 ebből:
 
@@ -482,7 +482,7 @@ ebből:
 ![lekt4003.jpg](/images/lekt4003.webp)
 Kép: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt4003))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪तीर्थङ्कर⟫ m. (ebből: ⟪तीर्थम्⟫+ ⟪कृ⟫): átkelőkészítő (a szenvedésen túl) = a dzsainák 24 tanítója
@@ -506,7 +506,7 @@ abból:
 Kép: ⟪विष्णोर्दशावताराः⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt4001))
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : aludni, lefeküdni
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : aludni, lefeküdni <!-- TODO: Fallback translation -->
 
 ::: indent
 Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
@@ -530,7 +530,7 @@ ebből:
 :::
 ## 40.7. Gyakorlat
 
-A) Fordítsa le a ⟪सुभाषितानि⟫-t a leckelejtésben.
+A) Fordítsa le a ⟪सुभाषितानि⟫-t a leckelejtésben. <!-- TODO: Fallback translation -->
 
 B) Alakítsa át a következő igéket megfelelő perfektképzésekre. Több lehetőség esetén kérjük, adja meg az összes lehetőséget.
 

@@ -5,7 +5,7 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 7
 
@@ -146,14 +146,14 @@ Ulteriori usi dell'accusativo saranno trattati in seguito.
 ## 7.4. Il Neutro (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
-**Nel neutro, le forme del Nominativooo (prathamā) e dell'Accusativo (dvitīyā) sono identiche.**
+**Nel neutro, le forme del Nominativoooooo (prathamā) e dell'Accusativo (dvitīyā) sono identiche.**
 :::
 ### 7.4.1. Neutro dei temi in -a
 
 ::: grammar-box
-- **Desinenza Nominativooo / Accusativo singolare: -m**
+- **Desinenza Nominativoooooo / Accusativo singolare: -m**
   es. **phala** n. = ⟪फल⟫ = "frutto": Nom. / Acc. sg. **phalam** = ⟪फलम्⟫
-- **Desinenza Nominativooo / Accusativo plurale: -āni**
+- **Desinenza Nominativoooooo / Accusativo plurale: -āni**
   es. **phala** n. = ⟪फल⟫: Nom. / Acc. pl. **phalāni** = ⟪फलानि⟫
 :::
 

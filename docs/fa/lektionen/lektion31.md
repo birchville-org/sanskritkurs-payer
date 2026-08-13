@@ -30,7 +30,7 @@ status: stable
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | | <!-- TODO: Fallback translation -->
 
 :::
 ⟪रुध्⟫ 7U "توقف کردن، به حالت سکون درآوردن"

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 3
+# Pamoka 3
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:**

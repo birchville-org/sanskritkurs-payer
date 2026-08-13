@@ -5,7 +5,7 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 41
 
@@ -35,9 +35,9 @@ Explicación: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
 ## 41.2. Otras formaciones de ⟪कृत्⟫ con el sufijo -a
 
-### 41.2.1. Participio de Presente (⟪लडादेशः⟫) Ā, Participio de Presente (⟪लडादेशः⟫) Pasivo, Participio de Futurooo (⟪ऌडादेशः⟫) Ā
+### 41.2.1. Participio de Presente (⟪लडादेशः⟫) Ā, Participio de Presente (⟪लडादेशः⟫) Pasivo, Participio de Futuroooooo (⟪ऌडादेशः⟫) Ā
 
-#### 41.2.1.1. Temáticas de la raíz del presente, Pasivo y Futurooo
+#### 41.2.1.1. Temáticas de la raíz del presente, Pasivo y Futuroooooo
 
 ::: grammar-box
 **Formación:**
@@ -67,7 +67,7 @@ Ejemplos:
 | Raíz / Klasse | Partizip Presente Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
+| **⟪हु⟫** 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -372,7 +372,7 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 véase también:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho canónico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho canónico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: joven chica, hija, doncella
 

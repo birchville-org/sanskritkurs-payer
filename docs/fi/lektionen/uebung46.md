@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 46
 
-A) Määritä ja käännä seuraavat muodot:
+A) Määritä ja käännä seuraavat muodot: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Sanamuoto | Määritelmä | Merkitys |
@@ -54,7 +54,7 @@ A) Määritä ja käännä seuraavat muodot:
 | ⟪३७⟫. ⟪जज्ञिषे⟫ | ⟪जन्⟫ (4Ā) / ⟪ज्ञा⟫ (9U) 2. sg. Ā. Perf. | sinä synnyit / olet tuntenut |
 | ⟪३८⟫. ⟪चिक्य⟫ | ⟪चि⟫ (5U) 2. pl. P. Perf. | te olette rakentaneet |
 | ⟪३९⟫. ⟪अवेक्ष्य⟫ | ⟪अव⟫-⟪ईक्ष्⟫ (1Ā) Absol. | kun on havainnut |
-| ⟪४०⟫. ⟪वक्थ⟫ | ⟪वच्⟫ (2P) 2. pl. P. Ind. Präs. | te puhutte |
+| ⟪४०⟫. ⟪वक्थ⟫ | ⟪वच्⟫ (2P) 2. pl. P. Ind. Präs. | te puhutte | <!-- TODO: Fallback translation -->
 
 | ⟪४१⟫. ⟪शिष्ठ⟫ | ⟪शास्⟫ (2P) 2. pl. P. Ind. Präs. | te opettelette |
 | ⟪४२⟫. ⟪पेचिथ⟫ | ⟪पच्⟫ (1U) 2. sg. P. Perf. | sinä olet kypsyttänyt |
@@ -69,7 +69,7 @@ A) Määritä ja käännä seuraavat muodot:
 | ⟪५१⟫. ⟪सुषुपुः⟫ | ⟪स्वप्⟫ (2P) 3. pl. P. Perf. | he ovat nukkuneet |
 | ⟪५२⟫. ⟪ऊसु⟫ | ⟪वस्⟫ (1P) 2. pl. P. Perf. | te olette asuneet |
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Runot (⟪सुभाषितानि⟫)
 
@@ -83,10 +83,10 @@ Jos joku luovuttaa halut ja tyytyy yksin itsensä kautta itseensä, häntä kuts
 Vihan synnyttää hämärtyneisyys, hämärtyneisyyden synnyttää muistin sekaannus; muistin menetyksen seurauksena on ymmärryksen tuho, ja ymmärryksen tuhon kautta ihminen häviää.
 
 ⟪३⟫. **⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Hallitsemattomalle (ei-jogi) ei ole olemassa ymmärrystä.
+Hallitsemattomalle (ei-jogi) ei ole olemassa ymmärrystä. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung080.webp)
 Kuv.: ⟪सक्तः⟫
 (Kuv lähde: [Details](/licenses#uebung080))
-:::
+::: <!-- TODO: Fallback translation -->

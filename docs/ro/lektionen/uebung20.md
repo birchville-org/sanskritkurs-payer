@@ -53,7 +53,7 @@ Cei care au mers la Buddha aud adevărul despre suferință și celelalte (nobil
 B) Traduceți folosind compusele în sanscrită:
 
 1\. Un kṣatriya care nu ține toiagul în mână nu ocrotește poporul.
-⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (sau: ⟪जनान्रक्षति⟫ ⟪।⟫)
+⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (sau: ⟪जनान्रक्षति⟫ ⟪।⟫) <!-- TODO: Fallback translation -->
 
 2\. Kālidāsa și ceilalți poeți sunt profesorii de sanscrită.
 ⟪संस्कृतगुरवः⟫ ⟪कालिदासादिक्वयः⟫ ⟪।⟫
@@ -69,7 +69,7 @@ B) Traduceți folosind compusele în sanscrită:
 Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung031))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Analiza compuselor
 
@@ -242,7 +242,7 @@ Rezolvați următoarele compuse ca Bahuvrīhi și/sau Dvandva și/sau Tatpuruṣ
 Fig.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Sursa imaginii: [Detalii](/licenses#uebung030))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Fragmente Școlare
 
@@ -295,4 +295,4 @@ Săracii, care nu doresc, au foarte mulți fii, bogații nu au niciun fiu. Ciuda
 ![](/images/uebung032.webp)
 Ilustr.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Sursă imagine: [Detalii](/licenses#uebung032))
-:::
+::: <!-- TODO: Fallback translation -->

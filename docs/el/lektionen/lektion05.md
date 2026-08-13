@@ -5,7 +5,7 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα 5
 
@@ -151,7 +151,7 @@ Samāhāradvandva ("dvandva συγκέντρωσης") = ⟪समाहार�
 3. sāmavedargvedayajurvedās trayī.
 (Kauṭilīya-arthaśāstra 1.3.1. / σε καλό Σανσκριτικά: sāmārgyajurvedās trayī)
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-(σε καλό Σανσκριτικά: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+(σε καλό Σανσκριτικά: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
 
 4. Οι τρεις εχθροί του ανθρώπου, που αποτελούν την πύλη προς τον Άδη (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -168,7 +168,7 @@ Samāhāradvandva ("dvandva συγκέντρωσης") = ⟪समाहार�
 
 7. ānvīkṣikītrīvārttādaṇḍanitayo vidyāḥ.
 (Σύμφωνα με το Kauṭilīya-arthaśāstra 1.2.1.)
-⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
 
 ## 5.6. Άσκηση επανάληψης
 

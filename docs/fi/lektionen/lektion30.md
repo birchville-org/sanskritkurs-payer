@@ -9,12 +9,12 @@ status: stable
 
 # Luento 30
 
-## 30.1. 9. preesensluokka (⟪क्र्यादि⟫ = "⟪क्री⟫ jne.")
+## 30.1. 9. preesensluokka (⟪क्र्यादि⟫ = "⟪क्री⟫ jne.") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Muodostus:**
 
-*   vahva vartalo: syönnyn juuri + -nā-
+*   vahva vartalo: syönnyn juuri + -nā- <!-- TODO: Fallback translation -->
 
 *   heikko vartalo:
 
@@ -22,7 +22,7 @@ status: stable
 
     *   vokaalin edellä: syönnyn juuri + -n-
 :::
-Esimerkki:
+Esimerkki: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪क्री⟫ 9U "ostaa"
@@ -35,7 +35,7 @@ Esimerkki:
 | **3. persoonan:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
-Tässä preesensluokassa on erityisesti huomioitava preesanssivarsan muodostaminen juureen ⟪ज्ञा⟫ 9U "tunnistaa, tietää":
+Tässä preesensluokassa on erityisesti huomioitava preesanssivarsan muodostaminen juureen ⟪ज्ञा⟫ 9U "tunnistaa, tietää": <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -69,7 +69,7 @@ Esimerkki:
 ::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
-## 30.2. Optatiivin käyttö (⟪लिङ्⟫)
+## 30.2. Optatiivin käyttö (⟪लिङ्⟫) <!-- TODO: Fallback translation -->
 
 Optatiivia käytetään:
 
@@ -78,17 +78,17 @@ Optatiivia käytetään:
 
 *   **toivetta**
 *   **pyyntöä**
-*   **lievennettyä käskyä**
+*   **lievennettyä käskyä** <!-- TODO: Fallback translation -->
 
 **(tässä optatiivi - ⟪लिङ्⟫ - leikkaa imperatiivin kanssa - ⟪लोट्⟫)**
 :::
-Esimerkki:
+Esimerkki: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Orja tulkaa kylään"
 :::
 ::: grammar-box
-**2. Jos jotain**
+**2. Jos jotain** <!-- TODO: Fallback translation -->
 
 *   **mahdollisena**
 *   **todennäköisenä**
@@ -104,14 +104,14 @@ Esimerkki:
 ::: grammar-box
 **3. Optatiivisia suhteellislauseita voi joskus tarkoittaa: "Jos joku ..."**
 :::
-Esimerkki:
+Esimerkki: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Jos joku sanoisi epätotuutta, hän lankeaisi helvettiin = Jos joku sanoo epätotuutta, hän langkee helvettiin"
 :::
-## 30.3. Kolmannen persoonan yksikön ja monikon sekundääriset päätteet
+## 30.3. Kolmannen persoonan yksikön ja monikon sekundääriset päätteet <!-- TODO: Fallback translation -->
 
-Optatiivi (⟪लिङ्⟫), imperfekti (⟪लङ्⟫), aoristi (⟪लुङ्⟫), prekatiivi (⟪आशिर्लिङ्⟫) ja konditionaali käyttävät ns. sekundäärisiä päätteitä:
+Optatiivi (⟪लिङ्⟫), imperfekti (⟪लङ्⟫), aoristi (⟪लुङ्⟫), prekatiivi (⟪आशिर्लिङ्⟫) ja konditionaali käyttävät ns. sekundäärisiä päätteitä: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -128,9 +128,9 @@ Optatiivi (⟪लिङ्⟫), imperfekti (⟪लङ्⟫), aoristi (⟪लु
 ::: grammar-box
 **konsonanttialkuisten pääteformien edellä:**
 
-**Preesansivarsi + -i- (yhdistyy vokaalin kanssa muotoon -e-) + primäärisäädökset**
+**Preesansivarsi + -i- (yhdistyy vokaalin kanssa muotoon -e-) + primäärisäädökset** <!-- TODO: Fallback translation -->
 
-**vokaalilla alkavien päätemuotojen edellä:**
+**vokaalilla alkavien päätemuotojen edellä:** <!-- TODO: Fallback translation -->
 
 **Preesansivarsi + -i- (» -e-) + -y- + primäärinen pääte**
 :::
@@ -226,7 +226,8 @@ preesanskoulu
 | **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 
@@ -247,11 +248,11 @@ preesanskoulu
 ## 30.5. Lopun -r:n sandhi
 
 ::: grammar-box
-**Paitsi -ar:n kohdalla, lopun -r:lle pätevät samat sandhisäännöt kuin lopulle -s:lle.**
+**Paitsi -ar:n kohdalla, lopun -r:lle pätevät samat sandhisäännöt kuin lopulle -s:lle.** <!-- TODO: Fallback translation -->
 
 **-ar tönäisten äänneaseiden edellä pysyy -ar, mutta r-:n edessä -r katoaa ja -a- korvautuu -ā:lla.**
 :::
-Esimerkit:
+Esimerkit: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
@@ -281,7 +282,7 @@ Kuv.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Kuv. lähde: [Tiedot](/fi/licenses#lekt3001))
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : tuntea, tunnistaa, tietää, ymmärtää
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : tuntea, tunnistaa, tietää, ymmärtää <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -293,7 +294,7 @@ Inf. ⟪ज्ञातुम्⟫
 
 siitä:
 
-⟪ज्ञाति⟫ m.: (suku)vertainen (sukulaiset ovat niitä, joita tunnetaan!)
+⟪ज्ञाति⟫ m.: (suku)vertainen (sukulaiset ovat niitä, joita tunnetaan!) <!-- TODO: Fallback translation -->
 
 ⟪ज्ञान⟫ n.: tieto, tietämys, tuntemus (erityisesti "korkeampia" totuuksia uskonnoissa ja filosofiassa)
 :::
@@ -303,7 +304,7 @@ Kuv.: ⟪ज्ञातयः⟫
 Darewadi, Ahmed Nagarin piirikunta = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3002))
 :::
-⟪पू⟫ 9U ⟪पुनाति⟫ : puhdistaa
+⟪पू⟫ 9U ⟪पुनाति⟫ : puhdistaa <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪पविष्यति⟫  
@@ -317,7 +318,7 @@ Inf. ⟪पवितुम्⟫
 Kuv.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3003))
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : syödä, kuluttaa
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : syödä, kuluttaa <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
@@ -332,26 +333,26 @@ Kuv.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, Etelä-Intia
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3005))
 :::
-⟪प्रिय⟫ ⟪३⟫: rakas, rakkautta osoittava, ystävällinen
+⟪प्रिय⟫ ⟪३⟫: rakas, rakkautta osoittava, ystävällinen <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3004.webp)
 Kuvaus.: ⟪प्रिया⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3004))
 :::
-⟪चेत्⟫ Konjunktion: jos; edellyttäen, että (ei koskaan lauseen alussa)
+⟪चेत्⟫ Konjunktion: jos; edellyttäen, että (ei koskaan lauseen alussa) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : jos ei
 :::
-⟪यदि⟫ Konjunktion: jos
+⟪यदि⟫ Konjunktion: jos <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪यद्यपि⟫ : vaikka, jopa jos, vaikkakin
 
 ⟪यद्येवम्⟫ : jos näin on, näissä olosuhteissa
 :::
-⟪पुनर्⟫ : uudelleen, aina uudestaan, takaisin, vielä kerran, päinvastoin, mutta
+⟪पुनर्⟫ : uudelleen, aina uudestaan, takaisin, vielä kerran, päinvastoin, mutta <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪पुनः⟫ ⟪पुनर्⟫ : aina uudelleen
@@ -365,7 +366,7 @@ siitä:
 Kuv.: ⟪पुनर्भवः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt2904))
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : elää
+⟪जीव्⟫ 1P ⟪जीवति⟫ : elää <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪जीविष्यति⟫  
@@ -378,7 +379,7 @@ siitä:
 
 ⟪जीव⟫ m./n.: elämä, yksilöllinen sielu
 :::
-⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ikuinen, kuolematon, pysyvä
+⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ikuinen, kuolematon, pysyvä <!-- TODO: Fallback translation -->
 
 ## 30.7. Harjoitus
 
@@ -450,7 +451,7 @@ A) Muunna seuraavat verbimuodot vastaaviin optatiivimuotoihin persoonan, numeron
 64.  ⟪अदन्ति⟫
 65.  ⟪अध्यापयन्ति⟫
 
-B) Käännä seuraavat lauseet ja ratkaise sanskritinkieliset yhdyssanat:
+B) Käännä seuraavat lauseet ja ratkaise sanskritinkieliset yhdyssanat: <!-- TODO: Fallback translation -->
 
 ⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫
 
@@ -473,7 +474,7 @@ B) Käännä seuraavat lauseet ja ratkaise sanskritinkieliset yhdyssanat:
 
 ## 30.8. Muoto-opin toistoharjoitus
 
-Määritä ja käännä seuraavat sanamuodot:
+Määritä ja käännä seuraavat sanamuodot: <!-- TODO: Fallback translation -->
 
 1.  ⟪भारे⟫
 2.  ⟪अध्ययनम्⟫

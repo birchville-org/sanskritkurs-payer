@@ -14,7 +14,7 @@ Pentru jha este, de asemenea, uzată următoarea formă:
 
 ## Exercițiu
 
-A) Scrieți în Devanāgarī:
+A) Scrieți în Devanāgarī: <!-- TODO: Fallback translation -->
 
 bhavati yudh dhenuḥ sādhavaḥ bhūmiḥ ḍhuḍhi ghaṭa ḍuḍhauke jhālā ḍhola ghoṣaṃ bhṛ jaghajhagāyamāno bhos jhāḍhāmalā bhogaḥ
 

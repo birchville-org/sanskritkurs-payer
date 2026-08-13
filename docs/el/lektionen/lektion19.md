@@ -67,7 +67,7 @@ lesson_id: 19
 | **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
 
 **Ως πρόθετο σε σύνθετα, εμφανίζεται η ρίζα ⟪यद्⟫ (υπολογισμός του Sandhi).**
 
@@ -224,7 +224,7 @@ Badami (ಬದಾಮಿ)
 
 **lekt1809:** Εικονογράφηση για το ⟪कामसूत्र⟫ [Πηγή εικόνας: Wikipedia, Δημόσιος τομέας]
 
-**lekt1901:** Badami (ಬದಾಮಿ) [Πηγή εικόνας: Sudarshan Bhat Khandige / Wikipedia, Δημόσιος τομέας]
+**lekt1901:** Badami (ಬದಾಮಿ) [Πηγή εικόνας: Sudarshan Bhat Khandige / Wikipedia, Δημόσιος τομέας] <!-- TODO: Fallback translation -->
 
 **lekt1902:** Goa (⟪गोंय⟫) [Πηγή εικόνας: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Πρόσβαση στις 2008-12-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση εξαγωγής)]
 

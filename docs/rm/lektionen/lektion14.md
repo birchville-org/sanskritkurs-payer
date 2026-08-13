@@ -1,82 +1,83 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: "Lecziun 14"
+subtitle: "L'expressiun dal rapport tranter quai ch'è designà tras substantivs: il genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesc casus)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 14
 
-## 14.1. L'exprimi dal rapport tranter quai designà cun sustantivs: il genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sescav casusfinal)
+## 14.1. L'exprimi dal rapport tranter designads per substantivs: il genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesc casusfin) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-Quai che la relaziun tranter dus sustantivs vegn exprimida, duvrar si il genitiv (ṣaṣṭhī f. "sasegna desinenza da cas"). Il genitiv sa distingiar da tut ils auters cas cun quai ch'el – cun paucs excepziuns – na serva betg a la determinaziun pli precisa da l'acziun exprimida tras il verb, mabain a l'exprimi da la relaziun tranter persunas u chosas, ch'èn designadas tras sustantivs. Spess sa chatta il genitiv sin la dumonda: Da tgi?
+Sche il rapport dal designà per dus substantivs duess esser exprimì, vegn adina il genitiv (ṣaṣṭhī f. "sesc casusfin") duvrà. Il genitiv distinguescha da tut ils ulteriurs casos perquai, ch'el – cun paucs excepziuns – na serva betg per la determinaziun pli detagliada da l'acziun exprimida tras il verb, mabain per exprimer il rapport tranter persunas u cossas, las qualas vegnan designadas tras substantivs. Spessestas stat il genitiv sin la dumonda: A cui appartegna?
 :::
-Exempels:
+Exemples:
 
-⟪कवेः⟫ ⟪पुत्रः⟫ "Il figl dal poet"
+⟪कवेः⟫ ⟪पुत्रः⟫ "Il figl dal poèt"
 
-⟪धनस्य⟫ ⟪लोभः⟫ "Gier nach Reichtum"
+⟪धनस्य⟫ ⟪लोभः⟫ "La avidad per la riqueza"
 
-⟪नगरस्यार्धम्⟫ "La mesadad da la citad"
+⟪नगरस्यार्धम्⟫ "La mesa da la citad"
 
-⟪रामस्य⟫ ⟪कृतम्⟫ "La / Ina acziun da Rāma"
+⟪रामस्य⟫ ⟪कृतम्⟫ "L'acziun / Ina acziun da Rāma"
 
 ::: grammar-box
-La posiziun normala da las paraulas è:
+La posiziun normala da la paraula è:
 
-> **Genitiv determinant — substantiv ulterior en invariàbel cas**
+> **Paracla determinanta en il genitiv — Substantiv pli detaglià en in auter casus**
 :::
-**Genitiv e participi dal passà passiv:**
+**Genitiv e PPP:**
 
 ::: grammar-box
-En cun construcziuns cun participi dal passì (PPP) po il genitiv remplazzar l'instrumentalis (tṛtīyā) per l'agent (kartṛ); en la construcziun cun l'instrumentalis vegn il PPP considerà sco forma verbala passiva (quai che stat en l'instrumentalis designescha l'agent), en la construcziun cun il genitiv vegn il PPP considerà sco substantiv u adjectiv (quai che stat en il genitiv n'è pia betg realmain l'agent).
+Cun PPPs po il genitiv vegnir duvrà en plaz dal instrumental (tṛtīyā) per l'agens (kartṛ); En la construcziun cun il instrumental vegn il PPP considerà sco forma verbalica passiva (quai che stat en il instrumental designescha l'agens), en la construcziun cun il genitiv vegn il PPP considerà sco substantiv u adjectiv (quai che stat en il genitiv n'è uschia betg realmain l'agens).
 
-Secondum Pāṇini 2.3.67 statuescha al PPP il genitiv, sche il PPP ha significà presentiala (vair sura), il instrumental, sche il PPP ha significà preteritala:
+Suenter Pāṇini 2.3.67 stat en il PPP il genitiv, sche il PPP ha in significà presentic (vair qua sur), l'instrumental, sche il PPP ha in significà dal temp passà:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "La fructa volida da Rama = La fructa che Rama actualmain vul"
+> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "La fruita che Rāma vul = La fruita, che Rāma vul actualmain"
 > 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "La fructa che Rama ha vulida"
+> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "La fruita, che Rāma ha vulì"
 
-Naturalmente, in un PPP neutru singular, usà scoi substantiv verbal, sa chatta il genitiv.
+Naturalmain stat en in PPP neutrum singular, che vegn duvrà sco abstractum verbal – uschia sco substantiv – il genitiv.
 :::
-## 14.2. Furmar las formas dal genitiv (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. Furmaziun dals genitivs (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
-Il cas genitiv vegn format per las radichs verbalas cun variaziun da la radichsa dal stem debel.
+Il genitiv vegn furmà cun stins verbals cun abstitziun dal stin dal stadi debil.
 
-**Genitiv da stams consonantics:**
+**Genitiv da stins consonanticamain finents:**
 
 ::: grammar-box
 
-Post consonant è las desinenzas regulars dal genitiv:
+Suenter consonantas èn las finidas regularas dal genitiv:
 * Singular: **-as**
 * Plural: **-ām**
 
 :::
 ::: center
 
-| Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
+| Stin nominal | Stin debil | Genitiv singular | Genitiv plural |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
-**Genitiv da stams cun finala vocalica, excetgà stins monosillabics da radis e stams cun finala de dittongica:**
+**Genitiv da stins vocalicamain finents, excetgà stins monosillabics da radichas e stins finents cun diphtong:**
 
 **Plural:**
 
 ::: grammar-box
 
-Il plural dal genitiv da radichas che finischan cun vocala vegn format uschia:
+Il genitiv plural da stins finents vocalicamain vegn furmà uschia:
 
-> **-langer auslautender Vokal des Stammes + -nām**
+> **-vocal lung final dal stin + -nām**
 
 :::
 ::: center
 
-| Nominativstamm | Genitiv Plural |
+| Stin nominal | Genitiv plural |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ |
@@ -88,16 +89,16 @@ Il plural dal genitiv da radichas che finischan cun vocala vegn format uschia:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genitiv Singular da stems cun finala vocalica:**
+**Genitiv Singular da stossclins vocalics:**
 
 ::: grammar-box
 
-Il cas genitiv singular da radichs che fineschan cun vocala vegn format irreglamentarmain ed è bain da memorisar.
+Il genetiiv singular da stossclins vocalics vegn furmà irregularmain ed è bain a memoria.
 
 :::
 ::: center
 
-| Stamm | Genitiv Singular |
+| Stem | Genetiiv Singular |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -105,72 +106,72 @@ Il cas genitiv singular da radichs che fineschan cun vocala vegn format irreglam
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. either we kavi or like devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. either we paśu or like more-syllabic feminines on -ū) |
 
 :::
-**Fragepronomen und Demonstrativpronomen:**
+**Interrogativpronomen e demonstrativpronomen:**
 
 ::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Masculin / Neutrum** | **Genetiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
-| | **Genetiv Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
-| **Feminin** | **Genetiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **Genetiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| **Masculin / Neutrum** | **Genetiiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genetiiv Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Feminin** | **Genetiiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genetiiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
 **Formengleichheit:**
 
 ::: important
 
-Tar tut ils stems nominalas cun excepziun dals masculins e neutrals sin -a e dals pronomins è la forma dal genitiv singular identica cun la forma dal ablativ (pañcamī "sotgna deschina da casus") singular!
+Cun tut ils stossclins nominalas cun excepziun dals masculina e neutra sin -a ed ils pronomens è la furma dal genetiiv singular identica cun la furma dal ablative (pañcamī "quint cas") singular!
 
-Tutina che, en stems cun finala consonantica, l’ablativ ed il genitiv singular han la medema furma sco l’accusativ plural masculin e feminin!
+Notai che cun stossclins consonanticus finalis ablative e genetiiv singular sun identics cun l'accusativ plural masculina e feminina!
 
 :::
-## 14.3. Ulteriur davart dal cas genitiv (⟪षष्ठी⟫)
+## 14.3. Ulteriur davart l'usi dal genetiiv (⟪षष्ठी⟫)
 
 ::: grammar-box
-Contrari a la regla general surmenziunada, vegn il genitiv adina puspè duvrà per exprimer l'object da quai ch'è da memorisar, per exempel en il cas da verbs da remembrar:
+Contrari a la regulaziun fundamentala sura vegn il genetiiv usà per exprimer l'object da quai ch'è verbs, p.ex. cun verbs dal remembrar:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "El remembra ils divins"
+> ⟪देवानां⟫ ⟪स्मरति⟫ "El remembra ils dèus"
 
-Per tuttas questas verbs po l'objecti er star en l'accusativ:
+Cun tut quests verbs po l'object era esser en l'accusativ:
 
-> ⟪देवान्स्मरति⟫ "El remira ils deus"
+> ⟪देवान्स्मरति⟫ "El remembra ils dèus"
 
-Ulteriur suenter.
+Ulteriur pli tard.
 :::
-## 14.4. Vocabulari
+## 14.4. Glossari
 
 * **śīla n.** (⟪शील⟫) : (bon) caracter, moralitad
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : ornament
-* **dīpa m.** (⟪दीप⟫) : lamp
+* **dīpa m.** (⟪दीप⟫) : lampada
 
 ::: media
 ![](/images/lekt1405.webp)
 Abb.: ⟪दीपाः⟫
-(Bildquelle: [Details](/rm/licenses#lekt1405))
+(Sursa d'imagines: [Detagls](/rm/licenses#lekt1405))
 :::
-* **bala n.** (⟪बल⟫) : violenza, forza, potenza; forza militare, schiera
-* **bāla 3** (⟪बाल⟫) : giovane, infantile, stolto; m. ragazzo
-* **bālā f.** (⟪बाला⟫) : giovane fanciulla
-* **nara m.** (⟪नर⟫) : uomo, essere umano
-* **śatru m.** (⟪शत्रु⟫) : nemico
-* **loka m.** (⟪लोक⟫) : mondo; Sing. e Plur.: la gente, le persone, il popolo
-* **jala n.** (⟪जल⟫) : acqua
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : nascere, sorgere, apparire
-  * **jan-a m.** (⟪जन⟫) : creatura, essere umano, persone
-* **vac 2 P** (vakti, nessuna 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : dire, parlare a (dativo)
-  * **uk-ti f.** (⟪उक्ति⟫) : proclama, parola
-  * **vac-ana n.** (⟪वचन⟫) : il parlare, la parola
-  * **vāk-ya n.** (⟪वाक्य⟫) : parola, discorso
+* **bala n.** (⟪बल⟫) : violenza, forza, stärkezza; forsa d'armada, schiera
+* **bāla 3** (⟪बाल⟫) : giuvna, infantil, stulta; m. püvel
+* **bālā f.** (⟪बाला⟫) : giuvna femna
+* **nara m.** (⟪नर⟫) : um, uman
+* **śatru m.** (⟪शत्रु⟫) : inimic
+* **loka m.** (⟪लोक⟫) : mund; Sing. e Plur.: la glieut, ils umans, il püvel
+* **jala n.** (⟪जल⟫) : aua
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : nascher, emerger, apparir
+* **jan-a m.** (⟪जन⟫) : creatura, uman, glieut
+* **vac 2 P** (vakti, nagina 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : dir, parlar a (dvitīyā)
+* **uk-ti f.** (⟪उक्ति⟫) : declaraziun, parola
+* **vac-ana n.** (⟪वचन⟫) : il parlar, la parola
+* **vāk-ya n.** (⟪वाक्य⟫) : parola, discurs
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverbis
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverbis <!-- TODO: Fallback translation -->
 
-Traducì las suventas e memurisescha-les:
+Traducir ils suventins proverbs ed impara-los a memoria:
 
 **⟪नीचो⟫ ⟪वद⟫ati ⟪न⟫ ⟪कुरुते⟫** **⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫**
 
@@ -182,9 +183,9 @@ Traducì las suventas e memurisescha-les:
 
 **⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫**
 
-## 14.6. Esercizi
+## 14.6. Exercizi
 
-**A) Formai il genitiv singular e plural als suvents pleds. Dat il significà ed il gender dals pleds:**
+**A) Fatsch il genitiv singular e plural a las suventas paraulas. Dar il significat ed il gender da las paraulas:**
 
 ⟪१⟫. ⟪अनृत⟫
 
@@ -238,10 +239,10 @@ Traducì las suventas e memurisescha-les:
 
 ::: media
 ![](/images/lekt1404.webp)
-Fig.: ⟪पुत्रवती⟫
-(Imàgin: [Detagls](/rm/licenses#lekt1404))
+Abb.: ⟪पुत्रवती⟫
+(Sursa d’imagines: [Detagl](/rm/licenses#lekt1404))
 :::
-⟪२६⟫. ⟪जल⟫
+⟪२६⟫. ⟪जल⟫ <!-- TODO: Fallback translation -->
 
 ⟪२७⟫. ⟪मार्ग⟫
 
@@ -289,7 +290,7 @@ Fig.: ⟪पुत्रवती⟫
 
 ⟪४९⟫. ⟪गूढा⟫
 
-⟪५०⟫. ⟪ईष्टा⟫ (2 bedients)
+⟪५०⟫. ⟪ईष्टा⟫ (2 significats)
 
 ⟪५१⟫. ⟪उदित⟫
 
@@ -299,12 +300,12 @@ Fig.: ⟪पुत्रवती⟫
 
 ::: media
 ![](/images/lekt1403.webp)
-Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-(Fontana da l'imagina: [Detagls](/rm/licenses#lekt1403))
+Abb.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
+(Sursa d’imagines: [Detagl](/rm/licenses#lekt1403))
 :::
-**B) Traduschaì:**
+**B) Traducir:**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 pussibilitads)
+⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 pussaivladads)
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 
@@ -332,6 +333,6 @@ Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 
 ::: media
 ![](/images/lekt1402.webp)
-Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-(Imàgin: [Detagls](/rm/licenses#lekt1402))
+Abb.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
+(Sursa d’imagines: [Detagl](/rm/licenses#lekt1402))
 :::

@@ -67,7 +67,7 @@ Remarque : Dans les relatives de contenu universel, on utilise volontiers l'opta
 | **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
 
 **En tant que premier membre de composés, le thème apparaît sous la forme ⟪यद्⟫ (en respectant le sandhi).**
 
@@ -224,11 +224,11 @@ Explication : ⟪पुमान्⟫ Nom. sg. de ⟪पुंस्⟫ "homme"
 
 **lekt1809 :** Illustration pour le ⟪कामसूत्र⟫ [Source de l'image : Wikipedia, Domaine public]
 
-**lekt1901 :** Badami (ಬದಾಮि) [Source de l'image : Sudarshan Bhat Khandige / Domaine public]
+**lekt1901 :** Badami (ಬದಾಮि) [Source de l'image : Sudarshan Bhat Khandige / Domaine public] <!-- TODO: Fallback translation -->
 
 **lekt1902 :** Goa (⟪गोंय⟫) [Source de l'image : pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Consulté le 2008-12-08. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
 
-**lekt1903 :** ⟪१९५९⟫ [Source de l'image : Wikipedia, Domaine public]
+**lekt1903 :** ⟪१९५९⟫ [Source de l'image : Wikipedia, Domaine public] <!-- TODO: Fallback translation -->
 
 **lekt1904 :** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), en costume traditionnel est une coutume dans les parties méridionales du Kerala. _Onappottan_ visite les maisons pendant le _onam_ et donne des bénédictions. Récemment, _onappottan_ est devenu une vue rare, confinée aux villages." [Source de l'image : Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Consulté le 2008-12-08. -- Licence Creative Commons (Attribution)]
 :::

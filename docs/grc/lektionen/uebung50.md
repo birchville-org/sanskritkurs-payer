@@ -95,7 +95,7 @@ last_reconstructed: 2026-05-15
 
 ---
 
-### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
+### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs <!-- TODO: Fallback translation -->
 
 
 **⟪न⟫ ⟪किंचिदवमन्येत⟫**

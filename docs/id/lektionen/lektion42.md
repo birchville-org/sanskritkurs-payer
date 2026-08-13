@@ -9,7 +9,7 @@ status: stable
 
 # Pelajaran 42
 
-## 42.1. Stamm pada -ṛ
+## 42.1. Batang pada -ṛ
 
 ### 42.1.1. Batang kata dengan tingkat perpanjangan pada batang kata kuat
 
@@ -130,7 +130,7 @@ Examples:
 | Rest as ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
-### 42.1.4. Stamm pada -ṛ dalam majemuk
+### 42.1.4. Batang pada -ṛ dalam majemuk
 
 ::: grammar-box
 As the first member of a compound, nouns ending in -ṛ naturally stand in their weak stem, i.e.

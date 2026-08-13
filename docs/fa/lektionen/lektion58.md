@@ -21,21 +21,21 @@ status: stable
 :::
 ## 58.2. دوگانه کلاس‌های مضارع تماتیک: وجه اخباری مضارع (⟪लट्⟫)
 
-Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. <!-- TODO: Fallback translation -->
+پیش از -vas و -vahe، واجه موضوعی -a- با -ā- جایگزین می‌شود.
 
 ### 58.2.1. کلاس اول مضارع (⟪भ्वादिगणः⟫)
 
-⟪भू⟫ 1P "werden, sein" <!-- TODO: Fallback translation -->
+⟪भू⟫ ۱پ «شدن، بودن»
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
 
 ### 58.2.2. کلاس چهارم مضارع (⟪دیوادیگَنَه⟫)
 
-⟪नृत्⟫ 4P "tanzen" <!-- TODO: Fallback translation -->
+⟪नृत्⟫ 4P "رقصیدن"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -45,13 +45,13 @@ Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. <!-- TODO: Fallba
 
 ::: media
 ![](/images/lekt5802.webp)
-Abb.: ⟪नृत्यतः⟫
+تصویر: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
-(Bildquelle: [Details](/licenses#lekt5802)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt5802))
 :::
-### 58.2.3. ششمین دسته مضارع (⟪تودادِگَنَه⟫)
+### ۵۸.۲.۳. کلاس ششم فعل حال (⟪तुदादिगणः⟫)
 
-⟪तुद्⟫ 6U "stoßen, schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U "به زانو درآوردن، کوبیدن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -62,7 +62,7 @@ Abb.: ⟪नृत्यतः⟫
 :::
 ### 58.2.4. طبقه دهم زمان حال (⟪चुरादिगणः⟫) و سببی (⟪णिजन्त⟫)
 
-⟪चुर्⟫ 10U "stehlen" <!-- TODO: Fallback translation -->
+⟪चुर्⟫ 10U "دزدیدن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -73,15 +73,15 @@ Abb.: ⟪नृत्यतः⟫
 :::
 ::: media
 ![](/images/lekt5803.webp)
-Abb.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
-Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-(Bildquelle: [Details](/licenses#lekt5803)) <!-- TODO: Fallback translation -->
+تصویر: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
+پارک ملی بندیپور -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
+(منبع تصویر: [جزئیات](/licenses#lekt5803))
 :::
 ## 58.3. تثنیه آینده ساده (⟪ऌत्⟫)
 
 ### 58.3.1. ⟪अनिट्⟫
 
-⟪दा⟫ 3U "geben" <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U «دادن»
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -92,7 +92,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 ### 58.3.2. ⟪सेट्⟫
 
-⟪भू⟫ 1P "werden, sein" <!-- TODO: Fallback translation -->
+⟪भू⟫ ۱پ «شدن، بودن»
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -103,7 +103,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 ## 58.4. دوگانه مجهول (پسوند -⟪یاک⟫)
 
-⟪तुद्⟫ 6U "stoßen, schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U "دَفع کردن، کوبیدن"
 
 ::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪तुद्यवाहे⟫ |
@@ -115,7 +115,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
 ### 58.5.1. کلاس دوم زمان حال (⟪अदादिगणः⟫)
 
-⟪द्विष्⟫ 2U "hassen" <!-- TODO: Fallback translation -->
+⟪द्विष्⟫ 2U "نفرت داشتن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -124,7 +124,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्ठस्⟫ | ⟪द्विषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪द्विष्टस्⟫ | ⟪द्विषाते⟫ |
 :::
-⟪दुह्⟫ 2U "melken" <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2U "دوشیدن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -133,7 +133,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | *:sig[⟪दुग्धस्⟫]* | ⟪दुहाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | *:sig[⟪दुग्धस्⟫]* | ⟪दुहाते⟫ |
 :::
-⟪इ⟫ 2P "gehen" <!-- TODO: Fallback translation -->
+⟪इ⟫ 2P "رفتن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -144,10 +144,10 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 ::: media
 ![](/images/lekt5806.webp)
-Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
-(Bildquelle: [Details](/licenses#lekt5806)) <!-- TODO: Fallback translation -->
+تصویر: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5806))
 :::
-⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren" <!-- TODO: Fallback translation -->
+⟪इ⟫ + ⟪अधि⟫ 2Ā "مطالعه کردن"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -158,10 +158,10 @@ Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 :::
 ::: media
 ![](/images/lekt5804.webp)
-Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
-(Bildquelle: [Details](/licenses#lekt5804)) <!-- TODO: Fallback translation -->
+تصویر: ⟪कन्ये⟫ ⟪अधीयते⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5804))
 :::
-⟪हन्⟫ 2P "erschlagen" <!-- TODO: Fallback translation -->
+⟪हन्⟫ ۲P "کشتن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -170,23 +170,23 @@ Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 | **2. ⟪मध्यमः⟫** | :sig[⟪हथस्⟫] :br*hn-thas |
 | **3. ⟪प्रथमः⟫** | *:sig[⟪हतस्⟫]* |
 :::
-⟪अस्⟫ 2P "sein" <!-- TODO: Fallback translation -->
+⟪अस्⟫ ۲P "بودن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | :--- | :---: |
-| **1. ⟪तृतीयः⟫** | :sig[⟪स्वस्⟫] :brs-vas |
-| **2. ⟪मध्यमः⟫** | *:sig[⟪स्थस्⟫]* |
-| **3. ⟪प्रथमः⟫** | *:sig[⟪स्तस्⟫]* |
+| **۱. ⟪तृतीयः⟫** | :sig[⟪स्वस्⟫] :brs-vas |
+| **۲. ⟪मध्यमः⟫** | *:sig[⟪स्थस्⟫]* |
+| **۳. ⟪प्रथमः⟫** | *:sig[⟪स्तस्⟫]* |
 :::
 ::: media
 ![](/images/lekt5805.webp)
-Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
-(Bildquelle: [Details](/licenses#lekt5805)) <!-- TODO: Fallback translation -->
+تصویر: ⟪भगिन्यौ⟫ ⟪स्वः⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5805))
 :::
-### 58.5.2. کلاس سوم مضارع (⟪जुहोत्यादिगणः⟫)
+### ۵۸.۵.۲. کلاس سوم فعل حال (⟪जुहोत्यादिगणः⟫)
 
-⟪हु⟫ 3P "ins Opferfeuer gießen" <!-- TODO: Fallback translation -->
+⟪हु⟫ ۳P "در آتش قربانی ریختن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -195,7 +195,7 @@ Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> |
 :::
-⟪धा⟫ 3U "setzen, legen, stellen" <!-- TODO: Fallback translation -->
+⟪धा⟫ 3U "قرار دادن، گذاشتن، قرار دادن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -206,7 +206,7 @@ Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 :::
 ### 58.5.3. پنجمین دسته مضارع (⟪سوادِگَنَه⟫)
 
-⟪सु⟫ 5U "auspressen" <!-- TODO: Fallback translation -->
+⟪सु⟫ 5U «عصاره کردن»
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -216,13 +216,13 @@ Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 
 ::: media
 ![](/images/lekt5807.webp)
-Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
+تصویر: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
-(Bildquelle: [Details](/licenses#lekt5807)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt5807))
 :::
-### 58.5.4. طبقه هشتم مضارع (⟪तनादिगणः⟫)
+### ۵۸.۵.۴. کلاس فعلی هشتم (⟪तनादिगणः⟫)
 
-⟪तन्⟫ 8U "aufspannen" <!-- TODO: Fallback translation -->
+⟪तन्⟫ ۸U "گسترش دادن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -231,7 +231,7 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪तनुथस्⟫ | ⟪तन्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुतस्⟫ | ⟪तन्वाते⟫ |
 :::
-⟪कृ⟫ 8U "tun, machen" <!-- TODO: Fallback translation -->
+⟪कृ⟫ ۸U "انجام دادن، ساختن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -242,7 +242,7 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 :::
 ### 58.5.5. رده هفتم مضارع (⟪रुधादिगणः⟫)
 
-⟪रुध्⟫ 7U "stoppen" <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U "توقف کردن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -251,7 +251,7 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | *:sig[⟪रुन्द्धस्⟫]* | ⟪रुन्धाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धस्⟫ | ⟪रुन्धाते⟫ |
 :::
-⟪युज्⟫ 7U "anschirren" <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U "به کار بستن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -262,7 +262,7 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 :::
 ### 58.5.6. نهمین دسته مضارع (⟪کریادیگَنَه⟫)
 
-⟪क्री⟫ 9U "kaufen" <!-- TODO: Fallback translation -->
+⟪क्री⟫ 9U "خریدن"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -272,61 +272,61 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 
 ::: media
 ![](/images/lekt5801.webp)
-Abb.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
-(Bildquelle: [Details](/licenses#lekt5801)) <!-- TODO: Fallback translation -->
+تصویر: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-آوریست
+## ۵۸.۶. آئوریست ۵: iṣ-Aorist
 
 ::: grammar-box
-**Der iṣ-Aorist wird von allen seṭ-Wurzeln gebildet, für die nicht ausdrücklich ausschließlich eine andere Form des Aorist gelehrt wird.** <!-- TODO: Fallback translation -->
+**آئوریست iṣ از تمام ریشه‌های seṭ تشکیل می‌شود، برای آنهایی که صراحتاً فقط یک شکل دیگر آئوریست آموزش داده نمی‌شود.**
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**تشکیل:**
 
-**Augment + Wurzel + i + s + athematische Sekundärendung** <!-- TODO: Fallback translation -->
+**اوگمنت + ریشه + i + s + پسوند ثانوی بی‌حشو**
 
-**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen). <!-- TODO: Fallback translation -->
+**!!!** شخص دوم مفرد و سوم مفرد از **-**īs یا -īt نشأت می‌گیرند **!!!** (این پدیده از انتقال ناقص ریشه‌هایی از نوع ⟪अब्रवीत्⟫ ناشی شده است؛ بنابراین در واقع شکل‌های آئوریست ریشه هستند).
 :::
-Stammbildungssuffix + Endungen des iṣ-Aorist lauten also: <!-- TODO: Fallback translation -->
+پسوند تشکیل بن و پایان‌های آئوریست iṣ به این صورت است:
 
 ::: grammar-box
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
-| **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h oder Halbvokal) |
-| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
+| **۱. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
+| **۲. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(انتخابی بر اساس -h یا نیم‌صامت) |
+| **۳. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
 :::
 ::: grammar-box
-**Form der Wurzel:** <!-- TODO: Fallback translation -->
+**شکل ریشه:**
 
-*   **Wurzeln mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā**   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫  
-    ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫ <!-- TODO: Fallback translation -->
+*   **ریشه‌هایی با واکه کوتاه قبل از همخوان ساده: سطح عالی در P و Ā**
+مثال‌ها:  
+⟪बुध्⟫ 1U: شخص اول مفرد P ⟪अबोधिषम्⟫  
+⟪कॢप्⟫ 1Ā: شخص اول مفرد Ā ⟪अकल्पिषि⟫
 
-*   **Wurzeln mit auslautendem Vokal:** <!-- TODO: Fallback translation -->
-    *   **P: Dehnstufe** <!-- TODO: Fallback translation -->
-    *   **Ā: Hochstufe** <!-- TODO: Fallback translation -->
+*   **ریشه‌هایی با واکه پایانی:**
+    *   **P: درجه کشیده**
+    *   **Ā: سطح عالی**
 
-    Beispiele:  
-    ⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫ <!-- TODO: Fallback translation -->
+مثال‌ها:  
+⟪पू⟫ 9U: شخص اول مفرد P ⟪अपाविषम्⟫ ; شخص اول مفرد Ā ⟪अपविषि⟫
 
-*   **Wurzeln auf -ar., -al sowie ⟪वद्⟫ 1P "sagen", ⟪व्रज्⟫ 1P "weggehen": P: Dehnstufe**   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫  
-    ⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫ <!-- TODO: Fallback translation -->
+*   **ریشه‌های منتهی به -ar، -al و همچنین ⟪वद्⟫ ۱پ «گفتن»، ⟪व्रज्⟫ ۱پ «رفتن»: پ: مرحله دراز**
+نمونه‌ها:  
+⟪चर्⟫ ۱پ: ۱.مف.پ ⟪अचारिषम्⟫  
+⟪वद्⟫ ۱پ: ۱.مف.پ ⟪अवादिषम्⟫
 
-*   **Andere Wurzeln der Form (Kons.-)Kons.-a-Kons.: im P wahlweise Dehnstufe (gilt nicht für Wurzeln auf -h, -m, -y sowie einige weitere Wurzeln)**   <!-- TODO: Fallback translation -->
-    Beispiel:  
-    ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
-    aber:  
-    ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫ <!-- TODO: Fallback translation -->
+*   **سایر ریشه‌های به شکل (همخوان-)همخوان-a-همخوان: در پ به انتخاب مرحله دراز (برای ریشه‌های منتهی به -h، -m، -y و چندین ریشه دیگر صدق نمی‌کند)**
+نمونه:  
+⟪तन्⟫ ۸و: ۱.مف.پ ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
+اما:  
+⟪क्रम्⟫ ۱و: ۱.مف.پ ⟪अक्रमिषम्⟫
 :::
-Paradigmen: <!-- TODO: Fallback translation -->
+جدول‌های صرف:
 
-⟪पू⟫ 9U "reinigen" <!-- TODO: Fallback translation -->
+⟪पू⟫ ۹و «پاک کردن»
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -336,7 +336,7 @@ Paradigmen: <!-- TODO: Fallback translation -->
 | **2. ⟪द्वितीयः⟫** | ⟪अपावीस्⟫ | ⟪अपाविष्ट⟫ | ⟪अपविष्ठास्⟫ | ⟪अपविध्वम्⟫ / :br⟪अपविढ्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अपावीत्⟫ | ⟪अपाविषुर्⟫ | ⟪अपविष्ट⟫ | ⟪पविषत⟫ |
 :::
-⟪बुध्⟫ 1U "erwachen, erkennen" <!-- TODO: Fallback translation -->
+⟪बुध्⟫ ۱و «بیدار شدن، شناختن»
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ ||
@@ -346,7 +346,7 @@ Paradigmen: <!-- TODO: Fallback translation -->
 | **2. ⟪द्वितीयः⟫** | ⟪अबोधीस्⟫ | ⟪अबोधिष्ट⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अबोधीत्⟫ | ⟪अबोधिषुर्⟫ |
 :::
-⟪कॢप्⟫ 1Ā "passend sein" <!-- TODO: Fallback translation -->
+⟪कॢप्⟫ ۱Ā "مناسب بودن"
 
 ::: indent
 |   | ⟪आत्मनेपदम्⟫ ||
@@ -357,28 +357,30 @@ Paradigmen: <!-- TODO: Fallback translation -->
 | **3. ⟪प्रथमः⟫** | ⟪अकल्पिष्ट⟫ | ⟪अकल्पिषत⟫ |
 :::
 ::: grammar-box
-**Besonderheiten:** <!-- TODO: Fallback translation -->
+**ویژگی‌ها:**
 
-1.  Bei einigen Wurzeln kann der Bindevokal -i- im ⟪आत्मनेपद⟫ durch -ī- ersetzt werden. Nach ⟪ग्रह्⟫ 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:   <!-- TODO: Fallback translation -->
-    ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+1.  در برخی ریشه‌ها، می‌توان حرف ربط -i- را در ⟪आत्मनेपद⟫ با -ī- جایگزین کرد. پس از ⟪ग्रह्⟫ ۹U "گرفتن"، این جایگزینی باید در P و Ā انجام شود:
+⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
 
-2.  Wurzeln der 8. Präsensklasse auf -n (oder -ṇ) können in der 2.3.sg.Ā tiefstufig sein:   <!-- TODO: Fallback translation -->
-    ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (Wurzelaorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫ <!-- TODO: Fallback translation -->
+2.  ریشه‌های کلاس صرفی حال هشتم با -n (یا -ṇ) می‌توانند در ۲.۳.sg.ġ دارای سطح پایین باشند:
+⟪तन्⟫ ۸U: ۲.sg.ġ ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (آئورست ریشه) ; ۳. sg. ġ ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
-3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā u.a. können statt der 3.sg. Ā auch die Form des Passivaorists annehmen:   <!-- TODO: Fallback translation -->
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+3.  ⟪दीप्⟫ ۴Ā، ⟪जन्⟫ ۴ġ و دیگران می‌توانند به جای سوم شخص مفرد Ā، شکل مفعولی گذشته (پسیوآوریست) را به خود بگیرند:
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
-4.  ⟪विज्⟫ 7P hat keinen Ablaut:   <!-- TODO: Fallback translation -->
-    ⟪अविजीत्⟫
+۴. ⟪विज्⟫ فاقد آبلوت است:
+⟪अविजीत्⟫
 :::
 ::: media
 ![](/images/lekt5808.webp)
-Abb.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt5808)) <!-- TODO: Fallback translation -->
+تصویر: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5808))
 :::
-## 58.7. تمرین
+## ۵۸.۷. تمرین
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist: <!-- TODO: Fallback translation -->
+الف) اشکال زیر را بدون استفاده از ابزارهای کمکی تعیین و ترجمه کنید و شکل‌های مربوط به i-آوریست را بسازید:
 
 1.  ⟪औहे⟫
 2.  ⟪जाग्रति⟫
@@ -400,7 +402,7 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie
 18.  ⟪ऐक्षध्वम्⟫
 19.  ⟪अचेतः⟫
 
-B) Übersetzen und bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
+ب) اشکال زیر را ترجمه و تعیین کنید:
 
 1.  ⟪अनेढ्वम्⟫
 2.  ⟪एनयोः⟫
@@ -444,14 +446,14 @@ B) Übersetzen und bestimmen Sie folgende Formen: <!-- TODO: Fallback translatio
 
 ::: deleteme-box
 
-**lekt5802:** ⟪ओडिसी⟫ [Bildquelle: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5802:** ⟪ओडिसी⟫ [منبع تصویر: ایقبال ساگو. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- دسترسی در ۲۰۰۹-۰۳-۰۲. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب‌دهی)]
 
-**lekt5803:** Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ <!-- TODO: Fallback translation -->
+**lekt5803:** پارک ملی بندیبور -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
-**lekt5806:** [Bildquelle: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). --  Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine Kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5806:** [منبع تصویر: استویلس. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- دسترسی در ۲۰۰۹-۰۳-۰۲. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt5807:** ⟪पुणेनगरे⟫ <!-- TODO: Fallback translation -->
+**lekt5807:** ⟪पुणेनगरे⟫
 
-**lekt5801:** [Bildquelle: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5801:** [منبع تصویر: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- دسترسی در ۲۰۰۹-۰۳-۰۲. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
 :::

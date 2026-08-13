@@ -52,7 +52,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 欲望、愤怒和贪婪。
 
-kāmaḥ krodho lobhaś ca.
+kāmaḥ krodho lobhaś ca. <!-- TODO: Fallback translation -->
 
 ⟪कामः⟫ ⟪क्रोधो⟫ ⟪लोभश्च⟫ ⟪।⟫
 

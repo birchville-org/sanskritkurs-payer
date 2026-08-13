@@ -3,17 +3,15 @@ aside: false
 outline: false
 ---
 
+# Grammatik Index
 
-
-# Kielioppi-indeksi
-
-Kielioppi-indeksissä luetellaan kaikki sanskritinkurssin kieliopilliset aiheet ja ilmiöt, ja se mahdollistaa nopean pääsyn tiettyihin lektioihin.
+Kielitieteen indeksi luettelee kaikki sanskritinkurssin grammatikan aiheet ja ilmiöt sekä mahdollistaa nopean pääsyn tiettyihin lektioihin.
 
 <PayerTopicIndex />
 
 <style>
-/* Säädä asettelu kokoleveysindeksille */
+/* Adjust layout for full width index */
 .VPDoc {
-padding: 32px 48px 64px !important;
+  padding: 32px 48px 64px !important;
 }
 </style>

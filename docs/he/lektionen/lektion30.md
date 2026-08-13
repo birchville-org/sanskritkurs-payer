@@ -118,7 +118,7 @@ status: stable
 | | 3. Person Singular | 3. Person Plural |
 | :--- | :--- | :--- |
 | :--- | **-t** | athematische Klassen: **-an** oder **-ur** :brOptativ: **-ur** |
-| **פרסמאייפדה** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran** |
+| **פרסמאייפדה** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran** | <!-- TODO: Fallback translation -->
 
 :::
 ## 30.4. בניית הוויה (⟪लिङ्⟫)
@@ -226,7 +226,8 @@ status: stable
 | **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 
@@ -471,7 +472,7 @@ B) תרגמו את המשפטים הבאים ופרקו את הרכבים לסנ
 ⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
 ⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
 
-## 30.8. תרגיל חזרה zur Formenlehre
+## 30.8. תרגיל חזרה zur Formenlehre <!-- TODO: Fallback translation -->
 
 קבעו ותרגמו את הצורות המילוליות הבאות:
 

@@ -51,4 +51,4 @@ Determine y traduzca las siguientes formas y forme las correspondientes formas d
 Fig.: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung092))
 ::::
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# 56. lecke
+# 56. lecke <!-- TODO: Fallback translation -->
 
-## 56.1. A reduplikált aoristus
+## 56.1. A reduplikált aoristus <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Alakítás:**
@@ -22,7 +22,7 @@ status: stable
 
 **Végződő -ā (-e helyett) kiesik.**
 :::
-Paradigma:
+Paradigma: <!-- TODO: Fallback translation -->
 
 ⟪श्रि⟫ 1U „megindul valahová, támaszkodik”
 
@@ -33,18 +33,18 @@ Paradigma:
 | **2. ⟪द्वितीयः⟫** | ⟪अशिश्रियस्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियथास्⟫ | ⟪अशिश्रियध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अशिश्रियत्⟫ | ⟪अशिश्रियन्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियन्त⟫ |
 
-Ezt az aorist formát többek között így képezik:
+Ezt az aorist formát többek között így képezik: <!-- TODO: Fallback translation -->
 
 *   ⟪श्रि⟫ 1U „megindul valahová”
 *   ⟪द्रु⟫ 1P „fut”
 *   ⟪कम्⟫ 1Ā „szeret”: ⟪अचकमत⟫ / ⟪अचीकमत⟫ (lásd lent!)
 *   ⟪पत्⟫ 1P „esik”: ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = mélyfok a pat gyökéből)
-*   ⟪वच्⟫ 2P „mond”: ⟪अवोचत्⟫ (a-va + uc-a-t)
+*   ⟪वच्⟫ 2P „mond”: ⟪अवोचत्⟫ (a-va + uc-a-t) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A 10. jelen időosztály gyökei és minden kausatív mindig képeznek reduplikált aorisztust.**
 :::
-### 56.1.1. A kausatívok és a 10. jelen időosztály gyökeinek aorisztusa
+### 56.1.1. A kausatívok és a 10. jelen időosztály gyökeinek aorisztusa <!-- TODO: Fallback translation -->
 
 Tőhangzó:
 
@@ -57,21 +57,21 @@ Tőhangzó:
 ⟪पॄ⟫ 3P: Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫  
 ⟪द्रु⟫ 1P: Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫  
 :sig[⟪नी⟫] 1U: Kaus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
-⟪ज्ञा⟫ 9U: Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
+⟪ज्ञा⟫ 9U: Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫ <!-- TODO: Fallback translation -->
 
 *   **\-ī-, -e-, -ai- egyszerű mássalhangzó előtt -i-re cserélődik:**
-⟪चित्⟫ 1P: Kaus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫
+⟪चित्⟫ 1P: Kaus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫ <!-- TODO: Fallback translation -->
 
 *   **\-u-, -o-, -au- egyszerű mássalhangzó előtt -u-ra cserélődik:**
-⟪चुर्⟫ 10U: :sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫
+⟪चुर्⟫ 10U: :sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫ <!-- TODO: Fallback translation -->
 
-**Egyes gyököknél a fenti változások opcionálisak, vagy elmaradnak:**
+**Egyes gyököknél a fenti változások opcionálisak, vagy elmaradnak:** <!-- TODO: Fallback translation -->
 
 *   **az utolsó mássalhangzót megelőző, az ar, ār, īr, al helyettesítésére szolgáló ṛ, ṝ, ḷ magánhangzó a szó végén: változatlanul marad vagy ṛ, illetve ḷ helyett áll:**
 ⟪कॢप्⟫ 1Ā: Kaus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत्⟫  
 ⟪कृष्⟫ 1P/6U: Kaus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
 :::
-A replikációs szótag magánhangzója:
+A replikációs szótag magánhangzója: <!-- TODO: Fallback translation -->
 
 Miután a fenti szabályokat alkalmaztuk a szótaggyökérre, a következő szabályokat kell követni a replikációs szótag magánhangzójára:
 
@@ -86,19 +86,19 @@ Miután a fenti szabályokat alkalmaztuk a szótaggyökérre, a következő szab
 
 *   **i, u helyett ī, ū kerül, ha a gyökszótag csak egy mássalhangzóra végződik és metrikusan rövid:**
 ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत्⟫  
-⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫
+⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫ <!-- TODO: Fallback translation -->
 
 *   **a helyett ī kerül, ha a gyökszótag metrikusan rövid és csak egy mássalhangzóra végződik. Ha a gyökszótag metrikusan rövid és több mint egy mássalhangzóra végződik, a reduplikációs szótag a helyett i kerül. Ha a gyökszótag metrikusan hosszú, az a megmarad:**
 :sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, Aor. töve ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
 :sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, Aor. töve ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
 ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Aor. töve ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫  
-⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Aor. töve ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
+⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Aor. töve ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫ <!-- TODO: Fallback translation -->
 
-Különleges esetek egyes gyököknél Kielhorn, Grammatik § 435c ff.
+Különleges esetek egyes gyököknél Kielhorn, Grammatik § 435c ff. <!-- TODO: Fallback translation -->
 
 **A magánhangzóval kezdődő szótagok a következő szabályok szerint duplikálódnak:**
 
-*   **Ha az első magánhangzót csak egy mássalhangzó vagy olyan mássalhangzó-csoport követ, amelynek első tagja sem nasális, sem d, sem r nem, akkor a duplikált szótag így hangzik:**
+*   **Ha az első magánhangzót csak egy mássalhangzó vagy olyan mássalhangzó-csoport követ, amelynek első tagja sem nasális, sem d, sem r nem, akkor a duplikált szótag így hangzik:** <!-- TODO: Fallback translation -->
 
 Magánhangzó - az azt követő első mássalhangzó (vagyis a duplikáló szótagban előírt megfelelője) - **i** \- összes többi mássalhangzó
 
@@ -108,7 +108,7 @@ Magánhangzó - az azt követő első mássalhangzó (vagyis a duplikáló szót
 ⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, duplikált szótag ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
 ⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, duplikált szótag ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
 :::
-*   **Ha az első magánhangzót nasálissal, d-vel vagy r-rel kezdődő mássalhangzó-csoport követ, akkor a csoport második mássalhangzóját (vagy annak helyettesítőjét) az alábbi séma szerint i-vel illesztjük be:**
+*   **Ha az első magánhangzót nasálissal, d-vel vagy r-rel kezdődő mássalhangzó-csoport követ, akkor a csoport második mássalhangzóját (vagy annak helyettesítőjét) az alábbi séma szerint i-vel illesztjük be:** <!-- TODO: Fallback translation -->
 
 Magánhangzó – első mássalhangzó – második mássalhangzó (helyettesítő) - i - második mássalhangzó
 
@@ -135,12 +135,12 @@ Az alapvető munka szerint:
 ::: indent
 Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
 :::
-az injunktív a Védában a következő tulajdonságokkal rendelkezik:
+az injunktív a Védában a következő tulajdonságokkal rendelkezik: <!-- TODO: Fallback translation -->
 
 *   nem beszámolót fejez ki, hanem megemlítést
 *   időszintek nélküli (időtlenné)
 *   az injunktív aoristos a befejezett aspektust jelöli.
-*   der Injunktiv Aorist bezeichnet den vollendeten Aspekt.
+*   der Injunktiv Aorist bezeichnet den vollendeten Aspekt. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A késővédai szanszkritban az injunktív csak a tilalmi partikula ⟪मा⟫ (+ injunktív aoristos) vagy मा ⟪स्म⟫ (+ injunktív jelen idő vagy aoristos) társaságában fordul elő, az eltérő aspektus általában már nem érvényesül.**
@@ -152,7 +152,7 @@ az injunktív a Védában a következő tulajdonságokkal rendelkezik:
 
 Ezt a különbséget azonban a klasszikus szanszkritban általában nem teszik meg.)
 :::
-## 56.3. A tiltó mondat
+## 56.3. A tiltó mondat <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Fő forma:**
@@ -161,10 +161,10 @@ Ezt a különbséget azonban a klasszikus szanszkritban általában nem teszik m
 
 **⟪मा⟫ ⟪स्म⟫ + Injunktív aoristus vagy injunktív jelen idő**
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: indent
-⟪मा⟫ ⟪कर्महेतुर्भूः⟫ „Ne légy az, akit cselekedet gyümölcse motivál!” (Injunktív aoristus) (⟪भगवद्गीता⟫ 2,47c)
+⟪मा⟫ ⟪कर्महेतुर्भूः⟫ „Ne légy az, akit cselekedet gyümölcse motivál!” (Injunktív aoristus) (⟪भगवद्गीता⟫ 2,47c) <!-- TODO: Fallback translation -->
 
 ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ „Ne légy erőtlen!” (Injunktív aoristus) (⟪भगवद्गीता⟫ 2,3a)
 :::
@@ -183,7 +183,7 @@ Mindkét példa tiltó értelmű. Az injunktív aoristust itt tehát eredeti jel
 **pl. ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫**
 
 *   ⟪अलम्⟫ vagy ⟪कृतम्⟫  = eszközhatározó eset (instrumentalis) tiltó mondatban
-pl. ⟪अलं⟫  ⟪विषादेन⟫ "Elég a reménytelenségből! = Hagyd abba, hogy kétségbe ess! = Tartsd fel a fejed!"
+pl. ⟪अलं⟫  ⟪विषादेन⟫ "Elég a reménytelenségből! = Hagyd abba, hogy kétségbe ess! = Tartsd fel a fejed!" <!-- TODO: Fallback translation -->
 
 *   ⟪न⟫ + gerundívum (szükségesség ragozott mellékneme)
 
@@ -198,12 +198,12 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 Kép: ⟪अलं⟫  ⟪विषादेन⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫
+## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪स्म⟫ kiemeli: „valóban, bizonyára, biztosan, éppen”**
 
-**Emellett a következő szerkezet rendkívül fontos:**
+**Emellett a következő szerkezet rendkívül fontos:** <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -211,7 +211,7 @@ Kép: ⟪अलं⟫  ⟪विषादेन⟫
 
 pl. ⟪वसति⟫ ⟪स्म⟫ „élt egyszer valaki” (⟪स्म⟫ néha elhagyható).
 :::
-## 56.5. Gyakorlat
+## 56.5. Gyakorlat <!-- TODO: Fallback translation -->
 
 A) Határozza meg és fordítsa le a következő alakokat segédeszközök nélkül (!):
 

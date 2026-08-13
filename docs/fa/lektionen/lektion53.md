@@ -8,56 +8,56 @@ lesson_id: 53
 ## 53.1. تثنیه (⟪द्विवचन⟫ n.) اسم‌ها
 
 ::: grammar-box
-**Der Dual (⟪द्विवचनम्⟫) wird verwendet, um "zwei" zu bezeichnen:** <!-- TODO: Fallback translation -->
+**مثنی (⟪द्विवचनम्⟫) برای اشاره به «دو» استفاده می‌شود:**
 
 :::
 ::: indent
-**⟪अश्विनौ⟫** "die beiden Aśvin" <!-- TODO: Fallback translation -->
+**⟪अश्विनौ⟫ «دو آشن»**
 :::
-**Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:** <!-- TODO: Fallback translation -->
+**استفاده از مثنی در مواردی که مربوط به دو چیز و غیره است، اجباری می‌باشد:**
 
 ::: indent
-**⟪हस्तौ⟫** "die Hände (eines Individuums)"
-**⟪पादौ⟫** "die Füße (eines Menschen, Affen oder sonstigen Zweifüßers)" <!-- TODO: Fallback translation -->
+**⟪हस्तौ⟫ «دست‌ها (یک فرد)»**
+**⟪पादौ⟫ «پاها (یک انسان، میمون یا سایر دوپایان)»**
 :::
-**Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):** <!-- TODO: Fallback translation -->
+**گاهی اوقات مثنی یک نمونه نر و یک ماده از همان طبقه (گونه، جنس) را نشان می‌دهد:**
 
 ::: indent
-**⟪पितरौ⟫** "Vater und Mutter = Eltern" <!-- TODO: Fallback translation -->
+**⟪पितरौ⟫ «پدر و مادر = والدین»**
 :::
-**Wörter, die "ein Paar" bedeuten - z.B. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:** <!-- TODO: Fallback translation -->
+**واژه‌هایی که «یک جفت» به معنای هستند - مثلاً ⟪युग⟫ مفرد، ⟪द्वन्द्व⟫ مفرد، ⟪द्वय⟫ مفرد - اما همیشه به صورت مفرد استفاده می‌شوند، مگر اینکه دو یا چند جفت باشند:**
 
 ::: indent
-**⟪बाहुद्वयम्⟫** "ein Paar Arme" <!-- TODO: Fallback translation -->
+**⟪बाहुद्वयम्⟫** «جفتی از بازوها»
 :::
 ::: media
 ![](/images/lekt5301.webp)
-Abb.: ⟪मार्जारयुगम्⟫
-(Bildquelle: [Details](/licenses#lekt5301)) <!-- TODO: Fallback translation -->
+تصویر: ⟪मार्जारयुगम्⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5301))
 :::
 
 ::: media
 ![](/images/lekt5302.webp)
-Abb.: ⟪हस्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5302)) <!-- TODO: Fallback translation -->
+تصویر: ⟪हस्तौ⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5302))
 :::
-## 53.2. پایان‌های تثنیه اسم
+## ۵۳.۲. پایان‌های دوجاتی اسم
 
-::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
+⟨STRUCT_۲⟩
+|   | مذکر/مونث :br ⟪पुंस्⟫/⟪स्त्री⟫ | خنثی :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī 
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām ||
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
-:::
-::: grammar-box
-**Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm** <!-- TODO: Fallback translation -->
-:::
-## 53.3. تثنیه پایه‌های ختم شده به همخوان
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟨DEVا_6⟩⟧** | -au | -ī 
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟨DEVا_9⟩⟧** | -bhyām ||
+| **⟪⟨DEVA_۱0⟩⟫, ⟨DEVا_11⟩⟧** | -os ||
+⟨STRUCT_۳⟩
+⟨STRUCT_₄⟩
+**در اسم‌هایی با گریدگذاری ریشه، حالت مفعولی/نominative/vocative دوجاتی مذکر و مونث دارای ریشه قوی هستند.**
+⟨STRUCT_₅⟩
+## ۵۳.۳. دوجاتی پایه‌های همخوانی
 
-### 53.3.1. Stämme ohne درجه‌بندی پایه <!-- TODO: Fallback translation -->
+### ۵۳.۳.۱. پایه‌های بدون تغییر ریشه
 
-⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend" <!-- TODO: Fallback translation -->
+⟪सत्यवाच्⟫ 3 «با راستی سخن گفتن»
 
 ::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -66,7 +66,7 @@ Abb.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
 :::
-⟪बलिन⟫ 3 "(besonders) stark" <!-- TODO: Fallback translation -->
+⟪बलिन⟫ 3 «(به‌ویژه) قوی»
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -75,7 +75,7 @@ Abb.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ ||
 :::
-⟪सुमनस्⟫ 3 "wohlgesinnt" <!-- TODO: Fallback translation -->
+⟪सुमनस्⟫ 3 «خیرخواه»
 
 ::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -84,7 +84,7 @@ Abb.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ ||
 :::
-⟪हविस्⟫ n. "Opfergabe" <!-- TODO: Fallback translation -->
+⟪हविस्⟫ n. «نذر»
 
 ::: grammar-box
 |   | Neutrum :br ⟪नपुंसक⟫ |
@@ -93,7 +93,7 @@ Abb.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ |
 :::
-⟪दीर्घायुस्⟫ 3 "langlebig" <!-- TODO: Fallback translation -->
+⟪दीर्घायुस्⟫ 3 "دیرپا"
 
 ::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -104,9 +104,9 @@ Abb.: ⟪हस्तौ⟫
 :::
 ### 53.3.2. ریشه‌های دارای تغییر درجه ریشه
 
-**Partizip Präsens Parasmaipada** <!-- TODO: Fallback translation -->
+**اسم مفعولی حال (پارasmaipada)**
 
-⟪भरन्त्⟫ 3 "tragend" <!-- TODO: Fallback translation -->
+⟪भरन्त्⟫ ۳ «باربر»
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -117,10 +117,10 @@ Abb.: ⟪हस्तौ⟫
 :::
 ::: media
 ![](/images/lekt5305.webp)
-Abb.: ⟪भरन्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5305)) <!-- TODO: Fallback translation -->
+تصویر: ⟪भरन्तौ⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5305))
 :::
-⟪ददत्⟫ 3 "gebend" <!-- TODO: Fallback translation -->
+⟪ददत्⟫ ۳ «دهنده»
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -129,9 +129,9 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
 :::
-**Stämme auf -mant/-vant** <!-- TODO: Fallback translation -->
+**بن‌های منتهی به -mant/-vant**
 
-⟪पशुमन्त्⟫ 3 "Vieh besitzend" <!-- TODO: Fallback translation -->
+⟪पशुमन्त्⟫ ۳ «دارندهٔ گاه»
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -140,7 +140,7 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ ||
 :::
-⟪महान्त्⟫ 3 "groß" <!-- TODO: Fallback translation -->
+⟪महान्त्⟫ ۳ «بزرگ»
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -149,7 +149,7 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ ||
 :::
-⟪आत्मन्⟫ m. <!-- TODO: Fallback translation -->
+⟪आत्मन्⟫ م.
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ |
@@ -158,7 +158,7 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪आत्मनोस्⟫ |
 :::
-⟪ब्रह्मन्⟫ n. <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ خ.
 
 ::: grammar-box
 |   | Neutrum :br ⟪नपुंसक⟫ |
@@ -167,7 +167,7 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ |
 :::
-⟪राजन्⟫ m. "König" <!-- TODO: Fallback translation -->
+⟪राजन्⟫ م. "شاه"
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ |
@@ -176,7 +176,7 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ |
 :::
-⟪सीमन्⟫ f. "Grenze" <!-- TODO: Fallback translation -->
+⟪सीमन्⟫ مؤنث. "مرز"
 
 ::: grammar-box
 |   | Femininum :br ⟪स्त्री⟫ |
@@ -185,7 +185,7 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ |
 :::
-⟪नामन्⟫ n. "Name" <!-- TODO: Fallback translation -->
+⟪नामन्⟫ خنثی. "نام"
 
 ::: grammar-box
 |   | Neutrum :br ⟪नपुंसक⟫ |
@@ -196,10 +196,10 @@ Abb.: ⟪भरन्तौ⟫
 :::
 ## 53.4. تثنیه ستاک‌های ختم شده به مصوت
 
-**Stämme auf -a** <!-- TODO: Fallback translation -->
+**ریشه‌های منتهی به -a**
 
-⟪देव⟫ m. "Gott"  
-⟪फल⟫ n. "Frucht" <!-- TODO: Fallback translation -->
+⟪देव⟫ m. "خدا"  
+⟪फल⟫ n. "میوه"
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
@@ -210,14 +210,14 @@ Abb.: ⟪भरन्तौ⟫
 :::
 ::: media
 ![](/images/lekt5306.webp)
-Abb.: ⟪फले⟫
-(Bildquelle: [Details](/licenses#lekt5306)) <!-- TODO: Fallback translation -->
+تصویر: ⟪फले⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5306))
 :::
-**Stämme auf -i** <!-- TODO: Fallback translation -->
+**ریشه‌های منتهی به -i**
 
-⟪अग्नि⟫ m. "Feuer"  
-⟪वारि⟫ n. "Wasser"  
-⟪मति⟫ f. "Gedanke" <!-- TODO: Fallback translation -->
+⟪अग्नि⟫ m. "آتش"  
+⟪वारि⟫ n. "آب"  
+⟪मति⟫ f. "فکر"
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
@@ -226,11 +226,11 @@ Abb.: ⟪फले⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
-**Stämme auf -u** <!-- TODO: Fallback translation -->
+**بن‌واژه‌های پایان‌یافته با -u**
 
-⟪शत्रु⟫ m.  
-⟪धिनु⟫ f.  
-⟪मधु⟫ n. <!-- TODO: Fallback translation -->
+⟪शत्रु⟫ م.  
+⟪धिनु⟫ مؤنث.  
+⟪मधु⟫ خنثی.
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
@@ -241,12 +241,12 @@ Abb.: ⟪फले⟫
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Abb.: :sig[⟪धेनू⟫]
-(Bildquelle: [Details](/licenses#lekt5307)) <!-- TODO: Fallback translation -->
+تصویر: :sig[⟪धेनू⟫]
+(منبع تصویر: [جزئیات](/licenses#lekt5307))
 :::
-**Stämme auf -ā** <!-- TODO: Fallback translation -->
+**بن‌واژه‌های پایان‌یافته با -ā**
 
-⟪कन्या⟫ f. "Mädchen" <!-- TODO: Fallback translation -->
+⟪कन्या⟫ مؤنث. "دختر"
 
 ::: grammar-box
 |   | Femininum :br ⟪स्त्री⟫ |
@@ -255,9 +255,9 @@ Abb.: :sig[⟪धेनू⟫]
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *:sig[⟪कन्ययोस्⟫]* |
 :::
-**Mehrsilbige Stämme auf -ī** <!-- TODO: Fallback translation -->
+**ریشه‌های چندمقطعی با -ī**
 
-⟪देवी⟫ f. "Göttin" <!-- TODO: Fallback translation -->
+⟪देवी⟫ f. "الهه"
 
 ::: grammar-box
 |   | Femininum :br ⟪स्त्री⟫ |
@@ -266,9 +266,9 @@ Abb.: :sig[⟪धेनू⟫]
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ |
 :::
-**Stämme auf -ṛ** <!-- TODO: Fallback translation -->
+**ریشه‌های با -ṛ**
 
-⟪दातृ⟫ 3 "Geber" <!-- TODO: Fallback translation -->
+⟪दातृ⟫ 3 "دهنده"
 
 ::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -277,7 +277,7 @@ Abb.: :sig[⟪धेनू⟫]
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
-⟪पितृ⟫ m. "Vater" <!-- TODO: Fallback translation -->
+⟪पितृ⟫ m. "پدر"
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ |
@@ -288,178 +288,178 @@ Abb.: :sig[⟪धेनू⟫]
 :::
 ## 53.5. دواندوا
 
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-**⟪अर्थधर्मौ⟫** "Nutzen (⟪अर्थ⟫) und Dharma"
-**⟪युधिष्ठिरार्जुनौ⟫** "Yudhiṣṭhira und Arjuna"
-**⟪सुखदुःखे⟫** (neben: ⟪सुखदुःखम्⟫) "Glück und Leid"
-**⟪शीतोष्णे⟫** "Kälte und Wärme" <!-- TODO: Fallback translation -->
+**⟪अर्थधर्मौ⟫** "سود (⟪अर्थ⟫) و دهارما"
+**⟪युधिष्ठिरार्जुनौ⟫** "یودیشٔترا و آرجونا"
+**⟪सुखदुःखे⟫** (همراه با: ⟪सुखदुःखम्⟫) "خوشبختی و رنج"
+**⟪शीतोष्णे⟫** "سردی و گرمی"
 :::
 ::: grammar-box
-**Werden zwei Verwandtschaftswörter auf -ṛ (oder zwei Substantive auf -ṛ, die Bezeichnungen für Opferpriester sind) zu einem Dvandva komponiert, so steht das erste Glied in der Form des Nominativ Singular:** <!-- TODO: Fallback translation -->
+**وقتی دو واژه خویشاوندی با -ṛ (یا دو اسم با -ṛ که نام‌های کاهن قربانی هستند) به یک دوندوا ترکیب می‌شوند، بخش اول در حالت مفرد مرفوع قرار می‌گیرد:**
 
 :::
 ::: indent
-⟪मा⟫***:sig[⟪ता⟫]***⟪पितरौ⟫ "Mutter und Vater" <!-- TODO: Fallback translation -->
+⟪मा⟫***sig[⟪ता⟫]***⟪पितरौ⟫ "مادر و پدر"
 :::
-**Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -⟪पुत्र⟫ :** <!-- TODO: Fallback translation -->
+**همین امر با چنین واژه خویشاوندی در یک دوندوا قبل از -⟪पुत्र⟫ رخ می‌دهد:**
 
 ::: indent
-**⟪पितापुत्रौ⟫** "Vater und Sohn" <!-- TODO: Fallback translation -->
+**⟪पितापुत्रौ⟫** "پدر و پسر"
 :::
-**Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:** <!-- TODO: Fallback translation -->
+**اگر نام دو خدایی که معمولاً در قربانی‌ها ذکر می‌شوند، یک دوندوا تشکیل دهند، معمولاً واکه پایانی بخش اول طولانی می‌شود:**
 
 ::: indent
-⟪मि⟫***:sig[⟪त्रा⟫]***⟪वरुणौ⟫ "Mitra und Varuṇa"
-**⟪अग्नीसोमौ⟫** "Agni und Soma" <!-- TODO: Fallback translation -->
+⟪मि⟫***:sig[⟪त्रा⟫]***⟪वरुणौ⟫ «میترا و وارونا»
+**⟪अग्नीसोमौ⟫** «آگنی و سومنا»
 :::
-**Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.** <!-- TODO: Fallback translation -->
+**این درازشدگی واکه در سایر دوندواها نیز رخ می‌دهد.**
 ::: media
 ![](/images/lekt5308.webp)
-Abb.: ⟪पितापुत्रौ⟫
-(Bildquelle: [Details](/licenses#lekt5308)) <!-- TODO: Fallback translation -->
+تصویر: ⟪पितापुत्रौ⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5308))
 :::
 ## 53.6. تثنیه ضمایر
 
 ::: grammar-box
 |   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ 
 | :--- | :---: | :---: | :---: | :---: | :---: 
-| **Maskulinum** |   |   |   |   |  
+| **مذکر** |   |   |   |   |  
 | ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
 | ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫ 
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫ 
 |   |   |   |   |   |  
-| **Neutrum** |   |   |   |   |  
+| **خنثی** |   |   |   |   |  
 | ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
 | ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
-|   | Rest wie Maskulinum ||||||||
-| **Femininum** |   |   |   |   |  
+|   | بقیه مانند مذکر ||||||||
+| **مونث** |   |   |   |   |  
 | ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
 | ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
-|   | Rest wie Maskulinum ||||||||
+|   | بقیه مانند مذکر ||||||||
 :::
-⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Kasus wie ⟪यद्⟫ dekliniert. <!-- TODO: Fallback translation -->
+⟪कतर⟫ ۳ «هر یک از دو نفر» و ⟪कतम⟫ ۳ «هر یک از چند نفر» در همه موارد صرف می‌شوند مانند ⟪यद्⟫.
 
 ## 53.7. صفت‌های ضمیری
 
-Folgende Pronominaladjektive werden in allen Kasus wie ⟪यद्⟫ dekliniert: <!-- TODO: Fallback translation -->
+صفت‌های ضمیری زیر در همه موارد صرف می‌شوند مانند ⟪यद्⟫:
 
-*   ⟪अन्य⟫ 3 "ein anderer" <!-- TODO: Fallback translation -->
-*   ⟪अन्यतर⟫ 3 "einer von zweien" <!-- TODO: Fallback translation -->
-*   ⟪इतर⟫ 3 "der andere" <!-- TODO: Fallback translation -->
+*   ⟪अन्य⟫ ۳ «دیگری»
+*   ⟪अन्यतर⟫ ۳ «یکی از دوگانه»
+*   ⟪इतर⟫ ۳ «دیگری (مخالف)»
 
-*   ⟪सर्व⟫ 3 "jeder, alle" wird in allen Kasus außer dem Nom.Akk.sg.n (⟪सर्वम्⟫) wie ⟪यद्⟫ dekliniert. <!-- TODO: Fallback translation -->
-*   ⟪उभय⟫ 3 "beide" hat keinen Dual. Im Singular und Plural mask. und neutr. wird es wie ⟪सर्व⟫ dekliniert. Femininum: ⟪उभयी⟫ (wie ⟪देवी⟫). <!-- TODO: Fallback translation -->
-*   ⟪उभ⟫ 3 "beide" wird nur im Dual gebraucht und wird wie ⟪देव⟫ m., ⟪फल⟫ n. bzw. ⟪देवता⟫ f. dekliniert. <!-- TODO: Fallback translation -->
+*   ⟪सर्व⟫ ۳ «هر، همه» در همه موارد به جز مفرد مذکر/مونث نامی/مفعولی (⟪सर्वम्⟫) مانند ⟪यद्⟫ صرف می‌شود.
+*   ⟪उभय⟫ ۳ «هر دو» دود (دوگانه) ندارد. در مفرد و جمع مذکر و مونث مانند ⟪सर्व⟫ صرف می‌شود. مؤنث: ⟪उभयी⟫ (مانند ⟪देवी⟫).
+*   ⟪उभ⟫ ۳ «هر دو» فقط در دود به کار می‌رود و مانند ⟪देव⟫ مذکر، ⟪फल⟫ مونث و ⟪देवता⟫ مؤنث صرف می‌شود.
 
-Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n sowie in im Nom.pl. können sie nach der -a- bzw. -ā-Deklination dekliniert werden: <!-- TODO: Fallback translation -->
+صفت‌های ضمیری زیر مانند ⟪सर्व⟫ صرف می‌شوند. در مفرد ازایی/مکانی مذکر/مونث و همچنین در جمع نامی، می‌توان آن‌ها را بر اساس صرف -a یا -ā صرف کرد:
 
-*   ⟪अपर⟫ 3 "ein anderer" <!-- TODO: Fallback translation -->
-*   ⟪उत्तर⟫ 3 "der obere, nördliche, nachfolgende" <!-- TODO: Fallback translation -->
-*   ⟪पर⟫ 3 "der folgende, spätere" <!-- TODO: Fallback translation -->
-*   ⟪पूर्व⟫ 3 "der vorausgehende, östliche" <!-- TODO: Fallback translation -->
-*   ⟪स्व⟫ 3 "eigen (mein, dein, sein ...)" <!-- TODO: Fallback translation -->
+*   ⟪अपर⟫ 3 «دیگری»
+*   ⟪उत्तर⟫ 3 «بالایی، شمالی، پس‌رو»
+*   ⟪पर⟫ 3 «بعدی، متأخر»
+*   ⟪पूर्व⟫ 3 «پیشین، شرقی»
+*   ⟪स्व⟫ 3 «خودی (من، تو، او ... )»
 
 ## 53.8. مقایسه نامنظم
 
 ::: grammar-box
-**Eine Anzahl von Adjektiven bildet den Komparativ bzw. Superlativ mit folgenden ⟪कृत्⟫-Suffixen (!):** <!-- TODO: Fallback translation -->
+**تعدادی از صفت‌ها، مقدر و اعلی را با پسوندهای ⟪कृत्⟫ زیر می‌سازند (!):**
 
-*   Komparativ: **-īyas** <!-- TODO: Fallback translation -->
-*   Superlativ: **-iṣṭha** <!-- TODO: Fallback translation -->
+*   مقدر: **-īyas**
+*   اعلی: **-iṣṭha** <!-- TODO: Fallback translation -->
 
-**Während die ⟪तद्धित⟫-Suffixe -⟪तर⟫ und -⟪तम⟫ an den Maskulinstamm des Adjektivs treten, werden die Suffixe -⟪ईयस्⟫ und -⟪इष्ठ⟫ an die Wurzel angefügt, von der das Adjektiv abgeleitet ist (sofern es eine solche Wurzel gibt!). Der Wurzelvokal ist hochstufig.** <!-- TODO: Fallback translation -->
+**در حالی که پسوندهای ⟪तद्धित⟫ -⟪तर⟫ و -⟪तम⟫ به بن مذکر صفت می‌چسبند، پسوندهای -⟪ईयस्⟫ و -⟪इष्ठ⟫ به ریشه‌ای که صفت از آن مشتق شده است (در صورت وجود چنین ریشه‌ای!) افزوده می‌شوند. واکل ریشه درجه بالا است.**
 
-**Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.** <!-- TODO: Fallback translation -->
+**اعلی‌های منتهی به -iṣṭha (مونث: iṣṭhā) مانند بن‌های a یا ā صرف می‌شوند.**
 
-**Deklination von -īyas siehe unten.** <!-- TODO: Fallback translation -->
+**Deklination von -īyas siehe unten.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-| Wurzel | Adjektiv | Komparativ | Superlativ |
+| ریشه | صفت | تفضیلی | عالی‌ترین |
 | --- | --- | --- 
-| ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | :sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | :sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
+| ⟪क्षिप्⟫ 6P "پرتاب کردن" | ⟪क्षिप्र⟫ 3 "سریع" | :sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "ایستادن" | ⟪स्थिर⟫ 3 "پایدار، محکم" | :sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
 :::
-**Besondere Regeln für die Anfügung dieser Suffixe:** <!-- TODO: Fallback translation -->
+**قواعد ویژه برای چسباندن این پسوند‌ها:**
 
 ::: grammar-box
-**Regel 1:** **Der auslautende Vokal eines mehrsilbigen Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.** <!-- TODO: Fallback translation -->
+**قانون ۱:** **حرف مصوت پایانی یک ریشه مذکر چندبخشی، یا حرف مصوت پایانی و حرف مصوت پیش از آن حذف می‌شوند.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
+| صفت | تفضیلی | عالی‌ترین |
 | --- | --- 
-| ⟪पाप⟫ 3 "böse" | ⟪पा⟫*:sig[⟪पी⟫]*⟪यस्⟫ | ⟪पा⟫*:sig[⟪पि⟫]*⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "groß" | ⟪म⟫*:sig[⟪ही⟫]*⟪यस्⟫ | ⟪म⟫*:sig[⟪हि⟫]*⟪ष्ठ⟫ |
+| ⟪पाप⟫ 3 "بد" | ⟪पा⟫*:sig[⟪पी⟫]*⟪यस्⟫ | ⟪पा⟫*:sig[⟪पि⟫]*⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "بزرگ" | ⟪म⟫*:sig[⟪ही⟫]*⟪यस्⟫ | ⟪म⟫*:sig[⟪हि⟫]*⟪ष्ठ⟫ |
 :::
 ::: grammar-box
-**Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.** <!-- TODO: Fallback translation -->
+**قانون ۲:** **پسوند‌های ملکی (-mant, vant, -vin, -in و غیره) حذف می‌شوند. اگر بخش باقی‌مانده تنها از یک بخش تشکیل شده باشد، تغییر بیشتری نمی‌کند و فقط تغییرات آوایی ناشی از اتصال به پسوند ملکی لغو می‌شود. اما اگر باقی‌مانده بیش از یک بخش داشته باشد، قانون ۱ اعمال می‌شود.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
+| صفت | تفضیل | عالی‌ترین درجه |
 | --- | --- 
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪ध⟫*:sig[⟪नी⟫]*⟪यस्⟫ | ⟪ध⟫*:sig[⟪नि⟫]*⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪ब⟫*:sig[⟪ली⟫]*⟪यस्⟫ | ⟪ब⟫*:sig[⟪लि⟫]*⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫*:sig[⟪सी⟫]*⟪यस्⟫ | ⟪व⟫*:sig[⟪सि⟫]*⟪ष्ठ⟫ |
+| ⟪धनवन्त्⟫ ۳ "ثروتمند" | ⟪ध⟫*:sig[⟪नी⟫]*⟪यस्⟫ | ⟪ध⟫*:sig[⟪नि⟫]*⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ ۳ "(به‌ویژه) قوی" | ⟪ब⟫*:sig[⟪ली⟫]*⟪यस्⟫ | ⟪ब⟫*:sig[⟪लि⟫]*⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "دارنده اموال" | ⟪व⟫*:sig[⟪सी⟫]*⟪यस्⟫ | ⟪व⟫*:sig[⟪सि⟫]*⟪ष्ठ⟫ |
 :::
 ::: grammar-box
-**Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.** <!-- TODO: Fallback translation -->
+**قانون ۳:** **-ra- جایگزین -ṛ- می‌شود، زمانی که یک واکه آغازین پیش از آن بیاید و تنها یک همخوان پس از آن دنبال شود.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+مثال:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
+| صفت | تفضیل | عالی‌ترین درجه |
 | --- | --- 
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
+| ⟪पृथु⟫ ۳ "پهن" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
 :::
-**Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:** <!-- TODO: Fallback translation -->
+**فهرست رایج‌ترین اشکال تفضیلی از این نوع برای صفاتی که تاکنون آموخته شده‌اند:**
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
+| صفت | تفضیل | عالی‌ترین درجه |
 | --- | --- 
-| ⟪अल्प⟫ 3 "klein, wenig" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
+| ⟪अल्प⟫ ۳ "کوچک، اندک" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
 | ⟪क्षिप्र⟫ 3 "schnell" :br (zu ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
 | ⟪गुरु⟫ 3 "schwer" :br (zu *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
 | ⟪दीर्घ⟫ 3 "lang" :br (zu *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
 | ⟪दूर⟫ 3 "fern" :br (zu *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
-| ⟪पाप⟫ 3 "böse" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
-| ⟪प्रिय⟫ 3 "lieb" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "groß" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
-| ⟪युवन्⟫ 3 "jung" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
+| ⟪धनवन्त्⟫ ۳ "ثروتمند" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
+| ⟪पाप⟫ ۳ "بد" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
+| ⟪पृथु⟫ ۳ "پهن" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
+| ⟪प्रिय⟫ ۳ "دوست‌داشتنی" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
+| ⟪बलिन्⟫ ۳ "(به‌ویژه) قوی" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
+| ⟪महान्त्⟫ ۳ "بزرگ" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
+| ⟪युवन्⟫ ۳ "جوان" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
 | ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
-| ⟪ह्रस्व⟫ 3 "kurz" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
+| ⟪ह्रस्व⟫ ۳ "کوتاه" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
 :::
 ::: media
 ![](/images/lekt5309.webp)
-Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
-(Bildquelle: [Details](/licenses#lekt5309)) <!-- TODO: Fallback translation -->
+تصویر: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5309))
 :::
-**Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:** <!-- TODO: Fallback translation -->
+**برخی از اشکال تفضیلی این نوع اصلاً فرم پایه‌ای مرتبط با ریشه ندارند و "نقصی" (defective) هستند. بنابراین، دنباله‌های زیر باید به‌ویژه به خاطر سپرده شوند:**
 
 ::: grammar-box
-| (Adjektiv) | Komparativ | Superlativ |
+| (صفت) | تفضیلی | عالی |
 | --- | --- 
-| (⟪अल्प⟫ 3 "klein, wenig") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
-| (⟪बहु⟫ 3 "viel") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
+| (⟪अल्प⟫ ۳ "کوچک، کم") | ⟪कनीयस्⟫ :br مق. ⟪कन्या⟫ f. "دختر = کوچک" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ ۳ "شایسته ستایش، خوب") | ⟪श्रेयस्⟫ :br به ⟪श्री⟫ f. "درخشش" | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ ۳ "شایسته ستایش، خوب") | ⟪ज्यायस्⟫ :br همچنین: "بزرگ‌تر" :br به ⟪ज्या⟫ f. "تسلط" | ⟪ज्येष्ठ⟫ :br همچنین: "بزرگ‌ترین" |
+| (⟪बहु⟫ ۳ "زیاد") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
+| (⟪वृद्ध⟫ ۳ "پیر") | ⟪वर्षीयस्⟫ :br به ⟪वर्ष⟫ n.m. "فصل باران، سال" | ⟪वर्षिष्ठ⟫ |
+| (⟪वृद्ध⟫ ۳ "پیر") | ⟪ज्यायस्⟫ :br همچنین: "بهتر" :br به ⟪ज्या⟫ f. "تسلط" | ⟪ज्येष्ठ⟫ :br همچنین: "بهترین" |
 :::
 ## 53.9. صرف صفت‌های تفضیلی با -īyas
 
 ::: grammar-box
-**Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie ⟪देवी⟫). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.** <!-- TODO: Fallback translation -->
+**صفت‌های برتر با -īyas مؤنث خود را با -īyasī می‌سازند (تصرف مانند ⟪देवी⟫). مذکر و خنثی بر اساس جدول صرف زیر declination می‌شوند.**
 :::
 ::: grammar-box
 
@@ -479,43 +479,45 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 
 ::: media
 ![](/images/lekt5303.jpg)
-Abb.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
-(Bildquelle: [Details](/licenses#lekt5303)) <!-- TODO: Fallback translation -->
+تصویر: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5303))
 :::
-Siehe auch: <!-- TODO: Fallback translation -->
+همچنین ببینید:
 
-> **Payer, Alois \<1944 - \>:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm) <!-- TODO: Fallback translation -->
+> **پایر، آلويس \<1944 - \>:** مقدمه‌اي بر تفسیر متون سنسکریت : جزوه. -- فصل ۸: تفسیر اصلی، بخش دوم: درباره پرسش‌های خاص درک همزمان. -- پیوست ب: درباره وزن‌شناسی متون سنسکریت. -- نشانی اینترنتی: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. اهمیت تعیین وزن
 
-Die Bestimmung des Metrums ist aus folgenden Gründen wichtig: <!-- TODO: Fallback translation -->
+تعیین وزن از دلایل زیر مهم است:
 
-1.  **Ästhetisch:** das Versmaß macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmaße u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmaße werden je verschieden rezitiert. :br Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58) <!-- TODO: Fallback translation -->
-2.  **Textkritisch:** Fehler im Versmaß können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmaß hilft, Textverbesserungen vorzunehmen. <!-- TODO: Fallback translation -->
-3.  **Chronologisch:** gewisse Versmaße gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: :br **Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255. <!-- TODO: Fallback translation -->
+1.  **زیبایی‌شناختی:** وزن بخشی از زیبایی یک بیان است. همچنین، برخی از وزن‌ها ممکن است برای بیان حالات خاص استفاده شوند یا به طبقات خاصی (⟪वर्ण⟫) اختصاص یابند. وزن‌های مختلف به شیوه‌های متفاوتی خوانده می‌شوند.
+یک تصور خوب از تأثیر زیبایی‌شناختی، مثلاً خوانش ⟪शिवताण्डवस्तोत्र⟫ (ستایش رقص شیوا): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2.  **نقد متن:** خطا در وزن می‌تواند نشانه‌ای باشد که متن در جایی به درستی منتقل نشده است. وزن به انجام اصلاحات متنی کمک می‌کند.
+3.  **زمانی:** برخی از وزن‌ها در طول تاریخ تغییرات خاصی را تجربه کرده‌اند. این می‌تواند به تعیین تقریبی تاریخ یک متن کمک کند. برای اطلاعات بیشتر، **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- هر دو در:
+**Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
-Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
-(Bildquelle: [Details](/licenses#lekt5304)) <!-- TODO: Fallback translation -->
+تصویر: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5304))
 :::
 ### 53.10.2. انواع وزن‌ها
 
 ::: grammar-box
-**Die Inder unterscheiden:** <!-- TODO: Fallback translation -->
+**هندوها تمایز قائل می‌شوند:**
 
-*   **⟪वृत्त⟫ n.:** Metren, bei denen die Zahl der Silben (⟪अक्षर⟫) festgelegt ist <!-- TODO: Fallback translation -->
-*   **⟪जाति⟫ f.:** Metren, bei denen die Summe der metrischen Längeneinheiten (⟪मात्रा⟫) (Moren) festgelegt ist (zu diesen später) <!-- TODO: Fallback translation -->
+*   **⟪वृत्त⟫ n.:** وزن‌هایی که در آن‌ها تعداد هجاها (⟪अक्षर⟫) مشخص است
+*   **⟪जाति⟫ f.:** وزن‌هایی که در آن‌ها مجموع واحدهای کمّی عروضی (⟪मात्रा⟫) (مُورَناها) مشخص است (در مورد این‌ها بعداً صحبت خواهیم کرد)
 
-**Bei den Metren, bei denen die Zahl der Silben festgelegt ist (⟪वृत्त⟫) kann man zunächst weiter unterscheiden:** <!-- TODO: Fallback translation -->
+**در وزن‌هایی که در آن‌ها تعداد هجاها مشخص است (⟪वृत्त⟫) می‌توان ابتدا تمایز بیشتری قائل شد:**
 
-*   Metren, bei denen die Zahl der Silben festgelegt ist, die Quantität dieser Silben aber nur teilweise <!-- TODO: Fallback translation -->
-*   Metren, bei denen die Zahl der Silben and deren Quantität festgelegt ist <!-- TODO: Fallback translation -->
+*   وزن‌هایی که در آن‌ها تعداد هجاها مشخص است، اما کمّیت این هجاها فقط تا حدی تعیین شده باشد
+*   وزن‌هایی که در آن‌ها هم تعداد هجاها و هم کمّیت آن‌ها مشخص است
 :::
-### 53.10.3. کمیت عروضی هجاها
+### 53.10.3. کمّیت عروضی هجاها
 
 ::: grammar-box
-**Merkvers** <!-- TODO: Fallback translation -->
+**مصرع کمکی**
 
 :::
 ::: indent
@@ -524,55 +526,55 @@ Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 ⟪वर्णः⟫ ⟪संयोगपूर्वश्च⟫
 ⟪तथा⟫ ⟪पादान्तगो⟫ ⟪ऽपि⟫ ⟪वा⟫ ⟪॥⟫
 :::
-"Eine Silber ist schwer, <!-- TODO: Fallback translation -->
+«یک سیلاب سنگین است،
 
-*   wenn ihr Vokal einen Anusvāra hat, <!-- TODO: Fallback translation -->
-*   lang ist, <!-- TODO: Fallback translation -->
-*   einen Visarga hat, <!-- TODO: Fallback translation -->
-*   ebenso wenn er vor einer Konsonantenverbindung steht <!-- TODO: Fallback translation -->
-*   sowie wenn die Silbe am Schluss eines Viertelverses (Pāda) steht." <!-- TODO: Fallback translation -->
+*   wenn ihr Vokal einen Anusvāra hat,
+*   بلند است،
+*   دارای ویرسا (Visarga) دارد،
+*   همچنین اگر پیش از یک ترکیب همخوان قرار گیرد
+*   و نیز اگر سیلاب در پایان یک چهارم شعر (پادا) قرار گیرد.»
 ::: grammar-box
-**Eine Silbe ist** <!-- TODO: Fallback translation -->
+**یک سیلاب است**
 
-*   entweder **⟪लघु⟫ = leicht** <!-- TODO: Fallback translation -->
-*   oder **⟪गुरु⟫ = schwer** <!-- TODO: Fallback translation -->
+*   یا **⟪लघु⟫ = سبک**
+*   یا **⟪गुरु⟫ = سنگین**
 
-**⟪लघु⟫ = leicht ist eine Silbe, wenn** <!-- TODO: Fallback translation -->
+**⟪लघु⟫ = سبک است یک سیلاب، اگر**
 
-*   ihr Vokal kurz ist und auf diesen Vokal <!-- TODO: Fallback translation -->
-*   kein Anusvāra, <!-- TODO: Fallback translation -->
-*   kein Visarga, <!-- TODO: Fallback translation -->
-*   nicht zwei Konsonanten folgen. <!-- TODO: Fallback translation -->
+*   اگر وکال آن کوتاه باشد و به این وکال
+*   kein Anusvāra,
+*   هیچ ویه‌رگا نباشد،
+*   دو همزه دنبال نشود.
 
 Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
 
-**Alle anderen Silben sind ⟪गुरु⟫ = schwer. Die letzte Silbe eines Versviertels (⟪पाद⟫) gilt immer als ⟪गुरु⟫.** <!-- TODO: Fallback translation -->
+**تمام سایر سیلاب‌ها ⟪गुरु⟫ = سنگین هستند. آخرین سیلاب یک چهارم شعر (⟪पाद⟫) همیشه به عنوان ⟪गुरु⟫ در نظر گرفته می‌شود.**
 
-In der metrischen Analyse bedeutet: <!-- TODO: Fallback translation -->
+در تحلیل عروضی به این معناست:
 
 *   **◡** = ⟪ल⟫ = ⟪लघु⟫
 *   **—** = ⟪ग⟫ = ⟪गुरु⟫
-*   **×** = ⟪लघु⟫ oder ⟪गुरु⟫ <!-- TODO: Fallback translation -->
-*   **/** = Zäsur (Worttrennung) <!-- TODO: Fallback translation -->
+*   **×** = ⟪लघु⟫ یا ⟪गुरु⟫
+*   **/** = وقفه (جدا کردن کلمات)
 :::
-Beispiel: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫: <!-- TODO: Fallback translation -->
+مثال: ⟪भगवद्गीता⟫ ⟪१⟫،⟪१⟫:
 
 ::: indent
 ⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
 ⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫
 :::
-Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ : <!-- TODO: Fallback translation -->
+توزیع ⟪लघु⟫ و ⟪गुरु⟫ :
 
 ::: metrik-schema
-— — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —** <!-- TODO: Fallback translation -->
+— — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
 ::: metrik-schema
-— ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —** <!-- TODO: Fallback translation -->
+— ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. شلوکا حماسی (⟪श्लोक⟫ مذکر)
+### 53.10.4. شلوک حماسی (⟪श्लोक⟫ مذکر)
 
 ::: grammar-box
-**Merkvers:** <!-- TODO: Fallback translation -->
+**مصرع کمکی:**
 
 :::
 ::: indent
@@ -581,71 +583,71 @@ Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ : <!-- TODO: Fallback tran
 ⟪द्विचतुष्पादयोर्ह्रस्वं⟫
 ⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫
 :::
-"Im Śloka ist die sechste Silbe eines Pāda schwer,  
-die fünfte in allen Pādas leicht  
-Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden anderen." <!-- TODO: Fallback translation -->
-Das wichtigste Versmaß in den Epen (⟪महाभारत⟫, ⟪रामायण⟫) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu ⟪श्रु⟫ "hören"). <!-- TODO: Fallback translation -->
+«در ش्लوکا، ششمین هجا از یک پادا سنگین است،
+پنجمین در همه‌ی پاداهای سبک است
+هفتمین هجا در دوم و چهارم پادا کوتاه، و در دو تای دیگر بلند است.»
+مهم‌ترین وزن شعر در حماسه‌ها (⟪महाभारत⟫، ⟪रामायण⟫) و بی‌شمار اثر دیگر، ش्लوکا («فریاد»، «صدا»، «بیت» از ⟪श्रु⟫ به معنای «شنیدن») است.
 
 ::: grammar-box
-**Der ⟪श्लोक⟫ ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (⟪पाद⟫) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (⟪पद्य⟫ n.) besteht also aus vier ⟪पाद⟫ (m. "Fuß, Viertel"). Die vier ⟪पाद⟫ werden mit a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) durchgezählt.** <!-- TODO: Fallback translation -->
+**⟪श्लोक⟫ یک بیت دوتایی از نیم‌بیت‌های هرکدام ۱۶ هجایی است. هر نیم‌بیت دوباره به دو چهارم بیت (⟪पाद⟫) هرکدام ۸ هجایی تقسیم می‌شود. هر چهارم بیت به دو بخش از ۴ هجا تقسیم می‌گردد. کل بیت (⟪पद्य⟫ مفرد) از چهار ⟪पाद⟫ (مذکر به معنای «پا، چهارم») تشکیل شده است. چهار ⟪पाद⟫ با a، b، c، (⟪क्⟫، ⟪ख्⟫، ⟪ग्⟫، ⟪घ्⟫) شماره‌گذاری می‌شوند.**
 
-**Aufbau des Śloka:** <!-- TODO: Fallback translation -->
+**ساختار ش्लوکا:**
 
-**Grundschema (⟪पथ्या⟫):** <!-- TODO: Fallback translation -->
+**الگوی پایه (⟪पथ्या⟫):**
 
-**a = c:** <!-- TODO: Fallback translation -->
+**a = c:**
 :::
 ::: metrik-schema
-× × × ×   **◡ — — —** <!-- TODO: Fallback translation -->
+× × × ×   **◡ — — —**
 :::
-**b = d:** <!-- TODO: Fallback translation -->
+**b = d:**
 ::: metrik-schema
-× × × ×   **◡ — ◡ —** <!-- TODO: Fallback translation -->
+× × × ×   **◡ — ◡ —**
 :::
-Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein. <!-- TODO: Fallback translation -->
+دو و سومین هجای یک ⟪पाद⟫ نباید همزمان ⟪लघु⟫ باشند. در b و d، هجای ۲ - ۴ نمی‌تواند ¯ ˘ ¯ باشد.
 
-**Nebenschemata (⟪विपुला⟫) für a und c:** <!-- TODO: Fallback translation -->
+**زیرالگوها (⟪विपुला⟫) برای a و c:**
 
 **⟪विपुला⟫ 1:**
 ::: metrik-schema
-× × × —   ◡ ◡ ◡ — <!-- TODO: Fallback translation -->
+× × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
 ::: metrik-schema
-× — ◡ —   — ◡ ◡ — <!-- TODO: Fallback translation -->
+× — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
 ::: metrik-schema
-× — ◡ —   — / — — — <!-- TODO: Fallback translation -->
+× — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
 ::: metrik-schema
-× × × ×   / — ◡ — — <!-- TODO: Fallback translation -->
+× × × ×   / — ◡ — —
 :::
-**Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.** <!-- TODO: Fallback translation -->
+**در تمام اشکال شلوکا، قطع اصلی در پایان دومین ⟪पाद⟫ قرار دارد: آنجا یا پایان کلمه است یا — در صورت ترکیب‌های طولانی — پایان یک بخش از ترکیب.**
 ## 53.11. تمرین
 
 ::: grammar-box
-**Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmäßigkeiten bzw. Vipulāformen hin.** <!-- TODO: Fallback translation -->
+**از میان تمام اشعار تاکنون آموخته‌شده، شلوکاهای را شناسایی کنید. برای این موارد به صورت مکتوب طرح عروضی آن‌ها را بنویسید. در مورد ناهنجاری‌های احتمالی یا اشکال ویپولا اشاره کنید.**
 :::
 ::: center
-Finitum feliciter 1984-02-15
-Editio interretialis feliciter finita 2009-01-19
-Alois Maria Payer
-⟪श्रीगणेशाय⟫ ⟪नमः⟫ <!-- TODO: Fallback translation -->
+پایان موفقیت‌آمیز ۱۹۸۴-۰۲-۱۵
+پایان موفقیت‌آمیز نسخه اینترنتی ۲۰۰۹-۰۱-۱۹
+آلوئیس ماریا پایر
+⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
 ::: deleteme-box
-**Quellen** <!-- TODO: Fallback translation -->
+**منابع**
 
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
+**پیر، آلوئیس \<1944 - \>:** دوره سنسکریت. -- درس 53 (تعطیلات ترم). -- نسخه مورخ 2009-01-19. -- نشانی اینترنتی: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
-Finitum feliciter 1984-02-15  
-Editio interretialis feliciter finita 2009-01-19  
-Alois Maria Payer  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫ <!-- TODO: Fallback translation -->
+پایان خوش 1984-02-15  
+انتشار اینترنتی با موفقیت به پایان رسید 2009-01-19  
+آلوئیس ماریا پیر
+⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
 ::: deleteme-box
 
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer). <!-- TODO: Fallback translation -->
+**پیر، آلوئیس \<1944 - \>:** دوره سنسکریت. -- درس 53 (تعطیلات ترم). -- نسخه مورخ 2009-01-19. -- منبع تصویر جدول اصلی 53.9: اسکرین‌شات از منبع اصلی (پیر).
 :::
 

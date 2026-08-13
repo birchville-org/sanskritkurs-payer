@@ -88,7 +88,7 @@ status: stable
 
 **⟪प्राप्य⟫** «پس از آنکه (...) به دست آورد / داشت»
 :::
-#### 22.2.2.2. Wurzeln auf -ā <!-- TODO: Fallback translation -->
+#### ۲۲.۲.۲.۲. ریشه‌های منتهی به -ā
 
 ::: grammar-box
 
@@ -100,7 +100,7 @@ status: stable
 ::: indent
 **⟪उपस्थाय⟫** «پس از آنکه (...) گام نهاد / ایستاد»؛ (اما بدون پیشوند: **⟪स्थित्वा⟫**)
 :::
-#### 22.2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten <!-- TODO: Fallback translation -->
+#### ۲۲.۲.۲.۳. ریشه‌هایی که در سطح عمیق به -i، -u، -ṛ کوتاه ختم می‌شوند
 
 ::: grammar-box
 
@@ -116,7 +116,7 @@ status: stable
 
 **⟪संस्कृत्य⟫** «پس از آنکه (...) برای قربانی آماده کرده بود / آماده می‌کرد»
 :::
-#### 22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten <!-- TODO: Fallback translation -->
+#### ۲۲.۲.۲.۴. ریشه‌هایی که به -am / -an ختم می‌شوند و در سطح عمیق (Guna) به -a ختم می‌گردند
 
 ::: grammar-box
 
@@ -134,7 +134,7 @@ status: stable
 ::: indent
 **⟪विगम्य⟫** یا **⟪विगत्य⟫** «پس از آنکه (...) گذشت / بود»
 :::
-## 22.3. Wortliste <!-- TODO: Fallback translation -->
+## ۲۲.۳. واژه‌نامه
 
 **⟪काम⟫ m.:** خواست، تمایل؛ بخشش مطلوب، لذت حسی، عشق، خدای عشق
 
@@ -143,8 +143,6 @@ status: stable
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Abb.: ⟪कामदेवः⟫ <!-- TODO: Fallback translation -->
-19. Jhdt <!-- TODO: Fallback translation -->
 تصویر: ⟪कामदेवः⟫
 قرن ۱۹
 (منبع تصویر: [جزئیات](/licenses#lekt2202))
@@ -190,7 +188,7 @@ Abb.: ⟪कामदेवः⟫ <!-- TODO: Fallback translation -->
 گوا = ⟪गोंय⟫
 (منبع تصویر: [جزئیات](/licenses#lekt2201))
 :::
-## 22.4. Übung <!-- TODO: Fallback translation -->
+## 22.4. تمرین
 
 **الف) ابزولوتیو (حالت مطلق) را برای افعال زیر بسازید و ترجمه کنید:**
 

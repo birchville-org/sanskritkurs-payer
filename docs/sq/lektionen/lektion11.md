@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 11
+# Mësimi 11
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:**

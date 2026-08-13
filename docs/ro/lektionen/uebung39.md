@@ -108,4 +108,4 @@ A) Formați pentru următoarele forme verbale formele persoanei întâi, care co
 Fig.: ⟪आगारे⟫ ⟪सीदामः⟫
 (Sursă imagine: [Detalii](/licenses#uebung064))
 ::::
-:::
+::: <!-- TODO: Fallback translation -->

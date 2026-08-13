@@ -8,7 +8,7 @@
 Ἀπεικ.: Δεῖγματα γραφῆς Σανσκρίτ
 \[Πηγὴ εἰκόνος: Wikipedia, Ἄδεια GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 Τὰ φωνήεντα τὰ μετὰ σύμβολον ἐπόμενα -- πλὴν "a" -- οὕτως γράφονται:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
 
 Ἡ τάξις τῆς γραφῆς τούτων τῶν συνθέσεων συμβόλου + φωνήεντος ἐστίν:
 

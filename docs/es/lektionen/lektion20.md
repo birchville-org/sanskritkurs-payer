@@ -30,7 +30,7 @@ Jodhpur = ⟪जोधपुर⟫
 
 **Esquema para la resolución de un Bahuvrīhi:**
 
-**1. Miembro anterior generalmente en Nominativooo (⟪प्रथमा⟫) Sing., Dual o Pl. -- 2. Miembro posterior en Nominativooo Sing., Dual o Pl. -- Pronombre relativo en un caso distinto al Nominativooo (generalmente Genitivo - ⟪षष्ठी⟫) y en género y número del Bahuvrīhi total -- Pronombre demostrativo en número, caso y género del Bahuvrīhi total.**
+**1. Miembro anterior generalmente en Nominativoooooo (⟪प्रथमा⟫) Sing., Dual o Pl. -- 2. Miembro posterior en Nominativoooooo Sing., Dual o Pl. -- Pronombre relativo en un caso distinto al Nominativoooooo (generalmente Genitivo - ⟪षष्ठी⟫) y en género y número del Bahuvrīhi total -- Pronombre demostrativo en número, caso y género del Bahuvrīhi total.**
 
 :::
 Ejemplos:
@@ -149,7 +149,7 @@ Jesús y los demás dioses, Ahmedabad
 
 ## 20.4. Bahuvrīhi con miembro anterior casual
 
-es decir, Bahuvrīhi cuyo miembro anterior ocupa el caso del Nominativooo (⟪प्रथमा⟫).
+es decir, Bahuvrīhi cuyo miembro anterior ocupa el caso del Nominativoooooo (⟪प्रथमा⟫).
 
 Ejemplo:
 

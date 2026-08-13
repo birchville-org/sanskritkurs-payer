@@ -38,7 +38,7 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
 | **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br**כיתה 3: -atu**:br(לשעבר -\*ntu) | \-atām:br(לשעבר: -\*ntām) |
 :::
-הערה: ¹ את הסופיות של אדם 2 ו-3 בגוף יחיד ניתן להחליף ב-\-tāt, אם רוצים לבטל ברכה. -tāt מופיע (גם בגוף 3 יחיד) על השורש החלש.
+הערה: ¹ את הסופיות של אדם 2 ו-3 בגוף יחיד ניתן להחליף ב-\-tāt, אם רוצים לבטל ברכה. -tāt מופיע (גם בגוף 3 יחיד) על השורש החלש. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | **לצורת הסופית של אדם 2 בגוף יחיד בציווי:** ||
@@ -122,7 +122,7 @@ status: stable
 
 הערה: ¹ הסבר של **⟪जहि⟫** ראה Thumb-Hauschild I,2 עמ' 253
 :::
-⟪स्तु⟫ 2U
+⟪स्तु⟫ 2U <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -265,7 +265,7 @@ status: stable
 איור: ⟪तन्त्रम्⟩
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (מקור התמונה: [פרטים](/he/licenses#lekt4802))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4803.webp)
@@ -413,7 +413,7 @@ B) תרגמו לסנסקריט (השתמשו בציווי ובשורשים של 
 
 **lekt4803:** נגני סיטאר = ⟪सितारवादकः⟫ [מקור תמונה: ויקיפדיה. תחום הציבור]
 
-**lekt4804:** [קבוצת סיוע עצמי (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), טאמיל נאדו = தமிழ்நாடு [מקור תמונה: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- נגיש ב-2009-01-10. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ייחוס, שימוש לא מסחרי)]
+**lekt4804:** [קבוצת סיוע עצמי (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), טאמיל נאדו = தமிழ்நாடு [מקור תמונה: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- נגיש ב-2009-01-10. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
 **lekt4805:** חג תאיפוסאם = தைப்பூசம், מערות באטו, מלזיה [מקור התמונה: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- נגיש ב-2009-01-10. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (יחוס)]
 

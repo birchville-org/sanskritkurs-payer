@@ -185,7 +185,7 @@ Fig.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
 
 B.) Traduceți în sanscrită (folosiți imperativul):
 
-1\. Vreau să fiu obținut.
+1\. Vreau să fiu obținut. <!-- TODO: Fallback translation -->
 
 2\. El să fie mulțumit.
 
@@ -203,7 +203,7 @@ B.) Traduceți în sanscrită (folosiți imperativul):
 
 9\. Dați (⟪प्र⟫-⟪यम्⟫) strămoșilor bilete de orez!
 
-10\. Ei să se bucure!
+10\. Ei să se bucure! <!-- TODO: Fallback translation -->
 
 11\. Vreau să privesc în lume.
 

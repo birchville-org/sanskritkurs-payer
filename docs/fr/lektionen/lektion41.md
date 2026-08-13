@@ -5,11 +5,11 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 41
+# Leçon 41
 
-## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
+## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
@@ -33,7 +33,7 @@ Fig. : ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 :::
 Explication : ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
-## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
+## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a <!-- TODO: Fallback translation -->
 
 ### 41.2.1. Participe présent (⟪लडादेशः⟫) Ā, Participe présent (⟪लडादेशः⟫) passif, Participe futur (⟪ऌडादेशः⟫) Ā
 
@@ -44,7 +44,7 @@ Explication : ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
 Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā)
 :::
-Exemples :
+Exemples : <!-- TODO: Fallback translation -->
 
 ⟪यज्⟫ 1U, Part.Prés.Ā ⟪यजमान⟫ 3 « quelqu’un qui est honoré par un sacrifice dans son propre intérêt = maître de l’offrande »
 
@@ -167,7 +167,7 @@ Exemple :
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" |
+| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -180,7 +180,7 @@ Exemples :
 | | | |
 | :--- | :--- | :--- |
 | ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "zu verkaufen; verkäuflich" |
-| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" |
+| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" | <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -230,7 +230,7 @@ Exemples :
 | | | |
 | :--- | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "zu hassender = Feind" |
-| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" |
+| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -246,7 +246,7 @@ Exemple :
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" |
+| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" | <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -274,7 +274,7 @@ Exemples :
 | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "zu gehender" |
 | ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "zu hörender" |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" | <!-- TODO: Fallback translation -->
 
 :::
 ### 41.2.3. Aspects syntaxiques du « participe » de la nécessité passive (Gérondif) (⟪कृत्य⟫)

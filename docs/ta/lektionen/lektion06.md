@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # பாடம் 6
 
@@ -129,7 +129,7 @@ status: stable
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. 4 ஆம் நிகழ்கால வகுப்பின் வினைகள் (திவாதி = ⟪திவாதி⟫ = "திவ் முதலியன")
+### 6.5.3. 4 ஆம் நிகழ்கால வகுப்பின் வினைகள் (திவாதி = ⟪திவாதி⟫ = "திவ் முதலியன") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **இப்போதைய மூலக்கூறு = ஆழ நிலையில் உள்ள மூலம் (அது பட்டியலிடப்படுகிறது) + ya-**
@@ -237,9 +237,13 @@ status: stable
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **ஆ) பன்மைக்கு மாற்றவும்:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫
@@ -284,7 +288,7 @@ status: stable
 **ஔ) சமசுகிருதத்திற்கு மொழிபெயர்க்கவும்:**
 1. Rāma opfert (als Opferherr).
 2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
+3. Mīnākṣī ist eine Göttin. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0602.webp)
@@ -307,3 +311,4 @@ status: stable
 17. Die Wissenschaften (für einen Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten)
 18. Geht es Ihnen gut?
 19. (Es geht mir) in jeder Hinsicht gut.
+ <!-- TODO: Fallback translation -->

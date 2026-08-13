@@ -71,7 +71,7 @@ Abb.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Bildquelle: [Details](/ta/licenses#lekt2903))
 :::
-⟪पालयति⟫ : பொருள் ரீதியாக ⟪पाति⟫-க்கு சமமானது
+⟪पालयति⟫ : பொருள் ரீதியாக ⟪पाति⟫-க்கு சமமானது <!-- TODO: Fallback translation -->
 
 ⟪पुनर्⟫ Indekl.: மீண்டும், எப்போதும் மீண்டும், பின்னோக்கி, மீண்டும்; ஆனால், ஆனால் (ஒலிப்புள்ள ஒலிகளுக்கு முன் r- தவிர: ⟪पुनर्⟫)
 
@@ -269,5 +269,5 @@ Inf. ⟪रन्तुम्⟫
 **lekt2903:** புஷ்கர் = ⟪पुष्कर⟫ [பட மூலம்: pajama. -- http://www.flickr.com/photos/rpt/387636532/. -- 2008-12-20 அன்று அணுகல். -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, share alike)]
 **lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [பட மூலம்: Khalid Mahmood / Wikipedia. GNU FDLicense]
 **lekt2902:** (வரைவு: Namcha Payer, 2002-11)
-:::
+::: <!-- TODO: Fallback translation -->
 

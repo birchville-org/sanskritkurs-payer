@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# Lektion 8
+# 第8課
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
@@ -172,10 +172,14 @@ Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wis
 - **Schwacher Stamm: Wurzel + -u- (vor Vokal: -v-)** <!-- TODO: Fallback translation -->
 
 Beispiel **tan** 8 U (⟪तन्⟫) "dehnen": <!-- TODO: Fallback translation -->
-- 3\. sg. P. **tanoti** :br⟪तनोति⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫ <!-- TODO: Fallback translation -->
-- 3\. sg. Ā. **tanute** :br⟪तनुते⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. Ā. **tanvate** :br⟪तन्वते⟫ <!-- TODO: Fallback translation -->
+- 3\. sg. P. **tanoti**
+⟪तनोति⟫
+- 3\. pl. P. **tanvanti**
+⟪तन्वन्ति⟫
+- 3\. sg. Ā. **tanute**
+⟪तनुते⟫
+- 3\. pl. Ā. **tanvate**
+⟪तन्वते⟫
 :::
 Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265. <!-- TODO: Fallback translation -->
 
@@ -183,10 +187,14 @@ Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (⟪कृ⟫) "tun, machen
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "machen, tun"** <!-- TODO: Fallback translation -->
-- 3\. sg. P. **karoti** :br⟪करोति⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫ <!-- TODO: Fallback translation -->
-- 3\. sg. Ā. **kurute** :br⟪कुरुते⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫ <!-- TODO: Fallback translation -->
+- 3\. sg. P. **karoti**
+⟪करोति⟫
+- 3\. pl. P. **kurvanti**
+⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute**
+⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate**
+⟪कुर्वते⟫
 :::
 
 ## 8.5. 词汇表

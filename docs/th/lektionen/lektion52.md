@@ -196,7 +196,7 @@ PPP + -vant / หญิง: vatī
 ⟪भस्मसात्करोति⟫ "เขาเปลี่ยนเป็นเถ้าถ่านโดยสิ้นเชิง (⟪भस्मन्⟫ n. "เถ้าถ่าน"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
 
 *   **ขึ้นอยู่กับหรือ**
 *   **เปลี่ยนไปสู่การเป็นเจ้าของสิ่งนั้น**
@@ -283,7 +283,7 @@ PPP + -vant / หญิง: vatī
 ตัวอย่าง:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f.
 :::
 
@@ -295,7 +295,7 @@ PPP + -vant / หญิง: vatī
 ตัวอย่าง:
 
 ::: indent
-100 ⟪शत⟫ n.:br
+100 ⟪शत⟫ n.
 1000 ⟪सहस्र⟫ n.
 :::
 ดูคำนามจำนวนแต่ละคำ ตัวอย่างเช่นที่ Kielhorn, Grammatik §201
@@ -794,7 +794,7 @@ Mahābhārata : มหาประพันธ์ของอินเดีย 
 
 **lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [แหล่งที่มาของภาพ: Wikipedia. สาธารณสมบัติ]
 
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [แหล่งที่มาของภาพ: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- เข้าถึงเมื่อ 2009-01-16. -- [ใบอนุญาต Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ให้เครดิต)]
+**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [แหล่งที่มาของภาพ: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- เข้าถึงเมื่อ 2009-01-16. -- [ใบอนุญาต Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ให้เครดิต)] <!-- TODO: Fallback translation -->
 
 **lekt5212:** Hyderabad = హైదరాబాద్ [แหล่งที่มาของภาพ: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- เข้าถึงเมื่อ 2009-01-16. -- [ใบอนุญาต Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
 
@@ -802,7 +802,7 @@ Mahābhārata : มหาประพันธ์ของอินเดีย 
 
 **lekt5214:** Konark = ⟪कोनार्क⟫ [แหล่งที่มาของภาพ: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- เข้าถึงเมื่อ 2009-01-16. -- [ใบอนุญาต Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
 
-**lekt5208:** Hampi = ಹಂಪೆ [แหล่งที่มาของภาพ: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- เข้าถึงเมื่อ 2009-01-15. -- [ใบอนุญาต Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ให้เครดิต, ไม่ใช้เพื่อการค้า, แบ่งปันแบบเดียวกัน)]
+**lekt5208:** Hampi = ಹಂಪೆ [แหล่งที่มาของภาพ: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- เข้าถึงเมื่อ 2009-01-15. -- [ใบอนุญาต Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ให้เครดิต, ไม่ใช้เพื่อการค้า, แบ่งปันแบบเดียวกัน)] <!-- TODO: Fallback translation -->
 
 **lekt5215:** ⟪मुंबई⟫ [แหล่งที่มาของภาพ: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- เข้าถึงเมื่อ 2009-01-16. -- [ใบอนุญาต Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ให้เครดิต)]
 
@@ -813,3 +813,4 @@ Mahābhārata : มหาประพันธ์ของอินเดีย 
 **lekt5201:** (ภาพ: Payer)
 
 :::
+

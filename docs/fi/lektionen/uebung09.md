@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 9
 
-A) Yritä määrittää seuraavien sanojen mahdolliset merkitykset:
+A) Yritä määrittää seuraavien sanojen mahdolliset merkitykset: <!-- TODO: Fallback translation -->
 
 1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. sellainen, joka on vain samankaltainen kuin brahmani = huono brahmani
 
@@ -18,11 +18,11 @@ A) Yritä määrittää seuraavien sanojen mahdolliset merkitykset:
 
 3\. śravaṇa ⟪श्रवण⟫ : n. korva
 
-4\. dhenuka ⟪धेनुक⟫ : m. (coitus) lehmän tyylinen
+4\. dhenuka ⟪धेनुक⟫ : m. (coitus) lehmän tyylinen <!-- TODO: Fallback translation -->
 
 5\. jayaka ⟪जयक⟫ : 3 voittava
 
-6\. rakṣikā ⟪रक्षिका⟫ : f. vartija, amuletti
+6\. rakṣikā ⟪रक्षिका⟫ : f. vartija, amuletti <!-- TODO: Fallback translation -->
 
 7\. karṣaka ⟪कर्षक⟫ : 3 kyntävä ; m. maanviljelijä
 
@@ -32,7 +32,7 @@ A) Yritä määrittää seuraavien sanojen mahdolliset merkitykset:
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 (juuri) kudontaketjusta / kankaalta tuleva = juuri kudottu
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : tanssija
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : tanssija <!-- TODO: Fallback translation -->
 
 12\. naraka ⟪नरक⟫ : m. helvetti
 
@@ -50,7 +50,7 @@ A) Yritä määrittää seuraavien sanojen mahdolliset merkitykset:
 
 19\. darśaka ⟪दर्शक⟫ : 3 katsova
 
-20\. kopaka ⟪कोपक⟫ : 3 henkilö, joka on helposti vihainen, räjähdysaltis
+20\. kopaka ⟪कोपक⟫ : 3 henkilö, joka on helposti vihainen, räjähdysaltis <!-- TODO: Fallback translation -->
 
 B) Käännä:
 
@@ -74,7 +74,7 @@ Opettaminen, uhraaminen puolesta, lahjojen vastaanottaminen.
 
 rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 
-(sarvabhūtānām = genetiivi: "kaikkien olentojen")
+(sarvabhūtānām = genetiivi: "kaikkien olentojen") <!-- TODO: Fallback translation -->
 
 (Gautamadharmasūtra X,7)
 
@@ -97,9 +97,9 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्वि�
 Selitys:
 dvijātīnām = genetiivi (omistusmuoto) monikko sanasta dvijāti (käännä tässä: "kahdesti syntyneiden edessä")
 
-kārukuśīlavakarma on Tatpuruṣa-sana, jossa on Dvandva (kārukuśīlava) etuosassa. karma = nominatiivin yksikkö sanasta karman n. "teko, toiminta, karma" verbijuurta kṛ 8 U). Käännä "teko / toiminta ... (genetiivi)" (Dvandvan määrittelemät).
+kārukuśīlavakarma on Tatpuruṣa-sana, jossa on Dvandva (kārukuśīlava) etuosassa. karma = nominatiivin yksikkö sanasta karman n. "teko, toiminta, karma" verbijuurta kṛ 8 U). Käännä "teko / toiminta ... (genetiivi)" (Dvandvan määrittelemät). <!-- TODO: Fallback translation -->
 
-Kuuliaisuus kahdesti syntyneitä kohtaan, elinkeinotoiminta, käsityöläisen tai kiertävän esittäjän toiminta.
+Kuuliaisuus kahdesti syntyneitä kohtaan, elinkeinotoiminta, käsityöläisen tai kiertävän esittäjän toiminta. <!-- TODO: Fallback translation -->
 
 6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫
 
@@ -111,4 +111,4 @@ Talous on maanviljelyä, karjanhoitoa ja kauppaa.
 ![](/images/uebung013.webp)
 Kuv.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 (Kuv lähde: [Details](/licenses#uebung013))
-:::
+::: <!-- TODO: Fallback translation -->

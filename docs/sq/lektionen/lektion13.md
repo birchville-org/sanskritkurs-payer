@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 13
+# Mësimi 13
 
 ## 13.1. PPP auf -na-
 

@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 49
 
@@ -173,7 +173,7 @@ Substantivele cu -is și -us sunt relativ rare.
 Fig.: ⟪नमस्ते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4907))
 :::
-## 49.4. Listă de cuvinte
+## 49.4. Listă de cuvinte <!-- TODO: Fallback translation -->
 
 ⟪दीर्घ⟫ 3: lung
 
@@ -231,7 +231,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Fig.: ⟪कुलूहलम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: întreg, complet
+⟪कृत्स्न⟫ 3: întreg, complet <!-- TODO: Fallback translation -->
 
 ⟪परिचय⟫ m.: cunoaștere, familiaritate
 
@@ -243,7 +243,7 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, sec. al XI-lea
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: dorință
+⟪वर⟫ m.n.: dorință <!-- TODO: Fallback translation -->
 
 ⟪उत⟫ Indekl.: și, de asemenea, sau
 
@@ -274,7 +274,7 @@ Văzător cu papagal în cușcă: papagalul scoate bilețele pe care este scris 
 :::
 ⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: cel mai jos nivel al [Dalitilor](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: însuși, de la sine
+⟪स्वयम्⟫ Indekl.: însuși, de la sine <!-- TODO: Fallback translation -->
 
 ⟪अवनि⟫ f.: pământ
 
@@ -299,7 +299,7 @@ Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
 
 ⟪परम⟫ 3: cel mai îndepărtat, cel mai înalt ; ⟪पञ्चम्या⟫ : mai bun decât, mai sus decât
 
@@ -370,7 +370,7 @@ Determinați următoarele forme:
 Fig.: ⟪शुकः⟫
 Papagal cu cap de prună = Psittacula cyanocephala
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4908))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

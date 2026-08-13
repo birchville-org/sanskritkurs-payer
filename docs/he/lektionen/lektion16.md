@@ -21,7 +21,7 @@ status: stable
 | :--- | :--- |
 | **בפסקה וטרם עיצורים חסרי-קול** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
 | **לפני עיצורים לא-אפיניים לא-סותמים** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **לפני נ' סותמות** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
+| **לפני נ' סותמות** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
 
 :::
 חריגה מהכלל הנ\"ל:
@@ -35,7 +35,7 @@ status: stable
 | **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **לפני פלטהל** | **» -cś- oder -cch-** |
 | **vor l-** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
+| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
 
 :::
 דוגמאות:
@@ -90,7 +90,7 @@ status: stable
 
 ⟪निरोध⟫ m.: עִצְרוֹן, הַעֲמָדָה
 
-* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): יצור, רוח רפאים
+* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): יצור, רוח רפאים <!-- TODO: Fallback translation -->
 
 ⟪योग⟫ m.: חיבור, קישור, איחוד, רכוש; יוגה
 
@@ -250,3 +250,4 @@ status: stable
 
 **lekt1604:** ⟪हरियाणा⟫ / ⟪हरियाणा⟫ [מקור התמונה: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- נגיש ב-2008-12-07. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
 :::
+ <!-- TODO: Fallback translation -->

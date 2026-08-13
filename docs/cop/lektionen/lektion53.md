@@ -3,7 +3,7 @@ title: Lektion 53
 lesson_id: 53
 ---
 
-# Lektion 53
+# ⲙⲁⲑⲏⲙⲁ 53
 
 ## 53.1. ⲡⲓⲇⲩⲁⲗ (⟪द्विवचन⟫ n.) ⲛ̀ⲛⲓⲛⲟⲙⲓⲛⲁ
 
@@ -490,9 +490,11 @@ Siehe auch: <!-- TODO: Fallback translation -->
 
 Die Bestimmung des Metrums ist aus folgenden Gründen wichtig: <!-- TODO: Fallback translation -->
 
-1.  **Ästhetisch:** das Versmaß macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmaße u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmaße werden je verschieden rezitiert. :br Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58) <!-- TODO: Fallback translation -->
+1.  **Ästhetisch:** das Versmaß macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmaße u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmaße werden je verschieden rezitiert.
+Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58) <!-- TODO: Fallback translation -->
 2.  **Textkritisch:** Fehler im Versmaß können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmaß hilft, Textverbesserungen vorzunehmen. <!-- TODO: Fallback translation -->
-3.  **Chronologisch:** gewisse Versmaße gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: :br **Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255. <!-- TODO: Fallback translation -->
+3.  **Chronologisch:** gewisse Versmaße gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in:
+**Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5304.jpg)

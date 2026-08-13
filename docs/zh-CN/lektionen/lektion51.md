@@ -57,7 +57,7 @@ b) ⟪कृत्⟫后缀 -t
 
 ⟪पापकृत्⟫ 3 “Übles tuend, Übeltäter”
 :::
-\-⟪जित्⟫ 3 “siegend”, z. B.
+\-⟪जित्⟫ 3 “siegend”, z. B. <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪शत्रुजित्⟫ 3 “die Feinde besiegend”
@@ -78,7 +78,7 @@ c) ⟪कृत्⟫后缀 -a
 
 \-⟪घ्न⟫ 3 “erschlagend” 例如：⟪कुलघ⟫ 3 “Familie(n) tötend”
 
-\-⟪ज⟫ 3 (jña » jā » Tiefst. j + a) “abstammend von, geboren in” 例如：⟪आत्मज⟫ “Sohn”
+\-⟪ज⟫ 3 (jña » jā » Tiefst. j + a) “abstammend von, geboren in” 例如：⟪आत्मज⟫ “Sohn” <!-- TODO: Fallback translation -->
 
 \-⟪ज्ञ⟫ 3 “kundig” (jñ-a) 例如：⟪सर्वज्ञ⟫ 3 “allwissend”
 
@@ -144,7 +144,7 @@ c) ⟪कृत्⟫后缀 -a
 Singular Nom.Akk.Vok.  ⟪शत्रुजित्⟫
 Plural Nom.Akk.Vok. **:sig[⟪शत्रुजिन्ति⟫]**
 :::
-⟪सुयुध्⟫ 3 "gut kämpfend"
+⟪सुयुध्⟫ 3 "gut kämpfend" <!-- TODO: Fallback translation -->
 
 ::: indent
 单数主格/呼格.阳.中.阴.中性 ⟪सुयुत्⟫
@@ -172,7 +172,7 @@ Plural Nom.Akk.Vok. **:sig[⟪शत्रुजिन्ति⟫]**
 * **-ś » -ṭ 或 -k**
 * **-ṣ » -ṭ 或 -k**
 :::
-示例：
+示例： <!-- TODO: Fallback translation -->
 
 ⟪सत्यवाच्⟫ 3 “说真话”（⟪बहुव्रीहि⟫）
 
@@ -367,7 +367,7 @@ Da ovulatie plaatsvindt 14 dagen voor het begin van de menstruatie, is bij deze 
 图像：⟪ऋतुः⟫
 （图片来源：[详情](/zh-CN/licenses#lekt5106)）
 :::
-⟪एकत्र⟫  adv.：在某一处
+⟪एकत्र⟫  adv.：在某一处 <!-- TODO: Fallback translation -->
 
 ⟪जटा⟫ f.: 发辫（苦行者的发型）
 
@@ -383,7 +383,7 @@ Da ovulatie plaatsvindt 14 dagen voor het begin van de menstruatie, is bij deze 
 
 ⟪प्राणान्तिक⟫ 3（阴性：-ī）：致命的，致死的，无期徒刑的
 
-⟪बाह्य⟫ 3: außerhalb, draußen befindlich, fremd
+⟪बाह्य⟫ 3: außerhalb, draußen befindlich, fremd <!-- TODO: Fallback translation -->
 
 ⟪भिक्षा⟫ f.：乞得的布施，乞食
 

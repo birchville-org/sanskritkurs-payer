@@ -47,7 +47,7 @@ Fig.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
 | **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung | <!-- TODO: Fallback translation -->
 
 **Οἱ κλῖσεις τακταί εἰσι. Ὁ οὐσιαστικὸς ἐνικός ἀρσενικοῦ καὶ θηλυκοῦ σχηματίζεται ἄνευ ἐκφυομένου -ν.**
 :::
@@ -496,7 +496,7 @@ Inf. ⟪गणयितुम्⟫
 Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Bildquelle: [Details](/grc/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : cry, lament
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : cry, lament <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
@@ -604,3 +604,4 @@ Inf. ⟪सर्तुम्⟫
 - **lekt3813.jpg**: Fig.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Bildquelle: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
 - **lekt3814.jpg**: Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Bildquelle: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
 :::
+ <!-- TODO: Fallback translation -->

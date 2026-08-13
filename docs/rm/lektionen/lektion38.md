@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 38
+# Lecziun 38
 
-## 38.1. Losung der Woche
+## 38.1. Losung der Woche <!-- TODO: Fallback translation -->
 
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ davart il urinar correct:
 
@@ -21,16 +21,16 @@ status: stable
 :::
 Explicaziuns:
 
-\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. zu ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. zu ⟪अग्नि⟫ m. <!-- TODO: Fallback translation -->
 
-\-:sig[⟪गु⟫] Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh"
+\-:sig[⟪गु⟫] Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh" <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3801.webp)
 Imm.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Fonte da l'imagina: [Detagls](/rm/licenses#lekt3801))
 :::
-## 38.2. Midada da sons da nasals en la paraula
+## 38.2. Midada da sons da nasals en la paraula <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Las nasas en la parola assimilan il consonant suandant, id est, ellas vegnan sustituidas dal nasal correspundent a quel consonant.
@@ -47,7 +47,7 @@ Nomins cun finala **-an** u nomins cun finala **-man** resp. **-van** suenter vo
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
 | **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung | <!-- TODO: Fallback translation -->
 
 **Las desinenzas èn regularas. Il nominativ singular masculin e feminin vegn format senza la finala -n.**
 :::
@@ -70,7 +70,7 @@ Exempels:
 *   Stamm fort: ⟪नामान्⟫
 *   Stamm mez: ⟪नाम⟫
 *   Stamm debil: ⟪नाम्न्⟫
-::: grammar-box
+::: grammar-box <!-- TODO: Fallback translation -->
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
 | :--- | :---: | :---: | :---: |
@@ -116,7 +116,7 @@ Exempels:
     *   avant consonant: ⟪आत्म⟫
     *   avant vocal: ⟪आत्मन्⟫
 
-⟪ब्रह्मन्⟫ n.: Absolute, Veda, Brahman
+⟪ब्रह्मन्⟫ n.: Absolute, Veda, Brahman <!-- TODO: Fallback translation -->
 
 *   Stamm fort: ⟪ब्रह्मान्⟫
 *   Stamm debel:
@@ -149,7 +149,7 @@ Exempels:
 ::: grammar-box
 Quests sustantivs n'han **betg** ina fluctuaziun dal stem.
 
-Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung.
+Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung. <!-- TODO: Fallback translation -->
 
 Il feminin vegn format cun il suffix -ī: per exempel ⟪बलिनी⟫
 :::
@@ -179,7 +179,7 @@ Exempl:
 | ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
 
 :::
-## 38.4. Zur Nominalbildung: ⟪तद्धित⟫-Suffix -in
+## 38.4. Concerne la furmaziun nominala: sufix ⟪तद्धित⟫ -in
 
 ::: grammar-box
 Cun il (fitg impurtant!) suffiss ⟪तद्धित⟫ **-in** vegnan adiectivs creads da sustantivs cun il significà:
@@ -197,7 +197,7 @@ Exempl:
 Fig.: ⟪हस्ती⟫
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : in, ch'ha (umans) mauns
+⟪हस्तवन्त्⟫ : in, ch'ha (umans) mauns <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3807.webp)
@@ -212,7 +212,7 @@ Egempl:
 
 ⟪सत्यवादिन्⟫ a सत्यवाद m. "direr la veritad": "in ch'è caraterisà dal dir la veritad = in ch'è adina a dir la veritad"
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫
+## 38.5. Syntaktisches zu ⟪नामन्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Per exprimer "ina persuna numnada N. N.", construescha si:
@@ -287,7 +287,7 @@ Exempl:
 Fig.: ⟪सूर्यः⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: aua
+⟪उदक⟫ n.: aua <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3805.webp)
@@ -368,7 +368,7 @@ Fig.: ⟪ब्रह्मा⟫
 ::: indent
 ⟪कर्मविपाक⟫ m.: Roda d'act = las consequenzas bonas e malas d'act en existenzas passadas (a ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
+⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_) <!-- TODO: Fallback translation -->
 
 ⟪मनु⟫ m.: persuna, om; num dal bab dal gener uman (a ⟪मन्⟫ 4Ā)
 
@@ -451,7 +451,7 @@ A) Inserir en las sentèncias suventas la furma correspundenta dals pleds en par
 Fig.: ⟪विनोदः⟫
 (Fontana da l'imaginescha: [Detagls](/rm/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : s'envaglar
+⟪अट्⟫ 1P ⟪अटति⟫ : s'envaglar <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
@@ -496,7 +496,7 @@ Inf. ⟪गणयितुम्⟫
 Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : clamar, lamentar
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : clamar, lamentar <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
@@ -561,15 +561,15 @@ Inf. ⟪सर्तुम्⟫
 
 Explicaziuns:
 
-:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. da ⟪दशन्⟫ "diesch"
+:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. da ⟪दशन्⟫ "diesch" <!-- TODO: Fallback translation -->
 
 ⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm"
 
-:sig[⟪सर्वे⟫] Nom.pl.m. zu ⟪सर्व⟫ 3 "mintgin, tut"
+:sig[⟪सर्वे⟫] Nom.pl.m. zu ⟪सर्व⟫ 3 "mintgin, tut" <!-- TODO: Fallback translation -->
 
-:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "vuler reconuscher, vuler savair"
+:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "vuler reconuscher, vuler savair" <!-- TODO: Fallback translation -->
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. a ⟨�नवन्⟫ "naiv"
+⟪नव⟫ Nom.Akk.pl.m.f.n. a ⟨�नवन्⟫ "naiv" <!-- TODO: Fallback translation -->
 
 :sig[⟪वयम्⟫] Nom.pl. "wir"
 
@@ -604,3 +604,4 @@ Explicaziuns:
 - **lekt3813.jpg**: Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Bildquelle: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
 - **lekt3814.jpg**: Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Bildquelle: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
 :::
+ <!-- TODO: Fallback translation -->

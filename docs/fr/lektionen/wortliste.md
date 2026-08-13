@@ -38,7 +38,7 @@ outline: 2
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmane femme.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : Kṣatriya femme.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : Kṣatriya femme. <!-- TODO: Fallback translation -->
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : épouse d'un Kṣatriya.
 
@@ -255,7 +255,7 @@ Fig. : ⟪वरुणः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1003))
 ::::
 :::
-- **anṛta** n. ⟪अनृत⟫ : fausseté, mensonge (contraire de **satya**)
+- **anṛta** n. ⟪अनृत⟫ : fausseté, mensonge (contraire de **satya**) <!-- TODO: Fallback translation -->
 
 ::: note-box
   Formation du mot **an-** (« non- ») + **ṛta** n.
@@ -358,7 +358,7 @@ Fig. : ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (quelque chose) brûler
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : surmonter, endurer, supporter patiemment = pardonner
 - **mṛga** m. ⟪मृग⟫ : animal sauvage
-- **mārga** m. ⟪मार्ग⟫ : chemin (les chemins étaient souvent des sentiers de bêtes)
+- **mārga** m. ⟪मार्ग⟫ : chemin (les chemins étaient souvent des sentiers de bêtes) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1202.webp)
@@ -574,7 +574,7 @@ Fig. : ⟪व्याघ्रः⟫
 
 ⟪एव⟫ (postposé) : met l'accent sur ce qui précède, correspond en allemand souvent à l'accentuation, une sorte d'émoticone `\&lt;!\&gt;`, par ex. ⟪सत्यमेव⟫ ⟪जयति⟫ « seule la vérité triomphe », « précisément la vérité triomphe », « la vérité triomphe »
 
-⟪अरि⟫ m. : ennemi (selon Thieme, Der Fremdling im Ṛgveda : originellement = étranger)
+⟪अरि⟫ m. : ennemi (selon Thieme, Der Fremdling im Ṛgveda : originellement = étranger) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आर्य⟫ 3 : aryen, noble ; m. Aryen (autodésignation des anciens Indiens parlant sanskrit, litt. : hospitalier (Thieme)) ; Noble, homme d'honneur
@@ -1329,7 +1329,10 @@ Fig. : ⟪हिरण्यम्⟫
 **⟪वस्⟫** 1P (⟪वसति⟫): séjourner, habiter (avec le locatif de la personne chez qui on habite)
 
 ::: indent
-**Fut. :** ⟪वत्स्यति⟫:br**Pass. :** ⟪उष्यते⟫:br**PPP :** ⟪उषित⟫:br**Inf. :** ⟪वस्तुम्⟫
+**Fut. :** ⟪वत्स्यति⟫
+**Pass. :** ⟪उष्यते⟫
+**PPP :** ⟪उषित⟫
+**Inf. :** ⟪वस्तुम्⟫
 :::
 dont :
 
@@ -1343,7 +1346,9 @@ dont :
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): revêtir (un vêtement), porter (un vêtement)
 
 ::: indent
-**Fut. :** ⟪वसिष्यते⟫:br**PPP :** ⟪वसित⟫:br**Inf. :** ⟪वसितुम्⟫
+**Fut. :** ⟪वसिष्यते⟫
+**PPP :** ⟪वसित⟫
+**Inf. :** ⟪वसितुम्⟫
 :::
 dont :
 
@@ -1372,7 +1377,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫): tenir, porter ; prendre, emporter, voler
 
 ::: indent
-**Fut. :** ⟪हरिष्यति⟫:br**Pass. :** ⟪ह्रियते⟫:br**PPP :** ⟪हृत⟫:br**Inf. :** ⟪हर्तुम्⟫
+**Fut. :** ⟪हरिष्यति⟫
+**Pass. :** ⟪ह्रियते⟫
+**PPP :** ⟪हृत⟫
+**Inf. :** ⟪हर्तुम्⟫
 :::
 dont :
 
@@ -1794,12 +1802,12 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫:br
-⟪श्रम्यते⟫:br
-⟪श्रमयति⟫:br
-⟪श्रान्त⟫:br
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
--⟪श्रम्य⟫:br
+⟪श्रमिष्यते⟫
+⟪श्रम्यते⟫
+⟪श्रमयति⟫
+⟪श्रान्त⟫
+⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
+-⟪श्रम्य⟫
 ⟪श्रमितुम्⟫
 :::
 **⟪पार्श्व⟫**
@@ -1822,20 +1830,20 @@ Manguiers, Kanpur.
 
 **⟪रुह्⟫ ⟪रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫:br
-⟪रुह्यते⟫:br
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-:sig[⟪रूढ⟫]:br
--⟪रुह्य⟫:br
+⟪रोक्ष्यति⟫
+⟪रुह्यते⟫
+⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
+:sig[⟪रूढ⟫]
+-⟪रुह्य⟫
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!):br
-⟪गृह्यते⟫:br
-⟪ग्राहयति⟫:br
-⟪गृहीत⟫:br
--⟪गृह्य⟫:br
+⟪ग्रहीष्यति⟫ (!)
+⟪गृह्यते⟫
+⟪ग्राहयति⟫
+⟪गृहीत⟫
+-⟪गृह्य⟫
 ⟪ग्रहीतुम्⟫ (!)
 :::
 **⟪वानर⟫ ⟪कपि⟫**
@@ -1848,10 +1856,10 @@ Singes (macaques rhésus) à Delhi.
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫:br
-⟪लोक्यते⟫:br
-⟪लोकित⟫:br
--⟪लोक्य⟫:br
+⟪लोकयिष्यति⟫
+⟪लोक्यते⟫
+⟪लोकित⟫
+-⟪लोक्य⟫
 ⟪लोकितुम्⟫
 :::
 **⟪प्रहर्ष⟫**
@@ -1876,20 +1884,20 @@ Exercice de tir / cible à flèches, Karnataka.
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫:br
-⟪क्षिप्यते⟫:br
-⟪क्षेपयति⟫:br
-⟪क्षिप्त⟫:br
--⟪क्षिप्य⟫:br
+⟪क्षेप्स्यति⟫
+⟪क्षिप्यते⟫
+⟪क्षेपयति⟫
+⟪क्षिप्त⟫
+-⟪क्षिप्य⟫
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫:br
-⟪चीयते⟫:br
-⟪चाययति⟫:br
-⟪चित⟫:br
--⟪चित्य⟫:br
+⟪चेष्यति⟫
+⟪चीयते⟫
+⟪चाययति⟫
+⟪चित⟫
+-⟪चित्य⟫
 ⟪चेतुम्⟫
 :::: media
 ![](/images/lekt3207.webp)
@@ -2146,21 +2154,21 @@ Statue du taureau Nandi, collines de Chamundi, Mysore.
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : périr, se perdre, disparaître
 ::: indent
-**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**:br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
-**Kaus. ⟪नाशयति⟫**:br
+**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : disparaître, se perdre, périr
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : avancer, aller
 ::: indent
-**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
-**Fut. ⟪क्रमिष्यति⟫**:br
-**Pass. ⟪क्रम्यते⟫**:br
-**Kaus. ⟪क्रमयति⟫**:br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
-**Inf. ⟪क्रमितुम्⟫**:br
+**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Kaus. ⟪क्रमयति⟫**
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::: media
 ![](/images/lekt3502.webp)
@@ -2171,11 +2179,11 @@ Personnes marchant, Sénégal.
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti) : chanter, réciter sur un ton chantant, annoncer en vers
 ::: indent
-**IV Perf. ⟪जगौ⟫, ⟪जगुर्⟫**:br
-**Fut. ⟪गास्यति⟫**:br
-**Pass. ⟪गीयते⟫**:br
-**Kaus. ⟪गापयति⟫**:br
-**PPP ⟪गीत⟫**:br
+**IV Perf. ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Kaus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Inf. ⟪गातुम्⟫**
 
 dont :

@@ -81,11 +81,11 @@ anena kavinā mantraḥ smaryate.
 
 8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
 
-anayā devyā kṣatriyā rakṣyante.
+anayā devyā kṣatriyā rakṣyante. <!-- TODO: Fallback translation -->
 
 ⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 posibilități)
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 posibilități) <!-- TODO: Fallback translation -->
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
@@ -119,7 +119,7 @@ sādhunā svarga āpyate.
 
 ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫
 
-Un sfânt obține cerul.
+Un sfânt obține cerul. <!-- TODO: Fallback translation -->
 
 14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
 
@@ -135,7 +135,7 @@ paśavo labhyante.
 
 ⟪पशवो⟫ ⟪लभ्यन्ते⟫ ⟪।⟫
 
-Se obțin animale de companie.
+Se obțin animale de companie. <!-- TODO: Fallback translation -->
 
 16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
 
@@ -165,13 +165,13 @@ vedaḥ śrutir (ity) udyate.
 
 ⟪वेदः⟫ ⟪श्रुतिरित्युद्यते⟫ ⟪।⟫
 
-4\. Se întinde urzeala. (2 posibilități)
+4\. Se întinde urzeala. (2 posibilități) <!-- TODO: Fallback translation -->
 
 tantraṃ tanyate / tāyate / tanvanti.
 
 ⟪तन्त्रं⟫ ⟪तन्यते⟫ / ⟪तायते⟫ / ⟪तन्वन्ति⟫ ⟪।⟫
 
-5\. Învățătorii pun întrebări. (Construcție pasivă)
+5\. Învățătorii pun întrebări. (Construcție pasivă) <!-- TODO: Fallback translation -->
 
 gurubhiḥ pṛcchyate.
 
@@ -212,7 +212,7 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 Fig.: ⟪ग्रामः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung011))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Exercițiu de citire
 
@@ -322,4 +322,4 @@ Caruțarul conduce carul.
 ![](/images/uebung012.webp)
 Fig.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung012))
-:::
+::: <!-- TODO: Fallback translation -->

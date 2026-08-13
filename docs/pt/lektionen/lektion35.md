@@ -84,7 +84,7 @@ Exemplo:
 
 | Raiz | 3ª sg. Perf. P.:br1ª sg. Perf. P. | 3ª pl. Perf. P. | 3ª sg. Perf. Ā. | 3ª pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
+| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re | <!-- TODO: Fallback translation -->
 
 ## 35.3. Perfeito Tipo V: Raízes Consoante-a-Consoante
 
@@ -142,7 +142,7 @@ Exemplo:
 
 | Raiz | 3ª sg. Perf. P. | 3ª pl. Perf. P. | 3ª sg. Perf. Ā. | 3ª pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ | <!-- TODO: Fallback translation -->
 
 ### 35.3.3. Perfeito Tipo Vc: Raízes Consoante-a-Consoante. Tema Fraco Grau Pleno
 
@@ -163,27 +163,27 @@ Exemplo:
 
 | Raiz | 3ª sg. Perf. P. | 3ª pl. Perf. P. | 3ª sg. Perf. Ā. | 3ª pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
+| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ | <!-- TODO: Fallback translation -->
 
 ## 35.4. Lista de vocabulário
 
 ⟪नश्⟫ 4P ⟪नश्यति⟫ : perder-se, perecer, desaparecer
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
-**Caus. ⟪नाशयति⟫** :br
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Caus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : desaparecer, perder-se, perecer
 
 ⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : marchar, ir
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
-**Fut. ⟪क्रमिष्यति⟫** :br
-**Pass. ⟪क्रम्यते⟫** :br
-**Caus. ⟪क्रमयति⟫** :br
-**PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
-**Inf. ⟪क्रमितुम्⟫** :br
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Caus. ⟪क्रमयति⟫**
+**PPP :sig[⟪क्रा⟫]⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
@@ -194,11 +194,11 @@ Pessoas a caminhar, Senegal.
 :::
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): cantar, recitar em tom cantante, proclamar em discurso metrificado
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
-**Fut. ⟪गास्यति⟫** :br
-**Pass. ⟪गीयते⟫** :br
-**Caus. ⟪गापयति⟫** :br
-**PPP ⟪गीत⟫** :br
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Caus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Inf. ⟪गातुम्⟫**
 
 dele:
@@ -284,7 +284,7 @@ C) Transforme as frases do exercício B) substituindo os perfeitos pelos imperfe
 
 **lekt3501:** Músicos do Templo Kaadu Malleswara em Bangalore. [Fonte da imagem: Samuelraj / Flickr. CC BY-NC]
 
-**lekt3502:** Pessoas a caminhar, Senegal. [Fonte da imagem: Curt Carnemark / World Bank. CC BY-NC-ND]
+**lekt3502:** Pessoas a caminhar, Senegal. [Fonte da imagem: Curt Carnemark / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
 
 **lekt3503:** Mercado em Vadaseri, Tamil Nadu. [Fonte da imagem: kifo / Flickr. CC BY-SA]
 

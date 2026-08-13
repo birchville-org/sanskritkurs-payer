@@ -35,7 +35,9 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 ⟪त्वरित⟫ "מְמַהֵר, בִּזְרוֹז" (PPP ל־tvar 1 Ā "לִהְרוֹץ"; דְּהָטוּפָּטְ'ה: ñitvárā)
 ::: indent
-    ⟪इष्टं⟫ ⟪फलम्⟫ "הפרי המבוקש (למשל, פרי המעשים)"
+::: indent
+⟪इष्टं⟫ ⟪फलम्⟫ "הפרי המבוקש (למשל, פרי המעשים)"
+:::
 :::
 
 אם במקרה זה ⟪अपि⟫ בא אחרי ה-PPP, ל-⟪अपि⟫ יש המשמעות "למרות ש":
@@ -44,7 +46,9 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "למרות שהוא מבקש את הפרי, אינו זוכה בו."
 :::
 
-    ⟪गत⟫ נ': "הליכה, צעד"
+::: indent
+⟪गत⟫ נ': "הליכה, צעד"
+:::
 ::: indent
 ⟪नृत्त⟫ n.: "הריקוד, המחול"
 :::
@@ -68,7 +72,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 באמצעות הסופיקים של טאדהיטה -mant ו- -vant נוצרים תארים המציינים בעלות משמות עצם. משמעותם היא: "מחזיק בזה המצוין על ידי השם העצם הבסיסי".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 דוגמאות:
 
@@ -191,7 +195,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : שנא, התנצח
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : אכל, בלע
-- **anna** n. ⟪अन्न⟫ : אוכל (מ-PPP: *ad-na: הנאכל)
+- **anna** n. ⟪अन्न⟫ : אוכל (מ-PPP: *ad-na: הנאכל) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1304.webp)

@@ -105,7 +105,7 @@ Fig.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪ह�
 ::: grammar-box
 **Le radici che terminano con una consonante semplice (tranne nasale, semivocale, -s) non hanno ablazione della radice. La declinazione avviene completamente regolarmente mediante l'aggiunta delle desinenze casuali regolari.**
 
-**Unica irregolarità: nel Nominativooo, Accusativo, Vocativo plurale neutro viene inserito un nasale prima della desinenza della radice.**
+**Unica irregolarità: nel Nominativoooooo, Accusativo, Vocativo plurale neutro viene inserito un nasale prima della desinenza della radice.**
 :::
 ### 51.2.1. Radici con consonante occlusiva non palatale
 
@@ -131,7 +131,7 @@ Singolare:
 Nom.Voc. ⟪शत्रुजित्⟫ (śatrujit + s)
 Acc. ⟪शत्रुजितम्⟫
 :::
-Pluraleee:
+Pluraleeeeee:
 
 ::: indent
 Nom.Acc.Voc. ⟪शत्रुजितस्⟫
@@ -142,7 +142,7 @@ Neutro
 
 ::: indent
 Singolare Nom.Acc.Voc. ⟪शत्रुजित्⟫
-Pluraleee Nom.Acc.Voc. :sig[⟪शत्रुजिन्ति⟫]
+Pluraleeeeee Nom.Acc.Voc. :sig[⟪शत्रुजिन्ति⟫]
 :::
 ⟪सुयुध्⟫ 3 "combattendo bene"
 
@@ -189,7 +189,7 @@ Nom.Voc. ⟪सत्यवाक्⟫
 Acc. ⟪सत्यवाचम्⟫
 Istr. ⟪सत्यवाचा⟫
 :::
-Pluraleee:
+Pluraleeeeee:
 
 ::: indent
 Istr. ⟪सत्यवाग्भिस्⟫
@@ -199,7 +199,7 @@ Neutro
 
 ::: indent
 Singolare Nom.Acc.Voc. ⟪सत्यवाक्⟫
-Pluraleee Nom.Acc.Voc. ⟪सत्यवाञ्चि⟫
+Pluraleeeeee Nom.Acc.Voc. ⟪सत्यवाञ्चि⟫
 :::
 ⟪शेषभुज्⟫ 3 "mangiando i resti del cibo"
 
@@ -215,7 +215,7 @@ Singolare:
 Nom.Voc. ⟪शेषभुक्⟫
 Acc. ⟪शेषभुजम्⟫
 :::
-Pluraleee:
+Pluraleeeeee:
 
 ::: indent
 Istr. ⟪शेषभुग्भिस्⟫
@@ -225,7 +225,7 @@ Neutro
 
 ::: indent
 Singolare Nom.Acc.Voc. ⟪शेषभुक्⟫
-Pluraleee Nom.Acc.Voc. ⟪शेषभुञ्जि⟫
+Pluraleeeeee Nom.Acc.Voc. ⟪शेषभुञ्जि⟫
 :::
 ⟪परिव्राज्⟫ m. "monaco errante"
 
@@ -241,7 +241,7 @@ Singolare:
 Nom.Voc. ⟪परिव्राट्⟫
 Acc. ⟪परिव्राजम्⟫
 :::
-Pluraleee:
+Pluraleeeeee:
 
 ::: indent
 Istr. ⟪परिव्राड्भिस्⟫
@@ -283,7 +283,7 @@ Singolare:
 Nom.Voc. ⟪घुट्⟫ (Legge di dissimilazione aspirata di Grassmann: ⟪गुढ्⟫ + s)
 Acc. ⟪गुहम्⟫
 :::
-Pluraleee:
+Pluraleeeeee:
 
 ::: indent
 Istr. ⟪घुड्भिस्⟫
@@ -301,7 +301,7 @@ Singolare:
 Nom.Voc. ⟪ध्रुट्⟫ ⟪।⟫ ⟪ध्रुक्⟫
 Acc. ⟪द्रुहम्⟫
 :::
-Pluraleee:
+Pluraleeeeee:
 
 ::: indent
 Istr. ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
@@ -583,7 +583,7 @@ Assol. ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 ⟪वानप्रस्थस्य⟫ ⟪ब्रह्मचर्यं⟫ ⟪भूमौ⟫ ⟪शय्या⟫ ⟪जाटाजिनधारणमग्निहोत्राभिषे⟫:sig[⟪कौ⟫] ⟪देवतापित्रतिथिपूजा⟫ ⟪वन्यश्चाहारः⟫ ⟪।११।⟫  
 ⟪प्रव्राजकस्य⟫ ⟪जितेन्द्रियत्वमनारम्भो⟫ ⟪निष्किंचनत्वं⟫ ⟪सङ्गत्यागो⟫ ⟪भैक्षाव्रतमनेकत्रारण्ये⟫ ⟪च⟫ ⟪वासो⟫ ⟪बाह्याभ्यन्तरं⟫ ⟪च⟫ ⟪शौचम्⟫ ⟪॥१२॥⟫
 
-Spiegazione: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dualee.mask. (Dualeedvandva)
+Spiegazione: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dualeeeee.mask. (Dualeeeeedvandva)
 
 ⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ Sulla necessità di prestare attenzione al ⟪वर्नाश्रमधर्म⟫
 

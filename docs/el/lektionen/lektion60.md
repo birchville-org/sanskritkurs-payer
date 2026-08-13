@@ -9,7 +9,7 @@ status: stable
 
 # Μάθημα 60
 
-## 60.1. Οι καταλήξεις του Παρακειμένου des Dual (⟪द्विवचनम्⟫)
+## 60.1. Οι καταλήξεις του Παρακειμένου του Δυϊκού αριθμού (⟪द्विवचनम्⟫)
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
@@ -176,7 +176,7 @@ status: stable
 | ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "jemand, der gewesen ist" ; "jemand, der geworfen hat" |
 | ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "jemand, der gegeben hat" |
 | ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "jemand, der gegart hat" |
-| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" |
+| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Κλίση:**
@@ -243,7 +243,7 @@ status: stable
 ![](/images/lekt6004.webp)
 (Πηγή εικόνας: [Details](/el/licenses#lekt6004))
 :::
-Ανήκουν εδώ:
+Ανήκουν εδώ: <!-- TODO: Fallback translation -->
 
 *   ⟪प्रत्यञ्च्⟫ 3 "πίσω, δυτικά"
 
@@ -299,7 +299,7 @@ status: stable
 | --- | --- |
 | ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "er ist im Begriffe, zu fallen" |
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" |
-| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
+| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" | <!-- TODO: Fallback translation -->
 
 ### 60.6.1. Σχηματισμός του επιθυμητικού θέματος
 

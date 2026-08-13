@@ -147,7 +147,7 @@ Abb.: ⟪कामदेवः⟫
 19. Jhdt
 (Bildquelle: [Details](/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** ser capaz, poder
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** ser capaz, poder <!-- TODO: Fallback translation -->
 
 deles:
 
@@ -257,7 +257,7 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt2204))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

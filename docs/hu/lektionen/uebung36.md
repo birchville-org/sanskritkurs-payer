@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 36
 
-A) Alakítsa ki a következő alakokhoz mind a reduplikált, mind a perifrástikus perfektfomákat:
+A) Alakítsa ki a következő alakokhoz mind a reduplikált, mind a perifrástikus perfektfomákat: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Jelen idő | Reduplikált | Perifrástikus |
@@ -28,7 +28,7 @@ B) Alakítsa ki a perifrástikus perfektot az ⟪आस्⟫ (ülni) gyöktől:
 | ⟪१⟫. ⟪आस्ते⟫ | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. ⟪आसते⟫ | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 :::
-C) Alakítsa ki a megfelelő perfektot a következő alakokhoz:
+C) Alakítsa ki a megfelelő perfektot a következő alakokhoz: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Jelen idő / Aorist | Perfekta |
@@ -52,16 +52,16 @@ C) Alakítsa ki a megfelelő perfektot a következő alakokhoz:
 ## Fordítások
 
 ⟪१⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫**
-Amikor fia született, az Ébredt otthagyta a családot és a vagyont, és elhagyva a házaséletet, a házasságtalan életre váltott. Eszével felismerte az Nemes Igazságokat, a szenvedés tudatán keresztül megszabadult, és az nemes embereket, akik a szabadulást kívánták, eljuttatta az belátáshoz — így mesélik a szerzetesek.
+Amikor fia született, az Ébredt otthagyta a családot és a vagyont, és elhagyva a házaséletet, a házasságtalan életre váltott. Eszével felismerte az Nemes Igazságokat, a szenvedés tudatán keresztül megszabadult, és az nemes embereket, akik a szabadulást kívánták, eljuttatta az belátáshoz — így mesélik a szerzetesek. <!-- TODO: Fallback translation -->
 
 ⟪२⟫. **⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञ⟫en ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫**
-A bráhmanák felépítettek egy tüzet a nagy isteni áldozathoz. Míg a bráhmanák dicsérték Indrát és a többi istent, az áldozati tűz elfogyasztotta az ételt. Így a bráhmanák az áldozaton keresztül azt érték el, hogy a nagy istenek ettek, és dicséretes himnuszokat hallgattak.
+A bráhmanák felépítettek egy tüzet a nagy isteni áldozathoz. Míg a bráhmanák dicsérték Indrát és a többi istent, az áldozati tűz elfogyasztotta az ételt. Így a bráhmanák az áldozaton keresztül azt érték el, hogy a nagy istenek ettek, és dicséretes himnuszokat hallgattak. <!-- TODO: Fallback translation -->
 
 ⟪३⟫. **⟪रक्षितधर्मक्षत्रिययोधा⟫ ⟪महानगरं⟫ ⟪जेतुकामाञ्छत्रून्विजिग्युर्न⟫ ⟪तु⟫ ⟪जघ्नुः⟫ ⟪॥३॥⟫**
-A kṣatriya harcosok, akik őrizték a jogot, legyőzték az ellenségeket, akik meghódítani akarták a nagy várost, de nem ölték meg őket.
+A kṣatriya harcosok, akik őrizték a jogot, legyőzték az ellenségeket, akik meghódítani akarták a nagy várost, de nem ölték meg őket. <!-- TODO: Fallback translation -->
 
 ⟪४⟫. **⟪अधीतवेदद्विजो⟫ ⟪द्विजधर्मं⟫ ⟪वेद⟫ ⟪॥४॥⟫**
-Egy kétszer született, aki tanulmányozta a Védát, ismeri a jogot és a szokást a kétszer születetteknek.
+Egy kétszer született, aki tanulmányozta a Védát, ismeri a jogot és a szokást a kétszer születetteknek. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. **⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫**
 Csak a tudományból nem lehet megélni. Aki ezt tudja, az ne tanuljon.
@@ -69,7 +69,7 @@ Csak a tudományból nem lehet megélni. Aki ezt tudja, az ne tanuljon.
 ::: media
 ![](/images/uebung061.webp)
 Ábr.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
-(Képmegjelölés: [Részletek](/licenses#uebung061))
+(Képmegjelölés: [Részletek](/licenses#uebung061)) <!-- TODO: Fallback translation -->
 
 :::
 ---
@@ -87,7 +87,7 @@ Amivel az atját megörvendezteti, azzal a Teremtő örül; amivel az anyját me
 ### ⟪२⟫. **⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫** (Az idősekkel való bánásmód)
 **⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫**  
 **⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫**  
-Az időseket formásan üdvözöld, add át nekik a helyedet, és állj előttük összezárva a kezedet. Ha egy idős eltávozik, kövesd őt.
+Az időseket formásan üdvözöld, add át nekik a helyedet, és állj előttük összezárva a kezedet. Ha egy idős eltávozik, kövesd őt. <!-- TODO: Fallback translation -->
 
 ### ⟪३⟫. **⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫** (Az érzékek megfékezése)
 **⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫**  
@@ -99,7 +99,7 @@ Ha egy férfi sem örül, sem szomorú, amikor hall, érint, lát, kóstol vagy 
 Kép: ⟪भुक्त्वा⟩ ⟪घ्रात्वा⟩ ⟪च⟩ ⟪न⟩ ⟪हृष्यति⟩ ⟪ग्लायति⟩ ⟪वा⟩
 (Képmegjelölés: [Részletek](/licenses#uebung060))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Szóalakmeghatározás
 
@@ -126,7 +126,7 @@ Határozza meg és fordítsa le a következő szóalakokat:
 | ⟪१६⟩. ⟪ददे⟩ | ⟪दा⟩ (3U) 3. sg. Ā. Perf. | ő adott magának |
 | ⟪१७⟩. ⟪दत्ते⟩ | ⟪दा⟩ (3U) 3. sg. Ā. Ind. Präs. | ő ad magának |
 | ⟪१८⟩. ⟪हिते⟩ | ⟪धा⟩ (3U) PPP Lok. sg. m./n. | a Rendetlenben |
-| ⟪१९⟩. ⟪हीयते⟩ | ⟪हा⟩ (3P) 3. sg. Pass. Ind. Präs. | őt elhagyják
+| ⟪१९⟩. ⟪हीयते⟩ | ⟪हा⟩ (3P) 3. sg. Pass. Ind. Präs. | őt elhagyják <!-- TODO: Fallback translation -->
 
 | ⟪२०⟫. ⟪जज्ञे⟫ | ⟪ज्ञा⟫ / ⟪जन्⟫ 3. sg. Ā. Perf. | ő felismerte / született |
 | ⟪२१⟫. ⟪यज्ञे⟫ | ⟪यज्ञ⟫ (m.) Lok. sg. | az áldozatban |
@@ -150,5 +150,5 @@ Határozza meg és fordítsa le a következő szóalakokat:
 ![](/images/uebung059.webp)
 Kép: ⟪जगौ⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung059))
-:::
+::: <!-- TODO: Fallback translation -->
 

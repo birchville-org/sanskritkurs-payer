@@ -49,4 +49,4 @@ Los maestros deben instruir a los estudiantes; de los estudiantes se debe estudi
 ![](/images/uebung067.jpg)
 Fig.: ⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung067))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

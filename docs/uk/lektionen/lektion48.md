@@ -163,9 +163,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
 
 Прим.: ¹ Дисиміляція, тому щоб дві складки з **⟪ह्⟫** не йшли підряд.
 :::
@@ -265,7 +265,7 @@ status: stable
 Рис.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Джерело зображення: [Деталі](/uk/licenses#lekt4802))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt4803.webp)
@@ -415,13 +415,13 @@ B) Перекладіть санскритом (використовуючи н�
 
 **lekt4804:** [Група самопомочі (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Джерело зображення: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Згадка авторства, некомерційне використання)]
 
-**lekt4805:** Свято Thaipusam = தைப்பூசம், Batu Caves, Малайзія [Джерело зображення: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Згадка авторства)]
+**lekt4805:** Свято Thaipusam = தைப்பூசம், Batu Caves, Малайзія [Джерело зображення: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Згадка авторства)] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt4806:** ⟪नेपाल⟫ [Джерело зображення: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Згадка авторства, некомерційне використання, без обробки)]
 
 **lekt4807:** ⟪जोधपुर⟫ [Джерело зображення: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Згадка авторства, некомерційне використання, без обробки)]
 
-**lekt4808:** Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Джерело зображення: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Згадка авторства, подібне розповсюдження)]
+**lekt4808:** Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Джерело зображення: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Згадка авторства, подібне розповсюдження)] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt4809:** (Зображення: Пайер)
 :::

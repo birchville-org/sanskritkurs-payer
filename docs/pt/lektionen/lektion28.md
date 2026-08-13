@@ -214,7 +214,7 @@ Exemplos:
 | Raiz | Causativo 3ª p. sg. Indicativo Presente | Significado |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | fazer ficar de pé, erguer |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | fazer estudar, ensinar |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | fazer estudar, ensinar | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Formações irregulares:**
@@ -347,7 +347,7 @@ Inf. **kāmayitum** / **kamitum**
 Fig.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 Pintura de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
 (Fonte da imagem: [Detalhes](/licenses#lekt2804))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪चुर्⟫ 10 ⟪चोरयति⟫: roubar

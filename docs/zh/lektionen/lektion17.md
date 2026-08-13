@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 17
+# 第17課
 
 ## 17.1. 第二现在时类 (⟪अदादि⟫ = ⟪अद्⟫ 等)
 

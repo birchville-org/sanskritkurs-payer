@@ -36,13 +36,13 @@ Ejemplos:
 ::: indent
 ⟪एहि⟫ ⟪।⟫ «¡Ven!»
 
-⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ o bien Optativooo: ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ «¡Vaya usted a la aldea!»
+⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ o bien Optativoooooo: ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ «¡Vaya usted a la aldea!»
 
-⟪वेदमध्ययै⟫ ⟪।⟫ o bien Optativooo: ⟪वेदमधीयीय⟫ ⟪।⟫ «Quisiera estudiar el Veda.»
+⟪वेदमध्ययै⟫ ⟪।⟫ o bien Optativoooooo: ⟪वेदमधीयीय⟫ ⟪।⟫ «Quisiera estudiar el Veda.»
 
-⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ o bien Optativooo: ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ «Deseo que ellos coman.»
+⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ o bien Optativoooooo: ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ «Deseo que ellos coman.»
 
-⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ o bien Optativooo: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ «¿Debería estudiar el Veda?»
+⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ o bien Optativoooooo: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ «¿Debería estudiar el Veda?»
 
 ⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ o bien Gerundivo: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ «¡Haga usted un cuchillo!»; «Usted puede hacer un cuchillo»; «Es el momento de que usted haga un cuchillo».
 
@@ -65,7 +65,7 @@ El imperativo se forma a partir de la raíz del presente.
 :::
 ## 47.2. Formación del imperativo (⟪लोट्⟫) de las raíces temáticas del presente
 
-### 47.2.1. Desinencias del Imperativooo en raíces temáticas de presente
+### 47.2.1. Desinencias del Imperativoooooo en raíces temáticas de presente
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -88,9 +88,9 @@ Nota: ¹ Las desinencias de la 2. y 3. persona singular pueden sustituirse por *
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \<⟪भवै⟫\> | \<⟪भवामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \&lt;⟪भवै⟫\&gt; | \&lt;⟪भवामहै⟫\&gt; |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \&lt;⟪भवस्व⟫\&gt; | \&lt;⟪भवध्वम्⟫\&gt; |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \&lt;⟪भ्वताम्⟫\&gt; | \&lt;⟪भवन्ताम्⟫\&gt; |
 :::
 ### 47.2.3. Sexta clase de presente (⟪तुदादि⟫)
 
@@ -98,9 +98,9 @@ Nota: ¹ Las desinencias de la 2. y 3. persona singular pueden sustituirse por *
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \<⟪विशै⟫\>:br(viś-a + ai) | \<⟪विशामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \<⟪विशस्व⟫\> | \<⟪विशध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \<⟪विशताम्⟫\> | \<⟪विशन्ताम्⟫\> |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \&lt;⟪विशै⟫\&gt;:br(viś-a + ai) | \&lt;⟪विशामहै⟫\&gt; |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \&lt;⟪विशस्व⟫\&gt; | \&lt;⟪विशध्वम्⟫\&gt; |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \&lt;⟪विशताम्⟫\&gt; | \&lt;⟪विशन्ताम्⟫\&gt; |
 :::
 ::: media
 ![](/images/lekt4702.webp)
@@ -114,9 +114,9 @@ Templo de Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫,
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \<⟪नृत्यै⟫\> | \<⟪नृत्यामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \<⟪नृत्यस्व⟫\> | \<⟪नृत्यध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \<⟪नृत्यताम्⟫\> | \<⟪नृत्यन्ताम्⟫\> |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \&lt;⟪नृत्यै⟫\&gt; | \&lt;⟪नृत्यामहै⟫\&gt; |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \&lt;⟪नृत्यस्व⟫\&gt; | \&lt;⟪नृत्यध्वम्⟫\&gt; |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \&lt;⟪नृत्यताम्⟫\&gt; | \&lt;⟪नृत्यन्ताम्⟫\&gt; |
 :::
 ::: media
 ![](/images/lekt4701.webp)

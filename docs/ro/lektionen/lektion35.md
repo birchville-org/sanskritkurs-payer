@@ -169,21 +169,21 @@ Exemplu:
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : a se pierde, a fi distrus, a dispărea
 ::: indent
-**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**:br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
-**Kaus. ⟪नाशयति⟫**:br
+**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : a dispărea, a se pierde, a fi distrus
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : a merge, a merge înainte
 ::: indent
-**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
-**Fut. ⟪क्रमिष्यति⟫**:br
-**Pass. ⟪क्रम्यते⟫**:br
-**Kaus. ⟪क्रमयति⟫**:br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
-**Inf. ⟪क्रमितुम्⟫**:br
+**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Kaus. ⟪क्रमयति⟫**
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
@@ -194,12 +194,12 @@ Oameni mergând, Senegal.
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): a cânta, a recita în ton cântător, a anunța în vorbire poetică
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
-**Fut. ⟪गास्यति⟫**:br
-**Pass. ⟪गीयते⟫**:br
-**Kaus. ⟪गापयति⟫**:br
-**PPP ⟪गीत⟫**:br
-**Inf. ⟪गातुम्⟫**
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Kaus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
+**Inf. ⟪गातुम्⟫** <!-- TODO: Fallback translation -->
 
 din care:
 **⟪गीता⟫ f.:** cânt, imn
@@ -284,9 +284,9 @@ C) Transformați propozițiile din exercițiul B) înlocuind perfectele cu imper
 
 **lekt3501:** Muzicieni de templu, Templul Kaadu Malleswara, Bangalore. [Sursa imaginii: Samuelraj / Flickr. CC BY-NC]
 
-**lekt3502:** Oameni mergând, Senegal. [Sursa imaginii: Curt Carnemark / World Bank. CC BY-NC-ND]
+**lekt3502:** Oameni mergând, Senegal. [Sursa imaginii: Curt Carnemark / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
 
-**lekt3503:** Piață în Vadaseri, Tamil Nadu. [Sursa imaginii: kifo / Flickr. CC BY-SA]
+**lekt3503:** Piață în Vadaseri, Tamil Nadu. [Sursa imaginii: kifo / Flickr. CC BY-SA] <!-- TODO: Fallback translation -->
 
 **lekt3504:** Ceremonie Yajña, ashram Shiva, Ganeshpuri. [Sursa imaginii: Dey / Flickr. CC BY-NC-SA]
 :::

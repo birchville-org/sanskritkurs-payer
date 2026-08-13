@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 29
+# 第29課
 
 ## 29.1. 使役动词中 Parasmaipada (⟪परस्मैपद⟫) 和 Ātmanepada (⟪आत्मनेपद⟫) 的用法
 

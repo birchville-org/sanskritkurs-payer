@@ -12,12 +12,12 @@ last_reconstructed: 2026-05-15
 
 ## A) iṣ-aorist-transzformációk
 
-Határozza meg és fordítsa le a következő alakokat, valamint alkossa meg a megfelelő **iṣ-aorist** formákat:
+Határozza meg és fordítsa le a következő alakokat, valamint alkossa meg a megfelelő **iṣ-aorist** formákat: <!-- TODO: Fallback translation -->
 
 1. ⟪औहे⟫ - ⟪ऊह्⟫ 1Á 1.kg.Impf.É én toltam - ⟪औहिषि⟫
 2. ⟪जाग्रति⟫ - ⟪जागृ⟫ 2P 3.tn.Ind.JelenÉ ők ébren vannak - ⟪अजागरिषुः⟫
 3. ⟪जीर्यन्ति⟫ - ⟪जॄ⟫ 4P 3.tn.Ind.JelenÉ ők öregednek - ⟪अजारिषुः⟫
-4. ⟪आनर्च⟫ - ⟪अर्च्⟫ 1P imád 1.3.kg.2.tn.TeljesítésÉ - ⟪आर्चिषम्⟫ ⟪।⟫ ⟪आर्चीत्⟫ ⟪।⟫ ⟪आर्चिष्ट⟫
+4. ⟪आनर्च⟫ - ⟪अर्च्⟫ 1P imád 1.3.kg.2.tn.TeljesítésÉ - ⟪आर्चिषम्⟫ ⟪।⟫ ⟪आर्चीत्⟫ ⟪।⟫ ⟪आर्चिष्ट⟫ <!-- TODO: Fallback translation -->
 
 5. ⟪खादामः⟫ - ⟪खाद्⟫ 1P 1.tn.Ind.JelenÉ mi rágunk - ⟪अखादिष्म⟫
 6. ⟪नेद⟫ - ⟪नद्⟫ 1P 2.tn.TeljesítésÉ ti szóltatok - ⟪अनादिष्ट⟫ ⟪।⟫ ⟪अनदिष्ट⟫
@@ -33,7 +33,7 @@ Határozza meg és fordítsa le a következő alakokat, valamint alkossa meg a m
 16. ⟪कल्पे⟫ - ⟪कॢप्⟫ 1.kg.Ind.JelenÉÉ én figyelek -⟪अकल्पिषि⟫
 17. ⟪आनीत्⟫ - ⟪अन्⟫ 2P 3.kg.Impf.É ő lélegzett - ⟪आनीत्⟫
 18. ⟪ऐक्षध्वम्⟫ - ⟪ईक्ष्⟫ 1Á 2.tn.Impf.É ti láttatok - ⟪ऐक्षिध्वम्⟫
-19. ⟪अचेतः⟫ - ⟪चित्⟫ 1P 2.kg.Impf.É te észleltél - ⟪अचेतीः⟫
+19. ⟪अचेतः⟫ - ⟪चित्⟫ 1P 2.kg.Impf.É te észleltél - ⟪अचेतीः⟫ <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung095.webp)
@@ -44,7 +44,7 @@ Határozza meg és fordítsa le a következő alakokat, valamint alkossa meg a m
 
 ## B) Szóelemzési gyakorlatok
 
-Határozza meg és fordítsa le a következő alakokat:
+Határozza meg és fordítsa le a következő alakokat: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung097.webp)
@@ -90,7 +90,7 @@ Pune - ⟪पुणे⟫
 36. ⟪इमे⟫ - ⟪इदम्⟫ 3 Név.tn.m.Név.Akk.kg.f.n. ez / ezek a kettő
 37. ⟪इतः⟫ - ⟪इ⟫ 2P 3.kg.Ind.JelenÉÉ ti ketten mentek ; ⟪इतस्⟫ Hatószó. innen
 38. ⟪दद⟫ - ⟪दा⟫ 3U 2.tn.TeljesítésÉ adtál
-39. ⟪अञ्ज्वः⟫ - ⟪अञ्ज्⟫ 7P 1.kg.Ind.JelenÉÉ mi ketten kenünk
+39. ⟪अञ्ज्वः⟫ - ⟪अञ्ज्⟫ 7P 1.kg.Ind.JelenÉÉ mi ketten kenünk <!-- TODO: Fallback translation -->
 
 
 ![](/images/uebung096.webp)

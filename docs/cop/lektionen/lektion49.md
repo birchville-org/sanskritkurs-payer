@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 49
+# ⲙⲁⲑⲏⲙⲁ 49
 
 ## 49.1. ⲧⲉⲕⲧⲓⲥⲓⲥ ⲛⲧⲉ ⲡⲓⲓⲙⲡⲉⲣⲁⲧⲓⲃ (⟪लोट्⟫) ⲛⲁⲑⲉⲙⲁⲧⲓⲕⲟⲥ ⲛⲡⲣⲁⲉⲥⲉⲛⲥⲧⲁⲙ (Fortsetzung)
 

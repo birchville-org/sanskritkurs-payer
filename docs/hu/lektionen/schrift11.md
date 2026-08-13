@@ -20,7 +20,7 @@ B) Olvassa el és transzliterálja:
 
 ⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
 
-### A szanszkrit hangok osztályozása (forrás: Kielhorn: Grammatik der Sanskritsprache)
+### A szanszkrit hangok osztályozása (forrás: Kielhorn: Grammatik der Sanskritsprache) <!-- TODO: Fallback translation -->
 
 ![](/images/schrift028.webp)
 

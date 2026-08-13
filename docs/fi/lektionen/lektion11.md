@@ -5,9 +5,9 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 11
+# Oppitunti 11 <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 **Tässä lektiossa opit:**
@@ -16,7 +16,7 @@ status: stable
 - Peruskäsitteet kuten **dharma**, **adharma** ja **putra**
 - Nomien muodostuksen juurista **vad**, **prach** ja **iṣ**
 :::
-## 11.1. Kaksoisakkusatiivi
+## 11.1. Kaksoisakkusatiivi <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Jotkut verbit voivat hallita kaksoisakkusatiivia (dvitīyā): henkilön akkusatiivi ja asian akkusatiivi.**
@@ -27,7 +27,7 @@ status: stable
 - **Opettamisen verbit**: opettaa jollekulle (akkusatiivi) jotakin (akkusatiivi)
 - joitain muita verbejä, joista sanastossa mainitaan
 
-**Kun tällainen rakenne muutetaan passiiviin, henkilö (jota kysytään jne.) siirretään nominatiiviin (prathamā), ja asia (josta kysytään jne.) pysyy akkusatiivissa.**
+**Kun tällainen rakenne muutetaan passiiviin, henkilö (jota kysytään jne.) siirretään nominatiiviin (prathamā), ja asia (josta kysytään jne.) pysyy akkusatiivissa.** <!-- TODO: Fallback translation -->
 
 esim. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma kysyy brahmanilta dharmaa."
 » Passiivi: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
@@ -40,14 +40,14 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 
 ## 11.2. Sanasto
 
-**Lernen Sie folgende Wörter:**
+**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
 
 - **iti** ⟪इति⟫ : so
   - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
   - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
   - Im Sanskrit gibt es keine indirekte Rede; Muodostusen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
   - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
+  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er..."). <!-- TODO: Fallback translation -->
 
 - **evam** ⟪एवम्⟫ : niin (adverbiaalisesti, esim. **evaṃ jayati** "hän voittaa").
 - **na** ⟪न⟫ : ei
@@ -71,14 +71,14 @@ Kuva: **vadanāni** = ⟪वदनानि⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : kysyä
-  - **praśna** m. ⟪प्रश्न⟫ : kysymys (liite **-na** kuten sanassa **yaj-ña**)
+  - **praśna** m. ⟪प्रश्न⟫ : kysymys (liite **-na** kuten sanassa **yaj-ña**) <!-- TODO: Fallback translation -->
 
 - **iṣ** 6 P ⟪इष्⟫ : toivoa
   - **iṣṭi** f. ⟪इष्टि⟫ : toive (**iṣ** + **-ti**)
 
 ## 11.3. Harjoitus
 
-**A) Käännä seuraavat lauseet:**
+**A) Käännä seuraavat lauseet:** <!-- TODO: Fallback translation -->
 
 1. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ |
 2. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ |
@@ -95,7 +95,7 @@ Kuva: **vadanāni** = ⟪वदनानि⟫
 
 **B) Muodosta lauseet kohdasta A) passiivimuotoon.**
 
-**C) Muodosta lauseissa A), missä se on järkevää, subjektin, objektin ja predikaatin monikko.**
+**C) Muodosta lauseissa A), missä se on järkevää, subjektin, objektin ja predikaatin monikko.** <!-- TODO: Fallback translation -->
 
 **D) Muodosta kohdan C) lauseiden perusteella passiivirakenteet.**
 
@@ -114,11 +114,11 @@ Kuva: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 4. Vedalainen varjo ei tee mitään pahaa.
 5. Brahmanit palvovat uhripapina jumalatarta uhrin kanssa.
 6. Śūdra-nainen menee kylään.
-7. Kuka näkee totuuden?
+7. Kuka näkee totuuden? <!-- TODO: Fallback translation -->
 
 **B)**
 1. Ilmoita Dvandvalla kaikkien kahdesti syntyneiden tehtävät. Ratkaise yhdyssana sanskritiksi.
-2. Ilmoita Dvandvalla vaiśyjen tehtävät. Ratkaise yhdyssana sanskritiksi.
+2. Ilmoita Dvandvalla vaiśyjen tehtävät. Ratkaise yhdyssana sanskritiksi. <!-- TODO: Fallback translation -->
 
 **C) Käännä:**
 
@@ -131,17 +131,18 @@ Kuva: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | |
 8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ||
 
-**D) Käännä ja muuta Sanskritin agentti, objekti ja verbi monikkoon:**
+**D) Käännä ja muuta Sanskritin agentti, objekti ja verbi monikkoon:** <!-- TODO: Fallback translation -->
 
 1. ⟪फलमश्नुते⟫ | |
 2. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | |
 3. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ | |
 4. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ||
 
-**E) Muunna lauseet C) 1–5 aktiivirakenteiksi.**
+**E) Muunna lauseet C) 1–5 aktiivirakenteiksi.** <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1103.webp)
 Kuva: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt1103))
 :::
+ <!-- TODO: Fallback translation -->

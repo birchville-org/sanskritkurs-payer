@@ -4,9 +4,9 @@ lesson_id: 32
 status: stable
 ---
 
-# Lektion 32
+# Lecziun 32
 
-## 32.1. Die Vergangenheitstempora
+## 32.1. Die Vergangenheitstempora <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **En la litteratura sanscrita pli veglia ed en ils grammaticists nativs vegnan ils trais temps dal passà clarament distinguids en lur utilizaziun:**
@@ -22,7 +22,7 @@ status: stable
 ::: grammar-box
 **Educaziun:**
 
-**Augment a- + Stampa da preschent + Sekundärendung**
+**Augment a- + Stampa da preschent + Sekundärendung** <!-- TODO: Fallback translation -->
 
 **Las trais persunas dal singular dal imperfectum da Parasmaipada vegnan formadas cun la radis da present fort per radichs athematicas; tut las autras formas vegnan formadas cun la radis da present flaivla.**
 
@@ -31,13 +31,13 @@ status: stable
 Egimpels:
 
 ::: indent
-**⟪भू⟫** 3. pers. sing. Impfet. **⟪अभवत्⟫** (a-bhava-t)
+**⟪भू⟫** 3. pers. sing. Impfet. **⟪अभवत्⟫** (a-bhava-t) <!-- TODO: Fallback translation -->
 
 ⟪सु⟫
 *   3. pers. sing. Impft. Akt. **⟪असुनोत्⟫** (a-suno-t)
 *   3. pers. pl. Impft. Akt. **⟪असुन्वन्⟫** (a + sunu + an)
 :::
-## 32.3. Reglas per l’augment
+## 32.3. Reglas per l’augment <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **1. Sch’ il prefix a- avant ina radich cun insonansa vocalica, alura sa fuziuneschan il prefix e la consonanta iniciala da la radich en ⟪वृद्धि⟫ dal vocal da la radich.**
@@ -50,13 +50,13 @@ Exemplis:
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
 **2. Schei presverbas avant ina radischa, alura vegn l’augment a- suenter ils presverbas immediatamain avant la radischa.**
 :::
-Ezempels:
+Ezempels: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -65,7 +65,7 @@ Ezempels:
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
-| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
+| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) | <!-- TODO: Fallback translation -->
 
 :::
 ## 32.4. Exempels per la furmaziun dal imperfect
@@ -117,12 +117,12 @@ Ezempels:
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫:br
-⟪श्रम्यते⟫:br
-⟪श्रमयति⟫:br
-⟪श्रान्त⟫:br
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
--⟪श्रम्य⟫:br
+⟪श्रमिष्यते⟫
+⟪श्रम्यते⟫
+⟪श्रमयति⟫
+⟪श्रान्त⟫
+⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
+-⟪श्रम्य⟫
 ⟪श्रमितुम्⟫
 :::
 ⟪पार्श्व⟫
@@ -135,7 +135,7 @@ Fig.: ⟪चूतः⟫
 Alber de mang, Kanpur.
 (Sursa d'imagines: [Detagl](/rm/licenses#lekt3202))
 :::
-⟪तरु⟫ ⟪वृक्ष⟫
+⟪तरु⟫ ⟪वृक्ष⟫ <!-- TODO: Fallback translation -->
 
 ⟪पचेलिम⟫
 
@@ -145,20 +145,20 @@ Alber de mang, Kanpur.
 
 **⟪रुह्⟫ ⟪रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫:br
-⟪रुह्यते⟫:br
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-⟪रूढ⟫:br
--⟪रुह्य⟫:br
+⟪रोक्ष्यति⟫
+⟪रुह्यते⟫
+⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
+⟪रूढ⟫
+-⟪रुह्य⟫
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!):br
-⟪गृह्यते⟫:br
-⟪ग्राहयति⟫:br
-⟪गृहीत⟫:br
--⟪गृह्य⟫:br
+⟪ग्रहीष्यति⟫ (!)
+⟪गृह्यते⟫
+⟪ग्राहयति⟫
+⟪गृहीत⟫
+-⟪गृह्य⟫
 ⟪ग्रहीतुम्⟫ (!)
 :::
 **⟪वानर⟫ ⟪कपि⟫**
@@ -171,10 +171,10 @@ Scimmie (macachi rhesus) a Delhi.
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫:br
-⟪लोक्यते⟫:br
-⟪लोकित⟫:br
--⟪लोक्य⟫:br
+⟪लोकयिष्यति⟫
+⟪लोक्यते⟫
+⟪लोकित⟫
+-⟪लोक्य⟫
 ⟪लोकितुम्⟫
 :::
 ⟪प्रहर्ष⟫
@@ -199,20 +199,20 @@ Practica da tir / bersagl per saetas, Karnataka.
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫:br
-⟪क्षिप्यते⟫:br
-⟪क्षेपयति⟫:br
-⟪क्षिप्त⟫:br
--⟪क्षिप्य⟫:br
+⟪क्षेप्स्यति⟫
+⟪क्षिप्यते⟫
+⟪क्षेपयति⟫
+⟪क्षिप्त⟫
+-⟪क्षिप्य⟫
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫:br
-⟪चीयते⟫:br
-⟪चाययति⟫:br
-⟪चित⟫:br
--⟪चित्य⟫:br
+⟪चेष्यति⟫
+⟪चीयते⟫
+⟪चाययति⟫
+⟪चित⟫
+-⟪चित्य⟫
 ⟪चेतुम्⟫
 :::
 ::: media
@@ -235,7 +235,7 @@ Fig.: ⟪कौशलम्⟫
 Pittura Mehndi sin las mauns a Mumbai.
 (Sursa da l’imagines: [Detagls](/rm/licenses#lekt3206))
 :::
-## 32.6. Exercizi
+## 32.6. Exercizi <!-- TODO: Fallback translation -->
 
 A) Determinar las formas verbales siguientes y formar las formas del imperfecto correspondientes en persona, número y género verbal:
 
@@ -460,7 +460,7 @@ C) Traducziun en il Sanscrit:
 
 7. In om, chi la dea protegger, è felice.
 
-8. Cun il vent cun il qual ina nischla d’aua (⟪वारि⟩ n.) lascha, cun il vent mova in erudit ses ombrel.
+8. Cun il vent cun il qual ina nischla d’aua (⟪वारि⟩ n.) lascha, cun il vent mova in erudit ses ombrel. <!-- TODO: Fallback translation -->
 
 9. Na datti activitads fructiferas dals estaments, stadis da vita etc.
 
@@ -490,7 +490,7 @@ C) Traducziun en il Sanscrit:
 
 22. Il magister ha instruit ils giuvens en il Veda e suenter è el en la chasa.
 
-23. Tge talisman ha protegiu la giuvna?
+23. Tge talisman ha protegiu la giuvna? <!-- TODO: Fallback translation -->
 
 24. La veritad è la lucè dal mund.
 
@@ -512,17 +512,17 @@ C) Traducziun en il Sanscrit:
 
 33. L'infèrns èn a causa dal mal. Il mal ha la miseria sco origina. La miseria naschì tras il na-dar.
 
-34. El dret dal Kṣatriyas è che ils Kṣatriyas protegian la glieud cunter ils inimis.
+34. El dret dal Kṣatriyas è che ils Kṣatriyas protegian la glieud cunter ils inimis. <!-- TODO: Fallback translation -->
 
 35. Perquai quellas las trais (tisras) scienzas il regim sco radich. Il regim, che ha l'educaziun/bon comportament sco radich, dat als essers vivents (⟪प्राणभृत्⟫) gudogn e possess segir.
 
-36. Persunas malvadas na udin (a) cun il magister cunzernent il Dharma.
+36. Persunas malvadas na udin (a) cun il magister cunzernent il Dharma. <!-- TODO: Fallback translation -->
 
 37. Aquest Rāma sià omagi!
 
 38. L’altu Hari è la mia via/destinaziun, el che ha manà sias inimis en in tschiel, ha fatg savair a sias persunas il sens dal Veda, ha dà als dieus il tschibid d’immortalitad, ha instruido il creadur (⟪विधि⟫) dal Veda, ha fixà la terra en l’aua.
 
-39. Viṣṇu zeigt sich seinen Anhängern.
+39. Viṣṇu zeigt sich seinen Anhängern. <!-- TODO: Fallback translation -->
 
 40. In regimient che n’è betg exerceà, quai cumpiglia la norma dals peschs.
 
@@ -546,7 +546,7 @@ C) Traducziun en il Sanscrit:
 
 50. Il dharma dal Vaiśya è che i Vaiśya vivano di comperà e vender. Essendovisì, i figls da Vaiśya cumpran e vendan.
 
-51. Insatge la veritad, insatge insatge che fa plaschair; insatge betg ina veritad malsauna e insatge betg ina falsitad malsauna. Quai è il dharma etern.
+51. Insatge la veritad, insatge insatge che fa plaschair; insatge betg ina veritad malsauna e insatge betg ina falsitad malsauna. Quai è il dharma etern. <!-- TODO: Fallback translation -->
 
 52. Arrivederci!
 
@@ -604,17 +604,17 @@ Traducir y determinar las siguientes formas de palabras:
 ## 32.9. Exercizi da translaziun
 
 ::: compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
-⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
-⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
-⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫:br
-⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫:br
-⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫:br
-⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫:br
-⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫:br
-⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫:br
-⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
+⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
+⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
+⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫
+⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫
+⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫
+⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫
+⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫
+⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫
+⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫
+⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫
+⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 :::
 (das: ⟪संस्कृतबालादर्श⟫)
@@ -633,25 +633,25 @@ Explicaziuns:
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Scimmias en arbs da mangos.
 (Sursa da l'imagines: [Detagls](/rm/licenses#lekt3210))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
-**lekt3202:** Mangobaum, Kanpur. [Bildquelle: AmarChandra / Wikipedia. CC BY-SA]
+**lekt3202:** Mangobaum, Kanpur. [Bildquelle: AmarChandra / Wikipedia. CC BY-SA] <!-- TODO: Fallback translation -->
 
-**lekt3203:** Scimmias (macachas rhesus) a Delhi. [Sursa da l'imagines: dewalt / Flickr. CC BY-NC-SA]
+**lekt3203:** Scimmias (macachas rhesus) a Delhi. [Sursa da l'imagines: dewalt / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
 
 **lekt3204:** Grestina da lavuraziun sid da Pune, Maharashtra. [Sursa da l’imagina: lecercle / Flickr. CC BY-NC-SA]
 
 **lekt3205:** Pratica da tir / bersagli per saetas, Karnataka. [Sursa da l'imagina: mattlogelin / Flickr. CC BY-NC]
 
-**lekt3207:** Brandende Kuhmistfladen in Rajasthan. [Bildquelle: thebigdurian / Flickr. CC BY-NC-SA]
+**lekt3207:** Brandende Kuhmistfladen in Rajasthan. [Bildquelle: thebigdurian / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
 
-**lekt3206:** Mehndi-pintura sinas a Mumbai. [surs da l’imagina: the_gman / Flickr. CC BY-NC-SA]
+**lekt3206:** Mehndi-pintura sinas a Mumbai. [surs da l’imagina: the_gman / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
 
-**lekt3208:** Buddhistmönch in Sri Lanka. [Bildquelle: Trollderella / Wikipedia. GNU FDL]
+**lekt3208:** Buddhistmönch in Sri Lanka. [Bildquelle: Trollderella / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
 
-**lekt3209:** Indischer Gruss / Abschied. [Bildquelle: dhyanji / Flickr. CC BY-NC-ND]
+**lekt3209:** Indischer Gruss / Abschied. [Bildquelle: dhyanji / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
 
 **lekt3210:** Scimmias en arbers da mang. [Font da l'imagines: Wikipedia. GNU FDL]
 :::

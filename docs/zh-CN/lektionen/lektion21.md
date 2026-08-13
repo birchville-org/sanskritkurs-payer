@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # 第21课
 
@@ -40,7 +40,8 @@ status: stable
 1\. 现在时类：
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ “以祭祀供奉者”
+**yajant**
+⟪यजन्त्⟫ “以祭祀供奉者”
 :::
 ::: grammar-box
 

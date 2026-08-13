@@ -1,6 +1,6 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Scriere scrisă 4
+## Scriere scrisă 4 <!-- TODO: Fallback translation -->
 
 ![](/images/schrift006.webp)
 

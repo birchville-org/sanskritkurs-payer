@@ -4,7 +4,7 @@ lesson_id: 35
 status: stable
 ---
 
-# Lektion 35
+# Lectio 35
 
 ## 35.1. Typus Perfecti III: Radix fortis gradus altus/gradus productus
 
@@ -72,7 +72,7 @@ Exempla:
 
 **stamen forte:**
 *   3./1. sg. P Perfekt endet auf -au
-*   2. sg. P : gradus plenus -ā vel gradus reductus -i
+*   2. sg. P : gradus plenus -ā vel gradus reductus -i <!-- TODO: Fallback translation -->
 
 **stamen infirmum:**
 *   ante consonantem: gradus profundus -i
@@ -84,9 +84,9 @@ Exemplum:
 
 | Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
+| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re | <!-- TODO: Fallback translation -->
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
+## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Educatio:**
@@ -96,11 +96,11 @@ Exemplum:
 *   2.sg.P: gradus plenus
 *   1.sg.P: vel gradus plenus vel gradus prolatus
 
-**stamen infirmum:** vide subtypos
+**stamen infirmum:** vide subtypos <!-- TODO: Fallback translation -->
 
 Fitur dari akar jenis (Konsonan)-Konsonan-a-Konsonan
 :::
-### 35.3.1. Perfekta Jenis Va: akar lemah tingkat rendah
+### 35.3.1. Perfekta Jenis Va: akar lemah tingkat rendah <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Educatio:**
@@ -142,7 +142,7 @@ Exemplum:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ | <!-- TODO: Fallback translation -->
 
 ### 35.3.3. Typus Perfectoris Vc: Radices consonantem-a-consonantem. Gradus fortis radicalis
 
@@ -163,27 +163,27 @@ Exemplum:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
+| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ | <!-- TODO: Fallback translation -->
 
 ## 35.4. Vocabularium
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : perire, interire, evanescere
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
-**Kaus. ⟪नाशयति⟫** :br
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : evanescere, perire, interire
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : gradiuntur, ambulant
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
-**Fut. ⟪क्रमिष्यति⟫** :br
-**Pass. ⟪क्रम्यते⟫** :br
-**Kaus. ⟪क्रमयति⟫** :br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫** :br
-**Inf. ⟪क्रमितुम्⟫** :br
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Kaus. ⟪क्रमयति⟫**
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
@@ -194,11 +194,11 @@ Homines ambulantes, Senegalia.
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): cantant, cantico recitant, carmine proferunt
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
-**Fut. ⟪गास्यति⟫** :br
-**Pass. ⟪गीयते⟫** :br
-**Kaus. ⟪गापयति⟫** :br
-**PPP ⟪गीत⟫** :br
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Kaus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Inf. ⟪गातुम्⟫**
 
 ex eo:
@@ -286,7 +286,7 @@ C) Versa exercitii B) mutare, Perfectorum loco Imperfecta substituens.
 
 **lekt3502:** Homines ambulantes, Senegalia. [Imaginis auctor: Curt Carnemark / Bankus Mundanus. CC BY-NC-ND]
 
-**lekt3503:** Forum in Vadaseri, Tamil Nadu. [Imago a kifo / Flickr. CC BY-SA]
+**lekt3503:** Forum in Vadaseri, Tamil Nadu. [Imago a kifo / Flickr. CC BY-SA] <!-- TODO: Fallback translation -->
 
 **lekt3504:** Ceremonia Yajña, ashrama Shiva, Ganeshpuri. [Fons imaginis: Dey / Flickr. CC BY-NC-SA]
 :::

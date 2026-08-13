@@ -80,7 +80,7 @@ Sch'insatgi ha fatg bler merit, na po in uman, ch'è liber dal mal, betg ir en i
 Perquai che las acziuns meritablas èn fructiferas, vul in bun uman betg far in mal.
 
 ⟪४⟫. **⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫**
-Per liberar ils munds, instruescha Buddha las noblas veritads.
+Per liberar ils munds, instruescha Buddha las noblas veritads. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. **⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सहात्⟫tu⟪ं⟫ ⟪नार्हति⟫ ⟪॥५॥⟫**
 (⟪शूद्राणां⟫ ⟪जनः⟫)
@@ -91,7 +91,7 @@ Per liberar ils munds, instruescha Buddha las noblas veritads.
 Plen da cupidigia èn ils umns andads per vesair la bella serva ballar.
 
 ⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
+Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert. <!-- TODO: Fallback translation -->
 
 ⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
@@ -112,14 +112,14 @@ Mangiar, dormir, tema e sex èn communals als umens cun il bestgiam. La differen
 Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung035))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Exercizis supplementars
 
 A) Tradusì en sanscrit:
 
 1\. Las tschintg (⟪पञ्च⟫) "patiments" èn: ignoranza, la falsa credenza en l’«io», affecziun, repulsziun ed attachament al corp.
-**⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫**
+**⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫** <!-- TODO: Fallback translation -->
 
 2\. La savida sa lascha acquistar tras obedienta envers in maister u tras daners multai u en intercambi cun savida. Ina quarta furma d’acquisiziun da savida n’exista betg.
 **⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫ ⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫ ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫**

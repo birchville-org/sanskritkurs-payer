@@ -76,7 +76,7 @@ status: stable
 :::
 على سبيل المثال:
 
-devatā + annapūrṇā » devatānnapūrṇā "أنnapūrṇā إلهة" = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā "أنnapūrṇā إلهة" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
 
 > (أنابورنا هي إلهة الطعام والطبخ، وتُعتبر تجسيداً لبارفاتي، زوجة شيفا.)
 
@@ -127,7 +127,7 @@ devī + umā » devy umā "أوما هي إلهة" = ⟪देव्युमा
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-على سبيل المثال
+على سبيل المثال <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "الvaيشاس هم مزدوجو الولادة" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

@@ -4,7 +4,7 @@ lesson_id: 33
 status: stable
 ---
 
-# Lektion 33
+# 第33課
 
 ## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
 

@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα μθʹ
 
@@ -299,7 +299,7 @@ Abb.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Bildquelle: [Details](/grc/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
 
 ⟪परम⟫ 3: ἐσχάτος, ὑψιστος ; ⟪पञ्चम्या⟫ : κρείττων, ὑπερέχων
 
@@ -357,7 +357,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 
 ## 49.6. Μεταφραστικὴ ἄσκησις
 
-⟪बान⟫ (7. Jhdt. n. Chr.): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, S. 35f.
+⟪बान⟫ (7. Jhdt. n. Chr.): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, S. 35f. <!-- TODO: Fallback translation -->
 
 ἐρωτήσεις τοῦ βασιλέως ⟪शूद्रक⟫ ἐκ τοῦ ⟪विदिशा⟫ πρὸς τὸν παρεισέκτην ⟪वैशम्पायन⟫:
 
@@ -382,15 +382,15 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 
 **lekt4903:** [Πηγὴ εἰκόνος: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Πρόσβασις ἐν 2009-01-11. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ὁμολογία συγγράφου, οὐκ ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις)]
 
-**lekt4904:** ⟪वाराणस्याम्⟫ [Πηγὴ εἰκόνος: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Πρόσβασις ἡμερ. 2009-01-11. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Ὁμολογία, οὐχ ἑμπορικὴ χρῆσις, share alike)]
+**lekt4904:** ⟪वाराणस्याम्⟫ [Πηγὴ εἰκόνος: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Πρόσβασις ἡμερ. 2009-01-11. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Ὁμολογία, οὐχ ἑμπορικὴ χρῆσις, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt4909:** Μάντις μετὰ παπαγάγου ἐν κλωβῷ: ὁ παπάγος ἐκλέγει χαρτίδια, ἐφ’ οἷς τὸ πεπρωμένον γέγραπται Mysore [Πηγὴ εἰκόνος: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Πρόσβασις ἡμερ. 2009-01-12. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Ὁμολογία)]
 
 **lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Πηγὴ εἰκόνος: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Πρόσβασις ἡμερ. 2009-01-11. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Ὁμολογία)]
 
-**lekt4906:** Sri Lanka [Πηγὴ εἰκόνος: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Πρόσβασις ἡμερ. 2009-01-11. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ὁμολογία, οὐχ ἑμπορικὴ χρῆσις, οὐκ ἐπεξεργασία)]
+**lekt4906:** Sri Lanka [Πηγὴ εἰκόνος: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Πρόσβασις ἡμερ. 2009-01-11. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ὁμολογία, οὐχ ἑμπορικὴ χρῆσις, οὐκ ἐπεξεργασία)] <!-- TODO: Fallback translation -->
 
-**lekt4908:** Psittacula cyanocephala [Πηγή εικόνας: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Πρόσβαση στις 2009-01-12. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, share alike)]
+**lekt4908:** Psittacula cyanocephala [Πηγή εικόνας: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Πρόσβαση στις 2009-01-12. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
 :::
 

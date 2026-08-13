@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 3
+# Lectio 3
 
 ::: deleteme-box
 **In hac lectione discetis:**
@@ -65,7 +65,7 @@ Finis nominativi pluralis in genere masculino et feminino est **-as**.
 :::
 Nota: **e** est gradus superior (**guṇa**) ad **i**, **o** est gradus superior ad **u**.
 
-## 3.4. Vokalsandhi
+## 3.4. Vokalsandhi <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Vocales simplices, quae vel non vel solum longitudine differunt, “coalescunt” in vocalem longam correspondentem:**
@@ -76,7 +76,7 @@ Nota: **e** est gradus superior (**guṇa**) ad **i**, **o** est gradus superior
 :::
 e.g.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā est deitas" = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā est deitas" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
 
 > (Annapūrṇā est dea ciborum et coquinae, quae ut Pārvatī, uxor Śivae, incarnatio habetur.)
 
@@ -116,18 +116,18 @@ Pro hoc igitur sandhi sequens valet schema:
 ![](/images/lekt0302.jpg)
 (Fons imaginis: [Details](/la/licenses#lekt0302))
 :::
-De hac sic dicta gradatione tribuum vide postea!
+De hac sic dicta gradatione tribuum vide postea! <!-- TODO: Fallback translation -->
 
 e.g.
 
 śūdrā + itarā » śudretarā "Itarā est mulier Śūdra" = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās
+## 3.5. Satzsandhi von -ās <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-e.g.
+e.g. <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyae sunt bis nati" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -162,7 +162,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyae sunt bis nati" = ⟪द्
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : Kṣatriya femina.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : Kṣatriya femina. <!-- TODO: Fallback translation -->
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : uxor Kṣatriyae.
 

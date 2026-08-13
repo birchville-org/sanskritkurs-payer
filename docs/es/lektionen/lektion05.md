@@ -5,7 +5,7 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 5
 
@@ -151,7 +151,7 @@ Fig.: Dios Kāma = kāmadeva = ⟪कामदेव⟫, siglo XVIII.
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / en sánscrito correcto: sāmārgyajurvedās trayī)
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (en sánscrito correcto: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+   (en sánscrito correcto: ⟪सामार्यजुर्वेदास्त्रयी⟫) &lt;!-- TODO: Fallback translation --&gt;
 
 4. Los tres enemigos del ser humano, que constituyen la puerta al infierno (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -159,7 +159,7 @@ Fig.: Dios Kāma = kāmadeva = ⟪कामदेव⟫, siglo XVIII.
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
    ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Explicación: brahmavihāra: "estados de morada de Brahman", también llamados "Los Ilimitados". Son formas de meditación budista.)
+   (Explicación: brahmavihāra: "estados de morada de Brahman", también llamados "Los Ilimitados". Son formas de meditación budista.) &lt;!-- TODO: Fallback translation --&gt;
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
    (Yogasūtra 2,3)
@@ -168,7 +168,7 @@ Fig.: Dios Kāma = kāmadeva = ⟪कामदेव⟫, siglo XVIII.
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
    (Según Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || &lt;!-- TODO: Fallback translation --&gt;
 
 ## 5.6. Ejercicio de repaso
 

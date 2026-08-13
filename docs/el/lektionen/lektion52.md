@@ -196,7 +196,7 @@ PPP + -vant / θηλ.: vatī
 ⟪भस्मसात्करोति⟫ «μεταβάλλει πλήρως σε στάχτη (⟪भस्मन्⟫ n. «στάχτη»))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
 
 *   **από το οποίο εξαρτάται ή**
 *   **περνά στην κατοχή του οποίου**
@@ -283,7 +283,7 @@ PPP + -vant / θηλ.: vatī
 Παραδείγματα:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f.
 :::
 
@@ -295,7 +295,7 @@ PPP + -vant / θηλ.: vatī
 Παραδείγματα:
 
 ::: indent
-100 ⟪शत⟫ ουδ.:br
+100 ⟪शत⟫ ουδ.
 1000 ⟪सहस्र⟫ ουδ.
 :::
 Τα μεμονωμένα ουσιαστικά αριθμών βλέπε π.χ. στο Kielhorn, Γραμματική §201.
@@ -353,7 +353,7 @@ PPP + -vant / θηλ.: vatī
 :::
 Περισσότερους σχηματισμούς μπορείτε να βρείτε στα λεξικά ή στις γραμματικές.
 
-### 52.6.5. Komposita mit Απόλυτοι αριθμοί im Vorderglied
+### 52.6.5. Σύνθετα με απόλυτους αριθμούς στο πρώτο μέλος
 
 ::: grammar-box
 **⟪बहुव्रीहि⟫ σχηματίζονται με πλήρη κανονικότητα.**
@@ -794,15 +794,15 @@ Mahābhārata : Το μεγάλο έπος της Ινδίας / μετάφρα�
 
 **lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
 
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Πηγή εικόνας: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά πηγής)]
+**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Πηγή εικόνας: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά πηγής)] <!-- TODO: Fallback translation -->
 
 **lekt5212:** Χαϊντεραμπάντ = హైదరాబాద్ [Πηγή εικόνας: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαλλαγές)]
 
-**lekt5213:** ⟪मुंबई⟫ [Πηγή εικόνας: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Αναφορά δημιουργού, χωρίς εξαλλαγές)]
+**lekt5213:** ⟪मुंबई⟫ [Πηγή εικόνας: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Αναφορά δημιουργού, χωρίς εξαλλαγές)] <!-- TODO: Fallback translation -->
 
 **lekt5214:** Κοναρκ = ⟪कोनार्क⟫ [Πηγή εικόνας: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαλλαγές)]
 
-**lekt5208:** Χάμπι = ಹಂಪೆ [Πηγή εικόνας: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Πρόσβαση στις 2009-01-15. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ομοία άδεια)]
+**lekt5208:** Χάμπι = ಹಂಪೆ [Πηγή εικόνας: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Πρόσβαση στις 2009-01-15. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ομοία άδεια)] <!-- TODO: Fallback translation -->
 
 **lekt5215:** ⟪मुंबई⟫ [Πηγή εικόνας: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά)]
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 51
+# Leçon 51
 
 ## 51.1. Composés ⟪upapada⟫
 
@@ -34,9 +34,9 @@ Beispiele:
 a) ⟪कृत्⟫-Suffix \-Ø
 
 ::: indent
-\-⟪नी⟫ 3 "führend" z.B. ⟪सेनानी⟫ m. "Heerführer" (⟪सेना⟫ f. "Heer")
+\-⟪नी⟫ 3 "führend" z.B. ⟪सेनानी⟫ m. "Heerführer" (⟪सेना⟫ f. "Heer") <!-- TODO: Fallback translation -->
 
-\-⟪भुज्⟫ 3 "genießend, essen" z.B. ⟪भूमिभुज्⟫ m. "König" (⟪भूमि⟫ f. "Erde")
+\-⟪भुज्⟫ 3 "genießend, essen" z.B. ⟪भूमिभुज्⟫ m. "König" (⟪भूमि⟫ f. "Erde") <!-- TODO: Fallback translation -->
 
 \-⟪विद्⟫ 3 "wissend" z.B. ⟪धर्मविद्⟫  3 "den Dharma kennend"
 :::
@@ -53,11 +53,11 @@ b) ⟪कृत्⟫-Suffix -t
 
 :::
 ::: indent
-⟪कुलक्षयकृत्⟫ 3 "Vernichtung der Familie bewirkend"
+⟪कुलक्षयकृत्⟫ 3 "Vernichtung der Familie bewirkend" <!-- TODO: Fallback translation -->
 
 ⟪पापकृत्⟫ 3 "Böses tuend, Übeltäter"
 :::
-\-⟪जित्⟫ 3 "besiegend", z. B.
+\-⟪जित्⟫ 3 "besiegend", z. B. <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪शत्रुजित्⟫ 3 "die Feinde besiegend"
@@ -71,26 +71,26 @@ Fig. : ⟪पापकृत्⟫
 ⟪भरतपुर⟫, ⟪राजस्थान⟫
 (Source de l'image : [Détails](/fr/licenses#lekt5103))
 :::
-c) ⟪कृत्⟫-Suffix -a
+c) ⟪कृत्⟫-Suffix -a <!-- TODO: Fallback translation -->
 
 ::: indent
-\-⟪ग⟫ 3 "gehend (in, zu)" (vermutlich zur Wurzel gā, Tiefst. g + a) z.B. ⟪खग⟫ 3 "fliegend" m. "Vogel, Wandelstern" (⟪ख⟫ n. "Loch, 'Luft'raum")
+\-⟪ग⟫ 3 "gehend (in, zu)" (vermutlich zur Wurzel gā, Tiefst. g + a) z.B. ⟪खग⟫ 3 "fliegend" m. "Vogel, Wandelstern" (⟪ख⟫ n. "Loch, 'Luft'raum") <!-- TODO: Fallback translation -->
 
-\-⟪घ्न⟫ 3 "erschlagend" z.B. ⟪कुलघ⟫ 3 "Familie(n) tötend"
+\-⟪घ्न⟫ 3 "erschlagend" z.B. ⟪कुलघ⟫ 3 "Familie(n) tötend" <!-- TODO: Fallback translation -->
 
-\-⟪ज⟫ 3 (jña » jā » Tiefst. j + a) "abstammend von, geboren in" z.B. ⟪आत्मज⟫ "Sohn"
+\-⟪ज⟫ 3 (jña » jā » Tiefst. j + a) "abstammend von, geboren in" z.B. ⟪आत्मज⟫ "Sohn" <!-- TODO: Fallback translation -->
 
-\-⟪ज्ञ⟫ 3 "kundig" (jñ-a) z.B. ⟪सर्वज्ञ⟫ 3 "allwissend"
+\-⟪ज्ञ⟫ 3 "kundig" (jñ-a) z.B. ⟪सर्वज्ञ⟫ 3 "allwissend" <!-- TODO: Fallback translation -->
 
-\-⟪द⟫ 3 "gebend" (d-a) z.B. ⟪वारिद⟫ m. "Wolke" (⟪वारि⟫ n. "Wasser")
+\-⟪द⟫ 3 "gebend" (d-a) z.B. ⟪वारिद⟫ m. "Wolke" (⟪वारि⟫ n. "Wasser") <!-- TODO: Fallback translation -->
 
-\-⟪प⟫ 3 "trinkend" (p-a) z.B. ⟪द्विप⟫ m. "Elefant (zweimal trinkend)"
+\-⟪प⟫ 3 "trinkend" (p-a) z.B. ⟪द्विप⟫ m. "Elefant (zweimal trinkend)" <!-- TODO: Fallback translation -->
 
-\-⟪प⟫ 3 "schützend" (p-a) z.B. ⟪भूप⟫ "die Erde schützend = König"
+\-⟪प⟫ 3 "schützend" (p-a) z.B. ⟪भूप⟫ "die Erde schützend = König" <!-- TODO: Fallback translation -->
 
-\-⟪स्थ⟫ 3 "stehend in, befindlich in" (sth-a) z.B. ⟪गृहस्थ⟫ m. "Haushalter, Hausvater"
+\-⟪स्थ⟫ 3 "stehend in, befindlich in" (sth-a) z.B. ⟪गृहस्थ⟫ m. "Haushalter, Hausvater" <!-- TODO: Fallback translation -->
 
-\-⟪कर⟫ 3 "bewirkend, tuend" z.B. ⟪सुखकर⟫ 3 "Glück verschaffend"
+\-⟪कर⟫ 3 "bewirkend, tuend" z.B. ⟪सुखकर⟫ 3 "Glück verschaffend" <!-- TODO: Fallback translation -->
 
 \-⟪स्मर⟫ 3 « se souvenant » par ex. ⟪जातिस्मर⟫ 3 « se souvenant des naissances antérieures »
 :::
@@ -319,7 +319,7 @@ Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 
 ⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
 :::
-## 51.4. Sandhi von anlautendem ch-
+## 51.4. Sandhi von anlautendem ch- <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Le ch- initial est remplacé par cch- après une voyelle brève, après ⟪मा⟫ « non » et après ⟪आ⟫ « à » :**
@@ -614,7 +614,7 @@ Explication : -⟪अभिषेकौ⟫ Nom.Acc.Voc.Duel.masc. (Dualdvandva)
 
 **lekt5104:** ⟪पुष्कर⟫ [Source de l'image : calamur. -- [http://www.flickr.com/photos/gargi/360186369/](http://www.flickr.com/photos/gargi/360186369/). -- Consulté le 2009-01-13. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
 
-**lekt5105:** [Source de l'image : Wikipedia, domaine public]
+**lekt5105:** [Source de l'image : Wikipedia, domaine public] <!-- TODO: Fallback translation -->
 
 **lekt5107:** ⟪ऋषिकेश⟫ [Source de l'image : EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Consulté le 2009-01-13. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, pas d'utilisation commerciale, partage à l'identique)]
 

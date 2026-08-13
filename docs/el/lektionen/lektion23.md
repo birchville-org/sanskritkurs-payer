@@ -79,16 +79,16 @@ status: stable
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
 
-## 23.3. Το Απαρέμφατο (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln
+## 23.3. Το Απαρέμφατο (⟪तुमुन्⟫) για τις μέχρι τώρα διδαχθείσες ρίζες
 
 ⟪अद्⟫ 2P ⟪अत्तुम्⟫  
 ⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
@@ -258,7 +258,7 @@ Kάνω καλές πράξεις = ⟪पुण्यकरणम्⟫, Ταϊ
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
 
-Εξήγηση: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..."
+Εξήγηση: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..." <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2302.webp)

@@ -5,7 +5,7 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
----
+--- <!-- TODO: Fallback translation -->
 
 # ਪਾਠ 8
 
@@ -44,7 +44,7 @@ last_reconstructed: 2026-05-07
   - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » ਤੁਲਨਾਤਮਕ (ਤੁਲਨਾਤਮਕ, ਅਤਿਉਤਮ), ਤੁਲਨਾ
   - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » ਕ੍ਰਮਬੱਧ ਸੰਖਿਆਵਾਂ (ਪਹਿਲਾਂ, ਆਦਿਕ)
   - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » ਵਿਭਕਤੀ ਅੰਤਾਂ ਦੀ ਜਗ੍ਹਾ 'ਤੇ (ਜਿਵੇਂ ਕਿ **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-ਰਚਨਾਵਾਂ ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
+  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-ਰਚਨਾਵਾਂ ⟪च्वि⟫, **-sāt** -⟪सात्⟫) <!-- TODO: Fallback translation -->
 
 **ਅਭਿਆਸ (Ablaut) ਦੇ ਅਧਾਰ 'ਤੇ ਵੰਡ:**
 - **guṇya** (⟪गुण्य⟫): ਉੱਚ ਸਤਹ ਦੀ ਰਚਨਾ
@@ -71,7 +71,7 @@ last_reconstructed: 2026-05-07
 | **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "ਛੱਡਣਾ, ਉਤਪਤੀ, ਸਿਰਜਣਾ" (ਸ਼ਬਦਸੰਧਿ j » g ਲਈ ਬਾਅਦ ਵਿੱਚ ਦੇਖੋ) |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "ਸੁਣਨਾ" |
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "ਬਣਨਾ, (ਕੁਝ) ਹੋਣਾ, ਸੁਭਾਅ, ਸੁਭਾਵ" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "ਯੋਧਾ, ਜੰਗੀ, ਸਿਪਾਹੀ" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "ਯੋਧਾ, ਜੰਗੀ, ਸਿਪਾਹੀ" | <!-- TODO: Fallback translation -->
 
 ### 8.3.2. -ਅਨ ਨ. (ਕ੍ਰਿਤ)
 
@@ -87,7 +87,7 @@ last_reconstructed: 2026-05-07
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(ਸੁਣਨ ਦਾ ਯੰਤਰ =) ਕੰਨ" |
 | **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(ਜਿਸ ਦੁਆਰਾ ਕੁਝ ਕੀਤਾ ਜਾਂਦਾ ਹੈ, ਭਾਵ:) ਕਾਰਨ, ਆਧਾਰ" |
 | **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "ਬਣਨਾ, ਉਤਪਤੀ" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "ਦੇਖਣਾ, ਦ੍ਰਿਸ਼ਟੀਕੋਣ, ਦਾਰਸ਼ਨਿਕ ਪ੍ਰਣਾਲੀ, ਪ੍ਰਗਟਾਵਾ, ਖਾਸ ਤੌਰ 'ਤੇ: ਦਰਸ਼ਨ" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "ਦੇਖਣਾ, ਦ੍ਰਿਸ਼ਟੀਕੋਣ, ਦਾਰਸ਼ਨਿਕ ਪ੍ਰਣਾਲੀ, ਪ੍ਰਗਟਾਵਾ, ਖਾਸ ਤੌਰ 'ਤੇ: ਦਰਸ਼ਨ" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0801.webp)
@@ -115,7 +115,7 @@ last_reconstructed: 2026-05-07
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(ਲੈ ਜਾਣ ਦਾ ਮਾਧਿਅਮ =) ਅੱਖ" |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(ਸੁਣਨ ਦਾ ਯੰਤਰ=) ਕੰਨ" |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(ਸੋਚਣ ਦਾ ਯੰਤਰ:) ਮੰਤਰ, 'ਜਾਦੂਈ' ਸੂਤਰ (ਮੰਤਰ)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "ਬੁਣਾਈ ਦੀ ਖੋਰ" |
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "ਬੁਣਾਈ ਦੀ ਖੋਰ" | <!-- TODO: Fallback translation -->
 
 ::: media
 **ਵਿਭਿੰਨ ਭਾਰਤੀ ਲਿਖਤਾਂ ਵਿੱਚ ਮੂਲ-ਮੰਤਰ ਓੰ (⟪ॐ⟫)**
@@ -145,7 +145,7 @@ last_reconstructed: 2026-05-07
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "ਨਿਕਲਣਾ, ਸਿਰਜਣਾ" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "ਦ੍ਰਿਸ਼ਟੀ, ਚਿਹਰ, ਦ੍ਰਿਸ਼ਟੀਕੋਣ" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "ਚਾਲ, ਮਾਰਗ, ਜਾਣ ਦਾ ਲਕਸ਼ਯ" (*gm » ga + -ti ਤੋਂ) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "ਸੋਚ, ਵਿਚਾਰ, ਰਾਏ" (*mn » ma + -ti ਤੋਂ) |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "ਸੋਚ, ਵਿਚਾਰ, ਰਾਏ" (*mn » ma + -ti ਤੋਂ) | <!-- TODO: Fallback translation -->
 
 *ਨੋਟ: ਕਿਸੇ ਰੂਪ ਦੇ ਸਾਹਮਣੇ \* ਦਾ ਅਰਥ ਹੈ ਕਿ ਇਹ ਰੂਪ ਸੰਸਕ੍ਰਿਤ ਵਿੱਚ ਨਹੀਂ ਮਿਲਦਾ, ਸਗੋਂ ਸਿਧਾਂਤਕ ਤੌਰ 'ਤੇ ਕੱਢਿਆ ਗਿਆ ਹੈ ਕਿਉਂਕਿ ਇਹ ਕਿਸੇ ਵਿਸ਼ੇਸ਼ ਰਚਨਾ ਲਈ ਜ਼ਰੂਰੀ ਹੈ⟪।⟫ **gam** ਦਾ ਗਹਿਰਾ-ਪੱਧਰ gṃ = \*gm ਹੈ, ਜਿਸ ਵਿੱਚ m ਨੂੰ nasalis sonans ਵਜੋਂ **a** ਦੁਆਰਾ ਬਦਲਿਆ ਜਾਂਦਾ ਹੈ » **ga**⟪।⟫ **man** ਲਈ ਵੀ ਇਸੇ ਤਰ੍ਹਾਂ ਲਾਗੂ ਹੁੰਦਾ ਹੈ » **ma**⟪।⟫
 
@@ -172,21 +172,29 @@ last_reconstructed: 2026-05-07
 - **ਕਮਜ਼ੋਰ ਸ਼ਬਦਮੂਲ: ਮੂਲ + -u- (ਸੰਧਿ ਵਿੱਚ -v-)**
 
 ਉਦਾਹਰਣ **tan** 8 U (⟪तन्⟫) "ਖਿੱਚਣਾ":
-- 3\. sg. P. **tanoti**:br⟪तनोति⟫
-- 3\. pl. P. **tanvanti**:br⟪तन्वन्ति⟫
-- 3\. sg. Ā. **tanute**:br⟪तनुते⟫
-- 3\. pl. Ā. **tanvate**:br⟪तन्वते⟫
+- 3\. sg. P. **tanoti**
+⟪तनोति⟫
+- 3\. pl. P. **tanvanti**
+⟪तन्वन्ति⟫
+- 3\. sg. Ā. **tanute**
+⟪तनुते⟫
+- 3\. pl. Ā. **tanvate**
+⟪तन्वते⟫
 :::
-ਨੋਟ: ਇਸ ਗੱਲ ਦੇ ਵਿਵਾਦ ਬਾਰੇ ਕਿ ਕੀ **tan** ਅਸਲ ਵਿੱਚ 5ਵੀਂ ਕਲਾ ਦੀ ਮੂਲ ਹੈ (*tn » ta + no-), ਵੇਖੋ Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+ਨੋਟ: ਇਸ ਗੱਲ ਦੇ ਵਿਵਾਦ ਬਾਰੇ ਕਿ ਕੀ **tan** ਅਸਲ ਵਿੱਚ 5ਵੀਂ ਕਲਾ ਦੀ ਮੂਲ ਹੈ (*tn » ta + no-), ਵੇਖੋ Thumb-Hauschild, Handbuch des Sanskrit II, 265. <!-- TODO: Fallback translation -->
 
 ਅੱਠਵੀਂ ਕਲਾ ਦੀ ਸਭ ਤੋਂ ਮਹੱਤਵਪੂਰਨ ਮੂਲ **kṛ** 8 U (⟪कृ⟫) "ਕਰਨਾ, ਬਣਾਉਣਾ" ਹੈ⟪।⟫ ਇਸਦਾ ਵਿਆਕਰਣ ਅਨਿਯਮਿਤ ਹੈ:
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "ਕਰਨਾ, ਕਰਨਾ"**
-- 3\. sg. P. **karoti**:br⟪करोति⟫
-- 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
+- 3\. sg. P. **karoti**
+⟪करोति⟫
+- 3\. pl. P. **kurvanti**
+⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute**
+⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate**
+⟪कुर्वते⟫
 :::
 
 ## 8.5. ਸ਼ਬਦਾਵਲੀ

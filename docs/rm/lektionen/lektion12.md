@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 12
+# Lecziun 12
 
 ::: deleteme-box
 **En questa lecziun avais da aprender:**
@@ -18,7 +18,7 @@ status: stable
 - Il passiv ed il PPP da las radichas emparadas fin qua
 :::
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. Participi dal passà passiv (PPP)
 
 Ina pussaivel da construir frisas dal passiv en il temp passà è la construcziun cun il cunvegnaidamain ditg participi perfet passiv (PPP).
 
@@ -26,7 +26,7 @@ Ina pussaivel da construir frisas dal passiv en il temp passà è la construcziu
 **In realità n’è il PPP betg in ver participi, perquai ch’el na vegn betg format d’in stem temporal. El è pli stgimada ina furmaziun nominala a la radis cun il suffix primari -ta resp. -na. Perquai discurr’ins en la grammatica indiana dal suffix kta.**
 :::
 
-### 12.1.1. Schema per verbs transitivs
+### 12.1.1. Schema per verbs transitivs <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Agens (kartṛ) en il instrumental (tṛtīyā) -- object direct (karman) en il nominativ (prathamā) -- participi perfet passiv**
@@ -69,7 +69,7 @@ Dunque, mentr che il cunsecutivamain ditg „participi perfet passiv“ per verb
 
 z.B.
 - **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv)
-- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv)
+- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv) <!-- TODO: Fallback translation -->
 
 ## 12.3. Furmaziun dal PPP
 
@@ -86,7 +86,7 @@ S’presentes las suentas sudivisiuns (per mintga radis è il participi dal pass
 Las stamas feminins han il sufix **-tā**, **-itā**, **-nā**; il neutrum declines sco **phala** n.
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP auf -ta (kta) <!-- TODO: Fallback translation -->
 
 #### 12.3.1.1. Senza vocali di legame -i- (aniṭ)
 
@@ -97,7 +97,7 @@ Senza vocali di legame, si forma il PPP generalmente da radici che terminano in 
 
 Ina lista dals radis *aniṭ* sa chatta en Kielhorn, *Grammatik* § 298.
 :::
-**Exempels:**
+**Exempels:** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Radix | PPP (kta) |
@@ -137,18 +137,18 @@ Per las furmasiuns cun *aniṭ* èn da tegnair cont da las suandantas legas dal 
 ::: no-header
 | | |
 | :--- | :--- |
-| **1. k, t, p vor stimmlosem Verschlusslaut (z.B. t, th) bleiben unverändert:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct wird durch kt = ⟪क्त्⟫ ersetzt:** | **muc + ta » muk-ta** = **⟪मुक्त⟫** |
-| **3. śt wird durch ṣṭ = ⟪ष्ट्⟫ ersetzt:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Stimmhafter unaspirierter Verschlusslaut – außer j – wird vor stimmlosem Laut durch den ihm entsprechenden stimmlosen unaspirierten Laut ersetzt:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (wichtig für die 2. Präsensklasse) |
-| **5. jt wird durch kt ni ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; ni durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
-:::
+| **1. k, t, p davant plosiva surda (p.ex. t, th) restan senza midadas:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+| **2. ct vegn sustituì tras kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = **⟪मुक्त⟫** |
+| **3. śt vegn sustituì tras ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+| **4. Plosiva sonora betg aspirada – ordaffer j – vegn sustituida davant in son surd tras il son surd betg aspirad correspundent:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (impurtant per la 2. classa da preschent) |
+| **5. jt vegn sustituì tras kt u ṣṭ (betg facultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. Plosiva sonora aspirada + plosiva surda » plosiva sonora betg aspirada + plosiva sonora aspirada (Lega d'aspiraziun da Bartholomae):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t vegn sustituì tras ḍh cun allungaziun d'in i u u precedent; u tras gdh. Davant in tal ḍh vegn a sustituì tras o, pli rar tras ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „zchoccher alquai”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+::: <!-- TODO: Fallback translation -->
 
 ## 12.5. Glista da pleds
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्बुध्यतेबोधतिबुद्ध⟪ : sveschlar, sveschlar a la cumprensiun, reconuscher; PPP **buddha** 3 sveschlà, perquai **Buddha** = "el sveschlà" (betg: el illuminà)
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्बुध्यतेबोधतिबुद्ध⟪ : sveschlar, sveschlar a la cumprensiun, reconuscher; PPP **buddha** 3 sveschlà, perquai **Buddha** = "el sveschlà" (betg: el illuminà) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1201.webp)
@@ -158,21 +158,21 @@ Imag.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (alquai) arder
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : dominar, sustegnir, sustegnir pazientamain = perdonar
 - **mṛga** m. ⟪मृग⟫ : animal selvadi
-- **mārga** m. ⟪मार्ग⟫ : via (las vias eran savens ils sentiers dals animals)
+- **mārga** m. ⟪मार्ग⟫ : via (las vias eran savens ils sentiers dals animals) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1202.webp)
 Imag.: ⟪मार्गः⟫
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : era (postposì)
+- **api** ⟪अपि⟫ : era (postposì) <!-- TODO: Fallback translation -->
 
 A la 6. classa da prezens cuntschentan ils grammatichers nativs quai che vegn numnà radis, che furman la stgala da prezens cun in infix nasalic ed il vocal tematic a, per exempel:
 
 - **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : liberar, liberar; liberar dal circul da la renaixientscha (**saṃsāra** m.) = redimì
 - **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : asperger
 
-Per la furmaziun da las paraulas:
+Per la furmaziun da las paraulas: <!-- TODO: Fallback translation -->
 
 - **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Distacament, liberaziun, redenziun
 - **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Aspersiun d'in re en il decurs da l'incunaziun regia, incunaziun regia
@@ -183,11 +183,11 @@ Per la furmaziun da las paraulas:
 Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : cuschientscha, organ da cuschientscha.
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : cuschientscha, organ da cuschientscha. <!-- TODO: Fallback translation -->
 
 ### 12.5.1. Passiv e il PPP dals radis gudìds fin qua
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+| Wurzel:br⟪धातु⟫ | Passiv preschent 3. sg. indicativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -236,9 +236,8 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ## 12.6. Exercizi
 
-**A) Formai las frasis passivas dal temp passà cun l’ausa dal PPP (participi dal passà) da las frasis activas da [Lektion 7](/lektionen/lektion07), exercizi A; cun verbs intransitivs e verbs da moviment, formai frasis activas dal temp passà.**
+**A) Formai las frasis passivas dal temp passà cun l’ausa dal PPP (participi dal passà) da las frasis activas da [Lecziun 7](/rm/lektionen/lektion07), exercizi A; cun verbs intransitivs e verbs da moviment, formai frasis activas dal temp passà.**
 
-**B) Bildet die entsprechenden Partizipien der Vergangenheit Passiv (PPPs) zu den Verbformen aus [Lektion 10](/lektionen/lektion10), Übung A. Beachtet dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
+**B) Furmai ils participis dal passà passiv (PPPs) correspundents a las furmas verbalas da la [Lecziun 10](/rm/lektionen/lektion10), exercizi A. Risguardai che a ina furma sco sṛjati correspunden PPPs en tut ils trais geners.**
 
-**C) Mettai las frasis da [Lecziun 10](/lektionen/lektion10), exercizi C, en il passiv al temp passà.**
-
+**C) Mettai las frasis da [Lecziun 10](/rm/lektionen/lektion10), exercizi C, en il passiv al temp passà.**

@@ -5,7 +5,7 @@ lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # บทที่ 14
 
@@ -106,7 +106,7 @@ status: stable
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
 
 :::
 **คำสรรพนามคำถามและคำสรรพนามชี้:**
@@ -118,7 +118,7 @@ status: stable
 | **เพศชาย / เพศกลาง** | **วิภัตติการเอกพจน์** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
 | | **วิภัตติการพหูพจน์** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
 | **เพศหญิง** | **วิภัตติการเอกพจน์** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **วิภัตติการพหูพจน์** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| | **วิภัตติการพหูพจน์** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ | <!-- TODO: Fallback translation -->
 
 :::
 **ความเหมือนกันของรูป:**
@@ -168,7 +168,7 @@ status: stable
   * **vac-ana น.** (⟪वचन⟫) : การพูด, คำ
   * **vāk-ya น.** (⟪वाक्य⟫) : คำ, ถ้อยคำ
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = คำสุภาษิต
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = คำสุภาษิต <!-- TODO: Fallback translation -->
 
 จงแปลคำสุภาษิตต่อไปนี้และจำให้ขึ้นใจ:
 

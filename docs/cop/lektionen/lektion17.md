@@ -15,7 +15,7 @@ status: stable
 
 ::: grammar-box
 
-Es gibt folgende Bildungsformen in der zweiten Präsensklasse: <!-- TODO: Fallback translation -->
+ⲡⲓⲛⲟϥ ϧⲉⲙ ⲡⲓⲛⲁϥⲧⲉⲣⲟⲩⲛ ⲛⲧⲉ ϯⲙⲏⲥ:
 
 1.  Wurzeln mit Stammabstufung
     *   meistens: Hochstufe - Tiefstufe
@@ -24,7 +24,7 @@ Es gibt folgende Bildungsformen in der zweiten Präsensklasse: <!-- TODO: Fallba
 3.  zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
 
 :::
-## 17.2. Wurzeln der zweiten Präsensklasse mit Ⲧⲁⲃⲥⲧⲩϥⲓⲛⲅ ⲛ̄ⲣⲏⲧ Hochstufe - Tiefstufe <!-- TODO: Fallback translation -->
+## 17.2. ⲛⲧⲉ ϣⲟⲡⲓ ⲛ̄ϧⲱⲃ ϯⲥⲁ ⲛ̄ϣⲟⲡ ϯⲙⲏⲧⲛϥ ⲉⲓⲱⲧⲙ ⲛ̄ϣⲟⲡ ϯⲥⲁ ⲛ̄ϣⲟⲡ ϯⲙⲏⲧⲛϥ ⲉⲓⲱⲧⲙ
 
 أمثلة:
 
@@ -37,13 +37,13 @@ Es gibt folgende Bildungsformen in der zweiten Präsensklasse: <!-- TODO: Fallba
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
-| 3\. pl. Präs. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
-| 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
+| 3\. sg. Pres. Act. | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
+| 3\. pl. Pres. Act. | ⟪द्विषन्ति⟫ (dviṣ-anti) |
+| 3\. sg. Pres. Mid. | ⟪द्विष्टे⟫ (« dviṣ + -te) |
+| 3\. pl. Pres. Mid. | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
-Hierbei wirkt folgendes Wortsandhigesetz: <!-- TODO: Fallback translation -->
+The following sandhi rule applies here:
 
 ::: grammar-box
 Wortsandhi von -ṣ + t(h)-
@@ -84,7 +84,7 @@ Weitere Beispiele:
 | 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
-⟪हन्⟫ 2 P "strike, beat, kill"
+⟪हन्⟫ 2 P "ⲥϣⲓⲟⲧ, ⲛⲁⲡ, ⲙⲉϥⲣⲱ"
 
 *   strong present stem: han-
 *   weak present stem:
@@ -95,10 +95,10 @@ Weitere Beispiele:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) |
-| 3\. pl. Präs. P | ⟪घ्नन्ति⟫ (ghn-anti) |
-| 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
+| 3\. sg. Pres. Act. | ⟪हन्ति⟫ (han-ti) |
+| 3\. pl. Pres. Act. | ⟪घ्नन्ति⟫ (ghn-anti) |
+| 3\. sg. Pres. Mid. | ⟪हते⟫ (ha-te) |
+| 3\. pl. Pres. Mid. | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
 ⟪अस्⟫ 2 P "to be"
@@ -114,7 +114,7 @@ Weitere Beispiele:
 | 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
 
 :::
-## 17.3. Wurzeln der zweiten Präsensklasse mit Ⲧⲁⲃⲥⲧⲩϥⲓⲛⲅ ⲛ̄ⲣⲏⲧ Dehnstufe - Tiefstufe <!-- TODO: Fallback translation -->
+## 17.3. Wurzeln der zweiten Präsensklasse mit Ⲧⲁⲃⲥⲧⲩϥⲓⲛⲅ ⲛ̄ⲣⲏⲧ Dehnstufe - Tiefstufe
 
 مثال:
 
@@ -135,7 +135,7 @@ Weitere Beispiele:
 | 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
 :::
-## 17.4. Wurzeln der zweiten Präsensklasse ohne Ⲧⲁⲃⲥⲧⲩϥⲓⲛⲅ ⲛ̄ⲣⲏⲧ <!-- TODO: Fallback translation -->
+## 17.4. جذور الفئة الثانية من المضارع بدون Ⲧⲁⲃⲥⲧⲩϥⲓⲛⲅ ⲛ̄ⲣⲏⲧ
 
 ::: grammar-box
 ⲛⲓϣⲁϫⲱρ ϧⲉⲛ ⲃⲏθϥ ⲙⲡⲓⲛⲁρ ϯⲥϫⲱⲙ ⲉⲧⲃⲏθϥ ϩⲛ -ā
@@ -148,11 +148,11 @@ Weitere Beispiele:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
+| 3\. sg. Pres. P | ⟪पाति⟫ (pā-ti) |
+| 3\. pl. Pres. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::
-Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung: <!-- TODO: Fallback translation -->
+Also some other roots of the second class have no stem gradation:
 
 Beispiele:
 
@@ -162,8 +162,8 @@ Beispiele:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
+| 3\. sg. Pres. Act. | ⟪अत्ति⟫ (« ad- + -ti) |
+| 3\. pl. Pres. Act. | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
 ⟪आस्⟫ 2 Ā "sitzen"
@@ -188,7 +188,7 @@ Beispiele:
 :::
 ## 17.5. ⲛⲓⲣⲟⲩⲧ ⲉⲧⲉ ⲟⲩⲟⲛ ⲥⲛⲁⲩ ⲛ̀ⲥⲩⲗⲗⲁⲃⲏ ⲛ̀ⲧⲟⲟⲩ ⲉϩⲣⲏⲓ ⲉϫⲛ̀ -ⲓ/-ⲓ ⲉⲧⲉ ⲟⲩⲟⲛ ⲟⲩⲁⲃⲥⲧⲩⲫⲩⲛⲅ ⲛ̀ⲧⲉ ⲛⲓⲣⲟⲩⲧ ⲛ̀ⲧⲟⲟⲩ
 
-Mehrere Wurzeln sind in einer Reihe von Formen zweisilbig, d.h. sie haben vor konsonantischer Endung ein -i (bzw. vor einigen Endungen -ī). Diese Wurzeln werden aber trotzdem von den einheimischen Grammatikern und in Wörterbüchern usw. als einsilbig angesetzt. <!-- TODO: Fallback translation -->
+ⲁⲛⲟⲕ ϫⲉⲓⲥ ⲙⲛϣⲟⲡ ϫⲉⲓⲥ ⲛϭⲉⲙⲧⲟⲩⲱⲡ ⲛϣⲟⲡ, ⲉⲧⲥⲁϫⲓ ϩⲛ ⲡⲉⲧⲣⲟϥ, ⲛⲁϫⲱⲙ ϩⲓⲥ ⲛⲁϫⲱⲙ (ⲉⲧⲟⲩϫⲓ ⲛⲁϫⲱⲙ -ī). ⲡⲉⲧⲟⲩϫⲓ ϫⲉ ⲡⲛⲟⲩϣⲏⲙⲓ ⲛϭⲉⲙⲧⲟⲩⲱⲡ ⲛϣⲟⲡ, ⲉⲧⲥⲁϫⲓ ϩⲛ ⲡⲉⲧⲣⲟϥ, ⲛⲁϫⲱⲙ ϩⲓⲥ ⲛⲁϫⲱⲙ.
 
 Beispiele:
 
@@ -290,7 +290,7 @@ Abb.: ⟪दोग्धि⟫
 
 ## 17.7. Übung 1
 
-A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie: <!-- TODO: Fallback translation -->
+ⲁ) ⲛⲓϫⲱⲥ ϧⲛⲟⲩϯ ⲉⲙⲁⲧⲛⲏⲥ ⲉϫⲟⲙ ϧⲛⲓⲥⲁϫ ⲉⲡⲟⲛ ϧⲛⲓϫⲱⲥ ⲉⲙⲁⲧⲛⲏⲥ ⲉϫⲟⲙ ϧⲛⲓⲥⲁϫ ⲉⲡⲟⲛ ϧⲛⲓϫⲱⲥ ⲉⲙⲁⲧⲛⲏⲥ ⲉϫⲟⲙ ϧⲛⲓⲥⲁϫ ⲉⲡⲟⲛ]
 
 ⟪१⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫)
 
@@ -316,7 +316,7 @@ A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie: <!-- TODO: 
 
 ## 17.8. Übung 2
 
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an: <!-- TODO: Fallback translation -->
+ⲡⲓϣⲱⲡⲧⲉ ϯⲛⲁϥ ⲛⲧⲉ ⲡⲓⲙⲟϥ ϫⲱⲛ ⲉⲧⲃⲟⲗ ϫⲱϥ ⲛⲧⲉ ⲡⲓⲙⲟϥ ϫⲱⲛ ⲉⲧⲃⲟⲗ ϫⲱϥ ⲛⲧⲉ ⲡⲓⲙⲟϥ ϫⲱⲛ ⲉⲧⲃⲟⲗ ϫⲱϥ
 
 ⟪१⟫. ⟪अदन्ति⟫
 

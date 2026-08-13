@@ -3,17 +3,15 @@ aside: false
 outline: false
 ---
 
+# Grammatik Index
 
-
-# Γραμματικὸς Ἰνδεξος
-
-Ὁ Γραμματικὸς Ἰνδεξος καταλέγει πάντα τὰ γραμματικὰ θέματα καὶ φαινόμενα ἐκ τοῦ μαθήματος Σανσκριτοῦ καὶ παρέχει ταχὺν πρόσβασιν εἰς τὰς ἰδιαίτερα μαθήσεις.
+Der Grammatik Index listet alle grammatischen Themen und Phänomene aus dem Sanskritkurs auf und ermöglicht einen schnellen Zugriff auf spezifische Lektionen.
 
 <PayerTopicIndex />
 
 <style>
-/* Προσαρμόζει τὴν διάταξιν πρὸς πλήρη εὐρύτητα τοῦ ἰνδεξοῦ */
+/* Adjust layout for full width index */
 .VPDoc {
-padding: 32px 48px 64px !important;
+  padding: 32px 48px 64px !important;
 }
 </style>

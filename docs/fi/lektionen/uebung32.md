@@ -111,18 +111,18 @@ Brahmanit ovat opiskelleet ja opettaneet vedää, toimineet jumalille uhritoimit
 
 ⟪५⟩. **⟪बुद्धपुत्राः⟩ सत्यमजानन्दुःखमरुन्धन्मोक्षं⟩ प्राप्नुवन्⟩ ।⟩ बुद्धपुत्र⟩ इति⟩ बुद्धमार्गभिक्षुरुच्यते⟩ ॥५॥⟩**
 (⟪बुद्धस्य⟩ पुत्राः⟩)
-Buddhan pojat ovat tunnistaneet totuuden, pysäyttäneet kärsimyksen ja saavuttaneet vapautuksen. Munkkia, joka kulkee Buddhan tietä, kutsutaan "Buddhan pojaksi".
+Buddhan pojat ovat tunnistaneet totuuden, pysäyttäneet kärsimyksen ja saavuttaneet vapautuksen. Munkkia, joka kulkee Buddhan tietä, kutsutaan "Buddhan pojaksi". <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung050.webp)
 Kuv.: ⟪सम्पन्नरूपा⟩
 (Kuvan lähde: [Yksityiskohdat](/licenses#uebung050))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Sanamuodon määrittäminen
+## Sanamuodon määrittäminen <!-- TODO: Fallback translation -->
 
-Määritä ja käännä seuraavat sanat:
+Määritä ja käännä seuraavat sanat: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Sanamuoto | Määritelmä | Merkitys |
@@ -146,7 +146,7 @@ Määritä ja käännä seuraavat sanat:
 | ⟪१७⟩. ⟪घ्नता⟩ | Instr. sg. m./n. Part. Präs. | tappajan kautta
 | ⟪१८⟩. ⟪आययन्ति⟩ | 3. pl. P. Ind. Präs. Kaus. | he lähettävät / saapuvat
 | ⟪१९⟩. ⟪एषिता⟩ | Nom. sg. f. Kaus. PPP | toivottu tehty
-| ⟪२०⟩. ⟪आनाय्य⟩ | Absol. Kaus. | tuoduttuaan
+| ⟪२०⟩. ⟪आनाय्य⟩ | Absol. Kaus. | tuoduttuaan <!-- TODO: Fallback translation -->
 
 | ⟪२१⟫. ⟪अनृताय⟫ | Dat. sg. n. | valesta varten |
 | ⟪२२⟫. ⟪पूजया⟫ | Instr. sg. f. | kunnioituksella |
@@ -201,7 +201,7 @@ Määritä ja käännä seuraavat sanat:
 | ⟪७१⟫. ⟪प्रोद्य⟫ | Absol. | kun hän on julistanut |
 | ⟪७२⟫. ⟪लम्भयति⟫ | 3. sg. Ind. Präs. Kaus. | hän säilyttää |
 | ⟪७३⟫. ⟪स्थापिताभिः⟫ | Instr. pl. f. Kaus. PPP | asetettujen kautta |
-| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | (voimista) |
+| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | (voimista) | <!-- TODO: Fallback translation -->
 
 | ⟪७५⟫. ⟪अलम्⟫ | Adv. | tarpeeksi |
 | ⟪७६⟫. ⟪हेतून्⟫ | Akk. pl. m. | syyt |
@@ -219,11 +219,11 @@ Määritä ja käännä seuraavat sanat:
 Kuv.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung051))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Sandhi-harjoitus
 
-Sijoita seuraaviin lauseisiin sulkulausekkeissa olevat sanat ja huomioi Sandhi-säännöt:
+Sijoita seuraaviin lauseisiin sulkulausekkeissa olevat sanat ja huomioi Sandhi-säännöt: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. **⟪रामो⟫ ⟪ग्रामात्⟫ ... ⟪गच्छति⟫ ⟪।⟫** (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪कविगृह⟫)
 - ⟪रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गच्छति⟫ ⟪।⟫
@@ -254,19 +254,19 @@ Sijoita seuraaviin lauseisiin sulkulausekkeissa olevat sanat ja huomioi Sandhi-s
 
 ---
 
-## Lisäsansekrit-käännökset
+## Lisäsansekrit-käännökset <!-- TODO: Fallback translation -->
 
 1\. Kun poika on syntynyt, brahmaninainen lähettää palvelijan brahmanan luokse.
-**⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫**
+**⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫** <!-- TODO: Fallback translation -->
 
 2\. Pyhimys on kärsinyt hänelle aiheutetun pahan.
-**⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪॥⟫**
+**⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 3\. Hyve on miehen koriste.
-**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫**
+**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 4\. Voimakkaat soturit ovat menneet brahmana-kylään.
-**⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪॥⟫**
+**⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 5\. Tyttö itkee.
 **⟪बाला⟫ ⟪रोदिति⟫ ⟪॥⟫**
@@ -284,13 +284,13 @@ Sijoita seuraaviin lauseisiin sulkulausekkeissa olevat sanat ja huomioi Sandhi-s
 
 
 9. Syntymien kiertä ei ole alkua.
-**⟪अनादिकालिकः⟫ ⟪संसारः⟫ ⟪॥⟫**
+**⟪अनादिकालिकः⟫ ⟪संसारः⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 10. Tervetuloa kuningatar!
 **⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
 
 11. Taivaan tähden ihmiset tekevät ansioituneita asioita.
-**⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫**
+**⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 12. Näkemiin!
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
@@ -300,7 +300,7 @@ Sijoita seuraaviin lauseisiin sulkulausekkeissa olevat sanat ja huomioi Sandhi-s
 Kuva: ⟪पुनर्दर्शनाय⟫
 (Kuv lähde: [Details](/licenses#uebung052))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Scholarly Fragment (Stotra)
 
@@ -314,9 +314,9 @@ Korkea Hari on turvani, joka lähetti vihollisensa taivaaseen, antoi omilleen ym
 Kuva: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Kuv lähde: [Details](/licenses#uebung053))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Erzählung: Der Greis und die Affen (Sanskrit-Bālādarśa)
+## Erzählung: Der Greis und die Affen (Sanskrit-Bālādarśa) <!-- TODO: Fallback translation -->
 
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमगच्छत्⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाती⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 
@@ -328,3 +328,4 @@ Eräänä päivänä vanhus meni toiseen kylään ja väsyi matkalla. Lepäääk
 Kuva: ⟪वानरः⟫ ⟪कुपितः⟫
 (Kuv lähde: [Details](/licenses#uebung054))
 :::
+ <!-- TODO: Fallback translation -->

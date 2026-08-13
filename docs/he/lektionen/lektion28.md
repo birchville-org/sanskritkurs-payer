@@ -214,7 +214,7 @@ last_reconstructed: 2026-05-16
 | שורש | קאוסטיב 3. יח' אינדיקטיב פרזנס | משמעות |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | להקים, להציב |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | לגרום ללמידה, ללמד |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | לגרום ללמידה, ללמד | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **צורות לא סדירות:**

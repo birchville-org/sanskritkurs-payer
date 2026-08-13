@@ -19,9 +19,9 @@ status: stable
 
 |   |   |
 | :--- | :--- |
-| **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
-| **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
+| **در وقفه (پوسا) و پیش از آواهای بی‌صدا** | **جایگزینی با آوای بی‌صدای غیردمیده متناظر:** :br **برای نمونه:** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **پیش از آواهای باصدا غیردماغی** | **جایگزینی با آوای باصدای غیردمیده متناظر:** :br **برای نمونه:** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **پیش از آواهای دماغی (خیاشیمی)** | **جایگزینی با آوای دماغی متناظر:** :br **برای نمونه:** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
 استثنا از قاعده فوق:
@@ -32,10 +32,10 @@ status: stable
 
 |   |   |
 | :--- | :--- |
-| **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
-| **+ ś** | **» -cś- oder -cch-** |
-| **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
+| **پیش از آواهای کامگاهی** | **جایگزینی با آوای کامگاهی غیردمیده مربوطه:** :br **یعنی:** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+| **+ ś** | **» -cś- یا -cch-** |
+| **پیش از آواهای برگشته** | **جایگزینی با آوای برگشته غیردمیده مربوطه:** :br **یعنی:** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **پیش از l-** | **جایگزینی با -l:** :br **یعنی:** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 مثال‌ها:
@@ -90,7 +90,7 @@ status: stable
 
 ⟪निरोध⟫ m.: توقف، به حالت سکون درآوردن
 
-* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): موجود، روح
+* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): موجود، روح <!-- TODO: Fallback translation -->
 
 ⟪योग⟫ m.: اتصال، پیوند، اتحاد، کسب؛ یوگا
 
@@ -113,10 +113,10 @@ status: stable
 ::: media
 ![](/images/lekt1603.jpg)
 تصویر: ⟪अहिंसा⟫
-"دستی که چرخی در کف آن قرار دارد، نماد پیمان جین‌ها دربارهٔ آهیمسا است. کلمه در وسط «آهیمسا» است. چرخ نشان‌دهندهٔ دارماچاکراست که نماد عزم برای توقف چرخهٔ تناسخ از طریق پیگیری بی‌وقفه حقیقت و خشونت‌پرهیزی است."
+"دستی که چرخی در کف آن قرار دارد، نماد پیمان جین‌ها دربارهٔ آهیمسا است. کلمه در وسط «آहिंसा» (عدم خشونت) است. چرخ نشان‌دهندهٔ دارماچاکراست که نماد عزم برای توقف چرخهٔ تناسخ از طریق پیگیری بی‌وقفه حقیقت و خشونت‌پرهیزی است."
 (منبع تصویر: [جزئیات](/licenses#lekt1603))
 :::
-## 16.3. Übung <!-- TODO: Fallback translation -->
+## 16.3. تمرین
 
 الف) عبارات زیر را به تاتپوروشه تبدیل کرده و ترجمه کنید:
 

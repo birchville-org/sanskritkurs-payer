@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 4
+# Lecke 4 <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 **Ebben a leckében megtanulják:**
@@ -48,16 +48,16 @@ status: stable
 **A nominativus singularis hímnemhez:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) minden hang előtt áll, kivéve a rövid **-a**
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) **-a** előtt áll, amelyet az Avagraha elhagy (elmarad)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) csak szünetben áll (mondatvége, versszak vége)
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) csak szünetben áll (mondatvége, versszak vége) <!-- TODO: Fallback translation -->
 
-Ahhoz, hogy ezekkel a névmásokkal (sarvanāman n.) mondatokat alkossunk, szükséges még a következő Sandhi-szabályok ismerete:
+Ahhoz, hogy ezekkel a névmásokkal (sarvanāman n.) mondatokat alkossunk, szükséges még a következő Sandhi-szabályok ismerete: <!-- TODO: Fallback translation -->
 
 ### 4.1.2. A végződő -m sandhija
 
 ::: grammar-box
 **A végződő -m mássalhangzó előtt anusvāra-ra (-ṃ) változik. Mondat- vagy versvégén, valamint magánhangzó előtt a -m megmarad.**
 :::
-### 4.1.3. A végződő -e sandhija
+### 4.1.3. A végződő -e sandhija <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1. **a- előtt a -e változatlan marad: az elején álló a- elhagyódik Avagraha-val:**
@@ -91,7 +91,7 @@ Egy másik példa kérdésekre:
 
 > viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Válasz: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Egy nominális mondatban a tárgyat például az elejére helyezhetjük, hogy hangsúlyozzuk a kérdésre való kapcsolódást.)
 
-MEGJEGYZÉS: A válaszok, amelyeket eddigi szanszkrit tudásukkal ilyen kérdésekre adhatnak, természetesen még nem felelnek meg minden szempontból az idiomatikusan jó szanszkritnak.
+MEGJEGYZÉS: A válaszok, amelyeket eddigi szanszkrit tudásukkal ilyen kérdésekre adhatnak, természetesen még nem felelnek meg minden szempontból az idiomatikusan jó szanszkritnak. <!-- TODO: Fallback translation -->
 
 ## 4.2. Gyakorlat
 

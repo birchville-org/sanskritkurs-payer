@@ -7,47 +7,47 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 23
+# Oppitunti 23 <!-- TODO: Fallback translation -->
 
 ## 23.1. Infinitiivi (⟪तुमुन्⟫)
 
 ::: grammar-box
-**Jos sanskritissa halutaan ilmaista, että toiminta tapahtuu jonkin toisen toiminnan vuoksi ("jotta"), voidaan käyttää infinitiivia (⟪तुमुन्⟫) toiminnalle, jonka vuoksi se tapahtuu. Infinitiivi ilmaisee ensisijaisesti tarkoituksen tai aikomuksen:**
+**Jos sanskritissa halutaan ilmaista, että toiminta tapahtuu jonkin toisen toiminnan vuoksi ("jotta"), voidaan käyttää infinitiivia (⟪तुमुन्⟫) toiminnalle, jonka vuoksi se tapahtuu. Infinitiivi ilmaisee ensisijaisesti tarkoituksen tai aikomuksen:** <!-- TODO: Fallback translation -->
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma on mennyt kuuntelemaan mestarin puhetta."
 
-**Huomaa, että infinitiivi — joillakin tiukasti määritetyillä poikkeuksilla lukuun ottamatta — ei voi toimia verbin subjektina tai objektina:**
+**Huomaa, että infinitiivi — joillakin tiukasti määritetyillä poikkeuksilla lukuun ottamatta — ei voi toimia verbin subjektina tai objektina:** <!-- TODO: Fallback translation -->
 
-> "Hän oppii tanssimaan" ei siis voi kääntää infinitiivillä ("tanssia"), vaan on käytettävä verbijohdosta, esim.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "oppia").
+> "Hän oppii tanssimaan" ei siis voi kääntää infinitiivillä ("tanssia"), vaan on käytettävä verbijohdosta, esim.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "oppia"). <!-- TODO: Fallback translation -->
 
-**Infinitiiviä käytetään myös verbeissä ja substantiiveissa merkityksessä "haluta" tai "kaivata", kun infinitiivin ja verbin agenssi (⟪कर्तृ⟫) ovat samat:**
+**Infinitiiviä käytetään myös verbeissä ja substantiiveissa merkityksessä "haluta" tai "kaivata", kun infinitiivin ja verbin agenssi (⟪कर्तृ⟫) ovat samat:** <!-- TODO: Fallback translation -->
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma haluaa kuulla mestarin puheen."
 
 **Infinitiivia käytetään muun muassa verbeissä, jotka tarkoittavat "olla kykenevä", "on olemassa", "tietää" ja "alkaa":**
 
 > ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Pyhimys ei voi tehdä vääryyttä."
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "On ruokaa syötäväksi" (⟪भुज्⟩ 7: Ā: syödä, P: hallita)
+> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "On ruokaa syötäväksi" (⟪भुज्⟩ 7: Ā: syödä, P: hallita) <!-- TODO: Fallback translation -->
 
 **Infinitiivia käytetään myös sanojen "riittävä" ja "kykenevä" sekä substantiivien "taito", "voima" ja "taituruus" kanssa:**
 
 > ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Tulilla on voima polttaa kaiken."
 
-**Sanassa "aika" merkityksessä infinitiiviä voidaan käyttää myös ilmaisuissa kuten "On aika ...":**
+**Sanassa "aika" merkityksessä infinitiiviä voidaan käyttää myös ilmaisuissa kuten "On aika ...":** <!-- TODO: Fallback translation -->
 
 > ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "On aika omistautua ruokailulle" = "On aika syödä"
 
-**Infinitiiviä voidaan käyttää sekä aktiivisesti että passiivisesti. Saksalainen passiivin infinitiivi käännetään sanskritiksi siten, että verbi (erityisesti yleensä ⟪शक्⟫ "kykenevä, pystyä"), josta infinitiivi riippuu, muutetaan passiiviin.**
+**Infinitiiviä voidaan käyttää sekä aktiivisesti että passiivisesti. Saksalainen passiivin infinitiivi käännetään sanskritiksi siten, että verbi (erityisesti yleensä ⟪शक्⟫ "kykenevä, pystyä"), josta infinitiivi riippuu, muutetaan passiiviin.** <!-- TODO: Fallback translation -->
 
-**Infinitiivi käyttäytyy suhteen kohteena verbin muodon tavoin, eli suora objekti (⟪कर्मन्⟫) on aktiivisesti käytetyn infinitiivin tapauksessa akkusatiivissa (⟪द्वितीया⟫) tai sen käännöksen mukaisessa sijamuodossa, jota kyseinen verbivaatimus vaatii; passiivisesti käytetyn infinitiivin tapauksessa suora objekti on nominatiivissa.**
+**Infinitiivi käyttäytyy suhteen kohteena verbin muodon tavoin, eli suora objekti (⟪कर्मन्⟫) on aktiivisesti käytetyn infinitiivin tapauksessa akkusatiivissa (⟪द्वितीया⟫) tai sen käännöksen mukaisessa sijamuodossa, jota kyseinen verbivaatimus vaatii; passiivisesti käytetyn infinitiivin tapauksessa suora objekti on nominatiivissa.** <!-- TODO: Fallback translation -->
 
 esim.
 
 > ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Pyhimys ei voi tehdä väärinkäytöstä."
 
-**Toisessa persoonassa ⟪अर्ह्⟫ + infinitiiviä käytetään usein lempeänä käskynä: "Sinun pitäisi".**
+**Toisessa persoonassa ⟪अर्ह्⟫ + infinitiiviä käytetään usein lempeänä käskynä: "Sinun pitäisi".** <!-- TODO: Fallback translation -->
 
-**Jos infinitiivi riippuu substantiivista, sitä ei saa yhdistää tähän substantiiviin yhdyssanaksi. Poikkeuksena ovat Bahuvrīhi-yhdyssanat, joiden toinen jäsen on ⟪काम⟫ tai ⟪मनस्⟫:**
+**Jos infinitiivi riippuu substantiivista, sitä ei saa yhdistää tähän substantiiviin yhdyssanaksi. Poikkeuksena ovat Bahuvrīhi-yhdyssanat, joiden toinen jäsen on ⟪काम⟫ tai ⟪मनस्⟫:** <!-- TODO: Fallback translation -->
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "jonka halu puhua on; joku, joka haluaa puhua".
 :::
@@ -60,7 +60,7 @@ esim.
 
 **korkeim juuri + -i- + -tum**
 
-**Juuren loppukonsonantit muuttuvat -tum-etuliitteessä samojen sääntöjen mukaisesti kuin PPP:n -ta-liitteen edellä.**
+**Juuren loppukonsonantit muuttuvat -tum-etuliitteessä samojen sääntöjen mukaisesti kuin PPP:n -ta-liitteen edellä.** <!-- TODO: Fallback translation -->
 
 **Prepositioverbit muodostavat infinitiivin samalla tavalla kuin yksinkertaiset juuret.**
 :::
@@ -70,7 +70,7 @@ Esimerkit:
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
-Yhdyssanaliitteen -i- käytöstä ei voi muodostaa tarkkoja sääntöjä. Periaatteessa yhdyssanaliitteen jakautuminen infinitiivissä vastaa tulevan aikamuodon jakautumista.
+Yhdyssanaliitteen -i- käytöstä ei voi muodostaa tarkkoja sääntöjä. Periaatteessa yhdyssanaliitteen jakautuminen infinitiivissä vastaa tulevan aikamuodon jakautumista. <!-- TODO: Fallback translation -->
 
 Niille tähän mennessä opetuissa juurissa seuraavat infinitiivit ovat erityisesti huomioitava:
 
@@ -79,14 +79,14 @@ Niille tähän mennessä opetuissa juurissa seuraavat infinitiivit ovat erityise
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Juurin mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Juurin mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
 
 ## 23.3. Infinitiivi (⟪तुमुन्⟫) aiemmin opetuista juurista
 
@@ -157,7 +157,7 @@ Die anderen Juurin mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar
 
 ⟪सामान्य⟫ n.: yhtäsuuruus, vastaavuus
 
-⟪अधिक⟫ ⟪३⟫ : ylimääräinen, lisä-, suurempi, parempi, poikkeuksellinen
+⟪अधिक⟫ ⟪३⟫ : ylimääräinen, lisä-, suurempi, parempi, poikkeuksellinen <!-- TODO: Fallback translation -->
 
 ⟪विशेष⟫ m.: erityisyys, spesifikaatio, differentia specifica
 
@@ -221,7 +221,7 @@ C) Seuraavat verbijuuret joko vakiintuneella tai ilman väliääntä:
 4.  ⟪मुह्⟫ (3 muotoa!)
 5.  ⟪सह्⟫
 
-D) Käännä ja ratkaise sandhikombinaatiot:
+D) Käännä ja ratkaise sandhikombinaatiot: <!-- TODO: Fallback translation -->
 
 ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫
 
@@ -258,7 +258,7 @@ C) Käännä seuraava ⟪सुभाषितम्⟫
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
 
-Selitys: ⟪हीन⟫ ⟪३⟫: PPP verbistä ⟪हा⟫ 3: jättää ; ⟪धर्मे⟫ = lokatiivin yksikkö " ...ssa"
+Selitys: ⟪हीन⟫ ⟪३⟫: PPP verbistä ⟪हा⟫ 3: jättää ; ⟪धर्मे⟫ = lokatiivin yksikkö " ...ssa" <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2302.webp)
@@ -266,25 +266,25 @@ Kuvateksti: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च�
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Kuvälähde: [Tiedot](/fi/licenses#lekt2302))
 :::
-## 23.6. Toistoharjoitus
+## 23.6. Toistoharjoitus <!-- TODO: Fallback translation -->
 
 Käytä apuvälineitä kielletty!
 
 A) Käännä sanskritiksi:
 
-1\. Viisi (⟪पञ्च⟩) "kivun" ovat: tiedottomuus, väärä usko itseen, kiintymys, vastenmielisyys ja kehoon sitoutuminen.
+1\. Viisi (⟪पञ्च⟩) "kivun" ovat: tiedottomuus, väärä usko itseen, kiintymys, vastenmielisyys ja kehoon sitoutuminen. <!-- TODO: Fallback translation -->
 
 2\. Tietoa voi hankkia opettajalle tottelemisesta, suuresta summasta rahaa tai tiedon vaihdosta. Neljättä tietonhankintatapaa ei ole olemassa.
 
-3\. Matalainen puhuu, mutta ei toimi; hyvä ihminen ei puhu, vaan toimii vain.
+3\. Matalainen puhuu, mutta ei toimi; hyvä ihminen ei puhu, vaan toimii vain. <!-- TODO: Fallback translation -->
 
-4\. Vedan aputieteet ovat: ääntämisooppi, rituaaliooppi, kielioppi, merkitysooppi, metriikka (⟪छन्दस्⟫) ja kalenteriooppi.
+4\. Vedan aputieteet ovat: ääntämisooppi, rituaaliooppi, kielioppi, merkitysooppi, metriikka (⟪छन्दस्⟫) ja kalenteriooppi. <!-- TODO: Fallback translation -->
 
 5\. Jooga on ajatteluelimen toiminnan pysäyttäminen.
 
 6\. Oikeus voittaa, ei väärinkäsitys; totuus voittaa, ei valhe; kärsivällisyys voittaa, ei viha; Jumala voittaa, ei vastajumala. (Passiivi)
 
-7\. "Sauva" aiheuttaa filosofian, vedan ja taloustieteen hankkimisen sekä turvallisen omistuksen. Tämän sauvan johtaminen on politiikkaa.
+7\. "Sauva" aiheuttaa filosofian, vedan ja taloustieteen hankkimisen sekä turvallisen omistuksen. Tämän sauvan johtaminen on politiikkaa. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2304.jpg)
@@ -294,19 +294,19 @@ Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪�
 :::
 8\. Vaimo, poika ja orja ovat perinteiden mukaan omistamattomia (⟪त्रयस्⟫). Mille näille tulee, se kuuluu sille, jolle nämä (kolme) kuuluvat.
 
-9\. Hyttynen toivoo haavaa, hallitsija toivoo omaisuutta, alhainen toistaa kiistaa, hyvä ihminen toivoo rauhaa.
+9\. Hyttynen toivoo haavaa, hallitsija toivoo omaisuutta, alhainen toistaa kiistaa, hyvä ihminen toivoo rauhaa. <!-- TODO: Fallback translation -->
 
 10\. Brahminin erityinen velvollisuus on: opiskelu, opettaminen, uhraaja uhritarkoituksessa, toimeksiannosta uhraten, antaminen ja vastaanottaminen; kṣatriyan: opiskelu, uhraaja uhritarkoituksessa, antaminen, aseiden avulla eläminen, olentojen suojeleminen; vaiśyan: opiskelu, uhraaja uhritarkoituksessa, antaminen, maanviljely, karjanhoito ja kaupankäynti; śūdran: kaksinkertaisesti syntyneiden kuuntelu, taloudellinen toiminta (⟪कर्म⟫) käsityöläisten ja esittäjien toimesta.
 
 11\. Tietoisuuden selvittäminen tapahtuu ystävällisen hyvän tahdon, myötätunnon, ilon ja tasapainoisuuden meditatiivisen kehityksen ansiosta, joilla on kohteenaan ilo ja kärsimys sekä hyvä ja paha.
 
-12\. Köyhillä on monta poikaa, vaikka he eivät sitä toivo. Rikkailla ei ole yhtään poikaa. Kohtalon liike on omituinen.
+12\. Köyhillä on monta poikaa, vaikka he eivät sitä toivo. Rikkailla ei ole yhtään poikaa. Kohtalon liike on omituinen. <!-- TODO: Fallback translation -->
 
 13\. Ketä ei surmaa naisen ruumis (⟪वपुस्⟩ n.), jolla on hoikka vyötärö, leveät lantiot, punaiset huulet, mustat silmät, kaareva napa ja pystyt rinnat.
 
 B) Taivuta tuntemissasi sijamuodoissa ⟪क्षत्रिया⟩ f.
 
-C) Anna verbumin perusmuodot (merkitys, preesensluokka, moodi, 3. sg. preesens indikatiivi, 3. sg. passiivi, PPP, absolutiivit, infinitiivi) seuraaville verbeille:
+C) Anna verbumin perusmuodot (merkitys, preesensluokka, moodi, 3. sg. preesens indikatiivi, 3. sg. passiivi, PPP, absolutiivit, infinitiivi) seuraaville verbeille: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪सह्⟫
 
@@ -318,9 +318,9 @@ C) Anna verbumin perusmuodot (merkitys, preesensluokka, moodi, 3. sg. preesens i
 
 ::: deleteme-box
 
-**lekt2301:** Chiang Mai, Thaimaa = เชียงใหม่, ประเทศไทย [Kuvälähde: Wikipedia. GNU FDLicense]
+**lekt2301:** Chiang Mai, Thaimaa = เชียงใหม่, ประเทศไทย [Kuvälähde: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Kuvälähde: zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Haettu 13.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, ei muokkauksia)]
+**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Kuvälähde: zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Haettu 13.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
 
 **lekt2303:** ทำบุญ = ⟪पुण्यकरणम्⟫, Thaimaa = ประเทศไทย [Kuvälähde: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Haettu 13.12.2008. -- Creative Commons -lupa (Nimeäminen, ei muokkauksia)]
 

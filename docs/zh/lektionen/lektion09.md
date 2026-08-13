@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# Lektion 9
+# 第9課
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->

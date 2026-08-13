@@ -4,7 +4,7 @@
 
 ![](/images/schrift006.webp)
 
-Anusvāra ṃ: punctum super litteram. quod praecedit sonum: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
+Anusvāra ṃ: punctum super litteram. quod praecedit sonum: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫ <!-- TODO: Fallback translation -->
 
 Scriptura:
 

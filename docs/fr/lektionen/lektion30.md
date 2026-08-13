@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 30
+# Leçon 30
 
 ## 30.1. La 9e classe de présent (⟪kryādi⟫ = "⟪krī⟫ etc.")
 
@@ -134,7 +134,7 @@ L'optatif (⟪लिङ्⟫), l'imparfait (⟪लङ्⟫), l'aoriste (⟪ल
 
 **Präsensstamm + -i- (» -e-) + -y- + Sekundärendung**
 :::
-Exemples :
+Exemples : <!-- TODO: Fallback translation -->
 
 1\. Classe du présent :
 
@@ -226,7 +226,8 @@ Exemples :
 | **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 
@@ -244,7 +245,7 @@ Exemples :
 | **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
-## 30.5. Sandhi von auslautendem -r
+## 30.5. Sandhi von auslautendem -r <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **À l'exception de -ar, les mêmes règles de Sandhi s'appliquent au -r final qu'au -s final.**
@@ -471,7 +472,7 @@ B) Traduisez les phrases suivantes et résolvez les composés en sanskrit :
 ⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
 ⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
 
-## 30.8. Wiederholungsübung zur Formenlehre
+## 30.8. Wiederholungsübung zur Formenlehre <!-- TODO: Fallback translation -->
 
 Déterminez et traduisez les formes de mots suivantes :
 

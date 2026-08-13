@@ -93,7 +93,7 @@ Ejemplos:
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Raízn mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Raízn mit -ṛ- an vorletzter Stelle kann so gebildet werden: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -141,10 +141,14 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (en el P, ⟪गम्⟫ tiene el aorista temático)**
 
 2.  ⟪पद्⟫ 4Ā es regular (p. ej. ⟪अपत्सि⟫), pero en la 3.sg.Ā tiene la forma del aorista de raíz pasiva:
-    ⟪अपादि⟫ "él fue"
+::: indent
+⟪अपादि⟫ "él fue"
+:::
 
 3.  ⟪बुध्⟫ Ā puede, en la 3.sg.Ā, opcionalmente adoptar la forma del aorista de raíz pasiva:
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "él reconoció"
+::: indent
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "él reconoció"
+:::
 :::
 ## 57.2. Ejercicio
 

@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # درس ۲۴
 
@@ -96,7 +96,7 @@ Raksha bandhan is celebrated with fervour and joy all across India. This festiva
 :::
 کاربردهای دیگر داتیو بعداً.
 
-## 24.2. Bildung des حالت برای (⟪چَتورتھی⟫) <!-- TODO: Fallback translation -->
+## 24.2. ساخت حالت برایی (⟪चतुर्थी⟫)
 
 ::: grammar-box
 **پایه‌های منظم داتیو عبارتند از:**
@@ -104,11 +104,11 @@ Raksha bandhan is celebrated with fervour and joy all across India. This festiva
 * **مفرد: -e ; پایه‌های مؤنث که به واکه ختم می‌شوند: -ai**
 * **جمع: داتیو و ابلیت ⟪पञ्चमी⟫: -bhyas**
 :::
-### 24.2.1. Konsonantische Stämme <!-- TODO: Fallback translation -->
+### 24.2.1. بن‌های همخوانی
 
 ::: grammar-box
 
-| | Dativ Singular | Dativ Plural |
+| | مفرد حالت برایی | جمع حالت برایی |
 | :--- | :--- | :--- |
 | ⟪यजन्त्⟫ | ⟪यजते⟫ :bryaja-t-e | ⟪यजद्भ्यस्⟫ :braus yaja-t-bhyas |
 | ⟪महान्त्⟫ | ⟪महते⟫ | ⟪महद्भ्यस्⟫ |
@@ -120,10 +120,10 @@ Raksha bandhan is celebrated with fervour and joy all across India. This festiva
 
 ::: grammar-box
 
-| | Maskulinum / Neutrum | Femininum |
+| | مذکر / خنثی | مؤنث |
 | :--- | :--- | :--- |
-| **Dativ Singular** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
-| **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
+| **مفرد حالت برایی** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
+| **جمع حالت برایی** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
 ### 24.2.3. ضمایر اشاره
@@ -132,10 +132,10 @@ Raksha bandhan is celebrated with fervour and joy all across India. This festiva
 
 | | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
-| | **Dat. pl.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
-| **Femininum** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
-| | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
+| **مذکر / خنثی** | **مفرد برایی** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
+| | **جمع برایی** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
+| **مؤنث** | **مفرد برایی** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
+| | **جمع برایی** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
 ### 24.2.4. ریشه‌های مصوت‌دار
@@ -165,7 +165,7 @@ Raksha bandhan is celebrated with fervour and joy all across India. This festiva
   * مفرد نصب مفعولی **⟪धेनवे⟫** یا **⟪धेन्वै⟫**
   * جمع نصب مفعولی **⟪धेनुभ्यस्⟫**
 :::
-## 24.3. Sandhi von auslautendem -ai und -au <!-- TODO: Fallback translation -->
+## 24.3. ساندھیِ -ai و -au پایانی
 
 ::: grammar-box
 **ساندھی -ai و -au پایانی**
@@ -179,7 +179,7 @@ Raksha bandhan is celebrated with fervour and joy all across India. This festiva
 ::: indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "به این آتش"
 :::
-## 24.4. Wortliste <!-- TODO: Fallback translation -->
+## 24.4. فهرست واژگان
 
 ⟪अलम्⟫ قید: کافی، به اندازه کافی، (برای کسی یا چیزی) توانمند؛ با حالت مفعولی مستقیم: کافی برای، به اندازه کافی برای، شایسته‌ی؛ با حالت ابزار: کافی با، دست از ... بردار، مثلاً ⟪अलं⟫ ⟪क्रोधेन⟫ = "کافی با خشم = از خشم دست بردار!"
 
@@ -357,7 +357,7 @@ Raksha bandhan is celebrated with fervour and joy all across India. This festiva
 
 هـ) در جمله الف ۶، ساختار درود را با یک ساختار معادل با -⟪अर्थ⟫ جایگزین کنید.
 
-## 24.6. Weitere تمرینen zum Gebrauch des Dativ <!-- TODO: Fallback translation -->
+## 24.6. تمرین‌های بیشتر دربارهٔ به‌کارگیری حالت داتیو
 
 ترجمه به سنسکریت:
 
@@ -423,7 +423,7 @@ Raksha bandhan is celebrated with fervour and joy all across India. This festiva
 
 **lekt2408:** "داستان‌گوی سانفرانسیسکو جف بیرز داستانی را با ساکنین چنری، یک روستای ایرولا به اشتراک می‌گذارد. داستان‌گوی جیوا راگوناتث برای روستاییان به زبان تامیل ترجمه می‌کند." [منبع تصویر: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- دسترسی در ۲۰۰۸-۱۲-۱۴. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)]
 
-**lekt2409:** [منبع تصویر: Redtigerxyz / ویکی‌پدیا، مجوز GNU FDLicense]
+**lekt2409:** [منبع تصویر: Redtigerxyz / ویکی‌پدیا، مجوز GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt2410:** ⟪नरसिंह⟫ پاره می‌کند ⟪हिरण्यकशिपु⟫، برگه‌ای از نسخه خطی ⟪भागवतपुराण⟫ [منبع تصویر: ویکی‌پدیا، مالکیت عمومی]
 

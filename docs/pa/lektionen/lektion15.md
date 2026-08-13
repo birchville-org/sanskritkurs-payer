@@ -42,7 +42,7 @@ status: stable
 > ਨਾਮ. ਬ. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
 > ਆਦਿ⟪।⟫
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. ਵਿਸ਼ੇਸ਼ਣ-ਸੰਯੁਕਤ ਸ਼ਬਦ ਜਿਨ੍ਹਾਂ ਦਾ ਪਹਿਲਾ ਅੰਗ ਵਿਸ਼ੇਸ਼ਣ ਜਾਂ ਸਮਾਸ ਵਿੱਚ ਹੈ = ਕਰਮਧਾਰਯ ਪੁ. = ⟪कर्मधारय⟫
@@ -71,16 +71,20 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   ਜੇਕਰ ਕਰਮਧਾਰਯ ਇੱਕ ਤੁਲਨਾ ਦਰਸਾਉਂਦਾ ਹੈ, ਤਾਂ ਜਿਸ ਨਾਲ ਤੁਲਨਾ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ, ਉਹ ਸੰਯੁਕਤ ਸ਼ਬਦ ਦੇ ਪਿਛਲੇ ਅੰਗ ਵਿੱਚ ਹੁੰਦਾ ਹੈ:
 
-    ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ਸਿੰਘ ਵਰਗਾ ਇੱਕ ਮਰਦ"  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ਬਾਘ ਵਰਗਾ ਇੱਕ ਮਰਦ"
+::: indent
+⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ਸਿੰਘ ਵਰਗਾ ਇੱਕ ਮਰਦ"
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ਬਾਘ ਵਰਗਾ ਇੱਕ ਮਰਦ"
+:::
 
 *   ਪਰ ਜੇਕਰ ਕਰਮਧਾਰਯ ਇੱਕ ਸਮਾਸ (ਪਿਛਲੇ ਅੰਗ ਨੂੰ ਇੱਕ ਨਾਂਵ ਦੁਆਰਾ ਨੇੜਿਓਂ ਨਿਰਧਾਰਤ ਕਰਨਾ) ਦਰਸਾਉਂਦਾ ਹੈ, ਤਾਂ ਨੇੜਿਓਂ ਨਿਰਧਾਰਤ ਕਰਨ ਵਾਲਾ ਅੰਗ ਪਹਿਲੇ ਅੰਗ ਵਿੱਚ ਹੁੰਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ ਤਤਪੁਰੁਸ਼ ਵਿੱਚ ਅੰਗਾਂ ਦੀ ਕ੍ਰਮਵਾਰਤਾ ਲਈ ਸਧਾਰਨ ਨਿਯਮ ਮੰਗਦਾ ਹੈ:
 
-    ⟪नरसिंहः⟫ ਨੂੰ ਇਸ ਤਰ੍ਹਾਂ ਵੀ ਵਿਸਥਾਰਿਆ ਜਾ ਸਕਦਾ ਹੈ: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "ਇੱਕ ਸਿੰਘ, ਜੋ (ਅਸਲ ਵਿੱਚ) ਇੱਕ ਮਰਦ ਹੈ⟪।⟫"
+::: indent
+⟪नरसिंहः⟫ ਨੂੰ ਇਸ ਤਰ੍ਹਾਂ ਵੀ ਵਿਸਥਾਰਿਆ ਜਾ ਸਕਦਾ ਹੈ: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "ਇੱਕ ਸਿੰਘ, ਜੋ (ਅਸਲ ਵਿੱਚ) ਇੱਕ ਮਰਦ ਹੈ⟪।⟫"
+:::
 
     ਅਜਿਹੇ ਸਮਾਸਿਕ ਕਰਮਧਾਰਯ ਨੂੰ ਸਥਾਨਿਕ ਟਿੱਪਣੀਆਂ ਵਿੱਚ, ਉੱਪਰੋਕਤ ਉਦਾਹਰਣ ਵਾਂਗ, ⟪एव⟫ ਦੁਆਰਾ ਵਿਸਥਾਰਿਆ ਜਾਂਦਾ ਹੈ⟪।⟫
 

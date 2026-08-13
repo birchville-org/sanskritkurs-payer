@@ -29,7 +29,7 @@ Una forma de formar oraciones pasivas en pasado es la construcción con el llama
 ### 12.1.1. Esquema para verbos transitivos
 
 ::: grammar-box
-**Agente (kartṛ) en Instrumental (tṛtīyā) -- Objeto directo (karman) en Nominativooo (prathamā) -- Participio de Perfecto Pasivo**
+**Agente (kartṛ) en Instrumental (tṛtīyā) -- Objeto directo (karman) en Nominativoooooo (prathamā) -- Participio de Perfecto Pasivo**
 
 En este caso, el PPP concuerda con el objeto en número, caso y género.
 
@@ -50,12 +50,12 @@ En este caso, el PPP concuerda con el agente en número, caso y género. El Part
 
 Ejemplo:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "La mujer kṣatriya ha ido a la ciudad."
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ### 12.1.3. Esquema II para verbos intransitivos y verbos de movimiento
 
 ::: grammar-box
-**Agente (kartṛ) en Instrumental (tṛtīyā) -- PPP en Nominativooo Singular Neutro**
+**Agente (kartṛ) en Instrumental (tṛtīyā) -- PPP en Nominativoooooo Singular Neutro**
 
 Ejemplo:
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Por el kṣatriya se fue (a la ciudad)) = El kṣatriya se fue (a la ciudad).“
@@ -86,7 +86,7 @@ Se presentan las siguientes formas de formación (¡para cada raíz se debe apre
 Las raíces femeninas se forman con: **-tā**, **-itā**, **-nā**; el neutro se declina como **phala** n.
 :::
 
-### 12.3.1. PPP en -ta (kta)
+### 12.3.1. PPP en -ta (kta) &lt;!-- TODO: Fallback translation --&gt;
 
 #### 12.3.1.1. Sin vocal de unión -i- (aniṭ)
 
@@ -108,11 +108,11 @@ Una lista de raíces *aniṭ* se encuentra en Kielhorn, *Grammatik* § 298.
 | **nī** 1 U:br(⟪नी⟫) | **nī-ta** :br(⟪नीत⟫) |
 | **man** 4 Ā:br(⟪मन्⟫) | **ma-ta** (\*mn-ta):br(⟪मत⟫) |
 | **su** 5 U:br(⟪सु⟫) | **su-ta** :br(⟪सुत⟫) |
-| **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (\< \*gm-ta):br(⟪गत⟫) |
+| **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (\&lt; \*gm-ta):br(⟪गत⟫) |
 | **ji** 1 P:br(⟪जि⟫) | **ji-ta** :br(⟪जित⟫) |
 | **śru** 5 P:br(⟪श्रु⟫) | **śru-ta** :br(⟪श्रुत⟫) |
 | **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta** :br(⟪कृत⟫) |
-| **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
+| **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\&lt; \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
 #### 12.3.1.2. Con vocal de unión -i- (seṭ)
@@ -127,7 +127,7 @@ Una lista de raíces *aniṭ* se encuentra en Kielhorn, *Grammatik* § 298.
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta** :br(⟪रक्षित⟫) |
-| **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
+| **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\&lt; \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
 ## 12.4. Leyes de la combinación de sonidos en la palabra
@@ -141,7 +141,7 @@ En las formaciones *aniṭ* se deben tener en cuenta las siguientes leyes de la 
 | **2. ct se reemplaza por kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = **⟪मुक्त⟫** |
 | **3. śt se reemplaza por ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
 | **4. Oclusiva sonora no aspirada – excepto j – se reemplaza ante un sonido sordo por la correspondiente oclusiva sorda no aspirada:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (importante para la 2. clase de presente) |
-| **5. jt se reemplaza por kt o ṣṭ (¡no facultativo!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **5. jt se reemplaza por kt o ṣṭ (¡no facultativo!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\&lt; \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Oclusiva sonora aspirada + oclusiva sorda » oclusiva sonora no aspirada + oclusiva sonora aspirada (Ley del aspirado de Bartholomae):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
 | **7. h-t se reemplaza por ḍh con alargamiento de una i o u precedente; o por gdh. Ante un tal ḍh, a se reemplaza por o, raramente por ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::

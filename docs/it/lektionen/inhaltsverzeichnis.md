@@ -536,7 +536,7 @@
 
 ## [Lezione 43](lektion43)
 
-*   43\.1. Desinenze personali della 2. persona (⟪मध्यमः⟫ = "media \<Persona\>")
+*   43\.1. Desinenze personali della 2. persona (⟪मध्यमः⟫ = "media \&lt;Persona\&gt;")
 *   43\.2. Formazione delle forme verbali della 2. persona (⟪मध्यमः⟫)
     *   43\.2.1. Temi tematici
 *   43\.3. Il pronome personale di seconda persona

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 55
+# 第55課
 
 ## 55.1. a-不定过去时（带主题元音的不定过去时）
 

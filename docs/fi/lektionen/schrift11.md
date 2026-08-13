@@ -2,11 +2,11 @@
 
 ### Numerot
 
-Seuraavat kaksi kirjoitustapaa ovat yleisiä:
+Seuraavat kaksi kirjoitustapaa ovat yleisiä: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift026.jpg)
 
-Vaihtoehto Kielhornin grammatikan fontissa:
+Vaihtoehto Kielhornin grammatikan fontissa: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift027.jpg)
 
@@ -20,7 +20,7 @@ B) Lue ja translitteroi:
 
 ⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
 
-### Sanskritin äänteiden luokittelu (lähteestä: Kielhorn: Grammatik der Sanskritsprache)
+### Sanskritin äänteiden luokittelu (lähteestä: Kielhorn: Grammatik der Sanskritsprache) <!-- TODO: Fallback translation -->
 
 ![](/images/schrift028.webp)
 

@@ -607,7 +607,7 @@ _Canis aureus_, கலாடோப் கஜ்ஜியார் புனி�
 
 ::: deleteme-box
 
-**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [படத்தின் மூலம்: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- 2009-01-13 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (நaming)]
+**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [படத்தின் மூலம்: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- 2009-01-13 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (நaming)] <!-- TODO: Fallback translation -->
 
 **lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [படத்தின் மூலம்: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- 2009-01-13 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (நaming)]
 

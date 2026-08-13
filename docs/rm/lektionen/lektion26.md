@@ -5,7 +5,7 @@ lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecziun 26
 
@@ -22,7 +22,7 @@ A quest da quest Sandhi suandassan **⟪दुस्⟫-** avant gutturals e lab
 
 aber: **⟪तासाम्⟫** (*tā-sām*)
 :::
-## 26.2. Gesetz der Cerebralisierung von Dentalen im Wortinneren
+## 26.2. Gesetz der Cerebralisierung von Dentalen im Wortinneren <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Las consonantes oclusivas dentales vegnan sustituidas da las correspondentas consonantes retroflesas suenter consonantas retroflesas (incluì **-ṣ-**):
@@ -31,7 +31,7 @@ Las consonantes oclusivas dentales vegnan sustituidas da las correspondentas con
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
   *(**ṣ** per ilavant **i**, **ṭh** per ilavant **ṣ**)*
 :::
-## 26.3. Wortsandhi per palatals, gutturals, ṣ, h + -s
+## 26.3. Sandhi da las paraulas per palatals, gutturals, ṣ, h + -s
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
@@ -57,7 +57,7 @@ Ezempels: vesair giu il futur da  ⟪दुह्⟫ e  ⟪बुध्⟫
 Abb.: Hermann Graßmann
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi per -m, -n avant sibilants
+## 26.5. Sandhi da las paraulas per -m, -n avant sibilants <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Davant da consonantas fricativas vegnan -n e -m sustituids da -ṃ-:**
@@ -87,7 +87,7 @@ p. ex. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫
 Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
 (Sursa d'imaginas: [Detagls](/rm/licenses#lekt2602))
 :::
-## 26.7. Formaziun dal futur simpel (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.7. Formaziun dal futur simpel (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Futur simpel:**

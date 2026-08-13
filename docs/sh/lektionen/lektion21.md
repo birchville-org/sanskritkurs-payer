@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 21
+# Lekcija 21
 
 ## 21.1. Weitere Präsensstämme auf -nt
 
@@ -40,7 +40,8 @@ Beispiele:
 1\. Präsensklasse:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "ein mit einem Opfer verehrender"
+**yajant**
+⟪यजन्त्⟫ "ein mit einem Opfer verehrender"
 :::
 ::: grammar-box
 

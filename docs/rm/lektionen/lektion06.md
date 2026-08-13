@@ -5,9 +5,9 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 6
+# Lecziun 6
 
 ::: deleteme-box
 **En questa lecziun imparais Vus:**
@@ -90,7 +90,7 @@ Esempel **yaj** = ⟪यज्⟫ = "venerar cun in sacrifici", "sacrifitgar":
   - 3. sg. Ā. **yajate** = ⟪यजते⟫
   - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. Furmaziun dal preschents
+## 6.5. Furmaziun dal preschents <!-- TODO: Fallback translation -->
 
 ### 6.5.1. Verb da la 6avla classa da prescha (tudādi = ⟪तुदादि⟫ = "tud e.u.v.")
 
@@ -129,12 +129,12 @@ Avant vocals vegn en l'intern da la parola **e** sustituid cun **ay**, **o** cun
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verb da la 4. classa dal temp preschent (divādi = ⟪divādi⟫ = "div e.u.v.")
+### 6.5.3. Verb da la 4. classa dal temp preschent (divādi = ⟪divādi⟫ = "div e.u.v.") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **stam dal presens = radich en grad bass (en la quala ella è enaquadrada) + ya-**
 
-| Rad (dhātu m.):br⟪धातु⟫ | Imprima da preschentar |
+| Wurzel (dhātu m.):br⟪धातु⟫ | Imprima da preschentar |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
@@ -147,7 +147,7 @@ Avant vocals vegn en l'intern da la parola **e** sustituid cun **ay**, **o** cun
 Il **a** en las suffissas da furmaziun dal stem da las classes da present vegnes numnà **vocal temaic**. Classes da present cun **a** en il suffiss da furmaziun dal stem vegnes perquai numnadas "classes da present temaicas".
 :::
 
-## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
+## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 - **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Tge fa N. N.?"
@@ -215,7 +215,7 @@ En Sanscrit vegnan ils verbs donads en la **furma da radischa**. Il num suenter 
 (Fonte da l'imagines: Wikipedia, CC-BY-SA 2.5)
 :::
 
-## 6.9. Wiederholungsübung
+## 6.9. Exercizi da repetiziun
 
 **A) Exercizi da completament: Formulai questions, a las qualas las proposiziuns, che Vus elaborais suenter ils suandants exercizis da completament, furman las respostas:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
@@ -237,9 +237,13 @@ En Sanscrit vegnan ils verbs donads en la **furma da radischa**. Il num suenter 
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **B) Metta en il plural:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

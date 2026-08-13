@@ -127,7 +127,7 @@ devī + umā » devy umā "อุมาเป็น/คือเทพี" = ⟪
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-เช่น
+เช่น <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "ไวศยะคือผู้เกิดสองครั้ง" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

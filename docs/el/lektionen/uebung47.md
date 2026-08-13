@@ -158,4 +158,4 @@ A) Μεταφράστε:
 ![](/images/uebung075.webp)
 Εικ.: ⟪माद्यत⟫
 (Πηγή εικόνας: [Details](/licenses#uebung075))
-:::
+::: <!-- TODO: Fallback translation -->

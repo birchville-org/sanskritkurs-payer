@@ -5,7 +5,7 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα ηʹ
 
@@ -44,7 +44,7 @@ last_reconstructed: 2026-05-07
   - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » κλίσις (συγκριτικός, ὑπερθετικός), σύγκρισιν
   - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » ἀριθμητικὰ τάξεως (πρ�τος κτλ.)
   - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » ἀντὶ πτώσεων (ὡς **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (σχηματισμοὶ cvit ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
+  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (σχηματισμοὶ cvit ⟪च्वि⟫, **-sāt** -⟪सात्⟫) <!-- TODO: Fallback translation -->
 
 **Διαίρεσις κατὰ τὸν ἀμπλαύτα:**
 - **guṇya** (⟪गुण्य⟫): σχηματισμὸς ὑψηλοῦ σταθμοῦ
@@ -71,7 +71,7 @@ last_reconstructed: 2026-05-07
 | **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" | <!-- TODO: Fallback translation -->
 
 ### 8.3.2. Τὸ ἐπίθημα -ana οὐδέτερον (kṛt)
 
@@ -87,13 +87,13 @@ last_reconstructed: 2026-05-07
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
 | **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
 | **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Πηγή εικόνας: [Λεπτομέρειες](/grc/licenses#lekt0801))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: note-box
 **"Δάρσαν"** ἢ **"Ντάρσανα"** ἐστὶν ὅρος ἐκ τοῦ Ἰндуισμοῦ περὶ τῆς ὄψεως καὶ θεωρίας τοἱ ἁγίου καὶ θείου. Ὑπὸ *Ντάρσανα* νοεῖται, π.χ., ἡ ἐπίσημος συνάντησις μαθητοῦ καὶ διδασκάλου, ὅπου ὁ μαθητὴς ὑπὸ τοῦ διδασκάλου προσκαλεσθεὶς ἦλθεν. Μπορεῖ δὲ καὶ τὸ *βυθίζεσθαι* ἐν τῇ θεάσει εἰκόνος θεοῦ σημαίνει. Ἡ τελευταία αὕτη σημασία ἐστὶν ἡ ἐν τῷ σήμερον λόγῳ τῆς Ἰνδικῆς γλώσσης ἡ συνηθισμένη. Σὺν τῷ Ματά Ἀμριτανανδαμάγι, Ντάρσαν σημαίνει τὴν περιπτύξιν ὑπὸ τοῦ Γκούρου.
@@ -115,7 +115,7 @@ Fig.: Maa Batakali Darshan, Puri, Orissa
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" | <!-- TODO: Fallback translation -->
 
 ::: media
 **Τὸ Πρωτόγονον Μάντρα Ὄμ (⟪ॐ⟫) ἐν ποικίλαις Ἰνδικαῖς γραφαῖς**
@@ -145,7 +145,7 @@ Fig.: Maa Batakali Darshan, Puri, Orissa
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) | <!-- TODO: Fallback translation -->
 
 Σημείωσις: τὸ \* πρὸ μορφῆς σημαίνει ὅτι αὕτη ἡ μορφή ἐν τῷ Σανσκριτῷ οὐχ εὑρίσκεται, ἀλλὰ θεωρητικῶς συλλέγεται ὡς προϋπόθεσις τινὸς σχηματισμοῦ. ἡ βαθμὶ τοῦ **gam** ἐστὶν gṃ = \*gm, τὸ m ὑπὸ τοῦ λεγομένου nasalis sonans ἀντικαθίσταται ὑπὸ **a** » **ga**. τὸ αὐτὸ ἰσχύει περὶ **man** » **ma**.
 
@@ -160,7 +160,7 @@ Fig.: Maa Batakali Darshan, Puri, Orissa
 | :--- | :--- | :--- | :--- |
 | **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
 | **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
+| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" | <!-- TODO: Fallback translation -->
 
 αὗται αἱ παραγωγαί πρὸς ὀνόματα πάντα πρακτικῶς σχηματίζεσθαι δύνανται καὶ ἐν τοῖς επιστημονικοῖς Σανσκριτικοῖς γράμμασι πολὺ συχνάζουσι.
 
@@ -172,21 +172,29 @@ Fig.: Maa Batakali Darshan, Puri, Orissa
 - **ἀσθενὲς ῥίζωμα: ῥίζα + -u- (πρὸ φωνήεντος: -v-)**
 
 παράδειγμα **tan** 8 U (⟪तन्⟫) "τείνειν":
-- 3\. sg. P. **tanoti** :br⟪तनोति⟫
-- 3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫
-- 3\. sg. Ā. **tanute** :br⟪तनुते⟫
-- 3\. pl. Ā. **tanvate** :br⟪तन्वते⟫
+- 3\. sg. P. **tanoti**
+⟪तनोति⟫
+- 3\. pl. P. **tanvanti**
+⟪तन्वन्ति⟫
+- 3\. sg. Ā. **tanute**
+⟪तनुते⟫
+- 3\. pl. Ā. **tanvate**
+⟪तन्वते⟫
 :::
-Σημείωσις: Περὶ τῆς ἀμφισβήτησεως, εἰ ἡ **tan** οὐσία ῥίζα πέμπτης τάξεως ἐστίν (*tn » ta + no-), βλ. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+Σημείωσις: Περὶ τῆς ἀμφισβήτησεως, εἰ ἡ **tan** οὐσία ῥίζα πέμπτης τάξεως ἐστίν (*tn » ta + no-), βλ. Thumb-Hauschild, Handbuch des Sanskrit II, 265. <!-- TODO: Fallback translation -->
 
 ἡ σημαντικωτάτη ῥίζα τῆς ὀγδόης τάξεως ἐστὶν **kṛ** 8 U (⟪कृ⟫) "ποιεῖν, πράττειν". ἡ κλίσις αὐτῆς ἀκανόνιστός ἐστιν:
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "ποιεῖν, πράττειν"**
-- 3\. sg. P. **karoti** :br⟪करोति⟫
-- 3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute** :br⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
+- 3\. sg. P. **karoti**
+⟪करोति⟫
+- 3\. pl. P. **kurvanti**
+⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute**
+⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate**
+⟪कुर्वते⟫
 :::
 
 ## 8.5. Λεξιλόγιον

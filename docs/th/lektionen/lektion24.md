@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # บทที่ 24
 
@@ -220,7 +220,7 @@ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 
 ⟪नि⟫ Präverb: ลง, ลงไป, เข้าไปใน, ย้อนกลับ
 
-⟪आ⟫ Präposition / Postposition: ก่อน Ablative หรือหลัง Akkusativ: จนถึง, ถึง ; กับ Ablative: จาก, ตั้งแต่
+⟪आ⟫ Präposition / Postposition: ก่อน Ablative หรือหลัง Akkusativ: จนถึง, ถึง ; กับ Ablative: จาก, ตั้งแต่ <!-- TODO: Fallback translation -->
 
 ⟪अतस्⟫ Indeklinabile: จากที่นั่น, จากนั้น, ดังนั้น, เพราะเหตุนี้ (รากนาม a- "นี้" + สuffix Ablative -tas)
 
@@ -291,7 +291,7 @@ Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्�
 Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
 (Bildquelle: [Details](/th/licenses#lekt2411))
 :::
-⟪स्वागत⟫ n.: ยินดีต้อนรับ (จาก su-ā-gata)
+⟪स्वागत⟫ n.: ยินดีต้อนรับ (จาก su-ā-gata) <!-- TODO: Fallback translation -->
 
 ⟪तृण⟫ n.: หญ้า
 
@@ -407,7 +407,7 @@ E) จงแทนที่โครงสร้างกรณีให้ ใ�
 
 ::: deleteme-box
 
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] เป็นงานประเพณีฮินดูที่จัดขึ้นในเทศกาลปีใหม่ฮินดู ณ วัด BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] ทั้งหมด มีอาหารมังสวิรัติหลายร้อยชนิดถูกถวายต่อ Bhagwan Swaminarayan [સ્વામિનારાયણ] ในวันนี้ [ที่มาของภาพ: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- เข้าถึงเมื่อ 2008-12-14. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า)]
+**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] เป็นงานประเพณีฮินดูที่จัดขึ้นในเทศกาลปีใหม่ฮินดู ณ วัด BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] ทั้งหมด มีอาหารมังสวิรัติหลายร้อยชนิดถูกถวายต่อ Bhagwan Swaminarayan [સ્વામિનારાયણ] ในวันนี้ [ที่มาของภาพ: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- เข้าถึงเมื่อ 2008-12-14. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า)] <!-- TODO: Fallback translation -->
 
 **lekt2402:** Raksha bandhan ถูกเฉลิมฉลองด้วยความกระตือรือร้นและความสุขทั่วทั้งอินเดีย เทศกาลนี้แสดงถึงความรักที่ไร้เงื่อนไขระหว่างพี่น้องชายหญิง [ที่มาของภาพ: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- เข้าถึงเมื่อ 2008-12-14. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike)]
 
@@ -423,7 +423,7 @@ E) จงแทนที่โครงสร้างกรณีให้ ใ�
 
 **lekt2408:** "เจฟฟ์ ไบเออร์ส นักเล่าเรื่องจากซานฟรานซิสโก กำลังเล่าเรื่องราวให้กับผู้อยู่อาศัยในเชนเนรี หมู่บ้านของชาวอิรูล่า เจีวา ราชุนาถ นักเล่าเรื่อง แปลเป็นภาษาทมิฬให้แก่ชาวบ้าน" [แหล่งที่มาของภาพ: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- เข้าถึงเมื่อ 2008-12-14. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต ห้ามใช้ในเชิงพาณิชย์)]
 
-**lekt2409:** [แหล่งที่มาของภาพ: Redtigerxyz / Wikipedia, GNU FDLicense]
+**lekt2409:** [แหล่งที่มาของภาพ: Redtigerxyz / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt2410:** ⟪नरसिंह⟫ ฉีก ⟪हिरण्यकशिपु⟫, หน้าจากคัมภีร์ของ ⟪भागवतपुराण⟫ [แหล่งที่มาของภาพ: Wikipedia, สาธารณสมบัติ]
 

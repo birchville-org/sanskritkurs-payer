@@ -371,7 +371,7 @@ A) Σχηματίστε τη δεύτερη πρόσωπο που αντιστο
 
 ::: deleteme-box
 
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Πρόσβαση στις 2009-01-06. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση)
+**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Πρόσβαση στις 2009-01-06. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση) <!-- TODO: Fallback translation -->
 
 **lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Πρόσβαση στις 2009-01-06. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση)
 
@@ -383,7 +383,7 @@ A) Σχηματίστε τη δεύτερη πρόσωπο που αντιστο
 
 **lekt4307.jpg**: Ray Witlin / Παγκόσμιος Τράπεζα. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Πρόσβαση στις 2009-01-06. -- Άδεια Creative Commons (Αναφορά, Μη Εμπορική Χρήση, Όχι Παράγωγα Έργα)
 
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. Άδεια GNU FDL
+**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. Άδεια GNU FDL <!-- TODO: Fallback translation -->
 
 **lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Πρόσβαση στις 2009-01-07. -- Άδεια Creative Commons (Αναφορά, Όχι Παράγωγα Έργα)
 :::

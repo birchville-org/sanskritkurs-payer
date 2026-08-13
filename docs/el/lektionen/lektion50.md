@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα 50
 
@@ -305,7 +305,7 @@ Ganeshpuri, 80 χλμ. από το Μουμπάι (⟪मुंबई⟫)
 
 **lekt5003:** [Πηγή εικόνας: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Πρόσβαση στις 12-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγές)]
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Πηγή εικόνας: Kounosu / Wikipedia. Άδεια GNU FDLicense]
+**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Πηγή εικόνας: Kounosu / Wikipedia. Άδεια GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt5008:** Ganeshpuri, 80 χλμ από το Μουμπάι (⟪मुंबई⟫) [πηγή εικόνας: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, κοινόχρηστο)]
 

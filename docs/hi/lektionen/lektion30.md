@@ -226,7 +226,8 @@ status: stable
 | **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪⟪कृ⟫⟫)
+**kṛ**
+(⟪⟪कृ⟫⟫)
 
 ::: grammar-box
 

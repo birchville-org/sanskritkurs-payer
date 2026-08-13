@@ -93,7 +93,7 @@ status: stable
 ::: indent
 ⟪दृश्⟩ 3.sg.P ⟪अ⟩:sig[⟪द्राक्षी⟩]⟪त्⟩
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪कृष्⟩ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟩ / ⟪अ⟩:sig[⟪क्राक्षी⟩]⟪त्⟩

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 23
+# Lectio 23
 
 ## 23.1. Infinitivus (⟪tumun⟫)
 
@@ -79,14 +79,14 @@ Ad has usdoctae radices sequentes infinitivi maxime sunt notandi:
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
 
 ## 23.3. De infinitivo (⟪तुमुन्⟫) ad radices usque nunc didictas
 
@@ -251,7 +251,7 @@ Chiang Mai, Thailandia = เชียงใหม่, ประเทศไท�
 
 ⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫
 
-C) Versa verbum sequens ⟪सुभाषितम्⟫
+C) Versa verbum sequens ⟪सुभाषितम्⟫ <!-- TODO: Fallback translation -->
 
 ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
 ⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  

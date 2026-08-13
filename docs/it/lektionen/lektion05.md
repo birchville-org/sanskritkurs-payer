@@ -5,7 +5,7 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 5
 
@@ -64,9 +64,9 @@ Per i Dvandva duale, vedere più avanti!
 
 Gli elementi iniziali dei composti (non solo Dvandvas) hanno di norma la forma del **stame nominale** invariato. Le singole parti dei composti vengono unite secondo le regole del **Sandhi di frase** (cioè del Sandhi finora appreso, in contrapposizione al Sandhi di parola, che si applica all'interno della parola prima degli elementi formativi).
 
-### 5.3.2. Pluraleee Itaretaradvandva
+### 5.3.2. Pluraleeeeee Itaretaradvandva
 
-Esempi di Pluraleedvandva:
+Esempi di Pluraleeeeedvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
 > = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
@@ -88,7 +88,7 @@ Esempi di Pluraleedvandva:
 - Le parole che terminano in **-a** e iniziano con una vocale devono precedere.
 - Le parole che contengono meno sillabe devono precedere.
 
-Quando due delle tre ultime disposizioni possono applicarsi contemporaneamente, deve sempre essere seguita la regola fornita successivamente. (Esempi di Dualeedvandva per queste regole in Kielhorn, Grammatik § 570).
+Quando due delle tre ultime disposizioni possono applicarsi contemporaneamente, deve sempre essere seguita la regola fornita successivamente. (Esempi di Dualeeeeedvandva per queste regole in Kielhorn, Grammatik § 570).
 
 ## 5.4. Elenco di parole
 
@@ -151,7 +151,7 @@ Fig.: Dio Kāma = kāmadeva = ⟪कामदेव⟫, XVIII secolo.
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / in buon Sanscrito: sāmārgyajurvedās trayī)
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (in buon Sanscrito: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+   (in buon Sanscrito: ⟪सामार्यजुर्वेदास्त्रयी⟫) &lt;!-- TODO: Fallback translation --&gt;
 
 4. I tre nemici dell'uomo, che formano la porta all'inferno (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -159,7 +159,7 @@ Fig.: Dio Kāma = kāmadeva = ⟪कामदेव⟫, XVIII secolo.
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
    ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Spiegazione: brahmavihāra: "stati di dimora di Brahma", detti anche "Illimitati". Sono forme di meditazione buddhiste.)
+   (Spiegazione: brahmavihāra: "stati di dimora di Brahma", detti anche "Illimitati". Sono forme di meditazione buddhiste.) &lt;!-- TODO: Fallback translation --&gt;
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
    (Yogasūtra 2,3)
@@ -168,7 +168,7 @@ Fig.: Dio Kāma = kāmadeva = ⟪कामदेव⟫, XVIII secolo.
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
    (Dopo Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || &lt;!-- TODO: Fallback translation --&gt;
 
 ## 5.6. Esercizio di ripasso
 

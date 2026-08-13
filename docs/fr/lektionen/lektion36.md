@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Leçon 36
 
@@ -63,7 +63,7 @@ Le parfait périphrastique (⟪अनुप्रयोगलिट्⟫) est u
 - La voyelle finale du thème subit le guṇa avant -ām.
 - ⟪अस्⟫ et ⟪भू⟫ sont également conjugués avec les verbes Ātmanepada au Parasmaipada.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 Exemples :
 

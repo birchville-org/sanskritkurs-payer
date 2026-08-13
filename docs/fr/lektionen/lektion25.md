@@ -5,7 +5,7 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Leçon 25
 

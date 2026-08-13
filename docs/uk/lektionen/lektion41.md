@@ -5,7 +5,7 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Урок 41
 
@@ -67,7 +67,7 @@ status: stable
 | Корінь / Klasse | Partizip Теперішній час Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
+| **⟪हु⟫** 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -372,7 +372,7 @@ Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 ::: deleteme-box
 див. також:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Основні поняття правил чернечого життя та чернечого права Тхеравади. -- Частина I. -- (Матеріали до основних понять буддизму). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Основні поняття правил чернечого життя та чернечого права Тхеравади. -- Частина I. -- (Матеріали до основних понять буддизму). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: молода дівчина, дочка, діва
 

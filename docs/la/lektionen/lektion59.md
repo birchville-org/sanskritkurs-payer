@@ -5,9 +5,9 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 59
+# Lectio 59
 
 ## 59.1. De secundis terminationibus et imperativis dualis (⟪द्विवचनम्⟫)
 
@@ -600,7 +600,7 @@ Imperativus (⟪लोट्⟫)
 :::
 ## 59.4. Dualis (⟪dvivacanam⟫) Aoristi (⟪luṅ⟫)
 
-### 59.4.1. Wurzelaorist
+### 59.4.1. Wurzelaorist <!-- TODO: Fallback translation -->
 
 ⟪पा⟫ 1P "bibere"
 
@@ -707,7 +707,7 @@ Paradigma:
 
 **Formae 1.sg.2.3.du.Ā a sa-Aoriste, id est athematico, formantur.**
 :::
-Stammbildungssuffix + Endungen des sa-Aorist lauten also:
+Stammbildungssuffix + Endungen des sa-Aorist lauten also: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -776,13 +776,13 @@ Abb.: ⟪कुम्भकर्णः⟫
 Kecak-Tanz, Bali (Indonesien)
 (Bildquelle: [Details](/la/licenses#lekt5903))
 :::
-_Versio adiuvatrix:_ Versus 6: ⟪दिदृक्षते⟫ \= Desiderativum ad ⟪दृश्⟫
+_Versio adiuvatrix:_ Versus 6: ⟪दिदृक्षते⟫ \= Desiderativum ad ⟪दृश्⟫ <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5901.webp)
 (Bildsource: [Details](/la/licenses#lekt5901))
 :::
-Textus ex: Otto Böhtlingk: Sanskrit-Chrestomathia pagina 127f.
+Textus ex: Otto Böhtlingk: Sanskrit-Chrestomathia pagina 127f. <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

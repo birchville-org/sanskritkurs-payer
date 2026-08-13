@@ -88,7 +88,7 @@ B) Traduzca los siguientes Tatpuruṣa:
 Fig.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung027))
 :::
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 ## Ejercicios adicionales
 
@@ -145,4 +145,4 @@ El deber de todos es: no violencia, veracidad, pureza, no murmurar sobre su dest
 ![](/images/uebung028.webp)
 Fig.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung028))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

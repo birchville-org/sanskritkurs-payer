@@ -330,7 +330,7 @@ Fig.: **likh** (⟪लिख्⟫) : bastoncino da scrittura dei Batak (Sumatra
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram presso Madurai.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artigiano
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artigiano &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt0902.webp)
@@ -471,7 +471,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫, distretto di Jamalpur, Banglades
 (Fonte dell'immagine: [Details](/it/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : chiedere
-  - **praśna** m. ⟪प्रश्न⟫ : domanda (suffisso **-na** come in **yaj-ña**)
+  - **praśna** m. ⟪प्रश्न⟫ : domanda (suffisso **-na** come in **yaj-ña**) &lt;!-- TODO: Fallback translation --&gt;
 
 - **iṣ** 6 P ⟪इष्⟫ : desiderare
   - **iṣṭi** f. ⟪इष्टि⟫ : desiderio (**iṣ** + **-ti**)
@@ -581,15 +581,15 @@ Imparate le seguenti parole:
 - **asura** m. ⟪असुर⟫ : demone
 
 > **ASURA.** 'Spirituale, divino.'
->
+&gt;
 > Nelle parti più antiche del Ṛgveda questo termine è usato per lo spirito supremo, ed è lo stesso degli Ahura degli Zoroastriani. Nel senso di 'dio' fu applicato a diverse delle principali divinità, come Indra, Agni e Varuṇa. In seguito acquisì un significato completamente opposto, e venne a significare, come ora, un demone o nemico degli dèi.
->
+&gt;
 > La parola si trova con questa significazione nelle parti più tarde del Ṛgveda, in particolare nell'ultimo libro, e anche nell'Atharvaveda. I Brāhmaṇas attribuiscono lo stesso significato e registrano molte contese tra gli Asura e gli dèi. Secondo il Taittirīya Brāhmaṇa, il respiro *(asu)* di Prajapati divenne vivo, e "con quel respiro creò me Asura." In un'altra parte dello stesso lavoro si dice che Prajāpati "divenne incinto. Creò Asura dal suo addome." Il Śatapatha Brāhmaṇa concorda con la prima affermazione, e afferma che "creò Asura dal suo respiro inferiore." Il Taittirīya Āraṇyaka rappresenta che Prajāpati creò dèi, uomini, padri, Gandharvas e Apsarase dall'acqua, e che gli Asura, i Rakṣasa e i piśāca nacquero dalle gocce che furono versate. L'affermazione di Manu è che furono creati dai Prajāpati.
->
+&gt;
 > Secondo il Viṣṇu Purāṇa, furono prodotti dall'inguine di Brahma (prajāpati). Il racconto del Vāyu Purāṇa è: "Gli Asura furono prima prodotti come figli dal suo (di Prajāpati) inguine. *Asu* è dichiarato da Brāhmaṇa significare respiro. Da esso questi esseri furono prodotti; da qui sono Asura." La parola è stata a lungo usata come nome generale per i nemici degli dèi, inclusi i Daitya e i Danava e altri discendenti di Kaśyapa, ma non include i Rakṣasa discendenti da Pulastya.
->
+&gt;
 > In questo senso una diversa derivazione è stata trovata per esso: la fonte non è più asu, 'respiro,' ma la iniziale *a* è presa come prefisso negativo, e *asura* significa 'non un dio;' da qui, secondo alcuni, nacque la parola *sura*, comunemente usata per 'un dio.'"
->
+&gt;
 > [Fonte: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
@@ -1333,7 +1333,10 @@ Fig.: ⟪हिरण्यम्⟫
 **⟪वस्⟫** 1P (⟪वसति⟫): dimorare, abitare (con il locativo della persona presso cui si abita)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br**Pass.:** ⟪उष्यते⟫:br**PPP:** ⟪उषित⟫:br**Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫
+**Pass.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Inf.:** ⟪वस्तुम्⟫
 :::
 di cui:
 
@@ -1347,7 +1350,9 @@ di cui:
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): indossare (vestiti), portare (vestiti)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br**PPP:** ⟪वसित⟫:br**Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 di cui:
 
@@ -1376,7 +1381,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫): tenere, portare; prendere, portare via, rubare
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br**Pass.:** ⟪ह्रियते⟫:br**PPP:** ⟪हृत⟫:br**Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 di cui:
 
@@ -1681,12 +1689,12 @@ di cui:
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫:br
-⟪श्रम्यते⟫:br
-⟪श्रमयति⟫:br
-⟪श्रान्त⟫:br
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
--⟪श्रम्य⟫:br
+⟪श्रमिष्यते⟫
+⟪श्रम्यते⟫
+⟪श्रमयति⟫
+⟪श्रान्त⟫
+⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
+-⟪श्रम्य⟫
 ⟪श्रमितुम्⟫
 :::
 **⟪पार्श्व⟫**
@@ -1709,20 +1717,20 @@ Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 
 **⟪रुह्⟫ ⟪रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫:br
-⟪रुह्यते⟫:br
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-:sig[⟪रूढ⟫]:br
--⟪रुह्य⟫:br
+⟪रोक्ष्यति⟫
+⟪रुह्यते⟫
+⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
+:sig[⟪रूढ⟫]
+-⟪रुह्य⟫
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!):br
-⟪गृह्यते⟫:br
-⟪ग्राहयति⟫:br
-⟪गृहीत⟫:br
--⟪गृह्य⟫:br
+⟪ग्रहीष्यति⟫ (!)
+⟪गृह्यते⟫
+⟪ग्राहयति⟫
+⟪गृहीत⟫
+-⟪गृह्य⟫
 ⟪ग्रहीतुम्⟫ (!)
 :::
 **⟪वानर⟫ ⟪कपि⟫**
@@ -1735,13 +1743,13 @@ Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫:br
-⟪लोक्यते⟫:br
-⟪लोकित⟫:br
--⟪लोक्य⟫:br
+⟪लोकयिष्यति⟫
+⟪लोक्यते⟫
+⟪लोकित⟫
+-⟪लोक्य⟫
 ⟪लोकितुम्⟫
 :::
-**⟪प्रहर्ष⟫**
+**⟪प्रहर्ष⟫** &lt;!-- TODO: Fallback translation --&gt;
 
 **⟪कति⟫**
 
@@ -1763,20 +1771,20 @@ Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlo
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫:br
-⟪क्षिप्यते⟫:br
-⟪क्षेपयति⟫:br
-⟪क्षिप्त⟫:br
--⟪क्षिप्य⟫:br
+⟪क्षेप्स्यति⟫
+⟪क्षिप्यते⟫
+⟪क्षेपयति⟫
+⟪क्षिप्त⟫
+-⟪क्षिप्य⟫
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫:br
-⟪चीयते⟫:br
-⟪चाययति⟫:br
-⟪चित⟫:br
--⟪चित्य⟫:br
+⟪चेष्यति⟫
+⟪चीयते⟫
+⟪चाययति⟫
+⟪चित⟫
+-⟪चित्य⟫
 ⟪चेतुम्⟫
 :::: media
 ![](/images/lekt3207.webp)
@@ -2033,21 +2041,21 @@ Statua del toro Nandi, Colline di Chamundi, Mysore.
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : perdersi, andare perduto, scomparire
 ::: indent
-**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**:br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
-**Caus. ⟪नाशयति⟫**:br
+**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Caus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : scomparire, perdersi, andare perduto
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : procedere, andare
 ::: indent
-**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
-**Fut. ⟪क्रमिष्यति⟫**:br
-**Pass. ⟪क्रम्यते⟫**:br
-**Caus. ⟪क्रमयति⟫**:br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
-**Inf. ⟪क्रमितुम्⟫**:br
+**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Caus. ⟪क्रमयति⟫**
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Assol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::: media
 ![](/images/lekt3502.webp)
@@ -2058,11 +2066,11 @@ Persone che camminano, Senegal. [Fonte immagine: Curt Carnemark / World Bank. CC
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): cantare, recitare in tono cantilenante, annunziare in discorso poetico
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
-**Fut. ⟪गास्यति⟫**:br
-**Pass. ⟪गीयते⟫**:br
-**Caus. ⟪गापयति⟫**:br
-**PPP ⟪गीत⟫**:br
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Caus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Inf. ⟪गातुम्⟫**
 
 da ciò:

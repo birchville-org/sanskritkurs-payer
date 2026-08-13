@@ -383,7 +383,7 @@ B) แปลเป็นภาษาสันสกฤต:
 
 **lekt4307.jpg**: Ray Witlin / ธนาคารโลก. -- http://www.flickr.com/photos/worldbank/2183198505/. -- เข้าถึงเมื่อ 2009-01-06. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อ, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)
 
-**lekt4308.jpg**: G.-U. Tolkiehn / วิกิพีเดีย. GNU FDLicense
+**lekt4308.jpg**: G.-U. Tolkiehn / วิกิพีเดีย. GNU FDLicense <!-- TODO: Fallback translation -->
 
 **lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- เข้าถึงเมื่อ 2009-01-07. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อ, ห้ามดัดแปลง)
 :::

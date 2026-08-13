@@ -5,7 +5,7 @@ lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 26
 
@@ -57,7 +57,7 @@ Exemple: vezi mai jos viitorul verbului  ⟪दुह्⟫ și  ⟪बुध�
 Fig.: Hermann Graßmann
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi pentru -m, -n în fața sunetelor sibilante
+## 26.5. Wortsandhi pentru -m, -n în fața sunetelor sibilante <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **În fața sunetelor sibilante, -n și -m sunt înlocuite cu -ṃ-:**

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 29. lecke
+# 29. lecke <!-- TODO: Fallback translation -->
 
 ## 29.1. A Parasmaipada (⟪परस्मैपद⟫) és az Ātmanepada (⟪आत्मनेपद⟫) használata a kausatívumban
 
@@ -23,7 +23,7 @@ Példa:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma maga számára (saját érdekből) egy szőnyeget készít"
 
-**2. Ha a tranzitív igák kausatívusa reflexívan használatos ("megmutatkozik", "hallatszik" stb.), vagy ha az egyszerű ige tárgya a kausatíva cselekvője (⟪कर्तृ⟫):**
+**2. Ha a tranzitív igák kausatívusa reflexívan használatos ("megmutatkozik", "hallatszik" stb.), vagy ha az egyszerű ige tárgya a kausatíva cselekvője (⟪कर्तृ⟫):** <!-- TODO: Fallback translation -->
 
 Példa:
 
@@ -38,17 +38,17 @@ A szabályok tehát általában megfelelnek az Ātmanepada (⟪आत्मन�
 Előtagok:
 
 ::: indent
-⟪उद्⟫° : fel, felfelé, fölfelé, kifelé, ki-, kivitelben
+⟪उद्⟫° : fel, felfelé, fölfelé, kifelé, ki-, kivitelben <!-- TODO: Fallback translation -->
 
 ⟪परि⟫° : körül, körüli (hely, idő), szerte
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (valaki körül válik = bekerít =) uralkodik, legyőz; megvet, lenéz
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (valaki körül válik = bekerít =) uralkodik, legyőz; megvet, lenéz <!-- TODO: Fallback translation -->
 
 ⟪अवज्ञान⟫ n.: megvetés
 
 ⟪गुप्त⟫ 3: véd, oltalmaz
 
-⟪गृहस्थ⟫ 3: a házban lévő; m. háztartás feje (valaki, aki a 2. ⟪आश्रम⟫ állapotban van)
+⟪गृहस्थ⟫ 3: a házban lévő; m. háztartás feje (valaki, aki a 2. ⟪आश्रम⟫ állapotban van) <!-- TODO: Fallback translation -->
 
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫: fogyaszt, falatozik
 
@@ -71,7 +71,7 @@ Inf. ⟪ग्रसितुम्⟫
 Pushkar = ⟪पुष्कर⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2903))
 :::
-⟪पालयति⟫ : jelentése megegyezik a  ⟪पाति⟫-szel
+⟪पालयति⟫ : jelentése megegyezik a  ⟪पाति⟫-szel <!-- TODO: Fallback translation -->
 
 ⟪पुनर्⟫ Indekl.: újra, mindig újra, vissza, még egyszer; ellenben, de (zöngés hangok előtt az r- kivételével: ⟪पुनर्⟫)
 
@@ -156,21 +156,21 @@ Magyarázatok:
 
 ⟪।११।⟫ :sig[⟪विज्ञात⟫] ⟪३⟫ „felismert”; n.: Felismerés
 
-⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "összefogni, összeköt valakivel/valamivel, egyesít"
+⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "összefogni, összeköt valakivel/valamivel, egyesít" <!-- TODO: Fallback translation -->
 
 ⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., kettes szám (dualis) mask. von ⟪कामक्रोध⟫ (kettes szám (dualis)dvandva)
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "hogy mennyivel több"
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "erősebb"
+⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "erősebb" <!-- TODO: Fallback translation -->
 
 ⟪।१६।⟫ ⟪चतुर्⟫ „négy” mint egy összetétel első tagja
 
-⟪राज्ञा⟫ Instr. sg. mask. a következőhöz: ⟪राजन्⟫ m. „király”
+⟪राज्ञा⟫ Instr. sg. mask. a következőhöz: ⟪राजन्⟫ m. „király” <!-- TODO: Fallback translation -->
 
-⟪स्वेषु⟫ : Lok. plur. mask. / neutr. a következőhöz: ⟪स्व⟫ ⟪३⟫ „saját (enyém, tied, övé stb.)”
+⟪स्वेषु⟫ : Lok. plur. mask. / neutr. a következőhöz: ⟪स्व⟫ ⟪३⟫ „saját (enyém, tied, övé stb.)” <!-- TODO: Fallback translation -->
 
-⟪वर्त्मसु⟫ : Lok. plur neutr. a következőhöz: ⟪वर्त्मन्⟫ n. „pálya, sínek, út”
+⟪वर्त्मसु⟫ : Lok. plur neutr. a következőhöz: ⟪वर्त्मन्⟫ n. „pálya, sínek, út” <!-- TODO: Fallback translation -->
 
 ## 29.4. A eddig tanult gyökökhöz tartozó jövő idő és kausztívum
 

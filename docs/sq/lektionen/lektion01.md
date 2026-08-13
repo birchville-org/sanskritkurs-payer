@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 1
+# Mësimi 1
 
 ::: center
 ⟪गणेशपूजनम्⟫

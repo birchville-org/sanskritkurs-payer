@@ -32,7 +32,7 @@ Brahmanus liberationem desideravit.
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
+⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
 Dictum est, quod vedaici sapientes solum veritatem dixissent.

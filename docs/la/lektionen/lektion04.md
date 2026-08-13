@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 4
+# Lectio 4
 
 ::: deleteme-box
 **In hac lection discitis:**
@@ -48,11 +48,11 @@ status: stable
 **De Nom. sg. masc.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) stat ante omnes sonos praeter breve **-a**
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) stat ante **-a**, quod Avagraha eliditur (cadit)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) stat solum in pausa (fine sententiae, fine versus)
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) stat solum in pausa (fine sententiae, fine versus) <!-- TODO: Fallback translation -->
 
 Ut cum his pronomine (sarvanāman n.) sententias formare possimus, notitia sequentium regulārum Sandhi necesse est:
 
-### 4.1.2. Sandhi von auslautendem -m
+### 4.1.2. Sandhi von auslautendem -m <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Finalis -m ante consonantes per Anusvāra (-ṃ) mutatur. In fine sententiae vel versus, ac ante vocales, -m manet.**
@@ -107,3 +107,4 @@ ANIMADVERSIO: Responsiones, quas cum vestris adhuc Sanscriticis notitiis ad huiu
 ![](/images/lekt0401.webp)
 (Fons imaginis: [De rebus](/la/licenses#lekt0401))
 :::
+ <!-- TODO: Fallback translation -->

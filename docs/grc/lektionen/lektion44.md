@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα δʹ4
 
@@ -484,11 +484,11 @@ Absol. -⟪रभ्य⟫
 
 **lekt4402.jpg**: Ζωγραφικὴ τοῦ Henri Gerbault (1863 - 1930) (Δημόσιον πεδίον)
 
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Πρόσβασις τῇ 2009-01-08. -- Ἀδεια Creative Commons (Ἀναφορὰ, οὐκ ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις)
+**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Πρόσβασις τῇ 2009-01-08. -- Ἀδεια Creative Commons (Ἀναφορὰ, οὐκ ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις) <!-- TODO: Fallback translation -->
 
 **lekt4404.jpg**: Γουρουμοστοῦκ Σίνγκ. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Πρόσβαση ἐν 2009-01-08. -- Ἄδεια Creative Commons (Ἀναφορά, οὐχ ἐμπορικὴ χρῆσις, ὁμοία διανομή)
 
-**lekt4405.jpg**: ματτολογελιν. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Πρόσβαση ἐν 2009-01-08. -- Ἄδεια Creative Commons (Ἀναφορά, οὐχ ἐμπορικὴ χρῆσις)
+**lekt4405.jpg**: ματτολογελιν. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Πρόσβαση ἐν 2009-01-08. -- Ἄδεια Creative Commons (Ἀναφορά, οὐχ ἐμπορικὴ χρῆσις) <!-- TODO: Fallback translation -->
 
 **lekt4406.jpg**: Ἀμρε Γκίμπαν. -- http://www.flickr.com/photos/amre/1476216243/. -- Πρόσβαση ἐν 2009-01-08. -- Ἄδεια Creative Commons (Ἀναφορά, οὐχ ἐμπορικὴ χρῆσις)
 

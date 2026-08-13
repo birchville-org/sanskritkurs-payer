@@ -121,7 +121,7 @@ El optativo (⟪लिङ्⟫), el imperfecto (⟪लङ्⟫), el aoristo (�
 | **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativo: **-ran** |
 
 :::
-## 30.4. Formación del Optativooo Presente (⟪लिङ्⟫)
+## 30.4. Formación del Optativoooooo Presente (⟪लिङ्⟫)
 
 ### 30.4.1. Clases temáticas de presente
 
@@ -226,7 +226,8 @@ Ejemplos:
 | **3. Persona:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ**:br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 

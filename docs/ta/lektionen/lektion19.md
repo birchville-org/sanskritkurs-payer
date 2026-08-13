@@ -67,7 +67,7 @@ lesson_id: 19
 | **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
 
 **கலிப்பெயர்களின் முன் உறுப்பாக ⟪यद्⟫ (சந்தியைக் கவனத்தில் கொண்டு) தோன்றுகிறது.**
 
@@ -224,7 +224,7 @@ lesson_id: 19
 
 **lekt1809:** ⟪कामसूत्र⟫ [பட மூலம்: விக்கிப்பீடியா, பொது உரிமை]
 
-**lekt1901:** Badami (ಬದಾಮಿ) [பட மூலம்: Sudarshan Bhat Khandige / விக்கிப்பீடியா, பொது உரிமை]
+**lekt1901:** Badami (ಬದಾಮಿ) [பட மூலம்: Sudarshan Bhat Khandige / விக்கிப்பீடியா, பொது உரிமை] <!-- TODO: Fallback translation -->
 
 **lekt1902:** Goa (⟪गोंय⟫) [பட மூலம்: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- 2008-12-08 அன்று அணுகல். -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 

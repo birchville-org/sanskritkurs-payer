@@ -120,7 +120,9 @@ Exceto no nominativo e acusativo, as formas dos neutros em -a, do pronome interr
 2. **para indicar o meio ou instrumento com o qual algo é realizado**
 3. **para indicar o caminho pelo qual alguém chega a algum lugar**
 4. **para expressar conexão, união, acompanhamento de**
-5. **com posposições no sentido de "junto com, com"; por ex. saha = ⟪सह⟫ = "com"** :brpor ex.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "juntamente com o brâmane"
+5. **com posposições no sentido de "junto com, com"; por ex. saha = ⟪सह⟫ = "com"**
+por ex.
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "juntamente com o brâmane"
 :::
 Outros usos do Instrumental (tṛtīyā) serão abordados mais tarde.
 
@@ -171,17 +173,24 @@ p. ex.
 ### 10.4.1. Regras especiais para a formação do passivo
 
 1. **Raízes terminadas em -i ou -u** alongam a sua vogal antes do sufixo passivo **-ya-**:
-   * **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 1 P: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Raízes com -a- entre consoantes** (exceto nasais, y, r, v) permanecem no grau forte:
-   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Algumas raízes formam seu passivo no grau forte** (ou no grau de ablaute do tema do presente):
-   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **Grau zero de verbos que começam com ya, va, ra, ou nos quais esses sons aparecem após outra consoante (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -194,16 +203,20 @@ p. ex.
 A designação nativa tradicional para esta formação do grau zero em verbos com **ya** ou **va** é **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. O **-ṛ** final após uma única consoante é substituído por **-ri-** antes do sufixo passivo **-ya-**:
-   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Mas: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+* **kṛ** 8 U: **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Mas: **smṛ** 1 P: **smaryate**
+⟪स्मर्यते⟫
 
 6. **Algumas raízes em -an têm alternativamente duas formações de tema passivo:**
    * uma **-an-ya**
    * uma **-ā-ya-** (o **ā** longo é um representante de uma nasal longa hipotética)
 
 p. ex. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
 
 ## 10.5. Lista de palavras
 
@@ -214,21 +227,21 @@ p. ex. **tan** 8 U.
 - **nagara** n. ⟪नगर⟫ : cidade
 
   ::: note-box
-Para a vida na cidade e na aldeia, veja Basham, *Wonder*, cap. 6.
+  Para a vida na cidade e na aldeia, veja Basham, *Wonder*, cap. 6.
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : sacrifício
 
   ::: note-box
-O sacrifício na Índia é, primeiramente, uma veneração da divindade como um convidado. Através disso, a divindade é colocada em obrigação.
+  O sacrifício na Índia é, primeiramente, uma veneração da divindade como um convidado. Através disso, a divindade é colocada em obrigação.
 
-Formação da palavra: **yaj** 1 U + sufixo kṛt **-na-**.
+  Formação da palavra: **yaj** 1 U + sufixo kṛt **-na-**.
   :::
 
 - **puṇya** n. ⟪पुण्य⟫ : boa obra, mérito
 
   ::: note-box
-Através do que se ganha bem-estar e bons renascimentos.
+  Através do que se ganha bem-estar e bons renascimentos.
   :::
 
 - **pāpa** n. ⟪पाप⟫ : má ação, mal (oposto de **puṇya**)
@@ -248,15 +261,15 @@ Fig.: ⟪वरुणः⟫
 - **anṛta** n. ⟪अनृत⟫ : inverdade, mentira (oposto de **satya**)
 
   ::: note-box
-Formação da palavra **an-** (prefixo "in-") + **ṛta** n.
+  Formação da palavra **an-** (prefixo "in-") + **ṛta** n.
 
-**ṛta** é um conceito central no Veda, cuja tradução é controversa: “verdade” (Lüders, Thieme), “ordem” (Renou).
+  **ṛta** é um conceito central no Veda, cuja tradução é controversa: “verdade” (Lüders, Thieme), “ordem” (Renou).
   :::
 
 - **ṛṣi** m. ⟪ऋषि⟫ : sábio védico, autor de hinos védicos
 
   ::: note-box
-Os nomes destes **ṛṣi**s são mencionados nos Brāhmaṇas, bem como em listas próprias dos Vedas. Todos os brâmanes derivam a sua ascendência de tais **ṛṣi**s, dos quais os seus **gotra** (⟪गोत्र⟫) recebem o nome. Sobre o conceito de **gotra**, veja Basham, *Wonder*, Cap. 5.
+  Os nomes destes **ṛṣi**s são mencionados nos Brāhmaṇas, bem como em listas próprias dos Vedas. Todos os brâmanes derivam a sua ascendência de tais **ṛṣi**s, dos quais os seus **gotra** (⟪गोत्र⟫) recebem o nome. Sobre o conceito de **gotra**, veja Basham, *Wonder*, Cap. 5.
   :::
 
 ::: media
@@ -358,7 +371,7 @@ Fig.: ⟪तन्तुवायः⟫
 - **mārga** m. ⟪मार्ग⟫ : caminho
 - **evam** ⟪एवम्⟫ : assim
 - **iha** ⟪इह⟫ : aqui
-- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : ser belo, brilhar
+- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : ser belo, brilhar <!-- TODO: Fallback translation -->
 
 ## 10.8. Exercício de leitura e tradução
 

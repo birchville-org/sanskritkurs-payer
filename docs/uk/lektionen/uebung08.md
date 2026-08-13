@@ -32,7 +32,7 @@ A) Поясніть наведені іменники, вказавши корі
 
 11\. smara: smṛ 1 P "нагадувати" + -a m.: "пам'ять, пам'ять, туга, кохання"
 
-12\. sṛṣṭi: sṛj 6 P / 4 A "emanieren lassen, erschaffen" + -ti: "emanation, Schöpfung"
+12\. sṛṣṭi: sṛj 6 P / 4 A "emanieren lassen, erschaffen" + -ti: "emanation, Schöpfung" &lt;!-- TODO: Fallback translation --&gt;
 
 13\. tantra: tan 8 U "розтягувати" + -tra n.: "основа, тканина"
 
@@ -46,7 +46,7 @@ A) Поясніть наведені іменники, вказавши корі
 
 18\. kopa: kup 4 P "гніватися" + -a m.: "гнів"
 
-19\. sarga: ṛj 6 P / 4 A "emanieren lassen, erschaffen" + -a m.: "випускання, emanation, Schöpfung"
+19\. sarga: ṛj 6 P / 4 A "emanieren lassen, erschaffen" + -a m.: "випускання, emanation, Schöpfung" &lt;!-- TODO: Fallback translation --&gt;
 
 20\. yajana: yaj 1 U "жертвувати" + -ana n.: "жертвування, місце жертвоприношення"
 
@@ -78,7 +78,7 @@ kṣatriyo brāhmaṇaṃ / brāhmaṇān / vaiśyaṃ / vaiśyān rakṣati. k�
 
 D) Перекладіть
 
-1\. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
+1\. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten) &lt;!-- TODO: Fallback translation --&gt;
 
 kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / kṣatriyā brāhmaṇavaiśyaśūdrān rakṣanti.
 
@@ -188,13 +188,13 @@ kiṃ kāraṇam?
 Діва входить у дім.
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. &lt;!-- TODO: Fallback translation --&gt;
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Хлопчик веде слона.
 
 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Власна назва Vimalā)
-Vimalā ist traurig.
+Vimalā ist traurig. &lt;!-- TODO: Fallback translation --&gt;
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
 Папуга летить.

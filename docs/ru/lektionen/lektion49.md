@@ -191,7 +191,7 @@ status: stable
 
 :::
 ::: indent
-**Carakasaṃhitā:** Избранные тексты из «Чарака-самхиты» / переведены и прокомментированы Алоисом Пайером \<1944 - \>. -- 0. Введение. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Избранные тексты из «Чарака-самхиты» / переведены и прокомментированы Алоисом Пайером \&lt;1944 - \&gt;. -- 0. Введение. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : бросать, метать
 

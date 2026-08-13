@@ -368,7 +368,7 @@ Los siguientes adjetivos pronominales se declinan como **⟪सर्व⟫**. E
 **Una serie de adjetivos forman el comparativo y el superlativo utilizando los siguientes sufijos ⟪कृत्⟫ (!):**
 
 *   Comparativo: **-īyas**
-*   Superlativo: **-iṣṭha**
+*   Superlativo: **-iṣṭha** &lt;!-- TODO: Fallback translation --&gt;
 
 **Mientras que los sufijos ⟪तद्धित⟫ -⟪तर⟫ y -⟪त⟫am se añaden a la raíz masculina del adjetivo, los sufijos -⟪ईयस्⟫ y -⟪इष्ठ⟫ se añaden a la raíz de la cual se deriva el adjetivo (siempre que exista dicha raíz). El vocal de la raíz se encuentra en grado pleno (guṇa).**
 
@@ -456,7 +456,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "viejo") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "viejo") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declinación de los comparativos en -īyas
+## 53.9. Declinación de los comparativos en -īyas &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **Los comparativos en -īyas forman el femenino en -īyasī (declinación como ⟪देवी⟫). El masculino y el neutro se declinan según el siguiente paradigma.**
@@ -490,9 +490,11 @@ Véase también:
 
 La determinación del metro es importante por las siguientes razones:
 
-1.  **Estética:** El verso contribuye, entre otros aspectos, a la belleza de una afirmación. Además, ciertos metros pueden servir para expresar estados de ánimo específicos, o están asociados a determinadas clases sociales (⟪वर्ण⟫). Los distintos metros se recitan de manera diferente. :br Una buena muestra del efecto estético es, por ejemplo, la recitación del ⟪शिवताण्डवस्तोत्र⟫ (Alabanza del baile de Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Estética:** El verso contribuye, entre otros aspectos, a la belleza de una afirmación. Además, ciertos metros pueden servir para expresar estados de ánimo específicos, o están asociados a determinadas clases sociales (⟪वर्ण⟫). Los distintos metros se recitan de manera diferente.
+Una buena muestra del efecto estético es, por ejemplo, la recitación del ⟪शिवताण्डवस्तोत्र⟫ (Alabanza del baile de Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Crítica textual:** Los errores en el verso pueden indicar que el texto no ha sido transmitido correctamente en un punto determinado. El metro ayuda a realizar correcciones textuales.
-3.  **Cronológico:** ciertos metros experimentaron cambios específicos a lo largo de la historia. Esto puede ayudar a la datación aproximada de un texto. Véase **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; id.: Zur Geschichte des Śloka. -- Ambos reproducidos en: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Editado por Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vols. -- (Fundación Glasenapp ; ...). -- Vol. 2. -- 1967. -- Pp. 1188 - 1255.
+3.  **Cronológico:** ciertos metros experimentaron cambios específicos a lo largo de la historia. Esto puede ayudar a la datación aproximada de un texto. Véase **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; id.: Zur Geschichte des Śloka. -- Ambos reproducidos en:
+**Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Editado por Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vols. -- (Fundación Glasenapp ; ...). -- Vol. 2. -- 1967. -- Pp. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -569,7 +571,7 @@ Distribución de ⟪लघु⟫ (laghu) y ⟪गुरु⟫ (guru):
 ::: metrik-schema
 — ◡ — —    **◡ — — —**  ◡ ◡ — ◡    **◡ — ◡ —**
 :::
-### 53.10.4. El śloka épico (⟪श्लोक⟫ m.)
+### 53.10.4. El śloka épico (⟪श्लोक⟫ m.) &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **Mnemotécnica:**
@@ -646,6 +648,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \<1944→:** Curso de sánscrito. -- Lección 53 (Vacaciones semestrales). -- Versión del 19-01-2009. -- Fuente de la imagen de la tabla original 53.9: Captura de pantalla de la fuente original (Payer).
+**Payer, Alois \&lt;1944→:** Curso de sánscrito. -- Lección 53 (Vacaciones semestrales). -- Versión del 19-01-2009. -- Fuente de la imagen de la tabla original 53.9: Captura de pantalla de la fuente original (Payer).
 :::
 

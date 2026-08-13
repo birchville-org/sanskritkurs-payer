@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 42
 
-## 42.1. Tulpile pe -ṛ
+## 42.1. Tulpile pe -ṛ <!-- TODO: Fallback translation -->
 
 ### 42.1.1. Treci cu grad lung în tema puternică
 
@@ -17,7 +17,7 @@ status: stable
 Toate substantivele masculine pe -ṛ, cu excepția celor de rudenie menționate la punctul 1.3. Aici se încadrează și denumirile de rudenie:
 
 *   **⟪नप्तृ⟫** m. "nepot"
-*   **⟪भर्तृ⟫** m. "soț (literal: susținător)"
+*   **⟪भर्तृ⟫** m. "soț (literal: susținător)" <!-- TODO: Fallback translation -->
 
 Majoritatea substantivelor de aici sunt substantive de agentivitate cu sufixul ⟪कृत्⟫ -⟪तृ⟫.
 
@@ -105,7 +105,7 @@ Printre acestea se numără următoarele denumiri de rude:
 *   **⟪भ्रातृ⟫** m. "frate"
 *   **⟪देवृ⟫** m. "fratele soțului (ginegele soției)"
 *   **⟪यातृ⟫** f. "soția fratelui soțului"
-*   **⟪ननान्दृ⟫** f. "sora soțului (gineaga soției)"
+*   **⟪ननान्दृ⟫** f. "sora soțului (gineaga soției)" <!-- TODO: Fallback translation -->
 
 **Formare:**
 
@@ -149,7 +149,7 @@ Exemple:
 ::: indent
 PPP ⟪अवस्थित⟫ 3: stând, existent
 :::
-⟪पुरा⟫ Adv.: odată, mai devreme
+⟪पुरा⟫ Adv.: odată, mai devreme <!-- TODO: Fallback translation -->
 
 ⟪अनेक⟫ 3: mulți (nu câțiva)
 
@@ -216,7 +216,7 @@ Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 :::
 ⟪भर्तृ⟫ m. (de la ⟪भृ⟫ "a purta, a întreține"): Cel care întreține, cel care hrănește, soț
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Soție (⟪भार्या⟫ = gerunziu la ⟪भृ⟫ : cea care trebuie purtată, cea care trebuie întreținută, cea îndreptățită la întreținere)
+⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Soție (⟪भार्या⟫ = gerunziu la ⟪भृ⟫ : cea care trebuie purtată, cea care trebuie întreținută, cea îndreptățită la întreținere) <!-- TODO: Fallback translation -->
 
 ⟪पितृ⟫ m.: Tată
 

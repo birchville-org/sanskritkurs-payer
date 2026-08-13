@@ -54,7 +54,7 @@ brāhmaṇo rāmaḥ.
 
 ⟪ब्राह्मणो⟫ ⟪रामः⟫
 
-2\. Der Lehrer ist ein vaiśya.
+2\. Der Lehrer ist ein vaiśya. &lt;!-- TODO: Fallback translation --&gt;
 
 vaiśyo guruḥ.
 
@@ -66,13 +66,13 @@ sādhuḥ śūdraḥ.
 
 ⟪साधुः⟫ ⟪शूद्रः⟫
 
-4\. Der Dichter ist der Lehrer.
+4\. Der Dichter ist der Lehrer. &lt;!-- TODO: Fallback translation --&gt;
 
 guruḥ kaviḥ.
 
 ⟪गुरुः⟫ ⟪कविः⟫
 
-5\. Viṣṇu ist der HERR.
+5\. Viṣṇu ist der HERR. &lt;!-- TODO: Fallback translation --&gt;
 
 īśvaro viṣṇuḥ.
 
@@ -84,19 +84,19 @@ guruḥ kaviḥ.
 
 ⟪शिव⟫ ⟪ईश्वरः⟫
 
-7\. Der Zweimalgeborene ist ein Brahmane.
+7\. Der Zweimalgeborene ist ein Brahmane. &lt;!-- TODO: Fallback translation --&gt;
 
 brāhmaṇo dvijaḥ.
 
 ⟪ब्राह्मणो⟫ ⟪द्विजः⟫
 
-8\. Der heilige Mann ist ein Lehrer.
+8\. Der heilige Mann ist ein Lehrer. &lt;!-- TODO: Fallback translation --&gt;
 
 guruḥ sādhuḥ.
 
 ⟪गुरुः⟫ ⟪साधुः⟫
 
-9\. Der Lehrer ist ein heiliger Mann.
+9\. Der Lehrer ist ein heiliger Mann. &lt;!-- TODO: Fallback translation --&gt;
 
 sādhur guruḥ.
 

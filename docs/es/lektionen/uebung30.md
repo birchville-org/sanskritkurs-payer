@@ -121,7 +121,7 @@ Diganse verdades que sean agradables, no se digan verdades desagradables; no se 
 Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung048))
 :::
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 ## Determinación de formas verbales
 

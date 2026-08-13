@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 49
+# Pamoka 49
 
 ## 49.1. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)
 

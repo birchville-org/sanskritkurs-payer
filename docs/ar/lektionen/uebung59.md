@@ -13,7 +13,7 @@ last_reconstructed: 2026-05-15
 Fig.: ⟪रावणः⟫
 (مصدر الصورة: [تفاصيل](/licenses#uebung098))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## أ) تحليل النص
 

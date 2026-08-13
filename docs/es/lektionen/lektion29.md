@@ -156,7 +156,7 @@ Explicaciones:
 
 ⟪।११।⟫ ⟪योजयति⟫ (Caus. de ⟪युज्⟫) "engañar, unir con, asociar con"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva)
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva) &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "cuánto más"
 
@@ -170,7 +170,7 @@ Explicaciones:
 
 ⟪वर्त्मसु⟫ : Loc. plur neutr. de ⟪वर्त्मन्⟫ n. "camino, vía, sendero"
 
-## 29.4. Futurooo y causativo de las raíces aprendidas hasta ahora
+## 29.4. Futuroooooo y causativo de las raíces aprendidas hasta ahora
 
 ::: grammar-box
 

@@ -1,14 +1,15 @@
 ---
-title: "Esercitaziun 6"
+title: "Exercizi 6"
 uebung_id: 6
-category: "Esercitaziun"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lecziun 6
+# Exercizi 6
 
-A) Formai cun las radichas indicadas en parentesis, per inserir frasis verbalas:
+A) Formai cun las radichas indicadas en parentesis per inserir frasis verbalas:
 
 brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
 
@@ -42,7 +43,7 @@ dhenur viśati. dhenur bhavati.
 
 ⟪धेनुर्विशति⟫ ⟪।⟫ ⟪धेनुर्भवति⟫ ⟪॥⟫
 
-B) Mettai las frasis formadas en l'exercizi A en il plural
+B) Mettai las frasis formadas en l'exercizi A al plural
 
 brāhmaṇā yajanti / yajante / nṛtyanti / viśanti / manyante / yudhyante / nayanti / nayante / muhyanti.
 
@@ -60,9 +61,9 @@ dhenavo viśanti. dhenavo bhavanti.
 
 ⟪धेनवो⟫ ⟪विशन्ति⟫ ⟪।⟫ ⟪धेनवो⟫ ⟪भवन्ति⟫ ⟪॥⟫
 
-C) Traduzi en sanscrit:
+C) Traducì en sanscrit:
 
-1\. El venera cun in sacrifici. (Il sacerdot dal sacrifici per in patron dal sacrifici)
+1\. El venera cun in sacrifici. (Il sacerdot da sacrifici per in patrun da sacrifici)
 
 yajati.
 
@@ -86,25 +87,25 @@ rāmo nayati.
 
 ⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5\. Las femnas Kṣatriya entran.
+5\. Las dunas Kṣatriya entran.
 
 kṣatriyā viśanti.
 
 ⟪क्षत्रिया⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-6\. IL SIGNUR lascha emanar.
+6\. Il SIGNUR lascha emanar. <!-- TODO: Fallback translation -->
 
 īśvaraḥ sṛjati.
 
 ⟪ईश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
 
-7\. Il Kṣatriya venera cun in sacrifici. ( sco patron dal sacrifici)
+7\. Il Kṣatriya venera cun in sacrifici. ( sco patrun da sacrifici)
 
 kṣatriyo yajate.
 
 ⟪क्षत्रियो⟫ ⟪यजते⟫ ⟪।⟫
 
-8\. Femnas Śūdra ballan.
+8\. Dunas Śūdrafraunas ballan.
 
 śūdrā nṛtyanti.
 
@@ -145,11 +146,11 @@ sā brāhmaṇī nṛtyati.
 Abb.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Sursa da l'imagines: [Detagls](/licenses#uebung004))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Esercitaziun da repetiziun Lecziun 6
+## Exercizi da repetiziun Lecziun 6
 
-A) Esercitaziun da inserziun: Formai dumondas, a las qualas las frasis, che Vus formai suenter las exercitaziuns d'inserziun, respundan:
+A) Exercizi d'inserziun: Formai dumondas, sin las qualas las frasis, che els formeschan suenter ils exercizis d'inserziun, respundan: <!-- TODO: Fallback translation -->
 
 1\. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -239,7 +240,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Metta en il plural:
+B) Mettar en il plural:
 
 1\. brāhmaṇo yajati.
 
@@ -353,7 +354,7 @@ kā imāḥ.
 
 ⟪का⟫ ⟪इमाः⟫ ⟪॥⟫
 
-C) Formai l'ātmanepada per:
+C) Formar il Ātmanepada per:
 
 1\. rāmo yajati.
 
@@ -371,7 +372,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Formai il feminin per:
+D) Formar il feminin per:
 
 1\. śūdro nayati.
 
@@ -397,7 +398,7 @@ brāhmaṇī smarati.
 
 ⟪ब्राह्मणी⟫ ⟪स्मरति⟫ ⟪।⟫
 
-4\. kṣatriyo yudhyate.
+4\. kṣatriyo lüta.
 
 ⟪क्षत्रियो⟫ ⟪युध्यते⟫
 
@@ -405,7 +406,7 @@ kṣatriyā yudhyate. kṣatriyī yudhyate.
 
 ⟪क्षत्रिया⟫ ⟪युध्यते⟫ ⟪।⟫ ⟪क्षत्रियी⟫ ⟪युध्यते⟫ ⟪।⟫
 
-5\. devo guruḥ.
+5\. dio è il guru.
 
 ⟪देवो⟫ ⟪गुरुः⟫
 
@@ -413,13 +414,13 @@ devī gurvī.
 
 ⟪देवी⟫ ⟪गुर्वी⟫ ⟪॥⟫
 
-E) Tradusì:
+E) Tradusci:
 
 1\. devatānnapūrṇā.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
 
 2\. śūdretarā.
 
@@ -455,7 +456,7 @@ Der Veda ist Śruti.
 
 ⟪धेनुर्विशति⟫
 
-La vaca entra.
+La vacca entra.
 
 8\. guruścaitanyaḥ.
 
@@ -479,11 +480,11 @@ Il magister è in sant.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-Il magister sacrificà sco schef dal sacrifici.
+Il magister sacrifica scoi il signur dal sacrifici.
 
-F) Tradusì en il Sanscrit:
+F) Traduci en Sanscrit:
 
-1\. Rāma sacrificà (co schef dal sacrifici).
+1\. Rāma sacrifica (scoi il signur dal sacrifici).
 
 rāmo yajate.
 
@@ -507,13 +508,13 @@ muhyanti.
 
 ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5\. Rāma è in um sant.
+5\. Rāma è in um sànt.
 
 sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Tgi è il SIGNUR?
+6\. Qui è il SIGNUR?
 
 ka īśvaraḥ.
 
@@ -525,13 +526,13 @@ indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Il bestiam da rendita entra.
+8\. Ils animals da stalla entran.
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9\. Viṣṇu lascha emanar = Viṣṇu creat.
+9\. Viṣṇu fa emanar = Viṣṇu creat.
 
 viṣṇuḥ sṛjati.
 
@@ -543,7 +544,7 @@ sādhavo dvijātayaḥ.
 
 ⟪साधवो⟫ ⟪द्विजातयः⟫ ⟪।⟫
 
-11\. Il savair tripel è il Sāmaveda, il Ṛgveda ed il Yajurveda. (2 pussaivladads)
+11\. Il triplen (savair) è il Sāmaveda, il Ṛgveda ed il Yajurveda. (2 pussibilitads)
 
 sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
@@ -555,43 +556,43 @@ sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
 ⟪साध्व्यीयं⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्व्येषा⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्वी⟫ ⟪सा⟫ ⟪देवी⟫ ⟪।⟫
 
-13\. Las tschintg "afflicziuns" èn: ignoranza, il fals-sè dal "jau", passion (amur), odi, attachament al corp. (2 pussaivladads)
+13\. Las tschint "afflicziuns" èn: ignoranza, il fals-sè, passion (amur), odi, attachament al corp. (2 pussibilitads)
 
 avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo dveṣo 'bhiniveśaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫ ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-14\. Ils "stadi da dimora dal Brahma" èn: benevolenza amiaivla, compassion, gaudezza, equanimitad. (2 pussaivladads)
+14\. "Stadis da dimora dal Brahma" èn: benevolenza amia, compassion, gaudezza equanimitad. (2 pussibilitads)
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ / maitrī karuṇā muditopekṣā (ca) brahmavihārāḥ.
 
 ⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪।⟫
 
-15\. Quests brahmins sacrificà en num d'auters.
+15\. Quests brahmins sacrifician en num d'auters.
 
 ete / ime brāhmaṇā yajanti.
 
 ⟪एते⟫ / ⟪इमे⟫ ⟪ब्राह्मणा⟫ ⟪यजन्ति⟫ ⟪।⟫
 
-16\. Brahmins, Kṣatriyas e Vaśyas èn naschids duas giadas. (2 pussaivladads)
+16\. Brahmins, Kṣatriyas e Vaśyas èn naschids duas giadas. (2 pussibilitads)
 
 dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣatriyā vaiśyāś ca.
 
 ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ⟪।⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-17\. Las scienzas (per in prinzi) èn: filosofia, il tripl (savair dal Veda), economia e politica. (2 pussaivladads)
+17. Las scienzas (per in prinzi) èn: filosofia, il tripl (savair dal Vedas), economia e politica. (2 pussaivladads)
 
 ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ / ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪।⟫ ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-18 .Vai Vus star?
+18. Va Vus bain?
 
 kiṃ kuśalam?
 
 ⟪किं⟫ ⟪कुशलम्⟫ ⟪।⟫
 
-19\. (Ma va) en mintga relaziun bain.
+19. (Ma va) en mintga relaziun bain.
 
 sarvathā kuśalam.
 
@@ -602,3 +603,4 @@ sarvathā kuśalam.
 Abb.: ⟪देवतान्नपूर्णा⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung005))
 :::
+ <!-- TODO: Fallback translation -->

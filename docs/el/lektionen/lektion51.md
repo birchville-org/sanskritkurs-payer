@@ -606,9 +606,9 @@ PPP ⟪खात⟫
 
 ::: deleteme-box
 
-**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [Πηγή εικόνας: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)]
+**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [Πηγή εικόνας: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)] <!-- TODO: Fallback translation -->
 
-**lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [Πηγή εικόνας: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)]
+**lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [Πηγή εικόνας: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)] <!-- TODO: Fallback translation -->
 
 **lekt5102:** ⟪नेपाल⟫ [Πηγή εικόνας: amanderson2. -- [http://www.flickr.com/photos/amanderson/2420198291/](http://www.flickr.com/photos/amanderson/2420198291/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)]
 
@@ -626,9 +626,9 @@ PPP ⟪खात⟫
 
 **lekt5113:** _Canis aureus_, Καλατόπ Κχατζιάρ Σάνκτουαρι [Πηγή εικόνας: gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
 
-**lekt5114:** Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Πηγή εικόνας: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
+**lekt5114:** Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Πηγή εικόνας: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)] <!-- TODO: Fallback translation -->
 
-**lekt5115:** Καρνάτακα = ಕರ್ನಾಟಕ [Πηγή εικόνας: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Αναφορά, μη εμπορική χρήση)]
+**lekt5115:** Καρνάτακα = ಕರ್ನಾಟಕ [Πηγή εικόνας: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Αναφορά, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 **lekt5114:** ⟪जोधपुर⟫
 
@@ -638,6 +638,6 @@ PPP ⟪खात⟫
 
 **lekt5118:** Hope Diamond από το Γουντούρ = గుంటూρου, σήμερα Μουσείο Φυσικής Ιστορίας Smithsonian, Ουάσινγκτον DC [πηγή εικόνας: David Bjorgen / Wikipedia. Άδεια GNU FDLicense]
 
-**lekt5117:** [Πηγή εικόνας: muzina_shanghai. -- [http://www.flickr.com/photos/muzina_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/). -- Πρόσβαση στις 13-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)]
+**lekt5117:** [Πηγή εικόνας: muzina_shanghai. -- [http://www.flickr.com/photos/muzina_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/). -- Πρόσβαση στις 13-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)] <!-- TODO: Fallback translation -->
 
 :::

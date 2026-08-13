@@ -159,7 +159,7 @@ Ejemplos:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ## 34.5. Tipo de perfecto II: raíz fuerte en grado pleno, raíz débil en grado reducido
@@ -346,5 +346,5 @@ Ritual de boda hindú.
 **lekt3406:** Campo de arroz en la India. [Fuente de la imagen: Ray Witlin / Banco Mundial. CC BY-NC-ND]
 
 **lekt3407:** Ritual de boda hindú. [Fuente de la imagen: BriceFR / Flickr. CC BY-NC-SA]
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 

@@ -5,7 +5,7 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
----
+--- <!-- TODO: Fallback translation -->
 
 # Leçon 2
 
@@ -26,7 +26,7 @@ Dans la phrase nominale, le sujet est au nominatif (preier cas = **prathamā** f
 
 ## 2.2. Sur la déclinaison (flexion des noms)
 
-En sanskrit, il existe :
+En sanskrit, il existe : <!-- TODO: Fallback translation -->
 
 - **trois nombres** (formes de comptage) = **vacana** n. -- ⟪वचन⟫
   - Singulier (nombre un) = **ekavacana** n. -- ⟪एकवचन⟫

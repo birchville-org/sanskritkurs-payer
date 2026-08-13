@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 50
 
@@ -260,7 +260,7 @@ B) Tradurre:
 *:sig[⟪द्रष्टृदृश्ययोः⟫]* ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
 
 Spiegazione:
-:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Loc.m.n.Dualee (Dualeedvandva)
+:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Loc.m.n.Dualeeeee (Dualeeeeedvandva)
 :::
 ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Sugli consiglieri del Re
 

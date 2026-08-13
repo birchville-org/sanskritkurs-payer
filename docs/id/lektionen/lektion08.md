@@ -172,10 +172,14 @@ Pembentukan ini dapat secara praktis dibuat untuk setiap nomina dan sangat umum 
 - **Kata Dasar Lemah: Akar + -u- (sebelum vokal: -v-)**
 
 Contoh **tan** 8 U (⟪तन्⟫) "merenggangkan":
-- 3. sg. P. **tanoti**:br⟪तनोति⟫
-- 3. pl. P. **tanvanti**:br⟪तन्वन्ति⟫
-- 3. sg. Ā. **tanute**:br⟪तनुते⟫
-- 3. pl. Ā. **tanvate**:br⟪तन्वते⟫
+- 3. sg. P. **tanoti**
+⟪तनोति⟫
+- 3. pl. P. **tanvanti**
+⟪तन्वन्ति⟫
+- 3. sg. Ā. **tanute**
+⟪तनुते⟫
+- 3. pl. Ā. **tanvate**
+⟪तन्वते⟫
 :::
 Catatan: Mengenai perdebatan apakah **tan** sebenarnya merupakan akar dari kelas ke-5 (*tn » ta + no-), lihat Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
@@ -183,10 +187,14 @@ Akar utama dari Kelas 8 adalah **kṛ** 8 U (⟪कृ⟫) "melakukan, membuat".
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "membuat, melakukan"**
-- 3\. sg. P. **karoti**:br⟪करोति⟫
-- 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
+- 3\. sg. P. **karoti**
+⟪करोति⟫
+- 3\. pl. P. **kurvanti**
+⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute**
+⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate**
+⟪कुर्वते⟫
 :::
 
 ## 8.5. Daftar Kata

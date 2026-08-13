@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # บทที่ 49
 
@@ -393,3 +393,4 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 **lekt4908:** นกแก้วหัวพลัม _= Psittacula cyanocephala_[แหล่งที่มาของภาพ: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- เข้าถึงเมื่อ 2009-01-12. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ให้เครดิต ห้ามใช้เพื่อการค้า แบบเดียวกัน)]
 
 :::
+

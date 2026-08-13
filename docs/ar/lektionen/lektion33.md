@@ -110,14 +110,14 @@ status: stable
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. حول تناوب حرف العلة ā
+## 33.3. حول تناوب حرف العلة ā <!-- TODO: Fallback translation -->
 
 ā kann
 
 * من ناحية، قد تكون درجة الإطالة إحدى سلاسل الحروف المتغيرة مع -a-
 * من ناحية أخرى، قد تكون درجة الإطالة إحدى سلاسل الحروف المتغيرة مع -ā-
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **أ.**
@@ -162,7 +162,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Optativ** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 :::
 ::: grammar-box
-**⟪हा⟫** 3مفرد غائب "ترك"
+**⟪हा⟫** 3مفرد غائب "ترك" <!-- TODO: Fallback translation -->
 
 | | 3. م. م. | 3. ج. م. |
 | :--- | :--- | :--- |
@@ -170,7 +170,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **الماضي الناقص** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **التمني** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. الجذور **⟪दा⟫** و **:sig[⟪धा⟫]**
+### 33.4.1. الجذور **⟪दा⟫** و **:sig[⟪धा⟫]** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **جذور ⟪दा⟫ و :sig[⟪धा⟫] تتكرر مع الصوت -a- وتفقد صوت الجذر في الساق الضعيفة.**
@@ -186,7 +186,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **الماضي المستمر** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **التمني** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-تُحصل على أشكال **⟪दा⟫** عن طريق استبدال **dh** بـ **d** في نموذج **:sig[⟪धा⟫]**. إذن:
+تُحصل على أشكال **⟪दा⟫** عن طريق استبدال **dh** بـ **d** في نموذج **:sig[⟪धा⟫]**. إذن: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪दा⟫** 3U "يعطي"

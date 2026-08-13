@@ -5,16 +5,16 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 59
+# Lecziun 59
 
 ## 59.1. Las desinenzas secundaras ed imperativas dal dual (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: |
-|   | secundari | Imperativ (⟪लोट्⟫) | secundari tematic | secundari athematic:brOptativ (⟪विधिलिङ्⟫) | Imperativ (⟪लोट्⟫) |
+|   | secundari | Imperativ (⟪लोट्⟫) | secundari tematic | sekundär athematisch:brOptativ (⟪विधिलिङ्⟫) | Imperativ (⟪लोट्⟫) |
 | **1. ⟪तृतीयः⟫** | -va | -āva | -vahi || -āvahai |
 | **2. ⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām |
 | **3. ⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām |
@@ -148,7 +148,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयतम्⟫ | ⟪चोरयेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चोरयताम्⟫ | ⟪चोरयेताम्⟫ |
 :::
-### 59.2.5. Der Passiv (Suffix -⟪यक्⟫)
+### 59.2.5. Il passiv (suffix -⟪यक्⟫)
 
 ⟪तुद्⟫ 6U "stizzar, batter"
 
@@ -674,7 +674,7 @@ Imperativ (⟪लोट्⟫)
 
 **Augment + hochstufige Radis + s + i + ṣ + athematische Sekundärendung (wie iṣ-Aorist)**
 :::
-Stammbildungssuffix + Endungen des siṣ-Aorist lauten also:
+Stammbildungssuffix + Endungen des siṣ-Aorist lauten also: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |||
@@ -703,7 +703,7 @@ Paradigma:
 
 **Educaziun:**
 
-**Augment + tiefstufige Radis + s + a + thematische Sekundärendung**
+**Augment + tiefstufige Radis + s + a + thematische Sekundärendung** <!-- TODO: Fallback translation -->
 
 **La 1.sg.2.3.du.ġ vegnan dal s-aorist, cunzègnidamain formati senza tema.**
 :::
@@ -782,7 +782,7 @@ _Agida per la traductiun:_ Vers 6: ⟪दिदृक्षते⟫ \= Desidera
 ![](/images/lekt5901.webp)
 (Fontana da l'immagiun: [Detagls](/rm/licenses#lekt5901))
 :::
-Text da: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127ss.
+Text da: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127ss. <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

@@ -5,7 +5,7 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα εʹ
 
@@ -151,7 +151,7 @@ status: stable
 3. sāmavedargvedayajurvedās trayī.
 (Kauṭilīya-arthaśāstra 1.3.1. / σε καλό Σανσκριτικό: sāmārgyajurvedās trayī)
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-(σε καλό Σανσκριτικό: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+(σε καλό Σανσκριτικό: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
 
 4. Οἱ τρεῖς ἐχθροὶ τοῦ ἀνθρώπου, οἵτινες τὴν πύλην τῆς γεέννης ἀποτελοῦσιν (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -168,7 +168,7 @@ status: stable
 
 7. ānvīkṣikītrīvārttādaṇḍanitayo vidyāḥ.
 (Κατὰ Kauṭilīya-arthaśāstra 1.2.1.)
-⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
 
 ## 5.6. Ἐπαναληπτικὴ ἄσκησις
 

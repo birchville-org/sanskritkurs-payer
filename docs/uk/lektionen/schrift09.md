@@ -24,13 +24,13 @@
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden. &lt;!-- TODO: Fallback translation --&gt;
 
 ## Вправа
 
 A) Напишіть мовою Деванаґарі:
 
-ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
+ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha &lt;!-- TODO: Fallback translation --&gt;
 
 B) Прочитайте та транслітеруйте:
 

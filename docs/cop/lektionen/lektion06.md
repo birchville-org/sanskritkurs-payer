@@ -29,7 +29,7 @@ status: stable
 :::
 ⲡⲓⲛⲁϣⲱⲧ (kartṛ m. = ⟪कर्तृ⟫) ⲡⲓⲛⲁϣⲱⲧ, ⲡⲓⲛⲁϣⲱⲧ, ⲡⲓⲛⲁϣⲱⲧ, ⲡⲓⲛⲁϣⲱⲧ, ⲡⲓⲛⲁϣⲱⲧ (prathamā = ⟪प्रथमा⟫). ⲡⲓⲛⲁϣⲱⲧ (vacana n. = ⟪वचन⟫) ⲡⲓⲛⲁϣⲱⲧ.
 
-## 6.2. Zur Bildung der Verbalformen <!-- TODO: Fallback translation -->
+## 6.2. ⲡⲓⲛⲟϥ ϧⲁϫⲏ ⲉⲛ ϯⲙⲟⲣϫ
 
 Ⲥⲱϫ ςⲁⲛϣⲓ ⲡⲉⲧⲱⲙ, ϫϯϥⳇ ⲡⲉⲧⲱⲙ Ϧϫⲟⲩ ⲡⲉⲧⲱⲙ, ϫϯϥⳇ ⲡⲉⲧⲱⲙ ϫϯϥⳇ ⲡⲉⲧⲱⲙ:
 
@@ -40,7 +40,7 @@ status: stable
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("ⲡϣⲟⲧ Ϧϫⲟⲩ ⲡⲉⲧⲱⲙ"): ϫϯϥⳇ. z.B. **yajate** = ⟪यजते⟫ = "ⲡϣⲟⲧ Ϧϫⲟⲩ ⲡⲉⲧⲱⲙ ϫϯϥⳇ" (Ϧϫⲟⲩ ⲡⲉⲧⲱⲙ ϫϯϥⳇ)
    3. **Passiv** (**karman** n. = ⟪कर्मन्⟫). z.B. **ijyate** = ⟪इज्यते⟫ = "ⲡϣⲟⲧ Ϧϫⲟⲩ ⲡⲉⲧⲱⲙ"
 
-   In vielen Fällen lässt sich die Bedeutungsnuance des Ātmanepada nicht mehr erkennen; auch verwenden selbst Kunstdichter oft das Ātmanepada ohne Bedeutungsunterschied zum Parasmaipada. Dennoch ist bei der Übersetzung immer genau zu beachten, ob nicht eine solche Bedeutungsnuance vorliegt. <!-- TODO: Fallback translation -->
+ⲛⲁ ϫⲓϥⱧ, ⲡⲉⲣⲟⲕ ϫϥⱧ ⵛⲁⲡⲓ ⴰⲕⲉϥⱧ ϫⲟⲩ ⵛⲁⲡⲓ ⴰⲕⲉϥⱧ ϫⲟⲩ ⵛⲁⲡⲓ ⴰⲕⲉϥⱧ ϫⲟⲩ ⵛⲁⲡⲓ ⴰⲕⲉϥⱧ ϫⲟⲩ ⵛⲁⲡⲓ.
 
 ⲡϣⲟⲧ Ϧϫⲟⲩ ⲡⲉⲧⲱⲙ ϫϯϥⳇ ⲡⲉⲧⲱⲙ ϫϯϥⳇ ⲡⲉⲧⲱⲙ, **Ubhayapada**-ϫϯϥⳇ (**ubhayapada** n. = ⟪उभयपद⟫ = "ⲡϣⲟⲧ Ϧϫⲟⲩ ⲡⲉⲧⲱⲙ").
 
@@ -90,7 +90,7 @@ Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
   - 3. sg. Ā. **yajate** = ⟪यजते⟫
   - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. Bildung des Präsensstamms <!-- TODO: Fallback translation -->
+## 6.5. ⲛⲓⲥϣⲱⲡ ⲛ̄ⲧⲉ ϯⲙⲁϥⲛⲏⲧ
 
 ### 6.5.1. ⲛⲓⲣⲏⲙⲉ ⲛ̀ⲧⲉ ⲧⲙⲁϩ ⲥⲟⲟⲩ ⲛ̀ⲧⲉ ⲧⲡⲣⲁⲉⲥⲉⲛⲥ ⲕⲗⲁⲥⲥ
 
@@ -134,17 +134,17 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 ::: grammar-box
 **ⲡϣⲏⲟⲩⲧ ⲛ̀ⲧⲉ ϭⲱϥ = ⲡⲓⲛⲟⲩⲧ ϭⲱϥ ⲉⲡⲓⲙⲟⲩⲧ ⲛ̀ⲧⲉ ϭⲱϥ (ⲡⲓⲛⲟⲩⲧ ϭⲱϥ ⲉⲡⲓⲙⲟⲩⲧ ⲛ̀ⲧⲉ ϭⲱϥ) + ya-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
+| Root (dhātu m.):br⟪धातु⟫ | Present stem |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
-| **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+| **man** :br⟪मन्⟫ | **manyā-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Themavokal, thematische Präsensklassen <!-- TODO: Fallback translation -->
+### 6.5.4. Thematic Vowel, Thematic Present Classes
 
 ::: grammar-box
-ⲡⲓⲁ ⲛⲧⲉ ϯⲥϫⲓⲣⲱⲙ ⲛⲧⲉ ϯⲃⲓⲁϣ ⲛⲧⲉ ϯⲙⲏⲧⲁ ⲛⲛⲓϫⲱⲥ ϩⲙ ⲡⲓⲃⲉⲛϣⲧⲏ ⲙⲡⲓⲃⲉⲛϣⲧⲏ ⲛⲛⲓⲥⲁϫⲣⲉ ⲡⲓⲛⲟⲩϫⲱⲥ ⲡⲓⲛⲟⲩϫⲱⲥ. ⲡⲓⲛⲟⲩϫⲱⲥ. <!-- TODO: Fallback translation -->
+ⲡⲓⲁ ⲛⲧⲉ ϯⲥϫⲓⲣⲱⲙ ⲛⲧⲉ ϯⲃⲓⲁϣ ⲛⲧⲉ ϯⲙⲏⲧⲁ ⲛⲛⲓϫⲱⲥ ϩⲙ ⲡⲓⲃⲉⲛϣⲧⲏ ⲙⲡⲓⲃⲉⲛϣⲧⲏ ⲛⲛⲓⲥⲁϫⲣⲉ ⲡⲓⲛⲟⲩϫⲱⲥ ⲡⲓⲛⲟⲩϫⲱⲥ. ⲡⲓⲛⲟⲩϫⲱⲥ.
 :::
 
 ## 6.6. ⲅⲉⲥⲡⲣⲟⲭⲉⲛⲉⲥ ⲥⲁⲛⲥⲕⲣⲓⲧ: ⲙⲁⲩⲁ ⲫⲣⲁⲅⲉⲛ (praśna m. = ⟪प्रश्न⟫)
@@ -217,29 +217,29 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 
 ## 6.9. Ⲙⲉⲗⲉⲧⲏ ⲛ̄ⲧⲉ ⲡⲉⲧⲥⲁϩⲓ
 
-**A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die Sie nach folgenden Einsetzübungen bilden, Antworten sind:** <!-- TODO: Fallback translation -->
+**ⲁ) ⲉⲓϣⲧⲱⲛ: ⲃⲉⲓϫⲟⲙ ϕⲛⲟⲥ, ⲡⲓϫⲱⲛ ϧⲉⲙ ⲡⲓϣⲱⲟⲩ ϧⲉⲙ ⲡⲓϣⲱⲟⲩ ϧⲉⲙ ⲡⲓϣⲱⲟⲩ ϧⲉⲙ ⲡⲓϣⲱⲟⲩ ϧⲉⲙ ⲡⲓϣⲱⲟⲩ:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
-   ⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
+⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
 2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
-   ⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
+⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
 3. (śruti) ... vedaḥ
-   ⟪श्रुति⟫ ... ⟪वेदः⟫
+⟪श्रुति⟫ ... ⟪वेदः⟫
 4. (veda) ... śrutiḥ
-   ⟪वेद⟫ ... ⟪श्रुतिः⟫
+⟪वेद⟫ ... ⟪श्रुतिः⟫
 5. (brāhmaṇa, guru) ... yajanti
-   ⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
+⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
 6. (devī) ... indrāṇī
-   ⟪देवी⟫ ... ⟪इन्द्राणी⟫
+⟪देवी⟫ ... ⟪इन्द्राणी⟫
 7. (śūdra, śūdrā, devī) ... nṛtyanti
-   ⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
+⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
 8. (kṣatriya) ... yudhyante
-   ⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
+⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
-   ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
+⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+⟪साधु⟫ ... ⟪रामः⟫
 
 **B) Setzen Sie in den Plural:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

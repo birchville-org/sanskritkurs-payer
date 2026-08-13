@@ -69,7 +69,7 @@ C) Următoarele rădăcini, opțional, cu sau fără vocala de legătură:
 D) Traduceți și descompuneți compusele:
 
 ⟪१⟫. **⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञ्नैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫**
-Pentru a obține un cer, oamenii doresc să onoreze zeii cu jertfe.
+Pentru a obține un cer, oamenii doresc să onoreze zeii cu jertfe. <!-- TODO: Fallback translation -->
 
 ⟪२⟫. **⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫**
 (⟪महत्पुण्यम्⟫ ⟪।⟫ ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪जनेन⟫)
@@ -91,7 +91,7 @@ Pentru a răscumpăra lumi, Buddha învață adevărurile noble.
 Plini de lăcomie, bărbații au mers pentru a vedea dansând frumoasa slujnică.
 
 ⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
+Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert. <!-- TODO: Fallback translation -->
 
 ⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
@@ -112,7 +112,7 @@ Mâncatul, somnul, frica și sexul sunt comune oamenilor cu animalele. Diferenț
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Sursa imaginii: [Detalii](/licenses#uebung035))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Exerciții suplimentare
 
@@ -131,7 +131,7 @@ A) Traduceți în sanscrită:
 **⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫**
 
 5\. Yoga este oprirea activităților organelor de gândire.
-**⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫**
+**⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 6\. Dreptatea triumfă, nu nedreptatea; adevărul triumfă, nu minciuna; răbdarea triumfă, nu mânia; Dumnezeu triumfă, nu un zeu opus. (Pasiv)
 **⟪धर्मो⟫ ⟪जयति⟫ ⟪नाधर्मः⟫ ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪।⟫ ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫ ⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪॥⟫**

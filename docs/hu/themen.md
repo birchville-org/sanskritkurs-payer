@@ -3,17 +3,15 @@ aside: false
 outline: false
 ---
 
+# Grammatik Index
 
-
-# Nyelvtani Index
-
-A nyelvtani index felsorolja a szanszkintanfolyam összes nyelvtani témáját és jelenségét, valamint lehetővé teszi a gyors hozzáférést az egyes leckékhez.
+A Grammatikai index felsorolja a szanszkit kurzus összes grammatikai témáját és jelenségét, valamint lehetővé teszi a gyors hozzáférést az adott leckékhez.
 
 <PayerTopicIndex />
 
 <style>
-/* Az index teljes szélességű elrendezésének beállítása */
+/* Adjust layout for full width index */
 .VPDoc {
-padding: 32px 48px 64px !important;
+  padding: 32px 48px 64px !important;
 }
 </style>

@@ -9,20 +9,20 @@ status: stable
 
 # Luento 54
 
-## 54.1. Esipuhe
+## 54.1. Esipuhe <!-- TODO: Fallback translation -->
 
 Luentokauden 54 alussa yliopistokurssi siirtyy toiselle puoliskolle. Tämän jälkeen kurssi etenee vain sivussa tämän lukukauden pääaiheesta: Bhagavadgītā:n kokonaan lukemisesta. Oppimistavoitteena on sellainen sujuvuus keskitason tekstin lukemisessa, että kurssin viimeisen kolmanneksen aikana Bhagavadgītā:n laajoja osia voidaan kääntää suoraan sanasta sanaan. Kurssin alussa yliopistokurssilla jaettiin sanastoja, mutta myöhemmin opiskelijoiden tuli käyttää itse vastaavia sanakirjoja (Monier-Williams, Apte, PW).
 
-Kurssi Bhagavadgītā:sta ei toistaiseksi saatavilla verkossa.
+Kurssi Bhagavadgītā:sta ei toistaiseksi saatavilla verkossa. <!-- TODO: Fallback translation -->
 
-Sanskrit-kurssin oppitunnit käsittelevät sanskritinkielisen grammatikan aiheita, joita ei ole aiemmin käsitelty.
+Sanskrit-kurssin oppitunnit käsittelevät sanskritinkielisen grammatikan aiheita, joita ei ole aiemmin käsitelty. <!-- TODO: Fallback translation -->
 
-## 54.2. Sananmuodostus: ⟪कृत्⟫-liite -u toivotustevokseen
+## 54.2. Sananmuodostus: ⟪कृत्⟫-liite -u toivotustevokseen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**Toivotusteveisiin (⟪इच्छाप्रकृति⟫) ("haluta tehdä jotakin"; "olla tekemässä jotakin") liitetään toimijan substantiivien muodostamiseksi -u-liite.**
+**Toivotusteveisiin (⟪इच्छाप्रकृति⟫) ("haluta tehdä jotakin"; "olla tekemässä jotakin") liitetään toimijan substantiivien muodostamiseksi -u-liite.** <!-- TODO: Fallback translation -->
 
-(Desideratiivijänteiden muodostaminen seuraa myöhemmin)
+(Desideratiivijänteiden muodostaminen seuraa myöhemmin) <!-- TODO: Fallback translation -->
 
 Esimerkki:
 
@@ -36,14 +36,14 @@ Kuv.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5402))
 :::
-## 54.3. Metriikka II: eepillinen ⟪त्रिष्टुभ्⟫ ja ⟪जगती⟫
+## 54.3. Metriikka II: eepillinen ⟪त्रिष्टुभ्⟫ ja ⟪जगती⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 ⟪त्रिष्टुभ्⟫ ("kolmen huudahduksen mitta") esiintyy eepoksissa tavallisten ⟪श्लोक⟫-osien keskellä juuri niissä kohdissa, joissa tunnelma tai toiminta kokevat erityisen nousun tai päättymisen.
 
-⟪त्रिष्टुभ्⟫-runo koostuu neljästä yhdeksän tavusta sisältävästä ⟪पाद⟫-runosäkeestä, jotka eivät eroa rakenteeltaan toisistaan.
+⟪त्रिष्टुभ्⟫-runo koostuu neljästä yhdeksän tavusta sisältävästä ⟪पाद⟫-runosäkeestä, jotka eivät eroa rakenteeltaan toisistaan. <!-- TODO: Fallback translation -->
 
-⟪त्रिष्टुभ्⟫:llä on kaksi peruskaavaa riippuen siitä, sijoittuuko katkos (sanaraja, yhdistelmärako tai ennen tiettyjä päätteitä kuten -tara, -tama jne.) ⟪पाद⟫:n 4. vai 5. tavun jälkeen.
+⟪त्रिष्टुभ्⟫:llä on kaksi peruskaavaa riippuen siitä, sijoittuuko katkos (sanaraja, yhdistelmärako tai ennen tiettyjä päätteitä kuten -tara, -tama jne.) ⟪पाद⟫:n 4. vai 5. tavun jälkeen. <!-- TODO: Fallback translation -->
 
 Kaava I:
 
@@ -56,9 +56,9 @@ Kaava II:
 ::: metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
-Neljän viimeisen tavun kvantiteetti on siis sama molemmissa malleissa.
+Neljän viimeisen tavun kvantiteetti on siis sama molemmissa malleissa. <!-- TODO: Fallback translation -->
 
-⟪जगती⟫-päämuoto: kuten ⟪त्रिष्टुभ्⟫, mutta 12-tavuinen. Jokaisen padan viimeiset viisi tavua nousevat seuraaviin kvantiteetteihin:
+⟪जगती⟫-päämuoto: kuten ⟪त्रिष्टुभ्⟫, mutta 12-tavuinen. Jokaisen padan viimeiset viisi tavua nousevat seuraaviin kvantiteetteihin: <!-- TODO: Fallback translation -->
 
 ::: metrik-schema
 **— ◡ — ◡ —**
@@ -68,7 +68,7 @@ Sen lisäksi on olemassa ns. tyypillisesti ylimääräinen ⟪त्रिष्
 ::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
-Myöhemmin ⟪त्रिष्टुभ्⟫-muodot vakiintuvat tiukan pituuksien ja lyhyiden välien kaavan mukaan; katkapaikka ei enää ole merkittävä. Tärkeimmät myöhemmät muodot ovat:
+Myöhemmin ⟪त्रिष्टुभ्⟫-muodot vakiintuvat tiukan pituuksien ja lyhyiden välien kaavan mukaan; katkapaikka ei enää ole merkittävä. Tärkeimmät myöhemmät muodot ovat: <!-- TODO: Fallback translation -->
 
 a) ⟪इन्द्रवज्रा⟫
 
@@ -107,21 +107,21 @@ c) ⟪उपजाति⟫
 ::: indent
 "Kun kaksi pādasiin, jotka ovat ominaispiirteiltään Indravajrā tai Upendravajrā, osallistuvat runoon, ne ovat upajāti. Myös kun muita metrejä sekoitetaan yhteen runoon, sitä kutsutaan upajātiiksi."
 :::
-## 54.4. Harjoitus metriikasta
+## 54.4. Harjoitus metriikasta <!-- TODO: Fallback translation -->
 
-Määritä Bhagavadgītā II:n triṣṭubh- ja jagatī-säkeet.
+Määritä Bhagavadgītā II:n triṣṭubh- ja jagatī-säkeet. <!-- TODO: Fallback translation -->
 
 Esimerkki recitaatiosta: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Viitattu 28.1.2009
 
 ## 54.5. Aoristin muodostustyypit (⟪लुङ्⟫)
 
 ::: grammar-box
-**Kaikille aoristin muodostustyypeille (⟪लुङ्⟫) on yhteistä augmenti a-, joka lisätään samoin säännöin kuin imperfektissa (⟪लङ्⟫).**
+**Kaikille aoristin muodostustyypeille (⟪लुङ्⟫) on yhteistä augmenti a-, joka lisätään samoin säännöin kuin imperfektissa (⟪लङ्⟫).** <!-- TODO: Fallback translation -->
 
 Aoristista sanskritissa käytetään vain indikatiivia ja prekatiivia.
 :::
 ::: grammar-box
-**Aoristin seuraavat muodostustyypit (⟪लुङ्⟫):**
+**Aoristin seuraavat muodostustyypit (⟪लुङ्⟫):** <!-- TODO: Fallback translation -->
 
 1.  Asibanttiset (asigmaattiset) aoristit:
     *   54.1. Juuri-aoristi: Augmentti + juuri + sekundääripäätteet
@@ -131,7 +131,7 @@ Aoristista sanskritissa käytetään vain indikatiivia ja prekatiivia.
     *   54.4. -s-aoristi: Augmentti + juuri + **s** \+ sekundääripäätteet
     *   54.5. -iṣ-aoristi: Augmentti + juuri + **i** + **ṣ** + sekundääripäätteet
     *   54.6. -siṣ-aoristi: Augmentti + juuri + **siṣ** + sekundääripäätteet
-    *   54.7. -sa-aoristi: Augmentti + juuri + **s** + **a** + sekundääripäätteet
+    *   54.7. -sa-aoristi: Augmentti + juuri + **s** + **a** + sekundääripäätteet <!-- TODO: Fallback translation -->
 
 Varsien jakautuminen eri muodostustyypeihin ks. kunkin tyypin kohdalta
 :::
@@ -142,7 +142,7 @@ Varsien jakautuminen eri muodostustyypeihin ks. kunkin tyypin kohdalta
 
 **Augment + Root + Sekundärendung**
 :::
-Die Pääte der 3. monikko ist -ur. Ātmanepada ist nicht gebräuchlich.
+Die Pääte der 3. monikko ist -ur. Ātmanepada ist nicht gebräuchlich. <!-- TODO: Fallback translation -->
 
 Esimerkki:
 
@@ -168,7 +168,7 @@ Nur von 12 Juurin wird der Juuri-Aorist gebildet:
 9.  ⟪शो⟫ 4P "terävöittää"
 10.  ⟪सो⟫ "päättää"
 11.  ⟪स्था⟫ 1P "seistä"
-12.  ⟪भू⟫ 1P "olla"
+12.  ⟪भू⟫ 1P "olla" <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P:n juuressa vartalotempus muodostetaan seuraavasti:
 
@@ -195,7 +195,7 @@ Korkeatasoinen:
 *   Juurin, joissa on lyhyt vokaali (paitsi a) yksinkertaisen konsonantin edellä, sekä ⟪जन्⟫ ja useimmat juurin muodossa -am
 Esimerkit:  
 ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "hän halkeili"  
-⟪तुद्⟫ 6U: ⟪अतोदि⟫ "hän työntyi"
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ "hän työntyi" <!-- TODO: Fallback translation -->
 
 Pituusaste:
 
@@ -215,7 +215,7 @@ mutta:
 Esimerkki:  
 ⟪गम्⟫ ⟪अगामि⟫
 
-Pääkkeen eteen lisätään y:
+Pääkkeen eteen lisätään y: <!-- TODO: Fallback translation -->
 
 *   Juurten -ā, -e, -ai ja -o kohdalle lisätään y:n ja juuren välillä -ā pääkkeen edelle:
 Esimerkki:  
@@ -231,7 +231,7 @@ Esimerkiksi:
 :::
 ## 54.7. Harjoitus
 
-Käännä kirjallisesti seuraavat muodot ja muodosta niihin vastaavat aoristimuodot:
+Käännä kirjallisesti seuraavat muodot ja muodosta niihin vastaavat aoristimuodot: <!-- TODO: Fallback translation -->
 
 1.  ⟪यन्ति⟫
 2.  ⟪पिबामि⟫
@@ -262,13 +262,13 @@ Käännä kirjallisesti seuraavat muodot ja muodosta niihin vastaavat aoristimuo
 Kuv.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5401))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Kuv lähde: Raji Srinivas / Wikipedia. GNU FDLicense]
+**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Kuv lähde: Raji Srinivas / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt5401:** Tamil Nadu [Kuv lähde: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Pääsy 2009-01-28. -- [Creative Commons -lupa](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, shre alike)]
+**lekt5401:** Tamil Nadu [Kuv lähde: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Pääsy 2009-01-28. -- [Creative Commons -lupa](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, shre alike)] <!-- TODO: Fallback translation -->
 
 :::
 

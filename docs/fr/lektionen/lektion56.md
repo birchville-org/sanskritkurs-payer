@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 56
+# Leçon 56
 
 ## 56.1. L'aoriste redoublé
 
@@ -54,22 +54,30 @@ Cette forme d'aoriste est formée notamment par :
 **La syllabe de la racine peut être de niveau grave ou aigu. Pour les racines en -i ou -u, le niveau grave est la règle.**
 
 *   **Le -i, -u final est remplacé par -iy ou -uv.**
-    ⟪पॄ⟫ 3P : Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫  
-    ⟪द्रु⟫ 1P : Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫  
-    :sig[⟪नी⟫] 1U : Kaus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
-    ⟪ज्ञा⟫ 9U : Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
+::: indent
+⟪पॄ⟫ 3P : Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫
+⟪द्रु⟫ 1P : Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫
+:sig[⟪नी⟫] 1U : Kaus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫
+⟪ज्ञा⟫ 9U : Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
+:::
 
 *   **La finale -ā (pour -e) est élidée.**
-    ⟪चित्⟫ 1P : Caus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫
+::: indent
+⟪चित्⟫ 1P : Caus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫
+:::
 
 *   ⟪श्रि⟫ 1U « se rendre à, s'appuyer sur »
-    ⟪चुर्⟫ 10U : **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
+::: indent
+⟪चुर्⟫ 10U : **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
+:::
 
 **Pour certaines racines, les modifications mentionnées jusqu’ici sont facultatives ou doivent être omises :**
 
 *   |   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-    ⟪कॢप्⟩ 1Ā : Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U : Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
+::: indent
+⟪कॢप्⟩ 1Ā : Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫
+⟪कृष्⟫ 1P/6U : Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
+:::
 :::
 ⟪पत्⟫ 1P « tomber » : ⟪अपप्तत्⟫ (a-pa-pt-a-t ; pt = niveau grave de pat)
 
@@ -85,14 +93,18 @@ Cette forme d'aoriste est formée notamment par :
 **Toutes les racines de la 10e classe de présent, ainsi que tous les causatifs, forment toujours l'aoriste à redoublement.**
 
 *   **i, u est remplacé par ī, ū lorsque la syllabe racine commence par un seul consonne et est métriquement brève :**  
-    ⟪भिद्⟫ 7U : Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U : Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
+::: indent
+⟪भिद्⟫ 7U : Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
+⟪तुद्⟫ 6U : Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
+:::
 
 *   **a est remplacé par ī lorsque la syllabe radicale est métriquement brève et commence par un seul consonne. Si la syllabe radicale est métriquement brève et commence par plus d’un consonne, le a de la syllabe de redoublement est remplacé par i. Si la syllabe radicale est métriquement longue, le a est conservé :**  
     :sig[⟪नी⟫] 1U : Caus. ⟪नाययति⟫, syllabe radicale de l’Aor. ⟪नय्⟫, Aor. ⟪अ⟫**:sig[⟪नी⟫]**⟪नयत्⟫  
     :sig[⟪कृ⟫] 8U : Caus. ⟪कारयति⟫, syllabe radicale de l’Aor. ⟪कर्⟫, Aor. ⟪अ⟫**:sig[⟪ची⟫]**⟪करत्⟫  
-    ⟪त्यज्⟫ 1P : Caus. ⟪त्याजयति⟫, syllabe radicale de l’Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫  
-    ⟪भू⟫ 1P : Caus. ⟪भावयति⟫, syllabe radicale de l’Aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
+::: indent
+⟪त्यज्⟫ 1P : Caus. ⟪त्याजयति⟫, syllabe radicale de l’Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫
+⟪भू⟫ 1P : Caus. ⟪भावयति⟫, syllabe radicale de l’Aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
+:::
 
 Particularités de certaines racines chez Kielhorn, Grammaire § 435c ss.
 
@@ -198,7 +210,7 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913) : Syntaxe sanskrite. -- Leyde : Br
 Fig. : ⟪अलं⟫  ⟪विषादेन⟫
 (Source de l’image : [Détails](/fr/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫
+## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪स्म⟫ souligne : « véritablement, certes, assurément, précisément »**

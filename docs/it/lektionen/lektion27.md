@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 27
 
@@ -45,7 +45,7 @@ Jaipur, 1875.
 **Se l'azione o lo stato di una persona o cosa determina il tempo, al quale - o le circostanze, in cui - un'altra persona o cosa compie un'azione o si trova in un determinato stato, allora la parola che designa la prima persona o cosa, insieme alla parola che la specifica ulteriormente (che spesso è un participio), si trova nel Locativo (⟪सप्तमी⟫):**
 
 > ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "mentre il tempo scorre..."
->
+&gt;
 > ⟪तस्मिन्गते⟫ = "quando egli era andato via..."
 
 **A volte l'agente (⟪कर्ता⟫) non è esplicitamente indicato:**
@@ -93,7 +93,7 @@ Ulteriori informazioni sull'uso del Locativo più avanti.
 
 **Le desinenze regolari del Locativo (⟪सप्तमी⟫) sono:**
 *   **Singolare: -i**
-*   **Pluraleee: -su**
+*   **Pluraleeeeee: -su**
 
 **Si notino le variazioni fonetiche prima di -su, nonché la possibile cerebralizzazione di -su in -ṣu!**
 
@@ -163,24 +163,30 @@ Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ �
 Rāma-Satz.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2708))
 :::
-*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫:br *:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫:br *:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
+*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫
+*:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
+*:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫
+*:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Traduzione:**
-1. **Nominativooo:** Rāma, il gioiello (⟪मणि⟫ m.) tra i re (⟪राजन्⟫ m.) trionfa sempre (⟪सदा⟫).
+1. **Nominativoooooo:** Rāma, il gioiello (⟪मणि⟫ m.) tra i re (⟪राजन्⟫ m.) trionfa sempre (⟪सदा⟫).
 2. **Accusativo:** Io amo (⟪भज्⟫ 1U) Rāma, il signore e marito (⟪ईश⟫ m.) di Ramā (= Lakṣmī).
 3. **Strumentale:** Rāma ha ucciso l'esercito (⟪चमू⟫ f.) dei vagabondi notturni (= demoni) (⟪निशा⟫ f. = notte).
-4. **Dativooo:** A questo Rāma sia omaggio!
-5. **Ablativooo:** Non c'è rifugio migliore (⟪परतर⟫ 3) che Rāma.
+4. **Dativoooooo:** A questo Rāma sia omaggio!
+5. **Ablativoooooo:** Non c'è rifugio migliore (⟪परतर⟫ 3) che Rāma.
 6. **Genitivo:** Io (⟪अहम्⟫) sono (⟪अस्मि⟫) un servo di Rāma.
 7. **Locativo:** In Rāma ci sia (⟪भवतु⟫) sempre la pace (⟪लय⟫ m.) del mio (⟪मे⟫) cuore.
-8. **Vocativo:** Rāma, salva (⟪उद्धर⟫ = Imperativooo di ⟪उद्⟫ + ⟪हृ⟫ oppure ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
+8. **Vocativo:** Rāma, salva (⟪उद्धर⟫ = Imperativoooooo di ⟪उद्⟫ + ⟪हृ⟫ oppure ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
 
 ## 27.5. Elenco di parole
 
 **⟪वस्⟫** 1P (⟪वसति⟫): dimorare, abitare (con il locativo della persona presso cui si abita)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫
+**Pass.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Inf.:** ⟪वस्तुम्⟫
 :::
 da ciò:
 
@@ -194,7 +200,9 @@ da ciò:
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): indossare (abiti), portare (abiti)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 da ciò:
 
@@ -223,7 +231,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫): tenere, portare; prendere, portare via, rubare
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 da ciò:
 

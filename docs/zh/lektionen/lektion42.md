@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 42
+# 第42課
 
 ## 42.1. Stämme auf -ṛ <!-- TODO: Fallback translation -->
 

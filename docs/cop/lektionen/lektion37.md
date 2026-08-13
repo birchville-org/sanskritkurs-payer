@@ -56,8 +56,7 @@ Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hi
 ::: grammar-box
 Ⲧⲉϣⲁⲥⲡⲓ (⟪तृतीया⟫) ⲛⲁϥⲙⲟⲛ ⲉⲧϣⲏⲙ ⲁⲡⲟ̀:
 
-*   ⲛⲁⲓ?
-ⲉϣⲟⲡ.
+*   ⲉϣⲟⲡ.
 *   womit? <!-- TODO: Fallback translation -->
 *   u. ä. <!-- TODO: Fallback translation -->
 
@@ -106,8 +105,10 @@ Adverbial gebraucht werden kann der Ablativ: <!-- TODO: Fallback translation -->
 
 *   von Pronomina
     Beispiele:  
-    ⟪कस्मात्⟫ "warum"  
-    ⟪अकस्मात्⟫ "unerwartet"
+::: indent
+⟪कस्मात्⟫ "warum"
+⟪अकस्मात्⟫ "unerwartet"
+:::
 :::
 ### 37.2.5. ⲅⲉⲛⲉⲧⲓⲃ
 

@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 36
 
@@ -111,7 +111,7 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3601))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : caminar, ir, irse
 
@@ -131,7 +131,7 @@ Inf. ⟪व्रजितुम्⟫
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3602))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: indent
 de ello:
@@ -239,7 +239,7 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3604))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪स्वक⟫ 3: propio (mío, tuyo ...) ; m.: miembro
 

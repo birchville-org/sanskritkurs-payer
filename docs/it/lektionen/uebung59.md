@@ -23,24 +23,24 @@ La traduzione è volutamente volutamente irregolare, per servire come aiuto alla
 
 _Aiuto alla traduzione:_ Verso 6: ⟪दिदृक्षते⟫ \= Desiderativo per ⟪दृश्⟫
 
-Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
+Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s. &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫
 
 > In seguito il principe dei demoni ebbe paura. Guardò intorno per la città e inviò i Rākṣasas per svegliare Kumbhakarṇa¹.
->
+&gt;
 > ⟪अभैषीत्⟫ -  ⟪भी⟫ Aor. 4 P  
 > ⟪ऐक्षिष्ट⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā  
 > ⟪प्रातिष्ठिपत्⟫ - ⟪प्र⟫-⟪स्था⟫ irreg. (vedi Pāṇini 7.4.5) Aor. 3
->
+&gt;
 > 1 Kumbhkarṇa, il fratello di Rāvaṇa, giace in sonno perpetuo come punizione per le sue cattive azioni.
 
 ⟪ते⟫ ⟪ऽभ्यगुर्भवनं⟫ ⟪तस्य⟫ ⟪सुप्तं⟫ ⟪चैक्षिषताथ⟫ ⟪तम्⟫ ⟪।⟫  
 ⟪व्याहार्षुस्तुमुलाञ्छब्दान्दण्डैश्चावधिषुर्द्रुतम्⟫ ⟪॥२॥⟫
 
 > Questi andarono alla sua casa e lo videro dormire. Emisero rumori tumultuosi e picchiarono rapidamente con i bastoni.
->
+&gt;
 > ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (per ⟪इ⟫) Aor. 1 P  
 > ⟪अक्षिषत⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā (3.pl.)  
 > ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ pronunciare, dire Aor. 4 P  
@@ -50,7 +50,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪शीतैरभ्यषिचंस्तोयैरलातैश्चाप्यदम्भिषुः⟫ ⟪॥३॥⟫
 
 > Gli strapparono i capelli, fecero errare elefanti sulle sue membra; lo spruzzarono con acqua fredda e lo ferirono con fuochi.
->
+&gt;
 > ⟪अलुञ्चिषुर्⟫ - ⟪लुञ्च्⟫ Aor. 5  
 > ⟪अबिभ्रमन्⟫ - ⟪भ्रम्⟫ Caus. Aor. 3  
 > ⟪अभ्यषिचन्⟫ - ⟪सिच्⟫ Aor. 2  
@@ -60,7 +60,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪शितैरतौत्सुः⟫ ⟪शूलैश्च⟫ ⟪भेरीश्चावीवदञ्छुभाः⟫ ⟪॥४॥⟫
 
 > Lo tagliarono con affilate unghie e lo morderono con i denti, lo colpirono con affilate lance e fecero risuonare chiare tambure.
->
+&gt;
 > ⟪अकर्तिषुर्⟫ - ⟪कृत्⟫ Aor. 5  
 > ⟪अदाङ्क्षुर्⟫ - ⟪दंश्⟫ Aor. 4  
 > ⟪अतौत्सुर्⟫ - ⟪तुद्⟫ Aor. 4  
@@ -70,7 +70,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪अबूबुधत⟫ ⟪कस्मान्मामप्राक्षीच्च⟫ ⟪निशाचरान्⟫ ⟪॥५॥⟫
 
 > Non prestò attenzione a tutti costoro, per proprio volente si risvegliò da sé e chiese ai sonnambuli: "Perché mi avete svegliato?"
->
+&gt;
 > ⟪अजीगणत्⟫ - ⟪गण्⟫ 10 Aor 3  
 > ⟪अबुद्ध⟫ - ⟪बुध्⟫ Aor 4 (accanto a ⟪अबोधि⟫)  
 > ⟪अबुबूधत⟫ - ⟪बुध्⟫ Caus. Aor. 3 (2.pl.P)  
@@ -80,7 +80,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪सो⟫ ⟪ऽस्नासीद्व्यलिपन्मांसमप्सासीद्वारुणीमपात्⟫ ⟪॥६॥⟫
 
 > Questi dissero: "Il Re è desideroso di vederti, sonnambulo!" Si bagnò, si unse, divorò carne, bevve vino di palma;
->
+&gt;
 > ⟪अभाषिषत⟫ - ⟪भाष्⟫ Ā Aor. 5  
 > ⟪अस्नासीत्⟫ - ⟪स्ना⟫ Aor. 6  
 > ⟪व्यलिपत्⟫ - ⟪वि⟫-⟪लिप्⟫ Aor. 2  
@@ -91,7 +91,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪राजायान्तं⟫ ⟪तमद्राक्षीदुदस्थाच्चेषदासनात्⟫ ⟪॥७॥⟫
 
 > Si vestì, poi uscì di casa per vedere Rāvaṇa. Il Re lo vide arrivare e si alzò un poco dal suo sedile.
->
+&gt;
 > ⟪न्यवसिष्ट⟫ - ⟪नि⟫-⟪वस्⟫ 2Ā Aor. 5  
 > ⟪प्रावृतत्⟫ - ⟪प्र⟫-⟪वृत्⟫ Ā Aor. 2 P (nell'Aor. anche P!)  
 > ⟪अद्राक्षीत्⟫ - ⟪दृश्⟫  Aor. 4  
@@ -101,7 +101,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪अस्मेष्ट⟫ ⟪कुम्भकर्णो⟫ ⟪ऽल्पमुपाविक्षदथान्तिके⟫ ⟪॥८॥⟫
 
 > Era soddisfatto e gli indicò una sedia dorata nelle vicinanze. Kumbhkarṇa sorrise leggermente e poi si sedette nelle vicinanze.
->
+&gt;
 > ⟪अतुषत्⟫ - ⟪तुष्⟫ Aor. 2
 > ⟪निरदिक्षत्⟫ - ⟪निर्⟫-⟪दिश्⟫ Aor. 7
 > ⟪अस्मेष्ट⟫ - ⟪स्मि⟫ Ā Aor. 4
@@ -111,7 +111,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪नाज्ञासीस्त्वं⟫ ⟪सुखी⟫ ⟪रामो⟫ ⟪यदकार्षीत्स⟫ ⟪रक्षसाम्⟫ ⟪॥९॥⟫
 
 > Parlando: "Perché mi hai chiamato?" Gli rispose il re: "Beato, non hai riconosciuto ciò che Rāma ha fatto ai demoni.
->
+&gt;
 > ⟪अवादीत्⟫ - ⟪वद्⟫ Aor. 5
 > ⟪आह्वस्⟫ - ⟪आ⟫-⟪ह्वे⟫ Aor. 2
 > ⟪प्रत्यवादि⟫ - ⟪प्रति⟫-⟪वद्⟫ Passivaorist
@@ -122,7 +122,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪व्यद्योतिष्ट⟫ ⟪रणे⟫ ⟪शस्त्रैरनैषीद्राक्षसान्क्षयम्⟫ ⟪॥१०॥⟫
 
 > Ha attraversato l'oceano, ha bloccato la nostra città tutt'intorno, ha brillato nella battaglia con armi affilate, ha condotto i demoni alla distruzione.
->
+&gt;
 > ⟪उदतारीत्⟫ - ⟪उद्⟫-⟪तॄ⟫ Aor. 5
 > ⟪अरुधत्⟫ - ⟪रुध्⟫ Aor. 2
 > ⟪व्यद्योतिष्ट⟫ - ⟪वि⟫-⟪द्युत्⟫  Aor. 5
@@ -132,7 +132,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪बन्धुस्त्वमर्चितः⟫ ⟪स्नेहान्मा⟫ ⟪द्विषो⟫ ⟪न⟫ ⟪वधीर्मम⟫ ⟪॥११॥⟫
 
 > Io, finché ho vissuto, non ho detto adulazione. Tu sei il mio parente venerato per amore. Non smettere di abbattere i miei nemici!
->
+&gt;
 > ⟪प्रावोचम्⟫ - ⟪प्र⟫-⟪वच्⟫ Aor. 3
 > ⟪अजीविषम्⟫ - ⟪जीव्⟫ Aor. 5
 > ⟪वधीस्⟫ - ⟪वध्⟫ Injunktiv Aor. 5
@@ -141,7 +141,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪तवाद्राक्ष्म⟫ ⟪वयं⟫ ⟪वीर्यं⟫ ⟪त्वमजैषीः⟫ ⟪पुरा⟫ ⟪सुरान्⟫ ⟪॥१२॥⟫
 
 > Non smettere di mostrare il tuo valore virile, non smettere di salvare la città ferita! Abbiamo visto il tuo valore virile. In passato hai sconfitto gli dei."
->
+&gt;
 > ⟪ददर्शस्⟫ - ⟪दृश्⟫ Caus. Injunktiv Aor. 3
 > ⟪त्रास्थास्⟫ - ⟪त्रै⟫ Ā Injunktiv. Aor. 4
 > ⟪अद्राक्ष्म⟫ - ⟪दृश्⟫ Aor. 4
@@ -151,7 +151,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪न⟫ ⟪त्वं⟫ ⟪सर्वं⟫ ⟪तदश्रौषीः⟫ ⟪फलं⟫ ⟪तस्येदमागमत्⟫ ⟪॥१३॥⟫
 
 > Kumbhakarṇa gli disse: "Ciò che abbiamo esposto durante la consultazione, su tutto ciò non hai ascoltato. Questo è venuto come frutto di ciò.
->
+&gt;
 > ⟪अवोचत्⟫ - ⟪वच्⟫ Aor. 3
 > ⟪अभ्यधाम⟫ - ⟪अभि⟫-⟪धा⟫ Aor. 1
 > ⟪अश्रौषीस्⟫ - ⟪श्रु⟫ Aor. 4
@@ -161,7 +161,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪अध्यगीष्ठाश्च⟫ ⟪शास्त्राणि⟫ ⟪प्रत्यपत्था⟫ ⟪हितं⟫ ⟪न⟫ ⟪च⟫ ⟪॥१४॥⟫
 
 > Hai disprezzato le parole dei saggi, ti sei affidato alle parole degli stolti, hai studiato i trattati e non sei [nonostante ciò] giunto al salvifico.
->
+&gt;
 > ⟪अवामामंस्थास्⟫ - ⟪अव⟫-⟪मन्⟫ Aor. 4
 > ⟪अवास्थिथास्⟫ - ⟪अव⟫-⟪स्था⟫ Aor. 4
 > ⟪अध्यगीष्ठास्⟫ - ⟪अधि⟫-⟪इ⟫ (⟪अधि⟫-⟪गा⟫) Aor. 4
@@ -171,32 +171,32 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪अभाणीन्माल्यवान्युक्तमक्षंस्थास्त्वं⟫ ⟪न⟫ ⟪तन्मदात्⟫ ⟪॥१५॥⟫
 
 > Gli stolti che hanno causato la discordia ti hanno ingannato. Mālyavant¹ parlò ciò che era appropriato. Non gli hai perdonato a causa della tua ebbrezza.
->
+&gt;
 > ⟪अववञ्चन्त⟫ - ⟪वञ्च्⟫ Caus. Aor. 3
 > ⟪अचीकरन्⟫ - ⟪कृ⟫ Aor. 3
 > ⟪अभाणीत्⟫ - ⟪भण्⟫ Aor. 5
 > ⟪अक्षंस्थास्⟫ - ⟪क्षम्⟫ Aor. 4
->
+&gt;
 > 1 un Rākṣasa
 
 ⟪राघवस्यामुषः⟫ ⟪कान्तामाप्तैरुक्तो⟫ ⟪न⟫ ⟪चार्पिपः⟫ ⟪।⟫  
 ⟪मा⟫ ⟪नानुभूः⟫ ⟪स्वकान्दोषान्मा⟫ ⟪मुहो⟫ ⟪मा⟫ ⟪रुषो⟫ ⟪ऽधुना⟫ ⟪॥१६॥⟫
 
 > Hai rubato l'amata del discendente di Raghū. Sebbene ti sia stato ordinato dalle autorità di restituirla, non l'hai rimandata. Cessa di ignorare i tuoi stessi errori! Non essere confuso, non adirarti ora!
->
+&gt;
 > ⟪अमुषस्⟫ - ⟪मुष्⟫ Aor. 2  
 > ⟪आर्पि्पस्⟫ - ⟪ऋ⟫ Caus. Aor. 3  
 > ⟪अनुभूस्⟫ - ⟪अनु⟫-⟪भू⟫ Ingiuntivo Aor. 1  
 > ⟪मुहस्⟫ - ⟪मुह्⟫ Ingiuntivo Aor. 2  
 > ⟪रुषस्⟫ - ⟪रुष्⟫ Ingiuntivo Aor. 2
->
+&gt;
 > 1 Rāma
 
 ⟪तस्याप्यत्यक्रमीत्कालो⟫ ⟪यत्तदाहमवादिषम्⟫ ⟪।⟫  
 ⟪अघानिषत⟫ ⟪रक्षांसि⟫ ⟪परैः⟫ ⟪कोशांस्त्वमव्ययीः⟫ ⟪॥१७॥⟫
 
 > Per ciò che ti dissi allora, il momento giusto è passato. I Rākṣasas furono uccisi dai nemici. Hai perso i tesori.
->
+&gt;
 > ⟪अत्यक्रमीत्⟫ - ⟪क्रम्⟫ Aor. 5  
 > ⟪अवादिषम्⟫ - ⟪वद्⟫ Aor. 5  
 > ⟪अघानिषत⟫ - ⟪हन्⟫ Aoristo passivo 3.pl.  
@@ -206,7 +206,7 @@ Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathia pag. 127s.
 ⟪यत्त्वं⟫ ⟪वैराणि⟫ ⟪कोशं⟫ ⟪च⟫ ⟪सहदण्डमजिग्लपः⟫ ⟪॥१८॥⟫
 
 > Il tuo potere, base di un'alleanza, è svanito. Hai agito in modo tale da far svanire i tuoi eserciti, il tuo tesoro e il potere politico."
->
+&gt;
 > ⟪अभूत्⟫ - ⟪भू⟫ Aor. 1  
 > ⟪अकृथास्⟫ - ⟪कृ⟫ Aor. 4/1  
 > ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Caus. Aor. 3

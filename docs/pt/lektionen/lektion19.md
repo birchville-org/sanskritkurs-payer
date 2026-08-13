@@ -67,7 +67,7 @@ Nota: Em orações relativas de conteúdo geral, usa-se frequentemente o optativ
 | **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
 
 **Como primeiro membro de compostos, aparece o tema ⟪यद्⟫ (com observância do sandhi).**
 
@@ -126,7 +126,7 @@ Fig.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Fonte da imagem: [Detalhes](/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** soprar
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** soprar <!-- TODO: Fallback translation -->
 
 dele:
 

@@ -102,7 +102,7 @@ Exemple:
 **⟪हु⟫** Pers. a 3-a „a turna în foc (ca ofrandă)”
 
 * **temă puternică:** ⟪जुहो⟫
-* **temă slabă:** ⟪जुहु⟫
+* **temă slabă:** ⟪जुहु⟫ <!-- TODO: Fallback translation -->
 
 | | Pers. a 3-a sg. Ind. | Pers. a 3-a pl. Ind. | Pers. a 3-a sg. Med. | Pers. a 3-a pl. Med. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -115,9 +115,9 @@ Exemple:
 ā kann
 
 * pe de o parte, este gradul lung al uneia dintre seriile de ablaute cu -a-
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein <!-- TODO: Fallback translation -->
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A.**
@@ -276,7 +276,7 @@ Fig.: ⟪समाधि⟫
 3.pl.P **:sig[⟪पिपुरति⟫]**  
 3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (din: \*apipart)  
 3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
-3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]** <!-- TODO: Fallback translation -->
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -365,7 +365,7 @@ Fig.: ⟪हीनयानमेव⟫
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3302))
 :::
-**⟪घृत⟫** n.: unt topit, ghee (⟪घी⟫ / گھی / ঘী)
+**⟪घृत⟫** n.: unt topit, ghee (⟪घी⟫ / گھی / ঘী) <!-- TODO: Fallback translation -->
 
 ::: note-box
 „Ghee se prepară prin fierberea untului nesărat într-o oală mare, până când toată apa a fiert și proteinele s-au depus la fund. Untul gătit și clarificat se ia apoi cu lingura, pentru a nu tulbura reziduurile de lapte de la fundul vasului. Spre deosebire de unt, ghee-ul se poate păstra pe perioade îndelungate fără refrigerare, cu condiția să fie păstrat într-un recipient ermetic, pentru a preveni oxidarea, și să rămână lipsit de umiditate. Textura, culoarea sau gustul ghee-ului depind de sursa laptelui din care a fost preparat untul. În India, ghee-ul se prepară de obicei din lapte de bivol, deoarece tinde să fie mai alb decât laptele de vacă.”

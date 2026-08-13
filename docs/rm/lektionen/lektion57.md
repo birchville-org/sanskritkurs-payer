@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 57
+# Lecziun 57
 
 ## 57.1. Aorist 4: s-Aorist
 
@@ -94,7 +94,7 @@ Exemples:
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Radisn mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Radisn mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -142,14 +142,18 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 **⟪अगसि⟩ (« \*a-gm-si) ⟪।⟩ ⟪अगथास्⟩ ⟪।⟩ ⟪अगत⟩ (en P ha ⟪गम्⟩ l'aorist thematic)**
 
 2.  ⟪पद्⟫ 4Ā è regularmain (p.ex. ⟪अपत्सि⟫), en la 3.sg.Ā ha el però la furma dal aorist da radich passiv:
-    ⟪अपादि⟫ "el è ì
+::: indent
+⟪अपादि⟫ "el è ì
+:::
 
 3.  ⟪बुध्⟫ Ā poa esser en la 3.sg.Ā la furma dal aorist passiv da la radis:
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "el reconoscha"
+::: indent
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "el reconoscha"
+:::
 :::
 ## 57.2. Exercizi
 
-A) Tradurretz e determinai senza agidza las suventas formas e crea las correspundentas formas da l’aorist. A l’exceptiun da causativs e radichs che creeschan l’aorist cun s è indicà en parentesa la classa dal aorist correspundent:
+A) Tradurretz e determinai senza agidza las suventas formas e crea las correspundentas formas da l’aorist. A l’exceptiun da causativs e radichs che creeschan l’aorist cun s è indicà en parentesa la classa dal aorist correspundent: <!-- TODO: Fallback translation -->
 
 1.  ⟪पेचिथ⟫
 2.  ⟪अवक्⟫ (⟪३⟫)

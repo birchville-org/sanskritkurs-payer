@@ -4,7 +4,7 @@ lesson_id: 35
 status: stable
 ---
 
-# Lektion 35
+# Leçon 35
 
 ## 35.1. Type de parfait III : Radical fort avec grade fort/allongé
 
@@ -86,7 +86,7 @@ Exemple :
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
+## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Formation :**
@@ -143,7 +143,7 @@ Exemple :
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ | <!-- TODO: Fallback translation -->
 
 ### 35.3.3. Type de parfait Vc : Racines Consonne-a-Consonne. Forme faible au degré plein
 
@@ -164,27 +164,27 @@ Exemple :
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
+| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ | <!-- TODO: Fallback translation -->
 
 ## 35.4. Liste de mots
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : périr, se perdre, disparaître
 ::: indent
-**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**:br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
-**Kaus. ⟪नाशयति⟫**:br
+**Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : disparaître, se perdre, périr
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : avancer, aller
 ::: indent
-**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
-**Fut. ⟪क्रमिष्यति⟫**:br
-**Pass. ⟪क्रम्यते⟫**:br
-**Kaus. ⟪क्रमयति⟫**:br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
-**Inf. ⟪क्रमितुम्⟫**:br
+**Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Kaus. ⟪क्रमयति⟫**
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
@@ -195,11 +195,11 @@ Personnes marchant, Sénégal.
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti) : chanter, réciter sur un ton chantant, annoncer en vers
 ::: indent
-**IV Perf. ⟪जगौ⟫, ⟪जगुर्⟫**:br
-**Fut. ⟪गास्यति⟫**:br
-**Pass. ⟪गीयते⟫**:br
-**Kaus. ⟪गापयति⟫**:br
-**PPP ⟪गीत⟫**:br
+**IV Perf. ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Kaus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Inf. ⟪गातुम्⟫**
 
 dont :

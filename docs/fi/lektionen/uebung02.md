@@ -92,13 +92,13 @@ brāhmaṇo dvijaḥ.
 
 ⟪ब्राह्मणो⟫ ⟪द्विजः⟫
 
-8\. Pyhä mies on opettaja.
+8\. Pyhä mies on opettaja. <!-- TODO: Fallback translation -->
 
 guruḥ sādhuḥ.
 
 ⟪गुरुः⟫ ⟪साधुः⟫
 
-9\. Opettaja on pyhä mies.
+9\. Opettaja on pyhä mies. <!-- TODO: Fallback translation -->
 
 sādhur guruḥ.
 
@@ -108,4 +108,4 @@ sādhur guruḥ.
 ![](/images/uebung002.jpg)
 Kuv.: ⟪ईश्वरः⟫ ⟪शिवः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung002))
-:::
+::: <!-- TODO: Fallback translation -->

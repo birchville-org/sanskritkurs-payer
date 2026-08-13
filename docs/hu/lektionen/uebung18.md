@@ -19,9 +19,9 @@ A) Fordítsa le a ⟪सुभाषित⟩-t a tananyag elején.
 Nincs betegség a szeretetnél,
 nincs csaló és ellenség a tévelygésnél,
 nincs tűz a haragnál,
-nincs boldogság az ismeretnél.
+nincs boldogság az ismeretnél. <!-- TODO: Fallback translation -->
 
-B) Fordítsa le a következő Tatpuruṣa összetételeket:
+B) Fordítsa le a következő Tatpuruṣa összetételeket: <!-- TODO: Fallback translation -->
 
 ⟪१⟩. ⟪सुकर⟩ ⟪३⟩ — könnyen elvégezhető
 
@@ -29,7 +29,7 @@ B) Fordítsa le a következő Tatpuruṣa összetételeket:
 
 ⟪३⟩. ⟪सुकृति⟩ f. — jó cselekedet
 
-⟪४⟩. ⟪अकरण⟩ n. — nem cselekvés
+⟪४⟩. ⟪अकरण⟩ n. — nem cselekvés <!-- TODO: Fallback translation -->
 
 ⟪५⟩. ⟪दुरिष्ट⟩ n. — rossz vágy
 
@@ -94,7 +94,7 @@ Kép: ⟪नास्ति⟩ ⟪कामसमो⟩ ⟪व्याधिः
 
 ## Kiegészítő gyakorlatok
 
-A) Oldja fel a következő szanszkrit összetételeket, és adjon fordítási javaslatokat:
+A) Oldja fel a következő szanszkrit összetételeket, és adjon fordítási javaslatokat: <!-- TODO: Fallback translation -->
 
 ⟪१⟩. ⟪अन्तगत⟩ ⟪३⟩ ⟪।⟩ ⟪अन्तं⟩ ⟪गतः⟩ ⟪।⟩ — elfogyott, nyelvtan: végződő
 
@@ -104,9 +104,9 @@ A) Oldja fel a következő szanszkrit összetételeket, és adjon fordítási ja
 
 ⟪४⟩. ⟪शस्त्रकोपनिरोध⟩ m. ⟪।⟩ ⟪शस्त्राणां⟩ ⟪कोपस्य⟩ ⟪निरोधः⟩ ⟪।⟩ — a harag megállítása karddal = a harc lezárása
 
-⟪५⟩. ⟪सिंहसंहनन⟩ n.⟪।⟩ ⟪सिंहस्य⟩ ⟪संहननम्⟩ ⟪।⟩ — egy / több oroszlán megölése, megölés egy / több oroszlán által
+⟪५⟩. ⟪सिंहसंहनन⟩ n.⟪।⟩ ⟪सिंहस्य⟩ ⟪संहननम्⟩ ⟪।⟩ — egy / több oroszlán megölése, megölés egy / több oroszlán által <!-- TODO: Fallback translation -->
 
-⟪६⟩. ⟪अरिसिंह⟩ m. ⟪।⟩ ⟪सिंह⟩ ⟪इव⟩ ⟪अरिः⟩ ⟪।⟩ — oroszlánhoz hasonló ellenség
+⟪६⟩. ⟪अरिसिंह⟩ m. ⟪।⟩ ⟪सिंह⟩ ⟪इव⟩ ⟪अरिः⟩ ⟪।⟩ — oroszlánhoz hasonló ellenség <!-- TODO: Fallback translation -->
 
 ⟪७⟩. ⟪आहारनिद्राभय⟩ n. ⟪।⟩ ⟪आहारो⟩ ⟪निद्रा⟩ ⟪भयं⟩ ⟪च⟩ ⟪।⟩ — étkezés, alvás és félelem
 
@@ -130,7 +130,7 @@ B) Fordítsa le a következő mondatokat a 2. jelen idői osztályba tartozó ig
 
 
 5. Egy szellem nem eszik gyümölcsöt.
-⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫
+⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
 
 6. Így szól a jó, [a reinkációk útján] haladóhoz a tanítvány.
 ⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟩ (vagy: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫)

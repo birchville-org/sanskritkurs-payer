@@ -9,9 +9,9 @@ status: stable
 
 # Lecția 39
 
-## 39.1. Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**a treia** persoană")
+## 39.1. Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**a treia** persoană") <!-- TODO: Fallback translation -->
 
-Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**a treia** persoană") sunt:
+Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**a treia** persoană") sunt: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -34,7 +34,7 @@ Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪�
 **Regulă:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. Prima clasă de prezent (⟪भ्वादि⟫)
+### 39.2.1. Prima clasă de prezent (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P
 
@@ -110,7 +110,7 @@ Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪�
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. Formarea ⟪अनिट्⟫
+### 39.3.1. Formarea ⟪अनिट्⟫ <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U
 
@@ -146,7 +146,7 @@ Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪�
 
 de ex. ⟪वच्⟫ 1.sg.Ind.Prez.P **⟪व⟫**⟪च्मि⟫**
 :::
-### 39.4.1. A doua clasă de prezent (⟪अदादि⟫)
+### 39.4.1. A doua clasă de prezent (⟪अदादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪द्विष्⟫ 2U
 
@@ -177,7 +177,7 @@ de ex. ⟪वच्⟫ 1.sg.Ind.Prez.P **⟪व⟫**⟪च्मि⟫**
 Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt3901))
 :::
-### 39.4.2. A treia clasă de prezent (⟪जुहोत्यादि⟫)
+### 39.4.2. A treia clasă de prezent (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪हु⟫ 3P
 

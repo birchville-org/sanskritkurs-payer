@@ -205,12 +205,12 @@ Paradigms see Kielhorn, Grammar § 124:
 ![](/images/lekt6002.webp)
 (Sumber gambar: [Detail](/en/licenses#lekt6002))
 :::
-## 60.5. Deklinasi: Stamm yang berakhiran -añc (-ac)
+## 60.5. Deklinasi: Batang yang berakhiran -añc (-ac)
 
 ::: grammar-box
 **Kata benda yang berakhiran -añc/-ac adalah gabungan dari prefiks, dll., dengan kata dasar akar dari akar ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "bergerak".**
 :::
-### 60.5.1. Stamm tiga bentuk yang berakhiran -añc
+### 60.5.1. Batang tiga bentuk yang berakhiran -añc
 
 ::: grammar-box
 **Formation:**

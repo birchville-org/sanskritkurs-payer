@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 44
 
@@ -86,7 +86,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras.
 ::: grammar-box
 1. **-s + s- » -ts- o (¡no opcional!) -ss-** (así en la 2. clase de presente)
    Ejemplos:
-   * **⟪वस्⟫** 1P: Futurooo: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
+   * **⟪वस्⟫** 1P: Futuroooooo: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
    * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
    p. ej. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
@@ -129,7 +129,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
 :::
@@ -343,7 +343,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Véase:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del Budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del Budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)

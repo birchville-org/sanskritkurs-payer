@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 38
+# Les 38
 
 ## 38.1. Losung der Woche
 

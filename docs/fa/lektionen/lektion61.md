@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # درس ۶۱
 
@@ -13,13 +13,13 @@ status: stable
 ### 61.1.1. اسم‌های ریشه‌ای ختم شده به -ā در پایان ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen hat der Stammvokal in den schwachen Kasus die Schwundstufe Ø.** <!-- TODO: Fallback translation -->
+**قبل از پایان‌های مصوتی، واکهٔ بن در حالت‌های ضعیف، مرحلهٔ زوال Ø را دارد.**
 
-**Die Deklination im Maskulinum und Femininum ist identisch.** <!-- TODO: Fallback translation -->
+**صرف در جنس مذکر و مؤنک یکسان است.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+الگوی صرف:
 
-⟪विश्वपा⟫ m.f. "das All beschützend" <!-- TODO: Fallback translation -->
+⟪विश्वपा⟫ m.f. "حافظ جهان"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -36,11 +36,11 @@ Paradigma: <!-- TODO: Fallback translation -->
 ::: grammar-box
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
 
-**Neben den Bildungen mit den regulären Kasusendungen kommen im Dat.Ab.Gen.Lok.sg. und Gen.pl. auch Bildungen nach dem Muster mehrsilbiger Feminina auf -ī (⟪देवी⟫) vor.** <!-- TODO: Fallback translation -->
+**علاوه بر شکل‌هایی که با پایان‌های صرفی منظم ساخته می‌شوند، در مفرد داده/زاید/مکان و جمع زائد، شکل‌هایی نیز بر اساس الگوی مؤنث‌های چندسیلابی با -ī (⟪देवी⟫) وجود دارند.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+جدول صرف:
 
-⟪धी⟫ f. "Gedanke" <!-- TODO: Fallback translation -->
+⟪धी⟫ مؤنث. "فکر"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ Paradigma: <!-- TODO: Fallback translation -->
 | ⟪षष्ठी⟫ | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
 
-Unregelmäßig: ⟪स्त्री⟫ f. "Frau" <!-- TODO: Fallback translation -->
+نادرست: ⟪स्त्री⟨f. "زن"
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -68,22 +68,22 @@ Unregelmäßig: ⟪स्त्री⟫ f. "Frau" <!-- TODO: Fallback translati
 :::
 ::: media
 ![](/images/lekt6102.webp)
-Abb.: ⟪स्त्रियः⟫
-(Bildquelle: [Details](/licenses#lekt6102)) <!-- TODO: Fallback translation -->
+تصویر: ⟪स्त्रियः⟫
+(منبع تصویر: [جزئیات](/licenses#lekt6102))
 :::
 ### 61.1.3. اسم‌های ریشه‌ای با -ī در پایان ⟪تتپوروشا⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ī durch -y ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ī vor vokalischer Endung durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**قبل از پایان‌های مصوتی، -ī با -y جایگزین می‌شود اگر فقط یک همخوان متعلق به ریشه قبل از آن بیاید. اگر چندین همخوان متعلق به ریشه قبل از آن بیاید، -ī قبل از پایان مصوتی با -iy جایگزین می‌شود.**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.** <!-- TODO: Fallback translation -->
+**صرف در مذکر و مؤنر یکسان است.**
 
-**Unregelmäßigkeit: Komposita auf -:sig[⟪नी⟫] "führend" haben im Lok.sg die Endung -ām (wie ⟪देवी⟫):**
-z.B. ⟪ग्रामणी⟫ "eine Schar/ein Dorf führend": Lok.sg.m.f. ⟪ग्रामण्याम्⟫ <!-- TODO: Fallback translation -->
+**بی‌قاعدی: ترکیب‌های با پسوند -:sig[⟪नी⟫] به معنای «پیشرو»، در حالت مکان مفرد، پسوند -ām می‌گیرند (مانند ⟪देवी⟫):**
+مثال: ⟪ग्रामणी⟫ «گروهی/روستایی پیشرو»: مکان مفرد مذکر و مؤنث ⟪ग्रामण्याम्⟫
 :::
-Paradigmen: <!-- TODO: Fallback translation -->
+جدول‌های صرف:
 
-⟪शुद्धधी⟫ m., f. "Reines denkend" <!-- TODO: Fallback translation -->
+⟪शुद्धधी⟫ مذکر، مؤنث «پاک‌اندیش»
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ Paradigmen: <!-- TODO: Fallback translation -->
 | ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
 | ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
 
-⟪यवक्री⟫ m., f. "Gerste kaufend" <!-- TODO: Fallback translation -->
+⟪यवक्री⟫ m., f. "خریدار جو"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -110,13 +110,13 @@ Paradigmen: <!-- TODO: Fallback translation -->
 ### 61.1.4. اسم‌های ریشه‌ای تک‌هجایی و مؤنث ختم شده به -ū
 
 ::: grammar-box
-**Stamm vor Vokal: -uv** <!-- TODO: Fallback translation -->
+**ریشه در پیش واکه: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī** <!-- TODO: Fallback translation -->
+**Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+الگو: <!-- TODO: Fallback translation -->
 
-⟪भू⟫ f. "Erde" <!-- TODO: Fallback translation -->
+⟪भू⟫ f. "زمین"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -131,13 +131,13 @@ Paradigma: <!-- TODO: Fallback translation -->
 ### 61.1.5. اسم‌های ریشه‌ای منتهی به -ū در پایان ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ū durch -v ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ū vor vokalischer Endung durch -uv ersetzt.** <!-- TODO: Fallback translation -->
+**پیش از پایان‌های مصوتی، -ū با -v جایگزین می‌شود، اگر تنها یک همخوان متعلق به ریشه پیش از آن بیاید. اگر چندین همخوان متعلق به ریشه پیش از آن بیاید، -ū پیش از پایان مصوتی با -uv جایگزین می‌شود.**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.** <!-- TODO: Fallback translation -->
+**صرف در مذکر و مؤنک یکسان است.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+الگوی صرف:
 
-⟪खलपू⟫ m., f. "die Scheune kehrend" <!-- TODO: Fallback translation -->
+⟪खलपू⟫ m., f. "کاه‌انداز را جارو زدن"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -151,18 +151,18 @@ Paradigma: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6106.webp)
-Abb.: ⟪रथ्याप्वः⟫
+تصویر: ⟪रथ्याप्वः⟫
 ⟪काशीपुर⟫
-(Bildquelle: [Details](/licenses#lekt6106)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6106))
 :::
-### 61.1.6. صرف اسم‌های مؤنث چند هجایی ختم شده به -ū
+### ۶۱.۱.۶. صرف اسم‌های مؤنث چندبخشی با پایان -ū
 
 ::: grammar-box
-**Mehrsilbige Feminina auf -ū werden analog zu mehrsilbigen Stämmen auf -ī (⟪देवी⟫) dekliniert, sie enden aber im Nom. sg. auf -s.** <!-- TODO: Fallback translation -->
+**اسم‌های مؤنث چند هجایی که به -ū ختم می‌شوند، مانند اسم‌های چند هجایی با ریشه -ī (⟪देवी⟫) صرف می‌شوند، اما در حالت مرفوع مفرد به -s ختم می‌گردند.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+الگوی صرف:
 
-⟪वधू⟫ f. "junge Frau, Braut" <!-- TODO: Fallback translation -->
+⟪वधू⟫ f. "زن جوان، عروس"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -177,33 +177,33 @@ Paradigma: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6107.webp)
-Abb.: ⟪वध्वौ⟫
+تصویر: ⟪वध्वौ⟫
 ⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt6107)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6107))
 :::
-## 61.2. آینده التفافی (⟪लुट्⟫)
+## ۶۱.۲. آینده دور (⟪लुट्⟫)
 
 ::: grammar-box
-**Neben dem einfachen Futur (⟪ऌत्⟫) gibt es ein periphrastisches Futur (⟪लुट्⟫). Nach der Lehre der einheimischen Grammatiker wird es verwendet, um die entfernte Zukunft ("nach dem laufenden Tag") zu bezeichnen, während das einfache Futur die nahe Zukunft ("am laufenden Tag") bezeichnet. Im klassischen Sanskrit scheint meist kein Unterschied im Gebrauch der beiden Futura gemacht zu werden.** <!-- TODO: Fallback translation -->
+**علاوه بر آینده ساده (⟪ऌत्⟫)، یک آینده پیریفرستیک (⟪लुट्⟫) وجود دارد. بر اساس آموزه‌های دستورزبانان بومی، از آن برای اشاره به آینده دور («پس از روز جاری») استفاده می‌شود، در حالی که آینده ساده به آینده نزدیک («در روز جاری») اشاره دارد. در سنسکریت کلاسیک، به نظر می‌رسد معمولاً تفاوتی در کاربرد دو زمان آینده قائل نمی‌شدند.**
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**ساختار:**
 
-**Das periphrastische Futur wird gebildet durch die Verbindung eines nomen agentis auf -tṛ mit dem Präsens von ⟪अस्⟫ 2. Als dritte Person dient das einfache Nomen in der entsprechenden Zahl, ohne Unterscheidung im grammatischen Geschlecht. Bei den Verbindungen mit ⟪अस्⟫ hat das Nomen in allen Personen und Numeri die Form des Nom.sg. auf -tā.** <!-- TODO: Fallback translation -->
+**آینده پیریفرستیک از طریق ترکیب یک اسم فاعل با پسوند -tṛ با زمان حال ⟪अस्⟫ ۲ تشکیل می‌شود. به عنوان شخص سوم، از اسم ساده در عدد مربوطه بدون تمایز در جنس دستوری استفاده می‌شود. در ترکیبات با ⟪अस्⟫، اسم در همه اشخاص و اعداد به صورت مفرد -tā ظاهر می‌شود.**
 :::
-Die Endungen des periphrastischen Futur lauten also: <!-- TODO: Fallback translation -->
+بنابراین پایان‌های آینده پیریفرستیک به این صورت هستند:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | \-tāsmi:br(-tā + asmi) | \-tāsvas | \-tāsmas:br(-tā smas) | **\-tāhe** | \-tāsvahe | \-tāsmahe |
-| **2\. ⟪मध्यमः⟫** | \-tāsi | \-tāsthas | \-tāstha | \-tāse | \-tāsāthe | \-tādhve |
-| **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
+| **1\. ⟪तृतीयः⟫** | \-tāsmi:br(-tā + asmi) | \-tāsvas | \-tāsmas:br(-tā smas) | **\-تاهه** | \-tāsvahe | \-tāsmahe |
+| **2\. ⟪मध्यमः⟫** | \-tāsi | \-tāsthas | \-tāstha | \-tāse | \-تاساتھے | \-tādhve |
+| **3\. ⟪प्रथमः⟫** | \-tā | \-تارو | \-تارس | \-tā | \-تارو | \-تارس |
 :::
 ::: grammar-box
-**Form der Wurzel: Die Wurzel hat im allgemeinen dieselbe Form wie im einfachen Futur. Dasselbe gilt für den Bindevokal -i-.** <!-- TODO: Fallback translation -->
+**شکل ریشه: ریشه به طور کلی همان شکل را در آینده ساده دارد. همین امر برای حرف ربط -i- نیز صدق می‌کند.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
 | --- | --- |
@@ -211,9 +211,9 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ usw. |
 | ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ usw. |
 
-Paradigma: <!-- TODO: Fallback translation -->
+پارادایم:
 
-⟪दा⟫ 3U <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -224,66 +224,66 @@ Paradigma: <!-- TODO: Fallback translation -->
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
 ::: grammar-box
-**Nur ganz selten wird das Verb ⟪अस्⟫ vom Nominalstamm getrennt.** <!-- TODO: Fallback translation -->
+**فعل ⟪अस्⟫ بسیار به‌ندرت از بن اسمی جدا می‌شود.**
 :::
 ## 61.3. شدت‌بخش (تکراری) (⟪چَرکَریتَم⟫)
 
 ::: grammar-box
-**Von jeder einsilbigen, konsonantisch anlautenden Wurzel der ersten neun Präsensklassen kan ein Intensivum (⟪चर्करीतम्⟫)  gebildet werden; das heißt: mit wenigen Ausnahmen kann von zweisilbigen Wurzeln (z.B. ⟪जागृ⟫), vokalisch anlautenden Wurzeln und Wurzeln der 10. Präsensklasse (⟪चुरादिगण⟫) kein Intensivum gebildet werden.** <!-- TODO: Fallback translation -->
+**از هر ریشه یک‌بخشی که با همخوان آغاز شود، در نه کلاس نخستین زمان حال می‌توان یک شدت‌بخش (⟪चर्करीतम्⟩) ساخت؛ به این معنا که: با چند استثنا، از ریشه‌های دوبخشی (مانند ⟪जागृ⟫)، ریشه‌های آغازشونده با مصوت و ریشه‌های کلاس دهم زمان حال (⟪चुरादिगण⟫) نمی‌توان شدت‌بخش ساخت.**
 
-**Das Intensivum bedeutet:** <!-- TODO: Fallback translation -->
+**معنی اِنتِنسیووم (Intensivum) این است:**
 
-*   **dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Wurzel ausgedrückt wird**   <!-- TODO: Fallback translation -->
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"   <!-- TODO: Fallback translation -->
+*   **که یک شخص یا چیز بارها و مکرر کاری را انجام می‌دهد یا تجربه می‌کند که توسط ریشه بیان شده است**
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "او بارها و مکرر انجام می‌دهد"  
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "او (می‌شود) اغلب"
 
-*   **dass eine Person oder Sache intensiv tut oder erleidet, was durch die Wurzel ausgedrückt wird:**   <!-- TODO: Fallback translation -->
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut intensiv, er tut tüchtig"   <!-- TODO: Fallback translation -->
+*   **که یک شخص یا چیز کاری را که توسط ریشه بیان شده است به شدت انجام می‌دهد یا تجربه می‌کند:**
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "او به شدت انجام می‌دهد، او با کوشش انجام می‌دهد"
 
-*   **bei Wurzeln, die eine Bewegung ausdrücken, bedeutet das Intensivum die gekrümmte Bewegung:**   <!-- TODO: Fallback translation -->
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "er geht in Krümmungen" (NICHT: "er geht oft")   <!-- TODO: Fallback translation -->
+*   **در مورد ریشه‌هایی که حرکت را بیان می‌کنند، اِنتِنسیووم به معنای حرکت خمیده است:**
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "او در خمیدگی‌ها می‌رود" (نه: "او اغلب می‌رود")
 
-*   **bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**   <!-- TODO: Fallback translation -->
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht" <!-- TODO: Fallback translation -->
+*   **در برخی از ریشه‌ها (اشاره: کیلهورن، دستور زبان § 458b) نشانهٔ تأکید به معنای سرزنش است:**
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "او به‌طور نادرست می‌برد"  
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "او به‌طور نادرست می‌نشیند"
 :::
 ::: media
 ![](/images/lekt6104.webp)
-Abb.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
-Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt6104)) <!-- TODO: Fallback translation -->
+تصویر: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
+کارناتاکا = ಕರ್ನಾಟಕ
+(منبع تصویر: [جزئیات](/licenses#lekt6104))
 :::
 
 ::: grammar-box
-**Bildung des Intensivums:** <!-- TODO: Fallback translation -->
+**ساخت نشانهٔ تأکید:**
 
-**Es gibt zwei Bildungstypen des Intensivums:** <!-- TODO: Fallback translation -->
+**دو نوع ساخت برای نشانهٔ تأکید وجود دارد:**
 
-*   **Ātmanepada-Intensivum** <!-- TODO: Fallback translation -->
-*   **Parasmaipada-Intensivum** <!-- TODO: Fallback translation -->
+*   **نشانهٔ تأکید آتمناپادا**
+*   **نشانهٔ تأکید پاراسمایپادا**
 
-**Beide werden von der mit starker Reduplikation reduplizierten Wurzel gebildet. Beide unterscheiden sich in der Bedeutung nicht. Beide können zu denselben Wurzeln gebildet werden.** <!-- TODO: Fallback translation -->
+**هر دو از ریشه‌ای با افزوده شدن دوباره (ردپلیکاسیون) قوی ساخته می‌شوند. هر دو از نظر معنایی تفاوتی ندارند. هر دو را می‌توان به همان ریشه‌ها نسبت داد.**
 :::
 ### 61.3.1. آتمنپادا-اینتنسووم
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**ساختار:**
 
-**reduplizierte Wurzel + -ya-** <!-- TODO: Fallback translation -->
+**ریشه‌ی افزوده شده دوباره + -ya-**
 
-**Form der Wurzel: im allgemeinen wie im Passiv, d.h. meist tiefstufig:** <!-- TODO: Fallback translation -->
+**شکل ریشه: به طور کلی همانند حالت مجهول، یعنی معمولاً درجه پایین:**
 
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 :::
 ::: indent
-⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫ <!-- TODO: Fallback translation -->
+⟪स्वप्⟫ ۲P: مفعولی ⟪सुप्यते⟫ ; شدیدی ⟪सोषुप्यते⟫
+⟪दा⟫ ۳U: مفعولی ⟪दीयते⟫ ; شدیدی ⟪देदीयते⟫
 :::
-Die Regeln im einzelnen bei Kielhorn, Grammatik § 461. <!-- TODO: Fallback translation -->
+قواعد به‌طور مفصل در کیلهورن، دستور زبان § ۴۶۱ آمده است.
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o** <!-- TODO: Fallback translation -->
-Beispiele: <!-- TODO: Fallback translation -->
+**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
+مثال‌ها: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -294,44 +294,44 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
 ::: grammar-box
-**Wurzeln der Form -a-Nasal verlängern in der Reduplikationssilbe den Vokal nicht, sondern wiederholen den Nasal.** <!-- TODO: Fallback translation -->
+**ریشه‌های شکل -a- در بخش بازگویی، واکه را طولانی نمی‌کنند، بلکه نیم‌واو (nasal) را تکرار می‌کنند.**
 
 :::
 ::: indent
-z.B. ⟪यम्⟫ 1P: ⟪यंयम्य⟫- <!-- TODO: Fallback translation -->
+مثال: ⟪यम्⟫ شخص اول مفرد: ⟪यंयम्य⟫-
 :::
-**Bei einigen Wurzeln tritt zwischen den Vokal der Reduplikationssilbe und den anlautenden Konsonanten der Wurzel -nī- bzw. -rī- (-rī- bei Wurzeln, die im Intensiv ein ṛ enthalten).** <!-- TODO: Fallback translation -->
+**در برخی ریشه‌ها، بین واکه بخش بازگویی و همخوان آغازین ریشه -nī- یا -rī- ظاهر می‌شود (-rī- برای ریشه‌هایی که در حالت تشدید (intensive) دارای ṛ هستند).**
 
 ::: indent
-z.B.
-⟪पत्⟫ 1P: ⟪प⟫***:sig[⟪नी⟫]***⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫***:sig[⟪री⟫]***⟪वृत्य⟫- <!-- TODO: Fallback translation -->
+مثال:
+⟪पत्⟫ شخص اول مفرد: ⟪प⟫***:sig[⟪नी⟫]***⟪पत्य⟫-
+⟪वृत्⟫ شخص اول مفرد (مفعولی): ⟪व⟫***:sig[⟪री⟫]***⟪वृत्य⟫-
 :::
 ::: grammar-box
-**Konjugation:** <!-- TODO: Fallback translation -->
+**صرف فعل:**
 
-*   **Präsensstamm: wie ein Ātmanepada der 4. Präsensklasse (⟪दिवादिगण⟫).** <!-- TODO: Fallback translation -->
-*   **Passiv und übrige Tempusstämme: geht dem -ya- des Intensivstammes ein Vokal voraus, so wird das -ya- durch -y- ersetzt, geht dem -ya- ein Konsonant voraus, so entfällt das -ya-:** <!-- TODO: Fallback translation -->
-    *   **Passiv Präsens: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫** <!-- TODO: Fallback translation -->
-    *   **Perfekt: periphrastisch:  ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫** <!-- TODO: Fallback translation -->
-    *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫** <!-- TODO: Fallback translation -->
-    *   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫** <!-- TODO: Fallback translation -->
-    *   **periphrastisches Futur: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫** <!-- TODO: Fallback translation -->
+*   **بن زمان حال: مانند آتم‌نپادا (ātmanepada) از کلاس چهارم زمان حال (⟪दिवादिगण⟫).**
+*   **مجهول و سایر بن‌های زمانی: اگر پیش از -ya- در بن تشدید، یک واکه بیاید، آن‌گاه -ya- به -y- تبدیل می‌شود؛ و اگر پیش از -ya- یک همخوان بیاید، آن‌گاه -ya- حذف می‌گردد:**
+    *   **مجهول زمان حال: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+    *   **ماضی کامل (perfekt): توصیفی: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+    *   **ماضی ساده (aorist): ای‌ش-آئوریست (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+    *   **آینده (futur): دارای سی‌ت (seṭ): ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+    *   **آینده توصیفی: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
 ### 61.3.2. فعل مکرر پاراسمایپادا
 
 ::: grammar-box
-**Präsensstamm (andere Formen sind äußerst selten): Bildung und Konjugation wie ein Verb der 3. Präsensklasse (⟪जुहोत्यादिगण⟫) mit dem Unterschied, dass der Vokal der Reduplikationssilbe hochstufig, bei -a- dehnstufig ist.** <!-- TODO: Fallback translation -->
+**بنای زمان حال (فرم‌های دیگر بسیار نادر هستند): تشکیل و صرف مانند یک فعل از کلاس سوم زمان حال (⟪जुहोत्यादिगण⟫) با این تفاوت که واکل هجای تکرار (reduplication syllable) درجه بالا، و در صورت -a- کشیده است.**
 
-**Im Singular Indikativ Präsens sowie 2.3.sg. Imperfekt und 3.sg.Imperativ kann zwischen Wurzel und Endung ein -ī- eingeschoben werden. Wird dieses -ī- eingeschoben, darf ein kurzer Vokal an vorletzter Stelle nicht guṇiert werden.** <!-- TODO: Fallback translation -->
+**در مفرد اسم‌مفعولی زمان حال و همچنین دومین و سومین شخص مفرد گذشته و سومین شخص مفرد امری، می‌توان یک -ī- بین ریشه و پایان اضافه کرد. اگر این -ī- اضافه شود، نباید یک واکل کوتاه در موقعیت پیش‌آخرین guṇa شود.**
 
-**Bezüglich der Reduplikation mit Nasal sowie der Einschiebung von -nī- bzw. -rī- gilt dasselbe wie für das Ātmanepada-Intensivum. Statt -rī- kann wahlweise -ri- stehen.** <!-- TODO: Fallback translation -->
+**در مورد تکرار با nasal و همچنین اضافه شدن -nī- یا -rī- همان قاعده‌ای که برای Ātmanepada Intensivum وجود دارد، صدق می‌کند. به جای -rī- می‌توان به انتخاب -ri- قرار داد.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+جدول صرف:
 
-⟪भू⟫ 1P <!-- TODO: Fallback translation -->
+⟪भू⟫ ۱P
 
-Indikativ Präsens (⟪लट्⟫): <!-- TODO: Fallback translation -->
+فعل حال ساده (⟪लट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -340,7 +340,7 @@ Indikativ Präsens (⟪लट्⟫): <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
-Imperfekt (⟪लङ्⟫): <!-- TODO: Fallback translation -->
+گذشته استمراری (⟪लङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -349,7 +349,7 @@ Imperfekt (⟪लङ्⟫): <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-Imperativ (⟪लोट्⟫): <!-- TODO: Fallback translation -->
+امری (⟪लोट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -358,7 +358,7 @@ Imperativ (⟪लोट्⟫): <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
-Optativ (⟪विधिलिङ्⟫): <!-- TODO: Fallback translation -->
+تمنایی (⟪विधिलिङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -369,55 +369,55 @@ Optativ (⟪विधिलिङ्⟫): <!-- TODO: Fallback translation -->
 :::
 ## 61.4. اسم‌های فعلی (⟪नामधातु⟫)
 
-Denominativa (⟪नामधातवः⟫) werden, im Gegensatz zu den bisher behandelten Verben, nicht von einer Verbalwurzel, sondern von einem Nominalstamm gebildet. Dabei gibt es verschiedene Bildungstypen. <!-- TODO: Fallback translation -->
+نام‌واژه‌ها (⟪नामधातवः⟫) برخلاف افعالی که تاکنون بررسی شدند، از ریشهٔ فعلی بلکه از بن اسمی ساخته می‌شوند. در این زمینه انواع مختلفی از الگوهای ساخت وجود دارد.
 
 ### 61.4.1. ساخت بدون پسوند خاص، پاراسمایپادا
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**معنی:**
 
 :::
 ::: indent
-**eine Person oder Sache verhält sich so wie das, oder gleicht dem, was vom Nominalstamm bezeichnet wird.** <!-- TODO: Fallback translation -->
+**یک شخص یا چیز به گونه‌ای رفتار می‌کند که آن چیزی است، یا با آنچه توسط بن اسمی اشاره شده است، همسان است.**
 :::
-**Konjugation:** <!-- TODO: Fallback translation -->
+[L7> **صرف:**
 
 ::: indent
-**im Präsensstamm wie ein Verb der 1. Präsensklasse (⟪भ्वादिगण⟫). Hat das Nomen mehl als einen vokal, so wird nur der letzte Vokal wie der Wurzelvokal der 1. Klasse behandelt. Auslautendes -a entfällt vor dem Themavokal. Vokal vor auslautendem Nasal wird durch den entsprechenden Langvokal ersetzt.** <!-- TODO: Fallback translation -->
+**در بن حال مانند فعلی از کلاس اول حال (⟪भ्वादिगण⟫). اگر اسم «mehl» دارای یک واکه باشد، تنها آخرین واکه مانند واکه ریشه‌ای کلاس اول رفتار می‌یابد. -a پایانی پیش از واکه موضوع حذف می‌شود. واکه پیش از nasal پایانی با واکه بلند متناظر جایگزین می‌گردد.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
-| ⟪कवि⟫ m. "Dichter" | ⟪कवयति⟫ "er verhält sich wie ein Dichter" |
+| ⟪कवि⟫ م. «شاعر» | ⟪कवयति⟫ «او مانند یک شاعر رفتار می‌کند» |
 | --- | --- |
-| ⟪भू⟫ f. "Erde" | ⟪भवति⟫ "er verhält sich wie die Erde" |
-| ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
-| ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
+| ⟪भू⟫ مؤ. «زمین» | ⟪भवति⟫ «او مانند زمین رفتار می‌کند» |
+| ⟪पितृ⟫ «پدر» | ⟪पितरति⟫ «او مانند یک پدر رفتار می‌کند» |
+| ⟪कृष्ण⟫ م. کِرشنا | ⟪कृष्णति⟫ «او مانند کریشنا رفتار می‌کند» |
+| ⟪माला⟫ مؤ. «تاج گل» | ⟪मालाति⟫ «او شبیه یک تاج گل است» |
+| ⟪राजन्⟫ م. «پادشاه» | ⟪राजानति⟫ «او مانند یک پادشاه رفتار می‌کند» |
 
 ### 61.4.2. ساخت با پسوند -ya، پاراسمایپادا
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**معنی:**
 
-*   **jemand wünscht sich das, was durch den Nominalstamm bezeichnet wird** <!-- TODO: Fallback translation -->
-*   **jemand behandelt oder betrachtet eine Person oder Sache wie das, was vom Nominalstamm bezeichnet wird** <!-- TODO: Fallback translation -->
+*   **کسی آن چیزی را که توسط بن اسمی مشخص شده است، آرزو می‌کند**
+*   **کسی یک شخص یا چیز را همانند آنچه توسط بن اسمی مشخص شده است، رفتار می‌کند یا در نظر می‌گیرد**
 
-**Stammbildung:** <!-- TODO: Fallback translation -->
+**ساخت بن:**
 
 :::
 ::: indent
-**vor dem -ya unterliegt der Auslauts des Nominalstamms folgenden Veränderungen:** <!-- TODO: Fallback translation -->
+**قبل از -ya، پایان‌واژه (Auslaut) بن اسمی تحت تغییرات زیر قرار می‌گیرد:**
 
-*   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫- <!-- TODO: Fallback translation -->
-*   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫- <!-- TODO: Fallback translation -->
-*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫- <!-- TODO: Fallback translation -->
-*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫- <!-- TODO: Fallback translation -->
-*   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫- <!-- TODO: Fallback translation -->
-*   **auslautender Nasal fällt ab, davor stehender Vokal wird nach den eben genannten Regeln behandelt:** ⟪राजन्⟫ » ⟪राजीय⟫- <!-- TODO: Fallback translation -->
-*   **andere auslautende Konsonanten bleiben unverändert** <!-- TODO: Fallback translation -->
+*   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
+*   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
+*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
+*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
+*   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
+*   **حرف صامت پایانی حذف می‌شود، و حرف مصوت پیش از آن طبق قواعد فوق رفتار می‌یابد:** ⟪राजन्⟫ » ⟪राजीय⟫-
+*   **سایر حروف صامت پایانی بدون تغییر می‌مانند**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
@@ -425,179 +425,179 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
 | ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
+| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
 
-Beachten sie die Bedeutung von: <!-- TODO: Fallback translation -->
+به معنای زیر توجه کنید:
 
-| ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
+| ⟪तपस्⟫ n. "تپش" | ⟪तपस्यति⟫ "او تپش می‌کند" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
+| ⟪नमस्⟫ n. "پرستش" | ⟪नमस्यति⟫ "او پرستش می‌کند" |
 
 ::: media
 ![](/images/lekt6105.webp)
-Abb.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
+تصویر: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ؟
 ⟪हरिद्वार⟫
-(Bildquelle: [Details](/licenses#lekt6105)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6105))
 :::
 
 ::: media
 ![](/images/lekt6103.webp)
-Abb.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6103)) <!-- TODO: Fallback translation -->
+تصویر: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
+(منبع تصویر: [جزئیات](/licenses#lekt6103))
 :::
 ### 61.4.3. ساخت با پسوند -kāmya، پاراسمایپادا
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**معنا:**
 
-**jemand wünsch sich das, was durch den Nominalstamm bezeichnet wird** <!-- TODO: Fallback translation -->
+**کسی که آرزوی آن چیزی را دارد که توسط بن اسمی مشخص شده است**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
+| ⟪पुत्र⟫ m. "پسر" | ⟪पुत्रकाय्म्यति⟫ "او پسری را آرزو می‌کند" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
+| ⟪यशस्⟫ n. "شهرت" | ⟪यशस्काम्यति⟫ "او شهرتی را آرزو می‌کند" |
 
 ::: media
 ![](/images/lekt6109.webp)
-Abb.: ⟪यशस्काम्यन्ति⟫
+تصویر: ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt6109)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6109))
 :::
-### 61.4.4. ساخت با پسوند -sya یا -asya، پاراسمایپادا
+### 61.4.4. ساختن با پسوند -sya یا -asya، پاراسم‌پادا
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**معنی:**
 
 :::
 ::: indent
-**jemand verlangt heftig nach dem, was durch den Nominalstamm bezeichnet wird.** <!-- TODO: Fallback translation -->
+**کسی به شدت آرزوی آن چیزی را دارد که توسط بن اسمی اشاره می‌شود.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: grammar-box
-| ⟪मधु⟫ n. "Honig" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "er verlangt heftig nach Honig" |
+| ⟪मधु⟫ n. "عسل" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "او به شدت آرزوی عسل را دارد" |
 | --- | --- |
-| ⟪अश्व⟫ m. "Hengst" | ⟪अश्वस्यति⟫ "(die Stute) verlangt heftig nach dem Hengst" |
+| ⟪अश्व⟫ m. "نر" | ⟪अश्वस्यति⟫ "(ماده) به شدت آرزوی نر را دارد" |
 :::
 ::: media
 ![](/images/lekt6110.webp)
-Abb.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
-Karli
-(Bildquelle: [Details](/licenses#lekt6110)) <!-- TODO: Fallback translation -->
+تصویر: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ؟
+کارلی
+(منبع تصویر: [جزئیات](/licenses#lekt6110))
 :::
-### 61.4.5. ساخت با پسوند -ya، آتمانپادا
+### ۶۱.۴.۵. تشکیل با پسوند -ya، آتمناپادا
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**معنی:**
 
 :::
 ::: indent
-**jemand verhält sich als das, oder gleicht dem, was durch den Nominalstamm bezeichnet wird.** <!-- TODO: Fallback translation -->
+**کسی به گونه‌ای رفتار می‌کند که یا با آنچه توسط بن اسمی (Nominalstamm) اشاره شده است، مطابقت دارد یا شبیه آن است.**
 :::
-**Bildung:** <!-- TODO: Fallback translation -->
+**ساختار:**
 
-*   **auslautendes -a » -ā** <!-- TODO: Fallback translation -->
-*   **auslautendes -ā bleibt unverändert** <!-- TODO: Fallback translation -->
-*   **sonst wie vor -ya, Parasmaipada (siehe oben 4.2.)** <!-- TODO: Fallback translation -->
-*   **auslautendes -as wahlweise » -ā** <!-- TODO: Fallback translation -->
-*   **Femininstamm meist » Maskulinstamm** <!-- TODO: Fallback translation -->
+*   **-a پایانی به « -ā » تبدیل می‌شود**
+*   **-a پایانی (long ā) بدون تغییر باقی می‌ماند**
+*   **در غیر این صورت مانند پیش از -ya، در پراصیپادا (Parasmaipada) (به بخش 4.2 بالا مراجعه کنید)**
+*   **-as پایانی اختیاریاً به « -ā » تبدیل می‌شود**
+*   **بن مؤنث معمولاً به بن مذکر تبدیل می‌شود**
 
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
+| ⟪कृष्ण⟫ مذکر: کریشنا | ⟪कृष्णायते⟫ «او مانند کریشنا رفتار می‌کند» |
 | --- | --- |
-| ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
+| ⟪यशस्⟫ ۳ «مشهور» | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ «او مانند یک فرد مشهور رفتار می‌کند» |
+| ⟪कुमारी⟫ مؤنث: «دختر» | ⟪कुमारायते⟫ «او مانند یک دختر رفتار می‌کند» |
 
 ::: grammar-box
-**Bei einigen Nominalstämmen bedeutet dieses Suffix: etwas wird wie das, oder wird zu dem, was durch den Nominalstamm bezeichnet wird:** <!-- TODO: Fallback translation -->
+**در برخی از ریشه‌های اسمی، این پسوند به معنای: چیزی مانند آن می‌شود یا تبدیل به آنچه که توسط ریشه اسمی مشخص شده است، می‌گردد:**
 
 :::
 ::: indent
-z.B. ⟪उन्मनस्⟫ 3 "erregt": ⟪उन्मनायते⟫ "er wird erregt" <!-- TODO: Fallback translation -->
+به عنوان مثال، ⟪उन्मनस्⟫ ۳ «برانگیخته می‌کند»: ⟪उन्मनायते⟫ «او برانگیخته می‌شود»
 :::
-**In einigen Fällen werden mit diesem Suffix Verben in anderen Bedeutungen gebildet:** <!-- TODO: Fallback translation -->
+**در برخی موارد، با استفاده از این پسوند، افعال با معانی دیگر ساخته می‌شوند:**
 
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-⟪दुःख⟫ n. "Leid" : ⟪दुःखायते⟫ "er empfindet Leid"
-⟪शब्द⟫ m. "Laut" : ⟪शब्दायते⟫ "er gibt einen Ton von sich" <!-- TODO: Fallback translation -->
+⟪दुःख⟫ n. «رنج»: ⟪दुःखायते⟫ «او رنج را احساس می‌کند»
+⟪शब्द⟫ m. «صدا»: ⟪शब्दायते⟫ «او صدایی از خود صادر می‌کند»
 :::
 ::: media
 ![](/images/lekt6111.webp)
-Abb.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Bildquelle: [Details](/licenses#lekt6111)) <!-- TODO: Fallback translation -->
+تصویر: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
+(منبع تصویر: [جزئیات](/licenses#lekt6111))
 :::
-### 61.4.6. ساخت با پسوند -aya, -āpaya
+### ۶۱.۴.۶. تشکیل با پسوند -aya، -āpaya
 
 ::: grammar-box
-**Verschiedene Bedeutungen.** <!-- TODO: Fallback translation -->
+**معانی مختلف.**
 
-**Konjugiert wie Kausativa.** <!-- TODO: Fallback translation -->
+**مانند کائساوا صرف می‌شود.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
-| ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
+| ⟪सत्य⟫ ۳ «واقعی» | ⟪स्तयपायति⟫ «او آن را واقعی می‌داند» |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ ۳ «خُره‌شده» | ⟪मुण्डयति⟫ «او خُره می‌کند» |
 
 ::: media
 ![](/images/lekt6113.webp)
-Abb.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
-Thailand - เมืองไทย
-(Bildquelle: [Details](/licenses#lekt6113)) <!-- TODO: Fallback translation -->
+تصویر: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
+تایلند - เมืองไทย
+(منبع تصویر: [جزئیات](/licenses#lekt6113))
 :::
-Eine Liste von Denominative z.B. in: <!-- TODO: Fallback translation -->
+فهرستی از حالت اضافه (Dativ) مثلاً در:
 
 ::: media
 ![](/images/lekt6112.jpg)
-Abb.:
-1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen
-(Bildquelle: [Details](/licenses#lekt6112)) <!-- TODO: Fallback translation -->
+تصویر:
+۱۸۴۵ - ۱۸۷۸ استاد زبان‌شناسی هندی و خاورشناسی در دانشگاه کپنهاگ
+(منبع تصویر: [جزئیات](/licenses#lekt6112))
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341. <!-- TODO: Fallback translation -->
+**وسترگارد**، نیلس لودویگ \<۱۸۱۵-۱۸۷۸\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. ۳۳۵ - ۳۴۱.
 :::
-## 61.5. بِنِدیکتیو (⟪آشیرلینگ⟫)
+## 61.5. بنیادین (⟪आशीर्लिङ्⟫)
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**معنا:**
 
 :::
 ::: indent
-**Segenswunsch** <!-- TODO: Fallback translation -->
+**آرزوی برکت**
 :::
-**Bildung:** <!-- TODO: Fallback translation -->
+**آموزش:**
 
-**Parasmaipada:** <!-- TODO: Fallback translation -->
+**پاراسمای‌پادا:**
 
-**tiefstufige Wurzel + yās + Sekundärendung** <!-- TODO: Fallback translation -->
+**ریشه عمیق + yās + پسوند ثانویه**
 
 ::: indent
-z.B. ⟪बुध्यासम्⟫ "möge ich erkennen!" <!-- TODO: Fallback translation -->
+مثال ⟪बुध्यासम्⟫ «ای کاش بشناسم!»
 :::
-**Ātmanepada:** <!-- TODO: Fallback translation -->
+**Ātmanepada:**
 
-**(meist) hochstufige Wurzel + sī(y) + Sekundärendung** <!-- TODO: Fallback translation -->
+**(معمولاً) ریشه با درجه‌بندی بالا + sī(y) + پسوند ثانویه**
 
-**oder:** <!-- TODO: Fallback translation -->
+**یا:**
 
-**(hochstufige) Wurzel + ⟪ै⟫ + sī(y) + Sekundäraendung** <!-- TODO: Fallback translation -->
+**(درجه‌بندی شده) ریشه + ⟪ै⟫ + sī(y) + پسوند ثانویه**
 
 ::: indent
-z.B.
-⟪जि⟫ : ⟪जेषीय⟫ "möge ich im eigenen Interesse siegen!"
-⟪बुध्⟫ : ⟪बोधिषीय⟫ "möge ich erkennen" <!-- TODO: Fallback translation -->
+به عنوان مثال:
+⟪जि⟫ : ⟪जेषीय⟫ "ای کاش من برای نفع خودم پیروز شوم!"
+⟪बुध्⟫ : ⟪बोधिषीय⟫ "ای کاش من بشناسم"
 :::
-**Die Regeln zur Form der Wurzel im Einzelnen bei Kielhorn, Grammatik § 380ff.**
-Paradigma: <!-- TODO: Fallback translation -->
+**قواعد مربوط به شکل ریشه در جزئیات، کیلهورن، دستور زبان § 380 به بعد.**
+الگو:
 
-Paradigma: <!-- TODO: Fallback translation -->
+پارادایم:
 
-⟪बुध्⟫ "erwachen" <!-- TODO: Fallback translation -->
+⟪बुध्⟫ "بیدار شدن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -609,32 +609,32 @@ Paradigma: <!-- TODO: Fallback translation -->
 :::
 ::: media
 ![](/images/lekt6114.webp)
-Abb.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
-Santa Cruz Basilica, Kochi = കൊച്ചി
-(Bildquelle: [Details](/licenses#lekt6114)) <!-- TODO: Fallback translation -->
+تصویر: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
+کلیسای سانتا کروز، کوچی = കൊച്ചി
+(منبع تصویر: [جزئیات](/licenses#lekt6114))
 :::
 ## 61.6. شرطی (⟪ऌङ्⟫)
 
 ::: grammar-box
-**Der Konditionalis (⟪ऌङ्⟫) wird verwendet, wenn man in Bedingungssätzen ausdrücken will, dass das, was als Bedingung genannt wird, nicht der Fall ist / gewesen ist / sein wird. Der Konditionalis muss bei solchen Sätzen sowohl im Bedingungssatz wie im Hauptsatz verwendet werden.** <!-- TODO: Fallback translation -->
+**وجه شرطی (⟪ऌङ्⟫) زمانی به کار می‌رود که بخواهیم در جملات شرطی بیان کنیم آن چیزی که به عنوان شرط ذکر شده است، برقرار نیست / نبوده است / نخواهد بود. در چنین جملاتی باید از وجه شرطی هم در جمله شرط و هم در جمله اصلی استفاده کرد.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+مثال:
 
 ::: indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Wenn es gut geregnet hätte (oder regnen würde), würde es trreichlich Nahrung geben. (Es hat aber nicht (genügend) geregnet.)" <!-- TODO: Fallback translation -->
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ «اگر باران خوب می‌بارید (یا ببارد)، غذای فراوان وجود داشت. (اما باران کافی نباریده است.)»
 :::
 ::: grammar-box
-**Bildung des Konditionalis (⟪ऌङ्⟫):** <!-- TODO: Fallback translation -->
+**تشکیل حالت شرطی (⟪ऌङ्⟫):**
 
-**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung** <!-- TODO: Fallback translation -->
+**اوگمنت + بن آینده ساده (⟪ऌत्⟫) + پسوند ثانویه**
 
 d.h. wie ein Imperfekt (⟪लङ्⟫) zum Futurstamm. <!-- TODO: Fallback translation -->
 
-z.B. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫ <!-- TODO: Fallback translation -->
+z.B. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
-⟪भू⟫ "sein, werden" <!-- TODO: Fallback translation -->
+⟪भू⟫ «بودن، شدن»
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -647,42 +647,42 @@ Paradigma: <!-- TODO: Fallback translation -->
 ## 61.7. صرف اسم‌های ختم شده به -ai, -o, -au
 
 ::: grammar-box
-**Vor Konsonant lauten diese Stämme auf -ai, -o, -au; vor Konsonant auf -āy, -av, -āv** <!-- TODO: Fallback translation -->
+**پیش از هم‌صداها، این بن‌ها به -ai، -o، -au ختم می‌شوند؛ پیش از هم‌صداها به -āy، -av، -āv**
 
-**⟪गो⟫ m.f. "Ochse, Kuh" hat Stammabstufung.** Siehe die Erklärung im Einzelnen bei Thumb-Hauschild § 296/7. <!-- TODO: Fallback translation -->
+**⟪गो⟫ مذکر/مونث "گاو، گاو ماده" دارای تغییر بن است.** برای توضیح دقیق‌تر به Thumb-Hauschild § 296/7 مراجعه کنید.
 :::
-Paradigmen: Kielhorn, Grammatik § 153: <!-- TODO: Fallback translation -->
+الگوها: کیلهورن، دستور زبان § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
-(Bildquelle: [Details](/licenses#lekt6115)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6115))
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6118)) <!-- TODO: Fallback translation -->
+تصویر: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
+(منبع تصویر: [جزئیات](/licenses#lekt6118))
 :::
-## 61.8. ضمایر باقی‌مانده
+## ۶۱.۸. سایر ضمایر
 
 ### 61.8.1. ضمیر شخصی تثنیه
 
-Kielhorn, Grammatik § 177: <!-- TODO: Fallback translation -->
+کیلهورن، دستور زبان § 177:
 
 ::: media
 ![](/images/lekt6116.jpg)
-(Bildquelle: [Details](/licenses#lekt6116)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6116))
 :::
 
 ::: media
 ![](/images/lekt6117.webp)
-Abb.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
-Apatani-Volk, Arunachal Pradesh
-(Bildquelle: [Details](/licenses#lekt6117)) <!-- TODO: Fallback translation -->
+تصویر: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
+مردم آپاتانی، آرونچال پرادش
+(منبع تصویر: [جزئیات](/licenses#lekt6117))
 :::
 ### 61.8.2. ضمیر اشاره ⟪अदस्⟫ «آن (دور)»
 
-Maskulinum (⟪पुंस्⟫) <!-- TODO: Fallback translation -->
+مذکر (⟪पुंस्⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -695,7 +695,7 @@ Maskulinum (⟪पुंस्⟫) <!-- TODO: Fallback translation -->
 | ⟪षष्ठी⟫ | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
 :::
-Neutrum (⟪नपुंसक⟫) <!-- TODO: Fallback translation -->
+خنثی (⟪नपुंसक⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -703,10 +703,10 @@ Neutrum (⟪नपुंसक⟫) <!-- TODO: Fallback translation -->
 | ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
 | ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Rest wie Maskulinum <!-- TODO: Fallback translation -->
+مانند مذکر صرف شود.
 
 :::
-Femininum (⟪स्त्री⟫) <!-- TODO: Fallback translation -->
+مؤنث (⟪स्त्री⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -721,13 +721,13 @@ Femininum (⟪स्त्री⟫) <!-- TODO: Fallback translation -->
 :::
 ## 61.9. ورود به اقیانوس ادبیات سانسکریت: ಶ್ರೀಗಣನಾಥ / ⟪شری گَنَناتْه⟫
 
-Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozean voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen: <!-- TODO: Fallback translation -->
+پس از اتمام دورهٔ زبان سنسکریت، آغازِ «شنا»ی واقعی در اقیانوس ادبیات سنسکریت است. از آنجا که این اقیانوس پر از موانع است، شایسته است که این مرحلهٔ جدید زندگی را با خوانش گَنِشا آغاز کنیم:
 
 ::: media
 ![](/images/lekt6101.webp)
-Abb.: ⟪श्रीगणनाथः⟫
-Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt6101)) <!-- TODO: Fallback translation -->
+تصویر: ⟪श्रीगणनाथः⟫
+هالِیبدو (ಹಳೆಬೀಡು)، قرن دوازدهم/سیزدهم پس از میلاد
+(منبع تصویر: [جزئیات](/licenses#lekt6101))
 :::
 
 ::: no-header
@@ -735,67 +735,67 @@ Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
 | --- | --- |
 | ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-***ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]*** von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564) <!-- TODO: Fallback translation -->
+***ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]*** اثر پوراندَر داسا (**ಪುರಂದರ ದಾಸ**) (۱۴۸۴ - ۱۵۶۴)
 
-Komponist und Dichter: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564) <!-- TODO: Fallback translation -->
+آهنگساز و شاعر: پوراندَر داسا (ಪುರಂದರ ದಾಸ) (۱۴۸۴ - ۱۵۶۴)
 
-Rāga: Malahari (zu ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை): <!-- TODO: Fallback translation -->
+راگا: مالاهاری (به ⟪मायामाळवगौळ⟫ = مایامالاواگائولا = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை):
 
-*   ārohaṇa: s r1 m1 p d1 S <!-- TODO: Fallback translation -->
+*   آروهانا: س ر۱ م۱ پ د۱ س
 
-*   avarohaṇa: S d1 p m1 g3 r1 s <!-- TODO: Fallback translation -->
+*   آواروها‌نا: س د۱ پ م۱ گ۳ ر۱ س
 
-Tāla: Rūpaka: o |4 <!-- TODO: Fallback translation -->
+تالا: روپاکا: اُ |۴
 
 ::: media
 ![](/images/lekt6119.webp)
-Abb.: Melodie, auf c bezogen, kann je nach Stimmlage transponiert werden.
-(Bildquelle: [Details](/licenses#lekt6119)) <!-- TODO: Fallback translation -->
+تصویر: ملودی، مرتبط با نت دو (c)، بسته به محدوده صوتی قابل انتقال است.
+(منبع تصویر: [جزئیات](/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05  <!-- TODO: Fallback translation -->
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] در آغاز آموزش موسیقی کانارایی قرار دارد. ویدیو را ببینید: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- دسترسی در ۲۰۰۹-۰۳-۰۵
 
-Nachdem Sie jetzt die Grundlagen des Sanskrit gelernt haben, sind Sie hoffentlich wie die Kleinkinder im Video: manchmal ungeschickt, aber lern- und wissensbegierig und mit Freude bei der Sache. Behalten Sie bis an Ihr Lebensende "a beginner's mind". <!-- TODO: Fallback translation -->
+پس از آنکه اکنون پایه‌های زبان سنسکریت را آموخته‌اید، امیدواریم مانند کودکان کوچک در ویدیو باشید: گاهی ناهماهنگ، اما آماده‌ی یادگیری و کنجکاو نسبت به دانش و با شوق در کار باشید. تا پایان عمر «ذهن مبتدی» خود را حفظ کنید.
 
 ::: center
-Das wünscht Ihnen Ihr Alois Payer <!-- TODO: Fallback translation -->
+این آرزوی شماست، آلویس پایر
 
-Ofterdingen, 2009-03-09 <!-- TODO: Fallback translation -->
+اوفتردینگن، ۲۰۰۹-۰۳-۰۹
 
 *:sig[⟪ॐ⟫]*
 
-ENDE DES SANSKRITKURSES <!-- TODO: Fallback translation -->
+پایان دورهٔ سانسکریت
 :::
 
 ::: deleteme-box
 
-**lekt6102:** [Bildquelle: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Zugriff am 2009-03-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6102:** [منبع تصویر: بانک جهانی / کرت کارنمارک. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- دسترسی در ۲۰۰۹-۰۳-۰۶. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt6106:** ⟪काशीपुर⟫ [Bildquelle: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)]] <!-- TODO: Fallback translation -->
+**lekt6106:** ⟪काशीपुर⟫ [منبع تصویر: سومیت. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- دسترسی در ۲۰۰۹-۰۳-۰۹. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
 
-**lekt6107:** ⟪जोधपुर⟫ [Bildquelle: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt6107:** ⟪जोधपुर⟫ [منبع تصویر: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- دسترسی در ۲۰۰۹-۰۳-۰۹. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
 
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Bildquelle: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Zugriff am 2009-03-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6104:** کارناتاکا = ಕರ್ನಾಟಕ [منبع تصویر: فلکر جسیکا ربت. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- دسترسی در ۲۰۰۹-۰۳-۰۸. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt6105:** ⟪हरिद्वार⟫ [Bildquelle: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Zugriff am 2009-03-08. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt6105:** ⟪हरिद्वार⟫ [منبع تصویر: ناریش دهیما. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- دسترسی در ۲۰۰۹-۰۳-۰۸. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب‌دهی)]
 
-**lekt6103:** [Bildquelle: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Zugriff am 2009-03-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt6103:** [منبع تصویر: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- دسترسی در ۲۰۰۹-۰۳-۰۸. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری)]
 
-**lekt6109:** ⟪मुंबई⟫ [Bildquelle: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6109:** ⟪मुंबई⟫ [منبع تصویر: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- دسترسی در ۲۰۰۹-۰۳-۰۹. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt6110:** Karli [Bildquelle: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6110:** کارلی [منبع تصویر: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- دسترسی در ۲۰۰۹-۰۳-۰۹. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt6111:** [Bildquelle: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt6111:** [منبع تصویر: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- دسترسی در ۲۰۰۹-۰۳-۰۹. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (نسب‌دهی، اشتراک یکسان)] <!-- TODO: Fallback translation -->
 
-**lekt6113:** Thailand - เมืองไทย [Bildquelle: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6113:** تایلند - เมืองไทย [منبع تصویر: قایقرانی "ردپاها: واقعی تا فیلم" (رون در ساحل). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- دسترسی در ۲۰۰۹-۰۳-۰۹. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، غیرتجاری، بدون مشتقات)]
 
-**lekt6112:** 1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen <!-- TODO: Fallback translation -->
+**lekt6112:** ۱۸۴۵ - ۱۸۷۸ استاد زبان‌شناسی هندی-شرقی در دانشگاه کپنهاگ
 
-**lekt6114:** Santa Cruz Basilica, Kochi = കൊച്ചി [Bildquelle: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt6114:** کلیسای باسیلیکا سانتا کروز، کوچی = കൊച്ചി [منبع تصویر: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- دسترسی در ۲۰۰۹-۰۳-۰۹. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (نسب‌دهی، غیرتجاری)]
 
-**lekt6118:** [Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt6118:** [منبع تصویر: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- دسترسی در ۲۰۰۹-۰۳-۰۹. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب‌دهی)] <!-- TODO: Fallback translation -->
 
-**lekt6117:** Apatani-Volk, Arunachal Pradesh [Bildquelle: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt6117:** مردم آپاتانی، آرونچال پرادش [منبع تصویر: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- دسترسی در ۲۰۰۹-۰۳-۰۹. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب‌دهی)]
 
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]:::: <!-- TODO: Fallback translation -->
+**lekt6101:** هالبدید (ಹಳೆಬೀಡು)، قرن دوازدهم/سیزدهم پس از میلاد [منبع تصویر: Quadell / ویکی‌پدیا. مجوز GNU FDLicense]::::
 
 :::

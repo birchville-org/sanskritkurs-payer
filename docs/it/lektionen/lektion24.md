@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 24
 
@@ -96,13 +96,13 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 :::
 Ulteriori usi del dativo più avanti.
 
-## 24.2. Formazione del Dativooo (⟪चतुर्थी⟫)
+## 24.2. Formazione del Dativoooooo (⟪चतुर्थी⟫)
 
 ::: grammar-box
-**Le desinenze regolari del Dativooo sono:**
+**Le desinenze regolari del Dativoooooo sono:**
 
 * **Singolare: -e ; temi femminili vocalici: -ai**
-* **Pluraleee: Dativooo e Ablativooo ⟪पञ्चमी⟫: -bhyas**
+* **Pluraleeeeee: Dativoooooo e Ablativoooooo ⟪पञ्चमी⟫: -bhyas**
 :::
 ### 24.2.1. Temi consonantici
 
@@ -299,7 +299,7 @@ Manoscritto del ⟪गीतगोविन्द⟫, 1730 d.C.
 
 ## 24.5. Esercizio
 
-A) Formare il Dativooo singolare e il Dativooo/(Ablativooo) plurale e indicare il significato della radice nominale:
+A) Formare il Dativoooooo singolare e il Dativoooooo/(Ablativoooooo) plurale e indicare il significato della radice nominale:
 
 1.  ⟪श्रव⟫
 2.  ⟪भवन⟫
@@ -423,7 +423,7 @@ Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 **lekt2408:** "Lo storyteller di San Francisco Jeff Byers racconta una storia ai residenti di Chenneri, un villaggio degli Irula. Lo storyteller Jeeva Raghunath traduce in tamil per gli abitanti del villaggio." [Fonte dell'immagine: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Accesso il 2008-12-14. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
 
-**lekt2409:** [Fonte dell'immagine: Redtigerxyz / Wikipedia, Licenza GNU FDL]
+**lekt2409:** [Fonte dell'immagine: Redtigerxyz / Wikipedia, Licenza GNU FDL] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt2410:** ⟪नरसिंह⟫ dilania ⟪हिरण्यकशिपु⟫, pagina da un manoscritto del ⟪भागवतपुराण⟫ [Fonte dell'immagine: Wikipedia, dominio pubblico]
 

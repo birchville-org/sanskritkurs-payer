@@ -3,7 +3,7 @@ title: Lektion 53
 lesson_id: 53
 ---
 
-# Lektion 53
+# Lecziun 53
 
 ## 53.1. Il dual (⟪द्विवचन⟫ n.) dals noms
 
@@ -34,14 +34,14 @@ lesson_id: 53
 ![](/images/lekt5301.webp)
 Abb.: ⟪मार्जारयुगम्⟫
 (Bildquelle: [Details](/rm/licenses#lekt5301))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5302.webp)
 Imm.: ⟪हस्तौ⟫
 (Sursa da l’imagina: [Detagls](/rm/licenses#lekt5302))
 :::
-## 53.2. Desinenzas dal dual dal num
+## 53.2. Desinenzas dal dual dal num <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -342,13 +342,13 @@ Abb.: ⟪पितापुत्रौ⟫
 :::
 ⟪कतर⟫ 3 "tgi dals dus" e ⟪कतम⟫ 3 "tgi dals multples" vegnan declinads en tut ils casus sco ⟪यद्⟫.
 
-## 53.7. Pronominaladjektive
+## 53.7. Pronominaladjektive <!-- TODO: Fallback translation -->
 
 Las suentas agiènts adiectivs pronominal vegnan declinads en tut ils cas uschiglio sco ⟪यद्⟫:
 
 *   ⟪अन्य⟫ 3 "in auter"
 *   ⟪अन्यतर⟫ 3 "in dals els"
-*   ⟪इतर⟫ 3 "l'auter"
+*   ⟪इतर⟫ 3 "l'auter" <!-- TODO: Fallback translation -->
 
 *   ⟪सर्व⟫ 3 "mintgin, tut" vegn declinà en tut ils cas uschè sco en il Nom.Akk.sg.n (⟪सर्वम्⟫) sco ⟪यद्⟫.
 *   ⟪उभय⟫ 3 "dus" n'ha nagin dual. En il singular e plural masc. e neutr. vegn el declinà sco ⟪सर्व⟫. Feminin: ⟪उभयी⟫ (sco ⟪देवी⟫).
@@ -368,7 +368,7 @@ Las suotgiantas adiectivas suan declinadas scoi ⟨⟪सर्व⟩⟩. En l�
 **Ina seria d'agietivs furma il comparativ u il superlativ cun ils suandants sufixs ⟪कृत्⟫ (!):**
 
 *   Komparativ: **-īyas**
-*   Superlativ: **-iṣṭha**
+*   Superlativ: **-iṣṭha** <!-- TODO: Fallback translation -->
 
 **Mentre che i suffissi ⟪तद्धित⟫ -⟪तर⟫ e -⟪तम⟫ s'uniscen al stemma masculin da l'aggettiv, vegnan ils suffiss -⟪ईयस्⟫ e -⟪इष्ठ⟫ agiuntads a la radis, da la quala l'aggettiv derivà è (sch'ei dat ina tala radis!). Il vocal da la radis è elevà.**
 
@@ -376,7 +376,7 @@ Las suotgiantas adiectivas suan declinadas scoi ⟨⟪सर्व⟩⟩. En l�
 
 **Deklination von -īyas siehe unten.**
 :::
-Ezempels:
+Ezempels: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Radix | Adjectiv | Comparativ | Superlativ |
@@ -456,12 +456,12 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "vegl") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "vegl") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declinaziun dals comparativs sin -īyas
+## 53.9. Declinaziun dals comparativs sin -īyas <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **I comparativs cun la fin -īyas furman il feminin cun la fin -īyasī (declinaziun sco ⟪देवी⟫). Il masculin ed il neutrum vegnan declinads suandent il paradigma.**
 :::
-::: grammar-box
+::: grammar-box <!-- TODO: Fallback translation -->
 
 |   | ⟪एकवचनम्⟫ || ⟪द्विवचनम्⟫ || ⟪बहुवचनम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -490,9 +490,11 @@ Vesair era:
 
 La determinaziun dal metr è impurtanta per las suandantas rauns:
 
-1.  **Estetic:** la mesira dal vers fa part da la bellezza d'in enuncià. Ultra da quai pon certas mesiras dal vers, en certs cas, exprimir certas emuns, u ellas èn assignadas a certs stans (⟪वर्ण⟫). Las differentas mesiras dal vers vegnan recitadas en differentas modas. :br Ina buna impressiun da l'effect estetic dat per exempel la recitaziun dal ⟪शिवताण्डवस्तोत्र⟫ (glutg dal dumber da Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Estetic:** la mesira dal vers fa part da la bellezza d'in enuncià. Ultra da quai pon certas mesiras dal vers, en certs cas, exprimir certas emuns, u ellas èn assignadas a certs stans (⟪वर्ण⟫). Las differentas mesiras dal vers vegnan recitadas en differentas modas.
+Ina buna impressiun da l'effect estetic dat per exempel la recitaziun dal ⟪शिवताण्डवस्तोत्र⟫ (glutg dal dumber da Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Critica dal text:** errurs en la mesira dal vers pon esser in indizi che il text n'è betg trasmettì correctamain ad in punct. La mesira dal vers agiuta a far emendaziuns dal text.
-3.  **Cronologic:** certas mesiras dal vers han passà tras midaments differents en il decurs da la istorgia. Quai po agiutar cun la dataziun approximativa d'in text. Vesei qua **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; id.: Zur Geschichte des Śloka. -- Tut duos en: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Edì da Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fondaziun Glasenapp ; ...). -- Vol. 2. -- 1967. -- P. 1188 - 1255.
+3.  **Cronologic:** certas mesiras dal vers han passà tras midaments differents en il decurs da la istorgia. Quai po agiutar cun la dataziun approximativa d'in text. Vesei qua **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; id.: Zur Geschichte des Śloka. -- Tut duos en:
+**Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Edì da Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fondaziun Glasenapp ; ...). -- Vol. 2. -- 1967. -- P. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -544,7 +546,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   nagin visarga,
 *   na suian dus consonantas.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
 
 **Tut las autras silbas èn ⟪गुरु⟫ = pesants. L'ultima silba d'in quartet da vers (⟪पाद⟫) vala adina sco ⟪गुरु⟫.**
 
@@ -555,7 +557,7 @@ Nell'analisi metrica significa:
 *   **×** = ⟪लघु⟫ u ⟪गुरु⟫
 *   **/** = Cäsura (divisiun da paraulas)
 :::
-Exempl: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
+Exempl: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
@@ -569,7 +571,7 @@ Distribuziun da ⟪लघु⟫ e ⟪गुरु⟫ :
 ::: metrik-schema
 — ◡ — —   **◡ — — —** ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. Il śloka epic (⟪श्लोक⟫ m.)
+### 53.10.4. Il śloka epic (⟪श्लोक⟫ m.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Merkvers:**
@@ -635,9 +637,9 @@ Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
 ::: deleteme-box
-**Furmas**
+**Furmas** <!-- TODO: Fallback translation -->
 
-**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lecziun 53 (Vacanzas dal semester). -- Versiun dal 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lecziun 53 (Vacanzas dal semester). -- Versiun dal 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  

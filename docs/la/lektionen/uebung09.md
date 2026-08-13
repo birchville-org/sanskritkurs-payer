@@ -28,9 +28,9 @@ A) Conare significata sequentium verborum determinare:
 
 9\. nāyikātva ⟪नायिकात्व⟫ : n. status amicae
 
-10\. tantraka ⟪तन्त्रक⟫ : 3 (nuper) ex trama / telariorum arte oriens = novae textae
+10\. tantraka ⟪तन्त्रक⟫ : 3 (nuper) ex trama / telariorum arte oriens = novae textae <!-- TODO: Fallback translation -->
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : saltator
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : saltator <!-- TODO: Fallback translation -->
 
 12\. naraka ⟪नरक⟫ : m. inferna
 
@@ -72,7 +72,7 @@ Doctrinae, sacrificia iussu, acceptio donorum.
 
 rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genetivus (casus possessionis): "omnium entium")
+(sarvabhūtānām = Genetivus (casus possessionis): "omnium entium") <!-- TODO: Fallback translation -->
 
 (Gautamadharmasūtra X,7)
 

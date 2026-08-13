@@ -5,9 +5,9 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 25
+# Lecke 25 <!-- TODO: Fallback translation -->
 
 ## 25.1. Az ablative képzése (⟪पञ्चमी⟫ = \"ötös esetrag\")
 
@@ -16,10 +16,10 @@ A -a végű hímnemű és középnemű szavak, valamint a névmások kivételév
 
 Kivéve a személyes névmásokat, az összes ragozásban többes számban az ablativus alakja megegyezik a dativuséval (⟪चतुर्थी⟫).
 :::
-Most megérti a szanszkrit esetek sorrendjének okát (⟪विभक्ति⟫): úgy vannak elrendezve, hogy azonos hangzású alakok lehetőleg egymás mellett – vagy alatta – álljanak.
+Most megérti a szanszkrit esetek sorrendjének okát (⟪विभक्ति⟫): úgy vannak elrendezve, hogy azonos hangzású alakok lehetőleg egymás mellett – vagy alatta – álljanak. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**ablativusus egyes szám, maskulinum / neutrum -a végződésű**
+**ablativusus egyes szám, maskulinum / neutrum -a végződésű** <!-- TODO: Fallback translation -->
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
@@ -33,12 +33,12 @@ Kérdő, viszonyító és mutató névmások:
 | ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
 | ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
 | ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
-| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
+| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) | <!-- TODO: Fallback translation -->
 
 :::
 ## 25.2. Az alaki eset használata (⟪पञ्चमी⟫)
 
-„Az alaki eset azt jelöli, ami megmarad, amikor valami elmozdul tőle.”
+„Az alaki eset azt jelöli, ami megmarad, amikor valami elmozdul tőle.” <!-- TODO: Fallback translation -->
 
 Pāṇini 2,3,28 + 1,4,24
 
@@ -49,7 +49,7 @@ Az ablativus főleg a „Honnan?”, „Miért?” kérdésekre áll.
 
 Az ablativus ezért utalhat arra a személyre is, akinek valamit veszünk, hallgatunk, kérünk stb.
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪ग्रमादागच्छति⟫ = „Faluból jön”
@@ -76,7 +76,7 @@ Példa:
 ::: grammar-box
 3\. Az ablativus az okot vagy a alapot jelöli:
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Haragjában megöli a fiát"
@@ -85,14 +85,14 @@ Példák:
 
 ⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Mivel gonoszságot tesz / tett, a pokolba kerül"
 :::
-Azok a névszók, amelyek nem hímneműek, egy cselekvés okának jelölésére állhatnak instrumentálisban (⟪तृतीया⟫) vagy ablativusban (⟪पञ्चमी⟫). A nőnemű szavak ebben az értelemben rendszerint instrumentálisban állnak, de alkalmanként ablativusban is állhatnak.
+Azok a névszók, amelyek nem hímneműek, egy cselekvés okának jelölésére állhatnak instrumentálisban (⟪तृतीया⟫) vagy ablativusban (⟪पञ्चमी⟫). A nőnemű szavak ebben az értelemben rendszerint instrumentálisban állnak, de alkalmanként ablativusban is állhatnak. <!-- TODO: Fallback translation -->
 
 ## 25.3. A -⟪तस्⟫ képző
 
 ::: grammar-box
 Ha az egyes számban egyértelműen kifejezni akarjuk, hogy a szó ablative jelentésben szerepel, a szótőhöz fűzhetjük a -⟪तस्⟫ képzőt, amely általában ablative jelentésű határozószavakat alkot (a „Honnan?” kérdésre):
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आदितस्⟫ = „elejétől fogva”
@@ -103,7 +103,7 @@ Példák:
 A -⟪तस्⟫ képző névmástövekhez is kapcsolódik:
 :::
 ::: indent
-⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) „onnan, ott, odé, arra, akkor, ezért”
+⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) „onnan, ott, odé, arra, akkor, ezért” <!-- TODO: Fallback translation -->
 
 ⟪यद्⟫ : ⟪यतस्⟫ „melyik, micsoda, honnan, hol, hová, miért, mivel“ (relatív)
 
@@ -134,7 +134,7 @@ Példa:
 
 A főmondatokat a ⟪हि⟫ „hiszen, mert” partikula segítségével lehet összekapcsolni. Egy ⟪हि⟫-t tartalmazó mondat (amely nem állhat első helyen, hanem prózában a második helyen kell szerepelnie) indoklást ad vagy az előző mondat, vagy a következő mondat számára:
 :::
-Példa:
+Példa: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Az emberek érdemcselekedeteket hajtanak végre. Ugyanis a mennybe akarnak jutni."
@@ -150,13 +150,13 @@ Példa:
 ⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Megöli a fiát haragból" = "Megöli a fiát dühében"
 :::
 ::: grammar-box
-**4\. Főnevek**
+**4\. Főnevek** <!-- TODO: Fallback translation -->
 
 Természetesen indokokat más szerkezetekkel is kifejezhetünk
 
 *   ⟪कारण⟫ n. "ok": ⟪कारणात्⟫ ⟪।⟫ ⟪कारणेन⟫
 *   ⟪हेतु⟫ m.
-*   egyéb főnevek "ok" jelentésben
+*   egyéb főnevek "ok" jelentésben <!-- TODO: Fallback translation -->
 
 \+ Genitiv (⟪षष्ठी⟫) vagy összetétek második tagjaként:
 :::
@@ -177,7 +177,7 @@ Példa:
 :::
 ## 25.5. Szószedet
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫ elhagy, felad, cserben hagy
+⟪त्यज्⟫ 1P ⟪त्यजति⟫ elhagy, felad, cserben hagy <!-- TODO: Fallback translation -->
 
 ::: indent
 Jöv. ⟪त्यक्ष्यति⟫  
@@ -201,7 +201,7 @@ ebből:
 Ábr.: ⟪धान्यम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : tart, szorosabban fog
+⟪धृ⟫ 1U ⟪धरति⟫ : tart, szorosabban fog <!-- TODO: Fallback translation -->
 
 ::: indent
 Jöv. ⟪धरिष्यति⟫  
@@ -223,7 +223,7 @@ ebből:
 
 ⟪प्रदान⟫ n.: adományozás, ajándékozás; ajándék, adomány
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!): örül, valami (Igenő, Birtk., Hely.) felett élvezi a részvétet
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!): örül, valami (Igenő, Birtk., Hely.) felett élvezi a részvétet <!-- TODO: Fallback translation -->
 
 ::: indent
 Jöv. ⟪मदिष्यति⟫  
@@ -281,7 +281,7 @@ abból:
 Ábr.: ⟪मूलानि⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bekenni, megken
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bekenni, megken <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
@@ -298,7 +298,7 @@ ebből:
 Ábr.: ⟪लिप्तिः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2503))
 :::
-⟪वर्ष⟫ n.,m.: eső, esős évszak, év
+⟪वर्ष⟫ n.,m.: eső, esős évszak, év <!-- TODO: Fallback translation -->
 
 ⟪वह्⟫ 1U ⟪वहति⟫ : vezet, halad, fúj (szél)
 
@@ -309,7 +309,7 @@ PPP ⟪ऊढ⟫
 Inf. ⟪वोढुम्⟫  
 Absol 2: -⟪उह्य⟫
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : elvezet (nevezetesen a menyasszonyt az szülői házból) = feleségül vesz
+⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : elvezet (nevezetesen a menyasszonyt az szülői házból) = feleségül vesz <!-- TODO: Fallback translation -->
 
 ebből:
 
@@ -336,13 +336,13 @@ abból:
 Ábr.: ⟪विष्टिः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : nőni, nagyobbá válni
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : nőni, nagyobbá válni <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
 PPP ⟪वृद्ध⟫ : felnőtt, idős, szaporodott  
-Inf. ⟪वर्धितुम्⟫
+Inf. ⟪वर्धितुम्⟫ <!-- TODO: Fallback translation -->
 
 ebből:
 
@@ -444,7 +444,7 @@ Magyarázat: ⟪सर्वतस्⟫ = sarva "minden, mindenki" + -tas ; ⟪
 ::: indent
 Magyarázat: ⟪राजा⟫ = alanyeset (nominativus) egyes szám a következőhöz: ⟪राजन्⟩ m. = ⟪नृप⟫
 :::
-## 25.8. Fordítási gyakorlat
+## 25.8. Fordítási gyakorlat <!-- TODO: Fallback translation -->
 
 1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. a közgazdaságtan hasznosságáról:
 
@@ -468,13 +468,13 @@ Magyarázat: ⟪राजा⟫ = alanyeset (nominativus) egyes szám a követke
 ... ⟪॥⟫  
 ⟪कामक्रोधलोभमानमदहर्षत्यागा⟫:sig[⟪त्कार्यः⟫] ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-A fenti szövegben pirossal kiemelt szavak magyarázata:
+A fenti szövegben pirossal kiemelt szavak magyarázata: <!-- TODO: Fallback translation -->
 
-1.5.1. ⟪तिस्रस्⟫ : főnév, accusativus, nőnemű a következőhöz: ⟪त्रि⟩ "három"
+1.5.1. ⟪तिस्रस्⟫ : főnév, accusativus, nőnemű a következőhöz: ⟪त्रि⟩ "három" <!-- TODO: Fallback translation -->
 
 1.5.2. ⟪प्राणभृताम्⟫ : Gen. pl. m. zu ⟪प्राणभृत्⟫ m. "lények"
 
-1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "másik"
+1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "másik" <!-- TODO: Fallback translation -->
 
 1.5.7. :sig[⟪कर्मा⟫] : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "cselekvés, mű" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā a upa-yuj 7 "megszerezni": "ő megszerezze"
 
@@ -482,9 +482,9 @@ A fenti szövegben pirossal kiemelt szavak magyarázata:
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : „hatodik”
 
-1.5.10. :sig[⟪कर्म⟫] N., Akk. sg. a következőhöz: ⟪कर्मन्⟫ n. „cselekmény”
+1.5.10. :sig[⟪कर्म⟫] N., Akk. sg. a következőhöz: ⟪कर्मन्⟫ n. „cselekmény” <!-- TODO: Fallback translation -->
 
-1.5.16. ⟪धि⟫ Sandha-forma a következőhöz: ⟪हि⟫ ; ⟪आत्मवत्ता⟫ n.: „önbirtoklás”
+1.5.16. ⟪धि⟫ Sandha-forma a következőhöz: ⟪हि⟫ ; ⟪आत्मवत्ता⟫ n.: „önbirtoklás” <!-- TODO: Fallback translation -->
 
 1.6.1. ⟪कार्य⟫ ⟪३⟫ „elvégzendő, amit el kell végezni”
 

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 54
 
-Alakítsa ki a következő jelen idő vagy befejezett múlt alakokhoz a megfelelő aoristoszt:
+Alakítsa ki a következő jelen idő vagy befejezett múlt alakokhoz a megfelelő aoristoszt: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Szám. | Alak | Meghatározás / Jelentés | Aoristoszt |
@@ -43,5 +43,5 @@ Alakítsa ki a következő jelen idő vagy befejezett múlt alakokhoz a megfelel
 ![](/images/uebung093.webp)
 Ábr.: ⟪अगायि⟫
 (Képmegjelölés: [Részletek](/licenses#uebung093))
-:::
+::: <!-- TODO: Fallback translation -->
 

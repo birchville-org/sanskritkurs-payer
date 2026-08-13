@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 54
+# Lectio 54
 
-## 54.1. Vorbemerkung
+## 54.1. Vorbemerkung <!-- TODO: Fallback translation -->
 
 Lecio quinquagesima quarta in schola universitatis incipiente, secundum semestrem cursum. A nunc cursus tantum ad principale huius semestris thema pertinet: lectionem totius Bhagavadgītā. Finis discendi est talis facilitas in lectione textus mediocris, ut in ultimo tertio semestris magnae partes Bhagavadgītā ex tempore traducere possint. In principio in schola universitatis vocabularia distributa sunt, postea studentes ipsi libros vocum (Monier-Williams, Apte, PW) adhibere debent.
 
@@ -17,7 +17,7 @@ Cursus de Bhagavadgītā pro tempore non online praebitur.
 
 Lectiones cursus Sanskritici tractant de argumentis grammaticae Sanscriticae, quae adhuc non tractata sunt.
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
+## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Ad desiderativa verba (⟪इच्छाप्रकृति⟫) ("velle aliquid facere"; "paratum esse, ut aliquid fiat") ad formandos nomina agentis suffigitur -u.**
@@ -113,7 +113,7 @@ In Bhagavadgītā II Triṣṭubhs et Jagatīs determinate.
 
 Exemplum recitationis: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Accessus die 2009-01-28
 
-## 54.5. Typi formationis Aoristi (⟪luṅ⟫)
+## 54.5. Typi formationis Aoristi (⟪luṅ⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Commune omnibus typis formationis Aoristi (⟪लुङ्⟫) est Augmentum a-, quod secundum easdem regulas ac in Imperfecto (⟪लङ्⟫) praepositum est.**

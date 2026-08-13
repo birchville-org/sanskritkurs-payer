@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 37. lecke
+# 37. lecke <!-- TODO: Fallback translation -->
 
 ## 37.1. Az határozószó (⟪क्रियाविशेषणम्⟫)
 
@@ -16,11 +16,11 @@ A szanszkritban az határozószók képzése
 1.  a főnevek és névmások ragozott alakjaival
 2.  különleges képzők és végződések segítségével
 
-Az első esetben élénk a határ az élő ragozás és az adverbium között. Ide tartoznak azok az adverbiumok, amelyek megkövesedett, régi ragozott alakok, míg a ragozásban más formákat használnak, vagy a megfelelő főneveket már nem használják főnévként.
+Az első esetben élénk a határ az élő ragozás és az adverbium között. Ide tartoznak azok az adverbiumok, amelyek megkövesedett, régi ragozott alakok, míg a ragozásban más formákat használnak, vagy a megfelelő főneveket már nem használják főnévként. <!-- TODO: Fallback translation -->
 
 ## 37.2. A ragozott alakok adverbiumi használata
 
-### 37.2.1. Többes szám (⟪द्वितीया⟫)
+### 37.2.1. Többes szám (⟪द्वितीया⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Az akkuzatívus (⟪द्वितीया⟫) határozószói értelműen használható a következő kérdésekre:
@@ -28,7 +28,7 @@ Az akkuzatívus (⟪द्वितीया⟫) határozószói értelműen has
 *   milyen módon?
 *   meddig?
 *   hová?
-*   stb.
+*   stb. <!-- TODO: Fallback translation -->
 
 Az akkuzatívus határozószói értelműen használható:
 
@@ -58,7 +58,7 @@ Az eszközhatározó (⟪तृतीया⟫) adverbialisan használható a k�
 
 *   wodurch?
 *   womit?
-*   mi által?
+*   mi által? <!-- TODO: Fallback translation -->
 
 Az instrumentalis használható határozószói értelműen:
 
@@ -88,7 +88,7 @@ Példa:
 ### 37.2.4. ablativusus (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Az ablativus (⟪पञ्चमी⟫) határozószói értelmű lehet a következő kérdésekre:
+Az ablativus (⟪पञ्चमी⟫) határozószói értelmű lehet a következő kérdésekre: <!-- TODO: Fallback translation -->
 
 *   miért?
 *   mi miatt?
@@ -122,7 +122,7 @@ A lokatívusz (⟪सप्तमी⟫) határozószói értelműen használhat
 
 *   hol?
 *   milyen körülmények között?
-*   stb.
+*   stb. <!-- TODO: Fallback translation -->
 
 Példák:
 :::
@@ -144,13 +144,13 @@ Példák:
 ## 37.4. Adverbiumok képzése adverbialis utótagokkal
 
 ::: grammar-box
-A ⟪तद्⟫, ⟪इदम्⟫ illetve ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ illetve ⟪कु⟫ névmástövekből a határozói képzőkkel
+A ⟪तद्⟫, ⟪इदम्⟫ illetve ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ illetve ⟪कु⟫ névmástövekből a határozói képzőkkel <!-- TODO: Fallback translation -->
 
 *   \-⟪तस्⟫ (ablativus)
 *   \-⟪त्र⟫ (lokativus)
 *   \-⟪था⟫ (mód)
 *   \-⟪थम्⟫ (mód)
-*   \-⟪दा⟫ (idő)
+*   \-⟪दा⟫ (idő) <!-- TODO: Fallback translation -->
 
 megfelelő névmás határozószavakat lehet levezetni.
 :::
@@ -163,7 +163,7 @@ megfelelő névmás határozószavakat lehet levezetni.
 | **-⟪त्र⟫** :br(lokativus) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -183,14 +183,14 @@ Egy másik kérdőhatározó szó: ⟪क्व⟫ "hol?"
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
 
 :::
 ## 37.5. Adverbialis összetételek
 
 ### 37.5.1. Adverbiumot vagy adverbialisan használt esetet tartalmazó összetételek, ahol az utolsó tag a meghatározott elem
 
-Példa: ⟪सुचिरम्⟫ "nagyon hosszú (idő)"
+Példa: ⟪सुचिरम्⟫ "nagyon hosszú (idő)" <!-- TODO: Fallback translation -->
 
 ### 37.5.2. Határozszói értelmű ⟪बहुव्रीहि⟫
 
@@ -214,7 +214,7 @@ Példák:
 
 ⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "előre, szemben"
 :::
-Különösen fontosak a ⟪अव्ययीभाव⟫ szerkezetek, ahol a ⟪यथा⟫ "mint" mint első tag szerepel:
+Különösen fontosak a ⟪अव्ययीभाव⟫ szerkezetek, ahol a ⟪यथा⟫ "mint" mint első tag szerepel: <!-- TODO: Fallback translation -->
 
 pl. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "ahogyan a kívánság, kívánat szerint, tetszés szerint"
 ::: media
@@ -325,7 +325,7 @@ Példa:
 ⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Meg fog-e menni a bráhmana fiú egy mesterhez?"
 :::
 ::: grammar-box
-II. séma:
+II. séma: <!-- TODO: Fallback translation -->
 
 Kérdő részecske (általában a mondat elején) – mondat
 
@@ -351,7 +351,7 @@ Megjegyzés: ⟪किम्⟫ nemcsak „mit?” jelentést, hanem kérdőszó
 ::: indent
 ⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ „Mire a harag? Mire jó a harag? Mi célja a haragnak?”
 :::
-## 37.9. Szószedet
+## 37.9. Szószedet <!-- TODO: Fallback translation -->
 
 ⟪मूर्ख⟫ 3: tompaelméjű, buta, ostoba m. bolond
 
@@ -365,7 +365,7 @@ Megjegyzés: ⟪किम्⟫ nemcsak „mit?” jelentést, hanem kérdőszó
 Ábr.: ⟪शाक्यमुनिः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: nap
+⟪दिन⟫ n.: nap <!-- TODO: Fallback translation -->
 
 ⟪वृक्ष⟫ m.: fa
 
@@ -440,7 +440,7 @@ B) Fordítsa le:
 
 ⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
 
-C) Fordítsa le a következő ⟪अव्ययीभाव⟫ :
+C) Fordítsa le a következő ⟪अव्ययीभाव⟫ : <!-- TODO: Fallback translation -->
 
 1\. ⟪अति⟫ Case postpozícióval: " ... túl"
 
@@ -459,7 +459,7 @@ C) Fordítsa le a következő ⟪अव्ययीभाव⟫ :
 Kép: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "megfelelően, mentén, szerint"
+3\. ⟪अनु⟫ "megfelelően, mentén, szerint" <!-- TODO: Fallback translation -->
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -508,7 +508,7 @@ Kép: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 
 Fordítsa szanszkritra, kizárólag a perfekti igealakjait használva:
 
-Amikor egyszer egy idős ember egy másik faluba indult, elfáradt útközben. Ezért a pihenés végett odament egy oldalban álló mangófafa tövéhez. Ezen a fán érett gyümölcsök voltak. Az idős ember megkívánta ezeket. De nem tudott felmászni a fára, és elérni a gyümölcsöket. Szerencsére az említett fán voltak majmok, amelyek gyümölcsöt ettek. Amint meglátta őket, az idős ember megörült. Mit tett? Néhány követ vett, célzott a majmokra, és dobálta. A felháborodott majmok gyümölcsöket szedtek, és a főre dobták őket. Az idős ember ezeket örömmel vette, és elment a kívánt helyére. Íme, az idős ember sorsa!
+Amikor egyszer egy idős ember egy másik faluba indult, elfáradt útközben. Ezért a pihenés végett odament egy oldalban álló mangófafa tövéhez. Ezen a fán érett gyümölcsök voltak. Az idős ember megkívánta ezeket. De nem tudott felmászni a fára, és elérni a gyümölcsöket. Szerencsére az említett fán voltak majmok, amelyek gyümölcsöt ettek. Amint meglátta őket, az idős ember megörült. Mit tett? Néhány követ vett, célzott a majmokra, és dobálta. A felháborodott majmok gyümölcsöket szedtek, és a főre dobták őket. Az idős ember ezeket örömmel vette, és elment a kívánt helyére. Íme, az idős ember sorsa! <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

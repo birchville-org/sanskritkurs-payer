@@ -198,6 +198,13 @@ def main():
             written_files = len([f for f in glob.glob(os.path.join(lang_p, "**/*.md"), recursive=True) if "qa_viewer" not in f and "deleteme" not in f])
         if is_language_completed(lang):
             clear_force_session(lang)
+            # Automatic Vector Index Generation
+            try:
+                vec_script = os.path.join(os.path.dirname(__file__), "build_vector_index.py")
+                subprocess.run([sys.executable, vec_script, "--lang", lang], check=False)
+            except Exception as e:
+                print(f"[{lang}] Warning: Vektorindex-Erstellung fehlgeschlagen: {e}")
+
             try:
                 email_script = os.path.join(os.path.dirname(__file__), "send_notification_email.py")
                 lang_name = LANG_NAMES.get(lang, lang)

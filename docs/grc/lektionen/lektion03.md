@@ -76,7 +76,7 @@ status: stable
 :::
 οἷον
 
-devatā + annapūrṇā » devatānnapūrṇā "ἡ Annapūrṇā ἐστὶ θεότης τις" = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā "ἡ Annapūrṇā ἐστὶ θεότης τις" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
 
 > (Ἡ Annapūrṇā ἐστὶ ἡ θεὰ τῶν βρωμάτων καὶ τῆς μαγειρικῆς, καὶ νομίζεται εἶναι ἐνσάρκωσίς τις τῆς Pārvatī, τῆς συζύγου τοῦ Śiva.)
 
@@ -127,7 +127,7 @@ devī + umā » devy umā "Ἡ Οὐμᾶ ἐστὶ μία / ἡ θεά" = ⟪�
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-π.χ.
+π.χ. <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "οἱ Vaiśyāḥ εἰσὶ δὶς γεννηθέντες" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -162,7 +162,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "οἱ Vaiśyāḥ εἰσὶ δὶ�
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Βραχμανίς.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : θήλεια kṣatriya.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : θήλεια kṣatriya. <!-- TODO: Fallback translation -->
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : γυνὴ ἑνὸς kṣatriya.
 

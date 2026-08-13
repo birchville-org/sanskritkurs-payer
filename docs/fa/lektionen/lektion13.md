@@ -68,7 +68,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 با استفاده از پسوند‌های تادهیته -mant و -vant، صفت‌های مالکیت‌ساز از اسم‌ها ساخته می‌شوند. معنای آن‌ها این است: «دارندهٔ چیزی که توسط اسم پایه مشخص شده است».
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 مثال‌ها:
 

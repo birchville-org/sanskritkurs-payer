@@ -34,7 +34,7 @@ de ex. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम
 **Sufixul taddhita -ka formează, printre altele:**
 
 1\. **Diminutive (forme de diminutiv, precum în germană -chen, -lein, -li, -le):**
-   **putra m. "fiu" » putraka m. ⟪पुत्रक⟫ "fișor"**
+   **putra m. "fiu" » putraka m. ⟪पुत्रक⟫ "fișor"** <!-- TODO: Fallback translation -->
 
 2\. **Nume care indică o asemănare aproximativă:**
    **aśva m. "cal" » aśvaka m. ⟪अश्वक⟫ "căluț, un lucru asemănător cu un cal"**
@@ -63,7 +63,7 @@ Un vocal final al rădăcinii, precum și **-a-** la penultima poziție a rădă
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Conducător, stăpân, soț,:briubit / iubită, doamnă" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Cel care jertfește, preot sacrificator" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Dansator / Dansatoare" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "învingător" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "învingător" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Unele dintre aceste forme au semnificația mai restrânsă: "cel care realizează în mod obișnuit, ca datorie sau bine, ceea ce este exprimat de rădăcină".**
@@ -159,7 +159,7 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 3. Sarcini specifice ale unui Kṣatriya:
    **rakṣaṇaṃ sarvabhūtānām**
    ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-   (sarvabhūtānām = Genitivul (cazul posesiv): "toate ființele"; Gautamadharmasūtra X, 7)
+   (sarvabhūtānām = Genitivul (cazul posesiv): "toate ființele"; Gautamadharmasūtra X, 7) <!-- TODO: Fallback translation -->
 
 4. Sarcini specifice ale unui Vaiśya:
    **kṛṣivāṇijyapāśupālyakusīdam**
@@ -175,3 +175,4 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
    (conform Kauṭilīya-Arthaśāstra 1.4.1.)
+ <!-- TODO: Fallback translation -->

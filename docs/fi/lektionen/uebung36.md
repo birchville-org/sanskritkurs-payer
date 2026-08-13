@@ -28,7 +28,7 @@ B) Muodosta perifraattinen perfekti juurelle ⟪आस्⟫ (istua):
 | ⟪१⟫. ⟪आस्ते⟫ | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. ⟪आसते⟫ | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 :::
-C) Muodosta vastaava perfekti seuraaville muodoille:
+C) Muodosta vastaava perfekti seuraaville muodoille: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Preesens / Imperfekti | Perfekti |
@@ -49,27 +49,27 @@ C) Muodosta vastaava perfekti seuraaville muodoille:
 :::
 ---
 
-## Käännökset
+## Käännökset <!-- TODO: Fallback translation -->
 
 ⟪१⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫**
-Kun hänelle syntyi poika, valaistunut hylkäsi perheen ja omaisuutensa ja lähti kodista askeetikkona. Hän ymmärsi älyllään jalot totuudet, vapautui kärsimyksen tiedosta ja johti jaloja ihmisiä, jotka toivoivat vapautusta, ymmärrykseen — niin munkit kertovat.
+Kun hänelle syntyi poika, valaistunut hylkäsi perheen ja omaisuutensa ja lähti kodista askeetikkona. Hän ymmärsi älyllään jalot totuudet, vapautui kärsimyksen tiedosta ja johti jaloja ihmisiä, jotka toivoivat vapautusta, ymmärrykseen — niin munkit kertovat. <!-- TODO: Fallback translation -->
 
 ⟪२⟫. **⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञ⟫en ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫**
-Brahmanit rakennsuivat suuren jumaluksuhrauksen tulen. Kun brahmanit ylistivät Indraa ja muita jumalia, uhrituli söi ruoan. Näin brahmanit saavuttivat uhrilla sen, että suuret jumalat söivät, ja saattoivat heidät kuuntelemaan ylistyslauluja.
+Brahmanit rakennsuivat suuren jumaluksuhrauksen tulen. Kun brahmanit ylistivät Indraa ja muita jumalia, uhrituli söi ruoan. Näin brahmanit saavuttivat uhrilla sen, että suuret jumalat söivät, ja saattoivat heidät kuuntelemaan ylistyslauluja. <!-- TODO: Fallback translation -->
 
 ⟪३⟫. **⟪रक्षितधर्मक्षत्रिययोधा⟫ ⟪महानगरं⟫ ⟪जेतुकामाञ्छत्रून्विजिग्युर्न⟫ ⟪तु⟫ ⟪जघ्नुः⟫ ⟪॥३॥⟫**
-Kṣatriya-sotilaat, jotka vartioivat oikeutta, voittivat viholliset, jotka halusivaltata suuren kaupungin, mutta eivät tappaneet heitä.
+Kṣatriya-sotilaat, jotka vartioivat oikeutta, voittivat viholliset, jotka halusivaltata suuren kaupungin, mutta eivät tappaneet heitä. <!-- TODO: Fallback translation -->
 
 ⟪४⟫. **⟪अधीतवेदद्विजो⟫ ⟪द्विजधर्मं⟫ ⟪वेद⟫ ⟪॥४॥⟫**
-Kaksinkertaisesti syntynyt, joka on opiskellut Veda-kirjoja, tuntee kaksinkertaisesti syntyneiden oikeuden ja tavat.
+Kaksinkertaisesti syntynyt, joka on opiskellut Veda-kirjoja, tuntee kaksinkertaisesti syntyneiden oikeuden ja tavat. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. **⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫**
-Pelkällä tiedolla ei voi elää. Kenen tämä on tietoinen, hänen ei tulisi opiskella.
+Pelkällä tiedolla ei voi elää. Kenen tämä on tietoinen, hänen ei tulisi opiskella. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung061.webp)
 Kuv.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
-(Kuv lähde: [Yksityiskohdat](/licenses#uebung061))
+(Kuv lähde: [Yksityiskohdat](/licenses#uebung061)) <!-- TODO: Fallback translation -->
 
 :::
 ---
@@ -82,7 +82,7 @@ Kuv.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪�
 **⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫**  
 **⟪सर्वे⟫ ⟪तस्यादृता⟫ ⟪धर्मा⟫ ⟪यस्यैते⟫ ⟪त्रय⟫ ⟪आदृताः⟫ ⟪।⟫**  
 **⟪अनादृतास्तु⟫ ⟪यस्यैते⟫ ⟪सर्वास्तस्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫**  
-Millä isänään ilahduttaa, millä hänet ilahduttaa; millä äitiinsä ilahduttaa, millä maa kunnioitetaan; millä opettajansa ilahduttaa, milla Veda kunnioitetaan. Joka näitä kolmea kunnioittaa, hän kunnioittaa kaikkia määräyksiä; joka näitä ei kunnioita, hänen tekonsa ovat kaikki hedottomia.
+Millä isänään ilahduttaa, millä hänet ilahduttaa; millä äitiinsä ilahduttaa, millä maa kunnioitetaan; millä opettajansa ilahduttaa, milla Veda kunnioitetaan. Joka näitä kolmea kunnioittaa, hän kunnioittaa kaikkia määräyksiä; joka näitä ei kunnioita, hänen tekonsa ovat kaikki hedottomia. <!-- TODO: Fallback translation -->
 
 ### ⟪२⟫. **⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫** (Käyttäytyminen vanhuksia kohtaan)
 **⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫**  
@@ -92,18 +92,18 @@ Tervehdi vanhuksia muodollisesti, anna heille paikkasi ja seisokaa heidän luona
 ### ⟪३⟫. **⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫** (Aistien hallinta)
 **⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫**  
 **⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ⟪विज्ञेयो⟫ ⟪जितेन्द्रियः⟫ ⟪॥⟫**  
-Kun mies ei kummikaan iloitse että loukkaantuu, kun hän kuulee, koskettaa, näkee, maistaa tai haistaa, häntä pidetään sellaisena, joka on voittanut aisteinsa (⟪जितेन्द्रियः⟩).
+Kun mies ei kummikaan iloitse että loukkaantuu, kun hän kuulee, koskettaa, näkee, maistaa tai haistaa, häntä pidetään sellaisena, joka on voittanut aisteinsa (⟪जितेन्द्रियः⟩). <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung060.webp)
 Kuva: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Kuv lähde: [Details](/licenses#uebung060))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Sanamuodon määrittäminen
+## Sanamuodon määrittäminen <!-- TODO: Fallback translation -->
 
-Määritä ja käännä seuraavat sanamuodot:
+Määritä ja käännä seuraavat sanamuodot: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Sanamuoto | Määritys | Merkitys |
@@ -126,7 +126,7 @@ Määritä ja käännä seuraavat sanamuodot:
 | ⟪१६⟫. ⟪ददे⟫ | ⟪दा⟫ (3U) 3. sg. Ā. Perf. | hän antoi itselleen |
 | ⟪१७⟫. ⟪दत्ते⟫ | ⟪दा⟫ (3U) 3. sg. Ā. Ind. Präs. | hän antaa itselleen |
 | ⟪१८⟫. ⟪हिते⟫ | ⟪धा⟫ (3U) PPP Lok. sg. m./n. | säädetyssä |
-| ⟪१९⟫. ⟪हीयते⟫ | ⟪हा⟫ (3P) 3. sg. Pass. Ind. Präs. | hänet jätetään |
+| ⟪१९⟫. ⟪हीयते⟫ | ⟪हा⟫ (3P) 3. sg. Pass. Ind. Präs. | hänet jätetään | <!-- TODO: Fallback translation -->
 
 | ⟪२०⟫. ⟪जज्ञे⟫ | ⟪ज्ञा⟫ / ⟪जन्⟫ 3. sg. Ā. Perf. | hän tuntesi / syntyi |
 | ⟪२१⟫. ⟪यज्ञे⟫ | ⟪यज्ञ⟫ (m.) Lok. sg. | uhritilaisuudessa |
@@ -150,5 +150,5 @@ Määritä ja käännä seuraavat sanamuodot:
 ![](/images/uebung059.webp)
 Kuv.: ⟪जगौ⟫
 (Kuvälähde: [Details](/licenses#uebung059))
-:::
+::: <!-- TODO: Fallback translation -->
 

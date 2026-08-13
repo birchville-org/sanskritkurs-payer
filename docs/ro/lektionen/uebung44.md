@@ -67,7 +67,7 @@ A) Determinați și traduceți următoarele forme:
 | ⟪५१⟫. **⟪हथ⟫** | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | bateți |
 | ⟪५२⟫. **⟪हतः⟫** | ⟪हन्⟫ (2P) PPP Nom. sg. m. | bătut / omorât |
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Traduceri
 
@@ -102,7 +102,7 @@ Ai plâns pentru cei care nu trebuie plânși și ai vrut să rostești cuvinte 
 Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung072))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Alte forme de determinare
 
@@ -156,4 +156,4 @@ Determinați următoarele forme de cuvânt:
 Fig.: ⟪वदिता⟫
 (Sursa imaginii: [Detalii](/licenses#uebung073))
 ::::
-:::
+::: <!-- TODO: Fallback translation -->

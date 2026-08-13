@@ -134,7 +134,7 @@ Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg
 :::
 
 ::: indent
-Hoffmann, Karl \<1915 - 1996\>: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
+Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
 :::
 hat der Injunktiv im Veda folgende Eigenschaften:
 
@@ -192,7 +192,7 @@ Daneben gibt es noch weitere, seltenere Formen von Verbotssätzen, siehe z.B.
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)

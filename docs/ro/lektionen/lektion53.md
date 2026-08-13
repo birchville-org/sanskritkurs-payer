@@ -25,7 +25,7 @@ lesson_id: 53
 ::: indent
 **⟪पितरौ⟫** „tată și mamă = părinți”
 :::
-**Cuvintele care înseamnă „o pereche” – de ex. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. – sunt totuși utilizate întotdeauna la singular, cu excepția cazului în care este vorba despre două sau mai multe perechi:**
+**Cuvintele care înseamnă „o pereche” – de ex. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. – sunt totuși utilizate întotdeauna la singular, cu excepția cazului în care este vorba despre două sau mai multe perechi:** <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪बाहुद्वयम्⟫** „o pereche de brațe”
@@ -34,14 +34,14 @@ lesson_id: 53
 ![](/images/lekt5301.webp)
 Fig.: ⟪मार्जारयुगम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5301))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5302.webp)
 Fig.: ⟪हस्तौ⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5302))
 :::
-## 53.2. Terminații de dual pentru substantive
+## 53.2. Terminații de dual pentru substantive <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -199,7 +199,7 @@ Fig.: ⟪भरन्तौ⟫
 **Steme pe -a**
 
 ⟪देव⟫ m. "zeu"  
-⟪फल⟫ n. "rod"
+⟪फल⟫ n. "rod" <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
@@ -368,7 +368,7 @@ Următoarele adjective pronominale se declină ca ⟪सर्व⟫. La ablativ
 **Un număr de adjective formează comparativul, respectiv superlativul, cu următoarele sufixe ⟪कृत्⟫ (!):**
 
 *   Comparativ: **-īyas**
-*   Superlativ: **-iṣṭha**
+*   Superlativ: **-iṣṭha** <!-- TODO: Fallback translation -->
 
 **În timp ce sufixele ⟪तद्धित⟫ -⟪तर⟫ și -⟪तम⟫ se atașează la tema masculină a adjectivului, sufixele -⟪ईयस्⟫ și -⟪इष्ठ⟫ se adaugă la rădăcină, de la care este derivat adjectivul (în cazul în care există o astfel de rădăcină!). Vocala rădăcinii este în gradul maxim (guṇa/vṛddhi).**
 
@@ -376,7 +376,7 @@ Următoarele adjective pronominale se declină ca ⟪सर्व⟫. La ablativ
 
 **Deklination von -īyas siehe unten.**
 :::
-Exemple:
+Exemple: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Rădăcină | Adjectiv | Comparativ | Superlativ |
@@ -456,7 +456,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "bătrân") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "bătrân") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declinarea comparativelor în -īyas
+## 53.9. Declinarea comparativelor în -īyas <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Comparativele în -īyas formează femininul în -īyasī (declinare conform cu ⟪देवी⟫). Masculinul și neutrul se declină conform următorului paradigmă.**
@@ -482,7 +482,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5303))
 :::
-Vedeți, de asemenea:
+Vedeți, de asemenea: <!-- TODO: Fallback translation -->
 
 > **Payer, Alois (1944–):** Introducere în exegesa textelor sanscrite: manual. -- Cap. 8: Exegesa propriu-zisă, Partea a II-a: Cu privire la anumite aspecte ale înțelegerii sincrone. -- Anexa B: Cu privire la metrica textelor sanscrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
@@ -490,16 +490,18 @@ Vedeți, de asemenea:
 
 Stabilirea metricii este importantă din următoarele motive:
 
-1.  **Estetic:** metrica face parte, printre altele, din frumusețea unei afirmații. De asemenea, anumite metrici pot servi, în unele cazuri, pentru a exprima anumite stări de spirit, sau sunt asociate anumitor clase sociale (⟪वर्ण⟫). Diferitele metrici sunt recitate în moduri diferite. :br O bună impresie a efectului estetic oferă, de exemplu, recitarea lui ⟪शिवताण्डवस्तोत्र⟫ (lăudă adusă dansului lui Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Estetic:** metrica face parte, printre altele, din frumusețea unei afirmații. De asemenea, anumite metrici pot servi, în unele cazuri, pentru a exprima anumite stări de spirit, sau sunt asociate anumitor clase sociale (⟪वर्ण⟫). Diferitele metrici sunt recitate în moduri diferite.
+O bună impresie a efectului estetic oferă, de exemplu, recitarea lui ⟪शिवताण्डवस्तोत्र⟫ (lăudă adusă dansului lui Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Textual-critic:** greșelile în metrică pot fi un indiciu că textul nu a fost transmis corect într-un anumit punct. Metrica ajută la efectuarea de îmbunătățiri textuale.
-3.  **Cronologic:** anumite metrici au suferit, în decursul istoriei, anumite modificări. Acest lucru poate ajuta la datarea aproximativă a unui text. Vezi, în acest sens, **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; același autor: Zur Geschichte des Śloka. -- Ambele tipărite în: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Editat de Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fundația Glasenapp ; ...). -- Vol. 2. -- 1967. -- pp. 1188 - 1255.
+3.  **Cronologic:** anumite metrici au suferit, în decursul istoriei, anumite modificări. Acest lucru poate ajuta la datarea aproximativă a unui text. Vezi, în acest sens, **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; același autor: Zur Geschichte des Śloka. -- Ambele tipărite în:
+**Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Editat de Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fundația Glasenapp ; ...). -- Vol. 2. -- 1967. -- pp. 1188 - 1255. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5304.jpg)
 Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5304))
 :::
-### 53.10.2. Tipuri de metre
+### 53.10.2. Tipuri de metre <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Indienii fac distincția:**
@@ -544,7 +546,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   nu urmează niciun visarga,
 *   nu urmează două consoane.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
 
 **Toate celelalte silabe sunt ⟪गुरु⟫ = grele. Ultima silabă a unui sfert de vers (⟪पाद⟫) este întotdeauna considerată ⟪गुरु⟫.**
 
@@ -569,7 +571,7 @@ Distribuirea ⟪लघु⟫ și ⟪गुरु⟫ :
 ::: metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. El śloka epic (⟪श्लोक⟫ m.)
+### 53.10.4. El śloka epic (⟪श्लोक⟫ m.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Mnemotehnică:**
@@ -635,9 +637,9 @@ Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
 ::: deleteme-box
-**Surse**
+**Surse** <!-- TODO: Fallback translation -->
 
-**Payer, Alois (1944–):** Curs de sanscrit. -- Lectiona 53 (Vacanțe semestriale). -- Versiune din data de 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Curs de sanscrit. -- Lectiona 53 (Vacanțe semestriale). -- Versiune din data de 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -647,5 +649,5 @@ Alois Maria Payer
 ::: deleteme-box
 
 **Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
-:::
+::: <!-- TODO: Fallback translation -->
 

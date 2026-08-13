@@ -158,7 +158,7 @@ Explicações:
 
 ⟪।११।⟫ ⟪योजयति⟫ (Caus. de ⟪युज्⟫) "arrear, conectar com, unir com"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva)
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "quanto mais"
 
@@ -166,7 +166,7 @@ Explicações:
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "quatro" como primeiro membro de um composto
 
-⟪राज्ञा⟫ Instr. sg. masc. de ⟪राजन्⟫ m. "rei"
+⟪राज्ञा⟫ Instr. sg. masc. de ⟪राजन्⟫ m. "rei" <!-- TODO: Fallback translation -->
 
 ⟪स्वेषु⟫ : Loc. pl. masc. / neutr. de ⟪स्व⟫ ⟪३⟫ "próprio (meu, teu, seu etc.)"
 

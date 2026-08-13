@@ -51,7 +51,7 @@ Dem Aktivsatz **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रा�
 Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch leichter bildbar als z.B. zahlreiche Präsensstämme.
 
 ::: important
-**ⲛⲓϣⲱⲡ ⲛⲧⲥⲁⲛϯⲕⲣⲓ ⲉⲧⲃⲟⲗ ϩⲛ ⲡϣⲱⲡⲓ ⲉⲙϫⲟⲣⲧ ϩⲛ ⲡⲓϫⲟⲣⲧ ϯⲛⲉ ⲙⲡϫⲟⲣⲧ ϯⲛⲉ ⲡϫⲟⲣⲧ.** <!-- TODO: Fallback translation -->
+**ⲛⲓϣⲱⲡ ⲛⲧⲥⲁⲛϯⲕⲣⲓ ⲉⲧⲃⲟⲗ ϩⲛ ⲡϣⲱⲡⲓ ⲉⲙϫⲟⲣⲧ ϩⲛ ⲡⲓϫⲟⲣⲧ ϯⲛⲉ ⲙⲡϫⲟⲣⲧ ϯⲛⲉ ⲡϫⲟⲣⲧ.**
 :::
 
 ## 10.2. Ⲡⲓⲓⲛⲥⲧⲣⲟⲩⲙⲉⲛⲧⲁⲗⲓⲥ (ⲧⲣⲧⲓⲓⲁ ϥ. = ⟪तृतीया⟫ = "ⲧⲁⲡⲉⲛⲇⲓⲛⲅ ⲛ̄ⲧⲉ ⲡⲓⲕⲁⲥⲟⲥ ⲛ̄ϣⲟⲙⲧ")
@@ -63,7 +63,7 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 
 **ϯⲛⲓⲙⲁϥⲟⲛ ⲛ̀ⲧⲉ ϯⲙⲟⲩϫⲓ:**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | ⲡⲓϣⲛⲟⲩⲥ ϯⲙⲁϫⲣⲉ ⲛ̀ⲧⲥ ϯⲙⲁϫⲣⲉ | Instrumentalis Plural |
 | :--- | :--- | :--- |
 | **Feminina auf -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
 | **Feminina auf -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
@@ -104,10 +104,10 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 :::
 
 ::: deleteme-box
-Ausser im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepronomens und der Demonstrativpronomina mit den Formen des entsprechenden Maskulinums identisch. <!-- TODO: Fallback translation -->
+ⲙⲡⲓⲛⲟϥ ϧⲉⲙ ⲡⲓⲛⲁϩⲟⲥ ϫⲉ ⲡⲓⲛⲁϣⲟⲥ ϩⲉⲓ ⲛⲧⲉ ⲡⲓϫⲟⲙ ϩⲛ -a, ⲡⲓϫⲟⲙ ϩⲛ ⲡⲓⲃⲏⲧ ϫⲉ ⲡⲓϣⲟⲙ ϩⲛ ⲡⲓⲃⲏⲧ.
 :::
 
-### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫) <!-- TODO: Fallback translation -->
+### 10.2.1. ⲙⲡⲓⲛⲟϥ ϧⲉⲙ ⲡⲓⲛⲁϣⲟⲥ (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
 **ⲡⲓⲕⲗⲏⲧⲓⲕⲟⲥ ⲛ̀ⲟⲣⲅⲁⲛⲓⲕⲟⲥ (tṛtīyā) ⲉϥϣⲟⲡ ϧⲉⲛ ⲡⲓϩⲟⲩⲓⲧ ⲉϫⲉⲛ ⲛⲓϣⲓⲛⲓ:**
@@ -120,16 +120,18 @@ Ausser im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepr
 2. **ⲉⲑⲣⲉϥϭⲱ ⲉⲃⲟⲗ ⲉ̀ⲡⲓⲙⲉⲥⲟⲛ ⲓⲉ ⲡⲓⲟⲣⲅⲁⲛⲟⲛ, ⲫⲏ ⲉⲧⲟⲩϫⲱⲕ ⲉⲃⲟⲗ ⲛ̀ϩⲱⲃ ⲛⲓⲙ ϩⲓⲧⲟⲧϥ**
 3. **ⲉⲑⲣⲉϥϭⲱ ⲉⲃⲟⲗ ⲉ̀ⲡⲓⲙⲱⲓⲧ, ⲉⲧⲉ ⲟⲩⲁⲓ ϣⲁϥϣⲱⲡⲓ ⲉ̀ⲙⲁ ⲛⲓⲙ ⲉϩⲣⲏⲓ ϩⲓϫⲱϥ**
 4. **ⲉⲑⲣⲉϥⲧⲁϩⲟ ⲉⲣⲁⲧϥ ⲛ̀ϯⲥⲩⲛⲁⲫⲓⲁ, ϯⲉⲛⲱⲥⲓⲥ, ϯⲥⲩⲛⲟⲇⲓⲁ ⲛ̀**
-5. **ϩⲓ ⲛⲓⲡⲁⲣⲁⲑⲉⲥⲓⲥ ϧⲉⲛ ⲡⲓⲧⲁϣⲉⲟⲉⲓϣ «ⲛⲉⲙ ⲉⲩⲥⲟⲡ, ⲛⲉⲙ»; ⲉⲩⲡⲁⲣⲁⲇⲓⲅⲙⲁ saha = ⟪सह⟫ = «ⲛⲉⲙ»** :brⲉⲩⲡⲁⲣⲁⲇⲓⲅⲙⲁ:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = «ⲛⲉⲙ ⲡⲓⲃⲣⲁϩⲙⲁⲛⲟⲥ ⲉⲩⲥⲟⲡ»
+5. **ϩⲓ ⲛⲓⲡⲁⲣⲁⲑⲉⲥⲓⲥ ϧⲉⲛ ⲡⲓⲧⲁϣⲉⲟⲉⲓϣ «ⲛⲉⲙ ⲉⲩⲥⲟⲡ, ⲛⲉⲙ»; ⲉⲩⲡⲁⲣⲁⲇⲓⲅⲙⲁ saha = ⟪सह⟫ = «ⲛⲉⲙ»**
+ⲉⲩⲡⲁⲣⲁⲇⲓⲅⲙⲁ
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = «ⲛⲉⲙ ⲡⲓⲃⲣⲁϩⲙⲁⲛⲟⲥ ⲉⲩⲥⲟⲡ»
 :::
 ⲭⲉⲛⲕⲟⲩⲓ ⲛ̀ⲭⲣⲏⲥⲓⲥ ⲛ̀ⲧⲉ ⲡⲓⲕⲗⲏⲧⲓⲕⲟⲥ ⲛ̀ⲟⲣⲅⲁⲛⲓⲕⲟⲥ (tṛtīyā) ⲥⲉⲛⲏⲩ ⲙⲉⲛⲉⲛⲥⲱⲥ.
 
 ## 10.3. ⲧⲛⲟⲙⲟⲥ ⲛ̀ⲧⲉ ⲧⲥⲉⲣⲉⲃⲣⲁⲗⲓⲥⲁⲧⲓⲟⲛ ⲛ̀ⲧⲉ -ⲛ-
 
 ::: grammar-box
-Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** ersetzt, wenn **ṛ, ṝ, r, ṣ** im Wort dem **-n-** vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, **y, v, h** oder Anusvāra zwischen diesen Lauten und dem folgenden **-n-** im Wort steht. <!-- TODO: Fallback translation -->
+ⲛⲓϣⲱⲡ ⲛ̀ⲧⲉ **-n-**, ϫⲟⲥ ⲛ̀ⲧⲉ ⲡⲓϣⲱⲡ ⲛ̀ⲧⲉ **n, m, y, v**, ⲇⲓϥⲛⲁⲕ ϫⲟⲥ **-ṇ-**, ⲛϣⲱⲡ ⲉⲧⲃⲟⲗ **ṛ, ṝ, r, ṣ** ⲉⲧϫⲱⲙ ⲛ̀ⲧⲉ **-n-** ⲛϣⲱⲡ ⲇⲓϥⲛⲁⲕ ⲉⲧⲃⲟⲗ ϫⲱϣ ⲛ̀ⲧⲉ ⲡⲓϣⲱⲡ ⲛ̀ⲧⲉ ⲡⲓϣⲱⲡ ⲛ̀ⲧⲉ ⲡⲓϣⲱⲡ ⲛ̀ⲧⲉ ⲡⲓϣⲱⲡ ⲛ̀ⲧⲉ ⲡⲓϣⲱⲡ ⲛ̀ⲧⲉ ⲡⲓϣⲱⲡ ⲛ̀ⲧⲉ ⲡⲓϣⲱⲡ ⲛ̀ⲧⲉ ⲡⲓϣⲱⲡ ⲛ̀ⲧⲉ ⲡⲓϣⲱⲡ.
 :::
-**Deshalb:**
+**ϫⲱⲥ:**
 
 ::: grammar-box
 | | Instrumentalis Singular |
@@ -171,17 +173,24 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 ### 10.4.1. ⲛⲓⲕⲁⲛⲱⲛ ⲉⲧⲥⲉⲙⲛⲓ ⲛ̀ⲧⲉ ⲡ̀ϫⲓⲛϣⲱⲡⲓ ⲛ̀ⲧⲉ ⲡⲓⲡⲁⲥⲥⲓⲃ
 
 1. **ⲛⲓϣⲟⲡ ⲉⲃⲟⲗ -i ⲛⲁⲓ -u** ⲡⲉϥⲃⲏⲧ ⲛⲁⲕ ϯϣⲱⲡⲓ ⲛⲁⲕ **-ya-**:
-   * **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 1 P: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **ⲛⲓϣⲟⲡ ⲉⲃⲟⲗ -a- ⲛⲁⲕ ϯϣⲱⲡⲓ** (ⲛⲁⲕ ⲛⲉϥⲙⲡⲓ, y, r, v) ⲛⲉϥⲃⲏⲧ:
-   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **ⲛⲉϥⲃⲏⲧ ⲛⲓϣⲟⲡ** ⲛⲁⲕ ϯϣⲱⲡⲓ (ⲛⲁⲕ ϯϣⲱⲡⲓ ⲛⲁⲕ ϯϣⲱⲡⲓ):
-   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **ⲛⲓϣⲟⲡ ⲉⲃⲟⲗ ya, va, ra** ⲛⲁⲕ ϯϣⲱⲡⲓ (Samprasāraṇa = ⟪सम्प्रसारण⟫):
 
@@ -191,19 +200,23 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
    | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
    | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-ⲡⲓϧⲟⲩⲛⲉⲙ ⲡⲓϫⲟⲩⲛⲧⲉ ⲡⲓϣⲟⲡⲛⲏⲙ ⲉⲧϥⲣⲱⲡ ⲛⲧⲉ ϯϥⲙⲟⲕ ⲛⲧⲉ **ϣⲁⲙⲡⲣⲥⲁⲣⲁⲛ** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫). <!-- TODO: Fallback translation -->
+ⲡⲓϧⲟⲩⲛⲉⲙ ⲡⲓϫⲟⲩⲛⲧⲉ ⲡⲓϣⲟⲡⲛⲏⲙ ⲉⲧϥⲣⲱⲡ ⲛⲧⲉ ϯϥⲙⲟⲕ ⲛⲧⲉ **ϣⲁⲙⲡⲣⲥⲁⲣⲁⲛ** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
-5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt: <!-- TODO: Fallback translation -->
-   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Aber: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt:
+* **kṛ** 8 U: **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Aber: **smṛ** 1 P: **smaryate**
+⟪स्मर्यते⟫
 
 6. **Einige Wurzeln auf -an haben alternativ zwei Passivstamm-Bildungen:**
    * eine **-an-ya**
    * eine **-ā-ya-** (das lange **ā** ist ein Vertreter für einen hypothetischen langen Nasal)
 
 z.B. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
 
 ## 10.5. Wortliste
 
@@ -214,28 +227,28 @@ z.B. **tan** 8 U.
 - **nagara** n. ⟪नगर⟫ : ⲛⲓϣⲁ
 
   ::: note-box
-**yajña** m. ⟪यज्ञ⟫ : ⲛⲓϣⲁ
+  **yajña** m. ⟪यज्ञ⟫ : ⲛⲓϣⲁ
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : ⲛⲓϣⲁ
 
   ::: note-box
-ⲡⲓϣⲟⲡ ⲛ̀ⲧⲙⲉⲣⲟ ⲛⲁϥⲧⲱⲙⲉ ⲉⲃⲟⲗ ϧⲛ̀ ⲡϣⲟⲡ ⲉⲧⲃⲏⲙ ⲛ̀ⲧⲉ ϩⲟⲕ. ⲡⲓϣⲟⲡ ⲛ̀ⲧⲙⲉⲣⲟ ⲁϥⲛⲏⲙ ϩⲛ̀ ⲡⲓϣⲟⲡ.
+  ⲡⲓϣⲟⲡ ⲛ̀ⲧⲙⲉⲣⲟ ⲛⲁϥⲧⲱⲙⲉ ⲉⲃⲟⲗ ϧⲛ̀ ⲡϣⲟⲡ ⲉⲧⲃⲏⲙ ⲛ̀ⲧⲉ ϩⲟⲕ. ⲡⲓϣⲟⲡ ⲛ̀ⲧⲙⲉⲣⲟ ⲁϥⲛⲏⲙ ϩⲛ̀ ⲡⲓϣⲟⲡ.
 
-ⲛⲁⲕⲟϥ: **yaj** 1 U + kṛt-Suffix **-na-**.
+  ⲛⲁⲕⲟϥ: **yaj** 1 U + kṛt-Suffix **-na-**.
   :::
 
 - **puṇya** n. ⟪पुण्य⟫ : ⲛⲁϥⲧⲱⲙⲉ ⲛ̀ⲧⲙⲉⲣⲟ, ⲛⲁϥⲧⲱⲙⲉ
 
   ::: note-box
-**satya** n. ⟪सत्य⟫ : ⲛⲁϥⲧⲱⲙⲉ
+  **satya** n. ⟪सत्य⟫ : ⲛⲁϥⲧⲱⲙⲉ
   :::
 
 - ⲡⲁⲡⲟ n. ⟪पाप⟫ : ⲛⲓⲥϣⲱⲧ, ⲡⲉⲓⲥϣⲱⲧ (ⲛⲉⲙ ⲡⲓϣⲱⲧ ⲛⲉⲙ ⲡⲁⲩⲛⲓⲁ)
 - ⲥⲁⲧⲩⲁ n. ⟪सत्य⟫ : ⲛⲓϣⲱⲧ
 
 ::: note-box
-In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk: <!-- TODO: Fallback translation -->
+ⲛⲧⲉ Ⲭⲏⲙⲁ, ⲛⲧⲉ ϯⲥⲱⲙⲁ ⲛⲧⲉ ϯⲙⲟⲣϫ ⲛⲧⲉ ϯⲥⲁϣⲟⲡ ⲛⲧⲉ ϯⲙⲏϥⲣⲟⲛ, ⲉⲧϫⲱⲙ ϩⲓⲛ ⲡⲉϥⲣⲟⲙ ϯⲛⲓⲱϥ ⲉⲧⲃⲟⲗ ϯⲛⲓⲱϥ ⲉⲧⲃⲟⲗ. ⲛⲁϥ ϯⲧⲉⲣⲙⲏ ⲛⲁϥ ϯⲧⲉⲣⲙⲏ ⲛⲁϥ ϯⲧⲉⲣⲙⲏ:
 
 Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
@@ -248,15 +261,15 @@ Abb.: ⟪वरुणः⟫
 - **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
 
   ::: note-box
-Wortbildung **an-** („un-“) + **ṛta** n.
+  Wortbildung **an-** („un-“) + **ṛta** n.
 
-**ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
   :::
 
 - **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
 
   ::: note-box
-Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
+  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
   :::
 
 ::: media
@@ -362,7 +375,7 @@ Abb.: ⟪तन्तुवायः⟫
 
 ## 10.8. Lese- und ⲥⲡⲟⲩⲇⲏ ⲛ̀ⲧⲉ ⲧⲙⲉⲧⲉⲣⲙⲏⲛⲉⲩⲧⲓⲕⲏ
 
-**ⲛⲓⲥϣⲱⲡ ⲉⲧⲃⲟⲗ ⲛⲁⲕ ⲉϫⲱⲟⲡ ⲛⲓⲥⲁϫⲉⲙⲧ:** <!-- TODO: Fallback translation -->
+**ⲛⲓϣⲱⲡ ⲉⲧⲃⲟⲗ ⲛⲁϩⲙⲓ ϫⲉ ⲛⲓⲥⲁϫⲙⲧ:**
 
 ⟪क⟫
 

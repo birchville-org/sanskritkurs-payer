@@ -184,7 +184,7 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Según Kauṭilīya-arthaṣāstra 1.3.3.) Explicación: chando = Nom., Akk. sg. de chandas n.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Según Kauṭilīya-arthaṣāstra 1.3.3.) Explicación: chando = Nom., Akk. sg. de chandas n.) &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
@@ -218,4 +218,4 @@ sa guruḥ. enaṃ śṛṇvanti.
 ![](/images/uebung006.jpg)
 Fig.: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung006))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

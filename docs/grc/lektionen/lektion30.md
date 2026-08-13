@@ -226,7 +226,8 @@ Example:
 | **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 
@@ -351,7 +352,7 @@ PPP ⟪अशित⟫
 
 ⟪यद्येवम्⟫ : ean houtōs estin, en toutois tois hupokeimenois
 :::
-⟪पुनर्⟫ : palin, aei palin, pisō, eti hapax, antitheton, alla
+⟪पुनर्⟫ : palin, aei palin, pisō, eti hapax, antitheton, alla <!-- TODO: Fallback translation -->
 
 ::: indent
 ek toutou:
@@ -365,7 +366,7 @@ ek toutou:
 Abb.: ⟪पुनर्भवः⟫
 (Bildquelle: [Details](/grc/licenses#lekt2904))
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : zēn
+⟪जीव्⟫ 1P ⟪जीवति⟫ : zēn <!-- TODO: Fallback translation -->
 
 ::: indent
 Μέσ. ⟪जीविष्यति⟫  

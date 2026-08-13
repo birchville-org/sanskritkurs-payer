@@ -24,13 +24,13 @@ I segni di abbreviazione (ad esempio nelle indicazioni delle opere) sono °, ad 
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden. &lt;!-- TODO: Fallback translation --&gt;
 
 ## Esercizio
 
 A) Scrivere in Devanāgarī:
 
-ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
+ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha &lt;!-- TODO: Fallback translation --&gt;
 
 B) Leggere e traslitterare:
 

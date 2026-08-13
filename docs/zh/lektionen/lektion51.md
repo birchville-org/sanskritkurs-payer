@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 51
+# 第51課
 
 ## 51.1. ⟪उपपद⟫-复合词
 

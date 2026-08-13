@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 55
+# Les 55
 
 ## 55.1. Der a-Aorist (Aorist mit Themavokal)
 

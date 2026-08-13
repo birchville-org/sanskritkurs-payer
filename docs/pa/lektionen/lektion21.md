@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # ਪਾਠ 21
 
@@ -40,7 +40,8 @@ status: stable
 1\. ਪ੍ਰੇਸੈਂਸ ਕਲਾਸ:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "ਇੱਕ ਬਲੀਦਾਨ ਨਾਲ ਉਪਾਸਨਾ ਕਰਨ ਵਾਲਾ"
+**yajant**
+⟪यजन्त्⟫ "ਇੱਕ ਬਲੀਦਾਨ ਨਾਲ ਉਪਾਸਨਾ ਕਰਨ ਵਾਲਾ"
 :::
 ::: grammar-box
 

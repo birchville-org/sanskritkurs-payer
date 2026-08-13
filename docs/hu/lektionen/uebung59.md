@@ -17,15 +17,15 @@ last_reconstructed: 2026-05-15
 :::
 ---
 
-## A) Szövegelemzés
+## A) Szövegelemzés <!-- TODO: Fallback translation -->
 
-Fordítsa le a következő szöveget, és határozza meg benne szereplő összes igei alakot.
+Fordítsa le a következő szöveget, és határozza meg benne szereplő összes igei alakot. <!-- TODO: Fallback translation -->
 
 A fordítás szándékosan töredezetten maradt, hogy segédletként szolgáljon.
 
 _Fordítási segítség:_ Vers 6: ⟪दिदृक्षते⟫ \= Desideratívus a következőhöz: ⟪दृश्⟫
 
-Szöveg forrása: Otto Böhtlingk: Sanskrit-Kresztomathia, 127–128. o.
+Szöveg forrása: Otto Böhtlingk: Sanskrit-Kresztomathia, 127–128. o. <!-- TODO: Fallback translation -->
 
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫
@@ -46,7 +46,7 @@ Szöveg forrása: Otto Böhtlingk: Sanskrit-Kresztomathia, 127–128. o.
 > ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (a ⟪इ⟫ helyett) Aor. 1. sz.
 > ⟪अक्षिषत⟫ - ⟪ईक्ष्⟫ Aor. 5. középp. (3. sz.)
 > ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ kimond, mond Aor. 4. sz.
-> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (a ⟪हन्⟫ helyett) Aor. 5.
+> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (a ⟪हन्⟫ helyett) Aor. 5. <!-- TODO: Fallback translation -->
 
 ⟪केशानलुञ्चिषुस्तस्य⟫ ⟪गजान्गात्रेष्वभिभ्रमन्⟫ ⟪।⟫  
 ⟪शीतैरभ्यषिचंस्तोयैरलातैश्चाप्यदम्भिषुः⟫ ⟪॥३॥⟫
@@ -56,7 +56,7 @@ Szöveg forrása: Otto Böhtlingk: Sanskrit-Kresztomathia, 127–128. o.
 > ⟪अलुञ्चिषुर्⟫ - ⟪लुञ्च्⟫ Aor. 5. középp.
 > ⟪अबिभ्रमन्⟫ - ⟪भ्रम्⟫ Kausz. Aor. 3. sz.
 > ⟪अभ्यषिचन्⟫ - ⟪सिच्⟫ Aor. 2. sz.
-> ⟪अदम्भिषुर्⟫ - ⟪दम्भ्⟫ Aor. 5. középp.
+> ⟪अदम्भिषुर्⟫ - ⟪दम्भ्⟫ Aor. 5. középp. <!-- TODO: Fallback translation -->
 
 ⟪नखैरकर्तिषुस्तीक्ष्णैरदाङ्क्षुर्दशनैस्तथा⟫ ⟪।⟫  
 ⟪शितैरतौत्सुः⟫ ⟪शूलैश्च⟫ ⟪भेरीश्चावीवदञ्छुभाः⟫ ⟪॥४॥⟫
@@ -66,7 +66,7 @@ Szöveg forrása: Otto Böhtlingk: Sanskrit-Kresztomathia, 127–128. o.
 > ⟪अकर्तिषुर्⟫ - ⟪कृत्⟫ Aor. 5. középp.
 > ⟪अदाङ्क्षुर्⟫ - ⟪दंश्⟫ Aor. 4. sz.
 > ⟪अतौत्सुर्⟫ - ⟪तुद्⟫ Aor. 4. sz.
-> ⟪अवीवदन्⟫ - ⟪वद्⟫ Kausz. Aor. 4. sz.
+> ⟪अवीवदन्⟫ - ⟪वद्⟫ Kausz. Aor. 4. sz. <!-- TODO: Fallback translation -->
 
 ⟪स⟫ ⟪तान्नाजीगणत्सर्वानिच्छयाबुद्ध⟫ ⟪च⟫ ⟪स्वयम्⟫ ⟪।⟫  
 ⟪अबूबुधत⟫ ⟪कस्मान्मामप्राक्षीच्च⟫ ⟪निशाचरान्⟫ ⟪॥५॥⟫
@@ -119,7 +119,7 @@ Szöveg forrása: Otto Böhtlingk: Sanskrit-Kresztomathia, 127–128. o.
 > ⟪आह्वस्⟫ - ⟪आ⟫-⟪ह्वे⟫ Aor. 2  
 > ⟪प्रत्यवादि⟫ - ⟪प्रति⟫-⟪वद्⟫ Passivaorist  
 > ⟪अज्ञासीस्⟫ - ⟪ज्ञा⟫ Aor. 6  
-> ⟪अकार्षीत्⟫ - ⟪कृ⟫ Aor. 4
+> ⟪अकार्षीत्⟫ - ⟪कृ⟫ Aor. 4 <!-- TODO: Fallback translation -->
 
 ⟪उदतारीदुदन्वन्तं⟫ ⟪पुरं⟫ ⟪नः⟫ ⟪परितो⟫ ⟪ऽरुधत्⟫ ⟪।⟫  
 ⟪व्यद्योतिष्ट⟫ ⟪रणे⟫ ⟪शस्त्रैरनैषीद्राक्षसान्क्षयम्⟫ ⟪॥१०॥⟫
@@ -148,7 +148,7 @@ Szöveg forrása: Otto Böhtlingk: Sanskrit-Kresztomathia, 127–128. o.
 > ⟪ददर्शस्⟫ - ⟪दृश्⟫ Kaus. Injunktív aor. 3  
 > ⟪त्रास्थास्⟫ - ⟪त्रै⟫ Ā Injunktív. Aor. 4  
 > ⟪अद्राक्ष्म⟫ - ⟪दृश्⟫ Aor. 4  
-> ⟪अजैषीस्⟫ - ⟪जि⟫ Aor. 4
+> ⟪अजैषीस्⟫ - ⟪जि⟫ Aor. 4 <!-- TODO: Fallback translation -->
 
 ⟪अवोचत्कुम्भकर्णस्तं⟫ ⟪वयं⟫ ⟪मन्त्रे⟫ ⟪ऽभ्यधाम⟫ ⟪यत्⟫ ⟪।⟫  
 ⟪न⟫ ⟪त्वं⟫ ⟪सर्वं⟫ ⟪तदश्रौषीः⟫ ⟪फलं⟫ ⟪तस्येदमागमत्⟫ ⟪॥१३॥⟫
@@ -181,7 +181,7 @@ Szöveg forrása: Otto Böhtlingk: Sanskrit-Kresztomathia, 127–128. o.
 > ⟪अभाणीत्⟫ - ⟪भण्⟫ aor. 5  
 > ⟪अक्षंस्थास्⟫ - ⟪क्षम्⟫ aor. 4
 >
-> 1 rākṣasa
+> 1 rākṣasa <!-- TODO: Fallback translation -->
 
 ⟪राघवस्यामुषः⟫ ⟪कान्तामाप्तैरुक्तो⟫ ⟪न⟫ ⟪चार्पिपः⟫ ⟪।⟫  
 ⟪मा⟫ ⟪नानुभूः⟫ ⟪स्वकान्दोषान्मा⟫ ⟪मुहो⟫ ⟪मा⟫ ⟪रुषो⟫ ⟪ऽधुना⟫ ⟪॥१६॥⟫
@@ -204,7 +204,7 @@ Szöveg forrása: Otto Böhtlingk: Sanskrit-Kresztomathia, 127–128. o.
 > ⟪अत्यक्रमीत्⟫ - ⟪क्रम्⟫ aor. 5  
 > ⟪अवादिषम्⟫ - ⟪वद्⟫ aor. 5  
 > ⟪अघानिषत⟫ - ⟪हन्⟫ passívum aor. 3.másik személy  
-> ⟪अव्ययीस्⟫ - ⟪व्यय्⟫ aor. 5
+> ⟪अव्ययीस्⟫ - ⟪व्यय्⟫ aor. 5 <!-- TODO: Fallback translation -->
 
 ⟪संधानकारणां⟫ ⟪तेजो⟫ ⟪न्यगभूत्ते⟫ ⟪ऽकृथास्तथा⟫ ⟪।⟫  
 ⟪यत्त्वं⟫ ⟪वैराणि⟫ ⟪कोशं⟫ ⟪च⟫ ⟪सहदण्डमजिग्लपः⟫ ⟪॥१८॥⟫
@@ -213,7 +213,7 @@ Szöveg forrása: Otto Böhtlingk: Sanskrit-Kresztomathia, 127–128. o.
 >
 > ⟪अभूत्⟫ - ⟪भू⟫ aor. 1  
 > ⟪अकृथास्⟫ - ⟪कृ⟫ aor. 4/1  
-> ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Kaus. aor. 3
+> ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Kaus. aor. 3 <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung099.webp)

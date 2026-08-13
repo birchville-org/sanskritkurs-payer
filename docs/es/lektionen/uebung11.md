@@ -20,10 +20,10 @@ Un brahmán desea un hijo.
 Un santo sube al cielo.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma. &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 Así el brahmán ofrece un sacrificio al dios.
@@ -38,7 +38,7 @@ El kṣatriya lucha contra el kṣatriya.
 Dado que la mentira es injusticia, el hijo no comete una maldad.
 
 ⟪१०⟫. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-Este kṣatriya protege el dharma.
+Este kṣatriya protege el dharma. &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪११⟫. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ ⟪।⟫
 ¿Quién venera el fuego (el dios Agni) con un sacrificio?
@@ -129,7 +129,7 @@ D) Forme la construcción pasiva de las oraciones formadas en C)
 Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung022))
 :::
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 ## Ejercicios adicionales
 
@@ -233,4 +233,4 @@ E) Transforme las oraciones C)1-5 en construcciones activas.
 ![](/images/uebung021.webp)
 Fig.: ⟪फलान्यश्नुते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung021))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

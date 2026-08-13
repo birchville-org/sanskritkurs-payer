@@ -81,9 +81,9 @@ lesson_id: 18
 
 Φωνητική αλλαγή του -s σε σύνθετα
 
-Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita:
+Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita: <!-- TODO: Fallback translation -->
 
-\-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ
+\-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ <!-- TODO: Fallback translation -->
 
 Deshalb: ⟪दुष्करण⟫
 

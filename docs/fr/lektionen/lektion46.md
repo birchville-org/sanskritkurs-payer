@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 46
+# Leçon 46
 
 ## 46.1. Formation des formes verbales de la 2ᵉ personne (⟪मध्यमः⟫) Parfait (⟪लिट्⟫)
 
@@ -29,9 +29,9 @@ Avant -tha, la plupart des racines en -ṛ n'ont pas de voyelle de liaison \-i-.
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Type de parfait I : pas d’alternance du thème
+### 46.1.3. Type de parfait I : pas d’alternance du thème <!-- TODO: Fallback translation -->
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   Consonne-longue voyelle-consonne
 *   Consonne-voyelle-consonne-consonne
@@ -67,7 +67,7 @@ Verben, die diesem Typ folgen:
 :::
 ### 46.1.4. Type de parfait II : radical fort au degré supérieur, radical faible au degré inférieur
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   (Consonne-)i/u/ṛ/ḷ-Consonne
 
@@ -91,7 +91,7 @@ Verben, die diesem Typ folgen:
 
 #### 46.1.5.1. Type IIIa du parfait : radical fort en grade fort/allongé, radical faible en grade faible
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   (Consonne-)(Consonne-)i/ī/u/ū
 *   (Consonne-)-ṛ
@@ -130,7 +130,7 @@ Verben, die diesem Typ folgen:
 :::
 #### 46.1.5.2. Type IIIb du parfait : racine forte au degré élevé/étendu, racine faible au degré élevé
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   (Consonne-)(Consonne-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -177,7 +177,7 @@ Verben, die diesem Typ folgen:
 
 #### 46.1.7.1. Type de parfait : Consonne-a-Consonne, radical faible au degré profond
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 ::: indent
 1.  gam «aller»
@@ -267,7 +267,7 @@ La 2.sg.P. est formée à partir du thème faible lorsque le voyelle de liaison 
 :::
 #### 46.1.7.3. Type Vc de parfait : Consonne-a-Consonne, thème faible au degré fort
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   Toutes les autres racines avec un -a- moyen
 

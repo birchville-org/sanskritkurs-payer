@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 39
+# 第39課
 
 ## 39.1. Die Personalendungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪पुरुषः⟫ = "**dritte** Person")
 

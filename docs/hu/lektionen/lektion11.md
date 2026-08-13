@@ -5,9 +5,9 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 11. lecke
+# 11. lecke <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 **Ebben a leckében megtanulják:**
@@ -27,12 +27,12 @@ status: stable
 - **Tanító igék**: valakit (tárgyeset) valamivel tanít
 - néhány további ige, amelyeket a Szójegyzékek megjegyeznek
 
-**Ha egy ilyen szerkezetet passzívba fordítunk, a személyt (akit kérdeznek stb.) nominativusban (prathamā) helyezzük el, a dolog (amiről kérdeznek stb.) pedig akkuzatívusban marad.**
+**Ha egy ilyen szerkezetet passzívba fordítunk, a személyt (akit kérdeznek stb.) nominativusban (prathamā) helyezzük el, a dolog (amiről kérdeznek stb.) pedig akkuzatívusban marad.** <!-- TODO: Fallback translation -->
 
 pl. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = „Ráma a bráhmanától kérdezi a dharmát.”
 » Passzív: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
 
-**Ez a szabály csak akkor érvényes, ha mind a személy, mind a dolog tárgy. Ha egy dolog az egyetlen tárgy, akkor ez a passzív mondat alaprendszere szerint nominativusban (prathamā) áll:**
+**Ez a szabály csak akkor érvényes, ha mind a személy, mind a dolog tárgy. Ha egy dolog az egyetlen tárgy, akkor ez a passzív mondat alaprendszere szerint nominativusban (prathamā) áll:** <!-- TODO: Fallback translation -->
 
 z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt nach dem Dharma."
 » Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
@@ -40,14 +40,14 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 
 ## 11.2. Szójegyzék
 
-**Lernen Sie folgende Wörter:**
+**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
 
 - **iti** ⟪इति⟫ : so
   - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
   - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
   - Im Sanskrit gibt es keine indirekte Rede; Képzésen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
   - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
+  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er..."). <!-- TODO: Fallback translation -->
 
 - **evam** ⟪एवम्⟫ : így (adverbial, pl. **evaṃ jayati** „így győz ő”).
 - **na** ⟪न⟫ : nem
@@ -57,7 +57,7 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 - **dharma** m. ⟪धर्म⟫ : („ami szilárd”, azaz) jog, törvény, szokás, jellem.
   - Leginkább megfelel a természeti/erkölcsi törvénynek. Mindenki **varṇa** és **āśrama** (életszakasz) szerint saját kötelességeit (**svadharma**) teljesíti.
 - **adharma** m. ⟪अधर्म⟫ : igazságtalanság (**dharma** ellenkezője).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : kívánni (**iṣ-ccha-ti**).
+- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : kívánni (**iṣ-ccha-ti**). <!-- TODO: Fallback translation -->
 
 **Egyes névmeghatározások:**
 
@@ -74,11 +74,11 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
   - **praśna** m. ⟪प्रश्न⟫ : kérdés (Suffix **-na**, mint a **yaj-ña** esetében)
 
 - **iṣ** 6 P ⟪इष्⟫ : kívánni
-  - **iṣṭi** f. ⟪इष्टि⟫ : vágy (**iṣ** + **-ti**)
+  - **iṣṭi** f. ⟪इष्टि⟫ : vágy (**iṣ** + **-ti**) <!-- TODO: Fallback translation -->
 
 ## 11.3. Gyakorlat
 
-**A) Fordítsa le az alábbi mondatokat:**
+**A) Fordítsa le az alábbi mondatokat:** <!-- TODO: Fallback translation -->
 
 1. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ |
 2. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ |
@@ -114,11 +114,11 @@ Kép: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 4. Egy védikus bölcs nem tesz semmi rosszat.
 5. A brahmanák áldozati papokként istennőt tisztelnek áldozatokkal.
 6. A śūdra nő elmegy a faluba.
-7. Ki látja az igazságot?
+7. Ki látja az igazságot? <!-- TODO: Fallback translation -->
 
 **B)**
 1. Adja meg egy dvandva segítségével a kétszer születettek (dviják) feladatait. Oldja fel a szanszkrit összetételt.
-2. Adja meg egy dvandva segítségével a vaiśyák feladatait. Oldja fel a szanszkrit összetételt.
+2. Adja meg egy dvandva segítségével a vaiśyák feladatait. Oldja fel a szanszkrit összetételt. <!-- TODO: Fallback translation -->
 
 **C) Fordítsa le:**
 
@@ -145,3 +145,4 @@ Kép: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 Ábr.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1103))
 :::
+ <!-- TODO: Fallback translation -->

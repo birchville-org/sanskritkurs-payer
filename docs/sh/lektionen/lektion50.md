@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 50
+# Lekcija 50
 
 ## 50.1. Nominalbildung: regelmässige Steigerung
 

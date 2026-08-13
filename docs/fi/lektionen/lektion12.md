@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 12
+# Oppitunti 12 <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 **Tässä luvussa opit:**
@@ -16,22 +16,22 @@ status: stable
 - PPP:n muodostus
 - Sanan sisäisten äänneyhtymien lait
 - Verrattuna aiemmin opittuihin taivutusmuotoihin
-:::
+::: <!-- TODO: Fallback translation -->
 
 ## 12.1. Partisiipin Perfekt Passiivi (PPP)
 
-Yksi tapa muodostaa menneen ajan passiivilauseet on ns. partisiipin perfektin passivin (PPP) rakenne.
+Yksi tapa muodostaa menneen ajan passiivilauseet on ns. partisiipin perfektin passivin (PPP) rakenne. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Itse asiassa PPP ei ole oikea partisiippi, koska sitä ei muodosteta aikajänteen varresta. Se on pikemminkin substantiivinen johtomuoto juuresta ensijäsenellä -ta tai -na. Siksi intialaisessa grammatikassa puhutaan kta-jäsenestä.**
-:::
+::: <!-- TODO: Fallback translation -->
 
 ### 12.1.1. Kaava transitiivisille verbeille
 
 ::: grammar-box
 **Agentti (kartṛ) instrumentaalin sijassa (tṛtīyā) -- suora objekti (karman) nominatiivin sijassa (prathamā) -- partisiippi perfektin passivi**
 
-PPP täsmää tässä tapauksessa objektin numeron, sijan ja genuksen kanssa.
+PPP täsmää tässä tapauksessa objektin numeron, sijan ja genuksen kanssa. <!-- TODO: Fallback translation -->
 
 Apusanaa („olla“) ei tarvita.
 
@@ -46,7 +46,7 @@ Esimerkkejä:
 ::: grammar-box
 **Agens (kartṛ) nominatiivissa (prathamā) -- partisiippi perfektin passiivi**
 
-Tässä tapauksessa PPP täsmää agensin kanssa luvussa, sijassa ja sukua. Partisiippi perfektin "passiivi" on intransitiivisten verbien (verbien ilman suoraa objektia) ja liikeverbien aktiivinen merkitys.
+Tässä tapauksessa PPP täsmää agensin kanssa luvussa, sijassa ja sukua. Partisiippi perfektin "passiivi" on intransitiivisten verbien (verbien ilman suoraa objektia) ja liikeverbien aktiivinen merkitys. <!-- TODO: Fallback translation -->
 
 Esimerkki:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "Kṣatriyanaishan on mennyt kaupunkiin."
@@ -61,15 +61,15 @@ Esimerkki:
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Kṣatriya meni (kaupunkiin)) = Kṣatriya on mennyt (kaupunkiin).“
 
 Scheman II mukainen rakenne on paljon harvinaisempi kuin scheman I mukainen rakenne.
-:::
+::: <!-- TODO: Fallback translation -->
 
-## 12.2. PPP:n merkityksestä
+## 12.2. PPP:n merkityksestä <!-- TODO: Fallback translation -->
 
-Kun siis ns. „Participium Perfekti Passivi“ transitiivisissa verbeissä ensisijaisesti on passiivinen merkitys (**āpta** = „saavutettu (oleva)“) ja intransitiivisissa verbeissä sekä liikkeen verbien aktiivinen merkitys (**gata** = „mennyt“), on olemassa joitakin verbejä, joilla PPP voi olla sekä aktiivinen että passiivinen merkitys:
+Kun siis ns. „Participium Perfekti Passivi“ transitiivisissa verbeissä ensisijaisesti on passiivinen merkitys (**āpta** = „saavutettu (oleva)“) ja intransitiivisissa verbeissä sekä liikkeen verbien aktiivinen merkitys (**gata** = „mennyt“), on olemassa joitakin verbejä, joilla PPP voi olla sekä aktiivinen että passiivinen merkitys: <!-- TODO: Fallback translation -->
 
 esim.
 - **gata** = ⟪गत⟫ = „mennyt“ (aktiivinen); mutta myös: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „kuljettu tie“ (passiivinen)
-- **āpta** = ⟪आप्त⟫ = „saavutettu“ (passiivinen), „saavuttanut“ (aktiivinen)
+- **āpta** = ⟪आप्त⟫ = „saavutettu“ (passiivinen), „saavuttanut“ (aktiivinen) <!-- TODO: Fallback translation -->
 
 ## 12.3. PPP:n muodostaminen
 
@@ -88,16 +88,16 @@ Naispuolisen vartalon päättyvät muotoihin: **-tā**, **-itā**, **-nā**; kes
 
 ### 12.3.1. PPP päättyen -ta (kta)
 
-#### 12.3.1.1. Ilman liitovokaalia -i- (aniṭ)
+#### 12.3.1.1. Ilman liitovokaalia -i- (aniṭ) <!-- TODO: Fallback translation -->
 
 *aniṭ* = „ilman (*an-*) suffiksia edeltävää (*-i-*) *t*“ (eli ilman liitovokaalia *i*).
 
 ::: grammar-box
-Ilman liitovokaalia muodostetaan PPP yleensä vokaalilla päättyvistä verbijuurista sekä monista muista juurista, ilman että siitä voisi antaa tiukkaa sääntöä siitä, milloin liitovokaali esiintyy tai ei tietyissä juurirakenteissa.
+Ilman liitovokaalia muodostetaan PPP yleensä vokaalilla päättyvistä verbijuurista sekä monista muista juurista, ilman että siitä voisi antaa tiukkaa sääntöä siitä, milloin liitovokaali esiintyy tai ei tietyissä juurirakenteissa. <!-- TODO: Fallback translation -->
 
 Luettelo *aniṭ*-juurista löytyy Kielhornin teoksesta *Grammatik* § 298.
 :::
-**Esimerkit:**
+**Esimerkit:** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Juuri | PPP (kta) |
@@ -117,7 +117,7 @@ Luettelo *aniṭ*-juurista löytyy Kielhornin teoksesta *Grammatik* § 298.
 :::
 #### 12.3.1.2. Mit Bindevokal -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
+*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*). <!-- TODO: Fallback translation -->
 
 **Esimerkkejä:**
 
@@ -132,7 +132,7 @@ Luettelo *aniṭ*-juurista löytyy Kielhornin teoksesta *Grammatik* § 298.
 
 ## 12.4. Sananmuodostuslait sanassa
 
-*aniṭ*-muodoissa on noudatettava seuraavia sanan sisäisiä sananmuodostuslakeja. **Nämä lait ovat erittäin tärkeitä sanskritin muoto-opin ymmärtämiseksi.**
+*aniṭ*-muodoissa on noudatettava seuraavia sanan sisäisiä sananmuodostuslakeja. **Nämä lait ovat erittäin tärkeitä sanskritin muoto-opin ymmärtämiseksi.** <!-- TODO: Fallback translation -->
 
 ::: no-header
 | | |
@@ -158,19 +158,19 @@ Kuva: ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (jotain) polttaa
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟩ sahate soḍha : selviytyä, kestää, kärsiä kärsivällisesti = anteeksi antaa
 - **mṛga** m. ⟪मृग⟩ : villieläin
-- **mārga** m. ⟪मार्ग⟩ : tie (tiet olivat usein villieläinten kulkureittejä)
+- **mārga** m. ⟪मार्ग⟩ : tie (tiet olivat usein villieläinten kulkureittejä) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1202.webp)
 Kuva: ⟪मार्गः⟩
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟩ : myös (jälkiliitteessä)
+- **api** ⟪अपि⟩ : myös (jälkiliitteessä) <!-- TODO: Fallback translation -->
 
 Kuudennelle preesensluokalle kotimaiset grammatikot lukevat joitain vartaloita, jotka muodostavat preesensvartalon nasali-infixilla ja temattivokaalilla a, esim.:
 
 - **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : irrottaa, päästää irti; vapauttaa kiertokulmasta (**saṃsāra** m.) = pelastaa
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : roiskuttaa, kastella
+- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : roiskuttaa, kastella <!-- TODO: Fallback translation -->
 
 Sananmuodostus:
 
@@ -183,9 +183,9 @@ Sananmuodostus:
 Kuv.: ⟪महावीरो⟫ ⟪जिनः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : tieto, tiedoneläin.
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : tieto, tiedoneläin. <!-- TODO: Fallback translation -->
 
-### 12.5.1. Passiivi ja tähän mennessä opeteltujen verbien juurten PPP
+### 12.5.1. Passiivi ja tähän mennessä opeteltujen verbien juurten PPP <!-- TODO: Fallback translation -->
 
 | Juuri:br⟪धातु⟫ | Passiv Preesens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
@@ -236,9 +236,9 @@ Kuv.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ## 12.6. Harjoitus
 
-**A) Muodosta aktiivilauseista [Lektion 7](/lektionen/lektion07), harjoitus A, PPP:n avulla menneisyyden passiivilauseet; intransitiivisten verbien ja liikkeen verbien kohdalla muodosta menneisyyden aktiivilauseet.**
+**A) Muodosta aktiivilauseista [Lektion 7](/lektionen/lektion07), harjoitus A, PPP:n avulla menneisyyden passiivilauseet; intransitiivisten verbien ja liikkeen verbien kohdalla muodosta menneisyyden aktiivilauseet.** <!-- TODO: Fallback translation -->
 
-**B) Muodosta vastaavat PPP:t verbimuodoille [Lektion 10](/lektionen/lektion10), harjoitus A. Huomaa, että muodolle kuten sṛjati vastaa PPP:tä kaikissa kolmessa sukua.**
+**B) Muodosta vastaavat PPP:t verbimuodoille [Lektion 10](/lektionen/lektion10), harjoitus A. Huomaa, että muodolle kuten sṛjati vastaa PPP:tä kaikissa kolmessa sukua.** <!-- TODO: Fallback translation -->
 
 **C) Muunna [Lektion 10](/lektionen/lektion10), harjoitus C:n lauseet passiiviin menneisyydessä.**
 

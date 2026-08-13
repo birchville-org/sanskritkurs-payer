@@ -127,7 +127,7 @@ devī + umā » devy umā "ਉਮਾ ਇੱਕ / ਸਭ ਤੋਂ ਵਧੀਆ �
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-ਉਦਾਹਰਣ ਵਜੋਂ
+ਉਦਾਹਰਣ ਵਜੋਂ <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "ਵੈਸ਼ਯ ਦੋ ਵਾਰ ਜੰਮੇ ਹਨ" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

@@ -4,11 +4,11 @@ lesson_id: 34
 status: stable
 ---
 
-# 34. lecke
+# 34. lecke <!-- TODO: Fallback translation -->
 
-## 34.1. A perfektum (⟪लिट्⟫)
+## 34.1. A perfektum (⟪लिट्⟫) <!-- TODO: Fallback translation -->
 
-A klasszikus szanszkritban a perfektum tőből csak az indikatív és a participium létezik.
+A klasszikus szanszkritban a perfektum tőből csak az indikatív és a participium létezik. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Két fajta tökéletes képzés létezik:**
@@ -58,10 +58,10 @@ A klasszikus szanszkritban a perfektum tőből csak az indikatív és a particip
 ::: grammar-box
 **A 3. plur. Ā (-re) végződés elé mindig a -i- kötőhangzó kerül, a többi mássalhangzóval kezdődő végződés elé a gyökök többségénél.**
 :::
-### 34.2.4. Reduplikation konsonantisch anlautender Tőn
+### 34.2.4. Reduplikation konsonantisch anlautender Tőn <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
+**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.** <!-- TODO: Fallback translation -->
 
 **A mássalhanggal kezdődő gyököknél a reduplikációs magánhangzó a rövid gyökmagánhangzó.**
 
@@ -83,14 +83,14 @@ Példák:
 ::: grammar-box
 **Egyes y- vagy v-hangzóval kezdődő gyökök i- vagy u-reduplikációt képeznek, amely a gyökmagvocal-lal „olvad” a gyenge alakokban.**
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
 | Tő | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
 
 :::
 ### 34.2.5. A magánhangzóval kezdő gyökök reduplikációja
@@ -104,7 +104,7 @@ Példák:
 
 | Tő | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "létezik" és ⟪अस्⟫ 4 "dobni" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "létezik" és ⟪अस्⟫ 4 "dobni" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -159,20 +159,20 @@ Példák:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 34.5. Perfektum II. típus: erős tő magas foka, gyenge tő alacsony foka
 
 ::: grammar-box
 **Wird gebildet von Tőn der Form:**
-*   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant**
+*   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant** <!-- TODO: Fallback translation -->
 
 **Képzés:**
 *   **erős tő: magas fok**
 *   **schwacher Tő: Tiefstufe**
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -197,7 +197,7 @@ Kép: ⟪सस्यम्⟫
 Rizsmező Indiában.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** mennyi ideig, mekkora
+**⟪यावत्⟫ :** mennyi ideig, mekkora <!-- TODO: Fallback translation -->
 
 **⟪तावत्⟫ :** annyi ideig, akkora
 
@@ -211,7 +211,7 @@ Kép: ⟪लक्षद्वीपाः⟫
 Lakshadweep-szigetek térképe.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** halandó (a ⟪मृ⟫ szóból)
+**⟪मर्त्य⟫ 3:** halandó (a ⟪मृ⟫ szóból) <!-- TODO: Fallback translation -->
 
 **⟪तिल⟫ m.:** szezámmag (*Sesamum indicum* L.)
 
@@ -236,7 +236,7 @@ Kép: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** lakhely, templom
+**⟪निकेतन⟫ n.:** lakhely, templom <!-- TODO: Fallback translation -->
 
 **⟪कोटि⟫ f.:** csúcs; 10 millió
 
@@ -262,7 +262,7 @@ Nandi bika szobra, Chamundi-hegyek, Mysore.
 
 ## 34.7. Gyakorlat
 
-Alakítsa ki a következő igai formákhoz az személyben, számban és nemben megfelelő tökéletes idő (perfectum) alakokat:
+Alakítsa ki a következő igai formákhoz az személyben, számban és nemben megfelelő tökéletes idő (perfectum) alakokat: <!-- TODO: Fallback translation -->
 
 1. ⟪रक्षिष्यन्ति⟫
 2. ⟪स्रक्ष्यति⟫
@@ -329,22 +329,22 @@ Magyarázatok:
 Kép: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫:sig[⟪र्जन्म⟫] ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Hindu esküvői rituálé.
 (Képforrás: [Részletek](/hu/licenses#lekt3407))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
-**lekt3401:** Nandi bika szobra, Chamundi-hegyek, Mysore. [Képmegjelenítés: Luna Park / Flickr. CC BY-NC-ND]
+**lekt3401:** Nandi bika szobra, Chamundi-hegyek, Mysore. [Képmegjelenítés: Luna Park / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
 
 **lekt3402:** Arany Templom (Harmandir Sahib), Amritsar. [Képmegjelenítés: Wikipedia. GNU FDL]
 
-**lekt3403:** Tökmagok. [Képmegjelenítés: Wikipedia. Public domain]
+**lekt3403:** Tökmagok. [Képmegjelenítés: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
 
-**lekt3404:** Tökmag növény virágzása. [Képmegjelenítés: Franz Xaver / Wikipedia. GNU FDL]
+**lekt3404:** Tökmag növény virágzása. [Képmegjelenítés: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
 
-**lekt3405:** Lakshadweep-szigetek térképe. [Képmegjelenítés: CIA World Factbook. Közterület]
+**lekt3405:** Lakshadweep-szigetek térképe. [Képmegjelenítés: CIA World Factbook. Közterület] <!-- TODO: Fallback translation -->
 
-**lekt3406:** Rizsmező Indiában. [Képmegjelenítés: Ray Witlin / Világbank. CC BY-NC-ND]
+**lekt3406:** Rizsmező Indiában. [Képmegjelenítés: Ray Witlin / Világbank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
 
 **lekt3407:** Hindu esküvői rituálé. [Képmegjelenítés: BriceFR / Flickr. CC BY-NC-SA]
-:::
+::: <!-- TODO: Fallback translation -->
 

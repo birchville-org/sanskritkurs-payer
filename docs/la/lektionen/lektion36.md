@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lectio 36
 
@@ -20,7 +20,7 @@ Exempla:
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫:sig[⟪गा⟫]⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | |
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 2\. Radix ⟪विद्⟫ 2P "scire" perfectum habet praesentis temporis significatione.
@@ -63,7 +63,7 @@ Periphrasticum perfectum (⟪अनुप्रयोगलिट्⟫) adhibet
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ et ⟪भू⟫ etiam in verbis Ātmanepadae in Parasmaipada coniugantur.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 Exempla:
 
@@ -111,7 +111,7 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Imaginis fontis: [Detalia](/la/licenses#lekt3601))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : gradi, ambulo, abeo
 
@@ -239,7 +239,7 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Fons imaginis: [Details](/la/licenses#lekt3604))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ⟪स्वक⟫ 3: proprius (meus, tuus ...) ; m.: adfīnis
 
@@ -422,7 +422,7 @@ Explanationes:
 
 ⟪मातरम्⟫ : Acc. sg. ad ⟪मातृ⟫ f. "Mater"
 
-⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "Absolutum, Veda"
+⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "Absolutum, Veda" <!-- TODO: Fallback translation -->
 
 :sig[⟪सर्वे⟫] : Nom. pl. masc. ad ⟪सर्व⟫ "omnes, quisque"
 

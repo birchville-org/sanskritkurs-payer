@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 25
 
-A) Täydennä harjoituksessa 16 esitellyt taivutusmallit lisäämällä 4. datiivi (⟪चतुर्थी⟩) ja 5. ablatiivi (⟪पञ्चमी⟩).
+A) Täydennä harjoituksessa 16 esitellyt taivutusmallit lisäämällä 4. datiivi (⟪चतुर्थी⟩) ja 5. ablatiivi (⟪पञ्चमी⟩). <!-- TODO: Fallback translation -->
 
 ### ⟪१⟩. ⟪सन्त्⟩ (oleva, hyvä)
 
@@ -32,7 +32,7 @@ A) Täydennä harjoituksessa 16 esitellyt taivutusmallit lisäämällä 4. datii
 | 4. Dat. | ⟪महते⟩ | ⟪महद्भ्यः⟩ | ⟪महते⟩ | ⟪महद्भ्यः⟩ |
 | 5. Abl. | ⟪महतः⟩ | ⟪महद्भ्यः⟩ | ⟪महतः⟩ | ⟪महद्भ्यः⟩ |
 
-### ⟪३⟩. ⟪यद्⟩ (joka, kuka)
+### ⟪३⟩. ⟪यद्⟩ (joka, kuka) <!-- TODO: Fallback translation -->
 
 | Kausus | m. yks. | m. mon. | n. yks. | n. mon. | f. yks. | f. mon. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ A) Täydennä harjoituksessa 16 esitellyt taivutusmallit lisäämällä 4. datii
 B) Käännä ja ratkaise sanskritinkieliset yhdyssanat:
 
 ⟪१⟩. **⟪गुर्वादेशाद्रामो⟩ ⟪ग्रामान्नगरं⟩ ⟪गत्वा⟩ ⟪साधुगृहं⟩ ⟪प्रविश्य⟩ ⟪साधुमुपस्थायालं⟩ ⟪क्रोधेनेति⟩ ⟪वक्ति⟩ ⟪॥१॥⟩**
-Opettajan käskystä Rāma lähtee kylästä kaupunkiin, astuu pyhän miehen taloon, asettuu nöyrästi tämän eteen ja sanoo: "Riittää viha!"
+Opettajan käskystä Rāma lähtee kylästä kaupunkiin, astuu pyhän miehen taloon, asettuu nöyrästi tämän eteen ja sanoo: "Riittää viha!" <!-- TODO: Fallback translation -->
 
 ⟪२⟩. **⟪गुरोरधर्मः⟩ ⟪श्रोतुं⟩ ⟪न⟩ ⟪शक्यत⟩ ⟪इति⟩ ⟪श्रुत्या⟩ ⟪च⟩ ⟪स्मृतिभिश्चोद्यते⟩ ⟪॥२॥⟩**
 Veda (śruti) ja traditio (smṛti) sanovat, että opettajalta ei voi kuulla mitään väärää.
@@ -57,28 +57,28 @@ Koska hän on tehnyt uhrausvirheen, brahminin ei saa saada rahaa.
 
 ⟪५⟩. **⟪धनलाभहेतोस्ते⟩ ⟪वैश्या⟩ ⟪व्रतं⟩ ⟪कृत्वा⟩ ⟪ब्रह्मचर्यं⟩ ⟪चरन्ति⟩ ⟪॥५॥⟩**
 (⟪धनस्य⟩ ⟪लाभाय⟩)
-Jotta heistä tulisi rikkaita, nämä vaiśyat ovat tehneet lupauksen ja pidättäytyvät seksuaalisesta kanssakäymisestä.
+Jotta heistä tulisi rikkaita, nämä vaiśyat ovat tehneet lupauksen ja pidättäytyvät seksuaalisesta kanssakäymisestä. <!-- TODO: Fallback translation -->
 
 ⟪६⟩. **⟪बुद्द्धाश्चार्हन्तश्च⟩ ⟪दुःखान्मुक्ताः⟩ ⟪।⟩ ⟪मुञ्चन्ती⟩ ⟪बुद्धिर्हि⟩ ⟪तैः⟩ ⟪प्राप्ता⟩ ⟪॥६॥⟩**
 Buddhat ja arhantit ovat vapauttaneet kärsimyksestä. He nimittäin ovat saavuttaneet vapauttavan ymmärryksen.
 
 ⟪७⟩. **⟪लोभ⟩en ⟪च⟩ ⟪क्रोधेन⟩ ⟪च⟩ ⟪मोहेन⟩ ⟪च⟩ ⟪जना⟩ ⟪दुष्यन्ति⟩ ⟪।⟩ ⟪ततः⟩ ⟪प्राप्तकाला⟩ ⟪नरकं⟩ ⟪पतन्ति⟩ ⟪॥७॥⟩**
-Ahneuden, vihan ja harhaanjohtavuuden vuoksi ihmiset tuhoutuvat. Kun aika on tullut, he putoavat silloin helvettiin.
+Ahneuden, vihan ja harhaanjohtavuuden vuoksi ihmiset tuhoutuvat. Kun aika on tullut, he putoavat silloin helvettiin. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung040.webp)
 Kuv.: ⟪लोभेन⟩ ⟪च⟩ ⟪क्रोधेन⟩ ⟪च⟩ ⟪मोहेन⟩ ⟪च⟩ ⟪जना⟩ ⟪दुष्यन्ति⟩
-(Kuv lähde: [Yksityiskohdat](/licenses#uebung040))
+(Kuv lähde: [Yksityiskohdat](/licenses#uebung040)) <!-- TODO: Fallback translation -->
 
 :::
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
-Kṣatriya tuo sankaritarikasta sotilaita suurkaupungista, jotta hän voisi taistella vihollisten kylää vastaan.
+Kṣatriya tuo sankaritarikasta sotilaita suurkaupungista, jotta hän voisi taistella vihollisten kylää vastaan. <!-- TODO: Fallback translation -->
 
 ⟪९⟫. **⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫**
-Saadakseen pojan brahmaninainen vannoo lupauksen (ts. hän paastoaa).
+Saadakseen pojan brahmaninainen vannoo lupauksen (ts. hän paastoaa). <!-- TODO: Fallback translation -->
 
 ⟪१०⟫. **⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫**
-Koska hän on saanut pojan, kaksinkertaisesti syntyneen valtaa suuri onni.
+Koska hän on saanut pojan, kaksinkertaisesti syntyneen valtaa suuri onni. <!-- TODO: Fallback translation -->
 
 ⟪११⟫. **⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫**
 Viṣṇu suojaa uskoviaan kuolemalta.
@@ -111,7 +111,7 @@ Mistä luovut, siitä vapaudut. Jos nimittäin luovut kaikesta, et tunne kärsim
 
 ⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫ ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫ ⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫  
-Jos joku tuomitsee väärän tuomion ylpeydestä, ahneudesta, vihanpuuskasta tai pelosta, hän joutuu helvettiin.
+Jos joku tuomitsee väärän tuomion ylpeydestä, ahneudesta, vihanpuuskasta tai pelosta, hän joutuu helvettiin. <!-- TODO: Fallback translation -->
 
 ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫ ⟪पापं⟫ ⟪दारिद्र्यसंभवम्⟫ ⟪।⟫  
 ⟪दारिद्र्यमप्रदानेन⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫  
@@ -124,14 +124,14 @@ Kuva: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 :::
 ⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
-Varas vapautuu varkudesta rangaistuksen tai vapauttamisen kautta. Jos kuningas ei kuitenkaan rankaise häntä, hän ottaa varkuden syyllisyyden.
+Varas vapautuu varkudesta rangaistuksen tai vapauttamisen kautta. Jos kuningas ei kuitenkaan rankaise häntä, hän ottaa varkuden syyllisyyden. <!-- TODO: Fallback translation -->
 
 ---
 
-## Staatswissenschaftliche Fragments (Arthaśāstra)
+## Staatswissenschaftliche Fragments (Arthaśāstra) <!-- TODO: Fallback translation -->
 
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
-Talous on hyödyllistä, koska se tuottaa viljaa, karjaa, kultaa, metalleja ja työtä.
+Talous on hyödyllistä, koska se tuottaa viljaa, karjaa, kultaa, metalleja ja työtä. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung042.webp)
@@ -139,5 +139,5 @@ Kuva: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण�
 (Kuv lähde: [Details](/licenses#uebung042))
 :::
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
-Siksi kolme tiedettä ovat perustana sauva (daṇḍa). Sauva, joka on hyvän käytöksen perusta, tuo eläimille hankinnan ja turvan omistuksen. Hyvä käytös on työtä tai syntynyt. Työ kouluttaa sopivaa materiaalia, ei epäsopivaa. Tieto kouluttaa mielen, joka on tullut totuuteen kuuliaisuuden, kuuntelun, havainnoinnin, ymmärtämisen ja pohdinnan kautta, ei muu. ... Kuullusta syntyy tietoisuus, tiedosta käytäntö, käytännöstä itsekuri; näin tietteet vastaavat tarkoitustaan. Tieto ja hyvä käytös ovat voiton syy aisteja vastaan. Tämä on välttämätöntä, jotta voimme luopua halusta, vihanpuuskasta, ahneudesta, itsepetoksesta, humalasta ja jännityksestä.
+Siksi kolme tiedettä ovat perustana sauva (daṇḍa). Sauva, joka on hyvän käytöksen perusta, tuo eläimille hankinnan ja turvan omistuksen. Hyvä käytös on työtä tai syntynyt. Työ kouluttaa sopivaa materiaalia, ei epäsopivaa. Tieto kouluttaa mielen, joka on tullut totuuteen kuuliaisuuden, kuuntelun, havainnoinnin, ymmärtämisen ja pohdinnan kautta, ei muu. ... Kuullusta syntyy tietoisuus, tiedosta käytäntö, käytännöstä itsekuri; näin tietteet vastaavat tarkoitustaan. Tieto ja hyvä käytös ovat voiton syy aisteja vastaan. Tämä on välttämätöntä, jotta voimme luopua halusta, vihanpuuskasta, ahneudesta, itsepetoksesta, humalasta ja jännityksestä. <!-- TODO: Fallback translation -->
 

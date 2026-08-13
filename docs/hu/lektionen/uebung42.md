@@ -22,16 +22,16 @@ Kṛṣṇa ez a világ atyja, anyja, nagyapja és teremtője.
 „Tanító, atyák, fiúk, nagyapók, sógorok és unokaöcök harcba álltak. Ezeket nem akarom megölni!” — így szólt Arjuna a Bhagavadgītāban.
 
 ⟪४⟫. **⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-A költők dicsérték az atyákat és anyákat a fiúság (illetve szülői státusz) megszerzéséért.
+A költők dicsérték az atyákat és anyákat a fiúság (illetve szülői státusz) megszerzéséért. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. **⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 A feleséget a férjnek kell eltartania. Ezért „bhāryā”-nak (a fenntartandó) nevezik.
 
 ⟪६⟫. **⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Egy jó fiú élelmáldozatot (⟪पिण्ड⟩) ad elődinek. Az elődök által fogyasztatik az élelmáldozat, és így boldog életet lehet élni.
+Egy jó fiú élelmáldozatot (⟪पिण्ड⟩) ad elődinek. Az elődök által fogyasztatik az élelmáldozat, és így boldog életet lehet élni. <!-- TODO: Fallback translation -->
 
 ⟪७⟫. **⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Egy testvér nem házasodhat a nővérével. Ha egy testvér vágyik a nővérére, az istenek haragra gerjednek.
+Egy testvér nem házasodhat a nővérével. Ha egy testvér vágyik a nővérére, az istenek haragra gerjednek. <!-- TODO: Fallback translation -->
 
 ⟪८⟫. **⟪क्थं⟫ ⟪भर्तुर्भ्रातोच्यते⟫ ⟪।⟫ ⟪देवेति⟫ ⟪भर्तुर्भ्राता⟫ ⟪वक्तव्यः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 Hogyan nevezik a férj testvérét? A feleség testvérének „devara”-nak (sógor) kell nevezni.
@@ -64,7 +64,7 @@ Az apa unokák megszerzését kívánta.
 **Fordítás:**
 Régen Mithilāban élt egy Janaka nevű király. Neki volt egy Sītā nevű lánya. Kiváló szépségéről és erényeiről volt ismert. Számos herceg, aki feleségül akarta venni, követeket küldött Janakához.
 
-De Janaka egy erős kṣatriya hercegnek akarta adni a kezét. Ezért úgy határozott, hogy hősies erővel „meg kell vásárolni”. A helyzet a következő volt: birtokolt egy rendkívül nehéz ívet. Janaka megígérte: „Aki felveszi ezt az ívet, és nyilat feszít rá, az feleségül veheti a lányomat.”
+De Janaka egy erős kṣatriya hercegnek akarta adni a kezét. Ezért úgy határozott, hogy hősies erővel „meg kell vásárolni”. A helyzet a következő volt: birtokolt egy rendkívül nehéz ívet. Janaka megígérte: „Aki felveszi ezt az ívet, és nyilat feszít rá, az feleségül veheti a lányomat.” <!-- TODO: Fallback translation -->
 
 Amikor ezt az ígéretet hallották, számtalan herceg érkezett. De egyikük sem tudta még csak megmozdítani az ívet. Ismert, hogy Rāvaṇa, Laṅkā uralkodója is gőgösen megjelent és szégyenben tért vissza. Amikor Janaka látta, hogy minden herceg visszatért, aggódni kezdett, ki lesz a lánya férje. Eközben Viśvāmitra, Daśaratha ayodhyai király fia, Rāma, Lakṣmaṇa társaságában odavezette. A nagy Ṛṣi Viśvāmitra utasítására a csodálatos Rāma könnyedén felvette az ívet. Amint nyilat feszített rá, az ív két részre tört.
 

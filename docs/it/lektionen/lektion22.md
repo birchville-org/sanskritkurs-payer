@@ -34,7 +34,7 @@ Nella traduzione in tedesco si eviti di dire costantemente "dopo che". Si usino 
 **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = costruzione passiva: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
 "L'uomo entra nella casa, vede la bambina e le parla."
 
-Pluraleee: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
+Pluraleeeeee: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
 :::
 ## 22.2. Formazione dell'assolutivo
 

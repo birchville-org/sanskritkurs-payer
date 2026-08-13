@@ -67,7 +67,7 @@ A) Formas sequentes determinate et vertite:
 | ⟪५१⟫. ⟪हथ⟫ | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | vos caeditis |
 | ⟪५२⟫. ⟪हतः⟫ | ⟪हन्⟫ (2P) PPP Nom. sg. m. | caesus / occisus |
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Translationes
 
@@ -157,5 +157,5 @@ Formas sequentes determinate:
 ![](/images/uebung073.webp)
 Tab.: ⟪वदिता⟫
 (Imaginis fontis: [Detalia](/licenses#uebung073))
-:::
+::: <!-- TODO: Fallback translation -->
 

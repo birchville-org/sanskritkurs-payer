@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 55
+# ⲙⲁⲑⲏⲙⲁ 55
 
 ## 55.1. ⲧⲁ-ⲁⲟⲣⲓⲥⲧ (ⲁⲟⲣⲓⲥⲧ ⲉⲧⲉ ⲟⲩⲟⲛ ⲟⲩⲑⲉⲙⲁⲩⲟⲕⲁⲗ ⲛ̀ⲧⲟϥ)
 

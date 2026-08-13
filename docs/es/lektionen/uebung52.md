@@ -30,7 +30,7 @@ last_reconstructed: 2026-05-15
 Fig.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung087))
 :::
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 ## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: Sobre las fuentes del ⟪धर्म⟫
 
@@ -121,4 +121,4 @@ La comprensión liberadora de los Budas:
 ![](/images/uebung088.webp)
 Fig.: ⟪कदलीगर्भनिःसारः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung088))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 60
+# Lecziun 60
 
 ## 60.1. Las desinenzas dal dual dal perfect (⟪dvivacanam⟫)
 
@@ -19,7 +19,7 @@ status: stable
 
 ## 60.2. Il dual dal perfet reduplicà (⟪द्वित्वलिट्⟫)
 
-### 60.2.1. Typ 1: keine Stammabstufung
+### 60.2.1. Typ 1: keine Stammabstufung <!-- TODO: Fallback translation -->
 
 ⟪बन्ध्⟫ 9P "ligar"
 
@@ -176,7 +176,7 @@ Exempels:
 | ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "jemand, der gewesen ist" ; "jemand, der geworfen hat" |
 | ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "jemand, der gegeben hat" |
 | ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "jemand, der gegart hat" |
-| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" |
+| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Deklination:**
@@ -184,9 +184,9 @@ Exempels:
 *   **stärkerer Stamm: -vāṃs**
 *   **schwächerer Stamm:**
     *   **vor Konsonant: -vat** **(!)**
-    *   **vor Vokal: -uṣ**
+    *   **vor Vokal: -uṣ** <!-- TODO: Fallback translation -->
 
-**Vor uṣ entfällt der Bindevokal -i-.**
+**Vor uṣ entfällt der Bindevokal -i-.** <!-- TODO: Fallback translation -->
 
 **Feminin:**
 
@@ -194,7 +194,7 @@ Exempels:
 
 Esempel: ⟪विदुषी⟫ "ina persuna saventa"
 :::
-Vesair las paradigmas en Kielhorn, Grammatik § 124:
+Vesair las paradigmas en Kielhorn, Grammatik § 124: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6001.webp)
@@ -237,7 +237,7 @@ Esempel: ⟪प्रतीची⟫
 ::: media
 ![](/images/lekt6003.webp)
 (Fonte da figura: [Detagls](/rm/licenses#lekt6003))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6004.webp)
@@ -249,15 +249,15 @@ Qua appartegnan:
 
 *   ⟪अन्वञ्च्⟫ 3 "suand"
 
-*   ⟪उदञ्च्⟫ 3 «versu il aut, «nordic»"
+*   ⟪उदञ्च्⟫ 3 «versu il aut, «nordic»" <!-- TODO: Fallback translation -->
 
-*   ⟪तिर्यञ्च्⟫ 3 "che che va dretg (dals animals"
+*   ⟪तिर्यञ्च्⟫ 3 "che che va dretg (dals animals" <!-- TODO: Fallback translation -->
 
 *   ⟪सम्यञ्च्⟫ 3 "correct"
 
 *   ⟪न्यञ्च्⟫ 3 "bass"
 
-*   ⟪विष्वञ्च्⟫ 3 "in alle Richtungen gehend"
+*   ⟪विष्वञ्च्⟫ 3 "in alle Richtungen gehend" <!-- TODO: Fallback translation -->
 
 ### 60.5.2. Tribus bistamigidas sin sufix -añc
 
@@ -267,10 +267,10 @@ Qua appartegnan:
 *   **stärkerer Stamm: -añc**
 *   **schwächerer Stamm vor Konsonant bzw. Vokal: -ac**
 :::
-Dazu gehören:
+Dazu gehören: <!-- TODO: Fallback translation -->
 
 *   ⟪प्राञ्च्⟫ 3 "versu avant, orientàl"
-*   ⟪अवाञ्च्⟫ 3 "versu giu"
+*   ⟪अवाञ्च्⟫ 3 "versu giu" <!-- TODO: Fallback translation -->
 
 Paradigma ⟪प्राञ्च्⟫ vesa sora!
 
@@ -286,7 +286,7 @@ Las direcziuns principalas dal sid
 ## 60.6. Das Desiderativum (⟪सन्⟫)
 
 ::: grammar-box
-**Da mintga radisch sco er dal causativ pon ins furmar in desiderativ (⟪सन्⟫). Il desiderativ po vegnir conjugà en tut ils temps e modus dal P, Ā e passiv. Formas desiderativas lunsch dal stemma da present èn perquai fitg raras.**
+**Da mintga radisch sco er dal causativ pon ins furmar in desiderativ (⟪सन्⟫). Il desiderativ po vegnir conjugà en tut ils temps e modus dal P, Ā e passiv. Formas desiderativas lunsch dal stemma da present èn perquai fitg raras.** <!-- TODO: Fallback translation -->
 
 **Significaziun:**
 
@@ -299,7 +299,7 @@ Las direcziuns principalas dal sid
 | --- | --- |
 | ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "er ist im Begriffe, zu fallen" |
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" |
-| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
+| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" | <!-- TODO: Fallback translation -->
 
 ### 60.6.1. Furma dal stem da desiderativ
 
@@ -310,7 +310,7 @@ Las direcziuns principalas dal sid
 
 **oppur:**
 
-**reduplizierte Radis + i + ṣa**
+**reduplizierte Radis + i + ṣa** <!-- TODO: Fallback translation -->
 
 Las regulaziuns davart l'usi dal vocal da ligaziun -i — vesair en Kielhorn, Grammatica § 443 - 445.
 
@@ -323,14 +323,14 @@ Las regulaziuns davart l'usi dal vocal da ligaziun -i — vesair en Kielhorn, Gr
 
 1.  La radis è per ordinari profundida: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
-    1.  Final -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:  
+    1.  Final -i, -u vegn sustituì tras -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:  
         ⟪जि⟫ » ⟪जि⟫**:sig[⟪गी⟫]**⟪ष⟫- "zu siegen wünschen"  
-        ⟪द्रु⟫ » ⟪दु⟫**:sig[⟪द्रू⟫]**⟪ष⟫- "zu laufen wünschen"
+        ⟪द्रु⟫ » ⟪दु⟫**:sig[⟪द्रू⟫]**⟪ष⟫- "zu laufen wünschen" <!-- TODO: Fallback translation -->
 
-    2.  Final -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:  
+    2.  Final -ṛ, -ṝ vegn sustituì tras -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:  
         ⟪कृ⟫ » ⟪चि⟫**:sig[⟪कीर्ष⟫]**\- "vuler far"  
         ⟪मृ⟫ » ⟪मु⟫**:sig[⟪मूर्ष⟫]**\- "s'apprèttar a morir"  
-        ⟪पॄ⟫ » ⟪पु⟫**:sig[⟪पूर्ष⟫]**\- "vuler emplenar"
+        ⟪पॄ⟫ » ⟪पु⟫**:sig[⟪पूर्ष⟫]**\- "vuler emplenar" <!-- TODO: Fallback translation -->
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ ed autras radichs cun -ā, -e, -o han il stadi profund Ø:  
         ⟪दा⟩ » ⟪दित्स⟩- (di-**d** + sa)  
@@ -359,16 +359,20 @@ Las regulaziuns davart l'usi dal vocal da ligaziun -i — vesair en Kielhorn, Gr
 **Sut la reduplicaziun:**
 
 1.  Radis consonanticas: La reduplicaziun succedia sin las radis midadas secundamain las reglas surmenziunadas secundamain las reglas usitadas. Enstagl da a sco vocala da reduplicaziun appariscia i:  
-    ⟪पा⟫ » ⟪पिपास⟫-  
-    ⟪त्यज्⟫ » ⟪तित्यज⟫-  
-    ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
-    La cerebralisaziun suenter i/u da -s finala da la radis resta evitada, sche il s dal suffix dal desiderativ vegn cerebralisaſ:  
-    ⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+::: indent
+⟪पा⟫ » ⟪पिपास⟫-
+⟪त्यज्⟫ » ⟪तित्यज⟫-
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-
+La cerebralisaziun suenter i/u da -s finala da la radis resta evitada, sche il s dal suffix dal desiderativ vegn cerebralisaſ:
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+:::
 
 2.  Radices, che cumenzan cun ina vocala, vegnan reduplicadas suenter las regulas correspundentas per l'aorist reduplicà ([Lecziun 56](lektion56.md)):  
-    ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
-    ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-    ⟪ऋ⟫ » ⟪अरिरिष⟫-
+::: indent
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
+⟪ऋ⟫ » ⟪अरिरिष⟫-
+:::
 
 3.  La furmaziun speciala dal desiderativ da certas radichas vesair en Kielhorn, Grammatik § 451.
 :::
@@ -384,7 +388,7 @@ Lista en Kielhorn, Grammatik § 452:
 ### 60.6.2. Coniugaziun dal Desiderativ (⟪सन्⟫)
 
 ::: grammar-box
-**Il desiderativ è - cun paucs exempels - P, Ā u U, a segund sche la radis (u il stemma verbal) sutasaschenta è P, Ā u U.**
+**Il desiderativ è - cun paucs exempels - P, Ā u U, a segund sche la radis (u il stemma verbal) sutasaschenta è P, Ā u U.** <!-- TODO: Fallback translation -->
 
 **Stema dal present: Coniugaziun sco in stem tematic:**
 
@@ -401,7 +405,7 @@ Passiv: ⟪यियक्ष्यते⟫ "vesa d'esser offert"
 ::: indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ «el vuleva cuntanscher»
 :::
-**Aorist: iṣ-Aorist:**
+**Aorist: iṣ-Aorist:** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
@@ -420,7 +424,7 @@ A) Studiai en Kielhorn, Grammatica § 451 las furmas irregularas dal desiderativ
 ::: media
 ![](/images/lekt6007.webp)
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt6007))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6008.webp)

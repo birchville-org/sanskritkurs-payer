@@ -76,7 +76,7 @@ Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschn
 
 Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
 
-Max Weber \<1864 – 1920\> definiert Stand so:
+Max Weber (1864–1920) definiert Stand so:
 
 ::: note-box
 »**Stand**« soll eine Vielheit von Menschen heissen, die innerhalb eines Verbandes wirksam
@@ -96,7 +96,7 @@ Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, 
 
 Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
 
-[**Weber, Max \<1864 – 1920\>:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 Varṇas sind demgemäss Geburtsstände.
 
@@ -430,7 +430,7 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 ::: note-box
 In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
 
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -627,7 +627,7 @@ Lernen Sie folgende Wörter:
 >
 > In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
 >
-> [Quelle: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Quelle: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -778,7 +778,7 @@ Abb.: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
 
-⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `\<!\>`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
+⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `\&lt;!\&gt;`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
 
 ⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
 
@@ -3045,7 +3045,7 @@ Abb.: ⟪शास्त्री⟫
 ::: deleteme-box
 s. dazu:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
@@ -3059,7 +3059,7 @@ PPP ⟪अतीत⟫ : n. Vergangenheit
 ::: deleteme-box
 s. dazu:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
@@ -3073,7 +3073,7 @@ PPP ⟪अतीत⟫ : n. Vergangenheit
 ::: deleteme-box
 s. dazu:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
@@ -3483,7 +3483,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Siehe:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3493,7 +3493,7 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 Siehe:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3503,7 +3503,7 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 Siehe:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3563,7 +3563,7 @@ davon:
 :::
 Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -3901,7 +3901,7 @@ siehe:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer \<1944 - \>. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer (1944–). -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
 
@@ -4633,7 +4633,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: Gott Varuṇa = ⟪वरुण⟫, 17. Jhdt. [Bildquelle. Wikipedia, Public domain]
 
-**lekt1002**: Ein Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / von Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \<1848 - 1906\> [Bildquelle: Wikipedia, Public domain]
+**lekt1002**: Ein Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / von Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Bildquelle: Wikipedia, Public domain]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Bildquelle: Prakash Subbarao / Wikipedia. -- Public domain]
 

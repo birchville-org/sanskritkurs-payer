@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 26
+# Lekcija 26
 
 ## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
 

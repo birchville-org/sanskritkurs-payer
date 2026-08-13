@@ -7,14 +7,14 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 37
+# Lecziun 37
 
 ## 37.1. L'adverb (⟪क्रियाविशेषणम्⟫)
 
 Adverbien vegnan en il Sanscrit
 
 1.  tras formas casuales da sustantivs e pronomens
-2.  cun agid da sufixs ed finals spezials
+2.  cun agid da sufixs ed finals spezials <!-- TODO: Fallback translation -->
 
 En il prüm cas è la cunfinaziun tranter casus vivents ed avverbis fluida. Quai includa sco cas spezial ils avverbis, ch’èn formas casuales veglias cristallisadas, mentrà che en la declinaziun vegnan duvradas autras formas u che ils numens correspundents n’èn betg pli duvrads sco numens.
 
@@ -34,20 +34,26 @@ L’accusativ po vegnir adina aduprà sco
 
 *   da sustantivs  
     Exemples:  
-    ⟪कामम्⟫ "secundam illescentia, secundam illescentia"  
-    ⟪अर्थम्⟫ "propter"
+::: indent
+⟪कामम्⟫ "secundam illescentia, secundam illescentia"
+⟪अर्थम्⟫ "propter"
+:::
 
 *   da agiectivs al neutral  
     Exempels:  
-    ⟪सुखम्⟫ "legier, feliç"  
-    ⟪नित्यम्⟫ "adina"  
-    ⟪साधु⟫ "correct, bun"
+::: indent
+⟪सुखम्⟫ "legier, feliç"
+⟪नित्यम्⟫ "adina"
+⟪साधु⟫ "correct, bun"
+::: <!-- TODO: Fallback translation -->
 
 *   da pronomina en il neutrum  
     Exemples:  
-    ⟪तद्⟫ "lura, perquai"  
-    ⟪यद्⟫ "schend, che"  
-    ⟪एतद्⟫ "uschè, qua, uss"
+::: indent
+⟪तद्⟫ "lura, perquai"
+⟪यद्⟫ "schend, che"
+⟪एतद्⟫ "uschè, qua, uss"
+:::
 :::
 ### 37.2.2. Instrumental (⟪तृतीया⟫)
 
@@ -56,24 +62,28 @@ L'Instrumental (⟪तृतीया⟫) pozz vegnir adoperà adverbialmain sia
 
 *   dals che?
 *   cun tge?
-*   e c.
+*   e c. <!-- TODO: Fallback translation -->
 
 L’instrumental pozz’ esser adoperà sco adverbial:
 
 *   da sustantivs  
     Exemples:  
-    ⟪अर्थेन⟫ "a causa da"  
-    ⟪क्षणेन⟫ "en il mument, immediatamain" (da ⟪क्षण⟩ m. "mument")
+::: indent
+⟪अर्थेन⟫ "a causa da"
+⟪क्षणेन⟫ "en il mument, immediatamain" (da ⟪क्षण⟩ m. "mument")
+:::
 
 *   da agiectivs, savens er en il plural
     Exemples:
-    ⟪दूरेण⟫ "lunsch, da la lunsch" (a ⟪दूर⟫ 3 "lunsch, lunsch da")
-    ⟪उच्चैस्⟫ "aut, aut" (a ⟪उच्च⟫ 3 "aut, elevà, aut, clar (da vusch)")
+::: indent
+⟪दूरेण⟫ "lunsch, da la lunsch" (a ⟪दूर⟫ 3 "lunsch, lunsch da")
+⟪उच्चैस्⟫ "aut, aut" (a ⟪उच्च⟫ 3 "aut, elevà, aut, clar (da vusch)")
+:::
 :::
 ### 37.2.3. Datīv (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen:
+Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen: <!-- TODO: Fallback translation -->
 
 *   e cetera
 *   e cetera
@@ -86,7 +96,7 @@ Esempel:
 ### 37.2.4. Ablativ (⟪पञ्चमी⟫)
 
 ::: grammar-box
-L’ablativ (⟪पञ्चमी⟫) po vegnir adoperà adverbialmain sün las dumondas:
+L’ablativ (⟪पञ्चमी⟫) po vegnir adoperà adverbialmain sün las dumondas: <!-- TODO: Fallback translation -->
 
 *   perche?
 *   e cetera
@@ -99,12 +109,14 @@ L'ablativ pozz' vegnir aduprà sco avverbial:
     p.ex. ⟪बलात्⟫ "cun violenza, cun forza"
 
 *   da aggettivs  
-    p.ex. ⟪दूरात्⟫ "lunsch"
+    p.ex. ⟪दूरात्⟫ "lunsch" <!-- TODO: Fallback translation -->
 
 *   da pronomina  
     Exemples:  
-    ⟪कस्मात्⟫ "perche"  
-    ⟪अकस्मात्⟫ "imprevistamain"
+::: indent
+⟪कस्मात्⟫ "perche"
+⟪अकस्मात्⟫ "imprevistamain"
+:::
 :::
 ### 37.2.5. Genitiv (⟪षष्ठी⟫)
 
@@ -113,7 +125,7 @@ Rar vegn il genitiv (⟪षष्ठी⟫) adverbial adoperà per la dumonda "s
 
 z.B. ⟪चिरस्य⟫ "nach langer Zeit" (zu ⟪चिर⟫ 3 "lang (Zeit)")
 :::
-### 37.2.6. Lokativ (⟪सप्तमी⟫)
+### 37.2.6. Lokativ (⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Il locativ (⟪सप्तमी⟫) po vegnir adoperà adverbialmain sin las dumondas:
@@ -133,9 +145,9 @@ Ezempels:
 
 Ezempels:
 ::: indent
-⟪जातु⟫ "en tut" (originalmain "per naschientscha, per natira", accusativ singulare neutrum a जातु⟩ \<betg pli usità sco num\>)
+⟪जातु⟫ "en tut" (originalmain "per naschientscha, per natira", accusativ singulare neutrum a जातु⟩ \<betg pli usità sco num\>) <!-- TODO: Fallback translation -->
 
-⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen")
+⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen") <!-- TODO: Fallback translation -->
 
 ⟪एवम्⟫ "uschei" (a inàts da n'atgna radis pronominala ⟪एव⟫ "in, suletta")
 :::
@@ -148,7 +160,7 @@ Dals ils stems pronominala ⟪तद्⟫, ⟪इदम्⟫ resp. ⟪अ⟫-,
 *   \-⟪त्र⟫ (Lokativ)
 *   \-⟪था⟫ (Moda)
 *   \-⟪थम्⟫ (Moda)
-*   \-⟪दा⟫ (Tempus)
+*   \-⟪दा⟫ (Tempus) <!-- TODO: Fallback translation -->
 
 deducir correspondents adverbis pronominala.
 :::
@@ -161,7 +173,7 @@ deducir correspondents adverbis pronominala.
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -181,7 +193,7 @@ Abb.: ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
 
 :::
 ## 37.5. Composita adverbiala
@@ -190,7 +202,7 @@ Abb.: ⟪क्व⟫
 
 Esempel: ⟪सुचिरम्⟫ "mol mult (temp)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
+### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫ <!-- TODO: Fallback translation -->
 
 Esempel: ⟪रक्षार्थम्⟫ "en moda da inu, cun in intent da protecziun, per l'intent da protecziun". Po er vegnir considerà sco apartenent a 5.1.: -⟪अर्थम्⟫ sco part adverbiala posteriora.
 
@@ -247,7 +259,7 @@ Pronomina indefins (pronomins indeterminads) vegnan formads cun l'aggregaziun da
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet.
+an die Kasus des Fragepronomens ⟪किम्⟫ gebildet. <!-- TODO: Fallback translation -->
 
 p.ex.
 :::
@@ -288,7 +300,7 @@ En las preguntas totales se interroga sobre todo el contenido de la oración, po
 *   va Rāma ozendi a Ofterdingen?
 *   è correct, che ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. Wortfragen (Ergänzungsfragen) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Schema:
@@ -502,9 +514,9 @@ Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Wiederholungsübung
+## 37.11. Exercizi da repetiziun
 
-Übersetzen Sie ins Sanskrit indem Sie ausschließlich Verbformen des Perfekt verwenden:
+Übersetzen Sie ins Sanskrit indem Sie ausschließlich Verbformen des Perfekt verwenden: <!-- TODO: Fallback translation -->
 
 Cun in vegl umada va en in auter vit, el s’affatgescha sutvia. El va per s’arposar al pied d’in manglier che stat a l’atgna. Sin quest arbul gievan fruits madirs. Al vegl daventa il gust per quels fruits. Ma el na po betg s’arrampiciar sin l’arbul e prender ils fruits. Per sort gievan sin quest arbul quai ch’è affes, che manglian fruits. Cun vesair quels, s’allegra il vegl. Co fa el? El prenda quai ch’è pitschens, mira sin ils affes e lantscha. Ils affes offesos prendan quai ch’è fruits e lantschan sin il vegl. Il vegl prenda quels cuntent e va en ses lieu desiderà. Vede, il destin dal vegl!
 

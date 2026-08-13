@@ -5,7 +5,7 @@ lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # שיעור 14
 
@@ -60,7 +60,7 @@ status: stable
 | Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
-| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
+| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ | <!-- TODO: Fallback translation -->
 
 :::
 **התאמה של שורשים מסתיימים בתנועה, למעט שמות עצם חד-הברתיים מהשורש ושורשים מסתיימים בדפתונג:**
@@ -106,7 +106,7 @@ status: stable
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
 
 :::
 **שאלות ודגשים:**
@@ -118,7 +118,7 @@ status: stable
 | **Maskulinum / Neutrum** | **Genetiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
 | | **Genetiv Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
 | **Femininum** | **Genetiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **Genetiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| | **Genetiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ | <!-- TODO: Fallback translation -->
 
 :::
 **זהות צורנית:**

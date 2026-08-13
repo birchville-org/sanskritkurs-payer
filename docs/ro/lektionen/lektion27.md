@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 27
 
@@ -32,7 +32,7 @@ status: stable
 Fig.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2701))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -62,7 +62,7 @@ Jaipur, 1875.
 Fig.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rajasthan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2702))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -76,7 +76,7 @@ Rajasthan.
 Fig.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2703))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -163,7 +163,10 @@ Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ �
 Rāma-Satz.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2708))
 :::
-**:sig[⟪रामो⟫]** ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ **:sig[⟪रामं⟫]** ⟪रमेशं⟫ ⟪भजे⟫:br**:sig[⟪रामेणा⟫]**⟪भिहता⟫ ⟪निशाचरचमू⟫ **:sig[⟪रामाय⟫]** ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br**:sig[⟪रामान्ना⟫]**⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ **:sig[⟪रामस्य⟫]** ⟪दासोऽस्म्यहम्⟫:br**:sig[⟪रामे⟫]** ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ **:sig[⟪राम⟫]** ⟪मामुद्धर⟫ ⟪॥⟫
+**:sig[⟪रामो⟫]** ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ **:sig[⟪रामं⟫]** ⟪रमेशं⟫ ⟪भजे⟫
+**:sig[⟪रामेणा⟫]**⟪भिहता⟫ ⟪निशाचरचमू⟫ **:sig[⟪रामाय⟫]** ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
+**:sig[⟪रामान्ना⟫]**⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ **:sig[⟪रामस्य⟫]** ⟪दासोऽस्म्यहम्⟫
+**:sig[⟪रामे⟫]** ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ **:sig[⟪राम⟫]** ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Traducere:**
 1. **Nominativ:** Rāma, bijuteria (⟪मणि⟫ m.) dintre regi (⟪राजन्⟫ m.) învinge întotdeauna (⟪सदा⟫).
@@ -180,7 +183,10 @@ Rāma-Satz.
 **⟪वस्⟫** 1P (⟪वसति⟫): a rămâne, a locui (cu locativul persoanei, la care locuiești)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br**Pass.:** ⟪उष्यते⟫:br**PPP:** ⟪उषित⟫:br**Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫
+**Pass.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Inf.:** ⟪वस्तुम्⟫
 :::
 de la care:
 
@@ -194,7 +200,9 @@ de la care:
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): a îmbrăca (îmbrăcăminte), a purta (îmbrăcăminte)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br**PPP:** ⟪वसित⟫:br**Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 de la care:
 
@@ -223,7 +231,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫): a ține, a purta; a aduce, a lua, a fura
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br**Pass.:** ⟪ह्रियते⟫:br**PPP:** ⟪हृत⟫:br**Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 de la care:
 
@@ -241,7 +252,7 @@ Echivalentul pentru **⟪हर⟫**:
 Fig.: ⟪हरिहरः⟫
 Harihara (stânga: Viṣṇu, dreapta: Śiva).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2704))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2705.webp)
@@ -306,7 +317,7 @@ Fig.: ⟪नराः⟫
 Naran. Udaipur.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2711))
 :::
-### 27.7.2. Neutre în -a: ⟪फल⟫
+### 27.7.2. Neutre în -a: ⟪फल⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -468,7 +479,7 @@ Fig.: ⟪सद्गुरुः⟫
 Sai Baba din Shirdi (1835 - 1918).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫
+### 27.7.10. ⟪महान्त्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -576,7 +587,7 @@ Sai Baba din Shirdi (1835 - 1918).
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2717))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

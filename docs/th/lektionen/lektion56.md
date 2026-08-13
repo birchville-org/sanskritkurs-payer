@@ -135,7 +135,7 @@ status: stable
 ::: indent
 Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / โดย Karl Hoffmann. -- ไฮเดลแบร์ก : Winter, 1967. -- 298 หน้า. -- (Indogermanische Bibliothek : ลำดับที่ 3, การศึกษา)
 :::
-ในพระเวท คำกริยาเชิงคำสั่ง (Injunktive) มีลักษณะดังนี้:
+ในพระเวท คำกริยาเชิงคำสั่ง (Injunktive) มีลักษณะดังนี้: <!-- TODO: Fallback translation -->
 
 *   ไม่ใช้เพื่อรายงาน แต่ใช้เพื่อกำกับ
 *   ไม่มีระดับเวลา
@@ -198,7 +198,7 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 ภาพ: ⟪अलं⟫ ⟪विषादेन⟫
 (แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫
+## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪स्म⟫ เน้นความหมาย: "แน่นอน, แท้จริง, แน่นอน, โดยเฉพาะ"**

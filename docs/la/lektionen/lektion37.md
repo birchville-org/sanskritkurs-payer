@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 37
+# Lectio 37
 
 ## 37.1. Adverbium (⟪क्रियाविशेषणम्⟫)
 
@@ -34,20 +34,26 @@ Adverbialiter adhiberi potest accusativus:
 
 *   a substantivis
     Exemplaria:  
-    ⟪कामम्⟫ "iuxta votum, pro arbitrio"  
-    ⟪अर्थम्⟫ "propter"
+::: indent
+⟪कामम्⟫ "iuxta votum, pro arbitrio"
+⟪अर्थम्⟫ "propter"
+:::
 
 *   ab adiectivis in neutro
     Exemplaria:  
-    ⟪सुखम्⟫ "leve, felix"  
-    ⟪नित्यम्⟫ "semper"  
-    ⟪साधु⟫ "recte, bonum"
+::: indent
+⟪सुखम्⟫ "leve, felix"
+⟪नित्यम्⟫ "semper"
+⟪साधु⟫ "recte, bonum"
+:::
 
 *   de pronomibus neutris
     Exemplis:  
-    ⟪तद्⟫ "tum, ideo"  
-    ⟪यद्⟫ "si, quod"  
-    ⟪एतद्⟫ "ita, hic, nunc"
+::: indent
+⟪तद्⟫ "tum, ideo"
+⟪यद्⟫ "si, quod"
+⟪एतद्⟫ "ita, hic, nunc"
+:::
 :::
 ### 37.2.2. Instrumentalis (⟪तृतीया⟫)
 
@@ -62,13 +68,17 @@ Adverbialiter adhiberi potest Instrumentalis:
 
 *   a substantivis
     Exemplis:  
-    ⟪अर्थेन⟫ "propter"  
-    ⟪क्षणेन⟫ "in momento, statim" (a ⟪क्षण⟩ m. "momentum")
+::: indent
+⟪अर्थेन⟫ "propter"
+⟪क्षणेन⟫ "in momento, statim" (a ⟪क्षण⟩ m. "momentum")
+:::
 
 *   ab adiectivis, saepe etiam in plurali
     Exemplia:  
-    ⟪दूरेण⟫ "procul, e procul" (ad ⟪दूर⟫ 3 "procul, procul a")  
-    ⟪उच्चैस्⟫ "altus, altā voce" (ad ⟪उच्च⟫ 3 "altus, elevatus, altā voce, acuta (de voce)")
+::: indent
+⟪दूरेण⟫ "procul, e procul" (ad ⟪दूर⟫ 3 "procul, procul a")
+⟪उच्चैस्⟫ "altus, altā voce" (ad ⟪उच्च⟫ 3 "altus, elevatus, altā voce, acuta (de voce)")
+:::
 :::
 ### 37.2.3. Datīvus (⟪चतुर्थी⟫)
 
@@ -103,8 +113,10 @@ Adverbialiter uti potest Ablativus:
 
 *   de pronomibus
     Exemplaria:  
-    ⟪कस्मात्⟫ "cur"  
-    ⟪अकस्मात्⟫ "inopinatus"
+::: indent
+⟪कस्मात्⟫ "cur"
+⟪अकस्मात्⟫ "inopinatus"
+:::
 :::
 ### 37.2.5. Genetivus (⟪षष्ठी⟫)
 
@@ -161,7 +173,7 @@ pronominia adverbialia correspondia deducere.
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -181,7 +193,7 @@ Fig.: ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
 
 :::
 ## 37.5. Composita adverbialia
@@ -190,7 +202,7 @@ Fig.: ⟪क्व⟫
 
 Exemplum: ⟪सुचिरम्⟫ "diu multum (tempus)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
+### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫ <!-- TODO: Fallback translation -->
 
 Exemplum: ⟪रक्षार्थम्⟫ "in similitudine alicuius, cuius finis est custodia, ad finem custodiendi". Item potest considerari pertinens ad 5.1.: -⟪अर्थम्⟫ ut pars posterior adverbialis.
 
@@ -201,7 +213,7 @@ Exemplum: ⟪रक्षार्थम्⟫ "in similitudine alicuius, cuius 
 ::: grammar-box
 Est ⟪अव्ययीभाव⟫ compositum adverbium, cuius pars prior est indeclinabile (postpositio, particula etc.), et cuius pars posterior est nomen quod terminationem accusativi singularis neutri accipit.
 
-In resolutione compositionis, pars prior regeret partem posteriorem:
+In resolutione compositionis, pars prior regeret partem posteriorem: <!-- TODO: Fallback translation -->
 
 Exempla:
 :::
@@ -247,7 +259,7 @@ Pronomina indefinita (pronomina indefinita) per additionem
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet.
+an die Kasus des Fragepronomens ⟪किम्⟫ gebildet. <!-- TODO: Fallback translation -->
 
 e.g.
 :::
@@ -288,7 +300,7 @@ In quaestionibus enuntiativis totus contentus enuntiati quaeritur, e.g.
 *   abne Rāma hodie Ofterdingen?
 *   estne rectum, quod ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. Wortfragen (Ergänzungsfragen) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Schema:

@@ -90,7 +90,7 @@ status: stable
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
 
 :::
 ### 34.2.5. تكرار الجذور التي تبدأ بحرف متحرك
@@ -104,7 +104,7 @@ status: stable
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -117,7 +117,7 @@ status: stable
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
-| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -159,7 +159,7 @@ status: stable
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 34.5. صيغة التام النوع الثاني: جذع قوي بصيغة عالية، جذع ضعيف بصيغة منخفضة
@@ -346,5 +346,5 @@ status: stable
 **lekt3406:** حقل أرز في الهند. [مصدر الصورة: رايت ويلتن / البنك الدولي. CC BY-NC-ND]
 
 **lekt3407:** طقس زواج هندوسي. [مصدر الصورة: BriceFR / Flickr. CC BY-NC-SA]
-:::
+::: <!-- TODO: Fallback translation -->
 

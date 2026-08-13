@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 37
+# Leçon 37
 
 ## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
 
@@ -34,20 +34,26 @@ L’accusatif peut être utilisé comme adverbe :
 
 *   des substantifs  
     Exemples :  
-    ⟪कामम्⟩ « selon le souhait, à volonté »  
-    ⟪अर्थम्⟩ « en raison de »
+::: indent
+⟪कामम्⟩ « selon le souhait, à volonté »
+⟪अर्थम्⟩ « en raison de »
+:::
 
 *   des adjectifs au neutre  
     Exemples :  
-    ⟪सुखम्⟫ "léger, heureux"  
-    ⟪नित्यम्⟫ "toujours"  
-    ⟪साधु⟫ "correct, bon"
+::: indent
+⟪सुखम्⟫ "léger, heureux"
+⟪नित्यम्⟫ "toujours"
+⟪साधु⟫ "correct, bon"
+:::
 
 *   des pronoms au neutre  
     Exemples :  
-    ⟪तद्⟫ "alors, c'est pourquoi"  
-    ⟪यद्⟫ "si, que"  
-    ⟪एतद्⟫ "ainsi, ici, maintenant"
+::: indent
+⟪तद्⟫ "alors, c'est pourquoi"
+⟪यद्⟫ "si, que"
+⟪एतद्⟫ "ainsi, ici, maintenant"
+:::
 :::
 ### 37.2.2. Instrumental (⟪तृतीया⟫)
 
@@ -62,13 +68,17 @@ L'instrumental peut être utilisé comme un adverbe :
 
 *   des substantifs  
     Exemples :  
-    ⟪अर्थेन⟫ "en raison de"  
-    ⟪क्षणेन⟫ "au moment précis, immédiatement" (de ⟪क्षण⟫ m. "moment")
+::: indent
+⟪अर्थेन⟫ "en raison de"
+⟪क्षणेन⟫ "au moment précis, immédiatement" (de ⟪क्षण⟫ m. "moment")
+:::
 
 *   des adjectifs, souvent aussi au pluriel  
     Exemples :  
-    ⟪दूरेण⟫ "loin, de loin" (à ⟪दूर⟫ 3 "loin, loin de")  
-    ⟪उच्चैस्⟫ "haut, fort" (à ⟪उच्च⟫ 3 "haut, élevé, fort, aigu (de voix)")
+::: indent
+⟪दूरेण⟫ "loin, de loin" (à ⟪दूर⟫ 3 "loin, loin de")
+⟪उच्चैस्⟫ "haut, fort" (à ⟪उच्च⟫ 3 "haut, élevé, fort, aigu (de voix)")
+:::
 :::
 ### 37.2.3. Datif (⟪चतुर्थी⟫)
 
@@ -103,8 +113,10 @@ L'ablatif peut être utilisé comme un complément circonstanciel :
 
 *   des pronom
     Exemples :  
-    ⟪कस्मात्⟫ "pourquoi"  
-    ⟪अकस्मात्⟫ "inattendu"
+::: indent
+⟪कस्मात्⟫ "pourquoi"
+⟪अकस्मात्⟫ "inattendu"
+:::
 :::
 ### 37.2.5. Génitif (⟪षष्ठी⟫)
 
@@ -161,7 +173,7 @@ dériver les adverbes pronominaux correspondants.
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -181,7 +193,7 @@ Fig. : ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
 
 :::
 ## 37.5. Composés adverbiaux
@@ -190,7 +202,7 @@ Fig. : ⟪क्व⟫
 
 Exemple : ⟪सुचिरम्⟩ « très longue (période) »
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
+### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫ <!-- TODO: Fallback translation -->
 
 Exemple : ⟪रक्षार्थम्⟩ « de la manière de quelqu’un dont le but est la protection, dans le but de protéger ». Peut également être considéré comme appartenant à 5.1. : -⟪अर्थम्⟩ comme complément adverbial.
 
@@ -288,7 +300,7 @@ Dans les questions de phrase, tout le contenu de la phrase est interrogé, par e
 *   Rāma va-t-il aujourd'hui à Ofterdingen ?
 *   est-il correct que ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. Wortfragen (Ergänzungsfragen) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Schéma :

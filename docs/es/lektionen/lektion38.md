@@ -21,7 +21,7 @@ status: stable
 :::
 Explicaciones:
 
-\-⟪अग्नि⟫ Neutro Nom.Akk.sg. a ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ Neutro Nom.Akk.sg. a ⟪अग्नि⟫ m. &lt;!-- TODO: Fallback translation --&gt;
 
 \-:sig[⟪गु⟫] Neutro Nom.Akk.sg. a ⟪गो⟫ m.f. "Buey, Vaca"
 
@@ -47,9 +47,9 @@ Los nombres en **-an** y los nombres **-man** o **-van** tras vocal tienen tres 
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Tema** | **-ān** | **-mān** | **-vān** | Nom., Ac., Voc. sg. m. f.:brNom., Ac., Voc. dual m. f.:brNom., Voc. pl. m. f.:brNom., Ac. pl. n. |
 | **Mittlerer Schwacher Tema** | **-a**:br(de -*n) | **-ma**:br(de -*mn) | **-va**:br(de -*vn) | Übrige Kasus vor konsonantisch anlautender Terminación:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Terminación |
+| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Terminación | &lt;!-- TODO: Fallback translation --&gt;
 
-**Las terminaciones son regulares. El Nominativooo Singular m. f. se forma sin -n final.**
+**Las terminaciones son regulares. El Nominativoooooo Singular m. f. se forma sin -n final.**
 :::
 Ejemplos:
 
@@ -203,7 +203,7 @@ Fig.: ⟪हस्ती⟫
 ![](/images/lekt3807.webp)
 Fig.: ⟪हस्तवान्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3807))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 Los adjetivos terminados en **-⟪इन्⟫** se forman con gusto como compuestos.
@@ -280,7 +280,7 @@ Ejemplo:
 :::
 ## 38.9. Lista de palabras
 
-⟪सूर्य⟫ m.: Sol, dios del sol Sūrya
+⟪सूर्य⟫ m.: Sol, dios del sol Sūrya &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt3802.webp)
@@ -451,7 +451,7 @@ A) Inserten en las siguientes oraciones la forma correspondiente de las palabras
 Fig.: ⟪विनोदः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : vagar
+⟪अट्⟫ 1P ⟪अटति⟫ : vagar &lt;!-- TODO: Fallback translation --&gt;
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
@@ -496,7 +496,7 @@ Inf. ⟪गणयितुम्⟫
 Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : gritar, lamentarse
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : gritar, lamentarse &lt;!-- TODO: Fallback translation --&gt;
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
@@ -575,7 +575,7 @@ Explicaciones:
 
 ⟪स्मस्⟫ 1.pl.Ind.Pres.P a ⟪अस्⟫ 2P
 
-⟪अस्⟫ 2.pl.Imperativooo P
+⟪अस्⟫ 2.pl.Imperativoooooo P
 
 :sig[⟪गवेषयत⟫] "cada uno individualmente"
 

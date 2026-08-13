@@ -90,7 +90,7 @@ status: stable
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
 
 :::
 ### 34.2.5. Ἀναδιπλασιασμὸς ῥιζῶν ἀπὸ φωνήεντος ἀρχομένων
@@ -104,7 +104,7 @@ status: stable
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -117,7 +117,7 @@ status: stable
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
-| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -140,7 +140,7 @@ status: stable
 *   Παρακείμενον μετὰ βαθμώσεως τῆς ρίζης: Τύπος Β - Ε
 *   ἀτάκτοι σχηματισμοὶ παρακειμένου
 
-## 34.4. Perfekt Typ I: Perfekt ohne Φωνηεντικὴ ἐναλλαγή
+## 34.4. Perfekt Typ I: Perfekt ohne Φωνηεντικὴ ἐναλλαγή <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Τὸ πρῶτον ε�δος τοῦ παρακειμένου (ἀνευ ριζικῆς μεταβολῆς) ἔχει ρίζας τῶν ε�δῶν:**
@@ -159,7 +159,7 @@ status: stable
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 34.5. Παρακείμενος τύπου Βʹ: Ἰσχυρὸν θέμα πλήρους βαθμίδος, ἀσθενὲς θέμα μηδενικῆς βαθμίδος
@@ -211,7 +211,7 @@ Abb.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
 (Bildquelle: [Details](/grc/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** θνητος (προς **⟪मृ⟫**)
+**⟪मर्त्य⟫ 3:** θνητος (προς **⟪मृ⟫**) <!-- TODO: Fallback translation -->
 
 **⟪तिल⟫ m.:** σησαμον (Sesamum indicum L.)
 
@@ -229,7 +229,7 @@ Lakshadweep Islands Map.
 Φυτὸν σησαμίνου ἀνθοφοροῦν.
 (Bildquelle: [Details](/grc/licenses#lekt3404))
 :::
-**⟪स्वर्ण⟫ n.:** (καλὸς χρώματος =) χρυσόν
+**⟪स्वर्ण⟫ n.:** (καλὸς χρώματος =) χρυσόν <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3402.webp)
@@ -336,11 +336,11 @@ Hindu wedding ritual.
 
 **lekt3401:** Ἀγάλμα ταύρου Νάντι, λόφοι τῆς Chamundi, Μυσόρ. [Πηγή εικόνας: Luna Park / Flickr. CC BY-NC-ND]
 
-**lekt3402:** Χρυσὸν Ναός (Harmandir Sahib), Ἀμριτσάρ. [Πηγή εικόνας: Wikipedia. GNU FDL]
+**lekt3402:** Χρυσὸν Ναός (Harmandir Sahib), Ἀμριτσάρ. [Πηγή εικόνας: Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
 
 **lekt3403:** Σήσαμον. [Πηγή εικόνας: Wikipedia. Δημόσιον πεδίον]
 
-**lekt3404:** Ἀνθοφοροῦσα σήσαμον. [Πηγή εικόνας: Franz Xaver / Wikipedia. GNU FDL]
+**lekt3404:** Ἀνθοφοροῦσα σήσαμον. [Πηγή εικόνας: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
 
 **lekt3405:** Χάρτης των Νήσων Λακσαδίπ. [Πηγή εικόνας: CIA World Factbook. Δημόσιος τομέας]
 

@@ -1,17 +1,18 @@
 ---
-title: "Esercitaziun 35"
+title: "Exercizi 35"
 uebung_id: 35
-category: "Esercitaziun"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lecziun 35
+# Exercizi 35
 
-A) Crear las correspondentas formas dal perfect per las suandantas furmas verbalas:
+A) Formar las correspondentas formas dal Perfekt a las suandantas formas verbalas:
 
 ::: grammar-box
-| Präsens / Imperfect | Perfect |
+| Präsens / Imperfect | Perfekt |
 | :--- | :--- |
 | ⟪१⟫. ⟪गायन्ति⟫ | ⟪जगुः⟫ |
 | ⟪२⟫. ⟪स्मरन्ति⟫ | ⟪सस्मरुः⟫ |
@@ -55,26 +56,25 @@ A) Crear las correspondentas formas dal perfect per las suandantas furmas verbal
 | ⟪४०⟫. ⟪जुह्वति⟫ | ⟪जुहुवुः⟫ |
 | ⟪४१⟫. ⟪अहरत्⟫ | ⟪जहार⟫ |
 :::
-B) Traduschar:
+B) Tradusci:
 
 ⟪१⟫. **⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫**
-In temp vegl cumenzà in grond Kṣatriya a sacrificar. Indra rapì (prendè) sia bestia da sacrifici. Ma cura che la bestia era svanida, dissi in malvagi Brahman al Kṣatriya: "La bestia è svanida a causa dal mal comportament dal Kṣatriya."
+In temp vegl cumenzà in grond Kṣatriya a sacrificar. Indra rapì (prendè) sia bestia da sacrifici. Ma cura che la bestia era svanida, disè in malvagi Brahmane al Kṣatriya: "La bestia è svanida a causa dal malconduch da il Kṣatriya."
 
 ⟪२⟫. **⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवू⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫**
-Rāma era senza uffants. El desiderava in figl, ma n'obtenì nagin. Perquai sacrificà el als deus e realissà vots sco castitad sexuala ed usità. Ils deus udì il desideri da Rāma e dondà a el il figl desiderà.
+Rāma era senza uffants. El desiderava in figl, ma n'ha betg ottentì in. Per quai ha el sacrificà als deus e realità vows sco abstinenz sexuala ed uschè vinavant. Ils deus han udì il desideri da Rāma e donà a el il figl desiderà.
 
 ⟪३⟫. **⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫**
-Las Brahmanas cuocèan ghee per il sacrifici. Cuntrà che las Brahmanas cuocevan, preparavan ils Brahmans il lieu da sacrifici. Alura sacrifizà els Kṣatriyas Śiva e ils auters deus sco patruns da sacrifici, ed ils Brahmans realissà il sacrifici (en num).
+Las Brahmanas han cuschinà ghee per il sacrifici. Durant che las Brahmanas han cuschinà, han preparà ils Brahmans il lieu da sacrifici. Alura han sacrificà ils Kṣatriyas Śiva e las autras deus sco patruns da sacrifici, ed ils Brahmans han realità il sacrifici (en num).
 
 ⟪४⟫. **⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫**
-Arhats han rompid ils legams da famiglia, finì avidadà, odio ed ignoranza, reconuschì la veritad e — liberads dal sufriment – cuntanschì la beatezza da la salvaziun.
-
+Arhats han rompid ils legams da famiglia, finì avidad, odio e confusiun, reconuschì la veritad ed — liberà dal suferiment — cuntanschì la beletà da la salvezza.
 
 ---
 
 ## Variaziun sintactica (Perfectum a Imperfectum)
 
-C) Transfurmà las frasis da l'exercizi B), indem Vus sustituischìs perfectas cun imperfectas:
+C) Transfurmà ils frars da l'exercizi B), indem Vus Perfecta sustitueschis cun Imperfecta:
 
 ⟪१⟫. ⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपाक्रामत⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪ऽहरत्⟫ ⟪॥⟫
 
@@ -86,6 +86,7 @@ C) Transfurmà las frasis da l'exercizi B), indem Vus sustituischìs perfectas c
 
 ::: media
 ![](/images/uebung058.webp)
-Abb.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
-(Sursa da l'imagines: [Detagls](/licenses#uebung058))
+Fig.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
+(Sursa da l'imagia: [Detagls](/licenses#uebung058))
 :::
+ <!-- TODO: Fallback translation -->

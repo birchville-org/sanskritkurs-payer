@@ -90,7 +90,7 @@ Exemplos:
 | Raiz | 3ª sg. Perf. P. | 3ª pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
 
 :::
 ### 34.2.5. Reduplicação de raízes que começam com vogal
@@ -104,7 +104,7 @@ Exemplos:
 
 | Raiz | 3ª sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "ser" e ⟪अस्⟫ 4 "lançar" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "ser" e ⟪अस्⟫ 4 "lançar" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -117,7 +117,7 @@ Exemplos:
 | Raiz | 3ª sg. Perf. P. | 3ª pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
-| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -159,7 +159,7 @@ Exemplos:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 34.5. Perfeito Tipo II: Tema forte grau guṇa, tema fraco grau zero
@@ -189,7 +189,7 @@ Exemplos:
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. e pl.:** semente, colheita, cereal
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. e pl.:** semente, colheita, cereal <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3406.webp)
@@ -220,7 +220,7 @@ Lakshadweep Islands Map.
 Fig.: ⟪तिलाः⟫
 Sesame seeds.
 (Fonte da imagem: [Detalhes](/licenses#lekt3403))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3404.webp)

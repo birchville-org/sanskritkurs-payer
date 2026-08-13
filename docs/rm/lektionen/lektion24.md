@@ -5,11 +5,11 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 24
+# Lecziun 24
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
+## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **1. Per exprimir in intent u in fin ("per far") d'ina acziun, po in adina adina al infinitiv (⟪तुमुन्⟫) era adina nom cun sufix kṛt, che designescha ina acziun u in stadi, en il dativ (⟪चतुर्थी⟫ = "quart casus").**
@@ -104,7 +104,7 @@ Ulteriuras utilisaziuns dal dativ pli tard.
 * **Singulär: -e ; vokalischi endendi Femininstämm: -ai**
 * **Plural: Dativ und Ablativ ⟪पञ्चमी⟫: -bhyas**
 :::
-### 24.2.1. Konsonantischi Stämm
+### 24.2.1. Konsonantischi Stämm <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -216,9 +216,9 @@ Da ⟪वृत्⟫:
 
 ⟪वृत्त⟫ n.: cumportament
 :::
-⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an <!-- TODO: Fallback translation -->
 
-⟪नि⟫ Präverb: ned, giu, en, indret
+⟪नि⟫ Präverb: ned, giu, en, indret <!-- TODO: Fallback translation -->
 
 ⟪आ⟫ Preposiziun / posposiziun: avant ablativ u suenter accusativ: fin a, fin a ; cun ablativ: da qua, da lura, dapi
 
@@ -228,12 +228,12 @@ Da ⟪वृत्⟫:
 
 ⟪इन्द्रिय⟫ n.: pussa, orgán da sens
 
-⟪ऊह⟫ m.: reflexiun, argumentaziun
+⟪ऊह⟫ m.: reflexiun, argumentaziun <!-- TODO: Fallback translation -->
 
 davon
 
 ::: indent
-⟪⟪अपोह⟫⟫ m.: Negaziun (⟪⟪अप⟫⟫ + ⟪⟪ऊह⟫⟫)
+⟪⟪अपोह⟫⟫ m.: Negaziun (⟪⟪अप⟫⟫ + ⟪⟪ऊह⟫⟫) <!-- TODO: Fallback translation -->
 
 ⟪ऊहापोह⟫ m.: Discussiun dal per ed cunter
 :::
@@ -276,7 +276,7 @@ davon:
 
 ⟪तत्त्व⟫ n.: essenza vera, veritad, realitad (⟪तद्⟫ + ⟪त्व⟫ = questa-
 
-⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut")
+⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut") <!-- TODO: Fallback translation -->
 
 ⟪नमस्⟫ n.: inchinaziun, veneraziun, salut (declinaziun pli tard). Formula da salidaziun: ⟪नमो⟩ ⟪नमः⟫
 
@@ -363,7 +363,7 @@ Traducir al sánscrito:
 
 1\. La deessa, cun la quala n'è betg sacrificà, s'ira contra la glieud.
 
-2\. El lascha la vaca ir en il vitg.
+2\. El lascha la vaca ir en il vitg. <!-- TODO: Fallback translation -->
 
 3\. Us èn avunda = Abastà cun la pazienza.
 
@@ -395,7 +395,7 @@ Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 ⟪नरसिंह⟫ dilanià ⟪हिरण्यकशिपु⟫, pagina d'in manuscrit dal ⟪भागवतपुराण⟫
 (font da l'imaginescha: [detagls](/rm/licenses#lekt2410))
 :::
-11\. Benvegni (⟪स्वागतम्⟫) a Vus. Benvegni a la regina.
+11\. Benvegni (⟪स्वागतम्⟫) a Vus. Benvegni a la regina. <!-- TODO: Fallback translation -->
 
 12\. Io augur a Vus prosperitad (⟪कुशल⟫) = prosperitad a Vus!
 
@@ -407,7 +407,7 @@ Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 ::: deleteme-box
 
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] è in eveniment hindu tradiziunal che ha lieu durant las festivitads da l'onn nov hindu en tut ils mandirs da BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Centenas da platsas vegetarianas vegnan offertas a Bhagwan Swaminarayan [સ્વામિનારાયણ] en quest di. [Bildquelle: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] è in eveniment hindu tradiziunal che ha lieu durant las festivitads da l'onn nov hindu en tut ils mandirs da BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Centenas da platsas vegetarianas vegnan offertas a Bhagwan Swaminarayan [સ્વામિનારાયણ] en quest di. [Bildquelle: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
 
 **lekt2402:** Il Raksha Bandhan vegn celebrà cun passion e gaiozza en tut l'India. Quest festival epitomisescha l'amur incondiziunada tranfratgs e soras. [Fonte da l'imaginescha: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Access il 2008-12-14. -- Licenza Creative Commons (Attribuziun, nagina utilisaziun comerciala, share alike)]
 
@@ -423,9 +423,9 @@ Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 **lekt2408:** «Il narratôr da istorgias Jeff Byers da San Francisco preschenta ina istorgia als abitants da Chenneri, in vitg Irula. Il narratôr da istorgias Jeeva Raghunath traduscha en tamil per ils abitants dal vitg.» [Sursa d’imagia: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Access il 2008-12-14. -- Licenza Creative Commons (attribuziun, nagina utilisaziun comerciala)]
 
-**lekt2409:** [Qua da l'imagines: Redtigerxyz / Wikipedia, Licenza GNU FD]
+**lekt2409:** [Qua da l'imagines: Redtigerxyz / Wikipedia, Licenza GNU FD] <!-- TODO: Fallback translation -->
 
-**lekt2410:** ⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫ [Bildquelle: Wikipedia, Public domain]
+**lekt2410:** ⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫ [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
 **lekt2411:** Manuscript dal ⟪गीतगोविन्द⟫, 1730 n. Chr. [Sursa da l'imagines: Wikipedia, Public domain]
 :::

@@ -30,7 +30,7 @@ Explicații:
 Fig.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3801))
 :::
-## 38.2. Schimbarea fonetică a nazalelor în cuvânt
+## 38.2. Schimbarea fonetică a nazalelor în cuvânt <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Nazalele din interiorul cuvântului se asimilează consoanelor care le urmează, adică sunt înlocuite de nazala corespunzătoare acelui consoană.
@@ -197,13 +197,13 @@ Exemplu:
 Fig.: ⟪हस्ती⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫: unul care are (mâini) umane
+⟪हस्तवन्त्⟫: unul care are (mâini) umane <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3807.webp)
 Fig.: ⟪हस्तवान्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3807))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Adjectivele în **-⟪इन्⟫** sunt adesea formate în compuse.
@@ -287,14 +287,14 @@ Exemplu:
 Fig.: ⟪सूर्यः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Apă
+⟪उदक⟫ n.: Apă <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3805.webp)
 Fig.: ⟪उदकम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : a sufla, a bate vântul
+⟪वा⟫ 2P ⟪वाति⟫ : a sufla, a bate vântul <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪वास्यति⟫
@@ -342,7 +342,7 @@ din care:
 ::: indent
 Feminin:
 
-⟪राज्ञी⟫ f.: Regină, soție a unui rege
+⟪राज्ञी⟫ f.: Regină, soție a unui rege <!-- TODO: Fallback translation -->
 
 de la :sig[⟪राज⟫] :
 
@@ -451,7 +451,7 @@ A) Introduceți în propozițiile următoare forma corespunzătoare a cuvintelor
 Fig.: ⟪विनोदः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : a umbla în cerc, a se plimba
+⟪अट्⟫ 1P ⟪अटति⟫ : a umbla în cerc, a se plimba <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
@@ -479,7 +479,7 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 Fig.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3813))
 :::
-⟪एकैकशस्⟫ Adv.: fiecare în parte
+⟪एकैकशस्⟫ Adv.: fiecare în parte <!-- TODO: Fallback translation -->
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : a număra
 
@@ -563,9 +563,9 @@ Explicații:
 
 :sig[⟪दश⟫] Nom.Akk.pl.m.f.n. pentru ⟪दशन्⟫ "zece"
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual pentru ⟪बाहु⟫ m. "braț"
+⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual pentru ⟪बाहु⟫ m. "braț" <!-- TODO: Fallback translation -->
 
-:sig[⟪सर्वे⟫] Nom.pl.m. pentru ⟪सर्व⟫ 3 "fiecare, toți"
+:sig[⟪सर्वे⟫] Nom.pl.m. pentru ⟪सर्व⟫ 3 "fiecare, toți" <!-- TODO: Fallback translation -->
 
 :sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ pentru ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "a vrea să cunoască, a vrea să știe"
 
@@ -581,7 +581,7 @@ Explicații:
 
 :sig[⟪समजनि⟫] 3.sg.Passiv Aorist pentru ⟪जन्⟫
 
-⟪तरसा⟫ Instr. sg. pentru ⟪तरस्⟫ n. "energie", folosit adverbial: "rapid, cu forță"
+⟪तरसा⟫ Instr. sg. pentru ⟪तरस्⟫ n. "energie", folosit adverbial: "rapid, cu forță" <!-- TODO: Fallback translation -->
 
 :sig[⟪यूयम्⟫] Nom.pl. "voi"
 

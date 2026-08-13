@@ -113,9 +113,11 @@ Wayang figure, Java, Indonesia
 
 *   **Numeral words**  
     Examples:  
-    ⟪एकशस्⟫ "individually, one by one"  
-    ⟪द्विशस्⟫ "in pairs, two by two"  
-    ⟪शतशस्⟫ "by hundreds, a hundred at a time"
+::: indent
+⟪एकशस्⟫ "individually, one by one"
+⟪द्विशस्⟫ "in pairs, two by two"
+⟪शतशस्⟫ "by hundreds, a hundred at a time"
+:::
 
 *   **kata lain**
 Contoh:
@@ -283,7 +285,7 @@ Untuk bilangan kata keterangan lebih lanjut hingga 19, lihat misalnya dalam Kiel
 Examples:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f.
 :::
 
@@ -295,7 +297,7 @@ Examples:
 Examples:
 
 ::: indent
-100 ⟪शत⟫ n.:br
+100 ⟪शत⟫ n.
 1000 ⟪सहस्र⟫ n.
 :::
 Untuk kata benda bilangan individu, lihat misalnya dalam Kielhorn, Tata Bahasa §201.

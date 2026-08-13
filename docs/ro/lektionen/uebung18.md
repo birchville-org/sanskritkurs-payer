@@ -88,7 +88,7 @@ B) Traduceți următoarele Tatpuruṣa:
 Fig.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung027))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Exerciții suplimentare
 
@@ -118,7 +118,7 @@ B) Traduceți folosind verbe din a doua clasă de prezent:
 ⟪ब्राह्मणो⟫ ⟪देवीः⟫ ⟪स्तौति⟫ ⟪।⟫ (sau: ⟪स्तवीति⟫ ⟪।⟫)
 
 2\. Eroii merg pe drumul greu de urmat spre satul arienilor.
-⟪शूरा⟫ ⟪दुर्गमेण⟫ ⟪मार्गेणार्यग्रामं⟫ ⟪यन्ति⟫ ⟪।⟫
+⟪शूरा⟫ ⟪दुर्गमेण⟫ ⟪मार्गेणार्यग्रामं⟫ ⟪यन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
 
 3\. Femeia de serviciu din casă mulge vacile.
 ⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫
@@ -127,12 +127,12 @@ B) Traduceți folosind verbe din a doua clasă de prezent:
 ⟪आर्यारयो⟫ ⟪बलवत्क्षत्रियान्घन्ति⟫ ⟪।⟫ (sau: ⟪आर्यशत्रवो⟫...)
 
 5\. Un fantomă nu mănâncă fructe.
-⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫
+⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
 
 6\. Așa vorbește cel care [a parcurs bine drumul renașterilor] către ucenic.
 ⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟫ (sau: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫)
 
-C) Dați în sanscrită definiția yoga în două moduri: o dată folosind un compus, o dată descompunând compusul.
+C) Dați în sanscrită definiția yoga în două moduri: o dată folosind un compus, o dată descompunând compusul. <!-- TODO: Fallback translation -->
 
 ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪।⟫ (⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ ⟪।⟫)
 
@@ -145,4 +145,4 @@ Datoria tuturor este: non-violența, veridicitatea, puritatea, a nu cârti împo
 ![](/images/uebung028.webp)
 Fig.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung028))
-:::
+::: <!-- TODO: Fallback translation -->

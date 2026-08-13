@@ -130,7 +130,7 @@ Verbe care urmează acest tip:
 :::
 ### 40.2.3. Tipul III al Perfectului: Rădăcină puternică, nivel înalt/îndelungat
 
-1.sg.P opțional nivel înalt sau îndelungat
+1.sg.P opțional nivel înalt sau îndelungat <!-- TODO: Fallback translation -->
 
 #### 40.2.3.1. Tipul IIIa al Perfectului: Rădăcină puternică, nivel înalt/îndelungat, rădăcină slabă, nivel jos
 
@@ -405,7 +405,7 @@ Forma pronumelui personal (pronumelui personal) este aceeași pentru toate genur
 
 :::
 ::: grammar-box
-Formele mai scurte, care apar pe locul al doilea mai sus (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), nu trebuie niciodată folosite la începutul unei propoziții sau al unui vers.
+Formele mai scurte, care apar pe locul al doilea mai sus (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), nu trebuie niciodată folosite la începutul unei propoziții sau al unui vers. <!-- TODO: Fallback translation -->
 
 Înainte de particulele ⟪च⟫, ⟪वा⟫, ⟪एव⟫, aceste așa-numite forme enclitice nu pot fi, de asemenea, folosite:
 
@@ -482,7 +482,7 @@ din care:
 ![lekt4003.jpg](/images/lekt4003.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4003))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪तीर्थङ्कर⟫ m. (din: ⟪तीर्थम्⟫+ ⟪कृ⟫): Constructor de vad (peste suferință) = cei 24 învățători Jaina

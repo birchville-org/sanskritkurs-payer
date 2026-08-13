@@ -115,9 +115,9 @@ Exemplos:
 ā kann
 
 * por um lado, ser o grau alongado de uma das séries de apofonia com -a-
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein <!-- TODO: Fallback translation -->
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A.**
@@ -170,7 +170,7 @@ Exemplos:
 | **Imperfeito** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativo** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. As raízes ⟪दा⟫ e :sig[⟪धा⟫]
+### 33.4.1. As raízes ⟪दा⟫ e :sig[⟪धा⟫] <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **As raízes ⟪दा⟫ e :sig[⟪धा⟫] reduplicam com a vogal -a- e perdem a vogal da raiz no tema fraco.**
@@ -186,7 +186,7 @@ Exemplos:
 | **Imperfeito** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativo** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-As formas de ⟪दा⟫ são obtidas substituindo-se **dh** por **d** no paradigma de :sig[⟪धा⟫]. Assim:
+As formas de ⟪दा⟫ são obtidas substituindo-se **dh** por **d** no paradigma de :sig[⟪धा⟫]. Assim: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 ⟪दा⟫ 3U "dar"

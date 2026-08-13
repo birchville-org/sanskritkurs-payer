@@ -9,7 +9,7 @@ status: stable
 
 # الدرس 43
 
-## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \&lt;Person\&gt;")
+## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \&lt;Person\&gt;") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||

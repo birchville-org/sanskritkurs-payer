@@ -23,7 +23,7 @@ status: stable
 | **Sekundärendung thematische Stämme** | **-m** | **-ma** | **-i** | **-mahi** |
 | **Sekundärendung athematische Stämme** | **-am** | ^^ | ^^ | ^^ |
 | **Optativendung** | ^^ | ^^ | **-a** | ^^ |
-| **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** |
+| **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
 
 :::
 1 ملاحظة: في الواقع، فإن الإضافة الأولية ā للأصول الموضوعية تُحدد أيضًا كـ -e، قبلها يسقط الصوت الموضوعي -a- لأسباب تحليلية. لكن التأثير هو وكأن الإضافة -i تلتصق بالصوت الموضوعي -a-: a + i » e.
@@ -34,7 +34,7 @@ status: stable
 **القاعدة:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. الصف الأول من الأزمنة الحالية (⟪भ्वादि⟫)
+### 39.2.1. الصف الأول من الأزمنة الحالية (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P
 
@@ -45,7 +45,7 @@ status: stable
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indikativ Präsens  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
 | **Imperfekt  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
+| **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi | <!-- TODO: Fallback translation -->
 
 :::
 ### 39.2.2. الفئة السادسة من المضارع (⟪तुदादि⟫)
@@ -110,7 +110,7 @@ status: stable
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. تشكيل ⟪अनिट्⟫
+### 39.3.1. تشكيل ⟪अनिट्⟫ <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U
 

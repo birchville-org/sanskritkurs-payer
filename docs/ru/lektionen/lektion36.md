@@ -424,7 +424,7 @@ sig[⟪सर्वास्त⟫]⟪स्याफलाः क्रिय�
 ::: media
 ![](/images/lekt3607.webp)
 Abb.: ⟪येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।⟫
->> (Источник изображения: [Details](/licenses#lekt3607))
+&gt;&gt; (Источник изображения: [Details](/licenses#lekt3607))
 :::
 2\. ⟪मनुस्मृति ४⟫.⟪१५४⟫ über dem rechten Verhalten gegenüber Alten:
 

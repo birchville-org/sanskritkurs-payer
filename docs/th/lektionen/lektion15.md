@@ -42,7 +42,7 @@ status: stable
 > นามธรรม พหูพจน์ ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
 > เป็นต้น
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. ตัตปุรุषะที่มีองค์ประกอบหน้าในลักษณะวิเศษณ์/สมุหนาม = คัมธายระชาย = ⟪कर्मधारय⟫
@@ -71,16 +71,20 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   หากคัมธายระแสดงถึง "การเปรียบเทียบ" สิ่งที่นำมาใช้เปรียบเทียบกับจะอยู่ในองค์ประกอบหลังของคำประสม:
 
+::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ชายผู้ดุจสิงโต"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ชายผู้ดุจเสือ"
+:::
 
 *   หากแสดงการเป็นคำขยายแบบ Karmadhāraya ในลักษณะของ Apposition (การระบุรายละเอียดเพิ่มเติมของส่วนหลังด้วยคำนาม) ส่วนที่ระบุรายละเอียดจะอยู่ข้างหน้า ตามกฎทั่วไปสำหรับลำดับส่วนของ Tatpuruṣa:
 
+::: indent
 ⟪नरसिंहः⟫ สามารถแยกได้: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "สิงโตผู้เป็น (แท้จริง) ชายคนหนึ่ง"
+:::
 
 คำ Karmadhāraya แบบ Apposition เหล่านี้ในคำอธิบายท้องถิ่นเช่นตัวอย่างข้างต้นถูกแยกโดยใช้ ⟪एव⟫
 

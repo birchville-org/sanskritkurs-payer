@@ -5,7 +5,7 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # ਪਾਠ 7
 
@@ -287,7 +287,7 @@ status: stable
 6. Der HERR zürnt.
 7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
    ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
-8. Welchem Gott opfert dieser Brahmane?
+8. Welchem Gott opfert dieser Brahmane? <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0703.webp)

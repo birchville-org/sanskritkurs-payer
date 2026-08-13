@@ -172,7 +172,7 @@ status: stable
 * **-ś » -ṭ أو -k**
 * **-ṣ » -ṭ أو -k**
 :::
-أمثلة:
+أمثلة: <!-- TODO: Fallback translation -->
 
 ⟪सत्यवाच्⟫ 3 "الناطق بالحق" (⟪बहुव्रीहि⟫)
 
@@ -607,7 +607,7 @@ _canis aureus_، محمية كالاتوب خاجيار
 
 ::: deleteme-box
 
-**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫، ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [مصدر الصورة: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- تم الوصول في 2009-01-13. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب العمل)]
+**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫، ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [مصدر الصورة: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- تم الوصول في 2009-01-13. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب العمل)] <!-- TODO: Fallback translation -->
 
 **lekt5103:** ⟪भरतपुर⟫، ⟪राजस्थान⟫ [مصدر الصورة: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- تم الوصول إليه في 2009-01-13. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب العمل)]
 

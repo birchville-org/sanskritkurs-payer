@@ -5,7 +5,7 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # 第45课
 
@@ -115,7 +115,7 @@ A) 翻译成梵文（对于过去时态，请使用未完成体 \&lt;⟪लङ�
 :::
 3\. Hast du vom König eine Gabe empfangen?
 
-4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren?
+4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren? <!-- TODO: Fallback translation -->
 
 6\. 首陀罗妇女，你是否将重物搬入了那位富有的婆罗门的家中？
 

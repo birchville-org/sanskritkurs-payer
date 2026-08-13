@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 15
+# Lecziun 15
 
 ## 15.1. ⟪सुभाषितम्⟫
 
@@ -42,47 +42,51 @@ p. ex.
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
 > usv.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
-## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
+## 15.3. Determinativ:::: grammar-box
 ::: grammar-box
 
-En la dissoluziun dal Karmadhāraya statan amba las duas parts dal cumpost al medemi cas.
+Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus. <!-- TODO: Fallback translation -->
 
 :::
-p.ex.
+z.B. <!-- TODO: Fallback translation -->
 
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "in figl cun bunas qualitads"  
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "ein Sohn mit guten Eigenschaften"  
 Akk. sg. ⟪गुणवत्पुत्रम्⟫  
-Nom pl. ⟪गुणवत्पुत्राः⟫
+Nom pl. ⟪गुणवत्पुत्राः⟫   <!-- TODO: Fallback translation -->
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "ina dunnaivla dunnaivla"
+⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine verdienstreiche Kṣatriyafrau"   <!-- TODO: Fallback translation -->
 
-⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "glieus umanas"
+⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "gute Leute"   <!-- TODO: Fallback translation -->
 
-⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "la dea volida = la dea, a la quala si ha in relaziun speziala da devocziun e protecziun"
+⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat" <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1501.webp)
-Fig.: ⟪लक्ष्मी⟫
-(Sursa d’imagia: [Detagls](/rm/licenses#lekt1501))
+Abb.: ⟪लक्ष्मी⟫
+(Bildquelle: [Details](/licenses#lekt1501)) <!-- TODO: Fallback translation -->
 :::
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Concerne la successiun dals segments en in Karmadhāraya è da tegnair cont da la suandanta regla speziala:
 
-*   exprima in'expressiun Karmadhāraya in'confront, alura stat quai cun il qual vegn confrontà en il segment posterior dal cumposit:
+*   exprima in'expressiun Karmadhāraya ina comparaziun, alura stat quai cun il qual vegn confrontà en il segment posterior dal cumposit:
 
-⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "in um na leun"  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "in um na tigre"
+::: indent
+⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "in um sco in leun"
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "in um sco ina tigre"
+:::
 
-*   exprima inà in Karmadhāraya ina appusiziun (precisaziun dal segment posterior tras in sustantiv), alura sa trova il segment pli precis en il segment anterior, sco quai ch’er la regla generala per l’ordinaziun dals segments in Tatpuruṣa pretenda:
+*   exprima in Karmadhāraya ina apposiziun (precisaziun dal segment posterior tras in sustantiv), alura sa trova il segment pli precis en il segment anterior, sco quai ch’er la regla generala per l’ordinaziun dals segments en in Tatpuruṣa pretenda:
 
-⟪नरसिंहः⟫ po vegnir a dissolver: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "In leun, ch'è (en realitad) in um."
+::: indent
+⟪नरसिंहः⟫ po era vegnir dissolvì: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "In leun, ch'è (en realitad) in um."
+:::
 
-Tals appoziziunas cumpostas da tip Karmadhāraya vegnan en ils cumments locals, sco er en l'exempli da sur, respektivamain explicadas tras ⟪एव⟫.
+    Tals apposiziuns cumpostas dal tip Karmadhāraya vegnan en ils comments locals, sco er en l'exempel da sur, explicadas tras ⟪एव⟫.
 
 :::
 ::: media
@@ -104,13 +108,13 @@ Akk. sg. ⟪क्षत्रियपुत्रम्⟫
 Gen. sg. ⟪क्षत्रियपुत्रस्य⟫  
 u.s.w.
 
-⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "la natira d'in magister"
+⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "la natira d'in magister" <!-- TODO: Fallback translation -->
 
 ⟪धनलोभः⟫ = ⟪धनस्य⟫  ⟪लोभः⟫ = "Gidà da richèzza, avidadad"
 
 ⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "il decurs dal mund, il cumpurtament da la glieud"
 
-Quasi mintga relaziun da genitiv po vegnir sustituida da in Tatpuruṣa. Las paucas excepziuns vesair per ex. en Kale, A higher Sanskrit grammar § 211, là era ils passus correspundents en Pāṇini.
+Quasi mintga relaziun da genitiv po vegnir sustituida da in Tatpuruṣa. Las paucas excepziuns vesair per ex. en Kale, A higher Sanskrit grammar § 211, là era ils passus correspundents en Pāṇini. <!-- TODO: Fallback translation -->
 
 Il segment anterior d'in Tatpuruṣa po principialmain represchentar tut ils casus. Tutgavin na pon betg tut las relaziuns da casus sintacticamain pussaivlas vegnir sustituidas tras in Tatpuruṣa. Las regulas correspundentas chattais Vus en cas da dubi tar Kale, A higher Sanskrit grammar § 203 - 217 resp. Pāṇini 2,1,22 - 2,2,22.
 
@@ -144,7 +148,7 @@ Anche se en sànscrit ponnan esser formatas cumpostas da lunghezza arbitraria e 
 Fig.: ⟪समासविच्छेदः⟫
 (Imàgin: [Detagl](/rm/licenses#lekt1502))
 :::
-u.s.w. fin ch'ins arriva als singulas radis da paraulas.
+u.s.w. fin ch'ins arriva als singulas radis da paraulas. <!-- TODO: Fallback translation -->
 
 p.ex.
 
@@ -170,9 +174,9 @@ p.ex.
 
 2\. Stadi: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
 
-= "il dharma dals Brahmins, Kṣatriyas e Vaiśyas"
+⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "l'acziun meritivel dal figl"
 :::
-Mol è per ina cumpostaziun differentas pussaivladads da resolutiun. Tge che è la correcta u almain la megliera, po vegnir decidì mo dal context e dal cuntegn dal text. A vart na èsi betg pussaivel da prender ina decisiun. Spess èn duas pussaivladads da resolutiun probablamain intendidas da l'autur. Alura sto ins en la traducziun represchentar tuttas duas pussaivladads da resolutiun (collegadas cun "e", "u" "u betg" e similia).
+In tuttas las sorts da cumponids è l'element avant normalmain la radis da la paraula senza midament. Nums cun duas rads sa chattan en la radis debila. Adjectivs feminins, che deteglian in element suandant en il cumponid, sa chattan generalmain en la radis masculina:
 
 p.ex.
 
@@ -203,7 +207,7 @@ p.ex.
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "in figl cun bunas qualitads"
 
 :::
-## 15.7. Einteilung der ⟪तत्पुरुष⟫
+## 15.7. Classificaziun dals ⟪तत्पुरुष⟫
 
 1.  ⟪प्रथमातत्पुरुषः⟫ : Il prim element è en ⟪विग्रहवाक्य⟫ al nominativ (⟪प्रथमा⟫)
 2.  ⟪द्वितीयातत्पुरुषः⟫ : Il prim element è en ⟪विग्रहवाक्य⟫ al accusativ (⟪द्वितीया⟫)
@@ -222,7 +226,7 @@ p.ex.
 *   ⟪गतिसमासः⟫ : cun preposiziun en il element avant
 *   ⟪प्रथमातत्पुरुषः⟫ e.c. (vair sur)
 
-### 15.7.1. Einteilung der ⟪कर्मधारय⟫
+### 15.7.1. Classificaziun dals ⟪कर्मधारय⟫
 
 1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : il prim element è in aggettiv (⟪विशेषण⟫)
 2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : tut ils elements èn agiectivs, quai cumpiglia era agiectivs che expriman in decurs dal temp: "emprim baignà, alura untschì"
@@ -300,11 +304,11 @@ Abb.: ⟪सिंहः⟫
 Abb.: ⟪व्याघ्रः⟫
 (Fontana da l'imaginescha: [Detagls](/rm/licenses#lekt1507))
 :::
-⟪इव⟫ (postposiziun): sco, sco che (en cumparegliaziuns: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = 'in um sco in tigir', 'in um sco in tigir')
+⟪इव⟫ (postposiziun): sco, sco che (en cumparegliaziuns: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = 'in um sco in tigir', 'in um sco in tigir') <!-- TODO: Fallback translation -->
 
 ⟪एव⟫ (postposizionà): emfatisescha quai che va avant, correspunda en il tudestg savens a l'emfasa, ina sorta d'emoticon `\<!\>`, per exempel ⟪सत्यमेव⟫ ⟪जयति⟫ "sola la verit gudogna", "exactamain la verit gudogna", "la verit gudogna"
 
-⟪अरि⟫ m.: inimic (secun Thieme, Der Fremdling im Ṛgveda: originalmain = forestir)
+⟪अरि⟫ m.: inimic (secun Thieme, Der Fremdling im Ṛgveda: originalmain = forestir) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आर्य⟫ 3: arian, nobel ; m. Ari (denominaziun da sè da l'indians vegls che parlavan sanscrit, literalmain: ospital (Thieme)) ; nobel, um d'onur

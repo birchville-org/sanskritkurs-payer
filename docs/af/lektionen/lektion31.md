@@ -4,7 +4,7 @@ lesson_id: 31
 status: stable
 ---
 
-# Lektion 31
+# Les 31
 
 ## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
 

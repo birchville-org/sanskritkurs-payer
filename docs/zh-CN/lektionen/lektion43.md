@@ -308,15 +308,15 @@ A) 构成与以下动词形式在时态、数、语气等方面相应的第二�
 
 B) 翻译成梵文：
 
-1\. Warum sitzt ihr, während der Lehrer steht?
+1\. Warum sitzt ihr, während der Lehrer steht? <!-- TODO: Fallback translation -->
 
-2\. Zweifelst du daran, dass eine gute Tat eine gute Frucht hat?
+2\. Zweifelst du daran, dass eine gute Tat eine gute Frucht hat? <!-- TODO: Fallback translation -->
 
 3\. 你们要向父亲展示内殿吗？
 
 4\. 你吟诵的是哪位诗人的赞歌？
 
-5\. Werdet ihr diese Früchte verkaufen?
+5\. Werdet ihr diese Früchte verkaufen? <!-- TODO: Fallback translation -->
 
 6\. 你命令了什么？
 

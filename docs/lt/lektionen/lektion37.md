@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 37
+# Pamoka 37
 
 ## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
 
@@ -34,20 +34,26 @@ Adverbial gebraucht werden kann der Akkusativ:
 
 *   von Substantiven
     Beispiele:  
-    ⟪कामम्⟫ "wunschgemäss, nach Wunsch"  
-    ⟪अर्थम्⟫ "wegen"
+::: indent
+⟪कामम्⟫ "wunschgemäss, nach Wunsch"
+⟪अर्थम्⟫ "wegen"
+:::
 
 *   von Adjektiven im Neutrum
     Beispiele:  
-    ⟪सुखम्⟫ "leicht, glücklich"  
-    ⟪नित्यम्⟫ "stets"  
-    ⟪साधु⟫ "richtig, gut"
+::: indent
+⟪सुखम्⟫ "leicht, glücklich"
+⟪नित्यम्⟫ "stets"
+⟪साधु⟫ "richtig, gut"
+:::
 
 *   von Pronomina im Neutrum
     Beispiele:  
-    ⟪तद्⟫ "dann, darum"  
-    ⟪यद्⟫ "wenn, dass"  
-    ⟪एतद्⟫ "so, hier, jetzt"
+::: indent
+⟪तद्⟫ "dann, darum"
+⟪यद्⟫ "wenn, dass"
+⟪एतद्⟫ "so, hier, jetzt"
+:::
 :::
 ### 37.2.2. Instrumentalis (⟪तृतीया⟫)
 
@@ -62,13 +68,17 @@ Adverbial gebraucht werden kann der Instrumentalis:
 
 *   von Substantiven
     Beispiele:  
-    ⟪अर्थेन⟫ "wegen"  
-    ⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")
+::: indent
+⟪अर्थेन⟫ "wegen"
+⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")
+:::
 
 *   von Adjektiven, oft auch in der Pluralform
     Beispiele:  
-    ⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")  
-    ⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)")
+::: indent
+⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")
+⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)")
+:::
 :::
 ### 37.2.3. Dativ (⟪चतुर्थी⟫)
 
@@ -103,8 +113,10 @@ Adverbial gebraucht werden kann der Ablativ:
 
 *   von Pronomina
     Beispiele:  
-    ⟪कस्मात्⟫ "warum"  
-    ⟪अकस्मात्⟫ "unerwartet"
+::: indent
+⟪कस्मात्⟫ "warum"
+⟪अकस्मात्⟫ "unerwartet"
+:::
 :::
 ### 37.2.5. Genetiv (⟪षष्ठी⟫)
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 17
+# Les 17
 
 ## 17.1. Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)
 

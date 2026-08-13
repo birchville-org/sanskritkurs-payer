@@ -216,7 +216,7 @@ B) Forme, para as seguintes raízes da 7ª classe, todas as 3ªs pessoas do sing
 
 ::: deleteme-box
 
-**lekt3101:** Representação de ioga. [Fonte da imagem: Flickr, 2008-12-25. CC BY]
+**lekt3101:** Representação de ioga. [Fonte da imagem: Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
 
 **lekt3102:** Preparação para a dança Kathakali, Kochi. [Fonte da imagem: winchrisabi. Flickr, 2008-12-25. CC BY]
 

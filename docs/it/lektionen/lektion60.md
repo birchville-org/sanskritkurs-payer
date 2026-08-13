@@ -359,16 +359,20 @@ Per le regole sull'uso della vocale di giunzione -i- si veda Kielhorn, Grammatik
 **Sulla reduplicazione:**
 
 1.  Radici con iniziale consonantica: la reduplicazione avviene sulle radici modificate secondo le regole precedenti, secondo le regole usuali. Al posto di a come vocale di reduplicazione appare però i:  
-    ⟪पा⟫ » ⟪पिपास⟫-  
-    ⟪त्यज्⟫ » ⟪तित्यज⟫-  
-    ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
-    La cerebralizzazione dopo i/u della -s finale della radice non avviene, se la s del suffisso desiderativo viene cerebraleizzata:  
-    ⟪स्मि⟫ » ⟪सिस्मयिष⟫-  
+::: indent
+⟪पा⟫ » ⟪पिपास⟫-
+⟪त्यज्⟫ » ⟪तित्यज⟫-
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-
+La cerebralizzazione dopo i/u della -s finale della radice non avviene, se la s del suffisso desiderativo viene cerebraleizzata:
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+:::
 
 2.  Le radici con iniziale vocalica vengono reduplicate secondo le regole corrispondenti per l'aoristo reduplicato ([Lezione 56](lektion56.md)):  
-    ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
-    ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-    ⟪ऋ⟫ » ⟪अरिरिष⟫-  
+::: indent
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
+⟪ऋ⟫ » ⟪अरिरिष⟫-
+:::
 
 3.  Per la formazione speciale del desiderativo di determinate radici si veda Kielhorn, Grammatik § 451.
 :::
@@ -406,7 +410,7 @@ Passivo: ⟪यियक्ष्यते⟫ "si desidera sacrificare"
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Futurooo: ⟪सेट्⟫**
+**Futuroooooo: ⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫

@@ -28,7 +28,7 @@ status: stable
 :::
 ## 48.2. Imperatiivin muodostus (⟪लोट्⟩) atemaattisten preesensvartojen varrella
 
-### 48.2.1. Imperatiivin päätökset atemaattisille preesensvarroille
+### 48.2.1. Imperatiivin päätökset atemaattisille preesensvarroille <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -48,7 +48,7 @@ Huom.: ¹ 2. ja 3.sg.p:n päätökset voidaan korvata -tāt:lla, jos halutaan il
 | **\-hi** | kaikki muut preesensvartalon muodot, jotka päättyvät vokaaliin tai puolivokaaliin (poikkeus: ⟪जुहुधि⟫ **⟪हु⟫ 3**) |
 | **\-dhi** | kaikki muut tapaukset |
 :::
-### 48.2.2. Preesensvartalon muoto
+### 48.2.2. Preesensvartalon muoto <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Vahva vartalo:**
@@ -152,12 +152,12 @@ Huom.: ¹ Selitys ⟪जहि⟫: katso Thumb-Hauschild I,2 s. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Kolmas preesensluokka (⟪जुहोत्यादि⟫)
+### 48.2.4. Kolmas preesensluokka (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Monikon 3.p. päättyy muotoon \-atu !**
 :::
-⟪हु⟫ 3P
+⟪हु⟫ 3P <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -169,7 +169,7 @@ Huom.: ¹ Selitys ⟪जहि⟫: katso Thumb-Hauschild I,2 s. 253
 
 Huom.: ¹ Dissimilaatio, joten kaksi peräkkäistä tavua ei voi sisältää ⟪ह्⟫.
 :::
-⟪धा⟫ 3U
+⟪धा⟫ 3U <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -191,14 +191,14 @@ Huom.: ¹ ⟪धेहि⟫ muodossa \*dhazdhi: indoeurooppalaisen kitinan z ka
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Nominaalijohdoksista: ⟪तद्धित⟩-liitteet -a ja -ya
+## 48.3. Nominaalijohdoksista: ⟪तद्धित⟩-liitteet -a ja -ya <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Liitteellä **-a** ja (harvemmin) **-ya** substantiivista voidaan johtaa toinen substantiivi. Tällöin alkuperäisen substantiivin ensimmäinen tavu saa pitkän asteen (⟪वृद्धि⟩). Jos alkuperäinen vartalo päättyy jo **-a**:n, ⟪वृद्धि⟩ on ainoa johdoksen merkki, koska vartalon pääte ei muutu.
 
 Johdetuilla sanoilla on merkitys:
 
-> "jokin yhteys siihen, mitä perussana tarkoittaa"
+> "jokin yhteys siihen, mitä perussana tarkoittaa" <!-- TODO: Fallback translation -->
 
 esim.
 
@@ -207,7 +207,7 @@ esim.
 
 Näin muodostetut sanat ovat adjektiiveja, mutta ne voidaan substantivoida, esim. patronyymiminä (nimenmuodostus isän mukaan: "N.N:n poika") tai abstrakteina (useimmiten neutreina).
 :::
-Esimerkkejä:
+Esimerkkejä: <!-- TODO: Fallback translation -->
 
 ::: indent
 | Perussana | Johtimellinen johdos |
@@ -228,18 +228,18 @@ Esimerkkejä:
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brEsimerkkejä siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **muut taivutusluokat:** | katso Wackernagel, Altind. Grammatik II,2 § 38 |
+| **muut taivutusluokat:** | katso Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
 
 Vartalon **-ya** edellä vartalonloppua käsitellään samalla tavalla kuin vartalonloppua ennen vartaloa **-a**.
 :::
 Esimerkit ks. yllä!
 
 ::: grammar-box
-**Nämä vartalon muodostavat -liitteet mahdollistavat myös yhdyssanoista johdosten muodostamisen.**
+**Nämä vartalon muodostavat -liitteet mahdollistavat myös yhdyssanoista johdosten muodostamisen.** <!-- TODO: Fallback translation -->
 
-esim. ⟪स्वश्व⟫ m. "joka, jonka hevoset ovat hyvät" ominaisnimi » ⟪सौवश्व⟫ m. "Svaśvan jälkeläinen"
+esim. ⟪स्वश्व⟫ m. "joka, jonka hevoset ovat hyvät" ominaisnimi » ⟪सौवश्व⟫ m. "Svaśvan jälkeläinen" <!-- TODO: Fallback translation -->
 
-**Yhdyssanoissa, joissa sandhin seurauksena edellisen osan lopussa oleva -i tai -u korvautuu v-yllä tai v-v:llä ja näin edeltävät perussanan ensimmäistä vokaalia (esim. yhdyssanat, joissa on ni-, vi-, su-), ⟪वृद्धि⟫ muodostetaan niin kuin siinä olisi -iy tai -uv.**
+**Yhdyssanoissa, joissa sandhin seurauksena edellisen osan lopussa oleva -i tai -u korvautuu v-yllä tai v-v:llä ja näin edeltävät perussanan ensimmäistä vokaalia (esim. yhdyssanat, joissa on ni-, vi-, su-), ⟪वृद्धि⟫ muodostetaan niin kuin siinä olisi -iy tai -uv.** <!-- TODO: Fallback translation -->
 
 z.B. ⟪व्याघ्र⟫ m. "Tiger" » ⟪वैयाघ्र⟫ 3 "von einem Tiger stammend, zu einem Tiger gehörend"
 :::
@@ -248,24 +248,24 @@ z.B. ⟪व्याघ्र⟫ m. "Tiger" » ⟪वैयाघ्र⟫ 3 "vo
 Kuva: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4801))
 :::
-## 48.4. Sanalista
+## 48.4. Sanalista <!-- TODO: Fallback translation -->
 
 ⟪श्वस्⟫ : aamulla
 
 ⟪अद्य⟫ : tänään
 
-⟪लघु⟫ 3: kevyt (ei raskas, ei vaikea), nopea, lyhyt (ilmaisussa)
+⟪लघु⟫ 3: kevyt (ei raskas, ei vaikea), nopea, lyhyt (ilmaisussa) <!-- TODO: Fallback translation -->
 
 ⟪व्याकरण⟫ n.: kielioppi (sanaan ⟪व्याकृ⟫ liittyen)
 
-⟪तन्त्र⟫ n.: kieli ; kangas, kude, kankere; perusta, normi, sääntö; opetus, oppikirja; tantra; mantrakeino; väline, temppu, lääke; hallinto, valta
+⟪तन्त्र⟫ n.: kieli ; kangas, kude, kankere; perusta, normi, sääntö; opetus, oppikirja; tantra; mantrakeino; väline, temppu, lääke; hallinto, valta <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4802.webp)
 Kuv.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt4802))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4803.webp)
@@ -273,7 +273,7 @@ Kuv.: ⟪तन्त्री⟫
 Sitarinsoittaja = ⟪सितारवादकः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: nainen, vaimo ; feminiinimuoto
+⟪स्त्री⟫ f.: nainen, vaimo ; feminiinimuoto <!-- TODO: Fallback translation -->
 
 Deklinointi:
 
@@ -307,7 +307,7 @@ Kuva: ⟪कुमारः⟫
 Thaipusam-festivaali = தைப்பூசம், Batu Caves, Malesia
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: tyttö, tytär
+⟪कुमारी⟫ f.: tyttö, tytär <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -315,7 +315,7 @@ Kuva: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: lapsuus
+⟪कौमर⟫ n.: lapsuus <!-- TODO: Fallback translation -->
 
 ⟪यौवन⟫ n.: nuoruus
 
@@ -327,7 +327,7 @@ Kuva: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (korkea) ikä
+⟪स्थाविर⟫ n.: (korkea) ikä <!-- TODO: Fallback translation -->
 
 ⟪वाच्य⟫ 3: myös: moitittava
 
@@ -339,13 +339,13 @@ Kuva: ⟪सूक्ष्मम्⟫
 Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4808))
 :::
-⟪प्रसङ्ग⟫ m.: kiinnittyminen, taipumus ; tilaisuus
+⟪प्रसङ्ग⟫ m.: kiinnittyminen, taipumus ; tilaisuus <!-- TODO: Fallback translation -->
 
 ⟪विशेष⟫ m.: ero, erityispiirre
 
 ⟪प्रसूति⟫ f.: synty, jälkeläisyys
 
-⟪चरित्र⟫ n.: tapa, käytäntö, totuusoikeus; elämäntapa
+⟪चरित्र⟫ n.: tapa, käytäntö, totuusoikeus; elämäntapa <!-- TODO: Fallback translation -->
 
 ⟪जाया⟫ f.: vaimo
 
@@ -355,11 +355,11 @@ Kuva: ⟪मम⟫ ⟪जाया⟫
 (Kuva: Payer)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4809))
 :::
-## 48.5. Harjoitus
+## 48.5. Harjoitus <!-- TODO: Fallback translation -->
 
-A) Käännä ⟪सुभाषितानि⟫ oppitunnin alussa.
+A) Käännä ⟪सुभाषितानि⟫ oppitunnin alussa. <!-- TODO: Fallback translation -->
 
-B) Käännä sanskritiksi (käytä imperatiivia ja mahdollisimman paljon 2. ja 3. preesensluokan verbijuuria):
+B) Käännä sanskritiksi (käytä imperatiivia ja mahdollisimman paljon 2. ja 3. preesensluokan verbijuuria): <!-- TODO: Fallback translation -->
 
 1. Kun olet saanut pojan, jätä perhe!
 2. Purun jälkeläiset, pelkää niitä, jotka ovat tehneet pahaa!
@@ -380,9 +380,9 @@ B) Käännä sanskritiksi (käytä imperatiivia ja mahdollisimman paljon 2. ja 3
 17. König, hüte den Dharma und die Leute. -> Kuninkaan tulee suojella dharmaa ja kansaa.
 18. Lehre die Schüler den Veda! -> Opetta koululaisille Veda!
 19. Er soll neue Kleider anziehen. -> Hänen tulee pukea uudet vaatteet.
-20. Ehemänner sollen ihre Gattinnen erhalten (i. S. v. Unterhalt). -> Miesten tulee ylläpitää heidän puolisoitaan (ts. elatus).
+20. Ehemänner sollen ihre Gattinnen erhalten (i. S. v. Unterhalt). -> Miesten tulee ylläpitää heidän puolisoitaan (ts. elatus). <!-- TODO: Fallback translation -->
 
-## 48.6. Käännösharjoitus
+## 48.6. Käännösharjoitus <!-- TODO: Fallback translation -->
 
 ⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
 
@@ -407,21 +407,21 @@ Selitys:
 
 ::: deleteme-box
 
-**lekt4801:** [Kuv lähde: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Haettu 10.1.2009. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, sama lisenssi)]
+**lekt4801:** [Kuv lähde: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Haettu 10.1.2009. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
 
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Kuv lähde: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Haettu 10.1.2009. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, sama lisenssi)]
+**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Kuv lähde: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Haettu 10.1.2009. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
 
-**lekt4803:** Sitarinsoittaja = ⟪सितारवादकः⟫ [Kuv lähde: Wikipedia. Julkinen omaisuus]
+**lekt4803:** Sitarinsoittaja = ⟪सितारवादकः⟫ [Kuv lähde: Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
 
-**lekt4804:** [Itse avustava ryhmä (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Kuv lähde: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Haettu 10.1.2009. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä)]
+**lekt4804:** [Itse avustava ryhmä (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Kuv lähde: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Haettu 10.1.2009. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
 
-**lekt4805:** Thaipusam-juhla = தைப்பூசம், Batu Caves, Malesia [Kuvälähde: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Viitattu 2009-01-10. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimikehitys)]
+**lekt4805:** Thaipusam-juhla = தைப்பூசம், Batu Caves, Malesia [Kuvälähde: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Viitattu 2009-01-10. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimikehitys)] <!-- TODO: Fallback translation -->
 
-**lekt4806:** ⟪नेपाल⟫ [Kuvälähde: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Viitattu 2009-01-10. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimikehitys, ei kaupallista käyttöä, ei muokkauksia)]
+**lekt4806:** ⟪नेपाल⟫ [Kuvälähde: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Viitattu 2009-01-10. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimikehitys, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
 
-**lekt4807:** ⟪जोधपुर⟫ [Kuvälähde: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Viitattu 2009-01-10. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimikehitys, ei kaupallista käyttöä, ei muokkauksia)]
+**lekt4807:** ⟪जोधपुर⟫ [Kuvälähde: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Viitattu 2009-01-10. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimikehitys, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
 
-**lekt4808:** Karanji-järvi = ಕಾರಂಜಿ ಕೆರೆ [Kuvälähde: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Viitattu 2009-01-10. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Nimikehitys, sama lisenssi)]
+**lekt4808:** Karanji-järvi = ಕಾರಂಜಿ ಕೆರೆ [Kuvälähde: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Viitattu 2009-01-10. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Nimikehitys, sama lisenssi)] <!-- TODO: Fallback translation -->
 
 **lekt4809:** (Kuva: Payer)
 :::

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 59
+# Lekcija 59
 
 ## 59.1. Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)
 

@@ -90,7 +90,7 @@ din care:
 
 ⟪निरोध⟫ m.: oprire, aducere la oprire
 
-* **bhūta n.** (⟪भूत⟫) (PPP la bhū): ființă, fantomă
+* **bhūta n.** (⟪भूत⟫) (PPP la bhū): ființă, fantomă <!-- TODO: Fallback translation -->
 
 ⟪योग⟫ m.: legare, conexiune, unire, dobândire; Yoga
 
@@ -116,7 +116,7 @@ Fig.: ⟪अहिंसा⟫
 „Mâna cu un roată pe palmă simbolizează jurământul Jain al Ahimsa. Cuvântul din mijloc este „ahimsa”. Roata reprezintă dharmacakra, care stă pentru rezoluția de a opri ciclul reîncarnării prin urmărirea neobosită a adevărului și non-violeței.”
 (Sursă imagine: [Detalii](/ro/licenses#lekt1603))
 :::
-## 16.3. Exercițiu
+## 16.3. Exercițiu <!-- TODO: Fallback translation -->
 
 A) Transformați următoarele expresii în Tatpuruṣa și traduceți-le:
 
@@ -150,7 +150,7 @@ Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫
 
-B) Rezolvați următoarele propoziții descompunând compusele în sanscrită, formând astfel propoziții cu substantive flexionate și traduceți:
+B) Rezolvați următoarele propoziții descompunând compusele în sanscrită, formând astfel propoziții cu substantive flexionate și traduceți: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 
@@ -234,7 +234,7 @@ Explicații;
 
 Propoziția 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Acuz.: Dvandva, care denumește două "lucruri"
 
-Propoziția 8: ⟪कर्म⟫ Nom., Acuz. sg. Neutru la ⟪कर्मन्⟫ "faptă"
+Propoziția 8: ⟪कर्म⟫ Nom., Acuz. sg. Neutru la ⟪कर्मन्⟫ "faptă" <!-- TODO: Fallback translation -->
 
 Propoziția 13: ⟪सर्वेषाम्⟫ Gen. pl. masc. la ⟪सर्व⟫ "fiecare, toți" (pronume, nu se declină ca deva)
 :::

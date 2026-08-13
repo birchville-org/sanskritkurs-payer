@@ -220,7 +220,7 @@ Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 
 ⟪पितृ⟫ m.: Padre
 
-⟪पितृ⟫ m. Pluraleee: gli antenati maschi defunti, cioè:
+⟪पितृ⟫ m. Pluraleeeeee: gli antenati maschi defunti, cioè:
 
 1.  Padre, Nonno, Grande nonno
 2.  gli antenati dell'umanità
@@ -363,7 +363,7 @@ Fig.: ⟪रावणः⟫
 
 :sig[⟪विश्वामित्र⟫] m. Nome proprio: ⟪ऋषि⟫, si mise ⟪राम⟫ e ⟪लक्ष्मन⟫ per uccidere i demoni; per questo i due ricevono da lui armi magiche.
 
-⟪सीतारामयोस्⟫ Gen.Loc.Dualee a ⟪सीताराम⟫
+⟪सीतारामयोस्⟫ Gen.Loc.Dualeeeee a ⟪सीताराम⟫
 
 ::: deleteme-box
 

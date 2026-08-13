@@ -96,7 +96,7 @@ status: stable
 
 **dargestellt werden soll.**
 :::
-Beispiel:
+Beispiel: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = “如果他离开村庄，他就听不到老师的话”
@@ -226,7 +226,8 @@ Examples:
 | **第三人称：brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 

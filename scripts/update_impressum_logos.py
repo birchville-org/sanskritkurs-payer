@@ -3,7 +3,7 @@ import re
 
 cc_button_regex = r'\[!\[CC BY-SA 4\.0\]\(https://licensebuttons\.net/l/by-sa/4\.0/80x15\.png\)\]\(https://creativecommons\.org/licenses/by-sa/4\.0/\)\s*'
 
-github_logo_html = ' [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)'
+github_logo_html = ' [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/birchville-org/sanskritkurs-payer)'
 birchville_logo_html = ' [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)'
 
 updated_files = 0
@@ -15,7 +15,7 @@ for filepath in glob.glob('/Volumes/SanDisk1TB/proj/Payer/docs/**/impressum.md',
     content = re.sub(cc_button_regex, '', content)
 
     # 2. Clean previous github & birchville logo injections to re-inject cleanly
-    content = re.sub(r'\s*\[<img src="/images/github\.svg"[^>]*>\]\(https://github\.com/marcodem/sanskritkurs-payer\)', '', content)
+    content = re.sub(r'\s*\[<img src="/images/github\.svg"[^>]*>\]\(https://github\.com/(?:marcodem|birchville-org)/sanskritkurs-payer\)', '', content)
     content = re.sub(r'\s*\[<img src="/birchville_logo\.png"[^>]*>\]\(https://birchville\.cc\)', '', content)
 
     # 3. Inject GitHub logo with exactly 1 space behind MIT License link

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 16
+# Lekcija 16
 
 ## 16.1. Zum Sandhi auslautender Konsonanten
 

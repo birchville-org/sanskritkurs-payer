@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 41
+# ⲙⲁⲑⲏⲙⲁ 41
 
 ## 41.1. ⲥⲩⲃⲁϣⲓⲧⲉ (ⲥⲛⲁⲩ ⲛ̀ⲡⲣⲟⲃⲉⲣⲃⲓⲁ)
 

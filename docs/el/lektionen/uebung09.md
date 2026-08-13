@@ -32,7 +32,7 @@ last_reconstructed: 2026-05-15
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 (μόλις) προερχόμενο από την υφή ή τον αργαλειό = πρόσφατα υφαντό
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : χορευτής
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : χορευτής <!-- TODO: Fallback translation -->
 
 12\. naraka ⟪नरक⟫ : m. κόλαση
 
@@ -60,33 +60,33 @@ ijyādhyayanadānāni ⟪इज्याध्ययनदानानि�
 
 (Yājñavalkyadharmaśāstra I, 118)
 
-Opfer, Vedastudium, Gaben geben.
+Opfer, Vedastudium, Gaben geben. <!-- TODO: Fallback translation -->
 
-2\. Spezifische Aufgaben eines Brahmanen:
+2\. Spezifische Aufgaben eines Brahmanen: <!-- TODO: Fallback translation -->
 
 pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 
 (Gautamadharmasūtra X,2)
 
-Lehren, Opfern im Auftrag, Annahme von Gaben.
+Lehren, Opfern im Auftrag, Annahme von Gaben. <!-- TODO: Fallback translation -->
 
-3\. Spezifische Aufgaben eines Kṣatriya:
+3\. Spezifische Aufgaben eines Kṣatriya: <!-- TODO: Fallback translation -->
 
 rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genetiv (Wesfall): "aller Wesen")
+(sarvabhūtānām = Genetiv (Wesfall): "aller Wesen") <!-- TODO: Fallback translation -->
 
 (Gautamadharmasūtra X,7)
 
 Hüten aller Wesen.
 
-4\. Spezifische Aufgaben eines Vaiśya:
+4\. Spezifische Aufgaben eines Vaiśya: <!-- TODO: Fallback translation -->
 
 kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 
 (nach Gautamadharmasūtra X,49)
 
-Ackerbau, Handel, Viehhaltung und Geldleihe.
+Ackerbau, Handel, Viehhaltung und Geldleihe. <!-- TODO: Fallback translation -->
 
 5\. Aufgaben eines Śūdra:
 
@@ -95,17 +95,17 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्वि�
 (nach Kauṭilīya-arthaśāstra 1.3.8.)
 
 Erklärung:
-dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen")
+dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen") <!-- TODO: Fallback translation -->
 
-kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten). <!-- TODO: Fallback translation -->
 
-Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tätigkeit als Handwerker bzw. wandernde Schausteller.
+Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tätigkeit als Handwerker bzw. wandernde Schausteller. <!-- TODO: Fallback translation -->
 
 6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫
 
 (nach Kauṭilīya-arthaśāstra 1.4.1.)
 
-Ökonomie ist Ackerbau, Viehhaltung und Handel.
+Ökonomie ist Ackerbau, Viehhaltung und Handel. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung013.webp)

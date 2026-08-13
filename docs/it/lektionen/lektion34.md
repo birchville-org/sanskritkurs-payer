@@ -159,7 +159,7 @@ Esempi:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ## 34.5. Tipo II del Perfetto: Radice forte in grado alto, radice debole in grado basso
@@ -320,7 +320,7 @@ Spiegazioni:
 
 **:sig[⟪सप्त⟫]** sette
 
-**⟪जन्म⟫** Nominativooo/Accusativo singolare di **⟪जन्मन्⟫ n.** nascita
+**⟪जन्म⟫** Nominativoooooo/Accusativo singolare di **⟪जन्मन्⟫ n.** nascita
 
 **⟪सर्व⟫ 3** "tutti, intero" (declinato secondo la declinazione pronominal)
 :::

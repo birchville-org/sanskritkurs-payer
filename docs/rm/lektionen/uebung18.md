@@ -1,25 +1,26 @@
 ---
-title: "Esercitaziun 18"
+title: "Exercizi 18"
 uebung_id: 18
-category: "Esercitaziun"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lecziun 18
+# Exercizi 18
 
-A) Traduscha il ⟪सुभाषित⟩ al cumenzament da la lecziun.
+A) Tradusci il ⟪सुभाषित⟩ al cumenzament da la lecziun.
 
-⟪नास्ति⟩ ⟪कामसमो⟩ ⟪व्याधिर्⟩  
-⟪नास्ति⟩ ⟪मोहसमो⟩ ⟪रिपुः⟩ ⟪।⟩  
-⟪नास्ति⟩ ⟪क्रोधसमो⟩ ⟪वह्निर्⟩  
-⟪नास्ति⟩ ⟪ज्ञानसमं⟩ ⟪सुखम्⟩ ⟪॥⟩  
-Na dat nagina malsogna sco l'amur,  
-Na dat in ingiuriader ed inimis sco la confusiun,  
-Na dat in fieu sco la collera,  
-Na dat la feliçitad sco la cognientscha.
+⟪नास्ति⟩ ⟪कामसमो⟩ ⟪व्याधिर्⟩
+⟪नास्ति⟩ ⟪मोहसमो⟩ ⟪रिपुः⟩ ⟪।⟩
+⟪नास्ति⟩ ⟪क्रोधसमो⟩ ⟪वह्निर्⟩
+⟪नास्ति⟩ ⟪ज्ञानसमं⟩ ⟪सुखम्⟩ ⟪॥⟩
+Na dat nagina malsogna sco l'amur,
+na dat in fraudader ed inimis sco la confusiun (avidyā),
+na dat in fieu sco l'ira,
+na dat la sagescha sco la cogniziun.
 
-B) Traduscha suenter ils Tatpuruṣa:
+B) Tradusci suandants Tatpuruṣa:
 
 ⟪१⟩. ⟪सुकर⟩ ⟪३⟩ — facil da far
 
@@ -29,7 +30,7 @@ B) Traduscha suenter ils Tatpuruṣa:
 
 ⟪४⟩. ⟪अकरण⟩ n. — na-far
 
-⟪५⟩. ⟪दुरिष्ट⟩ n. — malvagi desideri
+⟪५⟩. ⟪दुरिष्ट⟩ n. — malgiv volim
 
 ⟪६⟩. ⟪दुरिष्टि⟩ f. — sacrifici cun errurs
 
@@ -39,13 +40,13 @@ B) Traduscha suenter ils Tatpuruṣa:
 
 ⟪९⟩. ⟪दुर्जय⟩ 3 — difficil da sconfiger
 
-⟪१०⟩. ⟪सुगत⟩ m. — bun (tras las renascientschas) andà (= Buddha)
+⟪१०⟩. ⟪सुगत⟩ m. — bun (tranter las renascients) andà (= Buddha)
 
 ⟪११⟩. ⟪सुजन⟩ m. — bun uman
 
 ⟪१२⟩. ⟪दुरुक्ति⟩ f. — dur parlar
 
-⟪१३⟩. ⟪दुरुपदेश⟩ m. — malvagi instructiun
+⟪१३⟩. ⟪दुरुपदेश⟩ m. — malgiva instrucziun
 
 ⟪१४⟩. ⟪सुजात⟩ 3 — ben naschì
 
@@ -53,23 +54,23 @@ B) Traduscha suenter ils Tatpuruṣa:
 
 ⟪१६⟩. ⟪अनाप्त⟩ 3 — inadegiuà
 
-⟪१७⟩. ⟪अनीति⟩ f. — comportament inapropià
+⟪१७⟩. ⟪अनीति⟩ f. — cumportament inapproprià
 
-⟪१८⟩. ⟪अनीश्वरत्व⟩ n. — na-SEGNUR-esser
+⟪१८⟩. ⟪अनीश्वरत्व⟩ n. — na-ESSER-SIGNUR
 
-⟪१९⟩. ⟪सुदुःख⟩ n. — grond suferiment
+⟪१९⟩. ⟪सुदुःख⟩ n. — grond dolur
 
-⟪२०⟩. ⟪दुर्जन⟩ m. — malvagi uman
+⟪२०⟩. ⟪दुर्जन⟩ m. — malgiv uman
 
-⟪२१⟩. ⟪दुर्दग्ध⟩ 3 — mal brischà
+⟪२१⟩. ⟪दुर्दग्ध⟩ 3 — mal brisgà
 
 ⟪२२⟩. ⟪अतिकृत⟩ 3 — excessiv
 
 ⟪२३⟩. ⟪सुपुत्र⟩ m. — bun figl
 
-⟪२४⟩. ⟪सुबुद्धि⟩ f. — buna perspicacia
+⟪२४⟩. ⟪सुबुद्धि⟩ f. — buna perscrutaziun
 
-⟪२५⟩. ⟪दुष्पुत्र⟩ m. — malvagi figl
+⟪२५⟩. ⟪दुष्पुत्र⟩ m. — malgiv figl
 
 ⟪२६⟩. ⟪दुष्प्रणीत⟩ 3 — mal executà
 
@@ -79,70 +80,71 @@ B) Traduscha suenter ils Tatpuruṣa:
 
 ⟪२९⟩. ⟪दुर्वच⟩ 3 — difficil da dir
 
-⟪३०⟩. ⟪दुर्वचन⟩ n. — malvagi parlar
+⟪३०⟩. ⟪दुर्वचन⟩ n. — malgiv parlar
 
-⟪३१⟩. ⟪अमृत⟩ n. — immortalitad, nutriment immortal, bevanda immortal
+⟪३१⟩. ⟪अमृत⟩ n. — immortalitad, nutriment d'immortalitad, bevanda d'immortalitad
 
 ::: media
 ![](/images/uebung027.jpg)
-Abb.: ⟪नास्ति⟩ ⟪कामसमो⟩ ⟪व्याधिः⟩
-(Bildquelle: [Detagls](/licenses#uebung027))
+Fig.: ⟪नास्ति⟩ ⟪कामसमो⟩ ⟪व्याधिः⟩
+(Sursa da l'imagina: [Detagls](/licenses#uebung027))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Esercitaziuns addiziunalas
+## Exercizis supplements
 
-A) Resolv suenter ils cumponiments en Sanscrit e dat suggeriments da traducziun:
+A) Resolv suandants composts en Sanscrit e donai suggeriments da traducziun:
 
 ⟪१⟩. ⟪अन्तगत⟩ ⟪३⟩ ⟪।⟩ ⟪अन्तं⟩ ⟪गतः⟩ ⟪।⟩ — finì, gramatica: final
 
-⟪२⟩. ⟪क्षमाकर⟩ ⟪३।⟩ ⟪क्षमा⟩-⟪करः⟩ ⟪।⟩ — in umen che è pazient, acziun pazienta
+⟪२⟩. ⟪क्षमाकर⟩ ⟪३।⟩ ⟪क्षमा⟩-⟪करः⟩ ⟪।⟩ — in um che è pazient, acziun pazienta
 
-⟪३⟩. ⟪क्षेमेन्द्र⟩ m.⟪।⟩ ⟪क्षेमस्येन्द्रः⟩ ⟪।⟩ — Segnur da la pasch / dal benesser / da la pasch
+⟪३⟩. ⟪क्षेमेन्द्र⟩ m.⟪।⟩ ⟪क्षेमस्येन्द्रः⟩ ⟪।⟩ — Signur da la pasch / dal benesser / da la pax
 
-⟪४⟩. ⟪शस्त्रकोपनिरोध⟩ m. ⟪।⟩ ⟪शस्त्राणां⟩ ⟪कोपस्य⟩ ⟪निरोधः⟩ ⟪।⟩ — fermar la collera cun la spada = fermar la battaglia
+⟪४⟩. ⟪शस्त्रकोपनिरोध⟩ m. ⟪।⟩ ⟪शस्त्राणां⟩ ⟪कोपस्य⟩ ⟪निरोधः⟩ ⟪।⟩ — fermar l'ira cun la spada = fermar il combat
 
-⟪५⟩. ⟪सिंहसंहनन⟩ n.⟪।⟩ ⟪सिंहस्य⟩ ⟪संहननम्⟩ ⟪।⟩ — uccider in / plirs lions, uccider tras in / plirs lions
+⟪५⟩. ⟪सिंहसंहनन⟩ n.⟪।⟩ ⟪सिंहस्य⟩ ⟪संहननम्⟩ ⟪।⟩ — uccider in / plirs leuns, uccider tras in / plirs leuns
 
-⟪६⟩. ⟪अरिसिंह⟩ m. ⟪।⟩ ⟪सिंह⟩ ⟪इव⟩ ⟪अरिः⟩ ⟪।⟩ — inimis sco in lion
+⟪६⟩. ⟪अरिसिंह⟩ m. ⟪।⟩ ⟪सिंह⟩ ⟪इव⟩ ⟪अरिः⟩ ⟪।⟩ — inimis sco in leun
 
 ⟪७⟩. ⟪आहारनिद्राभय⟩ n. ⟪।⟩ ⟪आहारो⟩ ⟪निद्रा⟩ ⟪भयं⟩ ⟪च⟩ ⟪।⟩ — mangiar, durmir e tema
 
-⟪८⟩. ⟪मृतिसाधनी⟩ f. ⟪।⟩ ⟪मृतेः⟩ ⟪साधनी⟩ ⟪।⟩ — che fa la mort
+⟪८⟩. ⟪मृतिसाधनी⟩ f. ⟪।⟩ ⟪मृतेः⟩ ⟪साधनी⟩ ⟪।⟩ — che procuras la mort
 
-⟪९⟩. ⟪कुलोपदेश⟩ m. ⟪।⟩ ⟪कुलस्योपदेशः⟩ ⟪।⟩ — num da famiglia (inditg sin la famiglia)
+⟪९⟩. ⟪कुलोपदेश⟩ m. ⟪।⟩ ⟪कुलस्योपदेशः⟩ ⟪।⟩ — num da famiglia (inditgescha la famiglia) <!-- TODO: Fallback translation -->
 
-B) Traduscha sut utilizaziun da verbs da la 2. classa da prezens:
+B) Tradusci sut utilizaziun da verbs da la 2. classa da prezens:
 
 1\. Il Brahman lauda las deessas.
 ⟪ब्राह्मणो⟩ ⟪देवीः⟩ ⟪स्तौति⟩ ⟪।⟩ (u: ⟪स्तवीति⟩ ⟪।⟩)
 
-2\. Ils erois van sin il via difficil al vitg dals Aryas.
+2\. Ils erois van sin il via difficil al vitg dals Arier.
 ⟪शूरा⟩ ⟪दुर्गमेण⟩ ⟪मार्गेणार्यग्रामं⟩ ⟪यन्ति⟩ ⟪।⟩
 
-3\. La servienta da chasa munta las vuschas.
+3\. La serventa da chasa munta las muallas.
 ⟪गृहदासी⟩ ⟪धेनूर्दोग्धि⟩ ⟪।⟩
 
-4\. Ils inimis dals Arians sglatschan ils Kṣatriyas pussants.
-⟪आर्यारयो⟫ ⟪बलवत्क्षत्रियान्घन्ति⟫ ⟪।⟫ (u: ⟪आर्यशत्रवो⟫...)
+4\. Ils inimis dals Arier sconfigeschan ils Kṣatriyas pussants.
+⟪आर्यारयो⟩ ⟪बलवत्क्षत्रियान्घन्ति⟩ ⟪।⟩ (u: ⟪आर्यशत्रवो⟩...) <!-- TODO: Fallback translation -->
 
-5\. In spiert mangia naginas fructas.
+5. In gieuist mangia nagins.
 ⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫
 
-6\. Uschia discurra quel che ha [passà bain il via per las reincarnaziuns] al dischipel.
+6. Uschia discha quel, che [ha bain fatg il viadi tras las reinkarnaziuns] al dischipel.
 ⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟫ (u: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫)
 
-C) Donai en sanscrit la defiziun da Yoga en dus modas: ina cun in cumpositum, l’autra dissolvend il cumpositum.
+C) Donai en sanscrit la definitiun da Yoga en dus modus: ina giada cun l’usi d’in cumpositum, ina giada schevond il cumpositum.
 
 ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪।⟫ (⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ ⟪।⟫)
 
-D) Traduci:
+D) Traduschai:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
-Dover da tut è: nonviolenza, veridicitad, puritad, betg plazzar sin il destin, esser liber da malvagità e pazienza toleranta.
+Il dover da tut è: nonviolenza, veridicitad, purezza, betg lamentar davart il destin, esser liber da malitad e pazienza toleranta.
 
 ::: media
 ![](/images/uebung028.webp)
 Abb.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
-(Sursa da l’imaginescha: [Detagls](/licenses#uebung028))
+(Font dal maletg: [Detagls](/licenses#uebung028))
 :::
+ <!-- TODO: Fallback translation -->

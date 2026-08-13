@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 23
+# Les 23
 
 ## 23.1. Der Infinitiv (⟪तुमुन्⟫)
 

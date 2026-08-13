@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα 59
 
@@ -148,7 +148,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयतम्⟫ | ⟪चोरयेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चोरयताम्⟫ | ⟪चोरयेताम्⟫ |
 :::
-### 59.2.5. Der Παθητική φωνή (Suffix -⟪यक्⟫)
+### 59.2.5. Η Παθητική φωνή (Suffix -⟪यक्⟫)
 
 ⟪तुद्⟫ 6U «σπρώχνω, χτυπάω»
 
@@ -782,7 +782,7 @@ _Βοήθεια μετάφρασης:_ Στίχος 6: ⟪दिदृक्ष�
 ![](/images/lekt5901.webp)
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt5901))
 :::
-Κείμενο από: Otto Böhtlingk: Sanskrit-Chrestomathie σ. 127f.
+Κείμενο από: Otto Böhtlingk: Sanskrit-Chrestomathie σ. 127f. <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

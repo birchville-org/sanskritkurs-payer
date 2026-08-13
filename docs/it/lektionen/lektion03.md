@@ -17,9 +17,9 @@ status: stable
 - il sandha vocalico
 - Sandhi di frase di -ās
 :::
-## 3.1. Nominativooo singolare del femminile
+## 3.1. Nominativoooooo singolare del femminile
 
-### 3.1.1. Nominativooo singolare in -s
+### 3.1.1. Nominativoooooo singolare in -s
 
 Anche le seguenti radici nominali, che terminano con una vocale, formano il nominativo singolare in **-s**:
 
@@ -27,7 +27,7 @@ Anche le seguenti radici nominali, che terminano con una vocale, formano il nomi
 - **Femminili in -i**: es. **śruti** f. "l'ascolto" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Femminili in -u**: es. **dhenu** f. "mucca da latte" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativooo singolare senza desinenza
+### 3.1.2. Nominativoooooo singolare senza desinenza
 
 Il nominativo singolare si forma senza desinenza:
 
@@ -51,10 +51,10 @@ Il nominativo singolare si forma senza desinenza:
   (**-u-** diventa **-v-** davanti a vocale, quindi **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativooo plurale maschile e femminile
+## 3.3. Nominativoooooo plurale maschile e femminile
 
 ::: grammar-box
-La desinenza del Nominativooo plurale nel maschile e femminile è **-as**.
+La desinenza del Nominativoooooo plurale nel maschile e femminile è **-as**.
 - **Maschili in -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
 - **Femminili in -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
 - **Maschili in -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
@@ -76,7 +76,7 @@ Nota: **e** è il grado pieno (**guṇa**) di **i**, **o** è il grado pieno di 
 :::
 ad esempio
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā è una divinità" = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā è una divinità" = ⟪देवतान्नपूर्णा⟫ &lt;!-- TODO: Fallback translation --&gt;
 
 > (Annapūrṇā è la dea del cibo e della cucina, è considerata un'incarnazione di Pārvatī, la consorte di Śiva.)
 
@@ -127,7 +127,7 @@ ad esempio
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-ad esempio
+ad esempio &lt;!-- TODO: Fallback translation --&gt;
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "I Vaiśya sono i due volte nati" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

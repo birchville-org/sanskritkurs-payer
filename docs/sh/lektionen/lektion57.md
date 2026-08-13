@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 57
+# Lekcija 57
 
 ## 57.1. Aorist 4: s-Aorist
 
@@ -141,10 +141,14 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (im P hat ⟪गम्⟫ den themavokalischen Aorist)**
 
 2.  ⟪पद्⟫ 4Ā ist regelmässig (z.B. ⟪अपत्सि⟫), in der 3.sg.Ā hat es aber die Form des passivischen Wurzelaorist:
-    ⟪अपादि⟫ "er ging"
+::: indent
+⟪अपादि⟫ "er ging"
+:::
 
 3.  ⟪बुध्⟫ Ā kann in der 3.sg.Ā wahlweise die Form des passiven Wurzelaorists annehmen:
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "er erkannte"
+::: indent
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "er erkannte"
+:::
 :::
 ## 57.2. Übung
 

@@ -42,7 +42,7 @@ status: stable
 > الم. جمع ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
 > إلخ.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. المركبات التحديدية مع جزء أمامي وصفي / بدلي = كارمادهارايا مذكر = कर्मधारय
@@ -71,16 +71,19 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   إذا عبر كرمادهارايًا عن مقارنة، فإن ما يُقارَن به يأتي في الجزء الخلفي من المركب:
 
-⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "رجل مثل الأسد"  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "رجل مثل النمر"
+::: indent
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "رجل مثل النمر"
+:::
 
 *   إذا كان كارماذارايًا يعبر عن إضافة (تحديد أقرب للجزء الخلفي باسم)، فإن المحدد الأقرب يكون في الجزء الأمامي، كما تتطلب القاعدة العامة لترتيب الأجزاء في تاتبوروشا:
 
+::: indent
 يمكن أيضًا تحليل ⟨⟪नरसिंहः⟫⟩ على النحو التالي: ⟨⟪नर⟫⟩ ⟨⟪एव⟫⟩ ⟨⟪सिंहः⟫⟩ = "أسد، وهو (في الواقع) رجل."
+:::
 
 يتم حل مثل هذه الكرمادهارايا التفسيرية في التعليقات المحلية، كما في المثال أعلاه، عبر ⟪एव⟫.
 

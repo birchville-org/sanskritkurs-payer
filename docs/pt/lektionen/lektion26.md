@@ -5,7 +5,7 @@ lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 26
 
@@ -87,7 +87,7 @@ p. ex. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫
 Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt2602))
 :::
-## 26.7. Formação do futuro simples (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 26.7. Formação do futuro simples (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Futuro Simples:**

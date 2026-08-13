@@ -97,7 +97,7 @@ Exemplos:
 Fig.: ⟪सीमा⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3803))
 :::
-### 38.3.2. Substantivos em -man ou -van após consoante
+### 38.3.2. Substantivos em -man ou -van após consoante <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 *   Starker Stamm: -mān, -vān
@@ -197,13 +197,13 @@ Exemplo:
 Fig.: ⟪हस्ती⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : aquele que tem mãos (humanas)
+⟪हस्तवन्त्⟫ : aquele que tem mãos (humanas) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3807.webp)
 Fig.: ⟪हस्तवान्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3807))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Adjetivos em **-⟪इन्⟫** são frequentemente formados em compostos.
@@ -287,14 +287,14 @@ Exemplo:
 Fig.: ⟪सूर्यः⟫
 (Fonte da imagem: [Details](/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: água
+⟪उदक⟫ n.: água <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3805.webp)
 Fig.: ⟪उदकम्⟫
 (Fonte da imagem: [Details](/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : soprar, assoprar
+⟪वा⟫ 2P ⟪वाति⟫ : soprar, assoprar <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪वास्यति⟫
@@ -399,7 +399,7 @@ dele:
 ![](/images/lekt3810.webp)
 Fig.: ⟪अशोकवृक्षः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3810))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3811.webp)
@@ -561,7 +561,7 @@ Inf. ⟪सर्तुम्⟫
 
 Explicações:
 
-:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. de ⟪दशन्⟫ "dez"
+:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. de ⟪दशन्⟫ "dez" <!-- TODO: Fallback translation -->
 
 ⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual de ⟪बाहु⟫ m. "braço"
 
@@ -569,7 +569,7 @@ Explicações:
 
 :sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativo de ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "querer reconhecer, querer saber"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. de ⟪नवन्⟫ "nove"
+⟪नव⟫ Nom.Akk.pl.m.f.n. de ⟪नवन्⟫ "nove" <!-- TODO: Fallback translation -->
 
 :sig[⟪वयम्⟫] Nom.pl. "nós"
 

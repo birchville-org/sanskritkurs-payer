@@ -6,7 +6,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 61
+# 第61課
 
 ## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
 
@@ -234,18 +234,26 @@ Paradigma: <!-- TODO: Fallback translation -->
 **Das Intensivum bedeutet:** <!-- TODO: Fallback translation -->
 
 *   **dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Wurzel ausgedrückt wird**   <!-- TODO: Fallback translation -->
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"   <!-- TODO: Fallback translation -->
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"   <!-- TODO: Fallback translation -->
+:::
 
 *   **dass eine Person oder Sache intensiv tut oder erleidet, was durch die Wurzel ausgedrückt wird:**   <!-- TODO: Fallback translation -->
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut intensiv, er tut tüchtig"   <!-- TODO: Fallback translation -->
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut intensiv, er tut tüchtig"   <!-- TODO: Fallback translation -->
+:::
 
 *   **bei Wurzeln, die eine Bewegung ausdrücken, bedeutet das Intensivum die gekrümmte Bewegung:**   <!-- TODO: Fallback translation -->
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "er geht in Krümmungen" (NICHT: "er geht oft")   <!-- TODO: Fallback translation -->
+::: indent
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "er geht in Krümmungen" (NICHT: "er geht oft")   <!-- TODO: Fallback translation -->
+:::
 
 *   **bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**   <!-- TODO: Fallback translation -->
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht" <!-- TODO: Fallback translation -->
+::: indent
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht" <!-- TODO: Fallback translation -->
+:::
 :::
 ::: media
 ![](/images/lekt6104.webp)

@@ -6,7 +6,7 @@
 
 *   φωνήεν
 *   Anusvāra (ṃ)
-*   Visarga (ḥ)
+*   Visarga (ḥ) <!-- TODO: Fallback translation -->
 
 και η επόμενη λέξη ξεκινά με σύμφωνο. Επίσης στις περιπτώσεις όπου σύμφωνα με τους κανόνες του sandhi της πρότασης δημιουργείται χασμωδία (hiatus) μεταξύ φωνηέντων.
 
@@ -24,13 +24,13 @@
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden. <!-- TODO: Fallback translation -->
 
 ## Άσκηση
 
 A) Γράψτε σε Devanāgarī:
 
-ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
+ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha <!-- TODO: Fallback translation -->
 
 B) Διαβάστε και μεταγράψτε:
 

@@ -5,11 +5,11 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 41
+# Lecziun 41
 
-## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
+## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
@@ -23,7 +23,7 @@ Spiegaziun: ⟪पर⟫ "auter"
 ![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (Sursa d'imaggin: [Details](/rm/licenses#lekt4102))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
@@ -33,7 +33,7 @@ Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 :::
 Spiegaziun: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
-## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
+## 41.2. Ulteriuras furmaziuns ⟪कृत्⟫ sin -a <!-- TODO: Fallback translation -->
 
 ### 41.2.1. Particip preschent (⟪laḍādeśaḥ⟫) Ā, particip preschent (⟪laḍādeśaḥ⟫) passiv, particip futur (⟪lṛḍādeśaḥ⟫) Ā
 
@@ -61,7 +61,7 @@ Exemples:
 
 Stema da presens debil (en la furma ch'el ha avant la desinentza -ate da 3.pl.Ā) + -āna (fem. -ānā)
 :::
-Exempels:
+Exempels: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Radischa / Classa | Participi present Ā |
@@ -106,7 +106,7 @@ Exempels:
 | :--- | :--- | :--- |
 | ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | "jemand, der besiegt werden muss; ein zu besiegender" |
 | ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "das, wo man sich befinden soll" |
-| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" |
+| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" | <!-- TODO: Fallback translation -->
 
 :::
 #### 41.2.2.2. Il suffiss -⟪अनीय⟫ / -⟪अनीया⟫
@@ -131,7 +131,7 @@ Exemples:
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "zu tuendes" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "was man sehen muss; sehenswertes" |
 | ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "ein zu weckender" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
+| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" | <!-- TODO: Fallback translation -->
 
 :::
 #### 41.2.2.3. Il suffiss -⟪य⟫ / -⟪या⟫
@@ -143,7 +143,7 @@ Radich (en stadi zero, plen u allungì) + -⟪य⟫
 
 Las regulas exactas vesair en Kielhorn, Grammatik der Sanskrit-Sprache, S. 195 - 197!
 :::
-Tractaziun da vocals finals:
+Tractaziun da vocals finals: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **1. Radichs cun -ā furman quest gerundiv cun -eya**
@@ -155,7 +155,7 @@ Exemples:
 | | | |
 | :--- | :--- | :--- |
 | ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "zu wissendes; was erkannt werden muss" |
-| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" |
+| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -167,7 +167,7 @@ Exemplei:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" |
+| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -180,14 +180,14 @@ Exemples:
 | | | |
 | :--- | :--- | :--- |
 | ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "zu verkaufen; verkäuflich" |
-| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" |
+| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" | <!-- TODO: Fallback translation -->
 
 :::
 ::: media
 ![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Sursa da l'immaġin: [Detagls](/rm/licenses#lekt4103))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **2b. Radichs cun -u /-ū sustitueschan il -o dal grad alt avant il -ya cun -av, il -au dal grad lung cun -āv. La furmaziun en grad lung significiescha en quest cas necessitad.**
@@ -199,10 +199,10 @@ Ezemplu:
 | | | |
 | :--- | :--- | :--- |
 | ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "was gepriesen werden soll" |
-|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" |
+|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" | <!-- TODO: Fallback translation -->
 
 :::
-Ezempels per radichs finalas cun consonants (reglas cfr. Kielhorn, Grammatica § 533ss.):
+Ezempels per radichs finalas cun consonants (reglas cfr. Kielhorn, Grammatica § 533ss.): <!-- TODO: Fallback translation -->
 
 Formaziun en bassa stadi:
 
@@ -213,7 +213,7 @@ Ezempels:
 | | | |
 | :--- | :--- | :--- |
 | ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "sehenswert" |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" |
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" | <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -221,7 +221,7 @@ Ezempels:
 Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 (fonte da l'imagina: [Details](/rm/licenses#lekt4106))
 :::
-Furmaziun auta:
+Furmaziun auta: <!-- TODO: Fallback translation -->
 
 Exemples:
 
@@ -230,7 +230,7 @@ Exemples:
 | | | |
 | :--- | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "zu hassender = Feind" |
-| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" |
+| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -246,7 +246,7 @@ Esempel:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" |
+| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" | <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -274,7 +274,7 @@ Exemples:
 | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "zu gehender" |
 | ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "zu hörender" |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" | <!-- TODO: Fallback translation -->
 
 :::
 ### 41.2.3. Sintacticas davos il "participi" da la necessitad passiva (gerundivum) (⟪कृत्य⟫)
@@ -367,7 +367,7 @@ Illustraz.: ⟪शास्त्री⟫
 :::
 ⟪शरण⟫ 3: protectent, protegint ; n. protecziun, refügi
 
-⟪सङ्घ⟫ n.: (a ⟪सम्⟫-⟪हन्⟫ : cun-schlagar): gruppa, amassada, communitad (p.ex. buddhista)
+⟪सङ्घ⟫ n.: (a ⟪सम्⟫-⟪हन्⟫ : cun-schlagar): gruppa, amassada, communitad (p.ex. buddhista) <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 vesair quai:

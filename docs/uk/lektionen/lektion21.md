@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Урок 21
 
@@ -40,7 +40,8 @@ status: stable
 1\. Клас теперішнього часу:
 
 ::: indent
-**yajant**:br⟪यजन्त्⟫ "той, хто вшановує жертвою"
+**yajant**
+⟪यजन्त्⟫ "той, хто вшановує жертвою"
 :::
 ::: grammar-box
 
@@ -84,7 +85,7 @@ status: stable
 | | **starker Основа** | Основа презенсу + **-ant-** |
 | | **schwacher Основа** | Основа презенсу + **-at-** :br(Der Auslaut des schwachen Основа презенсуes lautet gleich wie vor der 3. Plur. P.) |
 | **Жіночий рід** | | |
-| | | Основа презенсу + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Основа презенсу + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 2\. Клас теперішнього часу:

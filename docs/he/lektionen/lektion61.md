@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # שיעור 61
 
@@ -34,7 +34,7 @@ status: stable
 ### 61.1.2. שמות-שורש במין נקבה המסתיימים ב-ī-
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
 
 **בנוסף לבניינים עם הסיומות המקרה הרגילות, מופיעים בדוג'ב.גנ.לוק.סמ' ובגנ.רב' גם בניינים לפי המודל של נקבות רב-הברתיות על -ī (⟪देवी⟫).**
 :::
@@ -114,7 +114,7 @@ status: stable
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-טבלת שינויים:
+טבלת שינויים: <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ f. "ארץ"
 
@@ -204,7 +204,7 @@ status: stable
 **צורת השורש: לשורש יש בדרך כלל את אותה צורה כמו בזמן העתיד הפשוט. אותו הדבר נכון עבור תנועת החיבור -i-.**
 ::דוגמאות:
 :::
-Beispiele:
+Beispiele: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟩ 3U | ⟪दातास्मि⟩, ⟪दतासि⟩, ⟪दाता⟩ וכו' |
 | --- | --- |
@@ -235,18 +235,26 @@ Beispiele:
 **האינטנסיב משמעותו:**
 
 *   **שאדם או דבר עושה או סובל שוב ושוב, מה שמבוטא על ידי השורש**  
-    ⟪कृ⟩ 8U: ⟪चेक्रीयते⟩ / ⟪चर्करीति⟩ "הוא עושה שוב ושוב"  
-    ⟪भू⟩ 1P: ⟪बोभूयते⟩ / ⟪बोभवीति⟩ "הוא (הופך) תדיר"
+::: indent
+⟪कृ⟩ 8U: ⟪चेक्रीयते⟩ / ⟪चर्करीति⟩ "הוא עושה שוב ושוב"
+⟪भू⟩ 1P: ⟪बोभूयते⟩ / ⟪बोभवीति⟩ "הוא (הופך) תדיר"
+:::
 
 *   **שכאדם או דבר פועל או סובל באינטנסיביות, כפי שמבוטא על ידי השורש:**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "הוא פועל באינטנסיביות, הוא פועל בכוח"  
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "הוא פועל באינטנסיביות, הוא פועל בכוח"
+:::
 
 *   **בשורשים המביעים תנועה, משמעות האינטנסיב היא תנועה מעוקלת:**  
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "הוא הולך בעקומות" (לא: "הוא הולך לעתים קרובות")  
+::: indent
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "הוא הולך בעקומות" (לא: "הוא הולך לעתים קרובות")
+:::
 
 *   **בכמה שורשים (רשימה: קילפורן, דקדוק § 458b) משמעות האינטנסיב היא גנאי:**  
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "הוא חותך בצורה גרועה"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "הוא יושב בצורה גרועה"
+::: indent
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "הוא חותך בצורה גרועה"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "הוא יושב בצורה גרועה"
+:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -280,7 +288,9 @@ Beispiele:
 ::: indent
 **בשורשים המביעים תנועה, משמעות האינטנסיב היא תנועה מעוקלת:**  
 :::
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "הוא הולך בעקומות" (לא: "הוא הולך לעתים קרובות")  
+::: indent
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "הוא הולך בעקומות" (לא: "הוא הולך לעתים קרובות")
+:::
 
 **בכמה שורשים (רשימה: קילפורן, דקדוק § 458b) משמעות האינטנסיב היא גנאי:**  
 דוגמות:
@@ -393,7 +403,7 @@ Beispiele:
 | ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
 | ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
+| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" | <!-- TODO: Fallback translation -->
 
 ### 61.4.2. תצורה עם סופית -ya, פרסמאיפדה
 
@@ -425,13 +435,13 @@ Beispiele:
 | ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
 | ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
+| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
 
 שים לב למשמעות של:
 
 | ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6105.webp)
@@ -456,7 +466,7 @@ Beispiele:
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
+| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6109.webp)
@@ -508,7 +518,7 @@ Beispiele:
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
+| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **במקרים מסוימים, משמעות הסיומת הזו: משהו הופך כמו הדבר, או הופך למה שמוצג על ידי שורש השם:**
@@ -541,7 +551,7 @@ Beispiele:
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -784,7 +794,7 @@ center
 
 **lekt6110:** קרלי [מקור תמונה: מקווה. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- תאריך גישה 2009-03-09. -- [רישיון קריאטיב קומוןס](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
 
-**lekt6111:** [מקור תמונה: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- תאריך גישה 2009-03-09. -- [רישיון קריאטיב קומוןס](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ייחוס, שיתוף זהה)]
+**lekt6111:** [מקור תמונה: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- תאריך גישה 2009-03-09. -- [רישיון קריאטיב קומוןס](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ייחוס, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt6113:** תאילנד - เมืองไทย [מקור תמונה: שייטת "טביעות רגל: אמיתי לסרט" (רון חוף). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- תאריך גישה 2009-03-09. -- [רישיון קריאטיב קומוןס](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
 
@@ -792,7 +802,7 @@ center
 
 **lekt6114:** כנסיית סנטה קרוז, קוצ'י = കൊച്ചി [מקור תמונה: מונסיור פראדיס. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- תאריך גישה 2009-03-09. -- [רישיון קריאטיב קומוןס](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ייחוס, שימוש לא מסחרי)]
 
-**lekt6118:** [מקור תמונה: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- תאריך גישה 2009-03-09. -- [רישיון קריאטיב קומוןס](http://creativecommons.org/licenses/by/2.0/deed.de) (ייחוס)]
+**lekt6118:** [מקור תמונה: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- תאריך גישה 2009-03-09. -- [רישיון קריאטיב קומוןס](http://creativecommons.org/licenses/by/2.0/deed.de) (ייחוס)] <!-- TODO: Fallback translation -->
 
 **לקט6117:** עם אפאטאני, ארונצ'ל פרדש [מקור תמונה: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- נגיש ב-2009-03-09. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ייחוס)]
 

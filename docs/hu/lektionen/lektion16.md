@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 16. lecke
+# 16. lecke <!-- TODO: Fallback translation -->
 
 ## 16.1. A szóvégi mássalhangzók sandhijáról
 
@@ -21,7 +21,7 @@ A szó végén álló gutturális, retroflexus, dentális és labiális zárhang
 | :--- | :--- |
 | **pausában és zöngétlen hangok előtt** | **Helyettesítés a nekik megfelelő zöngétlen, nem aspirált hanggal:** :br **pl.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
 | **zöngés, nem nazális hangok előtt** | **Helyettesítés a nekik megfelelő zöngés, nem aspirált hanggal:** :br **pl.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **nazálisok előtt** | **Helyettesítés a nekik megfelelő nazálissal:** :br **pl.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
+| **nazálisok előtt** | **Helyettesítés a nekik megfelelő nazálissal:** :br **pl.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
 
 :::
 A fenti szabály kivétele:
@@ -35,7 +35,7 @@ Kiejtésben álló dentális zárhang (nem nazális):
 | **palatális előtt** | **Helyettesítés a vonatkozó aspirálatlan palatálissal:** :br **azaz** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- vagy -cch-** |
 | **retroflexus előtt** | **Helyettesítés a vonatkozó aspirálatlan retroflexussal:** :br **azaz** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **l- előtt** | **Helyettesítés -ll-lel:** :br **azaz** :br :indent -t/-th/-d/-dh + l- » -ll- |
+| **l- előtt** | **Helyettesítés -ll-lel:** :br **azaz** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
 
 :::
 Példák:
@@ -90,7 +90,7 @@ ebből:
 
 ⟪निरोध⟫ m.: megállítani, álló helyzetbe hozni
 
-* **bhūta n.** (⟪भूत⟫) (PPP a bhū-tól): lény, szellem
+* **bhūta n.** (⟪भूत⟫) (PPP a bhū-tól): lény, szellem <!-- TODO: Fallback translation -->
 
 ⟪योग⟫ m.: felszerelés, kapcsolat, egyesülés, szerzés; jóga
 
@@ -108,7 +108,7 @@ Birla Mandir, Delhi
 
 ⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: a cél felé vezető, okozó
 
-⟪अहिंसा⟫ f.: senkinek semmit nem ártani, sértetlenség, erőszakmentesség
+⟪अहिंसा⟫ f.: senkinek semmit nem ártani, sértetlenség, erőszakmentesség <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1603.jpg)
@@ -150,7 +150,7 @@ A) Alakítsa át a következő kifejezéseket Tatpuruṣává, és fordítsa le 
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫
 
-B) Oldja fel a következő mondatokban az összes szanszkrit összetételt, alkosson így ragozott főnevekből álló mondatokat és fordítsa le:
+B) Oldja fel a következő mondatokban az összes szanszkrit összetételt, alkosson így ragozott főnevekből álló mondatokat és fordítsa le: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 
@@ -174,9 +174,9 @@ B) Oldja fel a következő mondatokban az összes szanszkrit összetételt, alko
 
 ## 16.4. Ismétlő gyakorlat
 
-A) Alkossák meg az eddig tanult összes esetet a következő szavakra, mint példát az eddig tanult ragozási osztályokra.
+A) Alkossák meg az eddig tanult összes esetet a következő szavakra, mint példát az eddig tanult ragozási osztályokra. <!-- TODO: Fallback translation -->
 
-Ehhez használják a következő sémát, amely megfelel az indiai grammatikusok által használt esetek sorrendjének, és amelyet a nyugati grammatikusok is átvettek előnyei miatt – amelyeket később tárgyalunk -:
+Ehhez használják a következő sémát, amely megfelel az indiai grammatikusok által használt esetek sorrendjének, és amelyet a nyugati grammatikusok is átvettek előnyei miatt – amelyeket később tárgyalunk -: <!-- TODO: Fallback translation -->
 
 | egyes szám:br⟪एकवचनम्⟫ | többes szám:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
@@ -213,7 +213,7 @@ Tanulja meg a ragozási mintákat ezeknek a példák alapján!!!
 
 ⟪१३⟫. ⟪इदम्⟫ m., n., f.
 
-B) Fordítsa le, és oldja fel az összes szanszkrit összetett szót:
+B) Fordítsa le, és oldja fel az összes szanszkrit összetett szót: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫
 
@@ -242,7 +242,7 @@ mondat: ⟪सर्वेषाम्⟫ birtokos eset, többes szám, nemek sz
 
 ::: deleteme-box
 
-**lekt1601:** Birla Mandir, Delhi [Képmegjelenítés: Deepak / Wikipedia ; Creative Commons licenc (nevesítés, share alike)]
+**lekt1601:** Birla Mandir, Delhi [Képmegjelenítés: Deepak / Wikipedia ; Creative Commons licenc (nevesítés, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt1602:** "Ez egy különleges szertartás egy kis templomban Satarában (⟪सातारा⟫). A Swami Muktananda Vedashala diákjai végzik a Mahāśivarātri ünnepén. Ez egy védikus iskola, ahol a gyermekek kívülről tanulják a Védák nevű szent szövegeket. Az iskola a Krísna Yajurvedát és a Számaveda egyes részeit tanítja. Jelenleg erről az iskoláról írom a mesterképzésem disszertációját." [Képmegjelenítés: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Hozzáférés: 2008-12-07. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 

@@ -72,7 +72,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 โดยใช้ทัดธิตา (taddhita) สuffix -mant หรือ -vant จะสร้างคำคุณศัพท์แสดงความเป็นเจ้าของจากนาม คำมีความหมายว่า "มีสิ่งที่ถูกอ้างถึงโดยนามพื้นฐาน"
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 ตัวอย่าง:
 

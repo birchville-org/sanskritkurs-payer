@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 23
+# Lecziun 23
 
 ## 23.1. L'infinitiv (⟪tumun⟫)
 
@@ -18,7 +18,7 @@ status: stable
 
 **Notai che l'infinitiv - cun quai ch'ins cumpetidas excepziuns - na po betg figurer sco subject u object d'in verbi:**
 
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen").
+> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen"). <!-- TODO: Fallback translation -->
 
 **L'infinitiv vegn er anuzà cun verbs e sustantivs en il significà «vesser» u «sperar», sche l'agens (⟪कर्तृ⟫) da l'infinitiv e dal verb èn identics:**
 
@@ -58,7 +58,7 @@ p.ex.
 
 **u**
 
-**raditscha auta + -i- + -tum**
+**raditscha auta + -i- + -tum** <!-- TODO: Fallback translation -->
 
 **I consonants finalas da la radis vegnan midadas avant -tum secund las medemas regulas sco avant -ta dal PPP.**
 
@@ -79,14 +79,14 @@ Trai las radis fin ussa emprendidas, èn ils suandants infinitivs specialmain da
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Radisn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- ni -ar-, wenn sie aniṭ sind.
+Die anderen Radisn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- ni -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
 
 ## 23.3. L'infinitiv (⟪तुमुन्⟫) a las ragischs gudidas fin qua
 
@@ -268,7 +268,7 @@ Chittorgarh = ⟪चित्तौडगढ⟫
 :::
 ## 23.6. Exercizi da repetiziun
 
-Per plaschair, na utisar midels!
+Per plaschair, na utisar midels! <!-- TODO: Fallback translation -->
 
 A) Traducì in sanscrit:
 
@@ -302,7 +302,7 @@ Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪�
 
 12\. Ils povers han blers figls, malgrà ch'els na vulan betg. Ils riccs n'han nagin figl. Stransch è il moviment dal destin.
 
-13\. Cun na mortga betg in corp da femna (⟪वपुस्⟫ n.) cun vita stretga, coschlas largias, labras rubias, egls neris, ombelich curvà, mamellas levadas.
+13\. Cun na mortga betg in corp da femna (⟪वपुस्⟫ n.) cun vita stretga, coschlas largias, labras rubias, egls neris, ombelich curvà, mamellas levadas. <!-- TODO: Fallback translation -->
 
 B) Declinai en tut ils cas che ti conuschas ⟪क्षत्रिया⟫ f.
 

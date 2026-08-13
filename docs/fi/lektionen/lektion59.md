@@ -5,9 +5,9 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 59
+# Oppitunti 59 <!-- TODO: Fallback translation -->
 
 ## 59.1. Sekundaaripäätteet ja dualin imperatiivipäätteet (⟪द्विवचनम्⟫)
 
@@ -37,7 +37,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪भवेतम्⟫ | \<⟪भवेयाथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪भवेताम्⟫ | \<⟪भवेयाताम्⟫\> |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -99,7 +99,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुदेतम्⟫ | ⟪तुदेयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदेताम्⟫ | ⟪तुदेयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -130,7 +130,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयेतम्⟫ | ⟪चोरयेयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चोरयेताम्⟫ | ⟪चोरयेयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -160,7 +160,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪अतुद्यावहि⟫ |
@@ -176,9 +176,9 @@ Imperatiivi (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ |
 :::
-## 59.3. Molekkyylillisten preesensluokkien dualeetti: optatiivi (⟪विधिलिङ्⟩), imperfekti (⟪लङ्⟩), imperatiivi (⟪लोट्⟩)
+## 59.3. Molekkyylillisten preesensluokkien dualeetti: optatiivi (⟪विधिलिङ्⟩), imperfekti (⟪लङ्⟩), imperatiivi (⟪लोट्⟩) <!-- TODO: Fallback translation -->
 
-### 59.3.1. Toinen preesensluokka (⟪अदादिगणः⟩)
+### 59.3.1. Toinen preesensluokka (⟪अदादिगणः⟩) <!-- TODO: Fallback translation -->
 
 ⟪द्विष्⟩ 2U "vihata"
 
@@ -191,7 +191,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्यातम्⟫ | ⟪द्विषीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪द्विष्याताम्⟫ | ⟪द्विषीयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -220,7 +220,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪दुह्यातम्⟫ | ⟪दुहीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दुह्याताम्⟫ | ⟪दुहीयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -249,7 +249,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪इयातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪इयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -278,7 +278,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अधीयीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अधीयीयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -307,7 +307,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪हन्यातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪हन्याताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -337,7 +337,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪स्यातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪स्याताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -368,7 +368,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुयातम्⟫ | \<⟪जुह्वीयाथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुयाताम्⟫ | \<⟪जुह्वीयाताम्⟫\> |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -460,7 +460,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तनुयातम्⟫ | ⟪तन्वीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुयाताम्⟫ | ⟪तन्वीयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -489,7 +489,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪कुर्यातम्⟫ | ⟪कुर्वीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुर्याताम्⟫ | ⟪कुर्वीयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -520,7 +520,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪रुन्ध्यातम्⟫ | ⟪रुन्धीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्ध्याताम्⟫ | ⟪रुन्धीयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -549,7 +549,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪युञ्ज्यातम्⟫ | ⟪युञ्जीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युञ्ज्याताम्⟫ | ⟪युञ्जीयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -580,7 +580,7 @@ Optatiivi (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीयातम्⟫ | ⟪क्रीणीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीयाताम्⟫ | ⟪क्रीणीयाताम्⟫ |
 :::
-Imperfektiii (⟪लङ्⟫)
+Imperfektiiiiii (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -600,7 +600,7 @@ Imperatiivi (⟪लोट्⟫)
 :::
 ## 59.4. Kaksikko (⟪द्विवचनम्⟫) Aoristi (⟪लुङ्⟫)
 
-### 59.4.1. Vartaloaoristi
+### 59.4.1. Vartaloaoristi <!-- TODO: Fallback translation -->
 
 ⟪पा⟫ 1P "juoda"
 
@@ -668,7 +668,7 @@ Imperatiivi (⟪लोट्⟫)
 ## 59.5. Aoristi (⟪लुङ्⟩) 6: siṣ-aoristi (vain P)
 
 ::: grammar-box
-**Siṣ-aoristin muodostavat P:ssä kaikki juuret, jotka päättyvät -ā:han, -e:hen, -o:hon tai -ai:hun eivätkä ole rajoitettuja 1., 2. tai 3. aoristiin, sekä muutamat muut juuret, mm. ⟪नम्⟩, ⟪यम्⟩ ja ⟪रम्⟩. Ā:ssa kaikki nämä juuret muodostavat s-aoristin.**
+**Siṣ-aoristin muodostavat P:ssä kaikki juuret, jotka päättyvät -ā:han, -e:hen, -o:hon tai -ai:hun eivätkä ole rajoitettuja 1., 2. tai 3. aoristiin, sekä muutamat muut juuret, mm. ⟪नम्⟩, ⟪यम्⟩ ja ⟪रम्⟩. Ā:ssa kaikki nämä juuret muodostavat s-aoristin.** <!-- TODO: Fallback translation -->
 
 **Muodostus:**
 
@@ -699,7 +699,7 @@ Paradigma:
 ## 59.6. Aoristi (⟪लुङ्⟫) 7: sa-aoristi (temaattinen s-aoristi)
 
 ::: grammar-box
-**Sa-aoristin muodostavat useimmat ⟪अनिट्⟫-juuret, jotka päättyvät -ś-, -ṣ- tai -h-konsonanttiin ja joiden toiseksi viimeisenä vokaalina on i, u tai ṛ. Näiden muotojen fakultatiivisia ⟪अनिट्⟫-juuria voi muodostaa joko sa-aoristin tai iṣ-aoristin.**
+**Sa-aoristin muodostavat useimmat ⟪अनिट्⟫-juuret, jotka päättyvät -ś-, -ṣ- tai -h-konsonanttiin ja joiden toiseksi viimeisenä vokaalina on i, u tai ṛ. Näiden muotojen fakultatiivisia ⟪अनिट्⟫-juuria voi muodostaa joko sa-aoristin tai iṣ-aoristin.** <!-- TODO: Fallback translation -->
 
 **Muodostus:**
 
@@ -707,7 +707,7 @@ Paradigma:
 
 **1.sg.2.3.du.Ā muodostetaan s-aoristista, eli athemaattisesti.**
 :::
-Vartalonmuodostuspääte + sa-aoristin päätteen ovat siis:
+Vartalonmuodostuspääte + sa-aoristin päätteen ovat siis: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -752,14 +752,14 @@ A) Käännä seuraava teksti ja määritä kaikki siinä esiintyvät verbin muod
 
 _Esipuhe:_
 
-Seuraava teksti on peräisin ⟪भट्टिकाव्य⟫ ("runoilija Bhaṭtin "taidekuvaelma"). ⟪भट्टिकाव्य⟩ kertoo 22 runossa tarinan ⟪राम⟫:sta, mutta samalla se todistaa kieliopin ja runouden säännöt esimerkeillä.
+Seuraava teksti on peräisin ⟪भट्टिकाव्य⟫ ("runoilija Bhaṭtin "taidekuvaelma"). ⟪भट्टिकाव्य⟩ kertoo 22 runossa tarinan ⟪राम⟫:sta, mutta samalla se todistaa kieliopin ja runouden säännöt esimerkeillä. <!-- TODO: Fallback translation -->
 
-Runo koostuu neljästä osasta:
+Runo koostuu neljästä osasta: <!-- TODO: Fallback translation -->
 
 1.  Laulu 1-5: sekoitetut säännöt
 2.  Laulu 6-9: Pāṇinin grammatikan pääsäännöt
 3.  Laulu 10-13: tärkeimmät runolliset koristeet
-4.  Laulu 14-22: aikamuotojen ja moodien käyttö
+4.  Laulu 14-22: aikamuotojen ja moodien käyttö <!-- TODO: Fallback translation -->
 
 ⟪भट्टिकाव्य⟫ syntyi vuosina 495–641 jaa.
 
@@ -768,7 +768,7 @@ Runo koostuu neljästä osasta:
 Kuv.: ⟪रावणः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5902))
 :::
-Seuraava kappale on 15. laulun alku, joka omistetaan aoristille. ⟪रावण⟫, demonien kuningas, joka on varastanut ⟪राम⟩n vaimon ⟪सीता⟫, lähettää veljensä ⟪कुम्भकर्ण⟫ ("Kulikkikorva"), joka rangaistuksena teoistaan on syvässä unessa.
+Seuraava kappale on 15. laulun alku, joka omistetaan aoristille. ⟪रावण⟫, demonien kuningas, joka on varastanut ⟪राम⟩n vaimon ⟪सीता⟫, lähettää veljensä ⟪कुम्भकर्ण⟫ ("Kulikkikorva"), joka rangaistuksena teoistaan on syvässä unessa. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5903.webp)
@@ -776,17 +776,17 @@ Kuv: ⟪कुम्भकर्णः⟫
 Kecak-tanssi, Bali (Indonesia)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5903))
 :::
-_Käännösapu:_ Säe 6: ⟪दिदृक्षते⟫ \= Desideratiivi sanasta ⟪दृश्⟫
+_Käännösapu:_ Säe 6: ⟪दिदृक्षते⟫ \= Desideratiivi sanasta ⟪दृश्⟫ <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5901.webp)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5901))
 :::
-Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127f.
+Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127f. <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
-**lekt5902:** [Kuv lähde: Henryart/Wikipedia. Julkinen omaisuus]
+**lekt5902:** [Kuv lähde: Henryart/Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
 
 **lekt5903:** Kecak-tanssi, Bali (Indonesia) [Kuv lähde: Flying Pharmacist / Wikipedia. [Creative Commons -lupa](http://creativecommons.org/licenses/by-sa/3.0/) (Nimittäminen, sama lupa)]
 

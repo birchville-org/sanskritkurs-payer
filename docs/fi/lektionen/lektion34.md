@@ -6,7 +6,7 @@ status: stable
 
 # Luento 34
 
-## 34.1. Perfekti (⟪लिट्⟫)
+## 34.1. Perfekti (⟪लिट्⟫) <!-- TODO: Fallback translation -->
 
 Klassisessa sanskritissa perfekti-juuresta on vain indikatiivi ja partisiippi.
 
@@ -21,15 +21,15 @@ Klassisessa sanskritissa perfekti-juuresta on vain indikatiivi ja partisiippi.
 2. **juurissa, jotka alkavat pitkällä vokaalilla (paitsi ā-) tai vokaalilla (paitsi a-) kahden konsonantin edellä**
 3. **joissakin muissa juurissa**
 :::
-## 34.2. Reduplikoitu perfekti (⟪द्वित्वलिट्⟫)
+## 34.2. Reduplikoitu perfekti (⟪द्वित्वलिट्⟫) <!-- TODO: Fallback translation -->
 
-### 34.2.1. Vartalon asteistus
+### 34.2.1. Vartalon asteistus <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Muodostus:**
 
 **vahva vartalo:** yksikkö parasmaipada
-*   **reduplikoitu vahva tai pitenetty vartalo + perfektin pääte**
+*   **reduplikoitu vahva tai pitenetty vartalo + perfektin pääte** <!-- TODO: Fallback translation -->
 
 **heikko vartalo:** kaikki muut muodot
 *   **punortoiva matala-asteinen juuri + perfektipääte**
@@ -37,13 +37,13 @@ Klassisessa sanskritissa perfekti-juuresta on vain indikatiivi ja partisiippi.
 ::: grammar-box
 **Yleisesti (myös perfektiin kuulumattomissa tapauksissa) vartalon asteistus puuttuu seuraavan muotoisten verbien juurista:**
 *   **(konsonantti)-konsonantti-pitkävokaali-konsonantti**
-*   **(konsonantti)-konsonantti-vokaali-konsonantti-konsonantti**
+*   **(konsonantti)-konsonantti-vokaali-konsonantti-konsonantti** <!-- TODO: Fallback translation -->
 
 **Perfektiluokassa vartalon asteistus puuttuu lisäksi seuraavan muotoisten verbien juurista:**
 *   **a-konsonantti**
 *   **ā-konsonantti**
 :::
-### 34.2.2. Perfektipäätteet
+### 34.2.2. Perfektipäätteet <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -61,11 +61,11 @@ Klassisessa sanskritissa perfekti-juuresta on vain indikatiivi ja partisiippi.
 ### 34.2.4. Konsonantilla alkavien juurten reduplikaatio
 
 ::: grammar-box
-**Alkavien konsonanttien reduplikaatiolle ovat voimassa [Lektion 33](lektion33.md) annetut säännöt.**
+**Alkavien konsonanttien reduplikaatiolle ovat voimassa [Lektion 33](lektion33.md) annetut säännöt.** <!-- TODO: Fallback translation -->
 
-**Konsonanttähtäisten verbien juuressa reduplikaatiovokaali on lyhyt juurvokaali.**
+**Konsonanttähtäisten verbien juuressa reduplikaatiovokaali on lyhyt juurvokaali.** <!-- TODO: Fallback translation -->
 
-**Konsonanttien edellä olevat diftongit lyhenevät vastaavaksi lyhyeksi asteenvokaaliksi.**
+**Konsonanttien edellä olevat diftongit lyhenevät vastaavaksi lyhyeksi asteenvokaaliksi.** <!-- TODO: Fallback translation -->
 
 **ṛ, ṝ, ḷ ja loppudiftongit reduplikaatiota varten muuttuvat -a-:ksi.**
 :::
@@ -83,7 +83,7 @@ Esimerkit:
 ::: grammar-box
 **Jotkin y- tai v-alkuimellisista verbijuurista toistavat i- tai u-vokaalin, joka heikoissa muodoissa "sulautuu" verbijuuren vokaaliin.**
 :::
-Esimerkkejä:
+Esimerkkejä: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -104,7 +104,7 @@ Esimerkit:
 
 | Juuri | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "olla" ja ⟪अस्⟫ 4 "heittää" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "olla" ja ⟪अस्⟫ 4 "heittää" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -138,9 +138,9 @@ Esimerkit:
 Järjestelyperiaate: Varsinaisten erityispiirteet vartalon asteistuksessa:
 *   Perfekti ilman vartaloasteistusta: Tyyppi I
 *   Perfekti vartaloasteistuksella: Tyyppi II - V
-*   epäsäännölliset perfektimuodot
+*   epäsäännölliset perfektimuodot <!-- TODO: Fallback translation -->
 
-## 34.4. Perfekti tyyppi I: Perfekti ilman vartaloasteistusta
+## 34.4. Perfekti tyyppi I: Perfekti ilman vartaloasteistusta <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Perfekti tyyppi I (ilman vartalon astevaihtelua) sisältää seuraavan tyyppisiä verbijuuria:**
@@ -149,7 +149,7 @@ Järjestelyperiaate: Varsinaisten erityispiirteet vartalon asteistuksessa:
 *   **a-konsonantti**
 *   **ā-konsonantti**
 :::
-Esimerkit:
+Esimerkit: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -159,10 +159,10 @@ Esimerkit:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
 
 :::
-## 34.5. Perfekti tyyppi II: Vahva vartalo korkeassa asteessa, heikko vartalo matalassa asteessa
+## 34.5. Perfekti tyyppi II: Vahva vartalo korkeassa asteessa, heikko vartalo matalassa asteessa <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Muodostetaan juurista, jotka ovat muotoa:**
@@ -197,7 +197,7 @@ Kuva: ⟪सस्यम्⟫
 Riisipellot Intiassa.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** kuinka kauan, kuinka suuri
+**⟪यावत्⟫ :** kuinka kauan, kuinka suuri <!-- TODO: Fallback translation -->
 
 **⟪तावत्⟫ :** niin kauan, niin suuri
 
@@ -211,7 +211,7 @@ Kuva: ⟪लक्षद्वीपाः⟫
 Lakshadweep-saarten kartta.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** kuolevainen (sanasta ⟪मृ⟫)
+**⟪मर्त्य⟫ 3:** kuolevainen (sanasta ⟪मृ⟫) <!-- TODO: Fallback translation -->
 
 **⟪तिल⟫ m.:** seesami (Sesamum indicum L.)
 
@@ -220,7 +220,7 @@ Lakshadweep-saarten kartta.
 Kuva: ⟪तिलाः⟫
 Sesamin siemeniä.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3403))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3404.webp)
@@ -236,7 +236,7 @@ Kuv: ⟪स्वर्णम्⟫
 Kulttemppeli (Harmandir Sahib), Amritsar.
 (Kuvälähde: [Yksityiskohdat](/fi/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** asuinpaikka, temppeli
+**⟪निकेतन⟫ n.:** asuinpaikka, temppeli <!-- TODO: Fallback translation -->
 
 **⟪कोटि⟫ f.:** huippu; 10 miljoonaa
 
@@ -252,7 +252,7 @@ Kuv.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** pidättää, pitää, tarjota, myöntää
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** pidättää, pitää, tarjota, myöntää <!-- TODO: Fallback translation -->
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** ojentaa, tarjota, toimittaa
 
@@ -296,9 +296,9 @@ Muodosta seuraavista verbimuodoista persoonan, numeron ja genuksen mukaiset perf
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Käännösharjoitus
+## 34.8. Käännösharjoitus <!-- TODO: Fallback translation -->
 
-Käännä seuraava teksti ⟪पद्मपुराण⟩:n mukaan brahmanien tekemistä lahjoista:
+Käännä seuraava teksti ⟪पद्मपुराण⟩:n mukaan brahmanien tekemistä lahjoista: <!-- TODO: Fallback translation -->
 
 ⟪क्षितिं⟩ ⟪सशस्यां⟩ ⟪यो⟩ ⟪दद्याद्ब्राह्मणाय⟩ ⟪द्विजो⟩:sig[⟪त्तम⟩] ⟪।⟩  
 ⟪विष्णुलोके⟩ ⟪सुखं⟩ ⟪भुङ्क्ते⟩ ⟪यावदिन्द्रा⟩:sig[⟪श्चतुर्दश⟩] ⟪॥१॥⟩  
@@ -329,22 +329,22 @@ Selitykset:
 Kuv.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫:sig[⟪र्जन्म⟫] ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Hinduavihkitseremonia.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3407))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
-**lekt3401:** Nandi-hiiden patsas, Chamundi-vuoret, Mysore. [Kuvälähde: Luna Park / Flickr. CC BY-NC-ND]
+**lekt3401:** Nandi-hiiden patsas, Chamundi-vuoret, Mysore. [Kuvälähde: Luna Park / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
 
-**lekt3402:** Kultainen temppeli (Harmandir Sahib), Amritsar. [Kuvälähde: Wikipedia. GNU FDL]
+**lekt3402:** Kultainen temppeli (Harmandir Sahib), Amritsar. [Kuvälähde: Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
 
-**lekt3403:** Sesaminsiemenet. [Kuvälähde: Wikipedia. Julkinen omaisuus]
+**lekt3403:** Sesaminsiemenet. [Kuvälähde: Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
 
-**lekt3404:** Sesamikasvin kukinta. [Kuvälähde: Franz Xaver / Wikipedia. GNU FDL]
+**lekt3404:** Sesamikasvin kukinta. [Kuvälähde: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
 
-**lekt3405:** Lakshadweep-saarten kartta. [Kuvälähde: CIA World Factbook. Julkinen omistus]
+**lekt3405:** Lakshadweep-saarten kartta. [Kuvälähde: CIA World Factbook. Julkinen omistus] <!-- TODO: Fallback translation -->
 
-**lekt3406:** Riisipello Intiassa. [Kuvälähde: Ray Witlin / Maailmanpankki. CC BY-NC-ND]
+**lekt3406:** Riisipello Intiassa. [Kuvälähde: Ray Witlin / Maailmanpankki. CC BY-NC-ND] <!-- TODO: Fallback translation -->
 
 **lekt3407:** Hinduavihkitseremonia. [Kuvälähde: BriceFR / Flickr. CC BY-NC-SA]
-:::
+::: <!-- TODO: Fallback translation -->
 

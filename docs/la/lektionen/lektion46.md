@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 46
+# Lectio 46
 
 ## 46.1. Formatio formarum verbalium personae secundae (⟪मध्यमः⟫) Perfectum (⟪लिट्⟫)
 
@@ -29,9 +29,9 @@ Ante -tha apud radices plures quae in -ṛ desinunt, nullus est vocalis iunctivu
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Perfecti genus I: nulla gradatio radicis
+### 46.1.3. Perfecti genus I: nulla gradatio radicis <!-- TODO: Fallback translation -->
 
-Verba quae huic generi sequuntur:
+Verba quae huic generi sequuntur: <!-- TODO: Fallback translation -->
 
 *   Consonantum-vocalus-longus-consonantum
 *   Consonantum-vocalus-consonantum-consonantum
@@ -65,9 +65,9 @@ Verba quae huic generi sequuntur:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
 
-Verba, quae hunc typum sequuntur:
+Verba, quae hunc typum sequuntur: <!-- TODO: Fallback translation -->
 
 *   (Consonans-)i/u/ṛ/ḷ-Consonans
 
@@ -91,7 +91,7 @@ Verba, quae hunc typum sequuntur:
 
 #### 46.1.5.1. Perfectum Typus IIIa: radix fortis gradus altus/gradus productus, radix infirma gradus humilis
 
-Verba quae huic typi sequuntur:
+Verba quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 *   (Consonant-)(Consonant-)i/ī/u/ū
 *   (Consonant-)-ṛ
@@ -130,7 +130,7 @@ Verba quae huic typi sequuntur:
 :::
 #### 46.1.5.2. Perfectum Typus IIIb: Radix fortis gradus superior/gradus productus, radix debilis gradus superior
 
-Verba, quae huic typi sequuntur:
+Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 *   (Consonans-)(Consonans-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -177,7 +177,7 @@ Verba, quae huic typi sequuntur:
 
 #### 46.1.7.1. Perfectum Typus Va: Consonans-a-Consonans, gradus infirmior
 
-Verba quae huic typi sequuntur:
+Verba quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 ::: indent
 1.  inter alia
@@ -267,7 +267,7 @@ Forma 2.sg.P. a radice infirma formatur, cum vocalis coniunctiva -i- adhibetur.
 :::
 #### 46.1.7.3. Perfectum Typus Vc: Consonans-a-Consonans, radix infima gradus altus
 
-Verba, quae huic typi sequuntur:
+Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 *   Omnes reliquae radices cum medio -a-
 
@@ -462,7 +462,7 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 1 ⟪महामात्र⟫ m. "Elephantarius"; ⟪चरिष्णु⟫ 3 "mobilis", ⟪दूरशब्द⟫ m. "longinquum colloquium, telephonum" » ⟪चरिष्णुदूरशब्द⟫ "telephonicum mobile" (structura verborum: A. Payer)
 
 :::
-⟪विभ्रम⟫ m.: iterum atque iterum ambulatio
+⟪विभ्रम⟫ m.: iterum atque iterum ambulatio <!-- TODO: Fallback translation -->
 
 ⟪भ्रंश⟫ m.: decessus
 

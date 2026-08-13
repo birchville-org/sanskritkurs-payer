@@ -339,7 +339,7 @@ status: stable
 
 **lekt3403:** 芝麻。[图片来源：维基百科。公有领域]
 
-**lekt3404:** Sesamblüte. [Bildquelle: Franz Xaver / Wikipedia. GNU FDL]
+**lekt3404:** Sesamblüte. [Bildquelle: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
 
 **lekt3405:** Lakshadweep群岛地图。[图片来源：CIA World Factbook。公有领域]
 

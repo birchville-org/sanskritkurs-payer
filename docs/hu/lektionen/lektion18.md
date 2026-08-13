@@ -3,7 +3,7 @@ title: Lektion 18
 lesson_id: 18
 ---
 
-# 18. lecke
+# 18. lecke <!-- TODO: Fallback translation -->
 
 ## 18.1. ⟪सुभाषितम्⟫
 
@@ -38,7 +38,7 @@ Példák:
 
 ⟪अत्युक्ति⟫ f.: túlzott beszéd, túlzás
 :::
-A legfontosabb adverbális előtagok az a-/an-, su-, dus-.
+A legfontosabb adverbális előtagok az a-/an-, su-, dus-. <!-- TODO: Fallback translation -->
 
 ⟪अ⟫ (mássalhangzó előtt), ⟪अन्⟫ (magánhangzó előtt): un-: összetételekben ⟪न⟫ „nem” helyett áll.
 
@@ -47,13 +47,13 @@ Példák:
 ::: indent
 ⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): hazugság, álhír
 
-⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: nem tett, cselekmény nélküli
+⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: nem tett, cselekmény nélküli <!-- TODO: Fallback translation -->
 
 ⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : egy nem-brahmana nő, brahmanán kívüli nő
 
 ⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : egy nem-isten, istenen kívüli
 :::
-⟪सु⟫ "jó, jól"; a szóösszetétel feloldásakor a kommentátorok egy „jó” jelentésű melléknévvel helyettesítik (pl. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
+⟪सु⟫ "jó, jól"; a szóösszetétel feloldásakor a kommentátorok egy „jó” jelentésű melléknévvel helyettesítik (pl. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3). <!-- TODO: Fallback translation -->
 
 Példák:
 
@@ -88,7 +88,7 @@ A mondatbeli sandhi ellenkezőleg, a szó végén az összetétel első tagjába
 Ezért: ⟪दुष्करण⟫
 
 :::
-### 18.2.1. Összetett szavak a ⟪सुकर⟫ / ⟪दुष्कर⟫ típusról
+### 18.2.1. Összetett szavak a ⟪सुकर⟫ / ⟪दुष्कर⟫ típusról <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -106,9 +106,9 @@ Példák:
 
 ⟪सुदुर्गम⟫ 3: nagyon nehéz megmenni
 :::
-### 18.2.2. A nañ-Tatpuruṣa (a- / an-) jelentései
+### 18.2.2. A nañ-Tatpuruṣa (a- / an-) jelentései <!-- TODO: Fallback translation -->
 
-Az a- / an- Tatpuruṣa következő jelentésekkel bírhat:
+Az a- / an- Tatpuruṣa következő jelentésekkel bírhat: <!-- TODO: Fallback translation -->
 
 1.  Hasonlóság (⟪तत्सादृश्यम्⟫):
 ⟪अब्राह्मणः⟫ = egy Kṣatriya vagy Vaiśya, aki viseli a szent fonalat (⟪यज्ञोपवीत⟫ n.), és így egy Brahmanához hasonlít, anélkül hogy az lenne
@@ -123,7 +123,7 @@ Az a- / an- Tatpuruṣa következő jelentésekkel bírhat:
 6.  Ellenségeskedés (⟪निरोधः⟫):
 ⟪असुरः⟫ = ellenisten (a téves etimológia a-sura alapján)
 
-A következő vers összefoglalja ezeket a jelentéseket:
+A következő vers összefoglalja ezeket a jelentéseket: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪तत्सादृश्यमभावश्च⟫  
@@ -147,7 +147,7 @@ Egy előtag erőszakosan megváltoztatja egy gyökér jelentését, akárcsak a 
 
 ::: grammar-box
 
-A szanszkritban az igék előtagokkal (⟪उपसर्ग⟫ m.) kombinálhatók. Általában a szövegkapcsolódás (szatszandhi) érvényesül. Az előtagok jelentősen módosíthatják a gyökér jelentését, így sok esetben az előtagos igék jelentését külön kell megtanulni. Az előtagos igék más módban (P, Ā) lehetnek, mint az egyszerű gyökér. Több előtag is állhat egyszerre egy gyökér előtt.
+A szanszkritban az igék előtagokkal (⟪उपसर्ग⟫ m.) kombinálhatók. Általában a szövegkapcsolódás (szatszandhi) érvényesül. Az előtagok jelentősen módosíthatják a gyökér jelentését, így sok esetben az előtagos igék jelentését külön kell megtanulni. Az előtagos igék más módban (P, Ā) lehetnek, mint az egyszerű gyökér. Több előtag is állhat egyszerre egy gyökér előtt. <!-- TODO: Fallback translation -->
 
 :::
 Néhány fontos előtag:
@@ -167,7 +167,7 @@ Példák:
 
 ⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : megérteni, megszerez
 :::
-⟪प्र⟫ "előre, elő"
+⟪प्र⟫ "előre, elő" <!-- TODO: Fallback translation -->
 
 Példák:
 
@@ -208,7 +208,7 @@ Példák:
 Példák:
 
 ::: indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : együttülni, tartózkodni, lakni
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : együttülni, tartózkodni, lakni <!-- TODO: Fallback translation -->
 
 ⟪समि⟫ 2 ⟪समेति⟫ : összegyűlni, egyesülni
 
@@ -216,7 +216,7 @@ Példák:
 
 ⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : keletkezik
 
-*   PPP ⟪संजात⟫ 3: született, keletkezett, lett
+*   PPP ⟪संजात⟫ 3: született, keletkezett, lett <!-- TODO: Fallback translation -->
 
 ⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : teljesen felébred (az igazságra)
 
@@ -226,7 +226,7 @@ Példák:
 :::
 ::: grammar-box
 
-A ⟪कृ⟫ "tenni" gyökér a ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ előtagokkal kombinálva a ⟪स्कृ⟫ alakot is mutatja
+A ⟪कृ⟫ "tenni" gyökér a ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ előtagokkal kombinálva a ⟪स्कृ⟫ alakot is mutatja <!-- TODO: Fallback translation -->
 
 :::
 Példa:
@@ -236,7 +236,7 @@ sam-kṛ 8 ⟪संस्करोति⟫ : előkészíteni, áldozatra felk�
 
 *   PPP ⟪संस्कृत⟫ 3: áldozatra előkészítve ; ⟪संस्कृत⟫ n.: szanszkrit: az áldozatra alkalmas nyelv ; ellenpár ⟪प्राकृत⟫ 3: közönséges, hétköznapi ; ⟪प्राकृत⟫ n.: közönséges nyelv, prakrit (a szanszkrit rokon népi és kereskedelmi nyelvekre használt megjelölés)
 :::
-### 18.3.1. Névigező képzések igekötőkből
+### 18.3.1. Névigező képzések igekötőkből <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -272,7 +272,7 @@ Az Upanajana révén történik a második születés, ezért: ⟪द्वि�
 
 ⟪शोभन⟫ 3: ragyogó, pompás, csodálatos, szép, jó
 
-⟪सम⟫ 3: egyenlő, éppen, hasonló (birtokos esettel)
+⟪सम⟫ 3: egyenlő, éppen, hasonló (birtokos esettel) <!-- TODO: Fallback translation -->
 
 ⟪व्याधि⟫ m.: betegség
 
@@ -284,7 +284,7 @@ Az Upanajana révén történik a második születés, ezért: ⟪द्वि�
 
 ⟪शूर⟫ 3: bátor, hősies ; m.: hős
 
-⟪शब्द⟫ m.: hang, szó, jelhang: szó
+⟪शब्द⟫ m.: hang, szó, jelhang: szó <!-- TODO: Fallback translation -->
 
 ⟪उदक⟫ n.: víz
 
@@ -306,7 +306,7 @@ Az Upanajana révén történik a második születés, ezért: ⟪द्वि�
 
 A) Fordítsa le a ⟪सुभाषित⟫-t a tanóra elején.
 
-B) Fordítsa le a következő Tatpuruṣust:
+B) Fordítsa le a következő Tatpuruṣust: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪सुकर⟫ ⟪३⟫
 
@@ -374,7 +374,7 @@ B) Fordítsa le a következő Tatpuruṣust:
 
 Kérjük, ne használjanak segédanyagokat!
 
-A) Oldják fel a következő szanszkrit összetételeket, és adjanak fordítási javaslatot:
+A) Oldják fel a következő szanszkrit összetételeket, és adjanak fordítási javaslatot: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪अन्तगत⟫ 3
 
@@ -400,17 +400,17 @@ A) Oldják fel a következő szanszkrit összetételeket, és adjanak fordítás
 1770 Nyomat
 (Képmeghatározás: [Részletek](/hu/licenses#lekt1802))
 :::
-B) Fordítsa le a következőket, használja a 2. jelen idői osztályba tartozó igéket:
+B) Fordítsa le a következőket, használja a 2. jelen idői osztályba tartozó igéket: <!-- TODO: Fallback translation -->
 
 A bráhmana dicséri az istennőket.
 
 A hősök a nehezen járható úton haladnak az áriák faluja felé.
 
-3\. A szolganő tejteli a teheneket.
+3\. A szolganő tejteli a teheneket. <!-- TODO: Fallback translation -->
 
-4\. Az árják ellenségei megölik a hatalmas kṣatriyákat.
+4\. Az árják ellenségei megölik a hatalmas kṣatriyákat. <!-- TODO: Fallback translation -->
 
-5\. Egy szellem nem eszik gyümölcsöt.
+5\. Egy szellem nem eszik gyümölcsöt. <!-- TODO: Fallback translation -->
 
 6\. Így szól az, aki [jól megtette a reinkációk útját] a tanítványnak.
 
@@ -430,9 +430,9 @@ D) Fordítsa le:
 
 **lekt1801:** "Egy fiatal fiút látnak az upanajana rituálé során. A sárgás, vékony szál a bal válltól a derékig Yagnopaivta. Vegye figyelembe a munja fűből készült övet is a derékon. A jobb kézben tartott rúd (általában peepa fából) szimbolizálja belépését a Brahmacharya állapotába." [Képmegjelenés: Nagesh Rao / Wikipedia, GNU FDLicense]
 
-**lekt1802:** 1770-es Nyomat [Képmegjelenés: Wikipedia, Közterület]
+**lekt1802:** 1770-es Nyomat [Képmegjelenés: Wikipedia, Közterület] <!-- TODO: Fallback translation -->
 
-**lekt1803:** ⟪गन्धार⟫ 1./2. sz. e. u. [Képmegjelenés: Wikipedia, Közterület]
+**lekt1803:** ⟪गन्धार⟫ 1./2. sz. e. u. [Képmegjelenés: Wikipedia, Közterület] <!-- TODO: Fallback translation -->
 
 **lekt1804:** Házasság = ⟪विवाह⟫ m., egy fontos ⟪संस्कारः⟫ [Képmegjelenés: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Hozzáférés: 2008-12-08. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 :::

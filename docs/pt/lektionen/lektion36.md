@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 36
 
@@ -20,7 +20,7 @@ Exemplos:
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫:sig[⟪गा⟫]⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | |
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 A raiz ⟪विद्⟫ 2P "saber" tem um perfeito com significado de presente.
@@ -63,7 +63,7 @@ radical do presente (fraco) + -ām + forma perfeita correspondente de ⟪कृ�
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ e ⟪भू⟫ são também conjugados no Parasmaipada para verbos Ātmanepada.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 Exemplos:
 
@@ -111,7 +111,7 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3601))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : andar, ir, partir
 
@@ -131,7 +131,7 @@ Inf. ⟪व्रजितुम्⟫
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3602))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 disso:
@@ -198,7 +198,7 @@ PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫
 Inf. ⟪घ्रातुम्⟫
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : deleitar, alegrar; amar, ser afeiçoado a alguém
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : deleitar, alegrar; amar, ser afeiçoado a alguém <!-- TODO: Fallback translation -->
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : alegrar-se
 
@@ -239,7 +239,7 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3604))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ⟪स्वक⟫ 3: próprio (meu, teu ...) ; m.: parente
 

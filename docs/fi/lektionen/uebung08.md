@@ -20,13 +20,13 @@ A) Selitä seuraavat substantiivit määrittämällä juuri, josta ne on johdett
 
 4\. mati: man 4 Ā "ajatella" + -ti f.: "ajatus, mielipide"
 
-5\. savana: su 5 U "puristaa" + -ana n.: "somapuristaminen"
+5\. savana: su 5 U "puristaa" + -ana n.: "somapuristaminen" <!-- TODO: Fallback translation -->
 
 6\. yodha: yudh 4 Ā "taistella" + -a m.: "soturi, sotilas"
 
 7\. lābha: labh 1 Ā "saada" + -a m.: "hyöty, voitto"
 
-8\. kāraṇa: kṛ 8 U "tehdä" + -ana n.: "syy, peruste"
+8\. kāraṇa: kṛ 8 U "tehdä" + -ana n.: "syy, peruste" <!-- TODO: Fallback translation -->
 
 9\. gati: gam 1 P "mennä" + -ti f.: "käynti, 'ura', päämäärä"
 
@@ -36,23 +36,23 @@ A) Selitä seuraavat substantiivit määrittämällä juuri, josta ne on johdett
 
 12\. sṛṣṭi: sṛj 6 P / 4 A "laskea virtaamaan, luoda" + -ti: "virtaus, luominen"
 
-13\. tantra: tan 8 U "jännittää, venyttää" + -tra n.: "langat, kude"
+13\. tantra: tan 8 U "jännittää, venyttää" + -tra n.: "langat, kude" <!-- TODO: Fallback translation -->
 
-14\. bhāva: bhū 1 P "olla, syntyä" + -a m.: "syntyminen, luonne, karakteri"
+14\. bhāva: bhū 1 P "olla, syntyä" + -a m.: "syntyminen, luonne, karakteri" <!-- TODO: Fallback translation -->
 
-15\. darśana: dṛś (4 P: paśyati) "nähdä" + -ana n-: "näkeminen, ilmiö, näkökulma, filosofinen järjestelmä"
+15\. darśana: dṛś (4 P: paśyati) "nähdä" + -ana n-: "näkeminen, ilmiö, näkökulma, filosofinen järjestelmä" <!-- TODO: Fallback translation -->
 
 16\. netra: nī 1 U "johtaa" + -tra n.: "silmä"
 
 17\. veśana: viś 6 P "astua sisään" + -ana n.: "sisäänasto, pääsy"
 
-18\. kopa: kup 4 P "vihastua" + -a m.: "viha, raivo"
+18\. kopa: kup 4 P "vihastua" + -a m.: "viha, raivo" <!-- TODO: Fallback translation -->
 
 19\. sarga: ṛj 6 P / 4 A "laskea virtaamaan, luoda" + -a m.: "vapauttaminen, virtaus, luominen"
 
 20\. yajana: yaj 1 U "uhrata" + -ana n.: "uhrata, uhripaikka"
 
-21\. moha: muḥ 4 P "olla hämmentynyt" + -a m.: "hämmennys, harha, erehdys"
+21\. moha: muḥ 4 P "olla hämmentynyt" + -a m.: "hämmennys, harha, erehdys" <!-- TODO: Fallback translation -->
 
 22\. śrava: śru 5 P "kuulla" + -a m.: "kuuntelu, kuuleminen"
 
@@ -60,17 +60,17 @@ A) Selitä seuraavat substantiivit määrittämällä juuri, josta ne on johdett
 
 24\. nīti: nī 1 U "johtaa" + -ti f.: "johto, ohjaus"
 
-25\. nartana: nṛt 4 P "tanssia" + -ana 3: "tanssiva, tanssija"; n.: "tanssi"
+25\. nartana: nṛt 4 P "tanssia" + -ana 3: "tanssiva, tanssija"; n.: "tanssi" <!-- TODO: Fallback translation -->
 
-26\. jaya: ji 1 P "voittaa" + -a m.: "voitto, voittaminen"
+26\. jaya: ji 1 P "voittaa" + -a m.: "voitto, voittaminen" <!-- TODO: Fallback translation -->
 
 27\. nayana: nī 1 U "johtaa" + -ana n.: "silmä"
 
 28\. śravaṇa: śru 5 P "kuulla" + -ana n.: "korva"
 
-B) Johda abstraktit substantiivit kaikille tähän mennessä opetuissa olevista substantiiveista ja pohdi niiden merkitystä (suullisesti)
+B) Johda abstraktit substantiivit kaikille tähän mennessä opetuissa olevista substantiiveista ja pohdi niiden merkitystä (suullisesti) <!-- TODO: Fallback translation -->
 
-C) Sijoita yksikössä ja monikossa suora objekti:
+C) Sijoita yksikössä ja monikossa suora objekti: <!-- TODO: Fallback translation -->
 
 kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
@@ -87,7 +87,7 @@ kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / 
 ⟪क्षत्रिया⟫ ⟪ब्राह्मणांश्च⟫ ⟪वैश्यांश्च⟫ ⟪शूद्रांश्च⟫ ⟪रक्षन्ति⟫ ⟪।⟫ ⟪क्षत्रिया⟫ ⟪ब्राह्मणवैश्यशूद्रान्रक्षन्ति⟫ ⟪।⟫
 
 
-2. Pyhä mies näkee sekä taivaan että helvetin.
+2. Pyhä mies näkee sekä taivaan että helvetin. <!-- TODO: Fallback translation -->
 
 sādhuḥ svargāmś ca narakāmś ca paśyati.
 
@@ -123,7 +123,7 @@ brāhmaṇā agniṃ kurvanti.
 
 ⟪ब्राह्मणा⟫ ⟪अग्निं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 
-8. Mitä nämä taistelijat tekevät?
+8. Mitä nämä taistelijat tekevät? <!-- TODO: Fallback translation -->
 
 ime yodhāḥ kiṃ kurvanti?
 
@@ -152,7 +152,7 @@ kiṃ kāraṇam?
 Kuv.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung007))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Luentoharjoitus
 
@@ -163,7 +163,7 @@ Kuv.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्व�
 Runoilija uhraa jumalalle.
 
 3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-Pyhä mies syö hedelmiä.
+Pyhä mies syö hedelmiä. <!-- TODO: Fallback translation -->
 
 4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
 Mestari voittaa vihattansa.
@@ -178,7 +178,7 @@ Lehmä astuu kylään.
 Into, viha ja ahneus johtavat helvettiin.
 
 8. ⟪देवतां⟫ ⟪यजति⟫ |
-Hän uhraa jumalan uhrin isännälle.
+Hän uhraa jumalan uhrin isännälle. <!-- TODO: Fallback translation -->
 
 9. ⟪बाला⟫ ⟪भवति⟫ |
 Tyttö syntyy.
@@ -190,19 +190,19 @@ Vaununkuljettaja ajaa vaunuja.
 Apinat syövät hedelmiä.
 
 12. ⟪बाला⟫ ⟪लिखति⟫ |
-Tyttö kirjoittaa tai piirtää.
+Tyttö kirjoittaa tai piirtää. <!-- TODO: Fallback translation -->
 
 13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
 Neitsyt astuu taloon.
 
 14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
 
 15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Poika johtaa norsua.
 
 16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟩ Oik. Vimalā)
-Vimalā ist traurig.
+Vimalā ist traurig. <!-- TODO: Fallback translation -->
 
 17. ⟪शुकः⟫ ⟪पतति⟫ |
 Papukaija lentää.
@@ -214,4 +214,4 @@ Poika kirjoittaa kirjeen.
 ![](/images/uebung008.webp)
 Kuv.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung008))
-:::
+::: <!-- TODO: Fallback translation -->

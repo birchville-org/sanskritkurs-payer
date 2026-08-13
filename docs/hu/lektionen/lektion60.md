@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# 60. lecke
+# 60. lecke <!-- TODO: Fallback translation -->
 
-## 60.1. A kettős szám perfekta végződése (⟪द्विवचनम्⟫)
+## 60.1. A kettős szám perfekta végződése (⟪द्विवचनम्⟫) <!-- TODO: Fallback translation -->
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
@@ -17,7 +17,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | \-athur | \-āthe |
 | 3\. ⟪प्रथमः⟫ | \-atur | \-āte |
 
-## 60.2. A reduplikált perfekum duálisa (⟪द्वित्वलिट्⟫)
+## 60.2. A reduplikált perfekum duálisa (⟪द्वित्वलिट्⟫) <!-- TODO: Fallback translation -->
 
 ### 60.2.1. Típus 1: nincs tőhangzás
 
@@ -52,7 +52,7 @@ status: stable
 :::
 ### 60.2.3. Típus 3: Erős alapalak magas fok/hosszúsított fok
 
-#### 60.2.3.1. Típus 3a: Erős alapalak magas fok/hosszúsított fok, gyenge alapalak mély fok
+#### 60.2.3.1. Típus 3a: Erős alapalak magas fok/hosszúsított fok, gyenge alapalak mély fok <!-- TODO: Fallback translation -->
 
 ⟪नी⟫ 1U „vezet”
 
@@ -176,7 +176,7 @@ Példák:
 | ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "aki volt" ; "aki eldobott" |
 | ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "aki adott" |
 | ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "aki főzött" |
-| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "aki elment" |
+| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "aki elment" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Ragozás:**
@@ -184,9 +184,9 @@ Példák:
 *   **Erős tő: -vāṃs**
 *   **Gyenge tő:**
     *   **Mássalhangzó előtt: **-vat** **(!)**
-    *   **Magánhangzó előtt: -uṣ**
+    *   **Magánhangzó előtt: -uṣ** <!-- TODO: Fallback translation -->
 
-**-i- kötőmagánhangzó kiesik uṣ előtt.**
+**-i- kötőmagánhangzó kiesik uṣ előtt.** <!-- TODO: Fallback translation -->
 
 **Nemnem:**
 
@@ -210,7 +210,7 @@ A paradigmákért lásd Kielhorn, Grammatik § 124:
 ::: grammar-box
 **A -añc/-ac végződésű tövek a ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "mozogni" gyöknévvel való összetételből állnak.**
 :::
-### 60.5.1. Háromtöves -añc tövek
+### 60.5.1. Háromtöves -añc tövek <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Alkotóelem:**
@@ -224,7 +224,7 @@ A paradigmákért lásd Kielhorn, Grammatik § 124:
             ⟪अन्वच्⟫ » ⟪अनूच्⟫
         *   **Ha az -ac előtt nincs fémmagánhangzó, akkor -ac helyett -īc kerül:**
             ⟪उदच्⟫ » ⟪उदीच्⟫
-        *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
+        *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫ <!-- TODO: Fallback translation -->
 
 **Nem:**
 
@@ -267,7 +267,7 @@ Ide tartoznak:
 *   **Erős tő: -añc**
 *   **Gyenge tő mássalhangzó előtt, ill. magánhangzó előtt: -ac**
 :::
-Ide tartoznak:
+Ide tartoznak: <!-- TODO: Fallback translation -->
 
 *   ⟪प्राञ्च्⟫ 3 „előre irányuló, keleti”
 *   ⟪अवाञ्च्⟫ 3 „lefelé irányuló”
@@ -293,44 +293,44 @@ A fő égtájak
 *   **egy személy vagy dolog azt kívánja tenni vagy elszenvedni, amit a gyökér vagy a causativus fejez**
 *   **ritkábban: valaki vagy valami éppen abban az állapotban van, hogy azt tegye, amit a gyökér vagy a causativus fejez**
 :::
-####  Példák:
+####  Példák: <!-- TODO: Fallback translation -->
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "ő azt kívánja tenni" |
 | --- | --- |
 | ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "ő éppen abban az állapotban van, hogy essen" |
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "ő azt kívánja ellopnia" |
-| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "ő azt kívánja megtanítani (felébreszteni a tudatosságra)" |
+| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "ő azt kívánja megtanítani (felébreszteni a tudatosságra)" | <!-- TODO: Fallback translation -->
 
 ### 60.6.1. A desideratív alap képzése
 
 ::: grammar-box
-**A jelen időosztályok gyökei 1 - 9:**
+**A jelen időosztályok gyökei 1 - 9:** <!-- TODO: Fallback translation -->
 
 **reduplikált gyök + sa**
 
 **vagy:**
 
-**reduplikált gyök + i + ṣa**
+**reduplikált gyök + i + ṣa** <!-- TODO: Fallback translation -->
 
 A kötőmag -i- használatára vonatkozó szabályok: lásd Kielhorn, Grammatik § 443 - 445.
 
-**A 10. jelen idő osztály gyökei és a kausatívumok:**
+**A 10. jelen idő osztály gyökei és a kausatívumok:** <!-- TODO: Fallback translation -->
 
 **reduplikált jelen időstam + i + ṣa**
 :::
 ::: grammar-box
-**A gyök alakja:**
+**A gyök alakja:** <!-- TODO: Fallback translation -->
 
-1.  A gyök általában mély fokú: ⟪जीव्⟫ » ⟪जिजीविष⟫-
+1.  A gyök általában mély fokú: ⟪जीव्⟫ » ⟪जिजीविष⟫- <!-- TODO: Fallback translation -->
 
     1.  a szó végén álló -i, -u helyett -ī, illetve -ū kerül, ha nem következik kötőmag:
 ⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "győzni kívánni"  
-⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "futni kívánni"
+⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "futni kívánni" <!-- TODO: Fallback translation -->
 
     2.  a szó végén álló -ṛ, -ṝ helyett -īr kerül, hangzókonsonánsok után pedig -ūr, ha nem következik kötőmag:
 ⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "tenni kívánni"  
 ⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "halni készülni"  
-⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "tölteni kívánni"
+⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "tölteni kívánni" <!-- TODO: Fallback translation -->
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ és néhány más -ā, -e, -o végű gyökér mély fokú Ø-t mutat:
 ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -340,7 +340,7 @@ A kötőmag -i- használatára vonatkozó szabályok: lásd Kielhorn, Grammatik 
 2.  A magas fokú gyökök a desideratívumban:
     1.  a legtöbb -ā (-e, -ai stb.) végű gyökér:
 ⟪गै⟫ » ⟪जिगास⟫- "énekelni kívánni"  
-⟪पा⟫ » ⟪पिपास⟫- "inni kívánni, szomjazni"
+⟪पा⟫ » ⟪पिपास⟫- "inni kívánni, szomjazni" <!-- TODO: Fallback translation -->
 
     2.  a / ā - mássalhanggal rendelkező gyökök többsége:
 ⟪दह्⟫ » ⟪दिधक्ष⟫- "égést kívánni"  
@@ -363,12 +363,12 @@ A kötőmag -i- használatára vonatkozó szabályok: lásd Kielhorn, Grammatik 
 ⟪त्यज्⟫ » ⟪तित्यज⟫-  
 ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
 A gyök végén álló -s cerebralizálása i/u után elmarad, ha a desideratív képző s-je cerebralizálódik:  
-⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+⟪स्मि⟫ » ⟪सिस्मयिष⟫- <!-- TODO: Fallback translation -->
 
 2.  A magánhangzóval kezdődő gyököket a duplikált aorist megfelelő szabályai szerint ([Lektion 56](lektion56.md)) duplikálják:
 ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
 ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-⟪ऋ⟫ » ⟪अरिरिष⟫-
+⟪ऋ⟫ » ⟪अरिरिष⟫- <!-- TODO: Fallback translation -->
 
 3.  A bizonyos gyökök különleges desideratív képzéséről lásd Kielhorn, Grammatik § 451.
 :::
@@ -384,7 +384,7 @@ Lista Kielhorn, Grammatik § 452:
 ### 60.6.2. A desiderativum ragozása (⟪सन्⟫)
 
 ::: grammar-box
-**A desiderativum – néhány kivételtől eltekintve – P, Ā vagy U attól függően, hogy az alapul szolgáló gyökér (vagyis az alapul szolgáló igei tő) P, Ā vagy U.**
+**A desiderativum – néhány kivételtől eltekintve – P, Ā vagy U attól függően, hogy az alapul szolgáló gyökér (vagyis az alapul szolgáló igei tő) P, Ā vagy U.** <!-- TODO: Fallback translation -->
 
 **Jelen idő alap: Ragozás mint egy tematikus alap:**
 
@@ -401,7 +401,7 @@ Kivonat: ⟪यियक्ष्यते⟫ "azt kívánják, hogy áldozzon"
 ::: indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "ő azt kívánta, hogy megszerezze"
 :::
-**Aorist: iṣ-Aorist:**
+**Aorist: iṣ-Aorist:** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
@@ -411,11 +411,11 @@ Kivonat: ⟪यियक्ष्यते⟫ "azt kívánják, hogy áldozzon"
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
 :::
-A -u végződésű cselekvőnevek képzése a desideratív törzsből lásd [54. lecke](lektion54.md).
+A -u végződésű cselekvőnevek képzése a desideratív törzsből lásd [54. lecke](lektion54.md). <!-- TODO: Fallback translation -->
 
 ## 60.7. Gyakorlat
 
-A) Tanulja meg Kielhorn, Grammatik § 451-ben a eddig tanult igák szabálytalan desideratív képzéseit:
+A) Tanulja meg Kielhorn, Grammatik § 451-ben a eddig tanult igák szabálytalan desideratív képzéseit: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6007.webp)

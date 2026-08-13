@@ -5,7 +5,7 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα δʹ1
 
@@ -73,7 +73,7 @@ status: stable
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
 | **⟪क्री⟫** 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. "Μετοχὴ" τῆς παθητικῆς ἀναγκαιότητος (Γερουνδίβου) (⟪कृत्य⟫)
+### 41.2.2. "Μετοχὴ" τῆς παθητικῆς ἀναγκαιότητος (Γερουνδίβου) (⟪कृत्य⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Πρὸς τὴν ἔκφρασιν τῆς παθητικῆς ἀναγκαιότητος (“ὅ δεῖ ποιεῖσθαι/ποιεῖν”), δύναται τὰ ἐπίθετα ἐκ ριζῶν καὶ παραγωμένων ῥηματικῶν σταθμῶν προαιρετῶς μετὰ τῶν ἑξῆς καταλήξεων σχηματίζεσθαι:**
@@ -106,7 +106,7 @@ status: stable
 | :--- | :--- | :--- |
 | ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | "jemand, der besiegt werden muss; ein zu besiegender" |
 | ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "das, wo man sich befinden soll" |
-| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" |
+| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" | <!-- TODO: Fallback translation -->
 
 :::
 #### 41.2.2.2. Τὸ ἐπίθημα -⟪अनीय⟫ / -⟪अनीया⟫
@@ -131,7 +131,7 @@ High-grade root + -⟪अनीय⟫ / -⟪अनीया⟫
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "zu tuendes" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "was man sehen muss; sehenswertes" |
 | ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "ein zu weckender" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
+| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" | <!-- TODO: Fallback translation -->
 
 :::
 #### 41.2.2.3. Τὸ ἐπίθημα -⟪य⟫ / -⟪या⟫
@@ -155,7 +155,7 @@ High-grade root + -⟪अनीय⟫ / -⟪अनीया⟫
 | | | |
 | :--- | :--- | :--- |
 | ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "zu wissendes; was erkannt werden muss" |
-| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" |
+| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -167,7 +167,7 @@ High-grade root + -⟪अनीय⟫ / -⟪अनीया⟫
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" |
+| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -180,7 +180,7 @@ High-grade root + -⟪अनीय⟫ / -⟪अनीया⟫
 | | | |
 | :--- | :--- | :--- |
 | ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "zu verkaufen; verkäuflich" |
-| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" |
+| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" | <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -199,7 +199,7 @@ High-grade root + -⟪अनीय⟫ / -⟪अनीया⟫
 | | | |
 | :--- | :--- | :--- |
 | ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "was gepriesen werden soll" |
-|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" |
+|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" | <!-- TODO: Fallback translation -->
 
 :::
 Παραδείγματα ριζῶν ὀξυφωνηέντων (περὶ τῶν κανόνων ἴδε Κίλφhorn, Γραμματική § 533ff.):
@@ -213,7 +213,7 @@ High-grade root + -⟪अनीय⟫ / -⟪अनीया⟫
 | | | |
 | :--- | :--- | :--- |
 | ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "sehenswert" |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" |
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" | <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -230,7 +230,7 @@ Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 | | | |
 | :--- | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "zu hassender = Feind" |
-| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" |
+| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -246,7 +246,7 @@ Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" |
+| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" | <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -274,7 +274,7 @@ Exemplaria:
 | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "zu gehender" |
 | ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "zu hörender" |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" | <!-- TODO: Fallback translation -->
 
 :::
 ### 41.2.3. Συντακτικά zum "Μετοχὴ" τῆς παθητικῆς ἀναγκαιότητος (Γερουνδίβου) (⟪कृत्य⟫)
@@ -374,7 +374,7 @@ Fig.: ⟪शासना⟫
 
 **Payer, Alois (1944–):** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-⟪कन्या⟫ f.: νεανίς, θυγάτηρ, παρθένος
+⟪कन्या⟫ f.: νεανίς, θυγάτηρ, παρθένος <!-- TODO: Fallback translation -->
 
 ⟪अति⟫ Präverb: ὑπέρ, ὑπερ- -πά, ὑπερ- -ἐκ (εν τῷ τόπῳ, ἐν τῷ χρόνῳ, ἀριθμῷ, πλήθει, τάξει, δυνάμει, ἰσχύι), ὑπερβολικῶς
 

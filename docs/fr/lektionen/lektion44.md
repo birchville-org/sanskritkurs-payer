@@ -5,9 +5,9 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 44
+# Leçon 44
 
 ## 44.1. Formation des formes verbales de la 2ᵉ personne (⟪मध्यमः⟫) des thèmes athématiques avec suffixe à terminaison vocalique
 
@@ -69,7 +69,7 @@ De plus, les lois suivantes du sandhi des mots s'appliquent.
 
 (Résumé détaillé de toutes les modifications phonétiques relevant de ce domaine chez Kielhorn, Grammatik p. 76s.)
 
-### 44.2.1. Zum Wortsandhi für dh-
+### 44.2.1. Zum Wortsandhi für dh- <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1. Pour les thèmes de présent à consonne finale, les lois du sandhi des mots déjà traitées doivent être respectées.
@@ -86,14 +86,14 @@ De plus, les lois suivantes du sandhi des mots s'appliquent.
 ::: grammar-box
 1. Pour les thèmes de présent à consonne finale, les lois du sandhi des mots déjà traitées doivent être respectées.
 Beispiele:
-* (Résumé détaillé de toutes les modifications phonétiques relevant de ce domaine chez Kielhorn, Grammatik p. 76s.)
-* **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
+   * (Résumé détaillé de toutes les modifications phonétiques relevant de ce domaine chez Kielhorn, Grammatik p. 76s.)
+   * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
 z.B. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
 :::
 ## 44.3. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
 
-### 44.3.1. Zweite Präsensklasse (⟪अदादि⟫)
+### 44.3.1. Zweite Präsensklasse (⟪अदादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -433,7 +433,7 @@ B) Traduisez :
 ⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
 ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
 
-## 44.7. Wiederholungsübung zur Formenlehre
+## 44.7. Wiederholungsübung zur Formenlehre <!-- TODO: Fallback translation -->
 
 Déterminez les formes suivantes :
 
@@ -484,7 +484,7 @@ Déterminez les formes suivantes :
 
 **lekt4401.jpg** : Aucune licence/source d'image spécifique trouvée dans le texte
 
-**lekt4402.jpg** : Dessin de Henri Gerbault (1863 - 1930) (Domaine public)
+**lekt4402.jpg** : Dessin de Henri Gerbault (1863 - 1930) (Domaine public) <!-- TODO: Fallback translation -->
 
 **lekt4403.jpg** : danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Consulté le 2009-01-08. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)
 

@@ -4,9 +4,9 @@ lesson_id: 33
 status: stable
 ---
 
-# Lektion 33
+# Leçon 33
 
-## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
+## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.) <!-- TODO: Fallback translation -->
 
 * La troisième classe de présent
 * (ainsi que certains verbes d'autres classes de présent),
@@ -19,7 +19,7 @@ sont formés au moyen de la répétition. La partie d'une forme répétée, plac
 
 La syllabe de répétition est composée d'(un consonne et) d'une voyelle.
 
-### 33.1.1. Der Reduplikationskonsonant
+### 33.1.1. Der Reduplikationskonsonant <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 (ainsi que certains verbes d'autres classes de présent),
@@ -109,14 +109,14 @@ Exemples :
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. Zum Ablaut von ā
+## 33.3. Zum Ablaut von ā <!-- TODO: Fallback translation -->
 
 ā kann
 
 * d’une part, le degré allongé d’une des séries d’ablaut avec -a-
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein <!-- TODO: Fallback translation -->
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A.**

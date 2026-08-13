@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 36
+# Lekcija 36
 
 ## 36.1. Besondere Bildungen des Perfekts
 

@@ -56,7 +56,7 @@ Deoarece momentul pentru jertfă a trecut, zeii, cărora nu li s-a jertfit, sunt
 
 ⟪८⟫. **⟪एवं⟫ ⟪काले⟫ ⟪गच्छति⟫ ⟪स्वाचारक्षत्रिय⟫ ⟪इष्टं⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभते⟫ ⟪॥८॥⟫**
 (⟪साधुराचार⟫o ⟪यस्य⟫ ⟪सः⟫)
-În timp ce timpul trece astfel, kṣatriya cu moduri bune nu obține prosperitatea dorită.
+În timp ce timpul trece astfel, kṣatriya cu moduri bune nu obține prosperitatea dorită. <!-- TODO: Fallback translation -->
 
 ⟪९⟫. **⟪ब्राह्मण्यां⟫ ⟪महाकवावागच्छन्त्यां⟫ ⟪ब्राह्मणीपुत्रो⟫ ⟪ऽप्यागच्छति⟫ ⟪॥९॥⟫**
 (⟪महति⟫ ⟪कवौ⟫ ⟪।⟫ ⟪ब्राह्मण्याः⟫ ⟪पुत्रः⟫)
@@ -70,4 +70,4 @@ Dacă învățătorii predau, copiii bine educați nu au voie să bârfescă (s�
 ![](/images/uebung044.webp)
 Fig.: ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung044))
-:::
+::: <!-- TODO: Fallback translation -->

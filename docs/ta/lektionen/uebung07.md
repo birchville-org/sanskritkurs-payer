@@ -184,7 +184,7 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (கௌடிலீய-அர்த்தசாஸ்திரம் 1.3.3-இலிருந்து.) விளக்கம்: chando = பெயர், எண். ஒருமை, chandas n. என்பதற்கு.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (கௌடிலீய-அர்த்தசாஸ்திரம் 1.3.3-இலிருந்து.) விளக்கம்: chando = பெயர், எண். ஒருமை, chandas n. என்பதற்கு.) <!-- TODO: Fallback translation -->
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 

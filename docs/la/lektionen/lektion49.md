@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lectio 49
 
@@ -231,7 +231,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Abb.: ⟪कुलूहलम्⟫
 (Bildquelle: [Details](/la/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: totus, integer
+⟪कृत्स्न⟫ 3: totus, integer <!-- TODO: Fallback translation -->
 
 ⟪परिचय⟫ m.: cognitio
 
@@ -247,7 +247,7 @@ Abb.: ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪उत⟫ Indeclinabile: et, quoque, an
 
-⟪विहंग⟫ m.: avis ("in aerem स्⟫traum - विह⟫ - eunt")
+⟪विहंग⟫ m.: avis ("in aerem स्⟫traum - विह⟫ - eunt") <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4903.jpg)
@@ -378,7 +378,7 @@ Psittacula cyanocephala (Cyanopsitta)
 
 **lekt4901:** [Imago a younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attributio, nulla modificatio)]
 
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, saec. XI. [Imago a Vassil / Wikipedia. Dominium publicum]
+**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, saec. XI. [Imago a Vassil / Wikipedia. Dominium publicum] <!-- TODO: Fallback translation -->
 
 **lekt4903:** [Imago a Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
 

@@ -91,7 +91,7 @@ Forma de 3.sg.Ā.Imperfekt, respectiv Optativ este identică cu forma de 2.pl.P.
 
 #### 43.2.1.6. Viitor (⟪ऌट्⟫)
 
-#### 43.2.1.6.1. Forme ⟨⟪अनिट्⟫-Bildungen⟩
+#### 43.2.1.6.1. Forme ⟨⟪अनिट्⟫-Bildungen⟩ <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U
 
@@ -143,14 +143,14 @@ Fig.: ⟪आपणः⟫
 :::
 ⟪सत्वर⟫ 3: rapid, grăbit
 
-⟪पण्य⟫ 3: vândut; n.: marfă, comerț
+⟪पण्य⟫ 3: vândut; n.: marfă, comerț <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4303.webp)
 Fig.: ⟪पण्यानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4303))
 :::
-⟪आम्⟫ : da
+⟪आम्⟫ : da <!-- TODO: Fallback translation -->
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -180,7 +180,7 @@ Fig.: ⟪विपणिः⟫
 Fig.: ⟪वणिक्⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4305))
 :::
-⟪वर⟫ 3: cel mai bun
+⟪वर⟫ 3: cel mai bun <!-- TODO: Fallback translation -->
 
 ⟪शीघ्र⟫ 3: rapid, repede
 
@@ -191,7 +191,7 @@ Fig.: ⟪वणिक्⟫
 Fig.: ⟪वत्सः⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4306))
 :::
-⟪उत्तम⟫ 3: suprem, cel mai bun
+⟪उत्तम⟫ 3: suprem, cel mai bun <!-- TODO: Fallback translation -->
 
 ⟪अल्प⟫ 3: mic, puțin
 
@@ -367,7 +367,7 @@ Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 ![](/images/lekt4309.webp)
 Fig.: ⟪शर्करा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4309))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
@@ -383,7 +383,7 @@ Fig.: ⟪शर्करा⟫
 
 **lekt4307.jpg**: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Accesat la 2009-01-06. -- Licență Creative Commons (Atribuire, fără scop comercial, fără modificări)
 
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense
+**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
 
 **lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Accesat la 2009-01-07. -- Licență Creative Commons (Atribuire, fără modificări)
 :::

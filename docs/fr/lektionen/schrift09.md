@@ -6,7 +6,7 @@
 
 *   une voyelle
 *   un Anusvāra (ṃ)
-*   un Visarga (ḥ)
+*   un Visarga (ḥ) <!-- TODO: Fallback translation -->
 
 et que le mot suivant commence par une consonne. Il en va de même dans les cas où, selon les règles du Sandhi de phrase, un hiatus se crée entre les voyelles.
 
@@ -24,13 +24,13 @@ Le signe d’abréviation (par exemple dans les références d’œuvres) est °
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden. <!-- TODO: Fallback translation -->
 
 ## Exercice
 
 A) Écrivez en Devanāgarī :
 
-ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
+ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha <!-- TODO: Fallback translation -->
 
 B) Lisez et translitérez :
 

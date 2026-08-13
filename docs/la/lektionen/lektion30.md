@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 30
+# Lectio 30
 
 ## 30.1. Classis nona praesentis (⟪kryādi⟫ = "⟪krī⟫ etc.")
 
@@ -123,7 +123,7 @@ Optativus (⟪लिङ्⟫), Imperfectum (⟪लङ्⟫), Aoristus (⟪ल�
 :::
 ## 30.4. Formatio Optativi Praesentis (⟪लिङ्⟫)
 
-### 30.4.1. Thematische praesentes classes
+### 30.4.1. Thematische praesentes classes <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **ante terminationes consonantes initiantes:**
@@ -226,7 +226,8 @@ Exempla:
 | **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 
@@ -244,7 +245,7 @@ Exempla:
 | **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
-## 30.5. Sandhi von auslautendem -r
+## 30.5. Sandhi von auslautendem -r <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Praeter quam pro -ar, pro -r finali eadem valent regulae Sandhi quam pro -s finali.**
@@ -317,7 +318,7 @@ Inf. ⟪पवितुम्⟫
 Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Fons imaginis: [Descriptiones](/la/licenses#lekt3003))
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : edere, consumere
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : edere, consumere <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
@@ -471,7 +472,7 @@ B) Versa verba sequentia et solvite composita Sanscritice:
 ⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
 ⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
 
-## 30.8. Wiederholungsübung zur Formenlehre
+## 30.8. Wiederholungsübung zur Formenlehre <!-- TODO: Fallback translation -->
 
 Determina et versa hasce formas verborum:
 

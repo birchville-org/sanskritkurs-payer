@@ -30,24 +30,24 @@ lesson_id: 18
 ⟪अति⟫ "ἐπὶ τοῦτο":
 
 ::: indent
-⟪अतिगुरु⟫ 3: extremely difficult, extremely weighty
+⟪अतिगुरु⟫ 3: ⲛⲓⲥϣⲱⲡⲓ ϫⲉ ⲛⲁϥⲱⲧ, ⲛⲓⲥϣⲱⲡⲓ ϫⲉ ⲛⲁϥⲱⲧ
 
 ⟪अतिपुरुष⟫ m.: outstanding man, Superman, hero
 
 ⟪अतिस्तुति⟫ f.: excessive praise
 
-⟪अत्युक्ति⟫ f.: excessive speech, exaggeration
+⟪अत्युक्ति⟫ ⲡⲓϣⲱⲧ: ⲛⲁⲏ ϭⲉ ⲡϣⲱⲧ, ⲛⲁⲏ ϭⲉ ⲡϣⲱⲧ
 :::
-The most important adverbial prefixes are a-/an-, su-, dus-.
+Ⲟι ϭⲉ ⲛⲁϣⲱⲧ ⲡⲓⲥⲟⲃϣ ϭⲉ a-/an-, su-, dus-.
 
-⟪अ⟫ (before consonant), ⟪अन्⟫ (before vowel): un-: stands in the compound instead of ⟪न⟫ "not".
+⟪अ⟫ (ⲡⲓϣⲱⲧ ⲛⲁ ϭⲉ), ⟪अन्⟫ (ⲡⲓϣⲱⲧ ⲛⲁ ϭⲉ): un-: ⲡⲓϣⲱⲧ ⲛⲁ ϭⲉ ⟪न⟫ "not".
 
 Examples:
 
 ::: indent
-⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): untruth, lie
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): ⲑⲟϥ, ϣⲱⲡ
 
-⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: not done, undone
+⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: ⲛⲓϣⱧⲡ, ϯϥⲙⲏ
 
 ⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : ⲛⲓⲃⲱϧ ϯⲙⲉⲛ ⲛⲃⲣⲁϩⲙⲁⲛ, ⲡⲓⲃⲱϧ ϯⲙⲉⲛ ⲛⲃⲣⲁϩⲙⲁⲛ
 
@@ -64,9 +64,9 @@ Examples:
 
 ⟪सुखादित⟫ 3: well chewed
 
-⟪सुदुःख⟫ n.: great suffering
+⟪सुदुःख⟫ n.: ⲛⲓⲥϣⲟⲡ ⲙⲉⲧⲁⲣϫⲱ
 :::
-⟪दुस्⟫ "evil, bad" (observe Sandhi!).
+⟪दुस्⟫ "ⲛϣⲟⲡ, ⲙⲉⲧⲁⲣϫⲱ" (observe Sandhi!).
 
 Examples:
 
@@ -81,9 +81,9 @@ Examples:
 
 Lautveränderung von -s in Komposita → ⲡⲓϧⲁⲃ ϩⲛ -s ⲉⲓϫⲟⲙⲡⲟⲥⲓⲧⲁ
 
-Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita: → ⲡⲉϥⲛⲁⲓ ϩⲙ ⲡⲓϫⲟⲙⲡⲟⲥⲓⲧⲉ ⲛⲁϫⲟⲥ ϩⲙ ⲡⲓⲛϣⲟⲧ <!-- TODO: Fallback translation -->
+Ⲥⲱϥ ϫⲉ ⲡⲓⲛⲁⲕⲟϥ ϩⲙ ⲡⲓⲛⲁⲕⲟϥ ϩⲙ ⲡⲓⲛⲁⲕⲟϥ ϩⲙ ⲡⲓⲛⲁⲕⲟϥ ϩⲙ ⲡⲓⲛⲁⲕⲟϥ: → ⲡⲉϥⲛⲁⲓ ϩⲙ ⲡⲓϫⲟⲙⲡⲟⲥⲉ ⲛⲁϫⲟⲥ ϩⲙ ⲡⲓⲛϣⲟⲧ
 
-\-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ → \-s ⲛⲁϫⲟⲥ -i- ⲧⲉ -u- ϩⲙ ⲡⲓϫⲟⲙⲡⲟⲥⲉ ⲛⲁϫⲟⲥ ϩⲙ ⲡⲓⲛϣⲟⲧ » -ṣ <!-- TODO: Fallback translation -->
+\-s ϫⲉ -i- ⲛⲁϫⲟⲥ ϩⲙ -u- ⲛⲁϫⲟⲥ ϩⲙ ⲡⲓϫⲟⲙⲡⲟⲥⲉ ⲛⲁϫⲟⲥ ϩⲙ ⲡⲓⲛϣⲟⲧ » -ṣ
 
 Deshalb: ⟪दुष्करण⟫ → ⲡⲉϥⲛⲁⲓ: ⟪दुष्करण⟫
 
@@ -147,7 +147,7 @@ Deshalb: ⟪दुष्करण⟫ → ⲡⲉϥⲛⲁⲓ: ⟪दुष्क�
 
 ::: grammar-box
 
-ⲡⲓϣⲁϫⲛⲧⲉ ⲙⲡⲣⲟϫ ϩⲛ ⲧⲉⲙⲁⲣϫⲟⲓ ⲛⲧⲉ ϯⲙϣⲁϫⲛ ⲡⲓⲥⲃⲏ (⟪उपसर्ग⟫ ⲛϣⲟⲡ) ϩⲃⲏ. ⲛϫⲓⲱϥ ϩⲃⲏ ⲡⲉⲙⲁϫⲟⲓ. ⲡⲓⲙϣⲁϫⲛ ϩⲃⲏ ⲙⲡⲓϣⲁϫⲛ ϩⲃⲏ ⲙⲡⲓϣⲁϫⲛ <!-- TODO: Fallback translation -->
+ⲡⲓϣⲁϫⲛⲧⲉ ⲙⲡⲣⲟϫ ϩⲛ ⲧⲉⲙⲁⲣϫⲟⲓ ⲛⲧⲉ ϯⲙϣⲁϫⲛ ⲡⲓⲥⲃⲏ (⟪उपसर्ग⟫ ⲛϣⲟⲡ) ϩⲃⲏ. ⲛϫⲓⲱϥ ϩⲃⲏ ⲡⲉⲙⲁϫⲟⲓ. ⲡⲓⲙϣⲁϫⲛ ϩⲃⲏ ⲙⲡⲓϣⲁϫⲛ ϩⲃⲏ ⲙⲡⲓϣⲁϫⲛ
 
 :::
 Einige wichtige Präverbe sind:
@@ -165,9 +165,9 @@ Beispiele:
 
 *   PPP ⟪उपपन्न⟫ 3: ⲛⲓⲙⲉϥⲧⱠ (ⲛⲓⲙⲉϥⲧⱠ)
 
-⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : comprehend, attain
+⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : ⲥⲱⲕⲟ, ϣⲁϩ
 :::
-⟪प्र⟫ "forward, forth"
+⟪प्र⟫ "ⲛⲟϥ, ⲙⲡⲓ"
 
 Examples:
 
@@ -176,22 +176,22 @@ Examples:
 
 ⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : show
 
-⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : wake up, recognize
+⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : ⲡⲓϣⲱⲧ, ⲛⲟⲩⲉⲓ
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : emerge, stand out, have power over (Gen., Loc. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : ⲡⲓϣⲱⲧ, ⲛⲟⲩⲉⲓ, ⲡⲓϣⲱⲧ (Gen., Loc. Dat.)
 
-⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : explain, communicate, utter
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : ⲡⲓϣⲱⲧ, ⲛⲟⲩⲉⲓ, ⲡⲓϣⲱⲧ
 
 ⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : utter, designate as, declare
 
-⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : praise beforehand, shout loudly, bring up something, begin
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : ⲡⲣⲱ-ⲕⲟⲥⲙⲓⲛ, ⲡⲣⲱ-ⲕⲟϥ, ⲛⲓⲁⲧⲙⲏ, ⲡϣⲟⲡ
 :::
-⟪वि⟫ "apart, away, zer-, ver-"
+⟪वि⟫ "ⲛϣ, ⲙⲡⲓ, ⲧⲉⲛϣ, ⲱⲙ"
 
 Examples:
 
 ::: indent
-⟪विगम्⟫ 1 ⟪विगच्छति⟫ : go apart, pass away, disappear
+⟪विगम्⟫ 1 ⟪विगच्छति⟫ : ⲛⲟϥⲧⲁⲃⲏ, ⲛⲟϥⲧⲁⲃⲏ, ⲛⲟϥⲧⲁⲃⲏ
 
 ⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : conquer
 
@@ -208,11 +208,11 @@ Examples:
 Examples:
 
 ::: indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : sit together, stay, dwell
+⟪समास्⟫ 2 Ⲁ समास्ते⟫ : ϯⲥⲓⲧ ⲛϣⲟⲡ, ⲙⲉⲧⲛⲁϥ, ⲇⲟⲣⲡⲏ
 
-⟪समि⟫ 2 ⟪समेति⟫ : come together, unite
+⟪समि⟫ 2 समेति⟫ : ⲛⲧⲁϥⲙⲏ, ⲕⲱⲛⲧ
 
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : come together, meet (friendly or hostile), have sexual intercourse with (Acc.)
+⟪संगम्⟫ 1 Ⲁ (!) संगच्छते⟫ : ⲛⲧ⁅ⲙⲏ, ⲕⲱⲛⲧ (ϣⲟⲡ ⲛⲁⲕ), ⲙⲉⲧϣⲱⲡ (Acc.)
 
 ⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : ⲛⲓⲱϣ
 

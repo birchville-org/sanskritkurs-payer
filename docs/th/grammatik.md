@@ -3,109 +3,105 @@ aside: true
 outline: [2, 3]
 ---
 
+# Grammatik Themen
 
+หน้านี้ให้ภาพรวมอย่างเป็นระบบของหัวข้อไวยากรณ์ทั้งหมดในหลักสูตรภาษาสันสกฤต บทเรียนทั้ง 61 บทถูกจัดหมวดหมู่ตามหัวข้อที่นี่
 
-# วิชาไวยากรณ์
+## 1. Lautlehre & Schrift (Saṃhitā & Lipi)
 
-หน้าเว็บนี้ให้ภาพรวมอย่างเป็นระบบของหัวข้อทางไวยากรณ์ทั้งหมดในหลักสูตรภาษาสันสกฤต บทเรียนทั้ง 61 บทถูกจัดหมวดหมู่ตามหัวข้อที่นี่
+*   **การแนะนำเสียง**: ระบบและวิธีการออกเสียง -\> [บทที่ 1](/lektionen/lektion01)
+*   **การแนะนำอักษร (Devanāgarī)**:
+*   สระและพยัญชนะพื้นฐาน -\> [บทที่ 40](/lektionen/lektion40)
+*   พยัญชนะผสม (Ligatures) -\> [บทที่ 41](/lektionen/lektion41) & [บทที่ 42](/lektionen/lektion42)
+*   **สันธิต (การเชื่อมเสียง)**:
+*   สันธิของ **-s/Visarga** ที่ท้ายคำ -\> [บทที่ 2](/lektionen/lektion02), [บทที่ 3](/lektionen/lektion03), [บทที่ 30](/lektionen/lektion30)
+*   สันธิของ **-m, -e, -d** -\> [บทที่ 4](/lektionen/lektion04)
+*   **สันธิสระ** -\> [บทที่ 3](/lektionen/lektion03), [บทที่ 24](/lektionen/lektion24)
+*   สันธิของ **-n** -\> [บทที่ 7](/lektionen/lektion07)
+*   สันธิสำหรับ **อักษร鼻腔** -\> [บทที่ 21](/lektionen/lektion21), [บทที่ 26](/lektionen/lektion26)
+*   การเปลี่ยนเป็นอักษรกระหม่อม (**n -\> ṇ / s -\> ṣ**) -\> [บทที่ 10](/lektionen/lektion10), [บทที่ 26](/lektionen/lektion26)
+*   สันธิระดับคำ (h-, ch-) -\> [บทที่ 44](/lektionen/lektion44), [บทที่ 51](/lektionen/lektion51)
+*   **สันธิพยัญชนะ** (บทสรุป) -\> [บทที่ 16](/lektionen/lektion16), [บทที่ 43](/lektionen/lektion43)
 
-## 1. สัทดวิทยาและอักษร (Saṃhitā & Lipi)
+## 2. Wortkunde (Morphologie)
 
-*   **บทนำสู่เสียง**: ระบบและวิธีการออกเสียง -\> [Lektion 1](/th/lektionen/lektion01)
-*   **บทนำสู่ระบบอักษร (Devanāgarī)**:
-*   สระและพยัญชนะพื้นฐาน -\> [Lektion 40](/th/lektionen/lektion40)
-*   พยัญชนะผสม (Ligatures) -\> [Lektion 41](/th/lektionen/lektion41) & [Lektion 42](/th/lektionen/lektion42)
-*   **Sandhi (การรวมเสียง)**:
-*   Sandhi ของ **-s/Visarga** ที่ท้ายคำ -\> [Lektion 2](/th/lektionen/lektion02), [Lektion 3](/th/lektionen/lektion03), [Lektion 30](/th/lektionen/lektion30)
-*   Sandhi ของ **-m, -e, -d** -\> [Lektion 4](/th/lektionen/lektion04)
-*   **Vokalsandhi** -\> [Lektion 3](/th/lektionen/lektion03), [Lektion 24](/th/lektionen/lektion24)
-*   Sandhi ของ **-n** -\> [Lektion 7](/th/lektionen/lektion07)
-*   Sandhi ของ **พยัญชนะจมูกลักษณะ (Nasale)** -\> [Lektion 21](/th/lektionen/lektion21), [Lektion 26](/th/lektionen/lektion26)
-*   การเปลี่ยนเป็นเสียงกระดุก (Cerebralisation) (**n -\> ṇ / s -\> ṣ**) -\> [Lektion 10](/th/lektionen/lektion10), [Lektion 26](/th/lektionen/lektion26)
-*   Wortsandhi (h-, ch-) -\> [Lektion 44](/th/lektionen/lektion44), [Lektion 51](/th/lektionen/lektion51)
-*   **Konsonantensandhi** (บทสรุป) -\> [Lektion 16](/th/lektionen/lektion16), [Lektion 43](/th/lektionen/lektion43)
+### 2.1 Substantive und Adjektive (Deklination)
 
-## 2. คำศัพท์ (Morphology)
-
-### 2.1 คำนามและคำคุณศัพท์ (การผันคำ)
-
-*   **พื้นฐาน**: การผันตามกรณี -\> [Lektion 1](/th/lektionen/lektion01), [Lektion 2](/th/lektionen/lektion02)
-*   **A-Stämme** (เพศชายและกลาง) -\> [Lektion 2](/th/lektionen/lektion02), [Lektion 7](/th/lektionen/lektion07)
-*   **I- และ U-Stämme** -\> [Lektion 3](/th/lektionen/lektion03), [Lektion 27](/th/lektionen/lektion27), [Lektion 52](/th/lektionen/lektion52)
-*   **Konsonantische Stämme**:
-*   Stämme ที่ลงท้ายด้วย **-mant / -vant** -\> [Lektion 13](/th/lektionen/lektion13)
-*   Stämme ที่ลงท้ายด้วย **-n** (Rājan, Ātman) -\> [Lektion 38](/th/lektionen/lektion38)
-*   Konsonantenstämme แบบง่าย -\> [Lektion 51](/th/lektionen/lektion51), [Lektion 54](/th/lektionen/lektion54)
-*   Wurzelnomina ที่ลงท้ายด้วย **-ā, -ī, -ū** -\> [Lektion 61](/th/lektionen/lektion61)
-*   **Dual (พจน์คู่)** ของคำนาม -\> [Lektion 49](/th/lektionen/lektion49), [Lektion 50](/th/lektionen/lektion50), [Lektion 53](/th/lektionen/lektion53)
+*   **พื้นฐาน**: ทฤษฎีกรณียก -\> [บทที่ 1](/lektionen/lektion01), [บทที่ 2](/lektionen/lektion02)
+*   **ราก A** (เพศชาย & เพศกลาง) -\> [บทที่ 2](/lektionen/lektion02), [บทที่ 7](/lektionen/lektion07)
+*   **ราก I และ U** -\> [บทที่ 3](/lektionen/lektion03), [บทที่ 27](/lektionen/lektion27), [บทที่ 52](/lektionen/lektion52)
+*   **รากพยัญชนะ**:
+*   รากลงท้ายด้วย **-mant / -vant** -\> [บทที่ 13](/lektionen/lektion13)
+*   รากลงท้ายด้วย **-n** (Rājan, Ātman) -\> [บทที่ 38](/lektionen/lektion38)
+*   รากพยัญชนะอย่างง่าย -\> [บทที่ 51](/lektionen/lektion51), [บทที่ 54](/lektionen/lektion54)
+*   รากนามจากรากศัพท์ลงท้ายด้วย **-ā, -ī, -ū** -\> [บทที่ 61](/lektionen/lektion61)
+*   **พจน์คู่ (Dual)** ของนาม -\> [บทที่ 49](/lektionen/lektion49), [บทที่ 50](/lektionen/lektion50), [บทที่ 53](/lektionen/lektion53)
 *   **ตัวเลขและการเปรียบเทียบ**:
-*   คำจำนวน (Kardinalia/Ordinalia) -\> [Lektion 52](/th/lektionen/lektion52)
-*   การเปรียบเทียบ (Komparativ/Superlativ) -\> [Lektion 53](/th/lektionen/lektion53)
+*   คำจำนวน (เลขนับ/ลำดับ) -\> [บทที่ 52](/lektionen/lektion52)
+*   การเปรียบเทียบ (คุณศัพท์ขั้นกว่า/สูงสุด) -\> [บทที่ 53](/lektionen/lektion53)
 
-### 2.2 คำสรรพนามและคำกริยาวิเศษณ์
+### 2.2 Pronomina & Adverbien
 
 *   **คำสรรพนาม**:
-*   คำสรรพนามคำถามและแสดงอาการ -\> [Lektion 4](/th/lektionen/lektion04)
-*   คำสรรพนามสัมพัทธ์ (yad) -\> [Lektion 19](/th/lektionen/lektion19)
-*   คำสรรพนามบุรุษที่ 1 และ 2 -\> [Lektion 46](/th/lektionen/lektion46), [Lektion 47](/th/lektionen/lektion47)
-*   คำสรรพนามไม่เจาะจง -\> [Lektion 37](/th/lektionen/lektion37)
-*   **คำกริยาวิเศษณ์และการเรียกขาน**:
-*   การสร้างคำกริยาวิเศษณ์ -\> [Lektion 37](/th/lektionen/lektion37), [Lektion 52](/th/lektionen/lektion52)
-*   การเรียกขานอย่างสุภาพและ Vokativ -\> [Lektion 21](/th/lektionen/lektion21), [Lektion 44](/th/lektionen/lektion44)
+*   คำสรรพนามคำถามและคำแสดงอาการ -\> [บทที่ 4](/lektionen/lektion04)
+*   คำสรรพนามสัมพันธ์ (yad) -\> [บทที่ 19](/lektionen/lektion19)
+*   คำสรรพนามบุรุษที่ 1 และ 2 -\> [บทที่ 46](/lektionen/lektion46), [บทที่ 47](/lektionen/lektion47)
+*   คำสรรพนามไม่เจาะจง -\> [บทที่ 37](/lektionen/lektion37)
+*   **คำกริยาวิเศษณ์และคำเรียกขาน**:
+*   การสร้างคำกริยาวิเศษณ์ -\> [บทที่ 37](/lektionen/lektion37), [บทที่ 52](/lektionen/lektion52)
+*   คำเรียกขานอย่างสุภาพและคำวอเคทีฟ -\> [บทที่ 21](/lektionen/lektion21), [บทที่ 44](/lektionen/lektion44)
 
+### 2.3 Verben (Konjugation)
 
-### 2.3 กริยา (การผัน)
+*   **ระบบกาลปัจจุบัน (บุพบทบอกเล่า)**:
+*   สuffix บุรุษที่ 3, 2, 1 -\> [บทที่ 6](/lektionen/lektion06), [บทที่ 44](/lektionen/lektion44), [บทที่ 39](/lektionen/lektion39)
+*   กลุ่มธีม (1, 4, 6, 10) -\> [บทที่ 6](/lektionen/lektion06), [บทที่ 28](/lektionen/lektion28)
+*   กลุ่มไม่มีธีม -\> [บทที่ 17](/lektionen/lektion17), [บทที่ 33](/lektionen/lektion33), [บทที่ 7](/lektionen/lektion07), [บทที่ 31](/lektionen/lektion31), [บทที่ 8](/lektionen/lektion08), [บทที่ 30](/lektionen/lektion30)
+*   **กาลและมอดัลอื่นๆ**:
+*   **อิมเพอร์เฟกต์** (อดีต) -\> [บทที่ 32](/lektionen/lektion32)
+*   **ออปติฟและอิมเพอเรตีฟ** -\> [บทที่ 30](/lektionen/lektion30), [บทที่ 48](/lektionen/lektion48)
+*   **เพอร์เฟกต์** (เอกพจน์/พหูพจน์) -\> [บทที่ 34](/lektionen/lektion34), [บทที่ 35](/lektionen/lektion35), [บทที่ 36](/lektionen/lektion36)
+*   **เพอร์เฟกต์ (ทวิพจน์)** -\> [บทที่ 60](/lektionen/lektion60)
+*   **ฟิวเจอร์** (แบบง่ายและเพอริเฟรสติก) -\> [บทที่ 26](/lektionen/lektion26), [บทที่ 61](/lektionen/lektion61)
+*   **ออริสต์** (อดีต) -\> [บทที่ 54](/lektionen/lektion54), [บทที่ 55](/lektionen/lektion55), [บทที่ 56](/lektionen/lektion56), [บทที่ 57](/lektionen/lektion57), [บทที่ 58](/lektionen/lektion58)
+*   **รูปกริยาที่ได้มาจาก**:
+*   **ปาสซีฟและkausativ** -\> [บทที่ 10](/lektionen/lektion10), [บทที่ 28](/lektionen/lektion28), [บทที่ 29](/lektionen/lektion29)
+*   **อินเทนซีฟัมและเดนอมินาตีวา** -\> [บทที่ 61](/lektionen/lektion61)
+*   **กริยาในทวิพจน์** -\> [บทที่ 59](/lektionen/lektion59), [บทที่ 60](/lektionen/lektion60)
 
-*   **ระบบปัจจุบันกาล (Indicative)**:
-*   ท้ายคำบุรุษที่ 3, 2, 1 -\> [บทเรียน 6](/th/lektionen/lektion06), [บทเรียน 44](/th/lektionen/lektion44), [บทเรียน 39](/th/lektionen/lektion39)
-*   กลุ่มธีม (1, 4, 6, 10) -\> [บทเรียน 6](/th/lektionen/lektion06), [บทเรียน 28](/th/lektionen/lektion28)
-*   กลุ่มที่ไม่มีธีม -\> [บทเรียน 17](/th/lektionen/lektion17), [บทเรียน 33](/th/lektionen/lektion33), [บทเรียน 7](/th/lektionen/lektion07), [บทเรียน 31](/th/lektionen/lektion31), [บทเรียน 8](/th/lektionen/lektion08), [บทเรียน 30](/th/lektionen/lektion30)
-*   **กาลและมoods อื่นๆ**:
-*   **Imperfect** (อดีต) -\> [บทเรียน 32](/th/lektionen/lektion32)
-*   **Optative และ Imperative** -\> [บทเรียน 30](/th/lektionen/lektion30), [บทเรียน 48](/th/lektionen/lektion48)
-*   **Perfect** (เอกพจน์/พหูพจน์) -\> [บทเรียน 34](/th/lektionen/lektion34), [บทเรียน 35](/th/lektionen/lektion35), [บทเรียน 36](/th/lektionen/lektion36)
-*   **Perfect (ทวิพจน์)** -\> [บทเรียน 60](/th/lektionen/lektion60)
-*   **Futur** (ธรรมดาและ Periphrastic) -\> [บทเรียน 26](/th/lektionen/lektion26), [บทเรียน 61](/th/lektionen/lektion61)
-*   **Aorist** (อดีต) -\> [บทเรียน 54](/th/lektionen/lektion54), [บทเรียน 55](/th/lektionen/lektion55), [บทเรียน 56](/th/lektionen/lektion56), [บทเรียน 57](/th/lektionen/lektion57), [บทเรียน 58](/th/lektionen/lektion58)
-*   **รูปกริยาที่อนุพันธ์**:
-*   **Passive และ Causative** -\> [บทเรียน 10](/th/lektionen/lektion10), [บทเรียน 28](/th/lektionen/lektion28), [บทเรียน 29](/th/lektionen/lektion29)
-*   **Intensivum และ Denominativa** -\> [บทเรียน 61](/th/lektionen/lektion61)
-*   **กริยาในทวิพจน์ (Dual)** -\> [บทเรียน 59](/th/lektionen/lektion59), [บทเรียน 60](/th/lektionen/lektion60)
+### 2.4 Nominalbildungen & Komposita
 
-### 2.4 การสร้างนามและคำประสม
+*   **Komposita (Samāsa)**:
+    *   **Dvandva** (Kopulativkomposita) -\> [Lektion 5](/lektionen/lektion05), [Lektion 9](/lektionen/lektion09)
+    *   **Tatpuruṣa** (Determinativ) -\> [Lektion 15](/lektionen/lektion15), [Lektion 18](/lektionen/lektion18)
+    *   Upapada-Komposita -\> [Lektion 51](/lektionen/lektion51)
+    *   **Bahuvrīhi** (Possessiv) -\> [Lektion 20](/lektionen/lektion20)
+*   **Suffixe & Partizipien**:
+    *   Wichtige Suffixe (-a, -ana, -tra, etc.) -\> [Lektion 8](/lektionen/lektion08), [Lektion 9](/lektionen/lektion09)
+    *   **PPP** (Partizip Perfekt Passiv) -\> [Lektion 12](/lektionen/lektion12), [Lektion 13](/lektionen/lektion13)
+    *   **PPA** (Partizip Perfekt Aktiv) -\> [Lektion 52](/lektionen/lektion52)
+    *   **Absolutivum & Infinitiv** -\> [Lektion 22](/lektionen/lektion22), [Lektion 23](/lektionen/lektion23)
 
-*   **คำประสม (Samāsa)**:
-*   **Dvandva** (คำประสมเชิงประสาน) -\> [บทเรียน 5](/th/lektionen/lektion05), [บทเรียน 9](/th/lektionen/lektion09)
-*   **Tatpuruṣa** (คำประสมเชิงกำหนด) -\> [บทเรียน 15](/th/lektionen/lektion15), [บทเรียน 18](/th/lektionen/lektion18)
-*   Upapada-Komposita -\> [บทเรียน 51](/th/lektionen/lektion51)
-*   **Bahuvrīhi** (คำประสมเชิงแสดงความเป็นเจ้าของ) -\> [บทเรียน 20](/th/lektionen/lektion20)
-*   **Suffixes และ Participle**:
-*   Suffixes ที่สำคัญ (-a, -ana, -tra ฯลฯ) -\> [บทเรียน 8](/th/lektionen/lektion08), [บทเรียน 9](/th/lektionen/lektion09)
-*   **PPP** (Participle Perfect Passive) -\> [บทเรียน 12](/th/lektionen/lektion12), [บทเรียน 13](/th/lektionen/lektion13)
-*   **PPA** (Participle Perfect Active) -\> [บทเรียน 52](/th/lektionen/lektion52)
-*   **Absolutivum และ Infinitive** -\> [บทเรียน 22](/th/lektionen/lektion22), [บทเรียน 23](/th/lektionen/lektion23)
+## 3. Satzlehre (Syntax)
 
-## 3. ไวยากรณ์ประโยค (Syntax)
+*   **ประโยคนาม** -\> [บทที่ 2](/lektionen/lektion02)
+*   **ประโยคคำถาม** -\> [บทที่ 37](/lektionen/lektion37)
+*   **การใช้กรณี**:
+*   ประโยคนาม & นามกัตรา -\> [บทที่ 2](/lektionen/lektion02)
+*   อกรรมกัตรา (รวมถึงสองครั้ง) -\> [บทที่ 7](/lektionen/lektion07), [บทที่ 11](/lektionen/lektion11)
+*   เครื่องมือกัตรา -\> [บทที่ 10](/lektionen/lektion10)
+*   สัมปทานกัตรา -\> [บทที่ 14](/lektionen/lektion14)
+*   ธรรมกัตรา -\> [บทที่ 24](/lektionen/lektion24)
+*   อปทานกัตรา -\> [บทที่ 25](/lektionen/lektion25)
+*   อธิกัตรา -\> [บทที่ 27](/lektionen/lektion27)
+*   **ประโยครอง**:
+*   ประโยคสัมพันธะ -\> [บทที่ 19](/lektionen/lektion19)
+*   การใช้คำกริยาวิเศษณ์ -\> [บทที่ 12](/lektionen/lektion12), [บทที่ 44](/lektionen/lektion44)
 
-*   **Nominalsatz** -\> [บทเรียน 2](/th/lektionen/lektion02)
-*   **ประโยคคำถาม** -\> [บทเรียน 37](/th/lektionen/lektion37)
-*   **การใช้ Kasus**:
-*   Nominalsatz และ Nominativ -\> [บทเรียน 2](/th/lektionen/lektion02)
-*   Akkusativ (รวมถึงแบบคู่) -\> [บทเรียน 7](/th/lektionen/lektion07), [บทเรียน 11](/th/lektionen/lektion11)
-*   Instrumentalis -\> [บทเรียน 10](/th/lektionen/lektion10)
-*   Genitiv -\> [บทเรียน 14](/th/lektionen/lektion14)
-*   Dativ -\> [บทเรียน 24](/th/lektionen/lektion24)
-*   Ablativ -\> [บทเรียน 25](/th/lektionen/lektion25)
-*   Lokativ -\> [บทเรียน 27](/th/lektionen/lektion27)
-*   **ประโยคย่อย**:
-*   ประโยคสัมพันธะ -\> [บทเรียน 19](/th/lektionen/lektion19)
-*   การใช้ Participle -\> [บทเรียน 12](/th/lektionen/lektion12), [บทเรียน 44](/th/lektionen/lektion44)
+## 4. Metrik (Verslehre)
 
+ปรัชญาและวรรณกรรมภาษาสันสกฤตมักประพันธ์เป็นบทกวี เมตริกสอนจังหวะและการจัดโครงสร้างของบทกวีเหล่านี้
 
-## 4. เมตริก (วิชาฉันทลักษณ์)
-
-ปรัชญาและวรรณกรรมภาษาสันสกฤตมักประพันธ์เป็นฉันทลักษณ์ เมตริกสอนเกี่ยวกับจังหวะและโครงสร้างของบทกวีเหล่านี้
-
-*   **การแนะนำ & Śloka** -\> [บทที่ 45](/th/lektionen/lektion45), [บทที่ 53](/th/lektionen/lektion53)
-*   **ฉันทลักษณ์ขั้นสูง** (Trīṣṭubh, Jāgatī) -\> [บทที่ 54](/th/lektionen/lektion54)
+*   **Einführung & Śloka** -\> [Lektion 45](/lektionen/lektion45), [Lektion 53](/lektionen/lektion53)
+*   **Fortgeschrittene Metren** (Trīṣṭubh, Jāgatī) -\> [Lektion 54](/lektionen/lektion54)
 

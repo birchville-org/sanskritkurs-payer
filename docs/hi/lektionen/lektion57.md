@@ -93,7 +93,7 @@ status: stable
 ::: indent
 ⟪⟪⟪दृश्⟫⟫⟥ 3.⟪एकवचन⟫.⟪पुरुष⟫ ⟪⟪⟪अ⟫⟫⟥***⟪⟪:sig[⟪द्राक्षी⟫]⟫⟥***⟪⟪⟪त्⟫⟫⟥
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪⟪कृष्⟫⟫ 1P/6U 3.एकवचन.उत्तमपुरुष ⟪⟪अकार्क्षीत्⟫⟫ / ⟪⟪अ⟫⟫***⟪:sig[⟪क्राक्षी⟫]⟫***⟪⟪त्⟫⟫
@@ -141,10 +141,14 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 **⟪⟪अगसि⟫⟩ (« \*a-gm-si) ⟪⟪।⟫⟩ ⟪⟪अगथास्⟫⟩ ⟪⟪।⟫⟩ ⟪⟪अगत⟫⟩ (P में ⟪⟪गम्⟫⟩ विषयवाचक अorist है)**
 
 2.  ⟪पद्⟫ 4Ā नियमित है (उदा. ⟪अपत्सि⟫), परंतु 3.ए.ए. में इसका रूप निष्कर्षक मूल-पूर्वकाल का है:
-    ⟪अपादि⟫ "वह गया"
+::: indent
+⟪अपादि⟫ "वह गया"
+:::
 
 3.  ⟪बुध्⟫ Ā 3.ए.ए. में वैकल्पिक रूप से निष्कर्षक मूल-पूर्वकाल का रूप ले सकता है:
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "उसने जाना"
+::: indent
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "उसने जाना"
+:::
 :::
 ## 57.2. अभ्यास
 

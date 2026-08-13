@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 10
+# Lectio 10
 
 ::: deleteme-box
 **In hac lectione discetis:**
@@ -54,7 +54,7 @@ Constructiones passivae Sanscriticae valde frequentes sunt: passivum enim facili
 **Propositiones Sanscriticae passivae in lingua Germanica, in genere, per propositionem passivam reddi non possunt, quia passivum Germanicum functionem stilisticam omnino aliam habet.**
 :::
 
-## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
+## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Des instrumentalis (tṛtīyā) terminations regulares:**
@@ -120,7 +120,9 @@ Praeter Nominativum et Accusativum, formae Neutrorum in -a, interrogativi pronom
 2. **ad indicium medii vel instrumenti, quo aliquid perficitur**
 3. **ad indicium viae, qua quis quo pervenit**
 4. **ad exprimendam coniunctionem, unionem, societatem cum**
-5. **apud postpositiones in significatione "cum, simul cum"; exempli gratia: saha = ⟪सह⟫ = "cum"** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "simul cum brahmano"
+5. **apud postpositiones in significatione "cum, simul cum"; exempli gratia: saha = ⟪सह⟫ = "cum"**
+z.B.
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "simul cum brahmano"
 :::
 Aliae usus ablativi instrumentalís (tṛtīyā) sequentur postea.
 
@@ -152,7 +154,7 @@ Aliae usus ablativi instrumentalís (tṛtīyā) sequentur postea.
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das Passivum, Indikativ Präsens (yak = ⟪यक्⟫)
+## 10.4. Das Passivum, Indikativ Präsens (yak = ⟪यक्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Formatio:**
@@ -171,17 +173,24 @@ e.g.
 ### 10.4.1. Regulae speciales de formatione vocis passivae
 
 1. **Radices in -i vel -u** vocalem ante suffixum passivum **-ya-** **prolongant**:
-   * **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 1 P: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Radices cum -a- inter consonantes** (praeter nasales, y, r, v) manent acuta:
-   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Quaedam radices suum Passivum altum formant** (aut in gradu ablautis radicis praesentis):
-   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **Gradus profundus verborum, quae litteris ya, va, ra incipiunt, vel quibus litteris post aliam consonantem positis (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -191,19 +200,23 @@ e.g.
    | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
    | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-Nomen traditionale indigenum pro hac formatione gradus profundi in verbis cum **ya** sive **va** est **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
+Nomen traditionale indigenum pro hac formatione gradus profundi in verbis cum **ya** sive **va** est **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫). <!-- TODO: Fallback translation -->
 
 5. **-ṛ finale** post unicum consonanten ante suffixum passivum **-ya-** per **-ri-** mutatur:
-   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Aber: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+* **kṛ** 8 U: **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Aber: **smṛ** 1 P: **smaryate**
+⟪स्मर्यते⟫
 
 6. **Quaedam radices in -an finientes alterne duas formas passivae radicis formant:**
    * **-an-ya**
    * **-ā-ya-** (longum **ā** est exemplum hypothetici longi nasalis)
 
 z.B. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte) <!-- TODO: Fallback translation -->
 
 ## 10.5. Vocabularium
 
@@ -214,7 +227,7 @@ z.B. **tan** 8 U.
 - **nagara** n. ⟪नगर⟫ : civitas
 
   ::: note-box
-**yajña** m. ⟪यज्ञ⟫ : sacrificium
+  **yajña** m. ⟪यज्ञ⟫ : sacrificium
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : sacrificium
@@ -222,13 +235,13 @@ z.B. **tan** 8 U.
   ::: note-box
   Sacrificium in India est praecipue cultus deitatis ut hospitis. Per hoc se obligat deitati.
 
-Morphologia: **yaj** 1 U + suffixum kṛt **-na-**.
+  Morphologia: **yaj** 1 U + suffixum kṛt **-na-**.
   :::
 
 - **puṇya** n. ⟪पुण्य⟫ : opus bonum, meritum
 
   ::: note-box
-**satya** n. ⟪सत्य⟫ : veritas
+  **satya** n. ⟪सत्य⟫ : veritas
   :::
 
 - **pāpa** n. ⟪पाप⟫ : scelus, malum (contrarium ad **puṇya**)
@@ -250,7 +263,7 @@ Tab.: ⟪वरुणः⟫
   ::: note-box
   Derivation **an-** („un-“) + **ṛta** n.
 
-**ṛta** est conceptum centrale in Veda, cuius interpretatio controversa est: „veritas“ (Lüders, Thieme), „ordo“ (Renou).
+  **ṛta** est conceptum centrale in Veda, cuius interpretatio controversa est: „veritas“ (Lüders, Thieme), „ordo“ (Renou).
   :::
 
 - **ṛṣi** m. ⟪ऋषि⟫ : vates vetus, compositor carminum vedorum

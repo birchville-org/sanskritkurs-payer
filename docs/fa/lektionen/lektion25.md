@@ -5,7 +5,7 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # درس ۲۵
 
@@ -33,7 +33,7 @@ status: stable
 | ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
 | ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
 | ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
-| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
+| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) | <!-- TODO: Fallback translation -->
 
 :::
 ## 25.2. کاربرد حالت ازی (⟪पञ्चमी⟫)
@@ -109,7 +109,7 @@ status: stable
 
 ⟪किम्⟫ :  ⟪कुतस्⟫ "از کجا؟" "چرا؟"
 :::
-## 25.4. Andere Möglichkeiten, Begründungen auszudrücken <!-- TODO: Fallback translation -->
+## ۲۵.۴. راه‌های دیگر برای بیان دلایل
 
 ::: grammar-box
 **۱\. جملات وصفی**
@@ -444,7 +444,7 @@ PPP ⟪वृद्ध⟫ : بالغ، پیر، افزوده شده
 ::: indent
 توضیح: ⟪राजा⟫ = مفرد مرفوع از ⟪राजन्⟫ مذکر = ⟪नृप⟫
 :::
-## 25.8. Übersetzungsübung <!-- TODO: Fallback translation -->
+## ۲۵.۸ تمرین ترجمه
 
 ۱\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. درباره سود اقتصادی:
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 20
+# Lecziun 20
 
 ## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
 
@@ -112,7 +112,7 @@ Tradizionalmain distinghescha si:
 **Ezempels:**
 
 ::: indent
-⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls"
+⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" <!-- TODO: Fallback translation -->
 
 ⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "il / la / il, il cui fin è quest" = "finente cun quest"
 :::
@@ -214,7 +214,7 @@ Madhya Pradesh
 *   **-ī-stems (f.) duan pigiar il suffix -ka, -kā, -ka (n.) a la fin da Bahuvrīhis; quest suffix po u duan era pigiar blers auters Bahuvrīhis**
 
 :::
-## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
+## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis <!-- TODO: Fallback translation -->
 
 Las exempels èn quai per la lavur subsequenta, per qualas èn la grammatica necessaria ed il vocabulari anc betg tractads.
 
@@ -266,25 +266,25 @@ Rishikesh = ⟪ऋषिकेश⟫. «Quai chessa fa part dal Ashram en Rishik
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : fa, producend, causond
 
-⟪कर⟫ m.: maun (a ⟪कृ⟫ 8)
+⟪कर⟫ m.: maun (a ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
 
 ⟪कर⟫ m.: contrib, tribut, imposta (non da ⟪कृ⟫, ma probabile prestito dal tamil - தமிழ்)
 
 ⟪क्रिया⟫ f.: acțiune, acțiune sacră, acțiune de sacrificiu, ceremonie (la ⟪कृ⟫ 8)
 
-⟪अधि⟫ Präverb: über, auf, er-, mit Bezug auf
+⟪अधि⟫ Präverb: über, auf, er-, mit Bezug auf <!-- TODO: Fallback translation -->
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : chattar, vegnir a, cuntanscher
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : chattar, vegnir a, cuntanscher <!-- TODO: Fallback translation -->
 
 ⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : reducir, debilitar
 
 ⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : donond, donond
 
-⟪नृप⟫ m.: "protetgar dals umans" = re
+⟪नृप⟫ m.: "protetgar dals umans" = re <!-- TODO: Fallback translation -->
 
 ⟪प्रणिधान⟫ n.: applicaziun, sforsa, attenziun cunter, servetschusadad, meditaziun, vart
 
-⟪बाधना⟫ f.: anguscha, plaga, dolur
+⟪बाधना⟫ f.: anguscha, plaga, dolur <!-- TODO: Fallback translation -->
 
 ⟪भार्या⟫ f.: "quai ch'è da mantegnair" = muglier
 
@@ -300,7 +300,7 @@ Rishikesh = ⟪ऋषिकेश⟫. «Quai chessa fa part dal Ashram en Rishik
 
 ⟪अपवर्ग⟫ m.: fin, liberaziun
 
-⟪नि⟫ Präverb: ned, giu, en, indriret
+⟪नि⟫ Präverb: ned, giu, en, indriret <!-- TODO: Fallback translation -->
 
 ⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : umkehren, zurückkehren
 
@@ -332,7 +332,7 @@ Rishikesh = ⟪ऋषिकेश⟫. «Quai chessa fa part dal Ashram en Rishik
 
 ⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : curvar
 
-⟪उद्⟫ Präverb: su, sù, fòra, ora, ora-
+⟪उद्⟫ Präverb: su, sù, fòra, ora, ora- <!-- TODO: Fallback translation -->
 
 ⟪नाभि⟫ f.: Navel
 
@@ -466,7 +466,7 @@ A) Tradusci e resòlv las composiziuns en sanscrit:
 
 B) Tradusci suttasch da usar da cumponids en Sanscrit:
 
-1\. In Kṣatriya, che na mantena il bastun en la maun, protegia il pievel betg.
+1\. In Kṣatriya, che na mantena il bastun en la maun, protegia il pievel betg. <!-- TODO: Fallback translation -->
 
 2\. Kālidāsa ed ils ulteriurs poetas èn ils magisters en sanscrit.
 
@@ -513,7 +513,7 @@ Discurs dals materialists suenter il ⟪सर्वदर्शनसंग्�
 
 Explicaziun: ⟪अत्मा⟫ = Nom.sg. mask. zu ⟪आत्मन्⟫ m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
 :::
-Ein ⟪सुभाषितम्⟫ :
+Ein ⟪सुभाषितम्⟫ : <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
@@ -529,7 +529,7 @@ Abb.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
 (Bildquelle: [Details](/rm/licenses#lekt2009))
 :::
-Über Besitzverhältnisse:
+Über Besitzverhältnisse: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
@@ -555,7 +555,7 @@ Fig.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt2003))
 :::
-Anc in ⟪सुभाषितम्⟫ :
+Anc in ⟪सुभाषितम्⟫ : <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
@@ -565,9 +565,9 @@ Anc in ⟪सुभाषितम्⟫ :
 
 Explicaziun: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P a ⟪इष्⟫ : da quel che vesa
 :::
-::: deleteme-box
+::: deleteme-box <!-- TODO: Fallback translation -->
 
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Camboscha, 9. tschdt. n. Chr. [Bildquelle: Wikipedia, Public domain]
+**lekt2001:** Siemreap (ក្រុងសៀមរាប), Camboscha, 9. tschdt. n. Chr. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
 **lekt2002:** [Font dal sursatg: Contribuziuns a la litteratura e a la istorgia da l'idea en l'India. -- Bonn, 1926]
 

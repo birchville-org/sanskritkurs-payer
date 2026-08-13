@@ -32,7 +32,7 @@ A) Expliquez les noms suivants en indiquant la racine dont ils sont dérivés, a
 
 11\. smara : smṛ 1 P "rappeler" + -a m. : "souvenir, mémoire, nostalgie, amour"
 
-12\. sṛṣṭi : sṛj 6 P / 4 A "faire émaner, créer" + -ti : "émanation, création"
+12\. sṛṣṭi : sṛj 6 P / 4 A "faire émaner, créer" + -ti : "émanation, création" <!-- TODO: Fallback translation -->
 
 13\. tantra : tan 8 U "tendre" + -tra n. : "chaîne de trame, tissu"
 
@@ -188,13 +188,13 @@ La fille écrit ou dessine.
 La vierge entre dans la maison.
 
 14\. ⟪देवोनागंसृजति⟪ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Le garçon conduit l'éléphant.
 
 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟩ nom propre Vimalā)
-Vimalā ist traurig.
+Vimalā ist traurig. <!-- TODO: Fallback translation -->
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
 Le perroquet vole.

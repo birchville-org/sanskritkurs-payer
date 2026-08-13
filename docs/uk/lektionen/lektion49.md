@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Урок 49
 
@@ -190,7 +190,7 @@ status: stable
 
 :::
 ::: indent
-**Carakasaṃhitā:** Вибрані тексти з Carakasaṃhitā / переклад і коментарі Alois Payer \<1944 - \>. -- 0. Вступ. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Вибрані тексти з Carakasaṃhitā / переклад і коментарі Alois Payer \&lt;1944 - \&gt;. -- 0. Вступ. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : кидати, метати
 

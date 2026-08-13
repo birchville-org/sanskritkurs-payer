@@ -81,7 +81,7 @@ Abb.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 Abb.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
 (Sursaintscha da l'imagina: [Detagls](/licenses#uebung082))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ### ⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
 

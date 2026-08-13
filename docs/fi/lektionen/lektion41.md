@@ -5,11 +5,11 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Luento 41
 
-## 41.1. ⟪सुभाषिते⟫ (kaksi sananlaskua)
+## 41.1. ⟪सुभाषिते⟫ (kaksi sananlaskua) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
@@ -23,7 +23,7 @@ Selitys: ⟪पर⟩ "toinen"
 ![lekt4102.jpg](/images/lekt4102.webp)
 Kuva: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4102))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
@@ -37,7 +37,7 @@ Selitys: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
 ### 41.2.1. Preesenspartisiippi (⟪लडादेशः⟫) Ā, passiivin preesenspartisiippi (⟪लडादेशः⟫), futuuripartisiippi (⟪ऌडादेशः⟫) Ā
 
-#### 41.2.1.1. Temaattiset preesensvarttu, passiivi ja tulevaisuusaika
+#### 41.2.1.1. Temaattiset preesensvarttu, passiivi ja tulevaisuusaika <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Muodostus:**
@@ -50,9 +50,9 @@ Esimerkit:
 
 ⟪मन्⟫ 4Ā, Part.Präs.Ā ⟪मन्यमान⟫ 3 "ajatteleva"
 
-⟪कृ⟫ 8U, Part.Präs.Passiv ⟪क्रियमाण⟫ 3 "jotakin, joka tehdään"
+⟪कृ⟫ 8U, Part.Präs.Passiv ⟪क्रियमाण⟫ 3 "jotakin, joka tehdään" <!-- TODO: Fallback translation -->
 
-⟪दा⟫ 3U, Part.Fut.Ā ⟪दास्यमान⟫ 3 "joku, joka antaa oman edun nimissä"
+⟪दा⟫ 3U, Part.Fut.Ā ⟪दास्यमान⟫ 3 "joku, joka antaa oman edun nimissä" <!-- TODO: Fallback translation -->
 
 #### 41.2.1.2. Atemattiset preesensluokat
 
@@ -61,7 +61,7 @@ Esimerkit:
 
 Heikko preesensvarsi (muodossa, jossa se on ennen pääte -ate 3.pl.Ā) + -āna (naispääte -ānā)
 :::
-Esimerkkejä:
+Esimerkkejä: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Juuri / Klasse | Partizip Preesens Ā |
@@ -73,10 +73,10 @@ Esimerkkejä:
 | ⟪तन्⟫ 8U | ⟪तन्वान⟫:brtan-u + āna |
 | ⟪क्री⟫ 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. Passiivisen välttämättömyyden "partisiippi" (gerundiivi) (⟪कृत्य⟫)
+### 41.2.2. Passiivisen välttämättömyyden "partisiippi" (gerundiivi) (⟪कृत्य⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**Passiivisen välttämättömyyden ilmaisemiseksi ("mikä on tehtävä/pitävä tehdä") adjektiivit voidaan muodostaa valinnaisesti juurista ja johdetuista verbivarresta seuraavilla päätteillä:**
+**Passiivisen välttämättömyyden ilmaisemiseksi ("mikä on tehtävä/pitävä tehdä") adjektiivit voidaan muodostaa valinnaisesti juurista ja johdetuista verbivarresta seuraavilla päätteillä:** <!-- TODO: Fallback translation -->
 
 * **-⟪तव्य⟫** (naispääte **-⟪तव्या⟫**)
 * **-⟪अनीय⟫** (naispääte **-⟪अनीया⟫**)
@@ -86,7 +86,7 @@ Esimerkkejä:
 #### 41.2.2.1. Pääte -⟪तव्य⟫ / -⟪तव्या⟫
 
 ::: grammar-box
-**Pääte -⟪तव्य⟫ / -⟪तव्या⟫ liitetään juuriin ja johdettuihin verbivartaloihin (esim. kausatiivi) samalla tavalla kuin infinitiivin pääte -⟪तुम्⟫ (ks. [Lektion 23](lektion23.md)), eli**
+**Pääte -⟪तव्य⟫ / -⟪तव्या⟫ liitetään juuriin ja johdettuihin verbivartaloihin (esim. kausatiivi) samalla tavalla kuin infinitiivin pääte -⟪तुम्⟫ (ks. [Lektion 23](lektion23.md)), eli** <!-- TODO: Fallback translation -->
 
 * **korkean tason juuri + ⟪तव्य⟫**
 
@@ -98,7 +98,7 @@ tai
 
 * **Kausatiivijäte -ay + -i- + ⟪तव्य⟫**
 :::
-Esimerkit:
+Esimerkit: <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -131,7 +131,7 @@ Esimerkit:
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "tehtävä" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "mikä on nähtävä; katsottava" |
 | ⟪बुध्⟩ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "herätettävä" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "mikä on annettava" |
+| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "mikä on annettava" | <!-- TODO: Fallback translation -->
 
 :::
 #### 41.2.2.3. Liite -⟪य⟫ / -⟪या⟫
@@ -139,11 +139,11 @@ Esimerkit:
 ::: grammar-box
 **Muodostus:**
 
-Vartalo (matalassa, korkeassa tai pitkässä asteessa) + -⟪य⟫
+Vartalo (matalassa, korkeassa tai pitkässä asteessa) + -⟪य⟫ <!-- TODO: Fallback translation -->
 
 Katso tarkat säännöt Kielhornin teoksesta "Sanskritkielen grammatikka", sivut 195–197!
 :::
-Lopullisten vokaalien käsittely:
+Lopullisten vokaalien käsittely: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **1. -ā-päätteiset juuret muodostavat tämän gerundiumin päätteellä -eya**
@@ -161,7 +161,7 @@ Esimerkit:
 ::: grammar-box
 **2. Juuret, jotka päättyvät -i /-ī / -u / -ū /-ṛ, ovat yleensä korkeassa tai pidennetyssä asteessa, elleivät ne kuulu niihin -i / -u /-ṛ-päätteisiin juuriin, jotka muodostavat gerundiumin suffiksilla -⟪त्य⟩ (naispääte -⟪त्या⟩) (luettelo näistä juurista Kielhornin grammatikassa §537).**
 :::
-Esimerkki:
+Esimerkki: <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -192,17 +192,17 @@ Kuva: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 ::: grammar-box
 **2b. Juuret, jotka päättyvät -u /-ū, korvaavat korkean tason -o vartalon -ya edellä muodolla -av, ja pitkän tason -au muodolla -āv. Pitkätasoinen muotoilu tarkoittaa tässä tapauksessa välttämättömyyttä.**
 :::
-Esimerkki:
+Esimerkki: <!-- TODO: Fallback translation -->
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
 | ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "mikä on ylistettävä" |
-|   | ⟪स्ताव्य⟫ 3 | "mikä on välttämättä ylistettävä" |
+|   | ⟪स्ताव्य⟫ 3 | "mikä on välttämättä ylistettävä" | <!-- TODO: Fallback translation -->
 
 :::
-Esimerkkejä konsonanttipäätteisistä juurista (säännöt ks. Kielhorn, Grammatik § 533ff.):
+Esimerkkejä konsonanttipäätteisistä juurista (säännöt ks. Kielhorn, Grammatik § 533ff.): <!-- TODO: Fallback translation -->
 
 Matalan äänenvoimakkuuden muodostus:
 
@@ -213,7 +213,7 @@ Esimerkkejä:
 | | | |
 | :--- | :--- | :--- |
 | ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "arvokas" |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "joku, jota on opetettava = oppilas" |
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "joku, jota on opetettava = oppilas" | <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -221,7 +221,7 @@ Esimerkkejä:
 Kuva: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4106))
 :::
-Korkeatasoinen koulutus:
+Korkeatasoinen koulutus: <!-- TODO: Fallback translation -->
 
 Esimerkit:
 
@@ -234,7 +234,7 @@ Esimerkit:
 
 :::
 ::: grammar-box
-**Kausatiivi ja kymmenennen preesensluokan verbit (⟪चुरादि⟫)**
+**Kausatiivi ja kymmenennen preesensluokan verbit (⟪चुरादि⟫)** <!-- TODO: Fallback translation -->
 
 **Muodostus:**
 
@@ -257,10 +257,10 @@ Esimerkki:
 Kuv.: ⟪मान्यः⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt4107))
 :::
-#### 41.2.2.4. Liite -⟪त्य⟫ / ⟪त्या⟫ (ei -⟪य⟫ / -⟪या⟫)
+#### 41.2.2.4. Liite -⟪त्य⟫ / ⟪त्या⟫ (ei -⟪य⟫ / -⟪या⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-Luettelo juurista, jotka päättyvät -i / -u /-ṛ ja muodostavat gerundiivin liitteellä -⟪त्य⟫ (naispääte -⟪त्या⟫) liitteiden -⟪य⟫ / -⟪या⟫ sijaan; ks. Kielhorn, Grammatik §537.
+Luettelo juurista, jotka päättyvät -i / -u /-ṛ ja muodostavat gerundiivin liitteellä -⟪त्य⟫ (naispääte -⟪त्या⟫) liitteiden -⟪य⟫ / -⟪या⟫ sijaan; ks. Kielhorn, Grammatik §537. <!-- TODO: Fallback translation -->
 
 **Muodostus:**
 
@@ -274,10 +274,10 @@ Esimerkit:
 | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "kävävä" |
 | ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "kuultava" |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "tehtävä" |
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "tehtävä" | <!-- TODO: Fallback translation -->
 
 :::
-### 41.2.3. Syntaktista gerundiivin passiivisesta välttämättömyydestä (Gerundium) (⟪कृत्य⟫)
+### 41.2.3. Syntaktista gerundiivin passiivisesta välttämättömyydestä (Gerundium) (⟪कृत्य⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Gerundiivia voidaan käyttää attributiivisesti:
@@ -286,7 +286,7 @@ Gerundiivia voidaan käyttää attributiivisesti:
 ::: indent
 **⟪दर्शनीयं⟫ ⟪नगरम्⟫** = "kaupunki, joka on nähtävä; näkemisen arvoinen kaupunki"
 :::
-Gerundiivia voidaan käyttää myös predikatiivisena substantiivina lauseissa, joissa on passiivilauseen rakenne, joka ilmaisee velvoitetta tai käskyä (⟪न⟩ kanssa kielto, mahdottomuus):
+Gerundiivia voidaan käyttää myös predikatiivisena substantiivina lauseissa, joissa on passiivilauseen rakenne, joka ilmaisee velvoitetta tai käskyä (⟪न⟩ kanssa kielto, mahdottomuus): <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = "Kaksi kertaa syntyneiden on nähtävä Varanasī"
@@ -296,10 +296,10 @@ Gerundiivia voidaan käyttää myös predikatiivisena substantiivina lauseissa, 
 Kuva: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4108))
 :::
-### 41.2.4. Eroja gerundiivijänteiden käytössä
+### 41.2.4. Eroja gerundiivijänteiden käytössä <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-Näiden jänteiden käyttö päällekkäin suurelta osalta
+Näiden jänteiden käyttö päällekkäin suurelta osalta <!-- TODO: Fallback translation -->
 
 * **-⟪तव्य⟫ (n. -⟪तव्या⟫):** ilmaisee aina välttämättömyyttä, ja sitä käytetään mieluiten predikatiivisesti (harvemmin attributiivisesti). Muodostus tällä jänteellä ei saa esiintyä substantiivi-yhdyssanoissa.
 * **-⟪अनीय⟫ (n. -⟪अनीया⟫) ja -⟪य⟫ (n. -⟪या⟫) / -⟪त्य⟫ (n. -⟪त्या⟫) (vrt. -⟪य⟫/-⟪या⟫):** voivat ilmaista lisämerkityksen (erit. -⟪य⟫) saksalaisen "-arvoinen" (esim. "näkemisen arvoinen") tai vain mahdollisuuden "-tuva/-inen" (⟪दृश्य⟫ "näkyvä"). Muodostukset näillä jänteillä voidaan kieltää ⟪अ⟫-/-⟪अन्⟫-:lla (ei kuitenkaan muodostukset -⟪तव्य⟫-:lla), ja niille esiintyy ⟪तत्पुरुष⟫ jälkiosana.
@@ -309,7 +309,7 @@ Näiden jänteiden käyttö päällekkäin suurelta osalta
 ::: grammar-box
 Gerundiiveja ei saa yhdistää sanoihin ⟪सु⟫- ja ⟪दुस्⟫ merkityksessä "helppo" tai "vaikea". Sen sijaan käytetään ⟪तत्पुरुष⟫-tyyppisiä sanoja, kuten ⟪सुकर⟫ 3 ("helppo tehdä") (ks. [Lektion 18](lektion18.md)).
 :::
-## 41.3. Sanalista
+## 41.3. Sanalista <!-- TODO: Fallback translation -->
 
 ⟪मूर्ख⟫ m = ⟪मूढ⟫
 
@@ -320,7 +320,7 @@ Gerundiiveja ei saa yhdistää sanoihin ⟪सु⟫- ja ⟪दुस्⟫ merk
 Kuv.: ⟪भुजङ्गः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: vain, ainoastaan, täydellisesti
+⟪केवलम्⟫ Adv.: vain, ainoastaan, täydellisesti <!-- TODO: Fallback translation -->
 
 ⟪विष⟫ n.: myrkky
 
@@ -329,7 +329,7 @@ Kuv.: ⟪भुजङ्गः⟫
 Kuva: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4104))
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : ohjeistaa, hallita, käskyttää, opettaa
+⟪शास्⟫ 2P ⟪शास्ति⟫ : ohjeistaa, hallita, käskyttää, opettaa <!-- TODO: Fallback translation -->
 
 ::: indent
 heikolla preesanssivarsalla ⟪शिष्⟫ : ⟪शिष्मस्⟫, mutta 3.pl. P.:llä vahva vartalo: ⟪शासति⟫ (!! pääte -ati) sekä ajoittain ⟪शासन्ति⟫. ⟪अशासुर्⟫. Myös koko ⟪आत्मनेपद⟫ on, siinä missä sitä esiintyy, vahvavartalo: ⟪शास्ते⟫
@@ -349,7 +349,7 @@ siitä:
 ![lekt4109.jpg](/images/lekt4109.webp)
 Kuv.: ⟪शासना⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt4109))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪शास्त्र⟫ n.: opetus, oppikirja
@@ -360,14 +360,14 @@ Kuv.: ⟪शासना⟫
 ![lekt4110.jpg](/images/lekt4110.webp)
 Kuv.: ⟪शास्त्री⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt4110))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪शिष्य⟫ 3: opetettava = oppilas
 :::
 ⟪शरण⟫ 3: suojeleva, suojana; n. turva, pakopaikka, turvautuminen
 
-⟪सङ्घ⟫ n.: (zu ⟪सम्⟫-⟪हन्⟫ : yhteen lyödä): joukko, parvi, yhteisö (esim. buddhalainen)
+⟪सङ्घ⟫ n.: (zu ⟪सम्⟫-⟪हन्⟫ : yhteen lyödä): joukko, parvi, yhteisö (esim. buddhalainen) <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 ks. tästä:
@@ -385,7 +385,7 @@ PPP ⟪अतीत⟫ : n. menneisyys
 :::
 ## 41.4. Harjoitus
 
-A) Käännä oppitunnin alussa olevat kaksi sananlaskua.
+A) Käännä oppitunnin alussa olevat kaksi sananlaskua. <!-- TODO: Fallback translation -->
 
 B) Käännä:
 

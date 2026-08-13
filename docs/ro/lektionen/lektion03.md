@@ -76,7 +76,7 @@ Notă: **e** este gradul ridicat (**guṇa**) al lui **i**, **o** este gradul ri
 :::
 de ex.
 
-devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇā este o zeitate” = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇā este o zeitate” = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
 
 > (Annapūrṇā este zeița mâncării și a gătitului, ea este considerată o întruchipare a Pārvatī, soția lui Śiva.)
 
@@ -122,12 +122,12 @@ de ex.
 
 śūdrā + itarā » śudretarā „Itarā este o femeie śūdrā” = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi de -ās
+## 3.5. Satzsandhi de -ās <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-de exemplu
+de exemplu <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaișyș sunt de două ori născuți" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -187,7 +187,7 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filosofie (știința care ajunge la concluziile sale prin argumente logic corecte).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : neasociere, echilibru.
+**upekṣā** f. = ⟪उपेक्षा⟫ : neasociere, echilibru. <!-- TODO: Fallback translation -->
 
 **karuṇā** f. = ⟪करुणा⟫ : compasiune, milă.
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 48. lecke
+# 48. lecke <!-- TODO: Fallback translation -->
 
 ## 48.1. ⟪सुभाषितानि⟫
 
@@ -26,7 +26,7 @@ status: stable
 
 ⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
 :::
-## 48.2. Az imperativus képzése (⟪लोट्⟫) athematikus jelenstémák esetén
+## 48.2. Az imperativus képzése (⟪लोट्⟫) athematikus jelenstémák esetén <!-- TODO: Fallback translation -->
 
 ### 48.2.1. Az imperativus végződései athematikus jelenstémák esetén
 
@@ -38,7 +38,7 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
 | **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3. oszt.: -atu** :br(kiv. -\*ntu) | \-atām:br(kiv.: -\*ntām) |
 :::
-Megjegyzés: ¹ A második és harmadik személy egyes számának végződése -tát-tal helyettesíthető, ha áldás kívánság fejeződik ki. A -tát (a harmadik személy egyes számában is) a gyenge tőhöz kapcsolódik.
+Megjegyzés: ¹ A második és harmadik személy egyes számának végződése -tát-tal helyettesíthető, ha áldás kívánság fejeződik ki. A -tát (a harmadik személy egyes számában is) a gyenge tőhöz kapcsolódik. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | **Zur Form der Végződés der 2.sg.Felszólító mód.P:** ||
@@ -48,7 +48,7 @@ Megjegyzés: ¹ A második és harmadik személy egyes számának végződése -
 | **\-hi** minden többi jelen időtő, amely magánhangzóra vagy félmagánhangzóra végződik (kivétel: ⟪जुहुधि⟫ a **⟪हु⟫ 3** esetében) | alle übrigen Jelen időstämme, die auf Vokal oder Halbvokal enden (Ausnahme: ⟪जुहुधि⟫ zu **⟪हु⟫ 3**) |
 | **\-dhi** Minden többi esetben | Alle übrigen Fälle |
 :::
-### 48.2.2. A jelen időtő formája
+### 48.2.2. A jelen időtő formája <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Erős tő:**
@@ -58,7 +58,7 @@ Megjegyzés: ¹ A második és harmadik személy egyes számának végződése -
 
 **Gyenge tő: minden többi alak**
 :::
-### 48.2.3. Második jelen időosztály (⟪अदादि⟫)
+### 48.2.3. Második jelen időosztály (⟪अदादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪द्विष्⟫ 2U
 
@@ -152,12 +152,12 @@ Megjegyzés: ¹ A ⟪जहि⟫ magyarázata lásd: Thumb-Hauschild I,2 S. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Harmadik jelen időosztály (⟪जुहोत्यादि⟫)
+### 48.2.4. Harmadik jelen időosztály (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A 3. sz. többes szám -atu-ra végződik!**
 :::
-⟪हु⟫ 3P
+⟪हु⟫ 3P <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -194,20 +194,20 @@ Megjegyzés: ¹ ⟪धेहि⟫ a \*dhazdhi-ból: az indogermán z hangzó m�
 ## 48.3. A névképzésről: ⟪तद्धित⟫-képzők -a és -ya
 
 ::: grammar-box
-A **-a** és (ritkábban) a **-ya** képzővel egy főnévből másik főnév származtatható. Ekkor az eredeti név első szilábjája meghosszabbodott fokot (⟪वृद्धि⟫) vesz fel. Ha az eredeti szóalap már **-a**-ra végződik, akkor a ⟪वृद्धि⟫ az egyetlen származtatási jel, mivel a szóvégi elemzésben semmi nem változik.
+A **-a** és (ritkábban) a **-ya** képzővel egy főnévből másik főnév származtatható. Ekkor az eredeti név első szilábjája meghosszabbodott fokot (⟪वृद्धि⟫) vesz fel. Ha az eredeti szóalap már **-a**-ra végződik, akkor a ⟪वृद्धि⟫ az egyetlen származtatási jel, mivel a szóvégi elemzésben semmi nem változik. <!-- TODO: Fallback translation -->
 
 A származtatott szavak jelentése:
 
-> "valamilyen kapcsolatot tart a alap szó által jelölt dologgal"
+> "valamilyen kapcsolatot tart a alap szó által jelölt dologgal" <!-- TODO: Fallback translation -->
 
 z.B.
 
 *   "stammend von"
-*   "gehörig zu"
+*   "gehörig zu" <!-- TODO: Fallback translation -->
 
 Die so gebildeten Wörter sind Adjektive, können aber substantiviert werden, z.B. als Patronymica (Namensbildung nach dem Vater: "Sohn des N.N.") oder Abstrakta (meist Neutra).
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: indent
 | Grundwort | Ableitung |
@@ -228,18 +228,18 @@ Példák:
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brPéldák siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
+| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
 
 A **-ya** képző előtt a szóvégi hangzó hasonlóan viselkedik, mint a **-a** képző előtt.
 :::
 Példák fentebb!
 
 ::: grammar-box
-**Ezekkel a képzőkkel összetételekből is származtatásokat lehet alkotni.**
+**Ezekkel a képzőkkel összetételekből is származtatásokat lehet alkotni.** <!-- TODO: Fallback translation -->
 
 pl. ⟪स्वश्व⟫ m. „a jó lovaké, akinek a lovai jók” tulajdonnév » ⟪सौवश्व⟫ m. „Svaśva utóda”
 
-**Olyan összetételeknél, ahol a sandhi miatt az első tag végén álló -i vagy -u helyett -y, illetve -v lép fel, és így megelőzik az alap szó első magánhangzóját (pl. ni-, vi-, su- képzős összetételek), a ⟪वृद्धि⟫ úgy képződik, mintha -iy vagy -uv állna.**
+**Olyan összetételeknél, ahol a sandhi miatt az első tag végén álló -i vagy -u helyett -y, illetve -v lép fel, és így megelőzik az alap szó első magánhangzóját (pl. ni-, vi-, su- képzős összetételek), a ⟪वृद्धि⟫ úgy képződik, mintha -iy vagy -uv állna.** <!-- TODO: Fallback translation -->
 
 z.B. ⟪व्याघ्र⟫ m. "Tiger" » ⟪वैयाघ्र⟫ 3 "von einem Tiger stammend, zu einem Tiger gehörend"
 :::
@@ -248,13 +248,13 @@ z.B. ⟪व्याघ्र⟫ m. "Tiger" » ⟪वैयाघ्र⟫ 3 "vo
 Ábra: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Képforrás: [Részletek](/hu/licenses#lekt4801))
 :::
-## 48.4. Szójegyzék
+## 48.4. Szójegyzék <!-- TODO: Fallback translation -->
 
 ⟪श्वस्⟫ : morgen
 
 ⟪अद्य⟫ : heute
 
-⟪लघु⟫ 3: leicht (nem nehéz, nem bonyolult), gyors, rövid (kifejezésben)
+⟪लघु⟫ 3: leicht (nem nehéz, nem bonyolult), gyors, rövid (kifejezésben) <!-- TODO: Fallback translation -->
 
 ⟪व्याकरण⟫ n.: Nyelvtan (hozzá ⟪व्याकृ⟫)
 
@@ -265,7 +265,7 @@ z.B. ⟪व्याघ्र⟫ m. "Tiger" » ⟪वैयाघ्र⟫ 3 "vo
 Kép: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4802))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4803.webp)
@@ -307,7 +307,7 @@ Ragozás:
 Thaipusam-fesztivál = தைப்பூசம், Batu Caves, Malajzia
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4805))
 :::
-⟪कुमारी⟫ nőnem: lány, leány
+⟪कुमारी⟫ nőnem: lány, leány <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -315,7 +315,7 @@ Thaipusam-fesztivál = தைப்பூசம், Batu Caves, Malajzia
 ⟪नेपाल⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4806))
 :::
-⟪कौमर⟫ középnem: gyermekkor
+⟪कौमर⟫ középnem: gyermekkor <!-- TODO: Fallback translation -->
 
 ⟪यौवन⟫ középnem: ifjúság
 
@@ -327,7 +327,7 @@ Thaipusam-fesztivál = தைப்பூசம், Batu Caves, Malajzia
 ⟪जोधपुर⟫
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (magas) kor
+⟪स्थाविर⟫ n.: (magas) kor <!-- TODO: Fallback translation -->
 
 ⟪वाच्य⟫ 3: továbbá: elmarasztalásra méltó
 
@@ -355,11 +355,11 @@ Karanji-tó = ಕಾರಂಜಿ ಕೆರೆ
 (Kép: Payer)
 (Képmegjelölés: [Részletek](/hu/licenses#lekt4809))
 :::
-## 48.5. Gyakorlat
+## 48.5. Gyakorlat <!-- TODO: Fallback translation -->
 
-A) Fordítsd le a ⟪सुभाषितानि⟫-t a leckelevezetőben.
+A) Fordítsd le a ⟪सुभाषितानि⟫-t a leckelevezetőben. <!-- TODO: Fallback translation -->
 
-B) Fordítsd szanszktra (használd az imperatívuszt, és ahol lehetséges a 2. és 3. jelen idői tőosztály gyökeit):
+B) Fordítsd szanszktra (használd az imperatívuszt, és ahol lehetséges a 2. és 3. jelen idői tőosztály gyökeit): <!-- TODO: Fallback translation -->
 
 1. Miután fiút szültél, hagyd el a családot!
 2. Puru utódai, féljetek azokatól, akik rosszat cselekedtek!
@@ -380,7 +380,7 @@ B) Fordítsd szanszktra (használd az imperatívuszt, és ahol lehetséges a 2. 
 17. Tanítsd meg a tanítványoknak a Védát!
 18. Öltözzön új ruhákba.
 19. Ők (többes szám) üljenek az én házamban.
-20. A férjek tartassák el a feleségeiket (döntés szerint: fenntartás).
+20. A férjek tartassák el a feleségeiket (döntés szerint: fenntartás). <!-- TODO: Fallback translation -->
 
 ## 48.6. Fordítási gyakorlat
 
@@ -407,13 +407,13 @@ Magyarázat:
 
 ::: deleteme-box
 
-**lekt4801:** [Képmegjelenítés forrása: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, share alike)]
+**lekt4801:** [Képmegjelenítés forrása: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Képmegjelenítés forrása: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, share alike)]
+**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Képmegjelenítés forrása: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt4803:** Szitarjátékos = ⟪सितारवादकः⟫ [Képmegjelenítés forrása: Wikipedia. Közterület]
 
-**lekt4804:** [Önkéntes csoport (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamilnádu = தமிழ்நாடு [Képmegjelenítés forrása: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás)]
+**lekt4804:** [Önkéntes csoport (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamilnádu = தமிழ்நாடு [Képmegjelenítés forrása: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás)] <!-- TODO: Fallback translation -->
 
 **lekt4805:** Thaipusam-ünnep = தைப்பூசம், Batu Caves, Malajzia [Képmegjelenítés: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevesítés)]
 

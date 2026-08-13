@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 30
+# Lekcija 30
 
 ## 30.1. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
 
@@ -226,7 +226,8 @@ Beispiele:
 | **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 

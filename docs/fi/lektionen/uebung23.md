@@ -60,7 +60,7 @@ B) Seuraavat verbijänteet muodostavat infinitiivin liitinvokaalilla -i-. Muodos
 6.  ⟪वृत्⟫ — ⟪वर्तितुम्⟫
 7.  ⟪कुप्⟫ — ⟪कोपितुम्⟫
 
-C) Seuraavat verbijänteet joko liitinvokaalin kanssa tai ilman:
+C) Seuraavat verbijänteet joko liitinvokaalin kanssa tai ilman: <!-- TODO: Fallback translation -->
 
 1.  ⟪अश्⟫ — ⟪अशितुम्⟫ / ⟪अष्टुम्⟫
 2.  ⟪इष्⟫ — ⟪एष्टुम्⟫ / ⟪एषितुम्⟫
@@ -68,7 +68,7 @@ C) Seuraavat verbijänteet joko liitinvokaalin kanssa tai ilman:
 4.  ⟪मुह्⟫ — ⟪मोहितुम्⟫ / ⟪मग्धुम्⟫ / ⟪मोढुम्⟫
 5.  ⟪सह्⟫ — ⟪सहितुम्⟫ / ⟪सोढुम्⟫
 
-D) Käännä ja analysoi sanaliitot (komposita):
+D) Käännä ja analysoi sanaliitot (komposita): <!-- TODO: Fallback translation -->
 
 ⟪१⟫. **⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञ्नैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫**
 Taivasten saavuttamiseksi ihmiset toivottelevat palvovansa jumalia uhrauksilla.
@@ -79,7 +79,7 @@ Jos ihminen on tehnyt paljon ansaitsevia tekoja, pahaan ihmiseen ei voi tulla he
 
 ⟪३⟫. **⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫**
 (⟪सञ्जनः⟫ ⟪।⟫ ⟪न⟫ ⟪धर्मम्⟫)
-Koska ansaitsevat teot ovat hedelmällisiä, hyvä ihminen ei halua tehdä väärinkäytöstä.
+Koska ansaitsevat teot ovat hedelmällisiä, hyvä ihminen ei halua tehdä väärinkäytöstä. <!-- TODO: Fallback translation -->
 
 ⟪४⟫. **⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫**
 Vapauttaakseen maailmankaikkeudet Buddha opettaa jalompi totuudet.
@@ -93,11 +93,11 @@ Vapauttaakseen maailmankaikkeudet Buddha opettaa jalompi totuudet.
 Ahneina miehet ovat menneet nähdäkseen kauniin palvelijan tanssivan.
 
 ⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
+Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert. <!-- TODO: Fallback translation -->
 
 ⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
-Koska hän halusi kuulla dharmasta, brahmaninainen on lähtenyt poikansa kanssa suureen kaupunkiin tapaamaan mestaria.
+Koska hän halusi kuulla dharmasta, brahmaninainen on lähtenyt poikansa kanssa suureen kaupunkiin tapaamaan mestaria. <!-- TODO: Fallback translation -->
 
 
 ---
@@ -108,30 +108,30 @@ Koska hän halusi kuulla dharmasta, brahmaninainen on lähtenyt poikansa kanssa 
 ⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषा्मधिको⟫ ⟪विशेषो⟫  
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫  
-Syöminen, nukkuminen, pelko ja seksi ovat ihmisten yhteisiä eläinten kanssa. Ihmisen erottava ero dharmassa on. Ilman dharmaa he ovat eläinten kaltaisia.
+Syöminen, nukkuminen, pelko ja seksi ovat ihmisten yhteisiä eläinten kanssa. Ihmisen erottava ero dharmassa on. Ilman dharmaa he ovat eläinten kaltaisia. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung035.webp)
 Kuva: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Kuv lähde: [Details](/licenses#uebung035))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Additional Exercises
 
 A) Käännä sanskritiksi:
 
 1\. Viisi (⟪पञ्च⟩) "kivun" ovat: tiedon puute, väärä usko itseen, kiintymys, vastenmielisyys ja kehoon sitoutuminen.
-**⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟩ ⟪पञ्च⟩ ⟪क्लेशाः⟩ ⟪।⟩**
+**⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟩ ⟪पञ्च⟩ ⟪क्लेशाः⟩ ⟪।⟩** <!-- TODO: Fallback translation -->
 
 2\. Tietoa on opettajalle tottelemisesta tai paljon rahaa vai tiedon vastineena. Neljäs tietotyypin hankkiminen ei ole olemassa.
-**⟪गुरुशुश्रूषया⟩ ⟪विद्या⟩ ⟪पुष्कलेन⟩ ⟪धनेन⟩ ⟪वा⟩ ⟪।⟩ ⟪अथवा⟩ ⟪विद्यया⟩ ⟪विद्या⟩ ⟪चतुर्थी⟩ ⟪नैव⟩ ⟪विद्यते⟩ ⟪॥⟩**
+**⟪गुरुशुश्रूषया⟩ ⟪विद्या⟩ ⟪पुष्कलेन⟩ ⟪धनेन⟩ ⟪वा⟩ ⟪।⟩ ⟪अथवा⟩ ⟪विद्यया⟩ ⟪विद्या⟩ ⟪चतुर्थी⟩ ⟪नैव⟩ ⟪विद्यते⟩ ⟪॥⟩** <!-- TODO: Fallback translation -->
 
 3\. Matala puhuu, mutta ei toimi; hyvä ihminen ei puhu, vaan toimii vain.
-**⟪निचो⟩ ⟪वदति⟩ ⟪न⟩ ⟪कुरुते⟩ ⟪वदति⟩ ⟪न⟩ ⟪साधुः⟩ ⟪करोत्येव⟩ ⟪॥⟩**
+**⟪निचो⟩ ⟪वदति⟩ ⟪न⟩ ⟪कुरुते⟩ ⟪वदति⟩ ⟪न⟩ ⟪साधुः⟩ ⟪करोत्येव⟩ ⟪॥⟩** <!-- TODO: Fallback translation -->
 
 4\. Vedaan liittyvät aputieteet ovat: ääntämisteoria, rituaalinen käytäntö, kielioppi, merkityksen teoria, metriikka (⟪छन्दस्⟩) ja kalenteriteoria.
-**⟪शिक्षा⟩ ⟪कल्पो⟩ ⟪व्याकरणं⟩ ⟪निरुक्तं⟩ ⟪छन्दो⟩ ⟪ज्योतिषमङ्गानि⟩ ⟪।⟩**
+**⟪शिक्षा⟩ ⟪कल्पो⟩ ⟪व्याकरणं⟩ ⟪निरुक्तं⟩ ⟪छन्दो⟩ ⟪ज्योतिषमङ्गानि⟩ ⟪।⟩** <!-- TODO: Fallback translation -->
 
 5\. Jooga on ajatuselimen toiminnan pysäyttäminen.
 **⟪योगश्चित्तवृत्तिनिरोधः⟩ ⟪॥⟩**
@@ -140,23 +140,23 @@ A) Käännä sanskritiksi:
 **⟪धर्मो⟩ ⟪जयति⟩ ⟪नाधर्मः⟩ ⟪सत्यं⟩ ⟪जयति⟩ ⟪नानृतम्⟩ ⟪।⟩ ⟪क्षमा⟩ ⟪जयति⟩ ⟪न⟩ ⟪क्रोधो⟩ ⟪देवो⟩ ⟪जयति⟩ ⟪नासुरः⟩ ⟪॥⟩**
 
 7\. "Sauva" aiheuttaa hankinnan ja varman omistuksen filosofiaan, Vedaan ja talouteen. Tämän sauvan johtaminen on politiikkaa.
-**⟪आन्वीक्षिकीत्रयीवार्त्तानां⟩ ⟪योगक्षेमसाधनो⟩ ⟪दण्डः⟩, ⟪तस्य⟩ ⟪नीतिर्दण्डनीतिः⟩ ⟪॥⟩**
+**⟪आन्वीक्षिकीत्रयीवार्त्तानां⟩ ⟪योगक्षेमसाधनो⟩ ⟪दण्डः⟩, ⟪तस्य⟩ ⟪नीतिर्दण्डनीतिः⟩ ⟪॥⟩** <!-- TODO: Fallback translation -->
 
 8\. Vaimo, poika ja orja, nämä kolme (⟪त्रयस्⟩) ovat perinteisesti omistamattomia. Mihin nämä tulevat, se kuuluu niille, jotka nämä (kolme) omistavat.
-**⟪भार्या⟩ ⟪पुत्रश्च⟩ ⟪दासश्च⟩ ⟪त्रय⟩ ⟪एवाधनाः⟩ ⟪स्मृताः⟩ ⟪।⟩ ⟪यत्ते⟩ ⟪समधिगच्छन्ति⟩ ⟪यस्य⟩ ⟪ते⟩ ⟪तस्य⟩ ⟪तद्धनम्⟩ ⟪॥⟩**
+**⟪भार्या⟩ ⟪पुत्रश्च⟩ ⟪दासश्च⟩ ⟪त्रय⟩ ⟪एवाधनाः⟩ ⟪स्मृताः⟩ ⟪।⟩ ⟪यत्ते⟩ ⟪समधिगच्छन्ति⟩ ⟪यस्य⟩ ⟪ते⟩ ⟪तस्य⟩ ⟪तद्धनम्⟩ ⟪॥⟩** <!-- TODO: Fallback translation -->
 
 9\. Hyttynen haluaa haavan, hallitsija haluaa omaisuutta, matalat haluavat riitaa, hyvät haluavat rauhaa.
-**⟪मक्षिका⟩ ⟪व्रणमिच्छन्ति⟩ ⟪धनमिच्छन्ति⟩ ⟪पार्थिवाः⟩ ⟪।⟩ ⟪नीचाः⟩ ⟪कलहमिच्छन्ति⟩ ⟪शान्तिमिच्छन्ति⟩ ⟪साधवः⟩ ⟪॥⟩**
+**⟪मक्षिका⟩ ⟪व्रणमिच्छन्ति⟩ ⟪धनमिच्छन्ति⟩ ⟪पार्थिवाः⟩ ⟪।⟩ ⟪नीचाः⟩ ⟪कलहमिच्छन्ति⟩ ⟪शान्तिमिच्छन्ति⟩ ⟪साधवः⟩ ⟪॥⟩** <!-- TODO: Fallback translation -->
 
 10\. Brahmanin erityinen velvollisuus on: opiskelu, opettaminen, uhraaminen uhraherran roolissa, uhraaminen toimeksiannosta, antaminen ja vastaanottaminen; Kṣatriyan velvollisuus on: opiskelu, uhraaminen uhraherran roolissa, antaminen, elintarvikkeen hankkimaseen aseilla, olentojen hoitaminen; Vaiśyan velvollisuus on: opiskelu, uhraaminen uhraherran roolissa, antaminen, maatalous, karjanhoito ja kauppa; Śūdran velvollisuus on: tottelemista kahdesti syntyneille, taloudellinen toiminta (⟪कर्म⟩) käsityöläisten ja esittäjien toiminnasta.
 **⟪स्वधर्मो⟩ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟩ ⟪यजनं⟩ ⟪याजनं⟩ ⟪दानं⟩ ⟪प्रतिग्रहश्च⟩ ⟪।⟩ ⟪क्षत्रियस्याध्ययनं⟩ ⟪यजनं⟩ ⟪दानं⟩ ⟪शस्त्राजीवो⟩ ⟪भूतरक्षणं⟩ ⟪च⟩ ⟪।⟩ ⟪वैश्यस्याध्ययनं⟩ ⟪यजनं⟩ ⟪दानं⟩ ⟪कृषिपाशुपाल्ये⟩ ⟪वणिज्या⟩ ⟪च⟩ ⟪।⟩ ⟪शूद्रस्य⟩ ⟪द्विजातिशुश्रूषा⟩ ⟪वार्त्ता⟩ ⟪कारुकुशीलवकर्म⟩ ⟪च⟩ ⟪॥⟩**
 
 
 11\. Selvästi tiedostaminen tapahtuu ystävällisen hyvän tahdon, myötätunnon, ilon ja tasapainoisuuden meditatiivisen kehityksen kautta, jotka ovat onnen ja kärsimyksen sekä hyvän ja pahan kohteena.
-**⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫**
+**⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 12\. Köyhillä on monta poikaa, vaikka he eivät sitä toivo. Rikkailla ei ole yhtään poikaa. Onpa onnen liike outoa!
-**⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫ ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫ ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫**
+**⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫ ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫ ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 13\. Ketä ei surmaa naisen ruumis (⟪वपुस्⟩ n.) kapealla vyötäröllä, leveillä lantiolla, punaisilla huulilla, mustilla silmillä, kaarevalla navalla ja pystyvät rinnat.
 **⟪तनुमध्यं⟩ ⟪पृथुश्रोणि⟩ ⟪रक्तौष्ठमसितेक्षणम्⟩ ⟪।⟩ ⟪नतनाभि⟩ ⟪वपुः⟩ ⟪स्त्रीणां⟩ ⟪कं⟩ ⟪न⟩ ⟪हन्त्युन्नतस्तनम्⟩ ⟪॥⟩**
@@ -170,7 +170,7 @@ B) Taivuta tuntemissasi sijamuodoissa ⟪क्षत्रिया⟩ (f.):
 | 3. Instrumentaali | ⟪क्षत्रियया⟩ | ⟪क्षत्रियाभिस्⟩ (⟪क्षत्रियाभिः⟩) |
 | 6. Genetiivi | ⟪क्षत्रियायास्⟩ (⟪क्षत्रियायाः⟩) | ⟪क्षत्रियाणाम्⟩ |
 
-C) Anna seuraavien verbien perusmuodot (merkitys, preesensluokka, moodi, 3. sg. preesens indikatiivi, 3. sg. passiivi, PPP, absolutiivit, infinitiivi):
+C) Anna seuraavien verbien perusmuodot (merkitys, preesensluokka, moodi, 3. sg. preesens indikatiivi, 3. sg. passiivi, PPP, absolutiivit, infinitiivi): <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 ⟪१⟩. ⟪सह्⟩ (1Ā, kestää)
@@ -182,7 +182,7 @@ C) Anna seuraavien verbien perusmuodot (merkitys, preesensluokka, moodi, 3. sg. 
 | PPP | ⟪सोढ⟩ |
 | Absolutiivi 1 | ⟪सोढ्वा⟩ / ⟪सहित्वा⟩ |
 | Absolutiivi 2 | -⟪सह्य⟩ |
-| Infinitiivi | ⟪सोढुम्⟩ / ⟪सहितुम्⟩ |
+| Infinitiivi | ⟪सोढुम्⟩ / ⟪सहितुम्⟩ | <!-- TODO: Fallback translation -->
 
 ⟪२⟩. ⟪पा⟩ (juoda / hoitaa)
 
@@ -204,7 +204,7 @@ C) Anna seuraavien verbien perusmuodot (merkitys, preesensluokka, moodi, 3. sg. 
 | PPP | ⟪उक्त⟩ |
 | Absolutiivi 1 | ⟪उक्त्वा⟩ |
 | Absolutiivi 2 | -⟪उच्य⟩ |
-| Infinitiivi | ⟪वक्तुम्⟩ |
+| Infinitiivi | ⟪वक्तुम्⟩ | <!-- TODO: Fallback translation -->
 
 ⟪४⟩. ⟪हन्⟩ (2P, surmata)
 
@@ -221,5 +221,5 @@ C) Anna seuraavien verbien perusmuodot (merkitys, preesensluokka, moodi, 3. sg. 
 ![](/images/uebung036.webp)
 Kuv.: ⟪बालाः⟩ ⟪पिबन्ति⟩
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung036))
-:::
+::: <!-- TODO: Fallback translation -->
 

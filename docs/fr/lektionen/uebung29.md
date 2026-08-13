@@ -19,7 +19,7 @@ L'ignorance signifie que l'on considère comme permanent, pur, joyeux ou absolu 
 ::: deleteme-box Erläuterung
 **⟪आत्मसु⟫** = Loc. sg. de ⟪आत्मन्⟫ m. "Âme ; l'Absolu, en tant qu'il se réalise dans l'individu"
 :::
-### ⟪२⟫. Sur le bon usage du ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
+### ⟪२⟫. Sur le bon usage du ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4) <!-- TODO: Fallback translation -->
 
 ⟪तीक्ष्णदण्डो⟫ ⟪भूतानामुद्वेजनीयो⟫ ⟪भवति⟫ ⟪।⟫ ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।⟫ ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।⟫ ⟪सुविज्ञातप्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामैर्योजयति⟫ ⟪।⟫ ⟪दुष्प्रणीतः⟫ ⟪कामक्रोधाभ्यामवज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, ⟪किमङ्ग⟫ ⟪पुनर्गृहस्थान्⟫ ⟪।⟫ ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।⟫ ⟪बलीयानबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।⟫ ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।⟫
 

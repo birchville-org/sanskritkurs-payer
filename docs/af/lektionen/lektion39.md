@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 39
+# Les 39
 
 ## 39.1. Die Personalendungen der ersten Person (:sig[तृतीयः] ⟪पुरुषः⟫ = "**dritte** Person")
 

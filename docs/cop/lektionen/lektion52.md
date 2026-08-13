@@ -113,15 +113,19 @@ Wayang-Figur, Java, Indonesien
 
 *   **Zahlwörtern**   <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪एकशस्⟫ "einzeln, je einer"  
-    ⟪द्विशस्⟫ "zu zweien, je zwei"  
-    ⟪शतशस्⟫ "zu hunderten, je hundert" <!-- TODO: Fallback translation -->
+::: indent
+⟪एकशस्⟫ "einzeln, je einer"
+⟪द्विशस्⟫ "zu zweien, je zwei"
+⟪शतशस्⟫ "zu hunderten, je hundert" <!-- TODO: Fallback translation -->
+:::
 
 *   **anderen Wörtern**   <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪भागशस्⟫ "Teil für Teil"  
-    ⟪सर्वशस्⟫ "überall, gar alle"  
-    ⟪नित्यशस्⟫ "beständig" <!-- TODO: Fallback translation -->
+::: indent
+⟪भागशस्⟫ "Teil für Teil"
+⟪सर्वशस्⟫ "überall, gar alle"
+⟪नित्यशस्⟫ "beständig" <!-- TODO: Fallback translation -->
+:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -148,14 +152,18 @@ Der Auslaut des Nomens wird folgendermaßen behandelt: <!-- TODO: Fallback trans
 
 *   **auslautendes -a und -ā deklinierbarer Wörter werden durch -ī ersetzt  ** <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪कृष्णीभवति⟫ "etwas, das nicht schwarz ist, wird schwarz"  
-    ⟪कृष्णीकरोति⟫ "er macht etwas, das nicht schwarz ist, schwarz"  
-    ⟪गङ्गीभवति⟫ "er/sie wird zum Ganges"   <!-- TODO: Fallback translation -->
+::: indent
+⟪कृष्णीभवति⟫ "etwas, das nicht schwarz ist, wird schwarz"
+⟪कृष्णीकरोति⟫ "er macht etwas, das nicht schwarz ist, schwarz"
+⟪गङ्गीभवति⟫ "er/sie wird zum Ganges"   <!-- TODO: Fallback translation -->
+:::
 
 *   **auslautendes -i und -u werden durch den entsprechenden Langvokal ersetzt  ** <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪शुचीभवति⟫ "er/sie/es wird rein"  
-    ⟪गुरूभवामि⟫ "ich werde Meister"   <!-- TODO: Fallback translation -->
+::: indent
+⟪शुचीभवति⟫ "er/sie/es wird rein"
+⟪गुरूभवामि⟫ "ich werde Meister"   <!-- TODO: Fallback translation -->
+:::
 
 *   **auslautendes -ṛ wird durch --rī ersetzt  ** <!-- TODO: Fallback translation -->
     z.B. ⟪पित्रीभवति⟫ "einer, der nicht Vater (⟪पितृ⟫) ist, wird Vater = ein Mann bekommt sein erstes Kind"   <!-- TODO: Fallback translation -->
@@ -225,9 +233,11 @@ Beispiel: <!-- TODO: Fallback translation -->
     z.B. ⟪पुनः⟫ ⟪पुनः⟫ "immer wieder" <!-- TODO: Fallback translation -->
 *   **Distribution**   <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪पृथक्पृथक्⟫ "je gesondert, je einzeln"  
-    ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "was auch immer ... das alles"  
-    ⟪युगे⟫ ⟪युगे⟫ "in jedem einzelnen Weltzeitalter" <!-- TODO: Fallback translation -->
+::: indent
+⟪पृथक्पृथक्⟫ "je gesondert, je einzeln"
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "was auch immer ... das alles"
+⟪युगे⟫ ⟪युगे⟫ "in jedem einzelnen Weltzeitalter" <!-- TODO: Fallback translation -->
+:::
 
 **Gelegentlich kann aus solchen Verbindungen ein Kompositum gebildet werden** <!-- TODO: Fallback translation -->
 
@@ -283,7 +293,7 @@ Die weiteren Zahladverbien bis 19 siehe z.B. bei Kielhorn, Grammatik §201. <!--
 Beispiele: <!-- TODO: Fallback translation -->
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f. <!-- TODO: Fallback translation -->
 :::
 
@@ -295,7 +305,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 Beispiele: <!-- TODO: Fallback translation -->
 
 ::: indent
-100 ⟪शत⟫ n.:br
+100 ⟪शत⟫ n.
 1000 ⟪सहस्र⟫ n. <!-- TODO: Fallback translation -->
 :::
 Die einzelnen Zahlsubstantive siehe z.B. bei Kielhorn, Grammatik §201. <!-- TODO: Fallback translation -->
@@ -393,7 +403,9 @@ Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior)
 2.  das so gebildete Kompositum in einer Bedeutung gebraucht wird, die sonst durch ein Taddhita-Suffix bezeichnet wird (bei dieser Art ist der Übergang zum Bahuvrīhi fließend):   <!-- TODO: Fallback translation -->
     Beispiele:  
     dvi + go » :sig[⟪द्विगु⟫] : nicht: "zwei Kühe", sondern: "**für zwei Kühe erhandelt**"  
-    ⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "**zwei Jahre alt**"   <!-- TODO: Fallback translation -->
+::: indent
+⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "**zwei Jahre alt**"   <!-- TODO: Fallback translation -->
+:::
 
 3.  das so gebildete Kompositum das Vorderglied eines anderen Kompositums bildet   <!-- TODO: Fallback translation -->
     Beispiel:  

@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# Lektion 9
+# Les 9
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:**

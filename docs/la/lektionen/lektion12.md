@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 12
+# Lectio 12
 
 ::: deleteme-box
 **In hac lection discetis:**
@@ -18,7 +18,7 @@ status: stable
 - Passivum et PPP radicum iam didactarum
 :::
 
-## 12.1. Partizip Perfekt Passivum (PPP)
+## 12.1. Partizip Perfekt Passivum (PPP) <!-- TODO: Fallback translation -->
 
 Una via ad passivam praeteriti temporis formandam est constructio cum dicto participio perfecti passivi (PPP).
 
@@ -26,7 +26,7 @@ Una via ad passivam praeteriti temporis formandam est constructio cum dicto part
 **In re ipsa PPP non est participium verum, quia non a tempore stemmate formatum est. Est potius nominalis formatio ad radicem cum primario suffixo -ta vel -na. Ideo in grammatica Indica de suffixo kta loquimur.**
 :::
 
-### 12.1.1. Schema pro verbis transitivis
+### 12.1.1. Schema pro verbis transitivis <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Agens (kartṛ) in Instrumentali (tṛtīyā) -- Objectum directum (karman) in Nominativo (prathamā) -- Participium Perfecti Passivi**
@@ -50,7 +50,7 @@ In hoc casu PPP cum agente numero, casu, genere congruit. Participium Perfectum 
 
 Example:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
-:::
+::: <!-- TODO: Fallback translation -->
 
 ### 12.1.3. Schema II pro verbis intransitivis et verbis motus
 
@@ -74,7 +74,7 @@ e.g.
 ## 12.3. Formatio PPP
 
 ::: grammar-box
-Sequuntur haec formandi rationes (ad quamlibet radicem suum PPP discendum est!):
+Sequuntur haec formandi rationes (ad quamlibet radicem suum PPP discendum est!): <!-- TODO: Fallback translation -->
 
 **(plerumque) radice infima**
 
@@ -86,7 +86,7 @@ Sequuntur haec formandi rationes (ad quamlibet radicem suum PPP discendum est!):
 Stamina feminina sunt: **-tā**, **-itā**, **-nā**; neutrum declinatur ut **phala** n.
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP auf -ta (kta) <!-- TODO: Fallback translation -->
 
 #### 12.3.1.1. Sine vocali coniunctiva -i- (aniṭ)
 
@@ -144,7 +144,7 @@ Apud formationes *aniṭ* sequentes leges coniunctionis phonematum in verbo obse
 | **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
 | **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
-:::
+::: <!-- TODO: Fallback translation -->
 
 ## 12.5. Vocabularium
 
@@ -238,7 +238,7 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 **A) Ex activis sententiis [Lectionis 7](/lektionen/lektion07), Exercitium A, formate passivas sententias praeteriti temporis, in verbis intransitivis et verbis motus activas sententias praeteriti temporis.**
 
-**B) Formate die entsprechenden Partizipien Perfekt Passiv zu den Verbformen aus [Lektion 10](/lektionen/lektion10), Übung A. Beachtet dabei, dass einer Form wie sṛjati Partizipien Perfekt Passiv in allen drei Geschlechtern entsprechen.**
+**B) Formate die entsprechenden Partizipien Perfekt Passiv zu den Verbformen aus [Lektion 10](/lektionen/lektion10), Übung A. Beachtet dabei, dass einer Form wie sṛjati Partizipien Perfekt Passiv in allen drei Geschlechtern entsprechen.** <!-- TODO: Fallback translation -->
 
 **C) Versa sentences from [Lesson 10](/lektionen/lektion10), Exercise C into the past passive.**
 

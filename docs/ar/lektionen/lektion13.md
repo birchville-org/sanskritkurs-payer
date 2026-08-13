@@ -26,7 +26,9 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 ::: grammar-box
 
-    ⟪इष्ट⟫ "مُتَمَنَّى" (أي ليس فقط مرغوبًا في الماضي، بل أيضًا في الحاضر)
+::: indent
+⟪इष्ट⟫ "مُتَمَنَّى" (أي ليس فقط مرغوبًا في الماضي، بل أيضًا في الحاضر)
+:::
 :::
 ::: indent
 ⟪त्वरित⟫ "عاجلاً، مستعجلاً" (PPP من tvar 1 Ā "يسرع"; Dhātupāṭha: ñitvárā)
@@ -34,7 +36,9 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 على سبيل المثال
 ::: indent
-    ⟪इष्टं⟫ ⟪फलम्⟫ "الثمرة المطلوبة (مثل ثمر الأفعال)"
+::: indent
+⟪इष्टं⟫ ⟪फलम्⟫ "الثمرة المطلوبة (مثل ثمر الأفعال)"
+:::
 :::
 
 إذا جاء ⟪अपि⟫ بعد اسم المفعول في هذه الحالة، فإن ⟪अपि⟫ يعني "رغم":
@@ -43,7 +47,9 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "على الرغم من رغبته في الثمر، فإنه لا يحصل عليه."
 :::
 
-    ⟪गत⟫ n.: "المشي، المشية"
+::: indent
+⟪गत⟫ n.: "المشي، المشية"
+:::
 ::: indent
 ⟪नृत्त⟫ ن.: "الرقص، الرقص"
 :::
@@ -67,7 +73,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 با استخدام لاحقات تادّهيتا -mant و -vant، تُشتقّ صفات الدلالة على الملكية من الأسماء. ومعناها: "حامل ما يمثّله الاسم الأساسي".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 أمثلة:
 
@@ -197,7 +203,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 م.: ⟪अन्नम्⟫
 (مصدر الصورة: [تفاصيل](/ar/licenses#lekt1304))
 :::
-pad 4 Ā:
+pad 4 Ā: <!-- TODO: Fallback translation -->
 
 الجزء 4 أ:
 

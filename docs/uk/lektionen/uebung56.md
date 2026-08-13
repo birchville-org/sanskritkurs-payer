@@ -97,7 +97,7 @@ last_reconstructed: 2026-05-15
 :::: media
 ![](/images/uebung091.webp)
 Мал.: ⟪जेरिम⟫
-(Джерело зображення: [Деталі](/uk/licenses#uebung091))
+(Джерело зображення: [Деталі](/uk/licenses#uebung091)) &lt;!-- TODO: Fallback translation --&gt;
 
 ::::
 :::

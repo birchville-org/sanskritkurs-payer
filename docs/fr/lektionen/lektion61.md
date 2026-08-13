@@ -4,11 +4,11 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 61
+# Leçon 61
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
+## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū <!-- TODO: Fallback translation -->
 
 ### 61.1.1. Noms radicaux en -ā à la fin de ⟪तत्पुरुष⟫
 
@@ -31,10 +31,10 @@ Paradigme :
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī
+### 61.1.2. Feminine Wurzelnomina auf -ī <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
 
 **Outre les formations avec les terminaisons casuelles régulières, il existe également des formations selon le modèle des féminins polysyllabiques en -ī (⟪देवी⟫) au Dat.Ab.Gen.Lok.sg. et au Gen.pl.**
 :::
@@ -107,14 +107,14 @@ Paradigmes :
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
+### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**Stamm vor Vokal: -uv**
+**Stamm vor Vokal: -uv** <!-- TODO: Fallback translation -->
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Paradigme :
+Paradigme : <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ f. « Terre »
 
@@ -203,7 +203,7 @@ Les terminaisons du futur périphrastique sont donc :
 ::: grammar-box
 **Forme de la racine : La racine a généralement la même forme que dans le futur simple. Il en va de même pour la voyelle d’union -i-.**
 :::
-Exemples :
+Exemples : <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ etc. |
 | --- | --- |
@@ -234,18 +234,26 @@ Paradigme :
 **L’Intensivum signifie :**
 
 *   **qu’une personne ou une chose fait ou subit à plusieurs reprises ce qui est exprimé par la racine**  
-    ⟪कृ⟫ 8U : ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ « il fait à plusieurs reprises »  
-    ⟪भू⟫ 1P : ⟪बोभूयते⟫ / ⟪बोभवीति⟫ « il est (devient) souvent »  
+::: indent
+⟪कृ⟫ 8U : ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ « il fait à plusieurs reprises »
+⟪भू⟫ 1P : ⟪बोभूयते⟫ / ⟪बोभवीति⟫ « il est (devient) souvent »
+:::
 
 *   **qu’une personne ou une chose fait ou subit intensément ce qui est exprimé par la racine :**  
-    ⟪कृ⟫ 8U : ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ « il fait intensément, il fait vigoureusement »  
+::: indent
+⟪कृ⟫ 8U : ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ « il fait intensément, il fait vigoureusement »
+:::
 
 *   **pour les racines exprimant un mouvement, l’Intensivum signifie le mouvement courbé :**  
-    ⟪व्रज्⟫ 1P :  ⟪वव्रज्यते⟫ « il se déplace en courbes » (ET NON : « il se déplace souvent »)  
+::: indent
+⟪व्रज्⟫ 1P :  ⟪वव्रज्यते⟫ « il se déplace en courbes » (ET NON : « il se déplace souvent »)
+:::
 
 *   **pour certaines racines (liste : Kielhorn, Grammatik § 458b), l’Intensivum signifie le blâme :**  
-    ⟪लुप्⟫ 6U : ⟪लोलुप्यते⟫ « il coupe mal »  
-    ⟪सद्⟫ 1P : ⟪सासद्यते⟫ « il s’assoit mal »
+::: indent
+⟪लुप्⟫ 6U : ⟪लोलुप्यते⟫ « il coupe mal »
+⟪सद्⟫ 1P : ⟪सासद्यते⟫ « il s’assoit mal »
+:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -279,7 +287,9 @@ Exemples :
 ::: indent
 **pour les racines exprimant un mouvement, l’Intensivum signifie le mouvement courbé :**  
 :::
-    ⟪व्रज्⟫ 1P :  ⟪वव्रज्यते⟫ « il se déplace en courbes » (ET NON : « il se déplace souvent »)  
+::: indent
+⟪व्रज्⟫ 1P :  ⟪वव्रज्यते⟫ « il se déplace en courbes » (ET NON : « il se déplace souvent »)
+:::
 
 **pour certaines racines (liste : Kielhorn, Grammatik § 458b), l’Intensivum signifie le blâme :**  
 Exemples :
@@ -430,7 +440,7 @@ Veuillez noter l'importance de :
 
 | ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6105.webp)
@@ -485,7 +495,7 @@ Fig. : ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 Karli
 (Source de l'image : [Détails](/fr/licenses#lekt6110))
 :::
-### 61.4.5. Formation avec le suffixe -ya, Ātmanepada
+### 61.4.5. Formation avec le suffixe -ya, Ātmanepada <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Signification :**
@@ -507,7 +517,7 @@ Exemples :
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ «il se comporte comme Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 «célèbre» | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ «il se comporte comme un Célèbre» |
-| ⟪कुमारी⟫ f. «fille» | ⟪कुमारायते⟫ «il se comporte comme une Fille» |
+| ⟪कुमारी⟫ f. «fille» | ⟪कुमारायते⟫ «il se comporte comme une Fille» | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Pour certaines bases nominales, ce suffixe signifie : quelque chose devient comme ce qui est désigné par la base nominale, ou devient ce qui est désigné par la base nominale :**
@@ -540,7 +550,7 @@ Exemples :
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -660,7 +670,7 @@ Paradigmes : Kielhorn, Grammatik § 153 :
 Fig. : ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 (Source de l'image : [Détails](/fr/licenses#lekt6118))
 :::
-## 61.8. Restliche Pronomina
+## 61.8. Restliche Pronomina <!-- TODO: Fallback translation -->
 
 ### 61.8.1. Pronoms personnels du duel
 

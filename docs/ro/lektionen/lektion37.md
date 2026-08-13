@@ -34,20 +34,26 @@ Acuzativul poate fi folosit adverbial:
 
 *   de substantive  
     Exemple:  
-    ⟪कामम्⟫ "după dorință, conform dorinței"  
-    ⟪अर्थम्⟫ "din cauza"  
+::: indent
+⟪कामम्⟫ "după dorință, conform dorinței"
+⟪अर्थम्⟫ "din cauza"   <!-- TODO: Fallback translation -->
+:::
 
 *   de adjective la neutru  
     Exemple:  
-    ⟪सुखम्⟫ "ușor, fericit"  
-    ⟪नित्यम्⟫ "mereu"  
-    ⟪साधु⟫ "corect, bine"  
+::: indent
+⟪सुखम्⟫ "ușor, fericit"
+⟪नित्यम्⟫ "mereu"
+⟪साधु⟫ "corect, bine"
+:::
 
 *   de pronume la neutru  
     Exemple:  
-    ⟪तद्⟫ "atunci, de aceea"  
-    ⟪यद्⟫ "dacă, că"  
-    ⟪एतद्⟫ "așa, aici, acum"
+::: indent
+⟪तद्⟫ "atunci, de aceea"
+⟪यद्⟫ "dacă, că"
+⟪एतद्⟫ "așa, aici, acum"
+:::
 :::
 ### 37.2.2. Instrumentalul (⟪तृतीया⟫)
 
@@ -62,13 +68,17 @@ Instrumentalul poate fi folosit adverbial:
 
 *   de substantive  
     Exemple:  
-    ⟪अर्थेन⟫ "din cauza"  
-    ⟪क्षणेन⟫ "în clipa aceea, imediat" (de la ⟪क्षण⟫ m. "clipă")  
+::: indent
+⟪अर्थेन⟫ "din cauza"
+⟪क्षणेन⟫ "în clipa aceea, imediat" (de la ⟪क्षण⟫ m. "clipă")
+:::
 
 *   de adjective, adesea și la plural  
     Exemple:  
-    ⟪दूरेण⟫ "departe, din depărtare" (la ⟪दूर⟫ 3 "departe, îndepărtat de")  
-    ⟪उच्चैस्⟫ "înalt, tare" (la ⟪उच्च⟫ 3 "înalt, ridicat, tare, ascuțit (de voce)")
+::: indent
+⟪दूरेण⟫ "departe, din depărtare" (la ⟪दूर⟫ 3 "departe, îndepărtat de")
+⟪उच्चैस्⟫ "înalt, tare" (la ⟪उच्च⟫ 3 "înalt, ridicat, tare, ascuțit (de voce)")
+:::
 :::
 ### 37.2.3. Dativul (⟪चतुर्थी⟫)
 
@@ -103,8 +113,10 @@ Ablativul poate fi folosit adverbial:
 
 *   cu pronume  
     Exemple:  
-    ⟪कस्मात्⟫ "de ce"  
-    ⟪अकस्मात्⟫ "neașteptat"
+::: indent
+⟪कस्मात्⟫ "de ce"
+⟪अकस्मात्⟫ "neașteptat"
+:::
 :::
 ### 37.2.5. Genitivul (⟪षष्ठी⟫)
 
@@ -161,7 +173,7 @@ adverbe pronominale corespunzătoare.
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -171,7 +183,7 @@ Un alt adverb interogativ este: ⟪क्व⟫ "unde?"
 ![lekt3701.jpg](/images/lekt3701.webp)
 Fig.: ⟪क्व⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3701))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -181,7 +193,7 @@ Fig.: ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
 
 :::
 ## 37.5. Compozite adverbiale
@@ -283,7 +295,7 @@ La întrebările cu cuvinte se întreabă despre un agent (⟪कर्तृ⟫
 *   cum vorbește ea sanscrita?
 *   unde este mama?
 
-La întrebările cu propoziții se întreagă întregul conținut al propoziției, de exemplu
+La întrebările cu propoziții se întreagă întregul conținut al propoziției, de exemplu <!-- TODO: Fallback translation -->
 
 *   merge Rāma astăzi la Ofterdingen?
 *   este corect că ... ?
@@ -308,13 +320,13 @@ Exemple:
 Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3704))
 :::
-### 37.8.2. Întrebări de propoziție
+### 37.8.2. Întrebări de propoziție <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Uneori, este clar doar din context dacă o propoziție este o întrebare.
 :::
 ::: grammar-box
-Schema I:
+Schema I: <!-- TODO: Fallback translation -->
 
 Verb - restul propoziției
 :::
@@ -323,7 +335,7 @@ Exemplu:
 ⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Va merge băiatul brahman la un maestru?"
 :::
 ::: grammar-box
-Schema II:
+Schema II: <!-- TODO: Fallback translation -->
 
 Particulă de întrebare (de obicei la începutul propoziției) - propoziție
 
@@ -440,7 +452,7 @@ B) Traduceți:
 
 C) Traduceți următoarele ⟪अव्ययीभाव⟫ :
 
-1\. ⟪अति⟫ Postpoziție cu Acuzativul: "peste ..."
+1\. ⟪अति⟫ Postpoziție cu Acuzativul: "peste ..." <!-- TODO: Fallback translation -->
 
 ::: indent
 1.  ⟪अतिमात्रम्⟫
@@ -497,7 +509,7 @@ Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3711))
 :::
-8\. ⟪यथा⟫
+8\. ⟪यथा⟫ <!-- TODO: Fallback translation -->
 
 ::: indent
 1.  ⟪यथास्थानम्⟫

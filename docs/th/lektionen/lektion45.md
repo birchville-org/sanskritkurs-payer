@@ -5,7 +5,7 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # บทที่ 45
 
@@ -152,5 +152,5 @@ B) จงแปล:
 **lekt4501.jpg**: ผ้าพิมพ์บล็อก, Ahmedabad. -- ที่มาภาพ: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, share alike)
 
 **lekt4502.jpg**: ที่มาภาพ: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, no derivatives)
-:::
+::: <!-- TODO: Fallback translation -->
 

@@ -66,9 +66,9 @@ Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel 
 | **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
 ::: grammar-box
-**Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmässig oder als Obliegenheit oder gut vollziehend".** <!-- TODO: Fallback translation -->
+**ⲡⲓϣⲟⲡ ⲛⲧⲉⲙ ϩⲓϫⲱⲛ ⲡⲉⲧⲟⲩϥ ϫⲓⲛⲁⲕ ⲉⲧϥⲙⲏⲓ: "ⲡⲉⲧϥⲙⲏⲓ ⲛⲁⲕ ⲉϥⲙⲟⲧⲛⲁⲕ ⲉϥⲙⲟⲧⲛⲁⲕ ⲉϥⲙⲟⲧⲛⲁⲕ ⲉϥⲙⲟⲧⲛⲁⲕ".**
 :::
-siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
+ⲛϣⲟⲡ ϩⲓⲱⲥ ⲉⲙⲁϫⲣⲏ: **śrāvaka**, **yājaka**, **jayaka**
 
 **Beispiele:**
 
@@ -151,26 +151,26 @@ Abb.: **karṣaka** = ⟪कर्षक⟫.
 ⟪इज्याध्ययनदानानि⟫
 (Yājñavalkyadharmaśāstra I, 118)
 
-2. ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲥ ⲡⲓϣⲟⲛⲧⲉ: <!-- TODO: Fallback translation -->
+2. ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲥ ⲡⲓϣⲟⲛⲧⲉ:
    **pravacanayājanapratigrahāḥ**
 ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 (ⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ X, 2)
 
-3. ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲥ ⲡⲓϣⲟⲛⲧⲉ: <!-- TODO: Fallback translation -->
+3. ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲥ ⲡⲓϣⲟⲛⲧⲉ:
    **rakṣaṇaṃ sarvabhūtānām**
 ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 (sarvabhūtānām = Genitiv: "ⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ"; ⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ X, 7)
 
-4. ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲥ ⲡⲓϣⲟⲛⲧⲉ: <!-- TODO: Fallback translation -->
+4. ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲥ ⲡⲓϣⲟⲛⲧⲉ:
    **kṛṣivāṇijyapāśupālyakusīdam**
 ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 (ⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ X, 49)
 
-5. ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲥ ⲡⲓϣⲟⲛⲧⲉ: <!-- TODO: Fallback translation -->
+5. ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲥ ⲡⲓϣⲟⲛⲧⲉ:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
 ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
 (ⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ 1.3.8.)
-ⲡⲓϣⲟⲛⲧⲉ: dvijātīnām = Genitiv Plural zu dvijāti ("ⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ"); kārukuśīlavakarma = Tatpuruṣa ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ (kārukuśīlava) ⲙⲡⲓϣⲟⲛⲧⲉ. karma = Nom. sg. ⲙⲡⲓϣⲟⲛⲧⲉ karman n. "ⲡⲓϣⲟⲛⲧⲉ, ⲡⲓϣⲟⲛⲧⲉ, ⲡⲓϣⲟⲛⲧⲉ" ⲙⲡⲓϣⲟⲛⲧⲉ kṛ 8 U). ⲡⲓϣⲟⲛⲧⲉ "ⲡⲓϣⲟⲛⲧⲉ / ⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ" (ⲙⲡⲓϣⲟⲛⲧⲉ). <!-- TODO: Fallback translation -->
+ⲡⲓϣⲟⲛⲧⲉ: dvijātīnām = Genitiv Plural zu dvijāti ("ⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ"); kārukuśīlavakarma = Tatpuruṣa ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ (kārukuśīlava) ⲙⲡⲓϣⲟⲛⲧⲉ. karma = Nom. sg. ⲙⲡⲓϣⲟⲛⲧⲉ karman n. "ⲡⲓϣⲟⲛⲧⲉ, ⲡⲓϣⲟⲛⲧⲉ, ⲡⲓϣⲟⲛⲧⲉ" ⲙⲡⲓϣⲟⲛⲧⲉ kṛ 8 U). ⲡⲓϣⲟⲛⲧⲉ "ⲡⲓϣⲟⲛⲧⲉ / ⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ ⲙⲡⲓϣⲟⲛⲧⲉ" (ⲙⲡⲓϣⲟⲛⲧⲉ).
 
 6. **ⲕϣⲓ ⲡⲁϥⲟⲩⲡⲁ̀ⲗⲉⲓ ⲛⲧⲉ ϫⲟⲩⲁⲓ ⲛϧⲱⲃ.**
 ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |

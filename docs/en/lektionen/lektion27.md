@@ -1,15 +1,16 @@
 ---
-title: Lektion 27
-subtitle: "Gebrauch des Lokativ (⟪सप्तमी⟫ f. = \"siebte Kasusendung\")"
+title: "Lesson 27"
+subtitle: 'Use of the Locative (⟪सप्तमी⟫ f. = "seventh case ending")'
 lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lesson 27
 
-## 27.1. Usage of the Locative (⟪सप्तमी⟫ f. = "seventh case ending")
+## 27.1. Use of the Locative (⟪सप्तमी⟫ f. = "seventh case ending")
 
 ::: grammar-box
 
@@ -17,14 +18,14 @@ status: stable
 *   **where?**
 *   **when?**
 *   **under what circumstances?**
-*   **with regard to what?**
+*   **with respect to what?**
 
 :::
 ::: grammar-box
 
-**1. The Locative (⟪सप्तमी⟫) answers the question "Where?" by denoting the space in (at, on, by) which the agent (⟪कर्ता⟫) or the object of an action is located, or where the action itself takes place.**
+**1. The Locative (⟪सप्तमी⟫) answers the question "Where?" by indicating the space in (at, on, near) which the agent (⟪कर्ता⟫) or object of an action is located, or where the action itself takes place.**
 
-> ⟪नगरे⟫ ⟪वसति⟫ = "He lives in the city"
+> ⟪नगरे वसति⟫ = "He lives in the city"
 
 :::
 ::: media
@@ -36,73 +37,73 @@ Jaipur, 1875.
 
 ::: grammar-box
 
-**2. The Locative answers the question "When?" by denoting the point in time or the external circumstances:**
+**2. The Locative answers the question "When?" by indicating the point in time or external circumstances:**
 
-> ⟪तस्मिन्काले⟫ = "at that time, at that time"
+> ⟪तस्मिन्काले⟫ = "at that time, at this time"
 
-**This also includes the so-called Locativus Absolutus:**
+**Also belonging here is the so-called Locativus Absolutus:**
 
-**If the action or state of a person or thing determines the time to which — or the circumstances under which — ANOTHER person or thing performs an action or is in a certain state, then the word designating the first person or thing, together with the word specifying it further (which is often a participle), appears in the Locative (⟪सप्तमी⟫):**
+**If an action or state of a person or thing determines the time at which, or the circumstances under which, ANOTHER person or thing performs an action or is in a certain state, then the word designating the first person or thing, together with the word further specifying it (which is often a participle), appears in the Locative case (⟪सप्तमी⟫):**
 
-> ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "while time passes..."
->
+> ⟪एवं गच्छति काले⟫ = "while time passes thus..."
+&gt;
 > ⟪तस्मिन्गते⟫ = "when he had gone..."
 
 **Sometimes the agent (⟪कर्ता⟫) is not explicitly stated:**
 
-> ⟪एवं⟫ ⟪सति⟫ = "since it is so"
+> ⟪एवं सति⟫ = "since the matter stands thus"
 
-**The Locativus absolutus must be translated according to context as "while" (e.g., Present Participle), "after", "when" (e.g., PPP), "since", "because", "although", "if", etc.**
+**The Locativus Absolutus must be translated according to context as "while" (e.g., present participle), "after", "when" (e.g., past passive participle), "since", "because", "although", "if", etc.**
 
-**Note: In the Absolutivum, the agent of the Absolutivum and the agent of the main clause must be identical; in the Locativus absolutus, the agent of the Locativus absolutus and the agent of the main verb must be different.**
+**Note: In the absolute construction, the agent of the absolutive and the agent of the main clause must be identical; in the locative absolute, the agent of the locative absolute and the agent of the main verb must be different.**
 
 :::
 ::: media
 ![](/images/lekt2702.webp)
-Fig.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
+Fig.: ⟪एवं गच्छति कालयुष्ट्रः स्वपित⟫i
 Rajasthan.
 (Image source: [Details](/en/licenses#lekt2702))
 :::
 
 ::: grammar-box
 
-**3. The Locative also answers the question "With regard to what?" etc.:**
+**3. The locative also answers the question "With respect to what?" and similar:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "He has love for his son" (lit. "With regard to the son, love is with him")
+> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "He has love for his son" (literally: "With respect to the son, there is love in him")
 
 :::
 ::: media
 ![](/images/lekt2703.webp)
-Fig.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
+Fig.: ⟪अस्ति तस्य पुत्रे स्नेहः⟫
 Holi.
 (Image source: [Details](/en/licenses#lekt2703))
 :::
 
 ::: grammar-box
 
-**4. The Locative is used in native dictionaries and by commentators to indicate the meaning of a word:**
+**4. The locative is used in native dictionaries and by commentators to indicate the meaning of a word:**
 
-> ⟪भू⟫ ⟪सत्तायाम्⟫ = "the root ⟪भू⟫ in the sense of 'beingness' (sat-tā)"
+> ⟪भू सत्तायाम्⟫ = "the root ⟪भू⟫ in the sense of 'beingness' (sat-tā)"
 
 :::
-Further information on the usage of the Locative later.
+Further information on the usage of the locative will follow later.
 
 ## 27.2. Formation of the Locative (⟪सप्तमी⟫)
 
 ::: grammar-box
 
-**The regular endings of the Locative (⟪सप्तमी⟫) are:**
+**The regular endings of the locative (⟪सप्तमी⟫) are:**
 *   **Singular: -i**
 *   **Plural: -su**
 
 **Note the sound changes before -su as well as the possible cerebralization of -su to -ṣu!**
 
 :::
-### 27.2.1. Consonantal Stems
+### 27.2.1. Consonant Stems
 
 ::: grammar-box
 
-| Stem | Locative Singular:br⟪सप्तमी⟫ ⟪एकवचन⟫ | Locative Plural:br⟪सप्तमी⟫ ⟪बहुवचन⟫ |
+| Stem | Locative Singular:br⟪सप्तमी एकवचन⟫ | Locative Plural:br⟪सप्तमी बहुवचन⟫ |
 | :--- | :--- | :--- |
 | ⟪यजन्त्⟫ | ⟪यजति⟫ (yaj-at-i) | ⟪यजत्सु⟫ |
 | ⟪महान्त्⟫ | ⟪महति⟫ | ⟪महत्सु⟫ |
@@ -122,19 +123,19 @@ Further information on the usage of the Locative later.
 | Feminine:brLocative Plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
-### 27.2.3. Vocalic Stems
+### 27.2.3. Vowel Stems
 
 ::: grammar-box
 
 | | Locative Singular | Locative Plural |
 | :--- | :--- | :--- |
-| **⟪देव⟫** m. | ⟪देवे⟫ :br(« deva + -i) | ⟪देवेषु⟫ |
-| **⟪कवि⟫** m. | ⟪कवौ⟫ | ⟪कविषु⟫ |
-| **⟪पशु⟫** m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
-| **⟪देवता⟫** f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
-| **⟪देवी⟫** f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
-| **⟪श्रुति⟫** f. | ⟪श्रुतौ⟫ oder ⟪श्रुत्याम्⟫ :br(d.h. entweder wie **kavi** :br⟪कवि⟫ oder wie **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
-| **⟪धेनु⟫** f. | **⟪धेनौ⟫** or **⟪धेन्वाम्⟫** | ⟪धेनुषु⟫ |
+| ⟪देव⟫ m. | ⟪देवे⟫ :br(« deva + -i) | ⟪देवेषु⟫ |
+| ⟪कवि⟫ m. | ⟪कवौ⟫ | ⟪कविषु⟫ |
+| ⟪पशु⟫ m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
+| ⟪देवता⟫ f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
+| ⟪देवी⟫ f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
+| ⟪श्रुति⟫ f. | ⟪श्रुतौ⟫ or ⟪श्रुत्याम्⟫ :br(i.e. either like **kavi** :br⟪कवि⟫ or like **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
+| ⟪धेनु⟫ f. | ⟪धेनौ⟫ or ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
 ## 27.3. Overview of Regular Case Endings (⟪विभक्ति⟫)
@@ -153,53 +154,53 @@ Further information on the usage of the Locative later.
 | **7. Locative** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
-**Printed in red**: strong cases (with stem gradation).
+**Printed in red**: strong cases (in case of stem gradation).
 
-## 27.4. रामशब्दस्य सर्वरूपाणि (एकवचनम्) श्लोके
+## 27.4. A Verse with All Declension Forms (Singular) for ⟪राम⟫
 
 ::: media
 ![](/images/lekt2708.webp)
-Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
+Fig.: ⟪रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥⟫
 Rāma-Satz.
 (Image source: [Details](/en/licenses#lekt2708))
 :::
-*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫:br *:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫:br *:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
+sig[⟪रामो⟫] ⟪राजमणिः सदा विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं भजे⟫:br :sig[⟪रामेणा⟫]⟪भिहता निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै नमः ।⟫:br :sig[⟪रामान्ना⟫]⟪स्ति परायणम् परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫:br :sig[⟪रामे⟫] ⟪चित्तलयः सदा भवतु मे भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर ॥⟫
 
 **Translation:**
-1. **Nominativeee:** Rāma, the jewel (⟪मणि⟫ m.) among kings (⟪राजन्⟫ m.) always conquers (⟪सदा⟫).
-2. **Accusative:** I love (⟪भज्⟫ 1S) Rāma, the lord and husband (⟪ईश⟫ m.) of Ramā (= Lakṣmī).
-3. **Instrumental:** Rāma has killed the army (⟪चमू⟫ f.) of night-roamers (= demons) (⟪निशा⟫ f. = night).
-4. **Dativeee:** To this Rāma be homage!
-5. **Ablativeee:** There is no better (⟪परतर⟫ 3) refuge (⟪परायण⟫ n.) than Rāma.
+1. **Nominative:** Rāma, the jewel (⟪मणि⟫ m.) among kings (⟪राजन्⟫ m.), always triumphs (⟪सदा⟫).
+2. **Accusative:** I love (⟪भज्⟫ 1U) Rāma, the lord and husband (⟪ईश⟫ m.) of Ramā (= Lakṣmī).
+3. **Instrumental:** Rāma has slain the army (⟪चमू⟫ f.) of night-roamers (= demons) (⟪निशा⟫ f. = night).
+4. **Dative:** Homage to this Rāma!
+5. **Ablative:** There is no better (⟪परतर⟫ 3) refuge (⟪परायण⟫ n.) than Rāma.
 6. **Genitive:** I (⟪अहम्⟫) am (⟪अस्मि⟫) a servant of Rāma.
 7. **Locative:** In Rāma may (⟪भवतु⟫) always be the peace (⟪लय⟫ m.) of my (⟪मे⟫) heart.
-8. **Vocative:** Rāma, save (⟪उद्धर⟫ = Imperativeee for ⟪उद्⟫ + ⟪हृ⟫ or ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
+8. **Vocative:** Rāma, save (⟪उद्धर⟫ = Imperative of ⟪उद्⟫ + ⟪हृ⟫ or ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
 
 ## 27.5. Word List
 
-**⟪वस्⟫** 1P (⟪वसति⟫): to stay, to dwell (with locative of the person with whom one dwells)
+⟪वस्⟫ 1P (⟪वसति⟫): to stay, dwell (with locative of the person with whom one dwells)
 
 ::: indent
 **Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
 :::
-therefrom:
+from this:
 
 ::: indent
-**⟪वस्तु⟫** n.: seat, place; reality, real thing, reality, object
+⟪वस्तु⟫ n.: seat, place; reality, real thing, actuality, object
 
 :::
 ::: indent
-**⟪वस्तुतस्⟫**: in reality, really
+⟪वस्तुतस्⟫: in fact, really
 :::
-**⟪वस्⟫** 2Ā (⟪वस्ते⟫): to put on (clothing), to wear (clothing)
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): to put on (clothing), to wear (clothing)
 
 ::: indent
 **Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
 :::
-therefrom:
+from that:
 
 ::: indent
-**⟪वस्त्र⟫** n.: means to put on = garment, robe, cloth
+⟪वस्त्र⟫ n.: means to put on = garment, robe, cloth
 :::
 ::: media
 ![](/images/lekt2706.webp)
@@ -207,12 +208,12 @@ Fig.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Image source: [Details](/en/licenses#lekt2706))
 :::
-**⟪वस्⟫** 6P (⟪उच्छति⟫): to shine forth (this root is important because of the nominal formations:)
+⟪वस्⟫ 6P (⟪उच्छति⟫): to shine brightly (this root is important because of the nominal formations:)
 
 ::: indent
-**⟪वसु⟫** n.: wealth, treasure, property, possession
+⟪वसु⟫ n.: wealth, treasure, property, possession
 
-**⟪वसन्त⟫** m.: ("shining" =) spring (March to May)
+⟪वसन्त⟫ m.: ("shining" =) spring (March to May)
 :::
 ::: media
 ![](/images/lekt2707.webp)
@@ -220,21 +221,21 @@ Fig.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Image source: [Details](/en/licenses#lekt2707))
 :::
-**⟪हृ⟫** 1U (⟪हरति⟫): to hold, to carry; to fetch, to take away, to steal
+⟪हृ⟫ 1U (⟪हरति⟫): to hold, to carry; to take away, to steal
 
 ::: indent
 **Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
 :::
-therefrom:
+from that:
 
 ::: indent
-**⟪हर⟫** 3: taking away; m.: the destroyer = epithet of Śiva
+⟪हर⟫ 3: taking away; m.: the destroyer = epithet of Śiva
 :::
-Counterpart to **⟪हर⟫**:
+Counterpart to ⟪हर⟫:
 
-**⟪हरि⟫** 3: blond, yellow, green; m. epithet of Viṣṇu (does not belong to the root ⟪हृ⟫ 1)
+⟪हरि⟫ 3: blond, yellow, green; m. epithet of Viṣṇu (does not belong to the root ⟪हृ⟫ 1)
 
-**⟪हरिहर⟫** m.: Viṣṇu and Śiva united as a single deity.
+⟪हरिहर⟫ m.: Viṣṇu and Śiva united as a single deity.
 
 ::: media
 ![](/images/lekt2704.webp)
@@ -251,39 +252,23 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 :::
 ## 27.6. Exercise
 
-**A) Insert the expressions in parentheses in the following sentence in the locative (⟪सप्तमी⟫) singular and - where sensible - plural. Note the different Sandhi, i.e., write out the full sentence each time!**
+**A) Insert the expressions in parentheses into the following sentence in the locative (⟪सप्तमी⟫) singular and, where appropriate, plural. Observe the various sandhis, i.e., write out each full sentence!**
 
-⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫ (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
+⟪रामस्⟫ ... ⟪वसति ।⟫ (⟪ग्राम । गुरु । सत्यवान्कविः । पुत्रं लब्धुकामा ब्राह्मणी । गृह । तन्नगरम् । मुह्यञ्छत्रुः⟫)
 
 **B) Translate and resolve the compounds:**
 
-⟪धर्मं⟫ ⟪वदति⟫ ⟪गुरौ⟫ ⟪दुर्जना⟫ ⟪न⟫ ⟪शृण्वन्ति⟫ ⟪॥१॥⟫
-
-⟪बुद्धकाले⟫ ⟪नरैरार्यसत्यानि⟫ ⟪श्रोतुं⟫ ⟪शक्यन्ते⟫ ⟪॥२॥⟫
-
-⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥३॥⟫
+⟪धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥ बुद्धकाले नरैरार्यसत्यानि श्रोतुं शक्यन्ते ॥२॥ वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥⟫
 
 ::: media
 ![](/images/lekt2709.webp)
-Fig.: ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥⟫
+Fig.: ⟪वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥⟫
 Painting by Rāja Ravi Varmā (1848 - 1906).
 (Image source: [Details](/en/licenses#lekt2709))
 :::
-⟪पुत्रे⟫ ⟪मृतेऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫
+⟪पुत्रे मृतेऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥ उपनीतबालैर्गुरुकुले उष्यते ॥५॥ यज्ञकाले विगतेऽनिष्टदेवा विस्मृतयज्ञब्राह्मणेभ्यः क्रुध्यन्ति ॥६॥ गुरौ तिष्ठति बाल आसितुं नार्हति ॥७॥ एवं काले गच्छति स्वाचारक्षत्रिय इष्टं धनं न लभते ॥८॥ ब्राह्मण्यां महाकवावागच्छन्त्यां ब्राह्मणीपुत्रोऽप्यागच्छति ॥९॥ गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति ॥१०॥⟫
 
-⟪उपनीतबालैर्गुरुकुले⟫ ⟪उष्यते⟫ ⟪॥५॥⟫
-
-⟪यज्ञकाले⟫ ⟪विगतेऽनिष्टदेवा⟫ ⟪विस्मृतयज्ञब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥६॥⟫
-
-⟪गुरौ⟫ ⟪तिष्ठति⟫ ⟪बाल⟫ ⟪आसितुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫
-
-⟪एवं⟫ ⟪काले⟫ ⟪गच्छति⟫ ⟪स्वाचारक्षत्रिय⟫ ⟪इष्टं⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभते⟫ ⟪॥८॥⟫
-
-⟪ब्राह्मण्यां⟫ ⟪महाकवावागच्छन्त्यां⟫ ⟪ब्राह्मणीपुत्रोऽप्यागच्छति⟫ ⟪॥९॥⟫
-
-⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫ ⟪॥१०॥⟫
-
-## 27.7. Declension Paradigms to Memorize
+## 27.7. Declension paradigms to memorize
 
 ### 27.7.1. Masculines in -a: ⟪नर⟫
 
@@ -366,10 +351,10 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Cham
 ::: media
 ![](/images/lekt2712.webp)
 Fig.: ⟪अरयः⟫
-Hanging of two participants in the Rebellion of 1857. Photograph by Felice Beato (1833/1834 - ca. 1907).
+Hanging of two participants in the Rebellion of 1857. Photograph by Felice Beato (1833/1834 – ca. 1907).
 (Image source: [Details](/en/licenses#lekt2712))
 :::
-### 27.7.5. Feminines ending in -i: ⟪मति⟫
+### 27.7.5. Feminines in -i: ⟪मति⟫
 
 ::: grammar-box
 
@@ -384,7 +369,7 @@ Hanging of two participants in the Rebellion of 1857. Photograph by Felice Beato
 | **7. Locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪मतौ⟫ / ⟪मत्याम्⟫ | ⟪मतिषु⟫ |
 
 :::
-### 27.7.6. Masculines ending in -u: ⟪गुरु⟫
+### 27.7.6. Masculines in -u: ⟪गुरु⟫
 
 ::: grammar-box
 
@@ -405,7 +390,7 @@ Fig.: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Image source: [Details](/en/licenses#lekt2713))
 :::
-### 27.7.7. Feminines ending in -u: ⟪धेनु⟫
+### 27.7.7. Feminines in -u: ⟪धेनु⟫
 
 ::: grammar-box
 
@@ -426,7 +411,7 @@ Fig.: ⟪धेनुः⟫
 Cow in Udaipur.
 (Image source: [Details](/en/licenses#lekt2714))
 :::
-### 27.7.8. Polysyllabic Feminines ending in -ī: ⟪देवी⟫
+### 27.7.8. Polysyllabic Feminines in -ī: ⟪देवी⟫
 
 ::: grammar-box
 
@@ -447,7 +432,7 @@ Fig.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Image source: [Details](/en/licenses#lekt2715))
 :::
-### 27.7.9. Present Participle Parasmaipada on -ant: ⟪सन्त्⟫
+### 27.7.9. Present Participle Parasmaipada in -ant: ⟪सन्त्⟫
 
 ::: grammar-box
 
@@ -483,7 +468,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
 :::
-### 27.7.11. Masculine and Neuter on -vant / -mant: ⟪गुणवन्त्⟫
+### 27.7.11. Masculines and Neuters in -vant / -mant: ⟪गुणवन्त्⟫
 
 ::: grammar-box
 
@@ -498,7 +483,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
 
 :::
-### 27.7.12. Demonstrative Pronouns: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
+### 27.7.12. Demonstrative Pronouns: ⟪तद् । एतद् । इदम्⟫
 
 ::: grammar-box
 
@@ -580,6 +565,7 @@ Tsunami 2005, Sri Lanka.
 
 ::: deleteme-box
 
+
 **lekt2701:** Jaipur, 1875. [Image source: Wikipedia. Public domain]
 **lekt2702:** Rajasthan. [Image source: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
 **lekt2703:** Holi. [Image source: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
@@ -591,13 +577,11 @@ Tsunami 2005, Sri Lanka.
 **lekt2709:** Painting by Rāja Ravi Varmā (1848 - 1906). [Image source: Wikipedia. Public domain]
 **lekt2710:** Fruits. Bangalore. [Image source: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
 **lekt2711:** Naran. Udaipur. [Image source: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Hanging of two participants in the 1857 Rebellion. Photograph by Felice Beato (1833/1834 - ca. 1907). [Image source: Wikipedia. Public domain]
+**lekt2712:** Hanging of two participants in the Rebellion of 1857. Photograph by Felice Beato (1833/1834 - ca. 1907). [Image source: Wikipedia. Public domain]
 **lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Image source: Wikipedia, GNU FDLicense]
 **lekt2714:** Cow in Udaipur. [Image source: Dey Flickr, 2008-12-19, CC BY-NC-SA]
 **lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Image source: Wikipedia. Public domain]
 **lekt2716:** Sai Baba of Shirdi (1835 - 1918). [Image source: Wikipedia. Public domain]
 **lekt2717:** Tsunami 2005, Sri Lanka. [Image source: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
 **lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore. [Image source: Wikipedia. Public domain]
-
 :::
-

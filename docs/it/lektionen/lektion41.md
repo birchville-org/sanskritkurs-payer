@@ -5,7 +5,7 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 41
 
@@ -35,7 +35,7 @@ Spiegazione: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
 ## 41.2. Ulteriori formazioni di ⟪कृत्⟫ con suffisso -a
 
-### 41.2.1. Participio Presente (⟪लडादेशः⟫) Ā, Participio Presente (⟪लडादेशः⟫) Passivo, Participio Futurooo (⟪ऌडादेशः⟫) Ā
+### 41.2.1. Participio Presente (⟪लडादेशः⟫) Ā, Participio Presente (⟪लडादेशः⟫) Passivo, Participio Futuroooooo (⟪ऌडादेशः⟫) Ā
 
 #### 41.2.1.1. Temi di presente tematici, passivo e futuro
 
@@ -67,7 +67,7 @@ Esempi:
 | Radice / Klasse | Partizip Presente Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
+| **⟪हु⟫** 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -372,7 +372,7 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 cfr. inoltre:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: giovane ragazza, figlia, vergine
 

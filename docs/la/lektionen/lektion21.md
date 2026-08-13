@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lectio 21
 
@@ -40,7 +40,8 @@ Exempla:
 1\. Praesensclassis:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "offerens sacrificium"
+**yajant**
+⟪यजन्त्⟫ "offerens sacrificium"
 :::
 ::: grammar-box
 
@@ -143,7 +144,7 @@ Tab.: ⟪सती⟫-tabula memoriae
 | | **starker Stamm** | ⟪महान्त्⟫ |
 | | **schwacher Stamm** | ⟪महत्⟫ |
 | **Femininum** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -318,3 +319,4 @@ B) Translate:
 
 **lekt2105:** ⟪भगवद्गीता⟫ - Codex, saec. XIX. [Imaginis fontis: Wikipedia, Dominium publicum]
 :::
+ <!-- TODO: Fallback translation -->

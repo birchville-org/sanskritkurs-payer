@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 27
 
@@ -32,7 +32,7 @@ status: stable
 Fig.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2701))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 
@@ -45,7 +45,7 @@ Jaipur, 1875.
 **Si la acción o el estado de una persona o cosa determina el tiempo al cual — o las circunstancias bajo las cuales — otra persona o cosa realiza una acción o se encuentra en un estado determinado, entonces la palabra que designa la primera persona o cosa, junto con la palabra que la especifica más estrechamente (frecuentemente un participio), aparece en locativo (⟪सप्तमी⟫):**
 
 > ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "mientras el tiempo transcurre así..."
->
+&gt;
 > ⟪तस्मिन्गते⟫ = "cuando él se había ido..."
 
 **A veces el agente (⟪कर्ता⟫) no se designa explícitamente:**
@@ -62,7 +62,7 @@ Jaipur, 1875.
 Fig.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rajasthan.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2702))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 
@@ -76,7 +76,7 @@ Rajasthan.
 Fig.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2703))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 
@@ -163,24 +163,30 @@ Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ �
 Rāma-Satz.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2708))
 :::
-*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫:br *:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫:br *:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
+*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫
+*:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
+*:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫
+*:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Traducción:**
-1. **Nominativooo:** Rāma, la joya (⟪मणि⟫ m.) entre los reyes (⟪राजन्⟫ m.) siempre triunfa (⟪सदा⟫).
+1. **Nominativoooooo:** Rāma, la joya (⟪मणि⟫ m.) entre los reyes (⟪राजन्⟫ m.) siempre triunfa (⟪सदा⟫).
 2. **Acusativo:** Amo (⟪भज्⟫ 1U) a Rāma, el señor y esposo (⟪ईश⟫ m.) de Ramā (= Lakṣmī).
 3. **Instrumental:** Rāma ha matado (⟪चमू⟫ f.) al ejército de los vagabundos nocturnos (= demonios) (⟪निशा⟫ f. = noche).
-4. **Dativooo:** ¡A este Rāma sea reverencia!
-5. **Ablativooo:** No hay mejor (⟪परतर⟫ 3) refugio (⟪परायण⟫ n.) que Rāma.
+4. **Dativoooooo:** ¡A este Rāma sea reverencia!
+5. **Ablativoooooo:** No hay mejor (⟪परतर⟫ 3) refugio (⟪परायण⟫ n.) que Rāma.
 6. **Genitivo:** Yo (⟪अहम्⟫) soy (⟪अस्मि⟫) un siervo de Rāma.
 7. **Locativo:** En Rāma esté (⟪भवतु⟫) siempre la paz (⟪लय⟫ m.) de mi (⟪मे⟫) corazón.
-8. **Vocativo:** ¡Rāma, salva (⟪उद्धर⟫ = Imperativooo de ⟪उद्⟫ + ⟪हृ⟫ o ⟪उद्⟫ + ⟪धृ⟫) a mí (⟪माम्⟫)!
+8. **Vocativo:** ¡Rāma, salva (⟪उद्धर⟫ = Imperativoooooo de ⟪उद्⟫ + ⟪हृ⟫ o ⟪उद्⟫ + ⟪धृ⟫) a mí (⟪माम्⟫)!
 
 ## 27.5. Lista de palabras
 
 **⟪वस्⟫** 1P (⟪वसति⟫): permanecer, habitar (con locativo de la persona con la que se habita)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br**Pass.:** ⟪उष्यते⟫:br**PPP:** ⟪उषित⟫:br**Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫
+**Pass.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Inf.:** ⟪वस्तुम्⟫
 :::
 de lo cual:
 
@@ -194,7 +200,9 @@ de lo cual:
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): ponerse (ropa), llevar (ropa)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br**PPP:** ⟪वसित⟫:br**Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 de lo cual:
 
@@ -223,7 +231,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫): sostener, llevar; traer, quitar, robar
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br**Pass.:** ⟪ह्रियते⟫:br**PPP:** ⟪हृत⟫:br**Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 de lo cual:
 
@@ -306,7 +317,7 @@ Fig.: ⟪नराः⟫
 Naran. Udaipur.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2711))
 :::
-### 27.7.2. Neutros en -a: ⟪फल⟫
+### 27.7.2. Neutros en -a: ⟪फल⟫ &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 
@@ -468,7 +479,7 @@ Fig.: ⟪सद्गुरुः⟫
 Sai Baba de Shirdi (1835 - 1918).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫
+### 27.7.10. ⟪महान्त्⟫ &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 
@@ -576,7 +587,7 @@ Sai Baba de Shirdi (1835 - 1918).
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2717))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: deleteme-box
 

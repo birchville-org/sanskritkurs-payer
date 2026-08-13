@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Παρακείμενος Τύπος I: καμία διαβάθμιση θέματος
+### 46.1.3. Παρακείμενος Τύπος I: καμία διαβάθμιση θέματος <!-- TODO: Fallback translation -->
 
 Ρήματα που ακολουθούν αυτόν τον τύπο:
 
@@ -658,7 +658,7 @@ PPP ⟪परिभूत⟫ 3: νικημένος, ταπεινωμένος, ε
 
 ::: deleteme-box
 
-Πηγή εικόνων Ναβγκράχα: Redtigerxyz / Wikipedia. Άδεια GNU FDLicense
+Πηγή εικόνων Ναβγκράχα: Redtigerxyz / Wikipedia. Άδεια GNU FDLicense <!-- TODO: Fallback translation -->
 
 L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, περ. 1870). Πηγή: Wikipedia. Δημόσιος τομέας
 

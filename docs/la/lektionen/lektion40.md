@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 40
+# Lectio 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 
@@ -73,7 +73,7 @@ Radixibus, quae vocantur facultativae, ⟪अनिट्⟫, vocativa coniuncti
 
 1.sg. = 3.sg.
 
-Verba, quae huic typi sequuntur:
+Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 *   Consonans-vocalus longus-consonans
 *   Consonans-vocalus-consonans-consonans
@@ -106,7 +106,7 @@ Verba, quae huic typi sequuntur:
 :::
 ### 40.2.2. Perfectum Typus II: radix fortis gradus altus, radix infirma gradus bassus
 
-Verba, quae huic typi sequuntur:
+Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 *   (Consonant-)i/u/ṛ/ḷ-Consonant
 
@@ -134,7 +134,7 @@ Verba, quae huic typi sequuntur:
 
 #### 40.2.3.1. Perfectum Typus IIIa: Robustum radix gradus altus/gradus productus, infirmus radix gradus bassus
 
-Verba, quae huic typi sequuntur:
+Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 *   (Consonant-)(Consonant-)i/ī/u/ū
 *   (Consonant-)-ṛ
@@ -181,7 +181,7 @@ Verba, quae huic typi sequuntur:
 :::
 #### 40.2.3.2. Perfectum Typus IIIb: radix fortis gradus superior/gradus productus, radix infirma gradus superior
 
-Verba, quae huic typi sequuntur:
+Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 *   (Consonant-)(Consonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -236,7 +236,7 @@ Verba, quae huic typi sequuntur:
 
 #### 40.2.5.1. Perfectum Typus Va: Consonans-a-Consonans, gradus infirmus
 
-Verba, quae huic typi sequuntur:
+Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 ::: indent
 1.  etc.
@@ -312,7 +312,7 @@ Verba, quae huic typi sequuntur:
 :::
 #### 40.2.5.3. Perfectum genus Vc: Consonans-a-Consonans, radix infirma gradu alto
 
-Verba, quae huic typi sequuntur:
+Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 *   Ceterae radices cum medio -a-
 
@@ -454,7 +454,7 @@ ex quo:
 
 ⟪विक्ल्प⟫ m.: Alternativa, dubium
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : colere
+⟪तुद्⟫ 6U ⟪तुदति⟫ : colere <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -606,7 +606,7 @@ B) Verba in formas Perfectorum convertite. Si plures viae adesse possunt, omnes 
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Wiederholungsübung zur Formenlehre
+## 40.8. Wiederholungsübung zur Formenlehre <!-- TODO: Fallback translation -->
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫

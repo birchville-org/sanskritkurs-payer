@@ -5,16 +5,16 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Luento 36
 
-## 36.1. Perfekti erityismuodot
+## 36.1. Perfekti erityismuodot <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Varmat vokalit muuttuvat punikoituessaan sananalkuun liittyvän konsonantin osalta.
 :::
-Esimerkkejä:
+Esimerkkejä: <!-- TODO: Fallback translation -->
 
 | Juuri:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ Esimerkkejä:
 | :--- | :--- | :--- |
 | ⟪भू⟫ 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::
-## 36.2. Perifraattinen perfekti (⟪अनुप्रयोगलिट्⟫)
+## 36.2. Perifraattinen perfekti (⟪अनुप्रयोगलिट्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Perifraattinen perfekti (⟪अनुप्रयोगलिट्⟫) käytetään:
@@ -56,14 +56,14 @@ Perifraattinen perfekti (⟪अनुप्रयोगलिट्⟫) käytet�
 3. joissakin muissa juurissa
 :::
 ::: grammar-box
-**Muodostus:**
+**Muodostus:** <!-- TODO: Fallback translation -->
 
-(heikko) preesensvartu + -ām + vastaava imperfektimuoto verbistä ⟪कृ⟫, ⟪अस्⟫ tai ⟪भू⟫
+(heikko) preesensvartu + -ām + vastaava imperfektimuoto verbistä ⟪कृ⟫, ⟪अस्⟫ tai ⟪भू⟫ <!-- TODO: Fallback translation -->
 
 - Auslautender Vartalovokal wird vor -ām guṇiert.
 - ⟪अस्⟫ ja ⟪भू⟫ taivutetaan myös ātmanepada-verbeissä parasmaipadassa.
 :::
-Das periphrastische Perfekt ist wohl aus dem akkusatiivi eine Verbalnomens auf -ā entstanden. Dieser akkusatiivi wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem akkusatiivi eine Verbalnomens auf -ā entstanden. Dieser akkusatiivi wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 Esimerkit:
 
@@ -72,10 +72,10 @@ Esimerkit:
 | ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
 | ⟪बन्ध्⟫ :brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
 
-## 36.3. Perfekti passiivi
+## 36.3. Perfekti passiivi <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-Passiivissa imperfektin muodossa käytetään ātmanepadan muotoja. Sen sijaan PPP:n käyttöä suositellaan enemmän. Molemmissa tapauksissa konstruktiot ovat passiivilauseita:
+Passiivissa imperfektin muodossa käytetään ātmanepadan muotoja. Sen sijaan PPP:n käyttöä suositellaan enemmän. Molemmissa tapauksissa konstruktiot ovat passiivilauseita: <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -83,9 +83,9 @@ Passiivissa imperfektin muodossa käytetään ātmanepadan muotoja. Sen sijaan P
 :::
 ## 36.4. Sanalista
 
-⟪अह्⟫ P vain imperfekti preesensmerkityksellä ⟪आह⟫, ⟪आहुर्⟫ : sanoa, puhua
+⟪अह्⟫ P vain imperfekti preesensmerkityksellä ⟪आह⟫, ⟪आहुर्⟫ : sanoa, puhua <!-- TODO: Fallback translation -->
 
-⟪अह्⟫ ⟪प्र⟫ P vain perfekti preesensmerkinnällä ⟪प्राह⟫ : sanoa, puhua
+⟪अह्⟫ ⟪प्र⟫ P vain perfekti preesensmerkinnällä ⟪प्राह⟫ : sanoa, puhua <!-- TODO: Fallback translation -->
 
 ⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : nähdä, (er)blickata, tarkastella
 
@@ -111,7 +111,7 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Kuva: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3601))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : astua, kävellä, poistua
 
@@ -143,7 +143,7 @@ siitä:
 Kuv.: ⟪अनगार्यम्⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3603))
 :::
-⟪अञ्जलि⟫ m.: kunnioituksesta korkealle yhdistetyt kädet
+⟪अञ्जलि⟫ m.: kunnioituksesta korkealle yhdistetyt kädet <!-- TODO: Fallback translation -->
 
 ⟪आदृत⟫ 3: arvostettu
 
@@ -158,7 +158,7 @@ Kuv.: ⟪अनगार्यम्⟫
 :::
 ⟪प्रजापति⟫ m.: olentojen hallitsija, luoja
 
-⟪अनु⟫ Präverb: jälkeen, pitkin, yli - päin, pitkin, mukaan, luo, perästä
+⟪अनु⟫ Präverb: jälkeen, pitkin, yli - päin, pitkin, mukaan, luo, perästä <!-- TODO: Fallback translation -->
 
 ::: indent
 esim.
@@ -167,7 +167,7 @@ esim.
 
 ⟪अनुगम्⟫ : seurata jotakuta, kulkea perässä
 :::
-⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - sisään, suhteessa, päälle, yli, luokse
+⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - sisään, suhteessa, päälle, yli, luokse <!-- TODO: Fallback translation -->
 
 ::: indent
 esim.
@@ -198,7 +198,7 @@ PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : huvittaa, ilahduttaa; rakastaa, olla jollekin myötämielinen
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : huvittaa, ilahduttaa; rakastaa, olla jollekin myötämielinen <!-- TODO: Fallback translation -->
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : iloita
 
@@ -239,13 +239,13 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Kuva: ⟪लोमहर्षः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3604))
-:::
+::: <!-- TODO: Fallback translation -->
 
-⟪स्वक⟫ 3: adj. (minun, sinun ...) ; m.: jäsen
+⟪स्वक⟫ 3: adj. (minun, sinun ...) ; m.: jäsen <!-- TODO: Fallback translation -->
 
 ## 36.5. Harjoitus
 
-A) Seuraavat juuret muodostavat sekä punnittu että perifraattinen perfekti. Muodosta seuraavista muodoista vastaavat perifraattiset ja punnitetut perfektimuodot:
+A) Seuraavat juuret muodostavat sekä punnittu että perifraattinen perfekti. Muodosta seuraavista muodoista vastaavat perifraattiset ja punnitetut perfektimuodot: <!-- TODO: Fallback translation -->
 
 1.  ⟪बिभ्रते⟫
 2.  ⟪बिभ्यति⟫
@@ -257,7 +257,7 @@ B) Juuri ⟪आस्⟫ "istäminen" muodostaa perifraattisen perfektin. Muodos
 1.  ⟪आस्ते⟫
 2.  ⟪आसते⟫
 
-C) Muodosta vastaava perfekt seuraaviin muotoihin:
+C) Muodosta vastaava perfekt seuraaviin muotoihin: <!-- TODO: Fallback translation -->
 
 1.  ⟪जीयते⟫
 2.  ⟪विदन्ति⟫
@@ -398,7 +398,7 @@ Kuva: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 | ⟪हु⟫ 3P | IIIa / Perifeer. | ⟪जुहाव⟫, ⟪जुहुवुर्⟫ / **⟪जुहवां⟫ ⟪चकार⟫** |
 | ⟪हृ⟫ 1U | IIIa | ⟪जहार⟫, ⟪जह्रे⟫ |
 
-## 36.7. Käännösharjoitus
+## 36.7. Käännösharjoitus <!-- TODO: Fallback translation -->
 
 Käännä:
 
@@ -418,15 +418,15 @@ Käännä:
 
 Selitykset:
 
-⟪पितरम्⟫ : Akk. sg. sanasta ⟪पितृ⟫ m. "isä"
+⟪पितरम्⟫ : Akk. sg. sanasta ⟪पितृ⟫ m. "isä" <!-- TODO: Fallback translation -->
 
-⟪मातरम्⟫ : akk. sg. sanasta ⟪मातृ⟫ f. "äiti"
+⟪मातरम्⟫ : akk. sg. sanasta ⟪मातृ⟫ f. "äiti" <!-- TODO: Fallback translation -->
 
-⟪ब्रह्म⟫ : nom./akk. sg. sanasta ⟪ब्रह्मन्⟫ n. "absoluuttinen, Veda"
+⟪ब्रह्म⟫ : nom./akk. sg. sanasta ⟪ब्रह्मन्⟫ n. "absoluuttinen, Veda" <!-- TODO: Fallback translation -->
 
 :sig[⟪सर्वे⟫] : nom. pl. mask. sanasta ⟪सर्व⟫ "kaikki, jokainen"
 
-⟪त्रयस्⟫ : nom. pl. mask. sanasta ⟪त्रि⟫ "kolme"
+⟪त्रयस्⟫ : nom. pl. mask. sanasta ⟪त्रि⟫ "kolme" <!-- TODO: Fallback translation -->
 
 ⟪सर्वास्⟫ : Nom./Akk. pl. fem. zu ⟪सर्व⟫ "kaikki, jokainen"
 :::
@@ -435,7 +435,7 @@ Selitykset:
 Kuv.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
 (Kuvälähde: [Tiedot](/fi/licenses#lekt3607))
 :::
-2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟩ oikea käytös vanhuksia kohtaan:
+2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟩ oikea käytös vanhuksia kohtaan: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫
@@ -449,7 +449,7 @@ Kuv.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं�
 
 Selitys: ⟪विज्ञेय⟫ ⟪३⟫: yksi, joka on tunnistettavissa; yksi, joka on tiedettävä (kuten)
 :::
-4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ oikeasta käytöksestä brahmanina:
+4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ oikeasta käytöksestä brahmanina: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪नापृष्टः⟫ ⟪कस्यचिद्ब्रूयान्न⟫ ⟪चान्यायेन⟫ ⟪पृच्छतः⟫ ⟪।⟫
@@ -457,15 +457,15 @@ Selitys: ⟪विज्ञेय⟫ ⟪३⟫: yksi, joka on tunnistettavissa; 
 
 Selitykset:
 
-Tässä säkeessä ⟪ब्रू⟫ on yhdistetty genetiivin kanssa
+Tässä säkeessä ⟪ब्रू⟫ on yhdistetty genetiivin kanssa <!-- TODO: Fallback translation -->
 
-⟪मेधावी⟫ : nominatiivin yksikkö maskuliini sanalle ⟪मेधाविन्⟫ ⟪३⟫ "älykäs, viisas"
+⟪मेधावी⟫ : nominatiivin yksikkö maskuliini sanalle ⟪मेधाविन्⟫ ⟪३⟫ "älykäs, viisas" <!-- TODO: Fallback translation -->
 
 ⟪जडवत्⟫ Adv. "tyypin mukaan jäykkä/tömppelö/tyhmä"
 :::
-## 36.8. Muoto-opin toistoharjoitus
+## 36.8. Muoto-opin toistoharjoitus <!-- TODO: Fallback translation -->
 
-Määritä ja käännä seuraavat sanamuodot kaikilla mahdollisilla tavoilla:
+Määritä ja käännä seuraavat sanamuodot kaikilla mahdollisilla tavoilla: <!-- TODO: Fallback translation -->
 
 1.  ⟪नयति⟫
 2.  ⟪समस्कुर्वन्⟫
@@ -518,3 +518,4 @@ Määritä ja käännä seuraavat sanamuodot kaikilla mahdollisilla tavoilla:
 - **lekt3606.jpg**: Kuva:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫ Mudrā [Kuv lähde: Payer]
 - **lekt3607.jpg**: Kuva: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Kuv lähde: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Pääsy 29. joulukuuta 2008. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, samankaltainen)]
 :::
+ <!-- TODO: Fallback translation -->

@@ -104,7 +104,7 @@ status: stable
 *   ۱.sg.P ⟪आस⟫
 *   ۱.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
+### ۴۰.۲.۲. نوع دوم کامل: بن قوی در سطح بالا، بن ضعیف در سطح پایین
 
 افعالی که از این نوع پیروی می‌کنند:
 
@@ -128,13 +128,13 @@ status: stable
 
 *   ۱.جمع.پ ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
 :::
-### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe <!-- TODO: Fallback translation -->
+### 40.2.3. نوع سوم گذشته کامل: بن قوی با درجه بالا/درجه کشیده
 
 ۱.شخ. اختیاریاً درجه بالا یا کشیده
 
 #### 40.2.3.1. ماضی نقلی نوع IIIa: ریشه قوی درجه بالا/کشیده، ریشه ضعیف درجه پایین
 
-Verben, die diesem Typ folgen:
+افعالی که از این الگو پیروی می‌کنند:
 
 *   (Konsonant-)(Konsonant-)i/ī/u/ū
 *   (Konsonant-)-ṛ
@@ -179,7 +179,7 @@ Verben, die diesem Typ folgen:
 
 *   ۱.مف.جمع مخاطب ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
+#### 40.2.3.2. نوع سوم کامل: بن قوی در سطح بالا/درجه کشیده، بن ضعیف در سطح بالا
 
 افعالی که از این نوع پیروی می‌کنند:
 
@@ -211,7 +211,7 @@ Verben, die diesem Typ folgen:
 
 *   جمع اول: ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai <!-- TODO: Fallback translation -->
+### 40.2.4. نوع چهارم فعل ماضی کامل: ریشه‌های منتهی به -ā / -ai
 
 *   بن قوی:
     *   بن قوی:
@@ -228,9 +228,9 @@ Verben, die diesem Typ folgen:
 
 *   ۱.sg.Ā ⟪ददे⟫
 
-*   ۱.pl.Ā ⟪ददिमहे⟫
+*   ۱.جمع، آ ⟪ददिमहे⟫
 :::
-### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
+### 40.2.5. نوع پنجم کامل: همزه-آ-همزه
 
 شخص اول مفرد: اختیاریاً سطح بالا یا درجه کشیده
 
@@ -310,7 +310,7 @@ Verben, die diesem Typ folgen:
 
 *   ۱.مفرد.آ ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
+#### 40.2.5.3. نوع پنجم پرکرت: همزه-آ-همزه، بن ضعیف در مرحله بالا
 
 افعالی که از این نوع پیروی می‌کنند:
 
@@ -325,9 +325,9 @@ Verben, die diesem Typ folgen:
 
 *   ۱.sg.Ā ⟪चक्रमे⟫
 
-*   ۱.pl.Ā ⟪चक्रमिमहे⟫
+*   ۱.جمع، Ā ⟪चक्रमिमहे⟫
 :::
-### 40.2.6. Besondere Perfekt-Bildungen <!-- TODO: Fallback translation -->
+### 40.2.6. ساخت‌های خاص گذشته کامل
 
 ⟪विद्⟫ ۲P فعل مضارع کامل:
 
@@ -381,7 +381,7 @@ Verben, die diesem Typ folgen:
 
 *   ۱.جمع.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
 :::
-## 40.4. Syntaktisches zur ersten Person (⟪तृतीयः⟫) <!-- TODO: Fallback translation -->
+## 40.4. نحو مربوط به اول شخص (⟪तृतीयः⟫)
 
 ::: grammar-box
 از آنجا که فعل صرف‌شده (فعل متصرف) فاعل (⟪कर्तृ⟫) را نیز بیان می‌کند، نیازی نیست که «من»، «ما» در جملات فعلی غیرمجهول با فعل صرف‌شده به طور جداگانه توسط یک ضمیر شخصی بیان شود.
@@ -393,7 +393,7 @@ Verben, die diesem Typ folgen:
 :::
 ::: grammar-box
 
-| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
+⟪एकवचनम्⟫ :br"من" | ⟪बहुवचनम्⟫ :br"ما" |
 | :---: | :---: | :---: |
 | ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
 | ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |

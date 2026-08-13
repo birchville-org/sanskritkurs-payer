@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 51
+# Lecziun 51
 
 ## 51.1. Composita cun ⟪upapada⟫
 
@@ -17,7 +17,7 @@ status: stable
 * **-a**
 * **-t**
 
-**formatads. Els èn numna d'agent, id est els designeschan in agent (⟪कर्तृ⟫), che executa l'acziun designada da la radischa suttamessa.**
+**formatads. Els èn numna d'agent, id est els designeschan in agent (⟪कर्तृ⟫), che executa l'acziun designada da la radischa suttamessa.** <!-- TODO: Fallback translation -->
 
 **Tals cumposts vegnan dals commentaturs nativs betg dissolvs per mez da cumbinaziuns nominalas, ma cun furmas verbalas:**
 
@@ -78,13 +78,13 @@ c) ⟪कृत्⟫-suffig -a
 
 \-⟪घ्न⟫ 3 "colpend a mort" p.ex. ⟪कुलघ⟫ 3 "screindend las famiglias"
 
-\-⟪ज⟫ 3 (jña » jā » profund. j + a) "derivà da, naschì en" p.ex. ⟪आत्मज⟫ "figl"
+\-⟪ज⟫ 3 (jña » jā » profund. j + a) "derivà da, naschì en" p.ex. ⟪आत्मज⟫ "figl" <!-- TODO: Fallback translation -->
 
 \-⟪ज्ञ⟫ 3 "savèr" (jñ-a) p.ex. ⟪सर्वज्ञ⟫ 3 "tut-savèr"
 
 \-⟪द⟫ 3 "donà" (d-a) p.ex. ⟪वारिद⟫ m. "nuvla" (⟪वारि⟫ n. "aua")
 
-\-⟪प⟫ 3 "baind" (p-a) p.ex. ⟪द्विप⟫ m. "elefant (dusvies baint)"
+\-⟪प⟫ 3 "baind" (p-a) p.ex. ⟪द्विप⟫ m. "elefant (dusvies baint)" <!-- TODO: Fallback translation -->
 
 \-⟪प⟫ 3 "protectend" (p-a) p.ex. ⟪भूप⟫ "la terra protectend = Re"
 
@@ -172,7 +172,7 @@ Paradigmas cumpletas cun Kielhorn, Grammatica p. 16ss.
 * **-ś » -ṭ u -k**
 * **-ṣ » -ṭ u -k**
 :::
-exempels:
+exempels: <!-- TODO: Fallback translation -->
 
 ⟪सत्यवाच्⟫ 3 "dicend la veritad" (⟪बहुव्रीहि⟫)
 
@@ -226,7 +226,7 @@ Neutrum
 Singular Nom.Akk.Vok. ⟪शेषभुक्⟫
 Plural Nom.Akk.Vok. ⟪शेषभुञ्जि⟫
 :::
-⟪परिव्राज्⟫ m. "Wandermönch"
+⟪परिव्राज्⟫ m. "Wandermönch" <!-- TODO: Fallback translation -->
 
 ::: indent
 Masculin, Feminin:
@@ -252,7 +252,7 @@ Abb.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Sursa da l'imagines: [Detagls](/rm/licenses#lekt5104))
 :::
-### 51.2.3. Stems on -h
+### 51.2.3. Stems on -h <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Avant ina desinenza cumenzanta cun vocala resta il -h senza midada.**
@@ -319,7 +319,7 @@ Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 
 ⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
 :::
-## 51.4. Sandhi von anlautendem ch-
+## 51.4. Sandhi von anlautendem ch- <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Inlautend ch- vegn suttà da curt vocal, suenter ⟪मा⟫ "betg" e suenter ⟪आ⟫ "a" sustituid cun chch-:**
@@ -348,7 +348,7 @@ p.ex. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 Fig.:
 (Fonte da l'imagia: [Detagls](/rm/licenses#lekt5105))
 :::
-⟪अतिथि⟫ m.: ospit
+⟪अतिथि⟫ m.: ospit <!-- TODO: Fallback translation -->
 
 ⟪अभ्यन्तर⟫ 3: en l'intern, il pli proxima; m. il proxim parent, autocton
 
@@ -376,7 +376,7 @@ Abb.: ⟪जटा⟫
 ⟪ऋषिकेश⟫
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt5107))
 :::
-⟪तुल्य⟫ 3: egal, comparabel (⟪तृतीयया⟫)
+⟪तुल्य⟫ 3: egal, comparabel (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
 
 ⟪तरय⟫ 3 (f.: ⟪तरयी⟫): tripartì, cumpost da trais parts
 
@@ -429,7 +429,7 @@ Kolkata = কলকাতা
 :::
 ⟪उपहार⟫ m.: presentaziun, sacrifici, don
 
-⟪मधु⟫ n.: miel, bevanda dolça, vin da mel (vin da mel)
+⟪मधु⟫ n.: miel, bevanda dolça, vin da mel (vin da mel) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5109.webp)
@@ -465,7 +465,7 @@ Fig.: ⟪कौशिकः⟫
 Gufl da Brahma (_Athene brama_), Mahesana = મહેસાણા
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: uccel
+⟪शकुनि⟫ m.: uccel <!-- TODO: Fallback translation -->
 
 ⟪श्वन्⟫ m.: chuan
 
@@ -494,7 +494,7 @@ Fig.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Fonte da figura: [Detalls](/rm/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: crud, crudel
+⟪क्रूर⟫ 3: crud, crudel <!-- TODO: Fallback translation -->
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫: unger, smirgiar
 
@@ -513,7 +513,7 @@ Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte da figura: [Detalls](/rm/licenses#lekt5115))
 :::
-⟪भुजंग⟫ m.: serpe
+⟪भुजंग⟫ m.: serpe <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5116.webp)
@@ -549,14 +549,14 @@ Hope Diamond da Guntur = గుంటూరు, oz Museum Smithsonian d’istorg
 :::
 ⟪वन⟫ n.: guaud
 
-⟪मद⟫ m.: er "saff da la bronscha" d’in elefant (en [Musht](http://en.wikipedia.org/wiki/Musth)))
+⟪मद⟫ m.: er "saff da la bronscha" d’in elefant (en [Musht](http://en.wikipedia.org/wiki/Musth))) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5117.webp)
 Fig.: ⟪मदः⟫
 (Fonta da l'imagia: [Detagls](/rm/licenses#lekt5117))
 :::
-⟪राग⟫ m.: ermaunamain: colur, colur cotschna
+⟪राग⟫ m.: ermaunamain: colur, colur cotschna <!-- TODO: Fallback translation -->
 
 ⟪कालन⟫ n.: guaud
 

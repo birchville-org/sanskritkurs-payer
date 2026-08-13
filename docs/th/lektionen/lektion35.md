@@ -169,21 +169,21 @@ status: stable
 
 ⟪नश्⟫ 4P ⟪नश्यति⟫ : หายไป, พินาศ, ล่องหน
 ::: indent
-**Perfectus Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
-**Futurum ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
-**Kausativum ⟪नाशयति⟫** :br
+**Perfectus Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Futurum ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Kausativum ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : ล่องหน, หายไป, พินาศ
 
 ⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : เดิน, ไป
 ::: indent
-**Perfectus Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
-**Futurum ⟪क्रमिष्यति⟫** :br
-**Passivum ⟪क्रम्यते⟫** :br
-**Kausativum ⟪क्रमयति⟫** :br
-**PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
-**Infinitivum ⟪क्रमितुम्⟫** :br
+**Perfectus Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Futurum ⟪क्रमिष्यति⟫**
+**Passivum ⟪क्रम्यते⟫**
+**Kausativum ⟪क्रमयति⟫**
+**PPP :sig[⟪क्रा⟫]⟪न्त⟫**
+**Infinitivum ⟪क्रमितुम्⟫**
 **Absolutivum ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
@@ -194,11 +194,11 @@ People walking, Senegal.
 :::
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): ร้องเพลง, สวดด้วยทำนองร้องเพลง, ประกาศในถ้อยคำที่มีจังหวะ
 ::: indent
-**Perfectus IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
-**Futurum ⟪गास्यति⟫** :br
-**Passivum ⟪गीयते⟫** :br
-**Kausativum ⟪गापयति⟫** :br
-**PPP ⟪गीत⟫** :br
+**Perfectus IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Futurum ⟪गास्यति⟫**
+**Passivum ⟪गीयते⟫**
+**Kausativum ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Infinitivum ⟪गातुम्⟫**
 
 จากนั้น:

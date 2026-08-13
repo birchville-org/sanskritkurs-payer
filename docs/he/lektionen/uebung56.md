@@ -87,7 +87,7 @@ last_reconstructed: 2026-05-15
 | ⟪७१⟫. | **⟪अद्भिः⟫** | *:sig[⟪अप्⟫]* f.: Instr. Pl. (דרך המים) |
 | ⟪७२⟫. | **⟪अदिध्मपन्⟫** | *:sig[⟪ध्मा⟫]* 1P: 3. Pl. Redupl. Aor. P. Kaus. (הניפו) |
 | ⟪७३⟫. | **⟪अववर्जन्⟫** | *:sig[⟪वृज्⟫]* 7P: 3. Pl. Redupl. Aor. P. Kaus. (התרחקו) |
-| ⟪७४⟫. | **⟪शितवत्यौ⟫** | *:sig[⟪शो⟫]* 4P: Nom. Akk. Vok. f. Du. Part. Perf. P. (-vant) |
+| ⟪७४⟫. | **⟪शितवत्यौ⟫** | *:sig[⟪शो⟫]* 4P: Nom. Akk. Vok. f. Du. Part. Perf. P. (-vant) | <!-- TODO: Fallback translation -->
 
 | ⟪७५⟫. | **⟪अहो⟫** | אַח, אוֹי (ביטוי) |
 | ⟪७६⟫. | **⟪एकशः⟫** | כל אחד, בנפרד (תואר פועל) |

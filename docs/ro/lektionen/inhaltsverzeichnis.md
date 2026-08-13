@@ -162,7 +162,7 @@
 *   14\.3. Mai multe despre utilizarea genitivului (⟪षष्ठी⟫)
 *   14\.4. Listă de cuvinte
 *   14\.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = proverbe
-*   14\.6. Exerciții
+*   14\.6. Exerciții <!-- TODO: Fallback translation -->
 
 ## [Lecție 15](lektion15)
 

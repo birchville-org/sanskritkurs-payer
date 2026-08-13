@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 23
+# Leçon 23
 
 ## 23.1. L'infinitif (⟪tumun⟫)
 
@@ -86,7 +86,7 @@ Parmi les racines apprises jusqu'à présent, les infinitifs suivants méritent 
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
 
 ## 23.3. L'infinitif (⟪तुमुन्⟫) pour les racines apprises jusqu'à présent
 
@@ -266,7 +266,7 @@ Fig. : ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2302))
 :::
-## 23.6. Wiederholungsübung
+## 23.6. Wiederholungsübung <!-- TODO: Fallback translation -->
 
 Veuillez ne pas utiliser d'aides !
 

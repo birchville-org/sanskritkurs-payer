@@ -118,7 +118,7 @@ status: stable
 | | மூன்றாம் பகுதி ஒருமை | மூன்றாம் பகுதி பன்மை |
 | :--- | :--- | :--- |
 | **பரஸ்மைபதம்** | **-t** | athematische Klassen: **-an** oder **-ur** :brOptativ: **-ur** |
-| **ஆத்மனைபதம்** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran** |
+| **ஆத்மனைபதம்** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran** | <!-- TODO: Fallback translation -->
 
 :::
 ## 30.4. வினைமுற்று எதிர்காலம் உருவாக்கம் (⟪लिङ्⟫)
@@ -128,7 +128,7 @@ status: stable
 ::: grammar-box
 **ஒலிவகைகள் கொண்ட முடிச்சுகளுக்கு முன்:**
 
-**Präsensstamm + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen**
+**Präsensstamm + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen** <!-- TODO: Fallback translation -->
 
 **ஒலியியல் தொடக்கமுடைய இறுதிகளில்:**
 
@@ -226,7 +226,8 @@ status: stable
 | **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 

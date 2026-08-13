@@ -3,7 +3,7 @@ title: Lektion 53
 lesson_id: 53
 ---
 
-# Lektion 53
+# Lectio 53
 
 ## 53.1. Dualis (⟪द्विवचन⟫ n.) nominum
 
@@ -342,13 +342,13 @@ Tab.: ⟪पितापुत्रौ⟫
 :::
 ⟪कतर⟫ 3 "qui uterque" et ⟪कतम⟫ 3 "qui plures" in omnibus casibus ut ⟪यद्⟫ declinantur.
 
-## 53.7. Pronominaladjektive
+## 53.7. Pronominaladjektive <!-- TODO: Fallback translation -->
 
 Quae adiectiva pronominalia omnibus casibus declinantur ut ⟪यद्⟫:
 
 *   ⟪अन्य⟫ 3 "alter"
 *   ⟪अन्यतर⟫ 3 "uterque (ex duobus)"
-*   ⟪इतर⟫ 3 "alter"
+*   ⟪इतर⟫ 3 "alter" <!-- TODO: Fallback translation -->
 
 *   ⟪सर्व⟫ 3 "quisque, omnis" omnibus casibus declinatur praeter Nom.Akk.sg.n (⟪सर्वम्⟫) ut ⟪यद्⟫.
 *   ⟪उभय⟫ 3 "uterque" non habet Dualis. In singulari et plurali masculini et neutralis ut ⟪सर्व⟫ declinatur. Femininum: ⟪उभयी⟫ (ut ⟪देवी⟫).
@@ -368,7 +368,7 @@ Quae adiectiva pronominalia ut ⟪सर्व⟫ declinantur. In Abl.Lok.sg.m.n
 **Numerus adiectivorum comparativum vel superlativum hisce ⟪कृत्⟫-suffixis format:**
 
 *   Comparativum: **-īyas**
-*   Superlativus: **-iṣṭha**
+*   Superlativus: **-iṣṭha** <!-- TODO: Fallback translation -->
 
 **Quum suffixa ⟪तद्धित⟫ -⟪तर⟫ et -⟪तम⟫ ad radicem masculinam adiectivi adiungantur, suffixa -⟪ईयस्⟫ et -⟪इष्ठ⟫ ad radicem adiunguntur, ex qua adiectivum derivatur (si talis radix existat!). Vocalis radicalis est accentu alta.**
 
@@ -376,7 +376,7 @@ Quae adiectiva pronominalia ut ⟪सर्व⟫ declinantur. In Abl.Lok.sg.m.n
 
 **Deklination von -īyas siehe unten.**
 :::
-Exempla:
+Exempla: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Radix | Adiectivum | Comparativus | Superlativus |
@@ -456,7 +456,7 @@ Imāgō: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "antīquus") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "antīquus") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declinātiō comparatīvōrum in -īyas
+## 53.9. Declinātiō comparatīvōrum in -īyas <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Comparativa in -īyas formant femininum in -īyasī (declinatio ut ⟪देवी⟫). Masculinum et Neutrum secundum sequens paradigma declinantur.**
@@ -490,9 +490,11 @@ Vide etiam:
 
 Determinatio metri ex sequentibus causis importat:
 
-1.  **Aestheticum:** mensura versuum, inter alia, pulchritudinem enuntiationis efficit. Praeterea, quaedam mensurae versuum, fortasse, ad exprimendas certas animi dispositiones prosunt, aut ordinibus quibusdam (⟪वर्ण⟫) assignantur. Varii versuum modi secundum diversas consuetudines recitantur. :br Bonam imaginem effectus aesthetici praebet, exempli gratia, recitatio ⟪शिवताण्डवस्तोत्र⟫ (laudes saltus Śivae): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Aestheticum:** mensura versuum, inter alia, pulchritudinem enuntiationis efficit. Praeterea, quaedam mensurae versuum, fortasse, ad exprimendas certas animi dispositiones prosunt, aut ordinibus quibusdam (⟪वर्ण⟫) assignantur. Varii versuum modi secundum diversas consuetudines recitantur.
+Bonam imaginem effectus aesthetici praebet, exempli gratia, recitatio ⟪शिवताण्डवस्तोत्र⟫ (laudes saltus Śivae): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Textualiter criticum:** errores in mensura versuum indicium esse possunt, textum loco quodam non recte traditum esse. Mensura versuum auxilium praestat ad textus emendationes faciendas.
-3.  **Chronologicum:** quaedam mensurae versuum per historiam mutationes quasdam subierunt. Quod ad textus approssimam datationem adiuvare potest. Vide **Oldenberg, Hermann (1854–1920):** De Triṣṭhubh historia ; idem: De Śloka historia. -- Utrumque impressum in: :br **Oldenberg, Hermann (1854–1920):** Opera minora / Hermann Oldenberg. Edidit Klaus L. Janert. -- Vindobona : Steiner. -- 3 vol. -- (Fondatio Glasenapp ; ...). -- Vol. 2. -- 1967. -- Pp. 1188 - 1255.
+3.  **Chronologicum:** quaedam mensurae versuum per historiam mutationes quasdam subierunt. Quod ad textus approssimam datationem adiuvare potest. Vide **Oldenberg, Hermann (1854–1920):** De Triṣṭhubh historia ; idem: De Śloka historia. -- Utrumque impressum in:
+**Oldenberg, Hermann (1854–1920):** Opera minora / Hermann Oldenberg. Edidit Klaus L. Janert. -- Vindobona : Steiner. -- 3 vol. -- (Fondatio Glasenapp ; ...). -- Vol. 2. -- 1967. -- Pp. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -532,7 +534,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   item si ante consonantium copiam stat
 *   atque si syllaba in fine quarti versus (Pāda) ponitur."
 ::: grammar-box
-**Syllaba est**
+**Syllaba est** <!-- TODO: Fallback translation -->
 
 *   aut **⟪लघु⟫ = levis**
 *   aut **⟪गुरु⟫ = gravis**
@@ -542,9 +544,9 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   eius vocalis brevis est et huic vocale
 *   kein Anusvāra,
 *   nullus Visargah,
-*   non duae consonantes sequuntur.
+*   non duae consonantes sequuntur. <!-- TODO: Fallback translation -->
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
 
 **Ceterae syllabae sunt ⟪गुरु⟫ = graves. Ultima syllaba dimetris (⟪पाद⟫) semper habetur pro ⟪गुरु⟫.**
 
@@ -637,7 +639,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Fontes**
 
-**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  

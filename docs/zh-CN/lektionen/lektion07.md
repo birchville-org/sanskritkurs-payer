@@ -5,7 +5,7 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # 第七课
 
@@ -297,5 +297,5 @@ status: stable
 :::
 9. Was kaut dieser heilige Mann?
 10. Was pressen diese (hier) aus?
-11. Er ist der Lehrer. Auf ihn hört man (= hören sie).
+11. Er ist der Lehrer. Auf ihn hört man (= hören sie). <!-- TODO: Fallback translation -->
 

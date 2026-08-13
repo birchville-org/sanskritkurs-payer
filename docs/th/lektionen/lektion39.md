@@ -34,7 +34,7 @@ status: stable
 **กฎ:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. กลุ่มปัจจุบันที่หนึ่ง (⟪भ्वादि⟫)
+### 39.2.1. กลุ่มปัจจุบันที่หนึ่ง (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P
 
@@ -110,7 +110,7 @@ status: stable
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫-การสร้าง
+### 39.3.1. ⟪अनिट्⟫-การสร้าง <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U
 
@@ -146,7 +146,7 @@ status: stable
 
 z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P ⟪व⟫*⟪च्मि⟫***
 :::
-### 39.4.1. Present class ที่สอง (⟪अदादि⟫)
+### 39.4.1. Present class ที่สอง (⟪अदादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪द्विष्⟫ 2U
 
@@ -177,7 +177,7 @@ z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P ⟪व⟫*⟪च्मि⟫***
 Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 (แหล่งที่มาของภาพ: [Details](/th/licenses#lekt3901))
 :::
-### 39.4.2. Present class ที่สาม (⟪जुहोत्यादि⟫)
+### 39.4.2. Present class ที่สาม (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪हु⟫ 3P
 

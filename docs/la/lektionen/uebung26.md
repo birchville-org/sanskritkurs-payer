@@ -130,7 +130,7 @@ B) cum vocali iunctiva **-i-**:
 
 ⟪२३⟫. ⟪कुप्यन्ति⟫ — ⟪कोपिष्यन्ति⟫
 
-C) Futurum optionale cum et sine **-i-**:
+C) Futurum optionale cum et sine **-i-**: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪मुह्यन्ति⟫ — ⟪मोहितुम्⟫ / ⟪मोक्ष्यन्ति⟫
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 51
+# ⲙⲁⲑⲏⲙⲁ 51
 
 ## 51.1. ⟪उपपद⟫-ⲕⲟⲙⲡⲟⲥⲓⲧⲁ
 

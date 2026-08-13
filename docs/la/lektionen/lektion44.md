@@ -5,9 +5,9 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 44
+# Lectio 44
 
 ## 44.1. Formatio formarum verbalium secundae personae (⟪मध्यमः⟫) stemmatum athematicorum cum suffixo vocaliter terminato
 
@@ -65,11 +65,11 @@ status: stable
 
 In praesentium radicalibus consonantem terminantibus, leges iam tractatae sandhi verbi observandae sunt.
 
-Praeterea sequentes leges sandhi verbi adhibentur.
+Praeterea sequentes leges sandhi verbi adhibentur. <!-- TODO: Fallback translation -->
 
-(Completa collatio omnium hic pertinentium mutationum phoneticarum apud Kielhorn, Grammatica p. 76s.)
+(Completa collatio omnium hic pertinentium mutationum phoneticarum apud Kielhorn, Grammatica p. 76s.) <!-- TODO: Fallback translation -->
 
-### 44.2.1. Zum Wortsandhi für dh-
+### 44.2.1. Zum Wortsandhi für dh- <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1. **Aspirata ante aspiratam a correspondente non spirato substituitur:**
@@ -208,7 +208,7 @@ Abb.: De recta usu "O" in lingua Germanica: **"O vir!"**
 
 **Formae vocativi singularis in [Lektion 45](lektion45.md) sequuntur.**
 :::
-## 44.5. Lexicon
+## 44.5. Lexicon <!-- TODO: Fallback translation -->
 
 ⟪प्रति⟫ Praefixum: retro, contra, adversus - huc
 
@@ -302,7 +302,7 @@ PPP ⟪आयत⟫ 3: longius extentus
 Abb.: ⟪आयतो⟫ ⟪मरुः⟫
 (Fons imaginis: [Details](/la/licenses#lekt4406))
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : praebere, offerre, tradere
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : praebere, offerre, tradere <!-- TODO: Fallback translation -->
 
 ⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : colligare, alligare, frenare
 
@@ -412,7 +412,7 @@ A) Determina et versa formas sequentes:
 Fig.: ⟪कस्माद्रोदिषि⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4409))
 :::
-B) Vertite:
+B) Vertite: <!-- TODO: Fallback translation -->
 
 ⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
 
@@ -431,7 +431,7 @@ B) Vertite:
 ⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
 ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
 
-## 44.7. Wiederholungsübung zur Formenlehre
+## 44.7. Wiederholungsübung zur Formenlehre <!-- TODO: Fallback translation -->
 
 Determina sequentes formas:
 

@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # درس ۲1
 
@@ -25,14 +25,14 @@ status: stable
 :::
 ::: grammar-box
 
-| **Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:** |||
+| **ساخت صفت فاعلی مضارع پاراسمای‌پادا برای بن‌های مضارع تماتیک (با مصوت):** |||
 | :--- | :--- | :--- |
-| **Maskulinum, Neutrum** | | |
-| | **starker Stamm** | Präsensstamm + **-nt-** |
-| | **schwacher Stamm** | Präsensstamm + **-t-** |
-| **Femininum** | | |
-| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** |
+| **مذکر، خنثی** | | |
+| | **بن قوی** | بن مضارع + **-nt-** |
+| | **بن ضعیف** | بن مضارع + **-t-** |
+| **مؤنث** | | |
+| | | بن مضارع + **-nt-** + **-ī** (صرف مانند **devī** :br⟪देवी⟫) |
+| | **طبقه ششم مضارع** | بن مضارع + **-nt-** + **-ī** :brیا::brبن مضارع + **-t-** + **-ī** |
 
 :::
 مثال‌ها:
@@ -78,13 +78,13 @@ status: stable
 :::
 ::: grammar-box
 
-| **Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):** |||
+| **ساخت صفت فاعلی مضارع پاراسمای‌پادا برای بن‌های مضارع آتماتیک (به استثنای طبقه سوم مضارع):** |||
 | :--- | :--- | :--- |
-| **Maskulinum, Neutrum** | | |
-| | **starker Stamm** | Präsensstamm + **-ant-** |
-| | **schwacher Stamm** | Präsensstamm + **-at-** :br(Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.) |
-| **Femininum** | | |
-| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| **مذکر، خنثی** | | |
+| | **بن قوی** | بن مضارع + **-ant-** |
+| | **بن ضعیف** | بن مضارع + **-at-** :br(پایان بن مضارع ضعیف همانند پیش از سوم شخص جمع پاراسمای‌پادا است) |
+| **مؤنث** | | |
+| | | بن مضارع + **-at-** + **-ī** (صرف مانند **devī** :br⟪देवी⟫) |
 
 :::
 کلاس فعل حال:
@@ -133,7 +133,7 @@ status: stable
 *   اسم خنثی مفرد نونگ آکوزاتیو **⟪कुर्वत्⟫**
 *   اسم مؤنث مفرد نونگ **⟪कुर्वती⟫**
 :::
-### 21.1.2. ⟪महान्त्⟫ "gross" <!-- TODO: Fallback translation -->
+### 21.1.2. ⟪महान्त्⟫ «بزرگ»
 
 ::: no-header
 
@@ -143,7 +143,7 @@ status: stable
 | | **starker Stamm** | ⟪महान्त्⟫ |
 | | **schwacher Stamm** | ⟪महत्⟫ |
 | **Femininum** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -180,7 +180,7 @@ status: stable
 ::: indent
 "مهر سنگ عقیق سرخ‌سفید (ساردونیوس) متعلق به قرن ۴ تا ۶ میلادی که ویشنو را همراه با یک عابد نشان می‌دهد. نوشته به خط نستعلیق باختری چنین است: 'میهیرا، ویشنو و شیوا'."
 :::
-## 21.2. Sandhi für auslautende Nasale <!-- TODO: Fallback translation -->
+## 21.2. ساندھیِ همخوان‌های دماغی (خیاشیمی) پایانی
 
 ::: grammar-box
 **پس از مصوت کوتاه، صامت‌های پایانی – به جز -m – پیش از مصوت آغازین دوگانه می‌شوند.**

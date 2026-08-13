@@ -43,7 +43,7 @@ Totuși, esența nu este personalitatea mântuitorului, ci doctrina eliberării,
 După ce a vândut mărfurile de vândut, Vaiśya fără fii a dat venitul monahilor și a primit meritul donației. Monahii au proclamat: „Această faptă este laudabilă.” Înțelepții, totuși, se îndoiesc dacă Vaiśya care acționează astfel a făcut cu adevărat ceva meritoriu.
 
 ⟪५⟫. **⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Învățătorii trebuie să-i învețe pe elevi; elevii trebuie să studieze cursul.
+Învățătorii trebuie să-i învețe pe elevi; elevii trebuie să studieze cursul. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung067.jpg)

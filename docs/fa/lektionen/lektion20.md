@@ -201,7 +201,7 @@ status: stable
 مادایا پرادش
 (منبع تصویر: [جزئیات](/licenses#lekt2006))
 :::
-## 20.6. Flexion des Schlussglieds eines Bahuvrīhi <!-- TODO: Fallback translation -->
+## 20.6. صرف بخش پایانی یک باهوو‌ریه
 
 ::: grammar-box
 
@@ -238,7 +238,7 @@ status: stable
 چنای = சென்னை
 (منبع تصویر: [جزئیات](/licenses#lekt2007))
 :::
-## 20.8. Verhältnis von Bahuvrīhi und Relativsatz <!-- TODO: Fallback translation -->
+## ۲۰.۸. رابطهٔ باهووریها و جملهٔ موصولی
 
 اگرچه هر باهوووری‌هی توسط یک جمله موصولی حل می‌شود، اما نمی‌توان هر جمله موصولی را با یک باهوووری‌هی جایگزین کرد. هرتمان جورج یاکوبی (۱۸۵۰ - ۱۹۳۷)، که رابطه این دو را به طور نزدیک‌تر بررسی کرده است (Compositum und Nebensatz, 1897)، می‌نویسد:
 

@@ -5,11 +5,11 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 21
 
-## 21.1. Alte teme de prezent în -nt
+## 21.1. Alte teme de prezent în -nt <!-- TODO: Fallback translation -->
 
 ### 21.1.1. Participul prezent (⟪लडादेशः⟫) Parasmaipada
 
@@ -40,7 +40,8 @@ Exemple:
 1\. clasa de prezent:
 
 ::: indent
-**yajant**:br⟪यजन्त्⟫ „unul care onorează cu un jertfă”
+**yajant**
+⟪यजन्त्⟫ „unul care onorează cu un jertfă”
 :::
 ::: grammar-box
 
@@ -257,7 +258,7 @@ Fig.: ⟪भगवान्कृष्णः⟫
 Fig.: ⟪भगवद्गीता⟫
 ⟪भगवद्गीता⟫ - manuscris, sec. al XIX-lea.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2105))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (într-adevăr un desiderativ pentru ⟪भज्⟫: a dori să participe): a cere milostenie

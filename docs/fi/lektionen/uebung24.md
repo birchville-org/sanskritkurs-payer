@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 24
 
-A) Muodosta datiivin yksikkö ja datiivi (tai ablatiivi) monikko sekä anna substantiivijalan merkitys:
+A) Muodosta datiivin yksikkö ja datiivi (tai ablatiivi) monikko sekä anna substantiivijalan merkitys: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Sana | Merkitys | Datiivi sg. | Datiivi pl. |
@@ -53,7 +53,7 @@ Brahmana astuu sisäiseen pyhikköön nähdäkseen jumalankuvan.
 
 ⟪२⟫. **⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫**
 (⟪धनस्य⟫ ⟪लाभाय⟫)
-Ihmiset vannovat lupauksia tullakseen rikkaiksi.
+Ihmiset vannovat lupauksia tullakseen rikkaiksi. <!-- TODO: Fallback translation -->
 
 ⟪३⟫. **⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫**
 (⟪धर्मस्योपदेशाय⟫)
@@ -61,14 +61,14 @@ Mestari on mennyt kaupunkiin opettaakseen dharmaa.
 
 ⟪४⟫. **⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫**
 (⟪गुरोर्वचनस्य⟫ ⟪श्रुत्यै⟫)
-Myös lapset ovat menneet kaupunkiin kuullakseen mestarin puheen.
+Myös lapset ovat menneet kaupunkiin kuullakseen mestarin puheen. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. **⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫**
 (⟪देवस्य⟫ ⟪प्रतिमायै⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
 Sisäinen pyhikkö on rakennus jumalankuvaa varten.
 
 ⟪६⟫. **⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫**
-Ihmiset haluavat taivaan vuoksi tehdä ansaitsevia tekoja.
+Ihmiset haluavat taivaan vuoksi tehdä ansaitsevia tekoja. <!-- TODO: Fallback translation -->
 
 ⟪७⟫. **⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫**
 (⟪मोक्षस्यार्थम्⟫ ⟪।⟫ ⟪बुद्धं⟫ ⟪गताः⟫ ⟪।⟫ ⟪बुद्धेराप्तिम्⟫)
@@ -87,9 +87,9 @@ Kuollessaan olennot syntyvät.
 Kuv.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung037))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Syntaktiset variaatiot
+## Syntaktiset variaatiot <!-- TODO: Fallback translation -->
 
 C) Korvaa lauseissa B) 1–4 datiivit infinitiiveillä (⟪तुमुन्⟩):
 
@@ -109,16 +109,16 @@ E) Korvaa lauseessa B) 6 datiivi rakenteella **-⟪अर्थ⟫**:
 
 ---
 
-## Lisäkäännösharjoituksia
+## Lisäkäännösharjoituksia <!-- TODO: Fallback translation -->
 
 1\. Jumalatar, jolle ei ole uhrattu, vihastuu ihmisiin.
 **⟪अनिष्टदेवी⟫ ⟪नरेभ्यः⟫ ⟪क्रुध्यति⟫ ⟪।⟫ (tai: ⟪कुप्यति⟫ ⟪॥⟫)**
 
 2\. Hän päästää lehmän kylään.
-**⟪ग्रामाय⟫ ⟪धेनुं⟫ ⟪मुञ्चति⟫ ⟪॥⟫**
+**⟪ग्रामाय⟫ ⟪धेनुं⟫ ⟪मुञ्चति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 3\. Nyt riittää! (Riittävästi kärsimystä!)
-**⟪अलं⟫ ⟪क्षमया⟫ ⟪॥⟫**
+**⟪अलं⟫ ⟪क्षमया⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 4\. Se on hyvä brahmanille.
 **⟪एतद्ब्राह्मणाय⟫ ⟪सुखम्⟫ ⟪।⟫ (tai: ⟪हितम्⟫ ⟪॥⟫)**
@@ -130,16 +130,16 @@ E) Korvaa lauseessa B) 6 datiivi rakenteella **-⟪अर्थ⟫**:
 **⟪स्वस्ति⟫ ⟪भवते⟫ ⟪।⟫ (tai: ⟪भवद्भ्यः⟫ / ⟪भवत्यै⟫ / ⟪भवतीभ्यः⟫ ⟪॥⟫)**
 
 7\. Tämä hedelmä riittää syötäväksi.
-**⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫ ⟪॥⟫**
+**⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 8\. Taistelija on (toiselle) taistelijalle tasavertainen.
 **⟪शक्तो⟫ ⟪योधो⟫ ⟪योधाय⟫ ⟪॥⟫**
 
 9\. Vaikka Viṣṇu ei ylitäkään Śivaa.
-**⟪विष्णुरपि⟫ ⟪शिवाय⟫ ⟪न⟫ ⟪प्रभवति⟫ ⟪॥⟫**
+**⟪विष्णुरपि⟫ ⟪शिवाय⟫ ⟪न⟫ ⟪प्रभवति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 10\. Kun olen kumartanut kolmen viisaan edessä... Hän kumartaa Narasiṃhan edessä.
-**⟪मुनित्रयं⟫ ⟪नमस्कृत्य⟫... ⟪।⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫ ⟪॥⟫**
+**⟪मुनित्रयं⟫ ⟪नमस्कृत्य⟫... ⟪।⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 11\. Tervetuloa teille! Tervetuloa kuningattarelle!
 **⟪स्वागतं⟫ ⟪भवद्भ्यः⟫ ⟪।⟫ ⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
@@ -151,7 +151,7 @@ E) Korvaa lauseessa B) 6 datiivi rakenteella **-⟪अर्थ⟫**:
 **⟪न⟫ ⟪तं⟫ ⟪तृणाय⟫ ⟪मन्यते⟫ ⟪॥⟫**
 
 14\. Riittää hedelmä syötäväksi ja vesi juotavaksi.
-**⟪अलं⟫ ⟪फलं⟫ ⟪खादनाय⟫ ⟪पानाय⟫ ⟪जलम्⟫ ⟪॥⟫**
+**⟪अलं⟫ ⟪फलं⟫ ⟪खादनाय⟫ ⟪पानाय⟫ ⟪जलम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 15\. Näkemiin! (Uusisanskrit)
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
@@ -160,4 +160,4 @@ E) Korvaa lauseessa B) 6 datiivi rakenteella **-⟪अर्थ⟫**:
 ![](/images/uebung038.webp)
 Kuv.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung038))
-:::
+::: <!-- TODO: Fallback translation -->

@@ -9,7 +9,7 @@ status: stable
 
 # Luento 39
 
-## 39.1. Yksikön ensimmäisen persoonan pääte (:sig[तृतीयः] ⟪पुरुषः⟫ = "**kolmas** persoona")
+## 39.1. Yksikön ensimmäisen persoonan pääte (:sig[तृतीयः] ⟪पुरुषः⟫ = "**kolmas** persoona") <!-- TODO: Fallback translation -->
 
 Ensimmäisen persoonan päätteen (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**kolmas** persoona") ovat:
 
@@ -23,18 +23,18 @@ Ensimmäisen persoonan päätteen (:sig[⟪तृतीयः⟫] ⟪पुर�
 | **Toissijaiset taivutusloppujen temattiset vartalon** | **-m** | **-ma** | **-i** | **-mahi** |
 | **Toissijaiset taivutusloppujen atemattisen vartalon** | **-am** | ^^ | ^^ | ^^ |
 | **Optatiivi-loppu** | ^^ | ^^ | **-a** | ^^ |
-| **Perfekti-loppu** | **-a** | ^^ | **-e** | **-mahe** |
+| **Perfekti-loppu** | **-a** | ^^ | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
 
 :::
-¹ Huomautus: itse asiassa temattisten vartalojen päätyypillinen taivutusloppu Ā on myös asetettava -e:ksi, ennen sitä temattivokaali -a- analyyttisistä syistä puuttuu. Vaikutus on kuitenkin sellainen, kuin taivutusloppu -i tulisi temattivokaalin -a- jälkeen: a + i » e.
+¹ Huomautus: itse asiassa temattisten vartalojen päätyypillinen taivutusloppu Ā on myös asetettava -e:ksi, ennen sitä temattivokaali -a- analyyttisistä syistä puuttuu. Vaikutus on kuitenkin sellainen, kuin taivutusloppu -i tulisi temattivokaalin -a- jälkeen: a + i » e. <!-- TODO: Fallback translation -->
 
-## 39.2. Ensimmäisen persoonan temattisten preesensivartalojen verbimuotojen muodostaminen
+## 39.2. Ensimmäisen persoonan temattisten preesensivartalojen verbimuotojen muodostaminen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Sääntö:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. Ensimmäinen preesensluokka (⟪भ्वादि⟫)
+### 39.2.1. Ensimmäinen preesensluokka (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P
 
@@ -45,7 +45,7 @@ Ensimmäisen persoonan päätteen (:sig[⟪तृतीयः⟫] ⟪पुर�
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indikatiivi Preesens - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
 | **Imperfekti - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
-| **Optatiivi - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
+| **Optatiivi - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi | <!-- TODO: Fallback translation -->
 
 :::
 ### 39.2.2. Kuudes preesensluokka (⟪तुदादि⟫)
@@ -106,11 +106,11 @@ Ensimmäisen persoonan päätteen (:sig[⟪तृतीयः⟫] ⟪पुर�
 ## 39.3. Yksinkertaisen tulevaisuuden aikamuodon ensimmäisen persoonan muodostaminen - ⟪ऌत्⟫
 
 ::: grammar-box
-**Tulevaisuuden aikamuodossa käytetään temattista muodostusta. Siksi myös temattisten vartalojen sääntö pätee:**
+**Tulevaisuuden aikamuodossa käytetään temattista muodostusta. Siksi myös temattisten vartalojen sääntö pätee:** <!-- TODO: Fallback translation -->
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫-muodostus
+### 39.3.1. ⟪अनिट्⟫-muodostus <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U
 
@@ -134,7 +134,7 @@ Ensimmäisen persoonan päätteen (:sig[⟪तृतीयः⟫] ⟪पुर�
 | **Futuuri  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
 
 :::
-## 39.4. Athemaattisten preesensvarttien ensimmäisen persoonan muodostaminen
+## 39.4. Athemaattisten preesensvarttien ensimmäisen persoonan muodostaminen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Huomaa, että sanan sisällä — toisin kuin lausesandhissa — vartalon jälkeen olevat konsonantit pysyvät yleensä muuttumattomina, jos pääte alkaa**
@@ -142,7 +142,7 @@ Ensimmäisen persoonan päätteen (:sig[⟪तृतीयः⟫] ⟪पुर�
 * **puolivokaalilla**
 * **nasaalilla**
 
-**alkaa, konsonantit pysyvät yleensä muuttumattomina.**
+**alkaa, konsonantit pysyvät yleensä muuttumattomina.** <!-- TODO: Fallback translation -->
 
 esim. ⟪वच्⟫ 1.pers.sg.ind.pres ⟪व⟫*⟪च्मि⟫***
 :::
@@ -177,7 +177,7 @@ esim. ⟪वच्⟫ 1.pers.sg.ind.pres ⟪व⟫*⟪च्मि⟫***
 Kuva: ⟪सो⟫ ⟪ऽस्मि⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3901))
 :::
-### 39.4.2. Kolmas preesensluokka (⟪जुहोत्यादि⟫)
+### 39.4.2. Kolmas preesensluokka (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪हु⟫ 3P
 
@@ -276,7 +276,7 @@ Kuva: ⟪सो⟫ ⟪ऽस्मि⟫
 :::
 ## 39.5. Harjoitus
 
-Muodosta seuraaville verbimuodoille ensimmäisen persoonan muodot, jotka vastaavat näitä muotoja luvussa, ajassa, moodissa (indikatiivi, optatiivi) ja aktiivisuustavassa (P, Ā, passiivi).
+Muodosta seuraaville verbimuodoille ensimmäisen persoonan muodot, jotka vastaavat näitä muotoja luvussa, ajassa, moodissa (indikatiivi, optatiivi) ja aktiivisuustavassa (P, Ā, passiivi). <!-- TODO: Fallback translation -->
 
 Esimerkki: ⟪गच्छन्ति⟫ » ⟪गच्छामस्⟫
 

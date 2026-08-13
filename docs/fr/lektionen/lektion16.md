@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 16
+# Leçon 16
 
 ## 16.1. Sur le sandhi des consonnes finales
 
@@ -172,7 +172,7 @@ B) Résolvez les composés suivants en sanskrit, formez des phrases avec des nom
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 
-## 16.4. Wiederholungsübung
+## 16.4. Wiederholungsübung <!-- TODO: Fallback translation -->
 
 A) Formez tous les cas appris jusqu'à présent pour les mots suivants, comme exemples des classes de déclinaison apprises jusqu'à présent.
 

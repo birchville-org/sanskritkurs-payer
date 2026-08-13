@@ -112,7 +112,7 @@ Cum te salvezi (depășești râul) în fața inamicului?
 Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung071))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Conversație (⟪संवादः⟫)
 

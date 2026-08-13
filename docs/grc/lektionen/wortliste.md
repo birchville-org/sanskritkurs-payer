@@ -443,7 +443,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ἐκ τοῦ ἀπ�
 Ἀπικ.: ⟪वरुणः⟫
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : ψεῦδος, ἀλήθεια (ἀντίθεσις τοῦ **satya**)
+- **anṛta** n. ⟪अनृत⟫ : ψεῦδος, ἀλήθεια (ἀντίθεσις τοῦ **satya**) <!-- TODO: Fallback translation -->
 
 
 ::: note-box
@@ -900,7 +900,7 @@ Abb.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : καθίζω
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : καθίζω <!-- TODO: Fallback translation -->
 
 ἐξ οὗ:
 
@@ -928,7 +928,7 @@ Abb.: ⟪योगासनम्⟫
 Abb.: ⟪दोग्धि⟫
 (Bildquelle: [Details](/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : δείκνυμι, ἐπιτάσσω, κελεύω
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : δείκνυμι, ἐπιτάσσω, κελεύω <!-- TODO: Fallback translation -->
 
 ἐξ οὗ:
 
@@ -1137,23 +1137,23 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 ⟪विप्र⟫ m.: "ὁ τρέμων" = ποιητής, ἀοιδ
 
-⟪विषय⟫ m.: Gebiet, Bereich, Objekt, Sinnesobjekt
+⟪विषय⟫ m.: Gebiet, Bereich, Objekt, Sinnesobjekt <!-- TODO: Fallback translation -->
 
 ⟪अपवर्ग⟫ m.: Ende, Erlösung
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts <!-- TODO: Fallback translation -->
 
 ⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : umkehren, zurückkehren
 
-⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sitzen, sich niederlassen
+⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sitzen, sich niederlassen <!-- TODO: Fallback translation -->
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv ⟪षष्ठी⟫) gnädig sein
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv ⟪षष्ठी⟫) gnädig sein <!-- TODO: Fallback translation -->
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit, meditative "Versenkung"
+⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit, meditative "Versenkung" <!-- TODO: Fallback translation -->
 
-⟪स्वाध्याय⟫ m.: "Selbststudium", Rezitation (besonders des Veda), Vedastudium
+⟪स्वाध्याय⟫ m.: "Selbststudium", Rezitation (besonders des Veda), Vedastudium <!-- TODO: Fallback translation -->
 
-⟪परलौकिक⟫ ⟪३⟫ : das Jenseits betreffend, jenseitig
+⟪परलौकिक⟫ ⟪३⟫ : das Jenseits betreffend, jenseitig <!-- TODO: Fallback translation -->
 
 ⟪तनु⟫ ⟪३⟫ : schlank
 
@@ -1173,11 +1173,11 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 ⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : beugen
 
-⟪उद्⟫ Präverb: auf, hinauf, hinaus, aus, aus-
+⟪उद्⟫ Präverb: auf, hinauf, hinaus, aus, aus- <!-- TODO: Fallback translation -->
 
 ⟪नाभि⟫ f.: Nabel
 
-⟪वपुस्⟫ n.: Schönheit, Gestalt Körper (Deklination siehe später)
+⟪वपुस्⟫ n.: Schönheit, Gestalt Körper (Deklination siehe später) <!-- TODO: Fallback translation -->
 
 ⟪स्त्री⟫ f.: Frau
 
@@ -1187,15 +1187,15 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 ⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : gedeihen
 
-⟪ऋध्⟫ + ⟪सम्⟫ : gedeihen; PPP: gelungen, reich
+⟪ऋध्⟫ + ⟪सम्⟫ : gedeihen; PPP: gelungen, reich <!-- TODO: Fallback translation -->
 
-⟪विचित्र⟫ ⟪३⟫ : bunt, verschiedenartig, schön, wunderbar, seltsam
+⟪विचित्र⟫ ⟪३⟫ : bunt, verschiedenartig, schön, wunderbar, seltsam <!-- TODO: Fallback translation -->
 
-⟪विधि⟫ m.(!): Anordnung, Gesetz, Vorschrift; Schöpfung, Schicksal
+⟪विधि⟫ m.(!): Anordnung, Gesetz, Vorschrift; Schöpfung, Schicksal <!-- TODO: Fallback translation -->
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : sich regen
 
-## Lektion 21
+## Μάθημα 21
 
 
 
@@ -1203,7 +1203,7 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
+**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren <!-- TODO: Fallback translation -->
 
 davon:
 
@@ -1211,7 +1211,7 @@ davon:
 **⟪भक्ति⟫ f.:** Ergebenheit, Treue, Liebe (im religiösen Bereich: Liebe und Respekt zu einem persönlichen Gott. siehe dazu Basham, Wonder S. 332f.)  
 **⟪भाग⟫ m.:** Anteil, Teil  
 **⟪भग⟫ m.:** (guter) Anteil, Glück, Wohlergehen, Würde  
-**⟪भगवन्त्⟫ 3:** Glück-besitzend, Würde-besitzend (Beiname von ⟪विष्णु⟫ – ⟪कृष्ण⟫)
+**⟪भगवन्त्⟫ 3:** Glück-besitzend, Würde-besitzend (Beiname von ⟪विष्णु⟫ – ⟪कृष्ण⟫) <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -1659,7 +1659,10 @@ PPP ⟪वृद्ध⟫ : ἐκτεθραμμένος, ἡλικιωμένος
 ⟪वस्⟫ 1P (⟪वसति⟫): μένω, οἰκῶ (μετοικιστικὴ τῆς προσώπου, παρ’ ᾧ οἰκεῖ)
 
 ::: indent
-**Μέλλ.:** ⟪वत्स्यति⟫:br **Παθ.**: ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Ἀρ.**: ⟪वस्तुम्⟫
+**Μέλλ.:** ⟪वत्स्यति⟫
+**Παθ.**: ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Ἀρ.**: ⟪वस्तुम्⟫
 :::
 ἐξ οὗ:
 
@@ -1673,7 +1676,9 @@ PPP ⟪वृद्ध⟫ : ἐκτεθραμμένος, ἡλικιωμένος
 ⟪वस्⟫ 2Ā (⟪वस्ते⟫): ἐνδύω (ἱμάτια), φέρω (ἵματιον)
 
 ::: indent
-**Μέλλ.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Ἀρ.**: ⟪वसितुम्⟫
+**Μέλλ.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Ἀρ.**: ⟪वसितुम्⟫
 :::
 ἐξ οὗ:
 
@@ -1702,7 +1707,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 ⟪हृ⟫ 1U (⟪हरति⟫): ἔχω, φέρω· λαμβάνω, ἀφαιρέσω, κλέπτω
 
 ::: indent
-**Μέλλ.:** ⟪हरिष्यति⟫:br **Παθ.**: ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Ἀρ.**: ⟪हर्तुम्⟫
+**Μέλλ.:** ⟪हरिष्यति⟫
+**Παθ.**: ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Ἀρ.**: ⟪हर्तुम्⟫
 
 :::
 ἐκ τούτου:
@@ -2135,7 +2143,7 @@ Fig.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : γίγνεσθαι, εἶναι
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : γίγνεσθαι, εἶναι <!-- TODO: Fallback translation -->
 
 **⟪शरीर⟫ n.:** σῶμα, σώμα
 
@@ -2155,12 +2163,12 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟩:br
-⟪श्रम्यते⟩:br
-⟪श्रमयति⟩:br
-⟪श्रान्त⟩:br
-⟪श्रमित्वा⟩ ⟪।⟩ ⟪श्रान्त्वा⟩:br
--⟪श्रम्य⟩:br
+⟪श्रमिष्यते⟩
+⟪श्रम्यते⟩
+⟪श्रमयति⟩
+⟪श्रान्त⟩
+⟪श्रमित्वा⟩ ⟪।⟩ ⟪श्रान्त्वा⟩
+-⟪श्रम्य⟩
 ⟪श्रमितुम्⟩
 :::
 ⟪पार्श्व⟩
@@ -2183,20 +2191,20 @@ Fig.: ⟪चूतः⟩
 
 **⟪रुह्⟩ ⟪रोहति⟩**
 ::: indent
-⟪रोक्ष्यति⟩:br
-⟪रुह्यते⟩:br
-⟪रोहयति⟩ ⟪।⟩ ⟪रोपयति⟩:br
-⟪रूढ⟩:br
--⟪रुह्य⟩:br
+⟪रोक्ष्यति⟩
+⟪रुह्यते⟩
+⟪रोहयति⟩ ⟪।⟩ ⟪रोपयति⟩
+⟪रूढ⟩
+-⟪रुह्य⟩
 ⟪रोढुम्⟩
 :::
 **⟪ग्रह्⟩ ⟪गृह्णाति⟩**
 ::: indent
-⟪ग्रहीष्यति⟩ (!):br
-⟪गृह्यते⟩:br
-⟪ग्राहयति⟩:br
-⟪गृहीत⟩:br
--⟪गृह्य⟩:br
+⟪ग्रहीष्यति⟩ (!)
+⟪गृह्यते⟩
+⟪ग्राहयति⟩
+⟪गृहीत⟩
+-⟪गृह्य⟩
 ⟪ग्रहीतुम्⟩ (!)
 :::
 **⟪वानर⟩ ⟪कपि⟩**
@@ -2209,10 +2217,10 @@ Fig.: ⟪वानराः⟩
 :::
 **⟪लोक्⟩ ⟪लोकयति⟩**
 ::: indent
-⟪लोकयिष्यति⟩:br
-⟪लोक्यते⟩:br
-⟪लोकित⟩:br
--⟪लोक्य⟩:br
+⟪लोकयिष्यति⟩
+⟪लोक्यते⟩
+⟪लोकित⟩
+-⟪लोक्य⟩
 ⟪लोकितुम्⟩
 :::
 ⟪प्रहर्ष⟩
@@ -2237,20 +2245,20 @@ Fig.: ⟪लक्ष्यम्⟩
 :::
 **⟪क्षिप्⟩ ⟪क्षिपति⟩**
 ::: indent
-⟪क्षेप्स्यति⟩:br
-⟪क्षिप्यते⟩:br
-⟪क्षेपयति⟩:br
-⟪क्षिप्त⟩:br
--⟪क्षिप्य⟩:br
+⟪क्षेप्स्यति⟩
+⟪क्षिप्यते⟩
+⟪क्षेपयति⟩
+⟪क्षिप्त⟩
+-⟪क्षिप्य⟩
 ⟪क्षेप्तुम्⟩
 :::
 **⟪चि⟩ ⟪चिनोति⟩**
 ::: indent
-⟪चेष्यति⟩:br
-⟪चीयते⟩:br
-⟪चाययति⟩:br
-⟪चित⟩:br
--⟪चित्य⟩:br
+⟪चेष्यति⟩
+⟪चीयते⟩
+⟪चाययति⟩
+⟪चित⟩
+-⟪चित्य⟩
 ⟪चेतुम्⟩
 :::
 ::: media
@@ -2453,7 +2461,7 @@ Abb.: ⟪सस्यम्⟫
 Rice field in India.
 (Bildquelle: [Details](/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** ὅσος, πόσον
+**⟪यावत्⟫ :** ὅσος, πόσον <!-- TODO: Fallback translation -->
 
 **⟪तावत्⟫ :** ὅσον, τοσοῦτον
 
@@ -2467,7 +2475,7 @@ Abb.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
 (Bildquelle: [Details](/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** θνητός (zu ⟪मृ⟫)
+**⟪मर्त्य⟫ 3:** θνητός (zu ⟪मृ⟫) <!-- TODO: Fallback translation -->
 
 **⟪तिल⟫ m.:** σάμμον, σησαμόσπερμον (*Sesamum indicum* L.)
 
@@ -2491,7 +2499,7 @@ Abb.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
 (Bildquelle: [Details](/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** οἰκία, ναός
+**⟪निकेतन⟫ n.:** οἰκία, ναός <!-- TODO: Fallback translation -->
 
 **⟪कोटि⟫ f.:** ἀκρογωνιαῖος, μυριάς
 
@@ -2507,7 +2515,7 @@ Abb.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Bildquelle: [Details](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** ἀπέχω, κρατέω, προσφέρω, παρέχω
+**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** ἀπέχω, κρατέω, προσφέρω, παρέχω <!-- TODO: Fallback translation -->
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** παρατίθημι, προσφέρω, ἀποδίδωμι
 
@@ -2525,21 +2533,21 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 ⟪नश्⟫ 4P ⟪नश्यति⟫ : ἀπόλλυμι, ἐκλείπω, ἀφανίζω
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
-**Kaus. ⟪नाशयति⟫** :br
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : ἀφανίζω, ἀπόλλυμι, ἐκλείπω
 
 ⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : βαίνω, πορεύομαι
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
-**Fut. ⟪क्रमिष्यति⟫** :br
-**Pass. ⟪क्रम्यते⟫** :br
-**Kaus. ⟪क्रमयति⟫** :br
-**PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
-**Inf. ⟪क्रमितुम्⟫** :br
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Kaus. ⟪क्रमयति⟫**
+**PPP :sig[⟪क्रा⟫]⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
@@ -2550,11 +2558,11 @@ People walking, Senegal.
 :::
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): ᾄδω, ψάλλω, ἀναγιγνώσκω
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
-**Fut. ⟪गास्यति⟫** :br
-**Pass. ⟪गीयते⟫** :br
-**Kaus. ⟪गापयति⟫** :br
-**PPP ⟪गीत⟫** :br
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Kaus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Inf. ⟪गातुम्⟫**
 
 ἐκ τούτου:
@@ -2753,7 +2761,7 @@ PPP ⟪हृषित⟫
 Fig.: ⟪शाक्यमुनिः⟫
 (Bildquelle: [Details](/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: ἡμέρα
+⟪दिन⟫ n.: ἡμέρα <!-- TODO: Fallback translation -->
 
 ⟪वृक्ष⟫ m.: ξύλον, δένδρον
 
@@ -2762,7 +2770,7 @@ Fig.: ⟪शाक्यमुनिः⟫
 Fig.: ⟪वृक्षः⟫
 (Bildquelle: [Details](/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: στόμα, πρόσωπον, ἄρχη
+⟪मुख⟫ n.: στόμα, πρόσωπον, ἄρχη <!-- TODO: Fallback translation -->
 
 ## Μάθημα 38
 
@@ -2779,14 +2787,14 @@ Fig.: ⟪वृक्षः⟫
 Fig.: ⟪सूर्यः⟫
 (Bildquelle: [Details](/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: ὕδωρ
+⟪उदक⟫ n.: ὕδωρ <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3805.webp)
 Fig.: ⟪उदकम्⟫
 (Bildquelle: [Details](/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : πνέω, ἀναπνεύω
+⟪वा⟫ 2P ⟪वाति⟫ : πνέω, ἀναπνεύω <!-- TODO: Fallback translation -->
 
 ::: indent
 Μέλλ. ⟪वास्यति⟫
@@ -3775,31 +3783,31 @@ Absol. -⟪लम्ब्य⟫
 Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
 (Bildquelle: [Details](/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫) <!-- TODO: Fallback translation -->
 
 ⟪यदि⟫ Konjunktion:  wenn
 
 ⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : einkreisen, bemeistern, besiegen
 
 ::: indent
-PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt
+PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt <!-- TODO: Fallback translation -->
 
 :::
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts <!-- TODO: Fallback translation -->
 
 ::: indent
 z.B.
 ⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : sich niedersetzen
 
 :::
-⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er :sig[⟪भो⟫].
+⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er :sig[⟪भो⟫]. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4611.webp)
 Abb.: [⟪भोः⟫](/licenses#lekt4611)
 (Bildquelle: [Details](/licenses#lekt4611))
 :::
-## Lektion 48
+## Μάθημα 48 <!-- TODO: Fallback translation -->
 
 
 
@@ -3811,11 +3819,11 @@ Abb.: [⟪भोः⟫](/licenses#lekt4611)
 
 ⟪अद्य⟫ : heute
 
-⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck)
+⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck) <!-- TODO: Fallback translation -->
 
 ⟪व्याकरण⟫ n.: Grammatik (zu ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: Saite ; Webstuhl, Webkette, Gewebe ; Grundlage, Norm, Regel ; Lehre, Lehrwerk ; Tantra ; Zauberformel ; Mittel, Trick, Arzneimittel ; Regierung, Autorität
+⟪तन्त्र⟫ n.: Saite ; Webstuhl, Webkette, Gewebe ; Grundlage, Norm, Regel ; Lehre, Lehrwerk ; Tantra ; Zauberformel ; Mittel, Trick, Arzneimittel ; Regierung, Autorität <!-- TODO: Fallback translation -->
 
 
 ::: media
@@ -3830,7 +3838,7 @@ Fig.: ⟪तन्त्री⟫
 Sitarspieler = ⟪सितारवादकः⟫
 (Fontana: [Details](/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: mulier, uxor; Femininum
+⟪स्त्री⟫ f.: mulier, uxor; Femininum <!-- TODO: Fallback translation -->
 
 Declinatio:
 
@@ -3864,7 +3872,7 @@ Fig.: ⟪कुमारः⟫
 Festival Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 (Fontana: [Details](/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: puella, filia
+⟪कुमारी⟫ f.: puella, filia <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -3872,7 +3880,7 @@ Fig.: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Fontana: [Details](/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: pueritia
+⟪कौमर⟫ n.: pueritia <!-- TODO: Fallback translation -->
 
 ⟪यौवन⟫ n.: iuventus
 
@@ -3884,7 +3892,7 @@ Fig.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Fontana: [Details](/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (altum) aetas
+⟪स्थाविर⟫ n.: (altum) aetas <!-- TODO: Fallback translation -->
 
 ⟪वाच्य⟫ 3: etiam: reprehensibilis
 
@@ -3991,7 +3999,7 @@ Abb.: ⟪उत्तमा⟫ ⟪काला⟫
 :::
 ⟪वर⟫ m.n.: ἐπιθυμία
 
-⟪उत⟫ Indekl.: καί, ἤ, ἢ
+⟪उत⟫ Indekl.: καί, ἤ, ἢ <!-- TODO: Fallback translation -->
 
 ⟪विहंग⟫ m.: ὄρνις ("εἰς τὸν ἀέρα:sig[⟪स्⟫] ὄνειρον - ⟪विह⟫ - πορευόμενος")
 
@@ -4316,7 +4324,7 @@ Abb.: ⟪कौशिकः⟫
 Athene brama (_Athene brama_), Mahesana = મહેસાણા
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: πουλί
+⟪शकुनि⟫ m.: πουλί <!-- TODO: Fallback translation -->
 
 ⟪श्वन्⟫ m.: κύων
 
@@ -4627,7 +4635,7 @@ Abb.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (Fontes imaginum: [Detalia](/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: caelum Indrī
+⟪त्रिपिष्टप⟫ n.: caelum Indrī <!-- TODO: Fallback translation -->
 
 ⟪मार⟫ m.: malum personificatum, seductio/personificata manipulatio, diabolus
 
@@ -4680,7 +4688,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1304**: ⟪अन्नम्⟫, Karnataka (ಕರ್ನಾಟಕ), 2005 [Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο]
 
-**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Πηγή εικόνας: Wikipedia, GNU FDLicense]
+**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Πηγή εικόνας: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt1405**: ⟪दीपाः⟫ [Πηγή εικόνας: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Πρόσβαση στις 01-12-2008. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
 
@@ -4688,7 +4696,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1505**: Indra and Sachi Riding the Divine Elephant Airavata, Folio from a Panchakalyanaka (Five Auspicious Events in the Life of Jina Rishabhanatha [Adinatha]), circa 1670-1680 Painting; Watercolor, Opaque watercolor, gold, and silver on paper, Image: 9 1/8 x 15 1/8 in. (23.18 x 38.42 cm); Sheet: 10 5/8 x 16 3/4 in. (26.99 x 42.55 cm. Made in: India, Rajasthan, Amber [Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο]
 
-**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Πηγή εικόνας: Wikipedia, GNU FDLicense]
+**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Πηγή εικόνας: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [Πηγή εικόνας: U.S. Fish and Wildlife Service / Wikipedia, Δημόσιο πεδίο]
 
@@ -4698,16 +4706,16 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1603**: ⟪अहिंसा⟫ "Το χέρι με τον τροχό στην παλάμη συμβολίζει τον Jain Vow of Ahimsa. Η λέξη στο κέντρο είναι "ahimsa". Ο τροχός αντιπροσωπεύει το dharmacakra που συμβολίζει την απόφαση να σταματήσει ο κύκλος της μετενσάρκωσης μέσω της αδιάλειπτης αναζήτησης της αλήθειας και της μη βίας." [Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο]
 
-**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Πρόσβαση στις 07-12-2008. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)]
+**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Πρόσβαση στις 07-12-2008. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 
-**lekt1701**: ⟪योगासनम्⟫ [Πηγὴ εἰκόνος: ὑπὸ tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Πρόσβασις τῇ 2008-12-07. -- Ἄδεια Creative Commons (Ὁνομασία, οὐδεμία τροποποίησις)]
+**lekt1701**: ⟪योगासनम्⟫ [Πηγὴ εἰκόνος: ὑπὸ tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Πρόσβασις τῇ 2008-12-07. -- Ἄδεια Creative Commons (Ὁνομασία, οὐδεμία τροποποίησις)] <!-- TODO: Fallback translation -->
 
-**lekt1702**: ⟪दोग्धि⟫ [Πηγὴ εἰκόνος: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Πρόσβασις τῇ 2008-12-07. -- Ἄδεια Creative Commons (Ὁνομασία, οὐδεμία ἐμπορικὴ χρῆσις, share alike)]
+**lekt1702**: ⟪दोग्धि⟫ [Πηγὴ εἰκόνος: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Πρόσβασις τῇ 2008-12-07. -- Ἄδεια Creative Commons (Ὁνομασία, οὐδεμία ἐμπορικὴ χρῆσις, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt1809**: ⟪कामः⟫ Ἐικονογράφησις πρὸς τὸ ⟪कामसूत्र⟫ [Πηγὴ εἰκόνος: Wikipedia, Δημόσιον πεδίον]
 
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Πηγὴ εἰκόνος: Sudarshan Bhat Khandige / Wikipedia, Δημόσιον πεδίον]
+**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Πηγὴ εἰκόνος: Sudarshan Bhat Khandige / Wikipedia, Δημόσιον πεδίον] <!-- TODO: Fallback translation -->
 
 **lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Πηγὴ εἰκόνος: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Πρόσβασις τῇ 2008-12-08. -- Ἄδεια Creative Commons (Ὁνομασία, οὐδεμία ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις)]
 
@@ -4725,7 +4733,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2202**: ⟪कामदेवः⟫ , 19ος αἰ [Πηγὴ εἰκόνος: Wikipedia, Δημόσιον πεδίον]
 
-**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Πηγὴ εἰκόνος: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Πρόσβασις τῇ 2008-12-12. -- Ἄδεια Creative Commons (Ὁνομασία, οὐδεμία ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις)]
+**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Πηγὴ εἰκόνος: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Πρόσβασις τῇ 2008-12-12. -- Ἄδεια Creative Commons (Ὁνομασία, οὐδεμία ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις)] <!-- TODO: Fallback translation -->
 
 **lekt2201**: ⟪धेनवश्चरन्ति⟫ Goa = ⟪गोंय⟫ [Πηγὴ εἰκόνος: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Πρόσβασις τῇ 2008-12-12. -- Ἄδεια Creative Commons (Ὁνομασία, οὐδεμία ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις)]
 
@@ -4742,7 +4750,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2501**: ⟪धान्यम्⟫ Khanna [Πηγὴ εἰκόνας: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Πρόσβασις τῇ 2008-12-15. -- Ἄδεια Creative Commons (Ὁνομασία)]
 
-**lekt2502**: ⟪मूलानि⟫ Varanasi [Πηγὴ εἰκόνας: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Πρόσβασις τῇ 2008-12-15. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, share alike)]
+**lekt2502**: ⟪मूलानि⟫ Varanasi [Πηγὴ εἰκόνας: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Πρόσβασις τῇ 2008-12-15. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt2503**: ⟪लिप्तिः⟫ Χειρόγραφον Jain [Πηγὴ εἰκόνας: Wikipedia, Δημόσιον πεδίον]
 
@@ -4754,16 +4762,16 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2706**: ⟪वस्त्राणि⟫ Majuli, Assam [Πηγὴ εἰκόνας: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- Πρόσβασις τῇ 2008-12-18. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις)]
 
-**lekt2707**: ⟪वसन्तः⟫ ⟪कुसुम्भ⟫ = Schleichera oleosa (Lour.) Oken, Khopoli = ⟪खोपोली⟫, Maharashtra = ⟪महाराष्ट्र⟫, 2007-04-07[Πηγὴ εἰκόνας: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Πρόσβασις τῇ 2008-12-18. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις)]
+**lekt2707**: ⟪वसन्तः⟫ ⟪कुसुम्भ⟫ = Schleichera oleosa (Lour.) Oken, Khopoli = ⟪खोपोली⟫, Maharashtra = ⟪महाराष्ट्र⟫, 2007-04-07[Πηγὴ εἰκόνας: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Πρόσβασις τῇ 2008-12-18. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις)] <!-- TODO: Fallback translation -->
 
 **lekt2704**: ⟪हरिहरः⟫ (ἀριστερὰ: ⟪विष्णु⟫, δεξιά: ⟪शिव⟫) [Πηγὴ εἰκόνας: Wikipedia. Δημόσιον πεδίον]
 
-**lekt2705**: ⟪हरिहरः⟫ (ἀριστερὰ: ⟪विष्णु⟫, δεξιά: ⟪शिव⟫) Godrumdwip, West Bengal = পশ্চিমবঙ্গ [Πηγὴ εἰκόνας: GourangaUK / Wikipedia. GNU FDLicense]
+**lekt2705**: ⟪हरिहरः⟫ (ἀριστερὰ: ⟪विष्णु⟫, δεξιά: ⟪शिव⟫) Godrumdwip, West Bengal = পশ্চিমবঙ্গ [Πηγὴ εἰκόνας: GourangaUK / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 
 **lekt2804**: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫ πίνακας τοῦ ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [πηγὴ εἰκόνος: Wikipedia. Δημόσιον πεδίον]
 
-**lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [πηγὴ εἰκόνος: Kelvin Kay / Wikipedia. Ἀδελφικὴ ἄδεια GNU]
+**lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [πηγὴ εἰκόνος: Kelvin Kay / Wikipedia. Ἀδελφικὴ ἄδεια GNU] <!-- TODO: Fallback translation -->
 
 **lekt2805**: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫ παρὰ τὴν Ἀχμεδαμπάδ [πηγὴ εἰκόνος: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- πρόσβασις τῇ 2008-12-20. -- Ἀδελφικὴ ἄδεια Creative Commons (ἀναφορὰ, share alike)]
 
@@ -4775,11 +4783,11 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3002**: ⟪ज्ञातयः⟫ Δαρεβάδι, ἐπαρχία Ἀχμεδα Νάγκαρ = ⟪अहमदनगर⟫, Μαχαράστρα = ⟪महाराष्ट्र⟫ [πηγὴ εἰκόνος: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- πρόσβασις τῇ 2008-12-21. -- Ἀδελφικὴ ἄδεια Creative Commons (ἀναφορὰ, οὐκ ἐμπορικὴ χρῆσις, share alike)]
 
-**lekt3003**: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫ [πηγὴ εἰκόνος: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- πρόσβασις τῇ 2008-12-21. -- Ἀδελφικὴ ἄδεια Creative Commons (ἀναφορὰ, share alike)]
+**lekt3003**: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫ [πηγὴ εἰκόνος: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- πρόσβασις τῇ 2008-12-21. -- Ἀδελφικὴ ἄδεια Creative Commons (ἀναφορὰ, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt3005**: ⟪अश्नीयात्⟫ ⟪थाली⟫, Νότιον Ἰνδίας [πηγὴ εἰκόνος: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- πρόσβασις τῇ 2008-12-21. -- Ἀδελφικὴ ἄδεια Creative Commons (ἀναφορὰ, οὐκ ἐμπορικὴ χρῆσις, share alike)]
+**lekt3005**: ⟪अश्नीयात्⟫ ⟪थाली⟫, Νότιον Ἰνδίας [πηγὴ εἰκόνος: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- πρόσβασις τῇ 2008-12-21. -- Ἀδελφικὴ ἄδεια Creative Commons (ἀναφορὰ, οὐκ ἐμπορικὴ χρῆσις, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt3004**: ⟪प्रिया⟫ [πηγὴ εἰκόνος: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- πρόσβασις τῇ 2008-12-21. -- Ἀδελφικὴ ἄδεια Creative Commons (ἀναφορὰ, share alike)]
+**lekt3004**: ⟪प्रिया⟫ [πηγὴ εἰκόνος: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- πρόσβασις τῇ 2008-12-21. -- Ἀδελφικὴ ἄδεια Creative Commons (ἀναφορὰ, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt2904**: ⟪पुनर्भवः⟫ [πηγὴ εἰκόνος: Wikipedia / Ὑπόκειται εἰς δικαιώματα τοῦ Himalayan Academy Publications, Καπάα, Κουάι, Ἱερανεῖαι. -- Creative Commons Attribution ShareAlike 2.5]
 
@@ -4798,9 +4806,9 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3205**: ⟪लक्ष्यम्⟫ Καρνάτακα = ಕರ್ನಾಟಕ [Πηγὴ εἰκόνος: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Πρόσβασις 2008-12-25. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ ἐπεξεργασία)]
 
-**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: κοπρία βοός) Ρατζασθάν [Πηγὴ εἰκόνος: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Πρόσβασις 2008-12-25. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, share alike)]
+**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: κοπρία βοός) Ρατζασθάν [Πηγὴ εἰκόνος: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Πρόσβασις 2008-12-25. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt3206**: ⟪कौशलम्⟫ Μεχέντι = ⟪मेहन्दी⟫, Μουμπάι = ⟪मुंबई⟫ [Πηγὴ εἰκόνος: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Πρόσβασις 2008-12-25. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, share alike)]
+**lekt3206**: ⟪कौशलम्⟫ Μεχέντι = ⟪मेहन्दी⟫, Μουμπάι = ⟪मुंबई⟫ [Πηγὴ εἰκόνος: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Πρόσβασις 2008-12-25. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt3306**: ⟪दानम्⟫ "Τῇ εἴκοσι τῆς Αὐγούστου, 2005 ἐν Τσενναΐ, Ἰνδίᾳ οἱ μελλόμενοι πεθεροί μου ἔδωκαν ἡμῖν τυπικὴν Ἰνδικὴν ἐγγύμησιν. Ὁμοίως γάμος ἦν ἀλλ’ οὐκ ἦν, οὕτω ποιοῦσι. Πολὺ ἐκπεπληγμένον. Αὕτη ἡ ἐκδήλωσις μεγάλην εὐλογίαν μοι ἐγένετο. Οὔπω ἔστω οὕτως ἀγαπηθῆναι ὑπ’ ἄλλης οἰκίας. Μόνον ἐπιθυμῶ ὅπως ἡ οἰκία μου ἐκεῖ εἴη ἀλλ’ ἔστιν οὕτως βίντεον τοῦ παντὸς διὰ κοινοποιήσαι. Οἱ μελλόμενοι πεθεροί μου τὸ πᾶν ἐποίησαν ἐν ἡμέραις τρισί. Πάντα μεταξὺ προσκλήσεων καὶ μισθωτοῦ φωτογράφου. Ἦν θαυμαστόν, πέραν λόγων ἐξηγεῖσθαι τὰς συναισθήσεις ῥεούσας." [Πηγὴ εἰκόνος καὶ κειμένου: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Πρόσβασις 2008-12-26. -- Ἄδεια Creative Commons (Ὁνομασία, share alike)]
 
@@ -4809,7 +4817,7 @@ Inf. ⟪त्रातुम्⟫
 **lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Καβερίπακκαμ = காவேரிப்பாக்கம், Ταμίλ Ναδού, 10. αἰ. μ.Χ. [Πηγὴ εἰκόνος: Quadell / Wikipedia. Ἀδεια GNU FDLicense]
 
 
-**lekt3304**: ⟪भयम्⟫ Μουμπάι = ⟪मुंबई⟫, 2008 [Πηγή εικόνας: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Πρόσβαση στις 26-12-2008. -- Άδεια Creative Commons (Αναφορά)]
+**lekt3304**: ⟪भयम्⟫ Μουμπάι = ⟪मुंबई⟫, 2008 [Πηγή εικόνας: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Πρόσβαση στις 26-12-2008. -- Άδεια Creative Commons (Αναφορά)] <!-- TODO: Fallback translation -->
 
 **lekt3303**: ⟪हीनयानमेव⟫ Ταϊλάνδη [Πηγή εικόνας: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- Πρόσβαση στις 26-12-2008. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)]
 
@@ -4823,7 +4831,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3403**: ⟪तिलाः⟫ [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
 
-**lekt3404**: ⟪तिलाः⟫ [Πηγή εικόνας: Franz Xaver / Wikipedia. GNU FDLicense]
+**lekt3404**: ⟪तिलाः⟫ [Πηγή εικόνας: Franz Xaver / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt3402**: ⟪स्वर्णम्⟫ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿਬ, Αμριτσάρ = ਅੰਮ੍ਰਿਤਸਰ [Πηγή εικόνας: Wikipedia. GNU FDLicense]
 
@@ -4831,12 +4839,12 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3502**: ⟪क्रामन्ति⟫ [Πηγή εικόνας: Curt Carnemark / Παγκόσμιος Τράπεζα. -- http://www.flickr.com/photos/worldbank/2182732473/. -- Πρόσβαση στις 28-12-2008. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
 
-**lekt3501**: ⟪जगुः⟫ Ναός Kaadu Malleswara, Μπαγκλόρε = ಬೆಂಗಳೂರು [Πηγή εικόνας: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- Πρόσβαση στις 28-12-2008. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)]
+**lekt3501**: ⟪जगुः⟫ Ναός Kaadu Malleswara, Μπαγκλόρε = ಬೆಂಗಳೂರು [Πηγή εικόνας: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- Πρόσβαση στις 28-12-2008. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
-**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Ουντάιπούρ = ⟪उदयपुर⟫ [Πηγή εικόνας: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Πρόσβαση στις 28-12-2008. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)]
+**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Ουντάιπούρ = ⟪उदयपुर⟫ [Πηγή εικόνας: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Πρόσβαση στις 28-12-2008. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 
-**lekt3602**: ⟪अगारम्⟫ Σηκαβάτι = ⟪शेखावाटी⟫ [Πηγή εικόνας: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Πρόσβαση στις 28-12-2008. -- Άδεια Creative Commons (Αναφορά, Ομοίως μοιράζου)]
+**lekt3602**: ⟪अगारम्⟫ Σηκαβάτι = ⟪शेखावाटी⟫ [Πηγή εικόνας: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Πρόσβαση στις 28-12-2008. -- Άδεια Creative Commons (Αναφορά, Ομοίως μοιράζου)] <!-- TODO: Fallback translation -->
 
 **lekt3802**: ⟪अनगार्यम्⟫ Βορειοανατολική Ταϊλάνδη = อีสาน [Πηγή εικόνας: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Πρόσβαση στις 28-12-2008. -- Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Όχι εξαγωγές)]
 
@@ -4846,9 +4854,9 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3705**: ⟪शाक्यमुनिः⟫ Χουσάιν Σάγκαρ = హుస్సేన్ సాగర్, Χαϊντεραμπάντ = హైదరాబాద్ [Πηγή εικόνας: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Πρόσβαση στις 31-12-2008. -- Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Όχι εξαγωγές)]
 
-**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [Πηγή εικόνας: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Πρόσβαση στις 31-12-2008. -- Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Ομοίως μοιράζου)]
+**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [Πηγή εικόνας: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Πρόσβαση στις 31-12-2008. -- Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Ομοίως μοιράζου)] <!-- TODO: Fallback translation -->
 
-**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, Κονάρκ = ⟪कोनार्क⟫ [Πηγή εικόνας: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Πρόσβαση στις 31-12-2008. -- Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση)]
+**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, Κονάρκ = ⟪कोनार्क⟫ [Πηγή εικόνας: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Πρόσβαση στις 31-12-2008. -- Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 **lekt3805**: ⟪उदकम्⟫ Χάρεβαντι χωριό, Περιοχή Αχμέντ Νάγκαρ = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [Πηγή εικόνας: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Πρόσβαση στις 01-01-2009. -- Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Ομοίως μοιράζου)]
 
@@ -4864,7 +4872,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3813**: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ [Πηγή εικόνας: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Πρόσβαση στις 01-01-2009. -- Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση)]
 
-**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Πηγή εικόνας: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Πρόσβαση στις 01-01-2009. -- Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Όχι εξαγωγές)]
+**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Πηγή εικόνας: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Πρόσβαση στις 01-01-2009. -- Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Όχι εξαγωγές)] <!-- TODO: Fallback translation -->
 
 
 **lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [Image source: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Accessed on 2009-01-02. -- Creative Commons license (Attribution)]
@@ -4881,7 +4889,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4109**: ⟪शासना⟫ Ashoka Edict, Dhauli, Orissa [Image source: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Accessed on 2009-01-03. -- Creative Commons License (Attribution, non-commercial use)]
 
-**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), ca. 1898 [Image source: Wikipedia. Public domain]
+**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), ca. 1898 [Image source: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
 
 **lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. [Image source: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accessed on 2009-01-04. -- Creative Commons License (Attribution, non-commercial use, share alike)]
 
@@ -4900,23 +4908,23 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4403**: ⟪रेल्यानम्⟫ ⟪वाराणआस्याम्⟫, ⟪१९७४⟫ [Πηγή εικόνας: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς επεξεργασία)]
 
-**lekt4404**: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫ [Πηγή εικόνας: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, share alike)]
+**lekt4404**: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫ [Πηγή εικόνας: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt4405**: ⟪नन्दी⟫ Kodagu = ಕೊಡಗು [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
+**lekt4405**: ⟪नन्दी⟫ Kodagu = ಕೊಡಗು [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 **lekt4406**: ⟪आयतो⟫ ⟪मरुः⟫ ⟪थार⟫ ⟪मरुस्थल⟫ [Πηγή εικόνας: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
 
-**lekt4407**: ⟪यत्नेन⟫ Kollam = കൊല്ലം [Πηγή εικόνας: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, share alike)]
+**lekt4407**: ⟪यत्नेन⟫ Kollam = കൊല്ലം [Πηγή εικόνας: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [Πηγή εικόνας: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς επεξεργασία)]
 
-**lekt4602**: ⟪नवग्रहाः⟫ [Πηγή εικόνας της ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+**lekt4602**: ⟪नवग्रहाः⟫ [Πηγή εικόνας της ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt4603**: ⟪नवग्रहाः⟫ [Πηγή εικόνας της ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+**lekt4603**: ⟪नवग्रहाः⟫ [Πηγή εικόνας της ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt4604**: ⟪नवग्रहाः⟫ [Πηγή εικόνας της ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+**lekt4604**: ⟪नवग्रहाः⟫ [Πηγή εικόνας της ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt4605**: ⟪नवग्रहाः⟫ [Πηγή εικόνας της ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+**lekt4605**: ⟪नवग्रहाः⟫ [Πηγή εικόνας της ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, περ. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = ανώτατος βασιλεύς των οφίων) [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
 
@@ -4924,12 +4932,12 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4608**: ⟪महामात्रः⟫ ⟪उदयपुर⟫ [Πηγή εικόνας: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
 
-**lekt4609**: ⟪श्रान्तः⟫ Karnataka = ಕರ್ನಾಟಕ [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Πρόσβαση στις 2009-01-09. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
+**lekt4609**: ⟪श्रान्तः⟫ Karnataka = ಕರ್ನಾಟಕ [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Πρόσβαση στις 2009-01-09. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
-**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [Πηγή εικόνας: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Πρόσβαση στις 2009-01-09. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
+**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [Πηγή εικόνας: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Πρόσβαση στις 2009-01-09. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 
-**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, Bangalore = Βενγαλόρου [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
+**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, Bangalore = Βενγαλόρου [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Πρόσβαση στις 2009-01-08. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 **lekt4611**: ⟪भोः⟫ Kutch = ⟪कच्छ⟫ [Πηγή εικόνας: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- Πρόσβαση στις 2009-01-09. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
 
@@ -4939,13 +4947,13 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4804**: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫ [Ομάδα αυτοβοήθειας (SHG)], Tamil Nadu = Ταμίλ Ναντού [Πηγή εικόνας: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- Πρόσβαση στις 2009-01-10. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
 
-**lekt4805**: ⟪कुमारः⟫ γιορτή Thaipusam = Ταϊπούσαμ, Batu Caves, Μαλαισία [Πηγή εικόνας: tajai. -- http://www.flickr.com/photos/cayce/108707865/. -- Πρόσβαση στις 2009-01-10. -- Άδεια Creative Commons (Αναφορά δημιουργού)]
+**lekt4805**: ⟪कुमारः⟫ γιορτή Thaipusam = Ταϊπούσαμ, Batu Caves, Μαλαισία [Πηγή εικόνας: tajai. -- http://www.flickr.com/photos/cayce/108707865/. -- Πρόσβαση στις 2009-01-10. -- Άδεια Creative Commons (Αναφορά δημιουργού)] <!-- TODO: Fallback translation -->
 
 **lekt4806**: ⟪कुमारी⟫ ⟪नेपाल⟫ [Πηγή εικόνας: changhg. -- http://www.flickr.com/photos/changhg/100412648/. -- Πρόσβαση στις 2009-01-10. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς τροποποιήσεις)]
 
 **lekt4807**: ⟪स्थविराः⟫ ⟪जोधपुर⟫ [Πηγή εικόνας: zz77. -- http://www.flickr.com/photos/zz77/2256414024/. -- Πρόσβαση στις 2009-01-10. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς τροποποιήσεις)]
 
-**lekt4808**: ⟪सूक्ष्मम्⟫ Λίμνη Karanji = Καράντζι Κερέ [Πηγή εικόνας: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- Πρόσβαση στις 2009-01-10. -- Άδεια Creative Commons (Αναφορά δημιουργού, ίδια άδεια)]
+**lekt4808**: ⟪सूक्ष्मम्⟫ Λίμνη Karanji = Καράντζι Κερέ [Πηγή εικόνας: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- Πρόσβαση στις 2009-01-10. -- Άδεια Creative Commons (Αναφορά δημιουργού, ίδια άδεια)] <!-- TODO: Fallback translation -->
 
 **lekt4809**: ⟪जाया⟫ [Εικόνα: Payer]
 
@@ -4959,7 +4967,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4909**: ⟪पञ्जरम्⟫ μάντης με παπαγάλο σε κλουβί: ο παπαγάλος τραβάει χαρτάκια, στα οποία είναι γραμμένη η μοίρα. Mysore. [Πηγή εικόνας: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- Πρόσβαση στις 2009-01-12. -- Άδεια Creative Commons (Αναφορά δημιουργού)]
 
-**lekt4905**: ⟪सादरः⟫ Amritsar = Ανμριτσάρ [Πηγή εικόνας: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Πρόσβαση στις 2009-01-11. -- Άδεια Creative Commons (Αναφορά δημιουργού)]
+**lekt4905**: ⟪सादरः⟫ Amritsar = Ανμριτσάρ [Πηγή εικόνας: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Πρόσβαση στις 2009-01-11. -- Άδεια Creative Commons (Αναφορά δημιουργού)] <!-- TODO: Fallback translation -->
 
 
 **lekt4906**: ⟪गजशिशुः⟫ Σρι Λανκα [Πηγή εικόνας: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- Πρόσβαση στις 2009-01-11. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
@@ -4972,46 +4980,46 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt5003**: ⟪कल्याणी⟫ [Πηγή εικόνας: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- Πρόσβαση στις 2009-01-12. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
 
-**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [Πηγή εικόνας: Kounosu / Wikipedia. GNU FDLicense]
+**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [Πηγή εικόνας: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt5105**: ⟪कृष्णमृगः⟫ Antilopa cervicapra -- _Antilope cervicapra_ L., αρσενικό [Πηγή εικόνας: Wikipedia, δημόσιο πεδίο]
+**lekt5105**: ⟪कृष्णमृगः⟫ Antilopa cervicapra -- _Antilope cervicapra_ L., αρσενικό [Πηγή εικόνας: Wikipedia, δημόσιο πεδίο] <!-- TODO: Fallback translation -->
 
 **lekt5106**: ⟪ऋतुः⟫ "Γραφική παράσταση για τον υπολογισμό των γόνιμων ημερών σύμφωνα με OGINO σε κύκλους 26 έως 30 ημερών... [Πηγή για κείμενο και εικόνα: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Πρόσβαση στις 2003-12-16]
 
-**lekt5107**: ⟪जटा⟫ ⟪ऋषिकेश⟫ [Πηγή εικόνας: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)]
+**lekt5107**: ⟪जटा⟫ ⟪ऋषिकेश⟫ [Πηγή εικόνας: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt5108**: ⟪पिशितम्⟫ Kolkata = কলকাতা [Πηγή εικόνας: nicolas - نِيقُولاَوُسَ. -- http://www.flickr.com/photos/keep-on-moving/2994878670/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)]
+**lekt5108**: ⟪पिशितम्⟫ Kolkata = কলকাতা [Πηγή εικόνας: nicolas - نِيقُولاَوُسَ. -- http://www.flickr.com/photos/keep-on-moving/2994878670/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt5109**: ⟪मधु⟫ City Palace, ⟪उदयपुर⟫ [Πηγή εικόνας: abrinsky. -- http://www.flickr.com/photos/abrinsky/457940260/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)]
+**lekt5109**: ⟪मधु⟫ City Palace, ⟪उदयपुर⟫ [Πηγή εικόνας: abrinsky. -- http://www.flickr.com/photos/abrinsky/457940260/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt5110**: ⟪मृगया⟫ Κυνήγι με ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
 
 **lekt5111**: ⟪शिवा⟫ _Canis aureus_, Kalatop Khajjiar Sanctuary [Πηγή εικόνας: gautamnguitar. -- http://www.flickr.com/photos/gautamnguitar/2181211040/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
 
-**lekt5112**: ⟪कौशिकः⟫ Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Πηγή εικόνας: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
+**lekt5112**: ⟪कौशिकः⟫ Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Πηγή εικόνας: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)] <!-- TODO: Fallback translation -->
 
 
-**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟫ Καρνάτακα = ಕರ್ನಾಟಕ [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)]
+**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟫ Καρνάτακα = ಕರ್ನಾಟಕ [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
 **lekt5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. "Οἱ ἄνδρες οὗτοι ἐκάθοντο καὶ ἔπινον ἐνώπιον τοῦ ναοῳ τινὸς ἱνδοῦ θεοῦ (ἐπελάθοντο τοῦ ὀνόματος). Καθὼς μοι εἶπον, ἦσαν σαρκophόροι καὶ ὁ θεὸς τῆς ἐπαγγελίας αὐτῶν ὁ μόνος δέχοιτο θυσίας οἴνου." [Πηγή εικόνας καὶ κειμένου: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς τροποποίηση)]
 
-**lekt5115**: ⟪मूषिकाविषाणि⟫ Μπαγκόρε = ಬೆಂಗಳೂರು [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)]
+**lekt5115**: ⟪मूषिकाविषाणि⟫ Μπαγκόρε = ಬೆಂಗಳೂರು [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
 
-**lekt5116**: ⟪भुजङ्गः⟫ Ὄφις τῆς αλυσίδος (_Daboia russelii_), Μπαγκόρε = ಬೆಂಗಳೂರು [Πηγή εικόνας: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)]
+**lekt5116**: ⟪भुजङ्गः⟫ Ὄφις τῆς αλυσίδος (_Daboia russelii_), Μπαγκόρε = ಬೆಂಗಳೂರು [Πηγή εικόνας: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt5118**: ⟪मणिः⟫ Ἡμιόνιος Διαμάντι ἐκ Γουντούρ = గుంటూρου, νῦν Μουσεῖον Φυσικῆς Ἱστορίας Smithsonian, Ουάσινγκτον DC [Πηγή εικόνας: David Bjorgen / Wikipedia. Ἄδεια GNU FDLicense]
 
-**lekt5117**: ⟪मदः⟫ [Πηγή εικόνας: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)]
+**lekt5117**: ⟪मदः⟫ [Πηγή εικόνας: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Πρόσβαση στις 2009-01-13. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt5210**: ⟪खिलः⟫ Ταμπχολ, Ἀκόλε, Ἀχμενναγκάρ = ⟪अहमदनगर⟫ [Πηγή εικόνας: Dan Tunstall / Ἐργάται Παγκόσμιου Ὀργανισμοῦ Πόρων. -- http://www.flickr.com/photos/wricontest/291696431/. -- Πρόσβαση στις 2009-01-16. -- Άδεια Creative Commons (Αναφορά)]
 
 **lekt5212**: ⟪पीडिताः⟫ Ὑδραβᾶ = హైదరాబాద్ [Πηγή εικόνας: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- Πρόσβαση στις 2009-01-16. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς τροποποίηση)]
 
-**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [Πηγή εικόνας: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- Πρόσβαση στις 2009-01-16. -- Άδεια Creative Commons (Αναφορά, χωρίς τροποποίηση)]
+**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [Πηγή εικόνας: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- Πρόσβαση στις 2009-01-16. -- Άδεια Creative Commons (Αναφορά, χωρίς τροποποίηση)] <!-- TODO: Fallback translation -->
 
 **lekt5214**: ⟪चक्रम्⟫ Κονάρκ = ⟪कोनार्क⟫ [Πηγή εικόνας: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- Πρόσβαση στις 2009-01-16. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς τροποποίηση)]
 
-**lekt5208**: ⟪कदली⟫ Ἁμπι = ಹಂಪೆ [Πηγή εικόνας: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Πρόσβαση στις 2009-01-15. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)]
+**lekt5208**: ⟪कदली⟫ Ἁμπι = ಹಂಪೆ [Πηγή εικόνας: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Πρόσβαση στις 2009-01-15. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Πηγή εικόνας: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Πρόσβαση στις 2009-01-16. -- Άδεια Creative Commons (Αναφορά)]
 

@@ -99,7 +99,7 @@ etc.
 ::: indent
 ⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "einer / eine / eines, der / die / das ein Ergebnis hervorgebracht hat, jemand / etwas effektives"
 :::
-## 20.3. Bahuvrīhi μετὰ παραθετικοῦ πρώτου μέλους
+## 20.3. Bahuvrīhi μετὰ παραθετικοῦ πρώτου μέλους <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -569,7 +569,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 **lekt2001:** Σιέμρεαπ (ក្រុងសៀមរាប), Καμπότζη, 9ος αἰ. μ.Χ. [Πηγὴ εἰκόνος: Βικιπαίδεια, Δημόσιον πεδίον]
 
-**lekt2002:** [Πηγὴ εἰκόνος: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926]
+**lekt2002:** [Πηγὴ εἰκόνος: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926] <!-- TODO: Fallback translation -->
 
 **lekt2003:** Σάντσι = ⟪सांची⟫ [Πηγὴ εἰκόνος Βικιπαίδεια, Δημόσιον πεδίον]
 

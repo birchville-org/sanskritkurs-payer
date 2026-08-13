@@ -5,11 +5,11 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 27. lecke
+# 27. lecke <!-- TODO: Fallback translation -->
 
-## 27.1. A lokativ használata (⟪सप्तमी⟫ f. = "hetedik esetrag")
+## 27.1. A lokativ használata (⟪सप्तमी⟫ f. = "hetedik esetrag") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -42,19 +42,19 @@ Jaipur, 1875.
 
 **Ide tartozik úgynevezett Locativus Absolutus is:**
 
-**Ha egy személy vagy dolog cselekvése vagy állapota meghatározza azt az időt, amikor – vagy a körülményeket, amelyek között – egy MÁSIK személy vagy dolog cselekvést hajt végre, vagy bizonyos állapotban van, akkor az első személyt vagy dolgot jelző szó együtt a azt pontosabban meghatározó szóval (amely gyakran melléknév) lokativusban áll (⟪सप्तमी⟫):**
+**Ha egy személy vagy dolog cselekvése vagy állapota meghatározza azt az időt, amikor – vagy a körülményeket, amelyek között – egy MÁSIK személy vagy dolog cselekvést hajt végre, vagy bizonyos állapotban van, akkor az első személyt vagy dolgot jelző szó együtt a azt pontosabban meghatározó szóval (amely gyakran melléknév) lokativusban áll (⟪सप्तमी⟫):** <!-- TODO: Fallback translation -->
 
 > ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "miközben az idő így telik..."
 >
 > ⟪तस्मिन्गते⟫ = "miután elment..."
 
-**Néha az agens (⟪कर्ता⟫) nincs külön megjelölve:**
+**Néha az agens (⟪कर्ता⟫) nincs külön megjelölve:** <!-- TODO: Fallback translation -->
 
 > ⟪एवं⟫ ⟪सति⟫ = "mivel így áll a dolog"
 
-**A locativus absolutust a kontextusnak megfelelően kell lefordítani: „miközben” (pl. jelen időű melléknévi igenév), „miután”, „amikor” (pl. befejezett múlt idejű melléknévi igenév), „mivel”, „mert”, „bár”, „ha” stb.**
+**A locativus absolutust a kontextusnak megfelelően kell lefordítani: „miközben” (pl. jelen időű melléknévi igenév), „miután”, „amikor” (pl. befejezett múlt idejű melléknévi igenév), „mivel”, „mert”, „bár”, „ha” stb.** <!-- TODO: Fallback translation -->
 
-**Megjegyzés: az abszolútum esetében az abszolútum alanyának és a főmondat alanyának azonosnak kell lenniük; a locativus absolutus esetében pedig a locativus absolutus alanyának és a főige alanyának különbözőnek kell lenniük.**
+**Megjegyzés: az abszolútum esetében az abszolútum alanyának és a főmondat alanyának azonosnak kell lenniük; a locativus absolutus esetében pedig a locativus absolutus alanyának és a főige alanyának különbözőnek kell lenniük.** <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -62,7 +62,7 @@ Jaipur, 1875.
 Kép: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rádzsasztán.
 (Képmegjelölés: [Részletek](/hu/licenses#lekt2702))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -76,7 +76,7 @@ Rádzsasztán.
 Ábr.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2703))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -93,7 +93,7 @@ A lokativus további használatáról később.
 
 **A lokativus szabályos végződése (⟪सप्तमी⟫):
 *   **egyes szám: -i**
-*   **többes szám: -su**
+*   **többes szám: -su** <!-- TODO: Fallback translation -->
 
 **Vegye figyelembe a hangváltozásokat a -su előtt, valamint a -ṣu-ra történő esetleges cerebralizációt!**
 
@@ -153,9 +153,9 @@ A lokativus további használatáról később.
 | **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
-**Pirossal nyomtatva**: erős esetek (tőalak-változással).
+**Pirossal nyomtatva**: erős esetek (tőalak-változással). <!-- TODO: Fallback translation -->
 
-## 27.4. Egy vers az összes ragozott alakról (egyes szám) :sig[⟪राम⟫]-hoz
+## 27.4. Egy vers az összes ragozott alakról (egyes szám) :sig[⟪राम⟫]-hoz <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2708.webp)
@@ -163,7 +163,10 @@ A lokativus további használatáról később.
 Rāma-Satz.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2708))
 :::
-:sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫:br :sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br :sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫:br :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
+:sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫
+:sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
+:sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫
+:sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Fordítás:**
 1. **alanyeset (nominativus):** Rāma, a kincsem (⟪मणि⟩ m.) a királyok között (⟪राजन्⟩ m.), mindig győz (⟪सदा⟩).
@@ -180,7 +183,10 @@ Rāma-Satz.
 ⟪वस्⟩ 1P (⟪वसति⟩): tartózkodik, lakik (személyes lokatívvál, akinél lakik)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟩:br **Pass.:** ⟪उष्यते⟩:br **PPP:** ⟪उषित⟩:br **Inf.:** ⟪वस्तुम्⟩
+**Fut.:** ⟪वत्स्यति⟩
+**Pass.:** ⟪उष्यते⟩
+**PPP:** ⟪उषित⟩
+**Inf.:** ⟪वस्तुम्⟩
 :::
 ebből:
 
@@ -194,7 +200,9 @@ ebből:
 ⟪वस्⟫ 2Ā (⟪वस्ते⟫): felvenni (ruhát), viselni (ruhát)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 ebből:
 
@@ -207,7 +215,7 @@ Kép: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2706))
 :::
-⟪वस्⟫ 6P (⟪उच्छति⟫): felragyogni (ez a gyökér fontos a névmeghatározások miatt:)
+⟪वस्⟫ 6P (⟪उच्छति⟫): felragyogni (ez a gyökér fontos a névmeghatározások miatt:) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪वसु⟫ n.: gazdagság, kincs, vagyon, birtok
@@ -223,7 +231,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 ⟪हृ⟫ 1U (⟪हरति⟫): tart, visel; hoz, elvesz, rabol
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 ebből:
 
@@ -232,7 +243,7 @@ ebből:
 :::
 Párja ⟪हर⟫:
 
-⟪हरि⟫ 3: szőke, sárga, zöld; m. Viṣṇu mellékneve (nem tartozik a ⟪हृ⟫ 1 gyökérhez)
+⟪हरि⟫ 3: szőke, sárga, zöld; m. Viṣṇu mellékneve (nem tartozik a ⟪हृ⟫ 1 gyökérhez) <!-- TODO: Fallback translation -->
 
 ⟪हरिहर⟫ m.: Viṣṇu és Śiva egyesítve egyetlen istenségként.
 
@@ -241,7 +252,7 @@ Párja ⟪हर⟫:
 Ábra: ⟪हरिहरः⟫
 Harihara (balra: Viṣṇu, jobbra: Śiva).
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2704))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2705.webp)
@@ -249,13 +260,13 @@ Harihara (balra: Viṣṇu, jobbra: Śiva).
 Harihara (balra: Viṣṇu, jobbra: Śiva). Godrumdwip, Nyugat-Bengál.
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2705))
 :::
-## 27.6. Gyakorlat
+## 27.6. Gyakorlat <!-- TODO: Fallback translation -->
 
-**A) Helyezze a következő mondatban a zárójelben lévő kifejezéseket lokatívan (⟪सप्तमी⟫) egyes számban, és — ahol célszerű — többes számban. Vegye figyelembe a különböző szandhit, azaz írja le minden alkalommal a teljes mondatot!**
+**A) Helyezze a következő mondatban a zárójelben lévő kifejezéseket lokatívan (⟪सप्तमी⟫) egyes számban, és — ahol célszerű — többes számban. Vegye figyelembe a különböző szandhit, azaz írja le minden alkalommal a teljes mondatot!** <!-- TODO: Fallback translation -->
 
 ⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫ (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
 
-**B) Fordítsa le, és bontsa fel a szanszkrit összetételeket:**
+**B) Fordítsa le, és bontsa fel a szanszkrit összetételeket:** <!-- TODO: Fallback translation -->
 
 ⟪धर्मं⟫ ⟪वदति⟫ ⟪गुरौ⟫ ⟪दुर्जना⟫ ⟪न⟫ ⟪शृण्वन्ति⟫ ⟪॥१॥⟫
 
@@ -306,7 +317,7 @@ Kép: ⟪नराः⟫
 Naran. Udaipur.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2711))
 :::
-### 27.7.2. semlegesnemok -a végződéssel: ⟪फल⟫
+### 27.7.2. semlegesnemok -a végződéssel: ⟪फल⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -327,7 +338,7 @@ Kép: ⟪फलानि⟫
 Gyümölcsök. Bangalore.
 (Képmegjelenés: [Részletek](/hu/licenses#lekt2710))
 :::
-### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
+### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -369,7 +380,7 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Cham
 Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Beato (1833/1834 - ca. 1907).
 (Képforrás: [Részletek](/hu/licenses#lekt2712))
 :::
-### 27.7.5. Feminina auf -i: ⟪मति⟫
+### 27.7.5. Feminina auf -i: ⟪मति⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -405,7 +416,7 @@ Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Bea
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Képforrás: [Részletek](/hu/licenses#lekt2713))
 :::
-### 27.7.7. Feminina auf -u: ⟪धेनु⟫
+### 27.7.7. Feminina auf -u: ⟪धेनु⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -426,7 +437,7 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 Kuh in Udaipur.
 (Képforrás: [Részletek](/hu/licenses#lekt2714))
 :::
-### 27.7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫
+### 27.7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -447,7 +458,7 @@ Kuh in Udaipur.
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Képforrás: [Részletek](/hu/licenses#lekt2715))
 :::
-### 27.7.9. Partizip Jelen idő Parasmaipada auf -ant: ⟪सन्त्⟫
+### 27.7.9. Partizip Jelen idő Parasmaipada auf -ant: ⟪सन्त्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -459,7 +470,7 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 | **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪सते⟫ || ⟪सद्भ्यस्⟫ ||
 | **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪सतस्⟫ || ⟪सद्भ्यस्⟫ ||
 | **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪सतस्⟫ || ⟪सताम्⟫ ||
-| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪सति⟫ || ⟪सत्सु⟫ ||
+| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪सति⟫ || ⟪सत्सु⟫ || <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -468,7 +479,7 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 Sai Baba of Shirdi (1835 - 1918).
 (Képforrás: [Részletek](/hu/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫
+### 27.7.10. ⟪महान्त्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -480,10 +491,10 @@ Sai Baba of Shirdi (1835 - 1918).
 | **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪महते⟫ || ⟪महद्भ्यस्⟫ ||
 | **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪महतस्⟫ || ⟪महद्भ्यस्⟫ ||
 | **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪महतस्⟫ || ⟪महताम्⟫ ||
-| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
+| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ || <!-- TODO: Fallback translation -->
 
 :::
-### 27.7.11. Maskulina und Neutra auf -vant / -mant: ⟪गुणवन्त्⟫
+### 27.7.11. Maskulina und Neutra auf -vant / -mant: ⟪गुणवन्त्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -495,7 +506,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪गुणवते⟫ || ⟪गुणवद्भ्यस्⟫ ||
 | **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪गुणवतस्⟫ || ⟪गुणवद्भ्यस्⟫ ||
 | **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪गुणवतस्⟫ || ⟪गुणवताम्⟫ ||
-| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
+| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ || <!-- TODO: Fallback translation -->
 
 :::
 ### 27.7.12. Demonstrativpronomina: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
@@ -510,7 +521,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪तस्मै⟫ || ⟪तस्यै⟫ | ⟪तेभ्यस्⟫ || ⟪ताभ्यस्⟫ |
 | **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪तस्मात्⟫ || ⟪तस्यास्⟫ | ⟪तेभ्यस्⟫ || ⟪ताभ्यस्⟫ |
 | **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪तस्य⟫ || ⟪तस्यास्⟫ | ⟪तेषाम्⟫ || ⟪तासाम्⟫ |
-| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪तस्मिन्⟫ || ⟪तस्याम्⟫ | ⟪तेषु⟫ || ⟪तासु⟫ |
+| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪तस्मिन्⟫ || ⟪तस्याम्⟫ | ⟪तेषु⟫ || ⟪तासु⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -553,7 +564,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪यस्मै⟫ || ⟪यस्यै⟫ | ⟪येभ्यस्⟫ || ⟪याभ्यस्⟫ |
 | **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪यस्मात्⟫ || ⟪यस्यास्⟫ | ⟪येभ्यस्⟫ || ⟪याभ्यस्⟫ |
 | **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪यस्य⟫ || ⟪यस्यास्⟫ | ⟪येषाम्⟫ || ⟪यासाम्⟫ |
-| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪यस्मिन्⟫ || ⟪यस्याम्⟫ | ⟪येषु⟫ || ⟪यासु⟫ |
+| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪यस्मिन्⟫ || ⟪यस्याम्⟫ | ⟪येषु⟫ || ⟪यासु⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ### 27.7.14. Kérdőszavak: ⟪किम्⟫
@@ -568,7 +579,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪कस्मै⟫ || ⟪कस्यै⟫ | ⟪केभ्यस्⟫ || ⟪काभ्यस्⟫ |
 | **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪कस्मात्⟫ || ⟪कस्यास्⟫ | ⟪केभ्यस्⟫ || ⟪काभ्यस्⟫ |
 | **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪कस्य⟫ || ⟪कस्यास्⟫ | ⟪केषाम्⟫ || ⟪कासाम्⟫ |
-| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪कस्मिन्⟫ || ⟪कस्याम्⟫ | ⟪केषु⟫ || ⟪कासु⟫ |
+| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪कस्मिन्⟫ || ⟪कस्याम्⟫ | ⟪केषु⟫ || ⟪कासु⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ::: media

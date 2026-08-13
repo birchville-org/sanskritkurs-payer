@@ -3,7 +3,7 @@ title: Lektion 19
 lesson_id: 19
 ---
 
-# 19. lecke
+# 19. lecke <!-- TODO: Fallback translation -->
 
 ## 19.1. A viszonyító mondat
 
@@ -11,12 +11,12 @@ lesson_id: 19
 
 **Séma:**
 
-**Viszonyos névmás -- Viszonyos mondat, amely tartalmazza azt a főnevet, amire a viszonyos mondat hivatkozik -- (Mutató névmás) -- Főmondat**
+**Viszonyos névmás -- Viszonyos mondat, amely tartalmazza azt a főnevet, amire a viszonyos mondat hivatkozik -- (Mutató névmás) -- Főmondat** <!-- TODO: Fallback translation -->
 
-**A viszonyos mondat a főmondat után is állhat, de nem illeszthető be a főmondatba.**
+**A viszonyos mondat a főmondat után is állhat, de nem illeszthető be a főmondatba.** <!-- TODO: Fallback translation -->
 
 **A viszonyos névmás és az arra utaló szó, amely – ellentétben a némettel – a viszonyos mondatban áll, abban az esetségben vannak, amelyet a viszonyos mondat szintaktikailag megkövetel. A mutató névmás abban az esetségben van, amelyet a főmondat szintaktikailag megkövetel.**
-:::
+::: <!-- TODO: Fallback translation -->
 
 Példák:
 
@@ -32,22 +32,22 @@ Megjegyzés: Általános érvényű viszonylagos mondatokban gyakran az optativu
 ::: indent
 ⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "Az istenek megvédik azt a brahmanát, aki nekük áldozati úrként áldoz."
 :::
-**3. A főmondat névmásának pontosabb meghatározása a mellékmondatban áll:**
+**3. A főmondat névmásának pontosabb meghatározása a mellékmondatban áll:** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "A rossz cselekedeteket elkövető férfiak fiait nem éri jav."
 :::
-**4. A viszonyító névmás és a vonatkozó szó birtokos esetben áll (⟪षष्ठी⟫):**
+**4. A viszonyító névmás és a vonatkozó szó birtokos esetben áll (⟪षष्ठी⟫):** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "Nem boldog az a férfi, akinek fiait rossz cselekedetek érik."
 :::
-**5. A viszonyító névmás és a vonatkozó szó eszközhatározó esetben áll (⟪तृतीया⟫):**
+**5. A viszonyító névmás és a vonatkozó szó eszközhatározó esetben áll (⟪तृतीया⟫):** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "Gyűlölik a ellenséget, aki legyőzte / elfoglalta a falvukat."
 :::
-**6. A viszonyító névmás és a vonatkozó szó tárgyesetben áll (⟪द्वितीया⟫):**
+**6. A viszonyító névmás és a vonatkozó szó tárgyesetben áll (⟪द्वितीया⟫):** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "Azt az embert, akit istennő véd, boldogság ér."
@@ -56,7 +56,7 @@ Megjegyzés: Általános érvényű viszonylagos mondatokban gyakran az optativu
 
 ::: grammar-box
 
-**⟪यद्⟫ "melyik, melyik, amely" deklineálva mint ⟪तद्⟫, de szabályos szandhival.**
+**⟪यद्⟫ "melyik, melyik, amely" deklineálva mint ⟪तद्⟫, de szabályos szandhival.** <!-- TODO: Fallback translation -->
 
 | | | **hímnem** :br ⟪पुंस्⟫ | **semlegesnem** :br ⟪नपुंसक⟫ | **nőnem** :br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
@@ -67,9 +67,9 @@ Megjegyzés: Általános érvényű viszonylagos mondatokban gyakran az optativu
 | **többes szám** :br ⟪बहुवचन⟫ | **1. alanyeset (nominativus)** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. tárgyeset (accusativus)** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. eszközhatározó eset (instrumentalis)** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. birtokos eset (genitivus)** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
+| | **6. birtokos eset (genitivus)** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
 
-**Összetételek előtagjaként a ⟪यद्⟫ tő jelenik meg (a szandhi figyelembevételével).**
+**Összetételek előtagjaként a ⟪यद्⟫ tő jelenik meg (a szandhi figyelembevételével).** <!-- TODO: Fallback translation -->
 
 :::
 
@@ -80,7 +80,7 @@ Megjegyzés: Általános érvényű viszonylagos mondatokban gyakran az optativu
 ⟪अर्थ⟫ az élet három rendeltetése (⟪पुरुषार्थ⟫) egyike, ahogyan azt a világi és vallási irodalom leírja:
 
 ::: indent
-**⟪धर्म⟫ m.:** a cselekvésből fakadó érdem megszerzése, ami helyes; vagy legalábbis a rossz elkerülése, amely a dharma nem követéséből eredne
+**⟪धर्म⟫ m.:** a cselekvésből fakadó érdem megszerzése, ami helyes; vagy legalábbis a rossz elkerülése, amely a dharma nem követéséből eredne <!-- TODO: Fallback translation -->
 
 **⟪अर्थ⟫ m.:** célszerű viselkedés, jólét megszerzése
 
@@ -118,7 +118,7 @@ a(z) ⟪स्था⟫ :
 Badami (ಬದಾಮಿ)
 (Képforrás: [Részletek](/hu/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** vízadó = esőfelhő
+**⟪वारिद⟫ m.:** vízadó = esőfelhő <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1902.jpg)
@@ -151,7 +151,7 @@ belőle:
 ⟪१९५९⟫
 (Képmegjelenés: [Részletek](/hu/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1. Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** lakik valakinél, benépesít (Tárgy., Helyes.) ; felkeres, megtesz utat valakihez (Tárgy.) ; szolgál, gondoskodik, tisztel ; gyakorol, használ ; jelen van, közösül
+**⟪सेव्⟫ 1. Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** lakik valakinél, benépesít (Tárgy., Helyes.) ; felkeres, megtesz utat valakihez (Tárgy.) ; szolgál, gondoskodik, tisztel ; gyakorol, használ ; jelen van, közösül <!-- TODO: Fallback translation -->
 
 **⟪नि⟫ Előtag:** le, be
 
@@ -159,7 +159,7 @@ belőle:
 
 **⟪अमुत्र⟫ :** ott, a túlvilágon
 
-**⟪इह⟫ :** itt, a ezen a világon
+**⟪इह⟫ :** itt, a ezen a világon <!-- TODO: Fallback translation -->
 
 **⟪विद्⟫ 6. U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** találni
 
@@ -177,7 +177,7 @@ belőle:
 
 **Fordítsa szanszkritra:**
 
-A Vaiśya-asszony, akinek fia meghalt, sír.
+A Vaiśya-asszony, akinek fia meghalt, sír. <!-- TODO: Fallback translation -->
 
 Rāma áldoz a nála őrködő istenségnek.
 
@@ -205,7 +205,7 @@ Magyarázat: ⟪वारि⟫ nominativus, akkuzatívus egyes szám a követke
 ⟪धर्मार्थकामसंयोगं⟫  
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
 :::
-Magyarázat: ⟪यथाकालम्⟫ avyayībhāva-kompozitum: a megfelelő időben; mindig, ha éppen az ideális pillanat áll fenn.
+Magyarázat: ⟪यथाकालम्⟫ avyayībhāva-kompozitum: a megfelelő időben; mindig, ha éppen az ideális pillanat áll fenn. <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
@@ -224,7 +224,7 @@ Magyarázat: ⟪पुमान्⟫ alanyeset (nominativus) egyes szám a köv
 
 **lekt1809:** Illusztráció a ⟪कामसूत्र⟫ [Képmegjelölés: Wikipedia, Közterület]
 
-**lekt1901:** Badami (ಬದಾಮಿ) [Képmegjelölés: Sudarshan Bhat Khandige / Wikipedia, Közterület]
+**lekt1901:** Badami (ಬದಾಮಿ) [Képmegjelölés: Sudarshan Bhat Khandige / Wikipedia, Közterület] <!-- TODO: Fallback translation -->
 
 **lekt1902:** Goa (⟪गोंय⟫) [Képmegjelölés: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Hozzáférés: 2008-12-08. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, származékos művek tilalma)]
 

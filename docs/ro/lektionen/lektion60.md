@@ -194,7 +194,7 @@ Exemple:
 
 Exemplu: ⟪विदुषी⟫ "o înțeleaptă"
 :::
-Paradigme vezi Kielhorn, Gramatică § 124:
+Paradigme vezi Kielhorn, Gramatică § 124: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6001.webp)
@@ -232,7 +232,7 @@ Paradigme vezi Kielhorn, Gramatică § 124:
 
 Exemplu: ⟪प्रतीची⟫
 :::
-####  Vezi paradigmă la Kielhorn, Gramatikă § 128:
+####  Vezi paradigmă la Kielhorn, Gramatikă § 128: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6003.webp)
@@ -243,7 +243,7 @@ Exemplu: ⟪प्रतीची⟫
 ![](/images/lekt6004.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6004))
 :::
-Aici apar:
+Aici apar: <!-- TODO: Fallback translation -->
 
 *   ⟪प्रत्यञ्च्⟫ 3 "înapoi, spre vest"
 
@@ -359,16 +359,20 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
 **Privind reduplicarea:**
 
 1.  Rădăcinile care încep cu consoană: Reduplicarea se face pe rădăcinile modificate conform regulilor de mai sus, după regulile obișnuite. În loc de a ca vocală de reduplicare apare i:  
-    ⟪पा⟫ » ⟪पिपास⟫-  
-    ⟪त्यज्⟫ » ⟪तित्यज⟫-  
-    ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
-    Cerebralizarea după i/u a -s final al rădăcinii nu are loc, dacă s al sufixului desiderativ este cerebralizat:  
-    ⟪स्मि⟫ » ⟪सिस्मयिष⟫-  
+::: indent
+⟪पा⟫ » ⟪पिपास⟫-
+⟪त्यज्⟫ » ⟪तित्यज⟫-
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-
+Cerebralizarea după i/u a -s final al rădăcinii nu are loc, dacă s al sufixului desiderativ este cerebralizat:
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+:::
 
 2.  Rădăcinile care încep cu vocală sunt reduplicate conform regulilor corespunzătoare pentru aoristul reduplicat ([Lecția 56](lektion56.md)):  
-    ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
-    ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-    ⟪ऋ⟫ » ⟪अरिरिष⟫-  
+::: indent
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
+⟪ऋ⟫ » ⟪अरिरिष⟫-
+:::
 
 3.  Formarea specială a desiderativelor pentru anumite rădăcini se găsește la Kielhorn, Gramatik § 451.
 :::
@@ -401,7 +405,7 @@ Pasiv: ⟪यियक्ष्यते⟫ "se dorește sacrificarea"
 ::: indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "el dorise să obțină"
 :::
-**Aorist: iṣ-Aorist:**
+**Aorist: iṣ-Aorist:** <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)

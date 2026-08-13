@@ -3,7 +3,7 @@ title: Lektion 19
 lesson_id: 19
 ---
 
-# Lektion 19
+# Lekcija 19
 
 ## 19.1. Der Relativsatz
 

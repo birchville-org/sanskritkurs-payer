@@ -9,9 +9,9 @@ status: stable
 
 # Luento 46
 
-## 46.1. Toisen persoonan verbimuotojen muodostus (⟪मध्यमः⟫) Perfekti (⟪लिट्⟫)
+## 46.1. Toisen persoonan verbimuotojen muodostus (⟪मध्यमः⟫) Perfekti (⟪लिट्⟫) <!-- TODO: Fallback translation -->
 
-### 46.1.1. Päätteet
+### 46.1.1. Päätteet <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -19,24 +19,24 @@ status: stable
 | **Perfektilpäätteet** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ^^ \-tha | \-a | \-se | \-dhve | \-dhve |
 :::
-Huomaa, että pääte -- useimmiten ei kuitenkaan muoto! -- 2.pl.p. täsmää 1. ja 3.sg.p. kanssa.
+Huomaa, että pääte -- useimmiten ei kuitenkaan muoto! -- 2.pl.p. täsmää 1. ja 3.sg.p. kanssa. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Päättteen -tha edellä useimmissa juurissa, jotka päättyvät -ṛ, ei ole liitinvokaalia \-i-. Joissakin juurissa \-i- on -tha:n edellä valinnainen.
 :::
-### 46.1.2. Päättteen -dhve äänteenmuutos
+### 46.1.2. Päättteen -dhve äänteenmuutos <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Die Pääte -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Perfekti tyyppi I: ei vartalon astevaihtelua
+### 46.1.3. Perfekti tyyppi I: ei vartalon astevaihtelua <!-- TODO: Fallback translation -->
 
-Tähän tyyppiin kuuluvat verbit:
+Tähän tyyppiin kuuluvat verbit: <!-- TODO: Fallback translation -->
 
 *   Konsonantipitkä vokalikonsonantti
 *   Konsonantivokonantikonsonanttikonsonantti
 *   a-konsonantti(-konsonantti)
-*   ā-Konsonant
+*   ā-Konsonant <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1.p = 3.p = 2.pl.p
@@ -65,9 +65,9 @@ Tähän tyyppiin kuuluvat verbit:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
-### 46.1.4. Perfekti tyyppi II: vahva vartalo korkeatasoinen, heikko vartalo matalatasoinen
+### 46.1.4. Perfekti tyyppi II: vahva vartalo korkeatasoinen, heikko vartalo matalatasoinen <!-- TODO: Fallback translation -->
 
-Tähän tyyppiin kuuluvat verbit:
+Tähän tyyppiin kuuluvat verbit: <!-- TODO: Fallback translation -->
 
 *   (Konsonantti-)i/u/ṛ/ḷ-konsonantti
 
@@ -87,9 +87,9 @@ Tähän tyyppiin kuuluvat verbit:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekti tyyppi III: Vahva vartalo korkea-aste/pidennysaste
+### 46.1.5. Perfekti tyyppi III: Vahva vartalo korkea-aste/pidennysaste <!-- TODO: Fallback translation -->
 
-#### 46.1.5.1. Perfekti tyyppi IIIa: Vahva vartalo korkea-aste/pidennysaste, heikko vartalo matala-aste
+#### 46.1.5.1. Perfekti tyyppi IIIa: Vahva vartalo korkea-aste/pidennysaste, heikko vartalo matala-aste <!-- TODO: Fallback translation -->
 
 Verbit, jotka noudattavat tätä tyyppiä:
 
@@ -128,7 +128,7 @@ Verbit, jotka noudattavat tätä tyyppiä:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfekti tyyppi IIIb: Vahva vartalo korkeatasoinen/pitkennetty aste, heikko vartalo korkeatasoinen
+#### 46.1.5.2. Perfekti tyyppi IIIb: Vahva vartalo korkeatasoinen/pitkennetty aste, heikko vartalo korkeatasoinen <!-- TODO: Fallback translation -->
 
 Verbit, jotka noudattavat tätä tyyppiä:
 
@@ -155,7 +155,7 @@ Verbit, jotka noudattavat tätä tyyppiä:
 
 *   Heikko vartalo:
     *   konsonantin edellä: syväaste-i
-    *   vokaalin edellä: syväaste-ø
+    *   vokaalin edellä: syväaste-ø <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U
 
@@ -173,9 +173,9 @@ Verbit, jotka noudattavat tätä tyyppiä:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekti tyyppi V: Konsonant-a-Konsonant
+### 46.1.7. Perfekti tyyppi V: Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
 
-#### 46.1.7.1. Perfekti tyyppi Va: Konsonant-a-Konsonant, heikko vartalo syväaste
+#### 46.1.7.1. Perfekti tyyppi Va: Konsonant-a-Konsonant, heikko vartalo syväaste <!-- TODO: Fallback translation -->
 
 Verbit, jotka seuraavat tätä tyyppiä:
 
@@ -252,12 +252,12 @@ Verbit, jotka seuraavat tätä tyyppiä:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
-#### 46.1.7.2. Perfekti tyyppi Vb: Konsonant-a-Konsonant, alkonsonantti ei ole gutturaali, aspirointi tai h, heikko vartalo ilman reduplikaatiota, -e-:lla
+#### 46.1.7.2. Perfekti tyyppi Vb: Konsonant-a-Konsonant, alkonsonantti ei ole gutturaali, aspirointi tai h, heikko vartalo ilman reduplikaatiota, -e-:lla <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 2.sg.P muodostetaan heikosta vartalosta, kun liitinvokaali -i- tulee käyttöön.
 :::
-⟪पच्⟩ 1U
+⟪पच्⟩ 1U <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -326,7 +326,7 @@ Perifraastinen perfekti muodostetaan seuraavista:
     *   bhī "pelätä"
     *   bhṛ "kantaa"
     *   hu "uhrata"
-    *   hrī "häpeillä"
+    *   hrī "häpeillä" <!-- TODO: Fallback translation -->
 
 ⟪बन्ध्⟫ Kausatiiivi
 
@@ -338,7 +338,7 @@ Perifraastinen perfekti muodostetaan seuraavista:
 :::
 ## 46.2. Sanalista
 
-⟪सम⟫ 3: yhtä, juuri, samankaltainen
+⟪सम⟫ 3: yhtä, juuri, samankaltainen <!-- TODO: Fallback translation -->
 
 ::: indent
 siitä:
@@ -347,7 +347,7 @@ siitä:
 ⟪विषम⟫ 3: epätasainen, tasapainoton, paha
 
 :::
-⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : tarttua, ottaa kiinni, käsittää
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : tarttua, ottaa kiinni, käsittää <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
@@ -368,7 +368,7 @@ siitä:
 6.  ⟪शुक्रः⟫ = Venus
 7.  ⟪शनिः⟫ = Saturnus
 8.  ⟪राहुः⟫
-9.  ⟪केतुः⟫
+9.  ⟪केतुः⟫ <!-- TODO: Fallback translation -->
 
 :::
 Katso ⟪राहु⟫ ja ⟪केतु⟫:
@@ -384,20 +384,20 @@ Kuv.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गल
 ![](/images/lekt4603.webp)
 Kuv.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/fi/licenses#lekt4603)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4603))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4604.webp)
 Kuva: [⟪शुक्रः⟫, ⟪शनिः⟫](/fi/licenses#lekt4604)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4604))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4605.webp)
 Kuva: [⟪राहुः⟫, ⟪केतुः⟫](/fi/licenses#lekt4605)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : tyytyä, olla tyytyväinen (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : tyytyä, olla tyytyväinen (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -408,7 +408,7 @@ PPP ⟪तुष्ट⟫
 Inf. ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : taivuttaa, kumartua, kallistua, kumartaa
+⟪नम्⟫ 1P ⟪नमति⟫ : taivuttaa, kumartua, kallistua, kumartaa <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
@@ -424,7 +424,7 @@ Inf. ⟪नन्तुम्⟫
 Kuva: [⟪नारायण⟩ ⟪तुभ्यं⟩ ⟪नमामि⟩](/fi/licenses#lekt4607)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4607))
 :::
-⟪रुह्⟩ 1P ⟪रोहति⟩ : valloittaa, nousta
+⟪रुह्⟩ 1P ⟪रोहति⟩ : valloittaa, nousta <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪रुरोह⟩, ⟪रुरुहे⟩  
@@ -440,7 +440,7 @@ Inf. ⟪रोढुम्⟩
 Kuva: [⟪अश्वरोहकः⟩](/fi/licenses#lekt4606)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4606))
 :::
-⟪ह्वे⟩ ⟪।⟩ ⟪हू⟩ 1U ⟪ह्वयति⟩ : kutsua, kutsua paikalle
+⟪ह्वे⟩ ⟪।⟩ ⟪हू⟩ 1U ⟪ह्वयति⟩ : kutsua, kutsua paikalle <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
@@ -456,10 +456,10 @@ Absol. -⟪हूय⟫
 ![](/images/lekt4608.webp)
 Kuva: [⟪महामात्र⟩ ⟪कं⟩ ⟪चरिष्णुदूरशब्देनाह्वयसि](/fi/licenses#lekt4608)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4608))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
-1 ⟪महामात्र⟩ m. "Elefantinhoidaja"; ⟪चरिष्णु⟩ 3 "liikkuva", ⟪दूरशब्द⟩ m. "etäpuhe, puhelin" » ⟪चरिष्णुदूरशब्द⟩ "matkapuhelin" (sanamuodostus: A. Payer)
+1 ⟪महामात्र⟩ m. "Elefantinhoidaja"; ⟪चरिष्णु⟩ 3 "liikkuva", ⟪दूरशब्द⟩ m. "etäpuhe, puhelin" » ⟪चरिष्णुदूरशब्द⟩ "matkapuhelin" (sanamuodostus: A. Payer) <!-- TODO: Fallback translation -->
 
 :::
 ⟪विभ्रम⟩ m.: meneminen ja tuleminen
@@ -485,7 +485,7 @@ siitä:
 Kuv.: [⟪श्रान्तः⟫](/fi/licenses#lekt4609)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4609))
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫: nojata, nojautua, löytää tukea, hakeutua jonkun luo (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+⟪श्रि⟫ 1U ⟪श्रयति⟫: nojata, nojautua, löytää tukea, hakeutua jonkun luo (⟪द्वितीयया⟫, ⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
@@ -514,7 +514,7 @@ siitä:
 Kuv.: [⟪सङ्गः⟫](/fi/licenses#lekt4610)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4610))
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : juosta, kiirehtiä
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : juosta, kiirehtiä <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
@@ -556,7 +556,7 @@ Absol. -⟪लम्ब्य⟫
 Kuv.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/fi/licenses#lekt4601)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : tarttua (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : tarttua (⟪द्वितीयया⟫) <!-- TODO: Fallback translation -->
 
 ⟪यदि⟫ konjunktio:  jos
 
@@ -566,7 +566,7 @@ Kuv.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/fi/
 PPP ⟪परिभूत⟫ 3: voitettu, nöyryytetty, alentunut
 
 :::
-⟪नि⟫ Preverb: alas, alaspäin, sisään, taaksepäin
+⟪नि⟫ Preverb: alas, alaspäin, sisään, taaksepäin <!-- TODO: Fallback translation -->
 
 ::: indent
 esim.
@@ -580,9 +580,9 @@ esim.
 Kuva: [⟪भोः⟫](/fi/licenses#lekt4611)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4611))
 :::
-## 46.3. Harjoitus
+## 46.3. Harjoitus <!-- TODO: Fallback translation -->
 
-A) Määritä ja käännä seuraavat muodot:
+A) Määritä ja käännä seuraavat muodot: <!-- TODO: Fallback translation -->
 
 1.  ⟪वित्थ⟫
 2.  ⟪वेत्थ⟫
@@ -658,11 +658,11 @@ Kuva: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪�
 
 ::: deleteme-box
 
-Navagraha-kuvien lähde: Redtigerxyz / Wikipedia. GNU FDLicense
+Navagraha-kuvien lähde: Redtigerxyz / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
 
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, n. 1870). Lähde: Wikipedia. Julkinen omaisuus
+L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, n. 1870). Lähde: Wikipedia. Julkinen omaisuus <!-- TODO: Fallback translation -->
 
-L4606: ⟪अश्वरोहकः⟫, Pune=⟪पुणे⟫. Lähde: wili_hybrid, Flickr, CC BY 2.0
+L4606: ⟪अश्वरोहकः⟫, Pune=⟪पुणे⟫. Lähde: wili_hybrid, Flickr, CC BY 2.0 <!-- TODO: Fallback translation -->
 
 L4608: Udaipur. Lähde: Travel Aficionado, Flickr, CC BY-NC 2.0
 

@@ -37,7 +37,7 @@ A) Muodosta passiivi seuraaville verbimuodoille (verbimuodon käännös mukana),
 
 B) Muodosta instrumentaalin yksikkö ja monikko kaikille aiemmin opetuissa oleviin substantiiveihin
 
-C) Muunna seuraavat lauseet passiiviin ja käännä ne:
+C) Muunna seuraavat lauseet passiiviin ja käännä ne: <!-- TODO: Fallback translation -->
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 
@@ -83,11 +83,11 @@ anena kavinā mantraḥ smaryate.
 
 8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
 
-anayā devyā kṣatriyā rakṣyante.
+anayā devyā kṣatriyā rakṣyante. <!-- TODO: Fallback translation -->
 
 ⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 vaihtoehtoa)
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 vaihtoehtoa) <!-- TODO: Fallback translation -->
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
@@ -105,7 +105,7 @@ vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
 
 ⟪वैश्यैरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्यैरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 
-Vaiśyat / Vaiśyanaiset menevät tähän kylään.
+Vaiśyat / Vaiśyanaiset menevät tähän kylään. <!-- TODO: Fallback translation -->
 
 12\. ete gurūṃstu śṛṇvanti. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 
@@ -146,7 +146,7 @@ kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
 ⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪॥⟫
 
-Mit ketkä soturit taistelevat (yhdessä) kṣatriyoiden kanssa?
+Mit ketkä soturit taistelevat (yhdessä) kṣatriyoiden kanssa? <!-- TODO: Fallback translation -->
 
 D) Käännä sanskritiksi:
 
@@ -156,7 +156,7 @@ brāhmano vaiśyena saha grāmaṃ gacchati.
 
 ⟪ब्राह्मणो⟫ ⟪वैश्येन⟫ ⟪सह⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 
-2\. Hän palvoo Viṣṇua uhrikäytännöllä. (Ilmaise uhri sanalla yajña!)
+2\. Hän palvoo Viṣṇua uhrikäytännöllä. (Ilmaise uhri sanalla yajña!) <!-- TODO: Fallback translation -->
 
 yajñena viṣṇuṃ yajati / yajate.
 
@@ -180,13 +180,13 @@ gurubhiḥ pṛcchyate.
 
 ⟪गुरुभिः⟫ ⟪प्र्च्छ्यते⟫ ⟪।⟫
 
-6\. Silmä johtaa. (Passiivirakenne) (Silmä ja korva käytetään yleensä duaalissa)
+6\. Silmä johtaa. (Passiivirakenne) (Silmä ja korva käytetään yleensä duaalissa) <!-- TODO: Fallback translation -->
 
 netreṇa nīyate.
 
 ⟪नेत्रेण⟫ ⟪नीयते⟫ ⟪।⟫
 
-7\. Runoilija näkee jumaluuden. (Passiivirakenne)
+7\. Runoilija näkee jumaluuden. (Passiivirakenne) <!-- TODO: Fallback translation -->
 
 kavinā devatā dṛśyate.
 
@@ -198,7 +198,7 @@ kayā bālā rakṣyate.
 
 ⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
 
-9\. Kṣatriya palvoi HERRTAA uhrikäytännöllä. (Passiivirakenne, älä käytä sanaa yajña)
+9\. Kṣatriya palvoi HERRTAA uhrikäytännöllä. (Passiivirakenne, älä käytä sanaa yajña) <!-- TODO: Fallback translation -->
 
 kṣatriyeṇeśvara ijyate.
 
@@ -215,11 +215,11 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 Kuv.: ⟪ग्रामः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung011))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Luentoharjoitus
 
-Lue ja käännä sekä muunna passiiviin:
+Lue ja käännä sekä muunna passiiviin: <!-- TODO: Fallback translation -->
 
 ⟪क⟫
 
@@ -237,7 +237,7 @@ Lue ja käännä sekä muunna passiiviin:
 Kärpäset toivovat haavoja,
 Kuninkaat toivovat rikkautta,
 Alhaiset toivovat riitoja,
-Pyhimykset toivovat rauhaa.
+Pyhimykset toivovat rauhaa. <!-- TODO: Fallback translation -->
 
 ⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ |
 ⟪नरा⟫ ⟪देवैः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫
@@ -326,4 +326,4 @@ Vahtimestari ohjaa vaunua.
 ![](/images/uebung012.webp)
 Kuv.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Kuv lähde: [Details](/licenses#uebung012))
-:::
+::: <!-- TODO: Fallback translation -->

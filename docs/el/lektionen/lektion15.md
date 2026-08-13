@@ -42,7 +42,7 @@ status: stable
 > Ον. πληθ. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > κ.ο.κ.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. Προσδιοριστικά σύνθετα με επιθετικό / παραθετικό πρώτο συνθετικό = Karmadhāraya αρσ. = ⟪कर्मधारय⟫
@@ -71,16 +71,20 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   εάν ένα Κarmadhāraya εκφράζει μια ΣΥΓΚΡΙΣΗ, τότε αυτό με το οποίο γίνεται η σύγκριση βρίσκεται στο δεύτερο μέρος της σύνθετης λέξης:
 
+::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ένας άνδρας σαν ένα λιοντάρι"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ένας άνδρας σαν μια τίγρη"
+:::
 
 *   εάν όμως ένα Κarmadhāraya εκφράζει μια απόθεση (πιο στεκός προσδιορισμός του δεύτερου μέρους με ένα ουσιαστικό), τότε το πιο στεκός προσδιορισμός βρίσκεται στο πρώτο μέρος, όπως επίσης η γενική κανόνας για τη σειρά των μερών σε ένα Tatpuruṣa απαιτεί:
 
+::: indent
 ⟪नरसिंहः⟫ μπορεί επίσης να αναλυθεί: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = «Ένας λέων, ο οποίος (στην πραγματικότητα) είναι άνθρωπος.»
+:::
 
 Τέτοια επιθετικά Karmadhāraya αναλύονται στις εγχώριες σχολές, όπως στο παραπάνω παράδειγμα, μέσω ⟪एव⟫.
 

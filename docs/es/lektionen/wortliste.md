@@ -150,7 +150,7 @@ Fig.: Sādhu (⟪साधु⟫), Templo Pashupatinath, Katmandú.
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : brahmán mujer.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya mujer.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya mujer. &lt;!-- TODO: Fallback translation --&gt;
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : esposa de un kṣatriya.
 
@@ -454,7 +454,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : preguntar
-  - **praśna** m. ⟪प्रश्न⟫ : pregunta (sufijo **-na** como en **yaj-ña**)
+  - **praśna** m. ⟪प्रश्न⟫ : pregunta (sufijo **-na** como en **yaj-ña**) &lt;!-- TODO: Fallback translation --&gt;
 
 - **iṣ** 6 P ⟪इष्⟫ : desear
   - **iṣṭi** f. ⟪इष्टि⟫ : deseo (**iṣ** + **-ti**)
@@ -566,15 +566,15 @@ Aprenda las siguientes palabras:
 - **asura** m. ⟪असुर⟫ : demonio
 
 > **ASURA.** 'Espiritual, divino.'
->
+&gt;
 > En las partes más antiguas del Ṛgveda, este término se utiliza para el espíritu supremo, y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios', se aplicó a varios de los dioses principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado completamente opuesto, y pasó a significar, como ahora, un demonio o enemigo de los dioses.
->
+&gt;
 > La palabra se encuentra con esta significación en las partes posteriores del Ṛgveda, particularmente en el último libro, y también en el Atharvaveda. Los Brāhmaṇas le atribuyen el mismo significado, y registran muchos enfrentamientos entre los Asuras y los dioses. Según el Taittirīya Brāhmaṇa, el aliento *(asu)* de Prajapati se volvió vivo, y "con ese aliento me creó como Asuras." En otra parte de la misma obra se dice que Prajāpati "quedó embarazado. Creó Asuras de su abdomen." El Śatapatha Brāhmaṇa coincide con la declaración anterior, y establece que "creó Asuras de su aliento inferior." El Taittirīya Āraṇyaka representa que Prajāpati creó dioses, hombres, padres, Gandharvas y Apsarases del agua, y que los Asuras, Rakṣasas y piśācas surgieron de las gotas que se derramaron. La declaración de Manu es que fueron creados por los Prajāpatis.
->
+&gt;
 > Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). La cuenta del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (de Prajāpati) vientre. *Asu* es declarado por el Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras." La palabra ha sido utilizada durante mucho tiempo como un nombre general para los enemigos de los dioses, incluyendo a los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo a los Rakṣasas descendientes de Pulastya.
->
+&gt;
 > En este sentido se ha encontrado una derivación diferente para ella: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura*, comúnmente utilizada para 'un dios.'"
->
+&gt;
 > [Fuente: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
@@ -776,7 +776,7 @@ de ello:
 
 ⟪निरोध⟫ m.: Detener, hacer detenerse
 
-* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, fantasma
+* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, fantasma &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪योग⟫ m.: Enganche, conexión, unión, adquisición; Yoga
 
@@ -1180,7 +1180,7 @@ derivados de ello:
 ::: indent
 **⟪चर⟫ ⟪३⟫:** móvil; n.: lo movible = animales (en contraste con las plantas)
 
-**⟪चरण⟫** n., m.: pie
+**⟪चरण⟫** n., m.: pie &lt;!-- TODO: Fallback translation --&gt;
 
 **⟪चरित⟫** n.: modo de vida, hazañas vitales
 
@@ -1452,7 +1452,7 @@ Láb.: ⟪मूलानि⟫
 > 
 > de ello:
 > 
-> \> ⟪विवाह⟫ m.: llevarse, matrimonio de una mujer (Instr., saha) (para el matrimonio ver Basham, Wonder p. 166 -171)
+> \&gt; ⟪विवाह⟫ m.: llevarse, matrimonio de una mujer (Instr., saha) (para el matrimonio ver Basham, Wonder p. 166 -171)
 
 ::: media
 ![](/images/lekt2504.webp)
@@ -1509,7 +1509,10 @@ Fig.: ⟪हिरण्यम्⟫
 **⟪वस्⟫** 1P (⟪वसति⟫): permanecer, habitar (con el locativo de la persona con quien se habita)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br**Pass.:** ⟪उष्यते⟫:br**PPP:** ⟪उषित⟫:br**Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫
+**Pass.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Inf.:** ⟪वस्तुम्⟫
 :::
 de ello:
 
@@ -1523,7 +1526,9 @@ de ello:
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): ponerse (la ropa), llevar (la ropa)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br**PPP:** ⟪वसित⟫:br**Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 de ello:
 
@@ -1550,7 +1555,10 @@ Fig.: ⟪वसन्तः⟫
 **⟪हृ⟫** 1U (⟪हरति⟫): sostener, llevar; traer, quitar, robar
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br**Pass.:** ⟪ह्रियते⟫:br**PPP:** ⟪हृत⟫:br**Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 de ello:
 
@@ -1601,7 +1609,7 @@ Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Kaus. **kāmayati**
 PPP **kānta** (!)
-Inf. **kāmayitum** / **kamitum**
+Inf. **kāmayitum** / **kamitum** &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt2804.webp)
@@ -1614,7 +1622,7 @@ Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
 PPP **corita**
-Inf. **coritum**
+Inf. **coritum** &lt;!-- TODO: Fallback translation --&gt;
 
 **Recordar especialmente el significado de los causativos de los siguientes verbos:**
 **dṛś** — **darśayati**: mostrar
@@ -1961,12 +1969,12 @@ Fig.: ⟪प्रज्ञापारमिता⟫
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫:br
-⟪श्रम्यते⟫:br
-⟪श्रमयति⟫:br
-⟪श्रान्त⟫:br
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
--⟪श्रम्य⟫:br
+⟪श्रमिष्यते⟫
+⟪श्रम्यते⟫
+⟪श्रमयति⟫
+⟪श्रान्त⟫
+⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
+-⟪श्रम्य⟫
 ⟪श्रमितुम्⟫
 :::
 **⟪पार्श्व⟫**
@@ -1978,7 +1986,7 @@ Fig.: ⟪प्रज्ञापारमिता⟫
 Fig.: ⟪चूतः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt3202))
 :::
-**⟪तरु⟫** **⟪वृक्ष⟫**
+**⟪तरु⟫** **⟪वृक्ष⟫** &lt;!-- TODO: Fallback translation --&gt;
 
 **⟪पचेलिम⟫**
 
@@ -1988,20 +1996,20 @@ Fig.: ⟪चूतः⟫
 
 **⟪रुह्⟫ ⟪रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫:br
-⟪रुह्यते⟫:br
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-:sig[⟪रूढ⟫]:br
--⟪रुह्य⟫:br
+⟪रोक्ष्यति⟫
+⟪रुह्यते⟫
+⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
+:sig[⟪रूढ⟫]
+-⟪रुह्य⟫
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!):br
-⟪गृह्यते⟫:br
-⟪ग्राहयति⟫:br
-⟪गृहीत⟫:br
--⟪गृह्य⟫:br
+⟪ग्रहीष्यति⟫ (!)
+⟪गृह्यते⟫
+⟪ग्राहयति⟫
+⟪गृहीत⟫
+-⟪गृह्य⟫
 ⟪ग्रहीतुम्⟫ (!)
 :::
 **⟪वानर⟫ ⟪कपि⟫**
@@ -2013,10 +2021,10 @@ Fig.: ⟪वानराः⟫
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫:br
-⟪लोक्यते⟫:br
-⟪लोकित⟫:br
--⟪लोक्य⟫:br
+⟪लोकयिष्यति⟫
+⟪लोक्यते⟫
+⟪लोकित⟫
+-⟪लोक्य⟫
 ⟪लोकितुम्⟫
 :::
 **⟪प्रहर्ष⟫**
@@ -2030,7 +2038,7 @@ Fig.: ⟪वानराः⟫
 Fig.: ⟪उपलाः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt3204))
 :::
-**⟪लक्ष्य⟫**
+**⟪लक्ष्य⟫** &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt3205.webp)
@@ -2039,20 +2047,20 @@ Fig.: ⟪लक्ष्यम्⟫
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫:br
-⟪क्षिप्यते⟫:br
-⟪क्षेपयति⟫:br
-⟪क्षिप्त⟫:br
--⟪क्षिप्य⟫:br
+⟪क्षेप्स्यति⟫
+⟪क्षिप्यते⟫
+⟪क्षेपयति⟫
+⟪क्षिप्त⟫
+-⟪क्षिप्य⟫
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫:br
-⟪चीयते⟫:br
-⟪चाययति⟫:br
-⟪चित⟫:br
--⟪चित्य⟫:br
+⟪चेष्यति⟫
+⟪चीयते⟫
+⟪चाययति⟫
+⟪चित⟫
+-⟪चित्य⟫
 ⟪चेतुम्⟫
 :::: media
 ![](/images/lekt3207.webp)
@@ -2219,7 +2227,7 @@ Fig.: ⟪हीनयानमेव⟫
 :::: media
 ![](/images/lekt3302.webp)
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Fuente de la imagen: [Detalles](/licenses#lekt3302))
+(Fuente de la imagen: [Detalles](/licenses#lekt3302)) &lt;!-- TODO: Fallback translation --&gt;
 
 ::::
 :::
@@ -2256,7 +2264,7 @@ Fig.: ⟪सस्यम्⟫
 Fig.: ⟪लक्षद्वीपाः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** mortal (a **⟪मृ⟫**)
+**⟪मर्त्य⟫ 3:** mortal (a **⟪मृ⟫**) &lt;!-- TODO: Fallback translation --&gt;
 
 **⟪तिल⟫ m.:** sésamo (grano) (*Sesamum indicum* L.)
 
@@ -2306,21 +2314,21 @@ Fig.: ⟪ऋषभः⟫
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : perderse, perecer, desaparecer
 ::: indent
-**Vb. Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**:br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
-**Caus. ⟪नाशयति⟫**:br
+**Vb. Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Caus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : desaparecer, perderse, perecer
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : avanzar, ir
 ::: indent
-**Vc. Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
-**Fut. ⟪क्रमिष्यति⟫**:br
-**Pas. ⟪क्रम्यते⟫**:br
-**Caus. ⟪क्रमयति⟫**:br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
-**Inf. ⟪क्रमितुम्⟫**:br
+**Vc. Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pas. ⟪क्रम्यते⟫**
+**Caus. ⟪क्रमयति⟫**
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::: media
 ![](/images/lekt3502.webp)
@@ -2330,11 +2338,11 @@ Fig.: ⟪क्रामन्ति⟫
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): cantar, recitar en tono cantado, anunciar en discurso poético
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
-**Fut. ⟪गास्यति⟫**:br
-**Pas. ⟪गीयते⟫**:br
-**Caus. ⟪गापयति⟫**:br
-**PPP ⟪गीत⟫**:br
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pas. ⟪गीयते⟫**
+**Caus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Inf. ⟪गातुम्⟫**
 
 de ello:
@@ -2537,7 +2545,7 @@ Fig.: ⟪वृक्षः⟫
 
 
 
-⟪सूर्य⟫ m.: Sol, dios del sol Sūrya
+⟪सूर्य⟫ m.: Sol, dios del sol Sūrya &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt3802.webp)
@@ -3706,7 +3714,7 @@ Gerundivo ⟪ध्येय⟫
 Fig.: ⟪सादरः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪परम⟫ 3: más lejano, más alto; ⟪पञ्चम्या⟫ : mejor que, más alto que
 
@@ -3822,7 +3830,7 @@ Fig.: ⟪कल्याणी⟫
 Fig.: ⟪कुनगरम्⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫: ver
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫: ver &lt;!-- TODO: Fallback translation --&gt;
 
 ::: indent
 Perf. ⟪चचक्षे⟫
@@ -3931,7 +3939,7 @@ Abb.: ⟪पिशितम्⟫
 Abb.: ⟪मधु⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt5109))
 :::
-⟪मांस⟫ n.: carne
+⟪मांस⟫ n.: carne &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪मृगया⟫ f.: caza
 
@@ -3956,7 +3964,7 @@ Abb.: ⟪शिवा⟫
 Abb.: ⟪कौशिकः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: ave
+⟪शकुनि⟫ m.: ave &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪श्वन्⟫ m.: perro
 
@@ -4008,7 +4016,7 @@ Abb.: ⟪मूषिकाविषाणि⟫
 Abb.: ⟪भुजंगः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt5116))
 :::
-⟪सायक⟫ m.: flecha
+⟪सायक⟫ m.: flecha &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪उत्साद⟫ m.: destrucción
 
@@ -4523,13 +4531,13 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4408**: ⟪प्रव्रज्या⟫ Tailandia = ประเทศไทย [Fuente de la imagen: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
 
-**lekt4602**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL]
+**lekt4602**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!-- TODO: Fallback translation --&gt;
 
-**lekt4603**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL]
+**lekt4603**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!-- TODO: Fallback translation --&gt;
 
-**lekt4604**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL]
+**lekt4604**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!-- TODO: Fallback translation --&gt;
 
-**lekt4605**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL]
+**lekt4605**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = rey de las serpientes supremo) [Fuente de la imagen: Wikipedia. Dominio público]
 

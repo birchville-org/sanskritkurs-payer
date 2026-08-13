@@ -10,29 +10,29 @@ last_reconstructed: 2026-05-16
 ## 28.1. Kausatiivi (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**Jos halutaan ilmaista, että joku tai jotkin aiheuttaa tai saa jonkun toisen tai jotakin muuta tekemään tai kärsimään sen, mikä ilmaistaan juurella (jolla tai ilman prepositiota), käytetään kausatiivia (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
+**Jos halutaan ilmaista, että joku tai jotkin aiheuttaa tai saa jonkun toisen tai jotakin muuta tekemään tai kärsimään sen, mikä ilmaistaan juurella (jolla tai ilman prepositiota), käytetään kausatiivia (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).** <!-- TODO: Fallback translation -->
 
 Esimerkki:
 ⟪गम्⟫ "mennä" » Kausatiivi: ⟪गमयति⟫ "hänen on pakotettava joku menemään; hän lähettää"
 ⟪दृश्⟫ "nähdä" » Kausatiivi: ⟪दर्शयति⟫ "hänen on teettävä näkeminen = hän näyttää"
-:::
+::: <!-- TODO: Fallback translation -->
 
 ## 28.2. Kausatiivin lauseenvälitys (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
 **Malli 1:**
 
-**Jos kausatiiviin perustuva juuri (preposition kanssa tai ilman) on INTRANSITIIVINEN (eli ei voi ottaa akkusatiiviesineitä) tai ilmaisee liikettä, tietämistä, informaatiota tai syömistä:**
+**Jos kausatiiviin perustuva juuri (preposition kanssa tai ilman) on INTRANSITIIVINEN (eli ei voi ottaa akkusatiiviesineitä) tai ilmaisee liikettä, tietämistä, informaatiota tai syömistä:** <!-- TODO: Fallback translation -->
 
 **Kausatiivin agentti (⟪कर्ता⟫) nominatiivissa (⟪प्रथमा⟫) — aiheutetun toiminnan agentti akkusatiivissa (⟪द्वितीया⟫) — (liikkeen kohde, tiedon objekti jne. akkusatiivissa = ⟪द्वितीया⟫) — verbi kausatiivissa**
 :::
-Esimerkkejä:
+Esimerkkejä: <!-- TODO: Fallback translation -->
 
 ⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "paha ihminen saa Rāman hämmentymään = hämmentää Rāman = saa Rāman erehtymään"
 Tulos: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma on hämmentynyt / harhaan viety / erehtyy."
 
 ⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma saa viholliset menemään taivaaseen = lähettää viholliset taivaaseen"
-Tulos: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "viholliset menevät taivaaseen / saapuvat taivaaseen"
+Tulos: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "viholliset menevät taivaaseen / saapuvat taivaaseen" <!-- TODO: Fallback translation -->
 
 ⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "Mestari saa Rāman tietämään Vedan merkityksen = selittää / opettaa Rāmalle Vedan merkityksen"
 Tulos: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma tuntee / ymmärtää Vedan merkityksen"
@@ -48,7 +48,7 @@ Tulos: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Jumalat sy
 Kuva: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
 ISKCON-temppeli Bangalore.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2801))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Mallin 1 mukaisesti rakennettu myös juuri ⟪दृश्⟫:**
@@ -66,7 +66,7 @@ Seuraava säe tiivistää esimerkit kausatiivin muodostamisesta kaavion 1 mukais
 ⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
 ⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
 ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 Minun turvapaikkani ja päämääräni on Hari,
@@ -86,14 +86,14 @@ Jadavpur Universityn hallintorakennus.
 ::: grammar-box
 **Kaavio 2:**
 
-**Transitiivisten verbien (paitsi ne, jotka on mainittu kaavassa 1). Myös kaikilla verbeillä, jos kausatiivin tarkoittama toimija on aiheuttaja (eli kun kausatiivi on kausatiivin kausatiivi):**
+**Transitiivisten verbien (paitsi ne, jotka on mainittu kaavassa 1). Myös kaikilla verbeillä, jos kausatiivin tarkoittama toimija on aiheuttaja (eli kun kausatiivi on kausatiivin kausatiivi):** <!-- TODO: Fallback translation -->
 
 **Kausatiivin agentti (⟪कर्ता⟫) nominatiivissa (⟪प्रथमा⟫) — aiheutetun toiminnan agentti instrumentaalin sijassa (⟪तृतीया⟫) — aiheutetun toiminnan objekti siinä sijassa, jossa se olisi yksinkertaisen verbin mukaan (eli yleensä akkusatiivissa) — kausatiivi verbinä**
 :::
 ::: indent
 Esimerkit:
 (⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "Hän saa Rāman jättämään vaimonsa"
-Tulos: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma jättää vaimonsa"
+Tulos: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma jättää vaimonsa" <!-- TODO: Fallback translation -->
 
 ⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra saa Rāman saamaan Govindan lähtemään = Viṣṇumitra lähettää Rāman lähettämään Govindan"
 Tulos: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma lähettää Govindan pois"
@@ -102,7 +102,7 @@ Tuloksen tulos: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govin
 ::: grammar-box
 **Poikkeukset kaavaan 1:**
 
-**Kaavan 2 mukaan rakentuvat myös seuraavat verbit:**
+**Kaavan 2 mukaan rakentuvat myös seuraavat verbit:** <!-- TODO: Fallback translation -->
 
 **Kausatiivi verbille:**
 - **⟪नी⟫ "viedä"**
@@ -111,7 +111,7 @@ Tuloksen tulos: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govin
 - **⟪अद्⟫ "syödä"**
 - **⟪खाद्⟫ "pureskella"**
 :::
-Esimerkit:
+Esimerkit: <!-- TODO: Fallback translation -->
 
 ⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma saa palvelijan kantamaan tai kuljettamaan kuormaa"
 Tulos: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Palvelija kantaa tai kuljettaa kuormaa"
@@ -139,16 +139,16 @@ Tulos: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हर�
 ⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma antaa pojan nähdä kuvan = näyttää pojalle kuvaa (oman edun vuoksi)"
 tai:
 ⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
-Tulos: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "poika näkee kuvan"
+Tulos: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "poika näkee kuvan" <!-- TODO: Fallback translation -->
 
-Jos kausatiivia käytetään passiivilauseessa, seuraavaa kaavaa sovelta lähes aina:
+Jos kausatiivia käytetään passiivilauseessa, seuraavaa kaavaa sovelta lähes aina: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Kaava A (passiivilause):**
 
 **Kausatiivin agentti instrumentaalisissa (⟪तृतीया⟫) — aiheutetun teon agentti nominatiivissa (⟪प्रथमा⟩) — aiheutetun teon objekti siinä sijamuodossa, jonka se olisi yksinkertaisen verbin mukaan (eli yleensä akkusatiivissa) — kausatiivi-verbi**
 :::
-Esimerkit:
+Esimerkit: <!-- TODO: Fallback translation -->
 
 ⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Mestari lähettää Rāman kylään"
 Tulos: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma menee kylään"
@@ -176,7 +176,7 @@ Esimerkit:
 | ⟪विश्⟫ | ⟪वेशयति⟫ | hän antaa tapahtua, johtaa sisään |
 | ⟪लुभ्⟫ | ⟪लोभयति⟫ | tehdä haluttavaksi, tehdä halukkaaksi, houkutella |
 | ⟪दृश्⟫ | ⟪दर्शयति⟫ | näyttää = osoittaa |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | saada pyörimään, kääntää (transitiivinen), rullata (transitiivinen), saada pyörimään |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | saada pyörimään, kääntää (transitiivinen), rullata (transitiivinen), saada pyörimään | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Kasvutyyppi 2: pidennetyn asteen juuri + -aya-**
@@ -191,7 +191,7 @@ Esimerkit:
 | ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | saada aikaan, että joku menee |
 | ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | saattaa johtamaan |
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | antaa tehdä |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | antaa puhua, saada puhumaan, (saada tekstiä puhumaan =) lukea ääneen |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | antaa puhua, saada puhumaan, (saada tekstiä puhumaan =) lukea ääneen | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Muodostustyyppi 3: heikkoasteinen juuri + -aya-**
@@ -202,7 +202,7 @@ Esimerkki:
 
 | Juuri | Kausativ 3. sg. Indikativ Preesens | Merkitys |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | turmella (jotakuta) |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | turmella (jotakuta) | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Muodostustyyppi 4: Juuri + -paya-**
@@ -214,12 +214,12 @@ Esimerkkejä:
 | Juuri | Kausativ 3. sg. Indikativ Preesens | Merkitys |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | asettaa, pystyttää |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Selitys siehe Thumb-Hauschildt Bd. I,2 S. 341) | opettaa, antaa opetusta |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Selitys siehe Thumb-Hauschildt Bd. I,2 S. 341) | opettaa, antaa opetusta | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Epäsäännölliset muodostelmat:**
 
-**Kotimaiset grammatikot pitävät seuraavia muotoja kausatiivina:**
+**Kotimaiset grammatikot pitävät seuraavia muotoja kausatiivina:** <!-- TODO: Fallback translation -->
 
 - **han** : Kaus. **ghātayati**¹ "antaa lyödä, antaa surmata"
 - **pā** 2 "vartioida": **pālayati**² "tuoda yli, pelastaa, suojata"
@@ -265,7 +265,7 @@ Esimerkit:
 ## 28.7. Absolutiivin (⟪क्त्वा⟫ . ⟪ल्यप्⟫) muodostaminen kausatiivista
 
 ::: grammar-box
-**-tvā-päätteinen absolutiivi muodostetaan kausatiivijuvusta -ay- (ilman loppua vokaalia a):**
+**-tvā-päätteinen absolutiivi muodostetaan kausatiivijuvusta -ay- (ilman loppua vokaalia a):** <!-- TODO: Fallback translation -->
 
 **Kausatiivijatku -ay- + -i- + -tvā**
 
@@ -280,7 +280,7 @@ Esimerkit:
 **ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "sen jälkeen kun hän on saattanut tuoda, sen jälkeen kun hän on laskenut tuodun"
 :::
 ::: grammar-box
-**Jos kausatiivin juurivokaali sisältää lyhyen -a-:n ennen yhtä konsonanttia, absoliutin -ya liitetään kausatiivijänteeseen päätteellä -ay- (ilman loppua olevaa a:ta)**
+**Jos kausatiivin juurivokaali sisältää lyhyen -a-:n ennen yhtä konsonanttia, absoliutin -ya liitetään kausatiivijänteeseen päätteellä -ay- (ilman loppua olevaa a:ta)** <!-- TODO: Fallback translation -->
 
 Esimerkki:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "sen jälkeen kun hän on laskenut tulevan"
@@ -297,7 +297,7 @@ Esimerkki:
 **jan** — **janayati** — **janayitum** (janay-i-tum) "syntymisen aiheuttamiseksi"
 :::
 
-## 28.9. Kymmenes preesensluokka (⟪चुरादि⟫ = ⟪चुर्⟫ jne.)
+## 28.9. Kymmenes preesensluokka (⟪चुरादि⟫ = ⟪चुर्⟫ jne.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Samalla tavalla kuin kausatiivit muodostavat, preesens (ja muut tempora) muodostavat joitakin 10. preesensluokan juuria ilman kausatiiveja.**
@@ -308,7 +308,7 @@ Esimerkkejä:
 :::
 ::: grammar-box
 **Kausatiivin muodot 10. preesensluokan verbeille ovat samat kuin yksinkertaisen verbin muodot. Päätös siitä, onko kausatiivista kyse, on mahdollinen vain merkityksen tai joskus konstruktion perusteella.**
-:::
+::: <!-- TODO: Fallback translation -->
 
 ## 28.10. Sanalista
 
@@ -347,7 +347,7 @@ Inf. **kāmayitum** / **kamitum**
 Kuv.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 Maalaus tekijältä ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2804))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪चुर्⟫ 10 ⟪चोरयति⟫: varastaa
@@ -370,7 +370,7 @@ Kuv.: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā-Spielerin.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2803))
 :::
-⟪भार⟫ m.: lasti
+⟪भार⟫ m.: lasti <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2805.webp)
@@ -378,7 +378,7 @@ Kuv.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
 Tyttö kantaa lastia. Ahmedabadin lähellä.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2805))
 :::
-⟪भृत्य⟫ m.: alempi virkamies, palvelija
+⟪भृत्य⟫ m.: alempi virkamies, palvelija <!-- TODO: Fallback translation -->
 
 ## 28.11. Harjoitus
 
@@ -468,7 +468,7 @@ Tyttö kantaa lastia. Ahmedabadin lähellä.
 6. ⟪जि⟫ — ⟪जापयति⟫
 7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Käännä seuraavat lauseet, ratkaise sanskritinkieliset samasat ja muodosta yksinkertaisilla verbeillä lauseita, jotka ilmaisevat sen, mitä kausatiivista tarkoittava teko aiheuttaa:**
+**B. Käännä seuraavat lauseet, ratkaise sanskritinkieliset samasat ja muodosta yksinkertaisilla verbeillä lauseita, jotka ilmaisevat sen, mitä kausatiivista tarkoittava teko aiheuttaa:** <!-- TODO: Fallback translation -->
 
 Esimerkki: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
 

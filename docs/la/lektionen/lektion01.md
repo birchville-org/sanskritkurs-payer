@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 1
+# Lectio 1
 
 ::: center
 ⟪गणेशपूजनम्⟫
@@ -82,7 +82,7 @@ Ad initium quoddam curiosum:
 ![](/images/lekt0103.webp)
 Fig.: Titulus operis popularis
 (Fons imaginis: [Detalia](/la/licenses#lekt0103))
-:::
+::: <!-- TODO: Fallback translation -->
 
 >**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Pars: Conspectus culturae subcontinentis Indicae ante adventum Muslimorum. -- Londinii
 
@@ -90,17 +90,17 @@ Fig.: Titulus operis popularis
 ![](/images/lekt0104.webp)
 Tab.: Titulus
 (Fons imaginis: [Detalia](/la/licenses#lekt0104))
-:::
+::: <!-- TODO: Fallback translation -->
 
 **Optima grammatica systematica**
 
-> **Kielhorn**, Franz (1840–1908): Grammatica linguae Sanscriticae / e lingua Anglica versa a W. Solf [1862 - 1936]. -- Berolinum : Dümmler, 1888. -- XIII, 238 pag. -- Titulus originalis: A grammar of the Sanscrit language
+> **Kielhorn**, Franz (1840–1908): Grammatica linguae Sanscriticae / e lingua Anglica versa a W. Solf [1862 - 1936]. -- Berolinum : Dümmler, 1888. -- XIII, 238 pag. -- Titulus originalis: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0105.webp)
 Abb.: Titulus operis
 (Fons imaginis: [Detalia](/la/licenses#lekt0105))
-:::
+::: <!-- TODO: Fallback translation -->
 
 **Bona grammatica systematica, super fundamentum grammaticorum indigenarum et simul introductio ad Pāṇini:**
 
@@ -110,7 +110,7 @@ Abb.: Titulus operis
 ![](/images/lekt0107.jpg)
 Tab.: Titulus operis
 (Fons imaginis: [Detalia](/la/licenses#lekt0107))
-:::
+::: <!-- TODO: Fallback translation -->
 
 Bonam, succinctamque Europaeae linguae scientiae terminologiam invenies in:
 
@@ -120,7 +120,7 @@ Bonam, succinctamque Europaeae linguae scientiae terminologiam invenies in:
 ![](/images/lekt0108.jpg)
 Tab.: Titulus operis
 (Fons imaginis: [Detalia](/la/licenses#lekt0108))
-:::
+::: <!-- TODO: Fallback translation -->
 
 Pro curiosos ad consulendum:
 
@@ -171,7 +171,7 @@ Optima pronuntiatio obtinetur, si sententias, versus vel verba fere lente et mon
 
 ## 1.3. Exercitium
 
-**A) Legite haec verba:**
+**A) Legite haec verba:** <!-- TODO: Fallback translation -->
 
 1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
 2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫

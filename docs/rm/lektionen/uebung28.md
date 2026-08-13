@@ -144,4 +144,4 @@ Per liberar els dal mal, lascha il Buddha noblas persunas reconuscher las noblas
 ![](/images/uebung045.webp)
 Abb.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
 (Sursa da l’imagina: [Detagls](/licenses#uebung045))
-:::
+::: <!-- TODO: Fallback translation -->

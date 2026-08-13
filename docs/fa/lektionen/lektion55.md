@@ -12,21 +12,21 @@ status: stable
 ## 55.1. آئوریست -a (آئوریست با حرف صدادار تماتیک)
 
 ::: grammar-box
-**Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:** <!-- TODO: Fallback translation -->
+**آئورست a مانند اِمپِرِفِکت (⟪लङ्⟫) از کلاس فعلی ششم (⟪तुदादि⟫) ساخته می‌شود، یعنی:**
 
-**Augment + tiefstufige Wurzel + a + Sekundärendung** <!-- TODO: Fallback translation -->
+**آگمنت + ریشه با تلفظ عمیق + a + پسوند ثانویه**
 
-**Das -a- wird in den gleichen Fällen wie im Imperfekt durch -ā- ersetzt.** <!-- TODO: Fallback translation -->
+**در همان مواردی که در اِمپِرِفِکت با -ā- جایگزین می‌شود، -a- نیز به همان صورت تغییر می‌یابد.**
 
-**Keine Nasalinfixe.** <!-- TODO: Fallback translation -->
+**بدون افزوده بینی (نَسینِـفیکس).**
 
-**Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).** <!-- TODO: Fallback translation -->
+**آتم‌نپادا نادر است؛ معمولاً برای ریشه‌های اوبه‌آپاد، پس از کلاس‌های دیگر آئوریست ساخته می‌شود (به کیلهورن، گرامر §340 و همچنین در ادامه تحت کلاس‌های آئوریست مربوطه مراجعه کنید).**
 
-**Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.** <!-- TODO: Fallback translation -->
+**لیست ریشه‌هایی که این آئوریست را دارند، در کیلهورن، گرامر §340.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+مثال:
 
-⟪सिच्⟫ 6U "beträufeln" <!-- TODO: Fallback translation -->
+⟪सिच्⟫ ۶U "بترافُلن" (چکاندن)
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -36,23 +36,23 @@ Beispiel: <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
 :::
-Unregelmäßige Bildungen: <!-- TODO: Fallback translation -->
+ساختارهای نامنظم:
 
 ::: indent
-⟪अस्⟫ 4P "werfen": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (Erklärung siehe Thumb-Hauschild §541,4) <!-- TODO: Fallback translation -->
+⟪अस्⟫ 4P "پرتاب کردن": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (توضیح را در Thumb-Hauschild §541,4 ببینید)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": ***:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]*** <!-- TODO: Fallback translation -->
+⟪ख्या⟫ + ⟪आ⟫ 2P "روایت کردن": ***:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]***
 
-⟪दृश्⟫ "sehen": ***:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]*** (Hochstufe!) <!-- TODO: Fallback translation -->
+⟪दृश्⟫ "دیدن": ***:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]*** (مرحله عالی!)
 :::
-Beachte: <!-- TODO: Fallback translation -->
+توجه کنید:
 
 ::: indent
-⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmäßige Tiefstufe!) <!-- TODO: Fallback translation -->
+⟪शास्⟫ 2P "دستور دادن": ⟪अशिषत्⟫ (مرحله پایین منظم!)
 :::
 ## 55.2. تمرین
 
-Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist: <!-- TODO: Fallback translation -->
+اشکال زیر را تعیین و به صورت مکتوب ترجمه کنید و اشکال مربوط به آئوریای a- را تشکیل دهید:
 
 1.  ⟪दोक्ष्यन्ति⟫
 2.  ⟪बुबोध⟫
@@ -74,28 +74,28 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 18.  ⟪श्राम्यन्ति⟫
 19.  ⟪विन्दथ⟫
 20.  ⟪असीदन्⟫
-21.  ⟪वर्तामहे⟫ (a-Aor.: P) <!-- TODO: Fallback translation -->
+21.  ⟪वर्तामहे⟫ (آئوریای a-: P)
 22.  ⟪अशात्⟫
 23.  ⟪सेक्ष्यसे⟫
 24.  ⟪अयुनक्⟫
 25.  ⟪आरिथ⟫
 26.  ⟪अक्लिद्यन्⟫
-27.  ⟪अजीर्यम्⟫ (Aor.: hochstufig) <!-- TODO: Fallback translation -->
+27.  ⟪अजीर्यम्⟫ (آئوریای: سطح بالا)
 28.  ⟪लुम्पति⟫
 29.  ⟪अशाम्यत⟫
-30.  ⟪अशोभथाः⟫  (a-Aor.: P) <!-- TODO: Fallback translation -->
+30.  ⟪अशोभथाः⟫ (آئوریای a-: P)
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
 ::: media
 ![](/images/lekt5501.webp)
-Abb.: ⟪अजीर्यमिति⟫
-'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
-(Bildquelle: [Details](/licenses#lekt5501)) <!-- TODO: Fallback translation -->
+تصویر: ⟪अजीर्यमिति⟫
+'اینایات خان در بستر مرگ، طرحی برای یک مینیاتور از نسخه‌ای خطی برای جهانگیر، حدود ۱۶۱۸
+(منبع تصویر: [جزئیات](/licenses#lekt5501))
 :::
 
 ::: deleteme-box
 
-**lekt5501:** 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618 [Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei] <!-- TODO: Fallback translation -->
+**lekt5501:** «اینایات خان در بستر مرگ»، طرحی برای نگارگری از نسخه‌ای ویژه جهانگیر، حدود ۱۶۱۸ [منبع تصویر: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- دسترسی در ۲۰۰۹-۰۱-۲۸. عمومی]
 
 :::

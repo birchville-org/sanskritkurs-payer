@@ -90,7 +90,7 @@ dos quais:
 
 ⟪निरोध⟫ m.: Parar, Fazer parar
 
-* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, Fantasma
+* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, Fantasma <!-- TODO: Fallback translation -->
 
 ⟪योग⟫ m.: Arreio, Conexão, União, Aquisição; Yoga
 

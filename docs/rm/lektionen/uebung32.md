@@ -101,7 +101,7 @@ Ina giada existiva in prinzi, el aveva tut las qualitads desiderablas, da bella 
 Ina citada la gronda ha in brahman vivì. El ha fatg vegnir sias uffants e ha ditg: «In uffant da brahman duai studiar il Veda apud in maister.» Cun quellas paraulas è l'uffant ì ad in maister per studiar. El ha entrà en la chasa dal maister e sa preschentà cun respect avant il maister. Il maister ha dumandà davart il brahman. Alura ha el dà a quel uffant da mangiar.
 
 ⟪३⟫. **⟪राम⟫ ⟪आचर्यमुपसंगम्य⟫ ⟪वचनमब्रवीत्⟫ ⟪॥३॥⟫**
-Rama è ì al magister e ha ditg (las paraulas).
+Rama è ì al magister e ha ditg (las paraulas). <!-- TODO: Fallback translation -->
 
 ⟪४⟫. **⟪ब्राह्मणा⟫ ⟪वेदमध्यैयत⟫ ⟪चाध्यापयंश्च⟫ ⟪देवांश्चायजन्नयजन्त⟫ ⟪च⟫ ⟪क्षत्रियाः⟫ ⟪श्रुतिमध्यैयत⟫ ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त⟫ ⟪वैश्या⟫ ⟪वेदमध्यैयत⟫ ⟪देवानयजन्ताक्रीणन्व्यक्रीणत⟫ ⟪च⟫ ⟪द्विजदासास्तु⟫ ⟪शूद्रा⟫ ⟪आसन्⟫ ⟪॥४॥⟫**
 (⟪द्विजानां⟫ ⟪दासाः⟫)
@@ -116,7 +116,7 @@ Uffants da Buddha han reconuschì la veritad, han fermà il sufriment ed cuntans
 Abb.: ⟪सम्पन्नरूपा⟫
 (sursa da l'imagines: [detagls](/licenses#uebung050))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Determinaziun da la furma da la paraula
 
@@ -199,7 +199,7 @@ Determinar e traduscher las suandantas paraulas:
 | ⟪७१⟫. ⟪प्रोद्य⟫ | Absol. | suenter ch'el ha annunzià |
 | ⟪७२⟫. ⟪लम्भयति⟫ | 3. sg. Ind. Präs. Kaus. | el fa conservar |
 | ⟪७३⟫. ⟪स्थापिताभिः⟫ | Instr. pl. f. Kaus. PPP | tras las posadas |
-| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | (da) las forzas |
+| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | (da) las forzas | <!-- TODO: Fallback translation -->
 
 | ⟪७५⟫. ⟪अलम्⟫ | Adv. | ussàivlamainda |
 | ⟪७६⟫. ⟪हेतून्⟫ | Akk. pl. m. | las ragiuns |
@@ -288,7 +288,7 @@ Mettai en las sentenzias suventantas las paraulas en las parentesis e resguardai
 **⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
 
 11\. Per l'amur dal tschiel fan ils umans acziuns meritablas.
-**⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫**
+**⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 12\. Adi!
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
@@ -298,7 +298,7 @@ Mettai en las sentenzias suventantas las paraulas en las parentesis e resguardai
 Abb.: ⟪पुनर्दर्शनाय⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung052))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Fragment academic (Stotra)
 
@@ -312,7 +312,7 @@ L'alt sulegl Hari è mia protecziun, el che ha manà ses inimis en il tschiel, h
 Abb.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung053))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Istorgia: Il vegl e las scimmias (Sanskrit-Bālādarśa)
 
@@ -326,3 +326,4 @@ Ina giada è in vegl viagià en in autra vischnanca ed è daventà stgir sutvia.
 Abb.: ⟪वानरः⟫ ⟪कुपितः⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung054))
 :::
+ <!-- TODO: Fallback translation -->

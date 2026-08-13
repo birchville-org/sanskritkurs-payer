@@ -20,12 +20,12 @@ Adverbiaalisena (muuttumattomana) etuliitteenä voivat
 *   adverbit
 *   prepositiot
 *   partikkelit
-*   muut muuttumattomat sanatyypit
+*   muut muuttumattomat sanatyypit <!-- TODO: Fallback translation -->
 
 ::: indent
 olla käytössä. Tällaiset Tatpuruṣa-kompositiot kuuluvat yleensä Nityasamāsa-luokkaan = ⟪नित्यसमास⟫ (m. "vakioitu kompositio"), eli ne ovat kompositioita, joita ei voida tai joita ei voi pelkästään niissä esiintyvien sanojen avulla analysoida.
 :::
-Esimerkkejä:
+Esimerkkejä: <!-- TODO: Fallback translation -->
 
 ⟪अति⟫ "sen ohella":
 
@@ -38,7 +38,7 @@ Esimerkkejä:
 
 ⟪अत्युक्ति⟫ f.: liiallinen puhuminen, liioittelu
 :::
-Tärkeimmät adverbiaaliset etujäsenet ovat a-/an-, su-, dus-.
+Tärkeimmät adverbiaaliset etujäsenet ovat a-/an-, su-, dus-. <!-- TODO: Fallback translation -->
 
 ⟪अ⟫ (konsonantin jälkeen), ⟪अन्⟫ (vokaalin jälkeen): un-: esiintyy yhdyssanojen muodossa sanan ⟪न⟫ "ei" sijaan.
 
@@ -53,7 +53,7 @@ Esimerkit:
 
 ⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : ei-jumala, jumalaton
 :::
-⟪सु⟫ "hyvä, hyvä"; korvataan kommentaattoreiden toimesta adjektiivilla, joka tarkoittaa "hyvä" (esim. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) komposition ratkaisussa.
+⟪सु⟫ "hyvä, hyvä"; korvataan kommentaattoreiden toimesta adjektiivilla, joka tarkoittaa "hyvä" (esim. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) komposition ratkaisussa. <!-- TODO: Fallback translation -->
 
 Esimerkit:
 
@@ -66,7 +66,7 @@ Esimerkit:
 
 ⟪सुदुःख⟫ n.: suuri kärsimys
 :::
-⟪दुस्⟫ "paha, huono" (huomioi Sandhi-säännöt).
+⟪दुस्⟫ "paha, huono" (huomioi Sandhi-säännöt). <!-- TODO: Fallback translation -->
 
 Esimerkit:
 
@@ -75,15 +75,15 @@ Esimerkit:
 
 ⟪दुष्करण⟫ n.: huono teko, vaikea teko
 :::
-Tässä pätee seuraava laki:
+Tässä pätee seuraava laki: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
 Ändelägen av -s i sammansättningar
 
-Till skillnad från sats-sandhi gäller i uttalet av det första ledet i sammansättningar:
+Till skillnad från sats-sandhi gäller i uttalet av det första ledet i sammansättningar: <!-- TODO: Fallback translation -->
 
-\-s efter -i- eller -u- före tonlös guttural eller labial » -ṣ
+\-s efter -i- eller -u- före tonlös guttural eller labial » -ṣ <!-- TODO: Fallback translation -->
 
 Därför: ⟪दुष्करण⟫
 
@@ -106,9 +106,9 @@ Esimerkkejä:
 
 ⟪सुदुर्गम⟫ 3: erittäin vaikea kulkea
 :::
-### 18.2.2. nañ-Tatpuruṣan (a- / an-) merkitykset
+### 18.2.2. nañ-Tatpuruṣan (a- / an-) merkitykset <!-- TODO: Fallback translation -->
 
-Tatpuruṣa etuliitteellä a- / an- voi tarkoittaa seuraavaa:
+Tatpuruṣa etuliitteellä a- / an- voi tarkoittaa seuraavaa: <!-- TODO: Fallback translation -->
 
 1.  Samankaltaisuus (⟪तत्सादृश्यम्⟫):
 ⟪अब्राह्मणः⟫ = kṣatriya- tai vaiśyaväestöön kuuluva, joka kantaa pyhää lankaa (⟪यज्ञोपवीत⟫ n.) ja muistuttaa siten brahmania, vaikka ei olekaan sellainen
@@ -121,9 +121,9 @@ Tatpuruṣa etuliitteellä a- / an- voi tarkoittaa seuraavaa:
 5.  Tuomitseminen (⟪अप्राशास्त्यम्⟫):
 ⟪अकालः⟫ = väärä aika
 6.  Vihollisuus (⟪निरोधः⟫):
-⟪असुरः⟫ = vastajumala (väärän etymologian a-sura mukaan)
+⟪असुरः⟫ = vastajumala (väärän etymologian a-sura mukaan) <!-- TODO: Fallback translation -->
 
-Seuraava säe tiivistää nämä merkitykset:
+Seuraava säe tiivistää nämä merkitykset: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪तत्सादृश्यमभावश्च⟫  
@@ -133,7 +133,7 @@ Seuraava säe tiivistää nämä merkitykset:
 
 Sanotaan, että nañ (= a-/an-) merkityksiä on kuusi ....
 :::
-## 18.3. Verbalkomposita
+## 18.3. Verbalkomposita <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
@@ -143,11 +143,11 @@ Sanotaan, että nañ (= a-/an-) merkityksiä on kuusi ....
 :::
 ⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ s. 2 rj. 14f.
 
-Prefiksi muuttaa juuren merkitystä väkivaltaisesti, kuten merivesi muuttaa Gangesin veden makeuden.
+Prefiksi muuttaa juuren merkitystä väkivaltaisesti, kuten merivesi muuttaa Gangesin veden makeuden. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
-Verbit voivat sanskritissa liittyä prepositioihin (⟪उपसर्ग⟩ m.). Tässä noudatetaan yleensä satṣandhia. Prepositiot voivat joskus muuttaa juuren merkitystä huomattavasti, minkä vuoksi monissa tapauksissa juuren ja preposition yhdistelmän merkitys on opeteltava erikseen. Prepositioisen verbin moodi (P, Ā) voi poiketa yksinkertaisen juuren moodista. Juuren eteen voidaan sijoittaa useita prepositioita samanaikaisesti.
+Verbit voivat sanskritissa liittyä prepositioihin (⟪उपसर्ग⟩ m.). Tässä noudatetaan yleensä satṣandhia. Prepositiot voivat joskus muuttaa juuren merkitystä huomattavasti, minkä vuoksi monissa tapauksissa juuren ja preposition yhdistelmän merkitys on opeteltava erikseen. Prepositioisen verbin moodi (P, Ā) voi poiketa yksinkertaisen juuren moodista. Juuren eteen voidaan sijoittaa useita prepositioita samanaikaisesti. <!-- TODO: Fallback translation -->
 
 :::
 Tärkeitä prepositioita ovat:
@@ -167,7 +167,7 @@ Esimerkit:
 
 ⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : tavoittaa, saada
 :::
-⟪प्र⟫ "eteen, esiin"
+⟪प्र⟫ "eteen, esiin" <!-- TODO: Fallback translation -->
 
 Esimerkit:
 
@@ -180,13 +180,13 @@ Esimerkit:
 
 ⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : nousta esiin, erottua, vallata (genetiivi, lokatiivi tai datiivi)
 
-⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : selittää, ilmoittaa, lausua
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : selittää, ilmoittaa, lausua <!-- TODO: Fallback translation -->
 
 ⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : lausua, nimetä joksikin, selittää jonkin
 
 ⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : ylistää äänekkäästi, mainita, aloittaa
 :::
-⟪वि⟫ "erilleen, pois, hajota-, tuho-"
+⟪वि⟫ "erilleen, pois, hajota-, tuho-" <!-- TODO: Fallback translation -->
 
 Esimerkit:
 
@@ -203,7 +203,7 @@ Esimerkit:
 
 ⟪विहन्⟫ 2 ⟪विहन्ति⟫ : rikkoa, tuhoata, hävittää
 :::
-⟪सम्⟫ "yhdessä, kanssa"
+⟪सम्⟫ "yhdessä, kanssa" <!-- TODO: Fallback translation -->
 
 Esimerkit:
 
@@ -212,13 +212,13 @@ Esimerkit:
 
 ⟪समि⟫ 2 ⟪समेति⟫ : kokoontua, yhdistyä
 
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : kokoontua, kohdata (ystävällisesti tai vihollismin), harrastaa sukupuolisuhteita jonkun kanssa (akkusatiivi)
+⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : kokoontua, kohdata (ystävällisesti tai vihollismin), harrastaa sukupuolisuhteita jonkun kanssa (akkusatiivi) <!-- TODO: Fallback translation -->
 
 ⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : syntyä
 
 *   PPP ⟪संजात⟫ 3: syntynyt, muodostunut, tullut
 
-⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : herätä täysin (totuuteen)
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : herätä täysin (totuuteen) <!-- TODO: Fallback translation -->
 
 ⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : osakseen saada, onnistua
 
@@ -226,17 +226,17 @@ Esimerkit:
 :::
 ::: grammar-box
 
-Juuri ⟪कृ⟫ "tehdä" näyttää yhdistettynä preverbien ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ kanssa myös muodon ⟪स्कृ⟫
+Juuri ⟪कृ⟫ "tehdä" näyttää yhdistettynä preverbien ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ kanssa myös muodon ⟪स्कृ⟫ <!-- TODO: Fallback translation -->
 
 :::
 Esimerkki:
 
 ::: indent
-sam-kṛ 8 ⟪संस्करोति⟫ : valmistaa, valmistaa uhrilahjaksi, vihkiä
+sam-kṛ 8 ⟪संस्करोति⟫ : valmistaa, valmistaa uhrilahjaksi, vihkiä <!-- TODO: Fallback translation -->
 
 *   PPP ⟪संस्कृत⟫ 3: valmistettu uhria varten ; ⟪संस्कृत⟫ n.: sanskritiksi: uhriin soveltuva kieli ; vastine ⟪प्राकृत⟫ 3: tavallinen, arkikielinen ; ⟪प्राकृत⟫ n.: tavallinen kieli, prakrit (termi kansan- ja liikennekielille, jotka ovat sukua sanskritille)
 :::
-### 18.3.1. Nominaalijohdokset verbikompositeista
+### 18.3.1. Nominaalijohdokset verbikompositeista <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -245,7 +245,7 @@ Juurista, joissa on preverbejä, voidaan muodostaa substantiiveja kṛt-liitteil
 :::
 Esimerkit:
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: vihkiminen, valmistelu ; siirtymärituaalit = nimitys niille seremonioille, jotka seuraavat elämänvaiheita hedelmöityksestä kuolemaan (ks. erinomainen yhteenveto Basham, Wonder s. 160–170!)
+sam-kṛ + -a = ⟪संस्कार⟫ m.: vihkiminen, valmistelu ; siirtymärituaalit = nimitys niille seremonioille, jotka seuraavat elämänvaiheita hedelmöityksestä kuolemaan (ks. erinomainen yhteenveto Basham, Wonder s. 160–170!) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1804.webp)
@@ -253,12 +253,12 @@ Kuv.: ⟪विवाहः⟫
 Häät = ⟪विवाह⟫ m., tärkeä ⟪संस्कारः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: tuominen (uhritulen luo) = seremonia, jossa ylemmän kolmen kastekunnan miesjäsenille asetetaan pyhä lanka (⟪यज्ञोपवीत⟫ n.) sekä kuiskataan heidän korvaansa pyhä säe ⟪सावित्री⟫, jota heidän tulee recitoida päivittäin auringonnousun ja -laskun aikaan. Brahmaneille tämä on Ṛgveda III.62.10:
+upa-nī + -ana = ⟪उपनयन⟫ n.: tuominen (uhritulen luo) = seremonia, jossa ylemmän kolmen kastekunnan miesjäsenille asetetaan pyhä lanka (⟪यज्ञोपवीत⟫ n.) sekä kuiskataan heidän korvaansa pyhä säe ⟪सावित्री⟫, jota heidän tulee recitoida päivittäin auringonnousun ja -laskun aikaan. Brahmaneille tämä on Ṛgveda III.62.10: <!-- TODO: Fallback translation -->
 
 ::: indent
 "Saadakoon me kunnioitettavan jumala 'Ajattajan' loistava säde, joka saakoon ajatuksemme liikkeelle."
 :::
-Upanayanasta tulee toinen syntyminen, siksi: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+Upanayanasta tulee toinen syntyminen, siksi: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫ <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1801.webp)
@@ -266,13 +266,13 @@ Kuva: ⟪उपनयनम्⟫
 "Nuori poika nähdään upanayana-rituaalin aikana. Keltainen, ohut lanka vasemmalta olkalta vyötärölle on Yagnopaivta. Huomaa myös munja-ruohon vyötärön ympärillä oleva vyö. Oikeassa kädessä oleva oksa (yleensä peepa-puusta) merkitsee hänen tuloaan Brahmacharyaan."
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1801))
 :::
-## 18.4. Sanalista
+## 18.4. Sanalista <!-- TODO: Fallback translation -->
 
 ⟪सुष्टु⟫ 3: ylistetty, erinomainen, hyvä
 
 ⟪शोभन⟫ 3: loistava, upea, kaunis, hyvä
 
-⟪सम⟫ 3: sama, yhtä kuin, samankaltainen (instrumentaalin kanssa)
+⟪सम⟫ 3: sama, yhtä kuin, samankaltainen (instrumentaalin kanssa) <!-- TODO: Fallback translation -->
 
 ⟪व्याधि⟫ m.: sairaus
 
@@ -282,7 +282,7 @@ Kuva: ⟪उपनयनम्⟫
 
 ⟪ज्ञान⟫ n.: tieto, ymmärrys
 
-⟪शूर⟫ 3: rohkea, sankarillinen ; m.: sankari
+⟪शूर⟫ 3: rohkea, sankarillinen ; m.: sankari <!-- TODO: Fallback translation -->
 
 ⟪शब्द⟫ m.: ääni, sointi, signaalimaininta: sana
 
@@ -304,9 +304,9 @@ Kuva: ⟪उपनयनम्⟫
 
 ## 18.5. Harjoitus
 
-A) Käännä ⟪सुभाषित⟫ oppitunnin alussa.
+A) Käännä ⟪सुभाषित⟫ oppitunnin alussa. <!-- TODO: Fallback translation -->
 
-B) Käännä seuraava Tatpuruṣa:
+B) Käännä seuraava Tatpuruṣa: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪सुकर⟫ ⟪३⟫
 
@@ -374,7 +374,7 @@ B) Käännä seuraava Tatpuruṣa:
 
 Älä käytä apuvälineitä!
 
-A) Ratkaise seuraavat sanskritinkieliset samāhiti ja anna käännösehdotuksia:
+A) Ratkaise seuraavat sanskritinkieliset samāhiti ja anna käännösehdotuksia: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪अन्तगत⟫ 3
 
@@ -400,7 +400,7 @@ Kuva: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Painos
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt1802))
 :::
-B) Käännä käyttämällä 2. preesensluokan verbejä:
+B) Käännä käyttämällä 2. preesensluokan verbejä: <!-- TODO: Fallback translation -->
 
 1\. Brahmani ylistää jumalattaria.
 
@@ -410,9 +410,9 @@ B) Käännä käyttämällä 2. preesensluokan verbejä:
 
 4\. Aarioiden viholliset surmaavat voimakkaat kṣatriyat.
 
-5\. Kauhun henki ei syö hedelmiä.
+5\. Kauhun henki ei syö hedelmiä. <!-- TODO: Fallback translation -->
 
-6\. Näin puhuu se, joka on kulkenut [uudelleensyntymien polkua] hyvin oppilaalle.
+6\. Näin puhuu se, joka on kulkenut [uudelleensyntymien polkua] hyvin oppilaalle. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1803.webp)
@@ -428,11 +428,11 @@ D) Käännä:
 
 ::: deleteme-box
 
-**lekt1801:** "Nuori poika nähdään upanayana-rituaalin aikana. Keltainen, ohut lanka vasemmalta olkalta vyötärölle on yajnopavīta. Huomaa myös munja-ruohon vyö vyötäröllä. Oikeassa kädessä oleva oksa (yleensä peepapuu) symboloi hänen siirtymistään brahmacarya-tilaan." [Kuvälähde: Nagesh Rao / Wikipedia, GNU FDLicense]
+**lekt1801:** "Nuori poika nähdään upanayana-rituaalin aikana. Keltainen, ohut lanka vasemmalta olkalta vyötärölle on yajnopavīta. Huomaa myös munja-ruohon vyö vyötäröllä. Oikeassa kädessä oleva oksa (yleensä peepapuu) symboloi hänen siirtymistään brahmacarya-tilaan." [Kuvälähde: Nagesh Rao / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
 
-**lekt1802:** 1770 Painatus [Kuvälähde: Wikipedia, Public domain]
+**lekt1802:** 1770 Painatus [Kuvälähde: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
-**lekt1803:** ⟪गन्धार⟫ 1./2. jaa.e. [Kuvälähde: Wikipedia, Public domain]
+**lekt1803:** ⟪गन्धार⟫ 1./2. jaa.e. [Kuvälähde: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
 
 **lekt1804:** Häät = ⟪विवाह⟫ m., tärkeä ⟪संस्कारः⟫ [Kuvälähde: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Haettu 2008-12-08. -- Creative Commons -lupa (Nimeä, ei kaupallista käyttöä, ei johdannaissuostumuksia)]
 :::

@@ -49,7 +49,7 @@ B) Formate participia perfecti passive dicto correspondentes ad formas verborum 
 21. pṛcchanti ⟪पृच्छन्ति⟫ : ⟪पृष्टाः⟫ ⟪३⟫
 22. tanvanti ⟪तन्वन्ति⟫ : ⟪तताः⟫ ⟪३⟫
 
-C) Sententias [Lektion 10](lektion10.md), Exercitium C, in praeteritum tempus passivum convertite.
+C) Sententias [Lektion 10](lektion10.md), Exercitium C, in praeteritum tempus passivum convertite. <!-- TODO: Fallback translation -->
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 ⟪ब्रामणेन⟫ ⟪देवीष्टा⟫ ⟪।⟫

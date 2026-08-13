@@ -76,7 +76,7 @@ Zu Beginn ein Kuriosum:
 
 >"Als William Jones [1746–1794] und Henry Thomas Colebrooke (1765—1857) das Sanskrit erstmalig gründlich studiert, teilweise übersetzt und gefunden hatten, dass es eine reiche Literatur und nicht geringe Verwandtschaft mit den klassischen Sprachen aufwies, stiessen sie auf nicht geringen Widerstand. Da sich mit dieser innigen Beziehung des Sanskrits zu den geographisch so weit entlegenen europäischen Sprachen die alten Anschauungen, welche entweder alle Sprachen aus dem Hebräischen ableiteten oder grösstenteils von einander isolierten, nicht in Einklang bringen lassen, so ergriff der berühmte Philologe Dugald Steward (1753—1828) den einfachsten Ausweg, indem er die ganze Geschichte mit der Sanskritsprache für eine Lüge erklärte. Er schrieb einen Essay, in dem er zu beweisen suchte, dass sie von den spitzbübischen Brahmanen nach dem Muster des Griechischen und Lateinischen zusammengeschmiedet sei und die Sprache sowohl als auch die Literatur eine Fälschung seien. Diese Ansicht entwickelte noch im Jahre 1840 der Professor in Dublin, Charles William Wall, weitläufig (Göttingische gelehrte Anzeigen 1842 S. 1888)."
 >
->[Quelle: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
+>[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
 
 ## 1.1. Literatur für Anfänger in Indologie
 
@@ -86,7 +86,7 @@ Abb.: Einbandtitel einer Taschenbuchausgabe
 (Bildquelle: [Details](/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Teil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie.
+>**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Teil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie.
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -96,7 +96,7 @@ Abb.: Titelblatt
 
 Beste systematische Grammatik:
 
-> **Kielhorn**, Franz \<1840-1908\>: Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language
+> **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -116,7 +116,7 @@ Abb.: Einbandtitel
 
 Eine gute, knappe Darstellung der europäischen sprachwissenschaftlichen Terminologie findet man in:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \<1856 - 1926\>. Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
+> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)

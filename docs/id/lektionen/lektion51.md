@@ -253,7 +253,7 @@ Fig.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Sumber gambar: [Detail](/en/licenses#lekt5104))
 :::
-### 51.2.3. Stamm pada -h
+### 51.2.3. Batang pada -h
 
 ::: grammar-box
 **Before a vowel-initial ending, the -h remains unchanged.**

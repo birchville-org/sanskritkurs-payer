@@ -145,6 +145,8 @@ status: stable
 ![](/images/lekt2202.webp)
 ภาพประกอบ: ⟪कामदेवः⟫
 ศตวรรษที่ 19
+ภาพประกอบ: ⟪कामदेवः⟫
+ศตวรรษที่ 19
 (แหล่งที่มาของภาพ: [รายละเอียด](/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P ⟪शक्नोति⟫ Pass. ⟪शक्यते⟫ PPP ⟪शक्त⟫ Inf. ⟪शक्तुम्⟫ :** มีความสามารถ, สามารถ
@@ -261,12 +263,12 @@ status: stable
 
 ::: deleteme-box
 
-**lekt2201:** กัว = ⟪गोंय⟫ [ที่มาภาพ: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- เข้าถึงเมื่อ 2008-12-12. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, ไม่มีดัดแปลง)]
+**lekt2201:** กัว = ⟪गोंय⟫ [ที่มาภาพ: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- เข้าถึงเมื่อ 2008-12-12. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, ไม่มีดัดแปลง)] <!-- TODO: Fallback translation -->
 
 **lekt2202:** ศตวรรษที่ 19 [ที่มาภาพ: Wikipedia, สาธารณสมบัติ]
 
 **lekt2203:** โคลกัตตา = কলকাতা [ที่มาภาพ: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- เข้าถึงเมื่อ 2008-12-12. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, ไม่มีดัดแปลง)]
 
 **lekt2204:** [ที่มาภาพ: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- เข้าถึงเมื่อ 2008-12-12. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, ไม่มีดัดแปลง)]
-:::
+::: <!-- TODO: Fallback translation -->
 

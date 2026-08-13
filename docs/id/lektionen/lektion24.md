@@ -138,7 +138,7 @@ Penggunaan lain dari kasus datif nanti.
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Stamm Vokal
+### 24.2.4. Batang Vokal
 
 ::: grammar-box
 **Vowel Stems**

@@ -23,12 +23,12 @@ Az erény az ember dísze.
 Az igazság boldogságot hoz az embereknek.
 
 ⟪पापा⟫ ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪न⟫ ⟪लभन्ते⟫ ⟪॥४॥⟫  
-A gonosz emberek nem jutnak a mennybe.
+A gonosz emberek nem jutnak a mennybe. <!-- TODO: Fallback translation -->
 
 ⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫  
 Az igazság a világ fénye.
 
-A) Alakítsa ki az egyes szám és a többes szám birtokos esetét (genitivus) a következő szavakból. Adja meg a szavak jelentését és nemét:
+A) Alakítsa ki az egyes szám és a többes szám birtokos esetét (genitivus) a következő szavakból. Adja meg a szavak jelentését és nemét: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪अनृत⟫ : n. Hamisság — ⟪अनृतस्य⟫ ⟪अनृतानाम्⟫
 
@@ -149,22 +149,22 @@ Az áldozati tűz megégette az ételt.
 Buddha a igazság megértésével szabadult.
 
 ⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫
-A védikus bölcsek azt mondják, hogy hazudni bűn.
+A védikus bölcsek azt mondják, hogy hazudni bűn. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫
 Az emberek nem szabadulnak meg az isteneknek adott áldozatokkal.
 
 ⟪६⟫. ⟪बलवन्तः⟫ ⟪क्षत्रियाः⟫ ⟪शत्रूणां⟫ ⟪धनवन्ति⟫ ⟪नगराणि⟫ ⟪जयन्ति⟫ ⟪।⟫
-A hatalmas kṣatriyák meghódítják az ellenségek gazdag városait.
+A hatalmas kṣatriyák meghódítják az ellenségek gazdag városait. <!-- TODO: Fallback translation -->
 
 ⟪७⟫. ⟪कवेरुक्तिं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
 Hallgatják a költő versét.
 
 ⟪८⟫. ⟪कविर्देव्याः⟫ ⟪कृतं⟫ ⟪वद⟫ti ⟪।⟫
-A költő elbeszeli az istennő cselekedetét.
+A költő elbeszeli az istennő cselekedetét. <!-- TODO: Fallback translation -->
 
 ⟪९⟫. ⟪द्विजाः⟫ ⟪पशोर्लाभमिच्छन्ति⟫ ⟪।⟫
-A kétszer születettek azt kívánják, hogy állatokat kapjanak.
+A kétszer születettek azt kívánják, hogy állatokat kapjanak. <!-- TODO: Fallback translation -->
 
 ⟪१०⟫. ⟪रामः⟫ ⟪पुण्यवतो⟫ ⟪गुरोर्मन्त्रस्य⟫ ⟪स्मरति⟫ ⟪।⟫
 Rāma emlékszik az erényes mester mantrajára.
@@ -173,13 +173,13 @@ Rāma emlékszik az erényes mester mantrajára.
 Kinek (f.) fia ez a fiú?
 
 ⟪१२⟫. ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-Kinek tartoznak ezek a házak?
+Kinek tartoznak ezek a házak? <!-- TODO: Fallback translation -->
 
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
-Kinek ételét áldozta ez a védikus bölcs?
+Kinek ételét áldozta ez a védikus bölcs? <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung017.webp)
 Kép: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Képmegjelölés: [Részletek](/licenses#uebung017))
-:::
+::: <!-- TODO: Fallback translation -->

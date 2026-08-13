@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 35
 
-A) Képezze a következő igemódalakokhoz a megfelelő perfekta alakokat:
+A) Képezze a következő igemódalakokhoz a megfelelő perfekta alakokat: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Jelen idő / Bélyegzett múlt | Perfektum |
@@ -60,13 +60,13 @@ A) Képezze a következő igemódalakokhoz a megfelelő perfekta alakokat:
 B) Fordítsa le:
 
 ⟪१⟫. **⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫**
-Egeszen régen egy nagy kṣatriya áldozatot mutatott be. Indra elrabolta (elvitte) az áldozati állatát. Amikor azonban az állat eltűnt, egy gonosz brahman szólt a kṣatriyához: „Az állat a kṣatriya rossz magatartása miatt tűnt el.”
+Egeszen régen egy nagy kṣatriya áldozatot mutatott be. Indra elrabolta (elvitte) az áldozati állatát. Amikor azonban az állat eltűnt, egy gonosz brahman szólt a kṣatriyához: „Az állat a kṣatriya rossz magatartása miatt tűnt el.” <!-- TODO: Fallback translation -->
 
 ⟪२⟫. **⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवू⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫**
 Rāma gyermektelen volt. Fiút kívánt, de nem kapott. Ezért áldozatot mutatott be az isteneknek, és fogadalmakat teljesített, mint például a szexuális tartózkodást és ehhez hasonlókat. Az istenek meghallgatták Rāma kívánságát, és megajándékozták neki a kért fiút.
 
 ⟪३⟫. **⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫**
-A brahmanasszonyok ghit főztek az áldozathoz. Míg a brahmanasszonyok főztek, addig a brahmanák előkészítették az áldozati helyet. Ezután a kṣatriyák Śivának és az istenek többi részének áldoztak, mint áldozati urak, a brahmanák pedig elvégezték az áldozást (megbízásból).
+A brahmanasszonyok ghit főztek az áldozathoz. Míg a brahmanasszonyok főztek, addig a brahmanák előkészítették az áldozati helyet. Ezután a kṣatriyák Śivának és az istenek többi részének áldoztak, mint áldozati urak, a brahmanák pedig elvégezték az áldozást (megbízásból). <!-- TODO: Fallback translation -->
 
 ⟪४⟫. **⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫**
 Az arhatok felbontották a családi kötelékeket, megszüntették a kapzsiságot, a gyűlöletet és az ártalmatlanságot, felismerték az igazságot, és — a szenvedéstől megszabadulva — elérték a megváltás boldogságát.
@@ -76,7 +76,7 @@ Az arhatok felbontották a családi kötelékeket, megszüntették a kapzsiságo
 
 ## Szintaktikai variáció (Perfektumról Imperfektumra)
 
-C) Alakítsa át a B) gyakorlat mondatait úgy, hogy a Perfektumokat Imperfektummá alakítsa:
+C) Alakítsa át a B) gyakorlat mondatait úgy, hogy a Perfektumokat Imperfektummá alakítsa: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपाक्रामत⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪ऽहरत्⟫ ⟪॥⟫
 

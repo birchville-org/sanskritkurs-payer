@@ -107,7 +107,7 @@ Kṣatriya, ut hostes vincat, Brahmanum Hari et Harā cum sacrificio colere iuss
 
 ⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫**
 Magister puerum Veda docuit et deinde domum abiit.
-(Basis: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
+(Basis: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
 
 ⟪३⟫. **⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫ ⟪॥३॥⟫**
 In sanctuario interno effigies deae ostenditur.

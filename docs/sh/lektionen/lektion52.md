@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 52
+# Lekcija 52
 
 ## 52.1. Neutrum der Stämme auf -i und -u
 
@@ -113,15 +113,19 @@ Wayang-Figur, Java, Indonesien
 
 *   **Zahlwörtern**
     Beispiele:  
-    ⟪एकशस्⟫ "einzeln, je einer"  
-    ⟪द्विशस्⟫ "zu zweien, je zwei"  
-    ⟪शतशस्⟫ "zu hunderten, je hundert"
+::: indent
+⟪एकशस्⟫ "einzeln, je einer"
+⟪द्विशस्⟫ "zu zweien, je zwei"
+⟪शतशस्⟫ "zu hunderten, je hundert"
+:::
 
 *   **anderen Wörtern**
     Beispiele:  
-    ⟪भागशस्⟫ "Teil für Teil"  
-    ⟪सर्वशस्⟫ "überall, gar alle"  
-    ⟪नित्यशस्⟫ "beständig"
+::: indent
+⟪भागशस्⟫ "Teil für Teil"
+⟪सर्वशस्⟫ "überall, gar alle"
+⟪नित्यशस्⟫ "beständig"
+:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -148,14 +152,18 @@ Der Auslaut des Nomens wird folgendermassen behandelt:
 
 *   **auslautendes -a und -ā deklinierbarer Wörter werden durch -ī ersetzt  **
     Beispiele:  
-    ⟪कृष्णीभवति⟫ "etwas, das nicht schwarz ist, wird schwarz"  
-    ⟪कृष्णीकरोति⟫ "er macht etwas, das nicht schwarz ist, schwarz"  
-    ⟪गङ्गीभवति⟫ "er/sie wird zum Ganges"
+::: indent
+⟪कृष्णीभवति⟫ "etwas, das nicht schwarz ist, wird schwarz"
+⟪कृष्णीकरोति⟫ "er macht etwas, das nicht schwarz ist, schwarz"
+⟪गङ्गीभवति⟫ "er/sie wird zum Ganges"
+:::
 
 *   **auslautendes -i und -u werden durch den entsprechenden Langvokal ersetzt  **
     Beispiele:  
-    ⟪शुचीभवति⟫ "er/sie/es wird rein"  
-    ⟪गुरूभवामि⟫ "ich werde Meister"
+::: indent
+⟪शुचीभवति⟫ "er/sie/es wird rein"
+⟪गुरूभवामि⟫ "ich werde Meister"
+:::
 
 *   **auslautendes -ṛ wird durch --rī ersetzt  **
     z.B. ⟪पित्रीभवति⟫ "einer, der nicht Vater (⟪पितृ⟫) ist, wird Vater = ein Mann bekommt sein erstes Kind"
@@ -225,9 +233,11 @@ Beispiel:
     z.B. ⟪पुनः⟫ ⟪पुनः⟫ "immer wieder"
 *   **Distribution**
     Beispiele:  
-    ⟪पृथक्पृथक्⟫ "je gesondert, je einzeln"  
-    ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "was auch immer ... das alles"  
-    ⟪युगे⟫ ⟪युगे⟫ "in jedem einzelnen Weltzeitalter"
+::: indent
+⟪पृथक्पृथक्⟫ "je gesondert, je einzeln"
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "was auch immer ... das alles"
+⟪युगे⟫ ⟪युगे⟫ "in jedem einzelnen Weltzeitalter"
+:::
 
 **Gelegentlich kann aus solchen Verbindungen ein Kompositum gebildet werden**
 
@@ -283,7 +293,7 @@ Die weiteren Zahladverbien bis 19 siehe z.B. bei Kielhorn, Grammatik §201.
 Beispiele:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f.
 :::
 
@@ -295,7 +305,7 @@ Beispiele:
 Beispiele:
 
 ::: indent
-100 ⟪शत⟫ n.:br
+100 ⟪शत⟫ n.
 1000 ⟪सहस्र⟫ n.
 :::
 Die einzelnen Zahlsubstantive siehe z.B. bei Kielhorn, Grammatik §201.
@@ -393,7 +403,9 @@ Das Siebengestirn = die sieben hellsten Sterne des Grossen Bären (Ursa maior)
 2.  das so gebildete Kompositum in einer Bedeutung gebraucht wird, die sonst durch ein Taddhita-Suffix bezeichnet wird (bei dieser Art ist der Übergang zum Bahuvrīhi fliessend):
     Beispiele:  
     dvi + go » :sig[⟪द्विगु⟫] : nicht: "zwei Kühe", sondern: "**für zwei Kühe erhandelt**"  
-    ⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "**zwei Jahre alt**"
+::: indent
+⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "**zwei Jahre alt**"
+:::
 
 3.  das so gebildete Kompositum das Vorderglied eines anderen Kompositums bildet
     Beispiel:  

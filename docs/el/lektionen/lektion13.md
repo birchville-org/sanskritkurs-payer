@@ -68,7 +68,7 @@ pad 4 PPP του Ā: panna 3 = ⟪पन्न⟫
 
 Μεταξύ των επιθηκών taddhita -mant και -vant σχηματίζονται επίθετα που δηλώνουν ιδιοκτησία από ουσιαστικά. Η σημασία τους είναι: "έχοντας αυτό που δηλώνεται από το υποκείμενο ουσιαστικό".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
 
 Παραδείγματα:
 
@@ -79,7 +79,7 @@ pad 4 PPP του Ā: panna 3 = ⟪पन्न⟫
 ⟪गुणवन्त्⟫ "έχοντας καλές ιδιότητες / αρετή"
 :::
 
-## 13.5. Βαθμίδωση ρίζας von Nomina
+## 13.5. Βαθμίδωση ρίζας ονομάτων
 
 Οι φυλές με κατάληξη -mant ή -vant ανήκουν στα ουσιαστικά ρίζας με κλίση βάσεως.
 

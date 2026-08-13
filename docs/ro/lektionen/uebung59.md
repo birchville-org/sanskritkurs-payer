@@ -13,7 +13,7 @@ last_reconstructed: 2026-05-15
 Fig.: ⟪रावणः⟫
 (Sursă imagine: [Detalii](/licenses#uebung098))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## A) Analiza textului
 
@@ -23,7 +23,7 @@ Traducerea a fost lăsată intenționat greoaie, pentru a servi ca ajutor la tra
 
 _Îndrumar pentru traducere:_ Versul 6: ⟪दिदृक्षते⟫ \= Desiderativ la ⟪दृश्⟫
 
-Text extras din: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
+Text extras din: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f. <!-- TODO: Fallback translation -->
 
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫
@@ -85,7 +85,7 @@ Text extras din: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 > ⟪अस्नासीत्⟫ - ⟪स्ना⟫ Aor. 6  
 > ⟪व्यलिपत्⟫ - ⟪वि⟫-⟪लिप्⟫ Aor. 2  
 > ⟪अप्सासीत्⟫ - ⟪प्सा⟫ Aor. 6  
-> ⟪अपात्⟫ - ⟪पा⟫ Aor. 1
+> ⟪अपात्⟫ - ⟪पा⟫ Aor. 1 <!-- TODO: Fallback translation -->
 
 ⟪न्यवसिष्ट⟫ ⟪ततो⟫ ⟪द्रष्टुं⟫ ⟪रावणं⟫ ⟪प्रावृतद्गृहात्⟫ ⟪।⟫  
 ⟪राजायान्तं⟫ ⟪तमद्राक्षीदुदस्थाच्चेषदासनात्⟫ ⟪॥७॥⟫
@@ -215,4 +215,4 @@ Text extras din: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 ![](/images/uebung099.webp)
 Fig.: ⟪रामस्य⟫ ⟪रावणेन⟫ ⟪युद्धः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung099))
-:::
+::: <!-- TODO: Fallback translation -->

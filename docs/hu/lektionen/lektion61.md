@@ -4,16 +4,16 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 61. lecke
+# 61. lecke <!-- TODO: Fallback translation -->
 
 ## 61.1. A -ā, -ī, -ū végződésű gyökfőnevek ragozása
 
 ### 61.1.1. -ā végződésű gyökfőnevek a ⟪तत्पुरुष⟫ végén
 
 ::: grammar-box
-**A magánhangzós végződéseknél a tövmagánhangzó a gyenge esetekben az elhagyási fokot (Ø) veszi fel.**
+**A magánhangzós végződéseknél a tövmagánhangzó a gyenge esetekben az elhagyási fokot (Ø) veszi fel.** <!-- TODO: Fallback translation -->
 
 **A nemű szerinti ragozás hímnemben és nőnemben azonos.**
 :::
@@ -34,11 +34,11 @@ Ragozási táblázat:
 ### 61.1.2. Női alapszóképzők -ī végződéssel
 
 ::: grammar-box
-**Vor vokalischer Végződés wird -ī durch -iy ersetzt.**
+**Vor vokalischer Végződés wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
 
 **A szabályos esetvégződéseken kívül a Dat.Ab.Gen.Lok.sg. és Gen.pl. alakokban előfordulnak több szótagú, -ī végű nőnemek mintájára képzett alakok is (⟪देवी⟫).**
 :::
-Ragozás:
+Ragozás: <!-- TODO: Fallback translation -->
 
 ⟪धी⟫ f. "gondolat"
 
@@ -74,7 +74,7 @@ Szabálytalan: ⟪स्त्री⟩ f. „nő“
 ### 61.1.3. -ī végződésű gyökernomina a ⟪तत्पुरुष⟫ végén
 
 ::: grammar-box
-**Vokális végződés előtt a -ī-t -y-re helyettesítjük, ha csak egy gyökérhez tartozó mássalhangzó előzi meg. Ha több, a gyökérhez tartozó mássalhangzó előzi meg, akkor a -ī-t vokális végződés előtt -iy-re helyettesítjük.**
+**Vokális végződés előtt a -ī-t -y-re helyettesítjük, ha csak egy gyökérhez tartozó mássalhangzó előzi meg. Ha több, a gyökérhez tartozó mássalhangzó előzi meg, akkor a -ī-t vokális végződés előtt -iy-re helyettesítjük.** <!-- TODO: Fallback translation -->
 
 **A nemek szerinti ragozás a hímnem és nőnem esetén azonos.**
 
@@ -114,7 +114,7 @@ Paradigmák:
 
 **Deklination analog zu den femininen Tőnomina auf -ī**
 :::
-Paradigma:
+Paradigma: <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ f. "Föld"
 
@@ -131,13 +131,13 @@ Paradigma:
 ### 61.1.5. -ū végződésű tőnév a ⟪तत्पुरुष⟫ végén
 
 ::: grammar-box
-**Vokális végződés előtt a -ū-t -v-vel helyettesítjük, ha csak egy, az ige gyökeréhez tartozó mássalhangzó előzi meg. Ha több, az ige gyökeréhez tartozó mássalhangzó előzi meg, a -ū-t vokális végződés előtt -uv-vel helyettesítjük.**
+**Vokális végződés előtt a -ū-t -v-vel helyettesítjük, ha csak egy, az ige gyökeréhez tartozó mássalhangzó előzi meg. Ha több, az ige gyökeréhez tartozó mássalhangzó előzi meg, a -ū-t vokális végződés előtt -uv-vel helyettesítjük.** <!-- TODO: Fallback translation -->
 
 **A ragozás a hímnemben és a nőnemben azonos.**
 :::
 Ragozási táblázat:
 
-⟪खलपू⟫ m., f. "a magtárat söprő"
+⟪खलपू⟫ m., f. "a magtárat söprő" <!-- TODO: Fallback translation -->
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -162,7 +162,7 @@ Ragozási táblázat:
 :::
 Paradigma:
 
-⟪वधू⟫ f. "fiatal nő, menyasszony"
+⟪वधू⟫ f. "fiatal nő, menyasszony" <!-- TODO: Fallback translation -->
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -181,7 +181,7 @@ Paradigma:
 ⟪जोधपुर⟫
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt6107))
 :::
-## 61.2. A perifrástikus jövő idő (⟪लुट्⟫)
+## 61.2. A perifrástikus jövő idő (⟪लुट्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Az egyszerű jövő időn (⟪ऌत्⟫) kívül létezik egy perifrástikus jövő idő (⟪लुट्⟫). A helyi grammatikusok tanítása szerint a perifrástikus jövő időt a távoli jövő ("a következő nap után") jelölésére használják, míg az egyszerű jövő idő a közeli jövőt ("a következő napon") jelöli. A klasszikus szanszkritban úgy tűnik, hogy a két jövő idő használata között általában nincs különbség.**
@@ -190,7 +190,7 @@ Paradigma:
 
 **A perifrástikus jövő idő egy -tṛ végződésű névszó (nomen agentis) és a ⟪अस्⟫ 2 jelen idői alakjának összekapcsolásával képződik. A harmadik személyben a megfelelő számú egyszerű névszó áll, nem tesz különbséget az alanyi nemek között. A ⟪अस्⟫-szal képzett alakoknál a névszó minden személyben és számban -tā végződésű egyes számú alakot ölt.**
 :::
-A perifrástikus jövő idő végződése tehát a következő:
+A perifrástikus jövő idő végződése tehát a következő: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -235,7 +235,7 @@ Táblázat:
 
 *   **hogy egy személy vagy dolog újra megteszi, vagy elszenvedi azt, amit a gyökér kifejez**
 ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "mindig újra cselekszik"  
-⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "gyakran van (válik)"
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "gyakran van (válik)" <!-- TODO: Fallback translation -->
 
 *   **azt jelenti, hogy egy személy vagy dolog intenzíven cselekszik vagy elszenved valamit, amit a gyökér fejez ki:**
 ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "intenzíven cselekszik, hatékonyan cselekszik"
@@ -271,7 +271,7 @@ Karnataka = ಕರ್ನಾಟಕ
 
 **reduplikált gyökér + -ya-**
 
-**A gyöktő alakja: általában, mint a passzívban, azaz legtöbbször mély fokú:**
+**A gyöktő alakja: általában, mint a passzívban, azaz legtöbbször mély fokú:** <!-- TODO: Fallback translation -->
 
 Példák:
 
@@ -280,10 +280,10 @@ Példák:
 ⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
 ⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
 :::
-A szabályok részletei Kielhorn, Grammatik § 461.
+A szabályok részletei Kielhorn, Grammatik § 461. <!-- TODO: Fallback translation -->
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -318,12 +318,12 @@ pl.
     *   **Jövő idő: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
     *   **perifrázisos jövő idő: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
-### 61.3.2. Parasmaipada-intenzívum
+### 61.3.2. Parasmaipada-intenzívum <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Jelen időstéma (egyéb alakok rendkívül ritkák): képzése és konjugációja mint a 3. jelen időosztályú igéé (⟪जुहोत्यादिगण⟩), azzal a különbséggel, hogy az ismétlő szótag magánhangzója magas fokú, -a esetén nyújtott fokú.**
 
-**Egyes szám jelzős jelen időben, valamint 2.3.sg. imperfektumban és 3.sg.imperatívban a gyökér és a végződés közé -ī- illeszthető. Ha ezt a -ī-t beillesztik, akkor az előutolsó helyen álló rövid magánhangzó nem guṇírozható.**
+**Egyes szám jelzős jelen időben, valamint 2.3.sg. imperfektumban és 3.sg.imperatívban a gyökér és a végződés közé -ī- illeszthető. Ha ezt a -ī-t beillesztik, akkor az előutolsó helyen álló rövid magánhangzó nem guṇírozható.** <!-- TODO: Fallback translation -->
 
 **A magánhangzós duplikáció nasalos formáival, valamint a -nī- és -rī- beékelődésével kapcsolatban ugyanaz érvényes, mint az Ātmanepada-intenzívum esetében. A -rī- helyett választható a -ri- is.**
 :::
@@ -401,13 +401,13 @@ Példák:
 **Jelentés:**
 
 *   **valaki azt kívánja, amit a névi alap jelöl**
-*   **valaki egy személyt vagy dolgot úgy kezel, mint amit a névi alap jelöl**
+*   **valaki egy személyt vagy dolgot úgy kezel, mint amit a névi alap jelöl** <!-- TODO: Fallback translation -->
 
 **Tőalakítás:**
 
 :::
 ::: indent
-**-ya előtt a névtő végződése a következő változásoknak veti alá magát:**
+**-ya előtt a névtő végződése a következő változásoknak veti alá magát:** <!-- TODO: Fallback translation -->
 
 *   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫-
 *   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
@@ -425,9 +425,9 @@ Példák:
 | ⟪गो⟫ f. "tehén" | ⟪गव्यति⟫ "ő tehenet kíván magának" |
 | ⟪राजन्⟫ m. "király" | ⟪राजीयति⟫ "ő királyt kíván magának" |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "ő valakit Viṣṇuként kezel" |
-| ⟪प्रासाद⟫ m. "palota" | ⟪प्रासादीयति⟫ "ő (pl. kunyhóját) palotának nézi" |
+| ⟪प्रासाद⟫ m. "palota" | ⟪प्रासादीयति⟫ "ő (pl. kunyhóját) palotának nézi" | <!-- TODO: Fallback translation -->
 
-Vegye figyelembe a következő jelentéseket:
+Vegye figyelembe a következő jelentéseket: <!-- TODO: Fallback translation -->
 
 | ⟪तपस्⟫ n. "aszkézis" | ⟪तपस्यति⟫ "ő aszketikus gyakorlatot végez" |
 | --- | --- |
@@ -438,14 +438,14 @@ Vegye figyelembe a következő jelentéseket:
 Ábr.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ⟪हरिद्वार⟫
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt6105))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6103.webp)
 Ábr.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt6103))
 :::
-### 61.4.3. Képzés a -kāmya képzővel, Parasmaipada
+### 61.4.3. Képzés a -kāmya képzővel, Parasmaipada <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Jelentés:**
@@ -495,7 +495,7 @@ Karli
 ::: indent
 **valaki úgy viselkedik, mint amit a főnévi tő jelöl, vagy azzal egyenlő.**
 :::
-**Alakítás:**
+**Alakítás:** <!-- TODO: Fallback translation -->
 
 *   **-a végződés » -ā**
 *   **-ā végződés változatlan marad**
@@ -511,7 +511,7 @@ Példák:
 | ⟪कुमारी⟫ f. "lány" | ⟪कुमारायते⟫ "úgy viselkedik, mint egy lány" |
 
 ::: grammar-box
-**Egyes főnémi tövek esetén ez a képző azt jelenti: valami olyanná válik, mint amire a főnémi töv utal, vagy az lesz, amit a főnévi tő jelöl:**
+**Egyes főnémi tövek esetén ez a képző azt jelenti: valami olyanná válik, mint amire a főnémi töv utal, vagy az lesz, amit a főnévi tő jelöl:** <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -585,7 +585,7 @@ pl. ⟪बुध्यासम्⟫ "hadd ismerje meg!"
 
 **vagy:**
 
-**(magas szintű) gyökér + ⟪ै⟫ + sī(y) + szekunder végződés**
+**(magas szintű) gyökér + ⟪ै⟫ + sī(y) + szekunder végződés** <!-- TODO: Fallback translation -->
 
 ::: indent
 pl.
@@ -625,7 +625,7 @@ Példa:
 ::: grammar-box
 **A kondicionális (⟪ऌङ्⟫) képzése:**
 
-**Augment + aoriststam (⟪ऌत्⟫) + másodlagos végződés**
+**Augment + aoriststam (⟪ऌत्⟫) + másodlagos végződés** <!-- TODO: Fallback translation -->
 
 azaz úgy, mint egy aoriststamhoz tartozó imperfectum (⟪लङ्⟫).
 
@@ -646,7 +646,7 @@ Ragozási táblázat:
 ## 61.7. A -ai, -o, -au végződésű főnevek deklinációja
 
 ::: grammar-box
-**Mássalhangzó előtt ezek a tövek -ai, -o, -au végződésűek; mássalhangzó előtt pedig -āy, -av, -āv**
+**Mássalhangzó előtt ezek a tövek -ai, -o, -au végződésűek; mássalhangzó előtt pedig -āy, -av, -āv** <!-- TODO: Fallback translation -->
 
 **⟪गो⟩ m.f. "bika, tehén" szabatossági fokozást mutat.** Lásd a részletes magyarázatot Thumb-Hauschild § 296/7.
 :::
@@ -720,7 +720,7 @@ Nőnem (⟪स्त्री⟫)
 :::
 ## 61.9. Bocsátás a szanszkrit irodalom óceánjába: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
 
-A szanszkit kurzus befejezése után kezdődik meg igazán a „úszás” a szanszkrit irodalom óceánjában. Mivel ez az óceán tele van akadályokkal, megfelelő ezt az új életszakaszt Gaṇeśa megkeresésével kezdeni:
+A szanszkit kurzus befejezése után kezdődik meg igazán a „úszás” a szanszkrit irodalom óceánjában. Mivel ez az óceán tele van akadályokkal, megfelelő ezt az új életszakaszt Gaṇeśa megkeresésével kezdeni: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6101.webp)
@@ -736,7 +736,7 @@ Halebidu (ಹಳೆಬೀಡು), 12./13. század e. Kr. után
 :::
 ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
-Zenész és költő: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
+Zenész és költő: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564) <!-- TODO: Fallback translation -->
 
 Rāga: Malahari (a ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை)
 
@@ -756,7 +756,7 @@ Tāla: Rūpaka: o |4
 Mivel most megismerte a szanszkrit alapjait, remélhetőleg olyanok, mint a videóban szereplő kisgyermekek: néha ügyetlenek, de tanulni és tudni vágyók, valamint örömmel végzik a feladatot. Megőrizve „kezdők gondolkodását” egész életük során.
 
 ::: center
-Ezt kívánja Önnek Alois Payer
+Ezt kívánja Önnek Alois Payer <!-- TODO: Fallback translation -->
 
 Ofterdingen, 2009-03-09
 
@@ -785,7 +785,7 @@ A SZANSKRIT KURUS VÉGE
 
 **lekt6111:** [Képmegjelenítés forrása: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Nevesítés, share alike)]
 
-**lekt6113:** Thaiföld - เมืองไทย [Képmegjelenítés forrása: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, nincs átdolgozás)]
+**lekt6113:** Thaiföld - เมืองไทย [Képmegjelenítés forrása: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, nincs átdolgozás)] <!-- TODO: Fallback translation -->
 
 **lekt6112:** 1845 - 1878 az indiai-orientális filológia professzora a Koppenhágai Egyetemen
 

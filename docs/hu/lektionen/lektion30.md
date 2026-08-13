@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# 30. lecke
+# 30. lecke <!-- TODO: Fallback translation -->
 
-## 30.1. A 9. jelen időosztály (⟪क्र्यादि⟫ = "⟪क्री⟫ stb.")
+## 30.1. A 9. jelen időosztály (⟪क्र्यादि⟫ = "⟪क्री⟫ stb.") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Alakítás:**
@@ -35,7 +35,7 @@ Példa:
 | **3. Person:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
-Ezen jelen időosztály esetén különösen figyelembe veendő a ज्ञा 9U "ismerni, tudni" gyökérhez tartozó jelen időstám képzése:
+Ezen jelen időosztály esetén különösen figyelembe veendő a ज्ञा 9U "ismerni, tudni" gyökérhez tartozó jelen időstám képzése: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -88,7 +88,7 @@ Példa:
 ⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = „A szolga jöjjön a faluba”
 :::
 ::: grammar-box
-**2. Ha valamit mint**
+**2. Ha valamit mint** <!-- TODO: Fallback translation -->
 
 *   **lehetőnek**
 *   **valószínűnek**
@@ -109,7 +109,7 @@ Példa:
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Ha valaki hazugságot mondana, a pokolba esne = Ha valaki hazudik, a pokolba esik"
 :::
-## 30.3. A harmadik személy egyes és többes számának másodlagos végződései
+## 30.3. A harmadik személy egyes és többes számának másodlagos végződései <!-- TODO: Fallback translation -->
 
 Az optatív (⟪लिङ्⟫), az imperfectum (⟪लङ्⟫), az aorisztus (⟪लुङ्⟫), a prekativum (⟪आशिर्लिङ्⟫) és a kondicionális birtokában vannak az úgynevezett másodlagos végződések:
 
@@ -118,7 +118,7 @@ Az optatív (⟪लिङ्⟫), az imperfectum (⟪लङ्⟫), az aorisztus
 | | 3. Person egyes szám | 3. Person többes szám |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-t** | athematische Klassen: **-an** oder **-ur** :brKívánó mód (optativus): **-ur** |
-| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brKívánó mód (optativus): **-ran** |
+| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brKívánó mód (optativus): **-ran** | <!-- TODO: Fallback translation -->
 
 :::
 ## 30.4. Az optativus jelen idő képzése (⟪लिङ्⟫)
@@ -128,13 +128,13 @@ Az optatív (⟪लिङ्⟫), az imperfectum (⟪लङ्⟫), az aorisztus
 ::: grammar-box
 **mássalhangzóval kezdődő végződéseknél:**
 
-**Jelen idő alap + -i- (az -a-val egyesülve -e-) + másodlagos végződések**
+**Jelen idő alap + -i- (az -a-val egyesülve -e-) + másodlagos végződések** <!-- TODO: Fallback translation -->
 
 **magánhangzóval kezdődő végződéseknél:**
 
 **Jelen idő alap + -i- (» -e-) + -y- + másodlagos végződés**
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 1\. jelen idő osztály:
 
@@ -185,7 +185,7 @@ jelen időosztály és kausatívumok
 ::: grammar-box
 **Parasmaipada:**
 
-**gyenge jelenlegi törzs + -yā- (-ur előtt: -y-) + másodlagos végződés**
+**gyenge jelenlegi törzs + -yā- (-ur előtt: -y-) + másodlagos végződés** <!-- TODO: Fallback translation -->
 
 **Ātmanepada:**
 
@@ -226,7 +226,8 @@ jelen időosztály
 | **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 
@@ -251,7 +252,7 @@ jelen időosztály
 
 **-r hangzó mássalhangzók előtt -ar marad, de r- előtt az -r kiesik és az -a helyett -ā áll.**
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
@@ -293,7 +294,7 @@ Inf. ⟪ज्ञातुम्⟫
 
 ebből:
 
-⟪ज्ञाति⟫ m.: (vér)rokonság (a rokonok azok, akiket ismerünk!)
+⟪ज्ञाति⟫ m.: (vér)rokonság (a rokonok azok, akiket ismerünk!) <!-- TODO: Fallback translation -->
 
 ⟪ज्ञान⟫ n.: tudat, tudás, megismerés (különösen a „magasabb” igazságoké vallásban és filozófiában)
 :::
@@ -382,7 +383,7 @@ abból:
 
 ## 30.7. Gyakorlat
 
-A) Alakítsa át a következő igemódokat az személy, szám és nem szerint megfelelő optativus alakokra:
+A) Alakítsa át a következő igemódokat az személy, szám és nem szerint megfelelő optativus alakokra: <!-- TODO: Fallback translation -->
 
 1.  ⟪ह्रियते⟫
 2.  ⟪ध्नन्ति⟫
@@ -450,7 +451,7 @@ A) Alakítsa át a következő igemódokat az személy, szám és nem szerint me
 64.  ⟪अदन्ति⟫
 65.  ⟪अध्यापयन्ति⟫
 
-B) Fordítsa le a következő mondatokat, és oldja fel a szanszkrit összetételeket:
+B) Fordítsa le a következő mondatokat, és oldja fel a szanszkrit összetételeket: <!-- TODO: Fallback translation -->
 
 ⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫
 

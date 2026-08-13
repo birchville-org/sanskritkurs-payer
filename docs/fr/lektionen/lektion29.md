@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 29
+# Leçon 29
 
 ## 29.1. Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum
 
@@ -158,15 +158,15 @@ Explications :
 
 ⟪।११।⟫ ⟪योजयति⟫ (Caus. de ⟪युज्⟫) "atteler, relier à, unir à"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva)
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "d'autant plus"
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. de ⟪बलीयस्⟫ ⟪३⟫ "plus fort"
+⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. de ⟪बलीयस्⟫ ⟪३⟫ "plus fort" <!-- TODO: Fallback translation -->
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "quatre" comme premier membre d'un composé
 
-⟪राज्ञा⟫ Instr. sg. masc. de ⟪राजन्⟫ m. "Roi"
+⟪राज्ञा⟫ Instr. sg. masc. de ⟪राजन्⟫ m. "Roi" <!-- TODO: Fallback translation -->
 
 ⟪स्वेषु⟫ : Loc. plur. masc. / neutr. de ⟪स्व⟫ ⟪३⟫ "propre (mien, tien, sien, etc.)"
 

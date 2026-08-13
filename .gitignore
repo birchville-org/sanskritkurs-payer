@@ -101,5 +101,7 @@ docs/AUTHORS_GUIDE.md
 
 
 docs/public/downloads/*.pdf
+dist_exports/
+*.epub
 
 docs/.vitepress/.temp/

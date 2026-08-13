@@ -5,7 +5,7 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # الدرس الخامس
 
@@ -159,7 +159,7 @@ status: stable
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
    ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (التفسير: brahmavihāra: "حالات إقامة براhma"، تُسمى أيضًا "اللامتناهية". إنها أشكال تأمل بوذية.)
+   (التفسير: brahmavihāra: "حالات إقامة براhma"، تُسمى أيضًا "اللامتناهية". إنها أشكال تأمل بوذية.) <!-- TODO: Fallback translation -->
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
    (Yogasūtra 2,3)

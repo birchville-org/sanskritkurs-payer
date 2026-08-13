@@ -5,9 +5,9 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 59. lecke
+# 59. lecke <!-- TODO: Fallback translation -->
 
 ## 59.1. A kettős szám másodlagos végződései és az imperatívuszi végződések (⟪द्विवचनम्⟫)
 
@@ -24,7 +24,7 @@ status: stable
 ::: grammar-box
 **-va és -vahi esetén a téma magánhangzót -a- helyett -ā- írjuk.**
 :::
-### 59.2.1. Első jelen idő osztály (⟪भ्वादिगणः⟫)
+### 59.2.1. Első jelen idő osztály (⟪भ्वादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P "lenni, lenni"
 
@@ -600,7 +600,7 @@ Felszólító mód (⟪लोट्⟫)
 :::
 ## 59.4. Kettős szám (⟪द्विवचनम्⟫) Aoristus (⟪लुङ्⟫)
 
-### 59.4.1. Gyökaoristus
+### 59.4.1. Gyökaoristus <!-- TODO: Fallback translation -->
 
 ⟪पा⟫ 1. személy "inni"
 
@@ -668,7 +668,7 @@ Felszólító mód (⟪लोट्⟫)
 ## 59.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (csak P-ben)
 
 ::: grammar-box
-**A siṣ-aorist képzése az P-ben minden olyan gyökérre vonatkozik, amely -ā, -e, -o, -ai végződésű, és nem korlátozódik az 1., 2. vagy 3. aoristra, valamint néhány további gyökérre, többek között ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. Az Ā-ban ezek a gyökök mind s-aoristot képeznek.**
+**A siṣ-aorist képzése az P-ben minden olyan gyökérre vonatkozik, amely -ā, -e, -o, -ai végződésű, és nem korlátozódik az 1., 2. vagy 3. aoristra, valamint néhány további gyökérre, többek között ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. Az Ā-ban ezek a gyökök mind s-aoristot képeznek.** <!-- TODO: Fallback translation -->
 
 **Képzés:**
 
@@ -734,7 +734,7 @@ Paradigma:
 
 **Néhány -h végződésű tő (⟪गुह्⟫, ⟪दिह्⟫, ⟪दुह्⟫, ⟪लिह्⟫) az Ā-ban a 2.3.sg.1.du.2.pl. alakokat választható módon -sa- nélkül képezi.**
 :::
-Paradigma:
+Paradigma: <!-- TODO: Fallback translation -->
 
 ⟪दिह्⟫ 2U „ken“
 
@@ -748,7 +748,7 @@ Paradigma:
 :::
 ## 59.7. Gyakorlat
 
-A) Fordítsa le a következő szöveget, és határozza meg benne szereplő összes ragozott igét.
+A) Fordítsa le a következő szöveget, és határozza meg benne szereplő összes ragozott igét. <!-- TODO: Fallback translation -->
 
 _Előzetes megjegyzés:_
 
@@ -761,14 +761,14 @@ A versnek négy része van:
 3.  10-13. ének: a legfontosabb költői díszítő elemek
 4.  14-22. ének: az idők és módok használata
 
-A ⟪भट्टिकाव्य⟫ i. sz. 495 és 641 között keletkezett.
+A ⟪भट्टिकाव्य⟫ i. sz. 495 és 641 között keletkezett. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5902.webp)
 Ábr.: ⟪रावणः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5902))
 :::
-A következő rész a 15. ének kezdete, amely az aoristnak van szentelve. ⟪रावण⟫, a démonkirály, aki elrabolta ⟪राम⟫ feleségét, ⟪सीता⟫, elküldi a testvéréért ⟪कुम्भकर्ण⟫ ("Fülöng"), aki bűnei miatt egyfajta állandó alvásban van.
+A következő rész a 15. ének kezdete, amely az aoristnak van szentelve. ⟪रावण⟫, a démonkirály, aki elrabolta ⟪राम⟫ feleségét, ⟪सीता⟫, elküldi a testvéréért ⟪कुम्भकर्ण⟫ ("Fülöng"), aki bűnei miatt egyfajta állandó alvásban van. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5903.webp)
@@ -782,7 +782,7 @@ _Fordítási segítség:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderat
 ![](/images/lekt5901.webp)
 (Képforrás: [Részletek](/hu/licenses#lekt5901))
 :::
-Szöveg forrása: Otto Böhtlingk: Sanskrit-Krestomátia, 127–128. o.
+Szöveg forrása: Otto Böhtlingk: Sanskrit-Krestomátia, 127–128. o. <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

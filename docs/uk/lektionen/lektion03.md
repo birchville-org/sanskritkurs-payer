@@ -76,7 +76,7 @@ status: stable
 :::
 напр.
 
-devatā + annapūrṇā » devatānnapūrṇā "Аннапурна є богинею" = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā "Аннапурна є богинею" = ⟪देवतान्नपूर्णा⟫ &lt;!-- TODO: Fallback translation --&gt;
 
 > (Аннапурна — богиня їжі та приготування страв, її вважають втіленням Парваті, дружини Шиви.)
 
@@ -127,7 +127,7 @@ devī + umā » devy umā "Ума є богинею" = ⟪देव्युम�
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-напр.
+напр. &lt;!-- TODO: Fallback translation --&gt;
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Вайшії є двічі народженими" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

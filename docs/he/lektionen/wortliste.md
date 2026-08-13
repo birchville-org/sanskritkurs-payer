@@ -494,7 +494,7 @@ outline: 2
 (מקור תמונה: [פרטים](/licenses#lekt1102))
 :::
 - **prach** 6 פ ⟪प्रच्छ्⟫ : לשאול
-  - **praśna** ז. ⟪प्रश्न⟫ : שאלה (סופיקס **-na** כמו ב-**yaj-ña**)
+  - **praśna** ז. ⟪प्रश्न⟫ : שאלה (סופיקס **-na** כמו ב-**yaj-ña**) <!-- TODO: Fallback translation -->
 
 - **iṣ** 6 פ ⟪इष्⟫ : לרצות
   - **iṣṭi** נ. ⟪इष्टि⟫ : משאלה (**iṣ** + **-ti**)
@@ -642,7 +642,7 @@ outline: 2
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : לשנוא, להיות אויב
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : לאכול, לצרוך
-- **anna** n. ⟪अन्न⟫ : מזון (מPPP: *ad-na: הנאכל)
+- **anna** n. ⟪अन्न⟫ : מזון (מPPP: *ad-na: הנאכל) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -1636,7 +1636,10 @@ PPP ⟪वृद्ध⟫ : גדל, זקן, מרובה
 **⟪वस्⟫** 1P (⟪वसति⟫): להתעכב, לגור (עם תלוי של אדם, אצל מי שגרים אצלו)
 
 ::: indent
-**עתיד:** ⟪वत्स्यति⟫:br**מעובר:** ⟪उष्यते⟫:br**PPP:** ⟪उषित⟫:br**אינפיניטיב:** ⟪वस्तुम्⟫
+**עתיד:** ⟪वत्स्यति⟫
+**מעובר:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**אינפיניטיב:** ⟪वस्तुम्⟫
 :::
 מכך:
 
@@ -1650,7 +1653,9 @@ PPP ⟪वृद्ध⟫ : גדל, זקן, מרובה
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): להלביש (בגדים), ללבוש (בגדים)
 
 ::: indent
-**עתיד:** ⟪वसिष्यते⟫:br**PPP:** ⟪वसित⟫:br**אינפיניטיב:** ⟪वसितुम्⟫
+**עתיד:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**אינפיניטיב:** ⟪वसितुम्⟫
 :::
 מכך:
 
@@ -1679,7 +1684,10 @@ Vasanta (Schleichera oleosa), Khopoli, מחוז מהאראשטרה, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫): להחזיק, לשאת; להביא, להסיר, לגנוב
 
 ::: indent
-**עתיד:** ⟪हरिष्यति⟩:br**מעובר:** ⟪ह्रियते⟩:br**PPP:** ⟪हृत⟩:br**אינפיניטיב:** ⟪हर्तुम्⟩
+**עתיד:** ⟪हरिष्यति⟩
+**מעובר:** ⟪ह्रियते⟩
+**PPP:** ⟪हृत⟩
+**אינפיניטיב:** ⟪हर्तुम्⟩
 :::
 מזה:
 
@@ -2130,12 +2138,12 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟩:br
-⟪श्रम्यते⟩:br
-⟪श्रमयति⟩:br
-⟪श्रान्त⟩:br
-⟪श्रमित्वा⟩ ⟪।⟩ ⟪श्रान्त्वा⟩:br
--⟪श्रम्य⟩:br
+⟪श्रमिष्यते⟩
+⟪श्रम्यते⟩
+⟪श्रमयति⟩
+⟪श्रान्त⟩
+⟪श्रमित्वा⟩ ⟪।⟩ ⟪श्रान्त्वा⟩
+-⟪श्रम्य⟩
 ⟪श्रमितुम्⟩
 :::
 **⟪पार्श्व⟩**
@@ -2158,20 +2166,20 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪रुह्⟩ ⟪रोहति⟩**
 ::: indent
-⟪रोक्ष्यति⟩:br
-⟪रुह्यते⟩:br
-⟪रोहयति⟩ ⟪।⟩ ⟪रोपयति⟩:br
-⟪रूढ⟩:br
--⟪रुह्य⟩:br
+⟪रोक्ष्यति⟩
+⟪रुह्यते⟩
+⟪रोहयति⟩ ⟪।⟩ ⟪रोपयति⟩
+⟪रूढ⟩
+-⟪रुह्य⟩
 ⟪रोढुम्⟩
 :::
 **⟪ग्रह्⟩ ⟪गृह्णाति⟩**
 ::: indent
-⟪ग्रहीष्यति⟩ (!):br
-⟪गृह्यते⟩:br
-⟪ग्राहयति⟩:br
-⟪गृहीत⟩:br
--⟪गृह्य⟩:br
+⟪ग्रहीष्यति⟩ (!)
+⟪गृह्यते⟩
+⟪ग्राहयति⟩
+⟪गृहीत⟩
+-⟪गृह्य⟩
 ⟪ग्रहीतुम्⟩ (!)
 :::
 **⟪वानर⟩ ⟪कपि⟩**
@@ -2184,10 +2192,10 @@ Aus einem Prajñāpāramitā-Manuskript.
 :::
 **⟪लोक्⟩ ⟪लोकयति⟩**
 ::: indent
-⟪लोकयिष्यति⟩:br
-⟪लोक्यते⟩:br
-⟪लोकित⟩:br
--⟪लोक्य⟩:br
+⟪लोकयिष्यति⟩
+⟪लोक्यते⟩
+⟪लोकित⟩
+-⟪लोक्य⟩
 ⟪लोकितुम्⟩
 :::
 **⟪प्रहर्ष⟩**
@@ -2212,20 +2220,20 @@ Aus einem Prajñāpāramitā-Manuskript.
 :::
 **⟪क्षिप्⟩ ⟪क्षिपति⟩**
 ::: indent
-⟪क्षेप्स्यति⟩:br
-⟪क्षिप्यते⟩:br
-⟪क्षेपयति⟩:br
-⟪क्षिप्त⟩:br
--⟪क्षिप्य⟩:br
+⟪क्षेप्स्यति⟩
+⟪क्षिप्यते⟩
+⟪क्षेपयति⟩
+⟪क्षिप्त⟩
+-⟪क्षिप्य⟩
 ⟪क्षेप्तुम्⟩
 :::
 **⟪चि⟩ ⟪चिनोति⟩**
 ::: indent
-⟪चेष्यति⟩:br
-⟪चीयते⟩:br
-⟪चाययति⟩:br
-⟪चित⟩:br
--⟪चित्य⟩:br
+⟪चेष्यति⟩
+⟪चीयते⟩
+⟪चाययति⟩
+⟪चित⟩
+-⟪चित्य⟩
 ⟪चेतुम्⟩
 :::: media
 ![](/images/lekt3207.webp)
@@ -2313,7 +2321,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 3.pl.P **:sig[⟪पिपुरति⟫]**  
 3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (מ: \*apipart)  
 3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
-3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]** <!-- TODO: Fallback translation -->
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -2499,21 +2507,21 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : לאבד, להיכחד, להיעלם
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**:br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
-**Kaus. ⟪नाशयति⟫**:br
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : להיעלם, לאבד, להיכחד
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : ללכת, ללכת
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
-**Fut. ⟪क्रमिष्यति⟫**:br
-**Pass. ⟪क्रम्यते⟫**:br
-**Kaus. ⟪क्रमयति⟫**:br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
-**Inf. ⟪क्रमितुम्⟫**:br
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Kaus. ⟪क्रमयति⟫**
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::: media
 ![](/images/lekt3502.webp)
@@ -2524,11 +2532,11 @@ Aus einem Prajñāpāramitā-Manuskript.
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): לשיר, לקרוא בטון שירי, להכריז בדיבור מחורז
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
-**Fut. ⟪गास्यति⟫**:br
-**Pass. ⟪गीयते⟫**:br
-**Kaus. ⟪गापयति⟫**:br
-**PPP ⟪गीत⟫**:br
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Kaus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
 **Inf. ⟪गातुम्⟫**
 
 מכך:
@@ -3947,7 +3955,7 @@ Inf. ⟪द्रोग्धुम्⟫
 :::
 ⟪वर⟫ m.n.: רצון
 
-⟪उत⟫ Indekl.: ו, גם, או
+⟪उत⟫ Indekl.: ו, גם, או <!-- TODO: Fallback translation -->
 
 ⟪विहंग⟫ m.: ציפור ("ההולך לחלום-האוויר - ⟪विह⟫ -")
 
@@ -4622,7 +4630,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt0903**: adhyayana = ⟪अध्ययन⟫, סרי סקנדה גורו וידאלאיום, טירופרנקונדרם ליד מאדוראי [מקור תמונה: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- נגיש ב־2008-11-23. -- רישיון Creative Commons (ייחוס, ללא עיבוד)]
 
-**lekt0902**: kāru = ⟪कारु⟫, גוג'ראט [מקור תמונה: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- נגיש ב־2008-11-23. -- רישיון Creative Commons (ייחוס, ללא שימוש מסחרי, ללא עיבוד)]
+**lekt0902**: kāru = ⟪कारु⟫, גוג'ראט [מקור תמונה: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- נגיש ב־2008-11-23. -- רישיון Creative Commons (ייחוס, ללא שימוש מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt1003**: האל Varuṇa = ⟪वरुण⟫, המאה ה־17 [מקור תמונה. ויקיפדיה, שטח ציבורי]
 
@@ -4632,7 +4640,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt1304**: ⟪अन्नम्⟫, קרנאטקה (ಕರ್ನಾಟಕ), 2005 [מקור תמונה: ויקיפדיה, שטח ציבורי]
 
-**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [מקור תמונה: ויקיפדיה, רישיון GNU FDLicense]
+**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [מקור תמונה: ויקיפדיה, רישיון GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt1405**: ⟪दीपाः⟫ [מקור תמונה: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- נגיש ב־2008-12-01. -- רישיון Creative Commons (ייחוס, ללא שימוש מסחרי, ללא עיבוד)]
 
@@ -4640,7 +4648,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt1505**: אינדרה וסאצ'י רוכבים על הפיל האלוהי איירווטה, דף מתוך פאנצ'קליאנאקה (חמישה אירועים נשגבים בחייו של ג'ינה רישבהנתה [אדינתה]), כנראה 1670-1680 ציור; צבעי מים, צבעי מים אטומים, זהב וכסף על נייר, תמונה: 9 1/8 x 15 1/8 אינץ' (23.18 x 38.42 ס"מ); גיליון: 10 5/8 x 16 3/4 אינץ' (26.99 x 42.55 ס"מ. נעשה בהודו, רג'אסטן, אמבר [מקור תמונה: ויקיפדיה, שטח ציבורי]
 
-**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [מקור תמונה: ויקיפדיה, רישיון GNU FDLicense]
+**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [מקור תמונה: ויקיפדיה, רישיון GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) פארק הלאומי באנדווהרגאר (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [מקור תמונה: שירות הדגים והחיות האמריקאי / ויקיפדיה, שטח ציבורי]
 
@@ -4650,7 +4658,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt1603**: ⟪अहिंसा⟫ "היד עם גלגל בכף היד מסמלת את נדר האהימסה של הדאינים. המילה באמצע היא 'אהימסה'. הגלגל מייצג את הדהרמצ'אקה, המייצגת את ההחלטה לעצור את מחזור ההתגלגלות באמצעות רדיפה אינטנסיבית אחר האמת ואי-אלימות." [מקור תמונה: ויקיפדיה, קניין ציבורי]
 
-**lekt1703**: ⟪घाताः⟫ באנגלור = ಬೆಂಗಳೂರು [מקור תמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- תאריך גישה 2008-12-07. -- רישיון Creative Commons (ייחוס, לא לשימוש מסחרי)]
+**lekt1703**: ⟪घाताः⟫ באנגלור = ಬೆಂಗಳೂರು [מקור תמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- תאריך גישה 2008-12-07. -- רישיון Creative Commons (ייחוס, לא לשימוש מסחרי)] <!-- TODO: Fallback translation -->
 
 **lekt1701**: ⟪योगासनम्⟫ [מקור תמונה: tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- תאריך גישה 2008-12-07. -- רישיון Creative Commons (ייחוס, ללא עריכה)]
 
@@ -4660,7 +4668,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt1901**: ⟪गर्भगृहम्⟫, באדאמי (ಬದಾಮಿ) [מקור תמונה: Sudarshan Bhat Khandige / ויקיפדיה, קניין ציבורי]
 
-**lekt1902**: ⟪वारिदः⟫, גואה (⟪गोंय⟫) [מקור תמונה: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- תאריך גישה 2008-12-08. -- רישיון Creative Commons (ייחוס, לא לשימוש מסחרי, ללא עריכה)]
+**lekt1902**: ⟪वारिदः⟫, גואה (⟪गोंय⟫) [מקור תמונה: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- תאריך גישה 2008-12-08. -- רישיון Creative Commons (ייחוס, לא לשימוש מסחרי, ללא עריכה)] <!-- TODO: Fallback translation -->
 
 **lekt1904**: ⟪छत्त्रम्⟫ "אונאפוטאן (ഓണപ്പൊട്ടന്⟪‍⟫), בלבוש מסורתי, הוא מנהג באזורים הדרומיים של קרלה. אונאפוטאן מבקר בבתים במהלך האונאם ומברך. לאחרונה, אונאפוטאן הפך לנוף נדיר, המוגבל לכפרים." [מקור תמונה: קפטן נידיש. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- תאריך גישה 2008-12-08. -- רישיון Creative Commons (ייחוס)]
 
@@ -4676,11 +4684,11 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt2202**: ⟪कामदेवः⟫ , המאה ה-19 [מקור תמונה: ויקיפדיה, קניין ציבורי]
 
-**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ קולקטה = কলকাতা [מקור תמונה: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- תאריך גישה 2008-12-12. -- רישיון Creative Commons (ייחוס, לא לשימוש מסחרי, ללא עריכה)]
+**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ קולקטה = কলকাতা [מקור תמונה: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- תאריך גישה 2008-12-12. -- רישיון Creative Commons (ייחוס, לא לשימוש מסחרי, ללא עריכה)] <!-- TODO: Fallback translation -->
 
 **lekt2201**: ⟪धेनवश्चरन्ति⟫ גואה = ⟪गोंय⟫ [מקור תמונה: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- תאריך גישה 2008-12-12. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
 
-**lekt2405**: ⟪अलंकारः⟫ [מקור תמונה: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- תאריך גישה 2008-12-14. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
+**lekt2405**: ⟪अलंकारः⟫ [מקור תמונה: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- תאריך גישה 2008-12-14. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt2406**: ⟪देवीप्रतिमा⟫ האמפי = ಹಂಪೆ, קרנאטקה = ಕರ್ನಾಟಕ [מקור תמונה: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- תאריך גישה 2008-12-14. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
 
@@ -4690,9 +4698,9 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt2411**: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫ כתב יד של ⟪गीतगोविन्द⟫, 1730 לספירה [מקור תמונה: ויקיפדיה, קניין ציבורי]
 
-**lekt2501**: ⟪धान्यम्⟫ חאנה [מקור תמונה: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- תאריך גישה 2008-12-15. -- רישיון Creative Commons (ייחוס)]
+**lekt2501**: ⟪धान्यम्⟫ חאנה [מקור תמונה: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- תאריך גישה 2008-12-15. -- רישיון Creative Commons (ייחוס)] <!-- TODO: Fallback translation -->
 
-**lekt2502**: ⟪मूलानि⟫ ורנסי [מקור תמונה: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- תאריך גישה 2008-12-15. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
+**lekt2502**: ⟪मूलानि⟫ ורנסי [מקור תמונה: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- תאריך גישה 2008-12-15. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt2503**: ⟪लिप्तिः⟫ כתב יד ג'איני [מקור תמונה: ויקיפדיה, קניין ציבורי]
 
@@ -4718,7 +4726,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt2903**: ⟪परिव्राजकाः⟫ פושקר = ⟪पुष्कर⟫ [מקור תמונה: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- נגיש ב-2008-12-20. -- רישיון קריאטיב קומוןס (ייחוס, ללא שימוש מסחרי, שווה לרישיון)]
 
-**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ המילטון [מקור תמונה: Khalid Mahmood / ויקיפדיה. רישיון GNU FDL]
+**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ המילטון [מקור תמונה: Khalid Mahmood / ויקיפדיה. רישיון GNU FDL] <!-- TODO: Fallback translation -->
 
 **lekt3001**: ⟪क्रीणन्ति⟫ ⟪विक्रीनते⟫ ⟪च⟫ בונדי = ⟪बुन्दी⟫, רג'סטן = ⟪राजस्थान⟫ [מקור תמונה: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- נגיש ב-2008-12-21. -- רישיון קריאטיב קומוןס (ייחוס, ללא שימוש מסחרי, ללא עיבוד)]
 
@@ -4740,15 +4748,15 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt3202**: ⟪चूतः⟫ ⟪कानपुर⟫, פונה [מקור התמונה: AmarChandra / ויקיפדיה. -- רישיון Creative Commons Attribution ShareAlike 2.5 (ייחוס, שיתוף זהה)]
 
-**lekt3203**: ⟪वानराः⟫ דלהי = ⟪दहली⟫ [מקור התמונה: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- נגיש ב-25.12.2008. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה)]
+**lekt3203**: ⟪वानराः⟫ דלהי = ⟪दहली⟫ [מקור התמונה: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- נגיש ב-25.12.2008. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt3204**: ⟪उपलाः⟫ "הסלעים כאן קשים מספיק כך שהמפגרים ששתלטו על מחצבת העזובה דרומית למרכז העיר מעדיפים לא להכות בהם ישירות עם הפטישים שלהם. הם מחממים את הסלעים תחילה — עם צמיגים בוערים, פלסטיק גנאי, ואפילו נעלי גומי ישנות — כך שהאבנים יתבקעו בקלות רבה יותר. עם שקיעת השמש, כאשר שלוש או ארבע להבות פולטות ענני שחור חנוקים על פני הגומא הענק, המחצבה נראית כמו חיתוך עץ מתוך דנטה. בפיו של מחצבת האבנים הזו בפונה, מחאראשטרה, נשים קטנות בגדי סארי עובדות במשמות של 14 שעות בשבירת סלעים לחתיכות בגודל כדור קריקט. פטישי ענק חותכים דרך האוויר לקול של אבן מתבקעת. מאחוריהם רעמו מכונות גדולות שטחנו אבן רק כדי להוציא גרוטאות בניין. כמעט כל פנים היו מכוסים באבק לבן. אבק, כבד ומחניק, צף באוויר כמו ערפל המכסה הכל." [מקור התמונה והטקסט: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- נגיש ב-25.12.2008. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה)]
 
-**lekt3205**: ⟪लक्ष्यम्⟩ קרנאטקה = ಕರ್ನಾಟಕ [מקור התמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- נגיש ב-25.12.2008. -- רישיון Creative Commons (ייחוס, לא עבודות נגזרות)]
+**lekt3205**: ⟪लक्ष्यम्⟩ קרנאטקה = ಕರ್ನಾಟಕ [מקור התמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- נגיש ב-25.12.2008. -- רישיון Creative Commons (ייחוס, לא עבודות נגזרות)] <!-- TODO: Fallback translation -->
 
-**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: צואת פרות) רג'סטן [מקור התמונה: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- נגיש ב-25.12.2008. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה)]
+**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: צואת פרות) רג'סטן [מקור התמונה: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- נגיש ב-25.12.2008. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
-**lekt3206**: ⟪कौशलम्⟫ מנדהי = ⟪मेहन्दी⟫, מומבאי = ⟪मुंबई⟫ [מקור התמונה: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- נגיש ב-25.12.2008. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה)]
+**lekt3206**: ⟪कौशलम्⟫ מנדהי = ⟪मेहन्दी⟫, מומבאי = ⟪मुंबई⟫ [מקור התמונה: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- נגיש ב-25.12.2008. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt3306**: ⟪दानम्⟫ "ב-20 באוגוסט 2005 בצ'נאי, הודיה, חותני העתידיים שלי העניקו לנו מסיבת אירוסין הודית רשמית. זה נראה כמו חתונה אבל זה לא, כך הם עושים דברים. מאוד מפואר. אירוע זה היה ברכה עצומה עבורי. מעולם לא הרגשתי כל כך אהוב על ידי משפחה אחרת. אני רק מאחל שמשפחתי הייתה שם, אבל לפחות יש לי סרטון של כל האירוע לשתף. חותני העתידיים שלי עשו את כל האירוע קרות ב-3 ימים. הכל בין הזמנות לצלם שכור. זה היה מדהים, מעבר למילים יכולות להסביר את הרגשות הזורמים." [מקור התמונה והטקסט: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- נגיש ב-26.12.2008. -- רישיון Creative Commons (ייחוס, שיתוף זהה)]
 
@@ -4756,7 +4764,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, קַוֵירִיפַקָאם = காவேரிப்பாக்கம், טאמיל נאדו, המאה ה-10 לספירה [מקור תמונה: Quadell / ויקיפדיה. רישיון GNU FDL]
 
-**lekt3304**: ⟪भयम्⟫ מומבאי = ⟪मुंबई⟫, 2008 [מקור תמונה: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- תאריך גישה 2008-12-26. -- רישיון Creative Commons (ייחוס)]
+**lekt3304**: ⟪भयम्⟫ מומבאי = ⟪मुंबई⟫, 2008 [מקור תמונה: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- תאריך גישה 2008-12-26. -- רישיון Creative Commons (ייחוס)] <!-- TODO: Fallback translation -->
 
 **lekt3303**: ⟪हीनयानमेव⟫ תאילנד [מקור תמונה: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- תאריך גישה 2008-12-26. -- רישיון Creative Commons (ייחוס, לא לשימוש מסחרי)]
 
@@ -4776,13 +4784,13 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt3401**: ⟪ऋषभः⟫ גבעות צ'אמונדי [מקור תמונה: Luna Park. -- http://www.flickr.com/photos/lunapark/2124083737/. -- תאריך גישה 2008-12-27. -- רישיון Creative Commons (ייחוס, לא לשימוש מסחרי, ללא עיבוד)]
 
-**lekt3502**: ⟪क्रामन्ति⟫ [מקור תמונה: Curt Carnemark / הבנק העולמי. -- http://www.flickr.com/photos/worldbank/2182732473/. -- תאריך גישה 2008-12-28. -- רישיון Creative Commons (ייחוס, לא לשימוש מסחרי, ללא עיבוד)]
+**lekt3502**: ⟪क्रामन्ति⟫ [מקור תמונה: Curt Carnemark / הבנק העולמי. -- http://www.flickr.com/photos/worldbank/2182732473/. -- תאריך גישה 2008-12-28. -- רישיון Creative Commons (ייחוס, לא לשימוש מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt3501**: ⟪जगुः⟫ מקדש קאדו מאלֵשְׁוַארה, באנגלור = ಬೆಂಗಳೂರು [מקור תמונה: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- תאריך גישה 2008-12-28. -- רישיון Creative Commons (ייחוס, לא לשימוש מסחרי)]
 
-**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ אוּדַיְפוּר = ⟪उदयपुर⟫ [מקור תמונה: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- נגיש ב־28 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
+**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ אוּדַיְפוּר = ⟪उदयपुर⟫ [מקור תמונה: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- נגיש ב־28 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
-**lekt3602**: ⟪अगारम्⟫ שֶׁקָאוֹוָאטִי = ⟪शेखावाटी⟫ [מקור תמונה: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- נגיש ב־28 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שיתוף זהה)]
+**lekt3602**: ⟪अगारम्⟫ שֶׁקָאוֹוָאטִי = ⟪शेखावाटी⟫ [מקור תמונה: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- נגיש ב־28 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt3603**: ⟪अनगार्यम्⟫ צפון־מזרח תאילנד = อีสาน [מקור תמונה: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- נגיש ב־28 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
 
@@ -4792,25 +4800,25 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt3705**: ⟪शाक्यमुनिः⟫ חוסיין סאגר = హుస్సేన్ సాగర్, היידראבאד = హైదరాబాద్ [מקור תמונה: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- נגיש ב־31 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
 
-**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [מקור תמונה: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- נגיש ב־31 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
+**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [מקור תמונה: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- נגיש ב־31 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
-**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, קוֹנָארְק = ⟪कोनार्क⟫ [מקור תמונה: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- נגיש ב־31 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
+**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, קוֹנָארְק = ⟪कोनार्क⟫ [מקור תמונה: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- נגיש ב־31 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
 **lekt3805**: ⟪उदकम्⟫ כפר דָרֶוָאדִי, מחוז אחמד נאגָר = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [מקור תמונה: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- נגיש ב־1 בינואר 2009. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
 
 **lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ גַנְדְהָרָה, המאה ה־2/3 לספירה [מקור תמונה: Wikipedia. Public domain]
 
-**lekt3809**: ⟪ब्रह्मा⟫ הָלֶבִּידוּ = ಹಳೆಬೀಡು [מקור תמונה: Wikipedia. GNU FDLicense]
+**lekt3809**: ⟪ब्रह्मा⟫ הָלֶבִּידוּ = ಹಳೆಬೀಡು [מקור תמונה: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde קַלְקוּטָה = কলকাতা [מקור תמונה: J.M.Garg / Wikipedia. GNU FDLicense]
 
 **lekt3811**: ⟪अशोकः⟫ ההתפשטות הגדולה ביותר של האימפריה של אָשׁוֹקָה, וכן אתרי מציאת צווארי הסלע והעמוד שלו [מקור תמונה: Wikipedia.GNU FDLicense]
 
-**lekt3812**: ⟪विनोदः⟫ משחק קָרֹם [מקור תמונה: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- נגיש ב־1 בינואר 2009. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
+**lekt3812**: ⟪विनोदः⟫ משחק קָרֹם [מקור תמונה: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- נגיש ב־1 בינואר 2009. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt3813**: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ [מקור תמונה: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- נגיש ב־1 בינואר 2009. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
 
-**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [מקור תמונה: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- נגיש ב־1 בינואר 2009. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
+**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [מקור תמונה: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- נגיש ב־1 בינואר 2009. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [מקור התמונה: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- נגיש ב-2009-01-02. -- רישיון Creative Commons (ייחוס)]
 
@@ -4818,19 +4826,19 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt4001**: ⟪विष्णोर्दशावताराः⟫ עם כיוון השעון: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪प्रशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, במרכז: ⟪कृष्ण⟫ [מקור התמונה: ויקיפדיה. תחום הציבור]
 
-**lekt4004**: ⟪स्वपन्ति⟫ עטלפי פרי הודיים (_Pteropus giganteus_), אמדאבאד = અમદાવાદ [מקור התמונה: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- נגיש ב-2009-01-02. -- רישיון Creative Commons (ייחוס, לא מסחרי, ללא עיבוד)]
+**lekt4004**: ⟪स्वपन्ति⟫ עטלפי פרי הודיים (_Pteropus giganteus_), אמדאבאד = અમદાવાદ [מקור התמונה: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- נגיש ב-2009-01-02. -- רישיון Creative Commons (ייחוס, לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt4105**: ⟪भुजङ्गः⟫ נחש קרייט פסים (_Bungarus fasciatus_) [מקור התמונה: J. Ewart. The poisonous snakes of India, 1878. תחום הציבור]
 
 **lekt4104**: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫ חליבת ארס נחש (קרייט), תאילנד [מקור התמונה: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- נגיש ב-2009-01-03. -- רישיון Creative Commons (ייחוס)]
 
-**lekt4109**: ⟪शासना⟫ צוואת אשוקה, דהולי, אורישה [מקור התמונה: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- נגיש ב-2009-01-03. -- רישיון Creative Commons (ייחוס, לא מסחרי)]
+**lekt4109**: ⟪शासना⟫ צוואת אשוקה, דהולי, אורישה [מקור התמונה: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- נגיש ב-2009-01-03. -- רישיון Creative Commons (ייחוס, לא מסחרי)] <!-- TODO: Fallback translation -->
 
 **lekt4110**: ⟪शास्त्री⟫ מקס מילר (1823 - 1900), כ-1898 [מקור התמונה: ויקיפדיה. תחום הציבור]
 
 **lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ הדיואן אי קהאס, או אולם האודיאנס הפרטיים בלאל קילה (המבצר האדום) בניו דלהי. [מקור התמונה: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- נגיש ב-2009-01-04. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה)]
 
-**lekt4302**: ⟪आपणः⟫ אורישה = ଓଡ଼ିଶା [מקור התמונה: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- נגיש ב-2009-01-06. -- רישיון Creative Commons (ייחוס, לא מסחרי)]
+**lekt4302**: ⟪आपणः⟫ אורישה = ଓଡ଼ିଶା [מקור התמונה: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- נגיש ב-2009-01-06. -- רישיון Creative Commons (ייחוס, לא מסחרי)] <!-- TODO: Fallback translation -->
 
 **lekt4303**: ⟪पण्यानि⟫ ג'משדפור = ⟪जमशेदपुर⟫ [מקור התמונה: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- נגיש ב-2009-01-06. -- רישיון Creative Commons (ייחוס, לא מסחרי)]
 
@@ -4838,21 +4846,21 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt4305**: ⟪वणिक्⟫ קאנצ'יפורם = காஞ்சிபுரம [מקור התמונה: visio. -- http://www.flickr.com/photos/visio/421217297/. -- נגיש ב-2009-01-06. -- רישיון Creative Commons (ייחוס, לא מסחרי, שיתוף זהה)]
 
-**lekt4306**: ⟪वत्सः⟫ שור מים (_Bubalus bubalis_), מאנגלור = ಮಂಗಳೂರು [מקור התמונה: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- נגיש ב-2009-001-06. -- רישיון Creative Commons (ייחוס, שיתוף זהה)]
+**lekt4306**: ⟪वत्सः⟫ שור מים (_Bubalus bubalis_), מאנגלור = ಮಂಗಳೂರು [מקור התמונה: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- נגיש ב-2009-001-06. -- רישיון Creative Commons (ייחוס, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
-**lekt4307**: ⟪तोलन्ति⟫ [מקור התמונה: Ray Witlin / הבנק העולמי. -- http://www.flickr.com/photos/worldbank/2183198505/. -- נגיש ב-2009-01-06. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
+**lekt4307**: ⟪तोलन्ति⟫ [מקור התמונה: Ray Witlin / הבנק העולמי. -- http://www.flickr.com/photos/worldbank/2183198505/. -- נגיש ב-2009-01-06. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
-**lekt4403**: ⟪रेल्यानम्⟫ ⟪वाराणआस्याम्⟫, ⟪१९७४⟫ [מקור התמונה: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
+**lekt4403**: ⟪रेल्यानम्⟫ ⟪वाराणआस्याम्⟫, ⟪१९७४⟫ [מקור התמונה: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
-**lekt4404**: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫ [מקור התמונה: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
+**lekt4404**: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫ [מקור התמונה: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
-**lekt4405**: ⟪नन्दी⟩ Kodagu = ಕೊಡಗು [מקור התמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
+**lekt4405**: ⟪नन्दी⟩ Kodagu = ಕೊಡಗು [מקור התמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
-**lekt4406**: ⟪आयतो⟫ ⟪मरुः⟫ ⟪थार⟫ ⟪मरुस्थल⟫ [מקור התמונה: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
+**lekt4406**: ⟪आयतो⟫ ⟪मरुः⟫ ⟪थार⟫ ⟪मरुस्थल⟫ [מקור התמונה: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
 **lekt4407**: ⟪यत्नेन⟩ קולאם = കൊല്ലം [מקור התמונה: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
 
-**lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [מקור התמונה: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
+**lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [מקור התמונה: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt4602**: ⟪नवग्रहाः⟫ [מקור התמונה של ⟪नवग्रह⟫ : Redtigerxyz / ויקיפדיה. רישיון GNU FDL]
 
@@ -4868,11 +4876,11 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt4608**: ⟪महामात्रः⟫ ⟪उदयपुर⟫ [מקור התמונה: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- נגיש ב-2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
 
-**lekt4609**: ⟪श्रान्तः⟫ קרנאטהקה = ಕರ್ನಾಟק [מקור התמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- נגיש ב-2009-01-09. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
+**lekt4609**: ⟪श्रान्तः⟫ קרנאטהקה = ಕರ್ನಾಟק [מקור התמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- נגיש ב-2009-01-09. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
-**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [מקור התמונה: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- נגיש ב-2009-01-09. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
+**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [מקור התמונה: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- נגיש ב-2009-01-09. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
-**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, בנגלור = ಬೆಂಗಳೂರು [מקור תמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- תאריך גישה 2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
+**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, בנגלור = ಬೆಂಗಳೂರು [מקור תמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- תאריך גישה 2009-01-08. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
 **lekt4611**: ⟪भोः⟫ קוץ' = ⟪कच्छ⟫ [מקור תמונה: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- תאריך גישה 2009-01-09. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
 
@@ -4880,7 +4888,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt4803**: ⟪तन्त्री⟫ נגני סיטאר = ⟪सितारवादकः⟫ [מקור תמונה: ויקיפדיה. תחום הציבור]
 
-**lekt4804**: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫ [קבוצת סיוע עצמי (SHG)], טאמיל נאדו = தமிழ்நாடு [מקור תמונה: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- תאריך גישה 2009-01-10. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
+**lekt4804**: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫ [קבוצת סיוע עצמי (SHG)], טאמיל נאדו = தமிழ்நாடு [מקור תמונה: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- תאריך גישה 2009-01-10. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
 **lekt4805**: ⟪कुमारः⟫ חג טאיפוסאם = தைப்பூசם, באטו קייבס, מלזיה [מקור תמונה: tajai. -- http://www.flickr.com/photos/cayce/108707865/. -- תאריך גישה 2009-01-10. -- רישיון Creative Commons (ייחוס)]
 
@@ -4888,11 +4896,11 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt4807**: ⟪स्थविराः⟫ ⟪जोधपुर⟫ [מקור תמונה: zz77. -- http://www.flickr.com/photos/zz77/2256414024/. -- תאריך גישה 2009-01-10. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
 
-**lekt4808**: ⟪सूक्ष्मम्⟫ אגם קרנג'י = ಕಾರಂಜಿ ಕೆರೆ [מקור תמונה: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- תאריך גישה 2009-01-10. -- רישיון Creative Commons (ייחוס, שיתוף זהה)]
+**lekt4808**: ⟪सूक्ष्मम्⟫ אגם קרנג'י = ಕಾರಂಜಿ ಕೆರೆ [מקור תמונה: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- תאריך גישה 2009-01-10. -- רישיון Creative Commons (ייחוס, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt4809**: ⟪जाया⟫ [תמונה: פייקר]
 
-**lekt4901**: ⟪कुलूहलम्⟩ [מקור תמונה: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- תאריך גישה 2009-01-11. -- רישיון Creative Commons (ייחוס, ללא עיבוד)]
+**lekt4901**: ⟪कुलूहलम्⟩ [מקור תמונה: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- תאריך גישה 2009-01-11. -- רישיון Creative Commons (ייחוס, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt4902**: ⟪कला⟫ ⟪शिवो⟫ ⟪नटराजा⟫, המאה ה-11 [מקור תמונה: Vassil / ויקיפדיה. תחום הציבור]
 
@@ -4912,7 +4920,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt5005**: ⟪आदित्यः⟫ [מקור תמונה: סונדר אייר. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- נגיש ב-2009-01-12. -- רישיון Creative Commons (ייחוס, שווה בשווה)]
 
-**lekt5003**: ⟪कल्याणी⟫ [מקור תמונה: דהיאנג'י. -- http://www.flickr.com/photos/dhyanji/131433199/. -- נגיש ב-2009-01-12. -- רישיון Creative Commons (ייחוס, לא מסחרי, ללא עיבוד)]
+**lekt5003**: ⟪कल्याणी⟫ [מקור תמונה: דהיאנג'י. -- http://www.flickr.com/photos/dhyanji/131433199/. -- נגיש ב-2009-01-12. -- רישיון Creative Commons (ייחוס, לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
 **lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [מקור תמונה: קונוסו / ויקיפדיה. רישיון GNU FDL]
 
@@ -4932,27 +4940,27 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt5112**: ⟪कौशिकः⟫ בודהה-קאוז (_Athene brama), מהסאנה = મહેસાણા [מקור תמונה: אומאנג דוט. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- נגיש ב-2009-01-13. -- רישיון Creative Commons (ייחוס, לא מסחרי, ללא עיבוד)]
 
-**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟩ קרנאטהקה = ಕರ್ನಾಟק [מקור תמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- תאריך גישה 2009-01-13. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
+**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟩ קרנאטהקה = ಕರ್ನಾಟק [מקור תמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- תאריך גישה 2009-01-13. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
 **lekt5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. "גברים אלה ישבו ושתו מול מקדש של אל הינדי כלשהו (שכחתי את השם). כששאלתי אותם, הם אמרו שהם קצבים וזה היה אל המקצוע שלהם שקיבל קורבנות של אלכוהול בלבד." [מקור התמונה והטקסט: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- תאריך גישה 2009-01-13. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
 
-**lekt5115**: ⟪मूषिकाविषाणि⟫ באנגלור = ಬೆಂಗಳೂರು [מקור תמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- תאריך גישה 2009-01-13. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
+**lekt5115**: ⟪मूषिकाविषाणि⟫ באנגלור = ಬೆಂಗಳೂರು [מקור תמונה: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- תאריך גישה 2009-01-13. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
-**lekt5116**: ⟪भुजङ्गः⟫ נחש שרשרת (_Daboia russelii_), באנגלור = ಬೆಂಗಳೂರು [מקור תמונה: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- תאריך גישה 2009-01-13. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
+**lekt5116**: ⟪भुजङ्गः⟫ נחש שרשרת (_Daboia russelii_), באנגלור = ಬೆಂಗಳೂರು [מקור תמונה: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- תאריך גישה 2009-01-13. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt5118**: ⟪मणिः⟫ יהלום התקווה מגונטור = ಗುಂತೂರು, כיום מוזיאון הסמית'סוניאן להיסטוריה טבעית, וושינגטון די.סי. [מקור תמונה: David Bjorgen / ויקיפדיה. רישיון GNU FDLicense]
 
-**lekt5117**: ⟪मदः⟫ [מקור תמונה: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- תאריך גישה 2009-01-13. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
+**lekt5117**: ⟪मदः⟫ [מקור תמונה: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- תאריך גישה 2009-01-13. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt5210**: ⟪खिलः⟫ טמבהול, אקולה, אחמדנאגאר = ⟪अहमदनगर⟫ [מקור תמונה: Dan Tunstall / צוות מוסד המשאבים העולמי. -- http://www.flickr.com/photos/wricontest/291696431/. -- תאריך גישה 2009-01-16. -- רישיון Creative Commons (ייחוס)]
 
-**lekt5212**: ⟪पीडिताः⟫ היידראבאד = ಹೈದರಾಬಾದ್ [מקור תמונה: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- תאריך גישה 2009-01-16. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
+**lekt5212**: ⟪पीडिताः⟫ היידראבאד = ಹೈದರಾಬಾದ್ [מקור תמונה: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- תאריך גישה 2009-01-16. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
-**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [מקור תמונה: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- תאריך גישה 2009-01-16. -- רישיון Creative Commons (ייחוס, ללא עיבוד)]
+**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [מקור תמונה: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- תאריך גישה 2009-01-16. -- רישיון Creative Commons (ייחוס, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
-**lekt5214**: ⟪चक्रम्⟫ קונארק = ⟪कोनार्क⟫ [מקור תמונה: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- תאריך גישה 2009-01-16. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
+**lekt5214**: ⟪चक्रम्⟫ קונארק = ⟪कोनार्क⟫ [מקור תמונה: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- תאריך גישה 2009-01-16. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
-**lekt5208**: ⟪कदली⟩ המפי = ಹಂಪೆ [מקור תמונה: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- תאריך גישה 2009-01-15. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
+**lekt5208**: ⟪कदली⟩ המפי = ಹಂಪೆ [מקור תמונה: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- תאריך גישה 2009-01-15. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [מקור תמונה: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- תאריך גישה 2009-01-16. -- רישיון Creative Commons (ייחוס)]
 

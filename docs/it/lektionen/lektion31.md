@@ -57,7 +57,7 @@ Esempio:
 *   Indicativo Presente
     *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti)
     *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti)
-*   Futurooo: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
+*   Futuroooooo: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
 *   Passivo: **⟪भज्यते⟫** (o dalla radice originale **⟪भज्⟫** o da *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (eventualmente da *bhñj + na)
 :::

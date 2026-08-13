@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 54
+# 第54課
 
 ## 54.1. Vorbemerkung
 

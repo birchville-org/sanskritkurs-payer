@@ -75,7 +75,7 @@ Der Auslaut eines Wortes richtet sich im Sanskrit auch nach dem Anlaut des darau
 
 Siehe auch die Übersicht:
 
-> **Payer, Alois \<1944 - \>:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Auslautendes **-s**:
 
@@ -164,7 +164,7 @@ Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschn
 
 Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
 
-Max Weber \<1864 – 1920\> definiert Stand so:
+Max Weber (1864–1920) definiert Stand so:
 
 ::: note-box
 »**Stand**« soll eine Vielheit von Menschen heissen, die innerhalb eines Verbandes wirksam
@@ -184,7 +184,7 @@ Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, 
 
 Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
 
-[**Weber, Max \<1864 – 1920\>:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 Varṇas sind demgemäss Geburtsstände.
 

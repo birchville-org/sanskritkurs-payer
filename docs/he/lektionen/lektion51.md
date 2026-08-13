@@ -172,7 +172,7 @@ c) סיומת ⟪कृत्⟫ -a
 * **-ś » -ṭ או -k**
 * **-ṣ » -ṭ או -k**
 :::
-דוגמאות:
+דוגמאות: <!-- TODO: Fallback translation -->
 
 ⟪सत्यवाच्⟫ 3 "האומר אמת" (⟪बहुव्रीहि⟫)
 
@@ -612,9 +612,9 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 ::: deleteme-box
 
-**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [מקור התמונה: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- תאריך גישה 2009-01-13. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ייחוס)]
+**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [מקור התמונה: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- תאריך גישה 2009-01-13. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ייחוס)] <!-- TODO: Fallback translation -->
 
-**lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [מקור התמונה: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ייחוס)]
+**lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [מקור התמונה: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ייחוס)] <!-- TODO: Fallback translation -->
 
 **lekt5102:** ⟪नेपाल⟫ [מקור התמונה: amanderson2. -- [http://www.flickr.com/photos/amanderson/2420198291/](http://www.flickr.com/photos/amanderson/2420198291/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ייחוס)]
 
@@ -624,7 +624,7 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 **lekt5107:** ⟪ऋषिकेश⟫ [מקור התמונה: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, לא לשימוש מסחרי, באותו רישיון)]
 
-**lekt5108:** קולקטה = কলকাতা [מקור התמונה: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, לא לשימוש מסחרי, באותו רישיון)]
+**lekt5108:** קולקטה = কলকাতা [מקור התמונה: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, לא לשימוש מסחרי, באותו רישיון)] <!-- TODO: Fallback translation -->
 
 **lekt5109:** ארמון העיר, ⟪उदयपुर⟫ [מקור התמונה: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, לא לשימוש מסחרי, באותו רישיון)]
 
@@ -632,18 +632,18 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 **lekt5111:** _Canis aureus_, שמורת קאלאטופ קח'ג'יאר [מקור התמונה: gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, לא לשימוש מסחרי, ללא עיבוד)]
 
-**lekt5112:** ינשוש ברהמה (_Athene brama), מהסאנה = મહેસાણા [מקור התמונה: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, לא לשימוש מסחרי, ללא עיבוד)]
+**lekt5112:** ינשוש ברהמה (_Athene brama), מהסאנה = મહેસાણા [מקור התמונה: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, לא לשימוש מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
-**lekt5113:** קרנאטקה = ಕರ್ನಾಟק [מקור התמונה: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ייחוס, לא לשימוש מסחרי)]
+**lekt5113:** קרנאטקה = ಕರ್ನಾಟק [מקור התמונה: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- נגיש ב־13.01.2009. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ייחוס, לא לשימוש מסחרי)] <!-- TODO: Fallback translation -->
 
 **lekt5114:** ⟪जोधपुर⟫
 
-**lekt5115:** באנג'לור = ಬೆಂಗಳೂರು [מקור תמונה: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/387955362/](http://www.flickr.com/photos/mattlogelin/387955362/). -- תאריך גישה 2009-01-13. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ייחוס, שימוש לא מסחרי)]
+**lekt5115:** באנג'לור = ಬೆಂಗಳೂರು [מקור תמונה: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/387955362/](http://www.flickr.com/photos/mattlogelin/387955362/). -- תאריך גישה 2009-01-13. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
 
-**lekt5116:** נחש שרשרת (_Daboia russelii_), באנג'לור = ಬೆಂಗಳೂರು [מקור תמונה: teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/). -- תאריך גישה 2009-01-13. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
+**lekt5116:** נחש שרשרת (_Daboia russelii_), באנג'לור = ಬೆಂಗಳೂರು [מקור תמונה: teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/). -- תאריך גישה 2009-01-13. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, שימוש לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt5118:** יהלום התקווה מגונטור = ಗುಂತೂರು, כיום מוזיאון סמית'סון להיסטוריה טבעית, וושינגטון די.סי. [מקור תמונה: David Bjorgen / ויקיפדיה. רישיון GNU FDLicense]
 
-**lekt5117:** [מקור תמונה: muzina\_shanghai. -- [http://www.flickr.com/photos/muzina\_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/). -- תאריך גישה 2009-01-13. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
+**lekt5117:** [מקור תמונה: muzina\_shanghai. -- [http://www.flickr.com/photos/muzina\_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/). -- תאריך גישה 2009-01-13. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, שימוש לא מסחרי, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 :::

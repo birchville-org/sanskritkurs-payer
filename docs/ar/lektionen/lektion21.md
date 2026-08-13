@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # الدرس 21
 
@@ -40,7 +40,8 @@ status: stable
 1\. فئة المضارع:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "مُتَعَبِّدٌ بِقُرْبَانٍ"
+**yajant**
+⟪यजन्त्⟫ "مُتَعَبِّدٌ بِقُرْبَانٍ"
 :::
 ::: grammar-box
 

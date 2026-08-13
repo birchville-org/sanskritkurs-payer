@@ -6,9 +6,9 @@ Sanskrita a fost și este scrisă într-o varietate de scripturi. Următoarea pr
 
 ![](/images/schrift001.webp)  
 Fig.: Probe de scriere sanscrită  
-\[Sursa imaginii: Wikipedia, Licență GNU FDL\]
+\[Sursa imaginii: Wikipedia, Licență GNU FDL\] <!-- TODO: Fallback translation -->
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ Fiecare semn consoantă indică și un „a” care urmează consoanei. Dacă se
 
 Vocalele care urmează unei consoane — cu excepția „a” — se scriu astfel:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
 
 Ordinea de scriere a acestor combinații de consoană + vocală este:
 

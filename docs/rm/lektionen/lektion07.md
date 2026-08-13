@@ -1,26 +1,28 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: "Lecziun 7"
+subtitle: "La frasa verbala cun object direct"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 7
+# Lecziun 7
 
 ::: deleteme-box
-**En questa lecziun avais da aprender:**
+**En questa lecziun avais Vus:**
 - La frasa verbala cun object direct
-- L’accusativ dals nomens e pronomens
+- L'accusativ dals nomens e pronomins
 - Il Sandhi da -n final
 - Il neutrum dals stems a
-- Las classas da presentia athematicas (a l’exemple da la 5. classa)
+- Las classas da prezens senza tema (a l'exemple da la 5. classa)
 :::
 
 ::: center
-**Frasi da la emna**
-:::
+**Sprech da la emna**
+::: <!-- TODO: Fallback translation -->
+
 
 ::: center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
@@ -33,11 +35,12 @@ status: stable
 **kṣamā jayati na krodho**
 **devo jayati nāsuraḥ ||**
 
-Il dretg vegn vinchent, betg il mal,
-La veritad vegn vinchenta, betg la falsitad,
-Pazienza vegn vinchenta, betg l’ira,
-Dus vegn vinchent, betg il adversari.
+Il dretg gudogna, betg il maldretg,
+La veritad gudogna, betg la falsitad,
+Indulgenza gudogna, betg l'ira,
+Dieu gudogna, betg il contra-dieu.
 :::
+
 
 ## 7.1. La frasa verbala cun object direct
 
@@ -45,41 +48,42 @@ Dus vegn vinchent, betg il adversari.
 **Schema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – object direct (karman n. = ⟪कर्मन्⟫) – verb**
 
-z.B.
-- **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma isst (kaut) eine Frucht."
-- **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Der Brahmane verehrt einen Gott mit einem Opfer (für jemand anderes)."
+e.g.
+- **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma mangia (mangia) in fruit."
+- **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Il brahman onura in dieu cun in sacrifici (per qualchidà autra)."
 :::
-Steht das Verb im Parasmaipada ni Ātmanepada, so steht das direkte Objekt (**karman** n. = ⟪कर्मन्⟫) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫).
+Sche il verb è en Parasmaipada u Ātmanepada, alura sa chatta l'object direct (**karman** n. = ⟪कर्मन्⟫) generalmain en l'**accusativ** (cas 2, dvitīyā f. = ⟪द्वितीया⟫).
 
-## 7.2. L'accusativ (cas dal «tschertgà», dvitīyā f. = ⟪द्वितीया⟫ = «segunda desinenza da casus»)
+
+## 7.2. L'accusativ (cas 2, dvitīyā f. = ⟪द्वितीया⟫ = "secunda desinenza da cas")
 
 ::: grammar-box
-**Desinenza dal accusativ singular masculin e feminin suvot da vocal: -m**
+**Desinenza da l'accusativ singular masculin e feminin suenter vocal: -m**
 
-| Maskulina auf | Akkusativ Singular |
+| Masculins sin | Accusativ singular |
 | :--- | :--- |
 | **-a**: deva | **devam** :br⟪देवम्⟫ |
 | **-i**: kavi | **kavim** :br⟪कविम्⟫ |
 | **-u**: guru | **gurum** :br⟪गुरुम्⟫ |
-| Feminina su | Acusativ singular |
+| Feminins sin | Accusativ singular |
 | **-ā**: devatā | **devatām** :br⟪देवताम्⟫ |
 | **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
 | **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
 | **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
 :::
 ::: grammar-box
-**Acusativ plural masculin da las radichs cun vocala (excepziun: radichs monosillabicas cun vocala lunga): allungament da la vocala finala + -n**
+**Accusativ plural masculin dals stems sin vocal (excepziun: stems da radis monosillabics cun vocal lunga): Lungida da la vocal finala + -n**
 
-| Maskulina su | Acusativ plural |
+| Masculins sin | Accusativ plural |
 | :--- | :--- |
 | **-a**: deva | **devān** :br⟪देवान्⟫ |
 | **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
 | **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
 :::
 ::: grammar-box
-**Acusativ plural feminin da las radichas cun vocal (excepziun: radichas monosillabicas cun vocal lunga):** Lungida dal vocal final + -s
+**Accusativ plural feminin dals stems sin vocal (excepziun: stems da radis monosillabics cun vocal lunga): Lungida da la vocal finala + -s**
 
-| Feminina auf | Akkusativ Plural |
+| Feminins sin | Accusativ plural |
 | :--- | :--- |
 | **-ā**: devatā | **devatās** :br⟪देवतास्⟫ |
 | **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ |
@@ -87,214 +91,221 @@ Steht das Verb im Parasmaipada ni Ātmanepada, so steht das direkte Objekt (**ka
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
 
-### 7.2.1. Akkusativ Singular und Plural der Frage- und Pronomens demonstrativs
+### 7.2.1. Accusativ singular e plural dals pronomins interogatifs e demonstratiffs
 
 ::: grammar-box
 | || Masculin | Feminin | Neutrum |
 | :--- | :--- | :--- | :--- | :--- |
-| **kim** :brfer/che | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
+| **kim** :brco/chei | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
 | | pl. | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
-| **tad** :brel/questi | sg. | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ |
+| **tad** :brel/ella/quell | sg. | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ |
 | | pl. | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ |
 | **etad** :brquesti qua | sg. | **etam / enam** :br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām** :br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad** :br⟪एतद्⟫ / ⟪एनद्⟫ |
 | | pl. | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ |
 | **idam** :brquesti | sg. | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ |
 | | pl. | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
 :::
-Las furmas **enam** (⟪एनम्⟫) ecc. appartegnan al stemma **enad** (⟪एनद्⟫), che furma mo casus en qualch cas. Questas vegnan adina en plaz da las furmas da **etad** e **idam** allura, sche quai designà è stà menziunà en il text precedent.
-z.B. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "El è in dieu. On fa sacrifici a el."
+Las furmas **enam** (⟪एनम्⟫) ecc. appartegnan al stemma **enad** (⟪एनद्⟫), che furma mo da casus en qualas. Quests vegnan adina al plaz da las furmas da **etad** e **idam**, sche quai, ch'è vegnì designà cun ellas, è gia menziunà en il text avant.
+p.ex. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "El è in deus. On s'offra a el."
 
-### 7.2.2. L'usi dal casus acusatīvus (casus objectivus, dvitīyā f. = ⟪द्वितीया⟫ = "secunda desinentia casalis")
+
+### 7.2.2. Utilisaziun dal accusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "secunda finis da casus")
 
 ::: grammar-box
-L’accusativ (dvitīyā f. = ⟪द्वितीया⟫) designescha:
-1. En la frasa verbala activa: l’**object direct** (karman n. = ⟪कर्मन्⟫) da l’acziun exprimida tras il verb:
-   per exempel
-   - **devaṃ yajati** = ⟪देवं⟫ ⟪यजति⟫ : «El onura in dieu cun in sacrifici.»
-   - **phalam āpnoti** = ⟪फलमाप्नोति⟫ : «El ottenta il fruct (p.ex. da ses agirs).»
-2. Cun verbs che expriman ir, moviment, gidar u simiglent vers quai, designescha l’accusativ la direcziun dal moviment:
-   per exempel
-   - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : «El va en l’infern.»
+L'accusativ (dvitīyā f. = ⟪द्वितीया⟫) designescha:
+1. En il cudesch verbal non-passiv: l'**object direct** (karman n. = ⟪कर्मन्⟫) da l'acziun exprimida tras il verb:
+p.ex.
+- **devaṃ yajati** = ⟪देवं⟫ ⟪यजति⟫ : "El onura in deus cun ina offerta."
+- **phalam āpnoti** = ⟪फलमाप्नोति⟫ : "El ottiena la fruita (p.ex. da sias acziuns)."
+2. Cun verbs, che expriman ir, moviment, duciar u simigiant vers quai, designescha l'accusativ il target dal moviment:
+p.ex.
+- **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : "El va a l'infern."
 :::
-Autras utilisaziuns da l’accusativ vegnan tractadas pli tard.
+Ulteriuras utilisaziuns dal accusativ vegnan tractadas pli tard.
 
-## 7.3. Sandhi von auslautendem -n
+
+
+## 7.3. Sandhi da -n final
 
 ::: grammar-box
-**Final -n:**
+**-n final:**
 
-1. Davant consonnas palatalas e retroflesas sonoras e davant **ś-** vegn sustituida dal nasal correspundent:
-   - **-n** davant **j-, jh-, ñ-, ś-** » **-ñ**
-   - **-n** davant **ḍ-, ḍh-, ṇ-, ṣ-** » **-ṇ**
-   ex. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = ⟪क्षत्रियांञ्जयति⟫ : "El sgratgescha ils Kṣatriyas."
-   Inizial **ś-** vegn alura per ordinari sustituida da **ch-**:
-   **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (cun gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : "El auda ils maisters." "El auda sin ils maisters."
+1. Davant consonantas palatalas e retroflexas sonoras e davant **ś-** vegn sustituida tras il nasal correspundent a questas consonantas:
+- **-n** davant **j-, jh-, ñ-, ś-** » **-ñ**
+- **-n** davant **ḍ-, ḍh-, ṇ-, ṣ-** » **-ṇ**
+p.ex. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = ⟪क्षत्रियांञ्जयति⟫ : "El sconfigescha ils Kṣatriyas."
+Il **ś-** inicial vegn alura per ordinari sustituida tras **ch-**:
+**gurūn + śṛṇoti** » **gurūñ chṛṇoti** (neben gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : "El auda ils magisters." "El as attenta als magisters."
 
-2. Wird vor anlautendem **l-** durch **-l** mit Anunāsika (nasaliertes l, in der Schrift **⟪ल्⟫** mit Anunāsika **⟪ँ⟫**) ersetzt:
-   z.B. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Er erhält Nutztiere."
+2. Davant **l-** inicial vegn sustituida tras **-l** cun Anunāsika (nasalà l, en la scrittira ⟪ल्⟫ cun Anunāsika ⟪ँ⟫):
+p.ex. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "El ottiena animals da nutrir."
 
-3. Vus insonor palatal, retroflex u dental, vegn **Anusvāra** + il son da fricativa correspundent a questas consonantas remplazzà:
-   - **-n** avant **c-, ch-** » **-ṃś**
-   - **-n** avant **ṭ-, ṭh-** » **-ṃṣ**
-   - **-n** avant **t-, th-** » **-ṃs**
-   ex. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "e las divinitads (acc.)"
-   **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "ma las divinitads (acc.)"
+3. Davant consonantas palatalas, retroflexas u dentals sordas vegn sustituida tras **Anusvāra** + il fricativ correspundent a questas consonantas:
+- **-n** davant **c-, ch-** » **-ṃś**
+- **-n** davant **ṭ-, ṭh-** » **-ṃṣ**
+- **-n** davant **t-, th-** » **-ṃs**
+p.ex. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "e ils deus (Akk.)"
+**devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "ma ils deus (Akk.)" <!-- TODO: Fallback translation -->
 
-4. Suenter ina curta vocala (vair pli tard) resta la finala **-n** en tut ils auters cas senza midada.
+4. Sche betg suenter vocal curta (vegn tractà pli tard), resta **-n** final en tut ils auters cas senza midada.
 :::
 
 ## 7.4. Il neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
-**En il neuter èn las furmas per nominativ (prathamā) ed accusativ (dvitīyā) identicas.**
+**Al neutrum è las formas per nominativ (prathamā) ed accusativ (dvitīyā) identicas.**
 :::
-### 7.4.1. Neuter da las radichas cun -a
+### 7.4.1. Neutrum da las radichas cun -a
 
 ::: grammar-box
-- **Desinenza Nominativ / Akkusativ Singular: -m**
-  ex. **phala** n. = ⟪फल⟫ = "fructus": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫
-- **Desinenza Nominativ / Akkusativ Plural: -āni**
-  ex. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
+- **Desinenta nominativ / accusativ singular: -m**
+p.ex. **phala** n. = ⟪फल⟫ = "fructa": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫
+- **Desinenta nominativ / accusativ plural: -āni**
+p.ex. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
 
-## 7.5. Classes da presens senza tema
+## 7.5. Classas da preschent atematicas
 
-La 5. classa da prezens furma ina tala numnada radis da prezens athematica, è.d. la radis da prezens na finischa betg sco en las classas da prezens thematicas (1., 4., 6., 10. classa) cun il "vocal da tema" **-a**.
+La quinta classe da präsens furma in cunussì stem da präsens atematic, quai vul dir che il stem da präsens na finischa betg cun il "vocal tema" **-a** sco en las classes da präsens thematicas (1., 4., 6., 10. classe).
 
 ::: grammar-box
-**Las classas da prezens atematicas han variaziun dal stem, quai vul dir: dadora duas formas dal stem dal prezens:**
-1. **stem fort**: nivel aut (rarivelmen nivel lung)
+**Las classes da präsens atematicas han fluctuaziun dal stem, quai vul dir ch'ei dat duas formas dal stem da präsens:**
+1. **stem fort**: nivel aut (rarivel nivel lung)
 2. **stem debel**: nivel bas
 
-**Il ferm stà:**
-- en l’indicativ singular parasmaipada present (laṭ) ed imperfect (laṅ)
-- tut ils emprims persunas dal imperativ (loṭ) parasmaipada e ātmanepada
+**Il stem fort stat:**
+- en l'indicativ singular parasmaipada präsens (laṭ) ed imperfect (laṅ)
+- tuttas primas persunas dal imperativ (loṭ) parasmaipada e ātmanepada
 - en la terza persuna singular imperativ (loṭ) parasmaipada
 
-**Tut las autras furmas han il stem da present debel.**
+**Tut las autras formas han il stem da präsens debel.**
 :::
-### 7.5.1. Desinenzas primaras da la 3. persuna plurala cun stems atematics
+### 7.5.1. Desinentas primaras da la terza persuna plural cun stems atematics <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**Per a las radichs da prezens senza tema, las desinenzas primaras da la 3. persuna plurala èn:**
-- **Parasmaipada: -anti**
-- **Ātmanepada: -ate**
+**Cun stems da präsens atematics èn las desinentas primaras da la terza persuna plural:**
+- **parasmaipada: -anti**
+- **ātmanepada: -ate**
 :::
-### 7.5.2. La 5. classa da prezens (svādi = ⟪स्वादि⟫ = "su ecc.")
+### 7.5.2. La quinta classe da präsens (svādi = ⟪स्वादि⟫ = "su etc.")
 
 ::: grammar-box
-- **Stem fort**: (per la mai part) radis (sco menziunà) + **-no-**
-- **Stem debel**: (per la mai part) radis (sco menziunà) + **-nu-**
+- **Stem fort**: (per ordinari) radich cun nivel bas ( sco descrivì ) + **-no-**
+- **Stem debel**: (per ordinari) radich cun nivel bas ( sco descrivì ) + **-nu-**
 
-**Vor vokalischen Endungen wird bei vokalisch auslautenden Radisn -nu- durch -nv- ersetzt, bei konsonantisch auslautenden Radisn wird vor vokalischen Endungen -nu- durch -nuv- ersetzt.**
+**Avant desinentas vocalicas vegn -nu- sustituid cun -nv- en radichas che finischan cun vocala, e avant desinentas vocalicas vegn -nu- sustituid cun -nuv- en radichas che finischan cun consonanta.**
 :::
-**Beispiele:**
+**Exemples:**
 
-| Wurzel:br⟪धातु⟫ | Starker Stamm | Schwacher Stamm | Vor Vokal:br(schwach) |
+| Radich:br⟪धातु⟫ | Stem fort | Stem debel | Avant Vocala:br(debel) |
 | :--- | :--- | :--- | :--- |
-| **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
-| **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
-| **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
+| **āp** :br5 P:br⟪आप्⟫:br"arrivar" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś** :br5 Ā:br⟪अश्⟫:br"arrivar" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su** :br5 U:br⟪सु⟫:br"premer" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"udir" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
-## 7.6. Glista da pleds
 
-**Imparar las suentas suventas:**
+## 7.6. Glosa
 
-- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : cuntger, vegnir a, cuntger
-- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : cuntger, cuntger
-- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : s'irritar
-- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : s'irritar
-- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : mazzicar, mangiar
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : udair (qualchidina: accusativ, inqualidna: genitiv u accusativ; davart: accusativ; da inqualidna: genitiv, ablativ, instrumental)
-- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : stritgar
-- **soma** m. ⟪सोम⟫ : bevanda stritgada, Soma; luna (Da quala planta il Soma è stritgà, è ancun oz disputà).
+**Memorisai las suandantas parolas:**
+
+- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : arrivar, cuntanscher
+- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : arrivar, cuntanscher
+- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : s'arrabiar
+- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : s'arrabiar
+- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : mastegar, mangiar
+- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : udir (qualchidina: accusativ, qualchidun: genitiv u accusativ; davos: accusativ; da qualchidun: genitiv, ablativ, instrumental)
+- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : premair
+- **soma** m. ⟪सोम⟫ : bevanda premida, soma; luna (Da quala planta il soma è vegnì premì, è anc oz discuta.)
 ::: media
 ![](/images/lekt0701.webp)
-Abb.: Era quai la planta da Soma vedica?: Pil da muvel: *Amanita muscaria* (L.) Lam.
-(Sursa d'imagia: [Detagls](/rm/licenses#lekt0701))
+Fig.: Era quai la planta da soma vedica?: Pilz dal tschif: *Amanita muscaria* (L.) Lam.
+(Sursa d’imagia: [Detagls](/rm/licenses#lekt0701))
 :::
-- **phala** n. ⟪फल⟫ : fruct (era en il sens figurà: fruct (karmic) d'ina acziun)
+- **phala** n. ⟪फल⟫ : fruct (era er en il sens figurà: (karmic) fruct d’ina acziun)
 - **nṛtya** n. ⟪नृत्य⟫ : dansa
 - **svarga** m. ⟪स्वर्ग⟫ : tschiel
-- **naraka** m. ⟪नरक⟫ : infern (secundin ina concepziun hinduista ha l'univers la furma d'in ov (Brahmāṇḍa m.n. = ⟪ब्रह्माण्ड⟫ = "ov da Brahmā"): sur la terra èn tschels tschintg cun beatezza creschenta, sut la terra èn set pātāla n. = ⟪पाताल⟫, abitaziuns dals **nāga** m. = ⟪नाग⟫ (serps) ed autras essas mitologicas, là giu èn set inferns cun torment creschents)
-- **aṅga** n. ⟪अङ्ग⟫ : part dal corp, element; era = **vedāṅga** = ⟪वेदाङ्ग⟫
-- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : ir (Appartegna suenter la classificaziun da verbs indigens a la classa da presens 1, è ma en realitad ina furmaziun cun in suffiss da furmaziun da stem da presens **-ccha-**: **gam** » stadi profund (**gm** ») **ga-ccha-ti**)
+- **naraka** m. ⟪नरक⟫ : infern (suenter ina concepziun hinduista ha l’univers la furma d’in œv (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "œv da Brahmā"): sur la terra èn sis tschels cun beatezza crescenta, sut la terra èn set ditas **pātāla** n. = ⟪पाताल⟫, abitaziuns dals **nāga** m. = ⟪नाग⟫ (serps) ed autras esser mitologic, tranter quels èn set inferns cun torment crescent)
+- **aṅga** n. ⟪अङ्ग⟫ : membra dal corp, part; era = **vedāṅga** = ⟪वेदाङ्ग⟫
+- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : ir (Appartegna suenter la classificaziun da verbs nativa a la classe da present, è maletgà en realitad ina furmaziun cun in suffiss da furmaziun dal stem da present **-ccha-**: **gam** » stadi profund (**gm** ») **ga-ccha-ti**)
+
+
+
 
 ## 7.7. Exercizi
 
-**A) Inserir en singulär e plural l'object direct u l'accusativ da direcziun:**
+**A) Metta mintga giada en il singular e plural l’object direct u l’accusativ da direcziun:**
 
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
-   ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
+⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
 ::: media
 ![](/images/lekt0704.webp)
-Fig.: Viṣṇu = ⟪विष्णु⟫, 8./9. tschientenni.
-(Imaggisurza: [Detagls](/rm/licenses#lekt0704))
+Fig.: Viṣṇu = ⟪विष्णु⟫, 8./9. tschientaner.
+(Sursa d’imagia: [Detagls](/rm/licenses#lekt0704))
 :::
 2. gurus ... khādati (phala)
-   ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
+⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
 3. sādhus ... gacchati (svarga)
-   ⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
+⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
 4. śūdrā ... gacchati (naraka)
-   ⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫)
+⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫)
 5. ... jayati (śūdra)
-   ... ⟪जयति⟫ (⟪शूद्र⟫)
+... ⟪जयति⟫ (⟪शूद्र⟫)
 6. ... labhate (dhenu, paśu, phala)
-   ... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
+... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
 
-**B) Inserir las formas verbales correspondentas:**
+**B) Metta las furmas da verb correspundentas en:**
 
 1. sādhuḥ svargaṃ ... (āp, gam, aś)
-   ⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
-2. brāhmaṇaḥ somam ... (su) (2 Formen)
-   ⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
+⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
+2. brāhmaṇaḥ somam ... (su) (2 furmas)
+⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
 3. sādhur gurum ... (śru)
-   ⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
+⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
 4. devī ... (kup, krudh)
-   ⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
+⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
 
-**C) Mettais en plural l'agent, l'object e il verb en las frasis d'exercizi B).**
+**C) Metta en ils exercizis da B) agent, object e verb en il plural.**
 
-**D) Metti en Ātmanepada:**
+**D) Metta en l’Ātmanepada:**
 
 1. sunvanti.
-   ⟪सुन्वन्ति⟫ |
+⟪सुन्वन्ति⟫ |
 2. nayanti.
-   ⟪नयन्ति⟫ |
+⟪नयन्ति⟫ |
 3. sunoti.
-   ⟪सुनोति⟫ |
+⟪सुनोति⟫ |
 4. yajati.
-   ⟪यजति⟫ |
+⟪यजति⟫ |
 
 ::: media
 ![](/images/lekt0702.webp)
-Fig.: **yajati** = ⟪यजति⟫ — sacrifici vedic = **yajña** m. = ⟪यज्ञ⟫
-(Surs da l'imagina: [Detagls](/rm/licenses#lekt0702))
+Fig.: **yajati** = ⟪यजति⟫ — Sacrifici vedic = **yajña** m. = ⟪यज्ञ⟫
+(Sursa d’imagia: [Detagls](/rm/licenses#lekt0702))
 :::
-**E) Formai l'accusativ (dvitīyā) singular e plural per tut ils sustantivs emprids fin uss.**
+**E) Furma per tut ils nomina fin ussa aprendids l’accusativ (dvitīyā) sg. e pl.**
 
-**F) Traducir:**
+**F) Traductas:**
 
 1. narakāṃś ca svargāṃś ca gacchanti.
-   ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ |
+⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ |
 2. gurūṃs tu śṛṇvanti.
-   ⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ |
-3. I Śūdra cuntan in in cun.
-4. I Kṣatriya onuran las deusas cun sacrificis.
-5. Las femnas Vaiśya onuran deitads cun sacrificis.
-6. Il SIGNUR s'ira.
+⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ |
+3. Ils śūdras ottan in tschiel.
+4. Ils Kṣatriyas aduleschan sco patruns dal sacrifici las deessas cun sacrifizis.
+5. Las dunnas Vaiśya aduleschan divinitads cun sacrifizis.
+6. Il SIGNUR s’ira.
 7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
-   ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
+⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
 8. A qual deus sacrifiescha quest brahman?
 
 ::: media
 ![](/images/lekt0703.webp)
-Abb.: A qual deidade se sacrifica aqui? Resposta: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
-(Fonte da imagem: [Detalhes](/rm/licenses#lekt0703))
+Fig.: A qual deus sacrifiesch ti qua? Resposta: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
+(Sursa da l’imagina: [Detagls](/rm/licenses#lekt0703))
 :::
-9. O que mastiga este homem sagrado?
-10. O que exprimem estes (aqui)?
-11. Ele é o professor. A ele se ouve (= ouvem-se).
+9. Tge mastica quest umna sacra?
+10. Tge premeschan quels (qua) ora?
+11. El è il magister. A el auda ins (= eglis).
 

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 24
 
-A) Alakítsa ki az egyes számú és a többes számú (illetve elv.) datívuszt, valamint adja meg a névi alap jelentését:
+A) Alakítsa ki az egyes számú és a többes számú (illetve elv.) datívuszt, valamint adja meg a névi alap jelentését: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Szó | Jelentés | Dat. egysz. | Dat. többes |
@@ -91,7 +91,7 @@ Kép: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 
 ## Szintaktikai variációk
 
-C) Helyettesítse a B) 1–4. mondatokban az aditivusokat infinitívumokkal (⟪तुमुन्⟩):
+C) Helyettesítse a B) 1–4. mondatokban az aditivusokat infinitívumokkal (⟪तुमुन्⟩): <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ब्राह्मणो⟫ ⟪देवप्रतिमां⟫ ⟪द्रष्टुं⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥⟫
 
@@ -102,7 +102,7 @@ C) Helyettesítse a B) 1–4. mondatokban az aditivusokat infinitívumokkal (⟪
 ⟪४⟫. ⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥⟫
 
 D) Helyettesítse a B) 7. mondatban a **-⟪अर्थ⟫** szerkezetet aditivussal:
-**⟪मोक्षाय⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥⟫**
+**⟪मोक्षाय⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 E) Helyettesítse a B) 6. mondatban az aditivust egy **-⟪अर्थ⟫** szerkezettel:
 **⟪स्वर्गार्थं⟫ (vagy: ⟪स्वर्गार्थाय⟫ / ⟪स्वर्गार्थेन⟫) ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥⟫**
@@ -112,10 +112,10 @@ E) Helyettesítse a B) 6. mondatban az aditivust egy **-⟪अर्थ⟫** sze
 ## További fordítási gyakorlatok
 
 1. Az istennő, akinek nem áldoztak, dühöng az emberek ellen.
-**⟪अनिष्टदेवी⟫ ⟪नरेभ्यः⟫ ⟪क्रुध्यति⟫ ⟪।⟫ (vagy: ⟪कुप्यति⟫ ⟪॥⟫)**
+**⟪अनिष्टदेवी⟫ ⟪नरेभ्यः⟫ ⟪क्रुध्यति⟫ ⟪।⟫ (vagy: ⟪कुप्यति⟫ ⟪॥⟫)** <!-- TODO: Fallback translation -->
 
 2. Kiengedi a tehenet a faluba.
-**⟪ग्रामाय⟫ ⟪धेनुं⟫ ⟪मुञ्चति⟫ ⟪॥⟫**
+**⟪ग्रामाय⟫ ⟪धेनुं⟫ ⟪मुञ्चति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 3. Most már elég! (Elég a türelemből!)
 **⟪अलं⟫ ⟪क्षमया⟫ ⟪॥⟫**
@@ -142,13 +142,13 @@ E) Helyettesítse a B) 6. mondatban az aditivust egy **-⟪अर्थ⟫** sze
 **⟪मुनित्रयं⟫ ⟪नमस्कृत्य⟫... ⟪।⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫ ⟪॥⟫**
 
 11. Üdvözlet Önnek! Üdvözlet a királynőnek!
-**⟪स्वागतं⟫ ⟪भवद्भ्यः⟫ ⟪।⟫ ⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
+**⟪स्वागतं⟫ ⟪भवद्भ्यः⟫ ⟪।⟫ ⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 12. Jót kívánok Önnek!
 **⟪भवद्भ्यः⟫ ⟪कुशलम्⟫ ⟪॥⟫**
 
 13. Nem tekint rá mint zsenge fűszálra.
-**⟪न⟫ ⟪तं⟫ ⟪तृणाय⟫ ⟪मन्यते⟫ ⟪॥⟫**
+**⟪न⟫ ⟪तं⟫ ⟪तृणाय⟫ ⟪मन्यते⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
 
 14. Egy gyümölcs eledelre és víz ivásra elég.
 **⟪अलं⟫ ⟪फलं⟫ ⟪खादनाय⟫ ⟪पानाय⟫ ⟪जलम्⟫ ⟪॥⟫**

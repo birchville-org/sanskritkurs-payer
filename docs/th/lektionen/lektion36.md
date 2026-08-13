@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # บทที่ 36
 
@@ -20,7 +20,7 @@ status: stable
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫:sig[⟪गा⟫]⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | |
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 2\. รากศัพท์ ⟪विद्⟫ 2P "รู้" มี Perfect ที่มีความหมายแบบ Present
@@ -46,7 +46,7 @@ status: stable
 | :--- | :--- | :--- |
 | ⟪भू⟫ 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::
-## 36.2. Perfect แบบ Periphrastic (⟪अनुप्रयोगलिट्⟫)
+## 36.2. Perfect แบบ Periphrastic (⟪अनुप्रयोगलिट्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Perfect แบบ Periphrastic (⟪अनुप्रयोगलिट्⟫) ใช้ในกรณี:
@@ -63,7 +63,7 @@ Perfect แบบ Periphrastic (⟪अनुप्रयोगलिट्⟫) �
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ และ ⟪भू⟫ ยังถูกผันใน Parasmaipada สำหรับกริยา Ātmanepada ด้วย
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 ตัวอย่าง:
 

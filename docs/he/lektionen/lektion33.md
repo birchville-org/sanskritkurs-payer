@@ -109,14 +109,14 @@ status: stable
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. על האבלט של ā
+## 33.3. על האבלט של ā <!-- TODO: Fallback translation -->
 
 ā kann
 
 * מצד אחד, מדרגת הארכה של אחת משורות האלטרנציה עם -a-
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein <!-- TODO: Fallback translation -->
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **א.**
@@ -169,7 +169,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. השורשים **⟪दा⟫** ו-**:sig[⟪धा⟫]**
+### 33.4.1. השורשים **⟪दा⟫** ו-**:sig[⟪धा⟫]** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **שורשים המסתיימים ב-ā (למעט ⟪दा⟫ ו-:sig[⟪धा⟫]) נוטים בשורש החלש בדרך כלל ל-ī-** (ראה Thumb-Hauschild כרך 1,1 עמ' 271. סביר להניח שסדרת האבלטציה B שצוינה לעיל שימשה כמודל, למרות ששורשים אלו נוטים בדרך כלל לבלוט לפי סדרה A), **לפני סיומות ותקניות, ותק השורש נעלם לחלוטין (ראה סדרת האבלטציה A).**
@@ -185,7 +185,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **אימפרפקט** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **אופטיב** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-את צורות **⟪दा⟫** מקבלים על ידי החלפת **dh** ב-**d** בפארדיגמה של **:sig[⟪धा⟫]**. כלומר:
+את צורות **⟪दा⟫** מקבלים על ידי החלפת **dh** ב-**d** בפארדיגמה של **:sig[⟪धा⟫]**. כלומר: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪दा⟫** 3U "לתת"
@@ -275,7 +275,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 3.pl.P **:sig[⟪पिपुरति⟫]**  
 3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (מ: \*apipart)  
 3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
-3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]** <!-- TODO: Fallback translation -->
 
 **עתיד** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **סביל** ⟪पूर्यते⟫  
@@ -430,3 +430,4 @@ C) תרגמו והפכו משפחות יחיד לרבים ולהפך:
 * **איור lekt3303 (הינאיאנה תאילנד):** מקור התמונה: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, גישה ב-2008-12-26). רישיון Creative Commons (ייחוס, שימוש לא מסחרי).
 * **איור lekt3302 (יאגנה, אשראם שיווה, גנשפורי):** מקור התמונה: Dey (http://www.flickr.com/photos/dey/466758922/, גישה ב-2008-12-26). רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה).
 :::
+ <!-- TODO: Fallback translation -->

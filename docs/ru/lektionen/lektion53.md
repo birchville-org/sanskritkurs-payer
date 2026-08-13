@@ -485,7 +485,7 @@ lesson_id: 53
 :::
 См. также:
 
-> **Payer, Alois \<1944 - \>:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois \&lt;1944 - \&gt;:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Значение определения метра
 
@@ -493,7 +493,7 @@ lesson_id: 53
 
 1. **Эстетический:** размер стиха, среди прочего, определяет красоту высказывания. Кроме того, определенные размеры могут использоваться для выражения определенных настроений или ассоциироваться с определенными социальными слоями (⟪वर्ण⟫). Различные размеры стиха читаются по-разному. :br Хорошее представление об эстетическом воздействии дает, например, чтение ⟪शिवताण्डवस्तोत्र⟫ (хвала танцу Шивы): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2. **Текстологический:** ошибки в размере стиха могут указывать на то, что текст в данном месте передан неверно. Размер помогает осуществлять текстовые исправления.
-3. **Хронологический:** определенные размеры стиха в ходе истории претерпевали определенные изменения. Это может помочь в приблизительной датировке текста. См.: **Ольденберг, Герман \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; тот же: Zur Geschichte des Śloka. -- Оба текста напечатаны в: :br **Ольденберг, Герман \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+3. **Хронологический:** определенные размеры стиха в ходе истории претерпевали определенные изменения. Это может помочь в приблизительной датировке текста. См.: **Ольденберг, Герман \&lt;1854 - 1920\&gt;:** Zur Geschichte der Triṣṭhubh ; тот же: Zur Geschichte des Śloka. -- Оба текста напечатаны в: :br **Ольденберг, Герман \&lt;1854 - 1920\&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -631,7 +631,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Источники**
 
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -640,6 +640,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
+**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
 :::
 

@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 1
+# Oppitunti 1 <!-- TODO: Fallback translation -->
 
 ::: center
 ⟪गणेशपूजनम्⟫
@@ -19,7 +19,7 @@ Gaṇeśan kunnioitus
 ![](/images/lekt0102.webp)
 Kuva 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0102))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: center
 :sig[लम्बोदर नमस् तुभ्यं]
@@ -48,7 +48,7 @@ maṅgalacaraṇam
 ![](/images/lekt0101.webp)
 Kuva 1.1: Ardhanarīśvara
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0101))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: center
 :sig[वागर्थाविव संपृक्तौ]
@@ -74,7 +74,7 @@ Aluksi pieni kuriositeetti:
 
 >"Kun William Jones [1746–1794] ja Henry Thomas Colebrooke (1765—1857) tutkivat sanskritia perusteellisesti ensimmäistä kertaa, osittain käänsivät sen ja totesivat, että sillä oli rikas kirjallisuus ja huomattava sukulaissuhde klassisiin kieliin, he kohtasivat merkittävää vastarintaa. Koska tämä sanskritin läheinen suhde maantieteellisesti niin kaukana oleviin eurooppalaisiin kieliin ei sopinut vanhoihin käsityksiin, jotka joko johtivat kaikki kielet hepreasta tai pitivät niitä suurelta osin erillään toisistaan, kuuluisa filologi Dugald Steward (1753—1828) otti yksinkertaisimman keinon, kun hän julisti koko historian sanskritin kielen olevan valhe. Hän kirjoitti esseen, jossa hän yritti todistaa, että se oli keksitty vilpikkaiden brahmanien toimesta kreikan ja latinan mallin mukaan, ja että sekä kieli että kirjallisuus olivat väärennöksiä. Tätä näkemystä Dublinin professori Charles William Wall kehitti vielä vuonna 1840 laajasti (Göttingische gelehrte Anzeigen 1842 s. 1888)."
 >
->[Lähde: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- s. 74. -- Verkossa: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Haettu 10.1.2010]
+>[Lähde: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- s. 74. -- Verkossa: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Haettu 10.1.2010] <!-- TODO: Fallback translation -->
 
 ## 1.1. Kirjallisuus aloittelijoille indologiassa
 
@@ -82,59 +82,59 @@ Aluksi pieni kuriositeetti:
 ![](/images/lekt0103.webp)
 Kuv.: Taskukirjan kansinimike
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt0103))
-:::
+::: <!-- TODO: Fallback translation -->
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ osa: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie.
+>**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ osa: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0104.webp)
 Kuv.: Nimilehti
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt0104))
-:::
+::: <!-- TODO: Fallback translation -->
 
 Paras systemaattinen grammatikka:
 
-> **Kielhorn**, Franz (1840–1908): Sanskritin kielioppi / Englannista kääntänyt W. Solf [1862 - 1936]. -- Berliini : Dümmler, 1888. -- XIII, 238 s. -- Alkuperäinen otsikko: A grammar of the Sanscrit language
+> **Kielhorn**, Franz (1840–1908): Sanskritin kielioppi / Englannista kääntänyt W. Solf [1862 - 1936]. -- Berliini : Dümmler, 1888. -- XIII, 238 s. -- Alkuperäinen otsikko: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0105.webp)
 Kuva: Kansiotsikko
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt0105))
-:::
+::: <!-- TODO: Fallback translation -->
 
-Hyvä systemaattinen kielioppi kotimaisten kielitieteilijöiden perusteella ja samalla johdatus Pāṇiniin:
+Hyvä systemaattinen kielioppi kotimaisten kielitieteilijöiden perusteella ja samalla johdatus Pāṇiniin: <!-- TODO: Fallback translation -->
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskritin kielioppi / Alkuperäisesti kirjoitettu malajalamiksi. Kääntänyt englanniksi K.V.R. Pai. -- Parathode : Omakustanne, 1983. -- 818 s. ; 23 cm.
+> **Kunnappally, John:** Prakriyā bhāshyam : Sanskritin kielioppi / Alkuperäisesti kirjoitettu malajalamiksi. Kääntänyt englanniksi K.V.R. Pai. -- Parathode : Omakustanne, 1983. -- 818 s. ; 23 cm. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0107.jpg)
 Kuv.: Kannetunniste
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt0107))
-:::
+::: <!-- TODO: Fallback translation -->
 
 Hyvä, tiivis esitys eurooppalaisesta kielitieteen terminologiasta löytyy seuraavasta teoksesta:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
+> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0108.jpg)
 Kuv.: Kannen otsikko
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt0108))
-:::
+::: <!-- TODO: Fallback translation -->
 
 Tutkijoille tarkistettavaksi:
 
-> **Lexikon der Sprachwissenschaft** / toim. Hadumod Bussmann. -- 4., läpikatsottu ja bibliografisesti täydennetty painos / yhteistyössä Hartmut Laufferin kanssa. -- Stuttgart : Kröner, 2008. -- 816 s. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexikon der Sprachwissenschaft** / toim. Hadumod Bussmann. -- 4., läpikatsottu ja bibliografisesti täydennetty painos / yhteistyössä Hartmut Laufferin kanssa. -- Stuttgart : Kröner, 2008. -- 816 s. ; 22 cm. -- ISBN 978-3-520-45204-7 <!-- TODO: Fallback translation -->
 
-## 1.2. Sanskritin äänteet
+## 1.2. Sanskritin äänteet <!-- TODO: Fallback translation -->
 
-Sanskritin äänteet perinteisen intialaisen luokittelun ja tieteellisen translitteraation mukaisesti.
+Sanskritin äänteet perinteisen intialaisen luokittelun ja tieteellisen translitteraation mukaisesti. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0106.webp)
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0106))
 :::
-Nykyaikaiset sanskritinkieliset sanakirjat on järjestetty tämän luokittelun mukaisessa järjestyksessä. Tämä luokittelu on välttämätön sanskritinkielisen kieliopin ymmärtämiselle, ja siksi se on opeteltava ulkoa:
+Nykyaikaiset sanskritinkieliset sanakirjat on järjestetty tämän luokittelun mukaisessa järjestyksessä. Tämä luokittelu on välttämätön sanskritinkielisen kieliopin ymmärtämiselle, ja siksi se on opeteltava ulkoa: <!-- TODO: Fallback translation -->
 
 ::: note-box
 Luokittelu
@@ -152,7 +152,7 @@ Luokittelu
 ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
 ⟪ह⟫ ha
 :::
-### 1.2.1. Yksittäisten äänteiden ääntämisestä
+### 1.2.1. Yksittäisten äänteiden ääntämisestä <!-- TODO: Fallback translation -->
 
 ::: laut-table
 | Äänne | Kuvaus |
@@ -167,7 +167,7 @@ Luokittelu
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Äänetön hidasäännä, jossa on edellisen vokaalin tai edeltävän diftongin toisen osan jälkikaiunta: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Huhdintaäänteiden, h:n ja l:n edellä: vokaalin nasalisaatio. Sanan lopussa = m. Sanan sisällä konsonantin edellä: seuraavaa konsonanttia vastaava nasalisaatio: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
-Paras ääntämisa saavutetaan, kun lauseita, säkeitä tai sanoja lukee melko hitaasti ja monotonisesti huomioiden tarkasti vokaalien pituuden.
+Paras ääntämisa saavutetaan, kun lauseita, säkeitä tai sanoja lukee melko hitaasti ja monotonisesti huomioiden tarkasti vokaalien pituuden. <!-- TODO: Fallback translation -->
 
 ## 1.3. Harjoitus
 
@@ -185,3 +185,4 @@ Paras ääntämisa saavutetaan, kun lauseita, säkeitä tai sanoja lukee melko h
 10. saṃskṛta — ⟪संस्कृत⟫
 
 **B) Lue sanskritinkieliset ilmaukset yllä olevassa äännejärjestelmässä.**
+ <!-- TODO: Fallback translation -->

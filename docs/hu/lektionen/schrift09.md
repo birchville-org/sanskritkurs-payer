@@ -6,17 +6,17 @@ Mondaton belül (versfélben) a szótagolás csak akkor történik, ha egy szó
 
 *   magánhangzóval
 *   anusvāra-val (ṃ)
-*   visarga-val (ḥ)
+*   visarga-val (ḥ) <!-- TODO: Fallback translation -->
 
-végződik, és a következő szó mássalhangzóval kezdődik. Ugyanez érvényes azokra az esetekre is, amikor a mondatbeli sandhi-szabályok szerint hiatus (kettős magánhangzó) keletkezik.
+végződik, és a következő szó mássalhangzóval kezdődik. Ugyanez érvényes azokra az esetekre is, amikor a mondatbeli sandhi-szabályok szerint hiatus (kettős magánhangzó) keletkezik. <!-- TODO: Fallback translation -->
 
 ### Írásjelek
 
 A mondat végét prózában | (ardhadanḍa, m.) jelöli. Versben a | a félvers végét jelzi, az || (danḍa, m.) pedig a versszak végét. Prózában az || nagyobb szakaszt (pl. bekezdés végét) jelöl. A versszámot két || közé helyezzük, pl. ||⟪१⟫||.
 
-### Rövidítések
+### Rövidítések <!-- TODO: Fallback translation -->
 
-Rövidítőjel (pl. művek megadásakor) a °, pl. ⟪पा⟫° = pā(ṇinīye) = „Pāṇini nyelvtankönyvében”.
+Rövidítőjel (pl. művek megadásakor) a °, pl. ⟪पा⟫° = pā(ṇinīye) = „Pāṇini nyelvtankönyvében”. <!-- TODO: Fallback translation -->
 
 További magánhangzók kezdő helyzetben
 
@@ -24,13 +24,13 @@ További magánhangzók kezdő helyzetben
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden. <!-- TODO: Fallback translation -->
 
 ## Gyakorlat
 
 A) Írja le Devanāgarī írással:
 
-ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
+ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha <!-- TODO: Fallback translation -->
 
 B) Olvassa el és transzliterálja:
 

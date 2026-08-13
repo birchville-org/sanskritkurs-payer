@@ -1,14 +1,15 @@
 ---
-title: "Esercizi 3"
+title: "Exercizi 3"
 uebung_id: 3
-category: "Esercizi"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Lecziun 3
 
-A) Metta las suandantas frasis en il plural:
+A) Mettar en suenter las sentenzias al plural:
 
 1\. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
 
@@ -69,7 +70,7 @@ paśavo dhenavaḥ.
 gurvyaḥ sādhvyaḥ.
 ⟪गुर्व्यः⟫ ⟪साध्व्यः⟫
 
-B) Formai frasis nominalas cun l'insertiun:
+B) Crear sentenzias nominalas per inserir:
 
 1\. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
 
@@ -101,7 +102,7 @@ devatā mīnākṣī. devatānnapūrṇā.
 
 ⟪शूद्रेतरा⟫
 
-C) Translati en il feminin:
+C) Traduscher en il feminin: <!-- TODO: Fallback translation -->
 
 1\. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 
@@ -121,7 +122,7 @@ kṣatriyā sādhvī.
 
 ⟪क्षत्रिया⟫ ⟪साध्वी⟫
 
-D) Traduscha en il sanscrit:
+D) Traduscher en il sanscrit:
 
 1\. Umā è ina deessa.
 
@@ -141,19 +142,19 @@ devyo gurvyaḥ.
 
 ⟪देव्यो⟫ ⟪गुर्व्यः⟫
 
-4\. Las muvlas da latg èn animals domestitgads.
+4\. Las muallas da latg èn animals domestitgads.
 
 paśavo dhenavaḥ.
 
 ⟪पशवो⟫ ⟪धेनवः⟫
 
-5\. Ils poetis èn magisters.
+5\. Poesers èn magisters.
 
 guravaḥ kavayaḥ.
 
 ⟪गुरवः⟫ ⟪कवयः⟫
 
-6\. Ils Kṣatriyas èn dusnaschids.
+6\. I Kṣatriyas èn naschids duas giadas. <!-- TODO: Fallback translation -->
 
 dvijāḥ kṣatriyāḥ.
 
@@ -168,5 +169,6 @@ dvijāḥ kṣatriyāḥ.
 ::: media
 ![](/images/uebung001.webp)
 Abb.: ⟪पशुर्धेनुः⟫
-(Fontana da l'imaginescha: [Detagls](/licenses#uebung001))
+(Font dal maletg: [Detagls](/licenses#uebung001))
 :::
+ <!-- TODO: Fallback translation -->

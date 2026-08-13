@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. ⟪पूर्णकाल⟫ ⟪प्रकार⟫ ⟪१⟫: ⟪कोई⟫ ⟪मूल⟫ ⟪स्तर⟫-⟪अवरोह⟫ ⟪नहीं⟫
+### 46.1.3. ⟪पूर्णकाल⟫ ⟪प्रकार⟫ ⟪१⟫: ⟪कोई⟫ ⟪मूल⟫ ⟪स्तर⟫-⟪अवरोह⟫ ⟪नहीं⟫ <!-- TODO: Fallback translation -->
 
 वह क्रियाएँ जो इस प्रकार का अनुसरण करती हैं:
 

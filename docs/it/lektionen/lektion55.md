@@ -96,6 +96,6 @@ Fig.: ⟪अजीर्यमिति⟫
 
 ::: deleteme-box
 
-**lekt5501:** 'Inâyat Khân morente, progetto per una miniatura di un manoscritto per Jahângîr = جهانگير, ca. 1618 [Fonte dell'immagine: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accesso il 2009-01-28. Di pubblico dominio]
+**lekt5501:** 'Inâyat Khân morente, progetto per una miniatura di un manoscritto per Jahângîr = جهانگير, ca. 1618 [Fonte dell'immagine: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accesso il 2009-01-28. Di pubblico dominio] &lt;!-- TODO: Fallback translation --&gt;
 
 :::

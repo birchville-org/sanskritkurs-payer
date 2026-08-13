@@ -5,7 +5,7 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 11
 
@@ -25,7 +25,7 @@ status: stable
 - **Verbe ale vorbirii**: a vorbi cuiva (acuzativ) despre ceva (acuzativ); a spune cuiva (acuzativ) ceva (acuzativ)
 - **Verbe ale întrebării**: a întreba pe cineva (acuzativ) despre ceva (acuzativ)
 - **Verbe ale învățării**: a învăța pe cineva (acuzativ) ceva (acuzativ)
-- alte câteva verbe, despre care se va face mențiune în listele de cuvinte
+- alte câteva verbe, despre care se va face mențiune în listele de cuvinte <!-- TODO: Fallback translation -->
 
 **Când o astfel de construcție este pusă la vocea pasivă, persoana (cea care este întrebată etc.) este pusă la nominativ (prathamā), iar lucrul (despre care se întreabă etc.) rămâne în acuzativ.**
 
@@ -71,10 +71,10 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : întreba
-  - **praśna** m. ⟪प्रश्न⟫ : întrebare (sufixul **-na** ca în **yaj-ña**)
+  - **praśna** m. ⟪प्रश्न⟫ : întrebare (sufixul **-na** ca în **yaj-ña**) <!-- TODO: Fallback translation -->
 
 - **iṣ** 6 P ⟪इष्⟫ : dori
-  - **iṣṭi** f. ⟪इष्टि⟫ : dorință (**iṣ** + **-ti**)
+  - **iṣṭi** f. ⟪इष्टि⟫ : dorință (**iṣ** + **-ti**) <!-- TODO: Fallback translation -->
 
 ## 11.3. Exercițiu
 
@@ -97,7 +97,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 
 **C) În propozițiile din A), acolo unde este logic, transformați subiectul, obiectul și predicatul la plural.**
 
-**D) Formați vocea pasivă pentru propozițiile obținute la punctul C).**
+**D) Formați vocea pasivă pentru propozițiile obținute la punctul C).** <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1101.webp)
@@ -145,3 +145,4 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 Fig.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1103))
 :::
+ <!-- TODO: Fallback translation -->

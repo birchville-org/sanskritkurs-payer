@@ -75,12 +75,16 @@ Per quanto riguarda la sequenza dei membri in un Karmadhāraya, si deve osservar
 
 *   se un Karmadhāraya esprime un **CONFRASO**, allora ciò con cui si confronta si trova nel membro posteriore del composto:
 
-    ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "un uomo come un leone"  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un uomo come una tigre"
+::: indent
+⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "un uomo come un leone"
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un uomo come una tigre"
+:::
 
 *   se un Karmadhāraya esprime invece un'**APPOSIZIONE** (una determinazione più specifica del membro posteriore tramite un sostantivo), allora il termine più determinante si trova nel membro anteriore, come richiede anche la regola generale per la sequenza dei membri in un Tatpuruṣa:
 
-    ⟪नरसिंहः⟫ può anche essere scomposto come: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Un leone che (in realtà) è un uomo."
+::: indent
+⟪नरसिंहः⟫ può anche essere scomposto come: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Un leone che (in realtà) è un uomo."
+:::
 
     Tali Karmadhāraya appozitivi vengono risolti nei commenti indigeni, come nell'esempio sopra, mediante ⟪एव⟫.
 
@@ -301,7 +305,7 @@ Fig.: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (posposto): come, quasi (nei confronti: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un uomo come una tigre", "un uomo simile a una tigre")
 
-⟪एव⟫ (posposto): enfatizza il precedente, in tedesco corrisponde spesso all'enfasi, un tipo di emoticon `\<!\>`, es. ⟪सत्यमेव⟫ ⟪जयति⟫ "solo la verità vince", "proprio la verità vince", "la verità vince"
+⟪एव⟫ (posposto): enfatizza il precedente, in tedesco corrisponde spesso all'enfasi, un tipo di emoticon `\&lt;!\&gt;`, es. ⟪सत्यमेव⟫ ⟪जयति⟫ "solo la verità vince", "proprio la verità vince", "la verità vince"
 
 ⟪अरि⟫ m.: nemico (secondo Thieme, Der Fremdling im Ṛgveda: originariamente = straniero)
 

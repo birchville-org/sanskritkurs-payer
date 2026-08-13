@@ -143,9 +143,9 @@ Raíz en **-a** + **-tya**
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Abb.: ⟪कामदेवः⟫
+Ilustración: ⟪कामदेवः⟫
 19. Jhdt
-(Bildquelle: [Details](/licenses#lekt2202))
+(Origen de la imagen: [Detalles](/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pas.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** ser capaz, poder
 
@@ -176,7 +176,7 @@ de ello:
 ::: indent
 **⟪चर⟫ ⟪३⟫:** móvil; n.: lo móvil = animales (en contraste con las plantas)
 
-**⟪चरण⟫ n., m.:** pie
+**⟪चरण⟫ n., m.:** pie &lt;!-- TODO: Fallback translation --&gt;
 
 **⟪चरित⟫ n.:** conducta de vida, hazañas de vida
 
@@ -257,7 +257,7 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2204))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: deleteme-box
 

@@ -47,7 +47,7 @@ status: stable
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
 | **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung | <!-- TODO: Fallback translation -->
 
 **Οι καταλήξεις είναι κανονικές. Η ονοματική ενικού αρσενικού και θηλυκού σχηματίζεται χωρίς τελικό -n.**
 :::
@@ -179,7 +179,7 @@ status: stable
 | ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
 
 :::
-## 38.4. Zur Ονοματική παραγωγή: ⟪तद्धित⟫-Suffix -in
+## 38.4. Για την ονοματική παραγωγή: ⟪तद्धित⟫-Suffix -in
 
 ::: grammar-box
 Με το (πολύ σημαντικό!) ⟪तद्धित⟫-suffix **-in** σχηματίζονται από ουσιαστικά επίθετα με την έννοια:
@@ -440,7 +440,7 @@ von :sig[⟪राज⟫] :
 
 ... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Λεξιλόγιο zur Übersetzungsübung
+## 38.11. Λεξιλόγιο για την άσκηση μετάφρασης
 
 ⟪प्राय⟫ m.: το κύριο θέμα, Οργ. ⟪प्रायेण⟫ : συνήθως, συνηθέστερα (προς ⟪प्र⟫-⟪इ⟫)
 

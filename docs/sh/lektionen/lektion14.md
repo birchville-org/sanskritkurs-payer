@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 14
+# Lekcija 14
 
 ## 14.1. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)
 

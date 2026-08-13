@@ -42,9 +42,9 @@ La 3.ª persona del singular del imperfecto o del optativo es formalmente idént
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \<⟪भवसे⟫\> | \<⟪भवध्वे⟫\> |
-| **Imperfecto** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
-| **Optativo** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \<⟪भवेथास्⟫\> | \<⟪भवेध्वम्⟫\> |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \&lt;⟪भवसे⟫\&gt; | \&lt;⟪भवध्वे⟫\&gt; |
+| **Imperfecto** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \&lt;⟪अभवथास्⟫\&gt; | \&lt;⟪अभवध्वम्⟫\&gt; |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \&lt;⟪भवेथास्⟫\&gt; | \&lt;⟪भवेध्वम्⟫\&gt; |
 
 #### 43.2.1.2. Sexta clase de presente (⟪तुदादि⟫)
 
@@ -53,9 +53,9 @@ La 3.ª persona del singular del imperfecto o del optativo es formalmente idént
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \<⟪विशसे⟫\> | \<⟪विशध्वे⟫\> |
-| **Imperfecto** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
-| **Optativo** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \&lt;⟪विशसे⟫\&gt; | \&lt;⟪विशध्वे⟫\&gt; |
+| **Imperfecto** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \&lt;⟪अविशथास्⟫\&gt; | \&lt;⟪अविशध्वम्⟫\&gt; |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \&lt;⟪विशेथास्⟫\&gt; | \&lt;⟪विशेध्वम्⟫\&gt; |
 
 #### 43.2.1.3. Cuarta clase de presente (⟪दिवादि⟫)
 
@@ -64,9 +64,9 @@ La 3.ª persona del singular del imperfecto o del optativo es formalmente idént
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \<⟪नृत्यसे⟫\> | \<⟪नृत्यध्वे⟫\> |
-| **Imperfecto** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \<⟪अनृत्यथास्⟫\> | \<⟪अनृत्यध्वम्⟫\> |
-| **Optativo** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \<⟪नृत्येथास्⟫\> | \<⟪नृत्येध्वम्⟫\> |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \&lt;⟪नृत्यसे⟫\&gt; | \&lt;⟪नृत्यध्वे⟫\&gt; |
+| **Imperfecto** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \&lt;⟪अनृत्यथास्⟫\&gt; | \&lt;⟪अनृत्यध्वम्⟫\&gt; |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \&lt;⟪नृत्येथास्⟫\&gt; | \&lt;⟪नृत्येध्वम्⟫\&gt; |
 
 #### 43.2.1.4. Décima clase de presente (⟪चुरादि⟫) y causativos
 
@@ -89,7 +89,7 @@ La 3.ª persona del singular del imperfecto o del optativo es formalmente idént
 | **Imperfecto** ⟪लङ्⟫ | ⟪ऐक्ष्यथास्⟫ | ⟪ऐक्ष्यध्वम्⟫ |
 | **Optativo** ⟪विधिलिङ्⟫ | ⟪ईक्ष्येथास्⟫ | ⟪ईक्ष्येध्वम्⟫ |
 
-#### 43.2.1.6. Futurooo (⟪ऌट्⟫)
+#### 43.2.1.6. Futuroooooo (⟪ऌट्⟫)
 
 #### 43.2.1.6.1. Formaciones con ⟪अनिट्⟫
 
@@ -107,7 +107,7 @@ La 3.ª persona del singular del imperfecto o del optativo es formalmente idént
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \<⟪भविष्यसे⟫\> | \<⟪भविष्यध्वे⟫\> |
+| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \&lt;⟪भविष्यसे⟫\&gt; | \&lt;⟪भविष्यध्वे⟫\&gt; |
 
 ## 43.3. El pronombre personal de segunda persona
 
@@ -367,7 +367,7 @@ Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 ![](/images/lekt4309.webp)
 Fig.: ⟪शर्करा⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4309))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: deleteme-box
 

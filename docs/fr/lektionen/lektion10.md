@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 10
+# Leçon 10
 
 ::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
@@ -55,7 +55,7 @@ important
 **Les phrases passives en sanskrit ne doivent généralement pas être rendues en allemand par une phrase passive, car le passif allemand a une fonction stylistique tout à fait différente.**
 :::
 
-## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
+## 10.2. L'Instrumental (tṛtīyā f. = ⟪तृतीया⟫ = "troisième désinence casuelle")
 
 ::: grammar-box
 **Les désinences régulières de l’Instrumental (tṛtīyā) :**
@@ -121,7 +121,9 @@ important
 2. | **Féminins en -ī** ::brdevī:br⟪देवी⟫ | **devy-ā**:br⟪देव्या⟫ | **devī-bhis**:br⟪देवीभिस्⟫ |
 3. | **Féminins en -u** ::brdhenu:br⟪धेनु⟫ | **dhenv-ā**:br⟪धेन्वा⟫ | **dhenu-bhis**:br⟪धेनुभिस्⟫ |
 4. **Formations irrégulières (Singulier) :**
-5. **avec les postpositions signifiant « avec, avec » ; par ex. saha = ⟪सह⟫ = « avec »** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = « conjointement avec le Brahmane »
+5. **avec les postpositions signifiant « avec, avec » ; par ex. saha = ⟪सह⟫ = « avec »**
+z.B.
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = « conjointement avec le Brahmane »
 :::
 D'autres usages de l'instrumental (tṛtīyā) suivront plus tard.
 
@@ -153,7 +155,7 @@ Un **-n-**, suivi d'une voyelle ou de **n, m, y, v**, est remplacé par **-ṇ-*
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das Passif, Indikativ Präsens (yak = ⟪यक्⟫)
+## 10.4. Le Passif, Indicatif Présent (yak = ⟪यक्⟫)
 
 ::: grammar-box
 **Formation :**
@@ -172,17 +174,24 @@ par ex.
 ### 10.4.1. Règles spéciales pour la formation du passif
 
 1. **Les racines en -i ou -u** allongent leur voyelle devant le suffixe passif **-ya-** :
-   * **Formation :**
-   * | :--- | :--- | :--- |
-   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 1 P: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. | **viś**:br6 P:br(viśati) | **viśyate**:br(⟪विश्यते⟫):br"il est entré" | **viśyante**:br(⟪विश्यन्ते⟫) |
-   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Remarquez que pour les verbes de la 4e classe de présent, les formes Ātmanepada et passif sont identiques ! Dans ce cas, on ne peut déterminer s'il s'agit d'un Ātmanepada ou d'un passif qu'à partir de la construction de la phrase.**
-   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **Niveau profond des verbes commençant par ya, va, ra, ou lorsque ces sons se trouvent après une autre consonne (Samprasāraṇa = ⟪सम्प्रसारण⟫) :**
 
@@ -195,16 +204,20 @@ par ex.
 La désignation traditionnelle autochtone pour cette formation du niveau profond des verbes avec **ya** ou **va** est **Samprasāraṇa** (⟪नपुंसकम्⟩ = ⟪सम्प्रसारण⟫).
 
 5. **La finale -ṛ** après une seule consonne est remplacée par **-ri-** devant le suffixe passif **-ya- :**
-   * **kṛ** 8 V : **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Mais : **smṛ** 1 P : **smaryate** :br⟪स्मर्यते⟫
+* **kṛ** 8 V : **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Mais : **smṛ** 1 P : **smaryate**
+⟪स्मर्यते⟫
 
 6. **Certaines racines en -an ont alternativement deux formations de radical passif :**
    * une **-an-ya**
    * une **-ā-ya-** (le **ā** long est un représentant d'un hypothétique nasale longue)
 
 p. ex. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
 
 ## 10.5. Liste de mots
 
@@ -221,15 +234,15 @@ p. ex. **tan** 8 U.
 - **yajña** m. ⟪यज्ञ⟫ : Sacrifice
 
   ::: note-box
-**yajña** m. ⟪यज्ञ⟫ : Sacrifice
+  **yajña** m. ⟪यज्ञ⟫ : Sacrifice
 
-Formation du mot : **yaj** 1 U + suffixe kṛt **-na-**.
+  Formation du mot : **yaj** 1 U + suffixe kṛt **-na-**.
   :::
 
 - **puṇya** n. ⟪पुण्य⟫ : œuvre méritoire, mérite
 
   ::: note-box
-**satya** n. ⟪सत्य⟫ : vérité
+  **satya** n. ⟪सत्य⟫ : vérité
   :::
 
 - **pāpa** n. ⟪पाप⟫ : méfait, mal (contraire de **puṇya**)

@@ -565,7 +565,7 @@ B) 使用复合词翻译成梵语：
 
 解释：⟪इच्छताम्⟫ = gen. Pl. Part Präs. P 对应 ⟪इष्⟫ ：渴望者
 :::
-::: deleteme-box
+::: deleteme-box <!-- TODO: Fallback translation -->
 
 **lekt2001：** 暹粒（ក្រុងសៀមរាប），柬埔寨，公元9世纪 [图片来源：维基百科，公共领域]
 
@@ -586,5 +586,5 @@ B) 使用复合词翻译成梵语：
 **lekt2009:** 卡纳塔克邦 [图片来源：mattlogelin。-- http://www.flickr.com/photos/mattlogelin/188758072/。-- 访问日期：2008-12-11。-- 知识共享许可协议（署名，非商业性使用）]
 
 **lekt2010:** Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt. [Bildquelle: Wikipedia, GNU FDLicense]
-:::
+::: <!-- TODO: Fallback translation -->
 

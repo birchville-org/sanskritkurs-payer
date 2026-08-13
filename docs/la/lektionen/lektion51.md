@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 51
+# Lectio 51
 
 ## 51.1. Compositiones ⟪upapada⟫
 
@@ -84,7 +84,7 @@ c) ⟪कृत्⟫-suffixum -a
 
 \-⟪द⟫ 3 "dans" (d-a) exempli gratia ⟪वारिद⟫ m. "nubes" (⟪वारि⟫ n. "aqua")
 
-\-⟪प⟫ 3 "bibens" (p-a) exempli gratia ⟪द्विप⟫ m. "elephantus (bis bibens)"
+\-⟪प⟫ 3 "bibens" (p-a) exempli gratia ⟪द्विप⟫ m. "elephantus (bis bibens)" <!-- TODO: Fallback translation -->
 
 \-⟪प⟫ 3 "protegens" (p-a) e.g. ⟪भूप⟫ "terram protegens = Rex"
 
@@ -319,7 +319,7 @@ Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 
 ⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
 :::
-## 51.4. Sandhi von anlautendem ch-
+## 51.4. Sandhi von anlautendem ch- <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Post vocalem brevem, post ⟪मा⟫ "non" et post ⟪आ⟫ "ad", ch- per cch- mutatur:**
@@ -366,7 +366,7 @@ Quum ovulatio 14 diebus ante initium menstruationis sit, hac determinatione temp
 Fig.: ⟪ऋतुः⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5106))
 :::
-⟪एकत्र⟫ Adv.: loco uno
+⟪एकत्र⟫ Adv.: loco uno <!-- TODO: Fallback translation -->
 
 ⟪जटा⟫ f.: crinis complexus (crinis ascetae)
 

@@ -90,7 +90,7 @@ da ciò:
 
 ⟪निरोध⟫ m.: Arresto, far cessare
 
-* **bhūta n.** (⟪भूत⟫) (PPP di bhū): Essere, spirito
+* **bhūta n.** (⟪भूत⟫) (PPP di bhū): Essere, spirito &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪योग⟫ m.: Attacco, connessione, unione, acquisizione; Yoga
 
@@ -232,7 +232,7 @@ B) Tradurre e scomporre tutti i composti (samāsa) in sanscrito:
 ::: indent
 Spiegazioni;
 
-Frase 7: ⟪कृषिपाशुपाल्ये⟫ Dualeee, Nom. Acc.: Dvandva, che indica due "cose"
+Frase 7: ⟪कृषिपाशुपाल्ये⟫ Dualeeeeee, Nom. Acc.: Dvandva, che indica due "cose"
 
 Frase 8: ⟪कर्म⟫ Nom., Acc. sg. Neutro derivato da ⟪कर्मन्⟫ "azione/fatto"
 

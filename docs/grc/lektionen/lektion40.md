@@ -106,7 +106,7 @@ status: stable
 :::
 ### 40.2.2. Παρακείμενος τύπου Βʹ: ἰσχυρὸν θέμα πλήρους βαθμίδος, ἀσθενὲς θέμα μηδενικῆς βαθμίδος
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   (Συνερχόμενον)ι/u/ṛ/ḷ-σύλλαβον
 

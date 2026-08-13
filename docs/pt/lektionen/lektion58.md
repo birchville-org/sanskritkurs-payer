@@ -31,7 +31,7 @@ Antes de -vas e -vahe, a vogal temática -a- é substituída por -ā-.
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
 
 ### 58.2.2. Quarta classe do presente (⟪दिवादिगणः⟫)
 
@@ -49,7 +49,7 @@ Fig.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5802))
 :::
-### 58.2.3. Sexta classe do presente (⟪तुदादिगणः⟫)
+### 58.2.3. Sexta classe do presente (⟪तुदादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪तुद्⟫ 6U "empurrar, golpear"
 
@@ -275,7 +275,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5801))
 :::
-## 58.6. Aoristo 5: Aoristo em iṣ
+## 58.6. Aoristo 5: Aoristo em iṣ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **O aoristo em iṣ é formado a partir de todas as raízes seṭ para as quais não é ensinada, expressa e exclusivamente, outra forma do aoristo.**
@@ -366,10 +366,14 @@ Paradigmas:
 ⟪तन्⟫ 8U: 2ª p. sg. Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aoristo radical) ; 3ª p. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā e outras podem, em vez da 3ª p. sg. Ā, também assumir a forma do aoristo passivo:
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
 4.  ⟪विज्⟫ 7P não tem apofonia:
-    ⟪अविजीत्⟫
+::: indent
+⟪अविजीत्⟫
+:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

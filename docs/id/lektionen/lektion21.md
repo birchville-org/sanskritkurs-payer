@@ -40,7 +40,8 @@ Examples:
 1\. Present class:
 
 ::: indent
-**yajant**:br⟪यजन्त्⟫ "one who worships with a sacrifice"
+**yajant**
+⟪यजन्त्⟫ "one who worships with a sacrifice"
 :::
 ::: grammar-box
 

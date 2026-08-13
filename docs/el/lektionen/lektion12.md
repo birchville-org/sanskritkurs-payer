@@ -144,7 +144,7 @@ status: stable
 | **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
 | **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
-:::
+::: <!-- TODO: Fallback translation -->
 
 ## 12.5. Λεξιλόγιο
 

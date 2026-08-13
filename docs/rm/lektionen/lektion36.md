@@ -5,11 +5,11 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecziun 36
 
-## 36.1. Furmas spezialas dal perfectum
+## 36.1. Furmas spezialas dal perfectum <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1\. Certs radis mussan suenter la sillaba da reduplicaziun ina midada dal cumenzament dal radis.
@@ -46,7 +46,7 @@ Exempels:
 | :--- | :--- | :--- |
 | **⟪भू⟫** 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::
-## 36.2. Il perfect perifrastic (⟪अनुप्रयोगलिट्⟫)
+## 36.2. Il perfect perifrastic (⟪अनुप्रयोगलिट्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Il perfett perifrastic (⟪अनुप्रयोगलिट्⟫) vegn duvrà:
@@ -63,7 +63,7 @@ Il perfett perifrastic (⟪अनुप्रयोगलिट्⟫) vegn duvr
 - Auslautender Vocala da stramps wird vor -ām guṇiert.
 - ⟪अस्⟫ e ⟪भू⟫ vegnan era conjugads cun verbs d'Ātmanepada en il Parasmaipada.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Accusativ eine Verbalnomens auf -ā entstanden. Dieser Accusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
 
 Ezempels:
 
@@ -72,7 +72,7 @@ Ezempels:
 | ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
 | ⟪बन्ध्⟫ :brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
 
-## 36.3. Perfekt Passiv
+## 36.3. Perfect passiv
 
 ::: grammar-box
 En il perfect vegnan per il passiv las furmas da l'Ātmanepada adoperadas. En cumparegliaziun cun quai vegn preferì l'aduprament dal PPP. La construcziun è en dus cas quella da frasa passivas:
@@ -111,7 +111,7 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt3601))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : ir, ir, ir
 
@@ -131,7 +131,7 @@ Inf. ⟪व्रजितुम्⟫
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt3602))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 davon:
@@ -156,9 +156,9 @@ Imagg.: ⟪अनगार्यम्⟫
 ::: indent
 ⟪पृष्ठम्⟫ : davos
 :::
-⟪प्रजापति⟫ m.: signur dals essers, dieu creatur
+⟪प्रजापति⟫ m.: signur dals essers, dieu creatur <!-- TODO: Fallback translation -->
 
-⟪अनु⟫ Präverb: nach, entlang, über - hin, längs, gemäß, hinzu, hinter - her
+⟪अनु⟫ Präverb: nach, entlang, über - hin, längs, gemäß, hinzu, hinter - her <!-- TODO: Fallback translation -->
 
 ::: indent
 p.ex.
@@ -167,7 +167,7 @@ p.ex.
 
 ⟪अनुगम्⟫ : seguir, passar al costat
 :::
-⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an <!-- TODO: Fallback translation -->
 
 ::: indent
 p.ex.
@@ -176,7 +176,7 @@ p.ex.
 
 ⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : formal begrüsssen, ansprechen
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : Widerwille empfinde, dahinschwinde
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : Widerwille empfinde, dahinschwinde <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
@@ -198,7 +198,7 @@ PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : diletgar, alegrar; amar, esser favorabel a ina persuna
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : diletgar, alegrar; amar, esser favorabel a ina persuna <!-- TODO: Fallback translation -->
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : s'allegrar
 
@@ -239,9 +239,9 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Abb.: ⟪लोमहर्षः⟫
 (Bildquelle: [Detagl](/rm/licenses#lekt3604))
-:::
+::: <!-- TODO: Fallback translation -->
 
-⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger
+⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger <!-- TODO: Fallback translation -->
 
 ## 36.5. Exercizi
 
@@ -257,7 +257,7 @@ B) La radis ⟪आस्⟫ "seder" ha il perfet perifrastic. Formai quest per l
 1.  ⟪आस्ते⟫
 2.  ⟪आसते⟫
 
-C) Formai il Perfekt correspundent a las suandantas furmas:
+C) Formai il Perfekt correspundent a las suandantas furmas: <!-- TODO: Fallback translation -->
 
 1.  ⟪जीयते⟫
 2.  ⟪विदन्ति⟫
@@ -418,15 +418,15 @@ Traducir:
 
 Explicaziuns:
 
-⟪पितरम्⟫ : Akk. sg. zu ⟪पितृ⟫ m. "Vater"
+⟪पितरम्⟫ : Akk. sg. zu ⟪पितृ⟫ m. "Vater" <!-- TODO: Fallback translation -->
 
-⟪मातरम्⟫ : Akk. sg. zu ⟪मातृ⟫ f. "Mutter"
+⟪मातरम्⟫ : Akk. sg. zu ⟪मातृ⟫ f. "Mutter" <!-- TODO: Fallback translation -->
 
 ⟪ब्रह्म⟫ : Nom./Akk. sg. a ⟨�ब्रह्मन्⟩ n. "Assolut, Veda"
 
-:sig[⟪सर्वे⟫] : Nom. pl. mask. zu ⟪सर्व⟫ "tuts, mintgat"
+:sig[⟪सर्वे⟫] : Nom. pl. mask. zu ⟪सर्व⟫ "tuts, mintgat" <!-- TODO: Fallback translation -->
 
-⟪त्रयस्⟫ : Nom. pl. mask. zu ⟪त्रि⟫ "drei"
+⟪त्रयस्⟫ : Nom. pl. mask. zu ⟪त्रि⟫ "drei" <!-- TODO: Fallback translation -->
 
 ⟪सर्वास्⟫ : Nom./Akk. pl. fem. zu ⟪सर्व⟫ "tuts, mintgins"
 :::
@@ -459,7 +459,7 @@ Explicaziuns:
 
 En quest vers è ⟪ब्रू⟫ construiì cun il genitiv
 
-⟪मेधावी⟫ : Nom. sg. mask. zu ⟪मेधाविन्⟫ ⟪३⟫ "verstandig, intelligent"
+⟪मेधावी⟫ : Nom. sg. mask. zu ⟪मेधाविन्⟫ ⟪३⟫ "verstandig, intelligent" <!-- TODO: Fallback translation -->
 
 ⟪जडवत्⟫ Adv. "Sün il tip d'in starr/stump/düm"
 :::

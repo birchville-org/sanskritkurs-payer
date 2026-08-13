@@ -5,16 +5,16 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 59
+# Leçon 59
 
 ## 59.1. Les désinences du duel secondaire et impératif du ⟨⟪द्विवचनम्⟩⟩
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: |
-|   | secondaire | Impératif (⟪लोट्⟫) | secondaire thématique | optatif athématique secondaire :brImpératif (⟪विधिलिङ्⟫) | Impératif (⟪लोट्⟫) |
+|   | secondaire | Impératif (⟪लोट्⟫) | secondaire thématique | sekundär athematisch:brOptativ (⟪विधिलिङ्⟫) | Impératif (⟪लोट्⟫) |
 | **1. ⟪तृतीयः⟫** | -va | -āva | -vahi || -āvahai |
 | **2. ⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām |
 | **3. ⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām |
@@ -111,7 +111,7 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुदाव⟫ | ⟪तुदावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुदतम्⟫ | ⟪तुदेथाम्⟫ |
@@ -349,7 +349,7 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪असाव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪स्तम्⟫ |
@@ -501,7 +501,7 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪करवाव⟫ | ⟪करवावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुतम्⟫ | ⟪कुर्वाथाम्⟫ |
@@ -561,7 +561,7 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪युनजाव⟫ | ⟪युनजावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्तम्⟫ | ⟪युञ्जाथाम्⟫ |
@@ -600,7 +600,7 @@ Impératif (⟪लोट्⟫)
 :::
 ## 59.4. Duel (⟪dvivacanam⟫) Aoriste (⟪luṅ⟫)
 
-### 59.4.1. Wurzelaorist
+### 59.4.1. Wurzelaorist <!-- TODO: Fallback translation -->
 
 ⟪पा⟫ 1P «boire»
 
@@ -782,11 +782,11 @@ _Aide à la traduction :_ Vers 6 : ⟪दिदृक्षते⟫ \= Désidé
 ![](/images/lekt5901.webp)
 (Source de l’image : [Détails](/fr/licenses#lekt5901))
 :::
-Texte tiré de : Otto Böhtlingk : Sanskrit-Chrestomathie, p. 127s.
+Texte tiré de : Otto Böhtlingk : Sanskrit-Chrestomathie, p. 127s. <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
-**lekt5902 :** [Source de l’image : Henryart/Wikipedia. Domaine public]
+**lekt5902 :** [Source de l’image : Henryart/Wikipedia. Domaine public] <!-- TODO: Fallback translation -->
 
 **lekt5903 :** Danse Kecak, Bali (Indonésie) [Source de l’image : Flying Pharmacist / Wikipedia. [Licence Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (Attribution, partage à l’identique)]
 

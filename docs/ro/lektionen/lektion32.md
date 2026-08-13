@@ -50,7 +50,7 @@ Exemple:
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -65,7 +65,7 @@ Exemple:
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
-| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
+| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) | <!-- TODO: Fallback translation -->
 
 :::
 ## 32.4. Exemple de formare a imperfectului
@@ -117,12 +117,12 @@ Exemple:
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫:br
-⟪श्रम्यते⟫:br
-⟪श्रमयति⟫:br
-⟪श्रान्त⟫:br
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
--⟪श्रम्य⟫:br
+⟪श्रमिष्यते⟫
+⟪श्रम्यते⟫
+⟪श्रमयति⟫
+⟪श्रान्त⟫
+⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
+-⟪श्रम्य⟫
 ⟪श्रमितुम्⟫
 :::
 ⟪पार्श्व⟫
@@ -135,7 +135,7 @@ Fig.: ⟪चूतः⟫
 Copac de mango, Kanpur.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3202))
 :::
-⟪तरु⟫ ⟪वृक्ष⟫
+⟪तरु⟫ ⟪वृक्ष⟫ <!-- TODO: Fallback translation -->
 
 ⟪पचेलिम⟫
 
@@ -145,20 +145,20 @@ Copac de mango, Kanpur.
 
 **⟪रुह्⟫ ⟪रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫:br
-⟪रुह्यते⟫:br
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-⟪रूढ⟫:br
--⟪रुह्य⟫:br
+⟪रोक्ष्यति⟫
+⟪रुह्यते⟫
+⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
+⟪रूढ⟫
+-⟪रुह्य⟫
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!):br
-⟪गृह्यते⟫:br
-⟪ग्राहयति⟫:br
-⟪गृहीत⟫:br
--⟪गृह्य⟫:br
+⟪ग्रहीष्यति⟫ (!)
+⟪गृह्यते⟫
+⟪ग्राहयति⟫
+⟪गृहीत⟫
+-⟪गृह्य⟫
 ⟪ग्रहीतुम्⟫ (!)
 :::
 **⟪वानर⟫ ⟪कपि⟫**
@@ -171,10 +171,10 @@ Maimuțe (macaci rhesus) în Delhi.
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫:br
-⟪लोक्यते⟫:br
-⟪लोकित⟫:br
--⟪लोक्य⟫:br
+⟪लोकयिष्यति⟫
+⟪लोक्यते⟫
+⟪लोकित⟫
+-⟪लोक्य⟫
 ⟪लोकितुम्⟫
 :::
 ⟪प्रहर्ष⟫
@@ -199,20 +199,20 @@ Exercițiu de tragere / țintă cu săgeți, Karnataka.
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫:br
-⟪क्षिप्यते⟫:br
-⟪क्षेपयति⟫:br
-⟪क्षिप्त⟫:br
--⟪क्षिप्य⟫:br
+⟪क्षेप्स्यति⟫
+⟪क्षिप्यते⟫
+⟪क्षेपयति⟫
+⟪क्षिप्त⟫
+-⟪क्षिप्य⟫
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫:br
-⟪चीयते⟫:br
-⟪चाययति⟫:br
-⟪चित⟫:br
--⟪चित्य⟫:br
+⟪चेष्यति⟫
+⟪चीयते⟫
+⟪चाययति⟫
+⟪चित⟫
+-⟪चित्य⟫
 ⟪चेतुम्⟫
 :::
 ::: media
@@ -468,9 +468,9 @@ C) Traduceți în sanscrită:
 
 11. Este timpul să ne dedicăm mâncării.
 
-12. Bine ați venit, regină.
+12. Bine ați venit, regină. <!-- TODO: Fallback translation -->
 
-13. Pentru cer, oamenii fac fapte meritorii.
+13. Pentru cer, oamenii fac fapte meritorii. <!-- TODO: Fallback translation -->
 
 14. Un om care, din mândrie, lăcomie, mânie sau frică, pronunță greșit o sentință, coboară într-o iad.
 
@@ -478,7 +478,7 @@ C) Traduceți în sanscrită:
 
 16. Fie întotdeauna legătura sa cu cei care au crescut în științe, ca educația/bunele sale maniere să crească. (Acest lucru) deoarece educația/bunele maniere au ca rădăcină această (legătură cu cei).
 
-17. În timp ce învățătorul stă, băiatul nu trebuie să stea jos.
+17. În timp ce învățătorul stă, băiatul nu trebuie să stea jos. <!-- TODO: Fallback translation -->
 
 18. Nu există o refugiu mai bun decât Rāma.
 
@@ -486,9 +486,9 @@ C) Traduceți în sanscrită:
 
 20. Govinda îl trimite pe Devadatta să gătească orez.
 
-21. Dharma ariilor este ca tinerii brahmani să studieze din nou și din nou secțiunile Veda și Smṛti.
+21. Dharma ariilor este ca tinerii brahmani să studieze din nou și din nou secțiunile Veda și Smṛti. <!-- TODO: Fallback translation -->
 
-22. Învățătorul i-a învățat pe băieți Veda și apoi a mers în casă.
+22. Învățătorul i-a învățat pe băieți Veda și apoi a mers în casă. <!-- TODO: Fallback translation -->
 
 23. Ce talisman a protejat fata?
 
@@ -522,19 +522,19 @@ C) Traduceți în sanscrită:
 
 38. Înaltul Hari este calea/țelul meu, care (i-a trimis) pe inamicii săi într-un cer, le-a făcut pe ale sale să cunoască sensul Veda, zeilor le-a dat imortalitatea să mănânce, creatorului (⟪विधि⟫) i-a învățat Veda, a așutat pământul în apă (ferme).
 
-39. Viṣṇu se arată devotaților săi.
+39. Viṣṇu se arată devotaților săi. <!-- TODO: Fallback translation -->
 
 40. Un guvern care nu este exercitat produce norma peștilor.
 
-41. Cine deține bogății, are prieteni; cine deține bogății, are rude; cine deține bogății, este un om (⟪पुमान्⟫ Nom. sq.) în lume; cine deține bogății, este anume un învățat.
+41. Cine deține bogății, are prieteni; cine deține bogății, are rude; cine deține bogății, este un om (⟪पुमान्⟫ Nom. sq.) în lume; cine deține bogății, este anume un învățat. <!-- TODO: Fallback translation -->
 
 42. Focul care arde pe mort, arde și pe văduva bună.
 
-43. Slujitoarea brahmanului a gătit mâncarea și o mănâncă (acum).
+43. Slujitoarea brahmanului a gătit mâncarea și o mănâncă (acum). <!-- TODO: Fallback translation -->
 
 44. Ajunge acum!
 
-45. Acest fruct îi ajunge pentru mâncare.
+45. Acest fruct îi ajunge pentru mâncare. <!-- TODO: Fallback translation -->
 
 46. Cel mai interior sanctuar al templului este o casă pentru imaginea zeului.
 
@@ -604,17 +604,17 @@ Traduceți și determinați următoarele forme de cuvinte:
 ## 32.9. Exercițiu de traducere
 
 ::: compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
-⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
-⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
-⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫:br
-⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫:br
-⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫:br
-⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫:br
-⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫:br
-⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫:br
-⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
+⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
+⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
+⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫
+⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫
+⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫
+⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫
+⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫
+⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫
+⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫
+⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫
+⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 :::
 (din: ⟪संस्कृतबालादर्श⟫)
@@ -639,7 +639,7 @@ Maimuțe în copaci de mango.
 
 **lekt3202:** Copac de mango, Kanpur. [Sursa imaginii: AmarChandra / Wikipedia. CC BY-SA]
 
-**lekt3203:** Maimuțe (macaci rhesus) în Delhi. [Sursa imaginii: dewalt / Flickr. CC BY-NC-SA]
+**lekt3203:** Maimuțe (macaci rhesus) în Delhi. [Sursa imaginii: dewalt / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
 
 **lekt3204:** Carieră de piatră la sud de Pune, Maharashtra. [Sursa imaginii: lecercle / Flickr. CC BY-NC-SA]
 
@@ -647,9 +647,9 @@ Maimuțe în copaci de mango.
 
 **lekt3207:** Foc de gunoi de vacă în Rajasthan. [Sursa imaginii: thebigdurian / Flickr. CC BY-NC-SA]
 
-**lekt3206:** Pictură Mehndi pe mâini în Mumbai. [Sursa imaginii: the_gman / Flickr. CC BY-NC-SA]
+**lekt3206:** Pictură Mehndi pe mâini în Mumbai. [Sursa imaginii: the_gman / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
 
-**lekt3208:** Monah budist în Sri Lanka. [Sursa imaginii: Trollderella / Wikipedia. GNU FDL]
+**lekt3208:** Monah budist în Sri Lanka. [Sursa imaginii: Trollderella / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
 
 **lekt3209:** Salutare / adio indian. [Sursa imaginii: dhyanji / Flickr. CC BY-NC-ND]
 

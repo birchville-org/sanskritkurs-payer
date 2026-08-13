@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # الدرس 61
 
@@ -34,7 +34,7 @@ status: stable
 ### 61.1.2. أسماء الجذر المؤنثة المنتهية بـ -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
 
 **بالإضافة إلى التصريفات ذات النهايات الإعرابية النظامية، تظهر في المفرد من الداتيف، والأبليفي، والمخاطب، والموضع، والجمع من الجنيف أيضًا تصريفات على نمط المؤنث متعدد المقاطع مع -ī (⟪देवी⟫).**
 :::
@@ -114,7 +114,7 @@ status: stable
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-نموذج:
+نموذج: <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ f. "الأرض"
 
@@ -203,7 +203,7 @@ status: stable
 ::: grammar-box
 **شكل الجذر: للجذر بشكل عام نفس الشكل كما في المستقبل البسيط. وينطبق ذلك أيضًا على حرف الربط -i-.**
 :::
-أمثلة:
+أمثلة: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
 | --- | --- |
@@ -234,18 +234,26 @@ status: stable
 **معنى الإينتيڤوم:**
 
 *   **أن يقوم شخص أو شيء بشكل متكرر بفعل أو يتعرّض لما تعبر عنه الجذر اللغوي**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "هو يفعل مرارًا وتكرارًا"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "هو (يصبح) غالبًا"
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "هو يفعل مرارًا وتكرارًا"
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "هو (يصبح) غالبًا"
+:::
 
 *   **أن يقوم شخص أو شيء بشدة بفعل أو يتأثر به ما تعبر عنه الجذر:**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "هو يفعل بشدة، هو يفعل بكفاءة"
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "هو يفعل بشدة، هو يفعل بكفاءة"
+:::
 
 *   **في الجذور التي تعبر عن حركة، يعني الصيغة المكثفة الحركة المقوسة:**  
-    ⟪व्रज्⟫ 1م:  ⟪वव्रज्यते⟫ "يمشي في انحناءات" (ليس: "يمشي كثيراً")
+::: indent
+⟪व्रज्⟫ 1م:  ⟪वव्रज्यते⟫ "يمشي في انحناءات" (ليس: "يمشي كثيراً")
+:::
 
 *   **في بعض الجذور (قائمة: كيلهورن، القواعد الفاصلة 458ب) تعني الصيغة المكثفة اللوم:**  
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "يقطع بشكل سيء"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "يجلس بشكل سيء"
+::: indent
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "يقطع بشكل سيء"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "يجلس بشكل سيء"
+:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -283,7 +291,7 @@ status: stable
 القواعد بالتفصيل عند كيلهورن، القواعد § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-أمثلة:
+أمثلة: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -393,7 +401,7 @@ status: stable
 | ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
 | ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
+| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" | <!-- TODO: Fallback translation -->
 
 ### 61.4.2. التكوين باللاحقة -ya، الصيغة الفاعلية
 
@@ -425,13 +433,13 @@ status: stable
 | ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
 | ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
+| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
 
 لاحظ المعنى
 
 | ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6105.webp)
@@ -456,7 +464,7 @@ status: stable
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
+| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6109.webp)
@@ -508,7 +516,7 @@ status: stable
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
+| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **في بعض جذور الاسم، تعني هذه اللاحقة: يُصبح شيء ما مثل ذلك، أو يتحول إلى ما يشير إليه جذر الاسم:**
@@ -541,7 +549,7 @@ status: stable
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -784,7 +792,7 @@ status: stable
 
 **lekt6110:** كارلي [مصدر الصورة: ماكوا. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- تم الوصول في 2009-03-09. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
 
-**lekt6111:** [مصدر الصورة: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- تم الوصول في 2009-03-09. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (النسبة، المشاركة بالمثل)]
+**lekt6111:** [مصدر الصورة: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- تم الوصول في 2009-03-09. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (النسبة، المشاركة بالمثل)] <!-- TODO: Fallback translation -->
 
 **lekt6113:** تايلاند - เมืองไทย [مصدر الصورة: الإبحار "بصمات: من الواقع إلى الشاشة" (رون شاطئ). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- تم الوصول في 2009-03-09. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
 
@@ -792,7 +800,7 @@ status: stable
 
 **lekt6114:** كنيسة سانتا كروز، كوتشي = കൊച്ചി [مصدر الصورة: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- تم الوصول في 2009-03-09. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (النسبة، عدم الاستخدام التجاري)]
 
-**lekt6118:** [مصدر الصورة: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- تم الوصول في 2009-03-09. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by/2.0/deed.de) (النسبة)]
+**lekt6118:** [مصدر الصورة: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- تم الوصول في 2009-03-09. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by/2.0/deed.de) (النسبة)] <!-- TODO: Fallback translation -->
 
 **lekt6117:** شعب أباتاني، أروناتشال برديش [مصدر الصورة: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- تم الوصول في 2009-03-09. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by/2.0/deed.de) (نسبة المصنع)]
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 58
+# 第58課
 
 ## 58.1. 双数 (⟪द्विवचनम्⟫) 的主要词尾
 
@@ -303,26 +303,34 @@ Stammbildungssuffix + Endungen des iṣ-Aorist lauten also: <!-- TODO: Fallback 
 
 *   **Wurzeln mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā**   <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫  
-    ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
+⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫ <!-- TODO: Fallback translation -->
+:::
 
 *   **Wurzeln mit auslautendem Vokal:** <!-- TODO: Fallback translation -->
     *   **P: Dehnstufe** <!-- TODO: Fallback translation -->
     *   **Ā: Hochstufe** <!-- TODO: Fallback translation -->
 
     Beispiele:  
-    ⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫ <!-- TODO: Fallback translation -->
+:::
 
 *   **Wurzeln auf -ar., -al sowie ⟪वद्⟫ 1P "sagen", ⟪व्रज्⟫ 1P "weggehen": P: Dehnstufe**   <!-- TODO: Fallback translation -->
     Beispiele:  
-    ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫  
-    ⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫
+⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫ <!-- TODO: Fallback translation -->
+:::
 
 *   **Andere Wurzeln der Form (Kons.-)Kons.-a-Kons.: im P wahlweise Dehnstufe (gilt nicht für Wurzeln auf -h, -m, -y sowie einige weitere Wurzeln)**   <!-- TODO: Fallback translation -->
     Beispiel:  
-    ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
-    aber:  
-    ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
+aber:
+⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫ <!-- TODO: Fallback translation -->
+:::
 :::
 Paradigmen: <!-- TODO: Fallback translation -->
 
@@ -360,16 +368,24 @@ Paradigmen: <!-- TODO: Fallback translation -->
 **Besonderheiten:** <!-- TODO: Fallback translation -->
 
 1.  Bei einigen Wurzeln kann der Bindevokal -i- im ⟪आत्मनेपद⟫ durch -ī- ersetzt werden. Nach ⟪ग्रह्⟫ 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:   <!-- TODO: Fallback translation -->
-    ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+::: indent
+⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+:::
 
 2.  Wurzeln der 8. Präsensklasse auf -n (oder -ṇ) können in der 2.3.sg.Ā tiefstufig sein:   <!-- TODO: Fallback translation -->
-    ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (Wurzelaorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (Wurzelaorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫ <!-- TODO: Fallback translation -->
+:::
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā u.a. können statt der 3.sg. Ā auch die Form des Passivaorists annehmen:   <!-- TODO: Fallback translation -->
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
 4.  ⟪विज्⟫ 7P hat keinen Ablaut:   <!-- TODO: Fallback translation -->
-    ⟪अविजीत्⟫
+::: indent
+⟪अविजीत्⟫
+:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

@@ -164,13 +164,13 @@ Spiegazioni:
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "quattro" come primo membro di un composto
 
-⟪राज्ञा⟫ Instr. sg. masc. di ⟪राजन्⟫ m. "re"
+⟪राज्ञा⟫ Instr. sg. masc. di ⟪राजन्⟫ m. "re" &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪स्वेषु⟫ : Loc. pl. masc. / neut. di ⟪स्व⟫ ⟪३⟫ "proprio (mio, tuo, suo ecc.)"
 
 ⟪वर्त्मसु⟫ : Loc. pl. neut. di ⟪वर्त्मन्⟫ n. "sentiero, binario, percorso"
 
-## 29.4. Futurooo e causativo delle radici finora apprese
+## 29.4. Futuroooooo e causativo delle radici finora apprese
 
 ::: grammar-box
 

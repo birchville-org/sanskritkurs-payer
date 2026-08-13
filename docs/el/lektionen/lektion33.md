@@ -109,14 +109,14 @@ status: stable
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. Για τον αλλαγή φωνήεντος του ā
+## 33.3. Για τον αλλαγή φωνήεντος του ā <!-- TODO: Fallback translation -->
 
 ā kann
 
 * από την μία πλευρά, βαθμός έκτασης μιας από τις σειρές ριζών με -a-
 * από την άλλη πλευρά, να είναι βαθμός έκτασης σε μια σειρά αντηχηίας της ομάδας -ā-
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Α.**
@@ -169,7 +169,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Οι ρίζες **⟪दा⟫** και **:sig[⟪धा⟫]**
+### 33.4.1. Οι ρίζες **⟪दा⟫** και **:sig[⟪धा⟫]** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Οι ρίζες ⟪दा⟫ και :sig[⟪धा⟫] διπλασιάζονται με το φθόγγο -a- και χάνουν τον φθόγγο της ρίζας στον αδύναμο λόγο.**

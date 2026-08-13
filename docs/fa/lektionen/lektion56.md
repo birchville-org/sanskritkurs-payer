@@ -12,19 +12,19 @@ status: stable
 ## 56.1. ائوریست تکراری
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**آموزش:**
 
-**Augment + reduplizierte Wurzel + a + thematische Sekundärendung** <!-- TODO: Fallback translation -->
+**افزاینده + ریشه تکرارشونده + a + پسوند ثانوی تماتیک**
 
-**Die Wurzelsilbe kann tief- oder hochstufig sein. Bei Wurzeln auf -i oder -u ist Tiefstufe die Regel.** <!-- TODO: Fallback translation -->
+**بخش ریشه‌ای می‌تواند با صدای پایین یا بالا باشد. در ریشه‌های منتهی به -i یا -u، صدای پایین قاعده است.**
 
-**Auslautendes -i, -u wird durch -iy bzw. -uv ersetzt.** <!-- TODO: Fallback translation -->
+**-i و -u در پایان با -iy یا -uv جایگزین می‌شوند.**
 
-**Auslautendes -ā (für -e) fällt ab.** <!-- TODO: Fallback translation -->
+**حذف -ā در پایان (به جای -e).**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+جدول صرف:
 
-⟪श्रि⟫ 1U "sich begeben zu, sich anlehnen" <!-- TODO: Fallback translation -->
+⟪श्रि⟫ 1U "به سوی رفتن، تکیه دادن"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -33,187 +33,187 @@ Paradigma: <!-- TODO: Fallback translation -->
 | **2. ⟪द्वितीयः⟫** | ⟪अशिश्रियस्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियथास्⟫ | ⟪अशिश्रियध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अशिश्रियत्⟫ | ⟪अशिश्रियन्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियन्त⟫ |
 
-Diese Form des Aorist bilden u.a.: <!-- TODO: Fallback translation -->
+این شکل از آوریست توسط موارد زیر و غیره ساخته می‌شود:
 
-*   ⟪श्रि⟫ 1U "sich begeben zu" <!-- TODO: Fallback translation -->
-*   ⟪द्रु⟫ 1P "rennen" <!-- TODO: Fallback translation -->
-*   ⟪कम्⟫ 1Ā "lieben": ⟪अचकमत⟫ / ⟪अचीकमत⟫ (siehe unten!) <!-- TODO: Fallback translation -->
-*   ⟪पत्⟫ 1P "fallen": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = Tiefstufe zu pat) <!-- TODO: Fallback translation -->
-*   ⟪वच्⟫ 2P "sagen": ⟪अवोचत्⟫ (a-va + uc-a-t) <!-- TODO: Fallback translation -->
+*   ⟪श्रि⟫ 1U "به سوی رفتن"
+*   ⟪द्रु⟫ 1P "دویدن"
+*   ⟪कम्⟫ 1Ā "دوست داشتن": ⟪अचकमत⟫ / ⟪अचीकमत⟫ (به پایین مراجعه کنید!)
+*   ⟪पत्⟫ 1P "افتادن": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = مرحله عمیق برای pat)
+*   ⟪वच्⟫ 2P "گفتن": ⟪अवोचत्⟫ (a-va + uc-a-t)
 
 ::: grammar-box
-**Alle Wurzeln der 10. Präsensklasse sowie alle Kausative bilden stets den reduplizierten Aorist.** <!-- TODO: Fallback translation -->
+**تمام ریشه‌های کلاس دهم فعل حال و تمام افعال سببی همواره آوریست تقلیل‌یافته می‌سازند.**
 :::
 ### 56.1.1. ساخت آوریست افعال سببی و ریشه‌های کلاس دهم مضارع
 
-Stammsilbe: <!-- TODO: Fallback translation -->
+هجای بنیاد:
 
 ::: grammar-box
-**Ausgangspunkt ist die Form des Präsensstamms bzw. des Kausativstamms, die dieser nach Wegfall des Bildungselements -aya- hat (also Stamm auf -p bei Kausativen auf -paya-).** <!-- TODO: Fallback translation -->
+**مبدأ این فرم بن ماضی مضارع یا بن کایساتیو است که پس از حذف عنصر ساختاری -aya- به دست می‌آید (بنی با -p در کایساتیوهای منتهی به -paya-).**
 
-**Der Vokal dieser sog. Stammsilbe bestimmt sich im Aorist nach folgenden Regeln:** <!-- TODO: Fallback translation -->
+**حرف صامت این سیلاب بن نامیده‌شده در آئوریست بر اساس قواعد زیر تعیین می‌گردد:**
 
-*   **\-ā- vor einfachem Konsonanten wird durch -a- ersetzt:**   <!-- TODO: Fallback translation -->
-    ⟪पॄ⟫ 3P: Kaus. ***:sig[⟪पार⟫]***⟪यति⟫, Aor. ⟪अपि⟫***:sig[⟪पर⟫]***⟪त्⟫  
-    ⟪द्रु⟫ 1P: Kaus. ***:sig[⟪द्राव⟫]***⟪यति⟫, Aor. ⟪अदु⟫***:sig[⟪द्रव⟫]***⟪त्⟫ / ⟪अदि⟫***:sig[⟪द्रव⟫]***⟪त्⟫  
-    :sig[⟪नी⟫] 1U: Kaus.  ***:sig[⟪नाय⟫]***⟪यति⟫, Aor. ⟪अनी⟫***:sig[⟪नय⟫]***⟪त्⟫  
-    ⟪ज्ञा⟫ 9U: Kaus. ***:sig[⟪ज्ञाप⟫]***⟪यति⟫, Aor. ⟪अजि⟫***:sig[⟪ज्ञप⟫]***⟪त्⟫   <!-- TODO: Fallback translation -->
+*   **\-ā- پیش از یک همخوان ساده با -a- جایگزین می‌شود:**
+⟪पॄ⟫ 3P: کای. ***:sig[⟪पार⟫]***⟪यति⟫، آئ. ⟪अपि⟫***:sig[⟪पर⟫]***⟪त्⟫  
+⟪द्रु⟫ 1P: کای. ***:sig[⟪द्राव⟫]***⟪यति⟫، آئ. ⟪अदु⟫***:sig[⟪द्रव⟫]***⟪त्⟫ / ⟪अदि⟫***:sig[⟪द्रव⟫]***⟪त्⟫  
+:sig[⟪नी⟫] 1U: کای. ***:sig[⟪नाय⟫]***⟪यति⟫، آئ. ⟪अनी⟫***:sig[⟪नय⟫]***⟪त्⟫  
+⟪ज्ञा⟫ 9U: کای. ***:sig[⟪ज्ञाप⟫]***⟪यति⟫، آئ. ⟪अजि⟫***:sig[⟪ज्ञप⟫]***⟪त्⟫
 
-*   **\-ī-, -e-, -ai- vor einfachem Konsonanten wird durch -i- ersetzt:**   <!-- TODO: Fallback translation -->
-    ⟪चित्⟫ 1P: Kaus. ***:sig[⟪चेत⟫]***⟪यति⟫, Aor. (Ā) ⟪अची⟫***:sig[⟪चित⟫]***⟪त⟫   <!-- TODO: Fallback translation -->
+*   **\-ī-, -e-, -ai- پیش از یک همخوان ساده با -i- جایگزین می‌شود:**
+⟪चित्⟫ 1P: کای. ***:sig[⟪चेत⟫]***⟪यति⟫، آئ. (آ) ⟪अची⟫***:sig[⟪चित⟫]***⟪त⟫
 
-*   **\-u-, -o-, -au- vor einfachem Konsonanten wird durch -u- ersetzt:**   <!-- TODO: Fallback translation -->
-    ⟪चुर्⟫ 10U: ***:sig[⟪चोर⟫]***⟪यति⟫, Aor. ⟪अचू⟫***:sig[⟪चुर⟫]***⟪त्⟫ <!-- TODO: Fallback translation -->
+*   **\-u-, -o-, -au- پیش از هم‌صدا ساده با -u- جایگزین می‌شود:**
+⟪चुर्⟫ 10U: ***:sig[⟪चोर⟫]***⟪यति⟫، اَور. ⟪अचू⟫***:sig[⟪चुर⟫]***⟪त्⟫
 
-**Bei einigen Wurzeln sind die bisher genannten Veränderungen wahlweise bzw. müssen unterbleiben:** <!-- TODO: Fallback translation -->
+**در مورد برخی از ریشه‌ها، تغییرات ذکر شده تاکنون اختیاری است یا باید ترک شود:**
 
-*   **dem auslautenden Konsonanten der Stammsilbe unmittelbar vorangehendes, für ṛ, ṝ, ḷ substituiertes ar, ār, īr, al bleibt wahlweise unverändert oder wird durch ṛ bzw. ḷ ersetzt:**   <!-- TODO: Fallback translation -->
-    ⟪कॢप्⟫  1Ā: Kaus. ***:sig[⟪कल्प⟫]***⟪यति⟫, Aor. ⟪अच⟫***:sig[⟪कल्प⟫]***⟪त्⟫ / ⟪अची⟫***:sig[⟪कॢ⟫]***⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U: Kaus. ***:sig[⟪कर्ष⟫]***⟪यति⟫, Aor. ⟪अच⟫***:sig[⟪कर्ष⟫]***⟪त्⟫ / ⟪अची⟫***:sig[⟪कृ⟫]***⟪षत्⟫ <!-- TODO: Fallback translation -->
+*   **ar، ār، īr، al که جایگزین ṛ، ṝ، ḷ شده و بلافاصله پیش از هم‌صدای پایانی سیلاب بن قرار دارند، به صورت اختیاری بدون تغییر باقی می‌مانند یا توسط ṛ یا ḷ جایگزین می‌شوند:**
+⟪कॢप्⟫  1Ā: کائوس. ***:sig[⟪कल्प⟫]***⟪यति⟫، اَور. ⟪अच⟫***:sig[⟪कल्प⟫]***⟪त्⟫ / ⟪अची⟫***:sig[⟪कॢ⟫]***⟪पत्⟫  
+⟪कृष्⟫ 1P/6U: کائوس. ***:sig[⟪कर्ष⟫]***⟪यति⟫، اَور. ⟪अच⟫***:sig[⟪कर्ष⟫]***⟪त्⟫ / ⟪अची⟫***:sig[⟪कृ⟫]***⟪षत्⟫
 :::
-Vokal der Reduplikationssilbe: <!-- TODO: Fallback translation -->
+واکه سیلاب تکرار:
 
-Nachdem die eben genannten Regeln auf die Stammsilbe angewandt sind, müssen folgende Regeln für den Vokal der Reduplikationssilbe befolgt werden: <!-- TODO: Fallback translation -->
+پس از آنکه قواعد ذکر شده اخیر بر روی سیلاب بن اعمال شوند، باید قواعد زیر برای واکه سیلاب تکرار رعایت شود:
 
 ::: grammar-box
-**Ausgangspunkt ist der reguläre Reduplikationsvokal, d.h.** <!-- TODO: Fallback translation -->
+**نقطه شروع، واکهٔ بازتکرار (reduplication vowel) منظم است، یعنی.**
 
-*   a für a, ā, ṛ,  ṝ, ḷ <!-- TODO: Fallback translation -->
-*   i für i, ī, e, ai <!-- TODO: Fallback translation -->
-*   u für u, ū, o, au <!-- TODO: Fallback translation -->
+*   a برای a، ā، ṛ،  ṝ، ḷ
+*   i برای i، ī، e، ai
+*   u برای u، ū، o، au
 
-**Dieser Reduplikationsvokal unterliegt folgenden Veränderungen:** <!-- TODO: Fallback translation -->
+**این واکهٔ بازتکرار تحت تغییرات زیر قرار می‌گیرد:**
 
-*   **i, u wird durch ī, ū ersetzt, wenn die Stammsilbe mit nur einem Konsonanten anfängt und metrisch kurz ist:**   <!-- TODO: Fallback translation -->
-    ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫***:sig[⟪बी⟫]***⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫***:sig[⟪तू⟫]***⟪तुदत्⟫   <!-- TODO: Fallback translation -->
+*   **i و u با ī و ū جایگزین می‌شوند، اگر بخش واژگانی (stem syllable) تنها با یک همخوان آغاز شود و از نظر عروضی کوتاه باشد:**
+⟪भिद्⟫ 7U: علت‌آور (Kaus.) ⟪भेदयति⟫، ماضی ساده (Aor.) ⟪अ⟫***:sig[⟪बी⟫]***⟪भिदत्⟫  
+⟪तुद्⟫ 6U: علت‌آور (Kaus.) ⟪तोदयति⟫، ماضی ساده (Aor.) ⟪अ⟫***:sig[⟪तू⟫]***⟪तुदत्⟫
 
-*   **a wird durch ī ersetzt, wenn die Stammsilbe metrisch kurz ist und mit nur einem Konsonanten beginnt. Ist die Stammsilbe metrisch kurz und beginnt mit mehr als einem Konsonanten, wird das a der Reduplikationssilbe durch i ersetzt. Ist die Stammsilbe metrisch lang, bleibt das a erhalten:**   <!-- TODO: Fallback translation -->
-    :sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, Stammsilbe des Aor. ⟪नय्⟫, Aor. ⟪अ⟫***:sig[⟪नी⟫]***⟪नयत्⟫  
-    :sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, Stammsilbe des Aor. ⟪कर्⟫, Aor. ⟪अ⟫***:sig[⟪ची⟫]***⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Stammsilbe des Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***:sig[⟪ति⟫]***⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Stammsilbe des Aor. ⟪भव्⟫, Aor. ⟪अ⟫***:sig[⟪बी⟫]***⟪भवत्⟫ <!-- TODO: Fallback translation -->
+*   **a با ī جایگزین می‌شود، اگر هجای بن به لحاظ عروضی کوتاه باشد و تنها با یک همخوان آغاز شود. اگر هجای بن به لحاظ عروضی کوتاه باشد و بیش از یک همخوان آغاز شود، a در هجای تکرار با i جایگزین می‌شود. اگر هجای بن به لحاظ عروضی بلند باشد، a حفظ می‌گردد:**
+:sig[⟪नी⟫] 1U: کایس. ⟪नाययति⟫، هجای بن ماضی ناکامل ⟪नय्⟫، ماضی ناکامل ⟪अ⟫***:sig[⟪नी⟫]***⟪नयत्⟫  
+:sig[⟪कृ⟫] 8U: کایس. ⟪कारयति⟫، هجای بن ماضی ناکامل ⟪कर्⟫، ماضی ناکامل ⟪अ⟫***:sig[⟪ची⟫]***⟪करत्⟫  
+⟪त्यज्⟫ 1P: کایس. ⟪त्याजयति⟫، هجای بن ماضی ناکامل ⟪त्यज्⟫، ماضی ناکامل ⟪अ⟫***:sig[⟪ति⟫]***⟪त्यजत्⟫  
+⟪भू⟫ 1P: کایس. ⟪भावयति⟫، هجای بن ماضی ناکامل ⟪भव्⟫، ماضی ناکامل ⟪अ⟫***:sig[⟪बी⟫]***⟪भवत्⟫
 
-Besonderheiten bestimmter Wurzeln bei Kielhorn, Grammatik § 435c ff. <!-- TODO: Fallback translation -->
+ویژگی‌های ریشه‌های خاص در کیلهورن، دستور زبان § 435c به بعد.
 
-**Vokalisch anlautende Stammsilben werden nach folgenden Regeln redupliziert:** <!-- TODO: Fallback translation -->
+**هجای بن که با واکه آغاز می‌شوند، طبق قواعد زیر تکرار می‌یابند:**
 
-*   **Folgt dem anlautenden Vokal nur ein einziger Konsonant oder eine Konsonantengruppe, deren erstes Glied weder Nasal noch d oder r ist, so lautet die reduplizierte Silbe:** <!-- TODO: Fallback translation -->
+*   **اگر پس از واکه آغازین تنها یک همخوان یا گروهی از همخوان‌ها که اولین عضو آن‌ها نه ناقل است و نه d یا r، بیاید، هجای تکرار به این صورت خواهد بود:**
 
-Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - **i** \- alle Konsonanten <!-- TODO: Fallback translation -->
+مصوت - اولین همخوان پس از آن (یا نماینده‌ی مورد نیاز در یک هجای تقلید) - **i** - تمام همخوانان
 
 :::
 ::: indent
-⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, reduplizierte Silbe ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
-⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, reduplizierte Silbe ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
-⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, reduplizierte Silbe ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫ <!-- TODO: Fallback translation -->
+⟪अश्⟫ 9P: سببی ⟪आशयति⟫، هجای تقلید आशिश्⟫، ماضی ناهشیار ⟪आशिशत्⟫
+⟪इष्⟫ 6P: سببی ⟪एषयति⟫، هجای تقلید एषिष्⟫، ماضی ناهشیار ⟪ऐषिषत्⟫
+⟪ईक्ष्⟫ 1Ā: سببی ⟪ईक्षयति⟫، هجای تقلید ईचिक्ष्⟫، ماضی ناهشیار ⟪ऐचिक्षत्⟫
 :::
-*   **Folgt dem anlautenden Vokal eine mit einem Nasal oder d oder r anfangende Konsonantengruppe, so wird der zweite Konsonant der Gruppe (oder sein Stellvertreter) mit i nach folgendem schema eingeschoben:** <!-- TODO: Fallback translation -->
+*   **اگر پس از مصوت آغازین، گروهی همخوان با یک هموان صامت یا d یا r شروع شود، آنگاه دومین همخوان گروه (یا نماینده‌ی آن) با i بر اساس الگوی زیر درج می‌شود:**
 
-Vokal - erster Konsonant - zweiter Konsonant (Stellvertreter) - i - zweiter Konsonant <!-- TODO: Fallback translation -->
+مصوت - اولین همخوان - دومین همخوان (نماینده) - i - دومین همخوان
 
 ::: indent
-⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, reduplizierte Silbe ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
-⟪ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, reduplizierte Silbe ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
-⟪अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, reduplizierte Silbe ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫ <!-- TODO: Fallback translation -->
+⟪अञ्ज्⟫ 7P: سببی ⟪अञ्जयति⟫، هجای تقلید अञ्जिज्⟫، ماضی ناهشیار ⟪आञ्जिजत्⟫
+⟪ऋ⟫ 1P: سببی ⟪अर्पयति⟫، هجای تقلید अर्पिप्⟫، ماضی ناهشیار ⟪आर्पिपत्⟫
+⟪अर्ह्⟫ 1P: سببی ⟪अर्हयति⟫، هجای تقلید अर्जिह्⟫، ماضی ناهشیار ⟪आर्जिहत्⟫
 :::
-Diese Form der Reduplikation vokalisch anlautender abgeleiteter Stämme (Kausative) nennt man "attische Reduplikation". <!-- TODO: Fallback translation -->
+این شکل از تقلید در بن‌های مشتق شده‌ی مصوت‌آغاز (سببیان) را «تقلید آتیکی» می‌نامند.
 ## 56.2. وجه امری (Injunktiv)
 
 ::: grammar-box
-**Der Injunktiv ist die augmentlose Form zu Augmentformen, d.h. seine Formen sind identisch mit den augmentlosen Formen des Indikativ Imperfekt oder Aorist. Die einheimische indische Grammatik hat den Injunktiv nicht als besondere grammatische Kategorie erkannt.** <!-- TODO: Fallback translation -->
+**وجه امری (Injunktiv) شکل بدون افزونه‌ای از افعال دارای افزونه است، به این معنا که اشکال آن با اشکال بدون افزونۀ افعال گذشته‌ای در حالت خبری یا ماضی ناکامل یکسان است. دستور زبان بومی هند این وجه را به‌عنوان یک دسته دستوری ویژه شناسایی نکرده است.**
 :::
-Gemäß der grundlegenden Arbeit: <!-- TODO: Fallback translation -->
+بر اساس بنیادی‌ترین پژوهش:
 
 ::: media
 ![](/images/lekt5601.jpg)
-Abb.:
-Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983)
-(Bildquelle: [Details](/licenses#lekt5601)) <!-- TODO: Fallback translation -->
+تصویر:
+استاد زبان‌شناسی تطبیقی، دانشگاه ارلنگن-نورنبرگ (۱۹۵۵ - ۱۹۸۳)
+(منبع تصویر: [جزئیات](/licenses#lekt5601))
 :::
 
 ::: indent
-Hoffmann, Karl \<1915 - 1996\>: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen) <!-- TODO: Fallback translation -->
+هوفمن، کارل \<۱۹۱۵ - ۱۹۹۶\>: وجه امری در ود: یک بررسی عملکرد هم‌دوره / اثر کارل هوفمن. -- هایدلبرگ : وینتر، ۱۹۶۷. -- ۲۹۸ ص. -- (کتابخانه هندواروپایی : سری سوم، پژوهش‌ها)
 :::
-hat der Injunktiv im Veda folgende Eigenschaften: <!-- TODO: Fallback translation -->
+وجه امری در ود ویژگی‌های زیر را دارد:
 
-*   er ist nicht berichtend, sondern erwähnend <!-- TODO: Fallback translation -->
-*   er ist zeitstufenlos <!-- TODO: Fallback translation -->
-*   der Injunktiv Präsens (= augmentloses Imperfekt) bezeichnet den unvollendeten Aspekt <!-- TODO: Fallback translation -->
-*   der Injunktiv Aorist bezeichnet den vollendeten Aspekt. <!-- TODO: Fallback translation -->
+*   آن خبردهنده نیست، بلکه اشاره‌گر است
+*   آن فاقد زمان‌مندی است
+*   وجه امری حال (معادل ماضی ناکامل بدون افزونه) جنبه‌ی ناتمام را نشان می‌دهد
+*   وجه امری ماضی ناکامل (Aorist) جنبه‌ی تمام‌شده را نشان می‌دهد.
 
 ::: grammar-box
-**Im nachvedischen Sanskrit kommt der Injunktiv nur noch in Verbindung mit der Verbotspartikel ⟪मा⟫ (+ Injunktiv Aorist) bzw. ⟪मा⟫ ⟪स्म⟫ (+ Injunktiv Präsens oder Aorist) vor, der unterschiedliche Aspekt kommt meist nicht mehr zum Tragen.** <!-- TODO: Fallback translation -->
+**در سنسکریت پس‌ودایی، صرف نهی (Injunktiv) تنها در ارتباط با کلمه ممنوعیت ⟪मा⟫ (+ نهی ماضی) یا ⟪मा⟫ ⟪स्म⟫ (+ نهی حال یا ماضی) ظاهر می‌شود؛ جنبه (Aspect) مختلف معمولاً دیگر مورد توجه قرار نمی‌گیرد.**
 
-(mit Aspekt <!-- TODO: Fallback translation -->
+(با جنبه
 
-*   würde ⟪मा⟫ + Injunktiv Aorist einen Prohibitivsatz bezeichnen: "Beginne nicht zu ...!", "Tu nicht ...!" <!-- TODO: Fallback translation -->
-*   würde ⟪मा⟫ ⟪स्म⟫ + Injunktiv Präsens einen Inhibitivsatz bezeichnen, d.h. eine schon verlaufende Handlung oder ein schon bestehender Zustand wird verboten: "Höre auf, zu ...!", "Lass ab von ...!" <!-- TODO: Fallback translation -->
+*   اگر ⟪मा⟫ + نهی ماضی به کار رود، جمله‌ای ممنوعیت‌آمیز (Prohibitiv) را بیان می‌کند: «... را شروع نکن!»، «... را انجام نده!»
+*   اگر ⟪मा⟫ ⟪स्म⟫ + نهی حال به کار رود، جمله‌ای بازدارنده (Inhibitiv) را بیان می‌کند؛ یعنی به عملی که از پیش در جریان است یا وضعیتی که از پیش موجود است، ممنوعیت تحمیل می‌شود: «... را متوقف کن!»، «از ... دست بردار!»
 
-Dieser Unterschied wird jedoch im klassischen Sanskrit meist nicht gemacht.) <!-- TODO: Fallback translation -->
+با این حال، در سنسکریت کلاسیک معمولاً این تمایز رعایت نمی‌شود.)
 :::
 ## 56.3. جمله نهی
 
 ::: grammar-box
-**Hauptform:** <!-- TODO: Fallback translation -->
+**شکل اصلی:**
 
-**⟪मा⟫ + Injunktiv Aorist** <!-- TODO: Fallback translation -->
+**⟪मा⟫ + اوجینت ایجونکتیو**
 
-**⟪मा⟫ ⟪स्म⟫ + Injunktiv Aorist oder Injunktiv Präsens** <!-- TODO: Fallback translation -->
+**⟪मा⟫ ⟪स्म⟫ + اوجینت ایجونکتیو یا اوجینت پرِسنس**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Werde nicht einer, der durch die Frucht einer Tat motiviert wird!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,47c) <!-- TODO: Fallback translation -->
+⟪मा⟫ ⟪कर्महेतुर्भूः⟫ «نشین که به خاطر میوه‌ی عمل انگیزه یافته‌ای!» (اوجینت ایجونکتیو) (⟪भगवद्गीता⟫ ۲،۴۷ج)
 
-⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Werde nicht unmännlich!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,3a) <!-- TODO: Fallback translation -->
+⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ «نادران نشو!» (امر ماضی منفی) (⟪भगवद्गीता⟫ ۲،۳a)
 :::
 ::: media
 ![](/images/lekt5602.webp)
-Abb.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
-Poster (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
-(Bildquelle: [Details](/licenses#lekt5602)) <!-- TODO: Fallback translation -->
+تصویر: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
+پوستر (ارنستو چه گوارا) یک حزب سیاسی در واللاچیرا (വാല്ലചിര)، تریسور (തൃശ്ശൂര്‍). «ترجمه تقریبی آنچه بر روی آن نوشته شده است: شهادت تجربه‌ای جذاب برای یک انقلابی است. و پناهگاهی ترسناک برای یک بزدل. چه الگویی برای ترسوها نیست.»
+(منبع تصویر: [جزئیات](/licenses#lekt5602))
 :::
-Beide Beispiele haben prohibitiven Sinn. Der Injunktiv Aorist ist hier also in seiner ursprünglichen Bedeutung gebraucht. (Das Überwiegen des Injunktiv Aorist in solchen Sätzen erklärt sich vielleicht aus dem Überwiegen der Prohibitivsätze gegenüber Inhibitivsätzen, doch müsste diese Frage für das klassische Sanskrit noch untersucht werden.) <!-- TODO: Fallback translation -->
+هر دو مثال معنای نهی‌کننده دارند. بنابراین امر ماضی منفی در اینجا به معنای اصلی خود به کار رفته است. (شاید غلبه امر ماضی منفی در چنین جملاتی از غلبه جملات نهی‌کننده بر جملات بازدارنده ناشی شود، اما این پرسش باید برای سانسکریت کلاسیک هنوز بررسی شود.)
 
 ::: grammar-box
-**Andere Formen von Verbotssätzen:** <!-- TODO: Fallback translation -->
+**فرم‌های دیگر جملات نهی:**
 
-*   **⟪मा⟫ + (⟪स्म⟫) + Imperativ (selten)  ** <!-- TODO: Fallback translation -->
-**z.B.  ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫** <!-- TODO: Fallback translation -->
+*   **⟪मा⟫ + (⟪स्म⟫) + امری (به‌ندرت)  **
+**مثلاً  ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫**
 
-*   ⟪अलम्⟫ oder ⟪कृतम्⟫  = Instrumentalis im Inhibitivsatz   <!-- TODO: Fallback translation -->
-    z.B. ⟪अलं⟫  ⟪विषादेन⟫ "Genug mit dem Verzagen! = Hör auf, verzagt zu sein! = Kopf hoch!"   <!-- TODO: Fallback translation -->
+*   ⟪अलम्⟫ یا ⟪कृतम्⟫  = ابزار در جمله بازدارنده
+مثلاً ⟪अलं⟫  ⟪विषादेन⟫ «کافی است از ناامیدی! = دست از ناامید بودن بردار! = سر بالا!»
 
-*   ⟪न⟫ + Gerundiv (Partizip der Notwendigkeit) <!-- TODO: Fallback translation -->
+*   ⟪न⟫ + Gerundiv (Participle of Necessity)
 
-Daneben gibt es noch weitere, seltenere Formen von Verbotssätzen, siehe z.B. <!-- TODO: Fallback translation -->
+در کنار آن، اشکال نادرتری از جملات نهی وجود دارد؛ به عنوان مثال ببینید:
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353. <!-- TODO: Fallback translation -->
+اسپیر، جی. اس. (جیکوب ساموئل) \<1849-1913\>: Sanskrit sytax. -- لیدن : بریل، ۱۸۸۶. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)
-Abb.: ⟪अलं⟫  ⟪विषादेन⟫
-(Bildquelle: [Details](/licenses#lekt5603)) <!-- TODO: Fallback translation -->
+تصویر: ⟪अलं⟫  ⟪विषादेन⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5603))
 :::
 ## 56.4. ⟪स्म⟫
 
 ::: grammar-box
-**⟪स्म⟫ hebt hervor: "wahrlich, allerdings, gewiss, gerade"** <!-- TODO: Fallback translation -->
+**⟪स्म⟫ تأکید می‌کند: "به راستی، البته، قطعاً، دقیقاً"**
 
-**Außerdem ist folgende Konstruktion sehr wichtig:** <!-- TODO: Fallback translation -->
+**علاوه بر این، ساختار زیر بسیار مهم است:**
 
 :::
 ::: indent
-⟪स्म⟫ + Indikativ Präsens dient zum Erzählen in der Vergangenheit, vor allem um eine Dauer in der Vergangenheit zu bezeichnen: <!-- TODO: Fallback translation -->
+⟪स्म⟫ + حال اخباری برای روایت در گذشته، به ویژه برای بیان مدتی در گذشته استفاده می‌شود:
 
-z.B. ⟪वसति⟫ ⟪स्म⟫ "es wohnte einmal" (⟪स्म⟫ kann manchmal auch fehlen). <!-- TODO: Fallback translation -->
+مثال: ⟪वसति⟫ ⟪स्म⟫ "یک بار زندگی می‌کرد" (⟪स्म⟫ گاهی اوقات ممکن است حذف شود).
 :::
 ## 56.5. تمرین
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen: <!-- TODO: Fallback translation -->
+الف) اشکال زیر را بدون استفاده از ابزارهای کمکی (!) تعیین و ترجمه کنید:
 
 1.  ⟪अस्मत्⟫
 2.  ⟪अस्मात्⟫
@@ -298,10 +298,10 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen: <!-- TODO
 
 ::: deleteme-box
 
-**lekt5601:** Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983) [Bildquelle: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Zugriff am 2009-02-27] <!-- TODO: Fallback translation -->
+**lekt5601:** استاد زبان‌شناسی تطبیقی، دانشگاه ارلنگن-نورنبرگ (۱۹۵۵ - ۱۹۸۳) [منبع تصویر: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- دسترسی در ۲۰۰۹-۰۲-۲۷]
 
-**lekt5602:** Poster (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards." [Bildquelle: Hari\_Menon. -- [http://www.flickr.com/photos/me\_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5602:** پوستر (ارنستو چِ گوِرا) یک حزب سیاسی در والّاشیرا (വാല്ലചിര)، تریسور (തൃശ്ശൂര്‍). «ترجمه تقریبی متن روی آن: شهادت تجربه‌ای جذاب برای یک انقلابی است. و پناهگاهی ترسناک برای یک بزدل. چِ گوِرا الگویی برای ترسوهای نیست.» [منبع تصویر: هاری مینون. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- دسترسی در ۲۰۰۹-۰۲-۲۷. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
 
-**lekt5603:** [Bildquelle: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5603:** [منبع تصویر: بانک جهانی / کرت کارنمارک. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- دسترسی در ۲۰۰۹-۰۲-۲۷. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون مشتقات)]
 
 :::

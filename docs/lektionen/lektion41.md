@@ -67,7 +67,7 @@ Beispiele:
 | Wurzel / Klasse | Partizip Präsens Ā |
 | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्विषाण⟫ |
-| ⟪हु⟫ 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
+| ⟪हु⟫ 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
 | ⟪सु⟫ 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | ⟪रुध्⟫ 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | ⟪तन्⟫ 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -372,7 +372,7 @@ Abb.: ⟪शास्त्री⟫
 ::: deleteme-box
 s. dazu:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 

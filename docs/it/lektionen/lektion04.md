@@ -48,7 +48,7 @@ status: stable
 **Per il Nom. sg. masc.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) sta davanti a tutti i suoni tranne la **-a** breve
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) sta davanti a **-a**, che viene elisa con Avagraha (caduta)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) sta solo in pausa (fine di frase, fine di verso) <!-- TODO: Fallback translation -->
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) sta solo in pausa (fine di frase, fine di verso) &lt;!-- TODO: Fallback translation --&gt;
 
 Per poter formare frasi con questi pronomi (sarvanāman n.) è necessaria la conoscenza delle seguenti regole di Sandhi:
 

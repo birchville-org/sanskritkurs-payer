@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 2
+# Mësimi 2
 
 ## 2.1. Der Nominalsatz
 

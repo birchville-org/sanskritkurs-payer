@@ -21,7 +21,7 @@ status: stable
 
 ### 60.2.1. نوع ۱: بدون تغییر ریشه
 
-⟪बन्ध्⟫ 9P "binden" <!-- TODO: Fallback translation -->
+⟪बन्ध्⟫ 9P "بستن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -30,7 +30,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
 :::
-⟪भाष्⟫ 1Ā "sprechen" <!-- TODO: Fallback translation -->
+⟪भाष्⟫ 1Ā "گفتن"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -41,7 +41,7 @@ status: stable
 :::
 ### 60.2.2. نوع 2: ریشه قوی درجه بالا، ریشه ضعیف درجه پایین
 
-⟪भिद्⟫ 7U "spalten" <!-- TODO: Fallback translation -->
+⟪भिद्⟫ 7U «شکافتن»
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -52,9 +52,9 @@ status: stable
 :::
 ### 60.2.3. نوع ۳: پایه قوی با درجه بالا/درجه کشیده
 
-#### 60.2.3.1. نوع 3a: ریشه قوی با درجه بالا/کشیده، ریشه ضعیف با درجه پایین <!-- TODO: Fallback translation -->
+#### 60.2.3.1. نوع ۳a: ریشه قوی با درجه بالا/کشیده، ریشه ضعیف با درجه پایین
 
-⟪नी⟫ 1U "führen" <!-- TODO: Fallback translation -->
+⟪नी⟫ 1U "رهبری کردن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -63,7 +63,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
 :::
-⟪स्तु⟫ 2U (⟪अनिट्⟫) "loben" <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2U (⟪अनिट्⟫) "ستایش کردن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -72,7 +72,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
 :::
-⟪कृ⟫ 8U (⟪अनिट्⟫) "tun, machen" <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U (⟪अनिट्⟫) "انجام دادن، ساختن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -81,9 +81,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
 :::
-#### 60.2.3.2. نوع 3b: ریشه قوی درجه بالا/درجه کشیده، ریشه ضعیف درجه بالا <!-- TODO: Fallback translation -->
+#### ۶۰.۲.۳.۲ نوع 3b: ریشه قوی درجه بالا/درجه کشیده، ریشه ضعیف درجه بالا
 
-⟪स्मृ⟫ 1P "vergegenwärtigen" <!-- TODO: Fallback translation -->
+⟪स्मृ⟫ ۱P «تجسم دادن»
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -94,7 +94,7 @@ status: stable
 :::
 ### 60.2.4. Typ 4: ریشه‌های ختم شده به -ā / -ai
 
-⟪दा⟫ 3U "geben" <!-- TODO: Fallback translation -->
+⟪दा⟫ ۳U «دادن»
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -103,13 +103,13 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪ददथुर्⟫ | ⟪ददाथे⟫ \* |
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
-\* identisch mit den entsprechenden Formen des Indikativ Präsens! <!-- TODO: Fallback translation -->
+\* همانند شکل‌های مربوطه از افعال خبری زمان حال است!
 :::
-### 60.2.5. نوع 5: همخوان-ا-همخوان
+### 60.2.5. نوع ۵: همخوان-ا-همخوان
 
-#### 60.2.5.1. نوع 5a: صامت-a-صامت، ستاک ضعیف درجه کوتاه <!-- TODO: Fallback translation -->
+#### 60.2.5.1. نوع ۵a: صامت-a-صامت، بن ضعیف درجه کوتاه
 
-⟪गम्⟫ 1U "gehen" <!-- TODO: Fallback translation -->
+⟪गम्⟫ 1U "رفتن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -118,9 +118,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
 :::
-#### 60.2.5.2. نوع 5b: همخوان-ا-همخوان، همخوان آغازین غیر حلقی، غیر آسپیره، غیر h، ریشه ضعیف بدون تکرار، با -e- <!-- TODO: Fallback translation -->
+#### 60.2.5.2. نوع ۵b: همخوان-ا-همخوان، همخوان آغازین غیر حلقی، غیر آسپیره، غیر h، بن ضعیف بدون تکرار، با -e-
 
-⟪पच्⟫ 1U "garen" <!-- TODO: Fallback translation -->
+⟪पच्⟫ 1U "گازیدن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -129,9 +129,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
 :::
-#### 60.2.5.3. نوع 5c: همخوان-ا-همخوان، پایه ضعیف درجه بالا <!-- TODO: Fallback translation -->
+#### 60.2.5.3. نوع 5c: همخوان-ا-همخوان، پایه ضعیف درجه بالا
 
-⟪क्रम्⟫ 1U "schreiten" <!-- TODO: Fallback translation -->
+⟪क्रम्⟫ 1U "قدم گذاشتن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -142,7 +142,7 @@ status: stable
 :::
 ## 60.3. تثنیه ماضی التزامی (⟪اَنُوپْرَیوگَلِتْ⟫)
 
-⟪गण्⟫ 10P "zählen" <!-- TODO: Fallback translation -->
+⟪गण्⟫ 10P "شماردن"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -151,7 +151,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
 :::
-⟪आस्⟫ 2Ā "sitzen" <!-- TODO: Fallback translation -->
+⟪आस्⟫ 2Ā "نشستن"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -163,275 +163,275 @@ status: stable
 ## 60.4. صفت مفعولی ⟪परस्मैपद⟫ ماضی مکرر (⟪द्वित्वलिट्⟫)
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**آموزش:**
 
-**schwacher Perfektstamm + vāṃs** <!-- TODO: Fallback translation -->
+**بن کامل ضعیف + vāṃs**
 
-**Besteht der schwache Perfektstamm nur aus einer Silbe, dann wird der Bindevokal -i- angefügt. Bei einigen Perfekta ist der Bindevokal wahlweise.** <!-- TODO: Fallback translation -->
+**اگر بن کامل ضعیف تنها از یک هجا تشکیل شده باشد، سپس حرف ربط -i- به آن افزوده می‌شود. در برخی از کامل‌ها، حرف ربط اختیاری است.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "jemand, der gespalten hat" |
 | --- | --- |
 | ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "jemand, der gewesen ist" ; "jemand, der geworfen hat" |
 | ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "jemand, der gegeben hat" |
 | ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "jemand, der gegart hat" |
-| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" |
+| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**Deklination:** <!-- TODO: Fallback translation -->
+**صرف:**
 
-*   **starker Stamm: -vāṃs** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm:** <!-- TODO: Fallback translation -->
-    *   **vor Konsonant:** **-vat** **(!)** <!-- TODO: Fallback translation -->
-    *   **vor Vokal: -uṣ** <!-- TODO: Fallback translation -->
+*   **بن قوی: -vāṃs**
+*   **بن ضعیف:**
+    *   **پیش از همخوان: -vat** **(!)**
+    *   **پیش از واکه: -uṣ**
 
-**Vor uṣ entfällt der Bindevokal -i-.** <!-- TODO: Fallback translation -->
+**در پیش uṣ، حرف ربط -i- حذف می‌شود.**
 
-**Feminin:** <!-- TODO: Fallback translation -->
+**مؤنث:**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)** <!-- TODO: Fallback translation -->
+**بن ضعیف پیش از واکه + -ī (مانند ⟪देवी⟫ صرف می‌شود)**
 
-Beispiel: ⟪विदुषी⟫ "eine Wissende" <!-- TODO: Fallback translation -->
+نمونه: ⟪विदुषी⟫ "دانای زن"
 :::
-Paradigmen siehe Kielhorn, Grammatik § 124: <!-- TODO: Fallback translation -->
+جدول صرف‌ها را در کیلهورن، دستور زبان § 124 ببینید:
 
 ::: media
 ![](/images/lekt6001.webp)
-(Bildquelle: [Details](/licenses#lekt6001)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6001))
 :::
 
 ::: media
 ![](/images/lekt6002.webp)
-(Bildquelle: [Details](/licenses#lekt6002)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6002))
 :::
-## 60.5. صرف ساقه‌های با -añc (-ac)
+## 60.5. صرف بن‌های با -añc (-ac)
 
 ::: grammar-box
-**Die Stämme auf -añc/-ac sind Verbindungen von Präverbien usw. mit dem Wurzelnomen der Wurzel ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "sich bewegen".** <!-- TODO: Fallback translation -->
+**طایفه‌های منتهی به -añc/-ac، ترکیب‌هایی از پیشوندها و غیره با اسم ریشه‌ای (Wurzelnomen) بنِ ریشه ⟪अञ्च्⟫ / ⟪अच्⟫ ۱U «حرکت کردن» هستند.**
 :::
-### 60.5.1. ریشه‌های سه‌گانه ختم شده به -añc
+### ۶۰.۵.۱. بن‌های سه‌شکلی منتهی به -añc
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**ساخت:**
 
-*   **starker Stamm: -añc** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm:** <!-- TODO: Fallback translation -->
-    *   **vor Konsonant: -ac** <!-- TODO: Fallback translation -->
-    *   **vor Vokal:** <!-- TODO: Fallback translation -->
-        *   **das -a- des schwachen Stamms -ac entfällt und für einen vorangehenden Halbvokal wird der diesem entsprechende lange Vokal substituiert:**   <!-- TODO: Fallback translation -->
+*   **بن قوی: -añc**
+*   **بن ضعیف:**
+    *   **پیش از همخوان: -ac**
+    *   **پیش از واکه:**
+        *   **-a- بن ضعیف -ac حذف می‌شود و به جای نیم‌واکه پیشین، واکه بلند متناظر با آن قرار می‌گیرد:**
             ⟪प्रत्यच्⟫ » ⟪प्रतीच्⟫  
             ⟪अन्वच्⟫ » ⟪अनूच्⟫
-        *   **Geht dem -ac kein Halbvokal voraus, wird -ac durch -īc ersetzt:**   <!-- TODO: Fallback translation -->
+        *   **اگر نیم‌واکه‌ای پیش از -ac نباشد، -ac با -īc جایگزین می‌شود:**
             ⟪उदच्⟫ » ⟪उदीच्⟫
         *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
 
-**Femininum:** <!-- TODO: Fallback translation -->
+**مؤنث:**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)** <!-- TODO: Fallback translation -->
+**بن ضعیف قبل از واکه + -ī (مانند ⟪देवी⟫ صرف می‌شود)**
 
-Beispiel: ⟪प्रतीची⟫ <!-- TODO: Fallback translation -->
+مثال: ⟪प्रतीची⟫
 :::
-####  الگوها را در کیل‌هورن، گرامر § ۱۲۸ ببینید: <!-- TODO: Fallback translation -->
+####  الگوها را در کیل‌هورن، گرامر § ۱۲۸ ببینید:
 
 ::: media
 ![](/images/lekt6003.webp)
-(Bildquelle: [Details](/licenses#lekt6003)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6003))
 :::
 
 ::: media
 ![](/images/lekt6004.webp)
-(Bildquelle: [Details](/licenses#lekt6004)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6004))
 :::
-Hierher gehören: <!-- TODO: Fallback translation -->
+این موارد شامل می‌شوند:
 
-*   ⟪प्रत्यञ्च्⟫ 3 "rückwärts, westlich" <!-- TODO: Fallback translation -->
+*   ⟪प्रत्यञ्च्⟫ 3 «به عقب، غربی»
 
-*   ⟪अन्वञ्च्⟫ 3 "folgend" <!-- TODO: Fallback translation -->
+*   ⟪अन्वञ्च्⟫ 3 «پیرو»
 
-*   ⟪उदञ्च्⟫ 3 "nach oben gerichtet, nördlich" <!-- TODO: Fallback translation -->
+*   ⟪उदञ्च्⟫ 3 «رو به بالا، شمالی»
 
-*   ⟪तिर्यञ्च्⟫ 3 "wagrecht gehend (von Tieren" <!-- TODO: Fallback translation -->
+*   ⟪तिर्यञ्च्⟫ 3 «افقی حرکت کردن (از حیوانات»
 
-*   ⟪सम्यञ्च्⟫ 3 "richtig" <!-- TODO: Fallback translation -->
+*   ⟪सम्यञ्च्⟫ 3 "درست"
 
-*   ⟪न्यञ्च्⟫ 3 "niedrig" <!-- TODO: Fallback translation -->
+*   ⟪न्यञ्च्⟫ 3 "پایین"
 
-*   ⟪विष्वञ्च्⟫ 3 "nach allen Seiten gehend" <!-- TODO: Fallback translation -->
+*   ⟪विष्वञ्च्⟫ 3 "رو به همه طرف"
 
 ### 60.5.2. ریشه‌های دوگانه بر -añc
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**آموزش:**
 
-*   **starker Stamm: -añc** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm vor Konsonant bzw. Vokal: -ac** <!-- TODO: Fallback translation -->
+*   **بن قوی: -añc**
+*   **بن ضعیف پیش از همخوان یا مصوت: -ac**
 :::
-Hierher gehören: <!-- TODO: Fallback translation -->
+موارد زیر در این دسته قرار می‌گیرند:
 
-*   ⟪प्राञ्च्⟫ 3 "vorwärts gerichtet, östlich" <!-- TODO: Fallback translation -->
-*   ⟪अवाञ्च्⟫ 3 "abwärts gerichtet" <!-- TODO: Fallback translation -->
+*   ⟪प्राञ्च्⟫ ۳ «رو به جلو، شرقی»
+*   ⟪अवाञ्च्⟫ ۳ «رو به پایین»
 
-Paradigma ⟪प्राञ्च्⟫ siehe oben! <!-- TODO: Fallback translation -->
+الگوی ⟪प्राञ्च्⟫ را در بالا ببینید!
 
-Die Haupthimmelsrichtungen <!-- TODO: Fallback translation -->
+جهت‌های اصلی آسمان
 
-|   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
+|   | ⟪उदञ्च्⟫ 3:br"به بالا جهت‌یافته,:brشمالی" |   |
 | :---: | :---: | :---: |
-| ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
-|   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
+| ⟪प्रत्यञ्च्⟫ 3:br"به عقب,:brغربی" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"به جلو جهت‌یافته,:brجنوبی" |
+|   | ⟪दक्षिण⟫ 3:brراست,:brجنوبی |   |
 
-(Bildquelle: [Details](/licenses#lekt6005)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6005))
 
 ## 60.6. آرزویی (⟪सन्⟫)
 
 ::: grammar-box
-**Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (⟪सन्⟫) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen außerhalb des Präsensstamms sind aber sehr selten.** <!-- TODO: Fallback translation -->
+**از هر ریشه و همچنین از فعل سببی، می‌توان فرم آرزویی (⟪सन्⟫) ساخت. این فرم آرزویی را می‌توان در همه زمان‌ها و حالت‌های P، Ā و مجهول صرف کرد. با این حال، فرم‌های آرزویی خارج از بن فعل حال بسیار نادر هستند.**
 
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**معنا:**
 
-*   **eine Person oder Sache wünscht zu tun oder zu erleiden, was durch die Wurzel oder das Kausativum ausgedrückt wird** <!-- TODO: Fallback translation -->
-*   **seltener: jemand oder etwas ist im Begriffe, zu tun, was durch die Wurzel oder das Kausativum ausgedrückt wird** <!-- TODO: Fallback translation -->
+*   **یک شخص یا چیز آرزو دارد کاری را انجام دهد یا تجربه کند که توسط ریشه یا فعل سببی بیان می‌شود**
+*   **به ندرت: کسی یا چیزی در آستانه انجام کاری است که توسط ریشه یا فعل سببی بیان می‌شود**
 :::
-####  مثال‌ها: <!-- TODO: Fallback translation -->
+####  مثال‌ها:
 
-| ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "er wünscht zu tun" |
+| ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "او می‌خواهد انجام دهد" |
 | --- | --- |
-| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "er ist im Begriffe, zu fallen" |
-| ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" |
-| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
+| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "او در آستانه‌ی افتادن است" |
+| ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "او می‌خواهد بدزدد" |
+| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "او می‌خواهد تعلیم دهد (به شناخت بیدار کند)" |
 
 ### 60.6.1. ساخت ساقه آرزویی
 
 ::: grammar-box
-**Wurzeln der Präsensklassen 1 - 9:** <!-- TODO: Fallback translation -->
+**ریشه‌های کلاس‌های فعلی ۱ - ۹:**
 
-**reduplizierte Wurzel + sa** <!-- TODO: Fallback translation -->
+**ریشه افزوده‌شده + sa**
 
-**oder:** <!-- TODO: Fallback translation -->
+**یا:**
 
-**reduplizierte Wurzel + i + ṣa** <!-- TODO: Fallback translation -->
+**ریشه افزوده‌شده + i + ṣa**
 
-Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 443 - 445. <!-- TODO: Fallback translation -->
+قواعد استفاده از واکه اتصال‌دهنده -i- را در کیلهورن، دستور زبان § 443 - 445 ببینید.
 
-**Wurzeln der 10. Präsensklasse und Kausative:** <!-- TODO: Fallback translation -->
+**ریشه‌های کلاس فعلی دهم و سببی:**
 
-**reduplizierter Präsensstamm + i + ṣa** <!-- TODO: Fallback translation -->
+**بن مضارع با افزوده شدن تکرار + i + ṣa**
 :::
 ::: grammar-box
-**Gestalt der Wurzel:** <!-- TODO: Fallback translation -->
+**شکل ریشه:**
 
-1.  Die Wurzel ist meist tiefstufig: ⟪जीव्⟫ » ⟪जिजीविष⟫-   <!-- TODO: Fallback translation -->
+1.  ریشه معمولاً درجه پایین دارد: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
-    1.  auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:   <!-- TODO: Fallback translation -->
-        ⟪जि⟫ » ⟪जि⟫***:sig[⟪गी⟫]***⟪ष⟫- "zu siegen wünschen"  
-        ⟪द्रु⟫ » ⟪दु⟫***:sig[⟪द्रू⟫]***⟪ष⟫- "zu laufen wünschen"   <!-- TODO: Fallback translation -->
+    1.  -i و -u پایانی، در صورت عدم پیوستن حرف ربط، به ترتیب با -ī و -ū جایگزین می‌شوند:
+⟪जि⟫ » ⟪जि⟫***:sig[⟪गी⟫]***⟪ष⟫- "آرزوی پیروزی داشتن"  
+⟪द्रु⟫ » ⟪दु⟫***:sig[⟪द्रू⟫]***⟪ष⟫- "آرزوی دویدن داشتن"
 
-    2.  auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:   <!-- TODO: Fallback translation -->
-        ⟪कृ⟫ » ⟪चि⟫***:sig[⟪कीर्ष⟫]***\- "zu tun wünschen"  
-        ⟪मृ⟫ » ⟪मु⟫***:sig[⟪मूर्ष⟫]***\- "im Begriff sein, zu sterben"  
-        ⟪पॄ⟫ » ⟪पु⟫***:sig[⟪पूर्ष⟫]***\- "zu füllen wünschen"   <!-- TODO: Fallback translation -->
+    2.  -ṛ و -ṝ پایانی، در صورت عدم پیوستن حرف ربط، با -īr جایگزین می‌شوند و پس از حروف لبی (labials) با -ūr جایگزین می‌شوند:
+⟪कृ⟫ » ⟪चि⟫***:sig[⟪कीर्ष⟫]***\- "آرزوی انجام دادن داشتن"  
+⟪मृ⟫ » ⟪मु⟫***:sig[⟪मूर्ष⟫]***\- "در آستانه مردن بودن"  
+⟪पॄ⟫ » ⟪पु⟫***:sig[⟪पूर्ष⟫]***\- "آرزوی پر کردن داشتن"
 
-    3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ und einige andere Wurzeln auf -ā, -e, -o haben Tiefstufe Ø:   <!-- TODO: Fallback translation -->
-        ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
-        ⟪धा⟫ » ⟪धित्स⟫-  
-        ⟪मा⟫ » ⟪मित्स⟫-   <!-- TODO: Fallback translation -->
+    3.  ⟪दा⟫، ⟪धा⟫، ⟪मा⟫ و چندین ریشه دیگر با -ā، -e، -o دارای مرحله عمیق (Tiefstufe) Ø هستند:
+⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
+⟪धा⟫ » ⟪धित्स⟫-  
+⟪मा⟫ » ⟪मित्स⟫-
 
-2.  Hochstufige Wurzel haben im Desiderativ:  <!-- TODO: Fallback translation -->
-    1.  die meisten Wurzeln auf -ā (-e, -ai usw.):   <!-- TODO: Fallback translation -->
-        ⟪गै⟫ » ⟪जिगास⟫- "zu singen wünschen"  
-        ⟪पा⟫ » ⟪पिपास⟫- "zu trinken wünschen, dürsten"   <!-- TODO: Fallback translation -->
+2.  ریشه‌های دارای مرحله بلند (Hochstufig) در مشتق آرزویی (Desiderativ):
+    1.  بیشتر ریشه‌های با -ā (-e، -ai و غیره):
+⟪गै⟫ » ⟪जिगास⟫- "آرزوی خواندن داشتن"  
+⟪पा⟫ » ⟪पिपास⟫- "آرزوی نوشیدن داشتن، تشنگی"
 
-    2.  die meisten Wurzeln der Form (Konsonant -) a / ā - Konsonant:   <!-- TODO: Fallback translation -->
-        ⟪दह्⟫ » ⟪दिधक्ष⟫- "zu verbrennen wünschen"  
-        ⟪खाद्⟫ » ⟪चिखादिष⟫- "zu kauen wünschen"   <!-- TODO: Fallback translation -->
+    2.  بیشتر ریشه‌های قالب (صامت -) a / ā - صامت:
+⟪दह्⟫ » ⟪दिधक्ष⟫- «خواستن سوزاندن»  
+⟪खाद्⟫ » ⟪चिखादिष⟫- «خواستن جویدن»
 
-    3.  bei Antreten des Bindevokals -i-:  <!-- TODO: Fallback translation -->
-        1.  obligatorisch: Wurzeln der Form i/u - Konsonant sowie (Konsonant -) ṛ/ḷ - Konsonant:   <!-- TODO: Fallback translation -->
-            ⟪इष्⟫ » ⟪एषिषिष⟫- "zu wünschen verlangen"  
-            ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "passend zu sein wünschen"  
-            ⟪स्मि⟫ » ⟪सि⟫***:sig[⟪स्म⟫]***⟪यिष⟫- "zu lächeln wünschen"   <!-- TODO: Fallback translation -->
+    3.  هنگام افزودن واکه پیوندی -i-:
+        1.  اجباری: ریشه‌های قالب i/u - صامت و همچنین (صامت -) ṛ/ḷ - صامت:
+⟪इष्⟫ » ⟪एषिषिष⟫- «خواستن خواستن»  
+⟪कॢप्⟫ » ⟪चिकल्पिष⟫- «خواستن مناسب بودن»  
+⟪स्मि⟫ » ⟪सि⟫***sig[⟪स्म⟫]***⟪यिष⟫- «خواستن لبخند زدن»
 
-        2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant außer -v\_   <!-- TODO: Fallback translation -->
-            ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen" <!-- TODO: Fallback translation -->
+        2.  اختیاری: ریشه‌های قالب صامت - (صامت -) i/u - صامت به جز -v\_
+⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- «خواستن درخشیدن»
 :::
 ::: grammar-box
-**Zur Reduplikation:** <!-- TODO: Fallback translation -->
+**دربارهٔ تکرار (Reduplikation):**
 
-1.  Konsonantisch anlautende Wurzeln: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Wurzeln nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:   <!-- TODO: Fallback translation -->
-    ⟪पा⟫ » ⟪पिपास⟫-  
-    ⟪त्यज्⟫ » ⟪तित्यज⟫-  
-    ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
-    Die Zerebralisierung nach i/u von auslautendem -s der Wurzel unterbleibt, wenn das s des Desiderativsuffixes zerebralisiert wird:  
-    ⟪स्मि⟫ » ⟪सिस्मयिष⟫-   <!-- TODO: Fallback translation -->
+1.  ریشه‌های همگوشا (Konsonantisch anlautende): تکرار بر روی ریشه‌هایی که طبق قواعد فوق تغییر یافته‌اند، پس از قاعدهٔ معمول انجام می‌شود. به جای a به عنوان واکه تکرار، i ظاهر می‌شود:
+⟪पा⟫ » ⟪पिपास⟫-  
+⟪त्यज्⟫ » ⟪तित्यज⟫-  
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
+اگر sِ پسوند تمنا (Desiderativsuffix) زبانی‌شده (zerebralisiert) شود،cerebralschaltung پس از i/u از s پایانی ریشه رخ نمی‌دهد:  
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-
 
-2.  Vokalisch anlautende Wurzeln werden nach den entsprechenden Regeln für den reduplizierten Aorist ([Lektion 56](lektion56.md)) redupliziert:   <!-- TODO: Fallback translation -->
-    ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
-    ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-    ⟪ऋ⟫ » ⟪अरिरिष⟫-   <!-- TODO: Fallback translation -->
+2.  ریشه‌های مصوت‌دار بر اساس قواعد مربوط به آئورست تقلیدی ([Lektion 56](lektion56.md)) تقلید می‌شوند:
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
+⟪ऋ⟫ » ⟪अरिरिष⟫-
 
-3.  Die besondere Desiderativbildung bestimmter Wurzeln siehe bei Kielhorn, Grammatik § 451. <!-- TODO: Fallback translation -->
+3.  برای شکل‌گیری خاص دِزیدِراتیو (آرزومند) برخی ریشه‌ها، به کیلهورن، دستور زبان § 451 مراجعه کنید.
 :::
 ::: grammar-box
-**Zu einigen Wurzeln werden Desiderative ohne desiderative Bedeutung gebildet. Zu diesen Desiderativen können Desiderative mit desiderativer Bedeutung gebildet werden.** <!-- TODO: Fallback translation -->
+**برای برخی ریشه‌ها، دِزیدِراتیو بدون معنای آرزومند شکل می‌گیرد. برای این دِزیدراتیوها، می‌توان دِزیدراتیو با معنای آرزومند شکل داد.**
 :::
-Liste bei Kielhorn, Grammatik § 452: <!-- TODO: Fallback translation -->
+فهرست در کیلهورن، دستور زبان § 452:
 
 ::: media
 ![](/images/lekt6006.webp)
-(Bildquelle: [Details](/licenses#lekt6006)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6006))
 :::
-### 60.6.2. صرف دِزیدِراتیو (⟪سَن⟫)
+### ۶۰.۶.۲. صرف فعل تمنا (⟪सन्⟫)
 
 ::: grammar-box
-**Das Desiderativ ist - mit wenigen Ausnahmen - P, Ā bzw. U, je nachdem, ob die zugrundeliegende Wurzel (bzw. der zugrundeligende Verbalstamm) P, Ā oder U ist.** <!-- TODO: Fallback translation -->
+**دِزیدِراتیو - با استثناهای اندک - P، Ā یا U است، بسته به اینکه ریشه پایه (یا بن فعلی مربوطه) P، Ā یا U باشد.**
 
-**Präsensstamm: Konjugation wie ein thematischer Stamm:** <!-- TODO: Fallback translation -->
+**بنیان زمان حال: صرف مانند یک بن موضوعی:**
 
-⟪यज्⟫ 1U: <!-- TODO: Fallback translation -->
+⟪यज्⟫ 1U:
 
 :::
 ::: indent
-P: ⟪यियक्षति⟫ "er wünscht, für jemand anderen zu opfern"
-Ā: ⟪यियक्षते⟫ "er wünscht, für sich selbst (als Opferherr) zu opfern"
-Passiv: ⟪यियक्ष्यते⟫ "es wird zu opfern gewünscht" <!-- TODO: Fallback translation -->
+P: ⟪यियक्षति⟫ «او آرزو می‌کند که برای دیگری قربانی کند»
+Ā: ⟪यियक्षते⟫ «او آرزو می‌کند که برای خود (به عنوان صاحب قربانی) قربانی کند»
+مجهول: ⟪यियक्ष्यते⟫ «آرزوی قربانی شدن وجود دارد»
 :::
-**Perfekt: periphrastisch:** <!-- TODO: Fallback translation -->
+**زمان کامل: تحلیلی:**
 
 ::: indent
-⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "er wünschte zu erlangen" <!-- TODO: Fallback translation -->
+⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ «او آرزو کرد که به دست آورد»
 :::
-**Aorist: iṣ-Aorist:** <!-- TODO: Fallback translation -->
+**Aorist: iṣ-Aorist:**
 
 ::: indent
-⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am) <!-- TODO: Fallback translation -->
+⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Futur: ⟪सेट्⟫** <!-- TODO: Fallback translation -->
+**آینده: ⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
 :::
-Zur Bildung von Nomina agentis auf -u aus dem Desiderativstamm siehe [Lektion 54](lektion54.md). <!-- TODO: Fallback translation -->
+برای تشکیل اسم‌های فاعلی با پسوند -u از بن خواسته، به [درس 54](lektion54.md) مراجعه کنید.
 
 ## 60.7. تمرین
 
-A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmäßigen Desiderativbildungen zu bisher gelernten Verben: <!-- TODO: Fallback translation -->
+الف) در کیلهورن، دستور زبان § 451، ساخت‌های ناصحیح تمّنی را برای افعالی که تاکنون آموخته‌اید، بیاموزید:
 
 ::: media
 ![](/images/lekt6007.webp)
-(Bildquelle: [Details](/licenses#lekt6007)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6007))
 :::
 
 ::: media
 ![](/images/lekt6008.webp)
-(Bildquelle: [Details](/licenses#lekt6008)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6008))
 :::
 
 ::: media
 ![](/images/lekt6009.webp)
-(Bildquelle: [Details](/licenses#lekt6009)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt6009))
 :::
-B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen: <!-- TODO: Fallback translation -->
+ب) اشکال زیر را بدون استفاده از ابزارهای کمکی تعیین و ترجمه کنید:
 
 1.  ⟪ददुषोः⟫
 

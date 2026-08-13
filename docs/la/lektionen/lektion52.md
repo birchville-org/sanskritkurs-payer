@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 52
+# Lectio 52
 
-## 52.1. Neutrum thematum in -i et -u
+## 52.1. Neutrum thematum in -i et -u <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Ante terminos vocalibus incipientes, -n- intercalatur; hoc est influentia stemmatum in -n (-in).**
@@ -113,15 +113,19 @@ Figura Wayang, Iava, Indonesia
 
 *   **Numeris**
     Exemplaria:  
-    ⟪एकशस्⟫ "singulatim, unusquisque"  
-    ⟪द्विशस्⟫ "bini, bini"  
-    ⟪शतशस्⟫ "centenatim, centeni"
+::: indent
+⟪एकशस्⟫ "singulatim, unusquisque"
+⟪द्विशस्⟫ "bini, bini"
+⟪शतशस्⟫ "centenatim, centeni"
+:::
 
 *   **aliis verbis**
     Exemplaria:  
-    ⟪भागशस्⟫ "partim partim"  
-    ⟪सर्वशस्⟫ "ubique, omnino omnes"  
-    ⟪नित्यशस्⟫ "constanter"
+::: indent
+⟪भागशस्⟫ "partim partim"
+⟪सर्वशस्⟫ "ubique, omnino omnes"
+⟪नित्यशस्⟫ "constanter"
+:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -131,7 +135,7 @@ Fila ante templum, Trivandrum = Thiruvananthapuram = തിരുവനന്ത
 :::
 ## 52.4. Composita verbalia, quae exprimunt rem fieri vel effici id esse, quod prius non erat (⟪अभुततद्भावः⟫)
 
-### 52.4.1. cvi-Bildungen
+### 52.4.1. cvi-Bildungen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Ad Radices**
@@ -148,14 +152,18 @@ Finis nominis sic tractatur:
 
 *   **finale -a et -ā declinabilium verborum per -ī substituuntur**  
     Exemplaria:  
-    ⟪कृष्णीभवति⟫ "aliquid, quod nigrum non est, fit nigrum"  
-    ⟪कृष्णीकरोति⟫ "aliquid, quod nigrum non est, facit nigrum"  
-    ⟪गङ्गीभवति⟫ "fit Ganges"
+::: indent
+⟪कृष्णीभवति⟫ "aliquid, quod nigrum non est, fit nigrum"
+⟪कृष्णीकरोति⟫ "aliquid, quod nigrum non est, facit nigrum"
+⟪गङ्गीभवति⟫ "fit Ganges"
+:::
 
 *   **finale -i et -u per vocalem longam correspondentem substituuntur**  
     Exemplaria:  
-    ⟪शुचीभवति⟫ "fit purus"  
-    ⟪गुरूभवामि⟫ "magister fio"
+::: indent
+⟪शुचीभवति⟫ "fit purus"
+⟪गुरूभवामि⟫ "magister fio"
+:::
 
 *   **finale -ṛ per --rī substituuntur**  
     Exempli gratia: ⟪पित्रीभवति⟫ "qui non pater (⟪पितृ⟫) est, fit pater = vir primum filium accipit"
@@ -196,7 +204,7 @@ Exempla:
 ⟪भस्मसात्करोति⟫ "transformat omnino in cineres (⟪भस्मन्⟫ n. "cinis"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
 
 *   **a quo pendet vel**
 *   **in cuius potestatem transit**
@@ -225,9 +233,11 @@ Exemplum:
     exempli gratia ⟪पुनः⟫ ⟪पुनः⟫ "semper iterum"
 *   **Distributio**
     exempla:  
-    ⟪पृथक्पृथक्⟫ "seorsim, singillatim"  
-    ⟪यद्यद्⟩ ... ⟪तत्तद्⟫ "quodcumque ... hoc omne"  
-    ⟪युगे⟫ ⟪युगे⟫ "in quovis aetatis mundi individuo"
+::: indent
+⟪पृथक्पृथक्⟫ "seorsim, singillatim"
+⟪यद्यद्⟩ ... ⟪तत्तद्⟫ "quodcumque ... hoc omne"
+⟪युगे⟫ ⟪युगे⟫ "in quovis aetatis mundi individuo"
+:::
 
 **Ex hisce coniunctionibus interdum compositum formari potest**
 
@@ -244,7 +254,7 @@ De nominibus compositis, quae vocantur ⟪आम्रेडित⟫, in quibus
 
 Quae hic non tractantur, vide apud Kielhorn, Grammatik §201seq.
 
-### 52.6.1. Kardinalzahlen
+### 52.6.1. Kardinalzahlen <!-- TODO: Fallback translation -->
 
 #### 52.6.1.1. Adiectiva numerica (pro uno usque ad decem novem)
 
@@ -283,7 +293,7 @@ Numeralia adverbialia usque ad 19 vide, exempli gratia, apud Kielhorn, Grammatic
 Exempla:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f.
 :::
 
@@ -295,7 +305,7 @@ Exempla:
 Exempla:
 
 ::: indent
-centum ⟪शत⟫ n.:br
+centum ⟪शत⟫ n.
 mille ⟪सहस्र⟫ n.
 :::
 Singula substantia numerica vide, e.g., apud Kielhorn, Grammatica §201.
@@ -318,7 +328,7 @@ Singula substantia numerica vide, e.g., apud Kielhorn, Grammatica §201.
 
 Vide, e.g., apud Kielhorn, Grammatica §201f.
 
-### 52.6.3. Zahladverbien
+### 52.6.3. Zahladverbien <!-- TODO: Fallback translation -->
 
 a) "-mal":
 
@@ -358,7 +368,7 @@ Ceteras compositiones in lexiconibus vel grammaticis petito.
 ::: grammar-box
 **⟪बहुव्रीहि⟫ huiusmodi regulariter formantur.**
 :::
-Exemplum:
+Exemplum: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪चतुर्मुख⟫ m. "qui quattuor facies habet" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (nomen Brahmās)
@@ -367,7 +377,7 @@ Exemplum:
 ![](/images/lekt5205.webp)
 Fig.: ⟪चतुर्मुखः⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5205))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪तत्पुरुष⟫ cum numero cardinali in membro priori non libere formari possunt:**
@@ -393,7 +403,9 @@ Septem stellae = septem clarissimae stellae Ursae maioris (Ursa maior)
 2.  compositum sic formatum in significato utitur, quod alio suffixo Taddhita significatur (in hac specie transitus ad Bahuvrīhi fluens est):
     Exemplis:  
     dvi + go » :sig[⟪द्विगु⟫] : non: "duae vaccae", sed: "**pro duabus vaccis empta**"  
-    ⟪द्विवर्ष⟫ non: "anni duo", sed: "**duos annos natus**"
+::: indent
+⟪द्विवर्ष⟫ non: "anni duo", sed: "**duos annos natus**"
+:::
 
 3.  compositum sic formatum membrum prius alterius compositi constituit
     Exemplis:  
@@ -496,7 +508,7 @@ Fig.: ⟪प्रधानः⟫
 :::
 ⟪लौल्य⟫ n.: cupiditas, libidinis
 
-⟪वर्ग⟫ m.: pars, turma, grex
+⟪वर्ग⟫ m.: pars, turma, grex <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪त्रिवर्ग⟫ m.: tris (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; aut: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; aut: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
@@ -597,7 +609,7 @@ Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Bildquelle: [Details](/la/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: bananum (_Musa_ sp.)
+⟪कदली⟫ f.: bananum (_Musa_ sp.) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -621,7 +633,7 @@ Fig.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: caelum Indrae
+⟪त्रिपिष्टप⟫ n.: caelum Indrae <!-- TODO: Fallback translation -->
 
 ⟪मार⟫ m.: malum personificatum, seductio vel manipulatio personificata, diabolus
 
@@ -682,7 +694,7 @@ Explicatio: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 ::: indent
 Explanationes:
 
-⟪इतरौ⟫ Nom.Akk.Dual.m ad ⟪इतर⟫ 3 "alter"
+⟪इतरौ⟫ Nom.Akk.Dual.m ad ⟪इतर⟫ 3 "alter" <!-- TODO: Fallback translation -->
 
 ⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ est Dualdvandva)
 :::
@@ -788,7 +800,7 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 
 **lekt5209:** Combustio silvae, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Imago fontis: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Accessus die 2009-01-15. --  [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
 
-**lekt5205:** [Imago fontis: Wikipedia. Dominium publicum]
+**lekt5205:** [Imago fontis: Wikipedia. Dominium publicum] <!-- TODO: Fallback translation -->
 
 **lekt5206:** Septemtriones = septem clarissimae stellae Ursae Maioris (Ursa maior) [Imago fontis: Wikipedia, Licentia Publica GNU]
 

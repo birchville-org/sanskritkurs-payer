@@ -15,17 +15,17 @@ last_reconstructed: 2026-05-15
 Kuv.: ⟪रावणः⟫
 (Kuvan lähde: [Yksityiskohdat](/licenses#uebung098))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## A) Tekstianalyysi
+## A) Tekstianalyysi <!-- TODO: Fallback translation -->
 
 Käännä seuraava teksti ja määritä kaikki siinä esiintyvät verbin muodot.
 
-Käännös on tahallisesti jätetty hieman kömpelöksi, jotta se toimisi käännösavusteena.
+Käännös on tahallisesti jätetty hieman kömpelöksi, jotta se toimisi käännösavusteena. <!-- TODO: Fallback translation -->
 
-_Käännösapu:_ Säe 6: ⟪दिदृक्षते⟫ \= Desideratiivi verbille ⟪दृश्⟫
+_Käännösapu:_ Säe 6: ⟪दिदृक्षते⟫ \= Desideratiivi verbille ⟪दृश्⟫ <!-- TODO: Fallback translation -->
 
-Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen sivu.
+Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen sivu. <!-- TODO: Fallback translation -->
 
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫
@@ -36,7 +36,7 @@ Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen siv
 > ⟪ऐक्षिष्ट⟫ - ⟪ईक्ष्⟫ Aor. 5 akt.
 > ⟪प्रातिष्ठिपत्⟫ - ⟪प्र⟫-⟪स्था⟫ epäsäännöllinen (katso Pāṇini 7.4.5) Aor. 3
 >
-> 1 Kumbhkarṇa, Rāvaṇan veli, maksee teoistaan ikuisessa unessa.
+> 1 Kumbhkarṇa, Rāvaṇan veli, maksee teoistaan ikuisessa unessa. <!-- TODO: Fallback translation -->
 
 ⟪ते⟫ ⟪ऽभ्यगुर्भवनं⟫ ⟪तस्य⟫ ⟪सुप्तं⟫ ⟪चैक्षिषताथ⟫ ⟪तम्⟫ ⟪।⟫
 ⟪व्याहार्षुस्तुमुलाञ्छब्दान्दण्डैश्चावधिषुर्द्रुतम्⟫ ⟪॥२॥⟫
@@ -46,7 +46,7 @@ Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen siv
 > ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (sanalle ⟪इ⟫) Aor. 1 p.l.
 > ⟪अक्षिषत⟫ - ⟪ईक्ष्⟫ Aor. 5 akt. (3.pl.)
 > ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ lausua, sanoa Aor. 1 p.l.
-> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (sanalle ⟪हन्⟫) Aor. 5
+> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (sanalle ⟪हन्⟫) Aor. 5 <!-- TODO: Fallback translation -->
 
 ⟪केशानलुञ्चिषुस्तस्य⟫ ⟪गजान्गात्रेष्वभिभ्रमन्⟫ ⟪।⟫
 ⟪शीतैरभ्यषिचंस्तोयैरलातैश्चाप्यदम्भिषुः⟫ ⟪॥३॥⟫
@@ -66,7 +66,7 @@ Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen siv
 > ⟪अकर्तिषुर्⟫ - ⟪कृत्⟫ Aor. 5
 > ⟪अदाङ्क्षुर्⟫ - ⟪दंश्⟫ Aor. 1
 > ⟪अतौत्सुर्⟫ - ⟪तुद्⟫ Aor. 1
-> ⟪अवीवदन्⟫ - ⟪वद्⟫ Kaus. Aor. 1
+> ⟪अवीवदन्⟫ - ⟪वद्⟫ Kaus. Aor. 1 <!-- TODO: Fallback translation -->
 
 ⟪स⟫ ⟪तान्नाजीगणत्सर्वानिच्छयाबुद्ध⟫ ⟪च⟫ ⟪स्वयम्⟫ ⟪।⟫
 ⟪अबूबुधत⟫ ⟪कस्मान्मामप्राक्षीच्च⟫ ⟪निशाचरान्⟫ ⟪॥५॥⟫
@@ -76,7 +76,7 @@ Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen siv
 > ⟪अजीगणत्⟫ - ⟪गण्⟫ 10 Aor. 3
 > ⟪अबुद्ध⟫ - ⟪बुध्⟫ Aor. 1 (sanan ⟪अबोधि⟫ rinnalla)
 > ⟪अबुबूधत⟫ - ⟪बुध्⟫ Kaus. Aor. 3 (2.pl.p.l.)
-> ⟪अप्राक्षीत्⟫ - ⟪प्रछ्⟫ Aor. 1
+> ⟪अप्राक्षीत्⟫ - ⟪प्रछ्⟫ Aor. 1 <!-- TODO: Fallback translation -->
 
 ⟪ते⟫ ⟪ऽभाषिषत⟫ ⟪राजा⟫ ⟪त्वां⟫ ⟪दिदृक्षुः⟫ ⟪क्षणदाचर⟫ ⟪।⟫
 ⟪सो⟫ ⟪ऽस्नासीद्व्यलिपन्मांसमप्सासीद्वारुणीमपात्⟫ ⟪॥६॥⟫
@@ -87,7 +87,7 @@ Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen siv
 > ⟪अस्नासीत्⟫ - ⟪स्ना⟫ Aor. 6
 > ⟪व्यलिपत्⟫ - ⟪वि⟫-⟪लिप्⟫ Aor. 2
 > ⟪अप्सासीत्⟫ - ⟪प्सा⟫ Aor. 6
-> ⟪अपात्⟫ - ⟪पा⟫ Aor. 1
+> ⟪अपात्⟫ - ⟪पा⟫ Aor. 1 <!-- TODO: Fallback translation -->
 
 ⟪न्यवसिष्ट⟫ ⟪ततो⟫ ⟪द्रष्टुं⟫ ⟪रावणं⟫ ⟪प्रावृतद्गृहात्⟫ ⟪।⟫
 ⟪राजायान्तं⟫ ⟪तमद्राक्षीदुदस्थाच्चेषदासनात्⟫ ⟪॥७॥⟫
@@ -98,7 +98,7 @@ Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen siv
 > ⟪न्यवसिष्ट⟫ - ⟪नि⟫-⟪वस्⟫ 2Ā Aor. 5  
 > ⟪प्रावृतत्⟫ - ⟪प्र⟫-⟪वृत्⟫ Ā Aor. 2 P (im Aor. myös P!)  
 > ⟪अद्राक्षीत्⟫ - ⟪दृश्⟫  Aor. 4  
-> ⟪उदस्थात्⟫ - ⟪उद्⟫-⟪स्था⟫ Aor. 1
+> ⟪उदस्थात्⟫ - ⟪उद्⟫-⟪स्था⟫ Aor. 1 <!-- TODO: Fallback translation -->
 
 ⟪अतुषत्पीठमासन्ने⟫ ⟪निरदिक्षच्च⟫ ⟪काञ्चनम्⟫ ⟪।⟫  
 ⟪अस्मेष्ट⟫ ⟪कुम्भकर्णो⟫ ⟪ऽल्पमुपाविक्षदथान्तिके⟫ ⟪॥८॥⟫
@@ -108,7 +108,7 @@ Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen siv
 > ⟪अतुषत्⟫ - ⟪तुष्⟫ Aor. 2  
 > ⟪निरदिक्षत्⟫ - ⟪निर्⟫-⟪दिश्⟫ Aor. 7  
 > ⟪अस्मेष्ट⟫ - ⟪स्मि⟫ Ā Aor. 4  
-> ⟪उपाविक्षत्⟫ - ⟪उप⟫-⟪विश्⟫ Aor. 7
+> ⟪उपाविक्षत्⟫ - ⟪उप⟫-⟪विश्⟫ Aor. 7 <!-- TODO: Fallback translation -->
 
 ⟪अवादीन्मां⟫ ⟪किमित्याह्वो⟫ ⟪राज्ञा⟫ ⟪च⟫ ⟪प्रत्यवादि⟫ ⟪सः⟫ ⟪।⟫  
 ⟪नाज्ञासीस्त्वं⟫ ⟪सुखी⟫ ⟪रामो⟫ ⟪यदकार्षीत्स⟫ ⟪रक्षसाम्⟫ ⟪॥९॥⟫
@@ -119,7 +119,7 @@ Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen siv
 > ⟪आह्वस्⟫ - ⟪आ⟫-⟪ह्वे⟫ Aor. 2  
 > ⟪प्रत्यवादि⟫ - ⟪प्रति⟫-⟪वद्⟫ Passivaorist  
 > ⟪अज्ञासीस्⟫ - ⟪ज्ञा⟫ Aor. 6  
-> ⟪अकार्षीत्⟫ - ⟪कृ⟫ Aor. 4
+> ⟪अकार्षीत्⟫ - ⟪कृ⟫ Aor. 4 <!-- TODO: Fallback translation -->
 
 ⟪उदतारीदुदन्वन्तं⟫ ⟪पुरं⟫ ⟪नः⟫ ⟪परितो⟫ ⟪ऽरुधत्⟫ ⟪।⟫  
 ⟪व्यद्योतिष्ट⟫ ⟪रणे⟫ ⟪शस्त्रैरनैषीद्राक्षसान्क्षयम्⟫ ⟪॥१०॥⟫
@@ -129,7 +129,7 @@ Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen siv
 > ⟪उदतारीत्⟫ - ⟪उद्⟫-⟪तॄ⟫ Aor. 5  
 > ⟪अरुधत्⟫ - ⟪रुध्⟫ Aor. 2  
 > ⟪व्यद्योतिष्ट⟫ - ⟪वि⟫-⟪द्युत्⟫  Aor. 5  
-> ⟪अनैषीत्⟫ - ⟪नी⟫ Aor. 4
+> ⟪अनैषीत्⟫ - ⟪नी⟫ Aor. 4 <!-- TODO: Fallback translation -->
 
 ⟪न⟫ ⟪प्रावोचमहं⟫ ⟪किंचित्प्रियं⟫ ⟪यावदजीविषम्⟫ ⟪।⟫  
 ⟪बन्धुस्त्वमर्चितः⟫ ⟪स्नेहान्मा⟫ ⟪द्विषो⟫ ⟪न⟫ ⟪वधीर्मम⟫ ⟪॥११॥⟫
@@ -148,7 +148,7 @@ Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen siv
 > ⟪ददर्शस्⟫ - ⟪दृश्⟫ Kaus. Injunktiv Aor. 3  
 > ⟪त्रास्थास्⟫ - ⟪त्रै⟫ Ā Injunktiv. Aor. 4  
 > ⟪अद्राक्ष्म⟫ - ⟪दृश्⟫ Aor. 4  
-> ⟪अजैषीस्⟫ - ⟪जि⟫ Aor. 4
+> ⟪अजैषीस्⟫ - ⟪जि⟫ Aor. 4 <!-- TODO: Fallback translation -->
 
 ⟪अवोचत्कुम्भकर्णस्तं⟫ ⟪वयं⟫ ⟪मन्त्रे⟫ ⟪ऽभ्यधाम⟫ ⟪यत्⟫ ⟪।⟫  
 ⟪न⟫ ⟪त्वं⟫ ⟪सर्वं⟫ ⟪तदश्रौषीः⟫ ⟪फलं⟫ ⟪तस्येदमागमत्⟫ ⟪॥१३॥⟫
@@ -213,10 +213,10 @@ Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127jälkeinen siv
 >
 > ⟪अभूत्⟫ - ⟪भू⟫ Aor. 1  
 > ⟪अकृथास्⟫ - ⟪कृ⟫ Aor. 4/1  
-> ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Kaus. Aor. 3
+> ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Kaus. Aor. 3 <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung099.webp)
 Kuv.: ⟪रामस्य⟫ ⟪रावणेन⟫ ⟪युद्धः⟫
 (Kuv lähde: [Details](/licenses#uebung099))
-:::
+::: <!-- TODO: Fallback translation -->

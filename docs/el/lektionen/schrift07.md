@@ -53,7 +53,7 @@ A) Γράψτε στα Δεβαναγkī και δώστε τη μετάφρασ
 
 śravaṇa, darśana, kāraṇa, sarga, krodhaḥ, netram, śruti, kurvate. śudraḥ śṛṇoti. śrutirvedaḥ. dhenurviśati. sādhurguruḥ. gururyajate. kavirmāghaḥ.
 
-B) Lesen, transliterieren und übersetzen Sie:
+B) Lesen, transliterieren und übersetzen Sie: <!-- TODO: Fallback translation -->
 
 ⟪श्रुतिः⟫ | ⟪गुर्वी⟫ | ⟪क्रुध्⟫ | ⟪शृणोति⟫ | ⟪कविर्भारविः⟫ | ⟪कविर्हर्षदेवः⟫ | ⟪पशुर्धेनुः⟫ | ⟪शूद्रेतरा⟫ | ⟪श्रोत्रम्⟫ ||
 

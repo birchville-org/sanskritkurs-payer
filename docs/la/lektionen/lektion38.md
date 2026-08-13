@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 38
+# Lectio 38
 
-## 38.1. Losung der Woche
+## 38.1. Losung der Woche <!-- TODO: Fallback translation -->
 
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ de urinatione recta:
 
@@ -21,7 +21,7 @@ status: stable
 :::
 Explanationes:
 
-\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. ad ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. ad ⟪अग्नि⟫ m. <!-- TODO: Fallback translation -->
 
 \-:sig[⟪गु⟫] Neutrum Nom.Akk.sg. ad ⟪गो⟫ m.f. "bos, vacca"
 
@@ -47,7 +47,7 @@ Nomina in **-an** atque nomina **-man** vel **-van** post vocalem tria habent st
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
 | **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung | <!-- TODO: Fallback translation -->
 
 **Fines sunt regulares. Nominativus singularis masculini et feminini sine -n finali formatur.**
 :::
@@ -210,9 +210,9 @@ Adiectiva in **-⟪इन्⟫** facile in composita transeunt.
 :::
 Exemplum:
 
-⟪सत्यवादिन्⟫ ad ⟪सत्यवाद⟫ m. "Verbum veritatis": "aliquis qui veritate loquendi notatur = qui semper verum loquitur"
+⟪सत्यवादिन्⟫ ad ⟪सत्यवाद⟫ m. "Verbum veritatis": "aliquis qui veritate loquendi notatur = qui semper verum loquitur" <!-- TODO: Fallback translation -->
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫
+## 38.5. Syntaktisches zu ⟪नामन्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Ut exprimatur "aliquis nomine N. N.", ita componitur:
@@ -356,7 +356,7 @@ a राज :
 
 ⟪ब्रह्मन्⟫ n.: id absolutum, Veda (secundum Thieme originem: verbum verum, unde ⟪ब्राह्मण⟫ "verba veritatis")
 
-⟪ब्रह्मन्⟫ m.: ille Deus creator Brahmā personaliter cogitatus
+⟪ब्रह्मन्⟫ m.: ille Deus creator Brahmā personaliter cogitatus <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3809.webp)
@@ -368,7 +368,7 @@ Fig.: ⟪ब्रह्मा⟫
 ::: indent
 ⟪कर्मविपाक⟫ m.: circulus factorum = bona malaque consequentia factorum in existentiis praecedentibus (ad ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: elephas (_Elephas maximus_)
+⟪हस्तिन्⟫ m.: elephas (_Elephas maximus_) <!-- TODO: Fallback translation -->
 
 ⟪मनु⟫ m.: homo, vir; nomen patris generis humani (ad ⟪मन्⟫ 4Ā)
 
@@ -451,7 +451,7 @@ A) In sequentibus sententiis formam congruentem verborum in parenthesibus posita
 Fig.: ⟪विनोदः⟫
 (Fons imaginis: [Details](/la/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : errare
+⟪अट्⟫ 1P ⟪अटति⟫ : errare <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
@@ -496,7 +496,7 @@ Inf. ⟪गणयितुम्⟫
 Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Image source: [Details](/la/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : clamare, lugere
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : clamare, lugere <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
@@ -563,13 +563,13 @@ Explanationes:
 
 :sig[⟪दश⟫] Nom.Akk.pl.m.f.n. ad ⟪दशन्⟫ "decem"
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dualis ad ⟪बाहु⟫ m. "brachium"
+⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dualis ad ⟪बाहु⟫ m. "brachium" <!-- TODO: Fallback translation -->
 
 :sig[⟪सर्वे⟫] Nom.pl.m. ad ⟪सर्व⟫ 3 "quisque, omnes"
 
 :sig[⟪जिज्ञासमान⟫] Part.Præs.A.D. desiderativum ad ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "scire velle, nosse velle"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. ad ⟪नवन्⟫ "novem"
+⟪नव⟫ Nom.Akk.pl.m.f.n. ad ⟪नवन्⟫ "novem" <!-- TODO: Fallback translation -->
 
 :sig[⟪वयम्⟫] Nom.pl. "nos"
 

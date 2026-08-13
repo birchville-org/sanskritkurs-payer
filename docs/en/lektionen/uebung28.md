@@ -1,8 +1,9 @@
 ---
 title: "Exercise 28"
 uebung_id: 28
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -43,7 +44,6 @@ A) Form the causative of the following verb forms and participial forms:
 | ⟪स्रक्ष्यति⟫ | ⟪सर्जयिष्यति⟫ |
 | ⟪लिम्पन्ति⟫ | ⟪लेपयन्ति⟫ |
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
-
 ### ⟪२⟫. With lengthened-grade root (Vṛddhi)
 
 | Form | Causative |
@@ -87,63 +87,62 @@ A) Form the causative of the following verb forms and participial forms:
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-
 ### ⟪३⟫. Causative in -⟪पय⟫ (and special forms)
 
 | Root | Causative | Meaning |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫ | to place, to set |
-| ⟪दुष्⟫ | ⟪दूषयति⟫ | to spoil |
-| ⟪पा⟫ ⟪१⟫ (to drink) | ⟪पाययति⟫ | to cause to drink |
-| ⟪पा⟫ ⟪२⟫ (to protect) | ⟪पालयति⟫ | to guard, to protect |
-| ⟪लभ्⟫ | ⟪लम्भयति⟫ | to cause to remain |
-| ⟪हन्⟫ | ⟪घातयति⟫ | to cause to be struck, to kill |
-| ⟪जि⟫ | ⟪जापयति⟫ | to cause to triumph |
-| ⟪जीव्⟫ | ⟪जीवयति⟫ | to enliven |
-B) Translate the following sentences and form sentences using the simple verbs that express what happens when that which is expressed by the causative is brought about.
+| ⟪स्था⟫ | ⟪स्थापयति⟫ | to place, to establish |
+| ⟪दुष्⟫ | ⟪दूषयति⟫ | to spoil, to ruin |
+| ⟪पा १⟫ (to drink) | ⟪पाययति⟫ | to cause to drink, to give something to drink |
+| ⟪पा २⟫ (to protect) | ⟪पालयति⟫ | to guard, to protect |
+| ⟪लभ्⟫ | ⟪लम्भयति⟫ | to cause to remain, to preserve |
+| ⟪हन्⟫ | ⟪घातयति⟫ | to cause to be struck down, to kill |
+| ⟪जि⟫ | ⟪जापयति⟫ | to cause to conquer, to make victorious |
+| ⟪जीव्⟫ | ⟪जीवयति⟫ | to enliven, to revive |
+B) Translate the following sentences and form sentences using the simple verbs that express what happens when the action expressed by the causative is brought about.
 
-⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
-The Kṣatriya has, in order to defeat the enemies, caused a Brāhmaṇa named Hari and Hara to worship with a sacrifice and will fight the enemies.
-(Basis: **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**)
+⟪१⟫. **⟪शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥⟫**
+The Kṣatriya, in order to defeat the enemies, has caused a Brāhmaṇa named Hari and Hara to be worshipped with a sacrifice, and will fight the enemies.
+(Base: **⟪ब्राह्मणो हरिहरं यजति ।⟫**)
 
-⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫**
+⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य गृहं गतः ॥२॥⟫**
 The teacher has taught the boy the Veda and then went home.
-(Basis: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
+(Base: **⟪बाला वेदमधीयते ।⟫**)
 
-⟪३⟫. **⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫ ⟪॥३॥⟫**
+⟪३⟫. **⟪गर्भगृहे देवीप्रतिमा दर्श्यते ॥३॥⟫**
 In the innermost sanctuary, the image of the goddess is shown.
-(Basis: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
+(Base: **⟪देवीप्रतिमा दृश्यते ।⟫**)
 
-⟪४⟫. **⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫**
+⟪४⟫. **⟪यजन्नग्निनान्नमादयति पानं च पाययति ॥४॥⟫**
 The sacrificer gives food to eat and drink to the fire.
-(Basis: **⟪अग्निरन्नमत्ति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पिबति⟫ ⟪।⟫**)
+(Base: **⟪अग्निरन्नमत्ति पानं च पिबति ।⟫**)
 
-⟪५⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪॥५॥⟫**
-As soon as the son is born, the Brahmin woman sends a servant to the Brahmin. The Brahmin has the servant enter the house and asks about his son.
-(Basis: **⟪दासो⟫ ⟪ब्राह्मणं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪दासो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫**)
+⟪५⟫. **⟪पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति । ब्राह्मणस्तं दासं गृहं प्रवेश्य पुत्रं पृच्छति ॥५॥⟫**
+As soon as the son is born, the Brāhmaṇī sends a servant to the Brāhmaṇa. The Brāhmaṇa causes the servant to enter the house and asks about his son.
+(Base: **⟪दासो ब्राह्मणं गच्छति । दासो गृहं प्रविशति ।⟫**)
 
-⟪६⟫. **⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫**
-The man singing praises brings the great poet's hymns of praise to the gods.
-(Basis: **⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪शृण्वन्ति⟫ ⟪।⟫**)
+⟪६⟫. **⟪स्तुवता नरेण देवा महाकवेः स्तोत्राणि श्राविताः ॥६॥⟫**
+The praising man brings the praise hymns of the great poet to the gods.
+(Base: **⟪देवा महाकवेः स्तोत्राणि शृण्वन्ति ।⟫**)
 
-⟪७⟫. **⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫**
+⟪७⟫. **⟪आर्ययोधैर्महायुद्धे ऽरयो मार्यन्ते ॥७॥⟫**
 The noble warriors kill the enemies in the great battle.
-(Basis: **⟪अरयो⟫ ⟪म्रियन्ते⟫ ⟪।⟫**)
+(Base: **⟪अरयो म्रियन्ते ।⟫**)
 
-⟪८⟫. **⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪॥८॥⟫**
-The good Kṣatriyā has a Brahmin worship her personal deity.
-(Basis: **⟪ब्राह्मण⟫ ⟪इष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫**)
+⟪८⟫. **⟪सत्क्षत्रिया ब्राह्मणेनेष्टदेवतापूजां कारयति ॥८॥⟫**
+The good Kṣatriyā lets a Brāhmaṇa worship her personal deity.
+(Base: **⟪ब्राह्मण इष्टदेवतापूजां करोति ।⟫**)
 
-⟪९⟫. **⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫**
-To conquer treasures, the great Kṣatriya will have the tiger-like warriors make vows.
-(Basis: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
+⟪९⟫. **⟪धनं जेतुं महाक्षत्रियो योधव्याघ्रैर्व्रतानि चारयिष्यति ॥९॥⟫**
+To conquer treasures, the great Kṣatriya will let the tiger-like warriors make vows.
+(Base: **⟪योधव्याघ्रा व्रतानि चरिष्यन्ति ।⟫**)
 
-⟪१०⟫. **⟪पापाद्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫**
-To free them from evil, Buddha has noble people recognize the noble truths.
-(Basis: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
+⟪१०⟫. **⟪पापाद्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥⟫**
+To free them from evil, the Buddha lets noble people recognize the noble truths.
+(Base: **⟪आर्यजना आर्यसत्यानि बुध्यन्ते ।⟫**)
 
 ::: media
 ![](/images/uebung045.webp)
-Fig.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
+Fig.: ⟪गर्भगृहे देवीप्रतिमा दर्श्यते⟫
 (Image source: [Details](/licenses#uebung045))
 :::

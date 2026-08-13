@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# Lektion 9
+# Lecziun 9
 
 ::: deleteme-box
 **En questa lecziun avais a apprender:**
@@ -17,7 +17,7 @@ last_reconstructed: 2026-05-07
 - Citats da texts classics da lesbas (Dharmaśāstras)
 :::
 
-## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
+## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Quand inna construcziun Dvandva exprima che ina seria da cumpogns ecc. furma in’unitad, alura stat ella generalmain en il singular neutrum:**
@@ -45,9 +45,9 @@ Naven a questa regulia fundamentala per la furmaziun da Samāhāradvandvas dat i
 4\. **Nomina, die ausdrücken "zum Begriff des Grundwortes in Beziehung stehend":**
    **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "in Benares gebürtig, aus Benares stammend"**
    **rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"**
-:::
+::: <!-- TODO: Fallback translation -->
 
-### 9.2.2. -aka (kṛt), fem. oft -ikā
+### 9.2.2. -aka (kṛt), fem. oft -ikā <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Il sufix kṛt -aka, il feminin savens -ikā, furma nomina agentis (nomina che expriman l'agent) a mintga radis.**
@@ -63,7 +63,7 @@ In vocal final da la radiz sco era **-a-** en la penultima posiziun da la radiz 
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Quaija da questas furmas ha il significà pli stretg: "quai che vegn exequì usitadamain u sco incumbensa u bain exequì, exprimì tras la radis".**
@@ -76,7 +76,7 @@ vair sur, per exempels **śrāvaka**, **yājaka**, **jayaka**
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" | <!-- TODO: Fallback translation -->
 
 Inoltra da quai existeschan ancà in’ulteriura utilizaziun main impurtanta dal sufix **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
 
@@ -91,7 +91,7 @@ Inoltra da quai existeschan ancà in’ulteriura utilizaziun main impurtanta dal
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram en vischinanza da Madurai.
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : artesan
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : artesan <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0902.webp)
@@ -149,7 +149,7 @@ Abb.: **karṣaka** = ⟪कर्षक⟫.
 1. Aufgaben aller Zweimalgeborenen:
    **ijyādhyayanadānāni**
    ⟪इज्याध्ययनदानानि⟫
-   (Yājñavalkyadharmaśāstra I, 118)
+   (Yājñavalkyadharmaśāstra I, 118) <!-- TODO: Fallback translation -->
 
 2. Specificas incumbenzas d'in brahman:
    **pravacanayājanapratigrahāḥ**
@@ -175,3 +175,4 @@ Abb.: **karṣaka** = ⟪कर्षक⟫.
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
    (suenter Kauṭilīya-Arthaśāstra 1.4.1.)
+ <!-- TODO: Fallback translation -->

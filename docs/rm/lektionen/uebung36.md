@@ -59,7 +59,7 @@ Ils Brahmins han construi in fieu per il grond sacrifici da las divinitads. Cun 
 Ils guerriers Kṣatriya, che custodiavan il dretg, han sconfigì ils inimis, ch'avevan vulà conquistar la gronda citad, ma els n'han betg uccidì.
 
 ⟪४⟫. **⟪अधीतवेदद्विजो⟫ ⟪द्विजधर्मं⟫ ⟪वेद⟫ ⟪॥४॥⟫**
-Ina giada naschì, che ha studiat il Veda, cognoscha il dretg ed il ritgel da las giadas naschidas.
+Ina giada naschì, che ha studiat il Veda, cognoscha il dretg ed il ritgel da las giadas naschidas. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. **⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫**
 Sola la scienza na po betg viver. Qui sa quai, n'ha betg da studiar.

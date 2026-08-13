@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 30
+# 第30課
 
 ## 30.1. 第九现在时类 (⟪क्र्यादि⟫ = "⟪क्री⟫ 等")
 
@@ -226,7 +226,8 @@ Beispiele: <!-- TODO: Fallback translation -->
 | **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪कृ⟫) <!-- TODO: Fallback translation -->
+**kṛ**
+(⟪कृ⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 

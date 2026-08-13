@@ -5,16 +5,16 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 50. lecke
+# 50. lecke <!-- TODO: Fallback translation -->
 
 ## 50.1. Főnévképzés: szabályos fokozás
 
 ::: grammar-box
 **A szabályos fokozás a szanszkritban a ⟪तद्धित⟫-képzőkkel történik**
 * **-⟪तर⟫ (nemek: ⟪तरा⟫) a "komparatívban"**
-* **⟪तम⟫ (nemek: ⟪तमा⟫) a "szuperlatívban"**
+* **⟪तम⟫ (nemek: ⟪तमा⟫) a "szuperlatívban"** <!-- TODO: Fallback translation -->
 
 **Ezek a képzők mellékneveknél a hímnemű tövhez csatolódnak. Tövidüléses főneveknél a gyenge tövhöz csatolódnak, amely alakja ugyanaz, mint a lokatívusz -su végződése előtt (⟪पञ्चमी⟩) többes szám.**
 :::
@@ -49,7 +49,7 @@ pl. ⟪सत्तम⟫ 3 (a ⟪सन्त्⟫-hoz) "nagyon jó, igen jó"
 ::: indent
 pl. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "a kétszer születettek legjobbja"
 :::
-**A -⟪तर⟫ és a -⟪तम⟫ képzők nem csak melléknevekhez, hanem főnevekhez, határozószavakhoz és még igeképzésekhez is kapcsolódhatnak:**
+**A -⟪तर⟫ és a -⟪तम⟫ képzők nem csak melléknevekhez, hanem főnevekhez, határozószavakhoz és még igeképzésekhez is kapcsolódhatnak:** <!-- TODO: Fallback translation -->
 
 Példák:
 
@@ -60,7 +60,7 @@ Példák:
 
 ⟪उद्⟫ Indekl. "fent", "fel" » ⟪उत्तर⟫ 3 "magasabb" » ⟪उत्तम⟫ 3 "legmagasabb"
 :::
-**Ha ezek a képzők igeképhez kapcsolódnak, mindig határozói alakban jelennek meg:**
+**Ha ezek a képzők igeképhez kapcsolódnak, mindig határozói alakban jelennek meg:** <!-- TODO: Fallback translation -->
 
 * **-⟪तराम्⟫**
 * **-⟪तमाम्⟫**
@@ -103,7 +103,7 @@ Kapil Sibal (1948 -), uniós miniszter a Tudomány és Technológia Minisztériu
 :::
 ⟪रहस्⟫ n.: titok, magányosság
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : megsérülni, kudarcot vallni, károsodni
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : megsérülni, kudarcot vallni, károsodni <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
@@ -143,7 +143,7 @@ Absol.-⟪वृष्य⟫
 A Monsun érkezése, Bangalore  ಬೆಂಗಳೂರು
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5002))
 :::
-⟪संयक्⟫ Adv.: helyes, igazán, a megfelelő módon; teljes mértékben
+⟪संयक्⟫ Adv.: helyes, igazán, a megfelelő módon; teljes mértékben <!-- TODO: Fallback translation -->
 
 ⟪आदित्य⟫ m.: nap; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : egy bizonyos isteni osztály
 
@@ -152,7 +152,7 @@ A Monsun érkezése, Bangalore  ಬೆಂಗಳೂರು
 Ábra: ⟪आदित्यः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: mindenki, mind
+⟪सर्व⟫ 3: mindenki, mind <!-- TODO: Fallback translation -->
 
 Ragozás mint ⟪यद्⟫ (kivétel: alanyeset (nominativus)us/Accusativus singularis neutrum)
 
@@ -170,7 +170,7 @@ Ragozás mint ⟪यद्⟫ (kivétel: alanyeset (nominativus)us/Accusativus s
 :::
 ⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im lokativus (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
+⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im lokativus (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫ <!-- TODO: Fallback translation -->
 
 ⟪कल्प⟫ m: rend, szokás, rituálé ; [Világkor](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (hozzá ⟪कॢप्⟫)
 
@@ -181,7 +181,7 @@ Ragozás mint ⟪यद्⟫ (kivétel: alanyeset (nominativus)us/Accusativus s
 Ábr.: ⟪कल्याणी⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5003))
 :::
-⟪कु⟫- : összetett szavak első tagjaként: rossz
+⟪कु⟫- : összetett szavak első tagjaként: rossz <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5004.webp)
@@ -189,13 +189,13 @@ Ragozás mint ⟪यद्⟫ (kivétel: alanyeset (nominativus)us/Accusativus s
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : látni
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : látni <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. ⟪चचक्षे⟫
 a többi ragozott időben nem használt
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : mesél, tart valaminek, nevez
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : mesél, tart valaminek, nevez <!-- TODO: Fallback translation -->
 
 ⟪देश⟫ m.: hely, tér, ország, vidék
 

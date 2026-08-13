@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # الدرس السادس
 
@@ -73,7 +73,7 @@ status: stable
 | :--- | :--- | :--- |
 | **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" |
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
-| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
+| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" | <!-- TODO: Fallback translation -->
 
 ## 6.4. نهايات الفعل الأساسية للضمير الغائب المذكر (prathama m. = ⟪प्रथम⟫ = "الأولى (!)")
 
@@ -129,7 +129,7 @@ status: stable
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. أفعال الفئة الرابعة من المضارع (divādi = ⟪दिवादि⟫ = "div وما إلى ذلك")
+### 6.5.3. أفعال الفئة الرابعة من المضارع (divādi = ⟪दिवादि⟫ = "div وما إلى ذلك") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **مضارع جذر = جذر في درجة منخفضة (الدرجة التي تُذكر فيها) + ya-**
@@ -237,9 +237,13 @@ status: stable
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **ب) أضف إلى صيغة الجمع:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

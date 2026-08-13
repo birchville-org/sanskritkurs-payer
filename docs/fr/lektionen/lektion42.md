@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 42
+# Leçon 42
 
 ## 42.1. Souches en -ṛ
 
@@ -207,7 +207,7 @@ Inf. ⟪शंसितुम्⟫
 :::
 ⟪हृदय⟫ n. : cœur
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+### 42.2.1. Einige Verwandtschaftsbezeichnungen <!-- TODO: Fallback translation -->
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)

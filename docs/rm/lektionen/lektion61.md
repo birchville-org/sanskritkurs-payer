@@ -4,11 +4,11 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 61
+# Lecziun 61
 
-## 61.1. Deklination der Radisnomina auf -ā, -ī, -ū
+## 61.1. Deklination der Radisnomina auf -ā, -ī, -ū <!-- TODO: Fallback translation -->
 
 ### 61.1.1. Noms da radis cun la desinenza -ā a la fin da ⟪तत्पुरुष⟫
 
@@ -34,7 +34,7 @@ Paradigma:
 ### 61.1.2. Feminine Radisnomina auf -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
 
 **Nebens las furmas cun las terminaziuns regularas dal casus sa preschentan en il dativ, ablativ, genitiv e locativ singular, sco er en il genitiv plural, era furmas suenter il model da feminins plurisilbics cun -ī (⟪देवी⟫).**
 :::
@@ -107,14 +107,14 @@ Paradigmas:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Radisnomina auf -ū
+### 61.1.4. Einsilbige, feminine Radisnomina auf -ū <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Radix avant vocal: -uv**
 
 **Deklination analog zu den femininen Radisnomina auf -ī**
 :::
-Paradigma:
+Paradigma: <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ f. "Terra"
 
@@ -203,7 +203,7 @@ Las desinentzas dal futur perifrastic èn donc:
 ::: grammar-box
 **Furma da la radis: La radis ha en general la medema furma sco en il futur simplifitgà. Quai vala er per la vocala da cunvegna -i-.**
 :::
-Exempels:
+Exempels: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
 | --- | --- |
@@ -234,18 +234,26 @@ Paradigma:
 **Il significà dal intensivum è:**
 
 *   **che ina persuna u ina chosa fa or suffa adina e puspè quai ch'è exprimmì per la radis**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el fa adina e puspè"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "el è (devè) spès"
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el fa adina e puspè"
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "el è (devè) spès"
+:::
 
 *   **che ina persuna u ina cosa fa intensivamain u sufrisca quai ch'è exprimmì per la radis:**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el fa intensivamain, el fa cumpetentamain"
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el fa intensivamain, el fa cumpetentamain"
+:::
 
 *   **a radich che expriman in moviment, il intensiv exprima il moviment curv:**  
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "el va en curvas" (NICHT: "el va spess")
+::: indent
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "el va en curvas" (NICHT: "el va spess")
+:::
 
 *   **en cunzertas radis (enumeraziun: Kielhorn, Grammatik § 458b) significat l'intensivum blaim:**  
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "el tacla mal"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "el sa s'attatga mal"
+::: indent
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "el tacla mal"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "el sa s'attatga mal"
+:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -255,7 +263,7 @@ Karnataka = ಕರ್ನಾಟಕ
 :::
 
 ::: grammar-box
-**La furmaziun dal intensivum:**
+**La furmaziun dal intensivum:** <!-- TODO: Fallback translation -->
 
 **Existan duas tipus da furmaziun dal intensivum:**
 
@@ -283,7 +291,7 @@ Ezempels:
 Las reglas en detagl en Kielhorn, Grammatica § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Egimpels:
+Egimpels: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -369,7 +377,7 @@ Optativ (⟪विधिलिङ्⟫):
 :::
 ## 61.4. Denominativa (⟪नामधातु⟫)
 
-I denominativs (⟪नामधातवः⟫) vegnan, en cumpareglia cun ils verbs tractads fin qua, betg formatads d'ina radis verbala, mabain d'ina radis nominala. Qua existan differents tipps da furmaziun.
+I denominativs (⟪नामधातवः⟫) vegnan, en cumpareglia cun ils verbs tractads fin qua, betg formatads d'ina radis verbala, mabain d'ina radis nominala. Qua existan differents tipps da furmaziun. <!-- TODO: Fallback translation -->
 
 ### 61.4.1. Furmad senza suffix spezial, Parasmaipada
 
@@ -393,7 +401,7 @@ Exemples:
 | ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
 | ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
+| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" | <!-- TODO: Fallback translation -->
 
 ### 61.4.2. Furmad cun sufix -ya, Parasmaipada
 
@@ -425,20 +433,20 @@ Exempels:
 | ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
 | ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
+| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
 
 Assegnescha la significaziun da:
 
 | ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6105.webp)
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
 ⟪हरिद्वार⟫
 (Imprimà dal dretg: [Detagls](/rm/licenses#lekt6105))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6103.webp)
@@ -456,7 +464,7 @@ Exempels:
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
+| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6109.webp)
@@ -473,7 +481,7 @@ Fig.: ⟪यशस्काम्यन्ति⟫
 ::: indent
 **insatiablem Verlangen nach dem, was durch den Nominalstamm bezeichnet wird.**
 :::
-Ezempels:
+Ezempels: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | ⟪मधु⟫ n. "Miel" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "el vòia intensamain miel" |
@@ -501,14 +509,14 @@ Karli
 *   **final -ā bleibt unverändert**
 *   **sonst wie vor -ya, Parasmaipada (siehe oben 4.2.)**
 *   **final -as wahlweise » -ā**
-*   **Femininstamm meist » Maskulinstamm**
+*   **Femininstamm meist » Maskulinstamm** <!-- TODO: Fallback translation -->
 
 Ezempels:
 
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
+| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Per quaias radis nominalas significates quest suffix: insatge vegn sco quai u vegn a quai, che vegn designà per la radis nominala:**
@@ -541,7 +549,7 @@ Exemples:
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -585,7 +593,7 @@ p.ex. ⟪बुध्यासम्⟫ "che jau scuvigliai!"
 
 **oppur:**
 
-**(hochstufige) Radis + ⟪ै⟫ + sī(y) + Sekundäraendung**
+**(hochstufige) Radis + ⟪ै⟫ + sī(y) + Sekundäraendung** <!-- TODO: Fallback translation -->
 
 ::: indent
 p.ex.
@@ -626,7 +634,7 @@ Exempel:
 ::: grammar-box
 **Furmaziun dal cundiziunal (⟪ऌङ्⟫):**
 
-**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung**
+**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung** <!-- TODO: Fallback translation -->
 
 d.h. wie ein Imperfect (⟪लङ्⟫) al stem dal futur.
 
@@ -651,12 +659,12 @@ Paradigma:
 
 **⟪गो⟫ m.f. "Ochse, Kuh" ha basa da declinaziun.** Vesa l'explicaziun detagliada en Thumb-Hauschild § 296/7.
 :::
-Paradigmas: Kielhorn, Grammatik § 153:
+Paradigmas: Kielhorn, Grammatik § 153: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6115.webp)
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt6115))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6118.webp)
@@ -672,7 +680,7 @@ Kielhorn, Grammatik § 177:
 ::: media
 ![](/images/lekt6116.jpg)
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt6116))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6117.webp)
@@ -680,7 +688,7 @@ Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 Populaziun Apatani, Arunachal Pradesh
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt6117))
 :::
-### 61.8.2. Pronoms demonstrativs ⟪अदस्⟫ "quel (lunsch)"
+### 61.8.2. Pronoms demonstrativs ⟪अदस्⟫ "quel (lunsch)" <!-- TODO: Fallback translation -->
 
 Maschil (⟪पुंस्⟫)
 
@@ -728,7 +736,7 @@ Su il conclus dal curs da sânscrit cumenza mo il ver "nadar" en l'ocèan da la 
 Fig.: ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), 12./13. tschdt. n. Chr.
 (Bildquelle: [Details](/rm/licenses#lekt6101))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: no-header
 |   |   |
@@ -764,7 +772,7 @@ Ofterdingen, 2009-03-09
 *:sig[⟪ॐ⟫]*
 
 FIN DAL CURS DA SANSKRIT
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
@@ -796,6 +804,6 @@ FIN DAL CURS DA SANSKRIT
 
 **lekt6117:** Vop dal Apatani, Arunachal Pradesh [surs da l’immagines: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Access il 2009-03-09. -- [licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (attribuziun)]
 
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]::::
+**lekt6101:** Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]:::: <!-- TODO: Fallback translation -->
 
 :::

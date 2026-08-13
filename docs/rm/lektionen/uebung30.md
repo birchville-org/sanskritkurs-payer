@@ -83,7 +83,7 @@ B) Tradusì las sentenzias suandantas e resolver ils cumponiments sanscrits:
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
 (⟪आर्याणि⟫ ⟪सत्यानि⟫)
-Il Buddha ha annunzià l'insegnament a las umans per il benester dals nobels, per che els possian reconuscher las noblas veritads.
+Il Buddha ha annunzià l'insegnament a las umans per il benester dals nobels, per che els possian reconuscher las noblas veritads. <!-- TODO: Fallback translation -->
 
 ⟪२⟫. **⟪ये⟫ ⟪नरा⟫ ⟪देवान्न⟫ ⟪यजेरन्व्रतानि⟫ ⟪च⟫ ⟪न⟫ ⟪चरेयुरनृतं⟫ ⟪च⟫ ⟪वदेयुरधर्मं⟫ ⟪च⟫ ⟪कुर्युस्ते⟫ ⟪सुखं⟫ ⟪नाप्नुयुर्मृत्वा⟫ ⟪च⟫ ⟪नरकं⟫ ⟪पतेयुः⟫ ⟪॥२॥⟫**
 Umans che n'offreschan betg als dieus, n'observan betg vows, mintgan e faan iniquitad, na vegnan betg feliçs e cadan suenter lur mort en in infern.
@@ -114,7 +114,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 
 ⟪९⟫. **⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫**  
 **⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
-S’ins dia veritads che èn agradablas, betg veritads desagradablas s’ins di; betg s’ins di veritads agradablas, quai è la lescha eterna.
+S’ins dia veritads che èn agradablas, betg veritads desagradablas s’ins di; betg s’ins di veritads agradablas, quai è la lescha eterna. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung048.webp)

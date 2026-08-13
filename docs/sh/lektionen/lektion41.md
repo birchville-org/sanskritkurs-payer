@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 41
+# Lekcija 41
 
 ## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
 

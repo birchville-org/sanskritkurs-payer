@@ -1,28 +1,29 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: "Lesson 14"
+subtitle: "The expression of the relationship of that designated by nouns: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lesson 14
 
-## 14.1. The Expression of the Relationship of Noun-Designated Entities: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
+## 14.1. Expressing the Relationship of Entities Designated by Nouns: The Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
 
 ::: grammar-box
-If the relationship expressed by two nouns is to be indicated, the genitive (ṣaṣṭhī f. "sixth case ending") is used. The genitive differs from all other cases in that it -- with a few exceptions -- does not serve to further specify the action expressed by the verb, but rather to express the relationship between persons or things designated by nouns. Frequently, the genitive answers the question: Whose?
+If the relationship expressed by two nouns is to be indicated, the genitive (ṣaṣṭhī f. "sixth case ending") is used. The genitive differs from all other cases in that it -- with few exceptions -- does not serve to further specify the action expressed by the verb, but rather expresses the relationship between persons or things designated by nouns. Frequently, the genitive answers the question: Whose?
 :::
 Examples:
 
-⟪कवेः⟫ ⟪पुत्रः⟫ "The poet's son"
+⟪कवेः पुत्रः⟫ "The poet's son"
 
-⟪धनस्य⟫ ⟪लोभः⟫ "Greed for wealth"
+⟪धनस्य लोभः⟫ "Craving for wealth"
 
 ⟪नगरस्यार्धम्⟫ "The half of the city"
 
-⟪रामस्य⟫ ⟪कृतम्⟫ "The / A deed of Rāma"
+⟪रामस्य कृतम्⟫ "The / A deed of Rāma"
 
 ::: grammar-box
 The normal word order is:
@@ -32,21 +33,21 @@ The normal word order is:
 **Genitive and PPP:**
 
 ::: grammar-box
-With PPPs, the genitive can stand instead of the instrumental (tṛtīyā) for the agent (kartṛ); In the construction with the instrumental, the PPP is regarded as a passive verbal form (that which stands in the instrumental denotes the agent), in the construction with the genitive, the PPP is regarded as a noun or adjective (that which stands in the genitive is thus not actually an agent).
+>> With PPPs, the genitive can stand instead of the instrumental (tṛtīyā) for the agent (kartṛ); In the construction with the instrumental, the PPP is regarded as a passive verbal form (that which stands in the instrumental denotes the agent), while in the construction with the genitive, the PPP is regarded as a noun or adjective (that which stands in the genitive thus does not function essentially as an agent).
 
-According to Pāṇini 2.3.67, with a PPP in the genitive, if the PPP has present-tense meaning (see above), the instrumental is used if the PPP has past-tense meaning:
+According to Pāṇini 2.3.67, with PPPs the genitive stands if the PPP has present-tense meaning (see above), and the instrumental stands if the PPP has past-tense meaning:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "The fruit desired by Rāma = The fruit that Rāma currently desires"
+> ⟪रामस्येष्टं फलम्⟫ "The fruit desired by Rāma = The fruit that Rāma currently desires"
 > 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "The fruit that Rāma has desired"
+> ⟪रामेणेष्टं फलम्⟫ "The fruit that Rāma desired"
 
-Naturally, with a neuter singular PPP used as a verbal abstract -- i.e., as a noun -- the genitive is used.
+Naturally, when a PPP neuter singular is used as a verbal abstract — that is, as a noun — the genitive case stands.
 :::
-## 14.2. Formation of Genitive Forms (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. Formation of the Genitive Forms (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 The genitive is formed from the weak stem for verbal stems with stem gradation.
 
-**Genitive of consonant-ending stems:**
+**Genitive of consonant-final stems:**
 
 ::: grammar-box
 
@@ -57,26 +58,26 @@ After a consonant, the regular genitive endings are:
 :::
 ::: center
 
-| Nominal Stem | Schwacher Stem | Genitive Singular | Genitive Plural |
+| Nominal Stem | Weak Stem | Genitive Singular | Genitive Plural |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
-**Genitive of vowel-ending stems, except monosyllabic root nouns and diphthong-ending stems:**
+**Genitive of vowel-final stems, except for monosyllabic root nouns and diphthong-final stems:**
 
 **Plural:**
 
 ::: grammar-box
 
-The genitive plural of vowel-ending stems is formed as follows:
+The genitive plural of vowel-final stems is formed as follows:
 
 > **-long final vowel of the stem + -nām**
 
 :::
 ::: center
 
-| Nominal stem | Genitive Plural |
+| Nominal Stem | Genitive Plural |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ |
@@ -88,16 +89,16 @@ The genitive plural of vowel-ending stems is formed as follows:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genitive singular of vowel-final stems:**
+**Genitive singular of stems ending in a vowel:**
 
 ::: grammar-box
 
-The genitive singular of vowel-final stems is formed irregularly and must be memorized well.
+The genitive singular of stems ending in a vowel is formed irregularly and must be learned by heart.
 
 :::
 ::: center
 
-| Stem | Genitive Singular |
+| Stem | Genitive singular |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -105,8 +106,8 @@ The genitive singular of vowel-final stems is formed irregularly and must be mem
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(i.e. either like kavi or like devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(i.e. either like paśu or like feminine stems with -ū in more than one syllable) |
 
 :::
 **Interrogative and demonstrative pronouns:**
@@ -115,35 +116,35 @@ The genitive singular of vowel-final stems is formed irregularly and must be mem
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Masculine / Neuter** | **Genitive Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
-| | **Genitive Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
-| **Feminine** | **Genitive Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **Genitive Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| **Masculine / Neuter** | **Genitive singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genitive plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Feminine** | **Genitive singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genitive plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-**Formal identity:**
+**Identity of form:**
 
 ::: important
 
-In all nominal stems except for masculines and neuters ending in -a, and except for pronouns, the form of the genitive singular is identical to that of the ablative (pañcamī "fifth case ending") singular!
+>> In all nominal stems except for the masculine and neuter stems ending in -a, as well as pronouns, the form of the genitive singular is identical to that of the ablative (pañcamī "fifth case ending") singular!
 
-Note that in consonant-final stems, the ablative and genitive singular sound the same as the accusative plural masculine and feminine!
+>> Note that in stems ending with a consonant, the ablative and genitive singular sound like the accusative plural masculine and feminine!
 
 :::
-## 14.3. Further on the use of the genitive (⟪षष्ठी⟫)
+## 14.3. Further on the Use of the Genitive (⟪षष्ठी⟫)
 
 ::: grammar-box
-Contrary to the basic rule above, the genitive is used to express the object of certain verbs, e.g. verbs of remembrance:
+Contrary to the basic rule above, the genitive is used to express the object of certain verbs, e.g. with verbs of remembrance:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "He remembers the gods"
+> ⟪देवानां स्मरति⟫ "He remembers the gods"
 
-With all these verbs, however, the object can also be in the accusative:
+However, with all these verbs, the object can also be in the accusative:
 
 > ⟪देवान्स्मरति⟫ "He remembers the gods"
 
-More on this later.
+More later.
 :::
-## 14.4. Word List
+## 14.4. Vocabulary List
 
 * **śīla n.** (⟪शील⟫) : (good) character, morality
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : ornament
@@ -154,184 +155,62 @@ More on this later.
 Fig.: ⟪दीपाः⟫
 (Image source: [Details](/en/licenses#lekt1405))
 :::
-* **bala n.** (⟪बल⟫) : violence, power, strength; military force, army
+* **bala n.** (⟪बल⟫) : violence, strength, power; army force, host
 * **bāla 3** (⟪बाल⟫) : young, childish, foolish; m. boy
 * **bālā f.** (⟪बाला⟫) : young girl
 * **nara m.** (⟪नर⟫) : man, human being
 * **śatru m.** (⟪शत्रु⟫) : enemy
-* **loka m.** (⟪लोक⟫) : world; Sing. and Plur.: the people, the humans, the populace
+* **loka m.** (⟪लोक⟫) : world; Sing. & Plur.: the people, humans, the populace
 * **jala n.** (⟪जल⟫) : water
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : to be born, to arise, to appear
-  * **jan-a m.** (⟪जन⟫) : creature, human being, people
-* **vac 2 P** (vakti, no 3rd plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : to say, to speak to (accusative)
-  * **uk-ti f.** (⟪उक्ति⟫) : utterance, word
-  * **vac-ana n.** (⟪वचन⟫) : speaking, the word
-  * **vāk-ya n.** (⟪वाक्य⟫) : word, speech
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन् जायते जन्यते जायते जात⟫) : to be born, arise, appear
+* **jan-a m.** (⟪जन⟫) : creature, human being, people
+* **vac 2 P** (vakti, no 3rd plural!), Pass. ucyate, PPP ukta (⟪वच् वक्ति उच्यते उक्त⟫) : to say, speak to (accusative/dvitīyā)
+* **uk-ti f.** (⟪उक्ति⟫) : utterance, word
+* **vac-ana n.** (⟪वचन⟫) : speaking, the word
+* **vāk-ya n.** (⟪वाक्य⟫) : word, speech
 
 ## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverbs
 
 Translate the following proverbs and memorize them:
 
-**⟪नीचो⟫ ⟪वद⟫ati ⟪न⟫ ⟪कुरुते⟫** **⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫**
+**⟪नीचो वद⟫ati ⟪न कुरुते⟫** **⟪वदति न साधुः करोत्येव ॥१॥⟫**
 
-**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫**
+**⟪शीलं नरस्य भूषणम् ॥२॥⟫**
 
-**⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫**
+**⟪सत्येन जनानां सुखं भवति ॥३॥⟫**
 
-**⟪पापा⟫ ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪न⟫ ⟪लभन्ते⟫ ⟪॥४॥⟫**
+**⟪पापा नराः स्वर्गं न लभन्ते ॥४॥⟫**
 
-**⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫**
+**⟪सत्यं लोकस्य दीपः ॥५॥⟫**
 
 ## 14.6. Exercise
 
-**A) Form the Genitive Singular and Plural for the following words. Provide meaning and gender for the words:**
+**A) Form the singular and plural genitive for the following words. Provide meaning and gender:**
 
-⟪१⟫. ⟪अनृत⟫
-
-⟪२⟫. ⟪ऋषि⟫
-
-⟪३⟫. ⟪पाद⟫
-
-⟪४⟫. ⟪बुद्धि⟫
-
-⟪५⟫. ⟪गुरु⟫
-
-⟪६⟫. ⟪स्वर्ग⟫
-
-⟪७⟫. ⟪नगर⟫
-
-⟪८⟫. ⟪धेनु⟫
-
-⟪९⟫. ⟪द्विज⟫
-
-⟪१०⟫. ⟪मुक्ता⟫
-
-⟪११⟫. ⟪विद्या⟫
-
-⟪१२⟫. ⟪वर्ण⟫
-
-⟪१३⟫. ⟪द्विजाति⟫
-
-⟪१४⟫. ⟪रूप⟫
-
-⟪१५⟫. ⟪प्रतिग्रह⟫
-
-⟪१६⟫. ⟪सोढ⟫
-
-⟪१७⟫. ⟪नायिका⟫
-
-⟪१८⟫. ⟪साध्वी⟫
-
-⟪१९⟫. ⟪अग्नि⟫
-
-⟪२०⟫. ⟪वैश्या⟫
-
-⟪२१⟫. ⟪लोक⟫
-
-⟪२२⟫. ⟪उक्ति⟫
-
-⟪२३⟫. ⟪शत्रु⟫
-
-⟪२४⟫. ⟪सुखवन्त्⟫
-
-⟪२५⟫. ⟪पुत्रवती⟫
+⟪१⟫. ⟪अनृत २⟫. ⟪ऋषि ३⟫. ⟪पाद ४⟫. ⟪बुद्धि ५⟫. ⟪गुरु ६⟫. ⟪स्वर्ग ७⟫. ⟪नगर ८⟫. ⟪धेनु ९⟫. ⟪द्विज १०⟫. ⟪मुक्ता ११⟫. ⟪विद्या १२⟫. ⟪वर्ण १३⟫. ⟪द्विजाति १४⟫. ⟪रूप १५⟫. ⟪प्रतिग्रह १६⟫. ⟪सोढ १७⟫. ⟪नायिका १८⟫. ⟪साध्वी १९⟫. ⟪अग्नि २०⟫. ⟪वैश्या २१⟫. ⟪लोक २२⟫. ⟪उक्ति २३⟫. ⟪शत्रु २४⟫. ⟪सुखवन्त् २५⟫. ⟪पुत्रवती⟫
 
 ::: media
 ![](/images/lekt1404.webp)
 Fig.: ⟪पुत्रवती⟫
 (Image source: [Details](/en/licenses#lekt1404))
 :::
-⟪२६⟫. ⟪जल⟫
+⟪२६⟫. ⟪जल २७⟫. ⟪मार्ग २८⟫. ⟪मोक्ष २९⟫. ⟪शूद्रा ३०⟫. ⟪अन्न ३१⟫. ⟪साधु ३२⟫. ⟪नीति ३३⟫. ⟪योध ३४⟫. ⟪सत्यवन्त् ३५⟫. ⟪लाभ ३६⟫. ⟪मोह ३७⟫. ⟪गति ३८⟫. ⟪प्रश्न ३९⟫. ⟪सृष्टि ४०⟫. ⟪नेत्र ४१⟫. ⟪गुरुता ४२⟫. ⟪ईश्वर ४३⟫. ⟪कारण ४४⟫. ⟪कृत ४५⟫. ⟪धर्मवन्त् ४६⟫. ⟪युद्ध ४७⟫. ⟪दर्शन ४८⟫. ⟪धातु ४९⟫. ⟪गूढा ५०⟫. ⟪ईष्टा⟫ (2 meanings)
 
-⟪२७⟫. ⟪मार्ग⟫
-
-⟪२८⟫. ⟪मोक्ष⟫
-
-⟪२९⟫. ⟪शूद्रा⟫
-
-⟪३०⟫. ⟪अन्न⟫
-
-⟪३१⟫. ⟪साधु⟫
-
-⟪३२⟫. ⟪नीति⟫
-
-⟪३३⟫. ⟪योध⟫
-
-⟪३४⟫. ⟪सत्यवन्त्⟫
-
-⟪३५⟫. ⟪लाभ⟫
-
-⟪३६⟫. ⟪मोह⟫
-
-⟪३७⟫. ⟪गति⟫
-
-⟪३८⟫. ⟪प्रश्न⟫
-
-⟪३९⟫. ⟪सृष्टि⟫
-
-⟪४०⟫. ⟪नेत्र⟫
-
-⟪४१⟫. ⟪गुरुता⟫
-
-⟪४२⟫. ⟪ईश्वर⟫
-
-⟪४३⟫. ⟪कारण⟫
-
-⟪४४⟫. ⟪कृत⟫
-
-⟪४५⟫. ⟪धर्मवन्त्⟫
-
-⟪४६⟫. ⟪युद्ध⟫
-
-⟪४७⟫. ⟪दर्शन⟫
-
-⟪४८⟫. ⟪धातु⟫
-
-⟪४९⟫. ⟪गूढा⟫
-
-⟪५०⟫. ⟪ईष्टा⟫ (2 meanings)
-
-⟪५१⟫. ⟪उदित⟫
-
-⟪५२⟫. ⟪इदम्⟫
-
-⟪५३⟫. ⟪किम्⟫
+⟪५१⟫. ⟪उदित ५२⟫. ⟪इदम् ५३⟫. ⟪किम्⟫
 
 ::: media
 ![](/images/lekt1403.webp)
-Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
+Fig.: ⟪अयं बालः कस्याः पुत्रः ।⟫
 (Image source: [Details](/en/licenses#lekt1403))
 :::
 **B) Translate:**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 possibilities)
+⟪१⟫. ⟪ब्राह्मणस्य पुत्रो ब्राह्मण्या ग्रामं गतः ।⟫ (2 possibilities)
 
-⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
-
-⟪३⟫. ⟪बुद्धः⟫ ⟪सत्यस्य⟫ ⟪बुद्ध्या⟫ ⟪मुक्तः⟫ ⟪।⟫
-
-⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫
-
-⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫
-
-⟪६⟫. ⟪बलवन्तः⟫ ⟪क्षत्रियाः⟫ ⟪शत्रूणां⟫ ⟪धनवन्ति⟫ ⟪नगराणि⟫ ⟪जयन्ति⟫ ⟪।⟫
-
-⟪७⟫. ⟪कवेरुक्तिं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-
-⟪८⟫. ⟪कविर्देव्याः⟫ ⟪कृतं⟫ ⟪वदति⟫ ⟪।⟫
-
-⟪९⟫. ⟪द्विजाः⟫ ⟪पशोर्लाभमिच्छन्ति⟫ ⟪।⟫
-
-⟪१०⟫. ⟪रामः⟫ ⟪पुण्यवतो⟫ ⟪गुरोर्मन्त्रस्य⟫ ⟪स्मरति⟫ ⟪।⟫
-
-⟪११⟫. ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-
-⟪१२⟫. ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-
-⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
+⟪२⟫. ⟪यज्ञस्याग्निनान्नं दग्धम् । ३⟫. ⟪बुद्धः सत्यस्य बुद्ध्या मुक्तः । ४⟫. ⟪अधर्मो ऽनृतस्य वदनमित्यृषयो वदन्ति । ५⟫. ⟪नरा देवानां यज्ञैर्न मुच्यन्ते । ६⟫. ⟪बलवन्तः क्षत्रियाः शत्रूणां धनवन्ति नगराणि जयन्ति । ७⟫. ⟪कवेरुक्तिं शृण्वन्ति । ८⟫. ⟪कविर्देव्याः कृतं वदति । ९⟫. ⟪द्विजाः पशोर्लाभमिच्छन्ति । १०⟫. ⟪रामः पुण्यवतो गुरोर्मन्त्रस्य स्मरति । ११⟫. ⟪अयं बालः कस्याः पुत्रः । १२⟫. ⟪केषामिमानि गृहाणि । १३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम् ।⟫
 
 ::: media
 ![](/images/lekt1402.webp)
-Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
+Fig.: ⟪केषामिमानि गृहाणि ।⟫
 (Image source: [Details](/en/licenses#lekt1402))
 :::

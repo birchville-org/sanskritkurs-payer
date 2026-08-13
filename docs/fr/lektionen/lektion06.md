@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Leçon 6
 
@@ -129,7 +129,7 @@ Exemple **yaj** = ⟪यज्⟫ = « vénérer avec un sacrifice », « sacrif
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verbes de la 4e classe de présent (divādi = ⟪दिवादि⟫ = "div etc.")
+### 6.5.3. Verbes de la 4e classe de présent (divādi = ⟪दिवादि⟫ = "div etc.") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Stème de présent = racine au degré affaibli (celui dans lequel elle est répertoriée) + ya-**
@@ -237,9 +237,13 @@ En sanskrit, les verbes sont répertoriés sous leur **forme de racine**. Le nom
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (sādhu) ... rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **B) Mettez au pluriel :**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 56
+# ⲙⲁⲑⲏⲙⲁ 56
 
 ## 56.1. Ⲡⲓⲁⲟⲣⲓⲥⲧ ⲉⲧⲁⲩⲣⲉⲇⲩⲡⲗⲓⲕⲁⲧⲉ
 
@@ -54,22 +54,30 @@ Stammsilbe: <!-- TODO: Fallback translation -->
 **Der Vokal dieser sog. Stammsilbe bestimmt sich im Aorist nach folgenden Regeln:** <!-- TODO: Fallback translation -->
 
 *   **\-ā- vor einfachem Konsonanten wird durch -a- ersetzt:**   <!-- TODO: Fallback translation -->
-    ⟪पॄ⟫ 3P: Kaus. ***:sig[⟪पार⟫]***⟪यति⟫, Aor. ⟪अपि⟫***:sig[⟪पर⟫]***⟪त्⟫  
-    ⟪द्रु⟫ 1P: Kaus. ***:sig[⟪द्राव⟫]***⟪यति⟫, Aor. ⟪अदु⟫***:sig[⟪द्रव⟫]***⟪त्⟫ / ⟪अदि⟫***:sig[⟪द्रव⟫]***⟪त्⟫  
-    :sig[⟪नी⟫] 1U: Kaus.  ***:sig[⟪नाय⟫]***⟪यति⟫, Aor. ⟪अनी⟫***:sig[⟪नय⟫]***⟪त्⟫  
-    ⟪ज्ञा⟫ 9U: Kaus. ***:sig[⟪ज्ञाप⟫]***⟪यति⟫, Aor. ⟪अजि⟫***:sig[⟪ज्ञप⟫]***⟪त्⟫   <!-- TODO: Fallback translation -->
+::: indent
+⟪पॄ⟫ 3P: Kaus. ***:sig[⟪पार⟫]***⟪यति⟫, Aor. ⟪अपि⟫***:sig[⟪पर⟫]***⟪त्⟫
+⟪द्रु⟫ 1P: Kaus. ***:sig[⟪द्राव⟫]***⟪यति⟫, Aor. ⟪अदु⟫***:sig[⟪द्रव⟫]***⟪त्⟫ / ⟪अदि⟫***:sig[⟪द्रव⟫]***⟪त्⟫
+:sig[⟪नी⟫] 1U: Kaus.  ***:sig[⟪नाय⟫]***⟪यति⟫, Aor. ⟪अनी⟫***:sig[⟪नय⟫]***⟪त्⟫
+⟪ज्ञा⟫ 9U: Kaus. ***:sig[⟪ज्ञाप⟫]***⟪यति⟫, Aor. ⟪अजि⟫***:sig[⟪ज्ञप⟫]***⟪त्⟫   <!-- TODO: Fallback translation -->
+:::
 
 *   **\-ī-, -e-, -ai- vor einfachem Konsonanten wird durch -i- ersetzt:**   <!-- TODO: Fallback translation -->
-    ⟪चित्⟫ 1P: Kaus. ***:sig[⟪चेत⟫]***⟪यति⟫, Aor. (Ā) ⟪अची⟫***:sig[⟪चित⟫]***⟪त⟫   <!-- TODO: Fallback translation -->
+::: indent
+⟪चित्⟫ 1P: Kaus. ***:sig[⟪चेत⟫]***⟪यति⟫, Aor. (Ā) ⟪अची⟫***:sig[⟪चित⟫]***⟪त⟫   <!-- TODO: Fallback translation -->
+:::
 
 *   **\-u-, -o-, -au- vor einfachem Konsonanten wird durch -u- ersetzt:**   <!-- TODO: Fallback translation -->
-    ⟪चुर्⟫ 10U: ***:sig[⟪चोर⟫]***⟪यति⟫, Aor. ⟪अचू⟫***:sig[⟪चुर⟫]***⟪त्⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪चुर्⟫ 10U: ***:sig[⟪चोर⟫]***⟪यति⟫, Aor. ⟪अचू⟫***:sig[⟪चुर⟫]***⟪त्⟫ <!-- TODO: Fallback translation -->
+:::
 
 **Bei einigen Wurzeln sind die bisher genannten Veränderungen wahlweise bzw. müssen unterbleiben:** <!-- TODO: Fallback translation -->
 
 *   **dem auslautenden Konsonanten der Stammsilbe unmittelbar vorangehendes, für ṛ, ṝ, ḷ substituiertes ar, ār, īr, al bleibt wahlweise unverändert oder wird durch ṛ bzw. ḷ ersetzt:**   <!-- TODO: Fallback translation -->
-    ⟪कॢप्⟫  1Ā: Kaus. ***:sig[⟪कल्प⟫]***⟪यति⟫, Aor. ⟪अच⟫***:sig[⟪कल्प⟫]***⟪त्⟫ / ⟪अची⟫***:sig[⟪कॢ⟫]***⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U: Kaus. ***:sig[⟪कर्ष⟫]***⟪यति⟫, Aor. ⟪अच⟫***:sig[⟪कर्ष⟫]***⟪त्⟫ / ⟪अची⟫***:sig[⟪कृ⟫]***⟪षत्⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪कॢप्⟫  1Ā: Kaus. ***:sig[⟪कल्प⟫]***⟪यति⟫, Aor. ⟪अच⟫***:sig[⟪कल्प⟫]***⟪त्⟫ / ⟪अची⟫***:sig[⟪कॢ⟫]***⟪पत्⟫
+⟪कृष्⟫ 1P/6U: Kaus. ***:sig[⟪कर्ष⟫]***⟪यति⟫, Aor. ⟪अच⟫***:sig[⟪कर्ष⟫]***⟪त्⟫ / ⟪अची⟫***:sig[⟪कृ⟫]***⟪षत्⟫ <!-- TODO: Fallback translation -->
+:::
 :::
 Vokal der Reduplikationssilbe: <!-- TODO: Fallback translation -->
 
@@ -85,14 +93,18 @@ Nachdem die eben genannten Regeln auf die Stammsilbe angewandt sind, müssen fol
 **Dieser Reduplikationsvokal unterliegt folgenden Veränderungen:** <!-- TODO: Fallback translation -->
 
 *   **i, u wird durch ī, ū ersetzt, wenn die Stammsilbe mit nur einem Konsonanten anfängt und metrisch kurz ist:**   <!-- TODO: Fallback translation -->
-    ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫***:sig[⟪बी⟫]***⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫***:sig[⟪तू⟫]***⟪तुदत्⟫   <!-- TODO: Fallback translation -->
+::: indent
+⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫***:sig[⟪बी⟫]***⟪भिदत्⟫
+⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫***:sig[⟪तू⟫]***⟪तुदत्⟫   <!-- TODO: Fallback translation -->
+:::
 
 *   **a wird durch ī ersetzt, wenn die Stammsilbe metrisch kurz ist und mit nur einem Konsonanten beginnt. Ist die Stammsilbe metrisch kurz und beginnt mit mehr als einem Konsonanten, wird das a der Reduplikationssilbe durch i ersetzt. Ist die Stammsilbe metrisch lang, bleibt das a erhalten:**   <!-- TODO: Fallback translation -->
     :sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, Stammsilbe des Aor. ⟪नय्⟫, Aor. ⟪अ⟫***:sig[⟪नी⟫]***⟪नयत्⟫  
     :sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, Stammsilbe des Aor. ⟪कर्⟫, Aor. ⟪अ⟫***:sig[⟪ची⟫]***⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Stammsilbe des Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***:sig[⟪ति⟫]***⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Stammsilbe des Aor. ⟪भव्⟫, Aor. ⟪अ⟫***:sig[⟪बी⟫]***⟪भवत्⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Stammsilbe des Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***:sig[⟪ति⟫]***⟪त्यजत्⟫
+⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Stammsilbe des Aor. ⟪भव्⟫, Aor. ⟪अ⟫***:sig[⟪बी⟫]***⟪भवत्⟫ <!-- TODO: Fallback translation -->
+:::
 
 Besonderheiten bestimmter Wurzeln bei Kielhorn, Grammatik § 435c ff. <!-- TODO: Fallback translation -->
 

@@ -4,9 +4,9 @@ lesson_id: 31
 status: stable
 ---
 
-# 31. lecke
+# 31. lecke <!-- TODO: Fallback translation -->
 
-## 31.1. A 7. jelen időosztály (⟪रुधादि⟫ = "⟪रुध्⟫ stb.")
+## 31.1. A 7. jelen időosztály (⟪रुधादि⟫ = "⟪रुध्⟫ stb.") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Alakítás:**
@@ -30,7 +30,7 @@ Példák:
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **Kívánó mód (optativus)** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Partizip Jelen idő** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+| **Partizip Jelen idő** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | | <!-- TODO: Fallback translation -->
 
 :::
 ⟪रुध्⟫ 7U "megállítani, leállítani"
@@ -43,7 +43,7 @@ Példák:
 | | **3. pl.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
 | **Kívánó mód (optativus)** | **3. sg.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
 | | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
-| **Partizip Jelen idő** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
+| **Partizip Jelen idő** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -61,7 +61,7 @@ Példa:
 *   Passivum: ⟪भज्यते⟫ (vagy eredeti tőből ⟪भज्⟫ vagy *bhñj-ya-te-ből)
 *   PPP: ⟪भग्न⟫ (lehet, hogy *bhñj + na-ból)
 :::
-## 31.2. Szószedet
+## 31.2. Szószedet <!-- TODO: Fallback translation -->
 
 ⟪युज्⟫ 7U ⟪युनक्ति⟫ : megfogni, beállítani, megfeszíteni, rögzít; Ā továbbá: megfeszül (= erőlködni), kapcsolódik valakihez/valamihez, összpontosít valamire (locativus, ⟪सप्तमी⟫)
 ::: indent
@@ -69,7 +69,7 @@ Példa:
 **Pass. ⟪युज्यते⟫**
 **Kaus. ⟪योजयति⟫**
 **PPP ⟪युक्त⟫**
-**Inf. ⟪योक्तुम्⟫**
+**Inf. ⟪योक्तुम्⟫** <!-- TODO: Fallback translation -->
 
 ebből:
 **⟪युग⟫ n. → ⟪युग⟫ n.:** igás, pár, világkorszak (négy világtörténeti korszak van:
@@ -78,7 +78,7 @@ ebből:
 3. ⟪द्वापर⟫
 4. ⟪कलि⟫
 
-A ⟪कलियुग⟫ i. e. 3102 körül kezdődött, az ⟪महाभारत⟫-háború évében. Részletek Basham, Wonder S. 327.)
+A ⟪कलियुग⟫ i. e. 3102 körül kezdődött, az ⟪महाभारत⟫-háború évében. Részletek Basham, Wonder S. 327.) <!-- TODO: Fallback translation -->
 
 **⟪योग⟫ m.:** "megfogatás, megfeszítés", erőlködés, kapcsolat, jóga (lásd Basham, Wonder S. 327ff.)
 :::
@@ -120,7 +120,7 @@ Jóga ábrázolás.
 :::
 **⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : szétkenni = megfesteni, elkülöníteni
 ::: indent
-**PPP ⟪व्यक्त⟫ :** elkülönített, kibontott
+**PPP ⟪व्यक्त⟫ :** elkülönített, kibontott <!-- TODO: Fallback translation -->
 
 ebből:
 **⟪व्यञ्जन⟫ n.:** megkülönböztető eszköz = festék, fűszer, jel, mássalhangzó (az, amivel a jelentések megkülönböztetve vannak)
@@ -145,7 +145,7 @@ Kathakali-tánc előkészítése, Kochi.
 **Pass. ⟪भुज्यते⟫**
 **Kaus. ⟪भोजयति⟫**
 **PPP bhukt → PPP ⟪भुक्त⟫**
-**Inf. ⟪भोक्तुम्⟫**
+**Inf. ⟪भोक्तुम्⟫** <!-- TODO: Fallback translation -->
 
 ebből:
 **⟪भोग⟫ m.:** élvezet, étkezés, öröm, haszon, adó, illeték
@@ -178,7 +178,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 ## 31.3. Gyakorlat
 
-A) Fordítsa le a következő mondatokat, és bontsa fel a szanszkrit összetételeket:
+A) Fordítsa le a következő mondatokat, és bontsa fel a szanszkrit összetételeket: <!-- TODO: Fallback translation -->
 
 ⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫
 
@@ -218,7 +218,7 @@ B) Alakítsa ki a következő 7. osztályú gyökökből az igemód jelen idejé
 
 **lekt3101:** Jógabemutatás. [Képmegjelenítés: Flickr, 2008-12-25. CC BY]
 
-**lekt3102:** Előkészületek a kathakali táncra, Kochi. [Képmegjelenítés: winchrisabi. Flickr, 2008-12-25. CC BY]
+**lekt3102:** Előkészületek a kathakali táncra, Kochi. [Képmegjelenítés: winchrisabi. Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
 
 **lekt3103:** Egy Prajñāpāramitā kéziratból. [Képmegjelenítés: zeno.org. Közterület]
 

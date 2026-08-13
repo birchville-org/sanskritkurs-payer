@@ -121,7 +121,7 @@ Să se spună adevăruri plăcute, să nu se spună adevăruri neplăcute; să n
 Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung048))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Determinarea formei cuvântului
 

@@ -1,20 +1,20 @@
 ---
 title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+subtitle: "Die 9. classa da preschent (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 ---
 
-# Lektion 30
+# Lecziun 30
 
 ## 30.1. La 9. classa dal temp preschent (⟪kryādi⟫ = "⟪krī⟫ e.u.v.")
 
 ::: grammar-box
 **Educaziun:**
 
-*   Stamm stark: Radisniveau tief + -nā-
+*   Stamm stark: Radisniveau tief + -nā- <!-- TODO: Fallback translation -->
 
 *   stem debole:
 
@@ -96,7 +96,7 @@ Ezempli:
 
 **dargestellt werden soll.**
 :::
-Beispiel:
+Beispiel: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Scheu ch'el dal vitg, el na udess il maister"
@@ -104,7 +104,7 @@ Beispiel:
 ::: grammar-box
 **3. Fratschas relativas cun optativ han a vartas il significà: "Sche in ustra ..."**
 :::
-Esempel:
+Esempel: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Schei na chaschtaivüna, schei na chaschtaivüna = Schei na chaschtaivüna, schei na chaschtaivüna"
@@ -128,13 +128,13 @@ L'optativ (⟪लिङ्⟫), l'imperfet (⟪लङ्⟫), l'aorist (⟪ल�
 ::: grammar-box
 **avant las finas che cumenzan cun consonantas:**
 
-**Stampa da preschent + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen**
+**Stampa da preschent + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen** <!-- TODO: Fallback translation -->
 
 **davant de sufixes començant per una vocal:**
 
 **Stampa da preschent + -i- (» -e-) + -y- + Sekundärendung**
 :::
-Ezempels:
+Ezempels: <!-- TODO: Fallback translation -->
 
 1\. Classe dal present:
 
@@ -191,7 +191,7 @@ Ezempels:
 
 **schwacher Stampa da preschent + -ī- + Sekundärendung**
 :::
-Beispiele:
+Beispiele: <!-- TODO: Fallback translation -->
 
 2\. Classa da present:
 
@@ -226,7 +226,8 @@ Beispiele:
 | **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ** :br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 
@@ -244,14 +245,14 @@ Beispiele:
 | **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
-## 30.5. Sandhi von auslautendem -r
+## 30.5. Sandhi von auslautendem -r <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Per -ar valan las medemas reglas da Sandhi per -r final sco per -s final.**
 
-**-ar vor tönenden Lauten bleibt -ar, vor r- aber fällt das -r aus und das -a- wird durch -ā- ersetzt.**
+**-ar vor tönenden Lauten bleibt -ar, vor r- aber fällt das -r aus und das -a- vegn sustituì tras -ā- ersetzt.**
 :::
-Exempels:
+Exempels: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
@@ -293,7 +294,7 @@ Inf. ⟪ज्ञातुम्⟫
 
 daquest:
 
-⟪ज्ञाति⟫ m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
+⟪ज्ञाति⟫ m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!) <!-- TODO: Fallback translation -->
 
 ⟪ज्ञान⟫ n.: cunossientscha, savida, cumprender (specialmainamain las "pliras" veritads en la religiusitad e la filosofia)
 :::
@@ -317,7 +318,7 @@ Inf. ⟪पवितुम्⟫
 Abb.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Bildquelle: [Detagls](/rm/licenses#lekt3003))
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : mangiar, consumar
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : mangiar, consumar <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
@@ -344,7 +345,7 @@ Fig.: ⟪प्रिया⟫
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : schei n bet
 :::
-⟪यदि⟫ cuncunciun: sche
+⟪यदि⟫ cuncunciun: sche <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪यद्यपि⟫ : schebbe, schebna, malgrà
@@ -471,7 +472,7 @@ B) Traducìtz ils suandants frasis e resolutiun ils cumponiments en sanscrit:
 ⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
 ⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
 
-## 30.8. Wiederholungsübung zur Formenlehre
+## 30.8. Exercizi da repetiziun zur Formenlehre
 
 Determinar e traducir las siguientes formas verbales:
 

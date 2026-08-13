@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Lecziun 22
 
-A) Formai e traduschai l'absolutiv als suenter ils verbs:
+A) Formai e traduschai l'absolutiv als suenter ils verbs: <!-- TODO: Fallback translation -->
 
 1.  ⟪आप्⟫ — **⟪आप्त्वा⟫** (suenter ch'el ha cuntanschì)
 2.  ⟪प्राप्⟫ — **⟪प्राप्य⟫** (suenter ch'el ha cuntanschì)
@@ -70,7 +70,7 @@ L'eroe kṣatriya entra en la stanza, presenta ses avant il figl dal brahman en 
 
 ⟪६⟫. **⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫**
 (⟪दुःखमादिर्येषां⟫ ⟪तान्यार्याणि⟫ ⟪सत्यानि⟫ ⟪।⟫ ⟪सुष्टु⟫ ⟪गतः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪मार्गेण⟫)
-Il Buddha (Sugata) è vegnì a la conscientscha, ha annunzià la veritad davart la suferientscha ed autras veritads noblas ed ussa guida el ils umans sin il viadi vers la liberaziun.
+Il Buddha (Sugata) è vegnì a la conscientscha, ha annunzià la veritad davart la suferientscha ed autras veritads noblas ed ussa guida el ils umans sin il viadi vers la liberaziun. <!-- TODO: Fallback translation -->
 
 ⟪७⟫. **⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫**
 (⟪यज्ञस्य⟫ ⟪दोषम्⟫)
@@ -92,7 +92,7 @@ Sch'el ha fatg meritoris e mo ha ditg la veritad, vegn in umnan en nagina infern
 Abb.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Font dal maletg: [Detagls](/licenses#uebung034))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Construcziuns dal passiv
 

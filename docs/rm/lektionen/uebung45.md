@@ -1,17 +1,18 @@
 ---
-title: "Esercitaziun 45"
+title: "Esercizi 45"
 uebung_id: 45
-category: "Esercitaziun"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lecziun 45
+# Exercizi 45
 
-A) Traduscha en il sanscrit (utilisescha per il temp passà l'imperfet):
+A) Traduscha en Sanscrit (utilises per il temp passà l'imperfet):
 
 ⟪१⟫. **⟪सङ्घं⟫ ⟪भिनत्सि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Ti sclices la (budistica) cuminanza.
+Ti dischiras la (budistica) communitad.
 
 ⟪२⟫. **⟪किं⟫ ⟪महीमभुङ्क्त⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 Avais vus godì la terra?
@@ -20,46 +21,47 @@ Avais vus godì la terra?
 Has ti dal re in don acceptà?
 
 ⟪४⟫. **⟪साधो⟫ ⟪कस्माद्भयेभ्यो⟫ ⟪न⟫ ⟪बिभेषि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Uman sàc, perchei ti na has ti timur davant privels?
+Uoman sacra, perche has ti nagin timur davant privels?
 
 ⟪५⟫. **⟪पितः⟫ ⟪कुत्र⟫ ⟪गच्छन्कुलं⟫ ⟪जहासि⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Bab, nua che tu vas laschis ti la famiglia?
+Bab, nua vadint laschis ti la famiglia?
 
 ⟪६⟫. **⟪शूद्रे⟫ ⟪ऽपि⟫ ⟪धनिनो⟫ ⟪ब्राह्मणस्य⟫ ⟪गृहं⟫ ⟪भारमबिभः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Femna śūdra, has ti forsa il pes en la casa dal brahman ric transportà?
+Uomana Śūdra, has ti forsa il pes en la casa dal Brahman rich transportà?
 
 ⟪७⟫. **⟪देवि⟫ ⟪कृतपुण्यस्य⟫ ⟪वैश्यस्य⟫ ⟪सुखेष्टिं⟫ ⟪पिपूर्याः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Deessa, ti duvessas il desideri da la glischa dal vaiśya, che ha fatg merit, cuntanscher.
+Deessa, ti duvessas il desideri da la beletad dal Vaiśya, ch'ha fatg merit, ademplir.
 
-⟪८⟫. **⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (Oder: **... ⟪न⟫ ⟪भिन्द्यात⟫ ⟪॥⟫**)
-Elefants, vus duvessais las fittas betg romper.
+⟪८⟫. **⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (Oppure: **... ⟪न⟫ ⟪भिन्द्यात⟫ ⟪॥⟫**)
+Elefants, vus duvrais las ligaduras betg disfarciar.
 
 ⟪९⟫. **⟪नरसिंह⟫ ⟪कस्माद्ब्रह्मणि⟫ ⟪न⟫ ⟪समादधासि⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Ti um leon-gieu, perchei ti dirizas tia attenziun betg intaqueramain sin l'absolut?
+Ti uom simile al lion, perche dirigeschas ti tia attenziun betg cumplettamain sin l'absolut? <!-- TODO: Fallback translation -->
 
 ⟪१०⟫. **⟪कवे⟫ ⟪कच्चिल्लोकानमिमीथाः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 Has ti, o poet, forsa las munds mesirà?
 
 ---
 
-## Test d'exercizi
+## Exercizis da text
 
 B) Traduscha:
 
 ⟪१⟫. **⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Arjuna, u vegns ti uccis e cuntanschas il paradis, u ti victureschas e godas la terra. Perquai è da tei a combatter (ti duvras a combatter).
+Arjuna, u vegnas ti uccis e cuntanschas il paradis, u victureschas e godas la terra. Perquai è da ti da combatter (ti duvras combatter).
 
 ⟪२⟫. **⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Reverend, co avais vus il dolur infinita finì?
+Reverends, co avais ti il dolur infinita finì?
 
 ⟪३⟫. **⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Brahman, has ti butira en il foc da sacrifici versà?
 
 ⟪४⟫. **⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Enemic, cun la spada sclices ti betg l'anim (la vita).
+Enemic, cun la spada dischiras ti betg l'ama (la vita).
 
 ::: media
 ![](/images/uebung074.webp)
 Abb.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung074))
 :::
+ <!-- TODO: Fallback translation -->

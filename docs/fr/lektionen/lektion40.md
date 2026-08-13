@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 40
+# Leçon 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 
@@ -73,7 +73,7 @@ Pour les racines ⟪अनिट्⟫ dites facultatives, la voyelle de liaison
 
 1.sg. = 3.sg.
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   | :---: | :---: | :---: | :---: |
 *   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -134,7 +134,7 @@ Terminaisons de la première personne (⟪तृतीयः⟫) au parfait (⟪
 
 #### 40.2.3.1. Type IIIa du parfait : radical fort en degré fort/étendu, radical faible en degré réduit
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   (Consonne-)(Consonne-)i/ī/u/ū
 *   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -181,7 +181,7 @@ Verben, die diesem Typ folgen:
 :::
 #### 40.2.3.2. Type de parfait IIIb : Radical fort en grade fort/allongé, radical faible en grade fort
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   (Consonne-)(Consonne-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -236,7 +236,7 @@ Terminaisons de la première personne (⟪तृतीयः⟫) au parfait (⟪
 
 #### 40.2.5.1. Type de parfait : Consonne-a-Consonne, radical faible au degré profond
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 ::: indent
 1.  | **-a** | **-ma** | **-e** | **-mahe** |
@@ -312,7 +312,7 @@ Verben, die diesem Typ folgen:
 :::
 #### 40.2.5.3. Type de parfait Vc : Consonne-a-Consonne, radical faible au degré supérieur
 
-Verben, die diesem Typ folgen:
+Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   Toutes les autres racines avec un -a- moyen
 
@@ -606,7 +606,7 @@ B) Transformez les formes verbales suivantes en formes de parfait correspondante
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Wiederholungsübung zur Formenlehre
+## 40.8. Wiederholungsübung zur Formenlehre <!-- TODO: Fallback translation -->
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫

@@ -5,7 +5,7 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 8
 
@@ -53,7 +53,7 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 
 ## 8.3. Algunos sufijos nominales importantes
 
-### 8.3.1. -a m. (kṛt)
+### 8.3.1. -a m. (kṛt) &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **El sufijo kṛt -a forma sustantivos masculinos (rara vez neutros) que designan una acción o un estado indicado por la raíz; a veces también adjetivos o sustantivos que expresan el agente (kartṛ) de la acción indicada por la raíz verbal. Para penúltimas breves (= vocal antes de consonante, en la que termina la raíz) o vocal final de raíz, generalmente se sustituye por el grado alto (guṇa) o el grado alargado (vṛddhi).**
@@ -73,7 +73,7 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "el ser, el (algo) ser, naturaleza, carácter" |
 | **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "combatiente, guerrero, soldado" |
 
-### 8.3.2. -ana n. (kṛt)
+### 8.3.2. -ana n. (kṛt) &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **El sufijo kṛt -ana forma generalmente sustantivos neutros que designan una acción, un estado o el medio o instrumento mediante el cual se lleva a cabo la acción designada por la raíz o el tema verbal. Para una penúltima breve o una vocal final de la raíz, por lo general se sustituye por el grado alto (guṇa).**
@@ -93,7 +93,7 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0801))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: note-box
 **"Darshan"** o **"Darshana"** es un término del hinduismo para la visión y la visión de lo santo y lo divino. Bajo *Darshana* se entiende, por ejemplo, el encuentro oficial entre alumno y maestro, en el que el alumno fue invitado por el maestro. Pero también puede significar el *sumergirse* al contemplar una imagen de un dios. Este último significado es el más común en el uso actual del hindi. En relación con Mata Amritanandamayi, Darshan significa el abrazo del Guru.
@@ -102,7 +102,7 @@ Los hindúes piadosos van al templo para obtener la visión de Dios a través de
 (Fuente: Wikipedia)
 :::
 
-### 8.3.3. -tra n. (kṛt)
+### 8.3.3. -tra n. (kṛt) &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **El sufijo kṛt -tra forma (mayormente) sustantivos neutros, que designan el medio o instrumento, por el cual se lleva a cabo la acción designada por la raíz. La penúltima corta y la vocal final de la raíz se reemplazan por el grado fuerte (guṇa).**
@@ -130,7 +130,7 @@ Los hindúes piadosos van al templo para obtener la visión de Dios a través de
 (Fuentes de las imágenes: [Detalles](/es/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti f. (kṛt)
+### 8.3.4. -ti f. (kṛt) &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 **El sufijo kṛt -ti forma sustantivos femeninos que, en general, expresan la acción designada por la raíz o el estado designado por la raíz. La forma de la raíz es del grado reducido.**
@@ -172,10 +172,14 @@ Estas formaciones pueden crearse prácticamente con cualquier nombre y son muy f
 - **Raíz débil: Raíz + -u- (ante vocal: -v-)**
 
 Ejemplo **tan** 8 U (⟪तन्⟫) "extender":
-- 3\. sg. P. **tanoti**:br⟪तनोति⟫
-- 3\. pl. P. **tanvanti**:br⟪तन्वन्ति⟫
-- 3\. sg. Ā. **tanute**:br⟪तनुते⟫
-- 3\. pl. Ā. **tanvate**:br⟪तन्वते⟫
+- 3\. sg. P. **tanoti**
+⟪तनोति⟫
+- 3\. pl. P. **tanvanti**
+⟪तन्वन्ति⟫
+- 3\. sg. Ā. **tanute**
+⟪तनुते⟫
+- 3\. pl. Ā. **tanvate**
+⟪तन्वते⟫
 :::
 Nota: Respecto a la controversia sobre si **tan** es en realidad una raíz de la 5. clase (*tn » ta + no-), véase Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
@@ -183,10 +187,14 @@ La raíz más importante de la 8. clase es **kṛ** 8 U (⟪कृ⟫) "hacer, r
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "hacer, realizar"**
-- 3\. sg. P. **karoti**:br⟪करोति⟫
-- 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
+- 3\. sg. P. **karoti**
+⟪करोति⟫
+- 3\. pl. P. **kurvanti**
+⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute**
+⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate**
+⟪कुर्वते⟫
 :::
 
 ## 8.5. Lista de palabras

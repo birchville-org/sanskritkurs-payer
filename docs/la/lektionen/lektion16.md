@@ -7,13 +7,13 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 16
+# Lectio 16
 
 ## 16.1. De Sandhi consonantium finalium
 
 Ad compositiones, quarum prima pars stipes consonanti desinens est, sequentes regulae requiruntur:
 
-Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale).
+Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale). <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -21,12 +21,12 @@ Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. kei
 | :--- | :--- |
 | **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
 | **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
+| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
 
 :::
 Exceptionem ad regulam praecedentem:
 
-Auslautender dentaler Verschlusslaut (nicht Nasal):
+Auslautender dentaler Verschlusslaut (nicht Nasal): <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -35,7 +35,7 @@ Auslautender dentaler Verschlusslaut (nicht Nasal):
 | **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- oder -cch-** |
 | **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
+| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
 
 :::
 Exempla:
@@ -90,7 +90,7 @@ ex eo:
 
 ⟪निरोध⟫ m.: Stare, Ad-stare
 
-* **bhūta n.** (⟪भूत⟫) (PPP a bhū): ens, spiritus
+* **bhūta n.** (⟪भूत⟫) (PPP a bhū): ens, spiritus <!-- TODO: Fallback translation -->
 
 ⟪योग⟫ m.: adiungo, connectio, unio, acquisitio; Yoga
 
@@ -172,7 +172,7 @@ B) Solvite in sequentibus sententiis omnia composita Sanscritice, formate ita se
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 
-## 16.4. Wiederholungsübung
+## 16.4. Wiederholungsübung <!-- TODO: Fallback translation -->
 
 A) Formate omnes hucusque casus didictos ad verba sequentia, ut exempla classium declinationis hucusque didictarum.
 

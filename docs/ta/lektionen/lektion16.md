@@ -21,7 +21,7 @@ status: stable
 | :--- | :--- |
 | **நிறுத்தம் மற்றும் ஒலிநிலைக்கு முன்** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
 | **ஒலிநிலைக்கு முன்** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **மூக்கொலிக்கு முன்** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
+| **மூக்கொலிக்கு முன்** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
 
 :::
 மேலே உள்ள விதிக்கு விலக்கு:
@@ -35,7 +35,7 @@ status: stable
 | **கீழ்நிலைக்கு முன்** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- oder -cch-** |
 | **ஒலிநிலைக்கு முன்** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
+| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
 
 :::
 எடுத்துக்காட்டுகள்:

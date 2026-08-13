@@ -79,14 +79,14 @@ Nu se pot stabili reguli fixe privind utilizarea vocalei de legătură -i-. În 
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
 
 ## 23.3. Infinitivul (⟪तुमुन्⟫) pentru rădăcinile învățate până acum
 
@@ -280,7 +280,7 @@ A) Traduceți în sanscrită:
 
 4\. Științele auxiliare ale Vedei sunt: fonetica, ritualistica, gramatica, teoria semnificației, metrica (⟪छन्दस्⟫) și teoria calendaristică.
 
-5\. Yoga este oprirea activităților organelor de gândire.
+5\. Yoga este oprirea activităților organelor de gândire. <!-- TODO: Fallback translation -->
 
 6\. Dreptatea învinge, nu nedreptatea; adevărul învinge, nu minciuna; răbdarea învinge, nu mânia; Dumnezeu învinge, nu un zeu opus. (Pasiv)
 
@@ -302,7 +302,7 @@ Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪�
 
 12\. Săracii au mulți fii, deși nu îi doresc. Cei bogați nu au niciun fiu. Straniu este impulsul destinului.
 
-13\. Cine nu ucide un corp de femeie (⟪वपुस्⟫ f.) cu talie subțire, șolduri late, buze roșii, ochi negri, buric îndoit, sâni drepte.
+13\. Cine nu ucide un corp de femeie (⟪वपुस्⟫ f.) cu talie subțire, șolduri late, buze roșii, ochi negri, buric îndoit, sâni drepte. <!-- TODO: Fallback translation -->
 
 B) Declinați în toate cazurile cunoscute de dumneavoastră ⟪क्षत्रिया⟫ f.
 
@@ -318,7 +318,7 @@ C) Dați formele de bază (semnificație, clasa de prezent, modul, 3. sg. Prezen
 
 ::: deleteme-box
 
-**lekt2301:** Chiang Mai, Thailanda = เชียงใหม่, ประเทศไทย [Sursa imaginii: Wikipedia. Licență GNU FD]
+**lekt2301:** Chiang Mai, Thailanda = เชียงใหม่, ประเทศไทย [Sursa imaginii: Wikipedia. Licență GNU FD] <!-- TODO: Fallback translation -->
 
 **lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Sursa imaginii: de zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Accesat la 2008-12-13. -- Licență Creative Commons (Atribuire, fără utilizare comercială, fără modificări)]
 

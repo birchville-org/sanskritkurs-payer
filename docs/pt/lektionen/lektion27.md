@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 27
 
@@ -32,7 +32,7 @@ status: stable
 Fig.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Fonte da imagem: [Detalhes](/licenses#lekt2701))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -62,7 +62,7 @@ Jaipur, 1875.
 Fig.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rajasthan.
 (Fonte da imagem: [Detalhes](/licenses#lekt2702))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -76,7 +76,7 @@ Rajasthan.
 Fig.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
 (Fonte da imagem: [Detalhes](/licenses#lekt2703))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -163,7 +163,10 @@ Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ �
 Rāma-Satz.
 (Fonte da imagem: [Detalhes](/licenses#lekt2708))
 :::
-:sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫:br :sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br :sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫:br :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
+:sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫
+:sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
+:sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫
+:sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Tradução:**
 1. **Nominativo:** Rāma, a joia (⟪मणि⟫ m.) entre os reis (⟪राजन्⟫ m.), vence sempre (⟪सदा⟫).
@@ -180,7 +183,10 @@ Rāma-Satz.
 ⟪वस्⟫ 1P (⟪वसति⟫): permanecer, morar (com locativo da pessoa com quem se mora)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫
+**Pass.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Inf.:** ⟪वस्तुम्⟫
 :::
 dele:
 
@@ -194,7 +200,9 @@ dele:
 ⟪वस्⟫ 2Ā (⟪वस्ते⟫): vestir (roupa), usar (roupa)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 daí:
 
@@ -223,7 +231,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 ⟪हृ⟫ 1U (⟪हरति⟫): segurar, carregar; buscar, tirar, roubar
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 Dele:
 
@@ -306,7 +317,7 @@ Fig.: ⟪नराः⟫
 Naran. Udaipur.
 (Fonte da imagem: [Detalhes](/licenses#lekt2711))
 :::
-### 27.7.2. Neutros em -a: ⟪फल⟫
+### 27.7.2. Neutros em -a: ⟪फल⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -327,7 +338,7 @@ Fig.: ⟪फलानि⟫
 Frutas. Bangalore.
 (Fonte da imagem: [Detalhes](/licenses#lekt2710))
 :::
-### 27.7.3. Femininos em -ā: ⟪क्षत्रिया⟫
+### 27.7.3. Femininos em -ā: ⟪क्षत्रिया⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -468,7 +479,7 @@ Fig.: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
 (Fonte da imagem: [Detalhes](/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫
+### 27.7.10. ⟪महान्त्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -576,7 +587,7 @@ Sai Baba of Shirdi (1835 - 1918).
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Fonte da imagem: [Detalhes](/licenses#lekt2717))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

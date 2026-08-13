@@ -5,11 +5,11 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 41
 
-## 41.1. ⟪सुभाषिते⟫  (dois provérbios)
+## 41.1. ⟪सुभाषिते⟫  (dois provérbios) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
@@ -23,7 +23,7 @@ Explicação: ⟪पर⟫ "outro"
 ![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (Fonte da imagem: [Detalhes](/licenses#lekt4102))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
@@ -88,11 +88,11 @@ Exemplos:
 ::: grammar-box
 **O sufixo -⟪तव्य⟫ / -⟪तव्या⟫ é anexado a raízes e a temas verbais derivados (p. ex., causativo) da mesma maneira que o sufixo de infinitivo -⟪तुम्⟫ (v. [Lição 23](lektion23.md)), ou seja,**
 
-* **raiz de grau forte + ⟪तव्य⟫**
+* **raiz de grau forte + ⟪तव्य⟫** <!-- TODO: Fallback translation -->
 
 ou
 
-* **raiz de grau forte + -i- + ⟪तव्य⟫**
+* **raiz de grau forte + -i- + ⟪तव्य⟫** <!-- TODO: Fallback translation -->
 
 **No causativo:**
 
@@ -114,7 +114,7 @@ Exemplos:
 ::: grammar-box
 **Formação:**
 
-Raiz em grau forte + -⟪अनीय⟫ / -⟪अनीया⟫
+Raiz em grau forte + -⟪अनीय⟫ / -⟪अनीया⟫ <!-- TODO: Fallback translation -->
 
 **Causativo e 10ª classe do presente:**
 
@@ -131,7 +131,7 @@ Exemplos:
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "o que deve ser feito" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "o que se deve ver; digno de ser visto" |
 | ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "aquele que deve ser despertado" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "o que se deve mandar dar" |
+| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "o que se deve mandar dar" | <!-- TODO: Fallback translation -->
 
 :::
 #### 41.2.2.3. O sufixo -⟪य⟫ / -⟪या⟫
@@ -143,7 +143,7 @@ Raiz (no grau zero, pleno ou alongado) + -⟪य⟫
 
 As regras exatas podem ser consultadas em Kielhorn, Grammatik der Sanskrit-Sprache, p. 195 - 197!
 :::
-Tratamento das vogais finais:
+Tratamento das vogais finais: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **1. Raízes em -ā formam este gerundivo em -eya**
@@ -187,7 +187,7 @@ Exemplos:
 ![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4103))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **2b. Raízes em -u /-ū substituem o -o do grau guṇa antes de -ya por -av, e o -au do grau vṛddhi por -āv. A formação com o grau vṛddhi significa, neste caso, necessidade.**
@@ -204,7 +204,7 @@ Exemplo:
 :::
 Exemplos de raízes terminadas em consoante (regras cf. Kielhorn, Gramática § 533ss.):
 
-Formação de grau zero:
+Formação de grau zero: <!-- TODO: Fallback translation -->
 
 Exemplos:
 
@@ -221,7 +221,7 @@ Exemplos:
 Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4106))
 :::
-Formação avançada:
+Formação avançada: <!-- TODO: Fallback translation -->
 
 Exemplos:
 
@@ -329,7 +329,7 @@ Fig.: ⟪भुजङ्गः⟫
 Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4104))
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : repreender, dominar, ordenar, ensinar
+⟪शास्⟫ 2P ⟪शास्ति⟫ : repreender, dominar, ordenar, ensinar <!-- TODO: Fallback translation -->
 
 ::: indent
 tem o tema fraco do presente ⟪शिष्⟫ : ⟪शिष्मस्⟫, mas a 3ª Pl. P. tem o tema forte: ⟪शासति⟫ (!! terminação -ati) juntamente com o ocasional ⟪शासन्ति⟫. ⟪अशासुर्⟫. Também todo o ⟪आत्मनेपद⟫, na medida em que ocorre, tem o tema forte: ⟪शास्ते⟫
@@ -349,7 +349,7 @@ daí:
 ![lekt4109.jpg](/images/lekt4109.webp)
 Fig.: ⟪शासना⟫
 (Fonte da imagem: [Details](/licenses#lekt4109))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪शास्त्र⟫ n.: doutrina, tratado
@@ -360,7 +360,7 @@ Fig.: ⟪शासना⟫
 ![lekt4110.jpg](/images/lekt4110.webp)
 Fig.: ⟪शास्त्री⟫
 (Fonte da imagem: [Details](/licenses#lekt4110))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪शिष्य⟫ 3: aquele que deve ser ensinado = discípulo

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 56
 
-Határozza meg és fordítsa le a következő alakokat:
+Határozza meg és fordítsa le a következő alakokat: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Szám. | Alak | Meghatározás / Jelentés |
@@ -52,7 +52,7 @@ Határozza meg és fordítsa le a következő alakokat:
 | ⟪३५⟫. | ⟪कन्ये⟫ | :sig[⟪कन्या⟫] f.: Vok. Sg.; Nom. Akk. Vok. Du. (lány) |
 | ⟪३६⟫. | ⟪सौमि⟫ | :sig[⟪सु⟫] 2P: 1. Sg. Ind. Präs. P. (szaporodom) |
 | ⟪३७⟫. | ⟪आर्पिपन्⟫ | :sig[⟪ऋ⟫] 1P: 3. Pl. Redupl. Aor. P. Kaus. (mozgásba hozták) |
-| ⟪३८⟫. | ⟪परिव्राट्⟫ | :sig[⟪परिव्राज्⟫] m.: Nom. Vok. Sg. (vándorló szerzetes) |
+| ⟪३८⟫. | ⟪परिव्राट्⟫ | :sig[⟪परिव्राज्⟫] m.: Nom. Vok. Sg. (vándorló szerzetes) | <!-- TODO: Fallback translation -->
 
 | ⟪३९⟫. | ⟪जेरिम⟫ | :sig[⟪जॄ⟫] 4/9P: 1. Pl. Perf. P. (öregedtünk) |
 | ⟪४०⟫. | ⟪अततर्पत⟫ | :sig[⟪तृप्⟫] 4/6P: 2. Pl. P. / 3. Sg. Ā. Redupl. Aor. Kaus. |
@@ -93,7 +93,7 @@ Határozza meg és fordítsa le a következő alakokat:
 | ⟪७५⟫. | ⟪अहो⟫] jaj, baj (Interj.) |
 | ⟪७६⟫. | ⟪एकशः⟫ | egyesével (Adv.) |
 | ⟪७७⟫. | ⟪अपप्तः⟫ | :sig[⟪पत्⟫] 1P: 2. Sg. Redupl. Aor. P. (repültél) |
-| ⟪७८⟫. | ⟪अकस्मात्⟫ | váratlanul (Adv.) |
+| ⟪७८⟫. | ⟪अकस्मात्⟫ | váratlanul (Adv.) | <!-- TODO: Fallback translation -->
 
 | ⟪७९⟫. | ⟪मित्रध्रुक्⟫ | :sig[⟪मित्रद्रुह्⟫]: Nominativus, vocativus, singularis, masculinum, femininum, neutrum (ellenségpusztító) |
 | ⟪८०⟫. | ⟪अवोचन्⟫ | :sig[⟪वच्⟩] 2P: 3. Pluralis, a-aoristus, activa (ők mondták) |

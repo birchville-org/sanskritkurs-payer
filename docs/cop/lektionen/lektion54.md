@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 54
+# ⲙⲁⲑⲏⲙⲁ 54
 
 ## 54.1. ⲡⲣⲟⲥⲏⲙⲉⲓⲱⲥⲓⲥ
 

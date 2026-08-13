@@ -48,7 +48,7 @@ status: stable
 **Pentru Nom. sg. masc.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) apare înainte de toate sunetele, cu excepția scurtului **-a**
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) apare înainte de **-a**, care este elidat prin Avagraha (dispare)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) apare doar în pauză (sfârșit de propoziție, sfârșit de vers)
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) apare doar în pauză (sfârșit de propoziție, sfârșit de vers) <!-- TODO: Fallback translation -->
 
 Pentru a putea forma propoziții cu aceste pronume (sarvanāman n.), este necesară cunoașterea următoarelor reguli de Sandhi:
 

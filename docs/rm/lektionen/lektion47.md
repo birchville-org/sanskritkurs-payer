@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 47
+# Lecziun 47
 
 ## 47.1. L'imperativ (⟪लोट्⟫)
 
@@ -21,7 +21,7 @@ L'imperativ (⟪⟪लोट्⟫⟫) designescha
 *   **Bitte**
 *   **Einladung**
 *   **Überlegung**
-*   **Frage**
+*   **Frage** <!-- TODO: Fallback translation -->
 
 Las significaziuns numnadas ha el en cumina cun l'optativ (⟪विधिलिङ्⟫).
 
@@ -187,21 +187,21 @@ B.) Tradusci en Sanscrit (utilisescha l'imperativ):
 
 1\. Jau vegl esser.
 
-2\. El du esser cuntent.
+2\. El du esser cuntent. <!-- TODO: Fallback translation -->
 
 3\. Nus vulain clamar.
 
-4\. Jau veglirai cun ti (⟪चतुर्थ्या⟫).
+4\. Jau veglirai cun ti (⟪चतुर्थ्या⟫). <!-- TODO: Fallback translation -->
 
 5\. Questa acziun duai vegnir fatga.
 
 6\. Els dezan (construcziun passiva).
 
-7\. Figl meu, tschertga la dividas!
+7\. Figl meu, tschertga la dividas! <!-- TODO: Fallback translation -->
 
 8\. Cumenza il studi!
 
-9\. Datei (⟪प्र⟫-⟪यम्⟫) als offrendas a l'antschads sferas da ris!
+9\. Datei (⟪प्र⟫-⟪यम्⟫) als offrendas a l'antschads sferas da ris! <!-- TODO: Fallback translation -->
 
 10\. Els/ellas han da alegrar-si!
 
@@ -241,7 +241,7 @@ B.) Tradusci en Sanscrit (utilisescha l'imperativ):
 
 28\. Il caval duai trair la carga.
 
-29\. Vuleg ordenar las munds.
+29\. Vuleg ordenar las munds. <!-- TODO: Fallback translation -->
 
 30\. Beva la pozion!
 

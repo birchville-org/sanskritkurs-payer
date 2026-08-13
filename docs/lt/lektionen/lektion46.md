@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 46
+# Pamoka 46
 
 ## 46.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
 

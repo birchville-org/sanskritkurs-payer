@@ -12,7 +12,7 @@ status: stable
 ## 52.1. خنثی پایه‌های ختم شده به -i و -u
 
 ::: grammar-box
-**Vor vokalisch anlautenden Endungen wird ein -n- eingeschoben, dies ist ein Einfluss der n-Stämme (-in).** <!-- TODO: Fallback translation -->
+**پیش از پایان‌هایی که با وکال آغاز می‌شوند، یک -n- درج می‌گردد که این تحت تأثیر ریشه‌های n- (-in) است.**
 :::
 ::: grammar-box
 | | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
@@ -38,179 +38,179 @@ status: stable
 ### 52.2.1. PPP + -vant: اسم مفعول گذشته پاراسمایپادا
 
 ::: grammar-box
-**Ein Partizip Parasmaipada der Vergangenheit wird so gebildet:** <!-- TODO: Fallback translation -->
+**پارتیسیپ گذشته پاراسمایاپادا به این شکل ساخته می‌شود:**
 
-**PPP + -vant / fem.: vatī**
-**Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫** <!-- TODO: Fallback translation -->
+**PPP + -vant / مؤنث: vatī**
+**صرف مانند بن‌های منتهی به -vant یا مؤنث ⟪देवी⟫**
 :::
-PPP + -vant / fem.: vatī <!-- TODO: Fallback translation -->
+PPP + -vant / مؤنث: vatī
 
-Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫ <!-- TODO: Fallback translation -->
+صرف مانند بن‌های منتهی به -vant یا مؤنث ⟪देवी⟫
 
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "einer/eine, der/die getan hat" <!-- TODO: Fallback translation -->
+⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "کسی که عمل کرده است"
 
-⟪भिन्नवन्त्⟫ "einer, der gespalten hat" <!-- TODO: Fallback translation -->
+⟪भिन्नवन्त्⟫ "کسی که شکافته است"
 :::
-### 52.2.2. پسوند ⟪तद्धित⟫ -maya / -mayī
+### 52.2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
 
 ::: grammar-box
-**Das ⟪तद्धित⟫-Suffix -maya / f.: -mayī bildet zu Substantiven Adjektive der Bedeutung** <!-- TODO: Fallback translation -->
+**پسوند ⟪तद्धित⟫ -maya / مؤنث: -mayī از اسم‌ها، صفت‌هایی با معنی**
 
-*   **"gemacht aus"** <!-- TODO: Fallback translation -->
-*   **"bestehend aus"** <!-- TODO: Fallback translation -->
-*   **"reich an"** <!-- TODO: Fallback translation -->
+*   **"ساخته شده از"**
+*   **"متشکل از"**
+*   **"غنی از"**
 
-**Vor -maya müssen (wie vor -⟪मात्र⟫) auslautende Verschlusslaute der Pausaform durch den ihnen entsprechenden Nasal ersetzt werden.** <!-- TODO: Fallback translation -->
+**صدای‌های بستهٔ پایان‌یافته، مانند صداهای پیش از -⟪मात्र⟫ (و همچنین در حالت مکث)، باید با جایگزین شدن به‌وسیلهٔ معادل بینی خود، تغییر یابند.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-⟪अन्नमय⟫ 3 "reich an Speise" <!-- TODO: Fallback translation -->
+⟪अन्नमय⟫ ۳ «غنی از غذا»
 
-⟪चिन्मय⟫ 3 (zu ⟪चित्⟫ f. "Intellekt") "aus Denken / Verstand bestehend" <!-- TODO: Fallback translation -->
+⟪चिन्मय⟫ ۳ (به‌سوی ⟪चित्⟫ مؤنث «عقل») «متشکل از فکر/ذهن»
 
-⟪वाङ्मय⟫ 3 (zu ⟪वाच्⟫ f. "Sprache") "aus Rede bestehend" <!-- TODO: Fallback translation -->
+⟪वाङ्मय⟫ ۳ (به‌سوی ⟪वाच्⟫ مؤنث «زبان») «متشکل از گفتار»
 
-⟪सोममय⟫ 3 "aus Soma gemacht, aus Soma bestehend" <!-- TODO: Fallback translation -->
+⟪सोममय⟫ ۳ «ساخته‌شده از سوم، ساخته‌از سوم»
 :::
 ::: grammar-box
-**Nomina auf -maya werden gelegentlich als neutrale Substantive gebraucht und bezeichnen dann Überfluss an dem, was durch das Substantiv, dem -maya angefügt ist, bezeichnet wird.** <!-- TODO: Fallback translation -->
+**اسم‌های با پسوند -maya گاه به عنوان اسم‌های خنثی استفاده می‌شوند و در این صورت بر فراوانی آن چیزی که توسط اسم، به -maya متصل شده است، دلالت دارند.**
 :::
 ::: indent
-z.B. ⟪अन्नमय⟫ n. "Überfluss an Speise" <!-- TODO: Fallback translation -->
+مثلاً ⟪अन्नमय⟫ n. «فراوانی غذا»
 :::
 ::: media
 ![](/images/lekt5202.webp)
-Abb.: ⟪अन्नमयम्⟫
-⟪विवाहः⟫, Chennai = சென்னை
-(Bildquelle: [Details](/licenses#lekt5202)) <!-- TODO: Fallback translation -->
+تصویر: ⟪अन्नमयम्⟫
+⟪विवाहः⟫، چنای = சென்னை
+(منبع تصویر: [جزئیات](/licenses#lekt5202))
 :::
 ### 52.2.3. پسوند ⟪تدهیت⟫ -eya
 
 ::: grammar-box
-**Das ⟪तद्धित⟫-Suffix -eya / f.: -eyī tritt u.a. an Feminina im Sinne von** <!-- TODO: Fallback translation -->
+**پسوند ⟪तद्धित⟫ -eya / مؤنث: -eyī عمدتاً به اسم‌های مؤنث به معنای**
 
-*   **"Kind der"** <!-- TODO: Fallback translation -->
-*   **"Nachkomme der"** <!-- TODO: Fallback translation -->
+*   **«فرزندِ»**
+*   **«نوه/دور از نسلِ»**
 
-**Dehnstufe (⟪वृद्धि⟫) des ersten Vokals.** <!-- TODO: Fallback translation -->
+**درجه کشیده (⟪वृद्धि⟫) اولین وکال.**
 
-z.B. ⟪कौन्तेय⟫ m. "Sohn der ⟪कुन्ती⟫" <!-- TODO: Fallback translation -->
+به عنوان مثال ⟪कौन्तेय⟫ m. "پسرِ ⟪कुन्ती⟫"
 :::
 ::: media
 ![](/images/lekt5203.webp)
-Abb.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
-Wayang-Figur, Java, Indonesien
-(Bildquelle: [Details](/licenses#lekt5203)) <!-- TODO: Fallback translation -->
+تصویر: ⟪भीमः⟫ ⟪कौन्तेयः⟫
+شخصیت وایانگ، جاوا، اندونزی
+(منبع تصویر: [جزئیات](/licenses#lekt5203))
 :::
 ## 52.3. ساخت قید: پسوند قیدی -śas
 
 ::: grammar-box
-**Das Adverbialsuffix -śas bildet Adverbien von (hauptsächlich) distributiver Bedeutung aus:** <!-- TODO: Fallback translation -->
+**پسوند قیدی -śas از (عمدتاً) کلماتی با معنای توزیع‌پذیر، قید می‌سازد:**
 
-*   **Zahlwörtern**   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪एकशस्⟫ "einzeln, je einer"  
-    ⟪द्विशस्⟫ "zu zweien, je zwei"  
-    ⟪शतशस्⟫ "zu hunderten, je hundert" <!-- TODO: Fallback translation -->
+*   **اعداد**
+مثال‌ها:  
+⟪एकशस्⟫ "تکی، یکی‌یکی"  
+⟪द्विशस्⟫ "دوتایی، دو تا دو تا"  
+⟪शतशस्⟫ "صدها، صد تا صد تا"
 
-*   **anderen Wörtern**   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪भागशस्⟫ "Teil für Teil"  
-    ⟪सर्वशस्⟫ "überall, gar alle"  
-    ⟪नित्यशस्⟫ "beständig" <!-- TODO: Fallback translation -->
+*   **سایر کلمات**
+مثال‌ها:  
+⟪भागशस्⟫ "بخش به بخش"  
+⟪सर्वशस्⟫ "همه جا، کاملاً همه"  
+⟪नित्यशस्⟫ "مداوم"
 :::
 ::: media
 ![](/images/lekt5204.webp)
-Abb.: ⟪अनुक्रमेणैकशः⟫
-Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
-(Bildquelle: [Details](/licenses#lekt5204)) <!-- TODO: Fallback translation -->
+تصویر: ⟪अनुक्रमेणैकशः⟫
+صف انتظار در مقابل معبد، تریواندروم = تیریوانانتاپورام = തിരുവനന്തപുരം
+(منبع تصویر: [جزئیات](/licenses#lekt5204))
 :::
 ## 52.4. ترکیبات فعلی که بیان می‌کنند چیزی به چیزی تبدیل می‌شود یا ساخته می‌شود که قبلاً نبوده است (⟪अभुततद्भावः⟫)
 
 ### 52.4.1. ساختارهای cvi
 
 ::: grammar-box
-**Vor die Wurzeln** <!-- TODO: Fallback translation -->
+**به ریشه‌ها**
 
-*   **⟪कृ⟫ 8U "tun"** <!-- TODO: Fallback translation -->
-*   **⟪अस्⟫ 2P "sein"** <!-- TODO: Fallback translation -->
-*   **⟪भू⟫ 1P "werden"** <!-- TODO: Fallback translation -->
+*   **⟪कृ⟫ 8U "کردن"**
+*   **⟪अस्⟫ 2P "بودن"**
+*   **⟪भू⟫ 1P "شدن"**
 
-**können Substantive und Adjektive als Präverbe gesetzt werden werden, um auszudrücken, dass jemand eine Person oder Sache zu dem macht, oder dass eine Person oder Sache zu dem wird, was durch jenes Nomen bezeichnet wird.** <!-- TODO: Fallback translation -->
+**اسم‌ها و صفت‌ها می‌توانند به عنوان پیشوند قرار گیرند تا بیان کنند که کسی یا چیزی شخص یا چیز دیگری را به آن تبدیل می‌کند، یا اینکه یک شخص یا چیز به آنچه توسط آن اسم مشخص شده است، تبدیل می‌شود.**
 
-**Der Auslaut des Nomens wird folgendermaßen behandelt:** <!-- TODO: Fallback translation -->
+**پایان اسم به شرح زیر پردازش می‌شود:**
 
-Der Auslaut des Nomens wird folgendermaßen behandelt: <!-- TODO: Fallback translation -->
+پایان اسم به این صورت پردازش می‌شود:
 
-*   **auslautendes -a und -ā deklinierbarer Wörter werden durch -ī ersetzt  ** <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪कृष्णीभवति⟫ "etwas, das nicht schwarz ist, wird schwarz"  
-    ⟪कृष्णीकरोति⟫ "er macht etwas, das nicht schwarz ist, schwarz"  
-    ⟪गङ्गीभवति⟫ "er/sie wird zum Ganges"   <!-- TODO: Fallback translation -->
+*   **پایان -a و -ā در کلمات قابل صرف، با -ī جایگزین می‌شوند**
+مثال‌ها:  
+⟪कृष्णीभवति⟫ "چیزی که سیاه نیست، سیاه می‌شود"  
+⟪कृष्णीकरोति⟫ "او چیزی را که سیاه نیست، سیاه می‌کند"  
+⟪गङ्गीभवति⟫ "او/ایشان به گنگ تبدیل می‌شود"
 
-*   **auslautendes -i und -u werden durch den entsprechenden Langvokal ersetzt  ** <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪शुचीभवति⟫ "er/sie/es wird rein"  
-    ⟪गुरूभवामि⟫ "ich werde Meister"   <!-- TODO: Fallback translation -->
+*   **پایان -i و -u با صدای بلند (long vowel) متناظر جایگزین می‌شوند**
+مثال‌ها:  
+⟪शुचीभवति⟫ "او/ایشان/آن پاک می‌شود"  
+⟪गुरूभवामि⟫ "من استاد می‌شوم"
 
-*   **auslautendes -ṛ wird durch --rī ersetzt  ** <!-- TODO: Fallback translation -->
-    z.B. ⟪पित्रीभवति⟫ "einer, der nicht Vater (⟪पितृ⟫) ist, wird Vater = ein Mann bekommt sein erstes Kind"   <!-- TODO: Fallback translation -->
+*   **پایان -ṛ با --rī جایگزین می‌شود**
+مثلاً ⟪पित्रीभवति⟫ "کسی که پدر (⟪पितृ⟫) نیست، پدر می‌شود = مردی که فرزند اول خود را به دنیا می‌آورد"
 
-*   **auslautendes -n fällt ab und der vorausgehende Vokal wird nach den eben genannten Regeln behandelt  ** <!-- TODO: Fallback translation -->
-    z.B. ⟪राजीबभूव⟫ "einer (der nicht König war) wurde König (⟪राजन्⟫)"   <!-- TODO: Fallback translation -->
+*   **حرف -n پایانی حذف شده و مصوت پیشین بر اساس قواعد ذکرشده در بالا رفتار می‌شود.**
+مثال: ⟪राजीबभूव⟫ "یکی (که پادشاه نبود) پادشاه شد (⟪राजन्⟫)"
 
-*   **mehrstämmige andere Nomina stehen in der Form des Stammes, den sie im Lokativ (⟪सप्तमी⟫) Plural haben. Der Stamm unterliegt dann den üblichen Sandhiregeln. Siehe Kielhorn, Grammatik § 489,3.  ** <!-- TODO: Fallback translation -->
-    z.B. ⟪तिर्यक्करोति⟫ "er legt seitwärts (⟪तिर्यच्⟫)" <!-- TODO: Fallback translation -->
+*   **اسامی دیگر چندبن در حالت بن، که آن‌ها در مکانیت (⟪सप्तमी⟫) جمع دارند، ظاهر می‌شوند. سپس بن تحت قواعد معمول ساندھی قرار می‌گیرد. به کیلهورن، دستور زبان § 489,3 مراجعه کنید.**
+مثال: ⟪तिर्यक्करोति⟫ "او به طرفین می‌گذارد (⟪तिर्यच्⟫)"
 :::
 ::: media
 ![](/images/lekt5209.webp)
-Abb.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
-Brandrodung, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Bildquelle: [Details](/licenses#lekt5209)) <!-- TODO: Fallback translation -->
+تصویر: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
+آتش‌زدن برای کشاورزی، آرونچال پرادش = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5209))
 :::
 ### 52.4.2. پسوند -sāt
 
 ::: grammar-box
-**Um auszudrücken, dass eine Person oder Sache vollständig zu dem wird, oder dass jemand etwas oder jemand ganz und gar zu dem macht, was durch ein Nomen bezeichnet wird, kann an das Nomen** <!-- TODO: Fallback translation -->
+**برای بیان اینکه یک شخص یا چیز کاملاً به آن تبدیل می‌شود، یا کسی چیزی یا کسی را تماماً به آنچه که توسط یک اسم مشخص شده است تبدیل می‌کند، می‌توان به آن اسم**
 
-**das Suffix -sāt (das nie -ṣāt wird)** <!-- TODO: Fallback translation -->
+**پسوند -sāt (که هرگز -ṣāt نمی‌شود) اضافه کرد**
 
-**angefügt werden und das so gebildete Wort mit den Wurzeln** <!-- TODO: Fallback translation -->
+**اضافه شوند و کلمه تشکیل‌شده با ریشه‌ها**
 
-*   ⟪कृ⟫ 8U "tun" <!-- TODO: Fallback translation -->
-*   ⟪अस्⟫ 2P "sein" <!-- TODO: Fallback translation -->
-*   ⟪भू⟫ 1P "werden" <!-- TODO: Fallback translation -->
+*   ⟪कृ⟫ 8U "کردن"
+*   ⟪अस्⟫ 2P "بودن"
+*   ⟪भू⟫ 1P "شدن"
 *   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
-**zu einem Verbalkompositum verbunden werden.** <!-- TODO: Fallback translation -->
+**به یک ترکیب فعلی متصل شوند.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫  "er wird vollständig zu Feuer" <!-- TODO: Fallback translation -->
+⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫  "او به طور کامل آتش می‌شود"
 
-⟪भस्मसात्करोति⟫ "er verwandelt ganz und gar in Asche (⟪भस्मन्⟫ n. "Asche")) <!-- TODO: Fallback translation -->
+⟪भस्मसात्करोति⟫ «او کاملاً به خاکستر تبدیل می‌شود (⟪भस्मन्⟫ n. «خاکستر»))
 :::
 ::: grammar-box
 **Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
 
-*   **von dem abhängig wird oder** <!-- TODO: Fallback translation -->
-*   **in den Besitz dessen übergeht** <!-- TODO: Fallback translation -->
-*   **oder dass jemand von dem abhängig macht** <!-- TODO: Fallback translation -->
+*   **وابسته به کسی باشد یا**
+*   **در مالکیت آن شخص قرار گیرد**
+*   **یا اینکه دیگری را به او وابسته کند**
 
-**das vom Nomen bezeichnet wird** <!-- TODO: Fallback translation -->
+**آنچه توسط اسم اشاره می‌شود**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+مثال:
 
 ::: indent
-⟪राजसाद्भवति⟫ "er wird vom König abhängig, er wird Eigentum des Königs" <!-- TODO: Fallback translation -->
+⟪राजसाद्भवति⟫ «او تحت نفوذ پادشاه قرار می‌گیرد، او مالکیت پادشاه می‌شود»
 :::
 ::: grammar-box
-**Nach den Bildungen mit -sāt werden Wurzeln nicht wie nach Präverben behandelt, also Absolutiv:** <!-- TODO: Fallback translation -->
+**بر اساس ساختارهای با پسوند -sāt، ریشه‌ها برخلاف حالتی که پیشوندها باشند، رفتار نمی‌شوند؛ بنابراین ابسولوتیو:**
 
 :::
 ::: indent
@@ -219,300 +219,300 @@ Beispiel: <!-- TODO: Fallback translation -->
 ## 52.5. تکرار کلمات (⟪द्विरुक्तम्⟫)
 
 ::: grammar-box
-**Wortwiederholung drückt im Sanskrit aus:** <!-- TODO: Fallback translation -->
+**تکرار واژه در سنسکیت بیانگر:**
 
-*   **Wiederholung der Handlung**   <!-- TODO: Fallback translation -->
-    z.B. ⟪पुनः⟫ ⟪पुनः⟫ "immer wieder" <!-- TODO: Fallback translation -->
-*   **Distribution**   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪पृथक्पृथक्⟫ "je gesondert, je einzeln"  
-    ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "was auch immer ... das alles"  
-    ⟪युगे⟫ ⟪युगे⟫ "in jedem einzelnen Weltzeitalter" <!-- TODO: Fallback translation -->
+*   **تکرار عمل**
+مثلاً ⟪पुनः⟫ ⟪पुनः⟫ "همیشه و مکرر"
+*   **توزیع**
+مثال‌ها:  
+⟪पृथक्पृथक्⟫ "به‌طور جداگانه، به‌تک‌تک"  
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "هر چه باشد ... همه آن‌ها"  
+⟪युगे⟫ ⟪युगे⟫ "در هر یک از یگانه‌ی دوران‌های جهان"
 
-**Gelegentlich kann aus solchen Verbindungen ein Kompositum gebildet werden** <!-- TODO: Fallback translation -->
+**گاهی اوقات می‌توان از چنین ترکیباتی یک کلمه مرکب (کومپوزیت) ساخت**
 
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-⟪एकैक⟫ 3 "jeder einzelne"
-⟪अल्पाल्प⟫ 3 "ganz klein"
-⟪नवनव⟫ 3 "stets neu" <!-- TODO: Fallback translation -->
+⟪एकैक⟫ 3 «هر یک به تنهایی»
+⟪अल्पाल्प⟫ 3 «بسیار کوچک»
+⟪नवनव⟫ 3 «همیشه تازه»
 :::
-Zu den sog. ⟪आम्रेडित⟫-Komposita, in denen flektierte Wörter wiederholt werden, das zweite aber in vorklassischer Zeit einen Akzent bekam, also ein Kompositum vorliegt, siehe Wackernagel, Altindische Grammatik II,1 S. 142ff. <!-- TODO: Fallback translation -->
+دربارهٔ ترکیب‌های به اصطلاح ⟪आम्रेडित⟫ که در آن‌ها کلمات صرف‌شده تکرار می‌شوند و واژهٔ دوم در دوران پیشاکلاسیک دارای تأکید (آکسنت) می‌شد، به این ترتیب یک ترکیب محسوب می‌شوند، مراجعه کنید به واکرناگل، دستور زبان هند باستان II,1 ص ۱۴۲ به بعد.
 ## 52.6. عدد (⟪सम्ख्या⟫ مؤنث)
 
-Hier nicht behandeltes siehe z.B. bei Kielhorn, Grammatik §201f. <!-- TODO: Fallback translation -->
+مواردی که در اینجا بررسی نشده‌اند، به عنوان مثال مراجعه کنید به کیلهورن، دستور زبان §201f.
 
 ### 52.6.1. اعداد اصلی
 
-#### 52.6.1.1. صفات عددی (برای ۱ تا ۱۹) <!-- TODO: Fallback translation -->
+#### 52.6.1.1. صفات عددی (برای ۱ تا ۱۹)
 
 ::: grammar-box
-**Die Zahlwörter für *1 bis 19* sind Adjektive.**
-**Die Zahlwörter für **1 bis 4** sind für die drei Geschlechter in der Deklination unterschioedlich.** <!-- TODO: Fallback translation -->
+**واژه‌های عددی برای *۱ تا ۱۹* صفت هستند.**
+**واژه‌های عددی برای **۱ تا ۴** در صرف، برای سه جنس متفاوت هستند.**
 
-**Für die Zahlwörter für **5 bis 19** ***(:sig[⟪नवदशन्⟫])*** gibt es nur eine einzige Deklination für die drei Geschlechter.** <!-- TODO: Fallback translation -->
+**برای واژه‌های عددی برای **۵ تا ۱۹** ***(:sig[⟪नवदशन्⟫])*** صرف واحدی برای هر سه جنس وجود دارد.**
 
-**Für diese Zahladjektive gilt wie für alle Adjektive: es muss in gleichen Fall, Zahl und Geschlecht stehen wie das zugehörige Nomen und umgekehrt (d.h. für 1 Singular, für 2 Dual, für die übrigen Plural).** <!-- TODO: Fallback translation -->
+**برای این صفت‌های عددی، همانند تمام صفات: باید در حالت، تعداد و جنس با اسم مربوطه مطابقت داشته باشد (یعنی برای ۱ مفرد، برای ۲ مثنی، و بقیه جمع).**
 :::
-Zahladjektive: <!-- TODO: Fallback translation -->
+صفت‌های عددی:
 
 ::: indent
-1 ⟪एक⟫ 3 (Deklination wie ⟪सर्व⟫, im Plural: "einige")
-2 ⟪द्वि⟫ 3
-3 ⟪त्रि⟫ 3
-4 ⟪चतुर्⟫ 3
-5 ⟪पञ्चन्⟫ 3
-6 ⟪षष्⟫ 3
-7 ⟪सप्तन्⟫ 3
-8 ⟪अष्टन्⟫ 3
-9 ⟪नवन्⟫ 3
-10 ⟪दशन्⟫ 3 <!-- TODO: Fallback translation -->
+۱ ⟪एक⟫ ۳ (صرف مانند ⟪सर्व⟫، در جمع: «برخی»)
+۲ ⟪द्वि⟫ ۳
+۳ ⟪त्रि⟫ ۳
+۴ ⟪चतुर्⟫ ۳
+۵ ⟪पञ्चन्⟫ ۳
+۶ ⟪षष्⟫ ۳
+۷ ⟪सप्तन्⟫ ۳
+۸ ⟪अष्टन्⟫ ۳
+۹ ⟪नवन्⟫ ۳
+۱۰ ⟪दशन्⟫ ۳
 :::
-Die Deklination folgt an gegebener Stelle in den Wortlisten. <!-- TODO: Fallback translation -->
+صرف در فهرست‌های واژگانی مربوطه آمده است.
 
-Die weiteren Zahladverbien bis 19 siehe z.B. bei Kielhorn, Grammatik §201. <!-- TODO: Fallback translation -->
+برای سایر اعداد قیدی تا ۱۹، به‌عنوان مثال به کیلهورن، دستور زبان §201 مراجعه کنید.
 
-#### 52.6.1.2. اسم‌های عددی (برای ۱۹ به بعد) <!-- TODO: Fallback translation -->
+#### 52.6.1.2. اسم‌های عددی (برای ۱۹ به بعد)
 
 ::: grammar-box
-**Die Zahlwörter für *19 (⟪एकोनविंशति⟫* "eins weniger als 20") *bis 99* sind feminine Substantive und werden wie ⟪मति⟫ f.  bzw. Wurzelnomina auf -t (z.B. ⟪त्रिंशत्⟫ f.) dekliniert.** <!-- TODO: Fallback translation -->
+**واژه‌های عددی برای *۱۹ (⟪एकोनविंशति⟫* «یک کمتر از ۲۰») *تا ۹۹*** اسم‌های مؤنث هستند و مانند ⟪मति⟩ مف. یا اسم‌های ریشه‌دار با پسوند -t (مثلاً ⟪त्रिंशत्⟩ مف.) صرف می‌شوند.**
 
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
-30 ⟪त्रिंशत्⟫ f. <!-- TODO: Fallback translation -->
+۲۰ ⟪विंशति⟫ مؤنث
+۳۰ ⟪त्रिंशत्⟫ مؤنث
 :::
 
 ::: grammar-box
 
-**Die Zahlwörter für Zahlen **ab 100** sind neutrale Substantive. Sie werden wie ⟪फलम्⟫ dekliniert.** <!-- TODO: Fallback translation -->
+**اعداد برای اعداد از ۱۰۰ به بالا** اسم‌های خنثی هستند. آنها مانند ⟪फलम्⟫ صرف می‌شوند.**
 :::
 
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-100 ⟪शत⟫ n.:br
-1000 ⟪सहस्र⟫ n. <!-- TODO: Fallback translation -->
+۱۰۰ ⟪शत⟫ خنثی.
+۱۰۰۰ ⟪सहस्र⟫ خنثی.
 :::
-Die einzelnen Zahlsubstantive siehe z.B. bei Kielhorn, Grammatik §201. <!-- TODO: Fallback translation -->
-#### 52.6.1.3. Syntaktisches zu den اعداد اصلی <!-- TODO: Fallback translation -->
+برای صرف تک‌تک اسم‌های عددی، به عنوان مثال به کیلهورن، دستور زبان §۲۰۱ مراجعه کنید.
+#### 52.6.1.3. نحو اعداد اصلی
 
 ::: grammar-box
-**Aus dem Unterschied zwischen Verbaladjektiven und Verbalsubstantiven für Kadinalzahlen ergibt sich folgende Konsequenz für die Syntax:** <!-- TODO: Fallback translation -->
-*   adjektivische Kardinalzahlwörter können nur wie Adjektive mit dem Substantiv für das Gezählte verbunden werden   <!-- TODO: Fallback translation -->
-    z.B. ⟪तिसृभिर्नारीभिः⟫ "durch drei Frauen"   <!-- TODO: Fallback translation -->
-*   substantivische Kardinalzahlwörter können auf drei Weisen mit dem Substantiv für das Gezählte verbunden werden <!-- TODO: Fallback translation -->
-    *   sie regieren den Genetiv (⟪षष्ठी⟫) des Gezählten   <!-- TODO: Fallback translation -->
-        z.B. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "durch 20 Frauen"   <!-- TODO: Fallback translation -->
-    *   sie stehen als Apposition im selben Kasus (aber im Singular) wie das Gezählte   <!-- TODO: Fallback translation -->
-        z.B. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "durch 20 Frauen"  <!-- TODO: Fallback translation -->
-    *   sie stehen als Hinterglied eines ⟪तत्पुरुष⟫ mit dem Gezählten als Vorderglied   <!-- TODO: Fallback translation -->
-        z.B. ⟪गोविंशत्या⟫ "durch 20 Kühe"  <!-- TODO: Fallback translation -->
+**از تفاوت بین صفت‌های فعلی و اسم‌های فعلی برای اعداد ترتیبی، نتیجه زیر در نحو حاصل می‌شود:**
+*   اعداد ترتیبی صفتی فقط می‌توانند مانند صفات با اسم شمارش شده ترکیب شوند
+مثال: ⟪तिसृभिर्नारीभिः⟫ "توسط سه زن"
+*   اعداد ترتیبی اسمی می‌توانند به سه روش با اسم شمارش شده ترکیب شوند
+*   آنها مضاف‌الیه (Genetiv) شمارش شده را حاکم می‌کنند (⟪षष्ठी⟫)
+مثال: ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "توسط ۲۰ زن"
+*   آنها به عنوان متمم در همان حالت (اما مفرد) مانند شمارش شده قرار می‌گیرند
+مثال: ⟪विंशत्या⟫ ⟪नारीभिः⟫ "توسط ۲۰ زن"
+*   آنها به عنوان بخش دوم یک ⟪तत्पुरुष⟫ با شمارش شده به عنوان بخش اول قرار می‌گیرند
+مثال: ⟪गोविंशत्या⟫ "توسط ۲۰ گاو"
 
 :::
 ### 52.6.2. اعداد ترتیبی
 
-Siehe z.B. bei Kielhorn, Grammatik §201f. <!-- TODO: Fallback translation -->
+به عنوان مثال، کیلهورن، گرامر §201f. را ببینید.
 
 ### 52.6.3. قیدهای عددی
 
-a) "-mal": <!-- TODO: Fallback translation -->
+الف) «-mal»:
 
 ::: indent
-einmal: ⟪सकृत्⟫
-zweimal: ⟪द्विस्⟫
-dreimal: ⟪त्रिस्⟫
-viermal: ⟪चतुस्⟫
-fünfmal usw. wird mit dem Suffix ***\-:sig[⟪कृत्वस्⟫]*** gebildet: ⟪पञ्चकृत्वस्⟫ <!-- TODO: Fallback translation -->
+یک‌بار: ⟪सकृत्⟫
+دو بار: ⟪द्विस्⟫
+سه‌بار: ⟪त्रिस्⟫
+چهار بار: ⟪चतुस्⟫
+پنج‌بار و غیره با پسوند ***\-:sig[⟪कृत्वस्⟫]*** ساخته می‌شود: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-fach": wird mit dem Suffix ***\-:sig[⟪धा⟫]*** ausgedrückt <!-- TODO: Fallback translation -->
+ب) «-fach»: با پسوند ***\-:sig[⟪धा⟫]*** بیان می‌شود
 
 ::: indent
-einfach: ⟪एकधा⟫
-zweifach: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
-usw. <!-- TODO: Fallback translation -->
+ساده: ⟪एकधा⟫
+دوگانه: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
+و غیره.
 :::
-c) "je ...", "zu ...": wird mit dem Suffix ***\-:sig[⟪शस्⟫]*** ausgedrückt (siehe oben!) <!-- TODO: Fallback translation -->
+ج) «je ...»، «zu ...»: با پسوند ***\-:sig[⟪शस्⟫]*** بیان می‌شود (به بالا مراجعه کنید!)
 
 ::: indent
-⟪द्विशस्⟫ "zu zweien, je zwei" <!-- TODO: Fallback translation -->
+⟪द्विशस्⟫ «به تعداد دو نفر، هر دو»
 :::
 ### 52.6.4. صفت‌های عددی
 
-"-fältig": <!-- TODO: Fallback translation -->
+«-گانه»:
 
 ::: indent
-zweifältig, aus zweien bestehend
-dreifältig, aus drei Teilen bestehend <!-- TODO: Fallback translation -->
+دوفَرده، از دو چیز تشکیل‌شده
+سه‌گانه، از سه بخش تشکیل‌شده
 
-ab 4 wird "-fältig" durch das Suffix ***\-:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫])*** ausgedrückt: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "vierfältig" <!-- TODO: Fallback translation -->
+از عدد ۴ به بعد، «-گانه» با پسوند ***\-:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫])*** بیان می‌شود: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. «چهارگانه»
 :::
-Weitere Bildungen entnehme man den Wörterbüchern oder Grammatiken. <!-- TODO: Fallback translation -->
+برای ساختارهای دیگر به فرهنگ‌ها یا دستور زبان مراجعه کنید.
 
-### 52.6.5. Komposita mit اعداد اصلی im Vorderglied
+### 52.6.5. ترکیب‌هایی با اعداد اصلی در بخش پیشین
 
 ::: grammar-box
-**⟪बहुव्रीहि⟫ dieser Art werden ganz regelmäßig gebildet.** <!-- TODO: Fallback translation -->
+**⟪बहुव्रीहि⟫ به این شکل کاملاً منظم ساخته می‌شوند.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+مثال:
 
 ::: indent
-⟪चतुर्मुख⟫ m. "einer, der vier Gesichter hat" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (ein Beiname Brahmās) <!-- TODO: Fallback translation -->
+⟪चतुर्मुख⟫ m. "کسی که چهار چهره دارد" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (لقبی برای براهما)
 :::
 ::: media
 ![](/images/lekt5205.webp)
-Abb.: ⟪चतुर्मुखः⟫
-(Bildquelle: [Details](/licenses#lekt5205)) <!-- TODO: Fallback translation -->
+تصویر: ⟪चतुर्मुखः⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5205))
 :::
 
 ::: grammar-box
-**⟪तत्पुरुष⟫ mit einer Kardinalzahl im Vorderglied dürfen nicht beliebig gebildet werden:** <!-- TODO: Fallback translation -->
+**⟪तत्पुरुष⟫ با یک عدد اصلی در بخش پیشین نباید به صورت دلخواه ساخته شوند:**
 
-**Regel 1: Wörter, die eine Himmelsrichtung bezeichnen (wie ⟪पूर्व⟫ 3 "östlich", ⟪उत्तर⟫ 3 "nördlich"), und Wörter für Kardinalzahlen dürfen mit anderen Wörtern nur dann ein ⟪कर्मधारय⟫-Kompositum bilden, wenn das Kompositum als Eigenname gebraucht wird.** <!-- TODO: Fallback translation -->
+**قانون ۱: کلماتی که جهت‌های جغرافیایی را نشان می‌دهند (مانند ⟪पूर्व⟫ ۳ "شرقی"، ⟪उत्तर⟫ ۳ "شمالی")، و کلمات مربوط به اعداد اصلی تنها در صورتی می‌توانند با سایر کلمات یک ترکیب ⟪कर्मधारय⟫ تشکیل دهند که این ترکیب به عنوان یک نام خاص به کار رود.**
 :::
-Daher darf z.B. aus ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "nördliche Bäume" oder ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ kein Tatpuruṣa gebildet werden. Aus ⟪सप्तन्⟫ und ⟪ऋषि⟫ kann aber der Tatpuruṣa ⟪सप्तर्षि⟫ m. "die sieben Ṛṣis" gebildet werden, wenn dies als Name für das Sternbild des Großen Bären (Ursa maior) steht. <!-- TODO: Fallback translation -->
+بنابراین، برای مثال نمی‌توان از ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "درختان شمالی" یا ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ یک تاتپوروشا ساخت. اما از ⟪सप्तन्⟫ و ⟪ऋषि⟫ می‌توان تاتپوروشای ⟪सप्तर्षि⟫ m. "هفت ریشی" را ساخت، اگر این عبارت به عنوان نام صورت فلکی خرس بزرگ (Ursa maior) به کار رود.
 ::: media
 ![](/images/lekt5206.jpg)
-Abb.: ⟪सप्तर्षयः⟫
-Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior)
-(Bildquelle: [Details](/licenses#lekt5206)) <!-- TODO: Fallback translation -->
+تصویر: ⟪सप्तर्षयः⟫
+گروه هفت‌ستاره = هفت ستاره درخشان خرس بزرگ (Ursa maior)
+(منبع تصویر: [جزئیات](/licenses#lekt5206))
 :::
 
 ::: grammar-box
-**Regel 2: Abweichend von Regel 1 kann ein Wort, das eine Himmelrichtung oder eine Kardinalzahl bezeichnet mit einem anderen Nomen ein Tatpuruṣa bilden, wenn** <!-- TODO: Fallback translation -->
+**قاعده ۲: برخلاف قاعده ۱، کلمه‌ای که جهت آسمانی یا عدد اصلی را بیان می‌کند می‌تواند با اسم دیگری یک تاتپوروشا تشکیل دهد، اگر**
 
-1.  dem so gebildeten Kompositum ein Taddhita-Suffix angefügt wird   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    pūrva + śālā ("Halle) » \*pūrvaśālā (darf so nicht gebraucht werden!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "in der östlichen Halle befindlich"  
-    ṣaṣ + mātṛ » \*ṣaṇmātṛ (nicht zulässig!) + Taddhita -a » ⟪षण्मातुर⟫ m. "das Kind von sechs Müttern" (= ⟪कार्त्तिकेय⟫)   <!-- TODO: Fallback translation -->
+1.  به ترکیب حاصل شده پسوند تادیتا افزوده شود
+مثال‌ها:  
+pūrva + śālā ("سالن) » \*pūrvaśālā (استفاده از این شکل مجاز نیست!) + تادیتا -a » ⟪पौर्वशाल⟫ ۳ "موجود در سالن شرقی"  
+ṣaṣ + mātṛ » \*ṣaṇmātṛ (مجاز نیست!) + تادیتا -a » ⟪षण्मातुर⟫ m. "کودکی از شش مادر" (= ⟪कार्त्तिकेय⟫)
 
-2.  das so gebildete Kompositum in einer Bedeutung gebraucht wird, die sonst durch ein Taddhita-Suffix bezeichnet wird (bei dieser Art ist der Übergang zum Bahuvrīhi fließend):   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    dvi + go » :sig[⟪द्विगु⟫] : nicht: "zwei Kühe", sondern: "**für zwei Kühe erhandelt**"  
-    ⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "**zwei Jahre alt**"   <!-- TODO: Fallback translation -->
+2.  از ترکیب حاصل شده در معنایی استفاده شود که معمولاً توسط پسوند تادیتا بیان می‌گردد (در این نوع، گذار به باهوری‌هی پیوسته است):
+مثال‌ها:  
+dvi + go » :sig[⟪द्विगु⟫] : نه: "دو گاو ماده"، بلکه: "**خریده شده برای دو گاو ماده**"  
+⟪द्विवर्ष⟫ نه: "دو سال"، بلکه: "**دوساله**"
 
-3.  das so gebildete Kompositum das Vorderglied eines anderen Kompositums bildet   <!-- TODO: Fallback translation -->
-    Beispiel:  
-    pañca + go » pañcagava (als Einzelwort unzulässig!) + dhana » ⟪पञ्चगवधन⟫ m. "Einer, dessen Reichtum fünf Kühe sind" <!-- TODO: Fallback translation -->
+3.  ترکیب حاصل شده، بخش پیشین (پوروا-پادا) یک ترکیب دیگر را تشکیل دهد
+مثال:  
+pañca + go » pañcagava (به عنوان کلمه واحد مجاز نیست!) + dhana » ⟪पञ्चगवधन⟫ m. "کسی که ثروتش پنج گاو است"
 :::
 ::: media
 ![](/images/lekt5207.webp)
-Abb.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
+تصویر: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
 Jalakandapuram = ஜலகண்டபுரம்
-(Bildquelle: [Details](/licenses#lekt5207)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt5207))
 :::
 
 ::: grammar-box
-**Eine Bezeichnung für eine Kardinalzahl (aber nicht für eine Himmelsrichtung) kann als Vorderglied mit einem anderen Nomen auch dann ein Tatpuruṣa bilden, wenn das so gebildete Kompositum das Aggregat mehrerer Dinge bezeichnet, d.h. zwei oder mehrere Dinge zu einer Einheit zusammenfasst.** <!-- TODO: Fallback translation -->
+**یک نام برای یک عدد اصلی (اما نه برای یک جهت جغرافیایی) می‌تواند به عنوان جزء پیشین با اسم دیگری ترکیب تشکیل دهد، حتی اگر آن ترکیب نشان‌دهندهٔ مجموعه‌ای از چند چیز باشد، یعنی دو یا چند چیز را به یک واحد گرد هم آورد.**
 
-**Tatpuruṣa, die nach dieser Regel gebildet werden heißen ***Dvigu (:sig[⟪द्विगु⟫])***.** <!-- TODO: Fallback translation -->
+**تاتپوروشایی که بر اساس این قاعده تشکیل می‌شوند، دیگو نامیده می‌شند (:sig[⟪द्विगु⟫])**.**
 
-**Dvigu-Komposita, die eine Einheit bezeichnen, sind gewöhnlich Neutra. Endet das zweite Glied auf -a, so kann das Femininsuffix -ī antreten. Endet das zweite Glied auf fem. -ā, so tritt an dessen Stelle entweder Neutrum -a oder Feminin -ī. Endet das zweite Glied auf -an, so wird dafür -a oder -ī substituiert.** <!-- TODO: Fallback translation -->
+**ترکیب‌های دیگو که یک واحد را نشان می‌دهند، معمولاً خنثی هستند. اگر جزء دوم به -a پایان یابد، پسوند مؤنث -ī می‌تواند افزوده شود. اگر جزء دوم به مؤنث -a پایان یابد، به جای آن یا خنثی -a یا مؤنث -ī ظاهر می‌شود. اگر جزء دوم به -an پایان یابد، آن را با -a یا -ī جایگزین می‌کنند.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "das Aggregat der drei Welten, die drei Welten als Einheit, die Dreiwelt (Himmel-Erde-Unterwelt) <!-- TODO: Fallback translation -->
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "مجموعهٔ سه جهان، سه جهان به عنوان یک واحد، سه‌جهانی (آسمان-زمین-دنیای زیرین)"
 
-⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "Dreiwelt" <!-- TODO: Fallback translation -->
+⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "سه جهان"
 :::
 ::: grammar-box
-**Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Bedeutung haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi)** <!-- TODO: Fallback translation -->
+**ترکیب‌های دویگو که پسوند تادهیته به آن‌ها افزوده نشده است، اما معنایی دارند که توسط یک پسوند تادهیته بیان می‌شود، جنس خود را مانند باهuvrīhi‌ها از اسمی که آن‌ها را دقیق‌تر مشخص می‌کنند، تعیین می‌کنند (آن‌ها در واقع باهuvrīhi هستند)**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+مثال:
 
 ::: indent
-⟪पञ्चगु⟫ 3: "für fünf Kühe erhandelt" <!-- TODO: Fallback translation -->
+⟪पञ्चगु⟫ ۳: "برای پنج گاو به دست آمده"
 :::
 ## 52.7. فهرست واژگان
 
-⟪अखिल⟫ 3: lückenlos, ganz <!-- TODO: Fallback translation -->
+⟪अखिल⟫ ۳: بی‌وقفه، کامل
 
-⟪निखिल⟫ 3: vollständig, ganz <!-- TODO: Fallback translation -->
+⟪निखिल⟫ ۳: کامل، تمام
 
 ::: indent
-von: <!-- TODO: Fallback translation -->
+از:
 
-⟪खिल⟫ m.: Brachfeld, Ödland <!-- TODO: Fallback translation -->
+⟪खिल⟫ م.: زمین بایر، سرزمین بی‌حاصل
 :::
 ::: media
 ![](/images/lekt5210.webp)
-Abb.: ⟪खिलः⟫
-Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Bildquelle: [Details](/licenses#lekt5210)) <!-- TODO: Fallback translation -->
+تصویر: ⟪खिलः⟫
+تامبول، آکوله، احمدنگار = ⟪अहमदनगर⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: innen, im Innern ; Postposition mit Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): innerhalb, inmitten ; Postposition mit Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): aus ... heraus <!-- TODO: Fallback translation -->
+⟪अन्तर्⟫ قید: درون، داخل؛ پسوند با جنیتیو لوکاتیو (⟪षष्टी⟫، ⟪सप्तमी⟫): در داخل، در میان؛ پسوند با جنیتیو ابلاتیو (⟪षष्ठी⟫، ⟪पञ्चमी⟫): از ... بیرون
 
-⟪अन्योन्य⟫ 3: gegenseitig, einander <!-- TODO: Fallback translation -->
+⟪अन्योन्य⟫ ۳: متقابل، یکدیگر
 
-⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fehlschlagen <!-- TODO: Fallback translation -->
+⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ ۲ش ⟪विपर्येति⟫ : شکست خوردن
 
 ::: indent
-PPP ⟪विपरीत⟫ 3: verkehrt, falsch <!-- TODO: Fallback translation -->
+PPP ⟪विपरीत⟫ ۳: نادرست، غلط
 :::
-⟪त्रि⟫ 3: drei <!-- TODO: Fallback translation -->
+⟪त्रि⟫ ۳: سه
 
 ::: grammar-box
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | **مذکر:br⟪पुंस्⟫** | **خنثی:br⟪नपुंसकम्⟫** | **مونث:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **۱. فاعل (نومیناتیو):br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **۲. مفعول مستقیم (آکوزاتیو):br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **۳. ابزار (اینستروماتالیو):br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **۴. داده (داتیو):br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **۵. جدا شده (آبلاتیو):br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **۶. مالکیت (ژنتیو):br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **۷. مکان (لوکاتیو):br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von <!-- TODO: Fallback translation -->
+⟪निस्⟫ پسوند و پیشوند در اسم‌ها و افعال: بیرون، دور، بیرون، آشکار، از، دور، بدون - از
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen <!-- TODO: Fallback translation -->
+⟪पीड्⟫ ۱۰P ⟪पीडयति⟫ : فشار دادن، آزار دادن؛ اذیت کردن، محاصره کردن، آزار رساندن
 
 ::: media
 ![](/images/lekt5212.webp)
-Abb.: ⟪पीडिताः⟫
-Hyderabad = హైదరాబాద్
-(Bildquelle: [Details](/licenses#lekt5212)) <!-- TODO: Fallback translation -->
+تصویر: ⟪पीडिताः⟫
+حیدرآباد = హైదరాబాద్
+(منبع تصویر: [جزئیات](/licenses#lekt5212))
 :::
-⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äußerster, höchster ; anderer, fremder, feindlich ; m.: Fremder <!-- TODO: Fallback translation -->
+⟪पर⟫ ۳: (صرف مانند ⟪सर्व⟫) دور، غریبه، بالاتر از (⟪पञ्चम्या⟫)، نهایی، عالی‌ترین؛ دیگر، غریبه، دشمنانه؛ م.: غریبه
 
 ::: indent
-davon: <!-- TODO: Fallback translation -->
+از آن:
 
-⟪परम्⟫ Adv.: in hohem Grade, darauf, später, aber, jedoch <!-- TODO: Fallback translation -->
+⟪परम्⟫ قید: به شدت، بر آن، بعداً، اما، با این حال
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): zu - hin, nach, in Bezug auf, gegenüber <!-- TODO: Fallback translation -->
+⟪प्रति⟫ پس‌حرف (⟪द्वितीयया⟫): به - سوی، به طرف، نسبت به، در برابر
 
-⟪प्रधान⟫ 3: hauptsächlicher, bester ; n.: Wichtigstes <!-- TODO: Fallback translation -->
+⟪प्रधान⟫ ۳: اصلی‌ترین، بهترین؛ ن.: مهم‌ترین
 
 ::: media
 ![](/images/lekt5213.webp)
-Abb.: ⟪प्रधानः⟫
+تصویر: ⟪प्रधानः⟫
 ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5213)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: Gier, Lüsternheit <!-- TODO: Fallback translation -->
+⟪लौल्य⟫ ن.: طمع، شهوت
 
-⟪वर्ग⟫ m.: Abschnitt, Abteilung, Schar <!-- TODO: Fallback translation -->
+⟪वर्ग⟫ m.: بخش، گروه، دسته
 
 ::: indent
-⟪त्रिवर्ग⟫ m.: Dreiergruppe (z.B. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; oder: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; oder: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫) <!-- TODO: Fallback translation -->
+⟪त्रिवर्ग⟫ m.: گروه سه‌تایی (مانند ⟪धर्मः⟫، ⟪अर्थः⟫، ⟪कामः⟫؛ یا: ⟪सत्त्वम्⟫، ⟪रजस्⟫، ⟪तमस्⟫؛ یا: ⟪ब्राह्मणाः⟫، ⟪क्षत्रियाः⟫، ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Imperat. 2.sg.: ***:sig[⟪उड्ढि⟫]*** : wollen, gebieten, verlangen nach <!-- TODO: Fallback translation -->
+⟪वश्⟫ 2P ⟪वस्टि⟫، ***:sig[⟪उशन्ति⟫]***، Imperat. 2.sg.: ***:sig[⟪उड्ढि⟫]*** : خواستن، فرمان دادن، تمایل داشتن به
 
 ::: indent
-Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
+Perf Va ⟪उवाश⟫، ⟪ऊशुर्⟫
 Fut. ⟪वशिष्यति⟫
 Pass. ⟪उष्यते⟫
 Kaus. ⟪वाशयति⟫
 PPP ⟪उशित⟫
 Inf. ⟪वशितुम्⟫
-Absol. -⟪वश्य⟫ <!-- TODO: Fallback translation -->
+Absol. -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen <!-- TODO: Fallback translation -->
+⟪वा⟫ 2P ⟪वाति⟫ : وزیدن، دمیدن
 
 ::: indent
 Perf IV ⟪ववौ⟫
@@ -520,30 +520,30 @@ Fut. ⟪वास्यति⟫
 Pass. ⟪वायते⟫
 Kaus. ⟪वापयति⟫
 PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
-Inf. ⟪वातुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪वातुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+از آن:
 
-⟪वात⟫ m.: Wind <!-- TODO: Fallback translation -->
+⟪वात⟫ m.: باد
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : wenden, drehen ; abwehren, ausschließen <!-- TODO: Fallback translation -->
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : چرخاندن، گرداندن؛ دفع کردن، خارج ساختن
 
 ::: indent
-Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
+Perf. II ⟪ववर्ज⟫، ⟪ववृजुर्⟫
 Fut. ⟪वर्जिष्यति⟫
 Pass. ⟪वृज्यते⟫
-Kaus. ⟪वर्जयति⟫ : beseitigen
-Kaus. PPP ⟪वर्जित⟫ : einer Sache verlustig, frei von
+Kaus. ⟪वर्जयति⟫ : برطرف کردن
+Kaus. PPP ⟪वर्जित⟫ : محروم از چیزی، آزاد از
 PPP ⟪वृक्त⟫
-Inf. ⟪वर्जितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess <!-- TODO: Fallback translation -->
+⟪व्यवहार⟫ m.: فعالیت، رفتار، معاشرت، ارتباط، کار، تجارت، (دادگاهی) دادرسی
 
-⟪शील⟫ n.: Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral <!-- TODO: Fallback translation -->
+⟪शील⟫ n.: رسم، عادت، طبیعت، شخصیت، عادت خوب = اخلاق
 
-⟪सूर्य⟫ m.: Sonne <!-- TODO: Fallback translation -->
+⟪सूर्य⟫: خورشید (m.)
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : jemandem (⟪द्वितीया⟫) dienen, aufwarten, ehren, lieben <!-- TODO: Fallback translation -->
+⟪सेव्⟫ ۱Ā ⟪सेवते⟫: خدمت کردن به (⟪द्वितीया⟫)،侍奉، گرامی داشتن، دوست داشتن
 
 ::: indent
 Perf I ⟪सिषेवे⟫
@@ -552,13 +552,13 @@ Pass. ⟪सेव्यते⟫
 Kaus. ⟪सेवयति⟫
 PPP ⟪सेवित⟫
 Inf. ⟪सेवितुम्⟫
-Absol. -⟪सेव्य⟫ <!-- TODO: Fallback translation -->
+Absol. -⟪सेव्य⟫
 
-davon: <!-- TODO: Fallback translation -->
+از آن:
 
-⟪सेवा⟫ f.: Dienst, Aufwartung <!-- TODO: Fallback translation -->
+⟪सेवा⟫ f.: خدمت، حضور
 :::
-⟪धीर⟫ 3: fest, standhaft, kontinuierlich, beharrlich <!-- TODO: Fallback translation -->
+⟪धीर⟫ ۳: محکم، استوار، پیوسته، پرتلاش
 
 ⟪शम्⟫ ⟪शाम्यति⟫
 
@@ -570,78 +570,78 @@ davon: <!-- TODO: Fallback translation -->
 ⟪शान्त⟫
 ⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
 :::
-⟪कोविद⟫ 3: erfahren in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫) <!-- TODO: Fallback translation -->
+⟪कोविद⟫ ص: باتجربه در (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
 
-⟪याम⟫ m.: Nachtwache (jeweils drei Stunden) <!-- TODO: Fallback translation -->
+⟪याम⟫ م.: نگهبانی شب (هر بار سه ساعت)
 
-⟪परंपरा⟫ f.: ununterbrochene Reihe <!-- TODO: Fallback translation -->
+⟪परंपरा⟫ مؤ: سری پیوسته
 
-⟪अमुत्र⟫ Adv.: dort, dorthin <!-- TODO: Fallback translation -->
+⟪अमुत्र⟫ ق: آنجا، به سوی آنجا
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : sich rühren, sich fortbewegen, herabfallen <!-- TODO: Fallback translation -->
+⟪च्यु⟫ ۱Ā ⟪च्यवते⟫ : حرکت کردن، جابه‌جا شدن، افتادن
 
 ::: indent
 Perf. IIIa ⟪चुच्युवे⟫
 Fut. ⟪च्योष्यते⟫
 Pass. ⟪च्यूयते⟫
 Kaus. ⟪च्यावयति⟫
-PPP ⟪च्युत⟫ <!-- TODO: Fallback translation -->
+PPP ⟪च्युत⟫
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : erkennen, empfinden, wahrnehmen, erfahren <!-- TODO: Fallback translation -->
+⟪भू⟫ + ⟪अनु⟫ ۱P ⟪अनुभवति⟫ : شناختن، احساس کردن، ادراک کردن، تجربه کردن
 
-⟪चक्र⟫ n.: Rad <!-- TODO: Fallback translation -->
+⟪चक्र⟫ n.: چرخ
 
 ::: media
 ![](/images/lekt5214.webp)
-Abb.: ⟪चक्रम्⟫
-Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/licenses#lekt5214)) <!-- TODO: Fallback translation -->
+تصویر: ⟪चक्रम्⟫
+کونارک = ⟪कोनार्क⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: Bananenbaum (_Musa_ sp.) <!-- TODO: Fallback translation -->
+⟪कदली⟫ مؤنث: درخت موز (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
-Abb.: ⟪कदली⟫
-Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/licenses#lekt5208)) <!-- TODO: Fallback translation -->
+تصویر: ⟪कदली⟫
+همپی = ಹಂಪೆ
+(منبع تصویر: [جزئیات](/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: Kern, Mark, Essenz, Substanz <!-- TODO: Fallback translation -->
+⟪सार⟫ مذکر/مؤنث: هسته، مغز، جوهر، ماده
 
-⟪दिव्य⟫ 3: himmlisch, göttlich <!-- TODO: Fallback translation -->
+⟪दिव्य⟫ ۳: آسمانی، الهی
 
-⟪वर⟫ 3: bester <!-- TODO: Fallback translation -->
+⟪वर⟫ ۳: برترین
 
-⟪आदर्श⟫ m.: Spiegel <!-- TODO: Fallback translation -->
+⟪आदर्श⟫ مذکر: آینه
 
-⟪मल⟫ m.n.: Schmutz, Makel <!-- TODO: Fallback translation -->
+⟪मल⟫ m.n.: کثافت، عیب
 
 ::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम्⟫
+تصویر: ⟪मलम्⟫
 ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5215)) <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: Indras Himmel <!-- TODO: Fallback translation -->
+⟪त्रिपिष्टप⟫ n.: بهشت ایندرا
 
-⟪मार⟫ m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel <!-- TODO: Fallback translation -->
+⟪मार⟫ m.: شر تجسم‌یافته، وسوسه/دستکاری تجسم‌یافته، شیطان
 
 ::: media
 ![](/images/lekt5217.webp)
-Abb.:
-Amaravati = అమరావతి, 2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt5217)) <!-- TODO: Fallback translation -->
+تصویر:
+آماراواتی = అమరావతి، قرن دوم پس از میلاد
+(منبع تصویر: [جزئیات](/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: jemand, der völlig erkennen will <!-- TODO: Fallback translation -->
+⟪विजिज्ञासु⟫ ۳: کسی که می‌خواهد کاملاً بشناسد
 
-⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : beschützen, retten <!-- TODO: Fallback translation -->
+⟪त्रै⟫ ۱آ ⟪त्रायते⟫ : محافظت کردن، نجات دادن
 
 ::: indent
-Perf. IV ⟪तत्रे⟫
-Fut. ⟪त्रास्यते⟫
-Pass. ⟪त्रायते⟫
-Kaus. ⟪त्रापयति⟫
-PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
-Inf. ⟪त्रातुम्⟫ <!-- TODO: Fallback translation -->
+کامل IV ⟪तत्रे⟫
+آینده ⟪त्रास्यते⟫
+مجهول ⟪त्रायते⟫
+سببی ⟪त्रापयति⟫
+صفت مفعولی گذشته ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
+مصدر ⟪त्रातुम्⟫
 :::
 ## 52.8. تمرین ترجمه
 
@@ -663,9 +663,9 @@ Inf. ⟪त्रातुम्⟫ <!-- TODO: Fallback translation -->
 ⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫
 ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
 
-Erklärung: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva) <!-- TODO: Fallback translation -->
+توضیح: ⟪सुखदुःखयोः⟫ جنس/مکان دوگانه مذکر/مونث/خنثی (دوگنده‌وا)
 :::
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Über die Quellen des ⟪धर्म⟫ <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫، ⟪६⟫ دربارهٔ منابع ⟪धर्म⟫
 
 ::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
@@ -673,27 +673,27 @@ Erklärung: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandv
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
-Erklärung:  ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva) <!-- TODO: Fallback translation -->
+توضیح: ⟪स्मृतिशीले⟫ اسم.مفعول مفرد/دوگانه (دودندوا)
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫، ⟪७⟫، ⟪२⟫ - ⟪७⟫ دربارهٔ ⟪अर्थ⟫، ⟪काम⟫، ⟪धर्म⟫ در زندگی شاهزاده
 
 ⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*:sig[⟪मितरौ⟫]* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*:sig[⟪मूलौ⟫]* ⟪हि⟫ ⟪धर्मका⟫*:sig[⟪मावि⟫]*⟪ति⟫ ⟪।७।⟫
 
 ::: indent
-Erklärungen: <!-- TODO: Fallback translation -->
+توضیحات:
 
-⟪इतरौ⟫ Nom.Akk.Dual.m zu ⟪इतर⟫ 3 "anderer" <!-- TODO: Fallback translation -->
+⟪इतरौ⟫ مفرد/مفعولی مثنوی مذکر به معنای ⟪इतर⟫ 3 "دیگر"
 
-⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ ist Dualdvandva) <!-- TODO: Fallback translation -->
+⟪अर्थमूलौ⟫، ⟪धर्मकामौ⟫ مفرد/مفعولی مثنوی مذکر (⟪धर्मकामौ⟫ دوندووا مثنوی است)
 :::
-⟪४⟫. ⟪अश्वघोष⟫ (2. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫ Buddhas erlösende Erkenntnis <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪अश्वघोष⟫ (قرن دوم پس از میلاد): ⟪बुद्धचरित⟫ ⟪४⟫ آگاهی رهایی‌بخش بودا
 
 ::: media
 ![](/images/lekt5216.webp)
-Abb.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
-_Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
-(Bildquelle: [Details](/licenses#lekt5216)) <!-- TODO: Fallback translation -->
-:::
+تصویر: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
+_Ficus religiosa_ L. ⟪बोधगया⟫، حدود ۱۸۱۰
+(منبع تصویر: [جزئیات](/licenses#lekt5216))
+::: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
@@ -748,69 +748,69 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
 :::
 ## 52.9. تکالیف در طول تعطیلات ترم
 
-Mit Lektion 52 ist das erste Semester (13 Wochen á 4 Unterrichtsstunden) des Sanskritkurses beendet. <!-- TODO: Fallback translation -->
+با درس ۵۲، ترم اول (۱۳ هفته × ۴ ساعت آموزش) دورهٔ زبان سنسکریت به پایان می‌رسد.
 
-Während der Semesterferien sollten folgende Aufgaben erfüllt werden: <!-- TODO: Fallback translation -->
+در طول تعطیلات ترم، باید تکالیف زیر انجام شوند:
 
-1.  Wiederholung des gesamten bisher Gelernten, besonders: <!-- TODO: Fallback translation -->
-    1.  Auswendiglernen der Konjugations- und Deklinationsparadigmen <!-- TODO: Fallback translation -->
-    2.  Wörter <!-- TODO: Fallback translation -->
-    3.  Stammformen <!-- TODO: Fallback translation -->
-2.  Auswendiglernen möglichst vieler Verse und Prosatexte aus dem klassischen Schrifttum <!-- TODO: Fallback translation -->
-3.  Durcharbeiten von [Lektion 53](lektion53.md) <!-- TODO: Fallback translation -->
-4.  Durcharbeiten der Blätter Bhg 1 - 11 (noch nicht im Internet) <!-- TODO: Fallback translation -->
-5.  Vorbereitung von ⟪भगवद्गीता⟫ Kap. 1, Lernen der dazugehörigen Wörter auf den Wortlisten (noch nicht im Internet) <!-- TODO: Fallback translation -->
-6.  Metrische Analyse aller Verse von ⟪भगवद्गीता⟫ ⟪१⟫   <!-- TODO: Fallback translation -->
-    Einen guten Eindruck von dem Text in rezitierter Form gibt: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Zugriff am 2009-01-19 <!-- TODO: Fallback translation -->
-7.  Lesen einer ⟪महाभारत⟫-Nacherzählung, z.B.   <!-- TODO: Fallback translation -->
-    Mahābhārata : Indiens grosses Epos / aus dem Sanskrit übers. und zsgef. von Biren Roy. -- 10. Aufl. -- München : Diederichs, 1995. -- 335 S.  ; 19 cm. --  (Diederichs gelbe Reihe ; 16 : Indien) <!-- TODO: Fallback translation -->
-8.  Durcharbeiten:   <!-- TODO: Fallback translation -->
-    **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm. -- S. 208 - 254 (Sytactical government) <!-- TODO: Fallback translation -->
-9.  Fertig durcharbeiten von:   <!-- TODO: Fallback translation -->
-    **Basham, A. L. (Arthur Llewellyn) \<1914-1986\>**The wonder that was IndiaTeil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. <!-- TODO: Fallback translation -->
-10.  Beginn mit der Durcharbeit von:   <!-- TODO: Fallback translation -->
-     **Winternitz, Moriz \<1863 - 1937\>:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 Bde. -- 1908 - 1922 (immer noch die bei weitem beste Literaturgeschichte der Sanskrit-, Pali- und Prakritliteratur) <!-- TODO: Fallback translation -->
+1.  مرور کلی مطالب تاکنون آموخته‌شده، به‌ویژه:
+    1.  حفظ کردن جدول صرف افعال و اسم‌ها (پارادایم‌های صرفی)
+    2.  واژگان
+    3.  شکل‌های بنیادی (ریشه‌ها)
+2.  حفظ کردن بیشترین تعداد ممکن از اشعار و متون نثر از ادبیات کلاسیک
+3.  مطالعهٔ [درس ۵۳](lektion53.md)
+4.  مطالعهٔ برگه‌های Bhg ۱ - ۱۱ (هنوز در اینترنت موجود نیست)
+5.  آماده‌سازی ⟪भगवद्गीता⟫ فصل ۱، یادگیری واژگان مربوطه در فهرست‌های لغوی (هنوز در اینترنت موجود نیست)
+6.  تحلیل عروضی تمام ابیات ⟪भगवद्गीता⟫ ⟪१⟫
+یک دیدگاه خوب از متن در قالب خوانش صوتی ارائه می‌دهد: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- دسترسی در ۲۰۰۹-۰۱-۱۹
+7.  خواندن بازنویابی ⟪महाभारत⟫، مثلاً
+Mahābhārata : اپوس بزرگ هند / ترجمه و خلاصه از سنسکریت توسط بیرن روی. -- چاپ دهم. -- مونیخ : دیدریشس، ۱۹۹۵. -- ۳۳۵ ص ; ۱۹ سانتی‌متر. -- (سری زرد دیدریشس ; ۱۶ : هند)
+8.  مطالعهٔ:
+**Kunnappally, John:** Prakriyā bhāshyam : دستور زبان سنسکریت / ابتدا به مالایالامی نوشته شده است. ترجمه به انگلیسی توسط K.V.R. Pai. -- Parathode : چاپ خود، ۱۹۸۳. -- ۸۱۸ ص ; ۲۳ سانتی‌متر. -- صص ۲۰۸ - ۲۵۴ (حکمت نحوی)
+9.  تکمیل مطالعهٔ:
+**Basham, A. L. (Arthur Llewellyn) \<1914-1986\>** شگفتی هند بخش: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- لندن : Sidgwick & Jackson, ۱۹۵۴.
+10.  شروع مطالعهٔ:
+**Winternitz, Moriz \<1863 - ۱۹۳۷\>:** تاریخ ادبیات هند. اشتوتگارت : کوهلر. -- ۳ جلد. -- ۱۹۰۸ - ۱۹۲۲ (همچنان بهترین تاریخ ادبیات سنسکریت، پالی و پراکرت)
 
 ::: media
 ![](/images/lekt5201.webp)
-Abb.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt5201)) <!-- TODO: Fallback translation -->
+تصویر: ⟪श्रीगुम्पिः⟫ ، ⟪मम⟫ ⟪मन्त्री⟫
+(تصویر: پیتر)
+(منبع تصویر: [جزئیات](/licenses#lekt5201))
 :::
 
 ::: deleteme-box
 
-**lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Bildquelle: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5202:** ⟪विवाहः⟫، چنای = சென்னை [منبع تصویر: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- دسترسی در ۲۰۰۹-۰۱-۱۵. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt5203:** Wayang-Figur, Java, Indonesien [Bildquelle. Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5203:** شخصیت وایانگ، جاوا، اندونزی [منبع تصویر. ویکی‌پدیا. مالکیت عمومی]
 
-**lekt5204:** Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം [Bildquelle: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5204:** صف انتظار در مقابل معبد، تریواندروم = Thiruvananthapuram = തിരുവനന്തപുരം [منبع تصویر: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- دسترسی در ۲۰۰۹-۰۱-۱۵. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
 
-**lekt5209:** Brandrodung, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Bildquelle: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Zugriff am 2009-01-15. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5209:** آتش‌زدایی، آروناتشال پرادش = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [منبع تصویر: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- دسترسی در ۲۰۰۹-۰۱-۱۵. --  [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt5205:** [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5205:** [منبع تصویر: ویکی‌پدیا. مالکیت عمومی]
 
-**lekt5206:** Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior) [Bildquelle: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5206:** هفت‌برادران = هفت ستاره درخشان‌تر خرس بزرگ (Ursa maior) [منبع تصویر: ویکی‌پدیا، مجوز GNU FDLicense]
 
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5207:** جالاکانداپورام = ஜலகண்டபுரம் [منبع تصویر: ویکی‌پدیا. مالکیت عمومی]
 
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Bildquelle: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5210:** تامبول، آکوله، احمدنگار = ⟪अहमदनगर⟫ [منبع تصویر: دان تانستال / کارکنان موسسه منابع جهانی. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- دسترسی در ۲۰۰۹-۰۱-۱۶. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب‌دهی)]
 
-**lekt5212:** Hyderabad = హైదరాబాద్ [Bildquelle: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5212:** حیدرآباد = హైదరాబాద్ [منبع تصویر: دیوید اے جی ویلسون. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- دسترسی در ۲۰۰۹-۰۱-۱۶. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون کار مشتق)]
 
-**lekt5213:** ⟪मुंबई⟫ [Bildquelle: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5213:** ⟪मुंबई⟫ [منبع تصویر: سائبوتراجیل. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- دسترسی در ۲۰۰۹-۰۱-۱۶. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (نسب‌دهی، بدون کار مشتق)]
 
-**lekt5214:** Konark = ⟪कोनार्क⟫ [Bildquelle: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Zugriff am 2009-01-16. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5214:** کونارک = ⟪कोनार्क⟫ [منبع تصویر: گاوراب آرکا. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- دسترسی در ۲۰۰۹-۰۱-۱۶. --  [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون کار مشتق)]
 
-**lekt5208:** Hampi = ಹಂಪೆ [Bildquelle: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5208:** همپی = ಹಂಪೆ [منبع تصویر: اولیور هیلتبرونر. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- دسترسی در ۲۰۰۹-۰۱-۱۵. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
 
-**lekt5215:** ⟪मुंबई⟫ [Bildquelle: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5215:** ⟪मुंबई⟫ [منبع تصویر: جیمز کریلند. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- دسترسی در ۲۰۰۹-۰۱-۱۶. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب‌دهی)]
 
-**lekt5217:** Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5217:** آماراواتی = అమరావతి، قرن دوم پس از میلاد [منبع تصویر: ویکی‌پدیا. مجوز GNU FDLicense]
 
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810 [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫، حدود ۱۸۱۰ [منبع تصویر: ویکی‌پدیا. مالکیت عمومی]
 
-**lekt5201:** (Bild: Payer) <!-- TODO: Fallback translation -->
+**lekt5201:** (تصویر: پایر)
 
 :::
 

@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # שיעור 50
 
@@ -154,7 +154,7 @@ Absol.-⟪वृष्य⟫
 :::
 ⟪सर्व⟫ 3: כל אחד, כולם
 
-הטיה כמו ⟪यद्⟫ (חריגה: Nom.Akk.sg.Neutrum)
+הטיה כמו ⟪यद्⟫ (חריגה: Nom.Akk.sg.Neutrum) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
@@ -295,17 +295,17 @@ B) תרגמו:
 
 **lekt5007:** איור: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Harriet Everest [מקור התמונה: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- נגיש ב- 2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ייחוס)]
 
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [מקור התמונה: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- נגיש ב- 2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, לא לשימוש מסחרי, לא לעיבוד)]
+**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [מקור התמונה: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- נגיש ב- 2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, לא לשימוש מסחרי, לא לעיבוד)] <!-- TODO: Fallback translation -->
 
-**lekt5001:** Kapil Sibal (1948 -), שר איחוד במשרד המדע והטכנולוגיה ובמשרד למדעי כדור הארץ (מאז 2006) [מקור התמונה: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- נגיש ב- 2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ייחוס, שיתוף זהה)]
+**lekt5001:** Kapil Sibal (1948 -), שר איחוד במשרד המדע והטכנולוגיה ובמשרד למדעי כדור הארץ (מאז 2006) [מקור התמונה: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- נגיש ב- 2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ייחוס, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
 **lekt5002:** הגעת המונסון, באנגלורו ಬೆಂಗಳೂರು [מקור תמונה: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- נגיש ב-2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
 
-**lekt5005:** [מקור תמונה: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder\_iyer/2225272284/). -- נגיש ב-2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ייחוס, שיתוף זהה)]
+**lekt5005:** [מקור תמונה: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder\_iyer/2225272284/). -- נגיש ב-2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ייחוס, שיתוף זהה)] <!-- TODO: Fallback translation -->
 
-**lekt5003:** [מקור תמונה: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- נגיש ב-2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
+**lekt5003:** [מקור תמונה: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- נגיש ב-2009-01-12. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [מקור תמונה: Kounosu / Wikipedia. רישיון GNU FDL]
+**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [מקור תמונה: Kounosu / Wikipedia. רישיון GNU FDL] <!-- TODO: Fallback translation -->
 
 **lekt5008:** גנשפורי, 80 ק"מ ממומבאי (⟪मुंबई⟫) [מקור תמונה: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- נגיש ב-2009-01-13. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
 

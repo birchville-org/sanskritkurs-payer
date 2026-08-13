@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 18
 
-A) Käännä ⟪सुभाषित⟩ alussa oleva kappale.
+A) Käännä ⟪सुभाषित⟩ alussa oleva kappale. <!-- TODO: Fallback translation -->
 
 ⟪नास्ति⟩ ⟪कामसमो⟩ ⟪व्याधिर्⟩
 ⟪नास्ति⟩ ⟪मोहसमो⟩ ⟪रिपुः⟩ ⟪।⟩
@@ -21,7 +21,7 @@ Ei ole huijaria eikä vihollista kuin harha,
 Ei ole tulta kuin viha,
 Ei onnellisuutta kuin tieto.
 
-B) Käännä seuraavat tatpuruṣa-yhdyssanat:
+B) Käännä seuraavat tatpuruṣa-yhdyssanat: <!-- TODO: Fallback translation -->
 
 ⟪१⟩. ⟪सुकर⟩ ⟪३⟩ — helppo tehdä
 
@@ -41,7 +41,7 @@ B) Käännä seuraavat tatpuruṣa-yhdyssanat:
 
 ⟪९⟩. ⟪दुर्जय⟩ 3 — vaikea voittaa
 
-⟪१०⟩. ⟪सुगत⟩ m. — hyvä (syntymien läpi) kulkenut (= buddha)
+⟪१०⟩. ⟪सुगत⟩ m. — hyvä (syntymien läpi) kulkenut (= buddha) <!-- TODO: Fallback translation -->
 
 ⟪११⟩. ⟪सुजन⟩ m. — hyvä ihminen
 
@@ -90,19 +90,19 @@ B) Käännä seuraavat tatpuruṣa-yhdyssanat:
 Kuv.: ⟪नास्ति⟩ ⟪कामसमो⟩ ⟪व्याधिः⟩
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung027))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Lisäharjoitukset
+## Lisäharjoitukset <!-- TODO: Fallback translation -->
 
-A) Ratkaise seuraavat sanskritinkieliset yhdyssanat ja anna käännösehdotuksia:
+A) Ratkaise seuraavat sanskritinkieliset yhdyssanat ja anna käännösehdotuksia: <!-- TODO: Fallback translation -->
 
 ⟪१⟩. ⟪अन्तगत⟩ ⟪३⟩ ⟪।⟩ ⟪अन्तं⟩ ⟪गतः⟩ ⟪।⟩ — loppuun kulunut, kielioppi: päättävä
 
 ⟪२⟩. ⟪क्षमाकर⟩ ⟪३।⟩ ⟪क्षमा⟩-⟪करः⟩ ⟪।⟩ — kärsivällinen henkilö, kärsivällinen teko
 
-⟪३⟩. ⟪क्षेमेन्द्र⟩ m.⟪।⟩ ⟪क्षेमस्येन्द्रः⟩ ⟪।⟩ — rauhan / hyvinvoinnin / rauhan hallitsija
+⟪३⟩. ⟪क्षेमेन्द्र⟩ m.⟪।⟩ ⟪क्षेमस्येन्द्रः⟩ ⟪।⟩ — rauhan / hyvinvoinnin / rauhan hallitsija <!-- TODO: Fallback translation -->
 
-⟪४⟩. ⟪शस्त्रकोपनिरोध⟩ m. ⟪।⟩ ⟪शस्त्राणां⟩ ⟪कोपस्य⟩ ⟪निरोधः⟩ ⟪।⟩ — vihan pysäyttäminen miekalla = taistelun pysäyttäminen
+⟪४⟩. ⟪शस्त्रकोपनिरोध⟩ m. ⟪।⟩ ⟪शस्त्राणां⟩ ⟪कोपस्य⟩ ⟪निरोधः⟩ ⟪।⟩ — vihan pysäyttäminen miekalla = taistelun pysäyttäminen <!-- TODO: Fallback translation -->
 
 ⟪५⟩. ⟪सिंहसंहनन⟩ n.⟪।⟩ ⟪सिंहस्य⟩ ⟪संहननम्⟩ ⟪।⟩ — leijonan / useamman leijonan tappaminen, leijonan / useamman leijonan aiheuttama kuolema
 
@@ -112,15 +112,15 @@ A) Ratkaise seuraavat sanskritinkieliset yhdyssanat ja anna käännösehdotuksia
 
 ⟪८⟩. ⟪मृतिसाधनी⟩ f. ⟪।⟩ ⟪मृतेः⟩ ⟪साधनी⟩ ⟪।⟩ — kuolemaa aiheuttava
 
-⟪९⟩. ⟪कुलोपदेश⟩ m. ⟪।⟩ ⟪कुलस्योपदेशः⟩ ⟪।⟩ — sukunimi (viittaus sukuun)
+⟪९⟩. ⟪कुलोपदेश⟩ m. ⟪।⟩ ⟪कुलस्योपदेशः⟩ ⟪।⟩ — sukunimi (viittaus sukuun) <!-- TODO: Fallback translation -->
 
-B) Käännä käyttämällä 2. preesensluokan verbejä:
+B) Käännä käyttämällä 2. preesensluokan verbejä: <!-- TODO: Fallback translation -->
 
 1\. Brahman ylistää jumalattaria.
 ⟪ब्राह्मणो⟩ ⟪देवीः⟩ ⟪स्तौति⟩ ⟪।⟩ (tai: ⟪स्तवीति⟩ ⟪।⟩)
 
 2\. Sankarit marssivat vaikeakulkuisella tiellä arioiden kylään.
-⟪शूरा⟩ ⟪दुर्गमेण⟩ ⟪मार्गेणार्यग्रामं⟩ ⟪यन्ति⟩ ⟪।⟩
+⟪शूरा⟩ ⟪दुर्गमेण⟩ ⟪मार्गेणार्यग्रामं⟩ ⟪यन्ति⟩ ⟪।⟩ <!-- TODO: Fallback translation -->
 
 3\. Talonpiika lypsetään lehmät.
 ⟪गृहदासी⟩ ⟪धेनूर्दोग्धि⟩ ⟪।⟩
@@ -130,12 +130,12 @@ B) Käännä käyttämällä 2. preesensluokan verbejä:
 
 
 5\. Aave ei syö hedelmiä.
-⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫
+⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
 
 6\. Näin puhuu se, joka on kulkenut [uudelleensyntymien polkua] hyvin opetettavalle.
-⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟩ (tai: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫)
+⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟩ (tai: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫) <!-- TODO: Fallback translation -->
 
-C) Anna sanskritinkielinen määritelmä sanalle Yoga kahdella tavalla: kerran käyttämällä yhdyssanaa, kerran purkamalla yhdyssana.
+C) Anna sanskritinkielinen määritelmä sanalle Yoga kahdella tavalla: kerran käyttämällä yhdyssanaa, kerran purkamalla yhdyssana. <!-- TODO: Fallback translation -->
 
 ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪।⟫ (⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ ⟪।⟫)
 
@@ -148,4 +148,4 @@ Kaikkien velvollisuus on: väkivallattomuus, totuudenmukaisuus, puhtaus, valituk
 ![](/images/uebung028.webp)
 Kuv.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung028))
-:::
+::: <!-- TODO: Fallback translation -->

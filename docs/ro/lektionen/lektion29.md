@@ -27,7 +27,7 @@ Exemplu:
 
 Exemplu:
 
-⟪विष्णुर्भक्तान्दर्शयते⟫ = „Viṣṇu li se arată devotaților săi”
+⟪विष्णुर्भक्तान्दर्शयते⟫ = „Viṣṇu li se arată devotaților săi” <!-- TODO: Fallback translation -->
 
 Rezultat: ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन्ति⟫ = „Credincioșii îl văd pe Viṣṇu”
 
@@ -63,7 +63,7 @@ Inf. ⟪ग्रसितुम्⟫
 
 ⟪न्याय⟫ m.: normă, regulă, mod corect și potrivit; metodă, logică (de la ⟪इ⟫ + ⟪नि⟫)
 
-⟪परिव्राजक⟫ m.: călător, călugăr itinerant, pelerin
+⟪परिव्राजक⟫ m.: călător, călugăr itinerant, pelerin <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2903.webp)
@@ -158,15 +158,15 @@ Explicații:
 
 ⟪।११।⟫ ⟪योजयति⟫ (Cauz. la ⟪युज्⟫) "a leșa, a conecta cu, a uni cu"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de la ⟪कामक्रोध⟫ (Dualdvandva)
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de la ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "cu cât mai mult"
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. de la ⟪बलीयस्⟫ ⟪३⟫ "mai puternic"
+⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. de la ⟪बलीयस्⟫ ⟪३⟫ "mai puternic" <!-- TODO: Fallback translation -->
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "patru" ca prim element al unui compus
 
-⟪राज्ञा⟫ Instr. sg. masc. de la ⟪राजन्⟫ m. "Rege"
+⟪राज्ञा⟫ Instr. sg. masc. de la ⟪राजन्⟫ m. "Rege" <!-- TODO: Fallback translation -->
 
 ⟪स्वेषु⟫ : Loc. plur. masc. / neutr. de la ⟪स्व⟫ ⟪३⟫ "propriu (al meu, al tău, al său etc.)"
 

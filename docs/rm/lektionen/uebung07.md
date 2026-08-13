@@ -1,14 +1,15 @@
 ---
-title: "Übung 7"
+title: "Esercizi 7"
 uebung_id: 7
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lecziun 7
+# Esergizis 7 <!-- TODO: Fallback translation -->
 
-A) Metta in mintgin il singular ed il plural (schend ch’i n’è betg in num propi) l’object direct u l’accusativ da direcziun:
+A) Metter adina mintgin il singular e plural (sch’i n’èn nagins numens propris) l’object direct u l’accusativ da direcziun:
 
 1\. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
 
@@ -58,7 +59,7 @@ dhenuṃ labhate. dhenūr labhate. paśuṃ labhate. paśūṃḷ labhate. phala
 
 ⟪धनुं⟫ ⟪लभते⟫ ⟪।⟫ ⟪धेनूर्लभते⟫ ⟪।⟫ ⟪पशुं⟫ ⟪लभते⟫ ⟪।⟫ ⟪पशूंल्लभते⟫ ⟪।⟫ ⟪फलं⟫ ⟪लभते⟫ ⟪।⟫ ⟪फलानि⟫ ⟪लभते⟫ ⟪॥⟫
 
-B) Metta las formas da verb correspundentas:
+B) Metter adina las correspondentas formas verbalas:
 
 1\. sādhuḥ svargam ... (āp, gam, aś)
 
@@ -92,7 +93,7 @@ devī kupyati. devī krudhyati.
 
 ⟪देवी⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪देवी⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-C) Metta en las frasis d’exercizi B) agent, object e verb en il plural.
+C) Metter en ils exercizis da direcziun B) agent, object e verb en il plural.
 
 1\. sādhavaḥ svargān āpnuvanti. sādhavaḥ svargān gacchanti. sādhavaḥ svargān aśnuvate.
 
@@ -110,7 +111,7 @@ C) Metta en las frasis d’exercizi B) agent, object e verb en il plural.
 
 ⟪देव्यः⟫ ⟪कुप्यन्ति⟫ ⟪।⟫ ⟪देव्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪।⟫
 
-D) Metta en l’Ātmanepada:
+D) Metter en l’Ātmanepada:
 
 1\. sunvanti.
 
@@ -144,21 +145,21 @@ yajate.
 
 ⟪यजते⟫ ⟪।⟫
 
-E) Formai il accusativ (dvitīyā) sing. e plur. per tuttas las sustantivs fin ussa aprendids.
+E) Formar per tut ils nomens fin ussa aprendids l’accusativ (dvitīyā) sg. e pl.
 
-F) Traduci:
+F) Tradusci:
 
 1\. narakāṃś ca svargāṃś ca gacchanti.
 
 ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫
 
-El van en il tschiel ed en l'infern.
+Elns van en infern. <!-- TODO: Fallback translation -->
 
 2\. gurūṃs tu śṛṇvanti.
 
 ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 
-El audan però ils maisters.
+Ma els audan ils maisters. <!-- TODO: Fallback translation -->
 
 3\. Śūdras erlangen einen Himmel.
 
@@ -166,13 +167,13 @@ El audan però ils maisters.
 
 ⟪शूद्राः⟫ ⟪स्वर्गमाप्नुवन्ति⟫ ⟪।⟫
 
-4\. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
+4\. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern. <!-- TODO: Fallback translation -->
 
 kṣatriyā devīr yajante.
 
 ⟪क्षत्रिया⟫ ⟪देवीर्यजन्ते⟫ ⟪।⟫
 
-5\. Vaiśyafrauen verehren Gottheiten mit Opfern.
+5\. Vaiśyafrauen verehren Gottheiten mit Opfern. <!-- TODO: Fallback translation -->
 
 vaiśyā devatā yajante.
 
@@ -184,31 +185,31 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Explicaziun: chando = Nom,, Akk. sg. zu chandas n.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Explicaziun: chando = Nom,, Akk. sg. zu chandas n.) <!-- TODO: Fallback translation -->
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
-Las scienzas auxiliaras dal Vedismo èn: la doctrina da la pronunzia, la ritualistica, la grammatica, l'explicaziun da las paraulas, la metrica, la doctrina dal calendari.
+Die Hilfswissenschaften der Vedistik sind: Aussprachelehre, Ritualistik, Grammatik, Worterklärung, Metrik, Kalenderlehre. <!-- TODO: Fallback translation -->
 
-8\. Welchem Gott opfert dieser Brahmane?
+8\. Welchem Gott opfert dieser Brahmane? <!-- TODO: Fallback translation -->
 
 ayaṃ brāhmaṇaḥ kaṃ devaṃ yajati / yajate?
 
 ⟪अयं⟫ ⟪ब्राह्मणः⟫ ⟪कं⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
-9\. Was kaut dieser heilige Mann?
+9\. Was kaut dieser heilige Mann? <!-- TODO: Fallback translation -->
 
 ayaṃ sādhuḥ kiṃ khādati?
 
 ⟪अयं⟫ ⟪साधुः⟫ ⟪किं⟫ ⟪खाद⟫ati ⟪।⟫
 
-10\. Was pressen diese (hier) aus?
+10\. Was pressen diese (hier) aus? <!-- TODO: Fallback translation -->
 
 ete kiṃ sunvanti / sunvate?
 
 ⟪एते⟫ ⟪किं⟫ ⟪सुन्वन्ति⟫ / ⟪सुन्वते⟫ ⟪।⟫
 
-11\. Er ist der Lehrer. Auf ihn hört man (= hören sie).
+11\. Er ist der Lehrer. Auf ihn hört man (= hören sie). <!-- TODO: Fallback translation -->
 
 sa guruḥ. enaṃ śṛṇvanti.
 
@@ -219,3 +220,4 @@ sa guruḥ. enaṃ śṛṇvanti.
 Abb.: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung006))
 :::
+ <!-- TODO: Fallback translation -->

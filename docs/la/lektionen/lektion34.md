@@ -4,9 +4,9 @@ lesson_id: 34
 status: stable
 ---
 
-# Lektion 34
+# Lectio 34
 
-## 34.1. Das Perfekt (⟪लिट्⟫)
+## 34.1. Das Perfekt (⟪लिट्⟫) <!-- TODO: Fallback translation -->
 
 In Sanskrito classico tantummodo indicativus et participium a radicā perfectī manent.
 
@@ -29,7 +29,7 @@ In Sanskrito classico tantummodo indicativus et participium a radicā perfectī 
 **Educatio:**
 
 **thema forte:** singularis Parasmaipada
-*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung**
+*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung** <!-- TODO: Fallback translation -->
 
 **stamen infirmum:** omnes reliquae formae
 *   **radix reduplicata cum syllaba profunda + desinens perfecti**
@@ -90,7 +90,7 @@ Exempla:
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
 
 :::
 ### 34.2.5. Reduplicatio radicum vocaliter incipientium
@@ -104,7 +104,7 @@ Exempla:
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -117,7 +117,7 @@ Exempla:
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
-| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -138,7 +138,7 @@ Exempla:
 Principium divisionis: proprietates gradus thematis:
 *   Perfectum sine gradu thematis: Typus I
 *   Perfectum cum gradu thematis: Typus II - V
-*   unregelmäßige Perfektbildungen
+*   unregelmäßige Perfektbildungen <!-- TODO: Fallback translation -->
 
 ## 34.4. Perfectum Typus I: Perfectum sine gradatione radicis
 
@@ -159,7 +159,7 @@ Exempla:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 34.5. Perfectum Typus II: Robustum radix gradus altus, infirmus radix gradus bassus
@@ -337,7 +337,7 @@ Ritus nuptialis Hindu.
 
 **lekt3402:** Aedes Aurata (Harmandir Sahib), Amritsar. [Fons imaginis: Wikipedia. GNU FDL]
 
-**lekt3403:** Semina sesami. [Imago fons: Wikipedia. Dominium publicum]
+**lekt3403:** Semina sesami. [Imago fons: Wikipedia. Dominium publicum] <!-- TODO: Fallback translation -->
 
 **lekt3404:** Florescentia sesami. [Fons imaginis: Franciscus Xaver / Wikipedia. Licentia GNU FDL]
 

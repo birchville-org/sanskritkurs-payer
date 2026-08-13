@@ -38,7 +38,7 @@
 - **Kostenbremse & Einzelprozess-Zwang**: Massenübersetzungen laufen 100% kostenlos über `http://nyx.local:8000`. Es darf IMMER NUR EIN EINZIGER Prozess Anfragen an `nyx.local:8000` senden (`ps aux | grep lan_translate`). Sollte ein Chunk/Datei lokal unlösbar sein, wird dies gemeldet — externe API-Fallbacks (Gemini/Sonnet) werden ausschließlich auf expliziten Befehl des Users aktiviert.
 - **Single Source of Truth & Modular Hygiene**: Wortlisten, Term-Definitionen und QA-Regex-Muster dürfen NIEMALS in mehreren Skripten dupliziert werden. Sie MÜSSEN zentral in modularen Bibliotheken (`scripts/translation/terms.py`) gebündelt sein. Der Agent MUSS Asynchronitäten zwischen QA-Evaluator und Scanner autonom erkennen und auflösen, ohne auf menschliche Interaktion zu warten.
 - **LLM Server Timeouts**: Bei echten Timeouts/Deadlocks darf `mlx_lm server` über SSH neugestartet werden (Cooldown: 300s).
-- **No LaTeX Math Delimiters**: Mathematische Formeln und Berechnungen MÜSSEN IMMER in reinem ASCII-Klartext / Plaintext gerendert werden. NIEMALS LaTeX-Syntax wie $$, \frac, \approx oder \( \) verwenden.
+- **No LaTeX Math Delimiters & No Backslash Commands**: Mathematische Formeln, Pfeile und Berechnungen MÜSSEN IMMER in reinem Unicode/ASCII-Klartext gerendert werden (z.B. `->`, `=>`, `∑`, `√`). NIEMALS LaTeX-Syntax wie `$`, `$$`, `\rightarrow`, `\frac`, `\approx` oder `\(` verwenden, da das Chat-UI kein LaTeX unterstützt und unformatierten Quelltext anzeigt.
 
 ## 6. Translation Pipeline Invariants
 1. **Chunking**: `MAX_CHUNK` = 3000 Zeichen. Trennungen nur VOR Sektionsgrenzen (`## `), Container-Markern (`:::`) oder Tabellenzeilen (`|`).

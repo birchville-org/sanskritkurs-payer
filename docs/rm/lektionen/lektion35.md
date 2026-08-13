@@ -4,7 +4,7 @@ lesson_id: 35
 status: stable
 ---
 
-# Lektion 35
+# Lecziun 35
 
 ## 35.1. Tip III da perfetg: sterm ferm cotscha/lungida
 
@@ -14,7 +14,7 @@ status: stable
 **starkes Verb:**
 *   3.sg.P: stgalim da lungiaziun
 *   2.sg.P: stgalim aut
-*   1.sg.P: a libra tscherna stgalim aut u stgalim da lungiaziun
+*   1.sg.P: a libra tscherna stgalim aut u stgalim da lungiaziun <!-- TODO: Fallback translation -->
 
 **stèssel:** vesair als sutatip
 :::
@@ -45,7 +45,7 @@ Exempels:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfekt Tip IIIb: Stom ferm cots/lung, stom debel cots
+### 35.1.2. Perfekt Tip IIIb: Stom ferm cots/lung, stom debel cots <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Educaziun:**
@@ -57,7 +57,7 @@ Exempels:
  vegn furmà da radischas dals tipus:
 *   (consonant)-(consonant)-ṝ
 *   consonant-consonant-ṛ (i.e. radischas sin -ṛ, sche quai èn pliras consonants avant)
-Exempels:
+Exempels: <!-- TODO: Fallback translation -->
 
 | Radis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -65,14 +65,14 @@ Exempels:
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfekti tip IV: Radis cun -ā / -āi
+## 35.2. Perfekti tip IV: Radis cun -ā / -āi <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Educaziun:**
 
 **stom ferm:**
 *   3./1. sg. P Perfekt endet auf -au
-*   2. sg. P : stgalim aut -ā u stgalim fonc -i
+*   2. sg. P : stgalim aut -ā u stgalim fonc -i <!-- TODO: Fallback translation -->
 
 **stom debel:**
 *   avant consonant: nivel fonc -i
@@ -80,13 +80,13 @@ Exempels:
 
 Vegn furmà da ragischs sin -ā / -āi
 :::
-Exempel:
+Exempel: <!-- TODO: Fallback translation -->
 
 | Radis | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Radisn Konsonant-a-Konsonant
+## 35.3. Perfekt Typ V: Radisn Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Educaziun:**
@@ -94,13 +94,13 @@ Exempel:
 **starkes Verb:**
 *   3.sg.P: stgalim da lungiaziun
 *   2.sg.P: stgalim aut
-*   1.sg.P: a libra tscherna stgalim aut u stgalim da lungiaziun
+*   1.sg.P: a libra tscherna stgalim aut u stgalim da lungiaziun <!-- TODO: Fallback translation -->
 
 **stema debel:** vesair ils sutg-types
 
 Vegn furmà da ragischs dal tip (consonanta)-consonanta-a-consonanta
 :::
-### 35.3.1. Perfekt Tip Va: stom debel stgalim fonc
+### 35.3.1. Perfekt Tip Va: stom debel stgalim fonc <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Educaziun:**
@@ -159,7 +159,7 @@ Exempl:
 
 schon sie nicht zu Perfekt Typ Va gehören.
 :::
-Exempel:
+Exempel: <!-- TODO: Fallback translation -->
 
 | Radis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -169,21 +169,21 @@ Exempel:
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : perder, distrugger, svanir
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
-**Kaus. ⟪नाशयति⟫** :br
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
+**Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : svanir, perder, distrugger
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : ir, ir
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
-**Fut. ⟪क्रमिष्यति⟫** :br
-**Pass. ⟪क्रम्यते⟫** :br
-**Kaus. ⟪क्रमयति⟫** :br
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫** :br
-**Inf. ⟪क्रमितुम्⟫** :br
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
+**Fut. ⟪क्रमिष्यति⟫**
+**Pass. ⟪क्रम्यते⟫**
+**Kaus. ⟪क्रमयति⟫**
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
+**Inf. ⟪क्रमितुम्⟫**
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
@@ -194,12 +194,12 @@ Persunas che van, Senegal.
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): chantar, recitar en ton chantant, annunziar en discurs ligà
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
-**Fut. ⟪गास्यति⟫** :br
-**Pass. ⟪गीयते⟫** :br
-**Kaus. ⟪गापयति⟫** :br
-**PPP ⟪गीत⟫** :br
-**Inf. ⟪गातुम्⟫**
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
+**Fut. ⟪गास्यति⟫**
+**Pass. ⟪गीयते⟫**
+**Kaus. ⟪गापयति⟫**
+**PPP ⟪गीत⟫**
+**Inf. ⟪गातुम्⟫** <!-- TODO: Fallback translation -->
 
 davon:
 **⟪गीता⟫ f.:** Lied, Gesang
@@ -210,7 +210,7 @@ Abb.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Bildquelle: [Details](/rm/licenses#lekt3501))
 :::
-## 35.5. Esercitaziun
+## 35.5. Esercitaziun <!-- TODO: Fallback translation -->
 
 A) Formai las formas correspondents dal perfet per las suventas formas verbalas:
 
@@ -284,7 +284,7 @@ C) Trasforma le frasi dell'esercizio B) sostituendo i perfetti con gli imperfett
 
 **lekt3501:** Musicists dal templ Kaadu Malleswara Temple Bangalore. [Sursa da l'imagines: Samuelraj / Flickr. CC BY-NC]
 
-**lekt3502:** Persunas che van, Senegal. [Sursa da l'imagines: Curt Carnemark / World Bank. CC BY-NC-ND]
+**lekt3502:** Persunas che van, Senegal. [Sursa da l'imagines: Curt Carnemark / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
 
 **lekt3503:** Mercat en Vadaseri, Tamil Nadu. [Sursa da l'imagines: kifo / Flickr. CC BY-SA]
 

@@ -115,18 +115,22 @@ status: stable
 ā kann
 
 * ⟪एकतरफ़⟫, -a- ⟪वाले⟫ ਆਲਾਉਟ ⟪श्रृंखलाओं⟫ ⟪में⟫ ⟪से⟫ ⟪एक⟫ ⟪की⟫ ⟪दीर्घ⟫ ⟪कोटि⟫ ⟪होना⟫
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein <!-- TODO: Fallback translation -->
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A.**
 
 * **⟪गहरी⟫ ⟪कोटि⟫**
   * **⟪व्यंजन⟫ ⟪के⟫ ⟪सामने⟫: -i-**  
-    ⟪उदा⟫. **:sig[⟪धा⟫]** PPP: **:sig[⟪हित⟫]** (hi-ta)
+::: indent
+⟪उदा⟫. **:sig[⟪धा⟫]** PPP: **:sig[⟪हित⟫]** (hi-ta)
+:::
   * **⟪स्वर⟫ ⟪के⟫ ⟪सामने⟫: Ø**  
-    ⟪उदा⟫. **:sig[⟪धा⟫]** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
+::: indent
+⟪उदा⟫. **:sig[⟪धा⟫]** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
+:::
 * **⟪ऊंची⟫ ⟪कोटि⟫: -ā-**  
   ⟪उदा⟫. **:sig[⟪धा⟫]** 3.sg.P.Ind.Präs. **:sig[⟪दधाति⟫]**
 :::
@@ -170,7 +174,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **ਅਪੂਰਵ** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **ਓਪਟੇਟਿਵ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. **⟪दा⟫** ਅਤੇ **:sig[⟪धा⟫]** ਦੀਆਂ ਜੜ੍ਹਾਂ
+### 33.4.1. **⟪दा⟫** ਅਤੇ **:sig[⟪धा⟫]** ਦੀਆਂ ਜੜ੍ਹਾਂ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪दा⟫ ਅਤੇ :sig[⟪धा⟫] ਦੀਆਂ ਜੜ੍ਹਾਂ -a- ਸਵਰ ਨਾਲ ਪੁਨਰਾਵਰਤਨ ਕਰਦੀਆਂ ਹਨ ਅਤੇ ਕਮਜ਼ੋਰ ਰੂਪ ਵਿੱਚ ਜੜ੍ਹ ਦੇ ਸਵਰ ਨੂੰ ਗੁਆ ਦਿੰਦੀਆਂ ਹਨ⟪।⟫**
@@ -186,7 +190,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-**⟪दा⟫** ਦੇ ਰੂਪ **:sig[⟪धा⟫]** ਦੇ ਪੈਰਾਡਾਇਮ ਵਿੱਚ **dh** ਨੂੰ **d** ਨਾਲ ਬਦਲ ਕੇ ਪ੍ਰਾਪਤ ਕੀਤੇ ਜਾਂਦੇ ਹਨ⟪।⟫ ਇਸ ਲਈ:
+**⟪दा⟫** ਦੇ ਰੂਪ **:sig[⟪धा⟫]** ਦੇ ਪੈਰਾਡਾਇਮ ਵਿੱਚ **dh** ਨੂੰ **d** ਨਾਲ ਬਦਲ ਕੇ ਪ੍ਰਾਪਤ ਕੀਤੇ ਜਾਂਦੇ ਹਨ⟪।⟫ ਇਸ ਲਈ: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪दा⟫** 3U "ਦੇਣਾ"

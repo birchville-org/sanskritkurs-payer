@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 49
 
-Határozza meg a következő alakokat:
+Határozza meg a következő alakokat: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Szám. | Alak | Meghatározás |
@@ -60,7 +60,7 @@ Határozza meg a következő alakokat:
 Ábr.: ⟪गायी⟫
 (Képmagyarázat: [Részletek](/licenses#uebung078))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## ⟪बाण⟫ (⟪७⟫. század i. sz.): ⟪कादम्बरी⟫
 
@@ -73,7 +73,7 @@ A király ⟪शूद्रक⟫ kérdései ⟪विदिशा⟫-tól a pa
 
 > A király így szólt: „Hagyjuk ezt a dolgot! Legyen elég kíváncsiságunk! Uram, meséljen nekünk az elejéről: Melyik földön született? Ki adta önnek a nevet? Ki az anyja? Hogyan szerezte meg a Védákat? Hogyan ismerkedett meg a tanításokkal? Honnan szerezte meg a művészeteket? Emlékszik-e korábbi születésekre, vagy teljesíthet-e kívánságokat? Vagy madáröltözetben rejtőzik valahol? Hol lakott korábban? Vagy hány éves? Hogyan került ketrecbe? És hogyan jutott a cāṇḍálasok kezére? Vagy honnan érkezett ide?”
 >
-> Vaiśampāyana, akit a föld ura spontán felbukkanó kíváncsisággal nagy tisztelettel kérdezett, egy pillanatra elgondolkodott, majd teli tisztelettel válaszolt: „Király, ez egy hosszú történet. Ha érdekli, hallgasson meg!”
+> Vaiśampāyana, akit a föld ura spontán felbukkanó kíváncsisággal nagy tisztelettel kérdezett, egy pillanatra elgondolkodott, majd teli tisztelettel válaszolt: „Király, ez egy hosszú történet. Ha érdekli, hallgasson meg!” <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung079.webp)

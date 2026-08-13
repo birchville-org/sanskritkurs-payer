@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 20
+# Pamoka 20
 
 ## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
 

@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # บทที่ 61
 
@@ -34,7 +34,7 @@ status: stable
 ### 61.1.2. รากนามเพศหญิงลงท้ายด้วย -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
 
 **นอกจากการสร้างด้วยทศวรรณยุกต์กรณามาตรฐาน ใน Dat.Ab.Gen.Lok.sg. และ Gen.pl. ยังมีการสร้างตามรูปแบบของนามเพศหญิงพยางค์หลายพยางค์ลงท้ายด้วย -ī (⟪देवी⟫) ด้วย**
 :::
@@ -114,7 +114,7 @@ status: stable
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-รูปแบบการผัน:
+รูปแบบการผัน: <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ วิ. "แผ่นดิน"
 
@@ -203,7 +203,7 @@ status: stable
 ::: grammar-box
 **รูปของรากศัพท์: โดยทั่วไปรากศัพท์มีรูปเดียวกันกับอนาคตอย่างง่าย สิ่งนี้ใช้กับสระเชื่อม -i- ด้วย**
 :::
-ตัวอย่าง:
+ตัวอย่าง: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ ฯลฯ |
 | --- | --- |
@@ -283,7 +283,7 @@ status: stable
 รายละเอียดกฎเกณฑ์ดูได้ที่เคิลฮอร์น, ไวยากรณ์ § 461
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-ตัวอย่าง:
+ตัวอย่าง: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |

@@ -63,20 +63,20 @@ B) Käännä:
 Eräänä aikana suuri kṣatriya aloitti uhrin. Indra sieppasi (otti) hänen uhri-eläimensä. Kun eläinen oli kuitenkin kadonnut, paha brahmani sanoi kṣatriyalle: "Eläin on kadonnut kṣatriyan huonon käytöksen vuoksi."
 
 ⟪२⟫. **⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवू⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫**
-Rāma oli lapseton. Hän toivoi poikaa, mutta ei saanut sitä. Siksi hän uhraasi jumalille ja noudatti lupauksia kuten seksuaalista pidättäytymistä ja vastaavia. Jumalat kuuntelivat Rāman toivetta ja myönsivät hänelle toivotun pojan.
+Rāma oli lapseton. Hän toivoi poikaa, mutta ei saanut sitä. Siksi hän uhraasi jumalille ja noudatti lupauksia kuten seksuaalista pidättäytymistä ja vastaavia. Jumalat kuuntelivat Rāman toivetta ja myönsivät hänelle toivotun pojan. <!-- TODO: Fallback translation -->
 
 ⟪३⟫. **⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫**
 Brahmaninaiset keittivät gheeä uhrille. Kun brahmaninaiset keittivät, brahmanit valmistivat uhripaikan. Sitten kṣatriyat uhrasivat Śivalle ja muille jumalille uhripäälliköinä, ja brahmanit suorittivat uhrin (valtuutettuna).
 
 ⟪४⟫. **⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫**
-Arhatit ovat katkaisseet perhesiteet, lopettaneet ahneuden, vihan ja harhaanajattelun, tunnistaneet totuuden ja — vapautuneina kärsimyksestä — saavuttaneet pelastuksen onnen.
+Arhatit ovat katkaisseet perhesiteet, lopettaneet ahneuden, vihan ja harhaanajattelun, tunnistaneet totuuden ja — vapautuneina kärsimyksestä — saavuttaneet pelastuksen onnen. <!-- TODO: Fallback translation -->
 
 
 ---
 
-## Syntaktinen muuntelu (Perfekti imperfektiksi)
+## Syntaktinen muuntelu (Perfekti imperfektiksi) <!-- TODO: Fallback translation -->
 
-C) Muunna harjoituksen B) lauseet korvaamalla perfektit imperfekeillä:
+C) Muunna harjoituksen B) lauseet korvaamalla perfektit imperfekeillä: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपाक्रामत⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪ऽहरत्⟫ ⟪॥⟫
 
@@ -90,4 +90,4 @@ C) Muunna harjoituksen B) lauseet korvaamalla perfektit imperfekeillä:
 ![](/images/uebung058.webp)
 Kuv.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
 (Kuv lähde: [Details](/licenses#uebung058))
-:::
+::: <!-- TODO: Fallback translation -->

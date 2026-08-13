@@ -99,7 +99,7 @@ last_reconstructed: 2026-05-15
 | ⟪३९⟫. | ⟪अघम्⟫ | :sig[⟪अघ⟫] n.: Nom. Akk. Vok. Sg. (τὸ κακόν); Akk. Sg. m. (τὸν πονηρόν) |
 | ⟪४०⟫. | ⟪अभुक्थाः⟫ | :sig[⟪भुज्⟫] 7U: 2. Sg. s-Aor. Ā. (ἔφαγες) |
 | ⟪४१⟫. | ⟪उत्थानाय⟫ | :sig[⟪उत्थान⟫] n.: Dat. Sg. (τῇ ἀναστάσει) |
-| ⟪४२⟫. | ⟪अलुम्पत⟫ | :sig[⟪लुप्⟫] 6U: 2. Pl. Impf. P. / 3. Sg. Impf. Ā. |
+| ⟪४२⟫. | ⟪अलुम्पत⟫ | :sig[⟪लुप्⟫] 6U: 2. Pl. Impf. P. / 3. Sg. Impf. Ā. | <!-- TODO: Fallback translation -->
 
 | ⟪४३⟫. | ⟪अलुपत⟫ | :sig[⟪लुप्⟫] 6U: 2. Pl. a-Aor. P. (you shattered) |
 | ⟪४४⟫. | ⟪अलुप्त⟫ | :sig[⟪लुप्⟫] 6U: 3. Sg. s-Aor. Ā. (he broke) |

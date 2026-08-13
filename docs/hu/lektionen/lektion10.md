@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 10. lecke
+# 10. lecke <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 **Ebben a leckében megtanulják:**
@@ -77,7 +77,7 @@ A szanszkrit passzív konstrukciók kifejezetten gyakoriak: a passzív ugyanis k
 | **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
 | **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
-**-a tövű hímnemű és semlegesnemű szavak (szabálytalan egyes és többes számban):**
+**-a tövű hímnemű és semlegesnemű szavak (szabálytalan egyes és többes számban):** <!-- TODO: Fallback translation -->
 
 | | eszközhatározó eset (instrumentalis) egyes szám | eszközhatározó eset (instrumentalis) többes szám |
 | :--- | :--- | :--- |
@@ -113,14 +113,16 @@ A nominatívus és akkuzatívus kivételével a -a végű középnemű kérdő- 
 **Az instrumentális (tṛtīyā) főként a következő kérdésekre áll:**
 - **Mivel?**
 - **Mi által?**
-- **Kivel?**
+- **Kivel?** <!-- TODO: Fallback translation -->
 
 **Az instrumentális**
 1. **passzív mondatokban áll: az agens (kartṛ) eszközhatározó esetben (instrumentalis)**
 2. **az eszköz vagy fegyver megjelölésére, amellyel valamit végrehajtanak**
 3. **az út megjelölésére, amelyen valaki hová jut**
 4. **a kapcsolat, egyesülés, kíséret kifejezésére**
-5. **posztpozíciók esetén „együtt, társaságban” jelentésben; pl. saha = ⟪सह⟫ = „együtt”**:brpl.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = „a bráhmanával együtt”
+5. **posztpozíciók esetén „együtt, társaságban” jelentésben; pl. saha = ⟪सह⟫ = „együtt”**
+pl.
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = „a bráhmanával együtt”
 :::
 Az instrumentális (tṛtīyā) további használatait később tárgyaljuk.
 
@@ -152,7 +154,7 @@ Egy **-n-**, amely után magánhangzó vagy **n, m, y, v** következik, **-ṇ-*
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. A passzív, indikativum jelen idő (yak = ⟪यक्⟫)
+## 10.4. A passzív, indikativum jelen idő (yak = ⟪यक्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Alakítás:**
@@ -166,24 +168,31 @@ pl.
 | **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
 | **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
-**Vegye figyelembe, hogy a 4. jelen időosztályba tartozó igéknél az Ātmanepada és a passzív identikus alakokat képeznek! Az, hogy Ātmanepada vagy passív áll-e fenn, ebben az esetben csak a mondat szerkezetéből következtethető ki.**
+**Vegye figyelembe, hogy a 4. jelen időosztályba tartozó igéknél az Ātmanepada és a passzív identikus alakokat képeznek! Az, hogy Ātmanepada vagy passív áll-e fenn, ebben az esetben csak a mondat szerkezetéből következtethető ki.** <!-- TODO: Fallback translation -->
 
 ### 10.4.1. Különleges szabályok a passzív képzéséhez
 
 1. **-i** vagy **-u** végződésű tő **nyújtja** magánhangzóját a passív képző **-ya-** előtt:
-   * **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 1 P: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Tőn mit -a- zwischen Konsonanten** (ausser Nasalen, y, r, v) bleiben hochstufig:
-   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Einige Tőn bilden ihr Passiv hochstufig** (oder in der Ablautstufe des Jelen idejű tős):
-   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-4. **Tiefstufe von Verben, die mit ya, va, ra beginnen, bzw. bei denen diese Laute nach einem anderen Konsonanten stehen (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
+4. **Tiefstufe von Verben, die mit ya, va, ra beginnen, bzw. bei denen diese Laute nach einem anderen Konsonanten stehen (Samprasāraṇa = ⟪सम्प्रसारण⟫):** <!-- TODO: Fallback translation -->
 
    | Tő:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
    | :--- | :--- | :--- |
@@ -194,41 +203,45 @@ pl.
 A mély szintű képzés hagyományos belföldi megnevezése az **ya** vagy **va** végződésű igéknél a **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. A **kizárólagos -ṛ** egy mássalhangzó után a passzív képző **-ya-** előtt **-ri**-re cserélődik:
-   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * De: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+* **kṛ** 8 U: **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* De: **smṛ** 1 P: **smaryate**
+⟪स्मर्यते⟫
 
 6. **Egyes -an végű alapok alternatívan két passzív képzést mutatnak:**
    * egy **-an-ya**
-   * egy **-ā-ya-** (a hosszú **ā** egy hipotetikus hosszú nazális helyettesítője)
+   * egy **-ā-ya-** (a hosszú **ā** egy hipotetikus hosszú nazális helyettesítője) <!-- TODO: Fallback translation -->
 
 pl. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (a \*tn-ya-nte-ből)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (a \*tn-ya-nte-ből) <!-- TODO: Fallback translation -->
 
 ## 10.5. Szószedet
 
-**Tanulja meg a következő szavakat:**
+**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
 
 - **gṛha** n. ⟪गृह⟫ : ház
 - **grāma** m. ⟪ग्राम⟫ : falu
 - **nagara** n. ⟪नगर⟫ : város
 
   ::: note-box
-A városi és falusi életről lásd Basham, *Wonder*, 6. fejezet.
+  A városi és falusi életről lásd Basham, *Wonder*, 6. fejezet.
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : áldozat
 
   ::: note-box
-Az áldozat Indiában elsősorban az istenség vendégként való tisztelése. Ezzel kötelezettséget vállalunk az istenség felé.
+  Az áldozat Indiában elsősorban az istenség vendégként való tisztelése. Ezzel kötelezettséget vállalunk az istenség felé.
 
-Szóképzés: **yaj** 1 U + kṛt-suffix **-na-**.
+  Szóképzés: **yaj** 1 U + kṛt-suffix **-na-**.
   :::
 
-- **puṇya** n. ⟪पुण्य⟫ : jó cselekedet, érdem
+- **puṇya** n. ⟪पुण्य⟫ : jó cselekedet, érdem <!-- TODO: Fallback translation -->
 
   ::: note-box
-Amellyel boldogulást és jó újjászületéseket érdemel ki az ember.
+  Amellyel boldogulást és jó újjászületéseket érdemel ki az ember.
   :::
 
 - **pāpa** n. ⟪पाप⟫ : rossz cselekedet, gonoszság (ellentéte a **puṇya**nak)
@@ -248,15 +261,15 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hátralevő kézir
 - **anṛta** n. ⟪अनृत⟫ : hazugság, álhaz (ellentéte a **satya**nak)
 
   ::: note-box
-Szóképzés **an-** („nem-“) + **ṛta** n.
+  Szóképzés **an-** („nem-“) + **ṛta** n.
 
-A **ṛta** a Véda központi fogalma, melynek fordítása vitatott: „igazság” (Lüders, Thieme), „rend” (Renou).
+  A **ṛta** a Véda központi fogalma, melynek fordítása vitatott: „igazság” (Lüders, Thieme), „rend” (Renou).
   :::
 
-- **ṛṣi** m. ⟪ऋषि⟫ : védikus bölcs, védikus ének szerzője
+- **ṛṣi** m. ⟪ऋषि⟫ : védikus bölcs, védikus ének szerzője <!-- TODO: Fallback translation -->
 
   ::: note-box
-Ezeknek a **ṛṣi**knak a neveit a Brāhmaṇákban, valamint külön, a Védákhoz tartozó jegyzékekben is megemlítik. Minden bráhmana eredetét olyan **ṛṣi**kra vezeti vissza, akikről a **gotra** (⟪गोत्र⟫) elnevezése származik. A **gotra** fogalommal kapcsolatban lásd Basham, *Wonder*, 5. fejezet.
+  Ezeknek a **ṛṣi**knak a neveit a Brāhmaṇákban, valamint külön, a Védákhoz tartozó jegyzékekben is megemlítik. Minden bráhmana eredetét olyan **ṛṣi**kra vezeti vissza, akikről a **gotra** (⟪गोत्र⟫) elnevezése származik. A **gotra** fogalommal kapcsolatban lásd Basham, *Wonder*, 5. fejezet.
   :::
 
 ::: media
@@ -295,7 +308,7 @@ Ezeknek a **ṛṣi**knak a neveit a Brāhmaṇákban, valamint külön, a Véd�
 21. **pṛcchanti** (⟪पृच्छन्ति⟫)
 22. **tanvanti** (⟪तन्वन्ति⟫) (2 alak!)
 
-**B) Képezze az eddig tanult főnevek instrumentális egyes és többes számát.**
+**B) Képezze az eddig tanult főnevek instrumentális egyes és többes számát.** <!-- TODO: Fallback translation -->
 
 **C) Alakítsa át a következő mondatokat passzívba, és fordítsa le őket:**
 1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫)
@@ -331,7 +344,7 @@ Ezeknek a **ṛṣi**knak a neveit a Brāhmaṇákban, valamint külön, a Véd�
 7. A költő egy istenséget lát. (Passzív szerkezet)
 8. Ki (nőnemű) őriz a leányt? (Passzív szerkezet)
 9. A kṣatriya imádja az ÚR-t egy áldozattal. (Passzív szerkezet, a **yajña** szó használata nélkül)
-10. A nagylelkűség révén egy buddhista követő elér egy mennyországot.
+10. A nagylelkűség révén egy buddhista követő elér egy mennyországot. <!-- TODO: Fallback translation -->
 
 ## 10.7. Szószedet 2
 
@@ -358,7 +371,7 @@ Ezeknek a **ṛṣi**knak a neveit a Brāhmaṇákban, valamint külön, a Véd�
 - **mārga** m. ⟪मार्ग⟫ : út
 - **evam** ⟪एवम्⟫ : így
 - **iha** ⟪इह⟫ : itt
-- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : szép lenni, ragyogni
+- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : szép lenni, ragyogni <!-- TODO: Fallback translation -->
 
 ## 10.8. Olvasási és fordítási gyakorlat
 

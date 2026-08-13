@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 29
+# Lectio 29
 
 ## 29.1. Usus Parasmaipada (⟪परस्मैपद⟫) et Ātmanepada (⟪आत्मनेपद⟫) in Causativo
 
@@ -59,7 +59,7 @@ Kaus. ⟪ग्रासयति⟫
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
 :::
-⟪तीक्ष्ण⟫ 3: "ferox", acris, acutus, severus, vehemens, mordax
+⟪तीक्ष्ण⟫ 3: "ferox", acris, acutus, severus, vehemens, mordax <!-- TODO: Fallback translation -->
 
 ⟪न्याय⟫ m.: norma, regula, recta via et ratio; methodus, logica (a ⟪इ⟫ + ⟪नि⟫)
 
@@ -73,7 +73,7 @@ Pushkar = ⟪पुष्कर⟫
 :::
 ⟪पालयति⟫ : etiam synonymum cum  ⟪पाति⟫
 
-⟪पुनर्⟫ Indekl.: iterum, saepe, retro, rursus; contra, autem (ante sonos sonoros praeter r-: ⟪पुनर्⟫)
+⟪पुनर्⟫ Indekl.: iterum, saepe, retro, rursus; contra, autem (ante sonos sonoros praeter r-: ⟪पुनर्⟫) <!-- TODO: Fallback translation -->
 
 ⟪प्रजा⟫ f.: generatio, natus, progenies
 
@@ -158,11 +158,11 @@ Explanationes:
 
 ⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "adligare, coniungere, unire cum"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva)
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "quanto magis"
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. ad ⟪बलीयस्⟫ ⟪३⟩ "fortior"
+⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. ad ⟪बलीयस्⟫ ⟪३⟩ "fortior" <!-- TODO: Fallback translation -->
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "quattuor" ut pars compositi anterior
 
@@ -170,7 +170,7 @@ Explanationes:
 
 ⟪स्वेषु⟫ : Lok. plur. mask. / neutr. zu ⟪स्व⟫ ⟪३⟫ "proprius (meus, tuus, suus etc.)"
 
-⟪वर्त्मसु⟫ : Lok. plur. neut. ad ⟪वर्त्मन्⟫ n. "iter, via, semita"
+⟪वर्त्मसु⟫ : Lok. plur. neut. ad ⟪वर्त्मन्⟫ n. "iter, via, semita" <!-- TODO: Fallback translation -->
 
 ## 29.4. Futur et causativa radicum hactenus didactarum
 

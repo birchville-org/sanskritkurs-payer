@@ -102,7 +102,7 @@ Cun tge ura has ti restà a Benares?
 Has ti (com'uffizial da sacrifici) onurà ils dieus cun in sacrifici?
 
 ⟪९⟫. **⟪कस्मिन्नगरे⟫ ⟪ऽजायथाः⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-En tge citad es ti naschì?
+En tge citad es ti naschì? <!-- TODO: Fallback translation -->
 
 
 ⟪१०⟫. **⟪कथं⟫ ⟪शत्रुं⟫ ⟪तरसि⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
@@ -113,7 +113,7 @@ Co salves ti (transcendes il flum) avant l'ennemi?
 Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Sursa d'imagia: [Detagls](/licenses#uebung071))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Discurs (⟪संवादः⟫)
 

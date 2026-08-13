@@ -7,13 +7,13 @@ category: "Grammatik"
 status: stable
 ---
 
-# 54. lecke
+# 54. lecke <!-- TODO: Fallback translation -->
 
 ## 54.1. Előzetes megjegyzés
 
 Az 54. leckével kezdődik az egyetemi oktatásban a 2. félév. Ettől fogva a kurzus csak párhuzamosan fut az aktuális félév fő témájával: a Bhagavadgītā teljes szövegének olvasásával. A tanulási cél egy olyan folyékonyaság elérése közepes nehézségű szöveg olvasásában, hogy a félév utolsó harmadában a Bhagavadgītā nagy része váratlanul, előadásból lefordítható legyen. Az elején az egyetemi oktatásban még szójegyzékeket osztottak ki, később a hallgatóknak maguknak kellett megfelelő szótárakat (Monier-Williams, Apte, PW) használniuk.
 
-A Bhagavadgītā kurz tanfolyam előzetesen még nem lesz elérhető online.
+A Bhagavadgītā kurz tanfolyam előzetesen még nem lesz elérhető online. <!-- TODO: Fallback translation -->
 
 A szanszkit kurzus leckeanyagai olyan szanszkit nyelvtani témákat tárgyalnak, amelyek eddig még nem kerültek feldolgozásra.
 
@@ -58,7 +58,7 @@ II. séma:
 :::
 A négy utolsó szótag mennyisége tehát mindkét sémában azonos.
 
-⟪जगती⟫-alapforma: mint a ⟪त्रिष्टुभ्⟫ esetében, de 12 szótagú. Az egyes pada utolsó öt szótagja a következő mennyiségeket emeli ki:
+⟪जगती⟫-alapforma: mint a ⟪त्रिष्टुभ्⟫ esetében, de 12 szótagú. Az egyes pada utolsó öt szótagja a következő mennyiségeket emeli ki: <!-- TODO: Fallback translation -->
 
 ::: metrik-schema
 **— ◡ — ◡ —**
@@ -68,7 +68,7 @@ Mellette létezik az úgynevezett tipikusan fölösleges ⟪त्रिष्�
 ::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
-Későbbi korban a ⟪त्रिष्टुभ्⟫ formáit szigorú hosszú-rövid sémák szerint rögzítik, a caesura már nem játszik szerepet. A legfontosabb későbbi formák a következők:
+Későbbi korban a ⟪त्रिष्टुभ्⟫ formáit szigorú hosszú-rövid sémák szerint rögzítik, a caesura már nem játszik szerepet. A legfontosabb későbbi formák a következők: <!-- TODO: Fallback translation -->
 
 a) ⟪इन्द्रवज्रा⟫
 
@@ -86,7 +86,7 @@ c) ⟪उपजाति⟫
 ⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ és ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ keverednek egy strofába.
 :::
 ::: grammar-box
-**Emlékversek:**
+**Emlékversek:** <!-- TODO: Fallback translation -->
 
 **⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
 
@@ -135,7 +135,7 @@ Az aoristből szanszkritban csak az indikativus és prekativus használatos.
 
 A gyökök eloszlását az egyes alkotási típusok között lásd a megfelelő fejezetekben
 :::
-## 54.6. Tő-aorist
+## 54.6. Tő-aorist <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Alkotás:**
@@ -168,9 +168,9 @@ Csak 12 tőből képezik a gyogorist:
 9.  ⟪शो⟫ 4P "élesít"
 10.  ⟪सो⟫ "befejez"
 11.  ⟪स्था⟫ 1P "áll"
-12.  ⟪भू⟫ 1P "lenni"
+12.  ⟪भू⟫ 1P "lenni" <!-- TODO: Fallback translation -->
 
-A ⟪भू⟫ 1P gyöki aorist így képződik:
+A ⟪भू⟫ 1P gyöki aorist így képződik: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -188,14 +188,14 @@ Az igei gyök aoristjának egy speciális formája a 3.sg.passzív aorist. Ez mi
 
 **Augment + Tő + i**
 
-**A tő a következő alakot ölti:**
+**A tő a következő alakot ölti:** <!-- TODO: Fallback translation -->
 
 Magas fok:
 
 *   Tőn rövid magánhangzóval (kivéve az a-t) egyszerű mássalhangzó előtt, valamint ⟪जन्⟫ és a legtöbb -am végződésű tő
 Példák:  
 ⟪भिद्⟫ 7U: ⟪अभेदि⟫ „megosztották”  
-⟪तुद्⟫ 6U: ⟪अतोदि⟫ „megdöftek”
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ „megdöftek” <!-- TODO: Fallback translation -->
 
 Hosszított fok:
 
@@ -209,7 +209,7 @@ Példák:
 Példa:  
 ⟪वद्⟫ 1P: ⟪अवादि⟫ „mondták”  
 de:  
-⟪जन्⟫ 4Ā: ⟪अजनि⟫ „született”
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ „született” <!-- TODO: Fallback translation -->
 
 *   néhány gyökér -am végződésű
 Példa:  
@@ -231,7 +231,7 @@ Példa:
 :::
 ## 54.7. Gyakorlat
 
-Fordítsa le írásban a következő alakokat, és képezze hozzájuk a megfelelő aorist-alakokat:
+Fordítsa le írásban a következő alakokat, és képezze hozzájuk a megfelelő aorist-alakokat: <!-- TODO: Fallback translation -->
 
 1.  ⟪यन्ति⟫
 2.  ⟪पिबामि⟫

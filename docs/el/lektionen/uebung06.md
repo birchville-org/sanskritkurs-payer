@@ -136,7 +136,7 @@ kā nṛtyati?
 
 ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 
-13\. Die (erwähnte) Brahmanin tanzt.
+13\. Die (erwähnte) Brahmanin tanzt. <!-- TODO: Fallback translation -->
 
 sā brāhmaṇī nṛtyati.
 
@@ -149,9 +149,9 @@ Abb.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 :::
 ---
 
-## Wiederholungsübung Lektion 6
+## Wiederholungsübung Lektion 6 <!-- TODO: Fallback translation -->
 
-A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die sie nach folgenden Einsetzübungen bilden, antworten sind:
+A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die sie nach folgenden Einsetzübungen bilden, antworten sind: <!-- TODO: Fallback translation -->
 
 1\. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -423,7 +423,7 @@ devī gurvī.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
 
 2\. śūdretarā.
 

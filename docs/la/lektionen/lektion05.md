@@ -5,9 +5,9 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 5
+# Lectio 5
 
 ::: deleteme-box
 **In hac lectione discetis:**
@@ -151,7 +151,7 @@ Fig.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, saec. XVIII.
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / in bono Sanskrit: sāmārgyajurvedās trayī)
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (in bono Sanskrit: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+   (in bono Sanskrit: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
 
 4. Tres hominis inimici, qui ianuam inferorum constituunt (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -159,7 +159,7 @@ Fig.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, saec. XVIII.
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
    ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Explicatio: brahmavihāra: "Stati morandi Brahman", etiam "Inmensi" appellati. Sunt formae meditationis Buddhisticae.)
+   (Explicatio: brahmavihāra: "Stati morandi Brahman", etiam "Inmensi" appellati. Sunt formae meditationis Buddhisticae.) <!-- TODO: Fallback translation -->
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
    (Yogasūtra 2,3)
@@ -168,9 +168,9 @@ Fig.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, saec. XVIII.
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
    (Secundum Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
 
-## 5.6. Wiederholungsübung
+## 5.6. Wiederholungsübung <!-- TODO: Fallback translation -->
 
 **A) Translate:**
 

@@ -83,7 +83,7 @@ B) Fordítsa szanszkritra:
 Miért ültök, miközben a tanár áll?
 
 ⟪२⟫. **⟪किं⟫ ⟪विकल्पयसि⟫ ⟪किं⟫ ⟪सुकर्मणः⟫ ⟪सुफलमस्तीति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Kétségbe vonja-e, hogy a jó cselekedetnek jó gyümölcse van?
+Kétségbe vonja-e, hogy a jó cselekedetnek jó gyümölcse van? <!-- TODO: Fallback translation -->
 
 ⟪३⟫. **⟪कच्चित्पितरं⟫ ⟪गर्भगृहं⟫ ⟪दर्शयिष्यथ⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (Vagy: **⟪कच्चित्पित्रे⟫ ... ⟪देक्ष्यथ⟫ ⟪॥⟫**)
 Megmutják-e az atyának a legbelső templomi szentélyt?
@@ -92,7 +92,7 @@ Megmutják-e az atyának a legbelső templomi szentélyt?
 Melyik költő dicséretének énekét adtad elő?
 
 ⟪५⟫. **⟪एतानि⟫ ⟪फलानि⟫ ⟪विक्रेष्यध्वे⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Eladják-e ezeket a gyümölcsöket?
+Eladják-e ezeket a gyümölcsöket? <!-- TODO: Fallback translation -->
 
 ⟪६⟫. **⟪किमाज्ञापयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 Mit parancsoltál?
@@ -145,7 +145,7 @@ Kép: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 | **⟪अशोकः⟫ : (⟪मनसि⟫ ⟪किंचिद्विचार्याणकचतुष्टयं⟫ ⟪च⟫ ⟪तस्य⟫ ⟪पुरत⟫ ⟪उपस्थाप्य⟫) ⟪भो⟫ ⟪श्रेष्ठिन्गृहाण⟫ ⟪मूल्यम्⟫ ⟪।⟫ ⟪मया⟫ ⟪हि⟫ ⟪शीघ्रं⟫ ⟪गृहं⟫ ⟪गन्तव्यम्⟫ ⟪॥⟫** | Aśoka: (gondolkodik egy pillanatig, és letesz négy annát): Tisztelt kereskedő úr, itt az ár. Sietnem kell haza. |
 | **⟪वणिक्⟫ : ⟪रे⟫ ⟪बालक⟫ ⟪।⟫ ⟪एह्येहि⟫ ⟪शृणु⟫ ⟪तावत्⟫ ⟪।⟫ ⟪अल्पमेव⟫ ⟪मूल्यं⟫ ⟪दत्त्वा⟫ ⟪क्व⟫ ⟪व्रजसि⟫ ⟪।⟫ ⟪आणकचतुष्टयमन्यदपि⟫ ⟪देहि⟫ ⟪॥⟫** | Kereskedő: Hé, fiú! Gyere vissza! Figyelj! Hová mész, miután ennyit fizettél? Add vissza a hátralévő négy annát! |
 | **⟪अशोकः⟫ : ⟪श्रेष्ठिन्⟫ ⟪।⟫ ⟪किमनेन⟫ ⟪।⟫ ⟪अकिंचित्करमेतत्⟫ ⟪।⟫ ⟪नाणकगणनाक्लेशस्ते⟫ ⟪ऽल्पीयान्भविष्यति⟫ ⟪॥⟫** | Aśoka: Kereskedő! Mi számít az? Nem jelent semmit. Így kevesebb munkád van a pénzérmék megszámolásával! |
-| **(⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫)** | (Ezt mondja, és sietve elrohan.) |
+| **(⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫)** | (Ezt mondja, és sietve elrohan.) | <!-- TODO: Fallback translation -->
 
 **(⟪विपणिस्थो⟫ ⟪वञ्चको⟫ ⟪वणिक्⟫ ⟪किमपि⟫ ⟪कर्तुमशक्नोत्केवलं⟫ ⟪तस्य⟫ ⟪मनसि⟫ ⟪पश्चात्ताप⟫ ⟪एवासीत्⟫ ⟪।⟫ ⟪अशोको⟫ ⟪गृहमागत्य⟫ ⟪सर्वमपीतिवृत्तमकथयत्⟫ ⟪।⟫ ⟪तत्रस्था⟫ ⟪सर्वे⟫ ⟪ऽपि⟫ ⟪बान्धवा⟫ ⟪मित्राणि⟫ ⟪च⟫ ⟪परमानन्दं⟫ ⟪प्रापुः⟫ ⟪।⟫ ⟪इत्थं⟫ ⟪जन्मोत्सवः⟫ ⟪सानन्दं⟫ ⟪समाप्तिं⟫ ⟪यातः⟫ ⟪॥⟫)**
 

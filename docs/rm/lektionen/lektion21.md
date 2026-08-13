@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecziun 21
 
@@ -40,20 +40,21 @@ Egimpels:
 1\. Classe dal present:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "in che fa sacrifici"
+**yajant**
+⟪यजन्त्⟫ "in che fa sacrifici"
 :::
 ::: grammar-box
 
 | | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | wie **devī** :br⟪देवी⟫ |
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
-| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
+| | **2. Accusativ** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | wie **devī** :br⟪देवी⟫ |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
+| | **6. Genitiv** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
 | **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
-| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
+| | **2. Accusativ** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
+| | **6. Genitiv** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
 
 :::
 Notar il son identic da **⟪यजन्ति⟫** (Nom. pl. Neutrum) cun la 3. pl. P.!
@@ -64,7 +65,7 @@ Notar il son identic da **⟪यजन्ति⟫** (Nom. pl. Neutrum) cun la 3
 **⟪नृत्यन्त्⟫** "dansond"
 
 *   Masculin Nominativ Singular **⟪नृत्यन्⟫**
-*   Neutrum Nominativ Akkusativ Singular **⟪नृत्यत्⟫**
+*   Neutrum Nominativ Accusativ Singular **⟪नृत्यत्⟫**
 *   Feminin Nominativ Singular **⟪नृत्यन्ती⟫**
 :::
 6\. Classe da prezens
@@ -73,7 +74,7 @@ Notar il son identic da **⟪यजन्ति⟫** (Nom. pl. Neutrum) cun la 3
 **⟪विशन्त्⟫** "entrandond"
 
 *   Masculin Nominativ Singular **⟪विशन्⟫**
-*   Neutrum Nominativ Akkusativ Singular **⟪विशत्⟫**
+*   Neutrum Nominativ Accusativ Singular **⟪विशत्⟫**
 *   Feminin Nominativ Singular **⟪विशन्ती⟫** ⟪।⟫ **⟪विशती⟫**
 :::
 ::: grammar-box
@@ -92,18 +93,18 @@ Notar il son identic da **⟪यजन्ति⟫** (Nom. pl. Neutrum) cun la 3
 ::: indent
 **⟪अस्⟫** "esser": **⟪सन्त्⟫** "essend, veritabel, bun, veritabel"
 :::
-::: grammar-box
+::: grammar-box <!-- TODO: Fallback translation -->
 
 | | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪सन्⟫ :braus s-ant-s | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | wie **devī** :br⟪देवी⟫ |
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪सता⟫ :brs-at-ā | ⟪सता⟫ | |
-| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सतस्⟫ | |
+| | **2. Accusativ** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | wie **devī** :br⟪देवी⟫ |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪सता⟫ :brs-at-ā | ⟪सता⟫ | |
+| | **6. Genitiv** :br⟪षष्ठी⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सतस्⟫ | |
 | **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सन्ति⟫ | |
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪सद्भिस्⟫ :braus s-at-bhis | ⟪सद्भिस्⟫ | |
-| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | |
+| | **2. Accusativ** :br⟪द्वितीया⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सन्ति⟫ | |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪सद्भिस्⟫ :braus s-at-bhis | ⟪सद्भिस्⟫ | |
+| | **6. Genitiv** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | |
 
 :::
 ::: indent
@@ -130,7 +131,7 @@ Abb.: ⟪सती⟫-platta da remembranza
 **⟪कृ⟫** "far": **⟪कुर्वन्त्⟫**
 
 *   Masculin Nominativ Singular **⟪कुर्वन्⟫**
-*   Neutrum Nominativ Akkusativ Singular **⟪कुर्वत्⟫**
+*   Neutrum Nominativ Accusativ Singular **⟪कुर्वत्⟫**
 *   Feminin Nominativ Singular **⟪कुर्वती⟫**
 :::
 ### 21.1.2. ⟪महान्त्⟫ "gronds"
@@ -143,7 +144,7 @@ Abb.: ⟪सती⟫-platta da remembranza
 | | **starker Stamm** | ⟪महान्त्⟫ |
 | | **schwacher Stamm** | ⟪महत्⟫ |
 | **Feminin** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -151,13 +152,13 @@ Abb.: ⟪सती⟫-platta da remembranza
 | | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪महान्⟫ :braus mahānt-s | ⟪महत्⟫ :brmahat-Ø | ⟪महती⟫ :brmahat-ī |
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪महान्तम्⟫ :brmahānt-am | ⟪महत्⟫ | wie **devī** :br⟪देवी⟫ |
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪महता⟫ :brmahat-ā | ⟪महता⟫ | |
-| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महतस्⟫ | |
+| | **2. Accusativ** :br⟪द्वितीया⟫ | ⟪महान्तम्⟫ :brmahānt-am | ⟪महत्⟫ | wie **devī** :br⟪देवी⟫ |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪महता⟫ :brmahat-ā | ⟪महता⟫ | |
+| | **6. Genitiv** :br⟪षष्ठी⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महतस्⟫ | |
 | **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪महान्तस्⟫ :brmahānt-as | ⟪महान्ति⟫ :brmahānt-i | |
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महान्ति⟫ | |
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪महद्भिस्⟫ :braus mahat-bhis | ⟪महद्भिस्⟫ | |
-| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪महताम्⟫ :brmahat-ām | ⟪महताम्⟫ | |
+| | **2. Accusativ** :br⟪द्वितीया⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महान्ति⟫ | |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪महद्भिस्⟫ :braus mahat-bhis | ⟪महद्भिस्⟫ | |
+| | **6. Genitiv** :br⟪षष्ठी⟫ | ⟪महताम्⟫ :brmahat-ām | ⟪महताम्⟫ | |
 
 :::
 ::: grammar-box
@@ -308,7 +309,7 @@ B) Tradusci:
 
 ::: deleteme-box
 
-**lekt2101:** ⟪सती⟫-Gedenktafel im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Bildquelle: Flicka / Wikipedia. GNU FDLicense]
+**lekt2101:** ⟪सती⟫-Gedenktafel im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Bildquelle: Flicka / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt2102:** "En sigill da 4.-6. seculer d'era commensala che representa Vishnu cun in adorader. L'inscripziun en Bactrian cursiv di: "Mihira, Vishnu e Shiva". [Sursa da l'imaginescha: PHGCOM / Wikipedia. Licenza GNU FDLicense]"
 

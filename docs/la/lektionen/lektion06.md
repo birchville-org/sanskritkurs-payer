@@ -5,9 +5,9 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 6
+# Lectio 6
 
 ::: deleteme-box
 **In hac lectione discetis:**
@@ -29,7 +29,7 @@ status: stable
 :::
 Si agens (**kartṛ m. = ⟪कर्तृ⟫) in propositione verbalis nominatur, quae non est passiva, tum agens in **Nominativo** (casus primus, prathamā = ⟪प्रथमा⟫) ponitur. In numero (vacana n. = ⟪वचन⟫) agens et forma verbalis congruunt.
 
-## 6.2. De formatione verborum
+## 6.2. De formatione verborum <!-- TODO: Fallback translation -->
 
 Verbum finitum, id est forma verbalis cum desinentia personali, Sanscritice hoc significat:
 
@@ -58,9 +58,9 @@ Quaedam verba aut solum Parasmaipadae aut solum Ātmanepadae adhibentur. In his 
    5. **Futurum**: Futurum
    6. **Conditionalis**
 
-Tempora a stemmatibus temporalibus constituuntur: praesens, aoristus, perfectum, futurum.
+Tempora a stemmatibus temporalibus constituuntur: praesens, aoristus, perfectum, futurum. <!-- TODO: Fallback translation -->
 
-## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫)
+## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫) <!-- TODO: Fallback translation -->
 
 Praesens est tempus praesentiae, praesertim etiam durationis.
 
@@ -73,7 +73,7 @@ Exempla:
 | :--- | :--- | :--- |
 | **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" |
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
-| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
+| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" | <!-- TODO: Fallback translation -->
 
 ## 6.4. Primae terminationes tertiae personae (prathama m. = ⟪प्रथम⟫ = "prima (!) persona")
 
@@ -129,17 +129,17 @@ Ante vocales, in medio verbi, **e** per **ay**, **o** per **av** mutatur.
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verba classis quartae praesentis (divādi = ⟪divādi⟫ = "div etc.")
+### 6.5.3. Verba classis quartae praesentis (divādi = ⟪divādi⟫ = "div etc.") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Radix praesentis = radix in gradu profundo (in qua enuntiatur) + ya-**
 
-| Radix (dhātu m.):br⟪धातु⟫ | Praesensstamm |
+| Wurzel (dhātu m.):br⟪धातु⟫ | Praesensstamm |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
-| **man** :br⟪मन्⟫ | **manyā-** :br⟪मन्य⟫- |
+| **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
 ### 6.5.4. Vowel thematic, classes thematic praesens
 
@@ -147,7 +147,7 @@ Ante vocales, in medio verbi, **e** per **ay**, **o** per **av** mutatur.
 Vocale tematisum in suffixis formationis radicis classium praesentium appellatur. Praesentes classes, quae **a** in suffixo formationis radicis habent, ideo "praesentes classes tematicae" vocantur.
 :::
 
-## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
+## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 - **N. N. quid facit?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Quid N. N. facit?"
@@ -215,7 +215,7 @@ In Sanscrito verba per **formam radicis** indicantur. Numerus post radicem **cla
 (Fons imaginis: Wikipedia, CC-BY-SA 2.5)
 :::
 
-## 6.9. Wiederholungsübung
+## 6.9. Wiederholungsübung <!-- TODO: Fallback translation -->
 
 **A) Exercitium insertionis: Formate quaestiones, ad quas sententiae, quas post sequentia exercitia insertionis formabitis, responsa sunt:**
 1. deī ... (dominus, saltare, creare, ignis, Indra)
@@ -237,9 +237,13 @@ In Sanscrito verba per **formam radicis** indicantur. Numerus post radicem **cla
 9. (brahmanus, brahmana) ... intrant
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (magister) ... Luna-gloria
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+::: indent
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+:::
 11. (optimus) ... Rāmaḥ
-    ⟪साधु⟫ ... ⟪रामः⟫
+::: indent
+⟪साधु⟫ ... ⟪रामः⟫
+:::
 
 **B) Coniugite in Pluralem:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

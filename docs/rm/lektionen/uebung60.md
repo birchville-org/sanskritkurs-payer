@@ -32,7 +32,7 @@ B) Determinai e tradusiai senza agients las suandantas furmas:
 
 10.  ⟪जिहिंसिषुणा⟫ - ⟪जिहिंसिषु⟫ 3 (a Desid. da ⟪हिंस्⟫ 7P) Instr.sg.m.n. tras quel, che vul blessar
 
-11.  ⟪द्युभिः⟫ - ⟪दिव्⟫ ⟪।⟫ ⟪द्यौ⟫ f. Instr.pl. tras ils tschels
+11.  ⟪द्युभिः⟫ - ⟪दिव्⟫ ⟪।⟫ ⟪द्यौ⟫ f. Instr.pl. tras ils tschels <!-- TODO: Fallback translation -->
 
 12.  ⟪जग्लिव⟫ - ⟪ग्लै⟫ 1P 1.du.Perf.P nus dus avain sentì repugnanza
 
@@ -52,31 +52,31 @@ B) Determinai e tradusiai senza agients las suandantas furmas:
 
 20.  ⟪अपिप्रीषतम्⟫ - ⟪प्री⟫ 9U Desid. 2.du.Impf.P vus dus desideravais d'amar
 
-21.  ⟪पिप्रियतुः⟫ - ⟪प्री⟫ 9U 3.du.Perf.P ils dus han amà
+21.  ⟪पिप्रियतुः⟫ - ⟪प्री⟫ 9U 3.du.Perf.P ils dus han amà <!-- TODO: Fallback translation -->
 
 22.  ⟪तिस्रः⟫ - ⟪त्रि⟫ Nom.Akk.Vok.f. trais
 
 23.  ⟪अदांक्ष्टाम्⟫ - ⟪दंश्⟫ 1P 3.du.Aor(4).P ils dus han mordu
 
-24.  ⟪असिसीर्ष्यत⟫ - ⟪सृ⟫ 1/3P Desid. 3.sg.Impf.Pass. era vulì currier
+24.  ⟪असिसीर्ष्यत⟫ - ⟪सृ⟫ 1/3P Desid. 3.sg.Impf.Pass. era vulì currier <!-- TODO: Fallback translation -->
 
 25.  ⟪बभासाते⟫ - ⟪भास्⟫ 1Ā 3.du.Perf.Ā ils dus han splendì
 
-26.  ⟪बिभासिषेथे⟫ - ⟪भास्⟫ 1Ā Desid. 2.du.Ind.Präs.Ā vus dus vulais splender
+26.  ⟪बिभासिषेथे⟫ - ⟪भास्⟫ 1Ā Desid. 2.du.Ind.Präs.Ā vus dus vulais splender <!-- TODO: Fallback translation -->
 
 27.  ⟪अबीभणत⟫ - ⟪भण्⟫ 1P Kaus. 2.pl.Aor(3).P vus avais laschà describir
 
-28.  ⟪चकर्त⟫ - ⟪कृत्⟫ 6P 1.3.sg.Perf.P jau hai / el ha taglià
+28.  ⟪चकर्त⟫ - ⟪कृत्⟫ 6P 1.3.sg.Perf.P jau hai / el ha taglià <!-- TODO: Fallback translation -->
 
 29.  ⟪चकर्थ⟫ - ⟪कृ⟫ 8U 2.sg.Perf.P ti has fatg
 
 30.  ⟪दिद्युते⟫ - ⟪द्युत्⟫ 1Ā 1.3.sg.Perf.ġ jau hai / el ha splendì
 
-31.  ⟪दिद्युतिषे⟫ - ⟪द्युत्⟫ 1Ā Desid. 1.sg.Ind.Präs.ġ jau desideres da splender
+31.  ⟪दिद्युतिषे⟫ - ⟪द्युत्⟫ 1Ā Desid. 1.sg.Ind.Präs.ġ jau desideres da splender <!-- TODO: Fallback translation -->
 
 32.  ⟪चुच्यूषवे⟫ - ⟪चुच्यूषु⟫ (a Desid. da ⟪च्यु⟫ 1Ā) Dat.sg.m.n. a quel, che vul sa mover
 
-33.  ⟪दित्सामि⟫ - ⟪दा⟫ 3U Desid. 1.sg.Ind.Präs.P jau desideres da donar
+33.  ⟪दित्सामि⟫ - ⟪दा⟫ 3U Desid. 1.sg.Ind.Präs.P jau desideres da donar <!-- TODO: Fallback translation -->
 
 34.  ⟪अचीकृतम्⟫ - ⟪कॄत्⟫ 10P 1.sg.Aor(3).P jau hai lodà ;  ⟪कृत्⟫ 6P Kaus. 1.sg.Aor(3).P jau hai laschà tagliar
 
@@ -85,21 +85,21 @@ B) Determinai e tradusiai senza agients las suandantas furmas:
 
 36. ⟪पित्सेथे⟫ -⟪पद्⟫ 4Ā Desid. 2.du.Ind.Präs.Ā vus dus vulais ir enavant
 
-37. ⟪उदीचि⟫ - ⟪उदञ्च्⟫ 3 Lok.sg.m.n. en il nord
+37. ⟪उदीचि⟫ - ⟪उदञ्च्⟫ 3 Lok.sg.m.n. en il nord <!-- TODO: Fallback translation -->
 
-38. ⟪संगणय्य⟫ - ⟪सम्⟫-⟪गण्⟫ 10P Absol. suenter ch'el ha cuntà
+38. ⟪संगणय्य⟫ - ⟪सम्⟫-⟪गण्⟫ 10P Absol. suenter ch'el ha cuntà <!-- TODO: Fallback translation -->
 
 39. ⟪अतिस्तराव⟫ - ⟪स्तॄ⟫ 5/9U Kaus. 1.du.Aor(3).P nus dus avain laschà spartir
 
 40. ⟪त्रिलोक्याः⟫ - ⟪त्रिलोकी⟫ f. Ab.Gen.sg. (dalla) trisfera
 
-41. ⟪अहः⟫ - ⟪अहन्⟫ n. Nom.Akk.sg. il / di
+41. ⟪अहः⟫ - ⟪अहन्⟫ n. Nom.Akk.sg. il / di <!-- TODO: Fallback translation -->
 
-42. ⟪जग्मुषः⟫ - ⟪जग्मिवांस्⟫ ⟪।⟫ ⟪जगन्वांस्⟫ Part.Perf.P a ⟪गम्⟫ 1P Ab.Gen.sg.m.n.Akk.pl.m. quel, ch'è ì ...
+42. ⟪जग्मुषः⟫ - ⟪जग्मिवांस्⟫ ⟪।⟫ ⟪जगन्वांस्⟫ Part.Perf.P a ⟪गम्⟫ 1P Ab.Gen.sg.m.n.Akk.pl.m. quel, ch'è ì ... <!-- TODO: Fallback translation -->
 
 43. ⟪अताप्स्व⟫ - ⟪तप्⟫ 1P 1.duAor(4).P nus dus ardevan
 
-44. ⟪ईशिशिषाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Desid. 1.3.sg.PeriphPerf.ġ jau / el vuliva regnar
+44. ⟪ईशिशिषाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Desid. 1.3.sg.PeriphPerf.ġ jau / el vuliva regnar <!-- TODO: Fallback translation -->
 
 45. ⟪ईशाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā 1.3.sg.PeriphPerf.ġ jau / el regnava
 

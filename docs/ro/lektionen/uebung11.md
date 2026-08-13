@@ -20,10 +20,10 @@ Un brahman dorește un fiu.
 Un sfânt ajunge în cer.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 Așa aduce brahmanul o jertfă zeului.
@@ -98,7 +98,7 @@ C) În propozițiile din A), acolo unde este logic, transformați subiectul, obi
 
 ⟪१२⟫. ⟪ते⟫ ⟪श्रावका⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪॥⟫
 
-D) Formați construcțiile pasive pentru propozițiile formate la C)
+D) Formați construcțiile pasive pentru propozițiile formate la C) <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ऋषिभिः⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
 
@@ -129,13 +129,13 @@ D) Formați construcțiile pasive pentru propozițiile formate la C)
 Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung022))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Exercises suplimentare
 
 A) Traduceți în sanscrită folosind construcții pasive:
 
-1\. Femeile vaișya întrebă brahmanii despre dharma.
+1\. Femeile vaișya întrebă brahmanii despre dharma. <!-- TODO: Fallback translation -->
 
 ⟪वैश्याभिर्ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪।⟫
 
@@ -143,7 +143,7 @@ A) Traduceți în sanscrită folosind construcții pasive:
 
 ⟪गुरुणा⟫ ⟪मन्त्र⟫ ⟪उद्यते⟫ ⟪।⟫
 
-3\. Femeile sacre ajung într-un cer.
+3\. Femeile sacre ajung într-un cer. <!-- TODO: Fallback translation -->
 
 ⟪साध्वीभिः⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽश्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫
 
@@ -233,4 +233,4 @@ E) Transformați propozițiile C)1-5 în construcții active.
 ![](/images/uebung021.webp)
 Fig.: ⟪फलान्यश्नुते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung021))
-:::
+::: <!-- TODO: Fallback translation -->

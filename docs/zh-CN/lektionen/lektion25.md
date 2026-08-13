@@ -5,7 +5,7 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # 第25课
 
@@ -58,7 +58,7 @@ status: stable
 
 ⟪तेभ्यो⟫ ⟪लब्धम्⟫ = “von ihnen (her) empfangen”
 :::
-Beispiele:
+例子：
 
 ::: indent
 ⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = “他从老师那里听闻正法”

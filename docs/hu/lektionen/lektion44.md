@@ -5,9 +5,9 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 44. lecke
+# 44. lecke <!-- TODO: Fallback translation -->
 
 ## 44.1. A második személy ragozott alakjainak képzése (⟪मध्यमः⟫) hangzó végű toldalékkal rendelkező athémás törzseknél
 
@@ -17,7 +17,7 @@ status: stable
 ::: grammar-box
 **A 3. sz. Ā. múltidő alakja formailag megegyezik a 2. sz. Pl. múltidővel!!!**
 :::
-### 44.1.1. Ötödik jelen idő osztály (⟪स्वादि⟫)
+### 44.1.1. Ötödik jelen idő osztály (⟪स्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪सु⟫ 5U
 
@@ -67,9 +67,9 @@ Mássalhangzóra végződő jelen időtörzsek esetén figyelembe kell venni a m
 
 Ezenkívül az alábbi szandhitörvények is érvényesülnek.
 
-(Részletes összefoglalás az ide tartozó összes hangváltozásról Kielhorn, Grammatik S. 76f.)
+(Részletes összefoglalás az ide tartozó összes hangváltozásról Kielhorn, Grammatik S. 76f.) <!-- TODO: Fallback translation -->
 
-### 44.2.1. A dh- szókapcsolatokról
+### 44.2.1. A dh- szókapcsolatokról <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1. **A aspirált mássalhangzó az aspirált mássalhangzó előtt a megfelelő nem spiránsal hanggal helyettesítendő:**
@@ -81,7 +81,7 @@ pl. ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ �
 4. **-s + dh- » -dh-** (Az -s kiesése)
 pl. ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve)
 :::
-### 44.2.2. A s- szókapcsolatokról
+### 44.2.2. A s- szókapcsolatokról <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1. **-s + s- » -ts- vagy (nem választási lehetőség!) -ss-** (így a 2. jelen időosztályban)
@@ -91,9 +91,9 @@ Példák:
 2. **-ṣ + s- » -kṣ-**
 pl. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪द्वेक्षि⟫ (dve**kṣ**i)
 :::
-## 44.3. A második személy ragozott formáinak képzése (⟪मध्यमः⟫) athematikus tövek esetén, amelyeknek nincs magánhangzóra végződő képzője
+## 44.3. A második személy ragozott formáinak képzése (⟪मध्यमः⟫) athematikus tövek esetén, amelyeknek nincs magánhangzóra végződő képzője <!-- TODO: Fallback translation -->
 
-### 44.3.1. Második jelen idejű osztály (⟪अदादि⟫)
+### 44.3.1. Második jelen idejű osztály (⟪अदादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -141,7 +141,7 @@ pl. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪�
 | **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta |
 | **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
 :::
-⟪स्तु⟫ 2U
+⟪स्तु⟫ 2U <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -161,7 +161,7 @@ pl. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪�
 | **Múlt idő (imperfektum)** :br⟪लङ्⟫ | :sig[⟪आसीस्⟫] | :sig[⟪आस्त⟫] |
 | **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | :sig[⟪स्यास्⟫] | :sig[⟪स्यात⟫] |
 :::
-⟪तत्त्वमसि⟫
+⟪तत्त्वमसि⟫ <!-- TODO: Fallback translation -->
 
 ⟪शास्⟫ 2P
 
@@ -183,12 +183,12 @@ pl. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪�
 :::
 ## 44.4. A vocativus (⟪आमन्त्रितम्⟫)
 
-A helyi grammatikusok a vocativust (⟪आमन्त्रितम्⟫) nem tekintik önálló esetszónak, csupán a nominativus (⟪प्रथमा⟫) módosításának.
+A helyi grammatikusok a vocativust (⟪आमन्त्रितम्⟫) nem tekintik önálló esetszónak, csupán a nominativus (⟪प्रथमा⟫) módosításának. <!-- TODO: Fallback translation -->
 
 ::: important
 **A vocativus a megszólítás, az elhívás szolgálatában áll, és kívül esik a mondat többi részével való összefüggésen, így eltér a többi esetszónál, amelyek egy ige vagy más névszó közötti kapcsolatot fejeznek ki.**
 
-**A vocativust általában a mondat elejére helyezzük:**
+**A vocativust általában a mondat elejére helyezzük:** <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -204,13 +204,13 @@ A helyi grammatikusok a vocativust (⟪आमन्त्रितम्⟫) nem
 :::
 
 ::: grammar-box
-**A vocativ többes és kettős számú alakjai megegyeznek a nominatívum (⟪प्रथमा⟫) többes és kettős számú alakjaival.**
+**A vocativ többes és kettős számú alakjai megegyeznek a nominatívum (⟪प्रथमा⟫) többes és kettős számú alakjaival.** <!-- TODO: Fallback translation -->
 
 **A vocativ egyes számú alakjai a [45. lecke](lektion45.md)-ben szerepelnek.**
 :::
 ## 44.5. Szószedet
 
-⟪प्रति⟫ Előtag: vissza, ellen, szemben - felé
+⟪प्रति⟫ Előtag: vissza, ellen, szemben - felé <!-- TODO: Fallback translation -->
 
 ::: indent
 pl.
@@ -258,7 +258,7 @@ ebből:
 Ábr.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : örül (⟪तृतीयया⟫)
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : örül (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -279,9 +279,9 @@ ebből:
 Kép: ⟪नन्दी⟩
 (Képmegjelölés: [Részletek](/hu/licenses#lekt4405))
 :::
-⟪नन्द्⟩ + ⟪अभि⟩ 1P (1Ā)  ⟪अभिनन्दति⟩: örömét leli (⟪द्वितीयया⟩), valakit örömmel üdvözöl, szeretettel fogad
+⟪नन्द्⟩ + ⟪अभि⟩ 1P (1Ā)  ⟪अभिनन्दति⟩: örömét leli (⟪द्वितीयया⟩), valakit örömmel üdvözöl, szeretettel fogad <!-- TODO: Fallback translation -->
 
-⟪यम्⟩ 1P :sig[⟪यच्छति⟩]: tart, visel; adományoz, biztosít; összetart, megfékez, megszelídít, leküzd
+⟪यम्⟩ 1P :sig[⟪यच्छति⟩]: tart, visel; adományoz, biztosít; összetart, megfékez, megszelídít, leküzd <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. Vb ⟪ययाम⟩, ⟪येमुर्⟩  
@@ -325,7 +325,7 @@ ebből:
 Ábr.: ⟪यत्नेन⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4407))
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (mellékforma a ⟪लभ्⟫ mellett): megfog
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (mellékforma a ⟪लभ्⟫ mellett): megfog <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. ige ⟪रेभे⟫  
@@ -336,7 +336,7 @@ PPP ⟪रब्ध⟫
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : megérint, kezd, vállalkozik
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : megérint, kezd, vállalkozik <!-- TODO: Fallback translation -->
 
 ⟪प्रव्रज्या⟫ f. (a ⟪प्र⟫-⟪व्रज्⟫ szóból): a hazából a háztalanságba való távozás; az a ceremónia, amelynek során valaki buddhista novíciussá válik (páli: ⟪पब्बजा⟫)
 
@@ -352,7 +352,7 @@ Lásd:
 :::
 ## 44.6. Gyakorlás
 
-A) Határozza meg és fordítsa le a következő alakokat:
+A) Határozza meg és fordítsa le a következő alakokat: <!-- TODO: Fallback translation -->
 
 1.  ⟪आदेः⟫
 2.  ⟪आदः⟫
@@ -494,7 +494,8 @@ Határozza meg az alábbi alakokat:
 
 **lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Hozzáférés: 2009-01-08. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)
 
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Hozzáférés: 2009-01-08. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)
+**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Hozzáférés: 2009-01-08. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás) <!-- TODO: Fallback translation -->
 
 **lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Hozzáférés: 2009-01-08. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)
 :::
+ <!-- TODO: Fallback translation -->

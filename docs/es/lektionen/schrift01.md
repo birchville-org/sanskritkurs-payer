@@ -8,7 +8,7 @@ El sánscrito se escribía y se escribe en una gran variedad de escrituras. El s
 Fig.: Ejemplos de escritura sánscrita  
 \[Fuente de la imagen: Wikipedia, Licencia GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: &lt;!-- TODO: Fallback translation --&gt;
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ Cada signo consonántico indica también una "a" que sigue a la consonante. Si s
 
 Los vocales siguientes a una consonante -- excepto "a" -- se escriben así:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ &lt;!-- TODO: Fallback translation --&gt;
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau &lt;!-- TODO: Fallback translation --&gt;
 
 El orden al escribir estas combinaciones de consonante + vocal es:
 

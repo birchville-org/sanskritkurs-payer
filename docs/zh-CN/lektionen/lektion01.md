@@ -1,8 +1,8 @@
 ---
-title: Lektion 1
-subtitle: "Die Laute des Sanskrit"
+title: 第1课
+subtitle: "梵语的语音"
 lesson_id: 1
-category: "Grammatik"
+category: "语法"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
@@ -94,7 +94,7 @@ pārvatīparameśvarau |**
 
 **最佳系统语法**
 
-> **Kielhorn**, Franz (1840–1908): 梵语语法 / W. Solf [1862 - 1936] 英译。--柏林：Dümmler，1888。-- XIII, 238页。--原名：A grammar of the Sanscrit language
+> **基尔霍恩**，弗朗茨（1840–1908）：梵语语法 / W. Solf [1862 - 1936] 英译。--柏林：Dümmler，1888。-- XIII, 238页。--原名：A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -128,13 +128,13 @@ pārvatīparameśvarau |**
 
 ## 1.2. 梵语的语音
 
-（图片来源：[详情](/zh-CN/licenses#lekt0106)）
+现代梵语词典按照此分类的顺序排列。该分类对于理解梵语语法至关重要，因此必须熟记：
 
 ::: media
 ![](/images/lekt0106.webp)
 现代梵语词典按照此分类的顺序排列。该分类对于理解梵语语法至关重要，因此必须熟记：
 :::
-现代梵语词典按照此分类的顺序排列。该分类对于理解梵语语法至关重要，因此必须熟记：
+现代梵语词典按照此分类的顺序排列。理解梵语语法不可或缺，因此必须熟记：
 
 ::: note-box
 现代梵语词典按照这一分类法的顺序编排。理解梵语语法必须掌握这种分类法以及语音的顺序，因此需要背诵：

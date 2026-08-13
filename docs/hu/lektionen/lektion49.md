@@ -5,9 +5,9 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 49. lecke
+# 49. lecke <!-- TODO: Fallback translation -->
 
 ## 49.1. Az imperativus képzése (⟪लोट्⟫) athémás jelenstámoké (folytatás)
 
@@ -129,7 +129,7 @@ A mássalhangzóra végződő 9. osztály gyökei a -nī-hi kiejtést a 2.sg. pa
 :::
 #### Hímneműek (⟪पुंस्⟫) és Nőneműek (⟪स्त्री⟫)
 
-A legtöbb eset ⟪बहुव्रीहि⟫ -s tövű (eredetileg középnemű) hátsó taggal.
+A legtöbb eset ⟪बहुव्रीहि⟫ -s tövű (eredetileg középnemű) hátsó taggal. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | **⟪सुमनस्⟫ 3** :br"von gutem Denken, wohlwollend | **⟪दीर्घायुस्⟫ 3** :br"langlebig" |
@@ -153,7 +153,7 @@ A többi esetek a többes számban, mint a középneműek
 :::
 ## 49.3. Főnévképzés: ⟪कृत्⟫-képző -as középnemű
 
-A ⟪कृत्⟫ -as képzővel többes számú középnemű főnevek keletkeznek. Általában absztrakt fogalmak vagy cselekvésnevek (a cselekedetet jelző szavak).
+A ⟪कृत्⟫ -as képzővel többes számú középnemű főnevek keletkeznek. Általában absztrakt fogalmak vagy cselekvésnevek (a cselekedetet jelző szavak). <!-- TODO: Fallback translation -->
 
 A gyökér rövid magánhangzója egyszerű mássalhangzó előtt, valamint a szó végi gyökmagánhangzó megjelenik az erős fokban.
 
@@ -179,7 +179,7 @@ A -is és -us végződésű főnevek viszonylag ritkák.
 
 ⟪ह्रस्व⟫ 3: rövid
 
-⟪आयुस्⟫ n.: élettartam (a teljes élettartam, amit meg lehet élni, ha semmi közbe nem lép);
+⟪आयुस्⟫ n.: élettartam (a teljes élettartam, amit meg lehet élni, ha semmi közbe nem lép); <!-- TODO: Fallback translation -->
 
 ::: indent
 ebből:
@@ -245,7 +245,7 @@ Kép: ⟪कुलूहलम्⟫
 :::
 ⟪वर⟫ m.n.: vágy
 
-⟪उत⟫ Indekl.: és, is, vagy
+⟪उत⟫ Indekl.: és, is, vagy <!-- TODO: Fallback translation -->
 
 ⟪विहंग⟫ m.: madár ("a lég⟪स्⟫álmában - ⟪विह⟫ - haladó")
 
@@ -262,7 +262,7 @@ Kép: ⟪कुलूहलम्⟫
 ⟪वाराणस्याम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: takaró, rejtőhely
+⟪छन्न⟫ n.: takaró, rejtőhely <!-- TODO: Fallback translation -->
 
 ⟪पञ्जर⟫ n.: ketrec
 
@@ -299,9 +299,9 @@ Kép: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
 
-⟪परम⟫ 3: legtávolabbi, legmagasabb; ⟪पञ्चम्या⟫ : jobb mint, magasabb mint
+⟪परम⟫ 3: legtávolabbi, legmagasabb; ⟪पञ्चम्या⟫ : jobb mint, magasabb mint <!-- TODO: Fallback translation -->
 
 ⟪शिशु⟫ m.: gyermek, kölyök
 
@@ -357,7 +357,7 @@ Határozza meg az alábbi alakokat:
 
 ## 49.6. Fordítási gyakorlat
 
-⟪बान⟫ (7. sz. e. k.): ⟪कादम्बरी⟫, kiadta M. R. Kale, 1968, 35–36. o.
+⟪बान⟫ (7. sz. e. k.): ⟪कादम्बरी⟫, kiadta M. R. Kale, 1968, 35–36. o. <!-- TODO: Fallback translation -->
 
 A király ⟪शूद्रक⟫ kérdései ⟪विदिशा⟫ felől a papagáj ⟪वैशम्पायन⟫hoz:
 

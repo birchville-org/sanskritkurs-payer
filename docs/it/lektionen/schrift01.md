@@ -8,7 +8,7 @@ Il sanscrito è stato e viene scritto in una varietà di scritture. La seguente 
 Fig.: Campioni di scrittura sanscrita  
 \[Fonte dell'immagine: Wikipedia, licenza GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: &lt;!-- TODO: Fallback translation --&gt;
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ Ogni segno consonantico indica anche una "a" che segue la consonante. Se si vuol
 
 Le vocali che seguono una consonante -- eccetto "a" -- si scrivono così:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ &lt;!-- TODO: Fallback translation --&gt;
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau &lt;!-- TODO: Fallback translation --&gt;
 
 L'ordine durante la scrittura di queste combinazioni di consonante + vocale è:
 

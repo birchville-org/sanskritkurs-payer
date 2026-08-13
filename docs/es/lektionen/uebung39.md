@@ -108,4 +108,4 @@ A) Forme las formas de la primera persona que corresponden a las siguientes form
 Fig.: ⟪आगारे⟫ ⟪सीदामः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung064))
 ::::
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

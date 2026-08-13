@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 44
 
@@ -69,7 +69,7 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 
 (Una raccolta completa di tutte le variazioni fonetiche pertinenti si trova in Kielhorn, Grammatik pag. 76s.)
 
-### 44.2.1. Sul Wortsandhi per dh-
+### 44.2.1. Sul Wortsandhi per dh- &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 1. **L'aspirata viene sostituita dalla corrispondente non spirata davanti a un'altra aspirata:**
@@ -86,7 +86,7 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 ::: grammar-box
 1. **-s + s- » -ts- oppure (non facoltativo!) -ss-** (così nella 2ª classe del presente)
    Esempi:
-   * **⟪वस्⟫** 1P: Futurooo: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
+   * **⟪वस्⟫** 1P: Futuroooooo: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
    * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
    ad esempio **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
@@ -129,7 +129,7 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
 | **Ottativo** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
 :::
@@ -343,7 +343,7 @@ Assol. -⟪रभ्य⟫
 ::: deleteme-box
 Vedere:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)

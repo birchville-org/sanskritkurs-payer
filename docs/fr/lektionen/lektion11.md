@@ -5,7 +5,7 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Leçon 11
 
@@ -105,7 +105,7 @@ Fig. : **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪मह�
 (Source de l'image : [Détails](/fr/licenses#lekt1101))
 :::
 
-## 11.4. Wiederholungsübung
+## 11.4. Wiederholungsübung <!-- TODO: Fallback translation -->
 
 **A) Traduisez en sanskrit avec des constructions passives :**
 1. Les femmes vaiśya interrogent les brahmanes sur le dharma.
@@ -145,3 +145,4 @@ Fig. : **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪मह�
 Lég. : **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1103))
 :::
+ <!-- TODO: Fallback translation -->

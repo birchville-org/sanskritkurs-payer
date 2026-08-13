@@ -5,7 +5,7 @@ lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # பாடம் 14
 
@@ -71,7 +71,7 @@ PPP-களில், காரணர் (kartṛ)க்கு கருவிப
 
 ஒலிப்புடன் முடிவடையும் பலவினப் பன்மைப் பண்பு இவ்வாறு அமைக்கப்படுகிறது:
 
-> **-langer auslautender Vokal des Stammes + -nām**
+> **-langer auslautender Vokal des Stammes + -nām** <!-- TODO: Fallback translation -->
 
 :::
 ::: center
@@ -106,7 +106,7 @@ PPP-களில், காரணர் (kartṛ)க்கு கருவிப
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
 
 :::
 **கேள்வி உரிச்சொற்கள் மற்றும் குறிப்பு உரிச்சொற்கள்:**
@@ -118,7 +118,7 @@ PPP-களில், காரணர் (kartṛ)க்கு கருவிப
 | **ஆண்பால் / பெண்பால் அல்லாதது** | **ஒருமை சொல்லிலக்கம்** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
 | | **பன்மை சொல்லிலக்கம்** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
 | **பெண்பால்** | **ஒருமை சொல்லிலக்கம்** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **பன்மை சொல்லிலக்கம்** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| | **பன்மை சொல்லிலக்கம்** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ | <!-- TODO: Fallback translation -->
 
 :::
 **வடிவ ஒற்றுமை:**
@@ -168,7 +168,7 @@ PPP-களில், காரணர் (kartṛ)க்கு கருவிப
   * **vac-ana n.** (⟪वचन⟫) : பேசுதல், சொல்
   * **vāk-ya n.** (⟪वाक्य⟫) : சொல், உரை
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = சொற்கள்
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = சொற்கள் <!-- TODO: Fallback translation -->
 
 கீழ்க்காணும் பழமொழிகளை மொழிபெயர்க்கவும், அவற்றை மனப்பாடம் செய்யவும்:
 

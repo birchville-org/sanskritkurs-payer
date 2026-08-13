@@ -93,7 +93,7 @@ Exemplos:
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫:sig[⟪द्राक्षी⟫]⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
@@ -114,7 +114,7 @@ Paradigmas:
 Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5701))
 :::
-⟪कृ⟫ 8U "fazer"
+⟪कृ⟫ 8U "fazer" <!-- TODO: Fallback translation -->
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |

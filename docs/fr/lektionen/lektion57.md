@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 57
+# Leçon 57
 
 ## 57.1. Aorist 4: Aoriste en s
 
@@ -93,7 +93,7 @@ Exemples :
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -141,10 +141,14 @@ Fig. : ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर�
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (au P, ⟪गम्⟫ a l'aoriste thématique)**
 
 2.  ⟪पद्⟫ 4Ā est régulier (p. ex. ⟪अपत्सि⟫), mais à la 3.sg.Ā il a la forme de l'aoriste de racine passif :
-    ⟪अपादि⟫ "il est allé"
+::: indent
+⟪अपादि⟫ "il est allé"
+:::
 
 3.  ⟪बुध्⟫ Ā peut à la 3.sg.Ā prendre optionnellement la forme de l'aoriste de racine passif :
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "il a reconnu"
+::: indent
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "il a reconnu"
+:::
 :::
 ## 57.2. Exercice
 

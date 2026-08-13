@@ -1,19 +1,19 @@
 ---
 title: Lektion 10
-subtitle: "Den Passivsatz (Instrumentalis des Agens)"
+subtitle: "Den Passivsatz (Instrumental des Agens)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
 ---
 
-# Lektion 10
+# Lecziun 10
 
 ::: deleteme-box
 **En questa lecziun avais da aprender:**
 - La frasa passiva (Instrumental dal agent)
 - La declinaziun dal instrumental (tṛtīyā)
-- La lescha da la cerebralisaziun per -n- (Wortsandhi)
+- La lescha da la cerebralisaziun per -n- (sandhi da las paraulas)
 - La furmaziun dal passiv (yak) en l'indicativ present
 - Vocabulari davant sacrifici, veritad e rollas socialas
 :::
@@ -48,7 +48,7 @@ Al passiv **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्राम�
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Ins po entrar = Per plaschair entrar = Entaifer!"
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = "Ins po s'assidar = Per plaschair s'assidar = Per plaschair pigliar plaz"
 :::
-Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli facil da furmar che per exempel numerus stims da present.
+Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli facil da furmar che per exempel numerus stims da present. <!-- TODO: Fallback translation -->
 
 ::: important
 **Frasas passivas en sanscrit pon esser tradusidas en general en passiv en rätoromanisch, perquai che il passiv en linguas occidentalas ha ina funcziun stilistica differenta.**
@@ -75,7 +75,7 @@ Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli faci
 | :--- | :--- | :--- |
 | **Maskulina auf -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
 | **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
-| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
+| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ | <!-- TODO: Fallback translation -->
 
 **Masculins e Neutrums sin -a (irregulàrs en il singular e plural):**
 
@@ -101,7 +101,7 @@ Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli faci
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
 | **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 Fatsch dal Nominativ ed il Accusativ èn las formas dals neutris sin -a, dal pronom interrogativ e dals pronomas demonstrativas identicas cun las formas dal respectiv masculin.
@@ -120,11 +120,13 @@ Fatsch dal Nominativ ed il Accusativ èn las formas dals neutris sin -a, dal pro
 2. **per inditgar il mez or l'instrument cun il qual quai vegn realisa**
 3. **per inditgar il viadi sin il qual in persuna cuntanscha in lieu**
 4. **per exprimer la connexiun, la uniun, la cumpagnia cun**
-5. **a postposiziuns en il significat "cun, cun"; p.ex. saha = ⟪सह⟫ = "cun"** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "cun il brahman"
+5. **a postposiziuns en il significat "cun, cun"; p.ex. saha = ⟪सह⟫ = "cun"**
+z.B.
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "cun il brahman"
 :::
 Ulterras utilisaziuns dal instrumental (tṛtīyā) suondan pli tard.
 
-## 10.3. Il cunsegl cunvegnì dal Cerebralisirungsgesetz per -n- (in Wortsandhi)
+## 10.3. La lega da cerebralisaziun per -n- (sandhi da las paraulas)
 
 ::: grammar-box
 Ina **-n-**, suenter la quala suonda ina vocala u **n, m, y, v**, vegn sustituida cun **-ṇ-**, sche **ṛ, ṝ, r, ṣ** en la parola precedeschan il **-n-** u sche nagin auter sun che vocals, gutturals, labials, **y, v, h** u anusvāra sa chatta tranter quels sons e il **-n-** suandant en la parola.
@@ -164,26 +166,33 @@ ex.
 | :--- | :--- | :--- |
 | **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"er wird geführt" | **nīyante** :br(⟪नीयन्ते⟫) |
 | **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
-| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
+| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) | <!-- TODO: Fallback translation -->
 
 **Nota che per ils verbs da la quarta classa da preschent èn las furmas Ātmanepada e passivas identicas! En quest cas po ins determinar sche i sa tracta da Ātmanepada u passiv mo ord la structura da la frasa.**
 
-### 10.4.1. Reglas spezialas per la furmaziun dal passiv
+### 10.4.1. Reglas spezialas per la furmaziun dal passiv <!-- TODO: Fallback translation -->
 
 1. **Radis cun finala -i u -u** allungeschan lur vocal davant il suffix dal passiv **-ya-**:
-   * **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 1 P: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Radixs cun -a- tranter consonantas** (except nasals, y, r, v) restan a liv elevà:
-   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Quai radis formeschan lur passiv cun la stgala auta** (u en la stgala d’ablaut dal stem dal present):
-   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-4. **Livell profund da verbs che cumenzan cun ya, va, ra u en ils quals quels sons sa chattan suenter in auter consonant (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
+4. **Livell profund da verbs che cumenzan cun ya, va, ra u en ils quals quels sons sa chattan suenter in auter consonant (Samprasāraṇa = ⟪सम्प्रसारण⟫):** <!-- TODO: Fallback translation -->
 
    | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
    | :--- | :--- | :--- |
@@ -194,16 +203,20 @@ ex.
 La denominaziun tradiziunala autoctona per questa furmaziun dal nivel profund en verbs cun **ya** resp. **va** è **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ final suenter in singul consonant vegn remplazzà tras -ri- davant il suffix dal passiv -ya-:**
-   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪⟪क्रियते⟫⟫, ⟪⟪क्रियन्ते⟫⟫
-   * Ma: **smṛ** 1 P: **smaryate** :br⟪⟪स्मर्यते⟫⟫
+* **kṛ** 8 U: **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Ma: **smṛ** 1 P: **smaryate**
+⟪स्मर्यते⟫
 
 6. **Certas radischs cun -an han alternativamain duas furmas dal stem dal passiv:**
    * ina **-an-ya**
    * ina **-ā-ya-** (il **ā** lung è in represchentant per in nasals lung ipotetic)
 
 z.B. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte) <!-- TODO: Fallback translation -->
 
 ## 10.5. Glista da pleds
 
@@ -214,22 +227,22 @@ z.B. **tan** 8 U.
 - **nagara** n. ⟪नगर⟫ : citad
 
   ::: note-box
-Davart la vita en citad ed en vitg cf. Basham, *Wonder*, chap. 6.
+  Davart la vita en citad ed en vitg cf. Basham, *Wonder*, chap. 6.
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : sacrifizi
 
   ::: note-box
-**yajña** m. ⟪यज्ञ⟫ : sacrifiz (L'offranda è en l'Índia in onur fatg a la divinitad sco ospit. Furmaziun da pleds: **yaj** 1 U + suffix **-na-**.)
+  **yajña** m. ⟪यज्ञ⟫ : sacrifiz (L'offranda è en l'Índia in onur fatg a la divinitad sco ospit. Furmaziun da pleds: **yaj** 1 U + suffix **-na-**.)
 
-Furmaziun da pleds: **yaj** 1 U + suffix kṛt **-na-**.
+  Furmaziun da pleds: **yaj** 1 U + suffix kṛt **-na-**.
   :::
 
 - **puṇya** n. ⟪पुण्य⟫ : bun' lavur, merit
 
   ::: note-box
-Tras tge ch'ins sa merita bainesser e bunas renaschientschas.
-  :::
+  Tras tge ch'ins sa merita bainesser e bunas renaschientschas.
+  ::: <!-- TODO: Fallback translation -->
 
 - **pāpa** n. ⟪पाप⟫ : anṛta, mal (cuntrari a **puṇya**)
 - **satya** n. ⟪सत्य⟫ : vardad
@@ -238,25 +251,25 @@ Tras tge ch'ins sa merita bainesser e bunas renaschientschas.
 **satya** n. ⟪सत्य⟫ : veritad (En l'Índia s'attribuiva a la paraula veritabla in pussanza magica.)
 
 Lüders, Heinrich <1869 - 1943>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
 (Sursa d’imagine: [Detagl](/rm/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : na-vardad, manzegna (cuntrari da **satya**)
+- **anṛta** n. ⟪अनृत⟫ : na-vardad, manzegna (cuntrari da **satya**) <!-- TODO: Fallback translation -->
 
   ::: note-box
-formaziun dal pled **an-** («na-») + **ṛta** n.
+  formaziun dal pled **an-** («na-») + **ṛta** n.
 
-**anṛta** n. ⟪अनृत⟫ : falsadad, fals (cuntrari a **satya**; furmaziun da pleds **an-** [„un-“] + **ṛta** n. **ṛta** è in concept central en il Veda)
+  **anṛta** n. ⟪अनृत⟫ : falsadad, fals (cuntrari a **satya**; furmaziun da pleds **an-** [„un-“] + **ṛta** n. **ṛta** è in concept central en il Veda)
   :::
 
 - **ṛṣi** m. ⟪ऋषि⟫ : savant vedic, autore da cants vedicas
 
   ::: note-box
-Ils nums da quests **ṛṣi**s vegnan menziunads en ils Brāhmaṇas sco er en agens registers dals Vedas. Tuts Brahmans derivan lur origin da tals **ṛṣi**s, tenor ils quals lur **gotra** (⟪गोत्र⟫) èn numnads. Davart il term **gotra** cf. Basham, *Wonder*, chap. 5.
+  Ils nums da quests **ṛṣi**s vegnan menziunads en ils Brāhmaṇas sco er en agens registers dals Vedas. Tuts Brahmans derivan lur origin da tals **ṛṣi**s, tenor ils quals lur **gotra** (⟪गोत्र⟫) èn numnads. Davart il term **gotra** cf. Basham, *Wonder*, chap. 5.
   :::
 
 ::: media

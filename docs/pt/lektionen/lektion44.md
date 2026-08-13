@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 44
 
@@ -258,7 +258,7 @@ dele:
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : alegrar-se com (⟪तृतीयया⟫)
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : alegrar-se com (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. I ⟪ननन्द⟫
@@ -325,7 +325,7 @@ disto:
 Fig.: ⟪यत्नेन⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4407))
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (forma secundária de ⟪लभ्⟫): agarrar, segurar
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (forma secundária de ⟪लभ्⟫): agarrar, segurar <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. Vb ⟪रेभे⟫
@@ -412,7 +412,7 @@ A) Analise e traduza as seguintes formas:
 Fig.: ⟪कस्माद्रोदिषि⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4409))
 :::
-B) Traduza:
+B) Traduza: <!-- TODO: Fallback translation -->
 
 ⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
 

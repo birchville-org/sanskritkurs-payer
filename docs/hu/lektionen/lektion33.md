@@ -4,7 +4,7 @@ lesson_id: 33
 status: stable
 ---
 
-# 33. lecke
+# 33. lecke <!-- TODO: Fallback translation -->
 
 ## 33.1. A reduplikáció (⟪अभ्यास⟫ m.)
 
@@ -40,7 +40,7 @@ Példák:
 ::: grammar-box
 **2. Egy gyökör aspirált kezdő mássalhangzója a megfelelő nem-aspirált mássalhangzóval ismétlődik.**
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: indent
 :sig[⟪धा⟫] 3 "leül"
@@ -50,7 +50,7 @@ Példák:
 * 3.sg.P.Ind.Präs. :sig[⟪बि⟫]⟪भेति⟫
 :::
 ::: grammar-box
-**3. Egy gutturális hangot a hozzá tartozó nem aspirált palatális hang másolja:**
+**3. Egy gutturális hangot a hozzá tartozó nem aspirált palatális hang másolja:** <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -70,13 +70,13 @@ Példák:
 ::: grammar-box
 **5. Ha egy gyökér mássalhangzócsoporttal kezdődik, amely zsibbantó hang + néma mássalhangzó, akkor nem a zsibbantó hangot, hanem a rá következő néma mássalhangzót az előző szabályok szerint másoljuk.**
 :::
-Példa:
+Példa: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪स्था⟫ 1 „állni“
 * 3.sg.P.Ind.Präs. ⟪तिष्ठति⟫
 :::
-## 33.2. A harmadik jelen idő osztály (⟪जुहोत्यादि⟫ = „⟪जुहोति⟫ stb.“)
+## 33.2. A harmadik jelen idő osztály (⟪जुहोत्यादि⟫ = „⟪जुहोति⟫ stb.“) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Képzés:**
@@ -96,13 +96,13 @@ Példa:
 * **Az -u-t tartalmazó gyökök reduplikálnak -u-val**
 * **A ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ gyökök reduplikálnak -a-val**
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 ⟪हु⟫ 3P „áldozatként tűzbe önt”
 
 * **Erős gyök:** ⟪जुहो⟫
-* **Gyenge gyök:** ⟪जुहु⟫
+* **Gyenge gyök:** ⟪जुहु⟫ <!-- TODO: Fallback translation -->
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -117,7 +117,7 @@ Példák:
 * egyrészt nyújtott fokú az egyik hangzó sorozat -a- végződésével
 * másrészt nyújtott fokú az ā-csoport egyik hangzó sorozatában
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A.**
@@ -130,7 +130,7 @@ pl. :sig[⟪धा⟫] 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
 * **Magas szint: -ā-**
 pl. :sig[⟪धा⟫] 3.sg.P.Ind.Präs. :sig[⟪दधाति⟫]
 :::
-Ide tartozik például:
+Ide tartozik például: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪स्था⟫ 1
@@ -145,12 +145,12 @@ pl. ⟪पा⟫ 1: PPP ⟪पीत⟫ (pī-ta)
 * **Magas szint: -ā-**
 pl. ⟪पा⟫ 1: Inf. ⟪पातुम्⟫
 :::
-## 33.4. -ā végződésű gyökök a harmadik jeleneti osztályban
+## 33.4. -ā végződésű gyökök a harmadik jeleneti osztályban <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **-ā végződésű gyökök (kivéve ⟪दा⟩ és ⟪धा⟩) gyenge tőben általában -ī- végződést mutatnak** (lásd Thumb-Hauschild, 1. kötet, 1. rész, 271. o.). Valószínűleg a fentebb megnevezett B ablautsor mintaként szolgált, bár ezek a gyökök egyébként az A sor szerint ablautálnak), **magánhangzó végződés előtt a gyökmagánhangzó teljesen eltűnik (lásd az A ablautsort).**
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 ⟪मा⟫ 3Ā "mér"
@@ -162,7 +162,7 @@ Példák:
 | **Kívánó mód (optativus)** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 :::
 ::: grammar-box
-⟪हा⟫ 3P "elhagy"
+⟪हा⟫ 3P "elhagy" <!-- TODO: Fallback translation -->
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
@@ -170,10 +170,10 @@ Példák:
 | **Múlt idő (imperfektum)** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Kívánó mód (optativus)** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Tő ⟪हा⟫ hat vor dem Kívánó mód (optativus)-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. A ⟪दा⟫ és a :sig[⟪धा⟫] gyökök
+### 33.4.1. A ⟪दा⟫ és a :sig[⟪धा⟫] gyökök <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**A ⟪दा⟫ és a :sig[⟪धा⟫] gyökök -a- magánhangzóval redupplikálnak, és a gyenge tőben elveszítik a gyökmagánhangzót.**
+**A ⟪दा⟫ és a :sig[⟪धा⟫] gyökök -a- magánhangzóval redupplikálnak, és a gyenge tőben elveszítik a gyökmagánhangzót.** <!-- TODO: Fallback translation -->
 
 **Vegye figyelembe a :sig[⟪धा⟫] esetén a légzés disszimilációs törvényét!**
 :::
@@ -197,10 +197,10 @@ A ⟪दा⟫ alakokat úgy kapjuk, hogy a :sig[⟪धा⟫] paradigmájában 
 | **Múlt idő (imperfektum)** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Kívánó mód (optativus)** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
-## 33.5. A harmadik jelenidőosztály gyökeinek parasmaipada jelen idői melléknév
+## 33.5. A harmadik jelenidőosztály gyökeinek parasmaipada jelen idői melléknév <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**A 3. osztály igéi a gyenge tövből képezik az összes Parasmaipada jelen idői melléknév alakot.**
+**A 3. osztály igéi a gyenge tövből képezik az összes Parasmaipada jelen idői melléknév alakot.** <!-- TODO: Fallback translation -->
 
 **Kivétel: a középnemű többes szám alany- és tárgyesete választhatóan erős vagy gyenge tövből képezhető.**
 :::
@@ -238,7 +238,7 @@ davon:
 Ábra: ⟪दानम्⟫
 (Képforrás: [Részletek](/hu/licenses#lekt3306))
 :::
-⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
+⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (in Empfang) nehmen, in Besitz nehmen, mitnehmen <!-- TODO: Fallback translation -->
 
 ::: indent
 **Absol.** ⟪आदाय⟫: -val, -vel; valamivel együtt
@@ -257,7 +257,7 @@ Kép: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **PPP** :sig[⟪हित⟫] (!!)  
 **Inf.** :sig[⟪धातुम्⟫]
 :::
-:sig[⟪धा⟫] + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: minden figyelmét valamire összpontosítja, magához tér
+:sig[⟪धा⟫] + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: minden figyelmét valamire összpontosítja, magához tér <!-- TODO: Fallback translation -->
 
 ::: indent
 ebből:
@@ -269,7 +269,7 @@ ebből:
 Kép: ⟪समाधि⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3305))
 :::
-⟪पॄ⟫ 3P ⟪पिपर्ति⟫: megtölt, beteljesít
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫: megtölt, beteljesít <!-- TODO: Fallback translation -->
 
 ::: indent
 Megjegyzés:
@@ -285,7 +285,7 @@ Megjegyzés:
 :::
 ⟪पॄ⟫ + ⟪सम्⟫ csak **Pass.** ⟪सम्पूर्यते⟫ és **Kaus.**: teljesen kitölteni
 
-⟪भी⟫ 3P ⟪बिभेति⟫: félni valakitől (Abl., Gen.)
+⟪भी⟫ 3P ⟪बिभेति⟫: félni valakitől (Abl., Gen.) <!-- TODO: Fallback translation -->
 
 ::: indent
 **Fut.** ⟪भेष्यति⟫  
@@ -342,7 +342,7 @@ ebből:
 **Kaus.** ⟪हापयति⟫  
 **PPP** ⟪हीन⟫: elhagyott, nélkülöző, hiányos
 **Inf.** ⟪हातुम्⟫
-von PPP ⟪हीन⟫:
+von PPP ⟪हीन⟫: <!-- TODO: Fallback translation -->
 
 ⟪हीनयान⟫ n.: a hiányos jármű (a buddhizmusé): lenéző megjelölés a „nagy jármű”, az ⟪महायान⟫ képviselői által; a hiányos út (⟪यान⟫ zu ⟪या⟫ 2: menn, haladni). A ⟪हीनयान⟫ kifejezést nem szabad tovább használni. A régi buddhizmus máig fennálló formája ⟪थेरवाद⟫ nevet visel.
 :::
@@ -351,7 +351,7 @@ von PPP ⟪हीन⟫:
 Ábra: ⟪हीनयानमेव⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt3303))
 :::
-⟪हु⟫ 3P ⟪जुहोति⟫: beletölteni a tűzbe (áldozatként, különösen olvasztott vajként)
+⟪हु⟫ 3P ⟪जुहोति⟫: beletölteni a tűzbe (áldozatként, különösen olvasztott vajként) <!-- TODO: Fallback translation -->
 
 ::: indent
 **Fut.** ⟪होष्यति⟫  
@@ -374,7 +374,7 @@ von PPP ⟪हीन⟫:
 :::
 ## 33.7. Gyakorlat
 
-A) Illessze be a következő mondatmintába a zárójelben lévő szavak megfelelő alakjait:
+A) Illessze be a következő mondatmintába a zárójelben lévő szavak megfelelő alakjait: <!-- TODO: Fallback translation -->
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 

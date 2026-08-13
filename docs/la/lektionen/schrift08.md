@@ -8,7 +8,7 @@ Signa vocalium ad initium verbi, si verbum non coniungitur cum verbo praecedente
 
 ### Ligaturae consonantium
 
-Si in verbo vel sententia duos pluresve consonantes immediate se sequuntur, scribuntur cum ligatura (signum coniunctum).
+Si in verbo vel sententia duos pluresve consonantes immediate se sequuntur, scribuntur cum ligatura (signum coniunctum). <!-- TODO: Fallback translation -->
 
 1. Si primum signorum consonantium coniungendorum cum linea verticali ad dextram finitur, amittit hanc lineam et ponitur ante secundum consonantem.
 
@@ -60,7 +60,7 @@ In fonte scripturae, quae in hoc scripto adhibetur:
 
 ⟪स्⟫ s: ⟪स्क⟫ ska, ⟪स्ख⟫ skha, ⟪स्त⟫ sta, ⟪स्त्य⟫ stya, ⟪स्त्र⟫ stra, ⟪स्त्व⟫ stva, ⟪स्थ⟫ stha, ⟪स्न⟫ sna, ⟪स्प⟫ spa, ⟪स्र⟫ sra
 
-Beachten Sie die Schreibung von jña:
+Beachten Sie die Schreibung von jña: <!-- TODO: Fallback translation -->
 
 ![](/images/schrift017.webp)
 

@@ -54,22 +54,30 @@ Sílaba de la raíz:
 **El vocalismo de esta llamada «sílaba de la raíz» se determina en el aoristo según las siguientes reglas:**
 
 *   **\-ā- ante un consonante simple se sustituye por -a-:**  
-    ⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫  
-    ⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫  
-    :sig[⟪नी⟫] 1U: Caus.  **:sig[⟪नाय⟫]**⟪यति⟫, Aor. ⟪अनी⟫**:sig[⟪नय⟫]**⟪त्⟫  
-    ⟪ज्ञा⟫ 9U: Caus. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫  
+::: indent
+⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫
+⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫
+:sig[⟪नी⟫] 1U: Caus.  **:sig[⟪नाय⟫]**⟪यति⟫, Aor. ⟪अनी⟫**:sig[⟪नय⟫]**⟪त्⟫
+⟪ज्ञा⟫ 9U: Caus. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫
+:::
 
 *   **\-ī-, -e-, -ai- ante un consonante simple se sustituyen por -i-:**  
-    ⟪चित्⟫ 1P: Caus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫  
+::: indent
+⟪चित्⟫ 1P: Caus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫
+:::
 
 *   **\-u-, -o-, -au- ante un consonante simple se sustituyen por -u-:**  
-    ⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
+::: indent
+⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
+:::
 
 **En algunas raíces, las modificaciones mencionadas hasta ahora son opcionales o deben omitirse:**
 
 *   **ar, ār, īr, al, que preceden inmediatamente al consonante final de la sílaba de la raíz y sustituyen a ṛ, ṝ, ḷ, permanece opcionalmente sin cambio o se sustituye por ṛ o ḷ:**  
-    ⟪कॢप्⟫  1Ā: Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U: Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
+::: indent
+⟪कॢप्⟫  1Ā: Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫
+⟪कृष्⟫ 1P/6U: Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
+:::
 :::
 Vocalismo de la sílaba de reduplicación:
 
@@ -85,14 +93,18 @@ Una vez aplicadas las reglas mencionadas anteriormente a la sílaba de la raíz,
 **Este vocalismo de reduplicación está sujeto a las siguientes modificaciones:**
 
 *   **i, u se sustituyen por ī, ū cuando la sílaba de la raíz comienza con una sola consonante y es métricamente breve:**  
-    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫  
+::: indent
+⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
+⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
+:::
 
 *   **a se sustituye por ī cuando la sílaba de la raíz es métricamente breve y comienza con una sola consonante. Si la sílaba de la raíz es métricamente breve y comienza con más de una consonante, el a de la sílaba de reduplicación se sustituye por i. Si la sílaba de la raíz es métricamente larga, el a se conserva:**  
     :sig[⟪नी⟫] 1U: Caus. ⟪नाययति⟫, raíz del aor. ⟪नय्⟫, Aor. ⟪अ⟫**:sig[⟪नी⟫]**⟪नयत्⟫  
     :sig[⟪कृ⟫] 8U: Caus. ⟪कारयति⟫, raíz del aor. ⟪कर्⟫, Aor. ⟪अ⟫**:sig[⟪ची⟫]**⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, raíz del aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Caus. ⟪भावयति⟫, raíz del aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
+::: indent
+⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, raíz del aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫
+⟪भू⟫ 1P: Caus. ⟪भावयति⟫, raíz del aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
+:::
 
 Particularidades de ciertas raíces en Kielhorn, Grammatik § 435c ss.
 
@@ -179,7 +191,7 @@ Ambos ejemplos tienen sentido prohibitivo. El Injuntivo Aoristo se emplea aquí 
 ::: grammar-box
 **Otras formas de las oraciones prohibitivas:**
 
-*   **⟪मा⟫ + (⟪स्म⟫) + Imperativooo (raro)**  
+*   **⟪मा⟫ + (⟪स्म⟫) + Imperativoooooo (raro)**  
     **p. ej. ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫**
 
 *   ⟪अलम्⟫ o ⟪कृतम्⟫ = Instrumental en la oración inhibitiva  

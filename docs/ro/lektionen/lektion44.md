@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 44
 
@@ -69,7 +69,7 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 
 (Compilare detaliată a tuturor modificărilor fonetice aferente aici la Kielhorn, Gramatikă p. 76f.)
 
-### 44.2.1. Despre sandhi-ul de cuvinte pentru dh-
+### 44.2.1. Despre sandhi-ul de cuvinte pentru dh- <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 1. **Aspirata este înlocuită înainte de aspirată de corespunzătoarea neaspirată:**
@@ -258,7 +258,7 @@ din care:
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : a se bucura de (⟪तृतीयया⟫)
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : a se bucura de (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -302,9 +302,9 @@ PPP ⟪आयत⟫ 3: întins lung
 Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4406))
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : a oferi, a prezenta, a predă
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : a oferi, a prezenta, a predă <!-- TODO: Fallback translation -->
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : a lega împreună, a lega, a stăpâni
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : a lega împreună, a lega, a stăpâni <!-- TODO: Fallback translation -->
 
 ⟪यत्⟫ 1Ā ⟪यतते⟫ : a ținti spre (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
@@ -482,7 +482,7 @@ Determinați următoarele forme:
 
 **lekt4401.jpg**: Nicio licență/sursă de imagine specifică găsită în text
 
-**lekt4402.jpg**: Desen de Henri Gerbault (1863 - 1930) (Domeniu public)
+**lekt4402.jpg**: Desen de Henri Gerbault (1863 - 1930) (Domeniu public) <!-- TODO: Fallback translation -->
 
 **lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Accesat la 2009-01-08. -- Licență Creative Commons (Atribuire, fără utilizare comercială, fără opere derivate)
 

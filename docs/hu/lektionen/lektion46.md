@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 46. lecke
+# 46. lecke <!-- TODO: Fallback translation -->
 
 ## 46.1. A 2. személy ragozott igéinek képzése (⟪मध्यमः⟫) Perfektum (⟪लिट्⟫)
 
@@ -19,7 +19,7 @@ status: stable
 | **Perfektumragok** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ^^ \-tha | \-a | \-se | \-dhve | \-dhve |
 :::
-Vegye figyelembe, hogy a -tha végződés – általában nem pedig az alak! – megegyezik az 1. és 3. sg.P-ével a 2.pl.P-ben.
+Vegye figyelembe, hogy a -tha végződés – általában nem pedig az alak! – megegyezik az 1. és 3. sg.P-ével a 2.pl.P-ben. <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 A legtöbb gyökérnél, amelyek -ṛ-re végződnek, nincs kapcsolómag hangzó \-i- a -tha előtt. Egyes gyököknél az \-i- fakultatív a -tha előtt.
@@ -29,9 +29,9 @@ A legtöbb gyökérnél, amelyek -ṛ-re végződnek, nincs kapcsolómag hangzó
 ::: grammar-box
 Die Végződés -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Perfektum I. típus: nincs tőszabályozás
+### 46.1.3. Perfektum I. típus: nincs tőszabályozás <!-- TODO: Fallback translation -->
 
-Azok a igék, amelyek ezt a típust követik:
+Azok a igék, amelyek ezt a típust követik: <!-- TODO: Fallback translation -->
 
 *   Mássalhangzó-hosszú magánmássalhangzó
 *   Mássalhangzó-magánmássalhangzó-mássalhangzó
@@ -175,9 +175,9 @@ Ezen típusba tartozó igék:
 :::
 ### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
 
-#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Tő Tiefstufe
+#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Tő Tiefstufe <!-- TODO: Fallback translation -->
 
-Ige, amelyek ezt a típust követik:
+Ige, amelyek ezt a típust követik: <!-- TODO: Fallback translation -->
 
 ::: indent
 1.  gam „menni”
@@ -252,12 +252,12 @@ Ige, amelyek ezt a típust követik:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
-#### 46.1.7.2. Perfektum Vb: Konsonant-a-Konsonant, kezdő mássalhangzó nem gutturális, nem aspirált, nem h, gyenge tő reduplikáció nélkül, -e- képzővel
+#### 46.1.7.2. Perfektum Vb: Konsonant-a-Konsonant, kezdő mássalhangzó nem gutturális, nem aspirált, nem h, gyenge tő reduplikáció nélkül, -e- képzővel <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 A 2.sg.P. a gyenge tőből képződik, ha az összekötő magánhangzó -i- lép fel.
 :::
-⟪पच्⟫ 1U
+⟪पच्⟫ 1U <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -267,9 +267,9 @@ A 2.sg.P. a gyenge tőből képződik, ha az összekötő magánhangzó -i- lép
 :::
 #### 46.1.7.3. Perfektum Vc: Konsonant-a-Konsonant, gyenge tő erős fok
 
-Ige, amelyek ezt a típust követik:
+Ige, amelyek ezt a típust követik: <!-- TODO: Fallback translation -->
 
-*   Minden többi gyökér közép -a- hanggal
+*   Minden többi gyökér közép -a- hanggal <!-- TODO: Fallback translation -->
 
 ⟪क्रम्⟫ 1U
 
@@ -315,7 +315,7 @@ Ige, amelyek ezt a típust követik:
 :::
 ### 46.1.9. Periphrastikus perfekta (⟪अनुप्रयोगलिट्⟫)
 
-A periphrastikus perfekta a következőkből képződik:
+A periphrastikus perfekta a következőkből képződik: <!-- TODO: Fallback translation -->
 
 *   származtatott igei alapok (kauzativum, dezideratívum, frequentativum, denominalis igék), különösen a kauzativum
 *   olyan alapok, amelyek hosszú magánhangzóval kezdődnek (kivéve az ā-t)
@@ -344,7 +344,7 @@ A periphrastikus perfekta a következőkből képződik:
 abból:
 ⟪समम्⟫ Hatószó: egyenlő módon, egyszerre (⟪तृतीयया⟫), egyenletesen
 ⟪समता⟫ nőnemű: egyenlő lelkület
-⟪विषम⟫ 3: egyenlőtlen, egyenetlen, gonosz
+⟪विषम⟫ 3: egyenlőtlen, egyenetlen, gonosz <!-- TODO: Fallback translation -->
 
 :::
 ⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : megragad, megfog, elfog
@@ -368,7 +368,7 @@ davon:
 6.  ⟪शुक्रः⟫ = Vénusz
 7.  ⟪शनिः⟫ = Szaturnusz
 8.  ⟪राहुः⟫
-9.  ⟪केतुः⟫
+9.  ⟪केतुः⟫ <!-- TODO: Fallback translation -->
 
 :::
 A ⟪राहु⟫ és a ⟪केतु⟫ tekintetében lásd:
@@ -424,7 +424,7 @@ Inf. ⟪नन्तुम्⟫
 Kép: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/hu/licenses#lekt4607)
 (Képmegjelölés: [Részletek](/hu/licenses#lekt4607))
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : meghódít, felmászik
+⟪रुह्⟫ 1P ⟪रोहति⟫ : meghódít, felmászik <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
@@ -496,7 +496,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : anhängni, připnout se k (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : anhängni, připnout se k (⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -582,7 +582,7 @@ pl.
 :::
 ## 46.3. Gyakorlat
 
-A) Határozza meg és fordítsa le a következő alakokat:
+A) Határozza meg és fordítsa le a következő alakokat: <!-- TODO: Fallback translation -->
 
 1.  ⟪वित्थ⟫
 2.  ⟪वेत्थ⟫
@@ -658,7 +658,7 @@ Kép: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪�
 
 ::: deleteme-box
 
-Navagraha képek forrása: Redtigerxyz / Wikipedia. GNU FDLicense
+Navagraha képek forrása: Redtigerxyz / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
 
 L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, kb. 1870). Forrás: Wikipedia. Közterület
 

@@ -32,7 +32,7 @@ O, femeie śūdră, ai transportat oare povara în casa brahmanului bogat?
 O, zeiță, ar fi trebuit să îndeplini dorința de fericire a vaiśya-ului, care a făcut fapte meritorii.
 
 ⟪८⟫. **⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (Sau: **... ⟪न⟫ ⟪भिन्द्यात⟫ ⟪॥⟫**)
-O, elefanți, nu ar fi trebuit să rupeți legăturile.
+O, elefanți, nu ar fi trebuit să rupeți legăturile. <!-- TODO: Fallback translation -->
 
 ⟪९⟫. **⟪नरसिंह⟫ ⟪कस्माद्ब्रह्मणि⟫ ⟪न⟫ ⟪समादधासि⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 O, om asemănător leului, de ce nu îți îndrezi atenția complet către Absolut?

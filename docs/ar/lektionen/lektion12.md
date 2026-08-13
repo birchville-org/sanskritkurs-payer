@@ -158,7 +158,7 @@ Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : to burn (something)
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : to overcome, to endure, to endure patiently = to forgive
 - **mṛga** m. ⟪मृग⟫ : wild animal
-- **mārga** m. ⟪मार्ग⟫ : طريق (غالبًا ما كانت الطرق عبارة عن مسارات للحيوانات البرية)
+- **mārga** m. ⟪मार्ग⟫ : طريق (غالبًا ما كانت الطرق عبارة عن مسارات للحيوانات البرية) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1202.webp)

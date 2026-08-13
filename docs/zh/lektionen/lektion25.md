@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 25
+# 第25課
 
 ## 25.1. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung") <!-- TODO: Fallback translation -->
 

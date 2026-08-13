@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 33
 
-A) Illessze be a következő mondatminta megfelelő alakjait a zárójelben megadott szavakból:
+A) Illessze be a következő mondatminta megfelelő alakjait a zárójelben megadott szavakból: <!-- TODO: Fallback translation -->
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 

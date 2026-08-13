@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 51
+# Les 51
 
 ## 51.1. ⟪उपपद⟫-Komposita
 

@@ -3,7 +3,7 @@ title: Lektion 53
 lesson_id: 53
 ---
 
-# Lektion 53
+# Pamoka 53
 
 ## 53.1. Der Dual (⟪द्विवचन⟫ n.) der Nomina
 
@@ -490,9 +490,11 @@ Siehe auch:
 
 Die Bestimmung des Metrums ist aus folgenden Gründen wichtig:
 
-1.  **Ästhetisch:** das Versmass macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmasse u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmasse werden je verschieden rezitiert. :br Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Ästhetisch:** das Versmass macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmasse u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmasse werden je verschieden rezitiert.
+Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Textkritisch:** Fehler im Versmass können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmass hilft, Textverbesserungen vorzunehmen.
-3.  **Chronologisch:** gewisse Versmasse gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: :br **Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+3.  **Chronologisch:** gewisse Versmasse gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in:
+**Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)

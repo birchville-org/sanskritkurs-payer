@@ -60,7 +60,7 @@ En la tipografía utilizada en este script:
 
 ⟪स्⟫ s: ⟪स्क⟫ ska, ⟪स्ख⟫ skha, ⟪स्त⟫ sta, ⟪स्त्य⟫ stya, ⟪स्त्र⟫ stra, ⟪स्त्व⟫ stva, ⟪स्थ⟫ stha, ⟪स्न⟫ sna, ⟪स्प⟫ spa, ⟪स्र⟫ sra
 
-Beachten Sie die Schreibung von jña:
+Beachten Sie die Schreibung von jña: &lt;!-- TODO: Fallback translation --&gt;
 
 ![](/images/schrift017.webp)
 

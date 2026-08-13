@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. เพอร์เฟกต์ ประเภท I: ไม่มีการลดรูปฐานศัพท์ (no stem gradation)
+### 46.1.3. เพอร์เฟกต์ ประเภท I: ไม่มีการลดรูปฐานศัพท์ (no stem gradation) <!-- TODO: Fallback translation -->
 
 กริยาที่เข้าข่ายประเภทนี้:
 
@@ -658,7 +658,7 @@ Abb.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪�
 
 ::: deleteme-box
 
-แหล่งภาพ Navagraha: Redtigerxyz / Wikipedia. GNU FDLicense
+แหล่งภาพ Navagraha: Redtigerxyz / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
 
 L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ประมาณ ค.ศ. 1870). แหล่ง: Wikipedia. สาธารณสมบัติ
 

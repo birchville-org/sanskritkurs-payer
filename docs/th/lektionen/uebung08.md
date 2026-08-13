@@ -196,7 +196,7 @@ kiṃ kāraṇam?
 หญิงพรหมจรรย์เข้าบ้าน
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 เด็กชายนำช้างไป

@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 61
 
@@ -34,7 +34,7 @@ Paradigma:
 ### 61.1.2. Nomi radicali femminili in -ī
 
 ::: grammar-box
-**Vor vokalischer Desinenza wird -ī durch -iy ersetzt.**
+**Vor vokalischer Desinenza wird -ī durch -iy ersetzt.** &lt;!-- TODO: Fallback translation --&gt;
 
 **Oltre alle forme con le desinenze regolari casuali, nel Dat.Ab.Gen.Loc.sg. e Gen.pl. si trovano anche forme secondo il modello dei femminili polisillabici in -ī (⟪देवी⟫).**
 Paradigma:
@@ -115,7 +115,7 @@ Paradigmi:
 
 **Deklination analog zu den femininen Radicenomina auf -ī**
 :::
-Paradigma:
+Paradigma: &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪भू⟫ f. "Terra"
 
@@ -159,7 +159,7 @@ Fig.: ⟪रथ्याप्वः⟫
 ### 61.1.6. Declinazione dei femminili polisillabici in -ū
 
 ::: grammar-box
-**I femminili polisillabici in -ū vengono declinati analogamente ai temi polisillabici in -ī (⟪देवी⟫), ma terminano al Nominativooo singolare in -s.**
+**I femminili polisillabici in -ū vengono declinati analogamente ai temi polisillabici in -ī (⟪देवी⟫), ma terminano al Nominativoooooo singolare in -s.**
 :::
 Paradigma:
 
@@ -235,18 +235,26 @@ Paradigma:
 **L'intensivo significa:**
 
 *   **che una persona o cosa fa o subisce ripetutamente ciò che è espresso dalla radice**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "egli fa ripetutamente"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "egli è (diventa) spesso"  
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "egli fa ripetutamente"
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "egli è (diventa) spesso"
+:::
 
 *   **che una persona o cosa fa o subisce intensamente ciò che è espresso dalla radice:**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "egli fa intensamente, egli fa con efficacia"  
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "egli fa intensamente, egli fa con efficacia"
+:::
 
 *   **nelle radici che esprimono un movimento, l'intensivo significa il movimento curvo:**  
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "egli cammina con curve" (NON: "egli cammina spesso")  
+::: indent
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "egli cammina con curve" (NON: "egli cammina spesso")
+:::
 
 *   **in alcune radici (elenco: Kielhorn, Grammatik § 458b) l'intensivo esprime biasimo:**  
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "egli taglia male"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "egli si siede male"
+::: indent
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "egli taglia male"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "egli si siede male"
+:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -284,7 +292,7 @@ Esempi:
 Le regole nel dettaglio in Kielhorn, Grammatica § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Esempi:
+Esempi: &lt;!-- TODO: Fallback translation --&gt;
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -316,8 +324,8 @@ ad es.
     *   **Passivo presente: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
     *   **Perfetto: perifrastico: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
     *   **Aoristo: aoristo iṣ (aoristo 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Futurooo: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **Futurooo perifrastico: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+    *   **Futuroooooo: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+    *   **Futuroooooo perifrastico: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
 ### 61.3.2. Parasmaipada-Intensivum
 
@@ -350,7 +358,7 @@ Imperfetto (⟪लङ्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-Imperativooo (⟪लोट्⟫):
+Imperativoooooo (⟪लोट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |

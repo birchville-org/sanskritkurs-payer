@@ -3,7 +3,7 @@ title: Lektion 18
 lesson_id: 18
 ---
 
-# Lektion 18
+# Leçon 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
@@ -111,15 +111,23 @@ autres indéclinables
 En tant que membre antérieur adverbial (indeclinable), peuvent
 
 1.  des adverbes
-    ⟪अब्राह्मणः⟫ = un Kṣatriya ou Vaiśya, qui porte le cordon sacré (⟪यज्ञोपवीत⟩ n.) et ressemble ainsi à un Brahmane, sans en être un
+::: indent
+⟪अब्राह्मणः⟫ = un Kṣatriya ou Vaiśya, qui porte le cordon sacré (⟪यज्ञोपवीत⟩ n.) et ressemble ainsi à un Brahmane, sans en être un
+:::
 2.  des particules
 autres indéclinables
 3.  Altérité (⟪तदन्यत्वम्⟩) :  
-    ⟪अपटम्⟩ = quelque chose qui n'est pas un tissu / vêtement (⟪पट⟩ m : tissu, vêtement)
+::: indent
+⟪अपटम्⟩ = quelque chose qui n'est pas un tissu / vêtement (⟪पट⟩ m : tissu, vêtement)
+:::
 4.  Petitesse (⟪तदल्पता⟩) :  
-    ⟪अनुदरम्⟩ = un petit ventre (un non-ventre)
+::: indent
+⟪अनुदरम्⟩ = un petit ventre (un non-ventre)
+:::
 5.  Désapprobation (⟪अप्राशास्त्यम्⟩) :  
-    ⟪अकालः⟩ = intempestivité
+::: indent
+⟪अकालः⟩ = intempestivité
+:::
 6.  Hostilité (⟪निरोधः⟩) :  
 Les membres adverbiaux antérieurs les plus importants sont a-/an-, su-, dus-.
 
@@ -157,7 +165,7 @@ Certaines prépositions verbales importantes sont :
 Exemples :
 
 ::: indent
-⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : aller vers, se diriger vers
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : aller vers, se diriger vers <!-- TODO: Fallback translation -->
 
 ⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : indiquer, enseigner, conseiller
 
@@ -370,7 +378,7 @@ B) Traduisez les Tatpuruṣa suivants :
 
 ⟪३१⟫. ⟪अमृत⟫ n.
 
-## 18.6. Wiederholungsübung
+## 18.6. Wiederholungsübung <!-- TODO: Fallback translation -->
 
 Veuillez ne pas utiliser d'aides-mémoire !
 

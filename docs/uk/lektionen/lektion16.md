@@ -249,3 +249,4 @@ B) Перекладіть та розберіть усі санскритськ�
 
 **lekt1604:** ⟪हरियाणा⟫ / ⟪हरियाणा⟫ [Джерело зображення: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Доступ отримано 2008-12-07. -- Creative Commons License (Attribution, non-commercial, no derivatives)]
 :::
+ &lt;!-- TODO: Fallback translation --&gt;

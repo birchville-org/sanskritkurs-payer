@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 50
 
@@ -72,7 +72,7 @@ Exemple:
 
 ⟪पचतितमाम्⟫ „el/ea/ea gătește cel mai bine”
 :::
-**Această formă o au și aceste sufixe, când apar la un indeclinabil și cuvântul derivat este folosit adverbial:**
+**Această formă o au și aceste sufixe, când apar la un indeclinabil și cuvântul derivat este folosit adverbial:** <!-- TODO: Fallback translation -->
 
 ::: indent
 ex. ⟪सुतराम्⟫ (la ⟪सु⟫) „în mod mai bun” (adverbial)
@@ -83,7 +83,7 @@ Fig.: ⟪का⟫ ⟪पचतितमाम्⟫
 Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5006))
 :::
-## 50.2. Listă de cuvinte
+## 50.2. Listă de cuvinte <!-- TODO: Fallback translation -->
 
 ⟪ध्रुव⟫ 3: ferm, neschimbat
 
@@ -91,7 +91,7 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 
 ⟪पण्डित⟫ 3: isteț, înțelept, învățat
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫: a disprețui, a neglija
+⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫: a disprețui, a neglija <!-- TODO: Fallback translation -->
 
 ⟪मन्त्रिन्⟫ 3: sfătuitor ; m.: consilier, consilier de stat, ministru
 
@@ -101,7 +101,7 @@ Fig.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), ministru de stat în Ministerul Științei și Tehnologiei și Ministerul Științelor Pământului (din 2006)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: secret, singurătate
+⟪रहस्⟫ n.: secret, singurătate <!-- TODO: Fallback translation -->
 
 ⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫: a fi afectat, a eșua, a deteriora
 
@@ -152,7 +152,7 @@ Sosirea monsunului, Bangalore  ಬೆಂಗಳೂರು
 Fig.: ⟪आदित्यः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: fiecare, toți
+⟪सर्व⟫ 3: fiecare, toți <!-- TODO: Fallback translation -->
 
 Declinație ca ⟪यद्⟫ (excepție: Nom.Akk.sg.Neutrum)
 
@@ -189,7 +189,7 @@ Fig.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : vedea
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : vedea <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. ⟪चचक्षे⟫
@@ -201,7 +201,7 @@ nu este utilizat în celelalte timpuri
 
 ## 50.3. Exercițiu de traducere
 
-A) În recapitularea declinării: următorul vers conține toate formele de declinare la singular pentru ⟪गुरु⟫ m.:
+A) În recapitularea declinării: următorul vers conține toate formele de declinare la singular pentru ⟪गुरु⟫ m.: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫
@@ -297,7 +297,7 @@ Explicații:
 
 **lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Sursa imaginii: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Accesat la 2009-01-12. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, fără utilizare comercială, fără modificări)]
 
-**lekt5001:** Kapil Sibal (1948 -), ministru de stat în Ministerul Științei și Tehnologiei și Ministerul Științelor Pământului (din 2006) [Sursa imaginii: Forumul Economic Mondial. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Accesat la 2009-01-12. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribuire, share alike)]
+**lekt5001:** Kapil Sibal (1948 -), ministru de stat în Ministerul Științei și Tehnologiei și Ministerul Științelor Pământului (din 2006) [Sursa imaginii: Forumul Economic Mondial. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Accesat la 2009-01-12. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribuire, share alike)] <!-- TODO: Fallback translation -->
 
 **lekt5002:** Sosirea monsoonului, Bangalore  ಬೆಂಗಳೂರು [Sursa imaginii: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Accesat la 2009-01-12. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, fără utilizare comercială, fără modificări)]
 
@@ -305,7 +305,7 @@ Explicații:
 
 **lekt5003:** [Sursă imagine: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Accesat la 2009-01-12. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, non-comercial, fără modificări)]
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Sursă imagine: Kounosu / Wikipedia. Licență GNU FDL]
+**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Sursă imagine: Kounosu / Wikipedia. Licență GNU FDL] <!-- TODO: Fallback translation -->
 
 **lekt5008:** Ganeshpuri, la 80 km de Mumbai (⟪मुंबई⟫) distanță [Sursă imagine: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Accesat la 2009-01-13. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, non-comercial, share alike)]
 

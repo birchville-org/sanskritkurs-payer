@@ -14,7 +14,7 @@ status: stable
 **Înainte de consoanele finale ale rădăcinii de nivel profund, se inserează un așa-numit infix nazal (-na- sau -n-):**
 
 *   **în tema puternică: -na-**
-*   **în tema slabă: -n-**
+*   **în tema slabă: -n-** <!-- TODO: Fallback translation -->
 
 **Pentru legarea consoanelor finale ale rădăcinii cu terminațiile care încep cu consoană, se aplică aceleași reguli ca și pentru clasa de prezent a 2-a.**
 :::
@@ -216,9 +216,9 @@ B) Formați pentru următoarele rădăcini din clasa a 7-a toate formele de pers
 
 ::: deleteme-box
 
-**lekt3101:** Reprezentare Yoga. [Sursa imaginii: Flickr, 2008-12-25. CC BY]
+**lekt3101:** Reprezentare Yoga. [Sursa imaginii: Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
 
-**lekt3102:** Pregătire pentru dansul Kathakali, Kochi. [Sursa imaginii: winchrisabi. Flickr, 2008-12-25. CC BY]
+**lekt3102:** Pregătire pentru dansul Kathakali, Kochi. [Sursa imaginii: winchrisabi. Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
 
 **lekt3103:** Dintr-un manuscris Prajñāpāramitā. [Sursa imaginii: zeno.org. Domeniu public]
 

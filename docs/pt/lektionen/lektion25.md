@@ -5,7 +5,7 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 25
 
@@ -281,7 +281,7 @@ daí:
 Fig.: ⟪मूलानि⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): untar, besuntar
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): untar, besuntar <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫

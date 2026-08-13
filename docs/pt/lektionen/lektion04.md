@@ -48,7 +48,7 @@ status: stable
 **Sobre o Nom. sg. masc.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) ocorre antes de todos os sons, exceto o **-a** breve
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) ocorre antes de **-a**, que é elidido (omitido) com Avagraha
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) ocorre apenas em Pausa (fim de frase, fim de verso)
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) ocorre apenas em Pausa (fim de frase, fim de verso) <!-- TODO: Fallback translation -->
 
 Para poder formar frases com estes pronomes (sarvanāman n.), é ainda necessário o conhecimento das seguintes regras de Sandhi:
 
@@ -107,3 +107,4 @@ NOTA: As respostas que você pode dar a tais perguntas com seu conhecimento atua
 ![](/images/lekt0401.webp)
 (Fonte da imagem: [Detalhes](/licenses#lekt0401))
 :::
+ <!-- TODO: Fallback translation -->

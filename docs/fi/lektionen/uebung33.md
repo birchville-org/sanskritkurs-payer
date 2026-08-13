@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 33
 
-A) Sijoita seuraavaan lausemalliin sulkujen vastaavat sanamuodot:
+A) Sijoita seuraavaan lausemalliin sulkujen vastaavat sanamuodot: <!-- TODO: Fallback translation -->
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
@@ -30,7 +30,7 @@ A) Sijoita seuraavaan lausemalliin sulkujen vastaavat sanamuodot:
 
 ⟪रामो⟫ ⟪धेनवे⟫ ⟪ऽन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेन्वायन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेन्वा⟫ ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेनुभ्यो⟫ ⟪ऽन्नं⟫ ⟪ददाति⟫ ⟪॥⟫
 
-B) Sijoita sulkujen määritettyjen verbien vastaavat muodot indikatiivin preesensin, imperfektin ja optatiivin mukaisesti:
+B) Sijoita sulkujen määritettyjen verbien vastaavat muodot indikatiivin preesensin, imperfektin ja optatiivin mukaisesti: <!-- TODO: Fallback translation -->
 
 ⟪ब्राह्मनो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 
@@ -64,18 +64,18 @@ B) Sijoita sulkujen määritettyjen verbien vastaavat muodot indikatiivin preese
 
 ⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेनापिपः⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ⟪पिपूर्यात्⟫ ⟪॥८॥⟫
 
-C) Käännä ja muunna yksikkölauseet monikkomuodoiksi ja päinvastoin:
+C) Käännä ja muunna yksikkölauseet monikkomuodoiksi ja päinvastoin: <!-- TODO: Fallback translation -->
 
 ⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫
 
-Joogi keskittää mielensä näkemykseen, joka johtaa kärsimyksen vapautumiseen.
+Joogi keskittää mielensä näkemykseen, joka johtaa kärsimyksen vapautumiseen. <!-- TODO: Fallback translation -->
 
 
 ⟪योगयुक्ता⟫ ... ⟪समादधते⟫ ⟪॥१॥⟫
 
 ⟪यो⟫ ⟪भिक्षवे⟫ ⟪दानानि⟫ ⟪द्द्यात्सो⟫ ⟪ऽपि⟫ ⟪दानपुण्यमाददीत⟫ ⟪॥२॥⟫
 
-Joka luovuttaa lahjoja munkille, saa lahjoituksen ansion.
+Joka luovuttaa lahjoja munkille, saa lahjoituksen ansion. <!-- TODO: Fallback translation -->
 
 ⟪ये⟫ ... ⟪दद्युस्ते⟫ ... ⟪आददीरन्⟫ ⟪॥२॥⟫
 
@@ -87,7 +87,7 @@ Koska brahmanit eivät kantaneet taakkaa, brahminin palvelija vei taakan kotiin.
 
 ⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हीत्वा⟫ ⟪पनर्भवमैत्⟫ ⟪॥४॥⟫
 
-Kṣatriya-sankeri jätti perheensä poikansa kanssa taistelemaan. Koska hänet surmasi vihollinen taistelussa, hän jätti ruumiinsa ja syntyi uudelleen.
+Kṣatriya-sankeri jätti perheensä poikansa kanssa taistelemaan. Koska hänet surmasi vihollinen taistelussa, hän jätti ruumiinsa ja syntyi uudelleen. <!-- TODO: Fallback translation -->
 
 ⟪क्षत्रियशूराः⟫ ⟪पुत्रानादाय⟫ ⟪योद्धुं⟫ ⟪कुलान्यजहुः⟫ ⟪।⟫ ⟪ते⟫ ⟪युद्धे⟫ ⟪शत्रुहत्वाच्छरीराणि⟫ ⟪हीत्वा⟫ ⟪पुनर्भवमायन्⟫ ⟪॥४॥⟫
 
@@ -99,7 +99,7 @@ Myös jumalten lahjoittama onni ei täytä vapautumistoivetta kärsimyksistä. V
 
 ⟪यः⟫ ⟪साधुर्भूतेभ्यो⟫ ⟪ऽभयं⟫ ⟪ददाति⟫ ⟪तस्माद्भूतानि⟫ ⟪न⟫ ⟪बिभ्यति⟫ ⟪स⟫ ⟪च⟫ ⟪तेभ्यो⟫ ⟪न⟫ ⟪बिभेति⟫ ⟪॥६॥⟫
 
-Pyhän edessä, joka myöntää olentoille pelottomuuden, olennot eivät pelkää ja hän ei pelkää heitä.
+Pyhän edessä, joka myöntää olentoille pelottomuuden, olennot eivät pelkää ja hän ei pelkää heitä. <!-- TODO: Fallback translation -->
 
 ⟪ये⟫ ⟪साधवो⟫ ⟪भूताय⟫ ⟪ऽभयं⟫ ⟪ददति⟫ ⟪तेभ्यो⟫ ⟪तन्न⟫ ⟪बिभेति⟫ ⟪ते⟫ ⟪च⟫ ⟪तस्मान्न⟫ ⟪बिभ्यति⟫ ⟪॥६॥⟫
 

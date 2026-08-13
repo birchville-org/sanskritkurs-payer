@@ -5,11 +5,11 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 24
+# Lectio 24
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
+## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **1. Ut finem vel intentionem ("ut" cum infinitivo) actionis exprimatur, potest nomen cum suffixo kṛt, quod actionem vel statum designat, in dativo (⟪चतुर्थी⟫ = "quarta casus desinentia") adhiberi.**
@@ -218,7 +218,7 @@ A ⟪वृत्⟫:
 :::
 ⟪अभि⟫ Praepositio:  be-, post - huc, ad - huc, contra, in - intro, in respectu ad, super, apud
 
-⟪नि⟫ Praeverbium: deorsum, sursum, introrsum, retrorsum
+⟪नि⟫ Praeverbium: deorsum, sursum, introrsum, retrorsum <!-- TODO: Fallback translation -->
 
 ⟪आ⟫ Praepositio / Postpositio: ante Ablativum vel post Accusativum: usque ad, usque ad; cum Ablativo: a, ab, a tempore
 
@@ -295,7 +295,7 @@ Codex ⟪गीतगोविन्द⟫, anno 1730 p. Chr.
 
 ⟪तृण⟫ n.: grashalm
 
-⟪पुनर्⟫ Adverb: iterum, rursus, retro, sed
+⟪पुनर्⟫ Adverb: iterum, rursus, retro, sed <!-- TODO: Fallback translation -->
 
 ## 24.5. Exercitium
 
@@ -353,9 +353,9 @@ B) Versa et solvite composita in Sanscrito:
 
 C) Reddite sententias A) 1-4 in Sanskrit, ut pro infinitivis dativis (⟪तुमुन्⟫) ponatis. Notate, quod infinitivus eundem casum regat ac verbum correspondens.
 
-D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -⟪अर्थ⟫ durch einen gleichwertigen Dativ.
+D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -⟪अर्थ⟫ durch einen gleichwertigen Dativ. <!-- TODO: Fallback translation -->
 
-E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -⟪अर्थ⟫
+E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -⟪अर्थ⟫ <!-- TODO: Fallback translation -->
 
 ## 24.6. Exercitationes de usu Dativi
 
@@ -423,7 +423,7 @@ Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 **lekt2408:** "Narrans Jeff Byers, San Franciscoe, narrat cum incolis Chenneri, vico Irulae. Narrator Jeeva Raghunath in Tamilicum vertit pro incolis." [Fontes imaginis: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Accessus 2008-12-14. -- Licentia Creative Commons (Attributio, usus non commercialis)]
 
-**lekt2409:** [Imago fontis: Redtigerxyz / Wikipedia, Licentia Publica GNU FD]
+**lekt2409:** [Imago fontis: Redtigerxyz / Wikipedia, Licentia Publica GNU FD] <!-- TODO: Fallback translation -->
 
 **lekt2410:** ⟪नरसिंह⟫ dilacerat ⟪हिरण्यकशिपु⟫, folium e codice ⟪भागवतपुराण⟫ [fons imaginis: Wikipedia, dominio publico]
 

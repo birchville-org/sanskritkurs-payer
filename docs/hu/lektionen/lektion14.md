@@ -5,16 +5,16 @@ lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 14. lecke
+# 14. lecke <!-- TODO: Fallback translation -->
 
-## 14.1. A névmások által jelölt dolgok közötti viszony kifejezése: a birtokos eset (ṣaṣṭhī f. = ⟪षष्टी⟫ = hatodik esetrag)
+## 14.1. A névmások által jelölt dolgok közötti viszony kifejezése: a birtokos eset (ṣaṣṭhī f. = ⟪षष्टी⟫ = hatodik esetrag) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Ha két főnév által kifejezett jelölés közötti viszonyt szeretnénk megfogalmazni, a birtokos esetet (ṣaṣṭhī f. „hatodik esetrag”) használjuk. A birtokos eset abban különbözik az összes többi esettől, hogy – néhány kivételtől eltekintve – nem a cselekvést kifejező igével kapcsolatos pontosabb meghatározásra szolgál, hanem a főnevek által jelölt személyek vagy tárgyak közötti viszony kifejezésére. Gyakran a következő kérdésre válaszol: Kinek?
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ⟪कवेः⟫ ⟪पुत्रः⟫ "A költő fia"
 
@@ -32,9 +32,9 @@ A szórend általában a következő:
 **Birtokos eset és PPP:**
 
 ::: grammar-box
-A PPP-k esetén a birtokos eset az eszközhatározó (tṛtīyā) helyett állhat a cselekvő (kartṛ) megjelölésére; az eszközhatározós szerkezetben a PPP-t passzív igeként kezelik (az eszközhatározóban álló elem jelöli a cselekvőt), míg a birtokos szerkezetben a PPP-t főnévként vagy melléknévként értelmezzük (így a birtokosban álló elem nem cselekvőként funkcionál).
+A PPP-k esetén a birtokos eset az eszközhatározó (tṛtīyā) helyett állhat a cselekvő (kartṛ) megjelölésére; az eszközhatározós szerkezetben a PPP-t passzív igeként kezelik (az eszközhatározóban álló elem jelöli a cselekvőt), míg a birtokos szerkezetben a PPP-t főnévként vagy melléknévként értelmezzük (így a birtokosban álló elem nem cselekvőként funkcionál). <!-- TODO: Fallback translation -->
 
-Pāṇini 2.3.67 szabálya szerint a PPP esetén a birtokos eset áll, ha az igeképző jelen időt jelent (lásd fent), az eszközhatározó pedig, ha múlt időt fejez ki:
+Pāṇini 2.3.67 szabálya szerint a PPP esetén a birtokos eset áll, ha az igeképző jelen időt jelent (lásd fent), az eszközhatározó pedig, ha múlt időt fejez ki: <!-- TODO: Fallback translation -->
 
 > ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "A Rāma által kívánt gyümölcs = Az a gyümölcs, amelyet Rāma jelenleg kíván"
 > 
@@ -42,9 +42,9 @@ Pāṇini 2.3.67 szabálya szerint a PPP esetén a birtokos eset áll, ha az ige
 
 Természetesen egy PPP semleges nemű egyes számú alaknál, amelyet névmási igeképzőként – azaz főnévként – használnak, a birtokos eset áll.
 :::
-## 14.2. A birtokos eset képzése (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. A birtokos eset képzése (ṣaṣṭhī f. = ⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
 
-A birtokos eset igegyökeknél szókifejlődéssel a gyenge tőből képződik.
+A birtokos eset igegyökeknél szókifejlődéssel a gyenge tőből képződik. <!-- TODO: Fallback translation -->
 
 **Mássalhangzóra végződő tők birtokos esete:**
 
@@ -52,7 +52,7 @@ A birtokos eset igegyökeknél szókifejlődéssel a gyenge tőből képződik.
 
 Mássalhangzó után a rendszeres birtokos eset végződése:
 * egyes szám: **-as**
-* többes szám: **-ām**
+* többes szám: **-ām** <!-- TODO: Fallback translation -->
 
 :::
 ::: center
@@ -60,7 +60,7 @@ Mássalhangzó után a rendszeres birtokos eset végződése:
 | Névstammbázis | Schwacher Tő | birtokos eset (genitivus) egyes szám | birtokos eset (genitivus) többes szám |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
-| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
+| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ | <!-- TODO: Fallback translation -->
 
 :::
 **A magánhangzó végződésű tőkének genitivusa, kivéve az egy szótagú gyöknévokat és a diftongusra végződő tőkéket:**
@@ -85,10 +85,10 @@ A magánhangzó végződésű tövek többes számának birtokos esete így kép
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutī-nām** :br ⟪श्रुतीनाम्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devī-nām** :br ⟪देवीनाम्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśū-nām** :br ⟪पशूनाम्⟫ |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ | <!-- TODO: Fallback translation -->
 
 :::
-**birtokos eset (genitivus) egyes szám vokalisch auslautender Stämme:**
+**birtokos eset (genitivus) egyes szám vokalisch auslautender Stämme:** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -106,7 +106,7 @@ A genitivus singularis magánhangzóval végződő tövek esetén szabálytalanu
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
 
 :::
 **Kérdő- és mutató névmások:**
@@ -118,7 +118,7 @@ A genitivus singularis magánhangzóval végződő tövek esetén szabálytalanu
 | **hímnem / semlegesnem** | **birtokos eset (genitivus) egyes szám** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
 | | **birtokos eset (genitivus) többes szám** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
 | **nőnem** | **birtokos eset (genitivus) egyes szám** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **birtokos eset (genitivus) többes szám** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| | **birtokos eset (genitivus) többes szám** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ | <!-- TODO: Fallback translation -->
 
 :::
 **Formengleichheit:**
@@ -147,7 +147,7 @@ Továbbiak később.
 
 * **śīla n.** (⟪शील⟫) : (jó) karakter, erkölcsiség
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : ékszer
-* **dīpa m.** (⟪दीप⟫) : lámpa
+* **dīpa m.** (⟪दीप⟫) : lámpa <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1405.webp)
@@ -168,9 +168,9 @@ Továbbiak később.
   * **vac-ana n.** (⟪वचन⟫) : a beszéd, a szó
   * **vāk-ya n.** (⟪वाक्य⟫) : szó, beszéd
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = közmondások
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = közmondások <!-- TODO: Fallback translation -->
 
-Fordítsa le a következő közmondásokat, és tanulja meg őket fejből:
+Fordítsa le a következő közmondásokat, és tanulja meg őket fejből: <!-- TODO: Fallback translation -->
 
 **⟪नीचो⟫ ⟪वद⟫ati ⟪न⟫ ⟪कुरुते⟫** **⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫**
 
@@ -184,7 +184,7 @@ Fordítsa le a következő közmondásokat, és tanulja meg őket fejből:
 
 ## 14.6. Gyakorlat
 
-**A) Alakítsa ki az alábbi szavakat genitivus egyes és többes számban. Adja meg a szavak jelentését és nemét:**
+**A) Alakítsa ki az alábbi szavakat genitivus egyes és többes számban. Adja meg a szavak jelentését és nemét:** <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪अनृत⟫
 
@@ -241,7 +241,7 @@ Fordítsa le a következő közmondásokat, és tanulja meg őket fejből:
 Kép: ⟪पुत्रवती⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1404))
 :::
-⟪२६⟫. ⟪जल⟫
+⟪२६⟫. ⟪जल⟫ <!-- TODO: Fallback translation -->
 
 ⟪२७⟫. ⟪मार्ग⟫
 
@@ -302,7 +302,7 @@ Kép: ⟪पुत्रवती⟫
 Ábra: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Képmeghatározás: [Részletek](/hu/licenses#lekt1403))
 :::
-**B) Fordítsa le:**
+**B) Fordítsa le:** <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 lehetőség)
 

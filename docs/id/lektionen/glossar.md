@@ -110,7 +110,7 @@ outline: 2
 | ⟪इन्द्र⟫ | [indra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indra&filter=roman&accent=no&transLit=roman) | m | pangeran, yang utama, terbaik di antara; raja para dewa Indra | [15](/id/lektionen/lektion15#_15-8-daftar-kata) |
 | ⟪इन्द्रिय⟫ | [indriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indriya&filter=roman&accent=no&transLit=roman) | n | power, sense organ | [24](/id/lektionen/lektion24#_24-4-daftar-kata) |
 | ⟪इव⟫ | [iva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iva&filter=roman&accent=no&transLit=roman) | — | seolah-olah, seperti (dalam perbandingan: = "seorang pria seperti harimau", "pria seumpama harimau" | [15](/id/lektionen/lektion15#_15-8-daftar-kata) |
-| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | to send | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
+| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | sig[] : to send | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
 | ⟪इह⟫ | [iha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iha&filter=roman&accent=no&transLit=roman) | Adv | here, here on earth, hither; now. Before nouns in the locative () synonymous with  | [50](/id/lektionen/lektion50#_50-2-daftar-kata) |
 
 ## ई
@@ -207,12 +207,8 @@ outline: 2
 | ⟪कोविद⟫ | [kovida](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kovida&filter=roman&accent=no&transLit=roman) | 3 | experienced in ( ) | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
 | ⟪कौमर⟫ | [kaumara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kaumara&filter=roman&accent=no&transLit=roman) | n | masa kecil | [48](/id/lektionen/lektion48#_48-4-daftar-kata) |
 | ⟪कौशिक⟫ | [kauśika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kauśika&filter=roman&accent=no&transLit=roman) | m | owl | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
-| ⟪क्रमयति⟫ | [kramayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramayati&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
-| ⟪क्रमितुम्⟫ | [kramitum](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramitum&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
-| ⟪क्रमिष्यति⟫ | [kramiṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramiṣyati&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
-| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | melangkah, pergi | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
-| ⟪क्रम्यते⟫ | [kramyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramyate&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
-| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
+| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | sig[], 4P :sig[] : melangkah, pergi | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
+| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
 | ⟪क्रिया⟫ | [kriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kriyā&filter=roman&accent=no&transLit=roman) | f | action, sacred action, sacrificial action, ceremony (to 8) | [20](/id/lektionen/lektion20#_20-9-daftar-kata) |
 | ⟪क्री⟫ | [krī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krī&filter=roman&accent=no&transLit=roman) | 9U | membeli | [30](/id/lektionen/lektion30#_30-6-daftar-kata) |
 | ⟪क्रूर⟫ | [krūra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krūra&filter=roman&accent=no&transLit=roman) | 3 | raw, cruel | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
@@ -223,10 +219,6 @@ outline: 2
 | ⟪क्षत्रियी⟫ | [kṣatriyī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriyī&filter=roman&accent=no&transLit=roman) | f | istri seorang Kṣatriya | [3](/id/lektionen/lektion03#_3-6-daftar-kata) |
 | ⟪क्षमा⟫ | [kṣamā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣamā&filter=roman&accent=no&transLit=roman) | f | kesabaran, keteguhan hati, kemurahan hati | [16](/id/lektionen/lektion16#_16-2-daftar-kata) |
 | ⟪क्षिप्⟫ | [kṣip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣip&filter=roman&accent=no&transLit=roman) | 6P | throw, hurl | [49](/id/lektionen/lektion49#_49-4-daftar-kata) |
-| ⟪क्षिप्त⟫ | [kṣipta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣipta&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪क्षिप्यते⟫ | [kṣipyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣipyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪क्षेपयति⟫ | [kṣepayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣepayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪क्षेप्स्यति⟫ | [kṣepsyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣepsyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
 | ⟪क्षेम⟫ | [kṣema](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣema&filter=roman&accent=no&transLit=roman) | n | ketenangan, kedamaian, kesejahteraan, kepemilikan yang aman | [16](/id/lektionen/lektion16#_16-2-daftar-kata) |
 | ⟪कॢप्⟫ | [kḷp](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kḷp&filter=roman&accent=no&transLit=roman) | 1Ā | berada dalam urutan yang benar, sesuai (Lokatif) ; membentuk bentuk, menyusun; bertekad untuk, merendahkan diri untuk (D | [40](/id/lektionen/lektion40#_40-6-daftar-kata) |
 
@@ -247,24 +239,16 @@ outline: 2
 | ⟪गर्भ⟫ | [garbha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garbha&filter=roman&accent=no&transLit=roman) | — | "interior", e.g | [19](/id/lektionen/lektion19#_19-3-daftar-kata) |
 | ⟪गर्भगृह⟫ | [garbhagṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garbhagṛha&filter=roman&accent=no&transLit=roman) | — | Volwahsen, A.: India : Bangunan Hindu, Buddha dan Jain. -- München, 1968) | [19](/id/lektionen/lektion19#_19-3-daftar-kata) |
 | ⟪गर्ह्⟫ | [garh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garh&filter=roman&accent=no&transLit=roman) | 1Ā | scold, blame | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
-| ⟪गापयति⟫ | [gāpayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gāpayati&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
-| ⟪गास्यति⟫ | [gāsyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gāsyati&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
-| ⟪गीत⟫ | [gīta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gīta&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
-| ⟪गीयते⟫ | [gīyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gīyate&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
 | ⟪गुप्त⟫ | [gupta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gupta&filter=roman&accent=no&transLit=roman) | 3 | protected, safeguarded | [29](/id/lektionen/lektion29#_29-2-daftar-kata) |
 | ⟪गुरु⟫ | [guru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=guru&filter=roman&accent=no&transLit=roman) | 3 | berat, penting, layak disembah | [2](/id/lektionen/lektion02#_2-5-daftar-kata) |
 | ⟪गुर्वी⟫ | [gurvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gurvī&filter=roman&accent=no&transLit=roman) | f | fem. dari guru | [3](/id/lektionen/lektion03#_3-6-daftar-kata) |
 | ⟪गृहस्थ⟫ | [gṛhastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhastha&filter=roman&accent=no&transLit=roman) | 3 | terletak di dalam rumah; m. pemilik rumah (seseorang yang berada pada ⟪आश्रम⟩ ke-2) | [29](/id/lektionen/lektion29#_29-2-daftar-kata) |
-| ⟪गृहीत⟫ | [gṛhīta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhīta&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪गृह्यते⟫ | [gṛhyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
 | ⟪गै⟫ | [gai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gai&filter=roman&accent=no&transLit=roman) | 1P | bernyanyi, melantunkan dengan nada nyanyian, menyatakan dalam bentuk puisi | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
 | ⟪गोदान⟫ | [godāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=godāna&filter=roman&accent=no&transLit=roman) | n | giving of cows / of a cow; second hair-cutting ceremony (a ) | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
 | ⟪ग्रस्⟫ | [gras](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gras&filter=roman&accent=no&transLit=roman) | 1Ā | to consume, to devour | [29](/id/lektionen/lektion29#_29-2-daftar-kata) |
 | ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | m | seizing, seizer, crocodile, wandering star | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | n | grasping | [24](/id/lektionen/lektion24#_24-4-daftar-kata) |
-| ⟪ग्रहीष्यति⟫ | [grahīṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahīṣyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | seize, grasp, catch | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
-| ⟪ग्राहयति⟫ | [grāhayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāhayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
+| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : seize, grasp, catch | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | 1P | merasa enggan, memudar | [36](/id/lektionen/lektion36#_36-4-daftar-kata) |
 
 ## घ
@@ -273,31 +257,26 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghāta&filter=roman&accent=no&transLit=roman) | m | killing, slaughter | [17](/id/lektionen/lektion17#_17-6-daftar-kata) |
 | ⟪घृत⟫ | [ghṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghṛta&filter=roman&accent=no&transLit=roman) | n | Clarified butter, Ghee ( / گھی / ঘী) | [33](/id/lektionen/lektion33#_33-6-daftar-kata) |
-| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | to smell something | [36](/id/lektionen/lektion36#_36-4-daftar-kata) |
+| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | sig[] : to smell something | [36](/id/lektionen/lektion36#_36-4-daftar-kata) |
 
 ## च
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪चक्र⟫ | [cakra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakra&filter=roman&accent=no&transLit=roman) | n | wheel | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
-| ⟪चक्राम⟫ | [cakrāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakrāma&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
 | ⟪चक्ष्⟫ | [cakṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakṣ&filter=roman&accent=no&transLit=roman) | 2Ā | see | [50](/id/lektionen/lektion50#_50-2-daftar-kata) |
 | ⟪चर⟫ | [cara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cara&filter=roman&accent=no&transLit=roman) | m | the mobile = animals (in contrast to plants) | [22](/id/lektionen/lektion22#_22-3-daftar-kata) |
 | ⟪चरित्र⟫ | [caritra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=caritra&filter=roman&accent=no&transLit=roman) | n | kebiasaan, adat, hukum kebiasaan; perilaku | [48](/id/lektionen/lektion48#_48-4-daftar-kata) |
 | ⟪चर्⟫ | [car](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=car&filter=roman&accent=no&transLit=roman) | m | mengamalkan sumpah, terutama pantangan seksual) | [22](/id/lektionen/lektion22#_22-3-daftar-kata) |
 | ⟪चल्⟫ | [cal](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cal&filter=roman&accent=no&transLit=roman) | 1P | to get into motion | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
 | ⟪चाण्डाल⟫ | [cāṇḍāla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cāṇḍāla&filter=roman&accent=no&transLit=roman) | — | tingkat terendah dari [Dalit](http://de.wikipedia.org/wiki/Dalit) | [49](/id/lektionen/lektion49#_49-4-daftar-kata) |
-| ⟪चाययति⟫ | [cāyayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cāyayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
 | ⟪चि⟫ | [ci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ci&filter=roman&accent=no&transLit=roman) | 5U | to heap up, to collect | [36](/id/lektionen/lektion36#_36-4-daftar-kata) |
-| ⟪चित⟫ | [cita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cita&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
 | ⟪चित्त⟫ | [citta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=citta&filter=roman&accent=no&transLit=roman) | n | kesadaran, pemikiran, pikiran | [16](/id/lektionen/lektion16#_16-2-daftar-kata) |
 | ⟪चिन्तापर⟫ | [cintāpara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cintāpara&filter=roman&accent=no&transLit=roman) | 3 | absorbed in thought | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
 | ⟪चिन्त्⟫ | [cint](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cint&filter=roman&accent=no&transLit=roman) | — | think, ponder | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
-| ⟪चीयते⟫ | [cīyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cīyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
 | ⟪चुर्⟫ | [cur](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cur&filter=roman&accent=no&transLit=roman) | — | mencuri | [28](/id/lektionen/lektion28#_28-10-daftar-kata) |
 | ⟪चेत्⟫ | [cet](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cet&filter=roman&accent=no&transLit=roman) | — | jika; dengan syarat bahwa (tidak pernah muncul di awal kalimat) | [30](/id/lektionen/lektion30#_30-6-daftar-kata) |
 | ⟪चेष्ट्⟫ | [ceṣṭ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ceṣṭ&filter=roman&accent=no&transLit=roman) | — | to move oneself | [20](/id/lektionen/lektion20#_20-9-daftar-kata) |
-| ⟪चेष्यति⟫ | [ceṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ceṣyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
 | ⟪चौल⟫ | [caula](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=caula&filter=roman&accent=no&transLit=roman) | n | ceremony () of hair cutting (at the age of 3 years) | [24](/id/lektionen/lektion24#_24-4-daftar-kata) |
 | ⟪च्यु⟫ | [cyu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cyu&filter=roman&accent=no&transLit=roman) | 1Ā | bergerak, bergerak-gerak, jatuh | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
 
@@ -312,7 +291,6 @@ outline: 2
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
-| ⟪जगौ⟫ | [jagau](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jagau&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
 | ⟪जटा⟫ | [jaṭā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jaṭā&filter=roman&accent=no&transLit=roman) | f | hair plait (ascetic hairstyle) | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
 | ⟪जन्मन्⟫ | [janman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=janman&filter=roman&accent=no&transLit=roman) | n | birth | [43](/id/lektionen/lektion43#_43-4-daftar-kata) |
 | ⟪जव⟫ | [java](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=java&filter=roman&accent=no&transLit=roman) | 3 | fast, hurried | [43](/id/lektionen/lektion43#_43-4-daftar-kata) |
@@ -400,7 +378,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | yang teguh dan tetap = Dharma | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
-| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | — | menempatkan, memperbaiki, mengalokasikan | [33](/id/lektionen/lektion33#_33-6-daftar-kata) |
+| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | 3U | sig[]: menempatkan, memperbaiki, mengalokasikan | [33](/id/lektionen/lektion33#_33-6-daftar-kata) |
 | ⟪धान्य⟫ | [dhānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhānya&filter=roman&accent=no&transLit=roman) | n | threshed grain | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
 | ⟪धीर⟫ | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhīra&filter=roman&accent=no&transLit=roman) | 3 | firm, steadfast, continuous, persistent | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
 | ⟪धृ⟫ | [dhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhṛ&filter=roman&accent=no&transLit=roman) | 1U | hold, keep firm | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
@@ -413,7 +391,6 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪ननान्दृ⟫ | [nanāndṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nanāndṛ&filter=roman&accent=no&transLit=roman) | f | Sister of the husband | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
-| ⟪ननाश⟫ | [nanāśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nanāśa&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
 | ⟪नन्दिन्⟫ | [nandin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nandin&filter=roman&accent=no&transLit=roman) | 3 | ditandai oleh (khusus) sukacita, gembira; m. nama gunung () dari (seekor lembu jantan) | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
 | ⟪नन्द्⟫ | [nand](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nand&filter=roman&accent=no&transLit=roman) | 1P | to rejoice in () | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
 | ⟪नप्तृ⟫ | [naptṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naptṛ&filter=roman&accent=no&transLit=roman) | m | Grandson | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
@@ -421,11 +398,9 @@ outline: 2
 | ⟪नम्⟫ | [nam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nam&filter=roman&accent=no&transLit=roman) | — | to bend | [20](/id/lektionen/lektion20#_20-9-daftar-kata) |
 | ⟪नम्⟫ | [nam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nam&filter=roman&accent=no&transLit=roman) | 1P | bend, bow, lean, incline | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪नवग्रह⟫ | [navagraha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=navagraha&filter=roman&accent=no&transLit=roman) | m | the nine wandering stars (not planets!) (s. Basham, Wonder p. 493) | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
-| ⟪नशिष्यति⟫ | [naśiṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naśiṣyati&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
 | ⟪नश्⟫ | [naś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naś&filter=roman&accent=no&transLit=roman) | 4P | binas, hancur, lenyap | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
 | ⟪नाभि⟫ | [nābhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nābhi&filter=roman&accent=no&transLit=roman) | f | navel | [20](/id/lektionen/lektion20#_20-9-daftar-kata) |
 | ⟪नामन्⟫ | [nāman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāman&filter=roman&accent=no&transLit=roman) | n | Name | [38](/id/lektionen/lektion38#_38-9-daftar-kata) |
-| ⟪नाशयति⟫ | [nāśayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāśayati&filter=roman&accent=no&transLit=roman) | — | br | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
 | ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | downwards, down, into, backwards | [20](/id/lektionen/lektion20#_20-9-daftar-kata) |
 | ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | downwards, down, into, backwards | [24](/id/lektionen/lektion24#_24-4-daftar-kata) |
 | ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | downwards, down, into, backwards | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
@@ -556,7 +531,7 @@ outline: 2
 | ⟪भृत्य⟫ | [bhṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛtya&filter=roman&accent=no&transLit=roman) | m | subordinate, servant | [28](/id/lektionen/lektion28#_28-10-daftar-kata) |
 | ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | seruan untuk menyapa, misalnya: hei, heya, oh, ei, halo, hai! sering tidak dapat diterjemahkan. Partikel ini memiliki sa | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪भ्रंश⟫ | [bhraṃśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhraṃśa&filter=roman&accent=no&transLit=roman) | m | dropping off | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
-| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | to wander about, to roam | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
+| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | sig[] : to wander about, to roam | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪भ्रातृ⟫ | [bhrātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhrātṛ&filter=roman&accent=no&transLit=roman) | m | Brother | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
 
 ## म
@@ -619,7 +594,7 @@ outline: 2
 | ⟪यदि⟫ | [yadi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadi&filter=roman&accent=no&transLit=roman) | — | if | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪यद्यपि⟫ | [yadyapi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyapi&filter=roman&accent=no&transLit=roman) | — | meskipun, sekalipun, walaupun | [30](/id/lektionen/lektion30#_30-6-daftar-kata) |
 | ⟪यद्येवम्⟫ | [yadyevam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyevam&filter=roman&accent=no&transLit=roman) | — | jika demikian, dalam keadaan ini | [30](/id/lektionen/lektion30#_30-6-daftar-kata) |
-| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | memegang, membawa; menawarkan, memberikan; mengikat bersama, menahan, kekang, menaklukkan | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
+| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | sig[] : memegang, membawa; menawarkan, memberikan; mengikat bersama, menahan, kekang, menaklukkan | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
 | ⟪या⟫ | [yā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yā&filter=roman&accent=no&transLit=roman) | 2P | pergi, bepergian | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
 | ⟪यातृ⟫ | [yātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yātṛ&filter=roman&accent=no&transLit=roman) | m | Wife of the husband's brother | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
 | ⟪यान⟫ | [yāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yāna&filter=roman&accent=no&transLit=roman) | n | pergi, jalan, kendaraan | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
@@ -640,7 +615,7 @@ outline: 2
 | ⟪रहस्⟫ | [rahas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rahas&filter=roman&accent=no&transLit=roman) | n | rahasia, kesunyian | [50](/id/lektionen/lektion50#_50-2-daftar-kata) |
 | ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | m | (warna) merah, gairah, cinta | [5](/id/lektionen/lektion05#_5-4-daftar-kata) |
 | ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | m | also: color, red color | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
-| ⟪राजन्⟫ | [rājan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rājan&filter=roman&accent=no&transLit=roman) | m | King (on kingship in India see Basham, Wonder pp. 82-94). As a final member of a compound (esp. ) usually: - m. (like ) | [38](/id/lektionen/lektion38#_38-9-daftar-kata) |
+| ⟪राजन्⟫ | [rājan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rājan&filter=roman&accent=no&transLit=roman) | m | King (on kingship in India see Basham, Wonder pp. 82-94). As a final member of a compound (esp. ) usually: -:sig[] m. (l | [38](/id/lektionen/lektion38#_38-9-daftar-kata) |
 | ⟪राज्ञी⟫ | [rājñī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rājñī&filter=roman&accent=no&transLit=roman) | f | Queen, wife of a king | [38](/id/lektionen/lektion38#_38-9-daftar-kata) |
 | ⟪राज्य⟫ | [rājya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rājya&filter=roman&accent=no&transLit=roman) | 3 | royal; n. kingdom, kingship, rule | [38](/id/lektionen/lektion38#_38-9-daftar-kata) |
 | ⟪रिष्⟫ | [riṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=riṣ&filter=roman&accent=no&transLit=roman) | 1P | be harmed, fail, damage | [50](/id/lektionen/lektion50#_50-2-daftar-kata) |
@@ -650,11 +625,7 @@ outline: 2
 | ⟪रुधिर⟫ | [rudhira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rudhira&filter=roman&accent=no&transLit=roman) | n | blood | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
 | ⟪रुध्⟫ | [rudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rudh&filter=roman&accent=no&transLit=roman) | 7U | menghentikan, membawa ke keadaan diam, menahan = mengelilingi, menutup | [31](/id/lektionen/lektion31#_31-2-daftar-kata) |
 | ⟪रुह्⟫ | [ruh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ruh&filter=roman&accent=no&transLit=roman) | 1P | climb, ascend | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
-| ⟪रुह्यते⟫ | [ruhyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ruhyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪रूढ⟫ | [rūḍha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rūḍha&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
 | ⟪रे⟫ | [re](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=re&filter=roman&accent=no&transLit=roman) | — | Hey! You there! | [43](/id/lektionen/lektion43#_43-4-daftar-kata) |
-| ⟪रोक्ष्यति⟫ | [rokṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rokṣyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪रोहयति⟫ | [rohayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rohayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
 
 ## ल
 
@@ -666,10 +637,7 @@ outline: 2
 | ⟪लिप्⟫ | [lip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lip&filter=roman&accent=no&transLit=roman) | 6U | anoint, smear | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
 | ⟪लिप्ति⟫ | [lipti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lipti&filter=roman&accent=no&transLit=roman) | f | anointing, writing, script | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
 | ⟪लीला⟫ | [līlā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=līlā&filter=roman&accent=no&transLit=roman) | f | joke, play | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
-| ⟪लुप्⟫ | [lup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lup&filter=roman&accent=no&transLit=roman) | 6U | break, destroy | [50](/id/lektionen/lektion50#_50-2-daftar-kata) |
-| ⟪लोकयिष्यति⟫ | [lokayiṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lokayiṣyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪लोकित⟫ | [lokita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lokita&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪लोक्यते⟫ | [lokyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lokyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
+| ⟪लुप्⟫ | [lup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lup&filter=roman&accent=no&transLit=roman) | 6U | sig[] : break, destroy | [50](/id/lektionen/lektion50#_50-2-daftar-kata) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | Ketamakan, keserakahan | [5](/id/lektionen/lektion05#_5-4-daftar-kata) |
 | ⟪लौल्य⟫ | [laulya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laulya&filter=roman&accent=no&transLit=roman) | n | greed, lustfulness | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
 
@@ -680,7 +648,6 @@ outline: 2
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | m | fraudster | [43](/id/lektionen/lektion43#_43-4-daftar-kata) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | m | merchant | [43](/id/lektionen/lektion43#_43-4-daftar-kata) |
 | ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | m | calf, young, child; voc.: my dear | [43](/id/lektionen/lektion43#_43-4-daftar-kata) |
-| ⟪वत्स्यति⟫ | Fut.: | — | brPass.: :brPPP: :brInf | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | menyapa secara formal, mengalamatkan | [36](/id/lektionen/lektion36#_36-4-daftar-kata) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | 1P | to say back = to answer | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
 | ⟪वन⟫ | [vana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vana&filter=roman&accent=no&transLit=roman) | n | forest | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
@@ -692,9 +659,8 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Warna, status kelahiran (kecenderungan) | [2](/id/lektionen/lektion02#_2-5-daftar-kata) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Warna, Kategori, Tingkatan | [5](/id/lektionen/lektion05#_5-4-daftar-kata) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | rain, rainy season, year | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
-| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P |  to want, command, desire | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
+| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], Imperat. 2.sg.: :sig[] : to want, command, desire | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
 | ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("bersinar" =) musim semi (Maret hingga Mei) | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
-| ⟪वसिष्यते⟫ | Fut.: | — | brPPP: :brInf | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
 | ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | wealth, treasure, property, possession | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
 | ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | tinggal, berdiam (dengan lokatif orang tempat seseorang berdiam) | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
 | ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | n | seat, place; reality, real thing, actuality, object | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
@@ -779,7 +745,7 @@ outline: 2
 | ⟪शिशु⟫ | [śiśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiśu&filter=roman&accent=no&transLit=roman) | m | child, young | [49](/id/lektionen/lektion49#_49-4-daftar-kata) |
 | ⟪शिष्⟫ | [śiṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣ&filter=roman&accent=no&transLit=roman) | 7P | abandon, leave behind | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
 | ⟪शिष्य⟫ | [śiṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣya&filter=roman&accent=no&transLit=roman) | 3 | one to be instructed = student | [41](/id/lektionen/lektion41#_41-3-daftar-kata) |
-| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | berbaring. Akar ini memiliki dalam semua bentuk batang present Strong Grade: 1.sg.Ind.Pres.Ā (śe + e). Bentuk-bentuk ber | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
+| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | berbaring. Akar ini memiliki dalam semua bentuk batang present Strong Grade: 1.sg.Ind.Pres.Ā :sig[] (śe + e). Bentuk-ben | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
 | ⟪शीघ्र⟫ | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīghra&filter=roman&accent=no&transLit=roman) | 3 | fast, quick | [43](/id/lektionen/lektion43#_43-4-daftar-kata) |
 | ⟪शील⟫ | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīla&filter=roman&accent=no&transLit=roman) | n | custom, habit, nature, character, good habit = morality | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | shining, gleaming, fine; m.: purity | [29](/id/lektionen/lektion29#_29-2-daftar-kata) |
@@ -793,12 +759,7 @@ outline: 2
 | ⟪शोक⟫ | [śoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śoka&filter=roman&accent=no&transLit=roman) | m | Mourning, grief | [38](/id/lektionen/lektion38#_38-9-daftar-kata) |
 | ⟪शोभन⟫ | [śobhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śobhana&filter=roman&accent=no&transLit=roman) | 3 | brilliant, magnificent, splendid, beautiful, good | [18](/id/lektionen/lektion18#_18-4-daftar-kata) |
 | ⟪शौच⟫ | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śauca&filter=roman&accent=no&transLit=roman) | n | pembersihan, kemurnian | [16](/id/lektionen/lektion16#_16-2-daftar-kata) |
-| ⟪श्रमयति⟫ | [śramayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪श्रमित्वा⟫ | [śramitvā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramitvā&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪श्रमिष्यते⟫ | [śramiṣyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramiṣyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | toil, become tired | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
-| ⟪श्रम्यते⟫ | [śramyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
-| ⟪श्रान्त⟫ | [śrānta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śrānta&filter=roman&accent=no&transLit=roman) | — | br | [32](/id/lektionen/lektion32#_32-5-daftar-kata) |
+| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : toil, become tired | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | bersandar, bertumpu pada, menemukan dukungan, pergi kepada seseorang (, ) | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | mendengar, tradisi abadi (sebutan untuk Veda dan Brāhmaṇa) | [3](/id/lektionen/lektion03#_3-6-daftar-kata) |
 | ⟪श्रेष्ठिन्⟫ | [śreṣṭhin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śreṣṭhin&filter=roman&accent=no&transLit=roman) | m | wealthy merchant | [43](/id/lektionen/lektion43#_43-4-daftar-kata) |
@@ -819,10 +780,10 @@ outline: 2
 | ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | m | lampiran, kontak dengan () | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (to - : to strike together): group, heap, community (e.g. Buddhist) | [41](/id/lektionen/lektion41#_41-3-daftar-kata) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | — | menggantung, melekat | [48](/id/lektionen/lektion48#_48-4-daftar-kata) |
-| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | melampirkan, melekat pada () | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
+| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : melampirkan, melekat pada () | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | fast, hurried | [43](/id/lektionen/lektion43#_43-4-daftar-kata) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | to sit, to settle down | [20](/id/lektionen/lektion20#_20-9-daftar-kata) |
-| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | to sit down | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
+| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : to sit down | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪सनातन⟫ | [sanātana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sanātana&filter=roman&accent=no&transLit=roman) | — |  abadi, tak layu, kekal | [30](/id/lektionen/lektion30#_30-6-daftar-kata) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | sama, rata, serupa (dengan kasus instrumental) | [18](/id/lektionen/lektion18#_18-4-daftar-kata) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | same, equal, similar | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
@@ -880,7 +841,6 @@ outline: 2
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | 2P | to strike back | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
 | ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | mengambil; m.: sang pemusnah = sebutan untuk Śiva | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
 | ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | pirang, kuning, hijau; m. sebutan untuk Viṣṇu (tidak berasal dari akar kata 1) | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
-| ⟪हरिष्यति⟫ | Fut.: | — | brPass.: :brPPP: :brInf | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
 | ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | Viṣṇu and Śiva united as a single deity | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
 | ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | m | (raising of the body hair), joy | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | m | hand | [18](/id/lektionen/lektion18#_18-4-daftar-kata) |

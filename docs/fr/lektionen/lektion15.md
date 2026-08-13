@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 15
+# Leçon 15
 
 ## 15.1. ⟪सुभाषितम्⟫
 
@@ -71,16 +71,20 @@ Fig. : ⟪लक्ष्मी⟫
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   si un Karmadhāraya exprime une COMPARAISON, ce avec quoi on compare se trouve dans le membre postérieur du composé :
 
-    ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "un homme comme un lion"  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un homme comme un tigre"
+::: indent
+⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "un homme comme un lion"
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un homme comme un tigre"
+:::
 
 *   si un Karmadhāraya exprime une apposition (détermination plus précise du membre postérieur par un substantif), le déterminant se trouve dans le membre antérieur, comme l'exige aussi la règle générale sur l'ordre des membres dans un Tatpuruṣa :
 
-    ⟪नरसिंहः⟫ peut aussi être résolu : ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Un lion, qui (en réalité) est un homme."
+::: indent
+⟪नरसिंहः⟫ peut aussi être résolu : ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Un lion, qui (en réalité) est un homme."
+:::
 
     De tels Karmadhāraya appositionnels sont résolus dans les commentaires indigènes comme dans l'exemple ci-dessus au moyen de ⟪एव⟫.
 
@@ -222,7 +226,7 @@ par ex.
 *   ⟪गतिसमासः⟫ : avec préposition dans le premier membre
 *   ⟪प्रथमातत्पुरुषः⟫ etc. (voir ci-dessus)
 
-### 15.7.1. Einteilung der ⟪कर्मधारय⟫
+### 15.7.1. Einteilung der ⟪कर्मधारय⟫ <!-- TODO: Fallback translation -->
 
 1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : Le premier membre est un adjectif (⟪विशेषण⟫)
 2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : les deux membres sont des adjectifs, appartiennent à cette catégorie les adjectifs exprimant un déroulement temporel : « d’abord baigné, ensuite onctueux »
@@ -304,7 +308,7 @@ Fig. : ⟪व्याघ्रः⟫
 
 ⟪एव⟫ (postposé) : met l'accent sur ce qui précède, correspond en allemand souvent à l'accentuation, une sorte d'émoticone `\&lt;!\&gt;`, par ex. ⟪सत्यमेव⟫ ⟪जयति⟫ « seule la vérité triomphe », « précisément la vérité triomphe », « la vérité triomphe »
 
-⟪अरि⟫ m. : ennemi (selon Thieme, Der Fremdling im Ṛgveda : originellement = étranger)
+⟪अरि⟫ m. : ennemi (selon Thieme, Der Fremdling im Ṛgveda : originellement = étranger) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आर्य⟫ 3 : aryen, noble ; m. Aryen (autodésignation des anciens Indiens parlant sanskrit, litt. : hospitalier (Thieme)) ; Noble, homme d'honneur

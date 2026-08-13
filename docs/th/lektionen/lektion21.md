@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # บทที่ 21
 
@@ -40,7 +40,8 @@ status: stable
 1\. ชั้นปัจจุบันที่ 1:
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "ผู้สักการะด้วยการบูชา"
+**yajant**
+⟪यजन्त्⟫ "ผู้สักการะด้วยการบูชา"
 :::
 ::: grammar-box
 

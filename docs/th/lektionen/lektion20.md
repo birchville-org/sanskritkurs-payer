@@ -569,7 +569,7 @@ B) Переведите на санскрит, используя составн
 
 **lekt2001:** Сиемреап (ក្រុងសៀមរាប), Камбоджа, 9 в. н.э. [Источник изображения: Википедия, Общественное достояние]
 
-**lekt2002:** [แหล่งที่มาของภาพ: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- บอนน์, 1926]
+**lekt2002:** [แหล่งที่มาของภาพ: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- บอนน์, 1926] <!-- TODO: Fallback translation -->
 
 **lekt2003:** Sanchi = ⟪सांची⟫ [แหล่งที่มาของภาพ Wikipedia, สาธารณสมบัติ]
 

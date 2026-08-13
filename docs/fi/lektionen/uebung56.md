@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 56
 
-Määritä ja käännä seuraavat muodot:
+Määritä ja käännä seuraavat muodot: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Nro. | Muoto | Määritelmä / Merkitys |
@@ -52,7 +52,7 @@ Määritä ja käännä seuraavat muodot:
 | ⟪३५⟫. | ⟪कन्ये⟫ | :sig[⟪कन्या⟫] f.: Vok. Yks.; Nom. Akk. Vok. Du. (tyttö) |
 | ⟪३६⟫. | ⟪सौमि⟫ | :sig[⟪सु⟫] 2P: 1. Yks. Ind. Präs. P. (minä lisääntyn) |
 | ⟪३७⟫. | ⟪आर्पिपन्⟫ | :sig[⟪ऋ⟫] 1P: 3. Mon. Redupl. Aor. P. Kaus. (he saivat liikkeelle) |
-| ⟪३८⟫. | ⟪परिव्राट्⟫ | :sig[⟪परिव्राज्⟫] m.: Nom. Vok. Yks. (vaellusmunkki) |
+| ⟪३८⟫. | ⟪परिव्राट्⟫ | :sig[⟪परिव्राज्⟫] m.: Nom. Vok. Yks. (vaellusmunkki) | <!-- TODO: Fallback translation -->
 
 | ⟪३९⟫. | ⟪जेरिम⟫ | :sig[⟪जॄ⟫] 4/9P: 1. Pl. Perf. P. (me vanhenimme) |
 | ⟪४०⟫. | ⟪अततर्पत⟫ | :sig[⟪तृप्⟫] 4/6P: 2. Pl. P. / 3. Sg. Ā. Redupl. Aor. Kaus. |
@@ -93,7 +93,7 @@ Määritä ja käännä seuraavat muodot:
 | ⟪७५⟫. | ⟪अहो⟫| oi, voi (Interj.) |
 | ⟪७६⟫. | ⟪एकशः⟫| yksi kerrallaan, yksittäin (Adv.) |
 | ⟪७७⟫. | ⟪अपप्तः⟫| :sig[⟪पत्⟫] 1P: 2. Sg. Redupl. Aor. P. (sinä olet lentänyt) |
-| ⟪७८⟫. | ⟪अकस्मात्⟫| odottamatta (Adv.) |
+| ⟪७८⟫. | ⟪अकस्मात्⟫| odottamatta (Adv.) | <!-- TODO: Fallback translation -->
 
 | ⟪७९⟫. | ⟪मित्रध्रुक्⟫ | :sig[⟪मित्रद्रुह्⟫]: Nom. Vok. Sg. m. f. n. (vihollisen tuhoaja) |
 | ⟪८०⟫. | ⟪अवोचन्⟫ | :sig[⟪वच्⟫] 2P: 3. Pl. a-Aor. P. (he sanoivat) |

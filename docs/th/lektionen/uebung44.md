@@ -159,5 +159,5 @@ B) จงแปลข้อความต่อไปนี้:
 ![](/images/uebung073.webp)
 Abb.: ⟪वदिता⟫
 (Bildquelle: [Details](/licenses#uebung073))
-:::
+::: <!-- TODO: Fallback translation -->
 

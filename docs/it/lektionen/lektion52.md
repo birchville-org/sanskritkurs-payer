@@ -113,15 +113,19 @@ Figura Wayang, Giava, Indonesia
 
 *   **Numeri**  
     Esempi:  
-    ⟪एकशस्⟫ "singolarmente, ciascuno uno"  
-    ⟪द्विशस्⟫ "a due a due, ciascuno due"  
-    ⟪शतशस्⟫ "a centinaia, ciascuno cento"
+::: indent
+⟪एकशस्⟫ "singolarmente, ciascuno uno"
+⟪द्विशस्⟫ "a due a due, ciascuno due"
+⟪शतशस्⟫ "a centinaia, ciascuno cento"
+:::
 
 *   **altre parole**  
     Esempi:  
-    ⟪भागशस्⟫ "parte per parte"  
-    ⟪सर्वशस्⟫ "ovunque, del tutto"  
-    ⟪नित्यशस्⟫ "costantemente"
+::: indent
+⟪भागशस्⟫ "parte per parte"
+⟪सर्वशस्⟫ "ovunque, del tutto"
+⟪नित्यशस्⟫ "costantemente"
+:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -148,14 +152,18 @@ La desinenza del sostantivo viene trattata come segue:
 
 *   **-a e -ā finali di parole declinabili vengono sostituite da -ī**  
     Esempi:  
-    ⟪कृष्णीभवति⟫ "qualcosa che non era nero diventa nero"  
-    ⟪कृष्णीकरोति⟫ "rende nero qualcosa che non era nero"  
-    ⟪गङ्गीभवति⟫ "egli/ella diventa il Gange"  
+::: indent
+⟪कृष्णीभवति⟫ "qualcosa che non era nero diventa nero"
+⟪कृष्णीकरोति⟫ "rende nero qualcosa che non era nero"
+⟪गङ्गीभवति⟫ "egli/ella diventa il Gange"
+:::
 
 *   **-i e -u finali vengono sostituite dalla rispettiva vocale lunga**  
     Esempi:  
-    ⟪शुचीभवति⟫ "egli/ella/esso diventa puro"  
-    ⟪गुरूभवामि⟫ "divento maestro"  
+::: indent
+⟪शुचीभवति⟫ "egli/ella/esso diventa puro"
+⟪गुरूभवामि⟫ "divento maestro"
+:::
 
 *   **-ṛ finale viene sostituita da --rī**  
     Es. ⟪पित्रीभवति⟫ "uno che non era padre (⟪पितृ⟫) diventa padre = un uomo ha il suo primo figlio"  
@@ -163,7 +171,7 @@ La desinenza del sostantivo viene trattata come segue:
 *   **-n finale cade e la vocale precedente viene trattata secondo le regole appena menzionate**  
     Es. ⟪राजीबभूव⟫ "uno (che non era re) divenne re (⟪राजन्⟫)"  
 
-*   **altri sostantivi pluristemmatici stanno nella forma dello stemma che hanno nel Locativo (⟪सप्तमी⟫) Pluraleee. Lo stemma è poi soggetto alle normali regole di Sandhi. Vedi Kielhorn, Grammatik § 489,3.**  
+*   **altri sostantivi pluristemmatici stanno nella forma dello stemma che hanno nel Locativo (⟪सप्तमी⟫) Pluraleeeeee. Lo stemma è poi soggetto alle normali regole di Sandhi. Vedi Kielhorn, Grammatik § 489,3.**  
     Es. ⟪तिर्यक्करोति⟫ "posa di lato (⟪तिर्यच्⟫)"
 :::
 ::: media
@@ -225,9 +233,11 @@ Esempio:
     p.es. ⟪पुनः⟫ ⟪पुनः⟫ "sempre di nuovo"
 *   **Distribuzione**  
     Esempi:  
-    ⟪पृथक्पृथक्⟫ "separatamente, ciascuno singolarmente"  
-    ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "qualunque ... tutto questo"  
-    ⟪युगे⟫ ⟪युगे⟫ "in ciascuna singola era mondiale"
+::: indent
+⟪पृथक्पृथक्⟫ "separatamente, ciascuno singolarmente"
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "qualunque ... tutto questo"
+⟪युगे⟫ ⟪युगे⟫ "in ciascuna singola era mondiale"
+:::
 
 **Occasionalmente da tali connessioni può essere formato un composto**
 
@@ -283,7 +293,7 @@ Gli altri avverbi numerici fino a 19 vedere p.es. presso Kielhorn, Grammatik §2
 Esempi:
 
 ::: indent
-20 ⟪विंशति⟫ f.:br
+20 ⟪विंशति⟫ f.
 30 ⟪त्रिंशत्⟫ f.
 :::
 
@@ -295,7 +305,7 @@ Esempi:
 Esempi:
 
 ::: indent
-100 ⟪शत⟫ n.:br
+100 ⟪शत⟫ n.
 1000 ⟪सहस्र⟫ n.
 :::
 I singoli sostantivi numerici vedere p.es. presso Kielhorn, Grammatik §201.
@@ -393,7 +403,9 @@ Le sette stelle = le sette stelle più luminose dell'Orsa Maggiore (Ursa maior)
 2.  il composto così formato è usato in un significato che altrimenti è indicato da un suffisso Taddhita (in questo tipo di casi il passaggio al Bahuvrīhi è fluido):  
     Esempi:  
     dvi + go » :sig[⟪द्विगु⟫] : non: "due mucche", ma: "**comperato per due mucche**"  
-    ⟪द्विवर्ष⟫ non: "due anni", ma: "**di due anni**"  
+::: indent
+⟪द्विवर्ष⟫ non: "due anni", ma: "**di due anni**"
+:::
 
 3.  il composto così formato forma il primo membro di un altro composto  
     Esempio:  
@@ -663,7 +675,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫
 ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
 
-Spiegazione: ⟪सुखदुःखयोः⟫ Gen.Loc.Dualee.m.f.n. (Dualeedvandva)
+Spiegazione: ⟪सुखदुःखयोः⟫ Gen.Loc.Dualeeeee.m.f.n. (Dualeeeeedvandva)
 :::
 ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Sulle fonti del ⟪धर्म⟫
 
@@ -673,7 +685,7 @@ Spiegazione: ⟪सुखदुःखयोः⟫ Gen.Loc.Dualee.m.f.n. (Dualeed
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
-Spiegazione: ⟪स्मृतिशीले⟫ Nom.Akk.Dualee.n. (Dualeedvandva)
+Spiegazione: ⟪स्मृतिशीले⟫ Nom.Akk.Dualeeeee.n. (Dualeeeeedvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Su ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ nella vita del principe
 
@@ -682,9 +694,9 @@ Spiegazione: ⟪स्मृतिशीले⟫ Nom.Akk.Dualee.n. (Dualeedvand
 ::: indent
 Spiegazioni:
 
-⟪इतरौ⟫ Nom.Akk.Dualee.m a ⟪इतर⟫ 3 "altro"
+⟪इतरौ⟫ Nom.Akk.Dualeeeee.m a ⟪इतर⟫ 3 "altro"
 
-⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dualee.m (⟪धर्मकामौ⟫ è Dualeedvandva)
+⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dualeeeee.m (⟪धर्मकामौ⟫ è Dualeeeeedvandva)
 :::
 ⟪४⟫. ⟪अश्वघोष⟫ (II sec. d.C.): ⟪बुद्धचरित⟫ ⟪४⟫ la conoscenza salvifica di Buddha
 
@@ -767,9 +779,9 @@ Durante le vacanze semestrali dovrebbero essere completati i seguenti compiti:
 8.  Studio di:  
     **Kunnappally, John:** Prakriyā bhāshyam : Grammatica sanscrita / Originariamente scritto in malese. Tradotto in inglese da K.V.R. Pai. -- Parathode : Edizione propria, 1983. -- 818 p. ; 23 cm. -- P. 208 - 254 (Governo sintattico)
 9.  Completamento dello studio di:  
-    **Basham, A. L. (Arthur Llewellyn) \<1914-1986\>**La meraviglia che fu l'IndiaParte: Un sondaggio sulla cultura del subcontinente indiano prima dell'arrivo dei musulmani. -- Londra : Sidgwick & Jackson, 1954.
+    **Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**La meraviglia che fu l'IndiaParte: Un sondaggio sulla cultura del subcontinente indiano prima dell'arrivo dei musulmani. -- Londra : Sidgwick & Jackson, 1954.
 10.  Inizio dello studio di:  
-     **Winternitz, Moriz \<1863 - 1937\>: Storia della letteratura indiana. Stoccarda : Koehler. -- 3 voll. -- 1908 - 1922 (ancora la migliore storia della letteratura sulla letteratura sanscrita, pali e prakrit)**
+     **Winternitz, Moriz \&lt;1863 - 1937\&gt;: Storia della letteratura indiana. Stoccarda : Koehler. -- 3 voll. -- 1908 - 1922 (ancora la migliore storia della letteratura sulla letteratura sanscrita, pali e prakrit)**
 
 ::: media
 ![](/images/lekt5201.webp)

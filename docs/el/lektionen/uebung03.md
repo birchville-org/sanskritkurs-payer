@@ -161,7 +161,7 @@ dvijāḥ kṣatriyāḥ.
 
 ⟪द्वि्जाः⟫ ⟪क्षत्रियाः⟫
 
-7\. Die heiligen Männer sind Śūdras.
+7\. Die heiligen Männer sind Śūdras. <!-- TODO: Fallback translation -->
 
 śūdrāḥ sādhavaḥ.
 

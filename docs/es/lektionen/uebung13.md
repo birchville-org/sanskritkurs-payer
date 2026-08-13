@@ -32,7 +32,7 @@ El brahmán deseaba la liberación.
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
+⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫ &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
 Se ha dicho que los sabios védicos solo han dicho la verdad.
@@ -125,7 +125,7 @@ Los sabios védicos ven que el demonio de ninguna manera triunfa.
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung019))
 :::
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 ## Ejercicios adicionales
 
@@ -272,4 +272,4 @@ E) Traduzca al sánscrito:
 ![](/images/uebung018.webp)
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung018))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

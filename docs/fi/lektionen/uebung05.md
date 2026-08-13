@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 5
 
-A) Käännä seuraavat lauseet ja samassa yhdistetyt sanaparit sekä ratkaise niissä esiintyvät dvandva-yhdyssanat sanskritiksi:
+A) Käännä seuraavat lauseet ja samassa yhdistetyt sanaparit sekä ratkaise niissä esiintyvät dvandva-yhdyssanat sanskritiksi: <!-- TODO: Fallback translation -->
 
 1\. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ. (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
 
@@ -36,7 +36,7 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪।⟫ ⟪त्रयो⟫ ⟪वर्णाद्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (hyvässä sanskritissa: sāmargyajurvedās trayī)
+3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (hyvässä sanskritissa: sāmargyajurvedās trayī) <!-- TODO: Fallback translation -->
 
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫
 
@@ -52,9 +52,9 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪कामक्रोधलोभाः⟫
 
-Halu, viha ja ahneus.
+Halu, viha ja ahneus. <!-- TODO: Fallback translation -->
 
-kāmaḥ krodho lobhaś ca.
+kāmaḥ krodho lobhaś ca. <!-- TODO: Fallback translation -->
 
 ⟪कामः⟫ ⟪क्रोधो⟫ ⟪लोभश्च⟫ ⟪।⟫
 
@@ -62,9 +62,9 @@ kāmaḥ krodho lobhaś ca.
 
 ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫
 
-Selitys: brahmavihāra: "Brahman oleskelutilat", myös nimeltä "rajattomat": rajattomat asennot. Ne edustavat buddhalaisia meditaatiomuotoja, joilla meditoiden ihminen valaisee vähitellen vaiheittain koko todellisuuden. Nämä neljä roolia myös joogan (Yogasūtra 1,33) yhteydessä rauhoittaessa tietoisuutta.
+Selitys: brahmavihāra: "Brahman oleskelutilat", myös nimeltä "rajattomat": rajattomat asennot. Ne edustavat buddhalaisia meditaatiomuotoja, joilla meditoiden ihminen valaisee vähitellen vaiheittain koko todellisuuden. Nämä neljä roolia myös joogan (Yogasūtra 1,33) yhteydessä rauhoittaessa tietoisuutta. <!-- TODO: Fallback translation -->
 
-Rajattomat asennot ovat: ystävällisyys, myötätunto, iloitseminen ja tasapainoisuus.
+Rajattomat asennot ovat: ystävällisyys, myötätunto, iloitseminen ja tasapainoisuus. <!-- TODO: Fallback translation -->
 
 maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
 
@@ -82,11 +82,11 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Kauṭilīya-arthaśāstra 1.2.1:n mukaan.)
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Kauṭilīya-arthaśāstra 1.2.1:n mukaan.) <!-- TODO: Fallback translation -->
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫
 
-Tieteet ovat filosofia, vedatutkimus, taloustiede ja politiikka.
+Tieteet ovat filosofia, vedatutkimus, taloustiede ja politiikka. <!-- TODO: Fallback translation -->
 
 ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
 
@@ -95,7 +95,7 @@ Tieteet ovat filosofia, vedatutkimus, taloustiede ja politiikka.
 ::: media
 ![](/images/uebung010.webp)
 Kuv.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
-(Kuv lähde: [Yksityiskohdat](/licenses#uebung010))
+(Kuv lähde: [Yksityiskohdat](/licenses#uebung010)) <!-- TODO: Fallback translation -->
 
 :::
 ---
@@ -122,7 +122,7 @@ Kolme kaksinkertaisesti syntynyttä kastetta ovat: brahmani, kṣatriya ja vaiś
 
 Vaiśyat ovat kaksinkertaisesti syntyneitä / vaiśya-naiset ovat kaksinkertaisesti syntyneitä.
 
-B) Lisää vastaava muoto:
+B) Lisää vastaava muoto: <!-- TODO: Fallback translation -->
 
 (dvija, sādhu, kavi) ... rāmaḥ
 
@@ -148,7 +148,7 @@ dvijātayo vaiśyāḥ. dvijātayaḥ kṣatriyāḥ.
 
 ⟪द्विजातयो⟫ ⟪वश्याः⟫ ⟪।⟫ ⟪द्विजातयः⟫ ⟪क्षत्रियाः⟫ ⟪॥⟫
 
-C) Ratkaise seuraavan lauseen sandhi-sana sanskritiksi ja muodosta ratkaistulla muodolla sama lause:
+C) Ratkaise seuraavan lauseen sandhi-sana sanskritiksi ja muodosta ratkaistulla muodolla sama lause: <!-- TODO: Fallback translation -->
 
 sāmargyajurvedās trayī.
 
@@ -158,7 +158,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī / ... yajurvedas trayī
 
 ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫ ... ⟪यजुर्वेदस्त्रयी⟫ ⟪॥⟫
 
-D) Käännä sanskritiksi kahdella tavalla (kerran sandhi-sanalla, kerran ilman):
+D) Käännä sanskritiksi kahdella tavalla (kerran sandhi-sanalla, kerran ilman): <!-- TODO: Fallback translation -->
 
 "Brahman asuinpaikat" ovat: ystävällinen hyväntahtoisuus, myötätunto, iloitseminen muiden onnesta ja tasapainoisuus.
 
@@ -170,4 +170,4 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 ![](/images/uebung009.webp)
 Kuv.: ⟪ऋग्वेदः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung009))
-:::
+::: <!-- TODO: Fallback translation -->

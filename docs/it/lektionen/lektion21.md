@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lezione 21
 
@@ -32,7 +32,7 @@ Questo participio è una formazione nominale dalla radice del presente, quindi u
 | | **schwacher Tema** | Tema del presente + **-t-** |
 | **Femminile** | | |
 | | | Tema del presente + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Presenteklasse** | Tema del presente + **-nt-** + **-ī** :broder::brTema del presente + **-t-** + **-ī** |
+| | **6. Presenteklasse** | Tema del presente + **-nt-** + **-ī** :broder::brTema del presente + **-t-** + **-ī** | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 Esempi:
@@ -40,7 +40,8 @@ Esempi:
 1\. classe di presente:
 
 ::: indent
-**yajant**:br⟪यजन्त्⟫ "che onora con un sacrificio"
+**yajant**
+⟪यजन्त्⟫ "che onora con un sacrificio"
 :::
 ::: grammar-box
 
@@ -84,7 +85,7 @@ Si noti l'identità di **⟪यजन्ति⟫** (Nom. pl. Neutro) con la 3. 
 | | **starker Tema** | Tema del presente + **-ant-** |
 | | **schwacher Tema** | Tema del presente + **-at-** :br(Der Auslaut des schwachen Tema del presentees lautet gleich wie vor der 3. Plur. P.) |
 | **Femminile** | | |
-| | | Tema del presente + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Tema del presente + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 2\. classe di presente:

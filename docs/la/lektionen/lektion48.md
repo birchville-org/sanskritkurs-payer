@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 48
+# Lectio 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 
@@ -152,7 +152,7 @@ Nota: ¹ Explicatio de **⟪जहि⟫** vide Thumb-Hauschild I,2 p. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Tertia classis praesentis (⟪जुहोत्यादि⟫)
+### 48.2.4. Tertia classis praesentis (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Terminus 3.pl.P finitur in \-atu !**
@@ -181,7 +181,7 @@ Nota: ¹ Dissimilatio, quo minus duae syllabae cum **⟪ह्⟫** se sequantur
 
 Anm.: ¹ **⟪धेहि⟫** aus \*dhazdhi: Wegfall des indogermanischen Zischlauts z unter Ersatzdehnung; s. Thumb-Hauschild I,1 S. 302
 :::
-⟪हा⟫ 3P
+⟪हा⟫ 3P <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -228,7 +228,7 @@ Exempla:
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
+| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
 
 Ante suffixum **-ya** terminatio radicis similiter ac ante suffixum **-a** tractatur.
 :::
@@ -265,7 +265,7 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Fons imaginis: [Detalia](/la/licenses#lekt4802))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4803.webp)
@@ -307,7 +307,7 @@ Fig.: ⟪कुमारः⟫
 Thaipusam Festival = தைப்பூசம், Batu Caves, Malaysia
 (Image source: [Details](/la/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: puella, filia
+⟪कुमारी⟫ f.: puella, filia <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -315,7 +315,7 @@ Fig.: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Image source: [Details](/la/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: pueritia
+⟪कौमर⟫ n.: pueritia <!-- TODO: Fallback translation -->
 
 ⟪यौवन⟫ n.: iuventus
 
@@ -327,7 +327,7 @@ Fig.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ m.: (altum) aetas
+⟪स्थाविर⟫ m.: (altum) aetas <!-- TODO: Fallback translation -->
 
 ⟪वाच्य⟫ 3: etiam: reprehensibilis
 

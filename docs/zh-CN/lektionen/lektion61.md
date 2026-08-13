@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # 第61课
 
@@ -34,7 +34,7 @@ status: stable
 ### 61.1.2. 阴性词根名词以 -ī 结尾
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
 
 **除了带有常规格词尾的构形外，在与格/夺格/属格/位格的单数以及属格的复数中，也存在按照多音节阴性名词以 -ī 结尾的模式构成的形式（⟪देवी⟫）。**
 :::
@@ -114,7 +114,7 @@ status: stable
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Deklinationsparadigma:
+变格范式： <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ f. “大地”
 
@@ -203,7 +203,7 @@ Deklinationsparadigma:
 ::: grammar-box
 **词根形式：词根通常与简单将来时的形式相同。连接元音 -i- 亦同此理。**
 :::
-示例：
+示例： <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 第三组 | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ 等 |
 | --- | --- |
@@ -283,7 +283,7 @@ Deklinationsparadigma:
 具体规则见 Kielhorn《语法》第461节。
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Beispiel:
+示例： <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -549,17 +549,17 @@ Beispiel:
 泰国 - เมืองไทย
 （图片来源：[详情](/zh-CN/licenses#lekt6113)）
 :::
-例如，与格（Dative）的列表：
-
-::: media
-![](/images/lekt6112.jpg)
 图：
 1845 - 1878年，哥本哈根大学印度东方语文学教授
 （图片来源：[详情](/zh-CN/licenses#lekt6112)）
+
+::: media
+![](/images/lekt6112.jpg)
+**韦斯特加德（Westergaard）**，尼尔斯·吕维格 (1815–1878)：《梵语词根，依语法家规定确定并辅以精选例证阐释》 / N. L. 韦斯特加德。——波恩：科尼希出版社，1841年。——第335 - 341页。
 :::
 
 ::: indent
-**韦斯特加德（Westergaard）**，尼尔斯·吕维格 (1815–1878)：《梵语词根，依语法家规定确定并辅以精选例证阐释》 / N. L. 韦斯特加德。——波恩：科尼希出版社，1841年。——第335 - 341页。
+**Westergaard**, Niels Ludvig \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
 ## 61.5. 祝愿式（⟪आशीर्लिङ्⟫）
 

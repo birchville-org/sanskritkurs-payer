@@ -1,6 +1,6 @@
 ---
 title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+subtitle: "Furmaziun da las formas verbalas da la 2. persuna (⟪मध्यमः⟫) da stems atematics senza sufix vocalic (continuaziun)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -145,7 +145,7 @@ B) Tradusci:
 ![](/images/lekt4502.jpg)
 Imag.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Fonte da imagem: [Detalles](/rm/licenses#lekt4502))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

@@ -4,11 +4,11 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 61
+# Lectio 61
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
+## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū <!-- TODO: Fallback translation -->
 
 ### 61.1.1. Nomina radicalia in -ā ad finem ⟪तत्पुरुष⟫
 
@@ -31,10 +31,10 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī
+### 61.1.2. Feminine Wurzelnomina auf -ī <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
 
 **Praeter formationes cum casuum desinentibus regularibus, in dativo, ablativo, genitivo et locativo singularis necnon genitivo plurali quoque formationes secundum exemplar femininum multisyllabicum in -ī (⟪देवी⟫) occurrunt.**
 :::
@@ -107,14 +107,14 @@ Paradigms:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
+### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Stirps ante vocalem: -uv**
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Paradigma:
+Paradigma: <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ f. "terra"
 
@@ -181,7 +181,7 @@ Fig.: ⟪वध्वौ⟫
 ⟪जोधपुर⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt6107))
 :::
-## 61.2. Futurum periphrasticum (⟪लुट्⟫)
+## 61.2. Futurum periphrasticum (⟪लुट्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Praeter futurum simplex (⟪ऌत्⟫) est etiam futurum periphrasticum (⟪लुट्⟫). Secundum doctrinem grammaticorum indigenarum, adhibetur ut tempus remotum ("post diem currentem") significet, dum futurum simplex tempus proximum ("in die currente") designat. In Sanscrito classico, videtur nullus differentia in usu utriusque futuri fieri.**
@@ -203,7 +203,7 @@ Desinentiae futuri periphrastici igitur sunt:
 ::: grammar-box
 **Formis radicis: Radix in genere eandem formam habet ac in futuro simplici. Idem valet de vocali iunctiva -i-.**
 :::
-Exempla:
+Exempla: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
 | --- | --- |
@@ -234,18 +234,26 @@ Paradigma:
 **Quod significat Intensivum:**
 
 *   **quod persona vel res semper faciat aut patiatur, quod per radicem exprimitur**
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "semper facit"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "saepē est (fit)"
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "semper facit"
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "saepē est (fit)"
+:::
 
 *   **quod persona vel res intense faciat aut patiatur, quod per radicem exprimitur:**
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "intense facit, fortiter agit"
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "intense facit, fortiter agit"
+:::
 
 *   **apud radices quae motum exprimunt, significat Intensivum motum curvatum:**
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "in curvaturis vadit" (NON: "saepē vadit")
+::: indent
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "in curvaturis vadit" (NON: "saepē vadit")
+:::
 
 *   **apud aliquas radices (enumeratio: Kielhorn, Grammatik § 458b) significat Intensive vituperatio:**
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "male secat"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "male se ponit"
+::: indent
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "male secat"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "male se ponit"
+:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -283,7 +291,7 @@ Exempla:
 Regulae singillatim apud Kielhorn, Grammatica § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Exempla:
+Exempla: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -393,7 +401,7 @@ Exemplaria:
 | ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
 | ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
+| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" | <!-- TODO: Fallback translation -->
 
 ### 61.4.2. Formatio cum suffixo -ya, Parasmaipada
 
@@ -425,13 +433,13 @@ Exempla:
 | ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
 | ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
+| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
 
 Observa significationem:
 
 | ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6105.webp)
@@ -456,7 +464,7 @@ Exempla:
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
+| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6109.webp)
@@ -508,7 +516,7 @@ Exempla:
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
+| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Apud quaedam nomina haec suffixa significant: aliquid fit ut id, vel fit ad id quod per nomen significatur:**
@@ -541,7 +549,7 @@ Exempla:
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -794,7 +802,7 @@ FINIS SANSKRITICORUM CURSUS
 
 **lekt6118:** [Imaginis fontis: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
 
-**lekt6117:** Populus Apatani, Arunachal Pradesh [Imaginis fontis: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
+**lekt6117:** Populus Apatani, Arunachal Pradesh [Imaginis fontis: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)] <!-- TODO: Fallback translation -->
 
 **lekt6101:** Halebidu (ಹಳೆಬೀಡು), saec. 12./13. p. Chr. [Imaginis fontis: Quadell / Wikipedia. Licentia GNU FDLicense]::::
 

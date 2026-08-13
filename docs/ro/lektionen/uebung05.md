@@ -34,13 +34,13 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪।⟫ ⟪त्रयो⟫ ⟪वर्णाद्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (în sanscrită bună: sāmargyajurvedās trayī)
+3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (în sanscrită bună: sāmargyajurvedās trayī) <!-- TODO: Fallback translation -->
 
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫
 
 (în sanscrită bună: ⟪सामर्ग्यजुर्वेदास्त्रयी⟫)
 
-Cele trei Vede sunt: Sāmavaeda, Ṛgveda și Yajurveda.
+Cele trei Vede sunt: Sāmavaeda, Ṛgveda și Yajurveda. <!-- TODO: Fallback translation -->
 
 sāmaveda ṛgvedo yajurvedaś ca trayī.
 
@@ -52,7 +52,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 Pofte, mânie și lăcomie.
 
-kāmaḥ krodho lobhaś ca.
+kāmaḥ krodho lobhaś ca. <!-- TODO: Fallback translation -->
 
 ⟪कामः⟫ ⟪क्रोधो⟫ ⟪लोभश्च⟫ ⟪।⟫
 
@@ -80,7 +80,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Conform Kauṭilīya-arthaśāstra 1.2.1.)
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Conform Kauṭilīya-arthaśāstra 1.2.1.) <!-- TODO: Fallback translation -->
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫
 
@@ -95,9 +95,9 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 Fig.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung010))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Wiederholungsübung Lektion 5
+## Wiederholungsübung Lektion 5 <!-- TODO: Fallback translation -->
 
 A) Übersetzen Sie:
 
@@ -105,7 +105,7 @@ A) Übersetzen Sie:
 
 ⟪विद्या⟫ ⟪वार्त्ता⟫
 
-Ökonomie ist eine Wissenschaft.
+Ökonomie ist eine Wissenschaft. <!-- TODO: Fallback translation -->
 
 2\. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
 
@@ -117,7 +117,7 @@ Cele trei caste de două ori născute sunt: Brāhmaṇa, Kṣatriya și Vaiśya.
 
 ⟪द्विजा⟫ ⟪वैश्याः⟫
 
-Vaiśyas sind Zweimalgeborene / Vaiśyafrauen sind Zweimalgeborene.
+Vaiśyas sind Zweimalgeborene / Vaiśyafrauen sind Zweimalgeborene. <!-- TODO: Fallback translation -->
 
 B) Completați forma corespunzătoare:
 
@@ -157,7 +157,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī / ... yajurvedas trayī
 
 D) Traduceți în sanscrită în două moduri (o dată cu un compus, o dată fără):
 
-"Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut.
+"Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. <!-- TODO: Fallback translation -->
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā (ca) brahmavihārāḥ.
 

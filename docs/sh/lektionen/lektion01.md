@@ -7,18 +7,18 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 1
+# Lekcija 1
 
 ::: center
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
-Verehrung des Gaṇeśa
+Veneration of Gaṇeśa
 :::
 
 ::: media
 ![](/images/lekt0102.webp)
-Abb. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
-(Bildquelle: [Details](/licenses#lekt0102))
+Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
+(Image source: [Details](/licenses#lekt0102))
 :::
 
 ::: center
@@ -41,13 +41,13 @@ Frei von Hindernissen!
 ::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
-"Glückbringender Anfang"
+"Auspicious Beginning"
 :::
 
 ::: media
 ![](/images/lekt0101.webp)
-Abb. 1.1: Ardhanarīśvara
-(Bildquelle: [Details](/licenses#lekt0101))
+Fig. 1.1: Ardhanarīśvara
+(Image source: [Details](/licenses#lekt0101))
 :::
 
 ::: center
@@ -80,8 +80,8 @@ Zu Beginn ein Kuriosum:
 
 ::: media
 ![](/images/lekt0103.webp)
-Abb.: Einbandtitel einer Taschenbuchausgabe
-(Bildquelle: [Details](/licenses#lekt0103))
+Fig.: Cover title of a paperback edition
+(Image source: [Details](/licenses#lekt0103))
 :::
 
 >**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Teil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie.

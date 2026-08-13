@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 56
+# Lecziun 56
 
-## 56.1. L'Aorist reduplitgà
+## 56.1. L'Aorist reduplitgà <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Educaziun:**
@@ -22,7 +22,7 @@ status: stable
 
 **-ā final (per -e) svanescha.**
 :::
-Paradigma:
+Paradigma: <!-- TODO: Fallback translation -->
 
 ⟪श्रि⟫ 1U "s'adressar a, s'appoggiar a"
 
@@ -44,7 +44,7 @@ Questa forma dell’aoristo viene formata, tra gli altri, da:
 ::: grammar-box
 **Tuttas las radis da la 10. classa da prezens, sco era tuttas las causativas, furman adina l'aorist reduplicà.**
 :::
-### 56.1.1. Furmaziun da l'aorist da las causativas e da las radischs da la 10. classa da prescha
+### 56.1.1. Furmaziun da l'aorist da las causativas e da las radischs da la 10. classa da prescha <!-- TODO: Fallback translation -->
 
 Sillaba fundamentala:
 
@@ -54,22 +54,30 @@ Sillaba fundamentala:
 **Il vocal da questa ciamada sillaba da tema determinescha en l’aorist suenter las suandantas reglas:**
 
 *   **\-ā- davant consonants simples vegn sutitgà cun -a-:**  
-    ⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫  
-    ⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫  
-    :sig[⟪नी⟫] 1U: Caus. **:sig[⟪नाय⟫]**⟪यति⟫, Aor. ⟪अनी⟫**:sig[⟪नय⟫]**⟪त्⟫  
-    ⟪ज्ञा⟫ 9U: Caus. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫
+::: indent
+⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫
+⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫
+:sig[⟪नी⟫] 1U: Caus. **:sig[⟪नाय⟫]**⟪यति⟫, Aor. ⟪अनी⟫**:sig[⟪नय⟫]**⟪त्⟫
+⟪ज्ञा⟫ 9U: Caus. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫
+:::
 
 *   **\-ī-, -e-, -ai- davant consonant simplifit vegn sustituid cun -i-:**  
-    ⟪चित्⟫ 1P: Caus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫
+::: indent
+⟪चित्⟫ 1P: Caus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫
+:::
 
 *   **-u-, -o-, -au- davant consonant simpl è replaceà da -u-:**  
-    ⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
+::: indent
+⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
+:::
 
 **Per quai radis èn las midadas fin qua nominadas opziunalas u ston restar:**
 
 *   **La vocala che preceda directamain la consonanta finala da la silba da la radis, substituìda per ṛ, ṝ, ḷ da ar, ār, īr, al, resta opcziunalmain senza midada u vegn sustituida cun ṛ resp. ḷ:**  
-    ⟪कॢप्⟫ 1Ā: Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U: Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
+::: indent
+⟪कॢप्⟫ 1Ā: Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫
+⟪कृष्⟫ 1P/6U: Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
+:::
 :::
 Vocala da la silba da la reduplicaziun:
 
@@ -85,14 +93,18 @@ Post che las reglas mentinadas èn vegnidas applicadas sin la sillaba da la radi
 **Quest vocal da reduplicaziun è suttamess a las suandantas midadas:**
 
 *   **i, u vegnan sustituids da ī, ū, sche la sillaba da la radis cumenza cun mo in consonant ed è metricamain curta:**  
-    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
+::: indent
+⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
+⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
+:::
 
 *   **a vegn suttat da ī, sche la sillaba da la radis è metricamain curta e cumenza cun mo in consonant. Sche la sillaba da la radis è metricamain curta e cumenza cun dapli che in consonant, vegn il a da la sillaba da la reduplicaziun suttat da i. Sche la sillaba da la radis è metricamain lunga, resta il a:**  
     :sig[⟪नी⟫] 1U: Caus. ⟪नाययति⟫, sillaba da la radis da l’Aor. ⟪नय्⟫, Aor. ⟪अ⟫**:sig[⟪नी⟫]**⟪नयत्⟫  
     :sig[⟪कृ⟫] 8U: Caus. ⟪कारयति⟫, sillaba da la radis da l’Aor. ⟪कर्⟫, Aor. ⟪अ⟫**:sig[⟪ची⟫]**⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, sillaba da la radis da l’Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Caus. ⟪भावयति⟫, sillaba da la radis da l’Aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
+::: indent
+⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, sillaba da la radis da l’Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫
+⟪भू⟫ 1P: Caus. ⟪भावयति⟫, sillaba da la radis da l’Aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
+:::
 
 Partikularitads da certas radichas tar Kielhorn, Grammatica § 435c ss.
 
@@ -100,7 +112,7 @@ Partikularitads da certas radichas tar Kielhorn, Grammatica § 435c ss.
 
 *   **Su che la vocala iniciala è suandada mo da in singul consonant u da in grup da consonants, cun l'emprim element ni nasala ni d u r, alura è la sillaba da reduplicaziun:**
 
-Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - **i** \- alle Konsonanten
+Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - **i** \- alle Konsonanten <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -161,10 +173,10 @@ Quest differenz vegn en il sanscrit classic per ordinari betg fatg.)
 
 **⟪मा⟫ ⟪स्म⟩ + Injunktiv Aorist u Injunktiv Present**
 :::
-Ezempels:
+Ezempels: <!-- TODO: Fallback translation -->
 
 ::: indent
-⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Devien betg in chei chei è motivà tras il fruct d'ina acziun!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,47c)
+⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Devien betg in chei chei è motivà tras il fruct d'ina acziun!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,47c) <!-- TODO: Fallback translation -->
 
 ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Na devien esser mascolin!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,3a)
 :::
@@ -182,7 +194,7 @@ Ambdus exempels han in sens prohibitiv. L'Injunktiv Aorist è usà en ses signif
 *   **⟪मा⟫ + (⟪स्म⟫) + Imperativ (rara) **
 **p.ex. ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫**
 
-*   ⟪अलम्⟫ u ⟪कृतम्⟫ = Instrumentalis en la frasa inhibitoria  
+*   ⟪अलम्⟫ u ⟪कृतम्⟫ = Instrumental en la frasa inhibitoria  
     p.ex. ⟪अलं⟫ ⟪विषादेन⟫ "Bastà cun la disperaziun! = Cess da esser disperà! = Alza la testa!"
 
 *   ⟪न⟫ + Gerundiv (Participi da la necessitad)
@@ -198,7 +210,7 @@ Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit sytax. -- Leyden : Brill
 Abb.: ⟪अलं⟫  ⟪विषादेन⟫
 (Bildquelle: [Detagls](/rm/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫
+## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪स्म⟫ emfatizescha: "verameinamain, tutgei, certamain, exactamain"**
@@ -211,7 +223,7 @@ Abb.: ⟪अलं⟫  ⟪विषादेन⟫
 
 z.B. ⟪वसति⟫ ⟪स्म⟫ "es wohnte einmal" (⟪स्म⟫ kann manchmal auch fehlen).
 :::
-## 56.5. Exercizi
+## 56.5. Exercizi <!-- TODO: Fallback translation -->
 
 A) Determinar e traduscher senza agid (!) las suandantas furmas:
 

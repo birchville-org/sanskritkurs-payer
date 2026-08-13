@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 21
 
@@ -32,7 +32,7 @@ Este participio es una formación nominal a partir de la raíz del presente, es 
 | | **schwacher Tema** | Tema de presente + **-t-** |
 | **Femenino** | | |
 | | | Tema de presente + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Presenteklasse** | Tema de presente + **-nt-** + **-ī** :broder::brTema de presente + **-t-** + **-ī** |
+| | **6. Presenteklasse** | Tema de presente + **-nt-** + **-ī** :broder::brTema de presente + **-t-** + **-ī** | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 Ejemplos:
@@ -40,7 +40,8 @@ Ejemplos:
 1\. Clase de presente:
 
 ::: indent
-**yajant**:br⟪यजन्त्⟫ "uno que venera con un sacrificio"
+**yajant**
+⟪यजन्त्⟫ "uno que venera con un sacrificio"
 :::
 ::: grammar-box
 
@@ -84,7 +85,7 @@ Ejemplos:
 | | **starker Tema** | Tema de presente + **-ant-** |
 | | **schwacher Tema** | Tema de presente + **-at-** :br(Der Auslaut des schwachen Tema de presentees lautet gleich wie vor der 3. Plur. P.) |
 | **Femenino** | | |
-| | | Tema de presente + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Tema de presente + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 2\. Clase de presente:
@@ -143,7 +144,7 @@ Placa conmemorativa de ⟪सती⟫ en el palacio de Jodhpur - ⟪जोध�
 | | **starker Tema** | ⟪महान्त्⟫ |
 | | **schwacher Tema** | ⟪महत्⟫ |
 | **Femenino** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | &lt;!-- TODO: Fallback translation --&gt;
 
 :::
 ::: grammar-box

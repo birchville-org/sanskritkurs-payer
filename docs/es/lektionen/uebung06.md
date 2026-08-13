@@ -145,7 +145,7 @@ sā brāhmaṇī nṛtyati.
 Abb.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung004))
 :::
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 ## Ejercicio de repaso Lección 6
 
@@ -419,7 +419,7 @@ E) Traduzca:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā ist eine Gottheit. &lt;!-- TODO: Fallback translation --&gt;
 
 2\. śūdretarā.
 
@@ -601,4 +601,4 @@ sarvathā kuśalam.
 ![](/images/uebung005.webp)
 Fig.: ⟪देवतान्नपूर्णा⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung005))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

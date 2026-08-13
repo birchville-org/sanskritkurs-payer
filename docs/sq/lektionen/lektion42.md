@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 42
+# Mësimi 42
 
 ## 42.1. Stämme auf -ṛ
 

@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Урок 50
 
@@ -303,7 +303,7 @@ B) Перекладіть:
 
 **lekt5003:** [Джерело зображення: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Доступ від 2009-01-12. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Згадка про автора, некомерційне використання, без переробки)]
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Джерело зображення: Kounosu / Wikipedia. GNU FDLicense]
+**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Джерело зображення: Kounosu / Wikipedia. GNU FDLicense] &lt;!-- TODO: Fallback translation --&gt;
 
 **lekt5008:** Ганешпурі, за 80 км від Мумбаї (⟪मुंबई⟫) [Джерело зображення: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Доступ від 2009-01-13. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Згадка про автора, некомерційне використання, подібне до оригіналу)]
 

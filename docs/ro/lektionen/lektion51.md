@@ -19,7 +19,7 @@ status: stable
 
 **Ele sunt nume de agent, adică indică un agent (⟪कर्तृ⟫) care efectuează acțiunea indicată de rădăcina de bază.**
 
-**Suche compozite sunt descompuse de comentatorii nativi nu prin combinații nominale, ci prin forme verbale:**
+**Suche compozite sunt descompuse de comentatorii nativi nu prin combinații nominale, ci prin forme verbale:** <!-- TODO: Fallback translation -->
 
 Exemple:
 
@@ -71,7 +71,7 @@ Fig.: ⟪पापकृत्⟫
 ⟪भरतपुर⟫, ⟪राजस्थान⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5103))
 :::
-c) Sufixul ⟪कृत्⟫ -a
+c) Sufixul ⟪कृत्⟫ -a <!-- TODO: Fallback translation -->
 
 ::: indent
 \-⟪ग⟫ 3 "mergând (în, către)" (probabil la rădăcina gā, forma profundă g + a) de ex. ⟪खग⟫ 3 "zburând" m. "pasăre, planetă" (⟪ख⟫ n. "gaură, spațiu 'aerian'")
@@ -88,7 +88,7 @@ c) Sufixul ⟪कृत्⟫ -a
 
 \-⟪प⟫ 3 "protejând" (p-a) de ex. ⟪भूप⟫ "protejând pământul = Rege"
 
-\-⟪स्थ⟫ 3 "stând în, aflat în" (sth-a) de ex. ⟪गृहस्थ⟫ m. "administrator, cap al casei"
+\-⟪स्थ⟫ 3 "stând în, aflat în" (sth-a) de ex. ⟪गृहस्थ⟫ m. "administrator, cap al casei" <!-- TODO: Fallback translation -->
 
 \-⟪कर⟫ 3 "cauzând, făcând" de ex. ⟪सुखकर⟫ 3 "aducând fericire"
 
@@ -253,7 +253,7 @@ Fig.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5104))
 :::
-### 51.2.3. Teme pe -h
+### 51.2.3. Teme pe -h <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Înainte de o terminație care începe cu o vocală, -h rămâne neschimbat.**
@@ -289,7 +289,7 @@ Plural:
 Instr. ⟪घुड्भिस्⟫
 Lok. ⟪घुट्सु⟫
 :::
-⟪द्रुह्⟫ "dăunător, urând" (opțional -ḍh/-gh)
+⟪द्रुह्⟫ "dăunător, urând" (opțional -ḍh/-gh) <!-- TODO: Fallback translation -->
 
 Masculin, Feminin:
 
@@ -338,7 +338,7 @@ Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ::: indent
 ex. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 :::
-## 51.6. Listă de cuvinte
+## 51.6. Listă de cuvinte <!-- TODO: Fallback translation -->
 
 ⟪अजिन⟫ n.: blană de antilopă, în special blana antilopii negre (antilopă cerb-capră: _Antilope cervicapra_ L.). Era originar pe întregul subcontinent indian, de la Punjab și Sind până în Bengal și de la Nepal până la Kanyakumari (Capul Comorin) (Tamil: கன்னியாகுமரி) Vezi:
 
@@ -349,7 +349,7 @@ ex. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 Fig.:
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5105))
 :::
-⟪अतिथि⟫ m.: oaspete
+⟪अतिथि⟫ m.: oaspete <!-- TODO: Fallback translation -->
 
 ⟪अभ्यन्तर⟫ 3: situat în interior, cel mai apropiat; m. cel mai apropiat membru, autohton
 
@@ -385,7 +385,7 @@ Fig.: ⟪जटा⟫
 
 ⟪बाह्य⟫ 3: situat în exterior, afară, străin
 
-⟪भिक्षा⟫ f.: milostenie cerută, hrană de cerșetor
+⟪भिक्षा⟫ f.: milostenie cerută, hrană de cerșetor <!-- TODO: Fallback translation -->
 
 ⟪मार्यादा⟫ f.: limită
 
@@ -466,7 +466,7 @@ Fig.: ⟪कौशिकः⟫
 Bufnița lui Brahma (_Athene brama\"), Mahesana = મહેસાણા
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: pasăre
+⟪शकुनि⟫ m.: pasăre <!-- TODO: Fallback translation -->
 
 ⟪श्वन्⟫ m.: câine
 
@@ -495,7 +495,7 @@ Fig.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: crud, crud, brutal
+⟪क्रूर⟫ 3: crud, crud, brutal <!-- TODO: Fallback translation -->
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : unge, unsură
 
@@ -538,7 +538,7 @@ Vipera lanț (_Daboia russelii\"), Bangalore = ಬೆಂಗಳೂರು
 
 ⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
 
-⟪बलि⟫ m.:  impozit, donație, tribut
+⟪बलि⟫ m.:  impozit, donație, tribut <!-- TODO: Fallback translation -->
 
 ⟪मणि⟫ m.: bijuterie
 
@@ -548,7 +548,7 @@ Fig.: ⟪मणिः⟫
 Diamantul Hope din Guntur = ગુંતૂર, astăzi Muzeul Național de Istorie Naturală Smithsonian, Washington DC
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5118))
 :::
-⟪वन⟫ n.: pădure
+⟪वन⟫ n.: pădure <!-- TODO: Fallback translation -->
 
 ⟪मद⟫ m.: de asemenea „suc de rută” al unui elefant (în [Musht](http://en.wikipedia.org/wiki/Musth))
 
@@ -615,7 +615,7 @@ Explicație: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 
 **lekt5104:** ⟪पुष्कर⟫ [Sursa imaginii: calamur. -- [http://www.flickr.com/photos/gargi/360186369/](http://www.flickr.com/photos/gargi/360186369/). -- Accesat la2009-01-13. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
 
-**lekt5105:** [Sursa imaginii: Wikipedia, domeniu public]
+**lekt5105:** [Sursa imaginii: Wikipedia, domeniu public] <!-- TODO: Fallback translation -->
 
 **lekt5107:** ⟪ऋषिकेश⟫ [Sursa imaginii: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Accesat la 2009-01-13. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, share alike)]
 
@@ -623,7 +623,7 @@ Explicație: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 
 **lekt5109:** Palatul Orașului, ⟪उदयपुर⟫ [Sursa imaginii: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Accesat la 2009-01-13. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, share alike)]
 
-**lekt5110:** Vânătoare cu ⟪चीता⟫ (_Acinonyx jubatus venaticus\") Gujarat = ગુજરાત, 1812 [Sursa imaginii: Wikipedia. Domeniu public]
+**lekt5110:** Vânătoare cu ⟪चीता⟫ (_Acinonyx jubatus venaticus\") Gujarat = ગુજરાત, 1812 [Sursa imaginii: Wikipedia. Domeniu public] <!-- TODO: Fallback translation -->
 
 **lekt5111:** _Canis aureus\", Sanctuarul Kalatop Khajjiar [Sursa imaginii: gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- Accesat la 2009-01-13. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
 

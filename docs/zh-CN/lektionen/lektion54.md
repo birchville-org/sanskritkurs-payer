@@ -117,7 +117,7 @@ c) ⟪उपजाति⟫
 ::: indent
 „Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā aufweisen, an einem Vers beteiligt sind, dann handelt es sich um Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti.“
 :::
-## 54.4. 练习 zur Metrik
+## 54.4. 练习 zur Metrik <!-- TODO: Fallback translation -->
 
 Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 
@@ -204,38 +204,50 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 
 *   词根带有短元音（a 除外），位于简单辅音之前，以及 ⟪जन्⟫ 和大多数以 -am 结尾的词根  
     例如：  
-    ⟪भिद्⟫ 7U：⟪अभेदि⟫ “他被劈开”  
-    ⟪तुद्⟫ 6U：⟪अतोदि⟫ “他被推开”
+::: indent
+⟪भिद्⟫ 7U：⟪अभेदि⟫ “他被劈开”
+⟪तुद्⟫ 6U：⟪अतोदि⟫ “他被推开”
+:::
 
 延长阶段：
 
 *   以元音结尾的词根  
     示例：  
-    ⟪नी⟫ 1U: ⟪अनायि⟫ “他被引导”  
-    ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ “她被赞美”  
-    ⟪कृ⟫ 8U: ⟪अकारि⟫ “它被制作”
+::: indent
+⟪नी⟫ 1U: ⟪अनायि⟫ “他被引导”
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ “她被赞美”
+⟪कृ⟫ 8U: ⟪अकारि⟫ “它被制作”
+:::
 
 *   词根在简单辅音前有 a（除 ⟪जन्⟫ 和以 -am 结尾的词根）  
     例如：  
-    ⟪वद्⟫ 第一人称单数直陈式过去时：⟪अवादि⟫ “被说”  
-    但：  
-    ⟪जन्⟫ 第四类动词，中间语态：⟪अजनि⟫ “被生”
+::: indent
+⟪वद्⟫ 第一人称单数直陈式过去时：⟪अवादि⟫ “被说”
+但：
+⟪जन्⟫ 第四类动词，中间语态：⟪अजनि⟫ “被生”
+:::
 
 *   以 -am 结尾的若干词干  
     Beispiel:  
-    ⟪गम्⟫ ⟪अगामि⟫
+::: indent
+⟪गम्⟫ ⟪अगामि⟫
+:::
 
 词尾前插入 y：
 
 *   词根以 -ā, -e, -ai, -o 结尾时，在词根的 -ā 与词尾之间插入 y：  
     示例：  
-    ⟪दा⟫ 3U: ⟪अदायि⟫ “被给予”
+::: indent
+⟪दा⟫ 3U: ⟪अदायि⟫ “被给予”
+:::
 
 鼻音插入：
 
 *   某些词根带有鼻音 infix（中缀）：  
     示例：  
-    ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ 与 ⟪अलाभि⟫ 并列：“被接收”
+::: indent
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ 与 ⟪अलाभि⟫ 并列：“被接收”
+:::
 
 （被动语态的其他形式在未完成过去式中通过中动语态形式表达）。
 :::

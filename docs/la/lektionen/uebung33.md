@@ -79,7 +79,7 @@ Qui monacho dona dat, meritum donationis suae accipit.
 
 ⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
 
-Quia Brahmanes onus non gerunt, servus Brahmanae onus domum tulit.
+Quia Brahmanes onus non gerunt, servus Brahmanae onus domum tulit. <!-- TODO: Fallback translation -->
 
 ⟪ब्राह्म्णो⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभर्तीति⟫ ⟪ब्राह्मणदासा⟫ ⟪भारं⟫ ⟪गृहमबिभरुः⟫ ⟪॥३॥⟫
 

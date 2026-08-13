@@ -53,7 +53,7 @@ B) Forme preguntas para la siguiente práctica de lectura según el patrón etat
 Fig.: ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫ ⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt0401))
 :::
-eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
+eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ. &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫
 
@@ -93,4 +93,4 @@ etat kim? eṣā pipīlikā.
 ![](/images/uebung003.webp)
 Abb.: ⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung003))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;

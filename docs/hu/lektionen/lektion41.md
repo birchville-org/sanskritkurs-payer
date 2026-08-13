@@ -5,9 +5,9 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# 41. lecke
+# 41. lecke <!-- TODO: Fallback translation -->
 
 ## 41.1. ⟪सुभाषिते⟫  (két közmondás)
 
@@ -35,7 +35,7 @@ Magyarázat: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
 ## 41.2. További ⟪कृत्⟫ képzések -a végződésűek
 
-### 41.2.1. Jelen idői melléknév (⟪लडादेशः⟫) Ā, Jelen idői melléknév (⟪लडादेशः⟫) Passzív, Jövő idői melléknév (⟪ऌडादेशः⟫) Ā
+### 41.2.1. Jelen idői melléknév (⟪लडादेशः⟫) Ā, Jelen idői melléknév (⟪लडादेशः⟫) Passzív, Jövő idői melléknév (⟪ऌडादेशः⟫) Ā <!-- TODO: Fallback translation -->
 
 #### 41.2.1.1. Témás jelen időtörzsek, passzív és jövő idő
 
@@ -50,7 +50,7 @@ Példák:
 
 ⟪मन्⟫ 4Ā, Part.Präs.Ā ⟪मन्यमान⟫ 3 "egy gondolkodó"
 
-⟪कृ⟫ 8U, Part.Präs.Passiv ⟪क्रियमाण⟫ 3 "egy cselekvés tárgya"
+⟪कृ⟫ 8U, Part.Präs.Passiv ⟪क्रियमाण⟫ 3 "egy cselekvés tárgya" <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U, Part.Fut.Ā ⟪दास्यमान⟫ 3 "egy olyan, aki saját érdeke érdekében adni fog"
 
@@ -73,7 +73,7 @@ Példák:
 | ⟪तन्⟫ 8U | ⟪तन्वान⟫:brtan-u + āna |
 | ⟪क्री⟫ 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. A passzív szükségesség „melléknév” (Gerundivum) (⟪कृत्य⟫)
+### 41.2.2. A passzív szükségesség „melléknév” (Gerundivum) (⟪कृत्य⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **A passzív szükségesség kifejezésére („amit meg kell/tett kell tenni”) választhatóan a következő képzőkkel alkothatók melléknevek gyökökből és származtatott igehatározó alapokból:**
@@ -86,13 +86,13 @@ Példák:
 #### 41.2.2.1. A -⟪तव्य⟫ / -⟪तव्या⟫ képző
 
 ::: grammar-box
-**A -⟪तव्य⟫ / -⟪तव्या⟫ képzőt a gyökökhöz és a származtatott igetörzsekhez (pl. kausztívum) ugyanúgy illesztjük, mint az infinitivus képzőt -⟪तुम्⟫ (lásd [23. lecke](lektion23.md)), azaz**
+**A -⟪तव्य⟫ / -⟪तव्या⟫ képzőt a gyökökhöz és a származtatott igetörzsekhez (pl. kausztívum) ugyanúgy illesztjük, mint az infinitivus képzőt -⟪तुम्⟫ (lásd [23. lecke](lektion23.md)), azaz** <!-- TODO: Fallback translation -->
 
 * **magas fokú gyök + ⟪तव्य⟫**
 
 vagy
 
-* **magas rangú Tő + -i- + ⟪तव्य⟫**
+* **magas rangú Tő + -i- + ⟪तव्य⟫** <!-- TODO: Fallback translation -->
 
 **Kauzatívum:**
 
@@ -131,7 +131,7 @@ Példák:
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "elkövetendő" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "amit látni kell; látványos" |
 | ⟪बुध्⟩ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "felébresztendő" |
-| ⟪दा⟩ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "amit adni kell" |
+| ⟪दा⟩ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "amit adni kell" | <!-- TODO: Fallback translation -->
 
 :::
 #### 41.2.2.3. A -⟪य⟫ / -⟪या⟫ képző
@@ -173,7 +173,7 @@ Példa:
 ::: grammar-box
 **2a. Az -i/-ī végződésű gyököknek erős fokuk van**
 :::
-Példák:
+Példák: <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -192,7 +192,7 @@ Példák:
 ::: grammar-box
 **2b. Az -u /-ū végződésű gyökök a magas fokú -o-t -av-vá, a nyújtott fokú -au-t pedig -āv-vá cserélik le a -ya előtt. Ebben az esetben a nyújtott fokú képzés szükségességet jelent.**
 :::
-Példa:
+Példa: <!-- TODO: Fallback translation -->
 
 ::: no-header
 
@@ -286,7 +286,7 @@ A gerundívum attribútumként használható:
 ::: indent
 **⟪दर्शनीयं⟫ ⟪नगरम्⟫** = „egy város, amelyet látni kell; egy látnivaló város”
 :::
-A gerundívum predikátumnévként is használható olyan mondatokban, amelyek passzív szerkezetet követnek, és kötelezettséget vagy parancsot fejeznek ki (⟪न⟩-vel tilalmat, lehetetlenséget):
+A gerundívum predikátumnévként is használható olyan mondatokban, amelyek passzív szerkezetet követnek, és kötelezettséget vagy parancsot fejeznek ki (⟪न⟩-vel tilalmat, lehetetlenséget): <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = "A kétszer születettnek látnia kell Benares-t"
@@ -304,12 +304,12 @@ Ezen képzők használata nagyrészt átfedi egymást
 * **-⟪तव्य⟫ (nem. -⟪तव्या⟫):** mindig szükségességet fejez ki, és predikatívusan használatos (ritkábban attributívusan). Ezzel a képzővel képezett szavak nem szerepelhetnek névszóösszetételekben.
 * **-⟪अनीय⟫ (nem. -⟪अनीया⟫) és -⟪य⟫ (nem. -⟪या⟫) / -⟪त्य⟫ (nem. -⟪त्या⟫) (-⟪य⟫/-⟪या⟫ helyett):** további jelentéssel is bírhatnak (különösen -⟪य⟫) a német "-ért" (pl. "megtekintésre méltó") vagy csak egy lehetőség "-ható/-hető" (⟪दृश्य⟫ "látható") értelmében. Ezzel a képzővel képezett szavak ⟪अ⟫-/-⟪अन्⟫- képzőkkel tagadhatók (de nem -⟪तव्य⟫-val), és léteznek ⟪तत्पुरुष⟫, amelyek utótagként jelenhetnek meg bennük.
 :::
-### 41.2.5. Nincs kapcsolat a ⟪सु⟫- és ⟪दुस्⟫- képzőkkel
+### 41.2.5. Nincs kapcsolat a ⟪सु⟫- és ⟪दुस्⟫- képzőkkel <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 A ⟪सु⟫- és ⟪दुस्⟫- "könnyen" vagy "nehezen" jelentéssel nem kapcsolódhatnak gerundívumok. Helyettük ⟪तत्पुरुष⟫ állnak a ⟪सुकर⟫ 3 típusú ("könnyen megtehető") (lásd [18. lecke](lektion18.md)).
 :::
-## 41.3. Szószedet
+## 41.3. Szószedet <!-- TODO: Fallback translation -->
 
 ⟪मूर्ख⟫ m = ⟪मूढ⟫
 
@@ -320,7 +320,7 @@ A ⟪सु⟫- és ⟪दुस्⟫- "könnyen" vagy "nehezen" jelentéssel n
 Ábr.: ⟪भुजङ्गः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: csak, egyedül, teljesen
+⟪केवलम्⟫ Adv.: csak, egyedül, teljesen <!-- TODO: Fallback translation -->
 
 ⟪विष⟫ n.: méreg
 
@@ -329,17 +329,17 @@ A ⟪सु⟫- és ⟪दुस्⟫- "könnyen" vagy "nehezen" jelentéssel n
 Ábra: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt4104))
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : inteni, uralkodni, parancsolni, tanítani
+⟪शास्⟫ 2P ⟪शास्ति⟫ : inteni, uralkodni, parancsolni, tanítani <!-- TODO: Fallback translation -->
 
 ::: indent
-a gyenge jelenlegi tő ⟪शिष्⟫ : ⟪शिष्मस्⟫, a 3. Pl. P. azonban erős tőt használ: ⟪शासति⟫ (!! -ati végződés) mellett alkalmanként ⟪शासन्ति⟫. ⟪अशासुर्⟫. Maga a teljes ⟪आत्मनेपद⟫ is, amennyiben előfordul, erős tőt használ: ⟪शास्ते⟫
+a gyenge jelenlegi tő ⟪शिष्⟫ : ⟪शिष्मस्⟫, a 3. Pl. P. azonban erős tőt használ: ⟪शासति⟫ (!! -ati végződés) mellett alkalmanként ⟪शासन्ति⟫. ⟪अशासुर्⟫. Maga a teljes ⟪आत्मनेपद⟫ is, amennyiben előfordul, erős tőt használ: ⟪शास्ते⟫ <!-- TODO: Fallback translation -->
 
 Perfektum I ⟪शशास⟫, ⟪शशासुर्⟫  
 Jövő idő ⟪शासिष्यति⟫  
 Passzív **-⟪शास्यते⟫** ⟪।⟫ ⟪शिष्यते⟫  
 PPP ⟪शिष्ट⟫ : tanított, bölcs  
 Infinitívus ⟪शासितुम्⟫  
-Abszolútum **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
+Abszolútum **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫** <!-- TODO: Fallback translation -->
 
 ebből:
 
@@ -374,7 +374,7 @@ lásd még:
 
 **Payer, Alois (1944–):** Vinayamukha : A Theravāda rendszabályainak és egyházi jogának alapfogalmai. -- I. rész. -- (A buddhizmus alapfogalmairól szóló anyagok). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-⟪कन्या⟫ f.: fiatal lány, leány, szűz
+⟪कन्या⟫ f.: fiatal lány, leány, szűz <!-- TODO: Fallback translation -->
 
 ⟪अति⟫ előtag: felett, továbbá, túlzottan (térben, időben, számban, mennyiségben, sorrendben, hatalomban, intenzitásban), rendkívül
 
@@ -417,3 +417,4 @@ B) Fordítsa le:
 - **Image lekt4110.jpg** (Ábra: ⟪शास्त्री⟫): Max Müller (1823 - 1900), kb. 1898 [Képmagyarázat: Wikipedia. Közterület]
 - **Image lekt4111.jpg** (Ábra: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Képmagyarázat: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Letöltés dátuma: 2009-01-04. -- Creative Commons licenc (Nevesítés, származékos művek tilalma)]
 :::
+ <!-- TODO: Fallback translation -->

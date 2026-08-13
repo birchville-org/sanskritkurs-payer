@@ -16,7 +16,7 @@ Sfârșitul unei propoziții este indicat în proză cu | (ardhadanḍa, masculi
 
 ### Abrevieri
 
-Semnele de abreviere (de exemplu, în mențiunile de opere) sunt °, de ex. ⟪पा⟫° = pā(ṇinīye) = „În lucrarea gramaticală a lui Pāṇini”.
+Semnele de abreviere (de exemplu, în mențiunile de opere) sunt °, de ex. ⟪पा⟫° = pā(ṇinīye) = „În lucrarea gramaticală a lui Pāṇini”. <!-- TODO: Fallback translation -->
 
 ### Alte vocale în poziție inițială
 
@@ -24,13 +24,13 @@ Semnele de abreviere (de exemplu, în mențiunile de opere) sunt °, de ex. ⟪�
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden. <!-- TODO: Fallback translation -->
 
 ## Exercițiu
 
-A) Scrieți în Devanāgarī:
+A) Scrieți în Devanāgarī: <!-- TODO: Fallback translation -->
 
-ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
+ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha <!-- TODO: Fallback translation -->
 
 B) Citiți și transliterați:
 

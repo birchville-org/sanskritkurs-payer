@@ -1,9 +1,9 @@
 ---
-title: Lektion 56
-subtitle: "Der reduplizierte Aorist"
+τίτλος: Μάθημα 56
+υπότιτλος: "Ο διπλασιασμένος αόριστος"
 lesson_id: 56
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Γραμματική"
 status: stable
 ---
 
@@ -65,7 +65,7 @@ status: stable
 *   **-u-, -o-, -au- προ-u-：**
 ⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫,  ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
 
-**、ṛ, ṝ, ḷar, ār, īr, al，ṛ/ ḷ：**
+**、ṛ, ṝ, ḷar, ār, īr, al，ṛ/ ḷ：** <!-- TODO: Fallback translation -->
 
 *   **τὸ ar, ār, īr, al ἀντικαθιστῶν τὸ ṛ, ṝ, ḷ, ὃ ἀμεσῶς προηγεῖται τῆς συλλαβῆς τοῦ ὀνόματος, τὸν ἐκφερόμενον σύμφωνον φέρον, μένει προαιρετικῶς ἀπαράλλακτον ἢ μεταβάλλεται εἰς ṛ ἢ ḷ:**
 ⟪कॢप्⟫ 1Ā: Αἰτιative **:sig[⟪कल्प⟫]**⟪यति⟫, Ἀόστος ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫  
@@ -73,7 +73,7 @@ status: stable
 :::
 τὰ μακρότητα τῶν ὀξυτονων συλλαβῶν:
 
-，：
+Μετὰ τὴν ἐφαρμογὴν τῶν προειρημένων κανόνων εἰς τὴν ῥίζαν, δεῖ τοὺς ἐπακόλουθους κανόνας περὶ τοῦ φωνήεντος τῆς ἀναπληρωτικῆς συλλαβῆς τηρεῖν:
 
 ::: grammar-box
 **Ἄρχη ἐστὶν ὁ κανονικὸς φθόγγος τῆς ἀναδιπλασιάσεως, δηλ.**
@@ -198,7 +198,7 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 Ἀπεικ.: ⟪अलं⟫  ⟪विषादेन⟫
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫
+## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪स्म⟫ ὑπογραμμίζει: "ἀληθῶς, πράγματι, βεβαίως, ἴδια"**
@@ -302,6 +302,6 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 
 **lekt5602:** Πινακὶς (Ernesto Che Guevara) πολιτικοῦ κόμματος ἐν Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Προσεγγιστικὴ μετάφρασις τῶν γεγραμμένων: Ἡ μαρτυρία ἐστιν ἐνθουσιαστικὴ ἐμπειρία διὰ τὸν ἑπαναστάτην. Καὶ φόβερον καταφύγιον διὰ τὸν δειλόν. Οὐχ ὑπόδειγμά ἐστιν ὁ Che τοῖς δειλοῖς." [Πηγὴ εἰκόνος: Hari\_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Πρόσβασις τῇ 2009-02-27. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Ἀναφορὰ, οὐχ ἠλεκτρονικὴ χρῆσις, share alike)]
 
-**lekt5603:** [Πηγὴ εἰκόνος: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Πρόσβασις τῇ 2009-02-27. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ἀναφορὰ, οὐχ ἠλεκτρονικὴ χρῆσις, οὐδεμία ἐπεξεργασία)]
+**lekt5603:** [Πηγὴ εἰκόνος: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Πρόσβασις τῇ 2009-02-27. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ἀναφορὰ, οὐχ ἠλεκτρονικὴ χρῆσις, οὐδεμία ἐπεξεργασία)] <!-- TODO: Fallback translation -->
 
 :::

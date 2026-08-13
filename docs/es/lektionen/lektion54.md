@@ -194,38 +194,50 @@ Grado fuerte:
 
 *   Raíces con vocal breve (excepto a) antes de una consonante simple, así como ⟪जन्⟫ y la mayoría de las raíces en -am  
     Ejemplos:  
-    ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "fue partido"  
-    ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "fue empujado"
+::: indent
+⟪भिद्⟫ 7U: ⟪अभेदि⟫ "fue partido"
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ "fue empujado"
+:::
 
 Nivel de extensión:
 
 *   Raíces con vocal final  
     Ejemplos:  
-    ⟪नी⟫ 1U: ⟪अनायि⟫ "fue guiado"  
-    ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "fue alabado"  
-    ⟪कृ⟫ 8U: ⟪अकारि⟫ "fue hecho"  
+::: indent
+⟪नी⟫ 1U: ⟪अनायि⟫ "fue guiado"
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "fue alabado"
+⟪कृ⟫ 8U: ⟪अकारि⟫ "fue hecho"
+:::
 
 *   Raíces con a antes de una consonante simple (excepto ⟪जन्⟫ y raíces en -am)  
     Ejemplo:  
-    ⟪वद्⟫ 1P: ⟪अवादि⟫ "fue dicho"  
-    pero:  
-    ⟪जन्⟫ 4Ā: ⟪अजनि⟫ "fue nacida"  
+::: indent
+⟪वद्⟫ 1P: ⟪अवादि⟫ "fue dicho"
+pero:
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ "fue nacida"
+:::
 
 *   Algunas raíces en -am  
     Ejemplo:  
-    ⟪गम्⟫ ⟪अगामि⟫
+::: indent
+⟪गम्⟫ ⟪अगामि⟫
+:::
 
 Inserción de y antes de la terminación:
 
 *   Las raíces en -ā, -e, -ai, -o insertan una y entre la -ā de la raíz y la terminación:  
     Ejemplo:  
-    ⟪दा⟫ 3U: ⟪अदायि⟫ "fue dado"
+::: indent
+⟪दा⟫ 3U: ⟪अदायि⟫ "fue dado"
+:::
 
 Infixo nasalizado:
 
 *   Algunas raíces poseen un infixos nasalizado:  
     Ejemplo:  
-    ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ junto a ⟪अलाभि⟫ : "fue recibido"
+::: indent
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ junto a ⟪अलाभि⟫ : "fue recibido"
+:::
 
 (Las demás formas del pasivo se expresan en el aoristo mediante formas de Ātmanepada).
 :::
@@ -262,7 +274,7 @@ Traduzca por escrito las siguientes formas y forme las correspondientes formas d
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5401))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: deleteme-box
 

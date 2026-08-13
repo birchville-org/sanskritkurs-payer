@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lição 24
 
@@ -376,7 +376,7 @@ Veneração (⟪नमस्⟫) a Śiva! Veneração a Śrī Gaṇeśa!
 Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt2409))
 :::
-Até logo! (= Bem-estar (⟪स्वस्ति⟫ f.) para vós!)
+Até logo! (= Bem-estar (⟪स्वस्ति⟫ f.) para vós!) <!-- TODO: Fallback translation -->
 
 Esta fruta é suficiente para comer.
 
@@ -423,7 +423,7 @@ Basta uma fruta para comer e água para beber.
 
 **lekt2408:** "O contador de histórias de São Francisco, Jeff Byers, compartilha uma história com os moradores de Chenneri, uma aldeia Irula. A contadora de histórias Jeeva Raghunath traduz para o tâmil para os aldeões." [Fonte da imagem: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Acessado em 2008-12-14. -- Licença Creative Commons (Atribuição, Uso não comercial)]
 
-**lekt2409:** [Fonte da imagem: Redtigerxyz / Wikipedia, GNU FDLicense]
+**lekt2409:** [Fonte da imagem: Redtigerxyz / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt2410:** ⟪नरसिंह⟫ dilacera ⟪हिरण्यकशिपु⟫, folha de um manuscrito do ⟪भागवतपुराण⟫ [Fonte da imagem: Wikipedia, Domínio público]
 

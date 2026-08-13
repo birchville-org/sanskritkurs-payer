@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα 49
 
@@ -390,7 +390,7 @@ PPP ⟪ध्यात⟫
 
 **lekt4906:** Σρι Λάνκα [Πηγή εικόνας: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Πρόσβαση στις 2009-01-11. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση επεξεργασίας)]
 
-**lekt4908:** Πλατυκέφαλος ιάκκος _= Psittacula cyanocephala_[Πηγή εικόνας: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Πρόσβαση στις 2009-01-12. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, share alike)]
+**lekt4908:** Πλατυκέφαλος ιάκκος _= Psittacula cyanocephala_[Πηγή εικόνας: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Πρόσβαση στις 2009-01-12. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
 
 :::
 

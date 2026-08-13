@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 4
+# Leçon 4
 
 ::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
@@ -48,11 +48,11 @@ status: stable
 **Pour le N. sg. masc. :**
 - **sa, eṣa** (⟪स⟩ ⟪एष⟩) se place devant tous les sons sauf **-a** bref
 - **so, eṣo** (⟪सो⟩ ⟪एषो⟩) se place devant **-a**, qui est élidé par Avagraha (omission)
-- **saḥ, eṣaḥ** (⟪सः⟩ ⟪एषः⟩) se place uniquement en pause (fin de phrase, fin de vers)
+- **saḥ, eṣaḥ** (⟪सः⟩ ⟪एषः⟩) se place uniquement en pause (fin de phrase, fin de vers) <!-- TODO: Fallback translation -->
 
 Afin de pouvoir former des phrases avec ces pronoms (sarvanāman n.), il est encore nécessaire de connaître les règles de sandhi suivantes :
 
-### 4.1.2. Sandhi von auslautendem -m
+### 4.1.2. Sandhi von auslautendem -m <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **La finale -m devant une consonne est remplacée par un anusvāra (-ṃ). En fin de phrase ou de vers, et devant une voyelle, le -m est conservé.**

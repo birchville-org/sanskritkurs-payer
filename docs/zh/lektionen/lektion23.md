@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 23
+# 第23課
 
 ## 23.1. 不定式 (⟪तुमुन्⟫)
 

@@ -1,204 +1,210 @@
 ---
-title: Lektion 5
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+title: "Lecziun 5"
+subtitle: "Fundaments da cumponiments nominalis (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 5
+# Lecziun 5
 
 ::: deleteme-box
-**En questa lecziun aprendais Vus:**
-- Fundaments da las cumposiziuns nominalas (samāsa)
-- Terminologia specialisada per cumposiziuns
-- Cumposiziuns copulativas (Dvandva)
-- L'ordina dals elements en Dvandvas
+**En questa lecziun avais Vus:**
+- Fundaments da cumponiments nominalis (samāsa)
+- Terminologia tecnica per cumponiments
+- Cumponiments copulativs (Dvandva)
+- L'ordine dals elements en Dvandvas
 :::
-## 5.1. Cumposiziuns nominalas (samāsa m. = ⟪⟪समास⟫⟫)
+## 5.1. Cumponiments nominalis (samāsa m. = ⟪समास⟫)
 
-La furmaziun da cumposts da paraulas en inquitad fitg gronda è ina caracteristica dal sanskrit.
+La furmaziun da cumponiments da paraulas en in grond emprim plan è in caracteristic dal sanscrit.
 
-Las formas da construcziun pli impurtantas da cumponids èn:
-- **cumponids copulativs** (dvandva n. = ⟪द्वन्द्व⟫)
-- **cumponids determinativs** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
-- **cumponids possessivs** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
+Las furmas da furmaziun pli impurtantas per cumponiments èn:
+- **cumponiments copulativs** (dvandva n. = ⟪द्वन्द्व⟫)
+- **cumponiments determinativs** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
+- **cumponiments possessivs** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
 
-(Per las duas ultimas menziunadas, vesair pli tard!)
+(Vesair pli tard davart ils ultims dus menziunads!)
 
-## 5.2. Davart la terminologia da sanscrit per composita
 
-- **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Elements d'in cumpost
-- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Resoluziun d'in cumpost
-- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : Cumpost, per il qual n'exista nagin vigrahavākya u la cui vigrahavākya n'è betg pussaivla cun las paraulas dal cumpost.
-- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : Cumpost, en il qual l'element frontal mantegna ina desinenza casala
-- **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Cumpost, cun elements frontals senza desinenzas casalas (il cas normal)
-- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Cumpost, en il qual in u plirs elements intermediars vegnan tralasciads
+## 5.2. A la terminologia sanscrita per cumponiments
 
-## 5.3. Composita copulativa (Dvandva n. = ⟪द्वन्द्व⟫)
+- **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : elements d'in cumponiment
+- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : dissolver in cumponiment
+- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : cumponiment, per il qual n'exista nagin vigrahavākya u cun in tal che na è betg pussaivel cun las paraulas dal cumponiment.
+- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : cumponiment, en il qual l'element avant retains ina finisziun da casus
+- **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : cumponiment, cun elements avant senza finiziuns da casus (il normal)
+- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : cumponiment, en il qual in u plirs elements intermediaris vegnan omitids
 
-I composts copulativs servan per cunectar partidas grammaticamain equiparadas e coordinadas (sustantivs u adiectivs).
+
+## 5.3. Cumponiments copulativs (Dvandva n. = ⟪द्वन्द्व⟫)
+
+Ils cumponiments copulativs servan per colliar elements grammaticalmain simils, coordinads (substantivs u adjectivs).
 
 ::: grammar-box
-**In Dvandva signifitgescha:**
+**In Dvandva designescha:**
 
-1. **u la connexiun summativa dals persunas, coses, proprietads designadas per sias singulas membras:**
-   Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
+1. **u la connexiun summativa dals persunas, chasas u proprietads designadas cun ses singuls elements:**
+Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
 
-2. **u cumpiglia questas persunas, cossas u proprietads ad ina unitad:**
-   Samāhāradvandva ("dvandva da cumpigla") = ⟪समाहारद्वन्द्व⟫
+2. **u el cumpona quests persunas, chasas u proprietads ad ina unitad:**
+Samāhāradvandva ("Dvandva da cumponiment") = ⟪समाहारद्वन्द्व⟫
 
-**En il prim cas (Itaretaradvandva):**
-Il Dvandva ha il gener gramatical da sias ultimas partas ed las desinenzas dal dual (a maun da duas cosas) u dal plural (a maun da dapli che duas cosas). Anche las desinenzas dal singular èn permissas.
+**En il prims cas (Itaretaradvandva):**
+Il Dvandva ricevez il gen grammatical da ses ultim element e las finiziuns dal dual (a duas chasas) u dal plural (a dapli che duas chasas). Finiziuns singulares èn er permissas.
 
-**En il segund cas (Samāhāradvandva):**
-Il Dvandva è en general in neutrum (indipendentamain dal gènir da l'ultim element) ed è en singular.
+**En il secund cas (Samāhāradvandva):**
+Il Dvandva è en general in neutrum (indipendent dal gen da l'ultim element) e stat al singular.
 
-**La resoluziun:**
-Fitscha cun "e" (**ca** = ⟪च⟫), a giadas cun "u" (**vā** = ⟪वा⟫) u "mintgin".
+**La dissolver:**
+Succeda cun "ed" (**ca** = ⟪च⟫), occasiunadamain cun "u" (**vā** = ⟪वा⟫) u "mintgin".
 :::
-Per ils Dualdvandva ves pli tard!
+Vesair pli tard davart Dvandvas dal dual!
 
-### 5.3.1. Emprimas parts da composita
+### 5.3.1. Elements avant da cumponiments
 
-Las parts davant en cumponids (beti mo Dvandvas) han en general la furma dal **stema nominal** immutà. Las singulas parts da cumponids vegnan colliadas suenter las reglas dal **sandhi da la frasa** (c.a. il sandhi, che nus fin uss avain enconuschì, en cuntrast al sandhi da la paraula, che vegn applicà en l'intern da la paraula avant elements formativs).
+Ils elements avant da cumponiments (betg mo Dvandvas) han en general la furma dal **stemma nominala** immutada. Ils singels elements da cumponiments vegnan colliads secund las regulas dal **Satzsandhi** (id est dal Sandhi, che nus avain fin uss enconuschì, cuntrari al sandhi da las paraulas, che s'applitgescha internamain a la paraula avant elements formativs). <!-- TODO: Fallback translation -->
 
 ### 5.3.2. Plural-Itaretaradvandva
 
-Ezemplis per dvandva plural:
+Exemples per Dvandvas dal plural:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
 > = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (Brahmans, Kṣatrias, Vaiśias e Śūdras)
+> (Brahmanas, Kṣatriyas, Vaiśyas e Śūdras)
 > 
 > u = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> ((in/el) Brahma, Kṣatriya, Vaiśya e Śūdra)
+> ((in/il) Brahmana, Kṣatriya, Vaiśya e Śūdra)
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
 > = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (poetas ed magisters [Plur.])
-> (Nota: «In poet ed in magister» duess esser en dual!)
+> (poe tschertgients e magisters [Plur.])
+> (Nota: "In po tschertgient e magister" duesscha en il dual star!)
 
-**Per l'ordinaziun dals elements en in Dvandva valan, tranter auter, las suandantas regulas:**
-- La designaziun dals differents stans (**varṇa**) duai esser ordinada tenor lur hierarchia (il pli aut en l'emprim lieu).
-- Il num dal frad pli vegl duai vegnir antepost al num dal frad pli giuven.
-- En general duai la paraula pli impurtanta vegnir collocada en l'entschatta.
-- Parolas, che finischan cun **-i** u **-u**, duain preceder.
-- Parolas, che finischan cun **-a** e cumenzan cun ina vocala, duain preceder.
-- Parolas, che cuntan main silbas, duain preceder.
+**Per l'ordinaziun dals elements in Dvandva valan tranter auter las suandantas reglas:**
+- La designaziun dals differents stads (**varṇa**) duessa tenor lur hierarchia (il pli aut per l'emprim) vegnir ordenada.
+- Il num dal frad pli vegl duessa esser avant il num dal frad pli giuven.
+- En general duessa la parola cun il mai impurtant esser avant.
+- Parolas, che fineschan cun **-i** u **-u**, duessa esser avant.
+- Parolas, che fineschan cun **-a** e cumenzan cun ina vocala, duessa esser avant.
+- Parolas, che cuntan main silbas, duessa esser avant.
 
-Qua dus da las trais ultimas reglas pon vegnir aplicadas simultanamain, duai adina la regla donada pli tard vegnir observada. (Exemples da dualdvandva per questas reglas en Kielhorn, Grammatica § 570).
+Cunzont dus dals trais ultims prescripziuns pon vegnir en dumonda simultanamain, duessa adina la regla data pli tard esser observada. (Exemples da Dualdvandva per estas reglas apertegn a Kielhorn, Grammatik § 570).
 
-## 5.4. Glista da pleds
 
-**Studei las suandantas parolas:**
+## 5.4. Lida da vartas
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : inclinaziun a, tenacitad, insistenza; en spezial: affecziun per il corp sco sche el appartegniss a sez.
+**Imprendai las suandantas parolas:**
 
-**kāma** m. = ⟪काम⟫ : desideri, vulè, don desiderà, plaisir sensual, amur; div dal amur Kāma.
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : inclinaziun a, tenacitad, persistenza; spezialmain: attachament al corp sco sche el fiss quai ch'è sez.
+
+**kāma** m. = ⟪काम⟫ : desideri, brama, don desiderà, plaider sensuel, amor; diev dal amour Kāma.
 
 ::: media
 ![](/images/lekt0501.webp)
-Fig.: dio Kāma = kāmadeva = ⟪कामदेव⟫, 18. sec.
-(Fonte da l'imaggin: Wikipedia, domeni public)
+Abb.: diev Kāma = kāmadeva = ⟪कामदेव⟫, 18. tschientaner
+(Sursa d'imagia: Wikipedia, Public domain)
 :::
-**krodha** m. = ⟪क्रोध⟫ : ira.
+**krodha** m. = ⟪क्रोध⟫ : ira, collera. <!-- TODO: Fallback translation -->
 
-**kleśa** m. = ⟪क्लेश⟫ : dolor, afflicziun.
+**kleśa** m. = ⟪क्लेश⟫ : torment, plagia.
 
-**trayī** f. = ⟪त्रयी⟫ : trina; surtut ils trais Vedas (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** f. = ⟪त्रयी⟫ : trina; spezialmain ils tschient Veds (Ṛgveda, Sāmaveda, Yajurveda). <!-- TODO: Fallback translation -->
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politica (in Tatpuruṣa da daṇḍa m. = "bastun, pussanza, dominaziun, sancziun" e nīti f. = "directa direcziun").
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politica (in Tatpuruṣa da daṇḍa m. = "bacul, pussanza, dominaziun, pena" e nīti f. = "directiva recta").
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : naschì duas giadas.
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : dus giadas naschì.
 
-**dveṣa** m. = ⟪द्वेष⟫ : od.
+**dveṣa** m. = ⟪द्वेष⟫ : odi, aversion.
 
-**maitrī** f. = ⟪मैत्री⟫ : amicizia, amichevulezza, benevolenza amichevula.
+**maitrī** f. = ⟪मैत्री⟫ : amistad, amiaivladad, buna disposiziun friendly.
 
-**rāga** m. = ⟪राग⟫ : (cotscha) colur, passiun, amur.
+**rāga** m. = ⟪राग⟫ : (röd) colur, passion, amor.
 
 **lobha** m. = ⟪लोभ⟫ : aviditad, avarizia.
 
-**varṇa** m. = ⟪वर्ण⟫ : colur, categoria, classa.
+**varṇa** m. = ⟪वर्ण⟫ : colur, genia, stad.
 
-**vārttā** f. = ⟪वार्त्ता⟫ : guadagn, economia (economia).
+**vārttā** f. = ⟪वार्त्ता⟫ : gudogn, economia (sistem economic).
 
 **vidyā** f. = ⟪विद्या⟫ : savida, scienza.
 
-**avidyā** f. = ⟪अविद्या⟫ : ignoranza, nescienza.
+**avidyā** f. = ⟪अविद्या⟫ : ignoranza, na-savida.
 
 **ca** = ⟪च⟫ : e.
-(El vegn postà suenter la paraula, cun la quala el vegn collià. Quai che pliras paraulas vegnan colliadas, stat el idealmain suenter la prima paraula da l'ultima colliaziun: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟩ ⟪क्षत्रिया⟩ ⟪वैश्याः⟩ ⟪शूद्राश्च⟩).
+(Vegn postà suenter la parola, che el colliaja. Cunzont pliras parolas vegnian collidas, stà idealmain suenter la emprima parola dal ultim element da colliaziun: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
 
-**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : tut ... ed.
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : tant ... sco era.
+
 
 ## 5.5. Exercizi
 
-**A) Traducì las suandantas frasis e cumposts e resolvì ils dvandvas preschents en quels en sanscrit:**
+**A) Traduschai ils suandants tschertgs e composts e resolvai los Dvandvas che vegnan en quest:**
 
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
-   (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
-   ⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
-   (Explicaziun: catvāras = ⟪चत्वारस्⟫ = "quatter")
+(Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
+⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
+(Explicaziun: catvāras = ⟪चत्वारस्⟫ = "quatter")
 
 2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ.
-   (Vāsiṣṭhadharmaśāstra II,1)
-   ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ||
-   (Explicaziun: trayas = ⟪त्रयस्⟫ = "três")
+(Vāsiṣṭhadharmaśāstra II,1)
+⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ||
+(Explicaziun: trayas = ⟪त्रयस्⟫ = "três")
 
 3. sāmavedargvedayajurvedās trayī.
-   (Kauṭilīya-arthaśāstra 1.3.1. / en bun Sanskrit: sāmārgyajurvedās trayī)
-   ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (en bun Sanskrit: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+(Kauṭilīya-arthaśāstra 1.3.1. / en bun Sanscrit: sāmārgyajurvedās trayī)
+⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
+(en bun Sanscrit: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
 
-4. Ils tres adversaris dals umans, che furman la porta a l'infer (Viṣṇusmṛti 33,1+6):
+4. Ils trais inimis dals umans, che furman la porta a l'infer (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
-   ⟪कामक्रोधलोभाः⟫ ||
+⟪कामक्रोधलोभाः⟫ || <!-- TODO: Fallback translation -->
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
-   ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Explicaziun: brahmavihāra: "stadi da dimora da Brahma", numnà era "immens". Ellas èn furmas da meditaziun buddhistas.)
+⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
+(Explicaziun: brahmavihāra: "stads da dimora dal Brahma", er numnà "ils immens". Els èn furmas da meditaziun buddhistas.) <!-- TODO: Fallback translation -->
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
-   (Yogasūtra 2,3)
-   ⟪अविद्यास्मितारागद्वेषाभिनिवेषाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ||
-   (Explicaziun: pañca = "tschintg")
+(Yogasūtra 2,3)
+⟪अविद्यास्मितारागद्वेषाभिनिवेषाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ||
+(Explicaziun: pañca = "tschint")
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
-   (secun Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+(Suenter Kauṭilīya-arthaśāstra 1.2.1.)
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
 
-## 5.6. Wiederholungsübung
 
-**A) Traducìs:**
+## 5.6. Exercizi da repetiziun
 
-1. savida è la sustentaziun.
-   ⟪विद्या⟫ ⟪वार्त्ता⟫ |
+**A) Tradusì:**
+
+1. vidyā vārttā.
+⟪विद्या⟫ ⟪वार्त्ता⟫ |
 
 2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
-   ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫ |
+⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫ |
 
-3. dvijā vaiśyāḥ. (2 possibilitads)
-   ⟪द्विजा⟫ ⟪वैश्याः⟫ |
+3. dvijā vaiśyāḥ. (2 pussaivladads)
+⟪द्विजा⟫ ⟪वैश्याः⟫ |
 
-**B) Inserir la furma corrispundenta:**
+**B) Insertar la furma correspundenta:**
 
 1. (dvija, sādhu, kavi) ... rāmaḥ
-   (⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
+(⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
 
 2. (devī) ... indrāṇī
-   (⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
+(⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
 
 3. dvijātayas ... (vaiśyā, kṣatriya)
-   ⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
+⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
 
-**C) Dissolver il cumpost en la sentenza suandanta en sanscrit e construir cun questa furma dissolta la medema sentenza:**
+**C) Resolver il cumpositiv en la suandanta frasa en Sanscrit e crear cun questa furma resoluta la medema frasa:**
 
 sāmargyajurvedās trayī.
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ |
 
-**D) Traducir en duas modas en sanscrit (ina giada cun in cumponì, ina giada senza):**
+**D) Tradusì en duas modas en Sanscrit (ina giada cun in cumpositiv, ina giada senza):**
 
-"Stadi da Brahma" èn: amur benevolent, compassiun, gaud sincer, equanimitad.
+"Stads da dimora dal Brahma" èn: benevolenza amiaivla, compassion, partecipaiziun da la gaja, equanimitad.

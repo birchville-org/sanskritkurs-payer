@@ -23,7 +23,7 @@ Versio explicite aspera relicta est, ut auxilium translationis serviat.
 
 _Auxilium translationis:_ Versus 6: ⟪दिदृक्षते⟫ \= Desiderativum ad ⟪दृश्⟫
 
-Textus ex: Otto Böhtlingk: Sanskrit-Chrestomathia p. 127seqq.
+Textus ex: Otto Böhtlingk: Sanskrit-Chrestomathia p. 127seqq. <!-- TODO: Fallback translation -->
 
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫

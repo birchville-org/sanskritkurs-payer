@@ -21,9 +21,9 @@ status: stable
 :::
 Spiegazioni:
 
-\-⟪अग्नि⟫ Neutro Nominativooo/Accusativo singolare di ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ Neutro Nominativoooooo/Accusativo singolare di ⟪अग्नि⟫ m.
 
-\-:sig[⟪गु⟫] Neutro Nominativooo/Accusativo singolare di ⟪गो⟫ m.f. "bue, vacca"
+\-:sig[⟪गु⟫] Neutro Nominativoooooo/Accusativo singolare di ⟪गो⟫ m.f. "bue, vacca"
 
 ::: media
 ![](/images/lekt3801.webp)
@@ -47,9 +47,9 @@ I nomi in **-an** nonché i nomi **-man** o **-van** dopo vocale hanno tre stemm
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Tema** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. du. m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
 | **Mittlerer Schwacher Tema** | **-a**:br(da -*n) | **-ma**:br(da -*mn) | **-va**:br(da -*vn) | Übrige Kasus vor konsonantisch anlautender Desinenza:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Desinenza |
+| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Desinenza | &lt;!-- TODO: Fallback translation --&gt;
 
-**Le desinenze sono regolari. Il Nominativooo Singolare m. f. si forma senza -n finale.**
+**Le desinenze sono regolari. Il Nominativoooooo Singolare m. f. si forma senza -n finale.**
 :::
 Esempi:
 
@@ -563,19 +563,19 @@ Spiegazioni:
 
 :sig[⟪दश⟫] Nom.Akk.pl.m.f.n. per ⟪दशन्⟫ "dieci"
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dualeee per ⟪बाहु⟫ m. "Braccio"
+⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dualeeeeee per ⟪बाहु⟫ m. "Braccio"
 
 :sig[⟪सर्वे⟫] Nom.pl.m. per ⟪सर्व⟫ 3 "ogni, tutti"
 
 :sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Destesiderativo per ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "voler conoscere, voler sapere"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. per ⟪नवन्⟫ "nove"
+⟪नव⟫ Nom.Akk.pl.m.f.n. per ⟪नवन्⟫ "nove" &lt;!-- TODO: Fallback translation --&gt;
 
 :sig[⟪वयम्⟫] Nom.pl. "noi"
 
 ⟪स्मस्⟫ 1.pl.Ind.Prés.P per ⟪अस्⟫ 2P
 
-:sig[⟪गवेषयत⟫] 2.pl.Imperativooo P
+:sig[⟪गवेषयत⟫] 2.pl.Imperativoooooo P
 
 ⟪एकैक⟫ "ogni uno"
 

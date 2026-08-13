@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 12
 
-A) Alakítsa ki a [Lektion 7](lektion07.md), Gyakorlat A aktív mondataiból az időbeni passzívmondatokat a PPP-vel, intranszitív igék és mozgást kifejező igék esetén pedig alkalmazzon időbeni aktívmondatokat.
+A) Alakítsa ki a [Lektion 7](lektion07.md), Gyakorlat A aktív mondataiból az időbeni passzívmondatokat a PPP-vel, intranszitív igék és mozgást kifejező igék esetén pedig alkalmazzon időbeni aktívmondatokat. <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इष्टः⟫ ⟪।⟫ ⟪देवीष्टा⟫ ⟪।⟫ ⟪विष्णुरिष्टः⟫ ⟪।⟫ ⟪ब्राह्मणेनाग्निरिष्टः⟫ ⟪।⟫ ⟪देवतेष्टा⟫ ⟪।⟫
 
@@ -26,7 +26,7 @@ A) Alakítsa ki a [Lektion 7](lektion07.md), Gyakorlat A aktív mondataiból az 
 ⟪५⟫. śūdro jitaḥ ⟪॥⟫
 ⟪शूद्रो⟫ ⟪जितः⟫ ⟪॥⟫
 
-B) Alakítsa ki a megfelelő PPP-ket a [Lektion 10](lektion10.md), Gyakorlat A igeképzeteihez. Vegye figyelembe, hogy egy olyan alakhoz mint a sṛjati PPP-k felelnek meg mindhárom nemben.
+B) Alakítsa ki a megfelelő PPP-ket a [Lektion 10](lektion10.md), Gyakorlat A igeképzeteihez. Vegye figyelembe, hogy egy olyan alakhoz mint a sṛjati PPP-k felelnek meg mindhárom nemben. <!-- TODO: Fallback translation -->
 
 1. sṛjati ⟪सृजति⟫ : ⟪सृष्टः⟫ ⟪३⟫ (⟪सृष्टः⟫ ⟪।⟫ ⟪सृष्टा⟫ ⟪।⟫ ⟪सृष्टम्⟫)
 2. yudhyate ⟪युध्यते⟫ : ⟪युद्धः⟫ ⟪३⟫
@@ -51,7 +51,7 @@ B) Alakítsa ki a megfelelő PPP-ket a [Lektion 10](lektion10.md), Gyakorlat A i
 21. pṛcchanti ⟪पृच्छन्ति⟫ : ⟪पृष्टाः⟫ ⟪३⟫
 22. tanvanti ⟪तन्वन्ति⟫ : ⟪तताः⟫ ⟪३⟫
 
-C) Alakítsa át a [Lektion 10](lektion10.md), Gyakorlat C mondatait passívba az időben.
+C) Alakítsa át a [Lektion 10](lektion10.md), Gyakorlat C mondatait passívba az időben. <!-- TODO: Fallback translation -->
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 ⟪ब्रामणेन⟫ ⟪देवीष्टा⟫ ⟪।⟫

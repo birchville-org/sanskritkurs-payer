@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 60
+# 第60課
 
 ## 60.1. 完成时双数结尾 (⟪द्विवचनम्⟫)
 
@@ -359,16 +359,20 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
 **Zur Reduplikation:** <!-- TODO: Fallback translation -->
 
 1.  Konsonantisch anlautende Wurzeln: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Wurzeln nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:   <!-- TODO: Fallback translation -->
-    ⟪पा⟫ » ⟪पिपास⟫-  
-    ⟪त्यज्⟫ » ⟪तित्यज⟫-  
-    ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
-    Die Zerebralisierung nach i/u von auslautendem -s der Wurzel unterbleibt, wenn das s des Desiderativsuffixes zerebralisiert wird:  
-    ⟪स्मि⟫ » ⟪सिस्मयिष⟫-   <!-- TODO: Fallback translation -->
+::: indent
+⟪पा⟫ » ⟪पिपास⟫-
+⟪त्यज्⟫ » ⟪तित्यज⟫-
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-
+Die Zerebralisierung nach i/u von auslautendem -s der Wurzel unterbleibt, wenn das s des Desiderativsuffixes zerebralisiert wird:
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-   <!-- TODO: Fallback translation -->
+:::
 
 2.  Vokalisch anlautende Wurzeln werden nach den entsprechenden Regeln für den reduplizierten Aorist ([Lektion 56](lektion56.md)) redupliziert:   <!-- TODO: Fallback translation -->
-    ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
-    ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-    ⟪ऋ⟫ » ⟪अरिरिष⟫-   <!-- TODO: Fallback translation -->
+::: indent
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
+⟪ऋ⟫ » ⟪अरिरिष⟫-   <!-- TODO: Fallback translation -->
+:::
 
 3.  Die besondere Desiderativbildung bestimmter Wurzeln siehe bei Kielhorn, Grammatik § 451. <!-- TODO: Fallback translation -->
 :::

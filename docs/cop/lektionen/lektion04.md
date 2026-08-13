@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 4
+# ⲙⲁⲑⲏⲙⲁ 4
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:**
@@ -69,7 +69,7 @@ z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वरा�
 ### 4.1.4. ⲥⲁⲛϣϩⲓ ϫⲉ ⲡⲓⲧⲉϣⱦ -d
 
 ::: grammar-box
-**Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.** <!-- TODO: Fallback translation -->
+**ⲡⲓϥⲛⲁⲕ ⲧⲉ -d ϣⲟϥⲛⲁⲕ ⲉⲙⲡⲓϣⲟⲃ ϩⲛ ⲧⲉ -t.**
 
 ⲡⲓⲛϣⲟⲡ ϧⲉⲛ ⲇⲩⲕⲁϫⲓ ϧⲛ ⲡⲉⲩⲙⲏⲧ ϫⲓϥⲛⲁⲕ ⲉⲧⲙⲟⲛϣ. ⲡⲓⲛⲁⲕⲉϥⲙⲟⲣ ⲛⲁⲕ ϫⲓϥⲛⲁⲕ ⲉⲧⲙⲟⲛϣ!
 :::
@@ -91,7 +91,7 @@ z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वरा�
 
 > ⲡⲓϥⲛⲁⲕ ⲕⲉ? = ⟪विष्णुः⟩ ⟪कः⟩ ⲡⲓϣⲟⲡ: ⲡⲓϥⲛⲁⲕ ⲉἵⲥⲡⲏⲣ = ⟪विष्णुरीश्वरः⟩. (ⲡⲓϣⲟⲡ ϫⲉ ⲛⲁⲕ, ⲡⲓϣⲟⲡ ϫⲉ ⲛⲁⲕ, ⲡⲓϣⲟⲡ ϫⲉ ⲛⲁⲕ, ⲡⲓϣⲟⲡ ϫⲉ ⲛⲁⲕ.)
 
-Ⲡⲓⲥϫⲉⲙ: ⲡⲛⲟⲩϫⲉⲙ ⲛⲧⲥⲟⲡ ⲉϫⲱⲛ ϧⲛ ⲡⲓⲙⲉⲧⲣⲱϥ ⲛⲓⲥⲁⲛⲕⲣⲉ, ⲡⲓϫⲱⲟⲛ ϯⲥⲁⲡⲓ ⲉϫⲱⲛ ϯⲥⲁⲡⲓ. <!-- TODO: Fallback translation -->
+Ⲡⲓⲥϫⲉⲙ: ⲡⲛⲟⵥϫⲉⲙ ⲛⲧⲥⲟⲡ ⲉϫⲱⲛ ϧⲛ ⲡⲓⲙⲉⲧⲣⲱϥ ⲛⲓⲥⲁⲛⲕⲣⲉ, ⲡⲓϫⲱⲟⲛ ϯⲥⲁⲡⲓ ⲉϫⲱⲛ ϯⲥⲁⲡⲓ.
 
 ## 4.2. Übung
 

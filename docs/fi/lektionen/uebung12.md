@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 12
 
-A) Muodosta [Lektionin 7](lektion07.md), harjoituksen A aktiivilauseista menneisyyden passiivimuodot PPP-käytöllä sekä intransitiivisten verbien ja liikkeen verbien kohdalla menneisyyden aktiivilauseet.
+A) Muodosta [Lektionin 7](lektion07.md), harjoituksen A aktiivilauseista menneisyyden passiivimuodot PPP-käytöllä sekä intransitiivisten verbien ja liikkeen verbien kohdalla menneisyyden aktiivilauseet. <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इष्टः⟫ ⟪।⟫ ⟪देवीष्टा⟫ ⟪।⟫ ⟪विष्णुरिष्टः⟫ ⟪।⟫ ⟪ब्राह्मणेनाग्निरिष्टः⟫ ⟪।⟫ ⟪देवतेष्टा⟫ ⟪।⟫
 
@@ -26,7 +26,7 @@ A) Muodosta [Lektionin 7](lektion07.md), harjoituksen A aktiivilauseista menneis
 ⟪५⟫. śūdro jitaḥ ⟪॥⟫
 ⟪शूद्रो⟫ ⟪जितः⟫ ⟪॥⟫
 
-B) Muodosta vastaavat PPP-muodot [Lektionin 10](lektion10.md), harjoituksen A verbimuodoista. Huomaa, että sellaiselle muodolle kuin sṛjati vastaa PPP-muotoja kaikissa kolmessa sukuvaihtoehdossa.
+B) Muodosta vastaavat PPP-muodot [Lektionin 10](lektion10.md), harjoituksen A verbimuodoista. Huomaa, että sellaiselle muodolle kuin sṛjati vastaa PPP-muotoja kaikissa kolmessa sukuvaihtoehdossa. <!-- TODO: Fallback translation -->
 
 1. sṛjati ⟪सृजति⟫ : ⟪सृष्टः⟫ ⟪३⟫ (⟪सृष्टः⟫ ⟪।⟫ ⟪सृष्टा⟫ ⟪।⟫ ⟪सृष्टम्⟫)
 2. yudhyate ⟪युध्यते⟫ : ⟪युद्धः⟫ ⟪३⟫
@@ -51,7 +51,7 @@ B) Muodosta vastaavat PPP-muodot [Lektionin 10](lektion10.md), harjoituksen A ve
 21. pṛcchanti ⟪पृच्छन्ति⟫ : ⟪पृष्टाः⟫ ⟪३⟫
 22. tanvanti ⟪तन्वन्ति⟫ : ⟪तताः⟫ ⟪३⟫
 
-C) Muunna [Lektionin 10](lektion10.md), harjoituksen C lauseet passiiviin menneisyydessä.
+C) Muunna [Lektionin 10](lektion10.md), harjoituksen C lauseet passiiviin menneisyydessä. <!-- TODO: Fallback translation -->
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 ⟪ब्रामणेन⟫ ⟪देवीष्टा⟫ ⟪।⟫
@@ -106,4 +106,4 @@ C) Muunna [Lektionin 10](lektion10.md), harjoituksen C lauseet passiiviin mennei
 ![](/images/uebung020.webp)
 Kuva: ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 (Kuvan lähde: [Details](/licenses#uebung020))
-:::
+::: <!-- TODO: Fallback translation -->

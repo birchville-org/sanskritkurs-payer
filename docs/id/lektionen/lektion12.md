@@ -1,106 +1,108 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Pelajaran 12"
+subtitle: "Partisip Perfek Pasif (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 12
 
 ::: deleteme-box
-**Dalam pelajaran ini Anda akan mempelajari:**
-- Partisip Perfek Pasif (PPP)
-- Makna PPP
-- Pembentukan PPP
-- Hukum penggabungan bunyi dalam kata
-- Kalimat pasif dan PPP dari akar-akar yang telah dipelajari sebelumnya
+**Dalam pelajaran ini Anda akan belajar:**
+Partisip Perfek Pasif (PPP)
+Makna dari PPP
+Pembentukan PPP
+Hukum-hukum gabungan bunyi dalam kata
+Bentuk pasif dan PPP dari akar-akar yang telah dipelajari sejauh ini
 :::
 
-## 12.1. Partisip Perfekt Pasif (PPP)
+## 12.1. Partisip Perfek Pasif (PPP)
 
-Salah satu cara untuk membentuk kalimat pasif masa lalu adalah konstruksi dengan yang disebut Partisip Perfek Pasif (PPP).
+Salah satu cara untuk membentuk kalimat pasif masa lampau adalah konstruksi dengan yang disebut Partisip Perfek Pasif (PPP).
 
 ::: grammar-box
-**Pada kenyataannya, PPP bukanlah partisip sejati karena tidak dibentuk dari akar waktu. Sebaliknya, ini adalah pembentukan nomina terhadap akar dengan sufiks primer -ta atau -na. Oleh karena itu, dalam tata bahasa India disebut sebagai sufiks kta.**
+**Sebenarnya, PPP bukanlah partisip sejati, karena tidak dibentuk dari batang waktu. Ia lebih merupakan pembentukan nominal terhadap akar dengan sufiks primer -ta atau -na. Oleh karena itu, dalam tata bahasa India disebut sufiks kta.**
 :::
 
 ### 12.1.1. Skema untuk kata kerja transitif
 
 ::: grammar-box
-**Agen (kartṛ) dalam Instrumental (tṛtīyā) -- objek langsung (karman) dalam Nominatif (prathamā) -- Partisip Perfek Pasif**
+**Agen (kartṛ) dalam Instrumental (tṛtīyā) -- Objek langsung (karman) dalam Nominatif (prathamā) -- Partisip Perfek Pasif**
 
 Dalam kasus ini, PPP sesuai dengan objek dalam jumlah, kasus, dan jenis kelamin.
 
-Kata kerja bantu ("ada") tidak diperlukan.
+Kata kerja bantu ("menjadi") tidak diperlukan.
 
 Contoh:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = "(Oleh orang suci telah dicapai surga) = Orang suci telah mencapai surga."
+> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Oleh orang suci, surga diperoleh) = Orang suci telah memperoleh surga."
 > 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(Oleh brahmana telah disembah dewi dengan persembahan) = Brahmana telah menyembah dewi dengan persembahan."
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Oleh brahmana, dewi disembah dengan persembahan) = Brahmana telah menyembah dewi dengan persembahan."
 :::
 
-### 12.1.2. Skema I untuk verba intransitif dan verba pergerakan
+### 12.1.2. Skema I untuk kata kerja intransitif dan kata kerja pergerakan
 
 ::: grammar-box
 **Agen (kartṛ) dalam Nominatif (prathamā) -- Partisip Perfek Pasif**
 
-Dalam kasus ini, PPP sesuai dengan agen dalam jumlah, kasus, dan jenis kelamin. Partisip Perfek "Pasif" memiliki makna aktif untuk kata kerja intransitif (kata kerja tanpa objek langsung) dan kata kerja pergerakan.
+Dalam kasus ini, PPP sesuai dengan agen dalam jumlah, kasus, dan jenis kelamin. Partisip Perfek "Pasif" memiliki makna aktif pada kata kerja intransitif (kata kerja tanpa objek langsung) dan kata kerja pergerakan.
 
 Contoh:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "Perempuan Kṣatriya telah pergi ke kota."
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Istri ksatria telah pergi ke kota.“
 :::
 
-### 12.1.3. Skema II untuk verba intransitif dan verba pergerakan
+### 12.1.3. Skema II untuk kata kerja intransitif dan kata kerja pergerakan
 
 ::: grammar-box
-**Agen (kartṛ) dalam Instrumental (tṛtīyā) -- PPP dalam Nominatif Tunggal Netral**
+**Agen (kartṛ) dalam Kasus Instrumen (tṛtīyā) -- PPP di Nominatif Singular Neutrum**
 
 Contoh:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = "(Oleh Kṣatriya telah (ke kota) pergi) = Kṣatriya telah (pergi ke kota)."
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Oleh ksatria telah (ke kota) pergi) = Ksatria itu telah (ke kota) pergi.“
 
 Konstruksi menurut Skema II jauh lebih jarang daripada konstruksi menurut Skema I.
 :::
 
-## 12.2. Mengenai Makna PPP
+## 12.2. Tentang makna PPP
 
-Jadi, yang disebut "Partisip Perfek Pasif" untuk kata kerja transitif terutama memiliki makna pasif (**āpta** = "tercapai (telah)"), dan untuk kata kerja intransitif serta kata kerja pergerakan memiliki makna aktif (**gata** = "pergi"), terdapat beberapa kata kerja di mana PPP dapat memiliki baik makna aktif maupun pasif:
+Jadi, yang disebut „Partisip Perfek Pasif“ untuk kata kerja transitif pada prinsipnya memiliki makna pasif (**āpta** = „telah dicapai (dipakai)“) dan untuk kata kerja intransitif serta kata kerja pergerakan memiliki makna aktif (**gata** = „telah pergi“), terdapat beberapa kata kerja di mana PPP dapat memiliki makna aktif maupun pasif:
 
-misalnya
-- **gata** = ⟪गत⟫ = "pergi" (aktif); tetapi juga: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = "jalan yang telah dilalui" (pasif)
-- **āpta** = ⟪आप्त⟫ = "tercapai" (pasif), "mencapai" (aktif)
+mis.
+**gata** = ⟪गत⟫ = „telah pergi“ (aktif); tetapi juga: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = „jalan yang telah dilalui“ (pasif)
+**āpta** = ⟪आप्त⟫ = „telah dicapai“ (pasif), „mencapai“ (aktif)
 
-## 12.3. Pembentukan  PPP
+
+## 12.3. Pembentukan PPP
 
 ::: grammar-box
-Terdapat bentuk-bentuk pembentukan berikut (untuk setiap akar, pelajari PPP-nya masing-masing!):
+Berikut adalah cara pembentukan yang umum (untuk setiap akar, PPP-nya harus dipelajari!):
 
-**(paling sering) akar tingkat rendah**
+**(paling sering) tingkat akar rendah**
 
-- **+ -ta**
-  - dengan vokal penghubung **-i-** sebelumnya: **-ita**
-  - tanpa vokal penghubung: **-ta**
-- **+ -na**
+**+ -ta**
+dengan vokal penghubung **-i-** sebelumnya: **-ita**
+tanpa vokal penghubung: **-ta**
+**+ -na**
 
-Kata benda feminin berakhir dengan: **-tā**, **-itā**, **-nā**; kata benda neutra dideklinasikan seperti **phala** n.
+Bentuk feminin berbunyi: **-tā**, **-itā**, **-nā**; neutrum dideklinasikan seperti **phala** n.
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP akhiran -ta (kta)
 
 #### 12.3.1.1. Tanpa vokal penghubung -i- (aniṭ)
 
-*aniṭ* = „tanpa (*an-*) vokal penghubung (*-i-*) yang didahului oleh akhiran *t*“ (yaitu tanpa vokal penghubung *i*).
+*aniṭ* = „tanpa (*an-*) diawali akhiran (*-i-*) *t*” (yaitu tanpa vokal penghubung *i*).
 
 ::: grammar-box
-Tanpa vokal penghubung, PPP umumnya dibentuk dari akar yang berakhiran vokal serta banyak akar lainnya, tanpa ada aturan tetap mengenai kapan vokal penghubung muncul atau tidak pada akar yang terstruktur tertentu.
+Tanpa vokal penghubung, PPP umumnya dibentuk dari akar yang berakhir dengan vokal serta banyak akar lainnya, tanpa ada aturan tetap untuk menentukan pada akar terstruktur seperti apa vokal penghubung muncul atau tidak.
 
 Daftar akar *aniṭ* terdapat pada Kielhorn, *Grammatik* § 298.
 :::
 **Contoh:**
 
 ::: grammar-box
-| Akar | Partisip Pasif Sempurna (kta) |
+| Akar | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
 | **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
@@ -108,16 +110,16 @@ Daftar akar *aniṭ* terdapat pada Kielhorn, *Grammatik* § 298.
 | **nī** 1 U:br(⟪नी⟫) | **nī-ta** :br(⟪नीत⟫) |
 | **man** 4 Ā:br(⟪मन्⟫) | **ma-ta** (\*mn-ta):br(⟪मत⟫) |
 | **su** 5 U:br(⟪सु⟫) | **su-ta** :br(⟪सुत⟫) |
-| **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (\< \*gm-ta):br(⟪गत⟫) |
+| **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (\&lt; \*gm-ta):br(⟪गत⟫) |
 | **ji** 1 P:br(⟪जि⟫) | **ji-ta** :br(⟪जित⟫) |
 | **śru** 5 P:br(⟪श्रु⟫) | **śru-ta** :br(⟪श्रुत⟫) |
 | **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta** :br(⟪कृत⟫) |
-| **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
+| **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\&lt; \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
-#### 12.3.1.2. Dengan vokal penghubung -i- (seṭ)
+#### 12.3.1.2. Dengan Vokal Penghubung -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „dengan (*sa-*) vokal penghubung (*-i-*) yang didahului oleh akhiran *t*“ (yaitu dengan vokal penghubung *i*).
+*seṭ* = *sa-iṭ* = „dengan (*sa-*) diawali akhiran (*-i-*) *t*” (yaitu dengan vokal penghubung *i*).
 
 **Contoh:**
 
@@ -127,67 +129,68 @@ Daftar akar *aniṭ* terdapat pada Kielhorn, *Grammatik* § 298.
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta** :br(⟪रक्षित⟫) |
-| **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
+| **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\&lt; \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. Aturan-aturan Penyambungan Bunyi di dalam Kata
+## 12.4. Hukum-hukum penyambungan bunyi dalam kata
 
-Pada pembentukan *aniṭ*, hukum-hukum berikut mengenai gabungan bunyi dalam kata harus diperhatikan. **Hukum-hukum ini sangat penting untuk memahami seluruh morfologi bahasa Sanskerta.**
+Pada pembentukan *aniṭ*, hukum-hukum penyambungan bunyi dalam kata berikut perlu diperhatikan. **Hukum-hukum ini sangat penting untuk memahami seluruh morfologi bahasa Sanskerta.**
 
 ::: no-header
 | | |
 | :--- | :--- |
 | **1. k, t, p sebelum hambat tak bersuara (misalnya t, th) tetap tidak berubah:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct diganti dengan kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
-| **3. śt diganti dengan ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Hambat bersuara tanpa aspirasi – kecuali j – diganti sebelum bunyi tak bersuara dengan hambat tak bersuara tanpa aspirasi yang sesuai:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (penting untuk kelas ke-2 present) |
-| **5. jt diganti dengan kt atau ṣṭ (bukan fakultatif!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Hambat bersuara dengan aspirasi + hambat tak bersuara » hambat bersuara tanpa aspirasi + hambat bersuara dengan aspirasi (Hukum Aspirasi Bartholomaeus):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t diganti oleh ḍh dengan peregangan i atau u sebelumnya; atau oleh gdh. Sebelum ḍh tersebut, a diganti dengan o, lebih jarang oleh ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **2. ct digantikan oleh kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
+| **3. śt digantikan oleh ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+| **4. Hambat bersuara tak aspirasi – kecuali j – sebelum bunyi tak bersuara digantikan oleh hambat tak bersuara tak aspirasi yang sesuai:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (penting untuk kelas Present ke-2) |
+| **5. jt digantikan oleh kt atau ṣṭ (bukan fakultatif!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\&lt; \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. Hambat bersuara aspirasi + hambat tak bersuara » hambat bersuara tak aspirasi + hambat bersuara aspirasi (Hukum Aspirasi Bartholomaeus):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t digantikan oleh ḍh dengan pemanjangan i atau u sebelumnya; atau oleh gdh. Sebelum ḍh semacam itu, a digantikan oleh o, jarang oleh ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „menyembunyikan sesuatu”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
 ## 12.5. Daftar Kata
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟩ ⟪बुध्यते⟩ ⟪बोधति⟩ ⟪बुद्ध⟩ : terbangun, bangun menuju pengetahuan, mengenali; PPP **buddha** 3 telah terbangun, oleh karena itu **Buddha** = "yang Terbangun" (bukan: yang Tersiar)
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : bangun, terbangun menuju pengetahuan; PPP **buddha** 3 yang telah bangun, oleh karena itu **Buddha** = "Yang Telah Bangun" (bukan: Yang Tersiar)
 
 ::: media
 ![](/images/lekt1201.webp)
-Gambar: ⟪गौतमो⟩ ⟪बुद्धः⟩
-(Sumber gambar: [Detail](/id/licenses#lekt1201))
+Ilustrasi: ⟪गौतमो बुद्धः⟫
+(Sumber gambar: [Details](/id/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟩ ⟪दहति⟩ ⟪दग्ध⟩ : (sesuatu) membakar
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟩ sahate soḍha : mengatasi, menanggung, menanggung dengan sabar = memaafkan
-- **mṛga** m. ⟪मृग⟩ : binatang liar
-- **mārga** m. ⟪मार्ग⟩ : jalan (jalur sering kali merupakan jalur hewan liar)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : (sesuatu) membakar
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : mengatasi, menanggung, sabar menanggung = memaafkan
+**mṛga** m. ⟪मृग⟫ : binatang buas
+**mārga** m. ⟪मार्ग⟫ : jalan (jalan-jalan sering merupakan jalur satwa liar)
 
 ::: media
 ![](/images/lekt1202.webp)
-Gambar: ⟪मार्गः⟩
-(Sumber gambar: [Detail](/id/licenses#lekt1202))
+Ilustrasi: ⟪मार्गः⟫
+(Sumber gambar: [Details](/id/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟩ : juga (ditempatkan setelah)
+**api** ⟪अपि⟫ : juga (ditempatkan setelah)
 
-Untuk kelas ke-6 dari konjugasi praesens, beberapa akar oleh para gramatikus asli dihitung yang membentuk stem praesens dengan infix nasal dan vokal tema a, misalnya:
+Untuk kelas ke-6 dari bentuk kata kerja, beberapa akar oleh para gramatikus asli dihitung yang membentuk batang present dengan infix nasal dan vokal tema a, misalnya:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟩ ⟪मुञ्चति⟩ ⟪मुक्त⟩ : melepaskan, melonggarkan, membebaskan; dari siklus kelahiran kembali (**saṃsāra** m.) membebaskan = menyelamatkan
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟩ ⟪सिञ्चति⟩ ⟪सिक्त⟩ : memercikkan
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : melepaskan, membiarkan lepas; dari siklus kelahiran kembali (**saṃsāra** m.) melepaskan = menyelamatkan
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : memerciki
 
 Untuk pembentukan kata:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟩ : pelepasan, pembebasan, keselamatan
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟩ : penyemburan seorang raja pada upacara penobatan, penobatan raja
-- **budh**: **bodhi** m./f. ⟪बोधि⟩ : kebangunan (melalui mana seorang Buddha atau Jina mencapai wawasan pembebasan)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : pelepasan, pembebasan, keselamatan
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : penyemburan seorang raja pada upacara penobatan, penobatan raja
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : kebangkitan (melalui mana seorang Buddha atau Jina mencapai wawasan pembebasan)
 
 ::: media
 ![](/images/lekt1203.webp)
-Gambar: ⟪महावीरो⟩ ⟪जिनः⟩
-(Sumber gambar: [Detail](/id/licenses#lekt1203))
+Ilustrasi: ⟪महावीरो जिनः⟫
+(Sumber gambar: [Details](/id/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟩ : pengetahuan, organ pengetahuan.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Pengetahuan, organ pengetahuan.
 
-### 12.5.1. Pasif dan PPP  bisher gelernten Akarn
 
-| Akar:br⟪धातु⟫ | Passiv Present 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+### 12.5.1. Pasif dan PPP dari akar-akar yang telah dipelajari sejauh ini
+
+| Akar:br⟪धातु⟫ | Pasif Present 3. sg. Indikatif:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -234,11 +237,14 @@ Gambar: ⟪महावीरो⟩ ⟪जिनः⟩
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
+
 ## 12.6. Latihan
 
-**A) Bentuklah kalimat pasif lampau dari kalimat aktif [Pelajaran 7](/lektionen/lektion07), Latihan A, dan untuk kata kerja intransitif serta kata kerja gerak, bentuklah kalimat aktif lampau.**
+**A) Ubah kalimat aktif dari [Pelajaran 7](/lektionen/lektion07), Latihan A menjadi kalimat pasif bentuk lampau; untuk kata kerja intransitif dan kata kerja gerak, ubah menjadi kalimat aktif bentuk lampau.**
 
-**B) Bentukkan PPP yang sesuai untuk bentuk kata kerja dari [Pelajaran 10](/lektionen/lektion10), Latihan A. Perhatikan bahwa satu bentuk seperti sṛjati memiliki PPP yang sesuai dalam ketiga jenis kelamin.**
+**B) Bentuk PPP yang sesuai dari bentuk kata kerja di [Pelajaran 10](/lektionen/lektion10), Latihan A. Perhatikan bahwa satu bentuk seperti sṛjati memiliki PPP yang sesuai dalam ketiga jenis kelamin.**
 
-**C) Ubahlah kalimat-kalimat dari [Pelajaran 10](/lektionen/lektion10), Latihan C menjadi kalimat pasif dalam bentuk lampau.**
+**C) Ubah kalimat-kalimat dari [Pelajaran 10](/lektionen/lektion10), Latihan C menjadi bentuk pasif lampau.**
+
+
 

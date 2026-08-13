@@ -226,7 +226,8 @@ Exemple:
 | **Persoana a 3-a:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ**:br(⟪कृ⟫)
+**kṛ**
+(⟪कृ⟫)
 
 ::: grammar-box
 
@@ -339,7 +340,7 @@ Fig.: ⟪अश्नीयात्⟫
 Fig.: ⟪प्रिया⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3004))
 :::
-⟪चेत्⟫ Conjuncție: dacă; cu condiția ca (nu apare niciodată la începutul unei propoziții)
+⟪चेत्⟫ Conjuncție: dacă; cu condiția ca (nu apare niciodată la începutul unei propoziții) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : dacă nu

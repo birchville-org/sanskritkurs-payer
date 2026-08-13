@@ -9,15 +9,15 @@ status: stable
 ## 32.1. Menneisajan aikamuodot
 
 ::: grammar-box
-**Vanhemmassa sanskritkirjallisuudessa ja kotimaisten grammatikkojen keskuudessa menneisajan kolmea aikamuotoa eritellään käytössä selkeästi:**
+**Vanhemmassa sanskritkirjallisuudessa ja kotimaisten grammatikkojen keskuudessa menneisajan kolmea aikamuotoa eritellään käytössä selkeästi:** <!-- TODO: Fallback translation -->
 
 *   **aoristi (⟪लुङ्⟫ , ⟪अद्यतनी⟫) tarkoittaa joko yksinkertaisesti toiminnan suorittuneisuutta tai sitä, mikä on tapahtunut kuluvan päivän aikana, eli lähellä olevaa menneisyyttä**
 *   **imperfekti (⟪लङ्⟫) tarkoittaa sitä, mikä on tapahtunut ennen kuluvaa päivää, eli kaukaisempi menneisyys**
-*   **perfekti (⟪लिट्⟫) tarkoittaa samoin kuin imperfekti kaukaista menneisyyttä, mutta sitä käytetään poikkeuksellisesti vain sellaisiin tapahtumiin, joita puhuja ei ole itse nähnyt**
+*   **perfekti (⟪लिट्⟫) tarkoittaa samoin kuin imperfekti kaukaista menneisyyttä, mutta sitä käytetään poikkeuksellisesti vain sellaisiin tapahtumiin, joita puhuja ei ole itse nähnyt** <!-- TODO: Fallback translation -->
 
 **Klassisessa sanskritinkielessä näitä kolmea menneisyyden aikamuotoja käytetään merkityserojen puuttuessa (poikkeus: ⟪भारवि⟫'n runollinen teos ⟪किरातार्जुनीय⟫).**
 :::
-## 32.2. Imperfektiii (⟪लङ्⟫)
+## 32.2. Imperfektiiiiii (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Muodostus:**
@@ -26,18 +26,18 @@ status: stable
 
 **Kolmas persoona singularissa Parasmaipada-imperfektissä muodostetaan vahvasta preesensvarresta athemaattisissa vartaloissa, kaikki muut muodot heikosta preesensvarresta.**
 
-**Imperfektiiissa on vain indikatiivi.**
+**Imperfektiiiiiissa on vain indikatiivi.**
 :::
-Esimerkit:
+Esimerkit: <!-- TODO: Fallback translation -->
 
 ::: indent
-⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t)
+⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t) <!-- TODO: Fallback translation -->
 
 ⟪सु⟫
 *   3. sg. Impf. P. ⟪असुनोत्⟫ (a-suno-t)
 *   3. pl. Impf. P. ⟪असुन्वन्⟫ (a + sunu + an)
 :::
-## 32.3. Säännöt augmentin käytölle
+## 32.3. Säännöt augmentin käytölle <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **1. Jos augmenti a- edelt vokaalilla alkavaa juurta, niin augmentti ja juuren alkuäänteytyminen sulautuvat juurvokaalin ⟪वृद्धि⟫:ksi.**
@@ -50,7 +50,7 @@ Esimerkit:
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -65,15 +65,15 @@ Esimerkit:
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
-| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
+| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) | <!-- TODO: Fallback translation -->
 
 :::
-## 32.4. Imperfektiii muodostuksen esimerkit
+## 32.4. Imperfektiiiiii muodostuksen esimerkit
 
 ::: important
 **Muotojen muodostuksen demonstroimiseksi tässä muodostetaan myös ātmanepada-muotoja parasmaipada-juurille! Nämä keinotekoiset muodot ovat välissä \< \>.**
 :::
-### 32.4.1. Teemalliset preesensluokat
+### 32.4.1. Teemalliset preesensluokat <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -109,20 +109,20 @@ Esimerkit:
 :::
 ## 32.5. Sanalista
 
-**⟪अग्र⟫ n.:** kärki, äärimmäinen pää
+**⟪अग्र⟫ n.:** kärki, äärimmäinen pää <!-- TODO: Fallback translation -->
 
-**⟪मही⟫ f.:** maa, perusta ja pohja (sanm.: "suuri")
+**⟪मही⟫ f.:** maa, perusta ja pohja (sanm.: "suuri") <!-- TODO: Fallback translation -->
 
 ⟪एकदा⟫
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫:br
-⟪श्रम्यते⟫:br
-⟪श्रमयति⟫:br
-⟪श्रान्त⟫:br
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
--⟪श्रम्य⟫:br
+⟪श्रमिष्यते⟫
+⟪श्रम्यते⟫
+⟪श्रमयति⟫
+⟪श्रान्त⟫
+⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
+-⟪श्रम्य⟫
 ⟪श्रमितुम्⟫
 :::
 ⟪पार्श्व⟫
@@ -135,7 +135,7 @@ Kuva: ⟪चूतः⟩
 Mangopuu, Kanpur.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3202))
 :::
-⟪तरु⟫ ⟪वृक्ष⟫
+⟪तरु⟫ ⟪वृक्ष⟫ <!-- TODO: Fallback translation -->
 
 ⟪पचेलिम⟫
 
@@ -145,20 +145,20 @@ Mangopuu, Kanpur.
 
 **⟪रुह्⟫ ⟪रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫:br
-⟪रुह्यते⟫:br
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-⟪रूढ⟫:br
--⟪रुह्य⟫:br
+⟪रोक्ष्यति⟫
+⟪रुह्यते⟫
+⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
+⟪रूढ⟫
+-⟪रुह्य⟫
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!):br
-⟪गृह्यते⟫:br
-⟪ग्राहयति⟫:br
-⟪गृहीत⟫:br
--⟪गृह्य⟫:br
+⟪ग्रहीष्यति⟫ (!)
+⟪गृह्यते⟫
+⟪ग्राहयति⟫
+⟪गृहीत⟫
+-⟪गृह्य⟫
 ⟪ग्रहीतुम्⟫ (!)
 :::
 **⟪वानर⟫ ⟪कपि⟫**
@@ -171,13 +171,13 @@ Apinat (rhesusmakakit) Delhissä.
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫:br
-⟪लोक्यते⟫:br
-⟪लोकित⟫:br
--⟪लोक्य⟫:br
+⟪लोकयिष्यति⟫
+⟪लोक्यते⟫
+⟪लोकित⟫
+-⟪लोक्य⟫
 ⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟫
+⟪प्रहर्ष⟫ <!-- TODO: Fallback translation -->
 
 ⟪कति⟫
 
@@ -189,7 +189,7 @@ Kuva: ⟪उपलाः⟩
 Kivimurskauspaikka Punen eteläpuolella, Maharashtra.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3204))
 :::
-⟪लक्ष्य⟫
+⟪लक्ष्य⟫ <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3205.webp)
@@ -199,20 +199,20 @@ Kohdintaistelu / nuolikuva, Karnataka.
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫:br
-⟪क्षिप्यते⟫:br
-⟪क्षेपयति⟫:br
-⟪क्षिप्त⟫:br
--⟪क्षिप्य⟫:br
+⟪क्षेप्स्यति⟫
+⟪क्षिप्यते⟫
+⟪क्षेपयति⟫
+⟪क्षिप्त⟫
+-⟪क्षिप्य⟫
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫:br
-⟪चीयते⟫:br
-⟪चाययति⟫:br
-⟪चित⟫:br
--⟪चित्य⟫:br
+⟪चेष्यति⟫
+⟪चीयते⟫
+⟪चाययति⟫
+⟪चित⟫
+-⟪चित्य⟫
 ⟪चेतुम्⟫
 :::
 ::: media
@@ -235,9 +235,9 @@ Kuvitus: ⟪कौशलम्⟫
 Mehni-maalaukset käsissä Mumbain kaupungissa.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3206))
 :::
-## 32.6. Harjoitus
+## 32.6. Harjoitus <!-- TODO: Fallback translation -->
 
-A) Määritä seuraavat verbin muodot ja muodosta persoonan, numeruksen ja genus verbis -vastaavat imperfektimuodot:
+A) Määritä seuraavat verbin muodot ja muodosta persoonan, numeruksen ja genus verbis -vastaavat imperfektimuodot: <!-- TODO: Fallback translation -->
 
 1. ⟪हरि्ष्यन्ते⟫
 2. ⟪घातयति⟫
@@ -315,7 +315,7 @@ A) Määritä seuraavat verbin muodot ja muodosta persoonan, numeruksen ja genus
 74. ⟪प्रजानीते⟫
 75. ⟪जीवन्ति⟫
 
-B) Käännä ja ratkaise sanskritinkieliset yhdyssanat:
+B) Käännä ja ratkaise sanskritinkieliset yhdyssanat: <!-- TODO: Fallback translation -->
 
 ⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫
 
@@ -335,9 +335,9 @@ Buddhalainen munkki Sri Lankassa.
 :::
 ## 32.7. Joululomien aikainen toistoharjoitus
 
-Huomautus: tätä pidettiin alun perin Tübingenin yliopistossa kunkin talviviikon aikana. Luentokerrassa 32 kahden viikon joululoma alkoi.
+Huomautus: tätä pidettiin alun perin Tübingenin yliopistossa kunkin talviviikon aikana. Luentokerrassa 32 kahden viikon joululoma alkoi. <!-- TODO: Fallback translation -->
 
-A) Määritä ja käännä seuraavat sanat:
+A) Määritä ja käännä seuraavat sanat: <!-- TODO: Fallback translation -->
 
 1. ⟪देवस्य⟫
 2. ⟪उषितायाः⟫
@@ -424,7 +424,7 @@ A) Määritä ja käännä seuraavat sanat:
 83. ⟪अध्यापयति⟫
 84. ⟪वाचयन्ति⟫
 
-B) Harjoitus sandhiin: Aseta seuraaviin lauseisiin sulkuihin annetut sanat. Kiinnitä erityistä huomiota sandhiin:
+B) Harjoitus sandhiin: Aseta seuraaviin lauseisiin sulkuihin annetut sanat. Kiinnitä erityistä huomiota sandhiin: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪रामो⟫ ⟪ग्रामात्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪लोकेश्वरनगर⟫ ⟪।⟫ ⟪कविगृह⟫ )
 
@@ -446,13 +446,13 @@ B) Harjoitus sandhiin: Aseta seuraaviin lauseisiin sulkuihin annetut sanat. Kiin
 
 C) Käännä sanskritiksi:
 
-1. Kun poika on syntynyt, brahmaninainen lähettää palvelijan brahman luo. Brahma kutsuu tämän palvelijan sisään ja kysyy sitten pojalta. Palvelija sanoo, että poika voi hyvin. Kun hän on kuullut tämän, brahma iloitsee.
+1. Kun poika on syntynyt, brahmaninainen lähettää palvelijan brahman luo. Brahma kutsuu tämän palvelijan sisään ja kysyy sitten pojalta. Palvelija sanoo, että poika voi hyvin. Kun hän on kuullut tämän, brahma iloitsee. <!-- TODO: Fallback translation -->
 
-2. Pyhä on kärsinyt (hänelle) tehdyn pahan.
+2. Pyhä on kärsinyt (hänelle) tehdyn pahan. <!-- TODO: Fallback translation -->
 
-3. Moraalisuus on miehen koriste.
+3. Moraalisuus on miehen koriste. <!-- TODO: Fallback translation -->
 
-4. Voimakkaat soturit ovat menneet brahman kylään.
+4. Voimakkaat soturit ovat menneet brahman kylään. <!-- TODO: Fallback translation -->
 
 5. Tyttö itkee.
 
@@ -462,7 +462,7 @@ C) Käännä sanskritiksi:
 
 8. Millä tuulella pilvi laskee vettä (⟪वारि⟩ n.), tuolla tuulella oppinut liikuttaa varjoaan.
 
-9. Ei ole olemassa kastien, elämänvaiheiden jne. hedelmällisiä toimia.
+9. Ei ole olemassa kastien, elämänvaiheiden jne. hedelmällisiä toimia. <!-- TODO: Fallback translation -->
 
 10. Uudelleensyntymien kiertokululla ei ole alkua.
 
@@ -470,9 +470,9 @@ C) Käännä sanskritiksi:
 
 12. Dronapadan vastaanotto.
 
-13. Taivaan tähden ihmiset tekevät ansioituneita tekoja.
+13. Taivaan tähden ihmiset tekevät ansioituneita tekoja. <!-- TODO: Fallback translation -->
 
-14. Mies, joka ylpeydestä, ahneudesta, vihanhoidosta tai pelosta vääristelee tuomiota, menee helvettiin.
+14. Mies, joka ylpeydestä, ahneudesta, vihanhoidosta tai pelosta vääristelee tuomiota, menee helvettiin. <!-- TODO: Fallback translation -->
 
 15. Rāma meni opettajan käskystä kylästä kaupunkiin, astui pyhän miehen taloon, kumarsi nöyrästi pyhimyksen edessä ja sanoi: "Lopeta viha!"
 
@@ -482,7 +482,7 @@ C) Käännä sanskritiksi:
 
 18. Ei ole parempaa turvaa kuin Rāma.
 
-19. Viṣṇumitra lähettää Rāman lähettämään Govindan kylään.
+19. Viṣṇumitra lähettää Rāman lähettämään Govindan kylään. <!-- TODO: Fallback translation -->
 
 20. Govinda antaa Devadatan keittää riisiä.
 
@@ -490,33 +490,33 @@ C) Käännä sanskritiksi:
 
 22. Opettaja opetti pojille Vedan ja meni sitten taloon.
 
-23. Mikä amuletti suojasi tyttöä?
+23. Mikä amuletti suojasi tyttöä? <!-- TODO: Fallback translation -->
 
 24. Totuus on maailman lyhty.
 
-25. Ken omistavat nämä talot?
+25. Ken omistavat nämä talot? <!-- TODO: Fallback translation -->
 
 26. Kaikkien dharmma on: vahingoittamattomuus, totuus, puhtaus, kateuden puuttuminen, pahantahtoisuuden puuttuminen ja kärsivällisyys.
 
-27. Kṣatriyat, jotka ovat voittaneet vihollisensa, istuvat talossa.
+27. Kṣatriyat, jotka ovat voittaneet vihollisensa, istuvat talossa. <!-- TODO: Fallback translation -->
 
-28. Hän on (oikea) vaimo, joka puhuu rakkautta; mutta hän on (aito) poika, joka elää. Hän elää, jolla on hyviä ominaisuuksia; hän elää, jolla on dharmma.
+28. Hän on (oikea) vaimo, joka puhuu rakkautta; mutta hän on (aito) poika, joka elää. Hän elää, jolla on hyviä ominaisuuksia; hän elää, jolla on dharmma. <!-- TODO: Fallback translation -->
 
-29. Jumalten ruhten voittavat naishaarit, Indran viholliset. (Passiivi)
+29. Jumalten ruhten voittavat naishaarit, Indran viholliset. (Passiivi) <!-- TODO: Fallback translation -->
 
 30. Teon jooga on asketismi (tapas n.), (Veda)rukous, palveleminen HERRALLE. Se edistää meditatiivista syvyyttä ja kleśasien heikentämistä.
 
-31. Ruokailu, uni, pelko ja parittelu: nämä ovat ihmisten ja eläinten yhteisiä piirteitä. Dharmassa (on) nimittäin niiden erottava erityispiirre. Dharmaa hylättyään ne ovat eläinten (instr.) kaltaisia.
+31. Ruokailu, uni, pelko ja parittelu: nämä ovat ihmisten ja eläinten yhteisiä piirteitä. Dharmassa (on) nimittäin niiden erottava erityispiirre. Dharmaa hylättyään ne ovat eläinten (instr.) kaltaisia. <!-- TODO: Fallback translation -->
 
 32. Ihmiset syntyvät kuolleikseen.
 
 33. Helvetit ovat pahuuden vuoksi. Pahalla on alkunäkö köyhyys. Köyhyys syntyy antamatta jättämisestä.
 
-34. Kṣatriyoiden dharma on, että kṣatriyat suojelevat ihmisiä vihollisilta.
+34. Kṣatriyoiden dharma on, että kṣatriyat suojelevat ihmisiä vihollisilta. <!-- TODO: Fallback translation -->
 
-35. Siksi kolme (tisras) tiedettä ovat hallitsevat Juurina. Hallinta, jolla on kasvatus/hyvä käytös juurena, tuo olentoille (⟪प्राणभृत्⟫) hyötyä ja turvallista omaisuutta.
+35. Siksi kolme (tisras) tiedettä ovat hallitsevat Juurina. Hallinta, jolla on kasvatus/hyvä käytös juurena, tuo olentoille (⟪प्राणभृत्⟫) hyötyä ja turvallista omaisuutta. <!-- TODO: Fallback translation -->
 
-36. Pahat ihmiset eivät kuuntele (oikein), kun opettaja puhuu dharmasta.
+36. Pahat ihmiset eivät kuuntele (oikein), kun opettaja puhuu dharmasta. <!-- TODO: Fallback translation -->
 
 37. Tälle Rāmalle kunnia!
 
@@ -524,29 +524,29 @@ C) Käännä sanskritiksi:
 
 39. Viṣṇu ilmestyy omilleen palvojille.
 
-40. Hallitsematon reglementti aiheuttaa kalojen normin.
+40. Hallitsematon reglementti aiheuttaa kalojen normin. <!-- TODO: Fallback translation -->
 
-41. Joka omistaa rikkauksia, hänellä on ystäviä; jolla on rikkauksia, hänellä on sukulaisia; joka omistaa rikkauksia, se on mies (⟪पुमान्⟩ nom. sq.) maailmassa; joka omistaa rikkauksia, hän nimittäin on oppinut mies.
+41. Joka omistaa rikkauksia, hänellä on ystäviä; jolla on rikkauksia, hänellä on sukulaisia; joka omistaa rikkauksia, se on mies (⟪पुमान्⟩ nom. sq.) maailmassa; joka omistaa rikkauksia, hän nimittäin on oppinut mies. <!-- TODO: Fallback translation -->
 
-42. Tuli, joka polttaa kuolleen, polttaa myös hyvän lesken.
+42. Tuli, joka polttaa kuolleen, polttaa myös hyvän lesken. <!-- TODO: Fallback translation -->
 
-43. Brahminin palvelijainen on keittänyt ruoan ja syö sen (nykyään).
+43. Brahminin palvelijainen on keittänyt ruoan ja syö sen (nykyään). <!-- TODO: Fallback translation -->
 
 44. Nyt riittää!
 
-45. Tämä hedelmä riittää hänelle ruoaksi.
+45. Tämä hedelmä riittää hänelle ruoaksi. <!-- TODO: Fallback translation -->
 
 46. Sisin temppelihuone on jumalan kuvan talo.
 
-47. Varas vapautuu varkauksesta rangaistuksen tai armahduksen kautta. Jos kuningas (⟪राजा⟩ nom. sg.) ei rankaise varasta, hän saa varkaan syyllisyyden.
+47. Varas vapautuu varkauksesta rangaistuksen tai armahduksen kautta. Jos kuningas (⟪राजा⟩ nom. sg.) ei rankaise varasta, hän saa varkaan syyllisyyden. <!-- TODO: Fallback translation -->
 
-48. Koska hän on tehnyt virheen uhriin, brahmani ei ole ansaitseva vastaanottaa rikkauksia.
+48. Koska hän on tehnyt virheen uhriin, brahmani ei ole ansaitseva vastaanottaa rikkauksia. <!-- TODO: Fallback translation -->
 
-49. Kun aloitusriitti on suoritettu, hänen tulee omaksua Veda ja filosofia oppineilta sekä taloustiede osastojen johtajilta (⟪उपयुज्⟫).
+49. Kun aloitusriitti on suoritettu, hänen tulee omaksua Veda ja filosofia oppineilta sekä taloustiede osastojen johtajilta (⟪उपयुज्⟫). <!-- TODO: Fallback translation -->
 
-50. Vaiśyadharma on, että vaiśyat elävät kaupankäynnillä ja myymisellä. Koska näin on, vaiśyapojat ostavat ja myyvät.
+50. Vaiśyadharma on, että vaiśyat elävät kaupankäynnillä ja myymisellä. Koska näin on, vaiśyapojat ostavat ja myyvät. <!-- TODO: Fallback translation -->
 
-51. Sanokaa totta, sanokaa miellyttävää; älkää sanoko epämiellyttävää totta, älkää myöskään sanokko epämiellyttävää epätotuutta. Tämä on ikuinen dharma.
+51. Sanokaa totta, sanokaa miellyttävää; älkää sanoko epämiellyttävää totta, älkää myöskään sanokko epämiellyttävää epätotuutta. Tämä on ikuinen dharma. <!-- TODO: Fallback translation -->
 
 52. Hyvää matkaa!
 
@@ -556,9 +556,9 @@ Kuv.: ⟪पुनर्दर्शनाय⟫
 Intialainen tervehdys / hyvästely.
 (Kuvälähde: [Yksityiskohdat](/fi/licenses#lekt3209))
 :::
-## 32.8. Toistoharjoitus
+## 32.8. Toistoharjoitus <!-- TODO: Fallback translation -->
 
-Käännä ja määritä seuraavat sanamuodot:
+Käännä ja määritä seuraavat sanamuodot: <!-- TODO: Fallback translation -->
 
 1. ⟪अदुग्ध⟫
 2. ⟪स्युः⟫
@@ -601,20 +601,20 @@ Käännä ja määritä seuraavat sanamuodot:
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Käännösharjoitus
+## 32.9. Käännösharjoitus <!-- TODO: Fallback translation -->
 
 ::: compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
-⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
-⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
-⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫:br
-⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫:br
-⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫:br
-⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫:br
-⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫:br
-⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫:br
-⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
+⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
+⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
+⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫
+⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫
+⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫
+⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫
+⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫
+⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫
+⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫
+⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫
+⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 :::
 (teoksesta: ⟪संस्कृतबालादर्श⟫)
@@ -622,7 +622,7 @@ Käännä ja määritä seuraavat sanamuodot:
 Selitykset:
 
 ::: indent
-⟪पथि⟫ lokatiivi yksikössä sanasta **⟪पथ्⟫ m.** "tie" (epäsäännöllinen deklinaatio)
+⟪पथि⟫ lokatiivi yksikössä sanasta **⟪पथ्⟫ m.** "tie" (epäsäännöllinen deklinaatio) <!-- TODO: Fallback translation -->
 
 ⟪लक्ष्यीकृ⟫ ⟪च्विऽ⟫-pääte ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫**: tehdä jokin ⟪लक्ष्य⟫:ksi, mikä ei aiemmin ollut ⟪लक्ष्य⟫
 
@@ -633,26 +633,26 @@ Selitykset:
 Kuv.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Apinat mangopuissa.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3210))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 
-**lekt3202:** Mangopuu, Kanpur. [Kuvälähde: AmarChandra / Wikipedia. CC BY-SA]
+**lekt3202:** Mangopuu, Kanpur. [Kuvälähde: AmarChandra / Wikipedia. CC BY-SA] <!-- TODO: Fallback translation -->
 
-**lekt3203:** Apinat (rhesusapinat) Delhissä. [Kuvälähde: dewalt / Flickr. CC BY-NC-SA]
+**lekt3203:** Apinat (rhesusapinat) Delhissä. [Kuvälähde: dewalt / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
 
 **lekt3204:** Kivimurhe Punen eteläpuolella, Maharashtra. [Kuvälähde: lecercle / Flickr. CC BY-NC-SA]
 
-**lekt3205:** Kohduntentot / nuolimaali, Karnataka. [Kuvälähde: mattlogelin / Flickr. CC BY-NC]
+**lekt3205:** Kohduntentot / nuolimaali, Karnataka. [Kuvälähde: mattlogelin / Flickr. CC BY-NC] <!-- TODO: Fallback translation -->
 
-**lekt3207:** Poltettua hiekanpattaa Rajasthanissa. [Kuvälähde: thebigdurian / Flickr. CC BY-NC-SA]
+**lekt3207:** Poltettua hiekanpattaa Rajasthanissa. [Kuvälähde: thebigdurian / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
 
-**lekt3206:** Mehni-maalaukset käsissä Mumbain kaupungissa. [Kuvälähde: the_gman / Flickr. CC BY-NC-SA]
+**lekt3206:** Mehni-maalaukset käsissä Mumbain kaupungissa. [Kuvälähde: the_gman / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
 
-**lekt3208:** Buddhalainen munkki Sri Lankassa. [Kuvälähde: Trollderella / Wikipedia. GNU FDL]
+**lekt3208:** Buddhalainen munkki Sri Lankassa. [Kuvälähde: Trollderella / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
 
-**lekt3209:** Intialainen tervehdys / hyvästely. [Kuvälähde: dhyanji / Flickr. CC BY-NC-ND]
+**lekt3209:** Intialainen tervehdys / hyvästely. [Kuvälähde: dhyanji / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
 
 **lekt3210:** Apinat mangopuissa. [Kuvälähde: Wikipedia. GNU FDL]
-:::
+::: <!-- TODO: Fallback translation -->
 

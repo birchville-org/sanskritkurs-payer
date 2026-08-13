@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Explicați următoarele substantive indicând rădăcina de care au fost derivate și sufixul nominal. Indicați genul și semnificația:
 
-1\. lobha: lubh 4 P "dorii" + -a m.: "poftă"
+1\. lobha: lubh 4 P "dorii" + -a m.: "poftă" <!-- TODO: Fallback translation -->
 
 2\. rakṣa: rakṣ 1 P "păzi" + -a 3: "păzind, protectiv" ; m.: "păzitor"
 
@@ -24,7 +24,7 @@ A) Explicați următoarele substantive indicând rădăcina de care au fost deri
 
 7\. lābha: labh 1 Ā "obține" + -a m.: "obținere, câștig"
 
-8\. kāraṇa: kṛ 8 U "face, a face" + -ana n.: "cauză, motiv"
+8\. kāraṇa: kṛ 8 U "face, a face" + -ana n.: "cauză, motiv" <!-- TODO: Fallback translation -->
 
 9\. gati: gam 1 P "merge" + -ti f.: "mers, 'carieră', scop"
 
@@ -32,9 +32,9 @@ A) Explicați următoarele substantive indicând rădăcina de care au fost deri
 
 11\. smara: smṛ 1 P "reprezenta" + -a m.: "amintire, memorie, dorință, iubire"
 
-12\. sṛṣṭi: sṛj 6 P / 4 A "a emana, a crea" + -ti: "emanare, creație"
+12\. sṛṣṭi: sṛj 6 P / 4 A "a emana, a crea" + -ti: "emanare, creație" <!-- TODO: Fallback translation -->
 
-13\. tantra: tan 8 U "întinde" + -tra n.: "urzeală, țesătură"
+13\. tantra: tan 8 U "întinde" + -tra n.: "urzeală, țesătură" <!-- TODO: Fallback translation -->
 
 14\. bhāva: bhū 1 P "devine, fi" + -a m.: "devinere, natură, caracter"
 
@@ -58,7 +58,7 @@ A) Explicați următoarele substantive indicând rădăcina de care au fost deri
 
 24\. nīti: nī 1 U "ghida" + -ti f.: "ghidare"
 
-25\. nartana: nṛt 4 P "a dansa" + -ana 3: "dansând, dansator" ; n.: "dans"
+25\. nartana: nṛt 4 P "a dansa" + -ana 3: "dansând, dansator" ; n.: "dans" <!-- TODO: Fallback translation -->
 
 26\. jaya: ji 1 P "a câștiga" + -a m.: "a câștiga, victorie"
 
@@ -135,7 +135,7 @@ devāḥ kiṃ lubhyanti?
 ⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
 
 11\. Care este motivul?
-kiṃ kāraṇam?
+kiṃ kāraṇam? <!-- TODO: Fallback translation -->
 
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
@@ -144,7 +144,7 @@ kiṃ kāraṇam?
 Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung007))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Exercițiu de citire
 
@@ -188,13 +188,13 @@ Fata scrie sau desenează.
 Fecioara intră în casă.
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Copilul conduce elefantul.
 
 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Nume propriu Vimalā)
-Vimalā ist traurig.
+Vimalā ist traurig. <!-- TODO: Fallback translation -->
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
 Papagalul zboară.
@@ -206,4 +206,4 @@ Copilul scrie o scrisoare.
 ![](/images/uebung008.webp)
 Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung008))
-:::
+::: <!-- TODO: Fallback translation -->

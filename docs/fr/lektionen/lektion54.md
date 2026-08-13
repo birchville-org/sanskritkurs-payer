@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 54
+# Leçon 54
 
-## 54.1. Vorbemerkung
+## 54.1. Vorbemerkung <!-- TODO: Fallback translation -->
 
 Avec la leçon 54 commence, dans l'enseignement universitaire, le 2e semestre. À partir de maintenant, le cours se déroule uniquement en parallèle du thème principal de ce semestre : la lecture intégrale de la Bhagavadgītā. L'objectif pédagogique est d'atteindre une telle aisance dans la lecture d'un texte de difficulté moyenne, qu'il soit possible de traduire de grandes parties de la Bhagavadgītā de manière improvisée lors du dernier tiers du semestre. Au début, des listes de mots étaient distribuées dans le cadre de l'enseignement universitaire ; par la suite, les étudiants devaient utiliser eux-mêmes des dictionnaires appropriés (Monier-Williams, Apte, PW).
 
@@ -17,7 +17,7 @@ Le cours sur la Bhagavadgītā ne sera pour l'instant pas mis à disposition en 
 
 Les leçons du cours de sanskrit traitent de sujets de grammaire sanskrite qui n'ont pas encore été abordés.
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
+## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Aux racines desideratives (⟪इच्छाप्रकृति⟫) (« vouloir faire quelque chose » ; « être sur le point de faire quelque chose ») s’ajoute le suffixe -u pour former des noms d’agent.**

@@ -5,11 +5,11 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 41
+# Lectio 41
 
-## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
+## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter) <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
@@ -33,7 +33,7 @@ Fig.: ⟪पुस्तकस्था⟩ ⟪च⟩ ⟪या⟩ ⟪विद�
 :::
 Explicatio: ⟪पयस्⟩ n. = ⟪दुग्धम्⟩
 
-## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
+## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a <!-- TODO: Fallback translation -->
 
 ### 41.2.1. Participium Praesens (⟪लडादेशः⟫) Ā, Participium Praesens (⟪लडादेशः⟫) Passivumum, Participium Futuri (⟪ऌडादेशः⟫) Ā
 
@@ -106,7 +106,7 @@ Exempla:
 | :--- | :--- | :--- |
 | ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | "jemand, der besiegt werden muss; ein zu besiegender" |
 | ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "das, wo man sich befinden soll" |
-| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" |
+| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" | <!-- TODO: Fallback translation -->
 
 :::
 #### 41.2.2.2. Suffixum -⟪अनीय⟫ / -⟪⟪अनीया⟫
@@ -131,7 +131,7 @@ Exempla:
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "zu tuendes" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "was man sehen muss; sehenswertes" |
 | ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "ein zu weckender" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
+| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" | <!-- TODO: Fallback translation -->
 
 :::
 #### 41.2.2.3. Suffixum -⟪य⟫ / -⟪या⟫
@@ -155,7 +155,7 @@ Exempla:
 | | | |
 | :--- | :--- | :--- |
 | ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "zu wissendes; was erkannt werden muss" |
-| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" |
+| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -167,7 +167,7 @@ Exemplum:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" |
+| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -180,7 +180,7 @@ Exempla:
 | | | |
 | :--- | :--- | :--- |
 | ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "zu verkaufen; verkäuflich" |
-| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" |
+| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" | <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -199,7 +199,7 @@ Exemplum:
 | | | |
 | :--- | :--- | :--- |
 | ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "was gepriesen werden soll" |
-|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" |
+|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" | <!-- TODO: Fallback translation -->
 
 :::
 Exempla radicum consonanti desinentium (vide regulas apud Kielhorn, Grammatica § 533 seq.):
@@ -213,7 +213,7 @@ Exempla:
 | | | |
 | :--- | :--- | :--- |
 | ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "sehenswert" |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" |
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" | <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -230,7 +230,7 @@ Exempla:
 | | | |
 | :--- | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "zu hassender = Feind" |
-| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" |
+| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -246,7 +246,7 @@ Exemplum:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" |
+| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" | <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
@@ -274,7 +274,7 @@ Exempla:
 | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "zu gehender" |
 | ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "zu hörender" |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" | <!-- TODO: Fallback translation -->
 
 :::
 ### 41.2.3. Syntactica de "participio" necessitatis passivae (Gerundivum) (⟪कृत्य⟫)
@@ -320,7 +320,7 @@ Cum ⟪सु⟫- et ⟪दुस्⟫- in significatione "facilis" vel "diffic
 Fig.: ⟪भुजङ्गः⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: tantum, solum, plane
+⟪केवलम्⟫ Adv.: tantum, solum, plane <!-- TODO: Fallback translation -->
 
 ⟪विष⟫ n.: Venenum
 

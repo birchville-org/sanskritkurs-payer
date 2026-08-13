@@ -4,9 +4,9 @@ lesson_id: 34
 status: stable
 ---
 
-# Lektion 34
+# Leçon 34
 
-## 34.1. Das Perfekt (⟪लिट्⟫)
+## 34.1. Das Perfekt (⟪लिट्⟫) <!-- TODO: Fallback translation -->
 
 En sanskrit classique, il n’existe que l’indicatif et le participe à partir du thème du parfait.
 
@@ -23,7 +23,7 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 :::
 ## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
 
-### 34.2.1. Stammabstufung
+### 34.2.1. Stammabstufung <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Éducation :**
@@ -90,7 +90,7 @@ Exemples :
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
 
 :::
 ### 34.2.5. Redoublement des racines commençant par une voyelle
@@ -104,7 +104,7 @@ Exemples :
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -117,7 +117,7 @@ Exemples :
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
-| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
@@ -159,7 +159,7 @@ Exemples :
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 34.5. Type de parfait : racine forte au degré plein, racine faible au degré réduit

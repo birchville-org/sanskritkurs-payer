@@ -199,7 +199,7 @@ Ver paradigmas en Kielhorn, Gramática § 124:
 ::: media
 ![](/images/lekt6001.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6001))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt6002.webp)
@@ -237,7 +237,7 @@ Ejemplo: ⟪प्रतीची⟫
 ::: media
 ![](/images/lekt6003.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6003))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt6004.webp)
@@ -359,16 +359,20 @@ Véanse las reglas para el uso de la vocal de unión -i- en Kielhorn, Gramática
 **Sobre la reduplicación:**
 
 1.  Raíces que empiezan por consonante: La reduplicación se aplica a las raíces modificadas según las reglas anteriores, siguiendo las reglas habituales. En lugar de a como vocal de reduplicación aparece i:  
-    ⟪पा⟫ » ⟪पिपास⟫-  
-    ⟪त्यज्⟫ » ⟪तित्यज⟫-  
-    ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
-    No se produce la cerebralización de i/u tras la -s final de la raíz, si se cerebraliza la -s del sufijo desiderativo:  
-    ⟪स्मि⟫ » ⟪सिस्मयिष⟫-  
+::: indent
+⟪पा⟫ » ⟪पिपास⟫-
+⟪त्यज्⟫ » ⟪तित्यज⟫-
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-
+No se produce la cerebralización de i/u tras la -s final de la raíz, si se cerebraliza la -s del sufijo desiderativo:
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+:::
 
 2.  Las raíces que empiezan por vocal se reduplican según las reglas correspondientes para el aoristo reduplicado ([Lección 56](lektion56.md)):  
-    ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
-    ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-    ⟪ऋ⟫ » ⟪अरिरिष⟫-  
+::: indent
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
+⟪ऋ⟫ » ⟪अरिरिष⟫-
+:::
 
 3.  Véase en Kielhorn, Gramática § 451 la formación especial del desiderativo de ciertas raíces.
 :::
@@ -401,12 +405,12 @@ Pasivo: ⟪यियक्ष्यते⟫ "se desea sacrificar"
 ::: indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "él deseó obtener"
 :::
-**Aorist: iṣ-Aorist:**
+**Aorist: iṣ-Aorist:** &lt;!-- TODO: Fallback translation --&gt;
 
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Futurooo: ⟪सेट्⟫**
+**Futuroooooo: ⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
@@ -420,12 +424,12 @@ A) Estudie en Kielhorn, Gramática § 451 las formaciones irregulares del deside
 ::: media
 ![](/images/lekt6007.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6007))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt6008.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6008))
-:::
+::: &lt;!-- TODO: Fallback translation --&gt;
 
 ::: media
 ![](/images/lekt6009.webp)

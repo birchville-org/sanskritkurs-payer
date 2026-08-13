@@ -93,7 +93,7 @@ Exemple:
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -141,10 +141,14 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (în P, ⟪गम्⟫ are aoristul tematic)**
 
 2.  ⟪पद्⟫ 4Ā este regulat (de ex. ⟪अपत्सि⟫), dar la 3.sg.Ā are forma aoristului de rădăcină pasiv:
-    ⟪अपादि⟫ „a mers“
+::: indent
+⟪अपादि⟫ „a mers“
+:::
 
 3.  ⟪बुध्⟫ Ā poate lua opțional la 3.sg.Ā forma aoristului de rădăcină pasiv:
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ „a recunoscut“
+::: indent
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ „a recunoscut“
+:::
 :::
 ## 57.2. Exercițiu
 
@@ -237,6 +241,6 @@ B) Traduceți și determinați următoarele forme:
 
 ::: deleteme-box
 
-**lekt5701:** [Sursă imagine: Wikipedia. Domeniu public]
+**lekt5701:** [Sursă imagine: Wikipedia. Domeniu public] <!-- TODO: Fallback translation -->
 
 :::

@@ -5,7 +5,7 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
+--- &lt;!-- TODO: Fallback translation --&gt;
 
 # Lección 7
 
@@ -151,9 +151,9 @@ Otros usos del acusativo se tratarán más adelante.
 ### 7.4.1. Neutro de las raíces en -a
 
 ::: grammar-box
-- **Terminación Nominativooo / Acusativo Singular: -m**
+- **Terminación Nominativoooooo / Acusativo Singular: -m**
   p. ej. **phala** n. = ⟪फल⟫ = "fruto": Nom. / Ac. sg. **phalam** = ⟪फलम्⟫
-- **Terminación Nominativooo / Acusativo Plural: -āni**
+- **Terminación Nominativoooooo / Acusativo Plural: -āni**
   p. ej. **phala** n. = ⟪फल⟫: Nom. / Ac. pl. **phalāni** = ⟪फलानि⟫
 :::
 

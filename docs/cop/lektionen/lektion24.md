@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 24
+# ⲙⲁⲑⲏⲙⲁ 24
 
 ## 24.1. ⲡⲓⲇⲁⲧⲓⲃ (⟪चतुर्थी⟫ = "ⲧⲉⲫⲧⲟⲩ ⲛⲕⲁⲥⲩⲥⲉⲛⲇⲩⲛⲅ")
 

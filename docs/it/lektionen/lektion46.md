@@ -11,7 +11,7 @@ status: stable
 
 ## 46.1. Formazione delle forme verbali della seconda persona (⟪मध्यमः⟫) del Perfetto (⟪लिट्⟫)
 
-### 46.1.1. Desinenze
+### 46.1.1. Desinenze &lt;!-- TODO: Fallback translation --&gt;
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -55,7 +55,7 @@ Verbi che seguono questo tipo:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \&lt;⟪जिजीविषे⟫\&gt; | \&lt;⟪जिजीविध्वे⟫\&gt;:br\&lt;⟪जिजीविढ्वे⟫\&gt; |
 :::
 ⟪अस्⟫ 2P, 4P
 
@@ -63,7 +63,7 @@ Verbi che seguono questo tipo:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
 :::
 ### 46.1.4. Tipo di Perfetto II: radice forte in grado alto, radice debole in grado basso
 
@@ -351,7 +351,7 @@ Derivati:
 
 ::: indent
 Perfetto Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Futurooo ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
+Futuroooooo ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
 Passivo ⟪गृह्यते⟫  
 Causativo ⟪ग्राहयति⟫  
 PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
@@ -373,7 +373,7 @@ Derivati:
 :::
 Per ⟪राहु⟫ e ⟪केतु⟫ vedere:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Introduzione e panoramica. -- 10. Sacramenti e riti di passaggio (samskara). -- Appendice C: Rahu e Ketu, i pianeti erranti invisibili. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Introduzione e panoramica. -- 10. Sacramenti e riti di passaggio (samskara). -- Appendice C: Rahu e Ketu, i pianeti erranti invisibili. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/it/licenses#lekt4602)
@@ -401,7 +401,7 @@ Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/it/licenses#lekt4605)
 
 ::: indent
 Perfetto II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
-Futurooo ⟪तोक्ष्यति⟫  
+Futuroooooo ⟪तोक्ष्यति⟫  
 Passivo ⟪तुष्यते⟫  
 Causativo ⟪तोषयति⟫  
 PPP ⟪तुष्ट⟫  
@@ -412,7 +412,7 @@ Infinito ⟪तोष्टुम्⟫
 
 ::: indent
 Perfetto Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
-Futurooo ⟪नंस्यति⟫  
+Futuroooooo ⟪नंस्यति⟫  
 Passivo ⟪नम्यते⟫  
 Causativo ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
 PPP ⟪नत⟫  
@@ -428,7 +428,7 @@ Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 
 ::: indent
 Perfetto II ⟪रुरोह⟫, ⟪रुरुहे⟫  
-Futurooo ⟪रोक्ष्यति⟫  
+Futuroooooo ⟪रोक्ष्यति⟫  
 Passivo ⟪रुह्यते⟫  
 Causativo ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫  
 PPP. **:sig[⟪रूढ⟫]**  
@@ -444,7 +444,7 @@ Fig.: [⟪अश्वरोहकः⟫](/it/licenses#lekt4606)
 
 ::: indent
 Perfetto IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
-Futurooo ⟪ह्वास्यति⟫  
+Futuroooooo ⟪ह्वास्यति⟫  
 Passivo ⟪हूयते⟫  
 Causativo ⟪ह्वाययति⟫  
 PPP ⟪हूत⟫  
@@ -470,7 +470,7 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ::: indent
 Perfetto Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
-Futurooo ⟪श्रमिष्यति⟫  
+Futuroooooo ⟪श्रमिष्यति⟫  
 Passivo ⟪श्रम्यते⟫  
 Causativo ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
 PPP **:sig[⟪श्रान्⟫]**⟪त⟫  

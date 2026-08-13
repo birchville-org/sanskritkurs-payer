@@ -9,7 +9,7 @@ status: stable
 
 # Luento 51
 
-## 51.1. ⟪उपपद⟫-yhdyssanat
+## 51.1. ⟪उपपद⟫-yhdyssanat <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪उपपद⟫-yhdyssanat (⟪उपपद⟫ n. "seurassana") ovat ⟪तत्पुरुष⟫, joissa on verbinominen jälkiosana, joka esiintyy vain yhdyssanojen jälkiosana eikä itsenäisenä yksittäisenä sanana. ⟪उपपद⟫ muodostetaan käyttämällä ⟪कृत्⟫-päätteita**
@@ -19,7 +19,7 @@ status: stable
 
 **koulutettu. Ne ovat agentinominia, ts. ne merkitsevät toimijaa (⟪कर्तृ⟫), joka suorittaa sen tekemisen, jota perusjuuri kuvaa.**
 
-**Tällaiset yhdyssanat eivät ole kotimaisten kommentaattorien ratkaisemia nominikombinaatioilla, vaan verbimuodoilla:**
+**Tällaiset yhdyssanat eivät ole kotimaisten kommentaattorien ratkaisemia nominikombinaatioilla, vaan verbimuodoilla:** <!-- TODO: Fallback translation -->
 
 Esimerkkejä:
 
@@ -71,7 +71,7 @@ Kuv.: ⟪पापकृत्⟫
 ⟪भरतपुर⟫, ⟪राजस्थान⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5103))
 :::
-c) ⟪कृत्⟫-liite -a
+c) ⟪कृत्⟫-liite -a <!-- TODO: Fallback translation -->
 
 ::: indent
 \-⟪ग⟫ 3 "menevä (johonkin, kohti)" (luultavasti juuresta gā, syvintaso g + a) esim. ⟪खग⟫ 3 "lentävä" m. "lintu, vaeltava tähti" (⟪ख⟫ n. "reikä, 'ilma'varus")
@@ -88,7 +88,7 @@ c) ⟪कृत्⟫-liite -a
 
 \-⟪प⟫ 3 "suojaten" (p-a) esim. ⟪भूप⟫ "maata suojaten = kuningas"
 
-\-⟪स्थ⟫ 3 "seisovana, sijaitsevassa" (sth-a) esim. ⟪गृहस्थ⟫ m. "taloudenhoitaja, talon isäntä"
+\-⟪स्थ⟫ 3 "seisovana, sijaitsevassa" (sth-a) esim. ⟪गृहस्थ⟫ m. "taloudenhoitaja, talon isäntä" <!-- TODO: Fallback translation -->
 
 \-⟪कर⟫ 3 "vaikuttava, tekevä" esim. ⟪सुखकर⟫ 3 "onnea tuottava"
 
@@ -103,11 +103,11 @@ Kuv.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪ह�
 ## 51.2. Konsonantinvartalojen taivutus (paitsi nasali, puolivokaali tai -s)
 
 ::: grammar-box
-**Neuvartaiset vartalot, jotka päättyvät yksinkertaiseen konsonanttiin (paitsi nasali, puolivokaali tai -s), eivät kärsi vartalon asteituksesta. Taivutus tapahtuu täysin säännöllisesti liittämällä vakiintuneet sijapäätteet.**
+**Neuvartaiset vartalot, jotka päättyvät yksinkertaiseen konsonanttiin (paitsi nasali, puolivokaali tai -s), eivät kärsi vartalon asteituksesta. Taivutus tapahtuu täysin säännöllisesti liittämällä vakiintuneet sijapäätteet.** <!-- TODO: Fallback translation -->
 
 **Ainoa poikkeus: nominatiivissa, akkusatiivissa ja vokatiivissa monikon neutrumissa vartalon loppuun lisätään nasali.**
 :::
-### 51.2.1. Vartalot, jotka päättyvät ei-palataaleihin klusiileihin
+### 51.2.1. Vartalot, jotka päättyvät ei-palataaleihin klusiileihin <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Voimassa ovat yleiset äänteenmuutoslait, eli:**
@@ -132,38 +132,38 @@ Yksikkö:
 Nominatiivi/Vokatiivi ⟪शत्रुजित्⟫ (śatrujit + s)
 Akkusatiivi ⟪शत्रुजितम्⟫
 :::
-Monikko:
+Monikko: <!-- TODO: Fallback translation -->
 
 ::: indent
 Nominatiivi/Akkusatiivi/Vokatiivi ⟪शत्रुजितस्⟫
 Instrumentaali ⟪शत्रुजिद्भिस्⟫
 Lokatiivi ⟪शत्रुजित्सु⟫
 :::
-Neutri
+Neutri <!-- TODO: Fallback translation -->
 
 ::: indent
 Yksikkö Nominatiivi.Akkusatiivi.vokatiivii. ⟪शत्रुजित्⟫
 Monikko Nominatiivi.Akkusatiivi.vokatiivii. :sig[⟪शत्रुजिन्ति⟫]
 :::
-⟪सुयुध्⟫ 3 "hyvä taisteleva"
+⟪सुयुध्⟫ 3 "hyvä taisteleva" <!-- TODO: Fallback translation -->
 
 ::: indent
 Yksikkö.Nominatiivi.vokatiivii.m.f.n. ⟪सुयुत्⟫
 jne.
 :::
-Täydelliset paradigmat Kielhorn, Grammatik s. 16ff.
+Täydelliset paradigmat Kielhorn, Grammatik s. 16ff. <!-- TODO: Fallback translation -->
 
 ### 51.2.2. Vartalon palataalinen klusiivi (c, ch, j), ś, ṣ päättävät vartalon
 
 ::: grammar-box
-**Vokaalialkuinen pääte säilyttää vartalon loppuun asti muuttumattomana.**
+**Vokaalialkuinen pääte säilyttää vartalon loppuun asti muuttumattomana.** <!-- TODO: Fallback translation -->
 
 **Muiden loppupäätteiden edellä:**
 
 * **loppuun tulevat -c ja -j korvataan k:lla, ja vartaloa käsitellään siten kuin se loppuisi -k:hin**
 * **joissakin sanoissa (luettelo Kielhornin, Grammatik s. 18) loppuun tuleva -j korvataan -ṭ:llä**
 * **loppuun tuleva -ch korvataan -ṭ:llä**
-* **loppuun tulevat -ś ja -ṣ korvataan -ṭ:llä — joitakin poikkeuksia lukuun ottamatta. Poikkeustapauksissa -ś ja -ṣ korvataan -k:lla**
+* **loppuun tulevat -ś ja -ṣ korvataan -ṭ:llä — joitakin poikkeuksia lukuun ottamatta. Poikkeustapauksissa -ś ja -ṣ korvataan -k:lla** <!-- TODO: Fallback translation -->
 
 **ts.**
 
@@ -202,7 +202,7 @@ Neutri
 Yksikkö Nominatiivi/Akkusatiivi/vokatiivii ⟪सत्यवाक्⟫
 Monikko Nominatiivi/Akkusatiivi/vokatiivii ⟪सत्यवाञ्चि⟫
 :::
-⟪शेषभुज्⟫ 3 "Syödessään ruokajätteitä"
+⟪शेषभुज्⟫ 3 "Syödessään ruokajätteitä" <!-- TODO: Fallback translation -->
 
 ::: indent
 Maskuliini, Feminiini:
@@ -216,7 +216,7 @@ Yksikkö:
 Nominatiivi, vokatiivi ⟪शेषभुक्⟫
 Akkusatiivi ⟪शेषभुजम्⟫
 :::
-Pluraali:
+Pluraali: <!-- TODO: Fallback translation -->
 
 ::: indent
 Instrumentaali ⟪शेषभुग्भिस्⟫
@@ -228,7 +228,7 @@ Neutri
 yksikköi nominatiivi, akkusatiivi, vokatiivi ⟪शेषभुक्⟫
 Pluraali nominatiivi, akkusatiivi, vokatiivi ⟪शेषभुञ्जि⟫
 :::
-⟪परिव्राज्⟫ mask. "vaellusmunkki"
+⟪परिव्राज्⟫ mask. "vaellusmunkki" <!-- TODO: Fallback translation -->
 
 ::: indent
 Maskuliini, feminiini:
@@ -254,7 +254,7 @@ Kuv.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5104))
 :::
-### 51.2.3. Vartalon -h päättävät sanatyypit
+### 51.2.3. Vartalon -h päättävät sanatyypit <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Vokaalilla alkavan päättymän edellä -h pysyy muuttumattomana.**
@@ -268,7 +268,7 @@ Kuv.: ⟪परिव्राट्⟫
 
 **Katso Kielhornin, Grammatik, s. 20f., taivutusluettelot.**
 :::
-Esimerkit:
+Esimerkit: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪गुह्⟫ 3 "peittävä"
@@ -350,16 +350,16 @@ esim. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 Kuv.:
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5105))
 :::
-⟪अतिथि⟫ m.: vieras
+⟪अतिथि⟫ m.: vieras <!-- TODO: Fallback translation -->
 
-⟪अभ्यन्तर⟫ 3: sisällä oleva, lähin; m. läheisin jäsen, alkuperäisasukas
+⟪अभ्यन्तर⟫ 3: sisällä oleva, lähin; m. läheisin jäsen, alkuperäisasukas <!-- TODO: Fallback translation -->
 
 ⟪अरण्य⟫ n.: erämaa, metsä
 
 ⟪ऋतु⟫ m.: jaksottainen prosessi, vuodenaika, aikakausi, kuukautiset, aika, jolloin nainen on hedelmällinen ja hänellä on oikeus aviomiehensä kanssakäymiseen.
 
 ::: note-box
-Katso ⟪ऋतु⟫ Manu III, 45–48: sen mukaan ⟪ऋतु⟫ kestää 16 päivää (vaihtoehtoisen käännöksen mukaan: 20 päivää) kuukautisten alusta lukien; ensimmäisinä neljänä päivänä kuukautisten alkamisen jälkeen sukupuolikosketus on kielletty (vaihtoehtoisen käännöksen mukaan: ensimmäisinä kahdeksana (4 + 4) päivänä), samoin kuin 11. (tai 15.) ja 13. (tai 18.) päivänä. Parillisina päivinä nainen raskautuu poikiin, parittomina tyttäriin. Seuraavassa oletetaan ⟪ऋतु⟫ yhteensä 16 päivää (ei vaihtoehtoista käännöstä), kuten useimmat kotimaiset kommentaattorit tekevät, ja mikä oli siis vallitseva näkemys.
+Katso ⟪ऋतु⟫ Manu III, 45–48: sen mukaan ⟪ऋतु⟫ kestää 16 päivää (vaihtoehtoisen käännöksen mukaan: 20 päivää) kuukautisten alusta lukien; ensimmäisinä neljänä päivänä kuukautisten alkamisen jälkeen sukupuolikosketus on kielletty (vaihtoehtoisen käännöksen mukaan: ensimmäisinä kahdeksana (4 + 4) päivänä), samoin kuin 11. (tai 15.) ja 13. (tai 18.) päivänä. Parillisina päivinä nainen raskautuu poikiin, parittomina tyttäriin. Seuraavassa oletetaan ⟪ऋतु⟫ yhteensä 16 päivää (ei vaihtoehtoista käännöstä), kuten useimmat kotimaiset kommentaattorit tekevät, ja mikä oli siis vallitseva näkemys. <!-- TODO: Fallback translation -->
 
 Koska ovulaatio tapahtuu 14 päivää ennen kuukautisten alkua, hedelmällisyys on lähes "taattu" tällä hedelmällisen ajanjakson määritelmällä, jos kuukautiskierron väli on 19–30 päivää. Kielletyt päivät (11. ja 13.) parantavat todennäköisyyttä sukupuolikosketukselle 12. ja 14. päivänä, eli raskauden todennäköisyyttä 28 päivän syklissä (siittiöiden elinikä naisessa on noin 3 päivää). Näitä määräyksiä voidaan pitää niin kutsuttuna positiivisena Knaus–Ogino-menetelmänä.
 :::
@@ -368,7 +368,7 @@ Koska ovulaatio tapahtuu 14 päivää ennen kuukautisten alkua, hedelmällisyys 
 Kuv.: ⟪ऋतुः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5106))
 :::
-⟪एकत्र⟫ Adv.: yhdessä paikassa
+⟪एकत्र⟫ Adv.: yhdessä paikassa <!-- TODO: Fallback translation -->
 
 ⟪जटा⟫ f.: hiustenpina (ascetin hiusasu)
 
@@ -386,7 +386,7 @@ Kuva: ⟪जटा⟫
 
 ⟪बाह्य⟫ 3: ulkona, irrallaan oleva, vieras
 
-⟪भिक्षा⟫ f.: kerjätty almu, kerjäläisruoka
+⟪भिक्षा⟫ f.: kerjätty almu, kerjäläisruoka <!-- TODO: Fallback translation -->
 
 ⟪मार्यादा⟫ f.: raja
 
@@ -405,9 +405,9 @@ Absol. -⟪शिष्य⟫
 ::: indent
 Pass. ⟪विशिष्यते⟫ : erota jostakin (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), olla parempi kuin (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), olla paras joukossa (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
 :::
-⟪समान⟫ 3: samanlainen, sama, samankaltainen; m.: ikätoveri
+⟪समान⟫ 3: samanlainen, sama, samankaltainen; m.: ikätoveri <!-- TODO: Fallback translation -->
 
-⟪स्व⟫ 3: oma, omistaa (minun, sinun jne.) Taivutetaan kuten ⟪सर्व⟫. Abl.sg.m.n ja Nom.pl.m:ssä sitä voidaan taivuttaa myös kuten ⟪देव⟫:
+⟪स्व⟫ 3: oma, omistaa (minun, sinun jne.) Taivutetaan kuten ⟪सर्व⟫. Abl.sg.m.n ja Nom.pl.m:ssä sitä voidaan taivuttaa myös kuten ⟪देव⟫: <!-- TODO: Fallback translation -->
 
 ::: indent
 Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ :sig[⟪स्वात्⟫]
@@ -429,7 +429,7 @@ Kuv.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
 (Kuvälähde: [Yksityiskohdat](/fi/licenses#lekt5108))
 :::
-⟪उपहार⟫ m.: uhraaminen, uhri, lahja
+⟪उपहार⟫ m.: uhraaminen, uhri, lahja <!-- TODO: Fallback translation -->
 
 ⟪मधु⟫ n.: hunaja, makea juoma, mehu (hunajaviini)
 
@@ -439,7 +439,7 @@ Kuv.: ⟪मधु⟫
 City Palace, ⟪उदयपुर⟫
 (Kuvälähde: [Yksityiskohdat](/fi/licenses#lekt5109))
 :::
-⟪मांस⟫ n.: liha
+⟪मांस⟫ n.: liha <!-- TODO: Fallback translation -->
 
 ⟪मृगया⟫ f.: metsästys
 
@@ -467,7 +467,7 @@ Kuva: ⟪कौशिकः⟫
 Braamakauz (_Athene brama_), Mahesana = મહેસાણા
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: lintu
+⟪शकुनि⟫ m.: lintu <!-- TODO: Fallback translation -->
 
 ⟪श्वन्⟫ m.: koira
 
@@ -496,7 +496,7 @@ Kuvaus: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: karkea, julma
+⟪क्रूर⟫ 3: karkea, julma <!-- TODO: Fallback translation -->
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : voidella, voitelevat
 
@@ -515,7 +515,7 @@ Kuv.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5115))
 :::
-⟪भुजंग⟫ m.: käärme
+⟪भुजंग⟫ m.: käärme <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5116.webp)
@@ -523,7 +523,7 @@ Kuv.: ⟪भुजंगः⟫
 Ketomyrkkykäärme (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5116))
 :::
-⟪सायक⟫ m.: nuoli
+⟪सायक⟫ m.: nuoli <!-- TODO: Fallback translation -->
 
 ⟪उत्साद⟫ m.: tuho
 
@@ -551,14 +551,14 @@ Hope Diamond Gunturista = గుంటూరు, nykyään Smithsonian Museum of
 :::
 ⟪वन⟫ n.: metsä
 
-⟪मद⟫ m.: myös "parveiluneste" norsulla (tilassa [Musht](http://en.wikipedia.org/wiki/Musth))
+⟪मद⟫ m.: myös "parveiluneste" norsulla (tilassa [Musht](http://en.wikipedia.org/wiki/Musth)) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt5117.webp)
 Kuva: ⟪मदः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5117))
 :::
-⟪राग⟫ m.: myös: väri, punainen väri
+⟪राग⟫ m.: myös: väri, punainen väri <!-- TODO: Fallback translation -->
 
 ⟪कालन⟫ n.: metsä
 
@@ -573,9 +573,9 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 :::
 ⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : ajatella, miettiä
 
-⟪शबर⟫ .:  ei-arianen heimon nimi
+⟪शबर⟫ .:  ei-arianen heimon nimi <!-- TODO: Fallback translation -->
 
-## 51.7. Käännösharjoitus
+## 51.7. Käännösharjoitus <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
 
@@ -608,35 +608,35 @@ Selitys: -⟪अभिषेकौ⟩ Nom.Akk.Vok.duaali.mask. (duaalidvandva)
 
 ::: deleteme-box
 
-**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [Kuv lähde: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Viitattu 2009-01-13. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimike)]
+**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [Kuv lähde: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Viitattu 2009-01-13. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimike)] <!-- TODO: Fallback translation -->
 
-**lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [Kuv lähde: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- Viitattu 2009-01-13. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimike)]
+**lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [Kuv lähde: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- Viitattu 2009-01-13. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimike)] <!-- TODO: Fallback translation -->
 
-**lekt5102:** ⟪नेपाल⟫ [Kuv lähde: amanderson2. -- [http://www.flickr.com/photos/amanderson/2420198291/](http://www.flickr.com/photos/amanderson/2420198291/). -- Viitattu 2009-01-13. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimike)]
+**lekt5102:** ⟪नेपाल⟫ [Kuv lähde: amanderson2. -- [http://www.flickr.com/photos/amanderson/2420198291/](http://www.flickr.com/photos/amanderson/2420198291/). -- Viitattu 2009-01-13. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimike)] <!-- TODO: Fallback translation -->
 
-**lekt5104:** ⟪पुष्कर⟫ [Kuv lähde: calamur. -- [http://www.flickr.com/photos/gargi/360186369/](http://www.flickr.com/photos/gargi/360186369/). -- Viitattu 2009-01-13. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimike, ei kaupallista käyttöä, ei muokkauksia)]
+**lekt5104:** ⟪पुष्कर⟫ [Kuv lähde: calamur. -- [http://www.flickr.com/photos/gargi/360186369/](http://www.flickr.com/photos/gargi/360186369/). -- Viitattu 2009-01-13. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimike, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
 
-**lekt5105:** [Kuv lähde: Wikipedia, public domain]
+**lekt5105:** [Kuv lähde: Wikipedia, public domain] <!-- TODO: Fallback translation -->
 
-**lekt5107:** ⟪ऋषिकेश⟫ [Kuv lähde: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Haettu 2009-01-13. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, ei kaupallista käyttöä, share alike)]
+**lekt5107:** ⟪ऋषिकेश⟫ [Kuv lähde: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Haettu 2009-01-13. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, ei kaupallista käyttöä, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt5108:** Kolkata = কলকাতা [Kuv lähde: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- Haettu 2009-01-13. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, ei kaupallista käyttöä, share alike)]
+**lekt5108:** Kolkata = কলকাতা [Kuv lähde: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- Haettu 2009-01-13. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, ei kaupallista käyttöä, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt5109:** City Palace, ⟪उदयपुर⟫ [Kuv lähde: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Haettu 2009-01-13. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, ei kaupallista käyttöä, share alike)]
+**lekt5109:** City Palace, ⟪उदयपुर⟫ [Kuv lähde: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Haettu 2009-01-13. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, ei kaupallista käyttöä, share alike)] <!-- TODO: Fallback translation -->
 
-**lekt5110:** Metsästys ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Kuvälähde: Wikipedia. Julkinen omaisuus]
+**lekt5110:** Metsästys ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Kuvälähde: Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
 
 **lekt5111:** _Canis aureus_, Kalatop Khajjiar Sanctuary [Kuvälähde: gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- Haettu 2009-01-13. -- [Creative Commons -lupa](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)]
 
-**lekt5112:** Brahma-pöllö (_Athene brama_), Mahesana = મહેસાણા [Kuvälähde: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Haettu 2009-01-13. -- [Creative Commons -lupa](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)]
+**lekt5112:** Brahma-pöllö (_Athene brama_), Mahesana = મહેસાણા [Kuvälähde: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Haettu 2009-01-13. -- [Creative Commons -lupa](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
 
-**lekt5113:** Karnataka = ಕರ್ನಾಟક [Kuvälähde: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Haettu 2009-01-13. -- [Creative Commons -lupa](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä)]
+**lekt5113:** Karnataka = ಕರ್ನಾಟક [Kuvälähde: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Haettu 2009-01-13. -- [Creative Commons -lupa](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
 
 **lekt5114:** ⟪जोधपुर⟫
 
-**lekt5115:** Bangalore = ಬೆಂಗಳೂರು [Kuv lähde: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/387955362/](http://www.flickr.com/photos/mattlogelin/387955362/). -- Haettu 13.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nimike, ei kaupallista käyttöä)]
+**lekt5115:** Bangalore = ಬೆಂಗಳೂರು [Kuv lähde: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/387955362/](http://www.flickr.com/photos/mattlogelin/387955362/). -- Haettu 13.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nimike, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
 
-**lekt5116:** Ketovipu (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Kuv lähde: teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/). -- Haettu 13.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimike, ei kaupallista käyttöä, sama lisensointi)]
+**lekt5116:** Ketovipu (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Kuv lähde: teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/). -- Haettu 13.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimike, ei kaupallista käyttöä, sama lisensointi)] <!-- TODO: Fallback translation -->
 
 **lekt5118:** Hope Diamond Gunturista = గుంటూరు, nykyisin Smithsonian Museum of Natural History, Washington DC [Kuv lähde: David Bjorgen / Wikipedia. GNU FDLicense]
 

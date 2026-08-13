@@ -353,13 +353,13 @@ Inf. ⟪शंसितुम्⟫
 Abb.: ⟪रावणः⟫
 (Bildquelle: [Details](/he/licenses#lekt4207))
 :::
-⟪अयोध्या⟫ f. Eigenname: Hauptstadt von ⟪कोसल⟫ (siehe Karte oben!)
+⟪अयोध्या⟫ f. Eigenname: Hauptstadt von ⟪कोसल⟫ (siehe Karte oben!) <!-- TODO: Fallback translation -->
 
-⟪दशरथ⟫ m. Eigenname: König von ⟪कोसल⟫
+⟪दशरथ⟫ m. Eigenname: König von ⟪कोसल⟫ <!-- TODO: Fallback translation -->
 
-⟪राम⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
+⟪राम⟫ m. Eigenname: Sohn des ⟪दशरथ⟫ <!-- TODO: Fallback translation -->
 
-⟪लक्ष्मन⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
+⟪लक्ष्मन⟫ m. Eigenname: Sohn des ⟪दशरथ⟫ <!-- TODO: Fallback translation -->
 
 :sig[⟪विश्वामित्र⟫] מ. שם עצמי: ⟪ऋषि⟫, נסוג ושב ל-⟪राम⟫ ול-⟪लक्ष्मन⟫ כדי להרוג את השדים; בגין כך מקבלים השניים ממנו נשקי קסם.
 
@@ -376,3 +376,4 @@ Abb.: ⟪रावणः⟫
 * **Abb. lekt4207**: ⟪रावणः⟫. Yakṣagaṇa-Tanzmaske (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Bildquelle: Manohara Upadhya / Wikipedia. GNU FDLicense)
 * **Abb. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Bild von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Bildquelle: Wikipedia. Gemeinfrei)
 :::
+ <!-- TODO: Fallback translation -->

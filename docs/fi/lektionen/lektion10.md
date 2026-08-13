@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 10
+# Oppitunti 10 <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 **Tässä lektiossa opit:**
@@ -17,7 +17,7 @@ status: stable
 - Passiivin muodostus (yak) indikatiivissa preesensissä
 - Sanasto: uhri, totuus ja yhteiskunnalliset roolit
 :::
-## 10.1. Passiivilause
+## 10.1. Passiivilause <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Kaava:**
@@ -36,7 +36,7 @@ esim. **ijyate** = ⟪इज्यते⟫ "Uhraillaan" (sanastaen: "sitä kunn
 :::
 
 ::: grammar-box
-**Vaikka vastaavassa aktiivilauseessa olisi akkusatiivi (dvitīyä) kohteesta, tämä voidaan passiivilauseessa siirtää nominatiiviin (prathamā):**
+**Vaikka vastaavassa aktiivilauseessa olisi akkusatiivi (dvitīyä) kohteesta, tämä voidaan passiivilauseessa siirtää nominatiiviin (prathamā):** <!-- TODO: Fallback translation -->
 
 Aktiivilausetta **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma menee kylään." vastaavat passiivilauseet:
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
@@ -48,7 +48,7 @@ Aktiivilausetta **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्र�
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Astukoon sisään = Olkaa hyvä ja astukaa sisään = Sisään!"
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = "Istukoon = Olkaa hyvä ja istukaa = Olkaa hyvä ja ottakaa paikka"
 :::
-Sanskritin passiivirakenteet ovat erittäin yleisiä: passiivi on nimittäin myös helpompi muodostaa kuin esimerkiksi lukuisat preesensvartalot.
+Sanskritin passiivirakenteet ovat erittäin yleisiä: passiivi on nimittäin myös helpompi muodostaa kuin esimerkiksi lukuisat preesensvartalot. <!-- TODO: Fallback translation -->
 
 ::: important
 **Sanskritin passiivilauseita ei yleensä saa kääntää saksaksi passiivilauseella, koska saksan passiivilla on aivan erilainen tyylillinen tehtävä.**
@@ -59,7 +59,7 @@ Sanskritin passiivirakenteet ovat erittäin yleisiä: passiivi on nimittäin my�
 ::: grammar-box
 **Instrumentalin (tṛtīyā) säännölliset päät:**
 - **yksikkö: -ā**
-- **monikko: -bhis**
+- **monikko: -bhis** <!-- TODO: Fallback translation -->
 
 **Säännölliset taivutukset:**
 
@@ -77,7 +77,7 @@ Sanskritin passiivirakenteet ovat erittäin yleisiä: passiivi on nimittäin my�
 | **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
 | **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
-**Maskuliinit ja neutrit päätteellä -a (epäsäännöllinen yksikössä ja monikossa):**
+**Maskuliinit ja neutrit päätteellä -a (epäsäännöllinen yksikössä ja monikossa):** <!-- TODO: Fallback translation -->
 
 | | instrumentaali yksikkö | instrumentaali monikko |
 | :--- | :--- | :--- |
@@ -107,7 +107,7 @@ Sanskritin passiivirakenteet ovat erittäin yleisiä: passiivi on nimittäin my�
 Poikkeuksena nominatiivi ja akkusativi neutrien -a-päätteiset muodot, kysymyspronominin ja demonstratiivipronomien muodot ovat vastaavan maskuliinin muotojen kanssa identtiset.
 :::
 
-### 10.2.1. Instrumentaalin (tṛtīyā = ⟪तृतीया⟩) käytöstä
+### 10.2.1. Instrumentaalin (tṛtīyā = ⟪तृतीया⟩) käytöstä <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Instrumentaali (tṛtīyä) vastaa pääasiassa seuraaviin kysymyksiin:**
@@ -120,16 +120,18 @@ Poikkeuksena nominatiivi ja akkusativi neutrien -a-päätteiset muodot, kysymysp
 2. **ilmaiseena välineelle tai työkalulle, jolla jotakin tehdään**
 3. **ilmaiseena reitille, jolla joku saapuu johonkin**
 4. **ilmaiseena yhteyttä, liitosta tai seurustelua jonkun kanssa**
-5. **postpositioiden yhteydessä merkityksessä "yhdessä, kanssa"; esim. saha = ⟪सह⟩ = "kanssa":brz.e.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟩ ⟪सह⟩ = "yhdessä brahmanin kanssa"
+5. **postpositioiden yhteydessä merkityksessä "yhdessä, kanssa"; esim. saha = ⟪सह⟩ = "kanssa"
+z.e.
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟩ ⟪सह⟩ = "yhdessä brahmanin kanssa"
 :::
-Instrumentaalin (tṛtīyän) muita käyttötapoja seuraa myöhemmin.
+Instrumentaalin (tṛtīyän) muita käyttötapoja seuraa myöhemmin. <!-- TODO: Fallback translation -->
 
-## 10.3. Niin kutsuttu cerebralisointisääntö -n:lle (sanayhteys)
+## 10.3. Niin kutsuttu cerebralisointisääntö -n:lle (sanayhteys) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **-n-**, jota seuraa vokaali tai **n, m, y, v**, korvataan **-ṇ-**:lla, jos sanassa **ṛ, ṝ, r, ṣ** edeltää **-n-**:ia tai jos näiden äänteiden ja seuraavan **-n-**:in välissä sanassa ei ole muita äänteitä kuin vokaalit, gutturaalit, labiaalit, **y, v, h** tai anusvāra.
 :::
-**Siksi:**
+**Siksi:** <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | instrumentaali yksikkö |
@@ -140,7 +142,7 @@ Instrumentaalin (tṛtīyän) muita käyttötapoja seuraa myöhemmin.
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
 :::
-**Myös -ṇ- selitetään tässä:**
+**Myös -ṇ- selitetään tässä:** <!-- TODO: Fallback translation -->
 
 ::: indent
 **śravaṇa** ⟪श्रवण⟫
@@ -168,20 +170,27 @@ esim.
 
 **Huomaa, että 4. preesensluokan verbien kohdalla Ātmanepada ja passiivi ovat identtisiä muotoja! Onko kyseessä Ātmanepada vai passiivi, voidaan tässä tapauksessa päätellä vain lauserakenteesta.**
 
-### 10.4.1. Passivin muodostuksen erityissäännöt
+### 10.4.1. Passivin muodostuksen erityissäännöt <!-- TODO: Fallback translation -->
 
 1. **-i** tai **-u** päättävät juuret pitkittävät vokaalinsa ennen passiivijänettä **-ya-**:
-   * **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 1 P: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Juuret -a-välillä konsonanttien** (paitsi nasaalit, y, r, v) säilyttävät korkean aksentin:
-   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Jotkut juuret muodostavat passiivin korkealla aksentilla** (tai preesensvartalon ablauttasolla):
-   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **Matala aste verbeissä, jotka alkavat yllä, v tai r, tai joissa nämä äänteet sijaitsevat minkä tahansa muun konsonantin jälkeen (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -191,19 +200,23 @@ esim.
    | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
    | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-Perinteinen kotimainen nimitys tälle syvän vaiheen muodostukselle verbien **ya** tai **va** kanssa on **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
+Perinteinen kotimainen nimitys tälle syvän vaiheen muodostukselle verbien **ya** tai **va** kanssa on **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫). <!-- TODO: Fallback translation -->
 
 5. **Lopussa oleva -ṛ** yksittäisen konsonantin jälkeen korvautuu passiivijänteen **-ya-** edellä muodolla **-ri-**:
-   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Mutta: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+* **kṛ** 8 U: **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Mutta: **smṛ** 1 P: **smaryate**
+⟪स्मर्यते⟫
 
 6. **Jotkin juuret päättyen -an** voivat vaihtoehtoisesti muodostaa kaksi passiivijänteen muotoa:
    * **-an-ya**
    * **-ā-ya-** (pitkä **ā** on edustaja hypoteettiselle pitkälle nasaalille)
 
 esim. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (muodosta \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (muodosta \*tn-ya-nte)
 
 ## 10.5. Sanalista
 
@@ -214,21 +227,21 @@ esim. **tan** 8 U.
 - **nagara** n. ⟪नगर⟫ : kaupunki
 
   ::: note-box
-Kaupunkielämästä ja maaseutuelämästä ks. Basham, *Wonder*, luku 6.
+  Kaupunkielämästä ja maaseutuelämästä ks. Basham, *Wonder*, luku 6.
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : uhri
 
   ::: note-box
-Uhri Intiassa on ensisijaisesti jumaluuden kunnioittamista vieraana. Tämän kautta sitoutuu jumalouteen.
+  Uhri Intiassa on ensisijaisesti jumaluuden kunnioittamista vieraana. Tämän kautta sitoutuu jumalouteen.
 
-Sananmuodostus: **yaj** 1 U + kṛt-pääte **-na-**.
+  Sananmuodostus: **yaj** 1 U + kṛt-pääte **-na-**.
   :::
 
-- **puṇya** n. ⟪पुण्य⟫ : hyvä teko, ansio
+- **puṇya** n. ⟪पुण्य⟫ : hyvä teko, ansio <!-- TODO: Fallback translation -->
 
   ::: note-box
-Miten ansioitetaan hyvinvointia ja hyviä uudelleensyntymisiä.
+  Miten ansioitetaan hyvinvointia ja hyviä uudelleensyntymisiä.
   :::
 
 - **pāpa** n. ⟪पाप⟫ : paha teko, pahuus (vastakohta **puṇya**)
@@ -245,18 +258,18 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Toim. Ludwig Alsdorf
 Kuva: ⟪वरुणः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : epätosi, valhe (vastakohta **satya**)
+- **anṛta** n. ⟪अनृत⟫ : epätosi, valhe (vastakohta **satya**) <!-- TODO: Fallback translation -->
 
   ::: note-box
-Sananmuodostus **an-** („epä-“) + **ṛta** n.
+  Sananmuodostus **an-** („epä-“) + **ṛta** n. <!-- TODO: Fallback translation -->
 
-**ṛta** on keskeinen käsite vedassa, jonka käännös on kiistanalainen: "totuus" (Lüders, Thieme), "järjestys" (Renou).
+  **ṛta** on keskeinen käsite vedassa, jonka käännös on kiistanalainen: "totuus" (Lüders, Thieme), "järjestys" (Renou).
   :::
 
-- **ṛṣi** m. ⟪ऋषि⟫ : vedalainen viisas, vedalisten laulujen tekijä
+- **ṛṣi** m. ⟪ऋषि⟫ : vedalainen viisas, vedalisten laulujen tekijä <!-- TODO: Fallback translation -->
 
   ::: note-box
-Näiden **ṛṣi**-nimet mainitaan Brāhmaṇa-kirjoissa sekä omassa luettelossa Vedejä varten. Kaikki brahmanit johtavat alkuperänsä näistä **ṛṣi**-nimisistä, joiden mukaan heidän **gotra**nsa (⟪गोत्र⟫) on nimetty. Katso käsitteestä **gotra** Basham, *Wonder*, luku 5.
+  Näiden **ṛṣi**-nimet mainitaan Brāhmaṇa-kirjoissa sekä omassa luettelossa Vedejä varten. Kaikki brahmanit johtavat alkuperänsä näistä **ṛṣi**-nimisistä, joiden mukaan heidän **gotra**nsa (⟪गोत्र⟫) on nimetty. Katso käsitteestä **gotra** Basham, *Wonder*, luku 5.
   :::
 
 ::: media
@@ -266,7 +279,7 @@ Kuva: ⟪विश्वामित्रः⟫
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sanoa, puhua
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : kysyä (joku: Akk.; jostakin: Akk.)
-- **saha** ⟪सह⟫ : yhdessä, yhteisesti (myös "taistella jonkun kanssa" jne.) (postpositio instrumentaalin kanssa)
+- **saha** ⟪सह⟫ : yhdessä, yhteisesti (myös "taistella jonkun kanssa" jne.) (postpositio instrumentaalin kanssa) <!-- TODO: Fallback translation -->
 
 ## 10.6. Harjoitus
 
@@ -295,7 +308,7 @@ Kuva: ⟪विश्वामित्रः⟫
 21. **pṛcchanti** (⟪पृच्छन्ति⟫)
 22. **tanvanti** (⟪तन्वन्ति⟫) (2 muotoa!)
 
-**B) Muodosta abstraktum (instrumentalis) yksikössä ja monikossa kaikki tähän mennessä opetellut substantiivit.**
+**B) Muodosta abstraktum (instrumentalis) yksikössä ja monikossa kaikki tähän mennessä opetellut substantiivit.** <!-- TODO: Fallback translation -->
 
 **C) Muunna seuraavat lauseet passiiviin ja käännä ne:**
 1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫)
@@ -319,7 +332,7 @@ Kuva: ⟪विश्वामित्रः⟫
 1. Brahmana menee kylään vaiśyan kanssa.
 2. Hän palvoo Viṣṇua uhrikäytännöllä (ilmaise sana **yajña**!).
 3. Veda nimetään śrutiksi (**vad**-juuri).
-4. Verkkokangas jännitetään paikalleen (2 vaihtoehtoa)
+4. Verkkokangas jännitetään paikalleen (2 vaihtoehtoa) <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt1004.jpg)
@@ -331,7 +344,7 @@ Kuva: ⟪तन्तुवायः⟫
 7. Runoilija näkee jumaluuden. (Passiivilause)
 8. Kuka (naisp.) hoitaa tyttöä? (Passiivilause)
 9. Kṣatriya palvoo HERRTAA uhrauksella. (Passiivilause, ilman sanaa **yajña**)
-10. Anteliaisuudella buddhalainen seuraaja saavuttaa taivaan.
+10. Anteliaisuudella buddhalainen seuraaja saavuttaa taivaan. <!-- TODO: Fallback translation -->
 
 ## 10.7. Sanalista 2
 
@@ -358,11 +371,11 @@ Kuva: ⟪तन्तुवायः⟫
 - **mārga** m. ⟪मार्ग⟫ : tie
 - **evam** ⟪एवम्⟫ : näin
 - **iha** ⟪इह⟫ : täällä
-- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : olla kaunis, loistaa
+- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : olla kaunis, loistaa <!-- TODO: Fallback translation -->
 
-## 10.8. Luku- ja käännösharjoitus
+## 10.8. Luku- ja käännösharjoitus <!-- TODO: Fallback translation -->
 
-**Lue ja käännä sekä muuta passiiviin:**
+**Lue ja käännä sekä muuta passiiviin:** <!-- TODO: Fallback translation -->
 
 ⟪क⟫
 

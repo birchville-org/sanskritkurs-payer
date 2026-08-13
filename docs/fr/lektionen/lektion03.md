@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 3
+# Leçon 3
 
 ::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
@@ -65,7 +65,7 @@ La terminaison du nominatif pluriel au masculin et au féminin est **-as**.
 :::
 Remarque : **e** est le degré renforcé (**guṇa**) de **i**, **o** est le degré renforcé de **u**.
 
-## 3.4. Vokalsandhi
+## 3.4. Vokalsandhi <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Les voyelles simples qui ne diffèrent pas ou seulement par leur longueur « fusionnent » en la voyelle longue correspondante :**
@@ -76,7 +76,7 @@ Remarque : **e** est le degré renforcé (**guṇa**) de **i**, **o** est le deg
 :::
 p. ex.
 
-devatā + annapūrṇā » devatānnapūrṇā « Annapūrṇā est une divinité » = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā « Annapūrṇā est une divinité » = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
 
 > (Annapūrṇā est la déesse des aliments et de la cuisine ; elle est considérée comme une incarnation de Pārvatī, l’épouse de Śiva.)
 
@@ -122,12 +122,12 @@ p. ex.
 
 śūdrā + itarā » śudretarā « Itarā est une femme śūdra » = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās
+## 3.5. Satzsandhi von -ās <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-par exemple
+par exemple <!-- TODO: Fallback translation -->
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ « Les Vaiśyas sont des deux fois nés » = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -162,7 +162,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ « Les Vaiśyas sont des deux fois n
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmane femme.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : Kṣatriya femme.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : Kṣatriya femme. <!-- TODO: Fallback translation -->
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : épouse d'un Kṣatriya.
 

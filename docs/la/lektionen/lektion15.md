@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 15
+# Lectio 15
 
 ## 15.1. ⟪सुभाषितम्⟫
 
@@ -42,7 +42,7 @@ e. g.
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > etc.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
@@ -71,16 +71,19 @@ Fig.: ⟪लक्ष्मी⟫
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   exprimit Karmadhāraya comparationem, tum id, quo comparatur, in posteriori parte compositi statuitur:
 
-⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "vir ut leo"  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "vir ut tigris"
+::: indent
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "vir ut tigris"
+:::
 
 *   exprimit Karmadhāraya vero appositionem (determinatio proxima posterioris membri per nomen), stat determinans proximum in membro anteriori, sicut et regula generalis de ordine membrorum in Tatpuruṣa postulat:
 
+::: indent
 ⟪नरसिंहः⟫ etiam resolvi potest: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Leo, qui (re vera) homo est."
+:::
 
 Huiusmodi appositiva Karmadhāraya in commentariis indigenis, ut in exemplo superiore, per ⟪एव⟫ resolvuntur.
 
@@ -222,7 +225,7 @@ e.g.
 *   ⟪गतिसमासः⟫ : cum praepositione in membro anteriore
 *   ⟪प्रथमातत्पुरुषः⟫ et cetera (vide supra)
 
-### 15.7.1. Einteilung der ⟪कर्मधारय⟫
+### 15.7.1. Einteilung der ⟪कर्मधारय⟫ <!-- TODO: Fallback translation -->
 
 1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : pars prior est adiectivum (⟪विशेषण⟫)
 2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : utraque pars sunt adiectiva, ad quae pertinent etiam adiectiva quae successionem temporis exprimunt: "primum lavatus, deinde unctus"
@@ -267,7 +270,7 @@ Abb.: ⟪पूजा⟫
 Tab.: ⟪इन्द्रः⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt1505))
 :::
-⟪दास⟫ m.: Servus, Seruus, Minister
+⟪दास⟫ m.: Servus, Seruus, Minister <!-- TODO: Fallback translation -->
 
 ⟪दासी⟫ f.: ancilla, serva, famula
 
@@ -284,7 +287,7 @@ Tab.: ⟪इन्द्रः⟫
 ex eo:
 
 ::: indent
-⟪स्तुति⟫ f.: laus, carmen laudis
+⟪स्तुति⟫ f.: laus, carmen laudis <!-- TODO: Fallback translation -->
 
 ⟪स्तोत्र⟫ n.: (Medium laudis =) Carmen laudis, hymnus
 :::

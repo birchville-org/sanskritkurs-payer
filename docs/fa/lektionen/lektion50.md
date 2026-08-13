@@ -5,156 +5,156 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # درس ۵0
 
 ## 50.1. اسم‌سازی: افزایش منظم
 
 ::: grammar-box
-**Die regelmäßige Steigerung erfolgt im Sanskrit mit den ⟪तद्धित⟫-Suffixen** <!-- TODO: Fallback translation -->
-* **-⟪तर⟫ (fem.: ⟪तरा⟫) im "Komparativ"** <!-- TODO: Fallback translation -->
-* **⟪तम⟫ (fem.: ⟪तमा⟫) im "Superlativ"** <!-- TODO: Fallback translation -->
+**در سنسکریت، افزایش منظم با پسوندهای ⟪तद्धित⟫ انجام می‌شود**
+* **-⟪तर⟫ (مونث: ⟪तरा⟫) در "مقایسه"**
+* **⟪तम⟫ (مونث: ⟪तमा⟫) در "فوق‌العاده"**
 
-**Diese Suffixe werden bei Adjektiven an den Maskulinstamm angefügt. Bei Nomina mit Stammabstufung werden sie an den schwachen Stamm angefügt, die die form hat wie vor der Endung -su des Lokativ (⟪पञ्चमी⟫) Plural.** <!-- TODO: Fallback translation -->
+**این پسوندها به بن مذکر صفات افزوده می‌شوند. در اسم‌هایی که دارای تقلب بن هستند، به ضعیف‌ترین شکل بن افزوده می‌شوند که همان شکلی را دارد که پیش از پایان -su در جمع مکانی (⟪पञ्चमी⟫) ظاهر می‌شود.**
 :::
 ::: media
 ![](/images/lekt5007.webp)
-Abb.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
-⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
-(Bildquelle: [Details](/licenses#lekt5007)) <!-- TODO: Fallback translation -->
+تصویر: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
+⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = کوه اورست
+(منبع تصویر: [جزئیات](/licenses#lekt5007))
 :::
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**معنی:**
 
-**Der "Komparativ" bedeutet, wenn kein verglichener Gegenstand ausgedrückt wird: "ziemlich, sehr, zu":** <!-- TODO: Fallback translation -->
+**"مقایسه" به معنای این است که اگر مقایسه‌شونده‌ای بیان نشود: "نسبتاً، بسیار، بیش از حد":**
 
 :::
 ::: indent
-z.B. ⟪सुचितर⟫ 3 "ziemlich rein", "sehr rein", "zu rein" <!-- TODO: Fallback translation -->
+به عنوان مثال ⟪सुचितर⟫ 3 "نسبتاً پاک"، "بسیار پاک"، "فوق‌العاده پاک"
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (⟪पञ्चमी⟫). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen.** <!-- TODO: Fallback translation -->
+**اگر شیء مقایسه‌شده بیان شود، این شیء در حالت ابلاتیو (⟪पञ्चमी⟫) قرار می‌گیرد. مقایسه‌گر به همراه ابلاتیو معادل درجه‌بندی با "از" در زبان آلمانی است.**
 
 ::: indent
-z.B. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = wörtl.: "von Devadatta aus gesehen ist Rāma einsichtiger" = "Rāma ist einsichtiger als Devadatta" <!-- TODO: Fallback translation -->
+به عنوان مثال ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = تحت‌اللفظی: "از دیدگاه دواتاتا، راما خردمندتر است" = "راما از دواتاتا خردمندتر است"
 :::
-**Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äußerst, sehr":** <!-- TODO: Fallback translation -->
+**"فوق‌العاده" زمانی به کار می‌رود که شیء مقایسه‌شده‌ای بیان نشود: "بسیار، فوق‌العاده":**
 
 ::: indent
-z.B. ⟪सत्तम⟫ 3 (zu ⟪सन्त्⟫) "äußerst gut, sehr gut" <!-- TODO: Fallback translation -->
+به عنوان مثال ⟪सत्तम⟫ 3 (به سمت ⟪सन्त्⟫) "بسیار خوب، بسیار نیک"
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (⟪षष्ठी⟫) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe):** <!-- TODO: Fallback translation -->
+**اگر شیء مقایسه‌شده بیان شود، این شیء در حالت جنیتیو (⟪षष्ठी⟫) ("از"، "در میان") قرار می‌گیرد و فوق‌العاده معادل فوق‌العاده آلمانی (درجه عالی) است:**
 
 ::: indent
-z.B. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "der beste der Zweimalgeborenen" <!-- TODO: Fallback translation -->
+به عنوان مثال ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "بهترینِ دوباره‌زادگان"
 :::
-**Die Suffixe -⟪तर⟫ und -⟪तम⟫ können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen:** <!-- TODO: Fallback translation -->
+**پسوندهای -⟪तर⟫ و -⟪तम⟫ نه تنها به صفت‌ها، بلکه همچنین به اسم‌ها، indeclinabilia و حتی فعل‌های صرف‌شده نیز می‌توانند متصل شوند:**
 
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-⟪गजतम⟫ m. "der beste Elefant" (⟪गज⟫) (auch Bezeichnung Buddhas) <!-- TODO: Fallback translation -->
+⟪गजतम⟫ مذکر: «بهترین فیل» (⟪गज⟫) (عنوانی دیگر برای بودا)
 
-⟪गोतम⟫ m. "der größte Ochse" (⟪गो⟫) oder: "am reichsten an Rindern" <!-- TODO: Fallback translation -->
+⟪गोतम⟫ مذکر: «بزرگ‌ترین گاو» (⟪गो⟫) یا: «ثروتمندترین در گاو»
 
-⟪उद्⟫ Indekl. "auf", "hinauf" » ⟪उत्तर⟫ 3 "höherer" » ⟪उत्तम⟫ 3 "höchster" <!-- TODO: Fallback translation -->
+⟪उद्⟫ قید غیرمصرفی: «بر»، «به سوی بالا» » ⟪उत्तर⟫ ۳ «برتر» » ⟪उत्तम⟫ ۳ «بالاترین»
 :::
-**Treten diese Suffixe an eine Verbalform, so erscheinen sie stets in der adverbialen Form:** <!-- TODO: Fallback translation -->
+**اگر این پسوند به یک شکل فعلی افزوده شود، همواره در حالت قیدی ظاهر می‌شود:**
 
 * **-⟪तराम्⟫**
 * **-⟪तमाम्⟫**
 
-Beispiele: <!-- TODO: Fallback translation -->
+مثال‌ها:
 
 ::: indent
-⟪पचतितराम्⟫ "er/sie/es kocht besser" <!-- TODO: Fallback translation -->
+⟪पचतितराम्⟫ «او بهتر می‌پزد»
 
-⟪पचतितमाम्⟫ "er/sie/es kocht am besten" <!-- TODO: Fallback translation -->
+⟪पचतितमाम्⟫ «او بهترین می‌پزد»
 :::
-**Diese Form haben diese Suffixe auch, wenn sie an ein Indeklinabile treten und das abgeleitete Wort adverbial gebraucht wird:** <!-- TODO: Fallback translation -->
+**این شکل را این پسوند‌ها نیز دارند، وقتی که به یک ابدیو (Indeklinabile) متصل شوند و واژه مشتق‌شده به صورت قیدی به کار رود:**
 
 ::: indent
-z.B. ⟪सुतराम्⟫ (zu ⟪सु⟫) "auf bessere Weise" (adverbial) <!-- TODO: Fallback translation -->
+مثلاً ⟪सुतराम्⟫ (به سمت ⟪सु⟫) «به روش بهتر» (قیدی)
 :::
 ::: media
 ![](/images/lekt5006.webp)
-Abb.: ⟪का⟫ ⟪पचतितमाम्⟫
-Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Bildquelle: [Details](/licenses#lekt5006)) <!-- TODO: Fallback translation -->
+تصویر: ⟪का⟫ ⟪पचतितमाम्⟫
+لی‌سو = 傈僳族، ⟪अरुणाचल⟫ ⟪प्रदेश⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5006))
 :::
-## 50.2. فهرست واژگان
+## ۵۰.۲ فهرست واژگان
 
-⟪ध्रुव⟫ 3: fest, unveränderlich <!-- TODO: Fallback translation -->
+⟪ध्रुव⟫ ۳: ثابت، تغییرناپذیر
 
-⟪निषेक⟫ m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung <!-- TODO: Fallback translation -->
+⟪निषेक⟫ م.: پاشیدن، بارورسازی، مایع، انزال، آیین در زمان تولید مثل
 
-⟪पण्डित⟫ 3: klug, weise, gelehrt <!-- TODO: Fallback translation -->
+⟪पण्डित⟫ ۳: دانا، خردمند، دانش‌آموخته
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : missachten, verachten <!-- TODO: Fallback translation -->
+⟪मन्⟫ + ⟪अव⟫ ۴آ ⟪अवमन्यते⟫ : نادیده گرفتن، تحقیر کردن
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister <!-- TODO: Fallback translation -->
+⟪मन्त्रिन्⟫ ۳: راهنما؛ m.: مشاور، عضو شورای مشورتی، وزیر
 
 ::: media
 ![](/images/lekt5001.jpg)
-Abb.: ⟪मन्त्री⟫
-Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Bildquelle: [Details](/licenses#lekt5001)) <!-- TODO: Fallback translation -->
+تصویر: ⟪मन्त्री⟫
+کاپیل سیبال (۱۹۴۸-)، وزیر اتحاد در وزارت علوم و فناوری و وزارت علوم زمین (از ۲۰۰۶)
+(منبع تصویر: [جزئیات](/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: Geheimnis, Einsamkeit <!-- TODO: Fallback translation -->
+⟪रहस्⟫ n.: راز، تنهایی
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen <!-- TODO: Fallback translation -->
+⟪रिष्⟫ ۱P ⟪रिषति⟫ ۴P ⟪रिष्यति⟫ : آسیب دیدن، شکست خوردن، خراب کردن
 
 ::: indent
-Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
+Perf. II ⟪रिरेष⟫، ⟪रिरिषुर्⟫
 Fut. ⟪रेषिष्यति⟫
 Pass. ⟪रिष्यते⟫
 Kaus. ⟪रेषयति⟫
-PPP ⟪रिष्ट⟫ <!-- TODO: Fallback translation -->
+PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U *:sig[⟪लुम्प⟫]*⟪ति⟫** : brechen, zerstören <!-- TODO: Fallback translation -->
+**⟪लुप्⟫ ۶U *:sig[⟪लुम्प⟫]*⟪ति⟫** : شکستن، نابود کردن
 
 ::: indent
-Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
-Fut. ⟪लोप्स्यति⟫
-Pass. ⟪लुप्यते⟫
-Kaus. ⟪लोपयति⟫
-PPP ⟪लुप्त⟫
-Inf. ⟪लोप्तुम्⟫
-Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫ <!-- TODO: Fallback translation -->
+کامل‌شدهٔ دوم ⟪लुलोप⟫، ⟪लुलुपे⟫
+آیندهٔ ساده ⟪लोप्स्यति⟫
+مجهول ⟪लुप्यते⟫
+سببی ⟪लोपयति⟫
+صفت مفعولی گذشته ⟪लुप्त⟫
+مصدر ⟪लोप्तुम्⟫
+صفت التزامی ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
 :::
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫) <!-- TODO: Fallback translation -->
+⟪विधि⟫ مذکر: همچنین: سرنوشت (به معنای ⟪विधा⟫)
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke) <!-- TODO: Fallback translation -->
+⟪वृष्⟫ شخص اول ⟪वर्षति⟫ : باریدن (بیشتر با یک ⟪कर्तृ⟫ -- خدایی یا ابری)
 
 ::: indent
-Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
-Fut. ⟪वर्षिष्यति⟫
-Pass. ⟪वृष्यते⟫
-Kaus. ⟪वर्षयति⟫
-PPP ⟪वृष्ट⟫
-Inf. ⟪वर्षितुम्⟫
-Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
-Absol.-⟪वृष्य⟫ <!-- TODO: Fallback translation -->
+کامل‌شدهٔ دوم ⟪ववर्ष⟫، ⟪ववृषुर्⟫
+آیندهٔ ساده ⟪वर्षिष्यति⟫
+مجهول ⟪वृष्यते⟫
+سببی ⟪वर्षयति⟫
+صفت مفعولی گذشته ⟪वृष्ट⟫
+مصدر ⟪वर्षितुम्⟫
+مطلق ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
+مطلق-⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
-Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5002)) <!-- TODO: Fallback translation -->
+تصویر: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
+ورود مونسون، بنگالورو  ಬೆಂಗಳೂರು
+(منبع تصویر: [جزئیات](/licenses#lekt5002))
 :::
-⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig <!-- TODO: Fallback translation -->
+⟪संयक्⟫ قید: درست، حقیقتاً، به شایسته‌ترین شکل؛ کاملاً، تماماً
 
-⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse <!-- TODO: Fallback translation -->
+⟪आदित्य⟫ مذکر: خورشید ; جمع: [آدیتیا](http://en.wikipedia.org/wiki/Aditya) : دسته‌ای خاص از خدایان
 
 ::: media
 ![](/images/lekt5005.jpg)
-Abb.: ⟪आदित्यः⟫
-(Bildquelle: [Details](/licenses#lekt5005)) <!-- TODO: Fallback translation -->
+تصویر: ⟪आदित्यः⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: jeder, alle <!-- TODO: Fallback translation -->
+⟪सर्व⟫ ۳: هر کس، همه
 
-Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum) <!-- TODO: Fallback translation -->
+صرف مانند ⟪यद्⟫ (استثنا: مفرد مذکر و مونث در حالت رفع و نصب)
 
 ::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
@@ -168,40 +168,40 @@ Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum) <!-- TODO: Fallba
 | **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
 | **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
-⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber <!-- TODO: Fallback translation -->
+⟪वै⟫ : ذره، کلمه پیشین را تأکید می‌کند: به راستی، قطعاً، اما
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫ <!-- TODO: Fallback translation -->
+⟪इह⟫ قید: اینجا، در این زمین، به اینجا؛ اکنون. پیش از اسم‌ها در حالت مکان (⟪षष्ठी⟫) به معنای ⟪अस्मिन्⟫، ⟪अस्याम्⟫
 
-⟪कल्प⟫ m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu ⟪कॢप्⟫) <!-- TODO: Fallback translation -->
+⟪कल्प⟫ m: قانون، رسم‌العمل، آیین؛ [چرخه زمانی] (به ⟪कॢप्⟫)
 
-⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön <!-- TODO: Fallback translation -->
+⟪कल्याण⟫ ۳ (f.: ⟪कल्याणी⟫) : زیبا
 
 ::: media
 ![](/images/lekt5003.webp)
-Abb.: ⟪कल्याणी⟫
-(Bildquelle: [Details](/licenses#lekt5003)) <!-- TODO: Fallback translation -->
+تصویر: ⟪कल्याणी⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5003))
 :::
-⟪कु⟫- : als Vorderglied von Komposita: schlecht <!-- TODO: Fallback translation -->
+⟪कु⟫- : به عنوان جزء پیشین ترکیب‌ها: بد
 
 ::: media
 ![](/images/lekt5004.webp)
-Abb.: ⟪कुनगरम्⟫
-⟪धारावी⟫, ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5004)) <!-- TODO: Fallback translation -->
+تصویر: ⟪कुनगरम्⟫
+⟪धारावी⟫، ⟪मुंबई⟫
+(منبع تصویر: [جزئیات](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ ۲Ā ⟪चष्टे⟫ ۲.pl. Ā ⟪चड्ढ्वे⟫ : دیدن
 
 ::: indent
-Perf. ⟪चचक्षे⟫
-in den übrigen Tempora nicht verwendet <!-- TODO: Fallback translation -->
+کامل ⟪चचक्षे⟫
+در سایر زمان‌ها به کار نمی‌رود
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ + ⟪प्र⟫ ۲آ ⟪प्रचष्टे⟫ : تعریف کردن، پنداشتن، نامیدن
 
-⟪देश⟫ m.: Ort, Platz, Land, Gegend <!-- TODO: Fallback translation -->
+⟪देश⟫ م.: مکان، جایگاه، سرزمین، ناحیه
 
 ## 50.3. تمرین ترجمه
 
-A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.: <!-- TODO: Fallback translation -->
+الف) برای مرور صرف اسم‌ها: بیت زیر شامل همهٔ حالت‌های مفرد ⟪गुरु⟫ مذکر است:
 
 ::: indent
 ⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫
@@ -211,11 +211,11 @@ A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsfo
 :::
 ::: media
 ![](/images/lekt5008.webp)
-Abb.: ⟪गुरुमेव⟫ ⟪भजे⟫
-Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt
-(Bildquelle: [Details](/licenses#lekt5008)) <!-- TODO: Fallback translation -->
+تصویر: ⟪गुरुमेव⟫ ⟪भजे⟫
+گنشی‌پوری، ۸۰ کیلومتر دور از بمبئی (⟪मुंबई⟫)
+(منبع تصویر: [جزئیات](/licenses#lekt5008))
 :::
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+ب) ترجمه کنید:
 
 ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
 
@@ -241,7 +241,7 @@ B) Übersetzen Sie: <!-- TODO: Fallback translation -->
 ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫
 ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥३॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers <!-- TODO: Fallback translation -->
+⟪मनुस्मृति⟫ ⟪३⟫، ⟪७५⟫ - ⟪७६⟫: دربارهٔ ضرورت قربانی
 
 ::: indent
 ⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫
@@ -259,10 +259,10 @@ B) Übersetzen Sie: <!-- TODO: Fallback translation -->
 ⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥६॥⟫
 *:sig[⟪द्रष्टृदृश्ययोः⟫]* ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
 
-Erklärung:
-:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Lok.m.n.f.Dual (Dualdvandva) <!-- TODO: Fallback translation -->
+توضیح:
+:sig[⟪द्रष्टृदृश्ययोः⟫] : حالت مضاف‌الیه/مکانی مذکر/مونث مفرد (دوگانه دوندوا)
 :::
-⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs <!-- TODO: Fallback translation -->
+⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫، ⟪१५⟫: درباره مشاوران پادشاه
 
 ::: indent
 ⟪न⟫ ⟪किंचिदवमन्येत⟫
@@ -270,7 +270,7 @@ Erklärung:
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫
 ⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥८॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫ <!-- TODO: Fallback translation -->
+⟪मनुस्मृति⟫ ⟪२⟫، ⟪१४०⟫ - ⟪१४२⟫: تعریف از ⟪आचार्य⟫، ⟪उपाध्याय⟫، ⟪गुरु⟫
 
 ::: indent
 ⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫
@@ -288,26 +288,26 @@ Erklärung:
 ⟪संभावयति⟫ ⟪चान्नेन⟫
 ⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥११॥⟫
 
-Erklärungen:
-⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum <!-- TODO: Fallback translation -->
+توضیحات:
+⟪निषेकादीनि⟫ : مفرد/مفعولی جمع مذکر/مونث
 :::
 ::: deleteme-box
 
-**lekt5007:** Abb.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Bildquelle: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5007:** تصویر: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = کوه اورست [منبع تصویر: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کامن کرس](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب)]
 
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Bildquelle: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5006:** لیسو = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [منبع تصویر: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کامن کرس](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt5001:** Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Bildquelle: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5001:** کاپیل سیبال (۱۹۴۸ -)، وزیر اتحاد در وزارت علوم و فناوری و وزارت علوم زمین‌شناسی (از ۲۰۰۶) [منبع تصویر: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کامن کرس](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (نسب، اشتراک یکسان)]
 
-**lekt5002:** Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು [Bildquelle: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5002:** فرا رسیدن مونسون، بنگالورو ಬೆಂಗಳೂರು [منبع تصویر: وندن دسی. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt5005:** [Bildquelle: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5005:** [منبع تصویر: ساندر ایئر. -- [http://www.flickr.com/photos/sunder_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (نسب‌دهی، اشتراک یکسان)]
 
-**lekt5003:** [Bildquelle: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5003:** [منبع تصویر: دیانجی. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Bildquelle: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5004:** ⟪धारावी⟫، ⟪मुंबई⟫ [منبع تصویر: کونوسو / ویکی‌پدیا. مجوز GNU FDLicense]
 
-**lekt5008:** Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt [Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5008:** گنشیپوری، ۸۰ کیلومتر دور از بمبئی (⟪मुंबई⟫) [منبع تصویر: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- دسترسی در ۲۰۰۹-۰۱-۱۳. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
 
 :::
 

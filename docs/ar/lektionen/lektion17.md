@@ -5,7 +5,7 @@ lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # الدرس 17
 
@@ -40,7 +40,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
 | 3\. pl. Präs. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
 | 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
+| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ينطبق هنا قانون التراكب الصوتي التالي:
@@ -66,7 +66,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪एति⟫ (e-ti) |
 | 3\. pl. Präs. P | ⟪यन्ति⟫ (y-anti) |
 | 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
-| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
+| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪दुह्⟫ 2 "حَلَبَ"
@@ -81,7 +81,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. Präs. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
+| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪हन्⟫ 2 "ضرب، قتل، قتل"
@@ -98,7 +98,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) |
 | 3\. pl. Präs. P | ⟪घ्नन्ति⟫ (ghn-anti) |
 | 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
+| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪अस्⟫ 2 P "يكون"
@@ -111,7 +111,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
-| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
+| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.3. جذور الفئة الثانية من الأفعال المضارعة مع تدرج الجذر: درجة الإطالة - درجة الانخفاض
@@ -132,7 +132,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
 | 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
-| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
+| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.4. جذور صنف المضارع الثاني بدون تدرج في الجذر
@@ -149,7 +149,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
+| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) | <!-- TODO: Fallback translation -->
 
 :::
 كذلك بعض الجذور الأخرى من الفئة الثانية لا تملك تدرج الجذر:
@@ -163,7 +163,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
+| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪आस्⟫ ٢ "أ" "جلوس"
@@ -173,7 +173,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
+| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪वच्⟫ 2 P "يقولون"
@@ -183,7 +183,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | kommt nicht vor |
+| 3\. pl. Präs. P | kommt nicht vor | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.5. الجذور ثنائية المقطع التي تنتهي بـ -i/-ī مع تدرج الجذر
@@ -204,7 +204,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
+| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) | <!-- TODO: Fallback translation -->
 
 :::
 ⟪ब्रू⟫ 2 "يقول"
@@ -230,7 +230,7 @@ status: stable
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | <!-- TODO: Fallback translation -->
 
 :::
 ## 17.6. قائمة الكلمات

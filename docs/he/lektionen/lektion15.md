@@ -42,7 +42,7 @@ status: stable
 > נ' תנ' רב' ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
 > וכו'
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
 
 :::
 ## 15.3. קומפוזיציות דטרמינטיביות עם איבר קדמי אטריבטיבי / אפוזיציוני = קרמדהאריה ז. = ⟪कर्मधारय⟫
@@ -71,16 +71,19 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
 
 *   אם קרמדהאריה מביע השוואה, אזי הדבר שאליו משווים נמצא בחלק האחורי של הצירוף:
 
-⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "איש כמו אריה"  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "איש כמו נמר"
+::: indent
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "איש כמו נמר"
+:::
 
 *   אם קרמדהאריה מביע אפוזיציה (קביעה מדויקת יותר של האיבר האחורי באמצעות שם עצם), אזי הקובע המדויק יותר נמצא באיבר הקדמי, כפי שדורשת הכלל הכללי לסדר האיברים בטהפורוש:
 
+::: indent
 ⟪नरसिंहः⟫ יכול גם להתפרק: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "אריה, שהוא (בפועל) אדם."
+:::
 
 כאלו קרמהדהאראים אפוזיציוניים נפתרים בפירושים המקומיים, כמו בדוגמה למעלה, באמצעות ⟪एव⟫.
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 58
+# Lecziun 58
 
 ## 58.1. Las desinenzas primarias dal dual (⟪dvivacanam⟫)
 
@@ -31,7 +31,7 @@ Avant -vas e -vahe vegn il vocal da tema -a- sustitui da -ā-.
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
 
 ### 58.2.2. Quarta classa da prescha (⟪दिवादिगणः⟫)
 
@@ -49,7 +49,7 @@ Imag.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt5802))
 :::
-### 58.2.3. Sessena classa da prezens (⟪तुदादिगणः⟫)
+### 58.2.3. Sessena classa da prezens (⟪तुदादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪तुद्⟫ 6U "stizzar, batter"
 
@@ -101,7 +101,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
 :::
-## 58.4. Der Dual Passiv (Suffix -⟪यक्⟫)
+## 58.4. Il dual passiv (suffix -⟪यक्⟫)
 
 ⟪तुद्⟫ 6U "stizzar, batter"
 
@@ -184,7 +184,7 @@ Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 Imag.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt5805))
 :::
-### 58.5.2. Terza classa da prezens (⟪जुहोत्यादिगणः⟫)
+### 58.5.2. Terza classa da prezens (⟪जुहोत्यादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪हु⟫ 3P "verscharren in d'Opferfeuer"
 
@@ -220,7 +220,7 @@ Imag.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt5807))
 :::
-### 58.5.4. Octava classa da prezens (⟪तनादिगणः⟫)
+### 58.5.4. Octava classa da prezens (⟪तनादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪तन्⟫ 8U "stender"
 
@@ -275,14 +275,14 @@ Imag.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Sursa d'immagines: [Detagls](/rm/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-Aorist
+## 58.6. Aorist 5: iṣ-Aorist <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **L'aorist iṣ vegn format da tut las radis seṣ, per las qualas na vegn betg explicitamain mo in'autra furma da l'aorist emprimada.**
 
 **Educaziun:**
 
-**Augment + Radix + i + s + athematische Sekundärendung**
+**Augment + Radix + i + s + athematische Sekundärendung** <!-- TODO: Fallback translation -->
 
 **!!!** La 2.sg.P e la 3.sg.P derivan da **-**īs respectivamain -īt da **!!!** (Quai è naschì tras ina transferenza dal imperfect da radichas dal tipus ⟪अब्रवीत्⟫; èn quai donc radichamain aorist-formas).
 :::
@@ -295,34 +295,42 @@ La furmaziun dal stemma + las desinenzas dal aorist d'iṣ èn donc:
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
 | **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h ni Halbvokal) |
-| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
+| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
-**Furma da la radischa:**
+**Furma da la radischa:** <!-- TODO: Fallback translation -->
 
 *   **Radixas cun vocal curtta avant consonanta simpla: nivel aut en P e Ā**  
     Exemples:  
-    ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫  
-    ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+::: indent
+⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
+⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
+:::
 
 *   **Radis cun vocal finala:**
     *   **P: stadi da distensium**
     *   **Ā: stadi da aut
 
 Ezempels:  
-    ⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+::: indent
+⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+:::
 
 *   **Radixas sin -ar., -al usque ⟪वद्⟫ 1P "dicere", ⟪व्रज्⟫ 1P "abire": P: Gradus longus**  
     Exemplaria:  
-    ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫  
-    ⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+::: indent
+⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫
+⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
+:::
 
 *   **Autras radis da la furma (Cons.-)Cons.-a-Cons.: en il P cumparellamainamain la furma da lungida (vala betg per radis cun -h, -m, -y ed ulteriuras radis)**  
     Exempl:  
-    ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
-    ma:  
-    ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+::: indent
+⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
+ma:
+⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+:::
 :::
 Paradigmas:
 
@@ -360,16 +368,24 @@ Paradigmas:
 **Particularitads:**
 
 1.  En qualchiduna radis poa esser il vocal da agglutinaziun -i- en ⟪आत्मनेपद⟫ sustitui da -ī-. Suenter ⟪ग्रह्⟫ 9U "agrapar" sto questa sustituziun vegnir fatga en il P e Ā:  
-    ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+::: indent
+⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
+:::
 
 2.  Radiz da la 8. classa da present sin -n (u -ṇ) pon esser en la 2.3.sg.Ā a nivel bass:  
-    ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aorist dal radiz) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+::: indent
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aorist dal radiz) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+:::
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā u.a. ponnan envegn la 3.sg. Ā er anque la furma dal passivaorist:  
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+::: indent
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+:::
 
 4.  ⟪विज्⟫ 7P ha nagin in Ablaut:  
-    ⟪अविजीत्⟫
+::: indent
+⟪अविजीत्⟫
+:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

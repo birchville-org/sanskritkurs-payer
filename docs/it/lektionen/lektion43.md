@@ -26,7 +26,7 @@ Si noti che la desinenza secondaria della 2. persona plurale è identica alla de
 2.Persona:
 
 *   Singolare: "tu"
-*   Pluraleee: "voi" (più di due!)
+*   Pluraleeeeee: "voi" (più di due!)
 
 ### 43.2.1. Temi tematici
 
@@ -42,9 +42,9 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \<⟪भवसे⟫\> | \<⟪भवध्वे⟫\> |
-| **Imperfetto** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
-| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \<⟪भवेथास्⟫\> | \<⟪भवेध्वम्⟫\> |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \&lt;⟪भवसे⟫\&gt; | \&lt;⟪भवध्वे⟫\&gt; |
+| **Imperfetto** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \&lt;⟪अभवथास्⟫\&gt; | \&lt;⟪अभवध्वम्⟫\&gt; |
+| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \&lt;⟪भवेथास्⟫\&gt; | \&lt;⟪भवेध्वम्⟫\&gt; |
 
 #### 43.2.1.2. Sesta classe di presente (⟪तुदादि⟫)
 
@@ -53,9 +53,9 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \<⟪विशसे⟫\> | \<⟪विशध्वे⟫\> |
-| **Imperfetto** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
-| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \&lt;⟪विशसे⟫\&gt; | \&lt;⟪विशध्वे⟫\&gt; |
+| **Imperfetto** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \&lt;⟪अविशथास्⟫\&gt; | \&lt;⟪अविशध्वम्⟫\&gt; |
+| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \&lt;⟪विशेथास्⟫\&gt; | \&lt;⟪विशेध्वम्⟫\&gt; |
 
 #### 43.2.1.3. Quarta classe di presente (⟪दिवादि⟫)
 
@@ -64,9 +64,9 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \<⟪नृत्यसे⟫\> | \<⟪नृत्यध्वे⟫\> |
-| **Imperfetto** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \<⟪अनृत्यथास्⟫\> | \<⟪अनृत्यध्वम्⟫\> |
-| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \<⟪नृत्येथास्⟫\> | \<⟪नृत्येध्वम्⟫\> |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \&lt;⟪नृत्यसे⟫\&gt; | \&lt;⟪नृत्यध्वे⟫\&gt; |
+| **Imperfetto** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \&lt;⟪अनृत्यथास्⟫\&gt; | \&lt;⟪अनृत्यध्वम्⟫\&gt; |
+| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \&lt;⟪नृत्येथास्⟫\&gt; | \&lt;⟪नृत्येध्वम्⟫\&gt; |
 
 #### 43.2.1.4. Decima classe di presente (⟪चुरादि⟫) e Causativi
 
@@ -89,7 +89,7 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 | **Imperfetto** ⟪लङ्⟫ | ⟪ऐक्ष्यथास्⟫ | ⟪ऐक्ष्यध्वम्⟫ |
 | **Ottativo** ⟪विधिलिङ्⟫ | ⟪ईक्ष्येथास्⟫ | ⟪ईक्ष्येध्वम्⟫ |
 
-#### 43.2.1.6. Futurooo (⟪ऌट्⟫)
+#### 43.2.1.6. Futuroooooo (⟪ऌट्⟫)
 
 #### 43.2.1.6.1. Formazioni in ⟪अनिट्⟫
 
@@ -107,12 +107,12 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \<⟪भविष्यसे⟫\> | \<⟪भविष्यध्वे⟫\> |
+| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \&lt;⟪भविष्यसे⟫\&gt; | \&lt;⟪भविष्यध्वे⟫\&gt; |
 
 ## 43.3. Il pronome personale di seconda persona
 
 *   Singolare: ⟪त्वद्⟫ "tu"
-*   Pluraleee: ⟪युष्मद्⟫ "voi"
+*   Pluraleeeeee: ⟪युष्मद्⟫ "voi"
 
 ::: grammar-box
 | | ⟪एकवचनम्⟫ (⟪त्वद्⟫) | ⟪बहुवचनम्⟫ (⟪युष्मद्⟫) |

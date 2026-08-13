@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 31
 
-A) Käännä seuraavat lauseet ja ratkaise sandhikomposita:
+A) Käännä seuraavat lauseet ja ratkaise sandhikomposita: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. **⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫**
 (⟪दुःखस्य⟫ ⟪सम्भवम्⟫ ⟪।⟫ ⟪आर्येण⟫ ⟪बुद्धस्य⟫ / ⟪बुद्धानां⟫ ⟪मार्गेण⟫)
@@ -21,26 +21,26 @@ Jotta ymmärrys estää kärsimyksen syntymisen, järkevän ihmisen tulee kulkea
 Arvostettava sanoo Bhagavadgītāssa, että miekat halkovat vain kehon, mutta sielu (jīva) ei kuole.
 
 ⟪३⟫. **⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫**
-Jolla on ymmärrys, kärsimyksestä vapautuu; siksi ihmisen, joka haluaa pelastuksen, tulee keskittyä joogan kautta.
+Jolla on ymmärrys, kärsimyksestä vapautuu; siksi ihmisen, joka haluaa pelastuksen, tulee keskittyä joogan kautta. <!-- TODO: Fallback translation -->
 
 ⟪४⟫. **⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫**
 (⟪कुलस्य⟫ ⟪बन्धनम्⟫ ⟪।⟫ ⟪भग्नो⟫ ⟪बन्धो⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫ ⟪मोक्षं⟫ ⟪नयन्तीम्⟫)
-"Minulle on syntynyt poika — sidossolmu on syntynyt" — tällä ajatuksella Buddha katkaisee sidokset perheeseen. Kun hän on katkaissut siteet, hän voi saavuttaa pelastukseen johtavan ymmärryksen.
+"Minulle on syntynyt poika — sidossolmu on syntynyt" — tällä ajatuksella Buddha katkaisee sidokset perheeseen. Kun hän on katkaissut siteet, hän voi saavuttaa pelastukseen johtavan ymmärryksen. <!-- TODO: Fallback translation -->
 
 ⟪५⟫. **⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫**
 (⟪मोहेन⟫ ⟪सहितः⟫ ⟪।⟫ ⟪शोभनं⟫ ⟪रूपं⟫ ⟪यासां⟫ ⟪ताः⟫ ⟪।⟫ ⟪वीतो⟫ ⟪मोहो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫)
-Hämärtyminen nauttii hyvästä ruoasta ja kauniista naisista. Jolla hämärtyminen on kadonnut, ei himoitsi hyvää ruokaa eikä täydellisen vartalon naista. Hän nimittäin estää ahneuden ja vihan sekä keskittyy ymmärrykseen.
+Hämärtyminen nauttii hyvästä ruoasta ja kauniista naisista. Jolla hämärtyminen on kadonnut, ei himoitsi hyvää ruokaa eikä täydellisen vartalon naista. Hän nimittäin estää ahneuden ja vihan sekä keskittyy ymmärrykseen. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/uebung049.webp)
 Kuv.: ⟪कुलबन्धनम्⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung049))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
-## Verbin taivutusmuodot (7. luokka)
+## Verbin taivutusmuodot (7. luokka) <!-- TODO: Fallback translation -->
 
-B) Muodosta seuraavien 7. luokan verbijurten 3. persoonan yksikkö ja monikko (P ja Ā) indikatiivi ja optatiivin preesensistä:
+B) Muodosta seuraavien 7. luokan verbijurten 3. persoonan yksikkö ja monikko (P ja Ā) indikatiivi ja optatiivin preesensistä: <!-- TODO: Fallback translation -->
 
 ### ⟪१⟫. ⟪छिद्⟫ (halkaista)
 

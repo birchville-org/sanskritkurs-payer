@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lectio 27
 
@@ -32,7 +32,7 @@ status: stable
 Fig.: ⟪जयपुरनगरे⟫
 Iaiapūra, 1875.
 (Fons imaginis: [Details](/la/licenses#lekt2701))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -46,7 +46,7 @@ Iaiapūra, 1875.
 
 > ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "cum tempus sic praeterit..."
 >
-> ⟪तस्मिन्गते⟫ = "cum abiisset..."
+> ⟪तस्मिन्गते⟫ = "cum abiisset..." <!-- TODO: Fallback translation -->
 
 **Saepe agens (⟪कर्ता⟫) non exprimitur:**
 
@@ -68,7 +68,7 @@ Rajasthan.
 
 **3. Casus locativi etiam respondet quaestioni "De quo?" et sim.:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Amorem erga filium suum habet" (verbum ad verbum: "In filio apud eum amor est")
+> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Amorem erga filium suum habet" (verbum ad verbum: "In filio apud eum amor est") <!-- TODO: Fallback translation -->
 
 :::
 ::: media
@@ -163,7 +163,10 @@ Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ �
 Rāma-Satz.
 (Fons imaginis: [Detalia](/la/licenses#lekt2708))
 :::
-:sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫:br :sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br :sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫:br :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
+:sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫
+:sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
+:sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫
+:sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Versio:**
 1. **Nominativus:** Rāma, gemma (⟪मणि⟫ m.) inter reges (⟪राजन्⟫ m.) semper vincit (⟪सदा⟫).
@@ -175,12 +178,15 @@ Rāma-Satz.
 7. **Locativus:** In Rāma sit (⟪भवतु⟫) semper quies (⟪लय⟫ m.) mei (⟪मे⟫) cordis.
 8. **Vocativus:** Rāma, salva (⟪उद्धर⟫ = Imperativ ad ⟪उद्⟫ + ⟪हृ⟫ vel ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
 
-## 27.5. Index verborum
+## 27.5. Index verborum <!-- TODO: Fallback translation -->
 
 ⟪वस्⟫ 1P (⟪वसति⟫): morari, habitare (cum locativo personae, apud quam habitat)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫
+**Pass.:** ⟪उष्यते⟫
+**PPP:** ⟪उषित⟫
+**Inf.:** ⟪वस्तुम्⟫
 :::
 ex eo:
 
@@ -194,7 +200,9 @@ ex eo:
 ⟪वस्⟫ 2Ā (⟪वस्ते⟫): induere (vestimentum), portare (vestimentum)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫
+**PPP:** ⟪वसित⟫
+**Inf.:** ⟪वसितुम्⟫
 :::
 ex eo:
 
@@ -220,10 +228,13 @@ Fig.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Fons imaginis: [Detalia](/la/licenses#lekt2707))
 :::
-⟪हृ⟫ 1U (⟪हरति⟫): tenere, portare; adferre, auferre, rapere
+⟪हृ⟫ 1U (⟪हरति⟫): tenere, portare; adferre, auferre, rapere <!-- TODO: Fallback translation -->
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫
+**Pass.:** ⟪ह्रियते⟫
+**PPP:** ⟪हृत⟫
+**Inf.:** ⟪हर्तुम्⟫
 :::
 ex eo:
 

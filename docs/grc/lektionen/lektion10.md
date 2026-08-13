@@ -120,7 +120,9 @@ status: stable
 2. **πρὸς τὴν δηλοποίησιν τοῦ μέσου ἢ ἐργαλείου, ᾧ τὸ πρᾶγμα ἀνατελεῖται**
 3. **πρὸς τὴν δηλοποίησιν τοῦ ὁδοῦ, ἐφ’ ἧς τις πρὸς ποίαν φθάνει**
 4. **πρὸς τὴν ἐκφρασιν τῆς συνδέσεως, κοινωνίας, κοινωνίας**
-5. **παρὰ τῇ μεταθέσει ἐν τῇ σημασίᾳ "σὺν, μετὰ": π.χ. saha = ⟪सह⟫ = "μετὰ"** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "σὺν τῷ Βραχμανᾳ"
+5. **παρὰ τῇ μεταθέσει ἐν τῇ σημασίᾳ "σὺν, μετὰ": π.χ. saha = ⟪सह⟫ = "μετὰ"**
+z.B.
+**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "σὺν τῷ Βραχμανᾳ"
 :::
 ἄλλαι χρήσεις τοῦ ὀργανικοῦ (tṛtīyā) ἀκολουθήσουσι μετὰ ταῦτα.
 
@@ -152,13 +154,13 @@ status: stable
 **βραχμάνα** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das Παθητικὴ φωνή, Indikativ Präsens (yak = ⟪यक्⟫)
+## 10.4. Das Παθητικὴ φωνή, Indikativ Präsens (yak = ⟪यक्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Bildung:**
 **(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung**
 :::
-z.B.
+z.B. <!-- TODO: Fallback translation -->
 
 | Wurzel:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
@@ -171,17 +173,24 @@ z.B.
 ### 10.4.1. Εἰδικοὶ κανόνες διὰ τὸν σχηματισμὸν τῆς παθητικῆς φωνῆς
 
 1. **Ῥίζαι ἐπὶ -i ἢ -u** μακραίνουσι τὸν φθόγγον πρὸ τοῦ παθητικοῦ κλήματος **-ya-**:
-   * **ji** 1 Π: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 Π: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 Υ: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 1 Π: **jīyate**, **jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 Π: **śrūyate**, **śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 Υ: **sūyate**, **sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Ῥίζαι μετὰ -a-** μεταξὺ συμφώνων (πλὴν ἠχόντων, y, r, v) μένουσι βαρεῖαι:
-   * **labh** 1 Α: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Α: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Ποταὶ ῥίζαι** τὸ παθητικὸν βαρεῖαν ποιοῦσι (ἢ ἐν τῷ ἀναβαθμῷ τοῦ ἔκτασις):
-   * **āp** 5 Π: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 Π: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 Π: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 Π: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 Π: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 Π: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **Βαρὺς τῶν ῥιζῶν**, αἵτινες μετὰ ya, va, ra ἤρχοντο, ἢ αἵτινες μετὰ συμφώνου τούτων τῶν φθόγγων ἔχουσιν (Σαμprasāraṇa = ⟪सम्प्रसारण⟫):
 
@@ -194,16 +203,20 @@ z.B.
 ἡ παραδοσιαὶς ἐγχώριος ὀνομασία ταύτης τῆς παιδεύσεως τοῦ βαθμοῦ κατὰ τὸ βάθος ἐπὶ ῥήμασι μετὰ **ya** καὶ **va** ἐστὶν **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **Τὸ ἐκφυόμενον -ṛ** μετὰ ἑνὸς μόνου συμφώνου πρὸ τοῦ παθητικοῦ κλήσεως **-ya-** ἀντὶ **-ri-** τίθεται:
-   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Ἀλλὰ: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+* **kṛ** 8 U: **kriyate**, **kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Ἀλλὰ: **smṛ** 1 P: **smaryate**
+⟪स्मर्यते⟫
 
 6. **Ἐνία ῥίζαι ἐπὶ -an ἔχουσι διττὰς παθητικῆς κλήσεως κατασκευάς:**
    * μίαν **-an-ya**
    * μίαν **-ā-ya-** (τὸ μακρὸν **ā** ἐστὶν ἀντικατάστασις ὑποθετικοῦ μακροῦ nasalis)
 
 οἷον **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (ἐκ \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (ἐκ \*tn-ya-nte) <!-- TODO: Fallback translation -->
 
 ## 10.5. Λεξιλόγιον
 
@@ -214,21 +227,21 @@ z.B.
 - **nagara** n. ⟪नगर⟫ : πόλις
 
   ::: note-box
-**yajña** m. ⟪यज्ञ⟫ : θυσία
+  **yajña** m. ⟪यज्ञ⟫ : θυσία
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : θυσία
 
   ::: note-box
-τὴν θυσίαν ἐν ταῖς Ἰνδοῖς πρὸ πάντων ἐστὶ τιμὴ τοῦ θεοῦ ὡς ξένου. διὰ ταύτης ὑποχρεοῖται τὸν θεόν.
+  τὴν θυσίαν ἐν ταῖς Ἰνδοῖς πρὸ πάντων ἐστὶ τιμὴ τοῦ θεοῦ ὡς ξένου. διὰ ταύτης ὑποχρεοῖται τὸν θεόν.
 
-Σύνταξις λέξεων: **yaj** 1 U + kṛt-Suffix **-na-**.
+  Σύνταξις λέξεων: **yaj** 1 U + kṛt-Suffix **-na-**.
   :::
 
 - **puṇya** n. ⟪पुण्य⟫ : ἔργον ἀγαθόν, 
 
   ::: note-box
-**satya** n. ⟪सत्य⟫ : ἀλήθεια
+  **satya** n. ⟪सत्य⟫ : ἀλήθεια
   :::
 
 - **pāpa** n. ⟪पाप⟫ : κακοπραγία, τὸ κακόν (ἀντίθεσις πρὸς **puṇya**)
@@ -248,15 +261,15 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ex τῶν ἐκ δ�
 - **anṛta** n. ⟪अनृत⟫ : ψεῦδος, ἀλήθεια (ἀντίθεσις πρὸς **satya**)
 
   ::: note-box
-Wortbildung **an-** („un-“) + **ṛta** n.
+  Wortbildung **an-** („un-“) + **ṛta** n. <!-- TODO: Fallback translation -->
 
-**ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
   :::
 
-- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder <!-- TODO: Fallback translation -->
 
   ::: note-box
-Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
+  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
   :::
 
 ::: media

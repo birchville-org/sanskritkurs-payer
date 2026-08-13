@@ -90,7 +90,7 @@ de ello:
 
 ⟪निरोध⟫ m.: Detención, hacer detenerse
 
-* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, fantasma
+* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, fantasma &lt;!-- TODO: Fallback translation --&gt;
 
 ⟪योग⟫ m.: Enganche, conexión, unión, adquisición; Yoga
 

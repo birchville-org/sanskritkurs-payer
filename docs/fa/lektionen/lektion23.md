@@ -58,7 +58,7 @@ status: stable
 
 **یا**
 
-**hochstufige Wurzel + -i- + -tum** <!-- TODO: Fallback translation -->
+**ریشه عالی‌رتبه + -i- + -tum**
 
 **همخوان‌های پایانی ریشه پیش از -tum، دقیقاً همانند تغییرات پیش از -ta در اسم مفعول گذشته (PPP) دستخوش دگرگونی می‌شوند.**
 
@@ -79,16 +79,16 @@ status: stable
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+-ra- به عنوان درجه عالی برای -ṛ- در مصدر وجود دارد:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+ریشه‌های دیگر با -ṛ- در هجای ماقبل آخر، اگر an-iṭ باشند، به طور اختیاری -ra- یا -ar- دارند.
 
-## 23.3. مصدر (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln
+## 23.3. مصدر (⟪तुमुन्⟫) برای ریشه‌های آموخته‌شده تاکنون
 
 ⟪अद्⟫ ۲P ⟪अत्तुम्⟫
 ⟪अश्⟫ ۵Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫
@@ -266,7 +266,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 چیتورگاره = ⟪चित्तौडगढ⟫
 (منبع تصویر: [جزئیات](/licenses#lekt2302))
 :::
-## 23.6. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 23.6. تمرین تکراری
 
 لطفاً از هیچ ابزار کمکی استفاده نکنید!
 

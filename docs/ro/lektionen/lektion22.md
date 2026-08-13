@@ -145,6 +145,8 @@ Rădăcină cu **-a** + **-tya**
 ![](/images/lekt2202.webp)
 Fig.: ⟪कामदेवः⟫
 Sec. al XIX-lea
+Fig.: ⟪कामदेवः⟫
+Sec. al XIX-lea
 (Sursa imaginii: [Detalii](/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** a fi capabil, a putea
@@ -257,7 +259,7 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2204))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

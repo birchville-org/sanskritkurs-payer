@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 29
+# Lecziun 29
 
 ## 29.1. Utilisaziun dal Parasmaipada (⟪परस्मैपद⟫) ed Ātmanepada (⟪आत्मनेपद⟫) en il causativ
 
@@ -89,7 +89,7 @@ Abb.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (fontana d'imagines: [detagls](/rm/licenses#lekt2901))
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): doltsch, mitsch, doltsch; lent, debel
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): doltsch, mitsch, doltsch; lent, debel <!-- TODO: Fallback translation -->
 
 ⟪यथा⟫ Adv.: sco, quasi
 
@@ -158,17 +158,17 @@ Explicaziuns:
 
 ⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "attaccar, cunligar cun, unir cun"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva)
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "ancor pli"
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "pli ferm"
+⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "pli ferm" <!-- TODO: Fallback translation -->
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "vier" scome prefix d'in cumponì
 
-⟪राज्ञा⟫ Instr. sg. mask. zu ⟪राजन्⟫ m. "König"
+⟪राज्ञा⟫ Instr. sg. mask. zu ⟪राजन्⟫ m. "König" <!-- TODO: Fallback translation -->
 
-⟪स्वेषु⟫ : Lok. plur. mask. / neutr. zu ⟪स्व⟫ ⟪३⟫ "eigen (mein, dein, sein usw.)"
+⟪स्वेषु⟫ : Lok. plur. mask. / neutr. zu ⟪स्व⟫ ⟪३⟫ "eigen (mein, dein, sein usw.)" <!-- TODO: Fallback translation -->
 
 ⟪वर्त्मसु⟫ : Lok. plur. neutr. a ⟪वर्त्मन्⟫ n. "via, pista, sentier"
 

@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Lecția 61
 
@@ -34,7 +34,7 @@ Paradigmă:
 ### 61.1.2. Nume de rădăcină feminine în -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
 
 **Pe lângă formele cu terminațiile cazuale regulate, în Dat.Ab.Gen.Lok.sg. și Gen.pl. apar și forme după modelul femininelor polisilabice în -ī (⟪देवी⟫).**
 :::
@@ -114,7 +114,7 @@ Paradigme:
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Paradigmă:
+Paradigmă: <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ f. "Pământ"
 
@@ -162,7 +162,7 @@ Fig.: ⟪रथ्याप्वः⟫
 :::
 Paradigmă:
 
-⟪वधू⟫ f. "femeie tânără, mireasă"
+⟪वधू⟫ f. "femeie tânără, mireasă" <!-- TODO: Fallback translation -->
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -234,18 +234,26 @@ Paradigmă:
 **Intensivul semnifică:**
 
 *   **că o persoană sau un lucru face sau suferă în mod repetit ceea ce este exprimat de rădăcină**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el face din nou și din nou"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "el este (devine) adesea"  
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el face din nou și din nou"
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "el este (devine) adesea"
+:::
 
 *   **că o persoană sau un lucru face sau suferă intens ceea ce este exprimat de rădăcină:**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el face intens, el face cu sârg"  
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el face intens, el face cu sârg"
+:::
 
 *   **la rădăcinile care exprimă o mișcare, intensul semnifică mișcarea curbă:**  
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "el merge în curburi" (NU: "el merge des")  
+::: indent
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "el merge în curburi" (NU: "el merge des")
+:::
 
 *   **la unele rădăcini (enumerare: Kielhorn, Gramatică § 458b), intensul semnifică blamul:**  
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "el taie rău"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "el se așază rău"
+::: indent
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "el taie rău"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "el se așază rău"
+:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -280,10 +288,10 @@ Exemple:
 ⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
 ⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
 :::
-Regulile în detaliu la Kielhorn, Gramatikă § 461.
+Regulile în detaliu la Kielhorn, Gramatikă § 461. <!-- TODO: Fallback translation -->
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Exemple:
+Exemple: <!-- TODO: Fallback translation -->
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -438,14 +446,14 @@ Aveți în vedere semnificația de:
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ⟪हरिद्वार⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6105))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6103.webp)
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6103))
 :::
-### 61.4.3. Formare cu sufixul -kāmya, Parasmaipada
+### 61.4.3. Formare cu sufixul -kāmya, Parasmaipada <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Semnificație:**
@@ -570,7 +578,7 @@ Fig.:
 ::: indent
 **Dorință de binecuvântare**
 :::
-**Formare:**
+**Formare:** <!-- TODO: Fallback translation -->
 
 **Parasmaipada:**
 
@@ -650,7 +658,7 @@ Paradigmă:
 
 **⟪गो⟫ m.f. "bou, vacă" prezintă alternanță de grad al temei.** Vedeți explicația detaliată la Thumb-Hauschild § 296/7.
 :::
-Paradigme: Kielhorn, Grammatik § 153:
+Paradigme: Kielhorn, Grammatik § 153: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6115.webp)
@@ -727,7 +735,7 @@ După finalizarea cursului de sanscrită, începe cu adevărat „înotul” pro
 Fig.: ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), sec. al XII-lea/al XIII-lea d. Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6101))
-:::
+::: <!-- TODO: Fallback translation -->
 
 ::: no-header
 |   |   |
@@ -793,7 +801,7 @@ Sfârșitul cursului de sanscrită
 
 **lekt6118:** [Sursă imagine: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Accesat la 2009-03-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
 
-**lekt6117:** Poporul Apatani, Arunachal Pradesh [Sursă imagine: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Accesat la 2009-03-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
+**lekt6117:** Poporul Apatani, Arunachal Pradesh [Sursă imagine: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Accesat la 2009-03-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)] <!-- TODO: Fallback translation -->
 
 **lekt6101:** Halebidu (ಹಳೆಬೀಡು), sec. al XII-lea/al XIII-lea d.Hr. [Sursă imagine: Quadell / Wikipedia. Licență GNU FDL]
 

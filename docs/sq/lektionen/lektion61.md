@@ -6,7 +6,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 61
+# Mësimi 61
 
 ## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
 
@@ -234,18 +234,26 @@ Paradigma:
 **Das Intensivum bedeutet:**
 
 *   **dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Wurzel ausgedrückt wird**
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"
+:::
 
 *   **dass eine Person oder Sache intensiv tut oder erleidet, was durch die Wurzel ausgedrückt wird:**
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut intensiv, er tut tüchtig"
+::: indent
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut intensiv, er tut tüchtig"
+:::
 
 *   **bei Wurzeln, die eine Bewegung ausdrücken, bedeutet das Intensivum die gekrümmte Bewegung:**
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "er geht in Krümmungen" (NICHT: "er geht oft")
+::: indent
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "er geht in Krümmungen" (NICHT: "er geht oft")
+:::
 
 *   **bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht"
+::: indent
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht"
+:::
 :::
 ::: media
 ![](/images/lekt6104.webp)

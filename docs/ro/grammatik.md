@@ -3,108 +3,105 @@ aside: true
 outline: [2, 3]
 ---
 
-# Subiecte de gramatică
+# Grammatik Themen
 
 Această pagină oferă o prezentare sistematică a tuturor subiectelor gramaticale ale cursului de sanscrită. Fiecare dintre cele 61 de lecții este clasificată tematic aici.
 
-## 1. Fonetica și scriere (Saṃhitā și Lipi)
+## 1. Lautlehre & Schrift (Saṃhitā & Lipi)
 
-*   **Introducere în foneme**: Sistematică și pronunție -\> [Lecția 1](/ro/lektionen/lektion01)
+*   **Introducere în foneme**: Sistematică și pronunție -\> [Lecția 1](/lektionen/lektion01)
 *   **Introducere în scriere (Devanāgarī)**:
-    *   Vocale și consoane simple -\> [Lecția 40](/ro/lektionen/lektion40)
-    *   Consoane compuse (ligaturi) -\> [Lecția 41](/ro/lektionen/lektion41) și [Lecția 42](/ro/lektionen/lektion42)
+*   Vocale și consoane simple -\> [Lecția 40](/lektionen/lektion40)
+*   Consoane compuse (ligaturi) -\> [Lecția 41](/lektionen/lektion41) și [Lecția 42](/lektionen/lektion42)
 *   **Sandhi (asociere fonetică)**:
-    *   Sandhi pentru **-s/Visarga** final -\> [Lecția 2](/ro/lektionen/lektion02), [Lecția 3](/ro/lektionen/lektion03), [Lecția 30](/ro/lektionen/lektion30)
-    *   Sandhi pentru **-m, -e, -d** -\> [Lecția 4](/ro/lektionen/lektion04)
-    *   **Sandhi vocalic** -\> [Lecția 3](/ro/lektionen/lektion03), [Lecția 24](/ro/lektionen/lektion24)
-    *   Sandhi pentru **-n** -\> [Lecția 7](/ro/lektionen/lektion07)
-    *   Sandhi pentru **Nazale** -\> [Lecția 21](/ro/lektionen/lektion21), [Lecția 26](/ro/lektionen/lektion26)
-    *   Cerebralizare (**n -\> ṇ / s -\> ṣ**) -\> [Lecția 10](/ro/lektionen/lektion10), [Lecția 26](/ro/lektionen/lektion26)
-    *   Sandhi lexical (h-, ch-) -\> [Lecția 44](/ro/lektionen/lektion44), [Lecția 51](/ro/lektionen/lektion51)
-    *   **Sandhi consonantic** (rezumate) -\> [Lecția 16](/ro/lektionen/lektion16), [Lecția 43](/ro/lektionen/lektion43)
+*   Sandhi pentru **-s/Visarga** final -\> [Lecția 2](/lektionen/lektion02), [Lecția 3](/lektionen/lektion03), [Lecția 30](/lektionen/lektion30)
+*   Sandhi pentru **-m, -e, -d** final -\> [Lecția 4](/lektionen/lektion04)
+*   **Sandhi vocalic** -\> [Lecția 3](/lektionen/lektion03), [Lecția 24](/lektionen/lektion24)
+*   Sandhi pentru **-n** final -\> [Lecția 7](/lektionen/lektion07)
+*   Sandhi pentru **nasale** -\> [Lecția 21](/lektionen/lektion21), [Lecția 26](/lektionen/lektion26)
+*   Cerebralizare (**n -\> ṇ / s -\> ṣ**) -\> [Lecția 10](/lektionen/lektion10), [Lecția 26](/lektionen/lektion26)
+*   Sandhi lexical (h-, ch-) -\> [Lecția 44](/lektionen/lektion44), [Lecția 51](/lektionen/lektion51)
+*   **Sandhi consoanic** (rezumate) -\> [Lecția 16](/lektionen/lektion16), [Lecția 43](/lektionen/lektion43)
 
-## 2. Cuvinte (Morfologie)
+## 2. Wortkunde (Morphologie)
 
-### 2.1 Substantive și adjective (declinare)
+### 2.1 Substantive und Adjektive (Deklination)
 
-*   **Baze**: Teoria cazurilor -\> [Lecția 1](/ro/lektionen/lektion01), [Lecția 2](/ro/lektionen/lektion02)
-*   **Stemene în A** (Masculin și Neutru) -\> [Lecția 2](/ro/lektionen/lektion02), [Lecția 7](/ro/lektionen/lektion07)
-*   **Stemene în I și U** -\> [Lecția 3](/ro/lektionen/lektion03), [Lecția 27](/ro/lektionen/lektion27), [Lecția 52](/ro/lektionen/lektion52)
-*   **Stemene consonantice**:
-    *   Stemene în **-mant / -vant** -\> [Lecția 13](/ro/lektionen/lektion13)
-    *   Stemene în **-n** (Rājan, Ātman) -\> [Lecția 38](/ro/lektionen/lektion38)
-    *   Stemene simple consonantice -\> [Lecția 51](/ro/lektionen/lektion51), [Lecția 54](/ro/lektionen/lektion54)
-    *   Nume radicale în **-ā, -ī, -ū** -\> [Lecția 61](/ro/lektionen/lektion61)
-*   **Dualul (dualul)** substantivelor -\> [Lecția 49](/ro/lektionen/lektion49), [Lecția 50](/ro/lektionen/lektion50), [Lecția 53](/ro/lektionen/lektion53)
+*   **Baze**: Teoria cazurilor -\> [Lecție 1](/lektionen/lektion01), [Lecție 2](/lektionen/lektion02)
+*   **Stemuri în A** (Masculin & Neutru) -\> [Lecție 2](/lektionen/lektion02), [Lecție 7](/lektionen/lektion07)
+*   **Stemuri în I și U** -\> [Lecție 3](/lektionen/lektion03), [Lecție 27](/lektionen/lektion27), [Lecție 52](/lektionen/lektion52)
+*   **Stemuri consonantice**:
+*   Stemuri în **-mant / -vant** -\> [Lecție 13](/lektionen/lektion13)
+*   Stemuri în **-n** (Rājan, Ātman) -\> [Lecție 38](/lektionen/lektion38)
+*   Stemuri consonantice simple -\> [Lecție 51](/lektionen/lektion51), [Lecție 54](/lektionen/lektion54)
+*   Nume de rădăcină în **-ā, -ī, -ū** -\> [Lecție 61](/lektionen/lektion61)
+*   **Dualul (dualitatea)** numelor -\> [Lecție 49](/lektionen/lektion49), [Lecție 50](/lektionen/lektion50), [Lecție 53](/lektionen/lektion53)
 *   **Numere și comparație**:
-    *   Numere cardinale/ordinales -\> [Lecția 52](/ro/lektionen/lektion52)
-    *   Comparație (comparativ/superlativ) -\> [Lecția 53](/ro/lektionen/lektion53)
+*   Numeralle (cardinale/ordonale) -\> [Lecție 52](/lektionen/lektion52)
+*   Comparație (comparativ/superlativ) -\> [Lecție 53](/lektionen/lektion53)
 
-### 2.2 Pronume și adverbe
-
+### 2.2 Pronomina & Adverbien
 
 *   **Pronume**:
-    *   Pronume interogative și demonstrative → [Lecția 4](/ro/lektionen/lektion04)
-    *   Pronume relativ (yad) → [Lecția 19](/ro/lektionen/lektion19)
-    *   Pronume personale (persoana 1. și 2.) → [Lecția 46](/ro/lektionen/lektion46), [Lecția 47](/ro/lektionen/lektion47)
-    *   Pronume nehotărâte → [Lecția 37](/ro/lektionen/lektion37)
-*   **Adverbe și adresare**:
-    *   Formarea adverbelor → [Lecția 37](/ro/lektionen/lektion37), [Lecția 52](/ro/lektionen/lektion52)
-    *   Adresare politicoasă și vocativ → [Lecția 21](/ro/lektionen/lektion21), [Lecția 44](/ro/lektionen/lektion44)
+*   Pronume interogative și demonstrative -\> [Lecția 4](/lektionen/lektion04)
+*   Pronume relativ (yad) -\> [Lecția 19](/lektionen/lektion19)
+*   Pronume personale (persoana 1 și a 2-a) -\> [Lecția 46](/lektionen/lektion46), [Lecția 47](/lektionen/lektion47)
+*   Pronume nehotărâte -\> [Lecția 37](/lektionen/lektion37)
+*   **Adverbe și formulă de adresare**:
+*   Formarea adverbelor -\> [Lecția 37](/lektionen/lektion37), [Lecția 52](/lektionen/lektion52)
+*   Adresare politicoasă și vocativ -\> [Lecția 21](/lektionen/lektion21), [Lecția 44](/lektionen/lektion44)
 
-### 2.3 Verbe (Conjugare)
+### 2.3 Verben (Konjugation)
 
 *   **Sistemul de prezent (indicativ)**:
-    *   Terminații personale (persoana a 3-a, a 2-a, a 1-a) -\> [Lecția 6](/ro/lektionen/lektion06), [Lecția 44](/ro/lektionen/lektion44), [Lecția 39](/ro/lektionen/lektion39)
-    *   Clase tematice (1, 4, 6, 10) -\> [Lecția 6](/ro/lektionen/lektion06), [Lecția 28](/ro/lektionen/lektion28)
-    *   Clase atematice -\> [Lecția 17](/ro/lektionen/lektion17), [Lecția 33](/ro/lektionen/lektion33), [Lecția 7](/ro/lektionen/lektion07), [Lecția 31](/ro/lektionen/lektion31), [Lecția 8](/ro/lektionen/lektion08), [Lecția 30](/ro/lektionen/lektion30)
+*   Terminații personale (persoana a 3-a, a 2-a, a 1-a) -\> [Lecția 6](/lektionen/lektion06), [Lecția 44](/lektionen/lektion44), [Lecția 39](/lektionen/lektion39)
+*   Clase tematice (1, 4, 6, 10) -\> [Lecția 6](/lektionen/lektion06), [Lecția 28](/lektionen/lektion28)
+*   Clase atematice -\> [Lecția 17](/lektionen/lektion17), [Lecția 33](/lektionen/lektion33), [Lecția 7](/lektionen/lektion07), [Lecția 31](/lektionen/lektion31), [Lecția 8](/lektionen/lektion08), [Lecția 30](/lektionen/lektion30)
 *   **Alte timpuri și moduri**:
-    *   **Imperfect** (trecut) -\> [Lecția 32](/ro/lektionen/lektion32)
-    *   **Optativ și imperativ** -\> [Lecția 30](/ro/lektionen/lektion30), [Lecția 48](/ro/lektionen/lektion48)
-    *   **Perfect** (singular/plural) -\> [Lecția 34](/ro/lektionen/lektion34), [Lecția 35](/ro/lektionen/lektion35), [Lecția 36](/ro/lektionen/lektion36)
-    *   **Perfect (dual)** -\> [Lecția 60](/ro/lektionen/lektion60)
-    *   **Futur** (simplu și perifrastic) -\> [Lecția 26](/ro/lektionen/lektion26), [Lecția 61](/ro/lektionen/lektion61)
-    *   **Aorist** (trecut) -\> [Lecția 54](/ro/lektionen/lektion54), [Lecția 55](/ro/lektionen/lektion55), [Lecția 56](/ro/lektionen/lektion56), [Lecția 57](/ro/lektionen/lektion57), [Lecția 58](/ro/lektionen/lektion58)
+*   **Imperfect** (trecut) -\> [Lecția 32](/lektionen/lektion32)
+*   **Optativ și imperativ** -\> [Lecția 30](/lektionen/lektion30), [Lecția 48](/lektionen/lektion48)
+*   **Perfect** (singular/plural) -\> [Lecția 34](/lektionen/lektion34), [Lecția 35](/lektionen/lektion35), [Lecția 36](/lektionen/lektion36)
+*   **Perfect (dual)** -\> [Lecția 60](/lektionen/lektion60)
+*   **Futur** (simplu și periphrastic) -\> [Lecția 26](/lektionen/lektion26), [Lecția 61](/lektionen/lektion61)
+*   **Aorist** (trecut) -\> [Lecția 54](/lektionen/lektion54), [Lecția 55](/lektionen/lektion55), [Lecția 56](/lektionen/lektion56), [Lecția 57](/lektionen/lektion57), [Lecția 58](/lektionen/lektion58)
 *   **Forme verbale derivate**:
-    *   **Pasiv și cauzativ** -\> [Lecția 10](/ro/lektionen/lektion10), [Lecția 28](/ro/lektionen/lektion28), [Lecția 29](/ro/lektionen/lektion29)
-    *   **Intensivum și denominativa** -\> [Lecția 61](/ro/lektionen/lektion61)
-*   **Verbe la dual (dualitate)** -\> [Lecția 59](/ro/lektionen/lektion59), [Lecția 60](/ro/lektionen/lektion60)
+*   **Pasiv și cauzativ** -\> [Lecția 10](/lektionen/lektion10), [Lecția 28](/lektionen/lektion28), [Lecția 29](/lektionen/lektion29)
+*   **Intensiv și denominative** -\> [Lecția 61](/lektionen/lektion61)
+*   **Verbe la dual (dualitate)** -\> [Lecția 59](/lektionen/lektion59), [Lecția 60](/lektionen/lektion60)
 
-### 2.4 Derivare nominale și compuse
+### 2.4 Nominalbildungen & Komposita
 
-*   **Compuși (Samāsa)**:
-    *   **Dvandva** (compozitiv copulativ) -\> [Lecția 5](/ro/lektionen/lektion05), [Lecția 9](/ro/lektionen/lektion09)
-    *   **Tatpuruṣa** (determinativ) -\> [Lecția 15](/ro/lektionen/lektion15), [Lecția 18](/ro/lektionen/lektion18)
-    *   Compuși Upapada -\> [Lecția 51](/ro/lektionen/lektion51)
-    *   **Bahuvrīhi** (posesiv) -\> [Lecția 20](/ro/lektionen/lektion20)
-*   **Sufixe și participii**:
-    *   Sufixe importante (-a, -ana, -tra, etc.) -\> [Lecția 8](/ro/lektionen/lektion08), [Lecția 9](/ro/lektionen/lektion09)
-    *   **PPP** (Participiu Perfecț Passiv) -\> [Lecția 12](/ro/lektionen/lektion12), [Lecția 13](/ro/lektionen/lektion13)
-    *   **PPA** (Participiu Perfecț Activ) -\> [Lecția 52](/ro/lektionen/lektion52)
-    *   **Absolutiv și infinitiv** -\> [Lecția 22](/ro/lektionen/lektion22), [Lecția 23](/ro/lektionen/lektion23)
+*   **Komposita (Samāsa)**:
+    *   **Dvandva** (Kopulativkomposita) -\> [Lektion 5](/lektionen/lektion05), [Lektion 9](/lektionen/lektion09)
+    *   **Tatpuruṣa** (Determinativ) -\> [Lektion 15](/lektionen/lektion15), [Lektion 18](/lektionen/lektion18)
+    *   Upapada-Komposita -\> [Lektion 51](/lektionen/lektion51)
+    *   **Bahuvrīhi** (Possessiv) -\> [Lektion 20](/lektionen/lektion20)
+*   **Suffixe & Partizipien**:
+    *   Wichtige Suffixe (-a, -ana, -tra, etc.) -\> [Lektion 8](/lektionen/lektion08), [Lektion 9](/lektionen/lektion09)
+    *   **PPP** (Partizip Perfekt Passiv) -\> [Lektion 12](/lektionen/lektion12), [Lektion 13](/lektionen/lektion13)
+    *   **PPA** (Partizip Perfekt Aktiv) -\> [Lektion 52](/lektionen/lektion52)
+    *   **Absolutivum & Infinitiv** -\> [Lektion 22](/lektionen/lektion22), [Lektion 23](/lektionen/lektion23)
 
-## 3. Teoria propoziției (Sintaxă)
+## 3. Satzlehre (Syntax)
 
-*   **Propoziția nominală** -\> [Lecția 2](/ro/lektionen/lektion02)
-*   **Propoziția interogativă** -\> [Lecția 37](/ro/lektionen/lektion37)
+*   **Propoziția nominală** -\> [Lecție 2](/lektionen/lektion02)
+*   **Propoziția interogativă** -\> [Lecție 37](/lektionen/lektion37)
 *   **Utilizarea cazurilor**:
-    *   Propoziție nominală și nominativ -\> [Lecția 2](/ro/lektionen/lektion02)
-    *   Acuzativ (chiar și dublu) -\> [Lecția 7](/ro/lektionen/lektion07), [Lecția 11](/ro/lektionen/lektion11)
-    *   Instrumental -\> [Lecția 10](/ro/lektionen/lektion10)
-    *   Genitiv -\> [Lecția 14](/ro/lektionen/lektion14)
-    *   Dativ -\> [Lecția 24](/ro/lektionen/lektion24)
-    *   Ablativ -\> [Lecția 25](/ro/lektionen/lektion25)
-    *   Locativ -\> [Lecția 27](/ro/lektionen/lektion27)
+*   Propoziție nominală & Nominativ -\> [Lecție 2](/lektionen/lektion02)
+*   Acuzativ (chiar și dublu) -\> [Lecție 7](/lektionen/lektion07), [Lecție 11](/lektionen/lektion11)
+*   Instrumental -\> [Lecție 10](/lektionen/lektion10)
+*   Genitiv -\> [Lecție 14](/lektionen/lektion14)
+*   Dativ -\> [Lecție 24](/lektionen/lektion24)
+*   Ablativ -\> [Lecție 25](/lektionen/lektion25)
+*   Locativ -\> [Lecție 27](/lektionen/lektion27)
 *   **Propoziții subordonate**:
-    *   Propoziții relative -\> [Lecția 19](/ro/lektionen/lektion19)
-    *   Utilizarea participelor -\> [Lecția 12](/ro/lektionen/lektion12), [Lecția 44](/ro/lektionen/lektion44)
+*   Propoziții relative -\> [Lecție 19](/lektionen/lektion19)
+*   Utilizarea participelor -\> [Lecție 12](/lektionen/lektion12), [Lecție 44](/lektionen/lektion44)
 
-## 4. Metrică (Teoria versificației)
+## 4. Metrik (Verslehre)
 
-Filozofia și literatura sanscrită sunt adesea compuse în versuri. Metrica învață ritmul și structura acestor versuri.
+Filosofia și literatura sanscrită sunt adesea compuse în versuri. Metrica studiază ritmul și structura acestor versuri.
 
-*   **Introducere și Śloka** → [Lecția 45](/ro/lektionen/lektion45), [Lecția 53](/ro/lektionen/lektion53)
-*   **Metre avansate** (Trīṣṭubh, Jāgatī) → [Lecția 54](/ro/lektionen/lektion54)
-
-
+*   **Einführung & Śloka** -\> [Lektion 45](/lektionen/lektion45), [Lektion 53](/lektionen/lektion53)
+*   **Fortgeschrittene Metren** (Trīṣṭubh, Jāgatī) -\> [Lektion 54](/lektionen/lektion54)
 

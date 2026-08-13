@@ -43,7 +43,7 @@ status: stable
 | | **3. רבים** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
 | **אופטיב** | **3. סוג'** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
 | | **3. רבים** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
-| **בינוני נוכח** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
+| **בינוני נוכח** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | | <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box

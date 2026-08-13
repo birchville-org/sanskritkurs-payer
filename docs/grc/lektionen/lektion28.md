@@ -176,7 +176,7 @@ Jadavpur University Management building.
 | ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein |
 | ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken |
 | ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Εἶδος Παιδείας 2: ῥίζη μακρὰ φωνήεντος + -aya-**
@@ -191,7 +191,7 @@ Jadavpur University Management building.
 | ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
 | ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Εἶδος Παιδείας 3: ῥίζη βαθυτάτη + -aya-**
@@ -202,7 +202,7 @@ Jadavpur University Management building.
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Εἶδος Παιδεύσεως 4: Ῥίζη + -paya-**
@@ -214,7 +214,7 @@ Jadavpur University Management building.
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Ἀτακὰ σχήματα:**

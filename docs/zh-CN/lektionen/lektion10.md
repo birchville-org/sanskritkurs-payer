@@ -122,7 +122,8 @@ status: stable
 2. **用于表示完成某事所使用的手段或工具**
 3. **用于表示某人到达某地所经过的路径**
 4. **用于表达……的连接、结合或伴随**
-5. **在与后置词连用时，意为“与……一起，和”；例如：saha = ⟪सह⟫ = “与”** :br例如：br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = “与婆罗门一起”
+5. **在与后置词连用时，意为“与……一起，和”；例如：saha = ⟪सह⟫ = “与”**
+例如：br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = “与婆罗门一起”
 :::
 工具格（tṛtīyā）的其他用法将在稍后介绍。
 
@@ -173,17 +174,24 @@ status: stable
 ### 10.4.1. 关于被动语态构成的特殊规则
 
 1. **以 -i 或 -u 结尾的词根** 在被动后缀 **-ya-** 前延长其元音：
-   * **ji** 第一变位法：**jīyate**，**jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 第五变位法：**śrūyate**，**śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 第五变位法：**sūyate**，**sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+* **ji** 第一变位法：**jīyate**，**jīyante**
+⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 第五变位法：**śrūyate**，**śrūyante**
+⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 第五变位法：**sūyate**，**sūyante**
+⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **带有元音-a-的根，位于辅音之间**（鼻音、y、r、v除外）保持高重音：
-   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+* **labh** 1 Ā: **labhyate**, **labhyante**
+⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **某些词根在其最高级（或现在词干的音变阶段）构成被动语态**：
-   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+* **āp** 5 P: **āpyate**, **āpyante**
+⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante**
+⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante**
+⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **深层级：以 ya、va、ra 开头的动词，或这些音位于其他辅音之后者（Samprasāraṇa = ⟪सम्प्रसारण⟫）：**
 
@@ -196,16 +204,20 @@ status: stable
 动词中带有 **ya** 或 **va** 的深层结构，其传统的本土名称是 **Samprasāraṇa**（⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫）。
 
 5. **词尾的 -ṛ** 在单个辅音之后，遇到被动后缀 **-ya-** 时，替换为 **-ri-**：
-   * **kṛ** 第8类： **kriyate**，**kriyante** :br⟪⟪क्रियते⟫⟫，⟪⟪क्रियन्ते⟫⟫
-   * 但是： **smṛ** 第1类： **smaryate** :br⟪⟪स्मर्यते⟫⟫
+* **kṛ** 第8类： **kriyate**，**kriyante**
+⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* 但是： **smṛ** 第1类： **smaryate**
+⟪स्मर्यते⟫
 
 6. **某些以 -an 结尾的词根具有两种被动态词干构成的替代形式：**
    * 一种为 **-an-ya**
    * 一种为 **-ā-ya-**（长音 **ā** 代表一个假设的长鼻音）
 
 例如，**tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (源自 \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte**
+⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte**
+⟪तायते⟫, ⟪तायन्ते⟫ (源自 \*tn-ya-nte) <!-- TODO: Fallback translation -->
 
 ## 10.5. 词汇表
 
@@ -250,9 +262,9 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 - **anṛta** n. ⟪अनृत⟫ ：不真实，谎言（与 **satya** 相对）
 
   ::: note-box
-Wortbildung **an-** („un-“) + **ṛta** n.
+  Wortbildung **an-** („un-“) + **ṛta** n. <!-- TODO: Fallback translation -->
 
-**ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
   :::
 
 - **ṛṣi** m. ⟪ऋषि⟫ : 吠陀先知，吠陀诗歌作者
@@ -272,7 +284,7 @@ Wortbildung **an-** („un-“) + **ṛta** n.
 
 ## 10.6. 练习
 
-**A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform):**
+**A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform):** <!-- TODO: Fallback translation -->
 
 1. **sṛjati** (⟪सृजति⟫)
 2. **yudhyate** (⟪युध्यते⟫)

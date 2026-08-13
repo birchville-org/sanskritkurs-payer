@@ -32,7 +32,7 @@ Brahmanul a dorit eliberarea.
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
+⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
 S-a spus că vechii înțelepți vedici au spus doar adevărul.
@@ -125,7 +125,7 @@ Ce mănâncă și beau brahmanii?
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung019))
 :::
----
+--- <!-- TODO: Fallback translation -->
 
 ## Exerciții suplimentare
 
@@ -272,4 +272,4 @@ E) Translateți în sanscrită:
 ![](/images/uebung018.webp)
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung018))
-:::
+::: <!-- TODO: Fallback translation -->

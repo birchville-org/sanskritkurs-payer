@@ -93,7 +93,7 @@ status: stable
 ::: indent
 ⟪⟪दृश्⟫⟩ 3.sg.P ⟪⟪अ⟫⟩***⟪:sig[⟪द्राक्षी⟫]⟩***⟪⟪त्⟫⟩
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪⟪कृष्⟫⟩ 1P/6U 3.sg.P ⟪⟪अकार्क्षीत्⟫⟩ / ⟪⟪अ⟫⟩***⟪:sig[⟪क्राक्षी⟫]⟩***⟪⟪त्⟫⟩
@@ -141,10 +141,14 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 **⟪⟪अगसि⟫⟩ (« \*a-gm-si) ⟪⟪।⟫⟩ ⟪⟪अगथास्⟫⟩ ⟪⟪।⟫⟩ ⟪⟪अगत⟫⟩ (ב-P ל-⟪⟪गम्⟫⟩ יש את ה-aorist עם תנועת הנושא)**
 
 2.  ⟪⟪पद्⟫⟩ 4Ā הוא סדיר (למשל ⟪⟪अपत्सि⟫⟩), אך ב-3.sg.Ā יש לו את צורת ה-aorist שורש פסיבי:
-    ⟪⟪अपादि⟫⟩ "הוא הלך"
+::: indent
+⟪⟪अपादि⟫⟩ "הוא הלך"
+:::
 
 3.  ⟪⟪बुध्⟫⟩ Ā יכול לקבל באופן אופציונלי ב-3.sg.Ā את צורת ה-aorist שורש הפסיבי:
-    ⟪⟪अबोधि⟫⟩ / ⟪⟪अबुद्ध⟫⟩ "הוא הכיר"
+::: indent
+⟪⟪अबोधि⟫⟩ / ⟪⟪अबुद्ध⟫⟩ "הוא הכיר"
+:::
 :::
 ## 57.2. תרגיל
 

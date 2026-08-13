@@ -7,25 +7,25 @@ category: "Grammatik"
 status: stable
 ---
 
-# 22. lecke
+# 22. lecke <!-- TODO: Fallback translation -->
 
 ## 22.1. Az abszolútum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
 
 ::: grammar-box
 
-Ha a szanszkitban kifejezni akarjuk, hogy az alany (⟪कर्तृ⟩) cselekvése egy másik alany-cselekvésnek előzi meg, vagy azzal együtt jár melléktényezőként, az abszolútumot (⟪क्त्वा⟩ ⟪।⟩ ⟪ल्यप्⟩) használjuk. Tehát
+Ha a szanszkitban kifejezni akarjuk, hogy az alany (⟪कर्तृ⟩) cselekvése egy másik alany-cselekvésnek előzi meg, vagy azzal együtt jár melléktényezőként, az abszolútumot (⟪क्त्वा⟩ ⟪।⟩ ⟪ल्यप्⟩) használjuk. Tehát <!-- TODO: Fallback translation -->
 
-„miután ezt tette, azt teszi”; „ezt teszi, majd azt teszi”; „ennek következtében ezt teszi”; „jöttem, láttam és győztem” stb.
+„miután ezt tette, azt teszi”; „ezt teszi, majd azt teszi”; „ennek következtében ezt teszi”; „jöttem, láttam és győztem” stb. <!-- TODO: Fallback translation -->
 
-Az abszolútum egy igeképző határozószó, azaz sem ragozható, sem deklinálható, de mindig – néhány kivételtől eltekintve – ugyanazt az alanyt (⟪कर्तृ⟩) jelöli, mint a cselekvést, amelynek az abszolútummal kifejezett cselekvés előzi meg vagy amelyet kísér. Az abszolútum alanya tehát nominativusban (⟪प्रथमा⟩) vagy instrumentalisban (⟪तृतीया⟩) áll.
+Az abszolútum egy igeképző határozószó, azaz sem ragozható, sem deklinálható, de mindig – néhány kivételtől eltekintve – ugyanazt az alanyt (⟪कर्तृ⟩) jelöli, mint a cselekvést, amelynek az abszolútummal kifejezett cselekvés előzi meg vagy amelyet kísér. Az abszolútum alanya tehát nominativusban (⟪प्रथमा⟩) vagy instrumentalisban (⟪तृतीया⟩) áll. <!-- TODO: Fallback translation -->
 
 A összetételek mellett az abszolútum a szanszkrit egyik leggyakoribb kifejező eszköze.
 
-Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung.
+Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung. <!-- TODO: Fallback translation -->
 
 **Schema:**
 
-(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv)
+(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv) <!-- TODO: Fallback translation -->
 
 :::
 **Példák:**
@@ -44,7 +44,7 @@ Többes szám: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बाल�
 *   Igék igekötő (praeverbium) nélkül: absolutivum -tvā végzettel
 *   Igék igekötővel (praeverbiummal): absolutivum -ya, illetve -tya végzettel
 :::
-### 22.2.1. Igék igekötő (praeverbium) nélkül: absolutivum -⟪त्वा⟫ végzettel
+### 22.2.1. Igék igekötő (praeverbium) nélkül: absolutivum -⟪त्वा⟫ végzettel <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -88,7 +88,7 @@ Csak a tagadó **a-** / **an-** tűri meg a **-⟪त्वा⟫** képzőt: �
 
 ⟪प्राप्य⟫ „miután (...) megszerezte / megszerezte”
 :::
-#### 22.2.2.2. -ā végződésű gyökök
+#### 22.2.2.2. -ā végződésű gyökök <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -100,7 +100,7 @@ Csak a tagadó **a-** / **an-** tűri meg a **-⟪त्वा⟫** képzőt: �
 ::: indent
 ⟪उपस्थाय⟫ "miután (...) belépett / belep" ; (de előtag nélkül: ⟪स्थित्वा⟫)
 :::
-#### 22.2.2.3. Gyökök, amelyek a mély fokban rövid -i, -u, -ṛ végződésre végződnek
+#### 22.2.2.3. Gyökök, amelyek a mély fokban rövid -i, -u, -ṛ végződésre végződnek <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -112,7 +112,7 @@ Csak a tagadó **a-** / **an-** tűri meg a **-⟪त्वा⟫** képzőt: �
 ::: indent
 ⟪प्रस्तुत्य⟫ "miután (...) hangosan dicsért / dicsérte"
 
-⟪विस्मृत्य⟫ "miután (...) elfelejtett / felejtette el"
+⟪विस्मृत्य⟫ "miután (...) elfelejtett / felejtette el" <!-- TODO: Fallback translation -->
 
 ⟪संस्कृत्य⟫ „miután (...) az áldozatra előkészítette / előkészített”
 :::
@@ -134,7 +134,7 @@ Tő **-a** végződésű + **-tya**
 ::: indent
 ⟪विगम्य⟫ vagy ⟪विगत्य⟫ „miután (...) eltűnt / volt”
 :::
-## 22.3. Szószedet
+## 22.3. Szószedet <!-- TODO: Fallback translation -->
 
 **⟪काम⟫ m.:** vágy, kívánság; kivánatos ajándék, érzéki öröm, szerelem, szerelmes isten
 
@@ -162,14 +162,14 @@ davon:
 Kolkatta = কলকাতা
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** megérdemel (valami méltó lenni), szabad, köteles valamire, kell (a 2. személyben a ⟪अर्ह्⟫ + infinitívus gyakran enyhített parancsként hangzik: "Te kellene, hogy...")
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** megérdemel (valami méltó lenni), szabad, köteles valamire, kell (a 2. személyben a ⟪अर्ह्⟫ + infinitívus gyakran enyhített parancsként hangzik: "Te kellene, hogy...") <!-- TODO: Fallback translation -->
 
 ::: indent
 **⟪अर्हन्त्⟫ 3** Part. Präs. P: egy méltó. Buddhizmusban és dzsainizmusban: az, aki elérte a végső megszabadulást
 :::
 **⟪व्रत⟫ n.:** fogadalom, vallási kötelesség, vallási megfigyelés (valaki ígéretet tesz az istenségnek, hogy valamit elérjen tőle. Példa: egy anya megígéri, hogy leányát templomi prostituáltaként (⟪देवदासी⟫) adja oda, ha leánya újra egészséges lesz. Fontos ⟪व्रत⟫ ma: böjt; a kedvelt ételektől való tartózkodás; szexuális önmegtartóztatás; szent írások olvasása; bizonyos rítusok végrehajtása; bráhmanák etetése stb. Röviden a ⟪व्रत⟫-ről: Walker, Hindu World II. kötet, 581–582. oldal. Részletesen: P. V. Kane: History of Dharmaśāstra V. kötet, 1. rész, 1–462. oldal. Ott a 253–462. oldalon ⟪व्रत⟫ és vallási ünnepek listája ("a következő lista ... nem igényel teljes teljességet" !!!)
 
-**⟪चर्⟫ 1 P. charati Pass. charyate PPP charita Inf. charitum (Szanszkrit: ⟪चर्⟫ 1 P. ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫):** legelt, barangol, mozog, cselekszik, gyakorol, véghezvisz (pl. **⟪व्रतं⟫ ⟪चर्⟫**: fogadalmat teljesít, különösen szexuális tartózkodás)
+**⟪चर्⟫ 1 P. charati Pass. charyate PPP charita Inf. charitum (Szanszkrit: ⟪चर्⟫ 1 P. ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫):** legelt, barangol, mozog, cselekszik, gyakorol, véghezvisz (pl. **⟪व्रतं⟫ ⟪चर्⟫**: fogadalmat teljesít, különösen szexuális tartózkodás) <!-- TODO: Fallback translation -->
 
 ebből:
 
@@ -229,7 +229,7 @@ Goa = ⟪गोंय⟫
 35.  ⟪प्रवद्⟫
 36.  ⟪हन्⟫
 
-**B) Fordítsa le és bontsa fel a szanszkrit összetételeket:**
+**B) Fordítsa le és bontsa fel a szanszkrit összetételeket:** <!-- TODO: Fallback translation -->
 
 ⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदासो⟫ ⟪ऽत्ति⟫ ⟪॥१॥⟫
 
@@ -268,5 +268,5 @@ Goa = ⟪गोंय⟫
 **lekt2203:** Kolkatta = কলকাতা [Képmegjelenítés forrása: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Hozzáférés: 2008-12-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
 **lekt2204:** [Képmegjelenítés forrása: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Hozzáférés: 2008-12-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
-:::
+::: <!-- TODO: Fallback translation -->
 

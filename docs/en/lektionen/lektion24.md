@@ -1,15 +1,16 @@
 ---
-title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+title: "Lesson 24"
+subtitle: 'The Dative (⟪चतुर्थी⟫ = "fourth case ending")'
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lesson 24
 
-## 24.1. The Dativeee (⟪चतुर्थी⟫ = "fourth case ending")
+## 24.1. The Dative (⟪चतुर्थी⟫ = "fourth case ending")
 
 ::: grammar-box
 **1. To express the purpose or intention ("in order to") of an action, instead of the infinitive (⟪तुमुन्⟫), one can also use a noun with a kṛt suffix, which denotes an action or state, in the dative (⟪चतुर्थी⟫ = "fourth case ending").**
@@ -20,32 +21,32 @@ instead of:
 
 :::
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनं श्रोतुं गतः ।⟫
 :::
 one can also say:
 
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनस्य श्रवणाय गतः ।⟫
 
 or:
 
-⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनश्रवणाय गतः ।⟫
 :::
-= "Rāma has gone to hear the teacher's speech."
+= "Rāma has gone in order to hear the teacher's speech."
 ::: media
 ![](/images/lekt2404.webp)
-Fig.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
+Fig.: ⟪बाला गुरुश्रवणाय गताः⟫
 (Image source: [Details](/en/licenses#lekt2404))
 :::
 
 ::: grammar-box
-**2. The dative (⟪चतुर्थी⟫) can also denote the object of an infinitive of purpose to be supplied:**
+**2. The dative (⟪चतुर्थी⟫) can also denote the object of an infinitive of purpose that needs to be supplied:**
 
 Example:
 
 :::
 ::: indent
-⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "He goes to the village for the purpose of fruits = He goes to the village to fetch fruits."
+⟪फलेभ्यो ग्रामं गच्छति⟫ = "He goes to the village for the purpose of fruits = He goes to the village in order to fetch fruit."
 :::
 **In the same way, the dative (⟪चतुर्थी⟫) denotes the purpose of a thing or an action:**
 
@@ -57,52 +58,52 @@ Example:
 ::: media
 ![](/images/lekt2401.webp)
 Fig.: ⟪यज्ञायान्नम्⟫
-'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
+'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
 (Image source: [Details](/en/licenses#lekt2401))
 :::
 
 ::: grammar-box
-**3. The dative (⟪चतुर्थी⟫) also denotes the person or thing for which the object of an action is intended (indirect object; question: to whom?). (But note the verbs with double accusative (⟪द्वितीया⟫)!)**
+**3. The dative (⟪चतुर्थी⟫) also denotes the person or thing for which the object of an action is intended (indirect object; question: to whom?). (However, note the verbs with double accusative (⟪द्वितीया⟫)!)**
 
 Example:
 
 :::
 ::: indent
-⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "He gives Rāma a fruit." (Root ⟪दा⟫ 3. Present class)
+⟪रामाय फलं ददाति⟫ = "He gives Rāma a fruit." (Root ⟪दा⟫, Class 3 present)
 :::
 ::: media
 ![](/images/lekt2402.webp)
-Fig.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
+Fig.: ⟪बाला बालाय रक्षबन्धनं ददाति⟫
 Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
 (Image source: [Details](/en/licenses#lekt2402))
 :::
 
 ::: grammar-box
-**4. The dative occurs with some verbs (and some other words) similarly to German, answering the question "to whom?":**
+**4. The dative is used with certain verbs (and some other words) similar to German, answering the question "to whom?":**
 
 Examples:
 
 :::
 ::: indent
-⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "The god is angry with the men."
+⟪क्रुध्⟫ : ⟪देवो नरेभ्यो क्रुध्यति⟫ = "The god is angry with the men."
 
-⟪अलम्⟫ Adverb: "enough, sufficient, equal to": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "a warrior is equal to another warrior"
+⟪अलम्⟫ Adverb: "enough, sufficient, equal": ⟪अलं योधो योधाय⟫ = "a warrior is the match of another warrior"
 :::
 ::: media
 ![](/images/lekt2403.webp)
-Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
+Fig.: ⟪अलं योधो योधाय⟫
 "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
 (Image source: [Details](/en/licenses#lekt2403))
 :::
 Further uses of the dative later.
 
-## 24.2. Formation of the Dativeee (⟪चतुर्थी⟫)
+## 24.2. Formation of the Dative (⟪चतुर्थी⟫)
 
 ::: grammar-box
-**The regular endings of the Dativeee are:**
+**The regular endings of the dative are:**
 
 * **Singular: -e ; vowel-ending feminine stems: -ai**
-* **Plural: Dativeee and Ablativeee ⟪पञ्चमी⟫: -bhyas**
+* **Plural: Dative and Ablative ⟪पञ्चमी⟫: -bhyas**
 :::
 ### 24.2.1. Consonant Stems
 
@@ -144,48 +145,48 @@ Further uses of the dative later.
 **Vowel Stems**
 
 * **Masculines / Neuters in -a:** ⟪देव⟫
-  * Dat. sg. **⟪देवाय⟫**
-  * Dat. pl. **⟪देवेभ्यस्⟫**
+* Dat. sg. ⟪देवाय⟫
+* Dat. pl. ⟪देवेभ्यस्⟫
 * **Masculines in -i:** ⟪कवि⟫
-  * Dat. sg. **⟪कवये⟫**
-  * Dat. pl. **⟪कविभ्यस्⟫**
+* Dat. sg. ⟪कवये⟫
+* Dat. pl. ⟪कविभ्यस्⟫
 * **Masculines in -u:** ⟪पशु⟫
-  * Dat. sg. **⟪पशवे⟫**
-  * Dat. pl. **⟪पशुभ्यस्⟫**
+* Dat. sg. ⟪पशवे⟫
+* Dat. pl. ⟪पशुभ्यस्⟫
 * **Feminines in -ā:** ⟪देवता⟫
-  * Dat. sg. **⟪देवतायै⟫**
-  * Dat. pl. **⟪देवताभ्यस्⟫**
+* Dat. sg. ⟪देवतायै⟫
+* Dat. pl. ⟪देवताभ्यस्⟫
 * **Feminines in -ī:** ⟪देवी⟫
-  * Dat. sg. **⟪देव्यै⟫**
-  * Dat. pl. **⟪देवीभ्यस्⟫**
+* Dat. sg. ⟪देव्यै⟫
+* Dat. pl. ⟪देवीभ्यस्⟫
 * **Feminines in -i:** ⟪श्रुति⟫
-  * Dat. sg. **⟪श्रुतये⟫** or **⟪श्रुत्यै⟫** (i.e., like ⟪कवि⟫ or like ⟪देवी⟫)
-  * Dat. pl. **⟪श्रुतिभ्यस्⟫**
+* Dat. sg. ⟪श्रुतये⟫ or ⟪श्रुत्यै⟫ (i.e., like ⟪कवि⟫ or like ⟪देवी⟫)
+* Dat. pl. ⟪श्रुतिभ्यस्⟫
 * **Feminines in -u:** ⟪धेनु⟫
-  * Dat. sg. **⟪धेनवे⟫** or **⟪धेन्वै⟫**
-  * Dat. pl. **⟪धेनुभ्यस्⟫**
+* Dat. sg. ⟪धेनवे⟫ or ⟪धेन्वै⟫
+* Dat. pl. ⟪धेनुभ्यस्⟫
 :::
 ## 24.3. Sandhi of final -ai and -au
 
 ::: grammar-box
 **Sandhi of final -ai and -au**
 
-* **-ai before a vowel-initial word is generally replaced by -ā (rarely by -āy as within a word)**
+* **-ai before a vowel-initial word is generally replaced by -ā (rarely by -āy, as within the word)**
 * **-au before a vowel is generally replaced by -āv (rarely by -ā)**
 
 Example:
 
 :::
 ::: indent
-⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "to this fire"
+⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा अग्नये⟫ = "to this fire"
 :::
 ## 24.4. Vocabulary List
 
-⟪अलम्⟫ Adverb: enough, sufficient, equal to (someone, something); with Dativeee: enough for, sufficient for, equal to; with Instrumental: enough with, desist from, e.g. ⟪अलं⟫ ⟪क्रोधेन⟫ = "enough with the anger = desist from anger!"
+⟪अलम्⟫ Adverb: enough, sufficient; equal to (someone or something); with Dative: enough for, sufficient for, equal to ; with Instrumental: enough with, stop , e.g. ⟪अलं क्रोधेन⟫ = "enough with the anger = stop being angry!"
 
-In the same way as ⟪अलम्⟫ with the Instrumental is used:
+In the same way as ⟪अलम्⟫ with Instrumental is used:
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "It is done with the anger = desist from anger!"
+⟪कृतम्⟫ : ⟪कृतं क्रोधेन⟫ = "It is done with the anger = stop being angry!"
 
 ⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : to adorn
 
@@ -197,9 +198,9 @@ In the same way as ⟪अलम्⟫ with the Instrumental is used:
 Fig.: ⟪अलंकारः⟫
 (Image source: [Details](/en/licenses#lekt2405))
 :::
-⟪हेतु⟫ m.: motive, incitement, cause, reason; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ with Genitive or as the second member of a compound = "for the sake of ..., because of"
+⟪हेतु⟫ m.: impulse, motivation, cause, reason ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ with Genitive or as the second member of a compound = "for the sake of ..., because of"
 
-⟪प्रतिमा⟫ f.: portrait, image
+⟪प्रतिमा⟫ f.: image, likeness
 
 ::: media
 ![](/images/lekt2406.webp)
@@ -207,7 +208,7 @@ Fig.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Image source: [Details](/en/licenses#lekt2406))
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : occur, happen, arise
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : to occur, happen, arise
 
 From ⟪वृत्⟫:
 
@@ -216,26 +217,26 @@ From ⟪वृत्⟫:
 
 ⟪वृत्त⟫ n.: behavior
 :::
-⟪अभि⟫ Pref.:  be-, after - towards, to - towards, against, in - into, with regard to, on, over, at
+⟪अभि⟫ Preverb:  be-, towards - there, to - here, to - there, against, into -, with regard to, on, over, at
 
-⟪नि⟫ Pref.: downwards, down, into, backwards
+⟪नि⟫ Preverb: downwards, down, in, backwards
 
-⟪आ⟫ Preposition / Postposition: before Ablativeee or after Accusative: as far as, up to ; with Ablativeee: from, from, since
+⟪आ⟫ Preposition / Postposition: before Ablative or after Accusative: up to, as far as ; with Ablative: from here, from then, since
 
-⟪अतस्⟫ Indeclinable: from there, then, therefore, hence (Pronominal stem a- "this" + Ablativeee suffix -tas)
+⟪अतस्⟫ Indeclinable: from there, then, therefore (Pronominal stem a- "this" + Ablative suffix -tas)
 
-⟪अध्यक्ष⟫ m.: supervisor, department head ; eyewitness
+⟪अध्यक्ष⟫ m.: overseer, department head ; eyewitness
 
-⟪इन्द्रिय⟫ n.: power, sense organ
+⟪इन्द्रिय⟫ n.: strength, sense organ
 
 ⟪ऊह⟫ m.: consideration, argumentation
 
-thereof
+from that
 
 ::: indent
 ⟪अपोह⟫ m.: negation (⟪अप⟫ + ⟪ऊह⟫)
 
-⟪ऊहापोह⟫ m.: discussion of the pros and cons
+⟪ऊहापोह⟫ m.: discussion of pros and cons
 :::
 ::: media
 ![](/images/lekt2407.webp)
@@ -247,14 +248,14 @@ Fig.: ⟪ऊहापोहः⟫
 
 ⟪कुप्य⟫ n.: forest product, metal (not precious metal)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : see, become visible ; name, explain, communicate
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : to see, become visible ; to name, explain, communicate
 
 ::: indent
-⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : tell
+⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : to tell
 
-thereof:
+from that:
 
-⟪आख्यान⟫ n.: narrative
+⟪आख्यान⟫ n.: narrative, story
 :::
 ::: media
 ![](/images/lekt2408.webp)
@@ -264,9 +265,9 @@ Fig.: ⟪आख्यानम्⟫
 :::
 
 ::: indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : count up, calculate
+⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : to add up, calculate
 
-thereof:
+from that:
 
 ⟪संख्या⟫ f.: counting, enumeration ; ⟪सांख्य⟫ n.: one of the six philosophical systems (short: Basham, Wonder p. 326f.)
 :::
@@ -276,152 +277,135 @@ thereof:
 
 ⟪तत्त्व⟫ n.: true nature, truth, reality (⟪तद्⟫ + ⟪त्व⟫ = this-ness)
 
-⟪स्वस्ति⟫ f.: happiness, salvation (nominal formation from ⟪सु⟫ ⟪अस्ति⟫ = "it is good")
+⟪स्वस्ति⟫ f.: happiness, salvation (nominal formation from ⟪सु अस्ति⟫ = "it is good")
 
-⟪नमस्⟫ n.: bowing, reverence, greeting (declension later). Greeting formula: ⟪नमो⟫ ⟪नमः⟫
+⟪नमस्⟫ n.: bowing, reverence, greeting (declension later). Greeting formula: ⟪नमो नमः⟫
 
-thereof:
+from that:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : bow, revere, greet
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : to bow, revere, greet
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuscript of the ⟪गीतगोविन्द⟫, 1730 AD
+Fig.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE
 (Image source: [Details](/en/licenses#lekt2411))
 :::
 ⟪स्वागत⟫ n.: welcome (from su-ā-gata)
 
 ⟪तृण⟫ n.: blade of grass
 
-⟪पुनर्⟫ Adverb: again, back, but
+⟪पुनर्⟫ Adverb: again, back, return, but
 
 ## 24.5. Exercise
 
-A) Form the Dativeee Singular and the Dativeee/(Ablativeee) Plural and give the meaning of the nominal stem:
+A) Form the Dative Singular and the Dative/(Ablative) Plural and provide the meaning of the nominal stem:
 
-1.  ⟪श्रव⟫
-2.  ⟪भवन⟫
-3.  ⟪गति⟫
-4.  ⟪ऋषि⟫
-5.  ⟪सुख⟫
-6.  ⟪गमन⟫
-7.  ⟪जय⟫
-8.  ⟪साधु⟫
-9.  ⟪धेनु⟫
-10.  ⟪शुद्रा⟫
-11.  ⟪ब्राह्मणी⟫
-12.  ⟪अग्नि⟫
-13.  ⟪एतद्⟫ ⟪३⟫
-14.  ⟪सन्त्⟫
-15.  ⟪बुद्धिमन्त्⟫
-16.  ⟪यज्ञ⟫
-17.  ⟪वचन⟫
-18.  ⟪सत्यवन्त्⟫
-19.  ⟪स्मृति⟫
-20.  ⟪सर्ग⟫
-21.  ⟪स्वर्ग⟫
-22.  ⟪दर्शन⟫
-23.  ⟪सृष्टि⟫
-24.  ⟪अर्हन्त्⟫
-25.  ⟪भक्ति⟫
-26.  ⟪दोष⟫
-27.  ⟪पूजा⟫
-28.  ⟪दासी⟫
-29.  ⟪गुरु⟫
+1. ⟪श्रव⟫
+2. ⟪भवन⟫
+3. ⟪गति⟫
+4. ⟪ऋषि⟫
+5. ⟪सुख⟫
+6. ⟪गमन⟫
+7. ⟪जय⟫
+8. ⟪साधु⟫
+9. ⟪धेनु⟫
+10. ⟪शुद्रा⟫
+11. ⟪ब्राह्मणी⟫
+12. ⟪अग्नि⟫
+13. ⟪एतद् ३⟫
+14. ⟪सन्त्⟫
+15. ⟪बुद्धिमन्त्⟫
+16. ⟪यज्ञ⟫
+17. ⟪वचन⟫
+18. ⟪सत्यवन्त्⟫
+19. ⟪स्मृति⟫
+20. ⟪सर्ग⟫
+21. ⟪स्वर्ग⟫
+22. ⟪दर्शन⟫
+23. ⟪सृष्टि⟫
+24. ⟪अर्हन्त्⟫
+25. ⟪भक्ति⟫
+26. ⟪दोष⟫
+27. ⟪पूजा⟫
+28. ⟪दासी⟫
+29. ⟪गुरु⟫
 
-B) Translate and resolve the following Sanskrit compounds:
+B) Translate and resolve the compounds into Sanskrit:
 
-⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥१॥⟫
+⟪ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विशति ॥१॥ नरा धनलाभाय व्रतानि चरन्ति ॥२॥ गुरुर्धर्मोपदेशाय नगरं गतः ॥३॥ बाला अपि गुरुवचनश्रुत्यै नगरं गताः ॥४॥ देवप्रतिमायै गृहं गर्भगृहम् ॥५॥ स्वर्गेभ्यो नराः पुण्यं कर्तुमिच्छन्ति ॥६॥ मोक्षार्थं बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥७॥ देवास्तेभ्यो ऽकृतपूजाब्राह्मणेभ्यः क्रुध्यन्ति ॥८॥ मरणाय जना जायन्ते ॥९॥⟫
 
-⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫
+C) Render sentences A) 1-4 into Sanskrit by replacing the Dative Infinitives (⟪तुमुन्⟫). Note that the infinitive governs the same case as the corresponding verb.
 
-⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫
+D) Replace in sentence A) 7 the construction with -⟪अर्थ⟫ by an equivalent dative.
 
-⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫
+E) Replace in sentence A) 6 the dative construction by an equivalent construction with -⟪अर्थ⟫
 
-⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫
-
-⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫
-
-⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫
-
-⟪देवास्तेभ्यो⟫ ⟪ऽकृतपूजाब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥८॥⟫
-
-⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫
-
-C) Render sentences A) 1-4 into Sanskrit by replacing the dative infinitives (⟪तुमुन्⟫). Note that the infinitive governs the same case as the corresponding verb.
-
-D) In sentence A) 7, replace the construction with -⟪अर्थ⟫ with an equivalent dative.
-
-E) In sentence A) 6, replace the dative construction with an equivalent construction using -⟪अर्थ⟫
-
-## 24.6. Further exercises on the use of the dative
+## 24.6. Further Exercises on the Use of the Dative
 
 Translate into Sanskrit:
 
-3\. Now it’s enough = Enough with the patience.
+1. The goddess, to whom no sacrifice has been offered, is angry with humans.
 
-3\. Now it’s enough = Enough with the patience.
+2. He lets the cow loose into the village.
 
-3\. Now it’s enough = Enough with the patience.
+3. Now it is enough = Enough with patience.
 
-4\. That is good (⟪हित⟫, ⟪सुख⟫) for a Brāhmaṇa.
+4. That is good (⟪हित⟫, ⟪सुख⟫) for a Brahmin.
 
-5\. Veneration (⟪नमस्⟩) be to Śiva! Veneration be to Śrī Gaṇeśa!
+5. Reverence (⟪नमस्⟫) be to Śiva! Reverence be to Śrī Gaṇeśa!
 
 ::: media
 ![](/images/lekt2409.webp)
-Fig.: ⟪श्रीगणेशाय⟩ ⟪नमः⟩
+Fig.: ⟪श्रीगणेशाय नमः⟫
 (Image source: [Details](/en/licenses#lekt2409))
 :::
-6\. Goodbye! (= Well-being (⟪स्वस्ति⟩ f.) to you!)
+6. Goodbye! (= Well-being (⟪स्वस्ति⟫ f.) to you!)
 
-7\. This fruit is sufficient for eating.
+7. This fruit is sufficient for eating.
 
-8\. A warrior is matched by the (other) warrior (⟪शक्त⟫).
+8. A warrior is a match for (the other) warrior (⟪शक्त⟫).
 
-9\. Even Viṣṇu does not surpass (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva.
+9. Even Viṣṇu does not surpass (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva.
 
-After I have bowed before the three sages (Acc.) (⟪नमस्कृ⟫)... He bows before Narasiṃha (Dat.).
+10. After I have bowed before the three sages (Acc.) (⟪नमस्कृ⟫)... He bows before Narasiṃha (Dat.)
 
 ::: indent
-Explanation: ⟪मुनित्रयम्⟩ "the triad of sages = the three sages" = the grammarians ⟪पाणिनि⟩, ⟪कात्यायन⟩, ⟪पतञ्जलि⟩
+Explanation: ⟪मुनित्रयम्⟫ "the triad of sages = the three sages" = the grammarians ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
 :::
 ::: media
 ![](/images/lekt2410.webp)
-Fig.: ⟪नरो⟩ ⟪नरसिंहाय⟩ ⟪नमस्करोति⟩
-⟪नरसिंह⟩ tears apart ⟪हिरण्यकशिपु⟩, page from a manuscript of the ⟪भागवतपुराण⟩
+Fig.: ⟪नरो नरसिंहाय नमस्करोति नरसिंह⟫ devours ⟪हिरण्यकशिपु⟫, page from a manuscript of the ⟪भागवतपुराण⟫
 (Image source: [Details](/en/licenses#lekt2410))
 :::
-11\. Welcome (⟪स्वागतम्⟫) to you. Welcome to the Queen.
+11. Welcome (⟪स्वागतम्⟫) to you. Welcome to the queen.
 
-12\. I wish you well-being (⟪कुशल⟫) = Well-being to you!
+12. I wish you well-being (⟪कुशल⟫) = Well-being to you!
 
-13\. He does not regard him as a blade of grass.
+13. He does not regard him as a blade of grass.
 
-14\. A single fruit suffices for food, and water for drinking.
+14. One fruit is sufficient for eating and water for drinking.
 
-15⟪१५⟩. Farewell! (Neo-Sanskrit: ⟪पुनर्दर्शनाय⟩)
+15⟪१५⟫. See you again! (Neusanskrit: ⟪पुनर्दर्शनाय⟫)
 
 ::: deleteme-box
 
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟩ = ⟪गोवर्धन⟩ ⟪पूजा⟩] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [Image source: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use)]
+**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [Image source: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use)]
 
 **lekt2402:** Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters. [Image source: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use, share alike)]
 
 **lekt2403:** "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820 [Image source: Wikipedia, Public domain]
 
-**lekt2404:** [Image source: nolasknab. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, no derivatives)]
+**lekt2404:** [Image source: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, no derivatives)]
 
-**lekt2405:** [Image source: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial, no derivatives)]
+**lekt2405:** [Image source: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
 
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Image source: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial)]
+**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Image source: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use)]
 
 **lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [Image source: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, share alike)]
 
-**lekt2408:** "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers." [Image source: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial)]
+**lekt2408:** "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers." [Image source: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use)]
 
 **lekt2409:** [Image source: Redtigerxyz / Wikipedia, GNU FDLicense]
 

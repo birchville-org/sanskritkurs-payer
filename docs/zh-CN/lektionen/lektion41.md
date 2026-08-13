@@ -5,7 +5,7 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # 第41课
 
@@ -44,7 +44,7 @@ status: stable
 
 Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā)
 :::
-例：
+例： <!-- TODO: Fallback translation -->
 
 ⟪यज्⟫ 1U, Part.Präs.Ā ⟪यजमान⟫ 3 “某人，以祭祀供奉自身利益者 = 祭祀之主”
 
@@ -73,7 +73,7 @@ Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā)
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
 | **⟪क्री⟫** 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. “被动必要性”的分词（Gerundivum）（⟪कृत्य⟫）
+### 41.2.2. “被动必要性”的分词（Gerundivum）（⟪कृत्य⟫） <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **为了表达被动必要性（“必须/应当被做”），可以选择使用以下后缀，从词根和派生动词词干构成形容词：**

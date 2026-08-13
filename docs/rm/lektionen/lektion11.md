@@ -1,84 +1,86 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
+title: "Lecziun 11"
+subtitle: "L’accusativ doppi (accusativ da la persuna e da la cosa)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 11
 
 ::: deleteme-box
-**En questa lecziun avais da aprender:**
-- L’accusativ doppi (accusativ da la persuna e da la cosa)
-- L’usi da la particla **iti**, **evam** e **na**
+**En questa lecziun apreni Vus:**
+- L’accusativ dopbel (accusativ da la persuna e da la cosa)
+- L’adoperaziun da las particlas **iti**, **evam** e **na**
 - Concepts base sco **dharma**, **adharma** e **putra**
-- La furmaziun da nomens sin las radis **vad**, **prach** e **iṣ**
+- La furmaziun da nomens sin las radischas **vad**, **prach** e **iṣ**
 :::
-## 11.1. Accusativ doppi
+## 11.1. Accusativ dopbel
 
 ::: grammar-box
-**Certains verbs poen regirar un accusativ doppi (dvitīyā): accusativ da la persuna e accusativ da la cosa.**
+**Certains verbs pon reger in accusativ dopbel (dvitīyā): accusativ da la persuna e accusativ da la cosa.**
 
-**Quai chatta qua:**
-- **Verbs da dir**: dir a qualchidun (Acusativ) davart quai (Acusativ); dir a qualchidun (Acusativ) quai (Acusativ) dir
-- **Verbs da dumandar**: dumandar qualchidun (Acusativ) davart quai (Acusativ)
-- **Verbs da instruir**: instruir qualchidun (Acusativ) quai (Acusativ)
-- ulteriurs verbs, nua ch'ei vegn markà en las listas da vart
+**Qua tutgan:**
+- **Verbs dal discurs**: dir a qualchidà (accusativ) davart quai che è (accusativ); dir a qualchidà (accusativ) quai ch’è (accusativ)
+- **Verbs dal dumandar**: dumandar qualchidà (accusativ) davart quai che è (accusativ)
+- **Verbs dal instruir**: instruir qualchidà (accusativ) quai che è (accusativ)
+- ulteriurs verbs, nua ch’i vegn annotà en las listas da vocabularis
 
-**Se metta questa costruzion al passiv, vegn la persuna (che vegn dumandada ecc.) messa en il nominativ (prathamā), la cosa (suenter la quala vegn dumandà ecc.) resta en l’accusativ.**
+**Sch’ina tala construcziun vegn posada en il passiv, vegn la persuna (che vegn dumandada ecc.) posada en il nominativ (prathamā), la cosa (davart quai che vegn dumandà ecc.) resta en l’accusativ.**
 
-z.B. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt den Brahmanen nach dem Dharma."
+p.ex. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma dumonda il brahman davart il dharma."
 » Passiv: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
 
-**Questa regola vale solo quando sia la persona sia la cosa sono oggetto. Se una cosa è l'unico oggetto, questa si trova nel nominativo (prathamā) secondo lo schema base da la frasa passiva:**
+**Questa regla vala mo, sche tant persuna sco era cosa èn object. Sche ina cosa è l’unic object, stat questa suenter il schemi dal frastg da passiv en il nominativ (prathamā):**
 
-z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt nach dem Dharma."
+p.ex. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma dumonda davart il dharma."
 » Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
 
-## 11.2. Glista da pleds
+## 11.2. Lista da vocabulari
 
-**Imparar las suentas suventas:**
+**Aprendi las suandantas paraulas:**
 
 - **iti** ⟪इति⟫ : uschè
-  - Sta *suenter* la formulaziun d’in pensament, in desideri, in discurs, ina citaziun sco ch’ina citaziun (").
-  - p.ex. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmans disan: 'Sants van en il tschiel'" = "Brahmans disan che sants van en il tschiel".
-  - En il sanscrit n’exista betg il discurs indirect; construcziuns cun **iti** mussian en il tudestg vegnir per part rendidas en discurs indirect.
-  - **... (citaziun) ... iti śrutiḥ** = "uschè il Veda".
-  - Spessegias è suenter **iti** da supponer in verb dal pensar: "pensond: '...' fa el quai". En il tudestg rendir idiomaticamain (p.ex. "Perqu’el ha faima, va el...").
+- Stat *suenter* la formulaziun d’in pensum, in desideri, ina decleraziun, ina citaziun quasi sco sign da citaziun (").
+- p.ex. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmans disan: 'Sants van en il paradís'" = "Brahmans disan, che sants van en il paradís".
+- En il sanscrit n’exista nagina citaziun indirecta; furmas cun **iti** mussian en il tudestg vegnir represchentadas per part en citaziun indirecta.
+- **... (citaziun) ... iti śrutiḥ** = "uschè il Veda".
+- Spesse giadas sto suenter **iti** vegnir pensà in verb dal pensar: "pensond: '...' fa el quai". Represchentar en il tudestg idiomaticamain (p.ex. "Perquai ch’el ha faima, va el...").
 
-- **evam** ⟪एवम्⟫ : usch (adverbial, per exempl **evaṃ jayati** "usch el gagna").
+- **evam** ⟪एवम्⟫ : uschè (adverbial, p.ex. **evaṃ jayati** "uschè victoria el").
 - **na** ⟪न⟫ : betg
-  - Negescha singulas paraulas (sacla immediatamain davant: **na sādhuḥ** "in betg bun") u intera frastas (sacla al cumenzament u immediatamain avant il verb).
+- Negescha singulas paraulas (stat immediatamain avant: **na sādhuḥ** "in betg bun") u frastgs entirs (stat al cumenzament u immediatamain avant il verb).
 
-- **putra** m. ⟪पुत्र⟫ : figl (En l'India era necessari da engendrar in figl che pudess offrir ils sacrificis per ils antenats.)
-- **dharma** m. ⟪धर्म⟫ : ("quai ch'è ferm", idest) dretg, lescha, usanza, caracter.
-  - Rescontra il pli savens la lescha da la natira/lescha morala. Mintgin ha suenter **varṇa** e **āśrama** (stadis da vita) ses devers spezials (**svadharma**).
-- **adharma** m. ⟪अधर्म⟫ : ingiustezza (contrari a **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : vulair (**iṣ-ccha-ti**).
+- **putra** m. ⟪पुत्र⟫ : figl (En l’India era necessari da generar in figl, che pudess preschentar ils sacrificis per ils antenats.)
+- **dharma** m. ⟪धर्म⟫ : ("quai ch’è ferm", id.e.) dretg, lescha, usanza, caracter.
+- Resguarda il pli baud la lescha da la natira/la lescha morala. Mintgin ha suenter **varṇa** e **āśrama** (stadis da la vita) sias propi obligaziuns (**svadharma**).
+- **adharma** m. ⟪अधर्म⟫ : dretg cuntrari (cuntrari a **dharma**).
+- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : desiderar (**iṣ-ccha-ti**).
 
-**Qualchidas formaziuns nominalas:**
+**Quai construcziuns nominalas:**
 
 - **vad** 1 P ⟪वद्⟫ : dir
-  - **vāda** m. ⟪वाद⟫ : dir
-  - **vadana** n. ⟪वदन⟫ : dir
+- **vāda** m. ⟪वाद⟫ : decleraziun, affermaziun, pled
+- **vadana** n. ⟪वदन⟫ : il dir; instrument da dir: bucca, visada
 
 ::: media
 ![](/images/lekt1102.webp)
 Abb.: **vadanāni** = ⟪वदनानि⟫
-(Bildquelle: [Detagl](/rm/licenses#lekt1102))
+(Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : dumandar
-  - **praśna** m. ⟪प्रश्न⟫ : dumonda (suffiss **-na** sco en **yaj-ña**)
+- **praśna** m. ⟪प्रश्न⟫ : dumanda (suffig **-na** sco en **yaj-ña**) <!-- TODO: Fallback translation -->
 
-- **iṣ** 6 P ⟪इष्⟫ : s’augir
-  - **iṣṭi** f. ⟪इष्टि⟫ : s’augir (**iṣ** + **-ti**)
+- **iṣ** 6 P ⟪इष्⟫ : vulair
+- **iṣṭi** f. ⟪इष्टि⟫ : desideri (**iṣ** + **-ti**)
+
 
 ## 11.3. Exercizi
 
-**A) Tradurrez las sentenzas sutastentas:**
+**A) Tradusìi ils suandants frasis:**
 
 1. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ |
 2. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ |
@@ -93,34 +95,34 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 11. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ | |
 12. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ||
 
-**B) Mettai las frasis da A) en construcziun dal passiv.**
+**B) Mettai ils frasis da A) en construcziun passiva.**
 
-**C) Metter en las frasis A), là nua ch’è pussaivel, il subject, l’object ed il predicat en il plural.**
+**C) Mettai en ils frasis da A), lura nua ch’è pussaivel, subject, object e predicat en il plural.**
 
-**D) Formai las construcziuns dal passiv per las frasis creadas sut C).**
+**D) Formai per ils frasis construids suenter C) la construcziun passiva.**
 
 ::: media
 ![](/images/lekt1101.webp)
 Abb.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Qua da l'imagina: [Detagls](/rm/licenses#lekt1101))
+(Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt1101))
 :::
 
-## 11.4. Wiederholungsübung
+## 11.4. Exercizi da repetiziun
 
-**A) Tradusci en Sanscrit cun construcziuns passivas:**
-1. Femnas da Vaiśya dumandan Brahmanes davart il Dharma.
-2. Il magister profetisescha in Mantra.
-3. Femnas saccradas arrivanes en in tschiel.
+**A) Tradusìi en sanscrit cun construcziuns passivas:**
+1. Dunas vaiśya dumandain brahmanas davart il dharma.
+2. Il magister declera in mantra.
+3. Dunas sgraziusas vegnan en in tschiel.
 4. In savis vedic fa nagut mal.
-5. Brahmanes aduleschan sco sacrificants la deessa cun sacrificis.
-6. La femna Śūdra va al vitg.
+5. Brahmanas adoran sco sacrificants la deessa cun sacrifices.
+6. La dunas śūdra va en il vitg.
 7. Tgi vescha la veritad?
 
 **B)**
-1. Datì cun in Dvandva las incumbensas da tut ils naschids duas giadas. Resolver il cumponì en Sanscrit.
-2. Datì cun in Dvandva las incumbensas dals Vaiśyas. Resolver il cumponì en Sanscrit.
+1. Dat cun in dvandva las incumbensas da tut ils dus giadas naschids. Resolvìi il composit en sanscrit.
+2. Dat cun in dvandva las incumbensas dals vaiśyas. Resolvìi il composit en sanscrit.
 
-**C) Traducir:**
+**C) Tradusìi:**
 
 1. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ | |
 2. ⟪कर्षर्कैः⟫ ⟪कृष्यते⟫ | |
@@ -131,17 +133,18 @@ Abb.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | |
 8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ||
 
-**D) Tradurretz e mettet en Sanscrit l’agent, l’object e il verb al plural:**
+**D) Tradusìi e mettai en sanscrit agent, object e verb en il plural:**
 
 1. ⟪फलमश्नुते⟫ | |
 2. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | |
 3. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ | |
 4. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ||
 
-**E) Trasforma le frasi C) 1-5 in costruzioni attive.**
+**E) Midai ils frasis C) 1-5 en construcziuns activas.**
 
 ::: media
 ![](/images/lekt1103.webp)
 Abb.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Bildquelle: [Detagl](/rm/licenses#lekt1103))
+(Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt1103))
 :::
+ <!-- TODO: Fallback translation -->

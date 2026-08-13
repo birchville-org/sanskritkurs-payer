@@ -5,9 +5,9 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
-# Lektion 25
+# Oppitunti 25 <!-- TODO: Fallback translation -->
 
 ## 25.1. Ablatiivin muodostus (⟪पञ्चमी⟫ = "viides sijamuoto")
 
@@ -19,7 +19,7 @@ Paitsi henkilöpronominien kohdalla pluralin ablatiivin muodot ovat kaikissa tai
 Nyt tunnistatte syyn syytapojen järjestysjärjestykselle (⟪विभक्ति⟫) sanskritissa: ne on järjestetty siten, että samannimiset muodot ovat mahdollisimman lähellä toisiaan – tai päällekkäin.
 
 ::: grammar-box
-**Maskuliinin / neutrin ablatiivin yksikkö -a-päätteisillä**
+**Maskuliinin / neutrin ablatiivin yksikkö -a-päätteisillä** <!-- TODO: Fallback translation -->
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
@@ -33,23 +33,23 @@ Kysymys-, suhde- ja demonstratiivipronominit:
 | ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
 | ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
 | ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
-| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
+| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) | <!-- TODO: Fallback translation -->
 
 :::
 ## 25.2. Ablatiivin käyttö (⟪पञ्चमी⟫)
 
-"Ablatiivi merkitsee sitä, mikä pysyy paikallaan, kun jokin lähtee siitä."
+"Ablatiivi merkitsee sitä, mikä pysyy paikallaan, kun jokin lähtee siitä." <!-- TODO: Fallback translation -->
 
 Pāṇini 2,3,28 + 1,4,24
 
-Ablatiivi vastaa ennen kaikkea kysymyksiin "Mistä?", "Miksi?".
+Ablatiivi vastaa ennen kaikkea kysymyksiin "Mistä?", "Miksi?". <!-- TODO: Fallback translation -->
 
 ::: grammar-box
-1\. Ablatiivi ilmaisee siis lähtökohtaa, alkuperää ja ainetta.
+1\. Ablatiivi ilmaisee siis lähtökohtaa, alkuperää ja ainetta. <!-- TODO: Fallback translation -->
 
 Ablatiivi voi siksi merkitä myös henkilöä, jolta ostaa, kuulla, toivoa jne.
 :::
-Esimerkkejä:
+Esimerkkejä: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪ग्रमादागच्छति⟫ = "Hän tulee kylästä"
@@ -68,7 +68,7 @@ Esimerkit:
 ::: grammar-box
 2\. Ablatiivi käytetään verbeissä, joilla on merkitykset "pidättää jostakin", "suojata jotakulta", "puolustaa jotain vastaan", "pelätä jotakin":
 :::
-Esimerkki:
+Esimerkki: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "suojaa vihollisilta"
@@ -81,18 +81,18 @@ Esimerkit:
 ::: indent
 ⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Hän surmaa poikansa vihanhulluudessa"
 
-⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Koska hän on tehnyt pahaa, hän joutuu helvettiin" (» Koska hän on sellainen, jonka kautta pahaa on tehty)
+⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Koska hän on tehnyt pahaa, hän joutuu helvettiin" (» Koska hän on sellainen, jonka kautta pahaa on tehty) <!-- TODO: Fallback translation -->
 
 ⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Koska hän tekee / teki pahaa, hän joutuu helvettiin"
 :::
-Substantiivit, jotka eivät ole feminiinejä, voivat ilmaista toiminnan syyn instrumentaalin (⟪तृतीया⟩) tai ablatiivin (⟪पञ्चमी⟩) sijassa. Feminiinit ovat tässä merkityksessä yleensä instrumentaalin sijassa, mutta voivat joskus olla myös ablatiivin sijassa.
+Substantiivit, jotka eivät ole feminiinejä, voivat ilmaista toiminnan syyn instrumentaalin (⟪तृतीया⟩) tai ablatiivin (⟪पञ्चमी⟩) sijassa. Feminiinit ovat tässä merkityksessä yleensä instrumentaalin sijassa, mutta voivat joskus olla myös ablatiivin sijassa. <!-- TODO: Fallback translation -->
 
 ## 25.3. Liite -⟪तस्⟫
 
 ::: grammar-box
 Jos halutaan ilmaista yksikössä (ytimekkäästi), että sanaa käytetään ablatiivisessa merkityksessä, voidaan sanajuureen liittää liite -⟪तस्⟫, joka muodostaa adverbien, joilla on yleensä ablatiivinen merkitys (kysymykseen "Mistä?"):
 :::
-Esimerkkejä:
+Esimerkkejä: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪आदितस्⟫ = "alusta alkaen"
@@ -103,20 +103,20 @@ Esimerkkejä:
 Liite -⟪तस्⟫ esiintyy myös pronominaalivarsissa:
 :::
 ::: indent
-⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "sieltä, siellä, sinne, siihen, sitten, siksi"
+⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "sieltä, siellä, sinne, siihen, sitten, siksi" <!-- TODO: Fallback translation -->
 
-⟪यद्⟫ : ⟪यतस्⟫ "joka, mistä, josta, miksi" (relatiivilause)
+⟪यद्⟫ : ⟪यतस्⟫ "joka, mistä, josta, miksi" (relatiivilause) <!-- TODO: Fallback translation -->
 
 ⟪किम्⟫ :  ⟪कुतस्⟫ "mistä?" "miksi?"
 :::
-## 25.4. Muut tavat ilmaista perusteluja
+## 25.4. Muut tavat ilmaista perusteluja <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **1\. Relatiivilauseet**
 
-Relatiivilauseet ilmaisevat usein kausaalisen (perustelun), konsekutiivisen (seuraamuksen) tai finalesen (tarkoituksen) suhteen päälauseeseen.
+Relatiivilauseet ilmaisevat usein kausaalisen (perustelun), konsekutiivisen (seuraamuksen) tai finalesen (tarkoituksen) suhteen päälauseeseen. <!-- TODO: Fallback translation -->
 
-Relatiivpronominien, jotka toimivat kausaalikonjunktionina:
+Relatiivpronominien, jotka toimivat kausaalikonjunktionina: <!-- TODO: Fallback translation -->
 
 *   ablatiivinen:
     *   ⟪यतस्⟫ ... alalause ... ⟪ततस्⟫ ... päälause ... = "koska ..., siksi ..."
@@ -134,17 +134,17 @@ Esimerkki:
 
 Päälausseita voidaan yhdistää toisiinsa partikkelilla ⟪हि⟩ "sillä, koska". Lause, jossa on ⟪हि⟩ (jonka ei saa olla ensimmäisenä, vaan sen on oltava toisena proosassa), antaa perustelun joko edelliseen lauseeseen tai seuraavaan lauseeseen:
 :::
-Esimerkki:
+Esimerkki: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Ihmiset tekevät ansioituneita asioita. He nimittäin haluavat päästä taivaaseen."
 :::
 ::: grammar-box
-**3\. Instrumentaali (⟪तृतीया⟫)**
+**3\. Instrumentaali (⟪तृतीया⟫)** <!-- TODO: Fallback translation -->
 
 Ablatiivin (⟪पञ्चमी⟫) ohella instrumentaalia (⟪तृतीया⟫) käytetään syyn tai aiheen ilmaisemiseen. Naispuolisten substantiivien kohdalla instrumentaali on yleensä pakollinen.
 :::
-Esimerkki:
+Esimerkki: <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Hän lyö poikansa kuoliaaksi vihan vuoksi" = "Hän lyö poikansa kuoliaaksi vihassa"
@@ -152,7 +152,7 @@ Esimerkki:
 ::: grammar-box
 **4\. Substantiivit**
 
-Lisäksi perusteluja voidaan tietenkin ilmaista myös konstruktioiden avulla
+Lisäksi perusteluja voidaan tietenkin ilmaista myös konstruktioiden avulla <!-- TODO: Fallback translation -->
 
 *   ⟪कारण⟫ n. "syy": ⟪कारणात्⟩ ⟪।⟫ ⟪कारणेन⟫
 *   ⟪हेतु⟫ m.
@@ -175,7 +175,7 @@ Esimerkki:
 ::: indent
 ⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟩  = "Koska Sugata on täydellisesti valaistunut totuuteen, Ānanda kysyy Gautamalta hänen opetuksensa" (« "Ajatellen 'Sugata on täydellisesti valaistunut totuuteen' ...)
 :::
-## 25.5. Sanalista
+## 25.5. Sanalista <!-- TODO: Fallback translation -->
 
 ⟪त्यज्⟫ 1P ⟪त्यजति⟫  jättää, luovuttaa, hylätä
 
@@ -190,7 +190,7 @@ siitä:
 
 ⟪त्याग⟫ m.: antaminen, luopuminen, välttäminen
 :::
-⟪दार⟫ m. pl. (!!!): vaimo
+⟪दार⟫ m. pl. (!!!): vaimo <!-- TODO: Fallback translation -->
 
 ⟪द्रव्य⟫ n.: esine, omaisuus, aineellinen omaisuus, raha
 
@@ -201,7 +201,7 @@ siitä:
 Kuv.: ⟪धान्यम्⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : pitää, pitelemällä
+⟪धृ⟫ 1U ⟪धरति⟫ : pitää, pitelemällä <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪धरिष्यति⟫  
@@ -214,16 +214,16 @@ siitä:
 
 ⟪धर्म⟫ m.: se, mikä on vakaata ja pitää kiinni = Dharma
 :::
-⟪नित्य⟫ ⟪३⟫ : jatkuva, pysyvä, ikuinen
+⟪नित्य⟫ ⟪३⟫ : jatkuva, pysyvä, ikuinen <!-- TODO: Fallback translation -->
 
 ::: indent
 ⟪नित्यम्⟫ Adv.: aina, pysyvästi
 :::
-⟪प्रज्ञा⟫ f.: viisaus, tieto
+⟪प्रज्ञा⟫ f.: viisaus, tieto <!-- TODO: Fallback translation -->
 
 ⟪प्रदान⟫ n.: antaminen, lahjoittaminen ; lahja, annos
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : iloitsta, juopua jostakin (instruktivi, genetiivi, lokatiivi)
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : iloitsta, juopua jostakin (instruktivi, genetiivi, lokatiivi) <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪मदिष्यति⟫  
@@ -239,7 +239,7 @@ siitä:
 
 ⟪यदि⟫ konjunktio: jos
 
-⟪न्याय⟫ m.: sääntö, periaate, menetelmä, tuomio (oikeudellinen), logiikka (ni + i + a:sta)
+⟪न्याय⟫ m.: sääntö, periaate, menetelmä, tuomio (oikeudellinen), logiikka (ni + i + a:sta) <!-- TODO: Fallback translation -->
 
 ⟪अन्यथा⟫ adv.: muuten, väärin, virheellisesti
 
@@ -266,11 +266,11 @@ siitä:
 
 ⟪शिक्षा⟫ f.: tiede, opetus ; fonetiikka
 :::
-⟪स्तेन⟫ m.: varas
+⟪स्तेन⟫ m.: varas <!-- TODO: Fallback translation -->
 
 ⟪स्तेय⟫ n.: varkaus
 
-⟪किल्बिष⟫ n.: syyllisyys, loukkaus, synti
+⟪किल्बिष⟫ n.: syyllisyys, loukkaus, synti <!-- TODO: Fallback translation -->
 
 ⟪विना⟫ postpositio: ilman, paitsi (akkusatiivi, ablatiivi)
 
@@ -281,7 +281,7 @@ siitä:
 Kuv.: ⟪मूलानि⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): voidella, voiteleva
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): voidella, voiteleva <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
@@ -298,7 +298,7 @@ siitä:
 Kuv.: ⟪लिप्तिः⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt2503))
 :::
-⟪वर्ष⟫ n.,m.: sade, sadesävy, vuosi
+⟪वर्ष⟫ n.,m.: sade, sadesävy, vuosi <!-- TODO: Fallback translation -->
 
 ⟪वह्⟫ 1U ⟪वहति⟫ : johtaa, ajaa, puhaltaa (tuuli)
 
@@ -320,14 +320,14 @@ siitä:
 Kuv.: ⟪विवाहः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt2504))
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : viedä pois, opettaa, kasvattaa
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : viedä pois, opettaa, kasvattaa <!-- TODO: Fallback translation -->
 
 ::: indent
 siitä:
 
 ⟪विनय⟫ m.: poistaminen, kasvatus, kuritus, buddhalainen: luostarikurinalaisuus, luostarisäännöstö
 :::
-⟪विज्ञान⟫ n.: tieto, tuntemus
+⟪विज्ञान⟫ n.: tieto, tuntemus <!-- TODO: Fallback translation -->
 
 ⟪विष्टि⟫ f.: työ, pakkotyö
 
@@ -336,34 +336,34 @@ siitä:
 Kuv.: ⟪विष्टिः⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : kasvaa, suureksi tulla
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : kasvaa, suureksi tulla <!-- TODO: Fallback translation -->
 
 ::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
 PPP ⟪वृद्ध⟫ : kasvaa, vanha, lisätty  
-Inf. ⟪वर्धितुम्⟫
+Inf. ⟪वर्धितुम्⟫ <!-- TODO: Fallback translation -->
 
 siitä:
 
 ⟪वृद्धि⟫ f.: kasvu, kasvaminen, dehnava vaihe (lähteestä: vṛdh-ti)
 :::
-⟪सामर्थ्य⟫ n.: sen tarkoituksen mukainen
+⟪सामर्थ्य⟫ n.: sen tarkoituksen mukainen <!-- TODO: Fallback translation -->
 
-⟪स्वभाव⟫ m.: olento, luonne, karakteri
+⟪स्वभाव⟫ m.: olento, luonne, karakteri <!-- TODO: Fallback translation -->
 
-⟪हर्ष⟫ m.: (karvojen pystyminen), ilo
+⟪हर्ष⟫ m.: (karvojen pystyminen), ilo <!-- TODO: Fallback translation -->
 
-⟪हिरण्य⟫ ⟪३⟫: kultainen; n.: kulta, raha, rikkaus
+⟪हिरण्य⟫ ⟪३⟫: kultainen; n.: kulta, raha, rikkaus <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt2506.webp)
 Kuva: ⟪हिरण्यम्⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫: ohut, hieno, hyvin pieni; m.: atomi
+⟪अणु⟫ ⟪३⟫: ohut, hieno, hyvin pieni; m.: atomi <!-- TODO: Fallback translation -->
 
-⟪गोदान⟫ n.: lehmien / yhden lehman antaminen; toinen hiustenleittoseremonia (yksi ⟪संस्कार⟫)
+⟪गोदान⟫ n.: lehmien / yhden lehman antaminen; toinen hiustenleittoseremonia (yksi ⟪संस्कार⟫) <!-- TODO: Fallback translation -->
 
 ## 25.6. Harjoitus
 
@@ -375,9 +375,9 @@ A) Täydennä harjoituksen [Lektion 16](lektion16.md), toistoharjoitus A deklina
 
 ⟪३⟫. ⟪यद्⟫ (m., n., f.)
 
-Opettele nämä taivutusmuotoparadigmat ulkoa!
+Opettele nämä taivutusmuotoparadigmat ulkoa! <!-- TODO: Fallback translation -->
 
-B) Käännä ja ratkaise sanskritinkieliset samasat:
+B) Käännä ja ratkaise sanskritinkieliset samasat: <!-- TODO: Fallback translation -->
 
 ⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫
 
@@ -444,7 +444,7 @@ Selitys: ⟪सर्वतस्⟫ = sarva "jokainen, kaikki" + -tas ; ⟪अ�
 ::: indent
 Selitys: ⟪राजा⟫ = Nom. sg. sanasta ⟪राजन्⟫ m. = ⟪नृप⟫
 :::
-## 25.8. Käännösharjoitus
+## 25.8. Käännösharjoitus <!-- TODO: Fallback translation -->
 
 1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. taloustieteen hyödystä:
 
@@ -468,13 +468,13 @@ Selitys: ⟪राजा⟫ = Nom. sg. sanasta ⟪राजन्⟫ m. = ⟪न
 ... ⟪॥⟫  
 ⟪कामक्रोधलोभमानमदहर्षत्यागा⟫:sig[⟪त्कार्यः⟫] ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-Yllä olevassa tekstissä punaisella korostettujen sanojen selitykset:
+Yllä olevassa tekstissä punaisella korostettujen sanojen selitykset: <!-- TODO: Fallback translation -->
 
 1.5.1. ⟪तिस्रस्⟫ : substantiivi, akkusatiivi, feminiini; sanasta ⟪त्रि⟩ "kolme"
 
 1.5.2. ⟪प्राणभृताम्⟫ : Gen. pl. m. zu ⟪प्राणभृत्⟫ m. "eläin"
 
-1.5.5. ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "toinen"
+1.5.5. ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "toinen" <!-- TODO: Fallback translation -->
 
 1.5.7. :sig[⟪कर्मा⟫] : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "teko, teos" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "omaksua": "hän saakoon omaksua"
 
@@ -482,9 +482,9 @@ Yllä olevassa tekstissä punaisella korostettujen sanojen selitykset:
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "kuudeskymmenes"
 
-1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "teko"
+1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "teko" <!-- TODO: Fallback translation -->
 
 1.5.16. ⟪धि⟫ Sandhimuoto sanasta ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "itseomaisuus"
 
-1.6.1. ⟪कार्य⟫ ⟪३⟫ "tehtävä, joka on tehtävä"
+1.6.1. ⟪कार्य⟫ ⟪३⟫ "tehtävä, joka on tehtävä" <!-- TODO: Fallback translation -->
 

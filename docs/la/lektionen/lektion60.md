@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 60
+# Lectio 60
 
 ## 60.1. Desinences perfecti dualis (⟪द्विवचनम्⟫)
 
@@ -19,7 +19,7 @@ status: stable
 
 ## 60.2. Dualis perfecti reduplicati (⟪द्वित्वलिट्⟫)
 
-### 60.2.1. Typ 1: keine Stammabstufung
+### 60.2.1. Typ 1: keine Stammabstufung <!-- TODO: Fallback translation -->
 
 ⟪बन्ध्⟫ 9P "ligare"
 
@@ -176,7 +176,7 @@ Exempla:
 | ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "jemand, der gewesen ist" ; "jemand, der geworfen hat" |
 | ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "jemand, der gegeben hat" |
 | ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "jemand, der gegart hat" |
-| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" |
+| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" | <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Declinatio:**
@@ -232,7 +232,7 @@ Paradigmata vide apud Kielhorn, Grammatica § 124:
 
 Exemplum: ⟪प्रतीची⟫
 :::
-####  Paradigmata vide apud Kielhorn, Grammatik § 128:
+####  Paradigmata vide apud Kielhorn, Grammatik § 128: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6003.webp)
@@ -299,7 +299,7 @@ Plagae caeli cardinales
 | --- | --- |
 | ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "er ist im Begriffe, zu fallen" |
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" |
-| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
+| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" | <!-- TODO: Fallback translation -->
 
 ### 60.6.1. Desiderativi radicis formatio
 
@@ -359,16 +359,20 @@ Regulae de usu vocis coniunctionis -i- vide apud Kielhorn, Grammatica § 443 - 4
 **De reduplicatione:**
 
 1.  Radices consonantice incipientes: Reduplicatio fit in radicibus secundum praecedentes regulas mutatis, secundum usitatas regulas. Pro a vocali reduplicationis apparet i:
-    ⟪पा⟫ » ⟪पिपास⟫-  
-    ⟪त्यज्⟫ » ⟪तित्यज⟫-  
-    ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
-    Zerebralisatio post i/u ex finali -s radicis omittitur, quando s desyderativi suffixi zerebralisatur:  
-    ⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+::: indent
+⟪पा⟫ » ⟪पिपास⟫-
+⟪त्यज्⟫ » ⟪तित्यज⟫-
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-
+Zerebralisatio post i/u ex finali -s radicis omittitur, quando s desyderativi suffixi zerebralisatur:
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+:::
 
 2.  Radices vocaliter incipientes secundum regulas pertinentes ad aoristum duplicatum ([Lectio 56](lektion56.md)) duplicantur:
-    ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
-    ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-    ⟪ऋ⟫ » ⟪अरिरिष⟫-
+::: indent
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
+⟪ऋ⟫ » ⟪अरिरिष⟫-
+:::
 
 3.  De formatione speciali desiderativa quorundam radicum vide apud Kielhorn, Grammatik § 451.
 :::

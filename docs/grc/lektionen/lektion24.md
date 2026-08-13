@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
+--- <!-- TODO: Fallback translation -->
 
 # Μάθημα βʹ4
 
@@ -413,17 +413,17 @@ E) Ἀντικαταστήσατε ἐν τῇ προτάσει Α) 6 τὴν Δ
 
 **lekt2403:** «Ῥάμα (δεξιὰ) καθήμενος ἐπὶ τῶν ὤμων τοῦ Χανουμάν, μάχεται τὸν δαιμονικὸν βασιλέα Ράβανα.» περὶ 1820 [Πηγὴ εἰκόνος: Wikipedia, Δημόσιον Διάθεσιν]
 
-**lekt2404:** [Πηγὴ εἰκόνος: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Πρόσβασις τῇ 2008-12-14. -- Ἄδεια Creative Commons (Ἀναγραφή, οὐκ ἐπεξεργασία)]
+**lekt2404:** [Πηγὴ εἰκόνος: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Πρόσβασις τῇ 2008-12-14. -- Ἄδεια Creative Commons (Ἀναγραφή, οὐκ ἐπεξεργασία)] <!-- TODO: Fallback translation -->
 
 **lekt2405:** [Πηγὴ εἰκόνος: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Πρόσβασις ἡμερομηνίας 2008-12-14. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, οὐδὲ τροποποίησις)]
 
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Πηγὴ εἰκόνος: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Πρόσβασις ἡμερομηνίας 2008-12-14. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις)]
+**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Πηγὴ εἰκόνος: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Πρόσβασις ἡμερομηνίας 2008-12-14. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις)] <!-- TODO: Fallback translation -->
 
 **lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, ὑποσυντάκτης ξένων ἀφαιρέσεων, δίκτυον CNN-IBN 18, Ἰνδία, προεδρεύει ἐπὶ συζητήσεως παρὰ τῷ ὁμίλῳ περὶ οἰκονομίας Ἰνδίας τοῦ Παγκόσμιου Οἰκονομικοῦ Φόρου 2008 ἐν Νέᾳ Δελχίῳ." [Πηγὴ εἰκόνος: World Economic Forum / Φωτογραφία Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Πρόσβασις ἡμερομηνίας 2008-12-14. -- Ἄδεια Creative Commons (Ὁνομασία, κοινητικὴ ἀμοιβαία)]
 
 **lekt2408:** "Ἀφηγητὴς ἱστοριῶν ἐκ Σαν Φρανσίσκου Jeff Byers διηγεῖται ἱστορίαν τοῖς κατοίκοις τῆς Chenneri, κώμης Ἰρούλα. Ἀφηγητὴς Jeeva Raghunath μεταφράζει τὰ Τάμιλ τοῖς χωρικοῖς." [Πηγὴ εἰκόνος: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Πρόσβασις ἡμερομηνίας 2008-12-14. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις)]
 
-**lekt2409:** [Πηγή εικόνας: Redtigerxyz / Wikipedia, άδεια GNU FDLicense]
+**lekt2409:** [Πηγή εικόνας: Redtigerxyz / Wikipedia, άδεια GNU FDLicense] <!-- TODO: Fallback translation -->
 
 **lekt2410:** ⟪नरसिंह⟫ διαρπάζει ⟪हिरण्यकशिपु⟫, σελίδα από χειρόγραφο του ⟪भागवतपुराण⟫ [Πηγή εικόνας: Wikipedia, Δημόσιος τομέας]
 
