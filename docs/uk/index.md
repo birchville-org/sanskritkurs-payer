@@ -31,8 +31,8 @@ features:
 - **Типографія та контроль якості:** Пряма типографія Devanāgarī без курсивного спотворення, усунені червоні теги сигналів та очищені текстові фрагменти у всіх завершених мовних версіях.
 - **PWA та офлайн-перший режим:** Повне офлайн-використання всього контенту курсів у всіх активних мовних версіях.
 
-**Пропозиції та повідомлення про помилки надсилайте на:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Взяти участь як редактор або куратор:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Пропозиції та повідомлення про помилки надсилайте на:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Взяти участь як редактор або куратор:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - Для авторів (та тих, хто хоче скористатися легким автономним редактором Markdown) доступний редактор з відкритим кодом за адресою https://github.com/marcodem/zentauri
 

@@ -30,8 +30,8 @@ features:
 - **Tipografia e controle de qualidade:** Tipografia Devanāgarī em pé sem distorção itálica, tags de erro vermelho desembaraçadas e trechos de texto limpos em todas as versões linguísticas concluídas.
 - **PWA e offline-first:** Uso totalmente off-line de todo o conteúdo do curso em todas as versões linguísticas ativas.
 
-**Observações e relatórios de erros são bem-vindos em:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Participe como revisor ou curador:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Observações e relatórios de erros são bem-vindos em:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Participe como revisor ou curador:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - Para autores (e para quem deseja usar um editor Markdown standalone leve), há um editor de código aberto disponível em https://github.com/marcodem/zentauri
 

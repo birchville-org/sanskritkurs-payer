@@ -31,8 +31,8 @@ features:
 - **ਟਾਈਪੋਗ੍ਰਾਫੀ ਅਤੇ ਗੁਣਵੱਤਾ ਜਾਂਚ:** ਇਟੈਲਿਕ ਵਿਗਾੜ ਤੋਂ ਬਿਨਾਂ ਸਿੱਧੀ ਦੇਵਨਾਗਰੀ ਟਾਈਪੋਗ੍ਰਾਫੀ, ਸਿਗਨਲ ਲਾਲ ਟੈਗਾਂ ਨੂੰ ਹੱਲ ਕੀਤਾ ਗਿਆ ਅਤੇ ਸਾਰੀਆਂ ਤਿਆਰ ਭਾਸ਼ਾ ਸੰਸਕਰਣਾਂ ਵਿੱਚ ਸਾਫ਼ ਕੀਤੇ ਗਏ ਟੈਕਸਟ ਖੰਡ।
 - **PWA ਅਤੇ ਆਫਲਾਈਨ-ਫਰਸਟ:** ਸਾਰੀਆਂ ਸਰਗਰਮ ਭਾਸ਼ਾ ਸੰਸਕਰਣਾਂ ਵਿੱਚ ਸਾਰੇ ਕੋਰਸ ਸਮੱਗਰੀ ਦਾ ਪੂਰਨ ਆਫਲਾਈਨ ਵਰਤੋਂ।
 
-**ਟਿੱਪਣੀਆਂ ਅਤੇ ਬਗ ਰਿਪੋਰਟਾਂ ਦਾ ਸੁਆਗਤ ਹੈ:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**ਸੰਪਾਦਕ ਜਾਂ ਕਰੇਟਰ ਵਜੋਂ ਯੋਗਦਾਨ ਪਾਓ:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**ਟਿੱਪਣੀਆਂ ਅਤੇ ਬਗ ਰਿਪੋਰਟਾਂ ਦਾ ਸੁਆਗਤ ਹੈ:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**ਸੰਪਾਦਕ ਜਾਂ ਕਰੇਟਰ ਵਜੋਂ ਯੋਗਦਾਨ ਪਾਓ:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - ਲੇਖਕਾਂ (ਅਤੇ ਜੋ ਹਲਕੇ Markdown ਸਟੈਂਡਅਲੋਨ ਸੰਪਾਦਕ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹਨ) ਲਈ, ਇੱਕ ਓਪਨ-ਸੋਰਸ ਸੰਪਾਦਕ ਉਪਲਬਧ ਹੈ https://github.com/marcodem/zentauri
 

@@ -31,8 +31,8 @@ features:
 - **Tipografia e controlla da qualitad:** Tipografia Devanāgarī dritga senza distorsions en cursiv, tags da colur cotschna desmembrads e text purgids tras tut las versiuns linguisticas finidas.
 - **PWA & Offline-First:** Utilisaziun cumpletta offline da tut ils cuntegns dal curs tras tut las versiuns linguisticas activas.
 
-**Observaziuns e rapports d'errores benvegnids a:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Participar sco lexicografo u curatur:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Observaziuns e rapports d'errores benvegnids a:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Participar sco lexicografo u curatur:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - Per auturs (e per quels che vulan utilisar in editor Markdown standalone simpl), è a disposiziun in editor open-source sin https://github.com/marcodem/zentauri
 

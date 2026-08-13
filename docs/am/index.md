@@ -30,8 +30,8 @@ features:
 - **የጽሑፍ ስነ-ምህዳር እና ጥራት ቁጥጥር:** ከቀኝ ወደ ግራ የሚጀምር ዴቫናጓሪ ጽሑፍ ከኢትዮጵያ ቃል ሳይሆን፣ የተለዋወጡ ቀይ ቴክስቶች እና የተነጠሉ ቃላት በሁሉም ዝግተኛ የቋንቋ ስሪቶች ላይ።
 - **PWA እና ኦፍላይን-መጀመሪያ:** በሁሉም ንቁ የቋንቋ ስሪቶች ውስጥ ከሁሉም የኮርስ ይዘቶች ጋር በመሆን ኦፍላይን መጠቀም ይችላሉ።
 
-**ማስታወሻ እና ስህተት መልኮች ይጋብዛሉ በ:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**እንደ ሌክቶር ወይም ኩራተር አስተዋጽኦ ማድረግ:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**ማስታወሻ እና ስህተት መልኮች ይጋብዛሉ በ:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**እንደ ሌክቶር ወይም ኩራተር አስተዋጽኦ ማድረግ:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - ለጸሐፊዎች (እና ማንኛውም ቀላል Markdown ነጻ-አስተዳደር መከላኸያ ማግኘት የሚፈልጉ) ክፍተት-ምንጭ መከላኸያ በ https://github.com/marcodem/zentauri ይገኛል
 

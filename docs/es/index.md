@@ -31,8 +31,8 @@ features:
 - **Tipografía y control de calidad:** Tipografía Devanāgari vertical sin distorsión por cursiva, etiquetas de color rojo de señalización desanudadas y fragmentos de texto depurados en todas las versiones de idiomas finalizadas.
 - **PWA y enfoque offline:** Uso completamente offline de todos los contenidos del curso en todas las versiones de idiomas activas.
 
-**Se aceptan comentarios e informes de errores en:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Colaborar como corrector o curador:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Se aceptan comentarios e informes de errores en:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Colaborar como corrector o curador:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - Para autores (y quienes deseen utilizar un editor Markdown independiente ligero), hay disponible un editor de código abierto en https://github.com/marcodem/zentauri
 

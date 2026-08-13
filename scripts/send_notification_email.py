@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Send notification email to marcodem@me.com via Apple Mail.
+Send notification email to marcodem@birchville.org via Apple Mail.
 """
 
 import sys
 import subprocess
 import os
 
-RECIPIENT = "marcodem@me.com"
+RECIPIENT = "marcodem@birchville.org"
 
 def send_email(subject: str, body: str) -> bool:
     """Send an email via macOS Apple Mail app using osascript."""

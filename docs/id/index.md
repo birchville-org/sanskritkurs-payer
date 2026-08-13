@@ -31,8 +31,8 @@ features:
 **Tipografi & Jaminan Kualitas:** Tipografi Devanāgarī tegak tanpa distorsi miring, tag merah sinyal yang telah dipisahkan, dan bagian teks yang dibersihkan di seluruh versi bahasa yang selesai.
 **PWA & Offline-First:** Penggunaan offline penuh untuk semua konten kursus di seluruh versi bahasa aktif.
 
-**Komentar dan laporan kesalahan diterima di:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Berpartisipasi sebagai Editor atau Kurator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Komentar dan laporan kesalahan diterima di:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Berpartisipasi sebagai Editor atau Kurator:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 Untuk penulis (dan siapa pun yang ingin menggunakan Editor Markdown Standalone ringan), tersedia editor sumber terbuka di https://github.com/marcodem/zentauri
 **Arsitektur Sistem Teknis & Wiki Pengembang:** [GitHub Project Wiki](https://github.com/marcodem/sanskritkurs-payer/wiki)

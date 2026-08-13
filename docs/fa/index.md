@@ -31,8 +31,8 @@ features:
 - **تایپوگرافی و تضمین کیفیت:** تایپوگرافی عمودی دواناگری بدون اعوجاج ایتالیک، تگ‌های قرمز سیگنال باز شده و متن‌های پاکسازی شده در تمام نسخه‌های زبانی آماده.
 - **PWA و آفلاین-اول:** استفاده کامل از تمام محتوای دوره به صورت آفلاین در تمام نسخه‌های زبانی فعال.
 
-**نظرات و گزارش خطاها به این آدرس خوش‌آمد است:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**همکاری به عنوان ویراستار یا ناظر:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**نظرات و گزارش خطاها به این آدرس خوش‌آمد است:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**همکاری به عنوان ویراستار یا ناظر:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - برای نویسندگان (و هر کسی که می‌خواهد از یک ویرایشگر سبک Markdown Standalone استفاده کند)، یک ویرایشگر متن باز در آدرس https://github.com/marcodem/zentauri موجود است
 

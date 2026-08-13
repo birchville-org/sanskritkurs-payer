@@ -32,8 +32,8 @@ features:
 - **טיפוגרפיה ואבטחת איכות:** כתיב דבנגרי (Devanāgarī) זקוף ללא עיוותים באותיות נטויות, תגיות אדומות של אותות שרשרת שולבו מחדש וטקסטים מתוקנים לאורך כל גרסאות השפה המוגמרות.
 - **יישום PWA וגישה לאינטרנט:** שימוש מלא באינטרנט לא מקוון של כל תכני הקורסים לאורך כל גרסאות השפה הפעילות.
 
-**הערות ודיווחי באגים מתקבלים ב:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**להשתתף כעורך או כמפקח:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**הערות ודיווחי באגים מתקבלים ב:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**להשתתף כעורך או כמפקח:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - עבור מחברים (וגם למי שרוצה להשתמש בעורך Markdown עצמאי קל), עורך קוד פתוח זמין בכתובת https://github.com/marcodem/zentauri
 

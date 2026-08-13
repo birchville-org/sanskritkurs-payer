@@ -31,8 +31,8 @@ features:
 - **Tipografie și asigurarea calității:** Tipografie Devanāgarī verticală, fără distorsiuni de cursiv, etichete roșii de semnalizare deblocate și pasaje textuale curățate pe toate versiunile lingvistice finalizate.
 - **PWA și funcționare offline:** Utilizare offline completă a tuturor conținuturilor cursurilor pe toate versiunile lingvistice active.
 
-**Notificări și rapoarte de erori sunt binevenite la:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Contribuie ca editor sau curator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Notificări și rapoarte de erori sunt binevenite la:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Contribuie ca editor sau curator:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - Pentru autori (și pentru cei care doresc să utilizeze un editor Markdown standalone ușor), este disponibil un editor open-source la https://github.com/marcodem/zentauri
 

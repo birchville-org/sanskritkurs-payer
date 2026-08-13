@@ -31,8 +31,8 @@ features:
 - **排版与质量保证：** 采用直立的Devanāgarī（天城文）排版，无斜体变形；解耦信号红色标签；清理已完成语言版本中的所有文本片段。
 - **PWA与离线优先：** 支持在所有活跃语言版本中完全离线使用所有课程内容。
 
-**欢迎提交备注和错误报告至：** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**作为校对者或策展人参与：** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**欢迎提交备注和错误报告至：** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**作为校对者或策展人参与：** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - 对于作者（以及希望使用轻量级Markdown独立编辑器的用户），提供了一个开源编辑器，地址为 https://github.com/marcodem/zentauri
 

@@ -31,8 +31,8 @@ features:
 - **الطبوغرافيا وضمان الجودة:** طبوغرافيا ديفاناغاري عمودية دون تشويه الخط المائل، وإزالة علامات "أحمر التحذير" المعقدة، وتنقية النصوص عبر جميع إصدارات اللغات المكتملة.
 - **تطبيق الويب التقدمي (PWA) والعمل دون اتصال:** إمكانية استخدام جميع محتويات الدورات التدريبية بالكامل دون اتصال بالإنترنت عبر جميع إصدارات اللغات النشطة.
 
-**نرحب بالملاحظات وإبلاغ عن الأخطاء على:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**المشاركة كمدقق لغوي أو أمين:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**نرحب بالملاحظات وإبلاغ عن الأخطاء على:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**المشاركة كمدقق لغوي أو أمين:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - يتوفر محرر مفتوح المصدر (للمؤلفين، ومن يرغبون في استخدام محرر Markdown مستقل خفيف) على https://github.com/marcodem/zentauri
 

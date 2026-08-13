@@ -32,8 +32,8 @@ features:
 - **Typografia & laadunvalvonta:** Pystysuora Devanagari-tyyppi ilman kursivointivääristymiä, purkatut punaiset signaalimerkit ja siistityt tekstikohdat kaikkien valmiiden kieliversioiden läpi.
 - **PWA & offline-ensimmäinen:** Kaikkien kurssisisältöjen täysi offline-käyttö kaikkien aktiivisten kieliversioiden läpi.
 
-**Huomautukset ja virheraportit ovat tervetulleita osoitteeseen:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Osallistu toimituskuntana tai kuraattorina:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Huomautukset ja virheraportit ovat tervetulleita osoitteeseen:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Osallistu toimituskuntana tai kuraattorina:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - Kirjoittajille (ja niille, jotka haluavat käyttää kevyttä Markdown-standalone-editoria) on saatavilla avoimen lähdekoodin editori osoitteessa https://github.com/marcodem/zentauri
 

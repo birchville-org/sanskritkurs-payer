@@ -30,8 +30,8 @@ features:
 - **Typografie & Qualitätssicherung:** Aufrechte Devanāgarī-Typografie ohne Kursivverzerrung, entwirrte Signalrot-Tags und bereinigte Textstellen über alle fertigen Sprachversionen hinweg.
 - **PWA & Offline-First:** Vollständige Offline-Nutzung sämtlicher Kursinhalte über alle aktiven Sprachversionen hinweg.
 
-**Bemerkungen und Fehlermeldungen willkommen an:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Als Lektor oder Kurator mitwirken:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Bemerkungen und Fehlermeldungen willkommen an:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Als Lektor oder Kurator mitwirken:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - Für Autoren (und wer einen leichten Markdown Standalone-Editor nutzen möchte), steht ein Open-Source-Editor zur Verfügung auf https://github.com/marcodem/zentauri
 - **Technische System-Architektur & Entwickler-Wiki:** [GitHub Project Wiki](https://github.com/marcodem/sanskritkurs-payer/wiki)

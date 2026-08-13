@@ -52,7 +52,7 @@ def write_file(filepath: str, content: str) -> str:
     except Exception as e:
         return f"Error writing file: {e}"
 
-def send_email(report_markdown: str, target_email: str = "marcodem@me.com"):
+def send_email(report_markdown: str, target_email: str = "marcodem@birchville.org"):
     """
     Sends the report using macOS Mail.app via AppleScript.
     """

@@ -32,8 +32,8 @@ features:
 - **Τυπογραφία καὶ διασφάλισις ποιότητος:** Ὀρθία γραφή Devanāgarī ἀνευ διαστρεβλώσεως πλάγις, ἀπολυθέντες σημεῖοι ἐρυθροῦ σήματος καὶ καθαρισθεῖσαι φράσεις διὰ πασῶν τῶν τελικῶν γλωσσικῶν ἐκδόσεων.
 - **PWA καὶ Ἀποσυνδεδεμένη Πρώτη:** Πλήρης χρῆσις ἀποσυνδεδεμένη πάντων τῶν περιεχομένων τῶν μαθημάτων διὰ πασῶν τῶν ἐνεργῶν γλωσσικῶν ἐκδόσεων.
 
-**Σχόλια καὶ ἀναφοραὶ λαθῶν εὐπρόσδεκτα πρὸς:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Συνεργασία ὡς ἐκδότης ἢ ἐπιμελητής:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Σχόλια καὶ ἀναφοραὶ λαθῶν εὐπρόσδεκτα πρὸς:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Συνεργασία ὡς ἐκδότης ἢ ἐπιμελητής:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - Γραφεῦσι (καὶ τοῖς βουλομένοις χρησθαὶ ἐλαφρῷ ἐκδότη Markdown Standalone), ἐστὶν ἐκδότης ἀνοικτοῦ κώδικος ἐν https://github.com/marcodem/zentauri
 

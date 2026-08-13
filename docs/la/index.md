@@ -31,8 +31,8 @@ features:
 - **Typographia et Qualitas:** Typographia Devanāgarī erecta sine distortione italicorum, tags rubri signalis soluti et textus purgati per omnes finitas versiones linguales.
 - **PWA et Offline-Primum:** Usus offlineus completus omnium contentuum cursus per omnes activas versiones linguales.
 
-**Commentaria et nuntii errorum bene accepti ad:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Contribuere ut editor vel curator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Commentaria et nuntii errorum bene accepti ad:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Contribuere ut editor vel curator:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - Auctoribus (et qui editor Markdown Standalone levis uti vult), editor open-source disponitur apud https://github.com/marcodem/zentauri
 

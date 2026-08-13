@@ -1628,7 +1628,7 @@
                     'box-shadow:0 10px 30px rgba(0,0,0,0.5);max-width:500px;text-align:center;line-height:1.5; border: 2px solid #eab308;';
                 document.body.appendChild(notice);
             }
-            const mail = 'webmaster@birchville.cc';
+            const mail = 'webmaster@birchville.org';
             const subject = encodeURIComponent(`Änderung: ${filename}`);
             const bodyText = `Hallo Webmaster,\n\nIm Anhang findest du die überarbeitete Datei "${filename}" aus dem QA-Viewer.\n\nBitte ins Repository pushen.\n\nLiebe Grüße,\n[Dein Name]\n\n(Achtung: Bitte vergiss nicht, die soeben heruntergeladene Datei hier manuell als Anhang hinzuzufügen!)`;
             const body = encodeURIComponent(bodyText);
@@ -2497,7 +2497,7 @@
                 <!-- OPTION 1: DOWNLOAD & MAIL -->
                 <button onclick="document.getElementById('save-modal').style.display='none'; triggerDownloadAndMail();" style="display:flex; flex-direction:column; align-items:flex-start; background:#eab308; color:#03192e; border:none; padding:1rem 1.5rem; border-radius:8px; cursor:pointer; text-align:left; transition:opacity 0.2s;" onmouseover="this.style.opacity=0.9" onmouseout="this.style.opacity=1">
                     <strong style="font-size:1.1rem; margin-bottom:0.25rem;">1. Download & Email to Webmaster</strong>
-                    <span style="font-size:0.9rem; opacity:0.9;">Downloads the file. Send this to webmaster@birchville.cc. (Changes are only visible once pushed). Standard option for external authors.</span>
+                    <span style="font-size:0.9rem; opacity:0.9;">Downloads the file. Send this to webmaster@birchville.org. (Changes are only visible once pushed). Standard option for external authors.</span>
                 </button>
 
                 <!-- OPTION 2: LOCAL REPO -->

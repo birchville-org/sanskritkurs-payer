@@ -32,8 +32,8 @@ features:
 - **Τυπογραφία & Διασφάλιση Ποιότητας:** Ορθογραφική τυπογραφία Devanāgarī χωρίς πλάγια παραμόρφωση, αποσαφήνιση των ετικετών κόκκινου σήματος και καθαρισμός τμημάτων κειμένου σε όλες τις έτοιμες γλωσσικές εκδόσεις.
 - **PWA & Offline-First:** Πλήρης εκτός σύνδεσης χρήση όλων των περιεχομένων μαθημάτων σε όλες τις ενεργές γλωσσικές εκδόσεις.
 
-**Σχόλια και αναφορές σφαλμάτων ευπρόσδεκτα στο:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Συμμετοχή ως επιμελητής ή κριτής:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Σχόλια και αναφορές σφαλμάτων ευπρόσδεκτα στο:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Συμμετοχή ως επιμελητής ή κριτής:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - Για τους συγγραφείς (και όσους επιθυμούν να χρησιμοποιήσουν έναν απλό editor Markdown Standalone), διατίθεται ένας editor ανοιχτού κώδικα στο https://github.com/marcodem/zentauri
 

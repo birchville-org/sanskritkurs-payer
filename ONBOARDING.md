@@ -3,7 +3,7 @@
 Da Authelia absichtlich keine öffentliche Registrierung ("Sign-up") anbietet, müssen neue Autoren-Konten vom Administrator manuell angelegt werden.
 
 ## 1. Nutzeranfrage
-Der neue Mitarbeiter muss sich per E-Mail an [onboarding@birchville.cc](mailto:onboarding@birchville.cc) beim Administrator melden und um einen Zugang für das Autoren-Portal (`payer-author.birchville.cc`) bitten.
+Der neue Mitarbeiter muss sich per E-Mail an [onboarding@birchville.org](mailto:onboarding@birchville.org) beim Administrator melden und um einen Zugang für das Autoren-Portal (`payer-author.birchville.cc`) bitten.
 
 ## 2. Initial-Passwort generieren
 Loggen Sie sich auf der Synology per SSH ein.
@@ -25,7 +25,7 @@ Fügen Sie ganz unten den neuen Nutzer bündig (!) an. Achten Sie strikt auf die
   anna:
     displayname: "Anna Müller"
     password: "$pbkdf2-sha512...HIER_DEN_KOPIERTEN_HASH_EINFÜGEN..."
-    email: "anna@domain.de"
+    email: "anna@birchville.org"
     groups:
       - authors
 ```

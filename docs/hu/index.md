@@ -32,8 +32,8 @@ features:
 - **Tipográfia és minőségbiztosítás:** Merőleges Devanagari tipográfia dőlt torzítás nélkül, szétcsavart piros jelölő címkék és tisztított szövegrészek az összes kész nyelvi verzió átvételével.
 - **PWA és offline-first:** A kurzusok teljes tartalmának offline használata az összes aktív nyelvi verzió átvételével.
 
-**Megjegyzések és hibajelentések fogadva a:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Szerkesztőként vagy kurátorként való részvétel:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Megjegyzések és hibajelentések fogadva a:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Szerkesztőként vagy kurátorként való részvétel:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - Szerzőknek (és azoknak, akik egy könnyű Markdown önálló szerkesztőt szeretnének használni), egy nyílt forráskódú szerkesztő érhető el a https://github.com/marcodem/zentauri oldalon
 

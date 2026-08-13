@@ -31,8 +31,8 @@ features:
 - **टाइपोग्राफी और गुणवत्ता सत्यापन:** सभी तैयार भाषा संस्करणों में उभरे देवनागरी टाइपोग्राफी, बिना इटैलिक विकृति के, अलग किए गए सिग्नल रेड टैग और साफ की गई पाठ सामग्री।
 - **PWA और ऑफलाइन-फर्स्ट:** सभी सक्रिय भाषा संस्करणों के माध्यम से सभी पाठ्यक्रम सामग्री की पूर्ण ऑफलाइन उपयोगिता।
 
-**टिप्पणी और त्रुटि रिपोर्ट करने के लिए:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**लेखक या संरक्षक के रूप में योगदान दें:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**टिप्पणी और त्रुटि रिपोर्ट करने के लिए:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**लेखक या संरक्षक के रूप में योगदान दें:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - लेखकों (और उन लोगों के लिए जो एक हल्का मार्कडाउन स्टैंडअलोन संपादक का उपयोग करना चाहते हैं) के लिए, https://github.com/marcodem/zentauri पर एक ओपन-सोर्स संपादक उपलब्ध है
 

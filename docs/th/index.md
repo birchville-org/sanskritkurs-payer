@@ -32,8 +32,8 @@ features:
 - **การจัดรูปแบบตัวอักษรและการตรวจสอบคุณภาพ:** การจัดรูปแบบตัวอักษร Devanāgarī แบบตั้งตรงโดยไม่มีการบิดเบือนแบบเอียง, การแก้ไขแท็กสีแดงที่สับสน, และการทำความสะอาดข้อความตลอดเวอร์ชันภาษาที่เสร็จสมบูรณ์ทั้งหมด
 - **PWA และ Offline-First:** สามารถใช้งานเนื้อหาหลักสูตรทั้งหมดแบบออฟไลน์ได้ตลอดเวอร์ชันภาษาที่ใช้งานอยู่ทั้งหมด
 
-**ยินดีรับความคิดเห็นและรายงานข้อผิดพลาดที่:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**มีส่วนร่วมในฐานะบรรณาธิการหรือภัณฑารักษ์:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**ยินดีรับความคิดเห็นและรายงานข้อผิดพลาดที่:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**มีส่วนร่วมในฐานะบรรณาธิการหรือภัณฑารักษ์:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
 
 - สำหรับผู้เขียน (และผู้ที่ต้องการใช้โปรแกรมแก้ไข Markdown Standalone แบบง่าย) มีโปรแกรมแก้ไขโอเพนซอร์สให้บริการที่ https://github.com/marcodem/zentauri
 

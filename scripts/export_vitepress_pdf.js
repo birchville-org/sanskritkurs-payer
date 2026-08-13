@@ -447,8 +447,8 @@ async function exportVitePressMedia(lang = 'de') {
           <li><strong>Originalautor:</strong> Prof. Alois Payer (Tüpfli's Global Village Library)</li>
           <li><strong>Herausgeber &amp; Digitalisierung:</strong> Sanskritkurs Payer Project (GitHub)</li>
           <li><strong>Version:</strong> Release v${VERSION}</li>
-          <li><strong>Webmaster &amp; Kontakt:</strong> webmaster@birchville.cc</li>
-          <li><strong>Lektorat &amp; Mitarbeit:</strong> onboarding@birchville.cc</li>
+          <li><strong>Webmaster &amp; Kontakt:</strong> webmaster@birchville.org</li>
+          <li><strong>Lektorat &amp; Mitarbeit:</strong> onboarding@birchville.org</li>
           <li><strong>Open-Source Editor:</strong> https://github.com/marcodem/zentauri</li>
           <li><strong>Lizenz &amp; Quellen:</strong> Vollständiges Quellen- &amp; Lizenzverzeichnis im Anhang am Ende dieses Dokuments</li>
           <li><strong>Dokument-Typ:</strong> Offizielles Release-Artefakt (Sanskritkurs Payer Project)</li>
