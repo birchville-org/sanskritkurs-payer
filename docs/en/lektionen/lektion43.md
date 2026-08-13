@@ -1,6 +1,6 @@
 ---
 title: "Lesson 43"
-subtitle: 'Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle &lt;person&gt;")'
+subtitle: 'Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle \<person\>")'
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -10,10 +10,11 @@ status: stable
 
 # Lesson 43
 
-## 43.1. Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle &lt;Person&gt;")
+## 43.1. Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle \<Person\>")
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+
+| | ⟪परस्मैपदम्⟫ | | ⟪आत्मनेपदम्⟫ | |
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Primary endings** | -si | -tha | -se | -dhve |
@@ -26,8 +27,8 @@ Note that the secondary ending of the 2.pl.P. is identical to the secondary endi
 
 2nd person:
 
-*   Singular: "you" (singular)
-*   Plural: "you" (plural; more than two!)
+* Singular: "you" (singular)
+* Plural: "you" (plural; more than two!)
 
 ### 43.2.1. Thematic stems
 
@@ -40,7 +41,7 @@ The 3.sg.A. Imperfect or Optative is formally identical to the 2.pl.P. Imperfect
 
 ⟪भू⟫ 1P
 
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| | ⟪परस्मैपदम्⟫ | | ⟪आत्मनेपदम्⟫ | |
 | :--- | :--- | :--- | :--- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indicative Present** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \&lt;⟪भवसे⟫\&gt; | \&lt;⟪भवध्वे⟫\&gt; |
@@ -51,7 +52,7 @@ The 3.sg.A. Imperfect or Optative is formally identical to the 2.pl.P. Imperfect
 
 ⟪विश्⟫ 6P
 
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| | ⟪परस्मैपदम्⟫ | | ⟪आत्मनेपदम्⟫ | |
 | :--- | :--- | :--- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indicative Present** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \&lt;⟪विशसे⟫\&gt; | \&lt;⟪विशध्वे⟫\&gt; |
@@ -62,7 +63,7 @@ The 3.sg.A. Imperfect or Optative is formally identical to the 2.pl.P. Imperfect
 
 ⟪नृत्⟫ 4P
 
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| | ⟪परस्मैपदम्⟫ | | ⟪आत्मनेपदम्⟫ | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indicative Present** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \&lt;⟪नृत्यसे⟫\&gt; | \&lt;⟪नृत्यध्वे⟫\&gt; |
@@ -73,7 +74,7 @@ The 3.sg.A. Imperfect or Optative is formally identical to the 2.pl.P. Imperfect
 
 ⟪चुर्⟫ 10U
 
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| | ⟪परस्मैपदम्⟫ | | ⟪आत्मनेपदम्⟫ | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indicative Present** :br⟪लट्⟫ | ⟪चोरयसि⟫ | ⟪चोरयथ⟫ | ⟪चोरयसे⟫ | ⟪चोरयध्वे⟫ |
@@ -96,7 +97,7 @@ The 3.sg.A. Imperfect or Optative is formally identical to the 2.pl.P. Imperfect
 
 ⟪दा⟫ 3U
 
-| ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| ⟪परस्मैपदम्⟫ | | ⟪आत्मनेपदम्⟫ | |
 | :--- | :--- | :--- | :--- |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪दास्यसि⟫ | ⟪दास्यथ⟫ | ⟪दास्यसे⟫ | ⟪दास्यध्वे⟫ |
@@ -105,17 +106,18 @@ The 3.sg.A. Imperfect or Optative is formally identical to the 2.pl.P. Imperfect
 
 ⟪भू⟫ 1P
 
-| ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| ⟪परस्मैपदम्⟫ | | ⟪आत्मनेपदम्⟫ | |
 | :--- | :--- | :--- | :--- |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \&lt;⟪भविष्यसे⟫\&gt; | \&lt;⟪भविष्यध्वे⟫\&gt; |
 
 ## 43.3. The Second Person Personal Pronoun
 
-*   Singular: ⟪त्वद्⟫ "you" (singular)
-*   Plural: ⟪युष्मद्⟫ "you" (plural)
+* Singular: ⟪त्वद्⟫ "you" (singular)
+* Plural: ⟪युष्मद्⟫ "you" (plural)
 
 ::: grammar-box
+
 | | ⟪एकवचनम्⟫ (⟪त्वद्⟫) | ⟪बहुवचनम्⟫ (⟪युष्मद्⟫) |
 | --- | --- | --- |
 | ⟪प्रथमा⟫ | ⟪त्वम्⟫ | ⟪यूयम्⟫ |
@@ -131,6 +133,7 @@ The forms ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ must not be used at 
 ::: indent
 ⟪त्वां मां च⟫ "you and me"
 :::
+
 ## 43.4. Vocabulary List
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Causative ⟪आज्ञापयति⟫ : to command, to order
@@ -334,6 +337,7 @@ B) Translate into Sanskrit:
 Fig.: ⟪कदा पूराववर्तथाः ।⟫
 (Image source: [Details](/en/licenses#lekt4308))
 :::
+
 ## 43.6. ⟪संवादः⟫ = Conversation
 
 | ⟪संवादः⟫ | Explanations |
@@ -372,19 +376,19 @@ Fig.: ⟪शर्करा⟫
 
 ::: deleteme-box
 
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution, non-commercial use)
+**lekt4302.jpg**: Rita Willaert. -- <http://www.flickr.com/photos/rietje/324020365/>. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution, non-commercial use)
 
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution, non-commercial use)
+**lekt4303.jpg**: amrita b. -- <http://www.flickr.com/photos/amrita_b/63071274/>. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution, non-commercial use)
 
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution)
+**lekt4304.jpg**: mckaysavage. -- <http://www.flickr.com/photos/mckaysavage/2085721947/>. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution)
 
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution, non-commercial use, share alike)
+**lekt4305.jpg**: visio. -- <http://www.flickr.com/photos/visio/421217297/>. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution, non-commercial use, share alike)
 
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Accessed on 2009-001-06. -- Creative Commons License (Attribution, share alike)
+**lekt4306.jpg**: wildxplorer. -- <http://www.flickr.com/photos/krayker/2123046126/>. -- Accessed on 2009-001-06. -- Creative Commons License (Attribution, share alike)
 
-**lekt4307.jpg**: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution, non-commercial use, no derivatives)
+**lekt4307.jpg**: Ray Witlin / World Bank. -- <http://www.flickr.com/photos/worldbank/2183198505/>. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution, non-commercial use, no derivatives)
 
 **lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense
 
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Accessed on 2009-01-07. -- Creative Commons License (Attribution, no derivatives)
+**lekt4309.jpg**: Carol Mitchell. -- <http://www.flickr.com/photos/webethere/2178184852/>. -- Accessed on 2009-01-07. -- Creative Commons License (Attribution, no derivatives)
 :::
