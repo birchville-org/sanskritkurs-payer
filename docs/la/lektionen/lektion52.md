@@ -113,6 +113,7 @@ Figura Wayang, Iava, Indonesia
 
 *   **Numeris**
     Exemplaria:  
+:::
 ::: indent
 ⟪एकशस्⟫ "singulatim, unusquisque"
 ⟪द्विशस्⟫ "bini, bini"
@@ -125,7 +126,6 @@ Figura Wayang, Iava, Indonesia
 ⟪भागशस्⟫ "partim partim"
 ⟪सर्वशस्⟫ "ubique, omnino omnes"
 ⟪नित्यशस्⟫ "constanter"
-:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -152,6 +152,7 @@ Finis nominis sic tractatur:
 
 *   **finale -a et -ā declinabilium verborum per -ī substituuntur**  
     Exemplaria:  
+:::
 ::: indent
 ⟪कृष्णीभवति⟫ "aliquid, quod nigrum non est, fit nigrum"
 ⟪कृष्णीकरोति⟫ "aliquid, quod nigrum non est, facit nigrum"
@@ -173,7 +174,6 @@ Finis nominis sic tractatur:
 
 *   **alia nomina multiradicalia forma radicis stant, quam in locativo (⟪सप्तमी⟫) plurali habent. Radix tunc regulis sandhi consuetis obnoxia est. Vide Kielhorn, Grammatik § 489,3.**
     e.g. ⟪तिर्यक्करोति⟫ "latus ponit (⟪तिर्यच्⟫)"
-:::
 ::: media
 ![](/images/lekt5209.webp)
 Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
@@ -233,6 +233,7 @@ Exemplum:
     exempli gratia ⟪पुनः⟫ ⟪पुनः⟫ "semper iterum"
 *   **Distributio**
     exempla:  
+:::
 ::: indent
 ⟪पृथक्पृथक्⟫ "seorsim, singillatim"
 ⟪यद्यद्⟩ ... ⟪तत्तद्⟫ "quodcumque ... hoc omne"
@@ -241,7 +242,6 @@ Exemplum:
 
 **Ex hisce coniunctionibus interdum compositum formari potest**
 
-:::
 exempla:
 
 ::: indent
@@ -379,6 +379,7 @@ Fig.: ⟪चतुर्मुखः⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5205))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **⟪तत्पुरुष⟫ cum numero cardinali in membro priori non libere formari possunt:**
 
@@ -403,6 +404,7 @@ Septem stellae = septem clarissimae stellae Ursae maioris (Ursa maior)
 2.  compositum sic formatum in significato utitur, quod alio suffixo Taddhita significatur (in hac specie transitus ad Bahuvrīhi fluens est):
     Exemplis:  
     dvi + go » :sig[⟪द्विगु⟫] : non: "duae vaccae", sed: "**pro duabus vaccis empta**"  
+:::
 ::: indent
 ⟪द्विवर्ष⟫ non: "anni duo", sed: "**duos annos natus**"
 :::
@@ -410,7 +412,6 @@ Septem stellae = septem clarissimae stellae Ursae maioris (Ursa maior)
 3.  compositum sic formatum membrum prius alterius compositi constituit
     Exemplis:  
     pañca + go » pañcagava (ut verbum unum non licet!) + dhana » ⟪पञ्चगवधन⟫ m. "cui divitiae quinque vaccae sunt"
-:::
 ::: media
 ![](/images/lekt5207.webp)
 Abb.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:

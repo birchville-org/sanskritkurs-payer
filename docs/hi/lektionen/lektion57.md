@@ -141,6 +141,7 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 **⟪⟪अगसि⟫⟩ (« \*a-gm-si) ⟪⟪।⟫⟩ ⟪⟪अगथास्⟫⟩ ⟪⟪।⟫⟩ ⟪⟪अगत⟫⟩ (P में ⟪⟪गम्⟫⟩ विषयवाचक अorist है)**
 
 2.  ⟪पद्⟫ 4Ā नियमित है (उदा. ⟪अपत्सि⟫), परंतु 3.ए.ए. में इसका रूप निष्कर्षक मूल-पूर्वकाल का है:
+:::
 ::: indent
 ⟪अपादि⟫ "वह गया"
 :::
@@ -148,7 +149,6 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 3.  ⟪बुध्⟫ Ā 3.ए.ए. में वैकल्पिक रूप से निष्कर्षक मूल-पूर्वकाल का रूप ले सकता है:
 ::: indent
 ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "उसने जाना"
-:::
 :::
 ## 57.2. अभ्यास
 

@@ -386,12 +386,14 @@ Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/es/licenses#lekt4
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4603))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/es/licenses#lekt4604)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4604))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: media
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/es/licenses#lekt4605)
@@ -458,6 +460,7 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4608))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: indent
 1 ⟪महामात्र⟫ m. "Mahout" (domador de elefantes); ⟪चरिष्णु⟫ 3 "móvil", ⟪दूरशब्द⟫ m. "llamada telefónica a distancia, teléfono" » ⟪चरिष्णुदूरशब्द⟫ "teléfono móvil" (formación de palabras: A. Payer)
 

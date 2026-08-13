@@ -234,3 +234,4 @@ E) Transformați propozițiile C)1-5 în construcții active.
 Fig.: ⟪फलान्यश्नुते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung021))
 ::: <!-- TODO: Fallback translation -->
+:::

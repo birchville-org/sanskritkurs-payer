@@ -95,6 +95,7 @@ Fig.: Maa Batakali Darshan, Puri, Orissa
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0801))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: note-box
 **"Darshan"** sau **"Darshana"** este un termen din hinduism pentru viziunea și vederea sfântului și divinului. Sub *Darshana* se înțelege, de exemplu, întâlnirea oficială dintre elev și maestru, la care elevul a fost invitat de maestru. Poate însemna, de asemenea, *cufundarea* în contemplarea unei icoane divine. Această din urmă semnificație este cea mai frecventă în limbajul hindi contemporan. În contextul lui Mata Amritanandamayi, Darshan înseamnă îmbrățișarea de către Guru.
 
@@ -225,6 +226,7 @@ Fig.: **likh** (⟪लिख्⟫) : instrument de scris indian din oțel pentr
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0809))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt0810.jpg)
 Fig.: **likh** (⟪लिख्⟫) : bețișor de scris al Batak (Sumatra), așa cum era probabil folosit și în India

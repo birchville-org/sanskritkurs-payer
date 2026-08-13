@@ -158,3 +158,4 @@ E) Sustituya en la oración B) 6 el dativo por una construcción con **-⟪अ�
 Fig.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung038))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

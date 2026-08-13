@@ -386,12 +386,14 @@ Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/ro/licenses#lekt4
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4603))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/ro/licenses#lekt4604)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4604))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/ro/licenses#lekt4605)
@@ -458,6 +460,7 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4608))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 1 ⟪महामात्र⟫ m. "mahout"; ⟪चरिष्णु⟫ 3 "mobil", ⟪दूरशब्द⟫ m. "telefonie fixă" » ⟪चरिष्णुदूरशब्द⟫ "telefon mobil" (morfologie: A. Payer) <!-- TODO: Fallback translation -->
 

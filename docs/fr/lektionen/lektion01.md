@@ -21,6 +21,7 @@ Fig. 1.2 : Gaṇeśa, Adamspeak, Sri Lanka
 (Source de l'image : [Détails](/fr/licenses#lekt0102))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: center
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]

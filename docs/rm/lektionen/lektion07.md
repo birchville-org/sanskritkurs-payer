@@ -24,6 +24,7 @@ status: stable
 ::: <!-- TODO: Fallback translation -->
 
 
+:::
 ::: center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫

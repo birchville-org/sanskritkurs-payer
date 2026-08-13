@@ -152,3 +152,5 @@ Kép: ⟪जगौ⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung059))
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

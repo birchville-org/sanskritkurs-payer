@@ -113,6 +113,7 @@ Figura Wayang, Giava, Indonesia
 
 *   **Numeri**  
     Esempi:  
+:::
 ::: indent
 ⟪एकशस्⟫ "singolarmente, ciascuno uno"
 ⟪द्विशस्⟫ "a due a due, ciascuno due"
@@ -125,7 +126,6 @@ Figura Wayang, Giava, Indonesia
 ⟪भागशस्⟫ "parte per parte"
 ⟪सर्वशस्⟫ "ovunque, del tutto"
 ⟪नित्यशस्⟫ "costantemente"
-:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -152,6 +152,7 @@ La desinenza del sostantivo viene trattata come segue:
 
 *   **-a e -ā finali di parole declinabili vengono sostituite da -ī**  
     Esempi:  
+:::
 ::: indent
 ⟪कृष्णीभवति⟫ "qualcosa che non era nero diventa nero"
 ⟪कृष्णीकरोति⟫ "rende nero qualcosa che non era nero"
@@ -173,7 +174,6 @@ La desinenza del sostantivo viene trattata come segue:
 
 *   **altri sostantivi pluristemmatici stanno nella forma dello stemma che hanno nel Locativo (⟪सप्तमी⟫) Pluraleeeeee. Lo stemma è poi soggetto alle normali regole di Sandhi. Vedi Kielhorn, Grammatik § 489,3.**  
     Es. ⟪तिर्यक्करोति⟫ "posa di lato (⟪तिर्यच्⟫)"
-:::
 ::: media
 ![](/images/lekt5209.webp)
 Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
@@ -233,6 +233,7 @@ Esempio:
     p.es. ⟪पुनः⟫ ⟪पुनः⟫ "sempre di nuovo"
 *   **Distribuzione**  
     Esempi:  
+:::
 ::: indent
 ⟪पृथक्पृथक्⟫ "separatamente, ciascuno singolarmente"
 ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "qualunque ... tutto questo"
@@ -241,7 +242,6 @@ Esempio:
 
 **Occasionalmente da tali connessioni può essere formato un composto**
 
-:::
 Esempi:
 
 ::: indent
@@ -403,6 +403,7 @@ Le sette stelle = le sette stelle più luminose dell'Orsa Maggiore (Ursa maior)
 2.  il composto così formato è usato in un significato che altrimenti è indicato da un suffisso Taddhita (in questo tipo di casi il passaggio al Bahuvrīhi è fluido):  
     Esempi:  
     dvi + go » :sig[⟪द्विगु⟫] : non: "due mucche", ma: "**comperato per due mucche**"  
+:::
 ::: indent
 ⟪द्विवर्ष⟫ non: "due anni", ma: "**di due anni**"
 :::
@@ -410,7 +411,6 @@ Le sette stelle = le sette stelle più luminose dell'Orsa Maggiore (Ursa maior)
 3.  il composto così formato forma il primo membro di un altro composto  
     Esempio:  
     pañca + go » pañcagava (come parola singola non ammesso!) + dhana » ⟪पञ्चगवधन⟫ m. "uno, la cui ricchezza è di cinque mucche"
-:::
 ::: media
 ![](/images/lekt5207.webp)
 Fig.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:

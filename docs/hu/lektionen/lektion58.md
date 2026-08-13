@@ -366,6 +366,7 @@ Paradigmák: <!-- TODO: Fallback translation -->
 ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (gyökaorista) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
 3.  A ⟪दीप्⟫ 4Ā, a ⟪जन्⟫ 4ġ és mások az 3.sg. Ā helyett felvehetik a passzív aorista alakját:
+:::
 ::: indent
 ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
 :::
@@ -373,7 +374,6 @@ Paradigmák: <!-- TODO: Fallback translation -->
 4.  A ⟪विज्⟫ 7P nem mutat ablautot:
 ::: indent
 ⟪अविजीत्⟫
-:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

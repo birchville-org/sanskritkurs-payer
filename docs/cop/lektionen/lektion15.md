@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   ὁποῖον Καραμαθαράια ἀναφορὰν ἐκφώνει, τότε τίς ἐστιν ὁ συγκρινόμενος ἐν τῷ ὀπίσω μέλει τοῦ συνθέτου:
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ἄνθρωπος ὡς λέων"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ἄνθρωπος ὡς τίγρις"
@@ -88,7 +89,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 ⲡⲓϧⲁρⲃ ϯⲛ ⲟⲩⲙϫⲱⲣ ϧⲉ⟪एव⟫ ⲛϣⱧⲟⲡ ϩⲙ ⲁⲕϥ.
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 abv.: ⟪नरसिंहः⟫

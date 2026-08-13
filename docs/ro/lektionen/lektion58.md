@@ -303,6 +303,7 @@ Sufixul de formare a temei + terminațiile aoristului iṣ sunt, așadar:
 
 *   **Rădăcini cu vocală scurtă înainte de consoană simplă: gradul înalt în P și Ā**  
     Exemple:  
+:::
 ::: indent
 ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
 ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
@@ -330,7 +331,6 @@ Sufixul de formare a temei + terminațiile aoristului iṣ sunt, așadar:
 ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
 dar:
 ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
-:::
 :::
 Paradigme:
 
@@ -368,6 +368,7 @@ Paradigme:
 **Particularități:**
 
 1.  La unele rădăcini, vocala de legătură -i- din ⟪आत्मनेपद⟫ poate fi înlocuită cu -ī-. După ⟪ग्रह्⟫ 9U "a prinde", această înlocuire trebuie să aibă loc în P și Ā:  
+:::
 ::: indent
 ⟪अग्र⟫**:sig[⟪ही⟫]**⟪षम्⟫ , ⟪अग्र⟫**:sig[⟪ही⟫]**⟪षि⟫
 :::
@@ -385,7 +386,6 @@ Paradigme:
 4.  ⟪विज्⟫ 7P nu are ablaut:  
 ::: indent
 ⟪अविजीत्⟫
-:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

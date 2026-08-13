@@ -241,6 +241,7 @@ Paradigm:
 ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "ia melakukan secara intensif, ia melakukan dengan kuat"
 
 *   **for roots expressing movement, the Intensivum means curved movement:**  
+:::
 ::: indent
 ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "he goes in curves" (NOT: "he goes often")
 :::
@@ -248,7 +249,6 @@ Paradigm:
 *   **untuk beberapa akar (daftar: Kielhorn, Tata Bahasa § 458b) Intensivum berarti mencela:**  
 ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "ia memotong dengan buruk"  
 ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "ia duduk dengan buruk"
-:::
 ::: media
 ![](/images/lekt6104.webp)
 Fig.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫

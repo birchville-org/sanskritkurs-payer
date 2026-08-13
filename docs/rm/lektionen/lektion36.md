@@ -115,6 +115,7 @@ Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : ir, ir, ir
 
+:::
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
 Fut. ⟪व्रजिष्यति⟫  
@@ -133,6 +134,7 @@ Fig.: ⟪अगारम्⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt3602))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 davon:
 
@@ -243,6 +245,7 @@ Abb.: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger <!-- TODO: Fallback translation -->
 
+:::
 ## 36.5. Exercizi
 
 A) Las suventas radis han in perfectum reduplicà ed in perfectum perifrastic. Formai las correspundentas formas da perfectum perifrastic e reduplicà per las suventas furmas:

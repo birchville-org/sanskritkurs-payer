@@ -29,32 +29,32 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 ⟪इष्ट⟫ "optatum" (id est non solum in praeterito optatum, sed etiam in praesenti)
 :::
 ::: indent
+:::
 ::: indent
 ⟪त्वरित⟫ "festinans, festinus" (PPP ad verbum tvar 1 Ā "festinare"; Dhātupāṭha: ñitvárā)
-:::
 :::
 
 **2. PPP ut adiectivum attributum adhiberi potest:**
 exempli gratia:
 ::: indent
+:::
 ::: indent
 ⟪इष्टं⟫ ⟪फलम्⟫ "fructus desideratus (exempli gratia actionum)"
-:::
 :::
 
 Si in hoc casu ⟪अपि⟫ post PPP stat, habet ⟪अपि⟫ significationem "etsi":
 exempli gratia:
 ::: indent
+:::
 ::: indent
 ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Quamvis fructum cupiat, tamen eum non accipit."
-:::
 :::
 
 ⟪गत⟫ n.: "ambulare, motus"
 ::: indent
+:::
 ::: indent
 ⟪नृत्त⟫ n.: "saltare, saltus"
-:::
 :::
 
 ## 13.3. Determinationes attributivae nominum (ordo verborum)

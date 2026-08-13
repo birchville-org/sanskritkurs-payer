@@ -113,6 +113,7 @@ Wayang-Figur, Java, Indonesien
 
 *   **Zahlwörtern**
     Beispiele:  
+:::
 ::: indent
 ⟪एकशस्⟫ "einzeln, je einer"
 ⟪द्विशस्⟫ "zu zweien, je zwei"
@@ -125,7 +126,6 @@ Wayang-Figur, Java, Indonesien
 ⟪भागशस्⟫ "Teil für Teil"
 ⟪सर्वशस्⟫ "überall, gar alle"
 ⟪नित्यशस्⟫ "beständig"
-:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -152,6 +152,7 @@ Der Auslaut des Nomens wird folgendermassen behandelt:
 
 *   **auslautendes -a und -ā deklinierbarer Wörter werden durch -ī ersetzt  **
     Beispiele:  
+:::
 ::: indent
 ⟪कृष्णीभवति⟫ "etwas, das nicht schwarz ist, wird schwarz"
 ⟪कृष्णीकरोति⟫ "er macht etwas, das nicht schwarz ist, schwarz"
@@ -173,7 +174,6 @@ Der Auslaut des Nomens wird folgendermassen behandelt:
 
 *   **mehrstämmige andere Nomina stehen in der Form des Stammes, den sie im Lokativ (⟪सप्तमी⟫) Plural haben. Der Stamm unterliegt dann den üblichen Sandhiregeln. Siehe Kielhorn, Grammatik § 489,3.  **
     z.B. ⟪तिर्यक्करोति⟫ "er legt seitwärts (⟪तिर्यच्⟫)"
-:::
 ::: media
 ![](/images/lekt5209.webp)
 Abb.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
@@ -233,6 +233,7 @@ Beispiel:
     z.B. ⟪पुनः⟫ ⟪पुनः⟫ "immer wieder"
 *   **Distribution**
     Beispiele:  
+:::
 ::: indent
 ⟪पृथक्पृथक्⟫ "je gesondert, je einzeln"
 ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "was auch immer ... das alles"
@@ -241,7 +242,6 @@ Beispiel:
 
 **Gelegentlich kann aus solchen Verbindungen ein Kompositum gebildet werden**
 
-:::
 Beispiele:
 
 ::: indent
@@ -403,6 +403,7 @@ Das Siebengestirn = die sieben hellsten Sterne des Grossen Bären (Ursa maior)
 2.  das so gebildete Kompositum in einer Bedeutung gebraucht wird, die sonst durch ein Taddhita-Suffix bezeichnet wird (bei dieser Art ist der Übergang zum Bahuvrīhi fliessend):
     Beispiele:  
     dvi + go » :sig[⟪द्विगु⟫] : nicht: "zwei Kühe", sondern: "**für zwei Kühe erhandelt**"  
+:::
 ::: indent
 ⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "**zwei Jahre alt**"
 :::
@@ -410,7 +411,6 @@ Das Siebengestirn = die sieben hellsten Sterne des Grossen Bären (Ursa maior)
 3.  das so gebildete Kompositum das Vorderglied eines anderen Kompositums bildet
     Beispiel:  
     pañca + go » pañcagava (als Einzelwort unzulässig!) + dhana » ⟪पञ्चगवधन⟫ m. "Einer, dessen Reichtum fünf Kühe sind"
-:::
 ::: media
 ![](/images/lekt5207.webp)
 Abb.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:

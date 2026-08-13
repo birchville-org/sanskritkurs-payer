@@ -94,3 +94,4 @@ Comentariu la secțiunea anterioară a **⟪कादम्बरी⟫**:
 Fig.: Sanscrit școlar
 (Sursa imaginii: [Detalii](/licenses#uebung089))
 ::: <!-- TODO: Fallback translation -->
+:::

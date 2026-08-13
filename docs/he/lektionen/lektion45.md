@@ -154,3 +154,5 @@ status: stable
 **lekt4502.jpg**: מקור התמונה: John Isaac / הבנק העולמי. -- http://www.flickr.com/photos/worldbank/2348425672/. -- תאריך גישה: 08.01.2009. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

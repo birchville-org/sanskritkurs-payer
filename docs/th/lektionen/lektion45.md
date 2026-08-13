@@ -154,3 +154,5 @@ B) จงแปล:
 **lekt4502.jpg**: ที่มาภาพ: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, no derivatives)
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

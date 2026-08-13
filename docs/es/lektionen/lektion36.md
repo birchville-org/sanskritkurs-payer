@@ -115,6 +115,7 @@ Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : caminar, ir, irse
 
+:::
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
 Fut. ⟪व्रजिष्यति⟫  
@@ -133,6 +134,7 @@ Fig.: ⟪अगारम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3602))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: indent
 de ello:
 
@@ -243,6 +245,7 @@ Fig.: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: propio (mío, tuyo ...) ; m.: miembro
 
+:::
 ## 36.5. Ejercicio
 
 A) Las siguientes raíces tienen tanto perfecto reduplicado como perifrástico. Forme las correspondientes formas de perfecto perifrástico y reduplicado para las siguientes formas:

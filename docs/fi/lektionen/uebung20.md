@@ -301,3 +301,4 @@ Köyhät, joita hän ei halua, saavat hyvin paljon poikia; rikkailla ei ole yht�
 Kuv.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung032))
 ::: <!-- TODO: Fallback translation -->
+:::

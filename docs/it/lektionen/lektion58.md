@@ -303,6 +303,7 @@ Il suffisso di formazione del tema + le desinenze dell'aoristo iṣ-Aorist sono 
 
 *   **Radici con vocale breve prima di consonante semplice: grado pieno nel P e Ā**  
     Esempi:  
+:::
 ::: indent
 ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
 ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
@@ -330,7 +331,6 @@ Il suffisso di formazione del tema + le desinenze dell'aoristo iṣ-Aorist sono 
 ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
 ma:
 ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
-:::
 :::
 Paradigmi:
 
@@ -368,6 +368,7 @@ Paradigmi:
 **Particolarità:**
 
 1.  In alcune radici la vocale di giunzione -i- nel ⟪आत्मनेपद⟫ può essere sostituita da -ī-. Dopo ⟪ग्रह्⟫ 9U "afferrare" questa sostituzione deve avvenire nel P e Ā:  
+:::
 ::: indent
 ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
 :::
@@ -385,7 +386,6 @@ Paradigmi:
 4.  ⟪विज्⟫ 7P non ha ablaut:  
 ::: indent
 ⟪अविजीत्⟫
-:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

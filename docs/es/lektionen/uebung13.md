@@ -273,3 +273,4 @@ E) Traduzca al sánscrito:
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung018))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   ਜੇਕਰ ਕਰਮਧਾਰਯ ਇੱਕ ਤੁਲਨਾ ਦਰਸਾਉਂਦਾ ਹੈ, ਤਾਂ ਜਿਸ ਨਾਲ ਤੁਲਨਾ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ, ਉਹ ਸੰਯੁਕਤ ਸ਼ਬਦ ਦੇ ਪਿਛਲੇ ਅੰਗ ਵਿੱਚ ਹੁੰਦਾ ਹੈ:
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ਸਿੰਘ ਵਰਗਾ ਇੱਕ ਮਰਦ"
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ਬਾਘ ਵਰਗਾ ਇੱਕ ਮਰਦ"
@@ -88,7 +89,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
     ਅਜਿਹੇ ਸਮਾਸਿਕ ਕਰਮਧਾਰਯ ਨੂੰ ਸਥਾਨਿਕ ਟਿੱਪਣੀਆਂ ਵਿੱਚ, ਉੱਪਰੋਕਤ ਉਦਾਹਰਣ ਵਾਂਗ, ⟪एव⟫ ਦੁਆਰਾ ਵਿਸਥਾਰਿਆ ਜਾਂਦਾ ਹੈ⟪।⟫
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 ਚਿੱਤਰ: ⟪नरसिंहः⟫

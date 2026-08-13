@@ -216,3 +216,4 @@ Text extras din: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f. <!-- TODO: Fal
 Fig.: ⟪रामस्य⟫ ⟪रावणेन⟫ ⟪युद्धः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung099))
 ::: <!-- TODO: Fallback translation -->
+:::

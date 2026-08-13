@@ -141,6 +141,7 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (nel P ⟪गम्⟫ ha l'aoristo tematico)**
 
 2.  ⟪पद्⟫ 4Ā è regolare (ad es. ⟪अपत्सि⟫), ma nella 3.sg.Ā ha la forma dell'aoristo della radice passivo:
+:::
 ::: indent
 ⟪अपादि⟫ "egli andò"
 :::
@@ -148,7 +149,6 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 3.  ⟪बुध्⟫ Ā può assumere facoltativamente nella 3.sg.Ā la forma dell'aoristo della radice passivo:
 ::: indent
 ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "egli riconobbe"
-:::
 :::
 ## 57.2. Esercizio
 

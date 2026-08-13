@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   หากคัมธายระแสดงถึง "การเปรียบเทียบ" สิ่งที่นำมาใช้เปรียบเทียบกับจะอยู่ในองค์ประกอบหลังของคำประสม:
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ชายผู้ดุจสิงโต"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ชายผู้ดุจเสือ"
@@ -88,7 +89,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 คำ Karmadhāraya แบบ Apposition เหล่านี้ในคำอธิบายท้องถิ่นเช่นตัวอย่างข้างต้นถูกแยกโดยใช้ ⟪एव⟫
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 ภาพ: ⟪नरसिंहः⟫

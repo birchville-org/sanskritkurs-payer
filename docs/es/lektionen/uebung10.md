@@ -323,3 +323,4 @@ El cochero guía el carro.
 Fig.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung012))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

@@ -86,6 +86,7 @@ Fig.: Titulus operis popularis
 
 >**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Pars: Conspectus culturae subcontinentis Indicae ante adventum Muslimorum. -- Londinii
 
+:::
 ::: media
 ![](/images/lekt0104.webp)
 Tab.: Titulus
@@ -96,6 +97,7 @@ Tab.: Titulus
 
 > **Kielhorn**, Franz (1840–1908): Grammatica linguae Sanscriticae / e lingua Anglica versa a W. Solf [1862 - 1936]. -- Berolinum : Dümmler, 1888. -- XIII, 238 pag. -- Titulus originalis: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt0105.webp)
 Abb.: Titulus operis
@@ -106,6 +108,7 @@ Abb.: Titulus operis
 
 > **Kunnappally, Ioannes:** Prakriyā bhāshyam : Grammatica Sanscritica / Primis Malayalam linguis conscriptum. In Anglicam linguam vertit K.V.R. Pai. -- Parathode : Typis propriis, 1983. -- 818 pag. ; 23 cm.
 
+:::
 ::: media
 ![](/images/lekt0107.jpg)
 Tab.: Titulus operis
@@ -116,6 +119,7 @@ Bonam, succinctamque Europaeae linguae scientiae terminologiam invenies in:
 
 > **Etymologium verborum Germanicorum** / [Friedrich] Kluge (1856–1926). Curavit Elmar Seebold. -- 24., emendata et aucta ed. -- Berolinum [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Copertina mollus. -- P. XIII - XLVII.
 
+:::
 ::: media
 ![](/images/lekt0108.jpg)
 Tab.: Titulus operis
@@ -126,6 +130,7 @@ Pro curiosos ad consulendum:
 
 > **Lexicon Linguisticae** / sub cura Hadumod Bußmann. -- 4., emend. et bibliogr. auct. ed. / cum contrib. Hartmut Lauffer. -- Stutgardia : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
+:::
 ## 1.2. De litteris Sanscritae
 
 Soni Sanscritī secundum classificationem Indianam traditionalis et eorum transliteratio scientifica.

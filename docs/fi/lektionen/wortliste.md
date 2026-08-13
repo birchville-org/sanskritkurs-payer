@@ -2896,6 +2896,7 @@ joista:
 ⟪अशोक⟫ 3: murheeton; ašokapuu = _Saraca asoca_ (Roxb.) Wilde; keisari Aśokan nimi (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (n. 304 – 232 eaa.)
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt3810.webp)
 Kuv: ⟪अशोकवृक्षः⟫

@@ -194,6 +194,7 @@ Strong grade:
 
 *   Roots with a short vowel (except a) before a simple consonant as well as ⟪जन्⟫ and most roots ending in -am  
     Examples:  
+:::
 ::: indent
 ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "he was split"
 ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "he was pushed"
@@ -234,7 +235,6 @@ Nasal infix:
 :::
 
 (Bentuk-bentuk pasif lainnya dinyatakan dalam aorist dengan bentuk Ātmanepada).
-:::
 ## 54.7. Latihan
 
 Tulis bentuk-bentuk berikut dan buat bentuk aorist yang sesuai:

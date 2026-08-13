@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   यदि कर्मधारय तुलना व्यक्त करता है, तो जिससे तुलना की जाती है वह समास के उत्तरपद में होता है:
 
+:::
 ::: indent
 ⟪⟪नरसिंहः⟫⟫ = ⟪⟪सिंह⟫⟫ ⟪⟪इव⟫⟫ ⟪⟪नरः⟫⟫ = "एक पुरुष जो शेर जैसा है"
 ⟪⟪पुरुषव्याघ्रः⟫⟫ = ⟪⟪व्याघ्र⟫⟫ ⟪⟪इव⟫⟫ ⟪⟪पुरुषः⟫⟫ = "एक पुरुष जो बाघ जैसा है"
@@ -88,7 +89,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 ऐसे अप्पोझिशनल कर्मधारय को स्थानीय टिप्पणियों में, ऊपर दिए गए उदाहरण की तरह ⟪⟪एव⟫⟫ के माध्यम से विघटित किया जाता है।
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 चित्र: ⟪⟪नरसिंहः⟫⟫

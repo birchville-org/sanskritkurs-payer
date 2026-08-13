@@ -51,3 +51,4 @@ Cine a învins mânia nu urăște un dușman, chiar dacă acesta îl omoară. Ci
 Fig.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung033))
 ::: <!-- TODO: Fallback translation -->
+:::

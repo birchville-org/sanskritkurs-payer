@@ -303,6 +303,7 @@ Stammbildungssuffix + Endungen des iṣ-Aorist lauten also: <!-- TODO: Fallback 
 
 *   **Wurzeln mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā**   <!-- TODO: Fallback translation -->
     Beispiele:  
+:::
 ::: indent
 ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
 ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫ <!-- TODO: Fallback translation -->
@@ -330,7 +331,6 @@ Stammbildungssuffix + Endungen des iṣ-Aorist lauten also: <!-- TODO: Fallback 
 ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
 aber:
 ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫ <!-- TODO: Fallback translation -->
-:::
 :::
 Paradigmen: <!-- TODO: Fallback translation -->
 
@@ -368,6 +368,7 @@ Paradigmen: <!-- TODO: Fallback translation -->
 **Besonderheiten:** <!-- TODO: Fallback translation -->
 
 1.  Bei einigen Wurzeln kann der Bindevokal -i- im ⟪आत्मनेपद⟫ durch -ī- ersetzt werden. Nach ⟪ग्रह्⟫ 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:   <!-- TODO: Fallback translation -->
+:::
 ::: indent
 ⟪अग्र⟫:sig[⟪ही⟫]⟪षम्⟫ , ⟪अग्र⟫:sig[⟪ही⟫]⟪षि⟫ <!-- TODO: Fallback translation -->
 :::
@@ -385,7 +386,6 @@ Paradigmen: <!-- TODO: Fallback translation -->
 4.  ⟪विज्⟫ 7P hat keinen Ablaut:   <!-- TODO: Fallback translation -->
 ::: indent
 ⟪अविजीत्⟫ <!-- TODO: Fallback translation -->
-:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

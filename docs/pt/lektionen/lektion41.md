@@ -25,6 +25,7 @@ Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 (Fonte da imagem: [Detalhes](/licenses#lekt4102))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 ⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
 ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
@@ -189,6 +190,7 @@ Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4103))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **2b. Raízes em -u /-ū substituem o -o do grau guṇa antes de -ya por -av, e o -au do grau vṛddhi por -āv. A formação com o grau vṛddhi significa, neste caso, necessidade.**
 :::
@@ -351,6 +353,7 @@ Fig.: ⟪शासना⟫
 (Fonte da imagem: [Details](/licenses#lekt4109))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 ⟪शास्त्र⟫ n.: doutrina, tratado
 
@@ -362,6 +365,7 @@ Fig.: ⟪शास्त्री⟫
 (Fonte da imagem: [Details](/licenses#lekt4110))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 ⟪शिष्य⟫ 3: aquele que deve ser ensinado = discípulo
 :::

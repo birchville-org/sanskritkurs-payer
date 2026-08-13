@@ -366,6 +366,7 @@ Paradigmat: <!-- TODO: Fallback translation -->
 ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (juuren aoristi) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫ <!-- TODO: Fallback translation -->
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4ġ jne. voivat 3.sg. Ā:n sijaan saada passiivin aoristin muodon:
+:::
 ::: indent
 ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
 :::
@@ -373,7 +374,6 @@ Paradigmat: <!-- TODO: Fallback translation -->
 4.  ⟪विज्⟫ 7P ei tunne ablautia:
 ::: indent
 ⟪अविजीत्⟫
-:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

@@ -36,6 +36,7 @@ Fig.: ⟪मार्जारयुगम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5301))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt5302.webp)
 Fig.: ⟪हस्तौ⟫
@@ -651,3 +652,5 @@ Alois Maria Payer
 **Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

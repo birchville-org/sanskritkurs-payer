@@ -88,3 +88,4 @@ Para el indomable (no yogui) no hay comprensión.
 Fig.: ⟪सक्तः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung080))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

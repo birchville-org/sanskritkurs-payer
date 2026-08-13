@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   exprimit Karmadhāraya comparationem, tum id, quo comparatur, in posteriori parte compositi statuitur:
 
+:::
 ::: indent
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "vir ut tigris"
 :::
@@ -87,7 +88,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 Huiusmodi appositiva Karmadhāraya in commentariis indigenis, ut in exemplo superiore, per ⟪एव⟫ resolvuntur.
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 Fig.: ⟪नरसिंहः⟫

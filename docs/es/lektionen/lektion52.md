@@ -113,6 +113,7 @@ Figura Wayang, Java, Indonesia
 
 *   **palabras numerales**  
     Ejemplos:  
+:::
 ::: indent
 ⟪एकशस्⟫ "individualmente, cada uno"
 ⟪द्विशस्⟫ "en parejas, cada dos"
@@ -125,7 +126,6 @@ Figura Wayang, Java, Indonesia
 ⟪भागशस्⟫ "parte por parte"
 ⟪सर्वशस्⟫ "en todas partes, absolutamente todos"
 ⟪नित्यशस्⟫ "constantemente"
-:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -152,6 +152,7 @@ La terminación del sustantivo se trata de la siguiente manera:
 
 *   **la terminación en -a y -ā de palabras declinables se reemplaza por -ī**  
     Ejemplos:  
+:::
 ::: indent
 ⟪कृष्णीभवति⟫ "algo que no es negro se vuelve negro"
 ⟪कृष्णीकरोति⟫ "él hace que algo que no es negro se vuelva negro"
@@ -173,7 +174,6 @@ La terminación del sustantivo se trata de la siguiente manera:
 
 *   **otros sustantivos con múltiples raíces están en la forma de la raíz que tienen en el locativo (⟪सप्तमी⟫) plural. La raíz está entonces sujeta a las reglas habituales de sandhi. Véase Kielhorn, Gramática § 489,3.**  
     p.ej. ⟪तिर्यक्करोति⟫ "él yace de lado (⟪तिर्यच्⟫)"
-:::
 ::: media
 ![](/images/lekt5209.webp)
 Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
@@ -233,6 +233,7 @@ Ejemplo:
     p.ej. ⟪पुनः⟫ ⟪पुनः⟫ "una y otra vez"
 *   **Distribución**  
     Ejemplos:  
+:::
 ::: indent
 ⟪पृथक्पृथक्⟫ "cada uno por separado, cada uno individualmente"
 ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "lo que sea ... todo eso"
@@ -241,7 +242,6 @@ Ejemplo:
 
 **Ocasionalmente, de tales combinaciones se puede formar un compuesto**
 
-:::
 Ejemplos:
 
 ::: indent
@@ -403,6 +403,7 @@ Las Siete Estrellas = las siete estrellas más brillantes de la Osa Mayor (Ursa 
 2.  el compuesto así formado se usa en un significado que de otro modo sería designado por un sufijo Taddhita (en este tipo, la transición a Bahuvrīhi es fluida):  
     Ejemplos:  
     dvi + go » :sig[⟪द्विगु⟫] : no: "dos vacas", sino: "**adquirido para dos vacas**"  
+:::
 ::: indent
 ⟪द्विवर्ष⟫ no: "dos años", sino: "**de dos años de edad**"
 :::
@@ -410,7 +411,6 @@ Las Siete Estrellas = las siete estrellas más brillantes de la Osa Mayor (Ursa 
 3.  el compuesto así formado forma el primer miembro de otro compuesto  
     Ejemplo:  
     pañca + go » pañcagava (¡no permitido como palabra individual!) + dhana » ⟪पञ्चगवधन⟫ m. "Aquel cuyo riqueza son cinco vacas"
-:::
 ::: media
 ![](/images/lekt5207.webp)
 Fig.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
@@ -790,6 +790,7 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5201))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: deleteme-box
 
 **lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Fuente de la imagen: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Acceso el 2009-01-15. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, sin uso comercial, sin obras derivadas)]

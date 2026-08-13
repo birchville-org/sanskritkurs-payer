@@ -54,6 +54,7 @@ Sillaba tematica:
 **Il vocale di questa cosiddetta sillaba tematica si determina nell’Aoristo secondo le seguenti regole:**
 
 *   **\-ā- davanti a consonante semplice viene sostituito da -a-:**  
+:::
 ::: indent
 ⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫
 ⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫
@@ -78,7 +79,6 @@ Sillaba tematica:
 ⟪कॢप्⟫  1Ā: Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫
 ⟪कृष्⟫ 1P/6U: Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
 :::
-:::
 Vocale della sillaba di reduplicazione:
 
 Dopo aver applicato le regole appena menzionate alla sillaba tematica, devono essere seguite le seguenti regole per la vocale della sillaba di reduplicazione:
@@ -93,6 +93,7 @@ Dopo aver applicato le regole appena menzionate alla sillaba tematica, devono es
 **Questa vocale di reduplicazione è soggetta alle seguenti modifiche:**
 
 *   **i, u viene sostituita da ī, ū, se la sillaba tematica inizia con una sola consonante ed è metricamente breve:**  
+:::
 ::: indent
 ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
 ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
@@ -114,7 +115,6 @@ Particolarità di certe radici in Kielhorn, Grammatik § 435c ss.
 
 Vocale - prima consonante che segue (ovvero il suo rappresentante richiesto in una sillaba di reduplicazione) - **i** - tutte le consonanti
 
-:::
 ::: indent
 ⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, sillaba di reduplicazione ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, sillaba di reduplicazione ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫

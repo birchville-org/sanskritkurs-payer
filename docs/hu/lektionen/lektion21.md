@@ -178,6 +178,7 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 (Képforrás: [Részletek](/hu/licenses#lekt2102))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 "Egy 4-6. századi karneol pecsét, amely Viṣṇut egy imádkozóval ábrázolja. A kurzív baktriai felirat: 'Mihira, Viṣṇu és Śiva'."
 :::
@@ -260,6 +261,7 @@ ebből:
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2105))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (valójában egy desideratívum a ⟪भज्⟫ igéhez: kívánni, hogy valaki részt vegyen): koldulni
 :::

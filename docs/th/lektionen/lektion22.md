@@ -272,3 +272,5 @@ status: stable
 **lekt2204:** [ที่มาภาพ: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- เข้าถึงเมื่อ 2008-12-12. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, ไม่มีดัดแปลง)]
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

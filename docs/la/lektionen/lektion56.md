@@ -54,6 +54,7 @@ Syllaba radicalis:
 **Vocalis huius dictae syllabae radicalem in aoristo determinatur secundum sequentes regulas:**
 
 *   **\-ā- ante consonantem simplicem per -a- substituitur:**
+:::
 ::: indent
 ⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫
 ⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫
@@ -78,7 +79,6 @@ Syllaba radicalis:
 ⟪कॢप्⟩ 1Ā: Caus. ***⟪कल्प⟩***⟪यति⟩, Aor. ⟪अच⟩***⟪कल्प⟩***⟪त्⟩ / ⟪अची⟩***⟪कॢ⟩***⟪पत्⟩
 ⟪कृष्⟩ 1P/6U: Caus. ***⟪कर्ष⟩***⟪यति⟩, Aor. ⟪अच⟩***⟪कर्ष⟩***⟪त्⟩ / ⟪अची⟩***⟪कृ⟩***⟪षत्⟩
 :::
-:::
 Vocalis syllabae reduplicativae:
 
 Postquam regulae modo dictae ad syllabam radicalem applicatae sunt, sequentes regulas pro vocali syllabae reduplicativam observandas esse:
@@ -93,6 +93,7 @@ Postquam regulae modo dictae ad syllabam radicalem applicatae sunt, sequentes re
 **Haec vocalis reduplicativa subicitur his mutationibus:**
 
 *   **i, u per ī, ū substituitur, si syllaba radicalis uno tantum consonante incipit et metrico brevi est:**
+:::
 ::: indent
 ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
 ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
@@ -114,7 +115,6 @@ Particularia radicum quaedam apud Kielhorn, Grammatik § 435c seq.
 
 Vocalis - primus consonans subsequens (vel eius representative in syllaba reduplicativa requirito) - **i** - omnes consonantes
 
-:::
 ::: indent
 ⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, syllaba reduplicata ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Caus. ⟪एषयति⟫, syllaba reduplicata ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫

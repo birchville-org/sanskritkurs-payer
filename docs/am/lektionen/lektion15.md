@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   አንድ ካርማድሃራያ ንጽጽርን የሚገልጽ ከሆነ፣ የሚነጻጸርበት ነገር በቅንብሩ መጨረሻ ክፍል ላይ ይቆማል፡
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "እንደ አንበሳ ያለ ሰው"
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "እንደ ነብር ያለ ሰው"
@@ -88,7 +89,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 እንደዚህ ያሉ አፖዚሽናል ካርማድሃራያዎች በአገርኛ ትርጓሜዎች ውስጥ ከላይ ባለው ምሳሌ መሠረት በ⟪एव⟫ ይፈታሉ።
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 ምስል፦ ⟪नरसिंहः⟫

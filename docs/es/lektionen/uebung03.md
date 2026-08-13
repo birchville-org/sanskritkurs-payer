@@ -170,3 +170,4 @@ dvijāḥ kṣatriyāḥ.
 Fig.: ⟪पशुर्धेनुः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung001))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

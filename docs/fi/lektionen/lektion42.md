@@ -87,6 +87,7 @@ Kuva: ⟪अयं⟫ ⟪बोधयिता⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4201))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 Harvinaiset -⟪तृ⟫ päätteiset neutrumit taivaltavat osittain omalla tavallaan (ks. Kielhorn, Grammatik § 148). <!-- TODO: Fallback translation -->
 

@@ -369,6 +369,7 @@ Fig.: ⟪शर्करा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4309))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Accesat la 2009-01-06. -- Licență Creative Commons (Atribuire, fără scop comercial)

@@ -105,10 +105,10 @@ Adverbial gebraucht werden kann der Ablativ: <!-- TODO: Fallback translation -->
 
 *   von Pronomina
     Beispiele:  
+:::
 ::: indent
 ⟪कस्मात्⟫ "warum"
 ⟪अकस्मात्⟫ "unerwartet"
-:::
 :::
 ### 37.2.5. ⲅⲉⲛⲉⲧⲓⲃ
 

@@ -110,3 +110,4 @@ La economía es agricultura, ganadería y comercio.
 Fig.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung013))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

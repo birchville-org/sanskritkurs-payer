@@ -322,3 +322,4 @@ Una vez, un anciano fue a otro pueblo y se cansó en el camino. Para descansar, 
 Fig.: ⟪वानरः⟫ ⟪कुपितः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung054))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

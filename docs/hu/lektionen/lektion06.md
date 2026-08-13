@@ -157,6 +157,7 @@ Az **a** a jelen idő osztályainak szóképző utótagjaiban **témavokálisnak
 - Válasz: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = „(Nekem) minden tekintetben jól van.”
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 6.7. Szószedet
 
 ::: grammar-box

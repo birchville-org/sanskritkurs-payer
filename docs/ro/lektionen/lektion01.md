@@ -21,6 +21,7 @@ Ilustr.: Gaṇeśa, Adamspeak, Sri Lanka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0102))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: center
 ⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
 ⟪सततं⟫ ⟪मोदकप्रिय⟫ |
@@ -50,6 +51,7 @@ Ilustr.: Ardhanarīśvara
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0101))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: center
 ⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
 ⟪वागर्थप्रतिपत्तये⟫ |
@@ -87,6 +89,7 @@ Fig.: Coperta unei ediții de buzunar
 
 >**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Partea: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- De atunci, multe ediții, inclusiv ediții de buzunar. -- **Citate obligatorii.** O bună prezentare generală a vieții, istoriei și culturii din India preislamică. Prezentare generală a diverselor domenii ale indologiei clasice.
 
+:::
 ::: media
 ![](/images/lekt0104.webp)
 Fig.: Pagina de titlu
@@ -97,6 +100,7 @@ Fig.: Pagina de titlu
 
 > **Kielhorn**, Franz (1840–1908): Grammatica limbii sanscrite / Tradus din engleză de W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Titlu original: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt0105.webp)
 Fig.: Coperta
@@ -107,6 +111,7 @@ Fig.: Coperta
 
 > **Kunnappally, John:** Prakriyā bhāshyam : Gramatică sanscrită / Scris inițial în malayalam. Tradus în engleză de K.V.R. Pai. -- Parathode : Autoeditare, 1983. -- 818 p. ; 23 cm. <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt0107.jpg)
 Fig.: Coperta
@@ -117,6 +122,7 @@ O prezentare bună și concisă a terminologiei lingvistice europene se găseșt
 
 > **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Editat de Elmar Seebold. -- A 24-a, rev. și ext. ed. -- Berlin [etc.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Broșură. -- P. XIII - XLVII. <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt0108.jpg)
 Fig.: Coperta
@@ -127,6 +133,7 @@ Pentru cei curioși, pentru consultare:
 
 > **Lexikon der Sprachwissenschaft** / Editat de Hadumod Bußmann. -- A 4-a, rev. și completată bibliografic. ed. / cu colaborarea lui Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7 <!-- TODO: Fallback translation -->
 
+:::
 ## 1.2. Sunetele sanscrite
 
 Sunetele sanscrite conform clasificării tradiționale indiene și transcrierea lor științifică.

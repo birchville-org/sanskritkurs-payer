@@ -74,3 +74,4 @@ Vocativo singular de los masculinos / neutros en -a termina en -a: p. ej. ⟪द
 Abb.: ⟪तिलप्रमाणम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung057))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

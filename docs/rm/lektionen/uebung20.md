@@ -253,6 +253,7 @@ Lo yoga da l'acziun è ascetissem, studis dal Veda e servetsch attent al SIGNUR.
 ::: deleteme-box Erläuterung
 Ils tschintg "dolars" (⟪क्लेश⟫) èn: ⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫ (Yoga-Sūtra 2.3) — ignoranza, egoïssem, avidad, odi e attachament al corp.
 
+:::
 ::: deleteme-box Erläuterung
 Las tschintg «dolors» (⟪क्लेश⟫) èn: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — ignoranza, egoïssem, avidad, odi e attachament al corp.
 :::
@@ -296,3 +297,4 @@ Bratschas che els na vulan, han fitg blers figls, riccs n’han nagin figl. Stru
 Abb.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung032))
 ::: <!-- TODO: Fallback translation -->
+:::

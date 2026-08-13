@@ -146,3 +146,4 @@ Resuelva los siguientes compuestos como Tatpuruṣa en sánscrito y proporcione 
 Fig.: ⟪गृहकरणम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung016))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

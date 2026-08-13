@@ -34,6 +34,7 @@ Jaipur, 1875.
 (Source de l'image : [Détails](/fr/licenses#lekt2701))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **2. Le locatif indique, à la question « Quand ? », le moment ou les circonstances extérieures :**

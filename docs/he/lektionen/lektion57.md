@@ -141,6 +141,7 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 **⟪⟪अगसि⟫⟩ (« \*a-gm-si) ⟪⟪।⟫⟩ ⟪⟪अगथास्⟫⟩ ⟪⟪।⟫⟩ ⟪⟪अगत⟫⟩ (ב-P ל-⟪⟪गम्⟫⟩ יש את ה-aorist עם תנועת הנושא)**
 
 2.  ⟪⟪पद्⟫⟩ 4Ā הוא סדיר (למשל ⟪⟪अपत्सि⟫⟩), אך ב-3.sg.Ā יש לו את צורת ה-aorist שורש פסיבי:
+:::
 ::: indent
 ⟪⟪अपादि⟫⟩ "הוא הלך"
 :::
@@ -148,7 +149,6 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 3.  ⟪⟪बुध्⟫⟩ Ā יכול לקבל באופן אופציונלי ב-3.sg.Ā את צורת ה-aorist שורש הפסיבי:
 ::: indent
 ⟪⟪अबोधि⟫⟩ / ⟪⟪अबुद्ध⟫⟩ "הוא הכיר"
-:::
 :::
 ## 57.2. תרגיל
 

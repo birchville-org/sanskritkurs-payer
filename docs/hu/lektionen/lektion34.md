@@ -331,6 +331,7 @@ Hindu esküvői rituálé.
 (Képforrás: [Részletek](/hu/licenses#lekt3407))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt3401:** Nandi bika szobra, Chamundi-hegyek, Mysore. [Képmegjelenítés: Luna Park / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
@@ -348,3 +349,5 @@ Hindu esküvői rituálé.
 **lekt3407:** Hindu esküvői rituálé. [Képmegjelenítés: BriceFR / Flickr. CC BY-NC-SA]
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

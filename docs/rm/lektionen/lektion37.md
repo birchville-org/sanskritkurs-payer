@@ -34,6 +34,7 @@ L’accusativ po vegnir adina aduprà sco
 
 *   da sustantivs  
     Exemples:  
+:::
 ::: indent
 ⟪कामम्⟫ "secundam illescentia, secundam illescentia"
 ⟪अर्थम्⟫ "propter"
@@ -49,11 +50,11 @@ L’accusativ po vegnir adina aduprà sco
 
 *   da pronomina en il neutrum  
     Exemples:  
+:::
 ::: indent
 ⟪तद्⟫ "lura, perquai"
 ⟪यद्⟫ "schend, che"
 ⟪एतद्⟫ "uschè, qua, uss"
-:::
 :::
 ### 37.2.2. Instrumental (⟪तृतीया⟫)
 
@@ -68,6 +69,7 @@ L’instrumental pozz’ esser adoperà sco adverbial:
 
 *   da sustantivs  
     Exemples:  
+:::
 ::: indent
 ⟪अर्थेन⟫ "a causa da"
 ⟪क्षणेन⟫ "en il mument, immediatamain" (da ⟪क्षण⟩ m. "mument")
@@ -78,7 +80,6 @@ L’instrumental pozz’ esser adoperà sco adverbial:
 ::: indent
 ⟪दूरेण⟫ "lunsch, da la lunsch" (a ⟪दूर⟫ 3 "lunsch, lunsch da")
 ⟪उच्चैस्⟫ "aut, aut" (a ⟪उच्च⟫ 3 "aut, elevà, aut, clar (da vusch)")
-:::
 :::
 ### 37.2.3. Datīv (⟪चतुर्थी⟫)
 
@@ -113,10 +114,10 @@ L'ablativ pozz' vegnir aduprà sco avverbial:
 
 *   da pronomina  
     Exemples:  
+:::
 ::: indent
 ⟪कस्मात्⟫ "perche"
 ⟪अकस्मात्⟫ "imprevistamain"
-:::
 :::
 ### 37.2.5. Genitiv (⟪षष्ठी⟫)
 

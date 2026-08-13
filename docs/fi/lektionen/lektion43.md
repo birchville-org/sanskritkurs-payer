@@ -369,6 +369,7 @@ Kuva: ⟪शर्करा⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4309))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Viitattu 2009-01-06. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä) <!-- TODO: Fallback translation -->

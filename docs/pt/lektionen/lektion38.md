@@ -205,6 +205,7 @@ Fig.: ⟪हस्तवान्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3807))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 Adjetivos em **-⟪इन्⟫** são frequentemente formados em compostos.
 :::
@@ -401,6 +402,7 @@ Fig.: ⟪अशोकवृक्षः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3810))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt3811.webp)
 Fig.: ⟪अशोकसाम्राज्यम्⟫

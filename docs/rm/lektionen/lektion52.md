@@ -369,6 +369,7 @@ Abb.: ⟪चतुर्मुखः⟫
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt5205))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **⟪तत्पुरुष⟫ cun in num cardinal en il prim element na pon betg vegnir formatids a gieu:**
 
@@ -382,6 +383,7 @@ La constellaziun da set stailas = ils set stailas pli clers da l'Ursa maior
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt5206))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **Regla 2: Differente da la regla 1, ina paraula che designescha in directiun dal tschiel u in numeral cardinal po furmar cun autra substantiv in Tatpuruṣa, sche**
 
@@ -778,6 +780,7 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt5201))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Fonta da l'imagines: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Access il 2009-01-15. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuziun, nagina utilizaziun cummerciala, nagina lavur da transformaziun)]

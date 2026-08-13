@@ -173,6 +173,7 @@ Kuva: ⟪क्व⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3701))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **Lisättyjä adverbialipäätteitä**

@@ -266,3 +266,4 @@ last_reconstructed: 2026-05-15
 Εικ.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Πηγή εικόνας: [Details](/licenses#uebung024))
 ::: <!-- TODO: Fallback translation -->
+:::

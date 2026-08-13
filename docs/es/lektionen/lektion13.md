@@ -30,35 +30,35 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 por ejemplo:
 :::
 ::: indent
+:::
 ::: indent
 ⟪इष्ट⟫ "deseado" (es decir, no solo deseado en el pasado, sino también en el presente)
-:::
 :::
 
 ::: indent
 ⟪त्वरित⟫ "apresurado, veloz" (PPP de tvar 1 Ā "apresurarse"; Dhātupāṭha: ñitvárā)
 :::
 ::: indent
+:::
 ::: indent
 ⟪इष्टं⟫ ⟪फलम्⟫ "la fruta deseada (por ejemplo, la de las acciones)"
-:::
 :::
 
 Si en este caso ⟪अपि⟫ sigue al PPP, ⟪अपि⟫ tiene el significado "aunque":
 por ejemplo:
 ::: indent
+:::
 ::: indent
 ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Aunque el que desea la fruta no la obtiene."
-:::
 :::
 
 ::: indent
 ⟪गत⟫ n.: "el ir, el andar"
 :::
 ::: indent
+:::
 ::: indent
 ⟪नृत्त⟫ n.: "el bailar, el baile"
-:::
 :::
 
 ## 13.3. Determinantes atributivas de los nombres (orden de las palabras)

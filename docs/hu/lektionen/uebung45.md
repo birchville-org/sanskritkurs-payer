@@ -65,3 +65,4 @@ Ellenség, nem a lelket (az életet) szétválogatod a kardoddal.
 Kép: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung074))
 ::: <!-- TODO: Fallback translation -->
+:::

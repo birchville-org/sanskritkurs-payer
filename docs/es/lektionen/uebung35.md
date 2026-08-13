@@ -88,3 +88,4 @@ C) Transforme las oraciones del ejercicio B) reemplazando perfectos por imperfec
 Fig.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
 (Fuente de la imagen: [Detalles](/licenses#uebung058))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

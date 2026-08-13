@@ -359,6 +359,7 @@ Per le regole sull'uso della vocale di giunzione -i- si veda Kielhorn, Grammatik
 **Sulla reduplicazione:**
 
 1.  Radici con iniziale consonantica: la reduplicazione avviene sulle radici modificate secondo le regole precedenti, secondo le regole usuali. Al posto di a come vocale di reduplicazione appare però i:  
+:::
 ::: indent
 ⟪पा⟫ » ⟪पिपास⟫-
 ⟪त्यज्⟫ » ⟪तित्यज⟫-
@@ -375,7 +376,6 @@ La cerebralizzazione dopo i/u della -s finale della radice non avviene, se la s 
 :::
 
 3.  Per la formazione speciale del desiderativo di determinate radici si veda Kielhorn, Grammatik § 451.
-:::
 ::: grammar-box
 **Per alcune radici vengono formati desiderativi senza significato desiderativo. A questi desiderativi possono essere formati desiderativi con significato desiderativo.**
 :::

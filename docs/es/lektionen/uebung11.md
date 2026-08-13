@@ -234,3 +234,4 @@ E) Transforme las oraciones C)1-5 en construcciones activas.
 Fig.: ⟪फलान्यश्नुते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung021))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

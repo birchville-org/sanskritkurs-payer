@@ -54,6 +54,7 @@ Silba de stemă:
 **Vocala acestei așa-numite silbe de stemă se determină în aorist conform următoarelor reguli:**
 
 *   **\-ā- în fața unui consoană simplă este înlocuită cu -a-:**  
+:::
 ::: indent
 ⟪पॄ⟫ 3P: Cauz. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫
 ⟪द्रु⟫ 1P: Cauz. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫
@@ -78,7 +79,6 @@ Silba de stemă:
 ⟪कॢप्⟫ 1Ā: Cauz. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫
 ⟪कृष्⟫ 1P/6U: Cauz. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
 :::
-:::
 Vocala silbei de reduplicare:
 
 După ce regulile menționate mai sus au fost aplicate silbei de stemă, trebuie respectate următoarele reguli pentru vocala silbei de reduplicare:
@@ -93,6 +93,7 @@ După ce regulile menționate mai sus au fost aplicate silbei de stemă, trebuie
 **Această vocală de reduplicare este supusă următoarelor modificări:**
 
 *   **i, u este înlocuită cu ī, ū, dacă silba de stemă începe cu o singură consoană și este metric scurtă:**  
+:::
 ::: indent
 ⟪भिद्⟫ 7U: Cauz. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
 ⟪तुद्⟫ 6U: Cauz. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
@@ -114,7 +115,6 @@ Particularități ale anumitor rădăcini la Kielhorn, Gramatikă § 435c ss.
 
 Vocală - prima consoană care urmează (respectiv reprezentantul său cerut într-o silbă de reduplicare) - **i** - toate consoanele
 
-:::
 ::: indent
 ⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, silabă reduplicată ⟪आशिश्⟫, Aorist ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Caus. ⟪एषयति⟫, silabă reduplicată ⟪एषिष्⟫, Aorist ⟪ऐषिषत्⟫
@@ -144,6 +144,7 @@ Profesor de Lingvistică Comparată, Universitatea Erlangen-Nürnberg (1955 - 19
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5601))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 Hoffmann, Karl \<1915 - 1996\>: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
 :::

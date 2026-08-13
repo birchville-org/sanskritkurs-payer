@@ -34,6 +34,7 @@ L’accusatif peut être utilisé comme adverbe :
 
 *   des substantifs  
     Exemples :  
+:::
 ::: indent
 ⟪कामम्⟩ « selon le souhait, à volonté »
 ⟪अर्थम्⟩ « en raison de »
@@ -54,7 +55,6 @@ L’accusatif peut être utilisé comme adverbe :
 ⟪यद्⟫ "si, que"
 ⟪एतद्⟫ "ainsi, ici, maintenant"
 :::
-:::
 ### 37.2.2. Instrumental (⟪तृतीया⟫)
 
 ::: grammar-box
@@ -68,6 +68,7 @@ L'instrumental peut être utilisé comme un adverbe :
 
 *   des substantifs  
     Exemples :  
+:::
 ::: indent
 ⟪अर्थेन⟫ "en raison de"
 ⟪क्षणेन⟫ "au moment précis, immédiatement" (de ⟪क्षण⟫ m. "moment")
@@ -78,7 +79,6 @@ L'instrumental peut être utilisé comme un adverbe :
 ::: indent
 ⟪दूरेण⟫ "loin, de loin" (à ⟪दूर⟫ 3 "loin, loin de")
 ⟪उच्चैस्⟫ "haut, fort" (à ⟪उच्च⟫ 3 "haut, élevé, fort, aigu (de voix)")
-:::
 :::
 ### 37.2.3. Datif (⟪चतुर्थी⟫)
 
@@ -113,10 +113,10 @@ L'ablatif peut être utilisé comme un complément circonstanciel :
 
 *   des pronom
     Exemples :  
+:::
 ::: indent
 ⟪कस्मात्⟫ "pourquoi"
 ⟪अकस्मात्⟫ "inattendu"
-:::
 :::
 ### 37.2.5. Génitif (⟪षष्ठी⟫)
 

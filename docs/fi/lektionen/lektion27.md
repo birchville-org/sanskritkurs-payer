@@ -34,6 +34,7 @@ Jaipur, 1875.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2701))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **2. Lokatiivi ilmaisee kysymykseen "Milloin?" vastaten ajankohtaa tai ulkoisia olosuhteita:** <!-- TODO: Fallback translation -->
@@ -64,6 +65,7 @@ Rajasthan.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2702))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **3. Lokatiivi vastaa myös kysymykseen "Mihin nähden?" tms.:** <!-- TODO: Fallback translation -->
@@ -78,6 +80,7 @@ Holi.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2703))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **4. Lokatiivi toimii kotimaisten sanakirjojen ja kommentaattoreiden keskuudessa sanan merkityksen määrittämiseksi:** <!-- TODO: Fallback translation -->
@@ -589,6 +592,7 @@ Tsunami 2005, Sri Lanka.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2717))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt2701:** Jaipur, 1875. [Kuv lähde: Wikipedia. Julkinen omaisuus]

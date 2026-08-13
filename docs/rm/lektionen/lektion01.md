@@ -89,6 +89,7 @@ Fig.: Titul da la coperta d'ina ediziun da tschep
 
 >**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Dapi alura bleras ediziuns, er ediziuns da tschep. -- **Lectura obligatoria.** Ina buna survista davart vita, istorgia e cultura en l'India preislamica. Survista generala da las differentas areas da la classica indologia.
 
+:::
 ::: media
 ![](/images/lekt0104.webp)
 Fig.: Titelpagina

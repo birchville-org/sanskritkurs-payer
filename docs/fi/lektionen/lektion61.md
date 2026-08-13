@@ -254,6 +254,7 @@ Karnataka = ಕರ್ನಾಟಕ
 (Kuv lähde: [Tiedot](/fi/licenses#lekt6104))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **Intensiivimuodon muodostaminen:**
 
@@ -440,6 +441,7 @@ Kuv.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 (Kuvälähde: [Tiedot](/fi/licenses#lekt6105))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt6103.webp)
 Kuv.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
@@ -558,6 +560,7 @@ Kuv.:
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6112))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 **Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
@@ -729,6 +732,7 @@ Halebidu (ಹಳೆಬೀಡು), 12./13. jaa. kr.
 (Kuvälähde: [Tiedot](/fi/licenses#lekt6101))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: no-header
 |   |   |
 | --- | --- |

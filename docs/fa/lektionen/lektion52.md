@@ -695,6 +695,7 @@ _Ficus religiosa_ L. ⟪बोधगया⟫، حدود ۱۸۱۰
 (منبع تصویر: [جزئیات](/licenses#lekt5216))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
 ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫

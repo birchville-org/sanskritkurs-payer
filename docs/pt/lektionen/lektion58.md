@@ -366,6 +366,7 @@ Paradigmas:
 ⟪तन्⟫ 8U: 2ª p. sg. Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aoristo radical) ; 3ª p. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā e outras podem, em vez da 3ª p. sg. Ā, também assumir a forma do aoristo passivo:
+:::
 ::: indent
 ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
 :::
@@ -373,7 +374,6 @@ Paradigmas:
 4.  ⟪विज्⟫ 7P não tem apofonia:
 ::: indent
 ⟪अविजीत्⟫
-:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

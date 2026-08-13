@@ -147,6 +147,7 @@ Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4502))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt4501.jpg**: Textilis impressio blocularis, Ahmedabad. -- Fons imaginis: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accessus die 2009-01-08. -- Licentia Creative Commons (Attributio, usus non commercialis, share alike)

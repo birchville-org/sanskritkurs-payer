@@ -386,12 +386,14 @@ Kuv.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/fi/licenses#lekt4
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4603))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt4604.webp)
 Kuva: [⟪शुक्रः⟫, ⟪शनिः⟫](/fi/licenses#lekt4604)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4604))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt4605.webp)
 Kuva: [⟪राहुः⟫, ⟪केतुः⟫](/fi/licenses#lekt4605)
@@ -458,6 +460,7 @@ Kuva: [⟪महामात्र⟩ ⟪कं⟩ ⟪चरिष्णुद�
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4608))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 1 ⟪महामात्र⟩ m. "Elefantinhoidaja"; ⟪चरिष्णु⟩ 3 "liikkuva", ⟪दूरशब्द⟩ m. "etäpuhe, puhelin" » ⟪चरिष्णुदूरशब्द⟩ "matkapuhelin" (sanamuodostus: A. Payer) <!-- TODO: Fallback translation -->
 

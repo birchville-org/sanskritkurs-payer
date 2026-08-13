@@ -97,3 +97,4 @@ Pune - ⟪पुणे⟫
 Kuv: ⟪श्वा⟫ ⟪श्वानमघ्रात्⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung096))
 ::: <!-- TODO: Fallback translation -->
+:::

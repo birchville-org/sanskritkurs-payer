@@ -119,3 +119,4 @@ last_reconstructed: 2026-05-15
 (מקור התמונה: [פרטים](/licenses#uebung094))
 ::::
 ::: <!-- TODO: Fallback translation -->
+:::

@@ -234,6 +234,7 @@ Paradigmă:
 **Intensivul semnifică:**
 
 *   **că o persoană sau un lucru face sau suferă în mod repetit ceea ce este exprimat de rădăcină**  
+:::
 ::: indent
 ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el face din nou și din nou"
 ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "el este (devine) adesea"
@@ -253,7 +254,6 @@ Paradigmă:
 ::: indent
 ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "el taie rău"
 ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "el se așază rău"
-:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -448,6 +448,7 @@ Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6105))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt6103.webp)
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
@@ -737,6 +738,7 @@ Halebidu (ಹಳೆಬೀಡು), sec. al XII-lea/al XIII-lea d. Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6101))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: no-header
 |   |   |
 | --- | --- |

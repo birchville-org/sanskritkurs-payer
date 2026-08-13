@@ -257,6 +257,7 @@ ex eo:
 ⟪आसन⟫ n.: sedere, sedium; etiam: positiones sedendi yoginī
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt1701.webp)
 Fig.: ⟪योगासनम्⟫

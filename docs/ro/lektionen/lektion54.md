@@ -194,6 +194,7 @@ Nivel înalt:
 
 *   Rădăcini cu vocală scurtă (în afară de a) înainte de consoană simplă, precum și ⟪जन्⟫ și cele mai multe rădăcini în -am  
     Exemple:  
+:::
 ::: indent
 ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "a fost despicat"
 ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "a fost împins"
@@ -240,7 +241,6 @@ Nasal-infix:
 :::
 
 (celelalte forme ale pasivului sunt exprimate în aorist prin forme de Ātmanepada).
-:::
 ## 54.7. Exercițiu
 
 Traduceți scris următoarele forme și formați corespunzătoarele forme de aorist:
@@ -276,6 +276,7 @@ Tamil Nadu
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5401))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Sursa imaginii: Raji Srinivas / Wikipedia. Licență GNU FDL]

@@ -54,6 +54,7 @@ Cette forme d'aoriste est formée notamment par :
 **La syllabe de la racine peut être de niveau grave ou aigu. Pour les racines en -i ou -u, le niveau grave est la règle.**
 
 *   **Le -i, -u final est remplacé par -iy ou -uv.**
+:::
 ::: indent
 ⟪पॄ⟫ 3P : Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫
 ⟪द्रु⟫ 1P : Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫
@@ -78,7 +79,6 @@ Cette forme d'aoriste est formée notamment par :
 ⟪कॢप्⟩ 1Ā : Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫
 ⟪कृष्⟫ 1P/6U : Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
 :::
-:::
 ⟪पत्⟫ 1P « tomber » : ⟪अपप्तत्⟫ (a-pa-pt-a-t ; pt = niveau grave de pat)
 
 Une fois que les règles susmentionnées ont été appliquées à la syllabe radicale, les règles suivantes doivent être suivies pour la voyelle de la syllabe de redoublement :
@@ -93,6 +93,7 @@ Cette forme d'aoriste est formée notamment par :
 **Toutes les racines de la 10e classe de présent, ainsi que tous les causatifs, forment toujours l'aoriste à redoublement.**
 
 *   **i, u est remplacé par ī, ū lorsque la syllabe racine commence par un seul consonne et est métriquement brève :**  
+:::
 ::: indent
 ⟪भिद्⟫ 7U : Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
 ⟪तुद्⟫ 6U : Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
@@ -114,7 +115,6 @@ Particularités de certaines racines chez Kielhorn, Grammaire § 435c ss.
 
 Vocal - premier consonant qui s'ensuit (ou son représentant requis dans une syllabe de reduplication) - **i** - toutes les consonnes
 
-:::
 ::: indent
 ⟪अश्⟫ 9P : Kaus. ⟪आशयति⟫, syllabe redoublée ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P : Kaus. ⟪एषयति⟫, syllabe redoublée ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫

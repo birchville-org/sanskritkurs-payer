@@ -54,6 +54,7 @@ Sillaba fundamentala:
 **Il vocal da questa ciamada sillaba da tema determinescha en l’aorist suenter las suandantas reglas:**
 
 *   **\-ā- davant consonants simples vegn sutitgà cun -a-:**  
+:::
 ::: indent
 ⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫
 ⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫
@@ -78,7 +79,6 @@ Sillaba fundamentala:
 ⟪कॢप्⟫ 1Ā: Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫
 ⟪कृष्⟫ 1P/6U: Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
 :::
-:::
 Vocala da la silba da la reduplicaziun:
 
 Post che las reglas mentinadas èn vegnidas applicadas sin la sillaba da la radis, duan las suandantas reglas per la vocal da la sillaba da la reduplicaziun vegnir observadas:
@@ -93,6 +93,7 @@ Post che las reglas mentinadas èn vegnidas applicadas sin la sillaba da la radi
 **Quest vocal da reduplicaziun è suttamess a las suandantas midadas:**
 
 *   **i, u vegnan sustituids da ī, ū, sche la sillaba da la radis cumenza cun mo in consonant ed è metricamain curta:**  
+:::
 ::: indent
 ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
 ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
@@ -114,7 +115,6 @@ Partikularitads da certas radichas tar Kielhorn, Grammatica § 435c ss.
 
 Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - **i** \- alle Konsonanten <!-- TODO: Fallback translation -->
 
-:::
 ::: indent
 ⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, silba reduplicada ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, silba reduplicada ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫

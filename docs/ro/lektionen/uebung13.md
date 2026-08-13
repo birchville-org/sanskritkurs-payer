@@ -273,3 +273,4 @@ E) Translateți în sanscrită:
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung018))
 ::: <!-- TODO: Fallback translation -->
+:::

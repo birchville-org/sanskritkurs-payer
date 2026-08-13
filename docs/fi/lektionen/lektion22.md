@@ -259,6 +259,7 @@ Kuva: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2204))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt2201:** Goa = ⟪गोंय⟫ [Kuv lähde: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Viitattu 2008-12-12. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei johdannaisteoksia)] <!-- TODO: Fallback translation -->
@@ -270,3 +271,5 @@ Kuva: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 **lekt2204:** [Kuv lähde: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Viitattu 2008-12-12. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

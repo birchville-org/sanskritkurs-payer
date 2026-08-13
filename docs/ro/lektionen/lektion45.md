@@ -147,6 +147,7 @@ Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4502))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt4501.jpg**: Tipărire pe bloc textil, Ahmedabad. -- Sursa imaginii: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accesat la 2009-01-08. -- Licență Creative Commons (Atribuire, utilizare non-comercială, share alike)

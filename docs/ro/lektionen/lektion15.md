@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   dacă un Karmadhāraya exprimă un COMPARATIV, atunci ceea cu ce se face comparația se află în elementul posterior al compusului:
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "un om ca un leu"
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un om ca un tigru"
@@ -88,7 +89,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
     Astfel de Karmadhāraya apositională sunt rezolvate în comentariile indigene, așa cum se arată în exemplul de mai sus, prin intermediul ⟪एव⟫.
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 Fig.: ⟪नरसिंहः⟫

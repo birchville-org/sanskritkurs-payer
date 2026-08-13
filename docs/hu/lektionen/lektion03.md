@@ -39,6 +39,7 @@ A nominativus egyet végződés nélkül képezik:
 **Figyelem!** Mellettük léteznek egy szótagú, nőnemű gyökárvizsgálati főnevek -ī végződéssel, amelyek nominativus egyese -s-ra végződik: pl. dhī n. "gondolat" -- Nom. sg.: dhīs = ⟪धीस्⟫. A lakṣmī (⟪लक्ष्मी⟫) n., a tarī (⟪तरी⟫) n. "csónak" és a tantrī (⟪तन्त्री⟫) n. "húr" is szabálytalanul képezik a nominativus egyest -s-ra: lakṣmīs = ⟪लक्ष्मीस्⟫.
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 3.2. A hímnemű szavak nőnemű képzése
 
 ::: grammar-box

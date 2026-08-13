@@ -25,6 +25,7 @@ Kuva: ⟪लोकस्योत्तमो⟩ ⟪गिरिः⟩
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5007))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **Merkitys:**
 

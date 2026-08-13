@@ -34,6 +34,7 @@ Jaipur, 1875.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2701))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **2. Cazul locativ indică, la întrebarea "Când?", momentul sau împrejurările exterioare:**
@@ -64,6 +65,7 @@ Rajasthan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2702))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **3. Cazul locativ apare și la întrebarea "În raport cu ce?" etc.:**
@@ -78,6 +80,7 @@ Holi.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2703))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **4. Cazul locativ este utilizat în dicționarele native și de către comentatori pentru a indica sensul unui cuvânt:**
@@ -254,6 +257,7 @@ Harihara (stânga: Viṣṇu, dreapta: Śiva).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2704))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt2705.webp)
 Fig.: ⟪हरिहरः⟫
@@ -589,6 +593,7 @@ Tsunami 2005, Sri Lanka.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2717))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt2701:** Jaipur, 1875. [Sursa imaginii: Wikipedia. Domeniu public]

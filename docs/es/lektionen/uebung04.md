@@ -94,3 +94,4 @@ etat kim? eṣā pipīlikā.
 Abb.: ⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung003))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

@@ -122,3 +122,4 @@ La comprensión liberadora de los Budas:
 Fig.: ⟪कदलीगर्भनिःसारः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung088))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

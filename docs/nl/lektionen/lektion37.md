@@ -35,6 +35,7 @@ Adverbial gebraucht werden kann der Akkusativ:
 
 *   von Substantiven  
     Beispiele:  
+:::
 ::: indent
 ⟪कामम्⟫ "wunschgemäss, nach Wunsch"
 ⟪अर्थम्⟫ "wegen"
@@ -55,7 +56,6 @@ Adverbial gebraucht werden kann der Akkusativ:
 ⟪यद्⟫ "wenn, dass"
 ⟪एतद्⟫ "so, hier, jetzt"
 :::
-:::
 ### 37.2.2. Instrumentalis (⟪तृतीया⟫)
 
 ::: grammar-box
@@ -69,6 +69,7 @@ Adverbial gebraucht werden kann der Instrumentalis:
 
 *   von Substantiven  
     Beispiele:  
+:::
 ::: indent
 ⟪अर्थेन⟫ "wegen"
 ⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")
@@ -79,7 +80,6 @@ Adverbial gebraucht werden kann der Instrumentalis:
 ::: indent
 ⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")
 ⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)")
-:::
 :::
 ### 37.2.3. Dativ (⟪चतुर्थी⟫)
 
@@ -114,10 +114,10 @@ Adverbial gebraucht werden kann der Ablativ:
      
 *   von Pronomina  
     Beispiele:  
+:::
 ::: indent
 ⟪कस्मात्⟫ "warum"
 ⟪अकस्मात्⟫ "unerwartet"
-:::
 :::
 ### 37.2.5. Genetiv (⟪षष्ठी⟫)
 

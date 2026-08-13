@@ -76,3 +76,4 @@ Vokatiivin yksikkö maskuliineille / neutreille päättymällä -a on päättyen
 Kuv.: ⟪तिलप्रमाणम्⟩
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung057))
 ::: <!-- TODO: Fallback translation -->
+:::

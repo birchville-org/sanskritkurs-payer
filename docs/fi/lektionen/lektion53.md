@@ -36,6 +36,7 @@ Kuv.: ⟪मार्जारयुगम्⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt5301))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt5302.webp)
 Kuv.: ⟪हस्तौ⟫
@@ -651,3 +652,5 @@ Alois Maria Payer
 **Payer, Alois (1944–):** Sanskritkurssi. -- 53. Luento 53 (Semesterialan loma). -- Kuvan lähde alkuperäiseen taulukkoon 53.9: Alkuperäisen lähteen (Payer) kuvakaappaus.
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

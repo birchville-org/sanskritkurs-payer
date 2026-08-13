@@ -635,6 +635,7 @@ Apinat mangopuissa.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3210))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt3202:** Mangopuu, Kanpur. [Kuvälähde: AmarChandra / Wikipedia. CC BY-SA] <!-- TODO: Fallback translation -->
@@ -656,3 +657,5 @@ Apinat mangopuissa.
 **lekt3210:** Apinat mangopuissa. [Kuvälähde: Wikipedia. GNU FDL]
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

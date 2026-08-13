@@ -18,6 +18,7 @@ status: stable
 - Verrattuna aiemmin opittuihin taivutusmuotoihin
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 12.1. Partisiipin Perfekt Passiivi (PPP)
 
 Yksi tapa muodostaa menneen ajan passiivilauseet on ns. partisiipin perfektin passivin (PPP) rakenne. <!-- TODO: Fallback translation -->
@@ -26,6 +27,7 @@ Yksi tapa muodostaa menneen ajan passiivilauseet on ns. partisiipin perfektin pa
 **Itse asiassa PPP ei ole oikea partisiippi, koska sitä ei muodosteta aikajänteen varresta. Se on pikemminkin substantiivinen johtomuoto juuresta ensijäsenellä -ta tai -na. Siksi intialaisessa grammatikassa puhutaan kta-jäsenestä.**
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ### 12.1.1. Kaava transitiivisille verbeille
 
 ::: grammar-box
@@ -63,6 +65,7 @@ Esimerkki:
 Scheman II mukainen rakenne on paljon harvinaisempi kuin scheman I mukainen rakenne.
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 12.2. PPP:n merkityksestä <!-- TODO: Fallback translation -->
 
 Kun siis ns. „Participium Perfekti Passivi“ transitiivisissa verbeissä ensisijaisesti on passiivinen merkitys (**āpta** = „saavutettu (oleva)“) ja intransitiivisissa verbeissä sekä liikkeen verbien aktiivinen merkitys (**gata** = „mennyt“), on olemassa joitakin verbejä, joilla PPP voi olla sekä aktiivinen että passiivinen merkitys: <!-- TODO: Fallback translation -->

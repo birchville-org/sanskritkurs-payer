@@ -118,3 +118,5 @@ Abb.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung094))
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

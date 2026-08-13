@@ -149,3 +149,4 @@ last_reconstructed: 2026-05-15
 Εικ.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Πηγή εικόνας: [Details](/licenses#uebung028))
 ::: <!-- TODO: Fallback translation -->
+:::

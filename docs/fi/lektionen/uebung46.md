@@ -90,3 +90,4 @@ Hallitsemattomalle (ei-jogi) ei ole olemassa ymmärrystä. <!-- TODO: Fallback t
 Kuv.: ⟪सक्तः⟫
 (Kuv lähde: [Details](/licenses#uebung080))
 ::: <!-- TODO: Fallback translation -->
+:::

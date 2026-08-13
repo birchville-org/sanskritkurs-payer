@@ -25,6 +25,7 @@ Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4102))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 ⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
 ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
@@ -189,6 +190,7 @@ Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4103))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **2b. Rădăcinile pe -u /-ū înlocuiesc -o din gradul maxim (guṇa) înainte de -ya cu -av, iar -au din gradul lung (vṛddhi) cu -āv. Formarea în gradul lung (vṛddhi) înseamnă în acest caz necesitate.**
 :::
@@ -362,6 +364,7 @@ Fig.: ⟪शास्त्री⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4110))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 **⟪शिष्य⟫** 3: cel care trebuie învățat = elev
 :::

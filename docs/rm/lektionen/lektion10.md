@@ -103,6 +103,7 @@ Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli faci
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 Fatsch dal Nominativ ed il Accusativ èn las formas dals neutris sin -a, dal pronom interrogativ e dals pronomas demonstrativas identicas cun las formas dal respectiv masculin.
 :::
@@ -253,6 +254,7 @@ z.B. **tan** 8 U.
 Lüders, Heinrich <1869 - 1943>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫

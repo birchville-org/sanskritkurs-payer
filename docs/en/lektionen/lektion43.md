@@ -1,6 +1,6 @@
 ---
 title: "Lesson 43"
-subtitle: 'Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle <person>")'
+subtitle: 'Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle &lt;person&gt;")'
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -10,7 +10,7 @@ status: stable
 
 # Lesson 43
 
-## 43.1. Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle <Person>")
+## 43.1. Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle &lt;Person&gt;")
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||

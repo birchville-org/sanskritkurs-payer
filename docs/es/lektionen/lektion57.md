@@ -141,6 +141,7 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (en el P, ⟪गम्⟫ tiene el aorista temático)**
 
 2.  ⟪पद्⟫ 4Ā es regular (p. ej. ⟪अपत्सि⟫), pero en la 3.sg.Ā tiene la forma del aorista de raíz pasiva:
+:::
 ::: indent
 ⟪अपादि⟫ "él fue"
 :::
@@ -148,7 +149,6 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 3.  ⟪बुध्⟫ Ā puede, en la 3.sg.Ā, opcionalmente adoptar la forma del aorista de raíz pasiva:
 ::: indent
 ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "él reconoció"
-:::
 :::
 ## 57.2. Ejercicio
 

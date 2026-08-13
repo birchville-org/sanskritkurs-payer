@@ -204,6 +204,7 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 
 *   词根带有短元音（a 除外），位于简单辅音之前，以及 ⟪जन्⟫ 和大多数以 -am 结尾的词根  
     例如：  
+:::
 ::: indent
 ⟪भिद्⟫ 7U：⟪अभेदि⟫ “他被劈开”
 ⟪तुद्⟫ 6U：⟪अतोदि⟫ “他被推开”
@@ -250,7 +251,6 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 :::
 
 （被动语态的其他形式在未完成过去式中通过中动语态形式表达）。
-:::
 ## 54.7. 练习
 
 书面翻译以下形式，并构成相应的不定过去时形式：

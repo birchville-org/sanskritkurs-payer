@@ -117,6 +117,7 @@ Essen, Schlafen... -> [L9] Η τροφή, ο ύπνος, ο φόβος και η
 ::: -> [L15] :::
 --- -> [L16] --- <!-- TODO: Fallback translation -->
 
+:::
 ## Επιπλέον Ασκήσεις
 
 A) Übersetzen Sie ins Sanskrit: -> [L20] Α) Μεταφράστε στα Σανσκριτικά: <!-- TODO: Fallback translation -->

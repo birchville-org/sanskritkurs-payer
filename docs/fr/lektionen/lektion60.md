@@ -359,6 +359,7 @@ Les règles concernant l'utilisation de la voyelle de liaison -i- sont indiquée
 **Sur la redoublement :**
 
 1.  Racines à consonne initiale : La reduplication s'effectue sur les racines modifiées selon les règles ci-dessus, selon les règles habituelles. Au lieu de a comme voyelle de reduplication, i apparaît :  
+:::
 ::: indent
 ⟪पा⟫ » ⟪पिपास⟫-
 ⟪त्यज्⟫ » ⟪तित्यज⟫-
@@ -375,7 +376,6 @@ La cérébralisation après i/u de la consonne finale -s de la racine est absent
 :::
 
 3.  La formation spéciale du desideratif de certaines racines, voir Kielhorn, Grammaire § 451.
-:::
 ::: grammar-box
 **Pour certaines racines, les désidératifs sont formés sans signification désidérative. À ces désidératifs peuvent être formés des désidératifs avec une signification désidérative.**
 :::

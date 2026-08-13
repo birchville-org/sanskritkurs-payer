@@ -29,18 +29,18 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 PPP-ul verbelor cu sensul de „a gândi”, „a dori”, „a cunoaște”, „a ști”, „a venera”, precum și al altor verbe marcate în Dhātupāṭha, lista de rădăcini a lui Pāṇini, prin ñi, nu are doar sensul trecutului, ci poate fi utilizat și cu sens prezent:
 :::
 ::: indent
+:::
 ::: indent
 ⟪इष्ट⟫ „dorit” (adică nu doar dorit în trecut, ci și în prezent)
-:::
 :::
 
 ::: indent
 ⟪त्वरित⟫ „grăbit, urgent” (PPP la tvar 1 Ā „a grăbi”; Dhātupāṭha: ñitvárā)
 :::
 ::: indent
+:::
 ::: indent
 ⟪इष्टं⟫ ⟪फलम्⟫ „roada dorită (de exemplu, a faptelor)”
-:::
 :::
 
 Dacă în acest caz ⟪अपि⟫ urmează după PPP, atunci ⟪अपि⟫ are sensul „deși”:
@@ -53,9 +53,9 @@ de ex.
 ⟪गत⟫ n.: „mersul, mersul”
 :::
 ::: indent
+:::
 ::: indent
 ⟪नृत्त⟫ n.: „dansul, dansul”
-:::
 :::
 
 ## 13.3. Determinative atributive ale substantivel (poziția cuvântului)

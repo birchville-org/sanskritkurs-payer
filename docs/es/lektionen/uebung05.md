@@ -168,3 +168,4 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 Fig.: ⟪ऋग्वेदः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung009))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

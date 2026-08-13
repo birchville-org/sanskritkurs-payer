@@ -68,10 +68,10 @@ Stem syllable:
 **Untuk akar kata tertentu, perubahan-perubahan yang telah disebutkan bersifat opsional atau harus ditiadakan:**
 
 *   **ar, ār, īr, al, yang mendahului konsonan akhir dari suku kata akar dan menggantikan ṛ, ṝ, ḷ, tetap opsional tidak berubah atau diganti oleh ṛ atau ḷ:**  
+:::
 ::: indent
 ⟪कॢप्⟫ 1Ā: Kaus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫
 ⟪कृष्⟫ 1P/6U: Kaus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
-:::
 :::
     Vokal dari suku kata reduplicasi:
 
@@ -87,6 +87,7 @@ Setelah aturan-aturan tersebut di atas diterapkan pada suku kata akar, aturan be
 **This reduplication vowel undergoes the following changes:**
 
 *   **i, u diganti menjadi ī, ū jika suku kata akar hanya diawali oleh satu konsonan dan secara metris pendek:**  
+:::
 ::: indent
 ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
 ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
@@ -108,7 +109,6 @@ Particularities of certain roots in Kielhorn, Grammar § 435c ff.
 
 Vowel - first following consonant (respectively its representative required in a reduplication syllable) - **i** - all consonants
 
-:::
 ::: indent
 ⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, reduplikasi suku kata ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, reduplikasi suku kata ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫

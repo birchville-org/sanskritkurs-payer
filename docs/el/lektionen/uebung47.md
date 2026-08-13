@@ -159,3 +159,4 @@ A) Μεταφράστε:
 Εικ.: ⟪माद्यत⟫
 (Πηγή εικόνας: [Details](/licenses#uebung075))
 ::: <!-- TODO: Fallback translation -->
+:::

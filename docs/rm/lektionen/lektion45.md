@@ -147,6 +147,7 @@ Imag.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Fonte da imagem: [Detalles](/rm/licenses#lekt4502))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt4501.jpg**: Stampa da blocch da textil, Ahmedabad. -- Sursaint dal maletg: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Access il 2009-01-08. -- Licenza Creative Commons (numinaziun, nagina utilizaziun commerziala, share alike)

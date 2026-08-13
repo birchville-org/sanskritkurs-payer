@@ -75,6 +75,7 @@ Concerne la successiun dals segments en in Karmadhāraya è da tegnair cont da l
 
 *   exprima in'expressiun Karmadhāraya ina comparaziun, alura stat quai cun il qual vegn confrontà en il segment posterior dal cumposit:
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "in um sco in leun"
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "in um sco ina tigre"
@@ -88,7 +89,6 @@ Concerne la successiun dals segments en in Karmadhāraya è da tegnair cont da l
 
     Tals apposiziuns cumpostas dal tip Karmadhāraya vegnan en ils comments locals, sco er en l'exempel da sur, explicadas tras ⟪एव⟫.
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 Imag.: ⟪नरसिंहः⟫

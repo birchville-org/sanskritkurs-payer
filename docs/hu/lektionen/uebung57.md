@@ -122,3 +122,5 @@ Kép: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung094))
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

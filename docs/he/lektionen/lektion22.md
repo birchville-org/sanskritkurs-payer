@@ -272,3 +272,5 @@ status: stable
 **lekt2203:** קולקטה = কলকাতא [מקור התמונה: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- נגיש ב־12 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא יצירות נגזרות)]
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

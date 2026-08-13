@@ -109,3 +109,4 @@ sādhur guruḥ.
 Kuv.: ⟪ईश्वरः⟫ ⟪शिवः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung002))
 ::: <!-- TODO: Fallback translation -->
+:::

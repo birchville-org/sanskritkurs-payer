@@ -34,6 +34,7 @@ Acuzativul poate fi folosit adverbial:
 
 *   de substantive  
     Exemple:  
+:::
 ::: indent
 ⟪कामम्⟫ "după dorință, conform dorinței"
 ⟪अर्थम्⟫ "din cauza"   <!-- TODO: Fallback translation -->
@@ -54,7 +55,6 @@ Acuzativul poate fi folosit adverbial:
 ⟪यद्⟫ "dacă, că"
 ⟪एतद्⟫ "așa, aici, acum"
 :::
-:::
 ### 37.2.2. Instrumentalul (⟪तृतीया⟫)
 
 ::: grammar-box
@@ -68,6 +68,7 @@ Instrumentalul poate fi folosit adverbial:
 
 *   de substantive  
     Exemple:  
+:::
 ::: indent
 ⟪अर्थेन⟫ "din cauza"
 ⟪क्षणेन⟫ "în clipa aceea, imediat" (de la ⟪क्षण⟫ m. "clipă")
@@ -78,7 +79,6 @@ Instrumentalul poate fi folosit adverbial:
 ::: indent
 ⟪दूरेण⟫ "departe, din depărtare" (la ⟪दूर⟫ 3 "departe, îndepărtat de")
 ⟪उच्चैस्⟫ "înalt, tare" (la ⟪उच्च⟫ 3 "înalt, ridicat, tare, ascuțit (de voce)")
-:::
 :::
 ### 37.2.3. Dativul (⟪चतुर्थी⟫)
 
@@ -113,10 +113,10 @@ Ablativul poate fi folosit adverbial:
 
 *   cu pronume  
     Exemple:  
+:::
 ::: indent
 ⟪कस्मात्⟫ "de ce"
 ⟪अकस्मात्⟫ "neașteptat"
-:::
 :::
 ### 37.2.5. Genitivul (⟪षष्ठी⟫)
 
@@ -185,6 +185,7 @@ Fig.: ⟪क्व⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3701))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **Alte sufixe adverbiale**

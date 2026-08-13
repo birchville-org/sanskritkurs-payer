@@ -47,6 +47,7 @@ Naven a questa regulia fundamentala per la furmaziun da Samāhāradvandvas dat i
    **rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"**
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ### 9.2.2. -aka (kṛt), fem. oft -ikā <!-- TODO: Fallback translation -->
 
 ::: grammar-box

@@ -34,6 +34,7 @@ Adverbialiter adhiberi potest accusativus:
 
 *   a substantivis
     Exemplaria:  
+:::
 ::: indent
 ⟪कामम्⟫ "iuxta votum, pro arbitrio"
 ⟪अर्थम्⟫ "propter"
@@ -54,7 +55,6 @@ Adverbialiter adhiberi potest accusativus:
 ⟪यद्⟫ "si, quod"
 ⟪एतद्⟫ "ita, hic, nunc"
 :::
-:::
 ### 37.2.2. Instrumentalis (⟪तृतीया⟫)
 
 ::: grammar-box
@@ -68,6 +68,7 @@ Adverbialiter adhiberi potest Instrumentalis:
 
 *   a substantivis
     Exemplis:  
+:::
 ::: indent
 ⟪अर्थेन⟫ "propter"
 ⟪क्षणेन⟫ "in momento, statim" (a ⟪क्षण⟩ m. "momentum")
@@ -78,7 +79,6 @@ Adverbialiter adhiberi potest Instrumentalis:
 ::: indent
 ⟪दूरेण⟫ "procul, e procul" (ad ⟪दूर⟫ 3 "procul, procul a")
 ⟪उच्चैस्⟫ "altus, altā voce" (ad ⟪उच्च⟫ 3 "altus, elevatus, altā voce, acuta (de voce)")
-:::
 :::
 ### 37.2.3. Datīvus (⟪चतुर्थी⟫)
 
@@ -113,10 +113,10 @@ Adverbialiter uti potest Ablativus:
 
 *   de pronomibus
     Exemplaria:  
+:::
 ::: indent
 ⟪कस्मात्⟫ "cur"
 ⟪अकस्मात्⟫ "inopinatus"
-:::
 :::
 ### 37.2.5. Genetivus (⟪षष्ठी⟫)
 

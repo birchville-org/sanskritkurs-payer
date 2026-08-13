@@ -180,3 +180,4 @@ Rāma recuerda el mantra del maestro virtuoso.
 Fig.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung017))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

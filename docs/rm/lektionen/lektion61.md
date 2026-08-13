@@ -234,6 +234,7 @@ Paradigma:
 **Il significà dal intensivum è:**
 
 *   **che ina persuna u ina chosa fa or suffa adina e puspè quai ch'è exprimmì per la radis**  
+:::
 ::: indent
 ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el fa adina e puspè"
 ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "el è (devè) spès"
@@ -253,7 +254,6 @@ Paradigma:
 ::: indent
 ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "el tacla mal"
 ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "el sa s'attatga mal"
-:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -448,6 +448,7 @@ Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
 (Imprimà dal dretg: [Detagls](/rm/licenses#lekt6105))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt6103.webp)
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
@@ -666,6 +667,7 @@ Paradigmas: Kielhorn, Grammatik § 153: <!-- TODO: Fallback translation -->
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt6115))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt6118.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
@@ -682,6 +684,7 @@ Kielhorn, Grammatik § 177:
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt6116))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt6117.webp)
 Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
@@ -738,6 +741,7 @@ Halebidu (ಹಳೆಬೀಡು), 12./13. tschdt. n. Chr.
 (Bildquelle: [Details](/rm/licenses#lekt6101))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: no-header
 |   |   |
 | --- | --- |
@@ -774,6 +778,7 @@ Ofterdingen, 2009-03-09
 FIN DAL CURS DA SANSKRIT
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt6102:** [Fonte da l'imagina: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Access il 2009-03-06. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nominaziun, nagina utisaziun cummerciala, nagina modificaziun)]

@@ -147,6 +147,7 @@ Vokaalien edessä sanan sisällä **e** korvataan muodolla **ay**, ja **o** muod
 Vokaalia **a**, joka esiintyy preesensluokkien taivutusliitteissä, kutsutaan **temaattiseksi vokaaliksi**. Siksi preesensluokat, joissa on **a** taivutusliitteessä, ovat "temattisia preesensluokkia".
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 6.6. Keskusteluaanskrit: Lisäkysymyksiä (praśna m. = ⟪प्रश्न⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
@@ -157,6 +158,7 @@ Vokaalia **a**, joka esiintyy preesensluokkien taivutusliitteissä, kutsutaan **
 - Vastaus: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Minulla) menee hyvin joka suhteessa."
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 6.7. Sanalista
 
 ::: grammar-box

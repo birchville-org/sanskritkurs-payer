@@ -359,6 +359,7 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
 **Privind reduplicarea:**
 
 1.  Rădăcinile care încep cu consoană: Reduplicarea se face pe rădăcinile modificate conform regulilor de mai sus, după regulile obișnuite. În loc de a ca vocală de reduplicare apare i:  
+:::
 ::: indent
 ⟪पा⟫ » ⟪पिपास⟫-
 ⟪त्यज्⟫ » ⟪तित्यज⟫-
@@ -375,7 +376,6 @@ Cerebralizarea după i/u a -s final al rădăcinii nu are loc, dacă s al sufixu
 :::
 
 3.  Formarea specială a desiderativelor pentru anumite rădăcini se găsește la Kielhorn, Gramatik § 451.
-:::
 ::: grammar-box
 **Pentru unele rădăcini se formează desiderative fără sens desiderativ. Pentru aceste desiderative se pot forma desiderative cu sens desiderativ.**
 :::

@@ -234,6 +234,7 @@ Paradigme :
 **L’Intensivum signifie :**
 
 *   **qu’une personne ou une chose fait ou subit à plusieurs reprises ce qui est exprimé par la racine**  
+:::
 ::: indent
 ⟪कृ⟫ 8U : ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ « il fait à plusieurs reprises »
 ⟪भू⟫ 1P : ⟪बोभूयते⟫ / ⟪बोभवीति⟫ « il est (devient) souvent »
@@ -253,7 +254,6 @@ Paradigme :
 ::: indent
 ⟪लुप्⟫ 6U : ⟪लोलुप्यते⟫ « il coupe mal »
 ⟪सद्⟫ 1P : ⟪सासद्यते⟫ « il s’assoit mal »
-:::
 :::
 ::: media
 ![](/images/lekt6104.webp)

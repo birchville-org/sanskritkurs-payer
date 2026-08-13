@@ -75,6 +75,7 @@ Per quanto riguarda la sequenza dei membri in un Karmadhāraya, si deve osservar
 
 *   se un Karmadhāraya esprime un **CONFRASO**, allora ciò con cui si confronta si trova nel membro posteriore del composto:
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "un uomo come un leone"
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un uomo come una tigre"
@@ -88,7 +89,6 @@ Per quanto riguarda la sequenza dei membri in un Karmadhāraya, si deve osservar
 
     Tali Karmadhāraya appozitivi vengono risolti nei commenti indigeni, come nell'esempio sopra, mediante ⟪एव⟫.
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 Fig.: ⟪नरसिंहः⟫

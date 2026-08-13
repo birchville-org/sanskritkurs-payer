@@ -94,6 +94,7 @@ Kuv.: ⟪अजीर्यमिति⟫
 (Kuvälähde: [Yksityiskohdat](/fi/licenses#lekt5501))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt5501:** 'Inâyat Khân kuolemassa, luonnos miniatyyriin käsikirjoitukseen Jahângîrille = جهانگير, noin 1618 [Kuvälähde: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Haettu 2009-01-28. Kansanomaisessa käytössä] <!-- TODO: Fallback translation -->

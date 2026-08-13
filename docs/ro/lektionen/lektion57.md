@@ -141,6 +141,7 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (în P, ⟪गम्⟫ are aoristul tematic)**
 
 2.  ⟪पद्⟫ 4Ā este regulat (de ex. ⟪अपत्सि⟫), dar la 3.sg.Ā are forma aoristului de rădăcină pasiv:
+:::
 ::: indent
 ⟪अपादि⟫ „a mers“
 :::
@@ -148,7 +149,6 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 3.  ⟪बुध्⟫ Ā poate lua opțional la 3.sg.Ā forma aoristului de rădăcină pasiv:
 ::: indent
 ⟪अबोधि⟫ / ⟪अबुद्ध⟫ „a recunoscut“
-:::
 :::
 ## 57.2. Exercițiu
 

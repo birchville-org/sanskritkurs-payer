@@ -38,6 +38,7 @@ Kuva: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2404))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **2. Datiiivi (⟪चतुर्थी⟫) voi myös ilmaista täydennettävän tarkoituksen infinitiivin objektia:** <!-- TODO: Fallback translation -->
 
@@ -61,6 +62,7 @@ Kuv.: ⟪यज्ञायान्नम्⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2401))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **3. Datiivi (⟪चतुर्थी⟫) ilmaisee myös henkilön tai asian, jolle toiminnan kohde on tarkoitettu (epäsuora objekti; kysymys: kenelle?). (Huomaa kuitenkin kaksoisakkusatiiviset verbit (⟪द्वितीया⟫)!)** <!-- TODO: Fallback translation -->
 
@@ -77,6 +79,7 @@ Raksha bandhania juhlitaan innolla ja ilolla kaikkialla Intiassa. Tämä juhla k
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2402))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **4. Datiiivi käytetään joissakin verbeissä (ja muissa sanoissa) samalla tavalla kuin saksassa kysymykseen "kenelle?":**
 

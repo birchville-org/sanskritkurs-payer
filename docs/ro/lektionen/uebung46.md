@@ -88,3 +88,4 @@ Pentru cel necontrolat (non-yogin) nu există înțelepciune.
 Fig.: ⟪सक्तः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung080))
 ::: <!-- TODO: Fallback translation -->
+:::

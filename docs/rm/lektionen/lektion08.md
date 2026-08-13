@@ -31,6 +31,7 @@ En la grammatica indiana tradicionala, distinguescha si cun ils suffiss, cun ils
 **Nominalstamm + Kasusendung » syntaxfähiges Nomen**
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 8.2. Einteilung der Nominalsuffixe <!-- TODO: Fallback translation -->
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
@@ -95,6 +96,7 @@ Abb.: Maa Batakali Darshan, Puri, Orissa
 (Bildquelle: [Details](/rm/licenses#lekt0801))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: note-box
 **"Darshan"** u **Darshana** è in termin dal hinduism per la vista e la visium dal sàint e divin. Sot *Darshana* s'intenda per exempel l'incontr uffizial tranter allievo e maister, nua che l'allievo è stà invità dal maister. El po era significar il *s'immersar* durant la contemplaziun d'ina figura divina. Quest ultim significà è il pli frequent en l'usiadi odiern dal hindi. En connex cun Mata Amritanandamayi significa Darshan l'abbratsch dal guru.
 

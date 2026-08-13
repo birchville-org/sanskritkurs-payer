@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   jos Karmadhāraya ilmaisee VERTAILUn, niin vertailukohde on yhdyssanan jälkiosassa:
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "mies kuin leijona"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "mies kuin tiikeri"
@@ -88,7 +89,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 Tällaiset apposiittiset karmadhārayat puretaan kotimaisten kommentaarien mukaan yllä olevan esimerkin kaltaisesti ⟪एव⟩ avulla.
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 Kuva: ⟪नरसिंहः⟫

@@ -147,6 +147,7 @@ Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4502))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt4501.jpg**: Impressão em bloco têxtil, Ahmedabad. -- Fonte da imagem: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Acedido em 2009-01-08. -- Licença Creative Commons (Atribuição, Uso Não-Comercial, CompartilhaIgual)

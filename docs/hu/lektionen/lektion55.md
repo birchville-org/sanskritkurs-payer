@@ -94,6 +94,7 @@ Kép: ⟪अजीर्यमिति⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5501))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt5501:** „Inâyat Khân am Sterben”, vázlat egy miniaturhoz, kézirat Jahângîr számára = جهانگير, kb. 1618 [Képmegjelenítés: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Letöltés dátuma: 2009-01-28. Közhasznú] <!-- TODO: Fallback translation -->

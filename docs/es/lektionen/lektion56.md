@@ -54,6 +54,7 @@ Sílaba de la raíz:
 **El vocalismo de esta llamada «sílaba de la raíz» se determina en el aoristo según las siguientes reglas:**
 
 *   **\-ā- ante un consonante simple se sustituye por -a-:**  
+:::
 ::: indent
 ⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫
 ⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫
@@ -78,7 +79,6 @@ Sílaba de la raíz:
 ⟪कॢप्⟫  1Ā: Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫
 ⟪कृष्⟫ 1P/6U: Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
 :::
-:::
 Vocalismo de la sílaba de reduplicación:
 
 Una vez aplicadas las reglas mencionadas anteriormente a la sílaba de la raíz, deben seguirse las siguientes reglas para el vocalismo de la sílaba de reduplicación:
@@ -93,6 +93,7 @@ Una vez aplicadas las reglas mencionadas anteriormente a la sílaba de la raíz,
 **Este vocalismo de reduplicación está sujeto a las siguientes modificaciones:**
 
 *   **i, u se sustituyen por ī, ū cuando la sílaba de la raíz comienza con una sola consonante y es métricamente breve:**  
+:::
 ::: indent
 ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
 ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
@@ -114,7 +115,6 @@ Particularidades de ciertas raíces en Kielhorn, Grammatik § 435c ss.
 
 Vocal - primera consonante que le sigue (o su representante correspondiente en una sílaba de reduplicación) - **i** - todas las consonantes restantes
 
-:::
 ::: indent
 ⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, sílaba de reduplicación ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Caus. ⟪एषयति⟫, sílaba de reduplicación ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫

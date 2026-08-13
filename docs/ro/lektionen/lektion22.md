@@ -261,6 +261,7 @@ Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2204))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt2201:** Goa = ⟪गोंय⟫ [Sursa imaginii: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accesat la 2008-12-12. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]

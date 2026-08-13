@@ -195,6 +195,7 @@ Hochstufe:
 
 *   Wurzeln mit kurzem Vokal (ausser a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am  
     Beispiele:  
+:::
 ::: indent
 ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"
 ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestossen"
@@ -246,7 +247,6 @@ Nasalinfix:
     
 
 (Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben).
-:::
 ## 54.7. Übung
 
 Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen:

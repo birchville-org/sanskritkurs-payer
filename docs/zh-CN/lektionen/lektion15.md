@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = “如狮之男子”  
 
+:::
 ::: indent
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = “如虎之男子”
 :::
@@ -87,7 +88,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 此类同位语复合限定名（Karmadhāraya）在本地注释中，如上述示例所示，通过⟪एव⟫进行解析。
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 图：⟪नरसिंहः⟫

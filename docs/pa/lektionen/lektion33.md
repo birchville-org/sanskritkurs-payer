@@ -124,6 +124,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback tran
 
 * **⟪गहरी⟫ ⟪कोटि⟫**
   * **⟪व्यंजन⟫ ⟪के⟫ ⟪सामने⟫: -i-**  
+:::
 ::: indent
 ⟪उदा⟫. **:sig[⟪धा⟫]** PPP: **:sig[⟪हित⟫]** (hi-ta)
 :::
@@ -133,7 +134,6 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback tran
 :::
 * **⟪ऊंची⟫ ⟪कोटि⟫: -ā-**  
   ⟪उदा⟫. **:sig[⟪धा⟫]** 3.sg.P.Ind.Präs. **:sig[⟪दधाति⟫]**
-:::
 ⟪यहाँ⟫ ⟪से⟫ ⟪संबंधित⟫ ⟪उदाहरण⟫ ⟪के⟫ ⟪लिए⟫, ⟪यह⟫ ⟪भी⟫ ⟪है⟫:
 
 ::: indent

@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   اگر یک کرم‌دهارایا بیانگر مقایسه باشد، آن چیزی که با آن مقایسه می‌شود در بخش پسین ترکیب قرار دارد:
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "مردی مانند شیر"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "مردی مانند ببر"
@@ -88,7 +89,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 چنین ترکیبات کارماذارایای عطفی در تفاسیر بومی، مانند مثال بالا، به وسیله ⟪एव⟫ تجزیه می‌شوند.
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 تصویر: ⟪नरसिंहः⟫

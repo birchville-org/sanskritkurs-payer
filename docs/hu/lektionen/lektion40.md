@@ -484,6 +484,7 @@ Kép: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt4003))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 ⟪तीर्थङ्कर⟫ m. (ebből: ⟪तीर्थम्⟫+ ⟪कृ⟫): átkelőkészítő (a szenvedésen túl) = a dzsainák 24 tanítója
 :::

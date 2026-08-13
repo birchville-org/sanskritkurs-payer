@@ -142,6 +142,7 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 **⟪अगसि⟩ (« \*a-gm-si) ⟪।⟩ ⟪अगथास्⟩ ⟪।⟩ ⟪अगत⟩ (en P ha ⟪गम्⟩ l'aorist thematic)**
 
 2.  ⟪पद्⟫ 4Ā è regularmain (p.ex. ⟪अपत्सि⟫), en la 3.sg.Ā ha el però la furma dal aorist da radich passiv:
+:::
 ::: indent
 ⟪अपादि⟫ "el è ì
 :::
@@ -149,7 +150,6 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 3.  ⟪बुध्⟫ Ā poa esser en la 3.sg.Ā la furma dal aorist passiv da la radis:
 ::: indent
 ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "el reconoscha"
-:::
 :::
 ## 57.2. Exercizi
 

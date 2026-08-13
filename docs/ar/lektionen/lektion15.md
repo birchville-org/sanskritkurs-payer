@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   إذا عبر كرمادهارايًا عن مقارنة، فإن ما يُقارَن به يأتي في الجزء الخلفي من المركب:
 
+:::
 ::: indent
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "رجل مثل النمر"
 :::
@@ -87,7 +88,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 يتم حل مثل هذه الكرمادهارايا التفسيرية في التعليقات المحلية، كما في المثال أعلاه، عبر ⟪एव⟫.
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 التعليق: ⟪नरसिंहः⟫

@@ -45,3 +45,5 @@ Alakítsa ki a következő jelen idő vagy befejezett múlt alakokhoz a megfelel
 (Képmegjelölés: [Részletek](/licenses#uebung093))
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

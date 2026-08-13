@@ -205,6 +205,7 @@ Fig.: ⟪हस्तवान्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3807))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: grammar-box
 Los adjetivos terminados en **-⟪इन्⟫** se forman con gusto como compuestos.
 :::

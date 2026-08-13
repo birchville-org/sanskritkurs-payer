@@ -359,6 +359,7 @@ Regulae de usu vocis coniunctionis -i- vide apud Kielhorn, Grammatica § 443 - 4
 **De reduplicatione:**
 
 1.  Radices consonantice incipientes: Reduplicatio fit in radicibus secundum praecedentes regulas mutatis, secundum usitatas regulas. Pro a vocali reduplicationis apparet i:
+:::
 ::: indent
 ⟪पा⟫ » ⟪पिपास⟫-
 ⟪त्यज्⟫ » ⟪तित्यज⟫-
@@ -375,7 +376,6 @@ Zerebralisatio post i/u ex finali -s radicis omittitur, quando s desyderativi su
 :::
 
 3.  De formatione speciali desiderativa quorundam radicum vide apud Kielhorn, Grammatik § 451.
-:::
 ::: grammar-box
 **Desiderativa quaedam radices sine significatione desiderativa formant. Ad haec desiderativa possunt formari desiderativa cum significatione desiderativa.**
 :::

@@ -21,6 +21,7 @@ Fig.: Gaṇeśa, Adamspeak, Sri Lanka
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0102))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: center
 ⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
 ⟪सततं⟫ ⟪मोदकप्रिय⟫ |

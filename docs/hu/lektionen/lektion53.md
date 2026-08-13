@@ -36,6 +36,7 @@ lesson_id: 53
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5301))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt5302.webp)
 Ábra: ⟪हस्तौ⟫
@@ -651,3 +652,5 @@ Alois Maria Payer
 **Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

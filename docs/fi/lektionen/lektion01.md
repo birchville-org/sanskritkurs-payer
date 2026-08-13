@@ -21,6 +21,7 @@ Kuva 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0102))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: center
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
@@ -50,6 +51,7 @@ Kuva 1.1: Ardhanarīśvara
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0101))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: center
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये |]
@@ -86,6 +88,7 @@ Kuv.: Taskukirjan kansinimike
 
 >**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ osa: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie. <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt0104.webp)
 Kuv.: Nimilehti
@@ -96,6 +99,7 @@ Paras systemaattinen grammatikka:
 
 > **Kielhorn**, Franz (1840–1908): Sanskritin kielioppi / Englannista kääntänyt W. Solf [1862 - 1936]. -- Berliini : Dümmler, 1888. -- XIII, 238 s. -- Alkuperäinen otsikko: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt0105.webp)
 Kuva: Kansiotsikko
@@ -106,6 +110,7 @@ Hyvä systemaattinen kielioppi kotimaisten kielitieteilijöiden perusteella ja s
 
 > **Kunnappally, John:** Prakriyā bhāshyam : Sanskritin kielioppi / Alkuperäisesti kirjoitettu malajalamiksi. Kääntänyt englanniksi K.V.R. Pai. -- Parathode : Omakustanne, 1983. -- 818 s. ; 23 cm. <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt0107.jpg)
 Kuv.: Kannetunniste
@@ -116,6 +121,7 @@ Hyvä, tiivis esitys eurooppalaisesta kielitieteen terminologiasta löytyy seura
 
 > **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt0108.jpg)
 Kuv.: Kannen otsikko
@@ -126,6 +132,7 @@ Tutkijoille tarkistettavaksi:
 
 > **Lexikon der Sprachwissenschaft** / toim. Hadumod Bussmann. -- 4., läpikatsottu ja bibliografisesti täydennetty painos / yhteistyössä Hartmut Laufferin kanssa. -- Stuttgart : Kröner, 2008. -- 816 s. ; 22 cm. -- ISBN 978-3-520-45204-7 <!-- TODO: Fallback translation -->
 
+:::
 ## 1.2. Sanskritin äänteet <!-- TODO: Fallback translation -->
 
 Sanskritin äänteet perinteisen intialaisen luokittelun ja tieteellisen translitteraation mukaisesti. <!-- TODO: Fallback translation -->

@@ -260,6 +260,7 @@ Fig.: ⟪भगवद्गीता⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2105))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (într-adevăr un desiderativ pentru ⟪भज्⟫: a dori să participe): a cere milostenie
 :::

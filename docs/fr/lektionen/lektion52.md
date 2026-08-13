@@ -113,6 +113,7 @@ Figures Wayang, Java, Indonésie
 
 *   **des mots numéraux**  
     Exemples :  
+:::
 ::: indent
 ⟪एकशस्⟫ « un par un, chacun »
 ⟪द्विशस्⟫ « deux par deux, chacun deux »
@@ -125,7 +126,6 @@ Figures Wayang, Java, Indonésie
 ⟪भागशस्⟫ « partie par partie »
 ⟪सर्वशस्⟫ « partout, absolument tous »
 ⟪नित्यशस्⟫ « constamment »
-:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -152,6 +152,7 @@ La terminaison du nom est traitée comme suit :
 
 *   **les terminaisons -a et -ā des mots déclinables sont remplacées par -ī**  
     Exemples :  
+:::
 ::: indent
 ⟪कृष्णीभवति⟫ « quelque chose qui n’est pas noir devient noir »
 ⟪कृष्णीकरोति⟫ « il rend noir quelque chose qui n’est pas noir »
@@ -173,7 +174,6 @@ La terminaison du nom est traitée comme suit :
 
 *   **les autres noms polysyllabiques sont à la forme de la base qu’ils ont au locatif (⟪सप्तमी⟩) pluriel. La base est alors soumise aux règles habituelles de sandhi. Voir Kielhorn, Grammatik § 489,3.**  
     Par exemple, ⟪तिर्यक्करोति⟫ « il se couche de côté (⟪तिर्यच्⟩) »
-:::
 ::: media
 ![](/images/lekt5209.webp)
 Fig. : ⟪भस्मीकृतं⟫ ⟪वनम्⟫
@@ -233,6 +233,7 @@ Exemple :
     par ex. ⟪पुनः⟫ ⟪पुनः⟫ « à plusieurs reprises »
 *   **La distribution**  
     Exemples :  
+:::
 ::: indent
 ⟪पृथक्पृथक्⟫ « chacun séparément, chacun individuellement »
 ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ « quoi que ... tout cela »
@@ -241,7 +242,6 @@ Exemple :
 
 **Il est parfois possible de former un composé à partir de telles combinaisons**
 
-:::
 Exemples :
 
 ::: indent
@@ -403,6 +403,7 @@ Les Sept Étoiles = les sept étoiles les plus brillantes de la Grande Ourse (Ur
 2.  le composé ainsi formé est utilisé dans un sens qui est autrement désigné par un suffixe Taddhita (dans ce type, la transition vers le Bahuvrīhi est fluide) :  
     Exemples :  
     dvi + go » :sig[⟪द्विगु⟫] : non : "deux vaches", mais : "**acquis pour deux vaches**"  
+:::
 ::: indent
 ⟪द्विवर्ष⟫ non : "deux ans", mais : "**âgé de deux ans**"
 :::
@@ -410,7 +411,6 @@ Les Sept Étoiles = les sept étoiles les plus brillantes de la Grande Ourse (Ur
 3.  le composé ainsi formé constitue le premier membre d'un autre composé  
     Exemple :  
     pañca + go » pañcagava (invalide comme mot unique !) + dhana » ⟪पञ्चगवधन⟫ m. "celui dont la richesse est de cinq vaches"
-:::
 ::: media
 ![](/images/lekt5207.webp)
 Fig. : ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫ :

@@ -145,3 +145,4 @@ C) Tulevaisuuden muoto valinnaisesti sekä muodolla että ilman **-i-**:
 Kuv.: ⟪अविपालो⟫ ⟪ऽविं⟫ ⟪रक्षति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung043))
 ::: <!-- TODO: Fallback translation -->
+:::

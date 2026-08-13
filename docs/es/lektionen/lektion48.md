@@ -267,6 +267,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4802))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: media
 ![](/images/lekt4803.webp)
 Fig.: ⟪तन्त्री⟫

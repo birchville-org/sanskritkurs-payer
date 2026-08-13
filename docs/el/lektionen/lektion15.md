@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   εάν ένα Κarmadhāraya εκφράζει μια ΣΥΓΚΡΙΣΗ, τότε αυτό με το οποίο γίνεται η σύγκριση βρίσκεται στο δεύτερο μέρος της σύνθετης λέξης:
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ένας άνδρας σαν ένα λιοντάρι"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ένας άνδρας σαν μια τίγρη"
@@ -88,7 +89,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 Τέτοια επιθετικά Karmadhāraya αναλύονται στις εγχώριες σχολές, όπως στο παραπάνω παράδειγμα, μέσω ⟪एव⟫.
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 Εικ.: ⟪नरसिंहः⟫

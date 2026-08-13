@@ -146,3 +146,4 @@ Datoria tuturor este: non-violența, veridicitatea, puritatea, a nu cârti împo
 Fig.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung028))
 ::: <!-- TODO: Fallback translation -->
+:::

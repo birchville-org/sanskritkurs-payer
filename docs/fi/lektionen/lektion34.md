@@ -222,6 +222,7 @@ Sesamin siemeniä.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3403))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt3404.webp)
 Kuva: Sesamum indicum L.
@@ -331,6 +332,7 @@ Hinduavihkitseremonia.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3407))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt3401:** Nandi-hiiden patsas, Chamundi-vuoret, Mysore. [Kuvälähde: Luna Park / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
@@ -348,3 +350,5 @@ Hinduavihkitseremonia.
 **lekt3407:** Hinduavihkitseremonia. [Kuvälähde: BriceFR / Flickr. CC BY-NC-SA]
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

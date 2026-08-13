@@ -133,6 +133,7 @@ Fig.: ⟪अगारम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3602))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 din care:
 

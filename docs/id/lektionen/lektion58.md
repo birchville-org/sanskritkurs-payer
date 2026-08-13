@@ -303,6 +303,7 @@ Suffix pembentuk stem + akhiran dari Aorist iṣ adalah:
 
 *   **Roots with short vowel before simple consonant: Strong grade in P and Ā**  
     Examples:  
+:::
 ::: indent
 ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
 ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
@@ -329,7 +330,6 @@ Contoh:
 ⟪तन्⟫ 8U: orang pertama tunggal.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
 tetapi:  
 ⟪क्रम्⟫ 1U: orang pertama tunggal.P ⟪अक्रमिषम्⟫
-:::
 Paradigma:
 
 ⟪पू⟫ 9U "to cleanse"
@@ -372,6 +372,7 @@ Paradigma:
 ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aorist akar) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā dan lainnya dapat mengambil bentuk aorist pasif sebagai pengganti tunggal ke-3:  
+:::
 ::: indent
 ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
 :::
@@ -379,7 +380,6 @@ Paradigma:
 4.  ⟪विज्⟫ 7P has no ablaut:  
 ::: indent
 ⟪अविजीत्⟫
-:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

@@ -94,6 +94,7 @@ Fig.: ⟪अजीर्यमिति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5501))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt5501:** 'Inâyat Khân pe patul de moarte, schiță pentru o miniatură a unui manuscris pentru Jahângîr = جهانگير, circa 1618 [Sursa imaginii: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accesat la 2009-01-28. Domeniu public] <!-- TODO: Fallback translation -->

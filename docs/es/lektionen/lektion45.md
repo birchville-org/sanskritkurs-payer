@@ -147,6 +147,7 @@ Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4502))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: deleteme-box
 
 **lekt4501.jpg**: Impresión textil en bloque, Ahmedabād. -- Fuente de la imagen: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual)

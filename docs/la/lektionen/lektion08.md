@@ -31,6 +31,7 @@ In grammatica Indica traditionali inter suffixa, quibus radices nominalium forma
 **Stamen nominale + casus desinens » nomen syntaxe fungens**
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 8.2. Einteilung der Nominalsuffixe <!-- TODO: Fallback translation -->
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**

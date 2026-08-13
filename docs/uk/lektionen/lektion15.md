@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   якщо Кармадхарая виражає ПОРІВНЯННЯ, то те, з чим порівнюють, стоїть у другій частині складного слова:
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "чоловік, як лев"
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "чоловік, як тигр"
@@ -88,7 +89,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
     Такі апозитивні Кармадхарайи в місцевих коментарях, як і в наведеному вище прикладі, розкриваються за допомогою ⟪एव⟫.
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 Рис.: ⟪नरसिंहः⟫

@@ -234,6 +234,7 @@ Paradigma:
 **Quod significat Intensivum:**
 
 *   **quod persona vel res semper faciat aut patiatur, quod per radicem exprimitur**
+:::
 ::: indent
 ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "semper facit"
 ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "saepē est (fit)"
@@ -253,7 +254,6 @@ Paradigma:
 ::: indent
 ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "male secat"
 ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "male se ponit"
-:::
 :::
 ::: media
 ![](/images/lekt6104.webp)

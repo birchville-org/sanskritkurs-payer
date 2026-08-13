@@ -132,6 +132,7 @@ Vertailevan kielitieteen professori, Erlangen-Nürnbergin yliopisto (1955 - 1983
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5601))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
 :::

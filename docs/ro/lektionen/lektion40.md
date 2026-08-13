@@ -484,6 +484,7 @@ Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4003))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 ⟪तीर्थङ्कर⟫ m. (din: ⟪तीर्थम्⟫+ ⟪कृ⟫): Constructor de vad (peste suferință) = cei 24 învățători Jaina
 :::

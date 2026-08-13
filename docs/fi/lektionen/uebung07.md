@@ -222,3 +222,4 @@ sa guruḥ. enaṃ śṛṇvanti.
 Kuv.: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung006))
 ::: <!-- TODO: Fallback translation -->
+:::

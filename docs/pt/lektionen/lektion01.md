@@ -21,6 +21,7 @@ Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Fonte da imagem: [Detalhes](/licenses#lekt0102))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: center
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
@@ -96,6 +97,7 @@ A melhor gramática sistemática:
 
 > **Kielhorn**, Franz \<1840-1908\>: Gramática da Língua Sânscrita / Traduzido do inglês por W. Solf [1862 - 1936]. -- Berlim : Dümmler, 1888. -- XIII, 238 p. -- Título original: A grammar of the Sanscrit language
 
+:::
 ::: media
 ![](/images/lekt0105.webp)
 Fig.: Título da capa

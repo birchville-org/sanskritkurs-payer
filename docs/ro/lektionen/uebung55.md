@@ -52,3 +52,4 @@ Fig.: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Sursă imagine: [Detalii](/licenses#uebung092))
 ::::
 ::: <!-- TODO: Fallback translation -->
+:::

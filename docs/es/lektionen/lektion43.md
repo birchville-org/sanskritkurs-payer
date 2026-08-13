@@ -369,6 +369,7 @@ Fig.: ⟪शर्करा⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4309))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: deleteme-box
 
 **lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Acceso el 2009-01-06. -- Licencia Creative Commons (Atribución, sin uso comercial)

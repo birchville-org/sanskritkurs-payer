@@ -77,3 +77,4 @@ Fig.: ⟪गायी⟫
 Fig.: ⟪शुकः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung079))
 ::: <!-- TODO: Fallback translation -->
+:::

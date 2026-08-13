@@ -109,3 +109,4 @@ Fig.: ⟪आगारे⟫ ⟪सीदामः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung064))
 ::::
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

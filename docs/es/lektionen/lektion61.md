@@ -234,6 +234,7 @@ Paradigma:
 **El intensivo significa:**
 
 *   **que una persona o cosa hace o experimenta repetidamente lo expresado por la raíz**  
+:::
 ::: indent
 ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "él hace una y otra vez"
 ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "él es (se vuelve) a menudo"
@@ -253,7 +254,6 @@ Paradigma:
 ::: indent
 ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "corta mal"
 ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "se sienta mal"
-:::
 :::
 ::: media
 ![](/images/lekt6104.webp)
@@ -448,6 +448,7 @@ Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6105))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: media
 ![](/images/lekt6103.webp)
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
@@ -665,6 +666,7 @@ Paradigmas: Kielhorn, Grammatik § 153:
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6115))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: media
 ![](/images/lekt6118.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
@@ -681,6 +683,7 @@ Kielhorn, Grammatik § 177:
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6116))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: media
 ![](/images/lekt6117.webp)
 Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫

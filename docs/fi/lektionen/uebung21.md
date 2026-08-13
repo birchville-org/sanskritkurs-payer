@@ -53,3 +53,4 @@ Hän, joka on voittanut vihan, ei vihaa vihollistaan, vaikka tämä tappaisikin 
 Kuv.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung033))
 ::: <!-- TODO: Fallback translation -->
+:::

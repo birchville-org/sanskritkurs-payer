@@ -113,6 +113,7 @@ Wayang figure, Java, Indonesia
 
 *   **Numeral words**  
     Examples:  
+:::
 ::: indent
 ⟪एकशस्⟫ "individually, one by one"
 ⟪द्विशस्⟫ "in pairs, two by two"
@@ -124,7 +125,6 @@ Contoh:
 ⟪भागशस्⟫ "satu per satu"
 ⟪सर्वशस्⟫ "di mana-mana, tanpa terkecuali"
 ⟪नित्यशस्⟫ "terus-menerus"
-:::
 ::: media
 ![](/images/lekt5204.webp)
 Gambar: ⟪अनुक्रमेणैकशः⟫

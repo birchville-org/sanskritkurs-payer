@@ -216,3 +216,4 @@ Texto de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s. &lt;!-- TODO: Fallbac
 Fig.: ⟪रामस्य⟫ ⟪रावणेन⟫ ⟪युद्धः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung099))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

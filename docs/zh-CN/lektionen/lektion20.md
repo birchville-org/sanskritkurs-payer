@@ -588,3 +588,5 @@ B) 使用复合词翻译成梵语：
 **lekt2010:** Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt. [Bildquelle: Wikipedia, GNU FDLicense]
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

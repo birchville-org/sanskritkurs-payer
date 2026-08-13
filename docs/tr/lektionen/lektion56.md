@@ -54,6 +54,7 @@ Stammsilbe: <!-- TODO: Fallback translation -->
 **Der Vokal dieser sog. Stammsilbe bestimmt sich im Aorist nach folgenden Regeln:** <!-- TODO: Fallback translation -->
 
 *   **\-ā- vor einfachem Konsonanten wird durch -a- ersetzt:**   <!-- TODO: Fallback translation -->
+:::
 ::: indent
 ⟪पॄ⟫ 3P: Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫
 ⟪द्रु⟫ 1P: Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫
@@ -78,7 +79,6 @@ Stammsilbe: <!-- TODO: Fallback translation -->
 ⟪कॢप्⟫  1Ā: Kaus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत्⟫
 ⟪कृष्⟫ 1P/6U: Kaus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫ <!-- TODO: Fallback translation -->
 :::
-:::
 Vokal der Reduplikationssilbe: <!-- TODO: Fallback translation -->
 
 Nachdem die eben genannten Regeln auf die Stammsilbe angewandt sind, müssen folgende Regeln für den Vokal der Reduplikationssilbe befolgt werden: <!-- TODO: Fallback translation -->
@@ -93,6 +93,7 @@ Nachdem die eben genannten Regeln auf die Stammsilbe angewandt sind, müssen fol
 **Dieser Reduplikationsvokal unterliegt folgenden Veränderungen:** <!-- TODO: Fallback translation -->
 
 *   **i, u wird durch ī, ū ersetzt, wenn die Stammsilbe mit nur einem Konsonanten anfängt und metrisch kurz ist:**   <!-- TODO: Fallback translation -->
+:::
 ::: indent
 ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत्⟫
 ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫   <!-- TODO: Fallback translation -->
@@ -114,7 +115,6 @@ Besonderheiten bestimmter Wurzeln bei Kielhorn, Grammatik § 435c ff. <!-- TODO:
 
 Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - **i** \- alle Konsonanten <!-- TODO: Fallback translation -->
 
-:::
 ::: indent
 ⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, reduplizierte Silbe ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, reduplizierte Silbe ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫

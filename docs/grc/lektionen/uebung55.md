@@ -55,3 +55,5 @@ Fig.: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Image source: [Details](/licenses#uebung092))
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

@@ -113,6 +113,7 @@ Figură Wayang, Java, Indonezia
 
 *   **Numere**  
     Exemple:  
+:::
 ::: indent
 ⟪एकशस्⟫ "în mod individual, câte unul"
 ⟪द्विशस्⟫ "pe perechi, câte doi"
@@ -125,7 +126,6 @@ Figură Wayang, Java, Indonezia
 ⟪भागशस्⟫ "pe părți, pe rând"
 ⟪सर्वशस्⟫ "pretutindeni, pe toți"
 ⟪नित्यशस्⟫ "în mod constant"
-:::
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -152,6 +152,7 @@ Finalul substantivului este tratat astfel:
 
 *   **finalurile -a și -a ale substantivelor declinabile sunt înlocuite cu -ī**  
     Exemple:  
+:::
 ::: indent
 ⟪कृष्णीभवति⟫ "ceva care nu este negru devine negru"
 ⟪कृष्णीकरोति⟫ "el face ceva care nu este negru, negru"
@@ -173,7 +174,6 @@ Finalul substantivului este tratat astfel:
 
 *   **alte substantive cu mai multe rădăcini stau în forma rădăcinii pe care o au în Locativ (⟪सप्तमी⟫) Plural. Rădăcina este apoi supusă regulilor obișnuite de Sandhi. Vezi Kielhorn, Gramatică § 489,3.**  
     De exemplu, ⟪तिर्यक्करोति⟫ "el aruncă lateral (⟪तिर्यच्⟫)"
-:::
 ::: media
 ![](/images/lekt5209.webp)
 Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
@@ -233,6 +233,7 @@ Exemplu:
     de ex. ⟪पुनः⟫ ⟪पुनः⟫ "mereu din nou"
 *   **Distribuție**  
     Exemple:  
+:::
 ::: indent
 ⟪पृथक्पृथक्⟫ "fiecare separat, fiecare individual"
 ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "ceea ce este ... totul"
@@ -241,7 +242,6 @@ Exemplu:
 
 **Ocazional, din astfel de combinații se poate forma un compus**
 
-:::
 Exemple:
 
 ::: indent
@@ -379,6 +379,7 @@ Fig.: ⟪चतुर्मुखः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5205))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **⟪तत्पुरुष⟫ cu un număr cardinal în primul component nu pot fi formate arbitrar:**
 
@@ -403,6 +404,7 @@ Cele șapte stele = cei șapte cei mai strălucitori steți ai Ursa Majoră (Urs
 2.  compusul astfel format este folosit într-un sens care este de obicei indicat de un sufix Taddhita (în acest caz, trecerea la Bahuvrīhi este fluidă):  
     Exemple:  
     dvi + go » :sig[⟪द्विगु⟫] : nu: "doi boi", ci: "**cumpărat pentru doi boi**"  
+:::
 ::: indent
 ⟪द्विवर्ष⟫ nu: "doi ani", ci: "**cu vârsta de doi ani**"
 :::
@@ -410,7 +412,6 @@ Cele șapte stele = cei șapte cei mai strălucitori steți ai Ursa Majoră (Urs
 3.  compusul astfel format constituie primul component al unui alt compus  
     Exemplu:  
     pañca + go » pañcagava (nu este permis ca cuvânt independent!) + dhana » ⟪पञ्चगवधन⟫ m. "cel al cărui bogăție constă în cinci boi"
-:::
 ::: media
 ![](/images/lekt5207.webp)
 Fig.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
@@ -790,6 +791,7 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5201))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Sursa imaginii: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Accesat la 2009-01-15. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, fără utilizare comercială, fără lucrări derivate)]

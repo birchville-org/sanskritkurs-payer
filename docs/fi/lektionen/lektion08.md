@@ -17,6 +17,7 @@ last_reconstructed: 2026-05-07
 - Verbin **kṛ** (tun, tehdä) taivutus
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 8.1. Nomien muodostuksesta
 
 Perinteisessä intialaisessa grammatikassa eritellään substantiivijänteitä muodostavien päätteiden välillä: <!-- TODO: Fallback translation -->
@@ -31,6 +32,7 @@ Perinteisessä intialaisessa grammatikassa eritellään substantiivijänteitä m
 **Substantiivijänne + kasuspääte » syntaktisesti toimiva substantiivi**
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 8.2. Nominaalijänteiden luokittelu <!-- TODO: Fallback translation -->
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
@@ -95,6 +97,7 @@ Kuva: Maa Batakali Darshan, Puri, Orissa
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0801))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: note-box
 **"Darshan"** tai **"Darshana"** on hindulaisuuden käsite pyhän ja jumalallisen näkemisestä ja visiosta. Sanalla *Darshana* tarkoitetaan esimerkiksi virallista tapaamista oppilaan ja mestarin välillä, jossa oppilas on saanut kutsun mestarilta. Se voi tarkoittaa myös *uppoamista* jumalankuvan katsellessa. Viimeksi mainittu merkitys on nykysanskritin yleisin. Mata Amritanamaayn yhteydessä Darshan tarkoittaa Gurun halausta. <!-- TODO: Fallback translation -->
 
@@ -102,6 +105,7 @@ Vanhurskaat hindut menevät temppeliin saadakseen Jumalan näyn symbolin tai pat
 (Lähde: Wikipedia)
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ### 8.3.3. -tra n. (kṛt) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
@@ -117,6 +121,7 @@ Vanhurskaat hindut menevät temppeliin saadakseen Jumalan näyn symbolin tai pat
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Ajatteluväline:) säe, 'maaginen' formula (mantra)" |
 | **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "kude" | <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 **Alkuperäinen mantra Oṃ (⟪ॐ⟫) eri intialaisissa teksteissä**
 
@@ -130,6 +135,7 @@ Vanhurskaat hindut menevät temppeliin saadakseen Jumalan näyn symbolin tai pat
 (Kuvien lähteet: [Yksityiskohdat](/fi/licenses#lekt0803))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ### 8.3.4. -ti f. (kṛt) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
@@ -197,6 +203,7 @@ Tärkein 8. luokan verbijuuri on **kṛ** 8 U (⟪कृ⟫) "tehdä". Sen taivu
 ⟪कुर्वते⟫
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 8.5. Sanalista
 
 **Opettele seuraavat sanat:**
@@ -225,6 +232,7 @@ Kuva: **likh** (⟪लिख्⟫) : Intialainen teräskynä palmunlehtien raap
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0809))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt0810.jpg)
 Kuva: **likh** (⟪लिख्⟫) : Batak-kansan kirjoitustikku (Sumatra), joka todennäköisesti oli käytössä myös Intiassa

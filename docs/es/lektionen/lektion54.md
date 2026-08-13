@@ -194,6 +194,7 @@ Grado fuerte:
 
 *   Raíces con vocal breve (excepto a) antes de una consonante simple, así como ⟪जन्⟫ y la mayoría de las raíces en -am  
     Ejemplos:  
+:::
 ::: indent
 ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "fue partido"
 ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "fue empujado"
@@ -240,7 +241,6 @@ Infixo nasalizado:
 :::
 
 (Las demás formas del pasivo se expresan en el aoristo mediante formas de Ātmanepada).
-:::
 ## 54.7. Ejercicio
 
 Traduzca por escrito las siguientes formas y forme las correspondientes formas de aoristo:
@@ -276,6 +276,7 @@ Tamil Nadu
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5401))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: deleteme-box
 
 **lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Fuente de la imagen: Raji Srinivas / Wikipedia. Licencia GNU FDL]

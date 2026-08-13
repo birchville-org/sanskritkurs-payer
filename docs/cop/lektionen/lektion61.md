@@ -234,6 +234,7 @@ Paradigma: <!-- TODO: Fallback translation -->
 **Das Intensivum bedeutet:** <!-- TODO: Fallback translation -->
 
 *   **dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Wurzel ausgedrückt wird**   <!-- TODO: Fallback translation -->
+:::
 ::: indent
 ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"
 ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"   <!-- TODO: Fallback translation -->
@@ -253,7 +254,6 @@ Paradigma: <!-- TODO: Fallback translation -->
 ::: indent
 ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"
 ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht" <!-- TODO: Fallback translation -->
-:::
 :::
 ::: media
 ![](/images/lekt6104.webp)

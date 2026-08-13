@@ -87,3 +87,4 @@ Per l'insubordinà (non-yogin) n'exista nagina perscrutaziun.
 Abb.: ⟪सक्तः⟫
 (Sursa da l'imagines: [Detagls](/licenses#uebung080))
 ::: <!-- TODO: Fallback translation -->
+:::

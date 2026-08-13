@@ -349,6 +349,7 @@ Inf. **kāmayitum** / **kamitum**
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2804))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 ⟪चुर्⟫ 10 ⟪चोरयति⟫: ਚੋਰੀ ਕਰਨਾ
 Fut. **corayiṣyati**

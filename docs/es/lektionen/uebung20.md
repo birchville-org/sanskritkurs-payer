@@ -296,3 +296,4 @@ Los pobres, que no desean, tienen muchos hijos, los ricos no tienen un solo hijo
 Fig.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung032))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

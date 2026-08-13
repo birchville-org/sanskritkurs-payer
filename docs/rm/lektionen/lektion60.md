@@ -239,6 +239,7 @@ Esempel: ⟪प्रतीची⟫
 (Fonte da figura: [Detagls](/rm/licenses#lekt6003))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt6004.webp)
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt6004))
@@ -359,6 +360,7 @@ Las regulaziuns davart l'usi dal vocal da ligaziun -i — vesair en Kielhorn, Gr
 **Sut la reduplicaziun:**
 
 1.  Radis consonanticas: La reduplicaziun succedia sin las radis midadas secundamain las reglas surmenziunadas secundamain las reglas usitadas. Enstagl da a sco vocala da reduplicaziun appariscia i:  
+:::
 ::: indent
 ⟪पा⟫ » ⟪पिपास⟫-
 ⟪त्यज्⟫ » ⟪तित्यज⟫-
@@ -375,7 +377,6 @@ La cerebralisaziun suenter i/u da -s finala da la radis resta evitada, sche il s
 :::
 
 3.  La furmaziun speciala dal desiderativ da certas radichas vesair en Kielhorn, Grammatik § 451.
-:::
 ::: grammar-box
 **A cert radichs vegnan formatgs desiderativs senza significat desiderativ. A quests desiderativs pon vegnir formatgs desiderativs cun significat desiderativ.**
 :::
@@ -426,6 +427,7 @@ A) Studiai en Kielhorn, Grammatica § 451 las furmas irregularas dal desiderativ
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt6007))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt6008.webp)
 (Imaggisurza: [Detagls](/rm/licenses#lekt6008))

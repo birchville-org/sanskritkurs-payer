@@ -91,3 +91,4 @@ C) Muunna harjoituksen B) lauseet korvaamalla perfektit imperfekeillä: <!-- TOD
 Kuv.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
 (Kuv lähde: [Details](/licenses#uebung058))
 ::: <!-- TODO: Fallback translation -->
+:::

@@ -30,35 +30,35 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫ <!-- TODO: Fallback translation -->
 z.B. <!-- TODO: Fallback translation -->
 :::
 ::: indent
+:::
 ::: indent
 ⟪इष्ट⟫ "erwünscht" (d.h. nicht nur in der Vergangenheit gewünscht, sondern auch in der Gegenwart) <!-- TODO: Fallback translation -->
-:::
 :::
 
 ::: indent
 ⟪त्वरित⟫ "eilend, eilig" (PPP zu tvar 1 Ā "eilen"; Dhātupāṭha: ñitvárā) <!-- TODO: Fallback translation -->
 :::
 ::: indent
+:::
 ::: indent
 ⟪इष्टं⟫ ⟪फलम्⟫ "die erwünschte Frucht (z.B. der Taten)" <!-- TODO: Fallback translation -->
-:::
 :::
 
 Wenn in diesem Fall ⟪अपि⟫ nach dem PPP steht, hat ⟪अपि⟫ die Bedeutung "obwohl":
 z.B. <!-- TODO: Fallback translation -->
 ::: indent
+:::
 ::: indent
 ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Obwohl der die Frucht wünscht, erhält er sie nicht." <!-- TODO: Fallback translation -->
-:::
 :::
 
 ::: indent
 ⟪गत⟫ n.: "das Gehen, der Gang" <!-- TODO: Fallback translation -->
 :::
 ::: indent
+:::
 ::: indent
 ⟪नृत्त⟫ n.: "das Tanzen, der Tanz" <!-- TODO: Fallback translation -->
-:::
 :::
 
 ## 13.3. 名词的定语（词序）

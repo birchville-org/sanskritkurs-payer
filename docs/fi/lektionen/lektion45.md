@@ -147,6 +147,7 @@ Kuva: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4502))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt4501.jpg**: Tekstiilipainatus, Ahmedabad. -- Kuvälähde: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Pääsy 8.1.2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, sama lupa)
@@ -154,3 +155,5 @@ Kuva: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 **lekt4502.jpg**: Kuvälähde: John Isaac / Maailmanpankki. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Pääsy 8.1.2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

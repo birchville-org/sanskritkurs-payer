@@ -141,6 +141,7 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (ਪ ਵਿੱਚ ⟪गम्⟫ ਥੀਮਾ-ਵਾਕਿਕ ਔਰਿਸਟ ਹੈ)**
 
 2.  ⟪पद्⟫ 4Ā ਨਿਯਮਿਤ ਹੈ (ਜਿਵੇਂ ਕਿ ⟪अपत्सि⟫), ਪਰ 3.ਸg.Ā ਵਿੱਚ ਇਸਦਾ ਰੂਪ ਨਿਰੋਧਕ ਧਾਤ-ਔਰਿਸਟ ਦਾ ਹੈ:
+:::
 ::: indent
 ⟪अपादि⟫ "ਉਹ ਗਿਆ"
 :::
@@ -148,7 +149,6 @@ Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet w
 3.  ⟪बुध्⟫ Ā 3.ਸg.Ā ਵਿੱਚ ਵਿਕਲਪਿਕ ਤੌਰ 'ਤੇ ਨਿਰੋਧਕ ਧਾਤ-ਔਰਿਸਟ ਦਾ ਰੂਪ ਲੈ ਸਕਦਾ ਹੈ:
 ::: indent
 ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "ਉਸਨੇ ਪਛਾਣਿਆ"
-:::
 :::
 ## 57.2. ਅਭਿਆਸ
 

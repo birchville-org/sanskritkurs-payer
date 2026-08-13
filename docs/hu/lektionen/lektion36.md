@@ -115,6 +115,7 @@ Kép: ⟪गोमयं⟫ ⟪चिकाय⟫
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : lépni, menni, elmenni
 
+:::
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
 Fut. ⟪व्रजिष्यति⟫  
@@ -243,6 +244,7 @@ Kép: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: saját (én, te ...) ; m.: tag
 
+:::
 ## 36.5. Gyakorlat
 
 A) Az alábbi gyököknek mind reduplikált, mind periphrasztikus perfektrumuk van. Képezze a következő alakokhoz a megfelelő periphrasztikus és reduplikált perfektrumformákat: <!-- TODO: Fallback translation -->

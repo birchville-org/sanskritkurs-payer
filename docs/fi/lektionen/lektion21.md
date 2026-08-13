@@ -250,6 +250,7 @@ Kuva: ⟪भगवान्कृष्णः⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2103))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 **⟪भगवद्गीता⟫ f.:** "sävellys (⟪गीता⟫) ansioituneelle (⟪कृष्ण⟫)"
 :::
@@ -260,6 +261,7 @@ Kuv.: ⟪भगवद्गीता⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2105))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (itse asiassa desideratiivi verbistä ⟪भज्⟫: toivoa, että osallistuu): anoa
 :::

@@ -53,3 +53,4 @@ Opettajien on opetettava oppilaita; oppilaiden on tutkittava opiskelumäärä.
 Kuv.: ⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫
 (Kuv lähde: [Details](/licenses#uebung067))
 ::: <!-- TODO: Fallback translation -->
+:::

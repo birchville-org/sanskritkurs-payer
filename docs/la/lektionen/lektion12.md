@@ -52,6 +52,7 @@ Example:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ### 12.1.3. Schema II pro verbis intransitivis et verbis motus
 
 ::: grammar-box
@@ -146,6 +147,7 @@ Apud formationes *aniṭ* sequentes leges coniunctionis phonematum in verbo obse
 | **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 12.5. Vocabularium
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्बुध्यतेबोधतिबुद्ध⟫ : evigilare, ad cognitionem evigilare, cognoscere; PPP **buddha** 3 evigilatus, ideo **Buddha** = "evigilatus" (non: illuminatus)

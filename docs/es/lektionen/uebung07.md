@@ -219,3 +219,4 @@ sa guruḥ. enaṃ śṛṇvanti.
 Fig.: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung006))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

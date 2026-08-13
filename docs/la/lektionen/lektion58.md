@@ -303,6 +303,7 @@ La formation du thème + les terminaisons de l'aoriste iṣ sont donc :
 
 *   **Radices cum vocali brevi ante consonantem simplicem: Gradus optimus in P et Ā**
     Exemplaria:  
+:::
 ::: indent
 ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
 ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
@@ -330,7 +331,6 @@ Exemplaria:
 ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
 sed:
 ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
-:::
 :::
 Paradigmata:
 
@@ -368,6 +368,7 @@ Paradigmata:
 **Particularia:**
 
 1.  Apud aliquas radices, vocalis iunctiva -i- in ⟪आत्मनेपद⟫ per -ī- substitui potest. Post ⟪ग्रह्⟫ 9U "prehenedere" haec substitutio in P et Ā fieri debet:
+:::
 ::: indent
 ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
 :::
@@ -385,7 +386,6 @@ Paradigmata:
 4.  ⟪विज्⟫ 7P nullum ablautum habet:
 ::: indent
 ⟪अविजीत्⟫
-:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

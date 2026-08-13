@@ -38,6 +38,7 @@ Isten, tedd minden vállalkozásomat
 Akadálymentessé!
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam

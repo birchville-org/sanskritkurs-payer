@@ -157,3 +157,4 @@ Fig.: ⟪वदिता⟫
 (Sursa imaginii: [Detalii](/licenses#uebung073))
 ::::
 ::: <!-- TODO: Fallback translation -->
+:::

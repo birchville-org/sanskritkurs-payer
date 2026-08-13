@@ -180,3 +180,4 @@ Al cuiă mâncare a jertfit acest sfânt vedic?
 Fig.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Sursa imaginii: [Detalii](/licenses#uebung017))
 ::: <!-- TODO: Fallback translation -->
+:::

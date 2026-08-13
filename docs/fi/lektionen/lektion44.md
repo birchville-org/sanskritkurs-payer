@@ -203,6 +203,7 @@ Kuv.: "O":n oikea käyttö saksassa: **"O mies!"**
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4402))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **Vokatiivin monikon ja kaksikon muodot ovat samat kuin nominatiivin (⟪प्रथमा⟫) monikon tai kaksikon.**
 

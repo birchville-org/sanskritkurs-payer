@@ -52,3 +52,5 @@ Abb.: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Bildquelle: [Details](/licenses#uebung092))
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

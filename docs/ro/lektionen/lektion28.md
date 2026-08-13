@@ -349,6 +349,7 @@ Pictură de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 190
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2804))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 **⟪चुर्⟫** 10 **⟪चोरयति⟫**: a fura
 Fut. **corayiṣyati**

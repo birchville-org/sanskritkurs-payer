@@ -74,3 +74,4 @@ El corazón del rey Janaka estaba muy alegre. Luego, hizo venir a Daśaratha y a
 Fig.: ⟪श्रीसीता⟫ ⟪श्रीरामश्च⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung069))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

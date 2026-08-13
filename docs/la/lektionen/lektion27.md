@@ -34,6 +34,7 @@ Iaiapūra, 1875.
 (Fons imaginis: [Details](/la/licenses#lekt2701))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **2. Casus loci, ad quaestionem "Quando?" respondens, tempus vel circumstantias externas designat:**

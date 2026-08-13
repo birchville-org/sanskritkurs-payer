@@ -52,6 +52,7 @@ Ejemplo:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "La mujer kṣatriya ha ido a la ciudad."
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ### 12.1.3. Esquema II para verbos intransitivos y verbos de movimiento
 
 ::: grammar-box

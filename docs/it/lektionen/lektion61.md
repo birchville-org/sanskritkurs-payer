@@ -235,6 +235,7 @@ Paradigma:
 **L'intensivo significa:**
 
 *   **che una persona o cosa fa o subisce ripetutamente ciò che è espresso dalla radice**  
+:::
 ::: indent
 ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "egli fa ripetutamente"
 ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "egli è (diventa) spesso"
@@ -254,7 +255,6 @@ Paradigma:
 ::: indent
 ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "egli taglia male"
 ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "egli si siede male"
-:::
 :::
 ::: media
 ![](/images/lekt6104.webp)

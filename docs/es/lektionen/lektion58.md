@@ -303,6 +303,7 @@ El sufijo de formación de la base + las terminaciones del aoristo iṣ son, por
 
 *   **Raíces con vocal breve antes de consonante simple: grado fuerte en P y Ā**  
     Ejemplos:  
+:::
 ::: indent
 ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
 ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
@@ -330,7 +331,6 @@ El sufijo de formación de la base + las terminaciones del aoristo iṣ son, por
 ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
 pero:
 ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
-:::
 :::
 Paradigmas:
 
@@ -368,6 +368,7 @@ Paradigmas:
 **Particularidades:**
 
 1.  En algunas raíces, la vocal de unión -i- en el Ātmanepadam puede ser reemplazada por -ī-. Después de ⟪ग्रह्⟫ 9U "aprehender", esta sustitución debe ocurrir tanto en P como en Ā:  
+:::
 ::: indent
 ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
 :::
@@ -385,7 +386,6 @@ Paradigmas:
 4.  ⟪विज्⟫ 7P no presenta ablaut:  
 ::: indent
 ⟪अविजीत्⟫
-:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

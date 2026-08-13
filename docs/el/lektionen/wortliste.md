@@ -383,6 +383,7 @@ outline: 2
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Από το αρχείο, επιμ. Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Τόμος 2: Varuna und das Ṛta. -- 1959. -- XXIII σελ., σσ. 340 - 764
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt1003.webp)
 Εικ.: ⟪वरुणः⟫
@@ -1596,6 +1597,7 @@ Hari-hara (αριστερά: Viṣṇu, δεξιά: Śiva). Godrumdwip, Δυτι
 ::: <!-- TODO: Fallback translation -->
 
 
+:::
 ## Μάθημα 28
 
 ::: indent
@@ -3554,6 +3556,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt4802))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt4803.webp)
 Εικ.: ⟪तन्त्री⟫

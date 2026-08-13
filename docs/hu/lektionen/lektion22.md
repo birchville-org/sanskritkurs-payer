@@ -270,3 +270,5 @@ Goa = ⟪गोंय⟫
 **lekt2204:** [Képmegjelenítés forrása: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Hozzáférés: 2008-12-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

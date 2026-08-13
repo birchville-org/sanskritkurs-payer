@@ -303,6 +303,7 @@ Le suffixe de formation de la base + les désinences de l’iṣ-Aorist sont don
 
 *   **Racines avec voyelle brève devant consonne simple : état fort au P et Ā**  
     Exemples :  
+:::
 ::: indent
 ⟪बुध्⟫ 1U : 1.sg.P ⟪अबोधिषम्⟫
 ⟪कॢप्⟫ 1Ā : 1.sg.Ā ⟪अकल्पिषि⟫
@@ -330,7 +331,6 @@ Le suffixe de formation de la base + les désinences de l’iṣ-Aorist sont don
 ⟪तन्⟫ 8U : 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
 mais :
 ⟪क्रम्⟫ 1U : 1.sg.P ⟪अक्रमिषम्⟫
-:::
 :::
 Paradigmes :
 
@@ -368,6 +368,7 @@ Paradigmes :
 **Particularités :**
 
 1.  Pour certaines racines, la voyelle de jonction -i- dans le ⟪आत्मनेपद⟫ peut être remplacée par -ī-. Après ⟪ग्रह्⟫ 9U « saisir », ce remplacement doit avoir lieu au P et Ā :  
+:::
 ::: indent
 ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
 :::
@@ -385,7 +386,6 @@ Paradigmes :
 4.  ⟪विज्⟫ 7P n’a pas d’apophonie :  
 ::: indent
 ⟪अविजीत्⟫
-:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

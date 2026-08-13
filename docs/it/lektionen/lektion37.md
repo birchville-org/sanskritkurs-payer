@@ -34,6 +34,7 @@ L'accusativo può essere usato in senso avverbiale:
 
 *   da sostantivi  
     Esempi:  
+:::
 ::: indent
 ⟪कामम्⟫ "secondo il desiderio"
 ⟪अर्थम्⟫ "a causa di"
@@ -54,7 +55,6 @@ L'accusativo può essere usato in senso avverbiale:
 ⟪यद्⟫ "se, che"
 ⟪एतद्⟫ "così, qui, ora"
 :::
-:::
 ### 37.2.2. Strumentale (⟪तृतीया⟫)
 
 ::: grammar-box
@@ -68,6 +68,7 @@ Lo Strumentale può essere usato in senso avverbiale:
 
 *   da sostantivi  
     Esempi:  
+:::
 ::: indent
 ⟪अर्थेन⟫ "a causa di"
 ⟪क्षणेन⟫ "in questo momento, immediatamente" (da ⟪क्षण⟫ m. "momento")
@@ -78,7 +79,6 @@ Lo Strumentale può essere usato in senso avverbiale:
 ::: indent
 ⟪दूरेण⟫ "lontano, da lontano" (a ⟪दूर⟫ 3 "lontano, distante da")
 ⟪उच्चैस्⟫ "alto, forte" (a ⟪उच्च⟫ 3 "alto, elevato, forte, acuto (di voce)")
-:::
 :::
 ### 37.2.3. Dativoooooo (⟪चतुर्थी⟫)
 
@@ -113,10 +113,10 @@ L'ablativo può essere usato in senso avverbiale:
 
 *   da pronomi  
     Esempi:  
+:::
 ::: indent
 ⟪कस्मात्⟫ "perché"
 ⟪अकस्मात्⟫ "inaspettatamente"
-:::
 :::
 ### 37.2.5. Genitivo (⟪षष्ठी⟫)
 

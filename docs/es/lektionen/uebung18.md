@@ -146,3 +146,4 @@ El deber de todos es: no violencia, veracidad, pureza, no murmurar sobre su dest
 Fig.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung028))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

@@ -294,6 +294,7 @@ Esimerkkejä:
 
 Esimerkkejä:
 
+:::
 ::: indent
 100 ⟪शत⟫ n.
 1000 ⟪सहस्र⟫ n.
@@ -369,6 +370,7 @@ Kuv.: ⟪चतुर्मुखः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5205))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **⟪तत्पुरुष⟫ perusluvun kanssa etuliitteenä ei voi muodostaa vapaasti:**
 
@@ -382,6 +384,7 @@ Seitsemän tähden ryhmä = Isomman karhun (Ursa maior) kirkkaimmat seitsemän t
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5206))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **Sääntö 2: Poiketen säännöstä 1 sana, joka tarkoittaa ilmansuuntaa tai peruslukua, voi muodostaa muiden substantiivien kanssa Tatpuruṣa-yhdyssanan, jos** <!-- TODO: Fallback translation -->
 
@@ -695,6 +698,7 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, n. 1810
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5216))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
 ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
@@ -778,6 +782,7 @@ Kuv.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt5201))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Kuv lähde: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Pääsy 2009-01-15. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->

@@ -257,6 +257,7 @@ siitä:
 ⟪आसन⟫ n.: istuminen, istuin ; myös: joogin istuma-asennot
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt1701.webp)
 Kuva: ⟪योगासनम्⟫

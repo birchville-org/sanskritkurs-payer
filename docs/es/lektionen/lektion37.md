@@ -34,6 +34,7 @@ El acusativo puede emplearse de manera adverbial:
 
 *   con sustantivos  
     Ejemplos:  
+:::
 ::: indent
 ⟪कामम्⟫ "según el deseo, a voluntad"
 ⟪अर्थम्⟫ "por causa de, por"
@@ -54,7 +55,6 @@ El acusativo puede emplearse de manera adverbial:
 ⟪यद्⟫ "si, que"
 ⟪एतद्⟫ "así, aquí, ahora"
 :::
-:::
 ### 37.2.2. Instrumental (⟪तृतीया⟫)
 
 ::: grammar-box
@@ -68,6 +68,7 @@ El instrumental puede emplearse adverbialmente:
 
 *   con sustantivos  
     Ejemplos:  
+:::
 ::: indent
 ⟪अर्थेन⟫ "a causa de"
 ⟪क्षणेन⟫ "en el instante, inmediatamente" (de ⟪क्षण⟫ m. "instante")
@@ -78,7 +79,6 @@ El instrumental puede emplearse adverbialmente:
 ::: indent
 ⟪दूरेन⟫ "lejos, desde la lejanía" (de ⟪दूर⟫ 3 "lejos, distante")
 ⟪उच्चैस्⟫ "alto, en voz alta" (de ⟪उच्च⟫ 3 "alto, elevado, fuerte, agudo (respecto a la voz)")
-:::
 :::
 ### 37.2.3. Dativoooooo (⟪चतुर्थी⟫)
 
@@ -113,10 +113,10 @@ El ablativo puede emplearse adverbialmente:
 
 *   con pronombres  
     Ejemplos:  
+:::
 ::: indent
 ⟪कस्मात्⟫ "por qué"
 ⟪अकस्मात्⟫ "inesperadamente"
-:::
 :::
 ### 37.2.5. Genitivo (⟪षष्ठी⟫)
 

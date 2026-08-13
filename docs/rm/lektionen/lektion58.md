@@ -303,6 +303,7 @@ La furmaziun dal stemma + las desinenzas dal aorist d'iṣ èn donc:
 
 *   **Radixas cun vocal curtta avant consonanta simpla: nivel aut en P e Ā**  
     Exemples:  
+:::
 ::: indent
 ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
 ⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
@@ -330,7 +331,6 @@ Ezempels:
 ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
 ma:
 ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
-:::
 :::
 Paradigmas:
 
@@ -368,6 +368,7 @@ Paradigmas:
 **Particularitads:**
 
 1.  En qualchiduna radis poa esser il vocal da agglutinaziun -i- en ⟪आत्मनेपद⟫ sustitui da -ī-. Suenter ⟪ग्रह्⟫ 9U "agrapar" sto questa sustituziun vegnir fatga en il P e Ā:  
+:::
 ::: indent
 ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
 :::
@@ -385,7 +386,6 @@ Paradigmas:
 4.  ⟪विज्⟫ 7P ha nagin in Ablaut:  
 ::: indent
 ⟪अविजीत्⟫
-:::
 :::
 ::: media
 ![](/images/lekt5808.webp)

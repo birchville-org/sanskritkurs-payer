@@ -259,6 +259,7 @@ Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt2204))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt2201:** Goa = ⟪गोंय⟫ [Fonte da imagem: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Acedido em 2008-12-12. -- Licença Creative Commons (Atribuição, uso não comercial, sem obras derivadas)]

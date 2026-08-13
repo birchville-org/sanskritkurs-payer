@@ -75,6 +75,7 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 *   ha egy Karmadhāraya hasonlóságot fejez ki, akkor az összehasonlítási alany a szóösszetétel hátsó tagjában áll:
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "egy ember, mint egy oroszlán"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "egy ember, mint egy tigris"
@@ -88,7 +89,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 
 Az ilyen appozíciós Karmadhāraya összetételeket a helyi kommentárokban, mint a fenti példában is, ⟪एव⟫ segítségével oldják fel.
 
-:::
 ::: media
 ![](/images/lekt1503.webp)
 Ábra: ⟪नरसिंहः⟫

@@ -115,6 +115,7 @@ Kuva: ⟪गोमयं⟫ ⟪चिकाय⟫
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : astua, kävellä, poistua
 
+:::
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
 Fut. ⟪व्रजिष्यति⟫  
@@ -243,6 +244,7 @@ Kuva: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: adj. (minun, sinun ...) ; m.: jäsen <!-- TODO: Fallback translation -->
 
+:::
 ## 36.5. Harjoitus
 
 A) Seuraavat juuret muodostavat sekä punnittu että perifraattinen perfekti. Muodosta seuraavista muodoista vastaavat perifraattiset ja punnitetut perfektimuodot: <!-- TODO: Fallback translation -->

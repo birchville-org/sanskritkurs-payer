@@ -18,6 +18,7 @@ status: stable
 - A hangtalan jelen idő osztályok (az 5. osztály példáján)
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: center
 **Heti idézet**
 :::

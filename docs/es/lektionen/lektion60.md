@@ -201,6 +201,7 @@ Ver paradigmas en Kielhorn, Gramática § 124:
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6001))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: media
 ![](/images/lekt6002.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6002))
@@ -239,6 +240,7 @@ Ejemplo: ⟪प्रतीची⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6003))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: media
 ![](/images/lekt6004.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6004))
@@ -359,6 +361,7 @@ Véanse las reglas para el uso de la vocal de unión -i- en Kielhorn, Gramática
 **Sobre la reduplicación:**
 
 1.  Raíces que empiezan por consonante: La reduplicación se aplica a las raíces modificadas según las reglas anteriores, siguiendo las reglas habituales. En lugar de a como vocal de reduplicación aparece i:  
+:::
 ::: indent
 ⟪पा⟫ » ⟪पिपास⟫-
 ⟪त्यज्⟫ » ⟪तित्यज⟫-
@@ -375,7 +378,6 @@ No se produce la cerebralización de i/u tras la -s final de la raíz, si se cer
 :::
 
 3.  Véase en Kielhorn, Gramática § 451 la formación especial del desiderativo de ciertas raíces.
-:::
 ::: grammar-box
 **Se forman desiderativos para ciertas raíces sin significado desiderativo. Para estos desiderativos se pueden formar desiderativos con significado desiderativo.**
 :::
@@ -426,11 +428,13 @@ A) Estudie en Kielhorn, Gramática § 451 las formaciones irregulares del deside
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6007))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: media
 ![](/images/lekt6008.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6008))
 ::: &lt;!-- TODO: Fallback translation --&gt;
 
+:::
 ::: media
 ![](/images/lekt6009.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6009))

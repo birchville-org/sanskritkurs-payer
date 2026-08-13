@@ -194,6 +194,7 @@ Grado alto:
 
 *   Radici con vocale breve (tranne a) prima di consonante semplice nonché ⟪जन्⟫ e la maggior parte delle radici in -am  
     Esempi:  
+:::
 ::: indent
 ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "egli fu spezzato"
 ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "egli fu spinto"
@@ -240,7 +241,6 @@ Infix nasale:
 :::
 
 (Le altre forme del Passivo nell'aoristo sono espresse da forme di Ātmanepada).
-:::
 ## 54.7. Esercizio
 
 Tradurre per iscritto le seguenti forme e formare le corrispondenti forme dell’aoristo:

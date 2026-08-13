@@ -141,6 +141,7 @@ Praeterea sunt pro ⟨JAG⟩ formae regulares gradu basso:
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (in P ⟨JAG⟩ habet aoristum thematicum)**
 
 2.  ⟪पद्⟫ 4Ā est regularis (e.g. ⟪अपत्सि⟫), in 3.sg.Ā habet tamen formam aoristi radicalis passivi:
+:::
 ::: indent
 ⟪अपादि⟫ "ibat"
 :::
@@ -148,7 +149,6 @@ Praeterea sunt pro ⟨JAG⟩ formae regulares gradu basso:
 3.  ⟪बुध्⟫ Ā potest in 3.sg.Ī formam aoristi radicalis passivi assumere:
 ::: indent
 ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "agnovit"
-:::
 :::
 ## 57.2. Exercitatio
 

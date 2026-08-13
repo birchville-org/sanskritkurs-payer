@@ -34,6 +34,7 @@ Jaipur, 1875.
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt2701))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **2. Il locatiu inditza, en resposta a la question "Cun when?", il moment u las circumstanzas externass:**
@@ -64,6 +65,7 @@ Rajasthan.
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt2702))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **3. Il locativ stat era sin la dumonda "En relaziun cun quai?" u.a.:**
@@ -78,6 +80,7 @@ Holi.
 (Fontana da l'imagia: [Detagls](/rm/licenses#lekt2703))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **4. Il locativ servexa en ils lexichs nativs ed apud ils commentaders per inditgar il signific d’ina paraula:**
@@ -589,6 +592,7 @@ Tsunami 2005, Sri Lanka.
 (Sursa da l’imagina: [Detagls](/rm/licenses#lekt2717))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt2701:** Giura, 1875. [Sursa d’imagia: Wikipedia. Dominio public]

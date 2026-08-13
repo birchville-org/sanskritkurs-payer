@@ -323,3 +323,4 @@ Caruțarul conduce carul.
 Fig.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung012))
 ::: <!-- TODO: Fallback translation -->
+:::

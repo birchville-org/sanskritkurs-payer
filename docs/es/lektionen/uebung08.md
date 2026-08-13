@@ -207,3 +207,4 @@ El niño escribe una carta.
 Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung008))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

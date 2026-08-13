@@ -369,6 +369,7 @@ Kép: ⟪चतुर्मुखः⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt5205))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 **⟪तत्पुरुष⟫ alapértékkel az első tagban nem szabad tetszőlegesen képezni:** <!-- TODO: Fallback translation -->
 
@@ -695,6 +696,7 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, kb. 1810
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5216))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
 ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫

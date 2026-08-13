@@ -183,3 +183,4 @@ Käännä seuraavat verbilausekkeet ja anna niihin liittyvä vartalo: <!-- TODO:
 Kuv.: ⟪शृणोति⟫
 (Kuv lähde: [Details](/licenses#uebung026))
 ::: <!-- TODO: Fallback translation -->
+:::

@@ -64,6 +64,7 @@ Rádzsasztán.
 (Képmegjelölés: [Részletek](/hu/licenses#lekt2702))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **3. A lokativus a „Miben?” vagy hasonló kérdésekre is áll:**
@@ -78,6 +79,7 @@ Holi.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2703))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: grammar-box
 
 **4. A lokativus a helyi szótárakban és a kommentátoroknál egy szó jelentésének megadására szolgál:**
@@ -254,6 +256,7 @@ Harihara (balra: Viṣṇu, jobbra: Śiva).
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2704))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt2705.webp)
 Ábra: ⟪हरिहरः⟫

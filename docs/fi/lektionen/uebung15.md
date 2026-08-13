@@ -149,3 +149,4 @@ Ratkaise seuraavat yhdyssanat Sanskritiksi Tatpuruṣa-tyyppisinä ja anna saksa
 Kuv.: ⟪गृहकरणम्⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung016))
 ::: <!-- TODO: Fallback translation -->
+:::

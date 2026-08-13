@@ -161,3 +161,5 @@ Abb.: ⟪वदिता⟫
 (Bildquelle: [Details](/licenses#uebung073))
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

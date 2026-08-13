@@ -369,6 +369,7 @@ Fig.: ⟪शर्करा⟫
 (Font image: [Details](/grc/licenses#lekt4309))
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: deleteme-box
 
 **lekt4302.jpg**: Ῥίτα Ουίλαερτ. -- http://www.flickr.com/photos/rietje/324020365/. -- Πρόσβασις ἐν 2009-01-06. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις)

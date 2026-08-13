@@ -327,3 +327,4 @@ Vahtimestari ohjaa vaunua.
 Kuv.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Kuv lähde: [Details](/licenses#uebung012))
 ::: <!-- TODO: Fallback translation -->
+:::

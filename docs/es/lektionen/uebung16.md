@@ -262,3 +262,4 @@ El palo provoca la adquisición y la posesión segura de filosofía, vedística 
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung024))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

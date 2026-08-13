@@ -71,3 +71,4 @@ Si los maestros enseñan, los niños bien educados no deben charlar (hablar).
 Fig.: ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung044))
 ::: &lt;!-- TODO: Fallback translation --&gt;
+:::

@@ -2894,6 +2894,7 @@ da quai:
 ⟪अशोक⟫ 3: liber da dolientscha; plantà Ashoka = _Saraca asoca_ (Roxb.) Wilde; num da l'imperatur Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 a.C.)
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ::: media
 ![](/images/lekt3810.webp)
 Abb.: ⟪अशोकवृक्षः⟫

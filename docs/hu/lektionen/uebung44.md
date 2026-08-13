@@ -161,3 +161,5 @@ Kép: ⟪वदिता⟫
 (Képmegjelölés: [Részletek](/licenses#uebung073))
 ::: <!-- TODO: Fallback translation -->
 
+
+:::

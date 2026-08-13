@@ -97,3 +97,4 @@ Pune - ⟪पुणे⟫
 Εικ.: ⟪श्वा⟫ ⟪श्वानमघ्रात्⟫
 (Πηγή εικόνας: [Details](/licenses#uebung096))
 ::: <!-- TODO: Fallback translation -->
+:::

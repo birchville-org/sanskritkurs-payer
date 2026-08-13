@@ -17,6 +17,7 @@ last_reconstructed: 2026-05-07
 - Lainauksia klassisista lakiteksteistä (Dharmaśāstras)
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "yhteenvetodvandva")
 
 ::: grammar-box
@@ -47,6 +48,7 @@ Tämän Dvandva-sanan muodostamista koskevan perussäännön lisäksi on olemass
 **rūpa n. "muoto" » rūpaka 3 ⟪रूपक⟩ "jonkin muodon omaava"**
 ::: <!-- TODO: Fallback translation -->
 
+:::
 ### 9.2.2. -aka (kṛt), fem. usein -ikā <!-- TODO: Fallback translation -->
 
 ::: grammar-box

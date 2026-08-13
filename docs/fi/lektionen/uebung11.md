@@ -237,3 +237,4 @@ E) Muuta lauseet C)1-5 aktiivilauseiksi. <!-- TODO: Fallback translation -->
 Kuva: ⟪फलान्यश्नुते⟫
 (Kuv lähde: [Details](/licenses#uebung021))
 ::: <!-- TODO: Fallback translation -->
+:::
