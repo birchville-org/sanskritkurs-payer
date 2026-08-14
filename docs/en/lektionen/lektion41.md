@@ -345,7 +345,7 @@ Fig.: ⟪शासना⟫
 :::
 
 ::: indent
-⟪शास्त्र⟫ n.: teaching, textbook
+⟪शास्त्र⟫ n.: teaching, treatise
 
 ⟪शास्त्रिन्⟫ m.: learned, scholar
 :::
@@ -365,7 +365,7 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 see also:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Canon Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
 

@@ -757,3 +757,428 @@ Automatically generated. Do not edit manually.
 | 2026-08-13 09:28 | en | lektion24.md | DE_RESIDUE_UNRESOLVED | 15,42,105,223,225 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
 | 2026-08-13 09:32 | en | lektion25.md | DE_RESIDUE_UNRESOLVED | 12,15,17,22,30 (+12 more) | 17 German residue(s) remained after auto-heal pass. |
 | 2026-08-13 09:33 | en | lektion26.md | DE_RESIDUE_UNRESOLVED | 110 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 09:51 | en | lektion27.md | DE_RESIDUE_UNRESOLVED | 55,147,151,169,173 (+32 more) | 37 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 09:56 | en | lektion28.md | DE_RESIDUE_UNRESOLVED | 27,86,139,142,144 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 09:57 | en | lektion31.md | DE_RESIDUE_UNRESOLVED | 61 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:00 | en | lektion32.md | DE_RESIDUE_UNRESOLVED | 86,483 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:01 | en | lektion33.md | DE_RESIDUE_UNRESOLVED | 198,206,209 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:02 | en | lektion36.md | DE_RESIDUE_UNRESOLVED | 78,81 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:04 | en | lektion37.md | DE_RESIDUE_UNRESOLVED | 86,89,96,147,160 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:08 | en | lektion38.md | DE_RESIDUE_UNRESOLVED | 49,211,571 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:11 | en | lektion39.md | DE_RESIDUE_UNRESOLVED | 93,279 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:14 | en | lektion40.md | DE_RESIDUE_UNRESOLVED | 374,502,505 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:19 | en | lektion41.md | DE_RESIDUE_UNRESOLVED | 32,34,39,47,70 (+4 more) | 9 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:20 | en | lektion43.md | DE_RESIDUE_UNRESOLVED | 82 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:23 | en | lektion44.md | DE_RESIDUE_UNRESOLVED | 184,205 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:25 | en | lektion45.md | DE_RESIDUE_UNRESOLVED | 91,93 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:29 | en | lektion47.md | DE_RESIDUE_UNRESOLVED | 52,138,182 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:36 | en | lektion50.md | DE_RESIDUE_UNRESOLVED | 36,162,166 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:38 | en | lektion52.md | DE_RESIDUE_UNRESOLVED | 463,467 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:41 | en | lektion53.md | DE_RESIDUE_UNRESOLVED | 300 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:44 | en | lektion54.md | DE_RESIDUE_UNRESOLVED | 178,180,231 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:49 | en | lektion57.md | DE_RESIDUE_UNRESOLVED | 143,146 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:52 | en | lektion58.md | DE_RESIDUE_UNRESOLVED | 99,360 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:53 | en | lektion59.md | DE_RESIDUE_UNRESOLVED | 151 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:55 | en | lektion60.md | DE_RESIDUE_UNRESOLVED | 289,397 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:58 | en | lektion61.md | DE_RESIDUE_UNRESOLVED | 39,272,311,312 | 4 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 10:59 | en | uebung08.md | DE_RESIDUE_UNRESOLVED | 69 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:02 | en | uebung10.md | DE_RESIDUE_UNRESOLVED | 11,21,38,174,180 (+4 more) | 9 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:03 | en | uebung11.md | DE_RESIDUE_UNRESOLVED | 49,59,74 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:04 | en | uebung12.md | DE_RESIDUE_UNRESOLVED | 11,28,43 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:05 | en | uebung13.md | DE_RESIDUE_UNRESOLVED | 37,88 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:06 | en | uebung19.md | DE_RESIDUE_UNRESOLVED | 25 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:06 | en | uebung22.md | DE_RESIDUE_UNRESOLVED | 97,99 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:09 | en | uebung23.md | DE_RESIDUE_UNRESOLVED | 11,51,133,166,174 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:11 | en | uebung24.md | DE_RESIDUE_UNRESOLVED | 11,91 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:13 | en | uebung25.md | DE_RESIDUE_UNRESOLVED | 11 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:16 | en | uebung39.md | DE_RESIDUE_UNRESOLVED | 11 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:17 | en | uebung47.md | DE_RESIDUE_UNRESOLVED | 68 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:18 | en | uebung59.md | DE_RESIDUE_UNRESOLVED | 108,185 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:42 | en | inhaltsverzeichnis.md | DE_RESIDUE_UNRESOLVED | 15,16,24,25,26 (+25 more) | 30 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 11:47 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 12:19 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 12:52 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 12:53 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 12:57 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:16 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:19 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:21 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:21 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:22 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:26 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:29 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:31 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:31 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:32 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:36 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:39 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:41 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:41 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:42 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:46 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:49 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:51 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:51 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:52 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:56 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 13:59 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:01 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:01 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:02 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:06 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:10 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:11 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:11 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:12 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:16 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:20 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:21 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:21 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:22 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:27 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:30 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:31 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:31 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:32 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:37 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:40 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:41 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:41 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:42 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:47 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:50 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:51 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:51 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:52 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 14:57 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:00 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:01 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:01 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:02 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:07 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:23 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:26 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:27 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:27 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:28 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:33 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:37 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:38 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:38 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:39 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:44 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:47 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:49 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:49 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:50 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:55 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+55 more) | 60 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 15:59 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:00 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:00 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:01 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:06 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+55 more) | 60 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:10 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:11 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:11 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:12 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:18 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+55 more) | 60 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:21 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:23 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:23 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:24 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:29 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+55 more) | 60 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:32 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:34 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:34 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:35 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:40 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:43 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:45 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:45 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:46 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:51 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:54 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:56 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:56 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 16:57 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:02 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:05 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:07 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:07 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:08 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:13 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:16 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:17 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:18 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:18 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:24 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:27 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:28 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:28 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:29 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:34 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:38 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:39 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:39 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:40 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:45 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:48 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:50 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:50 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:51 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:56 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 17:59 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:01 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:01 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:01 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:07 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:10 | ru | lektion27.md | DE_RESIDUE_UNRESOLVED | 169,170,171,173,174 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:11 | ru | lektion49.md | DE_RESIDUE_UNRESOLVED | 243,254,261 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:11 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:12 | ru | uebung59.md | DE_RESIDUE_UNRESOLVED | 108 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:17 | ru | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+54 more) | 59 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:17 | ru | uebung13.md | DE_RESIDUE_UNRESOLVED | 90 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:22 | en | grammatik.md | DE_RESIDUE_UNRESOLVED | 68,80,81,82,83 (+13 more) | 18 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:28 | en | lektion02.md | DE_RESIDUE_UNRESOLVED | 26,45,53,55,58 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:44 | en | lektion13.md | DE_RESIDUE_UNRESOLVED | 98,99,133,134,147 (+3 more) | 8 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:46 | en | lektion14.md | DE_RESIDUE_UNRESOLVED | 35,128,130 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:48 | en | lektion15.md | DE_RESIDUE_UNRESOLVED | 25,26,201,205 | 4 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:52 | en | lektion17.md | DE_RESIDUE_UNRESOLVED | 272 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:53 | en | lektion18.md | DE_RESIDUE_UNRESOLVED | 92 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:55 | en | lektion19.md | DE_RESIDUE_UNRESOLVED | 64,68,189 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 18:57 | en | lektion20.md | DE_RESIDUE_UNRESOLVED | 33,154,466 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:01 | en | lektion21.md | DE_RESIDUE_UNRESOLVED | 49,53,99,103,153 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:04 | en | lektion22.md | DE_RESIDUE_UNRESOLVED | 20,28,34,165,236 | 5 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:09 | en | lektion23.md | DE_RESIDUE_UNRESOLVED | 12,15,19,21,23 (+17 more) | 22 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:13 | en | lektion24.md | DE_RESIDUE_UNRESOLVED | 15,42,105,223,225 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:17 | en | lektion25.md | DE_RESIDUE_UNRESOLVED | 12,15,17,22,30 (+12 more) | 17 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:18 | en | lektion26.md | DE_RESIDUE_UNRESOLVED | 110 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:35 | en | lektion27.md | DE_RESIDUE_UNRESOLVED | 147,151,169,173,278 (+31 more) | 36 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:40 | en | lektion28.md | DE_RESIDUE_UNRESOLVED | 27,86,139,142,144 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:41 | en | lektion31.md | DE_RESIDUE_UNRESOLVED | 61 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:43 | en | lektion32.md | DE_RESIDUE_UNRESOLVED | 86,483 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:44 | en | lektion33.md | DE_RESIDUE_UNRESOLVED | 198,206,209 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:45 | en | lektion36.md | DE_RESIDUE_UNRESOLVED | 78,81 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:48 | en | lektion37.md | DE_RESIDUE_UNRESOLVED | 86,89,96,147,160 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:51 | en | lektion38.md | DE_RESIDUE_UNRESOLVED | 49,211,571 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:54 | en | lektion39.md | DE_RESIDUE_UNRESOLVED | 93,279 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 19:57 | en | lektion40.md | DE_RESIDUE_UNRESOLVED | 374,502,505 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:00 | en | lektion41.md | DE_RESIDUE_UNRESOLVED | 32,34,39,47,70 (+4 more) | 9 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:02 | en | lektion43.md | DE_RESIDUE_UNRESOLVED | 82 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:03 | en | lektion44.md | DE_RESIDUE_UNRESOLVED | 184,205 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:04 | en | lektion45.md | DE_RESIDUE_UNRESOLVED | 91,93 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:07 | en | lektion47.md | DE_RESIDUE_UNRESOLVED | 52,138,182 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:09 | en | lektion50.md | DE_RESIDUE_UNRESOLVED | 36,162,166 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:10 | en | lektion52.md | DE_RESIDUE_UNRESOLVED | 463,467 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:12 | en | lektion53.md | DE_RESIDUE_UNRESOLVED | 300 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:14 | en | lektion54.md | DE_RESIDUE_UNRESOLVED | 178,180,231 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:16 | en | lektion57.md | DE_RESIDUE_UNRESOLVED | 143,146 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:19 | en | lektion58.md | DE_RESIDUE_UNRESOLVED | 99,360 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:21 | en | lektion59.md | DE_RESIDUE_UNRESOLVED | 151 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:22 | en | lektion60.md | DE_RESIDUE_UNRESOLVED | 289,397 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:25 | en | lektion61.md | DE_RESIDUE_UNRESOLVED | 39,272,311,312 | 4 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:26 | en | uebung08.md | DE_RESIDUE_UNRESOLVED | 69 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:28 | en | uebung10.md | DE_RESIDUE_UNRESOLVED | 11,21,38,174,180 (+4 more) | 9 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:30 | en | uebung11.md | DE_RESIDUE_UNRESOLVED | 49,59,74 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:31 | en | uebung12.md | DE_RESIDUE_UNRESOLVED | 11,28,43 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:32 | en | uebung13.md | DE_RESIDUE_UNRESOLVED | 37,88 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:32 | en | uebung19.md | DE_RESIDUE_UNRESOLVED | 25 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:32 | en | uebung22.md | DE_RESIDUE_UNRESOLVED | 97,99 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:36 | en | uebung23.md | DE_RESIDUE_UNRESOLVED | 11,51,133,166,174 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:38 | en | uebung24.md | DE_RESIDUE_UNRESOLVED | 11,91 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:40 | en | uebung25.md | DE_RESIDUE_UNRESOLVED | 11 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:44 | en | uebung39.md | DE_RESIDUE_UNRESOLVED | 11 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:44 | en | uebung47.md | DE_RESIDUE_UNRESOLVED | 68 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:46 | en | uebung59.md | DE_RESIDUE_UNRESOLVED | 108,185 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 20:57 | en | inhaltsverzeichnis.md | DE_RESIDUE_UNRESOLVED | 15,16,24,25,26 (+25 more) | 30 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:02 | en | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+55 more) | 60 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:03 | en | lektion02.md | DE_RESIDUE_UNRESOLVED | 26,45,53,55,58 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:18 | en | lektion13.md | DE_RESIDUE_UNRESOLVED | 98,99,133,134,147 (+3 more) | 8 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:20 | en | lektion14.md | DE_RESIDUE_UNRESOLVED | 35,128,130 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:22 | en | lektion15.md | DE_RESIDUE_UNRESOLVED | 25,26,201,205 | 4 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:27 | en | lektion17.md | DE_RESIDUE_UNRESOLVED | 272 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:28 | en | lektion18.md | DE_RESIDUE_UNRESOLVED | 92 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:30 | en | lektion19.md | DE_RESIDUE_UNRESOLVED | 64,68,189 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:32 | en | lektion20.md | DE_RESIDUE_UNRESOLVED | 33,154,466 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:37 | en | lektion21.md | DE_RESIDUE_UNRESOLVED | 49,53,99,103,153 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:39 | en | lektion22.md | DE_RESIDUE_UNRESOLVED | 20,28,34,165,236 | 5 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:45 | en | lektion23.md | DE_RESIDUE_UNRESOLVED | 12,15,19,21,23 (+17 more) | 22 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:49 | en | lektion24.md | DE_RESIDUE_UNRESOLVED | 15,42,105,223,225 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:53 | en | lektion25.md | DE_RESIDUE_UNRESOLVED | 12,15,17,22,30 (+12 more) | 17 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 21:54 | en | lektion26.md | DE_RESIDUE_UNRESOLVED | 110 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:13 | en | lektion27.md | DE_RESIDUE_UNRESOLVED | 147,151,169,173,278 (+31 more) | 36 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:17 | en | lektion28.md | DE_RESIDUE_UNRESOLVED | 27,86,139,142,144 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:18 | en | lektion31.md | DE_RESIDUE_UNRESOLVED | 61 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:21 | en | lektion32.md | DE_RESIDUE_UNRESOLVED | 86,483 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:22 | en | lektion33.md | DE_RESIDUE_UNRESOLVED | 198,206,209 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:23 | en | lektion36.md | DE_RESIDUE_UNRESOLVED | 78,81 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:26 | en | lektion37.md | DE_RESIDUE_UNRESOLVED | 86,89,96,147,160 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:30 | en | lektion38.md | DE_RESIDUE_UNRESOLVED | 49,211,571 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:32 | en | lektion39.md | DE_RESIDUE_UNRESOLVED | 93,279 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:36 | en | lektion40.md | DE_RESIDUE_UNRESOLVED | 374,502,505 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:39 | en | lektion41.md | DE_RESIDUE_UNRESOLVED | 32,34,39,47,70 (+4 more) | 9 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:40 | en | lektion43.md | DE_RESIDUE_UNRESOLVED | 82 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:41 | en | lektion44.md | DE_RESIDUE_UNRESOLVED | 184,205 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:42 | en | lektion45.md | DE_RESIDUE_UNRESOLVED | 91,93 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:45 | en | lektion47.md | DE_RESIDUE_UNRESOLVED | 52,138,182 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:48 | en | lektion50.md | DE_RESIDUE_UNRESOLVED | 36,162,166 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:49 | en | lektion52.md | DE_RESIDUE_UNRESOLVED | 463,467 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:50 | en | lektion53.md | DE_RESIDUE_UNRESOLVED | 300 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:53 | en | lektion54.md | DE_RESIDUE_UNRESOLVED | 178,180,231 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:55 | en | lektion57.md | DE_RESIDUE_UNRESOLVED | 143,146 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:58 | en | lektion58.md | DE_RESIDUE_UNRESOLVED | 99,360 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 22:59 | en | lektion59.md | DE_RESIDUE_UNRESOLVED | 151 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:01 | en | lektion60.md | DE_RESIDUE_UNRESOLVED | 289,397 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:03 | en | lektion61.md | DE_RESIDUE_UNRESOLVED | 39,272,311,312 | 4 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:04 | en | uebung08.md | DE_RESIDUE_UNRESOLVED | 69 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:07 | en | uebung10.md | DE_RESIDUE_UNRESOLVED | 11,21,38,174,180 (+4 more) | 9 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:08 | en | uebung11.md | DE_RESIDUE_UNRESOLVED | 49,59,74 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:10 | en | uebung12.md | DE_RESIDUE_UNRESOLVED | 11,28,43 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:10 | en | uebung13.md | DE_RESIDUE_UNRESOLVED | 37,88 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:11 | en | uebung19.md | DE_RESIDUE_UNRESOLVED | 25 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:11 | en | uebung22.md | DE_RESIDUE_UNRESOLVED | 97,99 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:15 | en | uebung23.md | DE_RESIDUE_UNRESOLVED | 11,51,133,166,174 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:17 | en | uebung24.md | DE_RESIDUE_UNRESOLVED | 11,91 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:19 | en | uebung25.md | DE_RESIDUE_UNRESOLVED | 11 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:23 | en | uebung39.md | DE_RESIDUE_UNRESOLVED | 11 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:23 | en | uebung47.md | DE_RESIDUE_UNRESOLVED | 68 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:24 | en | uebung59.md | DE_RESIDUE_UNRESOLVED | 108,185 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:36 | en | inhaltsverzeichnis.md | DE_RESIDUE_UNRESOLVED | 15,16,24,25,26 (+25 more) | 30 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:41 | en | grammatik.md | DE_RESIDUE_UNRESOLVED | 12,14,15,17,18 (+55 more) | 60 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:43 | en | lektion02.md | DE_RESIDUE_UNRESOLVED | 26,45,53,55,58 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-13 23:57 | en | lektion13.md | DE_RESIDUE_UNRESOLVED | 98,99,133,134,147 (+3 more) | 8 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:00 | en | lektion14.md | DE_RESIDUE_UNRESOLVED | 35,128,130 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:01 | en | lektion15.md | DE_RESIDUE_UNRESOLVED | 25,26,201,205 | 4 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:06 | en | lektion17.md | DE_RESIDUE_UNRESOLVED | 272 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:07 | en | lektion18.md | DE_RESIDUE_UNRESOLVED | 92 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:09 | en | lektion19.md | DE_RESIDUE_UNRESOLVED | 64,68,189 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:11 | en | lektion20.md | DE_RESIDUE_UNRESOLVED | 33,154,466 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:16 | en | lektion21.md | DE_RESIDUE_UNRESOLVED | 49,53,99,103,153 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:18 | en | lektion22.md | DE_RESIDUE_UNRESOLVED | 20,28,34,165,236 | 5 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:24 | en | lektion23.md | DE_RESIDUE_UNRESOLVED | 12,15,19,21,23 (+17 more) | 22 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:28 | en | lektion24.md | DE_RESIDUE_UNRESOLVED | 15,42,105,223,225 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:32 | en | lektion25.md | DE_RESIDUE_UNRESOLVED | 12,15,17,22,30 (+12 more) | 17 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:33 | en | lektion26.md | DE_RESIDUE_UNRESOLVED | 110 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:50 | en | lektion27.md | DE_RESIDUE_UNRESOLVED | 147,151,169,173,278 (+31 more) | 36 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:54 | en | lektion28.md | DE_RESIDUE_UNRESOLVED | 27,86,139,142,144 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:55 | en | lektion31.md | DE_RESIDUE_UNRESOLVED | 61 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:57 | en | lektion32.md | DE_RESIDUE_UNRESOLVED | 86,483 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:58 | en | lektion33.md | DE_RESIDUE_UNRESOLVED | 198,206,209 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 00:59 | en | lektion36.md | DE_RESIDUE_UNRESOLVED | 78,81 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:01 | en | lektion37.md | DE_RESIDUE_UNRESOLVED | 86,89,96,147,160 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:05 | en | lektion38.md | DE_RESIDUE_UNRESOLVED | 49,211,571 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:07 | en | lektion39.md | DE_RESIDUE_UNRESOLVED | 93,279 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:10 | en | lektion40.md | DE_RESIDUE_UNRESOLVED | 374,502,505 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:14 | en | lektion41.md | DE_RESIDUE_UNRESOLVED | 32,34,39,47,70 (+4 more) | 9 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:15 | en | lektion43.md | DE_RESIDUE_UNRESOLVED | 82 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:16 | en | lektion44.md | DE_RESIDUE_UNRESOLVED | 184,205 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:17 | en | lektion45.md | DE_RESIDUE_UNRESOLVED | 91,93 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:19 | en | lektion47.md | DE_RESIDUE_UNRESOLVED | 52,138,182 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:22 | en | lektion50.md | DE_RESIDUE_UNRESOLVED | 36,162,166 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:23 | en | lektion52.md | DE_RESIDUE_UNRESOLVED | 463,467 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:25 | en | lektion53.md | DE_RESIDUE_UNRESOLVED | 300 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:27 | en | lektion54.md | DE_RESIDUE_UNRESOLVED | 178,180,231 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:29 | en | lektion57.md | DE_RESIDUE_UNRESOLVED | 143,146 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:32 | en | lektion58.md | DE_RESIDUE_UNRESOLVED | 99,360 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:33 | en | lektion59.md | DE_RESIDUE_UNRESOLVED | 151 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:35 | en | lektion60.md | DE_RESIDUE_UNRESOLVED | 289,397 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:37 | en | lektion61.md | DE_RESIDUE_UNRESOLVED | 39,272,311,312 | 4 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:37 | en | uebung08.md | DE_RESIDUE_UNRESOLVED | 69 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:40 | en | uebung10.md | DE_RESIDUE_UNRESOLVED | 11,21,38,174,180 (+4 more) | 9 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:41 | en | uebung11.md | DE_RESIDUE_UNRESOLVED | 49,59,74 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:43 | en | uebung12.md | DE_RESIDUE_UNRESOLVED | 11,28,43 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:44 | en | uebung13.md | DE_RESIDUE_UNRESOLVED | 37,88 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:44 | en | uebung19.md | DE_RESIDUE_UNRESOLVED | 25 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:44 | en | uebung22.md | DE_RESIDUE_UNRESOLVED | 97,99 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:48 | en | uebung23.md | DE_RESIDUE_UNRESOLVED | 11,51,133,166,174 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:50 | en | uebung24.md | DE_RESIDUE_UNRESOLVED | 11,91 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:51 | en | uebung25.md | DE_RESIDUE_UNRESOLVED | 11 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:55 | en | uebung39.md | DE_RESIDUE_UNRESOLVED | 11 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:55 | en | uebung47.md | DE_RESIDUE_UNRESOLVED | 68 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 01:57 | en | uebung59.md | DE_RESIDUE_UNRESOLVED | 108,185 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:07 | en | inhaltsverzeichnis.md | DE_RESIDUE_UNRESOLVED | 15,16,24,25,26 (+25 more) | 30 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:12 | en | grammatik.md | DE_RESIDUE_UNRESOLVED | 68,80,81,82,83 (+13 more) | 18 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:13 | en | lektion02.md | DE_RESIDUE_UNRESOLVED | 26,45,53,55,58 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:27 | en | lektion13.md | DE_RESIDUE_UNRESOLVED | 98,99,133,134,147 (+3 more) | 8 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:29 | en | lektion14.md | DE_RESIDUE_UNRESOLVED | 35,128,130 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:31 | en | lektion15.md | DE_RESIDUE_UNRESOLVED | 25,26,201,205 | 4 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:35 | en | lektion17.md | DE_RESIDUE_UNRESOLVED | 272 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:36 | en | lektion18.md | DE_RESIDUE_UNRESOLVED | 92 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:38 | en | lektion19.md | DE_RESIDUE_UNRESOLVED | 64,68,189 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:39 | en | lektion20.md | DE_RESIDUE_UNRESOLVED | 33,154,466 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:44 | en | lektion21.md | DE_RESIDUE_UNRESOLVED | 49,53,99,103,153 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:46 | en | lektion22.md | DE_RESIDUE_UNRESOLVED | 20,28,34,165,236 | 5 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:51 | en | lektion23.md | DE_RESIDUE_UNRESOLVED | 12,15,19,21,23 (+17 more) | 22 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:55 | en | lektion24.md | DE_RESIDUE_UNRESOLVED | 15,42,105,223,225 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 02:59 | en | lektion25.md | DE_RESIDUE_UNRESOLVED | 12,15,17,22,30 (+12 more) | 17 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:00 | en | lektion26.md | DE_RESIDUE_UNRESOLVED | 110 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:16 | en | lektion27.md | DE_RESIDUE_UNRESOLVED | 147,151,169,173,278 (+31 more) | 36 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:20 | en | lektion28.md | DE_RESIDUE_UNRESOLVED | 27,86,139,142,144 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:21 | en | lektion31.md | DE_RESIDUE_UNRESOLVED | 61 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:24 | en | lektion32.md | DE_RESIDUE_UNRESOLVED | 86,483 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:25 | en | lektion33.md | DE_RESIDUE_UNRESOLVED | 198,206,209 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:26 | en | lektion36.md | DE_RESIDUE_UNRESOLVED | 78,81 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:28 | en | lektion37.md | DE_RESIDUE_UNRESOLVED | 86,89,96,147,160 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:31 | en | lektion38.md | DE_RESIDUE_UNRESOLVED | 49,211,571 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:34 | en | lektion39.md | DE_RESIDUE_UNRESOLVED | 93,279 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:37 | en | lektion40.md | DE_RESIDUE_UNRESOLVED | 374,502,505 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:40 | en | lektion41.md | DE_RESIDUE_UNRESOLVED | 32,34,39,47,70 (+4 more) | 9 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:41 | en | lektion43.md | DE_RESIDUE_UNRESOLVED | 82 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:42 | en | lektion44.md | DE_RESIDUE_UNRESOLVED | 184,205 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:43 | en | lektion45.md | DE_RESIDUE_UNRESOLVED | 91,93 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:46 | en | lektion47.md | DE_RESIDUE_UNRESOLVED | 52,138,182 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:48 | en | lektion50.md | DE_RESIDUE_UNRESOLVED | 36,162,166 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:49 | en | lektion52.md | DE_RESIDUE_UNRESOLVED | 463,467 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:51 | en | lektion53.md | DE_RESIDUE_UNRESOLVED | 300 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:53 | en | lektion54.md | DE_RESIDUE_UNRESOLVED | 178,180,231 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:55 | en | lektion57.md | DE_RESIDUE_UNRESOLVED | 143,146 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:58 | en | lektion58.md | DE_RESIDUE_UNRESOLVED | 99,360 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 03:59 | en | lektion59.md | DE_RESIDUE_UNRESOLVED | 151 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:01 | en | lektion60.md | DE_RESIDUE_UNRESOLVED | 289,397 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:03 | en | lektion61.md | DE_RESIDUE_UNRESOLVED | 39,272,311,312 | 4 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:04 | en | uebung08.md | DE_RESIDUE_UNRESOLVED | 69 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:06 | en | uebung10.md | DE_RESIDUE_UNRESOLVED | 11,21,38,174,180 (+4 more) | 9 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:08 | en | uebung11.md | DE_RESIDUE_UNRESOLVED | 49,59,74 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:09 | en | uebung12.md | DE_RESIDUE_UNRESOLVED | 11,28,43 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:10 | en | uebung13.md | DE_RESIDUE_UNRESOLVED | 37,88 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:10 | en | uebung19.md | DE_RESIDUE_UNRESOLVED | 25 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:10 | en | uebung22.md | DE_RESIDUE_UNRESOLVED | 97,99 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:14 | en | uebung23.md | DE_RESIDUE_UNRESOLVED | 11,51,133,166,174 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:16 | en | uebung24.md | DE_RESIDUE_UNRESOLVED | 11,91 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:17 | en | uebung25.md | DE_RESIDUE_UNRESOLVED | 11 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:21 | en | uebung39.md | DE_RESIDUE_UNRESOLVED | 11 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:21 | en | uebung47.md | DE_RESIDUE_UNRESOLVED | 68 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:23 | en | uebung59.md | DE_RESIDUE_UNRESOLVED | 108,185 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:33 | en | inhaltsverzeichnis.md | DE_RESIDUE_UNRESOLVED | 15,16,24,25,26 (+25 more) | 30 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:38 | en | grammatik.md | DE_RESIDUE_UNRESOLVED | 68,80,81,82,83 (+13 more) | 18 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:40 | en | lektion02.md | DE_RESIDUE_UNRESOLVED | 26,45,53,55,58 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:52 | en | lektion13.md | DE_RESIDUE_UNRESOLVED | 98,99,133,134,147 (+3 more) | 8 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:55 | en | lektion14.md | DE_RESIDUE_UNRESOLVED | 35,128,130 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 04:56 | en | lektion15.md | DE_RESIDUE_UNRESOLVED | 25,26,201,205 | 4 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:00 | en | lektion17.md | DE_RESIDUE_UNRESOLVED | 272 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:01 | en | lektion18.md | DE_RESIDUE_UNRESOLVED | 92 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:03 | en | lektion19.md | DE_RESIDUE_UNRESOLVED | 64,68,189 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:04 | en | lektion20.md | DE_RESIDUE_UNRESOLVED | 33,154,466 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:09 | en | lektion21.md | DE_RESIDUE_UNRESOLVED | 49,53,99,103,153 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:11 | en | lektion22.md | DE_RESIDUE_UNRESOLVED | 20,28,34,165,236 | 5 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:16 | en | lektion23.md | DE_RESIDUE_UNRESOLVED | 12,15,19,21,23 (+17 more) | 22 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:20 | en | lektion24.md | DE_RESIDUE_UNRESOLVED | 15,42,105,223,225 (+2 more) | 7 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:24 | en | lektion25.md | DE_RESIDUE_UNRESOLVED | 12,15,17,22,30 (+12 more) | 17 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:25 | en | lektion26.md | DE_RESIDUE_UNRESOLVED | 110 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:42 | en | lektion27.md | DE_RESIDUE_UNRESOLVED | 147,151,169,173,278 (+31 more) | 36 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:46 | en | lektion28.md | DE_RESIDUE_UNRESOLVED | 27,86,139,142,144 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:47 | en | lektion31.md | DE_RESIDUE_UNRESOLVED | 61 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:49 | en | lektion32.md | DE_RESIDUE_UNRESOLVED | 86,483 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:51 | en | lektion33.md | DE_RESIDUE_UNRESOLVED | 198,206,209 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:51 | en | lektion36.md | DE_RESIDUE_UNRESOLVED | 78,81 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:54 | en | lektion37.md | DE_RESIDUE_UNRESOLVED | 86,89,96,147,160 (+1 more) | 6 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:57 | en | lektion38.md | DE_RESIDUE_UNRESOLVED | 49,211,571 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 05:59 | en | lektion39.md | DE_RESIDUE_UNRESOLVED | 93,279 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 06:03 | en | lektion40.md | DE_RESIDUE_UNRESOLVED | 374,502,505 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 06:13 | en | lektion23.md | DE_RESIDUE_UNRESOLVED | 12,15,19,21,23 (+17 more) | 22 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 06:17 | en | grammatik.md | DE_RESIDUE_UNRESOLVED | 68,81,83,90,95 | 5 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 06:22 | en | lektion23.md | DE_RESIDUE_UNRESOLVED | 12,15,19,21,23 (+17 more) | 22 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 06:43 | en | lektion28.md | DE_RESIDUE_UNRESOLVED | 27,86,139,142,144 (+7 more) | 12 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 06:48 | en | lektion38.md | DE_RESIDUE_UNRESOLVED | 49,211,571 | 3 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 06:50 | en | lektion43.md | DE_RESIDUE_UNRESOLVED | 82 | 1 German residue(s) remained after auto-heal pass. |
+| 2026-08-14 06:52 | en | lektion47.md | DE_RESIDUE_UNRESOLVED | 52,138,182 | 3 German residue(s) remained after auto-heal pass. |

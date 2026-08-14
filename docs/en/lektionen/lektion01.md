@@ -75,9 +75,9 @@ Of the sense of the word.
 At the beginning, a curiosity:
 
 
-&gt;"When William Jones [1746–1794] and Henry Thomas Colebrooke (1765—1857) first thoroughly studied Sanskrit, partially translated it and found that it possessed a rich literature and no small kinship with the classical languages, they encountered considerable resistance. Since this intimate relationship of Sanskrit to European languages so geographically distant could not be reconciled with the old views, which either derived all languages from Hebrew or largely isolated them from one another, the famous philologist Dugald Steward (1753—1828) took the simplest way out by declaring the entire history with the Sanskrit language to be a lie. He wrote an essay in which he tried to prove that it had been forged by the rascally Brahmins after the model of Greek and Latin, and that both the language and the literature were a forgery. This view was further elaborated in 1840 by the professor in Dublin, Charles William Wall (Göttingische gelehrte Anzeigen 1842 p. 1888)."
-&gt;
-&gt;[Source: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- Munich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accessed on 2010-01-10]
+>"When William Jones [1746–1794] and Henry Thomas Colebrooke (1765—1857) first thoroughly studied Sanskrit, partially translated it and found that it possessed a rich literature and no small affinity with the classical languages, they encountered considerable resistance. Since this intimate relationship of Sanskrit to European languages so geographically distant could not be reconciled with the old views, which either derived all languages from Hebrew or largely isolated them from one another, the famous philologist Dugald Steward (1753—1828) took the simplest way out by declaring the entire history with the Sanskrit language to be a lie. He wrote an essay in which he tried to prove that it had been forged by the rascally Brahmins after the model of Greek and Latin, and that both the language and the literature were a forgery. This view was further elaborated in 1840 by the professor in Dublin, Charles William Wall (Göttingische gelehrte Anzeigen 1842 p. 1888)."
+>
+>[Source: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- Munich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accessed on 2010-01-10]
 
 ## 1.1. Literature for Beginners in Indology
 
@@ -87,7 +87,7 @@ Fig.: Cover title of a paperback edition
 (Image source: [Details](/en/licenses#lekt0103))
 :::
 
-&gt;**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Since then many editions, including paperback editions. -- **Mandatory reading.** A good overview of life, history and culture in pre-Islamic India. Comprehensive overview of the various fields of classical Indology.
+>**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Since then many editions, including paperback editions. -- **Required reading.** A good overview of life, history and culture in pre-Muslim India. Comprehensive overview of the various fields of classical Indology.
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -97,7 +97,7 @@ Fig.: Title page
 
 Best systematic grammar:
 
-> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammar of the Sanskrit language / Translated from English by W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Original title: A grammar of the Sanscrit language
+> **Kielhorn**, Franz (1840–1908): Grammar of the Sanskrit language / Translated from English by W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Original title: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -117,7 +117,7 @@ Fig.: Cover title
 
 A good, concise presentation of European linguistic terminology can be found in:
 
-> **Etymological Dictionary of the German Language** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Edited by Elmar Seebold. -- 24th, revised and expanded ed.. -- Berlin [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- pp. XIII - XLVII.
+> **Etymological Dictionary of the German Language** / [Friedrich] Kluge (1856–1926). Edited by Elmar Seebold. -- 24th, revised and expanded ed.. -- Berlin [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- pp. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)
@@ -125,9 +125,9 @@ Fig.: Cover title
 (Image source: [Details](/en/licenses#lekt0108))
 :::
 
-For the curious to look up:
+For the inquisitive: for reference:
 
-> **Lexicon of Linguistics** / edited by Hadumod Bussmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexicon of Linguistics** / ed. by Hadumod Bussmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 
 ## 1.2. The Sounds of Sanskrit

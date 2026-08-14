@@ -485,15 +485,15 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 See also:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Introduction to the Exegesis of Sanskrit Texts: Script. -- Ch. 8: The Actual Exegesis, Part II: On Individual Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–):** Introduction to the Exegesis of Sanskrit Texts : Script. -- Ch. 8: The Actual Exegesis, Part II: On Individual Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Significance of Determining the Meter
 
 The determination of the meter is important for the following reasons:
 
-1. **Aesthetic:** The metrical pattern contributes, among other things, to the beauty of a statement. Furthermore, certain meters may serve to express specific moods, or they are assigned to particular social classes (⟪वर्ण⟫). The various meters are recited differently. :br A good impression of the aesthetic effect can be gained, for example, from the recitation of ⟪शिवताण्डवस्तोत्र⟫ (the hymn praising Śiva's dance): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1. **Aesthetic:** The metrical pattern contributes, among other things, to the beauty of a statement. Furthermore, certain meters may serve to express specific moods, or they are assigned to particular social classes (⟪वर्ण⟫). The various meters are recited differently from one another. :br A good impression of the aesthetic effect can be gained, for example, by reciting the ⟪शिवताण्डवस्तोत्र⟫ (praise of Śiva's dance): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2. **Text-critical:** Errors in the metrical pattern can indicate that a text has not been transmitted correctly at a certain point. The meter helps in making textual emendations.
-3. **Chronological:** Certain meters underwent specific changes over the course of history. This can assist in the approximate dating of a text. See here **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** On the History of the Triṣṭhubh ; idem: On the History of the Śloka. -- Both reprinted in: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Small Writings / Hermann Oldenberg. Edited by Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vols. -- (Glasenapp Foundation ; ...). -- Vol. 2. -- 1967. -- pp. 1188 - 1255.
+3. **Chronological:** Certain meters underwent specific changes over the course of history. This can assist in roughly dating a text. See here **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; same author: Zur Geschichte des Śloka. -- Both reprinted in: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Edited by Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vols. -- (Glasenapp-Stiftung ; ...). -- Vol. 2. -- 1967. -- pp. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -505,8 +505,8 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 ::: grammar-box
 **The Indians distinguish:**
 
-*   **⟪वृत्त⟩ n.:** Meters in which the number of syllables (⟪अक्षर⟩) is fixed
-*   **⟪जाति⟩ f.:** Meters in which the sum of metrical units (⟪मात्रा⟩) (morae) is fixed (on these later)
+*   **⟪वृत्त⟩ n.:** meters in which the number of syllables (⟪अक्षर⟩) is fixed
+*   **⟪जाति⟩ f.:** meters in which the sum of metrical units (⟪मात्रा⟩) (morae) is fixed (on these later)
 
 **For the meters, in which the number of syllables is fixed (⟪वृत्त⟫), one can initially make a further distinction:**
 
@@ -620,7 +620,7 @@ The second and third syllable of a ⟪पाद⟫ should not both be ⟪लघ�
 ## 53.11. Exercise
 
 ::: grammar-box
-**Determine the Ślokas among all verses learned so far. Write down the metrical scheme for these. Point out any irregularities or Vipulā forms.**
+**Identify the Ślokas among all verses learned so far. Write down the metrical scheme for these. Point out any irregularities or Vipulā forms.**
 :::
 ::: center
 Finitum feliciter 1984-02-15
@@ -631,7 +631,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Sources**
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53rd Lesson 53 (Semester holidays). -- Version from 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–): Sanskrit Course. -- 53rd Lesson 53 (Semester Holidays). -- Version from 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)**
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -640,6 +640,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53rd Lesson 53 (Semester holidays). -- Image source of the original table 53.9: Screenshot of the original source (Payer).
+**Payer, Alois (1944–): Sanskrit Course. -- 53rd Lesson 53 (Semester Holidays). -- Image source of original table 53.9: Screenshot of the original source (Payer).**
 :::
 

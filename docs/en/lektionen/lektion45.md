@@ -110,9 +110,9 @@ A) Translate into Sanskrit (for past tense forms, please use the imperfect \&lt;
 1. You split the (Buddhist) community.
 
 ::: indent
-For schism (⟪सङ्घभेद⟫) see:
+For schism in the community (⟪सङ्घभेद⟫) see:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2. Have you enjoyed the earth?
 
@@ -126,7 +126,7 @@ Father, where are you leaving the family?
 
 Goddess, you should fulfill the wish for happiness of the Vaiśya who has performed merit.
 
-Elephants, you should not break the bonds.
+Elephants, you should not break the fetters.
 
 You lion-like man, why do you not direct your entire attention to the Absolute (Brahman)?
 

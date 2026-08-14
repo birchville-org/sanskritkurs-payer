@@ -551,14 +551,14 @@ A list of denominatives, e.g. in:
 ::: media
 ![](/images/lekt6112.jpg)
 Fig.:
-1845 - 1878 Professor of Indological and Oriental Philology at the University of Copenhagen
+1845 - 1878 Professor of Indo-Oriental Philology at the University of Copenhagen
 (Image source: [Details](/en/licenses#lekt6112))
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- Pp. 335 - 341.
+**Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- Pp. 335 - 341.
 :::
-## 61.5. The Benediction (⟪आशीर्लिङ्⟫)
+## 61.5. The Benedictional (⟪आशीर्लिङ्⟫)
 
 ::: grammar-box
 **Meaning:**

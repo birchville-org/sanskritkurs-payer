@@ -7,21 +7,65 @@ python3 -c "import fcntl, sys; fcntl.flock(200, fcntl.LOCK_EX | fcntl.LOCK_NB)" 
 # Script to translate multiple languages sequentially with robust retries and fallback
 # Dynamic Order: Unfinished languages sorted by highest completion percentage descending
 # Strict 100% Completion Loop: Always process top language until 100% clean (0 fallbacks)
+# Circuit breaker variables for detecting stuck progress
+PREV_LANG=""
+PREV_SAUBER=-1
+STUCK_COUNT=0
+SKIP_LANGS=""
+
 while true; do
     TOP_LANG=$(python3 -c "
 import sys; sys.path.insert(0, 'scripts')
-from generate_report import get_top_unfinished_language
-print(get_top_unfinished_language())
+from generate_report import get_top_unfinished_language, get_translation_queue, TOTAL_MASTER
+skip = '$SKIP_LANGS'.split()
+# Find top language not in skip list
+top = get_top_unfinished_language()
+if top in skip:
+    from generate_report import get_next_queued_language
+    top = get_next_queued_language(top)
+print(top if top else 'ALL_FINISHED')
 ")
 
     if [ "$TOP_LANG" = "ALL_FINISHED" ]; then
+        if [ -n "$SKIP_LANGS" ]; then
+            echo "⚠️ Retrying skipped languages: $SKIP_LANGS"
+            SKIP_LANGS=""
+            continue
+        fi
         echo "🎉 All languages are 100% completed with 0 fallbacks!"
         python3 scripts/send_notification_email.py "Sanskritkurs: ALLE SPRACHEN FERTIG" "Alle Sprachen wurden zu 100% mit 0 Fallbacks fertiggestellt." 2>/dev/null || true
         break
     fi
 
+    # Check progress since last run of same language
+    CURR_SAUBER=$(python3 -c "
+import sys; sys.path.insert(0, 'scripts')
+from generate_report import get_translation_queue, TOTAL_MASTER
+print(TOTAL_MASTER - len(get_translation_queue('$TOP_LANG')))
+")
+
+    if [ "$TOP_LANG" = "$PREV_LANG" ]; then
+        if [ "$CURR_SAUBER" -le "$PREV_SAUBER" ]; then
+            STUCK_COUNT=$((STUCK_COUNT + 1))
+            echo "⚠️ [CIRCUIT BREAKER] [$TOP_LANG] No progress made ($CURR_SAUBER/136 clean, attempt $STUCK_COUNT/2)."
+            if [ "$STUCK_COUNT" -ge 2 ]; then
+                echo "🚨 [CIRCUIT BREAKER TRIPPED] [$TOP_LANG] Stuck at $CURR_SAUBER/136 clean. Temporarily skipping to next language..."
+                SKIP_LANGS="$SKIP_LANGS $TOP_LANG"
+                PREV_LANG=""
+                STUCK_COUNT=0
+                continue
+            fi
+        else
+            STUCK_COUNT=0
+        fi
+    else
+        PREV_LANG="$TOP_LANG"
+        STUCK_COUNT=0
+    fi
+    PREV_SAUBER=$CURR_SAUBER
+
     echo "============================================================"
-    echo "🎯 TARGET LANGUAGE: [$TOP_LANG]"
+    echo "🎯 TARGET LANGUAGE: [$TOP_LANG] (Clean: $CURR_SAUBER/136)"
     echo "============================================================"
 
     EXTRA_FLAGS=""

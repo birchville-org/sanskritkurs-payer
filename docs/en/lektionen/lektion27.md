@@ -46,14 +46,14 @@ Jaipur, 1875.
 **If an action or state of a person or thing determines the time at which, or the circumstances under which, ANOTHER person or thing performs an action or is in a certain state, then the word designating the first person or thing, together with the word further specifying it (which is often a participle), appears in the Locative case (⟪सप्तमी⟫):**
 
 > ⟪एवं गच्छति काले⟫ = "while time passes thus..."
-&gt;
+>
 > ⟪तस्मिन्गते⟫ = "when he had gone..."
 
-**Sometimes the agent (⟪कर्ता⟫) is not explicitly stated:**
+**Sometimes the agent (⟪कर्ता⟫) is not explicitly designated:**
 
 > ⟪एवं सति⟫ = "since the matter stands thus"
 
-**The Locativus Absolutus must be translated according to context as "while" (e.g., present participle), "after", "when" (e.g., past passive participle), "since", "because", "although", "if", etc.**
+**The Locativus Absolutus must be translated according to context as "while" (e.g., Present Participle), "after", "when" (e.g., PPP), "since", "because", "although", "if", etc.**
 
 **Note: In the absolute construction, the agent of the absolutive and the agent of the main clause must be identical; in the locative absolute, the agent of the locative absolute and the agent of the main verb must be different.**
 

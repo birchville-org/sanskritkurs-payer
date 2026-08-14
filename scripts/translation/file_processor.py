@@ -319,7 +319,7 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
         try:
             with open(target_path, 'r', encoding='utf-8', errors='ignore') as tf:
                 tgt_txt = tf.read()
-            if not scan_german_residues(tgt_txt) and 'TODO: Fallback translation' not in tgt_txt:
+            if not scan_german_residues(tgt_txt, target_lang=lang) and 'TODO: Fallback translation' not in tgt_txt:
                 sys.stdout.write(f"[{lang}] Skipping {filename} (up to date & clean)\n")
                 sys.stdout.flush()
                 return
@@ -364,7 +364,7 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
         c_hash = hash_chunk(chunk)
         if not force and c_hash in tm and not tm[c_hash].startswith("ERROR:"):
             cached_tr = tm[c_hash]
-            if not scan_german_residues(cached_tr):
+            if not scan_german_residues(cached_tr, target_lang=lang):
                 sys.stdout.write(f"    [✓ TM Cache] Sektion {idx+1}/{len(chunks)} sauber & verifiziert.\n")
                 sys.stdout.flush()
                 translated_chunks.append(cached_tr)
@@ -425,13 +425,13 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
 
     os.makedirs(os.path.dirname(target_path), exist_ok=True)
 
-    flagged = scan_german_residues(final_content)
+    flagged = scan_german_residues(final_content, target_lang=lang)
     if flagged:
         sys.stdout.write(f"  [!] {len(flagged)} German residue(s) detected — running local auto-heal pass...\n")
         sys.stdout.flush()
 
         final_content = sonnet_patch_residues(final_content, flagged, lang)
-        still_flagged = scan_german_residues(final_content)
+        still_flagged = scan_german_residues(final_content, target_lang=lang)
 
         if still_flagged:
             sys.stdout.write(f"  [!] {len(still_flagged)} residue(s) remained — logging to translation_failures.md\n")
@@ -446,6 +446,22 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
         else:
             sys.stdout.write("  [✓] All German residues cleanly resolved by local auto-heal pass!\n")
             sys.stdout.flush()
+
+    # Bug A Fix: Back-sync final (and auto-healed) chunks into TM Cache so old unhealed chunks never overwrite files
+    try:
+        body_for_tm = final_content
+        if final_content.startswith('---'):
+            parts = final_content.split('---', 2)
+            if len(parts) >= 3:
+                body_for_tm = parts[2]
+        healed_chunks = chunk_content(body_for_tm)
+        for hc in healed_chunks:
+            hc_hash = hash_chunk(hc)
+            if not scan_german_residues(hc, target_lang=lang):
+                tm[hc_hash] = hc
+        save_tm(lang, tm)
+    except Exception as e:
+        sys.stderr.write(f"  [!] Warning: Failed to back-sync healed TM chunks: {e}\n")
 
     with open(target_path, 'w', encoding='utf-8') as f:
         f.write(final_content)

@@ -228,7 +228,7 @@ e.g. **tan** 8 U.
 **yajña** m. ⟪यज्ञ⟫ : sacrifice
 
   ::: note-box
-  Sacrifice in India is primarily an honoring of the deity as a guest. By this, one obligates oneself to the deity.
+  The sacrifice in India is primarily an act of honoring the deity as a guest. By doing so, one obligates oneself to the deity.
 
   Word formation: **yaj** 1 U + kṛt-suffix **-na-**.
   :::
@@ -245,7 +245,7 @@ e.g. **tan** 8 U.
 ::: note-box
 In India, the true word was attributed with magical power; indeed, the entire cosmic order is maintained and created by the true word. For this important concept, see the fundamental work:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pp., pp. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII p., pp. 340 - 764
 :::
 
 ::: media
@@ -264,7 +264,7 @@ Fig.: ⟪वरुणः⟫
 **ṛṣi** m. ⟪ऋषि⟫ : Vedic sage, author of Vedic hymns
 
   ::: note-box
-  The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of the Vedas. All Brahmins trace their origin to such **ṛṣi**s, after whom their **gotra** (⟪गोत्र⟫) are named. For the concept of **gotra**, see Basham, *Wonder*, Chapter 5.
+  The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of the Vedas. All Brahmins trace their lineage to such **ṛṣi**s, after whom their **gotra** (⟪गोत्र⟫) are named. For the concept of **gotra**, see Basham, *Wonder*, Chapter 5.
   :::
 
 ::: media

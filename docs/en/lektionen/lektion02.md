@@ -45,7 +45,7 @@ To declension, the case endings (**sup** = ⟪सुप्⟫) are added to the 
 
 Example: **devas** = ⟪देवस्⟫ (Nominative Singular Masculine) "the/a god" = **deva-** -- ⟪देव⟫- (nominal stem) + **-s** -- -⟪स्⟫ (case ending).
 
-In Sanskrit dictionaries, nouns are listed in the **nominal stem**:
+In Sanskrit dictionaries, nouns are listed under the **nominal stem**:
 **deva** m. -- ⟪देव⟫ m. (masculine)
 **vacana** n. -- ⟪वचन⟫ n. (neuter)
 **vyakti** f. -- ⟪व्यक्ति⟫ f. (feminine)
@@ -76,7 +76,7 @@ In Sanskrit, the final sound of a word is also determined by the initial sound o
 
 See also the overview:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Final **-s**:
 
@@ -147,11 +147,11 @@ study of the Vedas
 **of the Śūdras**
 serving the three upper classes
 :::
-**dvija** m. -- ⟪द्विज⟫ : "twice-born" (initiates of the upper three castes: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "twice-born" (initiates of the upper three varṇas: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : color, birth caste (aspiration).
+**varṇa** m. -- ⟪वर्ण⟫ : color, birth status (aspiration).
 
-The four castes (**varṇa** m.) are often confused with the jāti (caste). However, the four varṇas -- unlike the jāti -- are not specifically Indian; in Europe, we also had a caste system (partly until the First World War), as evidenced by the following illustration from the 15th century:
+The four varṇas (**varṇa** m.) are often confused with castes. However, the four varṇas -- unlike castes -- are not specifically Indian; in Europe as well, we had (partly up to the First World War) a system of estates, as evidenced by the following illustration from the 15th century:
 
 ::: media
 ![](/images/lekt0201.webp)
@@ -165,7 +165,7 @@ Fig.: Representation of the estate division in medieval Europe (woodcut from the
 
 The three estates wear their respective estate attire. Above them -- thus designated as willed by God -- Christ reigns on his throne.
 
-Max Weber \&lt;1864 – 1920\&gt; defines estate as follows:
+Max Weber (1864–1920) defines estate as follows:
 
 ::: note-box
 »**Estate**« should mean a multitude of people who, within an association, effectively
@@ -185,7 +185,7 @@ While occupational classes grow on the basis of a market-oriented economy, estat
 
 Every estate-based society is conventional, ordered by rules of life conduct, thereby creating economically irrational consumption conditions and hindering free market formation through monopolistic appropriations and by excluding the free disposal of one's own earning capacity.
 
-[**Weber, Max <1864 – 1920>:** Economy and Society : Outline of Interpretive Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – p. 625 f.]
+[**Weber, Max (1864–1920):** Economy and Society : Outline of Interpretive Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – p. 625 f.]
 :::
 Varṇas are, accordingly, birth castes.
 

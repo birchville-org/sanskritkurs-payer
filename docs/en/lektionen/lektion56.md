@@ -99,21 +99,21 @@ Vowel - first following consonant (or rather its representative required in a re
 ::: indent
 ⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, reduplicated syllable ⟪आशिश्⟫, Aor. ⟪आशिशत् इष्⟫ 6P: Caus. ⟪एषयति⟫, reduplicated syllable ⟪एषिष्⟫, Aor. ⟪ऐषिषत् ईक्ष्⟫ 1Ā: Caus. ⟪ईक्षयति⟫, reduplicated syllable ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
 :::
-*   If a consonant cluster beginning with a nasal or d or r follows an initial vowel, the second consonant of the cluster (or its substitute) is inserted with i according to the following schema:
+*   If a vowel-initial stem is followed by a consonant cluster beginning with a nasal or d or r, the second consonant of the cluster (or its substitute) is inserted with i according to the following schema:
 
 
 Vowel - first consonant - second consonant (substitute) - i - second consonant
 
 ::: indent
-⟪अञ्ज्⟫ 3P: Caus. ⟪अञ्जयति⟫, reduplicated syllable ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत् ऋ⟫ 1P: Caus. ⟪अर्पयति⟫, reduplicated syllable ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत् अर्ह्⟫ 1P: Caus. ⟪अर्हयति⟫, reduplicated syllable ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
+⟪अञ्ज्⟫ 7P: Caus. ⟪अञ्जयति⟫, reduplicated syllable ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत् ऋ⟫ 1P: Caus. ⟪अर्पयति⟫, reduplicated syllable ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत् अर्ह्⟫ 1P: Caus. ⟪अर्हयति⟫, reduplicated syllable ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
 :::
-This form of reduplication for derived stems beginning with a vowel (causatives) is called "Attic reduplication".
+This form of reduplication for vowel-initial derived stems (causatives) is called "Attic reduplication".
 ## 56.2. The Injunctive
 
 ::: grammar-box
 **The injunctive is the augmentless form corresponding to augmented forms, i.e., its forms are identical with the augmentless forms of the Indicative Imperfect or Aorist. Indigenous Indian grammar did not recognize the injunctive as a distinct grammatical category.**
 :::
-According to the fundamental work:
+According to the foundational work:
 
 ::: media
 ![](/images/lekt5601.jpg)
@@ -123,14 +123,14 @@ Professor of Comparative Linguistics, University of Erlangen-Nuremberg (1955 - 1
 :::
 
 ::: indent
-Hoffmann, Karl \&lt;1915 - 1996\&gt;: The Injunctive in the Veda : a synchronic functional study / by Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3rd series, Investigations)
+Hoffmann, Karl (1915–1996): The Injunctive in the Veda: A Synchronic Functional Study / by Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3rd series, Investigations)
 :::
 the injunctive in the Veda has the following properties:
 
 *   it is not narrative, but mentionative
 *   it is tenseless
-*   the Present Injunctive (= augmentless Imperfect) denotes the imperfective aspect
-*   the Aorist Injunctive denotes the perfective aspect.
+*   the Injunctive Present (= augmentless Imperfect) denotes the imperfective aspect
+*   the Injunctive Aorist denotes the perfective aspect.
 
 ::: grammar-box
 **In post-Vedic Sanskrit, the injunctive occurs only in connection with the prohibitive particle ⟪मा⟫ (+ injunctive aorist) or ⟪मा स्म⟫ (+ injunctive present or aorist); the distinction in aspect usually no longer applies.**
@@ -181,7 +181,7 @@ In addition, there are other, rarer forms of prohibitive sentences; see e.g.
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)
@@ -197,9 +197,9 @@ Fig.: ⟪अलं विषादेन⟫
 
 :::
 ::: indent
-⟪स्म⟫ + Indicative Present serves for narrating in the past, especially to denote a duration in the past:
+⟪स्म⟫ + Indicative Present serves for narration in the past, especially to denote a duration in the past:
 
-e.g. ⟪वसति स्म⟫ "there once dwelt" (⟪स्म⟫ can sometimes also be omitted).
+e.g. ⟪वसति स्म⟫ "there lived once" (⟪स्म⟫ can sometimes also be omitted).
 :::
 ## 56.5. Exercise
 

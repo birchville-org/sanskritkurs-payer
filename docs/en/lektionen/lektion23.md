@@ -77,7 +77,7 @@ Examples:
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
->> -ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+>> Have -ra- as full grade for -ṛ- in the infinitive:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫

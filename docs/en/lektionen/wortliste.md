@@ -71,17 +71,17 @@ Fig.: Illustration of the estate division of the European Middle Ages (woodcut f
 (Image source: [Details](/licenses#lekt0201))
 :::
 **Caption:**
-**Priestly estate** (~Brāhmaṇa): Tu supplex ora = You pray supplicatingly!
+**Priestly estate** (~Brāhmaṇa): Tu supplex ora = You pray earnestly!
 **Noble estate** (~Kṣatriya): Tu protege = You protect!
 **Peasant estate** (~Vaiśya/Śūdra): Tuque labora = And you work!
 
 The three estates wear their respective estate attire. Above the estates – thereby designated as willed by God – Christ reigns.
 
-Max Weber <1864 – 1920> defines estate as follows:
+Max Weber (1864–1920) defines estate as follows:
 
 ::: note-box
 »**Estate**« is to denote a multitude of people who, within an association, effectively
-a) claim an estate-specific special valuation, - possibly also
+a) claim an estate-specific special esteem, - possibly also
 b) estate-specific special monopolies.
 
 Estates can arise
@@ -89,17 +89,17 @@ a) primarily, through their own estate-specific way of life, particularly throug
 b) secondarily, hereditarily charismatic, through successful prestige claims based on estate-specific **descent** (**birth estates**),
 c) through estate-specific **appropriation** of political or hierocratic lordships as monopolies (**political or hierocratic estates**).
 
-The birth-estate development is regularly a form of (hereditary) appropriation of privileges to an association or to qualified individuals. Every fixed appropriation of opportunities, particularly [of] lordships [or income] opportunities, tends to lead to estate formation. Every estate formation tends to lead to the monopolistic appropriation of lordships and income opportunities.
+The development of birth estates is regularly a form of (hereditary) appropriation of privileges to an association or to qualified individuals. Any fixed appropriation of opportunities, particularly [of] lordships [or occupational] opportunities, tends to lead to the formation of estates. Any formation of estates tends to lead to the monopolistic appropriation of lordships and occupational opportunities.
 
-As occupational classes grow on the basis of a market-oriented economy, estates arise and persist preferably on the basis of monopolistically led liturgical or feudal or estate-based patrimonial provision of needs by associations.
+As occupational classes grow on the foundation of a market-oriented economy, estates arise and persist preferably on the foundation of monopolistically led liturgical or feudal or estate-based patrimonial provision of needs by associations.
 
 »**Estate-based**« is to denote a society when the social stratification occurs preferably according to estates, »**class-based**«, if it occurs preferably according to classes. Of the »classes«, the »social« class is closest to the »estate«, while the »occupational class« is furthest away. Estates are often formed by property classes according to their focal point.
 
-Every estate-based society is conventional, ordered by rules of conduct, thereby creating economically irrational consumption conditions and hindering free market formation through monopolistic appropriations and by excluding the free disposal of one's own earning capacity.
+Every estate-based society is conventional, ordered by rules of life conduct, thereby creating economically irrational consumption conditions and hindering free market formation through monopolistic appropriations and by excluding the free disposal of one's own earning capacity.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Economy and Society : Outline of Comprehensive Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – p. 625 f.]
+[**Weber, Max (1864–1920):** Economy and Society : Outline of Interpretive Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – p. 625 ff.]
 :::
-Varṇas are accordingly birth estates.
+Varṇas are accordingly birth-estates.
 
 **kavi** m. -- ⟪कवि⟫ : Poet.
 
@@ -431,7 +431,7 @@ By which one earns well-being and good rebirths.
 ::: note-box
 In India, the true word was attributed with magical power; indeed, the entire cosmic order is maintained and created by the true word. For this important concept, see the fundamental work:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -619,16 +619,16 @@ Learn the following words:
 **asura** m. ⟪असुर⟫ : demon
 
 > **ASURA.** 'Spiritual, divine.'
-&gt;
+>
 > In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
-&gt;
+>
 > The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
-&gt;
+>
 > According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
-&gt;
+>
 > In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
-&gt;
-> [Source: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+>
+> [Source: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -2990,7 +2990,7 @@ Fig.: ⟪शासना⟫
 (Image source: [Details](/licenses#lekt4109))
 :::
 ::: indent
-⟪शास्त्र⟫ n.: teaching, textbook
+⟪शास्त्र⟫ n.: teaching, treatise
 
 ⟪शास्त्रिन्⟫ m.: learned, scholar
 :::
@@ -3009,11 +3009,11 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 see also:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Canon Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
 
-⟪अति⟫ Prefix: over, across -way, beyond (in space, in time, by number, by quantity, in order, by power, by intensity), exceedingly
+⟪अति⟫ Prefix: over, beyond (in space, in time, by number, by quantity, in order, by power, by intensity), exceedingly
 
 ⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : to pass by
 
@@ -3023,7 +3023,7 @@ PPP ⟪अतीत⟫ : n. past
 ::: deleteme-box
 see also:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Canon Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
 
@@ -3037,7 +3037,7 @@ PPP ⟪अतीत⟫ : n. past tense
 ::: deleteme-box
 see also:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Canon Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Canon Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
 
@@ -3058,9 +3058,9 @@ PPP ⟪अतीत⟫ : n. past tense
 
 ⟪प्रकृति⟫ f.: (to ⟪कृ⟫ + ⟪प्र⟫) basic form, natural state, nature; primal matter, prime substance
 
-⟪अर्जुन⟫ m. proper name: Arjuna, one of the five sons of ⟪पण्डु⟫. Hero in the ⟪महाभारत⟫ (see Basham, Wonder pp. 409 - 414)
+⟪अर्जुन⟫ m. Proper name: Arjuna, one of the five sons of ⟪पण्डु⟫. Hero in the ⟪महाभारत⟫ (see Basham, Wonder pp. 409 - 414)
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : to abstain from, to refrain from, to keep away, to remain, to stand by
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : to abstain from, to refrain from, to keep away, to remain, to stand
 
 ::: indent
 PPP ⟪अवस्थित⟫ 3: standing, located
@@ -3445,7 +3445,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 See:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3455,7 +3455,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 See:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3465,7 +3465,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 See:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3499,7 +3499,7 @@ from this:
 ⟪विषम⟫ 3: unequal, uneven, evil
 
 :::
-⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : to seize, grasp, catch
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : to seize, grasp, hold
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
@@ -3525,7 +3525,7 @@ from this:
 :::
 For ⟪राहु⟫ and ⟪केतु⟫ see:
 
-> **Payer, Alois <1944 - >:** Dharmashastra: Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra: Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the Invisible Wandering Stars. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -3595,7 +3595,7 @@ Fig.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
 Fut. ⟪ह्वास्यति⟫  
 Pass. ⟪हूयते⟫  
-Caus. ⟪ह्वाययति⟫  
+Kaus. ⟪ह्वाययति⟫  
 PPP ⟪हूत⟫  
 Inf. ⟪ह्वातुम्⟫  
 Absol. -⟪हूय⟫
@@ -3614,17 +3614,17 @@ Fig.: [⟪महामात्र कं चरिष्णुदूरशब�
 
 ⟪भ्रंश⟫ m.: the falling away
 
-⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : to toil, to become tired
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : to strive, to become tired
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
-Caus. ⟪श्रमयति । श्रामयति⟫  
+Kaus. ⟪श्रमयति । श्रामयति⟫  
 PPP :sig[⟪श्रान्⟫]⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
 Absol. ⟪श्रमित्वा । श्रान्त्वा⟫
-from which:
+from this:
 ⟪आश्रम⟫ m.n.
 
 :::
@@ -3639,12 +3639,12 @@ Fig.: [⟪श्रान्तः⟫](/licenses#lekt4609)
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
 Fut. ⟪श्रयिष्यति⟫  
 Pass. ⟪श्रीयते⟫  
-Caus. ⟪श्राययति⟫  
+Kaus. ⟪श्राययति⟫  
 PPP ⟪श्रित⟫  
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : to attach, to cling to (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : to attach, to stick to (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -3654,21 +3654,21 @@ Kaus. ⟪सञ्जयति⟫
 PPP ⟪सक्त⟫  
 Inf. ⟪संक्तुम्⟫
 from this:
-⟪सङ्ग⟫ m.: attachment to, contact with (⟪तृतीयया⟫)
+⟪सङ्ग⟫ m.: the attaching to, contact with (⟪तृतीयया⟫)
 
 :::
 ::: media
 ![](/images/lekt4610.webp)
-Abb.: [⟪सङ्गः⟫](/licenses#lekt4610)
+Fig.: [⟪सङ्गः⟫](/licenses#lekt4610)
 (Image source: [Details](/licenses#lekt4610))
 :::
 ⟪द्रु⟫ 1P ⟪द्रवति⟫ : to run, to hasten
 
 ::: indent
-Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
+Perf. IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
 Fut. ⟪द्रोष्यति⟫  
 Pass. ⟪द्रूयते⟫  
-Kaus. ⟪द्रावयति⟫  
+Caus. ⟪द्रावयति⟫  
 PPP ⟪द्रुत⟫  
 Inf. ⟪द्रोतुम्⟫  
 Absol. -⟪द्रुत्य⟫
@@ -3679,7 +3679,7 @@ Absol. -⟪द्रुत्य⟫
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर् ।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
-Kaus. ⟪भ्रमयति⟫  
+Caus. ⟪भ्रमयति⟫  
 PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
@@ -3693,7 +3693,7 @@ from this:
 Perf. I ⟪ललम्बे⟫  
 Fut. ⟪लम्बिष्यते⟫  
 Pass. ⟪लम्ब्यते⟫  
-Kaus. ⟪लम्बयति⟫  
+Caus. ⟪लम्बयति⟫  
 PPP ⟪लम्बित⟫  
 Inf. ⟪लम्बितुम्⟫  
 Absol. -⟪लम्ब्य⟫
@@ -3701,27 +3701,27 @@ Absol. -⟪लम्ब्य⟫
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Abb.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
+Fig.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
 (Image source: [Details](/licenses#lekt4601))
 :::
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : to hang on (⟪द्वितीयया⟫)
 
-⟪यदि⟫ Conjunction:  if
+⟪यदि⟫ conjunction: if, when
 
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : to encircle, to master, to conquer
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : to surround, to master, to conquer
 
 ::: indent
 PPP ⟪परिभूत⟫ 3: conquered, humbled, degraded
 
 :::
-⟪नि⟫ Preverb: downwards, down into, backwards
+⟪नि⟫ prefix: downwards, down, in, backwards
 
 ::: indent
 e.g.
 ⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : to sit down
 
 :::
-⟪भोस्⟫ vocative particle: exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not to be translated. This particle has a special sandhi: before all voiced sounds, it is :sig[⟪भो⟫].
+⟪भोस्⟫ vocative particle: exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not to be translated. This particle has a special sandhi: before all voiced sounds, it becomes :sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)
@@ -3744,7 +3744,7 @@ Fig.: [⟪भोः⟫](/licenses#lekt4611)
 
 ⟪व्याकरण⟫ n.: grammar (to ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: string ; loom, warp, fabric ; foundation, norm, rule ; doctrine, textbook ; Tantra ; magic formula ; means, trick, medicine ; government, authority
+⟪तन्त्र⟫ n.: string ; loom, warp, fabric ; basis, norm, rule ; doctrine, textbook ; Tantra ; magic formula ; means, trick, medicine ; government, authority
 
 ::: media
 ![](/images/lekt4802.webp)
@@ -3861,7 +3861,7 @@ see:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer \&lt;1944 - \&gt;. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer (1944–). -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : to throw, to hurl
 
@@ -3904,16 +3904,16 @@ Fig.: ⟪कुलूहलम्⟫
 :::
 ⟪कृत्स्न⟫ 3: whole, complete
 
-⟪परिचय⟫ m.: acquaintance, friendship
+⟪परिचय⟫ m.: acquaintance
 
-⟪कला⟫ f.: art, skill
+⟪कला⟫ f.: art
 
 ::: media
 ![](/images/lekt4902.webp)
-Fig.: ⟪उत्तमा काला शिवो नटराजा⟫, 11th century
+Fig.: ⟪उत्तमा काला शिवो नटराजा⟫, 11th cent.
 (Image source: [Details](/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: wish, desire
+⟪वर⟫ m.n.: wish
 
 ⟪उत⟫ Indecl.: and, also, or
 
@@ -3924,7 +3924,7 @@ Fig.: ⟪उत्तमा काला शिवो नटराजा⟫, 11t
 Fig.: ⟪विहंगः⟫
 (Image source: [Details](/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: garment, appearance, outward form
+⟪वेष⟫ m.: garment, appearance, exterior
 
 ::: media
 ![](/images/lekt4904.webp)
@@ -3941,9 +3941,9 @@ Fig.: ⟪पञ्जरम्⟫
 Fortune teller with parrot in cage: the parrot draws slips of paper on which fate is written Mysore
 (Image source: [Details](/licenses#lekt4909))
 :::
-⟪चाण्डाल । चण्डाल⟫ m.: lowest caste of the [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल । चण्डाल⟫ m.: lowest caste [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indecl.: of itself, spontaneously
+⟪स्वयम्⟫ Indecl.: self, of itself
 
 ⟪अवनि⟫ f.: earth
 
@@ -3970,9 +3970,9 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: furthest, highest ; ⟪पञ्चम्या⟫ : better than, higher than
+⟪परम⟫ 3: farthest, highest ; ⟪पञ्चम्या⟫ : better than, higher than
 
-⟪शिशु⟫ m.: child, offspring
+⟪शिशु⟫ m.: child, young animal
 
 ::: media
 ![](/images/lekt4906.webp)
@@ -3990,7 +3990,7 @@ Sri Lanka
 
 ⟪ध्रुव⟫ 3: firm, unchangeable
 
-⟪निषेक⟫ m.: sprinkling, fertilization, fluid, ejaculation, ceremony at conception
+⟪निषेक⟫ m.: sprinkling, fertilization, liquid, ejaculation, ceremony at conception
 
 ⟪पण्डित⟫ 3: clever, wise, learned
 
@@ -4004,7 +4004,7 @@ Fig.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
 (Image source: [Details](/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: mystery, solitude
+⟪रहस्⟫ n.: secret, solitude
 
 ⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : to be damaged, to fail, to injure
 
@@ -4012,19 +4012,19 @@ Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and M
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
 Fut. ⟪रेषिष्यति⟫
 Pass. ⟪रिष्यते⟫
-Kaus. ⟪रेषयति⟫
+Caus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
 **⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : to break, to destroy
 
 ::: indent
-Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
+Perf. II ⟪लुलोप⟫, ⟪लुलुपे⟫
 Fut. ⟪लोप्स्यति⟫
 Pass. ⟪लुप्यते⟫
-Kaus. ⟪लोपयति⟫
+Caus. ⟪लोपयति⟫
 PPP ⟪लुप्त⟫
 Inf. ⟪लोप्तुम्⟫
-Gerundiv ⟪लुप्य । लोप्य⟫
+Gerundive ⟪लुप्य । लोप्य⟫
 :::
 ⟪विधि⟫ m.: also: fate (to ⟪विधा⟫)
 
@@ -4034,11 +4034,11 @@ Gerundiv ⟪लुप्य । लोप्य⟫
 Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
 Fut. ⟪वर्षिष्यति⟫
 Pass. ⟪वृष्यते⟫
-Kaus. ⟪वर्षयति⟫
+Caus. ⟪वर्षयति⟫
 PPP ⟪वृष्ट⟫
 Inf. ⟪वर्षितुम्⟫
-Absol. ⟪वर्षित्वा । वृष्ट्वा⟫
-Absol.-⟪वृष्य⟫
+Abs. ⟪वर्षित्वा । वृष्ट्वा⟫
+Abs.-⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
@@ -4046,9 +4046,9 @@ Fig.: ⟪महामेघो वर्षिष्यति⟫
 Arrival of the monsoon, Bangalore  ಬೆಂಗಳೂರು
 (Image source: [Details](/licenses#lekt5002))
 :::
-⟪संयक्⟫ Adv.: correctly, truly, in the proper manner; thoroughly, completely
+⟪संयक्⟫ Adv.: correctly, truly, in the proper manner ; thoroughly, completely
 
-⟪आदित्य⟫ m.: sun; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya): a specific class of gods
+⟪आदित्य⟫ m.: sun ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : a specific class of gods
 
 ::: media
 ![](/images/lekt5005.jpg)
@@ -4579,7 +4579,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: God Varuṇa = ⟪वरुण⟫, 17th century. [Image source: Wikipedia, Public domain]
 
-**lekt1002**: A Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / by Rāja Ravi Varmā (⟪राज रवि वर्मा⟫) \&lt;1848 - 1906\&gt; [Image source: Wikipedia, Public domain]
+**lekt1002**: A Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / by Rāja Ravi Varmā (⟪राज रवि वर्मा⟫) (1848–1906) [Image source: Wikipedia, Public domain]
 
 **lekt1301**: ⟪महिषासुरः⟫ = Mahishasura Chamundi Hills, Mysore (Mysuru) [Image source: Prakash Subbarao / Wikipedia. -- Public domain]
 

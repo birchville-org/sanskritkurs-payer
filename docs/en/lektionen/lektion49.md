@@ -191,7 +191,7 @@ see:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer \<1944 - \>. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer (1944–). -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : to throw, to hurl
 
@@ -254,7 +254,7 @@ Fig.: ⟪उत्तमा काला शिवो नटराजा⟫, 11t
 Fig.: ⟪विहंगः⟫
 (Image source: [Details](/en/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: garment, appearance, outward form
+⟪वेष⟫ m.: garment, appearance, exterior
 
 ::: media
 ![](/images/lekt4904.webp)

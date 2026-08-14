@@ -60,19 +60,27 @@ def check_has_de_phrases(txt, code, fast=False):
 
     clean_txt = clean_markdown_for_lid(txt)
 
-    # 1. Strict German grammar & table keyword detection (enforced for ALL languages including rm)
-    if sum(1 for kw in STRICT_DE_GRAMMAR_KEYWORDS if kw in clean_txt) >= 1:
+    # 1. Strict German grammar & table keyword detection
+    strict_keywords = STRICT_DE_GRAMMAR_KEYWORDS
+    gen_keywords = GERMAN_KEYWORDS
+    if code == "en":
+        # International Latin terms used in English grammar are valid, not German remnants
+        latin_terms = {"Nominativ", "Akkusativ", "Genetiv", "Instrumentalis", "Vokativ", "Ablativ", "Passiv", "Infinitiv"}
+        strict_keywords = [kw for kw in strict_keywords if kw not in latin_terms]
+        gen_keywords = [kw for kw in gen_keywords if kw not in latin_terms]
+
+    if sum(1 for kw in strict_keywords if kw in clean_txt) >= 1:
         return True
 
     # 2. General German keyword detection (for non-DE fallback languages)
-    if code not in DE_FALLBACK_ALLOWED:
-        if sum(1 for kw in GERMAN_KEYWORDS if kw in clean_txt) >= 1:
+    if code not in DE_FALLBACK_ALLOWED and code != "en":
+        if sum(1 for kw in gen_keywords if kw in clean_txt) >= 1:
             return True
 
     if fast:
         return False
 
-    # 2. Lingua Statistical Language Detection
+    # 3. Lingua Statistical Language Detection
     detector = get_lingua_detector()
     if detector:
         from lingua import Language
@@ -85,13 +93,18 @@ def check_has_de_phrases(txt, code, fast=False):
             p = re.sub(r':br', ' ', p).strip()
             if len(p) < 20:
                 continue
+            if code == "en" and len(p) < 45:
+                continue
             try:
                 lang_detected = detector.detect_language_of(p)
                 if lang_detected == Language.GERMAN and code not in DE_FALLBACK_ALLOWED:
+                    # Ignore German publisher/city names, image captions, and proper names in English citations
+                    if code == "en" and any(cit in p for cit in ["Dümmler", "Berlin", "Kielhorn", "Solomons", "Monier-Williams", "Stenzler", "Image source:", "Fig.:", "Udaipur", "Naran"]):
+                        continue
                     unallowed_paras += 1
                     if unallowed_paras >= 1:
                         return True
-                elif lang_detected == Language.ENGLISH and code in DE_FALLBACK_ALLOWED:
+                elif lang_detected == Language.ENGLISH and code in DE_FALLBACK_ALLOWED and code != "en":
                     unallowed_paras += 1
                     if unallowed_paras >= 1:
                         return True

@@ -677,7 +677,7 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
 ::: indent
 ⟪ततो मारबलं जित्वा धैर्येण च शमेन च । परमार्थं विजिज्ञासुः स दद्ध्यौ ध्यानकोविदः ॥१॥ सर्वेषु ध्यानविधिषु प्राप्य चैश्वर्यमुत्तमम् । सस्मार प्रथमे याम पूर्वजन्मपरंपराम् ॥२॥ अमुत्राहमयं नाम च्युतस्तस्मादिहागतः । इति जन्मसहस्राणि सस्मारानुभवन्निव ॥३॥ स्मृत्वा जन्म च मृत्युं च तासु तासूपपत्तिषु । ततः सत्त्वेषु कारुण्यम् चकार करुणात्मकः ॥४॥ कृत्वेह स्वजनोत्सर्गम् पुनरन्यत्र च कृत्वा । अत्राणः खलु लोको ऽयम् परिभ्रमति चक्रवत् ॥५॥ इत्येवं स्मरतस्तस्य बभूव नियतात्मनः । कदलीगर्भनिःसारः संसार इति निश्चयः ॥६॥ द्वितीये त्वागते यामे सो ऽद्वितीयपराक्रमः । दिव्यं लेभे परं चक्षुः सर्वचक्षुष्मतां वरः ॥७॥ ततस्तेन स दिव्येन परिशुद्धेन चक्षुषा । ददर्श निखिलं लोकम् आदर्श इव निर्मले ॥८॥ सत्त्वानां पश्यतस्तस्य निकृष्टोत्कृष्तकर्मणाम् । प्रच्युतिं चोपपत्तिं च ववृधे करुणात्मता ॥९॥ इमे दुष्कृतकर्माणः प्राणिनो यान्ति दुर्गतिम् । इमे ऽन्ये शुभकर्माणः प्रतिष्ठन्ते त्रिविष्टपे ॥१०॥⟫
 :::
-## 52.9. Tasks during the semester break
+## 52.9. Assignments during the semester break
 
 With Lesson 52, the first semester (13 weeks × 4 class hours) of the Sanskrit course is concluded.
 
@@ -688,19 +688,19 @@ The following tasks should be completed during the semester break:
 2. Vocabulary words
 3. Stem forms
 2. Memorization of as many verses and prose texts from classical literature as possible
-3. Work through [Lesson 53](lektion53.md)
-4. Work through the sheets Bhg 1 - 11 (not yet online)
-5. Prepare ⟪भगवद्गीता⟫ Chapter 1, learn the associated vocabulary from the word lists (not yet online)
+3. Working through [Lesson 53](lektion53.md)
+4. Working through the sheets Bhg 1 - 11 (not yet available online)
+5. Preparation of ⟪भगवद्गीता⟫ Chapter 1, learning the associated vocabulary from the word lists (not yet available online)
 6. Metrical analysis of all verses from ⟪भगवद्गीता १⟫  
 A good impression of the text in recited form is provided by: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Accessed on 2009-01-19
-7. Read a ⟪महाभारत⟫ retelling, e.g.,  
-Mahābhārata : India's great epic / translated and condensed from Sanskrit by Biren Roy. -- 10th ed. -- Munich : Diederichs, 1995. -- 335 p. ; 19 cm. -- (Diederichs yellow series ; 16 : India)
-8. Work through:  
+7. Reading a ⟪महाभारत⟫ retelling, e.g.,  
+Mahābhārata : India's great epic / translated from Sanskrit and compiled by Biren Roy. -- 10th ed. -- Munich : Diederichs, 1995. -- 335 p. ; 19 cm. -- (Diederichs yellow series ; 16 : India)
+8. Working through:  
 **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Self-published, 1983. -- 818 p. ; 23 cm. -- pp. 208 - 254 (Syntactical government)
-9. Complete work through:  
-**Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**The wonder that was IndiaPart: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
-10. Begin work through:  
-**Winternitz, Moriz \&lt;1863 - 1937\&gt;:** History of Indian literature. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (still by far the best literary history of Sanskrit, Pali, and Prakrit literature)
+9. Fully working through:  
+**Basham, A. L. (Arthur Llewellyn) (1914–1986)** The wonder that was India Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
+10. Beginning with the working through of:  
+**Winternitz, Moriz (1863–1937):** History of Indian literature. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (still by far the best literary history of Sanskrit, Pali, and Prakrit literature)
 
 ::: media
 ![](/images/lekt5201.webp)

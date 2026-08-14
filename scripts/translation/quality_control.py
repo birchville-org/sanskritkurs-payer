@@ -26,6 +26,10 @@ def scan_german_residues(content: str, target_lang: str = None) -> list:
     Returns a list of (line_index, line_text) tuples where residues were found.
     Ignores lines inside ::: deleteme-box containers and YAML frontmatter.
     """
+    # Languages where German prose is explicitly allowed as fallback
+    if target_lang in {'rm', 'la', 'grc', 'el', 'cop'}:
+        return []
+
     flagged = []
     in_frontmatter = False
     in_deleteme = False
@@ -56,13 +60,37 @@ def scan_german_residues(content: str, target_lang: str = None) -> list:
         if stripped.startswith(':::') or stripped == '---':
             continue
 
+        # Strip markdown link target URLs and HTTP URLs to avoid matching structural paths like /lektionen/
+        clean_line = re.sub(r'\]\(/[^)]+\)', ']', line)
+        clean_line = re.sub(r'https?://[^\s)]+', '', clean_line)
+
         # 1. Regex pattern match
-        if _DE_RESIDUE_PATTERNS.search(line):
-            flagged.append((i, line))
-            continue
+        m = _DE_RESIDUE_PATTERNS.search(clean_line)
+        if m:
+            if target_lang == 'en':
+                matched_word = m.group(0).strip().lower()
+                english_latin_terms = {
+                    "nominativ", "nominative", "nominatives",
+                    "akkusativ", "accusative", "accusatives",
+                    "genetiv", "genitive", "genitives",
+                    "instrumentalis", "instrumental", "instrumentals",
+                    "vokativ", "vocative", "vocatives",
+                    "ablativ", "ablative", "ablatives",
+                    "passiv", "passive", "passives",
+                    "infinitiv", "infinitive", "infinitives"
+                }
+                if matched_word not in english_latin_terms and matched_word.rstrip('s') not in english_latin_terms:
+                    flagged.append((i, line))
+                    continue
+            else:
+                flagged.append((i, line))
+                continue
 
         # 2. Morphological Language ID (for target languages other than German)
         if target_lang and target_lang != 'de' and _lang_detect:
+            # Skip markdown table rows and citation lines with German publisher/author names
+            if stripped.startswith('|') or any(cit in stripped for cit in ["Kielhorn", "Dümmler", "Berlin", "Stenzler", "Monier-Williams", "Solomons", "Image source:"]):
+                continue
             # Skip if line contains non-Latin scripts (Cyrillic, Devanagari, Arabic, Hebrew, Amharic, Coptic, Chinese, etc.)
             if any(ord(ch) > 0x024F for ch in stripped):
                 continue
