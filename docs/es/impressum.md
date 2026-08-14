@@ -31,4 +31,4 @@ Este texto es parte del Departamento de Sánscrito de **Tüpfli's Global Village
 - Código/Pipeline: [Licencia MIT [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)](https://opensource.org/licenses/MIT)
 
 **Forma de citación para las traducciones:**
-> Payer, Alois: Curso de Sánscrito. Traducido con apoyo de IA. Marco Demarmels (ed. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Curso de Sánscrito. Traducido con apoyo de IA. Marco Demarmels (ed. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0

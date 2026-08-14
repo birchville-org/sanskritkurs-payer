@@ -1,234 +1,239 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: "Ders 3"
+subtitle: "Dişil cinsiyetin tekil halinin nominativ hali"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 3 <!-- TODO: Fallback translation -->
+---
+
+# Ders 3
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- den Nominativ Singular des Femininums <!-- TODO: Fallback translation -->
-- den Nominativ Plural des Maskulinums und Femininums <!-- TODO: Fallback translation -->
-- die Bildung des Femininums zu Maskulina <!-- TODO: Fallback translation -->
-- Vokalsandhi <!-- TODO: Fallback translation -->
-- Satzsandhi von -ās <!-- TODO: Fallback translation -->
+**Bu derste şunları öğreneceksiniz:**
+Dişi cinsiyetin tekil durum hali (Nominativ Singular)
+Erkek ve dişi cinsiyetin çoğul durum hali (Nominativ Plural)
+Erkek köklerden dişi isim türetme
+Vokal sandhi (bitişik okuma) kuralı
+ās sonlu cümle içi sandhi kuralları
 :::
-## 3.1. Nominativ Singular des Femininums <!-- TODO: Fallback translation -->
+## 3.1. Dişi cinsiyetin tekil durum hali (Nominativ Singular)
 
-### 3.1.1. Nominativ Singular auf -s <!-- TODO: Fallback translation -->
+### 3.1.1. -s ile biten tekil durum hali
 
-Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**: <!-- TODO: Fallback translation -->
+Ayrıca, bir sesli harfle (vokal) biten aşağıdaki isim kökleri de tekil durum halini **-s** ile oluşturur:
 
 ::: grammar-box
-- **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫ <!-- TODO: Fallback translation -->
+**-i** ile biten dişil isimler: Örn. **śruti** f. "işitme" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
+**-u** ile biten dişil isimler: Örn. **dhenu** f. "sığır" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativ Singular ohne Endung <!-- TODO: Fallback translation -->
+### 3.1.2. Ek almayan tekil durum hali
 
-Den Nominativ Singular bilden ohne Endung: <!-- TODO: Fallback translation -->
+Tekil durum halini ek almadan şu şekilde oluştururlar:
 
 ::: grammar-box
-- **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = ⟪देवता⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = ⟪देवी⟫ <!-- TODO: Fallback translation -->
+**-ā** ile biten dişil isimler: Örn. **devatā** f. "tanrıça" -- Nom. sg.: **devatā** = ⟪देवता⟫
+**-ī** ile biten dişil isimler: Örn. **devī** f. "tanrıça" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
 ::: important
-**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Auch lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "Boot" und tantrī (⟪तन्त्री⟫) f. "Saite" bilden unregelmässig den Nominativ Singular auf -s: lakṣmīs = ⟪लक्ष्मीस्⟫. <!-- TODO: Fallback translation -->
+**Dikkat!** Bunların yanı sıra, tek heceli dişi kök isimler de -ī ile biter ancak tekil durum hali -s ile biter: Örn. dhī f. "düşünce" -- Nom. sg.: dhīs = ⟪धीस्⟫. Ayrıca lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "tekne" ve tantrī (⟪तन्त्री⟫) f. "tel" isimleri de düzensiz bir şekilde tekil durum halini -s ile oluşturur: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
-## 3.2. Bildung der Feminina zu Maskulina <!-- TODO: Fallback translation -->
+## 3.2. Erkek köklerden dişi isim türetme
 
 ::: grammar-box
-**Maskulina auf -a:** <!-- TODO: Fallback translation -->
-- **Femininum auf -ā**: z.B. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriyafrau" = ⟪क्षत्रिया⟫ <!-- TODO: Fallback translation -->
-- **Femininum auf -ī**: z.B. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫ <!-- TODO: Fallback translation -->
+**-a** ile biten erkek isimler:
+**-ā** ile biten dişi isim: Örn. **kṣatriya** m. » **kṣatriyā** f. "Kşatriya kadını" = ⟪क्षत्रिया⟫
+**-ī** ile biten dişi isim: Örn. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahman kadını" = ⟪ब्राह्मणी⟫
 
-**Maskulina auf -u:** <!-- TODO: Fallback translation -->
-- **Femininum auf -ī**: z.B. **sādhu** m. » **sādhvī** f. (gut, Heilige) = ⟪साध्वी⟫ <!-- TODO: Fallback translation -->
-  (**-u-** wird vor Vokal zu **-v-**, daher **-u- + -ī** » **-vī**) <!-- TODO: Fallback translation -->
+**-u** ile biten erkek isimler:
+**-ī** ile biten dişi isim: Örn. **sādhu** m. » **sādhvī** f. (iyi, azize) = ⟪साध्वी⟫
+(**-u-** sesli harften önce **-v-** olur, bu nedenle **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativ Plural Maskulinum und Femininum <!-- TODO: Fallback translation -->
+## 3.3. Çoğul Yalın Case Eril ve Dişil
 
 ::: grammar-box
-Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**. <!-- TODO: Fallback translation -->
-- **Maskulina auf -a**: **deva- + -as** » **devās** = ⟪देवास्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫ <!-- TODO: Fallback translation -->
-- **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫ <!-- TODO: Fallback translation -->
-- **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫ <!-- TODO: Fallback translation -->
+Çoğul Yalın Case ekleri Eril ve Dişilde **-as**'tır.
+**Eril -a ile bitenler**: **deva- + -as** » **devās** = ⟪देवास्⟫
+**Dişil -ā ile bitenler**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+**Eril -i ile bitenler**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+**Dişil -i ile bitenler**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+**Dişil -ī ile bitenler**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+**Eril -u ile bitenler**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+**Dişil -u ile bitenler**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
-Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**. <!-- TODO: Fallback translation -->
+Not: **e**, **i**'nin yüksek derecesidir (**guṇa**), **o** ise **u**'nun yüksektir.
 
-## 3.4. Vokalsandhi <!-- TODO: Fallback translation -->
+
+## 3.4. Vokal Sandhi
 
 ::: grammar-box
-**Einfache Vokale, die sich nicht oder nur in ihrer Länge unterscheiden, "verschmelzen" zum entsprechenden langen Vokal:** <!-- TODO: Fallback translation -->
-- -a / -ā + a- / ā- » **-ā-** <!-- TODO: Fallback translation -->
-- -i / -ī + i- / ī- » **-ī-** <!-- TODO: Fallback translation -->
-- -u / -ū + u- / ū- » **-ū-** <!-- TODO: Fallback translation -->
-- (-ṛ + ṛ- » **-ṝ-**) <!-- TODO: Fallback translation -->
+**Uzunlukları dışında birbirinden farklılaşmayan veya sadece uzunluk bakımından farklı olan basit ünlüler, karşılık gelen uzun ünlüyle "birleşir":**
+a / -ā + a- / ā- » **-ā-**
+i / -ī + i- / ī- » **-ī-**
+u / -ū + u- / ū- » **-ū-**
+(-ṛ + ṛ- » **-ṝ-**)
 :::
-z.B. <!-- TODO: Fallback translation -->
+Örneğin
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā bir ilahedir" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.) <!-- TODO: Fallback translation -->
+> (Annapūrṇā yiyeceklerin ve pişirmenin tanrıçasıdır; Şiva'nın eşi Pārvatī'nin bir tezahürü olarak kabul edilir.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪देवीन्द्राणी⟫ <!-- TODO: Fallback translation -->
+devī + indrāṇī » devīndrāṇī "Indrāṇī bir ilahedir" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī ist die Gattin des Gottes Indra.) <!-- TODO: Fallback translation -->
+> (Indrāṇī, tanrı Indra'nın eşidir.)
 
 ::: media
 ![](/images/lekt0301.webp)
-Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80
-(Bildquelle: [Details](/licenses#lekt0301)) <!-- TODO: Fallback translation -->
+Resim: Airavata filinin üzerinde Indra ve Indrāṇī, minyatür, Rājasthān, 1670/80
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt0301))
 :::
 
 ::: grammar-box
-**Einfache Vokale (ausser -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:** <!-- TODO: Fallback translation -->
-- -i / -ī » **-y-** <!-- TODO: Fallback translation -->
-- -u / -ū » **-v-** <!-- TODO: Fallback translation -->
-- -ṛ » **-r-** <!-- TODO: Fallback translation -->
-(!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!) <!-- TODO: Fallback translation -->
+**Basal ünlüler (-a / -ā hariç) benzer olmayan ünlülerden önce ilgili yarım ses ile değiştirilir:**
+i / -ī » **-y-**
+u / -ū » **-v-**
+ṛ » **-r-**
+(!! Bu kural için özellikle ikil formlarında istisnalar vardır !!)
 :::
-z.B. <!-- TODO: Fallback translation -->
+örn.
 
-devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫ <!-- TODO: Fallback translation -->
+devī + umā » devy umā "Umā bir / ilahedir" = ⟪देव्युमा⟫
 
-> (Umā ist ein Name für Pārvatī, die Gattin Śivas) <!-- TODO: Fallback translation -->
+> (Umā, Śiva'nın eşi Pārvatī için bir isimdir)
 
 ::: grammar-box
-**-a / -ā vor unähnlichem Vokal:** <!-- TODO: Fallback translation -->
-- -a / -ā + i- / ī- » **-e-** <!-- TODO: Fallback translation -->
-- -a / -ā + ṛ- » **-ar-** <!-- TODO: Fallback translation -->
-- -a / -ā + e- / ai- » **-ai-** <!-- TODO: Fallback translation -->
-- -a / -ā + o- / au- » **-au-** <!-- TODO: Fallback translation -->
+**-a / -ā benzer olmayan ünlüden önce:**
+a / -ā + i- / ī- » **-e-**
+a / -ā + ṛ- » **-ar-**
+a / -ā + e- / ai- » **-ai-**
+a / -ā + o- / au- » **-au-**
 :::
-Für diesen Sandhi gilt also folgendes Schema: <!-- TODO: Fallback translation -->
+Bu Sandhi için aşağıdaki şema geçerlidir:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Bildquelle: [Details](/licenses#lekt0302)) <!-- TODO: Fallback translation -->
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt0302))
 :::
-Zu dieser sog. Stammabstufung siehe später! <!-- TODO: Fallback translation -->
+Bu sözde kök derecelendirmeye bakınız!
 
-z.B. <!-- TODO: Fallback translation -->
+örn.
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫ <!-- TODO: Fallback translation -->
+śūdrā + itarā » śudretarā "Itarā bir Śüdra kadınıdır" = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās <!-- TODO: Fallback translation -->
+
+## 3.5. -ās için cümle Sandhi'si
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.** <!-- TODO: Fallback translation -->
+**-ās, tüm sesli harflerden önce -ā ile değiştirilir.**
 :::
-z.B. <!-- TODO: Fallback translation -->
+örn.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा⟫ ⟪वैश्याः⟫ <!-- TODO: Fallback translation -->
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaişyalar iki kere doğanlardır" = ⟪द्विजा वैश्याः⟫
 
-## 3.6. Wortliste <!-- TODO: Fallback translation -->
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+## 3.6. Kelime listesi
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's). <!-- TODO: Fallback translation -->
+**Aşağıdaki kelimeleri öğreniniz:**
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst: <!-- TODO: Fallback translation -->
-- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫) <!-- TODO: Fallback translation -->
-  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache <!-- TODO: Fallback translation -->
-  2. **chandas** n. (⟪छन्दस्⟫): Metrum <!-- TODO: Fallback translation -->
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik <!-- TODO: Fallback translation -->
-  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie <!-- TODO: Fallback translation -->
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre <!-- TODO: Fallback translation -->
-  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell <!-- TODO: Fallback translation -->
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer <!-- TODO: Fallback translation -->
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens <!-- TODO: Fallback translation -->
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten) <!-- TODO: Fallback translation -->
-- die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫) <!-- TODO: Fallback translation -->
-- die **purāṇa** n. (⟪पुराण⟫) <!-- TODO: Fallback translation -->
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit <!-- TODO: Fallback translation -->
+**śruti** f. = ⟪श्रुति⟫ : işitmek, ebedi gelenek (Vedalar ve Brāhmaṇa'lar için isim).
 
-**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke. <!-- TODO: Fallback translation -->
+**smṛti** f. = ⟪स्मृति⟫ : hatırlama, anımsama, meditasyonel hatırlama = dikkat, gelenek (**śruti**'nin karşıtı kavram). Şunları kapsar:
+altı **vedāṅga** n. (⟪वेदाङ्ग⟫)
+1. **śikṣā** f. (⟪शिक्षा⟫): doğru telaffuz
+2. **chandas** n. (⟪छन्दस्⟫): ölçü
+3. **vyākaraṇa** n. (⟪व्याकरण⟫): dilbilgisi
+4. **nirukta** n. (⟪निरुक्त⟫) : kelime açıklaması, etimoloji
+5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomi, takvim bilgisi
+6. **kalpa** m. (⟪कल्प⟫) : tören
+**śrautasūtra** n. (⟪श्रौतसूत्र⟫) : büyük kurbanların icrası için öğretiler
+**gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : günlük yaşamın törenleri ve kurbanları için öğretiler
+**dharmasūtra** n. (⟪धर्मसूत्र⟫) ve **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : hukuk ve adet üzerine öğretiler (doğru davranış)
+büyük destanlar **mahābhārata** n. (⟪महाभारत⟫) ve **rāmāyaṇa** n. (⟪रामायण⟫)
+**purāṇa** n. (⟪पुराण⟫)
+**nītiśāstra** n. (⟪नीतिशास्त्र⟫) : hayat bilgeliği üzerine öğretiler
 
-**dhenu** f. = ⟪धेनु⟫ : (Milch-)kuh. <!-- TODO: Fallback translation -->
+**smṛti**, özellikle Dharma öğretileri için de bir terimdir.
 
-**paśu** m. = ⟪पशु⟫ : domestiziertes Nutztier, Vieh (Kollektivum). <!-- TODO: Fallback translation -->
+**dhenu** f. = ⟪धेनु⟫ : (Süt) inek.
 
-**devatā** f. = ⟪देवता⟫ : Gottheit (abstrakt und konkret). <!-- TODO: Fallback translation -->
+**paśu** m. = ⟪पशु⟫ : evcilleştirilmiş hayvan, büyükbaş hayvan (topluluk ismi).
 
-**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin. <!-- TODO: Fallback translation -->
+**devatā** f. = ⟪देवता⟫ : ilah (soyut ve somut anlamda).
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya. <!-- TODO: Fallback translation -->
+**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahman kadın.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kadın Kṣatriya.
 
-**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya. <!-- TODO: Fallback translation -->
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : bir Kṣatriya'nın eşi.
 
-**śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra. <!-- TODO: Fallback translation -->
+**vaiśyā** f. = ⟪वैश्या⟫ : kadın Vaiśya.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra. <!-- TODO: Fallback translation -->
+**śūdrā** f. = ⟪शूद्रा⟫ : kadın Śūdra.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫. <!-- TODO: Fallback translation -->
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : bir Śūdra'nın eşi.
+
+**devī** f. = ⟪देवी⟫ : tanrıça, özellikle Durgā f. = ⟪दुर्गा⟫, Śiva'nın eşi = ⟪शिव⟫.
 
 ::: media
 ![](/images/lekt0303.webp)
-Abb.: Durgā = ⟪दुर्गा⟫, Orissa
-(Bildquelle: [Details](/images/lekt0303)) <!-- TODO: Fallback translation -->
+Resim: Durgā = ⟪दुर्गा⟫, Orissa
+(Resim kaynağı: [Detaylar](/images/lekt0303))
 :::
-**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu. <!-- TODO: Fallback translation -->
+**sādhvī** f. = ⟪साध्वी⟫ : sādhu'nun dişil hali.
 
-**gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru. <!-- TODO: Fallback translation -->
+**gurvī** f. = ⟪गुर्वी⟫ : guru'nun dişil hali.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw. <!-- TODO: Fallback translation -->
+**asmitā** f. = ⟪अस्मिता⟫ : "Benlik", yani yanlış inanç: **Ben** gören, vs. olanım.
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt). <!-- TODO: Fallback translation -->
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : felsefe (mantıken doğru gerekçelerle sonuçlarına ulaşan bilim).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut. <!-- TODO: Fallback translation -->
+**upekṣā** f. = ⟪उपेक्षा⟫ : görmezlik, kayıtsızlık.
 
-**karuṇā** f. = ⟪करुणा⟫ : Mitgefühl, Mitleid. <!-- TODO: Fallback translation -->
+**karuṇā** f. = ⟪करुणा⟫ : merhamet, acıma.
 
-**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid). <!-- TODO: Fallback translation -->
+**muditā** f. = ⟪मुदिता⟫ : sevinç, özellikle başkalarının mutluluğuna duyulan ortak sevinç (kıskançlığın zıddı).
 
-## 3.7. Übung <!-- TODO: Fallback translation -->
 
-**A) Setzen Sie folgende Sätze in den Plural:** <!-- TODO: Fallback translation -->
+## 3.7. Alıştırma
 
-1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫ <!-- TODO: Fallback translation -->
-3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫ <!-- TODO: Fallback translation -->
-4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-5. sādhur guruḥ = ⟪साधुर्गुरुः⟫ <!-- TODO: Fallback translation -->
-6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫ <!-- TODO: Fallback translation -->
-7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫ <!-- TODO: Fallback translation -->
-8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫ <!-- TODO: Fallback translation -->
-9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫ <!-- TODO: Fallback translation -->
-10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫ <!-- TODO: Fallback translation -->
+**A) Aşağıdaki cümleleri çoğula çevirin:**
 
-**B) Bilden Sie durch Einsetzen Nominalsätze:** <!-- TODO: Fallback translation -->
+1. dvijo brāhmaṇaḥ = ⟪द्विजो ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो वैश्यः⟫
+4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता गुरुः⟫
+9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
+10. gurvī sādhvī = ⟪गुर्वी साध्वी⟫
 
-1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫ <!-- TODO: Fallback translation -->
-2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫ <!-- TODO: Fallback translation -->
-3. devī ... (durgā, umā, indrāṇī) = ⟪देवी⟫ ... ⟪दुर्गा⟫, ⟪उमा⟫, ⟪इन्द्राणी⟫ <!-- TODO: Fallback translation -->
-4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫ <!-- TODO: Fallback translation -->
-5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫ <!-- TODO: Fallback translation -->
+**B) Nominal cümleler oluşturmak için yerine koyma yapınız:**
 
-**C) Übertragen Sie ins Femininum:** <!-- TODO: Fallback translation -->
+1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
+2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
+3. devī ... (durgā, umā, indrāṇī) = ⟪देवी⟫ ... ⟪दुर्गा⟫, ⟪उमा⟫, ⟪इन्द्राणी⟫
+4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
+5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
 
-1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-2. sādhur guruḥ = ⟪साधुर्गुरुः⟫ <!-- TODO: Fallback translation -->
-3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫ <!-- TODO: Fallback translation -->
+**C) Diil (feminine) çekimine çeviriniz:**
 
-**D) Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
+1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः साधुः⟫
 
-1. Umā ist eine Göttin. <!-- TODO: Fallback translation -->
-2. Der Veda ist śruti. <!-- TODO: Fallback translation -->
-3. Die Lehrerinnen sind Göttinnen. <!-- TODO: Fallback translation -->
-4. Milchkühe sind domestizierte Tiere. <!-- TODO: Fallback translation -->
-5. Dichter sind Lehrer. <!-- TODO: Fallback translation -->
-6. Kṣatriyas sind Zweimalgeborene. <!-- TODO: Fallback translation -->
-7. Die heiligen Männer sind Śūdras. <!-- TODO: Fallback translation -->
+**D) Sanskritçeye çeviriniz:**
+
+1. Umā bir tanrıçadır.
+Veda śrutidir.
+Öğretmenler tanrıçalardır.
+Süt inekleri evcilleştirilmiş hayvanlardır.
+Şairler öğretmendir.
+Kṣatriyalar ikinci kez doğmuşlardır (dvija).
+Kutsal erkekler Śūdradır.
 

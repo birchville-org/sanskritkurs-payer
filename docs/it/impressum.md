@@ -31,4 +31,4 @@ Questo testo fa parte del Dipartimento Sanscrito della **Biblioteca Tüpfli's Gl
 - Codice/Pipeline: [Licenza MIT [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)](https://opensource.org/licenses/MIT)
 
 **Modalità di citazione per le traduzioni:**
-> Payer, Alois: Sanskritkurs. Tradotto con supporto IA. Marco Demarmels (a cura di [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Sanskritkurs. Tradotto con supporto IA. Marco Demarmels (a cura di [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0

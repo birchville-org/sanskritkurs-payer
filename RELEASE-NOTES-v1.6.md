@@ -23,5 +23,5 @@ Alle bisherigen Übersetzungs-Jobs (Indonesisch, Hindi, Tamil, Arabisch und Vere
 
 ## 💻 QA & Architektur
 
-- **Payer QA Mode Integrity:** Der QA-Mode (`qa_viewer.html`) wurde erfolgreich durch Build-Eingriffe in der `config.mjs` vor der Auslieferung geschützt, sodass keine ungewollten Zugriffe auf den Editor im Produktions-Build (z.B. auf `payer.birchville.cc`) möglich sind.
+- **Payer QA Mode Integrity:** Der QA-Mode (`qa_viewer.html`) wurde erfolgreich durch Build-Eingriffe in der `config.mjs` vor der Auslieferung geschützt, sodass keine ungewollten Zugriffe auf den Editor im Produktions-Build (z.B. auf `payer.birchville.org`) möglich sind.
 - Die VitePress-Build-Pipeline läuft nun fehlerfrei über die absolut synchronisierten und validierten Markdown-Dateien aller freigeschalteten Locales.

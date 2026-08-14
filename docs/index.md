@@ -23,7 +23,7 @@ features:
 ---
 
 ::: note-box  Version 1.6.4 — Global Integrity, SSOT & Stabilität
-**Neu in v1.6.4 (Juli 2026):**
+**[Neu in v1.6.4 (August 2026)](/release-notes):**
 
 - **100% Completion in 21 Zielsprachen:** 21 Sprachen (darunter Altgriechisch, Suomi, Magyar, Arabisch, Hebräisch, Latein, Vereinfachtes Chinesisch u.v.m.) sind nun vollständig ohne Fallbacks übersetzt und unter einer absoluten Total-Sperre schreibgeschützt.
 - **Vollständige UI-Lokalisierung (SSOT):** Sämtliche Navigations- und Steuerelemente (Vorherige/Nächste Lektion, Übungen, Inhaltsverzeichnis) werden in allen 32 Sprachen dynamisch über ein zentrales Sprachregister bereitgestellt.

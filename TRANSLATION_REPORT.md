@@ -1,16 +1,16 @@
 📊 Translation Status Report (Master-Basis: 136 Dateien)
-Timestamp: 2026-08-14 06:53:46 CEST
-Vergleich zum letzten Bericht: `2026-08-14 06:53:11 CEST`
+Timestamp: 2026-08-14 08:00:02 CEST
+Vergleich zum letzten Bericht: `2026-08-14 07:30:02 CEST`
 
 ✅ **2 Sprachen vollständig fertig (100%, 0 Fallbacks):** `en`, `ru`
 
 🎯 Aktuell in Übersetzung (Höchste Prozentzahl unter 100%):
 
 Sprache: 🇹🇷 Türkçe (tr)
-Prozess-PID: 63115 (`/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python scripts/lan_translate.py --lang tr -f` – Ungepuffert & Aktiv, CPU-Time: 0:00.06)
-Aktuelle Datei / Chunk-Fortschritt: `index.md` (Sektion 1/1 Chunks – 100.0% dieser Datei) | Gesamt: **0/136 Dateien (0.0%)**
-Pipeline-Queue (139 Dateien ausstehend): `index.md` (Fehlt (neu)), `grammatik.md` (Fehlt (neu)), `themen.md` (Fehlt (neu)), `impressum.md` (Fehlt (neu)), `lektion01.md` (Veraltet), `lektion02.md` (Veraltet), `lektion03.md` (Veraltet), `lektion04.md` (Veraltet) ... (+131 weitere)
-Delta zum letzten Bericht: **+74 FB**
+Prozess-PID: 63115 (`/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python scripts/lan_translate.py --lang tr -f` – Ungepuffert & Aktiv, CPU-Time: 0:00.84)
+Aktuelle Datei / Chunk-Fortschritt: `lektion06.md` (Sektion 1/1 Chunks – 100.0% dieser Datei) | Gesamt: **5/136 Dateien (3.7%)**
+Pipeline-Queue (131 Dateien ausstehend): `lektion01.md` (Veraltet), `lektion06.md` (Veraltet), `lektion07.md` (Veraltet), `lektion08.md` (DE-Reste), `lektion09.md` (Veraltet), `lektion10.md` (Veraltet), `lektion11.md` (DE-Reste), `lektion12.md` (Veraltet) ... (+123 weitere)
+Delta zum letzten Bericht: **+3 Sauber | Δ +2.2%**
 Server: 100% KOSTENLOS über den lokalen Server (`nyx.local:8000`).
 Performance: ⚡ Aktiv (Warte auf ersten Chunk) – *Neustart-Schwelle: < 5.0 t/s*
 
@@ -39,7 +39,8 @@ Performance: ⚡ Aktiv (Warte auf ersten Chunk) – *Neustart-Schwelle: < 5.0 t/
 | `af` | Afrikaans | 7/136 | 103 | 129 Dateien | — | 5.1% | ⌛ In Warteschlange |
 | `lt` | Lietuvių | 7/136 | 103 | 129 Dateien | — | 5.1% | ⌛ In Warteschlange |
 | `sq` | Shqip | 7/136 | 103 | 129 Dateien | — | 5.1% | ⌛ In Warteschlange |
-| `bg` | Български | 6/136 | 105 | 130 Dateien | — | 4.4% | 🔄 Nächste Sprache |
+| `bg` | Български | 6/136 | 106 | 130 Dateien | — | 4.4% | 🔄 Nächste Sprache |
+| `tr` | Türkçe | 5/136 | 90 | 131 Dateien | +3 Sauber | Δ +2.2% | 3.7% | 🎯 Aktiv (`lektion06.md` Sektion 1/1) |
 | `fi` | Suomi | 5/136 | 115 | 131 Dateien | — | 3.7% | ⌛ In Warteschlange |
 | `cop` | ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ | 4/136 | 106 | 132 Dateien | — | 2.9% | ⌛ In Warteschlange |
 | `nl` | Nederlands | 3/136 | 107 | 133 Dateien | — | 2.2% | ⌛ In Warteschlange |
@@ -47,5 +48,4 @@ Performance: ⚡ Aktiv (Warte auf ersten Chunk) – *Neustart-Schwelle: < 5.0 t/
 | `pt` | Português | 2/136 | 112 | 134 Dateien | — | 1.5% | ⌛ In Warteschlange |
 | `vi` | Tiếng Việt | 0/136 | 16 | 139 Dateien | — | 0.0% | ⌛ In Warteschlange |
 | `zu` | isiZulu | 0/136 | 16 | 139 Dateien | — | 0.0% | ⌛ In Warteschlange |
-| `tr` | Türkçe | 0/136 | 90 | 139 Dateien | +74 FB | 0.0% | 🎯 Aktiv (`index.md` Sektion 1/1) |
 | `zh` | 繁體中文 | 0/136 | 110 | 139 Dateien | — | 0.0% | ⌛ In Warteschlange |

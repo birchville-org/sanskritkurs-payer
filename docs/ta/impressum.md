@@ -31,5 +31,5 @@ title: தகவல் & மேற்கோள்
 - குறியீடு/குழாய்: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
 **மொழிபெயர்ப்புகளுக்கான மேற்கோள் வடிவம்:**
-> Payer, Alois: Sanskritkurs. மொழிபெயர்க்கப்பட்டது கே.ஈ. உதவியுடன். Marco Demarmels (தொகுப்பாளர் [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Sanskritkurs. மொழிபெயர்க்கப்பட்டது கே.ஈ. உதவியுடன். Marco Demarmels (தொகுப்பாளர் [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0
 

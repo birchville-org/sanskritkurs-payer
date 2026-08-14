@@ -33,5 +33,5 @@ title: "Στοιχεία έκδοσης & Παραπομπή"
 - Κώδικας/Υποδομή: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
 **Τρόπος παραπομπής για τις μεταφράσεις:**
-> Payer, Alois: Sanskritkurs. Μεταφράστηκε με υποστήριξη τεχνητής νοημοσύνης. Marco Demarmels (επιμ. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Sanskritkurs. Μεταφράστηκε με υποστήριξη τεχνητής νοημοσύνης. Marco Demarmels (επιμ. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0
 

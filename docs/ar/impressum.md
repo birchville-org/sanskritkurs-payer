@@ -31,4 +31,4 @@ title: Impressum & Zitieren
 - الكود/الخط: [رخصة MIT [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)](https://opensource.org/licenses/MIT)
 
 **كيفية الاقتباس للترجمات:**
-> باير، ألويس: دورة السنسكريت. مترجمة بمساعدة الذكاء الاصطناعي. ماركو ديمارميلز (محرر)، 2026. الرابط: https://payer.birchville.cc — CC BY-SA 4.0
+> باير، ألويس: دورة السنسكريت. مترجمة بمساعدة الذكاء الاصطناعي. ماركو ديمارميلز (محرر)، 2026. الرابط: https://payer.birchville.org — CC BY-SA 4.0

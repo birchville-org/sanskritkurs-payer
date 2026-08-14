@@ -1,8 +1,9 @@
 ---
 layout: doc
-title: Settings
+title: "[Ayarlar]"
+
 ---
 
 <ClientOnly>
-  <PayerLanguageSettings />
+<PayerLanguageSettings />
 </ClientOnly>

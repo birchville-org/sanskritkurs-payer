@@ -31,4 +31,4 @@ title: Impressum & Zitieren
 - 代码/流程：[MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
 **翻译的引用方式：**
-> Payer, Alois: Sanskritkurs. 在 AI 辅助下翻译。Marco Demarmels (编 [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026。URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Sanskritkurs. 在 AI 辅助下翻译。Marco Demarmels (编 [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026。URL: https://payer.birchville.org — CC BY-SA 4.0

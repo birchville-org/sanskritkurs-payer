@@ -33,5 +33,5 @@ Ez a szöveg **Tüpfli Global Village Library** Sanszkrit részének része.
 - Kód/pipeline: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
 **Idézési mód a fordításokhoz:**
-> Payer, Alois: Szanszkrit kurzus. AI-támogatással lefordítva. Marco Demarmels (szerk. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Szanszkrit kurzus. AI-támogatással lefordítva. Marco Demarmels (szerk. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0
 

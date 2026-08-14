@@ -31,7 +31,7 @@ title: Витримання авторських прав та цитуванн�
 - Код/конвеєр: [Ліцензія MIT [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)](https://opensource.org/licenses/MIT)
 
 **Рекомендації щодо цитування перекладів:**
-> Payer, Alois: Sanskritkurs. Перекладено за допомогою ШІ. Редактор: Marco Demarmels, 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Sanskritkurs. Перекладено за допомогою ШІ. Редактор: Marco Demarmels, 2026. URL: https://payer.birchville.org — CC BY-SA 4.0
 
 
 

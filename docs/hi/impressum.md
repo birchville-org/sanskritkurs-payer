@@ -32,5 +32,5 @@ title: "प्रकाशन विवरण और उद्धरण"
 - कोड/पाइपलाइन: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
 **अनुवादों के लिए उद्धरण विधि:**
-> पेयर, अलोइस: संस्कृत पाठ। AI सहायता से अनुवादित। मार्को डेमार्मेल (संपादक [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> पेयर, अलोइस: संस्कृत पाठ। AI सहायता से अनुवादित। मार्को डेमार्मेल (संपादक [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0
 

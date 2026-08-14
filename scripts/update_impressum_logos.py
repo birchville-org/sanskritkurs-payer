@@ -4,7 +4,7 @@ import re
 cc_button_regex = r'\[!\[CC BY-SA 4\.0\]\(https://licensebuttons\.net/l/by-sa/4\.0/80x15\.png\)\]\(https://creativecommons\.org/licenses/by-sa/4\.0/\)\s*'
 
 github_logo_html = ' [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/birchville-org/sanskritkurs-payer)'
-birchville_logo_html = ' [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)'
+birchville_logo_html = ' [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)'
 
 updated_files = 0
 for filepath in glob.glob('/Volumes/SanDisk1TB/proj/Payer/docs/**/impressum.md', recursive=True):

@@ -1,236 +1,242 @@
 ---
-title: Lektion 2
-subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
+title: "Ders 2"
+subtitle: "İsim cümlesi ve çekimlemenin temelleri"
 lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
---- <!-- TODO: Fallback translation -->
 
-# Lektion 2 <!-- TODO: Fallback translation -->
+---
 
-## 2.1. Der Nominalsatz <!-- TODO: Fallback translation -->
+# Ders 2
 
-::: grammar-box
-**Schema: Prädikatsnomen - Subjekt** <!-- TODO: Fallback translation -->
 
-z.B. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu ist ein Gott." <!-- TODO: Fallback translation -->
-:::
-Eine verbale Kopula ("ist", "sind", "bin", "bist", "seid") ist nicht nötig, kann aber manchmal vorkommen. <!-- TODO: Fallback translation -->
-
-Es gibt **keine Artikel**: **devaḥ** -- ⟪देवः⟫ kann bedeuten "der Gott" oder "ein Gott". <!-- TODO: Fallback translation -->
-
-Obwohl im Sanskrit die Satzstellung ziemlich frei ist (besonders in Versen), muss man bei der Übersetzung eines Nominalsatzes immer in erster Linie eine Übersetzung gemäss obigem Standardschema in Betracht ziehen. <!-- TODO: Fallback translation -->
-
-Im Nominalsatz steht das Subjekt im Nominativ (ersten Fall = **prathamā** f. = ⟪प्रथमा⟫). Das Prädikatsnomen stimmt mit dem Subjekt in Zahl und Fall überein; wenn das Prädikatsnomen ein Adjektiv ist, auch im Geschlecht. <!-- TODO: Fallback translation -->
-
-## 2.2. Zur Deklination (Beugung von Nomina) <!-- TODO: Fallback translation -->
-
-Im Sanskrit gibt es: <!-- TODO: Fallback translation -->
-
-- **drei Numeri** (Zählformen) = **vacana** n. -- ⟪वचन⟫ <!-- TODO: Fallback translation -->
-  - Singular (Einzahl) = **ekavacana** n. -- ⟪एकवचन⟫ <!-- TODO: Fallback translation -->
-  - Dual (Zweizahl) = **dvivacana** n. -- ⟪द्विवचन⟫ <!-- TODO: Fallback translation -->
-  - Plural (Mehrzahl) = **bahuvacana** n. -- ⟪बहुवचन⟫ <!-- TODO: Fallback translation -->
-- **drei Genera** (grammatische Geschlechter) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫ <!-- TODO: Fallback translation -->
-  - Maskulinum (männlich) = **puṃs** m. -- ⟪पुंस्⟫ <!-- TODO: Fallback translation -->
-  - Femininum (weiblich) = **strī** f. -- ⟪स्त्री⟫ <!-- TODO: Fallback translation -->
-  - Neutrum (sächlich) = **napuṃsaka** n. -- ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-- **acht Kasus** (Fälle) = **sup** -- ⟪सुप्⟫ (= Kasusendungen) <!-- TODO: Fallback translation -->
-
-Zur Deklination treten die Kasusendungen (**sup** = ⟪सुप्⟫) an den sogenannten **Nominalstamm** (Form des Nomens ohne Kasusendungen). <!-- TODO: Fallback translation -->
-
-Beispiel: **devas** = ⟪देवस्⟫ (Nominativ Singular Maskulinum) "der/ein Gott" = **deva-** -- ⟪देव⟫- (Nominalstamm) + **-s** -- -⟪स्⟫ (Kasusendung). <!-- TODO: Fallback translation -->
-
-In Sanskritwörterbüchern werden Nomina im **Nominalstamm** angeführt: <!-- TODO: Fallback translation -->
-- **deva** m. -- ⟪देव⟫ m. (maskulin) <!-- TODO: Fallback translation -->
-- **vacana** n. -- ⟪वचन⟫ n. (neutrum) <!-- TODO: Fallback translation -->
-- **vyakti** f. -- ⟪व्यक्ति⟫ f. (femininum) <!-- TODO: Fallback translation -->
-
-## 2.3. Der Nominativ Singular <!-- TODO: Fallback translation -->
-
-**Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫** <!-- TODO: Fallback translation -->
+## 2.1. İsim Cümlesi
 
 ::: grammar-box
-**Der Nominativ Singular endet auf -s = -⟪स्⟫ bzw. ist endungsfrei.** <!-- TODO: Fallback translation -->
-:::
-### 2.3.1. Nominativ Singular auf -s <!-- TODO: Fallback translation -->
+**Şema: Yüklem İsmi - Özne**
 
-Folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**: <!-- TODO: Fallback translation -->
+örn. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu bir tanrıdır."
+:::
+Fiilsel bir kopula ("dir", "lar", "im", "sin", "siniz") gerekli değildir, ancak bazen ortaya çıkabilir.
+
+**Belirteç yoktur**: **devaḥ** -- ⟪देवः⟫ "tanrı" veya "bir tanrı" anlamına gelebilir.
+
+Sanskrit'te cümle dizilimi oldukça serbest olsa da (özellikle şiirlerde), bir isim cümlesini çevirirken her zaman öncelikle yukarıdaki standart şemaya uygun bir çeviri göz önünde bulundurulmalıdır.
+
+İsim cümlesinde özne Yalın halde bulunur (ilk hâl = **prathamā** f. = ⟪प्रथमा⟫). Yüklem ismi, özne ile sayı ve hâl bakımından uyum gösterir; yüklem ismi bir sıfat ise cinsiyet açısından da.
+
+
+## 2.2. Çekim Hakkında (İsimlerin Çekimi)
+
+Sanskrit'te şunlar vardır:
+
+**üç say** (sayı biçimleri) = **vacana** n. -- ⟪वचन⟫
+Tekil (tek sayı) = **ekavacana** n. -- ⟪एकवचन⟫
+İkil (iki sayı) = **dvivacana** n. -- ⟪द्विवचन⟫
+Çoğul (çok sayı) = **bahuvacana** n. -- ⟪बहुवचन⟫
+**üç cins** (dilbilgisel cinsiyetler) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
+Eril (er cins) = **puṃs** m. -- ⟪पुंस्⟫
+Dişil (diş cins) = **strī** f. -- ⟪स्त्री⟫
+Nötr (dişil-eril olmayan) = **napuṃsaka** n. -- ⟪नपुंसक⟫
+**sekiz hâl** (çatı) = **sup** -- ⟪सुप्⟫ (= hâl ekleri)
+
+Çekime, hâl ekleri (**sup** = ⟪सुप्⟫), sözde **isim kökü**ne (hâl ekleri olmadan isim biçimi) gelir.
+
+Örnek: **devas** = ⟪देवस्⟫ (Yalın Hal Tekil Eril) "tanrı/bir tanrı" = **deva-** -- ⟪देव⟫- (İsim kökü) + **-s** -- -⟪स्⟫ (Hal eki).
+
+Sanskrit sözlüklerinde isimler **İsim kökü** olarak verilir:
+**deva** m. -- ⟪देव⟫ m. (eril)
+**vacana** n. -- ⟪वचन⟫ n. (nötr)
+**vyakti** f. -- ⟪व्यक्ति⟫ f. (dişil)
+
+
+## 2.3. Yalın Hal Tekil
+
+**Yalın Hal Tekil = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫**
 
 ::: grammar-box
-**Maskulina auf -a:** z.B. deva m. = ⟪देव⟫ "Gott" -- Nom. sg.: devas = ⟪देवस्⟫
-**Maskulina auf -i:** z.B. kavi m. = ⟪कवि⟫ "Dichter" -- Nom. sg.: kavis = ⟪कविस्⟫
-**Maskulina auf -u:** z.B. guru m. = ⟪गुरु⟫ "Lehrer" -- Nom. sg.: gurus = ⟪गुरुस्⟫ <!-- TODO: Fallback translation -->
+**Yalın Hal Tekil -s ile biter = -⟪स्⟫ ya da ek almadan sonlanır.**
+:::
+### 2.3.1. -s ile biten Yalın Hal Tekil
+
+Ünlü ile biten aşağıdaki isim kökleri Yalın Hal Tekil'i **-s** ile oluşturur:
+
+::: grammar-box
+**-a ile biten Eriller:** örn. deva m. = ⟪देव⟫ "tanrı" -- Yalın. sg.: devas = ⟪देवस्⟫
+**-i ile biten Eriller:** örn. kavi m. = ⟪कवि⟫ "şair" -- Yalın. sg.: kavis = ⟪कविस्⟫
+**-u ile biten Eriller:** örn. guru m. = ⟪गुरु⟫ "öğretmen" -- Yalın. sg.: gurus = ⟪गुरुस्⟫
 :::
 
-## 2.4. Sandhi -- ⟪सन्धि⟫ <!-- TODO: Fallback translation -->
+## 2.4. Sandhi -- ⟪सन्धि⟫
 
-Der Auslaut eines Wortes richtet sich im Sanskrit auch nach dem Anlaut des darauffolgenden Wortes. Diese Erscheinung nennt man **Sandhi** (m.) = ⟪सन्धि⟫ ("Verbindung"). <!-- TODO: Fallback translation -->
+Sanskrit'te bir kelimenin sonu, ardından gelen kelimenin başına göre de şekillenir. Bu olguya **Sandhi** (m.) = ⟪सन्धि⟫ ("bağlantı") denir.
 
-### 2.4.1. Sandhi von auslautendem -s <!-- TODO: Fallback translation -->
+### 2.4.1. Sonda -s olan Sandhi
 
-Siehe auch die Übersicht: <!-- TODO: Fallback translation -->
+Ayrıca şuna bakınız:
 
-> **Payer, Alois \<1944 - \>:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm <!-- TODO: Fallback translation -->
+> **Payer, Alois (1944–):** Sonda -s olan Sandhi. -- (Sanskrit Materyalleri). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Auslautendes **-s**: <!-- TODO: Fallback translation -->
+Sonda **-s**:
 
-- **im absoluten Auslaut** (Satzende) wird es zu **Visarga (-ḥ)**: <!-- TODO: Fallback translation -->
-  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫ <!-- TODO: Fallback translation -->
-  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫ <!-- TODO: Fallback translation -->
-  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫ <!-- TODO: Fallback translation -->
+**mutlak son** (cümle sonu) durumunda **Visarga (-ḥ)** olur:
+**devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
+**kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
+**gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
-- **vor stimmlosen Lauten**: <!-- TODO: Fallback translation -->
-  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)** <!-- TODO: Fallback translation -->
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva ist ein Gott") <!-- TODO: Fallback translation -->
-  - vor **c, ch**: wird zu **-ś** <!-- TODO: Fallback translation -->
-  - vor **ṭ, ṭh**: wird zu **-ṣ** <!-- TODO: Fallback translation -->
-  - vor **t, th**: bleibt **-s** <!-- TODO: Fallback translation -->
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya ist ein Heiliger") <!-- TODO: Fallback translation -->
+**Ünsüz seslerden önce**:
+**k, kh, p, ph** ve **ś, ṣ, s** seslerinden önce: **Visarga (-ḥ)**'ye dönüşür
+**devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः शिवः⟫ ("Śiva bir tanrıdır")
+**c, ch** seslerinden önce: **-ś**'ye dönüşür
+**ṭ, ṭh** seslerinden önce: **-ṣ**'ye dönüşür
+**t, th** seslerinden önce: **-s** olarak kalır
+**sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya bir azizdir")
 
-- **vor stimmhaften Lauten**: <!-- TODO: Fallback translation -->
-  - nach Nicht-a-Vokalen: wird zu **-r** <!-- TODO: Fallback translation -->
-    - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha ist ein Dichter") <!-- TODO: Fallback translation -->
-  - nach Nicht-a-Vokalen vor **r-**: **-s** fällt aus, der Vokal wird gedehnt. <!-- TODO: Fallback translation -->
-    - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma ist ein Lehrer") <!-- TODO: Fallback translation -->
-  - nach **a-**: **-as** <!-- TODO: Fallback translation -->
-    - vor stimmhaften Konsonanten/a: wird zu **-o** (anlautendes a fällt weg » ⟪ऽ⟫) <!-- TODO: Fallback translation -->
-      - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫ <!-- TODO: Fallback translation -->
-      - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫ <!-- TODO: Fallback translation -->
-    - vor anderen Vokalen: wird zu **-a** (Hiatus) <!-- TODO: Fallback translation -->
-      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫ <!-- TODO: Fallback translation -->
+**Ünsüz olmayan seslerden önce**:
+A dışı ünlülerden sonra: **-r**'e dönüşür
+**kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha bir şairdir")
+A dışı ünlülerden sonra **r-** öncesinde: **-s** düşer, ünlü uzatılır.
+**gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू रामः⟫ ("Rāma bir öğretmendir")
+**a-** dan sonra: **-as**
+Ünsüz olmayan seslerden önce/a'dan sonra: **-o**'ya dönüşür (başlangıçtaki a düşer » ⟪ऽ⟫)
+**devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो विष्णुः⟫
+**devas agnis** » **devo 'gniḥ** = ⟪देवो ऽग्निः⟫
+Diğer ünlülerden önce: **-a**'ya dönüşür (Hiatus)
+**devas + indras** » **deva indraḥ** = ⟪देव इन्द्रः⟫
 
-## 2.5. Wortliste <!-- TODO: Fallback translation -->
 
-**deva** m. -- ⟪देव⟫ : Himmlischer, Gott; Fürst, König. <!-- TODO: Fallback translation -->
+## 2.5. Kelime Listesi
 
-**īśvara** m. -- ⟪ईश्वर⟫ : Herr, Herrscher, Gott (monotheistisch). <!-- TODO: Fallback translation -->
+**deva** m. -- ⟪देव⟫ : Göksel, Tanrı; Prens, Kral.
 
-**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmane (geistlicher Stand). <!-- TODO: Fallback translation -->
+**īśvara** m. -- ⟪ईश्वर⟫ : Efendi, Hükümdar, Tanrı (monoteistik).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (Fürsten- und Wehrstand). <!-- TODO: Fallback translation -->
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahman (dinî sınıf).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand). <!-- TODO: Fallback translation -->
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (Prens ve askerî sınıf).
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand). <!-- TODO: Fallback translation -->
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Tarım ve tüccar sınıfı).
+
+**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Hizmet sınıfı).
 
 ::: note-box Die vier Stände (varna)
-Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt: <!-- TODO: Fallback translation -->
+Klasik teoriye göre (örneğin Manusmṛti I, 88-91) görevler şu şekilde dağıtılmıştır:
 
-- **der Brahmanen** <!-- TODO: Fallback translation -->
-  - Vedastudium <!-- TODO: Fallback translation -->
-  - Lehre <!-- TODO: Fallback translation -->
-  - Opfer für sich <!-- TODO: Fallback translation -->
-  - Opfer für andere <!-- TODO: Fallback translation -->
-  - Geben <!-- TODO: Fallback translation -->
-  - Empfangen von Gaben <!-- TODO: Fallback translation -->
-- **der Kṣatriyas** <!-- TODO: Fallback translation -->
-  - das Volk schützen <!-- TODO: Fallback translation -->
-  - Gaben (an Brahmanen) geben <!-- TODO: Fallback translation -->
-  - für sich opfern <!-- TODO: Fallback translation -->
-  - Vedastudium <!-- TODO: Fallback translation -->
-- **der Vaiśyas** <!-- TODO: Fallback translation -->
-  - Viehhaltung <!-- TODO: Fallback translation -->
-  - Landwirtschaft <!-- TODO: Fallback translation -->
-  - Handel <!-- TODO: Fallback translation -->
-  - Geldverleih <!-- TODO: Fallback translation -->
-  - für sich opfern <!-- TODO: Fallback translation -->
-  - Gaben (an Brahmanen) geben <!-- TODO: Fallback translation -->
-  - für sich opfern <!-- TODO: Fallback translation -->
-  - Vedastudium <!-- TODO: Fallback translation -->
-- **der Śūdras** <!-- TODO: Fallback translation -->
-  - den drei oberen Klassen dienen <!-- TODO: Fallback translation -->
+**Brahmanaların**
+Vedā okulu
+Öğreti
+Kendileri için kurban kesmek
+Başkaları için kurban kesmek
+Vermek
+Hediyeler almak
+**Kṣatriyaların**
+Halkı korumak
+Hediyeler vermek (Brahmanalara)
+Kendileri için kurban kesmek
+Vedā okulu
+**Vaiśyaların**
+Hayvancılık
+Tarım
+Ticaret
+Para ödünç verme
+Kendileri için kurban kesmek
+Hediyeler vermek (Brahmanalara)
+Kendileri için kurban kesmek
+Vedā okulu
+**Śūdraların**
+Üç üst sınıfa hizmet etmek
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya). <!-- TODO: Fallback translation -->
+**dvija** m. -- ⟪द्विज⟫ : "İki kere doğmuş" (Üç üst sınıfın başlatılanları: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : Farbe, Geburtsstand (Strebung). <!-- TODO: Fallback translation -->
+**varṇa** m. -- ⟪वर्ण⟫ : Renk, doğum sınıfı (yönelim).
 
-Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt: <!-- TODO: Fallback translation -->
+Dört sınıf (**varṇa** m.) genellikle kastlarla karıştırılır. Ancak dört sınıf -- kaste karşı olarak -- Hindistan'a özgü bir şey değildir; Avrupa'da da (kısmen Birinci Dünya Savaşı'na kadar) bir sınıf düzeni vardı, aşağıdaki 15. yüzyıldan kalma resim bunu belgeler:
 
 ::: media
 ![](/images/lekt0201.webp)
-Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
-(Bildquelle: [Details](/licenses#lekt0201)) <!-- TODO: Fallback translation -->
+Res.: Avrupa Orta Çağı'nın sınıf ayrımının tasviri (15. yüzyıl sonu ahşap baskı).
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt0201))
 :::
-**Beschriftung:** <!-- TODO: Fallback translation -->
-- **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend! <!-- TODO: Fallback translation -->
-- **Adelsstand** (~Kṣatriya): Tu protege = Du schütze! <!-- TODO: Fallback translation -->
-- **Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! <!-- TODO: Fallback translation -->
+**Etiketler:**
+**Rahipler sınıfı** (~Brāhmaṇa): Tu supplex ora = Sen yalvararak dua et!
+**Asiller sınıfı** (~Kṣatriya): Tu protege = Sen koru!
+**Çiftçiler sınıfı** (~Vaiśya/Śūdra): Tuque labora = Ve sen çalış!
 
-Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus. <!-- TODO: Fallback translation -->
+Üç sınıf kendi sınıfsal kıyafetlerini giyer. Tanı tarafından istenen olarak adlandırılanların üzerinde Hristiys tahtta oturur.
 
-Max Weber \<1864 – 1920\> definiert Stand so: <!-- TODO: Fallback translation -->
+Max Weber (1864–1920) sınıfı şöyle tanımlar:
 
 ::: note-box
-»**Stand**« soll eine Vielheit von Menschen heissen, die innerhalb eines Verbandes wirksam
-a) eine ständische Sonderschätzung, - eventuell also auch
-b) ständische Sondermonopole in Anspruch nehmen. <!-- TODO: Fallback translation -->
+»**Sınıf**« birleşik bir topluluk içinde etkili olan çok sayıda insanı ifade etmelidir
+a) sınıfsal özel değerleme, - belki de ayrıca
+b) sınıfın özel monopollerini talep etmek.
 
-Stände können entstehen
-a) primär, durch eigene ständische Lebensführung, darunter insbesondere durch die Art des **Berufs** (**Lebensführungs- bzw. Berufsstände**),
-b) sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer **Abstammung** (**Geburtsstände**),
-c) durch ständische **Appropriation** von politischen oder hierokratischen Herrengewalten als Monopole (**politische bzw. hierokratische Stände**). <!-- TODO: Fallback translation -->
+Kastenlar ortaya çıkabilir
+a) birincil olarak, kendi kastî yaşam tarzları yoluyla, özellikle de **meslek** (**yaşam tarzı veya meslek kastları**) türü yoluyla,
+b) ikincil olarak, kalıtsal karizmatik olarak, kastî **köken** (**doğum kastları**) gücüyle başarılı prestij iddiaları yoluyla,
+c) politik veya hiyerokratik hanedan güçlerinin monopoller olarak kastî **sahiplenilmesi** (**politik veya hiyerokratik kastlar**) yoluyla.
 
-Die geburtsständische Entwicklung ist regelmässig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen. <!-- TODO: Fallback translation -->
+Doğum kastî gelişimi, düzenli olarak ayrıcalıkların bir birlik veya nitelikli bireylere (kalıtsal) sahiplenilmesinin bir biçimidir. Fırsatların, özellikle [hanedan] güçlerinin veya kazanç fırsatlarının her türlü kesin sahiplenilmesi, kast oluşumuna yol eğilimindedir. Her kast oluşumu, hanedan güçlerinin ve kazanç fırsatlarının monopolice sahiplenilmesine yol eğilimindedir.
 
-Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden. <!-- TODO: Fallback translation -->
+Kazanç sınıfları pazar odaklı ekonominin temeli üzerinde büyürken, kastlar öncelikle monopolice idare edilen liturgik veya feodal veya kastî patrimonial ihtiyaç karşılamasının temeli üzerinde birlikler için ortaya çıkar ve varlığını sürdürür.
 
-»**Ständisch**« soll eine Gesellschaft heissen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmässig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet. <!-- TODO: Fallback translation -->
+»**Kastî**« bir toplum, sosyal bölünme öncelikle kastlara göre oluyorsa, »**sınıfî**« ise öncelikle sınıflara göre oluyorsa böyle adlandırılmalıdır. »Kast«e, »sınıflar«dan sosyal sınıf en yakın, kazanç sınıfı ise en uzaktır. Kastlar genellikle ağırlık noktalarına göre mülk sınıfları tarafından oluşturulur.
 
-Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung. <!-- TODO: Fallback translation -->
+Her kastî toplum konvansiyonel, yaşam tarzı kurallarıyla düzenlenmiş olup, bu nedenle ekonomik olarak irrasyonel tüketim koşulları yaratır ve böylece monopolice sahiplenmelerle ve kendi kazanç yeteneği üzerinde serbest tasarrufun el konulmasıyla serbest pazar oluşumunu engeller.
 
-[**Weber, Max \<1864 – 1920\>:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.] <!-- TODO: Fallback translation -->
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-Varṇas sind demgemäss Geburtsstände. <!-- TODO: Fallback translation -->
+Varṇas, buna göre doğum sınıflarıdır.
 
-**kavi** m. -- ⟪कवि⟫ : Dichter. <!-- TODO: Fallback translation -->
+**kavi** m. -- ⟪कवि⟫ : Şair.
 
-**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni. <!-- TODO: Fallback translation -->
+**agni** m. -- ⟪अग्नि⟫ : Ateş, Tanrı Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Abb.: Gott Agni, Miniatur, 18. Jh.
-(Bildquelle: [Details](/licenses#lekt0203)) <!-- TODO: Fallback translation -->
+Resim: Tanrı Agni, minyatür, 18. yy.
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt0203))
 :::
-**sādhu** 3 -- ⟪साधु⟫ : richtig, gut. <!-- TODO: Fallback translation -->
+**sādhu** 3 -- ⟪साधु⟫ : doğru, iyi.
 
-**sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu. <!-- TODO: Fallback translation -->
+**sādhu** m. -- ⟪साधु⟫ : "kutsal" adam, Sādhu.
 
 ::: media
 ![](/images/lekt0202.webp)
-Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
-(Bildquelle: [Details](/licenses#lekt0202)) <!-- TODO: Fallback translation -->
+Resim: Sādhu (⟪साधु⟫), Pashupatinath Tapınağı, Katmandu.
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt0202))
 :::
-**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert <!-- TODO: Fallback translation -->
+**guru** 3 -- ⟪गुरु⟫ : ağır, önemli, saygıdeğer
 
-**guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister <!-- TODO: Fallback translation -->
+**guru** m. -- ⟪गुरु⟫ : saygıdeğer kişi: Baba, Anne, yaşlı akraba, özellikle öğretmen, üstat
 
-## 2.6. Übung <!-- TODO: Fallback translation -->
 
-**A) Setzen Sie unter Beachtung des Sandhi ein und bilden Sie Nominalsätze:** <!-- TODO: Fallback translation -->
+## 2.6. Alıştırma
 
-1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)** <!-- TODO: Fallback translation -->
-   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫) <!-- TODO: Fallback translation -->
-2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)** <!-- TODO: Fallback translation -->
-   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫) <!-- TODO: Fallback translation -->
-3. **gurus ... (brāhmaṇa, Candrakīrti)** <!-- TODO: Fallback translation -->
-   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫) <!-- TODO: Fallback translation -->
-4. **vaiśyas ... (Tulādhara)** <!-- TODO: Fallback translation -->
-   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫) <!-- TODO: Fallback translation -->
-5. **sādhus ... (guru, Rāma)** <!-- TODO: Fallback translation -->
-   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫) <!-- TODO: Fallback translation -->
-6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)** <!-- TODO: Fallback translation -->
-   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫) <!-- TODO: Fallback translation -->
+**A) Sandhi'ye dikkat ederek doldurun ve isim cümleleri oluşturun:**
 
-**B) Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
+1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
+= ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
+2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
+= ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
+3. **gurus ... (brāhmaṇa, Candrakīrti)**
+= ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
+4. **vaiśyas ... (Tulādhara)**
+= ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
+5. **sādhus ... (guru, Rāma)**
+= ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
+6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
+= ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
-1. Rāma ist ein Brahmane. <!-- TODO: Fallback translation -->
-2. Der Lehrer ist ein Vaiśya. <!-- TODO: Fallback translation -->
-3. Der Śūdra ist ein heiliger Mann. <!-- TODO: Fallback translation -->
-4. Der Dichter ist der Lehrer. <!-- TODO: Fallback translation -->
-5. Viṣṇu ist der HERR. <!-- TODO: Fallback translation -->
-6. Der HERR ist Śiva. <!-- TODO: Fallback translation -->
-7. Der Zweimalgeborene ist ein Brahmane. <!-- TODO: Fallback translation -->
-8. Der heilige Mann ist ein Lehrer. <!-- TODO: Fallback translation -->
-9. Der Lehrer ist ein heiliger Mann. <!-- TODO: Fallback translation -->
+**B) Sanskrit'a çevirin:**
+
+1. Rāma bir Brahman'dır.
+Öğretmen bir Vaiśya'dır.
+Śūdra kutsal bir adamdır.
+Şair öğretmendir.
+Viṣṇu HAKİM'DİR.
+Hakim Śiva'dır.
+İkinci kez doğan bir Brahman'dır.
+Kutsal adam bir öğretmendir.
+Öğretmen kutsal bir adamdır.
