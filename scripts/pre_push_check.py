@@ -461,11 +461,10 @@ def check_licenses(files):
     return errors
 
 def check_release_version():
-    """Prüft ob die Version aus package.json auf der Startseite (docs/index.md) eingetragen ist."""
+    """Prüft ob die Version aus package.json in docs/index.md, docs/release-notes.md oder docs/settings.md eingetragen ist."""
     import json
     pkg_path = ROOT / 'package.json'
-    idx_path = ROOT / 'docs/index.md'
-    if not pkg_path.exists() or not idx_path.exists():
+    if not pkg_path.exists():
         return None
     try:
         pkg_data = json.loads(pkg_path.read_text('utf-8'))
@@ -475,9 +474,15 @@ def check_release_version():
         parts = version.split('.')
         if len(parts) >= 2:
             short_v = f"{parts[0]}.{parts[1]}"
-            idx_content = idx_path.read_text('utf-8')
-            if f"Version {short_v}" not in idx_content and f"v{short_v}" not in idx_content:
-                return f"Version {short_v} fehlt in docs/index.md (Release Notes nicht nachgetragen!)"
+            found = False
+            for path in [ROOT / 'docs/index.md', ROOT / 'docs/release-notes.md', ROOT / 'docs/settings.md']:
+                if path.exists():
+                    txt = path.read_text('utf-8')
+                    if f"Version {short_v}" in txt or f"v{short_v}" in txt:
+                        found = True
+                        break
+            if not found:
+                return f"Version {short_v} fehlt in docs/index.md / release-notes.md (Release Notes nicht nachgetragen!)"
     except Exception as e:
         return f"Fehler beim Version-Check: {e}"
     return None
