@@ -1,42 +1,42 @@
 ---
 layout: doc
-title: Release-Notes & Versionsverlauf
-description: Übersicht über alle Aktualisierungen, neuen Funktionen und Verbesserungen im Sanskritkurs.
+title: Release Notes & Version History
+description: Overview of updates, new features, and technical enhancements in Sanskritkurs.
 ---
 
-# Release-Notes & Versionsverlauf
+# Release Notes & Version History
 
-Auf dieser Seite finden Sie eine Übersicht aller Veröffentlichungen, neuen Funktionen und technischen Optimierungen des Sanskritkurses.
+Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
 ---
 
 ## 🚀 Version 1.6.4 (August 2026)
 
-**Schwerpunkt:** *100% Completion in Schlüssel-Zielsprachen, Offline-First PWA & UI-Politur*
+**Focus:** *100% Completion in Key Target Locales, Offline-First PWA & UI Polish*
 
-### ✨ Neuerungen & Highlights
-- **100% Completion ohne Fallbacks**: Englische (`en`) und Russische (`ru`) Sprachversionen sind zu 100% sauber übersetzt (136/136 Dateien, 0 Fallbacks) und schreibgeschützt.
-- **Vollständige UI-Lokaliserung (SSOT)**: Sämtliche Navigations- und Steuerelemente (Vorherige/Nächste Lektion, Übungen, Inhaltsverzeichnis) werden in allen aktiven Sprachen dynamisch über ein zentrales Sprachregister bereitgestellt.
-- **Typografie & Qualitätssicherung**: Aufrechte Devanāgarī-Typografie ohne Kursivverzerrung, entwirrte Signalrot-Tags und bereinigte Textstellen über alle fertigen Sprachversionen hinweg.
-- **PWA & Offline-First**: Vollständige Offline-Nutzung sämtlicher Kursinhalte über alle aktiven Sprachversionen hinweg.
-- **Design & Layout**: Optimierte Hero-Darstellung und Kartenlayouts ohne störende Trennlinien.
-
----
-
-## 🛠 Version 1.6.1 (Juli 2026)
-
-**Schwerpunkt:** *QA-Viewer Parität & Sidebar-Integrität*
-
-- **QA-Viewer Synchronisation**: `#left-lang` und `#right-lang` im QA-Viewer entsprechen exakt der Sprachkonfiguration aus `config.mjs`.
-- **Sidebar-Gruppierung**: Behebung von Verschachtelungsfehlern in der Lektions- und Kapitelübersicht.
-- **Container-Syntax**: Durchgängige Überprüfung und Absicherung verschachtelter `grammar-box`-Container.
+### ✨ Features & Highlights
+- **100% Completion without Fallbacks**: English (`en`) and Russian (`ru`) locales are 100% clean translated (136/136 files, 0 fallbacks) and write-locked.
+- **Full UI Localization (SSOT)**: All navigation and control elements (Previous/Next Lesson, Exercises, Table of Contents) are dynamically served across all active locales from a single source of truth.
+- **Typography & Quality Assurance**: Upright Devanāgarī typography without italic distortion, unentangled signal-red tags, and sanitized prose across all completed language versions.
+- **PWA & Offline-First**: Complete offline capability for all course content across active language versions.
+- **Design & Layout**: Refined Hero presentation and feature card layouts without unwanted top divider lines.
 
 ---
 
-## ⚙️ Version 1.6.0 (Juli 2026)
+## 🛠 Version 1.6.1 (July 2026)
 
-**Schwerpunkt:** *Chirurgische Fallback-Reparaturen & Stabilität*
+**Focus:** *QA-Viewer Parity & Sidebar Integrity*
 
-- **Chirurgische Fallback-Logik**: Automatische Wiederherstellung und Block-für-Block-Neuübersetzung unvollständiger Chunks.
-- **Integritätsprüfungen**: Automatisierter Pre-Push Build-Gate zur Verhinderung von fehlerhaften Markdowns.
-- **Wortlisten & Glossar**: Vollständige Synchronisation aller Wortlisten und Fachbegriffe über das Gesamtsystem.
+- **QA-Viewer Synchronization**: `#left-lang` and `#right-lang` in `qa_viewer.html` match `config.mjs` locales exactly.
+- **Sidebar Grouping**: Fixed nesting regressions in lesson and chapter overviews.
+- **Container Syntax**: Rigorous validation and enforcement of nested `grammar-box` containers.
+
+---
+
+## ⚙️ Version 1.6.0 (July 2026)
+
+**Focus:** *Surgical Fallback Repair & System Stability*
+
+- **Surgical Fallback Logic**: Automatic block-by-block re-translation of incomplete chunks.
+- **Integrity Checks**: Automated pre-push build gate to prevent corrupted markdown files from entering the repository.
+- **Wordlists & Glossary**: Complete synchronization of all wordlists and terminology definitions across modular libraries.
