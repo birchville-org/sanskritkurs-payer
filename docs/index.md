@@ -25,8 +25,7 @@ features:
 ::: note-box  Informationen & Mitwirkung (v1.6.4)
 Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
 
-Die Sprachen sind automatisch aus Deutsch übersetzt worden mit Hilfe einer KI (Qwen3.6). Sie sind nicht redigiert worden. Redaktoren willkommen.
-- **[Release Notes & Changelog (v1.6.4)](/release-notes)**: Overview of all updates, new features, and version history.
+Die Sprachen sind vollständig automatisch aus Deutsch übersetzt worden mit Hilfe einer KI (Qwen3.6). 
 - **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
 - **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
