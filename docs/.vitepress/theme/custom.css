@@ -114,6 +114,20 @@ html {
   font-family: "Inter", sans-serif !important;
 }
 
+/* Hero & Features Reset (removes leaking global border-top lines from VPHero title & hero feature cards) */
+.VPHero h1,
+.VPHero .heading,
+.VPHero .name,
+.VPHero .text,
+.VPFeatures h2,
+.VPFeatures .title,
+.VPFeature h2,
+.VPFeature .title {
+  border-top: none !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
 
 .vp-doc p, .vp-doc li, .vp-doc table {
   font-size: 1.1rem;
