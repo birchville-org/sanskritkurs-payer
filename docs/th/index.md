@@ -22,19 +22,12 @@ features:
     details: "สร้างบนพื้นฐานของ VitePress เพื่อความเร็วสูงสุด"
 ---
 
+::: note-box
+Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
 
-
-::: note-box  เวอร์ชัน 1.6.4 — ความสมบูรณ์ระดับโลก, SSOT และ Stabilität
-**สิ่งใหม่ใน v1.6.4 (กรกฎาคม 2026):**
-
-- **ความสมบูรณ์ 100% ใน 21 ภาษาเป้าหมาย:** ภาษาทั้ง 21 ภาษา (รวมถึงภาษากรีกโบราณ, ภาษาฟินแลนด์, ภาษาฮังการี, ภาษาอาหรับ, ภาษาฮีบรู, ภาษาละติน, ภาษาจีนตัวย่อ และอื่นๆ) ได้รับการแปลอย่างสมบูรณ์โดยไม่มีระบบสำรอง (fallbacks) และถูกล็อกการแก้ไขแบบถาวร
-- **การแปลส่วนติดต่อผู้ใช้แบบครบวงจร (SSOT):** องค์ประกอบการนำทางและควบคุมทั้งหมด (บทก่อนหน้า/ถัดไป, แบบฝึกหัด, สารบัญ) จะแสดงในภาษาทั้ง 32 ภาษาแบบไดนามิกผ่านทะเบียนภาษาส่วนกลาง
-- **การจัดรูปแบบตัวอักษรและการตรวจสอบคุณภาพ:** การจัดรูปแบบตัวอักษร Devanāgarī แบบตั้งตรงโดยไม่มีการบิดเบือนแบบเอียง, การแก้ไขแท็กสีแดงที่สับสน, และการทำความสะอาดข้อความตลอดเวอร์ชันภาษาที่เสร็จสมบูรณ์ทั้งหมด
-- **PWA และ Offline-First:** สามารถใช้งานเนื้อหาหลักสูตรทั้งหมดแบบออฟไลน์ได้ตลอดเวอร์ชันภาษาที่ใช้งานอยู่ทั้งหมด
-
-**ยินดีรับความคิดเห็นและรายงานข้อผิดพลาดที่:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**มีส่วนร่วมในฐานะบรรณาธิการหรือภัณฑารักษ์:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
-
-- สำหรับผู้เขียน (และผู้ที่ต้องการใช้โปรแกรมแก้ไข Markdown Standalone แบบง่าย) มีโปรแกรมแก้ไขโอเพนซอร์สให้บริการที่ https://github.com/marcodem/zentauri
-
+Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
+- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
+- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

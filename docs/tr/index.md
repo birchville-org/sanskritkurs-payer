@@ -2,24 +2,25 @@
 layout: home
 
 hero:
-  name: "קורס סנסקריט"
-  text: "מסלול לימוד מלא"
-  tagline: "מאת אלוויס פאיר (ספריית הכפר הגלובלי של טיפלי)"
+  name: "Sanskrit Kursu"
+  text: "Tam kapsamlı bir eğitim programı"
+  tagline: "Alois Payer tarafından (Tüpfli'nin Global Village Kütüphanesi)"
   actions:
     - theme: brand
-      text: "התחל קורס"
-      link: /he/lektionen/lektion01
+      text: "Kursu Başlat"
+      link: /tr/lektionen/lektion01
     - theme: alt
-      text: "נושאי דקדוק"
-      link: /he/grammatik
+      text: "Dilbilgisi Konuları"
+      link: /tr/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: "הקרנה מושלמת, אינטגרציה טיפוגرافית למ scripts הודיים."
-  - title: Leicht Durchsuchbar
-    details: "חיפוש טקסט מלא מקומי מעמיק שומר על הידע זמין בלחיצת כפתור."
-  - title: Moderne Architektur
-    details: "בנוי על יסודות VitePress למקסימום מהירות."
+  - title: "Devanāgarī ready"
+    details: "Hint dilleri için mükemmel, entegre tipografi."
+  - title: "Kolay Aranabilir"
+    details: "Derinlemesine yerel tam metin araması, bilgiyi bir tuşla hazır tutar."
+  - title: "Modern Mimari"
+    details: "Maksimum hız için VitePress temeli üzerine inşa edilmiştir."
+
 ---
 
 ::: note-box

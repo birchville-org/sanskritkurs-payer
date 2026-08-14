@@ -23,17 +23,12 @@ features:
 
 ---
 
-::: note-box  Version 1.6.4 — Global Integrity, SSOT & Stabilität
-**v1.6.4 (जुलाई 2026) में नया:**
+::: note-box
+Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
 
-- **21 लक्ष्य भाषाओं में 100% पूर्णता:** 21 भाषाएँ (जिनमें प्राचीन ग्रीक, फिनिश, हंगेरियन, अरबी, हिब्रू, लैटिन, सरलीकृत चीनी आदि शामिल हैं) अब बिना किसी फॉलबैक के पूरी तरह से अनुवादित हैं और एक कठोर कुल प्रतिबंध के तहत लिखने से सुरक्षित हैं।
-- **पूर्ण UI स्थानीयकरण (SSOT):** सभी 32 भाषाओं में नेविगेशन और नियंत्रण तत्वों (पिछला/अगला पाठ, अभ्यास, विषय सूची) को एक केंद्रीय भाषा रजिस्टर के माध्यम से गतिशील रूप से प्रदान किया जाता है।
-- **टाइपोग्राफी और गुणवत्ता सत्यापन:** सभी तैयार भाषा संस्करणों में उभरे देवनागरी टाइपोग्राफी, बिना इटैलिक विकृति के, अलग किए गए सिग्नल रेड टैग और साफ की गई पाठ सामग्री।
-- **PWA और ऑफलाइन-फर्स्ट:** सभी सक्रिय भाषा संस्करणों के माध्यम से सभी पाठ्यक्रम सामग्री की पूर्ण ऑफलाइन उपयोगिता।
-
-**टिप्पणी और त्रुटि रिपोर्ट करने के लिए:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**लेखक या संरक्षक के रूप में योगदान दें:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
-
-- लेखकों (और उन लोगों के लिए जो एक हल्का मार्कडाउन स्टैंडअलोन संपादक का उपयोग करना चाहते हैं) के लिए, https://github.com/marcodem/zentauri पर एक ओपन-सोर्स संपादक उपलब्ध है
-
+Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
+- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
+- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

@@ -23,17 +23,12 @@ features:
 
 ---
 
-::: note-box  Version 1.6.4 — Global Integrity, SSOT & Stabilität
-**جدید در نسخه 1.6.4 (ژوئیه 2026):**
+::: note-box
+Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
 
-- **تکمیل صددرصد در ۲۱ زبان هدف:** 21 زبان (از جمله یونانی باستان، فنلاندی، مجارستانی، عربی، عبری، لاتین، چینی ساده‌شده و غیره) اکنون بدون هیچ جایگزینی به طور کامل ترجمه شده و تحت یک قفل مطلق در حالت فقط خواندنی قرار دارند.
-- **بومی‌سازی کامل رابط کاربری (SSOT):** تمامی عناصر ناوبری و کنترل (درس قبلی/بعدی، تمرین‌ها، فهرست مطالب) به صورت پویا از طریق یک پایگاه زبان مرکزی در تمام 32 زبان ارائه می‌شوند.
-- **تایپوگرافی و تضمین کیفیت:** تایپوگرافی عمودی دواناگری بدون اعوجاج ایتالیک، تگ‌های قرمز سیگنال باز شده و متن‌های پاکسازی شده در تمام نسخه‌های زبانی آماده.
-- **PWA و آفلاین-اول:** استفاده کامل از تمام محتوای دوره به صورت آفلاین در تمام نسخه‌های زبانی فعال.
-
-**نظرات و گزارش خطاها به این آدرس خوش‌آمد است:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**همکاری به عنوان ویراستار یا ناظر:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
-
-- برای نویسندگان (و هر کسی که می‌خواهد از یک ویرایشگر سبک Markdown Standalone استفاده کند)، یک ویرایشگر متن باز در آدرس https://github.com/marcodem/zentauri موجود است
-
+Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
+- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
+- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

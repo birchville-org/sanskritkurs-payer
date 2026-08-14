@@ -22,18 +22,12 @@ features:
     details: அதிகபட்ச வேகத்திற்காக VitePress-ன் அடிப்படையில் கட்டப்பட்டது.
 ---
 
+::: note-box
+Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
 
-::: note-box  பதிப்பு 1.6.4 — உலகளாவிய தரநிலை, ஒரே ஒரு உண்மை மூலம் (SSOT) & நிலைத்தன்மை
-**v1.6.4-ல் புதியது (ஜூலை 2026):**
-
-- **21 இலக்கு மொழிகளில் 100% முடிவு:** 21 மொழிகள் (பழைய கிரேக்கம், ஃபின்லிஷ், மாஜியர், அரபு, ஹீப்ரு, லத்தீன், எளிய சீனம் மற்றும் பல உட்பட) இப்போது பின்னடைவு இல்லாமல் முழுமையாக மொழிபெயர்க்கப்பட்டுள்ளன மற்றும் கடுமையான முழுமையான தடை கீழ் எழுதுதல் தடைசெய்யப்பட்டவை.
-- **முழுமையான UI உள்ளூர்மயமாக்கல் (SSOT):** அனைத்து 32 மொழிகளிலும் அனைத்து உலாவு மற்றும் கட்டுப்பாட்டு கூறுகள் (முந்தைய/அடுத்த பாடம், பயிற்சிகள், உள்ளடக்கப் பட்டியல்) ஒரு மைய மொழி பதிவேட்டின் மூலம் இயக்க적으로 வழங்கப்படுகின்றன.
-- **அச்சுத்தொழில்நுட்பம் & தர உறுதிப்படுத்தல்:** சாய்வு விரிவாக்கம் இல்லாத நேரான தேவநாகரி அச்சுத்தொழில்நுட்பம், குழப்பமான சிவப்பு குறியீடுகள் மற்றும் முடிந்த மொழி பதிப்புகள் முழுவதும் சுத்தம் செய்யப்பட்ட உரை பகுதிகள்.
-- **PWA & ஆஃப்லைன்-முதல்:** செயல்பாட்டு மொழி பதிப்புகள் முழுவதும் அனைத்து பாட உள்ளடக்கங்களையும் முழுமையாக ஆஃப்லைனில் பயன்படுத்தக்கூடியது.
-
-**குறிப்புகள் மற்றும் பிழை அறிக்கைகளுக்கு வரவேற்கப்படுகிறது:** [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**ஒரு திருத்தியாளர் அல்லது காவலராக பங்களிக்க:** [onboarding@birchville.org](mailto:onboarding@birchville.org)
-
-- ஆசிரியர்களுக்கு (மேலும் ஒரு எளிய Markdown தனிநபர் திருத்தியைப் பயன்படுத்த விரும்புவோருக்கு), https://github.com/marcodem/zentauri இல் ஒரு திறந்த மூல திருத்தி கிடைக்கிறது.
-
+Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
+- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
+- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::
