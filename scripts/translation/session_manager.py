@@ -44,22 +44,11 @@ def clear_force_session(lang: str):
             pass
 
 def is_language_completed(lang: str) -> bool:
-    """Return True if language has 136 clean files with 0 fallbacks and 0 German residues."""
+    """Return True if language has 136 clean files with 0 fallbacks, 0 missing, and 0 stale files."""
     if lang == "de":
         return True
-    lang_dir = os.path.join(BASE_DIR, lang)
-    if not os.path.exists(lang_dir):
+    try:
+        from translation_qa import get_translation_queue
+        return len(get_translation_queue(lang)) == 0
+    except Exception:
         return False
-    md_files = glob.glob(os.path.join(lang_dir, "**/*.md"), recursive=True)
-    clean_files = [f for f in md_files if os.path.basename(f) not in EXCLUDE_META and "qa_viewer" not in f and "deleteme" not in f]
-    if len(clean_files) < 136:
-        return False
-    for fpath in clean_files:
-        try:
-            with open(fpath, 'r', encoding='utf-8', errors='ignore') as f:
-                c = f.read()
-            if scan_german_residues(c, target_lang=lang) or 'TODO: Fallback translation' in c:
-                return False
-        except Exception:
-            return False
-    return True

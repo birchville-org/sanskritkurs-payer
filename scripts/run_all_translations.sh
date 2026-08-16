@@ -69,10 +69,6 @@ print(TOTAL_MASTER - len(get_translation_queue('$TOP_LANG')))
     echo "============================================================"
 
     EXTRA_FLAGS=""
-    if [ "$TOP_LANG" = "tr" ]; then
-        EXTRA_FLAGS="-f"
-        echo "⏱️ BENCHMARK START: Türkisch (tr) wird vollständig von Null mit -f übersetzt."
-    fi
 
     START_TIME=$(date +%s)
     if python3 scripts/lan_translate.py --lang "$TOP_LANG" $EXTRA_FLAGS; then
@@ -80,9 +76,16 @@ print(TOTAL_MASTER - len(get_translation_queue('$TOP_LANG')))
         ELAPSED=$((END_TIME - START_TIME))
         ELAPSED_FMT="$(($ELAPSED / 3600))h $((($ELAPSED % 3600) / 60))m $(($ELAPSED % 60))s"
         echo "[$TOP_LANG] ✓ Finished translation run in $ELAPSED_FMT. Re-evaluating status..."
-        if [ "$TOP_LANG" = "tr" ]; then
-            echo "📊 BENCHMARK ERGEBNIS: Türkisch (tr) wurde von Null (-f) übersetzt in $ELAPSED_FMT ($ELAPSED Sek.)."
-            python3 scripts/send_notification_email.py "Sanskritkurs Benchmark: Türkisch (tr)" "Türkisch (tr) wurde von Null (-f) in $ELAPSED_FMT ($ELAPSED Sek.) übersetzt." 2>/dev/null || true
+
+        NEW_QUEUE_LEN=$(python3 -c "
+import sys; sys.path.insert(0, 'scripts')
+from generate_report import get_translation_queue
+print(len(get_translation_queue('$TOP_LANG')))
+" 2>/dev/null || echo "1")
+
+        if [ "$NEW_QUEUE_LEN" -eq 0 ]; then
+            echo "🎉 [COMPLETED] [$TOP_LANG] is 100% clean (136/136 files)!"
+            python3 scripts/send_notification_email.py "Sanskritkurs Fertiggestellt: $TOP_LANG (100% Sauber)" "Die Sprache [$TOP_LANG] wurde erfolgreich zu 100% vollständig und sauber übersetzt (136/136 Dateien, 0 Fallbacks). Dauer des letzten Durchlaufs: $ELAPSED_FMT." 2>/dev/null || true
         fi
     else
         echo "[$TOP_LANG] ⚠️ Error occurred. Retrying [$TOP_LANG] in 10 seconds..."

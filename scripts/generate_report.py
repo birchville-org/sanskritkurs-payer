@@ -16,25 +16,21 @@ import json
 
 sys.path.insert(0, str(Path(__file__).parent))
 from translation.config import DE_FALLBACK_ALLOWED, STALE_LOCK_SEC
-from translation_qa import check_has_de_phrases
+from translation_qa import check_has_de_phrases, is_file_fallback, get_translation_queue
 
 ROOT = Path(__file__).parent.parent
 DOCS = ROOT / "docs"
 REPORT_FILE = ROOT / "TRANSLATION_REPORT.md"
 CACHE_FILE = ROOT / ".last_report_cache.json"
 
-def get_top_unfinished_language():
-    """Returns the language code of the next language to translate based on user directive or highest completion %."""
-    # User priority override (process RU first to 100% clean, then EN, then TR with --force, then BG)
-    priority_override = ["ru", "en", "tr", "bg"]
-    for code in priority_override:
-        queue = get_translation_queue(code)
-        if len(queue) > 0:
-            return code
+def get_top_unfinished_language(skip_langs=None):
+    """Returns the language code of the uncompleted language with the highest completion %."""
+    if skip_langs is None:
+        skip_langs = []
 
     all_rows = []
     for code, name, emoji in LANG_MAP:
-        if code == "de":
+        if code == "de" or code in skip_langs:
             continue
         queue = get_translation_queue(code)
         sauber = TOTAL_MASTER - len(queue)
@@ -48,26 +44,7 @@ def get_top_unfinished_language():
 
 def get_next_queued_language(active_code=None):
     """Returns the language code of the next language queued after active_code."""
-    priority_override = ["ru", "en", "tr", "bg"]
-    for code in priority_override:
-        if code == active_code:
-            continue
-        queue = get_translation_queue(code)
-        if len(queue) > 0:
-            return code
-
-    unfinished = []
-    for code, name, emoji in LANG_MAP:
-        if code == "de" or code == active_code:
-            continue
-        queue = get_translation_queue(code)
-        if len(queue) > 0:
-            pct = round(((TOTAL_MASTER - len(queue)) / TOTAL_MASTER) * 100.0, 1)
-            unfinished.append({"code": code, "pct": pct, "queue_len": len(queue)})
-    if unfinished:
-        unfinished.sort(key=lambda r: (r["pct"], -r["queue_len"]), reverse=True)
-        return unfinished[0]["code"]
-    return None
+    return get_top_unfinished_language(skip_langs=[active_code] if active_code else [])
 
 def load_report_cache():
     if CACHE_FILE.exists():
@@ -226,50 +203,6 @@ def get_chunk_info(lang):
         "total_chunks": max(total_chunks, curr_chunk)
     }
 
-def get_translation_queue(code):
-    if code == "de":
-        return []
-    lang_dir = DOCS / code
-    queue_files = []
-    
-    # 1. Main pages
-    main_pages = ['index.md', 'grammatik.md', 'themen.md', 'impressum.md', 'settings.md']
-    for p in main_pages:
-        queue_files.append((DOCS / p, lang_dir / p))
-    # 2. Lessons 01-61
-    for i in range(1, 62):
-        queue_files.append((DOCS / f'lektionen/lektion{i:02d}.md', lang_dir / f'lektionen/lektion{i:02d}.md'))
-    # 3. Scripts 01-11
-    for i in range(1, 12):
-        queue_files.append((DOCS / f'lektionen/schrift{i:02d}.md', lang_dir / f'lektionen/schrift{i:02d}.md'))
-    # 4. Exercises 01-61
-    for i in range(1, 62):
-        queue_files.append((DOCS / f'lektionen/uebung{i:02d}.md', lang_dir / f'lektionen/uebung{i:02d}.md'))
-    # 5. Wortlisten
-    for p in ['lektionen/wortliste.md', 'lektionen/inhaltsverzeichnis.md']:
-        queue_files.append((DOCS / p, lang_dir / p))
-
-    todo_queue = []
-    for src, tgt in queue_files:
-        if not src.exists():
-            continue
-        if not tgt.exists():
-            todo_queue.append((tgt.name, "Fehlt (neu)"))
-            continue
-        if tgt.stat().st_mtime < src.stat().st_mtime:
-            todo_queue.append((tgt.name, "Veraltet"))
-            continue
-        txt = tgt.read_text(encoding='utf-8', errors='ignore')
-        de_txt = src.read_text(encoding='utf-8', errors='ignore')
-        txt_body = re.sub(r'^---.*?---\s*', '', txt, flags=re.DOTALL)
-        de_body = re.sub(r'^---.*?---\s*', '', de_txt, flags=re.DOTALL)
-        is_de_exact = (txt == de_txt) or (len(txt_body) > 0 and abs(len(txt) - len(de_txt)) / max(len(txt), len(de_txt)) < 0.05 and txt_body[:200] == de_body[:200])
-        has_de = check_has_de_phrases(txt, code, fast=True)
-        if "TODO: Fallback translation" in txt or is_de_exact or has_de:
-            reason = "DE-Kopie" if is_de_exact else "DE-Reste"
-            todo_queue.append((tgt.name, reason))
-
-    return todo_queue
 
 def get_performance_info():
     log_files = [ROOT / "translation_runner.log", ROOT / "translation.log"]

@@ -30,6 +30,7 @@ def translate_text(text, target_lang):
     protected, struct_registry = protect_structure(protected)
     heading_mappings = {
         'en': "e.g. '# Lesson N'",
+        'tr': "e.g. '# Ders N'",
         'es': "e.g. '# Lección N'",
         'it': "e.g. '# Lezione N'",
         'fr': "e.g. '# Leçon N'",
@@ -45,12 +46,26 @@ def translate_text(text, target_lang):
         'he': "e.g. '# שיעור N'",
         'id': "e.g. '# Pelajaran N'",
         'zh-CN': "e.g. '# 第N课'",
+        'zh': "e.g. '# 第N課'",
         'ar': "e.g. '# الدرس N'",
         'arc': "e.g. '# ܡܠܦܢܘܬܐ N'",
         'th': "e.g. '# บทที่ N'",
         'el': "e.g. '# Μάθημα N'",
+        'grc': "e.g. '# Μάθημα N'",
         'fa': "e.g. '# درس N'",
         'cop': "e.g. '# ⲙⲁⲑⲏⲙⲁ N'",
+        'fi': "e.g. '# Oppitunti N'",
+        'hu': "e.g. '# Lecke N'",
+        'nl': "e.g. '# Les N'",
+        'pt': "e.g. '# Lição N'",
+        'vi': "e.g. '# Bài N'",
+        'zu': "e.g. '# Isifundo N'",
+        'af': "e.g. '# Les N'",
+        'lt': "e.g. '# Pamoka N'",
+        'sh': "e.g. '# Lekcija N'",
+        'sq': "e.g. '# Mësimi N'",
+        'akk': "e.g. '# Limmadum N'",
+        'am': "e.g. '# ትምህርት N'",
     }
     target_example = heading_mappings.get(target_lang, "")
     if target_example:

@@ -67,24 +67,8 @@ def scan_german_residues(content: str, target_lang: str = None) -> list:
         # 1. Regex pattern match
         m = _DE_RESIDUE_PATTERNS.search(clean_line)
         if m:
-            if target_lang == 'en':
-                matched_word = m.group(0).strip().lower()
-                english_latin_terms = {
-                    "nominativ", "nominative", "nominatives",
-                    "akkusativ", "accusative", "accusatives",
-                    "genetiv", "genitive", "genitives",
-                    "instrumentalis", "instrumental", "instrumentals",
-                    "vokativ", "vocative", "vocatives",
-                    "ablativ", "ablative", "ablatives",
-                    "passiv", "passive", "passives",
-                    "infinitiv", "infinitive", "infinitives"
-                }
-                if matched_word not in english_latin_terms and matched_word.rstrip('s') not in english_latin_terms:
-                    flagged.append((i, line))
-                    continue
-            else:
-                flagged.append((i, line))
-                continue
+            flagged.append((i, line))
+            continue
 
         # 2. Morphological Language ID (for target languages other than German)
         if target_lang and target_lang != 'de' and _lang_detect:

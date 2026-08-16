@@ -148,7 +148,7 @@ def fix_main_page_links(content, lang):
         path = m.group(1)
         if path.startswith(f'/{lang}/') or path == f'/{lang}':
             return f'({path})'
-        if path.startswith('http') or path.startswith('#') or not path.startswith('/'):
+        if path.startswith('http') or path.startswith('#') or path.startswith('/images/') or not path.startswith('/'):
             return f'({path})'
         return f'(/{lang}{path})'
     return re.sub(r'\((/[^)]*)\)', replace, content)
@@ -317,14 +317,14 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
             return
     elif os.path.exists(target_path) and tgt_mtime >= src_mtime:
         try:
-            with open(target_path, 'r', encoding='utf-8', errors='ignore') as tf:
-                tgt_txt = tf.read()
-            if not scan_german_residues(tgt_txt, target_lang=lang) and 'TODO: Fallback translation' not in tgt_txt:
+            from translation_qa import is_file_fallback
+            is_fb, reason = is_file_fallback(target_path, lang)
+            if not is_fb:
                 sys.stdout.write(f"[{lang}] Skipping {filename} (up to date & clean)\n")
                 sys.stdout.flush()
-                return
+                return True
             else:
-                sys.stdout.write(f"[{lang}] Queue Item: {filename} has residues/fallbacks. Re-translating...\n")
+                sys.stdout.write(f"[{lang}] Queue Item: {filename} has residues/fallbacks ({reason}). Re-translating...\n")
                 sys.stdout.flush()
         except Exception:
             pass
@@ -359,6 +359,25 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
 
     chunks = chunk_content(body)
     translated_chunks = []
+
+    # Preserve clean sections: Seed TM from clean chunks in existing target file
+    if not force and os.path.exists(target_path):
+        try:
+            with open(target_path, 'r', encoding='utf-8', errors='ignore') as tf:
+                existing_tgt_content = tf.read()
+            if existing_tgt_content.startswith('---'):
+                parts = existing_tgt_content.split('---', 2)
+                existing_tgt_body = parts[2] if len(parts) >= 3 else existing_tgt_content
+            else:
+                existing_tgt_body = existing_tgt_content
+            tgt_chunks = chunk_content(existing_tgt_body)
+            if len(tgt_chunks) == len(chunks):
+                for s_chunk, t_chunk in zip(chunks, tgt_chunks):
+                    s_h = hash_chunk(s_chunk)
+                    if s_h not in tm and not scan_german_residues(t_chunk, target_lang=lang):
+                        tm[s_h] = t_chunk
+        except Exception:
+            pass
 
     for idx, chunk in enumerate(chunks):
         c_hash = hash_chunk(chunk)
@@ -447,7 +466,7 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
             sys.stdout.write("  [✓] All German residues cleanly resolved by local auto-heal pass!\n")
             sys.stdout.flush()
 
-    # Bug A Fix: Back-sync final (and auto-healed) chunks into TM Cache so old unhealed chunks never overwrite files
+    # Back-sync final (and auto-healed) chunks into TM Cache under source chunk hashes
     try:
         body_for_tm = final_content
         if final_content.startswith('---'):
@@ -455,11 +474,12 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
             if len(parts) >= 3:
                 body_for_tm = parts[2]
         healed_chunks = chunk_content(body_for_tm)
-        for hc in healed_chunks:
-            hc_hash = hash_chunk(hc)
-            if not scan_german_residues(hc, target_lang=lang):
-                tm[hc_hash] = hc
-        save_tm(lang, tm)
+        if len(healed_chunks) == len(chunks):
+            for s_chunk, hc in zip(chunks, healed_chunks):
+                s_hash = hash_chunk(s_chunk)
+                if not scan_german_residues(hc, target_lang=lang):
+                    tm[s_hash] = hc
+            save_tm(lang, tm)
     except Exception as e:
         sys.stderr.write(f"  [!] Warning: Failed to back-sync healed TM chunks: {e}\n")
 

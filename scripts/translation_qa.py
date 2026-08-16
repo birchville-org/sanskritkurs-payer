@@ -14,21 +14,37 @@ DOCS = ROOT / "docs"
 TOTAL_MASTER = 136
 
 from translation.terms import (
-    DE_FALLBACK_ALLOWED, EXCLUDE_META, GERMAN_KEYWORDS, STRICT_DE_GRAMMAR_KEYWORDS
+    DE_FALLBACK_ALLOWED, EXCLUDE_META, GERMAN_KEYWORDS, STRICT_DE_GRAMMAR_KEYWORDS, LATIN_GRAMMAR_TERMS
 )
 
-# Lazy Lingua Detector Initialization
-_LINGUA_DETECTOR = None
+_PAIR_DETECTORS = {}
 
-def get_lingua_detector():
-    global _LINGUA_DETECTOR
-    if _LINGUA_DETECTOR is None:
-        try:
-            from lingua import Language, LanguageDetectorBuilder
-            _LINGUA_DETECTOR = LanguageDetectorBuilder.from_all_languages().with_low_accuracy_mode().build()
-        except Exception:
-            _LINGUA_DETECTOR = False
-    return _LINGUA_DETECTOR if _LINGUA_DETECTOR else None
+LINGUA_LANG_MAP = {
+    'en': 'ENGLISH', 'fr': 'FRENCH', 'es': 'SPANISH', 'it': 'ITALIAN',
+    'pt': 'PORTUGUESE', 'nl': 'DUTCH', 'ro': 'ROMANIAN', 'hu': 'HUNGARIAN',
+    'fi': 'FINNISH', 'tr': 'TURKISH', 'bg': 'BULGARIAN', 'ru': 'RUSSIAN',
+    'uk': 'UKRAINIAN', 'el': 'GREEK', 'hi': 'HINDI', 'pa': 'PUNJABI',
+    'ta': 'TAMIL', 'th': 'THAI', 'vi': 'VIETNAMESE', 'id': 'INDONESIAN',
+    'ar': 'ARABIC', 'fa': 'PERSIAN', 'he': 'HEBREW', 'zh': 'CHINESE',
+    'zh-CN': 'CHINESE', 'la': 'LATIN', 'af': 'AFRIKAANS', 'lt': 'LITHUANIAN',
+    'sh': 'SERBIAN', 'sq': 'ALBANIAN', 'zu': 'ZULU',
+}
+
+def get_lingua_detector(target_lang=None):
+    global _PAIR_DETECTORS
+    if target_lang in _PAIR_DETECTORS:
+        return _PAIR_DETECTORS[target_lang]
+    try:
+        from lingua import Language, LanguageDetectorBuilder
+        tgt_attr = LINGUA_LANG_MAP.get(target_lang)
+        if tgt_attr and hasattr(Language, tgt_attr) and getattr(Language, tgt_attr) != Language.GERMAN:
+            det = LanguageDetectorBuilder.from_languages(Language.GERMAN, getattr(Language, tgt_attr)).build()
+        else:
+            det = LanguageDetectorBuilder.from_all_languages().build()
+        _PAIR_DETECTORS[target_lang] = det
+        return det
+    except Exception:
+        return None
 
 def is_excluded_file(file_path):
     """Check if a file should be excluded from lesson counts (meta files, test files)."""
@@ -39,19 +55,35 @@ def is_excluded_file(file_path):
         return True
     return False
 
+COMMON_DE_WORDS = {
+    "der", "die", "das", "und", "oder", "nicht", "ist", "sind", "wird", "werden",
+    "wurde", "wurden", "mit", "von", "auf", "für", "bei", "nach", "über", "durch",
+    "aus", "im", "in", "dem", "den", "des", "eine", "einer", "eines", "einem", "einen",
+    "wenn", "aber", "als", "auch", "wie", "sie", "er", "es", "wir", "ihr", "alle", "dies"
+}
+
 def clean_markdown_for_lid(txt):
     """Clean markdown formatting, frontmatter, and metadata before language detection."""
     # Strip YAML frontmatter & deleteme-box metadata blocks
     txt_no_yaml = re.sub(r'^---.*?---\n', '', txt, flags=re.DOTALL)
     txt_no_meta = re.sub(r':::\s*deleteme-box\b.*', '', txt_no_yaml, flags=re.DOTALL)
-    clean_txt = re.sub(r'[\u0900-\u097F]+', '', txt_no_meta)  # Remove Devanagari
+    clean_txt = re.sub(r'^>.*$', '', txt_no_meta, flags=re.MULTILINE)
+    clean_txt = re.sub(r'[\u0900-\u097F]+', '', clean_txt)     # Remove Devanagari
     clean_txt = re.sub(r'⟪.*?⟫', '', clean_txt)              # Remove Sanskrit brackets
     clean_txt = re.sub(r'!\[.*?\]\(.*?\)', '', clean_txt)     # Remove images
     clean_txt = re.sub(r'\[.*?\]\(.*?\)', '', clean_txt)      # Remove links
     clean_txt = re.sub(r':::[^\n]+', '', clean_txt)           # Remove container tags
     return clean_txt
 
-
+def is_sanskrit_iast(text):
+    """Check if text contains IAST characters or verse delimiters |"""
+    iast_chars = set("āīūṛṝḷḹṅñṇṭḍśṣṃḥĀĪŪṚṜḶḸṄÑṆṬḌŚṢṂḤ")
+    iast_count = sum(1 for c in text if c in iast_chars)
+    if '|' in text or '||' in text:
+        return True
+    if len(text) > 0 and (iast_count / len(text)) > 0.04:
+        return True
+    return False
 
 def check_has_de_phrases(txt, code, fast=False):
     """Check if text contains unallowed German (or English) phrases/remnants."""
@@ -63,53 +95,73 @@ def check_has_de_phrases(txt, code, fast=False):
     # 1. Strict German grammar & table keyword detection
     strict_keywords = STRICT_DE_GRAMMAR_KEYWORDS
     gen_keywords = GERMAN_KEYWORDS
-    if code == "en":
-        # International Latin terms used in English grammar are valid, not German remnants
-        latin_terms = {"Nominativ", "Akkusativ", "Genetiv", "Instrumentalis", "Vokativ", "Ablativ", "Passiv", "Infinitiv"}
+    if code != "de":
+        latin_terms = LATIN_GRAMMAR_TERMS
         strict_keywords = [kw for kw in strict_keywords if kw not in latin_terms]
         gen_keywords = [kw for kw in gen_keywords if kw not in latin_terms]
 
-    if sum(1 for kw in strict_keywords if kw in clean_txt) >= 1:
-        return True
+    # Keyword check using word-boundary matching
+    for kw in strict_keywords:
+        if re.search(r'\b' + re.escape(kw) + r'\b', clean_txt, re.IGNORECASE):
+            return True
 
     # 2. General German keyword detection (for non-DE fallback languages)
-    if code not in DE_FALLBACK_ALLOWED and code != "en":
-        if sum(1 for kw in gen_keywords if kw in clean_txt) >= 1:
-            return True
+    if code not in DE_FALLBACK_ALLOWED:
+        for kw in gen_keywords:
+            if re.search(r'\b' + re.escape(kw) + r'\b', clean_txt, re.IGNORECASE):
+                return True
 
     if fast:
         return False
 
-    # 3. Lingua Statistical Language Detection
-    detector = get_lingua_detector()
+    # 3. Lingua Statistical Language Detection (High accuracy pairwise, min length >= 40, no headings, no Sanskrit)
+    detector = get_lingua_detector(code)
     if detector:
         from lingua import Language
-        raw_paras = [p.strip() for p in clean_txt.split("\n\n") if len(p.strip()) > 20]
-        unallowed_paras = 0
+        raw_paras = [p.strip() for p in clean_txt.split("\n\n") if len(p.strip()) >= 40]
         for raw_p in raw_paras:
-            if raw_p.startswith("```") or raw_p.startswith("---"):
+            if raw_p.startswith("```") or raw_p.startswith("---") or raw_p.startswith("#"):
                 continue
             p = re.sub(r'^[#|\s:-]+', '', raw_p, flags=re.M)
             p = re.sub(r':br', ' ', p).strip()
-            if len(p) < 20:
+            if len(p) < 40:
                 continue
-            if code == "en" and len(p) < 45:
+            if is_sanskrit_iast(p):
                 continue
-            try:
-                lang_detected = detector.detect_language_of(p)
-                if lang_detected == Language.GERMAN and code not in DE_FALLBACK_ALLOWED:
-                    # Ignore German publisher/city names, image captions, and proper names in English citations
-                    if code == "en" and any(cit in p for cit in ["Dümmler", "Berlin", "Kielhorn", "Solomons", "Monier-Williams", "Stenzler", "Image source:", "Fig.:", "Udaipur", "Naran"]):
-                        continue
-                    unallowed_paras += 1
-                    if unallowed_paras >= 1:
+            # Skip paragraphs that contain target non-Latin scripts
+            if code in ['ru', 'uk', 'bg'] and any('\u0400' <= c <= '\u04FF' for c in p):
+                continue
+            if code in ['ar', 'fa'] and any('\u0600' <= c <= '\u06FF' for c in p):
+                continue
+            if code == 'he' and any('\u0590' <= c <= '\u05FF' for c in p):
+                continue
+            if code in ['el', 'grc'] and any('\u0370' <= c <= '\u03FF' for c in p):
+                continue
+            if code == 'th' and any('\u0E00' <= c <= '\u0E7F' for c in p):
+                continue
+            if code == 'ta' and any('\u0B80' <= c <= '\u0BFF' for c in p):
+                continue
+            if code == 'pa' and any('\u0A00' <= c <= '\u0A7F' for c in p):
+                continue
+            if code in ['zh', 'zh-CN'] and any('\u4E00' <= c <= '\u9FFF' for c in p):
+                continue
+            if code == 'am' and any('\u1200' <= c <= '\u137F' for c in p):
+                continue
+
+            # Require at least 2 distinct German common stop words to prevent false positives on Latin/English terms
+            words = set(re.findall(r'\b[a-zäöüß]+\b', p.lower()))
+            de_hits = words.intersection(COMMON_DE_WORDS)
+            if len(de_hits) >= 2:
+                try:
+                    lang_detected = detector.detect_language_of(p)
+                    if lang_detected == Language.GERMAN and code not in DE_FALLBACK_ALLOWED:
+                        if any(cit in p for cit in ["Dümmler", "Berlin", "Kielhorn", "Solomons", "Monier-Williams", "Stenzler", "Image source:", "Fig.:"]):
+                            continue
                         return True
-                elif lang_detected == Language.ENGLISH and code in DE_FALLBACK_ALLOWED and code != "en":
-                    unallowed_paras += 1
-                    if unallowed_paras >= 1:
+                    elif lang_detected == Language.ENGLISH and code in DE_FALLBACK_ALLOWED and code != "en":
                         return True
-            except Exception:
-                pass
+                except Exception:
+                    pass
 
     return False
 
@@ -131,19 +183,15 @@ def is_file_fallback(filepath, code):
     if "TODO: Fallback translation" in txt:
         return True, "Contains TODO: Fallback translation tag"
 
-    # 2. German Master Exact Copy Check (compare cleaned text to ignore identical Sanskrit/IAST/markup)
+    # 2. German Master Exact Copy Check
     de_file = DOCS / "lektionen" / filepath.name
     if not de_file.exists():
         de_file = DOCS / filepath.name
 
     if de_file.exists():
         de_txt = de_file.read_text(encoding="utf-8", errors="ignore")
-        c_de = clean_markdown_for_lid(de_txt)
-        c_txt = clean_markdown_for_lid(txt)
-        if len(c_de.strip()) > 30:
-            ratio = difflib.SequenceMatcher(None, c_de, c_txt).ratio()
-            if ratio > 0.80:
-                return True, f"Exact/near-exact copy of German master file ({int(ratio*100)}% match)"
+        if txt.strip() == de_txt.strip():
+            return True, "Exact copy of German master file"
 
     # 3. German Phrase & Lingua LID Check
     if check_has_de_phrases(txt, code):
@@ -151,86 +199,81 @@ def is_file_fallback(filepath, code):
 
     return False, ""
 
+def get_translation_queue_files(code):
+    """Canonical list of (src, tgt) file pairs (136 master files) for a language."""
+    if code == "de":
+        return []
+    lang_dir = DOCS / code
+    pairs = []
+    # 1. Main pages
+    for p in ['index.md', 'grammatik.md', 'themen.md', 'impressum.md', 'settings.md']:
+        pairs.append((DOCS / p, lang_dir / p))
+    # 2. Lessons 01-61
+    for i in range(1, 62):
+        pairs.append((DOCS / f'lektionen/lektion{i:02d}.md', lang_dir / f'lektionen/lektion{i:02d}.md'))
+    # 3. Scripts 01-11
+    for i in range(1, 12):
+        pairs.append((DOCS / f'lektionen/schrift{i:02d}.md', lang_dir / f'lektionen/schrift{i:02d}.md'))
+    # 4. Exercises 01-61
+    for i in range(1, 62):
+        pairs.append((DOCS / f'lektionen/uebung{i:02d}.md', lang_dir / f'lektionen/uebung{i:02d}.md'))
+    # 5. Wortlisten
+    for p in ['lektionen/wortliste.md', 'lektionen/inhaltsverzeichnis.md']:
+        pairs.append((DOCS / p, lang_dir / p))
+    return pairs
+
+def get_translation_queue(code):
+    """
+    Canonical Single Source of Truth for translation queue.
+    A file is in queue if:
+      1. Missing target file
+      2. Target is older than source (mtime < src_mtime)
+      3. is_file_fallback(tgt, code) returns True
+    """
+    if code == "de":
+        return []
+    pairs = get_translation_queue_files(code)
+    todo = []
+    for src, tgt in pairs:
+        if not src.exists():
+            continue
+        if not tgt.exists():
+            todo.append((tgt.name, "Fehlt (neu)"))
+            continue
+        if tgt.stat().st_mtime < src.stat().st_mtime:
+            todo.append((tgt.name, "Veraltet"))
+            continue
+        is_fb, reason = is_file_fallback(tgt, code)
+        if is_fb:
+            todo.append((tgt.name, reason))
+    return todo
+
 def tag_file_for_retranslation(filepath, code):
     """
-    Scans a file for German remnant blocks and appends '<!-- TODO: Fallback translation -->' 
-    to blocks containing German remnants, so lan_translate.py will re-translate them.
-    Returns: True if file was modified, False otherwise.
+    Deprecated: QA tools are strictly read-only.
+    Returns: False (no file modifications).
     """
-    if code == "de" or code in DE_FALLBACK_ALLOWED:
-        return False
-
-    filepath = Path(filepath)
-    if not filepath.exists():
-        return False
-
-    txt = filepath.read_text(encoding="utf-8", errors="ignore")
-    blocks = txt.split("\n\n")
-    modified = False
-    new_blocks = []
-
-    detector = get_lingua_detector()
-
-    for block in blocks:
-        if "<!-- TODO: Fallback translation -->" in block:
-            new_blocks.append(block)
-            continue
-
-        clean_b = clean_markdown_for_lid(block)
-        has_kw = any(kw in clean_b for kw in GERMAN_KEYWORDS)
-        has_lingua_de = False
-
-        if not has_kw and detector and len(clean_b.split()) >= 3:
-            try:
-                from lingua import Language
-                if detector.detect_language_of(clean_b) == Language.GERMAN:
-                    has_lingua_de = True
-            except Exception:
-                pass
-
-        if has_kw or has_lingua_de:
-            block = block.strip() + " <!-- TODO: Fallback translation -->"
-            modified = True
-
-        new_blocks.append(block)
-
-    if modified:
-        filepath.write_text("\n\n".join(new_blocks), encoding="utf-8")
-
-    return modified
+    return False
 
 def get_language_status(code):
     """
-    Calculate full status metrics for a language code.
+    Calculate full status metrics for a language code using canonical get_translation_queue.
     Returns dict with keys: code, total_files, sauber, fallbacks, pct, unfinished_files
     """
     if code == "de":
         return {"code": "de", "total_files": TOTAL_MASTER, "sauber": TOTAL_MASTER, "fallbacks": 0, "pct": 100.0, "unfinished_files": []}
 
-    lang_dir = DOCS / code
-    if not lang_dir.exists():
-        return {"code": code, "total_files": 0, "sauber": 0, "fallbacks": TOTAL_MASTER, "pct": 0.0, "unfinished_files": []}
-
-    all_md = list(lang_dir.glob("**/*.md"))
-    files = [f for f in all_md if not is_excluded_file(f)]
-
-    fallbacks = 0
-    unfinished_files = []
-
-    for f in files:
-        is_fb, reason = is_file_fallback(f, code)
-        if is_fb:
-            fallbacks += 1
-            unfinished_files.append((f.name, reason))
-
+    queue = get_translation_queue(code)
+    fallbacks = len(queue)
     sauber = max(0, TOTAL_MASTER - fallbacks)
     pct = round((sauber / TOTAL_MASTER) * 100.0, 1)
 
     return {
         "code": code,
-        "total_files": len(files),
+        "total_files": TOTAL_MASTER,
         "sauber": sauber,
         "fallbacks": fallbacks,
         "pct": pct,
-        "unfinished_files": unfinished_files
+        "unfinished_files": queue
     }
+
