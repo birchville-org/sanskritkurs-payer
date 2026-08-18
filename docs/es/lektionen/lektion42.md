@@ -365,14 +365,3 @@ Fig.: ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gen.Loc.Dual de ⟪सीताराम⟫
 
-::: deleteme-box
-
-* **Fig. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Fuente de la imagen: Wikipedia. Dominio público)
-* **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. El Diwan I Khas, o Sala de Audiencias Privadas en el Lal Qila (Fuerte Rojo) en Delhi. (Fuente de la imagen: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Acceso el 2009-01-04. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual))
-* **Fig. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Fuente de la imagen: Wikipedia. Dominio público)
-* **Fig. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. Carro). (Fuente de la imagen: Wikipedia. Dominio público)
-* **Fig. lekt4205**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. Siglo XVII. (Fuente de la imagen. Wikipedia. Dominio público)
-* **Fig. lekt4206**: Ubicación de ⟪मिथिला⟫ y ⟪विदेह⟫, ⟪अयोध्या⟫ y ⟪कोसल⟫. (Fuente de la imagen: JIJITH NR / Wikipedia. Licencia GNU FD)
-* **Fig. lekt4207**: ⟪रावणः⟫. Máscara de danza Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Fuente de la imagen: Manohara Upadhya / Wikipedia. Licencia GNU FD)
-* **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Imagen de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Fuente de la imagen: Wikipedia. Dominio público)
-:::

@@ -5,7 +5,7 @@ lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 17
 
@@ -31,7 +31,7 @@ Exemple:
 ⟪द्विष्⟫ 2 U "a urî"
 
 *   stemă de prezent puternică: dveṣ-
-*   stemă de prezent slabă: dviṣ- <!-- TODO: Fallback translation -->
+*   stemă de prezent slabă: dviṣ-
 
 ::: no-header
 
@@ -40,7 +40,7 @@ Exemple:
 | 3\. sg. Prezent P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
 | 3\. pl. Prezent P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
 | 3\. sg. Prezent Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Prezent Ā | ⟪द्विषते⟫ (dviṣ-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Prezent Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
 În acest caz, se aplică următoarea regulă de sandhi al cuvintelor:
@@ -66,13 +66,13 @@ Alte exemple:
 | 3\. sg. Prezent P | ⟪एति⟫ (e-ti) |
 | 3\. pl. Prezent P | ⟪यन्ति⟫ (y-anti) |
 | 3\. sg. Prezent Ā | ⟪इते⟫ (i-te) |
-| 3\. pl. Prezent Ā | ⟪इयते⟫ (iy-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Prezent Ā | ⟪इयते⟫ (iy-ate) |
 
 :::
 ⟪दुह्⟫ 2 U "a mulge"
 
 *   stemă de prezent puternică: doh-
-*   stemă de prezent slabă: duh- <!-- TODO: Fallback translation -->
+*   stemă de prezent slabă: duh-
 
 ::: no-header
 
@@ -81,7 +81,7 @@ Alte exemple:
 | 3\. sg. Prezent P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. Prezent P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Prezent Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Prezent Ā | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Prezent Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
 ⟪हन्⟫ 2 P "a lovi, a ucide, a omorî"
@@ -98,20 +98,20 @@ Alte exemple:
 | 3\. sg. Prezent P | ⟪हन्ति⟫ (han-ti) |
 | 3\. pl. Prezent P | ⟪घ्नन्ति⟫ (ghn-anti) |
 | 3\. sg. Prezent Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. Prezent Ā | ⟪घ्नते⟫ (ghn-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Prezent Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
 ⟪अस्⟫ 2 P "a fi"
 
 *   stemă de prezent puternică: as-
-*   stemă de prezent slabă: s- <!-- TODO: Fallback translation -->
+*   stemă de prezent slabă: s-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Prezent P | ⟪अस्ति⟫ (as-ti) |
-| 3\. pl. Prezent P | ⟪सन्ति⟫ (s-anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Prezent P | ⟪सन्ति⟫ (s-anti) |
 
 :::
 ## 17.3. Rădăcinile celei de-a doua clase de prezente cu alternanță de stemă: gradul lung - gradul redus
@@ -197,7 +197,7 @@ Exemple:
 *   stemă de prezent puternică: rodi-
 *   stemă de prezent slabă:
     *   în fața unei consoane: rudi-
-    *   în fața unei vocale: rud- <!-- TODO: Fallback translation -->
+    *   în fața unei vocale: rud-
 
 ::: no-header
 
@@ -230,7 +230,7 @@ De asemenea, ⟪स्तु⟫ 2 U "a lăuda" are, alături de formele indicate
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prezent P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | <!-- TODO: Fallback translation -->
+| 3\. sg. Prezent P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
 ## 17.6. Listă de cuvinte
@@ -249,13 +249,13 @@ Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : a ședea <!-- TODO: Fallback translation -->
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : a ședea
 
 de acolo:
 
 ::: indent
 ⟪आसन⟫ n.: șederea, locul de ședere ; de asemenea: pozițiile de ședere ale yoghinului
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -411,11 +411,3 @@ Traduceți următoarele forme verbale și indicați rădăcina corespunzătoare:
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
-::: deleteme-box
-
-**lekt1701:** [Sursă imagine: de tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Accesat la 2008-12-07. -- Licență Creative Commons (Atribuire, fără modificări)]
-
-**lekt1702:** [Sursă imagine: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Accesat la 2008-12-07. -- Licență Creative Commons (Atribuire, fără utilizare comercială, share alike)]
-
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Sursă imagine: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Accesat la 2008-12-07. -- Licență Creative Commons (Atribuire, fără utilizare comercială)]
-:::

@@ -763,35 +763,3 @@ sig[⟪ॐ⟫]
 END OF THE SANSKRIT COURSE
 :::
 
-::: deleteme-box
-
-**lekt6102:** [Image source: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Accessed on 2009-03-06. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt6106:** ⟪काशीपुर⟫ [Image source: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]]
-
-**lekt6107:** ⟪जोधपुर⟫ [Image source: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Image source: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Accessed on 2009-03-08. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Image source: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Accessed on 2009-03-08. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt6103:** [Image source: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Accessed on 2009-03-08. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribution, non-commercial use)]
-
-**lekt6109:** ⟪मुंबई⟫ [Image source: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt6110:** Karli [Image source: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt6111:** [Image source: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribution, share alike)]
-
-**lekt6113:** Thailand - เมืองไทย [Image source: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt6112:** 1845 - 1878 Professor of Indological and Oriental Philology at the University of Copenhagen
-
-**lekt6114:** Santa Cruz Basilica, Kochi = കൊച്ചി [Image source: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribution, non-commercial use)]
-
-**lekt6118:** [Image source: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt6117:** Apatani people, Arunachal Pradesh [Image source: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), 12th/13th century CE [Image source: Quadell / Wikipedia. GNU FDL License]
-:::

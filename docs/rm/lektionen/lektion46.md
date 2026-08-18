@@ -9,7 +9,7 @@ status: stable
 
 # Lecziun 46
 
-## 46.1. Furmaziun dals furmaverbs da la 2. persuna (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫) <!-- TODO: Fallback translation -->
+## 46.1. Furmaziun dals furmaverbs da la 2. persuna (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
 
 ### 46.1.1. Desinenzas
 
@@ -29,14 +29,14 @@ Avant -tha, la mai part dals radis -ṛ n'han nagina vocala da cunvegna \-i-. Pe
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u ni -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal ni h unmittelbar vorangeht.
 :::
-### 46.1.3. Perfekt Tip I: nagina la declinaziun dal stem <!-- TODO: Fallback translation -->
+### 46.1.3. Perfekt Tip I: nagina la declinaziun dal stem
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 *   Konsonant-Langvokal-Konsonant
 *   Konsonant-Vokal-Konsonant-Konsonant
 *   a-Konsonant(-Konsonant)
-*   ā-Konsonant <!-- TODO: Fallback translation -->
+*   ā-Konsonant
 
 ::: grammar-box
 1.sg.P = 3.sg.P = 2.pl.P
@@ -65,9 +65,9 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
+### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 *   (Konsonant-)i/u/ṛ/ḷ-Konsonant
 
@@ -91,7 +91,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 #### 46.1.5.1. Tip IIIa dal perfet: radza forta cun vusch stenta/lungida, radza debila cun vusch bassa
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 *   (Konsonant-)(Konsonant-)i/ī/u/ū
 *   (Konsonant-)-ṛ
@@ -128,9 +128,9 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfekt Tip IIIb: Stamm fort, nivellev autgìr / nivellev allungà, Stamm debel nivellev autgìr <!-- TODO: Fallback translation -->
+#### 46.1.5.2. Perfekt Tip IIIb: Stamm fort, nivellev autgìr / nivellev allungà, Stamm debel nivellev autgìr
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 *   (Konsonant-)(Konsonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -177,7 +177,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 #### 46.1.7.1. Perfekt Tip Va: Konsonant-a-Konsonant, stem debole livell bass
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 ::: indent
 1.  tra auters
@@ -188,7 +188,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 6.  tra auters
 7.  tra auters
 :::
-⟪गम्⟫ 1P <!-- TODO: Fallback translation -->
+⟪गम्⟫ 1P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -267,7 +267,7 @@ La 2.sg.P. vegnida formada dal stem deble, sche il vocal da giuntaziun -i- s'att
 :::
 #### 46.1.7.3. Perfetg tip Vc: Consonant-a-Consonant, stem fiabl nivell aut
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 *   Tut las autras radichas cun -a- intermediar
 
@@ -390,7 +390,7 @@ Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/rm/licenses#lekt4
 ![](/images/lekt4604.webp)
 Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/rm/licenses#lekt4604)
 (Imàgin da la font: [Detagls](/rm/licenses#lekt4604))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -398,7 +398,7 @@ Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/rm/licenses#lekt4604)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/rm/licenses#lekt4605)
 (Fontana d'immagim: [Detagls](/rm/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sa cuntentar, esser cuntent cun (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sa cuntentar, esser cuntent cun (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. II ⟪⟪तुतोष⟫⟫, ⟪⟪तुतुषुर्⟫⟫  
@@ -425,7 +425,7 @@ V. inf. ⟪नन्तुम्⟫
 Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/rm/licenses#lekt4607)
 (Bildquelle: [Detagls](/rm/licenses#lekt4607))
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : gudagnar, muntar <!-- TODO: Fallback translation -->
+⟪रुह्⟫ 1P ⟪रोहति⟫ : gudagnar, muntar
 
 ::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
@@ -441,7 +441,7 @@ Inf. ⟪रोढुम्⟫
 Abb.: [⟪अश्वरोहकः⟫](/rm/licenses#lekt4606)
 (Bildquelle: [Details](/rm/licenses#lekt4606))
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : clamar, evocar <!-- TODO: Fallback translation -->
+⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : clamar, evocar
 
 ::: indent
 Perf. IIIa ⟪⟪जुहाव⟫⟫, ⟪⟪जुहुवे⟫⟫  
@@ -515,7 +515,7 @@ davon:
 Fig.: [⟪सङ्गः⟫](/rm/licenses#lekt4610)
 (Fontana da l'imaginescha: [Detagls](/rm/licenses#lekt4610))
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : ir, cursar <!-- TODO: Fallback translation -->
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : ir, cursar
 
 ::: indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
@@ -567,7 +567,7 @@ Imm.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/rm/
 PPP ⟪परिभूत⟫ 3: sconfigiu, umilià, degradà
 
 :::
-⟪नि⟩ Präverb: giu, versu, en, enavos <!-- TODO: Fallback translation -->
+⟪नि⟩ Präverb: giu, versu, en, enavos
 
 ::: indent
 z.B.
@@ -655,26 +655,5 @@ B) Tradusci:
 ![](/images/lekt4612.webp)
 Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/rm/licenses#lekt4612)
 (Imaggina da: [Detagls](/rm/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-Fonta dals imatgs dals Navagraha: Redtigerxyz / Wikipedia. Licenza GNU FDL <!-- TODO: Fallback translation -->
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870). Fonte: Wikipedia. Domini public
-
-L4606: ⟪अश्वरोहकः⟫, Pune=⟪पुणे⟫. Quella: wili_hybrid, Flickr, CC BY 2.0
-
-L4608: Udaipur. Quelle: Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609: Karnataka=ಕರ್ನಾಟಕ. Fonte: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, Kamareddy=కామారెడ్డి. Source: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, Bangalore=ಬೆಂಗಳೂರು. Source: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, Kutch=⟪कच्छ⟫. Fonta: orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612: Mumbai=⟪मुंबई⟫ su l'attentat, 11 da fanadur 2006. Fontauna: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
 :::
 

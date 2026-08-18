@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 24
 
@@ -376,7 +376,7 @@ Veneração (⟪नमस्⟫) a Śiva! Veneração a Śrī Gaṇeśa!
 Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt2409))
 :::
-Até logo! (= Bem-estar (⟪स्वस्ति⟫ f.) para vós!) <!-- TODO: Fallback translation -->
+Até logo! (= Bem-estar (⟪स्वस्ति⟫ f.) para vós!)
 
 Esta fruta é suficiente para comer.
 
@@ -405,27 +405,3 @@ Basta uma fruta para comer e água para beber.
 
 15⟪१५⟫. Até à vista! (Neo-sânscrito: ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [Fonte da imagem: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Acessado em 2008-12-14. -- Licença Creative Commons (Atribuição, Uso Não-Comercial)]
-
-**lekt2402:** Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters. [Fonte da imagem: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Acessado em 2008-12-14. -- Licença Creative Commons (Atribuição, Uso Não-Comercial, CompartilhaIgual)]
-
-**lekt2403:** "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820 [Fonte da imagem: Wikipedia, Domínio público]
-
-**lekt2404:** [Fonte da imagem: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Acessado em 2008-12-14. -- Licença Creative Commons (Atribuição, Sem Derivações)]
-
-**lekt2405:** [Fonte da imagem: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Acessado em 2008-12-14. -- Licença Creative Commons (Atribuição, Uso não comercial, Sem derivações)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Fonte da imagem: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Acessado em 2008-12-14. -- Licença Creative Commons (Atribuição, Uso não comercial)]
-
-**lekt2407:** "NOVA DELI/ÍNDIA, 16NOV08 - Suhasini Haidar, Editora Adjunta de Relações Exteriores, CNN-IBN Network 18, Índia, modera um painel de discussão na Cúpula Econômica da Índia do Fórum Econômico Mundial de 2008 em Nova Deli." [Fonte da imagem: Fórum Econômico Mundial / Foto de Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Acessado em 2008-12-14. -- Licença Creative Commons (Atribuição, CompartilhaIgual)]
-
-**lekt2408:** "O contador de histórias de São Francisco, Jeff Byers, compartilha uma história com os moradores de Chenneri, uma aldeia Irula. A contadora de histórias Jeeva Raghunath traduz para o tâmil para os aldeões." [Fonte da imagem: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Acessado em 2008-12-14. -- Licença Creative Commons (Atribuição, Uso não comercial)]
-
-**lekt2409:** [Fonte da imagem: Redtigerxyz / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt2410:** ⟪नरसिंह⟫ dilacera ⟪हिरण्यकशिपु⟫, folha de um manuscrito do ⟪भागवतपुराण⟫ [Fonte da imagem: Wikipedia, Domínio público]
-
-**lekt2411:** Manuscrito do ⟪गीतगोविन्द⟫, 1730 d.C. [Fonte da imagem: Wikipedia, Domínio público]
-:::

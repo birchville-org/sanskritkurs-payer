@@ -369,21 +369,3 @@ B) Перекладіть санскритом:
 (Джерело зображення: [Деталі](/uk/licenses#lekt4309))
 :::
 
-::: deleteme-box
-
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Доступ 2009-01-06. -- Ліцензія Creative Commons (Ім'я, некомерційне використання) &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Доступ 2009-01-06. -- Ліцензія Creative Commons (Ім'я, некомерційне використання)
-
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Доступ 2009-01-06. -- Ліцензія Creative Commons (Ім'я)
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Доступ 2009-01-06. -- Ліцензія Creative Commons (Ім'я, некомерційне використання, поділитися на тих самих умовах)
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Доступ 2009-001-06. -- Ліцензія Creative Commons (Ім'я, поділитися на тих самих умовах)
-
-**lekt4307.jpg**: Ray Witlin / Світовий банк. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Доступ 2009-01-06. -- Ліцензія Creative Commons (Ім'я, некомерційне використання, без обробки)
-
-**lekt4308.jpg**: G.-U. Tolkiehn / Вікіпедія. GNU FDLicense &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Доступ 2009-01-07. -- Ліцензія Creative Commons (Ім'я, без обробки)
-:::

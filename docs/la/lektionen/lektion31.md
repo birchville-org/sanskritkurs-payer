@@ -30,7 +30,7 @@ Exempla:
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | | <!-- TODO: Fallback translation -->
+| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
 ⟪रुध्⟫ 7U "stoppāre, ad quietem perducere"
@@ -214,15 +214,3 @@ B) Formate ad sequentes radices classis septimae omnes personas tertias singular
 
 ⟪५⟫. ⟪भञ्ज्⟫ (solum P)
 
-::: deleteme-box
-
-**lekt3101:** Representatio yogae. [Fons imaginis: Flickr, 2008-12-25. CC BY]
-
-**lekt3102:** Praeparatio ad saltum Kathakali, Kochi. [Fons imaginis: winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**lekt3103:** Ex uno manuscripto Prajñāpāramitae. [Fons imaginis: zeno.org. In publicum dominium]
-
-**lekt3105:** Cisternae 18. Equisquadrariorum (Indicae Militiae) in motu durante bello Indo-Pakistanensi anno 1965. [Fons imaginis: Hari Singh Deora / Wikipedia. Dominium publicum]
-
-**lekt3104:** Rāhula, filius Buddhas, Lausia. [Fontes imaginis: Sacca / Wikipedia. GNU FDL]
-:::

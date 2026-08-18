@@ -9,7 +9,7 @@ status: stable
 
 # Lecziun 54
 
-## 54.1. Vorbemerkung <!-- TODO: Fallback translation -->
+## 54.1. Vorbemerkung
 
 Cun la lecziun 54 cumenza l'uni versitad il 2. semestral. A partir da quaivola funcziunescha il curs mo anc en in'activitad laterala dal tema principial da quest semestral: la lectura da l'intira Bhagavadgītā. L'objectiv d'apprendiment è ina talia fluidezza en la lectura d'in text da media difficultad, che en l'ultim terz dal semestral grans parts da la Bhagavadgītā pon vegnir traduids dal stadi present. A l'inizium èn en l'uni versitad anc distribuids listas da vuschas, pli tard han ils students duvrà sez dictionaris correspundents (Monier-Williams, Apte, PW).
 
@@ -20,7 +20,7 @@ Las lecziuns dal curs da Sanscrit tractan tems da la gramatica dal Sanscrit, che
 ## 54.2. Furmaziun da pleds: ⟪कृत्⟫-Suffix -u an Desiderativstämme
 
 ::: grammar-box
-**Als Desiderativstämme (⟪इच्छाप्रकृति⟫) ("vulair da far quaicosa" ; "sesser prest a far quaicosa") apparischa per la furmaziun da nomina agentis il sufix -u.** <!-- TODO: Fallback translation -->
+**Als Desiderativstämme (⟪इच्छाप्रकृति⟫) ("vulair da far quaicosa" ; "sesser prest a far quaicosa") apparischa per la furmaziun da nomina agentis il sufix -u.**
 
 (Il formaziun dals stims dal desiderativ suonda pli tard)
 
@@ -116,7 +116,7 @@ Exempl d'ina recitaziun: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](h
 ## 54.5. Tips da furmaziun da l'aorist (⟪लुङ्⟫)
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfect (⟪लङ्⟫) vorgesetzt wird.** <!-- TODO: Fallback translation -->
+**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfect (⟪लङ्⟫) vorgesetzt wird.**
 
 Dal aorist è en sanscrit mo indiciu e precativ usitads.
 :::
@@ -131,7 +131,7 @@ Dal aorist è en sanscrit mo indiciu e precativ usitads.
     *   54.4. -s-Aorist: Augment + Radis + **s** \+ Sekundärendung
     *   54.5. -iṣ-Aorist: Augment + Radis + **i** + **ṣ** + Sekundärendung
     *   54.6. -siṣ-Aorist: Augment + Radis + **siṣ** + Sekundärendung
-    *   54.7. -sa-Aorist: Augment + Radis + **s** + **a** + Sekundärendung <!-- TODO: Fallback translation -->
+    *   54.7. -sa-Aorist: Augment + Radis + **s** + **a** + Sekundärendung
 
 La distribuziun dals radichals sin ils singuls tipus da furmaziun vesair tar ils singuls tipus
 :::
@@ -155,7 +155,7 @@ Esempel:
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
 :::
-Il tempus aorist da la radis vegn format mo da 12 radis: <!-- TODO: Fallback translation -->
+Il tempus aorist da la radis vegn format mo da 12 radis:
 
 1.  ⟪गा⟫ 3 "ir"
 2.  ⟪घ्रा⟫ 1P "mirar"
@@ -213,7 +213,7 @@ ma:
 
 *   radis che finischan cun -am  
 Esempel:  
-⟪गम्⟫ ⟪अगामि⟫ <!-- TODO: Fallback translation -->
+⟪गम्⟫ ⟪अगामि⟫
 
 Aggiunta di y prima da la desinenza:
 
@@ -262,13 +262,5 @@ Translatar per iscritg las suandantas formas e crear las correspundentas formas 
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Fontana da l'imagia: [Detagls](/rm/licenses#lekt5401))
-:::
-
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Fontana da l'imagines: Raji Srinivas / Wikipedia. Licenza GNU FD]
-
-**lekt5401:** Tamil Nadu [fonte da l’imagines: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- consultà il 2009-01-28. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (attribuziun, nagina utilizaziun commerziala, shre alike)]
-
 :::
 

@@ -281,13 +281,3 @@ Ceremonia de Yajña, ashrama Shiva, Ganeshpuri.
 
 C) Transforma las oraciones del ejercicio B) sustituyendo los perfectos por imperfectos.
 
-::: deleteme-box
-
-**lekt3501:** Músicos del templo, Templo Kaadu Malleswara, Bangalore. [Fuente de la imagen: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** Personas caminando, Senegal. [Fuente de la imagen: Curt Carnemark / Banco Mundial. CC BY-NC-ND]
-
-**lekt3503:** Mercado en Vadaseri, Tamil Nadu. [Fuente de la imagen: kifo / Flickr. CC BY-SA]
-
-**lekt3504:** Ceremonia de Yajña, ashrama Shiva, Ganeshpuri. [Fuente de la imagen: Dey / Flickr. CC BY-NC-SA]
-:::

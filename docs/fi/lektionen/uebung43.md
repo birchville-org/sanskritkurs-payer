@@ -75,7 +75,7 @@ Kuv.: ⟪दिशसि⟫
 :::
 ---
 
-## Käännökset sanskritiksi <!-- TODO: Fallback translation -->
+## Käännökset sanskritiksi
 
 B) Käännä sanskritiksi:
 
@@ -83,13 +83,13 @@ B) Käännä sanskritiksi:
 Miksi istutte, kun opettaja seisoo?
 
 ⟪२⟫. **⟪किं⟫ ⟪विकल्पयसि⟫ ⟪किं⟫ ⟪सुकर्मणः⟫ ⟪सुफलमस्तीति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Epäiletkö, että hyvällä teolla on hyvä hedelmä? <!-- TODO: Fallback translation -->
+Epäiletkö, että hyvällä teolla on hyvä hedelmä?
 
 ⟪३⟫. **⟪कच्चित्पितरं⟫ ⟪गर्भगृहं⟫ ⟪दर्शयिष्यथ⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (Tai: **⟪कच्चित्पित्रे⟫ ... ⟪देक्ष्यथ⟫ ⟪॥⟫**)
 Näytättekö isälle sisimmän temppelin pyhättön?
 
 ⟪४⟫. **⟪कस्य⟫ ⟪कवेः⟫ ⟪स्तोत्रमगायः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Minkä runoilijan ylistyslaulun olet laulanut? <!-- TODO: Fallback translation -->
+Minkä runoilijan ylistyslaulun olet laulanut?
 
 ⟪५⟫. **⟪एतानि⟫ ⟪फलानि⟫ ⟪विक्रेष्यध्वे⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 Myykötteko nämä hedelmät?
@@ -107,7 +107,7 @@ Oletteko (uhritoimittajina) kunnioittanut jumalia uhrauksella?
 Missä kaupungissa synnyit?
 
 ⟪१०⟫. **⟪कथं⟫ ⟪शत्रुं⟫ ⟪तरसि⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Kuinka pelastat itsesi (ylität joen) vihollisen edessä? <!-- TODO: Fallback translation -->
+Kuinka pelastat itsesi (ylität joen) vihollisen edessä?
 
 
 ::: media
@@ -117,7 +117,7 @@ Kuvio: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 :::
 ---
 
-## Keskustelu (⟪संवादः⟫) <!-- TODO: Fallback translation -->
+## Keskustelu (⟪संवादः⟫)
 
 | ⟪पात्रम्⟫ / ⟪संवादः⟫ | Käännös |
 | :--- | :--- |
@@ -138,17 +138,17 @@ Kuvio: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 | **⟪अशोकः⟫ : ⟪सेरभारा⟫ ⟪शर्करा⟫ ⟪कियता⟫ ⟪मूल्येन⟫ ⟪विक्रीयते⟫ ⟪॥⟫** | Aśoka: Paljonko maksaa yksi seer sokeria? |
 | **⟪वणिक्⟫ : ⟪नाधिक्यं⟫ ⟪मूल्यम्⟫ ⟪।⟫ ⟪केवलमष्टाणकेन⟫ ⟪दास्यामि⟫ ⟪सेरभारां⟫ ⟪शर्कराम्⟫ ⟪॥⟫** | Kauppias: Ei paljoa. Annan sinulle yhden seerin sokeria vain kahdeksalla annalla. |
 | **⟪अशोकः⟫ : ⟪तर्हि⟫ ⟪तोलयित्वा⟫ ⟪शीघ्रं⟫ ⟪सेरपरिमितां⟫ ⟪शर्करां⟫ ⟪देहि⟫ ⟪॥⟫** | Aśoka: Paina sitten nopeasti yksi seer minulle ja anna se! |
-| **⟪वणिक्⟫ : (⟪शर्करां⟫ ⟪कर्गले⟫ ⟪संपुटीकृत्य⟫) ⟪बाल⟫ ⟪गृहाण⟫ ⟪शर्कराम्⟫ ⟪।⟫ ⟪देहि⟫ ⟪च⟫ ⟪मह्यमाणकाष्टकम्⟫ ⟪।⟫ ⟪सत्वरं⟫ ⟪देहि⟫ ⟪॥⟫** | Kauppias: (käärii sokerin paperiin): Poika, ota sokeri! Ja anna minulle kahdeksan annaa siitä, mutta nopeasti! | <!-- TODO: Fallback translation -->
+| **⟪वणिक्⟫ : (⟪शर्करां⟫ ⟪कर्गले⟫ ⟪संपुटीकृत्य⟫) ⟪बाल⟫ ⟪गृहाण⟫ ⟪शर्कराम्⟫ ⟪।⟫ ⟪देहि⟫ ⟪च⟫ ⟪मह्यमाणकाष्टकम्⟫ ⟪।⟫ ⟪सत्वरं⟫ ⟪देहि⟫ ⟪॥⟫** | Kauppias: (käärii sokerin paperiin): Poika, ota sokeri! Ja anna minulle kahdeksan annaa siitä, mutta nopeasti! |
 
 | **⟪अशोकः⟫ : (⟪आदाय⟫ ⟪हस्ते⟫ ⟪तस्य⟫ ⟪भारं⟫ ⟪चाल्पं⟫ ⟪विलोक्य⟫) ⟪भो⟫ ⟪वणिक्⟫ ⟪।⟫ ⟪नैषा⟫ ⟪सेरभारा⟫ ⟪शर्करा⟫ ⟪दृश्यते⟫ ⟪।⟫ ⟪पुनः⟫ ⟪सम्यक्तोलयित्वा⟫ ⟪देहि⟫ ⟪॥⟫** | Aśoka: (ottaa sen käteensä ja huomaa sen kevyen painon): Hei, kauppias! Tuntuu ettei tämä ole koko seeri sokeria. Paina se uudelleen oikein! |
 | **⟪वणिक्⟫ : (⟪सहासम्⟫) ⟪किमनेन⟫ ⟪।⟫ ⟪अकिञ्चित्करमेतत्⟫ ⟪।⟫ ⟪तव⟫ ⟪भारवहनक्लेशो⟫ ⟪ऽल्पो⟫ ⟪भविष्यति⟫ ⟪॥⟫** | Kauppias: (nauraen): Mikä siitä väliä? Se on merkityksetöntä. Näin sinulla on vähemmän vaivaa kantaa kuormaa. |
 | **⟪अशोकः⟫ : (⟪मनसि⟫ ⟪किंचिद्विचार्याणकचतुष्टयं⟫ ⟪च⟫ ⟪तस्य⟫ ⟪पुरत⟫ ⟪उपस्थाप्य⟫) ⟪भो⟫ ⟪श्रेष्ठिन्गृहाण⟫ ⟪मूल्यम्⟫ ⟪।⟫ ⟪मया⟫ ⟪हि⟫ ⟪शीघ्रं⟫ ⟪गृहं⟫ ⟪गन्तव्यम्⟫ ⟪॥⟫** | Aśoka: (miettimään lyhyesti ja asettaa hänelle neljä annaa): Arvoisa kauppiaani, tässä on hinta. Minun nimittäin on kiire päästä kotiin. |
 | **⟪वणिक्⟫ : ⟪रे⟫ ⟪बालक⟫ ⟪।⟫ ⟪एह्येहि⟫ ⟪शृणु⟫ ⟪तावत्⟫ ⟪।⟫ ⟪अल्पमेव⟫ ⟪मूल्यं⟫ ⟪दत्त्वा⟫ ⟪क्व⟫ ⟪व्रजसि⟫ ⟪।⟫ ⟪आणकचतुष्टयमन्यदपि⟫ ⟪देहि⟫ ⟪॥⟫** | Kauppias: Hei, poika! Tule takaisin! Kuuntele! Minne menet, kun olet maksanut vain niin vähän? Anna minulle loput neljä annaa! |
 | **⟪अशोकः⟫ : ⟪श्रेष्ठिन्⟫ ⟪।⟫ ⟪किमनेन⟫ ⟪।⟫ ⟪अकिंचित्करमेतत्⟫ ⟪।⟫ ⟪नाणकगणनाक्लेशस्ते⟫ ⟪ऽल्पीयान्भविष्यति⟫ ⟪॥⟫** | Aśoka: Kauppias! Mikä siitä väliä? Se on merkityksetöntä. Näin sinulla on vähemmän vaivaa laskea kolikoita! |
-| **(⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫)** | (Puhuessaan ja juoksee kiireesti pois.) | <!-- TODO: Fallback translation -->
+| **(⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫)** | (Puhuessaan ja juoksee kiireesti pois.) |
 
 **(⟪विपणिस्थो⟫ ⟪वञ्चको⟫ ⟪वणिक्⟫ ⟪किमपि⟫ ⟪कर्तुमशक्नोत्केवलं⟫ ⟪तस्य⟫ ⟪मनसि⟫ ⟪पश्चात्ताप⟫ ⟪एवासीत्⟫ ⟪।⟫ ⟪अशोको⟫ ⟪गृहमागत्य⟫ ⟪सर्वमपीतिवृत्तमकथयत्⟫ ⟪।⟫ ⟪तत्रस्था⟫ ⟪सर्वे⟫ ⟪ऽपि⟫ ⟪बान्धवा⟫ ⟪मित्राणि⟫ ⟪च⟫ ⟪परमानन्दं⟫ ⟪प्रापुः⟫ ⟪।⟫ ⟪इत्थं⟫ ⟪जन्मोत्सवः⟫ ⟪सानन्दं⟫ ⟪समाप्तिं⟫ ⟪यातः⟫ ⟪॥⟫)**
 
 **Yhteenveto:**
-Huijarikauppias kaupassaan ei voinut tehdä mitään ja tunsi vain katkeruutta sydämessään. Aśoka tuli kotiin ja kertoi koko tapauksen. Kaikki sukulaiset ja ystävät nauttivat suuresti. Näin syntymäpäiväjuhla sai iloinen lopun. <!-- TODO: Fallback translation -->
+Huijarikauppias kaupassaan ei voinut tehdä mitään ja tunsi vain katkeruutta sydämessään. Aśoka tuli kotiin ja kertoi koko tapauksen. Kaikki sukulaiset ja ystävät nauttivat suuresti. Näin syntymäpäiväjuhla sai iloinen lopun.
 

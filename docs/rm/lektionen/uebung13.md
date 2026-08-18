@@ -33,7 +33,7 @@ Il Brahman ha desiderà la liberaziun.
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
 È ditg che ils savis vedics han mo la verit ditg.
@@ -126,7 +126,7 @@ Co mangian e bevan ils Brahmanas?
 Abb.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung019))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercizis supplementars
 
@@ -192,7 +192,7 @@ Quala deidad ves il Ṛṣi?
 A quai deids offereschan Brahmanas, Katriyas e Vaśyas?
 ⟪के⟫ ⟪देवा⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिष्टाः⟫ ⟪॥⟫
 
-D) Da tge cumbinaziuns da sons pon esser naschidas las suandantas formas Sandhi? Dat tut las pussaivladads: <!-- TODO: Fallback translation -->
+D) Da tge cumbinaziuns da sons pon esser naschidas las suandantas formas Sandhi? Dat tut las pussaivladads:
 
 1. -a avant vocal (excepziun a-): -as
 2. -ā- : -a + -a/-ā -ā + a-/ā-
@@ -274,4 +274,3 @@ E) Traduscha en Sanscrit:
 Abb.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung018))
 :::
- <!-- TODO: Fallback translation -->

@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 42
 
-## 42.1. Tulpile pe -ṛ <!-- TODO: Fallback translation -->
+## 42.1. Tulpile pe -ṛ
 
 ### 42.1.1. Treci cu grad lung în tema puternică
 
@@ -17,7 +17,7 @@ status: stable
 Toate substantivele masculine pe -ṛ, cu excepția celor de rudenie menționate la punctul 1.3. Aici se încadrează și denumirile de rudenie:
 
 *   **⟪नप्तृ⟫** m. "nepot"
-*   **⟪भर्तृ⟫** m. "soț (literal: susținător)" <!-- TODO: Fallback translation -->
+*   **⟪भर्तृ⟫** m. "soț (literal: susținător)"
 
 Majoritatea substantivelor de aici sunt substantive de agentivitate cu sufixul ⟪कृत्⟫ -⟪तृ⟫.
 
@@ -105,7 +105,7 @@ Printre acestea se numără următoarele denumiri de rude:
 *   **⟪भ्रातृ⟫** m. "frate"
 *   **⟪देवृ⟫** m. "fratele soțului (ginegele soției)"
 *   **⟪यातृ⟫** f. "soția fratelui soțului"
-*   **⟪ननान्दृ⟫** f. "sora soțului (gineaga soției)" <!-- TODO: Fallback translation -->
+*   **⟪ननान्दृ⟫** f. "sora soțului (gineaga soției)"
 
 **Formare:**
 
@@ -149,7 +149,7 @@ Exemple:
 ::: indent
 PPP ⟪अवस्थित⟫ 3: stând, existent
 :::
-⟪पुरा⟫ Adv.: odată, mai devreme <!-- TODO: Fallback translation -->
+⟪पुरा⟫ Adv.: odată, mai devreme
 
 ⟪अनेक⟫ 3: mulți (nu câțiva)
 
@@ -216,7 +216,7 @@ Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 :::
 ⟪भर्तृ⟫ m. (de la ⟪भृ⟫ "a purta, a întreține"): Cel care întreține, cel care hrănește, soț
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Soție (⟪भार्या⟫ = gerunziu la ⟪भृ⟫ : cea care trebuie purtată, cea care trebuie întreținută, cea îndreptățită la întreținere) <!-- TODO: Fallback translation -->
+⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Soție (⟪भार्या⟫ = gerunziu la ⟪भृ⟫ : cea care trebuie purtată, cea care trebuie întreținută, cea îndreptățită la întreținere)
 
 ⟪पितृ⟫ m.: Tată
 
@@ -365,14 +365,3 @@ Fig.: ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gen.Loc.Dual la ⟪सीताराम⟫
 
-::: deleteme-box
-
-* **Fig. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Sursa imaginii: Wikipedia. Domeniu public)
-* **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. Sala Diwan I Khas, sau Sala Audiencelor Private de la Lal Qila (Fortul Roșu) din Delhi. (Sursa imaginii: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accesat la 2009-01-04. -- Licență Creative Commons (Atribuire, fără scop comercial, share alike))
-* **Fig. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, c. 1825. (Sursa imaginii: Wikipedia. Domeniu public)
-* **Fig. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. Car). (Sursa imaginii: Wikipedia. Domeniu public)
-* **Fig. lekt4205**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. Sec. al XVII-lea. (Sursa imaginii: Wikipedia. Domeniu public)
-* **Fig. lekt4206**: Poziția lui ⟪मिथिला⟫ și a lui ⟪विदेह⟫, ⟪अयोध्या⟫ și a lui ⟪कोसल⟫. (Sursa imaginii: JIJITH NR / Wikipedia. Licență GNU FDL)
-* **Fig. lekt4207**: ⟪रावणः⟫. Masca de dans Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Sursa imaginii: Manohara Upadhya / Wikipedia. Licență GNU FDL)
-* **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Imagine a lui ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Sursa imaginii: Wikipedia. Domeniu public)
-:::

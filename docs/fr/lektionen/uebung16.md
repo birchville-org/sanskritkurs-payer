@@ -248,11 +248,6 @@ La fonction spécifique d'un śūdra est le service obéissant des deux fois né
 La fonction de tous est : non-violence, véracité, pureté, ne pas se plaindre de son sort, absence de méchanceté et patience indulgente.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-::: deleteme-box Explications
-Phrase 7 : **⟪कृषिपाशुपाल्ये⟫** duel, nom. acc. : dvandva, désignant les deux "choses"
-Phrase 8 : **⟪कर्म⟫** nom., acc. sg. neutre à ⟪कर्मन्⟫ "acte"
-Phrase 13 : **⟪सर्वेषाम्⟫** gén. pl. masc. à ⟪सर्व⟫ "chaque, tous" (pronom, ne se décline pas comme deva)
-:::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 Le bâton provoque l'acquisition et la possession sûre de la philosophie, de la védologie et de l'économie. La direction du bâton est la politique.

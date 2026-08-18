@@ -31,7 +31,7 @@ Avant -vas e -vahe vegn il vocal da tema -a- sustitui da -ā-.
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
 ### 58.2.2. Quarta classa da prescha (⟪दिवादिगणः⟫)
 
@@ -49,7 +49,7 @@ Imag.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt5802))
 :::
-### 58.2.3. Sessena classa da prezens (⟪तुदादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.2.3. Sessena classa da prezens (⟪तुदादिगणः⟫)
 
 ⟪तुद्⟫ 6U "stizzar, batter"
 
@@ -184,7 +184,7 @@ Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 Imag.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt5805))
 :::
-### 58.5.2. Terza classa da prezens (⟪जुहोत्यादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.2. Terza classa da prezens (⟪जुहोत्यादिगणः⟫)
 
 ⟪हु⟫ 3P "verscharren in d'Opferfeuer"
 
@@ -220,7 +220,7 @@ Imag.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt5807))
 :::
-### 58.5.4. Octava classa da prezens (⟪तनादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.4. Octava classa da prezens (⟪तनादिगणः⟫)
 
 ⟪तन्⟫ 8U "stender"
 
@@ -275,14 +275,14 @@ Imag.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Sursa d'immagines: [Detagls](/rm/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-Aorist <!-- TODO: Fallback translation -->
+## 58.6. Aorist 5: iṣ-Aorist
 
 ::: grammar-box
 **L'aorist iṣ vegn format da tut las radis seṣ, per las qualas na vegn betg explicitamain mo in'autra furma da l'aorist emprimada.**
 
 **Educaziun:**
 
-**Augment + Radix + i + s + athematische Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + Radix + i + s + athematische Sekundärendung**
 
 **!!!** La 2.sg.P e la 3.sg.P derivan da **-**īs respectivamain -īt da **!!!** (Quai è naschì tras ina transferenza dal imperfect da radichas dal tipus ⟪अब्रवीत्⟫; èn quai donc radichamain aorist-formas).
 :::
@@ -295,11 +295,11 @@ La furmaziun dal stemma + las desinenzas dal aorist d'iṣ èn donc:
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
 | **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h ni Halbvokal) |
-| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** | <!-- TODO: Fallback translation -->
+| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
 :::
 ::: grammar-box
-**Furma da la radischa:** <!-- TODO: Fallback translation -->
+**Furma da la radischa:**
 
 *   **Radixas cun vocal curtta avant consonanta simpla: nivel aut en P e Ā**  
     Exemples:  
@@ -458,16 +458,3 @@ B) Tradurretz e determinai las suventas formas:
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [sursa da l’imagina: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Access il 2009-03-02. -- [licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (attribuziun)]
-
-**lekt5803:** Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [Fonte da l'imagina: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- Access il 2009-03-02. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nominaziun, nagina utilizaziun commerziala, nagina modificaziun)]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [Fonte da l'imaginesch: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Access il 2009-03-02. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (numinaziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-
-:::

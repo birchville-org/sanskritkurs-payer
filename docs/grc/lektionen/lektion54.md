@@ -264,11 +264,3 @@ Tamil Nadu
 (Image source: [Details](/grc/licenses#lekt5401))
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Τιρουπάτι = తిరుపతి [πηγή εικόνας: Raji Srinivas / Wikipedia. Άδεια GNU FDLicense]
-
-**lekt5401:** Ταμίλ Ναντ [πηγή εικόνας: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Πρόσβαση στις 2009-01-28. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά συγγραφέα, μη εμπορική χρήση, shre alike)]
-
-:::
-

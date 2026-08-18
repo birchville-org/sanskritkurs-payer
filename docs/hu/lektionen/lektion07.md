@@ -5,18 +5,10 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# 7. lecke <!-- TODO: Fallback translation -->
+# 7. lecke
 
-::: deleteme-box
-**Ebben a leckében megtanulják:**
-- A mondat igéi szerkezete közvetlen tárggyal
-- A főnevek és névmások tárgyesete (accusativus)
-- A végződő -n Sandhi-ja
-- Az a-tövek semleges nemű alakjai
-- A hangtalan jelen idő osztályok (az 5. osztály példáján)
-::: <!-- TODO: Fallback translation -->
 
 :::
 ::: center
@@ -52,7 +44,7 @@ pl.
 :::
 Ha az ige a parasmaipada vagy az Ātmanepada alakjában áll, akkor a közvetlen tárgy (**karman** n. = ⟪कर्मन्⟫) általában a **tárgyesetben** áll (Wenfall, dvitīyā f. = ⟪द्वितीया⟫).
 
-## 7.2. A tárgyeset (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = „második esetrag”) <!-- TODO: Fallback translation -->
+## 7.2. A tárgyeset (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = „második esetrag”)
 
 ::: grammar-box
 **A tárgyeset egyes számú nemű és nőnemű végződése magánhangzó után: -m**
@@ -103,7 +95,7 @@ Ha az ige a parasmaipada vagy az Ātmanepada alakjában áll, akkor a közvetlen
 | | pl. | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
 :::
 Az **enam** (⟪एनम्⟩) stb. alakok a **enad** (⟪एनद्⟩) tövhez tartoznak, amely csak egyes esetekben képez alakokat. Ezeket az **etad** és **idam** alakok helyett használják, ha a rájuk utaló dolog az előző szövegben már szerepelt.
-pl. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟩ ⟪देवः⟩ | ⟪एनं⟩ ⟪यजन्ते⟩ || : "Ő egy isten. Áldozatot mutatnak be neki." <!-- TODO: Fallback translation -->
+pl. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟩ ⟪देवः⟩ | ⟪एनं⟩ ⟪यजन्ते⟩ || : "Ő egy isten. Áldozatot mutatnak be neki."
 
 ### 7.2.2. Az akkusativus (dvitīyā f. = ⟪द्वितीया⟩) használata
 
@@ -129,17 +121,17 @@ Az akkusativus további használatát később tárgyaljuk.
    - **-n** **ḍ-, ḍh-, ṇ-, ṣ-** előtt » **-ṇ**
 pl. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = ⟪क्षत्रियांञ्जयति⟫ : „Megveri a kṣatriyákat.”
 Az **ś-** kezdetű szó elején általában **ch**-vá alakul:
-**gurūn + śṛṇoti** » **gurūñ chṛṇoti** (mellékelve gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : „Hallgatja a tanárokat.” „Figyel a tanárokra.” <!-- TODO: Fallback translation -->
+**gurūn + śṛṇoti** » **gurūñ chṛṇoti** (mellékelve gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : „Hallgatja a tanárokat.” „Figyel a tanárokra.”
 
 2. Hangzó **l-** kezdetű szó elején **-l** Anunāsika-val (nazalizált l, írásban ⟪ल्⟫ Anunāsika-val ⟪ँ⟫) helyettesítendő:
-pl. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : „Haszonállatokat szerez.” <!-- TODO: Fallback translation -->
+pl. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : „Haszonállatokat szerez.”
 
 3. Hangzó palatális, retroflexus vagy dentális szó elején **Anusvāra** + a hangnak megfelelő sziszegővel helyettesítendő:
    - **-n** **c-, ch-** előtt » **-ṃś**
    - **-n** **ṭ-, ṭh-** előtt » **-ṃṣ**
    - **-n** **t-, th-** előtt » **-ṃs**
 pl. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : „és az istenek (tárgyeset)”
-**devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : „de az istenek (tárgyeset)” <!-- TODO: Fallback translation -->
+**devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : „de az istenek (tárgyeset)”
 
 4. Rövid magánhangzó után (lásd később) a szó végén álló **-n** minden más esetben változatlan marad.
 :::
@@ -160,12 +152,12 @@ pl. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलान�
 
 ## 7.5. Athematikus jelenidőosztályok
 
-Az ötödik jelenidőosztály egy úgynevezett athematikus jelenidőtövi alakot képez, azaz a jelenidőstamm nem – mint a tematikus jelenidőosztályoknál (1., 4., 6., 10. osztály) – a „témavokál” **-a** végződésre végződik. <!-- TODO: Fallback translation -->
+Az ötödik jelenidőosztály egy úgynevezett athematikus jelenidőtövi alakot képez, azaz a jelenidőstamm nem – mint a tematikus jelenidőosztályoknál (1., 4., 6., 10. osztály) – a „témavokál” **-a** végződésre végződik.
 
 ::: grammar-box
 **Az athematikus jelenidőosztályok tőváltást mutatnak, azaz két alakja van a jelenidőtönek:**
 1. **erős tő**: magas fokú (ritkán nyújtott fokú)
-2. **gyenge tő**: mély fokú <!-- TODO: Fallback translation -->
+2. **gyenge tő**: mély fokú
 
 **Az erős töm a következő helyeken áll:**
 - az egyes szám jelzős mód (laṭ) és múlt idő (imperfektum) (laṅ) jelzős módjában Parasmaipada
@@ -174,14 +166,14 @@ Az ötödik jelenidőosztály egy úgynevezett athematikus jelenidőtövi alakot
 
 **Minden más alak a gyenge jelenidő-tőre épül.**
 :::
-### 7.5.1. A harmas szám többes számú személyei az athematikus tőknél <!-- TODO: Fallback translation -->
+### 7.5.1. A harmas szám többes számú személyei az athematikus tőknél
 
 ::: grammar-box
 **Az athematikus jelenidő-tők esetén a harmas szám többes számú személyei:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
 :::
-### 7.5.2. Az ötödik jelenidő-osztály (svādi = ⟪स्वादि⟫ = "su stb.") <!-- TODO: Fallback translation -->
+### 7.5.2. Az ötödik jelenidő-osztály (svādi = ⟪स्वादि⟫ = "su stb.")
 
 ::: grammar-box
 - **Erős tő**: (általában) mély fokú tő (ahogy fentebb említve) + **-no-**
@@ -196,11 +188,11 @@ Az ötödik jelenidőosztály egy úgynevezett athematikus jelenidőtövi alakot
 | **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
 | **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
 | **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) | <!-- TODO: Fallback translation -->
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
 ## 7.6. Szószedet
 
-**Tanulják meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulják meg a következő szavakat:**
 
 - **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : elérni, eljutni, birtokba venni
 - **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : elérni, birtokba venni
@@ -256,7 +248,7 @@ Kép: Ez volt-e a védikus Szóma-növény?: Lúdbirka-gomba: *Amanita muscaria*
 4. devī ... (kup, krudh)
    ⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
 
-**C) Írja át a B) gyakorlati mondatokat többes számra: alany, tárgy és ige.** <!-- TODO: Fallback translation -->
+**C) Írja át a B) gyakorlati mondatokat többes számra: alany, tárgy és ige.**
 
 **D) Írja át Ātmanepada alakba:**
 
@@ -288,7 +280,7 @@ Kép: **yajati** = ⟪यजति⟫ — Védákn áldozat = **yajña** m. = �
 6. Az ÚR haragszik.
 7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
    ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
-8. Melyik istennek áldoz ez a bráhmana? <!-- TODO: Fallback translation -->
+8. Melyik istennek áldoz ez a bráhmana?
 
 ::: media
 ![](/images/lekt0703.webp)
@@ -297,5 +289,5 @@ Kép: **yajati** = ⟪यजति⟫ — Védákn áldozat = **yajña** m. = �
 :::
 9. Mit rág ez a szent ember?
 10. Mit préselnek ezek (ide)?
-11. Ő a tanító. Hallgatnak rá (= hallgatók). <!-- TODO: Fallback translation -->
+11. Ő a tanító. Hallgatnak rá (= hallgatók).
 

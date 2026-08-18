@@ -24,7 +24,7 @@ last_reconstructed: 2026-05-15
 
 ---
 
-## Verbale Transformationen (Perfekt) <!-- TODO: Fallback translation -->
+## Verbale Transformationen (Perfekt)
 
 ب) شکل‌های فعلی زیر را به صورت مربوطه در زمان کامل (شخص اول) تبدیل کنید:
 
@@ -108,7 +108,7 @@ last_reconstructed: 2026-05-15
 :::
 ---
 
-## Wortformbestimmung <!-- TODO: Fallback translation -->
+## Wortformbestimmung
 
 شکل‌های کلمه زیر را تعیین و ترجمه کنید:
 

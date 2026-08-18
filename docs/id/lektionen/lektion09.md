@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # Pelajaran 9
 
-::: deleteme-box
-**Dalam pelajaran ini Anda akan mempelajari:**
-- Samāhāradvandva ("Dvandva ringkasan")
-- Pembentukan akar nomina dengan akhiran **-ka** (taddhita) dan **-aka** (kṛt)
-- Kosakata tentang topik profesi dan peran sosial
-- Kutipan dari teks hukum klasik (Dharmaśāstra)
-:::
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Dvandva ringkasan")
 

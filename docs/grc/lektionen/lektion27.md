@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα βʹ7
 
@@ -176,7 +176,7 @@ Rāma-Satz.
 5. **Ablativ:** Es gibt keine bessere (⟪परतर⟫ 3) Zuflucht (⟪परायण⟧ n.) als Rāma.
 6. **Genetiv:** Ich (⟪अहम्⟧) bin (⟪अस्मि⟫) ein Knecht Rāmas.
 7. **Lokativ:** In Rāma sei (⟪भवतु⟧) immer die Ruhe (⟪लय⟫ m.) meines (⟪मे⟧) Herzens.
-8. **Vokativ:** Rāma, errette (⟪उद्धर⟫ = Imperativ zu ⟪उद्⟧ + ⟪हृ⟫ bzw. ⟪उद्⟧ + ⟪धृ⟫) mich (⟪माम्⟧)! <!-- TODO: Fallback translation -->
+8. **Vokativ:** Rāma, errette (⟪उद्धर⟫ = Imperativ zu ⟪उद्⟧ + ⟪हृ⟫ bzw. ⟪उद्⟧ + ⟪धृ⟫) mich (⟪माम्⟧)!
 
 ## 27.5. Λεξιλόγιον
 
@@ -317,7 +317,7 @@ Fig.: ⟪नराः⟫
 Naran. Udaipur.
 (Image source: [Details](/grc/licenses#lekt2711))
 :::
-### 27.7.2. Neuter in -α: ⟪फल⟫ <!-- TODO: Fallback translation -->
+### 27.7.2. Neuter in -α: ⟪फल⟫
 
 ::: grammar-box
 
@@ -458,7 +458,7 @@ Fig.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Bildquelle: [Details](/grc/licenses#lekt2715))
 :::
-### 27.7.9. Μετοχὴ ἐνεστῶτος Parasmaipada εἰς -ant: ⟪सन्त्⟫ <!-- TODO: Fallback translation -->
+### 27.7.9. Μετοχὴ ἐνεστῶτος Parasmaipada εἰς -ant: ⟪सन्त्⟫
 
 ::: grammar-box
 
@@ -479,7 +479,7 @@ Fig.: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
 (Image source: [Details](/grc/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫ <!-- TODO: Fallback translation -->
+### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
 
@@ -587,28 +587,5 @@ Sai Baba of Shirdi (1835 - 1918).
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Σρι Λανκα.
 (Πηγή εικόνας: [Λεπτομέρειες](/grc/licenses#lekt2717))
-:::
-
-::: deleteme-box
-
-**lekt2701:** Ἰαϊπούρ, 1875. [Πηγὴ εἰκόνος: Wikipedia. Δημόσιον πεδίον]
-**lekt2702:** Ρατζαστάν. [Πηγὴ εἰκόνος: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** Ὁλί. [Πηγὴ εἰκόνος: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Ἁριχάρα (ἀριστερὰ: Βισνῦ, δεξιά: Σίβα). [Πηγὴ εἰκόνος: Wikipedia. Δημόσιον πεδίον]
-**lekt2705:** Ἁριχάρα (ἀριστερὰ: Βισνῦ, δεξιά: Σίβα). Θεοδροπία, Δυτικὴ Βεγγάλη. [Πηγὴ εἰκόνος: GourangaUK / Wikipedia. Ἀδελφὴ ἄδεια GNU]
-**lekt2706:** Βαστρᾶνι. Ματζούλι, Ἀσσάμ. [Πηγὴ εἰκόνος: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Βασάντα (Schleichera oleosa), Κοπολί, Μαχαράστρα, 2007-04-07. [Πηγὴ εἰκόνος: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Σάττα Ράμα. [Πηγὴ εἰκόνος: Wikipedia. Δημόσιον πεδίον]
-**lekt2709:** Πίναξ τοῦ Ράτζα Ράβι Βάρμα (1848 - 1906). [Πηγὴ εἰκόνος: Wikipedia. Δημόσιον πεδίον]
-**lekt2710:** Καρποί. Μπανγκαλόρε. [Πηγὴ εἰκόνος: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Ναραν. Οὐδαίπουρ. [Πηγὴ εἰκόνος: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Σταυροφόρησις δύο συμμετεχόντων τῆς ἐξέγερσεως τοῦ 1857. Φωτογραφία τοῦ Felice Beato (1833/1834 - περὶ 1907). [Πηγὴ εἰκόνος: Wikipedia. Δημόσιον πεδίον]
-**lekt2713:** Μαχαρίσι Μάχεσ Γιόγκι (1917 - 2008) Γκούρου. [Πηγὴ εἰκόνος: Wikipedia, Ἀδελφὴ ἄδεια GNU]
-**lekt2714:** Βοῦς ἐν Οὐδαίπουρ. [Πηγὴ εἰκόνος: Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Τριδεβί (Λάκσμι, Παρβάτι, Σαρασβάτι). [Πηγὴ εἰκόνος: Wikipedia. Δημόσιον πεδίον]
-**lekt2716:** Σάι Μπάμπα τοῦ Σίρδι (1835 - 1918). [Πηγὴ εἰκόνος: Wikipedia. Δημόσιον πεδίον]
-**lekt2717:** Τσουνάμι 2005, Σρι Λάνκα. [Πηγὴ εἰκόνος: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Μαχαράνι Βάνι Βίλασα Σαννιδχάνα (1866 - 1934) μετὰ τοῦ ἐκγονοῦ αὐτῆς πρίγκιπος Τζάγια Τσαμαράτζα Βαντιγιάρ, Μυσόρε. [Πηγὴ εἰκόνος: Wikipedia. Δημόσιον πεδίον]
-
 :::
 

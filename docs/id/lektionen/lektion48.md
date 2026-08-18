@@ -1,10 +1,11 @@
 ---
-title: Lektion 48
+title: "Pelajaran 48"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 48
@@ -246,7 +247,7 @@ mis. ⟪व्याघ्र⟫ m. "Harimau" » ⟪वैयाघ्र⟫ 3 "
 ::: media
 ![](/images/lekt4801.webp)
 Ilm.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Sumber gambar: [Detail](/licenses#lekt4801))
+(Sumber gambar: [Detail](/id/licenses#lekt4801))
 :::
 ## 48.4. Daftar Kata
 
@@ -264,14 +265,14 @@ Ilm.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 ![](/images/lekt4802.webp)
 Gambar: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
-(Sumber gambar: [Detail](/licenses#lekt4802))
+(Sumber gambar: [Detail](/id/licenses#lekt4802))
 :::
 
 ::: media
 ![](/images/lekt4803.webp)
 Gambar: ⟪तन्त्री⟫
 Pemain sitar = ⟪सितारवादकः⟫
-(Sumber gambar: [Detail](/licenses#lekt4803))
+(Sumber gambar: [Detail](/id/licenses#lekt4803))
 :::
 ⟪स्त्री⟫ f.: Wanita, istri; Feminin
 
@@ -293,7 +294,7 @@ Deklinasi:
 ![](/images/lekt4804.webp)
 Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [Kelompok swa-bantu (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
-(Sumber gambar: [Detail](/licenses#lekt4804))
+(Sumber gambar: [Detail](/id/licenses#lekt4804))
 :::
 ⟪दिवानिशम्⟫ Kata keterangan: pada siang dan malam hari
 
@@ -305,7 +306,7 @@ Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 ![](/images/lekt4805.webp)
 Gambar: ⟪कुमारः⟫
 Festival Thaipusam = தைப்பூசம், Batu Caves, Malaysia
-(Sumber gambar: [Detail](/licenses#lekt4805))
+(Sumber gambar: [Detail](/id/licenses#lekt4805))
 :::
 ⟪कुमारी⟫ f.: gadis, putri
 
@@ -313,7 +314,7 @@ Festival Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 ![](/images/lekt4806.webp)
 Gambar: ⟪कुमारी⟫
 ⟪नेपाल⟫
-(Sumber gambar: [Detail](/licenses#lekt4806))
+(Sumber gambar: [Detail](/id/licenses#lekt4806))
 :::
 ⟪कौमर⟫ n.: masa kecil
 
@@ -325,7 +326,7 @@ Gambar: ⟪कुमारी⟫
 ![](/images/lekt4807.webp)
 Gambar: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
-(Sumber gambar: [Detail](/licenses#lekt4807))
+(Sumber gambar: [Detail](/id/licenses#lekt4807))
 :::
 ⟪स्थाविर⟫ n.: (usia) tua
 
@@ -337,7 +338,7 @@ Gambar: ⟪स्थविराः⟫
 ![](/images/lekt4808.webp)
 Gambar: ⟪सूक्ष्मम्⟫
 Danau Karanji = ಕಾರಂಜಿ ಕೆರೆ
-(Sumber gambar: [Detail](/licenses#lekt4808))
+(Sumber gambar: [Detail](/id/licenses#lekt4808))
 :::
 ⟪प्रसङ्ग⟫ m.: keterikatan, kecenderungan ; kesempatan
 
@@ -353,7 +354,7 @@ Danau Karanji = ಕಾರಂಜಿ ಕೆರೆ
 ![](/images/lekt4809.webp)
 Fig.: ⟪मम⟫ ⟪जाया⟫
 (Gambar: Payer)
-(Sumber gambar: [Detail](/licenses#lekt4809))
+(Sumber gambar: [Detail](/id/licenses#lekt4809))
 :::
 ## 48.5. Latihan
 
@@ -405,23 +406,3 @@ B) Terjemahkan ke dalam bahasa Sanskerta (gunakan imperatif dan sebisa mungkin a
 Penjelasan:  
 ⟪द्वयोर्हि⟩ ⟪कुलयोः⟩ : Gen. (⟪षष्ठी⟩) Dual ke ⟪द्वे⟩ ⟪कुले⟩ "dua keluarga"
 
-::: deleteme-box
-
-**lekt4801:** [Sumber gambar: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribusi, penggunaan non-komersial, berbagi serupa)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Sumber gambar: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribusi, penggunaan non-komersial, berbagi serupa)]
-
-**lekt4803:** Pemain sitar = ⟪सितारवादकः⟫ [Sumber gambar: Wikipedia. Domain publik]
-
-**lekt4804:** [Kelompok swa-bantu (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Sumber gambar: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribusi, penggunaan non-komersial)]
-
-**lekt4805:** Festival Thaipusam = தைப்பூசம், Batu Caves, Malaysia [Sumber gambar: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribusi)]
-
-**lekt4806:** ⟪नेपाल⟫ [Sumber gambar: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribusi, non-komersial, tidak ada karya turunan)]
-
-**lekt4807:** ⟪जोधपुर⟫ [Sumber gambar: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribusi, non-komersial, tidak ada karya turunan)]
-
-**lekt4808:** Danau Karanji = ಕಾರಂಜಿ ಕೆರೆ [Sumber gambar: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribusi, bagi sama)]
-
-**lekt4809:** (Gambar: Payer)
-:::

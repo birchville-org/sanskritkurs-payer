@@ -10,13 +10,6 @@ status: stable
 
 # Lesson 5
 
-::: deleteme-box
-**In this lesson, you will learn:**
-Basics of nominal compounds (samāsa)
-Terminology for compounds
-Copulative compounds (Dvandva)
-The order of members in Dvndvas
-:::
 ## 5.1. Nominal compounds (samāsa m. = ⟪समास⟫)
 
 The formation of word compounds on a very large scale is a characteristic feature of Sanskrit.

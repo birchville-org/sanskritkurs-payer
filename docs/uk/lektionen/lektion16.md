@@ -239,14 +239,4 @@ B) Перекладіть та розберіть усі санскритськ�
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** Birla Mandir, Delhi [Джерело зображення: Deepak / Wikipedia ; Creative Commons License (Attribution, share alike)]
-
-**lekt1602:** "Це спеціальна церемонія в маленькому храмі в Сатара (⟪सातारा⟫). Її виконують студенти Swami Muktananda Vedashala під час святкування Mahāśivarātri. Це ведійська школа, де діти напам’ять вивчають священні тексти, відомі як Веди. Ця школа викладає Krishna Yajurveda та деякі частини Samaveda. Я пишу свою магістерську дисертацію про цю школу." [Джерело зображення: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Доступ отримано 2008-12-07. -- Creative Commons License (Attribution, non-commercial, no derivatives)]
-
-**lekt1603:** "Рука з колесом на долоні символізує джайнівський обітницю Ахімси. Слово в центрі — "ahimsa". Колесо представляє dharmacakra, що символізує рішучість зупинити цикл переродження через невтомне прагнення до істини та ненасильства." [Джерело зображення: Wikipedia, Public domain]
-
-**lekt1604:** ⟪हरियाणा⟫ / ⟪हरियाणा⟫ [Джерело зображення: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Доступ отримано 2008-12-07. -- Creative Commons License (Attribution, non-commercial, no derivatives)]
-:::
- &lt;!-- TODO: Fallback translation --&gt;
+ &lt;!--  -→

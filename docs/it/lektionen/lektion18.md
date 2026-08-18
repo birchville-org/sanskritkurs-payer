@@ -438,13 +438,3 @@ D) Tradurre:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt1801:** "Un giovane ragazzo è visto durante il rituale di upanayana. Il filo giallo, sottile, che va dalla spalla sinistra alla vita è Yagnopaivta. Si noti anche la cintura di erba munja intorno alla vita. Il rametto nella mano destra (di solito dall'albero peepa) siginifica il suo ingresso in Brahmacharya." [Fonte dell'immagine: Nagesh Rao / Wikipedia, GNU FDLicense]
-
-**lekt1802:** 1770 Stampa [Fonte dell'immagine: Wikipedia, Dominio pubblico]
-
-**lekt1803:** ⟪गन्धार⟫ 1./2. Sec. d.C. [Fonte dell'immagine: Wikipedia, Dominio pubblico]
-
-**lekt1804:** Matrimonio = ⟪विवाह⟫ m., un importante ⟪संस्कारः⟫ [Fonte dell'immagine: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Accesso il 2008-12-08. -- Licenza Creative Commons (Attribuzione, nessun uso commerciale, nessuna modifica)]
-:::

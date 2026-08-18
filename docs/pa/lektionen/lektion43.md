@@ -369,21 +369,3 @@ B) ਸੰਸਕ੍ਰਿਤ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ:
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4309))
 :::
 
-::: deleteme-box
-
-**lekt4302.jpg**: ਰਿਤਾ ਵਿਲਾਅਰਟ. -- http://www.flickr.com/photos/rietje/324020365/. -- ਪ੍ਰਾਪਤੀ ਤਾਰੀਖ 2009-01-06. -- ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ)
-
-**lekt4303.jpg**: ਅਮ੍ਰਿਤਾ ਬੀ. -- http://www.flickr.com/photos/amrita_b/63071274/. -- ਪ੍ਰਾਪਤੀ ਤਾਰੀਖ 2009-01-06. -- ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ)
-
-**lekt4304.jpg**: ਮਕੇਸਾਵੇਜ. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- ਪ੍ਰਾਪਤੀ ਤਾਰੀਖ 2009-01-06. -- ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ)
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- 6 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਸਾਂਝਾ ਕਰੋ)
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- 6 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਸਾਂਝਾ ਕਰੋ)
-
-**lekt4307.jpg**: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- 6 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਤਬਦੀਲੀ ਨਹੀਂ)
-
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- 7 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਕੋਈ ਤਬਦੀਲੀ ਨਹੀਂ)
-:::

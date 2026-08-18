@@ -5,7 +5,7 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # שיעור 45
 
@@ -147,12 +147,4 @@ status: stable
 (מקור התמונה: [פרטים](/he/licenses#lekt4502))
 :::
 
-::: deleteme-box
 
-**lekt4501.jpg**: הדפסת בלוק טקסטיל, אחמדאבד. -- מקור התמונה: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- תאריך גישה: 08.01.2009. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)
-
-**lekt4502.jpg**: מקור התמונה: John Isaac / הבנק העולמי. -- http://www.flickr.com/photos/worldbank/2348425672/. -- תאריך גישה: 08.01.2009. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)
-::: <!-- TODO: Fallback translation -->
-
-
-:::

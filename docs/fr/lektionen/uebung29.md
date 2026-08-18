@@ -16,10 +16,7 @@ Traduisez mot à mot en un bon allemand et apprenez les textes sanskrits par cœ
 
 L'ignorance signifie que l'on considère comme permanent, pur, joyeux ou absolu ce qui est en fait impermanent, impur, souffrant et non-absolu.
 
-::: deleteme-box Erläuterung
-**⟪आत्मसु⟫** = Loc. sg. de ⟪आत्मन्⟫ m. "Âme ; l'Absolu, en tant qu'il se réalise dans l'individu"
-:::
-### ⟪२⟫. Sur le bon usage du ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4) <!-- TODO: Fallback translation -->
+### ⟪२⟫. Sur le bon usage du ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
 
 ⟪तीक्ष्णदण्डो⟫ ⟪भूतानामुद्वेजनीयो⟫ ⟪भवति⟫ ⟪।⟫ ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।⟫ ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।⟫ ⟪सुविज्ञातप्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामैर्योजयति⟫ ⟪।⟫ ⟪दुष्प्रणीतः⟫ ⟪कामक्रोधाभ्यामवज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, ⟪किमङ्ग⟫ ⟪पुनर्गृहस्थान्⟫ ⟪।⟫ ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।⟫ ⟪बलीयानबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।⟫ ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।⟫
 
@@ -35,18 +32,6 @@ Devant un gouvernement trop rigoureux (daṇḍa), les êtres doivent frémir. U
 > Joyeux de l'activité selon son propre droit et sa propre coutume  
 > Elle se meut sur ses propres voies.
 
-::: deleteme-box Glossar & Grammatik
-- **⟪उद्वेजनीय⟫** (3) : quelque chose devant lequel on frémira
-- **⟪विज्ञात⟫** (3) : reconnu ; n. : Reconnaissance
-- **⟪योजयति⟫** (Caus. de **⟪युज्⟫**) : atteler, relier à
-- **⟪कामक्रोधाभ्याम्⟫** : Instr./Dat./Abl. Dual masc. de **⟪कामक्रोध⟫**
-- **⟪किमङ्ग⟫** : d'autant plus
-- **⟪बलीयान्⟫** : Nom. sg. masc. de **⟪बलीयस्⟫** (plus fort)
-- **⟪चतुर्⟫-** : quatre (préfixe)
-- **⟪राज्ञा⟫** : Instr. sg. masc. de **⟪राजन्⟫** (Roi)
-- **⟪स्वेषु⟫** : Loc. plur. masc./neutr. de **⟪स्व⟫** (propre)
-- **⟪वर्त्मसु⟫** : Loc. plur neutr. de **⟪वर्त्मन्⟫** (voie, chemin)
-:::
 
 ::: media
 ![](/images/uebung046.webp)

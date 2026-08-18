@@ -405,27 +405,3 @@ E) 在句子 A) 6 中，将与格结构替换为等价的带有 -⟪अर्थ
 
 15⟪१५⟫。再见！（新梵语：⟪पुनर्दर्शनाय⟫）
 
-::: deleteme-box
-
-**lekt2401:** “Annakut” [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] 是印度教的一项传统活动，在印度教新年庆典期间于所有 BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] 寺庙举行。当天，数百道素食菜肴被供奉给 Bhagwan Swaminarayan [સ્વામિનારાયણ]。[图片来源：chiragkpatel。-- http://www.flickr.com/photos/chiragkpatel/61224686/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名，非商业性使用）]
-
-**lekt2402：** 拉克沙班丹（Raksha Bandhan）在印度各地以热烈而喜悦的氛围庆祝。这一节日体现了兄弟姐妹之间无条件的爱。[图片来源：yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- 访问日期：2008-12-14. -- 知识共享许可协议（署名，非商业性使用，相同方式共享）]
-
-**lekt2403：**“罗摩（右）坐在哈努曼的肩上，与恶魔之王罗波那作战。”约1820年[图片来源：维基百科，公共领域]
-
-**lekt2404:** [图片来源：sknaB nolA。-- http://www.flickr.com/photos/nolasknab/110920752/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名，禁止演绎）]
-
-**lekt2405:** [图片来源：sarboo。-- http://www.flickr.com/photos/sarboo/320741523/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名-非商业性使用-禁止演绎）]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [图片来源：thaths。-- http://www.flickr.com/photos/thaths/862012190/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名，非商业性使用）]
-
-**lekt2407：**“新德里/印度，16NOV08——苏哈西尼·海德尔（Suhasini Haidar），CNN-IBN网络18印度副国际编辑，主持了2008年世界经济论坛印度经济峰会的新德里圆桌讨论。”[图片来源：世界经济论坛 / 达娜·斯密利（Dana Smillie）拍摄。-- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- 访问日期：2008-12-14。-- 知识共享许可协议（署名，相同方式分享）]
-
-**lekt2408:** “San Francisco 的故事讲述者 Jeff Byers 向切内里（Chenneri）——一个伊鲁拉（Irula）村庄的居民分享了一个故事。故事讲述者 Jeeva Raghunath 为村民们翻译成泰米尔语。” [图片来源：ereneta。-- http://www.flickr.com/photos/tereneta/3062024840/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名，非商业性使用）]
-
-**lekt2409:** [图片来源：Redtigerxyz / 维基百科，GNU FDL许可证]
-
-**lekt2410:** ⟪नरसिंह⟫ 撕碎 ⟪हिरण्यकशिपु⟫，⟪भागवतपुराण⟫ 手稿的一页 [图片来源：维基百科，公共领域]
-
-**lekt2411:** 手稿 ⟪गीतगोविन्द⟫，公元1730年 [图片来源：维基百科，公有领域]
-:::

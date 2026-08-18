@@ -389,27 +389,3 @@ Fig.: ⟪नरो नरसिंहाय नमस्करोति नर�
 
 15⟪१५⟫. See you again! (Neusanskrit: ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [Image source: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use)]
-
-**lekt2402:** Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters. [Image source: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use, share alike)]
-
-**lekt2403:** "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820 [Image source: Wikipedia, Public domain]
-
-**lekt2404:** [Image source: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, no derivatives)]
-
-**lekt2405:** [Image source: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Image source: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use)]
-
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [Image source: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, share alike)]
-
-**lekt2408:** "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers." [Image source: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use)]
-
-**lekt2409:** [Image source: Redtigerxyz / Wikipedia, GNU FDLicense]
-
-**lekt2410:** ⟪नरसिंह⟫ tears apart ⟪हिरण्यकशिपु⟫, page from a manuscript of the ⟪भागवतपुराण⟫ [Image source: Wikipedia, Public domain]
-
-**lekt2411:** Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE. [Image source: Wikipedia, Public domain]
-:::

@@ -94,8 +94,3 @@ Fig. : ⟪अजीर्यमिति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** 'Inâyat Khân sur son lit de mort, esquisse pour une miniature d'un manuscrit pour Jahângîr = جهانگير, vers 1618 [Source de l'image : [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Consulté le 2009-01-28. Domaine public] <!-- TODO: Fallback translation -->
-
-:::

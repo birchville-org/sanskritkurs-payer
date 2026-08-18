@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "دورهٔ سانسکریت"
-  text: "یک آموزش کامل"
-  tagline: "اثر آلویش پایر (کتابخانهٔ روستای جهانی تپفلی)"
+  name: "دوره سنسکریت"
+  text: "یک دوره آموزشی کامل"
+  tagline: "اثر آلوایز پایر (کتابخانه روستای جهانی تپفلی)"
   actions:
     - theme: brand
       text: "شروع دوره"
@@ -16,19 +16,19 @@ hero:
 features:
   - title: "Devanāgarī ready"
     details: "تایپوگرافی کامل و یکپارچه برای خط‌های هندی."
-  - title: "قابل جستجوی آسان"
-    details: "یک جستجوی متن محلی عمیق، دانش را در دسترس قرار می‌دهد."
+  - title: "جستجوی آسان"
+    details: "یک جستجوی متن کامل محلی عمیق، دانش را در دسترس و آماده ارائه می‌کند."
   - title: "معماری مدرن"
-    details: "ساخته شده بر پایهٔ VitePress برای حداکثر سرعت."
+    details: "ساخته شده بر پایه VitePress برای حداکثر سرعت."
 
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+دوره **سانسکریت** آلوایز پیر یک برنامه آموزشی جامع و مبتنی بر پژوهش علمی برای یادگیری زبان سانسکریت و خط دواناگاری است. این نسخه دیجیتال، کل دوره را در محیطی خواندنی مدرن، چندزبانه و قابل جستجو ارائه می‌دهد.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+زبان‌ها به طور کامل و خودکار با کمک یک هوش مصنوعی (Qwen3.6-32B) از آلمانی ترجمه شده‌اند. گزارش خطاهای ترجمه بسیار خوش‌آمدگویی می‌شود.
+**نظرات و تماس**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**همکاری به عنوان ویراستار یا مدیر**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+**ویرایشگر متن باز Zentauri**: ویرایشگر Markdown مستقل در [GitHub](https://github.com/marcodem/zentauri)
+**ویکی توسعه‌دهندگان و معماری**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

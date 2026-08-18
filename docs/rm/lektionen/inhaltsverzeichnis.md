@@ -753,7 +753,7 @@ surscrit dal di
 *   2\. L'injunktiv
 *   3\. La sentenzia da prohibiziun
 *   4\. ⟪स्म⟫
-*   5\. Exercizi <!-- TODO: Fallback translation -->
+*   5\. Exercizi
 
 ## [Lecziun 57](lektion57)
 
@@ -861,5 +861,5 @@ surscrit dal di
 *   8.2. Pronoms demonstrativs ⟪अदस्⟫ "quell (lunsch)"
 *   9\. Licenza en l’ocèan da la litteratura sanscrita: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-FIN DAL CURS DA SANSKRIT <!-- TODO: Fallback translation -->
+FIN DAL CURS DA SANSKRIT
 

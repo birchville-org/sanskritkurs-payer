@@ -2,32 +2,33 @@
 layout: home
 
 hero:
-  name: "szanszkit kurz"
+  name: "szanszkit kurzus"
   text: "Teljes tanfolyam"
-  tagline: "Alois Payer (Tüpfli's Global Village Library) szerzőtől"
+  tagline: "Alois Payer (Tüpfli Global Village Library) szerzőtől"
   actions:
     - theme: brand
-      text: "Kurz indítása"
+      text: "Kurus indítása"
       link: /hu/lektionen/lektion01
     - theme: alt
       text: "Nyelvtéma témák"
       link: /hu/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: "Tökéletesen integrált tipográfia indiai írásokhoz."
-  - title: Leicht Durchsuchbar
-    details: "Egy mélyreható helyi teljes szövegkeresés a tudást gombnyomásra tartja."
-  - title: Moderne Architektur
-    details: "A VitePress alapjain épül a maximális sebességért."
+  - title: "Devanāgarī ready"
+    details: "Tökéletes, integrált tipográfia indiai írásjelekhez."
+  - title: "Könnyen kereshető"
+    details: "Egy mélyreható, helyi teljes szöveg keresés azonnal elérhetővé teszi a tudást."
+  - title: "Modern architektúra"
+    details: "A VitePress alapjaira épül a maximális sebesség érdekében."
+
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+Alois Payer **szanszkrit kurzja** egy átfogó, tudományosan megalapozott képzés a szanszkrit nyelv és a devanagari írás elsajátításához. Ez a digitális kiadás az egész kurzust egy modern, többnyelvű és kereshető olvasási környezetben biztosítja.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+A nyelveket egy mesterséges intelligencia (Qwen3.6-32B) segítségével teljesen automatikusan fordították le németből. A fordítási hibákkal kapcsolatos visszajelzéseket nagyra értékeljük.
+**Megjegyzések és kapcsolat**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Szerkesztő vagy kurátor közreműködése**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+**Nyílt forráskódú Zentauri szerkesztő**: Önálló Markdown-szerkesztő a [GitHubon](https://github.com/marcodem/zentauri)
+**Fejlesztői wiki és architektúra**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

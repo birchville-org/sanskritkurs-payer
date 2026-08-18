@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # الدرس 49
 
@@ -370,27 +370,5 @@ status: stable
 الصورة: ⟪शुकः⟫
 ببغاء البرقوق = Psittacula cyanocephala
 (مصدر الصورة: [تفاصيل](/ar/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [مصدر الصورة: راجيش فاسودفان. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- تم الوصول إليه في 2009-01-10. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسبة المصنع، لا استخدام تجاري، مشاركة بالمثل)]
-
-**lekt4901:** [مصدر الصورة: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- تم الوصول في 2009-01-11. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (النسب، لا أعمال مشتقة)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫، القرن الحادي عشر. [مصدر الصورة: فاسيلي / ويكيبيديا. ملكية عامة]
-
-**lekt4903:** [مصدر الصورة: توجي ليون. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- تم الوصول إليه في 2009-01-11. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [مصدر الصورة: بيجامة. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- تم الوصول إليه في 2009-01-11. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب العمل، عدم الاستخدام التجاري، مشاركة بالتساوي)]
-
-**lekt4909:** عرّاف مع ببغاء في قفص: الببغاء يسحب أوراقاً صغيرة مكتوباً عليها القدر. ميسور [مصدر الصورة: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- تم الوصول إليه في 2009-01-12. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by/2.0/deed.de) (نسبة المصنع)]
-
-**lekt4905:** أمريتسار = ਅੰਮ੍ਰਿਤਸਰ [مصدر الصورة: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- تم الوصول في 2009-01-11. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب العمل)]
-
-**lekt4906:** سريلانكا [مصدر الصورة: كارميلو أكويلا. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- تم الوصول إليه في 2009-01-11. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب العمل، عدم الاستخدام التجاري، عدم الاشتقاق)]
-
-**lekt4908:** ببغاء الرأس البرقوقي = Psittacula cyanocephala [مصدر الصورة: شجرة الشمعة. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- تم الوصول إليه في 2009-01-12. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (النسبة، عدم الاستخدام التجاري، المشاركة بالمثل)]
-
 :::
 

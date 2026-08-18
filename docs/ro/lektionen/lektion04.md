@@ -9,14 +9,6 @@ status: stable
 
 # Lecția 4
 
-::: deleteme-box
-**În această lecție veți învăța:**
-- Pronumele interogative și pronumele demonstrative la nominativ
-- Sandhi pentru -m final
-- Sandhi pentru -e final
-- Sandhi pentru -d final
-- Formule simple de întrebare
-:::
 ## 4.1. Întrebări simple de completare (întrebări cu cuvinte) și răspunsuri
 
 ### 4.1.1. Pronume interogative și pronume demonstrative
@@ -48,7 +40,7 @@ status: stable
 **Pentru Nom. sg. masc.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) apare înainte de toate sunetele, cu excepția scurtului **-a**
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) apare înainte de **-a**, care este elidat prin Avagraha (dispare)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) apare doar în pauză (sfârșit de propoziție, sfârșit de vers) <!-- TODO: Fallback translation -->
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) apare doar în pauză (sfârșit de propoziție, sfârșit de vers)
 
 Pentru a putea forma propoziții cu aceste pronume (sarvanāman n.), este necesară cunoașterea următoarelor reguli de Sandhi:
 

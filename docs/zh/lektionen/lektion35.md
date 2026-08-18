@@ -9,33 +9,33 @@ status: stable
 ## 35.1. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-**starker Stamm:** <!-- TODO: Fallback translation -->
-*   3.sg.P: Dehnstufe <!-- TODO: Fallback translation -->
-*   2.sg.P: Hochstufe <!-- TODO: Fallback translation -->
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe <!-- TODO: Fallback translation -->
+**starker Stamm:**
+*   3.sg.P: Dehnstufe
+*   2.sg.P: Hochstufe
+*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
 
-**schwacher Stamm:** siehe bei den Untertypen <!-- TODO: Fallback translation -->
+**schwacher Stamm:** siehe bei den Untertypen
 :::
 ### 35.1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
 :::
 ::: indent
-**schwacher Stamm:** Tiefstufe <!-- TODO: Fallback translation -->
+**schwacher Stamm:** Tiefstufe
 :::
-Wird gebildet von Wurzeln der Typen: <!-- TODO: Fallback translation -->
-*   (Konsonant)-(Konsonant) - i/ī/u/ū <!-- TODO: Fallback translation -->
-*   (Konsonant) - ṛ <!-- TODO: Fallback translation -->
+Wird gebildet von Wurzeln der Typen:
+*   (Konsonant)-(Konsonant) - i/ī/u/ū
+*   (Konsonant) - ṛ
 
-Vor vokalisch anlautender Endung wird ersetzt: <!-- TODO: Fallback translation -->
-*   -i/-ī durch -iy <!-- TODO: Fallback translation -->
-*   -u/-ū durch -uv <!-- TODO: Fallback translation -->
-*   -ṛ durch r <!-- TODO: Fallback translation -->
-Beispiele: <!-- TODO: Fallback translation -->
+Vor vokalisch anlautender Endung wird ersetzt:
+*   -i/-ī durch -iy
+*   -u/-ū durch -uv
+*   -ṛ durch r
+Beispiele:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -48,16 +48,16 @@ Beispiele: <!-- TODO: Fallback translation -->
 ### 35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
 :::
 ::: indent
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 :::
-Wird gebildet von Wurzeln der Typen: <!-- TODO: Fallback translation -->
-*   (Konsonant)-(Konsonant)-ṝ <!-- TODO: Fallback translation -->
-*   Konsonant-Konsonant-ṛ (d.h. Wurzeln auf -ṛ, wenn diesem mehrere Konsonanten vorausgehen) <!-- TODO: Fallback translation -->
-Beispiele: <!-- TODO: Fallback translation -->
+Wird gebildet von Wurzeln der Typen:
+*   (Konsonant)-(Konsonant)-ṝ
+*   Konsonant-Konsonant-ṛ (d.h. Wurzeln auf -ṛ, wenn diesem mehrere Konsonanten vorausgehen)
+Beispiele:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -68,19 +68,19 @@ Beispiele: <!-- TODO: Fallback translation -->
 ## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -āi
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-**starker Stamm:** <!-- TODO: Fallback translation -->
-*   3./1. sg. P Perfekt endet auf -au <!-- TODO: Fallback translation -->
-*   2\. sg. P : Hochstufe -ā oder Tiefstufe -i <!-- TODO: Fallback translation -->
+**starker Stamm:**
+*   3./1. sg. P Perfekt endet auf -au
+*   2\. sg. P : Hochstufe -ā oder Tiefstufe -i
 
-**schwacher Stamm:** <!-- TODO: Fallback translation -->
-*   vor Konsonant: Tiefstufe -i <!-- TODO: Fallback translation -->
-*   vor Vokal: Tiefstufe Ø <!-- TODO: Fallback translation -->
+**schwacher Stamm:**
+*   vor Konsonant: Tiefstufe -i
+*   vor Vokal: Tiefstufe Ø
 
-Wird gebildet von Wurzeln auf -ā / -āi <!-- TODO: Fallback translation -->
+Wird gebildet von Wurzeln auf -ā / -āi
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Beispiel:
 
 | Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -89,34 +89,34 @@ Beispiel: <!-- TODO: Fallback translation -->
 ## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-**starker Stamm:** <!-- TODO: Fallback translation -->
-*   3.sg.P: Dehnstufe <!-- TODO: Fallback translation -->
-*   2.sg.P: Hochstufe <!-- TODO: Fallback translation -->
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe <!-- TODO: Fallback translation -->
+**starker Stamm:**
+*   3.sg.P: Dehnstufe
+*   2.sg.P: Hochstufe
+*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
 
-**schwacher Stamm:** siehe Untertypen <!-- TODO: Fallback translation -->
+**schwacher Stamm:** siehe Untertypen
 
-Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
+Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant
 :::
 ### 35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
 :::
 ::: indent
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 :::
-**schwacher Stamm:** Tiefstufe <!-- TODO: Fallback translation -->
+**schwacher Stamm:** Tiefstufe
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -130,15 +130,15 @@ Beispiele: <!-- TODO: Fallback translation -->
 ### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ)
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
 :::
 ::: indent
 **schwacher Stamm:** keine Reduplikation. Ersetzung des -a- der Wurzel durch -e-  
-(zur Erklärung siehe Thumb-Hauschild 1,2 S. 286f.) <!-- TODO: Fallback translation -->
+(zur Erklärung siehe Thumb-Hauschild 1,2 S. 286f.)
 :::
-Wird gebildet von Wurzeln mit -a- zwischen zwei einfachen Konsonanten, deren Anfangskonsonant in der Reduplikationssilbe nicht verändert wird (d.h. deren Anfangskonsonant kein Guttural, Aspirat oder h ist). <!-- TODO: Fallback translation -->
-Beispiel: <!-- TODO: Fallback translation -->
+Wird gebildet von Wurzeln mit -a- zwischen zwei einfachen Konsonanten, deren Anfangskonsonant in der Reduplikationssilbe nicht verändert wird (d.h. deren Anfangskonsonant kein Guttural, Aspirat oder h ist).
+Beispiel:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -147,19 +147,19 @@ Beispiel: <!-- TODO: Fallback translation -->
 ### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-**schwacher Stamm:** Hochstufe <!-- TODO: Fallback translation -->
+**schwacher Stamm:** Hochstufe
 
-Wird gebildet von allen anderen Wurzeln mit mittlerem -a-, d.h. Wurzeln mit mittlerem -a- <!-- TODO: Fallback translation -->
-*   die mit zwei Konsonanten beginnen <!-- TODO: Fallback translation -->
-*   die mit Guttural beginnen <!-- TODO: Fallback translation -->
-*   die mit Aspirat beginnen <!-- TODO: Fallback translation -->
-*   die mit h beginnen <!-- TODO: Fallback translation -->
+Wird gebildet von allen anderen Wurzeln mit mittlerem -a-, d.h. Wurzeln mit mittlerem -a-
+*   die mit zwei Konsonanten beginnen
+*   die mit Guttural beginnen
+*   die mit Aspirat beginnen
+*   die mit h beginnen
 
-sofern sie nicht zu Perfekt Typ Va gehören. <!-- TODO: Fallback translation -->
+sofern sie nicht zu Perfekt Typ Va gehören.
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Beispiel:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -167,16 +167,16 @@ Beispiel: <!-- TODO: Fallback translation -->
 
 ## 35.4. 词汇表
 
-**⟪नश्⟫** 4P **⟪नश्यति⟫** : verloren gehen, zugrundegehen, verschwinden <!-- TODO: Fallback translation -->
+**⟪नश्⟫** 4P **⟪नश्यति⟫** : verloren gehen, zugrundegehen, verschwinden
 ::: indent
 **Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
 **Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
 **Kaus. ⟪नाशयति⟫**
-**PPP ⟪नष्ट⟫** <!-- TODO: Fallback translation -->
+**PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen <!-- TODO: Fallback translation -->
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
 
-**⟪क्रम्⟫** 1U *****:sig[⟪क्रा⟫]*****⟪मति⟫**, 4P *****:sig[⟪क्रा⟫]*****⟪म्यति⟫** : schreiten, gehen <!-- TODO: Fallback translation -->
+**⟪क्रम्⟫** 1U *****:sig[⟪क्रा⟫]*****⟪मति⟫**, 4P *****:sig[⟪क्रा⟫]*****⟪म्यति⟫** : schreiten, gehen
 ::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
 **Fut. ⟪क्रमिष्यति⟫**
@@ -184,35 +184,35 @@ Beispiel: <!-- TODO: Fallback translation -->
 **Kaus. ⟪क्रमयति⟫**
 **PPP ***:sig[⟪क्रा⟫]***⟪न्त⟫**
 **Inf. ⟪क्रमितुम्⟫**
-**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫** <!-- TODO: Fallback translation -->
+**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
 ![](/images/lekt3502.webp)
 Abb.: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3502))
 :::
-**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden <!-- TODO: Fallback translation -->
+**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
 ::: indent
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
 **Fut. ⟪गास्यति⟫**
 **Pass. ⟪गीयते⟫**
 **Kaus. ⟪गापयति⟫**
 **PPP ⟪गीत⟫**
-**Inf. ⟪गातुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪गातुम्⟫**
 
 davon:
-**⟪गीता⟫ f.:** Lied, Gesang <!-- TODO: Fallback translation -->
+**⟪गीता⟫ f.:** Lied, Gesang
 :::
 ::: media
 ![](/images/lekt3501.webp)
 Abb.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3501))
 :::
 ## 35.5. 练习
 
-A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen: <!-- TODO: Fallback translation -->
+A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 
 1. ⟪गायन्ति⟫
 2. ⟪स्मरन्ति⟫
@@ -228,7 +228,7 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen: <!--
 12. ⟪पिपुरति⟫
 13. ⟪दत्ते⟫
 14. ⟪यजन्ते⟫
-15. ⟪भजन्ति⟫ unregelmäßig, nach Typ Vb! <!-- TODO: Fallback translation -->
+15. ⟪भजन्ति⟫ unregelmäßig, nach Typ Vb!
 16. ⟪वक्ति⟫
 17. ⟪अदधुः⟫
 18. ⟪बिभ्रते⟫
@@ -247,7 +247,7 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen: <!--
 ![](/images/lekt3503.webp)
     Abb.: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
-    (Bildquelle: [Details](/licenses#lekt3503)) <!-- TODO: Fallback translation -->
+    (Bildquelle: [Details](/licenses#lekt3503))
 :::
 30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫
@@ -262,7 +262,7 @@ Market in Vadaseri, Tamil Nadu.
 40. ⟪जुह्वति⟫
 41. ⟪अहरत्⟫
 
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie:
 
 ⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫
 
@@ -274,19 +274,9 @@ B) Übersetzen Sie: <!-- TODO: Fallback translation -->
 ![](/images/lekt3504.webp)
 Abb.: ... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva ashram, Ganeshpuri.
-(Bildquelle: [Details](/licenses#lekt3504)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3504))
 :::
 ⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
-C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen. <!-- TODO: Fallback translation -->
+C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen.
 
-::: deleteme-box
-
-**lekt3501:** Temple musicians Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC] <!-- TODO: Fallback translation -->
-
-**lekt3502:** People walking, Senegal. [Bildquelle: Curt Carnemark / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3503:** Market in Vadaseri, Tamil Nadu. [Bildquelle: kifo / Flickr. CC BY-SA] <!-- TODO: Fallback translation -->
-
-**lekt3504:** Yajña ceremony, Shiva ashram, Ganeshpuri. [Bildquelle: Dey / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
-:::

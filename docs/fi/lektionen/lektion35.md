@@ -6,7 +6,7 @@ status: stable
 
 # Luento 35
 
-## 35.1. Perfekti tyyppi III: Vahva vartalo korkeatasoinen/pitkä äänenvoimakkuus <!-- TODO: Fallback translation -->
+## 35.1. Perfekti tyyppi III: Vahva vartalo korkeatasoinen/pitkä äänenvoimakkuus
 
 ::: grammar-box
 **Muodostaminen:**
@@ -14,11 +14,11 @@ status: stable
 **vahva vartalo:**
 *   3.sg.P: Pitkäaste
 *   2.sg.P: Korkea-aste
-*   1.sg.P: valinnainen korkea-aste tai pitkäaste <!-- TODO: Fallback translation -->
+*   1.sg.P: valinnainen korkea-aste tai pitkäaste
 
 **heikko vartalo:** katso alatyypit
 :::
-### 35.1.1. Perfekti tyyppi IIIa: vahva vartalo korkeapitkä-aste, heikko vartalo matala-aste <!-- TODO: Fallback translation -->
+### 35.1.1. Perfekti tyyppi IIIa: vahva vartalo korkeapitkä-aste, heikko vartalo matala-aste
 
 ::: grammar-box
 **Muodostus:**
@@ -29,7 +29,7 @@ status: stable
 :::
 Muodostetaan juurista, jotka kuuluvat tyyppeihin:
 *   (Konsonantti)-(Konsonantti) - i/ī/u/ū
-*   (Konsonantti) - ṛ <!-- TODO: Fallback translation -->
+*   (Konsonantti) - ṛ
 
 Vokaalialkuisen loppupään edellä korvautuu:
 *   -i/-ī muodolla -iy
@@ -45,7 +45,7 @@ Esimerkit:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfektityyppi IIIb: Vahva vartalo korkeatasoinen/pitkäaste, heikko vartalo korkeatasoinen <!-- TODO: Fallback translation -->
+### 35.1.2. Perfektityyppi IIIb: Vahva vartalo korkeatasoinen/pitkäaste, heikko vartalo korkeatasoinen
 
 ::: grammar-box
 **Muodostus:**
@@ -57,7 +57,7 @@ Esimerkit:
 Muodostuu juurista, jotka kuuluvat seuraaviin tyyppeihin:
 *   (konsonantti)-(konsonantti)-ṝ
 *   konsonanttikonsonantti-ṛ (eli juuri, jossa on -ṝ ja jonka edellä on useita konsonantteja)
-Esimerkkejä: <!-- TODO: Fallback translation -->
+Esimerkkejä:
 
 | Juuri | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -65,28 +65,28 @@ Esimerkkejä: <!-- TODO: Fallback translation -->
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfektityyppi IV: -ā / -āi-päätteiset juuret <!-- TODO: Fallback translation -->
+## 35.2. Perfektityyppi IV: -ā / -āi-päätteiset juuret
 
 ::: grammar-box
 **Muodostus:**
 
 **vahva vartalo:**
 *   3./1. sg. P Perfekti päättyy muotoon -au
-*   2\. sg. P : Korkeatasoinen muoto -ā tai matalatasoinen muoto -i <!-- TODO: Fallback translation -->
+*   2\. sg. P : Korkeatasoinen muoto -ā tai matalatasoinen muoto -i
 
 **heikko vartalo:**
 *   konsonantin edellä: matalatasoinen muoto -i
-*   vokaalin edellä: matalatasoinen muoto Ø <!-- TODO: Fallback translation -->
+*   vokaalin edellä: matalatasoinen muoto Ø
 
 Muodostetaan vartaloista, jotka päättyvät muotoon -ā / -āi
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 | Juuri | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekti, tyyppi V: vartalo konsonant-a-konsonant <!-- TODO: Fallback translation -->
+## 35.3. Perfekti, tyyppi V: vartalo konsonant-a-konsonant
 
 ::: grammar-box
 **Muodostus:**
@@ -94,13 +94,13 @@ Esimerkki: <!-- TODO: Fallback translation -->
 **vahva vartalo:**
 *   3.sg.P: pidennysaste (guṇa)
 *   2.sg.P: korotusaste (vṛddhi)
-*   1.sg.P: joko korotusaste (vṛddhi) tai pidennysaste (guṇa) <!-- TODO: Fallback translation -->
+*   1.sg.P: joko korotusaste (vṛddhi) tai pidennysaste (guṇa)
 
-**heikko vartalo:** katso alatyypit <!-- TODO: Fallback translation -->
+**heikko vartalo:** katso alatyypit
 
 Muodostetaan juurista, jotka ovat tyypiltään (konsonantti)-konsonantti-a-konsonantti
 :::
-### 35.3.1. Perfekti, tyyppi Va: heikko vartalo, syövytetty aste <!-- TODO: Fallback translation -->
+### 35.3.1. Perfekti, tyyppi Va: heikko vartalo, syövytetty aste
 
 ::: grammar-box
 **Muodostus:**
@@ -127,7 +127,7 @@ Esimerkkejä:
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfekti tyyppi Vb: heikko vartalo supistuminen (e-tyyppi) <!-- TODO: Fallback translation -->
+### 35.3.2. Perfekti tyyppi Vb: heikko vartalo supistuminen (e-tyyppi)
 
 ::: grammar-box
 **Muodostus:**
@@ -138,28 +138,28 @@ Esimerkkejä:
 (selityksee ks. Thumb-Hauschild 1,2 s. 286f.)
 :::
 Muodostetaan juurista, joissa on -a- kahden yksinkertaisen konsonantin välissä, joiden alkuconsonantti ei muutu reduplikaatiotavussa (eli joiden alkuconsonantti ei ole gutturaali, aspiratta tai h).
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 | Juuri | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ |
 
-### 35.3.3. Perfekti tyyppi Vc: vartalot Konsonant-a-Konsonant. Heikko taivutusmuoto, vahva aste <!-- TODO: Fallback translation -->
+### 35.3.3. Perfekti tyyppi Vc: vartalot Konsonant-a-Konsonant. Heikko taivutusmuoto, vahva aste
 
 ::: grammar-box
 **Muodostus:**
 
-**heikko taivutusmuoto:** vahva aste <!-- TODO: Fallback translation -->
+**heikko taivutusmuoto:** vahva aste
 
 Muodostetaan kaikista muista vartaloista, joissa on keskinen -a-, eli vartaloista, joissa on keskinen -a-
 *   jotka alkavat kahdella konsonantilla
 *   jotka alkuvat gutturaalilla
 *   jotka alkavat aspiroidulla konsonantilla
-*   jotka alkavat h-kirjaimella <!-- TODO: Fallback translation -->
+*   jotka alkavat h-kirjaimella
 
 jos ne eivät kuulu Perfekti-tyyppiin Va.
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 | Juuri | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -199,7 +199,7 @@ People walking, Senegal.
 **Pass. ⟪गीयते⟫**
 **Kaus. ⟪गापयति⟫**
 **PPP ⟪गीत⟫**
-**Inf. ⟪गातुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪गातुम्⟫**
 
 siitä:
 **⟪गीता⟫ f.:** laulu, sävellys
@@ -210,9 +210,9 @@ Kuva: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3501))
 :::
-## 35.5. Harjoitus <!-- TODO: Fallback translation -->
+## 35.5. Harjoitus
 
-A) Muodosta seuraavista verbimuodoista vastaavat perfektit: <!-- TODO: Fallback translation -->
+A) Muodosta seuraavista verbimuodoista vastaavat perfektit:
 
 1. ⟪गायन्ति⟫
 2. ⟪स्मरन्ति⟫
@@ -278,16 +278,5 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 :::
 ⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
-C) Muunna harjoituksen B) lauseet korvaamalla perfektit imperfekteillä. <!-- TODO: Fallback translation -->
+C) Muunna harjoituksen B) lauseet korvaamalla perfektit imperfekteillä.
 
-::: deleteme-box
-
-**lekt3501:** Temppelimuusikot Kaadu Malleswara Temple Bangalore. [Kuvälähde: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** Ihmiset kävelemässä, Senegal. [Kuvälähde: Curt Carnemark / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3503:** Markkinat Vadaserissa, Tamil Nadu. [Kuvälähde: kifo / Flickr. CC BY-SA] <!-- TODO: Fallback translation -->
-
-**lekt3504:** Yajna-seremonia, Shiva-ashram, Ganeshpuri. [Kuvälähde: Dey / Flickr. CC BY-NC-SA]
-:::
- <!-- TODO: Fallback translation -->

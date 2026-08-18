@@ -5,17 +5,10 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Leçon 11
 
-::: deleteme-box
-**Dans cette leçon, vous apprendrez :**
-- L'accusatif double (accusatif de la personne et de la chose)
-- L'utilisation des particules **iti**, **evam** et **na**
-- Les concepts fondamentaux tels que **dharma**, **adharma** et **putra**
-- La formation de noms à partir des racines **vad**, **prach** et **iṣ**
-:::
 ## 11.1. Accusatif double
 
 ::: grammar-box
@@ -105,7 +98,7 @@ Fig. : **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪मह�
 (Source de l'image : [Détails](/fr/licenses#lekt1101))
 :::
 
-## 11.4. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 11.4. Wiederholungsübung
 
 **A) Traduisez en sanskrit avec des constructions passives :**
 1. Les femmes vaiśya interrogent les brahmanes sur le dharma.
@@ -145,4 +138,3 @@ Fig. : **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪मह�
 Lég. : **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1103))
 :::
- <!-- TODO: Fallback translation -->

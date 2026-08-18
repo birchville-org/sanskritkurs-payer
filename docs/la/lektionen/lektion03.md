@@ -9,14 +9,6 @@ status: stable
 
 # Lectio 3
 
-::: deleteme-box
-**In hac lectione discetis:**
-- nominativum singulare feminini
-- nominativum pluralis masculini et feminini
-- formationem feminini a masculinis
-- sandhi vocalium
-- Satzsandhi von -ās
-:::
 ## 3.1. Nominativum singulare feminini
 
 ### 3.1.1. Nominativus singularis in -s
@@ -65,7 +57,7 @@ Finis nominativi pluralis in genere masculino et feminino est **-as**.
 :::
 Nota: **e** est gradus superior (**guṇa**) ad **i**, **o** est gradus superior ad **u**.
 
-## 3.4. Vokalsandhi <!-- TODO: Fallback translation -->
+## 3.4. Vokalsandhi
 
 ::: grammar-box
 **Vocales simplices, quae vel non vel solum longitudine differunt, “coalescunt” in vocalem longam correspondentem:**
@@ -76,7 +68,7 @@ Nota: **e** est gradus superior (**guṇa**) ad **i**, **o** est gradus superior
 :::
 e.g.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā est deitas" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā est deitas" = ⟪देवतान्नपूर्णा⟫
 
 > (Annapūrṇā est dea ciborum et coquinae, quae ut Pārvatī, uxor Śivae, incarnatio habetur.)
 
@@ -116,18 +108,18 @@ Pro hoc igitur sandhi sequens valet schema:
 ![](/images/lekt0302.jpg)
 (Fons imaginis: [Details](/la/licenses#lekt0302))
 :::
-De hac sic dicta gradatione tribuum vide postea! <!-- TODO: Fallback translation -->
+De hac sic dicta gradatione tribuum vide postea!
 
 e.g.
 
 śūdrā + itarā » śudretarā "Itarā est mulier Śūdra" = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās <!-- TODO: Fallback translation -->
+## 3.5. Satzsandhi von -ās
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-e.g. <!-- TODO: Fallback translation -->
+e.g.
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyae sunt bis nati" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -162,7 +154,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyae sunt bis nati" = ⟪द्
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : Kṣatriya femina. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : Kṣatriya femina.
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : uxor Kṣatriyae.
 

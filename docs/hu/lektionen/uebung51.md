@@ -20,7 +20,7 @@ last_reconstructed: 2026-05-15
 > * az asszony fogamzásra alkalmas idejében kell nemi érintkezést folytatnia
 > * tisztelnie kell az isteneket, az ősöket és a vendégeket
 > * bőkezűnek kell lennie a tőle függő személyekkel szemben
-> * és azt kell ennie, ami megmarad. <!-- TODO: Fallback translation -->
+> * és azt kell ennie, ami megmarad.
 
 **⟪ब्रह्मचारिणः⟫ ⟪स्वाध्यायो⟫ ⟪ऽग्निकार्याभिषेकौ⟫ ⟪भैक्षाव्रतित्वमाचार्ये⟫ ⟪प्राणान्तिकी⟫ ⟪वृत्तिस्तदभावे⟫ ⟪गुरुपुत्रे⟫ ⟪सब्रह्मचारिणि⟫ ⟪वा⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 
@@ -39,7 +39,7 @@ last_reconstructed: 2026-05-15
 > * hajfonatot és antilopbőrt kell viselnie
 > * tűzáldozatokat és meghintéseket kell végeznie
 > * tisztelnie kell az isteneket, az ősöket és a vendégeket
-> * erdei termésekből kell élnie. <!-- TODO: Fallback translation -->
+> * erdei termésekből kell élnie.
 
 **⟪प्रव्राजकस्य⟫ ⟪जितेन्द्रियत्वमनारम्भो⟫ ⟪निष्किंचनत्वं⟫ ⟪सङ्गत्यागो⟫ ⟪भैक्षाव्रतमनेकत्रारण्ये⟫ ⟪च⟫ ⟪वासो⟫ ⟪बाह्याभ्यन्तरं⟫ ⟪च⟫ ⟪शौचम्⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫**
 
@@ -91,7 +91,7 @@ A korábbi ⟪कादम्बरी⟫ fejezet kommentárja:
 
 > [!NOTE] Scholastyka sanszkritská
 > Jako první úvod do komentářového sanskrtu se hodí:
-> **Tubb, Gary A. & Boose, Emery R.: Scholastic Sanskrit: A Handbook for Students.** New York: American Institute of Buddhist Studies, 2007. <!-- TODO: Fallback translation -->
+> **Tubb, Gary A. & Boose, Emery R.: Scholastic Sanskrit: A Handbook for Students.** New York: American Institute of Buddhist Studies, 2007.
 
 ::: media
 ![](/images/uebung089.jpg)

@@ -45,15 +45,15 @@ A) Übersetzen Sie:
 
 ---
 
-## Übersetzungen ins Sanskrit (Imperativ) <!-- TODO: Fallback translation -->
+## Übersetzungen ins Sanskrit (Imperativ)
 
 [L0] B) به زبان سنسکریت با استفاده از صیغه امر ترجمه کنید:
 
 ⟪१⟫. **⟪भ्रियै⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Ich will erhalten werden. <!-- TODO: Fallback translation -->
+Ich will erhalten werden.
 
 ⟪२⟫. **⟪तुष्यतु⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Er soll zufrieden sein. <!-- TODO: Fallback translation -->
+Er soll zufrieden sein.
 
 ⟪३⟫. **⟪ह्वयाम⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Wir wollen rufen.
@@ -77,7 +77,7 @@ Beginnt das Studium!
 به پدران پیشین، قربانی غذا بدهید!
 
 ⟪१०⟫. **⟪नन्दन्तु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Sie sollen sich freuen! <!-- TODO: Fallback translation -->
+Sie sollen sich freuen!
 
 ⟪११⟫. **⟪लोकमवेक्षै⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 من می‌خواهم به جهان بنگرم.
@@ -101,10 +101,10 @@ Singe ein Loblied!
 Gehe von mir weg!
 
 ⟪१८⟫. **⟪मुच्यताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
-Er soll befreit werden! <!-- TODO: Fallback translation -->
+Er soll befreit werden!
 
 ⟪१९⟫. **⟪तव⟫ ⟪भार्यां⟫ ⟪रक्षाणि⟫ ⟪॥⟫ ⟪१९⟫ ⟪॥⟫**
-Ich will deine Gattin behüten. <!-- TODO: Fallback translation -->
+Ich will deine Gattin behüten.
 
 ⟪२०⟫. **⟪शत्रो⟫ ⟪म्रियस्व⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
 Stirb, Feind!
@@ -119,7 +119,7 @@ Sie mögen befehlen.
 ما می‌خواهیم در خانه شما زندگی کنیم.
 
 ⟪२४⟫. **⟪एवं⟫ ⟪भवतु⟫ ⟪॥⟫ ⟪२४⟫ ⟪॥⟫**
-So soll es geschehen! <!-- TODO: Fallback translation -->
+So soll es geschehen!
 
 ⟪२५⟫. **⟪अश्वं⟫ ⟪तुद⟫ ⟪॥⟫ ⟪२५⟫ ⟪॥⟫**
 Schlage das Pferd!

@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Lecția 50
 
-A) Pentru repetarea declinării: Următorul vers conține toate formele de declinare la singular pentru **⟪गुरु⟫** m.: <!-- TODO: Fallback translation -->
+A) Pentru repetarea declinării: Următorul vers conține toate formele de declinare la singular pentru **⟪गुरु⟫** m.:
 
 **⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫**  
 **⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫**  
@@ -53,7 +53,7 @@ A) Pentru repetarea declinării: Următorul vers conține toate formele de decli
 **⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫**  
 **⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 
-> O familie în care soțul este întotdeauna mulțumit de soție, iar soția de soț, în astfel de familii fericirea este garantată. <!-- TODO: Fallback translation -->
+> O familie în care soțul este întotdeauna mulțumit de soție, iar soția de soț, în astfel de familii fericirea este garantată.
 
 ::: media
 ![](/images/uebung081.webp)
@@ -81,7 +81,7 @@ Fig.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 Ilustr.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
 (Sursa imaginii: [Detalii](/licenses#uebung082))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ### ⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
 
@@ -93,7 +93,7 @@ Ilustr.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ �
 
 ---
 
-### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Despre sfătuitorii regelui <!-- TODO: Fallback translation -->
+### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Despre sfătuitorii regelui
 
 **⟪न⟫ ⟪किंचिदवमन्येत⟫**  
 **⟪सर्वस्य⟫ ⟪शृणुयान्मतम्⟫ ⟪।⟫**  
@@ -125,4 +125,4 @@ Ilustr.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ �
 **⟪संभावयति⟫ ⟪चान्नेन⟫**  
 **⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 
-> **Guru** se numește Brahmanul care, conform regulilor, îndeplinește Niṣeka și celelalte rituri și îl face să se nască prin hrană. <!-- TODO: Fallback translation -->
+> **Guru** se numește Brahmanul care, conform regulilor, îndeplinește Niṣeka și celelalte rituri și îl face să se nască prin hrană.

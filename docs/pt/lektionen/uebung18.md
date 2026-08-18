@@ -19,7 +19,7 @@ Não há enganador e inimigo como a ignorância,
 Não há fogo como a ira,  
 Não há felicidade como o conhecimento.
 
-B) Übersetzen Sie folgende Tatpuruṣa: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie folgende Tatpuruṣa:
 
 ⟪१⟫. ⟪सुकर⟫ ⟪३⟫ — leicht zu tun
 
@@ -88,7 +88,7 @@ B) Übersetzen Sie folgende Tatpuruṣa: <!-- TODO: Fallback translation -->
 Fig.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung027))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercícios Adicionais
 
@@ -104,7 +104,7 @@ A) Resolva os seguintes compostos em sânscrito e forneça sugestões de traduç
 
 ⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪।⟫ ⟪सिंहस्य⟫ ⟪संहननम्⟫ ⟪।⟫ — Matar de um/aos leões, matado por um/aos leões
 
-⟪६⟫. ⟪अरिसिंह⟫ m. ⟪।⟫ ⟪सिंह⟫ ⟪इव⟫ ⟪अरिः⟫ ⟪।⟫ — löwengleicher Feind <!-- TODO: Fallback translation -->
+⟪६⟫. ⟪अरिसिंह⟫ m. ⟪।⟫ ⟪सिंह⟫ ⟪इव⟫ ⟪अरिः⟫ ⟪।⟫ — löwengleicher Feind
 
 ⟪७⟫. ⟪आहारनिद्राभय⟫ n. ⟪।⟫ ⟪आहारो⟫ ⟪निद्रा⟫ ⟪भयं⟫ ⟪च⟫ ⟪।⟫ — Comer, Dormir e Medo
 
@@ -121,7 +121,7 @@ B) Traduza usando verbos da 2ª classe do presente:
 ⟪शूरा⟫ ⟪दुर्गमेण⟫ ⟪मार्गेणार्यग्रामं⟫ ⟪यन्ति⟫ ⟪।⟫
 
 3\. Die Hausmagd melkt die Kühe.
-⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫
 
 4\. Os inimigos dos arianos matam os poderosos Kṣatriyas.
 ⟪आर्यारयो⟫ ⟪बलवत्क्षत्रियान्घन्ति⟫ ⟪।⟫ (ou: ⟪आर्यशत्रवो⟫...)
@@ -146,4 +146,3 @@ O dever de todos é: não violência, veracidade, pureza, não reclamar do próp
 Fig.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung028))
 :::
- <!-- TODO: Fallback translation -->

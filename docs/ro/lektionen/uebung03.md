@@ -169,5 +169,5 @@ dvijāḥ kṣatriyāḥ.
 ![](/images/uebung001.webp)
 Abb.: ⟪पशुर्धेनुः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung001))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

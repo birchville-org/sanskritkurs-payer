@@ -1,7 +1,8 @@
 ---
 title: "Exercițiul 61"
 uebung_id: 61
-category: "Exercițiu"
+category: "Übung"
+
 ---
 
 # Lecția 61

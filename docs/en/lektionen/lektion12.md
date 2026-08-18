@@ -10,14 +10,6 @@ status: stable
 
 # Lesson 12
 
-::: deleteme-box
-**In this lesson, you will learn:**
-The Perfect Passive Participle (PPP)
-The meaning of the PPP
-The formation of the PPP
-Laws of sound combination in words
-Passive and PPP of the roots learned so far
-:::
 
 ## 12.1. Perfect Passive Participle (PPP)
 
@@ -245,6 +237,4 @@ Fig.: ⟪महावीरो जिनः⟫
 **B) Form the corresponding PPPs for the verb forms of [Lesson 10](/lektionen/lektion10), Exercise A. Note that a form like sṛjati corresponds to PPPs in all three genders.**
 
 **C) Convert the sentences of [Lesson 10](/lektionen/lektion10), Exercise C into the passive voice in the past tense.**
-
-
 

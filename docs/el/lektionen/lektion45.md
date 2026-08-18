@@ -5,7 +5,7 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα 45
 
@@ -145,12 +145,5 @@ status: stable
 ![](/images/lekt4502.jpg)
 Εικ.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt4502))
-:::
-
-::: deleteme-box
-
-**lekt4501.jpg**: Ένδυμα με ξυλογραφία, Αχμερντάμπατ. -- Πηγή εικόνας: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Παρόμοια Άδεια)
-
-**lekt4502.jpg**: Πηγή εικόνας: John Isaac / Παγκόσμια Τράπεζα. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Όχι Παράγωγα Έργα)
 :::
 

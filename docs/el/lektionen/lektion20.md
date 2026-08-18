@@ -256,7 +256,7 @@ Madhya Pradesh
 
 ⟪वा⟫ : ή
 
-⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.) <!-- TODO: Fallback translation -->
+⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.)
 
 ::: media
 ![](/images/lekt2008.webp)
@@ -266,7 +266,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend
 
-⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
+⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8)
 
 ⟪कर⟫ m.: φόρος, τέλη, φορολογία (όχι προς ⟪कृ⟫, αλλά πιθανόν δάνειο από τα Ταμίλ - தமிழ்)
 
@@ -564,27 +564,5 @@ Sanchi = ⟪सांची⟫
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
 Εξήγηση: ⟪इच्छताम्⟫ = γεν. πληθ. μετοχής ενεστώτα παθητικής φωνής προς ⟪इष्⟫ : των επιθυμούντων
-:::
-::: deleteme-box
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Καμπότζη, 9ος αι. μ.Χ. [Πηγή εικόνας: Wikipedia, Δημόσιος τομέας]
-
-**lekt2002:** [Πηγή εικόνας: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926] <!-- TODO: Fallback translation -->
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Πηγή εικόνας Wikipedia, Δημόσιος τομέας]
-
-**lekt2004:** Τζόουνπούρ = ⟪जोधपुर⟫ [Πηγή εικόνας: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Πρόσβαση στις 2008-12-11. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση τροποποίησης)]
-
-**lekt2005:** Ο Ιησούς και οι υπόλοιποι θεοί, Αχμενταμπάντ [Πηγή εικόνας: από ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Πρόσβαση στις 2008-12-11. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση τροποποίησης)]
-
-**lekt2006:** Madhya Pradesh [Πηγή εικόνας: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Πρόσβαση στις 2008-12-11. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση τροποποίησης)]
-
-**lekt2007:** Τσενάι = சென்னை [Πηγή εικόνας: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Πρόσβαση στις 2008-12-11. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση τροποποίησης)]
-
-**lekt2008:** Ρισικέες = ⟪ऋषिकेश⟫. «Αυτό είναι στην πραγματικότητα μέρος του Ασράμ στο Ρισικέες όπου έμειναν οι Beatles. Αυτό το συγκεκριμένο μέρος δεν υπήρχε όταν ήταν εκεί, αλλά φαίνεται πολύ ωραίο.» [Πηγή εικόνας: από τον ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Πρόσβαση στις 2008-12-11. -- Άδεια Creative Commons (Αναφορά)]
-
-**lekt2009:** Καρνάτακα [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Πρόσβαση στις 2008-12-11. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
-
-**lekt2010:** Ο Βούδας ως ασκητής πριν από τη σωτήρια διαύγειά του, Γανδάρα, 2./3ος αι. μ.Χ. [Πηγή εικόνας: Wikipedia, GNU FDLicense]
 :::
 

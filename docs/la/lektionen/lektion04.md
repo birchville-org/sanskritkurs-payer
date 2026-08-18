@@ -9,14 +9,6 @@ status: stable
 
 # Lectio 4
 
-::: deleteme-box
-**In hac lection discitis:**
-- Pronomina interrogativa et demonstrativa in casu nominativo
-- Sandhi vocis finalis -m
-- Sandhi vocis finalis -e
-- Sandhi vocis finalis -d
-- Formulae interrogativae simplices
-:::
 ## 4.1. Quaestiones supplementariae simplices (quaestiones verborum) et responsiones
 
 ### 4.1.1. Pronomina interrogativa et demonstrativa
@@ -48,11 +40,11 @@ status: stable
 **De Nom. sg. masc.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) stat ante omnes sonos praeter breve **-a**
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) stat ante **-a**, quod Avagraha eliditur (cadit)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) stat solum in pausa (fine sententiae, fine versus) <!-- TODO: Fallback translation -->
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) stat solum in pausa (fine sententiae, fine versus)
 
 Ut cum his pronomine (sarvanāman n.) sententias formare possimus, notitia sequentium regulārum Sandhi necesse est:
 
-### 4.1.2. Sandhi von auslautendem -m <!-- TODO: Fallback translation -->
+### 4.1.2. Sandhi von auslautendem -m
 
 ::: grammar-box
 **Finalis -m ante consonantes per Anusvāra (-ṃ) mutatur. In fine sententiae vel versus, ac ante vocales, -m manet.**
@@ -107,4 +99,3 @@ ANIMADVERSIO: Responsiones, quas cum vestris adhuc Sanscriticis notitiis ad huiu
 ![](/images/lekt0401.webp)
 (Fons imaginis: [De rebus](/la/licenses#lekt0401))
 :::
- <!-- TODO: Fallback translation -->

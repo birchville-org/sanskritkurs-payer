@@ -776,39 +776,3 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, ਲਗਭਗ 1810
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵਿਸਤਾਰ](/pa/licenses#lekt5201))
 :::
 
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, ਚੇਨਈ = சென்னை [ਚਿੱਤਰ ਸਰੋਤ: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- ਪ੍ਰਾਪਤੀ 2009-01-15. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਈਸੈਂਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt5203:** ਵਯੰਗ ਚਿੱਤਰ, ਜਾਵਾ, ਇੰਡੋਨੇਸ਼ੀਆ [ਚਿੱਤਰ ਸਰੋਤ. ਵਿਕੀਪੀਡੀਆ. ਸਾਰਵਜਨਿਕ ਖੇਤਰ]
-
-**lekt5204:** ਮੰਦਰ ਸਾਹਮਣੇ ਲੰਬੀ ਕਤਾਰ, ਤਿਰੁਵਨੰਤਪੁਰਮ = Thiruvananthapuram = തിരുവനന്തപുരം [ਚਿੱਤਰ ਸਰੋਤ: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- ਪ੍ਰਾਪਤੀ 2009-01-15. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਈਸੈਂਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-**lekt5209:** ਅਗਨੀ ਕ੍ਰਿਤ, ਅਰੁਣਾਚਲ ਪ੍ਰਦੇਸ਼ = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [ਚਿੱਤਰ ਸਰੋਤ: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- ਪ੍ਰਾਪਤੀ 2009-01-15. --  [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਈਸੈਂਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt5205:** [ਚਿੱਤਰ ਸਰੋਤ: ਵਿਕੀਪੀਡੀਆ⟪।⟫ ਸਾਰ্বਜਨਿਕ ਖੇਤਰ]
-
-**lekt5206:** ਸਤ-ਤਾਰਾ = ਮਹਾਨ ਭਾਲੂ (Ursa maior) ਦੇ ਸੱਤ ਸਭ ਤੋਂ ਚਮਕਦਾਰ ਤਾਰੇ [ਚਿੱਤਰ ਸਰੋਤ: ਵਿਕੀਪੀਡੀਆ, GNU FDLicense]
-
-**lekt5207:** ਜਲਕੰਡਪੁਰਮ = ஜலகண்டபுரம் [ਚਿੱਤਰ ਸਰੋਤ: ਵਿਕੀਪੀਡੀਆ⟪।⟫ ਸਾਰਬਜਨਿਕ ਖੇਤਰ]
-
-**lekt5210:** ਤੰਭੋਲ, ਅਕੋਲੇ, ਅਹਿਮਦਨਗਰ = ⟪अहमदनगर⟫ [ਚਿੱਤਰ ਸਰੋਤ: ਡੈਨ ਟਨਸਟਾਲ / ਵਰਲਡ ਰਿਸੋਰਸਜ਼ ਇੰਸਟੀਟਿਊਟ ਸਟਾਫ. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- 16-01-2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ)]
-
-**lekt5212:** ਹੈਦਰਾਬਾਦ = హైదరాబాద్ [ਚਿੱਤਰ ਸਰੋਤ: ਡੇਵਿਡ ਏ. ਜੀ. ਵਿਲਸਨ. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- 16-01-2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt5213:** ⟪मुंबई⟫ [ਚਿੱਤਰ ਸਰੋਤ: ਸਾਈਬੋਟਰੀਜੀਲ. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- 16-01-2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt5214:** ਕੋਨਾਰਕ = ⟪कोनार्क⟫ [ਚਿੱਤਰ ਸਰੋਤ: ਗੌਰਬ ਅਰਕਾ. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- 16-01-2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ --  [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt5208:** ਹੰਪੀ = ಹಂಪೆ [ਚਿੱਤਰ ਸਰੋਤ: ਓਲੀਵਰ ਹਿਲਟਬ੍ਰੂਨਰ. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- 15-01-2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-**lekt5215:** ⟪मुंबई⟫ [ਚਿੱਤਰ ਸਰੋਤ: ਜੇਮਸ ਕ੍ਰਿਡਲੈਂਡ. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- 16-01-2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ)]
-
-**lekt5217:** ਅਮਰਾਵਤੀ = అమరావతి, 2. ਸਦੀ ਈ.ਸ.ਪੋ. [ਚਿੱਤਰ ਸਰੋਤ. ਵਿਕੀਪੀਡੀਆ. GNU FDLicense]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, ਲਗਭਗ 1810 [ਚਿੱਤਰ ਸਰੋਤ: ਵਿਕੀਪੀਡੀਆ⟪।⟫ ਸਾਰਬਜਨਿਕ ਖੇਤਰ]
-
-**lekt5201:** (ਚਿੱਤਰ: ਪੇਅਰ)
-
-:::
-

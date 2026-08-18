@@ -94,8 +94,3 @@ status: stable
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** 'ਇਨਾਯਤ ਖ਼ਾਨ ਮੌਤ ਦੇ ਕੋਲ, ਜਹਾਂਗੀਰ = جهانگਿਰ ਲਈ ਇੱਕ ਮਿਨੀਏਟਰ ਦਾ ਡਰਾਫਟ, ਲਗਭਗ 1618 [ਚਿੱਤਰ ਸਰੋਤ: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- ਪ੍ਰਾਪਤੀ ਦਿਨ 2009-01-28. ਸਾਂਝਾ]
-
-:::

@@ -4,7 +4,7 @@
 
 ![](/images/schrift012.webp)
 
-Esimerkkejä r:stä konsonantin edellä: <!-- TODO: Fallback translation -->
+Esimerkkejä r:stä konsonantin edellä:
 
 ⟪र्क⟩ rka, ⟪र्च⟩ rca, ⟪र्ट⟩ rṭa, ⟪र्त⟩ rta, ⟪र्प⟩ rpa, ⟪र्श⟩ rśa, ⟪र्ह⟩ rha, ⟪र्का⟩ rkā, ⟪र्कि⟩ rki, ⟪र्की⟩ rkī, ⟪र्कु⟩ rku, ⟪र्के⟩ rke, ⟪र्कै⟩ rkai, ⟪र्को⟩ rko, ⟪र्कौ⟩ rkau, ⟪र्कं⟩ rkaṃ, ⟪र्कां⟩ rkāṃ, ⟪र्किं⟩ rkiṃ, ⟪र्कीं⟩ rkīṃ, ⟪र्कुं⟩ rkuṃ, ⟪र्कें⟩ rkeṃ, ⟪र्कैं⟩ rkaiṃ, ⟪र्कौं⟩ rkauṃ
 
@@ -14,7 +14,7 @@ Kirjoitussäännöt:
 
 r konsonantin jälkeen: /
 
-*   pystysuoralla pääteviivalla varustetuissa kirjaimissa: / pystysuoraan päätösrajaan <!-- TODO: Fallback translation -->
+*   pystysuoralla pääteviivalla varustetuissa kirjaimissa: / pystysuoraan päätösrajaan
 
 *   muissa kirjaimissa: kirjaimen alapuolella
 
@@ -49,11 +49,11 @@ Kirjoitussäännöt:
 
 ## Harjoitus
 
-A) Kirjoita Devanāgarī-kirjaimistolla ja anna käännös (edellyttää Luento 8): <!-- TODO: Fallback translation -->
+A) Kirjoita Devanāgarī-kirjaimistolla ja anna käännös (edellyttää Luento 8):
 
 śravaṇa, darśana, kāraṇa, sarga, krodhaḥ, netram, śruti, kurvate. śudraḥ śṛṇoti. śrutirvedaḥ. dhenurviśati. sādhurguruḥ. gururyajate. kavirmāghaḥ.
 
-B) Lue, translitteroi ja käännä: <!-- TODO: Fallback translation -->
+B) Lue, translitteroi ja käännä:
 
 ⟪श्रुतिः⟩ | ⟪गुर्वी⟩ | ⟪क्रुध्⟩ | ⟪शृणोति⟩ | ⟪कविर्भारविः⟩ | ⟪कविर्हर्षदेवः⟩ | ⟪पशुर्धेनुः⟩ | ⟪शूद्रेतरा⟩ | ⟪श्रोत्रम्⟩ ||
 

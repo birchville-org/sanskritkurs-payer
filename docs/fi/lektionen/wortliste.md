@@ -4,10 +4,6 @@ outline: 2
 
 
 
-::: deleteme-box
-**Sitatapa ja oikeudet**
-
-:::
 # Sanalista (katsaus)
 
 *Kaikki kurssin uudet sanat esitetyssä järjestyksessä, teemallisine selityksineen.*
@@ -27,14 +23,14 @@ outline: 2
 
 **brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmana (henkinen luokka).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (ruhtinas- ja sotilasluku). <!-- TODO: Fallback translation -->
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (ruhtinas- ja sotilasluku).
 
 **vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (viljely- ja kauppaluokka).
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (palvelusluokka).
 
 ::: note-box Die vier Stände (varna)
-Klassisen teorian (esim. Manusmṛti I, 88–91) mukaan tehtävät ovat jakautuneet: <!-- TODO: Fallback translation -->
+Klassisen teorian (esim. Manusmṛti I, 88–91) mukaan tehtävät ovat jakautuneet:
 
 - **brahmanoiden**
 - vedatutkimus
@@ -64,7 +60,7 @@ Klassisen teorian (esim. Manusmṛti I, 88–91) mukaan tehtävät ovat jakautun
 
 **varṇa** m. -- ⟪वर्ण⟫ : Väri, syntyperäinen luokka (pyrkimys).
 
-Neljää luokkaa (**varṇa** m.) sekoitetaan usein kastijärjestelmään. Neljä luokkaa ovat kuitenkin – toisin kuin kasti – ei mitenkään erityisesti intialainen ilmiö; Euroopassakin oli (osittain ensimmäiseen maailmansotaan asti) luokkajärjestelmä, kuten seuraava 1400-luvun kuvitus vahvistaa: <!-- TODO: Fallback translation -->
+Neljää luokkaa (**varṇa** m.) sekoitetaan usein kastijärjestelmään. Neljä luokkaa ovat kuitenkin – toisin kuin kasti – ei mitenkään erityisesti intialainen ilmiö; Euroopassakin oli (osittain ensimmäiseen maailmansotaan asti) luokkajärjestelmä, kuten seuraava 1400-luvun kuvitus vahvistaa:
 
 ::: media
 ![](/images/lekt0201.webp)
@@ -78,30 +74,30 @@ Kuv.: Eurooppalaisen keskiajan luokkajaottelun esitys (puukaiverrus 1400-luvun l
 
 Kolme luokkaa pukeutuvat kunkin oman luokkavaatteensa. Yllä – jota siten kuvataan jumalallisesti tahdotuksi – luokkien yllä istuu Kristus.
 
-Max Weber (1864–1920) määrittelee luokan näin: <!-- TODO: Fallback translation -->
+Max Weber (1864–1920) määrittelee luokan näin:
 
 ::: note-box
 »**Luokka**« tarkoittaa ihmisten joukkoa, joka toimii yhteisön sisällä
 a) ottaen käyttöön luokkakohtaisen erityisarvostuksen, – mahdollisesti myös
-b) luokkakohtaiset erityisoikeudet. <!-- TODO: Fallback translation -->
+b) luokkakohtaiset erityisoikeudet.
 
 Luokat voivat syntyä
 a) ensisijaisesti, oman luokkakohtaisen elämäntavan kautta, erityisesti **ammatin** (**elämäntapa- tai ammattiluokat**) kautta,
 b) toissijaisesti, perinnöllisen karisman kautta, menestyksekkäiden arvovaltapyrkimysten kautta luokkakohtaisen **syntyperän** (**syntyluokat**) voimalla,
 c) luokkakohtaisen **omistuksen** kautta poliittisiin tai hierokraattisiin herruusvaltoihin monopolina (**poliittiset tai hierokraattiset luokat**).
 
-Syntyluokkainen kehitys on säännöllisesti muoto (perinnöllisestä) oikeuksien omistamisesta yhteisölle tai kvalifioituille yksilöille. Jokaista kiinteää mahdollisuuksien omistusta, erityisesti [herruus]valtojen tai ansaintamahdollisuuksien omistusta, luonnehtii taipumus johtaa luokkamuodostukseen. Jokaista luokkamuodostusta luonnehtii taipumus johtaa monopolistiseen herruusvaltojen ja ansaintamahdollisuuksien omistamiseen. <!-- TODO: Fallback translation -->
+Syntyluokkainen kehitys on säännöllisesti muoto (perinnöllisestä) oikeuksien omistamisesta yhteisölle tai kvalifioituille yksilöille. Jokaista kiinteää mahdollisuuksien omistusta, erityisesti [herruus]valtojen tai ansaintamahdollisuuksien omistusta, luonnehtii taipumus johtaa luokkamuodostukseen. Jokaista luokkamuodostusta luonnehtii taipumus johtaa monopolistiseen herruusvaltojen ja ansaintamahdollisuuksien omistamiseen.
 
 
-Kun ansaintaoluokat markkinatalouden pohjalla kasvavat, kastit syntyvät ja säilyvät mieluiten monopolistisen liturgisen tai feodaalisen tai kasteittaisen patrimonialisen yhteisöjen tarpeentyydytyksen pohjalla. <!-- TODO: Fallback translation -->
+Kun ansaintaoluokat markkinatalouden pohjalla kasvavat, kastit syntyvät ja säilyvät mieluiten monopolistisen liturgisen tai feodaalisen tai kasteittaisen patrimonialisen yhteisöjen tarpeentyydytyksen pohjalla.
 
-»**Kasteittain**« tarkoittaa yhteisöä, jos sosiaalinen eriytyminen tapahtuu mieluiten kastien mukaan, »**luokkain**«, jos se tapahtuu mieluiten luokkien mukaan. »Kastiin« kuuluu »luokista« lähimpänä »sosiaalinen« luokka, kauimpana »ansaintaluokka«. Kastit muodostuvat usein omistusluokkien keskipisteen mukaan. <!-- TODO: Fallback translation -->
+»**Kasteittain**« tarkoittaa yhteisöä, jos sosiaalinen eriytyminen tapahtuu mieluiten kastien mukaan, »**luokkain**«, jos se tapahtuu mieluiten luokkien mukaan. »Kastiin« kuuluu »luokista« lähimpänä »sosiaalinen« luokka, kauimpana »ansaintaluokka«. Kastit muodostuvat usein omistusluokkien keskipisteen mukaan.
 
-Jokainen kaste-yhteisö on konventionaalinen, elämäntapojen säännöillä järjestetty, luo siksi taloudellisesti irrationaalisen kulutusolosuhteet ja estää tällä tavalla monopolististen appropriointien ja oman ansaintakyvyn vapaan hallinnan estämisen kautta vapaan markkinamuodostuksen. <!-- TODO: Fallback translation -->
+Jokainen kaste-yhteisö on konventionaalinen, elämäntapojen säännöillä järjestetty, luo siksi taloudellisesti irrationaalisen kulutusolosuhteet ja estää tällä tavalla monopolististen appropriointien ja oman ansaintakyvyn vapaan hallinnan estämisen kautta vapaan markkinamuodostuksen.
 
 [**Weber, Max (1864–1920)::** Talous ja yhteiskunta : ymmärtävän sosiologian luonnos. – 5., tarkistettu painos. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-Varṇat ovat siten syntymäkasteita. <!-- TODO: Fallback translation -->
+Varṇat ovat siten syntymäkasteita.
 
 **kavi** m. -- ⟪कवि⟫ : runoilija.
 
@@ -112,7 +108,7 @@ Varṇat ovat siten syntymäkasteita. <!-- TODO: Fallback translation -->
 Kuv.: Jumala Agni, miniatyyri, 1800-luku.
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt0203))
 :::
-**sādhu** 3 -- ⟪साधु⟫ : oikea, hyvä. <!-- TODO: Fallback translation -->
+**sādhu** 3 -- ⟪साधु⟫ : oikea, hyvä.
 
 **sādhu** m. -- ⟪साधु⟫ : "pyhä" mies, Sādhu.
 
@@ -121,13 +117,13 @@ Kuv.: Jumala Agni, miniatyyri, 1800-luku.
 Kuv.: Sādhu (⟪साधु⟫), Pashupatinathin temppeli, Kathmandu.
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt0202))
 :::
-**guru** 3 -- ⟪गुरु⟫ : raskas, merkittävä, kunnioitettava <!-- TODO: Fallback translation -->
+**guru** 3 -- ⟪गुरु⟫ : raskas, merkittävä, kunnioitettava
 
-**guru** m. -- ⟪गुरु⟫ : kunnioitettava henkilö: isä, äiti, vanhempi sukulainen, erityisesti opettaja, mestari <!-- TODO: Fallback translation -->
+**guru** m. -- ⟪गुरु⟫ : kunnioitettava henkilö: isä, äiti, vanhempi sukulainen, erityisesti opettaja, mestari
 
 ---
 
-## Oppitunti 3 <!-- TODO: Fallback translation -->
+## Oppitunti 3
 
 
 
@@ -158,16 +154,16 @@ Kuv.: Sādhu (⟪साधु⟫), Pashupatinathin temppeli, Kathmandu.
 
 **dhenu** f. = ⟪धेनु⟫ : (maito)lehmä.
 
-**paśu** m. = ⟪पशु⟫ : kesytetty hyödyke, karja (kollektiivi). <!-- TODO: Fallback translation -->
+**paśu** m. = ⟪पशु⟫ : kesytetty hyödyke, karja (kollektiivi).
 
 
-**devatā** f. = ⟪देवता⟫ : jumaluus (abstrakt ja konkreetti). <!-- TODO: Fallback translation -->
+**devatā** f. = ⟪देवता⟫ : jumaluus (abstrakt ja konkreetti).
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : brāhmaṇī.
 
 **kṣatriyā** f. = ⟪क्षत्रिया⟫ : naispuolinen kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : kṣatriyan vaimmo. <!-- TODO: Fallback translation -->
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : kṣatriyan vaimmo.
 
 **vaiśyā** f. = ⟪वैश्या⟫ : naispuolinen vaiśya.
 
@@ -182,23 +178,23 @@ Kuv.: Sādhu (⟪साधु⟫), Pashupatinathin temppeli, Kathmandu.
 Kuv.: Durgā = ⟪दुर्गा⟫, Orissa
 (Kuv lähde: [Details](/images/lekt0303))
 :::
-**sādhvī** f. = ⟪साध्वी⟫ : fem. sanalle sādhu. <!-- TODO: Fallback translation -->
+**sādhvī** f. = ⟪साध्वी⟫ : fem. sanalle sādhu.
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. sanalle guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "minä-olo", ts. (väärä) usko: **Minä** olen se, joka näkee jne. <!-- TODO: Fallback translation -->
+**asmitā** f. = ⟪अस्मिता⟫ : "minä-olo", ts. (väärä) usko: **Minä** olen se, joka näkee jne.
 
 **ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filosofia (tiede, joka päättelynsä johtopäätöksiin logisesti oikeutetuilla perusteluilla).
 
 **upekṣā** f. = ⟪उपेक्षा⟫ : huomioimatta jättäminen, tasapainoisuus.
 
-**karuṇā** f. = ⟪करुणा⟫ : myötätunto, sääli. <!-- TODO: Fallback translation -->
+**karuṇā** f. = ⟪करुणा⟫ : myötätunto, sääli.
 
-**muditā** f. = ⟪मुदिता⟫ : ilo, erityisesti iloitseminen (vastakohta kateudelle). <!-- TODO: Fallback translation -->
+**muditā** f. = ⟪मुदिता⟫ : ilo, erityisesti iloitseminen (vastakohta kateudelle).
 
 ---
 
-## Oppitunti 5 <!-- TODO: Fallback translation -->
+## Oppitunti 5
 
 
 
@@ -206,36 +202,36 @@ Kuv.: Durgā = ⟪दुर्गा⟫, Orissa
 
 
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Lernen Sie folgende Wörter:**
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : taipumus, pitkäjänteisyys, vaativuus; erityisesti: kiintymys kehoon kuin se olisi jotain omaa. <!-- TODO: Fallback translation -->
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : taipumus, pitkäjänteisyys, vaativuus; erityisesti: kiintymys kehoon kuin se olisi jotain omaa.
 
-**kāma** m. = ⟪काम⟫ : halu, toive, haluttu lahja, aistinharha, rakkaus; rakkauden jumala Kāma. <!-- TODO: Fallback translation -->
+**kāma** m. = ⟪काम⟫ : halu, toive, haluttu lahja, aistinharha, rakkaus; rakkauden jumala Kāma.
 
 ::: media
 ![](/images/lekt0501.webp)
 Kuv.: Jumala Kāma = kāmadeva = ⟪कामदेव⟫, 1700-luku
 (Kuv lähde: Wikipedia, Public domain)
 :::
-**krodha** m. = ⟪क्रोध⟫ : viha. <!-- TODO: Fallback translation -->
+**krodha** m. = ⟪क्रोध⟫ : viha.
 
-**kleśa** m. = ⟪क्लेश⟫ : kärsimys, piina. <!-- TODO: Fallback translation -->
+**kleśa** m. = ⟪क्लेश⟫ : kärsimys, piina.
 
 **trayī** f. = ⟪त्रयी⟫ : kolmikko; erityisesti kolme vedaa (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politiikka (Tatpuruṣa sanosta daṇḍa m. = "sauva, valta, hallinta, rangaistus" ja nīti f. = "oikea johto"). <!-- TODO: Fallback translation -->
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politiikka (Tatpuruṣa sanosta daṇḍa m. = "sauva, valta, hallinta, rangaistus" ja nīti f. = "oikea johto").
 
 **dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : kaksinkertaisesti syntynyt.
 
 **dveṣa** m. = ⟪द्वेष⟫ : viha.
 
-**maitrī** f. = ⟪मैत्री⟫ : ystävyys, ystävällisyys, ystävällinen hyväksyntä. <!-- TODO: Fallback translation -->
+**maitrī** f. = ⟪मैत्री⟫ : ystävyys, ystävällisyys, ystävällinen hyväksyntä.
 
 **rāga** m. = ⟪राग⟫ : (punainen) väri, intohimo, rakkaus.
 
 **lobha** m. = ⟪लोभ⟫ : ahneus, haluttomuus.
 
-**varṇa** m. = ⟪वर्ण⟫ : väri, laji, yhteiskuntaluokka. <!-- TODO: Fallback translation -->
+**varṇa** m. = ⟪वर्ण⟫ : väri, laji, yhteiskuntaluokka.
 
 **vārttā** f. = ⟪वार्त्ता⟫ : ansainta, talous (talous).
 
@@ -246,11 +242,11 @@ Kuv.: Jumala Kāma = kāmadeva = ⟪कामदेव⟫, 1700-luku
 **ca** = ⟪च⟫ : ja.
 (Sijoitetaan perään liitettyyn sanaan. Kun useita sanoja yhdistetään, se on ihanteellista viimeisen liitoksen sanan perässä: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
 
-**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sekä ... että. <!-- TODO: Fallback translation -->
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sekä ... että.
 
 ---
 
-## Oppitunti 6 <!-- TODO: Fallback translation -->
+## Oppitunti 6
 
 
 
@@ -277,7 +273,7 @@ Sanskritissa verbien juuret esitetään **juurimuodossa**. Juuren jälkeen oleva
 - **muh** 4 P (muhyati) ⟪मुह्⟩ ⟪मुह्यति⟩ : olla hämmentynyt
 - **yudh** 4 Ā (yudhyate) ⟪युध्⟩ ⟪युध्यते⟩ : taistella
 - **viś** 6 P (viśati) ⟪विश्⟩ ⟪विशति⟩ : astua sisään
-- **sṛj** 6 P (sṛjati) ⟪सृज्⟩ ⟪सृजति⟩ : päästää irti, laskea ulos, antaa emittoitua <!-- TODO: Fallback translation -->
+- **sṛj** 6 P (sṛjati) ⟪सृज्⟩ ⟪सृजति⟩ : päästää irti, laskea ulos, antaa emittoitua
 
 ---
 
@@ -341,7 +337,7 @@ Kuv.: Oliko tämä vedalainen somakasvi?: käräsmato: *Amanita muscaria* (L.) L
 - **śuka** m. ⟪शुक⟩ : papukaija
 - **pat** 1 P (patati) ⟪पत्⟩ ⟪पतति⟩ : pudota, lentää
 - **patrikā** f. ⟪पत्रिका⟩ : kirje
-- **likh** 1 P (likhati) ⟪लिख्⟩ ⟪लिखति⟩ : kaivertaa, kirjoittaa (alkujaan piirrossauvalla palmunlehteen, mutta myöhemmin yleisesti) <!-- TODO: Fallback translation -->
+- **likh** 1 P (likhati) ⟪लिख्⟩ ⟪लिखति⟩ : kaivertaa, kirjoittaa (alkujaan piirrossauvalla palmunlehteen, mutta myöhemmin yleisesti)
 
 
 ::: media
@@ -355,7 +351,7 @@ Kuv.: **likh** (⟪लिख्⟫) : Batakien kirjoitustikku (Sumatra), joka to
 (Kuv lähde: [Details](/licenses#lekt0809))
 :::
 - **sukha** n. ⟪सुख⟫ : onni, hyvinvointi
-- **duḥkha** n. ⟪दुःख⟫ : onnettomuus, kärsimys <!-- TODO: Fallback translation -->
+- **duḥkha** n. ⟪दुःख⟫ : onnettomuus, kärsimys
 
 ---
 
@@ -369,7 +365,7 @@ Kuv.: **likh** (⟪लिख्⟫) : Batakien kirjoitustikku (Sumatra), joka to
 
 **Opettele seuraavat sanat:**
 
-- **adhyayana** n. (⟪अध्ययन⟫) : opiskelu, erityisesti vedatutkimus <!-- TODO: Fallback translation -->
+- **adhyayana** n. (⟪अध्ययन⟫) : opiskelu, erityisesti vedatutkimus
 
 ::: media
 ![](/images/lekt0903.webp)
@@ -397,7 +393,7 @@ Kuv.: **kāru** = ⟪कारु⟫, Gujarat.
 - **yajana** n. (⟪यजन⟫) : uhri jonkun toisen puolesta
 - **rūpa** n. (⟪रूप⟫) : ulkonäkö, muoto, kaunis muoto, luonne, olemus
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : kauppa
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : kuuliaisuus, kuuliainen palvelus <!-- TODO: Fallback translation -->
+- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : kuuliaisuus, kuuliainen palvelus
 
 ---
 
@@ -417,7 +413,7 @@ Kuv.: **kāru** = ⟪कारु⟫, Gujarat.
 
 ::: note-box
 Kaupunki- ja kyläelämästä ks. Basham, *Wonder*, luku 6.
-- **yajña** m. ⟪यज्ञ⟫ : uhri <!-- TODO: Fallback translation -->
+- **yajña** m. ⟪यज्ञ⟫ : uhri
 
 :::
 ::: note-box
@@ -430,11 +426,11 @@ Sananmuodostus: **yaj** 1 U + kṛt-pääte **-na-**.
 ::: note-box
 Jolla ansaitsee hyvinvointia ja hyviä uudelleensyntymisiä.
 - **pāpa** n. ⟪पाप⟫ : paha teko, pahuus (vastakohta **puṇya**)
-- **satya** n. ⟪सत्य⟫ : totuus <!-- TODO: Fallback translation -->
+- **satya** n. ⟪सत्य⟫ : totuus
 
 :::
 ::: note-box
-Intiassa totiseen sanaan uskottiin olevan taianomainen voima, jopa koko maailmankaikkeus ylläpitää ja luo totinen sana. Tärkeästä käsityksestä ks. perusteos: <!-- TODO: Fallback translation -->
+Intiassa totiseen sanaan uskottiin olevan taianomainen voima, jopa koko maailmankaikkeus ylläpitää ja luo totinen sana. Tärkeästä käsityksestä ks. perusteos:
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Julkaistu Ludwig Alsdorfin toimesta. - Göttingen : Vandenhoeck & Ruprecht. -- Vsk 2: Varuna ja Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
@@ -443,14 +439,14 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Julkaistu Ludwig Als
 Kuv.: ⟪वरुणः⟫
 (Kuv lähde: [Details](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : epätotuus, valhe (vastakohta **satya**) <!-- TODO: Fallback translation -->
+- **anṛta** n. ⟪अनृत⟫ : epätotuus, valhe (vastakohta **satya**)
 
 
 ::: note-box
-Wortbildung **an-** („un-“) + **ṛta** n. <!-- TODO: Fallback translation -->
+Wortbildung **an-** („un-“) + **ṛta** n.
 
 **ṛta** on keskeinen käsite vedassa, jonka käännös on kiistanalainen: „totuus“ (Lüders, Thieme), „järjestys“ (Renou).
-- **ṛṣi** m. ⟪ऋषि⟫ : vedalainen viisas, vedalaulujen tekijä <!-- TODO: Fallback translation -->
+- **ṛṣi** m. ⟪ऋषि⟫ : vedalainen viisas, vedalaulujen tekijä
 
 :::
 ::: note-box
@@ -463,11 +459,11 @@ Kuv.: ⟪विश्वामित्रः⟫
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sanoa, puhua
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : kysyä (joltakulta: akk.; jostakin: akk.)
-- **saha** ⟪सह⟫ : yhdessä, yhteisesti (myös „taistella jonkun kanssa“ jne.) (postpositio instrumentaliivineen) <!-- TODO: Fallback translation -->
+- **saha** ⟪सह⟫ : yhdessä, yhteisesti (myös „taistella jonkun kanssa“ jne.) (postpositio instrumentaliivineen)
 
 ---
 
-## Oppitunti 11 <!-- TODO: Fallback translation -->
+## Oppitunti 11
 
 
 
@@ -506,14 +502,14 @@ Kuv.: **vadanāni** = ⟪वदनानि⟫
 (Kuvan lähde: [Details](/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : kysyä
-- **praśna** m. ⟪प्रश्न⟫ : kysymys (liite **-na** kuten **yaj-ña**) <!-- TODO: Fallback translation -->
+- **praśna** m. ⟪प्रश्न⟫ : kysymys (liite **-na** kuten **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : toivoa
 - **iṣṭi** f. ⟪इष्टि⟫ : toive (**iṣ** + **-ti**)
 
 ---
 
-## Oppitunti 12 <!-- TODO: Fallback translation -->
+## Oppitunti 12
 
 
 
@@ -532,19 +528,19 @@ Kuva: ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (jotakin) polttaa
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : selviytyä, kestää, kärsiä kärsivällisesti = antaa anteeksi
 - **mṛga** m. ⟪मृग⟫ : villieläin
-- **mārga** m. ⟪मार्ग⟫ : tie (tiet olivat usein villieläinten kulkureittejä) <!-- TODO: Fallback translation -->
+- **mārga** m. ⟪मार्ग⟫ : tie (tiet olivat usein villieläinten kulkureittejä)
 
 ::: media
 ![](/images/lekt1202.webp)
 Kuva: ⟪मार्गः⟫
 (Kuv lähde: [Details](/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : myös (jälkiliitteessä) <!-- TODO: Fallback translation -->
+- **api** ⟪अपि⟫ : myös (jälkiliitteessä)
 
 Kuudennelle preesensluokalle kotimaiset grammatikot laskevat joitakin vartaloita, jotka muodostavat preesensvartalon nasaliinfiksillä ja temattivokaalilla a, esim.:
 
 - **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : irrottaa, päästää irti, vapauttaa; pyörteistä syntymä ja kuolema (**saṃsāra** m.) vapauttaa = pelastaa
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : roiskuttaa <!-- TODO: Fallback translation -->
+- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : roiskuttaa
 
 Sanojen muodostus:
 
@@ -557,7 +553,7 @@ Sanojen muodostus:
 Kuva: ⟪महावीरो⟫ ⟪जिनः⟫
 (Kuv lähde: [Details](/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : tieto, tiedon elin. <!-- TODO: Fallback translation -->
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : tieto, tiedon elin.
 
 ---
 
@@ -624,7 +620,7 @@ Kuva: ⟪महावीरो⟫ ⟪जिनः⟫
 Opiskele seuraavat sanat:
 
 - **eva** ⟪एव⟫ : korostaa edeltävää sanaa
-- **asura** m. ⟪असुर⟫ : demoni <!-- TODO: Fallback translation -->
+- **asura** m. ⟪असुर⟫ : demoni
 
 > **ASURA.** 'Hengellinen, jumalallinen.'
 >
@@ -636,7 +632,7 @@ Opiskele seuraavat sanat:
 >
 > Tässä merkityksessä sille on löydetty eri johtaminen: lähteena ei ole enää asu, 'hengitys', vaan alkuinen *a* otetaan negatiiviseksi prefiksiksi, ja *asura* tarkoittaa 'ei jumala;' joten joidenkin mukaan syntyi sana *sura,* jota yleisesti käytetään 'jumalasta.'"
 >
-> [Lähde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ] <!-- TODO: Fallback translation -->
+> [Lähde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 
 ::: media
@@ -656,19 +652,19 @@ Kuv.: ⟪महिषासुरः⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : vihata, olla vihollinen
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : syödä, kuluttaa
-- **anna** n. ⟪अन्न⟫ : ruoka (johtuu PPP:stä *ad-na: syöty) <!-- TODO: Fallback translation -->
+- **anna** n. ⟪अन्न⟫ : ruoka (johtuu PPP:stä *ad-na: syöty)
 
 ::: media
 ![](/images/lekt1304.webp)
 Kuv.: ⟪अन्नम्⟫
 (Kuvan lähde: [Details](/licenses#lekt1304))
 :::
-Sananmuodostus: <!-- TODO: Fallback translation -->
+Sananmuodostus:
 
 pad 4 Ā:
 
 ::: indent
-**pada** n. ⟪पद⟫ : askel, paikka, sijainti <!-- TODO: Fallback translation -->
+**pada** n. ⟪पद⟫ : askel, paikka, sijainti
 
 **pāda** m. ⟪पाद⟫ : jalka, neljäs osa, säe
 :::
@@ -677,14 +673,14 @@ pad 4 Ā:
 Kuv.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Kuvan lähde: [Details](/licenses#lekt1303))
 :::
-dviṣ 2 U: <!-- TODO: Fallback translation -->
+dviṣ 2 U:
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : viha
 :::
 ---
 
-## Oppitunti 14 <!-- TODO: Fallback translation -->
+## Oppitunti 14
 
 
 
@@ -715,7 +711,7 @@ Kuv.: ⟪दीपाः⟫
 * **vac-ana n.** (⟪वचन⟫) : puhuminen, sana
 * **vāk-ya n.** (⟪वाक्य⟫) : sana, puhe
 
-## Oppitunti 15 <!-- TODO: Fallback translation -->
+## Oppitunti 15
 
 
 
@@ -745,7 +741,7 @@ Kuv.: ⟪दीपाः⟫
 Kuv.: ⟪पूजा⟫
 (Kuvan lähde: [Details](/licenses#lekt1504))
 :::
-⟪कुल⟫ n.: lauma, joukko, suku, syntyperä, perhe <!-- TODO: Fallback translation -->
+⟪कुल⟫ n.: lauma, joukko, suku, syntyperä, perhe
 
 
 ⟪इन्द्र⟫ m.: ruht, erster, bester unter ; Götterkönig Indra
@@ -754,17 +750,17 @@ Kuv.: ⟪पूजा⟫
 Abb.: ⟪इन्द्रः⟫
 (Bildquelle: [Details](/licenses#lekt1505))
 :::
-⟪दास⟫ m.: Sklave, Leibeigener, Diener <!-- TODO: Fallback translation -->
+⟪दास⟫ m.: Sklave, Leibeigener, Diener
 
-⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin <!-- TODO: Fallback translation -->
+⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin
 
-⟪काल⟫ m.: Zeit, (rechter) Zeitpunkt ; Schicksal, Tod ; Todesgott Kāla <!-- TODO: Fallback translation -->
+⟪काल⟫ m.: Zeit, (rechter) Zeitpunkt ; Schicksal, Tod ; Todesgott Kāla
 
 ⟪काल⟫ 3: schwarz, blauschwarz, dunkel
 
-⟪पुरुष⟫ m.: Mensch, Mann, Knecht <!-- TODO: Fallback translation -->
+⟪पुरुष⟫ m.: Mensch, Mann, Knecht
 
-\-⟪जन⟫ als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals <!-- TODO: Fallback translation -->
+\-⟪जन⟫ als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals
 
 ⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loben, preisen
 
@@ -787,32 +783,32 @@ Abb.: ⟪सिंहः⟫
 Abb.: ⟪व्याघ्रः⟫
 (Bildquelle: [Details](/licenses#lekt1507))
 :::
-⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann" <!-- TODO: Fallback translation -->
+⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
 
-⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `\&lt;!\&gt;`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt" <!-- TODO: Fallback translation -->
+⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `\&lt;!\&gt;`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
 
-⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling) <!-- TODO: Fallback translation -->
+⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
 
 ::: indent
 ⟪आर्य⟫ 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
 :::
-zu ⟪जन्⟫ <!-- TODO: Fallback translation -->
+zu ⟪जन्⟫
 
 ::: indent
 ⟪जाति⟫ f.: Geburt, Art, Kaste (zu ⟪जाति⟫ als Kaste siehe Basham, Wonder, S. 148ff.)
 :::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterben (nach indischen Grammatikern: 6 Ā) <!-- TODO: Fallback translation -->
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterben (nach indischen Grammatikern: 6 Ā)
 
 davon:
 
 ::: indent
-⟪मरण⟫ n.: Sterben, Tod <!-- TODO: Fallback translation -->
+⟪मरण⟫ n.: Sterben, Tod
 
 ⟪मृति⟫ f.: Sterben, Tod
 
 ⟪मृत्यु⟫ m.: Tod ; personifiziert: Todesgott
 :::
-## Oppitunti 16 <!-- TODO: Fallback translation -->
+## Oppitunti 16
 
 
 
@@ -837,41 +833,41 @@ davon:
 ::: indent
 ⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
 :::
-⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben <!-- TODO: Fallback translation -->
+⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben
 
 davon:
 
 ::: indent
 ⟪आजीव⟫ m.: Lebensunterhalt
 :::
-⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht <!-- TODO: Fallback translation -->
+⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht
 
-⟪क्षेम⟫ n.: Ruhe, Frieden, Wohlergehen, sicherer Besitz <!-- TODO: Fallback translation -->
+⟪क्षेम⟫ n.: Ruhe, Frieden, Wohlergehen, sicherer Besitz
 
-⟪चित्त⟫ n.: Bewusstsein, Denken, Geist <!-- TODO: Fallback translation -->
+⟪चित्त⟫ n.: Bewusstsein, Denken, Geist
 
 ⟪निरोध⟫ m.: Stoppen, Zum-Stillstand-Bringen
 
-* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): Wesen, Gespenst <!-- TODO: Fallback translation -->
+* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): Wesen, Gespenst
 
-⟪योग⟫ m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga <!-- TODO: Fallback translation -->
+⟪योग⟫ m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga
 
 ::: media
 ![](/images/lekt1601.webp)
 Abb.: ⟪योगी⟫
 Birla Mandir, Delhi
-(Bildquelle: [Details](/licenses#lekt1601)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1601))
 
 :::
 ⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : kääntyä, muuttua, sijaita (jossakin), asua
 
-⟪शस्त्र⟫ (śastra) n.: leikkaustyökalu, teräase, miekka, ase <!-- TODO: Fallback translation -->
+⟪शस्त्र⟫ (śastra) n.: leikkaustyökalu, teräase, miekka, ase
 
 ⟪शौच⟫ n.: puhdistus, puhtaus
 
 ⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: tavoitteeseen johtava, aiheuttava
 
-⟪अहिंसा⟫ f.: kenenkään tekemättä mitään pahaksi, vahettamatta, väkivallattomuus <!-- TODO: Fallback translation -->
+⟪अहिंसा⟫ f.: kenenkään tekemättä mitään pahaksi, vahettamatta, väkivallattomuus
 
 ::: media
 ![](/images/lekt1603.jpg)
@@ -879,7 +875,7 @@ Kuv.: ⟪अहिंसा⟫
 "Käsi, jonka kämmenessä on pyörä, symboloi jainilaisen Ahimsa-vannetta. Keskellä oleva sana on 'ahimsa'. Pyörä edustaa dharmacakraa, joka tarkoittaa päättäväisyyttä pysäyttää uudelleensyntymisen kierre totuuden ja väkivallattomuuden ahkeran harjoittamisen kautta."
 (Kuv lähde: [Details](/licenses#lekt1603))
 :::
-## Luento 17 <!-- TODO: Fallback translation -->
+## Luento 17
 
 
 
@@ -887,7 +883,7 @@ Kuv.: ⟪अहिंसा⟫
 
 
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : lyödä, surmata, tappaa <!-- TODO: Fallback translation -->
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : lyödä, surmata, tappaa
 
 tästä:
 
@@ -900,7 +896,7 @@ Kuv.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Kuv lähde: [Details](/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : istua <!-- TODO: Fallback translation -->
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : istua
 
 tästä:
 
@@ -912,14 +908,14 @@ tästä:
 Kuv.: ⟪योगासनम्⟫
 (Kuv lähde: [Details](/licenses#lekt1701))
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : itkeä, ulvoa <!-- TODO: Fallback translation -->
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : itkeä, ulvoa
 
 tästä:
 
 ::: indent
 ⟪रुद्र⟫ m.: (ulvoja =) myrkkumetsä Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ ei passiivia eikä PPP: puhua, sanoa (jollekin jokin: kaksoisakkusatiivi) <!-- TODO: Fallback translation -->
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ ei passiivia eikä PPP: puhua, sanoa (jollekin jokin: kaksoisakkusatiivi)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : maitaa
 
@@ -928,12 +924,12 @@ tästä:
 Kuv.: ⟪दोग्धि⟫
 (Kuv lähde: [Details](/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : näyttää, ohjeistaa, käskyttää <!-- TODO: Fallback translation -->
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : näyttää, ohjeistaa, käskyttää
 
 tästä:
 
 ::: indent
-⟪दिष्टि⟫ f.: ohje, onnekas oikaisu <!-- TODO: Fallback translation -->
+⟪दिष्टि⟫ f.: ohje, onnekas oikaisu
 
 ⟪दिष्ट्या⟫ Instr.: (san. m: onnekkaan oikaisun kautta) O onnekas oikaisu (iloa ja autuutta ilmaiseva huudahdus)
 :::
@@ -959,7 +955,7 @@ tästä:
 
 ⟪ज्ञान⟫ n.: tieto, ymmärrys
 
-⟪शूर⟫ 3: rohkea, sankarillinen ; m.: sankari <!-- TODO: Fallback translation -->
+⟪शूर⟫ 3: rohkea, sankarillinen ; m.: sankari
 
 ⟪शब्द⟫ m.: ääni, sointi, signaalientsi: sana
 
@@ -992,7 +988,7 @@ tästä:
 ⟪अर्थ⟫ on yksi kolmesta elämäntarkoituksesta (⟪पुरुषार्थ⟫), kuten maallisessa ja uskonnollisessa kirjallisuudessa kuvataan:
 
 ::: indent
-**⟪धर्म⟫ m.:** ansainta tekemällä sitä, mikä on oikein, tai vähintään pahan välttäminen, joka seuraisi dharmasta noudattamatta jättämisestä <!-- TODO: Fallback translation -->
+**⟪धर्म⟫ m.:** ansainta tekemällä sitä, mikä on oikein, tai vähintään pahan välttäminen, joka seuraisi dharmasta noudattamatta jättämisestä
 
 **⟪अर्थ⟫ m.:** tarkoituksenmukainen toiminta, vaurauden saavuttaminen
 
@@ -1009,7 +1005,7 @@ Kuvaus ⟪कामसूत्र⟫:sta
 
 **⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** astua eteen, asettua kunnioittavassa asennossa jonkun eteen
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** lähteä liikkeelle, poistua <!-- TODO: Fallback translation -->
+**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** lähteä liikkeelle, poistua
 
 sanasta ⟪स्था⟫ :
 
@@ -1018,10 +1014,10 @@ sanasta ⟪स्था⟫ :
 
 **⟪स्थिति⟫ f.:** pysyminen, kestävyyys, jäädä paikalleen
 :::
-**⟪गर्भ⟫ m.:** kohdun, loiton, sisätilat, alkio / sikiö. Bahuvīhin päättymässä usein: "sisätilat", esim. <!-- TODO: Fallback translation -->
+**⟪गर्भ⟫ m.:** kohdun, loiton, sisätilat, alkio / sikiö. Bahuvīhin päättymässä usein: "sisätilat", esim.
 
 ::: indent
-**⟪धनगर्भ⟫ 3:** "jonka sisällä on rahaa = jossa raha sijaitsee" <!-- TODO: Fallback translation -->
+**⟪धनगर्भ⟫ 3:** "jonka sisällä on rahaa = jossa raha sijaitsee"
 
 **⟪गर्भगृह⟫ n.:** hindutemppelin sisin pyhäkkötila, joka sisältää temppelin tärkeimmän jumalakuvan (katso hindutemppelien rakennetta: Volwahsen, A.: Intia : Hinduisten, buddhalaisten ja jainien rakennukset. -- München, 1968)
 :::
@@ -1031,7 +1027,7 @@ Kuv.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** vesituojan = sateenpilvi <!-- TODO: Fallback translation -->
+**⟪वारिद⟫ m.:** vesituojan = sateenpilvi
 
 ::: media
 ![](/images/lekt1902.jpg)
@@ -1039,7 +1035,7 @@ Kuv.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** puhaltaa <!-- TODO: Fallback translation -->
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** puhaltaa
 
 tästä:
 
@@ -1056,7 +1052,7 @@ Kuv.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), perinteisessä puvussa, on tapana Keralan eteläosissa. _Onappottan_ käy taloissa Onam-juhlan aikana ja antaa siunausta. Viime aikoina _onappottan_ on harvinainen näky, rajoittuen kyliin."
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** oppinut, viisas ; 3: älykäs, perehtynyt (asiassa) <!-- TODO: Fallback translation -->
+**⟪पण्डित⟫ m.:** oppinut, viisas ; 3: älykäs, perehtynyt (asiassa)
 
 ::: media
 ![](/images/lekt1903.jpg)
@@ -1064,7 +1060,7 @@ Kuv.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 ⟪१९५९⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** asua luona, asuttaa (akk., lok.) ; vierailla, mennä luo (akk.) ; palvella, hoitaa, kunnioittaa ; harjoittaa, käyttää ; olla kanssasaatossa, harrastaa sukupuolivälistä kanssakäymistä <!-- TODO: Fallback translation -->
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** asua luona, asuttaa (akk., lok.) ; vierailla, mennä luo (akk.) ; palvella, hoitaa, kunnioittaa ; harjoittaa, käyttää ; olla kanssasaatossa, harrastaa sukupuolivälistä kanssakäymistä
 
 **⟪नि⟫ preverb:** alas, sisään
 
@@ -1072,7 +1068,7 @@ Kuv.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪अमुत्र⟫ :** siellä, tuonpuoleisessa
 
-**⟪इह⟫ :** täällä, tällä puolella <!-- TODO: Fallback translation -->
+**⟪इह⟫ :** täällä, tällä puolella
 
 **⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** löytää
 
@@ -1084,9 +1080,9 @@ Kuv.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪बान्धव⟫ m.:** sukulainen
 
-**⟪हि⟫ :** nimittäin, kyllä nimittäin (ei saa koskaan olla lauseen alussa) <!-- TODO: Fallback translation -->
+**⟪हि⟫ :** nimittäin, kyllä nimittäin (ei saa koskaan olla lauseen alussa)
 
-## Oppitunti 20 <!-- TODO: Fallback translation -->
+## Oppitunti 20
 
 
 
@@ -1107,13 +1103,13 @@ Rishikesh = ⟪ऋषिकेश⟫. "Tämä on itse asiassa osa Ashramia Rishi
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tekevä, tuottava, aiheuttava
 
-⟪कर⟫ m.: käsi (sanasta ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
+⟪कर⟫ m.: käsi (sanasta ⟪कृ⟫ 8)
 
 ⟪कर⟫ m.: maksu, vero, verotus (ei liittyynyt sanaan ⟪कृ⟫, vaan todennäisesti lainasana tamilista - தமிழ்)
 
 ⟪क्रिया⟫ f.: toiminta, pyhä toiminta, uhritoiminta, seremonia (sanasta ⟪कृ⟫ 8)
 
-⟪अधि⟫ prefiksi: yli, ylös, er-, suhteessa <!-- TODO: Fallback translation -->
+⟪अधि⟫ prefiksi: yli, ylös, er-, suhteessa
 
 ⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : kohdata, päätyä johonkin, saavuttaa
 
@@ -1131,27 +1127,27 @@ Rishikesh = ⟪ऋषिकेश⟫. "Tämä on itse asiassa osa Ashramia Rishi
 
 ⟪भावना⟫ f.: meditatiivinen kehittyminen (sanasta ⟪भू⟫ kausatiivi)
 
-⟪मही⟫ f.: maa, perusta ja pohja <!-- TODO: Fallback translation -->
+⟪मही⟫ f.: maa, perusta ja pohja
 
 ⟪लक्षण⟫ n.: merkki, tunnus, attribuutti
 
 ⟪विप्र⟫ m.: "väristijä" = runoilija, laulaja, pappi, brahmani
 
-⟪विषय⟫ m.: alue, alue, objekti, aistinobjekti <!-- TODO: Fallback translation -->
+⟪विषय⟫ m.: alue, alue, objekti, aistinobjekti
 
 ⟪अपवर्ग⟫ m.: loppu, vapautus
 
-⟪नि⟫ prefiksi: alas, alaspäin, sisään, taaksepäin <!-- TODO: Fallback translation -->
+⟪नि⟫ prefiksi: alas, alaspäin, sisään, taaksepäin
 
 ⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : kääntyä, palata takaisin
 
 ⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : istua, asettua
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : asettua, tulla asetetuksi (siirretyn merkityksen mukaisesti) = rauhoittua, rauhallinen, iloinen; olla armollinen jollekin (genetiivi ⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : asettua, tulla asetetuksi (siirretyn merkityksen mukaisesti) = rauhoittua, rauhallinen, iloinen; olla armollinen jollekin (genetiivi ⟪षष्ठी⟫)
 
-⟪समाधि⟫ m.: sisäinen kokoaminen, korkein huomio, meditatiivinen "uppoaminen" <!-- TODO: Fallback translation -->
+⟪समाधि⟫ m.: sisäinen kokoaminen, korkein huomio, meditatiivinen "uppoaminen"
 
-⟪स्वाध्याय⟫ m.: "itseopiskelu", recitaatio (erityisesti Veda), Vedan opiskelu <!-- TODO: Fallback translation -->
+⟪स्वाध्याय⟫ m.: "itseopiskelu", recitaatio (erityisesti Veda), Vedan opiskelu
 
 ⟪परलौकिक⟫ ⟪३⟫ : tuonpuoleista koskeva, tuonpuoleinen
 
@@ -1171,13 +1167,13 @@ Rishikesh = ⟪ऋषिकेश⟫. "Tämä on itse asiassa osa Ashramia Rishi
 
 ⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : nähdä
 
-⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : taivuttaa <!-- TODO: Fallback translation -->
+⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : taivuttaa
 
-⟪उद्⟫ prefiksi: ylös, ylöspäin, ulos, pois, er- <!-- TODO: Fallback translation -->
+⟪उद्⟫ prefiksi: ylös, ylöspäin, ulos, pois, er-
 
 ⟪नाभि⟫ f.: napa
 
-⟪वपुस्⟫ n.: kauneus, muoto vartalo (taivutus ks. myöhemmin) <!-- TODO: Fallback translation -->
+⟪वपुस्⟫ n.: kauneus, muoto vartalo (taivutus ks. myöhemmin)
 
 ⟪स्त्री⟫ f.: nainen
 
@@ -1195,7 +1191,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Tämä on itse asiassa osa Ashramia Rishi
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : liikkua
 
-## Oppitunti 21 <!-- TODO: Fallback translation -->
+## Oppitunti 21
 
 
 
@@ -1203,7 +1199,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Tämä on itse asiassa osa Ashramia Rishi
 
 
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jakaa jollekin (akk.) jotakin, osoittaa joku rakkaaksi, kunnioittaa, palvota <!-- TODO: Fallback translation -->
+**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jakaa jollekin (akk.) jotakin, osoittaa joku rakkaaksi, kunnioittaa, palvota
 
 tästä:
 
@@ -1211,7 +1207,7 @@ tästä:
 **⟪भक्ति⟫ f.:** omistautuminen, uskollisuus, rakkaus (uskonnollisella alueella: rakkaus ja kunnioitus henkilökohtaista jumalaa kohtaan. ks. Basham, Wonder S. 332f.)  
 **⟪भाग⟫ m.:** osuus, osa  
 **⟪भग⟫ m.:** (hyvä) osuus, onni, hyvinvointia, arvo  
-**⟪भगवन्त्⟫ 3:** onni-omistava, arvo-omistava (nimitys sanalle ⟪विष्णु⟫ – ⟪कृष्ण⟫) <!-- TODO: Fallback translation -->
+**⟪भगवन्त्⟫ 3:** onni-omistava, arvo-omistava (nimitys sanalle ⟪विष्णु⟫ – ⟪कृष्ण⟫)
 
 :::
 ::: media
@@ -1232,7 +1228,7 @@ Kuv.: ⟪भगवद्गीता⟫
 ::: indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (itse asiassa desideratiivi verbistä ⟪भज्⟫: toivoa osallistuvansa): kerjätä
 :::
-tästä: <!-- TODO: Fallback translation -->
+tästä:
 
 ::: indent
 **⟪भिक्षु⟫ m.:** kerjäläinen, munkki
@@ -1248,17 +1244,17 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 ::: indent
 **⟪दोष⟫ m.:** virhe
 :::
-**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (ei PPP:tä, sen sijaan ⟪पक्व⟫ 3: keitetty, kypsytetty) Absol. ⟪पक्त्वा⟫ :** kypsentää (transitiivinen) = keittää, paistaa, paahtaa jne. <!-- TODO: Fallback translation -->
+**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (ei PPP:tä, sen sijaan ⟪पक्व⟫ 3: keitetty, kypsytetty) Absol. ⟪पक्त्वा⟫ :** kypsentää (transitiivinen) = keittää, paistaa, paahtaa jne.
 
-## Oppitunti 22 <!-- TODO: Fallback translation -->
-
-
+## Oppitunti 22
 
 
 
 
 
-**⟪काम⟫ m.:** toive, halu; haluttu lahja, aistinharha, rakkaus, rakkauden jumala <!-- TODO: Fallback translation -->
+
+
+**⟪काम⟫ m.:** toive, halu; haluttu lahja, aistinharha, rakkaus, rakkauden jumala
 
 ::: indent
 ⟪कामम्⟫ Akk. adverbiaalisesti: toiveen mukaan, sydämen kyllyydestä
@@ -1269,7 +1265,7 @@ Kuv.: ⟪कामदेवः⟫
 1800-luku
 (Kuvälähde: [Details](/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P ⟪शक्नोति⟫ Pass. ⟪शक्यते⟫ PPP ⟪शक्त⟫ Inf. ⟪शक्तुम्⟫ :** olla kykenevä, pystyä <!-- TODO: Fallback translation -->
+**⟪शक्⟫ 5 P ⟪शक्नोति⟫ Pass. ⟪शक्यते⟫ PPP ⟪शक्त⟫ Inf. ⟪शक्तुम्⟫ :** olla kykenevä, pystyä
 
 tästä:
 
@@ -1284,14 +1280,14 @@ Kuv.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (Kuvälähde: [Details](/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P ⟪अर्हति⟫ Pass. ⟪अर्ह्यते⟫ PPP ⟪अर्हित⟫ Inf. ⟪अर्हितुम्⟫ :** ansaita jotain (olla jonkin arvoinen), saada luvan, olla velvollinen jhk, pitää (toisessa persoonassa ⟪अर्ह्⟫ + infinitiivi käytetään usein lievämpänä käskyjenä: "Sinun pitäisi") <!-- TODO: Fallback translation -->
+**⟪अर्ह⟫ 1 P ⟪अर्हति⟫ Pass. ⟪अर्ह्यते⟫ PPP ⟪अर्हित⟫ Inf. ⟪अर्हितुम्⟫ :** ansaita jotain (olla jonkin arvoinen), saada luvan, olla velvollinen jhk, pitää (toisessa persoonassa ⟪अर्ह्⟫ + infinitiivi käytetään usein lievämpänä käskyjenä: "Sinun pitäisi")
 
 ::: indent
 **⟪अर्हन्त्⟫ 3** Part. Präs. P: ansioitunut. Buddhalaisuudessa ja Jainismissa: henkilö, joka on saavuttanut lopullisen vapautuksen
 :::
-**⟪व्रत⟫ n.:** lupaus, uskonnollinen velvollisuus, uskonnollinen observanssi (lupaa jumaluudelle jotain saadakseen häneltä jotakin. Esimerkki: äiti lupaa antaa tyttärensä temppelin prostituoiduksi (⟪देवदासी⟫), jos hänen tyttärensä paranee. Tärkeimmät ⟪व्रत⟫ nykyään: paastoaminen; pidättäytyminen rakkaista ruoka-aineista; seksuaalinen pidättyvyys; pyhien kirjojen lukeminen; tiettyjen rituaalien suorittaminen; brahmaanien ruokkiminen jne. Lyhyesti ⟪व्रत⟫:stä: Walker, Hindu World Vol. II, s. 581f. Laajasti: P. V. Kane: History of Dharmaśāstra Vol. 5,1 s. 1 - 462. Siellä s. 253 - 462 lista ⟪व्रत⟫:stä ja uskonnollisista juhlapyhistä ("seuraava lista ... ei pyri olemaan täysin kattava" !!!) <!-- TODO: Fallback translation -->
+**⟪व्रत⟫ n.:** lupaus, uskonnollinen velvollisuus, uskonnollinen observanssi (lupaa jumaluudelle jotain saadakseen häneltä jotakin. Esimerkki: äiti lupaa antaa tyttärensä temppelin prostituoiduksi (⟪देवदासी⟫), jos hänen tyttärensä paranee. Tärkeimmät ⟪व्रत⟫ nykyään: paastoaminen; pidättäytyminen rakkaista ruoka-aineista; seksuaalinen pidättyvyys; pyhien kirjojen lukeminen; tiettyjen rituaalien suorittaminen; brahmaanien ruokkiminen jne. Lyhyesti ⟪व्रत⟫:stä: Walker, Hindu World Vol. II, s. 581f. Laajasti: P. V. Kane: History of Dharmaśāstra Vol. 5,1 s. 1 - 462. Siellä s. 253 - 462 lista ⟪व्रत⟫:stä ja uskonnollisista juhlapyhistä ("seuraava lista ... ei pyri olemaan täysin kattava" !!!)
 
-**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫) :** laiduntaa, vaeltaa, liikkua, toimia, harjoittaa jotain, suorittaa (esim. **⟪व्रतं⟫ ⟪चर्⟫**: harjoittaa lupaus, erityisesti seksuaalinen pidättyvyys) <!-- TODO: Fallback translation -->
+**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫) :** laiduntaa, vaeltaa, liikkua, toimia, harjoittaa jotain, suorittaa (esim. **⟪व्रतं⟫ ⟪चर्⟫**: harjoittaa lupaus, erityisesti seksuaalinen pidättyvyys)
 
 
 siitä:
@@ -1299,7 +1295,7 @@ siitä:
 ::: indent
 **⟪चर⟫ ⟪३⟫:** liikkuva; n.: liikkuva = eläimet (kasvien vastakohtana)
 
-**⟪चरण⟫ n., m.:** jalka <!-- TODO: Fallback translation -->
+**⟪चरण⟫ n., m.:** jalka
 
 **⟪चरित⟫ n.:** elämäntapa, elämän teot
 
@@ -1311,7 +1307,7 @@ Kuv.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Kuvälähde: [Details](/licenses#lekt2201))
 :::
-## Oppitunti 23 <!-- TODO: Fallback translation -->
+## Oppitunti 23
 
 
 
@@ -1323,11 +1319,11 @@ Goa = ⟪गोंय⟫
 
 ⟪सामान्य⟫ n.: yhtäläisyys, vastaavuus
 
-⟪अधिक⟫ ⟪३⟫ : ylimääräinen, lisä-, suurempi, parempi, poikkeuksellinen <!-- TODO: Fallback translation -->
+⟪अधिक⟫ ⟪३⟫ : ylimääräinen, lisä-, suurempi, parempi, poikkeuksellinen
 
 ⟪विशेष⟫ m.: erityisyys, spesifikaatio, differentia specifica
 
-## Oppitunti 24 <!-- TODO: Fallback translation -->
+## Oppitunti 24
 
 
 
@@ -1335,7 +1331,7 @@ Goa = ⟪गोंय⟫
 
 
 
-⟪अलम्⟫ adverbii: tarpeeksi, riittävästi; (jollekulle, jollekin) pystyvä ; datiiivi: tarpeeksi jollekin, riittävästi jollekin; instrumentaali: tarpeeksi jonkin kanssa, luovu jostakin , esim. ⟪अलं⟫ ⟪क्रोधेन⟫ = "tarpeeksi vihasta = luovu vihasta!" <!-- TODO: Fallback translation -->
+⟪अलम्⟫ adverbii: tarpeeksi, riittävästi; (jollekulle, jollekin) pystyvä ; datiiivi: tarpeeksi jollekin, riittävästi jollekin; instrumentaali: tarpeeksi jonkin kanssa, luovu jostakin , esim. ⟪अलं⟫ ⟪क्रोधेन⟫ = "tarpeeksi vihasta = luovu vihasta!"
 
 Samalla tavalla kuin ⟪अलम्⟫ instrumentatiivin kanssa käytetään:
 
@@ -1361,33 +1357,33 @@ Kuv.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Kuvälähde: [Details](/licenses#lekt2406))
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : tapahtua, sattua, syntyä <!-- TODO: Fallback translation -->
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : tapahtua, sattua, syntyä
 
 Sanasta ⟪वृत्⟫:
 
 ::: indent
-⟪वृत्ति⟫ f.: käytös, toiminta, elämäntapa <!-- TODO: Fallback translation -->
+⟪वृत्ति⟫ f.: käytös, toiminta, elämäntapa
 
 ⟪वृत्त⟫ n.: käytös
 :::
-⟪अभि⟫ prefiksi:  be-, perästä - kohti, luo - luokse, vastaan, sisään - sisälle, suhteessa, päälle, yli <!-- TODO: Fallback translation -->
+⟪अभि⟫ prefiksi:  be-, perästä - kohti, luo - luokse, vastaan, sisään - sisälle, suhteessa, päälle, yli
 
-⟪नि⟫ prefiksi: alas, alaspäin, sisään, taaksepäin <!-- TODO: Fallback translation -->
+⟪नि⟫ prefiksi: alas, alaspäin, sisään, taaksepäin
 
 ⟪आ⟫ prepositio / postpositio: ennen ablatiivia tai akkusatiivin jälkeen: asti, saakka; ablatiivin kanssa: alkaen, lähtien
 
-⟪अतस्⟫ indeklinaabeli: sieltä, sitten, siksi (pronominalijäännös a- "tämä" + ablatiivipäätte -tas) <!-- TODO: Fallback translation -->
+⟪अतस्⟫ indeklinaabeli: sieltä, sitten, siksi (pronominalijäännös a- "tämä" + ablatiivipäätte -tas)
 
-⟪अध्यक्ष⟫ m.: valvoja, osastopäällikkö; silminnäkijä <!-- TODO: Fallback translation -->
+⟪अध्यक्ष⟫ m.: valvoja, osastopäällikkö; silminnäkijä
 
 ⟪इन्द्रिय⟫ n.: voima, aisti
 
-⟪ऊह⟫ m.: pohdinta, argumentaatio <!-- TODO: Fallback translation -->
+⟪ऊह⟫ m.: pohdinta, argumentaatio
 
 siitä
 
 ::: indent
-⟪अपोह⟫ m.: kieltäminen (⟪अप⟫ + ⟪ऊह⟫) <!-- TODO: Fallback translation -->
+⟪अपोह⟫ m.: kieltäminen (⟪अप⟫ + ⟪ऊह⟫)
 
 ⟪ऊहापोह⟫ m.: puolesta ja vastaan -keskustelu
 :::
@@ -1397,11 +1393,11 @@ Kuv.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, CNN-IBN Network 18:n varainen ulkomaantoimittaja, India, moderoi paneelikeskustelua World Economic Forumin Intian talouskokouksessa 2008 New Delhissä."
 (Kuvälähde: [Details](/licenses#lekt2407))
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : hyödyllinen <!-- TODO: Fallback translation -->
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : hyödyllinen
 
-⟪कुप्य⟫ n.: metsän tuote, metalli (ei jalometalli) <!-- TODO: Fallback translation -->
+⟪कुप्य⟫ n.: metsän tuote, metalli (ei jalometalli)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : nähdä, tulla näkyväksi; nimetä, selittää, ilmoittaa <!-- TODO: Fallback translation -->
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : nähdä, tulla näkyväksi; nimetä, selittää, ilmoittaa
 
 ::: indent
 ⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : kertoa
@@ -1424,15 +1420,15 @@ siitä:
 
 ⟪संख्या⟫ f.: laskeminen, luettelo; ⟪सांख्य⟫ n.: yksi kuudesta filosofisesta järjestelmästä (lyhyesti: Basham, Wonder s. 326f.)
 :::
-⟪ग्रहण⟫ n.: tarttuminen <!-- TODO: Fallback translation -->
+⟪ग्रहण⟫ n.: tarttuminen
 
 ⟪चौल⟫ n.: ceremoniat (⟪संस्कार⟫) hiusten leikkaamisesta (3-vuotiaana)
 
-⟪तत्त्व⟫ n.: todellinen luonto, totuus, todellisuus (⟪तद्⟫ + ⟪त्व⟫ = tämä-heit) <!-- TODO: Fallback translation -->
+⟪तत्त्व⟫ n.: todellinen luonto, totuus, todellisuus (⟪तद्⟫ + ⟪त्व⟫ = tämä-heit)
 
 ⟪स्वस्ति⟫ f.: onni, pelastus (nominaalijohdos sanasta ⟪सु⟫ ⟪अस्ति⟫ = "se on hyvää")
 
-⟪नमस्⟫ n.: kumarrus, kunnioitus, tervehdys (deklinaatio myöhemmin). Tervehdyssana: ⟪नमो⟫ ⟪नमः⟫ <!-- TODO: Fallback translation -->
+⟪नमस्⟫ n.: kumarrus, kunnioitus, tervehdys (deklinaatio myöhemmin). Tervehdyssana: ⟪नमो⟫ ⟪नमः⟫
 
 siitä:
 
@@ -1449,9 +1445,9 @@ Käsikirjoitus ⟪गीतगोविन्द⟫:sta, 1730 jaa.
 
 ⟪तृण⟫ n.: heinäntiehyt
 
-⟪पुनर्⟫ adverb: jälleen, uudelleen, takaisin, mutta <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ adverb: jälleen, uudelleen, takaisin, mutta
 
-## Oppitunti 25 <!-- TODO: Fallback translation -->
+## Oppitunti 25
 
 
 
@@ -1483,7 +1479,7 @@ siitä:
 Kuva: ⟪धान्यम्⟫
 (Kuv lähde: [Details](/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : pitää, pitää kiinni <!-- TODO: Fallback translation -->
+⟪धृ⟫ 1U ⟪धरति⟫ : pitää, pitää kiinni
 
 ::: indent
 Fut. ⟪धरिष्यति⟫  
@@ -1496,16 +1492,16 @@ siitä:
 
 ⟪धर्म⟫ m.: se, mikä on kiinteää ja pitää kiinni = Dharma
 :::
-⟪नित्य⟫ ⟪३⟫ : jatkuva, pysyvä, ikuinen <!-- TODO: Fallback translation -->
+⟪नित्य⟫ ⟪३⟫ : jatkuva, pysyvä, ikuinen
 
 ::: indent
 ⟪नित्यम्⟫ adv.: aina, pysyvästi
 :::
-⟪प्रज्ञा⟫ f.: viisaus, tieto <!-- TODO: Fallback translation -->
+⟪प्रज्ञा⟫ f.: viisaus, tieto
 
 ⟪प्रदान⟫ n.: antaminen, lahjoittaminen; lahja, lahjoitus
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : iloitua, humaltua jostakin (instr., gen., lok.) <!-- TODO: Fallback translation -->
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : iloitua, humaltua jostakin (instr., gen., lok.)
 
 ::: indent
 Fut. ⟪मदिष्यति⟫  
@@ -1517,11 +1513,11 @@ siitä:
 
 ⟪मद⟫ m.: humala, aistien humala = aistinhimoinen
 :::
-⟪मान⟫ m.: arviointi, maine, kunnia, kunnioitus, ylpeys, ylimielisyys; (vertaa itseäsi muihin) <!-- TODO: Fallback translation -->
+⟪मान⟫ m.: arviointi, maine, kunnia, kunnioitus, ylpeys, ylimielisyys; (vertaa itseäsi muihin)
 
 ⟪यदि⟫ konjunktio: jos
 
-⟪न्याय⟫ m.: sääntö, periaate, menetelmä, tuomio (oikeudellinen), logiikka (sanasta ni + i +a) <!-- TODO: Fallback translation -->
+⟪न्याय⟫ m.: sääntö, periaate, menetelmä, tuomio (oikeudellinen), logiikka (sanasta ni + i +a)
 
 ⟪अन्यथा⟫ adv.: eri, muuten, virheellisesti, väärin
 
@@ -1548,11 +1544,11 @@ siitä:
 
 ⟪शिक्षा⟫ f.: tiede, opetus; fonetiikka
 :::
-⟪स्तेन⟫ m.: varas <!-- TODO: Fallback translation -->
+⟪स्तेन⟫ m.: varas
 
 ⟪स्तेय⟫ n.: varkaus
 
-⟪किल्बिष⟫ n.: syyllisyys, loukkaus, synti <!-- TODO: Fallback translation -->
+⟪किल्बिष⟫ n.: syyllisyys, loukkaus, synti
 
 ⟪विना⟫ postpositio: ilman, paitsi (akk., instr., abl.)
 
@@ -1564,7 +1560,7 @@ siitä:
 Kuv.: ⟪मूलानि⟫
 (Kuvan lähde: [Details](/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): voidella, voiteilla <!-- TODO: Fallback translation -->
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): voidella, voiteilla
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
@@ -1581,7 +1577,7 @@ tästä:
 Kuv.: ⟪लिप्तिः⟫
 (Kuvan lähde: [Details](/licenses#lekt2503))
 :::
-⟪वर्ष⟫ n.,m.: sade, sadesävy, vuosi <!-- TODO: Fallback translation -->
+⟪वर्ष⟫ n.,m.: sade, sadesävy, vuosi
 
 ⟪वह्⟫ 1U ⟪वहति⟫ : johtaa, ajaa, puhaltaa (tuuli)
 
@@ -1592,7 +1588,7 @@ PPP ⟪ऊढ⟫
 Inf. ⟪वोढुम्⟫  
 Absol 2: -⟪उह्य⟫
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : viedä pois (nimittäin morsian vanhempien kodista) = naida <!-- TODO: Fallback translation -->
+⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : viedä pois (nimittäin morsian vanhempien kodista) = naida
 
 tästä:
 
@@ -1603,14 +1599,14 @@ tästä:
 Kuv.: ⟪विवाहः⟫
 (Kuvan lähde: [Details](/licenses#lekt2504))
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : viedä pois, opettaa, kasvattaa <!-- TODO: Fallback translation -->
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : viedä pois, opettaa, kasvattaa
 
 ::: indent
 tästä:
 
 ⟪विनय⟫ m.: poistaminen, kasvatus, kuritus, buddhal. luostarikurinalaisuus, luostarisäännöstö
 :::
-⟪विज्ञान⟫ n.: tieto, tuntemus <!-- TODO: Fallback translation -->
+⟪विज्ञान⟫ n.: tieto, tuntemus
 
 ⟪विष्टि⟫ f.: työ, pakkotyö
 
@@ -1619,44 +1615,44 @@ tästä:
 Kuv.: ⟪विष्टिः⟫
 (Kuvan lähde: [Details](/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : kasvaa, suureksi tulla <!-- TODO: Fallback translation -->
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : kasvaa, suureksi tulla
 
 ::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
 PPP ⟪वृद्ध⟫ : kasvanut, vanha, lisätty  
-Inf. ⟪वर्धितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪वर्धितुम्⟫
 
 tästä:
 
 ⟪वृद्धि⟫ f.: kasvu, kasvaminen, vahvistumisaste (vrt. vṛdh-ti)
 :::
-⟪सामर्थ्य⟫ n.: tarkoituksenmukaisuus <!-- TODO: Fallback translation -->
+⟪सामर्थ्य⟫ n.: tarkoituksenmukaisuus
 
-⟪स्वभाव⟫ m.: olento, luonto, karakteri <!-- TODO: Fallback translation -->
+⟪स्वभाव⟫ m.: olento, luonto, karakteri
 
-⟪हर्ष⟫ m.: (karvojen pystyyn nouseminen), ilo <!-- TODO: Fallback translation -->
+⟪हर्ष⟫ m.: (karvojen pystyyn nouseminen), ilo
 
-⟪हिरण्य⟫ ⟪३⟫ : kultainen; n.: kulta, raha, rikkaus <!-- TODO: Fallback translation -->
+⟪हिरण्य⟫ ⟪३⟫ : kultainen; n.: kulta, raha, rikkaus
 
 ::: media
 ![](/images/lekt2506.webp)
 Kuv.: ⟪हिरण्यम्⟫
 (Kuvan lähde: [Details](/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : ohut, hieno, hyvin pieni; m.: atomi <!-- TODO: Fallback translation -->
+⟪अणु⟫ ⟪३⟫ : ohut, hieno, hyvin pieni; m.: atomi
 
-⟪गोदान⟫ n.: lehmien / yhden lehdon antaminen; toinen hiusleikkseremonia (yksi ⟪संस्कार⟫) <!-- TODO: Fallback translation -->
+⟪गोदान⟫ n.: lehmien / yhden lehdon antaminen; toinen hiusleikkseremonia (yksi ⟪संस्कार⟫)
 
-## Oppitunti 27 <!-- TODO: Fallback translation -->
-
-
+## Oppitunti 27
 
 
 
 
 
-⟪वस्⟫ 1P (⟪वसति⟫): viipyä, asua (lokatiivi henkilöstä, jonka luona asuu) <!-- TODO: Fallback translation -->
+
+
+⟪वस्⟫ 1P (⟪वसति⟫): viipyä, asua (lokatiivi henkilöstä, jonka luona asuu)
 
 ::: indent
 **Fut.:** ⟪वत्स्यति⟫
@@ -1673,7 +1669,7 @@ tästä:
 ::: indent
 ⟪वस्तुतस्⟫: todellisuudessa, oikeasti
 :::
-⟪वस्⟫ 2Ā (⟪वस्ते⟫): pukea (vaatteet), käyttää (vaatteita) <!-- TODO: Fallback translation -->
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): pukea (vaatteet), käyttää (vaatteita)
 
 ::: indent
 **Fut.:** ⟪वसिष्यते⟫
@@ -1704,7 +1700,7 @@ Kuv.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Kuvan lähde: [Details](/licenses#lekt2707))
 :::
-⟪हृ⟫ 1U (⟪हरति⟫): pitää, kantaa; hakea, viedä pois, ryöstää <!-- TODO: Fallback translation -->
+⟪हृ⟫ 1U (⟪हरति⟫): pitää, kantaa; hakea, viedä pois, ryöstää
 
 ::: indent
 **Fut.:** ⟪हरिष्यति⟫
@@ -1720,7 +1716,7 @@ siitä:
 :::
 Vastine ⟪हर⟫:
 
-⟪हरि⟫ 3: vaaleanruskea, keltainen, vihreä; m. Viṣṇun lisänimi (ei kuulu juureen ⟪हृ⟫ 1) <!-- TODO: Fallback translation -->
+⟪हरि⟫ 3: vaaleanruskea, keltainen, vihreä; m. Viṣṇun lisänimi (ei kuulu juureen ⟪हृ⟫ 1)
 
 ⟪हरिहर⟫ m.: Viṣṇu ja Śiva yhdistettynä yhteen jumaluuteen.
 
@@ -1801,7 +1797,7 @@ Kuv.: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā-Spielerin.
 (Kuv lähde: [Details](/licenses#lekt2803))
 :::
-⟪भार⟫ m.: taakka <!-- TODO: Fallback translation -->
+⟪भार⟫ m.: taakka
 
 ::: media
 ![](/images/lekt2805.webp)
@@ -1809,7 +1805,7 @@ Kuv.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
 Tyttö kantaa taakkaa. Ahmedabadin lähellä.
 (Kuv lähde: [Details](/licenses#lekt2805))
 :::
-⟪भृत्य⟫ m.: alainen, palvelija <!-- TODO: Fallback translation -->
+⟪भृत्य⟫ m.: alainen, palvelija
 
 ---
 
@@ -1824,17 +1820,17 @@ Tyttö kantaa taakkaa. Ahmedabadin lähellä.
 Prefiksit:
 
 ::: indent
-⟪उद्⟫° : ylös, ylöspäin, korkealle, ulos, pois- <!-- TODO: Fallback translation -->
+⟪उद्⟫° : ylös, ylöspäin, korkealle, ulos, pois-
 
 ⟪परि⟫° : ympäri, ympärillä (paikka, aika), ympäri
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (tulla jonkun ympärille = saartaa =) valtata, voittaa; halventaa, loukata <!-- TODO: Fallback translation -->
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (tulla jonkun ympärille = saartaa =) valtata, voittaa; halventaa, loukata
 
 ⟪अवज्ञान⟫ n.: halventaminen
 
 ⟪गुप्त⟫ 3: suojattu, turvattu
 
-⟪गृहस्थ⟫ 3: talossa oleva; m. talon isäntä (joku, joka on 2. ⟪आश्रम⟫ tilassa) <!-- TODO: Fallback translation -->
+⟪गृहस्थ⟫ 3: talossa oleva; m. talon isäntä (joku, joka on 2. ⟪आश्रम⟫ tilassa)
 
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : syödä, niellä
 
@@ -1848,9 +1844,9 @@ Inf. ⟪ग्रसितुम्⟫
 ⟪तीक्ष्ण⟫ 3: "vill", terävä, kärkevä, ankara, voimakas, suutari
 
 
-⟪न्याय⟫ m.: normi, sääntö, oikea tapa; menetelmä, logiikka (sanasta ⟪इ⟫ + ⟪नि⟫) <!-- TODO: Fallback translation -->
+⟪न्याय⟫ m.: normi, sääntö, oikea tapa; menetelmä, logiikka (sanasta ⟪इ⟫ + ⟪नि⟫)
 
-⟪परिव्राजक⟫ m.: vaeltaja, vaellusmunkki, pyhiinvaeltaja <!-- TODO: Fallback translation -->
+⟪परिव्राजक⟫ m.: vaeltaja, vaellusmunkki, pyhiinvaeltaja
 
 ::: media
 ![](/images/lekt2903.webp)
@@ -1858,11 +1854,11 @@ Kuv.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt2903))
 :::
-⟪पालयति⟫ : myös merkitykseltään sama kuin  ⟪पाति⟫ <!-- TODO: Fallback translation -->
+⟪पालयति⟫ : myös merkitykseltään sama kuin  ⟪पाति⟫
 
-⟪पुनर्⟫ Indekl.: uudelleen, aina uudestaan, takaisin, vielä kerran ; vastoin, mutta (sointuvien konsonanttien edellä paitsi r-: ⟪पुनर्⟫) <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ Indekl.: uudelleen, aina uudestaan, takaisin, vielä kerran ; vastoin, mutta (sointuvien konsonanttien edellä paitsi r-: ⟪पुनर्⟫)
 
-⟪प्रजा⟫ f.: hedelmällisyys, syntyminen, jälkeläiset <!-- TODO: Fallback translation -->
+⟪प्रजा⟫ f.: hedelmällisyys, syntyminen, jälkeläiset
 
 ⟪मत्स्य⟫ m.: kala
 
@@ -1876,11 +1872,11 @@ Kuv.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt2901))
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): lempeä, pehmeä; hidas, heikko <!-- TODO: Fallback translation -->
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): lempeä, pehmeä; hidas, heikko
 
-⟪यथा⟫ Adv.: kuten, ikään kuin <!-- TODO: Fallback translation -->
+⟪यथा⟫ Adv.: kuten, ikään kuin
 
-⟪रम्⟫ 1Ā ⟪रमते⟫ : seisoa paikallaan, levätä; pitää jostakin, viihdyttää <!-- TODO: Fallback translation -->
+⟪रम्⟫ 1Ā ⟪रमते⟫ : seisoa paikallaan, levätä; pitää jostakin, viihdyttää
 
 ::: indent
 Fut. ⟪रंस्यते⟫  
@@ -1889,9 +1885,9 @@ Kaus. ⟪रमयति⟫
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
 :::
-⟪वानप्रस्थ⟫ m.: metsäaskeetti (joku, joka on kolmannessa ⟪आश्रम⟫) <!-- TODO: Fallback translation -->
+⟪वानप्रस्थ⟫ m.: metsäaskeetti (joku, joka on kolmannessa ⟪आश्रम⟫)
 
-⟪शुचि⟫ 3: loistava, kirkas; m.: puhtaus <!-- TODO: Fallback translation -->
+⟪शुचि⟫ 3: loistava, kirkas; m.: puhtaus
 
 ⟪पूज्⟫ 10P ⟪पूजयति⟫ : kunnioittaa, palvota
 
@@ -1925,7 +1921,7 @@ Kuv.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3001))
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : tuntea, tunnistaa, tietää, ymmärtää <!-- TODO: Fallback translation -->
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : tuntea, tunnistaa, tietää, ymmärtää
 
 ::: indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -1937,7 +1933,7 @@ Inf. ⟪ज्ञातुम्⟫
 
 tästä:
 
-⟪ज्ञाति⟫ m.: (veren) sukulainen (sukulaiset ovat niitä, joita tuntee!) <!-- TODO: Fallback translation -->
+⟪ज्ञाति⟫ m.: (veren) sukulainen (sukulaiset ovat niitä, joita tuntee!)
 
 ⟪ज्ञान⟫ n.: tieto, tietämys, ymmärtäminen (erityisesti "korkeampia" totuuksia uskonnoissa ja filosofiassa)
 :::
@@ -1947,7 +1943,7 @@ Kuv.: ⟪ज्ञातयः⟫
 Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3002))
 :::
-⟪पू⟫ 9U ⟪पुनाति⟫ : puhdistaa <!-- TODO: Fallback translation -->
+⟪पू⟫ 9U ⟪पुनाति⟫ : puhdistaa
 
 ::: indent
 Fut. ⟪पविष्यति⟫  
@@ -1961,7 +1957,7 @@ Inf. ⟪पवितुम्⟫
 Kuv.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3003))
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : syödä, kuluttaa <!-- TODO: Fallback translation -->
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : syödä, kuluttaa
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
@@ -1976,26 +1972,26 @@ Kuv.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, Etelä-Intia
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3005))
 :::
-⟪प्रिय⟫ ⟪३⟫: rakas, rakastava, ystävällinen <!-- TODO: Fallback translation -->
+⟪प्रिय⟫ ⟪३⟫: rakas, rakastava, ystävällinen
 
 ::: media
 ![](/images/lekt3004.webp)
 Kuv.: ⟪प्रिया⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3004))
 :::
-⟪चेत्⟫ konjunktio: jos; edellyttäen, että (ei koskaan lauseen alussa) <!-- TODO: Fallback translation -->
+⟪चेत्⟫ konjunktio: jos; edellyttäen, että (ei koskaan lauseen alussa)
 
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : jos ei
 :::
-⟪यदि⟫ konjunktio: jos <!-- TODO: Fallback translation -->
+⟪यदि⟫ konjunktio: jos
 
 ::: indent
 ⟪यद्यपि⟫ : vaikka, jopa jos, vaikkakin
 
 ⟪यद्येवम्⟫ : jos näin on, tällaisissa olosuhteissa
 :::
-⟪पुनर्⟫ : uudelleen, aina uudestaan, takaisin, vielä kerran, vastoin, mutta <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ : uudelleen, aina uudestaan, takaisin, vielä kerran, vastoin, mutta
 
 
 ::: indent
@@ -2010,7 +2006,7 @@ johdannaiset:
 Kuv.: ⟪पुनर्भवः⟫
 (Kuvan lähde: [Details](/licenses#lekt2904))
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : elää <!-- TODO: Fallback translation -->
+⟪जीव्⟫ 1P ⟪जीवति⟫ : elää
 
 ::: indent
 Fut. ⟪जीविष्यति⟫  
@@ -2023,9 +2019,9 @@ johdannaiset:
 
 ⟪जीव⟫ m./n.: elämä, yksilöllinen sielu
 :::
-⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ikuinen, kuolematon, pysyvä <!-- TODO: Fallback translation -->
+⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ikuinen, kuolematon, pysyvä
 
-## Luku 31 <!-- TODO: Fallback translation -->
+## Luku 31
 
 
 
@@ -2039,16 +2035,16 @@ johdannaiset:
 **Pass. ⟪युज्यते⟫**
 **Kaus. ⟪योजयति⟫**
 **PPP ⟪युक्त⟫**
-**Inf. ⟪योक्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪योक्तुम्⟫**
 
 johdannaiset:
 **⟪युग⟫ n. → ⟪युग⟫ n.:** jousi, pari, maailmankausi (maailmankausia on neljä:
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
-4. ⟪कलि⟫ <!-- TODO: Fallback translation -->
+4. ⟪कलि⟫
 
-Nykyinen ⟪कलियुग⟫ alkoi n. 3102 eKr., jolloin käytiin ⟪महाभारत⟫-sota. Lisätietoja Basham, Wonder s. 323) <!-- TODO: Fallback translation -->
+Nykyinen ⟪कलियुग⟫ alkoi n. 3102 eKr., jolloin käytiin ⟪महाभारत⟫-sota. Lisätietoja Basham, Wonder s. 323)
 
 **⟪योग⟫ m.:** "jännitys, kiristys", ponnistus, yhteys, jooga (katso Basham, Wonder s. 327ff.)
 :::
@@ -2090,7 +2086,7 @@ Joogakuvitus.
 :::
 **⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : voidella erilleen = meikata, erottua toisistaan
 ::: indent
-**PPP ⟪व्यक्त⟫ :** erottunut, avautunut <!-- TODO: Fallback translation -->
+**PPP ⟪व्यक्त⟫ :** erottunut, avautunut
 
 johdannaiset:
 **⟪व्यञ्जन⟫ n.:** erottamiskeino = meikki, mauste, merkki, konsonantti (se, minkä kautta merkitykset erotetaan)
@@ -2115,7 +2111,7 @@ Kathakali-tanssin valmistelu, Kochi.
 **Pass. ⟪भुज्यते⟫**
 **Kaus. ⟪भोजयति⟫**
 **PPP bhukt → PPP ⟪भुक्त⟫**
-**Inf. ⟪भोक्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪भोक्तुम्⟫**
 
 johdannaiset:
 **⟪भोग⟫ m.:** nautinto, ruoka, ilo, hyöty, vero, maksu
@@ -2134,7 +2130,7 @@ johdannaiset:
 **⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : tunnistaa, ymmärtää
 ::: indent
 johdannaiset:
-**⟪प्रज्ञा⟫ f.:** viisaus, tieto <!-- TODO: Fallback translation -->
+**⟪प्रज्ञा⟫ f.:** viisaus, tieto
 
 :::
 ::: media
@@ -2143,11 +2139,11 @@ Kuv.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : syntyä, olla olemassa <!-- TODO: Fallback translation -->
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : syntyä, olla olemassa
 
 **⟪शरीर⟫ n.:** ruumis, vartalo
 
-## Oppitunti 32 <!-- TODO: Fallback translation -->
+## Oppitunti 32
 
 
 
@@ -2155,9 +2151,9 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 
 
-**⟪अग्र⟫ n.:** kärki, äärimmäinen pää <!-- TODO: Fallback translation -->
+**⟪अग्र⟫ n.:** kärki, äärimmäinen pää
 
-**⟪मही⟫ f.:** maa, perusta ja pohja (sanm.: Suuri) <!-- TODO: Fallback translation -->
+**⟪मही⟫ f.:** maa, perusta ja pohja (sanm.: Suuri)
 
 ⟪एकदा⟫
 
@@ -2181,7 +2177,7 @@ Kuv.: ⟪चूतः⟩
 Mangopuu, Kanpur.
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3202))
 :::
-⟪तरु⟩ ⟪वृक्ष⟩ <!-- TODO: Fallback translation -->
+⟪तरु⟩ ⟪वृक्ष⟩
 
 ⟪पचेलिम⟩
 
@@ -2235,7 +2231,7 @@ Kuv.: ⟪उपलाः⟩
 Kivimurskaamo Punen eteläpuolella, Maharashtra.
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3204))
 :::
-⟪लक्ष्य⟩ <!-- TODO: Fallback translation -->
+⟪लक्ष्य⟩
 
 ::: media
 ![](/images/lekt3205.webp)
@@ -2267,7 +2263,7 @@ Kuv.: ⟪चितं⟩ ⟪गोमयं⟩ ⟪दहति⟩
 Polttavaa lehmänpatoa Rajasthanissa.
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3207))
 :::
-**⟪चि⟩ ⟪अव⟩** <!-- TODO: Fallback translation -->
+**⟪चि⟩ ⟪अव⟩**
 
 ⟪प्रति⟩
 
@@ -2281,7 +2277,7 @@ Kuv.: ⟪कौशलम्⟩
 Mehni-maalaukset käsissä Mumbainissa.
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3206))
 :::
-## Oppitunti 33 <!-- TODO: Fallback translation -->
+## Oppitunti 33
 
 
 
@@ -2307,7 +2303,7 @@ niistä:
 Kuv.: ⟪दानम्⟩
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3306))
 :::
-⟪दा⟩ + ⟪आ⟩ 3Ā ⟪अदत्ते⟩: (vastaanottaa) vastaanottaa, ottaa haltuun, viedä mukanaan <!-- TODO: Fallback translation -->
+⟪दा⟩ + ⟪आ⟩ 3Ā ⟪अदत्ते⟩: (vastaanottaa) vastaanottaa, ottaa haltuun, viedä mukanaan
 
 ::: indent
 **Absol.** ⟪आदाय⟩: Akk. kanssa: seurueena, kanss
@@ -2331,7 +2327,7 @@ Kuv.: ⟪सा⟩ ⟪पुत्रमादाय⟩ ⟪भारं⟩ ⟪�
 ::: indent
 niistä:
 
-⟪समाधि⟩ m.: sisäinen keskittyminen, korkein huomio <!-- TODO: Fallback translation -->
+⟪समाधि⟩ m.: sisäinen keskittyminen, korkein huomio
 
 :::
 ::: media
@@ -2339,7 +2335,7 @@ niistä:
 Kuv: ⟪समाधि⟫
 (Kuvan lähde: [Details](/licenses#lekt3305))
 :::
-⟪पॄ⟫ 3P ⟪पिपर्ति⟫: täyttää, suorittaa <!-- TODO: Fallback translation -->
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫: täyttää, suorittaa
 
 ::: indent
 Huom:
@@ -2373,7 +2369,7 @@ tästä:
 Kuv: ⟪भयम्⟫
 (Kuvan lähde: [Details](/licenses#lekt3304))
 :::
-⟪भृ⟫ 3U ⟪बिभर्ति⟫: kantaa, tuoda; ylläpitää, ruokkia <!-- TODO: Fallback translation -->
+⟪भृ⟫ 3U ⟪बिभर्ति⟫: kantaa, tuoda; ylläpitää, ruokkia
 
 ::: indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -2412,7 +2408,7 @@ tästä:
 **Kaus.** ⟪हापयति⟫  
 **PPP** ⟪हीन⟫: jätetty, puutteellinen, heikko  
 **Inf.** ⟪हातुम्⟫
-PPP:sta ⟪हीन⟫: <!-- TODO: Fallback translation -->
+PPP:sta ⟪हीन⟫:
 
 ⟪हीनयान⟫ n.: puutteellinen ajoneuvo (buddhalaisuus): halventava termi "suuren ajoneuvon" edustajilta, ⟪महायान⟫; puutteellinen tie (⟪यान⟫ sanasta ⟪या⟫ 2: mennä, ajaa). Termiä ⟪हीनयान⟫ ei pitäisi enää käyttää. Vanhan buddhalaisuuden nykyinen muoto on nimeltään ⟪थेरवाद⟫.
 :::
@@ -2421,7 +2417,7 @@ PPP:sta ⟪हीन⟫: <!-- TODO: Fallback translation -->
 Kuv: ⟪हीनयानमेव⟫
 (Kuvan lähde: [Details](/licenses#lekt3303))
 :::
-⟪हु⟫ 3P ⟪जुहोति⟫: kaada tulen päälle (uhriksi, erityisesti sulamaton voijauhe) <!-- TODO: Fallback translation -->
+⟪हु⟫ 3P ⟪जुहोति⟫: kaada tulen päälle (uhriksi, erityisesti sulamaton voijauhe)
 
 ::: indent
 **Fut.** ⟪होष्यति⟫  
@@ -2435,14 +2431,14 @@ Kuv: ⟪हीनयानमेव⟫
 Kuv: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Kuvan lähde: [Details](/licenses#lekt3302))
 :::
-⟪घृत⟫ n.: sulamaton voijauhe, ghee (⟪घी⟫ / گھی / ঘী) <!-- TODO: Fallback translation -->
+⟪घृत⟫ n.: sulamaton voijauhe, ghee (⟪घी⟫ / گھی / ঘী)
 
 ::: note-box
-"Ghee valmistetaan keittämällä suolatonta voita suurella kattilalla, kunnes kaikki vesi on haihtunut ja proteiinit ovat laskeutuneet pohjalle. Keitetty ja selkeytetty voi kaadetaan sitten lusikalla pois välttääkseen häiritsemästä maidon kiinteitä aineosia pannun pohjalla. Toisin kuin voita, gheeta voidaan säilyttää pitkään ilman jääkaappia, kunhan sitä pidetään ilmatiiviissä astiassa hapettumisen estämiseksi ja se pysyy kosteudetta. Gheen koostumus, väri tai maku riippuvat maidon lähteestä, josta voita on valmistettu. Intiassa gheeta valmistetaan yleensä vesipuhvelin maidosta, koska se on valkoisempaa kuin lehmän maito." <!-- TODO: Fallback translation -->
+"Ghee valmistetaan keittämällä suolatonta voita suurella kattilalla, kunnes kaikki vesi on haihtunut ja proteiinit ovat laskeutuneet pohjalle. Keitetty ja selkeytetty voi kaadetaan sitten lusikalla pois välttääkseen häiritsemästä maidon kiinteitä aineosia pannun pohjalla. Toisin kuin voita, gheeta voidaan säilyttää pitkään ilman jääkaappia, kunhan sitä pidetään ilmatiiviissä astiassa hapettumisen estämiseksi ja se pysyy kosteudetta. Gheen koostumus, väri tai maku riippuvat maidon lähteestä, josta voita on valmistettu. Intiassa gheeta valmistetaan yleensä vesipuhvelin maidosta, koska se on valkoisempaa kuin lehmän maito."
 
 [Lähde: http://en.wikipedia.org/wiki/Ghee. -- Viitattu 2008-12-26]
 :::
-## Oppitunti 34 <!-- TODO: Fallback translation -->
+## Oppitunti 34
 
 
 
@@ -2453,7 +2449,7 @@ Kuv: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. ja pl.:** siemen, vilja, jyvä <!-- TODO: Fallback translation -->
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. ja pl.:** siemen, vilja, jyvä
 
 ::: media
 ![](/images/lekt3406.webp)
@@ -2461,7 +2457,7 @@ Kuv.: ⟪सस्यम्⟫
 Rice field in India.
 (Kuv lähde: [Details](/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** kuinka kauan, kuinka suuri <!-- TODO: Fallback translation -->
+**⟪यावत्⟫ :** kuinka kauan, kuinka suuri
 
 **⟪तावत्⟫ :** niin kauan, niin suuri
 
@@ -2475,7 +2471,7 @@ Kuv.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
 (Kuv lähde: [Details](/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** kuolevainen (sanasta ⟪मृ⟫) <!-- TODO: Fallback translation -->
+**⟪मर्त्य⟫ 3:** kuolevainen (sanasta ⟪मृ⟫)
 
 **⟪तिल⟫ m.:** seesami (Sesamum indicum L.)
 
@@ -2499,7 +2495,7 @@ Kuv.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
 (Kuv lähde: [Details](/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** asuinpaikka, temppeli <!-- TODO: Fallback translation -->
+**⟪निकेतन⟫ n.:** asuinpaikka, temppeli
 
 **⟪कोटि⟫ f.:** kärki; 10 miljoonaa
 
@@ -2515,7 +2511,7 @@ Kuv.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Kuv lähde: [Details](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** pidättää, pitää, tarjota, myöntää <!-- TODO: Fallback translation -->
+**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** pidättää, pitää, tarjota, myöntää
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** ojentaa, tarjota, toimittaa
 
@@ -2563,7 +2559,7 @@ People walking, Senegal.
 **Pass. ⟪गीयते⟫**
 **Kaus. ⟪गापयति⟫**
 **PPP ⟪गीत⟫**
-**Inf. ⟪गातुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪गातुम्⟫**
 
 tästä:
 **⟪गीता⟫ f.:** laulu, virsi
@@ -2574,7 +2570,7 @@ Kuv.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Kuv lähde: [Details](/licenses#lekt3501))
 :::
-## Luento 36 <!-- TODO: Fallback translation -->
+## Luento 36
 
 
 
@@ -2582,9 +2578,9 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 
 
 
-⟪अह्⟫ P vain perfekti preesensmerkinnällä ⟪आह⟫, ⟪आहुर्⟫ : sanoa, puhua <!-- TODO: Fallback translation -->
+⟪अह्⟫ P vain perfekti preesensmerkinnällä ⟪आह⟫, ⟪आहुर्⟫ : sanoa, puhua
 
-⟪अह्⟫ ⟪प्र⟫ P vain perfekti preesensmerkinnällä ⟪प्राह⟫ : sanoa, puhua <!-- TODO: Fallback translation -->
+⟪अह्⟫ ⟪प्र⟫ P vain perfekti preesensmerkinnällä ⟪प्राह⟫ : sanoa, puhua
 
 ⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : nähdä, (er)ottaa, tarkastella
 
@@ -2612,7 +2608,7 @@ Inf. ⟪चेतुम्⟫
 Kuv.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Kuvälähde: [Details](/licenses#lekt3601))
 :::
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : astua, käydä, poistua <!-- TODO: Fallback translation -->
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : astua, käydä, poistua
 
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -2632,7 +2628,7 @@ Kuv.: ⟪अगारम्⟫
 (Kuvälähde: [Details](/licenses#lekt3602))
 :::
 ::: indent
-tästä: <!-- TODO: Fallback translation -->
+tästä:
 
 ⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: buddhalaisen munkin tai novitsin kodittomuus
 :::
@@ -2641,7 +2637,7 @@ tästä: <!-- TODO: Fallback translation -->
 Kuv.: ⟪अनगार्यम्⟫
 (Kuvälähde: [Details](/licenses#lekt3603))
 :::
-⟪अञ्जलि⟫ m.: kunnioituksesta korkealle yhdistetyt kädet <!-- TODO: Fallback translation -->
+⟪अञ्जलि⟫ m.: kunnioituksesta korkealle yhdistetyt kädet
 
 ⟪आदृत⟫ 3: arvostettu
 
@@ -2665,7 +2661,7 @@ esim.
 
 ⟪अनुगम्⟫ : seurata jtk, käydä pitkin
 :::
-⟪अभि⟫ : -, jälkeen - päälle, luo - perään, luo, vastaan, sisään-, suhteen, päälle, yli, luokse <!-- TODO: Fallback translation -->
+⟪अभि⟫ : -, jälkeen - päälle, luo - perään, luo, vastaan, sisään-, suhteen, päälle, yli, luokse
 
 ::: indent
 esim.
@@ -2674,7 +2670,7 @@ esim.
 
 ⟪वद्⟫ + ⟪अभि⟫ kausatiivi Ā ⟪अभिवादयते⟫ : tervehdiä virallisesti, puhutella
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : tuntea vastenmielisyyttä, häipyä <!-- TODO: Fallback translation -->
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : tuntea vastenmielisyyttä, häipyä
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
@@ -2696,7 +2692,7 @@ PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : viihdyttää, ilahduttaa; rakastaa, olla jklle myönteinen <!-- TODO: Fallback translation -->
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : viihdyttää, ilahduttaa; rakastaa, olla jklle myönteinen
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : iloitaa
 
@@ -2738,17 +2734,17 @@ PPP ⟪हृषित⟫
 Kuv.: ⟪लोमहर्षः⟫
 (Kuvälähde: [Details](/licenses#lekt3604))
 :::
-⟪स्वक⟫ 3: oma (minun, sinun ...) ; m.: jäsen <!-- TODO: Fallback translation -->
+⟪स्वक⟫ 3: oma (minun, sinun ...) ; m.: jäsen
 
-## Oppitunti 37 <!-- TODO: Fallback translation -->
-
-
+## Oppitunti 37
 
 
 
 
 
-⟪मूर्ख⟫ 3: tyhmä, hölmö, paha m. typerys <!-- TODO: Fallback translation -->
+
+
+⟪मूर्ख⟫ 3: tyhmä, hölmö, paha m. typerys
 
 ⟪मुनि⟫ m.: viisas, (hiljaisuus)asketi
 
@@ -2761,7 +2757,7 @@ Kuv.: ⟪लोमहर्षः⟫
 Kuv.: ⟪शाक्यमुनिः⟫
 (Kuvan lähde: [Details](/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: päivä <!-- TODO: Fallback translation -->
+⟪दिन⟫ n.: päivä
 
 ⟪वृक्ष⟫ m.: puu
 
@@ -2770,31 +2766,31 @@ Kuv.: ⟪शाक्यमुनिः⟫
 Kuv.: ⟪वृक्षः⟫
 (Kuvan lähde: [Details](/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: suu, kasvot, etuosa, alku <!-- TODO: Fallback translation -->
+⟪मुख⟫ n.: suu, kasvot, etuosa, alku
 
-## Luku 38 <!-- TODO: Fallback translation -->
-
-
+## Luku 38
 
 
 
 
 
-⟪सूर्य⟫ m.: aurinko, auringonjumala Sūrya <!-- TODO: Fallback translation -->
+
+
+⟪सूर्य⟫ m.: aurinko, auringonjumala Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
 Kuv.: ⟪सूर्यः⟫
 (Kuvan lähde: [Details](/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: vesi <!-- TODO: Fallback translation -->
+⟪उदक⟫ n.: vesi
 
 ::: media
 ![](/images/lekt3805.webp)
 Kuv.: ⟪उदकम्⟫
 (Kuvan lähde: [Details](/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : puhaltaa, puhaltua <!-- TODO: Fallback translation -->
+⟪वा⟫ 2P ⟪वाति⟫ : puhaltaa, puhaltua
 
 ::: indent
 Fut. ⟪वास्यति⟫
@@ -2808,7 +2804,7 @@ joista:
 
 ⟪वात⟫ m.: tuuli
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : puhaltaa, kuljettaa tuulen mukana, sammua <!-- TODO: Fallback translation -->
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : puhaltaa, kuljettaa tuulen mukana, sammua
 
 ::: indent
 joista:
@@ -2822,7 +2818,7 @@ joista:
 Kuv.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Kuvan lähde: [Details](/licenses#lekt3804))
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : virtsata, pissata, siittää <!-- TODO: Fallback translation -->
+⟪मिह्⟫ 1P ⟪मेहति⟫ : virtsata, pissata, siittää
 
 ::: indent
 Fut. ⟪मेक्ष्यति⟫
@@ -2835,9 +2831,9 @@ joista:
 
 ⟪मेघ⟫ m.: pilvi ("virtaaja")
 :::
-⟪सुत⟫ m.: poika <!-- TODO: Fallback translation -->
+⟪सुत⟫ m.: poika
 
-⟪राजन्⟫ m.: kuningas (Intian kuninkuudesta ks. Basham, Wonder s. 82–94). Yhdyssanan lopussa (erityisesti ⟪तत्पुरुष⟫) yleensä: -⟪राज⟫ m. (kuten ⟪देव⟫) <!-- TODO: Fallback translation -->
+⟪राजन्⟫ m.: kuningas (Intian kuninkuudesta ks. Basham, Wonder s. 82–94). Yhdyssanan lopussa (erityisesti ⟪तत्पुरुष⟫) yleensä: -⟪राज⟫ m. (kuten ⟪देव⟫)
 
 ::: indent
 Naispuolinen muoto:
@@ -2854,30 +2850,30 @@ sanasta ⟪राज⟫ :
 
 ⟪आत्मन्⟫ m.: itse, oma henkilö, sisin olento. Filosofisessa ja vapautusopin kontekstissa: absoluuttinen yksilössä, josta yksilö ei joskus ole tietoinen (v. Stietencron)
 
-⟪ब्रह्मन्⟫ n.: absoluuttinen, Veda (Thiemen mukaan alun perin: muotoiltu totuus, josta ⟪ब्राह्मण⟫ "totuuden muotoilija") <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ n.: absoluuttinen, Veda (Thiemen mukaan alun perin: muotoiltu totuus, josta ⟪ब्राह्मण⟫ "totuuden muotoilija")
 
-⟪ब्रह्मन्⟫ m.: henkilöitynyt luoja jumala Brahmā <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ m.: henkilöitynyt luoja jumala Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
 Kuv.: ⟪ब्रह्मा⟫
 (Kuvan lähde: [Details](/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n.: sanasta ⟪कृ⟫ 8U: toiminta, teko, teos; pyhä teko, uhritoiminta; karma: aiempi tekeminen, joka myöhemmin tuo hedelmänsä (esim. uudelleensyntymässä)  <!-- TODO: Fallback translation -->
+⟪कर्मन्⟫ n.: sanasta ⟪कृ⟫ 8U: toiminta, teko, teos; pyhä teko, uhritoiminta; karma: aiempi tekeminen, joka myöhemmin tuo hedelmänsä (esim. uudelleensyntymässä) 
 
 ::: indent
 ⟪कर्मविपाक⟫ m.: tekojen hedelmä = hyvien ja pahojen tekemisten seuraukset aiemmista olemassaoloista (sanasta ⟪वि⟫–⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: elefantti (_Elephas maximus_) <!-- TODO: Fallback translation -->
+⟪हस्तिन्⟫ m.: elefantti (_Elephas maximus_)
 
-⟪मनु⟫ m.: ihminen, mies; ihmiskunnan isän nimi (sanasta ⟪मन्⟫ 4Ā) <!-- TODO: Fallback translation -->
+⟪मनु⟫ m.: ihminen, mies; ihmiskunnan isän nimi (sanasta ⟪मन्⟫ 4Ā)
 
 ::: indent
 joista:
 
 ⟪मनुष्य⟫ m.: ihminen
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (liekittää, loistaa); surra, surella <!-- TODO: Fallback translation -->
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (liekittää, loistaa); surra, surella
 
 ::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -2894,7 +2890,7 @@ joista:
 ⟪शोक⟫ m.: suru, murhe
 
 ⟪अशोक⟫ 3: murheeton; ašokapuu = _Saraca asoca_ (Roxb.) Wilde; keisari Aśokan nimi (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (n. 304 – 232 eaa.)
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -2907,7 +2903,7 @@ Kuv: ⟪अशोकवृक्षः⟫
 Kuv: ⟪अशोकसाम्राज्यम्⟫
 (Kuvan lähde: [Details](/licenses#lekt3811))
 :::
-## Oppitunti 40 <!-- TODO: Fallback translation -->
+## Oppitunti 40
 
 
 
@@ -2915,9 +2911,9 @@ Kuv: ⟪अशोकसाम्राज्यम्⟫
 
 
 
-⟪पात्र⟫ n.: Arvoisa, mestari, ansioikas <!-- TODO: Fallback translation -->
+⟪पात्र⟫ n.: Arvoisa, mestari, ansioikas
 
-⟪मेधा⟫ f.: Viisaus, ymmärrys, ajatus <!-- TODO: Fallback translation -->
+⟪मेधा⟫ f.: Viisaus, ymmärrys, ajatus
 
 ⟪पुस्तक⟫ m.n.: Manuscripti, kirja
 
@@ -2928,7 +2924,7 @@ Perf. II ⟪चकॢपे⟫ valinnainen ⟪अनिट्⟫
 Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
 Kaus. ⟪कल्पयति⟫ : järjestää, luoda, muodostaa mielikuvituksessa, kuvitella  
 PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
 
 joista:
 
@@ -2941,7 +2937,7 @@ joista:
 
 ⟪विक्ल्प⟫ m.: Vaihtoehto, epäily
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : lyödä <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U ⟪तुदति⟫ : lyödä
 
 ::: indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -2951,7 +2947,7 @@ Kaus. ⟪तोदयति⟫
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ : mennä yli, ylittää, pelastua joltakulta (akk. = ylittää joku) <!-- TODO: Fallback translation -->
+⟪तॄ⟫ 1P ⟪तरति⟫ : mennä yli, ylittää, pelastua joltakulta (akk. = ylittää joku)
 
 ::: indent
 Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
@@ -2978,7 +2974,7 @@ Kuv: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 Kuv: ⟪तीर्थङ्करः⟫
 (Kuvan lähde: [Details](/licenses#lekt4002))
 :::
-⟪अव⟫ Prefiksi: alas, alaspäin, pois, ab- <!-- TODO: Fallback translation -->
+⟪अव⟫ Prefiksi: alas, alaspäin, pois, ab-
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : laskeutua alas
 
@@ -2992,7 +2988,7 @@ joista:
 Kuv: ⟪विष्णोर्दशावताराः⟫
 (Kuvan lähde: [Details](/licenses#lekt4001))
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : nukkua, mennä nukkumaan <!-- TODO: Fallback translation -->
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : nukkua, mennä nukkumaan
 
 ::: indent
 Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
@@ -3014,7 +3010,7 @@ joista:
 Kuv: ⟪स्वपन्ति⟫
 (Kuvan lähde: [Details](/licenses#lekt4004))
 :::
-## Oppitunti 41 <!-- TODO: Fallback translation -->
+## Oppitunti 41
 
 
 
@@ -3031,14 +3027,14 @@ Kuv: ⟪स्वपन्ति⟫
 Kuv: ⟪भुजङ्गः⟫
 (Kuvan lähde: [Details](/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: vain, ainoastaan, täysin <!-- TODO: Fallback translation -->
+⟪केवलम्⟫ Adv.: vain, ainoastaan, täysin
 
 ⟪विष⟫ n.: Myrkky
 
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
 Kuv: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
-(Kuvan lähde: [Details](/licenses#lekt4104)) <!-- TODO: Fallback translation -->
+(Kuvan lähde: [Details](/licenses#lekt4104))
 
 :::
 ⟪शास्⟫ 2P ⟪शास्ति⟫ : ohjata, hallita, käskyttää, opettaa
@@ -3063,7 +3059,7 @@ Kuv.: ⟪शासना⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt4109))
 :::
 ::: indent
-⟪शास्त्र⟫ n.: opetus, oppikirja <!-- TODO: Fallback translation -->
+⟪शास्त्र⟫ n.: opetus, oppikirja
 
 ⟪शास्त्रिन्⟫ m.: oppinut, tiedemies
 :::
@@ -3077,12 +3073,16 @@ Kuv.: ⟪शास्त्री⟫
 :::
 ⟪शरण⟫ 3: suojaava, suojaten ; n. suoja, turvapaikka, turvautuminen
 
-⟪सङ्घ⟫ n.: (sanasta ⟪सम्⟫-⟪हन्⟫ : yhteen lyödä): joukko, parvi, yhteisö (esim. buddhalainen) <!-- TODO: Fallback translation -->
+⟪सङ्घ⟫ n.: (sanasta ⟪सम्⟫-⟪हन्⟫ : yhteen lyödä): joukko, parvi, yhteisö (esim. buddhalainen)
 
-::: deleteme-box
-ks. myös:
+⟪कन्या⟫ f.: nuori tyttö, tytär, neitsyt
 
-**Payer, Alois (1944–):** Vinayamukha : Theravādan luostarisääntöjen ja luostarilain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+⟪अति⟫ prefiksi: yli, ohi (tilassa, ajassa, lukumäärässä, määrässä, järjestyksessä, vallan voimassa, intensiteetissä), erittäin
+
+⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : kulkea ohi
+
+::: indent
+PPP ⟪अतीत⟫ : n. menneisyys
 :::
 ⟪कन्या⟫ f.: nuori tyttö, tytär, neitsyt
 
@@ -3093,11 +3093,6 @@ ks. myös:
 ::: indent
 PPP ⟪अतीत⟫ : n. menneisyys
 :::
-::: deleteme-box
-ks. myös: <!-- TODO: Fallback translation -->
-
-**Payer, Alois (1944–):** Vinayamukha : Theravādan luostarisääntöjen ja luostarilain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: nuori tyttö, tytär, neitsyt
 
 ⟪अति⟫ prefiksi: yli, ohi (tilassa, ajassa, lukumäärässä, määrässä, järjestyksessä, vallan voimassa, intensiteetissä), erittäin
@@ -3107,21 +3102,7 @@ ks. myös: <!-- TODO: Fallback translation -->
 ::: indent
 PPP ⟪अतीत⟫ : n. menneisyys
 :::
-::: deleteme-box
-ks. myös: <!-- TODO: Fallback translation -->
-
-**Payer, Alois (1944–):** Vinayamukha : Theravādan luostarisääntöjen ja luostarilain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
-⟪कन्या⟫ f.: nuori tyttö, tytär, neitsyt
-
-⟪अति⟫ prefiksi: yli, ohi (tilassa, ajassa, lukumäärässä, määrässä, järjestyksessä, vallan voimassa, intensiteetissä), erittäin
-
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : kulkea ohi
-
-::: indent
-PPP ⟪अतीत⟫ : n. menneisyys
-:::
-## Oppitunti 42 <!-- TODO: Fallback translation -->
+## Oppitunti 42
 
 
 
@@ -3129,12 +3110,12 @@ PPP ⟪अतीत⟫ : n. menneisyys
 
 
 
-⟪प्रकृति⟫ f.: (sanasta ⟪कृ⟫ + ⟪प्र⟫) perusmuoto, luonnollinen tila, luonto; alkuperäinen aine, alkuaine <!-- TODO: Fallback translation -->
+⟪प्रकृति⟫ f.: (sanasta ⟪कृ⟫ + ⟪प्र⟫) perusmuoto, luonnollinen tila, luonto; alkuperäinen aine, alkuaine
 
 ⟪अर्जुन⟫ m. oma nimi: Arjuna, yksi ⟪पण्डु⟫ viidestä pojasta. Sankari teoksessa ⟪महाभारत⟫ (katso Basham, Ihmeet s. 409 - 414)
 
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : pidättäytyä, pitää etäisyyttä, välttää, jäädä, pysyä paikallaan <!-- TODO: Fallback translation -->
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : pidättäytyä, pitää etäisyyttä, välttää, jäädä, pysyä paikallaan
 
 ::: indent
 PPP ⟪अवस्थित⟫ 3: paikallaan oleva, sijaitseva
@@ -3204,18 +3185,18 @@ Inf. ⟪शंसितुम्⟫
 Kuv.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Kuv lähde: [Details](/licenses#lekt4202))
 :::
-⟪भर्तृ⟫ m. (sanasta ⟪भृ⟫ "kantaa, ylläpitää"): ylläpitäjä, elättäjä, aviomies <!-- TODO: Fallback translation -->
+⟪भर्तृ⟫ m. (sanasta ⟪भृ⟫ "kantaa, ylläpitää"): ylläpitäjä, elättäjä, aviomies
 
 ⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: aviovaimo (⟪भार्या⟫ = gerundiivi sanasta ⟪भृ⟫ : kannettava, ylläpidettävä, elatusoikeutettu)
 
 ⟪पितृ⟫ m.: isä
 
-⟪पितृ⟫ m. monikko: kuolleet miespuoliset esi-isät, ts. <!-- TODO: Fallback translation -->
+⟪पितृ⟫ m. monikko: kuolleet miespuoliset esi-isät, ts.
 
 1. isä, isoisä, isoisoisä
-2. ihmiskunnan esi-isät <!-- TODO: Fallback translation -->
+2. ihmiskunnan esi-isät
 
-Molemmille suoritetaan rituaaleja, ns. ⟪श्राद्ध⟫ n. Päittäin tuodaan kullekin kolmelle miespuoliselle esi-isälle (isä- ja äitipuolelta) vettä ja tietyissä tilanteissa riisipalloja tai jauhopalloja (⟪पिण्ड⟫ m. "pallo"). Näin esi-isät saavat ruokaa. Tämän seremonian suorittaminen on yksi syy, miksi miehen tulisi saada poika. Ne, jotka ovat yhdistyneet tämän ⟪पिण्ड⟫-lahjan kautta, kutsutaan nimellä ⟪सपिण्ड⟫ (joilla on yhteistä ⟪पिण्ड⟫). ⟪सपिण्ड⟫ käsittää kuusi sukupolvea: kolme taaksepäin (isoisään asti) ja kolme eteenpäin (isoisän pojan lapseen). <!-- TODO: Fallback translation -->
+Molemmille suoritetaan rituaaleja, ns. ⟪श्राद्ध⟫ n. Päittäin tuodaan kullekin kolmelle miespuoliselle esi-isälle (isä- ja äitipuolelta) vettä ja tietyissä tilanteissa riisipalloja tai jauhopalloja (⟪पिण्ड⟫ m. "pallo"). Näin esi-isät saavat ruokaa. Tämän seremonian suorittaminen on yksi syy, miksi miehen tulisi saada poika. Ne, jotka ovat yhdistyneet tämän ⟪पिण्ड⟫-lahjan kautta, kutsutaan nimellä ⟪सपिण्ड⟫ (joilla on yhteistä ⟪पिण्ड⟫). ⟪सपिण्ड⟫ käsittää kuusi sukupolvea: kolme taaksepäin (isoisään asti) ja kolme eteenpäin (isoisän pojan lapseen).
 
 ⟪तात⟫ m.: pappa
 
@@ -3231,21 +3212,21 @@ Molemmille suoritetaan rituaaleja, ns. ⟪श्राद्ध⟫ n. Päittäin
 
 ⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: sisar
 
-⟪देवृ⟫ m.: aviomiehen veli (vaimon käly) <!-- TODO: Fallback translation -->
+⟪देवृ⟫ m.: aviomiehen veli (vaimon käly)
 
-⟪यातृ⟫ m.: aviomiehen veljen vaimo <!-- TODO: Fallback translation -->
+⟪यातृ⟫ m.: aviomiehen veljen vaimo
 
 ⟪ननान्दृ⟫ f.: miehen sisar
 
 ⟪श्वसुर⟫ f.: appi (vanhalla ajalla: vain naiselle)
 
-⟪श्वस्रू⟫ f.: äitipuoli (taivutus myöhemmin) <!-- TODO: Fallback translation -->
+⟪श्वस्रू⟫ f.: äitipuoli (taivutus myöhemmin)
 
-⟪मातुल⟫ m.: äidin veli (äitipuolen setä) <!-- TODO: Fallback translation -->
+⟪मातुल⟫ m.: äidin veli (äitipuolen setä)
 
 ⟪मातुलानी⟫ f.: äidin veljen vaimo (äitipuolen setän vaimo)
 
-⟪पितृव्य⟫ m.: isän veli (isäpuolen setä) <!-- TODO: Fallback translation -->
+⟪पितृव्य⟫ m.: isän veli (isäpuolen setä)
 
 ⟪पितामह⟫ m.: isäpuolen isoisä
 
@@ -3273,7 +3254,7 @@ Molemmille suoritetaan rituaaleja, ns. ⟪श्राद्ध⟫ n. Päittäin
 Kuv.: ⟪आपणः⟫
 (Kuvan lähde: [Yksityiskohdat](/licenses#lekt4302))
 :::
-⟪सत्वर⟩ 3: nopea, kiireinen <!-- TODO: Fallback translation -->
+⟪सत्वर⟩ 3: nopea, kiireinen
 
 ⟪पण्य⟫ 3: myytävä; n.: tavara, kauppa
 
@@ -3282,13 +3263,13 @@ Kuv.: ⟪आपणः⟫
 Kuv.: ⟪पण्यानि⟫
 (Kuvan lähde: [Yksityiskohdat](/licenses#lekt4303))
 :::
-⟪आम्⟫ : kyllä <!-- TODO: Fallback translation -->
+⟪आम्⟫ : kyllä
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
 \-⟪आयुत⟫ 3: varustettu
 
-⟪भद्र⟫ 3: hyvä, onnellinen; vokatiivi: rakas! <!-- TODO: Fallback translation -->
+⟪भद्र⟫ 3: hyvä, onnellinen; vokatiivi: rakas!
 
 ⟪समय⟫ m. (sanasta ⟪सम्⟫-⟪इ⟫): sopimus, kauppakirja, määräaika, ajankohta
 
@@ -3305,25 +3286,25 @@ Kuv.: ⟪पण्यानि⟫
 Kuv.: ⟪विपणिः⟫
 (Kuvan lähde: [Yksityiskohdat](/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: kauppia <!-- TODO: Fallback translation -->
+⟪वणिज्⟫ m.: kauppia
 
 ::: media
 ![](/images/lekt4305.webp)
 Kuv.: ⟪वणिक्⟫
 (Kuvan lähde: [Yksityiskohdat](/licenses#lekt4305))
 :::
-⟪वर⟫ 3: paras <!-- TODO: Fallback translation -->
+⟪वर⟫ 3: paras
 
 ⟪शीघ्र⟫ 3: nopea, kiireinen
 
-⟪वत्स⟫ m.: vasikka, poikanen, lapsi; vok.: rakas! <!-- TODO: Fallback translation -->
+⟪वत्स⟫ m.: vasikka, poikanen, lapsi; vok.: rakas!
 
 ::: media
 ![](/images/lekt4306.webp)
 Kuv.: ⟪वत्सः⟫
 (Kuvan lähde: [Yksityiskohdat](/licenses#lekt4306))
 :::
-⟪उत्तम⟫ 3: korkein, paras <!-- TODO: Fallback translation -->
+⟪उत्तम⟫ 3: korkein, paras
 
 ⟪अल्प⟫ 3: pieni, vähäinen
 
@@ -3335,7 +3316,7 @@ Kuv.: ⟪वत्सः⟫
 
 ⟪अधिक⟫ 3: ylimääräinen, ylijäämäinen, poikkeuksellinen
 
-⟪तर्हि⟫ : silloin, sitten; siksi, siis <!-- TODO: Fallback translation -->
+⟪तर्हि⟫ : silloin, sitten; siksi, siis
 
 ⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : punnita
 
@@ -3344,9 +3325,9 @@ Kuv.: ⟪वत्सः⟫
 Kuv.: ⟪तोलन्ति⟫
 (Kuvan lähde: [Yksityiskohdat](/licenses#lekt4307))
 :::
-⟪कर्गल⟫ n.: paperi <!-- TODO: Fallback translation -->
+⟪कर्गल⟫ n.: paperi
 
-⟪संपुट⟫ m.: purkki (tässä: paketti, kimppu) <!-- TODO: Fallback translation -->
+⟪संपुट⟫ m.: purkki (tässä: paketti, kimppu)
 
 ⟪पुरतस्⟫ : edessä, ennen, eteen
 
@@ -3373,7 +3354,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪पश्चात्ताप⟫ m.: katkeruus
 
-⟪इत्थम्⟫ Adv.: tällä tavalla, näin <!-- TODO: Fallback translation -->
+⟪इत्थम्⟫ Adv.: tällä tavalla, näin
 
 ⟪दिन⟫ n.: päivä
 
@@ -3389,7 +3370,7 @@ Inf. ⟪द्रोतुम्⟫
 
 
 
-⟪प्रति⟫ Prefiksi: takaisin, vasten, vastaan - päin <!-- TODO: Fallback translation -->
+⟪प्रति⟫ Prefiksi: takaisin, vasten, vastaan - päin
 
 ::: indent
 esim.
@@ -3438,7 +3419,7 @@ siitä:
 Kuv.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Kuv lähde: [Details](/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : iloita jstk (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : iloita jstk (⟪तृतीयया⟫)
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -3461,7 +3442,7 @@ Kuv.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : olla iloinen jstk (⟪द्वितीयया⟫), tervehdiä iloisesti jkta, tervetulla
 
-⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : pitää, kantaa; tarjota, myöntää; pitää koossa, kesyttää, ohjata, voittaa <!-- TODO: Fallback translation -->
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : pitää, kantaa; tarjota, myöntää; pitää koossa, kesyttää, ohjata, voittaa
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
@@ -3482,7 +3463,7 @@ PPP ⟪आयत⟫ 3: pitkälle ojitettu
 Kuv.: ⟪आयतो⟫ ⟪मरुः⟫
 (Kuv lähde: [Details](/licenses#lekt4406))
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : tarjota, antaa, luovuttaa <!-- TODO: Fallback translation -->
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : tarjota, antaa, luovuttaa
 
 ⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : kietoa yhteen, sitoa kiinni, kesyttää
 
@@ -3505,7 +3486,7 @@ siitä:
 Kuv.: ⟪यत्नेन⟫
 (Kuv lähde: [Details](/licenses#lekt4407))
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (sivumuoto sanalle ⟪लभ्⟫): tarttua <!-- TODO: Fallback translation -->
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (sivumuoto sanalle ⟪लभ्⟫): tarttua
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
@@ -3516,42 +3497,26 @@ PPP ⟪रब्ध⟫
 Inf. ⟪रब्धुम्⟫ 
 Absol. -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : koskea, aloittaa, ryhtyä <!-- TODO: Fallback translation -->
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : koskea, aloittaa, ryhtyä
 
 ⟪प्रव्रज्या⟫ f. (sanasta ⟪प्र⟫-⟪व्रज्⟫): poistuminen kodista asunnottomuuteen; seremonia, jolla tulee buddhalaiseksi novitsiksi (pal: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Katso:
-
-**Payer, Alois (1944–):** Vinayamukha : Sanghansääntöjen ja sanghalain peruskäsitteet Theravāda-koulukunnassa. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Kuv.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Kuv lähde: [Details](/licenses#lekt4408))
 :::
-::: deleteme-box
-Katso: <!-- TODO: Fallback translation -->
-
-**Payer, Alois (1944–):** Vinayamukha : Sanghansääntöjen ja sanghalain peruskäsitteet Theravāda-koulukunnassa. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Kuv.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Kuv lähde: [Details](/licenses#lekt4408))
-:::
-::: deleteme-box
-Katso: <!-- TODO: Fallback translation -->
-
-**Payer, Alois (1944–):** Vinayamukha : Sanghansääntöjen ja sanghalain peruskäsitteet Theravāda-koulukunnassa. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm) <!-- TODO: Fallback translation -->
-
 :::
 ::: media
 ![](/images/lekt4408.webp)
 Kuv.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Kuvälähteet: [Details](/licenses#lekt4408))
 :::
-## Oppitunti 45 <!-- TODO: Fallback translation -->
+## Oppitunti 45
 
 
 
@@ -3561,7 +3526,7 @@ Kuv.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 ⟪वा⟫ ... ⟪वा⟫ : joko ... tai
 
-## Oppitunti 46 <!-- TODO: Fallback translation -->
+## Oppitunti 46
 
 
 
@@ -3575,10 +3540,10 @@ Kuv.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 tästä:
 ⟪समम्⟫ Adv.: samalla tavalla, yhtä aikaa (⟪तृतीयया⟫), tasaisesti
 ⟪समता⟫ f.: tasapainoisuus
-⟪विषम⟫ 3: epätasainen, tasoton, paha <!-- TODO: Fallback translation -->
+⟪विषम⟫ 3: epätasainen, tasoton, paha
 
 :::
-⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : tarttua, ottaa kiinni, käsittää <!-- TODO: Fallback translation -->
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : tarttua, ottaa kiinni, käsittää
 
 ::: indent
 Perf. Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
@@ -3599,7 +3564,7 @@ tästä:
 6. ⟪शुक्रः⟫ = Venus
 7. ⟪शनिः⟫ = Saturnus
 8. ⟪राहुः⟫
-9. ⟪केतुः⟫ <!-- TODO: Fallback translation -->
+9. ⟪केतुः⟫
 
 :::
 Katso ⟪राहु⟫ ja ⟪केतु⟫:
@@ -3625,7 +3590,7 @@ Kuv.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
 Kuv.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
 (Kuvälähteet: [Details](/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : tyytyä, olla tyytyväinen jhk (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : tyytyä, olla tyytyväinen jhk (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -3636,7 +3601,7 @@ PPP ⟪तुष्ट⟫
 Inf. ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : taivuttaa, kumartaa, kallistaa, kumartaa <!-- TODO: Fallback translation -->
+⟪नम्⟫ 1P ⟪नमति⟫ : taivuttaa, kumartaa, kallistaa, kumartaa
 
 ::: indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
@@ -3652,7 +3617,7 @@ Inf. ⟪नन्तुम्⟫
 Kuv.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
 (Kuvälähteet: [Details](/licenses#lekt4607))
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : valloittaa, nousta ylös <!-- TODO: Fallback translation -->
+⟪रुह्⟫ 1P ⟪रोहति⟫ : valloittaa, nousta ylös
 
 ::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
@@ -3668,7 +3633,7 @@ Inf. ⟪रोढुम्⟫
 Kuv.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
 (Kuvälähteet: [Details](/licenses#lekt4606))
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : huutaa, kutsua paikalle <!-- TODO: Fallback translation -->
+⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : huutaa, kutsua paikalle
 
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
@@ -3687,7 +3652,7 @@ Kuv.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 :::
 ::: indent
-1 ⟪महामात्र⟫ m. "Elefantentemmes"; ⟪चरिष्णु⟫ 3 "liikkuva", ⟪दूरशब्द⟫ m. "etäpuhe, puhelin" » ⟪चरिष्णुदूरशब्द⟫ "matkapuhelin" (sanamuodostus: A. Payer) <!-- TODO: Fallback translation -->
+1 ⟪महामात्र⟫ m. "Elefantentemmes"; ⟪चरिष्णु⟫ 3 "liikkuva", ⟪दूरशब्द⟫ m. "etäpuhe, puhelin" » ⟪चरिष्णुदूरशब्द⟫ "matkapuhelin" (sanamuodostus: A. Payer)
 
 :::
 ⟪विभ्रम⟫ m.: edestakainen kävely
@@ -3713,7 +3678,7 @@ siitä:
 Kuv.: [⟪श्रान्तः⟫](/licenses#lekt4609)
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt4609))
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : nojata, tukeutua, löytää tuki, mennä jonkun luo (⟪द्वितीयया⟫, ⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : nojata, tukeutua, löytää tuki, mennä jonkun luo (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
@@ -3742,7 +3707,7 @@ siitä:
 Kuv.: [⟪सङ्गः⟫](/licenses#lekt4610)
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt4610))
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : juosta, kiirehtiä <!-- TODO: Fallback translation -->
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : juosta, kiirehtiä
 
 ::: indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
@@ -3784,7 +3749,7 @@ Absol. -⟪लम्ब्य⟫
 Kuv.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : ripustaa johonkin (⟪द्वितीयया⟫) <!-- TODO: Fallback translation -->
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : ripustaa johonkin (⟪द्वितीयया⟫)
 
 ⟪यदि⟫ konjunktio:  jos
 
@@ -3794,7 +3759,7 @@ Kuv.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/lic
 PPP ⟪परिभूत⟫ 3: voitettu, nöyryytetty, alentunut
 
 :::
-⟪नि⟫ preverb: alas, alaspäin, sisään, taaksepäin <!-- TODO: Fallback translation -->
+⟪नि⟫ preverb: alas, alaspäin, sisään, taaksepäin
 
 ::: indent
 esim.
@@ -3808,7 +3773,7 @@ esim.
 Kuv.: [⟪भोः⟫](/licenses#lekt4611)
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt4611))
 :::
-## Oppitunti 48 <!-- TODO: Fallback translation -->
+## Oppitunti 48
 
 
 
@@ -3820,11 +3785,11 @@ Kuv.: [⟪भोः⟫](/licenses#lekt4611)
 
 ⟪अद्य⟫ : tänään
 
-⟪लघु⟫ 3: kevyt (ei raskas, ei vaikea), nopea, lyhyt (ilmaisussa) <!-- TODO: Fallback translation -->
+⟪लघु⟫ 3: kevyt (ei raskas, ei vaikea), nopea, lyhyt (ilmaisussa)
 
 ⟪व्याकरण⟫ n.: kielioppi (sanasta ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: jänne ; kudontakone, kudekangas; perusta, normi, sääntö ; oppi, oppikirja ; tantra ; mantrakaava; keino, temppu, lääkeaine ; hallitus, auktoriteetti <!-- TODO: Fallback translation -->
+⟪तन्त्र⟫ n.: jänne ; kudontakone, kudekangas; perusta, normi, sääntö ; oppi, oppikirja ; tantra ; mantrakaava; keino, temppu, lääkeaine ; hallitus, auktoriteetti
 
 
 ::: media
@@ -3873,7 +3838,7 @@ Kuv.: ⟪कुमारः⟫
 Thaipusam-juhla = தைப்பூசம், Batu Caves, Malaysia
 (Kuväläde: [Details](/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: tyttö, tytär <!-- TODO: Fallback translation -->
+⟪कुमारी⟫ f.: tyttö, tytär
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -3881,7 +3846,7 @@ Kuv.: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Kuväläde: [Details](/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: lapsuus <!-- TODO: Fallback translation -->
+⟪कौमर⟫ n.: lapsuus
 
 ⟪यौवन⟫ n.: nuoruus
 
@@ -3893,7 +3858,7 @@ Kuv.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Kuväläde: [Details](/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (korkea) ikä <!-- TODO: Fallback translation -->
+⟪स्थाविर⟫ n.: (korkea) ikä
 
 ⟪वाच्य⟫ 3: myös: moitittava
 
@@ -3905,7 +3870,7 @@ Kuv.: ⟪सूक्ष्मम्⟫
 Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (Kuväläde: [Details](/licenses#lekt4808))
 :::
-⟪प्रसङ्ग⟫ m.: kiinnittyminen, taipumus ; tilaisuus <!-- TODO: Fallback translation -->
+⟪प्रसङ्ग⟫ m.: kiinnittyminen, taipumus ; tilaisuus
 
 ⟪विशेष⟫ m.: ero, erityispiirre
 
@@ -3921,7 +3886,7 @@ Kuv.: ⟪मम⟫ ⟪जाया⟫
 (Kuva: Payer)
 (Kuväläde: [Details](/licenses#lekt4809))
 :::
-## Oppitunti 49 <!-- TODO: Fallback translation -->
+## Oppitunti 49
 
 
 
@@ -3933,12 +3898,12 @@ Kuv.: ⟪मम⟫ ⟪जाया⟫
 
 ⟪ह्रस्व⟫ 3: lyhyt
 
-⟪आयुस्⟫ n.: elinikä (täysi elinikä, jonka voi elää, jos mikään ei keskeytä) ; <!-- TODO: Fallback translation -->
+⟪आयुस्⟫ n.: elinikä (täysi elinikä, jonka voi elää, jos mikään ei keskeytä) ;
 
 ::: indent
 siitä:
 
-⟪आयुर्वेद⟫ m.: Intian perinteinen lääketieteellinen järjestelmä <!-- TODO: Fallback translation -->
+⟪आयुर्वेद⟫ m.: Intian perinteinen lääketieteellinen järjestelmä
 
 katso:
 
@@ -3946,7 +3911,7 @@ katso:
 ::: indent
 **Carakasaṃhitā:** Valittuja tekstejä Carakasaṃhitāsta / kääntänyt ja selittänyt Alois Payer (1944–). -- 0. Johdanto. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : heittää, heilauttaa <!-- TODO: Fallback translation -->
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : heittää, heilauttaa
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -3986,7 +3951,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Kuv.: ⟪कुलूहलम्⟫
 (Kuv lähde: [Details](/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: koko, täydellinen <!-- TODO: Fallback translation -->
+⟪कृत्स्न⟫ 3: koko, täydellinen
 
 ⟪परिचय⟫ m.: tuttavuus
 
@@ -3998,9 +3963,9 @@ Kuv.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, 11. vuosisata
 (Kuv lähde: [Details](/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: toive <!-- TODO: Fallback translation -->
+⟪वर⟫ m.n.: toive
 
-⟪उत⟫ Indekl.: ja, myös, tai <!-- TODO: Fallback translation -->
+⟪उत⟫ Indekl.: ja, myös, tai
 
 ⟪विहंग⟫ m.: lintu ("ilman स्-unelmaan - विह - mennessä")
 
@@ -4009,7 +3974,7 @@ Kuv.: ⟪उत्तमा⟫ ⟪काला⟫
 Kuv.: ⟪विहंगः⟫
 (Kuv lähde: [Details](/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: vaate, ulkonäkö, ulkoasu <!-- TODO: Fallback translation -->
+⟪वेष⟫ m.: vaate, ulkonäkö, ulkoasu
 
 ::: media
 ![](/images/lekt4904.webp)
@@ -4017,7 +3982,7 @@ Kuv.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
 (Kuv lähde: [Details](/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: peitto, piilopaikka <!-- TODO: Fallback translation -->
+⟪छन्न⟫ n.: peitto, piilopaikka
 
 ⟪पञ्जर⟫ n.: häkki
 
@@ -4027,13 +3992,13 @@ Kuv.: ⟪पञ्जरम्⟫
 Ennustaja parvekan kanssa häkissä: papukaija vetää lippuja, joissa on kohtalo Mysore
 (Kuv lähde: [Details](/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: alin taso [Dalit](http://de.wikipedia.org/wiki/Dalit) <!-- TODO: Fallback translation -->
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: alin taso [Dalit](http://de.wikipedia.org/wiki/Dalit)
 
 ⟪स्वयम्⟫ Indekl.: itse, automaattisesti
 
 ⟪अवनि⟫ f.: maa
 
-⟪मुहूर्त⟫ m.,n.: hetki, silmäys, oikea hetki <!-- TODO: Fallback translation -->
+⟪मुहूर्त⟫ m.,n.: hetki, silmäys, oikea hetki
 
 ⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : kuvitella, ajatella
 
@@ -4054,9 +4019,9 @@ Kuv.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Kuv lähde: [Details](/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: kaukaisin, korkein ; ⟪पञ्चम्या⟫ : parempi kuin, korkeampi kuin <!-- TODO: Fallback translation -->
+⟪परम⟫ 3: kaukaisin, korkein ; ⟪पञ्चम्या⟫ : parempi kuin, korkeampi kuin
 
 ⟪शिशु⟫ m.: lapsi, pentu
 
@@ -4066,7 +4031,7 @@ Kuv.: ⟪गजशिशुः⟫
 Sri Lanka
 (Kuv lähde: [Details](/licenses#lekt4906))
 :::
-## Oppitunti 50 <!-- TODO: Fallback translation -->
+## Oppitunti 50
 
 
 
@@ -4076,13 +4041,13 @@ Sri Lanka
 
 ⟪ध्रुव⟫ 3: kiinteä, muuttumaton
 
-⟪निषेक⟫ m.: roiske, hedelmöitys, neste, siemenneste, seremonia hedelmöityksessä <!-- TODO: Fallback translation -->
+⟪निषेक⟫ m.: roiske, hedelmöitys, neste, siemenneste, seremonia hedelmöityksessä
 
 ⟪पण्डित⟫ 3: viisas, älykäs, oppinut
 
 ⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : halveksia, loukata
 
-⟪मन्त्रिन्⟫ 3: neuvova ; m.: neuvonantaja, ministeri, ministeri <!-- TODO: Fallback translation -->
+⟪मन्त्रिन्⟫ 3: neuvova ; m.: neuvonantaja, ministeri, ministeri
 
 ::: media
 ![](/images/lekt5001.jpg)
@@ -4090,9 +4055,9 @@ Kuv.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), liittovaltion ministeri Tiede- ja teknologiaministeriössä sekä Maatieteiden ministeriössä (vuodesta 2006)
 (Kuv lähde: [Details](/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: salaisuus, yksinäisyys <!-- TODO: Fallback translation -->
+⟪रहस्⟫ n.: salaisuus, yksinäisyys
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : tulla vahingoitetuksi, epäonnistua, vaurioittaa <!-- TODO: Fallback translation -->
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : tulla vahingoitetuksi, epäonnistua, vaurioittaa
 
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
@@ -4114,7 +4079,7 @@ Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
 :::
 ⟪विधि⟫ m.: myös: kohtalo (sanoista ⟪विधा⟫)
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : sataa (usein sanan ⟪कर्तृ⟫ -- jumala tai pilvi -- kanssa) <!-- TODO: Fallback translation -->
+⟪वृष्⟫ 1P ⟪वर्षति⟫ : sataa (usein sanan ⟪कर्तृ⟫ -- jumala tai pilvi -- kanssa)
 
 ::: indent
 Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
@@ -4133,7 +4098,7 @@ Kuv.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Monsuunin saapuminen, Bangalore ಬೆಂಗಳೂರು
 (Kuvälähde: [Details](/licenses#lekt5002))
 :::
-⟪संयक्⟫ Adv.: oikein, totuudenmukaisesti, asianmukaisella tavalla; täysin, kokonaan <!-- TODO: Fallback translation -->
+⟪संयक्⟫ Adv.: oikein, totuudenmukaisesti, asianmukaisella tavalla; täysin, kokonaan
 
 ⟪आदित्य⟫ m.: Aurinko; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya): tietty jumalten luokka
 
@@ -4142,9 +4107,9 @@ Monsuunin saapuminen, Bangalore ಬೆಂಗಳೂರು
 Kuv.: ⟪आदित्यः⟫
 (Kuvälähde: [Details](/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: jokainen, kaikki <!-- TODO: Fallback translation -->
+⟪सर्व⟫ 3: jokainen, kaikki
 
-Taivutus kuten ⟪यद्⟫ (poikkeus: nominatiivin ja akkusatiivin yksikön neutrumi) <!-- TODO: Fallback translation -->
+Taivutus kuten ⟪यद्⟫ (poikkeus: nominatiivin ja akkusatiivin yksikön neutrumi)
 
 ::: grammar-box
 | | Singularis:br⟪एकवचनम्⟫ || || Pluralis:br⟪बहुवचनम्⟫ || ||
@@ -4160,9 +4125,9 @@ Taivutus kuten ⟪यद्⟫ (poikkeus: nominatiivin ja akkusatiivin yksikön 
 :::
 ⟪वै⟫ : partikkeli, joka korostaa edeltävää sanaa: totisesti, tosiaan, mutta
 
-⟪इह⟫ Adv.: täällä, maan päällä, tänne; nyt. Substantiivien edellä lokatiivissa (⟪षष्ठी⟫) merkitys sama kuin ⟪अस्मिन्⟫, ⟪अस्याम्⟫ <!-- TODO: Fallback translation -->
+⟪इह⟫ Adv.: täällä, maan päällä, tänne; nyt. Substantiivien edellä lokatiivissa (⟪षष्ठी⟫) merkitys sama kuin ⟪अस्मिन्⟫, ⟪अस्याम्⟫
 
-⟪कल्प⟫ m: säädös, tapa, rituaali; [maailmankausi](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (sanoista ⟪कॢप्⟫) <!-- TODO: Fallback translation -->
+⟪कल्प⟫ m: säädös, tapa, rituaali; [maailmankausi](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (sanoista ⟪कॢप्⟫)
 
 ⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫): kaunis
 
@@ -4171,7 +4136,7 @@ Taivutus kuten ⟪यद्⟫ (poikkeus: nominatiivin ja akkusatiivin yksikön 
 Kuv.: ⟪कल्याणी⟫
 (Kuvälähde: [Details](/licenses#lekt5003))
 :::
-⟪कु⟫-: yhdyssanan etuliitteenä: huono <!-- TODO: Fallback translation -->
+⟪कु⟫-: yhdyssanan etuliitteenä: huono
 
 ::: media
 ![](/images/lekt5004.webp)
@@ -4179,17 +4144,17 @@ Kuv.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Kuvälähde: [Details](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫: nähdä <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫: nähdä
 
 ::: indent
 Perfekti ⟪चचक्षे⟫
 ei käytössä muissa aikamuodoissa
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫: kertoa, pitää jstkäkin nimellä, kutsua <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫: kertoa, pitää jstkäkin nimellä, kutsua
 
-⟪देश⟫ m.: paikka, tila, maa, seutu <!-- TODO: Fallback translation -->
+⟪देश⟫ m.: paikka, tila, maa, seutu
 
-## Oppitunti 51 <!-- TODO: Fallback translation -->
+## Oppitunti 51
 
 
 
@@ -4206,17 +4171,17 @@ ei käytössä muissa aikamuodoissa
 Kuv.:
 (Kuvälähde: [Details](/licenses#lekt5105))
 :::
-⟪अतिथि⟫ m.: vieras <!-- TODO: Fallback translation -->
+⟪अतिथि⟫ m.: vieras
 
-⟪अभ्यन्तर⟫ 3: sisällä oleva, lähin; m. läheisin jäsen, alkuperäisasukas <!-- TODO: Fallback translation -->
+⟪अभ्यन्तर⟫ 3: sisällä oleva, lähin; m. läheisin jäsen, alkuperäisasukas
 
 
 ⟪अरण्य⟫ n.: villi, metsä
 
-⟪ऋतु⟫ m.: jaksottainen prosessi, vuodenaika, aikajakso, kuukautiset, aika, jolloin nainen on hedelmällinen ja hänellä on oikeus aviomiehensä kanssakäymiseen. <!-- TODO: Fallback translation -->
+⟪ऋतु⟫ m.: jaksottainen prosessi, vuodenaika, aikajakso, kuukautiset, aika, jolloin nainen on hedelmällinen ja hänellä on oikeus aviomiehensä kanssakäymiseen.
 
 ::: indent
-Katso ⟪ऋतु⟫ Manu III, 45–48: sen mukaan ⟪ऋतु⟫ kestää 16 päivää (vaihtoehtoisen käännöksen mukaan: 20 päivää) kuukautisten alusta lukien, ja ensimmäisinä neljänä päivänä kuukautisten alkamisen jälkeen sukupuolikosketus on kielletty (vaihtoehtoisen käännöksen mukaan: ensimmäisinä kahdeksana (4 + 4) päivänä), samoin kuin 11. (tai 15.) ja 13. (tai 18.) päivänä. Parillisina päivinä nainen raskautuu poikien kanssa, parittomina tyttärien. Seuraavassa oletetaan ⟪ऋतु⟫ yhteensä 16 päivää (ei vaihtoehtoista käännöstä), kuten useimmat kotimaiset kommentaattorit tekevät, ja mikä oli siis vallitseva näkemys. <!-- TODO: Fallback translation -->
+Katso ⟪ऋतु⟫ Manu III, 45–48: sen mukaan ⟪ऋतु⟫ kestää 16 päivää (vaihtoehtoisen käännöksen mukaan: 20 päivää) kuukautisten alusta lukien, ja ensimmäisinä neljänä päivänä kuukautisten alkamisen jälkeen sukupuolikosketus on kielletty (vaihtoehtoisen käännöksen mukaan: ensimmäisinä kahdeksana (4 + 4) päivänä), samoin kuin 11. (tai 15.) ja 13. (tai 18.) päivänä. Parillisina päivinä nainen raskautuu poikien kanssa, parittomina tyttärien. Seuraavassa oletetaan ⟪ऋतु⟫ yhteensä 16 päivää (ei vaihtoehtoista käännöstä), kuten useimmat kotimaiset kommentaattorit tekevät, ja mikä oli siis vallitseva näkemys.
 
 Koska ovulaatio tapahtuu 14 päivää ennen kuukautisten alkua, hedelmällisen jakson määrittämisessä hedelmällisyys on lähes "taattu" kuukautisvälin ollessa 19–30 päivää. Kielletyt päivät (11. ja 13.) parantavat todennäköisyyttä sukupuolikosketukselle 12. ja 14. päivänä, eli raskauden todennäköisyyttä 28 päivän syklissä (siemennesteen elinikä naisessa on noin 3 päivää). Nämä määräykset ovat kuin positiivinen käyttö Knaus–Ogino -menetelmästä.
 :::
@@ -4225,7 +4190,7 @@ Koska ovulaatio tapahtuu 14 päivää ennen kuukautisten alkua, hedelmällisen j
 Kuv.: ⟪ऋतुः⟫
 (Kuvan lähde: [Yksityiskohdat](/licenses#lekt5106))
 :::
-⟪एकत्र⟫ Adv.: yhdessä paikassa <!-- TODO: Fallback translation -->
+⟪एकत्र⟫ Adv.: yhdessä paikassa
 
 ⟪जटा⟫ f.: hiuspunos (asketin hiustyyli)
 
@@ -4235,7 +4200,7 @@ Kuv.: ⟪जटा⟫
 ⟪ऋषिकेश⟫
 (Kuvan lähde: [Yksityiskohdat](/licenses#lekt5107))
 :::
-⟪तुल्य⟫ 3: yhtäläinen, verrattavissa (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
+⟪तुल्य⟫ 3: yhtäläinen, verrattavissa (⟪तृतीयया⟫)
 
 ⟪तरय⟫ 3 (f.: ⟪तरयी⟫): kolmijakoinen, koostuu kolmesta osasta
 
@@ -4243,7 +4208,7 @@ Kuv.: ⟪जटा⟫
 
 ⟪बाह्य⟫ 3: ulkopuolella, ulkona oleva, vieras
 
-⟪भिक्षा⟫ f.: kerjätty almu, kerjäläisen ruoka <!-- TODO: Fallback translation -->
+⟪भिक्षा⟫ f.: kerjätty almu, kerjäläisen ruoka
 
 ⟪मार्यादा⟫ f.: raja
 
@@ -4264,7 +4229,7 @@ Pass. ⟪विशिष्यते⟫ : erota jostakin (⟪पञ्चम्�
 :::
 ⟪समान⟫ 3: samanlainen, yhtäläinen, samankaltainen; m.: ikätoveri
 
-⟪स्व⟫ 3: oma, hänen (minun, sinun jne.) Deklinoidaan kuten ⟪सर्व⟫. Abl.Lok.sg.m.n ja Nom.pl.m:ssä sitä voidaan deklinoida myös kuten ⟪देव⟫: <!-- TODO: Fallback translation -->
+⟪स्व⟫ 3: oma, hänen (minun, sinun jne.) Deklinoidaan kuten ⟪सर्व⟫. Abl.Lok.sg.m.n ja Nom.pl.m:ssä sitä voidaan deklinoida myös kuten ⟪देव⟫:
 
 ::: indent
 Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ :sig[⟪स्वात्⟫]
@@ -4286,7 +4251,7 @@ Kuv.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
 (Kuvan lähde: [Yksityiskohdat](/licenses#lekt5108))
 :::
-⟪उपहार⟫ m.: esittäminen, uhri, lahja <!-- TODO: Fallback translation -->
+⟪उपहार⟫ m.: esittäminen, uhri, lahja
 
 ⟪मधु⟫ n.: hunaja, makea juoma, mead (hunajaviini)
 
@@ -4294,7 +4259,7 @@ Kolkata = কলকাতা
 ![](/images/lekt5109.webp)
 Kuv.: ⟪मधु⟫
 City Palace, ⟪उदयपुर⟫
-(Kuvan lähde: [Yksityiskohdat](/licenses#lekt5109)) <!-- TODO: Fallback translation -->
+(Kuvan lähde: [Yksityiskohdat](/licenses#lekt5109))
 
 :::
 ⟪मांस⟫ n.: liha
@@ -4315,7 +4280,7 @@ Kuv.: ⟪शिवा⟫
 _Canis aureus_, Kalatop Khajjiar Sanctuary
 (Kuvälähteet: [Details](/licenses#lekt5111))
 :::
-⟪रुत⟫ n.: huuto <!-- TODO: Fallback translation -->
+⟪रुत⟫ n.: huuto
 
 ⟪कौशिक⟫ m.: pöllö
 
@@ -4325,7 +4290,7 @@ Kuv.: ⟪कौशिकः⟫
 Brahma-pöllö (_Athene brama_), Mahesana = મહેસાણા
 (Kuvälähteet: [Details](/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: lintu <!-- TODO: Fallback translation -->
+⟪शकुनि⟫ m.: lintu
 
 ⟪श्वन्⟫ m.: koira
 
@@ -4340,7 +4305,7 @@ Kuv.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Kuvälähteet: [Details](/licenses#lekt5113))
 :::
-⟪परिचित⟫ 3: tuttu, tunnettu <!-- TODO: Fallback translation -->
+⟪परिचित⟫ 3: tuttu, tunnettu
 
 ⟪अटवी⟫ f.: metsä
 
@@ -4354,7 +4319,7 @@ Kuv.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Kuvälähteet: [Details](/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: raaka, julma <!-- TODO: Fallback translation -->
+⟪क्रूर⟫ 3: raaka, julma
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : voidella, voitelevat
 
@@ -4373,7 +4338,7 @@ Kuv.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Kuvälähteet: [Details](/licenses#lekt5115))
 :::
-⟪भुजंग⟫ m.: käärme <!-- TODO: Fallback translation -->
+⟪भुजंग⟫ m.: käärme
 
 ::: media
 ![](/images/lekt5116.webp)
@@ -4381,7 +4346,7 @@ Kuv.: ⟪भुजंगः⟫
 Ketomamba (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Kuvälähteet: [Details](/licenses#lekt5116))
 :::
-⟪सायक⟫ m.: nuoli <!-- TODO: Fallback translation -->
+⟪सायक⟫ m.: nuoli
 
 ⟪उत्साद⟫ m.: tuho, häviö
 
@@ -4397,7 +4362,7 @@ Ketomamba (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 
 ⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
 
-⟪बलि⟫ m.:  maksu, lahja, verotus <!-- TODO: Fallback translation -->
+⟪बलि⟫ m.:  maksu, lahja, verotus
 
 ⟪मणि⟫ m.: jalokivi
 
@@ -4409,14 +4374,14 @@ Hope Diamond Gunturista = ಗುಂತೂರು, nykyään Smithsonian Museum of
 :::
 ⟪वन⟫ n.: metsä
 
-⟪मद⟫ m.: myös "parveiluneste" norsulta (ks. [Musht](http://en.wikipedia.org/wiki/Musth)) <!-- TODO: Fallback translation -->
+⟪मद⟫ m.: myös "parveiluneste" norsulta (ks. [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
 ![](/images/lekt5117.webp)
 Kuv.: ⟪मदः⟫
 (Kuvälähteet: [Details](/licenses#lekt5117))
 :::
-⟪राग⟫ m.: myös: väri, punainen väri <!-- TODO: Fallback translation -->
+⟪राग⟫ m.: myös: väri, punainen väri
 
 ⟪कालन⟫ n.: metsä
 
@@ -4433,7 +4398,7 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 ⟪शबर⟫ .:  erisnimi ei-ariakkalaisesta heimosta
 
-## Oppitunti 52 <!-- TODO: Fallback translation -->
+## Oppitunti 52
 
 
 
@@ -4458,7 +4423,7 @@ Kuv.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Kuvälähteet: [Details](/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: sisällä, sisäpuolella ; postpositio genetiivin kanssa lokatiivi (⟪षष्टी⟫, ⟪सप्तमी⟫): sisällä, keskellä ; postpositio genetiivin kanssa ablatiivi (⟪षष्ठी⟫, ⟪पञ्चमी⟫): ulos ... lähtien <!-- TODO: Fallback translation -->
+⟪अन्तर्⟫ Adv.: sisällä, sisäpuolella ; postpositio genetiivin kanssa lokatiivi (⟪षष्टी⟫, ⟪सप्तमी⟫): sisällä, keskellä ; postpositio genetiivin kanssa ablatiivi (⟪षष्ठी⟫, ⟪पञ्चमी⟫): ulos ... lähtien
 
 ⟪अन्योन्य⟫ 3: vastavuoroinen, toisilleen
 
@@ -4468,7 +4433,7 @@ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 ::: indent
 PPP ⟪विपरीत⟫ 3: väärä, virheellinen
 :::
-⟪त्रि⟫ 3: kolme <!-- TODO: Fallback translation -->
+⟪त्रि⟫ 3: kolme
 
 ::: grammar-box
 | | **Maskuliini:br⟪पुंस्⟫** | **Neutri:br⟪नपुंसकम्⟫** | **Feminini:br⟪स्त्री⟫** |
@@ -4481,7 +4446,7 @@ PPP ⟪विपरीत⟫ 3: väärä, virheellinen
 | **6. Genetiivi:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. Lokatiivi:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postpositio ja prefiksi substantiivien ja verbien yhteydessä: ulos, pois, ulospäin, esiin, pois, ilman - <!-- TODO: Fallback translation -->
+⟪निस्⟫ Postpositio ja prefiksi substantiivien ja verbien yhteydessä: ulos, pois, ulospäin, esiin, pois, ilman -
 
 ⟪पीड्⟫ 10P ⟪पीडयति⟫ : painaa, kiduttaa; ahdistaa, piirittää, vaivata
 
@@ -4491,16 +4456,16 @@ Kuv.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt5212))
 :::
-⟪पर⟫ 3: (taivutus kuten ⟪सर्व⟫) kaukana, vieras, korkeampi (⟪पञ्चम्या⟫), äärimmäinen, korkein; toinen, vieras, vihollinen; m.: vieras <!-- TODO: Fallback translation -->
+⟪पर⟫ 3: (taivutus kuten ⟪सर्व⟫) kaukana, vieras, korkeampi (⟪पञ्चम्या⟫), äärimmäinen, korkein; toinen, vieras, vihollinen; m.: vieras
 
 ::: indent
 siitä:
 
 ⟪परम्⟫ Adv.: korkeassa määrin, sen jälkeen, myöhemmin, mutta, kuitenkin
 :::
-⟪प्रति⟫ Postpositio (⟪द्वितीयया⟫): luo - päin, kohti, suhteessa, nähden <!-- TODO: Fallback translation -->
+⟪प्रति⟫ Postpositio (⟪द्वितीयया⟫): luo - päin, kohti, suhteessa, nähden
 
-⟪प्रधान⟫ 3: pääasiallinen, paras; n.: tärkein <!-- TODO: Fallback translation -->
+⟪प्रधान⟫ 3: pääasiallinen, paras; n.: tärkein
 
 ::: media
 ![](/images/lekt5213.webp)
@@ -4508,7 +4473,7 @@ Kuv.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: ahneus, haluttomuus <!-- TODO: Fallback translation -->
+⟪लौल्य⟫ n.: ahneus, haluttomuus
 
 ⟪वर्ग⟫ m.: kohta, osio, joukko
 
@@ -4526,7 +4491,7 @@ PPP ⟪उशित⟫
 Infinitiivi ⟪वशितुम्⟫
 Absolutiivi -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : puhaltaa, tuueta <!-- TODO: Fallback translation -->
+⟪वा⟫ 2P ⟪वाति⟫ : puhaltaa, tuueta
 
 ::: indent
 Perfekti IV ⟪ववौ⟫
@@ -4534,13 +4499,13 @@ Futurum ⟪वास्यति⟫
 Passiivi ⟪वायते⟫
 Kausatiivi ⟪वापयति⟫
 PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
-Infinitiivi ⟪वातुम्⟫ <!-- TODO: Fallback translation -->
+Infinitiivi ⟪वातुम्⟫
 
 siitä:
 
 ⟪वात⟫ m.: tuuli
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : kääntää, pyöräyttää; torjua, sulkea pois <!-- TODO: Fallback translation -->
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : kääntää, pyöräyttää; torjua, sulkea pois
 
 ::: indent
 Perfekti II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
@@ -4551,9 +4516,9 @@ Kausatiivi PPP ⟪वर्जित⟫: menettää jostakin, vapaa jostakin
 PPP ⟪वृक्त⟫
 Infinitiivi ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: toiminta, liike, yhteys, liikenne, asia, kauppa, (oikeudenkäynti)prosessi <!-- TODO: Fallback translation -->
+⟪व्यवहार⟫ m.: toiminta, liike, yhteys, liikenne, asia, kauppa, (oikeudenkäynti)prosessi
 
-⟪शील⟫ n.: tapa, tottumus, luonto, karakteri, hyvä tottumus = moraali <!-- TODO: Fallback translation -->
+⟪शील⟫ n.: tapa, tottumus, luonto, karakteri, hyvä tottumus = moraali
 
 ⟪सूर्य⟫ m.: aurinko
 
@@ -4566,7 +4531,7 @@ Passiivi ⟪सेव्यते⟫
 Kausatiivi ⟪सेवयति⟫
 PPP ⟪सेवित⟫
 Infinitiivi ⟪सेवितुम्⟫
-Absolutiivi -⟪सेव्य⟫ <!-- TODO: Fallback translation -->
+Absolutiivi -⟪सेव्य⟫
 
 siitä:
 
@@ -4586,7 +4551,7 @@ siitä:
 :::
 ⟪कोविद⟫ 3: perehtynyt (johonkin, ⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
 
-⟪याम⟫ m.: yövuoro (kerrallaan kolme tuntia) <!-- TODO: Fallback translation -->
+⟪याम⟫ m.: yövuoro (kerrallaan kolme tuntia)
 
 
 ⟪परंपरा⟫ f.: keskeytymätön sarja
@@ -4602,7 +4567,7 @@ Pass. ⟪च्यूयते⟫
 Kaus. ⟪च्यावयति⟫
 PPP ⟪च्युत⟫
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : tunnistaa, tuntea, havaita, kokea <!-- TODO: Fallback translation -->
+⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : tunnistaa, tuntea, havaita, kokea
 
 ⟪चक्र⟫ n.: pyörä
 
@@ -4612,7 +4577,7 @@ Kuv.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: banaanipuu (_Musa_-laji) <!-- TODO: Fallback translation -->
+⟪कदली⟫ f.: banaanipuu (_Musa_-laji)
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -4620,7 +4585,7 @@ Kuv.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: ydin, sydän, olennaisuus, substanssi <!-- TODO: Fallback translation -->
+⟪सार⟫ m.n.: ydin, sydän, olennaisuus, substanssi
 
 ⟪दिव्य⟫ 3: taivaallinen, jumalellinen
 
@@ -4636,7 +4601,7 @@ Kuv.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: Indran taivas <!-- TODO: Fallback translation -->
+⟪त्रिपिष्टप⟫ n.: Indran taivas
 
 ⟪मार⟫ m.: personoitu pahuus, personoitu houkutus / manipulointi, piru
 
@@ -4646,7 +4611,7 @@ Kuv.:
 Amaravati = అమరావతి, 2. jaa.
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: joku, joka haluaa ymmärtää täysin <!-- TODO: Fallback translation -->
+⟪विजिज्ञासु⟫ 3: joku, joka haluaa ymmärtää täysin
 
 ⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : suojella, pelastaa
 
@@ -4662,369 +4627,367 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt0201**: Esitys eurooppalaisen keskiajan säätyjaosta (puukaiverrus 1400-luvun lopulta). Teksti: * Papistonsääty (~Brāhmaṇa): Tu supplex ora = Rukoile nöyrästi! * Aatelissääty (~Kṣatriya): Tu protege = Suojele! * Talonpoikais- ja kauppiaidsääty (~Vaiśya/Śūdra): Tuque labora = Ja työskentele! Kolme säätyä pukeutuvat kunkin säätyyn kuuluvan asun. Yllä — jota siten kuvataan jumalallisesti halutuksi — hallitsee Kristus. [Kuv lähde: Meyer, Werner: Hirsebrei und Hellebarde : keskiaikaisen elämän jäljillä Sveitsissä . -- 2 painos. -- Olten [m.m.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129]
 
-**lekt0203**: Jumala Agni, miniatyyri, 1700-luku [Kuv lähde: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt0203**: Jumala Agni, miniatyyri, 1700-luku [Kuv lähde: Wikipedia, Public domain]
 
 **lekt0202**: Sādhu (⟪साधु⟫), Pashupatinathin temppeli (⟪पशुपतिनाथ⟫ ⟪मन्दिर⟫), Kathmandu (⟪काठमांडौ⟫), Nepal (⟪नेपाल⟫), 2007 [Kuv lähde: Peter Akkermans, Wikipedia, GNU FDL-lisenssi]
 
-**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Kuv lähde: Wikipedia, GNU FDL-lisenssi] <!-- TODO: Fallback translation -->
+**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Kuv lähde: Wikipedia, GNU FDL-lisenssi]
 
-**lekt0501**: Jumala Kāma = kāmadeva = ⟪कामदेव⟫, 1700-luku [Kuv lähde: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt0501**: Jumala Kāma = kāmadeva = ⟪कामदेव⟫, 1700-luku [Kuv lähde: Wikipedia, Public domain]
 
-**lekt0701**: Oliko tämä vedalainen somakasvi?: käräsmato: Amanita muscaria (L.) Lam. [Kuv lähde: Wikipedia, GNU FDL-lisenssi] <!-- TODO: Fallback translation -->
+**lekt0701**: Oliko tämä vedalainen somakasvi?: käräsmato: Amanita muscaria (L.) Lam. [Kuv lähde: Wikipedia, GNU FDL-lisenssi]
 
-**lekt0809**: ⟪लिख्⟫ : intialainen teräskirjoitinvaijeri palmulehtien raapimiseen [Kuv lähde: Meyers Grosses Konversationslexikon 1905. Julkisen omaisuuden teos] <!-- TODO: Fallback translation -->
+**lekt0809**: ⟪लिख्⟫ : intialainen teräskirjoitinvaijeri palmulehtien raapimiseen [Kuv lähde: Meyers Grosses Konversationslexikon 1905. Julkisen omaisuuden teos]
 
-**lekt0810**: ⟪लिख्⟫ : batakien kirjoitustikku (Sumatra), jota todennäköisesti käytettiin myös Intiassa [Kuv lähde: Meyers Grosses Konversationslexikon 1905. Julkisen omaisuuden teos] <!-- TODO: Fallback translation -->
+**lekt0810**: ⟪लिख्⟫ : batakien kirjoitustikku (Sumatra), jota todennäköisesti käytettiin myös Intiassa [Kuv lähde: Meyers Grosses Konversationslexikon 1905. Julkisen omaisuuden teos]
 
 **lekt0903**: adhyayana = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram Madurain lähellä [Kuv lähde: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- Haettu 2008-11-23. -- Creative Commons -lisenssi (Nimeä, ei muokkaa)]
 
 
-**lekt0902**: kāru = ⟪कारु⟫, Gujarat [Källa: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Hämtad 2008-11-23. -- Creative Commons-licens (Namnangivelse, icke-kommersiell användning, inga bearbetningar)] <!-- TODO: Fallback translation -->
+**lekt0902**: kāru = ⟪कारु⟫, Gujarat [Källa: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Hämtad 2008-11-23. -- Creative Commons-licens (Namnangivelse, icke-kommersiell användning, inga bearbetningar)]
 
-**lekt1003**: Gud Varuṇa = ⟪वरुण⟫, 1600-talet [Bildkälla. Wikipedia, allmänt ägo] <!-- TODO: Fallback translation -->
+**lekt1003**: Gud Varuṇa = ⟪वरुण⟫, 1600-talet [Bildkälla. Wikipedia, allmänt ägo]
 
-**lekt1002**: En Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / av Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Bildkälla: Wikipedia, allmänt ägo] <!-- TODO: Fallback translation -->
+**lekt1002**: En Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / av Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Bildkälla: Wikipedia, allmänt ägo]
 
-**lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysore (ಮೈಸೂರು) [Bildkälla: Prakash Subbarao / Wikipedia. -- Allmänt ägo] <!-- TODO: Fallback translation -->
+**lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysore (ಮೈಸೂರು) [Bildkälla: Prakash Subbarao / Wikipedia. -- Allmänt ägo]
 
-**lekt1304**: ⟪अन्नम्⟫, Karnataka (ಕರ್ನಾಟಕ), 2005 [Bildkälla: Wikipedia, allmänt ägo] <!-- TODO: Fallback translation -->
+**lekt1304**: ⟪अन्नम्⟫, Karnataka (ಕರ್ನಾಟಕ), 2005 [Bildkälla: Wikipedia, allmänt ägo]
 
-**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Bildkälla: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Bildkälla: Wikipedia, GNU FDLicense]
 
-**lekt1405**: ⟪दीपाः⟫ [Bildkälla: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Hämtad 2008-12-01. -- Creative Commons-licens (Namnangivelse, icke-kommersiell användning, inga bearbetningar)] <!-- TODO: Fallback translation -->
+**lekt1405**: ⟪दीपाः⟫ [Bildkälla: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Hämtad 2008-12-01. -- Creative Commons-licens (Namnangivelse, icke-kommersiell användning, inga bearbetningar)]
 
-**lekt1504**: ⟪पूजा⟫ En pujaceremoni som hålls i Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), Indien, i samband med starten av ett seismiskt undersökningskontrakt. [Bildkälla: Wikiepdia, allmänt ägo] <!-- TODO: Fallback translation -->
+**lekt1504**: ⟪पूजा⟫ En pujaceremoni som hålls i Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), Indien, i samband med starten av ett seismiskt undersökningskontrakt. [Bildkälla: Wikiepdia, allmänt ägo]
 
-**lekt1505**: Indra och Sachi ridande på den gudomliga elefanten Airavata, folio från en Panchakalyanaka (Fem välsignade händelser i Jina Rishabhanathas [Adinatha] liv), cirka 1670-1680 målning; Vattenfärg, opac vattenfärg, guld och silver på papper, Bild: 9 1/8 x 15 1/8 tum (23,18 x 38,42 cm); Ark: 10 5/8 x 16 3/4 tum (26,99 x 42,55 cm. Tillverkad i: Indien, Rajasthan, Amber [Bildkälla: Wikipedia, allmänt ägo] <!-- TODO: Fallback translation -->
+**lekt1505**: Indra och Sachi ridande på den gudomliga elefanten Airavata, folio från en Panchakalyanaka (Fem välsignade händelser i Jina Rishabhanathas [Adinatha] liv), cirka 1670-1680 målning; Vattenfärg, opac vattenfärg, guld och silver på papper, Bild: 9 1/8 x 15 1/8 tum (23,18 x 38,42 cm); Ark: 10 5/8 x 16 3/4 tum (26,99 x 42,55 cm. Tillverkad i: Indien, Rajasthan, Amber [Bildkälla: Wikipedia, allmänt ägo]
 
-**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Bildkälla: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Bildkälla: Wikipedia, GNU FDLicense]
 
-**lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Bandhavgarh Nationalpark (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [Bildkälla: U.S. Fish and Wildlife Service / Wikipedia, allmänt ägo] <!-- TODO: Fallback translation -->
+**lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Bandhavgarh Nationalpark (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [Bildkälla: U.S. Fish and Wildlife Service / Wikipedia, allmänt ägo]
 
-**lekt1602**: ⟪अध्यापनम्⟫ "Detta är en speciell ceremoni i ett litet tempel i Satara (⟪सातारा⟫). Den utförs av eleverna vid Swami Muktananda Vedashala vid firandet av Mahāśivarātri. Detta är en vedisk skola, där barnen utantill de heliga texterna kallade Vedarna. Denna skola undervisar i Krishna Yajurveda och vissa delar av Samaveda. Jag skriver mitt masteravhandling om denna skola." [Bildkälla: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Hämtad 2008-12-07. -- Creative Commons-licens (Namnangivelse, icke-kommersiell användning, inga bearbetningar)] <!-- TODO: Fallback translation -->
+**lekt1602**: ⟪अध्यापनम्⟫ "Detta är en speciell ceremoni i ett litet tempel i Satara (⟪सातारा⟫). Den utförs av eleverna vid Swami Muktananda Vedashala vid firandet av Mahāśivarātri. Detta är en vedisk skola, där barnen utantill de heliga texterna kallade Vedarna. Denna skola undervisar i Krishna Yajurveda och vissa delar av Samaveda. Jag skriver mitt masteravhandling om denna skola." [Bildkälla: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Hämtad 2008-12-07. -- Creative Commons-licens (Namnangivelse, icke-kommersiell användning, inga bearbetningar)]
 
-**lekt1601**: ⟪योगी⟫ Birla Mandir, Delhi [Bildkälla: Deepak / Wikipedia ; Creative Commons-licens (Namnangivelse, delning på samma villkor)] <!-- TODO: Fallback translation -->
+**lekt1601**: ⟪योगी⟫ Birla Mandir, Delhi [Bildkälla: Deepak / Wikipedia ; Creative Commons-licens (Namnangivelse, delning på samma villkor)]
 
-**lekt1603**: ⟪अहिंसा⟫ "Handen med ett hjul på handflatan symboliserar Jainernas ed om ahimsa. Ordet i mitten är 'ahimsa'. Hjulet representerar dharmacakra, vilket står för beslutsamheten att stoppa återfödelsecykeln genom ihärdig efterföljd av sanning och icke-våld." [Bildkälla: Wikipedia, allmänt ägo] <!-- TODO: Fallback translation -->
+**lekt1603**: ⟪अहिंसा⟫ "Handen med ett hjul på handflatan symboliserar Jainernas ed om ahimsa. Ordet i mitten är 'ahimsa'. Hjulet representerar dharmacakra, vilket står för beslutsamheten att stoppa återfödelsecykeln genom ihärdig efterföljd av sanning och icke-våld." [Bildkälla: Wikipedia, allmänt ägo]
 
-**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Bildkälla: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Hämtad 2008-12-07. -- Creative Commons-licens (Namnangivelse, icke-kommersiell användning)] <!-- TODO: Fallback translation -->
+**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Bildkälla: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Hämtad 2008-12-07. -- Creative Commons-licens (Namnangivelse, icke-kommersiell användning)]
 
 
-**lekt1701**: ⟪योगासनम्⟫ [Kuv lähde: tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Haettu 2008-12-07. -- Creative Commons -lisenssi (Nimeäminen, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt1701**: ⟪योगासनम्⟫ [Kuv lähde: tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Haettu 2008-12-07. -- Creative Commons -lisenssi (Nimeäminen, ei muunnoksia)]
 
-**lekt1702**: ⟪दोग्धि⟫ [Kuv lähde: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Haettu 2008-12-07. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
+**lekt1702**: ⟪दोग्धि⟫ [Kuv lähde: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Haettu 2008-12-07. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)]
 
-**lekt1809**: ⟪कामः⟫ Kuvitus ⟪कामसूत्र⟫:n yhteyteen [Kuv lähde: Wikipedia, yleinen omistus] <!-- TODO: Fallback translation -->
+**lekt1809**: ⟪कामः⟫ Kuvitus ⟪कामसूत्र⟫:n yhteyteen [Kuv lähde: Wikipedia, yleinen omistus]
 
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Kuv lähde: Sudarshan Bhat Khandige / Wikipedia, yleinen omistus] <!-- TODO: Fallback translation -->
+**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Kuv lähde: Sudarshan Bhat Khandige / Wikipedia, yleinen omistus]
 
-**lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Kuv lähde: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Haettu 2008-12-08. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Kuv lähde: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Haettu 2008-12-08. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), perinteisessä puvussa, on tapana Keralan eteläosissa. Onappottan vierailee taloilla onam-juhlan aikana ja antaa siunausta. Viime aikoina onappottan on harvinainen näky, rajoittuen kyliin." [Kuv lähde: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Haettu 2008-12-08. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), perinteisessä puvussa, on tapana Keralan eteläosissa. Onappottan vierailee taloilla onam-juhlan aikana ja antaa siunausta. Viime aikoina onappottan on harvinainen näky, rajoittuen kyliin." [Kuv lähde: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Haettu 2008-12-08. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt1903**: ⟪पण्डीतः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫, ⟪१९५९⟫ [Kuv lähde: Wikipedia, yleinen omistus] <!-- TODO: Fallback translation -->
+**lekt1903**: ⟪पण्डीतः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫, ⟪१९५९⟫ [Kuv lähde: Wikipedia, yleinen omistus]
 
 **lekt2008**: ⟪आश्रमाः⟫ Rishikesh = ⟪ऋषिकेश⟫ "Tämä on itse asiassa osa Ashramia Rishikeshissä, jossa Beatles asuivat. Tämä tietty osa ei ollut paikalla heidän ollessaan siellä, mutta se näyttää kivalta." [Kuv lähde: ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Haettu 2008-12-11. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt2103**: ⟪भगवान्कृष्णः⟫ ⟪जगन्नाथ⟫:na (oikealla) hänen halvasisarensa ⟪सुभद्रा⟫:n (keskellä) ja hänen vanhemman veljensä ⟪बलराम⟫ Orissa = ଓଡ଼ିଶā kanssa [Kuv lähde: Sujitkumar / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2103**: ⟪भगवान्कृष्णः⟫ ⟪जगन्नाथ⟫:na (oikealla) hänen halvasisarensa ⟪सुभद्रा⟫:n (keskellä) ja hänen vanhemman veljensä ⟪बलराम⟫ Orissa = ଓଡ଼ିଶā kanssa [Kuv lähde: Sujitkumar / Wikipedia. GNU FDLicense]
 
-**lekt2105**: ⟪भगवद्गीता⟫ - Käsikirjoitus, 1900-luku [Kuv lähde: Wikipedia, yleinen omistus] <!-- TODO: Fallback translation -->
+**lekt2105**: ⟪भगवद्गीता⟫ - Käsikirjoitus, 1900-luku [Kuv lähde: Wikipedia, yleinen omistus]
 
-**lekt2104**: ⟪भिक्षवः⟫ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Kuv lähde: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Haettu 2008-12-12. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt2104**: ⟪भिक्षवः⟫ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Kuv lähde: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Haettu 2008-12-12. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt2202**: ⟪कामदेवः⟫ , 1900-luku [Kuv lähde: Wikipedia, yleinen omistus] <!-- TODO: Fallback translation -->
+**lekt2202**: ⟪कामदेवः⟫ , 1900-luku [Kuv lähde: Wikipedia, yleinen omistus]
 
-**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Kuv lähde: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Haettu 2008-12-12. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Kuv lähde: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Haettu 2008-12-12. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt2201**: ⟪धेनवश्चरन्ति⟫ Goa = ⟪गोंय⟫ [Kuv lähde: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Haettu 2008-12-12. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt2201**: ⟪धेनवश्चरन्ति⟫ Goa = ⟪गोंय⟫ [Kuv lähde: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Haettu 2008-12-12. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt2405**: ⟪अलंकारः⟫ [Kuv lähde: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Haettu 2008-12-14. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt2405**: ⟪अलंकारः⟫ [Kuv lähde: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Haettu 2008-12-14. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
 
-**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Kuvan lähde: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Haettu 14. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Kuvan lähde: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Haettu 14. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
 **lekt2407**: ⟪ऊहापोहः⟫ "UUSI-DELHI/INTIA, 16NOV08 - Suhasini Haidar, CNN-IBN-verkoston varapäätoimittaja 18, Intia, moderoi paneelikeskustelua Maailman talousfoorumin Intian talouskokouksessa 2008 New Delhissä, 16.-18. marraskuuta 2008." [Kuvan lähde: Maailman talousfoorumi / Kuva Dana Smillie. --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Haettu 14. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, jakaa samalla)]
 
-**lekt2408**: ⟪आख्यानम्⟫ "San Franciscon tarinankertoja Jeff Byers jakaa tarinan Chennerin asukkaiden kanssa, Irula-kylä. Tarinankertoja Jeeva Raghunath kääntää tarinan tamiliksi kyläläisille. " [Kuvan lähde: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Haettu 14. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt2408**: ⟪आख्यानम्⟫ "San Franciscon tarinankertoja Jeff Byers jakaa tarinan Chennerin asukkaiden kanssa, Irula-kylä. Tarinankertoja Jeeva Raghunath kääntää tarinan tamiliksi kyläläisille. " [Kuvan lähde: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Haettu 14. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt2411**: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫ Käsikirjoitus ⟪गीतगोविन्द⟫:stä, 1730 jaa. [Kuvan lähde: Wikipedia, yleinen omaisuus] <!-- TODO: Fallback translation -->
+**lekt2411**: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫ Käsikirjoitus ⟪गीतगोविन्द⟫:stä, 1730 jaa. [Kuvan lähde: Wikipedia, yleinen omaisuus]
 
-**lekt2501**: ⟪धान्यम्⟫ Khanna [Kuvan lähde: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Haettu 15. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt2501**: ⟪धान्यम्⟫ Khanna [Kuvan lähde: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Haettu 15. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt2502**: ⟪मूलानि⟫ Varanasi [Kuvan lähde: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Haettu 15. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt2502**: ⟪मूलानि⟫ Varanasi [Kuvan lähde: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Haettu 15. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)]
 
-**lekt2503**: ⟪लिप्तिः⟫ Jaina-käsikirjoitus [Kuvan lähde: Wikipedia, yleinen omaisuus] <!-- TODO: Fallback translation -->
+**lekt2503**: ⟪लिप्तिः⟫ Jaina-käsikirjoitus [Kuvan lähde: Wikipedia, yleinen omaisuus]
 
-**lekt2504**: ⟪विवाहः⟫ ⟪मुंबई⟫ [Kuvan lähde: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Haettu 15. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt2504**: ⟪विवाहः⟫ ⟪मुंबई⟫ [Kuvan lähde: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Haettu 15. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt2505**: ⟪विष्टिः⟫ [Kuvan lähde: Ray Witlin / Maailmanpankki. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Haettu 15. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt2505**: ⟪विष्टिः⟫ [Kuvan lähde: Ray Witlin / Maailmanpankki. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Haettu 15. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt2506**: ⟪हिरण्यम्⟫ Chennai = சென்னை [Kuvan lähde: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Haettu 15. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt2506**: ⟪हिरण्यम्⟫ Chennai = சென்னை [Kuvan lähde: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Haettu 15. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt2706**: ⟪वस्त्राणि⟫ Majuli, Assam [Kuvan lähde: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- Haettu 18. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt2706**: ⟪वस्त्राणि⟫ Majuli, Assam [Kuvan lähde: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- Haettu 18. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt2707**: ⟪वसन्तः⟫ ⟪कुसुम्भ⟫ = Schleichera oleosa (Lour.) Oken, Khopoli = ⟪खोपोली⟫, Maharashtra = ⟪महाराष्ट्र⟫, 2007-04-07[Kuvan lähde: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Haettu 18. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt2707**: ⟪वसन्तः⟫ ⟪कुसुम्भ⟫ = Schleichera oleosa (Lour.) Oken, Khopoli = ⟪खोपोली⟫, Maharashtra = ⟪महाराष्ट्र⟫, 2007-04-07[Kuvan lähde: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Haettu 18. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt2704**: ⟪हरिहरः⟫ (vasen: ⟪विष्णु⟫, oikea: ⟪शिव⟫) [Kuvan lähde: Wikipedia. Yleinen omaisuus] <!-- TODO: Fallback translation -->
+**lekt2704**: ⟪हरिहरः⟫ (vasen: ⟪विष्णु⟫, oikea: ⟪शिव⟫) [Kuvan lähde: Wikipedia. Yleinen omaisuus]
 
-**lekt2705**: ⟪हरिहरः⟫ (vasen: ⟪विष्णु⟫, oikea: ⟪शिव⟫) Godrumdwip, Länsi-Bengali = পশ্চিমবঙ্গ [Kuvan lähde: GourangaUK / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2705**: ⟪हरिहरः⟫ (vasen: ⟪विष्णु⟫, oikea: ⟪शिव⟫) Godrumdwip, Länsi-Bengali = পশ্চিমবঙ্গ [Kuvan lähde: GourangaUK / Wikipedia. GNU FDLicense]
 
 
-**lekt2804**: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫ maalaus tekijältä ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Kuvälähde: Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
+**lekt2804**: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫ maalaus tekijältä ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Kuvälähde: Wikipedia. Julkinen omaisuus]
 
-**lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [Kuvälähde: Kelvin Kay / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [Kuvälähde: Kelvin Kay / Wikipedia. GNU FDLicense]
 
-**lekt2805**: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟩ Ahmedabadin lähellä [Kuvälähde: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- Haettu 20.12.2008. -- Creative Commons -lupa (Nimeäminen, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt2805**: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟩ Ahmedabadin lähellä [Kuvälähde: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- Haettu 20.12.2008. -- Creative Commons -lupa (Nimeäminen, jakaa samalla)]
 
-**lekt2903**: ⟪परिव्राजकाः⟩ Pushkar = ⟪पुष्कर⟩ [Kuvälähde: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Haettu 20.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt2903**: ⟪परिव्राजकाः⟩ Pushkar = ⟪पुष्कर⟩ [Kuvälähde: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Haettu 20.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)]
 
-**lekt2901**: ⟪मत्स्यः⟩ ⟪रोहू⟩ ⟪मछली⟩ = _Labeo rohita_ Hamilton [Kuvälähde: Khalid Mahmood / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2901**: ⟪मत्स्यः⟩ ⟪रोहू⟩ ⟪मछली⟩ = _Labeo rohita_ Hamilton [Kuvälähde: Khalid Mahmood / Wikipedia. GNU FDLicense]
 
-**lekt3001**: ⟪क्रीणन्ति⟩ ⟪विक्रीनते⟩ ⟪च⟩ Bundi = ⟪बुन्दी⟩, Rajasthan = ⟪राजस्थान⟩ [Kuvälähde: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Haettu 21.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt3001**: ⟪क्रीणन्ति⟩ ⟪विक्रीनते⟩ ⟪च⟩ Bundi = ⟪बुन्दी⟩, Rajasthan = ⟪राजस्थान⟩ [Kuvälähde: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Haettu 21.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt3002**: ⟪ज्ञातयः⟩ Darewadi, Ahmed Nagarin piirikunta = ⟪अहमदनगर⟩, Maharashtra = ⟪महाराष्ट्र⟩ [Kuvälähde: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Haettu 21.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt3002**: ⟪ज्ञातयः⟩ Darewadi, Ahmed Nagarin piirikunta = ⟪अहमदनगर⟩, Maharashtra = ⟪महाराष्ट्र⟩ [Kuvälähde: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Haettu 21.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)]
 
-**lekt3003**: ⟪श्रोत्राणि⟩ ⟪पुनाति⟩ [Kuvälähde: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Haettu 21.12.2008. -- Creative Commons -lupa (Nimeäminen, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt3003**: ⟪श्रोत्राणि⟩ ⟪पुनाति⟩ [Kuvälähde: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Haettu 21.12.2008. -- Creative Commons -lupa (Nimeäminen, jakaa samalla)]
 
-**lekt3005**: ⟪अश्नीयात्⟩ ⟪थाली⟩, Etelä-Intia [Kuvälähde: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Haettu 21.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt3005**: ⟪अश्नीयात्⟩ ⟪थाली⟩, Etelä-Intia [Kuvälähde: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Haettu 21.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)]
 
-**lekt3004**: ⟪प्रिया⟩ [Kuvälähde: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Haettu 21.12.2008. -- Creative Commons -lupa (Nimeäminen, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt3004**: ⟪प्रिया⟩ [Kuvälähde: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Haettu 21.12.2008. -- Creative Commons -lupa (Nimeäminen, jakaa samalla)]
 
-**lekt2904**: ⟪पुनर्भवः⟩ [Kuvälähde: Wikipedia / Tekijänoikeus Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5] <!-- TODO: Fallback translation -->
+**lekt2904**: ⟪पुनर्भवः⟩ [Kuvälähde: Wikipedia / Tekijänoikeus Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
 
 **lekt3101**: ⟪योगः⟩ [Kuvälähde: http://www.flickr.com/photos/wricontest/294029791/. -- Haettu 25.12.2008. -- Creative Commons -lupa (Nimeäminen)]
 
 **lekt3102**: ⟪व्यञ्जनम्⟩ Valmistautuminen Kathakali-tanssiin = കഥകളി, Kochi = കൊച്ചി [Kuvälähde: winchrisabi. -- http://www.flickr.com/photos/winchrisabi/181399508/. -- Haettu 25.12.2008. -- Creative Commons -lupa (Nimeäminen)]
 
-**lekt3103**: Käsikirjoituksesta ⟪प्रज्ञापारमिता⟩ [Kuvälähde: zeno.org. -- Julkinen omaisuus] <!-- TODO: Fallback translation -->
+**lekt3103**: Käsikirjoituksesta ⟪प्रज्ञापारमिता⟩ [Kuvälähde: zeno.org. -- Julkinen omaisuus]
 
 **lekt3202**: ⟪चूतः⟩ ⟪कानपुर⟩, / کان پور [Kuvälähde: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Nimeäminen, jakaa samalla)]
 
-**lekt3203**: ⟪वानराः⟩ Delhi = ⟪दहली⟩ [Kuvälähde: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Haettu 25.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt3203**: ⟪वानराः⟩ Delhi = ⟪दहली⟩ [Kuvälähde: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Haettu 25.12.2008. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)]
 
 
-**lekt3204**: ⟪उपलाः⟫ "Kivien täällä kovuuden vuoksi roskaajat, jotka ovat valtaamassa hylättyä louhosta keskustan eteläpuolella, eivät mielellään lyö niitä suoraan vasaroillaan. He kuumennat kivet ensin — palavilla renkailla, romuplastikalla, jopa vanhoilla kumisaappailla — jotta kivet halkeaisivat helpommin. Tummennetta, kun kolme tai neljä liekkia purskuttavat tukehtuttavia mustia pilviä valtavaan louhokseen, louhos näyttää puukaiverrukselta Danten teoksista. Tämän kivisen louhoksen suulla Pune Maharashtraissa, pienikokoiset naiset sari-vaatteissa työskentelevät 14 tunnin vuoroja rikkoen kiviä kriketinpallon kokoisiksi kivipaloiksi. Suurvasarat leikkaavat ilmaan halkeavan kiven ääniin. Heidän takansa rynnivät suuret koneet, jotka söivät kiveä ja sylkäsivat rakennussora. Lähes kaikkien kasvoissa oli valkoista pölyä. Pöly, raskas ja tukehtuttava, leijui ilmassa kuin sumpe kaiken." [Kuv lähde: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Haettu 2008-12-25. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, share alike)] <!-- TODO: Fallback translation -->
+**lekt3204**: ⟪उपलाः⟫ "Kivien täällä kovuuden vuoksi roskaajat, jotka ovat valtaamassa hylättyä louhosta keskustan eteläpuolella, eivät mielellään lyö niitä suoraan vasaroillaan. He kuumennat kivet ensin — palavilla renkailla, romuplastikalla, jopa vanhoilla kumisaappailla — jotta kivet halkeaisivat helpommin. Tummennetta, kun kolme tai neljä liekkia purskuttavat tukehtuttavia mustia pilviä valtavaan louhokseen, louhos näyttää puukaiverrukselta Danten teoksista. Tämän kivisen louhoksen suulla Pune Maharashtraissa, pienikokoiset naiset sari-vaatteissa työskentelevät 14 tunnin vuoroja rikkoen kiviä kriketinpallon kokoisiksi kivipaloiksi. Suurvasarat leikkaavat ilmaan halkeavan kiven ääniin. Heidän takansa rynnivät suuret koneet, jotka söivät kiveä ja sylkäsivat rakennussora. Lähes kaikkien kasvoissa oli valkoista pölyä. Pöly, raskas ja tukehtuttava, leijui ilmassa kuin sumpe kaiken." [Kuv lähde: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Haettu 2008-12-25. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, share alike)]
 
-**lekt3205**: ⟪लक्ष्यम्⟫ Karnataka = ಕರ್ನಾಟಕ [Kuv lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Haettu 2008-12-25. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista muokkausta)] <!-- TODO: Fallback translation -->
+**lekt3205**: ⟪लक्ष्यम्⟫ Karnataka = ಕರ್ನಾಟಕ [Kuv lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Haettu 2008-12-25. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista muokkausta)]
 
-**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: lehmänlanta) Rajasthan [Kuv lähde: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Haettu 2008-12-25. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, share alike)] <!-- TODO: Fallback translation -->
+**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: lehmänlanta) Rajasthan [Kuv lähde: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Haettu 2008-12-25. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, share alike)]
 
-**lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Kuv lähde: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Haettu 2008-12-25. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, share alike)] <!-- TODO: Fallback translation -->
+**lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Kuv lähde: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Haettu 2008-12-25. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, share alike)]
 
-**lekt3306**: ⟪दानम्⟫ "20. elokuuta 2005 Chennai, Intiassa tulevat appivanhempani järjestivät meille virallisen intialaisen kihlajaiset. Se näyttää häiltä, mutta ei ollut, niin he tekevät asiat. Erittäin ekstravagantti. Tämä tapahtuma oli valtava siunaus minulle. En ole koskaan tuntenut niin rakkautta toisesta perheestä. Toivoin vain, että perheeni olisi voinut olla paikalla, mutta ainakin minulla on video koko tapahtumasta jaettavaksi. Tulevat appivanhempani järjestivät koko asian 3 päivässä. Kaikki kutsuista palkattuun valokuvaajaan asti. Se oli fantastinen, sanojen ulkopuolella selittää virtaavat tunteet." [Kuva ja tekstin lähde: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Haettu 2008-12-26. -- Creative Commons -lisensointi (Nimeäminen, share alike)] <!-- TODO: Fallback translation -->
+**lekt3306**: ⟪दानम्⟫ "20. elokuuta 2005 Chennai, Intiassa tulevat appivanhempani järjestivät meille virallisen intialaisen kihlajaiset. Se näyttää häiltä, mutta ei ollut, niin he tekevät asiat. Erittäin ekstravagantti. Tämä tapahtuma oli valtava siunaus minulle. En ole koskaan tuntenut niin rakkautta toisesta perheestä. Toivoin vain, että perheeni olisi voinut olla paikalla, mutta ainakin minulla on video koko tapahtumasta jaettavaksi. Tulevat appivanhempani järjestivät koko asian 3 päivässä. Kaikki kutsuista palkattuun valokuvaajaan asti. Se oli fantastinen, sanojen ulkopuolella selittää virtaavat tunteet." [Kuva ja tekstin lähde: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Haettu 2008-12-26. -- Creative Commons -lisensointi (Nimeäminen, share alike)]
 
-**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Kuv lähde: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Haettu 2008-12-27. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
+**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Kuv lähde: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Haettu 2008-12-27. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei muokkauksia)]
 
-**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. jk. eKr. [Kuv lähde: Quadell / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-
-**lekt3304**: ⟪भयम्⟫ Mumbai = ⟪मुंबई⟫, 2008 [Kuv lähde: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Pääsy 26.12.2008. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
-
-**lekt3303**: ⟪हीनयानमेव⟫ Thaimaa [Kuv lähde: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- Pääsy 26.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
-
-**lekt3302**: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫ ⟪यज्ञ⟫ Shiva-ashramissa, Kothavala, Ganeshpuri, 80 km Mumbaiin (⟪मुंबई⟫) etäisyydellä [Kuv lähde: Dey. -- http://www.flickr.com/photos/dey/466758922/. -- Pääsy 26.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
-
-**lekt3308**: ⟪घृतम्⟫ [Kuv lähde: Wikipedia. GNU FDLicense] "Ghee valmistetaan keittämällä suolatonta voita suurella kattilalla, kunnes kaikki vesi on haihtunut ja proteiini on laskeutunut pohjalle. Keitetty ja selkeytetty voi kaadetaan sitten lusikalla, jotta maitokidut pohjalla eivät häiriyty. Toisin kuin voita, gheeta voidaan säilyttää pitkään ilman jääkaappia, kunhan sitä pidetään ilmatiiviissä astiassa hapettumisen estämiseksi ja se pysyy kosteudetta. Gheen koostumus, väri tai maku riippuvat maidon lähteestä, josta voita on valmistettu. Intiassa gheeta valmistetaan yleensä vesipuhvelin maidosta, koska se on valkoisempaa kuin lehmän maito." [Lähde: http://en.wikipedia.org/wiki/Ghee. -- Pääsy 26.12.2008] <!-- TODO: Fallback translation -->
-
-**lekt3406**: ⟪सस्यम्⟫ [Kuv lähde: Ray Witlin / Maailmanpankki. -- http://www.flickr.com/photos/worldbank/2183806492/. -- Pääsy 27.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
-
-**lekt3405**: ⟪लक्षद्वीपाः⟫ = ലക്ഷദ്വീപ് = 100.000 (⟪लक्ष⟫ m.n.) saarta (liittoalue) [Kuv lähde: CIA. Julkinen omaisuus] <!-- TODO: Fallback translation -->
-
-**lekt3403**: ⟪तिलाः⟫ [Kuv lähde: Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
-
-**lekt3404**: ⟪तिलाः⟫ [Kuv lähde: Franz Xaver / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt3402**: ⟪स्वर्णम्⟫ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿਬ, Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Kuv lähde: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt3401**: ⟪ऋषभः⟫ Chamundi-vuoret [Kuv lähde: Luna Park. -- http://www.flickr.com/photos/lunapark/2124083737/. -- Pääsy 27.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
-
-**lekt3502**: ⟪क्रामन्ति⟫ [Kuv lähde: Curt Carnemark / Maailmanpankki. -- http://www.flickr.com/photos/worldbank/2182732473/. -- Pääsy 28.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
-
-**lekt3501**: ⟪जगुः⟫ Kaadu Malleswara -temppeli, Bangalore = ಬೆಂಗಳೂರು [Kuv lähde: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- Pääsy 28.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
-
-**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Kuv lähde: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Pääsy 28.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. jk. eKr. [Kuv lähde: Quadell / Wikipedia. GNU FDLicense]
 
 
-**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Kuv lähde: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Haettu 28. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt3304**: ⟪भयम्⟫ Mumbai = ⟪मुंबई⟫, 2008 [Kuv lähde: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Pääsy 26.12.2008. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt3603**: ⟪अनगार्यम्⟫ Koillis-Thaimaa = อีสาน [Kuv lähde: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Haettu 28. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
+**lekt3303**: ⟪हीनयानमेव⟫ Thaimaa [Kuv lähde: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- Pääsy 26.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
+
+**lekt3302**: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫ ⟪यज्ञ⟫ Shiva-ashramissa, Kothavala, Ganeshpuri, 80 km Mumbaiin (⟪मुंबई⟫) etäisyydellä [Kuv lähde: Dey. -- http://www.flickr.com/photos/dey/466758922/. -- Pääsy 26.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)]
+
+**lekt3308**: ⟪घृतम्⟫ [Kuv lähde: Wikipedia. GNU FDLicense] "Ghee valmistetaan keittämällä suolatonta voita suurella kattilalla, kunnes kaikki vesi on haihtunut ja proteiini on laskeutunut pohjalle. Keitetty ja selkeytetty voi kaadetaan sitten lusikalla, jotta maitokidut pohjalla eivät häiriyty. Toisin kuin voita, gheeta voidaan säilyttää pitkään ilman jääkaappia, kunhan sitä pidetään ilmatiiviissä astiassa hapettumisen estämiseksi ja se pysyy kosteudetta. Gheen koostumus, väri tai maku riippuvat maidon lähteestä, josta voita on valmistettu. Intiassa gheeta valmistetaan yleensä vesipuhvelin maidosta, koska se on valkoisempaa kuin lehmän maito." [Lähde: http://en.wikipedia.org/wiki/Ghee. -- Pääsy 26.12.2008]
+
+**lekt3406**: ⟪सस्यम्⟫ [Kuv lähde: Ray Witlin / Maailmanpankki. -- http://www.flickr.com/photos/worldbank/2183806492/. -- Pääsy 27.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
+
+**lekt3405**: ⟪लक्षद्वीपाः⟫ = ലക്ഷദ്വീപ് = 100.000 (⟪लक्ष⟫ m.n.) saarta (liittoalue) [Kuv lähde: CIA. Julkinen omaisuus]
+
+**lekt3403**: ⟪तिलाः⟫ [Kuv lähde: Wikipedia. Julkinen omaisuus]
+
+**lekt3404**: ⟪तिलाः⟫ [Kuv lähde: Franz Xaver / Wikipedia. GNU FDLicense]
+
+**lekt3402**: ⟪स्वर्णम्⟫ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿਬ, Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Kuv lähde: Wikipedia. GNU FDLicense]
+
+**lekt3401**: ⟪ऋषभः⟫ Chamundi-vuoret [Kuv lähde: Luna Park. -- http://www.flickr.com/photos/lunapark/2124083737/. -- Pääsy 27.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
+
+**lekt3502**: ⟪क्रामन्ति⟫ [Kuv lähde: Curt Carnemark / Maailmanpankki. -- http://www.flickr.com/photos/worldbank/2182732473/. -- Pääsy 28.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
+
+**lekt3501**: ⟪जगुः⟫ Kaadu Malleswara -temppeli, Bangalore = ಬೆಂಗಳೂರು [Kuv lähde: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- Pääsy 28.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
+
+**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Kuv lähde: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Pääsy 28.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
+
+
+**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Kuv lähde: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Haettu 28. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, jakaa samalla)]
+
+**lekt3603**: ⟪अनगार्यम्⟫ Koillis-Thaimaa = อีสาน [Kuv lähde: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Haettu 28. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muokkauksia)]
 
 **lekt3606**: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्शमुद्रा⟫ [Kuv lähde: Payer]
 
 **lekt3604**: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. karvahius) [Kuv lähde: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Haettu 29. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt3705**: ⟪शाक्यमुनिः⟫ Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [Kuv lähde: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Haettu 31. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
+**lekt3705**: ⟪शाक्यमुनिः⟫ Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [Kuv lähde: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Haettu 31. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muokkauksia)]
 
-**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [Kuv lähde: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Haettu 31. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [Kuv lähde: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Haettu 31. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)]
 
-**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ [Kuv lähde: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Haettu 31. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ [Kuv lähde: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Haettu 31. joulukuuta 2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt3805**: ⟪उदकम्⟫ Darewadin kylä, Ahmed Nagarin piirikunta = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [Kuv lähde: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Haettu 1. tammikuuta 2009. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt3805**: ⟪उदकम्⟫ Darewadin kylä, Ahmed Nagarin piirikunta = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [Kuv lähde: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Haettu 1. tammikuuta 2009. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)]
 
-**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, 2./3. jaa [Kuv lähde: Wikipedia. Julkinen omistus] <!-- TODO: Fallback translation -->
+**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, 2./3. jaa [Kuv lähde: Wikipedia. Julkinen omistus]
 
-**lekt3809**: ⟪ब्रह्मा⟫ Halebidu = ಹಳೆಬೀಡು [Kuv lähde: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt3809**: ⟪ब्रह्मा⟫ Halebidu = ಹಳೆಬೀಡು [Kuv lähde: Wikipedia. GNU FDLicense]
 
-**lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Kuv lähde: J.M.Garg / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Kuv lähde: J.M.Garg / Wikipedia. GNU FDLicense]
 
-**lekt3811**: ⟪अशोकः⟫ Aśokan valtakunnan suurin laajenema sekä hänen kallio- ja pylväasdokumenttiensa löytöpaikat [Kuv lähde: Wikipedia.GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt3811**: ⟪अशोकः⟫ Aśokan valtakunnan suurin laajenema sekä hänen kallio- ja pylväasdokumenttiensa löytöpaikat [Kuv lähde: Wikipedia.GNU FDLicense]
 
-**lekt3812**: ⟪विनोदः⟫ Carrom-peli [Kuv lähde: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Haettu 1. tammikuuta 2009. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)] <!-- TODO: Fallback translation -->
+**lekt3812**: ⟪विनोदः⟫ Carrom-peli [Kuv lähde: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Haettu 1. tammikuuta 2009. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaa samalla)]
 
-**lekt3813**: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ [Kuv lähde: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Haettu 1. tammikuuta 2009. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt3813**: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ [Kuv lähde: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Haettu 1. tammikuuta 2009. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Kuv lähde: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Haettu 1. tammikuuta 2009. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
+**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Kuv lähde: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Haettu 1. tammikuuta 2009. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muokkauksia)]
 
 
-**lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [Kuv lähde: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Haettu 2009-01-02. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [Kuv lähde: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Haettu 2009-01-02. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt4002**: ⟪तीर्थङ्करः⟫ [Kuv lähde: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Haettu 2009-01-02. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt4002**: ⟪तीर्थङ्करः⟫ [Kuv lähde: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Haettu 2009-01-02. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
 **lekt4001**: ⟪विष्णोर्दशावताराः⟫ Myötäpäivään: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪प्रशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, keskellä: ⟪कृष्ण⟫ [Kuv lähde: Wikipedia. Julkisen omistuksen teos]
 
-**lekt4004**: ⟪स्वपन्ति⟫ Intian lepakot (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Kuv lähde: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Haettu 2009-01-02. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt4004**: ⟪स्वपन्ति⟫ Intian lepakot (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Kuv lähde: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Haettu 2009-01-02. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt4105**: ⟪भुजङ्गः⟫ Nauhakrait-käärme (_Bungarus fasciatus_) [Kuv lähde: J. Ewart. The poisonous snakes of India, 1878. Julkisen omistuksen teos] <!-- TODO: Fallback translation -->
+**lekt4105**: ⟪भुजङ्गः⟫ Nauhakrait-käärme (_Bungarus fasciatus_) [Kuv lähde: J. Ewart. The poisonous snakes of India, 1878. Julkisen omistuksen teos]
 
-**lekt4104**: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫ Käärmeiden myönnin (krait), Thaimaa [Kuv lähde: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Haettu 2009-01-03. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt4104**: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫ Käärmeiden myönnin (krait), Thaimaa [Kuv lähde: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Haettu 2009-01-03. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt4109**: ⟪शासना⟫ Ashokan kiviraunio, Dhauli, Orissa [Kuv lähde: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Haettu 2009-01-03. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt4109**: ⟪शासना⟫ Ashokan kiviraunio, Dhauli, Orissa [Kuv lähde: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Haettu 2009-01-03. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), n. 1898 [Kuv lähde: Wikipedia. Julkisen omistuksen teos] <!-- TODO: Fallback translation -->
+**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), n. 1898 [Kuv lähde: Wikipedia. Julkisen omistuksen teos]
 
-**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ The Diwan I Khas, tai yksityisten kuulustelujen sali Lal Qilassa (Punainen linna) Delhissä. [Kuv lähde: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Haettu 2009-01-04. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
+**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ The Diwan I Khas, tai yksityisten kuulustelujen sali Lal Qilassa (Punainen linna) Delhissä. [Kuv lähde: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Haettu 2009-01-04. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)]
 
-**lekt4302**: ⟪आपणः⟫ Orissa = ଓଡ଼ିଶା [Kuv lähde: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Haettu 2009-01-06. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt4302**: ⟪आपणः⟫ Orissa = ଓଡ଼ିଶା [Kuv lähde: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Haettu 2009-01-06. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt4303**: ⟪पण्यानि⟫ Jamshedpur = ⟪जमशेदपुर⟫ [Kuv lähde: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Haettu 2009-01-06. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt4303**: ⟪पण्यानि⟫ Jamshedpur = ⟪जमशेदपुर⟫ [Kuv lähde: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Haettu 2009-01-06. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt4304**: ⟪विपणिः⟫ Haridwar = ⟪हरिद्वार⟫ [Kuv lähde: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Haettu 2009-01-06. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt4304**: ⟪विपणिः⟫ Haridwar = ⟪हरिद्वार⟫ [Kuv lähde: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Haettu 2009-01-06. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt4305**: ⟪वणिक्⟫ Kanchipuram = காஞ்சிபுரம [Kuv lähde: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Haettu 2009-01-06. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
+**lekt4305**: ⟪वणिक्⟫ Kanchipuram = காஞ்சிபுரம [Kuv lähde: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Haettu 2009-01-06. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)]
 
-**lekt4306**: ⟪वत्सः⟫ Vesipuhveli (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Kuv lähde: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Haettu 2009-001-06. -- Creative Commons -lisenssi (Nimeäminen, sama lisenssi)] <!-- TODO: Fallback translation -->
+**lekt4306**: ⟪वत्सः⟫ Vesipuhveli (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Kuv lähde: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Haettu 2009-001-06. -- Creative Commons -lisenssi (Nimeäminen, sama lisenssi)]
 
 
-**lekt4307**: ⟪तोलन्ति⟫ [Kuv lähde: Ray Witlin / Maailmanpankki. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Haettu 6. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)] <!-- TODO: Fallback translation -->
+**lekt4307**: ⟪तोलन्ति⟫ [Kuv lähde: Ray Witlin / Maailmanpankki. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Haettu 6. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
 
-**lekt4403**: ⟪रेल्यानम्⟫ ⟪वाराणआस्याम्⟫, ⟪१९७४⟫ [Kuv lähde: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)] <!-- TODO: Fallback translation -->
+**lekt4403**: ⟪रेल्यानम्⟫ ⟪वाराणआस्याम्⟫, ⟪१९७४⟫ [Kuv lähde: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
 
-**lekt4404**: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫ [Kuv lähde: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, sama lisensointi)] <!-- TODO: Fallback translation -->
+**lekt4404**: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫ [Kuv lähde: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, sama lisensointi)]
 
-**lekt4405**: ⟪नन्दी⟫ Kodagu = ಕೊಡಗು [Kuv lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt4405**: ⟪नन्दी⟫ Kodagu = ಕೊಡಗು [Kuv lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt4406**: ⟪आयतो⟫ ⟪मरुः⟫ ⟪थार⟫ ⟪मरुस्थल⟫ [Kuv lähde: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt4406**: ⟪आयतो⟫ ⟪मरुः⟫ ⟪थार⟫ ⟪मरुस्थल⟫ [Kuv lähde: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt4407**: ⟪यत्नेन⟫ Kollam = കൊല്ലം [Kuv lähde: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, sama lisensointi)] <!-- TODO: Fallback translation -->
+**lekt4407**: ⟪यत्नेन⟫ Kollam = കൊല്ലം [Kuv lähde: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, sama lisensointi)]
 
-**lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [Kuv lähde: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)] <!-- TODO: Fallback translation -->
+**lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [Kuv lähde: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
 
-**lekt4602**: ⟪नवग्रहाः⟫ [Kuv lähde teokseen ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4602**: ⟪नवग्रहाः⟫ [Kuv lähde teokseen ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4603**: ⟪नवग्रहाः⟫ [Kuv lähde teokseen ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4603**: ⟪नवग्रहाः⟫ [Kuv lähde teokseen ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4604**: ⟪नवग्रहाः⟫ [Kuv lähde teokseen ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4604**: ⟪नवग्रहाः⟫ [Kuv lähde teokseen ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4605**: ⟪नवग्रहाः⟫ [Kuv lähde teokseen ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4605**: ⟪नवग्रहाः⟫ [Kuv lähde teokseen ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, n. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = ylin käärmeiden kuningas) [Kuv lähde: Wikipedia. Julkisen omistuksen piirissä] <!-- TODO: Fallback translation -->
+**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, n. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = ylin käärmeiden kuningas) [Kuv lähde: Wikipedia. Julkisen omistuksen piirissä]
 
-**lekt4606**: ⟪अश्वरोहकः⟫ Pune = ⟪पुणे⟫ [Kuv lähde: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt4606**: ⟪अश्वरोहकः⟫ Pune = ⟪पुणे⟫ [Kuv lähde: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen)]
 
 **lekt4608**: ⟪महामात्रः⟫ ⟪उदयपुर⟫ [Kuv lähde: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- Haettu 8. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt4609**: ⟪श्रान्तः⟫ Karnataka = ಕರ್ನಾಟಕ [Kuv lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Haettu 9. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt4609**: ⟪श्रान्तः⟫ Karnataka = ಕರ್ನಾಟಕ [Kuv lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Haettu 9. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [Kuv lähde: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Haettu 9. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [Kuv lähde: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Haettu 9. tammikuuta 2009. -- Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä)]
 
 
-**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, Bangalore = ಬೆಂಗಳೂರು [Kuv lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Haettu 2009-01-08. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, Bangalore = ಬೆಂಗಳೂರು [Kuv lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Haettu 2009-01-08. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt4611**: ⟪भोः⟫ Kutch = ⟪कच्छ⟫ [Kuv lähde: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- Haettu 2009-01-09. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt4611**: ⟪भोः⟫ Kutch = ⟪कच्छ⟫ [Kuv lähde: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- Haettu 2009-01-09. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt4802**: ⟪तन्त्रम्⟫ Sualkuchi = সুৱালকুচি, Assam = অসম [Kuv lähde: Ken McChesney. -- http://www.flickr.com/photos/kenmak/2083565996/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
+**lekt4802**: ⟪तन्त्रम्⟫ Sualkuchi = সুৱালকুচি, Assam = অসম [Kuv lähde: Ken McChesney. -- http://www.flickr.com/photos/kenmak/2083565996/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)]
 
-**lekt4803**: ⟪तन्त्री⟫ Sitarinsoittaja = ⟪सितारवादकः⟫ [Kuv lähde: Wikipedia. Julkisen omistuksen teos] <!-- TODO: Fallback translation -->
+**lekt4803**: ⟪तन्त्री⟫ Sitarinsoittaja = ⟪सितारवादकः⟫ [Kuv lähde: Wikipedia. Julkisen omistuksen teos]
 
-**lekt4804**: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫ [Itseapua-ryhmä (SHG)], Tamil Nadu = தமிழ்நாடு [Kuv lähde: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt4804**: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫ [Itseapua-ryhmä (SHG)], Tamil Nadu = தமிழ்நாடு [Kuv lähde: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt4805**: ⟪कुमारः⟫ Thaipusam-juhla = தைப்பூசம், Batu Caves, Malesia [Kuv lähde: tajai. -- http://www.flickr.com/photos/cayce/108707865/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt4805**: ⟪कुमारः⟫ Thaipusam-juhla = தைப்பூசம், Batu Caves, Malesia [Kuv lähde: tajai. -- http://www.flickr.com/photos/cayce/108707865/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt4806**: ⟪कुमारी⟫ ⟪नेपाल⟫ [Kuv lähde: changhg. -- http://www.flickr.com/photos/changhg/100412648/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt4806**: ⟪कुमारी⟫ ⟪नेपाल⟫ [Kuv lähde: changhg. -- http://www.flickr.com/photos/changhg/100412648/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt4807**: ⟪स्थविराः⟫ ⟪जोधपुर⟫ [Kuv lähde: zz77. -- http://www.flickr.com/photos/zz77/2256414024/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt4807**: ⟪स्थविराः⟫ ⟪जोधपुर⟫ [Kuv lähde: zz77. -- http://www.flickr.com/photos/zz77/2256414024/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt4808**: ⟪सूक्ष्मम्⟫ Karanji-järvi = ಕಾರಂಜಿ ಕೆರೆ [Kuv lähde: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen, sama lisenssi)] <!-- TODO: Fallback translation -->
+**lekt4808**: ⟪सूक्ष्मम्⟫ Karanji-järvi = ಕಾರಂಜಿ ಕೆರೆ [Kuv lähde: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- Haettu 2009-01-10. -- Creative Commons -lisenssi (Nimeäminen, sama lisenssi)]
 
 **lekt4809**: ⟪जाया⟫ [Kuva: Payer]
 
-**lekt4901**: ⟪कुलूहलम्⟫ [Kuv lähde: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- Haettu 2009-01-11. -- Creative Commons -lisenssi (Nimeäminen, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt4901**: ⟪कुलूहलम्⟫ [Kuv lähde: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- Haettu 2009-01-11. -- Creative Commons -lisenssi (Nimeäminen, ei muunnoksia)]
 
-**lekt4902**: ⟪कला⟫ ⟪शिवो⟫ ⟪नटराजा⟫, 1100-luku [Kuv lähde: Vassil / Wikipedia. Julkisen omistuksen teos] <!-- TODO: Fallback translation -->
+**lekt4902**: ⟪कला⟫ ⟪शिवो⟫ ⟪नटराजा⟫, 1100-luku [Kuv lähde: Vassil / Wikipedia. Julkisen omistuksen teos]
 
-**lekt4903**: ⟪विहंगः⟫ [Kuv lähde: Toji Leon. -- http://www.flickr.com/photos/tojileon/295384395/. -- Haettu 2009-01-11. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt4903**: ⟪विहंगः⟫ [Kuv lähde: Toji Leon. -- http://www.flickr.com/photos/tojileon/295384395/. -- Haettu 2009-01-11. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt4904**: ⟪वेषः⟫ ⟪वाराणस्याम्⟫ [Kuv lähde: pyjama. -- http://www.flickr.com/photos/rpt/319410503/. -- Haettu 2009-01-11. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
+**lekt4904**: ⟪वेषः⟫ ⟪वाराणस्याम्⟫ [Kuv lähde: pyjama. -- http://www.flickr.com/photos/rpt/319410503/. -- Haettu 2009-01-11. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)]
 
-**lekt4909**: ⟪पञ्जरम्⟫ Ennustaja papukaijan kanssa häkissä: papukaija vetää lappuja, joissa on kohtalo. Mysore. [Kuv lähde: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- Haettu 2009-01-12. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt4909**: ⟪पञ्जरम्⟫ Ennustaja papukaijan kanssa häkissä: papukaija vetää lappuja, joissa on kohtalo. Mysore. [Kuv lähde: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- Haettu 2009-01-12. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt4905**: ⟪सादरः⟫ Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Kuv lähde: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Haettu 2009-01-11. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt4905**: ⟪सादरः⟫ Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Kuv lähde: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Haettu 2009-01-11. -- Creative Commons -lisenssi (Nimeäminen)]
 
 
-**lekt4906**: ⟪गजशिशुः⟩ Sri Lanka [Kuva: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- Haettu 2009-01-11. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt4906**: ⟪गजशिशुः⟩ Sri Lanka [Kuva: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- Haettu 2009-01-11. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt5001**: ⟪मन्त्री⟩ Kapil Sibal (1948 -), tiede- ja teknologiaviraston sekä maapintatieteiden ministeriön liittovaltion ministeri (vuodesta 2006) [Kuva: Maailman talousfoorumi. -- http://www.flickr.com/photos/worldeconomicforum/3038328904/. -- Haettu 2009-01-12. -- Creative Commons -lisenssi (Nimeäminen, jakaminen samalla lisenssillä)] <!-- TODO: Fallback translation -->
+**lekt5001**: ⟪मन्त्री⟩ Kapil Sibal (1948 -), tiede- ja teknologiaviraston sekä maapintatieteiden ministeriön liittovaltion ministeri (vuodesta 2006) [Kuva: Maailman talousfoorumi. -- http://www.flickr.com/photos/worldeconomicforum/3038328904/. -- Haettu 2009-01-12. -- Creative Commons -lisenssi (Nimeäminen, jakaminen samalla lisenssillä)]
 
-**lekt5002**: ⟪महामेघो⟩ ⟪वर्षिष्यति⟩ Monsuunitulva, Bangalore ಬೆಂಗಳೂರು [Kuva: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- Haettu 2009-01-12. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt5002**: ⟪महामेघो⟩ ⟪वर्षिष्यति⟩ Monsuunitulva, Bangalore ಬೆಂಗಳೂರು [Kuva: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- Haettu 2009-01-12. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt5005**: ⟪आदित्यः⟩ [Kuva: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- Haettu 2009-01-12. -- Creative Commons -lisenssi (Nimeäminen, jakaminen samalla lisenssillä)] <!-- TODO: Fallback translation -->
+**lekt5005**: ⟪आदित्यः⟩ [Kuva: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- Haettu 2009-01-12. -- Creative Commons -lisenssi (Nimeäminen, jakaminen samalla lisenssillä)]
 
-**lekt5003**: ⟪कल्याणी⟩ [Kuva: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- Haettu 2009-01-12. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt5003**: ⟪कल्याणी⟩ [Kuva: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- Haettu 2009-01-12. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt5004**: ⟪कुनगरम्⟩ ⟪धारावी⟩, ⟪मुंबई⟩ [Kuva: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5004**: ⟪कुनगरम्⟩ ⟪धारावी⟩, ⟪मुंबई⟩ [Kuva: Kounosu / Wikipedia. GNU FDLicense]
 
-**lekt5105**: ⟪कृष्णमृगः⟩ Hirvenkettu -- _Antilope cervicapra_ L., uros [Kuva: Wikipedia, yleinen omaisuus] <!-- TODO: Fallback translation -->
+**lekt5105**: ⟪कृष्णमृगः⟩ Hirvenkettu -- _Antilope cervicapra_ L., uros [Kuva: Wikipedia, yleinen omaisuus]
 
-**lekt5106**: ⟪ऋतुः⟩ "Graafinen esitys hedelmällisten päivien laskemiseksi OGINOn menetelmällä 26–30 vuorokauden sykliväleillä... [Lähde tekstille ja kuvalle: Roche Lexikon Medizin. Verkkosivu: http://www.gesundheit.de/roche/ro20000/r20172.html. Haettu 2003-12-16] <!-- TODO: Fallback translation -->
+**lekt5106**: ⟪ऋतुः⟩ "Graafinen esitys hedelmällisten päivien laskemiseksi OGINOn menetelmällä 26–30 vuorokauden sykliväleillä... [Lähde tekstille ja kuvalle: Roche Lexikon Medizin. Verkkosivu: http://www.gesundheit.de/roche/ro20000/r20172.html. Haettu 2003-12-16]
 
-**lekt5107**: ⟪जटा⟩ ⟪ऋषिकेश⟩ [Kuva: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Haettu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaminen samalla lisenssillä)] <!-- TODO: Fallback translation -->
+**lekt5107**: ⟪जटा⟩ ⟪ऋषिकेश⟩ [Kuva: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Haettu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaminen samalla lisenssillä)]
 
-**lekt5108**: ⟪पिशितम्⟩ Kolkata = কলকাতা [Kuva: nicolas - نِيقُولاَوُسَ. -- http://www.flickr.com/photos/keep-on-moving/2994878670/. -- Haettu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaminen samalla lisenssillä)] <!-- TODO: Fallback translation -->
+**lekt5108**: ⟪पिशितम्⟩ Kolkata = কলকাতা [Kuva: nicolas - نِيقُولاَوُسَ. -- http://www.flickr.com/photos/keep-on-moving/2994878670/. -- Haettu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaminen samalla lisenssillä)]
 
-**lekt5109**: ⟪मधु⟩ City Palace, ⟪उदयपुर⟩ [Kuva: abrinsky. -- http://www.flickr.com/photos/abrinsky/457940260/. -- Haettu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaminen samalla lisenssillä)] <!-- TODO: Fallback translation -->
+**lekt5109**: ⟪मधु⟩ City Palace, ⟪उदयपुर⟩ [Kuva: abrinsky. -- http://www.flickr.com/photos/abrinsky/457940260/. -- Haettu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, jakaminen samalla lisenssillä)]
 
-**lekt5110**: ⟪मृगया⟩ Metsästys käyttäen ⟪चीता⟩ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Kuva: Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
+**lekt5110**: ⟪मृगया⟩ Metsästys käyttäen ⟪चीता⟩ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Kuva: Wikipedia. Julkinen omaisuus]
 
 **lekt5111**: ⟪शिवा⟩ _Canis aureus_, Kalatop Khajjiar Sanctuary [Kuva: gautamnguitar. -- http://www.flickr.com/photos/gautamnguitar/2181211040/. -- Haettu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
-**lekt5112**: ⟪कौशिकः⟩ Brahma-pöllö (_Athene brama_), Mahesana = મહેસાણા [Kuva: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Haettu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
+**lekt5112**: ⟪कौशिकः⟩ Brahma-pöllö (_Athene brama_), Mahesana = મહેસાણા [Kuva: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Haettu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
 
 
-**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟫ Karnataka = ಕರ್ನಾಟಕ [Kuvan lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Viitattu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟫ Karnataka = ಕರ್ನಾಟಕ [Kuvan lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Viitattu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. "Nämä miehet istuivat ja juoivat jonkin hindujumalan pyhäkön edessä (unohdin nimen). He kertoivat olevansa teurastajia ja että tämä jumala oli heidän ammatinjumalansa, joka hyväksyi vain alkohuriuhrit." [Kuvan ja tekstin lähde: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Viitattu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muutoksia)] <!-- TODO: Fallback translation -->
+**lekt5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. "Nämä miehet istuivat ja juoivat jonkin hindujumalan pyhäkön edessä (unohdin nimen). He kertoivat olevansa teurastajia ja että tämä jumala oli heidän ammatinjumalansa, joka hyväksyi vain alkohuriuhrit." [Kuvan ja tekstin lähde: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Viitattu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muutoksia)]
 
-**lekt5115**: ⟪मूषिकाविषाणि⟫ Bangalore = ಬೆಂಗಳೂರು [Kuvan lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Viitattu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
+**lekt5115**: ⟪मूषिकाविषाणि⟫ Bangalore = ಬೆಂಗಳೂರು [Kuvan lähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Viitattu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)]
 
-**lekt5116**: ⟪भुजङ्गः⟫ Ketomyrkkykäärme (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Kuvan lähde: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- Viitattu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
+**lekt5116**: ⟪भुजङ्गः⟫ Ketomyrkkykäärme (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Kuvan lähde: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- Viitattu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)]
 
 **lekt5118**: ⟪मणिः⟫ Hopea timantti Gunturista = ಗುಂತೂರು, nykyisin Smithsonian Museum of Natural History, Washington DC [Kuvan lähde: David Bjorgen / Wikipedia. GNU FDLicense]
 
-**lekt5117**: ⟪मदः⟫ [Kuvan lähde: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Viitattu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
+**lekt5117**: ⟪मदः⟫ [Kuvan lähde: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Viitattu 2009-01-13. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)]
 
-**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Kuvan lähde: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- Viitattu 2009-01-16. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Kuvan lähde: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- Viitattu 2009-01-16. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt5212**: ⟪पीडिताः⟫ Hyderabad = హైదరాబాద్ [Kuvan lähde: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- Viitattu 2009-01-16. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muutoksia)] <!-- TODO: Fallback translation -->
+**lekt5212**: ⟪पीडिताः⟫ Hyderabad = హైదరాబాద్ [Kuvan lähde: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- Viitattu 2009-01-16. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muutoksia)]
 
-**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [Kuvan lähde: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- Viitattu 2009-01-16. -- Creative Commons -lisenssi (Nimeäminen, ei muutoksia)] <!-- TODO: Fallback translation -->
+**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [Kuvan lähde: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- Viitattu 2009-01-16. -- Creative Commons -lisenssi (Nimeäminen, ei muutoksia)]
 
-**lekt5214**: ⟪चक्रम्⟫ Konark = ⟪कोनार्क⟫ [Kuvan lähde: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- Viitattu 2009-01-16. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muutoksia)] <!-- TODO: Fallback translation -->
+**lekt5214**: ⟪चक्रम्⟫ Konark = ⟪कोनार्क⟫ [Kuvan lähde: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- Viitattu 2009-01-16. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, ei muutoksia)]
 
-**lekt5208**: ⟪कदली⟫ Hampi = ಹಂಪೆ [Kuvan lähde: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Viitattu 2009-01-15. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
+**lekt5208**: ⟪कदली⟫ Hampi = ಹಂಪೆ [Kuvan lähde: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Viitattu 2009-01-15. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)]
 
-**lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Kuvan lähde: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Viitattu 2009-01-16. -- Creative Commons -lisenssi (Nimeäminen)] <!-- TODO: Fallback translation -->
+**lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Kuvan lähde: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Viitattu 2009-01-16. -- Creative Commons -lisenssi (Nimeäminen)]
 
-**lekt5217**: Māran hyökkäys Buddhaa vastaan Amaravati = అమరావతి, 2. jaa. [Kuvan lähde: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-
+**lekt5217**: Māran hyökkäys Buddhaa vastaan Amaravati = అమరావతి, 2. jaa. [Kuvan lähde: Wikipedia. GNU FDLicense]
 

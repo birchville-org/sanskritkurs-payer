@@ -5,7 +5,7 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 45
 
@@ -145,13 +145,7 @@ B) Vertite:
 ![](/images/lekt4502.jpg)
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4502))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
 
-**lekt4501.jpg**: Textilis impressio blocularis, Ahmedabad. -- Fons imaginis: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accessus die 2009-01-08. -- Licentia Creative Commons (Attributio, usus non commercialis, share alike)
-
-**lekt4502.jpg**: Fons imaginis: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Accessus die 2009-01-08. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla mutatio)
 :::
 

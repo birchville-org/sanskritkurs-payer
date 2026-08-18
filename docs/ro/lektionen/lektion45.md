@@ -5,13 +5,13 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 45
 
 ## 45.1. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) a rădăcinilor neatomice fără sufix cu final vocalic (continuare)
 
-### 45.1.1. A treia clasă de prezente (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
+### 45.1.1. A treia clasă de prezente (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 
@@ -115,7 +115,7 @@ pentru divizarea comunității (⟪सङ्घभेद⟫) vezi:
 :::
 2\. V-ați bucurat de pământ?
 
-3\. Ai primit un dar de la rege? <!-- TODO: Fallback translation -->
+3\. Ai primit un dar de la rege?
 
 4\. Om sfinte, de ce nu te temi de pericole?
 
@@ -125,9 +125,9 @@ pentru divizarea comunității (⟪सङ्घभेद⟫) vezi:
 
 7 zeiță, ar fi trebuit să îndeplini dorința de fericire a lui vaiśya, care a făcut fapte meritorii.
 
-8\. Elefanți, nu ar trebui să rupeți lanțurile. <!-- TODO: Fallback translation -->
+8\. Elefanți, nu ar trebui să rupeți lanțurile.
 
-9\. Omule, egal cu leul, de ce nu îți îndrezi întreaga atenție către Absolut (Brahman)? <!-- TODO: Fallback translation -->
+9\. Omule, egal cu leul, de ce nu îți îndrezi întreaga atenție către Absolut (Brahman)?
 
 10\. Ai, poet, măsurat lumiile?
 
@@ -145,13 +145,7 @@ B) Traduceți:
 ![](/images/lekt4502.jpg)
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4502))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
 
-**lekt4501.jpg**: Tipărire pe bloc textil, Ahmedabad. -- Sursa imaginii: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accesat la 2009-01-08. -- Licență Creative Commons (Atribuire, utilizare non-comercială, share alike)
-
-**lekt4502.jpg**: Sursa imaginii: John Isaac / Banca Mondială. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Accesat la 2009-01-08. -- Licență Creative Commons (Atribuire, utilizare non-comercială, fără modificări)
 :::
 

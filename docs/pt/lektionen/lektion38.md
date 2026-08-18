@@ -97,7 +97,7 @@ Exemplos:
 Fig.: ⟪सीमा⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3803))
 :::
-### 38.3.2. Substantivos em -man ou -van após consoante <!-- TODO: Fallback translation -->
+### 38.3.2. Substantivos em -man ou -van após consoante
 
 ::: grammar-box
 *   Starker Stamm: -mān, -vān
@@ -197,13 +197,13 @@ Exemplo:
 Fig.: ⟪हस्ती⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : aquele que tem mãos (humanas) <!-- TODO: Fallback translation -->
+⟪हस्तवन्त्⟫ : aquele que tem mãos (humanas)
 
 ::: media
 ![](/images/lekt3807.webp)
 Fig.: ⟪हस्तवान्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3807))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -288,14 +288,14 @@ Exemplo:
 Fig.: ⟪सूर्यः⟫
 (Fonte da imagem: [Details](/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: água <!-- TODO: Fallback translation -->
+⟪उदक⟫ n.: água
 
 ::: media
 ![](/images/lekt3805.webp)
 Fig.: ⟪उदकम्⟫
 (Fonte da imagem: [Details](/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : soprar, assoprar <!-- TODO: Fallback translation -->
+⟪वा⟫ 2P ⟪वाति⟫ : soprar, assoprar
 
 ::: indent
 Fut. ⟪वास्यति⟫
@@ -400,7 +400,7 @@ dele:
 ![](/images/lekt3810.webp)
 Fig.: ⟪अशोकवृक्षः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3810))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -563,7 +563,7 @@ Inf. ⟪सर्तुम्⟫
 
 Explicações:
 
-:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. de ⟪दशन्⟫ "dez" <!-- TODO: Fallback translation -->
+:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. de ⟪दशन्⟫ "dez"
 
 ⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual de ⟪बाहु⟫ m. "braço"
 
@@ -571,7 +571,7 @@ Explicações:
 
 :sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativo de ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "querer reconhecer, querer saber"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. de ⟪नवन्⟫ "nove" <!-- TODO: Fallback translation -->
+⟪नव⟫ Nom.Akk.pl.m.f.n. de ⟪नवन्⟫ "nove"
 
 :sig[⟪वयम्⟫] Nom.pl. "nós"
 
@@ -589,20 +589,3 @@ Explicações:
 
 ⟪युष्माकम्⟫ Gen.pl. de :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Fig.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Fonte da imagem: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Acedido em 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licença Creative Commons (Atribuição, Uso Não-Comercial)\]
-- **lekt3802.jpg**: Fig.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Fonte da imagem: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Acedido em 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licença Creative Commons (Atribuição, Uso Não-Comercial)\]
-- **lekt3803.jpg**: Fig.: ⟪सीमा⟫  Posto de fronteira entre a Índia e o Paquistão em Wagah (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Fonte da imagem: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Acedido em 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licença Creative Commons (Atribuição, Uso Não-Comercial, Partilha nos Mesmos Termos)\]
-- **lekt3804.jpg**: Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, séculos II/III d.C. \[Fonte da imagem: Wikipedia. Domínio público\]
-- **lekt3805.jpg**: Fig.: ⟪उदकम्⟫  Aldeia de Darewadi, Distrito de Ahmed Nagar = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Fonte da imagem: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Acedido em 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licença Creative Commons (Atribuição, Uso Não-Comercial, Partilha nos Mesmos Termos)\]
-- **lekt3806.jpg**: Fig.: ⟪हस्ती⟫  Parque Nacional de Nagarhole = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Fonte da imagem: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Acedido em 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licença Creative Commons (Atribuição, Uso Não-Comercial, Partilha nos Mesmos Termos)\]
-- **lekt3807.jpg**: Fig.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Fonte da imagem: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Acedido em 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licença Creative Commons (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)\]
-- **lekt3808.jpg**: Fig.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  década de 1930 \[Fonte da imagem: Wikipedia. Domínio público\]
-- **lekt3809.jpg**: Fig.: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Fonte da imagem: Wikipedia. Licença GNU FDL\]
-- **lekt3810.jpg**: Fig.: Árvore de Ashoka = _Saraca asoca_ (Roxb.) Wilde  Kolkata = কলকাতা \[Fonte da imagem: J.M.Garg / Wikipedia. Licença GNU FDL\]
-- **lekt3811.jpg**: Fig.: Maior extensão do império de Aśoka e locais de descoberta dos seus éditos em rocha e pilar \[Fonte da imagem: Wikipedia.Licença GNU FDL\]
-- **lekt3812.jpg**: Fig.: ⟪विनोदः⟫  Jogo de Carrom \[Fonte da imagem: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Acedido em 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licença Creative Commons (Atribuição, Uso Não-Comercial, Partilha nos Mesmos Termos)\]
-- **lekt3813.jpg**: Fig.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Fonte da imagem: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Acedido em 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licença Creative Commons (Atribuição, Uso Não-Comercial)\]
-- **lekt3814.jpg**: Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Fonte da imagem: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Acedido em 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licença Creative Commons (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)\]
-:::

@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lezione 36
 
@@ -426,7 +426,7 @@ Spiegazioni:
 
 :sig[⟪सर्वे⟫] : Nom. pl. masch. di ⟪सर्व⟫ "tutti, ciascuno"
 
-⟪त्रयस्⟫ : Nom. pl. masch. di ⟪त्रि⟫ "tre" &lt;!-- TODO: Fallback translation --&gt;
+⟪त्रयस्⟫ : Nom. pl. masch. di ⟪त्रि⟫ "tre" &lt;!--  --&gt;
 
 ⟪सर्वास्⟫ : Nom./Acc. pl. fem. di ⟪सर्व⟫ "tutti, ciascuno"
 :::
@@ -508,13 +508,3 @@ Determinare e tradurre le seguenti forme verbali in tutti i modi possibili:
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫  Udaipur = ⟪उदयपुर⟫ [Fonte dell'immagine: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Accesso il  2008-12-28. --   Licenza Creative Commons (Attribuzione, uso non commerciale)]
-- **lekt3602.jpg**: Fig.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Fonte dell'immagine: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accesso il  2008-12-28. --   Licenza Creative Commons (Attribuzione, condividi allo stesso modo)]
-- **lekt3603.jpg**: Fig.: ⟪अनगार्यम्⟫ 	Nord-est della Thailandia = อีสาน 	[Fonte dell'immagine: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Accesso il  	2008-12-28. --  	 	Creative  	Commons License (Attribuzione, uso non commerciale, nessuna  	Modifica)]
-- **lekt3604.jpg**: Fig.: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. peli del corpo) [Fonte dell'immagine: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Accesso il 2008-12-29.  --   Creative  Commons License (Attribuzione, uso non commerciale)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ Gandhara, 1./2. sec. d.C. [Fonte dell'immagine: Wikipedia. GNU FDLicense]
-- **lekt3606.jpg**: Fig.:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫ Mudrā [Fonte dell'immagine: Payer]
-- **lekt3607.jpg**: Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Fonte dell'immagine: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Accesso il  2008-12-29. --   Creative  Commons License (Attribuzione, uso non commerciale, condividi allo stesso modo)]
-:::

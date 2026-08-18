@@ -9,14 +9,6 @@ status: stable
 
 # 第4课
 
-::: deleteme-box
-**在本课中，您将学习：**
-- 主格中的疑问代词和指示代词
-- 词尾 -m 的连音（Sandhi）
-- 词尾 -e 的连音（Sanddi）
-- 词尾 -d 的连音（Sandhi）
-- 简单的疑问句式
-:::
 ## 4.1. 简单的补充问句（词问句）与回答
 
 ### 4.1.1. 疑问代词 und Demonstrativpronomen

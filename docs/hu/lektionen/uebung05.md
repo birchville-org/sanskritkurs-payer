@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 5
 
-A) Fordítsa le a következő mondatokat és összetételeket, valamint oldja fel a bennük szereplő dvandvákat szanszkritra: <!-- TODO: Fallback translation -->
+A) Fordítsa le a következő mondatokat és összetételeket, valamint oldja fel a bennük szereplő dvandvákat szanszkritra:
 
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ. (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
 
@@ -36,7 +36,7 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪।⟫ ⟪त्रयो⟫ ⟪वर्णाद्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-3. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (jó szanszkritban: sāmargyajurvedās trayī) <!-- TODO: Fallback translation -->
+3. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (jó szanszkritban: sāmargyajurvedās trayī)
 
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫
 
@@ -54,7 +54,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 Vágy, harag és kapzsiság.
 
-kāmaḥ krodho lobhaś ca. <!-- TODO: Fallback translation -->
+kāmaḥ krodho lobhaś ca.
 
 ⟪कामः⟫ ⟪क्रोधो⟫ ⟪लोभश्च⟫ ⟪।⟫
 
@@ -82,7 +82,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Kauṭilīya-arthaśāstra 1.2.1. alapján.) <!-- TODO: Fallback translation -->
+7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Kauṭilīya-arthaśāstra 1.2.1. alapján.)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫
 
@@ -95,7 +95,7 @@ A tudományok: filozófia, védisztika, gazdaságtan és politikatudomány.
 ::: media
 ![](/images/uebung010.webp)
 Ábra: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
-(Képmegjelenítés: [Részletek](/licenses#uebung010)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Részletek](/licenses#uebung010))
 
 :::
 ---
@@ -122,7 +122,7 @@ A három kétszer született rend: bráhman, kṣatriya és vaiśya.
 
 A vaiśyák kétszer születtek / a vaiśya nők kétszer születtek.
 
-B) Írja be a megfelelő alakot: <!-- TODO: Fallback translation -->
+B) Írja be a megfelelő alakot:
 
 (dvija, sādhu, kavi) ... rāmaḥ
 

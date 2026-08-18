@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 layout: doc
 title: Impressum & Zitieren

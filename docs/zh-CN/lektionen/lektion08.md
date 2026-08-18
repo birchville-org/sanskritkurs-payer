@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # 第八课
 
-::: deleteme-box
-**在本课中，您将学习：**
-- 名词（kṛt-和taddhita后缀）的构成
-- 重要的名词后缀（-a, -ana, -tra, -ti, -tva, -tā）
-- 第八类现在时（tanādi）
-- **kṛ**的变位（tun，意为“做”）
-:::
 
 ## 8.1. 名词的构成
 

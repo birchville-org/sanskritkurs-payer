@@ -331,20 +331,3 @@ status: stable
 （图片来源：[详情](/zh-CN/licenses#lekt3407)）
 :::
 
-::: deleteme-box
-
-**lekt3401:** Nandi公牛雕像，昌迪希山，迈索尔。[图片来源：Luna Park / Flickr. CC BY-NC-ND]
-
-**lekt3402:** 金庙（哈曼迪尔·萨希卜），阿姆利则。[图片来源：维基百科. GNU FDL]
-
-**lekt3403:** 芝麻。[图片来源：维基百科。公有领域]
-
-**lekt3404:** Sesamblüte. [Bildquelle: Franz Xaver / Wikipedia. GNU FDL]
-
-**lekt3405:** Lakshadweep群岛地图。[图片来源：CIA World Factbook。公有领域]
-
-**lekt3406:** 印度的稻田。[图片来源：Ray Witlin / 世界银行。CC BY-NC-ND]
-
-**lekt3407:** 印度教婚礼仪式。[图片来源：BriceFR / Flickr. CC BY-NC-SA]
-:::
-

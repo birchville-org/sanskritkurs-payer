@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # Mësimi 9
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Das Samāhāradvandva ("Zusammenfassungsdvandva")
-- Die Bildung von Nominalstämmen mit den Suffixen **-ka** (taddhita) und **-aka** (kṛt)
-- Wortschatz zum Thema Berufe und soziale Rollen
-- Zitate aus klassischen Gesetzestexten (Dharmaśāstras)
-:::
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
 

@@ -9,14 +9,6 @@ status: stable
 
 # Lekcija 7
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Den Verbalsatz mit direktem Objekt
-- Den Akkusativ der Nomina und Pronomina
-- Den Sandhi von auslautendem -n
-- Das Neutrum der a-Stämme
-- Die athematischen Präsensklassen (am Beispiel der 5. Klasse)
-:::
 
 ::: center
 **Wochenspruch**

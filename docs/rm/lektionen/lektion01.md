@@ -85,7 +85,7 @@ Al cumenzament in curiosum:
 ![](/images/lekt0103.webp)
 Fig.: Titul da la coperta d'ina ediziun da tschep
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt0103))
-::: <!-- TODO: Fallback translation -->
+:::
 
 >**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Dapi alura bleras ediziuns, er ediziuns da tschep. -- **Lectura obligatoria.** Ina buna survista davart vita, istorgia e cultura en l'India preislamica. Survista generala da las differentas areas da la classica indologia.
 
@@ -98,7 +98,7 @@ Fig.: Titelpagina
 
 La meglra grammatica sistematica:
 
-> **Kielhorn**, Franz \<1840-1908\>: Grammatica da la lingua sanscrita / Translatà dal englais da W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 paginas. -- Titul original: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+> **Kielhorn**, Franz \<1840-1908\>: Grammatica da la lingua sanscrita / Translatà dal englais da W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 paginas. -- Titul original: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -108,7 +108,7 @@ Fig.: Titul da la coperta
 
 Ina buna grammatica sistematica sin la basa dals grammatichers nativs ed al emprim in'introducziun en Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Grammatica sanscrita / Originalmainent scrit en malayalam. Translatà en englais da K.V.R. Pai. -- Parathode : Edituraziun propria, 1983. -- 818 paginas ; 23 cm. <!-- TODO: Fallback translation -->
+> **Kunnappally, John:** Prakriyā bhāshyam : Grammatica sanscrita / Originalmainent scrit en malayalam. Translatà en englais da K.V.R. Pai. -- Parathode : Edituraziun propria, 1983. -- 818 paginas ; 23 cm.
 
 ::: media
 ![](/images/lekt0107.jpg)

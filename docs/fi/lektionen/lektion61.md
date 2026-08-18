@@ -1,25 +1,26 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: "Oppitunti 61"
+subtitle: "Vartalonominien deklinaatio pääte -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Luento 61
+---
 
-## 61.1. Vartalonominien taivutus päättymällä -ā, -ī, -ū <!-- TODO: Fallback translation -->
+# Oppitunti 61
 
-### 61.1.1. Vartalonominien päättymä -ā sanan ⟪तत्पुरुष⟫ lopussa <!-- TODO: Fallback translation -->
+## 61.1. Vartalon substantiivien deklinaatio päättymillä -ā, -ī, -ū
+
+### 61.1.1. Vartalon substantiivit päättymällä -ā kohdassa ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vokaalipäätteiden edellä vartalon päävokaali heikoissa sijamuodoissa on kadonnut Ø.**
+**Vokaalipäätteiden edellä vartalonvokaali heikoissa sijamuodoissa on kadonnut Ø.**
 
-**maskuliiniin ja femininin taivutus ovat identtiset.**
+**Maskuliinin ja feminiinin deklinaatio on identtinen.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
-⟪विश्वपा⟫ m.f. "kaiken suojeleva"
+⟪विश्वपा⟫ m.f. "kaikkia suojeleva"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -31,16 +32,16 @@ Paradigma: <!-- TODO: Fallback translation -->
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Naisukkaiset juurimuodot pääte -ī
+### 61.1.2. Feminiiniset vartalon substantiivit päättymällä -ī
 
 ::: grammar-box
-**Vor vokalischer Pääte wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**Vokaalipäätteen edessä -ī korvautuu muodolla -iy.**
 
-**Säännöllisten taivutuspäätteiden muodostusten lisäksi Dat.Ab.Gen.Lok.sg. ja Gen.pl. esiintyy myös monisylabisten naispuolisten substantiivien -ī (⟪देवी⟫) mallin mukaisia muodostelmia.**
+**Säännöllisten sijapäätteiden muodostusten lisäksi dat., abl., gen. ja lok. sg:ssä sekä gen. pl.:ssa esiintyy myös monitavuisia feminiineja seuraava -ī-muoto (⟪देवी⟩).**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
-⟪धी⟫ f. "Ajatus"
+⟪धी⟫ f. "ajatus"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -52,7 +53,7 @@ Paradigma: <!-- TODO: Fallback translation -->
 | ⟪षष्ठी⟫ | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
 
-Epäsäännöllinen: ⟪स्त्री⟩ f. "nainen"
+Epäsäännöllinen: ⟪स्त्री⟫ f. "nainen"
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -68,34 +69,34 @@ Epäsäännöllinen: ⟪स्त्री⟩ f. "nainen"
 :::
 ::: media
 ![](/images/lekt6102.webp)
-Kuv.: ⟪स्त्रियः⟫
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6102))
+Kuv: ⟪स्त्रियः⟫
+(Kuvälähde: [Details](/fi/licenses#lekt6102))
 :::
-### 61.1.3. Juurinominat -ī-päätteellä ⟪तत्पुरुष⟫ lopussa
+### 61.1.3. Juurinominat, jotka päättyvät -ī ⟪तत्पुरुष⟫ lopussa
 
 ::: grammar-box
-**Vokaalipäätteiden edellä -ī korvautuu -y:llä, jos sen edeltää vain juureen kuuluva konsonantti. Jos useampi juureen kuuluva konsonantti edeltää, -ī korvautuu vokaalipäätteen edellä muodolla -iy.**
+**Vokaalipäätteiden edellä -ī korvautuu muodolla -y, jos sen edeltää vain juureen kuuluva konsonantti. Jos useampi juureen kuuluva konsonantti edeltää, -ī korvautuu vokaalipäätteiden edellä muodolla -iy.**
 
-**Taivutus on maskuliinissa ja feminiinissä identtinen.** <!-- TODO: Fallback translation -->
+**Taivutus on maskulinumin ja femininin osalta identtinen.**
 
-**Epäsäännöllisyys: Yhdyssanat, jotka päättyvät -⟪नी⟩ "johtava", saavat lokatiivin singularisessa pääkkeeksi -ām (kuten ⟪देवी⟩):**
+**Epäsäännöllisyys: Yhdyssanat muodossa -⟪नी⟩ "johtava" saavat lokatiivin singularisessa päätteeksi -ām (kuten ⟪देवी⟩):**
 esim. ⟪ग्रामणी⟩ "joukkoa/kylää johtava": lok.sg.m.f. ⟪ग्रामण्याम्⟩
 :::
-Paradigmat: <!-- TODO: Fallback translation -->
+Paradigmat:
 
 ⟪शुद्धधी⟩ m., f. "puhdasta ajatteleva"
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟩ | ⟪द्विवचनम्⟩ | ⟪बहुवचनम्⟩ |
 | --- | --- | --- | --- |
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪शुद्धधीस्⟫ | ⟪शुद्धध्यौ⟫ | ⟪शुद्धध्यस्⟫ |
-| ⟪द्वितीया⟫ | ⟪शुद्धध्यम्⟫ | ^^ | ^^ |
-| ⟪तृतीया⟫ | ⟪शुद्धध्या⟫ | ⟪शुद्धधीभ्याम्⟫ | ⟪शुद्धधीभिस्⟫ |
-| ⟪चतुर्थी⟫ | ⟪शुद्धध्ये⟫ | ^^ | ⟪शुद्धधीभ्यस्⟫ |
-| ⟪पञ्चमी⟫ | ⟪शुद्धध्यस्⟫ | ^^ | ^^ |
-| ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
-| ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
+| **⟪प्रथमा⟩ /:br⟪आमन्त्रितम्⟩** | ⟪शुद्धधीस्⟩ | ⟪शुद्धध्यौ⟩ | ⟪शुद्धध्यस्⟩ |
+| ⟪द्वितीया⟩ | ⟪शुद्धध्यम्⟩ | ^^ | ^^ |
+| ⟪तृतीया⟩ | ⟪शुद्धध्या⟩ | ⟪शुद्धधीभ्याम्⟩ | ⟪शुद्धधीभिस्⟩ |
+| ⟪चतुर्थी⟩ | ⟪शुद्धध्ये⟩ | ^^ | ⟪शुद्धधीभ्यस्⟩ |
+| ⟪पञ्चमी⟩ | ⟪शुद्धध्यस्⟩ | ^^ | ^^ |
+| ⟪षष्ठी⟩ | ^^ | ⟪शुद्धध्योस्⟩ | ⟪शुद्धध्याम्⟩ |
+| ⟪सप्तमी⟩ | ⟪शुद्धध्यि⟩ | ^^ | ⟪शुद्धधीषु⟩ |
 
-⟪यवक्री⟫, m., f. "ohraa ostava"
+⟪यवक्री⟫ m., f. "ohra ostava"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -107,14 +108,14 @@ Paradigmat: <!-- TODO: Fallback translation -->
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Yksitavuiset feminiiniset juuranomina -ū-päätteisiä
+### 61.1.4. Yksitavuiset feminiiniset juurinominat -ū-päätteisinä
 
 ::: grammar-box
-**Vokaalin edellä oleva vartalo: -uv** <!-- TODO: Fallback translation -->
+**Vokaalin edellä: -uv**
 
-**Deklination analog zu den femininen Juurinomina auf -ī**
+**Taivutus on analoginen feminiinisten juurinominien kanssa -ī-päätteisinä**
 :::
-Malleus: <!-- TODO: Fallback translation -->
+Paradigma:
 
 ⟪भू⟫ f. "maa"
 
@@ -128,14 +129,14 @@ Malleus: <!-- TODO: Fallback translation -->
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Juurtenominatiivit -ū päässä ⟪तत्पुरुष⟫
+### 61.1.5. Juurinominat -ū-päätteisinä ⟪तत्पुरुष⟫ lopussa
 
 ::: grammar-box
-**-ū korvaa -v, kun sen edellä on vain juureen kuuluva konsonantti vokaalipäätteiden edessä. Jos useampi juureen kuuluva konsonantti on edellä, -ū korvataan vokaalipäätteen edessä muodolla -uv.**
+**Vokaalipäätteiden edellä -ū korvautuu muodolla -v, jos sen edeltää vain yksi juureen kuuluva konsonantti. Jos useampi kuin yksi juureen kuuluva konsonantti edeltää, -ū korvautuu muodolla -uv vokaalipäätteiden edellä.**
 
-**Taivutus on maskulinumin ja femininin osalta sama.**
+**Taivutus on maskuliinissa ja feminiinissä identtinen.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
 ⟪खलपू⟫ m., f. "aitta siivoava"
 
@@ -151,16 +152,15 @@ Paradigma: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6106.webp)
-Kuv: ⟪रथ्याप्वः⟫
-⟪काशीपुर⟫
-(Kuv lähde: [Tiedot](/fi/licenses#lekt6106))
+Kuv: ⟪रथ्याप्वः काशीपुर⟫
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt6106))
 :::
-### 61.1.6. Monitavisten vartalon -ū pääteisten naissukujen taivutus <!-- TODO: Fallback translation -->
+### 61.1.6. Monitavuisten vartaloilla -ū päättyvien feminiinien deklinaatio
 
 ::: grammar-box
-**Monitaviset vartalon -ū pääteiset naissuku taivutetaan analogisesti monitavisten vartalojen -ī (⟪देवी⟩) kanssa, mutta ne päättyvät nominatiivin yksikössä -s:ään.**
+**Monitavuiset vartaloilla -ū päättyvät feminiinit deklinoidaan analogisesti monitavuisten vartaloilla -ī päättyvien (⟪देवी⟫) kanssa, mutta ne päättyvät nominatiivin yksikössä vokaaliin -s.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
 ⟪वधू⟫ f. "nuori nainen, morsian"
 
@@ -177,20 +177,19 @@ Paradigma: <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt6107.webp)
-Kuv: ⟪वध्वौ⟫
-⟪जोधपुर⟫
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6107))
+Kuv: ⟪वध्वौ जोधपुर⟫
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt6107))
 :::
-## 61.2. Perifraastinen tulevaisuusaika (⟪लुट्⟫) <!-- TODO: Fallback translation -->
+## 61.2. Perifraasinen futuri (⟪लुट्⟫)
 
 ::: grammar-box
-**Yksinkertaisen tulevaisuuden (⟪ऌत्⟫) ohella on olemassa perifraastinen tulevaisuusaika (⟪लुट्⟫). Kotimaisten grammatikkojen opin mukaan sitä käytetään ilmaisemaan kaukaise tulevaisuutta ("päivän kuluttua"), kun taas yksinkertainen tulevaisuus ilmaisee lähitulevaisuutta ("samana päivänä"). Klassisessa sanskritissa ei näytä yleensä tehtävän eroa kahden tulevaisuuden käytön välillä.** <!-- TODO: Fallback translation -->
+**Yksinkertaisen futurin (⟪ऌत्⟫) ohella on olemassa perifraasinen futuri (⟪लुट्⟫). Kotimaisten grammatikoiden opin mukaan sitä käytetään kuvaamaan kaukaise tulevaisuutta ("päivän kuluttua"), kun taas yksinkertainen futuri ilmaisee lähitulevaisuutta ("samana päivänä"). Klassisessa sanskritissa kahden futuurin välillä ei näytä yleensä tehtävän eroa käytössä.**
 
 **Muodostus:**
 
-**Perifraastinen tulevaisuusaika muodostetaan yhdistämällä agentin substantiivi pääte -tṛ verbimuotoon ⟪अस्⟫ 2. Kolmas persoona on yksinkertainen substantiivi vastaavassa lukussa, sukupuolesta riippumatta. Yhdistyksissä verbimuodon ⟪अस्⟫ kanssa substantiivi kaikissa persoonissa ja luvuissa on muotoa Nom.sg. pääte -tā.**
+**Perifraasinen futuri muodostetaan yhdistämällä vartalo -tṛ pääteiseen agentin substantiiviin verbin ⟪अस्⟫ 2 preesens. Kolmas persoona on yksinkertainen substantiivi vastaavassa lukussa, ilman eroa grammatillisessa sukua. Yhdistyksissä verbin ⟪अस्⟫ kanssa substantiivi on kaikissa persoonissa ja luvuissa nominatiivin yksikön muodossa -tā.**
 :::
-Perifraastisen tulevaisuuden pääte on siis:
+Perifraattisen tulevaisuuden aikamuodon päätteen ovat siis:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -201,9 +200,9 @@ Perifraastisen tulevaisuuden pääte on siis:
 | **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 :::
 ::: grammar-box
-**Juuren muoto: Juuri on yleensä samassa muodossa kuin yksinkertaisessa tulevaisuudessa. Samoin pätee liitinvokaali -i-.**
+**Verbijuurten muoto: Verbijuuri on yleensä samassa muodossa kuin yksinkertaisessa tulevaisuuden aikamuodossa. Sama pätee liitteenä käytettävään vokaaliin -i-.**
 :::
-Esimerkit: <!-- TODO: Fallback translation -->
+Esimerkkejä:
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ jne. |
 | --- | --- |
@@ -224,67 +223,65 @@ Paradigma:
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
 ::: grammar-box
-**Verbi ⟪अस्⟫ eriytyminen substantiivijohdannaisesta on hyvin harvinaista.**
+**Erittäin harvoin verbijärjestelmä erottaa ⟪अस्⟫ substantiivisäikeestä.**
 :::
-## 61.3. Intensiiivi (frequentatiivi) (⟪चर्करीतम्⟫)
+## 61.3. Intensivimuoto (Frequentativum) (⟪चर्करीतम्⟫)
 
 ::: grammar-box
-**Jokaisesta yhdestä tavusta koostuvasta, konsonantilla alkavasta ensimmäisen yhdeksän preesensluokan verbijuuresta voidaan muodostaa intensiiivi (⟪चर्करीतम्⟩); toisin sanoen: muutaman poikkeuksen ohella kaksitavuisista juurista (esim. ⟪जागृ⟩), vokaalilla alkavista juurista ja kymmenennen preesensluokan juurista (⟪चुरादिगण⟩) ei voida muodostaa intensiiiviä.** <!-- TODO: Fallback translation -->
+**Jokaisesta yhdestä tavuisesta, konsonantilla alkavasta ensimmäisen yhdeksän preesensluokan verbijuurresta voidaan muodostaa intensiivimuoto (⟪चर्करीतम्⟫); toisin sanoen: harvoista poikkeuksista luopuen kahdesta tavuisista juurista (esim. ⟪जागृ⟫), vokaalilla alkavista juurista ja kymmenennen preesensluokan juurista (⟪चुरादिगण⟫) ei voida muodostaa intensiivimuotoa.**
 
-**Intensiivin merkitys on:**
+**Intensiivimuodon merkitys:**
 
-*   **että henkilö tai asia tekee tai kärsii toistuvasti sitä, mitä juuri ilmaisee**
-⟪कृ⟩ 8U: ⟪चेक्रीयते⟩ / ⟪चर्करीति⟩ "hän tekee jatkuvasti"  
-⟪भू⟩ 1P: ⟪बोभूयते⟩ / ⟪बोभवीति⟩ "hän on (tulee) usein" <!-- TODO: Fallback translation -->
+*   **että henkilö tai asia toistaa jatkuvasti tai kokee juuren ilmaiseman toiminnan**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "hän tekee jatkuvasti"  
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "hän on (tulee) usein"  
 
-*   **että henkilö tai asia tekee kärsii intensiivisesti sitä, mitä Juuri ilmaisee:**
-⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "hän tekee intensiivisesti, hän tekee tehokkaasti"
+*   **että henkilö tai asia suorittaa jatkuvasti tai kokee juuren ilmaiseman toiminnan intensiivisesti:**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "hän tekee intensiivisesti, hän tekee tehokkaasti"  
 
-*   **Juurissa, jotka ilmaisevat liikettä, intensiivimuoto tarkoittaa kaarevaa liikettä:**
-⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "hän kävelee kaarteissa" (EI: "hän kävelee usein") <!-- TODO: Fallback translation -->
+*   **liikettä ilmaisevilla juurilla intensiivimuoto tarkoittaa kaarevaa liikettä:**  
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "hän kävelee kaarteissa" (EI: "hän kävelee usein")  
 
-*   **joissakin juurissa (luettelo: Kielhorn, Grammatik § 458b) intensiivimuoto tarkoittaa moitetta:**
+*   **joissakin juurissa (luettelo: Kielhorn, Grammatik § 458b) intensiivimuoto tarkoittaa moitetta:**  
 ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "hän leikkaa huonosti"  
-⟪सद्⟫ 1P: ⟪सासद्यते⟫ "hän asettaa itsensä huonosti"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "hän istuu huonosti"
 :::
 ::: media
 ![](/images/lekt6104.webp)
-Kuv.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
+Kuv.: ⟪सर्पो वव्रज्यते ॥⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Kuv lähde: [Tiedot](/fi/licenses#lekt6104))
-::: <!-- TODO: Fallback translation -->
-
+(Kuv lähde: [Details](/fi/licenses#lekt6104))
 :::
+
 ::: grammar-box
 **Intensiivimuodon muodostaminen:**
 
-**Kaksi intensiviopetuksen tyyppiä:**
+**Intensiivimuodolla on kaksi muodostustyyppiä:**
 
-*   **Ātmanepada-intensiivi**
-*   **Parasmaipada-intensiivi**
+*   **Ātmanepada-intensiivimuoto**
+*   **Parasmaipada-intensiivimuoto**
 
-**Molemmat muodostetaan vahvalla reduplikaatiolla varustetusta juuresta. Molemmat eivät eroa merkitykseltään. Molempiin juuriin voidaan muodostaa molemmat.**
+**Molemmat muodostuvat vahvalla reduplikoinnilla varustetusta verbijuurresta. Molemmat eivät eroa merkitykseltään toisistaan. Molempia voidaan muodostaa samoille juurille.**
 :::
 ### 61.3.1. Ātmanepada-intensiivi
 
 ::: grammar-box
 **Muodostus:**
 
-**toistuva vartalo + -ya-**
+**dubloitu vartalo + -ya-**
 
-**Vartalon muoto: yleensä kuten passiivissa, eli pääsääntöisesti syävytetty:** <!-- TODO: Fallback translation -->
+**Vartalon muoto: yleensä kuten passiivissa, eli useimmiten astagradu:**
 
 Esimerkkejä:
 
 :::
 ::: indent
-⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
+⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
 :::
-Yksityiskohtaiset säännöt Kielhornin teoksessa Grammatik § 461. <!-- TODO: Fallback translation -->
+Säännöt yksityiskohtaisesti Kielhornin grammatikassa § 461.
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Esimerkit: <!-- TODO: Fallback translation -->
+**Dublaatio: yleisten sääntöjen mukaan. Dublaatiovokaali kuitenkin: a:n, i:n ja u:n sijaan ā, e, o**
+Esimerkkejä:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -295,13 +292,13 @@ Esimerkit: <!-- TODO: Fallback translation -->
 | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
 ::: grammar-box
-**Muodon -a-nasal juuret eivät pidennä vokaalia reduplikaatiotavussa, toistavat sen sijaan nasalin.**
+**-a-Nasal-päätteiset vartalot eivät pidennä dublaatiitavuksen vokaalia, vaan toistavat nasalin.**
 
 :::
 ::: indent
 esim. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 :::
-**Joissakin juurissa vokaalin ja juuren alkukonsonantin välissä on -nī- tai -rī- (-rī- juurissa, joilla intensiivissä on ṛ).** <!-- TODO: Fallback translation -->
+**Joissakin vartaloissa V:n ja vartalon alkukonsonantin väliin dublaatiitavuksen vokaalin ja vartalon alkukonsonantin väliin tulee -nī- tai -rī- (-rī- vartaloissa, joilla on intensiivissä ṛ).**
 
 ::: indent
 esim.
@@ -309,184 +306,182 @@ esim.
 ⟪वृत्⟫ 1Ā: ⟪व⟫:sig[⟪री⟫]⟪वृत्य⟫-
 :::
 ::: grammar-box
-**Konjugaatio:**
+**Käyttö:**
 
-*   **Preesensvartalo: kuten 4. preesensluokan (⟪दिवादिगण⟫) Ātmanepada.**
-*   **Passiivi ja muut aikamuodet: jos -ya- edeltää vokaali, intensiivivartalon -ya- korvautuu muodolla -y-, jos konsonantti edeltää, -ya- putoaa:**
-    *   **Passiivin preesens: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
-    *   **Perfekti: perifeerinen: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-    *   **Aoristi: iṣ-aoristi (aoristi 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Futuuri: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **perifeerinen futuuri: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+*   **Preesensvartalo: kuten 4. preesensluokan Ātmanepada (⟪दिवादिगण⟫).**
+*   **Passiivi ja muut aikamuodot: jos -ya:n edeltää vokaali, -ya korvautuu muodolla -y; jos konsonantti, -ya putoaa:**
+*   **Preesensin passiivi: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **Perfekti: perifeerinen muoto: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **Aoristi: iṣ-aoristi (aoristi 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **Futurum: seṭ-muoto: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **Perifeerinen futurum: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
 ### 61.3.2. Parasmaipada-intensiivi
 
 ::: grammar-box
-**Preesensvartalo (muut muodot ovat erittäin harvinaisia): muodostus ja konjugaatio kuten 3. preesensluokan verbilla (⟪जुहोत्यादिगण⟫) siten, että replikaatiotavun vokaali on korkeassa asteessa ja -a:n tapauksessa pidennetyssä asteessa.**
+**Preesensvartu (muut muodot ovat erittäin harvinaisia): Muodostus ja taivutus kuten verbin 3. preesensluokan (⟪जुहोत्यादिगण⟫) kanssa se erona, että reduplikatiivisylabin vokaali on korkeataustainen, -a:n kohdalla pidennetty.**
 
-**Yksikön indikatiivin preesensissä sekä 2.3.sg imperfektissa ja 3.sg imperatiivissa juuren ja pääteosan väliin voi lisätä -ī:n. Jos tämä -ī- lisätään, lyhyt vokaali toiseksi viimeisellä paikalla ei saa guhnitoida.** <!-- TODO: Fallback translation -->
+**Yksikön indikatiivin preesensissä sekä 2.3.sg:n imperfektissa ja 3.sg:n imperatiivissa juuren ja pään välille voidaan liittää -ī-. Jos tämä -ī- lisätään, lyhyt vokaali toiseksi viimeisessä sijassa ei saa guṇioida.**
 
-**Sama pätee nasaalilla tapahtuvaan reduplikointiin sekä -nī- tai -rī- väliosien lisäykseen kuin Ātmanepada-intensiivissä. -rī:n sijaan voi vaihtoehtoisesti käyttää muotoa -ri.**
+**Nasalilla tapahtuvasta reduplikatiivista sekä -nī- tai -rī:n liittämisestä pätee sama kuin Ātmanepada-intensiivissä. -rī:n sijaan voi vaihtoehtoisesti olla -ri-.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
 ⟪भू⟫ 1P
 
 Indikatiivin preesens (⟪लट्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि । बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि । बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोति । बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
-Imperfektiiiiii (⟪लङ्⟫):
+Imperfekti (⟪लङ्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस् । अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत् । अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-Imperatiivi (⟪लोट्⟩):
+Imperatiivi (⟪लोट्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु । बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
-Optatiivi (⟪विधिलिङ्⟩):
+Optatiivi (⟪विधिलिङ्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
 :::
-## 61.4. Nounivartalon johdokset (⟪नामधातु⟩)
+## 61.4. Nominivirbat (⟪नामधातु⟫)
 
-Nounivartalon johdokset (⟪नामधातवः⟩) muodostuvat toisin kuin aiemmin käsitellyt verbit ei verbijuurta vaan nounivartaloa vasten. Niissä on useita muodostustyyppejä. <!-- TODO: Fallback translation -->
+Nominivirbat (⟪नामधातवः⟫) muodostuvat toisin kuin aiemmin käsitellyt verbit, ei verbijuurta vaan substantiivikantaa. Tässä on useita muodostustyyppejä.
 
-### 61.4.1. Muoto ilman erityistä päätteitä, Parasmaipada <!-- TODO: Fallback translation -->
+### 61.4.1. Muodostus ilman erityistä liitettä, Parasmaipada
 
 ::: grammar-box
 **Merkitys:**
 
 :::
 ::: indent
-**yksi henkilö tai asia käyttäytyy samalla tavalla kuin se, minkä substantiivijohdannainen tarkoittaa, tai muistuttaa sitä.**
+**henkilö tai asia käyttäytyy niin kuin se, mihin substantiivikanta viittaa, tai on sen kaltainen.**
 :::
-**Taivutus:** <!-- TODO: Fallback translation -->
+**Käytäntö:**
 
 ::: indent
-**preesensvartalominaisuuksien mukaan 1. preesensluokan verbi (⟪भ्वादिगण⟫). Jos substantiivissa on meijä-vokaali, vain viimeinen vokaali käsitellään 1. luokan juurivokaalin tavoin. Sananloppuinen -a putoaa ennen temattivokaalia. Vokaali sananlopun nasalin edellä korvataan vastaavalla pitkällä vokaalilla.**
+**preesenskantana kuten verbin 1. preesensluokan verbillä (⟪भ्वादिगण⟫). Jos substantiivissa on mehl vokaalina, vain viimeinen vokaali käsitellään kuten 1. luokan juurvokaali. Lopussa oleva -a putoaa ennen temavokaalia. Vokaali lopun nasalin edessä korvataan vastaavalla pitkällä vokaalilla.**
 :::
-Esimerkkejä: <!-- TODO: Fallback translation -->
+Esimerkkejä:
 
-| ⟪कवि⟫ m. "runoilija" | ⟪कवयति⟫ "hän käyttäytyy kuin runoilija" |
+| ⟪कवि⟩ m. "runoilija" | ⟪कवयति⟩ "hän käyttäytyy kuten runoilija" |
 | --- | --- |
-| ⟪भू⟫ f. "maa" | ⟪भवति⟫ "hän käyttäytyy kuin maa" |
-| ⟪पितृ⟫ "isä" | ⟪पितरति⟫ "hän käyttäytyy kuin isä" |
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "hän käyttäytyy kuin Kṛṣṇa" |
-| ⟪माला⟫ f. "kruunu" | ⟪मालाति⟫ "se vastaa kruunua" |
-| ⟪राजन्⟫ m. " kuningas" | ⟪राजानति⟫ "hän käyttäytyy kuin kuningas" | <!-- TODO: Fallback translation -->
+| ⟪भू⟩ f. "maa" | ⟪भवति⟩ "hän käyttäytyy kuten maa" |
+| ⟪पितृ⟩ "isä" | ⟪पितरति⟩ "hän käyttäytyy kuten isä" |
+| ⟪कृष्ण⟩ m. Kṛṣṇa | ⟪कृष्णति⟩ "hän käyttäytyy kuten Kṛṣṇa" |
+| ⟪माला⟩ f. "seppele" | ⟪मालाति⟩ "se muistuttaa seppelettä" |
+| ⟪राजन्⟩ m. " kuningas" | ⟪राजानति⟩ "hän käyttäytyy kuten kuningas" |
 
-### 61.4.2. -ya-päätteisen muodostus, Parasmaipada
+### 61.4.2. Muodostus liitteellä -ya, Parasmaipada
 
 ::: grammar-box
 **Merkitys:**
 
-*   **joku toivoo sitä, mitä nominaalijohdos tarkoittaa**
-*   **joku kohtelee tai pitää henkilöä tai asiaa sellaisena kuin mitä nominaalijohdos tarkoittaa** <!-- TODO: Fallback translation -->
+*   **joku toivoo sitä, mitä nominijalusta tarkoittaa**
+*   **joku kohtelee tai käsittelee henkilöä tai asiaa niin kuin se, mitä nominijalusta tarkoittaa**
 
-**Vartamukun muodostaminen:**
+**Jalustan muodostus:**
 
 :::
 ::: indent
-**edellä -ya:ta seuraavassa sananloppuisessa konsonantissa tapahtuu seuraavat muutokset:**
+**edellä -ya:ta seuraavassa nominijalustan pääte muuttuu seuraavasti:**
 
 *   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫-
 *   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
 *   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
 *   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
 *   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
-*   **sananloppuinen nasali putoaa, edellä oleva vokaali käsitellään yllä mainittujen sääntöjen mukaisesti:** ⟪राजन्⟫ » ⟪राजीय⟫-
-*   **muut sananloppuiset konsonantit säilyvät muuttumattomina**
+*   **loppuun tuleva nasalinen putoaa, sen edellä oleva vokaali käsitellään yllä mainittujen sääntöjen mukaisesti:** ⟪राजन्⟫ » ⟪राजीय⟫-
+*   **muut lopussa olevat konsonantit pysyvät muuttumattomina**
 :::
-Esimerkkejä: <!-- TODO: Fallback translation -->
+Esimerkkejä:
 
-| ⟪पुत्र⟩ m. "poika" | ⟪पुत्रीयति⟩ "hän toivoo saavansa pojan" |
+| ⟪पुत्र⟩ m. "poika" | ⟪पुत्रीयति⟫ "hän toivoo poikaa" |
 | --- | --- |
-| ⟪कवि⟩ m. "runoilija" | ⟪कवीयति⟩ "hän toivoo saavansa runoilijan" |
-| ⟪गो⟩ f. "lehmä" | ⟪गव्यति⟩ "hän toivoo saavansa lehmän" |
-| ⟪राजन्⟩ m. " kuningas" | ⟪राजीयति⟩ "hän toivoo saavansa kuninkaan" |
-| ⟪विष्णु⟩ m. Viṣṇu | ⟪विष्णूयति⟩ "hän kohtelee jotakuta Viṣṇun kaltaisena" |
-| ⟪प्रासाद⟩ m. "palatsi" | ⟪प्रासादीयति⟩ "hän pitää (esim. majaa) palatsina" | <!-- TODO: Fallback translation -->
+| ⟪कवि⟫ m. "runoilija" | ⟪कवीयति⟫ "hän toivoo runoilijaa" |
+| ⟪गो⟫ f. "lehmä" | ⟪गव्यति⟫ "hän toivoo lehmää" |
+| ⟪राजन्⟫ m. " kuningas" | ⟪राजीयति⟫ "hän toivoo kuningasta" |
+| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "hän kohtelee jotakuta kuin Viṣṇua" |
+| ⟪प्रासाद⟫ m. "palatsi" | ⟪प्रासादीयति⟫ "hän pitää (esim. majaa) palatsina" |
 
-Huomioi seuraavien merkitykset:
+Huomioi seuraavien merkitys:
 
-| ⟪तपस्⟫ n. "askeesi" | ⟪तपस्यति⟫ "hän harjoittaa askeesia" |
+| ⟪तपस्⟫ n. "asketismi" | ⟪तपस्यति⟫ "hän harjoittaa asketismia" |
 | --- | --- |
-| ⟪नमस्⟫ n. "palvonta" | ⟪नमस्यति⟫ "hän palvelee" | <!-- TODO: Fallback translation -->
+| ⟪नमस्⟫ n. "palvonta" | ⟪नमस्यति⟫ "hän palvelee" |
 
 ::: media
 ![](/images/lekt6105.webp)
-Kuv.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
+Kuv.: ⟪किं तपस्यति न वा⟫ ?
 ⟪हरिद्वार⟫
-(Kuvälähde: [Tiedot](/fi/licenses#lekt6105))
-::: <!-- TODO: Fallback translation -->
-
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6105))
 :::
+
 ::: media
 ![](/images/lekt6103.webp)
-Kuv.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Kuvälähde: [Tiedot](/fi/licenses#lekt6103))
+Kuv.: ⟪बालौ शिवं नमस्यतः ॥⟫
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6103))
 :::
-### 61.4.3. Johtimella -kāmya muodostettu taivutus, Parasmaipada <!-- TODO: Fallback translation -->
+### 61.4.3. Muodostus suffiksilla -kāmya, Parasmaipada
 
 ::: grammar-box
 **Merkitys:**
 
-**joku toivoo sitä, mitä nominijalusta tarkoittaa**
+**joku toivoo sitä, mitä nominijohdos merkitsee**
 :::
-Esimerkit: <!-- TODO: Fallback translation -->
+Esimerkkejä:
 
-| ⟪पुत्र⟫ m. "poika" | ⟪पुत्रकाय्म्यति⟫ "hän toivoo poikaa" |
+| ⟪पुत्र⟫ m. "poika" | ⟪पुत्रकाय्म्यति⟫ "hän toivoo saavansa pojan" |
 | --- | --- |
-| ⟪यशस्⟫ n. "kuuluisuus" | ⟪यशस्काम्यति⟫ "hän toivoo kuuluisuutta" | <!-- TODO: Fallback translation -->
+| ⟪यशस्⟫ n. "kuuluisuus" | ⟪यशस्काम्यति⟫ "hän toivoo saavansa kuuluisuutta" |
 
 ::: media
 ![](/images/lekt6109.webp)
-Kuv.: ⟪यशस्काम्यन्ति⟫
-⟪मुंबई⟫
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6109))
+Kuv.: ⟪यशस्काम्यन्ति मुंबई⟫
+(Kuvan lähde: [Details](/fi/licenses#lekt6109))
 :::
-### 61.4.4. Muodostus suffiksilla -sya tai -asya, Parasmaipada <!-- TODO: Fallback translation -->
+### 61.4.4. Muodostus suffiksilla -sya tai -asya, Parasmaipada
 
 ::: grammar-box
 **Merkitys:**
 
 :::
 ::: indent
-**joku haluaa voimakkaasti sitä, mitä substantiivijohdos tarkoittaa.**
+**joku kaipaa voimakkaasti sitä, mitä nominijohdos merkitsee.**
 :::
-Esimerkit: <!-- TODO: Fallback translation -->
+Esimerkkejä:
 
 ::: grammar-box
-| ⟪मधु⟫ n. "hunaja" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "hän haluaa voimakkaasti hunajaa" |
+| ⟪मधु⟫ n. "hunaja" | ⟪मधुस्यति । मध्वस्यति⟫ "hän kaipaa voimakkaasti hunajaa" |
 | --- | --- |
-| ⟪अश्व⟫ m. "ori" | ⟪अश्वस्यति⟫ "(tamma) haluaa voimakkaasti oria" |
+| ⟪अश्व⟫ m. "ori" | ⟪अश्वस्यति⟫ "(tamma) kaipaa voimakkaasti oria" |
 :::
 ::: media
 ![](/images/lekt6110.webp)
-Kuv.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
+Kuv.: ⟪कस्तत्र न मधुस्यति⟫ ?
 Karli
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6110))
+(Kuvan lähde: [Details](/fi/licenses#lekt6110))
 :::
 ### 61.4.5. Muodostus suffiksilla -ya, Ātmanepada
 
@@ -495,25 +490,25 @@ Karli
 
 :::
 ::: indent
-**joku käyttäytyy sen mukaisesti, mihin substantiivijohdin viittaa, tai muistuttaa sitä.**
+**joku käyttäytyy kuten se, tai muistuttaa sitä, mitä nominijohdos merkitsee.**
 :::
-**Muodostus:** <!-- TODO: Fallback translation -->
+**Muodostus:**
 
-*   **loppu -a muuttuu muotoon » -ā**
-*   **loppu -ā pysyy muuttumattomana**
-*   **muuten kuten edellä -ya, Parasmaipada (katso yllä 4.2.)**
-*   **loppu -as voi vaihtoehtoisesti muuttua muotoon » -ā**
-*   **naispuolinen vartalo muuttuu yleensä maskuliiniseksi vartaloksi**
+*   **loppuun tuleva -a muuttuu » -ā**
+*   **loppuun tuleva -a pysyy muuttumattomana**
+*   **muuten kuten ennen -ya, Parasmaipada (katso yllä 4.2.)**
+*   **loppuun tuleva -as vaihtoehtoisesti » -ā**
+*   **Naispuolinen vartalo usein » Maskuliinivartalo**
 
-Esimerkit:
+Esimerkkejä:
 
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "hän käyttäytyy kuten Kṛṣṇa |
 | --- | --- |
-| ⟪यशस्⟫ 3 "kuuluisa" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "hän käyttäytyy kuten kuuluisa henkilö" |
-| ⟪कुमारी⟫ f. "tyttö" | ⟪कुमारायते⟫ "hän käyttäytyy kuten tyttö" | <!-- TODO: Fallback translation -->
+| ⟪यशस्⟫ 3 "kuuluisa" | ⟪यशायते । यशस्यते⟫ "hän käyttäytyy kuten kuuluisa henkilö" |
+| ⟪कुमारी⟫ f. "tyttö" | ⟪कुमारायते⟫ "hän käyttäytyy kuten tyttö" |
 
 ::: grammar-box
-**Joissakin substantiivijänteissä tämä suffiksi tarkoittaa: jostakin tulee tuon kaltainen tai siitä tulee se, mitä substantiivijänne tarkoittaa:** <!-- TODO: Fallback translation -->
+**Joissakin substantiivijänteissä tämä suffiksi tarkoittaa: jotain tulee samaksi kuin se, tai siitä tulee se, mitä substantiivijänne tarkoittaa:**
 
 :::
 ::: indent
@@ -529,38 +524,37 @@ Esimerkkejä:
 :::
 ::: media
 ![](/images/lekt6111.webp)
-Kuv.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Kuv lähde: [Tiedot](/fi/licenses#lekt6111))
+Kuv.: ⟪श्वानौ शब्दायेते⟫
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt6111))
 :::
-### 61.4.6. Muodostus suffiksilla -aya, -āpaya <!-- TODO: Fallback translation -->
+### 61.4.6. Muodostus suffiksilla -aya, -āpaya
 
 ::: grammar-box
-**Eri merkityksiä.**
+**Erilaisia merkityksiä.**
 
-**Konjugoitu kuten kausatiivi.**
+**Taivutetaan kuten kausatiivit.**
 :::
-Esimerkit:
+Esimerkkejä:
 
-| ⟪सत्य⟫ 3 "tosi" | ⟪स्तयपायति⟫ "hän julistaa todeksi" |
+| ⟪सत्य⟫ 3 "totta" | ⟪स्तयपायति⟫ "hän pitää jotain totena" |
 | --- | --- |
-| ⟪मुण्ड⟩ 3 "kalju" | ⟪मुण्डयति⟫ "hän ajaa kaljuksi" | <!-- TODO: Fallback translation -->
+| ⟪मुण्ड⟫ 3 "ajeltu kaljuksi" | ⟪मुण्डयति⟫ "hän ajaa kaljuksi" |
 
 ::: media
 ![](/images/lekt6113.webp)
-Kuv.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
+Kuv.: ⟪भिक्षुर्मुण्डयते ।⟫
 Thaimaa - เมืองไทย
-(Kuv lähde: [Tiedot](/fi/licenses#lekt6113))
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt6113))
 :::
-Luettelo denominatiiveista esim. kirjassa: <!-- TODO: Fallback translation -->
+Luettelo denominatiiveista esim. kirjassa:
 
 ::: media
 ![](/images/lekt6112.jpg)
 Kuv.:
-1845 - 1878 Intian ja orientin filologian professori Kööpenhaminan yliopistossa
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6112))
-::: <!-- TODO: Fallback translation -->
-
+1845 - 1878 Intian ja idän filologian professori Kööpenhaminan yliopistossa
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt6112))
 :::
+
 ::: indent
 **Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
@@ -571,31 +565,31 @@ Kuv.:
 
 :::
 ::: indent
-**Onnentoivotus**
+**Siunaus**
 :::
-**Muodostus:**
+**Koulutus:**
 
 **Parasmaipada:**
 
-**matalapäinen juuri + yās + sekundääripäätteet** <!-- TODO: Fallback translation -->
+**matalan tason juuri + yās + sekundääripäätteinen**
 
 ::: indent
-esim. ⟪बुध्यासम्⟫ "saan tietää!"
+esim. ⟪बुध्यासम्⟫ "että minä tunnistaisin!"
 :::
 **Ātmanepada:**
 
-**(usein) korkea-asteinen juuri + sī(y) + sekundääripäätteet**
+**(usein) korkean tason juuri + sī(y) + sekundääripäätteinen**
 
 **tai:**
 
-**(korkean tason) juuri + ⟪ै⟫ + sī(y) + sekundääripäätte**
+**(korkean tason) juuri + ⟪ै⟫ + sī(y) + sekundääripäätteinen**
 
 ::: indent
 esim.
-⟪जि⟫ : ⟪जेषीय⟫ "voittakoon oma etuni!"
-⟪बुध्⟫ : ⟪बोधिषीय⟫ "tulkoon tunnetuksi"
+⟪जि⟫ : ⟪जेषीय⟫ "että minä voittaisin omaksi hyödykseni!"
+⟪बुध्⟫ : ⟪बोधिषीय⟫ "että minä tunnistaisin"
 :::
-**Säännöt juuren muodolle yksityiskohtaisesti Kielhornin, Grammatik § 380ff.** <!-- TODO: Fallback translation -->
+**Säännöt juuren muodolle yksityiskohtaisesti Kielhornin, Grammatik § 380ff.**
 
 Paradigma:
 
@@ -611,26 +605,26 @@ Paradigma:
 :::
 ::: media
 ![](/images/lekt6114.webp)
-Kuv.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
-Santa Cruzin basilika, Kochi = കൊച്ചി
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6114))
+Kuv.: ⟪नववर्षं शुभं भूयात् ॥⟫
+Santa Cruz Basilica, Kochi = കൊച്ചി
+(Kuv lähde: [Details](/fi/licenses#lekt6114))
 :::
 ## 61.6. Konditionaali (⟪ऌङ्⟫)
 
 ::: grammar-box
-**Konditionaalia (⟪ऌङ्⟫) käytetään, kun halutaan ehdolauseissa ilmaista, että ehtona mainittu asia ei ole / ollut / tule olemaan todellisuutta. Konditionaali on käytettävä tällaisissa lauseissa sekä ehdollisessa että päälausetta.**
+**Konditionaalia (⟪ऌङ्⟫) käytetään, kun halutaan ehdolauseissa ilmaista, että se, mitä ehdoksi mainitaan, ei ole / ollut / tulee olemaan. Konditionaalia on käytettävä tällaisissa lauseissa sekä ehdollisessa että päälausetta.**
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ::: indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Jos olisi sateen hyvin satanut (tai sataisi), ravintoa olisi runsaasti. (Mutta ei ole satanut tarpeeksi.)"
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Jos olisi sateen satanut (tai sataisi), ruokaa olisi saatavilla runsaasti. (Mutta ei ole satanut tarpeeksi.)"
 :::
 ::: grammar-box
-**Konditionaalin (⟪ऌङ्⟫) muodostaminen:**
+**Konditionaalin muodostus (⟪ऌङ्⟫):**
 
-**Lisä + yksinkertaisen tulevaisuuden varren (⟪ऌत्⟫) + sekundaaripääte**
+**Augment + yksinkertaisen futuurin vartalo (⟪ऌत्⟫) + sekundääripäätteet**
 
-eli kuin imperfekti (⟪लङ्⟫) tulevaisuuden varrelle.
+eli kuin imperfekti (⟪लङ्⟫) futuurivartalon varassa.
 
 esim. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
 :::
@@ -646,43 +640,43 @@ Paradigma:
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Nomien deklinaatio vokaalipäätteillä -ai, -o, -au
+## 61.7. Substantiivien deklinaatio päättymillä -ai, -o, -au
 
 ::: grammar-box
-**Konsonantin edellä vartalon päätteenä on -ai, -o, -au; konsonantin jälkeen -āy, -av, -āv**
+**Konsonantin edellä näiden vartalojen päättyvät -ai, -o, -au; konsonantin edellä muodossa -āy, -av, -āv**
 
-**⟪गो⟩ m.f. "härkä, lehmä" on vartalonvaihtelua.** Katso tarkempi selitys Thumb-Hauschild § 296/7.
+**⟪गो⟩ m.f. "härkä, lehmä" on vartalonvaihtelua.** Katso tarkempi selitys kohdasta Thumb-Hauschild § 296/7.
 :::
-Paradigmat: Kielhorn, Grammatik § 153: <!-- TODO: Fallback translation -->
+Paradigmat: Kielhorn, Grammatik § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
-(Kuv lähde: [Tiedot](/fi/licenses#lekt6115))
+(Kuv lähde: [Details](/fi/licenses#lekt6115))
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
-Kuv.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Kuvan lähde: [Tiedot](/fi/licenses#lekt6118))
+Kuv: ⟪हरिद्वारे गावः ॥⟫
+(Kuv lähde: [Details](/fi/licenses#lekt6118))
 :::
-## 61.8. Loput pronominit <!-- TODO: Fallback translation -->
+## 61.8. Loput pronominit
 
-### 61.8.1. Kaksikon persoonapronominit
+### 61.8.1. Kaksikon personalpronomenit
 
 Kielhorn, Grammatik § 177:
 
 ::: media
 ![](/images/lekt6116.jpg)
-(Kuvan lähde: [Tiedot](/fi/licenses#lekt6116))
+(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6116))
 :::
 
 ::: media
 ![](/images/lekt6117.webp)
-Kuv: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
+Kuv: ⟪आवां स्वसारौ ॥⟫
 Apatani-kansa, Arunachal Pradesh
-(Kuväläide: [Yksityiskohdat](/fi/licenses#lekt6117))
+(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6117))
 :::
-### 61.8.2. Demonstratiivipronominit ⟪अदस्⟫ "tuo (kaukoinen)" <!-- TODO: Fallback translation -->
+### 61.8.2. Demonstratiivipronomini ⟪अदस्⟫ "tuo (kaukainen)"
 
 Maskuliini (⟪पुंस्⟫)
 
@@ -697,7 +691,7 @@ Maskuliini (⟪पुंस्⟫)
 | ⟪षष्ठी⟫ | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
 :::
-Neutri (⟪नपुंसक⟫)
+Neutrum (⟪नपुंसक⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -705,10 +699,10 @@ Neutri (⟪नपुंसक⟫)
 | ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
 | ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Kuten maskuliinissa
+Muu kuin maskuliini
 
 :::
-Nainen (⟪स्त्री⟫)
+Feminiini (⟪स्त्री⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -721,26 +715,25 @@ Nainen (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Pääsy sanskritinkirjallisuuden valtamerelle: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
+## 61.9. Siirtymä sanskritkirjallisuuden valtamereen: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-Sanskritkurssin jälkeen alkaa varsinainen "uinti" sanskritinkirjallisuuden valtameressä. Koska tämä valtameri on täynnä esteitä, on asianmukaista aloittaa uusi elämänvaihe Gaṇeśan kutsulla: <!-- TODO: Fallback translation -->
+Sanskritkurssin päätyttyä alkaa vasta oikea "uinti" sanskritkirjallisuuden valtameressä. Koska tämä valtameri on täynnä esteitä, on asianmukaista aloittaa tämä uusi elämänvaihe Gaṇešan huudolla:
 
 ::: media
 ![](/images/lekt6101.webp)
 Kuv: ⟪श्रीगणनाथः⟫
-Halebidu (ಹಳೆಬೀಡು), 12./13. jaa. kr.
-(Kuvälähde: [Tiedot](/fi/licenses#lekt6101))
-::: <!-- TODO: Fallback translation -->
-
+Halebidu (ಹಳೆಬೀಡು), 12./13. jaa.
+(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6101))
 :::
+
 ::: no-header
 |   |   |
 | --- | --- |
-| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
+| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ⟪र⟫ | ⟪श्रीगणनाथ सिन्धुरवर्ण करुणासागर करिवदन⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर १⟫:br:br⟪सिद्धचारण गणसेवित सिद्धिविनायक ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित सर्वोत्तम ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪१ लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] Purandaradāsan (ಪುರಂದರ ದಾಸ) (1484 - 1564)
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] Purandaradāsan (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
-Säveltäjä ja runoilija: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564) <!-- TODO: Fallback translation -->
+Säveltäjä ja runoilija: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
 Rāga: Malahari (kohteeseen ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை):
 
@@ -748,57 +741,25 @@ Rāga: Malahari (kohteeseen ⟪मायामाळवगौळ⟫ = Māyāmāl
 
 *   avarohaṇa: S d1 p m1 g3 r1 s
 
+
 Tāla: Rūpaka: o |4
 
 ::: media
 ![](/images/lekt6119.webp)
-Kuv.: Melodia, suhteessa c:aan, voidaan transponoida äänialasta riippuen.
-(Kuv lähde: [Tiedot](/fi/licenses#lekt6119))
+Kuv: Melodia, suhteutettu c-vireeseen, voidaan transponoida äänialasta riippuen.
+(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] on kannaresisen musiikin opetuksen alussa. Katso video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Viitattu 2009-03-05
+ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ on kannaresen musiikin opetuksen alku. Katso video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Viitattu 2009-03-05
 
-Kun olet nyt oppinut sanskritin perusteet, toivottavasti olet kuin videon pienet lapset: joskus kömpelö, mutta oppimishaluinen ja tiedonjano sekä iloinen asiasta. Säilytä elämäsi loppuun asti "aloittelijan mieli". <!-- TODO: Fallback translation -->
+Kun olet nyt oppinut sanskritin perusteet, toivottavasti sinäkin olet kuin videon pienet lapset: joskus kömpelö, mutta oppimishaluinen ja tiedonjano sekä iloinen asiasta. Säilytä "aloittelijan mieli" loppuun asti.
 
 ::: center
-Tämän toivoo teille Alois Payer
+Tämän toivoo sinulle Alois Payer
 
 Ofterdingen, 2009-03-09
 
-:sig[⟪ॐ⟫]
+sig[⟪ॐ⟫]
 
-[SANSKRITKURSSIN LOPPU]
+SANSKRITKURSSIN PÄÄTTYMINEN
 :::
 
-::: deleteme-box
-
-**lekt6102:** [Kuv lähde: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Haettu 2009-03-06. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimeäminen, ei kaupallista käyttöä, ei johdannaissuodeita)] <!-- TODO: Fallback translation -->
-
-**lekt6106:** ⟪काशीपुर⟫ [Kuv lähde: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Haettu 2009-03-09. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimeäminen, ei kaupallista käyttöä, sama lisensointi)] <!-- TODO: Fallback translation -->
-
-**lekt6107:** ⟪जोधपुर⟫ [Kuv lähde: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Haettu 2009-03-09. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimeäminen, ei kaupallista käyttöä, sama lisensointi)] <!-- TODO: Fallback translation -->
-
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Kuv lähde: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Haettu 2009-03-08. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimeäminen, ei kaupallista käyttöä, ei johdannaissuodeita)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Kuv lähde: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Haettu 2009-03-08. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimike)] <!-- TODO: Fallback translation -->
-
-**lekt6103:** [Kuv lähde: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Haettu 2009-03-08. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nimike, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
-
-**lekt6109:** ⟪मुंबई⟫ [Kuv lähde: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Haettu 2009-03-09. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimike, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
-
-**lekt6110:** Karli [Kuv lähde: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Haettu 2009-03-09. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimike, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
-
-**lekt6111:** [Kuv lähde: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Haettu 9.3.2009. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Nimeäminen, sama lisensointi)] <!-- TODO: Fallback translation -->
-
-**lekt6113:** Thailand - เมืองไทย [Kuv lähde: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Haettu 9.3.2009. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
-
-**lekt6112:** 1845 - 1878 Intian ja orientin filologian professori Kööpenhaminan yliopistossa
-
-**lekt6114:** Santa Cruz Basilica, Kochi = കൊച്ചി [Kuv lähde: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Haettu 9.3.2009. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nimeäminen, ei kaupallista käyttöä)]
-
-**lekt6118:** [Kuv lähde: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Pääsy 2009-03-09. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimikehitys)] <!-- TODO: Fallback translation -->
-
-**lekt6117:** Apatani-kansa, Arunachal Pradesh [Kuv lähde: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Pääsy 2009-03-09. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimikehitys)] <!-- TODO: Fallback translation -->
-
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), 12./13. jk. [Kuv lähde: Quadell / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-:::

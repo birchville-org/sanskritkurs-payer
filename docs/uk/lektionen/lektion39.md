@@ -34,7 +34,7 @@ status: stable
 **Правило:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. Перший клас теперішнього часу (⟪भ्वादि⟩) &lt;!-- TODO: Fallback translation --&gt;
+### 39.2.1. Перший клас теперішнього часу (⟪भ्वादि⟩) &lt;!--  -→
 
 ⟪भू⟩ 1P
 
@@ -110,7 +110,7 @@ status: stable
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. Утворення ⟪अनिट्⟫ &lt;!-- TODO: Fallback translation --&gt;
+### 39.3.1. Утворення ⟪अनिट्⟫ &lt;!--  -→
 
 ⟪दा⟫ 3U
 

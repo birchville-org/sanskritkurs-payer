@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 37. lecke <!-- TODO: Fallback translation -->
+# 37. lecke
 
 ## 37.1. Az határozószó (⟪क्रियाविशेषणम्⟫)
 
@@ -16,11 +16,11 @@ A szanszkritban az határozószók képzése
 1.  a főnevek és névmások ragozott alakjaival
 2.  különleges képzők és végződések segítségével
 
-Az első esetben élénk a határ az élő ragozás és az adverbium között. Ide tartoznak azok az adverbiumok, amelyek megkövesedett, régi ragozott alakok, míg a ragozásban más formákat használnak, vagy a megfelelő főneveket már nem használják főnévként. <!-- TODO: Fallback translation -->
+Az első esetben élénk a határ az élő ragozás és az adverbium között. Ide tartoznak azok az adverbiumok, amelyek megkövesedett, régi ragozott alakok, míg a ragozásban más formákat használnak, vagy a megfelelő főneveket már nem használják főnévként.
 
 ## 37.2. A ragozott alakok adverbiumi használata
 
-### 37.2.1. Többes szám (⟪द्वितीया⟫) <!-- TODO: Fallback translation -->
+### 37.2.1. Többes szám (⟪द्वितीया⟫)
 
 ::: grammar-box
 Az akkuzatívus (⟪द्वितीया⟫) határozószói értelműen használható a következő kérdésekre:
@@ -28,7 +28,7 @@ Az akkuzatívus (⟪द्वितीया⟫) határozószói értelműen has
 *   milyen módon?
 *   meddig?
 *   hová?
-*   stb. <!-- TODO: Fallback translation -->
+*   stb.
 
 Az akkuzatívus határozószói értelműen használható:
 
@@ -58,7 +58,7 @@ Az eszközhatározó (⟪तृतीया⟫) adverbialisan használható a k�
 
 *   wodurch?
 *   womit?
-*   mi által? <!-- TODO: Fallback translation -->
+*   mi által?
 
 Az instrumentalis használható határozószói értelműen:
 
@@ -88,7 +88,7 @@ Példa:
 ### 37.2.4. ablativusus (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Az ablativus (⟪पञ्चमी⟫) határozószói értelmű lehet a következő kérdésekre: <!-- TODO: Fallback translation -->
+Az ablativus (⟪पञ्चमी⟫) határozószói értelmű lehet a következő kérdésekre:
 
 *   miért?
 *   mi miatt?
@@ -122,7 +122,7 @@ A lokatívusz (⟪सप्तमी⟫) határozószói értelműen használhat
 
 *   hol?
 *   milyen körülmények között?
-*   stb. <!-- TODO: Fallback translation -->
+*   stb.
 
 Példák:
 :::
@@ -144,13 +144,13 @@ Példák:
 ## 37.4. Adverbiumok képzése adverbialis utótagokkal
 
 ::: grammar-box
-A ⟪तद्⟫, ⟪इदम्⟫ illetve ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ illetve ⟪कु⟫ névmástövekből a határozói képzőkkel <!-- TODO: Fallback translation -->
+A ⟪तद्⟫, ⟪इदम्⟫ illetve ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ illetve ⟪कु⟫ névmástövekből a határozói képzőkkel
 
 *   \-⟪तस्⟫ (ablativus)
 *   \-⟪त्र⟫ (lokativus)
 *   \-⟪था⟫ (mód)
 *   \-⟪थम्⟫ (mód)
-*   \-⟪दा⟫ (idő) <!-- TODO: Fallback translation -->
+*   \-⟪दा⟫ (idő)
 
 megfelelő névmás határozószavakat lehet levezetni.
 :::
@@ -163,7 +163,7 @@ megfelelő névmás határozószavakat lehet levezetni.
 | **-⟪त्र⟫** :br(lokativus) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -183,14 +183,14 @@ Egy másik kérdőhatározó szó: ⟪क्व⟫ "hol?"
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Adverbialis összetételek
 
 ### 37.5.1. Adverbiumot vagy adverbialisan használt esetet tartalmazó összetételek, ahol az utolsó tag a meghatározott elem
 
-Példa: ⟪सुचिरम्⟫ "nagyon hosszú (idő)" <!-- TODO: Fallback translation -->
+Példa: ⟪सुचिरम्⟫ "nagyon hosszú (idő)"
 
 ### 37.5.2. Határozszói értelmű ⟪बहुव्रीहि⟫
 
@@ -214,7 +214,7 @@ Példák:
 
 ⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "előre, szemben"
 :::
-Különösen fontosak a ⟪अव्ययीभाव⟫ szerkezetek, ahol a ⟪यथा⟫ "mint" mint első tag szerepel: <!-- TODO: Fallback translation -->
+Különösen fontosak a ⟪अव्ययीभाव⟫ szerkezetek, ahol a ⟪यथा⟫ "mint" mint első tag szerepel:
 
 pl. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "ahogyan a kívánság, kívánat szerint, tetszés szerint"
 ::: media
@@ -325,7 +325,7 @@ Példa:
 ⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Meg fog-e menni a bráhmana fiú egy mesterhez?"
 :::
 ::: grammar-box
-II. séma: <!-- TODO: Fallback translation -->
+II. séma:
 
 Kérdő részecske (általában a mondat elején) – mondat
 
@@ -351,7 +351,7 @@ Megjegyzés: ⟪किम्⟫ nemcsak „mit?” jelentést, hanem kérdőszó
 ::: indent
 ⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ „Mire a harag? Mire jó a harag? Mi célja a haragnak?”
 :::
-## 37.9. Szószedet <!-- TODO: Fallback translation -->
+## 37.9. Szószedet
 
 ⟪मूर्ख⟫ 3: tompaelméjű, buta, ostoba m. bolond
 
@@ -365,7 +365,7 @@ Megjegyzés: ⟪किम्⟫ nemcsak „mit?” jelentést, hanem kérdőszó
 Ábr.: ⟪शाक्यमुनिः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: nap <!-- TODO: Fallback translation -->
+⟪दिन⟫ n.: nap
 
 ⟪वृक्ष⟫ m.: fa
 
@@ -440,7 +440,7 @@ B) Fordítsa le:
 
 ⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
 
-C) Fordítsa le a következő ⟪अव्ययीभाव⟫ : <!-- TODO: Fallback translation -->
+C) Fordítsa le a következő ⟪अव्ययीभाव⟫ :
 
 1\. ⟪अति⟫ Case postpozícióval: " ... túl"
 
@@ -459,7 +459,7 @@ C) Fordítsa le a következő ⟪अव्ययीभाव⟫ : <!-- TODO: Fal
 Kép: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "megfelelően, mentén, szerint" <!-- TODO: Fallback translation -->
+3\. ⟪अनु⟫ "megfelelően, mentén, szerint"
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -508,19 +508,5 @@ Kép: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 
 Fordítsa szanszkritra, kizárólag a perfekti igealakjait használva:
 
-Amikor egyszer egy idős ember egy másik faluba indult, elfáradt útközben. Ezért a pihenés végett odament egy oldalban álló mangófafa tövéhez. Ezen a fán érett gyümölcsök voltak. Az idős ember megkívánta ezeket. De nem tudott felmászni a fára, és elérni a gyümölcsöket. Szerencsére az említett fán voltak majmok, amelyek gyümölcsöt ettek. Amint meglátta őket, az idős ember megörült. Mit tett? Néhány követ vett, célzott a majmokra, és dobálta. A felháborodott majmok gyümölcsöket szedtek, és a főre dobták őket. Az idős ember ezeket örömmel vette, és elment a kívánt helyére. Íme, az idős ember sorsa! <!-- TODO: Fallback translation -->
+Amikor egyszer egy idős ember egy másik faluba indult, elfáradt útközben. Ezért a pihenés végett odament egy oldalban álló mangófafa tövéhez. Ezen a fán érett gyümölcsök voltak. Az idős ember megkívánta ezeket. De nem tudott felmászni a fára, és elérni a gyümölcsöket. Szerencsére az említett fán voltak majmok, amelyek gyümölcsöt ettek. Amint meglátta őket, az idős ember megörült. Mit tett? Néhány követ vett, célzott a majmokra, és dobálta. A felháborodott majmok gyümölcsöket szedtek, és a főre dobták őket. Az idős ember ezeket örömmel vette, és elment a kívánt helyére. Íme, az idős ember sorsa!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Ábra: ⟪क्व⟫): [Képmegjelölés: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Hozzáférés: 2008-12-30. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
-- **Image lekt3702.jpg** (Ábra: ⟪यथाशक्ति⟫): [Képmegjelölés: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Hozzáférés: 2008-12-30. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
-- **Image lekt3703.jpg** (Ábra: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Képmegjelölés: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Hozzáférés: 2008-12-30. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
-- **Image lekt3704.jpg** (Ábra: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Képmegjelölés: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Hozzáférés: 2008-12-30. -- Creative Commons licenc (Nevesítés)]
-- **Image lekt3705.jpg** (Ábra: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Képmegjelölés: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
-- **Image lekt3706.jpg** (Ábra: ⟪वृक्षः⟫): Jaipur [Képmegjelölés: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
-- **Image lekt3707.jpg** (Ábra: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Festmény ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Képmegjelölés: Wikipedia. Közterület]
-- **Image lekt3708.jpg** (Ábra: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Képmegjelölés: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés)]
-- **Image lekt3709.jpg** (Ábra: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Képmegjelölés: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
-- **Image lekt3710.jpg** (Ábra: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Képmegjelölés: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
-- **Image lekt3711.jpg** (Ábra: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Képmegjelölés: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
-:::

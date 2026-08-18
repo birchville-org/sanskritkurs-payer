@@ -1,8 +1,9 @@
 ---
-title: "تمرين 11"
+title: "الممارسة ١١"
 uebung_id: 11
-category: "تمرين"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -20,10 +21,10 @@ A) ترجم الجمل أدناه
 يصل المقدس إلى السماء.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. <!-- TODO: Fallback translation -->
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 وهكذا يقدم البراهماني ذبيحة للإله.

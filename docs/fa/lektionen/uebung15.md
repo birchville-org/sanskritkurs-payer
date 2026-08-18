@@ -1,8 +1,9 @@
 ---
 title: "تمرین ۱۵"
 uebung_id: 15
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -16,7 +17,7 @@ last_reconstructed: 2026-05-15
 ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫
 دانش از طریق اطاعت از یک معلم، یا به‌ازای پول فراوان، یا در قبال دانش کسب می‌شود. راه چهارمی وجود ندارد.
 
-B) Lösen Sie folgende Tatpuruṣa auf: <!-- TODO: Fallback translation -->
+B) Lösen Sie folgende Tatpuruṣa auf:
 
 ⟪१⟫. ⟪बलकृतः⟫ ⟪।⟫ ⟪बलेन⟫ ⟪कृतः⟫ — ein gewalttätiger
 
@@ -56,9 +57,9 @@ B) Lösen Sie folgende Tatpuruṣa auf: <!-- TODO: Fallback translation -->
 
 ⟪१९⟫. ⟪दानधर्मेण⟫ ⟪।⟫ ⟪दानस्य⟫ ⟪धर्मेण⟫ ⟪।⟫ ⟪दानेनैव⟫ ⟪धर्मेण⟫ — از طریق وظیفه‌ی بخشش[L2] ⟪२०⟫. ⟪सुखप्रश्नः⟫ ⟪।⟫ ⟪सुखस्य⟫ ⟪प्रश्नः⟫ ⟪।⟫ ⟪सुखः⟫ ⟪प्रश्नः⟫ — پرسش درباره‌ی خوشبختی، پرسش درباره‌ی رفاه، پرسش درباره‌ی احوال، یک پرسش ساده[L4] ⟪२१⟫. ⟪दुःखमोहस्य⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहस्य⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪मोहस्य⟫ — سردرگمی ناشی از رنج، ناامیدی، نادانی در مورد رنج
 
-⟪२०⟫. ⟪सुखप्रश्नः⟫ ⟪।⟫ ⟪सुखस्य⟫ ⟪प्रश्नः⟫ ⟪।⟫ ⟪सुखः⟫ ⟪प्रश्नः⟫ — Frage nach dem Glück, Frage nach dem Wohlsein, Frage nach dem Befinden, eine leichte Frage <!-- TODO: Fallback translation -->
+⟪२०⟫. ⟪सुखप्रश्नः⟫ ⟪।⟫ ⟪सुखस्य⟫ ⟪प्रश्नः⟫ ⟪।⟫ ⟪सुखः⟫ ⟪प्रश्नः⟫ — Frage nach dem Glück, Frage nach dem Wohlsein, Frage nach dem Befinden, eine leichte Frage
 
-⟪२१⟫. ⟪दुःखमोहस्य⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहस्य⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪मोहस्य⟫ — der Verwirrung durch das Leid, Verzweiflung, Verblendung bezüglich des Leides <!-- TODO: Fallback translation -->
+⟪२१⟫. ⟪दुःखमोहस्य⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहस्य⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪मोहस्य⟫ — der Verwirrung durch das Leid, Verzweiflung, Verblendung bezüglich des Leides
 
 ⟪२२⟫. ⟪सोमपात्राणि⟫ ⟪।⟫ ⟪सोमस्य⟫ ⟪पात्राणि⟫ — Somagefässe
 

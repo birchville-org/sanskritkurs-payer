@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 10
 
-A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform), d.h. das Passiv, das der Verbform in Person und Zahl entspricht: <!-- TODO: Fallback translation -->
+A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform), d.h. das Passiv, das der Verbform in Person und Zahl entspricht:
 
 1. sṛjati ⟪सृजति⟫ : sṛjyate ⟪सृज्यते⟫
 2. yudhyate ⟪युध्यते⟫ : yudhyate ⟪युध्यते⟫
@@ -33,9 +33,9 @@ A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform)
 21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
 22. tanvanti ⟪तन्वन्ति⟫ (2 Formen!) : tanyante / tāyante ⟪तन्यन्ते⟫ ⟪तायन्ते⟫
 
-B) Bilden Sie den Instrumentalis singular und plural zu allen bisher gelernten Nomina <!-- TODO: Fallback translation -->
+B) Bilden Sie den Instrumentalis singular und plural zu allen bisher gelernten Nomina
 
-C) Setzen Sie folgende Sätze ins Passiv und übersetzen Sie sie: <!-- TODO: Fallback translation -->
+C) Setzen Sie folgende Sätze ins Passiv und übersetzen Sie sie:
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 
@@ -81,11 +81,11 @@ anena kavinā mantraḥ smaryate.
 
 8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
 
-anayā devyā kṣatriyā rakṣyante. <!-- TODO: Fallback translation -->
+anayā devyā kṣatriyā rakṣyante.
 
 ⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 Möglichkeiten)
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
@@ -97,13 +97,13 @@ brāhmaṇenāgniḥ kriyate.
 
 ⟪ब्राह्मणेनाग्निः⟫ ⟪क्रियते⟫ ⟪।⟫
 
-11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ (2 Möglichkeiten)
 
 vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
 
 ⟪वैश्यैरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्यैरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 
-Vaiśyas / Vaiśyafrauen gehen in dieses Dorf. <!-- TODO: Fallback translation -->
+Vaiśyas / Vaiśyafrauen gehen in dieses Dorf.
 
 12\. ete gurūṃstu śṛṇvanti. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 
@@ -111,7 +111,7 @@ etair guravas tu śrūyante.
 
 ⟪एतैर्गुरवस्तु⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
 
-Sie hören aber auf ihre Meister. <!-- TODO: Fallback translation -->
+Sie hören aber auf ihre Meister.
 
 13\. sādhuḥ svargamāpnoti. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
 
@@ -119,7 +119,7 @@ sādhunā svarga āpyate.
 
 ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫
 
-Ein Heiliger aerlangt den Himmel. <!-- TODO: Fallback translation -->
+Ein Heiliger aerlangt den Himmel.
 
 14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
 
@@ -143,9 +143,9 @@ kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
 ⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪॥⟫
 
-Welche Soldaten kämpfen (zusammen) mit den Kṣatriyas? <!-- TODO: Fallback translation -->
+Welche Soldaten kämpfen (zusammen) mit den Kṣatriyas?
 
-D) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+D) Übersetzen Sie ins Sanskrit:
 
 1\. Ein Brahmane geht mit einem Vaiśya ins Dorf.
 
@@ -153,7 +153,7 @@ brāhmano vaiśyena saha grāmaṃ gacchati.
 
 ⟪ब्राह्मणो⟫ ⟪वैश्येन⟫ ⟪सह⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 
-2\. Er verehrt Viṣṇu mit einem Opfer. (Opfer yajña ausdrücken!) <!-- TODO: Fallback translation -->
+2\. Er verehrt Viṣṇu mit einem Opfer. (Opfer yajña ausdrücken!)
 
 yajñena viṣṇuṃ yajati / yajate.
 
@@ -165,7 +165,7 @@ vedaḥ śrutir (ity) udyate.
 
 ⟪वेदः⟫ ⟪श्रुतिरित्युद्यते⟫ ⟪।⟫
 
-4\. Man spannt die Webkette auf. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+4\. Man spannt die Webkette auf. (2 Möglichkeiten)
 
 tantraṃ tanyate / tāyate / tanvanti.
 
@@ -177,31 +177,31 @@ gurubhiḥ pṛcchyate.
 
 ⟪गुरुभिः⟫ ⟪प्र्च्छ्यते⟫ ⟪।⟫
 
-6\. Das Auge führt. (Passivkonstruktion) (Auge und Ohr werden sonst normalerweise im Dual verwendet) <!-- TODO: Fallback translation -->
+6\. Das Auge führt. (Passivkonstruktion) (Auge und Ohr werden sonst normalerweise im Dual verwendet)
 
 netreṇa nīyate.
 
 ⟪नेत्रेण⟫ ⟪नीयते⟫ ⟪।⟫
 
-7\. Der Dichter sieht eine Gottheit. (Passivkonstruktion) <!-- TODO: Fallback translation -->
+7\. Der Dichter sieht eine Gottheit. (Passivkonstruktion)
 
 kavinā devatā dṛśyate.
 
 ⟪कविना⟫ ⟪देवता⟫ ⟪दृश्यते⟫ ⟪।⟫
 
-8\. Wer (fem.) hütet das Mädchen? (Passivkonstruktion) <!-- TODO: Fallback translation -->
+8\. Wer (fem.) hütet das Mädchen? (Passivkonstruktion)
 
 kayā bālā rakṣyate.
 
 ⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
 
-9\. Der Kṣatriya verehr den HERRN mit einem Opfer. (Passivkonstruktion, ohne das Wort yajña zu verwenden) <!-- TODO: Fallback translation -->
+9\. Der Kṣatriya verehr den HERRN mit einem Opfer. (Passivkonstruktion, ohne das Wort yajña zu verwenden)
 
 kṣatriyeṇeśvara ijyate.
 
 ⟪क्षत्रियेनेश्वर⟫ ⟪इज्यते⟫ ⟪।⟫
 
-10\. Durch Freigebigkeit erreicht ein Anhänger des Buddha einen Himmel. <!-- TODO: Fallback translation -->
+10\. Durch Freigebigkeit erreicht ein Anhänger des Buddha einen Himmel.
 
 dānena śrāvakaḥ svargam āpnoti / aśnute.
 
@@ -214,9 +214,9 @@ Abb.: ⟪ग्रामः⟫
 :::
 ---
 
-## Leseübung <!-- TODO: Fallback translation -->
+## Leseübung
 
-Lesen und übersetzen Sie und setzen Sie ins Passiv: <!-- TODO: Fallback translation -->
+Lesen und übersetzen Sie und setzen Sie ins Passiv:
 
 ⟪क⟫
 
@@ -234,7 +234,7 @@ Lesen und übersetzen Sie und setzen Sie ins Passiv: <!-- TODO: Fallback transla
 Fliegen wünschen sich eine Wunde,
 Könige wünschen sich Reichtum,
 Niederträchtige wünschen Streit,
-Frieden wünschen Heilige. <!-- TODO: Fallback translation -->
+Frieden wünschen Heilige.
 
 ⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ |
 ⟪नरा⟫ ⟪देवैः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫
@@ -276,7 +276,7 @@ Könige lassen Geschenke regnen.
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ |
 ⟪सदा⟫ ⟪देवाः⟫ ⟪स्मर्यन्ते।⟫
-Sie vergegenwärtigen sich stets die Götter. <!-- TODO: Fallback translation -->
+Sie vergegenwärtigen sich stets die Götter.
 
 ⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ |
 ⟪ऋषिभिः⟫ ⟪सह⟫ ⟪रामेणोष्यते⟫ ⟪।⟫

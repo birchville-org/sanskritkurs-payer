@@ -1,14 +1,15 @@
 ---
 title: "تمرین ۵۷"
 uebung_id: 57
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # تمرین 57
 
-## A) Aorist-Transformationen <!-- TODO: Fallback translation -->
+## A) Aorist-Transformationen
 
 اشکال زیر را ترجمه و تعیین کنید و شکل‌های مربوط به **آئوریست** (Aorist) را بسازید. به‌جز کائوزاتیو و ریشه‌هایی که **آئوریست s** می‌سازند، کلاس آئوریست مربوطه در پرانتز ذکر شده است:
 
@@ -48,9 +49,9 @@ last_reconstructed: 2026-05-15
 :::
 ---
 
-## B) Wortbestimmungen <!-- TODO: Fallback translation -->
+## B) Wortbestimmungen
 
-Bestimmen und übersetzen Sie die folgenden Formen: <!-- TODO: Fallback translation -->
+>> شکل‌های زیر را تعیین و ترجمه کنید:
 
 ::: grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |
@@ -116,7 +117,7 @@ Bestimmen und übersetzen Sie die folgenden Formen: <!-- TODO: Fallback translat
 ![](/images/uebung094.webp)
 Abb.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung094))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

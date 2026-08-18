@@ -79,7 +79,7 @@ last_reconstructed: 2026-05-15
 :::
 ---
 
-## ⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (⟪१६⟫. Jhdt.) <!-- TODO: Fallback translation -->
+## ⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (⟪१६⟫. Jhdt.)
 
 توضیح درباره بخش قبلی ⟪कादम्बरी⟫:
 

@@ -1,114 +1,113 @@
 ---
-title: "[Gyakorlat 9]"
+title: "Gyakorlat 9"
 uebung_id: 9
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
-
-
 
 
 # Gyakorlat 9
 
-A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen: <!-- TODO: Fallback translation -->
+A) Próbálja meg meghatározni a következő szavak lehetséges jelentéseit:
 
-1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. einer, der einem Brahmanen nur ähnlich ist = ein schlechter Brahmane
+1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. aki csak hasonlít egy bráhmanához = egy rossz bráhmana
 
-2\. mati ⟪मति⟫ : f. Meinung
+2\. mati ⟪मति⟫ : f. vélemény
 
-3\. śravaṇa ⟪श्रवण⟫ : n. Ohr
+3\. śravaṇa ⟪श्रवण⟫ : n. fül
 
-4\. dhenuka ⟪धेनुक⟫ : m. (Koitus) in der Art einer Kuh <!-- TODO: Fallback translation -->
+4\. dhenuka ⟪धेनुक⟫ : m. (koitusz) tehén módjára
 
-5\. jayaka ⟪जयक⟫ : 3 siegreich
+5\. jayaka ⟪जयक⟫ : 3 győzedelmes
 
-6\. rakṣikā ⟪रक्षिका⟫ : f. Wächterin, Amulett <!-- TODO: Fallback translation -->
+6\. rakṣikā ⟪रक्षिका⟫ : f. őr, amulett
 
-7\. karṣaka ⟪कर्षक⟫ : 3 pflügend ; m. Ackerbauer <!-- TODO: Fallback translation -->
+7\. karṣaka ⟪कर्षक⟫ : 3 arat; m. földműves
 
-8\. kleśa ⟪क्लेश⟫ : m. Qual
+8\. kleśa ⟪क्लेश⟫ : m. kín
 
-9\. nāyikātva ⟪नायिकात्व⟫ : n. Zustand einer Geliebten <!-- TODO: Fallback translation -->
+9\. nāyikātva ⟪नायिकात्व⟫ : n. egy szeretett nő állapota
 
-10\. tantraka ⟪तन्त्रक⟫ : 3 (eben) von der Webkette / dem Webstuhl kommend = neu gewebt <!-- TODO: Fallback translation -->
+10\. tantraka ⟪तन्त्रक⟫ : 3 (éppen) a szövőszék láncáról / a szövőszékről származó = újonnan szőtt
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : Tänzer <!-- TODO: Fallback translation -->
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : táncos
 
-12\. naraka ⟪नरक⟫ : m. Hölle <!-- TODO: Fallback translation -->
+12\. naraka ⟪नरक⟫ : m. pokol
 
 13\. lābhaka ⟪लाभक⟫ : m. = lābha
 
-14\. īśvaratā ⟪ईश्वरता⟫ : f. HERR-Sein
+14\. īśvaratā ⟪ईश्वरता⟫ : f. Úr-lét
 
 15\. dhenukā ⟪धेनुका⟫ : f. = dhenu
 
-16\. yodhaka ⟪योधक⟫ : m. Kämpfer
+16\. yodhaka ⟪योधक⟫ : m. harcos
 
-17\. kopa ⟪कोप⟫ : m. Zorn
+17\. kopa ⟪कोप⟫ : m. harag
 
-18\. veśaka ⟪वेशक⟫ : 3 eintretend
+18\. veśaka ⟪वेशक⟫ : 3 belépő
 
-19\. darśaka ⟪दर्शक⟫ : 3 sehend
+19\. darśaka ⟪दर्शक⟫ : 3 látó
 
-20\. kopaka ⟪कोपक⟫ : 3 jemand, der leicht zornig ist, jähzornig <!-- TODO: Fallback translation -->
+20\. kopaka ⟪कोपक⟫ : 3 az, aki könnyen dühös, ingerlékeny
 
-B) Übersetzen Sie:
+B) Fordítsa le:
 
-1\. Aufgaben aller Zweimalgeborenen:
+1\. A kétszer születettek minden feladatai:
 
 ijyādhyayanadānāni ⟪इज्याध्ययनदानानि⟫
 
 (Yājñavalkyadharmaśāstra I, 118)
 
-Opfer, Vedastudium, Gaben geben. <!-- TODO: Fallback translation -->
+Áldozat, Védatanulás, ajándékok adása.
 
-2\. Spezifische Aufgaben eines Brahmanen: <!-- TODO: Fallback translation -->
+2\. Egy bráhmana specifikus feladatai:
 
 pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 
 (Gautamadharmasūtra X,2)
 
-Lehren, Opfern im Auftrag, Annahme von Gaben. <!-- TODO: Fallback translation -->
+Tanítás, áldozat bemutatása megbízásból, ajándékok elfogadása.
 
-3\. Spezifische Aufgaben eines Kṣatriya: <!-- TODO: Fallback translation -->
+3\. Egy kṣatriya specifikus feladatai:
 
-rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
+rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genetiv (Wesfall): "aller Wesen") <!-- TODO: Fallback translation -->
+(sarvabhūtānām = Genetív: "minden lényé")
 
 (Gautamadharmasūtra X,7)
 
-Hüten aller Wesen.
+Minden lény védelme.
 
-4\. Spezifische Aufgaben eines Vaiśya: <!-- TODO: Fallback translation -->
+4. A vaiśya specifikus feladatai:
 
 kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 
-(nach Gautamadharmasūtra X,49)
+(a Gautamadharmasūtra X,49 alapján)
 
-Ackerbau, Handel, Viehhaltung und Geldleihe. <!-- TODO: Fallback translation -->
+Mezőgazdálkodás, kereskedelem, állattartás és pénzhitel.
 
-5\. Aufgaben eines Śūdra:
+5. A śūdra feladatai:
 
-dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं⟫ ⟪शुश्रूषा⟫ ⟪वार्त्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
+dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं शुश्रूषा वार्त्त्ता कारुकुशीलवकर्म च⟫
 
-(nach Kauṭilīya-arthaśāstra 1.3.8.)
+(a Kauṭilīya-arthaśāstra 1.3.8. alapján)
 
-Erklärung:
-dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen") <!-- TODO: Fallback translation -->
+Magyarázat:
+dvijātīnām = birtokos eset (birtokos eset) többes szám a dvijāti szóból (itt fordítsa: „a kétszer születettekkel szemben”)
 
-kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten). <!-- TODO: Fallback translation -->
+A kārukuśīlavakarma egy tatpuruṣa, amelynek előtagja egy dvandva (kārukuśīlava). A karma = nominativus, egyes szám a karman n. „cselekedet, tevékenység, karma” szóból a kṛ 8 U tőből. Fordítsa: „A … (a dvandva által jelölt) cselekedete / tevékenysége”.
 
-Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tätigkeit als Handwerker bzw. wandernde Schausteller. <!-- TODO: Fallback translation -->
+Engedelmesség a kétszer születettekkel szemben, megélhetést biztosító tevékenységek, kézművesként vagy vándorló előadóként végzett tevékenység.
 
-6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫
+6. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः पाशुपाल्यं वणिज्या च वार्त्ता⟫
 
-(nach Kauṭilīya-arthaśāstra 1.4.1.)
+(a Kauṭilīya-arthaśāstra 1.4.1. alapján)
 
-Ökonomie ist Ackerbau, Viehhaltung und Handel. <!-- TODO: Fallback translation -->
+A gazdaság a mezőgazdálkodás, az állattartás és a kereskedelem.
 
 ::: media
 ![](/images/uebung013.webp)
-Abb.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(Bildquelle: [Details](/licenses#uebung013))
+Ábra: ⟪रक्षणं सर्वभूतानाम्⟫
+(Képmegjelenítés: [Részletek](/licenses#uebung013))
 :::

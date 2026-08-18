@@ -372,25 +372,3 @@ Abb.: ⟪गजशिशुः⟫
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4908))
 :::
 
-::: deleteme-box
-
-**lekt4907:** [ਚਿੱਤਰ ਸਰੋਤ: ਰਾਜੇਸ਼ ਵਾਸੁਦੇਵਨ. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਤਰੀਕ 2009-01-10. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-**lekt4901:** [ਚਿੱਤਰ ਸਰੋਤ: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਤਰੀਕ 2009-01-11. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, 11. ਸਦੀ [ਚਿੱਤਰ ਸਰੋਤ: Vassil / Wikipedia. ਸਾਰ্বਜਨਿਕ ਡੋਮੇਨ]
-
-**lekt4903:** [ਚਿੱਤਰ ਸਰੋਤ: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਤਰੀਕ 2009-01-11. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [ਚਿੱਤਰ ਸਰੋਤ: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਤਰੀਕ 2009-01-11. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-**lekt4909:** ਤੋਤੇ ਨਾਲ ਭਵਿੱਖਬਾਣੀ ਕਰਨ ਵਾਲਾ, ਪਿੰਜਰ ਵਿੱਚ ਤੋਤਾ: ਤੋਤਾ ਕਿਸਮਤ ਦਿਖਾਉਣ ਵਾਲੇ ਕਾਗਜ਼ ਚੁਣਦਾ ਹੈ, ਮੈਸੂਰ [ਚਿੱਤਰ ਸਰੋਤ: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਤਰੀਕ 2009-01-12. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ)]
-
-**lekt4905:** ਅੰਮ੍ਰਿਤਸਰ = ਅੰਮ੍ਰਿਤਸਰ [ਚਿੱਤਰ ਸਰੋਤ: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਤਰੀਕ 2009-01-11. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ)]
-
-**lekt4906:** ਸ੍ਰੀ ਲੰਕਾ [ਚਿੱਤਰ ਸਰੋਤ: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਤਰੀਕ 2009-01-11. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt4908:** ਪਲਾਮਕਾਪ ਸਿੱਟਿਚ = Psittacula cyanocephala[ਤਸਵੀਰ ਸਰੋਤ: ਕੈਂਡਲ ਟ੍ਰੀ. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- 2009-01-12 ਨੂੰ ਪ੍ਰਾਪਤ⟪।⟫ -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਕੋਮਰਸ਼ੀਅਲ ਵਰਤੋਂ ਨਹੀਂ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-:::
-

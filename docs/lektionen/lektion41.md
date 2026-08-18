@@ -369,11 +369,6 @@ Abb.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (zu ⟪सम्⟫-⟪हन्⟫ : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
 
-::: deleteme-box
-s. dazu:
-
-**Payer, Alois (1944–):** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
 ⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
@@ -404,16 +399,3 @@ Abb.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫
 
 ⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
 
-::: deleteme-box
-
-- **Image lekt4102.jpg** (Abb.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Bildquelle: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-- **Image lekt4103.jpg** (Abb.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [Bildquelle: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-- **Image lekt4106.jpg** (Abb.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): Bahá'í House of Worship, Delhi [Bildquelle: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-- **Image lekt4107.jpg** (Abb.: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [Bildquelle: Wikipedia. Public domain]
-- **Image lekt4108.jpg** (Abb.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका⟫ ⟪घाट⟫, 1922 [Bildquelle LoC/Wikipedia. Public domain]
-- **Image lekt4105.jpg** (Abb.: ⟪भुजङ्गः⟫): Banded Krait (_Bungarus fasciatus_) [Bildquelle: J. Ewart. The poisonous snakes of India, 1878. Public domain]
-- **Image lekt4104.jpg** (Abb.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): Melken von Schlangengift (Krait), Thailand [Bildquelle: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung)]
-- **Image lekt4109.jpg** (Abb.: ⟪शासना⟫): Ashoka-Edikt, Dhauli, Orissa [Bildquelle: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Zugriff am 2009-01-03. -- Creative commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-- **Image lekt4110.jpg** (Abb.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), ca. 1898 [Bildquelle: Wikipedia. Public domain]
-- **Image lekt4111.jpg** (Abb.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Bildquelle: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-:::

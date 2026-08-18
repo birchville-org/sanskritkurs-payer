@@ -369,25 +369,3 @@ Plum-headed Parakeet = Psittacula cyanocephala
 (Image source: [Details](/en/licenses#lekt4908))
 :::
 
-::: deleteme-box
-
-**lekt4907:** [Image source: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
-**lekt4901:** [Image source: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribution, no derivatives)]
-
-**lekt4902:** ⟪शिवो नटराजा⟫, 11th century [Image source: Vassil / Wikipedia. Public domain]
-
-**lekt4903:** [Image source: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Image source: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
-**lekt4909:** Fortune teller with parrot in cage: the parrot draws slips of paper on which fate is written Mysore [Image source: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Image source: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt4906:** Sri Lanka [Image source: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt4908:** Plum-headed Parakeet _= Psittacula cyanocephala_[Image source: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
-:::
-

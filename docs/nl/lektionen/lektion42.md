@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: Lektion 42
 subtitle: "Stämme auf -ṛ"
@@ -366,14 +366,3 @@ Abb.: ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gen.Lok.Dual zu ⟪सीताराम⟫
 
-::: deleteme-box
-
-* **Abb. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Bildquelle: Wikipedia. Public domain)
-* **Abb. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike))
-* **Abb. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Bildquelle: Wikipedia. Public domain)
-* **Abb. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. Wagen). (Bildquelle: Wikipedia. Public domain)
-* **Abb. lekt4205**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17. Jhdt. (Bildquelle. Wikipedia. Public domain)
-* **Abb. lekt4206**: Lage von ⟪मिथिला⟫ und ⟪विदेह⟫, ⟪अयोध्या⟫ und ⟪कोसल⟫. (Bildquelle: JIJITH NR / Wikipedia. GNU FDLicense)
-* **Abb. lekt4207**: ⟪रावणः⟫. Yakṣagaṇa-Tanzmaske (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Bildquelle: Manohara Upadhya / Wikipedia. GNU FDLicense)
-* **Abb. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Bild von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Bildquelle: Wikipedia. Public domain)
-:::

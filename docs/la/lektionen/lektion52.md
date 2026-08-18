@@ -9,7 +9,7 @@ status: stable
 
 # Lectio 52
 
-## 52.1. Neutrum thematum in -i et -u <!-- TODO: Fallback translation -->
+## 52.1. Neutrum thematum in -i et -u
 
 ::: grammar-box
 **Ante terminos vocalibus incipientes, -n- intercalatur; hoc est influentia stemmatum in -n (-in).**
@@ -135,7 +135,7 @@ Fila ante templum, Trivandrum = Thiruvananthapuram = തിരുവനന്ത
 :::
 ## 52.4. Composita verbalia, quae exprimunt rem fieri vel effici id esse, quod prius non erat (⟪अभुततद्भावः⟫)
 
-### 52.4.1. cvi-Bildungen <!-- TODO: Fallback translation -->
+### 52.4.1. cvi-Bildungen
 
 ::: grammar-box
 **Ad Radices**
@@ -204,7 +204,7 @@ Exempla:
 ⟪भस्मसात्करोति⟫ "transformat omnino in cineres (⟪भस्मन्⟫ n. "cinis"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
 
 *   **a quo pendet vel**
 *   **in cuius potestatem transit**
@@ -254,7 +254,7 @@ De nominibus compositis, quae vocantur ⟪आम्रेडित⟫, in quibus
 
 Quae hic non tractantur, vide apud Kielhorn, Grammatik §201seq.
 
-### 52.6.1. Kardinalzahlen <!-- TODO: Fallback translation -->
+### 52.6.1. Kardinalzahlen
 
 #### 52.6.1.1. Adiectiva numerica (pro uno usque ad decem novem)
 
@@ -328,7 +328,7 @@ Singula substantia numerica vide, e.g., apud Kielhorn, Grammatica §201.
 
 Vide, e.g., apud Kielhorn, Grammatica §201f.
 
-### 52.6.3. Zahladverbien <!-- TODO: Fallback translation -->
+### 52.6.3. Zahladverbien
 
 a) "-mal":
 
@@ -368,7 +368,7 @@ Ceteras compositiones in lexiconibus vel grammaticis petito.
 ::: grammar-box
 **⟪बहुव्रीहि⟫ huiusmodi regulariter formantur.**
 :::
-Exemplum: <!-- TODO: Fallback translation -->
+Exemplum:
 
 ::: indent
 ⟪चतुर्मुख⟫ m. "qui quattuor facies habet" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (nomen Brahmās)
@@ -377,7 +377,7 @@ Exemplum: <!-- TODO: Fallback translation -->
 ![](/images/lekt5205.webp)
 Fig.: ⟪चतुर्मुखः⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5205))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -509,7 +509,7 @@ Fig.: ⟪प्रधानः⟫
 :::
 ⟪लौल्य⟫ n.: cupiditas, libidinis
 
-⟪वर्ग⟫ m.: pars, turma, grex <!-- TODO: Fallback translation -->
+⟪वर्ग⟫ m.: pars, turma, grex
 
 ::: indent
 ⟪त्रिवर्ग⟫ m.: tris (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; aut: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; aut: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
@@ -610,7 +610,7 @@ Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Bildquelle: [Details](/la/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: bananum (_Musa_ sp.) <!-- TODO: Fallback translation -->
+⟪कदली⟫ f.: bananum (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -634,7 +634,7 @@ Fig.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: caelum Indrae <!-- TODO: Fallback translation -->
+⟪त्रिपिष्टप⟫ n.: caelum Indrae
 
 ⟪मार⟫ m.: malum personificatum, seductio vel manipulatio personificata, diabolus
 
@@ -695,7 +695,7 @@ Explicatio: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 ::: indent
 Explanationes:
 
-⟪इतरौ⟫ Nom.Akk.Dual.m ad ⟪इतर⟫ 3 "alter" <!-- TODO: Fallback translation -->
+⟪इतरौ⟫ Nom.Akk.Dual.m ad ⟪इतर⟫ 3 "alter"
 
 ⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ est Dualdvandva)
 :::
@@ -789,41 +789,5 @@ Quibus in rebus vacandis haec officia perficienda erant:
 Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Imago: Payer)
 (Fons imaginis: [Detalia](/la/licenses#lekt5201))
-:::
-
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Imago fontis: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Accessus die 2009-01-15. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
-
-**lekt5203:** Figura Wayang, Iava, Indonesia [Imago fontis. Wikipedia. Dominium publicum]
-
-**lekt5204:** Turba ante templum, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം [Imago fontis: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Accessus die 2009-01-15. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, simile)]
-
-**lekt5209:** Combustio silvae, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Imago fontis: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Accessus die 2009-01-15. --  [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
-
-**lekt5205:** [Imago fontis: Wikipedia. Dominium publicum] <!-- TODO: Fallback translation -->
-
-**lekt5206:** Septemtriones = septem clarissimae stellae Ursae Maioris (Ursa maior) [Imago fontis: Wikipedia, Licentia Publica GNU]
-
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Imago fontis: Wikipedia. Dominium publicum]
-
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Imago fontis: Dan Tunstall / Officium Rerum Globalium. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Accessus die 2009-01-16. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
-
-**lekt5212:** Hyderabad = హైదరాబాద్ [Imago a David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Accessus die 2009-01-16. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt5213:** ⟪मुंबई⟫ [Imago a saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Accessus die 2009-01-16. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attributio, nulla operis mutatio)]
-
-**lekt5214:** Konark = ⟪कोनार्क⟫ [Imago a Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Accessus die 2009-01-16. --  [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt5208:** Hampi = ಹಂಪೆ [Imago a oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Accessus die 2009-01-15. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, simile licentia)]
-
-**lekt5215:** ⟪मुंबई⟫ [Imago a Iacobo Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Accessus die 2009-01-16. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Nominatio)]
-
-**lekt5217:** Amaravati = అమరావతి, saeculum II p. Chr. [Imago a Wikipedia. Licentia GNU FDLicense]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, circiter 1810 [Imago a Wikipedia. Dominium publicum]
-
-**lekt5201:** (Imago: Payer)
-
 :::
 

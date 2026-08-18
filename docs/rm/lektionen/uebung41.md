@@ -38,7 +38,7 @@ Ultra da quai sto ins esser persuadì, che er auters han fatg quest viadi cun su
 "Jau vegn a ir a Benares (Kāśī), vesair il Ganges e morir là" — cun quest pensament ha bandunà l'onesta persuna veglia figls, nepots e possess ed è ì a Benares. Jau pensi ch'el uschia surmontera il dolur che sto finir.
 
 ⟪३⟫. **⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-"Jau hai maridà ina dunna, cun ella generà in figl e cuntanschì grondas ricaschas; uschia hai jau cuntanschì la furtuna" — en questa moda m'hai ilgà en il passà. Alura hai jau reconuschì: Da la furtuna nascha dolur; perquai sto er la furtuna mundana vegnir abandonada, e nagut duess esser cuntatgà cun ils sens. <!-- TODO: Fallback translation -->
+"Jau hai maridà ina dunna, cun ella generà in figl e cuntanschì grondas ricaschas; uschia hai jau cuntanschì la furtuna" — en questa moda m'hai ilgà en il passà. Alura hai jau reconuschì: Da la furtuna nascha dolur; perquai sto er la furtuna mundana vegnir abandonada, e nagut duess esser cuntatgà cun ils sens.
 
 ⟪४⟫. **⟪विक्रेयाणि⟫ ⟪विक्रीयापुत्रवैश्यो⟫ ⟪भिक्षुभ्यो⟫ ⟪विक्रयफलमददाद्दानपुण्यं⟫ ⟪चादत्त⟫ ⟪।⟫ ⟪एतत्कर्म⟫ ⟪स्तुत्यमिति⟫ ⟪भिक्षवः⟫ ⟪प्रोचुर्बुद्धिमन्तस्तु⟫ ⟪विकल्पयन्ति⟫ ⟪किमेवं⟫ ⟪कुर्वाणो⟫ ⟪वैश्यः⟫ ⟪पुण्यं⟫ ⟪चकारेति⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Suenter ch'el aveva vendì las mercanzia da vender, ha il Vaiśya senza figls dà l'incass als monachs e ricevi la merit dals don. Ils monachs han annunzià: "Questa acziun è laudabla." Ils perspicaxs dentant dubitan, sche il Vaiśya che acziunescha uschia ha fatg realmain quai meritevol.
@@ -51,4 +51,3 @@ Da lasegns han ils scolars a instruir; da scolars è il program d'studiar.
 Abb.: ⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung067))
 :::
- <!-- TODO: Fallback translation -->

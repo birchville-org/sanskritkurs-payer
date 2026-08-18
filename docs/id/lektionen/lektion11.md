@@ -9,13 +9,6 @@ status: stable
 
 # Pelajaran 11
 
-::: deleteme-box
-**Dalam pelajaran ini Anda akan mempelajari:**
-- Akusatif ganda (akusatif orang dan akusatif hal)
-- Penggunaan partikel **iti**, **evam** dan **na**
-- Konsep dasar seperti **dharma**, **adharma** dan **putra**
-- Pembentukan nomina dari akar kata **vad**, **prach** dan **iṣ**
-:::
 ## 11.1. Akusatif Ganda
 
 ::: grammar-box

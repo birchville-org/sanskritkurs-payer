@@ -56,7 +56,7 @@ Traduci il suandant text dal ⟪पद्मपुराण⟩ davart donaziuns 
 > ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तम्⟫ ⟪महीतले⟫ ⟪।⟫
 > ⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
-Meglier dals duas giadas naschids! Qui dat a in brahmin la terra cun tut las sias fruglias, gaudia il mund da Viṣṇu uschè ditg sco quatterdesch Indras. Dvaschantasch naschì! Il merit, che in umn ottiena, ch'el dat l'entir mund cun ses sept continents, quai ottien in mortel, che dat a in brahmin ina chaura. Qui dat a in brahmin aur uschè pitschen sco in gran da sesam, el vegn en la citad d'abitaziun da Haris (da Viṣṇu) cun 10 milliuns famiglias. Meglier dals duas giadas naschids! In umn, che dat ina femna cun ornaments (a in brahmin), el vegn al sid Brahmās ed ha nagina renaschientscha pli. Meglier dals duas giadas naschids! Qui ha dà nutriment ed aua sin la surfatscha da la terra, el ha donà tut las donaziuns, bostg sut ils duas giadas naschids! <!-- TODO: Fallback translation -->
+Meglier dals duas giadas naschids! Qui dat a in brahmin la terra cun tut las sias fruglias, gaudia il mund da Viṣṇu uschè ditg sco quatterdesch Indras. Dvaschantasch naschì! Il merit, che in umn ottiena, ch'el dat l'entir mund cun ses sept continents, quai ottien in mortel, che dat a in brahmin ina chaura. Qui dat a in brahmin aur uschè pitschen sco in gran da sesam, el vegn en la citad d'abitaziun da Haris (da Viṣṇu) cun 10 milliuns famiglias. Meglier dals duas giadas naschids! In umn, che dat ina femna cun ornaments (a in brahmin), el vegn al sid Brahmās ed ha nagina renaschientscha pli. Meglier dals duas giadas naschids! Qui ha dà nutriment ed aua sin la surfatscha da la terra, el ha donà tut las donaziuns, bostg sut ils duas giadas naschids!
 
 Explicaziuns:
 
@@ -66,7 +66,7 @@ Vocativ singular dals masculins / neutrals sin -a finischa cun -a: p.ex. ⟪द�
 
 ⟪सप्त⟫ sept
 
-⟪जन्म⟫ Nom./Akk. singular a ⟪जन्मन्⟫ n. naschientscha <!-- TODO: Fallback translation -->
+⟪जन्म⟫ Nom./Akk. singular a ⟪जन्मन्⟫ n. naschientscha
 
 ⟪सर्व⟫ 3 "tuts, entir" (declinà suenter la declinaziun pronominala)
 
@@ -75,4 +75,3 @@ Vocativ singular dals masculins / neutrals sin -a finischa cun -a: p.ex. ⟪द�
 Fig.: ⟪तिलप्रमाणम्⟫
 (Font da l'imagia: [Detagls](/licenses#uebung057))
 :::
- <!-- TODO: Fallback translation -->

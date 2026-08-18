@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: "Übung 6"
 uebung_id: 6

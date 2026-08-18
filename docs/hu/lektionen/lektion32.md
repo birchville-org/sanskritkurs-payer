@@ -4,7 +4,7 @@ lesson_id: 32
 status: stable
 ---
 
-# 32. lecke <!-- TODO: Fallback translation -->
+# 32. lecke
 
 ## 32.1. A múlt idő ragozása
 
@@ -22,22 +22,22 @@ status: stable
 ::: grammar-box
 **Alakítás:**
 
-**Augmentum a- + jelenstám + szekunder végződés** <!-- TODO: Fallback translation -->
+**Augmentum a- + jelenstám + szekunder végződés**
 
-**A szinguláris paraszmaipada imperfektum három személyét az athémás tövek esetén az erős jelenlegi tőből képezik, minden más alakot a gyenge jelenlegi tőből.** <!-- TODO: Fallback translation -->
+**A szinguláris paraszmaipada imperfektum három személyét az athémás tövek esetén az erős jelenlegi tőből képezik, minden más alakot a gyenge jelenlegi tőből.**
 
 **Az imperfektum csak az indikativuszt tartalmazza.**
 :::
-Példák: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t) <!-- TODO: Fallback translation -->
+⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t)
 
 ⟪सु⟫
 *   3. sg. Impf. P. ⟪असुनोत्⟫ (a-suno-t)
 *   3. pl. Impf. P. ⟪असुन्वन्⟫ (a + sunu + an)
 :::
-## 32.3. Az augment szabályai <!-- TODO: Fallback translation -->
+## 32.3. Az augment szabályai
 
 ::: grammar-box
 **1. Ha- a magánhangzóval kezdődő gyökér előtt áll, akkor az augment és a gyökvéglet egyesülnek ⟪वृद्धि⟫ formájában a gyökmagánhangzóban.**
@@ -50,7 +50,7 @@ Példák:
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | <!-- TODO: Fallback translation -->
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
 :::
 ::: grammar-box
@@ -65,7 +65,7 @@ Példák:
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
-| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) | <!-- TODO: Fallback translation -->
+| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
 ## 32.4. Példák az imperfect képzésére
@@ -111,7 +111,7 @@ Példák:
 
 **⟪अग्र⟫ n.:** csúcs, legkülső vég
 
-**⟪मही⟫ f.:** föld, alap és talaj (szó szerint: a Nagy) <!-- TODO: Fallback translation -->
+**⟪मही⟫ f.:** föld, alap és talaj (szó szerint: a Nagy)
 
 ⟪एकदा⟫
 
@@ -235,7 +235,7 @@ Kép: ⟪कौशलम्⟫
 Mehendi festőzés Mumbai-ban.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3206))
 :::
-## 32.6. Gyakorlat <!-- TODO: Fallback translation -->
+## 32.6. Gyakorlat
 
 A) Határozza meg a következő igealakokat, és képezze az őket illető személyben, számban és nemben megfelelő múlt idő (imperfektum) alakokat:
 
@@ -315,7 +315,7 @@ A) Határozza meg a következő igealakokat, és képezze az őket illető szem�
 74. ⟪प्रजानीते⟫
 75. ⟪जीवन्ति⟫
 
-B) Fordítsa le, és bontsa fel a szanszkrit összetételeket: <!-- TODO: Fallback translation -->
+B) Fordítsa le, és bontsa fel a szanszkrit összetételeket:
 
 ⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫
 
@@ -335,9 +335,9 @@ Buddhista szerzetes Srí Lankán.
 :::
 ## 32.7. Gyakorlás a karácsonyi szünet alatt
 
-Megjegyzés: eredetileg ezt a kurzust minden téli félévben tartották a Tübingeni Egyetemen. A 32. leckénél kezdődtek a két hetes karácsonyi szünetek. <!-- TODO: Fallback translation -->
+Megjegyzés: eredetileg ezt a kurzust minden téli félévben tartották a Tübingeni Egyetemen. A 32. leckénél kezdődtek a két hetes karácsonyi szünetek.
 
-A) Határozza meg és fordítsa le a következő szavakat: <!-- TODO: Fallback translation -->
+A) Határozza meg és fordítsa le a következő szavakat:
 
 1. ⟪देवस्य⟫
 2. ⟪उषितायाः⟫
@@ -424,7 +424,7 @@ A) Határozza meg és fordítsa le a következő szavakat: <!-- TODO: Fallback t
 83. ⟪अध्यापयति⟫
 84. ⟪वाचयन्ति⟫
 
-B) Gyakorlat a szandhira: Helyezze be az alábbi mondatokba a zárójelben szereplő szavakat. Különös figyelmet fordítson a szandhira: <!-- TODO: Fallback translation -->
+B) Gyakorlat a szandhira: Helyezze be az alábbi mondatokba a zárójelben szereplő szavakat. Különös figyelmet fordítson a szandhira:
 
 ⟪१⟫. ⟪रामो⟫ ⟪ग्रामात्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪लोकेश्वरनगर⟫ ⟪।⟫ ⟪कविगृह⟫ )
 
@@ -446,9 +446,9 @@ B) Gyakorlat a szandhira: Helyezze be az alábbi mondatokba a zárójelben szere
 
 C) Fordítsa szanszktra:
 
-1. Miután megszületett a fiú, a bráhmananő szolgát küld a bráhmanához. A bráhmana ezt a szolgát beengedi az házba, és utána kérdezi a fiúról. A szolga azt mondja, hogy a fiú egészséges. Amikor ezt meghallotta, a bráhmana boldog lesz. <!-- TODO: Fallback translation -->
+1. Miután megszületett a fiú, a bráhmananő szolgát küld a bráhmanához. A bráhmana ezt a szolgát beengedi az házba, és utána kérdezi a fiúról. A szolga azt mondja, hogy a fiú egészséges. Amikor ezt meghallotta, a bráhmana boldog lesz.
 
-2. A szent ember elviselte (neki) okozott rosszat. <!-- TODO: Fallback translation -->
+2. A szent ember elviselte (neki) okozott rosszat.
 
 3. Az erény a férfi dísze.
 
@@ -458,7 +458,7 @@ C) Fordítsa szanszktra:
 
 6. Nincs olyan betegség, mint az öröm; nincs ellenség a zavarodottságnál; nincs olyan tűz, mint a harag; nincs boldogság az ismeretnél.
 
-7. Akit a istennő oltalmaz, boldog ember. <!-- TODO: Fallback translation -->
+7. Akit a istennő oltalmaz, boldog ember.
 
 8. Amilyen széllel is hoz esőt egy felhő (⟪वारि⟫ n.), olyan széllel mozgatja a tudós a napernyőjét.
 
@@ -466,7 +466,7 @@ C) Fordítsa szanszktra:
 
 10. A reinkáció körforgásának nincs kezdete.
 
-11. Ideje az evésnek szentelni magunkat. <!-- TODO: Fallback translation -->
+11. Ideje az evésnek szentelni magunkat.
 
 12. A királynő fogadtatása.
 
@@ -476,7 +476,7 @@ C) Fordítsa szanszktra:
 
 15. Rāma a tanító utasítására elhagyta a falut, és belépett a városba; belépett az szent ember házába, alázatosan megjelent a szent előtt, és így szólt: „Hagyd abba a haragot!”
 
-16. Mindig (legyen) kapcsolata olyanokkal, akik a tudományokban megerősödtek, hogy nevelése/jó viselkedése növekedjen. (Ez) azért van, mert a nevelés/jó viselkedő az alapja ennek (a kapcsolattartásnak). <!-- TODO: Fallback translation -->
+16. Mindig (legyen) kapcsolata olyanokkal, akik a tudományokban megerősödtek, hogy nevelése/jó viselkedése növekedjen. (Ez) azért van, mert a nevelés/jó viselkedő az alapja ennek (a kapcsolattartásnak).
 
 17. Amikor a tanár áll, a fiú nem ülhet.
 
@@ -484,7 +484,7 @@ C) Fordítsa szanszktra:
 
 19. Viṣṇumitra elküldi Rámát, hogy Govindát a faluba küldje.
 
-20. Govinda elküldi Devadattát, hogy főzzön rizst. <!-- TODO: Fallback translation -->
+20. Govinda elküldi Devadattát, hogy főzzön rizst.
 
 21. Az áriák dharma-ja, hogy a fiatal brahmanák folyamatosan tanulmányozzák a Védát és a Smṛti részeit.
 
@@ -494,11 +494,11 @@ C) Fordítsa szanszktra:
 
 24. Az igazság ez a világ lámpása.
 
-25. Kiknek tartoznak ezek a házak? <!-- TODO: Fallback translation -->
+25. Kiknek tartoznak ezek a házak?
 
 26. Mindenki dharma: az ártatlanság, az igazság, a tisztaság, a féltékenység hiánya, a gonoszság hiánya és az türelem.
 
-27. A Kṣatriyas, akik legyőzték az ellenségeket, a házban ülnek. <!-- TODO: Fallback translation -->
+27. A Kṣatriyas, akik legyőzték az ellenségeket, a házban ülnek.
 
 28. Ő az igazi feleség, aki szeretetet beszél; de ő az igazi fiú, aki él. Ő él, akinek jó tulajdonságai vannak; ő él, akinek dharma van.
 
@@ -512,7 +512,7 @@ C) Fordítsa szanszktra:
 
 33. A poklok a gonoszság miatt vannak. A gonoszságnak az szegénység az eredete. Az szegénység pedig a nem adásból fakad.
 
-34. A kṣatriyák dharma, hogy a kṣatriyák megvédjék az embereket az ellenségektől. <!-- TODO: Fallback translation -->
+34. A kṣatriyák dharma, hogy a kṣatriyák megvédjék az embereket az ellenségektől.
 
 35. Ezért a három (tiszas) tudomány az uralkodást tekinti alapnak. Az uralkodás, amelynek alapja a nevelés/jó magatartás, hasznot és biztos birtokot hoz a lényeknek (⟪प्राणभृत्⟫).
 
@@ -520,9 +520,9 @@ C) Fordítsa szanszktra:
 
 37. Rámának ez a tisztelet!
 
-38. A dicső Hari az én utam/célom, aki (ellenségeit) egy mennybe küldte, a sajátjait tudni hagyta a Védák értelmét, az isteneknek halhatatlansági ételt adott enni, a teremtőnek (⟪विधि⟫) megtanította a Védákat, a földet a vízben (meg)vetette. <!-- TODO: Fallback translation -->
+38. A dicső Hari az én utam/célom, aki (ellenségeit) egy mennybe küldte, a sajátjait tudni hagyta a Védák értelmét, az isteneknek halhatatlansági ételt adott enni, a teremtőnek (⟪विधि⟫) megtanította a Védákat, a földet a vízben (meg)vetette.
 
-39. Viṣṇu mutatkozik meg hűséges követőinek. <!-- TODO: Fallback translation -->
+39. Viṣṇu mutatkozik meg hűséges követőinek.
 
 40. Egy nem gyakorolt kormányzás a halak normáját eredményezi.
 
@@ -530,7 +530,7 @@ C) Fordítsa szanszktra:
 
 42. A tűz, amely a halottat elégeti, az jó asszonyt is elégeti.
 
-43. A bráhmana szolgája megfőzte az ételt, és most eszi (azt). <!-- TODO: Fallback translation -->
+43. A bráhmana szolgája megfőzte az ételt, és most eszi (azt).
 
 44. Most elég!
 
@@ -633,26 +633,5 @@ Magyarázatok:
 Ábra: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Majomkákák a mangafákon.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3210))
-:::
-
-::: deleteme-box
-
-**lekt3202:** Mangófa, Kanpur. [Képmegjelenítés: AmarChandra / Wikipedia. CC BY-SA]
-
-**lekt3203:** Majom (rhesus makákó) Déliben. [Képmegjelenítés: dewalt / Flickr. CC BY-NC-SA]
-
-**lekt3204:** Kőbánya Pune déli részén, Mahárástra. [Képmegjelenítés: lecercle / Flickr. CC BY-NC-SA]
-
-**lekt3205:** Célzás / nyílcél, Karnátaka. [Képmegjelenítés: mattlogelin / Flickr. CC BY-NC]
-
-**lekt3207:** Rajasthanban száradó tehéntrágya téglák. [Képmegjelenítés: thebigdurian / Flickr. CC BY-NC-SA]
-
-**lekt3206:** Mehndi festés kezekre Mumbajban. [Képmegjelenítés: the_gman / Flickr. CC BY-NC-SA]
-
-**lekt3208:** buddhista szerzetes Srí Lankán. [Képmegjelenítés: Trollderella / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
-
-**lekt3209:** indiai köszöntés / búcsúzás. [Képmegjelenítés: dhyanji / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3210:** Majmok mangafákon. [Képmegjelenítés: Wikipedia. GNU FDL]
 :::
 

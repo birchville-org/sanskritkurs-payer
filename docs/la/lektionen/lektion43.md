@@ -9,7 +9,7 @@ status: stable
 
 # Lectio 43
 
-## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \&lt;Person\&gt;") <!-- TODO: Fallback translation -->
+## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \&lt;Person\&gt;")
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -19,16 +19,16 @@ status: stable
 | **Sekundärendungen** | -s | -ta | -thās | -dhvam |
 | **Perfektendungen** | -tha | -a | -se | -dhve |
 :::
-Notare quod desinens secundum pluralis secundi personae idem est ac desinens secundum singularis tertiae persona activi. <!-- TODO: Fallback translation -->
+Notare quod desinens secundum pluralis secundi personae idem est ac desinens secundum singularis tertiae persona activi.
 
-## 43.2. Formatio formarum verbalium secundae personae (⟪मध्यमः⟫) <!-- TODO: Fallback translation -->
+## 43.2. Formatio formarum verbalium secundae personae (⟪मध्यमः⟫)
 
 Secunda persona:
 
 *   Singularis: "tu"
 *   Pluralis: "vos" (plus quam duo!)
 
-### 43.2.1. Thematische Radices <!-- TODO: Fallback translation -->
+### 43.2.1. Thematische Radices
 
 ::: media
 ![](/images/lekt4301.jpg)
@@ -79,7 +79,7 @@ Tertia persona singularis aoris sive optativi forma est idem ac secunda persona 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अचोरयस्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयथास्⟫ | ⟪अचोरयध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪चोरयेस्⟫ | ⟪चोरयेत⟫ | ⟪चोरयेथास्⟫ | ⟪चोरयेध्वम्⟫ |
 
-#### 43.2.1.5. Passivumum <!-- TODO: Fallback translation -->
+#### 43.2.1.5. Passivumum
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -89,7 +89,7 @@ Tertia persona singularis aoris sive optativi forma est idem ac secunda persona 
 | **Imperfekt** ⟪लङ्⟫ | ⟪ऐक्ष्यथास्⟫ | ⟪ऐक्ष्यध्वम्⟫ |
 | **Optativ** ⟪विधिलिङ्⟫ | ⟪ईक्ष्येथास्⟫ | ⟪ईक्ष्येध्वम्⟫ |
 
-#### 43.2.1.6. Futurum (⟪ऌट्⟫) <!-- TODO: Fallback translation -->
+#### 43.2.1.6. Futurum (⟪ऌट्⟫)
 
 #### 43.2.1.6.1. ⟪अनिट्⟫-formae
 
@@ -181,7 +181,7 @@ Abb.: ⟪विपणिः⟫
 Abb.: ⟪वणिक्⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4305))
 :::
-⟪वर⟫ 3: optimus <!-- TODO: Fallback translation -->
+⟪वर⟫ 3: optimus
 
 ⟪शीघ्र⟫ 3: celer, prompte
 
@@ -192,7 +192,7 @@ Abb.: ⟪वणिक्⟫
 Fig.: ⟪वत्सः⟫
 (Fons imaginis: [Details](/la/licenses#lekt4306))
 :::
-⟪उत्तम⟫ 3: summus, optimus <!-- TODO: Fallback translation -->
+⟪उत्तम⟫ 3: summus, optimus
 
 ⟪अल्प⟫ 3: parvus, humilis
 
@@ -213,7 +213,7 @@ Fig.: ⟪वत्सः⟫
 Fig.: ⟪तोलन्ति⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4307))
 :::
-⟪कर्गल⟫ n.: charta <!-- TODO: Fallback translation -->
+⟪कर्गल⟫ n.: charta
 
 ⟪संपुट⟫ m.: pyxis (hic: fasciculus, rotulum)
 
@@ -327,7 +327,7 @@ Num vos, ut sacrificii domini, deos sacrificio coluistis?
 
 Quā urbe nātus es?
 
-Quomodo te ab hoste liberabis (praetergredieris)? <!-- TODO: Fallback translation -->
+Quomodo te ab hoste liberabis (praetergredieris)?
 
 ::: media
 ![](/images/lekt4308.webp)
@@ -370,21 +370,3 @@ Fig.: ⟪शर्करा⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4309))
 :::
 
-::: deleteme-box
-
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Accessus die 2009-01-06. -- Licentia Creative Commons (Attributio, usus non commercialis)
-
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Accessus die 2009-01-06. -- Licentia Creative Commons (Attributio, usus non commercialis)
-
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Accessus die 2009-01-06. -- Licentia Creative Commons (Attributio)
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Accessus die 2009-01-06. -- Licentia Creative Commons (Attributio, usus non commercialis, share alike)
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Accessus die 2009-001-06. -- Licentia Creative Commons (Nominatio, simile)
-
-**lekt4307.jpg**: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Accessus die 2009-01-06. -- Licentia Creative Commons (Nominatio, non commercialis usus, nulla modificatio)
-
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. Licentia GNU FDL <!-- TODO: Fallback translation -->
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Accessus die 2009-01-07. -- Licentia Creative Commons (Nominatio, nulla modificatio)
-:::

@@ -1,8 +1,9 @@
 ---
 title: "تمرین ۳۷"
 uebung_id: 37
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -79,7 +80,7 @@ last_reconstructed: 2026-05-15
 
 ---
 
-## Interrogativsätze <!-- TODO: Fallback translation -->
+## Interrogativsätze
 
 B) Übersetzen Sie:
 
@@ -90,14 +91,14 @@ B) Übersetzen Sie:
 آیا استاد نیز حقیقت را می‌شناسد؟
 
 ⟪३⟫. **⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Sind die Śūdras etwa Diener der Zweimalgeborenen? <!-- TODO: Fallback translation -->
+>> Sind die Śūdras etwa Diener der Zweimalgeborenen?
 
 ⟪४⟫. **⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Hat der Śūdra etwa die Last getragen?
+>> Hat der Śūdra etwa die Last getragen?
 
 ---
 
-## Avyayībhāva (Indeklinable Komposita) <!-- TODO: Fallback translation -->
+## Avyayībhāva (Indeklinable Komposita)
 
 ج) ترکیب‌های زیر را تشخیص داده و ترجمه کنید:
 
@@ -127,7 +128,7 @@ Hat der Śūdra etwa die Last getragen?
 :::
 ---
 
-## Narratives Perfekt (Die Geschichte vom Greis) <!-- TODO: Fallback translation -->
+>> ## Narratives Perfekt (Die Geschichte vom Greis)
 
 ترجمه به سانسکریت، صرفاً با استفاده از اشکال فعلی Perfekt:
 

@@ -145,7 +145,7 @@ C) شكّل صيغة التام المقابلة للأشكال التالية:
 :::: media
 ![](/images/uebung059.webp)
 Abb.: ⟪जगौ⟫
-(Bildquelle: [Details](/licenses#uebung059)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#uebung059))
 
 ::::
 :::

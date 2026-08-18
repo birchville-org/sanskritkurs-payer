@@ -31,7 +31,7 @@ A) Provai da determinair las pussaivlas significaziuns dals suandants vocabels:
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 (mo) dal fil da l'orditura / dal telar = nov tessì
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : danzader <!-- TODO: Fallback translation -->
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : danzader
 
 12\. naraka ⟪नरक⟫ : m. infer
 
@@ -61,7 +61,7 @@ ijyādhyayanadānāni ⟪इज्याध्ययनदानानि⟫
 
 Sacrifizis, studi dal Veda, dar donaziuns.
 
-2\. incumbensas spezialas d'in brahman: <!-- TODO: Fallback translation -->
+2\. incumbensas spezialas d'in brahman:
 
 pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 
@@ -69,17 +69,17 @@ pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रति�
 
 Insegnar, sacrificiar en cumond, acceptar donaziuns.
 
-3\. incumbensas spezialas d'in kṣatriya: <!-- TODO: Fallback translation -->
+3\. incumbensas spezialas d'in kṣatriya:
 
 rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 
-(sarvabhūtānām = genitiv: "da tut ils essers") <!-- TODO: Fallback translation -->
+(sarvabhūtānām = genitiv: "da tut ils essers")
 
 (Gautamadharmasūtra X,7)
 
-Proteger tut ils essers. <!-- TODO: Fallback translation -->
+Proteger tut ils essers.
 
-4\. incumbensas spezialas d'in vaiśya: <!-- TODO: Fallback translation -->
+4\. incumbensas spezialas d'in vaiśya:
 
 kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 
@@ -96,9 +96,9 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्वि�
 Explicaziun:
 dvijātīnām = genitiv plural a dvijāti (tradusì qua: "cunter ils dusnaschids")
 
-kārukuśīlavakarma è in tatpuruṣa cun in dvandva (kārukuśīlava) en il prim element. karma = nominativ singular a karman n. "acziun, activitad, karma" per la radis kṛ 8 U). Tradusì "acziun / activitad da ... (genitiv)" (designà tras il dvandva). <!-- TODO: Fallback translation -->
+kārukuśīlavakarma è in tatpuruṣa cun in dvandva (kārukuśīlava) en il prim element. karma = nominativ singular a karman n. "acziun, activitad, karma" per la radis kṛ 8 U). Tradusì "acziun / activitad da ... (genitiv)" (designà tras il dvandva).
 
-Obidienza cunter ils dusnaschids, activitads per il sustegn da la vita, acziun sco arteschan u scenist viandant. <!-- TODO: Fallback translation -->
+Obidienza cunter ils dusnaschids, activitads per il sustegn da la vita, acziun sco arteschan u scenist viandant.
 
 6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫
 
@@ -111,4 +111,3 @@ L'economia è agricultura, allevament da bestgiam e commerzi.
 Fig.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 (fonta da l'imaginescha: [detagls](/licenses#uebung013))
 :::
- <!-- TODO: Fallback translation -->

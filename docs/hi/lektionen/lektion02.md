@@ -1,6 +1,6 @@
 ---
 title: "पाठ 2"
-subtitle: "​[L2] नामवाक्य और विभक्ति के मूल सिद्धांत"
+subtitle: "नामवाक्य और विभक्ति के मूल सिद्धांत"
 lesson_id: 2
 category: "Grammatik"
 status: "stable"

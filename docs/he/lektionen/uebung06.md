@@ -239,7 +239,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Setzen Sie in den Plural: <!-- TODO: Fallback translation -->
+B) Setzen Sie in den Plural:
 
 1\. brāhmaṇo yajati.
 
@@ -371,7 +371,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Bilden Sie das Femininum zu: <!-- TODO: Fallback translation -->
+D) Bilden Sie das Femininum zu:
 
 1\. śūdro nayati.
 
@@ -419,7 +419,7 @@ E) תרגמו:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
+Annapūrṇā ist eine Gottheit.
 
 2\. שׁוּדְרֵטָרָה.
 

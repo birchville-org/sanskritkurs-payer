@@ -635,11 +635,3 @@ B) Convert the following verbal forms into their corresponding perfect forms. If
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
-
-**Image lekt4005.jpg** (Fig.: ⟪पादं सब्रह्मचारिभ्यः⟫): Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம் [Image source: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, Share Alike)]
-**Image lekt4003.jpg** (Fig.: ⟪हरिद्वारे तीर्थम्⟫): [Image source: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution)]
-**Image lekt4002.jpg** (Fig.: ⟪तीर्थङ्करः⟫): [Image source: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, Non-commercial Use, No Derivative Works)]
-**Image lekt4001.jpg** (Fig.: ⟪विष्णोर्दशावताराः⟫): Clockwise: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, in the center: ⟪कृष्ण⟫ [Image source: Wikipedia. Public domain]
-**Image lekt4004.jpg** (Fig.: ⟪स्वपन्ति⟫): Indian flying foxes (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Image source: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, Non-commercial Use, No Derivative Works)]
-:::

@@ -372,25 +372,3 @@ Gerundiv ⟪ध्येय⟫
 (منبع تصویر: [جزئیات](/licenses#lekt4908))
 :::
 
-::: deleteme-box
-
-**lekt4907:** [منبع تصویر: رگش واسودوان. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- دسترسی در ۲۰۰۹-۰۱-۱۰. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
-
-**lekt4901:** [منبع تصویر: یونی. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- دسترسی در ۲۰۰۹-۰۱-۱۱. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (نسب‌دهی، بدون تغییر)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫، قرن یازدهم. [منبع تصویر: واسیل / ویکی‌پدیا. مالکیت عمومی]
-
-**lekt4903:** [منبع تصویر: توجی لئون. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- دسترسی در ۲۰۰۹-۰۱-۱۱. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [منبع تصویر: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- دسترسی در 2009-01-11. -- [مجوز کامن کریس](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
-
-**lekt4909:** فالگیر با طوطی در قفس: طوطی کاغذهایی را می‌کشد که سرنوشت بر آن‌ها نوشته شده است مایسور [منبع تصویر: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- دسترسی در 2009-01-12. --  [مجوز کامن کریس](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب‌دهی)]
-
-**lekt4905:** امریتسار = ਅੰਮ੍ਰਿਤਸਰ [منبع تصویر: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- دسترسی در 2009-01-11. -- [مجوز کامن کریس](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب‌دهی)]
-
-**lekt4906:** سریلانکا [منبع تصویر: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- دسترسی در 2009-01-11. -- [مجوز کامن کریس](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
-
-**lekt4908:** طوطک آلو‌رنگ _= Psittacula cyanocephala_[منبع تصویر: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)] <!-- TODO: Fallback translation -->
-
-:::
-

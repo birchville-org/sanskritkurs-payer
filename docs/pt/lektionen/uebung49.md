@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 49
 
-Bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
+Bestimmen Sie folgende Formen:
 
 ::: grammar-box
 | Nr. | Form | Bestimmung |
@@ -58,11 +58,11 @@ Bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
 Abb.: ⟪गायी⟫
 (Bildquelle: [Details](/licenses#uebung078))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## ⟪बाण⟫ (⟪७⟫. Jhdt. n. Chr.): ⟪कादम्बरी⟫
 
-Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den Papagei ⟪वैशम्पायन⟫: <!-- TODO: Fallback translation -->
+Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den Papagei ⟪वैशम्पायन⟫:
 
 **⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪॥⟫**
 
@@ -70,7 +70,7 @@ Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den 
 
 > Der König sprach: "Lassen wir all das auf sich beruhen! Befriedigen Sie unsere Neugier! Herr, erzählen Sie uns von Anfang an: In welchem Land wurden Sie geboren? Wer hat Ihnen den Namen gegeben? Wer ist Ihre Mutter? Wie haben Sie die Veden erhalten? Wie haben Sie sich mit den Lehrwerken vertraut gemacht? Woher haben Sie die Künste erworben? Können Sie sich an frühere Geburten erinnern oder Wünsche erfüllen? Oder bewohnen Sie, indem Sie das Kleid eines Vogels tragen, ein Versteck? Oder wo wohnten Sie früher? Oder wie alt sind Sie? Wie wurden Sie in einen Käfig gefangen? Und wie sind Sie in die Hände von Cāṇḍālas gekommen? Oder wie sind Sie hierher gekommen?"
 >
-> Vaiśampāyana aber, der vom Herrn der Erde mit spontan entstandener Neugier mit grossem Respekt gefragt worden war, überlegte einen Augenblick und antwortete dann voll Hochachtung: "König, das ist eine lange Geschichte. Wenn es Sie interessiert, leihen Sie mir Ihr Ohr!" <!-- TODO: Fallback translation -->
+> Vaiśampāyana aber, der vom Herrn der Erde mit spontan entstandener Neugier mit grossem Respekt gefragt worden war, überlegte einen Augenblick und antwortete dann voll Hochachtung: "König, das ist eine lange Geschichte. Wenn es Sie interessiert, leihen Sie mir Ihr Ohr!"
 
 ::: media
 ![](/images/uebung079.webp)

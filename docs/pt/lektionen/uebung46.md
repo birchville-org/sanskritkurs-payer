@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 46
 
-A) Bestimmen und übersetzen Sie folgende Formen: <!-- TODO: Fallback translation -->
+A) Bestimmen und übersetzen Sie folgende Formen:
 
 ::: grammar-box
 | Wortform | Bestimmung | Bedeutung |
@@ -66,21 +66,21 @@ A) Bestimmen und übersetzen Sie folgende Formen: <!-- TODO: Fallback translatio
 | ⟪५१⟫. ⟪सुषुपुः⟫ | ⟪स्वप्⟫ (2P) 3. pl. P. Perf. | sie haben geschlafen |
 | ⟪५२⟫. ⟪ऊसु⟫ | ⟪वस्⟫ (1P) 2. pl. P. Perf. | ihr habt gewohnt |
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Sprüche (⟪सुभाषितानि⟫)
 
 B) Übersetzen Sie:
 
 ⟪१⟫. **⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Wenn jemand die Begierden aufgibt und mit dem Selbst allein durch das Selbst zufrieden ist, dann wird er "einer von fester Einsicht" (⟪स्थितप्रज्ञः⟫) genannt. <!-- TODO: Fallback translation -->
+Wenn jemand die Begierden aufgibt und mit dem Selbst allein durch das Selbst zufrieden ist, dann wird er "einer von fester Einsicht" (⟪स्थितप्रज्ञः⟫) genannt.
 
 ⟪२⟫. **⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫**  
 **⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Aus Zorn entsteht Verblendung, aus Verblendung die Verwirrung der Achtsamkeit (Erinnerung); aus dem Verlust der Achtsamkeit folgt der Untergang der Einsicht, und durch den Untergang der Einsicht geht man zugrunde. <!-- TODO: Fallback translation -->
+Aus Zorn entsteht Verblendung, aus Verblendung die Verwirrung der Achtsamkeit (Erinnerung); aus dem Verlust der Achtsamkeit folgt der Untergang der Einsicht, und durch den Untergang der Einsicht geht man zugrunde.
 
 ⟪३⟫. **⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Für den Unbeherrschten (Nicht-Yogin) gibt es keine Einsicht. <!-- TODO: Fallback translation -->
+Für den Unbeherrschten (Nicht-Yogin) gibt es keine Einsicht.
 
 ::: media
 ![](/images/uebung080.webp)

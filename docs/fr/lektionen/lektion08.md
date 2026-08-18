@@ -5,17 +5,10 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
 # Leçon 8
 
-::: deleteme-box
-**Dans cette leçon, vous apprendrez :**
-- La formation des noms (suffixes kṛt- et taddhita-)
-- Les suffixes nominaux importants (-a, -ana, -tra, -ti, -tva, -tā)
-- La 8e classe de présent (tanādi)
-- La conjugaison de **kṛ** (tun, faire)
-:::
 
 ## 8.1. Sur la formation des noms
 
@@ -31,11 +24,11 @@ Dans la grammaire indienne traditionnelle, on distingue, parmi les suffixes serv
 **Stem nominal + terminaison casuelle » nom syntaxiquement fonctionnel**
 :::
 
-## 8.2. Einteilung der Nominalsuffixe <!-- TODO: Fallback translation -->
+## 8.2. Einteilung der Nominalsuffixe
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
   - **kārakakṛt** (⟪कारककृत्⟫) » noms d'agent (désignent celui qui accomplit l'action désignée par la racine)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » noms d'action (désignent l'action exprimée par la racine) ou abstractions <!-- TODO: Fallback translation -->
+  - **kṛtikṛt** (⟪कृतिकृत्⟫) » noms d'action (désignent l'action exprimée par la racine) ou abstractions
 
 - **taddhita**
   - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » adjectifs
@@ -51,9 +44,9 @@ Dans la grammaire indienne traditionnelle, on distingue, parmi les suffixes serv
 - **na guṇya** (⟪न⟫ ⟪गुण्य⟫) : formation au degré faible
 - **vṛddhyarha** (⟪वृद्ध्यर्ह⟫) : formation au degré allongé
 
-## 8.3. Einige wichtige Nominalsuffixe <!-- TODO: Fallback translation -->
+## 8.3. Einige wichtige Nominalsuffixe
 
-### 8.3.1. -a m. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
 **Le suffixe kṛt -a forme des substantifs masculins (plus rarement neutres) qui désignent une action ou un état indiqué par la racine ; parfois aussi des adjectifs ou des substantifs exprimant l’agent (kartṛ) de l’action indiquée par la racine verbale. Pour une pénulti courte (= voyelle avant la consonne sur laquelle la racine se termine) ou une voyelle finale de racine, on substitue généralement le degré élevé (guṇa) ou le degré allongé (vṛddhi).**
@@ -73,7 +66,7 @@ Dans la grammaire indienne traditionnelle, on distingue, parmi les suffixes serv
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "le devenir, l'être (quelque chose), nature, caractère" |
 | **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "combattant, guerrier, soldat" |
 
-### 8.3.2. -ana n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
 **Le suffixe kṛt -ana forme généralement des substantifs neutres qui désignent une action, un état ou le moyen/outil par lequel l'action désignée par la racine ou le radical verbal est accomplie. Pour une pénulti brève ou une voyelle finale de la racine, on substitue habituellement le degré plein (guṇa).**
@@ -103,7 +96,7 @@ Les hindous pieux vont au temple pour obtenir la vision de Dieu à travers un sy
 (Source : Wikipédia)
 :::
 
-### 8.3.3. -tra n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
 **Le suffixe kṛt -tra forme (la plupart du temps) des substantifs neutres, qui désignent le moyen ou l'instrument par lequel l'action désignée par la racine se réalise. La pénultième courte et la voyelle finale de la racine sont remplacées par le degré renforcé (guṇa).**
@@ -131,7 +124,7 @@ Les hindous pieux vont au temple pour obtenir la vision de Dieu à travers un sy
 (Origines des images : [Détails](/fr/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti f. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
 **Le suffixe kṛt -ti forme des substantifs féminins qui expriment généralement l'action désignée par la racine ou l'état désigné par la racine. La forme de la racine est au degré inférieur.**
@@ -146,7 +139,7 @@ Les hindous pieux vont au temple pour obtenir la vision de Dieu à travers un sy
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Émanation, création" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Regard, vue, perspective" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, carrière, but du déplacement" (de *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Pensée, idée, opinion" (de *mn » ma + -ti) | <!-- TODO: Fallback translation -->
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Pensée, idée, opinion" (de *mn » ma + -ti) |
 
 *Remarque : \* devant une forme signifie que cette forme n'apparaît pas en sanskrit, mais est déduite théoriquement comme condition préalable à une certaine formation. Le degré inférieur de **gam** est gṃ = \*gm, le m est remplacé par une nasale sonore par **a** » **ga**. Il en va de même pour **man** » **ma**.
 

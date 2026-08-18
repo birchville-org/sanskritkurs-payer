@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # पाठ 59
 
@@ -784,10 +784,3 @@ _अनुवाद सहायता:_ श्लोक 6: ⟪दिदृक�
 :::
 पाठ स्रोत: ओटो बोहट्लैंक: संस्कृत-क्रेश्टोमैथी, पृ. 127f.
 
-::: deleteme-box
-
-**lekt5902:** [छवि स्रोत: Henryart/Wikipedia. सार्वजनिक क्षेत्र]
-
-**lekt5903:** केचक नृत्य, बाली (इंडोनेशिया) [छवि स्रोत: Flying Pharmacist / Wikipedia. [रचनात्मक कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-sa/3.0/) (नाम देना, साझा समान)]
-
-:::

@@ -167,7 +167,7 @@ Bis nati pecus desiderant accipere.
 Rāma memor est mantra magistri virtutis.
 
 ⟪११⟫. ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-Cuius (f.) filius est hic puer? <!-- TODO: Fallback translation -->
+Cuius (f.) filius est hic puer?
 
 ⟪१२⟫. ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 Cuius haec aedificia sunt?

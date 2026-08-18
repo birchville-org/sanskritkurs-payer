@@ -5,9 +5,9 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# 24. lecke <!-- TODO: Fallback translation -->
+# 24. lecke
 
 ## 24.1. A datív (⟪चतुर्थी⟫ = "negyes esetrag")
 
@@ -75,7 +75,7 @@ Példa:
 Ábr.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
 A Raksha Bandhant lelkesedéssel és örömmel ünneplik egész Indiában. Ez a fesztivál a testvérek közötti feltétel nélküli szeretet megtestesítője.
 (Képmegjelenés: [Részletek](/hu/licenses#lekt2402))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -105,7 +105,7 @@ A datívus további felhasználásait később.
 * **egyes szám: -e ; vokalisch endende Femininstämme: -ai**
 * **többes szám: részes eset (dativus) und ablativus ⟪पञ्चमी⟫: -bhyas**
 :::
-### 24.2.1. Konsonantische Stämme <!-- TODO: Fallback translation -->
+### 24.2.1. Konsonantische Stämme
 
 ::: grammar-box
 
@@ -124,7 +124,7 @@ A datívus további felhasználásait később.
 | | hímnem / semlegesnem | nőnem |
 | :--- | :--- | :--- |
 | **részes eset (dativus) egyes szám** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
-| **részes eset (dativus) többes szám** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ | <!-- TODO: Fallback translation -->
+| **részes eset (dativus) többes szám** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
 ### 24.2.3. Mutató névmások
@@ -182,7 +182,7 @@ Példa:
 :::
 ## 24.4. Szószedet
 
-⟪अलम्⟫ Határozószó: eleget, elegendő; (vkinek, vminek) megfelel; birtokos esettel: eleget tesz vminek, elegendő vmihez; felszólító esettel: elég vmivel, hagyd abba vmiből, pl. ⟪अलं⟫ ⟪क्रोधेन⟫ = „eleget a haraggal = hagyd abba a haragból!” <!-- TODO: Fallback translation -->
+⟪अलम्⟫ Határozószó: eleget, elegendő; (vkinek, vminek) megfelel; birtokos esettel: eleget tesz vminek, elegendő vmihez; felszólító esettel: elég vmivel, hagyd abba vmiből, pl. ⟪अलं⟫ ⟪क्रोधेन⟫ = „eleget a haraggal = hagyd abba a haragból!”
 
 Ugyanúgy, mint ⟪अलम्⟫ felszólító esettel használva:
 
@@ -198,7 +198,7 @@ Ugyanúgy, mint ⟪अलम्⟫ felszólító esettel használva:
 Kép: ⟪अलंकारः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2405))
 :::
-⟪हेतु⟫ m.: ösztönzés, indok, ok, alap ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ genitívussal vagy egy összetétel második tagjaként = „... végett, miatt” <!-- TODO: Fallback translation -->
+⟪हेतु⟫ m.: ösztönzés, indok, ok, alap ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ genitívussal vagy egy összetétel második tagjaként = „... végett, miatt”
 
 ⟪प्रतिमा⟫ f.: kép, ábrázolás
 
@@ -217,7 +217,7 @@ A következőből: ⟪वृत्⟫
 
 ⟪वृत्त⟫ n.: magatartás
 :::
-⟪अभि⟫ előtag:  be-, után - felé, oda - ide, oda - felé, ellenében, be- , vonatkozásban, a(n), fölött, mellett <!-- TODO: Fallback translation -->
+⟪अभि⟫ előtag:  be-, után - felé, oda - ide, oda - felé, ellenében, be- , vonatkozásban, a(n), fölött, mellett
 
 ⟪नि⟫ előtag: lefelé, lentebb, be-, hátra
 
@@ -300,7 +300,7 @@ A ⟪गीतगोविन्द⟫ kézirata, i. sz. 1730
 
 ## 24.5. Gyakorlat
 
-A) Alakítsa ki az egyes számú dativust és a többes számú dativust/(ablativust), valamint adja meg a névi alap jelentését: <!-- TODO: Fallback translation -->
+A) Alakítsa ki az egyes számú dativust és a többes számú dativust/(ablativust), valamint adja meg a névi alap jelentését:
 
 1.  ⟪श्रव⟫
 2.  ⟪भवन⟫
@@ -352,7 +352,7 @@ B) Fordítsa le, és oldja fel a szanszkrit összetételeket:
 
 ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫
 
-C) Írja át az A) 1-4. mondatokat szanszkritra, a datívus helyett ⟨⟪तुमुन्⟩⟩-t használva. Vegye figyelembe, hogy az infinitívus ugyanazt a szerkezetet követi, mint a megfelelő ige. <!-- TODO: Fallback translation -->
+C) Írja át az A) 1-4. mondatokat szanszkritra, a datívus helyett ⟨⟪तुमुन्⟩⟩-t használva. Vegye figyelembe, hogy az infinitívus ugyanazt a szerkezetet követi, mint a megfelelő ige.
 
 D) Cserélje ki az A) 7. mondatban a -⟪अर्थ⟩⟩ szerkezetet egy ekvivalens datívusra.
 
@@ -362,9 +362,9 @@ E) Cserélje ki az A) 6. mondatban a datívus szerkezetet egy ekvivalens -⟪अ
 
 Fordítsa szanszkritra:
 
-Az istennő, akinek áldozatot nem mutattak be, haragszik az emberekre. <!-- TODO: Fallback translation -->
+Az istennő, akinek áldozatot nem mutattak be, haragszik az emberekre.
 
-Kiengedi a tehenet a faluba. <!-- TODO: Fallback translation -->
+Kiengedi a tehenet a faluba.
 
 Most elég = Elég a türelemből.
 
@@ -406,27 +406,3 @@ Elegendő egy gyümölcs az evéshez és víz a iváshoz.
 
 15⟪१५⟫. Viszlát! (Újszanszkrit: ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** Az „Annakut” [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] egy hagyományos hindu esemény, amelyet a hindu újév ünneplések keretében rendeznek meg az összes BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] templomban. Ezen a napon több száz vegetárius ételt ajánlanak Bhagwan Swaminarayan [સ્વામિનારાયણ] felé. [Képmegjelölés: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (Névmegjelölés, nem kereskedelmi felhasználás)]
-
-**lekt2402:** A Raksha bandhant lelkesedéssel és örömmel ünneplik egész Indiában. Ez a fesztivál a testvérek közötti feltétel nélküli szeretet megtestesítője. [Képmegjelölés: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (Névmegjelölés, nem kereskedelmi felhasználás, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt2403:** „Ráma (jobbra) Hanuman vállán ülve, harcol a démonkirály, Rávana ellen.” kb. 1820 [Képmegjelölés: Wikipedia, Közterület]
-
-**lekt2404:** [Képmegjelölés: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (Névmegjelölés, nincs átdolgozás)]
-
-**lekt2405:** [Képmegjelenítés forrása: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Képmegjelenítés forrása: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás)] <!-- TODO: Fallback translation -->
-
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, a CNN-IBN Network 18 India külföldi szerkesztő-helyettese, moderál egy panelbeszélgetést a Világgazdasági Fórum Indiai Gazdasági Csúcsértekezletén 2008-ban Újdelhiben." [Képmegjelenítés forrása: World Economic Forum / Dana Smillie fotója. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (nevesítés, azonos feltételekkel megosztás)]
-
-**lekt2408:** "A San Francisco-i mesemondó, Jeff Byers egy történetet oszt meg Chenneri lakosaival, egy Irula faluval. A mesemondó, Jeeva Raghunath tamilra fordítja a történetet a falusiak számára." [Képmegjelenítés forrása: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás)]
-
-**lekt2409:** [Képmegjelenítés forrása: Redtigerxyz / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt2410:** ⟪नरसिंह⟫ szétmarja ⟪हिरण्यकशिपु⟫, levél egy ⟪भागवतपुराण⟫ kéziratból [Képmegjelenítés forrása: Wikipedia, Public domain]
-
-**lekt2411:** ⟪गीतगोविन्द⟫ kézirata, i. sz. 1730 [Képmegjelenítés forrása: Wikipedia, Public domain]
-:::

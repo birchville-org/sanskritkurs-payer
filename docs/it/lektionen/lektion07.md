@@ -1,22 +1,15 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: "Lezione 7"
+subtitle: "La frase verbale con oggetto diretto"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+
+--- &lt;!--  --&gt;
 
 # Lezione 7
 
-::: deleteme-box
-**In questa lezione imparate:**
-- La frase verbale con oggetto diretto
-- L'accusativo dei nomi e dei pronomi
-- Il Sandhi della finale -n
-- Il neutro delle radici in a
-- Le classi di presente atematiche (esempio della 5ª classe)
-:::
 
 ::: center
 **Proverbio della settimana**

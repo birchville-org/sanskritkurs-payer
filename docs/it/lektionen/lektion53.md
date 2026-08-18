@@ -368,7 +368,7 @@ I seguenti aggettivi pronominali vengono declinati come **⟪सर्व⟫**. 
 **Un certo numero di aggettivi forma il comparativo e il superlativo utilizzando i seguenti suffissi ⟪कृत्⟫ (!):**
 
 *   Comparativo: **-īyas**
-*   Superlativo: **-iṣṭha** &lt;!-- TODO: Fallback translation --&gt;
+*   Superlativo: **-iṣṭha** &lt;!--  --&gt;
 
 **Mentre i suffissi ⟪तद्धित⟫ -⟪तर⟫ e -⟪त⟫am si attaccano al tema maschile dell'aggettivo, i suffissi -⟪ईयस्⟫ e -⟪इष्ठ⟫ vengono aggiunti alla radice da cui l'aggettivo è derivato (se esiste una tale radice!). Il vocale della radice è in grado di grado (guṇa).**
 
@@ -456,7 +456,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "anziano") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "anziano") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declinazione dei comparativi in -īyas &lt;!-- TODO: Fallback translation --&gt;
+## 53.9. Declinazione dei comparativi in -īyas &lt;!--  --&gt;
 
 ::: grammar-box
 **I comparativi in -īyas formano il femminile in -īyasī (declinazione come ⟪देवी⟫). Il maschile e il neutro vengono declinati secondo il seguente paradigma.**
@@ -635,19 +635,5 @@ Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19  
 Alois Maria Payer  
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-**Fonti**
-
-**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lezione 53 (Vacanze semestrali). -- Versione del 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) &lt;!-- TODO: Fallback translation --&gt;
-
-Finitum feliciter 1984-02-15  
-Editio interretialis feliciter finita 2009-01-19  
-Alois Maria Payer  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-
-**Payer, Alois (1944–):** Corso di sanscrito. -- Lezione 53 (Vacanze semestrali). -- Versione del 19-01-2009. -- Fonte dell'immagine della tabella originale 53.9: screenshot della fonte originale (Payer).
 :::
 

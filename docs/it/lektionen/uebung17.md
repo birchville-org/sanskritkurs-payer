@@ -1,8 +1,9 @@
 ---
-title: "Esercizio 17"
+title: "[Esercizio 17]"
 uebung_id: 17
-category: "Esercizio"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -10,41 +11,32 @@ last_reconstructed: 2026-05-15
 
 A) Inserite il verbo nelle seguenti frasi e traducete:
 
-⟪१⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) ⟪।⟫
-⟪ब्रवीति⟫ ⟪।⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪वदति⟫ ⟪।⟫
-Un brahmano non dice una menzogna.
+⟪१⟫. ⟪ब्राह्मनो ऽनृतं न⟫ ... (⟪ब्रू । वच् । वद्⟫) ⟪। ब्रवीति । वक्ति । वदति ।⟫
+Un brāhmaṇa non dice una menzogna.
 
-⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫) ⟪।⟫
-⟪पाति⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫
+⟪२⟫. ⟪क्षत्रियो जनान्⟫ ... (⟪पा । रक्ष्⟫) ⟪। पाति । रक्षति ।⟫
 Un kṣatriya protegge il popolo.
 
-⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) ⟪।⟫
-⟪द्विजारीञ्जयति⟫ ⟪।⟫ ⟪द्विजारीन्हन्ति⟫ ⟪।⟫ ⟪युध्यते⟫ ⟪।⟫
-Il potente guerriero sconfigge / uccide / combatte i nemici dei nati due volte.
+⟪३⟫. ⟪बलवद्योधो द्विजारीन्⟫ ... (⟪जि । हन् । युध्⟫) ⟪। द्विजारीञ्जयति । द्विजारीन्हन्ति । युध्यते ।⟫
+Il potente guerriero sconfigge / uccide / combatte i nemici dei dvija.
 
-⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) ⟪।⟫
-⟪स्तौति⟫ ⟪।⟫ ⟪स्तुते⟫ ⟪।⟫ ⟪यजते⟫ ⟪।⟫ ⟪यजति⟫ ⟪।⟫
-Il poeta brahmano loda il SIGNORE del mondo. (oppure: ...offre un sacrificio... al SIGNORE del mondo)
+⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु । यज्⟫) ⟪। स्तौति । स्तुते । यजते । यजति ।⟫
+Il poeta brāhmaṇico loda il SIGNORE del mondo. (oppure: ...sacrifica... al SIGNORE del mondo)
 
-⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) ⟪।⟫
-⟪अत्ति⟫ ⟪।⟫ ⟪दहति⟫ ⟪।⟫
+⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫) ⟪। अत्ति । दहति ।⟫
 Il fuoco consuma / brucia il cibo.
 
-⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫) ⟪।⟫
-⟪दोग्धि⟫ ⟪।⟫ ⟪दुग्धे⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪पाति⟫ ⟪।⟫
-Il giovane vaiśya munge / protegge la mucca.
+⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫) ⟪। दोग्धि । दुग्धे । रक्षति । पाति ।⟫
+Il giovane vaiśya munge / pascola la mucca.
 
-⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
-⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-Un servo dei nati due volte cammina sul sentiero della selvaggina verso il villaggio brahmanico.
+⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫) ⟪। गच्छति । एति । पद्यते ।⟫
+Un servitore dei dvija cammina sul sentiero di caccia verso il villaggio brāhmaṇico.
 
-⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
-⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
-Ein Śūdra ist Knecht der Zweimalgeborenen.
+⟪८⟫. ⟪द्विजदासः शूद्रस्⟫ ... (⟪अस् २ । भू⟫) ⟪। द्विजदासः शूद्रो ऽस्ति ।⟫ ... ⟪शूद्रो भवति ।⟫
+Un śūdra è schiavo dei dvija.
 
-⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫) ⟪।⟫
-⟪रोदिति⟫ ⟪।⟫ ⟪बालब्राह्मण्याते⟫ ⟪।⟫ ⟪म्रियते⟫ ⟪।⟫
-La piccola brahmana piange / siede / muore.
+⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद् । आस् । मृ⟫) ⟪। रोदिति । बालब्राह्मण्याते । म्रियते ।⟫
+La giovane brāhmaṇi piange / siede / muore.
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫) ⟪।⟫
 ⟪द्वेष्टि⟫ ⟪।⟫ ⟪द्विष्टे⟫ ⟪।⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪।⟫

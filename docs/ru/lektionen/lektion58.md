@@ -451,16 +451,3 @@ B) Переведите и определите следующие формы:
 38. ⟪दद⟫
 39. ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [Источник изображения: Икбал Саггу. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Дата обращения: 2009-03-02. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt5803:** Национальный парк Бандипур -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [Источник изображения: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- Дата обращения: 2009-03-02. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, NonCommercial, NoDerivs)]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [Источник изображения: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Дата обращения: 2009-03-02. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, NonCommercial, NoDerivs)]
-
-:::

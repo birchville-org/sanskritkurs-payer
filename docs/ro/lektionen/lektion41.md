@@ -5,7 +5,7 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 41
 
@@ -23,7 +23,7 @@ Explicație: ⟪पर⟫ "altul"
 ![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4102))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -132,7 +132,7 @@ Exemple:
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | „ce trebuie făcut” |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | „ce trebuie văzut; ce merită văzut” |
 | ⟪बुध्⟫ Cauz. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | „unul de trezit” |
-| ⟪दा⟫ Cauz. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | „ce trebuie lăsat să fie dat” | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ Cauz. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | „ce trebuie lăsat să fie dat” |
 
 :::
 #### 41.2.2.3. Sufixul -⟪य⟫ / -⟪या⟫
@@ -188,7 +188,7 @@ Exemple:
 ![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4103))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -322,7 +322,7 @@ Cu ⟪सु⟫- și ⟪दुस्⟫- în sensul de "ușor" respectiv "greu",
 Fig.: ⟪भुजङ्गः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: doar, singur, complet <!-- TODO: Fallback translation -->
+⟪केवलम्⟫ Adv.: doar, singur, complet
 
 ⟪विष⟫ n.: venin
 
@@ -362,7 +362,7 @@ Fig.: ⟪शासना⟫
 ![lekt4110.jpg](/images/lekt4110.webp)
 Fig.: ⟪शास्त्री⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4110))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -372,11 +372,6 @@ Fig.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (la ⟪सम्⟫-⟪हन्⟫ : a bate împreună): grup, mulțime, comunitate (de ex. budistă)
 
-::: deleteme-box
-vezi și:
-
-**Payer, Alois (1944–):** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale pentru conceptele fundamentale ale budismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: fată tânără, fiică, fecioară
 
 ⟪अति⟫ Prefix verbal: peste, peste tot, dincolo (în spațiu, în timp, în număr, în cantitate, în ordine, în putere, în intensitate), extrem de
@@ -407,16 +402,3 @@ Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫
 
 ⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
 
-::: deleteme-box
-
-- **Imaginea lekt4102.jpg** (Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Sursa imaginii: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Accesat la 2009-01-02. -- Licență Creative Commons (Atribuire, utilizare non-comercială)]
-- **Imaginea lekt4103.jpg** (Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [Sursa imaginii: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire, utilizare non-comercială, fără modificări)]
-- **Imaginea lekt4106.jpg** (Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): Casa de Rugăciune Bahá'í, Delhi [Sursa imaginii: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire, utilizare non-comercială, share alike)]
-- **Imaginea lekt4107.jpg** (Fig.: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [Sursa imaginii: Wikipedia. Domeniu public]
-- **Imaginea lekt4108.jpg** (Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका⟫ ⟪घाट⟫, 1922 [Sursa imaginii LoC/Wikipedia. Domeniu public]
-- **Imaginea lekt4105.jpg** (Fig.: ⟪भुजङ्गः⟫): Krait dantelat (_Bungarus fasciatus_) [Sursa imaginii: J. Ewart. The poisonous snakes of India, 1878. Domeniu public]
-- **Imaginea lekt4104.jpg** (Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): Storscerea veninului de șarpe (Krait), Thailanda [Sursa imaginii: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire)]
-- **Imaginea lekt4109.jpg** (Fig.: ⟪शासना⟫): Edictul lui Ashoka, Dhauli, Orissa [Sursa imaginii: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire, utilizare non-comercială)]
-- **Imaginea lekt4110.jpg** (Fig.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), circa 1898 [Sursa imaginii: Wikipedia. Domeniu public]
-- **Imaginea lekt4111.jpg** (Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Sursa imaginii: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Accesat la 2009-01-04. -- Licență Creative Commons (Atribuire, fără modificări)]
-:::

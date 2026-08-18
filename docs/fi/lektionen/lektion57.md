@@ -1,10 +1,11 @@
 ---
-title: Lektion 57
-subtitle: "Aorist 4: s-Aorist"
+title: "Oppitunti 57"
+subtitle: "Aoristi 4: s-aoristi"
 lesson_id: 57
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Luento 57
@@ -28,7 +29,7 @@ Päätetaulukko vartalopäätteineen
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
 :::
 ::: grammar-box
-**Sääntään sovelletaan yleistä äänneylakia, jonka mukaan kitina-äänte katoaa kahden tukahdutusäänteen välissä (vrt. ⟪उद्⟩ + ⟪स्थित⟩ » ⟪उत्थित⟩), eli vartalonmuodostuspääte -s- katoaa ennen päätteitä, jotka alkavat -t- tai -th-, (mutta ei nasaalien tai r-jälkeen).** <!-- TODO: Fallback translation -->
+**Sääntään sovelletaan yleistä äänneylakia, jonka mukaan kitina-äänte katoaa kahden tukahdutusäänteen välissä (vrt. ⟪उद्⟩ + ⟪स्थित⟩ » ⟪उत्थित⟩), eli vartalonmuodostuspääte -s- katoaa ennen päätteitä, jotka alkavat -t- tai -th-, (mutta ei nasaalien tai r-jälkeen).**
 
 Esimerkit:
 
@@ -38,12 +39,12 @@ Esimerkit:
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟩:sig[⟪क्षिप्था⟩]⟪स्⟩
 :::
 Tällaiset muodot voivat kuulua myös juurtaoristiin, ja ne todennäköisesti osittain kuuluvatkin sinne.
-Intialaiset grammatikot ovat laskeneet myös muodot kuten ⟪अकृत⟩ (3.sg.Ā) s-aoristiin, jotka selvästi kuuluvat juurtaoristiin. Tätä varten intialaiset grammatikot keksivät seuraavan ad-hoc-äännesäännön s-aoristille: <!-- TODO: Fallback translation -->
+Intialaiset grammatikot ovat laskeneet myös muodot kuten ⟪अकृत⟩ (3.sg.Ā) s-aoristiin, jotka selvästi kuuluvat juurtaoristiin. Tätä varten intialaiset grammatikot keksivät seuraavan ad-hoc-äännesäännön s-aoristille:
 
 ::: indent
 "Lyhyen vokaalin jälkeen 'päätteet', jotka alkavat -st- tai -sth-, menettävät -s-."
 :::
-Muuten on noudatettava äännesääntöjä, jotka koskevat loppupään konsonanttien liittymistä s-:n kanssa. <!-- TODO: Fallback translation -->
+Muuten on noudatettava äännesääntöjä, jotka koskevat loppupään konsonanttien liittymistä s-:n kanssa.
 
 -dhvam:n kohdalla pätee:
 
@@ -87,13 +88,13 @@ Esimerkit:
 | ⟪पच्⟩ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟩ ja ⟪सृज्⟩ ovat ⟪परस्मैपद⟩-taivutuksessa pitkässä muodossa nousevalla diftongilla -rā-:** <!-- TODO: Fallback translation -->
+**⟪दृश्⟩ ja ⟪सृज्⟩ ovat ⟪परस्मैपद⟩-taivutuksessa pitkässä muodossa nousevalla diftongilla -rā-:**
 
 :::
 ::: indent
 ⟪दृश्⟩ 3.prs.P ⟪अ⟩:sig[⟪द्राक्षी⟩]⟪त्⟩
 :::
-Auch der Aorist andere Juurin mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
+Auch der Aorist andere Juurin mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
@@ -114,7 +115,7 @@ Paradigmat:
 Kuv.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5701))
 :::
-⟪कृ⟫ 8U "tehdä" <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U "tehdä"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -138,17 +139,17 @@ Kuv.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 **1. Nasalillaattiset juuret (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) muodostavat s-aoristin korkean astevaihtelun:**
 **⟪अगंसि⟩ ⟪।⟩ ⟪अमंसि⟩ ⟪।⟩ ⟪अरंस्त⟩**
 **Sen lisäksi sanalle ⟪गम्⟩ on säännölliset matalan astevaihtelun muodot:**
-**⟪अगसि⟩ (« \*a-gm-si) ⟪।⟩ ⟪अगथास्⟩ ⟪।⟩ ⟪अगत⟩ (passiivin yksikön 3. persoonan muodon yhteydessä ⟪गम्⟩ on temattinen aoristi)** <!-- TODO: Fallback translation -->
+**⟪अगसि⟩ (« \*a-gm-si) ⟪।⟩ ⟪अगथास्⟩ ⟪।⟩ ⟪अगत⟩ (passiivin yksikön 3. persoonan muodon yhteydessä ⟪गम्⟩ on temattinen aoristi)**
 
 2.  ⟪पद्⟩ 4Ā on säännöllinen (esim. ⟪अपत्सि⟩), mutta sen 3.sg.Ā-muodossa on passiivisen juuri-aoristin muoto:
-⟪अपादि⟩ "hän meni" <!-- TODO: Fallback translation -->
+⟪अपादि⟩ "hän meni"
 
 3.  ⟪बुध्⟩ Ā voi valinnaisesti 3.sg.Ā-muodossa saada passiivisen juuri-aoristin muodon:
 ⟪अबोधि⟩ / ⟪अबुद्ध⟩ "hän tunnistoi"
 :::
 ## 57.2. Harjoitus
 
-A) Käännä ja määritä ilman apuvälineitä seuraavat muodot sekä muodosta niihin vastaavat aoristimuodot. Paitsi kausatiiveissa ja juurissa, jotka muodostavat s-aoristin, vastaavan aoristiluokan numero on annettu hakasulkeissa: <!-- TODO: Fallback translation -->
+A) Käännä ja määritä ilman apuvälineitä seuraavat muodot sekä muodosta niihin vastaavat aoristimuodot. Paitsi kausatiiveissa ja juurissa, jotka muodostavat s-aoristin, vastaavan aoristiluokan numero on annettu hakasulkeissa:
 
 1.  ⟪पेचिथ⟫
 2.  ⟪अवक्⟫ (⟪३⟫)
@@ -176,7 +177,7 @@ A) Käännä ja määritä ilman apuvälineitä seuraavat muodot sekä muodosta 
 24.  ⟪कर्षन्ति⟫
 25.  ⟪अप्रच्छयन्⟫
 
-B) Käännä ja määritä seuraavat muodot: <!-- TODO: Fallback translation -->
+B) Käännä ja määritä seuraavat muodot:
 
 1.  ⟪चेलुः⟫
 2.  ⟪जन्तुः⟫
@@ -235,8 +236,3 @@ B) Käännä ja määritä seuraavat muodot: <!-- TODO: Fallback translation -->
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-::: deleteme-box
-
-**lekt5701:** [Kuvälähde: Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
-
-:::

@@ -3,6 +3,7 @@ title: "Gyakorlat 23"
 uebung_id: 23
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -50,7 +51,7 @@ A) Az alábbi gyökök infinitivusát kötőmag hang nélkül képezik. Képezz�
 36.  ⟪पच्⟫ — ⟪पक्तुम्⟫
 37.  ⟪सद्⟫ — ⟪सत्तुम्⟫
 
-B) Az alábbi gyökök infinitivusát kötőmag -i-vel képezik. Képezzék az infinitivust: <!-- TODO: Fallback translation -->
+B) Az alábbi gyökök infinitivusát kötőmag -i-vel képezik. Képezzék az infinitivust:
 
 1.  ⟪आस्⟫ — ⟪आसितुम्⟫
 2.  ⟪नृत्⟫ — ⟪नर्तितुम्⟫
@@ -68,36 +69,36 @@ C) Az alábbi gyökök választás szerint kötőmaggal vagy anélkül:
 4.  ⟪मुह्⟫ — ⟪मोहितुम्⟫ / ⟪मग्धुम्⟫ / ⟪मोढुम्⟫
 5.  ⟪सह्⟫ — ⟪सहितुम्⟫ / ⟪सोढुम्⟫
 
-D) Fordítsa le és bontsa fel a szóösszetételeket:
+D) Fordelje le és oldja fel a összetételeket:
 
-⟪१⟫. **⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञ्नैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫**
-Mivel az emberek mennyországot szeretnének elérni, isteneket áldozatokkal tisztelnek.
+⟪१⟫. **⟪नराः स्वर्गं लब्धुं देवान्यज्ञ्नैर्यष्टुमिच्छन्ति ॥१॥⟫**
+Az ég elnyeréséért az emberek isteneket áldozattal tisztelni kívánnak.
 
-⟪२⟫. **⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫**
-(⟪महत्पुण्यम्⟫ ⟪।⟫ ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪जनेन⟫)
-Ha valaki sok érdemletett cselekedetet végzett, egy gonoszmentes ember nem kerülhet pokolba.
+⟪२⟫. **⟪महापुण्यं कृत्वा गतपापजनेन नरकं गन्तुं न शक्यते ॥२॥⟫**
+(⟪महत्पुण्यम् । गतं पापं यस्य तेन जनेन⟫)
+Ha valaki sok érdemteljes cselekedetet végzett, a gonosztól mentes ember nem kerülhet egy pokolba.
 
-⟪३⟫. **⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫**
-(⟪सञ्जनः⟫ ⟪।⟫ ⟪न⟫ ⟪धर्मम्⟫)
-Mivel az érdemteljes cselekedetek termékenyek, egy jó ember nem akar rosszat tenni. <!-- TODO: Fallback translation -->
+⟪३⟫. **⟪फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥⟫**
+(⟪सञ्जनः । न धर्मम्⟫)
+Mivel az érdemteljes cselekedetek termékenyek, a jó ember nem akar igazságtalanságot elkövetni.
 
-⟪४⟫. **⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫**
-A világok megszabadítása érdekében Buddha a nemes igazságokat tanítja. <!-- TODO: Fallback translation -->
+⟪४⟫. **⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥⟫**
+A világok megszabadításáért a Buddha tanítja az nemes igazságokat.
 
-⟪५⟫. **⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सहात्⟫tu⟪ं⟫ ⟪नार्हति⟫ ⟪॥५॥⟫**
-(⟪शूद्राणां⟫ ⟪जनः⟫)
-A śūdrák nem ehetnek együtt bráhmanával.
+⟪५⟫. **⟪शूद्रजनो ब्राह्मणेन सहात्⟫tu⟪ं नार्हति ॥५॥⟫**
+(⟪शूद्राणां जनः⟫)
+A śūdrák nem ehetnek együtt egy bráhmanával.
 
-⟪६⟫. **⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫**
-(⟪लोभेन⟫ ⟪सम्पन्ना⟫ ⟪नराः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्ताम्⟫)
-A vágyakozás teljében az emberek elmentek, hogy a gyönyörű szolgalány táncát lássák.
+⟪६⟫. **⟪लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥⟫**
+(⟪लोभेन सम्पन्ना नराः । सम्पन्नं रूपं यस्यास्ताम्⟫)
+A vágytól telve mentek el a férfiak, hogy lássák a gyönyörű szolganőt táncolni.
 
-⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert. <!-- TODO: Fallback translation -->
+⟪७⟫. **⟪शूद्रया संगत्य ब्राह्मणो यष्टुं नार्हति ॥७॥⟫**
+Ha egy bráhmana szexuális kapcsolatot létesített egy śūdrával, nem áldozhat.
 
-⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
-(⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
-Mivel a dharma hallgatását szerette volna, a bráhmananő fiával együtt nagyvárosba ment, hogy találkozzon a mesterrel.
+⟪८⟫. **⟪धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥⟫**
+(⟪श्रोतुं कामो यस्याः सा । पुत्रेण सह । महन्नगरम्⟫)
+Mivel a dharmáról akart hallani, a bráhma nő elment a fiával a nagyvárosba, hogy találkozzon a mesterrel.
 
 
 ---
@@ -115,7 +116,7 @@ Az étkezés, az alvás, a félelem és a szexus az embereknek a jószágokkal k
 Ábr.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Képmegjelölés: [Részletek](/licenses#uebung035))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## További gyakorlatok
 
@@ -125,10 +126,10 @@ A) Fordítsd szanszkritra:
 **⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟩ ⟪पञ्च⟩ ⟪क्लेशाः⟩ ⟪।⟩**
 
 2. A tudás megszerzése a tanár iránti engedelmességből, vagy sok pénzért, vagy tudás cseréjében történik. Nincs negyedik fajta tudásszerzés.
-**⟪गुरुशुश्रूषया⟩ ⟪विद्या⟩ ⟪पुष्कलेन⟩ ⟪धनेन⟩ ⟪वा⟩ ⟪।⟩ ⟪अथवा⟩ ⟪विद्यया⟩ ⟪विद्या⟩ ⟪चतुर्थी⟩ ⟪नैव⟩ ⟪विद्यते⟩ ⟪॥⟩** <!-- TODO: Fallback translation -->
+**⟪गुरुशुश्रूषया⟩ ⟪विद्या⟩ ⟪पुष्कलेन⟩ ⟪धनेन⟩ ⟪वा⟩ ⟪।⟩ ⟪अथवा⟩ ⟪विद्यया⟩ ⟪विद्या⟩ ⟪चतुर्थी⟩ ⟪नैव⟩ ⟪विद्यते⟩ ⟪॥⟩**
 
 3. Egy alacsony rangú beszél, de nem cselekszik; egy jó ember nem beszél, hanem csak cselekszik.
-**⟪निचो⟩ ⟪वदति⟩ ⟪न⟩ ⟪कुरुते⟩ ⟪वदति⟩ ⟪न⟩ ⟪साधुः⟩ ⟪करोत्येव⟩ ⟪॥⟩** <!-- TODO: Fallback translation -->
+**⟪निचो⟩ ⟪वदति⟩ ⟪न⟩ ⟪कुरुते⟩ ⟪वदति⟩ ⟪न⟩ ⟪साधुः⟩ ⟪करोत्येव⟩ ⟪॥⟩**
 
 4. A Védához tartozó segédtudományok: kiejtéstan, rituálékutatás, grammatika, jelentéstan, metrika (⟪छन्दस्⟩) és naptártan.
 **⟪शिक्षा⟩ ⟪कल्पो⟩ ⟪व्याकरणं⟩ ⟪निरुक्तं⟩ ⟪छन्दो⟩ ⟪ज्योतिषमङ्गानि⟩ ⟪।⟩**
@@ -137,13 +138,13 @@ A) Fordítsd szanszkritra:
 **⟪योगश्चित्तवृत्तिनिरोधः⟩ ⟪॥⟩**
 
 6. Az igazság győz, nem az egyenlőtlen; az igazság győz, nem a hazugság; a türelem győz, nem a harag; Isten győz, nem egy ellenisten. (Passzív)
-**⟪धर्मो⟩ ⟪जयति⟩ ⟪नाधर्मः⟩ ⟪सत्यं⟩ ⟪जयति⟩ ⟪नानृतम्⟩ ⟪।⟩ ⟪क्षमा⟩ ⟪जयति⟩ ⟪न⟩ ⟪क्रोधो⟩ ⟪देवो⟩ ⟪जयति⟩ ⟪नासुरः⟩ ⟪॥⟩** <!-- TODO: Fallback translation -->
+**⟪धर्मो⟩ ⟪जयति⟩ ⟪नाधर्मः⟩ ⟪सत्यं⟩ ⟪जयति⟩ ⟪नानृतम्⟩ ⟪।⟩ ⟪क्षमा⟩ ⟪जयति⟩ ⟪न⟩ ⟪क्रोधो⟩ ⟪देवो⟩ ⟪जयति⟩ ⟪नासुरः⟩ ⟪॥⟩**
 
 7. A „bot” filozófia, Véd és gazdaságtan szerzését és biztonságos birtoklását eredményezi. Ennek a botnak az irányítása politika.
 **⟪आन्वीक्षिकीत्रयीवार्त्तानां⟩ ⟪योगक्षेमसाधनो⟩ ⟪दण्डः⟩, ⟪तस्य⟩ ⟪नीतिर्दण्डनीतिः⟩ ⟪॥⟩**
 
 8. Feleség, fiú és szolga, ezek a három (⟪त्रयस्⟩) hagyomány szerint tulajdon nélküliek. Amit ezekhez hoznak, azé, akinek ez a három tartozik.
-**⟪भार्या⟩ ⟪पुत्रश्च⟩ ⟪दासश्च⟩ ⟪त्रय⟩ ⟪एवाधनाः⟩ ⟪स्मृताः⟩ ⟪।⟩ ⟪यत्ते⟩ ⟪समधिगच्छन्ति⟩ ⟪यस्य⟩ ⟪ते⟩ ⟪तस्य⟩ ⟪तद्धनम्⟩ ⟪॥⟩** <!-- TODO: Fallback translation -->
+**⟪भार्या⟩ ⟪पुत्रश्च⟩ ⟪दासश्च⟩ ⟪त्रय⟩ ⟪एवाधनाः⟩ ⟪स्मृताः⟩ ⟪।⟩ ⟪यत्ते⟩ ⟪समधिगच्छन्ति⟩ ⟪यस्य⟩ ⟪ते⟩ ⟪तस्य⟩ ⟪तद्धनम्⟩ ⟪॥⟩**
 
 9. A szúnyogok sebet kívánnak, uralkodók birtokot kívánnak, alacsony rangúak vitát kívánnak, jók békét kívánnak.
 **⟪मक्षिका⟩ ⟪व्रणमिच्छन्ति⟩ ⟪धनमिच्छन्ति⟩ ⟪पार्थिवाः⟩ ⟪।⟩ ⟪नीचाः⟩ ⟪कलहमिच्छन्ति⟩ ⟪शान्तिमिच्छन्ति⟩ ⟪साधवः⟩ ⟪॥⟩**
@@ -156,7 +157,7 @@ A) Fordítsd szanszkritra:
 **⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫**
 
 12. A szegényeknek sok fiuk van, noha nem kívánják őket. A gazdagoknak nincs fiuk. Furcsa a sors ingadozása.
-**⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫ ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫ ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫ ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫ ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫**
 
 13. Kit nem öl meg egy karcsú derekú, széles csípőjű, vörös ajkú, fekete szemű, ívelt köldökű, egyenes mellű női test (⟪वपुस्⟩ n.)?
 **⟪तनुमध्यं⟩ ⟪पृथुश्रोणि⟩ ⟪रक्तौष्ठमसितेक्षणम्⟩ ⟪।⟩ ⟪नतनाभि⟩ ⟪वपुः⟩ ⟪स्त्रीणां⟩ ⟪कं⟩ ⟪न⟩ ⟪हन्त्युन्नतस्तनम्⟩ ⟪॥⟩**

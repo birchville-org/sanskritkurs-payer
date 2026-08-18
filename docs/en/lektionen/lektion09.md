@@ -10,13 +10,6 @@ last_reconstructed: 2026-05-07
 
 # Lesson 9
 
-::: deleteme-box
-**In this lesson, you will learn:**
-The Samāhāradvandva ("collective dvandva")
-The formation of nominal stems with the suffixes **-ka** (taddhita) and **-aka** (kṛt)
-Vocabulary on the topic of professions and social roles
-Quotes from classical legal texts (Dharmaśāstras)
-:::
 
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "collective dvandva")

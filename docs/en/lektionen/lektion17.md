@@ -321,11 +321,3 @@ Translate the following verb forms and provide the corresponding root:
 
 ⟪१⟫. ⟪अदन्ति २⟫. ⟪सन्ति ३⟫. ⟪आसते ४⟫. ⟪यन्ति ५⟫. ⟪इच्छति ६⟫. ⟪कुर्वते ७⟫. ⟪गच्छन्ति ८⟫. ⟪जायते ९⟫. ⟪जयति १०⟫. ⟪तनोति ११⟫. ⟪दहति १२⟫. ⟪दोग्धि १३⟫. ⟪पश्यति १४⟫. ⟪द्विष्टे १५⟫. ⟪नयन्ति १६⟫. ⟪नृत्यति १७⟫. ⟪पद्यन्ते १८⟫. ⟪पिबति १९⟫. ⟪पान्ति २०⟫. ⟪पृच्छति २१⟫. ⟪बुध्यन्ते २२⟫. ⟪ब्रवीति २३⟫. ⟪भवन्ति २४⟫. ⟪मन्यते २५⟫. ⟪मुञ्चन्ति २६⟫. ⟪म्रियन्ते २७⟫. ⟪यजते २८⟫. ⟪युध्यन्ते २९⟫. ⟪रक्षति ३०⟫. ⟪रोदिति ३१⟫. ⟪लभते ३२⟫. ⟪वक्ति ३३⟫. ⟪वदति ३४⟫. ⟪शृणोति ३५⟫. ⟪स्तौति ३६⟫. ⟪स्मरति ३७⟫. ⟪हन्ति ३८⟫. ⟪अश्नुवते ३९⟫. ⟪कुप्यते ४० कर्षन्ति ४१⟫. ⟪उद्यते ४२⟫. ⟪सहन्ते ४३⟫. ⟪सिच्यन्ते ४४⟫. ⟪आप्नोति ४५⟫. ⟪जीव्यते ४६⟫. ⟪दिश्यन्ते⟫
 
-::: deleteme-box
-
-**lekt1701:** [Image source: by tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, no derivatives)]
-
-**lekt1702:** [Image source: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, non-commercial use, share alike)]
-
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Image source: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, non-commercial use)]
-:::

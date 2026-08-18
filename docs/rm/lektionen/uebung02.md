@@ -85,7 +85,7 @@ guruḥ kaviḥ.
 
 ⟪शिव⟫ ⟪ईश्वरः⟫
 
-7\. Il naschì duas giadas è in Brahman. <!-- TODO: Fallback translation -->
+7\. Il naschì duas giadas è in Brahman.
 
 brāhmaṇo dvijaḥ.
 

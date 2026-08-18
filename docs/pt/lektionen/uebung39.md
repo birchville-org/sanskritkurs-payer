@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 39
 
-A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen: <!-- TODO: Fallback translation -->
+A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen:
 
 ::: grammar-box
 | 3. Person | 1. Person |

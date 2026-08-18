@@ -150,7 +150,7 @@ Fig.: ⟪आपणः⟫
 Fig.: ⟪पण्यानि⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4303))
 :::
-⟪आम्⟫ : sim <!-- TODO: Fallback translation -->
+⟪आम्⟫ : sim
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -173,14 +173,14 @@ Fig.: ⟪पण्यानि⟫
 Fig.: ⟪विपणिः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: comerciante <!-- TODO: Fallback translation -->
+⟪वणिज्⟫ m.: comerciante
 
 ::: media
 ![](/images/lekt4305.webp)
 Fig.: ⟪वणिक्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4305))
 :::
-⟪वर⟫ 3: o melhor <!-- TODO: Fallback translation -->
+⟪वर⟫ 3: o melhor
 
 ⟪शीघ्र⟫ 3: rápido, veloz
 
@@ -191,7 +191,7 @@ Fig.: ⟪वणिक्⟫
 Fig.: ⟪वत्सः⟫
 (Fonte da imagem: [Details](/licenses#lekt4306))
 :::
-⟪उत्तम⟫ 3: supremo, o melhor <!-- TODO: Fallback translation -->
+⟪उत्तम⟫ 3: supremo, o melhor
 
 ⟪अल्प⟫ 3: pequeno, baixo
 
@@ -212,7 +212,7 @@ Fig.: ⟪वत्सः⟫
 Fig.: ⟪तोलन्ति⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4307))
 :::
-⟪कर्गल⟫ n.: papel <!-- TODO: Fallback translation -->
+⟪कर्गल⟫ n.: papel
 
 ⟪संपुट⟫ m.: Caixa (aqui: pacote, feixe)
 
@@ -316,7 +316,7 @@ Vocês mostrarão ao pai o santuário mais interior do templo?
 
 O hino de que poeta cantaste?
 
-Vocês venderão estas frutas? <!-- TODO: Fallback translation -->
+Vocês venderão estas frutas?
 
 O que ordenaste?
 
@@ -367,25 +367,6 @@ Abb.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 ![](/images/lekt4309.webp)
 Fig.: ⟪शर्करा⟫
 (Fonte da imagem: [Detalhes](/pt/licenses#lekt4309))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
-::: deleteme-box
-
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
-
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
-
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung) <!-- TODO: Fallback translation -->
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Zugriff am 2009-001-06. -- Creative Commons Lizenz (Namensnennung, share alike) <!-- TODO: Fallback translation -->
-
-**lekt4307.jpg**: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
-
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Zugriff am 2009-01-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)
-:::
- <!-- TODO: Fallback translation -->

@@ -5,17 +5,10 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 11
 
-::: deleteme-box
-**In hac lection discitis:**
-- Accusativum geminum (accusativum personae et rei)
-- Vsum particulārum **iti**, **evam** et **na**
-- Elementaria vocabula ut **dharma**, **adharma** et **putra**
-- Formationem nominum ex radicibus **vad**, **prach** et **iṣ**
-:::
 ## 11.1. Accusativus geminus
 
 ::: grammar-box
@@ -38,7 +31,7 @@ e.g. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 » Passive: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
 
-## 11.2. Index verborum <!-- TODO: Fallback translation -->
+## 11.2. Index verborum
 
 **Haec verba discite:**
 
@@ -71,7 +64,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : interrogare
-  - **praśna** m. ⟪प्रश्न⟫ : quaestio (suffixum **-na** ut in **yaj-ña**) <!-- TODO: Fallback translation -->
+  - **praśna** m. ⟪प्रश्न⟫ : quaestio (suffixum **-na** ut in **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : optare
   - **iṣṭi** f. ⟪इष्टि⟫ : optatio (**iṣ** + **-ti**)

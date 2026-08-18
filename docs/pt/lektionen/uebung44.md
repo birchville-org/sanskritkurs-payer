@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 44
 
-A) Bestimmen und übersetzen Sie folgende Formen: <!-- TODO: Fallback translation -->
+A) Bestimmen und übersetzen Sie folgende Formen:
 
 ::: grammar-box
 | Wortform | Bestimmung | Bedeutung |
@@ -66,46 +66,46 @@ A) Bestimmen und übersetzen Sie folgende Formen: <!-- TODO: Fallback translatio
 | ⟪५१⟫. ⟪हथ⟫ | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | ihr schlagt |
 | ⟪५२⟫. ⟪हतः⟫ | ⟪हन्⟫ (2P) PPP Nom. sg. m. | geschlagen / getötet |
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Übersetzungen <!-- TODO: Fallback translation -->
+## Übersetzungen
 
 B) Übersetzen Sie:
 
 ⟪१⟫. **⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪साधुना⟫ ⟪जयेत्⟫ ⟪।⟫ ⟪जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Durch Nicht-Zorn besiege man den Zorn, durch das Gute besiege man den Bösen; durch Wahrheit besiege man die Unwahrheit. <!-- TODO: Fallback translation -->
+Durch Nicht-Zorn besiege man den Zorn, durch das Gute besiege man den Bösen; durch Wahrheit besiege man die Unwahrheit.
 
 ⟪२⟫. **⟪पुत्राः⟫ ⟪किं⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्प्रायच्छत⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Söhne, habt ihr den Vorvätern Speiseopfer gegeben? <!-- TODO: Fallback translation -->
+Söhne, habt ihr den Vorvätern Speiseopfer gegeben?
 
 ⟪३⟫. **⟪कानि⟫ ⟪शास्त्राणि⟫ ⟪काश्यामध्यैथाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Welche Lehrwerke hast du in Benares (Kāśī) studiert? <!-- TODO: Fallback translation -->
+Welche Lehrwerke hast du in Benares (Kāśī) studiert?
 
 ⟪४⟫. **⟪बुद्धपुत्राश्चेन्महाशयनेषु⟫ ⟪शयीरन्प्रव्रज्यायां⟫ ⟪कृतं⟫ ⟪व्रतं⟫ ⟪न⟫ ⟪चरेयुः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Wenn die Söhne Buddhas (Mönche) auf prächtigen Lagern lägen, würden sie das bei der Ordination abgelegte Gelübde nicht erfüllen. <!-- TODO: Fallback translation -->
+Wenn die Söhne Buddhas (Mönche) auf prächtigen Lagern lägen, würden sie das bei der Ordination abgelegte Gelübde nicht erfüllen.
 
 ⟪५⟫. **⟪अप्यार्ययुद्धाख्यानमाख्यास्यन्तं⟫ ⟪गुरुमभ्यनन्दः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Hast du auch den Lehrer, der die Erzählung vom Kampf der Edlen vortragen wird, begrüsst? <!-- TODO: Fallback translation -->
+Hast du auch den Lehrer, der die Erzählung vom Kampf der Edlen vortragen wird, begrüsst?
 
 ⟪६⟫. **⟪द्वेष्यमपि⟫ ⟪न⟫ ⟪द्विष्यात⟫ ⟪लोभनीयं⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्येतैवं⟫ ⟪च⟫ ⟪प्रसन्ना⟫ ⟪भविष्यथ⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Auch Hassenswertes sollt ihr nicht hassen, und nach Begehrenswertem sollt ihr nicht gierig sein; so werdet ihr innerlich abgeklärt sein. <!-- TODO: Fallback translation -->
+Auch Hassenswertes sollt ihr nicht hassen, und nach Begehrenswertem sollt ihr nicht gierig sein; so werdet ihr innerlich abgeklärt sein.
 
 ⟪७⟫. **⟪न⟫ ⟪योत्स्य⟫ ⟪इत्यर्जुन⟫ ⟪उवाच⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-"Ich werde nicht kämpfen" — so sprach Arjuna. <!-- TODO: Fallback translation -->
+"Ich werde nicht kämpfen" — so sprach Arjuna.
 
 ⟪८⟫. **⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫ ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Du hast die Nicht-zu-Beklagenden beklagt und wolltest Worte der Weisheit sprechen; doch die Weisen beklagen weder die Toten noch die Lebenden. <!-- TODO: Fallback translation -->
+Du hast die Nicht-zu-Beklagenden beklagt und wolltest Worte der Weisheit sprechen; doch die Weisen beklagen weder die Toten noch die Lebenden.
 
 ::: media
 ![](/images/uebung072.webp)
 Abb.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Bildquelle: [Details](/licenses#uebung072))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Weitere Formbestimmungen <!-- TODO: Fallback translation -->
+## Weitere Formbestimmungen
 
-Bestimmen Sie folgende Wortformen: <!-- TODO: Fallback translation -->
+Bestimmen Sie folgende Wortformen:
 
 ::: grammar-box
 | Wortform | Bestimmung |
@@ -155,7 +155,7 @@ Bestimmen Sie folgende Wortformen: <!-- TODO: Fallback translation -->
 ![](/images/uebung073.webp)
 Abb.: ⟪वदिता⟫
 (Bildquelle: [Details](/licenses#uebung073))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

@@ -7,17 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# 3. lecke <!-- TODO: Fallback translation -->
+# 3. lecke
 
-::: deleteme-box
-**Ebben a leckében megtanulják:**
-- a nőnem egyes számának alanyesetét (nominativus)
-- a hímnem és nőnem többes számának alanyesetét (nominativus)
-- a nőnem képzését maskulinumokká
-- vokális szandhit (hangzásillesztést)
-- Satzsandhi von -ās
-:::
-## 3.1. A nőnem egyes számának alanyesete <!-- TODO: Fallback translation -->
+## 3.1. A nőnem egyes számának alanyesete
 
 ### 3.1.1. -s végződésű alanyeset egyes számban
 
@@ -27,7 +19,7 @@ A következő, magánhangzóra végződő főnévi tőkék is -s-ra végződő n
 - **-i** végű nőnemek: pl. **śruti** n. "a hallás" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **-u** végű nőnemek: pl. **dhenu** n. "tehenes" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. alanyeset (nominativus)us egyest végződés nélkül <!-- TODO: Fallback translation -->
+### 3.1.2. alanyeset (nominativus)us egyest végződés nélkül
 
 A nominativus egyet végződés nélkül képezik:
 
@@ -37,7 +29,7 @@ A nominativus egyet végződés nélkül képezik:
 :::
 ::: important
 **Figyelem!** Mellettük léteznek egy szótagú, nőnemű gyökárvizsgálati főnevek -ī végződéssel, amelyek nominativus egyese -s-ra végződik: pl. dhī n. "gondolat" -- Nom. sg.: dhīs = ⟪धीस्⟫. A lakṣmī (⟪लक्ष्मी⟫) n., a tarī (⟪तरी⟫) n. "csónak" és a tantrī (⟪तन्त्री⟫) n. "húr" is szabálytalanul képezik a nominativus egyest -s-ra: lakṣmīs = ⟪लक्ष्मीस्⟫.
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ## 3.2. A hímnemű szavak nőnemű képzése
@@ -52,7 +44,7 @@ A nominativus egyet végződés nélkül képezik:
 (**-u-** magánhangzó előtt **-v**-vé válik, ezért **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. A hímnem és nőnem többes számának alanyesete <!-- TODO: Fallback translation -->
+## 3.3. A hímnem és nőnem többes számának alanyesete
 
 ::: grammar-box
 A nemek többes számának nominativus végződése a hímnemben és nőnemben **-as**.
@@ -64,7 +56,7 @@ A nemek többes számának nominativus végződése a hímnemben és nőnemben *
 - **-u** végű hímnem: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
 - **-u** végű nőnem: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
-Megjegyzés: az **e** a magasabb fok (guṇa) az **i**-hez, az **o** pedig a magasabb fok a **u**-hoz. <!-- TODO: Fallback translation -->
+Megjegyzés: az **e** a magasabb fok (guṇa) az **i**-hez, az **o** pedig a magasabb fok a **u**-hoz.
 
 ## 3.4. Vokális szandhi
 
@@ -77,7 +69,7 @@ Megjegyzés: az **e** a magasabb fok (guṇa) az **i**-hez, az **o** pedig a mag
 :::
 pl.
 
-devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇa egy istenség” = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
+devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇa egy istenség” = ⟪देवतान्नपूर्णा⟫
 
 > (Annapūrṇā az ételek és a főzés istennője, őt Párvatí, Siṣa feleségének megtestesüléseként tisztelik.)
 
@@ -98,7 +90,7 @@ devī + indrāṇī » devīndrāṇī „Indrāṇi istennő” = ⟪देव�
 - -ṛ » **-r-**
 (!! Ehhez a szabályhoz különösen a kettős számú alakok esetén vannak kivételek !!)
 :::
-pl. <!-- TODO: Fallback translation -->
+pl.
 
 devī + umā » devy umā "Umā egy / a istennő" = ⟪देव्युमा⟫
 
@@ -117,24 +109,24 @@ Tehát erre a szandira az alábbi séma érvényes:
 ![](/images/lekt0302.jpg)
 (Képmegjelölés: [Részletek](/hu/licenses#lekt0302))
 :::
-Ezzel az úgynevezett törzsi rangsorolással kapcsolatban lásd később! <!-- TODO: Fallback translation -->
+Ezzel az úgynevezett törzsi rangsorolással kapcsolatban lásd később!
 
 pl.
 
 śūdrā + itarā » śudretarā „Itarā egy śúdra nő” = ⟪शूद्रेतरा⟫
 
-## 3.5. Mondat-szandhi az -ās végződésnél <!-- TODO: Fallback translation -->
+## 3.5. Mondat-szandhi az -ās végződésnél
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-pl. <!-- TODO: Fallback translation -->
+pl.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ „Vaiśyas kétszer születtek” = ⟪द्विजा⟫ ⟪वैश्याः⟫ <!-- TODO: Fallback translation -->
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ „Vaiśyas kétszer születtek” = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
 ## 3.6. Szószedet
 
-**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
 **śruti** n. = ⟪श्रुति⟫ : a hallás, az örökösített hagyomány (a Védák és Brāhmaṇa-szövegek megnevezése).
 
@@ -153,17 +145,17 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ „Vaiśyas kétszer születtek” =
 - a **purāṇa** n. (⟪पुराण⟫)
 - **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : az életbölcsesség kézikönyvei
 
-A **smṛti** kifejezés különösen a dharma-kézikönyvekre utal. <!-- TODO: Fallback translation -->
+A **smṛti** kifejezés különösen a dharma-kézikönyvekre utal.
 
 **dhenu** f. = ⟪धेनु⟫ : (tejszarvas) tehén.
 
 **paśu** m. = ⟪पशु⟫ : háziasított haszonállat, nyáj (kollektívum).
 
-**devatā** f. = ⟪देवता⟫ : isten (abstrakt és konkrét). <!-- TODO: Fallback translation -->
+**devatā** f. = ⟪देवता⟫ : isten (abstrakt és konkrét).
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : bráhmani nő.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya nő. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya nő.
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : egy kṣatriya felesége.
 
@@ -173,7 +165,7 @@ A **smṛti** kifejezés különösen a dharma-kézikönyvekre utal. <!-- TODO: 
 
 **śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : egy śūdra felesége.
 
-**devī** f. = ⟪देवी⟫ : isteni nő, különösen Durgā f. = ⟪दुर्गा⟫, Siva felesége = ⟪शिव⟫. <!-- TODO: Fallback translation -->
+**devī** f. = ⟪देवी⟫ : isteni nő, különösen Durgā f. = ⟪दुर्गा⟫, Siva felesége = ⟪शिव⟫.
 
 ::: media
 ![](/images/lekt0303.webp)
@@ -188,15 +180,15 @@ A **smṛti** kifejezés különösen a dharma-kézikönyvekre utal. <!-- TODO: 
 
 **ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Filozófia (az a tudomány, amely logikailag helyes érvelések útján jut következtetéseihez).
 
-**upekṣā** f. = ⟪उपेक्षा⟫: Figyelembe nem vétel, közöny. <!-- TODO: Fallback translation -->
+**upekṣā** f. = ⟪उपेक्षा⟫: Figyelembe nem vétel, közöny.
 
 **karuṇā** f. = ⟪करुणा⟫: Empátia, együttérzés.
 
-**muditā** f. = ⟪मुदिता⟫: Öröm, különösen örömködés mások boldogságán (a irigységgel szemben). <!-- TODO: Fallback translation -->
+**muditā** f. = ⟪मुदिता⟫: Öröm, különösen örömködés mások boldogságán (a irigységgel szemben).
 
 ## 3.7. Gyakorlat
 
-**A) Alakítsa a következő mondatokat többes számra:** <!-- TODO: Fallback translation -->
+**A) Alakítsa a következő mondatokat többes számra:**
 
 1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
 2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫

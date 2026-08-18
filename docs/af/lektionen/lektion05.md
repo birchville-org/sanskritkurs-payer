@@ -9,13 +9,6 @@ status: stable
 
 # Les 5
 
-::: deleteme-box
-**In hierdie les leer u:**
-- Grondbeginsels van nominale samestellings (samāsa)
-- Vakterme vir samestellings
-- Kopulatiewe samestellings (Dvandva)
-- Die volgorde van die lede in Dvandvas
-:::
 ## 5.1. Nominale samestellings (samāsa m. = ⟪समास⟫)
 
 Die vorming van woordsamestellings op 'n baie groot skaal is 'n kenmerk van Sanskrit.

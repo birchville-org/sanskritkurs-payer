@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: Lektion 53
 lesson_id: 53
@@ -636,19 +636,5 @@ Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-**Quellen**
-
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
-
-Finitum feliciter 1984-02-15  
-Editio interretialis feliciter finita 2009-01-19  
-Alois Maria Payer  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
 :::
 

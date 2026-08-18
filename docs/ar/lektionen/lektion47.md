@@ -1,10 +1,11 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: "الدرس 47"
+subtitle: "الأمر (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # الدرس 47
@@ -253,14 +254,3 @@ status: stable
 
 34\. ليكن ذلك خيرا! (دعاء بالبركة)
 
-::: deleteme-box
-
-**lekt4702:** معبد هانومان، دلهي = ⟪हनुमान्मन्दिर⟫، دلهي / دہلی [مصدر الصورة: كارول ميتشل. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- تم الوصول إليه في 2009-01-09. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (نسب العمل، لا أعمال مشتقة)]
-
-**lekt4701:** [مصدر الصورة: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- تم الوصول إليه في 2009-01-09. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب العمل، عدم الاستخدام التجاري، مشاركة بالتساوي)]
-
-**lekt4703:** [مصدر الصورة: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- تم الوصول إليه في 2009-01-10. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by/2.0/deed.de) (نسبة المصنع)]
-
-**lekt4704:** [مصدر الصورة: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- تم الوصول إليه في 2009-01-10. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-
-:::

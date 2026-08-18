@@ -587,20 +587,3 @@ PPP ⟪सृत⟫
 
 ⟪युष्माकम्⟫ ਸੰ.ਬਹੁ. :sig[⟪यूयम्⟫] ਲਈ
 
-::: deleteme-box
-
-- **lekt3801.jpg**: ਚਿੱਤਰ: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  ਬੈਂਗਲੁਰੂ = ಬೆಂಗಳೂರು \[ਚਿੱਤਰ ਸਰੋਤ: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- ਪ੍ਰਾਪਤ 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ)\]
-- **lekt3802.jpg**: ਚਿੱਤਰ: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, ਕੋਨਾਰਕ = ⟪कोनार्क⟫ \[ਚਿੱਤਰ ਸਰੋਤ: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- ਪ੍ਰਾਪਤ 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ)\]
-- **lekt3803.jpg**: ਚਿੱਤਰ: ⟪सीमा⟫  ਭਾਰਤ ਅਤੇ ਪਾਕਿਸਤਾਨ ਵਿਚਕਾਰ ਵਾਗਹ (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) ਸੀਮਾ ਪਾਰ \[ਚਿੱਤਰ ਸਰੋਤ: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- ਪ੍ਰਾਪਤ 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਸਾਂਝਾ ਕਰੋ)\]
-- **lekt3804.jpg**: ਚਿੱਤਰ: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  ਗੰਧਾਰ, 2./3. ਸਦੀ ਈ. \[ਚਿੱਤਰ ਸਰੋਤ: ਵਿਕੀਪੀਡੀਆ. ਸਾਰਵਜਨਿਕ ਖੇਤਰ\]
-- **lekt3805.jpg**: ਚਿੱਤਰ: ⟪उदकम्⟫  ਦਰੇਵਾੜੀ ਪਿੰਡ, ਅਹਿਮਦ ਨਗਰ ਜ਼ਿਲ੍ਹਾ = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[ਚਿੱਤਰ ਸਰੋਤ: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- ਪ੍ਰਾਪਤ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਸਾਂਝਾ ਕਰੋ)\]
-- **lekt3806.jpg**: ਚਿੱਤਰ: ⟪हस्ती⟫  ਨਗਰਹੋਲੇ ਰਾਸ਼ਟਰੀ ਉਦਿਆਨ = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[ਚਿੱਤਰ ਸਰੋਤ: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- ਪ੍ਰਾਪਤ 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਸਾਂਝਾ ਕਰੋ)\]
-- **lekt3807.jpg**: ਚਿੱਤਰ: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[ਚਿੱਤਰ ਸਰੋਤ: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- ਪ੍ਰਾਪਤ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਸੋਧ ਨਹੀਂ)\]
-- **lekt3808.jpg**: ਚਿੱਤਰ: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930 ਦੇ ਦਹਾਕੇ \[ਚਿੱਤਰ ਸਰੋਤ: ਵਿਕੀਪੀਡੀਆ. ਸਾਰਵਜਨਿਕ ਖੇਤਰ\]
-- **lekt3809.jpg**: ਚਿੱਤਰ: ⟪ब्रह्मा⟫  ਹਲੇਬੀਡੂ = ಹಳೆಬೀಡು \[ਚਿੱਤਰ ਸਰੋਤ: ਵਿਕੀਪੀਡੀਆ. GNU FDLicense\]
-- **lekt3810.jpg**: ਚਿੱਤਰ: ਅਸ਼ੋਕ ਦਰਖ਼ਤ = _Saraca asoca_ (Roxb.) Wilde ਕੋਲਕਾਤਾ = কলকাতਾ \[ਚਿੱਤਰ ਸਰੋਤ: J.M.Garg / ਵਿਕੀਪੀਡੀਆ. GNU FDLicense\]
-- **lekt3811.jpg**: ਚਿੱਤਰ: ਅਸ਼ੋਕ ਦੇ ਸਾਮਰਾਜ ਦੀ ਸਭ ਤੋਂ ਵੱਡੀ ਵਿਸਤਾਰ ਅਤੇ ਉਸਦੇ ਚਟਾਨ ਅਤੇ ਸਤੰਭ ਐਡਿਕਟ ਦੇ ਲੱਭਣ ਦੀਆਂ ਥਾਵਾਂ \[ਚਿੱਤਰ ਸਰੋਤ: ਵਿਕੀਪੀਡੀਆ.GNU FDLicense\]
-- **lekt3812.jpg**: ਚਿੱਤਰ: ⟪विनोदः⟫  ਕੈਰੋਮ ਖੇਡ \[ਚਿੱਤਰ ਸਰੋਤ: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- ਪ੍ਰਾਪਤ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਸਾਂਝਾ ਕਰੋ)\]
-- **lekt3813.jpg**: ਚਿੱਤਰ: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[ਚਿੱਤਰ ਸਰੋਤ: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- ਪ੍ਰਾਪਤ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ)\]
-- **lekt3814.jpg**: ਚਿੱਤਰ: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[ਚਿੱਤਰ ਸਰੋਤ: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- ਪ੍ਰਾਪਤ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਸੋਧ ਨਹੀਂ)\]
-:::

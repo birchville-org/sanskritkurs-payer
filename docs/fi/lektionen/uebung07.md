@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 7
 
-A) Lisää jokainen yksikössä ja monikossa (elleivät ne ole omia nimiä) suora objekti tai suuntainen akkusatiivi: <!-- TODO: Fallback translation -->
+A) Lisää jokainen yksikössä ja monikossa (elleivät ne ole omia nimiä) suora objekti tai suuntainen akkusatiivi:
 
 1\. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
 
@@ -94,7 +94,7 @@ devī kupyati. devī krudhyati.
 
 ⟪देवी⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪देवी⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-C) Lisää harjoituslauseisiin B) tekijä, objekti ja verbi monikkoon. <!-- TODO: Fallback translation -->
+C) Lisää harjoituslauseisiin B) tekijä, objekti ja verbi monikkoon.
 
 1\. sādhavaḥ svargān āpnuvanti. sādhavaḥ svargān gacchanti. sādhavaḥ svargān aśnuvate.
 
@@ -146,7 +146,7 @@ yajate.
 
 ⟪यजते⟫ ⟪।⟫
 
-E) Muodosta kaikki tähän mennessä opetellut substantiivit akkusatiivi (dvitīyā) yksikössä ja monikossa. <!-- TODO: Fallback translation -->
+E) Muodosta kaikki tähän mennessä opetellut substantiivit akkusatiivi (dvitīyā) yksikössä ja monikossa.
 
 
 F) Käännä:
@@ -187,11 +187,11 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Kauṭilīya-arthaṣāstra 1.3.3:n mukaan.) Selitys: chando = Nom., Akk. sg. sanasta chandas n.) <!-- TODO: Fallback translation -->
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Kauṭilīya-arthaṣāstra 1.3.3:n mukaan.) Selitys: chando = Nom., Akk. sg. sanasta chandas n.)
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
-Veda-tutkimuksen apitieteitä ovat: ääntämisooppi, rituaaliooppi, kielioppi, sananmäärittely, metriikka ja kalenteritiede. <!-- TODO: Fallback translation -->
+Veda-tutkimuksen apitieteitä ovat: ääntämisooppi, rituaaliooppi, kielioppi, sananmäärittely, metriikka ja kalenteritiede.
 
 8\. Mille jumalalle tämä brahmana uhraa?
 
@@ -199,13 +199,13 @@ ayaṃ brāhmaṇaḥ kaṃ devaṃ yajati / yajate?
 
 ⟪अयं⟫ ⟪ब्राह्मणः⟫ ⟪कं⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
-9\. Mitä tämä pyhä mies pureskelee? <!-- TODO: Fallback translation -->
+9\. Mitä tämä pyhä mies pureskelee?
 
 ayaṃ sādhuḥ kiṃ khādati?
 
 ⟪अयं⟫ ⟪साधुः⟫ ⟪किं⟫ ⟪खाद⟫ati ⟪।⟫
 
-10\. Mitä nämä (täällä) puristavat? <!-- TODO: Fallback translation -->
+10\. Mitä nämä (täällä) puristavat?
 
 ete kiṃ sunvanti / sunvate?
 
@@ -221,5 +221,5 @@ sa guruḥ. enaṃ śṛṇvanti.
 ![](/images/uebung006.jpg)
 Kuv.: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung006))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

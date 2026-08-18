@@ -42,7 +42,7 @@ p. ex.
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > etc.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
 :::
 ## 15.3. Compostos determinativos com membro anterior atributivo / apositivo = Karmadhāraya m. = ⟪कर्मधारय⟫
@@ -71,7 +71,7 @@ Fig.: ⟪लक्ष्मी⟫
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
 *   se um Karmadhāraya expressa uma COMPARAÇÃO, então aquilo com que se compara fica no membro posterior do composto:
 
@@ -304,7 +304,7 @@ Fig.: ⟪सिंहः⟫
 Fig.: ⟪व्याघ्रः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt1507))
 :::
-⟪इव⟫ (posposto): como se, como (em comparações: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "um homem como um tigre", "um homem semelhante a um tigre" <!-- TODO: Fallback translation -->
+⟪इव⟫ (posposto): como se, como (em comparações: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "um homem como um tigre", "um homem semelhante a um tigre"
 
 ⟪एव⟫ (posposto): enfatiza o precedente, corresponde frequentemente em português à ênfase, uma espécie de emoticon `\<!\>`, p.ex. ⟪सत्यमेव⟫ ⟪जयति⟫ "só a verdade vence", "precisamente a verdade vence", "a verdade vence"
 
@@ -582,18 +582,5 @@ B) Analise os seguintes Tatpuruṣa:
 ![](/images/lekt1509.webp)
 Fig.: ⟪नागदेवाः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt1509))
-:::
-
-::: deleteme-box
-
-- **Fig.: ⟪लक्ष्मी⟫** (Lakshmi): Pintura de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Fonte da imagem: Wikipedia, Public domain.
-- **Fig.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Fonte da imagem: Wikipedia, Public domain.
-- **Diagrama** (lekt1502.jpg): Diagrama para a análise de compostos. Fonte da imagem: Alois Payer / Gráfico original do curso.
-- **Fig.: ⟪पूजा⟫** (Puja): A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Fonte da imagem: Wikipedia, Public domain.
-- **Fig.:  ⟪इन्द्रः⟫** (Indra): Folio from a Panchakalyanaka, Rajasthan, Amber. Fonte da imagem: Wikipedia, Public domain.
-- **Fig.: ⟪सिंहः⟫** (Lion): Panthera leo persica. Fonte da imagem: Wikipedia, GNU FDLicense.
-- **Fig.: ⟪व्याघ्रः⟫** (Tiger): Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Fonte da imagem: U.S. Fish and Wildlife Service / Wikipedia, Public domain.
-- **Fig.: ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Fonte da imagem: ganuullu (Flickr), Licença Creative Commons.
-- **Fig.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Fonte da imagem: Dineshkannambadi / Wikipedia, GNU FDLicense.
 :::
 

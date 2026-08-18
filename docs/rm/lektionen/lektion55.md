@@ -14,7 +14,7 @@ status: stable
 ::: grammar-box
 **L'aorist en -a vegn format sco in imperfect (⟪लङ्⟫) da la 6. classa da presens (⟪तुदादि⟫), uschia:**
 
-**Augment + radbasierte Radis + a + Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + radbasierte Radis + a + Sekundärendung**
 
 **Il -a- vegn en ils medesims cas sco en l'imperfet sustituit cun -ā-.**
 
@@ -45,7 +45,7 @@ Furmaziuns irregularas:
 
 ⟪दृश्⟫ "veger": ***:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]*** (stadi da hön!)
 :::
-Notar: <!-- TODO: Fallback translation -->
+Notar:
 
 ::: indent
 ⟪शास्⟫ 2P "commandar": ⟪अशिषत्⟫ (livèl bass regular!)
@@ -92,11 +92,6 @@ Determinar e transcrever per iscritto las suentas formas e crear las formas corr
 Imag.: ⟪अजीर्यमिति⟫
 'Inâyat Khân moribund, schizze per ina miniatura d'ina manuscripta per Jahângîr = جهانگير, ca. 1618
 (fonte da l'imagines: [Detagls](/rm/licenses#lekt5501))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt5501:** 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618 [Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei] <!-- TODO: Fallback translation -->
 
 :::

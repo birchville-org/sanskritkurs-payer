@@ -66,7 +66,7 @@ last_reconstructed: 2026-05-15
 | ⟪५१⟫. ⟪सुषुपुः⟫ | ⟪स्वप्⟫ (2P) 3. pl. P. Perf. | sie haben geschlafen |
 | ⟪५२⟫. ⟪ऊसु⟫ | ⟪वस्⟫ (1P) 2. pl. P. Perf. | ihr habt gewohnt |
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Sprüche (⟪सुभाषितानि⟫)
 

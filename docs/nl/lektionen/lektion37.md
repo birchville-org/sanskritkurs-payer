@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: Lektion 37
 subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
@@ -522,17 +522,3 @@ Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 
 Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuss eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte frassen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Abb.: ⟪क्व⟫): [Bildquelle: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-- **Image lekt3702.jpg** (Abb.: ⟪यथाशक्ति⟫): [Bildquelle: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-- **Image lekt3703.jpg** (Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Bildquelle: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-- **Image lekt3704.jpg** (Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung)]
-- **Image lekt3705.jpg** (Abb.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Bildquelle: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-- **Image lekt3706.jpg** (Abb.: ⟪वृक्षः⟫): Jaipur [Bildquelle: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-- **Image lekt3707.jpg** (Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Bildquelle: Wikipedia. Public domain]
-- **Image lekt3708.jpg** (Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Bildquelle: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung)]
-- **Image lekt3709.jpg** (Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Bildquelle: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-- **Image lekt3710.jpg** (Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Bildquelle: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-- **Image lekt3711.jpg** (Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Bildquelle: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-:::

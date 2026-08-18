@@ -10,14 +10,6 @@ status: stable
 
 # Lesson 4
 
-::: deleteme-box
-**In this lesson, you will learn:**
-Interrogative pronouns and demonstrative pronouns in the nominative case
-Sandhi of final -m
-Sandhi of final -e
-Sandhi of final -d
-Simple question formulas
-:::
 ## 4.1. Simple Yes/No Questions (Word Questions) and Answers
 
 ### 4.1.1. Interrogative Pronouns and Demonstrative Pronouns

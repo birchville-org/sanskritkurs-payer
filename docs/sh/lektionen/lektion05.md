@@ -9,13 +9,6 @@ status: stable
 
 # Lekcija 5
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Grundlagen der Nominalkomposita (samāsa)
-- Fachterminologie für Komposita
-- Kopulative Komposita (Dvandva)
-- Die Reihenfolge der Glieder in Dvandvas
-:::
 ## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
 
 Die Bildung von Wortzusammensetzungen in sehr grossem Umfang ist ein Charakteristikum des Sanskrit.

@@ -58,7 +58,7 @@ last_reconstructed: 2026-05-15
 
 24\. nīti: nī 1 U "يقود" + -ti f.: "قيادة"
 
-25\. nartana: nṛt 4 P "يرقص" + -ana 3: "راقص، راقص" ; n.: "رقص" <!-- TODO: Fallback translation -->
+25\. nartana: nṛt 4 P "يرقص" + -ana 3: "راقص، راقص" ; n.: "رقص"
 
 26\. jaya: ji 1 P "ينتصر" + -a m.: "انتصار، فوز"
 
@@ -193,13 +193,13 @@ kiṃ kāraṇam?
 تدخل العذراء المنزل.
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 يُوجِّه الصبي الفيل.
 
 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ اسم علم فيمالا)
-Vimalā ist traurig. <!-- TODO: Fallback translation -->
+Vimalā ist traurig.
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
 يطير الببغاء.

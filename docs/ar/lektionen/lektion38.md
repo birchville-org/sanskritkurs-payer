@@ -47,7 +47,7 @@ status: stable
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
 | **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung | <!-- TODO: Fallback translation -->
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
 
 **النهايات منتظمة. يُصاغ المرفوع المفرد المذكر والمؤنن بدون نون ختامية.**
 :::
@@ -587,20 +587,3 @@ PPP ⟪मग्न⟫
 
 ⟪युष्माकम्⟫ مضاف إليه جمع المذكر السالم من :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: صورة: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  بنغالور = ಬೆಂಗಳೂರು \[مصدر الصورة: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- تم الوصول إليه في 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري)\]
-- **lekt3802.jpg**: صورة: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫، كونارك = ⟪कोनार्क⟫ \[مصدر الصورة: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- تم الوصول إليه في 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري)\]
-- **lekt3803.jpg**: صورة: ⟪सीमा⟫  نقطة عبور الحدود بين الهند وباكستان في واغاه (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[مصدر الصورة: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- تم الوصول إليه في 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، المشاركة بالمثل)\]
-- **lekt3804.jpg**: صورة: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  غاندارا، القرن الثاني/الثالث بعد الميلاد \[مصدر الصورة: ويكيبيديا. ملكية عامة\]
-- **lekt3805.jpg**: صورة: ⟪उदकम्⟫  قرية داريفادي، منطقة أحمد نगर = ⟪अहमदनगर⟫، ⟪महाराष्ट्र⟫ \[مصدر الصورة: روبرت مرفي، معهد الموارد العالمية. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- تم الوصول إليه في 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، المشاركة بالمثل)\]
-- **lekt3806.jpg**: صورة: ⟪हस्ती⟫  حديقة ناغاروله الوطنية = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[مصدر الصورة: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- تم الوصول إليه في 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، المشاركة بالمثل)\]
-- **lekt3807.jpg**: صورة: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[مصدر الصورة: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- تم الوصول إليه في 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)\]
-- **lekt3808.jpg**: صورة: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  ثلاثينيات القرن العشرين \[مصدر الصورة: ويكيبيديا. ملكية عامة\]
-- **lekt3809.jpg**: صورة: ⟪ब्रह्मा⟫  هاليبيدو = ಹಳೆಬೀಡು \[مصدر الصورة: ويكيبيديا. رخصة جنو للوثائق الحرة\]
-- **lekt3810.jpg**: صورة: شجرة أشوكا = _Saraca asoca_ (Roxb.) Wilde كالكوتا = কলকাতা \[مصدر الصورة: J.M.Garg / ويكيبيديا. رخصة جنو للوثائق الحرة\]
-- **lekt3811.jpg**: صورة: أكبر امتداد لإمبراطورية أشوكا ومواقع اكتشاف نصوصه الصخرية والنصبية \[مصدر الصورة: ويكيبيديا. رخصة جنو للوثائق الحرة\]
-- **lekt3812.jpg**: صورة: ⟪विनोदः⟫  لعبة الكاروم \[مصدر الصورة: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- تم الوصول إليه في 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، المشاركة بالمثل)\]
-- **lekt3813.jpg**: صورة: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[مصدر الصورة: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- تم الوصول إليه في 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري)\]
-- **lekt3814.jpg**: صورة: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫، ⟪देशनोके⟫ \[مصدر الصورة: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- تم الوصول إليه في 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)\]
-:::

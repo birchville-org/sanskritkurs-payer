@@ -11,14 +11,6 @@ status: stable
 
 # Lesión 4
 
-::: deleteme-box
-**En esta lección aprenderá:**
-- Pronombres interrogativos y pronombres demostrativos en nominativo
-- Sandhi de la terminación -m
-- Sandhi de la terminación -e
-- Sandhi de la terminación -d
-- Fórmulas interrogativas simples
-:::
 ## 4.1. Preguntas de complemento simples (preguntas por palabras) y respuestas
 
 ### 4.1.1. Pronombres interrogativos y pronombres demostrativos

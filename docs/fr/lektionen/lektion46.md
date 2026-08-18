@@ -1,40 +1,41 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "Leçon 46"
+subtitle: "Formation des formes verbales de la 2ᵉ personne (⟪मध्यमः⟫) Parfait (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 46
 
-## 46.1. Formation des formes verbales de la 2ᵉ personne (⟪मध्यमः⟫) Parfait (⟪लिट्⟫)
+## 46.1. Formation des formes verbales de la 2e personne (⟪मध्यमः⟫) Parfait (⟪लिट्⟫)
 
 ### 46.1.1. Terminaisons
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | **Terminaisons du parfait** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ^^ | \-tha | \-a | \-se | \-dhve |
 :::
-Notez que la terminaison -- le plus souvent pas la forme ! -- de la 2.pl.P coïncide avec celle de la 1. et 3.sg.P.
+Notez que la terminaison -- le plus souvent mais pas toujours la forme ! -- de la 2e personne du pluriel au parfait coïncide avec celle de la 1re et de la 3e personne du singulier au parfait.
 
 ::: grammar-box
-Avant -tha, la plupart des racines en -ṛ n'ont pas de voyelle de liaison \-i-. Pour certaines racines, le \-i- devant \-tha- est facultatif.
+Devant -tha, il n'y a pas de voyelle d'insertion \-i- pour la plupart des racines se terminant par -ṛ. Pour certaines racines, le \-i- devant \-tha est facultatif.
 :::
 ### 46.1.2. Modification phonétique de la terminaison -dhve
 
 ::: grammar-box
-Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
+La terminaison -dhve doit être remplacée par -ḍhve au parfait si elle est précédue immédiatement d'un -u ou d'un -ṛ de la racine. Ce remplacement peut avoir lieu après la voyelle d'insertion -i- si celle-ci est précédue immédiatement par une semi-voyelle ou un h.
 :::
-### 46.1.3. Type de parfait I : pas d’alternance du thème <!-- TODO: Fallback translation -->
+### 46.1.3. Parfait Type I : pas d'alternance vocalique de la racine
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verbes qui suivent ce type :
 
-*   Consonne-longue voyelle-consonne
-*   Consonne-voyelle-consonne-consonne
+*   Consonne - longue voyelle - consonne
+*   Consonne - voyelle courte - consonne - consonne
 *   a-consonne(-consonne)
 *   ā-Konsonant
 
@@ -49,13 +50,13 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बबन्धिथ⟫:br⟪बबन्द्ध⟫ | ⟪बबन्ध⟫ |
 :::
-⟪⟪जीव्⟫⟫ 1P
+⟪जीव्⟫ 1P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \&lt;⟪जिजीविषे⟫\&gt; | \&lt;⟪जिजीविध्वे⟫\&gt;:br\&lt;⟪जिजीविढ्वे⟫\&gt; |
 :::
 ⟪अस्⟫ 2P, 4P
 
@@ -63,13 +64,13 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
 :::
-### 46.1.4. Type de parfait II : radical fort au degré supérieur, radical faible au degré inférieur
+### 46.1.4. Type II du parfait : thème fort en grade plein, thème faible en grade réduit
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verbes qui suivent ce type :
 
-*   (Consonne-)i/u/ṛ/ḷ-Consonne
+*   (Consonante-)i/u/ṛ/ḷ-Consonante
 
 ⟪भिद्⟫ 7U
 
@@ -87,14 +88,14 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 46.1.5. Type III du parfait : thème fort en grade plein/grade allongé
 
-#### 46.1.5.1. Type IIIa du parfait : radical fort en grade fort/allongé, radical faible en grade faible
+#### 46.1.5.1. Type IIIa du parfait : thème fort en grade plein/grade allongé, thème faible en grade réduit
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verbes qui suivent ce type :
 
-*   (Consonne-)(Consonne-)i/ī/u/ū
-*   (Consonne-)-ṛ
+*   (Consonante-)(Consonante-)i/ī/u/ū
+*   (Consonante-)-ṛ
 
 ⟪इ⟫ 2P
 
@@ -104,7 +105,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪इयेथ⟫:br⟪इययिथ⟫:briy-e + i-tha | ⟪ईय⟫:bri + iy-a |
 :::
-⟪⟪नी⟫⟪नी⟫ 2U
+⟪नी⟫ 2U
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -112,7 +113,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪निनयिथ⟫:br⟪निनेथ⟫ | ⟪निन्य⟫:brninī + a | ⟪निन्यिषे⟫ | ⟪निन्यिध्वे⟫:br⟪निन्यिढ्वे⟫ |
 :::
-⟪स्तु⟩ 2U (⟪अनिट्⟩)
+⟪स्तु⟫ 2U (⟪अनिट्⟫)
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -128,11 +129,11 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Type IIIb du parfait : racine forte au degré élevé/étendu, racine faible au degré élevé
+#### 46.1.5.2. Parfait Type IIIb : Radical fort en degré plein/allongé, radical faible en degré plein
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verbes qui suivent ce type :
 
-*   (Consonne-)(Consonne-)-ṝ
+*   (Consonne)(Consonne)-ṝ
 *   Konsonant-Konsonant-ṛ
 
 ⟪पॄ⟫ 3P
@@ -143,7 +144,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपरिथ⟫ | ⟪पपर⟫:br= 1.sg.P |
 :::
-⟪⟪संस्कृ⟫ 8U
+⟪संस्कृ⟫ 8U
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -151,11 +152,11 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 46.1.6. Parfait Type IV : Racines en -ā / -ai
 
-*   Racine faible :
-    *   devant consonne : degré profond-i
-    *   devant voyelle : degré profond-ø
+*   Radical faible :
+*   devant consonne : degré bas-i
+*   devant voyelle : degré bas-ø
 
 ⟪दा⟫ 3U
 
@@ -173,19 +174,19 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
+### 46.1.7. Parfait Type V : Consonne-a-Consonne
 
-#### 46.1.7.1. Type de parfait : Consonne-a-Consonne, radical faible au degré profond
+#### 46.1.7.1. Parfait Type Va : Consonne-a-Consonne, radical faible en degré bas
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verbes qui suivent ce type :
 
 ::: indent
-1.  gam «aller»
-2.  jan «naître»
-3.  vac «parler»
-4.  vad «parler»
-5.  yaj «sacrifier»
-6.  etc.
+1.  gam "aller"
+2.  han (»ghan) "frapper à mort"
+3.  jan "naître"
+4.  vac "parler"
+5.  vad "dire"
+6.  yaj "sacrifier"
 7.  etc.
 :::
 ⟪गम्⟫ 1P
@@ -196,7 +197,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगमिथ⟫:br⟪जगन्थ⟫ | ⟪जग्म⟫ |
 :::
-⟪⟪हन्⟫⟫ 2P
+⟪हन्⟫ 2P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -212,7 +213,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जज्ञिषे⟫ | ⟪जज्ञिध्वे⟫ |
 :::
-⟪⟪यज्⟫⟫ 1U
+⟪यज्⟫ 1U
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -228,7 +229,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪उवचिथ⟫:br⟪उवक्थ⟫ | ⟪ऊच⟫ |
 :::
-⟪⟪वह्⟫ 1U
+⟪वह्⟫ 1U
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -236,7 +237,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪उवहिथ⟫:br⟪उवोढ⟫ | ⟪ऊह⟫ | ⟪ऊहिषे⟫ | ⟪ऊहिध्वे⟫:br⟪ऊहिढ्वे⟫ |
 :::
-⟪वद्⟩ 1P
+⟪वद्⟫ 1P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -252,10 +253,10 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
-#### 46.1.7.2. Type de parfait Vb : Consonne-a-Consonne, consonne initiale non gutturale, non aspirée, non h, thème faible sans redoublement, avec -e-
+#### 46.1.7.2. Type Vb du parfait : consonne-a-consonne, la consonne initiale n'est ni gutturale, ni aspirée, ni h, thème faible sans redoublement, avec -e-
 
 ::: grammar-box
-La 2.sg.P. est formée à partir du thème faible lorsque le voyelle de liaison -i- s'ajoute.
+La 2.sg.P. est formée à partir du thème faible lorsque la voyelle de liaison -i- s'ajoute.
 :::
 ⟪पच्⟫ 1U
 
@@ -265,11 +266,11 @@ La 2.sg.P. est formée à partir du thème faible lorsque le voyelle de liaison 
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
-#### 46.1.7.3. Type Vc de parfait : Consonne-a-Consonne, thème faible au degré fort
+#### 46.1.7.3. Parfait Type Vc : Consonne-a-Consonne, thème faible au degré fort
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verbes qui suivent ce type :
 
-*   Toutes les autres racines avec un -a- moyen
+*   Toutes les autres racines avec un -a- médial
 
 ⟪क्रम्⟫ 1U
 
@@ -279,9 +280,9 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Besondere Perfekt-Bildungen
+### 46.1.8. Formations particulières du parfait
 
-⟪विद्⟫ 2P présent parfait
+⟪विद्⟫ 2P parfait présentique
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -297,7 +298,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आत्थ⟫ | \--- |
 :::
-⟪⟪भू⟫ 1P
+⟪भू⟫ 1P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -305,7 +306,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बभूविथ⟫ | ⟪बभूव⟫:br= 1.3.sg.P |
 :::
-⟪⟪जि⟫⟫ 1P
+⟪जि⟫ 1P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -313,20 +314,20 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
-### 46.1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
+### 46.1.9. Parfait périphrastique (⟪अनुप्रयोगलिट्⟫)
 
-Le parfait périphrastique se forme à partir de :
+Le parfait périphrastique est formé par :
 
-*   les stems verbaux dérivés (causatif, désiratif, fréquentatif, dénominaux), en particulier le causatif
-*   les racines qui commencent par une voyelle longue (sauf ā)
-*   les racines : voyelle (sauf a-)-consonne-consonne
+*   des thèmes verbaux dérivés (causatif, desideratif, fréquentatif, dénominatifs), en particulier le causatif
+*   des racines commençant par une voyelle longue (sauf ā)
+*   des racines : Voyelle (sauf a-)-Consonne-Consonne
 *   quelques autres
 *   pour certaines racines, les deux parfaits peuvent être formés de manière optionnelle : uṣ "brûler", vid "savoir", jāgṛ "veiller", daridrā "être pauvre"
-*   pour les racines suivantes, les deux parfaits peuvent être formés de manière optionnelle et le parfait périphrastique est également redoublé, à savoir avec la syllabe de redoublement du stem de présent :
-    *   bhī "avoir peur"
-    *   bhṛ "porter"
-    *   hu "sacrifier"
-    *   hrī "avoir honte"
+*   pour les racines suivantes, les deux parfaits peuvent être formés de manière optionnelle et le parfait périphrastique est également redoublé, avec la syllabe de redoublement du thème présentique :
+*   bhī "avoir peur"
+*   bhṛ "porter"
+*   hu "sacrifier"
+*   hrī "avoir honte"
 
 ⟪बन्ध्⟫ Causatif
 
@@ -334,49 +335,49 @@ Le parfait périphrastique se forme à partir de :
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
+| ⟪बन्धयां चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ | ⟪बन्धयां चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ |
 :::
 ## 46.2. Liste de mots
 
 ⟪सम⟫ 3 : égal, juste, semblable
 
 ::: indent
-dérivé :
-⟪समम्⟫ Adv. : de manière égale, en même temps (⟪तृतीयया⟫), régulièrement
+à partir de celui-ci :
+⟪समम्⟫ Adv. : de la même manière, en même temps (⟪तृतीयया⟫), uniformément
 ⟪समता⟫ f. : égalité d'âme
-⟪विषम⟫ 3 : inégal, débonnaire, méchant
+⟪विषम⟫ 3 : inégal, déformé, méchant
 
 :::
-⟪ग्रह्⟫ 9U **:sig[⟪गृ⟫]**⟪ह्णाति⟫ (gṛh-ṇā-ti) : saisir, attraper, prendre
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : saisir, prendre, attraper
 
 ::: indent
-Parfait Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Futur ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
-Passif ⟪गृह्यते⟫  
-Causatif ⟪ग्राहयति⟫  
-PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
-Infinitif ⟪ग्रहितुम्⟫  
-Absolutif -⟪ग्राह्य⟫
-dérivé :
+Perf. Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
+Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
+Pass. ⟪गृह्यते⟫  
+Caus. ⟪ग्राहयति⟫  
+PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
+Inf. ⟪ग्रहितुम्⟫  
+Absol. -⟪ग्राह्य⟫
+à partir de celui-ci :
 ⟪ग्रह⟫ m. : action de saisir, saisisseur, crocodile, planète errante
-⟪नवग्रह⟫ m. : les neuf planètes errantes (non les planètes !) (s. Basham, Wonder p. 493) :
-1.  ⟪सूर्यः⟫ = Soleil
-2.  ⟪चन्द्रः⟫ = Lune
-3.  ⟪मङ्गलः⟫ = Mars
-4.  ⟪बुधः⟫ = Mercure
-5.  ⟪बृहस्पतिः⟫ = Jupiter
-6.  ⟪शुक्रः⟫ = Vénus
-7.  ⟪शनिः⟫ = Saturne
-8.  ⟪राहुः⟫
-9.  ⟪केतुः⟫
+⟪नवग्रह⟫ m. : les neuf planètes errantes (non pas des planètes !) (cf. Basham, Wonder p. 493) :
+1. ⟪सूर्यः⟫ = Soleil
+2. ⟪चन्द्रः⟫ = Lune
+3. ⟪मङ्गलः⟫ = Mars
+4. ⟪बुधः⟫ = Mercure
+5. ⟪बृहस्पतिः⟫ = Jupiter
+6. ⟪शुक्रः⟫ = Vénus
+7. ⟪शनिः⟫ = Saturne
+8. ⟪राहुः⟫
+9. ⟪केतुः⟫
 
 :::
-Pour ⟪राहु⟫ et ⟪केतु⟫ voir :
+Pour ⟪राहु⟫ et ⟪केतु⟫, voir :
 
-> **Payer, Alois (1944–) : Dharmashastra : Introduction et aperçu. -- 10. Sacrements et rites de passage (samskara). -- Annexe C : Rahu et Ketu, les planètes errantes invisibles . -- URL : [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)**
+> **Payer, Alois (1944–) :** Dharmashastra : Introduction et aperçu. -- 10. Sacrements et rites de passage (samskara). -- Annexe C : Rahu et Ketu, les planètes errantes invisibles. -- URL : [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Fig. : [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/fr/licenses#lekt4602)
+Légende : [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/fr/licenses#lekt4602)
 (Source de l'image : [Détails](/fr/licenses#lekt4602))
 :::
 
@@ -400,39 +401,39 @@ Fig. : [⟪राहुः⟫, ⟪केतुः⟫](/fr/licenses#lekt4605)
 ⟪तुष्⟫ 4P ⟪तुष्यति⟫ : se contenter, être satisfait de (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
-Parfait. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
-Futur ⟪तोक्ष्यति⟫  
-Passif ⟪तुष्यते⟫  
-Causatif ⟪तोषयति⟫  
+Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
+Fut. ⟪तोक्ष्यति⟫  
+Pass. ⟪तुष्यते⟫  
+Caus. ⟪तोषयति⟫  
 PPP ⟪तुष्ट⟫  
-Infinitif ⟪तोष्टुम्⟫
+Inf. ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : se plier, s'incliner, se pencher, s'incliner profondément
+⟪नम्⟫ 1P ⟪नमति⟫ : se courber, s'incliner, pencher, faire une révérence
 
 ::: indent
-Parfait. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
-Futur ⟪नंस्यति⟫  
-Passif ⟪नम्यते⟫  
-Causatif ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
+Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
+Fut. ⟪नंस्यति⟫  
+Pass. ⟪नम्यते⟫  
+Caus. ⟪नमयति । नामयति⟫  
 PPP ⟪नत⟫  
-Infinitif ⟪नन्तुम्⟫
+Inf. ⟪नन्तुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4607.webp)
-Fig. : [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/fr/licenses#lekt4607)
+Fig. : [⟪नारायण तुभ्यं नमामि⟫](/fr/licenses#lekt4607)
 (Source de l'image : [Détails](/fr/licenses#lekt4607))
 :::
 ⟪रुह्⟫ 1P ⟪रोहति⟫ : gravir, monter
 
 ::: indent
-Parfait. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
-Futur ⟪रोक्ष्यति⟫  
-Passif ⟪रुह्यते⟫  
-Causatif ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫  
-PPP. **:sig[⟪रूढ⟫]**  
-Infinitif ⟪रोढुम्⟫
+Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
+Fut. ⟪रोक्ष्यति⟫  
+Pass. ⟪रुह्यते⟫  
+Caus. ⟪रोहयति । रो⟫:sig[⟪प⟫]⟪यति⟫  
+PPP. :sig[⟪रूढ⟫]  
+Inf. ⟪रोढुम्⟫
 
 :::
 ::: media
@@ -440,43 +441,43 @@ Infinitif ⟪रोढुम्⟫
 Fig. : [⟪अश्वरोहकः⟫](/fr/licenses#lekt4606)
 (Source de l'image : [Détails](/fr/licenses#lekt4606))
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : appeler, invoquer
+⟪ह्वे । हू⟫ 1U ⟪ह्वयति⟫ : appeler, convoquer
 
 ::: indent
-Parfait. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
-Futur ⟪ह्वास्यति⟫  
-Passif ⟪हूयते⟫  
-Causatif ⟪ह्वाययति⟫  
+Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
+Fut. ⟪ह्वास्यति⟫  
+Pass. ⟪हूयते⟫  
+Caus. ⟪ह्वाययति⟫  
 PPP ⟪हूत⟫  
-Infinitif ⟪ह्वातुम्⟫  
-Absolutif -⟪हूय⟫
+Inf. ⟪ह्वातुम्⟫  
+Absol. -⟪हूय⟫
 
 :::
 ::: media
 ![](/images/lekt4608.webp)
-Fig. : [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/fr/licenses#lekt4608)
+Fig. : [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/fr/licenses#lekt4608)
 (Source de l'image : [Détails](/fr/licenses#lekt4608))
 :::
 
 ::: indent
-1 ⟪महामात्र⟫ m. "Mahout" ; ⟪चरिष्णु⟫ 3 "mobile", ⟪दूरशब्द⟫ m. "téléphone à longue distance" » ⟪चरिष्णुदूरशब्द⟫ "téléphone mobile" (formation de mot : A. Payer)
+1 ⟪महामात्र⟫ m. "Mahout" ; ⟪चरिष्णु⟫ 3 "mobile", ⟪दूरशब्द⟫ m. "téléphone à distance, téléphone" » ⟪चरिष्णुदूरशब्द⟫ "téléphone portable" (Formation du mot : A. Payer)
 
 :::
 ⟪विभ्रम⟫ m. : le va-et-vient
 
-⟪भ्रंश⟫ m. : la chute
+⟪भ्रंश⟫ m. : le fait de tomber, la chute
 
-⟪श्रम्⟫ 4P **:sig[⟪श्रा⟫]**⟪म्यति⟫ : se fatiguer, devenir fatigué
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : se fatiguer, devenir épuisé
 
 ::: indent
-Parfait. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
-Futur ⟪श्रमिष्यति⟫  
-Passif ⟪श्रम्यते⟫  
-Causatif ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP **:sig[⟪श्रान्⟫]**⟪त⟫  
-Infinitif ⟪श्रमितुम्⟫  
-Absolutif ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
-dérivé :
+Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
+Fut. ⟪श्रमिष्यति⟫  
+Pass. ⟪श्रम्यते⟫  
+Kaus. ⟪श्रमयति । श्रामयति⟫  
+PPP :sig[⟪श्रान्⟫]⟪त⟫  
+Inf. ⟪श्रमितुम्⟫  
+Absol. ⟪श्रमित्वा । श्रान्त्वा⟫
+dont :
 ⟪आश्रम⟫ m.n.
 
 :::
@@ -485,28 +486,28 @@ dérivé :
 Fig. : [⟪श्रान्तः⟫](/fr/licenses#lekt4609)
 (Source de l'image : [Détails](/fr/licenses#lekt4609))
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : s'appuyer, se reposer, trouver un soutien, se rendre auprès de quelqu'un (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : s'appuyer, se reposer contre, trouver un appui, se rendre auprès de quelqu'un (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
 Fut. ⟪श्रयिष्यति⟫  
 Pass. ⟪श्रीयते⟫  
-Caus. ⟪श्राययति⟫  
+Kaus. ⟪श्राययति⟫  
 PPP ⟪श्रित⟫  
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P **:sig[⟪सज⟫]**⟪ति⟫ : attacher, se fixer à (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : s'accrocher, se fixer à (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
 Fut. ⟪संक्ष्यति⟫  
 Pass. ⟪सज्यते⟫  
-Caus. ⟪सञ्जयति⟫  
+Kaus. ⟪सञ्जयति⟫  
 PPP ⟪सक्त⟫  
 Inf. ⟪संक्तुम्⟫
 dont :
-⟪सङ्ग⟫ m. : l'attachement à, le contact avec (⟪तृतीयया⟫)
+⟪सङ्ग⟫ m. : l'accrochage, le contact avec (⟪तृतीयया⟫)
 
 :::
 ::: media
@@ -520,26 +521,26 @@ Fig. : [⟪सङ्गः⟫](/fr/licenses#lekt4610)
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
 Fut. ⟪द्रोष्यति⟫  
 Pass. ⟪द्रूयते⟫  
-Caus. ⟪द्रावयति⟫  
+Kaus. ⟪द्रावयति⟫  
 PPP ⟪द्रुत⟫  
 Inf. ⟪द्रोतुम्⟫  
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P **:sig[⟪भ्रा⟫]**⟪म्यति⟫ : errer, vagabonder
+⟪भ्रम्⟫ 1P ⟪भ्रमति ।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : errer, vagabonder
 
 ::: indent
-Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
+Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर् ।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Caus. ⟪भ्रमयति⟫  
-PPP **:sig[⟪भ्रा⟫]**⟪न्त⟫  
+PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
-dont :
+de celui-ci :
 ⟪विभ्रम⟫ m. : errance, confusion, erreur
 
 :::
-⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : pendre de (⟪सप्तम्या⟫), être suspendu à (⟪सप्तम्या⟫)
+⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : pendre de (⟪सप्तम्या⟫), être attaché à (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ललम्बे⟫  
@@ -553,31 +554,31 @@ Absol. -⟪लम्ब्य⟫
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Fig. : [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/fr/licenses#lekt4601)
+Lég. : [⟪लम्बोदर नमस्तुभ्यम्⟫](/fr/licenses#lekt4601)
 (Source de l'image : [Détails](/fr/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : se suspendre à (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : s'attacher à (⟪द्वितीयया⟫)
 
-⟪यदि⟫ Conjonction :  si
+⟪यदि⟫ Conj. : 	si
 
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : encercler, maîtriser, vaincre
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : encercler, dominer, vaincre
 
 ::: indent
 PPP ⟪परिभूत⟫ 3 : vaincu, humilié, abaissé
 
 :::
-⟪नि⟫ Préfixe : vers le bas, en bas, dedans, en arrière
+⟪नि⟫ Préverb. : vers le bas, en bas, dedans, en arrière
 
 ::: indent
 par ex.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫**:sig[⟪षी⟫]**⟪दति⟫ : s'asseoir
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : s'asseoir
 
 :::
-⟪भोस्⟫ Particule vocative : exclamation d'appel, par ex. : hé, hola, oh, hé, bonjour, salut ! souvent non traduisible. Cette particule a un sandhi spécial : devant tous les sons sonores, il est **:sig[⟪भो⟫]**.
+⟪भोस्⟫ Particule vocative : exclamation d'appel, par ex. : hé, hola, oh, ei, bonjour, salut ! souvent intraduisible. Cette particule a un sandhi spécial : devant toutes les consonnes sonores, il devient :sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)
-Fig. : [⟪भोः⟫](/fr/licenses#lekt4611)
+Lég. : [⟪भोः⟫](/fr/licenses#lekt4611)
 (Source de l'image : [Détails](/fr/licenses#lekt4611))
 :::
 ## 46.3. Exercice
@@ -639,41 +640,17 @@ A) Déterminez et traduisez les formes suivantes :
 
 B) Traduisez :
 
-⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥१॥⟫
+⟪प्रजहाति यदा कामानात्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥१॥⟫
 
 ::: indent
-⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫  
-⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫  
-⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫  
-⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥२॥⟫
+⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥२॥⟫
 
 :::
-⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
+⟪नास्ति बुद्धिरयुक्तस्य ॥३॥⟫
 
 ::: media
 ![](/images/lekt4612.webp)
-Fig. : [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/fr/licenses#lekt4612)
+Lég. : [⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥⟫](/fr/licenses#lekt4612)
 (Source de l'image : [Détails](/fr/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-Source des images des Navagraha : Redtigerxyz / Wikipédia. Licence GNU FDL
-
-L4607 : ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, vers 1870). Source : Wikipédia. Domaine public
-
-L4606 : ⟪अश्वरोहकः⟫, Pune=⟪पुणे⟫. Source : wili_hybrid, Flickr, CC BY 2.0
-
-L4608 : Udaipur. Source : Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609 : Karnataka=ಕರ್ನಾಟಕ. Source : mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610 : ⟪सङ्गः⟫, Kamareddy=కామారెడ్డి. Source : Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601 : ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, Bangalore=ಬೆಂಗಳೂರು. Source : mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611 : ⟪भोः⟫, Kutch=⟪कच्छ⟫. Source : orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612 : Mumbai=⟪मुंबई⟫ après l'attentat, 11 juillet 2006. Source : Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
 :::
 

@@ -12,7 +12,7 @@ Ha egy szóban vagy mondatban két vagy több mássalhangzó közvetlenül egym�
 
 1. Ha a kapcsolandó mássalhangzójelek közül az elsőt jobbról függőleges vonal zárja, ez a vonal elveszik, és az jel a második mássalhangzó elé kerül.
 
-Kivétel: ha a második mássalhangzójel ⟪न्⟫ vagy ⟪ल्⟫, akkor ez a vízszintes vonal elvesztésével az első mássalhangzó jel alá kerül. Az írástípustól függően további kivételek vannak, amelyek a következőkben szerepelnek. Ha egy adott írástípusban nem van előírva a ligatúra, Virāma jelet helyezünk el. <!-- TODO: Fallback translation -->
+Kivétel: ha a második mássalhangzójel ⟪न्⟫ vagy ⟪ल्⟫, akkor ez a vízszintes vonal elvesztésével az első mássalhangzó jel alá kerül. Az írástípustól függően további kivételek vannak, amelyek a következőkben szerepelnek. Ha egy adott írástípusban nem van előírva a ligatúra, Virāma jelet helyezünk el.
 
 Példák:
 
@@ -60,7 +60,7 @@ A jelen szövegben használt írástípusban:
 
 ⟪स्⟩ s: ⟪स्क⟩ ska, ⟪स्ख⟩ skha, ⟪स्त⟩ sta, ⟪स्त्य⟩ stya, ⟪स्त्र⟩ stra, ⟪स्त्व⟩ stva, ⟪स्थ⟩ stha, ⟪स्न⟩ sna, ⟪स्प⟩ spa, ⟪स्र⟩ sra
 
-Beachten Sie die Schreibung von jña: <!-- TODO: Fallback translation -->
+Beachten Sie die Schreibung von jña:
 
 ![](/images/schrift017.webp)
 

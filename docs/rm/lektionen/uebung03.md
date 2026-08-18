@@ -102,7 +102,7 @@ devatā mīnākṣī. devatānnapūrṇā.
 
 ⟪शूद्रेतरा⟫
 
-C) Traduscher en il feminin: <!-- TODO: Fallback translation -->
+C) Traduscher en il feminin:
 
 1\. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 
@@ -154,7 +154,7 @@ guravaḥ kavayaḥ.
 
 ⟪गुरवः⟫ ⟪कवयः⟫
 
-6\. I Kṣatriyas èn naschids duas giadas. <!-- TODO: Fallback translation -->
+6\. I Kṣatriyas èn naschids duas giadas.
 
 dvijāḥ kṣatriyāḥ.
 
@@ -171,4 +171,3 @@ dvijāḥ kṣatriyāḥ.
 Abb.: ⟪पशुर्धेनुः⟫
 (Font dal maletg: [Detagls](/licenses#uebung001))
 :::
- <!-- TODO: Fallback translation -->

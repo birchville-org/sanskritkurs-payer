@@ -5,17 +5,10 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 ## 11.2. قائمة الكلمات
 
-::: deleteme-box
-**في هذه الدرس تتعلمون:**
-- المفعول المزدوج (مفعول الشخص ومفعول الشيء)
-- استخدام الجسيمات **iti**، **evam** و **na**
-- مفاهيم أساسية مثل **dharma**، **adharma** و **putra**
-- اشتقاق الأسماء من الجذور **vad**، **prach** و **iṣ**
-:::
 ## 11.1. المفعول المزدوج
 
 ::: grammar-box
@@ -145,4 +138,3 @@ status: stable
 الصورة: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (مصدر الصورة: [تفاصيل](/ar/licenses#lekt1103))
 :::
- <!-- TODO: Fallback translation -->

@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: Ⲧⲁⲃⲥⲧⲩϥⲓⲛⲅ
+title: "ⲡⲓⲙⲉⲧⲣⲱⲡ"
+
 ---
 
 <ClientOnly>

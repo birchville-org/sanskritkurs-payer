@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lección 49
 
@@ -299,7 +299,7 @@ Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. &lt;!-- TODO: Fallback translation --&gt;
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. &lt;!--  --&gt;
 
 ⟪परम⟫ 3: más lejano, más alto ; ⟪पञ्चम्या⟫ : mejor que, más alto que
 
@@ -370,27 +370,5 @@ Preguntas del rey ⟪शूद्रक⟫ de ⟪विदिशा⟫ al loro �
 Fig.: ⟪शुकः⟫
 Loro cabecigrís = Psittacula cyanocephala
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Fuente de la imagen: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
-
-**lekt4901:** [Fuente de la imagen: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Acceso el 2009-01-11. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribución, sin obras derivadas)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, siglo XI. [Fuente de la imagen: Vassil / Wikipedia. Dominio público]
-
-**lekt4903:** [Fuente de la imagen: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Acceso el 2009-01-11. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, uso no comercial, sin obras derivadas)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Fuente de la imagen: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Acceso el 2009-01-11. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
-
-**lekt4909:** Adivino con loro en jaula: el loro saca papeletas en las que se indica el destino. Mysore. [Fuente de la imagen: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Acceso el 2009-01-12. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Fuente de la imagen: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Acceso el 2009-01-11. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
-
-**lekt4906:** Sri Lanka [Fuente de la imagen: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Acceso el 2009-01-11. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, uso no comercial, sin obras derivadas)]
-
-**lekt4908:** Loro cabecigrís _= Psittacula cyanocephala_[Fuente de la imagen: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Acceso el 2009-01-12. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
-
 :::
 

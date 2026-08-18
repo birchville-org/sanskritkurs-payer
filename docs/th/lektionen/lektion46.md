@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. เพอร์เฟกต์ ประเภท I: ไม่มีการลดรูปฐานศัพท์ (no stem gradation) <!-- TODO: Fallback translation -->
+### 46.1.3. เพอร์เฟกต์ ประเภท I: ไม่มีการลดรูปฐานศัพท์ (no stem gradation)
 
 กริยาที่เข้าข่ายประเภทนี้:
 
@@ -654,26 +654,5 @@ B) แปล:
 ![](/images/lekt4612.webp)
 Abb.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/th/licenses#lekt4612)
 (แหล่งภาพ: [รายละเอียด](/th/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-แหล่งภาพ Navagraha: Redtigerxyz / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ประมาณ ค.ศ. 1870). แหล่ง: Wikipedia. สาธารณสมบัติ
-
-L4606: ⟪अश्वरोहकः⟫, ปูเน่=⟪पुणे⟫. แหล่ง: wili_hybrid, Flickr, CC BY 2.0
-
-L4608: อุไดปูร์. แหล่ง: Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609: รัฐกรณาฏกะ=ಕರ್ನಾಟಕ. แหล่ง: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, คามาเรดดี=కామారెడ్డి. แหล่ง: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, บังกาลอร์=ಬೆಂಗಳೂರು. แหล่ง: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, คัช=⟪कच्छ⟫. แหล่ง: orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612: มุมไบ=⟪मुंबई⟫ หลังการลอบสังหาร, 11 กรกฎาคม ค.ศ. 2006. แหล่ง: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
 :::
 

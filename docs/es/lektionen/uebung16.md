@@ -81,7 +81,7 @@ Los guerreros fuertes han ido a la aldea de los brahmanes.
 Leyenda: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung023))
 :::
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 ## Patrón de declinación
 
@@ -248,11 +248,6 @@ El deber específico de un śūdra es el servicio obediente a los dos veces naci
 El deber de todos es: no violencia, veracidad, pureza, no murmurar sobre su suerte, ausencia de malicia y paciencia indulgente.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-::: deleteme-box Explicaciones
-Oración 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Ac.: Dvandva, que designa las dos "cosas"
-Oración 8: **⟪कर्म⟫** Nom., Ac. sg. Neutro a ⟪कर्मन्⟫ "acción"
-Oración 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. a ⟪सर्व⟫ "cada uno, todos" (pronombre, no declinado como deva)
-:::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 El palo provoca la adquisición y la posesión segura de filosofía, vedística y economía. La dirección del palo es política.
@@ -261,5 +256,5 @@ El palo provoca la adquisición y la posesión segura de filosofía, vedística 
 ![](/images/uebung024.webp)
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung024))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 :::

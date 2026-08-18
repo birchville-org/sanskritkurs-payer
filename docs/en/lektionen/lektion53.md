@@ -628,18 +628,4 @@ Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 ⟪श्रीगणेशाय नमः⟫
 :::
-::: deleteme-box
-**Sources**
-
-**Payer, Alois (1944–): Sanskrit Course. -- 53rd Lesson 53 (Semester Holidays). -- Version from 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)**
-
-Finitum feliciter 1984-02-15  
-Editio interretialis feliciter finita 2009-01-19  
-Alois Maria Payer  
-⟪श्रीगणेशाय नमः⟫
-:::
-::: deleteme-box
-
-**Payer, Alois (1944–): Sanskrit Course. -- 53rd Lesson 53 (Semester Holidays). -- Image source of original table 53.9: Screenshot of the original source (Payer).**
-:::
 

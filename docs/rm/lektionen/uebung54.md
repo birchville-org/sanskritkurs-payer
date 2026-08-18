@@ -41,7 +41,7 @@ Formai las correspondentas formas da Aorist als suandantas formas da Present o P
 ![](/images/uebung093.webp)
 Abb.: ⟪अगायि⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung093))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

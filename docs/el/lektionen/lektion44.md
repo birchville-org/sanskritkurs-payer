@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα 44
 
@@ -340,11 +340,6 @@ PPP ⟪रब्ध⟫
 
 ⟪प्रव्रज्या⟫ θ. (προς ⟪प्र⟫-⟪व्रज्⟫): η έξοδος από την οικία προς την απoικιακή κατάσταση · τελετή, με την οποία γίνεται κανείς βουδιστικός novicio (Παλί: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Δείτε:
-
-**Payer, Alois (1944–):** Vinayamukha : Βασικές έννοιες των κανόνων της τάξης και του δικαίου της τάξης του Theravāda. -- Μέρος I. -- (Υλικά για τις βασικές έννοιες του Βουδισμού). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Εικ.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
@@ -476,26 +471,3 @@ PPP ⟪रब्ध⟫
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
 
-::: deleteme-box
-
-**lekt4301.jpg**: Λεπτομέρειες στα licenses.md
-
-**lekt4401.jpg**: Δεν βρέθηκε ειδική άδεια/πηγή εικόνας στο κείμενο
-
-**lekt4402.jpg**: Σχέδιο του Henri Gerbault (1863 - 1930) (Δημόσιο πεδίο)
-
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγές) <!-- TODO: Fallback translation -->
-
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Παρόμοια Διανομή) <!-- TODO: Fallback translation -->
-
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση) <!-- TODO: Fallback translation -->
-
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση) <!-- TODO: Fallback translation -->
-
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Παρόμοια Διανομή)
-
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Όχι Παράγωγα Έργα)
-
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Πρόσβαση στις 08-01-2009. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Όχι Παράγωγα Έργα)
-:::
- <!-- TODO: Fallback translation -->

@@ -94,8 +94,3 @@ status: stable
 (מקור התמונה: [פרטים](/he/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** 'אינאא'ת ח'אן על ערש דווי, שרטוט למיניאטורה של כתב יד עבור ג'אהאנג'יר = جهانگיר, סביב 1618 [מקור תמונה: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- נגיש ב-2009-01-28. רכוש ציבורי]
-
-:::

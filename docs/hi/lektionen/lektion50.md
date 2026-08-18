@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # पाठ 50
 
@@ -290,24 +290,5 @@ B) अनुवाद करें:
 
 व्याख्याएँ:
 ⟪निषेकादीनि⟫ : नाम.अक.बहु.नपुं.
-:::
-::: deleteme-box
-
-**lekt5007:** अभ.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = माउंट एवरेस्ट [चित्र स्रोत: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- 12 जनवरी 2009 को पहुँचा गया. -- [क्रीएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by/2.0/deed.de) (एट्रिब्यूशन)]
-
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [चित्र स्रोत: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- 12 जनवरी 2009 को पहुँचा गया. -- [क्रीएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (एट्रिब्यूशन, गैर-वाणिज्यिक, कोई परिवर्तन नहीं)]
-
-**lekt5001:** कैपिल सिबल (1948 -), विज्ञान और प्रौद्योगिकी मंत्रालय और पृथ्वी विज्ञान मंत्रालय में संघीय मंत्री (2006 से) [चित्र स्रोत: विश्व आर्थिक मंच. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- 12 जनवरी 2009 को पहुँचा गया. -- [क्रीएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (एट्रिब्यूशन, शेयर अलाइक)]
-
-**lekt5002:** मानसून की आगमन, बेंगलुरु  ಬೆಂಗಳೂರು [चित्र स्रोत: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- 12 जनवरी 2009 को पहुँचा गया. -- [क्रीएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (एट्रिब्यूशन, गैर-वाणिज्यिक, कोई परिवर्तन नहीं)]
-
-**lekt5005:** [चित्र स्रोत: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- 12-01-2009 को प्राप्त। -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (नाम उल्लेख, share alike)]
-
-**lekt5003:** [चित्र स्रोत: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- 12-01-2009 को प्राप्त। -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (नाम उल्लेख, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
-
-**lekt5004:** ⟪⟪धारावी⟫⟫, ⟪⟪मुंबई⟫⟫ [⟪चित्र⟫ ⟪स्रोत⟫: कौनोसु / विकिपीडिया। GNU FDलाइसेंस]
-
-**lekt5008:** मुंबई (⟪मुंबई⟫) से 80 किमी दूर स्थित गणेशपुरी [चित्र स्रोत: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- 13-01-2009 को प्राप्त। -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (नाम उल्लेख, गैर-वाणिज्यिक उपयोग, share alike)]
-
 :::
 

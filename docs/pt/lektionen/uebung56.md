@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 56
 
-Bestimmen und übersetzen Sie die folgenden Formen: <!-- TODO: Fallback translation -->
+Bestimmen und übersetzen Sie die folgenden Formen:
 
 ::: grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |
@@ -98,7 +98,7 @@ Bestimmen und übersetzen Sie die folgenden Formen: <!-- TODO: Fallback translat
 ![](/images/uebung091.webp)
 Abb.: ⟪जेरिम⟫
 (Bildquelle: [Details](/licenses#uebung091))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

@@ -1,10 +1,11 @@
 ---
-title: Lektion 59
-subtitle: "Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Pelajaran 59"
+subtitle: "Akhiran Sekunder dan Akhiran Imperatif Dual (⟪द्विवचनम्⟫)"
 lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 59
@@ -776,18 +777,7 @@ Fig.: ⟪कुम्भकर्णः⟫
 Kecak Dance, Bali (Indonesia)
 (Image source: [Detail](/en/licenses/lekt5903))
 :::
-_Translation aid:_ Verse 6: ⟪दिदृक्षते⟫ \= Desiderative of ⟪दृश्⟫
+⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
-::: media
-![](/images/lekt5901.webp)
-(Image source: [Detail](/en/licenses/lekt5901))
-:::
-Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
+C) Transform the sentences from Exercise B) by replacing perfect forms with imperfect forms.
 
-::: deleteme-box
-
-**lekt5902:** [Image source: Henryart/Wikipedia. Public domain]
-
-**lekt5903:** Kecak Dance, Bali (Indonesia) [Image source: Flying Pharmacist / Wikipedia. [Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/) (Attribution, share alike)]
-
-:::

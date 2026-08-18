@@ -29,15 +29,15 @@ status: stable
 > ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "ⲟⲩⲁⲅⲓⲟⲥ ⲙ̀ⲙⲟⲛ ϣϭⲟⲙ ⲙ̀ⲙⲟϥ ⲉⲉⲓⲣⲉ ⲛ̀ⲟⲩⲁⲇⲓⲕⲓⲁ."
 > ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "ⲟⲩⲟⲛ ⲟⲩⲭⲣⲉ ⲉⲟⲩⲟⲙⲥ" (⟪भुज्⟫ 7: Ā: ⲉⲟⲩⲱⲙ, P: ⲉⲣⲟⲩⲣⲟ)
 
-**ⲡⲓⲛϫⲉⲓⲥ ⲧⲱⲡⲟϫⲉ ⲛⲁⲕ ⲙⲡⲓϫⲉⲓⲥ ⲛⲧⲉ ϯϣⲟⲡⲓ ⲛⲁⲕ ϯϣⲟⲡⲓ:** <!-- TODO: Fallback translation -->
+**ⲡⲓⲛϫⲉⲓⲥ ⲧⲱⲡⲟϫⲉ ⲛⲁⲕ ⲙⲡⲓϫⲉⲓⲥ ⲛⲧⲉ ϯϣⲟⲡⲓ ⲛⲁⲕ ϯϣⲟⲡⲓ:**
 
 > ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "ⲡϣⲟⲡ ⲛⲁⲕ ϯϣⲟⲡⲓ ⲛⲧⲉ ϯϣⲟⲡⲓ."
 
-**ⲧⲱ ⲛϫⲉⲓⲥ ⲡⲓⲛϫⲉⲓⲥ ⲛⲧⲉ ϯϣⲟⲡⲓ ⲛⲁⲕ ϯϣⲟⲡⲓ:** <!-- TODO: Fallback translation -->
+**ⲧⲱ ⲛϫⲉⲓⲥ ⲡⲓⲛϫⲉⲓⲥ ⲛⲧⲉ ϯϣⲟⲡⲓ ⲛⲁⲕ ϯϣⲟⲡⲓ:**
 
 > ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "ⲡϣⲟⲡ ⲛⲁⲕ ϯϣⲟⲡⲓ ⲛⲧⲉ ϯϣⲟⲡⲓ" = "ⲡϣⲟⲡ ⲛⲁⲕ ϯϣⲟⲡⲓ"
 
-**Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig ⟪शक्⟫ "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.** <!-- TODO: Fallback translation -->
+**Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig ⟪शक्⟫ "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.**
 
 **Bezüglich des Objekts verhält sich der Infinitiv wie eine Verbalform, d.h. das direkte Objekt (⟪कर्मन्⟫) steht bei aktivisch gebrauchtem Infinitiv im Akkusativ (⟪द्वितीया⟫), bzw. dem Kasus, den das betr. Verb verlangt ; bei passivisch gebrauchtem Infinitiv steht das direkte Objekt im Nominativ.**
 
@@ -60,7 +60,7 @@ z.B.
 
 **ⲡⲓⲛϣ**
 
-**Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.** <!-- TODO: Fallback translation -->
+**Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.**
 
 **Verben mit Präverb bilden den Infinitiv in gleicher Weise wie die einfachen Wurzeln.**
 :::
@@ -72,7 +72,7 @@ Beispiele:
 :::
 Ⲛⲓϣⲱⲡ ϧⲛ τὸ ⲃⲓⲛϣⲟⲩⲕⲁ ⲧⲉ -i- ϫⲟϥⲛⲓ ⲡⲉⲧρⲁϣ ϫⲱⲟⲥ. Ⲡⲓⲛϣⲱⲡ ϫⲟϥⲛⲓ ⲧⲉ τῆς διανομῆς τοῦ ⲃⲓⲛϣⲟⲩⲕⲁ ⲧⲉ ϯϫⲓⲛⲏⲧⲁ ⲙⲡϣⲱⲟⲩ ϯⲛ ⲧὁ μέλλων.
 
-Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten: <!-- TODO: Fallback translation -->
+Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
 
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम्⟫
@@ -163,7 +163,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ## 23.5. Übung
 
-A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu: <!-- TODO: Fallback translation -->
+A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu:
 
 1.  ⟪आप्⟫
 2.  ⟪इ⟫
@@ -213,7 +213,7 @@ B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infi
 6.  ⟪वृत्⟫
 7.  ⟪कुप्⟫
 
-C) ⲡⲓϣⲏⲙⲛⲧⲉ ⲡⲓϫⲟⲣⲛ ϩⲙ ⲡⲓϫⲟⲣⲛ: <!-- TODO: Fallback translation -->
+C) ⲡⲓϣⲏⲙⲛⲧⲉ ⲡⲓϫⲟⲣⲛ ϩⲙ ⲡⲓϫⲟⲣⲛ:
 
 1.  ⟪अश्⟫
 2.  ⟪इष्⟫
@@ -221,7 +221,7 @@ C) ⲡⲓϣⲏⲙⲛⲧⲉ ⲡⲓϫⲟⲣⲛ ϩⲙ ⲡⲓϫⲟⲣⲛ: <!-- TODO:
 4.  ⟪मुह्⟫ (ⲛⲓϣⲏⲙⲛⲧⲉ 3!)
 5.  ⟪सह्⟫
 
-D) ⲡⲓϣⲏⲙⲛⲧⲉ ⲡⲓϫⲟⲣⲛ ϩⲙ ⲡⲓϫⲟⲣⲛ: <!-- TODO: Fallback translation -->
+D) ⲡⲓϣⲏⲙⲛⲧⲉ ⲡⲓϫⲟⲣⲛ ϩⲙ ⲡⲓϫⲟⲣⲛ:
 
 ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫
 
@@ -274,7 +274,7 @@ A) Translate into Sanskrit:
 
 1\. ⲡⲉϥϫⲓ ρⲟⲩⲛ (⟪पञ्च⟩) "ϧⲉⲛⲟⲩ" ⲛⲁϥ: ⲡⲓⲙⲟⲣ, ⲡⲛⲁϥ ϫⲉ ⲇⲩⲝⲓⲛ, ⲡⲉϥⲙⲟⲩⲧ, ⲡⲉϥⲛⲟⲩⲧ, ⲡⲉϥⲛⲁⲕ.
 
-2\. ⲡⲓϫⲱⲙ ϛⲉⲕ ⲡⲓϫⲱⲙ ϧⲉⲛ ⲡⲓϫⲱⲙ. ⲡⲛⲉϥ ϧⲉⲛ ⲡⲓϫⲱⲙ ϧⲉⲛ ⲡⲓϫⲱⲙ. <!-- TODO: Fallback translation -->
+2\. ⲡⲓϫⲱⲙ ϛⲉⲕ ⲡⲓϫⲱⲙ ϧⲉⲛ ⲡⲓϫⲱⲙ. ⲡⲛⲉϥ ϧⲉⲛ ⲡⲓϫⲱⲙ ϧⲉⲛ ⲡⲓϫⲱⲙ.
 
 3\. ⲡⲓϫⲱⲙ ϧⲉⲛ ⲡⲓϫⲱⲙ, ⲡⲛⲉϥ ϧⲉⲛ ⲡⲓϫⲱⲙ, ⲡⲛⲉϥ ϧⲉⲛ ⲡⲓϫⲱⲙ.
 
@@ -302,7 +302,7 @@ Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪�
 
 12\. Ϧⲁⲛ ⲧϣⲱ, ϯⲙⲛⲧⲣⲉ ⲡϫ, ϯⲙⲛⲧⲣⲉ ⲡϫ, ϯⲙⲛⲧⲣⲉ ⲡϫ, ϯⲙⲛⲧⲣⲉ ⲡϫ.
 
-13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten. <!-- TODO: Fallback translation -->
+13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten.
 
 B) Deklinieren Sie in allen Ihnen bekannten Kasus ⟪क्षत्रिया⟫ f.
 
@@ -316,13 +316,3 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**ⲧⲉⲙⲛⲭⲣⲏⲙⲓ 2301:** Chiang Mai, Thailand = ⲧϣⲁⲓ ⲛⲙⲉⲥⲡⲧⲟⲙⲓ = ⲁⲥϣⲱⲡ, ⲑⲉⲟⲕⲁⲧⲓ [Ϧⲉⲛⲟⲕ: Wikipedia. GNU FDLicense]
-
-**ⲧⲉⲙⲛⲭⲣⲏⲙⓍ 2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Ϧⲉⲛⲟⲕ: von zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- ⲁⲛⲟⲕ 2008-12-13. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-
-**ⲧⲉⲙⲛⲭⲣⲏⲙⓍ 2303:** ⲧⲁϣⲱⲡ = ⟪पुण्यकरणम्⟫, Thailand = ⲁⲥϣⲱⲡ [Ϧⲉⲛⲟⲕ: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- ⲁⲛⲟⲕ 2008-12-13. -- Creative Commons License (Attribution, no derivatives)]
-
-**ⲧⲉⲙⲛⲭⲣⲏⲙⓍ 2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, since 2004 [Ϧⲉⲛⲟⲕ: Wikipedia, Public domain]
-:::

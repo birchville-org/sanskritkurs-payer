@@ -95,7 +95,7 @@ C) Mettai las sentenzas da [Lecziun 10](lektion10.md), exercizi C, en passiv al 
 ⟪ब्राह्मणैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪।⟫
 
 15\. El cuntanscha ils paśūṃllabhate. ⟪पशूल्ंलभते⟫
-⟪पशवो⟫ ⟪लब्धाः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪पशवो⟫ ⟪लब्धाः⟫ ⟪।⟫
 
 16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
 ⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युद्धम्⟫ ⟪।⟫
@@ -105,4 +105,3 @@ C) Mettai las sentenzas da [Lecziun 10](lektion10.md), exercizi C, en passiv al 
 Fig.: ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 (Surs da l'imagia: [Detagls](/licenses#uebung020))
 :::
- <!-- TODO: Fallback translation -->

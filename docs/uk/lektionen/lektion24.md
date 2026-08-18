@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  -→
 
 # Урок 24
 
@@ -405,27 +405,3 @@ E) У реченні A) 6 замініть давальну конструкці
 
 15⟪१५⟫. До зустрічі! (Неосанскрит: ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Аннакут' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] — це традиційна індуїстська подія, яка відбувається на святкуваннях Нового року в усіх храмах BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. У цей день сотні вегетаріанських страв пропонуються Бгавану Свамінараяну [સ્વામિનારાયણ]. [Джерело зображення: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, Non-commercial)]
-
-**lekt2402:** Ракаш Бандхан святкується з ентузіазмом та радістю по всій Індії. Це свято втілює безумовну любов між братами та сестрами. [Джерело зображення: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, Non-commercial, Share Alike)]
-
-**lekt2403:** "Рама (праворуч), що сидить на плечах Ханумана, веде бій з демоном-королем Раваною." бл. 1820 р. [Джерело зображення: Вікіпедія, суспільне надбання]
-
-**lekt2404:** [Джерело зображення: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, No Derivative Works)] &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt2405:** [Джерело зображення: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
-
-**lekt2406:** Хампі = ಹಂಪೆ, Карнатака = ಕರ್ನಾಟಕ [Джерело зображення: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, Non-commercial)] &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt2407:** "НОВА ДЕЛІ/ІНДІЯ, 16ЛИС08 - Сухасіні Хайдар, заступник редактора з закордонних справ мережі CNN-IBN 18, Індія, модерує панельну дискусію на Індійському економічному саміті Світового економічного форуму 2008 року в Нью-Делі." [Джерело зображення: Світовий економічний форум / Фото Дани Сміллі. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Доступ отримано 2008-12-14. -- Ліцензія Creative Commons (Attribution, Share Alike)]
-
-**lekt2408:** «Оповідач із Сан-Франциско Джефф Байєр розповідає історію мешканцям Ченнері, села ірула. Оповідач Джіва Рагхунат перекладає її тамільською мовою для селян.» [Джерело зображення: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Доступ 2008-12-14. -- Ліцензія Creative Commons (Attribution, Non-Commercial)]
-
-**lekt2409:** [Джерело зображення: Redtigerxyz / Wikipedia, GNU FDLicense] &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt2410:** ⟪नरसिंह⟫ розриває ⟪हिरण्यकशिपु⟫, сторінка з рукопису ⟪भागवतपुराण⟫ [Джерело зображення: Wikipedia, Public domain]
-
-**lekt2411:** Рукопис ⟪गीतगोविन्द⟫, 1730 р. н. е. [Джерело зображення: Wikipedia, Public domain]
-:::

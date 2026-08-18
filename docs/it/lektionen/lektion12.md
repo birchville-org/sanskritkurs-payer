@@ -9,14 +9,6 @@ status: stable
 
 # Lezione 12
 
-::: deleteme-box
-**In questa lezione imparate:**
-- Il participio perfetto passivo (PPP)
-- Il significato del PPP
-- La formazione del PPP
-- Le leggi della combinazione fonetica nella parola
-- Il passivo e il PPP delle radici finora studiate
-:::
 
 ## 12.1. Participio Perfetto Passivo (PPP)
 

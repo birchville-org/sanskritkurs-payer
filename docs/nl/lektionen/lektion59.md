@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: Lektion 59
 subtitle: "Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)"
@@ -785,10 +785,3 @@ _Übersetzungshilfe:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderativ z
 :::
 Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 
-::: deleteme-box
-
-**lekt5902:** [Bildquelle: Henryart/Wikipedia. Public domain]
-
-**lekt5903:** Kecak-Tanz, Bali (Indonesien) [Bildquelle: Flying Pharmacist / Wikipedia. [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/3.0/) (Namensnennung, share alike)]
-
-:::

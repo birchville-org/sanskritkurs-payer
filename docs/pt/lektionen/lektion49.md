@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 49
 
@@ -173,7 +173,7 @@ Substantivos em -is e -us são relativamente raros.
 Fig.: ⟪नमस्ते⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4907))
 :::
-## 49.4. Lista de palavras <!-- TODO: Fallback translation -->
+## 49.4. Lista de palavras
 
 ⟪दीर्घ⟫ 3: longo
 
@@ -231,7 +231,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Fig.: ⟪कुलूहलम्⟫
 (Fonte da imagem: [Details](/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: inteiro, completo <!-- TODO: Fallback translation -->
+⟪कृत्स्न⟫ 3: inteiro, completo
 
 ⟪परिचय⟫ m.: conhecimento, familiaridade
 
@@ -274,7 +274,7 @@ Adivinho com papagaio numa gaiola: o papagaio tira pequenos bilhetes, nos quais 
 :::
 ⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: o nível mais baixo dos [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: mesmo, por si mesmo <!-- TODO: Fallback translation -->
+⟪स्वयम्⟫ Indekl.: mesmo, por si mesmo
 
 ⟪अवनि⟫ f.: Terra
 
@@ -299,7 +299,7 @@ Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fonte da imagem: [Detalhes](/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
 ⟪परम⟫ 3: o mais distante, o mais alto ; ⟪पञ्चम्या⟫ : melhor que, mais alto que
 
@@ -370,27 +370,5 @@ Perguntas do rei ⟪शूद्रक⟫ de ⟪विदिशा⟫ ao papagai
 Fig.: ⟪शुकः⟫
 Periquito-de-cabeça-de-ameixa = Psittacula cyanocephala
 (Fonte da imagem: [Detalhes](/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Fonte da imagem: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Acessado em 2009-01-10. --  [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição,  uso não comercial, share alike)]
-
-**lekt4901:** [Fonte da imagem: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Acessado em 2009-01-11. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribuição, sem modificações)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, séc. XI [Fonte da imagem: Vassil / Wikipedia. Domínio público]
-
-**lekt4903:** [Fonte da imagem: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Acessado em 2009-01-11. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, uso não comercial, sem modificações)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Fonte da imagem: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Acessado em 2009-01-11. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, uso não comercial, compartilhamento pela mesma licença)]
-
-**lekt4909:** Adivinho com papagaio na gaiola: o papagaio tira pequenos bilhetes nos quais o destino está escrito, Mysore [Fonte da imagem: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Acessado em 2009-01-12. --  [Licença Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuição)]
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Fonte da imagem: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Acessado em 2009-01-11. -- [Licença Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuição)]
-
-**lekt4906:** Sri Lanka [Fonte da imagem: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Acessado em 2009-01-11. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, uso não comercial, sem derivações)]
-
-**lekt4908:** Periquito-de-cabeça-de-ameixa _= Psittacula cyanocephala_[Fonte da imagem: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Acessado em 2009-01-12. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, Uso não comercial, CompartilhaIgual)]
-
 :::
 

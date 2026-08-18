@@ -97,5 +97,5 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung089.jpg)
 Ἀπεικ.: Scholastic Sanskrit
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/licenses#uebung089))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

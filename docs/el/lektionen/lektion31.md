@@ -30,7 +30,7 @@ status: stable
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | | <!-- TODO: Fallback translation -->
+| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
 ⟪रुध्⟫ 7U "σταματώ, φέρνω σε ακινησία"
@@ -214,15 +214,3 @@ Rāhula, der Sohn Buddhas, Laos.
 
 ⟪५⟫. ⟪भञ्ज्⟫ (μόνο P)
 
-::: deleteme-box
-
-**lekt3101:** Απεικόνιση γιόγκα. [Πηγή εικόνας: Flickr, 2008-12-25. CC BY]
-
-**lekt3102:** Προετοιμασία για τον χορό Κατακάλι, Κοτσί. [Πηγή εικόνας: winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**lekt3103:** Από ένα χειρόγραφο Πραγιάπαραμίτα. [Πηγή εικόνας: zeno.org. Δημόσιος τομέας]
-
-**lekt3105:** Άρματα μάχης 18ου Σμήνους Ιππικού (Ινδικός Στρατός) σε κίνηση κατά τον πόλεμο Ινδίας-Πακιστάν του 1965. [Πηγή εικόνας: Hari Singh Deora / Wikipedia. Δημόσιος τομέας]
-
-**lekt3104:** Ράχουλα, ο γιος του Βούδα, Λάος. [Πηγή εικόνας: Sacca / Wikipedia. GNU FDL]
-:::

@@ -1,49 +1,41 @@
 ---
 title: "Ejercicio 17"
 uebung_id: 17
-category: "Ejercicio"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lección 17
+# Ejercicio 17
 
 A) Inserte el verbo en las siguientes oraciones y traduzca:
 
-⟪१⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) ⟪।⟫
-⟪ब्रवीति⟫ ⟪।⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪वदति⟫ ⟪।⟫
+⟪१⟫. ⟪ब्राह्मनो ऽनृतं न⟫ ... (⟪ब्रू । वच् । वद्⟫) ⟪। ब्रवीति । वक्ति । वदति ।⟫
 Un brahmán no dice una mentira.
 
-⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫) ⟪।⟫
-⟪पाति⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫
-Un kṣatriya cuida a la gente.
+⟪२⟫. ⟪क्षत्रियो जनान्⟫ ... (⟪पा । रक्ष्⟫) ⟪। पाति । रक्षति ।⟫
+Un kṣatriya protege a la gente.
 
-⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) ⟪।⟫
-⟪द्विजारीञ्जयति⟫ ⟪।⟫ ⟪द्विजारीन्हन्ति⟫ ⟪।⟫ ⟪युध्यते⟫ ⟪।⟫
-El poderoso guerrero derrota / mata / combate a los enemigos de los dos veces nacidos.
+⟪३⟫. ⟪बलवद्योधो द्विजारीन्⟫ ... (⟪जि । हन् । युध्⟫) ⟪। द्विजारीञ्जयति । द्विजारीन्हन्ति । युध्यते ।⟫
+El guerrero poderoso derrota / mata / combate a los enemigos de los dos veces nacidos.
 
-⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) ⟪।⟫
-⟪स्तौति⟫ ⟪।⟫ ⟪स्तुते⟫ ⟪।⟫ ⟪यजते⟫ ⟪।⟫ ⟪यजति⟫ ⟪।⟫
+⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु । यज्⟫) ⟪। स्तौति । स्तुते । यजते । यजति ।⟫
 El poeta brahmánico alaba al SEÑOR del mundo. (o: ...sacrifica... al SEÑOR del mundo)
 
-⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) ⟪।⟫
-⟪अत्ति⟫ ⟪।⟫ ⟪दहति⟫ ⟪।⟫
+⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫) ⟪। अत्ति । दहति ।⟫
 El fuego consume / quema la comida.
 
-⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫) ⟪।⟫
-⟪दोग्धि⟫ ⟪।⟫ ⟪दुग्धे⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪पाति⟫ ⟪।⟫
-El joven vaiśya ordeña / cuida la vaca.
+⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫) ⟪। दोग्धि । दुग्धे । रक्षति । पाति ।⟫
+El joven vaiśya ordeña / protege a la vaca.
 
-⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
-⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-Un sirviente de los dos veces nacidos va por el sendero de la caza a la aldea brahmánica.
+⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫) ⟪। गच्छति । एति । पद्यते ।⟫
+Un sirviente de los dos veces nacidos va por el sendero de la caza hacia la aldea brahmánica.
 
-⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
-⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
-Ein Śūdra ist Knecht der Zweimalgeborenen.
+⟪८⟫. ⟪द्विजदासः शूद्रस्⟫ ... (⟪अस् २ । भू⟫) ⟪। द्विजदासः शूद्रो ऽस्ति ।⟫ ... ⟪शूद्रो भवति ।⟫
+Un śūdra es siervo de los dos veces nacidos.
 
-⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫) ⟪।⟫
-⟪रोदिति⟫ ⟪।⟫ ⟪बालब्राह्मण्याते⟫ ⟪।⟫ ⟪म्रियते⟫ ⟪।⟫
+⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद् । आस् । मृ⟫) ⟪। रोदिति । बालब्राह्मण्याते । म्रियते ।⟫
 La pequeña brahmánica llora / se sienta / muere.
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫) ⟪।⟫
@@ -77,7 +69,7 @@ B) Inserte el agente y el verbo en plural en las oraciones formadas en A)
 Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung025))
 :::
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 ## Ejercicio de formas verbales
 

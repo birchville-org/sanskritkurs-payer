@@ -517,12 +517,3 @@ Determine y traduzca las siguientes formas de palabras:
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Fuente de la imagen: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Acceso el 2008-12-21. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
-**lekt3002:** Darewadi, Distrito de Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Fuente de la imagen: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Acceso el 2008-12-21. -- Licencia Creative Commons (Atribución, sin uso comercial, compartir igual)]
-**lekt3003:** [Fuente de la imagen: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Acceso el 2008-12-21. -- Licencia Creative Commons (Atribución, compartir igual)]
-**lekt3005:** ⟪थाली⟫, Sur de la India [Fuente de la imagen: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Acceso el 2008-12-21. -- Licencia Creative Commons (Atribución, sin uso comercial, compartir igual)]
-**lekt3004:** [Fuente de la imagen: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Acceso el 2008-12-21. -- Licencia Creative Commons (Atribución, compartir igual)]
-**lekt2904:** [Fuente de la imagen: Wikipedia / Derechos de autor de Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

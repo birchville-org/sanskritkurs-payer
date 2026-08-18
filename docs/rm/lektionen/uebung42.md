@@ -30,7 +30,7 @@ La consperta ha da vegnir mantegnida dal consort. Perquai vegn ella numnada "bh�
 In bun fegl dat a ses antenads offrendas da tschertgà (⟪पिण्ड). Tras ils antenads vegn l'offrenda da tschertgà mangiada, e uschia po ina vita beida vegnir menegiada.
 
 ⟪७⟫. **⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-In fegl na dastga maridar sia sora. Sche in fegl tschenta ses desideri per sia sora, sa indigneschan ils deus. <!-- TODO: Fallback translation -->
+In fegl na dastga maridar sia sora. Sche in fegl tschenta ses desideri per sia sora, sa indigneschan ils deus.
 
 ⟪८⟫. **⟪क्थं⟫ ⟪भर्तुर्भ्रातोच्यते⟫ ⟪।⟫ ⟪देवेति⟫ ⟪भर्तुर्भ्राता⟫ ⟪वक्तव्यः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 Co vegn il fegl dal consort numnà? Il consort-fegl ha da vegnir designà sco "devara" (sog).
@@ -75,4 +75,3 @@ Il cor dal re Janaka era altamain cuntent. Alura ha el fatg vegnir Daśaratha e 
 Abb.: ⟪श्रीसीता⟫ ⟪श्रीरामश्च⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung069))
 :::
- <!-- TODO: Fallback translation -->

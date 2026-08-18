@@ -709,39 +709,3 @@ Mahābhārata : 印度的宏大史诗 / 从梵文翻译并缩写，作者 Biren 
 （图片来源：[详情](/zh-CN/licenses#lekt5201)）
 :::
 
-::: deleteme-box
-
-**lekt5202：** ⟪विवाहः⟫，钦奈 = சென்னை [图片来源：swamysk。-- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/)。-- 访问日期：2009-01-15。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt5203：** 哇扬木偶，爪哇，印度尼西亚 [图片来源：维基百科。公有领域]
-
-**lekt5204：** 寺庙前的排队，特里凡得琅 = Thiruvananthapuram = തിരുവനന്തപുരം [图片来源：gray\_area。-- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/)。-- 访问日期：2009-01-15。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
-
-**lekt5209：** 刀耕火种，阿鲁纳恰尔邦 = ⟪अरुणाचल प्रदेश⟫ [图片来源：parrothanging。-- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/)。-- 访问日期：2009-01-15。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt5205：** [图片来源：维基百科。公有领域]
-
-**lekt5206：** 北斗七星 = 大熊座（Ursa maior）中最亮的七颗星 [图片来源：维基百科，GNU自由文档许可证]
-
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [图片来源：维基百科。公有领域]
-
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [图片来源：Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/)。-- 访问日期：2009-01-16。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
-
-**lekt5212:** Hyderabad = హైదరాబాద్ [图片来源：David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/)。-- 访问日期：2009-01-16。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (署名，非商业性使用，禁止演绎)]
-
-**lekt5213:** ⟪मुंबई⟫ [图片来源：saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/)。-- 访问日期：2009-01-16。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (署名，禁止演绎)]
-
-**lekt5214:** Konark = ⟪कोनार्क⟫ [图片来源：Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/)。-- 访问日期：2009-01-16。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (署名，非商业性使用，禁止演绎)]
-
-**lekt5208:** Hampi = ಹಂಪೆ [图片来源：oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/)。-- 访问日期：2009-01-15。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (署名，非商业性使用，相同方式共享)]
-
-**lekt5215:** ⟪मुंबई⟫ [图片来源：James Cridland。-- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/)。-- 访问日期：2009-01-16。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de)（署名）]
-
-**lekt5217:** Amaravati = అమరావతి，公元二世纪。[图片来源：维基百科。GNU FD许可]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫，约公元1810年 [图片来源：维基百科。公有领域]
-
-**lekt5201：**（图片：Payer）
-
-:::
-

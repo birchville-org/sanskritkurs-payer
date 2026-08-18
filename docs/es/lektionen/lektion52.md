@@ -1,10 +1,11 @@
 ---
-title: Lektion 52
-subtitle: "Neutrum der Stämme auf -i und -u"
+title: "Lección 52"
+subtitle: "Neutro de las raíces en -i y -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 52
@@ -15,7 +16,7 @@ status: stable
 **Ante terminaciones que comienzan con vocal, se inserta una -n-, lo cual es una influencia de las raíces en n (-in).**
 :::
 ::: grammar-box
-| | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
+| | **⟪वारि⟫ n.:br"agua"** | **⟪मधु⟫ n.:br"miel"** |
 | :--- | :---: | :---: |
 | ⟪एकवचनम्⟫ |||
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
@@ -35,10 +36,10 @@ status: stable
 :::
 ## 52.2. Formación nominal
 
-### 52.2.1. PPP + -vant: Participio pasado Parasmaipada
+### 52.2.1. PPP + -vant: Participio de pasado Parasmaipada
 
 ::: grammar-box
-**Un participio Parasmaipada del pasado se forma así:**
+**Un participio de pasado Parasmaipada se forma así:**
 
 **PPP + -vant / fem.: vatī**
 **Declinación como las raíces en -vant o f. ⟪देवी⟫**
@@ -57,85 +58,80 @@ Ejemplos:
 ### 52.2.2. ⟪तद्धित⟫-sufijo -maya / -mayī
 
 ::: grammar-box
-**El sufijo ⟪तद्धित⟫ -maya / f.: -mayī forma adjetivos a partir de sustantivos con el significado de**
+**El sufijo ⟪तद्धित⟫ -maya / f.: -mayī forma adjetivos a partir de sustantivos con el significado**
 
 *   **"hecho de"**
 *   **"compuesto de"**
 *   **"rico en"**
 
-**Ante -maya (como ante -⟪मात्र⟫), las consonantes oclusivas finales de la forma de pausa deben ser reemplazadas por su nasal correspondiente.**
+**Antes de -maya (como antes de -⟪मात्र⟫) los consonantes oclusivos finales de pausa deben ser reemplazados por su nasal correspondiente.**
 :::
 Ejemplos:
 
 ::: indent
 ⟪अन्नमय⟫ 3 "rico en comida"
 
-⟪चिन्मय⟫ 3 (a partir de ⟪चित्⟫ f. "intelecto") "compuesto de pensamiento / entendimiento"
+⟪चिन्मय⟫ 3 (a ⟪चित्⟫ f. "Intelecto") "consistente en pensamiento / entendimiento"
 
-⟪वाङ्मय⟫ 3 (a partir de ⟪वाच्⟫ f. "lengua") "compuesto de habla"
+⟪वाङ्मय⟫ 3 (a ⟪वाच्⟫ f. "Lengua") "consistente en habla"
 
-⟪सोममय⟫ 3 "hecho de soma, compuesto de soma"
+⟪सोममय⟫ 3 "hecho de Soma, consistente en Soma"
 :::
 ::: grammar-box
-**Los sustantivos en -maya se usan ocasionalmente como sustantivos neutros y designan entonces abundancia de lo que es designado por el sustantivo al que se añade -maya.**
+**Los sustantivos en -maya se utilizan ocasionalmente como sustantivos neutros y entonces designan abundancia de lo que es designado por el sustantivo al cual se añade -maya.**
 :::
 ::: indent
-p.ej. ⟪अन्नमय⟫ n. "abundancia de comida"
+p.ej. ⟪अन्नमय⟫ n. "Abundancia de comida"
 :::
 ::: media
 ![](/images/lekt5202.webp)
-Fig.: ⟪अन्नमयम्⟫
-⟪विवाहः⟫, Chennai = சென்னை
+Fig.: ⟪अन्नमयम् विवाहः⟫, Chennai = சென்னை
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5202))
 :::
 ### 52.2.3. ⟪तद्धित⟫-sufijo -eya
 
 ::: grammar-box
-**El sufijo ⟪तद्धित⟫ -eya / f.: -eyī aparece, entre otros, en femeninos con el sentido de**
+**El sufijo ⟪तद्धित⟫ -eya / f.: -eyī aparece, entre otros casos, en femininos con el sentido de**
 
-*   **"hijo de"**
-*   **"descendiente de"**
+*   **"Hijo/a de"**
+*   **"Descendiente de"**
 
 **Grado alargado (⟪वृद्धि⟫) de la primera vocal.**
 
-p.ej. ⟪कौन्तेय⟫ m. "hijo de ⟪कुन्ती⟫"
+p.ej. ⟪कौन्तेय⟫ m. "Hijo de ⟪कुन्ती⟫"
 :::
 ::: media
 ![](/images/lekt5203.webp)
-Fig.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
+Fig.: ⟪भीमः कौन्तेयः⟫
 Figura Wayang, Java, Indonesia
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5203))
 :::
-## 52.3. Formación adverbial: Sufijo adverbial -śas
+## 52.3. Formación de adverbios: Sufijo adverbial -śas
 
 ::: grammar-box
 **El sufijo adverbial -śas forma adverbios de (principalmente) significado distributivo a partir de:**
 
-*   **palabras numerales**  
-    Ejemplos:  
-:::
-::: indent
-⟪एकशस्⟫ "individualmente, cada uno"
-⟪द्विशस्⟫ "en parejas, cada dos"
-⟪शतशस्⟫ "en cientos, cada cien"
-:::
+*   **Numerales**  
+Ejemplos:  
+⟪एकशस्⟫ "individualmente, uno por uno"  
+⟪द्विशस्⟫ "en parejas, dos por dos"  
+⟪शतशस्⟫ "en cientos, cien por uno"
 
 *   **otras palabras**  
-    Ejemplos:  
-::: indent
-⟪भागशस्⟫ "parte por parte"
-⟪सर्वशस्⟫ "en todas partes, absolutamente todos"
+Ejemplos:  
+⟪भागशस्⟫ "parte por parte"  
+⟪सर्वशस्⟫ "en todas partes, absolutamente todos"  
 ⟪नित्यशस्⟫ "constantemente"
 :::
 ::: media
 ![](/images/lekt5204.webp)
 Fig.: ⟪अनुक्रमेणैकशः⟫
-Cola de espera ante el templo, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
+Cola ante el templo, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5204))
 :::
-## 52.4. Compuestos verbales que expresan que algo se convierte en algo o se hace algo que antes no era (⟪अभुततद्भावः⟫)
+## 52.4. Compuestos verbales que expresan que algo se convierte en o es hecho lo que antes no era (⟪अभुततद्भावः⟫)
 
-### 52.4.1. Formaciones con cvi
+### 52.4.1. Formaciones con cvi-
 
 ::: grammar-box
 **Ante las raíces**
@@ -144,46 +140,43 @@ Cola de espera ante el templo, Trivandrum = Thiruvananthapuram = തിരുവ
 *   **⟪अस्⟫ 2P "ser"**
 *   **⟪भू⟫ 1P "volverse"**
 
-**sustantivos y adjetivos pueden colocarse como prefijos para expresar que alguien o algo se convierte en lo que indica ese sustantivo, o que una persona o cosa se convierte en lo que ese nombre designa.**
+**Sustantivos y adjetivos pueden colocarse como prefijos para expresar que alguien convierte a una persona o cosa en ello, o que una persona o cosa se convierte en lo que designa ese sustantivo.**
 
 **La terminación del sustantivo se trata de la siguiente manera:**
 
+
 La terminación del sustantivo se trata de la siguiente manera:
 
-*   **la terminación en -a y -ā de palabras declinables se reemplaza por -ī**  
-    Ejemplos:  
+*   **las terminaciones -a y -ā de palabras declinables se reemplazan por -ī  **
+Ejemplos:  
+⟪कृष्णीभवति⟫ "algo que no es negro se vuelve negro"  
+⟪कृष्णीकरोति⟫ "él hace que algo que no es negro se vuelva negro"  
+⟪गङ्गीभवति⟫ "él/ella se convierte en el Ganges"  
+
+*   **las terminaciones -i y -u se reemplazan por su correspondiente vocal larga  **
+Ejemplos:  
+⟪शुचीभवति⟫ "él/ella/es se vuelve puro"  
+⟪गुरूभवामि⟫ "me convierto en maestro"  
+
+*   **la terminación -ṛ se reemplaza por --rī  **
+p.ej. ⟪पित्रीभवति⟫ "uno que no es padre (⟪पितृ⟩) se convierte en padre = un hombre tiene su primer hijo"  
+
+*   **la terminación -n cae y la vocal precedente se trata según las reglas mencionadas anteriormente  **
+p.ej. ⟪राजीबभूव⟫ "uno (que no era rey) se convirtió en rey (⟪राजन्⟫)"
+
+*   **Los sustantivos de raíz múltiple se presentan en la forma de la raíz que tienen en el locativo (⟪सप्तमी⟫) plural. La raíz está entonces sujeta a las reglas habituales de sandhi. Véase Kielhorn, Gramática § 489,3.**
+p.ej. ⟪तिर्यक्करोति⟫ "él coloca lateralmente (⟪तिर्यच्⟫)"
 :::
-::: indent
-⟪कृष्णीभवति⟫ "algo que no es negro se vuelve negro"
-⟪कृष्णीकरोति⟫ "él hace que algo que no es negro se vuelva negro"
-⟪गङ्गीभवति⟫ "él/ella se convierte en el Ganges"
-:::
-
-*   **la terminación en -i y -u se reemplaza por la vocal larga correspondiente**  
-    Ejemplos:  
-::: indent
-⟪शुचीभवति⟫ "él/ella/ello se vuelve puro"
-⟪गुरूभवामि⟫ "me convierto en maestro"
-:::
-
-*   **la terminación en -ṛ se reemplaza por --rī**  
-    p.ej. ⟪पित्रीभवति⟫ "uno que no era padre (⟪पितृ⟫) se convierte en padre = un hombre tiene su primer hijo"  
-
-*   **la terminación en -n cae y la vocal precedente se trata según las reglas mencionadas anteriormente**  
-    p.ej. ⟪राजीबभूव⟫ "uno (que no era rey) se convirtió en rey (⟪राजन्⟫)"  
-
-*   **otros sustantivos con múltiples raíces están en la forma de la raíz que tienen en el locativo (⟪सप्तमी⟫) plural. La raíz está entonces sujeta a las reglas habituales de sandhi. Véase Kielhorn, Gramática § 489,3.**  
-    p.ej. ⟪तिर्यक्करोति⟫ "él yace de lado (⟪तिर्यच्⟫)"
 ::: media
 ![](/images/lekt5209.webp)
-Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
-Quema de rastrojo, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
+Fig.: ⟪भस्मीकृतं वनम्⟫
+Tala y quema, Arunachal Pradesh = ⟪अरुणाचल प्रदेश⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5209))
 :::
 ### 52.4.2. Sufijo -sāt
 
 ::: grammar-box
-**Para expresar que una persona o cosa se convierte completamente en lo que sea, o que alguien convierte algo o alguien por completo en lo que designa un sustantivo, se puede añadir al sustantivo**
+**Para expresar que una persona o cosa se convierte completamente en aquello, o que alguien hace a otra persona o cosa enteramente lo que designa un sustantivo, se puede añadir al sustantivo**
 
 **el sufijo -sāt (que nunca se convierte en -ṣāt)**
 
@@ -191,7 +184,7 @@ Quema de rastrojo, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्र�
 
 *   ⟪कृ⟫ 8U "hacer"
 *   ⟪अस्⟫ 2P "ser"
-*   ⟪भू⟫ 1P "volverse"
+*   ⟪भू⟫ 1P "llegar a ser"
 *   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
 **para formar un compuesto verbal.**
@@ -199,26 +192,27 @@ Quema de rastrojo, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्र�
 Ejemplos:
 
 ::: indent
-⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫ "él se convierte completamente en fuego"
+⟪अग्निसाद्भवति । अग्निसात्संपद्यते⟫ "él llega a ser completamente fuego"
 
-⟪भस्मसात्करोति⟫ "él convierte por completo en ceniza (⟪भस्मन्⟫ n. "ceniza"))
+⟪भस्मसात्करोति⟫ "él transforma completamente en ceniza (⟪भस्मन्⟫ n. 'ceniza')"
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** &lt;!-- TODO: Fallback translation --&gt;
+**A veces el sufijo -sāt significa que una persona o cosa**
 
-*   **del cual depende o**
-*   **pasa a ser poseedor de ello**
-*   **o que alguien dependa de ello**
 
-**el cual es designado por el sustantivo**
+*   **se vuelve dependiente de aquello, o**
+*   **pasa a ser poseedor de ello,**
+*   **o que alguien hace depender aquello**
+
+**de lo designado por el sustantivo.**
 :::
 Ejemplo:
 
 ::: indent
-⟪राजसाद्भवति⟫ "él depende del rey, se convierte en propiedad del rey"
+⟪राजसाद्भवति⟫ "él se vuelve dependiente del rey, él se convierte en propiedad del rey"
 :::
 ::: grammar-box
-**Según las formaciones con -sāt, las raíces no se tratan como tras prefijos, es decir, Absoluto:**
+**Después de las formaciones con -sāt, las raíces no se tratan como después de prefijos verbales, es decir, en absoluto:**
 
 :::
 ::: indent
@@ -230,18 +224,16 @@ Ejemplo:
 **La repetición de palabras expresa en sánscrito:**
 
 *   **Repetición de la acción**  
-    p.ej. ⟪पुनः⟫ ⟪पुनः⟫ "una y otra vez"
+p. ej. ⟪पुनः पुनः⟫ "una y otra vez"
 *   **Distribución**  
-    Ejemplos:  
-:::
-::: indent
-⟪पृथक्पृथक्⟫ "cada uno por separado, cada uno individualmente"
-⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "lo que sea ... todo eso"
-⟪युगे⟫ ⟪युगे⟫ "en cada era mundial individual"
-:::
+Ejemplos:  
+⟪पृथक्पृथक्⟫ "cada uno por separado, cada uno individualmente"  
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "lo que sea... todo esto"  
+⟪युगे युगे⟫ "en cada una de las eras cósmicas"
 
-**Ocasionalmente, de tales combinaciones se puede formar un compuesto**
+**Ocasionalmente, a partir de tales combinaciones puede formarse un compuesto**
 
+:::
 Ejemplos:
 
 ::: indent
@@ -249,27 +241,27 @@ Ejemplos:
 ⟪अल्पाल्प⟫ 3 "muy pequeño"
 ⟪नवनव⟫ 3 "siempre nuevo"
 :::
-Sobre los llamados compuestos ⟪आम्रेडित⟫, en los que se repiten palabras flexionadas, pero la segunda recibió un acento en tiempo preclásico, es decir, se trata de un compuesto, véase Wackernagel, Gramática Antiga India II,1 p. 142ss.
-## 52.6. El numeral (⟪सम्ख्या⟩ f.)
+En cuanto a los llamados compuestos ⟪आम्रेडित⟫, en los que se repiten palabras flexionadas, pero la segunda recibió un acento en el período preclásico, por lo que se trata de un compuesto, véase Wackernagel, Altindische Grammatik II,1 p. 142ss.
+## 52.6. El numeral (⟪सम्ख्या⟫ f.)
 
-Lo no tratado aquí véase p.ej. en Kielhorn, Gramática §201f.
+Lo no tratado aquí véase p. ej. en Kielhorn, Grammatik §201ss.
 
 ### 52.6.1. Números cardinales
 
-#### 52.6.1.1. Adjetivos numéricos (para 1 a 19)
+#### 52.6.1.1. Adjetivos numéricos (para el 1 al 19)
 
 ::: grammar-box
-**Los numerales para *1 a 19* son adjetivos.**
-**Los numerales para **1 a 4** son diferentes en la declinación para los tres géneros.**
+**Los numerales para *1 al 19* son adjetivos.**
+**Los numerales para **1 al 4** son diferentes en la declinación para los tres géneros.**
 
-**Para los numerales para **5 a 19** (:sig[⟪नवदशन्⟫]) solo existe una única declinación para los tres géneros.**
+**Para los numerales de **5 al 19** (:sig[⟪नवदशन्⟫]) existe una única declinación para los tres géneros.**
 
-**Para estos adjetivos numéricos rige, como para todos los adjetivos: debe estar en el mismo caso, número y género que el sustantivo correspondiente y viceversa (es decir, para 1 singular, para 2 dual, para los demás plural).**
+**Para estos adjetivos numéricos, al igual que para todos los adjetivos: debe concordar en caso, número y género con el sustantivo correspondiente y viceversa (es decir, singular para 1, dual para 2, plural para los demás).**
 :::
-Adjetivos numéricos:
+Adjetivos numerales:
 
 ::: indent
-1 ⟪एक⟫ 3 (declinación como ⟪सर्व⟫, en plural: "algunos")
+1 ⟪एक⟫ 3 (Declinación como ⟪सर्व⟫, en plural: "algunos")
 2 ⟪द्वि⟫ 3
 3 ⟪त्रि⟫ 3
 4 ⟪चतुर्⟫ 3
@@ -280,48 +272,48 @@ Adjetivos numéricos:
 9 ⟪नवन्⟫ 3
 10 ⟪दशन्⟫ 3
 :::
-La declinación se encuentra en el lugar correspondiente en las listas de palabras.
+La declinación se indica en su lugar correspondiente en las listas de vocabulario.
 
-Los demás numerales adverbiales hasta 19 véase p.ej. en Kielhorn, Gramática §201.
+Para los demás numerales adverbiales hasta 19, véase por ejemplo en Kielhorn, Gramática §201.
 
-#### 52.6.1.2. Sustantivos numéricos (para 19 en adelante)
+#### 52.6.1.2. Sustantivos numerales (para 19 en adelante)
 
 ::: grammar-box
-**Los numerales para números **19 (⟪एकोनविंशति⟫* "uno menos que 20") *hasta 99* son sustantivos femeninos y se declinan como ⟪मति⟫ f. o sustantivos radicales en -t (p.ej. ⟪त्रिंशत्⟫ f.).**
+**Los numerales para *19 (⟪एकोनविंशति⟫* "uno menos que 20") *hasta 99* son sustantivos femeninos y se declinan como ⟪मति⟫ f. o bien como nombres radicales en -t (por ejemplo, ⟪त्रिंशत्⟫ f.).**
 
 :::
 Ejemplos:
 
 ::: indent
-20 ⟪विंशति⟫ f.
+20 ⟪विंशति⟫ f.:br
 30 ⟪त्रिंशत्⟫ f.
 :::
 
 ::: grammar-box
 
-**Los numerales para números **a partir de 100** son sustantivos neutros. Se declinan como ⟪फलम्⟫.**
+**Los numerales para números a partir de 100** son sustantivos neutros. Se declinan como ⟪फलम्⟫.**
 :::
 
 Ejemplos:
 
 ::: indent
-100 ⟪शत⟫ n.
+100 ⟪शत⟫ n.:br
 1000 ⟪सहस्र⟫ n.
 :::
-Los sustantivos numéricos individuales véase p.ej. en Kielhorn, Gramática §201.
-#### 52.6.1.3. Sintaxis de los numerales cardinales
+Para los sustantivos numerales individuales, véase por ejemplo en Kielhorn, Gramática §201.
+#### 52.6.1.3. Aspectos sintácticos de los numerales cardinales
 
 ::: grammar-box
-**De la diferencia entre adjetivos verbales y sustantivos verbales para números cardinales se deriva la siguiente consecuencia para la sintaxis:**
-*   los numerales cardinales adjetivales solo pueden unirse al sustantivo del contado como adjetivos  
-    p.ej. ⟪तिसृभिर्नारीभिः⟫ "por tres mujeres"  
-*   los numerales cardinales sustantivales pueden unirse al sustantivo del contado de tres maneras
-    *   rigen el genitivo (⟪षष्ठी⟫) del contado  
-        p.ej. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "por 20 mujeres"  
-    *   están en aposición en el mismo caso (pero en singular) que el contado  
-        p.ej. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "por 20 mujeres" 
-    *   están como segundo miembro de un ⟪तत्पुरुष⟫ con el contado como primer miembro  
-        p.ej. ⟪गोविंशत्या⟫ "por 20 vacas"
+**De la diferencia entre adjetivos verbales y sustantivos verbales para los numerales cardinales se deriva la siguiente consecuencia sintáctica:**
+*   Los numerales cardinales en función adjetiva solo pueden unirse al sustantivo de lo contado como adjetivos  
+por ejemplo, ⟪तिसृभिर्नारीभिः⟩ "por tres mujeres"  
+*   Los numerales cardinales en función sustantiva pueden unirse al sustantivo de lo contado de tres maneras
+*   rigen el genitivo (⟪षष्ठी⟫) de lo contado  
+por ejemplo, ⟪विंशत्या नारीणाम्⟫ "por 20 mujeres"  
+*   aparecen como aposición en el mismo caso (pero en singular) que lo contado  
+por ejemplo, ⟪विंशत्या नारीभिः⟫ "por 20 mujeres" 
+*   aparecen como segundo miembro de un ⟪तत्पुरुष⟫ con lo contado como primer miembro  
+por ejemplo, ⟪गोविंशत्या⟫ "por 20 vacas"
 
 :::
 ### 52.6.2. Números ordinales
@@ -337,31 +329,31 @@ una vez: ⟪सकृत्⟫
 dos veces: ⟪द्विस्⟫
 tres veces: ⟪त्रिस्⟫
 cuatro veces: ⟪चतुस्⟫
-cinco veces, etc. se forma con el sufijo -:sig[⟪कृत्वस्⟫]: ⟪पञ्चकृत्वस्⟫
+cinco veces, etc., se forma con el sufijo -:sig[⟪कृत्वस्⟫]: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-veces" (multiplicativo): se expresa con el sufijo -:sig[⟪धा⟫]
+b) "-veces": se expresa con el sufijo -:sig[⟪धा⟫]
 
 ::: indent
-simple: ⟪एकधा⟫
-doble: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
+una vez: ⟪एकधा⟫
+dos veces: ⟪द्विधा । द्वेधा⟫
 etc.
 :::
-c) "cada...", "a...": se expresa con el sufijo -:sig[⟪शस्⟫] (¡véase arriba!)
+c) "cada...", "a...": se expresa con el sufijo -:sig[⟪शस्⟫] (¡ver arriba!)
 
 ::: indent
-⟪द्विशस्⟫ "a dos, dos cada uno"
+⟪द्विशस्⟫ "a dos, cada dos"
 :::
 ### 52.6.4. Adjetivos numerales
 
-"-folds" (multiplicativo):
+"-folds":
 
 ::: indent
-doble, compuesto de dos
-triple, compuesto de tres partes
+doble, consistente en dos partes
+triple, consistente en tres partes
 
-a partir de 4, "-fältig" se expresa mediante el sufijo -:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫]): ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "cuádruple"
+a partir de 4, "-folds" se expresa mediante el sufijo -:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫]): ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "cuádruple"
 :::
-Otras formaciones pueden consultarse en los diccionarios o gramáticas.
+Para otras formaciones, consulte los diccionarios o las gramáticas.
 
 ### 52.6.5. Compuestos con números cardinales en el primer miembro
 
@@ -371,7 +363,7 @@ Otras formaciones pueden consultarse en los diccionarios o gramáticas.
 Ejemplo:
 
 ::: indent
-⟪चतुर्मुख⟫ m. "uno, que tiene cuatro caras" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (un epíteto de Brahmā)
+⟪चतुर्मुख⟫ m. "uno, el que tiene cuatro caras" = ⟪चत्वारि मुखानि यस्य सः⟫ (un epíteto de Brahmā)
 :::
 ::: media
 ![](/images/lekt5205.webp)
@@ -380,60 +372,58 @@ Fig.: ⟪चतुर्मुखः⟫
 :::
 
 ::: grammar-box
-**⟪तत्पुरुष⟫ con un número cardinal en el primer miembro no pueden formarse arbitrariamente:**
+**⟪तत्पुरुष⟫ con un número cardinal en el primer miembro no deben formarse arbitrariamente:**
 
-**Regla 1: Las palabras que designan una dirección cardinal (como ⟪पूर्व⟫ 3 "oriental", ⟪उत्तर⟫ 3 "septentrional"), y las palabras para números cardinales solo pueden formar un compuesto ⟪कर्मधारय⟫ con otras palabras si el compuesto se usa como nombre propio.**
+**Regla 1: Las palabras que designan una dirección cardinal (como ⟪पूर्व⟫ 3 "oriental", ⟪उत्तर⟫ 3 "septentrional"), y las palabras para números cardinales, solo pueden formar un compuesto ⟪कर्मधारय⟫ con otras palabras si el compuesto se usa como nombre propio.**
 :::
-Por lo tanto, por ejemplo, no se puede formar un Tatpuruṣa de ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "árboles septentrionales" ni de ⟪पञ्च⟫ ⟪ब्राह्मणः⟫. Sin embargo, de ⟪सप्तन्⟫ y ⟪ऋषि⟫ se puede formar el Tatpuruṣa ⟪सप्तर्षि⟫ m. "los siete Ṛṣis" si esto se usa como nombre para la constelación de la Osa Mayor (Ursa maior).
+Por lo tanto, por ejemplo, no puede formarse un Tatpuruṣa a partir de ⟪उत्तरा वृक्षाः⟫ "árboles del norte" o de ⟪पञ्च ब्राह्मणः⟫. Sin embargo, a partir de ⟪सप्तन्⟫ y ⟪ऋषि⟫ puede formarse el Tatpuruṣa ⟪सप्तर्षि⟫ m. "los siete Ṛṣis", si esto sirve como nombre para la constelación de la Osa Mayor (Ursa maior).
 ::: media
 ![](/images/lekt5206.jpg)
 Fig.: ⟪सप्तर्षयः⟫
-Las Siete Estrellas = las siete estrellas más brillantes de la Osa Mayor (Ursa maior)
+El Septentrión = las siete estrellas más brillantes de la Osa Mayor (Ursa maior)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5206))
 :::
 
 ::: grammar-box
-**Regla 2: En desacuerdo con la Regla 1, una palabra que designa una dirección cardinal o un número cardinal puede formar un Tatpuruṣa con otro sustantivo si**
+**Regla 2: En contraste con la Regla 1, una palabra que designa un punto cardinal o un número cardinal puede formar un Tatpuruṣa con otro sustantivo, si**
 
-1.  se añade un sufijo Taddhita al compuesto así formado  
-    Ejemplos:  
-    pūrva + śālā ("sala") » \*pūrvaśālā (¡no se puede usar así!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "que se encuentra en la sala oriental"  
-    ṣaṣ + mātṛ » \*ṣaṇmātṛ (¡no permitido!) + Taddhita -a » ⟪षण्मातुर⟫ m. "el hijo de seis madres" (= ⟪कार्त्तिकेय⟫)  
+1. se añade un sufijo Taddhita al compuesto formado de esta manera  
+Ejemplos:  
+pūrva + śālā ("sala") » \*pūrvaśālā (¡no debe usarse así!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "que se encuentra en la sala oriental"  
+ṣaṣ + mātṛ » \*ṣaṇmātṛ (¡no permitido!) + Taddhita -a » ⟪षण्मातुर⟫ m. "el hijo de seis madres" (= ⟪कार्त्तिकेय⟫)  
 
-2.  el compuesto así formado se usa en un significado que de otro modo sería designado por un sufijo Taddhita (en este tipo, la transición a Bahuvrīhi es fluida):  
-    Ejemplos:  
-    dvi + go » :sig[⟪द्विगु⟫] : no: "dos vacas", sino: "**adquirido para dos vacas**"  
+2. el compuesto formado de esta manera se utiliza en un significado que normalmente estaría designado por un sufijo Taddhita (en este tipo, la transición hacia el Bahuvrīhi es fluida):  
+Ejemplos:  
+dvi + go » ⟪द्विगु⟫ : no: "dos vacas", sino: "**adquirido para dos vacas**"  
+⟪द्विवर्ष⟫ no: "dos años", sino: "**de dos años de edad**"  
+
+3. el compuesto formado de esta manera constituye el primer miembro (Vorglied) de otro compuesto  
+Ejemplo:  
+pañca + go » pañcagava (¡inadmisible como palabra individual!) + dhana » ⟪पञ्चगवधन⟫ m. "Aquel whose riqueza son cinco vacas"
 :::
-::: indent
-⟪द्विवर्ष⟫ no: "dos años", sino: "**de dos años de edad**"
-:::
-
-3.  el compuesto así formado forma el primer miembro de otro compuesto  
-    Ejemplo:  
-    pañca + go » pañcagava (¡no permitido como palabra individual!) + dhana » ⟪पञ्चगवधन⟫ m. "Aquel cuyo riqueza son cinco vacas"
 ::: media
 ![](/images/lekt5207.webp)
-Fig.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
+Fig.: ⟪षण्मातुरः कार्त्तिकेय⟫:
 Jalakandapuram = ஜலகண்டபுரம்
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5207))
 :::
 
 ::: grammar-box
-**Una designación para un número cardinal (pero no para una dirección cardinal) puede funcionar como primer miembro de otro sustantivo para formar un Tatpuruṣa incluso cuando el compuesto resultante designa un agregado de varias cosas, es decir, reúne dos o más cosas en una unidad.**
+**Una designación para un número cardinal (pero no para una dirección cardinal) puede funcionar como primer miembro de otro sustantivo y formar incluso entonces un Tatpuruṣa, si el compuesto así formado designa la agregación de varias cosas, es decir, reúne dos o más cosas en una unidad.**
 
 **Los Tatpuruṣa formados según esta regla se denominan Dvigu (:sig[⟪द्विगु⟫]).**
 
-**Los compuestos Dvigu que designan una unidad son generalmente neutros. Si el segundo miembro termina en -a, puede añadirse el sufijo femenino -ī. Si el segundo miembro termina en fem. -ā, en su lugar aparece o bien el neutro -a o bien el femenino -ī. Si el segundo miembro termina en -an, se sustituye por -a o -ī.**
+**Los compuestos Dvigu que designan una unidad son generalmente neutros. Si el segundo miembro termina en -a, puede añadirse el sufijo femenino -ī. Si el segundo miembro termina en fem. -ā, entonces en su lugar aparece o bien el neutro -a o bien el femenino -ī. Si el segundo miembro termina en -an, se sustituye por -a o -ī.**
 :::
 Ejemplos:
 
 ::: indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "el agregado de los tres mundos, los tres mundos como unidad, el tris-mundo (cielo-tierra-infierno)
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "la agregación de los tres mundos, los tres mundos como unidad, el tris-mundo (cierra-tierra-infierno)
 
-⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "tris-mundo"
+⟪त्रिलोक⟫ n. ⟪। त्रिलोकी⟫ n. "tris-mundo"
 :::
 ::: grammar-box
-**Los compuestos Dvigu a los que no se ha añadido un sufijo Taddhita, pero que tienen el significado designado por un sufijo Taddhita, rigen su género según el sustantivo que determinan más estrechamente (en realidad son probablemente Bahuvrīhi)**
+**Los compuestos Dvigu a los que no se ha añadido ningún sufijo Taddhita, pero que tienen el significado designado por un sufijo Taddhita, rigen su género según el sustantivo que determinan más de cerca (en realidad son probablemente Bahuvrīhi)**
 :::
 Ejemplo:
 
@@ -442,14 +432,14 @@ Ejemplo:
 :::
 ## 52.7. Lista de palabras
 
-⟪अखिल⟫ 3: sin lagunas, completo
+⟪अखिल⟫ 3: sin lagunas, entero
 
 ⟪निखिल⟫ 3: completo, entero
 
 ::: indent
 de:
 
-⟪खिल⟫ m.: campo baldío, tierra yermo
+⟪खिल⟫ m.: campo de cultivo, tierra baldía
 :::
 ::: media
 ![](/images/lekt5210.webp)
@@ -457,14 +447,14 @@ Fig.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: dentro, en el interior ; posposición con Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): dentro, en medio ; posposición con Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): de ... hacia fuera
+⟪अन्तर्⟫ Adv.: dentro, en el interior ; posposición con Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): dentro de, en medio ; posposición con Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): de ... hacia fuera
 
 ⟪अन्योन्य⟫ 3: mutuamente, el uno al otro
 
 ⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fracasar
 
 ::: indent
-PPP ⟪विपरीत⟫ 3: invertido, incorrecto
+PPP ⟪विपरीत⟫ 3: al revés, incorrecto
 :::
 ⟪त्रि⟫ 3: tres
 
@@ -479,9 +469,9 @@ PPP ⟪विपरीत⟫ 3: invertido, incorrecto
 | **6. Genitivo:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. Locativo:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Posposición y prefijo en sustantivos y verbos: hacia fuera, lejos, hacia afuera, hacia fuera, de, lejos, sin - de
+⟪निस्⟫ Posposición y prefijo en nombres y verbos: hacia fuera, lejos, hacia afuera, hacia arriba, de, sin - de
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : presionar, atormentar ; acosar, sitiar, molestar
+⟪पीड्⟫ 10P ⟪पीडयति⟫ : presionar, atormentar ; apretar, sitiar, afligir
 
 ::: media
 ![](/images/lekt5212.webp)
@@ -489,21 +479,20 @@ Fig.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5212))
 :::
-⟪पर⟫ 3: (declinación como ⟪सर्व⟫) lejano, extranjero, más alto que (⟪पञ्चम्या⟫), extremo, más alto ; otro, extranjero, hostil ; m.: extranjero
+⟪पर⟫ 3: (declinación como ⟪सर्व⟫) lejano, extraño, más alto que (⟪पञ्चम्या⟫), extremo, supremo ; otro, extraño, hostil ; m.: extranjero
 
 ::: indent
-de eso:
+de ello:
 
-⟪परम्⟫ Adv.: en alto grado, sobre eso, más tarde, pero, sin embargo
+⟪परम्⟫ Adv.: en alto grado, sobre ello, más tarde, pero, sin embargo
 :::
-⟪प्रति⟫ Posposición (⟪द्वितीयया⟫): a - hacia, hacia, con respecto a, frente a
+⟪प्रति⟫ Posposición (⟪द्वितीयया⟫): hacia - hacia, a, con respecto a, frente a
 
-⟪प्रधान⟫ 3: principal, mejor; n.: lo más importante
+⟪प्रधान⟫ 3: principal, mejor ; n.: lo más importante
 
 ::: media
 ![](/images/lekt5213.webp)
-Fig.: ⟪प्रधानः⟫
-⟪मुंबई⟫
+Abb.: ⟪प्रधानः मुंबई⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5213))
 :::
 ⟪लौल्य⟫ n.: codicia, lujuria
@@ -511,7 +500,7 @@ Fig.: ⟪प्रधानः⟫
 ⟪वर्ग⟫ m.: sección, división, grupo
 
 ::: indent
-⟪त्रिवर्ग⟫ m.: trío (por ejemplo, ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫; o: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫; o: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
+⟪त्रिवर्ग⟫ m.: grupo de tres (por ejemplo, ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; o: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; o: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
 ⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : querer, ordenar, desear
 
@@ -524,21 +513,21 @@ PPP ⟪उशित⟫
 Inf. ⟪वशितुम्⟫
 Absol. -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : soplar, ventilar
+⟪वा⟫ 2P ⟪वाति⟫ : soplar, hacer viento
 
 ::: indent
 Perf IV ⟪ववौ⟫
 Fut. ⟪वास्यति⟫
 Pass. ⟪वायते⟫
 Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-de eso:
+de ello:
 
 ⟪वात⟫ m.: viento
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : girar, torcer; apartar, excluir
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : girar, voltear ; rechazar, excluir
 
 ::: indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
@@ -549,7 +538,7 @@ Kaus. PPP ⟪वर्जित⟫ : privado de algo, libre de
 PPP ⟪वृक्त⟫
 Inf. ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: actividad, conducta, trato, comercio, negocio, comercio, (judicial) proceso
+⟪व्यवहार⟫ m.: actividad, conducta, trato, comercio, asunto, negocio, (proceso judicial)
 
 ⟪शील⟫ n.: costumbre, hábito, naturaleza, carácter, buena costumbre = moral
 
@@ -566,29 +555,24 @@ PPP ⟪सेवित⟫
 Inf. ⟪सेवितुम्⟫
 Absol. -⟪सेव्य⟫
 
-de eso:
+de ello:
 
 ⟪सेवा⟫ f.: servicio, asistencia
 :::
 ⟪धीर⟫ 3: firme, constante, continuo, perseverante
 
-⟪शम्⟫ ⟪शाम्यति⟫
+⟪शम् शाम्यति⟫
 
 ::: indent
-⟪शशाम⟫, ⟪शेमुर्⟫
-⟪शमिष्यति⟫
-⟪शम्यते⟫
-⟪शमयति⟫
-⟪शान्त⟫
-⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
+⟪शशाम⟫, ⟪शेमुर् शमिष्यति शम्यते शमयति शान्त शमित्वा । शान्त्वा⟫
 :::
-⟪कोविद⟫ 3: experto en (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
+⟪कोविद⟫ 3: experto en (⟪षष्ठ्या सप्तम्या वा⟫)
 
-⟪याम⟫ m.: guardia nocturna (cada tres horas)
+⟪याम⟫ m.: guardia nocturna (cada una de tres horas)
 
 ⟪परंपरा⟫ f.: serie ininterrumpida
 
-⟪अमुत्र⟫ Adv.: allí, hacia allí
+⟪अमुत्र⟫ Adv.: allí, hacia allá
 
 ⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : moverse, desplazarse, caer
 
@@ -605,15 +589,15 @@ PPP ⟪च्युत⟫
 
 ::: media
 ![](/images/lekt5214.webp)
-Fig.: ⟪चक्रम्⟫
+Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: plátano (_Musa_ sp.)
+⟪कदली⟫ f.: banano (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
-Fig.: ⟪कदली⟫
+Abb.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5208))
 :::
@@ -629,21 +613,20 @@ Hampi = ಹಂಪೆ
 
 ::: media
 ![](/images/lekt5215.webp)
-Fig.: ⟪मलम्⟫
-⟪मुंबई⟫
+Abb.: ⟪मलम् मुंबई⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: cielo de Indra
+⟪त्रिपिष्टप⟫ n.: el cielo de Indra
 
 ⟪मार⟫ m.: el mal personificado, la seducción/manipulación personificada, diablo
 
 ::: media
 ![](/images/lekt5217.webp)
-Fig.:
-Amaravati = అమరావతి, s. II d. C.
+Abb.:
+Amaravati = అమరావతి, s. II d.C.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: alguien que quiere conocer completamente
+⟪विजिज्ञासु⟫ 3: alguien que quiere comprender completamente
 
 ⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : proteger, salvar
 
@@ -652,178 +635,77 @@ Perf. IV ⟪तत्रे⟫
 Fut. ⟪त्रास्यते⟫
 Pass. ⟪त्रायते⟫
 Kaus. ⟪त्रापयति⟫
-PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
+PPP ⟪त्राण । त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
 ## 52.8. Ejercicio de traducción
 
-⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
+⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
 ::: indent
-⟪यद्यत्परवशं⟫ ⟪कर्म⟫
-⟪ततद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫
-⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्⟫
-⟪ततत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥१५९॥⟫
-
-⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
-⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
-⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫:sig[⟪योः⟫] ⟪॥१६०॥⟫
-
-⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
-⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
-⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫
-⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
+⟪यद्यत्परवशं कर्म ततद्यत्नेन वर्जयेत् । यद्यदात्मवशं तु स्यात् ततत्सेवेत यत्नतः ॥१५९॥ सर्वं परवशं दुःखं सर्वमात्मवशं सुखम् । एतद्विद्यात्समासेन लक्षणं सुखदुःख⟫:sig[⟪योः⟫] ⟪॥१६०॥ यत्कर्म कुर्वतो ऽस्य स्यात् परितोषो ऽन्तरात्मनः । तत्प्रयत्नेन कुर्वीत विपरीतं तु वर्जयेत् ॥१६१॥⟫
 
 Explicación: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvandva)
 :::
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Sobre las fuentes del ⟪धर्म⟫
+⟪२⟫. ⟪मनुस्मृति २⟫, ⟪६⟫ Sobre las fuentes del ⟪धर्म⟫
 
 ::: indent
-⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫:sig[⟪ले⟫] ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
-⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
-⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
+⟪वेदो ऽखिलो धर्ममूलम् स्मृतिशी⟫:sig[⟪ले⟫] ⟪च तद्विदाम् । आचआरश्चैव साधूनाम् आत्मनस्तुष्टिरेव च ॥६॥⟫
 
-Explicación: ⟪स्मृतिशीले⟫ Nom.Acu.Dual.n. (Dualdvandva)
+Explicación: ⟪स्मृतिशीले⟫ Nom.Acc.Dual.n. (Dualdvandva)
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Sobre ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ en la vida del príncipe
+⟪३⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Sobre ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ en la vida del príncipe
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि⟫ ⟪धर्मका⟫:sig[⟪मावि⟫]⟪ति⟫ ⟪।७।⟫
+⟪एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्⟫, ⟪स्वप्नं लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं च व्यवहारम् ।२। धर्मार्थाविरोधेन कामं सेवेत⟫, ⟪न निःसुखः स्यात् ।३। समं वा त्रिवर्गमन्योन्यानुबद्धम् ।४। एको ह्यत्यासेवितो धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च पीदयति ।५। अर्थ एव प्रधान इति कौटिल्यः ।६। अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि धर्मका⟫:sig[⟪मावि⟫]⟪ति ।७।⟫
 
 ::: indent
 Explicaciones:
 
-⟪इतरौ⟫ Nom.Acu.Dual.m a ⟪इतर⟫ 3 "otro"
+⟪इतरौ⟫ Nom.Acc.Dual.m a ⟪इतर⟫ 3 "otro"
 
-⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Acu.Dual.m (⟪धर्मकामौ⟫ es Dualdvandva)
+⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Acc.Dual.m (⟪धर्मकामौ⟫ es Dualdvandva)
 :::
-⟪४⟫. ⟪अश्वघोष⟫ (siglo II d. C.): ⟪बुद्धचरित⟫ ⟪४⟫ la sabiduría liberadora de Buda
+⟪४⟫. ⟪अश्वघोष⟫ (siglo II d.C.): ⟪बुद्धचरित ४⟫ El conocimiento liberador de Buda
 
 ::: media
 ![](/images/lekt5216.webp)
-Fig.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
+Fig.: ⟪अश्वत्थो महाबोधिवृक्षः⟫
 _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5216))
 :::
 
 ::: indent
-⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
-⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
-⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫
-⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥१॥⟫
-
-⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫
-⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫
-⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪याम⟫
-⟪पूर्वजन्मपरंपराम्⟫ ⟪॥२॥⟫
-
-⟪अमुत्राहमयं⟫ ⟪नाम⟫
-⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫
-⟪इति⟫ ⟪जन्मसहस्राणि⟫
-⟪सस्मारानुभवन्निव⟫ ⟪॥३॥⟫
-
-⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫
-⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫
-⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यम्⟫
-⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥४॥⟫
-
-⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गम्⟫
-⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫
-⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयम्⟫
-⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥५॥⟫
-
-⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫
-⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫
-⟪कदलीगर्भनिःसारः⟫
-⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥६॥⟫
-
-⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫
-⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫
-⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫
-⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥७॥⟫
-
-⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫
-⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫
-⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫
-⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥८॥⟫
-
-⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫
-⟪निकृष्टोत्कृष्तकर्मणाम्⟫ ⟪।⟫
-⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫
-⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥९॥⟫
-
-⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫
-⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫
-⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫
-⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥१०॥⟫
+⟪ततो मारबलं जित्वा धैर्येण च शमेन च । परमार्थं विजिज्ञासुः स दद्ध्यौ ध्यानकोविदः ॥१॥ सर्वेषु ध्यानविधिषु प्राप्य चैश्वर्यमुत्तमम् । सस्मार प्रथमे याम पूर्वजन्मपरंपराम् ॥२॥ अमुत्राहमयं नाम च्युतस्तस्मादिहागतः । इति जन्मसहस्राणि सस्मारानुभवन्निव ॥३॥ स्मृत्वा जन्म च मृत्युं च तासु तासूपपत्तिषु । ततः सत्त्वेषु कारुण्यम् चकार करुणात्मकः ॥४॥ कृत्वेह स्वजनोत्सर्गम् पुनरन्यत्र च कृत्वा । अत्राणः खलु लोको ऽयम् परिभ्रमति चक्रवत् ॥५॥ इत्येवं स्मरतस्तस्य बभूव नियतात्मनः । कदलीगर्भनिःसारः संसार इति निश्चयः ॥६॥ द्वितीये त्वागते यामे सो ऽद्वितीयपराक्रमः । दिव्यं लेभे परं चक्षुः सर्वचक्षुष्मतां वरः ॥७॥ ततस्तेन स दिव्येन परिशुद्धेन चक्षुषा । ददर्श निखिलं लोकम् आदर्श इव निर्मले ॥८॥ सत्त्वानां पश्यतस्तस्य निकृष्टोत्कृष्तकर्मणाम् । प्रच्युतिं चोपपत्तिं च ववृधे करुणात्मता ॥९॥ इमे दुष्कृतकर्माणः प्राणिनो यान्ति दुर्गतिम् । इमे ऽन्ये शुभकर्माणः प्रतिष्ठन्ते त्रिविष्टपे ॥१०॥⟫
 :::
 ## 52.9. Tareas durante las vacaciones de semestre
 
-Con la Lección 52, se concluye el primer semestre (13 semanas × 4 horas de clase) del curso de sánscrito.
+Con la Lección 52, se concluye el primer semestre (13 semanas de 4 horas de clase cada una) del curso de sánscrito.
 
-Durante las vacaciones semestrales se deben cumplir las siguientes tareas:
+Durante las vacaciones de semestre, se deben cumplir las siguientes tareas:
 
-1.  Repaso de todo lo aprendido hasta ahora, especialmente:
-    1.  Memorización de los paradigmas de conjugación y declinación
-    2.  Vocabulario
-    3.  Formas de la raíz
-2.  Memorización de la mayor cantidad posible de versos y textos en prosa de la literatura clásica
-3.  Estudio de [Lección 53](lektion53.md)
-4.  Estudio de las hojas Bhg 1 - 11 (aún no en Internet)
-5.  Preparación de ⟪भगवद्गीता⟫ Cap. 1, aprendizaje de las palabras correspondientes en las listas de vocabulario (aún no en Internet)
-6.  Análisis métrico de todos los versos de ⟪भगवद्गीता⟫ ⟪१⟫  
-    Una buena impresión del texto en forma recitada se puede obtener en: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Acceso el 2009-01-19
-7.  Lectura de una narración de ⟪महाभारत⟫, por ejemplo:  
-    Mahābhārata : El gran épico de la India / traducido y resumido del sánscrito por Biren Roy. -- 10. ed. -- Múnich : Diederichs, 1995. -- 335 p. ; 19 cm. -- (Colección amarilla Diederichs ; 16 : India)
-8.  Estudio de:  
-    **Kunnappally, John:** Prakriyā bhāshyam : Gramática sánscrita / Originalmente escrito en malayalam. Traducido al inglés por K.V.R. Pai. -- Parathode : Autoed., 1983. -- 818 p. ; 23 cm. -- P. 208 - 254 (Gobierno sintáctico)
-9.  Completar el estudio de:  
-    **Basham, A. L. (Arthur Llewellyn) (1914–1986)**La maravilla que fue la IndiaParte: Un estudio de la cultura del subcontinente indio antes de la llegada de los musulmanes. -- Londres : Sidgwick & Jackson, 1954.
-10.  Comenzar el estudio de:  
-     **Winternitz, Moriz (1863–1937): Historia de la literatura india. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (aún la mejor historia de la literatura de las literaturas sánscrita, pali y prakrit)**
+1. Repaso de todo lo aprendido hasta ahora, especialmente:
+1. Memorización de los paradigmas conjugacionales y declinacionales
+2. Vocabulario
+3. Formas de la raíz (stambform)
+2. Memorización del mayor número posible de versos y textos en prosa de la literatura clásica
+3. Estudio completo de [Lección 53](lektion53.md)
+4. Estudio completo de las hojas Bhg 1 - 11 (aún no disponibles en Internet)
+5. Preparación de ⟪भगवद्गीता⟫ Cap. 1, aprendizaje del vocabulario correspondiente en las listas de palabras (aún no disponibles en Internet)
+6. Análisis métrico de todos los versos de ⟪भगवद्गीता १⟫  
+Una buena impresión del texto en forma recitada se puede obtener aquí: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Acceso el 2009-01-19
+7. Leer una narración adaptada de ⟪महाभारत⟫, por ejemplo:  
+Mahābhārata : El gran epopeya de la India / traducido del sánscrito y resumido por Biren Roy. -- 10ª ed. -- Múnich : Diederichs, 1995. -- 335 pág. ; 19 cm. -- (Colección amarilla Diederichs ; 16 : India)
+8. Estudio completo:  
+**Kunnappally, John:** Prakriyā bhāshyam : Gramática sánscrita / Originalmente escrito en malayalam. Traducido al inglés por K.V.R. Pai. -- Parathode : Autorpublicación, 1983. -- 818 pág. ; 23 cm. -- Págs. 208 - 254 (Gobierno sintáctico)
+9. Completar el estudio de:  
+**Basham, A. L. (Arthur Llewellyn) (1914–1986)** La maravilla que fue la India. Parte: Un estudio de la cultura del subcontinente indio antes de la llegada de los musulmanes. -- Londres : Sidgwick & Jackson, 1954.
+10. Comenzar el estudio de:  
+**Winternitz, Moriz (1863–1937):** Historia de la literatura india. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (aún la mejor historia de la literatura sobre los textos en sánscrito, pali y prácrito)
 
 ::: media
 ![](/images/lekt5201.webp)
-Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
+Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम मन्त्री⟫
 (Imagen: Payer)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5201))
-::: &lt;!-- TODO: Fallback translation --&gt;
-
-:::
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Fuente de la imagen: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Acceso el 2009-01-15. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt5203:** Figura Wayang, Java, Indonesia [Fuente de la imagen. Wikipedia. Dominio público]
-
-**lekt5204:** Cola de espera ante un templo, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം [Fuente de la imagen: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Acceso el 2009-01-15. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, sin uso comercial, compartir igual)]
-
-**lekt5209:** Tala de quema, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Fuente de la imagen: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Acceso el 2009-01-15. --  [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt5205:** [Fuente de la imagen: Wikipedia. Dominio público]
-
-**lekt5206:** El Siete Estrellas = las siete estrellas más brillantes de la Osa Mayor (Ursa maior) [Fuente de la imagen: Wikipedia, Licencia GNU FDL]
-
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Fuente de la imagen: Wikipedia. Dominio público]
-
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Fuente de la imagen: Dan Tunstall / Personal del Instituto de Recursos Mundiales. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Acceso el 2009-01-16. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
-
-**lekt5212:** Hyderabad = హైదరాబాద్ [Fuente de la imagen: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Acceso el 2009-01-16. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, uso no comercial, sin obras derivadas)]
-
-**lekt5213:** ⟪मुंबई⟫ [Fuente de la imagen: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Acceso el 2009-01-16. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribución, sin obras derivadas)]
-
-**lekt5214:** Konark = ⟪कोनार्क⟫ [Fuente de la imagen: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Acceso el 2009-01-16. --  [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, uso no comercial, sin obras derivadas)]
-
-**lekt5208:** Hampi = ಹಂಪೆ [Fuente de la imagen: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Acceso el 2009-01-15. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
-
-**lekt5215:** ⟪मुंबई⟫ [Fuente de la imagen: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Acceso el 2009-01-16. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
-
-**lekt5217:** Amaravati = అమరావతి, s. II d. C. [Fuente de la imagen. Wikipedia. Licencia GNU FDL]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810 [Fuente de la imagen: Wikipedia. Dominio público]
-
-**lekt5201:** (Imagen: Payer)
-
 :::
 

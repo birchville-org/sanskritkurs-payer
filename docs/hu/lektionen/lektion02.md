@@ -1,13 +1,14 @@
 ---
-title: Lektion 2
-subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
+title: "Lecke 2"
+subtitle: "A névszavas mondat és a ragozás alapjai"
 lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
---- <!-- TODO: Fallback translation -->
 
-# 2. lecke <!-- TODO: Fallback translation -->
+---
+
+# 2. lecke
 
 ## 2.1. A névszavas mondat
 
@@ -16,13 +17,13 @@ last_reconstructed: 2026-04-30
 
 pl. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = „Viṣṇu egy isten.”
 :::
-Egy ragozott igekötő („van”, „vagyok”, „te vagy”) nem szükséges, de néha előfordulhat. <!-- TODO: Fallback translation -->
+Egy ragozott igekötő („van”, „vagyok”, „te vagy”) nem szükséges, de néha előfordulhat.
 
 Nincsenek **cikkjeink**: **devaḥ** -- ⟪देवः⟫ jelentheti „az isten” vagy „egy isten”.
 
-Bár a szanszkritban az állítmány viszonylag szabad (különösen versekben), egy nominális mondat fordításakor mindig elsődlegesen a fenti standard sémának megfelelő fordítást kell figyelembe venni. <!-- TODO: Fallback translation -->
+Bár a szanszkritban az állítmány viszonylag szabad (különösen versekben), egy nominális mondat fordításakor mindig elsődlegesen a fenti standard sémának megfelelő fordítást kell figyelembe venni.
 
-A nominális mondatban az alany a nominatívuszban (első eset = **prathamā** f. = ⟪प्रथमा⟫) áll. A predikátumnév egyezik az alammal szám és eset szerint; ha a predikátumnév melléknév, nemben is. <!-- TODO: Fallback translation -->
+A nominális mondatban az alany a nominatívuszban (első eset = **prathamā** f. = ⟪प्रथमा⟫) áll. A predikátumnév egyezik az alammal szám és eset szerint; ha a predikátumnév melléknév, nemben is.
 
 ## 2.2. A deklinációról (a főnevek ragozása)
 
@@ -54,7 +55,7 @@ A szanszkat szótárakban a nevek **tőalakja** szerepel:
 ::: grammar-box
 **A nominativus singular végződése -s = -⟪स्⟫ vagy pedig végződés nélküli.**
 :::
-### 2.3.1. alanyeset (nominativus)us singular -s végződéssel <!-- TODO: Fallback translation -->
+### 2.3.1. alanyeset (nominativus)us singular -s végződéssel
 
 Az alábbi, magánhangzóra végződő névmástörzsek képezik a nominativus singulart **-s** végződéssel:
 
@@ -72,7 +73,7 @@ A szanszkritban egy szó végződése a következő szó kezdőhangjától is f�
 
 Lásd még az áttekintést:
 
-> **Payer, Alois (1944–):** A végződő -s szandhija. -- (Sanskrit anyagok). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm <!-- TODO: Fallback translation -->
+> **Payer, Alois (1944–):** A végződő -s szandhija. -- (Sanskrit anyagok). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Kiejtés végén álló **-s**:
 
@@ -103,7 +104,7 @@ Kiejtés végén álló **-s**:
 
 ## 2.5. Szószedet
 
-**deva** m. -- ⟪देव⟫ : Mennyi, Isten; Fejedelem, király. <!-- TODO: Fallback translation -->
+**deva** m. -- ⟪देव⟫ : Mennyi, Isten; Fejedelem, király.
 
 **īśvara** m. -- ⟪ईश्वर⟫ : Úr, uralkodó, Isten (monoteista).
 
@@ -116,7 +117,7 @@ Kiejtés végén álló **-s**:
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (szolgáltatási rend).
 
 ::: note-box Die vier Stände (varna)
-A klasszikus elmélet szerint (pl. Manusmṛti I, 88-91) a feladatok megoszlása: <!-- TODO: Fallback translation -->
+A klasszikus elmélet szerint (pl. Manusmṛti I, 88-91) a feladatok megoszlása:
 
 - **a bráhmanák**
   - Védatanulmányozás
@@ -170,7 +171,7 @@ b) rendi különmonopóliumokat tart fenn.
 Rendek keletkezhetnek
 a) elsődlegesen, saját rendi életvitel révén, különösen a **foglalkozás** (**életviteli vagy foglalkozási rendek**) módja révén,
 b) másodlagosan, öröklött karizmával, sikeres presztízsigények révén a rendi **származás** (**születési rendek**) erejéből,
-c) a politikai vagy hierokratikus uralkodói hatalmak rendi **birtokba vételével** monopóliumként (**politikai vagy hierokratikus rendek**). <!-- TODO: Fallback translation -->
+c) a politikai vagy hierokratikus uralkodói hatalmak rendi **birtokba vételével** monopóliumként (**politikai vagy hierokratikus rendek**).
 
 A születési státus szerinti fejlődés rendszerint egy (öröklött) privilégiumok apropriálási formája, amely egy társadalmi csoporthoz vagy kvalifikált egyénekhöz kapcsolódik. Minden szilárd esélyek apropriálása, különösen [az] uralkodói [hatalom vagy megélhetési] esélyek, hajlamos a státusok kialakulására. Minden státusképződés hajlamos az uralkodói hatalmak és megélhetési esélyek monopolisztikus apropriálására vezetni.
 
@@ -182,11 +183,11 @@ Minden státusbeli társadalom konvencionális, az életvitel szabályai szerint
 
 [**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-A varṇák ennek megfelelően születési rendek. <!-- TODO: Fallback translation -->
+A varṇák ennek megfelelően születési rendek.
 
 **kavi** m. -- ⟪कवि⟫ : költő.
 
-**agni** m. -- ⟪अग्नि⟫ : tűz, Agni isten. <!-- TODO: Fallback translation -->
+**agni** m. -- ⟪अग्नि⟫ : tűz, Agni isten.
 
 ::: media
 ![](/images/lekt0203.jpg)
@@ -204,7 +205,7 @@ A varṇák ennek megfelelően születési rendek. <!-- TODO: Fallback translati
 :::
 **guru** 3 -- ⟪गुरु⟫ : nehéz, jelentős, tiszteletre méltó
 
-**guru** m. -- ⟪गुरु⟫ : tiszteletre méltó személy: apa, anya, idősebb rokon, különösen tanár, mester <!-- TODO: Fallback translation -->
+**guru** m. -- ⟪गुरु⟫ : tiszteletre méltó személy: apa, anya, idősebb rokon, különösen tanár, mester
 
 ## 2.6. Gyakorlat
 
@@ -234,4 +235,3 @@ A varṇák ennek megfelelően születési rendek. <!-- TODO: Fallback translati
 7. A kétszer született brahmana.
 8. A szent ember tanár.
 9. A tanár szent ember.
- <!-- TODO: Fallback translation -->

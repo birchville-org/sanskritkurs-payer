@@ -36,7 +36,7 @@ Scurcimea este ornamentul gramaticianului.
 Fig.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung083))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Traduceri în sanscrită (Imperativ)
 
@@ -49,7 +49,7 @@ După ce ai avut un fiu, părăsește familia!
 Descendenții lui Puru, temeți-vă de cei care au făcut rău!
 
 ⟪३⟫. **⟪कन्या⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪ददतु⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Fetele trebuie să dea mâncare cerșetorilor. <!-- TODO: Fallback translation -->
+Fetele trebuie să dea mâncare cerșetorilor.
 
 ⟪४⟫. **⟪ब्रवाम⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (Sau: **⟪वचाम⟫ ⟪॥⟫**)
 Vrem să vorbim.
@@ -112,9 +112,9 @@ Soții trebuie să-și întrețină soțiile.
 Fig.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 (Sursa imaginii: [Detalii](/licenses#uebung076))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Dharma-ul femeilor (⟪स्त्रीधर्मः⟫) <!-- TODO: Fallback translation -->
+## Dharma-ul femeilor (⟪स्त्रीधर्मः⟫)
 
 Din **⟪मनुस्मृति⟫ ⟪९⟫**:
 
@@ -124,7 +124,7 @@ Bărbații trebuie să își facă femeile dependente de ei zi și noapte. Femei
 
 **⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमारे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫**  
 **⟪रक्षन्ति⟫ ⟪स्थाविरे⟫ ⟪पुत्रा⟫ ⟪न⟫ ⟪स्त्री⟫ ⟪स्वातन्त्र्यमर्हति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-Tatăl le ocrotește în copilărie, soțul în tinerețe, iar fiii le ocrotește în bătrânețe; o femeie nu este potrivită pentru independență. <!-- TODO: Fallback translation -->
+Tatăl le ocrotește în copilărie, soțul în tinerețe, iar fiii le ocrotește în bătrânețe; o femeie nu este potrivită pentru independență.
 
 **⟪काले⟫ ⟪ऽदाता⟫ ⟪पिता⟫ ⟪वाच्यो⟫ ⟪वाच्यश्चानुपनयन्पतिः⟫ ⟪।⟫**  
 **⟪मृते⟫ ⟪भर्तरि⟫ ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**  

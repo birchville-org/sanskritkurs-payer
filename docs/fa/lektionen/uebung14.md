@@ -15,7 +15,7 @@ last_reconstructed: 2026-05-15
 فرد پست سخن نمی‌گوید و عمل نمی‌کند، اما فرد نیک سخنی نمی‌گوید بلکه عمل می‌نماید.
 
 ⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫  
-Tugend ist des Menschen Schmuck. <!-- TODO: Fallback translation -->
+Tugend ist des Menschen Schmuck.
 
 ⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫  
 از طریق حقیقت، به مردم خوشبختی می‌رسد.
@@ -24,7 +24,7 @@ Tugend ist des Menschen Schmuck. <!-- TODO: Fallback translation -->
 مردم بد به بهشت نمی‌روند.
 
 ⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫  
-Wahrheit ist das Licht der Welt. <!-- TODO: Fallback translation -->
+Wahrheit ist das Licht der Welt.
 
 الف) جنسیت و معنای واژه‌های زیر را مشخص کنید و سپس حالت مضاف‌الیه مفرد و جمع آن‌ها را بسازید:
 
@@ -170,7 +170,7 @@ B) Übersetzen Sie:
 پسر این کودک کیست؟
 
 ⟪१२⟫. ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-Wem gehören diese Häuser? <!-- TODO: Fallback translation -->
+Wem gehören diese Häuser?
 
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 این ریش‌تندهٔ ودایی، غذای چه کسی را قربانی کرده است؟

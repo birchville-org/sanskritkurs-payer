@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # Lecziun 8
 
-::: deleteme-box
-**En questa lecziun avais da aprender:**
-- La furmaziun da sustantivs (sufixs kṛt- e taddhita-)
-- Sufixs nominalis impurtants (-a, -ana, -tra, -ti, -tva, -tā)
-- La 8. classa da present (tanādi)
-- La coniugaziun da **kṛ** (tun, far)
-:::
 
 ## 8.1. La furmaziun da nomina
 
@@ -29,14 +22,14 @@ En la grammatica indiana tradicionala, distinguescha si cun ils suffiss, cun ils
 **Radix + kṛt-suffix » stam da nomina + suffix taddhita » nov stam da nomina**
 
 **Nominalstamm + Kasusendung » syntaxfähiges Nomen**
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
-## 8.2. Einteilung der Nominalsuffixe <!-- TODO: Fallback translation -->
+## 8.2. Einteilung der Nominalsuffixe
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
   - **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (designan in chel che fa quai ch'è designà per la radis)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (designan l'acziun exprimida per la radis) u abstracta <!-- TODO: Fallback translation -->
+  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (designan l'acziun exprimida per la radis) u abstracta
 
 - **taddhita**
   - **viśeṣyataddhita** (⟪⟪विशेष्यतद्धित⟫⟫) » Adjectivs
@@ -50,11 +43,11 @@ En la grammatica indiana tradicionala, distinguescha si cun ils suffiss, cun ils
 **Einteilung nach dem Ablaut:**
 - **guṇya** (⟪गुण्य⟫): alta furma
 - **na guṇya** (⟪न⟫ ⟪गुण्य⟫): bassa furma
-- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): lungida furma <!-- TODO: Fallback translation -->
+- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): lungida furma
 
-## 8.3. Einige wichtige Nominalsuffixe <!-- TODO: Fallback translation -->
+## 8.3. Einige wichtige Nominalsuffixe
 
-### 8.3.1. -a m. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
 **Il sufix kṛt -a furma sustantivs mascuins (raramei neutrals) che designeschan in’acziun u in stadi, ch’è designà per la radis; a maun vegnan era adina agiectivs u sustantivs, che exprimeschan l’agens (kartṛ) da l’acziun designada per la radis verbala. Per la penultima curta (= vocal davant consonanta, sin la quala la radis finischa) u per ina vocala da radis finala vegn per ordinari substituida la grada auta (guṇa) u la grada da lungida (vṛddhi).**
@@ -72,9 +65,9 @@ En la grammatica indiana tradicionala, distinguescha si cun ils suffiss, cun ils
 | **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum sandhi da las paraulas j » g siehe später) |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" | <!-- TODO: Fallback translation -->
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
 
-### 8.3.2. -ana n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
 **Il sufix kṛt -ana furma per ordinari sustantivs neutrals, che designeschan in’acziun, in stadi u il mez u l’ustensil, tras il qual l’acziun designada da la radischa u d’in stem verbal vegn realisa. Per ina penultima curta u per ina vocala finala da la radischa vegn per ordinari substituida la grada auta (guṇa).**
@@ -88,13 +81,13 @@ En la grammatica indiana tradicionala, distinguescha si cun ils suffiss, cun ils
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
 | **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
 | **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" | <!-- TODO: Fallback translation -->
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
 Abb.: Maa Batakali Darshan, Puri, Orissa
 (Bildquelle: [Details](/rm/licenses#lekt0801))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: note-box
@@ -104,7 +97,7 @@ I Hindus devots van al temple per cuntanscher la visida da Dieu tras in simbol u
 (Sursa: Wikipedia)
 :::
 
-### 8.3.3. -tra n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
 **Il suffixe kṛt -tra cumpiglia (per la maiur part) sustantivs neutrals, che designeschan il mez u l'instrument, tras il qual l'acziun designada da la radischa vegn realisada. La penultima curta e la vocala finala da la radischa vegnan remplazzadas cun il guṇa (grad elevà).**
@@ -117,7 +110,7 @@ I Hindus devots van al temple per cuntanscher la visida da Dieu tras in simbol u
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" | <!-- TODO: Fallback translation -->
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
 
 ::: media
 **Il Mantra primordial Oṃ (⟪ॐ⟫) en diversas escrituras indias**
@@ -132,7 +125,7 @@ I Hindus devots van al temple per cuntanscher la visida da Dieu tras in simbol u
 (fontas d'imaginas: [detagls](/rm/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti f. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
 **Il suffixe kṛt -ti cunstituescha sustantivs femins, che expriman en general l'acziun designada da la radischa u il stadi designà da la radischa. La furma da la radischa è profundida.**
@@ -147,7 +140,7 @@ I Hindus devots van al temple per cuntanscher la visida da Dieu tras in simbol u
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) | <!-- TODO: Fallback translation -->
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
 
 *Nota: \* davant d’ina furma munta, che questa furma n’è betg preschenta en il sanscrit, mabain è deducida teoricamain sco presupposiziun per ina certa furmaziun. Il grad bass da **gam** è gṃ = \*gm, il m vegn sustitui dal cunsegl da la nasalis sonanta per **a** » **ga. Analog vala per **man** » **ma**.
 
@@ -162,7 +155,7 @@ I Hindus devots van al temple per cuntanscher la visida da Dieu tras in simbol u
 | :--- | :--- | :--- | :--- |
 | **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen ni Natur eines Lehrers)" |
 | **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" | <!-- TODO: Fallback translation -->
+| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
 
 Questas furmaziun pon vegnir formadas praticamente a mintga sustantiv e èn fitg cuminaidas en ovras scientificas sanscrite.
 
@@ -183,7 +176,7 @@ Esempel **tan** 8 U (⟪तन्⟫) "stender":
 - 3\. pl. Ā. **tanvate**
 ⟪तन्वते⟫
 :::
-Notaziun: Per il debat, sche **tan** è en realitad ina radis da la 5. classa (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265. <!-- TODO: Fallback translation -->
+Notaziun: Per il debat, sche **tan** è en realitad ina radis da la 5. classa (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
 La radiz principala da la 8. classa è **kṛ** 8 U (⟪कृ⟫) "far, far". La súa conjugaziun è irregulara:
 
@@ -265,7 +258,7 @@ Fig.: **likh** (⟪लिख्⟫) : stgiet da scriver dals Batak (Sumatra), pr
 25. nartana
 26. jaya
 27. nayana
-28. śravaṇa <!-- TODO: Fallback translation -->
+28. śravaṇa
 
 **B) Formai abstracts a tut las sustantivs fin ussa emprendids e medita sias significaziuns (oralmain).**
 

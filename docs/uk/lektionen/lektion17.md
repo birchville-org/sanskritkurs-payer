@@ -1,11 +1,12 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "Урок 17"
+subtitle: "Другий клас теперішнього часу (⟪अदादि⟫ = ⟪अद्⟫ тощо)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+
+--- &lt;!--  -→
 
 # Урок 17
 
@@ -81,7 +82,7 @@ status: stable
 | 3\. sg. теп. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. теп. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. теп. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. теп. Ā | ⟪दुहते⟫ (duh-ate) | &lt;!-- TODO: Fallback translation --&gt;
+| 3\. pl. теп. Ā | ⟪दुहते⟫ (duh-ate) | &lt;!--  -→
 
 :::
 ⟪हन्⟫ 2 P "бити, вбивати, вбивати"
@@ -149,7 +150,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) | &lt;!-- TODO: Fallback translation --&gt;
+| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) | &lt;!--  -→
 
 :::
 Деякі інші корені другого класу також не мають чергування основи:
@@ -163,7 +164,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) | &lt;!-- TODO: Fallback translation --&gt;
+| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) | &lt;!--  -→
 
 :::
 ⟪आस्⟫ 2 Ā "сидіти"
@@ -173,7 +174,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) | &lt;!-- TODO: Fallback translation --&gt;
+| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) | &lt;!--  -→
 
 :::
 ⟪वच्⟫ 2 P "казати"
@@ -183,7 +184,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | не зустрічається | &lt;!-- TODO: Fallback translation --&gt;
+| 3\. pl. Präs. P | не зустрічається | &lt;!--  -→
 
 :::
 ## 17.5. Двоскладні корені на -i/-ī з чергуванням основи
@@ -204,7 +205,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) | &lt;!-- TODO: Fallback translation --&gt;
+| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) | &lt;!--  -→
 
 :::
 ⟪ब्रू⟫ 2 U "говорити"
@@ -230,7 +231,7 @@ status: stable
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | &lt;!-- TODO: Fallback translation --&gt;
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | &lt;!--  -→
 
 :::
 ## 17.6. Словник
@@ -410,12 +411,4 @@ B) Утворіть у реченнях, сформованих у частин�
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
-::: deleteme-box
-
-**lekt1701:** [Джерело зображення: від tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без змін)]
-
-**lekt1702:** [Джерело зображення: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без комерційного використання, поділитися на тих самих умовах)]
-
-**lekt1703:** Бангалор = ಬೆಂಗಳೂರು [Джерело зображення: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без комерційного використання)]
-:::
- &lt;!-- TODO: Fallback translation --&gt;
+ &lt;!--  -→

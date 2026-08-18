@@ -2,10 +2,6 @@
 oorsig: 2
 ---
 
-::: deleteme-box
-**Zitierweise & Rechte**
-
-:::
 # Woordelys (Gesamtübersicht)
 
 *Alle neuen Wörter aus dem Kurs in der Reihenfolge ihrer Einführung, mit thematischen Erläuterungen.*
@@ -3050,11 +3046,6 @@ Abb.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (zu ⟪सम्⟫-⟪हन्⟫ : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
 
-::: deleteme-box
-s. dazu:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
 ⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
@@ -3064,11 +3055,6 @@ s. dazu:
 ::: indent
 PPP ⟪अतीत⟫ : n. Vergangenheit
 :::
-::: deleteme-box
-s. dazu:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
 ⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
@@ -3077,11 +3063,6 @@ s. dazu:
 
 ::: indent
 PPP ⟪अतीत⟫ : n. Vergangenheit
-:::
-::: deleteme-box
-s. dazu:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
@@ -3488,30 +3469,15 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Siehe:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Bildquelle: [Details](/licenses#lekt4408))
 :::
-::: deleteme-box
-Siehe:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Bildquelle: [Details](/licenses#lekt4408))
-:::
-::: deleteme-box
-Siehe:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -4972,5 +4938,4 @@ Inf. ⟪त्रातुम्⟫
 **lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Bildquelle: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
 
 **lekt5217**: Māras Angriff auf Buddha Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense]
-
 

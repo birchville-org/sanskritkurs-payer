@@ -58,7 +58,7 @@ Abb.: ⟪गायी⟫
 (Bildquelle: [Details](/licenses#uebung078))
 ::::
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## ⟪बाण⟫ (⟪७⟫. Jhdt. n. Chr.): ⟪कादम्बरी⟫
 

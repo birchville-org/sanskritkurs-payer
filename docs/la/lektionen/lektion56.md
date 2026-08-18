@@ -22,7 +22,7 @@ status: stable
 
 **-ā finale -ā (für -e) fällt ab.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
 ⟪श्रि⟫ 1U "adire, inniti"
 
@@ -210,7 +210,7 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 Abb.: ⟪अलं⟫  ⟪विषादेन⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
+## 56.4. ⟪स्म⟫
 
 ::: grammar-box
 **⟪स्म⟫ eminet: "vere, quidem, certe, ipsum"**
@@ -308,12 +308,3 @@ A) Determinate et vertite sine auxiliis (!) sequentes formas:
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** Professor de Linguistica Comparata, Universitas Erlangensis-Norimbergensis (1955 - 1983) [Fons imaginis: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Accessus die 2009-02-27]
-
-**lekt5602:** Tabula (Ernesto Che Guevara) partis politicae in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Versio libera eorum quae in ea scripta sunt: Martyrium fascinans experientia est pro revolutionario. Et remedium terribile pro audaci. Che non est exemplum timidorum." [Fons imaginis: Hari\_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Accessus die 2009-02-27. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, share alike)]
-
-**lekt5603:** [Fons imaginis: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Accessus die 2009-02-27. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla operis mutatio)]
-
-:::

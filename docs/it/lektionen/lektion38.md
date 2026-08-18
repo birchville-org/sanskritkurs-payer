@@ -47,7 +47,7 @@ I nomi in **-an** nonché i nomi **-man** o **-van** dopo vocale hanno tre stemm
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Tema** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. du. m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
 | **Mittlerer Schwacher Tema** | **-a**:br(da -*n) | **-ma**:br(da -*mn) | **-va**:br(da -*vn) | Übrige Kasus vor konsonantisch anlautender Desinenza:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Desinenza | &lt;!-- TODO: Fallback translation --&gt;
+| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Desinenza | &lt;!--  --&gt;
 
 **Le desinenze sono regolari. Il Nominativoooooo Singolare m. f. si forma senza -n finale.**
 :::
@@ -569,7 +569,7 @@ Spiegazioni:
 
 :sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Destesiderativo per ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "voler conoscere, voler sapere"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. per ⟪नवन्⟫ "nove" &lt;!-- TODO: Fallback translation --&gt;
+⟪नव⟫ Nom.Akk.pl.m.f.n. per ⟪नवन्⟫ "nove" &lt;!--  --&gt;
 
 :sig[⟪वयम्⟫] Nom.pl. "noi"
 
@@ -587,20 +587,3 @@ Spiegazioni:
 
 ⟪युष्माकम्⟫ Gen.pl. per :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Imm.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ Bangalore = ಬೆಂಗಳೂರು \[Fonte dell'immagine: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Accesso il 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale)\]
-- **lekt3802.jpg**: Imm.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Fonte dell'immagine: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Accesso il 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale)\]
-- **lekt3803.jpg**: Imm.: ⟪सीमा⟫  Valico di frontiera tra India e Pakistan a Wagah (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Fonte dell'immagine: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Accesso il 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
-- **lekt3804.jpg**: Imm.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, 2./3. sec. d.C. \[Fonte dell'immagine: Wikipedia. Dominio pubblico\]
-- **lekt3805.jpg**: Imm.: ⟪उदकम्⟫  villaggio di Darewadi, Distretto di Ahmed Nagar = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Fonte dell'immagine: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
-- **lekt3806.jpg**: Imm.: ⟪हस्ती⟫  Parco Nazionale di Nagarhole = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Fonte dell'immagine: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Accesso il 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
-- **lekt3807.jpg**: Imm.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Fonte dell'immagine: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, nessuna modifica)\]
-- **lekt3808.jpg**: Imm.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  Anni '30 \[Fonte dell'immagine: Wikipedia. Dominio pubblico\]
-- **lekt3809.jpg**: Imm.: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Fonte dell'immagine: Wikipedia. Licenza GNU FDL\]
-- **lekt3810.jpg**: Imm.: Albero di Ashoka = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Fonte dell'immagine: J.M.Garg / Wikipedia. Licenza GNU FDL\]
-- **lekt3811.jpg**: Imm.: Massima estensione dell'Impero di Aśoka nonché luoghi di ritrovamento dei suoi editti rupestri e delle sue colonne \[Fonte dell'immagine: Wikipedia.Licenza GNU FDL\]
-- **lekt3812.jpg**: Imm.: ⟪विनोदः⟫  Gioco del Carrom \[Fonte dell'immagine: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, share alike)\]
-- **lekt3813.jpg**: Imm.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Fonte dell'immagine: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale)\]
-- **lekt3814.jpg**: Imm.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Fonte dell'immagine: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Accesso il 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licenza Creative Commons (Attribuzione, non commerciale, nessuna modifica)\]
-:::

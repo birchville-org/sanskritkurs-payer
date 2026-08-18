@@ -5,11 +5,11 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 24
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") <!-- TODO: Fallback translation -->
+## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
 
 ::: grammar-box
 **1. Ut finem vel intentionem ("ut" cum infinitivo) actionis exprimatur, potest nomen cum suffixo kṛt, quod actionem vel statum designat, in dativo (⟪चतुर्थी⟫ = "quarta casus desinentia") adhiberi.**
@@ -218,7 +218,7 @@ A ⟪वृत्⟫:
 :::
 ⟪अभि⟫ Praepositio:  be-, post - huc, ad - huc, contra, in - intro, in respectu ad, super, apud
 
-⟪नि⟫ Praeverbium: deorsum, sursum, introrsum, retrorsum <!-- TODO: Fallback translation -->
+⟪नि⟫ Praeverbium: deorsum, sursum, introrsum, retrorsum
 
 ⟪आ⟫ Praepositio / Postpositio: ante Ablativum vel post Accusativum: usque ad, usque ad; cum Ablativo: a, ab, a tempore
 
@@ -295,7 +295,7 @@ Codex ⟪गीतगोविन्द⟫, anno 1730 p. Chr.
 
 ⟪तृण⟫ n.: grashalm
 
-⟪पुनर्⟫ Adverb: iterum, rursus, retro, sed <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ Adverb: iterum, rursus, retro, sed
 
 ## 24.5. Exercitium
 
@@ -353,9 +353,9 @@ B) Versa et solvite composita in Sanscrito:
 
 C) Reddite sententias A) 1-4 in Sanskrit, ut pro infinitivis dativis (⟪तुमुन्⟫) ponatis. Notate, quod infinitivus eundem casum regat ac verbum correspondens.
 
-D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -⟪अर्थ⟫ durch einen gleichwertigen Dativ. <!-- TODO: Fallback translation -->
+D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -⟪अर्थ⟫ durch einen gleichwertigen Dativ.
 
-E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -⟪अर्थ⟫ <!-- TODO: Fallback translation -->
+E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -⟪अर्थ⟫
 
 ## 24.6. Exercitationes de usu Dativi
 
@@ -405,27 +405,3 @@ Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 15⟪१५⟫. Vale! (Neusanskrit: ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] est festum Hindu traditionale, quod in celebrationibus Novi Anni Hindu apud omnes mandirs BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] celebratur. Centena ientacula vegetariana Bhagwan Swaminarayan [સ્વામિનારાયણ] in hoc die offeruntur. [Fons imaginis: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Accessus die 2008-12-14. -- Licentia Creative Commons (Attributio, usus non commercialis)]
-
-**lekt2402:** Raksha bandhan per omnia India cum studio et gaudio celebratur. Hoc festum amorem inter fratres et sorores sine conditione repraesentat. [Imaginis auctor: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Accessus die 2008-12-14. -- Licentia Creative Commons (Attributio, usus non commercialis, share alike)]
-
-**lekt2403:** "Rāma (ad sinistram partem) in humeris Hanumānī sedens, cum demonum rege Rāvaṇā pugnat." circa 1820 [Fontes imaginis: Wikipedia, Dominium publicum]
-
-**lekt2404:** [Imago auctoris: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Accessus die 2008-12-14. -- Licentia Creative Commons (Attributio, nulla modificatione)]
-
-**lekt2405:** [Imago a sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Accessus 2008-12-14. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla modificatio)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Fontes imaginis: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Accessus die 2008-12-14. -- Licentia Creative Commons (Attributio, usus non-commercialis)]
-
-**lekt2407:** "NOVUM DELHI/INDIA, 16NOV08 - Suhasini Haidar, Vicina Editor de Rebus Exterioribus, Retis CNN-IBN 18, India, moderat disputationem de consilio in Summo Economico Indiae Foederis Economici Mundani 2008 in Novo Delho." [Fons imaginis: Forum Economicum Mundanum / Imago a Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Accessus die 2008-12-14. -- Licentia Creative Commons (Attributio, simile)]
-
-**lekt2408:** "Narrans Jeff Byers, San Franciscoe, narrat cum incolis Chenneri, vico Irulae. Narrator Jeeva Raghunath in Tamilicum vertit pro incolis." [Fontes imaginis: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Accessus 2008-12-14. -- Licentia Creative Commons (Attributio, usus non commercialis)]
-
-**lekt2409:** [Imago fontis: Redtigerxyz / Wikipedia, Licentia Publica GNU FD] <!-- TODO: Fallback translation -->
-
-**lekt2410:** ⟪नरसिंह⟫ dilacerat ⟪हिरण्यकशिपु⟫, folium e codice ⟪भागवतपुराण⟫ [fons imaginis: Wikipedia, dominio publico]
-
-**lekt2411:** Manuscriptum ⟪गीतगोविन्द⟫, anno 1730 p.C. [Fons imaginis: Wikipedia, dominio publico]
-:::

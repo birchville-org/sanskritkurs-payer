@@ -307,15 +307,3 @@ B) ይተርጉሙ፡
 
 ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-::: deleteme-box
-
-**lekt2101:** ⟪सती⟫-የመታሰቢያ ሐውልት በጆድፑር ቤተ መንግሥት ውስጥ - ⟪जोधपुर⟫ / ራጃስታን - ⟪राजस्थान⟫ [የምስል ምንጭ: ፍሊካ / ዊኪፔዲያ. GNU FDLicense]
-
-**lekt2102:** "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva". [የምስል ምንጭ: PHGCOM / ዊኪፔዲያ. GNU FDLicense]
-
-**lekt2103:** ⟪भगवान्कृष्णः⟫ እንደ ⟪जगन्नाथ⟫ (በቀኝ) ከግማሽ እህቱ ⟪सुभद्रा⟫ (በመሃል) እና ከታላቅ ወንድሙ ⟪बलराम⟫ ጋር, ኦሪሳ = ଓଡ଼ିଶ⟪ा⟫ [የምስል ምንጭ: ሱጂትኩማር / ዊኪፔዲያ. GNU FDLicense]
-
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาว [የምስል ምንጭ: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- የታየበት ቀን 2008-12-12. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ አጠቃቀም)]
-
-**lekt2105:** ⟪भगवद्गीता⟫ - የብራና ጽሑፍ፣ 19ኛው ክፍለ ዘመን [የምስል ምንጭ፦ ዊኪፒዲያ፣ የሕዝብ ንብረት]
-:::

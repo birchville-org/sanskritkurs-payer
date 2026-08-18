@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecziun 50
 
@@ -60,7 +60,7 @@ Ezempels:
 
 ⟪उद्⟫ Indekl. "sün", "sür" » ⟪उत्तर⟫ 3 "plü" » ⟪उत्तम⟫ 3 "sürmaun"
 :::
-**Quai che questis suffigens sajan adina en la furma adverbiala:** <!-- TODO: Fallback translation -->
+**Quai che questis suffigens sajan adina en la furma adverbiala:**
 
 * **-⟪तराम्⟫**
 * **-⟪तमाम्⟫**
@@ -93,7 +93,7 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 
 ⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : disprezzar, menprezzar
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister <!-- TODO: Fallback translation -->
+⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
 
 ::: media
 ![](/images/lekt5001.jpg)
@@ -152,7 +152,7 @@ Arrivada dal monsun, Bangalore  ಬೆಂಗಳೂರು
 Imm.: ⟪आदित्यः⟫
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: mintgin, tut <!-- TODO: Fallback translation -->
+⟪सर्व⟫ 3: mintgin, tut
 
 Declinaziun sco ⟪यद्⟫ (eccepziun: Nom.Akk.sg.Neutrum)
 
@@ -189,7 +189,7 @@ Imm.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : vesair <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : vesair
 
 ::: indent
 Perf. ⟪चचक्षे⟫
@@ -290,24 +290,5 @@ Explicaziun:
 
 Explicaziuns:
 ⟪निषेकादीनि⟫ : Nom.Akk.pl.Neuterum
-:::
-::: deleteme-box
-
-**lekt5007:** Abb.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [sursa d’imagin: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Access il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (attribuziun)]
-
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [fontana da l'immagina: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Access il 2009-01-12. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (attribuziun, nagina utilizaziun commerziala, nagina modificaziun)]
-
-**lekt5001:** Kapil Sibal (1948 -), minister federal en il Departament da scienza e tecnologia ed il Departament da sientas da la terra (dapi il 2006) [sursainta da l’imagina: Forum Economic Mondial. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Access il 2009-01-12. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (numnament, share alike)]
-
-**lekt5002:** Arrivada dal monsun, Bangalore ಬೆಂಗಳೂರು [fonte da l’imagines: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- consultà il 2009-01-12. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (numinaziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-
-**lekt5005:** [Quella da l’imagines: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Access il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (numin, share alike)]
-
-**lekt5003:** [Fonte da l'imagine: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Access il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nominaziun, nagina utilizaziun cummerciala, nagina lavuraziun)]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [sursa d’imaginas: Kounosu / Wikipedia. Licenza GNU FD]
-
-**lekt5008:** Ganeshpuri, a 80 km da Mumbai (⟪मुंबई⟫) [surs d’imagia: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- accedi il 2009-01-13. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (attribuziun, nagina utilizaziun commerziala, cun medemas condiziuns)]
-
 :::
 

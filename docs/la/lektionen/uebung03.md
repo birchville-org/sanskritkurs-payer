@@ -153,7 +153,7 @@ guravaḥ kavayaḥ.
 
 ⟪गुरवः⟫ ⟪कवयः⟫
 
-6\. Kṣatriyas bis nati sunt. <!-- TODO: Fallback translation -->
+6\. Kṣatriyas bis nati sunt.
 
 dvijāḥ kṣatriyāḥ.
 

@@ -309,13 +309,7 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
         sys.stdout.flush()
         return
 
-    if force:
-        session_start = get_force_session_start_time(lang, init_if_missing=True)
-        if os.path.exists(target_path) and tgt_mtime >= session_start:
-            sys.stdout.write(f"[{lang}] Skipping {filename} (already completed in current force session)\n")
-            sys.stdout.flush()
-            return
-    elif os.path.exists(target_path) and tgt_mtime >= src_mtime:
+    if os.path.exists(target_path) and tgt_mtime >= src_mtime:
         try:
             from translation_qa import is_file_fallback
             is_fb, reason = is_file_fallback(target_path, lang)
@@ -323,9 +317,17 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
                 sys.stdout.write(f"[{lang}] Skipping {filename} (up to date & clean)\n")
                 sys.stdout.flush()
                 return True
-            else:
-                sys.stdout.write(f"[{lang}] Queue Item: {filename} has residues/fallbacks ({reason}). Re-translating...\n")
+            
+            if not force:
+                sys.stdout.write(f"[{lang}] Skipping {filename} (already translated but has residues/fallbacks: {reason}). Needs manual fix or --force.\n")
                 sys.stdout.flush()
+                return True
+            else:
+                session_start = get_force_session_start_time(lang, init_if_missing=True)
+                if tgt_mtime >= session_start:
+                    sys.stdout.write(f"[{lang}] Skipping {filename} (already retried in current force session)\n")
+                    sys.stdout.flush()
+                    return
         except Exception:
             pass
 

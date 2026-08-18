@@ -1,6 +1,6 @@
 # Índice de Conteúdo
 
-## [Lektion 1](lektion01) <!-- TODO: Fallback translation -->
+## [Lektion 1](lektion01)
 
 *   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Veneração de Gaṇeśa
 *   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Início Auspicioso"
@@ -9,7 +9,7 @@
 *   2.1. Sobre a pronúncia de sons individuais
 *   3\. Exercício
 
-## [Lektion 2](lektion02) <!-- TODO: Fallback translation -->
+## [Lektion 2](lektion02)
 
 *   1. A oração nominal
 *   2. Sobre a declinação (flexão de substantivos)
@@ -20,7 +20,7 @@
 *   5. Lista de palavras
 *   6. Exercícios
 
-## [Lektion 3](lektion03) <!-- TODO: Fallback translation -->
+## [Lektion 3](lektion03)
 
 *   1\. Nominativo singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫ (continuação)
 *   1.1. Nominativo Singular em -s (continuação)
@@ -32,7 +32,7 @@
 *   6\. Lista de palavras
 *   7\. Exercícios
 
-## [Lektion 4](lektion04) <!-- TODO: Fallback translation -->
+## [Lektion 4](lektion04)
 
 Gesprochenes Sanskrit
 
@@ -44,9 +44,9 @@ Gesprochenes Sanskrit
     *   1.3. Sandhi von auslautendem -e
     *   1.4. Sandhi von aulautendem -d
     *   1.5. Frageformeln
-*   2\. Übung <!-- TODO: Fallback translation -->
+*   2\. Übung
 
-## [Lektion 5](lektion05) <!-- TODO: Fallback translation -->
+## [Lektion 5](lektion05)
 
 *   1\. Nominalkomposita = samāsa m. = ⟪समास⟫
 *   2\. Zur Sanskrit-Terminologie für Komposita
@@ -54,9 +54,9 @@ Gesprochenes Sanskrit
     *   3.1. Vorderglieder von Komposita
     *   3.2. Plural-Itaretaradvandva
 *   4\. Wortliste
-*   5\. Übung <!-- TODO: Fallback translation -->
+*   5\. Übung
 
-## [Lektion 6](lektion06) <!-- TODO: Fallback translation -->
+## [Lektion 6](lektion06)
 
 *   1\. A oração verbal
 *   2\. Sobre a formação das formas verbais
@@ -74,7 +74,7 @@ Gesprochenes Sanskrit
 *   8\. Exercício
 *   9\. Exercício de revisão
 
-## [Lektion 7](lektion07) <!-- TODO: Fallback translation -->
+## [Lektion 7](lektion07)
 
 Wochenspruch
 
@@ -91,7 +91,7 @@ Wochenspruch
 *   6. Lista de palavras
 *   7. Exercícios
 
-## [Lektion 8](lektion08) <!-- TODO: Fallback translation -->
+## [Lektion 8](lektion08)
 
 *   1\. Formação de substantivos
 *   2. Classificação dos sufixos nominais
@@ -106,16 +106,16 @@ Wochenspruch
 *   6\. Exercício
 *   7\. Leitura e exercício de tradução
 
-## [Lektion 9](lektion09) <!-- TODO: Fallback translation -->
+## [Lektion 9](lektion09)
 
 *   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("Zusammenfassungsdvandva")
 *   2\. Zur Bildung von Nominalstämmen
     *   2.1. -ka (taddhita)
     *   2.2. -aka (kṛt), fem. oft -ikā
 *   3\. Wortliste
-*   4\. Übung <!-- TODO: Fallback translation -->
+*   4\. Übung
 
-## [Lektion 10](lektion10) <!-- TODO: Fallback translation -->
+## [Lektion 10](lektion10)
 
 *   1\. A oração passiva
 *   2\. O instrumental = tṛtīyā f. = ⟪तृतीया⟫ = "terceira terminação casuál"
@@ -128,14 +128,14 @@ Wochenspruch
 *   7\. Lista de palavras 2
 *   8\. Exercício de leitura e tradução
 
-## [Lektion 11](lektion11) <!-- TODO: Fallback translation -->
+## [Lektion 11](lektion11)
 
 *   1\. Acusativo Duplo
 *   2\. Lista de Palavras
 *   3\. Exercício
 *   4\. Exercício de Revisão
 
-## [Lektion 12](lektion12) <!-- TODO: Fallback translation -->
+## [Lektion 12](lektion12)
 
 *   1\. Particípio Perfeito Passivo (PPP)
 *   1.1. Esquema para verbos transitivos
@@ -151,7 +151,7 @@ Wochenspruch
 *   5.1. Passivo e PPP das raízes aprendidas até agora
 *   6\. Exercício
 
-## [Lektion 13](lektion13) <!-- TODO: Fallback translation -->
+## [Lektion 13](lektion13)
 
 *   1\. PPP em -na-
 *   2\. Mais sobre o uso do PPP
@@ -165,7 +165,7 @@ Wochenspruch
 *   10\. Exercício
 *   11\. Exercício de revisão
 
-## [Lektion 14](lektion14) <!-- TODO: Fallback translation -->
+## [Lektion 14](lektion14)
 
 *   1\. A expressão da relação entre aquilo que é designado por substantivos: o genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sexta terminação casual)
 *   2\. Formação das formas genitivas (ṣāṣṭhī f. = ⟪षष्ठी⟫)
@@ -174,7 +174,7 @@ Wochenspruch
 *   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = Provérbios
 *   6\. Exercício
 
-## [Lektion 15](lektion15) <!-- TODO: Fallback translation -->
+## [Lektion 15](lektion15)
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
 *   2\. Determinative compostos = Tatpuruṣa m. = ⟪तत्पुरुष⟫
@@ -189,14 +189,14 @@ Wochenspruch
 *   10\. Exercício 2
 *   11\. Exercício 3
 
-## [Lektion 16](lektion16) <!-- TODO: Fallback translation -->
+## [Lektion 16](lektion16)
 
 *   1\. Sobre o Sandhi de consoantes finais
 *   2\. Lista de palavras
 *   3\. Exercício
 *   4\. Exercício de revisão
 
-## [Lektion 17](lektion17) <!-- TODO: Fallback translation -->
+## [Lektion 17](lektion17)
 
 *   1\. Segunda classe de presente (⟪अदादि⟫ = ⟪अद्⟫ etc.)
 *   2\. Raízes da segunda classe de presente com alternância do tema Nível Alto - Nível Baixo
@@ -207,7 +207,7 @@ Wochenspruch
 *   7\. Exercício 1
 *   8\. Exercício 2
 
-## [Lektion 18](lektion18) <!-- TODO: Fallback translation -->
+## [Lektion 18](lektion18)
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
 *   2\. Compostos determinativos (⟪तत्पुरुष⟫) com elemento anterior adverbial
@@ -219,7 +219,7 @@ Wochenspruch
 *   5\. Exercício
 *   6\. Exercício de repetição
 
-## [Lektion 19](lektion19) <!-- TODO: Fallback translation -->
+## [Lektion 19](lektion19)
 
 *   1\. A oração relativa
 *   2\. O pronome relativo = ⟪व्यपेक्षकसर्वनाम⟫ n.
@@ -227,7 +227,7 @@ Wochenspruch
 *   4\. Exercício
 *   ⟪५⟫. ⟪सुभाषितानि⟫
 
-## [Lektion 20](lektion20) <!-- TODO: Fallback translation -->
+## [Lektion 20](lektion20)
 
 *   1\. Compostos possessivos = ⟪बहुव्रीहि⟫ m.
 *   2\. Bahuvrīhi com elemento anterior atributivo
@@ -242,7 +242,7 @@ Wochenspruch
 *   11\. Exercício 2
 *   12\. Exercício de tradução
 
-## [Lektion 21](lektion21) <!-- TODO: Fallback translation -->
+## [Lektion 21](lektion21)
 
 *   1\. Weitere Präsensstämme auf -nt
     *   1.1. Partizip Präsens (⟪लडादेशः⟫) Parasmaipada
@@ -250,9 +250,9 @@ Wochenspruch
 *   2\. Sandhi für auslautende Nasale
 *   3\. Höfliche Formen der Anrede
 *   4\. Wortliste
-*   5\. Übung <!-- TODO: Fallback translation -->
+*   5\. Übung
 
-## [Lektion 22](lektion22) <!-- TODO: Fallback translation -->
+## [Lektion 22](lektion22)
 
 *   1. O Absoluto (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
 *   2. Formação do Absoluto
@@ -265,7 +265,7 @@ Wochenspruch
 *   3. Lista de palavras
 *   4. Exercícios
 
-## [Lektion 23](lektion23) <!-- TODO: Fallback translation -->
+## [Lektion 23](lektion23)
 
 *   1\. O Infinitivo (⟪तुमुन्⟫)
 *   2\. Formação do Infinitivo (⟪तुमुन्⟩)
@@ -274,7 +274,7 @@ Wochenspruch
 *   5\. Exercício
 *   6\. Exercício de revisão
 
-## [Lektion 24](lektion24) <!-- TODO: Fallback translation -->
+## [Lektion 24](lektion24)
 
 *   1\. O Dativo (⟪चतुर्थी⟫ = "quarta terminação casuál")
 *   2\. Formação do Dativo (⟪चतुर्थी⟫)
@@ -287,7 +287,7 @@ Wochenspruch
 *   5\. Exercício
 *   6\. Mais exercícios sobre o uso do dativo
 
-## [Lektion 25](lektion25) <!-- TODO: Fallback translation -->
+## [Lektion 25](lektion25)
 
 *   1\. Formação do Ablativo (⟪पञ्चमी⟫ = "quinta desinência casual")
 *   2\. Uso do Ablativo (⟪पञ्चमी⟫)
@@ -298,7 +298,7 @@ Wochenspruch
 *   7\. ⟪सुभाषितानि⟫
 *   8\. Exercício de tradução
 
-## [Lektion 26](lektion26) <!-- TODO: Fallback translation -->
+## [Lektion 26](lektion26)
 
 *   1. Lei de cerebraização para -s- no interior da palavra
 *   2. Lei de cerebraização para dentais no interior da palavra
@@ -309,7 +309,7 @@ Wochenspruch
 *   7. Formação do futuro simples (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 *   8. Exercício
 
-## [Lektion 27](lektion27) <!-- TODO: Fallback translation -->
+## [Lektion 27](lektion27)
 
 *   1\. Uso do locativo (⟪सप्तमी⟫ f. = "sétima terminação casus")
 *   2\. Formação do locativo (⟪सप्तमी⟫)
@@ -336,7 +336,7 @@ Wochenspruch
 *   7.13. Pronomes relativos: ⟪यद्⟫
 *   7.14. Pronomes interrogativos: ⟪किम्⟫
 
-## [Lektion 28](lektion28) <!-- TODO: Fallback translation -->
+## [Lektion 28](lektion28)
 
 *   1\. O Causativo (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 *   2\. Construção de frases com o Causativo (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
@@ -350,14 +350,14 @@ Wochenspruch
 *   10\. Lista de palavras
 *   11\. Exercícios
 
-## [Lektion 29](lektion29) <!-- TODO: Fallback translation -->
+## [Lektion 29](lektion29)
 
 *   1\. Uso do Parasmaipada e Ātmanepada no Causativo
 *   2\. Lista de palavras
 *   3\. Exercício de tradução para revisão
 *   4\. Futuro e Causativo das raízes aprendidas até agora
 
-## [Lektion 30](lektion30) <!-- TODO: Fallback translation -->
+## [Lektion 30](lektion30)
 
 *   1\. A nona classe de presente (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")
 *   2\. Uso do optativo (⟪लिङ्⟫)
@@ -370,13 +370,13 @@ Wochenspruch
 *   7\. Exercício
 *   8\. Exercício de revisão da morfologia
 
-## [Lektion 31](lektion31) <!-- TODO: Fallback translation -->
+## [Lektion 31](lektion31)
 
 *   1\. A 7ª classe de presente (⟪रुधादि⟫ = "⟪रुध्⟩ etc.")
 *   2\. Lista de palavras
 *   3\. Exercícios
 
-## [Lektion 32](lektion32) <!-- TODO: Fallback translation -->
+## [Lektion 32](lektion32)
 
 *   1\. Os tempos pretos (passados)
 *   2\. O Imperfeito (⟪लङ्⟫)
@@ -388,7 +388,7 @@ Wochenspruch
 *   6\. Exercício
 *   7\. Exercício de revisão sobre as férias de Natal
 
-## [Lektion 33](lektion33) <!-- TODO: Fallback translation -->
+## [Lektion 33](lektion33)
 
 *   1\. Die Reduplikation (⟪अभ्यास⟫ m.)
     *   1.1. Der Reduplikationskonsonant
@@ -399,9 +399,9 @@ Wochenspruch
     *   4.1. Die Wurzeln ⟪दा⟫ und ⟪धा⟫
 *   5\. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
 *   6\. Wortliste
-*   7\. Übung <!-- TODO: Fallback translation -->
+*   7\. Übung
 
-## [Lektion 34](lektion34) <!-- TODO: Fallback translation -->
+## [Lektion 34](lektion34)
 
 *   1\. O perfeito (⟪लिट्⟫)
 *   2\. O perfeito reduplicado (⟪द्वित्वलिट्⟫)
@@ -417,7 +417,7 @@ Wochenspruch
 *   7\. Exercícios
 *   8\. Exercício de tradução
 
-## [Lektion 35](lektion35) <!-- TODO: Fallback translation -->
+## [Lektion 35](lektion35)
 
 *   1\. Tipo de Perfeito III: Raiz forte em grau pleno/alongado
 *   1.1. Tipo de Perfeito IIIa: Raiz forte em grau pleno/alongado, raiz fraca em grau reduzido
@@ -430,7 +430,7 @@ Wochenspruch
 *   4\. Lista de palavras
 *   5\. Exercícios
 
-## [Lektion 36](lektion36) <!-- TODO: Fallback translation -->
+## [Lektion 36](lektion36)
 
 *   1\. Formações especiais do perfeito
 *   2\. O perfeito perifrástico (⟪अनुप्रयोगलिट्⟫)
@@ -441,7 +441,7 @@ Wochenspruch
 *   7\. Exercício de tradução
 *   8\. Exercício de revisão da morfologia
 
-## [Lektion 37](lektion37) <!-- TODO: Fallback translation -->
+## [Lektion 37](lektion37)
 
 *   1\. O Advérbio (⟪क्रियाविशेषनम्⟫)
 *   2\. Uso adverbial de formas casuais
@@ -466,7 +466,7 @@ Wochenspruch
 *   10\. Exercício
 *   11\. Exercício de revisão
 
-## [Lektion 38](lektion38) <!-- TODO: Fallback translation -->
+## [Lektion 38](lektion38)
 
 *   1\. Solução da semana
 *   2\. Mudança fonética de nasais na palavra
@@ -484,7 +484,7 @@ Wochenspruch
 *   11\. Lista de palavras para o exercício de tradução
 *   12\. Exercício de tradução
 
-## [Lektion 39](lektion39) <!-- TODO: Fallback translation -->
+## [Lektion 39](lektion39)
 
 *   1\. As terminações pessoais da primeira pessoa (⟪तृतीयः⟫ ⟪पुरुषः⟫ = "terceira pessoa")
 *   2\. Formação das formas verbais da primeira pessoa de temas presentes temáticos
@@ -505,7 +505,7 @@ Wochenspruch
 *   4.6. Nona classe presente (⟪क्र्यादि⟫)
 *   5\. Exercícios
 
-## [Lektion 40](lektion40) <!-- TODO: Fallback translation -->
+## [Lektion 40](lektion40)
 
 *   1\. ⟪सुभाषितानि⟫
 *   2\. Formação das formas verbais da primeira pessoa do perfeito (⟪लिट्⟫)
@@ -527,7 +527,7 @@ Wochenspruch
 *   7\. Exercícios
 *   8\. Exercício de revisão da morfologia
 
-## [Lektion 41](lektion41) <!-- TODO: Fallback translation -->
+## [Lektion 41](lektion41)
 
 *   1\. ⟪सुभाषिते⟫ (dois provérbios)
 *   2\. Mais formações ⟪कृत्⟫ em -a
@@ -545,7 +545,7 @@ Wochenspruch
 *   3\. Lista de palavras
 *   4\. Exercício
 
-## [Lektion 42](lektion42) <!-- TODO: Fallback translation -->
+## [Lektion 42](lektion42)
 
 *   1\. Tribos em -ṛ
 *   1.1. Temáticos com grau alongado na forma forte
@@ -557,7 +557,7 @@ Wochenspruch
 *   3\. Exercício
 *   4\. Exercício de tradução
 
-## [Lektion 43](lektion43) <!-- TODO: Fallback translation -->
+## [Lektion 43](lektion43)
 
 *   1\. Desinências pessoais da segunda pessoa (⟪मध्यमः⟫ = "terceira \<pessoa\>")
 *   2\. Formação das formas verbais da segunda pessoa (⟪मध्यमः⟫)
@@ -575,7 +575,7 @@ Wochenspruch
 *   5\. Exercício
 *   6\. ⟪संवादः⟫ = Diálogo
 
-## [Lektion 44](lektion44) <!-- TODO: Fallback translation -->
+## [Lektion 44](lektion44)
 
 *   1. Formação das formas verbais da 2ª pessoa (⟪मध्यमः⟫) de temas atemáticos com sufixo terminado em vogal
 *   1.1. Quinta classe de presente (⟪स्वादि⟫)
@@ -591,7 +591,7 @@ Wochenspruch
 *   6\. Exercício
 *   7\. Exercício de revisão sobre a morfologia verbal
 
-## [Lektion 45](lektion45) <!-- TODO: Fallback translation -->
+## [Lektion 45](lektion45)
 
 *   1. Formação das formas verbais da 2ª pessoa (⟪मध्यमः⟫) de temas atemáticos sem sufixo terminado em vogal (continuação)
 *   1.1. Terceira classe de presente (⟪जुहोत्यादि⟫)
@@ -600,7 +600,7 @@ Wochenspruch
 *   3. Lista de palavras
 *   4. Exercícios
 
-## [Lektion 46](lektion46) <!-- TODO: Fallback translation -->
+## [Lektion 46](lektion46)
 
 *   1. Formação das formas verbais da 2ª pessoa (⟪मध्यमः⟫) Perfeito (⟪लिट्⟫)
 *   1.1. Desinências
@@ -620,7 +620,7 @@ Wochenspruch
 *   2. Lista de palavras
 *   3. Exercícios
 
-## [Lektion 47](lektion47) <!-- TODO: Fallback translation -->
+## [Lektion 47](lektion47)
 
 *   1\. O Imperativo (⟪लोट्⟫)
 *   2\. Formação do Imperativo (⟪लोट्⟫) de temas verbais presentes
@@ -632,7 +632,7 @@ Wochenspruch
 *   2.6. Voz passiva
 *   3\. Exercícios
 
-## [Lektion 48](lektion48) <!-- TODO: Fallback translation -->
+## [Lektion 48](lektion48)
 
 *   1\. ⟪सुभाषितानि⟫
 *   2\. Formação do imperativo (⟪लोट्⟫) de radicais presentes atemáticos
@@ -645,7 +645,7 @@ Wochenspruch
 *   5\. Exercício
 *   6\. Exercício de tradução
 
-## [Lektion 49](lektion49) <!-- TODO: Fallback translation -->
+## [Lektion 49](lektion49)
 
 *   1\. Formação do Imperativo (⟪लोट्⟫) de temas presentes atemáticos (continuação)
 *   1.1. Sétima classe presente (⟪रुधादि⟫)
@@ -658,13 +658,13 @@ Wochenspruch
 *   5\. Exercício de revisão da morfologia
 *   6\. Exercício de tradução
 
-## [Lektion 50](lektion50) <!-- TODO: Fallback translation -->
+## [Lektion 50](lektion50)
 
 *   1\. Formação nominal: graduação regular  
 *   2\. Lista de palavras  
 *   3\. Exercício de tradução
 
-## [Lektion 51](lektion51) <!-- TODO: Fallback translation -->
+## [Lektion 51](lektion51)
 
 *   1\. Compostos de ⟪उपपद⟫
 *   2\. Declinação dos radicais que terminam em consoante simples (exceto nasal, semivogal ou -s)
@@ -677,7 +677,7 @@ Wochenspruch
 *   6\. Lista de palavras
 *   7\. Exercício de tradução
 
-## [Lektion 52](lektion52) <!-- TODO: Fallback translation -->
+## [Lektion 52](lektion52)
 
 *   1\. Neutro dos radicais em -i e -u
 *   2\. Formação nominal
@@ -702,7 +702,7 @@ Wochenspruch
 *   8\. Exercício de tradução
 *   9\. Tarefas durante as férias do semestre
 
-## [Lektion 53](lektion53)  (Semesterferien) <!-- TODO: Fallback translation -->
+## [Lektion 53](lektion53)  (Semesterferien)
 
 *   1\. O Dual (⟪द्विवचन⟫ n.) dos substantivos
 *   2\. Desinências do dual de substantivos
@@ -722,7 +722,7 @@ Wochenspruch
 *   10.4\. O śloka épico (⟪श्लोक⟫ m.)
 *   11\. Exercícios
 
-## [Lektion 54](lektion54) <!-- TODO: Fallback translation -->
+## [Lektion 54](lektion54)
 
 *   1\. Vorbemerkung
 *   2\. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
@@ -731,14 +731,14 @@ Wochenspruch
 *   5\. Bildungstypen des Aorist (⟪लुङ्⟫)
 *   6\. Wurzelaorist
     *   6.1. Der Aorist der 3.sg.Passiv
-*   7\. Übung <!-- TODO: Fallback translation -->
+*   7\. Übung
 
-## [Lektion 55](lektion55) <!-- TODO: Fallback translation -->
+## [Lektion 55](lektion55)
 
 *   1\. O aoristo com tema (Aoristo com vogal temática)
 *   2\. Exercício
 
-## [Lektion 56](lektion56) <!-- TODO: Fallback translation -->
+## [Lektion 56](lektion56)
 
 *   1\. O aoristo reduplicado
 *   1.1. Formação do aoristo dos causativos e das raízes da 10ª classe de presente
@@ -747,12 +747,12 @@ Wochenspruch
 *   4\. ⟪स्म⟫
 *   5\. Exercício
 
-## [Lektion 57](lektion57) <!-- TODO: Fallback translation -->
+## [Lektion 57](lektion57)
 
 *   1\. Aorist 4: s-Aorist
 *   2\. Übung
 
-## [Lektion 58](lektion58) <!-- TODO: Fallback translation -->
+## [Lektion 58](lektion58)
 
 *   1. As desinências primárias do Dual (⟪द्विवचनम्⟫)
 *   2. O Dual das classes de presente temático: Indicativo Presente (⟪लट्⟫)
@@ -774,7 +774,7 @@ Wochenspruch
 *   6. Aoristo 5: aoristo iṣ
 *   7. Exercícios
 
-## [Lektion 59](lektion59) <!-- TODO: Fallback translation -->
+## [Lektion 59](lektion59)
 
 *   1. As desinências secundárias e imperativas do dual (⟪द्विवचनम्⟫)
 *   2. O dual das classes de presente temático: Optativo (⟪विधिलिङ्⟫), Imperfeito (⟪लङ्⟫), Imperativo (⟪लोट्⟫)
@@ -800,7 +800,7 @@ Wochenspruch
 *   6. Aoristo (⟪लुङ्⟫) 7: sa-Aoristo (s-Aoristo temático)
 *   7. Exercícios
 
-## [Lektion 60](lektion60) <!-- TODO: Fallback translation -->
+## [Lektion 60](lektion60)
 
 *   1. As desinências do dual do perfeito (⟪द्विवचनम्⟫)
 *   2. O dual do perfeito reduplicado (⟪द्वित्वलिट्⟫)
@@ -824,7 +824,7 @@ Wochenspruch
 *   6.2. Conjugação do desiderativo (⟪सन्⟫)
 *   7. Exercícios
 
-## [Lektion 61](lektion61) <!-- TODO: Fallback translation -->
+## [Lektion 61](lektion61)
 
 *   1\. Declinação dos substantivos radicais terminados em -ā, -ī, -ū
 *   1.1. Substantivos radicais terminados em -ā no final de ⟪तत्पुरुष⟫

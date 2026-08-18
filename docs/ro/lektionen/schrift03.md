@@ -6,7 +6,7 @@
 
 ## Exercițiu
 
-A) Scrieți în Devanāgarī: <!-- TODO: Fallback translation -->
+A) Scrieți în Devanāgarī:
 
 śivaḥ vedaḥ kaviḥ guruḥ paśuḥ devatā devī kalaśa vayaḥ yaśo śaraṭa paraśa śataśaḥ daśaśata diva kṛś yātu kaikeyī coro śṛta rūpaka roga yoga yuj yadā rāja rujati rocate lulopa loḍayitṛ
 

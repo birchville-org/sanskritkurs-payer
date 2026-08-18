@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 34
 
-A) Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus verbi entsprechenden Perfektformen: <!-- TODO: Fallback translation -->
+A) Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus verbi entsprechenden Perfektformen:
 
 1.  ⟪रक्षिष्यन्ति⟫ ⟪।⟫ ⟪ररक्षुर्⟫
 2.  ⟪स्रक्ष्यति⟫ ⟪।⟫ ⟪ससर्ज⟫
@@ -42,7 +42,7 @@ A) Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus verbi entspr
 30.  ⟪कुप्यन्ति⟫ ⟪।⟫ ⟪चुकुपुर्⟫
 31.  ⟪इच्छन्ति⟫ ⟪।⟫ ⟪ईषुर्⟫
 
-Übersetzen Sie folgenden Text aus dem ⟪पद्मपुराण⟫ über Gaben an Brahmanen: <!-- TODO: Fallback translation -->
+Übersetzen Sie folgenden Text aus dem ⟪पद्मपुराण⟫ über Gaben an Brahmanen:
 
 > ⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजोत्तम⟫ ⟪।⟫  
 > ⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्राश्चतुर्दश⟫ ⟪॥१॥⟫  
@@ -55,19 +55,19 @@ A) Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus verbi entspr
 > ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तम्⟫ ⟪महीतले⟫ ⟪।⟫  
 > ⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
-Bester der Zweimalgeborenen! Wer einem Brahmanen die Erde samt ihren Feldfrüchten schenkt, geniesst die Welt Viṣṇus so lange wie vierzehn Indras. Zweimalgeborener! Das Verdienst, das jemand erhält, der die ganze Welt mit ihren sieben Kontinenten verschenkt, das erhält ein Sterblicher, der einem Brahmanen eine Kuh gibt. Wer einem Brahmanen Gold so klein wie ein Sesamkorn gibt, der kommt in die Wohnstadt Haris (Viṣṇus) zusammen mit 10 Millionen Familien. Bester der Zweimalgeborenen! Ein Mann, der ein Mädchen samt Schmuck (einem Brahmanen) gibt, der kommt zum Sitz Brahmās und hat keine Wiedergeburt mehr.  Bester der Zweimalgeborenen! Wer Speise und Wasser auf der Erdoberfläche gegeben hat, der hat alle Gaben gegeben, Stier unter den Zweimalgeborenen!  <!-- TODO: Fallback translation -->
+Bester der Zweimalgeborenen! Wer einem Brahmanen die Erde samt ihren Feldfrüchten schenkt, geniesst die Welt Viṣṇus so lange wie vierzehn Indras. Zweimalgeborener! Das Verdienst, das jemand erhält, der die ganze Welt mit ihren sieben Kontinenten verschenkt, das erhält ein Sterblicher, der einem Brahmanen eine Kuh gibt. Wer einem Brahmanen Gold so klein wie ein Sesamkorn gibt, der kommt in die Wohnstadt Haris (Viṣṇus) zusammen mit 10 Millionen Familien. Bester der Zweimalgeborenen! Ein Mann, der ein Mädchen samt Schmuck (einem Brahmanen) gibt, der kommt zum Sitz Brahmās und hat keine Wiedergeburt mehr.  Bester der Zweimalgeborenen! Wer Speise und Wasser auf der Erdoberfläche gegeben hat, der hat alle Gaben gegeben, Stier unter den Zweimalgeborenen! 
 
 Erklärungen:
 
-Vokativ sg. der Maskulina / Neutra auf -a lautet auf -a: z.B. ⟪देव⟫ "Gott!" <!-- TODO: Fallback translation -->
+Vokativ sg. der Maskulina / Neutra auf -a lautet auf -a: z.B. ⟪देव⟫ "Gott!"
 
 ⟪चतुर्दश⟫ vierzehn
 
 ⟪सप्त⟫ sieben
 
-⟪जन्म⟫ Nom./Akk. sg. zu ⟪जन्मन्⟫ n. Geburt <!-- TODO: Fallback translation -->
+⟪जन्म⟫ Nom./Akk. sg. zu ⟪जन्मन्⟫ n. Geburt
 
-⟪सर्व⟫ 3 "alle, ganz" (dekliniert nach Pronominaldeklination) <!-- TODO: Fallback translation -->
+⟪सर्व⟫ 3 "alle, ganz" (dekliniert nach Pronominaldeklination)
 
 ::: media
 ![](/images/uebung057.jpg)

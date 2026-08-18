@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 43
 
-A) Bilden Sie die in Zeit, Zahl, Modus u. s. w. entsprechende **2. Person** zu folgenden Verbformen: <!-- TODO: Fallback translation -->
+A) Bilden Sie die in Zeit, Zahl, Modus u. s. w. entsprechende **2. Person** zu folgenden Verbformen:
 
 ::: grammar-box
 | 1. Person / 3. Person | 2. Person |
@@ -73,39 +73,39 @@ Abb.: ⟪दिशसि⟫
 :::
 ---
 
-## Übersetzungen ins Sanskrit <!-- TODO: Fallback translation -->
+## Übersetzungen ins Sanskrit
 
-B) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie ins Sanskrit:
 
 ⟪१⟫. **⟪कस्माद्गुरौ⟫ ⟪तिष्ठति⟫ ⟪सीदथ⟫ ⟪।⟫** (Oder: **... ⟪आध्वे⟫ ⟪।⟫**)
-Warum sitzt ihr, während der Lehrer steht? <!-- TODO: Fallback translation -->
+Warum sitzt ihr, während der Lehrer steht?
 
 ⟪२⟫. **⟪किं⟫ ⟪विकल्पयसि⟫ ⟪किं⟫ ⟪सुकर्मणः⟫ ⟪सुफलमस्तीति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Bezweifelst du, ob eine gute Tat eine gute Frucht hat? <!-- TODO: Fallback translation -->
+Bezweifelst du, ob eine gute Tat eine gute Frucht hat?
 
 ⟪३⟫. **⟪कच्चित्पितरं⟫ ⟪गर्भगृहं⟫ ⟪दर्शयिष्यथ⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (Oder: **⟪कच्चित्पित्रे⟫ ... ⟪देक्ष्यथ⟫ ⟪॥⟫**)
 Werdet ihr dem Vater den innersten Tempelschrein zeigen?
 
 ⟪४⟫. **⟪कस्य⟫ ⟪कवेः⟫ ⟪स्तोत्रमगायः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Das Preislied welches Dichters hast du gesungen? <!-- TODO: Fallback translation -->
+Das Preislied welches Dichters hast du gesungen?
 
 ⟪५⟫. **⟪एतानि⟫ ⟪फलानि⟫ ⟪विक्रेष्यध्वे⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Werdet ihr diese Früchte verkaufen? <!-- TODO: Fallback translation -->
+Werdet ihr diese Früchte verkaufen?
 
 ⟪६⟫. **⟪किमाज्ञापयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Was hast du befohlen? <!-- TODO: Fallback translation -->
+Was hast du befohlen?
 
 ⟪७⟫. **⟪कदा⟫ ⟪काश्यामवर्तथाः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Wann hast du dich in Benares aufgehalten? <!-- TODO: Fallback translation -->
+Wann hast du dich in Benares aufgehalten?
 
 ⟪८⟫. **⟪कच्चिद्देवानयजध्वम्⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Habt ihr (als Opferherren) die Götter mit einem Opfer verehrt? <!-- TODO: Fallback translation -->
+Habt ihr (als Opferherren) die Götter mit einem Opfer verehrt?
 
 ⟪९⟫. **⟪कस्मिन्नगरे⟫ ⟪ऽजायथाः⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-In welcher Stadt wurdest du geboren? <!-- TODO: Fallback translation -->
+In welcher Stadt wurdest du geboren?
 
 ⟪१०⟫. **⟪कथं⟫ ⟪शत्रुं⟫ ⟪तरसि⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Wie rettest du dich (überschreitest du den Strom) vor dem Feind? <!-- TODO: Fallback translation -->
+Wie rettest du dich (überschreitest du den Strom) vor dem Feind?
 
 ::: media
 ![](/images/uebung071.jpg)
@@ -114,7 +114,7 @@ Abb.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 :::
 ---
 
-## Gespräch (⟪संवादः⟫) <!-- TODO: Fallback translation -->
+## Gespräch (⟪संवादः⟫)
 
 | ⟪पात्रम्⟫ / ⟪संवादः⟫ | Übersetzung |
 | :--- | :--- |
@@ -141,10 +141,10 @@ Abb.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 | **⟪अशोकः⟫ : (⟪मनसि⟫ ⟪किंचिद्विचार्याणकचतुष्टयं⟫ ⟪च⟫ ⟪तस्य⟫ ⟪पुरत⟫ ⟪उपस्थाप्य⟫) ⟪भो⟫ ⟪श्रेष्ठिन्गृहाण⟫ ⟪मूल्यम्⟫ ⟪।⟫ ⟪मया⟫ ⟪हि⟫ ⟪शीघ्रं⟫ ⟪गृहं⟫ ⟪गन्तव्यम्⟫ ⟪॥⟫** | Aśoka: (überlegt kurz und legt ihm vier Anna hin): Herr Kaufmann, hier ist der Preis. Ich muss nämlich eilig nach Hause. |
 | **⟪वणिक्⟫ : ⟪रे⟫ ⟪बालक⟫ ⟪।⟫ ⟪एह्येहि⟫ ⟪शृणु⟫ ⟪तावत्⟫ ⟪।⟫ ⟪अल्पमेव⟫ ⟪मूल्यं⟫ ⟪दत्त्वा⟫ ⟪क्व⟫ ⟪व्रजसि⟫ ⟪।⟫ ⟪आणकचतुष्टयमन्यदपि⟫ ⟪देहि⟫ ⟪॥⟫** | Händler: He, Junge! Komm zurück! Hör mal! Wohin gehst du, nachdem du nur so wenig bezahlt hast? Gib mir die restlichen vier Anna! |
 | **⟪अशोकः⟫ : ⟪श्रेष्ठिन्⟫ ⟪।⟫ ⟪किमनेन⟫ ⟪।⟫ ⟪अकिंचित्करमेतत्⟫ ⟪।⟫ ⟪नाणकगणनाक्लेशस्ते⟫ ⟪ऽल्पीयान्भविष्यति⟫ ⟪॥⟫** | Aśoka: Kaufmann! Was macht das schon? Es ist bedeutungslos. So hast du weniger Mühe beim Zählen der Münzen! |
-| **(⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫)** | (Spricht's und rennt eilig davon.) | <!-- TODO: Fallback translation -->
+| **(⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫)** | (Spricht's und rennt eilig davon.) |
 
 **(⟪विपणिस्थो⟫ ⟪वञ्चको⟫ ⟪वणिक्⟫ ⟪किमपि⟫ ⟪कर्तुमशक्नोत्केवलं⟫ ⟪तस्य⟫ ⟪मनसि⟫ ⟪पश्चात्ताप⟫ ⟪एवासीत्⟫ ⟪।⟫ ⟪अशोको⟫ ⟪गृहमागत्य⟫ ⟪सर्वमपीतिवृत्तमकथयत्⟫ ⟪।⟫ ⟪तत्रस्था⟫ ⟪सर्वे⟫ ⟪ऽपि⟫ ⟪बान्धवा⟫ ⟪मित्राणि⟫ ⟪च⟫ ⟪परमानन्दं⟫ ⟪प्रापुः⟫ ⟪।⟫ ⟪इत्थं⟫ ⟪जन्मोत्सवः⟫ ⟪सानन्दं⟫ ⟪समाप्तिं⟫ ⟪यातः⟫ ⟪॥⟫)**
 
 **Zusammenfassung:**
-Der betrügerische Händler in seinem Laden konnte nichts tun und empfand nur Reue in seinem Herzen. Aśoka kam nach Hause und erzählte die ganze Begebenheit. Alle Verwandten und Freunde amüsierten sich prächtig. So fand die Geburtstagsfeier ein frohes Ende. <!-- TODO: Fallback translation -->
+Der betrügerische Händler in seinem Laden konnte nichts tun und empfand nur Reue in seinem Herzen. Aśoka kam nach Hause und erzählte die ganze Begebenheit. Alle Verwandten und Freunde amüsierten sich prächtig. So fand die Geburtstagsfeier ein frohes Ende.
 

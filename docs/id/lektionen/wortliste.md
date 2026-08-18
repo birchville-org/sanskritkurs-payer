@@ -1,1346 +1,1434 @@
 ---
 outline: 2
+
 ---
 
-# Word List (Complete Overview)
+# Daftar Kata (Ikhtisar Lengkap)
 
-*Semua kata baru dari kursus ini sesuai urutan perkenalan, disertai penjelasan tematik.*
+*Semua kata baru dari kursus ini dalam urutan pengenalan mereka, dengan penjelasan tematik.*
 
 
 ## Pelajaran 2
 
-**deva** m. -- ⟪देव⟫ : Celestial being, god; prince, king.
 
-**īśvara** m. -- ⟪ईश्वर⟫ : Lord, ruler, god (monotheistic).
 
-**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmin (priestly estate).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (noble and military estate).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (agricultural and merchant estate).
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service estate).
 
-::: tip The four estates (varna)
-Menurut teori klasik (misalnya, Manusmṛti I, 88-91), tugas-tugas tersebut didistribusikan:
+**deva** m. -- ⟪देव⟫ : Yang Ilahi, Dewa; Pangeran, Raja.
 
-- **para Brahmin**
-- studi Veda
-- pengajaran
-- korban untuk diri sendiri
-- korban untuk orang lain
-- memberi
-- menerima hadiah
-- **para Kṣatriya**
-- melindungi rakyat
-- memberi hadiah (kepada Brahmin)
-- korban untuk diri sendiri
-- studi Veda
-- **para Vaiśya**
-- peternakan hewan
-- pertanian
-- perdagangan
-- peminjaman uang
-- korban untuk diri sendiri
-- memberi hadiah (kepada Brahmin)
-- korban untuk diri sendiri
-- studi Veda
-- **para Śūdra**
-- melayani tiga kelas atas
+**īśvara** m. -- ⟪ईश्वर⟫ : Tuan, Penguasa, Dewa (monoteistik).
+
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmana (kasta rohaniawan).
+
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (kasta bangsawan dan militer).
+
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (kasta peternak dan pedagang).
+
+**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (kasta pelayan).
+
+::: note-box Die vier Stände (varna)
+Menurut teori klasik (misalnya Manusmṛti I, 88-91), tugas-tugas dibagi sebagai berikut:
+
+**Brahmana**
+Studi Weda
+Pengajaran
+Persembahan untuk diri sendiri
+Persembahan untuk orang lain
+Memberi
+Menerima pemberian
+**Kṣatriya**
+Melindungi rakyat
+Memberi persembahan (kepada Brahmana)
+Berkorban untuk diri sendiri
+Studi Weda
+**Vaiśya**
+Peternakan
+Pertanian
+Perdagangan
+Peminjaman uang
+Berkorban untuk diri sendiri
+Memberi persembahan (kepada Brahmana)
+Berkorban untuk diri sendiri
+Studi Weda
+**Śūdra**
+Melayani tiga kasta teratas
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Dua kali lahir" (inisiat dari tiga estate atas: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "Dilahirkan Dua Kali" (Mereka yang diinisiasi ke dalam tiga kasta teratas: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : Color, birth estate (aspiration).
+**varṇa** m. -- ⟪वर्ण⟫ : Warna, kasta kelahiran (tingkatan).
 
-Empat kasta (**varṇa** m.) sering disamakan dengan kasta. Namun, empat kasta itu -- berbeda dari kasta -- tidak secara khusus berasal dari India; di Eropa, kita juga memiliki (sebagian hingga Perang Dunia Pertama) sistem kasta, sebagaimana konfirmasi ilustrasi berikut dari abad ke-15:
+Empat kasta (**varṇa** m.) sering disamakan dengan kastis. Namun, empat kasta tersebut -- berbeda dari kastis -- bukanlah sesuatu yang secara khusus India; di Eropa pun kita memiliki sistem kasta (sebagian hingga Perang Dunia Pertama), sebagaimana dibuktikan oleh gambar berikut dari abad ke-15:
 
 ::: media
 ![](/images/lekt0201.webp)
-Fig.: Representasi pembagian kasta di Eropa Abad Pertengahan (ukiran kayu dari akhir abad ke-15).
-(Sumber gambar: [Details](/en/licenses#lekt0201))
+Fig.: Penggambaran pembagian kasta masyarakat Eropa Abad Pertengahan (ukiran kayu dari akhir abad ke-15).
+(Sumber gambar: [Detail](/licenses#lekt0201))
 :::
-**Label:**
-- **Kasta imam** (~Brāhmaṇa): Tu supplex ora = Anda berdoa dengan sungguh-sungguh!
-- **Kasta bangsawan** (~Kṣatriya): Tu protege = Anda melindungi!
-- **Kasta petani** (~Vaiśya/Śūdra): Tuque labora = Dan Anda bekerja!
+**Keterangan gambar:**
+**Kasta Imam** (~Brāhmaṇa): Tu supplex ora = Berdoalah dengan penuh kerendahan hati!
+**Kasta Bangsawan** (~Kṣatriya): Tu protege = Lindungilah!
+**Kasta Petani** (~Vaiśya/Śūdra): Tuque labora = Dan bekerjalah!
 
-The three estates wear the respective estate attire. Above them -- thus designated as willed by God -- Christ reigns.
+Ketiga kasta tersebut mengenakan pakaian khas masing-masing. Di atas kasta-kasta yang dengan demikian disebut sebagai kehendak ilahi, Kristus duduk di singgasana.
 
-Max Weber (1864–1920) defines estate as follows:
+Max Weber (1864–1920) mendefinisikan kasta sebagai berikut:
 
 ::: note-box
-"**Kasta**" dimaksudkan untuk menunjukkan sekelompok orang yang, dalam suatu asosiasi, secara efektif
-a) mengklaim kehormatan khusus spesifik-kasta — mungkin juga
-b) monopoli khusus spesifik-kasta.
+»**Kasta**« haruslah berarti suatu kumpulan orang yang dalam suatu ikatan sosial
+a) memiliki penilaian khusus berdasarkan kasta, - mungkin juga
+b) menuntut monopoli khusus berdasarkan kasta.
 
-Kasta dapat muncul
-a) secara primer, melalui cara hidup spesifik-kasta mereka sendiri, khususnya melalui jenis **profesi** (**kasta berbasis profesi atau kasta profesional**),
-b) secara sekunder, karismatik secara hereditas, melalui klaim prestise yang sukses berdasarkan **keturunan** spesifik-kasta (**kasta kelahiran**),
-c) melalui **pengambilalihan** spesifik-kasta atas kedaulatan politik atau hierokratik sebagai monopoli (**kasta politik atau hierokratik**).
+Kasta dapat terbentuk
+a) secara primer, melalui gaya hidup kasta yang khas, termasuk terutama jenis **pekerjaan** (**kasta profesi/gaya hidup**),
+b) secara sekunder, melalui karisma yang diwariskan, melalui tuntutan prestise yang berhasil berkat **keturunan** kasta (**kasta kelahiran**),
+c) melalui **appropriasi** (pengambilalihan/penguasaan) kasta atas kekuasaan politik atau hierokratis sebagai monopoli (**kasta politik atau hierokratis**).
 
-Perkembangan kasta kelahiran secara teratur merupakan bentuk (hereditas) pengambilalihan hak istimewa kepada suatu asosiasi atau individu yang memenuhi syarat. Setiap pengambilalihan tetap atas peluang, khususnya [dari] peluang kedaulatan [atau mata pencaharian], cenderung mengarah pada pembentukan kasta. Setiap pembentukan kasta cenderung mengarah pada pengambilalihan monopoli atas kedaulatan dan peluang mata pencaharian.
+Perkembangan kasta kelahiran secara teratur merupakan bentuk appropriasi (pengambilalihan/penguasaan) (yang diwariskan) atas hak-hak istimewa kepada suatu ikatan sosial atau individu-individu yang berkualifikasi. Setiap appropriasi (pengambilalihan/penguasaan) atas peluang, khususnya [dari] kekuasaan tuan [atau peluang ekonomi], cenderung mengarah pada pembentukan kasta. Setiap pembentukan kasta cenderung mengarah pada appropriasi (pengambilalihan/penguasaan) monopoli atas kekuasaan tuan dan peluang ekonomi.
 
-Seiring kelas pekerjaan tumbuh berdasarkan ekonomi berorientasi pasar, kasta muncul dan bertahan lebih disukai berdasarkan penyediaan liturgis atau feodal atau patrimonial korporat yang monopoli atas asosiasi.
+Selama kelas-kelas ekonomi tumbuh di atas dasar ekonomi berorientasi pasar, kasta muncul dan bertahan lebih disukai di atas dasar pemenuhan kebutuhan monopoli liturgis atau feodal atau patrimonial-kasta dari asosiasi.
 
-«**Secara kolektif**» dimaksudkan untuk menandakan masyarakat ketika stratifikasi sosial terjadi lebih disukai oleh estate, «**klasik**», ketika itu terjadi lebih disukai oleh kelas. «Estate» adalah yang paling dekat dengan kelas «sosial» di antara «kelas», «kelas pekerjaan» adalah yang terjauh. Estate sering dibentuk oleh kelas properti sesuai dengan fokus mereka.
+»**Kasta**« seharusnya disebut masyarakat jika pengelompokan sosial lebih disukai menurut kasta, »**kelas**«, jika itu terjadi lebih disukai menurut kelas. »Kasta« dari »kelas« yang paling dekat adalah kelas »sosial«, yang »kelas ekonomi« paling jauh. Kasta sering dibentuk oleh kelas kepemilikan sesuai dengan titik berat mereka.
 
-Setiap masyarakat yang terorganisir secara kolektif adalah konvensional, diatur oleh aturan perilaku, dengan demikian menciptakan kondisi konsumsi yang tidak rasional secara ekonomi dan menghambat pembentukan pasar bebas dengan cara ini melalui apropriasi monopoli dan dengan mengecualikan pembuangan bebas dari kapasitas penghasilan seseorang.
+Setiap masyarakat kasta bersifat konvensional, diatur oleh aturan-aturan kehidupan, sehingga menciptakan kondisi konsumsi yang secara ekonomi irasional dan menghambat pembentukan pasar bebas melalui apropriasi monopoli dan dengan mengecualikan kebebasan untuk menggunakan kemampuan ekonomi mereka sendiri.
 
-[**Weber, Max (1864–1920): Ekonomi dan Masyarakat : Garis Besar Sosiologi Pemahaman. – Edisi ke-5, direvisi. – Tübingen : Mohr, 1976. – Hlm. 625 f.]
+[**Weber, Max (1864–1920):** Ekonomi dan Masyarakat : Garis Besar Sosiologi Memahami. – Edisi ke-5, direvisi. – Tübingen : Mohr, 1976. – Hlm. 625 f.]
 :::
-Varṇas are accordingly birth estates.
+Varṇa adalah kasta kelahiran.
 
-**kavi** m. -- ⟪कवि⟫ : Poet.
+**kavi** m. -- ⟪कवि⟫ : Penyair.
 
-**agni** m. -- ⟪अग्नि⟫ : Fire, God Agni.
+**agni** m. -- ⟪अग्नि⟫ : Api, Dewa Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Fig.: God Agni, Miniature, 18th century.
-(Image source: [Details](/en/licenses#lekt0203))
+Gambar: Dewa Agni, miniatur, abad ke-18.
+(Sumber gambar: [Detail](/licenses#lekt0203))
 :::
-**sādhu** 3 -- ⟪साधु⟫ : correct, good.
+**sādhu** 3 -- ⟪साधु⟫ : benar, baik.
 
-**sādhu** m. -- ⟪साधु⟫ : "holy" man, Sādhu.
+**sādhu** m. -- ⟪साधु⟫ : Pria "suci", Sādhu.
 
 ::: media
 ![](/images/lekt0202.webp)
-Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
-(Image source: [Details](/en/licenses#lekt0202))
+Gambar: Sādhu (⟪साधु⟫), Kuil Pashupatinath, Kathmandu.
+(Sumber gambar: [Detail](/licenses#lekt0202))
 :::
-**guru** 3 -- ⟪गुरु⟫ : heavy, significant, worthy of veneration
+**guru** 3 -- ⟪गुरु⟫ : berat, bedeutend, verehrungswürdig
 
-**guru** m. -- ⟪गुरु⟫ : worthy of veneration person: father, mother, older relative, esp. teacher, master
+**guru** m. -- ⟪गुरु⟫ : verehrungswürdige Person: Vater, Mutter, älterer Verwandter, insbesondere Lehrer, Meister
 
 ---
-
 
 ## Pelajaran 3
 
-**Learn the following words:**
 
-**śruti** f. = ⟪श्रुति⟫ : mendengar, tradisi abadi (penunjukan untuk Weda dan Brāhmaṇa).
 
-**smṛti** f. = ⟪स्मृति⟫ : visualisasi, ingatan, visualisasi meditatif = kewaspadaan penuh, tradisi (konsep lawan dari **śruti**). Mencakup:
-- enam **vedāṅga** n. (⟪वेदाङ्ग⟫)
+
+
+
+
+**Pelajari kata-kata berikut:**
+
+**śruti** f. = ⟪श्रुति⟫ : pendengaran, tradisi abadi (sebutan untuk Weda dan Brāhmaṇa).
+
+**smṛti** f. = ⟪स्मृति⟫ : penghadapan kembali, ingatan, penghadapan kembali meditatif = kewaspadaan, tradisi (konsep lawan dari **śruti**). Mencakup:
+enam **vedāṅga** n. (⟪वेदाङ्ग⟫)
 1. **śikṣā** f. (⟪शिक्षा⟫): pengucapan yang benar
-2. **chandas** n. (⟪छन्दस्⟫): metrik
+2. **chandas** n. (⟪छन्दस्⟫): metrum
 3. **vyākaraṇa** n. (⟪व्याकरण⟫): tata bahasa
 4. **nirukta** n. (⟪निरुक्त⟫) : penjelasan kata, etimologi
 5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomi, ilmu kalender
-6. **kalpa** m. (⟪कल्प⟫) : upacara ritual
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : risalah tentang pelaksanaan korban besar
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : risalah tentang upacara dan korban dalam kehidupan sehari-hari
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) dan **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : risalah tentang hukum dan adat (perilaku yang benar)
-- epik besar **mahābhārata** n. (⟪महाभारत⟫) dan **rāmāyaṇa** n. (⟪रामायण⟫)
-- **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : risalah tentang kebijaksanaan praktis
+6. **kalpa** m. (⟪कल्प⟫) : tata upacara
+**śrautasūtra** n. (⟪श्रौतसूत्र⟫) : karya ajar untuk pelaksanaan korban besar
+**gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : karya ajar untuk upacara dan korban kehidupan sehari-hari
+**dharmasūtra** n. (⟪धर्मसूत्र⟫) dan **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : karya ajar tentang hukum dan adat (perilaku yang benar)
+epos besar **mahābhārata** n. (⟪महाभारत⟫) dan **rāmāyaṇa** n. (⟪रामायण⟫)
+**purāṇa** n. (⟪पुराण⟫)
+**nītiśāstra** n. (⟪नीतिशास्त्र⟫) : karya ajar kebijaksanaan hidup
 
-**smṛti** is also a particular designation for Dharma treatises.
+**smṛti** juga merupakan sebutan khusus untuk karya ajar dharma.
 
-**dhenu** f. = ⟪धेनु⟫ : (milk) cow.
+**dhenu** f. = ⟪धेनु⟫ : (sapi) betina penghasil susu.
 
-**paśu** m. = ⟪पशु⟫ : domesticated livestock, cattle (collective noun).
+**paśu** m. = ⟪पशु⟫ : hewan ternak yang didomestikasi, hewan piaraan (kolektiva).
 
-**devatā** f. = ⟪देवता⟫ : deity (abstract and concrete).
+**devatā** f. = ⟪देवता⟫ : dewata (abstrak dan konkret).
 
-**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmana woman.
+**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : female Kṣatriya.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : wanita Kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : wife of a Kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : istri seorang Kṣatriya.
 
-**vaiśyā** f. = ⟪वैश्या⟫ : female Vaiśya.
+**vaiśyā** f. = ⟪वैश्या⟫ : wanita Vaiśya.
 
-**śūdrā** f. = ⟪शूद्रा⟫ : female Śūdra.
+**śūdrā** f. = ⟪शूद्रा⟫ : wanita Śūdra.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : wife of a Śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : istri seorang Śūdra.
 
-**devī** f. = ⟪देवी⟫ : goddess, esp. Durgā f. = ⟪दुर्गा⟫, the consort of Śiva = ⟪शिव⟫.
+**devī** f. = ⟪देवी⟫ : Dewi, khususnya Durgā f. = ⟪दुर्गा⟫, istri Śiva = ⟪शिव⟫.
 
 ::: media
 ![](/images/lekt0303.webp)
-Fig.: Durgā = ⟪दुर्गा⟫, Orissa
-(Image source: [Details](/images/lekt0303))
+Gambar: Durgā = ⟪दुर्गा⟫, Orissa
+(Sumber gambar: [Details](/images/lekt0303))
 :::
-**sādhvī** f. = ⟪साध्वी⟫ : fem. of sādhu.
+**sādhvī** f. = ⟪साध्वी⟫ : fem. dari sādhu.
 
-**gurvī** f. = ⟪गुर्वी⟫ : fem. of guru.
+**gurvī** f. = ⟪गुर्वी⟫ : fem. dari guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "I-am-ness", i.e., the (false) belief: **I** am the one who sees, etc.
+**asmitā** f. = ⟪अस्मिता⟫ : "keaku-an", yaitu keyakinan (yang salah): **Saya** adalah yang melihat, dll.
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : philosophy (the science that arrives at its conclusions through logically correct reasoning).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filsafat (ilmu yang mencapai kesimpulannya melalui justifikasi logis yang benar).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : non-attention, equanimity.
+**upekṣā** f. = ⟪उपेक्षा⟫ : pengabaian, kekebalan.
 
-**karuṇā** f. = ⟪करुणा⟫ : compassion, pity.
+**karuṇā** f. = ⟪करुणा⟫ : belas kasih, simpati.
 
-**muditā** f. = ⟪मुदिता⟫ : joy, specifically sympathetic joy (opposite of envy).
+**muditā** f. = ⟪मुदिता⟫ : sukacita, khususnya simpati terhadap kebahagiaan orang lain (kebalikan dari iri hati).
 
 ---
-
 
 ## Pelajaran 5
 
-**Learn the following words:**
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : kecenderungan, keteguhan, penekanan; secara khusus: keterikatan pada tubuh seolah-olah itu adalah milik diri sendiri.
 
-**kāma** m. = ⟪काम⟫ : desire, craving, desired gift, sensual pleasure, love; the god of love Kāma.
+
+
+
+
+**Pelajari kata-kata berikut:**
+
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : kecenderungan, keteguhan, bersikeras; khususnya: keterikatan pada tubuh seolah-olah itu adalah milik sendiri.
+
+**kāma** m. = ⟪काम⟫ : keinginan, hasrat, hadiah yang diinginkan, kenikmatan indra, cinta; dewa cinta Kāma.
 
 ::: media
 ![](/images/lekt0501.webp)
-Fig.: God Kāma = kāmadeva = ⟪कामदेव⟫, 18th century.
-(Image source: Wikipedia, Public domain)
+Gambar: Dewa Kāma = kāmadeva = ⟪कामदेव⟫, abad ke-18
+(Sumber gambar: Wikipedia, Domain Publik)
 :::
-**krodha** m. = ⟪क्रोध⟫ : anger.
+**krodha** m. = ⟪क्रोध⟫ : kemarahan.
 
-**kleśa** m. = ⟪क्लेश⟫ : affliction, torment.
+**kleśa** m. = ⟪क्लेश⟫ : penderitaan, siksaan.
 
-**trayī** f. = ⟪त्रयी⟫ : triad; in particular, the three Vedas (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** f. = ⟪त्रयी⟫ : bilangan tiga; khususnya ketiga Weda (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politics (a Tatpuruṣa compound from daṇḍa m. = "stick, power, rule, punishment" and nīti f. = "right guidance").
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politik (sebuah Tatpuruṣa dari daṇḍa m. = "tongkat, kekuasaan, pemerintahan, hukuman" dan nīti f. = "pimpinan yang benar").
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : twice-born.
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : yang lahir dua kali.
 
-**dveṣa** m. = ⟪द्वेष⟫ : hatred.
+**dveṣa** m. = ⟪द्वेष⟫ : kebencian.
 
-**maitrī** f. = ⟪मैत्री⟫ : friendship, friendliness, friendly goodwill.
+**maitrī** f. = ⟪मैत्री⟫ : persahabatan, keramahan, welas asih yang ramah.
 
-**rāga** m. = ⟪राग⟫ : (red) color, passion, love.
+**rāga** m. = ⟪राग⟫ : (warna) merah, gairah, cinta.
 
-**lobha** m. = ⟪लोभ⟫ : greed, avarice.
+**lobha** m. = ⟪लोभ⟫ : keserakahan, ketamakan.
 
-**varṇa** m. = ⟪वर्ण⟫ : color, class, caste.
+**varṇa** m. = ⟪वर्ण⟫ : warna, jenis, kasta.
 
-**vārttā** f. = ⟪वार्त्ता⟫ : livelihood, economics (economy).
+**vārttā** f. = ⟪वार्त्ता⟫ : penghidupan, ekonomi (perdagangan).
 
-**vidyā** f. = ⟪विद्या⟫ : knowledge, science.
+**vidyā** f. = ⟪विद्या⟫ : pengetahuan, ilmu.
 
-**avidyā** f. = ⟪अविद्या⟫ : ignorance, non-knowledge.
+**avidyā** f. = ⟪अविद्या⟫ : kebodohan, ketidaktahuan.
 
 **ca** = ⟪च⟫ : dan.
-(Kata ini mengikuti kata yang dihubungkannya. Ketika menghubungkan beberapa kata, secara ideal ia berada di belakang kata pertama dari elemen terakhir yang dihubungkan: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
+(Ditempatkan setelah kata yang dihubungkannya. Jika beberapa kata digabungkan, sebaiknya diletakkan di belakang kata pertama dari rangkaian penggabungan terakhir: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫).
 
-**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : both ... and.
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : baik ... maupun.
 
 ---
-
 
 ## Pelajaran 6
 
-::: grammar-box
-Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **bentuk akar**. Angka yang mengikuti akar menunjukkan **kelas konjugasi**.
 
-- **P:** Akar hanya Parasmaipada
-- **Ā:** Akar hanya Ātmanepada
-- **U:** Ubhayapada ("kedua bentuk"): Akar digunakan dalam Parasmaipada dan Ātmanepada.
-- **():** Dalam kurung adalah bentuk orang ketiga tunggal present indicative (laṭ).
+
+
+
+
+
+::: grammar-box
+Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **Bentuk Akar**. Angka setelah akar menunjukkan **Kelas Konjugasi**.
+
+**P:** Akar hanya Parasmaipada
+**Ā:** Akar hanya Ātmanepada
+**U:** Ubhayapada ("kedua bentuk kata"): Akar digunakan dalam Parasmaipada dan Ātmanepada.
+**():** Dalam kurung adalah orang ketiga tunggal Present Indikatif (laṭ).
 :::
 **Pelajari kata-kata berikut:**
-- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : menghormati dengan pengorbanan, berkorban
-- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : menjadi, muncul, ada
-- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : mengingat, teringat
-- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : menari
-- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ : memimpin
-- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : berpikir
-- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : bingung
-- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : bertarung
-- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : masuk
-- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : melepaskan, mengeluarkan, memancarkan
+**yaj** 1 U (yajati) ⟪यज् यजति⟫ : memuliakan dengan persembahan, berkorban
+**bhū** 1 P (bhavati) ⟪भू भवति⟫ : menjadi, muncul, ada
+**smṛ** 1 P (smarati) ⟪स्मृ स्मरति⟫ : menghadirkan kembali, mengingat
+**nṛt** 4 P (nṛtyati) ⟪नृत् नृत्यति⟫ : menari
+**nī** 1 U (nayati) ⟪नी नयति⟫ : memimpin
+**man** 4 Ā (manyate) ⟪मन् मन्यते⟫ : berpikir
+**muh** 4 P (muhyati) ⟪मुह् मुह्यति⟫ : bingung
+**yudh** 4 Ā (yudhyate) ⟪युध् युध्यते⟫ : bertarung
+**viś** 6 P (viśati) ⟪विश् विशति⟫ : masuk
+**sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ : melepaskan, mengeluarkan dari diri sendiri, memancarkan
 
 ---
-
 
 ## Pelajaran 7
 
-**Learn the following words:**
 
-- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : mencapai, memperoleh
-- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : mencapai, memperoleh
-- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : marah
-- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : marah
-- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : mengunyah, makan
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : mendengar (sesuatu: Akusatif, seseorang: Genitif atau Akusatif; tentang: Akusatif; dari seseorang: Genitif, Ablatif, Instrumental)
-- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : memeras
-- **soma** m. ⟪सोम⟫ : minuman hasil perasan, Soma; Bulan (Masih diperdebatkan dari tanaman mana Soma diperas).
+
+
+
+
+
+**Pelajari kata-kata berikut:**
+
+**aś** 5 Ā (aśnute) ⟪अश् अश्नुते⟫ : mencapai, tiba di, memperoleh
+**āp** 5 P (āpnoti) ⟪आप् आप्नोति⟫ : mencapai, memperoleh
+**kup** 4 P (kupyati) ⟪कुप् कुप्यति⟫ : marah
+**krudh** 4 P (krudhyati) ⟪क्रुध् क्रुध्यति⟫ : marah
+**khād** 1 P (khādati) ⟪खाद् खादति⟫ : mengunyah, makan
+**śru** 5 P (śṛṇoti !) ⟪श्रु शृणोति⟫ : mendengar (sesuatu: Akusatif, seseorang: Genetif atau Akusatif; tentang: Akusatif; dari seseorang: Genetif, Ablatif, Instrumental)
+**su** 5 U (sunoti) ⟪सु सुनोति⟫ : memeras
+**soma** m. ⟪सोम⟫ : minuman perasan, Soma; Bulan (Dari tumbuhan mana Soma diperas masih menjadi perdebatan hingga hari ini).
 ::: media
 ![](/images/lekt0701.webp)
-Fig.: Apakah ini tanaman Soma Veda?: Fly agaric: *Amanita muscaria* (L.) Lam.
-(Sumber gambar: [Details](/en/licenses#lekt0701))
+Ilustr.: Apakah ini tanaman Soma Weda?: Jamur fly agarik: *Amanita muscaria* (L.) Lam.
+(Sumber gambar: [Detail](/licenses#lekt0701))
 :::
-- **phala** n. ⟪फल⟫ : buah (juga dalam arti kiasan: hasil (karmik) dari suatu tindakan)
-- **nṛtya** n. ⟪नृत्य⟫ : tari
-- **svarga** m. ⟪स्वर्ग⟫ : surga
-- **naraka** m. ⟪नरक⟫ : neraka (menurut konsep Hindu, alam semesta memiliki bentuk telur (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Telur Brahmā"): di atas bumi terdapat enam surga dengan kebahagiaan yang meningkat, di bawah bumi terdapat tujuh **pātāla** n. = ⟪पाताल⟫ yang disebut, tempat tinggal **nāga** m. = ⟪नाग⟫ (ular) dan makhluk mitos lainnya, di bawahnya terdapat 7 neraka dengan siksaan yang meningkat)
-- **aṅga** n. ⟪अङ्ग⟫ : anggota tubuh, komponen; juga = **vedāṅga** = ⟪वेदाङ्ग⟫
-- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : pergi (Menurut klasifikasi kata kerja asli, ini termasuk Kelas 1 Sekarang, tetapi sebenarnya adalah pembentukan dengan sufiks pembentukan batang sekarang **-ccha-**: **gam** » Derajat tengah (**gm** ») **ga-ccha-ti**)
+**phala** n. ⟪फल⟫ : buah (juga dalam makna kiasan: buah (karmik) dari suatu tindakan)
+**nṛtya** n. ⟪नृत्य⟫ : tarian
+**svarga** m. ⟪स्वर्ग⟫ : surga
+**naraka** m. ⟪नरक⟫ : neraka (menurut pandangan Hindu tertentu, alam semesta berbentuk seperti telur (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Telur Brahmā"): di atas bumi terdapat enam surga dengan kebahagiaan yang meningkat, di bawah bumi terdapat tujuh wilayah yang disebut **pātāla** n. = ⟪पाताल⟫, tempat tinggal **nāga** m. = ⟪नाग⟫ (ular) dan makhluk mitologis lainnya, di sana terdapat tujuh neraka dengan siksaan yang meningkat)
+**aṅga** n. ⟪अङ्ग⟫ : anggota tubuh, bagian; juga = **vedāṅga** = ⟪वेदाङ्ग⟫
+**gam** 1 P (gacchati) ⟪गम् गच्छति⟫ : pergi (Menurut klasifikasi kelas kata kerja lokal, ini termasuk Kelas Present 1, tetapi sebenarnya merupakan pembentukan dengan sufiks pembentuk akar present **-ccha-**: **gam** » Tingkat Rendah (**gm** ») **ga-ccha-ti**)
 
 
 
 ---
-
 
 ## Pelajaran 8
 
-**Learn the following words:**
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : menaklukkan, mengalahkan, memenangkan
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : menggenggam, memperoleh, merebut
-- **tu** ⟪तु⟫ : tetapi (muncul setelah kata pertama dari kalimat atau klausa yang berlawanan)
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : melihat, memandang (digunakan sebagai batang sekarang alih-alih akar **dṛś** 0 "melihat, memandang")
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : membuat, melakukan
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : memperpanjang
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : menjaga
-- **sārathi** m. ⟪सारथि⟫ : kusir, pengemudi kereta
-- **kapi** m. ⟪कपि⟫ : kera
-- **kumārī** f. ⟪कुमारी⟫ : gadis, dara
-- **nāga** m. ⟪नाग⟫ : yang telanjang, gajah, ular (gajah dan ular tidak berbulu, sama seperti manusia "kera telanjang")
-- **gaja** m. ⟪गज⟫ : gajah
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : berkabung
-- **śuka** m. ⟪शुक⟫ : burung beo
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : jatuh, terbang
-- **patrikā** f. ⟪पत्रिका⟫ : surat
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : mengukir, menulis (awalnya dengan stylus pada daun palem, tetapi kemudian secara umum)
+
+
+
+
+
+**Pelajari kata-kata berikut:**
+
+**ji** 1 P (jayati) ⟪जि जयति⟫ : menang, mengalahkan
+**labh** 1 Ā (labhate) ⟪लभ् लभते⟫ : memegang, menerima, mengambil
+**tu** ⟪तु⟫ : tetapi (berada setelah kata pertama dari kalimat atau bagian kalimat yang berlawanan)
+**paś** 4 P (paśyati) ⟪पश् पश्यति⟫ : melihat, memandang (digunakan sebagai akar present daripada akar **dṛś** 0 "melihat, memandang")
+**kṛ** 8 U (karoti) ⟪कृ करोति⟫ : membuat, melakukan
+**tan** 8 U (tanoti) ⟪तन् तनोति⟫ : meregangkan
+**rakṣ** 1 P (rakṣati) ⟪रक्ष् रक्षति⟫ : menjaga
+**sārathi** m. ⟪सारथि⟫ : kusir kereta
+**kapi** m. ⟪कपि⟫ : kera
+**kumārī** f. ⟪कुमारी⟫ : gadis, perawan
+**nāga** m. ⟪नाग⟫ : telanjang, gajah, ular (gajah dan ular tidak memiliki bulu, sama seperti "kera telanjang" manusia)
+**gaja** m. ⟪गज⟫ : gajah
+**śuc** 1 P (śocati) ⟪शुच् शोचति⟫ : berduka
+**śuka** m. ⟪शुक⟫ : burung beo
+**pat** 1 P (patati) ⟪पत् पतति⟫ : jatuh, terbang
+**patrikā** f. ⟪पत्रिका⟫ : surat
+**likh** 1 P (likhati) ⟪लिख् लिखति⟫ : mengukir, menulis (awalnya dengan alat runcing pada daun lontar, kemudian secara umum)
 
 ::: media
 ![](/images/lekt0809.jpg)
-Fig.: **likh** (⟪लिख्⟫) : stylus penulisan baja India untuk mengukir pada daun palem
-(Sumber gambar: [Details](/en/licenses#lekt0809))
-:::: media
-![](/images/lekt0810.jpg)
-Fig.: **likh** (⟪लिख्⟫) : Tongkat tulis suku Batak (Sumatra), sebagaimana kemungkinan juga digunakan di India
-(Sumber gambar: [Details](/en/licenses#lekt0809))
-::::
+Ilustr.: **likh** (⟪लिख्⟫) : Stylus tulis baja India untuk mengukir pada daun lontar
+(Sumber gambar: [Details](/licenses#lekt0809))
 :::
-- **sukha** n. ⟪सुख⟫ : kebahagiaan, kesejahteraan
-- **duḥkha** n. ⟪दुःख⟫ : kemalangan, penderitaan
+::: media
+![](/images/lekt0810.jpg)
+Ilustr.: **likh** (⟪लिख्⟫) : Tongkat tulis Batak (Sumatra), yang kemungkinan juga digunakan di India
+(Sumber gambar: [Details](/licenses#lekt0809))
+:::
+**sukha** n. ⟪सुख⟫ : kebahagiaan, kesejahteraan
+**duḥkha** n. ⟪दुःख⟫ : kesengsaraan, penderitaan
 
 ---
-
 
 ## Pelajaran 9
 
-**Learn the following words:**
 
-- **adhyayana** n. (⟪अध्ययन⟫) : Learning, esp. Vedic study
+
+
+
+
+
+**Pelajari kata-kata berikut:**
+
+**adhyayana** n. (⟪अध्ययन⟫) : belajar, khususnya studi Weda
 
 ::: media
 ![](/images/lekt0903.webp)
-Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram near Madurai.
-(Image source: [Details](/en/licenses#lekt0903))
+Ilm.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram dekat Madurai.
+(Sumber gambar: [Detail](/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Craftsman
+**kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : pengrajin
 
 ::: media
 ![](/images/lekt0902.webp)
-Fig.: **kāru** = ⟪कारु⟫, Gujarat.
-(Sumber gambar: [Details](/en/licenses#lekt0902))
+Ilm.: **kāru** = ⟪कारु⟫, Gujarat.
+(Sumber gambar: [Detail](/licenses#lekt0902))
 :::
-- **kuśīlava** m. (⟪कुशीलव⟫) : (wandering) showman, actor, singer
-- **kusīda** n. (⟪कुसीद⟫) : Usury
-- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : to pull
-- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : to plow
-- from this: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : Agriculture
-- **dāna** n. (⟪दान⟫) : Giving, gift, generosity
-- **pratigraha** m. (⟪प्रतिग्रह⟫) : Receiving, gift
-- **pravacana** n. (⟪प्रवचन⟫) : Discourse, (oral) instruction
-- **pāśupālya** n. (⟪पाशुपाल्य⟫) : Cattle keeping, cattle breeding
-- to **yaj** 1 U:
-- **ijyā** f. (⟪इज्या⟫) : Sacrifice (from \*yj » ij + suffix **yā**)
-- **yajana** n. (⟪यजन⟫) : Sacrifice on behalf of someone else
-- **rūpa** n. (⟪रूप⟫) : Appearance, form, beautiful form, nature, essence
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Trade
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Obedience, obedient service
+**kuśīlava** m. (⟪कुशीलव⟫) : (pengembara) pemain pertunjukan, aktor, penyanyi
+**kusīda** n. (⟪कुसीद⟫) : rentenir
+**kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : menarik
+**kṛṣ** 6 U (kṛṣati) ⟪कृष् कृषति⟫ : membajak
+dari itu: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : pertanian
+**dāna** n. (⟪दान⟫) : memberi, hadiah, kemurahan hati
+**pratigraha** m. (⟪प्रतिग्रह⟫) : menerima, hadiah
+**pravacana** n. (⟪प्रवचन⟫) : pidato, pengajaran (lisan)
+**pāśupālya** n. (⟪पाशुपाल्य⟫) : pemeliharaan ternak, peternakan
+untuk **yaj** 1 U:
+**ijyā** f. (⟪इज्या⟫) : persembahan (dari \*yj » ij + akhiran **yā**)
+**yajana** n. (⟪यजन⟫) : persembahan atas perintah orang lain
+**rūpa** n. (⟪रूप⟫) : penampilan, bentuk, bentuk indah, alam, esensi
+**vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : perdagangan
+**śuśrūṣā** f. (⟪शुश्रूषा⟫) : ketaatan, pelayanan yang taat
 
 ---
-
 
 ## Pelajaran 10
 
-**Learn the following words:**
 
-- **gṛha** n. ⟪गृह⟫ : house
-- **grāma** m. ⟪ग्राम⟫ : village
-- **nagara** n. ⟪नगर⟫ : city
+
+
+
+
+
+**Pelajari kata-kata berikut:**
+
+**gṛha** n. ⟪गृह⟫ : rumah
+**grāma** m. ⟪ग्राम⟫ : desa
+**nagara** n. ⟪नगर⟫ : kota
 
 ::: note-box
-Untuk kehidupan perkotaan dan desa, lihat Basham, *Wonder*, Bab 6.
-:::
-::: note-box
-Di India, pengorbanan terutama merupakan penghormatan kepada dewa sebagai tamu. Melalui ini, seseorang menimbulkan kewajiban terhadap dewa tersebut.
-
-Pembentukan kata: **yaj** 1 U + akhiran kṛt **-na-**.
-:::
-::: note-box
-Melalui mana seseorang memperoleh kesejahteraan dan kelahiran kembali yang baik.
-  :::- **pāpa** n. ⟪⟫ : evil deed, evil (opposite of **puṇya**)
-- **satya** n. ⟪सत्य⟫ : kebenaran
+Untuk kehidupan kota dan desa, lihat Basham, *Wonder*, Bab 6.
+**yajña** m. ⟪यज्ञ⟫ : persembahan
 
 :::
 ::: note-box
-Di India, kata-kata yang benar dikaitkan dengan kekuatan magis; sebenarnya, seluruh tatanan kosmis dipertahankan dan diciptakan oleh kata-kata yang benar. Untuk konsep penting ini, lihat karya fundamental:
+Persembahan di India pada dasarnya adalah penghormatan kepada dewa sebagai tamu. Dengan demikian, seseorang mengikat diri untuk memenuhi kewajiban terhadap dewa tersebut.
 
-Lüders, Heinrich (1869–1943): Varuṇa / Heinrich Lüders. Disunting dari warisan oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuṇa dan Ṛta. -- 1959. -- XXIII hlm., hlm. 340 - 764
-:::: media
+Pembentukan kata: **yaj** 1 U + kṛt-suffix **-na-**.
+**puṇya** n. ⟪पुण्य⟫ : perbuatan baik, kebajikan
+
+:::
+::: note-box
+Yang dengannya seseorang memperoleh kesejahteraan dan kelahiran kembali yang baik.
+**pāpa** n. ⟪पाप⟫ : kejahatan, keburukan (kebalikan dari **puṇya**)
+**satya** n. ⟪सत्य⟫ : kebenaran
+
+:::
+::: note-box
+Di India, kata-kata yang benar diyakini memiliki kekuatan magis; bahkan seluruh tatanan alam semesta dipertahankan dan diciptakan melalui kata-kata yang benar. Untuk konsep penting ini, lihat karya mendasar berikut:
+
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Dari warisan karya, diedit oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hlm., hlm. 340 - 764
+:::
+::: media
 ![](/images/lekt1003.webp)
-Fig.: ⟪वरुणः⟫
-(Sumber gambar: [Details](/en/licenses#lekt1003))
-::::
+Ilustr.: ⟪वरुणः⟫
+(Sumber gambar: [Detail](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : ketidakbenaran, kebohongan (lawan dari **satya**)
+**anṛta** n. ⟪अनृत⟫ : ketidakbenaran, kebohongan (kebalikan dari **satya**)
 
 ::: note-box
-Pembentukan kata **an-** ("tidak-") + **ṛta** n.
+Pembentukan kata **an-** („tidak-“) + **ṛta** n.
 
-**ṛta** adalah konsep sentral dalam Weda, yang terjemahannya diperdebatkan: "kebenaran" (Lüders, Thieme), "tata tertib" (Renou).
+**ṛta** adalah konsep sentral dalam Weda, yang terjemahannya masih diperdebatkan: „kebenaran“ (Lüders, Thieme), „tatanan“ (Renou).
+**ṛṣi** m. ⟪ऋषि⟫ : resi Weda, penyanyi lagu-lagu Weda
+
 :::
 ::: note-box
-Nama-nama **ṛṣi** ini disebutkan dalam Brāhmaṇa serta dalam daftar terpisah untuk para Weda. Semua Brāhmaṇa melacak garis keturunan mereka kepada **ṛṣi** semacam itu, yang nama-nama mereka menjadi dasar penamaan **gotra** (⟪गोत्र⟫) mereka. Untuk konsep **gotra**, lihat Basham, *Wonder*, Bab 5.
-:::: media
+Nama-nama **ṛṣi** ini disebutkan dalam Brāhmaṇa serta dalam daftar tersendiri mengenai Weda. Semua Brahmana menurunkan garis keturunan mereka dari **ṛṣi** semacam itu, yang dinamai berdasarkan **gotra** mereka (⟪गोत्र⟫). Untuk konsep **gotra**, lihat Basham, *Wonder*, Bab 5.
+:::
+::: media
 ![](/images/lekt1002.jpg)
-Fig.: ⟪विश्वामित्रः⟫
-(Sumber gambar: [Details](/en/licenses#lekt1002))
-::::
+Abb.: ⟪विश्वामित्रः⟫
+(Sumber gambar: [Details](/licenses#lekt1002))
 :::
-- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : mengatakan, berbicara
-- **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : bertanya (seseorang: Ak; tentang sesuatu: Ak)
-- **saha** ⟪सह⟫ : bersama-sama, secara bersama (juga dengan "bertarung dengan" dll.) (postposisi dengan kasus instrumental)
+**vad** 1 P (vadati) ⟪वद् वदति⟫ : mengatakan, berbicara
+**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : bertanya (seseorang: Akk.; tentang sesuatu: Akk.)
+**saha** ⟪सह⟫ : bersama, secara bersama-sama (juga dalam konteks "bertarung dengan" dan lain-lain) (Postposisi dengan Instrumentalis)
 
 ---
-
-- **makṣikā** f. ⟪मक्षिका⟫ : lalat, lebah
-- **vraṇa** m. ⟪व्रण⟫ : luka, kesalahan, kerusakan
-- **dhana** n. ⟪धन⟫ : hadiah, uang, kekayaan, harta
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : menginginkan
-- **pārthiva** m. ⟪पार्थिव⟫ : raja
-- **nīca** 3 ⟪नीच⟫ : rendah, dalam
-- **kalaha** m. ⟪कलह⟫ : perselisihan, pertengkaran
-- **śānti** f. ⟪शान्ति⟫ : penghentian, kedamaian, ketenangan
-- **śam** 4 P (śāmyati !) ⟪शम्⟫ ⟪शाम्यति⟫ : menjadi tenang, menjadi damai
-- **nara** m. ⟪नर⟫ : pria, manusia
-- **lubh** 4 P (lubhyati) ⟪लुभ्⟫ ⟪लुभ्यति⟫ : menginginkan
-- **sūkta** 3 ⟪सूक्त⟫ : diucapkan dengan baik, indah diucapkan; n. lagu
-- **śiṣya** m. ⟪शिष्य⟫ : siswa
-- **atra** ⟪अत्र⟫ : di sini
-- **tatra** ⟪तत्र⟫ : di sana
-- **bhānu** m. ⟪भानु⟫ : cahaya, matahari
-- **vand** 1 Ā (vandate) ⟪वन्द्⟫ ⟪वन्दते⟫ : menyapa, menghormati
-- **vṛṣ** 1 P (varṣati) ⟪वृष्⟫ ⟪वर्षति⟫ : hujan
-- **nṛpa** m. ⟪नृप⟫ : raja, pangeran
-- **kṣīra** n. ⟪क्षीर⟫ : susu
-- **mārga** m. ⟪मार्ग⟫ : jalan
-- **evam** ⟪एवम्⟫ : demikian
-- **iha** ⟪इह⟫ : di sini
-- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : menjadi indah, bersinar
-
----
-
 
 ## Pelajaran 11
 
-**Learn the following words:**
 
-- **iti** ⟪इति⟫ : demikian
-- Muncul *setelah* perumusan pikiran, keinginan, ucapan, atau kutipan, berfungsi sebagai tanda kutip (").
-- mis. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmana berkata: 'Orang benar pergi ke surga'" = "Brahmana berkata bahwa orang benar pergi ke surga".
-- Bahasa Sanskerta tidak memiliki kalimat tak langsung; konstruksi dengan **iti** sering kali perlu diterjemahkan ke dalam bahasa Indonesia sebagai kalimat tak langsung.
-- **... (kutipan) ... iti śrutiḥ** = "demikianlah firman Weda".
-- Seringkali kata kerja berpikir dapat disimpulkan setelah **iti**: "berpikir: '...' ia melakukan itu". Terjemahkan secara idiomatik ke dalam bahasa Indonesia (mis. "Karena ia lapar, ia pergi...").
 
-- **evam** ⟪एवम्⟫ : thus (adverbial, e.g. **evaṃ jayati** "thus he conquers").
-- **na** ⟪न⟫ : not
-  - Negates individual words (stands immediately before: **na sādhuḥ** "a not-good") or entire sentences (stands at the beginning or immediately before the verb).
 
-- **putra** m. ⟪पुत्र⟫ : putra (Di India, penting untuk memiliki seorang putra yang dapat melakukan upacara pengorbanan bagi para leluhur.)
-- **dharma** m. ⟪धर्म⟫ : ("yang menegakkan", yaitu) benar, hukum, adat, karakter.
-- Paling sesuai dengan hukum alam/hukum moral. Setiap orang memiliki kewajiban masing-masing (**svadharma**) menurut **varṇa** dan **āśrama** (tahap kehidupan).
-- **adharma** m. ⟪अधर्म⟫ : salah (kebalikan dari **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : menginginkan (**iṣ-ccha-ti**).
 
-**Some nominal formations:**
 
-- **vad** 1 P ⟪वद्⟫ : to say
-  - **vāda** m. ⟪वाद⟫ : utterance, statement, word
-  - **vadana** n. ⟪वदन⟫ : speaking; instrument of speech: mouth, face
+
+**Pelajari kata-kata berikut:**
+
+**iti** ⟪इति⟫ : demikian
+Berada *setelah* perumusan sebuah pikiran, keinginan, ucapan, kutipan, seolah-olah sebagai tanda petik (").
+Contoh: **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmana mengatakan: 'Orang-orang suci pergi ke surga'" = "Brahmana mengatakan bahwa orang-orang suci pergi ke surga".
+Dalam bahasa Sanskerta tidak ada kalimat tak langsung; pembentukan dengan **iti** sering kali harus diterjemahkan ke dalam bahasa Jerman sebagai kalimat tak langsung.
+**... (kutipan) ... iti śrutiḥ** = "demikianlah Weda".
+Seringkali setelah **iti** perlu ditambahkan sebuah kata kerja berpikir: "berpikir: '...' ia melakukan hal itu". Dalam bahasa Jerman diterjemahkan secara idiomatis (misalnya "Karena ia lapar, ia pergi...").
+
+**evam** ⟪एवम्⟫ : demikian (adverbia, misalnya **evaṃ jayati** "demikian ia menang").
+**na** ⟪न⟫ : tidak
+Membantah kata-kata tunggal (berada tepat di depannya: **na sādhuḥ** "seorang yang tidak baik") atau seluruh kalimat (berada di awal atau tepat sebelum kata kerja).
+
+**putra** m. ⟪पुत्र⟫ : putra (Di India, penting untuk memiliki seorang putra yang dapat mempersembahkan korban untuk para leluhur.)
+**dharma** m. ⟪धर्म⟫ : ("yang teguh", yaitu) hukum, undang-undang, adat, karakter.
+Paling sesuai dengan hukum alam/hukum moral. Setiap orang memiliki kewajiban sendiri-sendiri menurut **varṇa** dan **āśrama** (tahap kehidupan) (**svadharma**).
+**adharma** m. ⟪अधर्म⟫ : ketidakadilan (kebalikan dari **dharma**).
+**iṣ** 6 P (icchati) ⟪इष् इच्छति⟫ : menginginkan (**iṣ-ccha-ti**).
+
+**Beberapa pembentukan nomina:**
+
+**vad** 1 P ⟪वद्⟫ : berkata
+**vāda** m. ⟪वाद⟫ : ucapan, pernyataan, kata
+**vadana** n. ⟪वदन⟫ : berbicara; alat bicara: mulut, wajah
 
 ::: media
 ![](/images/lekt1102.webp)
-Fig.: **vadanāni** = ⟪वदनानि⟫, Jamalpur district, Bangladesh.
-(Image source: [Details](/en/licenses#lekt1102))
+Gambar: **vadanāni** = ⟪वदनानि⟫
+(Sumber gambar: [Details](/licenses#lekt1102))
 :::
-- **prach** 6 P ⟪प्रच्छ्⟫ : to ask
-  - **praśna** m. ⟪प्रश्न⟫ : question (suffix **-na** as in **yaj-ña**)
+**prach** 6 P ⟪प्रच्छ्⟫ : bertanya
+**praśna** m. ⟪प्रश्न⟫ : pertanyaan (akhiran **-na** seperti dalam **yaj-ña**)
 
-- **iṣ** 6 P ⟪इष्⟫ : to wish
-  - **iṣṭi** f. ⟪इष्टि⟫ : wish (**iṣ** + **-ti**)
+**iṣ** 6 P ⟪इष्⟫ : menginginkan
+**iṣṭi** f. ⟪इष्टि⟫ : keinginan (**iṣ** + **-ti**)
 
 ---
-
 
 ## Pelajaran 12
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : terbangun, terbangun menuju pengetahuan, mengenali; PPP **buddha** 3 yang terbangun, oleh karena itu **Buddha** = "Yang Terbangun" (bukan: Yang Tersiar)
+
+
+
+
+
+
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : terbangun, terbangun menuju pengetahuan; PPP **buddha** 3 telah bangun, oleh karena itu **Buddha** = "yang Telah Bangun" (bukan: yang Tersiar)
 
 ::: media
 ![](/images/lekt1201.webp)
-Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Sumber gambar: [Details](/en/licenses#lekt1201))
+Gambar: ⟪गौतमो बुद्धः⟫
+(Sumber gambar: [Details](/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : membakar (sesuatu)
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : mengatasi, bertahan, bertahan dengan sabar = memaafkan
-- **mṛga** m. ⟪मृग⟫ : hewan liar
-- **mārga** m. ⟪मार्ग⟫ : jalan (jalan-jalan sering berupa jejak hewan)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : (sesuatu) membakar
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : mengatasi, menanggung, menanggung dengan sabar = memaafkan
+**mṛga** m. ⟪मृग⟫ : binatang buas
+**mārga** m. ⟪मार्ग⟫ : jalan (jalan sering kali merupakan jalur hewan liar)
 
 ::: media
 ![](/images/lekt1202.webp)
-Fig.: ⟪मार्गः⟫
-(Image source: [Details](/en/licenses#lekt1202))
+Gambar: ⟪मार्गः⟫
+(Sumber gambar: [Details](/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : also (postposed)
+**api** ⟪अपि⟫ : juga (ditempatkan setelah)
 
-Mengenai kelas konjugasi ke-6, beberapa akar kata dihitung oleh para gramatikus pribumi yang membentuk batang kini dengan infix nasal dan vokal tematik a, misalnya:
+Beberapa akar kata dihitung oleh para gramatikus pribumi ke dalam kelas present keenam, yang membentuk batang present dengan infix nasal dan vokal tema a, misalnya:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : melepaskan, membiarkan; membebaskan dari siklus kelahiran kembali (**saṃsāra** m.) = menyelamatkan
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : menyiram
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : melepaskan, melonggarkan, membebaskan; dari siklus kelahiran kembali (**saṃsāra** m.) = menebus
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : memerciki
 
-Regarding word formation:
+Tentang pembentukan kata:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : pelepasan, pembebasan, keselamatan
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : pengurapan raja selama konsekrasi kerajaan, konsekrasi kerajaan
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : kebangkitan (melalui mana seorang Buddha atau Jina mencapai wawasan pembebasan)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : Pelepasan, pembebasan, penebusan
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Penyemburan air pada seorang raja saat upacara penobatan, penobatan raja
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : Kebangkitan (melalui mana seorang Buddha atau Jina mencapai wawasan pembebas)
 
 ::: media
 ![](/images/lekt1203.webp)
-Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Image source: [Details](/en/licenses#lekt1203))
+Gambar: ⟪महावीरो जिनः⟫
+(Sumber gambar: [Details](/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : knowledge, organ of knowledge.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Pengetahuan, organ pengetahuan.
 
 ---
 
-### 12.5.1. Bentuk Pasif dan PPP dari Akar yang Telah Dipelajari Sejauh Ini
+### 12.5.1. Pasif dan PPP dari akar-akar yang telah dipelajari sejauh ini
 
-| Root:br⟪धातु⟫ | Passive Present 3. sg. Indicative:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+| Akar:br⟪धातु⟫ | Pasif Present 3. sg. Indikatif:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
-| **aś** 5 Ā:br⟪अश्⟫ | **aśyate**:br⟪अश्यते⟫ | **aṣṭa**:br⟪अष्ट⟫ |
-| **āp** 5 P:br⟪आप्⟫ | **āpyate**:br⟪आप्यते⟫ | **āpta**:br⟪आप्त⟫ |
-| **as** 2 P:br⟪अस्⟫ | — | **bhūta**:br⟪भूत⟫ |
-| **bhaj** 1 U:br⟪भज्⟫ | **bhajyate**:br⟪भज्यते⟫ | **bhakta**:br⟪भक्त⟫ |
-| **bhū** 1 P:br⟪भू⟫ | **bhūyate**:br⟪भूयते⟫ | **bhūta**:br⟪भूत⟫ |
-| **budh** 4 Ā / 1 U:br⟪बुध्⟫ | **budhyate**:br⟪बुध्यते⟫ | **buddha**:br⟪बुद्ध⟫ |
-| **dah** 1 P:br⟪दह्⟫ | **dahyate**:br⟪दह्यते⟫ | **dagdha**:br⟪दग्ध⟫ |
-| **div** 4 P:br⟪दिव्⟫ | **dīvyate**:br⟪दीव्यते⟫ | **dyūta**:br⟪द्यूत⟫ |
-| **dṛś**:br⟪दृश्⟫ | **dṛśyate**:br⟪दृश्यते⟫ | **dṛṣṭa**:br⟪दृष्ट⟫ |
-| **gam** 1 P:br⟪गम्⟫ | **gamyate**:br⟪गम्यते⟫ | **gata**:br⟪गत⟫ |
-| **grah** 9 U:br⟪ग्रह्⟫ | **gṛhyate**:br⟪गृह्यते⟫ | **gṛhīta**:br⟪गृहीत⟫ |
-| **hṛ** 1 U:br⟪हृ⟫ | **hriyate**:br⟪ह्रियते⟫ | **hṛta**:br⟪हृत⟫ |
-| **i** 2 P:br⟪इ⟫ | **īyate**:br⟪ईयते⟫ | **ita**:br⟪इत⟫ |
-| **iṣ** 6 P:br⟪इष्⟫ | **iṣyate**:br⟪इष्यते⟫ | **iṣṭa**:br⟪इष्ट⟫ |
-| **jan** 4 Ā:br⟪जन्⟫ | **janyate**:br⟪जन्यते⟫ | **jāta**:br⟪जात⟫ |
-| **ji** 1 P:br⟪जि⟫ | **jīyate**:br⟪जीयते⟫ | **jita**:br⟪जित⟫ |
-| **kath** 10 U:br⟪कथ्⟫ | **kathyate**:br⟪कथ्यते⟫ | **kathita**:br⟪कथित⟫ |
-| **khād** 1 P:br⟪खाद्⟫ | **khādyate**:br⟪खाद्यते⟫ | **khādita**:br⟪खादित⟫ |
-| **kṛ** 8 U:br⟪कृ⟫ | **kriyate**:br⟪क्रियते⟫ | **kṛta**:br⟪कृत⟫ |
-| **krudh** 4 P:br⟪क्रुध्⟫ | **krudhyate**:br⟪क्रुध्यते⟫ | **kruddha**:br⟪क्रुद्ध⟫ |
-| **kup** 4 P:br⟪कुप्⟫ | **kupyate**:br⟪कुप्यते⟫ | **kupita**:br⟪कुपित⟫ |
-| **labh** 1 Ā:br⟪लभ्⟫ | **labhyate**:br⟪लभ्यते⟫ | **labdha**:br⟪लब्ध⟫ |
-| **man** 4 Ā:br⟪मन्⟫ | **manyate**:br⟪मन्यते⟫ | **mata**:br⟪मत⟫ |
-| **mṛ** 6 Ā:br⟪मृ⟫ | **mriyate**:br⟪म्रियते⟫ | **mṛta**:br⟪मृत⟫ |
-| **muc** 6 U:br⟪मुच्⟫ | **mucyate**:br⟪मुच्यते⟫ | **mukta**:br⟪मुक्त⟫ |
-| **nī** 1 U:br⟪नी⟫ | **nīyate**:br⟪नीयते⟫ | **nīta**:br⟪नीत⟫ |
-| **paś**:br⟪पश्⟫ | **(dṛśyate)**:br⟪दृश्यते⟫ | **(dṛṣṭa)**:br⟪दृष्ट⟫ |
-| **pat** 1 P:br⟪पत्⟫ | **patyate**:br⟪पत्यते⟫ | **patita**:br⟪पतित⟫ |
-| **prach** 6 P:br⟪प्रच्छ्⟫ | **pṛcchyate**:br⟪पृच्छ्यते⟫ | **pṛṣṭa**:br⟪पृष्ट⟫ |
-| **pūj** 10 U:br⟪पूज्⟫ | **pūjyate**:br⟪पूज्यते⟫ | **pūjita**:br⟪पूजित⟫ |
-| **rakṣ** 1 P:br⟪रक्ष्⟫ | **rakṣyate**:br⟪रक्ष्यते⟫ | **rakṣita**:br⟪रक्षित⟫ |
-| **ram** 1 Ā:br⟪रम्⟫ | **ramyate**:br⟪रम्यते⟫ | **rata**:br⟪रत⟫ |
-| **sah** 1 Ā:br⟪सह्⟫ | **sahyate**:br⟪सह्यते⟫ | **soḍha**:br⟪सोढ⟫ |
-| **sic** 6 U:br⟪सिच्⟫ | **sicyate**:br⟪सिच्यते⟫ | **sikta**:br⟪सिक्त⟫ |
-| **śru** 5 P:br⟪श्रु⟫ | **śrūyate**:br⟪श्रूयते⟫ | **śruta**:br⟪श्रुत⟫ |
-| **su** 5 U:br⟪सु⟫ | **sūyate**:br⟪सूयते⟫ | **suta**:br⟪सुत⟫ |
-| **svap** 2 P:br⟪स्वप्⟫ | **supyate**:br⟪सुप्यते⟫ | **supta**:br⟪सुप्त⟫ |
-| **tyaj** 1 P:br⟪त्यज्⟫ | **tyajyate**:br⟪त्यज्यते⟫ | **tyakta**:br⟪त्यक्त⟫ |
-| **uch**:br⟪उछ्⟫ | — | **uṣita**:br⟪उषित⟫ |
-
-| **vad** 1 P:br⟪वद्⟫ | **udyate**:br⟪उद्यते⟫ | **udita**:br⟪उदित⟫ |
-| **vas** 1 P:br⟪वस्⟫ | **uṣyate**:br⟪उष्यते⟫ | **uṣita**:br⟪उषित⟫ |
-| **vadh**:br⟪वध्⟫ | **vadyate**:br⟪वद्यते⟫ | **hata**:br⟪हत⟫ |
-| **yaj** 1 U:br⟪यज्⟫ | **ijyate**:br⟪इज्यते⟫ | **iṣṭa**:br⟪इष्ट⟫ |
-| **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate**:br⟪युध्यते⟫ | **yuddha**:br⟪युद्ध⟫ |
+| **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
+| **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
+| **as** 2 P:br⟪अस्⟫ | — | **bhūta** :br⟪भूत⟫ |
+| **bhaj** 1 U:br⟪भज्⟫ | **bhajyate** :br⟪भज्यते⟫ | **bhakta** :br⟪भक्त⟫ |
+| **bhū** 1 P:br⟪भू⟫ | **bhūyate** :br⟪भूयते⟫ | **bhūta** :br⟪भूत⟫ |
+| **budh** 4 Ā / 1 U:br⟪बुध्⟫ | **budhyate** :br⟪बुध्यते⟫ | **buddha** :br⟪बुद्ध⟫ |
+| **dah** 1 P:br⟪दह्⟫ | **dahyate** :br⟪दह्यते⟫ | **dagdha** :br⟪दग्ध⟫ |
+| **div** 4 P:br⟪दिव्⟫ | **dīvyate** :br⟪दीव्यते⟫ | **dyūta** :br⟪द्यूत⟫ |
+| **dṛś** :br⟪दृश्⟫ | **dṛśyate** :br⟪दृश्यते⟫ | **dṛṣṭa** :br⟪दृष्ट⟫ |
+| **gam** 1 P:br⟪गम्⟫ | **gamyate** :br⟪गम्यते⟫ | **gata** :br⟪गत⟫ |
+| **grah** 9 U:br⟪ग्रह्⟫ | **gṛhyate** :br⟪गृह्यते⟫ | **gṛhīta** :br⟪गृहीत⟫ |
+| **hṛ** 1 U:br⟪हृ⟫ | **hriyate** :br⟪ह्रियते⟫ | **hṛta** :br⟪हृत⟫ |
+| **i** 2 P:br⟪इ⟫ | **īyate** :br⟪ईयते⟫ | **ita** :br⟪इत⟫ |
+| **iṣ** 6 P:br⟪इष्⟫ | **iṣyate** :br⟪इष्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
+| **jan** 4 Ā:br⟪जन्⟫ | **janyate** :br⟪जन्यते⟫ | **jāta** :br⟪जात⟫ |
+| **ji** 1 P:br⟪जि⟫ | **jīyate** :br⟪जीयते⟫ | **jita** :br⟪जित⟫ |
+| **kath** 10 U:br⟪कथ्⟫ | **kathyate** :br⟪कथ्यते⟫ | **kathita** :br⟪कथित⟫ |
+| **khād** 1 P:br⟪खाद्⟫ | **khādyate** :br⟪खाद्यते⟫ | **khādita** :br⟪खादित⟫ |
+| **kṛ** 8 U:br⟪कृ⟫ | **kriyate** :br⟪क्रियते⟫ | **kṛta** :br⟪कृत⟫ |
+| **krudh** 4 P:br⟪क्रुध्⟫ | **krudhyate** :br⟪क्रुध्यते⟫ | **kruddha** :br⟪क्रुद्ध⟫ |
+| **kup** 4 P:br⟪कुप्⟫ | **kupyate** :br⟪कुप्यते⟫ | **kupita** :br⟪कुपित⟫ |
+| **labh** 1 Ā:br⟪लभ्⟫ | **labhyate** :br⟪लभ्यते⟫ | **labdha** :br⟪लब्ध⟫ |
+| **man** 4 Ā:br⟪मन्⟫ | **manyate** :br⟪मन्यते⟫ | **mata** :br⟪मत⟫ |
+| **mṛ** 6 Ā:br⟪मृ⟫ | **mriyate** :br⟪म्रियते⟫ | **mṛta** :br⟪मृत⟫ |
+| **muc** 6 U:br⟪मुच्⟫ | **mucyate** :br⟪मुच्यते⟫ | **mukta** :br⟪मुक्त⟫ |
+| **nī** 1 U:br⟪नी⟫ | **nīyate** :br⟪नीयते⟫ | **nīta** :br⟪नीत⟫ |
+| **paś** :br⟪पश्⟫ | **(dṛśyate)** :br⟪दृश्यते⟫ | **(dṛṣṭa)** :br⟪दृष्ट⟫ |
+| **pat** 1 P:br⟪पत्⟫ | **patyate** :br⟪पत्यते⟫ | **patita** :br⟪पतित⟫ |
+| **prach** 6 P:br⟪प्रच्छ्⟫ | **pṛcchyate** :br⟪पृच्छ्यते⟫ | **pṛṣṭa** :br⟪पृष्ट⟫ |
+| **pūj** 10 U:br⟪पूज्⟫ | **pūjyate** :br⟪पूज्यते⟫ | **pūjita** :br⟪पूजित⟫ |
+| **rakṣ** 1 P:br⟪रक्ष्⟫ | **rakṣyate** :br⟪रक्ष्यते⟫ | **rakṣita** :br⟪रक्षित⟫ |
+| **ram** 1 Ā:br⟪रम्⟫ | **ramyate** :br⟪रम्यते⟫ | **rata** :br⟪रत⟫ |
+| **sah** 1 Ā:br⟪सह्⟫ | **sahyate** :br⟪सह्यते⟫ | **soḍha** :br⟪सोढ⟫ |
+| **sic** 6 U:br⟪सिच्⟫ | **sicyate** :br⟪सिच्यते⟫ | **sikta** :br⟪सिक्त⟫ |
+| **śru** 5 P:br⟪श्रु⟫ | **śrūyate** :br⟪श्रूयते⟫ | **śruta** :br⟪श्रुत⟫ |
+| **su** 5 U:br⟪सु⟫ | **sūyate** :br⟪सूयते⟫ | **suta** :br⟪सुत⟫ |
+| **svap** 2 P:br⟪स्वप्⟫ | **supyate** :br⟪सुप्यते⟫ | **supta** :br⟪सुप्त⟫ |
+| **tyaj** 1 P:br⟪त्यज्⟫ | **tyajyate** :br⟪त्यज्यते⟫ | **tyakta** :br⟪त्यक्त⟫ |
+| **uch** :br⟪उछ्⟫ | — | **uṣita** :br⟪उषित⟫ |
+| **vad** 1 P:br⟪वद्⟫ | **udyate** :br⟪उद्यते⟫ | **udita** :br⟪उदित⟫ |
+| **vas** 1 P:br⟪वस्⟫ | **uṣyate** :br⟪उष्यते⟫ | **uṣita** :br⟪उषित⟫ |
+| **vadh** :br⟪वध्⟫ | **vadyate** :br⟪वद्यते⟫ | **hata** :br⟪हत⟫ |
+| **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
+| **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
 ---
-
 
 ## Pelajaran 13
 
-Learn the following words:
 
-- **eva** ⟪एव⟫ : emphasizes the preceding word
-- **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Spiritual, divine.'
+
+
+
+
+Pelajari kata-kata berikut:
+
+**eva** ⟪एव⟫ : menekankan kata sebelumnya
+**asura** m. ⟪असुर⟫ : iblis
+
+> **ASURA.** 'Spiritual, ilahi.'
 >
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
+> Pada bagian-bagian tertua dari Ṛgveda, istilah ini digunakan untuk roh tertinggi, dan sama dengan Ahura para Zoroastrian. Dalam arti 'dewa', istilah ini diterapkan kepada beberapa dewa utama, seperti Indra, Agni, dan Varuṇa. Kemudian istilah ini memperoleh makna yang sepenuhnya berlawanan, dan mulai menandakan, seperti sekarang, seorang iblis atau musuh para dewa.
 >
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
+> Kata ini ditemukan dengan signifikasi ini di bagian-bagian akhir Ṛgveda, khususnya pada buku terakhir, dan juga dalam Atharvaveda. Para Brāhmaṇa memberikan makna yang sama, dan mencatat banyak pertempuran antara para Asura dan para dewa. Menurut Taittirīya Brāhmaṇa, napas *(asu)* Prajapati menjadi hidup, dan "dengan napas itu ia menciptakan aku sebagai Asuras." Di bagian lain dari karya yang sama dikatakan bahwa Prajāpati "mengandung. Ia menciptakan Asura dari perutnya." Śatapatha Brāhmaṇa sejalan dengan pernyataan sebelumnya, dan menyatakan bahwa "ia menciptakan Asura dari napas bawahnya." Taittirīya Āraṇyaka menggambarkan bahwa Prajāpati menciptakan dewa, manusia, leluhur, Gandharva, dan Apsaras dari air, dan bahwa para Asura, Rakṣasa, dan piśāca muncul dari tetesan yang tumpah. Pernyataan Manu adalah bahwa mereka diciptakan oleh para Prajāpati.
 >
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+> Menurut Viṣṇu Purāṇa, mereka dihasilkan dari selangkangan Brahma (prajāpati). Keterangan Vāyu Purāṇa adalah: "Asura pertama kali dihasilkan sebagai putra dari selangkangnya (Prajāpati). *Asu* dinyatakan oleh Brāhmaṇa berarti napas. Dari itu makhluk-makhluk ini dihasilkan; karenanya mereka adalah Asura." Kata ini telah lama digunakan sebagai nama umum untuk musuh para dewa, termasuk Daitya dan Danava serta keturunan Kaśyapa lainnya, tetapi tidak termasuk Rakṣasa yang berasal dari Pulastya.
 >
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+> Dalam arti ini, derivasi yang berbeda telah ditemukan untuknya: sumbernya bukan lagi asu, 'napas,' tetapi awalan *a* diambil sebagai prefix negatif, dan *asura* menandakan 'bukan dewa;' karenanya, menurut beberapa orang, muncul kata *sura,* yang umum digunakan untuk 'seorang dewa.'"
 >
-> [Source: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Sumber: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
 Fig.: ⟪महिषासुरः⟫
-(Image source: [Details](/en/licenses#lekt1301))
+(Gambar sumber: [Details](/licenses#lekt1301))
 :::
-- **guṇa** m. ⟪गुण⟫ : thread, cord; quality, good quality
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : to go, to fall into
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : to be, to exist
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : to throw, (away-)cast
-- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : to go
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : to protect, to guard
+**guṇa** m. ⟪गुण⟫ : Benang, tali; Sifat, sifat baik
+**pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ : berjalan, masuk ke dalam
+**as** 2 P (asti) ⟪अस् अस्ति⟫ : ada, berada di sana
+**as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस् अस्यति अस्यते अस्त⟫ : melempar, (membuang)
+**i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ एति ईयते इत⟫ : pergi
+**pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा पाति पायते पात⟫ : melindungi, menjaga
 
 ::: indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : to drink (traditionally counted among the 1st class)
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ : minum (secara tradisional diklasifikasikan ke dalam kelas 1)
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : to hate, to be hostile to
-- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : to eat, to consume
-- **anna** n. ⟪अन्न⟫ : food (from PPP: *ad-na: that which is eaten)
+**dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ : membenci, memusuhi
+**ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ : makan, mengonsumsi
+**anna** n. ⟪अन्न⟫ : Makanan (dari PPP: *ad-na: yang dimakan)
 
 ::: media
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
-(Image source: [Details](/en/licenses#lekt1304))
+(Gambar sumber: [Details](/licenses#lekt1304))
 :::
-Word formation:
+Pembentukan kata:
 
 pad 4 Ā:
 
 ::: indent
-**pada** n. ⟪पद⟫ : step, location, place
+**pada** n. ⟪पद⟫ : Langkah, posisi, tempat
 
-**pāda** m. ⟪पाद⟫ : foot, a quarter, verse line
-:::: media
+**pāda** m. ⟪पाद⟫ : Kaki, seperempat, baris syair
+:::
+::: media
 ![](/images/lekt1303.webp)
-Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Image source: [Details](/en/licenses#lekt1303))
-::::
+Fig.: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
+(Gambar sumber: [Details](/licenses#lekt1303))
 :::
 dviṣ 2 U:
 
 ::: indent
-**dveṣa** ⟪द्वेष⟫ : hatred
+**dveṣa** ⟪द्वेष⟫ : Kebencian
 :::
 ---
 
-
 ## Pelajaran 14
 
-* **śīla n.** (⟪शील⟫) : (good) character, morality
-* **bhūṣ-aṇa n** (⟪भूषण⟫) : jewelry
-* **dīpa m.** (⟪दीप⟫) : lamp
+
+
+
+
+
+
+* **śīla n.** (⟪शील⟫) : (Sifat baik) Karakter, moralitas
+* **bhūṣ-aṇa n** (⟪भूषण⟫) : Perhiasan
+* **dīpa m.** (⟪दीप⟫) : Lampu
 
 ::: media
 ![](/images/lekt1405.webp)
-Fig.: ⟪दीपाः⟫
-(Sumber gambar: [Details](/en/licenses#lekt1405))
+Gambar: ⟪दीपाः⟫
+(Sumber gambar: [Details](/licenses#lekt1405))
 :::
-* **bala n.** (⟪बल⟫) : kekerasan, kekuatan; pasukan militer, tentara
+* **bala n.** (⟪बल⟫) : kekerasan, kekuatan; pasukan militer
 * **bāla 3** (⟪बाल⟫) : muda, kekanak-kanakan, bodoh; m. anak laki-laki
 * **bālā f.** (⟪बाला⟫) : gadis muda
 * **nara m.** (⟪नर⟫) : pria, manusia
 * **śatru m.** (⟪शत्रु⟫) : musuh
-* **loka m.** (⟪लोक⟫) : dunia; Tunggal dan Jamak: rakyat, manusia, penduduk
+* **loka m.** (⟪लोक⟫) : dunia; Sing. dan Plur.: orang-orang, manusia, rakyat
 * **jala n.** (⟪जल⟫) : air
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : lahir, muncul, tampak
-* **jan-a m.** (⟪जन⟫) : makhluk, manusia, rakyat
-* **vac 2 P** (vakti, tidak ada bentuk jamak ke-3!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : berkata, berbicara kepada (akusatif)
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन् जायते जन्यते जायते जात⟫) : lahir, muncul, hadir
+* **jan-a m.** (⟪जन⟫) : makhluk, manusia, orang
+* **vac 2 P** (vakti, tidak ada bentuk jamak ke-3!), Pass. ucyate, PPP ukta (⟪वच् वक्ति उच्यते उक्त⟫) : berkata, berbicara kepada (dvitīyā)
 * **uk-ti f.** (⟪उक्ति⟫) : ucapan, kata
 * **vac-ana n.** (⟪वचन⟫) : berbicara, kata
 * **vāk-ya n.** (⟪वाक्य⟫) : kata, pidato
 
-
 ## Pelajaran 15
 
-puṣkala 3: magnificent, splendid, abundant
 
-vā : or (postposed)
 
-athavā : or (preposed)
 
-caturtha 3 (f.: caturthī): fourth
 
-vid “find” 6 U vindati ; Pass. vidyate ; PPP vinna / vitta
 
-vid “know” 2 P vetti ; Pass. vidyate ; PPP vidita
 
-pat “fly, fall” 1 P patati ; Pass. patyate ; PPP patita
+⟪पुष्कल⟫ 3: indah, megah, berlimpah
 
-ardha 3: half, m.n. half
+⟪वा⟫ : atau (ditempatkan setelah)
 
-pūjā f.: honor, honorable reception, religious worship (Pūjā)
+⟪अथवा⟫ : atau (ditempatkan sebelum)
+
+⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): keempat
+
+⟪विद्⟫ "menemukan" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त विद्⟫ "tahu" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित पत्⟫ "terbang, jatuh" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित अर्ध⟫ 3: setengah, m.n. separuh
+
+⟪पूजा⟫ f.: penghormatan, sambutan hormat, pemujaan religius (Pūjā)
 ::: media
 ![](/images/lekt1504.webp)
-Fig.: pūjā
-(Image source: [Details](/en/licenses#lekt1504))
+Gambar: ⟪पूजा⟫
+(Sumber gambar: [Details](/licenses#lekt1504))
 :::
-kula n.: herd, multitude, lineage, ancestry, family
+⟪कुल⟫ n.: kawanan, kerumunan, klan, keturunan, keluarga
 
-indra m.: prince, first, best among ; king of gods Indra
+⟪इन्द्र⟫ m.: Pangeran, Yang Pertama, Yang Terbaik di antara ; Raja Dewa Indra
 ::: media
 ![](/images/lekt1505.webp)
-Fig.: indraḥ
-(Image source: [Details](/en/licenses#lekt1505))
+Fig.: ⟪इन्द्रः⟫
+(Sumber gambar: [Details](/licenses#lekt1505))
 :::
-dāsa m.: slave, serf, servant
+⟪दास⟫ m.: Hamba, Budak, Pelayan
 
-dāsī f.: slave woman, serf woman, female servant
+⟪दासी⟫ f.: Hamba perempuan, Budak perempuan, Pelayan perempuan
 
-kāla m.: time, (proper) moment ; fate, death ; god of death Kāla
+⟪काल⟫ m.: Waktu, (saat yang) tepat ; Takdir, Kematian ; Dewa Kematian Kāla
 
-kāla 3: black, dark blue-black, dark
+⟪काल⟫ 3: hitam, biru-hitam, gelap
 
-puruṣa m.: human being, man, servant
+⟪पुरुष⟫ m.: Manusia, Pria, Hamba
 
--jana as the second member of Tatpuruṣa compounds often expresses the plural
+\-⟪जन⟫ sebagai komponen kedua dari Tatpuruṣa sering kali merupakan ekspresi jamak
 
-stu 2 stauti ; Pass. stūyate ; PPP stuta : praise, extol
+⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : memuji, memuliakan
 
-from this:
+darinya:
 
 ::: indent
-stuti f.: praise, hymn of praise
+⟪स्तुति⟫ f.: Pujian, Nyanyian pujian
 
-stotra n.: (means of praise =) hymn of praise, hymn
+⟪स्तोत्र⟫ n.: (Alat untuk memuji =) Nyanyian pujian, Himne
 :::
-siṃha m.: lion (_Panthera leo persica_)
+⟪सिंह⟫ m.: Singa (_Panthera leo persica_)
 ::: media
 ![](/images/lekt1506.webp)
-Fig.: siṃhaḥ
-(Image source: [Details](/en/licenses#lekt1506))
+Fig.: ⟪सिंहः⟫
+(Sumber gambar: [Details](/licenses#lekt1506))
 :::
-vyāghra m.: tiger (_Panthera tigris tigris_) (literally: yawner)
+⟪व्याघ्र⟫ m.: Harimau (_Panthera tigris tigris_) (secara harfiah: Penjaga kebun)
 ::: media
 ![](/images/lekt1507.webp)
-Fig.: vyāghraḥ
-(Image source: [Details](/en/licenses#lekt1507))
+Fig.: ⟪व्याघ्रः⟫
+(Sumber gambar: [Details](/licenses#lekt1507))
 :::
-iva (postposed): as if, like (in comparisons: vyāghra iva puruṣaḥ = “a man like a tiger,” “a tiger-like man”)
+⟪इव⟫ (ditempatkan setelah): seolah-olah, seperti (dalam perbandingan: ⟪व्याघ्र इव पुरुषः⟫ = "seorang pria seperti harimau", "pria yang setara dengan harimau"
 
-eva (postposed): menekankan kata sebelumnya, sering kali sesuai dengan penekanan dalam bahasa Jerman, semacam emotikon `\&lt;!&gt;`, misalnya, satyameva jayati “kebenaran saja menang,” “kebenaran secara spesifik menang,” “kebenaran menang”
+⟪एव⟫ (ditempatkan setelah): menekankan hal sebelumnya, dalam bahasa Jerman sering kali sesuai dengan penekanan, semacam emotikon `\&lt;!\&gt;`, mis. ⟪सत्यमेव जयति⟫ "hanya kebenaran yang menang", "tepatnya kebenaran yang menang", "kebenaran menang"
 
-ari m.: musuh (menurut Thieme, Orang Asing dalam Ṛgveda: asalnya = orang asing)
+⟪अरि⟫ m.: Musuh (menurut Thieme, Der Fremdling im Ṛgveda: pada awalnya = orang asing)
 
 ::: indent
-ārya 3: Aryan, noble ; m. Aryan (self-designation of Sanskrit-speaking ancient Indians, literally: hospitable (Thieme)) ; noble person, gentleman
+⟪आर्य⟫ 3: Arya, mulia ; m. Aryan (sebutan diri untuk orang India kuno yang berbicara bahasa Sanskerta, secara harfiah: Tamu yang ramah (Thieme)) ; Orang mulia
 :::
-to jan
+ke ⟪जन्⟫
 
 ::: indent
-jāti f.: birth, kind, caste (on jāti as caste, see Basham, Wonder, pp. 148ff.)
+⟪जाति⟫ f.: kelahiran, jenis, kasta (untuk kasta ⟪जाति⟫ lihat Basham, Wonder, hlm. 148ff.)
 :::
-mṛ 4 Ā mriyate ; Pass. mriyate ; PPP mṛta : mati (according to Indian grammarians: 6 Ā)
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : mati (menurut ahli tata bahasa India: 6 Ā)
 
-from this:
+dari itu:
 
 ::: indent
-maraṇa n.: dying, death
+⟪मरण⟫ n.: kematian, mati
 
-mṛti f.: dying, death
+⟪मृति⟫ f.: kematian, mati
 
-mṛtyu m.: death ; personified: god of death
+⟪मृत्यु⟫ m.: kematian ; dipersonifikasikan: dewa kematian
 :::
 ## Pelajaran 16
 
-⟪अध्यापन⟫ n.: Teaching, instruction
+
+
+
+
+
+
+⟪अध्यापन⟫ n.: pengajaran, pelajaran
 
 ::: media
 ![](/images/lekt1602.webp)
-Fig.: ⟪अध्यापनम्⟫
-"Ini adalah upacara khusus di sebuah kuil kecil di Satara (⟪सातारा⟫). Upacara ini dilakukan oleh para siswa Swami Muktananda Vedashala pada kesempatan Mahāśivarātri. Ini adalah sebuah sekolah Veda di mana anak-anak menghafal teks-teks suci yang dikenal sebagai Weda. Sekolah ini mengajarkan Krishna Yajurveda dan bagian-bagian tertentu dari Samaveda. Saya menulis tesis master saya tentang sekolah ini."
-(Sumber gambar: [Details](/en/licenses#lekt1602))
+Gambar: ⟪अध्यापनम्⟫
+"Ini adalah upacara khusus di sebuah kuil kecil di Satara (⟪सातारा⟫). Upacara ini dilakukan oleh para siswa Swami Muktananda Vedashala pada perayaan Mahāśivarātri. Ini adalah sebuah sekolah Veda, di mana anak-anak menghafal teks-teks suci yang disebut Veda. Sekolah ini mengajarkan Krishna Yajurveda dan beberapa bagian dari Samaveda. Saya sedang mengerjakan tesis master saya tentang sekolah ini."
+(Sumber gambar: [Details](/licenses#lekt1602))
 :::
-⟪अनसूया⟫ f.: Tidak adanya keluhan, bebas dari kecemburuan
+⟪अनसूया⟫ f.: tidak menggerutu, tanpa kecemburuan
 
-⟪नृशंस्य⟫ n.: Cruelty, baseness
+⟪नृशंस्य⟫ n.: keburukan, kejahatan
 
-from this:
+dari itu:
 
 ::: indent
-⟪अनृशंस्य⟫ n.: Absence of cruelty
+⟪अनृशंस्य⟫ n.: tidak jahat
 :::
-⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : to live
+⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : hidup
 
-from this:
+dari itu:
 
 ::: indent
-⟪आजीव⟫ m.: livelihood
+⟪आजीव⟫ m.: penghidupan
 :::
-⟪क्षमा⟫ f.: Patience, forbearance, tolerance
+⟪क्षमा⟫ f.: kesabaran, keteguhan hati, kemurahan hati
 
-⟪क्षेम⟫ n.: Rest, peace, well-being, secure possession
+⟪क्षेम⟫ n.: ketenangan, kedamaian, kesejahteraan, kepemilikan yang aman
 
-⟪चित्त⟫ n.: Consciousness, thought, mind
+⟪चित्त⟫ n.: kesadaran, berpikir, pikiran
 
-⟪निरोध⟫ m.: Stopping, bringing to a standstill
+⟪निरोध⟫ m.: menghentikan, membuat berhenti
 
-* **bhūta n.** (⟪भूत⟫) (PPP from bhū): being, spirit, ghost
+* **bhūta n.** (⟪भूत⟫) (PPP dari bhū): makhluk, hantu
 
-⟪योग⟫ m.: Harnessing, connection, union, acquisition; Yoga
+⟪योग⟫ m.: pengikatan, hubungan, persatuan, perolehan ; Yoga
 
 ::: media
 ![](/images/lekt1601.webp)
-Fig.: ⟪योगी⟫
+Gambar: ⟪योगी⟫
 Birla Mandir, Delhi
-(Sumber gambar: [Details](/en/licenses#lekt1601))
+(Sumber gambar: [Details](/licenses#lekt1601))
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : berputar, memutar diri, berada (di suatu tempat), berdiam
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : berputar, berpaling, berada (di suatu tempat), tinggal
 
-⟪शस्त्र⟫ (śastra) n.: Cutting tool, cutting weapon, sword, weapon
+⟪शस्त्र⟫ (śastra) n.: alat pemotong, senjata tajam, pedang, senjata
 
-⟪शौच⟫ n.: Purification, purity
+⟪शौच⟫ n.: pembersihan, kemurnian
 
-⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: leading to the goal, effective
+⟪साधन⟫ m.,n. ⟪साधनी साधना⟫ f.: menuju tujuan, menyebabkan
 
-⟪अहिंसा⟫ f.: The act of harming no one, non-injury, non-violence
+⟪अहिंसा⟫ f.: tidak merugikan siapa pun, non-kerusakan, ahimsa
 
 ::: media
 ![](/images/lekt1603.jpg)
-Fig.: ⟪अहिंसा⟫
-"Tangan dengan roda di telapak tangan melambangkan Sumpah Jain Ahimsa. Kata di tengah adalah 'ahimsa'. Roda tersebut mewakili dharmacakra, yang melambangkan tekad untuk menghentikan siklus reinkarnasi melalui pengejaran tanpa henti terhadap kebenaran dan non-kekerasan."
-(Sumber gambar: [Details](/en/licenses#lekt1603))
+Abb.: ⟪अहिंसा⟫
+"Tangan dengan roda di telapak tangan melambangkan Sumpah Ahimsa Jain. Kata di tengah adalah "ahimsa". Roda mewakili dharmacakra yang melambangkan tekad untuk menghentikan siklus reinkarnasi melalui pengejaran kebenaran dan non-kekerasan yang tanpa henti."
+(Sumber gambar: [Details](/licenses#lekt1603))
 :::
 ## Pelajaran 17
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ PPP ⟪हत⟫ : memukul, membunuh, membantai
 
-from this:
+
+
+
+
+
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ PPP ⟪हत⟫ : memukul, membunuh, membunuh
+
+dari itu:
 
 ::: indent
-⟪घात⟫ m.: killing, slaughter
-:::: media
-![](/images/lekt1703.webp)
-Fig.: ⟪घाताः⟫
-Bangalore = ಬೆಂಗಳೂರು
-(Image source: [Details](/en/licenses#lekt1703))
-::::
+⟪घात⟫ m.: pembunuhan
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : to sit
+::: media
+![](/images/lekt1703.webp)
+Abb.: ⟪घाताः⟫
+Bangalore = ಬೆಂಗಳೂರು
+(Sumber gambar: [Details](/licenses#lekt1703))
+:::
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : duduk
 
-from this:
+dari itu:
 
 ::: indent
-⟪आसन⟫ n.: duduk, tempat duduk; juga: postur yoga (āsanas) dari yogin
-:::: media
+⟪आसन⟫ n.: duduk, tempat duduk ; juga: posisi duduk yogi
+:::
+::: media
 ![](/images/lekt1701.webp)
-Fig.: ⟪योगासनम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt1701))
-::::
+Abb.: ⟪योगासनम्⟫
+(Sumber gambar: [Details](/licenses#lekt1701))
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : menangis, meratap
 
-from this:
+dari itu:
 
 ::: indent
-⟪रुद्र⟫ m.: (si peneriak =) dewa badai Rudra
+⟪रुद्र⟫ m.: (yang meratap =) dewa badai Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ tanpa pasif dan tanpa PPP: berbicara, mengatakan (kepada seseorang: akusatif ganda)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ tidak ada Passiv dan PPP: berbicara, mengatakan (sesuatu kepada seseorang: akusatif ganda)
 
-⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : to milk
+⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : memerah
 
 ::: media
 ![](/images/lekt1702.webp)
-Fig.: ⟪दोग्धि⟫
-(Sumber gambar: [Details](/en/licenses#lekt1702))
+Ilustr.: ⟪दोग्धि⟫
+(Sumber gambar: [Details](/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : menunjukkan, menginstruksikan, memerintahkan
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : menunjukkan, menunjuk, memerintah
 
-from this:
+dari itu:
 
 ::: indent
-⟪दिष्टि⟫ f.: instruction, fortunate occurrence
+⟪दिष्टि⟫ f.: petunjuk, nasib baik
 
-⟪दिष्ट्या⟫ Instr.: (literally: by a fortunate occurrence) O fortunate occurrence (exclamation of joy and felicity)
+⟪दिष्ट्या⟫ Instr.: (secara harfiah: melalui nasib baik) Wahai nasib baik (seruan kegembiraan dan kebahagiaan)
 :::
 ## Pelajaran 18
 
-⟪सुष्टु⟫ 3: highly praised, distinguished, good
 
-⟪शोभन⟫ 3: brilliant, magnificent, splendid, beautiful, good
 
-⟪सम⟫ 3: equal, even, similar (with instrumental case)
 
-⟪व्याधि⟫ m.: illness
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫, deceiver
 
-⟪वह्नि⟫ m. = ⟪अग्नि⟫
 
-⟪ज्ञान⟫ n.: knowledge
+⟪सुष्टु⟫ 3: dipuji tinggi, unggul, baik
 
-⟪शूर⟫ 3: brave, heroic; m.: hero
+⟪शोभन⟫ 3: cemerlang, megah, indah, cantik, baik
 
-⟪शब्द⟫ m.: sound, tone, signal sound: word
+⟪सम⟫ 3: sama, setara, serupa (dengan Instrumentalis)
 
-⟪उदक⟫ n.: water
+⟪व्याधि⟫ m.: penyakit
 
-⟪अन्त⟫ m.: end, limit
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , penipu
 
-⟪आदि⟫ m.: beginning
+⟪वह्नि⟫ m. = ⟪अग्नि ज्ञान⟫ n.: pengetahuan
 
-⟪दण्ड⟫ m.: stick, cudgel, punishment
+⟪शूर⟫ 3: berani, kepahlawanan ; m.: pahlawan
 
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: measure, limitation
+⟪शब्द⟫ m.: bunyi, nada, bunyi isyarat: kata
 
-⟪सहित⟫ 3: united, provided with
+⟪उदक⟫ n.: air
 
-⟪हस्त⟫ m.: hand
+⟪अन्त⟫ m.: akhir, batas
 
-⟪प्रभृति⟫ f.: beginning
+⟪आदि⟫ m.: awal
 
+⟪दण्ड⟫ m.: tongkat, cambuk, hukuman
+
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.: ukuran, batasan
+
+⟪सहित⟫ 3: bersatu, dilengkapi dengan
+
+⟪हस्त⟫ m.: tangan
+
+⟪प्रभृति⟫ f.: awal
 
 ## Pelajaran 19
 
-**⟪अर्थ⟫ m.:** tujuan, sasaran, makna (sebuah kata), kekayaan, harta, rejeki. **⟪अर्थम्⟫** (Akk.), **⟪अर्थेन⟫** (Instr.) dengan Gen. atau sebagai anggota kedua dari Tatpuruṣa: demi ..., agar.
 
-**⟪अर्थ⟫** adalah salah satu dari tiga tujuan hidup (**⟪पुरुषार्थ⟫**), sebagaimana dijelaskan dalam literatur sekuler dan keagamaan:
+
+
+
+
+
+**⟪अर्थ⟫ m.:** tujuan, sasaran, makna (sebuah kata), kekayaan, harta benda. ⟪अर्थम्⟫ (Akk.), ⟪अर्थेन⟫ (Instr.) dengan Gen. atau sebagai komponen belakang Tatpuruṣa: demi ..., untuk.
+
+⟪अर्थ⟫ adalah salah satu dari tiga tujuan hidup (⟪पुरुषार्थ⟫), sebagaimana digambarkan dalam literatur duniawi dan religius:
 
 ::: indent
-**⟪धर्म⟫ m.:** perolehan kebajikan melalui melakukan apa yang benar, atau setidaknya menghindari kejahatan, yang akan timbul dari ketidakpatuhan terhadap Dharma
+**⟪धर्म⟫ m.:** perolehan pahala melalui tindakan yang sesuai dengan kewajiban, atau setidaknya menghindari kejahatan yang akan timbul dari ketidakpatuhan terhadap Dharma
 
-**⟪अर्थ⟫ m.:** purposeful behavior, attainment of prosperity
+**⟪अर्थ⟫ m.:** perilaku rasional-tujuan, perolehan kemakmuran
 
-**⟪काम⟫ m.:** kesenangan indra, khususnya juga dalam ranah seksual
-:::: media
+**⟪काम⟫ m.:** Kenikmatan indra, khususnya di bidang seksual
+:::
+::: media
 ![](/images/lekt1809.webp)
 Fig.: ⟪कामः⟫
 Ilustrasi untuk ⟪कामसूत्र⟫
-(Sumber gambar: [Details](/en/licenses#lekt1809))
-::::
+(Sumber gambar: [Details](/licenses#lekt1809))
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** berdiri, tetap, bertahan, berada di suatu tempat. (Secara tradisional dikategorikan ke dalam kelas konjugasi pertama, meskipun ini adalah kelas present tematik yang menduplikasi, seperti ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** berdiri, tetap tinggal, bertahan, berada. (Secara tradisional diklasifikasikan ke dalam kelas present pertama, meskipun ini adalah kelas tematik yang menduplikasi, seperti ⟪पा⟫ 1 ⟪पिबति⟫)
 
-**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** step forward, place oneself in a respectful posture before someone
+**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** maju, berdiri dengan sikap hormat di hadapan seseorang
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** break up, go away
+**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** berangkat, pergi
 
-from **⟪स्था⟫** :
+dari ⟪स्था⟫ :
 
 ::: indent
-**⟪स्थान⟫ n.:** place, (right) location, site
+**⟪स्थान⟫ n.:** tempat, (kanan) lokasi, posisi
 
-**⟪स्थिति⟫ f.:** staying, steadfastness, persistence
+**⟪स्थिति⟫ f.:** tinggal, keteguhan hati, bertahan
 :::
-**⟪गर्भ⟫ m.:** womb, lap, interior, embryo / foetus. At the end of a Bahuvrīhi often: "interior", e.g.
+**⟪गर्भ⟫ m.:** rahim, kandungan, bagian dalam, embrio / janin. Di akhir Bahuvrīhi sering berarti: "bagian dalam", mis.
 
 ::: indent
-**⟪धनगर्भ⟫ 3:** "whose interior is money = in which money is located"
+**⟪धनगर्भ⟫ 3:** "yang bagian dalamnya adalah uang = di mana uang berada"
 
-**⟪गर्भगृह⟫ n.:** ruang terdalam kuil Hindu, yang berisi gambar dewa terpenting kuil tersebut (untuk konstruksi kuil Hindu lihat: Volwahsen, A.: India : Buildings of Hindus, Buddhists and Jains. -- Munich, 1968)
-:::: media
+**⟪गर्भगृह⟫ n.:** ruang paling dalam di kuil Hindu, yang berisi gambar dewa terpenting kuil tersebut (untuk struktur kuil Hindu lihat: Volwahsen, A.: India : Bangunan Hindu, Buddha dan Jain. -- München, 1968)
+:::
+::: media
 ![](/images/lekt1901.webp)
 Fig.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Sumber gambar: [Details](/en/licenses#lekt1901))
-::::
+(Sumber gambar: [Details](/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** pemercik air = awan hujan
+**⟪वारिद⟫ m.:** pembawa air = awan hujan
 
 ::: media
 ![](/images/lekt1902.jpg)
 Fig.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
-(Image source: [Details](/en/licenses#lekt1902))
+(Sumber gambar: [Details](/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** blow
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** bertiup
 
-from this:
+darvon:
 
 ::: indent
-**⟪वात⟫ m.:** wind
+**⟪वात⟫ m.:** Angin
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** lead, drive (trans.)
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** membawa, mengemudikan (trans.)
 
-**⟪छत्त्र⟫ n.:** sunshade, umbrella
+**⟪छत्त्र⟫ n.:** Payung matahari, payung
 
 ::: media
 ![](/images/lekt1904.webp)
-Fig.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), dalam pakaian tradisional, adalah kebiasaan di bagian selatan Kerala. _Onappottan_ mengunjungi rumah-rumah selama festival _onam_ dan memberikan berkah. Baru-baru ini, _onappottan_ telah menjadi pemandangan langka, terbatas di desa-desa."
-(Sumber gambar: [Details](/en/licenses#lekt1904))
+Abb.: ⟪छत्त्रम्⟫
+"_Onappottan_ (ഓണപ്പൊട്ടന്‍), dalam kostum tradisional, adalah kebiasaan di bagian selatan Kerala. _Onappottan_ mengunjungi rumah-rumah selama festival _onam_ dan memberikan berkah. Baru-baru ini, _onappottan_ telah menjadi pemandangan langka, terbatas pada desa-desa."
+(Sumber gambar: [Details](/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** sarjana, resi ; 3: cerdik, terampil (dalam)
+**⟪पण्डित⟫ m.:** Cendekiawan, orang bijaksana ; 3: cerdas, ahli (dalam)
 
 ::: media
 ![](/images/lekt1903.jpg)
-Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
-⟪१९५९⟫
-(Image source: [Details](/en/licenses#lekt1903))
+Abb.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+(Sumber gambar: [Details](/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** reside with, inhabit (Acc., Loc.) ; visit, go to (Acc.) ; serve, tend, worship ; practice, use ; attend, have sexual intercourse
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** tinggal di, mendiami (Akk., Lok.) ; mengunjungi, pergi kepada (Akk.) ; melayani, merawat, menyembah ; berlatih, menggunakan ; berhubungan seksual
 
-**⟪नि⟫ Prefix:** down, into
+**⟪नि⟫ Präverb:** turun, masuk ke dalam
 
-**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** reside with, inhabit, visit
+**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** tinggal di, mendiami, mengunjungi
 
-**⟪अमुत्र⟫ :** there, in the beyond
+**⟪अमुत्र⟫ :** di sana, di alam akhirat
 
-**⟪इह⟫ :** here, in this world
+**⟪इह⟫ :** di sini, di alam fana
 
-**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** find
+**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** menemukan
 
 **⟪भार्या⟫ f.:** yang harus dipelihara = istri
 
-**⟪प्रिय⟫ 3:** dear, pleasant
+**⟪प्रिय⟫ 3:** manis, menyenangkan
 
-**⟪मित्र⟫ n. (!):** friend
+**⟪मित्र⟫ n. (!):** Teman
 
-**⟪बान्धव⟫ m.:** relative
+**⟪बान्धव⟫ m.:** Kerabat
 
-**⟪हि⟫ :** karena, memang (tidak boleh berdiri di awal kalimat)
-
+**⟪हि⟫ :** karena, memang (tidak boleh berada di awal kalimat)
 
 ## Pelajaran 20
 
-⟪वा⟫ : or
 
-⟪आश्रम⟫, m., n.: pertapaan, tahap kehidupan, fase kehidupan (yaitu sebagai ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ dan mungkin juga sebagai ⟪सन्न्यासिन्⟫; lihat Basham, Wonder hlm. 159f.)
+
+
+
+
+
+⟪वा⟫ : atau
+
+⟪आश्रम⟫ m., n.: Pertapaan, tahap kehidupan, fase hidup (yaitu sebagai ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ dan mungkin sebagai ⟪सन्न्यासिन्⟫ ; lihat Basham, Wonder hal. 159f.)
 
 ::: media
 ![](/images/lekt2008.webp)
-Fig.: ⟪आश्रमः⟫
+Gambar: ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "Ini sebenarnya bagian dari Ashram di Rishikesh tempat para Beatles tinggal. Bagian spesifik ini tidak ada saat mereka berada di sana, tetapi memang terlihat keren."
-(Sumber gambar: [Details](/en/licenses#lekt2008))
+(Sumber gambar: [Details](/licenses#lekt2008))
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : melakukan, membuat, menyebabkan
+⟪कर ३⟫ f. ⟪करी । करा⟫ : melakukan, membuat, menyebabkan
 
-⟪कर⟫ m.: hand (to ⟪कृ⟫ 8)
+⟪कर⟫ m.: Tangan (ke ⟪कृ⟫ 8)
 
-⟪कर⟫ m.: payment, tribute, tax (not to be confused with ⟪कृ⟫, but likely a loanword from Tamil - தமிழ்)
+⟪कर⟫ m.: Pungutan, upeti, pajak (bukan terkait ⟪कृ⟫, melainkan kemungkinan kata serapan dari bahasa Tamil - தமிழ்)
 
-⟪क्रिया⟫ f.: action, sacred action, sacrificial action, ceremony (to ⟪कृ⟫ 8)
+⟪क्रिया⟫ f.: Tindakan, tindakan suci, tindakan pengorbanan, upacara (ke ⟪कृ⟫ 8)
 
-⟪अधि⟫ Prefix: over, on, up, with reference to
+⟪अधि⟫ Prefiks: di atas, ke atas, er-, dengan merujuk pada
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : bertemu, mencapai, memperoleh
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : menemukan, mencapai, memperoleh
 
-⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : to reduce, to weaken
+⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : mengurangi, melemahkan
 
-⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : giving, bestowing
+⟪दायक ३⟫ f.: ⟪दायिका⟫ : memberi, menganugerahkan
 
-⟪नृप⟫ m.: "protector of men" = king
+⟪नृप⟫ m.: "Pelindung para pria" = Raja
 
-⟪प्रणिधान⟫ n.: application, effort, attention towards, helpfulness, reflection, vow
+⟪प्रणिधान⟫ n.: Penerapan, usaha, perhatian terhadap, kesediaan melayani, perenungan, sumpah
 
-⟪बाधना⟫ f.: distress, plague, torment
+⟪बाधना⟫ f.: Kesesakan, bencana, siksaan
 
-⟪भार्या⟫ f.: "yang harus dipelihara" = istri
+⟪भार्या⟫ f.: "Yang harus dipelihara" = Istri
 
-⟪भावना⟫ f.: meditative expansion (to ⟪भू⟫ causative)
+⟪भावना⟫ f.: Pengembangan meditatif (ke Kausatif ⟪भू⟫)
 
-⟪मही⟫ f.: earth, ground, soil
+⟪मही⟫ f.: Bumi, tanah
 
-⟪लक्षण⟫ n.: feature, characteristic, attribute
+⟪लक्षण⟫ n.: Ciri, tanda, atribut
 
-⟪विप्र⟫ m.: "trembler" = poet, singer, priest, Brahmin
+⟪विप्र⟫ m.: "Yang gemetar" = Penyair, penyanyi, pendeta, Brahmana
 
-⟪विषय⟫ m.: area, region, object, sense object
+⟪विषय⟫ m.: Wilayah, bidang, objek, objek indra
 
-⟪अपवर्ग⟫ m.: end, liberation
+⟪अपवर्ग⟫ m.: Akhir, pembebasan
 
-⟪नि⟫ Prefix: downwards, down, into, backwards
+⟪नि⟫ Prefiks: ke bawah, turun, masuk, mundur
 
-⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : to turn around, to return
+⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : berbalik, kembali
 
-⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : to sit, to settle down
+⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : duduk, menetap
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : duduk, terduduk (dalam arti kiasan) = menjadi tenang, damai, ceria; bersikap baik kepada seseorang (genitif ⟪षष्ठी⟫)
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : duduk, menjadi duduk (dalam arti kiasan) = menjadi tenang, damai, ceria ; menunjukkan kemurahan hati kepada seseorang (Genitif ⟪षष्ठी⟫)
 
-⟪समाधि⟫ m.: inner collection, highest attention, meditative "absorption"
+⟪समाधि⟫ m.: pengumpulan batin, perhatian tertinggi, "penenggelaman" meditatif
 
-⟪स्वाध्याय⟫ m.: "self-study", recitation (terutama dari Veda), studi tentang Veda
+⟪स्वाध्याय⟫ m.: "studi diri", pembacaan (terutama Weda), studi Weda
 
-⟪परलौकिक⟫ ⟪३⟫ : pertaining to the beyond, otherworldly
+⟪परलौकिक ३⟫ : berkaitan dengan alam akhirat, bersifat lain dunia
 
-⟪तनु⟫ ⟪३⟫ : slender
+⟪तनु ३⟫ : ramping
 
-⟪मध्य⟫ ⟪३⟫ : middle; n. middle
+⟪मध्य ३⟫ : sedang; n. tengah
 
-⟪पृथु⟫ ⟪३⟫ (⟪पृथ्वी⟫) : wide, broad, large
+⟪पृथु ३⟫ (⟪पृथ्वी⟫) : luas, lebar, besar
 
-⟪श्रोणि⟫ ⟪।⟫ ⟪श्रोणी⟫ f.: hip
+⟪श्रोणि । श्रोणी⟫ f.: pinggul
 
-⟪रक्त⟫ ⟪३⟫ : colored, red
+⟪रक्त ३⟫ : berwarna, merah
 
-⟪ओष्ठ⟫ m.: lip
+⟪ओष्ठ⟫ m.: bibir
 
-⟪असित⟫ ⟪३⟫ : dark, black
+⟪असित ३⟫ : gelap, hitam
 
-⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : to see
+⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : melihat
 
-⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : to bend
+⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : membungkuk
 
-⟪उद्⟫ Prefix: up, upwards, out, out-
+⟪उद्⟫ Prefiks: ke atas, naik, keluar, dari-
 
-⟪नाभि⟫ f.: navel
+⟪नाभि⟫ f.: pusar
 
-⟪वपुस्⟫ n.: beauty, form, body (declension see later)
+⟪वपुस्⟫ n.: keindahan, bentuk tubuh (penurunan lihat nanti)
 
-⟪स्त्री⟫ f.: woman
+⟪स्त्री⟫ f.: wanita
 
-⟪स्तन⟫ m.: breast
+⟪स्तन⟫ m.: dada
 
-⟪दरैद्र⟫ ⟪३⟫ : poor
+⟪दरैद्र ३⟫ : miskin
 
-⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : to flourish
+⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : berkembang biak
 
-⟪ऋध्⟫ + ⟪सम्⟫ : to flourish; PPP: successful, rich
+⟪ऋध्⟫ + ⟪सम्⟫ : berkembang biak; PPP: berhasil, kaya
 
-⟪विचित्र⟫ ⟪३⟫ : colorful, diverse, beautiful, wonderful, strange
+⟪विचित्र ३⟫ : berwarna-warni, beragam, indah, ajaib, aneh
 
-⟪विधि⟫ m.(!): arrangement, law, regulation; creation, fate
+⟪विधि⟫ m.(!): pengaturan, hukum, peraturan; penciptaan, takdir
 
-⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to move oneself
-
+⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : bergerak
 
 ## Pelajaran 21
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** mengalokasikan sesuatu kepada seseorang (Akk.), menimpa, mencintai, menghormati, menyembah seseorang
 
-derived from:
+
+
+
+
+
+**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** membagi sesuatu (Akk.) kepada seseorang, memberikan, mencintai seseorang, menghormati, menyembah
+
+dari itu:
 
 ::: indent
-**⟪भक्ति⟫ f.:** bhakti, kesetiaan, cinta (dalam ranah keagamaan: cinta dan rasa hormat kepada dewa personal. lihat Basham, Wonder hlm. 332f.)
-**⟪भाग⟫ m.:** bagi, berbagi
-**⟪भग⟫ m.:** (bagian) baik, nasib, kesejahteraan, martabat
-**⟪भगवन्त्⟫ 3:** memiliki nasib, memiliki martabat (epitet dari ⟪विष्णु⟫ – ⟪कृष्ण⟫)
-:::: media
+**⟪भक्ति⟫ f.:** ketekunan, kesetiaan, cinta (dalam bidang agama: cinta dan hormat kepada Tuhan pribadi. lihat Basham, Wonder hlm. 332f.)  
+**⟪भाग⟫ m.:** bagian, porsi  
+**⟪भग⟫ m.:** (bagian yang baik) keberuntungan, kesejahteraan, martabat  
+**⟪भगवन्त्⟫ 3:** memiliki keberuntungan, memiliki martabat (nama lain dari ⟪विष्णु⟫ – ⟪कृष्ण⟫)
+:::
+::: media
 ![](/images/lekt2103.webp)
-Fig.: ⟪भगवान्कृष्णः⟫
-⟪भगवान्कृष्णः⟫ sebagai ⟪जगन्नाथ⟫ (kanan) dengan saudara perempuan seperdadanya ⟪सुभद्रा⟫ (tengah) dan kakak laki-lakinya yang lebih tua ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Sumber gambar: [Details](/en/licenses#lekt2103))
-::::
+Ilustr.: ⟪भगवान्कृष्णः भगवान्कृष्णः⟫ sebagai ⟪जगन्नाथ⟫ (kanan) dengan saudara perempuan tirinya ⟪सुभद्रा⟫ (tengah) dan kakak laki-laki tertuanya ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
+(Sumber gambar: [Details](/licenses#lekt2103))
 :::
 ::: indent
-**⟪भगवद्गीता⟫ f.:** "Lagu (⟪गीता⟫) dari yang Bermartabat (⟪कृष्ण⟫)"
+**⟪भगवद्गीता⟫ f.:** "Nyanyian (⟪गीता⟫) dari Yang Mulia (⟪कृष्ण⟫)"
 :::
 ::: media
 ![](/images/lekt2105.webp)
-Fig.: ⟪भगवद्गीता⟫
-⟪भगवद्गीता⟫ - Naskah, abad ke-19.
-(Sumber gambar: [Details](/en/licenses#lekt2105))
+Ilustr.: ⟪भगवद्गीता भगवद्गीता⟫ - Manuskrip, abad ke-19
+(Sumber gambar: [Details](/licenses#lekt2105))
 :::
 ::: indent
-**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (sebenarnya bentuk desideratif dari ⟪भज्⟫: ingin berpartisipasi): memohon
+**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (sebenarnya merupakan Desiderativa dari ⟪भज्⟫: menginginkan agar seseorang berpartisipasi): mengemis
 :::
-berasal dari:
+darinya:
 
 ::: indent
-**⟪भिक्षु⟫ m.:** pengemis, biksu
-:::: media
+**⟪भिक्षु⟫ m.:** Pengemis, biksu
+:::
+::: media
 ![](/images/lekt2104.webp)
-Fig.: ⟪भिक्षवः⟫
+Ilustr.: ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
-(Sumber gambar: [Details](/en/licenses#lekt2104))
-::::
+(Sumber gambar: [Details](/licenses#lekt2104))
 :::
-**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** merusak (intransitif), menjadi buruk, dipermalukan
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** rusak (intransitif), menjadi buruk, menjadi malu
 
 ::: indent
-**⟪दोष⟫ m.:** fault
+**⟪दोष⟫ m.:** Kesalahan
 :::
-**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, fermented) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, roast, toast, etc.
-
+**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (tidak ada PPP, melainkan ⟪पक्व⟫ 3: matang, dimasak) Absol. ⟪पक्त्वा⟫ :** memasak (transitif) = merebus, menggoreng, memanggang, dll.
 
 ## Pelajaran 22
 
-**⟪काम⟫ m.:** wish, desire; desired gift, sensual pleasure, love, god of love
+
+
+
+
+
+
+**⟪काम⟫ m.:** Keinginan, hasrat; hadiah yang diinginkan, kenikmatan indra, cinta, dewa asmara
 
 ::: indent
-**⟪कामम्⟫** Acc. secara adverbia: sesuai keinginan, sesuai dengan kehendak hati
-:::: media
-![](/images/lekt2202.webp)
-Fig.: ⟪कामदेवः⟫
-abad ke-19
-(Sumber gambar: [Details](/en/licenses#lekt2202))
-::::
+⟪कामम्⟫ Akk. adverbia: sesuai keinginan, sepuasnya
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** dapat, mampu
+::: media
+![](/images/lekt2202.webp)
+Ilustr.: ⟪कामदेवः⟫
+abad ke-19
+(Sumber gambar: [Details](/licenses#lekt2202))
+:::
+**⟪शक्⟫ 5 P ⟪शक्नोति⟫ Pass. ⟪शक्यते⟫ PPP ⟪शक्त⟫ Inf. ⟪शक्तुम्⟫ :** mampu, dapat
 
-from this:
+darinya:
 
 ::: indent
-**⟪शक्ति⟫ f.:** ability, power, capability, strength; also: divine power, personified as a female companion especially of **⟪शिव⟫**
+**⟪शक्ति⟫ f.:** kemampuan, kekuatan, kapasitas; juga: kekuatan ilahi, dipersonifikasikan sebagai pendamping perempuan khususnya dari ⟪शिव⟫
 
-**⟪शक्र⟫ m.:** yang kuat (epiteton dari **⟪इन्द्र⟫**)
-:::: media
+**⟪शक्र⟫ m.:** Yang Kuasa (epitet dari ⟪इन्द्र⟫)
+:::
+::: media
 ![](/images/lekt2203.webp)
 Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
-(Sumber gambar: [Details](/en/licenses#lekt2203))
-::::
+(Sumber gambar: [Details](/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** pantas (layak akan sesuatu), diizinkan, berkewajiban, harus (dalam orang kedua, **⟪अर्ह्⟫** + infinitif sering digunakan sebagai perintah ringan: "Kau harus")
+**⟪अर्ह⟫ 1 P ⟪अर्हति⟫ Pass. ⟪अर्ह्यते⟫ PPP ⟪अर्हित⟫ Inf. ⟪अर्हितुम्⟫ :** mendapatkan (menjadi layak akan sesuatu), boleh, wajib untuk, harus (dalam orang kedua, ⟪अर्ह्⟫ + infinitif sering digunakan sebagai perintah halus: "Kau seharusnya")
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Pres. Part. P: seorang yang layak. Dalam Buddhisme dan Jainisme: seseorang yang telah mencapai pembebasan akhir
+**⟪अर्हन्त्⟫ 3** Part. Präs. P: Yang Layak. Dalam Buddhisme dan Jainisme: seseorang yang telah mencapai pembebasan akhir
 :::
-**⟪व्रत⟫ n.:** sumpah, kewajiban agama, pengamalan keagamaan (seseorang berjanji kepada dewa untuk menerima sesuatu darinya. Contoh: seorang ibu berjanji akan memberikan putrinya sebagai pelacur kuil (**⟪देवदासी⟫**) jika putrinya sembuh. **⟪व्रत⟫** penting saat ini: berpuasa; menjauhi makanan yang disukai; abstinensi seksual; membaca teks suci; melakukan ritual tertentu; memberi makan Brahmin, dll. Singkat tentang **⟪व्रत⟫**: Walker, Hindu World Vol. II, hlm. 581f. Secara rinci: P. V. Kane: History of Dharmaśāstra Vol. 5,1 hlm. 1 - 462. Di sana hlm. 253 - 462 daftar **⟪व्रत⟫** dan festival keagamaan ("daftar berikut ... tidak mengklaim untuk sangat lengkap" !!!)
+**⟪व्रत⟫ n.:** Sumpah, kewajiban religius, observansi religius (seseorang berjanji kepada dewa untuk mendapatkan sesuatu darinya. Contoh: seorang ibu berjanji akan menyerahkan putrinya sebagai pelacur kuil (⟪देवदासी⟫) jika putrinya sembuh kembali. ⟪व्रत⟫ penting saat ini: Puasa; Menahan diri dari makanan yang disukai; Kewibawaan seksual; Membaca kitab suci; Melaksanakan ritual tertentu; Memberi makan Brahmana dan lain-lain. Singkat tentang ⟪व्रत⟫: Walker, Hindu World Vol. II, hlm. 581f. Secara rinci: P. V. Kane: History of Dharmaśāstra Vol. 5,1 hlm. 1 - 462. Di sana hlm. 253 - 462 Daftar ⟪व्रत⟫ dan festival religius ("daftar berikut ... tidak mengklaim untuk sangat lengkap" !!!)
 
-**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** menggembala, berkeliaran, bergerak, bertindak, berolahraga, melakukan (mis. **⟪व्रतं⟫ ⟪चर्⟫**: mengamalkan sumpah, terutama abstinensi seksual)
+**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫) :** menggembala, berjalan-jalan, bergerak, bertindak, melakukan sesuatu (misalnya **⟪व्रतं चर्⟫**: mempraktikkan sumpah, khususnya kewibawaan seksual)
 
-from this:
+daripada:
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** mobile; n.: the mobile = animals (in contrast to plants)
+**⟪चर ३⟫:** bergerak; n.: yang bergerak = hewan (berbeda dengan tumbuhan)
 
-**⟪चरण⟫ n., m.:** foot
+**⟪चरण⟫ n., m.:** kaki
 
-**⟪चरित⟫ n.:** way of life, life deeds
+**⟪चरित⟫ n.:** gaya hidup, perbuatan hidup
 
-**⟪ब्रह्मचर्य⟫ n.:** pelaksanaan Veda (**⟪ब्रह्मन्⟫**) = studi Veda pada tahap awal kehidupan (yaitu **⟪ब्रह्मचारिन्⟫**), yang memerlukan pantangan seksual ketat; oleh karena itu juga: pantangan seksual, cara hidup selibat
-:::: media
+**⟪ब्रह्मचर्य⟫ n.:** pelaksanaan Weda (⟪ब्रह्मन्⟫) = studi Weda pada tahap kehidupan pertama (tahap ⟪ब्रह्मचारिन्⟫), yang memerlukan kesucian seksual ketat; oleh karena itu juga: kesucian seksual, gaya hidup selibat
+:::
+::: media
 ![](/images/lekt2201.webp)
-Fig.: ⟪धेनवश्चरन्ति⟫
+Ilustrasi: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
-(Sumber gambar: [Details](/en/licenses#lekt2201))
-::::
+(Sumber gambar: [Details](/licenses#lekt2201))
 :::
 ## Pelajaran 23
 
-⟪समान⟫ ⟪३⟫: equal
 
-⟪सामान्य⟫ n.: equality, agreement
 
-⟪अधिक⟫ ⟪३⟫: superfluous, additional, greater, better, extraordinary
 
-⟪विशेष⟫ m.: particularity, specification, differentia specifica
 
+
+
+⟪समान ३⟫: sama
+
+⟪सामान्य⟫ n.: kesamaan, kecocokan
+
+⟪अधिक ३⟫ : berlebih, tambahan, lebih besar, lebih baik, luar biasa
+
+⟪विशेष⟫ m.: kekhususan, spesifikasi, differentia specifica
 
 ## Pelajaran 24
 
-⟪अलम्⟫ Kata keterangan: cukup, memadai, setara dengan (seseorang, sesuatu); dengan Dativ: cukup untuk, memadai bagi, setara; dengan Instrumental: cukup bersama, berhenti , mis. ⟪अलं⟫ ⟪क्रोधेन⟫ = "cukup dengan kemarahan = hentikan kemarahan!"
 
-Sama halnya dengan ⟪अलम्⟫ yang menggunakan Instrumental:
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "selesai dengan kemarahan = hentikan kemarahan!"
 
-⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : to adorn
+
+
+
+⟪अलम्⟫ Kata keterangan: cukup, memadai, mampu (terhadap seseorang atau sesuatu); dengan Dativ: cukup untuk, memadai untuk, mampu terhadap; dengan Instrumentalis: cukup dengan, berhenti dari , mis. ⟪अलं क्रोधेन⟫ = "cukup dengan kemarahan = berhenti dari kemarahannya!"
+
+Dengan cara yang sama seperti ⟪अलम्⟫ digunakan dengan Instrumentalis:
+
+⟪कृतम्⟫ : ⟪कृतं क्रोधेन⟫ = "Telah selesai dengan kemarahan = berhenti dari kemarahannya!"
+
+⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : menghias
 
 ::: indent
-⟪अलंकार⟫ m.: ornamen, alat hias (dalam puisi)
-:::: media
-![](/images/lekt2405.webp)
-Fig.: ⟪अलंकारः⟫
-(Sumber gambar: [Details](/en/licenses#lekt2405))
-::::
+⟪अलंकार⟫ m.: perhiasan, alat perhiasan (dalam puisi)
 :::
-⟪हेतु⟫ m.: motif, alasan, sebab; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ dengan Genitif atau sebagai anggota kedua dari majemuk = "untuk kepentingan ..., karena"
+::: media
+![](/images/lekt2405.webp)
+Ilustrasi: ⟪अलंकारः⟫
+(Sumber gambar: [Details](/licenses#lekt2405))
+:::
+⟪हेतु⟫ m.: dorongan, pemicu, penyebab, alasan ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ dengan Genetif atau sebagai komponen belakang dari sebuah kompositum = "demi ..., karena ..."
 
-⟪प्रतिमा⟫ f.: image, likeness
+⟪प्रतिमा⟫ f.: potret, gambar
 
 ::: media
 ![](/images/lekt2406.webp)
 Fig.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Sumber gambar: [Details](/en/licenses#lekt2406))
+(Sumber gambar: [Details](/licenses#lekt2406))
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : terjadi, terjadi, muncul
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : terjadi, berlangsung, muncul
 
-From ⟪वृत्⟫:
+Dari ⟪वृत्⟫:
 
 ::: indent
-⟪वृत्ति⟫ f.: behavior, activity, way of life
+⟪वृत्ति⟫ f.: perilaku, aktivitas, gaya hidup
 
 ⟪वृत्त⟫ n.: perilaku
 :::
-⟪अभि⟫ Prefiks:  be-, setelah - menuju, ke - sini, ke - menuju, terhadap, dalam - ke dalam, berkaitan dengan, di, atas, pada
+⟪अभि⟫ Prefiks:  ke-, ke arah - menuju, dari - ke, ke arah, terhadap, ke dalam, mengenai, atas, di atas, pada
 
-⟪नि⟫ Prefix: downwards, down, into, backwards
+⟪नि⟫ Prefiks: ke bawah, turun, masuk, mundur
 
-⟪आ⟫ Preposisi / Postposisi: sebelum Ablatif atau setelah Akusatif: hingga, sampai; dengan Ablatif: dari sini, dari sana, sejak
+⟪आ⟫ Preposisi / Postposisi: sebelum Ablatif atau setelah Akusatif: hingga, sampai ; dengan Ablatif: dari sana, sejak
 
-⟪अतस्⟫ Indeclinable: from there, then, therefore, hence (Pronominal stem a- "this" + Ablative suffix -tas)
+⟪अतस्⟫ indeklinabel: dari sana, kemudian, oleh karena itu (akar pronominal a- "ini" + akhiran Ablatif -tas)
 
-⟪अध्यक्ष⟫ m.: supervisor, department head; eyewitness
+⟪अध्यक्ष⟫ m.: pengawas, kepala departemen ; saksi mata
 
-⟪इन्द्रिय⟫ n.: power, sense organ
+⟪इन्द्रिय⟫ n.: kekuatan, indra
 
-⟪ऊह⟫ m.: consideration, argumentation
+⟪ऊह⟫ m.: pertimbangan, argumen
 
-from this
+dari itu
 
 ::: indent
-⟪अपोह⟫ m.: negation (⟪अप⟫ + ⟪ऊह⟫)
+⟪अपोह⟫ m.: negasi (⟪अप⟫ + ⟪ऊह⟫)
 
-⟪ऊहापोह⟫ m.: pembahasan pro dan kontra
-:::: media
+⟪ऊहापोह⟫ m.: diskusi pro dan kontra
+:::
+::: media
 ![](/images/lekt2407.webp)
 Fig.: ⟪ऊहापोहः⟫
-"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor Senior Urusan Luar Negeri, Jaringan CNN-IBN 18, India, memoderasi diskusi panel pada KTT Ekonomi India Forum Ekonomi Dunia 2008 di New Delhi."
-(Sumber gambar: [Details](/en/licenses#lekt2407))
-::::
+"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, memoderasi diskusi panel di KTT Ekonomi India Forum Ekonomi Dunia 2008 di New Delhi."
+(Sumber gambar: [Details](/licenses#lekt2407))
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : bermanfaat
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : berguna
 
-⟪कुप्य⟫ n.: forest product, metal (not precious metal)
+⟪कुप्य⟫ n.: produk hutan, logam (bukan logam mulia)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : melihat, menjadi terlihat; menamai, menjelaskan, mengkomunikasikan
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : melihat, menjadi terlihat ; menyebut, menjelaskan, menyampaikan
 
 ::: indent
-⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : to tell
+⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : bercerita
 
-from this:
+dari itu:
 
-⟪आख्यान⟫ n.: narasi
-:::: media
+⟪आख्यान⟫ n.: cerita, narasi
+:::
+::: media
 ![](/images/lekt2408.webp)
 Fig.: ⟪आख्यानम्⟫
-"Pencerita San Francisco, Jeff Byers, berbagi cerita dengan penduduk Chenneri, sebuah desa Irula. Pencerita Jeeva Raghunath menerjemahkan ke dalam bahasa Tamil untuk para penduduk desa."
-(Sumber gambar: [Details](/en/licenses#lekt2408))
-::::
+"Pencerita cerita San Francisco Jeff Byers berbagi cerita dengan penduduk Chenneri, sebuah desa Irula. Pencerita Jeeva Raghunath menerjemahkan ke bahasa Tamil untuk para penduduk desa."
+(Sumber gambar: [Details](/licenses#lekt2408))
 :::
 ::: indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : menjumlahkan, menghitung
+⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : menghitung, berhitung
 
-from this:
+dari itu:
 
-⟪संख्या⟫ f.: counting, enumeration; ⟪सांख्य⟫ n.: one of the six philosophical systems (short: Basham, Wonder p. 326f.)
+⟪संख्या⟫ f.: penghitungan, daftar ; ⟪सांख्य⟫ n.: salah satu dari enam sistem filsafat (singkat: Basham, Wonder hlm. 326f.)
 :::
-⟪ग्रहण⟫ n.: grasping
+⟪ग्रहण⟫ n.: pengambilalihan
 
 ⟪चौल⟫ n.: upacara (⟪संस्कार⟫) pemotongan rambut (pada usia 3 tahun)
 
-⟪तत्त्व⟫ n.: true nature, truth, reality (⟪तद्⟫ + ⟪त्व⟫ = this-ness)
+⟪तत्त्व⟫ n.: hakikat sejati, kebenaran, realitas (⟪तद्⟫ + ⟪त्व⟫ = ini-itas)
 
-⟪स्वस्ति⟫ f.: happiness, well-being (nominal formation from ⟪सु⟫ ⟪अस्ति⟫ = "it is good")
+⟪स्वस्ति⟫ f.: kebahagiaan, keselamatan (pembentukan nominal dari ⟪सु अस्ति⟫ = "hal ini baik")
 
-⟪नमस्⟫ n.: bowing, reverence, greeting (declension later). Greeting formula: ⟪नमो⟫ ⟪नमः⟫
+⟪नमस्⟫ n.: sujud, penghormatan, salam (deklinasi nanti). Formula penyambutan: ⟪नमो नमः⟫
 
-from this:
+dari itu:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : untuk membungkuk, untuk menghormati, untuk menyapa
-:::: media
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : bersujud, menghormati, menyapa
+:::
+::: media
 ![](/images/lekt2411.webp)
-Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Naskah dari ⟪गीतगोविन्द⟫, tahun 1730 Masehi.
-(Sumber gambar: [Details](/en/licenses#lekt2411))
-::::
+Gambar: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+Naskah dari ⟪गीतगोविन्द⟫, tahun 1730 M.
+(Sumber gambar: [Detail](/licenses#lekt2411))
 :::
 ⟪स्वागत⟫ n.: selamat datang (dari su-ā-gata)
 
-⟪तृण⟫ n.: blade of grass
+⟪तृण⟫ n.: batang rumput
 
-⟪पुनर्⟫ Adverb: again, back, but
-
+⟪पुनर्⟫ Adverb: lagi, kembali, balik, tetapi
 
 ## Pelajaran 25
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  leave, abandon, forsake
+
+
+
+
+
+
+⟪त्यज्⟫ 1P ⟪त्यजति⟫ : meninggalkan, menyerahkan, membiarkan
 
 ::: indent
 Fut. ⟪त्यक्ष्यति⟫  
@@ -1349,22 +1437,22 @@ PPP ⟪त्यक्त⟫
 Inf. ⟪त्यक्तुम्⟫  
 Absol. 2: -⟪त्यज्य⟫
 
-therefrom:
+dari itu:
 
-⟪त्याग⟫ m.: abandonment, renunciation, avoidance
+⟪त्याग⟫ m.: penyerahan, pengabaian, menghindari
 :::
-⟪दार⟫ m. pl. (!!!): wife
+⟪दार⟫ m. pl. (!!!): istri
 
-⟪द्रव्य⟫ n.: object, property, material possession, money
+⟪द्रव्य⟫ n.: benda, harta, kepemilikan materiil, uang
 
-⟪धान्य⟫ n.: threshed grain
+⟪धान्य⟫ n.: gandum yang telah dirontokkan
 
 ::: media
 ![](/images/lekt2501.webp)
-Fig.: ⟪धान्यम्⟫
-(Image source: [Details](/en/licenses#lekt2501))
+Gambar: ⟪धान्यम्⟫
+(Sumber gambar: [Detail](/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : hold, keep firm
+⟪धृ⟫ 1U ⟪धरति⟫ : memegang, menahan
 
 ::: indent
 Fut. ⟪धरिष्यति⟫  
@@ -1373,20 +1461,20 @@ PPP ⟪धृत⟫
 Inf. ⟪धर्तुम्⟫  
 Absol. 2: -⟪धृत्य⟫
 
-therefrom:
+darinya:
 
-⟪धर्म⟫ m.: yang teguh dan tetap = Dharma
+⟪धर्म⟫ m.: apa yang tetap dan mempertahankan = Dharma
 :::
-⟪नित्य⟫ ⟪३⟫ : konstan, teguh, abadi
+⟪नित्य ३⟫ : terus-menerus, stabil, abadi
 
 ::: indent
-⟪नित्यम्⟫ Adv.: always, constantly, ever
+⟪नित्यम्⟫ Adv.: selalu, stabil terus-menerus
 :::
-⟪प्रज्ञा⟫ f.:  wisdom, knowledge
+⟪प्रज्ञा⟫ f.: kebijaksanaan, pengetahuan
 
-⟪प्रदान⟫ n.: giving, donating; gift, donation
+⟪प्रदान⟫ n.: memberi, menyedekahkan ; hadiah, sedekah
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : rejoice, be intoxicated by something (Instr., Gen., Loc.)
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : bersukacita, mabuk akan sesuatu (Instr., Gen., Lok.)
 
 ::: indent
 Fut. ⟪मदिष्यति⟫  
@@ -1394,17 +1482,17 @@ Pass. ⟪मद्यते⟫
 PPP ⟪मत्त⟫  
 Inf. ⟪मदितुम्⟫
 
-therefrom:
+darinya:
 
-⟪मद⟫ m.: intoxication, sensual intoxication = sensual pleasure
+⟪मद⟫ m.: euforia, euforia indra = kesenangan indrawi
 :::
-⟪मान⟫ m.: assessment, reputation, fame, honor, pride, conceit, sense of inferiority; (one measures oneself against others)
+⟪मान⟫ m.: penilaian, reputasi, kemasyhuran, kehormatan, kebanggaan, kesombongan, perasaan inferioritas ; (seseorang mengukur dirinya dengan orang lain)
 
-⟪यदि⟫ Conjunction: if
+⟪यदि⟫ Konjungsi: jika
 
-⟪न्याय⟫ m.: rule, principle, method, judgment (juridical), logic (from ni + i + a)
+⟪न्याय⟫ m.: aturan, prinsip, metode, putusan (hukum), logika (dari ni + i + a)
 
-⟪अन्यथा⟫ Adv.: otherwise, else, falsely, incorrectly
+⟪अन्यथा⟫ Adv.: lain, selain, keliru, tidak benar
 
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
@@ -1414,37 +1502,33 @@ PPP ⟪यात⟫
 Inf. ⟪यातुम्⟫  
 Absol. 2: -⟪याय⟫
 :::
-⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
-
-⟪प्रदान⟫ n. = ⟪दान⟫
-
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : command, teach, punish
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य भावः प्रदान⟫ n. = ⟪दान शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : memerintahkan, mengajar, menghukum
 
 ::: indent
 Pass. ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ ⟪३⟫ : taught  
+PPP ⟪शिष्ट ३⟫ : diajarkan  
 Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 
-therefrom:
+darinya:
 
-⟪शिक्षा⟫ f.: science, instruction; phonetics
+⟪शिक्षा⟫ f.: ilmu pengetahuan, pengajaran ; fonetik
 :::
-⟪स्तेन⟫ m.: thief
+⟪स्तेन⟫ m.: pencuri
 
-⟪स्तेय⟫ n.: theft
+⟪स्तेय⟫ n.: pencurian
 
-⟪किल्बिष⟫ n.: guilt, insult, sin
+⟪किल्बिष⟫ n.: kesalahan, penghinaan, dosa
 
-⟪विना⟫ Postposition: without, except (with Acc., Instr., Abl.)
+⟪विना⟫ Postposisi: tanpa, kecuali (dengan Akk., Instr., Abl.)
 
-⟪मूल⟫ n.: root
+⟪मूल⟫ n.: akar
 
 ::: media
 ![](/images/lekt2502.webp)
-Fig.: ⟪मूलानि⟫
-(Image source: [Details](/en/licenses#lekt2502))
+Gambar: ⟪मूलानि⟫
+(Sumber gambar: [Details](/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): anoint, smear
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): mengolesi, memulaskan
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
@@ -1452,190 +1536,191 @@ Pass. ⟪लिप्यते⟫
 PPP ⟪लिप्त⟫  
 Inf. ⟪लेप्तुम्⟫
 
-therefrom:
+daripada:
 
-⟪लिप्ति⟫ f.: anointing, writing, script
-:::: media
-![](/images/lekt2503.webp)
-Fig.: ⟪लिप्तिः⟫
-(Image source: [Details](/en/licenses#lekt2503))
-::::
+⟪लिप्ति⟫ f.: mengolesi, menulis, tulisan
 :::
-⟪वर्ष⟫ n.,m.: rain, rainy season, year
+::: media
+![](/images/lekt2503.webp)
+Ilm.: ⟪लिप्तिः⟫
+(Sumber gambar: [Details](/licenses#lekt2503))
+:::
+⟪वर्ष⟫ n.,m.: hujan, musim hujan, tahun
 
-⟪वह्⟫ 1U ⟪वहति⟫ : lead, drive, blow (wind)
+⟪वह्⟫ 1U ⟪वहति⟫ : membawa, berkendara, bertiup (angin)
 
 ::: indent
 Fut. ⟪वक्ष्यति⟫  
 Pass. ⟪उह्यते⟫  
 PPP ⟪ऊढ⟫  
 Inf. ⟪वोढुम्⟫  
-Absol 2: -⟪उह्य⟫
+Absol 2: -⟪उह्य वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : membawa pergi (yakni pengantin wanita dari rumah orang tuanya) = menikah
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : lead away (namely the bride from her parents' house) = marry
+darinya:
 
-therefrom:
-
-⟪विवाह⟫ m.: leading away, marriage of a woman (Instr., saha) (for marriage see Basham, Wonder pp. 166-171)
-:::: media
-![](/images/lekt2504.webp)
-Fig.: ⟪विवाहः⟫
-(Image source: [Details](/en/licenses#lekt2504))
-::::
+⟪विवाह⟫ m.: membawa pergi, pernikahan seorang wanita (Instr., saha) (untuk pernikahan lihat Basham, Wonder S. 166 -171)
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : lead away, instruct, educate
+::: media
+![](/images/lekt2504.webp)
+Ilm.: ⟪विवाहः⟫
+(Sumber gambar: [Details](/licenses#lekt2504))
+:::
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : membawa pergi, mengajar, mendidik
 
 ::: indent
-therefrom:
+darinya:
 
-⟪विनय⟫ m.: removal, education, discipline, Buddhist: monastic discipline, monastic law
+⟪विनय⟫ m.: menghilangkan, mendidik, disiplin, buddhis: disiplin ordo, hukum ordo
 :::
-⟪विज्ञान⟫ n.: knowledge, cognition
+⟪विज्ञान⟫ n.: pengetahuan, pemahaman
 
-⟪विष्टि⟫ f.: work, corvée
+⟪विष्टि⟫ f.: pekerjaan, kerja paksa
 
 ::: media
 ![](/images/lekt2505.webp)
-Fig.: ⟪विष्टिः⟫
-(Image source: [Details](/en/licenses#lekt2505))
+Ilm.: ⟪विष्टिः⟫
+(Sumber gambar: [Details](/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : grow, become larger
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : tumbuh, menjadi lebih besar
 
 ::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : grown up, old, increased  
+PPP ⟪वृद्ध⟫ : dewasa, tua, bertambah  
 Inf. ⟪वर्धितुम्⟫
 
-of:
+darinya:
 
-⟪वृद्धि⟫ f.: growth, increase, gradation (from: vṛdh-ti)
+⟪वृद्धि⟫ f.: pertumbuhan, perkembangan, tingkat vṛdh (dari: vṛdh-ti)
 :::
-⟪सामर्थ्य⟫ n.: that which corresponds to its purpose
+⟪सामर्थ्य⟫ n.: kesesuaian dengan tujuannya
 
-⟪स्वभाव⟫ m.: being, nature, character
+⟪स्वभाव⟫ m.: makhluk, sifat, karakter
 
-⟪हर्ष⟫ m.: (raising of the body hair), joy
+⟪हर्ष⟫ m.: (penegakan bulu roma), kegembiraan
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: gold, money, wealth
+⟪हिरण्य ३⟫ : emas ; n.: emas, uang, kekayaan
 
 ::: media
 ![](/images/lekt2506.webp)
-Fig.: ⟪हिरण्यम्⟫
-(Image source: [Details](/en/licenses#lekt2506))
+Ilm.: ⟪हिरण्यम्⟫
+(Sumber gambar: [Details](/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : thin, fine, very small ; m.: atom
+⟪अणु ३⟫ : tipis, halus, sangat kecil ; m.: atom
 
-⟪गोदान⟫ n.: giving of cows / of a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
-
+⟪गोदान⟫ n.: pemberian sapi / seekor sapi ; upacara potong rambut kedua (sebuah ⟪संस्कार⟫)
 
 ## Pelajaran 27
 
-**⟪वस्⟫** 1P (⟪वसति⟫): tinggal, berdiam (dengan lokatif orang yang diajak berdiam)
+
+
+
+
+
+
+⟪वस्⟫ 1P (⟪वसति⟫): berdiam, tinggal (dengan lokatif orang, di tempat seseorang tinggal)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫
-**Pass.:** ⟪उष्यते⟫
-**PPP:** ⟪उषित⟫
-**Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
 :::
-from this:
+darinya:
 
 ::: indent
-**⟪वस्तु⟫** n.: seat, place; reality, real thing, actuality, object
+⟪वस्तु⟫ n.: tempat duduk, lokasi; realia, benda nyata, kenyataan, objek
 
 :::
 ::: indent
-**⟪वस्तुतस्⟫**: in reality, actually
+⟪वस्तुतस्⟫: pada kenyataannya, sesungguhnya
 :::
-**⟪वस्⟫** 2Ā (⟪वस्ते⟫): to put on (clothing), to wear (clothing)
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): memakai (pakaian), mengenakan (pakaian)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫
-**PPP:** ⟪वसित⟫
-**Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
 :::
-from this:
+darinya:
 
 ::: indent
-**⟪वस्त्र⟫** n.: berarti memakai = pakaian, jubah, kain
-:::: media
+⟪वस्त्र⟫ n.: alat untuk memakai = pakaian, jubah, kain
+:::
+::: media
 ![](/images/lekt2706.webp)
-Fig.: ⟪वस्त्राणि⟫
+Gambar: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
-(Sumber gambar: [Details](/en/licenses#lekt2706))
-::::
+(Sumber gambar: [Details](/licenses#lekt2706))
 :::
-**⟪वस्⟫** 6P (⟪उच्छति⟫): bersinar terang (akar kata ini penting karena pembentukan nominalnya:)
+⟪वस्⟫ 6P (⟪उच्छति⟫): bersinar terang (akar ini penting karena pembentukan nomina:)
 
 ::: indent
-**⟪वसु⟫** n.: wealth, treasure, property, possession
+⟪वसु⟫ n.: kekayaan, harta, milik, kepemilikan
 
-**⟪वसन्त⟫** m.: ("bersinar" =) musim semi (Maret hingga Mei)
-:::: media
+⟪वसन्त⟫ m.: ("bersinar terang" =) musim semi (Maret hingga Mei)
+:::
+::: media
 ![](/images/lekt2707.webp)
-Fig.: ⟪वसन्तः⟫
+Gambar: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Sumber gambar: [Details](/en/licenses#lekt2707))
-::::
+(Sumber gambar: [Details](/licenses#lekt2707))
 :::
-**⟪हृ⟫** 1U (⟪हरति⟫): menahan, membawa; mengambil, membawa pergi, mencuri
+⟪हृ⟫ 1U (⟪हरति⟫): memegang, membawa; mengambil, menghilangkan, merampok
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫
-**Pass.:** ⟪ह्रियते⟫
-**PPP:** ⟪हृत⟫
-**Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
 :::
-from this:
+darinya:
 
 ::: indent
-**⟪हर⟫** 3: mengambil; m.: sang pemusnah = epitet Śiva
+⟪हर⟫ 3: mengambil pergi; m.: sang perusak = julukan Śiva
 :::
-Lawan dari **⟪हर⟫**:
+Pasangan dari ⟪हर⟫:
 
-**⟪हरि⟫** 3: pirang, kuning, hijau; m. epitet Viṣṇu (tidak berasal dari akar kata ⟪हृ⟫ 1)
+⟪हरि⟫ 3: pirang, kuning, hijau; m. julukan Viṣṇu (tidak termasuk ke dalam akar ⟪हृ⟫ 1)
 
-**⟪हरिहर⟫** m.: Viṣṇu and Śiva united as a single deity.
+⟪हरिहर⟫ m.: Viṣṇu dan Śiva bersatu sebagai satu dewa tunggal.
 
 ::: media
 ![](/images/lekt2704.webp)
-Fig.: ⟪हरिहरः⟫
-Harihara (left: Viṣṇu, right: Śiva).
-(Image source: [Details](/en/licenses#lekt2704))
-:::: media
+Gambar: ⟪हरिहरः⟫
+Harihara (kiri: Viṣṇu, kanan: Śiva).
+(Sumber gambar: [Detail](/licenses#lekt2704))
+:::
+::: media
 ![](/images/lekt2705.webp)
-Fig.: ⟪हरिहरः⟫
-Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
-(Image source: [Details](/en/licenses#lekt2705))
-::::
+Gambar: ⟪हरिहरः⟫
+Harihara (kiri: Viṣṇu, kanan: Śiva). Godrumdwip, Bengal Barat.
+(Sumber gambar: [Detail](/licenses#lekt2705))
 :::
 ## Pelajaran 28
 
+
+
+
+
+
+
 ::: indent
-**⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: mengetahui, mengenali
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: mengetahui, mengenal
 Fut. **vediṣyati**
 Pass. **vidyate**
 Kaus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
-dari ini: **vidyā** f., **veda** m.
-:::: indent
-**⟪विद्⟫** 6U **⟪विन्दति⟫** (!): menemukan
+dari itu: **vidyā** f., **veda** m.
+:::
+::: indent
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!): menemukan
 Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: ada, terdapat
+Pass. **vidyate**: ada, tersedia
 Kaus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
-::::
 :::
 ::: indent
 **i + adhi** 2Ā **adhīte**, **adhīyate**: belajar, menghafal
-Kaus. **adhyāpayati**: menyebabkan belajar, mengajar
-dari ini: **adhyayana** n.: studi (khususnya Veda); **adhyāya** m.: pelajaran, bab (bagian untuk dihafal)
+Kaus. **adhyāpayati**: membuat belajar, mengajar
+dari itu: **adhyayana** n.: studi (khususnya Veda); **adhyāya** m.: pelajaran, bab (bagian untuk dihafal)
 :::
 ::: indent
-**⟪कम्⟫** 10Ā **⟪कामयते⟫**: mencintai
+⟪कम्⟫ 10Ā ⟪कामयते⟫: mencintai
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Kaus. **kāmayati**
@@ -1644,12 +1729,12 @@ Inf. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Fig.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Lukisan oleh ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Sumber gambar: [Details](/en/licenses#lekt2804))
+Gambar: ⟪कृष्णो राधां कामयति⟫
+Lukisan oleh ⟪राजा रवि वर्मा⟫ (1848 - 1906)
+(Sumber gambar: [Detail](/licenses#lekt2804))
 :::
 ::: indent
-**⟪चुर्⟫** 10 **⟪चोरयति⟫**: mencuri
+⟪चुर्⟫ 10 ⟪चोरयति⟫: mencuri
 Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
@@ -1657,111 +1742,120 @@ PPP **corita**
 Inf. **coritum**
 :::
 ::: indent
-**Perhatikan makna kausatif dari kata kerja berikut:**
+**Perhatikan terutama makna Kausativa dari kata kerja berikut:**
 **dṛś** — **darśayati**: menunjukkan
-**man** — **mānayati**: menghargai, memuliakan (tetapi kemungkinan merupakan denominatif dari **māna** "harga")
-**vac** — **vācayati**: juga: membaca keras (menyebabkan berbicara sebuah teks)
-**vad** — **vādayati**: juga: menyebabkan alat musik berbunyi = memainkan alat musik
+**man** — **mānayati**: menghargai tinggi, memuliakan (namun kemungkinan besar merupakan Denominatif dari **māna** "kehormatan")
+**vac** — **vācayati**: juga: membaca keras (membuat seseorang mengucapkan teks)
+**vad** — **vādayati**: juga: membuat alat musik berbicara = memainkan alat musik
 :::
 ::: media
 ![](/images/lekt2803.webp)
-Fig.: ⟪वीणां⟫ ⟪वादयति⟫
-Vīṇā player.
-(Sumber gambar: [Details](/en/licenses#lekt2803))
+Gambar: ⟪वीणां वादयति⟫
+Vīṇā-Spielerin.
+(Sumber gambar: [Details](/licenses#lekt2803))
 :::
-**⟪भार⟫** m.: beban
+⟪भार⟫ m.: Beban
 
 ::: media
 ![](/images/lekt2805.webp)
-Fig.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Girl carrying load. Near Ahmedabad.
-(Image source: [Details](/en/licenses#lekt2805))
+Gambar: ⟪बाला भारं हरति⟫
+Gadis membawa beban. Di dekat Ahmedabad.
+(Sumber gambar: [Details](/licenses#lekt2805))
 :::
-**⟪भृत्य⟫** m.: subordinate, servant
+⟪भृत्य⟫ m.: Bawahan, pelayan
 
 ---
 
-
 ## Pelajaran 29
 
-Prefixes:
+
+
+
+
+
+
+Preverb:
 
 ::: indent
-⟪उद्⟫° : up, upward, aloft, out, out-
+⟪उद्⟫° : ke atas, naik, menjulang, keluar, dari-
 
-⟪परि⟫° : di sekitar, tentang (tempat, waktu), mengenai
+⟪परि⟫° : keliling, sekitar (tempat, waktu), di sekeliling
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (menjadi di sekitar seseorang = mengelilingi =) menguasai, menaklukkan; mengabaikan, meremehkan
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (menjadi di sekitar seseorang = mengepung =) menguasai, mengalahkan ; mengabaikan, meremehkan
 
-⟪अवज्ञान⟫ n.: disregard
+⟪अवज्ञान⟫ n.: Perendahan
 
-⟪गुप्त⟫ 3: protected, safeguarded
+⟪गुप्त⟫ 3: dijaga, dilindungi
 
-⟪गृहस्थ⟫ 3: berada di dalam rumah; m. pemilik rumah (seseorang yang berada pada ⟪आश्रम⟩ ke-2)
+⟪गृहस्थ⟫ 3: berada di dalam rumah ; m. kepala keluarga (seseorang yang berada di ⟪आश्रम⟫ kedua)
 
-⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : to consume, to devour
+⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : memakan, menyantap
 
 ::: indent
 Fut. ⟪ग्रसिष्यते⟫  
 Pass. ⟪ग्रस्यते⟫  
-Caus. ⟪ग्रासयति⟫  
+Kaus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
 :::
-⟪तीक्ष्ण⟫ 3: "wild", sharp, keen, strict, fierce, sharp-tongued
+⟪तीक्ष्ण⟫ 3: "liar", tajam, runcing, ketat, ganas, pedas lidahnya
 
-⟪न्याय⟫ m.: norm, rule, right manner; method, logic (from ⟪इ⟫ + ⟪नि⟫)
+⟪न्याय⟫ m.: Norma, aturan, cara yang benar; metode, logika (dari ⟪इ⟫ + ⟪नि⟫)
 
-⟪परिव्राजक⟫ m.: wanderer, wandering monk, pilgrim
+⟪परिव्राजक⟫ m.: Pengembara, biksu pengembara, peziarah
 
 ::: media
 ![](/images/lekt2903.webp)
-Fig.: ⟪परिव्राजकाः⟫
+Gambar: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
-(Image source: [Details](/en/licenses#lekt2903))
+(Sumber gambar: [Details](/licenses#lekt2903))
 :::
-⟪पालयति⟫ : also synonymous with  ⟪पाति⟫
+⟪पालयति⟫ : juga sinonim dengan  ⟪पाति पुनर्⟫ Indekl.: lagi, berulang-ulang, kembali, sekali lagi ; sebaliknya, tetapi (sebelum bunyi bersuara kecuali r-: ⟪पुनर्⟫)
 
-⟪पुनर्⟫ Indecl.: again, again and again, back, once more; however, but (before voiced sounds except r-: ⟪पुनर्⟫)
+⟪प्रजा⟫ f.: Pembuahan, kelahiran, keturunan
 
-⟪प्रजा⟫ f.: procreation, birth, offspring
+⟪मत्स्य⟫ m.: Ikan
 
-⟪मत्स्य⟫ m.: fish
-
-from which:
+dari itu:
 ::: indent
-⟪मात्स्य⟫ 3: belonging to fish (to fish)
-:::: media
-![](/images/lekt2901.webp)
-Fig.: ⟪मत्स्यः⟫
-(Image source: [Details](/en/licenses#lekt2901))
-::::
+⟪मात्स्य⟫ 3: milik ikan (kepada Ikan)
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): gentle, mild, soft; slow, weak
+::: media
+![](/images/lekt2901.webp)
+Gambar: ⟪मत्स्यः रोहू मछली⟫ = Labeo rohita Hamilton
+(Sumber gambar: [Details](/licenses#lekt2901))
+:::
+⟪मृदु⟫ 3 (f.: ⟪मृद्वी⟫): lembut, ramah, halus; lambat, lemah
 
-⟪यथा⟫ Adv.: how, as if
+⟪यथा⟫ Adv.: seperti, bagaikan
 
-⟪रम्⟫ 1Ā ⟪रमते⟫ : berdiri diam, beristirahat, menunda; mengambil kesenangan, bersuka cita
+⟪रम्⟫ 1Ā ⟪रमते⟫ : berdiri diam, istirahat, tinggal; merasa senang, bersenang-senang
 
 ::: indent
 Fut. ⟪रंस्यते⟫  
 Pass. ⟪रम्यते⟫  
-Caus. ⟪रमयति⟫  
+Kaus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
 :::
-⟪वानप्रस्थ⟫ m.: forest hermit (someone who is in the 3rd ⟪आश्रम⟫)
+⟪वानप्रस्थ⟫ m.: pertapa hutan (seseorang yang berada di dalam ⟪आश्रम⟫ ketiga)
 
-⟪शुचि⟫ 3: shining, gleaming, fine; m.: purity
+⟪शुचि⟫ 3: bercahaya, bersinar, halus; m.: kemurnian
 
-⟪पूज्⟫ 10P ⟪पूजयति⟫ : to honor, to revere
+⟪पूज्⟫ 10P ⟪पूजयति⟫ : menghormati, menyembah
 
 ::: indent
 PPP ⟪पूजित⟫
 :::
 ## Pelajaran 30
 
-⟪क्री⟫ 9U ⟪क्रीणाति⟫ : to buy
+
+
+
+
+
+
+⟪क्री⟫ 9U ⟪क्रीणाति⟫ : membeli
 
 ::: indent
 Fut. ⟪क्रेष्यति⟫  
@@ -1769,120 +1863,124 @@ Pass. ⟪क्रीयते⟫
 PPP ⟪क्रीत⟫  
 Inf. ⟪क्रेतुम्⟫
 :::
-⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : to sell
+⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : menjual
 
 ::: indent
 Absol. ⟪विक्रीय⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3001.webp)
-Fig.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
+Gambar: ⟪क्रीणन्ति विक्रीणते च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Sumber gambar: [Details](/en/licenses#lekt3001))
-::::
+(Sumber gambar: [Detail](/licenses#lekt3001))
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : mengetahui, mengenali, tahu, memahami
 
 ::: indent
 Fut. ⟪ज्ञास्यति⟫  
 Pass. ⟪ज्ञायते⟫  
-Caus. ⟪ज्ञापयति⟫  
-Caus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
+Kaus. ⟪ज्ञापयति⟫  
+Kaus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
 PPP ⟪ज्ञात⟫  
 Inf. ⟪ज्ञातुम्⟫
 
-from which:
+dari itu:
 
-⟪ज्ञाति⟫ m.: (blood) relative (relatives are those whom one knows!)
+⟪ज्ञाति⟫ m.: kerabat (darah) (kerabat adalah mereka yang dikenal!)
 
-⟪ज्ञान⟫ n.: pengetahuan, kebijaksanaan, pemahaman (khususnya tentang "kebenaran yang lebih tinggi" dalam agama dan filsafat)
-:::: media
-![](/images/lekt3002.webp)
-Fig.: ⟪ज्ञातयः⟫
-Darewadi, Distrik Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Sumber gambar: [Details](/en/licenses#lekt3002))
-::::
+⟪ज्ञान⟫ n.: pengetahuan, ilmu, pengenalan (khususnya kebenaran "tinggi" dalam agama dan filsafat)
 :::
-⟪पू⟫ 9U ⟪पुनाति⟫ : untuk menyucikan
+::: media
+![](/images/lekt3002.webp)
+Gambar: ⟪ज्ञातयः⟫
+Darewadi, Distrik Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
+(Sumber gambar: [Detail](/licenses#lekt3002))
+:::
+⟪पू⟫ 9U ⟪पुनाति⟫ : membersihkan
 
 ::: indent
 Fut. ⟪पविष्यति⟫  
 Pass. ⟪पूयते⟫  
-Caus. ⟪पावयति⟫  
+Kaus. ⟪पावयति⟫  
 PPP ⟪पूत⟫  
 Inf. ⟪पवितुम्⟫
-:::: media
-![](/images/lekt3003.webp)
-Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
-(Image source: [Details](/en/licenses#lekt3003))
-::::
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : to eat, to consume
+::: media
+![](/images/lekt3003.webp)
+Gambar: ⟪श्रोत्राणि पुनाति⟫
+(Sumber gambar: [Detail](/licenses#lekt3003))
+:::
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : makan, menghancurkan
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
 Pass. ⟪अश्यते⟫  
-Caus. ⟪आशयति⟫  
+Kaus. ⟪आशयति⟫  
 PPP ⟪अशित⟫  
 Inf. ⟪अशितुम्⟫
-:::: media
-![](/images/lekt3005.webp)
-Fig.: ⟪अश्नीयात्⟫
-⟪थाली⟫, South India
-(Image source: [Details](/en/licenses#lekt3005))
-::::
 :::
-⟪प्रिय⟫ ⟪३⟫: dear, loving, friendly
+::: media
+![](/images/lekt3005.webp)
+Gambar: ⟪अश्नीयात् थाली⟫, India Selatan
+(Sumber gambar: [Detail](/licenses#lekt3005))
+:::
+⟪प्रिय ३⟫: sayang, penuh kasih, ramah
 
 ::: media
 ![](/images/lekt3004.webp)
-Fig.: ⟪प्रिया⟫
-(Sumber gambar: [Details](/en/licenses#lekt3004))
+Gambar: ⟪प्रिया⟫
+(Sumber gambar: [Detail](/licenses#lekt3004))
 :::
-⟪चेत्⟫ Konjungsi: jika; dengan syarat (tidak pernah muncul di awal kalimat)
+⟪चेत्⟫ Konjungsi: jika; dengan syarat, bahwa (tidak pernah muncul di awal kalimat)
 
 ::: indent
-⟪न⟫ ⟪चेत्⟫ : if not
+⟪न चेत्⟫ : jika tidak
 :::
-⟪यदि⟫ Conjunction: if
+⟪यदि⟫ Konjungsi: jika
 
 ::: indent
-⟪यद्यपि⟫ : even if, although
+⟪यद्यपि⟫ : meskipun, bahkan jika, walaupun
 
-⟪यद्येवम्⟫ : if so, under these circumstances
+⟪यद्येवम्⟫ : jika demikian, dalam keadaan ini
 :::
-⟪पुनर्⟫ : again, repeatedly, back, once more, on the contrary, but
+⟪पुनर्⟫ : kembali, berulang kali, balik, sekali lagi, sebaliknya, tetapi
 
 ::: indent
-⟪पुनः⟫ ⟪पुनर्⟫ : repeatedly
+⟪पुनः पुनर्⟫ : berulang kali
 
-from which:
+dari itu:
 
-⟪पुनर्भव⟫ m.: rebirth
-:::: media
+⟪पुनर्भव⟫ m.: reinkarnasi
+:::
+::: media
 ![](/images/lekt2904.webp)
-Fig.: ⟪पुनर्भवः⟫
-(Image source: [Details](/en/licenses#lekt2904))
-::::
+Gambar: ⟪पुनर्भवः⟫
+(Sumber gambar: [Detail](/licenses#lekt2904))
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : to live
+⟪जीव्⟫ 1P ⟪जीवति⟫ : hidup
 
 ::: indent
 Fut. ⟪जीविष्यति⟫  
 Pass. ⟪जीव्यते⟫  
-Caus. ⟪जीवयति⟫  
-PPP ⟪जीवित⟫ : living  
+Kaus. ⟪जीवयति⟫  
+PPP ⟪जीवित⟫ : hidup
 Inf. ⟪जीवितुम्⟫
 
-from which:
+dari itu:
 
-⟪जीव⟫ m./n.: life, individual soul
+⟪जीव⟫ m./n.: kehidupan, jiwa individu
 :::
-⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : eternal, imperishable, constant
-
+⟪सनातन ३⟫ fem.: ⟪सनातनी⟫ : abadi, tak terlupakan, stabil
 
 ## Pelajaran 31
 
-**⟪युज्⟫** 7U **⟪युनक्ति⟫** : mengikat, menyangkutkan, memasang, menempelkan; Ā juga: berusaha (= mengerahkan diri), terhubung dengan, berkonsentrasi pada (Lokatif, ⟪सप्तमी⟫)
+
+
+
+
+
+
+⟪युज्⟫ 7U ⟪युनक्ति⟫ : memasang, mengikat, menegangkan; Ā juga: menegangkan diri (= berusaha keras), bergabung dengan, berkonsentrasi pada (Lokativ, ⟪सप्तमी⟫)
 ::: indent
 **Fut. ⟪योक्ष्यति⟫**
 **Pass. ⟪युज्यते⟫**
@@ -1890,24 +1988,24 @@ from which:
 **PPP ⟪युक्त⟫**
 **Inf. ⟪योक्तुम्⟫**
 
-dari sana:
-**⟪युग⟫ n. -\> ⟪युग⟫ n.:** sangkutan, pasangan, zaman dunia (ada empat zaman dunia:
-1. **⟪कृत⟫**
-2. **⟪त्रेता⟫**
-3. **⟪द्वापर⟫**
-4. **⟪कलि⟫**
+darinya:
+**⟪युग⟫ n. → ⟪युग⟫ n.:** Yoke, pasangan, usia dunia (ada empat usia dunia:
+1. ⟪कृत⟫
+2. ⟪त्रेता⟫
+3. ⟪द्वापर⟫
+4. ⟪कलि⟫
 
-**⟪कलियुग⟫** dimulai sekitar 3102 SM, tahun perang **⟪महाभारत⟫**. Untuk detail lebih lanjut, lihat Basham, Wonder hlm. 323)
+Das कलियुग dimulai sekitar 3102 SM, tahun dari perang ⟪महाभारत⟫. Lebih lanjut lihat Basham, Wonder hal. 323)
 
-**⟪योग⟫ m.:** "mengikat, berusaha," usaha, koneksi, Yoga (lihat Basham, Wonder hlm. 327ff.)
-:::: media
+**⟪योग⟫ m.:** "Pemasangan, pengikatan", usaha keras, koneksi, Yoga (lihat Basham, Wonder hal. 327ff.)
+:::
+::: media
 ![](/images/lekt3101.webp)
 Fig.: ⟪योगः⟫
-Penggambaran Yoga.
-(Sumber gambar: [Details](/en/licenses#lekt3101))
-::::
+Representasi Yoga.
+(Sumber gambar: [Details](/licenses#lekt3101))
 :::
-**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : berhenti, menghentikan, menahan = mengelilingi, menutup
+⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : berhenti, menghentikan = menutupi, menyembunyikan
 ::: indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
@@ -1915,7 +2013,7 @@ Penggambaran Yoga.
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
 :::
-**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : memotong
+⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : memotong
 ::: indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
@@ -1923,34 +2021,34 @@ Penggambaran Yoga.
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
 :::
-**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : memecah (sesuatu)
+⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (sesuatu) memecah
 ::: indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
 :::
-**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : melumuri, mengoles
+⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : melumuri, mengolesi
 ::: indent
-**Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
+**Fut. ⟪अङ्क्ष्यति । अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
-**Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
+**Inf. ⟪अञ्जितुम् । अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi -\> ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : mengoles terpisah = memakai kosmetik, membedakan diri
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : mengolesi terpisah = berdandan, membuat perbedaan
 ::: indent
-**PPP ⟪व्यक्त⟫ :** terkemuka, terbuka
+**PPP ⟪व्यक्त⟫ :** berbeda, dikembangkan
 
-daripadanya:
-**⟪व्यञ्जन⟫ n.:** alat pembeda = kosmetik, rempah, tanda, konsonan (yang membedakan makna)
-:::: media
+darinya:
+**⟪व्यञ्जन⟫ n.:** Alat pembeda = kosmetik, rempah, tanda pengenal, konsonan (yang membedakan makna)
+:::
+::: media
 ![](/images/lekt3102.webp)
 Fig.: ⟪व्यञ्जनम्⟫
 Persiapan untuk tarian Kathakali, Kochi.
-(Sumber gambar: [Details](/en/licenses#lekt3102))
-::::
+(Sumber gambar: [Details](/licenses#lekt3102))
 :::
-**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : membelah
+⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : membelah
 ::: indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
@@ -1958,18 +2056,18 @@ Persiapan untuk tarian Kathakali, Kochi.
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
 :::
-**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : menikmati (mis. makanan; "menikmati bumi" = memerintah bumi)
+⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : menikmati (mis. makanan; "menikmati bumi" = menguasai bumi)
 ::: indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
 **Kaus. ⟪भोजयति⟫**
-**PPP bhukt -\> PPP ⟪भुक्त⟫**
+**PPP bhukt → PPP ⟪भुक्त⟫**
 **Inf. ⟪भोक्तुम्⟫**
 
-therefrom:
-**⟪भोग⟫ m.:** enjoyment, food, pleasure, benefit, tax, levy
+darinya:
+**⟪भोग⟫ m.:** kenikmatan, makan, kesenangan, manfaat, pajak, pungutan
 :::
-**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): to bind, to tie
+⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): mengikat, mengikatkan
 ::: indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
@@ -1977,221 +2075,218 @@ therefrom:
 **PPP ⟪बद्ध⟫**
 **Inf. ⟪बद्धुम्⟫**
 
-dari sana:
-**⟪बन्धन⟫ n.:** pengikat, belenggu
+darinya:
+**⟪बन्धन⟫ n.:** pengikatan, belenggu
 :::
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : mengenali, memahami
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : mengenali, memahami
 ::: indent
-dari sana:
+darinya:
 **⟪प्रज्ञा⟫ f.:** kebijaksanaan, pengetahuan
-:::: media
-![](/images/lekt3103.webp)
-Fig.: ⟪प्रज्ञापारमिता⟫
-From a Prajñāpāramitā manuscript.
-(Sumber gambar: [Details](/en/licenses#lekt3103))
-::::
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : muncul, ada
+::: media
+![](/images/lekt3103.webp)
+Ilustr.: ⟪प्रज्ञापारमिता⟫
+Dari sebuah manuskrip Prajñāpāramitā.
+(Sumber gambar: [Details](/licenses#lekt3103))
+:::
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : muncul, ada
 
-**⟪शरीर⟫ n.:** torso, body
-
+**⟪शरीर⟫ n.:** jasad, tubuh
 
 ## Pelajaran 32
 
-**⟪अग्र⟫ n.:** tip, extreme end
 
-**⟪मही⟫ f.:** earth, ground (lit.: the Great One)
 
-**⟪एकदा⟫**
 
-**⟪श्रम्⟫ ⟪श्राम्यते⟫**
+
+
+
+**⟪अग्र⟫ n.:** ujung, bagian paling luar
+
+**⟪मही⟫ f.:** bumi, tanah (secara harfiah: Yang Agung)
+
+⟪एकदा⟫
+
+**⟪श्रम् श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫
-⟪श्रम्यते⟫
-⟪श्रमयति⟫
-⟪श्रान्त⟫
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
--⟪श्रम्य⟫
-⟪श्रितुम्⟫
+⟪श्रमिष्यते⟫:br
+⟪श्रम्यते⟫:br
+⟪श्रमयति⟫:br
+⟪श्रान्त⟫:br
+⟪श्रमित्वा । श्रान्त्वा⟫:br
+⟪श्रम्य⟫:br
+⟪श्रमितुम्⟫
 :::
-**⟪पार्श्व⟫**
-
-**⟪चूत⟫**
+⟪पार्श्व चूत⟫
 
 ::: media
 ![](/images/lekt3202.webp)
-Fig.: ⟪चूतः⟫
-Mango tree, Kanpur.
-(Image source: [Details](/en/licenses#lekt3202))
+Ilustr.: ⟪चूतः⟫
+Pohon mangga, Kanpur.
+(Sumber gambar: [Details](/licenses#lekt3202))
 :::
-**⟪तरु⟫** **⟪वृक्ष⟫**
+⟪तरु वृक्ष पचेलिम स्पृहा परम्⟫
 
-**⟪पचेलिम⟫**
-
-**⟪स्पृहा⟫**
-
-**⟪परम्⟫**
-
-**⟪रुह्⟫ ⟪रोहति⟫**
+**⟪रुह् रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫
-⟪रुह्यते⟫
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
-:sig[⟪रूढ⟫]
--⟪रुह्य⟫
+⟪रोक्ष्यति⟫:br
+⟪रुह्यते⟫:br
+⟪रोहयति । रोपयति⟫:br
+⟪रूढ⟫:br
+⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
-**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+**⟪ग्रह् गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!)
-⟪गृह्यते⟫
-⟪ग्राहयति⟫
-⟪गृहीत⟫
--⟪गृह्य⟫
+⟪ग्रहीष्यति⟫ (!):br
+⟪गृह्यते⟫:br
+⟪ग्राहयति⟫:br
+⟪गृहीत⟫:br
+⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
 :::
-**⟪वानर⟫ ⟪कपि⟫**
+**⟪वानर कपि⟫**
 
 ::: media
 ![](/images/lekt3203.webp)
-Fig.: ⟪वानराः⟫
-Monkeys (rhesus macaques) in Delhi.
-(Image source: [Details](/en/licenses#lekt3203))
+Abb.: ⟪वानराः⟫
+Monyet (macaca mulatta) di Delhi.
+(Sumber gambar: [Details](/licenses#lekt3203))
 :::
-**⟪लोक्⟫ ⟪लोकयति⟫**
+**⟪लोक् लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫
-⟪लोक्यते⟫
-⟪लोकित⟫
--⟪लोक्य⟫
+⟪लोकयिष्यति⟫:br
+⟪लोक्यते⟫:br
+⟪लोकित⟫:br
+⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-**⟪प्रहर्ष⟫**
-
-**⟪कति⟫**
-
-**⟪उपल⟫**
+⟪प्रहर्ष कति उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
-Fig.: ⟪उपलाः⟫
-Stone quarry south of Pune, Maharashtra.
-(Image source: [Details](/en/licenses#lekt3204))
+Abb.: ⟪उपलाः⟫
+Tambang batu di selatan Pune, Maharashtra.
+(Sumber gambar: [Details](/licenses#lekt3204))
 :::
-**⟪लक्ष्य⟫**
+⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
-Fig.: ⟪लक्ष्यम्⟫
-Target practice / arrow target, Karnataka.
-(Image source: [Details](/en/licenses#lekt3205))
+Abb.: ⟪लक्ष्यम्⟫
+Latihan menembak / target panah, Karnataka.
+(Sumber gambar: [Details](/licenses#lekt3205))
 :::
-**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+**⟪क्षिप् क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫
-⟪क्षिप्यते⟫
-⟪क्षेपयति⟫
-⟪क्षिप्त⟫
--⟪क्षिप्य⟫
+⟪क्षेप्स्यति⟫:br
+⟪क्षिप्यते⟫:br
+⟪क्षेपयति⟫:br
+⟪क्षिप्त⟫:br
+⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
 :::
-**⟪चि⟫ ⟪चिनोति⟫**
+**⟪चि चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫
-⟪चीयते⟫
-⟪चाययति⟫
-⟪चित⟫
--⟪चित्य⟫
+⟪चेष्यति⟫:br
+⟪चीयते⟫:br
+⟪चाययति⟫:br
+⟪चित⟫:br
+⟪चित्य⟫:br
 ⟪चेतुम्⟫
-:::: media
-![](/images/lekt3207.webp)
-Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
-Burning cow dung patties in Rajasthan.
-(Image source: [Details](/en/licenses#lekt3207))
-::::
 :::
-**⟪चि⟫ ⟪अव⟫**
+::: media
+![](/images/lekt3207.webp)
+Abb.: ⟪चितं गोमयं दहति⟫
+Pembakaran patty kotoran sapi di Rajasthan.
+(Sumber gambar: [Details](/licenses#lekt3207))
+:::
+**⟪चि अव⟫**
 
-**⟪प्रति⟫**
+⟪प्रति अहो⟫
 
-**⟪अहो⟫**
-
-**⟪कौशल⟫ ⟪कुशल⟫**
+**⟪कौशल कुशल⟫**
 
 ::: media
 ![](/images/lekt3206.webp)
-Fig.: ⟪कौशलम्⟫
-Mehndi painting on hands in Mumbai.
-(Image source: [Details](/en/licenses#lekt3206))
+Abb.: ⟪कौशलम्⟫
+Lukisan mehndi di tangan di Mumbai.
+(Sumber gambar: [Details](/licenses#lekt3206))
 :::
 ## Pelajaran 33
 
-**⟪दा⟫** 3U **⟪ददाति⟫**: to give
+
+
+
+
+
+
+⟪दा⟫ 3U ⟪ददाति⟫: memberi
 
 ::: indent
-**Fut.** ⟪दास्यति⟫  
-**Pass.** ⟪दीयते⟫  
-**Kaus.** ⟪दापयति⟫  
-**PPP** ⟪दत्त⟫  
+**Fut.** ⟪दास्यति⟫
+**Pass.** ⟪दीयते⟫
+**Kaus.** ⟪दापयति⟫
+**PPP** ⟪दत्त⟫
 **Inf.** ⟪दातुम्⟫
 
-derived from this:
+dari itu:
 
-**⟪दान⟫** n.: memberikan, hadiah, kedermawanan
-:::: media
+⟪दान⟫ n.: memberi, hadiah, kemurahan hati
+:::
+::: media
 ![](/images/lekt3306.webp)
-Fig.: ⟪दानम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt3306))
-::::
+Abb.: ⟪दानम्⟫
+(Sumber gambar: [Details](/licenses#lekt3306))
 :::
-**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: menerima (ke dalam penerimaan), mengambil alih, membawa serta
+⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (menerima) mengambil, menguasai, membawa pergi
 
 ::: indent
-**Absol.** ⟪आदाय⟫: dengan Akk.: dalam perusahaan, bersama
-:::: media
+**Absol.** ⟪आदाय⟫: dengan Akk.: bersama, menyertai
+:::
+::: media
 ![](/images/lekt3307.webp)
-Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Sumber gambar: [Details](/en/licenses#lekt3307))
-::::
+Abb.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
+(Sumber gambar: [Details](/licenses#lekt3307))
 :::
-**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: menempatkan, memperbaiki, mengalokasikan
+sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: menetapkan, menentukan, membagikan
 
 ::: indent
-**Fut.** ***⟪धास्यति***  
-**Pass.** ***⟪धीयते***  
-**Kaus.** ***⟪धापयति***  
-**PPP** ***⟪हित*** (!!)  
-**Inf.** ***⟪धातुम्***
+**Fut.** :sig[⟪धास्यति⟫]  
+**Pass.** :sig[⟪धीयते⟫]  
+**Kaus.** :sig[⟪धापयति⟫]  
+**PPP** :sig[⟪हित⟫] (!!)  
+**Inf.** :sig[⟪धातुम्⟫]
 :::
-**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: mengarahkan perhatian penuh pada sesuatu, mengumpulkan diri
+⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: memusatkan seluruh perhatian pada sesuatu, berkonsentrasi
 
 ::: indent
-derived from this:
+dari itu:
 
-**⟪समाधि⟫** m.: inner concentration, highest attention
-:::: media
+⟪समाधि⟫ m.: konsentrasi batin, perhatian tertinggi
+:::
+::: media
 ![](/images/lekt3305.webp)
-Fig.: ⟪समाधि⟫
-(Image source: [Details](/en/licenses#lekt3305))
-::::
+Abb.: ⟪समाधि⟫
+(Sumber gambar: [Details](/licenses#lekt3305))
 :::
-**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: to fill, to fulfill
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫: mengisi, memenuhi
 
 ::: indent
-Note:
-3.pl.P **:sig[⟪पिपुरति⟫]**  
-3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (from: \*apipart)  
-3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
-3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
+Ingatlah:
+3.pl.P :sig[⟪पिपुरति⟫]  
+3.sg.Impf.P :sig[⟪अपिपर्⟫] (dari: \*apipart)  
+3.pl.Impf.P :sig[⟪अपिपरुर्⟫]  
+3.sg.Opt.P :sig[⟪पिपूर्यात्⟫]
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
 **Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
 :::
-**⟪पॄ⟫** + **⟪सम्⟫** only **Pass.** ⟪सम्पूर्यते⟫ and **Kaus.**: to fill completely
+⟪पॄ⟫ + ⟪सम्⟫ hanya **Pass.** ⟪सम्पूर्यते⟫ dan **Kaus.**: mengisi sepenuhnya
 
-**⟪भी⟫** 3P **⟪बिभेति⟫**: to fear (Abl., Gen.)
+⟪भी⟫ 3P ⟪बिभेति⟫: takut akan (Abl., Gen.)
 
 ::: indent
 **Fut.** ⟪भेष्यति⟫  
@@ -2200,16 +2295,16 @@ Note:
 **PPP** ⟪भीत⟫  
 **Inf.** ⟪भेतुम्⟫
 
-derived from this:
+dari itu:
 
-**⟪भय⟫** n.: ketakutan, kekhawatiran; bahaya (aspek subjektif dan objektif)
-:::: media
-![](/images/lekt3304.webp)
-Fig.: ⟪भयम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt3304))
-::::
+⟪भय⟫ n.: ketakutan, kekhawatiran; bahaya (sisi subjektif dan objektif)
 :::
-**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: membawa; menopang, memberi makan
+::: media
+![](/images/lekt3304.webp)
+Abb.: ⟪भयम्⟫
+(Sumber gambar: [Details](/licenses#lekt3304))
+:::
+⟪भृ⟫ 3U ⟪बिभर्ति⟫: membawa, mengangkut; memelihara, memberi makan
 
 ::: indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -2218,11 +2313,11 @@ Fig.: ⟪भयम्⟫
 **PPP** ⟪भृत⟫  
 **Inf.** ⟪भर्तुम्⟫
 
-derived from this:
+darinya:
 
-**⟪भार⟫** m.: burden
+⟪भार⟫ m.: beban
 :::
-**⟪मा⟫** 3Ā **⟪मिमीते⟫**: to measure
+⟪मा⟫ 3Ā ⟪मिमीते⟫: mengukur
 
 ::: indent
 **Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
@@ -2231,33 +2326,33 @@ derived from this:
 **PPP** ⟪मित⟫  
 **Inf.** ⟪मातुम्⟫
 :::
-**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: to compare
+⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: membandingkan
 
 ::: indent
-derived from this:
+darinya:
 
-**⟪उपमा⟫** f.: comparison
+⟪उपमा⟫ f.: perbandingan
 
-**⟪प्रतिमा⟫** f.: image, likeness
+⟪प्रतिमा⟫ f.: citra
 :::
-**⟪हा⟫** 3P **⟪जहाति⟫**: to leave
+⟪हा⟫ 3P ⟪जहाति⟫: meninggalkan
 
 ::: indent
 **Fut.** ⟪हास्यति⟫  
 **Pass.** ⟪हीयते⟫  
 **Kaus.** ⟪हापयति⟫  
-**PPP** ⟪हीन⟫: left by, lacking, deficient  
+**PPP** ⟪हीन⟫: ditinggalkan, kekurangan, tidak memadai  
 **Inf.** ⟪हातुम्⟫
-from PPP **⟪हीन⟫**:
+dari PPP ⟪हीन⟫:
 
-**⟪हीनयान⟫** n.: kendaraan yang kurang (dari Buddhisme): istilah derogatori yang digunakan oleh pendukung "Kendaraan Agung," yaitu **⟪महायान⟫**; jalan yang kurang (**⟪यान⟫** dari **⟪या⟫** 2: pergi, bepergian). Istilah ⟪हीनयान⟫ tidak boleh lagi digunakan. Bentuk yang tersisa dari Buddhisme kuno disebut **⟪थेरवाद⟫**.
-:::: media
-![](/images/lekt3303.webp)
-Fig.: ⟪हीनयानमेव⟫
-(Sumber gambar: [Details](/en/licenses#lekt3303))
-::::
+⟪हीनयान⟫ n.: kendaraan yang tidak memadai (Buddhisme): sebutan hina oleh perwakilan "kendaraan besar", yaitu ⟪महायान⟫; jalan yang tidak memadai (⟪यान⟫ ke ⟪या⟫ 2: pergi, berkendara). Ungkapan ⟪हीनयान⟫ tidak boleh lagi digunakan. Bentuk Buddhisme kuno yang masih ada saat ini disebut ⟪थेरवाद⟫.
 :::
-**⟪हु⟫** 3P **⟪जुहोति⟫**: menuangkan ke dalam api (sebagai persembahan, khususnya mentega cair)
+::: media
+![](/images/lekt3303.webp)
+Abb.: ⟪हीनयानमेव⟫
+(Sumber gambar: [Details](/licenses#lekt3303))
+:::
+⟪हु⟫ 3P ⟪जुहोति⟫: menuangkan ke dalam api (sebagai persembahan, terutama mentega cair)
 
 ::: indent
 **Fut.** ⟪होष्यति⟫  
@@ -2265,172 +2360,188 @@ Fig.: ⟪हीनयानमेव⟫
 **Kaus.** ⟪हावयति⟫  
 **PPP** ⟪हुत⟫  
 **Inf.** ⟪होतुम्⟫
-:::: media
-![](/images/lekt3302.webp)
-Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Image source: [Details](/en/licenses#lekt3302))
-
-::::
 :::
-**⟪घृत⟫** n.: Clarified butter, Ghee (⟪घी⟫ / گھی / ঘী)
+::: media
+![](/images/lekt3302.webp)
+Abb.: ⟪घृतमग्नौ जुहोति⟫
+(Sumber gambar: [Details](/licenses#lekt3302))
+:::
+⟪घृत⟫ n.: mentega cair, ghee (⟪घी⟫ / گھی / ঘী)
 
 ::: note-box
-"Ghee dibuat dengan merebus mentega asin dalam panci besar hingga semua air menguap dan protein mengendap di dasar. Mentega yang dimasak dan dimurnikan kemudian disendok untuk menghindari mengganggu padatan susu di dasar panci. Berbeda dengan mentega, ghee dapat disimpan dalam jangka waktu yang lama tanpa pendingin, asalkan disimpan dalam wadah kedap udara untuk mencegah oksidasi dan tetap bebas kelembapan. Tekstur, warna, atau rasa ghee tergantung pada sumber susu dari mana mentega dibuat. Di India, ghee biasanya terbuat dari air susu kerbau karena cenderung lebih putih daripada susu sapi."
+"Ghee dibuat dengan merebus mentega asin dalam panci besar hingga semua air mendidih dan protein mengendap di dasar. Mentega yang dimasak dan dimurnikan kemudian dituangkan untuk menghindari mengganggu padatan susu di dasar panci. Berbeda dengan mentega, ghee dapat disimpan dalam periode yang lama tanpa pendinginan, asalkan disimpan dalam wadah kedap udara untuk mencegah oksidasi dan tetap bebas kelembaban. Tekstur, warna, atau rasa ghee tergantung pada sumber susu dari mana mentega dibuat. Di India, ghee biasanya dibuat dengan susu kerbau karena cenderung lebih putih daripada susu sapi."
 
-[Source: http://en.wikipedia.org/wiki/Ghee. -- Accessed on 2008-12-26]
+[Sumber: http://en.wikipedia.org/wiki/Ghee. -- Diakses pada 2008-12-26]
 :::
 ## Pelajaran 34
 
+
+
+
+
+
+
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. and pl.:** seed, crop, grain
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Benih, tanaman pangan, sereal
 
 ::: media
 ![](/images/lekt3406.webp)
-Fig.: ⟪सस्यम्⟫
+Abb.: ⟪सस्यम्⟫
 Rice field in India.
-(Image source: [Details](/en/licenses#lekt3406))
+(Sumber gambar: [Details](/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** how long, how great
+**⟪यावत्⟫ :** berapa lama, seberapa besar
 
-**⟪तावत्⟫ :** so long, so great
+**⟪तावत्⟫ :** selama itu, sebesar itu
 
-**⟪उत्तम⟫ 3:** highest
+**⟪उत्तम⟫ 3:** tertinggi
 
-**⟪द्वीप⟫ m.n.:** island, continent
+**⟪द्वीप⟫ m.n.:** Pulau, benua
 
 ::: media
 ![](/images/lekt3405.webp)
-Fig.: ⟪लक्षद्वीपाः⟫
+Abb.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
-(Image source: [Details](/en/licenses#lekt3405))
+(Sumber gambar: [Details](/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** mortal (from **⟪मृ⟫**)
+**⟪मर्त्य⟫ 3:** fana (dari ⟪मृ⟫)
 
-**⟪तिल⟫ m.:** sesame (seed) (*Sesamum indicum* L.)
+**⟪तिल⟫ m.:** Biji wijen (*Sesamum indicum* L.)
 
 ::: media
 ![](/images/lekt3403.webp)
-Fig.: ⟪तिलाः⟫
+Abb.: ⟪तिलाः⟫
 Sesame seeds.
-(Image source: [Details](/en/licenses#lekt3403))
-:::: media
-![](/images/lekt3404.webp)
-Fig.: *Sesamum indicum* L.
-Sesame plant flowering.
-(Image source: [Details](/en/licenses#lekt3404))
-::::
+(Sumber gambar: [Details](/licenses#lekt3403))
 :::
-**⟪स्वर्ण⟫ n.:** (beautifully colored =) gold
+::: media
+![](/images/lekt3404.webp)
+Abb.: *Sesamum indicum* L.
+Sesame plant flowering.
+(Sumber gambar: [Details](/licenses#lekt3404))
+:::
+**⟪स्वर्ण⟫ n.:** (berwarna indah =) Emas
 
 ::: media
 ![](/images/lekt3402.webp)
-Fig.: ⟪स्वर्णम्⟫
+Abb.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
-(Image source: [Details](/en/licenses#lekt3402))
+(Sumber gambar: [Details](/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** dwelling, temple
+**⟪निकेतन⟫ n.:** Tempat tinggal, kuil
 
-**⟪कोटि⟫ f.:** peak; 10 million
+**⟪कोटि⟫ f.:** Puncak; 10 juta
 
-**⟪श्रेष्ठ⟫ 3:** best
+**⟪श्रेष्ठ⟫ 3:** terbaik
 
-**⟪तल⟫ m.n.:** plain, surface
+**⟪तल⟫ m.n.:** Dataran, bidang
 
-**⟪ऋषभ⟫ m.:** bull
+**⟪ऋषभ⟫ m.:** Kerbau jantan
 
 ::: media
 ![](/images/lekt3401.webp)
-Fig.: ⟪ऋषभः⟫
+Abb.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
-(Image source: [Details](/en/licenses#lekt3401))
+(Sumber gambar: [Details](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** restrain, hold, offer, grant
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** menahan, memegang, menawarkan, memberikan
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** extend, offer, deliver
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** mengulurkan, menawarkan, menyerahkan
 
-**⟪या⟫ 2P ⟪याति⟫ :** go, travel
+**⟪या⟫ 2P ⟪याति⟫** : pergi, berkendara
 
-**⟪कन्या⟫ f.:** girl, maiden
-
+**⟪कन्या⟫ f.:** gadis, perawan
 
 ## Pelajaran 35
 
-**⟪नश्⟫** 4P **⟪नश्यति⟫** : binah, musnah, lenyap
+
+
+
+
+
+
+⟪नश्⟫ 4P ⟪नश्यति⟫ : hilang, binasa, lenyap
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
-**Kaus. ⟪नाशयति⟫**
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
+**Fut. ⟪नशिष्यति । नङ्क्ष्यति⟫** :br
+**Kaus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : lenyap, binah, musnah
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : lenyap, hilang, binasa
 
-**⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : melangkah, pergi
+⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : melangkah, berjalan
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
-**Fut. ⟪क्रमिष्यति⟫**
-**Pass. ⟪क्रम्यते⟫**
-**Kaus. ⟪क्रमयति⟫**
-**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**
-**Inf. ⟪क्रमितुम्⟫**
-**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
-:::: media
-![](/images/lekt3502.webp)
-Fig.: ⟪क्रामन्ति⟫
-Orang-orang berjalan, Senegal.
-(Sumber gambar: [Details](/en/licenses#lekt3502))
-::::
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
+**Fut. ⟪क्रमिष्यति⟫** :br
+**Pass. ⟪क्रम्यते⟫** :br
+**Kaus. ⟪क्रमयति⟫** :br
+**PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
+**Inf. ⟪क्रमितुम्⟫** :br
+**Absol. ⟪क्रमित्वा । क्रन्त्वा । क्रान्त्वा⟫**
 :::
-**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): menyanyi, melantunkan dengan nada nyanyian, menyatakan dalam bentuk puisi
+::: media
+![](/images/lekt3502.webp)
+Abb.: ⟪क्रामन्ति⟫
+Orang-orang berjalan, Senegal.
+(Sumber gambar: [Details](/licenses#lekt3502))
+:::
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): bernyanyi, melantunkan dengan nada nyanyian, mengumumkan dalam pidato berima
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
-**Fut. ⟪गास्यति⟫**
-**Pass. ⟪गीयते⟫**
-**Kaus. ⟪गापयति⟫**
-**PPP ⟪गीत⟫**
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
+**Fut. ⟪गास्यति⟫** :br
+**Pass. ⟪गीयते⟫** :br
+**Kaus. ⟪गापयति⟫** :br
+**PPP ⟪गीत⟫** :br
 **Inf. ⟪गातुम्⟫**
 
-derived from:
-**⟪गीता⟫ f.:** song, chant
-:::: media
+dari itu:
+**⟪गीता⟫ f.:** lagu, nyanyian
+:::
+::: media
 ![](/images/lekt3501.webp)
-Fig.: ⟪जगुः⟫
-Temple musicians, Kaadu Malleswara Temple, Bangalore.
-(Image source: [Details](/en/licenses#lekt3501))
-::::
+Abb.: ⟪जगुः⟫
+Musisi kuil Kaadu Malleswara Temple Bangalore.
+(Sumber gambar: [Details](/licenses#lekt3501))
 :::
 ## Pelajaran 36
 
-⟪अह्⟫ P hanya Sempurna dengan makna sekarang ⟪आह⟫, ⟪आहुर्⟫ : untuk mengatakan, untuk berbicara
 
-⟪अह्⟫ ⟪प्र⟫ P hanya Sempurna dengan makna sekarang ⟪प्राह⟫ : untuk mengatakan, untuk berbicara
 
-⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : untuk melihat, untuk (men)emukan, untuk melihat
+
+
+
+
+⟪अह्⟫ P hanya Perfekt dengan makna Präsens ⟪आह⟫, ⟪आहुर्⟫ : berkata, berbicara
+
+⟪अह् प्र⟫ P hanya Perfekt dengan makna Präsens ⟪प्राह⟫ : berkata, berbicara
+
+⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : melihat, (ter)baca, mengamati
 
 ::: indent
-Perf. ⟪ईक्षां⟫ ⟪चक्रे⟫  
+Perf. ⟪ईक्षां चक्रे⟫  
 Fut. ⟪ईक्षिष्यते⟫  
 Pass. ⟪ईक्ष्यते⟫  
 Kaus. ⟪ईक्षयति⟫  
 PPP ⟪ईक्षित⟫  
 Inf. ⟪ईक्षितुम्⟫
 :::
-⟪चि⟫ 5U ⟪चिनोति⟫ : to heap up, to collect
+⟪चि⟫ 5U ⟪चिनोति⟫ : menumpuk, mengumpulkan
 
 ::: indent
-Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
+Perf. ⟪चिकाय । चिचाय⟫  
 Fut. ⟪चेष्यति⟫  
 Pass. ⟪चीयते⟫  
-Kaus. ⟪चाययति⟫ ⟪।⟫ ⟪चापयति⟫  
+Kaus. ⟪चाययति । चापयति⟫  
 PPP ⟪चित⟫  
 Inf. ⟪चेतुम्⟫
-:::: media
-![](/images/lekt3601.webp)
-Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
-(Sumber gambar: [Details](/en/licenses#lekt3601))
-::::
 :::
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : melangkah, pergi, pergi jauh
+::: media
+![](/images/lekt3601.webp)
+Abb.: ⟪गोमयं चिकाय⟫
+(Sumber gambar: [Details](/licenses#lekt3601))
+:::
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : melangkah, berjalan, pergi menjauh
 
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -2440,109 +2551,109 @@ Kaus. ⟪व्राजयति⟫
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
 :::
-⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : to go away (esp. from home into homelessness as an ascetic = to become a monk)
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : pergi menjauh (khususnya dari rumah menuju ketiadaan rumah sebagai pertapa = menjadi seorang biksu)
 
-⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: house, home
+⟪अगार⟫ n.⟪। आगार⟫ n.: rumah, kediaman
 
 ::: media
 ![](/images/lekt3602.webp)
-Fig.: ⟪अगारम्⟫
-(Image source: [Details](/en/licenses#lekt3602))
-:::: indent
-therefrom:
+Abb.: ⟪अगारम्⟫
+(Sumber gambar: [Details](/licenses#lekt3602))
+:::
+::: indent
+dari itu:
 
-⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: homelessness of a Buddhist monk or novice
-::::
+⟪अनगार्य⟫ n. ⟪। अनगार⟫ika f.: ketiadaan rumah seorang biksu Buddha atau novis
 :::
 ::: media
 ![](/images/lekt3603.webp)
-Fig.: ⟪अनगार्यम्⟫
-(Image source: [Details](/en/licenses#lekt3603))
+Abb.: ⟪अनगार्यम्⟫
+(Sumber gambar: [Details](/licenses#lekt3603))
 :::
-⟪अञ्जलि⟫ m.: The two hands placed high together in reverence
+⟪अञ्जलि⟫ m.: Kedua tangan yang diletakkan bersatu tinggi sebagai tanda penghormatan
 
-⟪आदृत⟫ 3: respected
+⟪आदृत⟫ 3: dihormati
 
-⟪उपाध्याय⟫ m.: teacher
+⟪उपाध्याय⟫ m.: guru
 
-⟪पृथिवी⟫ f.: earth
+⟪पृथिवी⟫ f.: bumi
 
-⟪पृष्ठ⟫ n: back, rear side
+⟪पृष्ठ⟫ n: punggung, bagian belakang
 
 ::: indent
-⟪पृष्ठम्⟫ : behind
+⟪पृष्ठम्⟫ : di belakang
 :::
-⟪प्रजापति⟫ m.: lord of creatures, creator god
+⟪प्रजापति⟫ m.: Tuan makhluk, dewa pencipta
 
-⟪अनु⟫ prefix: after, along, over - hin, along, according to, to, behind - her
+⟪अनु⟫ Préverb: setelah, sepanjang, ke atas - menuju, sejajar, sesuai, tambahan, di belakang - datang
 
 ::: indent
-e.g.
+mis.
 
-⟪अनुकृ⟫ : to imitate, to do after
+⟪अनुकृ⟫ : meniru, melakukan seperti
 
-⟪अनुगम्⟫ : mengikuti seseorang, berjalan bersama
+⟪अनुगम्⟫ : mengikuti seseorang, berjalan sepanjang
 :::
-⟪अभि⟫ : ke-, setelah - ke, ke - sini, ke - sana, melawan, ke dalam, mengenai, di atas, pada
+⟪अभि⟫ : ke-, setelah - menuju, ke - datang, ke - menuju, terhadap, ke dalam - masuk, mengenai, pada, atas, di
 
 ::: indent
-e.g.
+mis.
 
 ⟪अभिगम्⟫ : pergi ke, mendekati
 
-⟪वद्⟫ + ⟪अभि⟫ Kausatif Ā ⟪अभिवादयते⟫ : menyapa secara formal, menegur
+⟪वद्⟫ + ⟪अभि⟫ Kausatif Ā ⟪अभिवादयते⟫ : secara formal menyapa, menegur
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : merasa enggan, memudar
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : merasakan keengganan, menghilang
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
 Fut. ⟪ग्लास्यति⟫  
 Pass. ⟪ग्लायते⟫  
-Kaus. ⟪ग्लापयति⟫ ⟪।⟫ ⟪ग्लपयति⟫  
+Kaus. ⟪ग्लापयति । ग्लपयति⟫  
 PPP ⟪ग्लान⟫  
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P **:sig[⟪जिघ्रति⟫]** : to smell something
+⟪घ्रा⟫ 1P :sig[⟪जिघ्रति⟫] : mencium sesuatu
 
 ::: indent
 Perf. IV ⟪जघ्रौ⟫  
 Fut. ⟪घ्रास्यति⟫  
 Pass. ⟪घ्रायते⟫  
 Kaus. ⟪घ्रापयति⟫  
-PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫  
+PPP ⟪घ्रात । घ्राण⟫  
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : untuk menyenangkan, untuk memuaskan; untuk mencintai, untuk cenderung kepada seseorang
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : menghibur, menggembirakan; mencintai, bersikap baik kepada seseorang
 
-⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : to rejoice
+⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : bersukacita
 
 ::: indent
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
 Fut. ⟪प्रेष्यति⟫  
 Pass. ⟪प्रीयते⟫  
-Kaus. **:sig[⟪प्रीणयति⟫]**  
+Kaus. :sig[⟪प्रीणयति⟫]  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
 :::
-⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : to touch
+⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : menyentuh
 
 ::: indent
 Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
-Fut. ⟪स्पर्क्ष्यति⟫ ⟪।⟫ ⟪स्प्रक्ष्यति⟫  
+Fut. ⟪स्पर्क्ष्यति । स्प्रक्ष्यति⟫  
 Pass. ⟪स्पृश्यते⟫  
 Kaus. ⟪स्पर्शयति⟫  
 PPP ⟪स्पृष्ट⟫  
-Inf. ⟪स्पर्ष्तुम्⟫ ⟪।⟫ ⟪स्प्रष्तुम्⟫  
+Inf. ⟪स्पर्ष्तुम् । स्प्रष्तुम्⟫  
 Absol. -⟪स्पृश्य⟫
-:::: media
-![](/images/lekt3606.webp)
-Fig.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
-(Sumber gambar: [Details](/en/licenses#lekt3606))
-::::
 :::
-⟪हृष्⟫ 4P ⟪हृष्यति⟫ : menjadi kaku: menggerombong (rambut), bersukacita atas (Instr., Acc., Loc.)
+::: media
+![](/images/lekt3606.webp)
+Abb.: ⟪सुगतो भूमीं पस्पर्श⟫
+(Sumber gambar: [Details](/licenses#lekt3606))
+:::
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : menjadi kaku: berdiri tegak (rambut), bersukacita atas (Instr., Akk., Lok.)
 
 ::: indent
 Perf II ⟪जहर्ष⟫  
@@ -2550,1790 +2661,2219 @@ Fut. ⟪हर्षिष्यति⟫
 Pass. ⟪हृष्यते⟫  
 Kaus. ⟪हर्षयति⟫  
 PPP ⟪हृषित⟫
-:::: media
-![](/images/lekt3604.webp)
-Fig.: ⟪लोमहर्षः⟫
-(Image source: [Details](/en/licenses#lekt3604))
-::::
 :::
-⟪स्वक⟫ 3: own (my, your ...) ; m.: member
-
+::: media
+![](/images/lekt3604.webp)
+Abb.: ⟪लोमहर्षः⟫
+(Sumber gambar: [Details](/licenses#lekt3604))
+:::
+⟪स्वक⟫ 3: milik (milikku, milikmu ...) ; m.: anggota
 
 ## Pelajaran 37
 
-⟪मूर्ख⟫ 3: stupid, foolish, dumb m. fool
 
-⟪मुनि⟫ m.: sage, (silent) ascetic
+
+
+
+
+
+⟪मूर्ख⟫ 3: bodoh, dungu, bodoh m. Orang bodoh
+
+⟪मुनि⟫ m.: Bijaksana, (hening) pertapa
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: pertapa dari garis keturunan ⟪शाक्य⟫ (Kṣatriyas dari ⟪कपिलवस्तु⟫) = Buddha Gautama
-:::: media
-![lekt3705.jpg](/images/lekt3705.jpg)
-Fig.: ⟪शाक्यमुनिः⟫
-(Sumber gambar: [Details](/en/licenses#lekt3705))
-::::
+⟪शाक्यमुनि⟫ m.: Pertapa dari kasta ⟪शाक्य⟫ (Kṣatriya dari ⟪कपिलवस्तु⟫) = Buddha Gautama
 :::
-⟪दिन⟫ n.: hari
+::: media
+![lekt3705.jpg](/images/lekt3705.jpg)
+Ilustrasi: ⟪शाक्यमुनिः⟫
+(Sumber gambar: [Details](/licenses#lekt3705))
+:::
+⟪दिन⟫ n.: Hari
 
-⟪वृक्ष⟫ m.: tree
+⟪वृक्ष⟫ m.: Pohon
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Fig.: ⟪वृक्षः⟫
-(Image source: [Details](/en/licenses#lekt3706))
+Ilustrasi: ⟪वृक्षः⟫
+(Sumber gambar: [Details](/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: mouth, face, front part, beginning
-
+⟪मुख⟫ n.: Mulut, wajah, bagian depan, awal
 
 ## Pelajaran 38
 
-⟪सूर्य⟫ m.: Sun, sun god Sūrya
+
+
+
+
+
+
+⟪सूर्य⟫ m.: Matahari, dewa matahari Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
-Fig.: ⟪सूर्यः⟫
-(Image source: [Details](/en/licenses#lekt3802))
+Ilustrasi: ⟪सूर्यः⟫
+(Sumber gambar: [Details](/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Water
+⟪उदक⟫ n.: Air
 
 ::: media
 ![](/images/lekt3805.webp)
-Fig.: ⟪उदकम्⟫
-(Image source: [Details](/en/licenses#lekt3805))
+Ilustrasi: ⟪उदकम्⟫
+(Sumber gambar: [Details](/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : to blow, to breathe
+⟪वा⟫ 2P ⟪वाति⟫ : berhembus, meniup
 
 ::: indent
 Fut. ⟪वास्यति⟫
 Perf. IV ⟪ववौ⟫
 Pass. ⟪वायते⟫
-Caus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+Kaus. ⟪वापयति⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-therefrom:
+dari itu:
 
 ⟪वात⟫ m.: Angin
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : bertiup, menghamburkan, memadamkan
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : berhembus, bertiup padam
 
 ::: indent
-therefrom:
+dari itu:
 
-⟪निर्वाण⟫ n.: Extinguishing, Nirvana
+⟪निर्वाण⟫ n.: Pemadaman, Nirwana
 
-⟪परिनिर्वाण⟫ n.: Pemadaman sempurna, pembebasan sempurna (pada akhir kehidupan Buddha atau Arhat)
-:::: media
-![](/images/lekt3804.webp)
-Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt3804))
-::::
+⟪परिनिर्वाण⟫ n.: Pemadaman sempurna, pembebasan sempurna (pada akhir hayat Buddha atau Arhant)
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : kencing, buang air kecil, ejakulasi
+::: media
+![](/images/lekt3804.webp)
+Ilustrasi: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+(Sumber gambar: [Details](/licenses#lekt3804))
+:::
+⟪मिह्⟫ 1P ⟪मेहति⟫ : kencing, pipis, ejakulasi
 
 ::: indent
 Fut. ⟪मेक्ष्यति⟫
 Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
 Pass. ⟪मिह्यते⟫
-Caus. ⟪मेहयति⟫
+Kaus. ⟪मेहयति⟫
 PPP ⟪मीढ⟫
 
-therefrom:
+dari itu:
 
-⟪मेघ⟫ m.: Cloud ("seicher")
+⟪मेघ⟫ m.: Awan ("pengompol")
 :::
-⟪सुत⟫ m.: Son
+⟪सुत⟫ m.: Anak laki-laki
 
-⟪राजन्⟫ m.: King (on kingship in India see Basham, Wonder pp. 82-94). As a final member of a compound (esp. ⟪तत्पुरुष⟫) usually: -⟪राज⟫ m. (like ⟪देव⟫)
+⟪राजन्⟫ m.: Raja (lihat tentang kerajaan di India Basham, Wonder S. 82 -94). Sebagai unsur akhir dalam kompositum (khususnya ⟪तत्पुरुष⟫) biasanya: -⟪राज⟫ m. (seperti ⟪देव⟫)
 
 ::: indent
-Feminine:
+Femininum:
 
-⟪राज्ञी⟫ f.: Queen, wife of a king
+⟪राज्ञी⟫ f.: ratu, istri seorang raja
 
-from ⟪राज⟫ :
+dari ⟪राज⟫ :
 
-⟪राज्य⟫ 3: royal; n. kingdom, kingship, rule
+⟪राज्य⟫ 3: kerajaan; n. kerajaan, ke-raja-an, pemerintahan
 :::
-⟪नामन्⟫ n.: Name
+⟪नामन्⟫ n.: nama
 
-⟪सीमन्⟫ f.: Boundary
+⟪सीमन्⟫ f.: batas
 
-⟪आत्मन्⟫ m.: Diri, pribadi, esensi terdalam. Doktrin filosofis dan pembebasan: Yang Mutlak dalam individu, yang kadang-kadang tidak disadari oleh individu (v. Stietencron)
+⟪आत्मन्⟫ m.: diri, pribadi sendiri, esensi terdalam. Secara filosofis dan dalam ajaran pembebasan: Yang Mutlak di dalam individu, yang oleh karena itu tidak selalu disadari oleh individu tersebut (v. Stietencron)
 
-⟪ब्रह्मन्⟫ n.: Yang Mutlak, Veda (menurut Thieme awalnya: kebenaran yang diformulasikan, dari mana ⟪ब्राह्मण⟫ "perumus kebenaran")
+⟪ब्रह्मन्⟫ n.: Yang Mutlak, Weda (menurut Thieme pada awalnya: kebenaran yang dirumuskan, dari sana ⟪ब्राह्मण⟫ "perumus kebenaran")
 
-⟪ब्रह्मन्⟫ m.: the personally conceived creator god Brahmā
+⟪ब्रह्मन्⟫ m.: dewa pencipta Brahmā yang dipersonifikasikan
 
 ::: media
 ![](/images/lekt3809.webp)
-Fig.: ⟪ब्रह्मा⟫
-(Sumber gambar: [Details](/en/licenses#lekt3809))
+Ilustr.: ⟪ब्रह्मा⟫
+(Sumber gambar: [Detail](/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n. ke ⟪कृ⟫ 8U: tindakan, perbuatan, pekerjaan; pekerjaan suci, upacara pengorbanan; Karma: tindakan masa lalu yang kemudian membawa buahnya (mis. dalam reinkarnasi)
+⟪कर्मन्⟫ n.: ke ⟪कृ⟫ 8U: tindakan, perbuatan, karya; karya suci, upacara korban; Karma: perbuatan masa lalu yang kelak memberikan buahnya (misalnya dalam reinkarnasi) 
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Pematangan perbuatan = konsekuensi baik dan buruk dari perbuatan dalam kehidupan sebelumnya (ke ⟪वि⟫-⟪पच्⟫)
+⟪कर्मविपाक⟫ m.: buah perbuatan = konsekuensi baik dan buruk dari perbuatan dalam eksistensi sebelumnya (ke ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: Gajah (_Elephas maximus_)
+⟪हस्तिन्⟫ m.: gajah (_Elephas maximus_)
 
-⟪मनु⟫ m.: Manusia, pria; nama dari ayah ras manusia (ke ⟪मन्⟫ 4Ā)
+⟪मनु⟫ m.: manusia, pria; nama dari ayah ras manusia (ke ⟪मन्⟫ 4Ā)
 
 ::: indent
-therefrom:
+dari sana:
 
-⟪मनुष्य⟫ m.: Manusia
+⟪मनुष्य⟫ m.: manusia
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (berapi, bersinar); berkabung, meratapi
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (membara, bersinar) ; berduka, berkabung
 
 ::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
 Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
-Caus. ⟪शोचयति⟫
+Kaus. ⟪शोचयति⟫
 Inf. ⟪शुचितुम्⟫
-Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
+Absol. ⟪शोचित्वा । शुचित्वा⟫
 
-therefrom:
+dari sana:
 
-⟪शुचि⟫ 3: shining, pure, clear
+⟪शुचि⟫ 3: bercahaya, murni, jernih
 
-⟪शोक⟫ m.: Mourning, grief
+⟪शोक⟫ m.: duka, kesedihan
 
-⟪अशोक⟫ 3: free from grief; Ashoka tree = _Saraca asoca_ (Roxb.) Wilde; name of the emperor Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304  – 232 BCE)
-:::: media
+⟪अशोक⟫ 3: bebas dari duka; pohon Ashoka = _Saraca asoca_ (Roxb.) Wilde; nama Kaisar Aśoka (⟪देवानांप्रिय प्रियदर्शी⟫) (kurang lebih 304 – 232 SM)
+:::
+::: media
 ![](/images/lekt3810.webp)
-Fig.: ⟪अशोकवृक्षः⟫
-(Image source: [Details](/en/licenses#lekt3810))
-::::
+Gambar: ⟪अशोकवृक्षः⟫
+(Sumber gambar: [Detail](/licenses#lekt3810))
 :::
 ::: media
 ![](/images/lekt3811.webp)
-Fig.: ⟪अशोकसाम्राज्यम्⟫
-(Image source: [Details](/en/licenses#lekt3811))
+Gambar: ⟪अशोकसाम्राज्यम्⟫
+(Sumber gambar: [Detail](/licenses#lekt3811))
 :::
 ## Pelajaran 40
 
-⟪पात्र⟫ n.: Venerable, Master, Worthy One
 
-⟪मेधा⟫ f.: Wisdom, Intellect, Thought
 
-⟪पुस्तक⟫ m.n. Manuscript, Book
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : berada dalam urutan yang benar, sesuai (Lokatif) ; membentuk bentuk, menyusun; bertekad untuk, merendahkan diri untuk (Dativ)
+
+
+
+⟪पात्र⟫ n.: Yang Mulia, Guru, Yang Layak
+
+⟪मेधा⟫ f.: Kebijaksanaan, Akal Budi, Pikiran
+
+⟪पुस्तक⟫ m.n.: Naskah, Buku
+
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : berada dalam urutan yang benar, sesuai dengan (Lok.); terbentuk, menjadi; memutuskan untuk, bersedia kepada (Dativ)
 
 ::: indent
 Perf. II ⟪चकॢपे⟫ opsional ⟪अनिट्⟫  
-Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
-Kaus. ⟪कल्पयति⟫ : menyusun, menciptakan, membentuk dalam imajinasi, membayangkan  
+Fut. ⟪कल्पिष्यते । कल्प्स्यते⟫  
+Kaus. ⟪कल्पयति⟫ : mengatur, menciptakan, membentuk dalam imajinasi, membayangkan  
 PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
+Inf. ⟪कल्पितुम् । कल्प्तुम्⟫
 
-therefrom:
+dari itu:
 
-⟪कल्पना⟫ f.: Pembentukan dalam pikiran, pengandaian sesuatu yang tidak ada dalam kenyataan, fiksi
+⟪कल्पना⟫ f.: Pembentukan dalam pikiran, pengasumsian sesuatu yang tidak ada dalam kenyataan, Fiksi
 :::
-⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (membayangkan berbeda =) mempertanyakan, meragukan
+⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (membayangkan secara berbeda =) mempertanyakan, meragukan
 
 ::: indent
-therefrom:
+dari itu:
 
-⟪विक्ल्प⟫ m.: Alternative, doubt
+⟪विक्ल्प⟫ m.: Alternatif, Keraguan
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : to strike
+⟪तुद्⟫ 6U ⟪तुदति⟫ : memukul
 
 ::: indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
 Fut. ⟪तोत्स्यति⟫  
 Pass. ⟪तुद्यते⟫  
-Caus. ⟪तोदयति⟫  
+Kaus. ⟪तोदयति⟫  
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ : menyeberang, melintasi, menyelamatkan diri dari seseorang (Akk. = menyeberangi seseorang)
+⟪तॄ⟫ 1P ⟪तरति⟫ : menyeberang, melampaui, menyelamatkan diri dari seseorang (Akk. = melintasi seseorang)
 
 ::: indent
-Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
+Perf. IIIb ⟪ततार⟫, ⟪ततरुर् । तेरुर्⟫  
+Fut. ⟪तरिष्यति । तरीष्यति⟫  
 Pass. ⟪तीर्यते⟫  
-Caus. ⟪तारयति⟫  
+Kaus. ⟪तारयति⟫  
 PPP ⟪तीर्ण⟫  
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+Inf. ⟪तरितुम् । तरीतुम्⟫
 
-therefrom:
+dari itu:
 
-⟪तीर्थ⟫ n.: tempat penyeberangan, tempat mandi suci, situs ziarah
-:::: media
+⟪तीर्थ⟫ n.: Tempat penyeberangan, tempat mandi suci, tempat ziarah
+:::
+::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt4003))
-::::
+Gambar: ⟪हरिद्वारे तीर्थम्⟫
+(Sumber gambar: [Detail](/licenses#lekt4003))
 :::
 ::: indent
-⟪तीर्थङ्कर⟫ m. (dari: ⟪तीर्थम्⟫+ ⟪कृ⟫): pembuat penyeberangan (melalui penderitaan) = 24 guru para Jain
+⟪तीर्थङ्कर⟫ m. (dari: ⟪तीर्थम्⟫+ ⟪कृ⟫): pembuat penyeberangan (melalui penderitaan) = 24 guru Jain
 :::
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
-Fig.: ⟪तीर्थङ्करः⟫
-(Sumber gambar: [Details](/en/licenses#lekt4002))
+Ilm.: ⟪तीर्थङ्करः⟫
+(Sumber gambar: [Details](/licenses#lekt4002))
 :::
-⟪अव⟫ Pref.: ke bawah, menurun, menjauh, dari-
+⟪अव⟫ Prefiks: ke bawah, turun, menjauh, ab-
 
-⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : to descend
+⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : turun
 
 ::: indent
-therefrom:
+dari itu:
 
-⟪अवतार⟫ m.: (Descender, Descent) Inkarnasi dewa, khususnya 10 inkarnasi Viṣṇu (lihat Basham, Wonder pp. 304 - 309)
-:::: media
+⟪अवतार⟫ m.: (yang turun, penurunan) inkarnasi dewa, khususnya Viṣṇu 10 inkarnasi (lihat Basham, Wonder hlm. 304 - 309)
+:::
+::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
-Fig.: ⟪विष्णोर्दशावताराः⟫
-(Sumber gambar: [Details](/en/licenses#lekt4001))
-::::
+Ilm.: ⟪विष्णोर्दशावताराः⟫
+(Sumber gambar: [Details](/licenses#lekt4001))
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : tidur, tertidur
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : tidur, berbaring untuk tidur
 
 ::: indent
-Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
+Impf. ⟪अस्वपीत् । अस्वपत्⟫  
 Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
 Fut. ⟪स्वप्स्यति⟫  
-Pass. ⟪सुप्यते⟫ (from \*svp-ya-te)  
-Caus. ⟪स्वापयति⟫  
+Pass. ⟪सुप्यते⟫ (dari \*svp-ya-te)  
+Kaus. ⟪स्वापयति⟫  
 PPP ⟪सुप्त⟫  
 Inf. ⟪स्वप्तुम्⟫
 
-therefrom:
+dari itu:
 
-⟪स्वप्न⟫ m.: Sleep, dream
+⟪स्वप्न⟫ m.: tidur, mimpi
 
-⟪सुप्ति⟫ f. (from \*svp-ti): Sleep, esp. deep sleep
-:::: media
+⟪सुप्ति⟫ f. (dari \*svp-ti): tidur, khususnya tidur nyenyak
+:::
+::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
-Fig.: ⟪स्वपन्ति⟫
-(Image source: [Details](/en/licenses#lekt4004))
-::::
+Ilm.: ⟪स्वपन्ति⟫
+(Sumber gambar: [Details](/licenses#lekt4004))
 :::
 ## Pelajaran 41
 
-⟪मूर्ख⟫ m = ⟪मूढ⟫
 
-⟪भुजङ्ग⟫ m.: snake
+
+
+
+
+
+⟪मूर्ख⟫ m = ⟪मूढ भुजङ्ग⟫ m.: ular
 
 ::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
-Fig.: ⟪भुजङ्गः⟫
-(Image source: [Details](/en/licenses#lekt4105))
+Ilm.: ⟪भुजङ्गः⟫
+(Sumber gambar: [Details](/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: only, alone, completely
+⟪केवलम्⟫ Adv.: hanya, sendiri, sepenuhnya
 
-⟪विष⟫ n.: poison
+⟪विष⟫ n.: racun
 
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
-Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
-(Image source: [Details](/en/licenses#lekt4104))
+Ilm.: ⟪भुजङ्गस्य विषम्⟫
+(Sumber gambar: [Details](/licenses#lekt4104))
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : reprimand, control, command, teach
+⟪शास्⟫ 2P ⟪शास्ति⟫ : menegur, mengendalikan, memerintah, mengajar
 
 ::: indent
-memiliki bentuk dasar present lemah **⟪शिष्⟫** : **⟪शिष्मस्⟫**, namun bentuk orang ketiga jamak aktif memiliki bentuk dasar kuat: **⟪शासति⟫** (!! akhiran -ati) bersama dengan **⟪शासन्ति⟫** yang sesekali muncul. **⟪अशासुर्⟫**. Juga seluruh ⟪आत्मनेपद⟫ memiliki, sejauh mana bentuk itu muncul, bentuk dasar kuat: **⟪शास्ते⟫**
+memiliki bentuk present lemah ⟪शिष्⟫ : ⟪शिष्मस्⟫, namun bentuk kuat 3.Plp. P: ⟪शासति⟫ (!! akhiran -ati) di samping secara sesekali ⟪शासन्ति⟫. ⟪अशासुर्⟫. Juga seluruh ⟪आत्मनेपद⟫ memiliki, sejauh muncul, bentuk kuat: ⟪शास्ते⟫
 
-Perf I **⟪शशास⟫**, **⟪शशासुर्⟫**  
-Fut. **⟪शासिष्यति⟫**  
-Pass. **-⟪शास्यते⟫** ⟪।⟫ **⟪शिष्यते⟫**  
-PPP **⟪शिष्ट⟫** : taught, wise  
-Inf. **⟪शासितुम्⟫**  
+Perf I ⟪शशास⟫, ⟪शशासुर्⟫  
+Fut. ⟪शासिष्यति⟫  
+Pass. **-⟪शास्यते⟫** ⟪। शिष्यते⟫  
+PPP ⟪शिष्ट⟫ : terpelajar, bijaksana  
+Inf. ⟪शासितुम्⟫  
 Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 
-thereof:
+dari itu:
 
-**⟪शासना⟫** f.: royal edict, teaching, religion
-:::: media
+⟪शासना⟫ f.: edik kerajaan, ajaran, agama
+:::
+::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
-Fig.: ⟪शासना⟫
-(Image source: [Details](/en/licenses#lekt4109))
-::::
+Abb.: ⟪शासना⟫
+(Sumber gambar: [Details](/licenses#lekt4109))
 :::
 ::: indent
-**⟪शास्त्र⟫** n.: teaching, treatise
+⟪शास्त्र⟫ n.: ajaran, karya pengajaran
 
-**⟪शास्त्रिन्⟫** m.: learned, scholar
+⟪शास्त्रिन्⟫ m.: terpelajar, sarjana
 :::
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
-Fig.: ⟪शास्त्री⟫
-(Image source: [Details](/en/licenses#lekt4110))
+Abb.: ⟪शास्त्री⟫
+(Sumber gambar: [Details](/licenses#lekt4110))
 :::
 ::: indent
-**⟪शिष्य⟫** 3: one to be instructed = student
+⟪शिष्य⟫ 3: yang harus diajari = murid
 :::
-⟪शरण⟫ 3: protecting, shielding; n. protection, refuge, taking refuge
+⟪शरण⟫ 3: melindungi, menjaga ; n. perlindungan, tempat berlindung, tindakan mencari perlindungan
 
-⟪सङ्घ⟫ n.: (to ⟪सम्⟫-⟪हन्⟫ : to strike together): group, heap, community (e.g. Buddhist)
+⟪सङ्घ⟫ n.: (kepada ⟪सम्⟫-⟪हन्⟫ : bersama-sama-memukul): kelompok, kerumunan, komunitas (misalnya Buddha)
 
-::: deleteme-box
-see also:
+⟪कन्या⟫ f.: gadis muda, putri, perawan
 
-**Payer, Alois (1944–):** Vinayamukha : Konsep Dasar Peraturan dan Hukum Monastik Theravāda. -- Bagian I. -- (Bahan tentang Konsep Dasar Buddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+⟪अति⟫ Prefiks: di atas, melewati -nya, melampaui (dalam ruang, dalam waktu, dalam jumlah, dalam kuantitas, dalam urutan, dalam kekuatan, dalam intensitas), sangat
+
+⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : berlalu
+
+::: indent
+PPP ⟪अतीत⟫ : n. masa lalu
 :::
 ⟪कन्या⟫ f.: gadis muda, putri, perawan
 
-⟪अति⟫ Preverb: over, across, beyond (in space, in time, in number, in quantity, in order, in power, in intensity), exceedingly
+⟪अति⟫ Prefiks: di atas, melewati - (dalam ruang, waktu, jumlah, kuantitas, urutan, kekuatan, intensitas), sangat
 
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : to pass by
+⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : berlalu
 
 ::: indent
-PPP **⟪अतीत⟫** : n. past
+PPP ⟪अतीत⟫ : n. masa lalu
+:::
+⟪कन्या⟫ f.: gadis muda, putri, perawan
+
+⟪अति⟫ Prefiks: di atas, melewati - (dalam ruang, waktu, jumlah, kuantitas, urutan, kekuatan, intensitas), sangat
+
+⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : berlalu
+
+::: indent
+PPP ⟪अतीत⟫ : n. masa lalu
 :::
 ## Pelajaran 42
 
-⟪प्रकृति⟫ f.: (from ⟪कृ⟫ + ⟪प्र⟫) basic form, natural state, nature; primordial matter, prime substance
 
-⟪अर्जुन⟫ m. Nama diri: Arjuna, salah satu dari lima putra ⟪पण्डु⟫. Pahlawan dalam teks ⟪महाभारत⟫ (lihat Basham, Wonder hal. 409 - 414)
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : menahan diri dari, menjauhkan diri dari, menjaga jarak, tetap berada di tempat, berdiri
+
+
+
+
+⟪प्रकृति⟫ f.: (dari ⟪कृ⟫ + ⟪प्र⟫) bentuk dasar, keadaan alami, sifat; materi purba, substansi purba
+
+⟪अर्जुन⟫ m. Nama diri: Arjuna, salah satu dari lima putra ⟪पण्डु⟫. Pahlawan dalam ⟪महाभारत⟫ (lihat Basham, Keajaiban hlm. 409 - 414)
+
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : berhenti dari, menjauhkan diri, menjaga jarak, tetap tinggal, berdiri
 
 ::: indent
-PPP ⟪अवस्थित⟫ 3: standing, located
+PPP ⟪अवस्थित⟫ 3: berdiri, berada
 :::
-⟪पुरा⟫ Adv.: once, formerly
+⟪पुरा⟫ Adv.: dahulu, sebelumnya
 
-⟪अनेक⟫ 3: many (not a few)
+⟪अनेक⟫ 3: banyak (bukan beberapa)
 
-⟪कुमार⟫ m.: prince
+⟪कुमार⟫ m.: pangeran
 
-⟪दूत⟫ m.: messenger, envoy
+⟪दूत⟫ m.: utusan, duta
 
-⟪इष्⟫ (1,4,9) Caus. **:sig[⟪इष⟫]**⟪यति⟫ : to send
+⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : mengirim
 
-⟪सकाश⟫ m.: presence, presence
+⟪सकाश⟫ m.: kehadiran, hadir
 
-⟪शर⟫ m.: arrow shaft, arrow
+⟪शर⟫ m.: tangkai panah, panah
 
-⟪बाण⟫ m.: arrow, target
+⟪बाण⟫ m.: panah, sasaran
 
-⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : menyetujui, berjanji; Ā: menjawab, mengonfirmasi, menegaskan, mengakui
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : menyetujui, berjanji; Ā: menjawab, mengonfirmasi, mengklaim, mengakui
 
-⟪चल्⟫ 1P ⟪चलति⟫ : to get into motion
+⟪चल्⟫ 1P ⟪चलति⟫ : menjadi bergerak
 
 ::: indent
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
-Caus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫  
+Kaus. ⟪चलयति । चालयति⟫  
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
 :::
-⟪अधिपति⟫ m. = ⟪राजन्⟫
+⟪अधिपति⟫ m. = ⟪राजन् आटोप⟫ m.: kesombongan, kebanggaan
 
-⟪आटोप⟫ m.: vanity, pride
+⟪चिन्तापर⟫ 3: tenggelam dalam pikiran
 
-⟪चिन्तापर⟫ 3: absorbed in thought
+⟪अन्तरे⟫ Adv.: sementara itu
 
-⟪अन्तरे⟫ Adv.: meanwhile
+⟪लीला⟫ f.:  canda, permainan
 
-⟪लीला⟫ f.: joke, play
+⟪यावत्⟫ Adv.:  berapa lama, selama
 
-⟪यावत्⟫ Adv.: how long, during
+⟪तावत्⟫ Adv.: selama itu
 
-⟪तावत्⟫ Adv.: as long as
+⟪द्विधा । द्वेधा⟫ Adv.: dua kali, dalam dua bagian
 
-⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: double, in two parts
-
-⟪शंस्⟫ 1P ⟪शंसति⟫ : to praise, to command
+⟪शंस्⟫ 1P ⟪शंसति⟫ : memuji, memerintahkan
 
 ::: indent
 Fut. ⟪शंसिष्यति⟫  
 Perf. I ⟪शशंस⟫  
 Pass. ⟪शस्यते⟫  
-Caus. ⟪शंसयति⟫  
+Kaus. ⟪शंसयति⟫  
 PPP ⟪शस्त⟫  
-Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
+Absol. ⟪शसित्वा । शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
 :::
-⟪हृदय⟫ n.: heart
+⟪हृदय⟫ n.: hati
 
-### 42.2.1. Some Kinship Terms
+### 42.2.1. Beberapa sebutan kekerabatan
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
-Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Image source: [Details](/en/licenses#lekt4202))
+Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+(Sumber gambar: [Details](/licenses#lekt4202))
 :::
-⟪भर्तृ⟫ m. (from ⟪भृ⟫ "to carry, to sustain"): Sustainer, Nourisher, Husband
+⟪भर्तृ⟫ m. (kepada ⟪भृ⟫ "membawa, mempertahankan"): pemelihara, pemberi nafkah, suami
 
-⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f.: Istri (⟪भार्या⟫ = gerundive dari ⟪भृ⟫ : yang harus dibawa, yang harus ditopang, yang berhak mendapatkan pemeliharaan)
+⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: istri (⟪भार्या⟫ = Gerundiv dari ⟪भृ⟫ : yang harus dibawa, yang harus dipertahankan, yang berhak mendapat nafkah)
 
-⟪पितृ⟫ m.: Father
+⟪पितृ⟫ m.: ayah
 
-⟪पितृ⟫ m. Plural: the deceased male ancestors, i.e.,
+⟪पितृ⟫ m. Plural: leluhur laki-laki yang telah meninggal, yaitu
 
-1.  Father, Grandfather, Great-grandfather
-2.  the progenitors of humanity
+1. ayah, kakek, buyung
+2. leluhur umat manusia
 
-Upacara dilakukan untuk keduanya, yaitu ⟪श्राद्ध⟫ n. yang disebut-sebut. Setiap hari, air dan, pada kesempatan tertentu, bola nasi atau bola tepung (⟪पिण्ड⟫ m. "bola") dipersembahkan kepada tiga leluhur laki-laki masing-masing (sisi paternal dan maternal). Hal ini dilakukan agar para leluhur menerima nutrisi. Pelaksanaan upacara ini adalah salah satu alasan mengapa seorang pria harus memiliki putra. Mereka yang terhubung melalui ⟪पिण्ड⟫-hadiah ini disebut ⟪सपिण्ड⟫ (di mana ⟪पिण्ड⟫ adalah bersama). ⟪सपिण्ड⟫ mencakup enam generasi: tiga ke belakang (hingga kakek buyut) dan tiga ke depan (hingga cicit).
+Keduanya dikenai ritual, yaitu ⟪श्राद्ध⟫ n. Setiap hari diberikan air dan pada kesempatan tertentu bola nasi atau bola tepung (⟪पिण्ड⟫ m. "bola") kepada masing-masing tiga leluhur laki-laki (dari pihak ayah dan ibu). Dengan demikian, para leluhur mendapatkan makanan. Pelaksanaan upacara ini adalah salah satu alasan mengapa seorang pria harus memiliki anak laki-laki. Mereka yang terhubung melalui ⟪पिण्ड⟫-ini disebut ⟪सपिण्ड⟫ (yang memiliki ⟪पिण्ड⟫ bersama). ⟪सपिण्ड⟫ mencakup enam generasi: tiga mundur (hingga buyung) dan tiga maju (hingga cicit).
 
-⟪तात⟫ m.: Papa
+⟪तात⟫ m.: Dosa
 
-⟪मातृ⟫ f.: Mother
+⟪मातृ⟫ f.: Ibu
 
-⟪पुत्र⟫ m.: Son
+⟪पुत्र⟫ m.: Anak laki-laki
 
-⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Daughter
+⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Anak perempuan
 
-⟪नप्तृ⟫ m.: Grandson
+⟪नप्तृ⟫ m.: Cucu laki-laki
 
-⟪भ्रातृ⟫ m.: Brother
+⟪भ्रातृ⟫ m.: Saudara laki-laki
 
-⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Sister
+⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Saudara perempuan
 
-⟪देवृ⟫ m.: Saudara laki-laki suami (saudara ipar bagi istri)
+⟪देवृ⟫ m.: Saudara laki-laki suami (mertua perempuan)
 
-⟪यातृ⟫ m.: Wife of the husband's brother
+⟪यातृ⟫ m.: Istri saudara laki-laki suami
 
-⟪ननान्दृ⟫ f.: Sister of the husband
+⟪ननान्दृ⟫ f.: Saudara perempuan suami
 
-⟪श्वसुर⟫ f.: Father-in-law (in ancient times: only of the wife)
+⟪श्वसुर⟫ f.: Mertua laki-laki (pada zaman dahulu: hanya bagi istri)
 
-⟪श्वस्रू⟫ f.: Mother-in-law (declension follows later)
+⟪श्वस्रू⟫ f.: Mertua perempuan (deklinasi akan dijelaskan kemudian)
 
-⟪मातुल⟫ m.: Maternal uncle (mother's brother)
+⟪मातुल⟫ m.: Saudara laki-laki ibu (paman dari pihak ibu)
 
-⟪मातुलानी⟫ f.: Wife of the maternal uncle (maternal uncle's wife)
+⟪मातुलानी⟫ f.: Istri saudara laki-laki ibu (istri paman dari pihak ibu)
 
-⟪पितृव्य⟫ m.: Paternal uncle (father's brother)
+⟪पितृव्य⟫ m.: Saudara laki-laki ayah (paman dari pihak ayah)
 
-⟪पितामह⟫ m.: Paternal grandfather
+⟪पितामह⟫ m.: Kakek dari pihak ayah
 
-⟪पितामही⟫ f.: Paternal grandmother
+⟪पितामही⟫ f.: Nenek dari pihak ayah
 
-⟪मातामह⟫ m.: Maternal grandfather
+⟪मातामह⟫ m.: Kakek dari pihak ibu
 
-⟪मातामही⟫ f.: Maternal grandmother
-
+⟪मातामही⟫ f.: Nenek dari pihak ibu
 
 ## Pelajaran 43
 
-⟪ज्ञा⟫ + ⟪आ⟫ Causative ⟪आज्ञापयति⟫ : to command, to order
 
-⟪आपण⟫ m.: market
+
+
+
+
+
+⟪ज्ञा⟫ + ⟪आ⟫ Kausatif ⟪आज्ञापयति⟫ : memerintahkan, mengatur
+
+⟪आपण⟫ m.: Pasar
 
 ::: media
 ![](/images/lekt4302.webp)
-Fig.: ⟪आपणः⟫
-(Image source: [Details](/en/licenses#lekt4302))
+Gambar: ⟪आपणः⟫
+(Sumber gambar: [Detail](/licenses#lekt4302))
 :::
-⟪सत्वर⟫ 3: fast, hurried
+⟪सत्वर⟫ 3: cepat, terburu-buru
 
-⟪पण्य⟫ 3: for sale; n.: goods, trade
+⟪पण्य⟫ 3: dapat dibeli; n.: Barang, perdagangan
 
 ::: media
 ![]/images/lekt4303.webp
-Fig.: ⟪पण्यानि⟫
-(Image source: [Details](/en/licenses#lekt4303))
+Gambar: ⟪पण्यानि⟫
+(Sumber gambar: [Detail](/licenses#lekt4303))
 :::
-⟪आम्⟫ : yes
+⟪आम्⟫ : ya
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
--⟪आयुत⟫ 3: provided with
+\-⟪आयुत⟫ 3: dilengkapi dengan
 
-⟪भद्र⟫ 3: good, happy; vocative: my dear!
+⟪भद्र⟫ 3: baik, bahagia; Vokatif: wahai kekasihku!
 
-⟪समय⟫ m. (to ⟪सम्⟫-⟪इ⟫): agreement, contract, deadline, date, time
+⟪समय⟫ m. (dari ⟪सम्⟫-⟪इ⟫): Kesepakatan, kontrak, batas waktu, jadwal
 
-⟪निश्चित⟫ 3: decided, fixed
+⟪निश्चित⟫ 3: ditetapkan, ditentukan
 
-⟪नोचेत्⟫ : if not, otherwise
+⟪नोचेत्⟫ : jika tidak, selain itu
 
-⟪विलम्ब⟫ n.m.: delay, lateness
+⟪विलम्ब⟫ n.m.: Penundaan, keterlambatan
 
-⟪विपणि⟫ f.: shop
+⟪विपणि⟫ f.: Toko
 
 ::: media
 ![](/images/lekt4304.webp)
-Fig.: ⟪विपणिः⟫
-(Image source: [Details](/en/licenses#lekt4304))
+Gambar: ⟪विपणिः⟫
+(Sumber gambar: [Detail](/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: merchant
+⟪वणिज्⟫ m.: pedagang
 
 ::: media
 ![](/images/lekt4305.webp)
-Fig.: ⟪वणिक्⟫
-(Image source: [Details](/en/licenses#lekt4305))
+Gambar: ⟪वणिक्⟫
+(Sumber gambar: [Detail](/licenses#lekt4305))
 :::
-⟪वर⟫ 3: best
+⟪वर⟫ 3: yang terbaik
 
-⟪शीघ्र⟫ 3: fast, quick
+⟪शीघ्र⟫ 3: cepat, segera
 
-⟪वत्स⟫ m.: calf, young, child; voc.: my dear
+⟪वत्स⟫ m.: anak sapi, keturunan, anak ; Voc.: sayangku
 
 ::: media
 ![](/images/lekt4306.webp)
-Fig.: ⟪वत्सः⟫
-(Image source: [Details](/en/licenses#lekt4306))
+Gambar: ⟪वत्सः⟫
+(Sumber gambar: [Detail](/licenses#lekt4306))
 :::
-⟪उत्तम⟫ 3: highest, best
+⟪उत्तम⟫ 3: tertinggi, yang terbaik
 
-⟪अल्प⟫ 3: small, little
+⟪अल्प⟫ 3: kecil, rendah
 
-⟪मूल्य⟫ n.: value, price
+⟪मूल्य⟫ n.: nilai, harga
 
-⟪कियत्⟫ 3: how big
+⟪कियत्⟫ 3: berapa besar
 
-⟪शर्करा⟫ f.: gula (kata bahasa Jerman "Zucker" berasal dari bahasa Italia zucchero, lalu melalui bahasa Arab sukkar - سكر dan bahasa Persia äkär - شکر kembali ke bahasa Sanskerta ⟪शर्करा⟫!)
+⟪शर्करा⟫ f.: gula (kata bahasa Jerman "Zucker" berasal dari bahasa Italia zucchero, dari sana melalui bahasa Arab sukkar - سكر dan bahasa Persia äkär - شکر kembali ke Sanskerta ⟪शर्करा⟫!)
 
-⟪अधिक⟫ 3: additional, surplus, extraordinary
+⟪अधिक⟫ 3: tambahan, berlebih, luar biasa
 
-⟪तर्हि⟫ : then, then; therefore, thus
+⟪तर्हि⟫ : pada waktu itu, kemudian ; oleh karena itu, jadi
 
-⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : to weigh
+⟪तुल्⟫ 10 ⟪तुलयति । तोलयति⟫ : menimbang
 
 ::: media
 ![](/images/lekt4307.webp)
-Fig.: ⟪तोलन्ति⟫
-(Image source: [Details](/en/licenses#lekt4307))
+Gambar: ⟪तोलन्ति⟫
+(Sumber gambar: [Detail](/licenses#lekt4307))
 :::
-⟪कर्गल⟫ n.: paper
+⟪कर्गल⟫ n.: kertas
 
-⟪संपुट⟫ m.: box (here: package, bundle)
+⟪संपुट⟫ m.: kaleng (di sini: paket, bundel)
 
-⟪पुरतस्⟫ : in front, beforehand, before
+⟪पुरतस्⟫ : di depan, sebelumnya, sebelum
 
-⟪श्रेष्ठिन्⟫ m.: wealthy merchant
+⟪श्रेष्ठिन्⟫ m.: pedagang kaya
 
-⟪जव⟫ 3: fast, hurried
+⟪जव⟫ 3: cepat, terburu-buru
 
-⟪द्रु⟫ 1P ⟪द्रवति⟫ to run
+⟪द्रु⟫ 1P ⟪द्रवति⟫ berlari
 
 ::: indent
 Perf. IIIa ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
 Fut. ⟪द्रोष्यति⟫  
 Pass. ⟪द्रूयते⟫  
-Caus. ⟪द्रावयति⟫  
+Kaus. ⟪द्रावयति⟫  
 PPP ⟪द्रुत⟫  
 Absol. -⟪द्रुत्य⟫  
 Inf. ⟪द्रोतुम्⟫
 :::
-⟪रे⟫ Interjection: Hey! You there!
+⟪रे⟫ Interjeksi: Hei! Kamu di sana!
 
-⟪अन्यद्⟫ 3: another (declension like ⟪यद्⟫ )
+⟪अन्यद्⟫ 3: yang lain (deklinsi seperti ⟪यद्⟫ )
 
-⟪वञ्चक⟫ m.: fraudster
+⟪वञ्चक⟫ m.: penipu
 
-⟪पश्चात्ताप⟫ m.: regret
+⟪पश्चात्ताप⟫ m.: penyesalan
 
-⟪इत्थम्⟫ Adv.: in this way, so
+⟪इत्थम्⟫ Adv.: dengan cara ini, begitu
 
-⟪दिन⟫ n.: day
+⟪दिन⟫ n.: hari
 
-⟪जन्मन्⟫ n.: birth
+⟪जन्मन्⟫ n.: kelahiran
 
-⟪आनन्द⟫ m.: bliss, joy
-
+⟪आनन्द⟫ m.: sukacita, kegembiraan
 
 ## Pelajaran 44
 
-⟪प्रति⟫ Preverb: back, against, toward - away
+
+
+
+
+
+
+⟪प्रति⟫ Prefiks: kembali, melawan, terhadap - ke arah
 
 ::: indent
-e.g.
+mis.
 
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : to strike back
+**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : memukul balik
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : to say back = to answer
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : menjawab
 
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : menolak, mencampakkan
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : menolak, menghinakan
 :::
-⟪या⟫ 2P ⟪याति⟫ : pergi, bepergian
+⟪या⟫ 2P ⟪याति⟫ : pergi, berkendara
 
 ::: indent
 Perf. IV ⟪ययौ⟫  
 Fut. ⟪यास्यति⟫  
 Pass. ⟪यायते⟫  
-Caus. ⟪यापयति⟫  
+Kaus. ⟪यापयति⟫  
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
 
-therefrom:
+dari itu:
 
-**⟪यान⟫** n.: pergi, jalan, kendaraan
-:::: media
-![](/images/lekt4403.webp)
-Fig.: ⟪रेल्यानम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt4403))
-::::
+⟪यान⟫ n.: berjalan, jalan, kendaraan
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : berbaring. Akar ini memiliki dalam semua bentuk batang present **Kekuatan Derajat:** 1.sg.Ind.Pres.Ā ***⟪शेये*** (śe + e). Bentuk-bentuk berikut sangat patut diperhatikan: 3.pl.Ind.Pres.Ā ***⟪शेरते***, 3.pl.Impf.Ā ***⟪अशेरत***
+::: media
+![](/images/lekt4403.webp)
+Gambar: ⟪रेल्यानम्⟫
+(Sumber gambar: [Details](/licenses#lekt4403))
+:::
+⟪शी⟫ 2Ā ⟪शेते⟫ : berbaring. Akar ini memiliki **tingkat tinggi (Guna):** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e) dalam semua bentuk batang present. Bentuk-bentuk berikut perlu diperhatikan: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
 Fut. ⟪शयिष्यते⟫  
-Caus. ⟪शापयति⟫  
+Kaus. ⟪शापयति⟫  
 PPP ⟪शयित⟫  
 Inf. ⟪शयितुम्⟫  
 
-therefrom:
+dari itu:
 
-**⟪शयन⟫** n.: couch, bed
-:::: media
-![](/images/lekt4404.webp)
-Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Image source: [Details](/en/licenses#lekt4404))
-::::
+⟪शयन⟫ n.: tempat berbaring, ranjang
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : to rejoice in (⟪तृतीयया⟫)
+::: media
+![](/images/lekt4404.webp)
+Gambar: ⟪योगी शयने शेते⟫
+(Sumber gambar: [Details](/licenses#lekt4404))
+:::
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : bersukacita atas (⟪तृतीयया⟫)
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
 Fut. ⟪नन्दिष्यति⟫  
 Pass.: ⟪नन्द्यते⟫  
-Caus. ⟪नन्दयति⟫  
+Kaus. ⟪नन्दयति⟫  
 PPP ⟪नन्दित⟫  
 Inf. ⟪नन्दितुम्⟫  
 Absol. -⟪नन्द्य⟫  
-Gerundive ⟪नन्द्य⟫  
+Gerundiv ⟪नन्द्य⟫  
 
-therefrom:
+dari itu:
 
-**⟪नन्दिन्⟫** 3: ditandai oleh (khusus) sukacita, gembira; m. nama gunung (⟪वहन⟫) dari ⟪शिव⟫ (seekor lembu)
-:::: media
-![](/images/lekt4405.webp)
-Fig.: ⟪नन्दी⟫
-(Sumber gambar: [Details](/en/licenses#lekt4405))
-::::
+⟪नन्दिन्⟫ 3: ditandai oleh (kegembiraan) khusus, gembira; m. nama kendaraan (⟪वहन⟫) dari ⟪शिव⟫ (seekor lembu jantan)
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : bersenang-senang dengan (⟪द्वितीयया⟫), menyapa seseorang dengan sukacita, menyambut
+::: media
+![](/images/lekt4405.webp)
+Gambar: ⟪नन्दी⟫
+(Sumber gambar: [Details](/licenses#lekt4405))
+:::
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : bersukacita atas (⟪द्वितीयया⟫), menyambut seseorang dengan gembira, mengucapkan selamat datang
 
-**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : memegang, membawa; menawarkan, memberikan; menahan bersama, membatasi, kekang, menaklukkan
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : memegang, membawa; memberikan, menganugerahkan; menjaga bersama, menundukkan, kekang, menaklukkan
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Caus. ⟪यामयति⟫ but: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
+Kaus. ⟪यामयति⟫ tetapi: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
 :::
-**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : to extend, to stretch out
+**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : meregangkan, mengulurkan
 
 ::: indent
-PPP ⟪आयत⟫ 3: panjang terbentang
-:::: media
+PPP ⟪आयत⟫ 3: terbentang panjang
+:::
+::: media
 ![](/images/lekt4406.webp)
-Fig.: ⟪आयतो⟫ ⟪मरुः⟫
-(Sumber gambar: [Details](/en/licenses#lekt4406))
-::::
+Gambar: ⟪आयतो मरुः⟫
+(Sumber gambar: [Details](/licenses#lekt4406))
 :::
 ⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : menawarkan, mempersembahkan, menyerahkan
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : mengikat bersama, mengikatkan, menahan
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : mengikat bersama, mengikatkan, menundukkan
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : to strive for (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
+⟪यत्⟫ 1Ā ⟪यतते⟫ : bercita-cita akan (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
 ::: indent
 Perf. Vb ⟪येते⟫  
 Fut. ⟪यतिष्यते⟫  
 Pass. ⟪यत्यते⟫  
-Caus. ⟪यातयति⟫  
+Kaus. ⟪यातयति⟫  
 PPP ⟪यत्त⟫  
 Inf. ⟪यतितुम्⟫  
 
-therefrom:
+dari itu:
 
-**⟪यत्न⟫** m.: effort, exertion
-:::: media
-![](/images/lekt4407.webp)
-Fig.: ⟪यत्नेन⟫
-(Image source: [Details](/en/licenses#lekt4407))
-::::
+⟪यत्न⟫ m.: usaha, upaya
 :::
-**⟪रभ्⟫** 1Ā ⟪रभते⟫ (variant form to ⟪लभ्⟫): to grasp
+::: media
+![](/images/lekt4407.webp)
+Gambar: ⟪यत्नेन⟫
+(Sumber gambar: [Details](/licenses#lekt4407))
+:::
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (bentuk sampingan dari ⟪लभ्⟫): memegang
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
+Kaus. :sig[⟪रम्भ⟫]⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
-Absolut. -⟪रभ्य⟫
+Absol. -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : menyentuh, memulai, undertaking
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : menyentuh, memulai, melakukan
 
-⟪प्रव्रज्या⟫ f. (ke ⟪प्र⟫-⟪व्रज्⟫): keluar dari rumah menuju ketidakberrumahan; upacara di mana seseorang menjadi novis Buddha (Pali: ⟪पब्बजा⟫)
+⟪प्रव्रज्या⟫ f. (dari ⟪प्र⟫-⟪व्रज्⟫): pergi meninggalkan rumah menuju kehidupan tanpa rumah; upacara menjadi novis Buddha (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-See:
-
-**Payer, Alois (1944–):** Vinayamukha : Konsep Dasar Peraturan dan Hukum Monastik Theravāda. -- Bagian I. -- (Bahan tentang Konsep Dasar Buddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-
-:::: media
+::: media
 ![](/images/lekt4408.webp)
-Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Image source: [Details](/en/licenses#lekt4408))
-::::
+Gambar: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+(Sumber gambar: [Details](/licenses#lekt4408))
+:::
+::: media
+![](/images/lekt4408.webp)
+Gambar: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+(Sumber gambar: [Details](/licenses#lekt4408))
+:::
+::: media
+![](/images/lekt4408.webp)
+Gambar: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+(Sumber gambar: [Details](/licenses#lekt4408))
 :::
 ## Pelajaran 45
 
-⟪वा⟫ ... ⟪वा⟫ : either ... or
 
+
+
+
+
+
+⟪वा⟫ ... ⟪वा⟫ : baik ... maupun
 
 ## Pelajaran 46
 
-⟪सम⟫ 3: same, equal, similar
+
+
+
+
+
+
+⟪सम⟫ 3: sama, tepat, serupa
 
 ::: indent
-dari itu:
-⟪समम्⟫ Adv.: dengan cara yang sama, pada waktu yang sama (⟪तृतीयया⟫), secara seragam
-⟪समता⟫ f.: keseimbangan batin
+darinya:
+⟪समम्⟫ Adv.: dengan cara yang sama, sekaligus (⟪तृतीयया⟫), secara merata
+⟪समता⟫ f.: Ketenangan batin
 ⟪विषम⟫ 3: tidak sama, tidak rata, jahat
 
 :::
-⟪ग्रह्⟫ 9U **:sig[⟪गृ⟫]**⟪ह्णाति⟫ (gṛh-ṇā-ti) : seize, grasp, catch
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : menggenggam, memegang, menangkap
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
+Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
-Caus. ⟪ग्राहयति⟫  
-PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
+Kaus.⟪ग्राहयति⟫  
+PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
-from that:
-⟪ग्रह⟫ m.: seizing, seizer, crocodile, wandering star
-⟪नवग्रह⟫ m.: the nine wandering stars (not planets!) (s. Basham, Wonder p. 493):
-1.  ⟪सूर्यः⟫ = Sun
-2.  ⟪चन्द्रः⟫ = Moon
-3.  ⟪मङ्गलः⟫ = Mars
-4.  ⟪बुधः⟫ = Mercury
-5.  ⟪बृहस्पतिः⟫ = Jupiter
-6.  ⟪शुक्रः⟫ = Venus
-7.  ⟪शनिः⟫ = Saturn
-8.  ⟪राहुः⟫
-9.  ⟪केतुः⟫
+darinya:
+⟪ग्रह⟫ m.: Menggenggam, Pengecap, Buaya, Bintang pengembara
+⟪नवग्रह⟫ m.: sembilan Bintang pengembara (bukan Planet!) (s. Basham, Wonder S. 493):
+1. ⟪सूर्यः⟫ = Matahari
+2. ⟪चन्द्रः⟫ = Bulan
+3. ⟪मङ्गलः⟫ = Mars
+4. ⟪बुधः⟫ = Merkurius
+5. ⟪बृहस्पतिः⟫ = Jupiter
+6. ⟪शुक्रः⟫ = Venus
+7. ⟪शनिः⟫ = Saturnus
+8. ⟪राहुः⟫
+9. ⟪केतुः⟫
 
 :::
-Regarding ⟪राहु⟫ and ⟪केतु⟫ see:
+Untuk ⟪राहु⟫ dan ⟪केतु⟫ lihat:
 
-> **Payer, Alois (1944–):** Dharmashastra : Pengantar dan Gambaran Umum. -- 10. Sakramen dan Ritual Transisi (samskara). -- Lampiran C: Rahu dan Ketu, bintang-bintang pengembara tak terlihat. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Pengantar dan Gambaran Umum. -- 10. Sakramen dan Rite Peralihan (samskara). -- Lampiran C: Rahu dan Ketu, planet-planet pengembara tak terlihat. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/en/licenses#lekt4602)
-(Sumber gambar: [Details](/en/licenses#lekt4602))
-:::: media
+Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
+(Sumber gambar: [Detail](/licenses#lekt4602))
+:::
+::: media
 ![](/images/lekt4603.webp)
-Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/en/licenses#lekt4603)
-(Sumber gambar: [Details](/en/licenses#lekt4603))
-::::
+Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
+(Sumber gambar: [Detail](/licenses#lekt4603))
 :::
 ::: media
 ![](/images/lekt4604.webp)
-Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/en/licenses#lekt4604)
-(Sumber gambar: [Details](/en/licenses#lekt4604))
+Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
+(Sumber gambar: [Detail](/licenses#lekt4604))
 :::
 ::: media
 ![](/images/lekt4605.webp)
-Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/en/licenses#lekt4605)
-(Sumber gambar: [Details](/en/licenses#lekt4605))
+Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
+(Sumber gambar: [Detail](/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : merasa puas, ridha dengan (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : merasa puas, senang dengan (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
 Fut. ⟪तोक्ष्यति⟫  
 Pass. ⟪तुष्यते⟫  
-Caus. ⟪तोषयति⟫  
+Kaus. ⟪तोषयति⟫  
 PPP ⟪तुष्ट⟫  
 Inf. ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : bend, bow, lean, incline
+⟪नम्⟫ 1P ⟪नमति⟫ : membungkuk, memberi hormat dengan membungkuk, condong, sujud
 
 ::: indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
 Fut. ⟪नंस्यति⟫  
 Pass. ⟪नम्यते⟫  
-Caus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
+Kaus. ⟪नमयति । नामयति⟫  
 PPP ⟪नत⟫  
 Inf. ⟪नन्तुम्⟫
 
-:::: media
-![](/images/lekt4607.webp)
-Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/en/licenses#lekt4607)
-(Image source: [Details](/en/licenses#lekt4607))
-::::
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : climb, ascend
+::: media
+![](/images/lekt4607.webp)
+Fig.: [⟪नारायण तुभ्यं नमामि⟫](/licenses#lekt4607)
+(Sumber gambar: [Detail](/licenses#lekt4607))
+:::
+⟪रुह्⟫ 1P ⟪रोहति⟫ : mendaki, menaiki
 
 ::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Caus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫  
-PPP. **:sig[⟪रूढ⟫]**  
+Kaus. ⟪रोहयति । रो⟫:sig[⟪प⟫]⟪यति⟫  
+PPP. :sig[⟪रूढ⟫]  
 Inf. ⟪रोढुम्⟫
 
-:::: media
-![](/images/lekt4606.webp)
-Fig.: [⟪अश्वरोहकः⟫](/en/licenses#lekt4606)
-(Image source: [Details](/en/licenses#lekt4606))
-::::
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : call, summon
+::: media
+![](/images/lekt4606.webp)
+Gambar: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
+(Sumber gambar: [Detail](/licenses#lekt4606))
+:::
+⟪ह्वे । हू⟫ 1U ⟪ह्वयति⟫ : memanggil, mengundang
 
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
 Fut. ⟪ह्वास्यति⟫  
 Pass. ⟪हूयते⟫  
-Caus. ⟪ह्वाययति⟫  
+Kaus. ⟪ह्वाययति⟫  
 PPP ⟪हूत⟫  
 Inf. ⟪ह्वातुम्⟫  
 Absol. -⟪हूय⟫
 
-:::: media
+:::
+::: media
 ![](/images/lekt4608.webp)
-Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/en/licenses#lekt4608)
-(Image source: [Details](/en/licenses#lekt4608))
-::::
+Gambar: [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
+(Sumber gambar: [Detail](/licenses#lekt4608))
 :::
 ::: indent
-1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "mobile", ⟪दूरशब्द⟫ m. "long-distance call, telephone" » ⟪चरिष्णुदूरशब्द⟫ "mobile phone" (word formation: A. Payer)
+1 ⟪महामात्र⟫ m. "Gajah penunggang"; ⟪चरिष्णु⟫ 3 "bergerak", ⟪दूरशब्द⟫ m. "telepon jarak jauh" » ⟪चरिष्णुदूरशब्द⟫ "ponsel" (pembentukan kata: A. Payer)
 
 :::
-⟪विभ्रम⟫ m.: going back and forth
+⟪विभ्रम⟫ m.: bolak-balik
 
-⟪भ्रंश⟫ m.: dropping off
+⟪भ्रंश⟫ m.: kerontokan
 
-⟪श्रम्⟫ 4P **:sig[⟪श्रा⟫]**⟪म्यति⟫ : toil, become tired
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : bersusah payah, menjadi lelah
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
-Caus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP **:sig[⟪श्रान्⟫]**⟪त⟫  
+Kaus. ⟪श्रमयति । श्रामयति⟫  
+PPP :sig[⟪श्रान्⟫]⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
-Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
-from that:
+Absol. ⟪श्रमित्वा । श्रान्त्वा⟫
+dari itu:
 ⟪आश्रम⟫ m.n.
 
-:::: media
-![](/images/lekt4609.webp)
-Fig.: [⟪श्रान्तः⟫](/en/licenses#lekt4609)
-(Sumber gambar: [Detail](/en/licenses#lekt4609))
-::::
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : bersandar, bertumpu pada, menemukan dukungan, pergi kepada seseorang (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+::: media
+![](/images/lekt4609.webp)
+Gambar: [⟪श्रान्तः⟫](/licenses#lekt4609)
+(Sumber gambar: [Detail](/licenses#lekt4609))
+:::
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : bersandar, bertumpu, menemukan tumpuan, pergi kepada seseorang (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
 Fut. ⟪श्रयिष्यति⟫  
 Pass. ⟪श्रीयते⟫  
-Caus. ⟪श्राययति⟫  
+Kaus. ⟪श्राययति⟫  
 PPP ⟪श्रित⟫  
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P **:sig[⟪सज⟫]**⟪ति⟫ : melekat, menempel pada (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : menempel, melekat pada (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
 Fut. ⟪संक्ष्यति⟫  
 Pass. ⟪सज्यते⟫  
-Caus. ⟪सञ्जयति⟫  
+Kaus. ⟪सञ्जयति⟫  
 PPP ⟪सक्त⟫  
 Inf. ⟪संक्तुम्⟫
-dari sana:
-⟪सङ्ग⟫ m.: pelekatan, kontak dengan (⟪तृतीयया⟫)
+dari itu:
+⟪सङ्ग⟫ m.: penempelan pada, kontak dengan (⟪तृतीयया⟫)
 
-:::: media
-![](/images/lekt4610.webp)
-Fig.: [⟪सङ्गः⟫](/en/licenses#lekt4610)
-(Image source: [Details](/en/licenses#lekt4610))
-::::
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : to run, to hasten
+::: media
+![](/images/lekt4610.webp)
+Gambar: [⟪सङ्गः⟫](/licenses#lekt4610)
+(Sumber gambar: [Detail](/licenses#lekt4610))
+:::
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : berlari, bergegas
 
 ::: indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
 Fut. ⟪द्रोष्यति⟫  
 Pass. ⟪द्रूयते⟫  
-Caus. ⟪द्रावयति⟫  
+Kaus. ⟪द्रावयति⟫  
 PPP ⟪द्रुत⟫  
 Inf. ⟪द्रोतुम्⟫  
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P **:sig[⟪भ्रा⟫]**⟪म्यति⟫ : to wander about, to roam
+⟪भ्रम्⟫ 1P ⟪भ्रमति ।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : berkeliaran, menjelajah
 
 ::: indent
-Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
+Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर् ।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
-Caus. ⟪भ्रमयति⟫  
-PPP **:sig[⟪भ्रा⟫]**⟪न्त⟫  
+Kaus. ⟪भ्रमयति⟫  
+PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
-therefrom:
-⟪विभ्रम⟫ m.: wandering about, confusion, error
+dari itu:
+⟪विभ्रम⟫ m.: pengembaraan, kebingungan, kesalahan
 
 :::
-⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : to hang down from (⟪सप्तम्या⟫), to hang on (⟪सप्तम्या⟫)
+⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : menggantung dari (⟪सप्तम्या⟫), tergantung pada (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ललम्बे⟫  
 Fut. ⟪लम्बिष्यते⟫  
 Pass. ⟪लम्ब्यते⟫  
-Caus. ⟪लम्बयति⟫  
+Kaus. ⟪लम्बयति⟫  
 PPP ⟪लम्बित⟫  
 Inf. ⟪लम्बितुम्⟫  
 Absol. -⟪लम्ब्य⟫
 
-:::: media
+:::
+::: media
 ![](/images/lekt4601.jpg)
-Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/en/licenses#lekt4601)
-(Image source: [Details](/en/licenses#lekt4601))
-::::
+Gambar: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
+(Sumber gambar: [Detail](/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : to hang on (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : tergantung pada (⟪द्वितीयया⟫)
 
-⟪यदि⟫ Conjunction:  if
+⟪यदि⟫ Konjungsi: jika
 
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : mengelilingi, menguasai, menaklukkan
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : mengepung, menguasai, mengalahkan
 
 ::: indent
-PPP ⟪परिभूत⟫ 3: conquered, humiliated, degraded
+PPP ⟪परिभूत⟫ 3: dikalahkan, direndahkan, dihina
 
 :::
-⟪नि⟫ Pref.: downwards, down, into, backwards
+⟪नि⟫ Prefiks: ke bawah, turun, masuk, mundur
 
 ::: indent
-e.g.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫**:sig[⟪षी⟫]**⟪दति⟫ : to sit down
+misalnya
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : duduk di bawah
 
 :::
-⟪भोस्⟫ Partikel vokatif: seruan untuk menyapa, misalnya: hei, heya, oh, ei, halo, hai! sering tidak dapat diterjemahkan. Partikel ini memiliki sandhi khusus: sebelum semua bunyi bersuara, partikel tersebut menjadi **:sig[⟪भो⟫]**.
+⟪भोस्⟫ Partikel vokatif: seruan panggilan, misalnya: hei, heya, oh, ei, halo, hi! sering tidak dapat diterjemahkan. Partikel ini memiliki Sandhi khusus: sebelum semua bunyi bersuara, bentuknya adalah :sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)
-Fig.: [⟪भोः⟫](/en/licenses#lekt4611)
-(Image source: [Details](/en/licenses#lekt4611))
+Gambar: [⟪भोः⟫](/licenses#lekt4611)
+(Sumber gambar: [Detail](/licenses#lekt4611))
 :::
 ## Pelajaran 48
 
-⟪श्वस्⟫ : tomorrow
 
-⟪अद्य⟫ : today
 
-⟪लघु⟫ 3: easy (not hard, not difficult), fast, short (in expression)
 
-⟪व्याकरण⟫ n.: grammar (to ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: string; loom, warp, fabric; foundation, norm, rule; doctrine, textbook; Tantra; magical formula; means, trick, medicine; government, authority
+
+
+⟪श्वस्⟫ : besok
+
+⟪अद्य⟫ : hari ini
+
+⟪लघु⟫ 3: ringan (tidak berat, tidak sulit), cepat, singkat (dalam ungkapan)
+
+⟪व्याकरण⟫ n.: Tata bahasa (untuk ⟪व्याकृ⟫)
+
+⟪तन्त्र⟫ n.: Senar ; Alat tenun, benang lungsin, kain tenunan ; Dasar, norma, aturan ; Ajaran, karya pengajaran ; Tantra ; Mantra sihir ; Alat, trik, obat-obatan ; Pemerintahan, otoritas
 
 ::: media
 ![](/images/lekt4802.webp)
-Fig.: ⟪तन्त्रम्⟫
+Gambar: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
-(Image source: [Details](/en/licenses#lekt4802))
-:::: media
-![](/images/lekt4803.webp)
-Fig.: ⟪तन्त्री⟫
-Sitar player = ⟪सितारवादकः⟫
-(Image source: [Details](/en/licenses#lekt4803))
-::::
+(Sumber gambar: [Detail](/licenses#lekt4802))
 :::
-⟪स्त्री⟫ f.: woman, wife; feminine
+::: media
+![](/images/lekt4803.webp)
+Gambar: ⟪तन्त्री⟫
+Pemain sitar = ⟪सितारवादकः⟫
+(Sumber gambar: [Detail](/licenses#lekt4803))
+:::
+⟪स्त्री⟫ f.: Wanita, istri ; Feminin
 
-Declension:
+Deklinasi:
 
 ::: grammar-box
-| **⟪स्त्री⟫ f.** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **⟪स्त्री⟫ f.** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ |
-| **⟪द्वितीया⟫** | ⟪स्त्रियम्⟫:br⟪स्त्रीयम्⟫ | ⟪स्त्रियस्⟫:br⟪स्त्रीस्⟫ |
-| **⟪तृतीया⟫** | ⟪स्त्रिया⟫ | ⟪स्त्रीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪स्त्रियै⟫ | ⟪स्त्रीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीभ्यस्⟫ |
-| **⟪षष्ठी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ |
-:::: media
-![](/images/lekt4804.webp)
-Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
-[Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
-(Image source: [Details](/en/licenses#lekt4804))
-::::
+| ⟪प्रथमा⟫ | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ |
+| ⟪द्वितीया⟫ | ⟪स्त्रियम्⟫:br⟪स्त्रीयम्⟫ | ⟪स्त्रियस्⟫:br⟪स्त्रीस्⟫ |
+| ⟪तृतीया⟫ | ⟪स्त्रिया⟫ | ⟪स्त्रीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪स्त्रियै⟫ | ⟪स्त्रीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪स्त्रियास्⟫ | ⟪स्त्रीभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ |
 :::
-⟪दिवानिशम्⟫ Adverb: by day and night
+::: media
+![](/images/lekt4804.webp)
+Gambar: ⟪स्वतन्त्राः स्त्रियः⟫
+[Kelompok swadaya (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
+(Sumber gambar: [Detail](/licenses#lekt4804))
+:::
+⟪दिवानिशम्⟫ Kata keterangan: siang dan malam
 
-⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : to hang, to adhere
+⟪सज्ज्⟫ Orang pertama tunggal ⟪सज्जति⟫ : menggantung, menempel
 
-⟪कुमार⟫ m.: child, youth, prince; epithet of ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
+⟪कुमार⟫ m.: anak, pemuda, pangeran; nama lain dari ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
 ![](/images/lekt4805.webp)
-Fig.: ⟪कुमारः⟫
-Thaipusam festival = தைப்பூசம், Batu Caves, Malaysia
-(Image source: [Details](/en/licenses#lekt4805))
+Ilm.: ⟪कुमारः⟫
+Festival Thaipusam = தைப்பூசம், Batu Caves, Malaysia
+(Sumber gambar: [Details](/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: girl, daughter
+⟪कुमारी⟫ f.: gadis, putri
 
 ::: media
 ![](/images/lekt4806.webp)
-Fig.: ⟪कुमारी⟫
-⟪नेपाल⟫
-(Image source: [Details](/en/licenses#lekt4806))
+Ilm.: ⟪कुमारी नेपाल⟫
+(Sumber gambar: [Details](/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: childhood
+⟪कौमर⟫ n.: masa kecil
 
-⟪यौवन⟫ n.: youth
+⟪यौवन⟫ n.: remaja
 
-⟪स्थविर⟫ 3: old, aged
+⟪स्थविर⟫ 3: tua, lanjut usia
 
 ::: media
 ![](/images/lekt4807.webp)
-Fig.: ⟪स्थविराः⟫
-⟪जोधपुर⟫
-(Image source: [Details](/en/licenses#lekt4807))
+Ilm.: ⟪स्थविराः जोधपुर⟫
+(Sumber gambar: [Details](/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (high) age
+⟪स्थाविर⟫ n.: (usia) tua
 
-⟪वाच्य⟫ 3: also: blameworthy
+⟪वाच्य⟫ 3: juga: patut dicela
 
-⟪सूक्ष्म⟫ 3: fine, tiny, subtle
+⟪सूक्ष्म⟫ 3: halus, kecil sekali, subtil
 
 ::: media
 ![](/images/lekt4808.webp)
-Fig.: ⟪सूक्ष्मम्⟫
-Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
-(Image source: [Details](/en/licenses#lekt4808))
+Ilm.: ⟪सूक्ष्मम्⟫
+Danau Karanji = ಕಾರಂಜಿ ಕೆರೆ
+(Sumber gambar: [Details](/licenses#lekt4808))
 :::
-⟪प्रसङ्ग⟫ m.: attachment, inclination; opportunity
+⟪प्रसङ्ग⟫ m.: keterikatan, kecenderungan ; kesempatan
 
-⟪विशेष⟫ m.: difference, peculiarity
+⟪विशेष⟫ m.: perbedaan, kekhususan
 
-⟪प्रसूति⟫ f.: birth, offspring
+⟪प्रसूति⟫ f.: kelahiran, keturunan
 
-⟪चरित्र⟫ n.: custom, habit, customary law; conduct
+⟪चरित्र⟫ n.: adat, kebiasaan, hukum adat ; perilaku
 
-⟪जाया⟫ f.: wife
+⟪जाया⟫ f.: istri
 
 ::: media
 ![](/images/lekt4809.webp)
-Fig.: ⟪मम⟫ ⟪जाया⟫
-(Image: Payer)
-(Image source: [Details](/en/licenses#lekt4809))
+Ilm.: ⟪मम जाया⟫
+(Gambar: Payer)
+(Sumber gambar: [Details](/licenses#lekt4809))
 :::
 ## Pelajaran 49
 
-⟪दीर्घ⟫ 3: long
 
-⟪ह्रस्व⟫ 3: short
 
-⟪आयुस्⟫ n.: lifespan (the full lifespan that one can live, if nothing comes in between) ;
+
+
+
+
+⟪दीर्घ⟫ 3: lama
+
+⟪ह्रस्व⟫ 3: pendek
+
+⟪आयुस्⟫ n.: masa hidup (masa hidup penuh, yang dapat dijalani jika tidak ada halangan);
 
 ::: indent
-from this:
+dari itu:
 
-⟪आयुर्वेद⟫ m.: the traditional medical system of India
+⟪आयुर्वेद⟫ m.: sistem medis tradisional India
 
-see:
+lihat:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer (1944–). -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Teks Terpilih dari Carakasaṃhitā / diterjemahkan dan dikomentari oleh Alois Payer (1944–). -- 0. Pengantar. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : throw, hurl
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : melempar, melontarkan
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
 Fut. ⟪क्षेप्स्यति⟫
 Pass. ⟪क्षिप्यते⟫
-Caus. ⟪क्षेपयति⟫
+Kaus. ⟪क्षेपयति⟫
 PPP ⟪क्षिप्त⟫
 Inf. ⟪क्षेप्तुम्⟫
 Absol. -⟪क्षिप्य⟫
-Gerundive: ⟪क्षेप्य⟫
+Gerundiv: ⟪क्षेप्य⟫
 :::
-⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : hasten
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : bergegas
 
 ::: indent
 Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
-Caus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ **:sig[⟪तू्र्⟫]**:sig[⟪ण⟫]
+Kaus. ⟪त्वरयति⟫
+PPP ⟪त्वरित ।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
-⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : harm
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : merugikan
 
 ::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
-Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
+Fut. ⟪द्रोहिष्यति । ध्रोक्ष्यति⟫
 Pass. ⟪द्रुह्यते⟫
-Caus. ⟪द्रोहयति⟫
-PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
+Kaus. ⟪द्रोहयति⟫
+PPP ⟪द्रुग्ध । द्रूढ⟫
 Inf. ⟪द्रोग्धुम्⟫
 :::
-⟪कुलूहल⟫ n.: curiosity, interest
+⟪कुलूहल⟫ n.: rasa ingin tahu, minat
 
 ::: media
 ![](/images/lekt4901.webp)
-Fig.: ⟪कुलूहलम्⟫
-(Image source: [Details](/en/licenses#lekt4901))
+Abb.: ⟪कुलूहलम्⟫
+(Sumber gambar: [Details](/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: whole, complete
+⟪कृत्स्न⟫ 3: seluruh, lengkap
 
-⟪परिचय⟫ m.: acquaintance
+⟪परिचय⟫ m.: kenalan
 
-⟪कला⟫ f.: art
+⟪कला⟫ f.: seni
 
 ::: media
 ![](/images/lekt4902.webp)
-Fig.: ⟪उत्तमा⟫ ⟪काला⟫
-⟪शिवो⟫ ⟪नटराजा⟫, 11th cent.
-(Image source: [Details](/en/licenses#lekt4902))
+Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, abad ke-11
+(Sumber gambar: [Details](/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: wish
+⟪वर⟫ m.n.: keinginan
 
-⟪उत⟫ Indecl.: and, also, or
+⟪उत⟫ Indekl.: dan, juga, atau
 
-⟪विहंग⟫ m.: bird ("going into the air:sig[⟪स्⟫]dream - ⟪विह⟫ -")
+⟪विहंग⟫ m.: burung ("yang masuk ke dalam mimpi udara - ⟪स्⟫ - ")
 
 ::: media
 ![](/images/lekt4903.jpg)
-Fig.: ⟪विहंगः⟫
-(Image source: [Details](/en/licenses#lekt4903))
+Abb.: ⟪विहंगः⟫
+(Sumber gambar: [Details](/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: garment, appearance, exterior
+⟪वेष⟫ m.: pakaian, penampilan, luaran
 
 ::: media
 ![](/images/lekt4904.webp)
-Fig.: ⟪वेषः⟫
-⟪वाराणस्याम्⟫
-(Image source: [Details](/en/licenses#lekt4904))
+Abb.: ⟪वेषः वाराणस्याम्⟫
+(Sumber gambar: [Details](/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: blanket, hiding place
+⟪छन्न⟫ n.: selimut, tempat persembunyian
 
-⟪पञ्जर⟫ n.: cage
+⟪पञ्जर⟫ n.: sangkar
 
 ::: media
 ![](/images/lekt4909.webp)
-Fig.: ⟪पञ्जरम्⟫
-Peramal dengan burung beo dalam sangkar: burung beo mengundi kertas yang ditakdirkan nasibnya Mysore
-(Sumber gambar: [Details](/en/licenses#lekt4909))
+Abb.: ⟪पञ्जरम्⟫
+Peramal dengan burung beo dalam sangkar: burung beo menarik potongan kertas yang berisi nasib Mysore
+(Sumber gambar: [Details](/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: tingkat terendah dari [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल । चण्डाल⟫ m.: tingkat terendah dari [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indecl.: self, of itself
+⟪स्वयम्⟫ Indekl.: sendiri, dengan sendirinya
 
-⟪अवनि⟫ f.: earth
+⟪अवनि⟫ f.: bumi
 
-⟪मुहूर्त⟫ m.,n.: moment, instant, right moment
+⟪मुहूर्त⟫ m.,n.: sekejap, momen, saat yang tepat
 
-⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : imagine, think
+⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : membayangkan, berpikir
 
 ::: indent
 Perf. IV ⟪दध्यौ⟫
 Fut. ⟪ध्यास्यति⟫
 Pass. ⟪ध्यायते⟫
-Caus. ⟪ध्यापयति⟫
+Kaus. ⟪ध्यापयति⟫
 PPP ⟪ध्यात⟫
 Inf. ⟪ध्यातुम्⟫
-Gerundive ⟪ध्येय⟫
+Gerundiv ⟪ध्येय⟫
 :::
-⟪आदर⟫ m.: consideration, attention, respect
+⟪आदर⟫ m.: pertimbangan, perhatian, hormat
 
 ::: media
 ![](/images/lekt4905.webp)
-Fig.: ⟪सादरः⟫
+Abb.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Image source: [Details](/en/licenses#lekt4905))
+(Sumber gambar: [Details](/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: farthest, highest ; ⟪पञ्चम्या⟫ : better than, higher than
+⟪परम⟫ 3: terjauh, tertinggi ; ⟪पञ्चम्या⟫ : lebih baik daripada, lebih tinggi daripada
 
-⟪शिशु⟫ m.: child, young
+⟪शिशु⟫ m.: anak, bayi
 
 ::: media
 ![](/images/lekt4906.webp)
-Fig.: ⟪गजशिशुः⟫
+Abb.: ⟪गजशिशुः⟫
 Sri Lanka
-(Image source: [Details](/en/licenses#lekt4906))
+(Sumber gambar: [Details](/licenses#lekt4906))
 :::
 ## Pelajaran 50
 
-⟪ध्रुव⟫ 3: firm, unchangeable
 
-⟪निषेक⟫ m.: sprinkling, fertilization, fluid, ejaculation, ceremony at conception
 
-⟪पण्डित⟫ 3: clever, wise, learned
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : disregard, despise
 
-⟪मन्त्रिन्⟫ 3: giving advice; m.: advisor, councilor, minister
+
+
+⟪ध्रुव⟫ 3: teguh, tidak berubah
+
+⟪निषेक⟫ m.: penyemburan, pembuahan, cairan, ejakulat, upacara saat konsepsi
+
+⟪पण्डित⟫ 3: bijaksana, arif, terpelajar
+
+⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : mengabaikan, meremehkan
+
+⟪मन्त्रिन्⟫ 3: memberi nasihat ; m.: penasihat, anggota dewan, menteri
 
 ::: media
 ![](/images/lekt5001.jpg)
-Fig.: ⟪मन्त्री⟫
-Kapil Sibal (1948 -), menteri persatuan di Kementerian Ilmu Pengetahuan dan Teknologi serta Kementerian Sains Bumi (sejak 2006)
-(Sumber gambar: [Details](/en/licenses#lekt5001))
+Abb.: ⟪मन्त्री⟫
+Kapil Sibal (1948 -), menteri union di Kementerian Ilmu Pengetahuan dan Teknologi serta Kementerian Sains Bumi (sejak 2006)
+(Sumber gambar: [Details](/licenses#lekt5001))
 :::
 ⟪रहस्⟫ n.: rahasia, kesunyian
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : be harmed, fail, damage
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : mengalami kerusakan, gagal, rusak
 
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
 Fut. ⟪रेषिष्यति⟫
 Pass. ⟪रिष्यते⟫
-Caus. ⟪रेषयति⟫
+Kaus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U *:sig[⟪लुम्प⟫]*⟪ति⟫** : break, destroy
+**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : pecah, hancur
 
 ::: indent
-Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
+Perf. II ⟪लुलोप⟫, ⟪लुलुपे⟫
 Fut. ⟪लोप्स्यति⟫
 Pass. ⟪लुप्यते⟫
-Caus. ⟪लोपयति⟫
+Kaus. ⟪लोपयति⟫
 PPP ⟪लुप्त⟫
 Inf. ⟪लोप्तुम्⟫
-Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
+Gerundiv ⟪लुप्य । लोप्य⟫
 :::
-⟪विधि⟫ m.: also: fate (to ⟪विधा⟫)
+⟪विधि⟫ m.: juga: takdir (ke ⟪विधा⟫)
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : rain (usually with a ⟪कर्तृ⟫ -- a god or a cloud)
+⟪वृष्⟫ 1P ⟪वर्षति⟫ : hujan (biasanya dengan ⟪कर्तृ⟫ -- dewa atau awan)
 
 ::: indent
 Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
 Fut. ⟪वर्षिष्यति⟫
 Pass. ⟪वृष्यते⟫
-Caus. ⟪वर्षयति⟫
+Kaus. ⟪वर्षयति⟫
 PPP ⟪वृष्ट⟫
 Inf. ⟪वर्षितुम्⟫
-Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
+Absol. ⟪वर्षित्वा । वृष्ट्वा⟫
 Absol.-⟪वृष्य⟫
-:::: media
-![](/images/lekt5002.jpg)
-Fig.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
-Kedatangan Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Sumber gambar: [Details](/en/licenses#lekt5002))
-::::
 :::
-⟪संयक्⟫ Adv.: benar, tepat, dengan cara yang benar; secara menyeluruh, sepenuhnya
+::: media
+![](/images/lekt5002.jpg)
+Abb.: ⟪महामेघो वर्षिष्यति⟫
+Kedatangan Monsun, Bangalore ಬೆಂಗಳೂರು
+(Sumber gambar: [Details](/licenses#lekt5002))
+:::
+⟪संयक्⟫ Adv.: benar, sejati, dengan cara yang tepat ; sepenuhnya, lengkap
 
-⟪आदित्य⟫ m.: sun; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : a specific class of gods
+⟪आदित्य⟫ m.: matahari ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : kelas dewa tertentu
 
 ::: media
 ![](/images/lekt5005.jpg)
-Fig.: ⟪आदित्यः⟫
-(Image source: [Details](/en/licenses#lekt5005))
+Abb.: ⟪आदित्यः⟫
+(Sumber gambar: [Details](/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: each, all
+⟪सर्व⟫ 3: setiap, semua
 
-Declension like ⟪यद्⟫ (exception: Nom.Akk.sg.Neuter)
+Deklinasi seperti ⟪यद्⟫ (kecualian: Nom.Akk.sg.Neutrum)
 
 ::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
-| | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** |
+| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominative:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | **:sig[⟪सर्वम्⟫]** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Accusative:br⟪२⟫. ⟪द्वितीया⟫** | :sig[⟪सर्वम्⟫] | **:sig[⟪सर्वम्⟫]** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
-| **4. Dative:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **5. Ablative:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **6. Genitive:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
-| **7. Locative:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
+| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
+| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
+| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
-⟪वै⟫ : particle that emphasizes the preceding word: indeed, truly, but
+⟪वै⟫ : Partikel yang menekankan kata sebelumnya: sungguh, benar-benar, namun
 
-⟪इह⟫ Adv.: here, here on earth, hither; now. Before nouns in the locative (⟪षष्ठी⟫) synonymous with ⟪अस्मिन्⟫, ⟪अस्याम्⟫
+⟪इह⟫ Adv.: di sini, di dunia ini, ke sini; sekarang. Sebelum kata benda dalam lokatif (⟪षष्ठी⟫) sama artinya dengan ⟪अस्मिन्⟫, ⟪अस्याम् कल्प⟫ m: peraturan, adat istiadat, ritual; [Periode dunia](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (dari ⟪कॢप्⟫)
 
-⟪कल्प⟫ m: ordinance, custom, ritual; [World Period](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (to ⟪कॢप्⟫)
-
-⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :beautiful
+⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :indah
 
 ::: media
 ![](/images/lekt5003.webp)
-Fig.: ⟪कल्याणी⟫
-(Image source: [Details](/en/licenses#lekt5003))
+Ilustrasi: ⟪कल्याणी⟫
+(Sumber gambar: [Detail](/licenses#lekt5003))
 :::
-⟪कु⟫- : as the first member of compounds: bad
+⟪कु⟫- : sebagai unsur pertama dalam majemuk: buruk
 
 ::: media
 ![](/images/lekt5004.webp)
-Fig.: ⟪कुनगरम्⟫
-⟪धारावी⟫, ⟪मुंबई⟫
-(Image source: [Details](/en/licenses#lekt5004))
+Ilustrasi: ⟪कुनगरम् धारावी⟫, ⟪मुंबई⟫
+(Sumber gambar: [Detail](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : see
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : melihat
 
 ::: indent
 Perf. ⟪चचक्षे⟫
-tidak digunakan dalam tense lainnya
+tidak digunakan dalam kala-kala lainnya
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : untuk memberitahu, untuk mempertimbangkan, untuk menamai
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : bercerita, menganggap, menyebut
 
-⟪देश⟫ m.: place, location, country, region
-
+⟪देश⟫ m.: tempat, lokasi, negeri, daerah
 
 ## Pelajaran 51
 
-⟪अजिन⟫ n.: kulit rusa, khususnya kulit rusa hitam (nilgai: _Antilope cervicapra_ L. ). Awalnya terdapat di seluruh anak benua India dari Punjab dan Sindh hingga Bengal dan dari Nepal ke Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Lihat:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193f.
+
+
+
+
+
+⟪अजिन⟫ n.: kulit antelop, khususnya kulit antelop hitam (antelop rusa: _Antilope cervicapra_ L. ). Awalnya terdapat di seluruh subbenua India dari Punjab dan Sind hingga Benggala dan dari Nepal hingga Kanyakumari (Tamil: கன்னியாகுமரி) Lihat:
+
+> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 jilid. -- ISBN 0-8018-5789-9. -- Jilid 2. -- hlm. 1193f.
 
 ::: media
 ![](/images/lekt5105.webp)
-Fig.:
-(Image source: [Details](/en/licenses#lekt5105))
+Ilustrasi:
+(Sumber gambar: [Detail](/licenses#lekt5105))
 :::
-⟪अतिथि⟫ m.: guest
+⟪अतिथि⟫ m.: tamu
 
-⟪अभ्यन्तर⟫ 3: located inside, nearest; m. the nearest relative, native
+⟪अभ्यन्तर⟫ 3: berada di dalam, terdekat; m. kerabat terdekat, penduduk asli
 
-⟪अरण्य⟫ n.: wilderness, forest
+⟪अरण्य⟫ n.: belantara, hutan
 
-⟪ऋतु⟫ m.: peristiwa berkala, musim, periode waktu, menstruasi, masa ketika wanita subur dan memiliki hak untuk berhubungan intim dengan suaminya.
+⟪ऋतु⟫ m.: proses periodik, musim, periode waktu, menstruasi, waktu ketika wanita subur dan memiliki hak untuk bersetubuh dengan suaminya.
 
 ::: indent
-Mengenai ⟪ऋतु⟫ lihat Manu III, 45-48: menurut ini, ⟪ऋतु⟫ berlangsung selama 16 hari (menurut terjemahan alternatif: 20 hari) sejak awal menstruasi, hubungan seksual dilarang pada empat hari pertama setelah mulai perdarahan (menurut terjemahan alternatif: pada delapan hari pertama (4 + 4) hari), serta pada hari ke-11 (atau ke-15) dan hari ke-13 (atau ke-18). Pada hari-hari genap wanita mengandung putra, pada hari-hari ganjil putri. Untuk penjelasan selanjutnya, diasumsikan ⟪ऋतु⟫ total 16 hari (bukan terjemahan alternatif), sebagaimana dilakukan oleh sebagian besar komentar pribumi, dan yang karenanya merupakan pandangan yang berlaku umum.
+Mengenai ⟪ऋतु⟫ lihat Manu III, 45-48: menurutnya ⟪ऋतु⟫ berlangsung selama 16 hari (menurut terjemahan alternatif: 20 hari) sejak awal haid, pada empat hari pertama setelah dimulainya haid hubungan seksual dilarang (menurut terjemahan alternatif: pada delapan hari pertama (4 + 4)), demikian pula pada hari ke-11 (atau ke-15) dan hari ke-13 (atau ke-18). Pada hari-hari genap wanita mengandung putra, pada hari-hari ganjil putri. Untuk bagian selanjutnya diasumsikan ⟪ऋतु⟫ selama total 16 hari (bukan terjemahan alternatif), sebagaimana juga dilakukan oleh sebagian besar komentar lokal, dan ini merupakan pandangan yang dominan.
 
-Karena ovulasi terjadi 14 hari sebelum awal menstruasi, dengan penentuan periode subur ini, kesuburan hampir "terjamin" untuk interval antara menstruasi 19 hingga 30 hari. Hari-hari yang dilarang (hari ke-11 dan ke-13) meningkatkan kemungkinan hubungan seksual pada hari ke-12 dan ke-14, yaitu kemungkinan konsepsi dengan siklus 28 hari (umur hidup sperma pada wanita sekitar 3 hari). Peraturan-peraturan ini seolah-olah merupakan aplikasi positif dari Knaus-Ogino.
-:::: media
-![](/images/lekt5106.jpg)
-Fig.: ⟪ऋतुः⟫
-(Sumber gambar: [Details](/en/licenses#lekt5106))
-::::
+Karena ovulasi terjadi 14 hari sebelum dimulainya haid, dalam penentuan periode subur ini kesuburan hampir "terjamin" untuk jarak antar-haid 19 hingga 30 hari. Hari-hari yang dilarang (ke-11 dan ke-13) meningkatkan kemungkinan hubungan seksual pada hari ke-12 dan ke-14, yaitu probabilitas konsepsi pada siklus 28 hari (umur sperma dalam tubuh wanita sekitar 3 hari). Ketentuan-ketentuan ini dapat dianggap sebagai penerapan positif dari metode Knaus-Ogino.
 :::
-⟪एकत्र⟫ Adv.: di satu tempat
+::: media
+![](/images/lekt5106.jpg)
+Ilustr.: ⟪ऋतुः⟫
+(Sumber gambar: [Details](/licenses#lekt5106))
+:::
+⟪एकत्र⟫ Adv.: di suatu tempat
 
-⟪जटा⟫ f.: hair plait (ascetic hairstyle)
+⟪जटा⟫ f.: kepang rambut (tata rambut pertapa)
 
 ::: media
 ![](/images/lekt5107.webp)
-Fig.: ⟪जटा⟫
-⟪ऋषिकेश⟫
-(Image source: [Details](/en/licenses#lekt5107))
+Fig.: ⟪जटा ऋषिकेश⟫
+(Sumber gambar: [Details](/licenses#lekt5107))
 :::
-⟪तुल्य⟫ 3: equal, comparable (⟪तृतीयया⟫)
+⟪तुल्य⟫ 3: sama, sebanding (⟪तृतीयया⟫)
 
-⟪तरय⟫ 3 (f.: ⟪तरयी⟫): threefold, consisting of three parts
+⟪तरय⟫ 3 (f.: ⟪तरयी⟫): tiga kali lipat, terdiri dari tiga bagian
 
-⟪प्राणान्तिक⟫ 3 (f.: -ī): fatal, bringing death, life imprisonment
+⟪प्राणान्तिक⟫ 3 (f.: -ī): mematikan, membawa maut, seumur hidup
 
-⟪बाह्य⟫ 3: located outside, abroad, foreign
+⟪बाह्य⟫ 3: di luar, berada di luar, asing
 
-⟪भिक्षा⟫ f.: begged alms, begging food
+⟪भिक्षा⟫ f.: sedekah yang dimohon, makanan pengemis
 
-⟪मार्यादा⟫ f.: boundary
+⟪मार्यादा⟫ f.: batas, perbatasan
 
-⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : abandon, leave behind
+⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : meninggalkan, menyisakan
 
 ::: indent
 Perf.II ⟪शिशेषे⟫, ⟪शिशिषुर्⟫
 Fut. ⟪शेक्ष्यति⟫
 Pass. ⟪शिष्यते⟫
-Caus. ⟪शेषयति⟫
+Kaus. ⟪शेषयति⟫
 PPP⟪शिष्ट⟫
 Absol. -⟪शिष्य⟫
 :::
-⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : distinguish
+⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : membedakan
 
 ::: indent
-Pass. ⟪विशिष्यते⟫ : berbeda dari (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), lebih baik daripada (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), menjadi yang terbaik di antara (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
+Pass. ⟪विशिष्यते⟫ : berbeda dari (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), lebih baik daripada (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), yang terbaik di antara (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
 :::
-⟪समान⟫ 3: dari jenis yang sama, setara, serupa; m.: sezaman
+⟪समान⟫ 3: sejenis, sama, mirip; m.: sebaya
 
-⟪स्व⟫ 3: own, his (my, your etc.) Declined like ⟪सर्व⟫. In Abl.Loc.sg.m.n and in Nom.pl.m it can also be declined like ⟪देव⟫:
+⟪स्व⟫ 3: milik sendiri, miliknya (milikku, milikmu, dll.). Dideklinasikan seperti ⟪सर्व⟫. Dalam Abl.Lok.sg.m.n dan Nom.pl.m, ia juga dapat dideklinasikan seperti ⟪देव⟫:
 
 ::: indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ **:sig[⟪स्वात्⟫]**
-Loc.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ **:sig[⟪स्⟫]**⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ **:sig[⟪स्वास्⟫]**
+Abl.sg.m.n ⟪स्वस्मात् ।⟫ :sig[⟪स्वात्⟫]
+Lok.sg.m.n. ⟪स्वस्मिन् ।⟫ :sig[⟪स्⟫]⟪वे⟫
+Nom.pl.m ⟪स्वे ।⟫ :sig[⟪स्वास्⟫]
 :::
-⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : scold, blame
+⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : mencela, menegur
 
 ::: indent
 Perf I ⟪जगर्हे⟫
 Fut. ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
 :::
-⟪पिशित⟫ n.: (prepared) meat
+⟪पिशित⟫ n.: (daging yang sudah disiapkan) daging
 
 ::: media
 ![](/images/lekt5108.webp)
 Fig.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
-(Image source: [Details](/en/licenses#lekt5108))
+(Sumber gambar: [Details](/licenses#lekt5108))
 :::
-⟪उपहार⟫ m.: offering, sacrifice, gift
+⟪उपहार⟫ m.: persembahan, korban, hadiah
 
-⟪मधु⟫ n.: honey, sweet drink, mead (honey wine)
+⟪मधु⟫ n.: madu, minuman manis, met (anggur madu)
 
 ::: media
 ![](/images/lekt5109.webp)
 Fig.: ⟪मधु⟫
 City Palace, ⟪उदयपुर⟫
-(Image source: [Details](/en/licenses#lekt5109))
+(Sumber gambar: [Details](/licenses#lekt5109))
 :::
-⟪मांस⟫ n.: meat
+⟪मांस⟫ n.: Daging
 
-⟪मृगया⟫ f.: hunt
+⟪मृगया⟫ f.: Perburuan
 
 ::: media
 ![](/images/lekt5110.webp)
-Fig.: ⟪मृगया⟫
-Hunting with ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
-(Image source: [Details](/en/licenses#lekt5110))
+Abb.: ⟪मृगया⟫
+Perburuan dengan ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
+(Sumber gambar: [Details](/licenses#lekt5110))
 :::
-⟪शिवा⟫ f.: (female) jackal (golden jackal = _Canis aureus_)
+⟪शिवा⟫ f.: (perempuan) Serigala emas (Jackal emas = _Canis aureus_)
 
 ::: media
 ![](/images/lekt5111.webp)
-Fig.: ⟪शिवा⟫
-_Canis aureus_, Kalatop Khajjiar Sanctuary
-(Image source: [Details](/en/licenses#lekt5111))
+Abb.: ⟪शिवा⟫
+_Canis aureus$, Kalatop Khajjiar Sanctuary
+(Sumber gambar: [Details](/licenses#lekt5111))
 :::
-⟪रुत⟫ n.: screaming
+⟪रुत⟫ n.: Teriakan
 
-⟪कौशिक⟫ m.: owl
+⟪कौशिक⟫ m.: Burung hantu
 
 ::: media
 ![](/images/lekt5112.webp)
-Fig.: ⟪कौशिकः⟫
+Abb.: ⟪कौशिकः⟫
 Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
-(Image source: [Details](/en/licenses#lekt5112))
+(Sumber gambar: [Details](/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: bird
+⟪शकुनि⟫ m.: Burung
 
-⟪श्वन्⟫ m.: dog
+⟪श्वन्⟫ m.: Anjing
 
 ::: indent
-strong stem ⟪श्वान्⟫
-weak stem before vowel ⟪सुन्⟫
-weak stem before consonant ⟪श्व⟫
-:::: media
-![](/images/lekt5113.jpg)
-Fig.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
-Karnataka = ಕರ್ನಾಟಕ
-(Image source: [Details](/en/licenses#lekt5113))
-::::
+Bentuk kuat ⟪श्वान्⟫
+Bentuk lemah sebelum vokal ⟪सुन्⟫
+Bentuk lemah sebelum konsonan ⟪श्व⟫
 :::
-⟪परिचित⟫ 3: familiar, known
+::: media
+![](/images/lekt5113.jpg)
+Abb.: ⟪श्वा लिङ्गं च⟫
+Karnataka = ಕರ್ನಾಟಕ
+(Sumber gambar: [Details](/licenses#lekt5113))
+:::
+⟪परिचित⟫ 3: akrab, dikenal
 
-⟪अटवी⟫ f.: forest
+⟪अटवी⟫ f.: Hutan
 
-⟪शून्य⟫ 3: empty, desolate
+⟪शून्य⟫ 3: kosong, sunyi
 
-⟪आपान⟫(⟪क⟫) n.: drinking bout
+⟪आपान⟫(⟪क⟫) n.: Pesta minum
 
 ::: media
 ![](/images/lekt5114.webp)
-Fig.: ⟪आपानकम्⟫
-⟪जोधपुर⟫
-(Image source: [Details](/en/licenses#lekt5114))
+Abb.: ⟪आपानकम् जोधपुर⟫
+(Sumber gambar: [Details](/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: raw, cruel
+⟪क्रूर⟫ 3: kasar, kejam
 
-⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : smear, anoint
+⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : mengolesi, meminyaki
 
 ::: indent
 Perf. II ⟪दिदेह⟫
 Fut. ⟪धेक्ष्यति⟫
 Pass. ⟪दिह्यते⟫
-Caus. ⟪देहयति⟫
+Kaus. ⟪देहयति⟫
 PPP ⟪दिग्ध⟫
 :::
-⟪विष⟫ n.: poison
+⟪विष⟫ n.: Racun
 
 ::: media
 ![](/images/lekt5115.webp)
-Fig.: ⟪मूषिकाविषाणि⟫
+Abb.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Image source: [Details](/en/licenses#lekt5115))
+(Sumber gambar: [Details](/licenses#lekt5115))
 :::
-⟪भुजंग⟫ m.: snake
+⟪भुजंग⟫ m.: Ular
 
 ::: media
 ![](/images/lekt5116.webp)
-Fig.: ⟪भुजंगः⟫
-Russell's viper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
-(Image source: [Details](/en/licenses#lekt5116))
+Abb.: ⟪भुजंगः⟫
+Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
+(Sumber gambar: [Details](/licenses#lekt5116))
 :::
-⟪सायक⟫ m.: arrow
+⟪सायक⟫ m.: panah
 
-⟪उत्साद⟫ m.: destruction
+⟪उत्साद⟫ m.: kehancuran, kematian
 
-⟪कलत्र⟫ **Neuter**: wife, female
+⟪कलत्र⟫ **Neutrum**: istri, betina
 
-⟪बन्दी⟫ f.: captive, plunder
+⟪बन्दी⟫ f.: tawanan, rampasan
 
-⟪योषित्⟫ f.: young woman, girl
+⟪योषित्⟫ f.: wanita muda, gadis
 
 ⟪शार्दूल⟫ m. = ⟪व्याघ्र⟫ m.
 
-⟪रुधिर⟫ n.: blood
+⟪रुधिर⟫ n.: darah
 
 ⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
 
-⟪बलि⟫ m.:  payment, donation, tribute
+⟪बलि⟫ m.:  pembayaran, sedekah, upeti
 
-⟪मणि⟫ m.: jewel
+⟪मणि⟫ m.: permata
 
 ::: media
 ![](/images/lekt5118.webp)
-Fig.: ⟪मणिः⟫
-Hope Diamond from Guntur = ಗುಂಡೂರು, today Smithsonian Museum of Natural History, Washington DC
-(Image source: [Details](/en/licenses#lekt5118))
+Abb.: ⟪मणिः⟫
+Hope Diamond dari Guntur = గుంటూరు, saat ini di Smithsonian Museum of Natural History, Washington DC
+(Sumber gambar: [Details](/licenses#lekt5118))
 :::
-⟪वन⟫ n.: forest
+⟪वन⟫ n.: hutan
 
-⟪मद⟫ m.: also "must" of an elephant (in [Musth](http://en.wikipedia.org/wiki/Musth))
+⟪मद⟫ m.: juga "getah birahi" gajah (dalam [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
 ![](/images/lekt5117.webp)
-Fig.: ⟪मदः⟫
-(Image source: [Details](/en/licenses#lekt5117))
+Abb.: ⟪मदः⟫
+(Sumber gambar: [Details](/licenses#lekt5117))
 :::
-⟪राग⟫ m.: also: color, red color
+⟪राग⟫ m.: juga: warna, warna merah
 
-⟪कालन⟫ n.: forest
+⟪कालन⟫ n.: hutan
 
-⟪खन्⟫ 1U ⟪खनति⟫ : dig
+⟪खन्⟫ 1U ⟪खनति⟫ : menggali
 
 ::: indent
 Perf. ⟪चखान⟫, ⟪चखने⟫
 Fut. ⟪खनिष्यति⟫
-Caus. ⟪खानयति⟫
+Kaus. ⟪खानयति⟫
 PPP ⟪खात⟫
-Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
+Absol ⟪खनित्वा । खात्वा⟫
 :::
-⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : think, ponder
+⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : berpikir, merenungkan
 
-⟪शबर⟫ .:  proper name of a non-Aryan tribe
-
+⟪शबर⟫ .:  nama diri suku non-Arya
 
 ## Pelajaran 52
 
-⟪अखिल⟫ 3: seamless, whole
 
-⟪निखिल⟫ 3: complete, whole
+
+
+
+
+
+
+
+⟪अखिल⟫ 3: tanpa celah, seluruhnya
+
+⟪निखिल⟫ 3: lengkap, seluruhnya
 
 ::: indent
-from:
+dari:
 
-⟪खिल⟫: ladang kosong, tanah terlantar
-:::: media
+⟪खिल⟫ m.: ladang tandus, tanah terlantar
+:::
+::: media
 ![](/images/lekt5210.webp)
-Fig.: ⟪खिलः⟫
+Abb.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Sumber gambar: [Details](/en/licenses#lekt5210))
-::::
+(Sumber gambar: [Details](/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: di dalam, di dalam; postposisi dengan Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): di dalam, di tengah; postposisi dengan Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): dari dalam ...
+⟪अन्तर्⟫ Adv.: di dalam, di bagian dalam ; Postposisi dengan Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): di dalam, di tengah-tengah ; Postposisi dengan Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): dari ... keluar
 
-⟪अन्योन्य⟫ 3: mutually, each other
+⟪अन्योन्य⟫ 3: saling, satu sama lain
 
-⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fail
+⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : gagal
 
 ::: indent
-PPP ⟪विपरीत⟫ 3: wrong, incorrect
+PPP ⟪विपरीत⟫ 3: salah, keliru
 :::
-⟪त्रि⟫ 3: three
+⟪त्रि⟫ 3: tiga
 
 ::: grammar-box
-| | **Maskulin:br⟪पुंस्⟫** | **Netral:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
+| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominatif:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Akusatif:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
-| **4. Datif:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablatif:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genitif:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Lokatif:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposisi dan prefiks dengan nomina dan verba: dari, pergi, keluar, tanpa - dari
+⟪निस्⟫ Postposisi dan prefiks pada nomina dan kata kerja: keluar, menjauh, muncul, dari dalam, pergi tanpa - oleh
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : press, torment; harass, besiege, plague
+⟪पीड्⟫ 10P ⟪पीडयति⟫ : menekan, menyiksa ; mendesak , mengepung , mengganggu
 
 ::: media
 ![](/images/lekt5212.webp)
-Fig.: ⟪पीडिताः⟫
+Abb.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
-(Image source: [Details](/en/licenses#lekt5212))
+(Sumber gambar: [Details](/licenses#lekt5212))
 :::
-⟪पर⟫ 3: (declension like ⟪सर्व⟫) distant, foreign, higher than (⟪पञ्चम्या⟫), utmost, highest; other, foreign, hostile; m.: foreigner
+⟪पर⟫ 3: (Deklinasi seperti ⟪सर्व⟫) jauh, asing , lebih tinggi dari (⟪पञ्चम्या⟫), terakhir, tertinggi ; lain , asing , bermusuhan ; m.: orang asing
 
 ::: indent
-from that:
+darinya:
 
-⟪परम्⟫ Adv.: dalam tingkat tinggi, mengenai itu, kemudian, tetapi, namun
+⟪परम्⟫ Adv.: dalam derajat tinggi , setelahnya , kemudian , tetapi , justru
 :::
-⟪प्रति⟫ Postposisi (⟪द्वितीयया⟫): ke - menuju, setelah, berkenaan dengan, berhadapan
+⟪प्रति⟫ Postposisi (⟪द्वितीयया⟫): ke - menuju , setelah , mengenai , terhadap
 
-⟪प्रधान⟫ 3: principal, best; n.: the most important
+⟪प्रधान⟫ 3: utama , terbaik ; n.: yang paling penting
 
 ::: media
 ![](/images/lekt5213.webp)
-Fig.: ⟪प्रधानः⟫
-⟪मुंबई⟫
-(Image source: [Details](/en/licenses#lekt5213))
+Abb.: ⟪प्रधानः मुंबई⟫
+(Sumber gambar: [Details](/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: greed, lustfulness
+⟪लौल्य⟫ n.: kerakusan , nafsu
 
-⟪वर्ग⟫ m.: section, division, group
+⟪वर्ग⟫ m.: bagian , departemen , kelompok
 
 ::: indent
-⟪त्रिवर्ग⟫ m.: group of three (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫; or: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫; or: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
+⟪त्रिवर्ग⟫ m.: kelompok tiga (misalnya , ,  ; atau: , ,  ; atau: , , )
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Imperat. 2.sg.: **:sig[⟪उड्ढि⟫]** : to want, command, desire
+⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : ingin, memerintahkan, menginginkan
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
 Fut. ⟪वशिष्यति⟫
 Pass. ⟪उष्यते⟫
-Caus. ⟪वाशयति⟫
+Kaus. ⟪वाशयति⟫
 PPP ⟪उशित⟫
 Inf. ⟪वशितुम्⟫
 Absol. -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : to blow, breathe
+⟪वा⟫ 2P ⟪वाति⟫ : bertiup, berhembus
 
 ::: indent
 Perf IV ⟪ववौ⟫
 Fut. ⟪वास्यति⟫
 Pass. ⟪वायते⟫
-Caus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+Kaus. ⟪वापयति⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-from that:
+dari itu:
 
-⟪वात⟫ m.: wind
+⟪वात⟫ m.: angin
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : to turn, rotate; to ward off, exclude
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : memutar, berputar ; menghalau, mengecualikan
 
 ::: indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
 Fut. ⟪वर्जिष्यति⟫
 Pass. ⟪वृज्यते⟫
-Caus. ⟪वर्जयति⟫ : to eliminate
-Caus. PPP ⟪वर्जित⟫ : deprived of something, free from
+Kaus. ⟪वर्जयति⟫ : menghilangkan
+Kaus. PPP ⟪वर्जित⟫ : kehilangan sesuatu, bebas dari
 PPP ⟪वृक्त⟫
 Inf. ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: activity, conduct, interaction, commerce, business, trade, (legal) process
+⟪व्यवहार⟫ m.: aktivitas, perilaku, pergaulan, komunikasi, urusan, perdagangan, (proses) hukum
 
-⟪शील⟫ n.: custom, habit, nature, character, good habit = morality
+⟪शील⟫ n.: kebiasaan, adat, sifat alami, karakter, kebiasaan baik = moral
 
-⟪सूर्य⟫ m.: sun
+⟪सूर्य⟫ m.: matahari
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : to serve (⟪द्वितीया⟫), attend upon, honor, love
+⟪सेव्⟫ 1Ā ⟪सेवते⟫ : melayani seseorang (⟪द्वितीया⟫), mengabdi, menghormati, mencintai
 
 ::: indent
 Perf I ⟪सिषेवे⟫
 Fut. ⟪सेविष्यते⟫
 Pass. ⟪सेव्यते⟫
-Caus. ⟪सेवयति⟫
+Kaus. ⟪सेवयति⟫
 PPP ⟪सेवित⟫
 Inf. ⟪सेवितुम्⟫
 Absol. -⟪सेव्य⟫
 
-from that:
+dari itu:
 
-⟪सेवा⟫ f.: service, attendance
+⟪सेवा⟫ f.: pelayanan, kunjungan
 :::
-⟪धीर⟫ 3: firm, steadfast, continuous, persistent
+⟪धीर⟫ 3: teguh, kokoh, berkelanjutan, gigih
 
-⟪शम्⟫ ⟪शाम्यति⟫
+⟪शम् शाम्यति⟫
 
 ::: indent
-⟪शशाम⟫, ⟪शेमुर्⟫
-⟪शमिष्यति⟫
-⟪शम्यते⟫
-⟪शमयति⟫
-⟪शान्त⟫
-⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
+⟪शशाम⟫, ⟪शेमुर् शमिष्यति शम्यते शमयति शान्त शमित्वा । शान्त्वा⟫
 :::
-⟪कोविद⟫ 3: experienced in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
+⟪कोविद⟫ 3: ahli dalam (⟪षष्ठ्या सप्तम्या वा⟫)
 
-⟪याम⟫ m.: night watch (each three hours)
+⟪याम⟫ m.: jaga malam (masing-masing tiga jam)
 
-⟪परंपरा⟫ f.: unbroken series
+⟪परंपरा⟫ f.: rangkaian tanpa henti
 
-⟪अमुत्र⟫ Adv.: there, thither
+⟪अमुत्र⟫ Adv.: di sana, ke sana
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : bergerak, bergerak-gerak, jatuh
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : bergerak, berpindah, jatuh
 
 ::: indent
 Perf. IIIa ⟪चुच्युवे⟫
 Fut. ⟪च्योष्यते⟫
 Pass. ⟪च्यूयते⟫
-Caus. ⟪च्यावयति⟫
+Kaus. ⟪च्यावयति⟫
 PPP ⟪च्युत⟫
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : mengetahui, merasakan, memahami, mengalami
+⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : mengen, merasakan, mengamati, mengalami
 
-⟪चक्र⟫ n.: wheel
+⟪चक्र⟫ n.: roda
 
 ::: media
 ![](/images/lekt5214.webp)
-Fig.: ⟪चक्रम्⟫
+Gambar: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Image source: [Details](/en/licenses#lekt5214))
+(Sumber gambar: [Details](/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: banana tree (_Musa_ sp.)
+⟪कदली⟫ f.: pohon pisang (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
-Fig.: ⟪कदली⟫
+Gambar: ⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Image source: [Details](/en/licenses#lekt5208))
+(Sumber gambar: [Details](/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: core, marrow, essence, substance
+⟪सार⟫ m.n.: inti, sumsum, esensi, substansi
 
-⟪दिव्य⟫ 3: heavenly, divine
+⟪दिव्य⟫ 3: surgawi, ilahi
 
-⟪वर⟫ 3: best
+⟪वर⟫ 3: terbaik
 
-⟪आदर्श⟫ m.: mirror
+⟪आदर्श⟫ m.: cermin
 
-⟪मल⟫ m.n.: dirt, flaw
+⟪मल⟫ m.n.: kotoran, noda
 
 ::: media
 ![](/images/lekt5215.webp)
-Fig.: ⟪मलम्⟫
-⟪मुंबई⟫
-(Image source: [Details](/en/licenses#lekt5215))
+Gambar: ⟪मलम् मुंबई⟫
+(Sumber gambar: [Details](/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: Indra's heaven
+⟪त्रिपिष्टप⟫ n.: surga Indra
 
-⟪मार⟫ m.: the personified evil, the personified temptation / manipulation, devil
+⟪मार⟫ m.: kejahatan yang dipersonifikasikan, godangan/manipulasi yang dipersonifikasikan, iblis
 
 ::: media
 ![](/images/lekt5217.webp)
-Fig.:
-Amaravati = అమరావతి, 2nd century CE
-(Image source: [Details](/en/licenses#lekt5217))
+Gambar:
+Amaravati = అమరావతి, abad ke-2 M.
+(Sumber gambar: [Details](/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: one who wishes to know completely
+⟪विजिज्ञासु⟫ 3: seseorang yang ingin memahami sepenuhnya
 
-⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : to protect, to save
+⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : melindungi, menyelamatkan
 
 ::: indent
 Perf. IV ⟪तत्रे⟫
 Fut. ⟪त्रास्यते⟫
 Pass. ⟪त्रायते⟫
-Caus. ⟪त्रापयति⟫
-PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
+Kaus. ⟪त्रापयति⟫
+PPP ⟪त्राण । त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
+#### Sumber
 
+**lekt0201**: Penggambaran pembagian kasta masyarakat Eropa Abad Pertengahan (ukiran kayu dari akhir abad ke-15). Keterangan: * Kelas Imam (~Brāhmaṇa): Tu supplex ora = Berdoalah dengan penuh kerendahan hati! * Kelas Bangsawan (~Kṣatriya): Tu protege = Lindungilah! * Kelas Petani (~Vaiśya/Śūdra): Tuque labora = Dan bekerjalah! Ketiga kasta tersebut mengenakan pakaian khas masing-masing. Di atas kasta-kasta ini — yang dinyatakan sebagai kehendak ilahi — Kristus berkuasa. [Sumber gambar: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129]
 
+**lekt0203**: Dewa Agni, miniatur, abad ke-18 [Sumber gambar: Wikipedia, domain publik]
+
+**lekt0202**: Sādhu (⟪साधु⟫), Kuil Pashupatinath (⟪पशुपतिनाथ मन्दिर⟫), Kathmandu (⟪काठमांडौ⟫), Nepal (⟪नेपाल⟫), 2007 [Sumber gambar: Peter Akkermans, Wikipedia, Lisensi GNU FDL]
+
+**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Sumber gambar: Wikipedia, Lisensi GNU FDL]
+
+**lekt0501**: Dewa Kāma = kāmadeva = ⟪कामदेव⟫, abad ke-18. [Sumber gambar: Wikipedia, domain publik]
+
+**lekt0701**: Apakah ini tanaman soma Weda?: Jamur fly agaric: Amanita muscaria (L.) Lam. [Sumber gambar: Wikipedia, Lisensi GNU FDL]
+
+**lekt0809**: ⟪लिख्⟫ : Pena tulis baja India untuk menggores daun lontar [Sumber gambar: Meyers Grosses Konversationslexikon 1905. Domain publik]
+
+**lekt0810**: ⟪लिख्⟫ : Tongkat tulis suku Batak (Sumatra), yang kemungkinan juga digunakan di India [Sumber gambar: Meyers Grosses Konversationslexikon 1905. Domain publik]
+
+**lekt0903**: adhyayana = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram dekat Madurai [Sumber gambar: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- Diakses pada 2008-11-23. -- Lisensi Creative Commons (Atribusi, tidak ada karya turunan)]
+
+**lekt0902**: kāru = ⟪कारु⟫, Gujarat [Sumber gambar: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Diakses pada 2008-11-23. -- Lisensi Creative Commons (Atribusi, tidak untuk penggunaan komersial, tidak ada karya turunan)]
+
+**lekt1003**: Dewa Varuṇa = ⟪वरुण⟫, abad ke-17. [Sumber gambar: Wikipedia, domain publik]
+
+**lekt1002**: Seorang Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / oleh Rāja Ravi Varmā (⟪राज रवि वर्मा⟫) (1848–1906) [Sumber gambar: Wikipedia, domain publik]
+
+**lekt1301**: ⟪महिषासुरः⟫ = Mahisashura Chamundi Hills, Mysore (Mysuru) [Sumber gambar: Prakash Subbarao / Wikipedia. -- Domain publik]
+
+**lekt1404**: ⟪अन्नम्⟫, Karnataka (Karnataka), 2005 [Sumber gambar: Wikipedia, Domain publik]
+
+**lekt1303**: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Sumber gambar: Wikipedia, Lisensi GNU FD]
+
+**lekt1405**: ⟪दीपाः⟫ [Sumber gambar: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Diakses pada 01-12-2008. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tanpa karya turunan)]
+
+**lekt1504**: ⟪पूजा⟫ Upacara Puja yang diadakan di Kakinada (Kakinada), Andhra Pradesh (Andra Pradesh), India, pada awal kontrak survei seismik. [Sumber gambar: Wikiepdia, Domain publik]
+
+**lekt1505**: Indra dan Sachi Menunggang Gajah Ilahi Airavata, Lembaran dari Panchakalyanaka (Lima Peristiwa Mulia dalam Kehidupan Jina Rishabhanatha [Adinatha]), sekitar 1670-1680 Lukisan; Cat air, cat air opak, emas, dan perak di atas kertas, Gambar: 9 1/8 x 15 1/8 in. (23,18 x 38,42 cm); Lembaran: 10 5/8 x 16 3/4 in. (26,99 x 42,55 cm Dibuat di: India, Rajasthan, Amber [Sumber gambar: Wikipedia, Domain publik]
+
+**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Sumber gambar: Wikipedia, Lisensi GNU FD]
+
+**lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Taman Nasional Bandhavgarh (⟪बांधवगढ राष्ट्रीय उद्दान⟫) [Sumber gambar: Layanan Ikan dan Satwa Liar AS / Wikipedia, Domain publik]
+
+**lekt1602**: ⟪अध्यापनम्⟫ "Ini adalah upacara khusus di sebuah kuil kecil di Satara (⟪सातारा⟫). Ini dilakukan oleh para siswa Swami Muktananda Vedashala pada perayaan Mahāśivaratri. Ini adalah sebuah sekolah Veda, di mana anak-anak menghafal teks suci yang disebut Weda. Sekolah ini mengajarkan Krishna Yajurveda dan beberapa bagian dari Samaveda. Saya sedang mengerjakan tesis master saya tentang sekolah ini." [Sumber gambar: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Diakses pada 07-12-2008. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tanpa karya turunan)]
+
+**lekt1601**: ⟪योगी⟫ Birla Mandir, Delhi [Sumber gambar: Deepak / Wikipedia ; Lisensi Creative Commons (Atribusi, berbagi serupa)]
+
+**lekt1603**: ⟪अहिंसा⟫ "Tangan dengan roda di telapak tangan melambangkan Sumpah Jain Ahimsa. Kata di tengah adalah "ahimsa". Roda mewakili dharmacakra yang melambangkan tekad untuk menghentikan siklus reinkarnasi melalui pengejaran kebenaran dan non-kekerasan yang tanpa henti." [Sumber gambar: Wikipedia, Domain publik]
+
+**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Sumber gambar: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Diakses pada 2008-12-07. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt1701**: ⟪योगासनम्⟫ [Sumber gambar: oleh tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Diakses pada 2008-12-07. -- Lisensi Creative Commons (Atribusi, tidak ada turunan)]
+
+**lekt1702**: ⟪दोग्धि⟫ [Sumber gambar: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Diakses pada 2008-12-07. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi serupa)]
+
+**lekt1809**: ⟪कामः⟫ Ilustrasi untuk ⟪कामसूत्र⟫ [Sumber gambar: Wikipedia, Domain publik]
+
+**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Sumber gambar: Sudarshan Bhat Khandige / Wikipedia, Domain publik]
+
+**lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Sumber gambar: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Diakses pada 2008-12-08. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tidak ada turunan)]
+
+**lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), dalam kostum tradisional, adalah kebiasaan di bagian selatan Kerala. Onappottan mengunjungi rumah-rumah selama festival Onam dan memberikan berkah. Dalam waktu-waktu terakhir, onappottan telah menjadi pemandangan langka, terbatas pada desa-desa." [Sumber gambar: Kapten Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Diakses pada 2008-12-08. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt1903**: ⟪पण्डीतः जवाहरलाल नेहरू⟫, ⟪१९५९⟫ [Sumber gambar: Wikipedia, Domain Publik]
+
+**lekt2008**: ⟪आश्रमाः⟫ Rishikesh = ⟪ऋषिकेश⟫ "Ini sebenarnya bagian dari Ashram di Rishikesh tempat The Beatles tinggal. Bagian spesifik ini tidak ada ketika mereka berada di sana, tetapi memang terlihat keren." [Sumber gambar: oleh ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Diakses pada 2008-12-11. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt2103**: ⟪भगवान्कृष्णः⟫ sebagai ⟪जगन्नाथ⟫ (kanan) dengan saudara tirinya, ⟪सुभद्रा⟫ (tengah), dan kakak laki-lakinya yang lebih tua, ⟪बलराम⟫ Orissa = ଓଡ଼ିଶା [Sumber gambar: Sujitkumar / Wikipedia. Lisensi GNU FDL]
+
+**lekt2105**: ⟪भगवद्गीता⟫ - Manuskrip, abad ke-19. [Sumber gambar: Wikipedia, Domain Publik]
+
+**lekt2104**: ⟪भिक्षवः⟫ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Sumber gambar: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Diakses pada 2008-12-12. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt2202**: ⟪कामदेवः⟫ , abad ke-19 [Sumber gambar: Wikipedia, Domain Publik]
+
+**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव शक्तिः⟫ Kolkatta = কলকাতা [Sumber gambar: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Diakses pada 2008-12-12. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tidak ada karya turunan)]
+
+**lekt2201**: ⟪धेनवश्चरन्ति⟫ Goa = ⟪गोंय⟫ [Sumber gambar: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Diakses pada 2008-12-12. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
+
+**lekt2405**: ⟪अलंकारः⟫ [Sumber gambar: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Diakses pada 2008-12-14. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
+
+**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Sumber gambar: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Diakses pada 2008-12-14. -- Lisensi Creative Commons (Atribusi, non-komersial)]
+
+**lekt2407**: ⟪ऊहापोहः⟫ "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Wakil Redaktur Luar Negeri, Jaringan CNN-IBN 18, India, memoderasi diskusi panel pada KTT Ekonomi India Forum Ekonomi Dunia 2008 di New Delhi, 16-18 November 2008." [Sumber gambar: Forum Ekonomi Dunia / Foto oleh Dana Smillie. --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Diakses pada 2008-12-14. -- Lisensi Creative Commons (Atribusi, bagi sama)]
+
+**lekt2408**: ⟪आख्यानम्⟫ "Pencerita cerita San Francisco Jeff Byers berbagi cerita dengan penduduk Chenneri, sebuah desa Irula. Pencerita Jeeva Raghunath menerjemahkan ke bahasa Tamil untuk para penduduk desa. " [Sumber gambar: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Diakses pada 2008-12-14. -- Lisensi Creative Commons (Atribusi, non-komersial)]
+
+**lekt2411**: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫ Naskah dari ⟪गीतगोविन्द⟫, 1730 M. [Sumber gambar: Wikipedia, Domain publik]
+
+**lekt2501**: ⟪धान्यम्⟫ Khanna [Sumber gambar: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Diakses pada 2008-12-15. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt2502**: ⟪मूलानि⟫ Varanasi [Sumber gambar: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Diakses pada 2008-12-15. -- Lisensi Creative Commons (Atribusi, Non-komersial, Berbagi Serupa)]
+
+**lekt2503**: ⟪लिप्तिः⟫ Naskah Jaina [Sumber gambar: Wikipedia, Domain Publik]
+
+**lekt2504**: ⟪विवाहः मुंबई⟫ [Sumber gambar: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Diakses pada 2008-12-15. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tanpa Turunan)]
+
+**lekt2505**: ⟪विष्टिः⟫ [Sumber gambar: Ray Witlin / Bank Dunia. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Diakses pada 2008-12-15. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tanpa Turunan)]
+
+**lekt2506**: ⟪हिरण्यम्⟫ Chennai = சென்னை [Sumber gambar: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Diakses pada 2008-12-15. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt2706**: ⟪वस्त्राणि⟫ Majuli, Assam [Sumber gambar: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- Diakses pada 2008-12-18. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tanpa Turunan)]
+
+**lekt2707**: ⟪वसन्तः कुसुम्भ⟫ = Schleichera oleosa (Lour.) Oken, Khopoli = ⟪खोपोली⟫, Maharashtra = ⟪महाराष्ट्र⟫, 2007-04-07[Sumber gambar: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Diakses pada 2008-12-18. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tanpa Turunan)]
+
+**lekt2704**: ⟪हरिहरः⟫ (kiri: ⟪विष्णु⟫, kanan: ⟪शिव⟫) [Sumber gambar: Wikipedia. Domain publik]
+
+**lekt2705**: ⟪हरिहरः⟫ (kiri: ⟪विष्णु⟫, kanan: ⟪शिव⟫) Godrumdwip, Bengal Barat = পশ্চিমবঙ্গ [Sumber gambar: GourangaUK / Wikipedia. GNU FDLicense]
+
+**lekt2804**: ⟪कृष्णो राधां कामयति⟫ Lukisan oleh ⟪राजा रवि वर्मा⟫ (1848 - 1906) [Sumber gambar: Wikipedia. Domain publik]
+
+**lekt2803**: ⟪वीणां वादयति⟫ [Sumber gambar: Kelvin Kay / Wikipedia. GNU FDLicense]
+
+**lekt2805**: ⟪बाला भारं हरति⟫ Di dekat Ahmedabad [Sumber gambar: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- Diakses pada 2008-12-20. -- Lisensi Creative Commons (Atribusi, share alike)]
+
+**lekt2903**: ⟪परिव्राजकाः⟫ Pushkar = ⟪पुष्कर⟫ [Sumber gambar: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Diakses pada 2008-12-20. -- Lisensi Creative Commons (Atribusi, non-komersial, share alike)]
+
+**lekt2901**: ⟪मत्स्यः रोहू मछली⟫ = _Labeo rohita_ Hamilton [Sumber gambar: Khalid Mahmood / Wikipedia. GNU FDLicense]
+
+**lekt3001**: ⟪क्रीणन्ति विक्रीनते च⟫ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Sumber gambar: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, non-komersial, tidak ada karya turunan)]
+
+**lekt3002**: ⟪ज्ञातयः⟫ Darewadi, Distrik Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Sumber gambar: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, non-komersial, share alike)]
+
+**lekt3003**: ⟪श्रोत्राणि पुनाति⟫ [Sumber gambar: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, berbagi serupa)]
+
+**lekt3005**: ⟪अश्नीयात् थाली⟫, India Selatan [Sumber gambar: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, non-komersial, berbagi serupa)]
+
+**lekt3004**: ⟪प्रिया⟫ [Sumber gambar: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, berbagi serupa)]
+
+**lekt2904**: ⟪पुनर्भवः⟫ [Sumber gambar: Wikipedia / Hak Cipta milik Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
+
+**lekt3101**: ⟪योगः⟫ [Sumber gambar: http://www.flickr.com/photos/wricontest/294029791/. -- Diakses pada 2008-12-25. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt3102**: ⟪व्यञ्जनम्⟫ Persiapan untuk tari Kathakali = കഥകളി, Kochi = കൊച്ചി [Sumber gambar: winchrisabi. -- http://www.flickr.com/photos/winchrisabi/181399508/. -- Diakses pada 2008-12-25. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt3103**: Dari sebuah manuskrip ⟪प्रज्ञापारमिता⟫ [Sumber gambar: zeno.org. -- domain publik]
+
+**lekt3202**: ⟪चूतः कानपुर⟫, / کان پور [Sumber gambar: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Atribusi, berbagi serupa)]
+
+**lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [Sumber gambar: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Diakses pada 2008-12-25. -- Lisensi Creative Commons (Atribusi, non-komersial, berbagi serupa)]
+
+**lekt3204**: ⟪उपलाः⟫ "Batu-batu di sini cukup keras sehingga para pemulung yang telah mengambil alih tambang batu galian yang terbengkalai di sebelah selatan pusat kota lebih memilih untuk tidak memukulnya langsung dengan palu mereka. Mereka memanaskan batu terlebih dahulu — menggunakan ban yang terbakar, plastik bekas, bahkan sepatu bot karet tua — agar batuan tersebut lebih mudah pecah. Saat senja tiba, ketika tiga atau empat kobaran api menyemburkan awan hitam yang menyesakkan napas ke seluruh lubang tambang yang luas, pemandangan tambang itu terlihat seperti ukiran kayu dari karya Dante. Di mulut tambang batu ini di Pune, Maharashtra, para wanita bertubuh kecil yang mengenakan sari bekerja dalam shift 14 jam memecah batu-batu besar menjadi potongan-potongan seukuran bola kriket. Palu berat mengayun ke udara dengan suara batu yang retak. Tepat di belakang mereka, mesin-mesin besar bergemuruh mengunyah batu hanya untuk memuntahkan kerikil konstruksi. Hampir setiap wajah tertutup debu putih. Debu yang berat dan menyesakkan, melayang di udara seperti kabut yang menutupi segala sesuatu." [Sumber gambar: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Diakses pada 2008-12-25. -- Lisensi Creative Commons (Atribusi, Non-komersial, Berbagi Sama)]
+
+**lekt3205**: ⟪लक्ष्यम्⟩ Karnataka = ಕರ್ನಾಟಕ [Sumber gambar: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Diakses pada 2008-12-25. -- Lisensi Creative Commons (Atribusi, Tidak ada turunan)]
+
+**lekt3207**: ⟪चितं गोमयं दहति⟩ (⟪गोमय⟩ n.: kotoran sapi) Rajasthan [Sumber gambar: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Diakses pada 2008-12-25. -- Lisensi Creative Commons (Atribusi, Non-komersial, Berbagi Sama)]
+
+**lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Sumber gambar: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Diakses pada 2008-12-25. -- Lisensi Creative Commons (Atribusi, Non-komersial, Berbagi Serupa)]
+
+**lekt3306**: ⟪दानम्⟫ "Pada tanggal 20 Agustus 2005 di Chennai, India, calon mertua kami memberikan kepada kami sebuah pesta pertunangan India yang formal. Tampak seperti pernikahan, tetapi bukan; begitulah cara mereka melakukannya. Sangat meriah. Acara ini merupakan berkah besar bagi saya. Saya belum pernah merasa begitu dicintai oleh keluarga lain. Saya hanya berharap keluarga saya bisa hadir, tetapi setidaknya saya memiliki video dari seluruh acara untuk dibagikan. Calon mertua kami mengatur semuanya dalam waktu 3 hari. Semua hal, mulai dari undangan hingga fotografer yang disewa. Itu luar biasa, melampaui kata-kata untuk menjelaskan emosi yang mengalir." [Sumber gambar dan teks: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Diakses pada 2008-12-26. -- Lisensi Creative Commons (Atribusi, Berbagi Serupa)]
+
+**lekt3307**: ⟪सा पुत्रमादाय भारं बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Sumber gambar: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Diakses pada 2008-12-27. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada turunan)]
+
+**lekt3305**: ⟪समाधि योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, abad ke-10 M. [Sumber gambar: Quadell / Wikipedia. GNU FDLicense]
+
+**lekt3304**: ⟪भयम्⟫ Mumbai = ⟪मुंबई⟫, 2008 [Sumber gambar: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Diakses pada 2008-12-26. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt3303**: ⟪हीनयानमेव⟫ Thailand [Sumber gambar: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- Diakses pada 2008-12-26. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt3302**: ⟪घृतमग्नौ जुहोति यज्ञ⟫ di ashram Shiva, Kothavala, Ganeshpuri, 80 km dari Mumbai (⟪मुंबई⟫) [Sumber gambar: Dey. -- http://www.flickr.com/photos/dey/466758922/. -- Diakses pada 2008-12-26. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi sama)]
+
+**lekt3308**: ⟪घृतम्⟫ [Sumber gambar: Wikipedia. GNU FDLicense] "Ghee dibuat dengan merebut mentega asin dalam panci besar hingga semua air mendidih dan protein mengendap di dasar. Mentega yang dimasak dan dimurnikan kemudian dituang untuk menghindari mengganggu padatan susu di dasar panci. Berbeda dengan mentega, ghee dapat disimpan dalam periode yang lama tanpa pendinginan, asalkan disimpan dalam wadah kedap udara untuk mencegah oksidasi dan tetap bebas kelembaban. Tekstur, warna, atau rasa ghee tergantung pada sumber susu dari mana mentega dibuat. Di India, ghee biasanya dibuat dengan susu kerbau karena cenderung lebih putih daripada susu sapi." [Sumber: http://en.wikipedia.org/wiki/Ghee. -- Diakses pada 2008-12-26]
+
+**lekt3406**: ⟪सस्यम्⟫ [Sumber gambar: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183806492/. -- Diakses pada 2008-12-27. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tidak ada karya turunan)]
+
+**lekt3405**: ⟪लक्षद्वीपाः⟫ = ലക്ഷദ്വീപ് = 100.000 (⟪लक्ष⟫ m.n.) pulau-pulau (Wilayah Persatuan) [Sumber gambar: CIA. Domain publik]
+
+**lekt3403**: ⟪तिलाः⟫ [Sumber gambar: Wikipedia. Domain publik]
+
+**lekt3404**: ⟪तिलाः⟫ [Sumber gambar: Franz Xaver / Wikipedia. Lisensi GNU FD]
+
+**lekt3402**: ⟪स्वर्णम्⟫ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿਬ, Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Sumber gambar: Wikipedia. Lisensi GNU FD]
+
+**lekt3401**: ⟪ऋषभः⟫ Bukit Chamundi [Sumber gambar: Luna Park. -- http://www.flickr.com/photos/lunapark/2124083737/. -- Diakses pada 2008-12-27. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
+
+**lekt3502**: ⟪क्रामन्ति⟫ [Sumber gambar: Curt Carnemark / Bank Dunia. -- http://www.flickr.com/photos/worldbank/2182732473/. -- Diakses pada 2008-12-28. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
+
+**lekt3501**: ⟪जगुः⟫ Kuil Kaadu Malleswara, Bangalore = ಬೆಂಗಳೂರು [Sumber gambar: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- Diakses pada 2008-12-28. -- Lisensi Creative Commons (Atribusi, non-komersial)]
+
+**lekt3601**: ⟪गोमयं चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Sumber gambar: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Diakses pada 2008-12-28. -- Lisensi Creative Commons (Atribusi, non-komersial)]
+
+**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Sumber gambar: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Diakses pada 2008-12-28. -- Lisensi Creative Commons (Atribusi, berbagi serupa)]
+
+**lekt3603**: ⟪अनगार्यम्⟫ Thailand Timur Laut = อีสาน [Sumber gambar: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Diakses pada 2008-12-28. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
+
+**lekt3606**: ⟪सुगतो भूमीं पस्पर्श भूमीस्पर्शमुद्रा⟫ [Sumber gambar: Payer]
+
+**lekt3604**: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. rambut tubuh) [Sumber gambar: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Diakses pada 2008-12-29. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt3705**: ⟪शाक्यमुनिः⟫ Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [Sumber gambar: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tidak ada karya turunan)]
+
+**lekt3706**: ⟪वृक्षः जयपुर⟫ [Sumber gambar: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi sama)]
+
+**lekt3802**: ⟪सूर्यः सूर्य मंदिर⟫, Konark = ⟪कोनार्क⟫ [Sumber gambar: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt3805**: ⟪उदकम्⟫ desa Darewadi, Distrik Ahmed Nagar = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [Sumber gambar: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Diakses pada 2009-01-01. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi sama)]
+
+**lekt3804**: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫ Gandhara, abad ke-2/3 M. [Sumber gambar: Wikipedia. Domain publik]
+
+**lekt3809**: ⟪ब्रह्मा⟫ Halebidu = ಹಳೆಬೀಡು [Sumber gambar: Wikipedia. Lisensi GNU FDL]
+
+**lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Sumber gambar: J.M.Garg / Wikipedia. Lisensi GNU FD]
+
+**lekt3811**: ⟪अशोकः⟫ Ekspansi terbesar Kerajaan Aśoka serta lokasi penemuan edik batu dan tiangnya [Sumber gambar: Wikipedia. Lisensi GNU FD]
+
+**lekt3812**: ⟪विनोदः⟫ Permainan Carrom [Sumber gambar: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Diakses pada 2009-01-01. -- Lisensi Creative Commons (Atribusi, non-komersial, berbagi serupa)]
+
+**lekt3813**: ⟪वाराणस्यां गङ्गातीरे⟫ [Sumber gambar: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Diakses pada 2009-01-01. -- Lisensi Creative Commons (Atribusi, non-komersial)]
+
+**lekt3814**: ⟪गणयां चक्रुः करणी माता मंदिर⟫, ⟪देशनोके⟫ [Sumber gambar: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Diakses pada 2009-01-01. -- Lisensi Creative Commons (Atribusi, non-komersial, tidak ada karya turunan)]
+
+**lekt4003**: ⟪हरिद्वारे तीर्थम्⟫ [Sumber gambar: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Diakses pada 2009-01-02. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt4002**: ⟪तीर्थङ्करः⟫ [Sumber gambar: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Diakses pada 2009-01-02. -- Lisensi Creative Commons (Atribusi, non-komersial, tidak ada karya turunan)]
+
+**lekt4001**: ⟪विष्णोर्दशावताराः⟫ Searah jarum jam: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪प्रशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, di tengah: ⟪कृष्ण⟫ [Sumber gambar: Wikipedia. Domain publik]
+
+**lekt4004**: ⟪स्वपन्ति⟫ Kelelawar buah India (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Sumber gambar: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Diakses pada 2009-01-02. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
+
+**lekt4105**: ⟪भुजङ्गः⟫ Krait berbanded (_Bungarus fasciatus_) [Sumber gambar: J. Ewart. The poisonous snakes of India, 1878. Domain publik]
+
+**lekt4104**: ⟪भुजङ्गस्य विषम्⟫ Memerah racun ular (Krait), Thailand [Sumber gambar: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Diakses pada 2009-01-03. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt4109**: ⟪शासना⟫ Prasasti Ashoka, Dhauli, Orissa [Sumber gambar: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Diakses pada 2009-01-03. -- Lisensi Creative Commons (Atribusi, Non-komersial)]
+
+**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), sekitar tahun 1898 [Sumber gambar: Wikipedia. Domain publik]
+
+**lekt4202**: ⟪माता पिता पुत्रकश्च⟫ The Diwan I Khas, atau Aula Audiensi Pribadi di Lal Qila (Benteng Merah) di Delhi. [Sumber gambar: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Diakses pada 2009-01-04. -- Lisensi Creative Commons (Atribusi, Non-komersial, Berbagi sama)]
+
+**lekt4302**: ⟪आपणः⟫ Orissa = ଓଡ଼ିଶା [Sumber gambar: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Diakses pada 2009-01-06. -- Lisensi Creative Commons (Atribusi, Non-komersial)]
+
+**lekt4303**: ⟪पण्यानि⟫ Jamshedpur = ⟪जमशेदपुर⟫ [Sumber gambar: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Diakses pada 2009-01-06. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt4304**: ⟪विपणिः⟫ Haridwar = ⟪हरिद्वार⟫ [Sumber gambar: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Diakses pada 2009-01-06. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt4305**: ⟪वणिक्⟫ Kanchipuram = காஞ்சிபுரம [Sumber gambar: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Diakses pada 2009-01-06. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi serupa)]
+
+**lekt4306**: ⟪वत्सः⟫ Kerbau air (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Sumber gambar: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Diakses pada 2009-001-06. -- Lisensi Creative Commons (Atribusi, berbagi serupa)]
+
+**lekt4307**: ⟪तोलन्ति⟫ [Sumber gambar: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Diakses pada 2009-01-06. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tanpa karya turunan)]
+
+**lekt4403**: ⟪रेल्यानम् वाराणआस्याम्⟫, ⟪१९७४⟫ [Sumber gambar: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Diakses pada 2009-01-08. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tanpa karya turunan)]
+
+**lekt4404**: ⟪योगी शयने शेते⟫ [Sumber gambar: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Diakses pada 2009-01-08. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi serupa)]
+
+**lekt4405**: ⟪नन्दी⟫ Kodagu = ಕೊಡಗು [Sumber gambar: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Diakses pada 2009-01-08. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt4406**: ⟪आयतो मरुः थार मरुस्थल⟫ [Sumber gambar: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Diakses pada 2009-01-08. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt4407**: ⟪यत्नेन⟫ Kollam = കൊല്ലം [Sumber gambar: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Diakses pada 2009-01-08. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi serupa)]
+
+**lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [Sumber gambar: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Diakses pada 2009-01-08. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tanpa karya turunan)]
+
+**lekt4602**: ⟪नवग्रहाः⟫ [Sumber gambar dari ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+
+**lekt4603**: ⟪नवग्रहाः⟫ [Sumber gambar dari ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+
+**lekt4604**: ⟪नवग्रहाः⟫ [Sumber gambar dari ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+
+**lekt4605**: ⟪नवग्रहाः⟫ [Sumber gambar dari ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
+
+**lekt4607**: ⟪नारायणः नारायनो ऽनन्तशयी⟫, kira-kira 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = raja ular tertinggi) [Sumber gambar: Wikipedia. Domain publik]
+
+**lekt4606**: ⟪अश्वरोहकः⟫ Pune = ⟪पुणे⟫ [Sumber gambar: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- Diakses pada 2009-01-08. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt4608**: ⟪महामात्रः उदयपुर⟫ [Sumber gambar: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- Diakses pada 2009-01-08. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt4609**: ⟪श्रान्तः⟫ Karnataka = ಕರ್ನಾಟಕ [Sumber gambar: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Diakses pada 2009-01-09. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [Sumber gambar: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Diakses pada 2009-01-09. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt4601**: ⟪लम्बोदरः गणेशचतुर्थी⟫, Bangalore = ಬೆಂಗಳೂರು [Sumber gambar: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Diakses pada 2009-01-08. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt4611**: ⟪भोः⟫ Kutch = ⟪कच्छ⟫ [Sumber gambar: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- Diakses pada 2009-01-09. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+
+**lekt4802**: ⟪तन्त्रम्⟫ Sualkuchi = সুৱালকুচি, Assam = অসম [Sumber gambar: Ken McChesney. -- http://www.flickr.com/photos/kenmak/2083565996/. -- Diakses pada 2009-01-10. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi serupa)]
+
+**lekt4803**: ⟪तन्त्री⟫ Pemain sitar = ⟪सितारवादकः⟫ [Sumber gambar: Wikipedia. Domain publik]
+
+**lekt4804**: ⟪स्वतन्त्राः स्त्रियः⟫ [Kelompok swadaya (SHG), Tamil Nadu = தமிழ்நாடு [Sumber gambar: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- Diakses pada 2009-01-10. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]]
+
+**lekt4805**: ⟪कुमारः⟫ Festival Thaipusam = தைப்பூசம், Batu Caves, Malaysia [Sumber gambar: tajai. -- http://www.flickr.com/photos/cayce/108707865/. -- Diakses pada 2009-01-10. -- Lisensi Creative Commons (Atribusi)]]
+
+**lekt4806**: ⟪कुमारी नेपाल⟫ [Sumber gambar: changhg. -- http://www.flickr.com/photos/changhg/100412648/. -- Diakses pada 2009-01-10. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tanpa karya turunan)]]
+
+**lekt4807**: ⟪स्थविराः जोधपुर⟫ [Sumber gambar: zz77. -- http://www.flickr.com/photos/zz77/2256414024/. -- Diakses pada 2009-01-10. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tanpa karya turunan)]]
+
+**lekt4808**: ⟪सूक्ष्मम्⟫ Danau Karanji = ಕಾರಂಜಿ ಕೆರೆ [Sumber gambar: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791751571/. -- Diakses pada 2009-01-10. -- Lisensi Creative Commons (Atribusi, berbagi serupa)]]
+
+**lekt4809**: ⟪जाया⟫ [Gambar: Payer]
+
+**lekt4901**: ⟪कुलूहलम्⟫ [Sumber gambar: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- Diakses pada 2009-01-11. -- Lisensi Creative Commons (Atribusi, tanpa karya turunan)]]
+
+**lekt4902**: ⟪कला शिवो नटराजा⟫, Abad ke-11 [Sumber gambar: Vassil / Wikipedia. Domain publik]
+
+**lekt4903**: ⟪विहंगः⟫ [Sumber gambar: Toji Leon. -- http://www.flickr.com/photos/tojileon/295384395/. -- Diakses pada 2009-01-11. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tanpa karya turunan)]]
+
+**lekt4904**: ⟪वेषः वाराणस्याम्⟫ [Sumber gambar: pyjama. -- http://www.flickr.com/photos/rpt/319410503/. -- Diakses pada 2009-01-11. -- Lisensi Creative Commons (Atribusi, Non-komersial, Berbagi Serupa)]
+
+**lekt4909**: ⟪पञ्जरम्⟫ Peramal dengan burung beo dalam sangkar: burung beo menarik potongan kertas yang berisi nasib. Mysore. [Sumber gambar: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- Diakses pada 2009-01-12. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt4905**: ⟪सादरः⟫ Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Sumber gambar: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Diakses pada 2009-01-11. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt4906**: ⟪गजशिशुः⟫ Sri Lanka [Sumber gambar: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- Diakses pada 2009-01-11. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tanpa Turunan)]
+
+**lekt5001**: ⟪मन्त्री⟫ Kapil Sibal (1948 -), Menteri Uni di Kementerian Ilmu Pengetahuan dan Teknologi serta Kementerian Sains Bumi (sejak 2006) [Sumber gambar: World Economic Forum. -- http://www.flickr.com/photos/worldeconomicforum/3038328904/. -- Diakses pada 2009-01-12. -- Lisensi Creative Commons (Atribusi, Berbagi Serupa)]
+
+**lekt5002**: ⟪महामेघो वर्षिष्यति⟫ Kedatangan Monsun, Bangalore  ಬೆಂಗಳೂರು [Sumber gambar: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- Diakses pada 2009-01-12. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tanpa Turunan)]
+
+**lekt5005**: ⟪आदित्यः⟫ [Sumber gambar: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- Diakses pada 2009-01-12. -- Lisensi Creative Commons (Atribusi, berbagi serupa)]
+
+**lekt5003**: ⟪कल्याणी⟫ [Sumber gambar: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- Diakses pada 2009-01-12. -- Lisensi Creative Commons (Atribusi, non-komersial, tidak ada karya turunan)]
+
+**lekt5004**: ⟪कुनगरम् धारावी⟫, ⟪मुंबई⟫ [Sumber gambar: Kounosu / Wikipedia. GNU FDL]
+
+**lekt5105**: ⟪कृष्णमृगः⟫ Antelop rusa -- _Antilope cervicapra_ L., jantan [Sumber gambar: Wikipedia, domain publik]
+
+**lekt5106**: ⟪ऋतुः⟫ "Gambar grafis untuk perhitungan hari subur menurut OGINO pada interval siklus 26 hingga 30 hari... [Sumber teks dan gambar: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Diakses pada 2003-12-16]
+
+**lekt5107**: ⟪जटा ऋषिकेश⟫ [Sumber gambar: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Diakses pada 2009-01-13. -- Lisensi Creative Commons (Atribusi, non-komersial, berbagi serupa)]
+
+**lekt5108**: ⟪पिशितम्⟫ Kolkata = কলকাতা [Sumber gambar: nicolas - نِيقُولاَوُسَ. -- http://www.flickr.com/photos/keep-on-moving/2994878670/. -- Diakses pada 2009-01-13. -- Lisensi Creative Commons (Atribusi, non-komersial, berbagi serupa)]
+
+**lekt5109**: ⟪मधु⟫ City Palace, ⟪उदयपुर⟫ [Sumber gambar: abrinsky. -- http://www.flickr.com/photos/abrinsky/457940260/. -- Diakses pada 2009-01-13. -- Lisensi Creative Commons (Atribusi, non-komersial, berbagi serupa)]
+
+**lekt5110**: ⟪मृगया⟫ Perburuan dengan ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Sumber gambar: Wikipedia. Domain publik]
+
+**lekt5111**: ⟪शिवा⟫ _Canis aureus_, Kalatop Khajjiar Sanctuary [Sumber gambar: gautamnguitar. -- http://www.flickr.com/photos/gautamnguitar/2181211040/. -- Diakses pada 2009-01-13. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
+
+**lekt5112**: ⟪कौशिकः⟫ Burung hantu Brahma (_Athene brama_), Mahesana = મહેસાણા [Sumber gambar: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Diakses pada 2009-01-13. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
+
+**lekt5113**: ⟪श्वा लिङ्गश्च⟫ Karnataka = ಕರ್ನಾಟಕ [Sumber gambar: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Diakses pada 2009-01-13. -- Lisensi Creative Commons (Atribusi, non-komersial)]
+
+**lekt5114**: ⟪आपानकम् जोधपुर⟫. "Para pria ini sedang duduk dan minum di depan kuil dewa Hindu tertentu (saya lupa namanya). Saat mereka memberi tahu saya bahwa mereka adalah pemotong hewan dan itu adalah dewa profesi mereka yang hanya menerima persembahan alkohol." [Sumber gambar dan teks: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Diakses pada 2009-01-13. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
+
+**lekt5115**: ⟪मूषिकाविषाणि⟫ Bangalore = ಬೆಂಗಳೂರು [Sumber gambar: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Diakses pada 2009-01-13. -- Lisensi Creative Commons (Atribusi, non-komersial)]
+
+**lekt5116**: ⟪भुजङ्गः⟫ Ular rantai (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Sumber gambar: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- Diakses pada 2009-01-13. -- Lisensi Creative Commons (Atribusi, non-komersial, berbagi serupa)]
+
+**lekt5118**: ⟪मणिः⟫ Berlian Hope dari Guntur = గుంటూరు, saat ini Museum Sejarah Alam Smithsonian, Washington DC [Sumber gambar: David Bjorgen / Wikipedia. Lisensi GNU FDL]
+
+**lekt5117**: ⟪मदः⟫ [Sumber gambar: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Diakses pada 2009-01-13. -- Lisensi Creative Commons (Atribusi, non-komersial, berbagi serupa)]
+
+**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Sumber gambar: Dan Tunstall / Staf Institut Sumber Daya Dunia. -- http://www.flickr.com/photos/wricontest/291696431/. -- Diakses pada 2009-01-16. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt5212**: ⟪पीडिताः⟫ Hyderabad = హైదరాబాద్ [Sumber gambar: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- Diakses pada 2009-01-16. -- Lisensi Creative Commons (Atribusi, non-komersial, tidak ada karya turunan)]
+
+**lekt5213**: ⟪प्रधानः मुंबई⟫ [Sumber gambar: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- Diakses pada 2009-01-16. -- Lisensi Creative Commons (Atribusi, tidak ada karya turunan)]
+
+**lekt5214**: ⟪चक्रम्⟫ Konark = ⟪कोनार्क⟫ [Sumber gambar: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- Diakses pada 2009-01-16. -- Lisensi Creative Commons (Atribusi, non-komersial, tidak ada karya turunan)]
+
+**lekt5208**: ⟪कदली⟫ Hampi = ಹಂಪೆ [Sumber gambar: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Diakses pada 2009-01-15. -- Lisensi Creative Commons (Atribusi, Non-komersial, Berbagi Sama)]
+
+**lekt5215**: ⟪मलम् मुंबई⟫ [Sumber gambar: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Diakses pada 2009-01-16. -- Lisensi Creative Commons (Atribusi)]
+
+**lekt5217**: ⟪⟨DEVA_2⟩⟫ Serangan Māra terhadap Buddha Amaravati = అమరావతి, abad ke-2 M. [Sumber gambar: Wikipedia. Lisensi GNU FDL]
 

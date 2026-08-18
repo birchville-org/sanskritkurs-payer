@@ -214,15 +214,3 @@ B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und P
 
 ⟪५⟫. ⟪भञ्ज्⟫ (nur P)
 
-::: deleteme-box
-
-**lekt3101:** Yoga-Darstellung. [Bildquelle: Flickr, 2008-12-25. CC BY]
-
-**lekt3102:** Vorbereitung zum Kathakali-Tanz, Kochi. [Bildquelle: winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**lekt3103:** Aus einem Prajñāpāramitā-Manuskript. [Bildquelle: zeno.org. Gemeinfrei]
-
-**lekt3105:** Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War. [Bildquelle: Hari Singh Deora / Wikipedia. Public domain]
-
-**lekt3104:** Rāhula, der Sohn Buddhas, Laos. [Bildquelle: Sacca / Wikipedia. GNU FDL]
-:::

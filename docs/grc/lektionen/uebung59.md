@@ -1,8 +1,9 @@
 ---
-title: "[ L0 ] Ἀσκησις 59"
+title: "Άσκηση 59"
 uebung_id: 59
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

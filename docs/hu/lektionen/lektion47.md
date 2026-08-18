@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 47. lecke <!-- TODO: Fallback translation -->
+# 47. lecke
 
 ## 47.1. Az imperativus (⟪लोट्⟫)
 
@@ -23,7 +23,7 @@ Az imperativus (⟪लोट्⟫) jelenti
 *   **Elgondolás**
 *   **Kérdés**
 
-A fenti jelentések mindegyike közös a képzett igemóddal (⟪विधिलिङ्⟫). <!-- TODO: Fallback translation -->
+A fenti jelentések mindegyike közös a képzett igemóddal (⟪विधिलिङ्⟫).
 
 Az imperatívussal kifejezhető még:
 
@@ -58,14 +58,14 @@ Példák:
 
 ⟪निषद्यताम्⟫ ⟪।⟫ „Kérem, foglaljanak helyet!”
 :::
-Az klasszikus szanszkit imperatívusában az első személyű alakok régi konjunktív formák. A védikus konjunktív főleg az a módus, amely kívánságot fejez ki: „Menjünk!” „Hagyjuk, hogy menjünk!” <!-- TODO: Fallback translation -->
+Az klasszikus szanszkit imperatívusában az első személyű alakok régi konjunktív formák. A védikus konjunktív főleg az a módus, amely kívánságot fejez ki: „Menjünk!” „Hagyjuk, hogy menjünk!”
 
 ::: grammar-box
 Az imperatívust a jelen idő töve képezi.
 :::
-## 47.2. Az imperatívus képzése (⟪लोट्⟫) tematikus jelen idő tövekből <!-- TODO: Fallback translation -->
+## 47.2. Az imperatívus képzése (⟪लोट्⟫) tematikus jelen idő tövekből
 
-### 47.2.1. Az imperatívus végződéseit tematikus jelen idő töveknél <!-- TODO: Fallback translation -->
+### 47.2.1. Az imperatívus végződéseit tematikus jelen idő töveknél
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -75,14 +75,14 @@ Az imperatívust a jelen idő töve képezi.
 | **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
 | **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
-Megjegyzés: ¹ A második és harmadik személy egyes számának végződéseit -tát helyettesítheti, ha áldást kívánunk kifejezni: <!-- TODO: Fallback translation -->
+Megjegyzés: ¹ A második és harmadik személy egyes számának végződéseit -tát helyettesítheti, ha áldást kívánunk kifejezni:
 
 ::: indent
 ⟪भद्रो⟫ ⟪भवतात्⟫ "Legyél boldog!" "Ő legyen boldog!"
 
 ⟪शुभं⟫ ⟪भवतु⟫ vagy ⟪शुभं⟫ ⟪भवतात्⟫ "Legyen jól!" "Minden jó!"
 :::
-### 47.2.2. Első jelen idő osztály (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+### 47.2.2. Első jelen idő osztály (⟪भ्वादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -193,7 +193,7 @@ Kiáltani fogunk.
 
 Meghajolni akarok előtted (⟪चतुर्थ्या⟫).
 
-Ezt a cselekedetet el kell végezni. <!-- TODO: Fallback translation -->
+Ezt a cselekedetet el kell végezni.
 
 Aludjanak (passzív szerkezet).
 
@@ -215,7 +215,7 @@ Elindulunk Benaresba (⟪पद्⟫).
 
 [L1] 15. Szüljetek nekem fiakat!
 
-[L3] 16. Megmutatom neked a házamat. <!-- TODO: Fallback translation -->
+[L3] 16. Megmutatom neked a házamat.
 
 [L5] 17. Távolodj el tőlem!
 
@@ -247,20 +247,9 @@ Iddad az italt!
 
 Gondolj!
 
-Őket (többes szám) legyőzendők! <!-- TODO: Fallback translation -->
+Őket (többes szám) legyőzendők!
 
 Minket vezessenél te.
 
 Legyen áldásos! (Áldáskívánat)
 
-::: deleteme-box
-
-**lekt4702:** Hanuman-templom, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Képmegjelölés: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Hozzáférés: 2009-01-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Nevegyen, nincs módosítás)]
-
-**lekt4701:** [Képmegjelölés: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Hozzáférés: 2009-01-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevegyen, nem kereskedelmi célú felhasználás, share alike)]
-
-**lekt4703:** [Képmegjelölés: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevegyen)]
-
-**lekt4704:** [Képmegjelölés: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevegyen, nem kereskedelmi célú felhasználás, nincs módosítás)]
-
-:::

@@ -5,19 +5,10 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Oppitunti 6 <!-- TODO: Fallback translation -->
+# Oppitunti 6
 
-::: deleteme-box
-**Tässä lektiossa opit:**
-- Verbala lauseen rakenne (subjekti ja verbimuoto)
-- Verbamuotojen muodostus (Parasmaipada, Ātmanepada, passiivi)
-- Verbien moodit ja ajat
-- Indikatiivin preesens (laṭ) ja 3. persoonan primääripäätteet
-- Preesensvariaalin muodostus (luokat 1, 4 ja 6)
-- Äännevaihtelu (ablaut: Guṇa ja Vṛddhi)
-:::
 ## 6.1. Verbala lause
 
 ::: grammar-box
@@ -31,20 +22,20 @@ Jos subjektia (**kartṛ** m. = ⟪कर्तृ⟫) mainitaan lauseessa, joka
 
 ## 6.2. Verbien muodostamisesta
 
-Äännöllinen verbimuoto, eli persoonapääte, ilmaisee sanskritissa seuraavaa: <!-- TODO: Fallback translation -->
+Äännöllinen verbimuoto, eli persoonapääte, ilmaisee sanskritissa seuraavaa:
 
 1. **Merkitys** (**artha** m. ⟪अर्थ⟫)
 2. **Persoona** ja **Numerus** (luku, **vacana** n. = ⟪वचन⟫) (minä, sinä, hän &lt;hän, se&gt;, me kaksi, te kaksi, he kaksi, me, te, he)
 3. Käyttäytyminen (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("sanaan viittaava toiseen"): Aktiivi. Esim. **yajati** = ⟪यजति⟫ = "Hän kunnioittaa uhraamalla" (nimittäin pappi, joka suorittaa uhrin jonkun muun puolesta)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("sanaan viittaava itseensä"): Mediaani. Esim. **yajate** = ⟪यजते⟫ = "Hän kunnioittaa uhraamalla omaksi hyödykseen" (nimittäin uhrinantaja, joka uhraa itselleen ja perheelleen)
-   3. **Passiivi** (**karman** n. = ⟪कर्मन्⟫). Esim. **ijyate** = ⟪इज्यते⟫ = "Sitä kunnioitetaan uhraamalla" <!-- TODO: Fallback translation -->
+   3. **Passiivi** (**karman** n. = ⟪कर्मन्⟫). Esim. **ijyate** = ⟪इज्यते⟫ = "Sitä kunnioitetaan uhraamalla"
 
-Monissa tapauksissa sanan Ātmanepada merkityksen vivahteita ei enää erota; myös taiteelliset runoilijat käyttävät usein Ātmanepadaa ilman merkityseroa Parasmaipadaan nähden. Käännöksen yhteydessä on kuitenkin aina tarkistettava huolellisesti, ettei tällaista merkitysvivahtea ole. <!-- TODO: Fallback translation -->
+Monissa tapauksissa sanan Ātmanepada merkityksen vivahteita ei enää erota; myös taiteelliset runoilijat käyttävät usein Ātmanepadaa ilman merkityseroa Parasmaipadaan nähden. Käännöksen yhteydessä on kuitenkin aina tarkistettava huolellisesti, ettei tällaista merkitysvivahtea ole.
 
-Verbit, joita käytetään sekä Parasmaipadassa että Ātmanepadassa (nimenomaisessa Ātmanepada-merkityksessä), ovat **Ubhayapada**-verbejä (**ubhayapada** n. = ⟪उभयपद⟫ = "molemmat sanamuodot"). <!-- TODO: Fallback translation -->
+Verbit, joita käytetään sekä Parasmaipadassa että Ātmanepadassa (nimenomaisessa Ātmanepada-merkityksessä), ovat **Ubhayapada**-verbejä (**ubhayapada** n. = ⟪उभयपद⟫ = "molemmat sanamuodot").
 
-Jotkut verbit käytetään joko vain Parasmaipadassa tai vain Ātmanepadassa. Näiden verbien kohdalla Ātmanepada tai Parasmaipada ei ole merkitykseltään erityinen. Esim. **manyate** = ⟪मन्यते⟫ = "hän (se, se) ajattelee" (ilman erityistä Ātmanepada-merkitystä). <!-- TODO: Fallback translation -->
+Jotkut verbit käytetään joko vain Parasmaipadassa tai vain Ātmanepadassa. Näiden verbien kohdalla Ātmanepada tai Parasmaipada ei ole merkitykseltään erityinen. Esim. **manyate** = ⟪मन्यते⟫ = "hän (se, se) ajattelee" (ilman erityistä Ātmanepada-merkitystä).
 
 4. **Lauseenväylä** (Modus):
    1. **Indikatiivi**: Vakuuttava muoto
@@ -58,16 +49,16 @@ Jotkut verbit käytetään joko vain Parasmaipadassa tai vain Ātmanepadassa. N�
    5. **Futuuri**: Tulevaisuus
    6. **Konditionaali**
 
-Ajat ovat aikakausien muodostamia: preesensvartalo, aoristivartalo, perfekti vartalo, futuurin vartalo. <!-- TODO: Fallback translation -->
+Ajat ovat aikakausien muodostamia: preesensvartalo, aoristivartalo, perfekti vartalo, futuurin vartalo.
 
-## 6.3. Indikatiivi preesens (laṭ = ⟪लट्⟫) <!-- TODO: Fallback translation -->
+## 6.3. Indikatiivi preesens (laṭ = ⟪लट्⟫)
 
-Preesens on nykyajan aikakausi, erityisesti myös keston ilmaisu. <!-- TODO: Fallback translation -->
+Preesens on nykyajan aikakausi, erityisesti myös keston ilmaisu.
 
 ::: grammar-box
 **Indikatiivi (vakuutusmuoto) preesens muodostetaan liittämällä preesensvartalon perään ns. primaaripäätteet.**
 :::
-Esimerkkejä: <!-- TODO: Fallback translation -->
+Esimerkkejä:
 
 | Juuri (dhātu) | Preesensvartalo | 3. Person yksikkö Indikativ Preesens Parasmaipada |
 | :--- | :--- | :--- |
@@ -116,9 +107,9 @@ Esimerkki **yaj** = ⟪यज्⟫ = "palvota uhraamalla", "uhrata":
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Sana-sandhi e:stä ja o:sta
-Vokaalien edessä sanan sisällä **e** korvataan muodolla **ay**, ja **o** muodolla **av**. <!-- TODO: Fallback translation -->
+Vokaalien edessä sanan sisällä **e** korvataan muodolla **ay**, ja **o** muodolla **av**.
 
-#### 6.5.2.2. Äännevaihtelu (ablaut) <!-- TODO: Fallback translation -->
+#### 6.5.2.2. Äännevaihtelu (ablaut)
 
 ::: grammar-box
 | Matala aste:brVähentynyt aste | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
@@ -129,7 +120,7 @@ Vokaalien edessä sanan sisällä **e** korvataan muodolla **ay**, ja **o** muod
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Neljännen preesensluokan verbit (divādi = ⟪दिवादि⟫ = "div jne.") <!-- TODO: Fallback translation -->
+### 6.5.3. Neljännen preesensluokan verbit (divādi = ⟪दिवादि⟫ = "div jne.")
 
 ::: grammar-box
 **Preesensvartalo = juuri matalassa asteessa (jossa se esiintyy) + ya-**
@@ -145,10 +136,10 @@ Vokaalien edessä sanan sisällä **e** korvataan muodolla **ay**, ja **o** muod
 
 ::: grammar-box
 Vokaalia **a**, joka esiintyy preesensluokkien taivutusliitteissä, kutsutaan **temaattiseksi vokaaliksi**. Siksi preesensluokat, joissa on **a** taivutusliitteessä, ovat "temattisia preesensluokkia".
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
-## 6.6. Keskusteluaanskrit: Lisäkysymyksiä (praśna m. = ⟪प्रश्न⟫) <!-- TODO: Fallback translation -->
+## 6.6. Keskusteluaanskrit: Lisäkysymyksiä (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
 - **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Mitä N. N. tekee?"
@@ -156,7 +147,7 @@ Vokaalia **a**, joka esiintyy preesensluokkien taivutusliitteissä, kutsutaan **
 - (karoti, kurvanti verbistä **kṛ** = ⟪कृ⟫ 8 U: "tehdä, tehdä")
 - **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Voitako hyvin?, Miten voit?"
 - Vastaus: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Minulla) menee hyvin joka suhteessa."
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ## 6.7. Sanalista
@@ -290,7 +281,7 @@ Sanskritissa verbit esitetään **juurimuodossa**. Juuren jälkeen oleva numero 
 **F) Käännä sanskritiksi:**
 1. Rāma uhraa (uhripäällikkönä).
 2. Durgā on jumalatar.
-3. Mīnākṣī on jumalatar. <!-- TODO: Fallback translation -->
+3. Mīnākṣī on jumalatar.
 
 ::: media
 ![](/images/lekt0602.webp)
@@ -313,4 +304,3 @@ Sanskritissa verbit esitetään **juurimuodossa**. Juuren jälkeen oleva numero 
 17. Tieteet (hallitsijalle) ovat: filosofia, kolminkertainen (vedatieto), talous ja politiikka. (2 vaihtoehtoa)
 18. Voinko auttaa?
 19. (Es geht mir) in jeder Hinsicht gut.
- <!-- TODO: Fallback translation -->

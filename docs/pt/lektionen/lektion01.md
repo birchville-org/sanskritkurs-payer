@@ -19,7 +19,7 @@ Veneração a Gaṇeśa
 ![](/images/lekt0102.webp)
 Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Fonte da imagem: [Detalhes](/licenses#lekt0102))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: center
@@ -91,7 +91,7 @@ Fig.: Título da capa de uma edição de bolso
 ![](/images/lekt0104.webp)
 Fig.: Página de rosto
 (Fonte da imagem: [Detalhes](/licenses#lekt0104))
-::: <!-- TODO: Fallback translation -->
+:::
 
 A melhor gramática sistemática:
 
@@ -106,7 +106,7 @@ Fig.: Título da capa
 
 Boa gramática sistemática com base nos gramáticos nativos e, ao mesmo tempo, uma introdução a Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Edição do autor, 1983. -- 818 p. ; 23 cm. <!-- TODO: Fallback translation -->
+> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Edição do autor, 1983. -- 818 p. ; 23 cm.
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -126,7 +126,7 @@ Fig.: Título da sobrecapa
 
 Para os curiosos, para consulta:
 
-> **Lexikon der Sprachwissenschaft** / ed. por Hadumod Bussmann. -- 4ª ed., rev. e bibliogr. ampl. / com a colab. de Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7 <!-- TODO: Fallback translation -->
+> **Lexikon der Sprachwissenschaft** / ed. por Hadumod Bussmann. -- 4ª ed., rev. e bibliogr. ampl. / com a colab. de Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 ## 1.2. Os sons do Sânscrito
 

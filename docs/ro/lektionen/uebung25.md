@@ -8,9 +8,9 @@ last_reconstructed: 2026-05-15
 
 # Exercițiul 25
 
-A) Completați exemplele de declinare din Lecția 16, adăugând 4. Dativ (⟪चतुर्थी⟫) și 5. Ablativ (⟪पञ्चमी⟫). <!-- TODO: Fallback translation -->
+A) Completați exemplele de declinare din Lecția 16, adăugând 4. Dativ (⟪चतुर्थी⟫) și 5. Ablativ (⟪पञ्चमी⟫).
 
-### ⟪१⟫. **⟪सन्त्⟫** (fiind, bun) <!-- TODO: Fallback translation -->
+### ⟪१⟫. **⟪सन्त्⟫** (fiind, bun)
 
 | Caz | m. Singular | m. Plural | n. Singular | n. Plural |
 | :--- | :--- | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ A) Completați exemplele de declinare din Lecția 16, adăugând 4. Dativ (⟪�
 | 4. Dat. | ⟪महते⟫ | ⟪महद्भ्यः⟫ | ⟪महते⟫ | ⟪महद्भ्यः⟫ |
 | 5. Abl. | ⟪महतः⟫ | ⟪महद्भ्यः⟫ | ⟪महतः⟫ | ⟪महद्भ्यः⟫ |
 
-### ⟪३⟫. **⟪यद्⟫** (welcher, wer) <!-- TODO: Fallback translation -->
+### ⟪३⟫. **⟪यद्⟫** (welcher, wer)
 
 | Kasus | m. Sg. | m. Pl. | n. Sg. | n. Pl. | f. Sg. | f. Pl. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -125,7 +125,7 @@ Un hoit este eliberat de vinovăția furtului prin pedeapsă sau prin eliberare.
 
 ---
 
-## Fragmente de știința statului (Arthaśāstra) <!-- TODO: Fallback translation -->
+## Fragmente de știința statului (Arthaśāstra)
 
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 Economia este utilă, deoarece produce cereale, animale, aur, metale și muncă.

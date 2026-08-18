@@ -34,7 +34,7 @@ Kuva: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 :::
 ## 40.2. Ensimmäisen persoonan imperfektin verbimuotojen muodostus (⟪लिट्⟫)
 
-Ensimmäisen persoonan pääte (⟪तृतीयः⟫) imperfektissä (⟪लिट्⟫) <!-- TODO: Fallback translation -->
+Ensimmäisen persoonan pääte (⟪तृतीयः⟫) imperfektissä (⟪लिट्⟫)
 
 ::: grammar-box
 
@@ -45,16 +45,16 @@ Ensimmäisen persoonan pääte (⟪तृतीयः⟫) imperfektissä (⟪ल
 
 :::
 ::: grammar-box
-Huomaa, että ensimmäisen persoonan yksikön päätteet P ja Ă ovat samat kuin kolmannen persoonan yksikössä. Siksi kaikissa perfektiluokissa paitsi luokassa III(a,b) ja V(a,b,c) ensimmäisen persoonan yksikön P:n tai Ă:n muodot ovat aina samat kuin kolmannen persoonan yksikön P:n tai Ă:n muodot. <!-- TODO: Fallback translation -->
+Huomaa, että ensimmäisen persoonan yksikön päätteet P ja Ă ovat samat kuin kolmannen persoonan yksikössä. Siksi kaikissa perfektiluokissa paitsi luokassa III(a,b) ja V(a,b,c) ensimmäisen persoonan yksikön P:n tai Ă:n muodot ovat aina samat kuin kolmannen persoonan yksikön P:n tai Ă:n muodot.
 
-Luokassa IV ensimmäisen persoonan yksikön P päättyy samalla tavalla kuin kolmannen persoonan yksikön P: -au. <!-- TODO: Fallback translation -->
+Luokassa IV ensimmäisen persoonan yksikön P päättyy samalla tavalla kuin kolmannen persoonan yksikön P: -au.
 
-Perfektiluokissa III ja V ensimmäisen persoonan yksikön Ă on aina sama kuin kolmannen persoonan yksikön Ă. <!-- TODO: Fallback translation -->
+Perfektiluokissa III ja V ensimmäisen persoonan yksikön Ă on aina sama kuin kolmannen persoonan yksikön Ă.
 
 Perfekttyyppien III ja V tapauksessa 1. persoonan yksikön preesens on valinnaisesti sama kuin 3. persoonan yksikön preesens: 3.sg.preesens on näissä muodostustyypeissä aina vahvistettu aste, kun taas 1.sg.preesens voi olla joko korkea-asteinen tai vahvistettu aste.
 :::
 ::: grammar-box
-Konsonanttia alkavien päätteiden edellä useimmissa vartaloissa esiintyy liitainvokaali -i-. <!-- TODO: Fallback translation -->
+Konsonanttia alkavien päätteiden edellä useimmissa vartaloissa esiintyy liitainvokaali -i-.
 
 Paitsi päätteen -re edellä, jossa aina on oltava -i-, liitainvokaali ei koskaan esiinny kahdeksan vartalon kohdalla, jotka päättyvät -ṛ tai -u, nimittäin
 
@@ -69,16 +69,16 @@ Paitsi päätteen -re edellä, jossa aina on oltava -i-, liitainvokaali ei koska
 
 Niin kutsutuissa fakultatiivisissa ⟪अनिट्⟫-vartaloissa liitainvokaali voidaan lisätä valinnaisesti tai jättää lisäämättä. (Luettelo näistä vartaloista Kielhornin, Grammatik s. 92 § 298b,2,3)
 :::
-### 40.2.1. Perfektityyppi I: ei vartalon astevaihtelua <!-- TODO: Fallback translation -->
+### 40.2.1. Perfektityyppi I: ei vartalon astevaihtelua
 
 1.p. = 3.p.
 
-Tähän ryhmään kuuluvat verbit: <!-- TODO: Fallback translation -->
+Tähän ryhmään kuuluvat verbit:
 
 *   Konsonant-pitkävokaali-konsonantti
 *   Konsonantti-vokaali-konsonantti-konsonantti
 *   a-konsonantti(-konsonantti)
-*   ā-Konsonant <!-- TODO: Fallback translation -->
+*   ā-Konsonant
 
 ⟪बन्ध्⟫ 9P
 
@@ -104,7 +104,7 @@ Tähän ryhmään kuuluvat verbit: <!-- TODO: Fallback translation -->
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfekti tyyppi II: vahva vartalo korkeatasoinen, heikko vartalo matalatasoinen <!-- TODO: Fallback translation -->
+### 40.2.2. Perfekti tyyppi II: vahva vartalo korkeatasoinen, heikko vartalo matalatasoinen
 
 Verbit, jotka seuraavat tätä tyyppiä:
 
@@ -128,13 +128,13 @@ Verbit, jotka seuraavat tätä tyyppiä:
 
 *   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
 :::
-### 40.2.3. Perfekti tyyppi III: Vahva vartalo korkeatasoinen/pitkä äänneasu <!-- TODO: Fallback translation -->
+### 40.2.3. Perfekti tyyppi III: Vahva vartalo korkeatasoinen/pitkä äänneasu
 
-1.sg.P joko korkeatasoinen tai pitkä äänneasu <!-- TODO: Fallback translation -->
+1.sg.P joko korkeatasoinen tai pitkä äänneasu
 
-#### 40.2.3.1. Perfekti tyyppi IIIa: Vahva vartalo korkeatasoinen/pitkä äänneasu, heikko vartalo matala äänneasu <!-- TODO: Fallback translation -->
+#### 40.2.3.1. Perfekti tyyppi IIIa: Vahva vartalo korkeatasoinen/pitkä äänneasu, heikko vartalo matala äänneasu
 
-Tähän tyyppiin kuuluvat verbit: <!-- TODO: Fallback translation -->
+Tähän tyyppiin kuuluvat verbit:
 
 *   (Konsonant-)(konsonanttii/i/ī/u/ū)
 *   (Konsonant-)-ṛ
@@ -179,7 +179,7 @@ Tähän tyyppiin kuuluvat verbit: <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfektityyppi IIIb: Vahva vartalo korkeatasoinen/pitkennetty aste, heikko vartalo korkeatasoinen <!-- TODO: Fallback translation -->
+#### 40.2.3.2. Perfektityyppi IIIb: Vahva vartalo korkeatasoinen/pitkennetty aste, heikko vartalo korkeatasoinen
 
 Verbit, jotka seuraavat tätä tyyppiä:
 
@@ -211,13 +211,13 @@ Verbit, jotka seuraavat tätä tyyppiä:
 
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfekti tyyppi IV: Juuret -ā / -ai <!-- TODO: Fallback translation -->
+### 40.2.4. Perfekti tyyppi IV: Juuret -ā / -ai
 
 *   Vahva vartalo:
     *   1.,3. sg. Parasamaip.: -au
 *   Heikko vartalo:
     *   konsonantin edellä: syvyysaste-i
-    *   vokaalin edellä: syvyysaste-ø <!-- TODO: Fallback translation -->
+    *   vokaalin edellä: syvyysaste-ø
 
 ⟪दा⟫ 3U
 
@@ -230,11 +230,11 @@ Verbit, jotka seuraavat tätä tyyppiä:
 
 *   1.pl.Ā ⟪ददिमहे⟫
 :::
-### 40.2.5. Perfekti tyyppi V: Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
+### 40.2.5. Perfekti tyyppi V: Konsonant-a-Konsonant
 
 1.sg.P. valinnaisesti korkeatasoinen tai pidennetty tasoinen
 
-#### 40.2.5.1. Perfekti tyyppi Va: Konsonant-a-Konsonant, heikko vartalo matala taso <!-- TODO: Fallback translation -->
+#### 40.2.5.1. Perfekti tyyppi Va: Konsonant-a-Konsonant, heikko vartalo matala taso
 
 Verbit, jotka noudattavat tätä tyyppiä:
 
@@ -297,7 +297,7 @@ Verbit, jotka noudattavat tätä tyyppiä:
 
 *   1.pl.Ā ⟪ईजिमहे⟫
 :::
-#### 40.2.5.2. Perfekti tyyppi Vb: Konsonant-a-konsonant, alkuconsonantti ei gutturaali, aspirointi, heikko vartalo ilman reduplikaatiota, -e- <!-- TODO: Fallback translation -->
+#### 40.2.5.2. Perfekti tyyppi Vb: Konsonant-a-konsonant, alkuconsonantti ei gutturaali, aspirointi, heikko vartalo ilman reduplikaatiota, -e-
 
 ⟪पच्⟫ 1U
 
@@ -310,7 +310,7 @@ Verbit, jotka noudattavat tätä tyyppiä:
 
 *   1.pron. pl. Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfekti tyyppi Vc: Konsonant-a-Konsonant, heikko vartalo korkeatasoinen <!-- TODO: Fallback translation -->
+#### 40.2.5.3. Perfekti tyyppi Vc: Konsonant-a-Konsonant, heikko vartalo korkeatasoinen
 
 Verbit, jotka noudattavat tätä tyyppiä:
 
@@ -336,7 +336,7 @@ Verbit, jotka noudattavat tätä tyyppiä:
 
 *   1.pl.P ⟪विद्म⟫
 :::
-⟪अह्⟫ 1. persoona ei ole yleinen! <!-- TODO: Fallback translation -->
+⟪अह्⟫ 1. persoona ei ole yleinen!
 
 ⟪भू⟫ 1P
 
@@ -352,7 +352,7 @@ Verbit, jotka noudattavat tätä tyyppiä:
 
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
-## 40.3. Muodostetaan ensimmäisen persoonan perifraattinen perfekti (⟪अनुप्रयोगलिट्⟫) <!-- TODO: Fallback translation -->
+## 40.3. Muodostetaan ensimmäisen persoonan perifraattinen perfekti (⟪अनुप्रयोगलिट्⟫)
 
 Perifraattinen perfekti muodostetaan seuraavista:
 
@@ -365,7 +365,7 @@ Perifraattinen perfekti muodostetaan seuraavista:
     *   bhī "pelätä"
     *   bhṛ "kantaa"
     *   hu "uhrata"
-    *   hrī "häpeillä" <!-- TODO: Fallback translation -->
+    *   hrī "häpeillä"
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -381,12 +381,12 @@ Perifraattinen perfekti muodostetaan seuraavista:
 
 *   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
 :::
-## 40.4. Syntaktista tietoa ensimmäisestä persoonasta (⟪तृतीयः⟫) <!-- TODO: Fallback translation -->
+## 40.4. Syntaktista tietoa ensimmäisestä persoonasta (⟪तृतीयः⟫)
 
 ::: grammar-box
 Koska finitinen verbi (taivutettu verbimuoto) ilmaisee myös agentin (⟪कर्तृ⟫), "minä" ja "me" eivät tarvitse passiivittomia lauseita, joissa on finitinen verbimuoto, erillistä persoonapronomonia.
 :::
-## 40.5. Yksityispronominien (⟪पुरुषार्थकसर्वनाम⟫) 1. persoonan yksikkö ja monikko <!-- TODO: Fallback translation -->
+## 40.5. Yksityispronominien (⟪पुरुषार्थकसर्वनाम⟫) 1. persoonan yksikkö ja monikko
 
 ::: grammar-box
 Henkilöllisen pronominin (persoonallisen pronominaalin) muoto on sama kaikille sukupuoille.
@@ -407,30 +407,30 @@ Henkilöllisen pronominin (persoonallisen pronominaalin) muoto on sama kaikille 
 ::: grammar-box
 Lyhyemmät muodot, jotka yllä ovat toisella sijalla (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), eivät saa koskaan esiintyä lauseen tai runon alussa.
 
-Enklitisten partikkelien ⟪च⟫, ⟪वा⟫ ja ⟪एव⟫ edellä ei saa käyttää näitä ns. enklittisiä muotoja: <!-- TODO: Fallback translation -->
+Enklitisten partikkelien ⟪च⟫, ⟪वा⟫ ja ⟪एव⟫ edellä ei saa käyttää näitä ns. enklittisiä muotoja:
 
 vain: ... ⟪मां⟫ ⟪च⟫ ... "ja minut"
 :::
 ::: grammar-box
-Persoonapronominien genetiivi (⟪षष्ठी⟫) toimii omistuspronomineina: <!-- TODO: Fallback translation -->
+Persoonapronominien genetiivi (⟪षष्ठी⟫) toimii omistuspronomineina:
 
 ⟪मम⟫ ⟪।⟫ ⟪मे⟫ = "minun"
 
 ⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "meidän"
 :::
 ::: grammar-box
-Yhdyssanojen etuosina näiden pronominien vartalo ovat: <!-- TODO: Fallback translation -->
+Yhdyssanojen etuosina näiden pronominien vartalo ovat:
 
 *   sg. ⟪मद्⟫
 *   pl. ⟪अस्मद्⟫
 
 esim. ⟪मत्पुस्तकम्⟩ "minun kirja" ; ⟪अस्मद्पुस्तकानि⟩ "meidän kirjamme"
 :::
-## 40.6. Sanalista <!-- TODO: Fallback translation -->
+## 40.6. Sanalista
 
-⟪पात्र⟩ n.: Arvokas, mestari, ansioitunut <!-- TODO: Fallback translation -->
+⟪पात्र⟩ n.: Arvokas, mestari, ansioitunut
 
-⟪मेधा⟩ f.: Viisaus, ymmärrys, ajatus <!-- TODO: Fallback translation -->
+⟪मेधा⟩ f.: Viisaus, ymmärrys, ajatus
 
 ⟪पुस्तक⟫ m.n.: käsikirjoitus, kirja
 
@@ -441,7 +441,7 @@ Perf. II ⟪चकॢपे⟫ valinnainen ⟪अनिट्⟫
 Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
 Kaus. ⟪कल्पयति⟫ : järjestää, luoda, muodostaa mielikuvituksessa, kuvitella  
 PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
 
 siitä:
 
@@ -482,7 +482,7 @@ niistä:
 ![lekt4003.jpg](/images/lekt4003.webp)
 Kuv.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4003))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -507,7 +507,7 @@ siitä:
 Kuv.: ⟪विष्णोर्दशावताराः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt4001))
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : nukkua, asettua nukkumaan <!-- TODO: Fallback translation -->
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : nukkua, asettua nukkumaan
 
 ::: indent
 Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
@@ -529,13 +529,13 @@ siitä:
 Kuv.: ⟪स्वपन्ति⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt4004))
 :::
-## 40.7. Harjoitus <!-- TODO: Fallback translation -->
+## 40.7. Harjoitus
 
-A) Käännä ⟪सुभाषितानि⟫ oppitunnin alussa. <!-- TODO: Fallback translation -->
+A) Käännä ⟪सुभाषितानि⟫ oppitunnin alussa.
 
-B) Muunna seuraavat verbimuodot vastaaviksi perfektimuodoiksi. Useamman mahdollisuuden tapauksessa ilmoita kaikki vaihtoehdot. <!-- TODO: Fallback translation -->
+B) Muunna seuraavat verbimuodot vastaaviksi perfektimuodoiksi. Useamman mahdollisuuden tapauksessa ilmoita kaikki vaihtoehdot.
 
-(Merkintä: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = valinnainen ⟪अनिट्⟫) <!-- TODO: Fallback translation -->
+(Merkintä: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = valinnainen ⟪अनिट्⟫)
 
 1.  ⟪अश्नीमः⟫
 2.  ⟪स्मः⟫
@@ -648,12 +648,3 @@ B) Muunna seuraavat verbimuodot vastaaviksi perfektimuodoiksi. Useamman mahdolli
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
-
-- **Kuva lekt4005.jpg** (Kuva: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Vadaseri, Thanjavurin piirikunta = தஞ்சாவூர் மாவட்டam [Kuv lähde: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Pääsy 2009-01-02. -- Creative Commons -lisenssi (Nimittäminen, share alike)]
-- **Kuva lekt4003.jpg** (Kuva: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Kuv lähde: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Pääsy 2009-01-02. -- Creative Commons -lisenssi (Nimittäminen)]
-- **Kuva lekt4002.jpg** (Kuva: ⟪तीर्थङ्करः⟫): [Kuv lähde: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Pääsy 2009-01-02. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)]
-- **Kuva lekt4001.jpg** (Kuva: ⟪विष्णोर्दशावताराः⟫): Myötäpäivään: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, keskellä: ⟪कृष्ण⟫ [Kuv lähde: Wikipedia. Julkinen omaisuus]
-- **Kuva lekt4004.jpg** (Kuva: ⟪स्वपन्ति⟫): Intian lepakot (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Kuv lähde: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Pääsy 2009-01-02. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)]
-:::
- <!-- TODO: Fallback translation -->

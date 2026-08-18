@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 # ⲡⲓⲥϧⲁⲓ
 
 ## [Lektion 1](lektion01)

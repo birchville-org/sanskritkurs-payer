@@ -9,14 +9,6 @@ status: stable
 
 # Les 7
 
-::: deleteme-box
-**In hierdie les leer jy:**
-- Die werkwoordfrase met 'n direkte voorwerp
-- Die akkusatief van naamwoorde en voornaamwoorde
-- Die sandhi van uitgaande -n
-- Die onsydige geslag van die a-stamme
-- Die atematiese presensklasse (met die 5de klas as voorbeeld)
-:::
 
 ::: center
 **Weeklikse gesegde**

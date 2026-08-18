@@ -90,7 +90,7 @@ dos quais:
 
 ⟪निरोध⟫ m.: Parar, Fazer parar
 
-* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, Fantasma <!-- TODO: Fallback translation -->
+* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, Fantasma
 
 ⟪योग⟫ m.: Arreio, Conexão, União, Aquisição; Yoga
 
@@ -240,13 +240,3 @@ Frase 13: ⟪सर्वेषाम्⟫ Gen. pl. masc. de ⟪सर्व⟫
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** Birla Mandir, Delhi [Fonte da imagem: Deepak / Wikipedia ; Licença Creative Commons (Atribuição, CompartilhaIgual)]
-
-**lekt1602:** "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Fonte da imagem: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Acessado em 2008-12-07. -- Licença Creative Commons (Atribuição, Uso Não Comercial, Sem Derivações)]
-
-**lekt1603:** "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Fonte da imagem: Wikipedia, Domínio público]
-
-**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Fonte da imagem: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Acessado em 2008-12-07. -- Licença Creative Commons (Atribuição, Uso Não Comercial, Sem Derivações)]
-:::

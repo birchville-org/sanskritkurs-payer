@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: Lektion 60
 subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"

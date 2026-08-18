@@ -5,17 +5,10 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # บทที่ 11
 
-::: deleteme-box
-**ในบทนี้ท่านจะได้เรียนรู้:**
-- กริยากรรมสองอย่าง (กริยากรรมของผู้และของ)
-- การใช้อนุภาค **iti**, **evam** และ **na**
-- คำศัพท์พื้นฐานเช่น **dharma**, **adharma** และ **putra**
-- การสร้างนามจากรากศัพท์ **vad**, **prach** และ **iṣ**
-:::
 ## 11.1. กริยากรรมสองอย่าง
 
 ::: grammar-box
@@ -71,7 +64,7 @@ status: stable
 (ที่มาของภาพ: [รายละเอียด](/th/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : ถาม
-  - **praśna** m. ⟪प्रश्न⟫ : คำถาม (suffix **-na** เหมือนใน **yaj-ña**) <!-- TODO: Fallback translation -->
+  - **praśna** m. ⟪प्रश्न⟫ : คำถาม (suffix **-na** เหมือนใน **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : ต้องการ
   - **iṣṭi** f. ⟪इष्टि⟫ : ความปรารถนา (**iṣ** + **-ti**)

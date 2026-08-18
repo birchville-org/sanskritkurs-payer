@@ -567,26 +567,4 @@ Noch ein ⟪सुभाषितम्⟫ :
 
 Erklärung: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P zu ⟪इष्⟫ : der wünschenden
 :::
-::: deleteme-box
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr. [Bildquelle: Wikipedia, Public domain]
-
-**lekt2002:** [Bildquelle: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Bildquelle Wikipedia, Public domain]
-
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [Bildquelle: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2005:** Jesus und die übrigen Götter, Ahmedabad [Bildquelle: von ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2006:** Madhya Pradesh [Bildquelle: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2007:** Chennai = சென்னை [Bildquelle: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Bildquelle: von ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2009:** Karnataka [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2010:** Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt. [Bildquelle: Wikipedia, GNU FDLicense]
-:::
 

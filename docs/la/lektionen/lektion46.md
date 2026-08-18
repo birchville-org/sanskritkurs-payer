@@ -29,9 +29,9 @@ Ante -tha apud radices plures quae in -ṛ desinunt, nullus est vocalis iunctivu
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Perfecti genus I: nulla gradatio radicis <!-- TODO: Fallback translation -->
+### 46.1.3. Perfecti genus I: nulla gradatio radicis
 
-Verba quae huic generi sequuntur: <!-- TODO: Fallback translation -->
+Verba quae huic generi sequuntur:
 
 *   Consonantum-vocalus-longus-consonantum
 *   Consonantum-vocalus-consonantum-consonantum
@@ -65,9 +65,9 @@ Verba quae huic generi sequuntur: <!-- TODO: Fallback translation -->
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
+### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
-Verba, quae hunc typum sequuntur: <!-- TODO: Fallback translation -->
+Verba, quae hunc typum sequuntur:
 
 *   (Consonans-)i/u/ṛ/ḷ-Consonans
 
@@ -91,7 +91,7 @@ Verba, quae hunc typum sequuntur: <!-- TODO: Fallback translation -->
 
 #### 46.1.5.1. Perfectum Typus IIIa: radix fortis gradus altus/gradus productus, radix infirma gradus humilis
 
-Verba quae huic typi sequuntur: <!-- TODO: Fallback translation -->
+Verba quae huic typi sequuntur:
 
 *   (Consonant-)(Consonant-)i/ī/u/ū
 *   (Consonant-)-ṛ
@@ -130,7 +130,7 @@ Verba quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 :::
 #### 46.1.5.2. Perfectum Typus IIIb: Radix fortis gradus superior/gradus productus, radix debilis gradus superior
 
-Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
+Verba, quae huic typi sequuntur:
 
 *   (Consonans-)(Consonans-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -177,7 +177,7 @@ Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 #### 46.1.7.1. Perfectum Typus Va: Consonans-a-Consonans, gradus infirmior
 
-Verba quae huic typi sequuntur: <!-- TODO: Fallback translation -->
+Verba quae huic typi sequuntur:
 
 ::: indent
 1.  inter alia
@@ -267,7 +267,7 @@ Forma 2.sg.P. a radice infirma formatur, cum vocalis coniunctiva -i- adhibetur.
 :::
 #### 46.1.7.3. Perfectum Typus Vc: Consonans-a-Consonans, radix infima gradus altus
 
-Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
+Verba, quae huic typi sequuntur:
 
 *   Omnes reliquae radices cum medio -a-
 
@@ -462,7 +462,7 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 1 ⟪महामात्र⟫ m. "Elephantarius"; ⟪चरिष्णु⟫ 3 "mobilis", ⟪दूरशब्द⟫ m. "longinquum colloquium, telephonum" » ⟪चरिष्णुदूरशब्द⟫ "telephonicum mobile" (structura verborum: A. Payer)
 
 :::
-⟪विभ्रम⟫ m.: iterum atque iterum ambulatio <!-- TODO: Fallback translation -->
+⟪विभ्रम⟫ m.: iterum atque iterum ambulatio
 
 ⟪भ्रंश⟫ m.: decessus
 
@@ -654,26 +654,5 @@ B) Translate:
 ![](/images/lekt4612.webp)
 Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/la/licenses#lekt4612)
 (Fons imaginis: [Descriptiones](/la/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-Imagines Navagraha fontem: Redtigerxyz / Wikipedia. Licentia GNU FDL
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, circiter 1870). Fontem: Wikipedia. Dominium publicum
-
-L4606: ⟪अश्वरोहकः⟫, Pune=⟪पुणे⟫. Fontem: wili_hybrid, Flickr, CC BY 2.0
-
-L4608: Udaipur. Fontem: Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609: Karnataka=ಕರ್ನಾಟಕ. Fons: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, Kamareddy=ಕಾಮಾರೆడ్ಡಿ. Fons: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, Bangalore=ಬೆಂಗಳೂರು. Fons: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, Kutch=⟪कच्छ⟫. Fons: orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612: Mumbai=⟪मुंबई⟫ post attentatum, 11 Iulii 2006. Fons: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
 :::
 

@@ -100,11 +100,11 @@ A) Alakítsa ki a kausatívumot az alábbi igealakokból és participiumi alakok
 | ⟪हन्⟫ | ⟪घातयति⟫ | megöletni, meggyilkolni |
 | ⟪जि⟫ | ⟪जापयति⟫ | győzelemre jutni engedni |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | életre kelteni, feléleszteni |
-B) Fordítsa le a következő mondatokat, és alkosson egyszerű igékkel olyan mondatokat, amelyek kifejezik, mi történik, ha a kausatívum által kifejezett cselekvés végrehajtódik. <!-- TODO: Fallback translation -->
+B) Fordítsa le a következő mondatokat, és alkosson egyszerű igékkel olyan mondatokat, amelyek kifejezik, mi történik, ha a kausatívum által kifejezett cselekvés végrehajtódik.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
 A kṣatriya, hogy legyőzze az ellenségeket, egy bráhmanát, Harit és Harát áldozattal tiszteltetni engedett, és harcolni fog az ellenségek ellen.
-(Alap: **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
+(Alap: **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**)
 
 
 ⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫**
@@ -113,7 +113,7 @@ A tanító megtanította a fiút a Védára, majd hazament.
 
 ⟪३⟫. **⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫ ⟪॥३॥⟫**
 A legbelső szentélyben az istennő képmását mutatják be.
-(Alap: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
+(Alap: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
 
 ⟪४⟫. **⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫**
 A felajánló az égnek ételt eszik és italt iszik.

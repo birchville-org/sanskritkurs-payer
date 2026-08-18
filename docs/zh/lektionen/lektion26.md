@@ -12,108 +12,108 @@ status: stable
 ## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
 
 ::: grammar-box
-**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — außer **a, ā** — unmittelbar oder nur durch **⟪अनुस्वार⟫** oder **⟪विसर्ग⟫** getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt. <!-- TODO: Fallback translation -->
+**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — außer **a, ā** — unmittelbar oder nur durch **⟪अनुस्वार⟫** oder **⟪विसर्ग⟫** getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt.
 
-Diesem Sandhi folgt auch **⟪दुस्⟫-** vor tonlosen Gutturalen und Labialen in Komposita. <!-- TODO: Fallback translation -->
+Diesem Sandhi folgt auch **⟪दुस्⟫-** vor tonlosen Gutturalen und Labialen in Komposita.
 :::
-*Beispiele:* <!-- TODO: Fallback translation -->
+*Beispiele:*
 ::: indent
-**⟪तेषाम्⟫** (aus: *te-sām*) <!-- TODO: Fallback translation -->
+**⟪तेषाम्⟫** (aus: *te-sām*)
 
-aber: **⟪तासाम्⟫** (*tā-sām*) <!-- TODO: Fallback translation -->
+aber: **⟪तासाम्⟫** (*tā-sām*)
 :::
 ## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
 
 ::: grammar-box
-Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt: <!-- TODO: Fallback translation -->
+Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt:
 
-- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫) <!-- TODO: Fallback translation -->
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫) <!-- TODO: Fallback translation -->
-  *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)* <!-- TODO: Fallback translation -->
+- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
+- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
+  *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)*
 :::
 ## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
 
 ::: grammar-box
-**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ** <!-- TODO: Fallback translation -->
+**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
-Beispiele siehe unten <!-- TODO: Fallback translation -->
+Beispiele siehe unten
 :::
 ## 26.4. Grassmannsches Hauchdissimilationsgesetz
 
 ::: grammar-box
-**Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:** <!-- TODO: Fallback translation -->
+**Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:**
 
-Beispiel: <!-- TODO: Fallback translation -->
+Beispiel:
 
 :::
 ::: indent
-\*dhu(gh) » du(g)h <!-- TODO: Fallback translation -->
+\*dhu(gh) » du(g)h
 :::
-**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.** <!-- TODO: Fallback translation -->
+**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
 
-Beispiele: siehe unten Futur von  ⟪दुह्⟫ und  ⟪बुध्⟫ <!-- TODO: Fallback translation -->
+Beispiele: siehe unten Futur von  ⟪दुह्⟫ und  ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
 Abb.: Hermann Graßmann
-(Bildquelle: [Details](/licenses#lekt2601)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2601))
 :::
 ## 26.5. Wortsandhi für -m, -n vor Zischlaut
 
 ::: grammar-box
-**Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:** <!-- TODO: Fallback translation -->
+**Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:**
 
-Beispiel: s. unten Futur von ⟪मन्⟫ <!-- TODO: Fallback translation -->
+Beispiel: s. unten Futur von ⟪मन्⟫
 :::
-## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) <!-- TODO: Fallback translation -->
+## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:** <!-- TODO: Fallback translation -->
+**Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:**
 
-- **die Zukunft** <!-- TODO: Fallback translation -->
-- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")** <!-- TODO: Fallback translation -->
-- **eine Erwartung ("es wird so geschehen")** <!-- TODO: Fallback translation -->
-- **Hoffnung** <!-- TODO: Fallback translation -->
-- **Befürchtung** <!-- TODO: Fallback translation -->
-- **Wahrscheinlichkeit** <!-- TODO: Fallback translation -->
-- **Meinung des Sprechenden** <!-- TODO: Fallback translation -->
-- **Befehl** <!-- TODO: Fallback translation -->
+- **die Zukunft**
+- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")**
+- **eine Erwartung ("es wird so geschehen")**
+- **Hoffnung**
+- **Befürchtung**
+- **Wahrscheinlichkeit**
+- **Meinung des Sprechenden**
+- **Befehl**
 
-**Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).** <!-- TODO: Fallback translation -->
+**Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).**
 :::
-z. B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel." <!-- TODO: Fallback translation -->
+z. B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel."
 
 ::: media
 ![](/images/lekt2602.webp)
 Abb.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt2602)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2602))
 :::
-## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.) <!-- TODO: Fallback translation -->
+## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 
 ::: grammar-box
-**Einfaches Futur:** <!-- TODO: Fallback translation -->
+**Einfaches Futur:**
 
 :::
 ::: indent
-**Einfaches Futur:** <!-- TODO: Fallback translation -->
+**Einfaches Futur:**
 :::
 ::: grammar-box
-**Futurstamm:** <!-- TODO: Fallback translation -->
+**Futurstamm:**
 
 :::
 ::: indent
 **(meist) hochstufige Wurzel + -sya**  
 **oder**  
-**(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)** <!-- TODO: Fallback translation -->
+**(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)**
 :::
 **Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
 **Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.**  
 **Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.**  
-**Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:** <!-- TODO: Fallback translation -->
+**Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:**
 
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ::: grammar-box
 
@@ -136,9 +136,9 @@ Beispiele: <!-- TODO: Fallback translation -->
 :::
 ## 26.8. 练习
 
-Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen:   <!-- TODO: Fallback translation -->
+Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen:  
 
-A) ohne Bindevokal -i-: <!-- TODO: Fallback translation -->
+A) ohne Bindevokal -i-:
 
 1.  ⟪अत्ति⟫
 2.  ⟪प्राप्नुवन्ति⟫
@@ -147,7 +147,7 @@ A) ohne Bindevokal -i-: <!-- TODO: Fallback translation -->
 5.  ⟪दहन्⟫
 6.  ⟪आदिशन्ति⟫
 7.  ⟪दोग्धि⟫
-8.  ⟪पश्यति⟫ (Futur von ⟪दृश्⟫ bilden) <!-- TODO: Fallback translation -->
+8.  ⟪पश्यति⟫ (Futur von ⟪दृश्⟫ bilden)
 9.  ⟪उपानयन्ति⟫
 10.  ⟪पचति⟫
 11.  ⟪उपपद्यन्ते⟫
@@ -176,7 +176,7 @@ A) ohne Bindevokal -i-: <!-- TODO: Fallback translation -->
 34.  ⟪स्तौति⟫
 35.  ⟪तिष्ठति⟫
 
-B) Mit Bindevokal -i-: <!-- TODO: Fallback translation -->
+B) Mit Bindevokal -i-:
 
 1.  ⟪अस्यति⟫
 2.  ⟪आसते⟫
@@ -193,7 +193,7 @@ B) Mit Bindevokal -i-: <!-- TODO: Fallback translation -->
 13.  ⟪पतन्ति⟫
 14.  ⟪रोदिति⟫
 15.  ⟪प्रभवति⟫
-16.  ⟪म्रियन्ते⟫ (im Futur Parasmaipada) <!-- TODO: Fallback translation -->
+16.  ⟪म्रियन्ते⟫ (im Futur Parasmaipada)
 17.  ⟪जीवन्ति⟫
 18.  ⟪रक्षति⟫
 19.  ⟪वदति⟫
@@ -202,9 +202,9 @@ B) Mit Bindevokal -i-: <!-- TODO: Fallback translation -->
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Futur optionell mit und ohne -i-: <!-- TODO: Fallback translation -->
+C) Futur optionell mit und ohne -i-:
 
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫
-3.  ⟪अश्नुवते⟫ (im Futur Parasmaipada) <!-- TODO: Fallback translation -->
+3.  ⟪अश्नुवते⟫ (im Futur Parasmaipada)
 

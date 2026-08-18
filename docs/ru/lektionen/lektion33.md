@@ -389,17 +389,3 @@ C) Переведите и преобразуйте синглярные пре�
 :::
 ⟪क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥ देवदत्तमपि सुखं दुःखमोक्षेष्टिं न पिपर्ति । सेष्टिः प्रज्ञयैव सम्पूर्यते ॥५॥ यः साधुर्भूतेभ्यो ऽभयं ददाति तस्माद्भूतानि न बिभ्यति स च तेभ्यो न बिभेति ॥६॥ मितमतयो नरकभयात्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति । अमितप्रज्ञाबुद्धा हि नरकेभ्यो न बिभीयुः स्वर्गांश्च न लुभ्येयुः । ते भयं च लोभं चारुन्धन् ॥७॥⟫
 
-::: deleteme-box
-
-**Определение и детали Гхи:**
-* Источник: http://en.wikipedia.org/wiki/Ghee (доступ: 2008-12-26)
-
-**Список иллюстраций и лицензии:**
-* **Рис. lekt3306 (свадебная процессия, Ченнаи):** Источник изображения: http://www.pbase.com/chandra/image/62118318 (доступ 2008-12-27). Лицензия Creative Commons (Attribution, NonCommercial, ShareAlike).
-* **Рис. lekt3307 (носильщик в Удайпуре):** Источник изображения: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, доступ 2008-12-27). Лицензия Creative Commons (Attribution, NonCommercial, NoDerivs).
-* **Рис. lekt3305 (самадхи йогини, Каверибаккам):** Источник изображения: Quadell / Wikipedia (GNU FDL).
-* **Рис. lekt3304 (носильщик «бхая», Мумбаи):** Источник изображения: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, доступ 2008-12-26). Лицензия Creative Commons (Attribution).
-* **Рис. lekt3303 (Хинаяна, Таиланд):** Источник изображения: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, доступ 2008-12-26). Лицензия Creative Commons (Attribution, NonCommercial).
-* **Рис. lekt3302 (Яджна, Ашрам Шивы, Ганешпури):** Источник изображения: Dey (http://www.flickr.com/photos/dey/466758922/, доступ 2008-12-26). Лицензия Creative Commons (Attribution, NonCommercial, ShareAlike).
-* **Рис. lekt3308 (носильщица, Дели):** Источник изображения: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, доступ 2008-12-27). Лицензия Creative Commons (Attribution, NonCommercial, NoDerivs).
-:::

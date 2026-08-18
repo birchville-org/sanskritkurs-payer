@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 32
 
-A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbi entsprechenden Imperfektformen: <!-- TODO: Fallback translation -->
+A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbi entsprechenden Imperfektformen:
 
 ::: grammar-box
 | Präsens / Futur | Imperfekt |
@@ -93,22 +93,22 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
 (⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
-Es war einmal ein Fürst, der alle wünschenswerten Vorzüge hatte, von schöner Gestalt. Er stach unter allen Menschenfürsten hervor. Er opferte den Göttern, besiegte die Feinde, hütete das Volk und tat viel Verdienstvolles; deshalb wurde er nach seinem Tod in einer Götterwelt wiedergeboren. <!-- TODO: Fallback translation -->
+Es war einmal ein Fürst, der alle wünschenswerten Vorzüge hatte, von schöner Gestalt. Er stach unter allen Menschenfürsten hervor. Er opferte den Göttern, besiegte die Feinde, hütete das Volk und tat viel Verdienstvolles; deshalb wurde er nach seinem Tod in einer Götterwelt wiedergeboren.
 
 ⟪२⟫. **⟪ब्राह्मणो⟫ ⟪महानगरे⟫ ⟪ऽवसत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमागमय्यावक्⟫ ⟪।⟫ ⟪ब्राह्मणपुत्रो⟫ ⟪वेदं⟫ ⟪गुरावधीयीतेति⟫ ⟪॥२॥⟫**
 (⟪ब्राह्मणस्य⟫ ⟪पुत्रः⟫ ⟪।⟫ ⟪गुरोः⟫ ⟪गृहे⟫)
-Ein Brahmane wohnte in einer Grossstadt. Er liess seinen Sohn kommen und sprach: "Ein Brahmanensohn soll den Veda bei einem Meister studieren." Auf diese Worte hin ging der Sohn zu einem Meister, um zu studieren. Er trat ins Haus des Meisters und trat ehrfürchtig vor den Meister. Der Meister erkundigte sich nach dem Brahmanen. Dann gab er jenem Sohn Speise zu essen. <!-- TODO: Fallback translation -->
+Ein Brahmane wohnte in einer Grossstadt. Er liess seinen Sohn kommen und sprach: "Ein Brahmanensohn soll den Veda bei einem Meister studieren." Auf diese Worte hin ging der Sohn zu einem Meister, um zu studieren. Er trat ins Haus des Meisters und trat ehrfürchtig vor den Meister. Der Meister erkundigte sich nach dem Brahmanen. Dann gab er jenem Sohn Speise zu essen.
 
 ⟪३⟫. **⟪राम⟫ ⟪आचर्यमुपसंगम्य⟫ ⟪वचनमब्रवीत्⟫ ⟪॥३॥⟫**
-Rāma ging zum Lehrer und sprach (die Worte). <!-- TODO: Fallback translation -->
+Rāma ging zum Lehrer und sprach (die Worte).
 
 ⟪४⟫. **⟪ब्राह्मणा⟫ ⟪वेदमध्यैयत⟫ ⟪चाध्यापयंश्च⟫ ⟪देवांश्चायजन्नयजन्त⟫ ⟪च⟫ ⟪क्षत्रियाः⟫ ⟪श्रुतिमध्यैयत⟫ ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त⟫ ⟪वैश्या⟫ ⟪वेदमध्यैयत⟫ ⟪देवानयजन्ताक्रीणन्व्यक्रीणत⟫ ⟪च⟫ ⟪द्विजदासास्तु⟫ ⟪शूद्रा⟫ ⟪आसन्⟫ ⟪॥४॥⟫**
 (⟪द्विजानां⟫ ⟪दासाः⟫)
-Brahmanen haben den Veda studiert und gelehrt, den Göttern als Opferherren und in fremdem Auftrag geopfert. Kṣatriyas haben den Veda studiert, das Volk behütet, die Erde genossen und den Göttern als Opferherren geopfert. Vaiśyas haben den Veda studiert, den Göttern als Opferherren geopfert, gekauft und verkauft. Śūdras aber waren Leibeigene der Zweimalgeborenen. <!-- TODO: Fallback translation -->
+Brahmanen haben den Veda studiert und gelehrt, den Göttern als Opferherren und in fremdem Auftrag geopfert. Kṣatriyas haben den Veda studiert, das Volk behütet, die Erde genossen und den Göttern als Opferherren geopfert. Vaiśyas haben den Veda studiert, den Göttern als Opferherren geopfert, gekauft und verkauft. Śūdras aber waren Leibeigene der Zweimalgeborenen.
 
 ⟪५⟫. **⟪बुद्धपुत्राः⟫ ⟪सत्यमजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫**
 (⟪बुद्धस्य⟫ ⟪पुत्राः⟫)
-Söhne Buddhas haben die Wahrheit erkannt, das Leiden zum Stillstand gebracht und die Erlösung erreicht. Als "Sohn Buddhas" wird ein Mönch bezeichnet, der den Weg Buddhas geht. <!-- TODO: Fallback translation -->
+Söhne Buddhas haben die Wahrheit erkannt, das Leiden zum Stillstand gebracht und die Erlösung erreicht. Als "Sohn Buddhas" wird ein Mönch bezeichnet, der den Weg Buddhas geht.
 
 ::: media
 ![](/images/uebung050.webp)
@@ -117,9 +117,9 @@ Abb.: ⟪सम्पन्नरूपा⟫
 :::
 ---
 
-## Wortformbestimmung <!-- TODO: Fallback translation -->
+## Wortformbestimmung
 
-Bestimmen und übersetzen Sie folgende Wörter: <!-- TODO: Fallback translation -->
+Bestimmen und übersetzen Sie folgende Wörter:
 
 ::: grammar-box
 | Wortform | Bestimmung | Bedeutung |
@@ -214,11 +214,11 @@ Bestimmen und übersetzen Sie folgende Wörter: <!-- TODO: Fallback translation 
 Abb.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Bildquelle: [Details](/licenses#uebung051))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercício zum Sandhi
 
-Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein und beachten Sie die Sandhi-Regeln: <!-- TODO: Fallback translation -->
+Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein und beachten Sie die Sandhi-Regeln:
 
 ⟪१⟫. **⟪रामो⟫ ⟪ग्रामात्⟫ ... ⟪गच्छति⟫ ⟪।⟫** (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪कविगृह⟫)
 - ⟪रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गच्छति⟫ ⟪।⟫
@@ -249,42 +249,42 @@ Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein und beachten Sie
 
 ---
 
-## Zusätzliche Sanskrit-Übersetzungen <!-- TODO: Fallback translation -->
+## Zusätzliche Sanskrit-Übersetzungen
 
 1\. Nachdem der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen.
-**⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫** <!-- TODO: Fallback translation -->
+**⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫**
 
 2\. Der Heilige hat das ihm angetane Böse ertragen.
-**⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪॥⟫**
 
 3\. Sittlichkeit ist des Mannes Zier.
-**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫**
 
 4\. Die mächtigen Krieger sind ins Brahmanendorf gegangen.
-**⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪॥⟫**
 
 5\. Das Mädchen weint.
 **⟪बाला⟫ ⟪रोदिति⟫ ⟪॥⟫**
 
 6\. Es gibt keine Krankheit gleich wie die Wollust, keinen Feind wie die Verwirrung, kein Feuer wie den Zorn, kein Glück wie die Erkenntnis.
 **⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫**
-**⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫**
 
 7\. Ein Mann, den die Göttin behütet, ist glücklich.
-**⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखवान्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखवान्⟫ ⟪॥⟫**
 
 8\. Mit welchem Wind auch immer eine Wolke Wasser lässt, mit dem Wind bewegt ein Gelehrter seinen Schirm.
 **⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫ ⟪वारिदो⟫ ⟪वारिं⟫ ⟪मुञ्चति⟫ ⟪।⟫**
-**⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫ ⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫ ⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥⟫**
 
 9\. Der Kreislauf der Wiedergeburten hat keinen Anfang.
-**⟪अनादिकालिकः⟫ ⟪संसारः⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪अनादिकालिकः⟫ ⟪संसारः⟫ ⟪॥⟫**
 
 10\. Willkommen der Königin!
 **⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
 
 11\. Um des Himmels willen tun die Menschen Verdienstvolles.
-**⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫**
 
 12\. Auf Wiedersehen!
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
@@ -301,7 +301,7 @@ Abb.: ⟪पुनर्दर्शनाय⟫
 **⟪शत्रूनगमयत्स्वर्गं⟫ ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫**  
 **⟪आशयच्चामृतं⟫ ⟪देवान्वेदमध्यापयद्विधिम्⟫ ⟪।⟫**  
 **⟪आसयत्सलिले⟫ ⟪पृथ्वीं⟫ ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिर्गतिः⟫ ⟪॥⟫**  
-Der hehre Hari ist meine Zuflucht, der seine Feinde in den Himmel schickte, die Seinen den Sinn des Veda wissen liess, den Göttern Amṛta zu essen gab, den Schöpfer den Veda lehrte und die Erde im Wasser festsetzte. <!-- TODO: Fallback translation -->
+Der hehre Hari ist meine Zuflucht, der seine Feinde in den Himmel schickte, die Seinen den Sinn des Veda wissen liess, den Göttern Amṛta zu essen gab, den Schöpfer den Veda lehrte und die Erde im Wasser festsetzte.
 
 ::: media
 ![](/images/uebung053.webp)
@@ -310,12 +310,12 @@ Abb.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 :::
 ---
 
-## Erzählung: Der Greis und die Affen (Sanskrit-Bālādarśa) <!-- TODO: Fallback translation -->
+## Erzählung: Der Greis und die Affen (Sanskrit-Bālādarśa)
 
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमगच्छत्⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाती⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 
 **Übersetzung:**
-Einst ging ein Greis in ein anderes Dorf und wurde unterwegs müde. Um sich auszuruhen, ging er an den Fuss eines Mangobaums am Wegrand. Auf diesem Baum hingen reife Früchte. Der Greis bekam Lust auf sie, aber er konnte nicht auf den Baum steigen, um sie zu pflücken. Zum Glück waren auf dem Baum einige Affen, die Früchte frassen. Als der Greis dies sah, freute er sich. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf sie. Die Affen wurden wütend, pflückten einige Früchte und warfen sie auf den Greis. Der Greis nahm freudig die Früchte und ging seines Weges. Grossartig ist das Geschick des Greises! <!-- TODO: Fallback translation -->
+Einst ging ein Greis in ein anderes Dorf und wurde unterwegs müde. Um sich auszuruhen, ging er an den Fuss eines Mangobaums am Wegrand. Auf diesem Baum hingen reife Früchte. Der Greis bekam Lust auf sie, aber er konnte nicht auf den Baum steigen, um sie zu pflücken. Zum Glück waren auf dem Baum einige Affen, die Früchte frassen. Als der Greis dies sah, freute er sich. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf sie. Die Affen wurden wütend, pflückten einige Früchte und warfen sie auf den Greis. Der Greis nahm freudig die Früchte und ging seines Weges. Grossartig ist das Geschick des Greises!
 
 ::: media
 ![](/images/uebung054.webp)

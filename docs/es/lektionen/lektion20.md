@@ -565,26 +565,4 @@ Aún otro ⟪सुभाषितम्⟫ :
 
 Explicación: ⟪इच्छताम्⟫ = gen. pl. Part Pres. P de ⟪इष्⟫ : el deseante
 :::
-::: deleteme-box
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Camboya, siglo IX d. C. [Fuente de la imagen: Wikipedia, Dominio público]
-
-**lekt2002:** [Fuente de la imagen: Contribuciones a la literatura y la historia espiritual de la India. -- Bonn, 1926]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Fuente de la imagen Wikipedia, Dominio público]
-
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [Fuente de la imagen: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt2005:** Jesús y los demás dioses, Ahmedabad [Fuente de la imagen: de ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt2006:** Madhya Pradesh [Fuente de la imagen: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt2007:** Chennai = சென்னை [Fuente de la imagen: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. «Esto es en realidad parte del Ashram de Rishikesh donde se hospedaron los Beatles. Esta sección específica no existía cuando ellos estuvieron allí, pero tiene un aspecto impresionante». [Fuente de la imagen: de ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución)]
-
-**lekt2009:** Karnataka [Fuente de la imagen: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial)]
-
-**lekt2010:** Buda como asceta antes de su iluminación salvadora, Gandhara, siglos II/III. [Fuente de la imagen: Wikipedia, Licencia GNU FDLicense]
-:::
 

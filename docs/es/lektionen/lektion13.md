@@ -1,10 +1,11 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "Lección 13"
+subtitle: "PPP en -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 13
@@ -67,43 +68,47 @@ por ejemplo:
 
 Los atributos (adjuntos) en la prosa se colocan en el orden normal de las palabras antes de la palabra que especifican. Los atributos adjetivos concuerdan con el nombre en número, caso y género:
 
+::: grammar-box
+
+Los atributos (modificadores) en la prosa se colocan antes de la palabra que determinan. Los atributos adjetivos concuerdan con el sustantivo en número, caso y género:
+
 Ejemplo:
 
 :::
 ::: indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Un santo ve el fruto deseado (de sus obras)."
+⟪साधुरिष्टं फलं पश्यति⟫ = "Un santo ve el fruto deseado (de sus obras)."
 :::
 
 ## 13.4. Formación de adjetivos en -mant y -vant (taddhita)
 
 ::: grammar-box
 
-Mediante los sufijos taddhita -mant o -vant se forman adjetivos posesivos a partir de nombres. Su significado es: "que posee lo designado por el nombre subyacente".
+Mediante los sufijos taddhita -mant o -vant se forman adjetivos posesivos a partir de sustantivos. Su significado es: "que posee lo designado por el sustantivo subyacente".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. &lt;!-- TODO: Fallback translation --&gt;
+vant se añade a los sustantivos cuyo último o penúltimo sonido es una vocal a, ā o la consonante m, así como a los sustantivos que terminan en una consonante oclusiva; a otros sustantivos se añade generalmente -mant.
 
 Ejemplos:
 
 :::
 ::: indent
-⟪पशुमन्त्⟫ "que posee ganado"
+⟪पशुमन्त्⟫ "Que posee ganado"
 
-⟪गुणवन्त्⟫ "que posee buenas cualidades / virtud"
+⟪गुणवन्त्⟫ "Que posee buenas cualidades / virtud"
 :::
 
-## 13.5. Descenso de la raíz de los nombres
+## 13.5. Gradación de la raíz de los sustantivos
 
-Las raíces en -mant o -vant pertenecen a los nombres con descenso de raíz.
+Las raíces en -mant o -vant pertenecen a las raíces nominales con gradación de la raíz.
 
 ::: grammar-box
-En los nombres con descenso de raíz, se distingue entre casos fuertes (casos) y casos débiles. En los casos fuertes, el sufijo formador de la raíz —en el caso de los nombres radicales, el componente radical— tiene el grado alto o el grado alargado; en los casos débiles, el grado bajo.
+En las raíces nominales con gradación de la raíz se distingue entre casos fuertes y débiles. En los casos fuertes, el sufijo formador de la raíz —en los sustantivos radicales, el componente radical— tiene el grado alto o alargado; en los casos débiles, el grado bajo.
 :::
 **Los casos fuertes son:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativo:br⟪प्रथमा⟫:brAcusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ | Nominativo:br⟪प्रथमा⟫:brAcusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ | Nominativo:br⟪प्रथमा⟫:br:brVocativo:br⟪सम्बोधनप्रथमा⟫ |
-| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativo:br⟪प्रथमा⟫:brAcusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ |
+| **En masculinos y femeninos** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativo:br⟪प्रथमा⟫:brAcusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ | Nominativo:br⟪प्रथमा⟫:brAcusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ | Nominativo:br⟪प्रथमा⟫:br:brVocativo:br⟪सम्बोधनप्रथमा⟫ |
+| **En neutros** :br⟪नपुंसक⟫ | — | — | Nominativo:br⟪प्रथमा⟫:brAcusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ |
 
 **Todos los demás casos son débiles.**
 
@@ -203,7 +208,7 @@ Fig.: ⟪महिषासुरः⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : odiar, hostilizar
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : comer, consumir
-- **anna** n. ⟪अन्न⟫ : comida (del PPP: *ad-na: lo comido) &lt;!-- TODO: Fallback translation --&gt;
+- **anna** n. ⟪अन्न⟫ : comida (del PPP: *ad-na: lo comido) &lt;!--  --&gt;
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -225,7 +230,7 @@ pad 4 Ā:
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1303))
 :::
-dviṣ 2 U: &lt;!-- TODO: Fallback translation --&gt;
+dviṣ 2 U: &lt;!--  --&gt;
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : odio

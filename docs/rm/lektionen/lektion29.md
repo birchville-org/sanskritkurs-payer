@@ -89,7 +89,7 @@ Abb.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (fontana d'imagines: [detagls](/rm/licenses#lekt2901))
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): doltsch, mitsch, doltsch; lent, debel <!-- TODO: Fallback translation -->
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): doltsch, mitsch, doltsch; lent, debel
 
 ⟪यथा⟫ Adv.: sco, quasi
 
@@ -158,17 +158,17 @@ Explicaziuns:
 
 ⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "attaccar, cunligar cun, unir cun"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva)
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "ancor pli"
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "pli ferm" <!-- TODO: Fallback translation -->
+⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "pli ferm"
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "vier" scome prefix d'in cumponì
 
-⟪राज्ञा⟫ Instr. sg. mask. zu ⟪राजन्⟫ m. "König" <!-- TODO: Fallback translation -->
+⟪राज्ञा⟫ Instr. sg. mask. zu ⟪राजन्⟫ m. "König"
 
-⟪स्वेषु⟫ : Lok. plur. mask. / neutr. zu ⟪स्व⟫ ⟪३⟫ "eigen (mein, dein, sein usw.)" <!-- TODO: Fallback translation -->
+⟪स्वेषु⟫ : Lok. plur. mask. / neutr. zu ⟪स्व⟫ ⟪३⟫ "eigen (mein, dein, sein usw.)"
 
 ⟪वर्त्मसु⟫ : Lok. plur. neutr. a ⟪वर्त्मन्⟫ n. "via, pista, sentier"
 
@@ -263,11 +263,5 @@ Explicaziuns:
 | ⟪हन्⟫ ⟪२⟫ ⟪प⟫ | ⟪हनिष्यति⟫ | ⟪घातयति⟫ |
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
-:::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [fonte da l’imagina: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- access il 2008-12-20. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala, share alike)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [fonte da l’imagina: Khalid Mahmood / Wikipedia. Licenza GNU FD]
-**lekt2902:** (disegn: Namcha Payer, 2002-11)
 :::
 

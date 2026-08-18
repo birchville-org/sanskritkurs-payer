@@ -264,11 +264,3 @@ Tamil Nadu
 (የምስሉ ምንጭ፡ [ዝርዝሮች](/licenses#lekt5401))
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [የምስል ምንጭ: Raji Srinivas / Wikipedia. GNU FDLicense]
-
-**lekt5401:** Tamil Nadu [የምስል ምንጭ: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- የተገኘው በ 2009-01-28 ነው። -- [የክሪኤቲቭ ኮመንስ ፈቃድ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ በተመሳሳይ ሁኔታ ማጋራት)]
-
-:::
-

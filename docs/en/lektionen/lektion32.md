@@ -615,24 +615,3 @@ Monkeys in mango trees.
 (Image source: [Details](/en/licenses#lekt3210))
 :::
 
-::: deleteme-box
-
-**lekt3202:** Mango tree, Kanpur. [Image source: AmarChandra / Wikipedia. CC BY-SA]
-
-**lekt3203:** Monkeys (rhesus macaques) in Delhi. [Image source: dewalt / Flickr. CC BY-NC-SA]
-
-**lekt3204:** Stone quarry south of Pune, Maharashtra. [Image source: lecercle / Flickr. CC BY-NC-SA]
-
-**lekt3205:** Target practice / arrow target, Karnataka. [Image source: mattlogelin / Flickr. CC BY-NC]
-
-**lekt3207:** Burning cowdung patties in Rajasthan. [Image source: thebigdurian / Flickr. CC BY-NC-SA]
-
-**lekt3206:** Mehndi painting on hands in Mumbai. [Image source: the_gman / Flickr. CC BY-NC-SA]
-
-**lekt3208:** Buddhist monk in Sri Lanka. [Image source: Trollderella / Wikipedia. GNU FDL]
-
-**lekt3209:** Indian greeting / farewell. [Image source: dhyanji / Flickr. CC BY-NC-ND]
-
-**lekt3210:** Monkeys in mango trees. [Image source: Wikipedia. GNU FDL]
-:::
-

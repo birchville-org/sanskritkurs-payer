@@ -253,9 +253,6 @@ Penjelasan pikiran terjadi melalui pengembangan welas asih, belas kasihan, sukac
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
 Yoga tindakan adalah asketisme, studi Veda, dan pelayanan penuh perhatian kepada TUHAN. Tujuannya adalah pengembangan konsentrasi dan pelemahan "afflictions".
 
-::: deleteme-box Explanation
-Lima "afflictions" (⟪क्लेश⟫) adalah: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — kebodohan, egoisme, keserakahan, kebencian, dan keterikatan pada tubuh.
-:::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Tujuan tertinggi manusia adalah bahwa penderitaan tiga kali lipat menghilang sepenuhnya. (*Penderitaan tiga kali lipat: dari diri sendiri, dari objek, dari dewa-dewa.*)
 

@@ -161,7 +161,7 @@ derivar os advérbios pronominais correspondentes.
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -181,7 +181,7 @@ Fig.: ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Compostos adverbiais
@@ -363,7 +363,7 @@ Nota: ⟪किम्⟫, além de "o quê?" e como partícula interrogativa, ta
 Fig.: ⟪शाक्यमुनिः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: dia <!-- TODO: Fallback translation -->
+⟪दिन⟫ n.: dia
 
 ⟪वृक्ष⟫ m.: árvore
 
@@ -497,7 +497,7 @@ Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3711))
 :::
-8\. ⟪यथा⟫ <!-- TODO: Fallback translation -->
+8\. ⟪यथा⟫
 
 ::: indent
 1.  ⟪यथास्थानम्⟫
@@ -508,17 +508,3 @@ Traduza para o sânscrito usando exclusivamente formas verbais do perfeito:
 
 Certa vez, quando um certo ancião foi para outra aldeia, ele se cansou no caminho. Então, para descansar, ele foi para o pé de uma mangueira que estava ao lado. Nesta árvore havia frutos maduros. O ancião sentiu desejo por eles. Mas ele não conseguia subir na árvore e pegar os frutos. Por sorte, havia nesta árvore alguns macacos que comiam frutos. Quando ele os viu, o ancião se alegrou. O que ele fez? Ele pegou algumas pedras, mirou nos macacos e atirou. Os macacos enfurecidos colheram alguns frutos e os atiraram no ancião. O ancião pegou-os alegremente e foi para a sua região desejada. Veja, a astúcia do ancião
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Fig.: ⟪क्व⟫): [Fonte da imagem: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Acedido em 2008-12-30. -- Licença Creative Commons (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-- **Image lekt3702.jpg** (Fig.: ⟪यथाशक्ति⟫): [Fonte da imagem: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Acedido em 2008-12-30. -- Licença Creative Commons (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-- **Image lekt3703.jpg** (Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Fonte da imagem: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Acedido em 2008-12-30. -- Licença Creative Commons (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-- **Image lekt3704.jpg** (Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Fonte da imagem: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Acedido em 2008-12-30. -- Licença Creative Commons (Atribuição)]
-- **Image lekt3705.jpg** (Fig.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Fonte da imagem: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Acedido em 2008-12-31. -- Licença Creative Commons (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-- **Image lekt3706.jpg** (Fig.: ⟪वृक्षः⟫): Jaipur [Fonte da imagem: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Acedido em 2008-12-31. -- Licença Creative Commons (Atribuição, Uso Não-Comercial, Partilha nos Mesmos Termos)]
-- **Image lekt3707.jpg** (Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Pintura de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Fonte da imagem: Wikipedia. Domínio público]
-- **Image lekt3708.jpg** (Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Fonte da imagem: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Acedido em 2008-12-31. -- Licença Creative Commons (Atribuição)]
-- **Image lekt3709.jpg** (Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Fonte da imagem: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Acedido em 2008-12-31. -- Licença Creative Commons (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-- **Image lekt3710.jpg** (Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Fonte da imagem: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Acedido em 2008-12-31. -- Licença Creative Commons (Atribuição, Uso Não-Comercial, Partilha nos Mesmos Termos)]
-- **Image lekt3711.jpg** (Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Fonte da imagem: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Acedido em 2008-12-31. -- Licença Creative Commons (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-:::

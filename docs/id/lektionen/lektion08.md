@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # Pelajaran 8
 
-::: deleteme-box
-**Dalam pelajaran ini Anda akan mempelajari:**
-- Pembentukan nomina (akhiran kṛt dan taddhita)
-- Akhiran nomina penting (-a, -ana, -tra, -ti, -tva, -tā)
-- Kelas ke-8 dari konjugasi praesens (tanādi)
-- Konjugasi **kṛ** (tun, membuat)
-:::
 
 ## 8.1. Tentang Pembentukan Nomina
 

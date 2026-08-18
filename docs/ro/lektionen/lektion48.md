@@ -152,7 +152,7 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. A treia clasă de prezintă (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
+### 48.2.4. A treia clasă de prezintă (⟪जुहोत्यादि⟫)
 
 ::: grammar-box
 **Sfârșitul 3.pl.P cu \-atu !**
@@ -191,7 +191,7 @@ Nota: ¹ **⟪धेहि⟫** din \*dhazdhi: dispariția sunetului sibilant in
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Despre formarea substantivelor: sufixele -a și -ya de tipul ⟪तद्धित⟫ <!-- TODO: Fallback translation -->
+## 48.3. Despre formarea substantivelor: sufixele -a și -ya de tipul ⟪तद्धित⟫
 
 ::: grammar-box
 Cu sufixul **-a** și (mai rar) **-ya** se poate deriva un substantiv din alt substantiv. În acest caz, prima silabă a substantivului original primește gradul lung (**⟪वृद्धि⟫**). Dacă radicalul cuvântului original se termină deja în **-a**, atunci **⟪वृद्धि⟫** este singurul semn al derivării, deoarece nu se produce nicio modificare la finalul radicalului.
@@ -228,7 +228,7 @@ Exemple:
 | **\-a** | Înlocuirea **\-a** a cuvântului de bază cu noul sufix **\-a**.:brVezi exemplele de mai sus. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **alte tipuri de declinare:** | vezi Wackernagel, Gramatica sanscrită veche II,2 § 38 | <!-- TODO: Fallback translation -->
+| **alte tipuri de declinare:** | vezi Wackernagel, Gramatica sanscrită veche II,2 § 38 |
 
 Înainte de sufixul **-ya**, finalul radicalului este tratat similar ca înainte de sufixul **-a**.
 :::
@@ -248,7 +248,7 @@ de exemplu, **⟪व्याघ्र⟫** m. "tigru" » **⟪वैयाघ�
 Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4801))
 :::
-## 48.4. Listă de cuvinte <!-- TODO: Fallback translation -->
+## 48.4. Listă de cuvinte
 
 ⟪श्वस्⟫ : mâine
 
@@ -265,7 +265,7 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4802))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -274,7 +274,7 @@ Fig.: ⟪तन्त्री⟫
 Muzician la sitar = ⟪सितारवादकः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: femeie, soție ; feminin <!-- TODO: Fallback translation -->
+⟪स्त्री⟫ f.: femeie, soție ; feminin
 
 Declinare:
 
@@ -300,7 +300,7 @@ Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : a atârna, a se atașa
 
-⟪कुमार⟫ m.: copil, tânăr, prinț; epitet al lui ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ <!-- TODO: Fallback translation -->
+⟪कुमार⟫ m.: copil, tânăr, prinț; epitet al lui ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
 ![](/images/lekt4805.webp)
@@ -308,7 +308,7 @@ Fig.: ⟪कुमारः⟫
 Festivalul Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: fată, fiică <!-- TODO: Fallback translation -->
+⟪कुमारी⟫ f.: fată, fiică
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -328,7 +328,7 @@ Fig.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4807))
 :::
-⟪स्थाविर⟫ n.: (înaltă) bătrânețe <!-- TODO: Fallback translation -->
+⟪स्थाविर⟫ n.: (înaltă) bătrânețe
 
 ⟪वाच्य⟫ 3: de asemenea: demn de mustrare
 
@@ -406,23 +406,3 @@ B) Traduceți în sanscrită (folosiți imperativul și, pe cât posibil, rădă
 Explicație:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual la ⟪द्वे⟫ ⟪कुले⟫ "două familii"
 
-::: deleteme-box
-
-**lekt4801:** [Sursă imagine: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, share alike)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Sursă imagine: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, share alike)]
-
-**lekt4803:** Muzician sitar = ⟪सितारवादकः⟫ [Sursă imagine: Wikipedia. Domeniu public]
-
-**lekt4804:** [Grup de auto-ajutorare (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Sursă imagine: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribuire, utilizare non-comercială)]
-
-**lekt4805:** Festivalul Thaipusam = தைப்பூசம், Batu Caves, Malaysia [Sursă imagine: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
-
-**lekt4806:** ⟪नेपाल⟫ [Sursă imagine: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
-
-**lekt4807:** ⟪जोधपुर⟫ [Sursă imagine: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
-
-**lekt4808:** Lacul Karanji = ಕಾರಂಜಿ ಕೆರೆ [Sursă imagine: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribuire, share alike)]
-
-**lekt4809:** (Imagine: Payer)
-:::

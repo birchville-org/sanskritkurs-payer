@@ -9,14 +9,6 @@ status: stable
 
 # Lecția 12
 
-::: deleteme-box
-**În această lecție veți învăța:**
-- Participiul Perfect Pasiv (PPP)
-- Semnificația PPP-ului
-- Formarea PPP-ului
-- Legăturile fonetice în cuvinte
-- Pasivul și PPP-ul rădăcinilor învățate până acum
-:::
 
 ## 12.1. Participiul Perfect Pasiv (PPP)
 
@@ -26,7 +18,7 @@ O modalitate de a forma propozițiile la pasiv în trecut este construcția cu a
 **În realitate, PPP nu este un participiu adevărat, deoarece nu se formează dintr-o rădăcină de timp. El este, mai degrabă, o formare nominală a rădăcinii cu sufixul primar -ta, respectiv -na. De aceea, în gramatica indiană se vorbește despre sufixul kta.**
 :::
 
-### 12.1.1. Schema pentru verbe tranzitive <!-- TODO: Fallback translation -->
+### 12.1.1. Schema pentru verbe tranzitive
 
 ::: grammar-box
 **Agent (kartṛ) în instrumental (tṛtīyā) -- obiect direct (karman) în nominativ (prathamā) -- participiu perfect pasiv**
@@ -41,7 +33,7 @@ Exemple:
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(De către brahman a fost onorată zeița cu un sacrificiu) = Brahmanul a onorat zeița cu un sacrificiu.”
 :::
 
-### 12.1.2. Schema I pentru verbe intranzitive și verbe de mișcare <!-- TODO: Fallback translation -->
+### 12.1.2. Schema I pentru verbe intranzitive și verbe de mișcare
 
 ::: grammar-box
 **Agent (kartṛ) la nominativ (prathamā) -- Participiul Perfecț Passiv**
@@ -52,7 +44,7 @@ Exemplu:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Femeia kṣatriya a mers în oraș.”
 :::
 
-### 12.1.3. Schema II pentru verbe intranzitive și verbe de mișcare <!-- TODO: Fallback translation -->
+### 12.1.3. Schema II pentru verbe intranzitive și verbe de mișcare
 
 ::: grammar-box
 **Agent (kartṛ) în instrumental (tṛtīyā) -- PPP la nominativ singular neutru**
@@ -176,7 +168,7 @@ La formarea cuvintelor:
 
 - **muc**: **mokṣa** m. ⟪मोक्ष⟫ : desfacere, eliberare, mântuire
 - **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : stropire a unui rege la încoronare, încoronare
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : trezirea (prin care un Buddha sau Jina ajunge la înțelegerea mântuitoare) <!-- TODO: Fallback translation -->
+- **budh**: **bodhi** m./f. ⟪बोधि⟫ : trezirea (prin care un Buddha sau Jina ajunge la înțelegerea mântuitoare)
 
 ::: media
 ![](/images/lekt1203.webp)

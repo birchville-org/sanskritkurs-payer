@@ -5,12 +5,12 @@ status: stable
 last_reconstructed: 2026-05-16
 ---
 
-# 28. lecke <!-- TODO: Fallback translation -->
+# 28. lecke
 
 ## 28.1. A causativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**Ha valaki vagy valami meg akarja fejezni, hogy valakit vagy valamit arra késztet vagy okoz, hogy egy másik személy vagy valami mást cselekszik vagy elszenved, amit egy gyökér (prefixummal vagy anélkül) fejez ki, akkor a causativumot használjuk (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).** <!-- TODO: Fallback translation -->
+**Ha valaki vagy valami meg akarja fejezni, hogy valakit vagy valamit arra késztet vagy okoz, hogy egy másik személy vagy valami mást cselekszik vagy elszenved, amit egy gyökér (prefixummal vagy anélkül) fejez ki, akkor a causativumot használjuk (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
 
 Példa:
 ⟪गम्⟫ "menni" » Kausatívum: ⟪गमयति⟫ "ő arra készteti, hogy valaki menjen; ő elküldi"
@@ -41,20 +41,20 @@ Eredmény: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्त�
 Eredmény: ⟪रामो⟫ ⟪वेदमधीते⟫ "Ráma tanulmányozza a Védát"
 
 ⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Ráma a isteneket halhatatlanság-étellel eteti = adja az isteneknek a halhatatlanság-étel evését" (⟪अश्⟫ 9 "eszik")
-Eredmény: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Az istenek eszik a halhatatlanság-ételt" <!-- TODO: Fallback translation -->
+Eredmény: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Az istenek eszik a halhatatlanság-ételt"
 
 ::: media
 ![](/images/lekt2802.webp)
 Ábr.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
 ISKCON Templom Bangalor.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2801))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
-**Az 1. sémát követve konstruált többek között a ⟪दृश्⟫ gyökér:** <!-- TODO: Fallback translation -->
+**Az 1. sémát követve konstruált többek között a ⟪दृश्⟫ gyökér:**
 
-**Ausnahmen zu Schema 1 siehe unter Schema 2** <!-- TODO: Fallback translation -->
+**Ausnahmen zu Schema 1 siehe unter Schema 2**
 
 Példa:
 (⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = „megmutatja Rámának a fiút”
@@ -82,7 +82,7 @@ aki a földet vízbe helyezte.
 Kép: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
 A Jadavpur Egyetem igazgatósági épülete.
 (Képmegjelölés: [Részletek](/hu/licenses#lekt2802))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -102,9 +102,9 @@ Eredmény: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति�
 Ennek az eredménynek az eredménye: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = „Govinda elmegy”
 :::
 ::: grammar-box
-**Kivételek az 1. sémához:** <!-- TODO: Fallback translation -->
+**Kivételek az 1. sémához:**
 
-**A következő igék is a 2. séma szerint épülnek fel:** <!-- TODO: Fallback translation -->
+**A következő igék is a 2. séma szerint épülnek fel:**
 
 **Kauzatív képzés:**
 - **⟪नी⟫ "vezet"**
@@ -125,7 +125,7 @@ Eredmény: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादत�
 Eredmény: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma emlékszik"
 
 ::: grammar-box
-**A következő kausatívumok mindkét séma szerint, azaz a 1. és a 2. séma szerint is ragozhatók:** <!-- TODO: Fallback translation -->
+**A következő kausatívumok mindkét séma szerint, azaz a 1. és a 2. séma szerint is ragozhatók:**
 
 - **⟪हृ⟫ "tart, hoz"**
 - **⟪कृ⟫ "cselekszik, csinál"**
@@ -150,7 +150,7 @@ Ha a causativum passzív szerkezetben használatos, akkor szinte mindig az aláb
 
 **A causativum agense az instrumentalisban (⟪तृतीया⟫) — a kiváltott cselekvés agense a nominativusban (⟪प्रथमा⟫) — a kiváltott cselekvés tárgya abban az esetszárnyban, amelyet a egyszerű ige követne (azaz általában az accusativus) — az ige causativum alakban**
 :::
-Példák: <!-- TODO: Fallback translation -->
+Példák:
 
 ⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "A mester elküldi Rámát a faluba"
 Eredmény: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Ráma elmegy a faluba"
@@ -178,7 +178,7 @@ Példák:
 | ⟪विश्⟫ | ⟪वेशयति⟫ | beenged, behoz |
 | ⟪लुभ्⟫ | ⟪लोभयति⟫ | vágyat kelt, kíváncsivá tesz, csábít |
 | ⟪दृश्⟫ | ⟪दर्शयति⟫ | látást okoz = mutat |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | forgat (transzitív), gördít (transzitív), mozgásba hoz | <!-- TODO: Fallback translation -->
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | forgat (transzitív), gördít (transzitív), mozgásba hoz |
 
 ::: grammar-box
 **Alkotási típus 2: nyújtott fokú gyökér + -aya-**
@@ -193,7 +193,7 @@ Példák:
 | ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | előidézni, hogy valaki menjen |
 | ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | vezettetni |
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | csináltatni |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | beszéltetni, beszélni hagyni, (egy szöveget elmondatni =) hangosan olvasni | <!-- TODO: Fallback translation -->
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | beszéltetni, beszélni hagyni, (egy szöveget elmondatni =) hangosan olvasni |
 
 ::: grammar-box
 **Képzési típus 3: alacsony fokú gyök + -aya-**
@@ -221,7 +221,7 @@ Példák:
 ::: grammar-box
 **Rendszertelen alakítások:**
 
-**A bennszülött grammatikusok a következő alakokat kausatívnak tekintik:** <!-- TODO: Fallback translation -->
+**A bennszülött grammatikusok a következő alakokat kausatívnak tekintik:**
 
 - **han** : Kaus. **ghātayati**¹ „megöletni, meggyilkoltatni”
 - **pā** 2 „óvni”: **pālayati**² „átjuttat, megment, megvéd”
@@ -252,7 +252,7 @@ Míg a passzív általában a mély fokú gyökből képződik az eredeti gyök 
 
 Példa:
 **budh** Jövő időum kausatívum: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): „felébreszt”
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ## 28.6. A PPP (⟪क्त⟫) képzése a kausatívból
@@ -283,7 +283,7 @@ Példák:
 **ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) „miután behozatta, miután elhozatta”
 :::
 ::: grammar-box
-**Ha azonban a kausatívszó magja egy-egy mássalhangzó előtt rövid -a-t tartalmaz, az abszolutívum -ya-ja a -ay végződésű kausatívszótémához kapcsolódik (végső a nélkül)** <!-- TODO: Fallback translation -->
+**Ha azonban a kausatívszó magja egy-egy mássalhangzó előtt rövid -a-t tartalmaz, az abszolutívum -ya-ja a -ay végződésű kausatívszótémához kapcsolódik (végső a nélkül)**
 
 Példa:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) „miután elhozatta”
@@ -300,7 +300,7 @@ Példa:
 **jan** — **janayati** — **janayitum** (janay-i-tum) „létrehozni”
 :::
 
-## 28.9. A tizedik jelen időosztály (⟪चुरादि⟫ = ⟪चुर्⟫ stb.) <!-- TODO: Fallback translation -->
+## 28.9. A tizedik jelen időosztály (⟪चुरादि⟫ = ⟪चुर्⟫ stb.)
 
 ::: grammar-box
 **Ugyanúgy, mint a causativa igék, az 10. jelen időosztályba tartozó egyes gyökök képeznek jelen időt (és egyéb ragozásokat) causativa nélkül.**
@@ -311,7 +311,7 @@ Példák:
 :::
 ::: grammar-box
 **Az 10. jelen időosztályba tartozó igék causativusának formái megegyeznek az egyszerű igeformákkal. Dönteni csak a jelentés, vagy néha a szerkezet alapján lehet arról, hogy causativusról van-e szó.**
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ## 28.10. Szószedet
@@ -351,7 +351,7 @@ Infinitívum: **kāmayitum** / **kamitum**
 Kép: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 Festmény: ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
 (Képmagyarázat: [Részletek](/hu/licenses#lekt2804))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -375,7 +375,7 @@ Inf. **coritum**
 Vīṇā-Spielerin.
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2803))
 :::
-⟪भार⟫ m.: teher <!-- TODO: Fallback translation -->
+⟪भार⟫ m.: teher
 
 ::: media
 ![](/images/lekt2805.webp)
@@ -383,7 +383,7 @@ Vīṇā-Spielerin.
 Lány teherrel. Ahmedabad közelében.
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2805))
 :::
-⟪भृत्य⟫ m.: alárendelt, szolga <!-- TODO: Fallback translation -->
+⟪भृत्य⟫ m.: alárendelt, szolga
 
 ## 28.11. Gyakorlat
 
@@ -471,9 +471,9 @@ Lány teherrel. Ahmedabad közelében.
 4. ⟪लभ्⟫ — ⟪लम्भयति⟫
 5. ⟪हन्⟫ — ⟪घातयति⟫
 6. ⟪जि⟫ — ⟪जापयति⟫
-7. ⟪जीव्⟫ — ⟪जीवयति⟫ <!-- TODO: Fallback translation -->
+7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Fordítsa le a következő mondatokat, oldja fel a szanszkrit összetételeket (kompozitumokat), és alkosszon egyszerű igékkel olyan mondatokat, amelyek kifejezik, mi történik, ha a kausztívum által kifejezett cselekvés bekövetkezik:** <!-- TODO: Fallback translation -->
+**B. Fordítsa le a következő mondatokat, oldja fel a szanszkrit összetételeket (kompozitumokat), és alkosszon egyszerű igékkel olyan mondatokat, amelyek kifejezik, mi történik, ha a kausztívum által kifejezett cselekvés bekövetkezik:**
 
 Példa: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
 
@@ -488,11 +488,3 @@ Példa: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारय
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-::: deleteme-box
-
-**lekt2801:** A Jadavpur Egyetem igazgatósági épülete. [Képmegjelenítés: noii Flickr, 2008-12-19, CC BY-SA]
-**lekt2802:** ISKCON templom Bangalorban. [Képmegjelenítés: Ramki reflections Flickr, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Vīṇā-játékos nő. [Képmegjelenítés: Kelvin Kay / Wikipedia. GNU FDLicense]
-**lekt2804:** Kṛṣṇa és Rādhā. Festmény Rāja Ravi Varmától. [Képmegjelenítés: Wikipedia. Közterület]
-**lekt2805:** Lány hordoz terhet. Ahmedabad közelében. [Képmegjelenítés: m-bot. Flickr, 2008-12-20. CC BY-SA]
-:::

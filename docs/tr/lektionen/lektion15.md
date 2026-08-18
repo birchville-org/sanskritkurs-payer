@@ -1,599 +1,348 @@
 ---
-title: Lektion 15
+title: "Ders 15"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 15 <!-- TODO: Fallback translation -->
+---
 
-## 15.1. ⟪सुभाषितम्⟫ <!-- TODO: Fallback translation -->
+# Ders 15
 
-⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫  
-⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫  
-⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫  
-⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+## 15.1. ⟪सुभाषितम् गुरुशुश्रूषया विद्या पुष्कलेन धनेन वा । अथवा विद्यया विद्या चतुर्थी नैव विद्यते ॥⟫
 
-## 15.2. Determinativkomposita = Tatpuruṣa m. = ⟪तत्पुरुष⟫ <!-- TODO: Fallback translation -->
+## 15.2. Determinativkomposita = Tatpuruṣa m. = ⟪तत्पुरुष⟫
 
-Das Verhältnis von durch Nomina (Substantive und Adjektive) Bezeichnetem zueinander kann man ausser durch eine Genetivkonstruktion auch durch ein Tatpuruṣa (⟪तत्पुरुष⟫) ausdrücken. Ebenso kann man attributive Beiordnungen von Adjektiven oder appositionelle Beiordnung von Substantiven durch eine bestimmte Art von Tatpuruṣa, nämlich durch sog. Karmadhāraya (m.) = ⟪कर्मधारय⟫ ausdrücken. <!-- TODO: Fallback translation -->
+İsimler (isimler ve sıfatlar) ile belirtilen şeylerin birbirleriyle olan ilişkisini, bir tamlayan (genitive) yapısından başka bir Tatpuruṣa (⟪तत्पुरुष⟩) ile de ifade edebilirsiniz. Aynı şekilde, sıfatların niteliksel yan cümlecikleri veya isimlerin appositional (aynı anlamda ek) yan cümlecikleri de belirli bir tür Tatpuruṣa ile ifade edilebilir, yani Karmadhāraya (m.) = ⟪कर्मधारय⟩ ile.
 
-⟪तत्पुरुषः⟫ =  ⟪तस्य⟫ ⟪पुरुषः⟫ "sein Knecht", d.h. als Bezeichnung dieser Art von Komposita dient ein Beispiel solcher Komposita. <!-- TODO: Fallback translation -->
+⟪तत्पुरुषः⟩ =  ⟪तस्य पुरुषः⟩ "onun kölesi", yani bu tür kompozitlerin adlandırılması için böyle bir kompozitin örneği kullanılır.
 ::: grammar-box
 
-In determinativen Komposita (Tatpuruṣa) wird ein Nomen (Substantiv oder Adjektiv) durch ein anderes Nomen oder Adverb näher bestimmt. Das näher bestimmte Wort bildet in der Regel das Hinterglied des Kompositum. <!-- TODO: Fallback translation -->
+Determinatif kompozitlerde (Tatpuruṣa), bir isim (isim veya sıfat) başka bir isim veya zarf tarafından daha yakından belirlenir. Daha yakından belirlenen kelime genellikle kompozitin arka kısmını oluşturur.
 
-Das Verhältnis der Vorderglieds (determinierendes Glied) zum Hinterglied (determiniertes Glied) kann sein: <!-- TODO: Fallback translation -->
+Ön parçanın (belirleyici kısım) arka parçasına (determin edilen kısım) olan ilişkisi şunlar olabilir:
 
-*   attributiv bzw. appositionell: bei Auflösung des Kompositums bildet das Vorderglied zum Hinterglied eine nähere Bestimmung im selben Kasus (d.h. ausserhalb eines Satzzusammenhangs im Nominativ (⟪प्रथमा⟫), im Satz im syntaktisch geforderten Kasus) <!-- TODO: Fallback translation -->
-*   kasuell: das Vorderglied steht bei der Auflösung der Kompositums in einem anderen Kasus als das Hinterglied (d.h. nicht im Nominativ - ⟪प्रथमा⟫) <!-- TODO: Fallback translation -->
-*   adverbial: das Vorderglied ist ein nicht-deklinierbares Wort <!-- TODO: Fallback translation -->
+*   niteliksel veya appositional: Kompozit çözüldüğünde, ön parça arka parçaya aynı durumda (yani cümle bağlamından bağımsız olarak nominatifte (⟪प्रथमा⟩), cümle içinde ise sentaktik olarak gerekli durumda) daha yakından bir belirleme oluşturur.
+*   kasual: Kompozit çözüldüğünde, ön parça arka parttan farklı bir durumda yer alır (yani nominatifte değil - ⟪प्रथमा⟩)
+*   adverbial: Ön parça değişmez bir kelimedir
 
-Das Kasusverhältnis beider Glieder eines Kompositums ist unabhängig davon, in welchem Kasus das Kompositum steht: das Kompositum ist ja ein einziges deklinierbares Wort: <!-- TODO: Fallback translation -->
+Bir bileşik kelimenin her iki üyesinin hâl ilişkisi, bileşik kelimenin hangi hâlde bulunduğundan bağımsızdır: çünkü bileşik kelime tek bir çekimlenen kelimedir:
 
-z. B. <!-- TODO: Fallback translation -->
+örn.
 
-> Nom. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫   <!-- TODO: Fallback translation -->
-> Akk. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य⟫ ⟪पुरुषम्⟫   <!-- TODO: Fallback translation -->
-> Instr. sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य⟫ ⟪पुरुषेण⟫   <!-- TODO: Fallback translation -->
-> Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य⟫ ⟪पुरुषस्य⟫   <!-- TODO: Fallback translation -->
-> Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫   <!-- TODO: Fallback translation -->
-> usw. <!-- TODO: Fallback translation -->
+> Yal. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫  
+> Bel. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫  
+> Alet. sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫  
+> Yal. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫  
+> Yal. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫  
+> vb.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
+Bir tatpuruṣa bileşik kelimenin cinsiyeti - birkaç istisna dışında - son üyesinin cinsiyetidir.
 
 :::
-## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫ <!-- TODO: Fallback translation -->
+## 15.3. Sıfat olarak / öznelik olarak ön üyeli belirleyici bileşik kelimeler = Karmadhāraya m. = ⟪कर्मधारय⟫
 ::: grammar-box
 
-Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus. <!-- TODO: Fallback translation -->
+Karmadhāraya bileşik kelimesinin çözülmesi durumunda, bileşiğin her iki üyesi de aynı hâlde bulunur.
 
 :::
-z.B. <!-- TODO: Fallback translation -->
+örn.
 
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "ein Sohn mit guten Eigenschaften"  
-Akk. sg. ⟪गुणवत्पुत्रम्⟫  
-Nom pl. ⟪गुणवत्पुत्राः⟫   <!-- TODO: Fallback translation -->
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "güzel özelliklere sahip bir oğul"  
+Bel. sg. ⟪गुणवत्पुत्रम्⟫  
+Yal. pl. ⟪गुणवत्पुत्राः पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती क्षत्रिया⟫ = "faziletli bir Kṣatriya kadını"  
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine verdienstreiche Kṣatriyafrau"   <!-- TODO: Fallback translation -->
+⟪साधुजनाः⟫ = ⟪साधवो जनाः⟫ = "iyi insanlar"  
 
-⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "gute Leute"   <!-- TODO: Fallback translation -->
-
-⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat" <!-- TODO: Fallback translation -->
+⟪इष्टदेवता⟫ = ⟪इष्टा देवता⟫ = "istenen tanrıça = özel bir ibadet ve sığınma ilişkisi kurulan tanrıça"
 
 ::: media
 ![](/images/lekt1501.webp)
-Abb.: ⟪लक्ष्मी⟫
-(Bildquelle: [Details](/licenses#lekt1501)) <!-- TODO: Fallback translation -->
+Resim: ⟪लक्ष्मी⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt1501))
 :::
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
+Bir Karmadhāraya bileşik kelimesindeki üyelerin sıralamasına ilişkin aşağıdaki özel kurala dikkat edilmelidir:
 
-*   drückt ein Karmadhāraya einen VERGLEICH aus, dann steht das, womit verglichen wird, im Hinterglied des Kompositums: <!-- TODO: Fallback translation -->
+*   Bir Karmadhāraya bileşik kelimesi bir KARŞILAŞTIRMA ifade ediyorsa, karşılaştırmanın yapıldığı şey bileşiğin son üyesinde yer alır:
+
+⟪नरसिंहः⟫ = ⟪सिंह इव नरः⟫ = "bir aslan gibi bir adam"  
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र इव पुरुषः⟫ = "bir kaplumbağa gibi bir adam"
+
+*   bir Karmadhāraya belirtme (ardıl elemanın özdevrimle daha yakından belirlenmesi) ifade ederse, daha yakından belirleyen öndeki elemanda yer alır; bu da bir Tatpuruṣa içindeki elemanların sırası için genel kuralın gerektirdiği gibidir:
+
+⟪नरसिंहः⟫ ayrıca şöyle de çözülebilir: ⟪नर एव सिंहः⟫ = "Gerçekte bir insan olan aslan."
+
+Bu tür belirtmeli Karmadhārayalar, yukarıdaki örnekte olduğu gibi yerli yorumlarda ⟪एव⟩ kullanarak çözülür.
 
 :::
-::: indent
-⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ein Mann wie ein Löwe"
-⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger" <!-- TODO: Fallback translation -->
-:::
-
-*   drückt ein Karmadhāraya aber eine Apposition (nähere Bestimmung des Hinterglieds durch ein Substantiv) aus, so steht das näher Bestimmende im Vorderglied, wie es auch die allgemeine Regel für die Reihenfolge für die Glieder in einem Tatpuruṣa fordert: <!-- TODO: Fallback translation -->
-
-::: indent
-⟪नरसिंहः⟫ kann auch aufgelöst werden: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Ein Löwe, der (in Wirklichkeit) ein Mann ist." <!-- TODO: Fallback translation -->
-:::
-
-    Solche appositionelle Karmadhāraya werden in den einheimischen Kommentaren wie im obigen Beispiel mittels ⟪एव⟫ aufgelöst. <!-- TODO: Fallback translation -->
-
 ::: media
 ![](/images/lekt1503.webp)
-Abb.: ⟪नरसिंहः⟫
-(Bildquelle: [Details](/licenses#lekt1503)) <!-- TODO: Fallback translation -->
+Resim: ⟪नरसिंहः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt1503))
 :::
-## 15.4. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn <!-- TODO: Fallback translation -->
+## 15.4. Öndeki elemanı ardıla niteliksel/değişmez bir hal ilişkisi içinde olmayan Determinativkomposita = Dar anlamda Tatpuruṣa
 
 ::: grammar-box
 
-Tatpuruṣaverbindungen sind möglich für Verbindungen von Nomina (Substantive und Adjektive), bei denen das Vorderglied - den Regeln der Syntax entsprechend - in jedem Kasus stehen kann. Erwartungsgemäss vertritt das Vorderglied am häufigsten einen Genetiv (⟪षष्ठी⟫), da dies ja der Kasus ist, um das Verhältnis von Nomina auszudrücken. <!-- TODO: Fallback translation -->
+Tatpuruṣa birleşimleri, öndeki eleman söz dizimi kurallarına uygun olarak her halde bulunabildiği sürece isimler (isimler ve sıfatlar) arasında mümkündür. Beklendiği üzere öndeki eleman en sık genitif (⟪षष्ठी⟩) konumunda bulunur, çünkü bu hal isimler arasındaki ilişkiyi ifade eder.
 
 :::
-z.B. <!-- TODO: Fallback translation -->
+örn.
 
-⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "der Sohn eines Kṣatriya", "ein junger Kṣatriya", "ein  Angehöriger der Gruppe der Kṣatriyas"  
-Akk. sg. ⟪क्षत्रियपुत्रम्⟫  
-Gen. sg. ⟪क्षत्रियपुत्रस्य⟫  
-u.s.w.   <!-- TODO: Fallback translation -->
+⟪क्षत्रियपुत्रः⟩ = ⟪क्षत्रियस्य पुत्रः⟩ = "bir Kṣatriya'nın oğlu", "genç bir Kṣatriya", "Kṣatriyalar grubuna mensup kişi"  
+Akk. sg. ⟪क्षत्रियपुत्रम्⟩  
+Gen. sg. ⟪क्षत्रियपुत्रस्य⟩  
+vb.  
 
-⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "die Natur eines Lehrers" <!-- TODO: Fallback translation -->
+⟪गुरुभावः⟩ =  ⟪गुरोर्भावः⟩  = "bir öğretmenin doğası"
 
-⟪धनलोभः⟫ = ⟪धनस्य⟫  ⟪लोभः⟫ = "Begierde nach Reichtum, Habsucht" <!-- TODO: Fallback translation -->
+⟪धनलोभः⟩ = ⟪धनस्य लोभः⟩ = "zenginlik arzusu, hırs"
 
-⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "der Gang der Welt, das Verhalten der Leute" <!-- TODO: Fallback translation -->
+⟪लोकगतिः⟩ =  ⟪लोकस्य गतिः⟩ = "dünyanın akışı, insanların davranışları"
 
-Fast jedes Genetivverhältnis kann durch ein Tatpuruṣa ersetzt werden. Die Wenigen Ausnahmen siehe z.B. bei Kale, A higher Sanskrit grammar § 211, dort auch die entsprechenden Stellen bei Pāṇini. <!-- TODO: Fallback translation -->
+Neredeyse her genitif ilişki bir Tatpuruṣa ile değiştirilebilir. Nadir istisnalar için bkz. Kale, A higher Sanskrit grammar § 211; orada Pāṇini'deki ilgili yerler de belirtilmiştir.
 
-Das Vorderglied eines Tatpuruṣa kann aber prinzipiell jeden Kasus vertreten. Allerdings können nicht alle syntaktisch möglichen Kasusverhältnisse durch ein Tatpuruṣa ersetzt werden. Die entsprechenden regeln findet man im Zweifelsfall bei Kale, A higher Sanskrit grammar § 203 - 217 bzw. Pāṇini 2,1,22 - 2,2,22. <!-- TODO: Fallback translation -->
+Bir Tatpuruṣa'nın ön bileşeni (Vorglied) prensip olarak herhangi bir hal (Kasus) işlevini üstlenebilir. Ancak, söz dizimsel olarak mümkün olan tüm hal ilişkileri bir Tatpuruṣa ile değiştirilemez. İlgili kurallar için şüphe durumunda Kale, A higher Sanskrit grammar § 203 - 217 veya Pāṇini 2,1,22 - 2,2,22'e başvurulmalıdır.
 
 ::: grammar-box
 
-Das Vorderglied kann bei der Auflösung des Kompositums im Singular, Dual oder Plural stehen. Welche Möglichkeit vorliegt, muss aus Bedeutung und Kontext erschlossen werden. <!-- TODO: Fallback translation -->
+Kompozit çözüldüğünde ön bileşen tekil, ikil veya çoğul olarak bulunabilir. Hangi seçeneğin geçerli olduğu anlam ve bağlamdan çıkarılmalıdır.
 
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
-Das Vorderglied vertritt den Akkusativ (⟪द्वितीया⟫): z.B. bei gewissen PPP zu Verben der Bewegung (Pāṇini 2,1,24): <!-- TODO: Fallback translation -->
+Ön bileşen belirtme halini (⟪द्वितीया⟫) temsil eder: Örneğin, hareket fiillerine ait bazı PPP'lerde (Pāṇini 2,1,24):
 
-⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "einer, der ins Dorf gegangen ist"  
-⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "eine, die in eine Hölle gefallen ist" <!-- TODO: Fallback translation -->
+⟪ग्रामगतः⟫ = ⟪ग्रामं गतः⟫ = "köye giden kişi"  
+⟪नरकपतिता⟫ = ⟪नरकं पतिता⟫ = "bir ceheme düşen kadın"
 
-Das Vorderglied vertritt den Instrumentalis (⟪तृतीया⟫): z.B. häufig der Agens (⟪कर्तृ⟫) von Nominalbildungen mit kṛt-Suffixen (z.B. PPP): <!-- TODO: Fallback translation -->
+Ön bileşen araç halini (⟪तृतीया⟫) temsil eder: Örneğin, sıklıkla kṛt ekleriyle türetilmiş isimlerdeki edimci (⟪कर्तृ⟫) (örn. PPP):
 
-⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "von einem Gott / von Göttern gemacht"  
-Wäre auch auflösbar: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "Tat / Tun eines Gottes / von Göttern ; Gottestat, Göttertat"   <!-- TODO: Fallback translation -->
+⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः कृतम्⟫ = "bir tanrı tarafından / tanrılar tarafından yapılmış"  
+Ayrıca şu şekilde de çözülebilirdi: ⟪देवस्य⟫ / ⟪देवानां कृतम्⟫ = "bir tanrının eylemi / tanrıların eylemi; Tanrıeylemi, Tanrıeylemleri"  
 
-⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "die, die von Buddha behütet wurde" (ein Eigenname) <!-- TODO: Fallback translation -->
+⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन रक्षिता⟫ = "Buddha tarafından korunan kadın" (özel bir isim)
 
-## 15.5. Zerlegung von Komposita (ausser Dvandvas) <!-- TODO: Fallback translation -->
+## 15.5. Kompozitlerin Çözülmesi (Dvandvalar hariç)
 
 ::: grammar-box
-Obwohl im Sanskrit Komposita beliebiger Länge gebildet werden können und auch sehr häufig gebildet werden (Komposita aus 10 bis 30 Gliedern sind keine Seltenheit!), so sind doch - mit Ausnahme der Dvandvas - alle Komposita fortschreitend hierarchisch in je zwei Teile zu zerlegen: <!-- TODO: Fallback translation -->
+Sanskrit'te istenilen uzunlukta kompozitler oluşturulabilir ve bu sıklıkla da yapılır (10 ila 30 bileşenli kompozitler nadir değildir!), ancak Dvandvalar dışındaki tüm kompozitler, hiyerarşik olarak her seferinde iki parçaya ayrılmalıdır:
 
 :::
 ::: media
 ![](/images/lekt1502.jpg)
-Abb.: ⟪समासविच्छेदः⟫
-(Bildquelle: [Details](/licenses#lekt1502)) <!-- TODO: Fallback translation -->
+Resim: ⟪समासविच्छेदः⟫
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt1502))
 :::
-u.s.w. bis man zu den einzelnen Wortstämmen kommt. <!-- TODO: Fallback translation -->
+ve benzeri, tek tek kelime köklerine ulaşılana kadar.
 
-z.B. <!-- TODO: Fallback translation -->
+örn.
 
-⟪गुणवत्पुत्रकृतपुण्यम्⟫ <!-- TODO: Fallback translation -->
+⟪गुणवत्पुत्रकृतपुण्यम्⟫
 
 ::: indent
-1\. Stufe (Hauptzäsur): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫ <!-- TODO: Fallback translation -->
+1\. Aşama (Ana kesim): ⟪गुणवत्पुत्रकृतं ॥१॥ पुण्यम्⟫
 
-2\. Stufe (1. Nebenzäsur): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫ <!-- TODO: Fallback translation -->
+2\. Aşama (1. Yardımcı kesim): ⟪गुणवत्पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्⟫
 
-3\. Stufe (2. Nebenzäsur): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫ <!-- TODO: Fallback translation -->
+3\. Aşama (2. Yardımcı kesim): ⟪गुणवता॥३॥ पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्⟫
 
-= "die verdienstvolle Tat (das Verdienst), die mein tugendhafter Sohn getan hat" <!-- TODO: Fallback translation -->
+= "faziletli oğlumun yaptığı eylem (iyilik), yani faziletli olan eylem"
 :::
-Dabei können verschiedene Arten von Komposita gemischt werden, z.B. Vorderglied: Bahuvrīhi (⟪बहुव्रीहि⟫) - Hinterglied: Tatpuruṣa usw. <!-- TODO: Fallback translation -->
+Bu aşamada farklı bileşik türleri karıştırılabilir, örn. Ön bileşen: Bahuvrīhi (⟪बहुव्रीहि⟫) - Arka bileşen: Tatpuruṣa vb.
 
-z.B. <!-- TODO: Fallback translation -->
+örn.
 
-⟪ब्राह्मणक्षत्रियवैश्यधर्मः⟫ <!-- TODO: Fallback translation -->
+⟪ब्राह्मणक्षत्रियवैश्यधर्मः⟫
 
 ::: indent
-1\. Stufe: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (Vorderglied: Itaretaradvandva) <!-- TODO: Fallback translation -->
+1\. Aşama: ⟪ब्राह्मणक्षत्रियवैश्यानां धर्मः⟫ (Ön bileşen: Itaretaradvandva)
 
-2\. Stufe: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫ <!-- TODO: Fallback translation -->
+2\. Aşama: ⟪ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः⟫
 
-= "der Dharma von Brahmanen, Kṣatriyas und Vaiśyas" <!-- TODO: Fallback translation -->
+= "Brahmanlar, Kṣatriyalar ve Vaiśyaların dharma'sı"
 :::
-Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen. <!-- TODO: Fallback translation -->
+Bir bileşik için genellikle çözümün farklı yolları vardır. Hangisinin doğru veya en azından en iyi olduğu, yalnızca metnin bağlamı ve içeriği üzerinden karar verilebilir. Bazen bu tür bir karar vermek mümkün değildir. Sıklıkla iki çözüm yolu da yazar tarafından kastedilmiş olabilir. Bu durumda çeviride her iki çözüm yolu da ("ve", "veya" veya "bzw." gibi bağlaçlarla) yansıtılmalıdır.
 
-z.B. <!-- TODO: Fallback translation -->
+örn.
 
-⟪पुण्यवत्पुत्रकृतम्⟫ <!-- TODO: Fallback translation -->
+⟪पुण्यवत्पुत्रकृतम्⟫
 
 ::: indent
-1\. Stufe: entweder - oder <!-- TODO: Fallback translation -->
+1\. Aşama: ya da - veya
 
-1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫ <!-- TODO: Fallback translation -->
-2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫ <!-- TODO: Fallback translation -->
-3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫ <!-- TODO: Fallback translation -->
+1. ⟪पुण्यवत्पुत्रेण कृतम्⟫
+2. ⟪पुण्यवत्पुत्रस्य कृतम्⟫
+3. ⟪पुण्यवत् पुत्रकृतम्⟫
 
-2\. Stufe: entsprechend <!-- TODO: Fallback translation -->
+2\. Aşama: buna uygun olarak
 
-1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "das von meinem verdienstreichen Sohn Getane" <!-- TODO: Fallback translation -->
-2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "die Tat meines verdienstreichen Sohnes" <!-- TODO: Fallback translation -->
-3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "das verdienstvolle, von meinem Sohn Getane" <!-- TODO: Fallback translation -->
-   2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "die verdienstvolle Tat meines Sohnes" <!-- TODO: Fallback translation -->
+1. ⟪पुण्यवता पुत्रेण कृतम्⟫ = "benim faziletli oğlum tarafından yapılan"
+2. ⟪पुण्यवतः पुत्रस्य कृतम्⟫ = "faziletli oğlumun eylemi"
+3. 1. ⟪पुण्यवत् पुत्रेण कृतम्⟫ = "oğlum tarafından yapılan, faziletli olan"
+2. ⟪पुण्यवत् पुत्रस्य कृतम्⟫ = "oğlumun faziletli eylemi"
 :::
-## 15.6. Die Form des Vorderglieds in Komposita (⟪समास⟫ m.) <!-- TODO: Fallback translation -->
+## 15.6. Kompozitlerde ön bileşenin biçimi (⟪समास⟫ m.)
 ::: grammar-box
 
-In allen Arten von Komposita ist das Vorderglied in der Regel der unveränderte Wortstamm. Zweistämmige Nomina stehen im schwachen Stamm. Feminine Adjektive, die ein folgendes Glied im Kompositum näher bestimmen, stehen im Allgemeinen in maskulinen Stamm: <!-- TODO: Fallback translation -->
+Tüm kompozit türlerinde ön bileşen genellikle değişmeyen kelime köküdür. İki köklü isimler zayıf kökte yer alır. Takip eden bileşeni kompozit içinde daha yakından belirten dişil sıfatlar genel olarak erkek kökte yer alır:
 
-z.B. <!-- TODO: Fallback translation -->
+örn.
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine Kṣatriyafrau, die Verdienst besitzt"  
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "ein Sohn mit guten Eigenschaften" <!-- TODO: Fallback translation -->
+⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती क्षत्रिया⟫ = "fazilet sahibi bir Kṣatriya kadını"  
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान् पुत्रः⟫ = "iyi özelliklere sahip bir oğul"
 
 :::
-## 15.7. Einteilung der ⟪तत्पुरुष⟫ <!-- TODO: Fallback translation -->
+## 15.7. ⟪तत्पुरुष⟫ sınıflandırması
 
-1.  ⟪प्रथमातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Nominativ (⟪प्रथमा⟫) <!-- TODO: Fallback translation -->
-2.  ⟪द्वितीयातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Akkusativ (⟪द्वितीया⟫) <!-- TODO: Fallback translation -->
-3.  ⟪तृतीयातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Instrumentalis (⟪तृतीया⟫) <!-- TODO: Fallback translation -->
-4.  ⟪चतुर्थीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Dativ (⟪चतुर्थी⟫) <!-- TODO: Fallback translation -->
-5.  ⟪पञ्चमीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Ablativ (⟪पज्चमी⟫) <!-- TODO: Fallback translation -->
-6.  ⟪षष्ठीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Genetiv (⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
-7.  ⟪सप्तमीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Lokativ (⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
+1. ⟪प्रथमातत्पुरुषः⟫ : Ön bileşen ⟪विग्रहवाक्य⟫ içinde Yalın halde (⟪प्रथमा⟫) yer alır
+2. ⟪द्वितीयातत्पुरुषः⟫ : Ön bileşen ⟪विग्रहवाक्य⟫ içinde Belirtmeli halde (⟪द्वितीया⟫) yer alır
+3. ⟪तृतीयातत्पुरुषः⟫ : Ön bileşen ⟪विग्रहवाक्य⟫ içinde Alet halde (⟪तृतीया⟫) yer alır
+4. ⟪चतुर्थीतत्पुरुषः⟫ : Ön bileşen ⟪विग्रहवाक्य⟫ içinde Yönelme halde (⟪चतुर्थी⟫) yer alır
+5. ⟪पञ्चमीतत्पुरुषः⟫ : Ön bileşen ⟪विग्रहवाक्य⟫ içinde Ayrılma halde (⟪पज्चमी⟫) yer alır
+6. ⟪षष्ठीतत्पुरुषः⟫ : Ön bileşen ⟪विग्रहवाक्य⟫ içinde Tamlayan halde (⟪षष्ठी⟫) yer alır
+7. ⟪सप्तमीतत्पुरुषः⟫ : Ön bileşen ⟪विग्रहवाक्य⟫ içinde Bulunma halde (⟪सप्तमी⟫) yer alır
 
-*   ⟪कर्मधारयः⟫ : appositioneller Tatpuruṣa, u.a.: <!-- TODO: Fallback translation -->
-    *   ⟪उपमानपूर्वपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪इव⟫ nach erstem Glied <!-- TODO: Fallback translation -->
-    *   ⟪उपमानोत्तरपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪इव⟫ nach zweitem Glied <!-- TODO: Fallback translation -->
-    *   ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪एव⟫ <!-- TODO: Fallback translation -->
-    *   ⟪द्विगुसमासः⟫ : Zahlwort im Vorderglied <!-- TODO: Fallback translation -->
-*   ⟪नञ्तत्पुरुषः⟫ (⟪निषेधतत्पुरुषः⟫) : mit Verneinung a-, an- im Vorderglied <!-- TODO: Fallback translation -->
-*   ⟪गतिसमासः⟫ : mit Präposition im Vorderglied <!-- TODO: Fallback translation -->
-*   ⟪प्रथमातत्पुरुषः⟫ u.s.w. (siehe oben) <!-- TODO: Fallback translation -->
+* ⟪कर्मधारयः⟫ : Appozisyonel Tatpuruṣa, örn.:
+* ⟪उपमानपूर्वपदकर्मधारयः⟫ : İlk bileşenden sonra ⟪इव⟫ ile ⟪विग्रहवाक्य⟫
+* ⟪उपमानोत्तरपदकर्मधारयः⟫ : İkinci bileşenden sonra ⟪इव⟫ ile ⟪विग्रहवाक्य⟫
+* ⟪रूपकसमासः⟫ : ⟪एव⟫ ile ⟪विग्रहवाक्य⟫
+* ⟪द्विगुसमासः⟫ : Ön bileşende sayı sözcüğü
+* ⟪नञ्तत्पुरुषः⟫ (⟪निषेधतत्पुरुषः⟫) : Ön bileşende a-, an- olumsuzluğu ile
+* ⟪गतिसमासः⟫ : Ön bileşende edat ile
+* ⟪प्रथमातत्पुरुषः⟫ vb. (yukarıya bakınız)
 
-### 15.7.1. Einteilung der ⟪कर्मधारय⟫ <!-- TODO: Fallback translation -->
+### 15.7.1. ⟪कर्मधारय⟫'ın Sınıflandırılması
 
-1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : Vorderglied ist Adjektiv (⟪विशेषण⟫) <!-- TODO: Fallback translation -->
-2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : beide Glieder sind Adjektive, hierher gehören auch Adjektive, die einen Zeitablauf ausdrücken: "zuerst gebadet, dann gesalbt" <!-- TODO: Fallback translation -->
-3.  ⟪उपमानपूर्वपदकर्मधारयः⟫ (=  ⟪उपमासमासः⟫): im Vorderglied Vergleich, im Hinterglied verglichene Eigenschaft: z.B. "schön wie ein Lotus" <!-- TODO: Fallback translation -->
-4.  ⟪उपमानोत्तरपदकर्मधारयः⟫ (=  ⟪उपमितसमासः⟫):  Vergleich im Hinterglied <!-- TODO: Fallback translation -->
-5.  ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪एव⟫ nach Vorderglied (Metapher) <!-- TODO: Fallback translation -->
-6.  ⟪संभावनपूर्वपदकर्मधारयः⟫ : beide Glieder Glieder beziehen sich auf selbe Person oder Sache, z.B. ⟪कालिदासकविः⟫ = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ = "der Dichter Kālidāsa" <!-- TODO: Fallback translation -->
-7.  ⟪कर्मधारयः⟫ mit ⟪कु⟫ / ⟪कद्⟫ als Vorderglied: "schlecht..." <!-- TODO: Fallback translation -->
-8.  ⟪कर्मधारयः⟫ mit ⟪किम्⟫ als Vorderglied: Tadel <!-- TODO: Fallback translation -->
-9.  PPP + negiertes PPP: "teilweise", z.B. ⟪कृताकृतम्⟫ = "teilweise getan" <!-- TODO: Fallback translation -->
-10.  ⟪द्विगुसमासः⟫ : Zahlwort im Vorderglied <!-- TODO: Fallback translation -->
+1. ⟪विशेषणपूर्वपदकर्मधारयः⟫ : Ön bileşen sıfat (⟪विशेषण⟫)
+2. ⟪विशेषणोभयपदकर्मधारयः⟫ : Her iki bileşen sıfat olup, burada zaman akışını ifade eden sıfatlar da yer alır: "önce yıkanmış, sonra yağlanmış"
+3. ⟪उपमानपूर्वपदकर्मधारयः⟫ (= ⟪उपमासमासः⟫): Ön bileşende karşılaştırma, arka bileşende karşılaştırılan özellik: örn. "lotus gibi güzel"
+4. ⟪उपमानोत्तरपदकर्मधारयः⟫ (= ⟪उपमितसमासः⟫): Arka bileşende karşılaştırma
+5. ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ ile ⟪एव⟫ ön bileşenden sonra (metafor)
+6. ⟪संभावनपूर्वपदकर्मधारयः⟫ : Her iki bileşen aynı kişi veya şeye işaret eder, örn. ⟪कालिदासकविः⟫ = ⟪कालिदास इति कविः⟫ = "şair Kālidāsa"
+7. ⟪कर्मधारयः⟫ ile ⟪कु⟫ / ⟪कद्⟫ ön bileşen olarak: "kötü..."
+8. ⟪कर्मधारयः⟫ ile ⟪किम्⟫ ön bileşen olarak: Eleştiri
+9. PPP + olumsuzlanmış PPP: "kısmen", örn. ⟪कृताकृतम्⟫ = "kısmen yapılmış"
+10. ⟪द्विगुसमासः⟫ : Ön bileşende sayı sözcüğü
 
-## 15.8. Wortliste <!-- TODO: Fallback translation -->
+## 15.8. Kelime Listesi
 
-⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich <!-- TODO: Fallback translation -->
+⟪पुष्कल⟫ 3: muhteşem, görkemli, bolca
 
-⟪वा⟫ : oder (nachgestellt) <!-- TODO: Fallback translation -->
+⟪वा⟫ : veya (sonradan eklenmiş)
 
-⟪अथवा⟫ : oder (vorangestellt) <!-- TODO: Fallback translation -->
+⟪अथवा⟫ : veya (önceden eklenmiş)
 
-⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter <!-- TODO: Fallback translation -->
+⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): dördüncü
 
-⟪विद्⟫ "finden" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त⟫ <!-- TODO: Fallback translation -->
+⟪विद्⟫ "bulmak" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त विद्⟫ "bilmek" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित पत्⟫ "uçmak, düşmek" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित अर्ध⟫ 3: yarım, m.n. Yarım
 
-⟪विद्⟫ "wissen" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित⟫ <!-- TODO: Fallback translation -->
-
-⟪पत्⟫ "fliegen, fallen" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫ <!-- TODO: Fallback translation -->
-
-⟪अर्ध⟫ 3: halb, m.n. Hälfte <!-- TODO: Fallback translation -->
-
-⟪पूजा⟫ f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā) <!-- TODO: Fallback translation -->
+⟪पूजा⟫ f.: Onur, saygılı karşılama, dini ibadet (Pūjā)
 ::: media
 ![](/images/lekt1504.webp)
-Abb.: ⟪पूजा⟫
-(Bildquelle: [Details](/licenses#lekt1504)) <!-- TODO: Fallback translation -->
+Alb.: ⟪पूजा⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt1504))
 :::
-⟪कुल⟫ n.: Herde, Menge, Geschlecht, Abstammung, Familie <!-- TODO: Fallback translation -->
+⟪कुल⟫ n.: Sürü, kalabalık, soy, köken, aile
 
-⟪इन्द्र⟫ m.: Fürst, Erster, Bester unter ; Götterkönig Indra <!-- TODO: Fallback translation -->
+⟪इन्द्र⟫ m.: Prens, Birinci, En İyi ; Tanrılar Kralı İndra
 ::: media
 ![](/images/lekt1505.webp)
-Abb.: ⟪इन्द्रः⟫
-(Bildquelle: [Details](/licenses#lekt1505)) <!-- TODO: Fallback translation -->
+Resim: ⟪इन्द्रः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt1505))
 :::
-⟪दास⟫ m.: Sklave, Leibeigener, Diener <!-- TODO: Fallback translation -->
+⟪दास⟫ m.: Köle, Serf, Hizmetçi
 
-⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin <!-- TODO: Fallback translation -->
+⟪दासी⟫ f.: Köle, Serf, Hizmetçi
 
-⟪काल⟫ m.: Zeit, (rechter) Zeitpunkt ; Schicksal, Tod ; Todesgott Kāla <!-- TODO: Fallback translation -->
+⟪काल⟫ m.: Zaman, (doğru) An ; Kader, Ölüm ; Ölümlü Tanrı Kāla
 
-⟪काल⟫ 3: schwarz, blauschwarz, dunkel <!-- TODO: Fallback translation -->
+⟪काल⟫ 3: siyah, mavi-siyah, karanlık
 
-⟪पुरुष⟫ m.: Mensch, Mann, Knecht <!-- TODO: Fallback translation -->
+⟪पुरुष⟫ m.: İnsan, Erkek, Köle
 
-\-⟪जन⟫ als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals <!-- TODO: Fallback translation -->
+\-⟪जन⟫ ikinci bileşen olarak Tatpuruṣa'da çoğul ifadesi sıklıkla
 
-⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loben, preisen <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Geç. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : övmek, methetmek
 
-davon: <!-- TODO: Fallback translation -->
+bundan:
 
 ::: indent
-⟪स्तुति⟫ f.: Lobpreis, Loblied <!-- TODO: Fallback translation -->
+⟪स्तुति⟫ f.: Övgü, Methiye
 
-⟪स्तोत्र⟫ n.: (Mittel zum Preisen =) Loblied, Hymnus <!-- TODO: Fallback translation -->
+⟪स्तोत्र⟫ n.: (Övme aracı =) Methiye, Hymn
 :::
-⟪सिंह⟫ m.: Löwe (_Panthera leo persica_) <!-- TODO: Fallback translation -->
+⟪सिंह⟫ m.: Aslan (_Panthera leo persica_)
 ::: media
 ![](/images/lekt1506.webp)
-Abb.: ⟪सिंहः⟫
-(Bildquelle: [Details](/licenses#lekt1506)) <!-- TODO: Fallback translation -->
+Resim: ⟪सिंहः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt1506))
 :::
-⟪व्याघ्र⟫ m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner) <!-- TODO: Fallback translation -->
+⟪व्याघ्र⟫ m.: Kaplan (_Panthera tigris tigris_) (kelimenin tam anlamıyla: Gähner)
 ::: media
 ![](/images/lekt1507.webp)
-Abb.: ⟪व्याघ्रः⟫
-(Bildquelle: [Details](/licenses#lekt1507)) <!-- TODO: Fallback translation -->
+Resim: ⟪व्याघ्रः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt1507))
 :::
-⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann" <!-- TODO: Fallback translation -->
+⟪इव⟫ (sonradan eklenmiş): sanki, gibi (benzetmelerde: ⟪व्याघ्र इव पुरुषः⟫ = "bir adam gibi bir kaplan", "kaplan benzeri bir adam"
 
-⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `\<!\>`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt" <!-- TODO: Fallback translation -->
+⟪एव⟫ (sonradan eklenmiş): öndekini vurgular, Almançada genellikle vurguya karşılık gelir, bir tür emoticon `\&lt;!\&gt;`, örn. ⟪सत्यमेव जयति⟫ "yalnızca gerçek kazanır", "tam da gerçek kazanır", "gerçek kazanır"
 
-⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling) <!-- TODO: Fallback translation -->
+⟪अरि⟫ m.: Düşman (Thieme'ye göre, Ṛgveda'da Yabancı: orijinal olarak = yabancı)
 
 ::: indent
-⟪आर्य⟫ 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann <!-- TODO: Fallback translation -->
+⟪आर्य⟫ 3: Arya, soylu ; m. Aryan (Sanskritçe konuşan eski Hintlilerin öz adlandırması, kelimenin tam anlamıyla: Misafirperver (Thieme)) ; Soylu, Onurlu Adam
 :::
-zu ⟪जन्⟫ <!-- TODO: Fallback translation -->
+⟪जन्⟫ için
 
 ::: indent
-⟪जाति⟫ f.: Geburt, Art, Kaste (zu ⟪जाति⟫ als Kaste siehe Basham, Wonder, S. 148ff.) <!-- TODO: Fallback translation -->
+⟪जाति⟫ f.: doğum, tür, kaste (kaste olarak ⟪जाति⟫ için bkz. Basham, Wonder, s. 148ff.)
 :::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterben (nach indischen Grammatikern: 6 Ā) <!-- TODO: Fallback translation -->
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : ölmek (Hint dilbilimcilere göre: 6 Ā)
 
-davon: <!-- TODO: Fallback translation -->
+bundan:
 
 ::: indent
-⟪मरण⟫ n.: Sterben, Tod <!-- TODO: Fallback translation -->
+⟪मरण⟫ n.: ölme, ölü
 
-⟪मृति⟫ f.: Sterben, Tod <!-- TODO: Fallback translation -->
+⟪मृति⟫ f.: ölme, ölü
 
-⟪मृत्यु⟫ m.: Tod ; personifiziert: Todesgott <!-- TODO: Fallback translation -->
+⟪मृत्यु⟫ m.: ölüm ; kişileştirilmiş: ölüm tanrısı
 :::
-## 15.9. Übung 1 <!-- TODO: Fallback translation -->
+## 15.9. Alıştırma 1
 
-Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine deutsche Übersetzung. Geben Sie jeweils alle Auflösungen und Übersetzungen, die Ihnen möglich erscheinen. Geben Sie auch an, um welchen Kasus und welche Zahl es sich beim Gesamtkompositum handelt. <!-- TODO: Fallback translation -->
+Aşağıdaki Tatpuruṣa bileşiklerini Sanskritçe olarak çözün ve bir Almanca çeviri verin. Mümkün gördüğünüz tüm çözümleri ve çevirileri belirtin. Ayrıca genel bileşiğin hangi hal (kasus) ve sayıda olduğunu da belirtin.
 
-⟪१⟫. ⟪देवेन्द्रस्य⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪देवेन्द्रस्य २⟫. ⟪दुःखदग्धा ३⟫. ⟪मोक्षधर्मः ४⟫. ⟪अन्नजातानि ५⟫. ⟪गृहकरणम् ६⟫. ⟪शूद्रकृतेन ७⟫. ⟪ईश्वरपूजा ८⟫. ⟪देवेश्वरः ९⟫. ⟪क्षत्रिययज्ञम् १०⟫. ⟪वैश्यभावेन ११⟫. ⟪देवगुरोः १२⟫. ⟪धनलोभः १३⟫. ⟪गृहदासी १४⟫. ⟪दुःखमोहः १५⟫. ⟪ग्रामेश्वरम् १६⟫. ⟪नगरजनाः १७⟫. ⟪यज्ञकालस्य १८⟫. ⟪देवगृहाणि १९⟫. ⟪देवपुत्राणाम् २०⟫. ⟪पश्विष्टिः २१⟫. ⟪स्मृत्युक्तम् २२⟫. ⟪गुरुगृहम् २३⟫. ⟪सोमयज्ञेन २४⟫. ⟪स्वर्गगताः २५⟫. ⟪सुखप्रश्नम् २६⟫. ⟪पशुधर्मः २७⟫. ⟪स्वर्गलोकः २८⟫. ⟪ऋषियज्ञैः २९⟫. ⟪तत्कालम् ३०⟫. ⟪सत्यवदनम्⟫
 
-⟪२⟫. ⟪दुःखदग्धा⟫ <!-- TODO: Fallback translation -->
+## 15.10. Alıştırma 2
 
-⟪३⟫. ⟪मोक्षधर्मः⟫ <!-- TODO: Fallback translation -->
+Alıştırma 1'deki gibi aşağıdaki Tatpuruṣa bileşiklerini çözün:
 
-⟪४⟫. ⟪अन्नजातानि⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪देवतागृहम् २⟫. ⟪देवीस्तोत्रम् ३⟫. ⟪ब्राह्मणगृहम् ४⟫. ⟪वैश्यापुत्राः ५⟫. ⟪शूद्रधर्मः ६⟫. ⟪अग्निगृहम् ७⟫. ⟪साधुगता ८⟫. ⟪सत्यवचनेन ९⟫. ⟪धर्मयज्ञानाम् १०⟫. ⟪सत्यधर्मः ११⟫. ⟪अनृतवदनस्य १२⟫. ⟪देवीदासः⟫
 
-⟪५⟫. ⟪गृहकरणम्⟫ <!-- TODO: Fallback translation -->
-
-⟪६⟫. ⟪शूद्रकृतेन⟫ <!-- TODO: Fallback translation -->
-
-⟪७⟫. ⟪ईश्वरपूजा⟫ <!-- TODO: Fallback translation -->
-
-⟪८⟫. ⟪देवेश्वरः⟫ <!-- TODO: Fallback translation -->
-
-⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ <!-- TODO: Fallback translation -->
-
-⟪१०⟫. ⟪वैश्यभावेन⟫ <!-- TODO: Fallback translation -->
-
-⟪११⟫. ⟪देवगुरोः⟫ <!-- TODO: Fallback translation -->
-
-⟪१२⟫. ⟪धनलोभः⟫ <!-- TODO: Fallback translation -->
-
-⟪१३⟫. ⟪गृहदासी⟫ <!-- TODO: Fallback translation -->
-
-⟪१४⟫. ⟪दुःखमोहः⟫ <!-- TODO: Fallback translation -->
-
-⟪१५⟫. ⟪ग्रामेश्वरम्⟫ <!-- TODO: Fallback translation -->
-
-⟪१६⟫. ⟪नगरजनाः⟫ <!-- TODO: Fallback translation -->
-
-⟪१७⟫. ⟪यज्ञकालस्य⟫ <!-- TODO: Fallback translation -->
-
-⟪१८⟫. ⟪देवगृहाणि⟫ <!-- TODO: Fallback translation -->
-
-⟪१९⟫. ⟪देवपुत्राणाम्⟫ <!-- TODO: Fallback translation -->
-
-⟪२०⟫. ⟪पश्विष्टिः⟫ <!-- TODO: Fallback translation -->
-
-⟪२१⟫. ⟪स्मृत्युक्तम्⟫ <!-- TODO: Fallback translation -->
-
-⟪२२⟫. ⟪गुरुगृहम्⟫ <!-- TODO: Fallback translation -->
-
-⟪२३⟫. ⟪सोमयज्ञेन⟫ <!-- TODO: Fallback translation -->
-
-⟪२४⟫. ⟪स्वर्गगताः⟫ <!-- TODO: Fallback translation -->
-
-⟪२५⟫. ⟪सुखप्रश्नम्⟫ <!-- TODO: Fallback translation -->
-
-⟪२६⟫. ⟪पशुधर्मः⟫ <!-- TODO: Fallback translation -->
-
-⟪२७⟫. ⟪स्वर्गलोकः⟫ <!-- TODO: Fallback translation -->
-
-⟪२८⟫. ⟪ऋषियज्ञैः⟫ <!-- TODO: Fallback translation -->
-
-⟪२९⟫. ⟪तत्कालम्⟫ <!-- TODO: Fallback translation -->
-
-⟪३०⟫. ⟪सत्यवदनम्⟫ <!-- TODO: Fallback translation -->
-
-## 15.10. Übung 2 <!-- TODO: Fallback translation -->
-
-Lösen Sie wie bei Übung 1 folgende Tatpuruṣa auf: <!-- TODO: Fallback translation -->
-
-⟪१⟫. ⟪देवतागृहम्⟫ <!-- TODO: Fallback translation -->
-
-⟪२⟫. ⟪देवीस्तोत्रम्⟫ <!-- TODO: Fallback translation -->
-
-⟪३⟫. ⟪ब्राह्मणगृहम्⟫ <!-- TODO: Fallback translation -->
-
-⟪४⟫. ⟪वैश्यापुत्राः⟫ <!-- TODO: Fallback translation -->
-
-⟪५⟫. ⟪शूद्रधर्मः⟫ <!-- TODO: Fallback translation -->
-
-⟪६⟫. ⟪अग्निगृहम्⟫ <!-- TODO: Fallback translation -->
-
-⟪७⟫. ⟪साधुगता⟫ <!-- TODO: Fallback translation -->
-
-⟪८⟫. ⟪सत्यवचनेन⟫ <!-- TODO: Fallback translation -->
-
-⟪९⟫. ⟪धर्मयज्ञानाम्⟫ <!-- TODO: Fallback translation -->
-
-⟪१०⟫. ⟪सत्यधर्मः⟫ <!-- TODO: Fallback translation -->
-
-⟪११⟫. ⟪अनृतवदनस्य⟫ <!-- TODO: Fallback translation -->
-
-⟪१२⟫. ⟪देवीदासः⟫ <!-- TODO: Fallback translation -->
-
-⟪१३⟫. ⟪द्विजदासान्⟫ <!-- TODO: Fallback translation -->
-
-⟪१४⟫. ⟪अग्निदग्धम्⟫ <!-- TODO: Fallback translation -->
-
-⟪१५⟫. ⟪साधुवादः⟫ <!-- TODO: Fallback translation -->
-
-⟪१६⟫. ⟪बालमृगः⟫ <!-- TODO: Fallback translation -->
-
-⟪१७⟫. ⟪धनसर्गः⟫ <!-- TODO: Fallback translation -->
-
-⟪१८⟫. ⟪अन्नद्वेषम्⟫ <!-- TODO: Fallback translation -->
-
-⟪१९⟫. ⟪देवदेवम्⟫ <!-- TODO: Fallback translation -->
-
-⟪२०⟫. ⟪देवप्रश्नेन⟫ <!-- TODO: Fallback translation -->
-
-⟪२१⟫. ⟪गृहजनानाम्⟫ <!-- TODO: Fallback translation -->
-
-⟪२२⟫. ⟪गुरुपूजायाः⟫ <!-- TODO: Fallback translation -->
-
-⟪२३⟫. ⟪गुरुगतैः⟫ <!-- TODO: Fallback translation -->
-
-⟪२४⟫. ⟪स्वर्गमार्गेण⟫ <!-- TODO: Fallback translation -->
-
-⟪२५⟫. ⟪नरकदेवतया⟫ <!-- TODO: Fallback translation -->
-
-⟪२६⟫. ⟪गृहेश्वरः⟫ <!-- TODO: Fallback translation -->
-
-⟪२७⟫. ⟪ग्रामधर्मः⟫ <!-- TODO: Fallback translation -->
-
-⟪२८⟫. ⟪देवीपूजाम्⟫ <!-- TODO: Fallback translation -->
-
-⟪२९⟫. ⟪देवदर्शनम्⟫ <!-- TODO: Fallback translation -->
-
-⟪३०⟫. ⟪देवपादान्⟫ <!-- TODO: Fallback translation -->
-
-⟪३१⟫. ⟪धनजाता⟫ <!-- TODO: Fallback translation -->
-
-⟪३२⟫. ⟪बालभावेन⟫ <!-- TODO: Fallback translation -->
-
-⟪३३⟫. ⟪लोकगुरोः⟫ <!-- TODO: Fallback translation -->
-
-⟪३४⟫. ⟪देवपुत्रः⟫ <!-- TODO: Fallback translation -->
-
-⟪३५⟫. ⟪देवमार्गम्⟫ <!-- TODO: Fallback translation -->
-
-⟪३६⟫. ⟪स्वर्गसुखम्⟫ <!-- TODO: Fallback translation -->
-
-⟪३७⟫. ⟪सोमसुतिः⟫ <!-- TODO: Fallback translation -->
-
-⟪३८⟫. ⟪देवपूजायाः⟫ <!-- TODO: Fallback translation -->
-
-⟪३९⟫. ⟪लोकधर्मेण⟫ <!-- TODO: Fallback translation -->
-
-⟪४०⟫. ⟪देवजनाः⟫ <!-- TODO: Fallback translation -->
-
-⟪४१⟫. ⟪पापलोकः⟫ <!-- TODO: Fallback translation -->
-
-⟪४२⟫. ⟪पुण्यफलानि⟫ <!-- TODO: Fallback translation -->
-
-⟪४३⟫. ⟪सत्यवादः⟫ <!-- TODO: Fallback translation -->
-
-⟪४४⟫. ⟪ऋषिपुत्रः⟫ <!-- TODO: Fallback translation -->
-
-⟪४५⟫. ⟪पुत्रपुत्राः⟫ <!-- TODO: Fallback translation -->
-
-⟪४६⟫. ⟪धर्मवादः⟫ <!-- TODO: Fallback translation -->
-
-⟪४७⟫. ⟪देवलोकम्⟫ <!-- TODO: Fallback translation -->
-
-⟪४८⟫. ⟪यज्ञेश्वरः⟫ <!-- TODO: Fallback translation -->
-
-⟪४९⟫. ⟪ग्रामदेवता⟫ <!-- TODO: Fallback translation -->
-
-⟪५०⟫. ⟪दुःखलोकः⟫ <!-- TODO: Fallback translation -->
-
-⟪५१⟫. ⟪देवशत्रुणा⟫ <!-- TODO: Fallback translation -->
-
-⟪५२⟫. ⟪क्षत्रियधर्मः⟫ <!-- TODO: Fallback translation -->
-
-⟪५३⟫. ⟪द्विजेन्द्रः⟫ <!-- TODO: Fallback translation -->
-
-⟪५४⟫. ⟪अग्निकृतम्⟫ <!-- TODO: Fallback translation -->
-
-⟪५५⟫. ⟪साधूक्तानि⟫ <!-- TODO: Fallback translation -->
-
-⟪५६⟫. ⟪ब्राह्मणभावेन⟫ <!-- TODO: Fallback translation -->
-
-⟪५७⟫. ⟪देवधर्मः⟫ <!-- TODO: Fallback translation -->
-
-⟪५८⟫. ⟪गृहदेवता⟫ <!-- TODO: Fallback translation -->
-
-⟪५९⟫. ⟪कारुकुशीलवकृतम्⟫ <!-- TODO: Fallback translation -->
-
-⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫ <!-- TODO: Fallback translation -->
+⟪१३⟫. ⟪द्विजदासान् १४⟫. ⟪अग्निदग्धम् १५⟫. ⟪साधुवादः १६⟫. ⟪बालमृगः १७⟫. ⟪धनसर्गः १८⟫. ⟪अन्नद्वेषम् १९⟫. ⟪देवदेवम् २०⟫. ⟪देवप्रश्नेन २१⟫. ⟪गृहजनानाम् २२⟫. ⟪गुरुपूजायाः २३⟫. ⟪गुरुगतैः २४⟫. ⟪स्वर्गमार्गेण २५⟫. ⟪नरकदेवतया २६⟫. ⟪गृहेश्वरः २७⟫. ⟪ग्रामधर्मः २८⟫. ⟪देवीपूजाम् २९⟫. ⟪देवदर्शनम् ३०⟫. ⟪देवपादान् ३१⟫. ⟪धनजाता ३२⟫. ⟪बालभावेन ३३⟫. ⟪लोकगुरोः ३४⟫. ⟪देवपुत्रः ३५⟫. ⟪देवमार्गम् ३६⟫. ⟪स्वर्गसुखम् ३७⟫. ⟪सोमसुतिः ३८⟫. ⟪देवपूजायाः ३९⟫. ⟪लोकधर्मेण ४०⟫. ⟪देवजनाः ४१⟫. ⟪पापलोकः ४२⟫. ⟪पुण्यफलानि ४३⟫. ⟪सत्यवादः ४४⟫. ⟪ऋषिपुत्रः ४५⟫. ⟪पुत्रपुत्राः ४६⟫. ⟪धर्मवादः ४७⟫. ⟪देवलोकम् ४८⟫. ⟪यज्ञेश्वरः ४९⟫. ⟪ग्रामदेवता ५०⟫. ⟪दुःखलोकः ५१⟫. ⟪देवशत्रुणा ५२⟫. ⟪क्षत्रियधर्मः ५३⟫. ⟪द्विजेन्द्रः ५४⟫. ⟪अग्निकृतम् ५५⟫. ⟪साधूक्तानि ५६⟫. ⟪ब्राह्मणभावेन ५७⟫. ⟪देवधर्मः ५८⟫. ⟪गृहदेवता ५९⟫. ⟪कारुकुशीलवकृतम् ६०⟫. ⟪द्विजातिशुश्रूषया⟫
 ::: media
 ![](/images/lekt1508.webp)
-Abb.: ⟪ग्रामदेवता⟫
-(Bildquelle: [Details](/licenses#lekt1508)) <!-- TODO: Fallback translation -->
+Resim: ⟪ग्रामदेवता⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt1508))
 :::
-## 15.11. Übung 3 <!-- TODO: Fallback translation -->
+## 15.11. Alıştırma 3
 
-A) Übersetzen Sie das Sprichwort zu Beginn der Lektion <!-- TODO: Fallback translation -->
+A) Dersin başındaki atasözünü çevirin.
 
-B) Lösen Sie folgende Tatpuruṣa auf: <!-- TODO: Fallback translation -->
+B) Aşağıdaki Tatpuruṣa bileşiklerini çözün:
 
-⟪१⟫. ⟪बलकृतः⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪बलकृतः २⟫. ⟪बालधनस्य ३⟫. ⟪नरककाकम् ४⟫. ⟪लोकगुरोः ५⟫. ⟪जलेश्वरेण ६⟫. ⟪जनपानम् ७⟫. ⟪वाक्यसारथीन् ८⟫. ⟪गुणवचनानि ९⟫. ⟪मृगेश्वरैः १०⟫. ⟪बुद्धिकृतायाः ११⟫. ⟪धर्मयज्ञेन १२⟫. ⟪यज्ञाङ्गानि १३⟫. ⟪गृहजनेन १४⟫. ⟪ग्रामलेखकाः १५⟫. ⟪नागदेवः १६⟫. ⟪पुण्यजिताभिः १७⟫. ⟪पापलोकम् १८⟫. ⟪सत्यवदनस्य १९⟫. ⟪दानधर्मेण⟫
 
-⟪२⟫. ⟪बालधनस्य⟫ <!-- TODO: Fallback translation -->
-
-⟪३⟫. ⟪नरककाकम्⟫ <!-- TODO: Fallback translation -->
-
-⟪४⟫. ⟪लोकगुरोः⟫ <!-- TODO: Fallback translation -->
-
-⟪५⟫. ⟪जलेश्वरेण⟫ <!-- TODO: Fallback translation -->
-
-⟪६⟫. ⟪जनपानम्⟫ <!-- TODO: Fallback translation -->
-
-⟪७⟫. ⟪वाक्यसारथीन्⟫ <!-- TODO: Fallback translation -->
-
-⟪८⟫. ⟪गुणवचनानि⟫ <!-- TODO: Fallback translation -->
-
-⟪९⟫. ⟪मृगेश्वरैः⟫ <!-- TODO: Fallback translation -->
-
-⟪१०⟫. ⟪बुद्धिकृतायाः⟫ <!-- TODO: Fallback translation -->
-
-⟪११⟫. ⟪धर्मयज्ञेन⟫ <!-- TODO: Fallback translation -->
-
-⟪१२⟫. ⟪यज्ञाङ्गानि⟫ <!-- TODO: Fallback translation -->
-
-⟪१३⟫. ⟪गृहजनेन⟫ <!-- TODO: Fallback translation -->
-
-⟪१४⟫. ⟪ग्रामलेखकाः⟫ <!-- TODO: Fallback translation -->
-
-⟪१५⟫. ⟪नागदेवः⟫ <!-- TODO: Fallback translation -->
-
-⟪१६⟫. ⟪पुण्यजिताभिः⟫ <!-- TODO: Fallback translation -->
-
-⟪१७⟫. ⟪पापलोकम्⟫ <!-- TODO: Fallback translation -->
-
-⟪१८⟫. ⟪सत्यवदनस्य⟫ <!-- TODO: Fallback translation -->
-
-⟪१९⟫. ⟪दानधर्मेण⟫ <!-- TODO: Fallback translation -->
-
-⟪२०⟫. ⟪सुखप्रश्नः⟫ <!-- TODO: Fallback translation -->
-
-⟪२१⟫. ⟪दुःखमोहस्य⟫ <!-- TODO: Fallback translation -->
-
-⟪२२⟫. ⟪सोमपात्राणि⟫ <!-- TODO: Fallback translation -->
-
-⟪२३⟫. ⟪स्वर्गमार्गः⟫ <!-- TODO: Fallback translation -->
-
-⟪२४⟫. ⟪कामधेन्वा⟫ <!-- TODO: Fallback translation -->
-
-⟪२५⟫. ⟪वर्णधर्मः⟫ <!-- TODO: Fallback translation -->
-
-⟪२६⟫. ⟪श्रुत्युदितम्⟫ <!-- TODO: Fallback translation -->
+⟪२०⟫. ⟪सुखप्रश्नः २१⟫. ⟪दुःखमोहस्य २२⟫. ⟪सोमपात्राणि २३⟫. ⟪स्वर्गमार्गः २४⟫. ⟪कामधेन्वा २५⟫. ⟪वर्णधर्मः २६⟫. ⟪श्रुत्युदितम्⟫
 ::: media
 ![](/images/lekt1509.webp)
-Abb.: ⟪नागदेवाः⟫
-(Bildquelle: [Details](/licenses#lekt1509)) <!-- TODO: Fallback translation -->
-:::
-
-::: deleteme-box
-
-- **Abb.: ⟪लक्ष्मी⟫** (Lakshmi): Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Bildquelle: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Abb.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Bildquelle: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Diagramm** (lekt1502.jpg): Diagramm zur Zerlegung von Komposita. Bildquelle: Alois Payer / Original-Kursgrafik. <!-- TODO: Fallback translation -->
-- **Abb.: ⟪पूजा⟫** (Puja): A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Bildquelle: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Abb.:  ⟪इन्द्रः⟫** (Indra): Folio from a Panchakalyanaka, Rajasthan, Amber. Bildquelle: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Abb.: ⟪सिंहः⟫** (Lion): Panthera leo persica. Bildquelle: Wikipedia, GNU FDLicense. <!-- TODO: Fallback translation -->
-- **Abb.: ⟪व्याघ्रः⟫** (Tiger): Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Abb.: ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Bildquelle: ganuullu (Flickr), Creative Commons Lizenz. <!-- TODO: Fallback translation -->
-- **Abb.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Bildquelle: Dineshkannambadi / Wikipedia, GNU FDLicense. <!-- TODO: Fallback translation -->
+Res.: ⟪नागदेवाः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt1509))
 :::
 

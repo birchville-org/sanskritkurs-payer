@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "Lectio 30"
+subtitle: 'Nonum praesentis classis (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lectio 30
@@ -123,7 +124,7 @@ Optativus (⟪लिङ्⟫), Imperfectum (⟪लङ्⟫), Aoristus (⟪ल�
 :::
 ## 30.4. Formatio Optativi Praesentis (⟪लिङ्⟫)
 
-### 30.4.1. Thematische praesentes classes <!-- TODO: Fallback translation -->
+### 30.4.1. Thematische praesentes classes
 
 ::: grammar-box
 **ante terminationes consonantes initiantes:**
@@ -245,7 +246,7 @@ Exempla:
 | **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
-## 30.5. Sandhi von auslautendem -r <!-- TODO: Fallback translation -->
+## 30.5. Sandhi von auslautendem -r
 
 ::: grammar-box
 **Praeter quam pro -ar, pro -r finali eadem valent regulae Sandhi quam pro -s finali.**
@@ -318,7 +319,7 @@ Inf. ⟪पवितुम्⟫
 Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Fons imaginis: [Descriptiones](/la/licenses#lekt3003))
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : edere, consumere <!-- TODO: Fallback translation -->
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : edere, consumere
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
@@ -472,7 +473,7 @@ B) Versa verba sequentia et solvite composita Sanscritice:
 ⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
 ⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
 
-## 30.8. Wiederholungsübung zur Formenlehre <!-- TODO: Fallback translation -->
+## 30.8. Wiederholungsübung zur Formenlehre
 
 Determina et versa hasce formas verborum:
 
@@ -517,12 +518,3 @@ Determina et versa hasce formas verborum:
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Imago a earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accessus die 2008-12-21. -- Licentia Creative Commons (Attributio, usus non-commercialis, nulla operis mutatio)]
-**lekt3002:** Darewadi, Districtus Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Imago a Robin Murphy / Institutum Rerum Naturalium. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accessus die 2008-12-21. -- Licentia Creative Commons (Attributio, usus non-commercialis, simile)]
-**lekt3003:** [Imago a Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Accessus die 2008-12-21. -- Licentia Creative Commons (Attributio, simile)]
-**lekt3005:** ⟪थाली⟫, India Meridionalis [Imago a Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Accessus die 2008-12-21. -- Licentia Creative Commons (Attributio, usus non-commercialis, simile)]
-**lekt3004:** [Imago a Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Accessus die 2008-12-21. -- Licentia Creative Commons (Attributio, simile)]
-**lekt2904:** [Imago a Wikipedia / Copyrightum ad Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Licentia Creative Commons Attribution ShareAlike 2.5]
-:::

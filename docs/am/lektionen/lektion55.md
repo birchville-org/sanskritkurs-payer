@@ -94,8 +94,3 @@ status: stable
 (የምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** 'Inâyat Khân በሞት አፋፍ ላይ፣ ለJahângîr የእጅ ጽሑፍ ትንሽ ሥዕል ንድፍ = جهانگير, በ1618 አካባቢ [የምስል ምንጭ: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- በ2009-01-28 የተገኘ። የሕዝብ ንብረት]
-
-:::

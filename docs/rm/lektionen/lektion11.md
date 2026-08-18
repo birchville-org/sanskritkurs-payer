@@ -10,13 +10,6 @@ status: stable
 
 # Lecziun 11
 
-::: deleteme-box
-**En questa lecziun apreni Vus:**
-- L’accusativ dopbel (accusativ da la persuna e da la cosa)
-- L’adoperaziun da las particlas **iti**, **evam** e **na**
-- Concepts base sco **dharma**, **adharma** e **putra**
-- La furmaziun da nomens sin las radischas **vad**, **prach** e **iṣ**
-:::
 ## 11.1. Accusativ dopbel
 
 ::: grammar-box
@@ -72,7 +65,7 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : dumandar
-- **praśna** m. ⟪प्रश्न⟫ : dumanda (suffig **-na** sco en **yaj-ña**) <!-- TODO: Fallback translation -->
+- **praśna** m. ⟪प्रश्न⟫ : dumanda (suffig **-na** sco en **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : vulair
 - **iṣṭi** f. ⟪इष्टि⟫ : desideri (**iṣ** + **-ti**)
@@ -147,4 +140,3 @@ Abb.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 Abb.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt1103))
 :::
- <!-- TODO: Fallback translation -->

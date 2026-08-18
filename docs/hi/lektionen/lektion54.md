@@ -269,11 +269,3 @@ c) ⟪उपजाति⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt5401))
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ तिरुपति = తిరుపతి [चित्र स्रोत: राजी श्रीनिवास / विकिपीडिया. GNU FDLicense]
-
-**lekt5401:** तमिलनाडु [चित्र स्रोत: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- 2009-01-28 को प्रवेश। -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (अभिधान, गैर-वाणिज्यिक उपयोग, शेर अलाइक)]
-
-:::
-

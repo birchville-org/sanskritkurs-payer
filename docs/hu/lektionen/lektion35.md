@@ -4,7 +4,7 @@ lesson_id: 35
 status: stable
 ---
 
-# 35. lecke <!-- TODO: Fallback translation -->
+# 35. lecke
 
 ## 35.1. Perfekt III. típus: Erős alap, magas fok/hosszúsági fok
 
@@ -35,7 +35,7 @@ Vokális hangzó végződés előtt helyettesíti:
 *   -i/-ī → -iy
 *   -u/-ū → -uv
 *   -ṛ durch r
-Példák: <!-- TODO: Fallback translation -->
+Példák:
 
 | Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ Példák: <!-- TODO: Fallback translation -->
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfektum IIIb típus: Erős tő magas fokú/hosszúsított fok, gyenge tő magas fokú <!-- TODO: Fallback translation -->
+### 35.1.2. Perfektum IIIb típus: Erős tő magas fokú/hosszúsított fok, gyenge tő magas fokú
 
 ::: grammar-box
 **Alkotás:**
@@ -72,7 +72,7 @@ Példák:
 
 **erős tövű:**
 *   3./1. sg. P Perfekt végződés -au
-*   2\. sg. P : magas fok -ā vagy mély fok -i <!-- TODO: Fallback translation -->
+*   2\. sg. P : magas fok -ā vagy mély fok -i
 
 **gyenge tövű:**
 *   mássalhangzó előtt: mély fok -i
@@ -116,7 +116,7 @@ Képződik többek között az alábbi gyökökből:
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-Példák: <!-- TODO: Fallback translation -->
+Példák:
 
 | Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -127,7 +127,7 @@ Példák: <!-- TODO: Fallback translation -->
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfektum Vb-típus: gyenge alap Kontrakció (e-típus) <!-- TODO: Fallback translation -->
+### 35.3.2. Perfektum Vb-típus: gyenge alap Kontrakció (e-típus)
 
 ::: grammar-box
 **Alakítás:**
@@ -142,14 +142,14 @@ Példa:
 
 | Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ |
 
-### 35.3.3. Perfekt V. típusc: mássalhangzó-a-mássalhangzó gyökök. Gyenge alap erős fok <!-- TODO: Fallback translation -->
+### 35.3.3. Perfekt V. típusc: mássalhangzó-a-mássalhangzó gyökök. Gyenge alap erős fok
 
 ::: grammar-box
 **Alakítás:**
 
-**gyenge alap:** erős fok <!-- TODO: Fallback translation -->
+**gyenge alap:** erős fok
 
 Minden más gyökből képződik, amelyekben közép -a- van, azaz olyan gyökökből, amelyekben közép -a- található:
 *   amelyek két mássalhangzóval kezdődnek
@@ -159,7 +159,7 @@ Minden más gyökből képződik, amelyekben közép -a- van, azaz olyan gyökö
 
 ha nem a Perfekt Va típusba tartoznak.
 :::
-Példa: <!-- TODO: Fallback translation -->
+Példa:
 
 | Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -174,7 +174,7 @@ Példa: <!-- TODO: Fallback translation -->
 **Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : eltűnni, elveszni, elpusztulni <!-- TODO: Fallback translation -->
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : eltűnni, elveszni, elpusztulni
 
 ⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : menni, haladni
 ::: indent
@@ -210,9 +210,9 @@ Kép: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Képmegjelölés: [Részletek](/hu/licenses#lekt3501))
 :::
-## 35.5. Gyakorlat <!-- TODO: Fallback translation -->
+## 35.5. Gyakorlat
 
-A) Alakítsa ki a következő igai formákhoz a megfelelő perfekta formákat: <!-- TODO: Fallback translation -->
+A) Alakítsa ki a következő igai formákhoz a megfelelő perfekta formákat:
 
 1. ⟪गायन्ति⟫
 2. ⟪स्मरन्ति⟫
@@ -280,14 +280,3 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 C) Alakítsa át a B) gyakorlat mondatait úgy, hogy az perfekta igealakokat imperfekta igealakra cserélje.
 
-::: deleteme-box
-
-**lekt3501:** Templomi zenészek, Kaadu Malleswara templom, Bangalore. [Képmegjelenítés: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** Emberek sétálnak, Szenegál. [Képmegjelenítés: Curt Carnemark / Világbank. CC BY-NC-ND]
-
-**lekt3503:** Piac Vadaseriben, Tamilnádu. [Képmegjelenítés: kifo / Flickr. CC BY-SA] <!-- TODO: Fallback translation -->
-
-**lekt3504:** Yajña szertartás, Sivá ásram, Ganeshpuri. [Képmegjelenítés: Dey / Flickr. CC BY-NC-SA]
-:::
- <!-- TODO: Fallback translation -->

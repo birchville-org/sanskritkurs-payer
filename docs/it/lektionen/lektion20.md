@@ -566,26 +566,4 @@ Ancora un ⟪सुभाषितम्⟫ :
 
 Spiegazione: ⟪इच्छताम्⟫ = genitivo plurale participio presente passivo a ⟪इष्⟫ : del desiderante
 :::
-::: deleteme-box
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Cambogia, IX sec. d.C. [Fonte immagine: Wikipedia, Dominio pubblico]
-
-**lekt2002:** [Fonte immagine: Contributi alla letteratura e alla storia dello spirito dell'India. -- Bonn, 1926]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Fonte immagine Wikipedia, Dominio pubblico]
-
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [Fonte immagine: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-**lekt2005:** Gesù e gli altri dei, Ahmedabad [Fonte immagine: da ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-**lekt2006:** Madhya Pradesh [Fonte immagine: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-**lekt2007:** Chennai = சென்னை [Fonte immagine: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "Questo in realtà fa parte dell'ashram a Rishikesh dove i Beatles hanno soggiornato. Questa parte specifica non c'era quando erano lì, ma ha un bell'aspetto." [Fonte immagine: da ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione)]
-
-**lekt2009:** Karnataka [Fonte immagine: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Accesso il 2008-12-11. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
-
-**lekt2010:** Buddha come asceta prima della sua illuminazione salvifica, Gandhara, II/III sec. [Fonte immagine: Wikipedia, Licenza GNU FDL]
-:::
 

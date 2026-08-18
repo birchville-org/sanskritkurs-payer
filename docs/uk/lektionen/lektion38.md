@@ -47,7 +47,7 @@ status: stable
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Основа** | **-ān** | **-mān** | **-vān** | Наз., знах., клич. одр. ч. ч. р. ж. р.:brНаз., знах., клич. дв. ч. ч. р. ж. р.:brНаз., клич. мн. ч. ч. р. ж. р.:brНаз., знах. мн. ч. с. р. |
 | **Mittlerer Schwacher Основа** | **-a**:br(з -*n) | **-ma**:br(з -*mn) | **-va**:br(з -*vn) | Übrige Kasus vor konsonantisch anlautender Закінчення:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Основа** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Закінчення | &lt;!-- TODO: Fallback translation --&gt;
+| **Schwächster Основа** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Закінчення | &lt;!--  -→
 
 **Закінчення є регулярними. Називний відмінок однини чоловічого та жіночого роду утворюється без кінцевого -n.**
 :::
@@ -587,20 +587,3 @@ PPP ⟪सृत⟫
 
 ⟪युष्माकम्⟫ Род.множ. до :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Мал.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ Бангалор = ಬೆಂಗಳೂರು \[Джерело зображення: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Доступ 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання)\]
-- **lekt3802.jpg**: Мал.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Конарк = ⟪कोनार्क⟫ \[Джерело зображення: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Доступ 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання)\]
-- **lekt3803.jpg**: Мал.: ⟪सीमा⟫  Кордон між Індією та Пакистаном у Вагех (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Джерело зображення: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Доступ 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, з тими ж умовами)\]
-- **lekt3804.jpg**: Мал.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Гандхара, 2./3 ст. н. е. \[Джерело зображення: Вікіпедія. Суспільне надбання\]
-- **lekt3805.jpg**: Мал.: ⟪उदकम्⟫  село Дареваді, район Ахмедагара = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Джерело зображення: Robin Murphy, Інститут світових ресурсів. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Доступ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, з тими ж умовами)\]
-- **lekt3806.jpg**: Мал.: ⟪हस्ती⟫  Національний парк Нагархол = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Джерело зображення: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Доступ 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, з тими ж умовами)\]
-- **lekt3807.jpg**: Мал.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Джерело зображення: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Доступ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, без обробки)\]
-- **lekt3808.jpg**: Мал.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930-ті роки \[Джерело зображення: Вікіпедія. Суспільне надбання\]
-- **lekt3809.jpg**: Мал.: ⟪ब्रह्मा⟫  Халебіду = ಹಳೆಬೀಡು \[Джерело зображення: Вікіпедія. GNU FDLicense\]
-- **lekt3810.jpg**: Мал.: Дерево Ашоки = _Saraca asoca_ (Roxb.) Wilde Калькутта = কলকাতা \[Джерело зображення: J.M.Garg / Вікіпедія. GNU FDLicense\]
-- **lekt3811.jpg**: Мал.: Найбільше розширення імперії Ашоки та місця знахідки його скельних і стовпових едиктів \[Джерело зображення: Вікіпедія.GNU FDLicense\]
-- **lekt3812.jpg**: Мал.: ⟪विनोदः⟫  Гра каром \[Джерело зображення: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Доступ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, з тими ж умовами)\]
-- **lekt3813.jpg**: Мал.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Джерело зображення: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Доступ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання)\]
-- **lekt3814.jpg**: Мал.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Джерело зображення: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Доступ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Ліцензія Creative Commons (згадка авторства, некомерційне використання, без обробки)\]
-:::

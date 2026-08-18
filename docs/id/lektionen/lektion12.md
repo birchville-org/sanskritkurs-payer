@@ -10,14 +10,6 @@ status: stable
 
 # Pelajaran 12
 
-::: deleteme-box
-**Dalam pelajaran ini Anda akan belajar:**
-Partisip Perfek Pasif (PPP)
-Makna dari PPP
-Pembentukan PPP
-Hukum-hukum gabungan bunyi dalam kata
-Bentuk pasif dan PPP dari akar-akar yang telah dipelajari sejauh ini
-:::
 
 ## 12.1. Partisip Perfek Pasif (PPP)
 
@@ -245,6 +237,4 @@ Ilustrasi: ⟪महावीरो जिनः⟫
 **B) Bentuk PPP yang sesuai dari bentuk kata kerja di [Pelajaran 10](/lektionen/lektion10), Latihan A. Perhatikan bahwa satu bentuk seperti sṛjati memiliki PPP yang sesuai dalam ketiga jenis kelamin.**
 
 **C) Ubah kalimat-kalimat dari [Pelajaran 10](/lektionen/lektion10), Latihan C menjadi bentuk pasif lampau.**
-
-
 

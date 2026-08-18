@@ -1,51 +1,52 @@
 ---
-title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+title: "Lecție 39"
+subtitle: "Desinențele personale ale primei persoane (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = „**a treia** persoană”)"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lecția 39
+# Lecție 39
 
-## 39.1. Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**a treia** persoană") <!-- TODO: Fallback translation -->
+## 39.1. Desinențele de persoana I (:sig[तृतीयः] ⟪पुरुषः⟫ = „a **treia** persoană”)
 
-Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**a treia** persoană") sunt: <!-- TODO: Fallback translation -->
+Desinențele de persoana I (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = „a **treia** persoană”) sunt:
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Desinență primară a temelor tematice** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
-| **Desinență primară a temelor atematice** | ^^ | ^^ | **-e** | ^^ |
-| **Desinență secundară a temelor tematice** | **-m** | **-ma** | **-i** | **-mahi** |
-| **Desinență secundară a temelor atematice** | **-am** | ^^ | ^^ | ^^ |
+| **Desinență primară pentru rădăcini tematice** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
+| **Desinență primară pentru rădăcini atematice** | ^^ | ^^ | **-e** | ^^ |
+| **Desinență secundară pentru rădăcini tematice** | **-m** | **-ma** | **-i** | **-mahi** |
+| **Desinență secundară pentru rădăcini atematice** | **-am** | ^^ | ^^ | ^^ |
 | **Desinență optativă** | ^^ | ^^ | **-a** | ^^ |
 | **Desinență perfectă** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
-1 Notă: de fapt, desinența primară a temelor ā este de asemenea de tipul -e, în fața căreia vocala tematică -a- dispare din motive de analogie. Efectul este însă ca și cum desinența -i s-ar alătura vocalei tematice -a: a + i » e.
+¹ Notă: de fapt, desinența primară Ā pentru rădăcinile tematice ar trebui stabilită și ca -e, în fața căreia vocala tematică -a- dispare din motive de analogie. Totuși, efectul este ca și cum desinența -i s-ar alătura vocalei tematice -a-: a + i » e.
 
-## 39.2. Formarea formelor verbale ale primei persoane, teme de prezent tematic
+## 39.2. Formarea formelor verbale de persoana I pentru rădăcinile tematice ale prezentului
 
 ::: grammar-box
 **Regulă:**
-**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Înainte de -mi, -mas, -ma, -mahe, -mahi, vocala tematică -a- este înlocuită de -ā- !!!**
 :::
-### 39.2.1. Prima clasă de prezent (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+### 39.2.1. Prima clasă de prezent (⟪भ्वादि⟫)
 
-⟪भू⟫ 1P
+⟪भू⟫ Persoana I
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indicativ Prezent - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
-| **Imperfect - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
-| **Optativ - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
+| **Indicativ Prezent - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\&lt;⟪भवे⟫\&gt;** :brbhava + i:brrichtig: bhav-e | **\&lt;⟪भवामहे⟫\&gt;** |
+| **Imperfect - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\&lt;⟪अभवे⟫\&gt;** | **\&lt;⟪अभवामहि⟫\&gt;** |
+| **Optativ - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. A șasea clasă de prezente (⟪तुदादि⟫)
@@ -92,25 +93,28 @@ Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪�
 :::
 ### 39.2.5. Pasivul (Sufixul ⟪यक्⟫)
 
+:::
+### 39.2.5. Pasiv (Sufix ⟪यक्⟫)
+
 ⟪ईक्ष्⟫ 1Ā
 
 ::: grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: |
-| **Indicativ Prezent - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
-| **Imperfect - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
-| **Optativ - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
+| **Indicativ Prezent  - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
+| **Imperfect  - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
+| **Optativ  - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Formarea formelor verbale pentru persoana I a viitorului simplu - ⟪ऌत्⟫
+## 39.3. Formarea formelor verbale a primei persoane la viitor simplu  - ⟪ऌत्⟫
 
 ::: grammar-box
-**Viitorul are o formare tematică. De aceea, se aplică și regula pentru temele tematice:**
+**Viitorul are o formare tematică. De aceea, se aplică și regula pentru rădăcinile tematice:**
 
-**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Înainte de -mi, -mas, -mahe, vocala tematică -a- este înlocuită de -ā- !!!**
 :::
-### 39.3.1. Formarea ⟪अनिट्⟫ <!-- TODO: Fallback translation -->
+### 39.3.1. Formarea ⟪अनिट्⟫
 
 ⟪दा⟫ 3U
 
@@ -119,34 +123,34 @@ Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Viitorul - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
+| **Viitor  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
 ### 39.3.2. Formarea ⟪सेट्⟫
 
-⟪भू⟫ Persoana I singular
+⟪भू⟫ 1P
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Viitorul - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
+| **Viitor  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
 
 :::
-## 39.4. Formarea formelor verbale ale primei persoane a temelor de prezent atematic
+## 39.4. Formarea formelor verbale a primei persoane la rădăcini prezente atematice
 
 ::: grammar-box
-**Rețineți că în interiorul cuvântului — spre deosebire de sandha la nivel de propoziție — înainte de terminații care încep cu**
+**Rețineți că în interiorul cuvântului – spre deosebire de sandhi-ul propozițional – înainte de sufixe care încep cu**
 * **vocală**
 * **semi-vocală**
 * **nazală**
 
-**consoanele rămân, de regulă, neschimbate.**
+**consoanele rămân, în general, neschimbate.**
 
 de ex. ⟪वच्⟫ 1.sg.Ind.Prez.P **⟪व⟫**⟪च्मि⟫**
 :::
-### 39.4.1. A doua clasă de prezent (⟪अदादि⟫) <!-- TODO: Fallback translation -->
+### 39.4.1. A doua clasă de prezent (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
@@ -177,7 +181,7 @@ de ex. ⟪वच्⟫ 1.sg.Ind.Prez.P **⟪व⟫**⟪च्मि⟫**
 Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt3901))
 :::
-### 39.4.2. A treia clasă de prezent (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
+### 39.4.2. A treia clasă de prezent (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 

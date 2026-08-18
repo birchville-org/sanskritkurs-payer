@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 20. lecke <!-- TODO: Fallback translation -->
+# 20. lecke
 
 ## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
 
@@ -21,9 +21,9 @@ Jodhpur = ⟪जोधपुर⟫
 
 ::: grammar-box
 
-**Egy Bahuvrīhi a Tatpuruṣa-szal ellentétben mást jelöl, mint amint a tagjai kifejezik: míg ⟪बालपुत्रः⟫ Tatpuruṣa feloldásban „fiatal fiú”-t jelent, azaz valamit, amit a összetétel záró tagja (⟪पुत्र⟫) fejez ki, ⟪बालपुत्रः⟫ Bahuvrīhi feloldásban „annak a személynek, akinek a fia fiatal”-t jelent, azaz a jelölt sem a fiú (⟪पुत्र⟫), sem nem feltétlenül fiatal (⟪बाल⟫), hanem egy a fiatal fiútól különböző személy, nevezetesen az apja.** <!-- TODO: Fallback translation -->
+**Egy Bahuvrīhi a Tatpuruṣa-szal ellentétben mást jelöl, mint amint a tagjai kifejezik: míg ⟪बालपुत्रः⟫ Tatpuruṣa feloldásban „fiatal fiú”-t jelent, azaz valamit, amit a összetétel záró tagja (⟪पुत्र⟫) fejez ki, ⟪बालपुत्रः⟫ Bahuvrīhi feloldásban „annak a személynek, akinek a fia fiatal”-t jelent, azaz a jelölt sem a fiú (⟪पुत्र⟫), sem nem feltétlenül fiatal (⟪बाल⟫), hanem egy a fiatal fiútól különböző személy, nevezetesen az apja.**
 
-**A birtokos összetételek kezdetben mindig melléknevek, amelyek azonban főnévvé alakíthatók. Ezért egy Bahuvrīhi nyelvtani nemét az határozza meg, mire utal a Bahuvrīhi, és nem a záró összetételi tag neme.** <!-- TODO: Fallback translation -->
+**A birtokos összetételek kezdetben mindig melléknevek, amelyek azonban főnévvé alakíthatók. Ezért egy Bahuvrīhi nyelvtani nemét az határozza meg, mire utal a Bahuvrīhi, és nem a záró összetételi tag neme.**
 
 :::
 ::: grammar-box
@@ -36,7 +36,7 @@ Jodhpur = ⟪जोधपुर⟫
 Példák:
 
 ::: indent
-⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = "egy, akinek a rossza elment" = "egy, aki mentes a rossz cselekedetektől" <!-- TODO: Fallback translation -->
+⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = "egy, akinek a rossza elment" = "egy, aki mentes a rossz cselekedetektől"
 
 T. sg. ⟪गतपापम्⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तम्⟫
 
@@ -48,7 +48,7 @@ N. pl. ⟪गतपापाः⟫ = ⟪गतानि⟫ ⟪पापानि
 
 stb.
 
-⟪अस्तमोहा⟫ = ⟪अस्तो⟫ ⟪मोहो⟫ ⟪यया⟫ ⟪सा⟫ = "egy (nő), aki levetkőzte a tévelygést" <!-- TODO: Fallback translation -->
+⟪अस्तमोहा⟫ = ⟪अस्तो⟫ ⟪मोहो⟫ ⟪यया⟫ ⟪सा⟫ = "egy (nő), aki levetkőzte a tévelygést"
 
 ⟪प्राप्तोदको⟫ ⟪ग्रामः⟫ = ⟪प्राप्तमुदकं⟫ ⟪यं⟫ s ⟪ग्रामः⟫ = "Egy falu, amelyhez az eljutott a víz" = "egy áradástól fenyegetett falu"
 
@@ -63,7 +63,7 @@ stb.
 *   **kasuális**
 *   **adverbialis**
 
-**Mint a Tatpuruṣa esetében, a meghatározott tag általában a második helyen áll.** <!-- TODO: Fallback translation -->
+**Mint a Tatpuruṣa esetében, a meghatározott tag általában a második helyen áll.**
 
 :::
 Hagyományosan megkülönböztetünk:
@@ -87,7 +87,7 @@ Hagyományosan megkülönböztetünk:
 ::: indent
 ⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "egy bráhman, akinek a fia / fiai jó tulajdonságokkal rendelkezik / rendelkeznek"
 :::
-**Különösen gyakori a -- a tatpuruṣa esetében ritka -- jelzői meghatározás PPP-vel. Az értelmezésnél a vonatkozó névmás általában az eszközhatározó esetben áll (⟪तृतीया⟫) (ritkábban a birtokos esetben / ⟪षष्ठी⟫).** <!-- TODO: Fallback translation -->
+**Különösen gyakori a -- a tatpuruṣa esetében ritka -- jelzői meghatározás PPP-vel. Az értelmezésnél a vonatkozó névmás általában az eszközhatározó esetben áll (⟪तृतीया⟫) (ritkábban a birtokos esetben / ⟪षष्ठी⟫).**
 
 **Alapszabály:**
 
@@ -160,7 +160,7 @@ Példa:
 
 **Kivétel az összetételi tagok sorrendjére vonatkozó általános szabálytól:**
 
-**A kasuális tag a második helyen áll, ha testrészt (különösen a kezet) jelöl:** <!-- TODO: Fallback translation -->
+**A kasuális tag a második helyen áll, ha testrészt (különösen a kezet) jelöl:**
 
 **Példa:**
 
@@ -174,7 +174,7 @@ Példa:
 Siemreap (ក្រុងសៀមរាប), Kambodzsa, 9. század e. kr. utáni
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2001))
 :::
-## 20.5. Határozói előtagú bahuvrīhi <!-- TODO: Fallback translation -->
+## 20.5. Határozói előtagú bahuvrīhi
 
 Az első tagban határozószó, előtag vagy más indeklinábilis áll; ilyen összetételek általában ⟪नित्यसमास⟫.
 
@@ -185,7 +185,7 @@ Példák:
 
 ⟪दुर्बल⟫ ⟪३⟫ = "valaki / valami, akinek az ereje rossz" = "erőtlen, gyenge"
 :::
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
 **⟪सह⟫ "valamivel" mint a Bahuvrīhi előtagja gyakran ⟪स⟩-vel helyettesítendő.**
 
@@ -211,10 +211,10 @@ Madhya Pradesh
 
 *   **-ā-tőjű szavak hímnemben és semlegesnemben -a-tőjűvé válnak**
 *   **-a-tőjű szavak (hím-, n.) nőnemét -ā vagy -ī képezi**
-*   **-ī-tőjű szavak (n.) a Bahuvrīhi végén fel kell vegyék a -ka, -kā, -ka (n.) képzőt; ezt a képzőt felvehetik vagy fel kell vegyék sok más Bahuvrīhi is** <!-- TODO: Fallback translation -->
+*   **-ī-tőjű szavak (n.) a Bahuvrīhi végén fel kell vegyék a -ka, -kā, -ka (n.) képzőt; ezt a képzőt felvehetik vagy fel kell vegyék sok más Bahuvrīhi is**
 
 :::
-## 20.7. A Bahuvrīhi-fajok másik osztályozása <!-- TODO: Fallback translation -->
+## 20.7. A Bahuvrīhi-fajok másik osztályozása
 
 A példák itt későbbi feldolgozás céljából szerepelnek, egyesekhez még nem beszéltük meg a szükséges nyelvtant és szókincset.
 
@@ -238,9 +238,9 @@ A példák itt későbbi feldolgozás céljából szerepelnek, egyesekhez még n
 Chennai = சென்னை
 (Képmegjelenés: [Részletek](/hu/licenses#lekt2007))
 :::
-## 20.8. A Bahuvrīhi és a mellékmondat viszonya <!-- TODO: Fallback translation -->
+## 20.8. A Bahuvrīhi és a mellékmondat viszonya
 
-Bár minden Bahuvrīhi feloldható mellékmondatba, nem minden mellékmondat helyettesíthető Bahuvrīhival. Hermann Georg Jacobi (1850 - 1937), aki közelebbről vizsgálta mindkettő viszonyát (Compositum und Nebensatz, 1897), így ír: <!-- TODO: Fallback translation -->
+Bár minden Bahuvrīhi feloldható mellékmondatba, nem minden mellékmondat helyettesíthető Bahuvrīhival. Hermann Georg Jacobi (1850 - 1937), aki közelebbről vizsgálta mindkettő viszonyát (Compositum und Nebensatz, 1897), így ír:
 
 ::: indent
 „Ha németből vagy más modern nyelvből szánkritra fordítunk, nem minden mellékmondatot lehet összetételekkel visszaadni, csupán a díszítő és leíró jellegűeket; azok azonban, amelyek fogalmilag szükséges vagy fontos meghatározást tartalmaznak, a szanszkritban is viszonylagos mondatokként jelennek meg.”
@@ -250,7 +250,7 @@ Bár minden Bahuvrīhi feloldható mellékmondatba, nem minden mellékmondat hel
 Kép: Hermann Jacobi
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2002))
 :::
-Ez lehet igaz. Ugyanakkor az indiaiak sok dolgot díszítőnek és leíró jellegűnek tekintenek, amit mi „fogalmilag szükséges vagy fontos”-nak tartanánk. <!-- TODO: Fallback translation -->
+Ez lehet igaz. Ugyanakkor az indiaiak sok dolgot díszítőnek és leíró jellegűnek tekintenek, amit mi „fogalmilag szükséges vagy fontos”-nak tartanánk.
 
 ## 20.9. Szószedet
 
@@ -264,7 +264,7 @@ Kép: ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy része, ahol a Beatles is megszállt. Ez a konkrét rész akkor még nem létezett, de mindenképpen menőnek tűnik."
 (Képmegjelenés: [Részletek](/hu/licenses#lekt2008))
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : cselekvő, alkotó, okozó <!-- TODO: Fallback translation -->
+⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : cselekvő, alkotó, okozó
 
 ⟪कर⟫ m.: kéz (lásd ⟪कृ⟫ 8)
 
@@ -274,7 +274,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy r
 
 ⟪अधि⟫ Előtag: túl, felé-, rá-
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : megtalál, eljut, megszerez <!-- TODO: Fallback translation -->
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : megtalál, eljut, megszerez
 
 ⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : csökkent, gyengít
 
@@ -290,9 +290,9 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy r
 
 ⟪भावना⟫ f.: meditációs kibontakozás (a ⟪भू⟫ causativumhoz)
 
-⟪मही⟫ f.: föld, alap és talaj <!-- TODO: Fallback translation -->
+⟪मही⟫ f.: föld, alap és talaj
 
-⟪लक्षण⟫ n.: jellemző, jelzés, attribútum <!-- TODO: Fallback translation -->
+⟪लक्षण⟫ n.: jellemző, jelzés, attribútum
 
 ⟪विप्र⟫ m.: "remegő" = költő, énekes, pap, bráhmana
 
@@ -332,7 +332,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy r
 
 ⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : meghajolni
 
-⟪उद्⟫ Előtag: fel, felfelé, kifelé, ki-, kivált- <!-- TODO: Fallback translation -->
+⟪उद्⟫ Előtag: fel, felfelé, kifelé, ki-, kivált-
 
 ⟪नाभि⟫ f.: köldök
 
@@ -346,7 +346,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy r
 
 ⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : fejlődni
 
-⟪ऋध्⟫ + ⟪सम्⟫ : fejlődni; PPP: sikeres, bőséges <!-- TODO: Fallback translation -->
+⟪ऋध्⟫ + ⟪सम्⟫ : fejlődni; PPP: sikeres, bőséges
 
 ⟪विचित्र⟫ ⟪३⟫ : színes, változatos, szép, csodálatos, furcsa
 
@@ -356,7 +356,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy r
 
 ## 20.10. Gyakorlat 1
 
-Oldja fel az alábbi összetett szavakat Bahuvrīhi és/vagy Dvandva és/vagy Tatpuruṣa szerkezetként minden olyan lehetséges módon, amely Sanszkritban lehetségesnek tűnik (kivétel: határozói előtaggal rendelkező összetett szavak). Fordítsa le ezeket a különböző módon feloldott összetett szavakat németre, és adja meg az egész összetett szó nemét, eseteit és számát. <!-- TODO: Fallback translation -->
+Oldja fel az alábbi összetett szavakat Bahuvrīhi és/vagy Dvandva és/vagy Tatpuruṣa szerkezetként minden olyan lehetséges módon, amely Sanszkritban lehetségesnek tűnik (kivétel: határozói előtaggal rendelkező összetett szavak). Fordítsa le ezeket a különböző módon feloldott összetett szavakat németre, és adja meg az egész összetett szó nemét, eseteit és számát.
 
 1.  ⟪इन्द्रशत्रवः⟫
 2.  ⟪दुष्कुलायाः⟫
@@ -470,7 +470,7 @@ A királyi kaszthoz tartozó, botot kézben nem tartó személy nem óvja a nép
 
 Kālidāsa és a többi költők a szanszkrit nyelv tanárai.
 
-A királyi kaszthoz tartozó személy fegyvereiből szerzi meg a megélhetését. <!-- TODO: Fallback translation -->
+A királyi kaszthoz tartozó személy fegyvereiből szerzi meg a megélhetését.
 
 A śūdra nőknek is dharma-szerűen az erőszakmentesség, az igazmondás, a tisztaság, a panaszmentesség, a gonoszságmentesség és az állhatatosság.
 
@@ -539,7 +539,7 @@ A tulajdonviszonyokról:
 
 Magyarázat: ⟪त्रयस्⟫ = alanyeset (nominativus), neműes szám, többes szám a következőhöz: ⟪त्रि⟩ "három"
 :::
-Egy ⟪सुभाषितम्⟩ a női szépségről: <!-- TODO: Fallback translation -->
+Egy ⟪सुभाषितम्⟩ a női szépségről:
 
 ::: indent
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
@@ -564,27 +564,5 @@ Még egy ⟪सुभाषितम्⟩ :
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
 Magyarázat: ⟪इच्छताम्⟫ = gen. plur. part. praes. passivus a ⟪इष्⟫ : vágyó
-:::
-::: deleteme-box
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Kambodzsa, 9. század i. sz. [Képmegj.: Wikipedia, Közterület]
-
-**lekt2002:** [Képmegj.: A indiai irodalomtudomány és szellemtörténet tanulmányai. -- Bonn, 1926]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Képmeghatározás: Wikipedia, Közterület]
-
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [Képmeghatározás: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Hozzáférés: 2008-12-11. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, származékos művek tilalma)] <!-- TODO: Fallback translation -->
-
-**lekt2005:** Jézus és a többi isten, Ahmedabad [Képmeghatározás: ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Hozzáférés: 2008-12-11. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, származékos művek tilalma)] <!-- TODO: Fallback translation -->
-
-**lekt2006:** Madhya Pradesh [Képmeghatározás: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Hozzáférés: 2008-12-11. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, származékos művek tilalma)] <!-- TODO: Fallback translation -->
-
-**lekt2007:** Chennai = சென்னை [Képmegjelenítés forrása: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Hozzáférés: 2008-12-11. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a rishikeshi ashram része, ahol a Beatles tartózkodott. Ez a konkrét rész még nem létezett az idejüket töltöttük alatt, de nagyon menőnek tűnik." [Képmegjelenítés forrása: ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Hozzáférés: 2008-12-11. -- Creative Commons licenc (Nevesítés)] <!-- TODO: Fallback translation -->
-
-**lekt2009:** Karnataka [Képmegjelenítés forrása: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Hozzáférés: 2008-12-11. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)] <!-- TODO: Fallback translation -->
-
-**lekt2010:** Buddha aszkétaként, a megváltó felvilágosodás előtt, Gandhara, 2./3. század [Képmegjelenítés forrása: Wikipedia, GNU FDLicense]
 :::
 

@@ -10,14 +10,6 @@ status: stable
 
 # Lesson 10
 
-::: deleteme-box
-**In this lesson, you will learn:**
-The passive sentence (instrumental of the agent)
-The declension of the instrumental case (tṛtīyā)
-The cerebralization rule for -n- (word sandhi)
-The formation of the passive voice (yak) in the indicative present tense
-Vocabulary related to sacrifice, truth, and social roles
-:::
 ## 10.1. The Passive Sentence
 
 ::: grammar-box
@@ -104,9 +96,6 @@ Sanskrit passive constructions are extremely common: the passive is, after all, 
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-Except in the nominative and accusative, the forms of neuter nouns ending in -a, the interrogative pronoun, and the demonstrative pronouns are identical to those of the corresponding masculine.
-:::
 
 
 ### 10.2.1. On the Usage of the Instrumental (tṛtīyā = ⟪तृतीया⟫)

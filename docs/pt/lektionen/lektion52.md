@@ -380,7 +380,7 @@ Portanto, por exemplo, de ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "
 Fig.: ⟪सप्तर्षयः⟫
 As Sete Estrelas = as sete estrelas mais brilhantes da Ursa Maior
 (Fonte da imagem: [Detalhes](/licenses#lekt5206))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -598,7 +598,7 @@ Fig.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: bananeira (_Musa_ sp.) <!-- TODO: Fallback translation -->
+⟪कदली⟫ f.: bananeira (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -694,7 +694,7 @@ Explicações:
 Fig.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
 _Ficus religiosa_ L. ⟪बोधगया⟫, c. 1810
 (Fonte da imagem: [Detalhes](/licenses#lekt5216))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -778,42 +778,7 @@ Mahābhārata : O grande épico da Índia / traduzido e resumido do sânscrito p
 Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Imagem: Payer)
 (Fonte da imagem: [Details](/licenses#lekt5201))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Fonte da imagem: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Acessado em 2009-01-15. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não Comercial, Sem Obras Derivadas)]
-
-**lekt5203:** Figura de Wayang, Java, Indonésia [Fonte da imagem. Wikipedia. Domínio público]
-
-**lekt5204:** Fila em frente ao templo, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം [Fonte da imagem: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Acessado em 2009-01-15. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, Uso Não Comercial, Compartilhamento pela mesma licença)]
-
-**lekt5209:** Queimada, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Fonte da imagem: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Acessado em 2009-01-15. --  [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não Comercial, Sem Obras Derivadas)]
-
-**lekt5205:** [Fonte da imagem: Wikipedia. Domínio público]
-
-**lekt5206:** As Sete Estrelas = as sete estrelas mais brilhantes da Ursa Maior (Ursa maior) [Fonte da imagem: Wikipedia, GNU FDLicense]
-
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Fonte da imagem: Wikipedia. Domínio público]
-
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Fonte da imagem: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Acessado em 2009-01-16. -- [Licença Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuição)]
-
-**lekt5212:** Hyderabad = హైదరాబాద్ [Fonte da imagem: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Acessado em 2009-01-16. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não Comercial, Proibição de Obras Derivadas)]
-
-**lekt5213:** ⟪मुंबई⟫ [Fonte da imagem: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Acessado em 2009-01-16. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribuição, Proibição de Obras Derivadas)]
-
-**lekt5214:** Konark = ⟪कोनार्क⟫ [Fonte da imagem: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Acessado em 2009-01-16. --  [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não Comercial, Proibição de Obras Derivadas)]
-
-**lekt5208:** Hampi = ಹಂಪೆ [Fonte da imagem: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Acessado em 2009-01-15. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, Uso Não Comercial, Compartilhamento pela mesma Licença)]
-
-**lekt5215:** ⟪मुंबई⟫ [Fonte da imagem: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Acessado em 2009-01-16. -- [Licença Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuição)]
-
-**lekt5217:** Amaravati = అమరావతి, séc. II d.C. [Fonte da imagem. Wikipedia. GNU FDLicense]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, c. 1810 [Fonte da imagem: Wikipedia. Domínio público]
-
-**lekt5201:** (Imagem: Payer)
 
 :::
 

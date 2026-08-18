@@ -763,39 +763,6 @@ sig[⟪ॐ⟫]
 ਸੰਸਕ੍ਰਿਤ ਕੋਰਸ ਦਾ ਅੰਤ
 :::
 
-::: deleteme-box
-
-**lekt6102:** [ਚਿੱਤਰ ਸਰੋਤ: ਵਿਸ਼ਵ ਬੈਂਕ / ਕੁਰਟ ਕਾਰਨਬਰਗ. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- ਪ੍ਰਾਪਤੀ 2009-03-06. -- [ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਵਪਾਰਕ ਵਰਤੋਂ ਨਹੀਂ, ਕੋਈ ਸੰਸ਼ੋਧਨ ਨਹੀਂ)]
-
-**lekt6106:** ⟪काशीपुर⟫ [ਚਿੱਤਰ ਸਰੋਤ: ਸੁਮਿਤ. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- ਪ੍ਰਾਪਤੀ 2009-03-09. -- [ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਵਪਾਰਕ ਵਰਤੋਂ ਨਹੀਂ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-**lekt6107:** ⟪जोधपुर⟫ [ਚਿੱਤਰ ਸਰੋਤ: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- ਪ੍ਰਾਪਤੀ 2009-03-09. -- [ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਵਪਾਰਕ ਵਰਤੋਂ ਨਹੀਂ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-**lekt6104:** ਕਰਨਾਟਕ = ಕರ್ನಾಟಕ [ਚਿੱਤਰ ਸਰੋਤ: ਜੈਸੀਕਾ ਰੈਬਿਟ ਦੀ ਫਲਿੱਕਰ. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- ਪ੍ਰਾਪਤੀ 2009-03-08. -- [ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਵਪਾਰਕ ਵਰਤੋਂ ਨਹੀਂ, ਕੋਈ ਸੰਸ਼ੋਧਨ ਨਹੀਂ)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [ਚਿੱਤਰ ਸਰੋਤ: ਨਾਰੇਸ਼ ਧੀਮਾਨ. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- ਪਹੁੰਚ 08-03-2009. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ)]
-
-**lekt6103:** [ਚਿੱਤਰ ਸਰੋਤ: ਫ੍ਰਿਸੇ82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- ਪਹੁੰਚ 08-03-2009. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ)]
-
-**lekt6109:** ⟪मुंबई⟫ [ਚਿੱਤਰ ਸਰੋਤ: ਫ੍ਰੌਗਸਟਾਰਬੀ. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- ਪਹੁੰਚ 09-03-2009. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਬਦਲਾਅ ਨਹੀਂ)]
-
-**lekt6110:** ਕਾਰਲੀ [ਚਿੱਤਰ ਸਰੋਤ: ਮਾਕਵਾ. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- ਪਹੁੰਚ 09-03-2009. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਬਦਲਾਅ ਨਹੀਂ)]
-
-**lekt6111:** [ਚਿੱਤਰ ਸਰੋਤ: ਟੈਕਨੀਕਲਰਕਵਾਲਰੀ. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- ਪਹੁੰਚ 09-03-2009. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਸਾਂਝਾ ਕਰੋ)]
-
-**lekt6113:** ਥਾਈਲੈਂਡ - ਥਾਈਲੈਂਡ [ਚਿੱਤਰ ਸਰੋਤ: "ਫੁਟਪ੍ਰਿੰਟਸ: ਰੀਅਲ ਟੂ ਰੀਲ" (ਰੋਨ ਅਸ਼ੋਰ) ਦਾ ਸੈਲਿੰਗ। -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/)। -- 2009-03-09 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- [ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਤਬਦੀਲੀ ਨਹੀਂ)]
-
-**lekt6112:** 1845 - 1878 ਕੋਪਨਹੇਗਨ ਯੂਨੀਵਰਸਿਟੀ ਵਿੱਚ ਇੰਡੋ-ਓਰੀਐਂਟਲ ਫਿਲਾਲੌਜੀ ਦੇ ਪ੍ਰੋਫੈਸਰ
-
-**lekt6114:** ਸਾਂਤਾ ਕ੍ਰੂਜ਼ ਬੈਸਿਲੀਕਾ, ਕੋਚੀ = കൊച്ചി [ਚਿੱਤਰ ਸਰੋਤ: ਮੌਂਸੀਅਰ ਪੈਰਾਡਿਸ। -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/)। -- 2009-03-09 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- [ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ)]
-
-**lekt6118:** [ਚਿੱਤਰ ਸਰੋਤ: ਮੈਕੇਸਾਵੀਜ। -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/)। -- 2009-03-09 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- [ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ)]
-
-**lekt6117:** ਅਪਤਾਨੀ ਲੋਕ, ਅਰੁਣਾਚਲ ਪ੍ਰਦੇਸ਼ [ਚਿੱਤਰ ਸਰੋਤ: ਅਹਿੰਸਾਜੈਨ। -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/)। -- 2009-03-09 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- [ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ)]
-
-**lekt6101:** ਹਲੇਬੀਡੂ (ಹಳೆಬೀಡು), 12./13. ਈਸਵੀ ਸਾਲ। [ਚਿੱਤਰ ਸਰੋਤ: ਕੁਆਡੈਲ / ਵਿਕੀਪੀਡਿਆ। GNU ਡਿਜ਼ੀਟਲ ਲਾਇਸੈਂਸ]
-
-:::
 ::: media
 ![](/images/uebung044.webp)
 ⟪अभि⟫.: ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫

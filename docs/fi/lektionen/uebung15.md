@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 15
 
-A) Käännä oppitunnin alussa oleva sananlasku <!-- TODO: Fallback translation -->
+A) Käännä oppitunnin alussa oleva sananlasku
 
 ⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫
 ⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫
@@ -18,7 +18,7 @@ A) Käännä oppitunnin alussa oleva sananlasku <!-- TODO: Fallback translation 
 ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫
 Tietoa voi saada kuuliaisuudesta opettajaa kohtaan, erittäin suuresta summasta rahaa tai tiedon vaihdossa. Neljäännen mahdollisuuden ei ole olemassa.
 
-B) Ratkaise seuraavat Tatpuruṣa-yhdyssanat: <!-- TODO: Fallback translation -->
+B) Ratkaise seuraavat Tatpuruṣa-yhdyssanat:
 
 ⟪१⟫. ⟪बलकृतः⟫ ⟪।⟫ ⟪बलेन⟫ ⟪कृतः⟫ — väkivaltainen
 
@@ -26,7 +26,7 @@ B) Ratkaise seuraavat Tatpuruṣa-yhdyssanat: <!-- TODO: Fallback translation --
 
 ⟪३⟫. ⟪नरकाकम्⟫ ⟪।⟫ ⟪काक⟫ ⟪इव⟫ ⟪नरम्⟫ ⟪।⟫ ⟪नर⟫ ⟪एव⟫ ⟪काकम्⟫ — mies kuin varis
 
-⟪४⟫. ⟪लोकगुरोः⟫ ⟪।⟫ ⟪लोकस्य⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪लोकानां⟫ ⟪गुरोः⟫ — ihmisten / maailman / maailmojen isäntä/opettaja <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪लोकगुरोः⟫ ⟪।⟫ ⟪लोकस्य⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪लोकानां⟫ ⟪गुरोः⟫ — ihmisten / maailman / maailmojen isäntä/opettaja
 
 ⟪५⟫. ⟪जलेश्वरेण⟫ ⟪।⟫ ⟪जलस्येश्वरेण⟫ ⟪।⟫ ⟪जालानामीश्वरेण⟫ — Veden HERRAN kautta = Varuṇan kautta
 
@@ -38,7 +38,7 @@ B) Ratkaise seuraavat Tatpuruṣa-yhdyssanat: <!-- TODO: Fallback translation --
 
 ⟪९⟫. ⟪मृगेश्वरैः⟫ ⟪।⟫ ⟪मृगस्येश्वरैः⟫ ⟪।⟫ ⟪मृगाणामीश्वरैः⟫ — villieläinten HERRIEN kautta = leijonien kautta
 
-⟪१०⟫. ⟪बुद्धिकृतायाः⟫ ⟪।⟫ ⟪बुद्ध्या⟫ ⟪कृतायाः⟫ — (gen.), joka on tehty järjen kanssa, järkevästi toimiva <!-- TODO: Fallback translation -->
+⟪१०⟫. ⟪बुद्धिकृतायाः⟫ ⟪।⟫ ⟪बुद्ध्या⟫ ⟪कृतायाः⟫ — (gen.), joka on tehty järjen kanssa, järkevästi toimiva
 
 ⟪११⟫. ⟪धर्मयज्ञेन⟫ ⟪।⟫ ⟪धर्मेनैव⟫ ⟪यज्ञेन⟫ ⟪।⟫ ⟪धर्मस्य⟫ ⟪यज्ञ्नेन⟫ — verettömän uhrin kautta
 
@@ -48,7 +48,7 @@ B) Ratkaise seuraavat Tatpuruṣa-yhdyssanat: <!-- TODO: Fallback translation --
 
 ⟪१४⟫. ⟪ग्रामलेखकाः⟫ ⟪।⟫ ⟪ग्रामाणां⟫ ⟪लेखकाः⟫ — kylänkirjoittajat
 
-⟪१५⟫. ⟪नागदेवः⟫ ⟪।⟫ ⟪नागानां⟫ ⟪देवः⟫ — käärmejumala, kärmekuningas, norsujumala, norsukuningas <!-- TODO: Fallback translation -->
+⟪१५⟫. ⟪नागदेवः⟫ ⟪।⟫ ⟪नागानां⟫ ⟪देवः⟫ — käärmejumala, kärmekuningas, norsujumala, norsukuningas
 
 ⟪१६⟫. ⟪पुण्यजिताभिः⟫ ⟪।⟫ ⟪पुण्येन⟫ ⟪जिताभिः⟫ — ansion / hyvän teon kautta voittanut (naispuolinen)
 
@@ -58,9 +58,9 @@ B) Ratkaise seuraavat Tatpuruṣa-yhdyssanat: <!-- TODO: Fallback translation --
 
 ⟪१९⟫. ⟪दानधर्मेण⟫ ⟪।⟫ ⟪दानस्य⟫ ⟪धर्मेण⟫ ⟪।⟫ ⟪दानेनैव⟫ ⟪धर्मेण⟫ — lahjoittamisen velvollisuuden kautta
 
-⟪२०⟫. ⟪सुखप्रश्नः⟫ ⟪।⟫ ⟪सुखस्य⟫ ⟪प्रश्नः⟫ ⟪।⟫ ⟪सुखः⟫ ⟪प्रश्नः⟫ — kysymys onnellisuudesta, kysymys hyvinvoinnista, kysymys voinnista, kevyt kysymys <!-- TODO: Fallback translation -->
+⟪२०⟫. ⟪सुखप्रश्नः⟫ ⟪।⟫ ⟪सुखस्य⟫ ⟪प्रश्नः⟫ ⟪।⟫ ⟪सुखः⟫ ⟪प्रश्नः⟫ — kysymys onnellisuudesta, kysymys hyvinvoinnista, kysymys voinnista, kevyt kysymys
 
-⟪२१⟫. ⟪दुःखमोहस्य⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहस्य⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪मोहस्य⟫ — kärsimyksen aiheuttama hämmennys, epätoivo, harha ajattelussa kärsimyksestä <!-- TODO: Fallback translation -->
+⟪२१⟫. ⟪दुःखमोहस्य⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहस्य⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪मोहस्य⟫ — kärsimyksen aiheuttama hämmennys, epätoivo, harha ajattelussa kärsimyksestä
 
 ⟪२२⟫. ⟪सोमपात्राणि⟫ ⟪।⟫ ⟪सोमस्य⟫ ⟪पात्राणि⟫ — astiapatiaat
 
@@ -77,11 +77,11 @@ B) Ratkaise seuraavat Tatpuruṣa-yhdyssanat: <!-- TODO: Fallback translation --
 Kuv.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung014))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Lisäharjoitukset <!-- TODO: Fallback translation -->
+## Lisäharjoitukset
 
-Ratkaise seuraavat yhdyssanat Sanskritiksi Tatpuruṣa-tyyppisinä ja anna saksankielinen käännös. Anna kaikki mahdolliset ratkaisut ja käännökset, jotka näet mahdollisiksi. Ilmoita myös, mihin sijamuotoon ja lukumaaraan kokonaisyhdyssana kuuluu. <!-- TODO: Fallback translation -->
+Ratkaise seuraavat yhdyssanat Sanskritiksi Tatpuruṣa-tyyppisinä ja anna saksankielinen käännös. Anna kaikki mahdolliset ratkaisut ja käännökset, jotka näet mahdollisiksi. Ilmoita myös, mihin sijamuotoon ja lukumaaraan kokonaisyhdyssana kuuluu.
 
 
 ⟪१⟫. ⟪देवेन्द्रस्य⟫ ⟪।⟫ ⟪देवानामिन्द्रस्य⟫ — Jumalten ruhton johtaja
@@ -100,17 +100,17 @@ Ratkaise seuraavat yhdyssanat Sanskritiksi Tatpuruṣa-tyyppisinä ja anna saksa
 
 ⟪८⟫. ⟪देवेश्वरः⟫ ⟪।⟫ ⟪देवानामीश्वरः⟫ — HERRA jumalista
 
-⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — uhri (akkusatiivi) kṣatriyoiden / kṣatriyan uhri, kṣatriyoille / yhdelle kṣatriyalle <!-- TODO: Fallback translation -->
+⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — uhri (akkusatiivi) kṣatriyoiden / kṣatriyan uhri, kṣatriyoille / yhdelle kṣatriyalle
 
 ⟪१०⟫. ⟪वैश्यभावेन⟫ ⟪।⟫ ⟪वैश्यस्य⟫ ⟪भावेन⟫ ⟪।⟫ ⟪वैश्यानां⟫ ⟪भावेन⟫ — vaiśya-olennon kautta
 
-⟪११⟫. ⟪देवगुरोः⟫ ⟪।⟫ ⟪देवानां⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्येव्⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्यैव⟫ ⟪गोरोः⟫ — jumalten opettaja, jumalten kaltainen opettaja, jumalallinen opettaja <!-- TODO: Fallback translation -->
+⟪११⟫. ⟪देवगुरोः⟫ ⟪।⟫ ⟪देवानां⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्येव्⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्यैव⟫ ⟪गोरोः⟫ — jumalten opettaja, jumalten kaltainen opettaja, jumalallinen opettaja
 
 ⟪१२⟫. ⟪धनलोभः⟫ ⟪॥⟫ ⟪धनस्य⟫ ⟪लोभः⟫ ⟪।⟫ ⟪धनानां⟫ ⟪लोभः⟫ — aineellinen voitto
 
 ⟪१३⟫. ⟪गृहदासी⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪दासी⟫ — kotityttö
 
-⟪१४⟫. ⟪दुःखमोहः⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहः⟫ — hämärtyminen kärsimyksestä, sekaannus kärsimyksen kautta <!-- TODO: Fallback translation -->
+⟪१४⟫. ⟪दुःखमोहः⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहः⟫ — hämärtyminen kärsimyksestä, sekaannus kärsimyksen kautta
 
 ⟪१५⟫. ⟪ग्रामेश्वरम्⟫ ⟪।⟫ ⟪ग्रामस्येश्वरम्⟫ ⟪।⟫ ⟪ग्रामाणामीश्वरम्⟫ — kylän isännät
 
@@ -132,13 +132,13 @@ Ratkaise seuraavat yhdyssanat Sanskritiksi Tatpuruṣa-tyyppisinä ja anna saksa
 
 ⟪२४⟫. ⟪स्वर्गगताः⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गताः⟫ — taivaaseen päässeet
 
-⟪२५⟫. ⟪सुखप्रश्नम्⟫ ⟪।⟫ ⟪सुखस्य⟫ ⟪प्रश्नम्⟫ — (akk.) kysymys onnesta, kysymys hyvinvoinnista, kysymys vointista, kevyt kysymys <!-- TODO: Fallback translation -->
+⟪२५⟫. ⟪सुखप्रश्नम्⟫ ⟪।⟫ ⟪सुखस्य⟫ ⟪प्रश्नम्⟫ — (akk.) kysymys onnesta, kysymys hyvinvoinnista, kysymys vointista, kevyt kysymys
 
 ⟪२६⟫. ⟪पशुधर्मः⟫ ⟪।⟫ ⟪पशोर्धर्मः⟫ ⟪।⟫ ⟪पशूनां⟫ ⟪धर्मः⟫ — karjan laki, karja-käyttäytyminen
 
 ⟪२७⟫. ⟪स्वर्गलोकः⟫ ⟪।⟫ ⟪स्वर्⟫ga⟪णां⟫ ⟪लोकः⟫ ⟪।⟫ ⟪स्वर्ग⟫ ⟪एव⟫ ⟪लोकः⟫ — taivaallinen maailma, taivaiden maailma
 
-⟪२८⟫. ⟪ऋषियज्ञैः⟫ ⟪।⟫ ⟪ऋषेर्यज्ञैः⟫ ⟪।⟫ ⟪ऋषीणां⟫ ⟪यज्ञैः⟫ — vedisten viisaiden uhrien / vedisen viisaan kautta <!-- TODO: Fallback translation -->
+⟪२८⟫. ⟪ऋषियज्ञैः⟫ ⟪।⟫ ⟪ऋषेर्यज्ञैः⟫ ⟪।⟫ ⟪ऋषीणां⟫ ⟪यज्ञैः⟫ — vedisten viisaiden uhrien / vedisen viisaan kautta
 
 ⟪२९⟫. ⟪तत्कालम्⟫ ⟪।⟫ ⟪तस्य⟫ ⟪कालम्⟫ ⟪।⟫ ⟪त्स्याः⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तेषां⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तासां⟫ ⟪कालम्⟫ — aika (akkusatiivi) sille, oikea hetki sille
 
@@ -148,5 +148,5 @@ Ratkaise seuraavat yhdyssanat Sanskritiksi Tatpuruṣa-tyyppisinä ja anna saksa
 ![](/images/uebung016.webp)
 Kuv.: ⟪गृहकरणम्⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung016))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

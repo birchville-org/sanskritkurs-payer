@@ -1,10 +1,11 @@
 ---
-title: Lektion 48
+title: "บทที่ 48"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # บทที่ 48
@@ -405,23 +406,3 @@ B) จงแปลเป็นภาษาสันสกฤต (ใช้คำ
 คำอธิบาย:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual ไปยัง ⟪द्वे⟫ ⟪कुले⟫ "สองครอบครัว"
 
-::: deleteme-box
-
-**lekt4801:** [แหล่งที่มาของภาพ: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- เข้าถึงเมื่อ 2009-01-10. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ระบุชื่อผู้สร้าง ห้ามใช้เพื่อการค้า แบบเดียวกัน)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [แหล่งที่มาของภาพ: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- เข้าถึงเมื่อ 2009-01-10. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ระบุชื่อผู้สร้าง ห้ามใช้เพื่อการค้า แบบเดียวกัน)]
-
-**lekt4803:** นักเล่นซิตาร์ = ⟪सितारवादकः⟫ [แหล่งที่มาของภาพ: Wikipedia. Domain สาธารณะ]
-
-**lekt4804:** [กลุ่มช่วยเหลือตนเอง (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [แหล่งที่มาของภาพ: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- เข้าถึงเมื่อ 2009-01-10. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ระบุชื่อผู้สร้าง ห้ามใช้เพื่อการค้า)]
-
-**lekt4805:** เทศกาลไทปูซัม = தைப்பூசัม, Batu Caves, มาเลเซีย [แหล่งที่มาของภาพ: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- เข้าถึงเมื่อ 2009-01-10. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by/2.0/deed.de) (ระบุชื่อผู้สร้าง)]
-
-**lekt4806:** ⟪नेपाल⟫ [แหล่งที่มาของภาพ: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- เข้าถึงเมื่อ 2009-01-10. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ระบุชื่อผู้สร้าง ห้ามใช้เพื่อการค้า ไม่มีการดัดแปลง)]
-
-**lekt4807:** ⟪जोधपुर⟫ [แหล่งที่มาของภาพ: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- เข้าถึงเมื่อ 2009-01-10. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ระบุชื่อผู้สร้าง ห้ามใช้เพื่อการค้า ไม่มีการดัดแปลง)]
-
-**lekt4808:** ทะเลสาบการังจิ = ಕಾರಂಜಿ ಕೆರೆ [แหล่งที่มาของภาพ: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh_kamath/2791791571/](http://www.flickr.com/photos/nagesh_kamath/2791791571/). -- เข้าถึงเมื่อ 2009-01-10. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ให้เครดิต, แบบเดียวกัน)]
-
-**lekt4809:** (ภาพ: Payer)
-:::

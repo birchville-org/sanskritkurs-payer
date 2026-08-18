@@ -5,7 +5,7 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # שיעור 41
 
@@ -73,7 +73,7 @@ status: stable
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
 | **⟪क्री⟫** 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. "בינוני" של חובה פסיבית (Gerundivum) (⟪कृत्य⟫) <!-- TODO: Fallback translation -->
+### 41.2.2. "בינוני" של חובה פסיבית (Gerundivum) (⟪कृत्य⟫)
 
 ::: grammar-box
 **כדי לבטא את הצורך הפסיבי ("מה שצריך/יש לעשות"), ניתן ליצור תארים משורשים וגזירות שורש פעלים באמצעות הסופיקסים הבאים:**
@@ -106,7 +106,7 @@ status: stable
 | :--- | :--- | :--- |
 | ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | "jemand, der besiegt werden muss; ein zu besiegender" |
 | ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "das, wo man sich befinden soll" |
-| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" | <!-- TODO: Fallback translation -->
+| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" |
 
 :::
 #### 41.2.2.2. הסיומת -⟪अनीय⟫ / -⟪अनीया⟫
@@ -131,7 +131,7 @@ status: stable
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "zu tuendes" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "was man sehen muss; sehenswertes" |
 | ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "ein zu weckender" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
 
 :::
 #### 41.2.2.3. הסיומת -⟪य⟫ / -⟪या⟫
@@ -155,7 +155,7 @@ status: stable
 | | | |
 | :--- | :--- | :--- |
 | ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "zu wissendes; was erkannt werden muss" |
-| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" |
 
 :::
 ::: grammar-box
@@ -167,7 +167,7 @@ status: stable
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" | <!-- TODO: Fallback translation -->
+| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" |
 
 :::
 ::: grammar-box
@@ -180,7 +180,7 @@ status: stable
 | | | |
 | :--- | :--- | :--- |
 | ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "zu verkaufen; verkäuflich" |
-| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" | <!-- TODO: Fallback translation -->
+| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" |
 
 :::
 ::: media
@@ -199,7 +199,7 @@ status: stable
 | | | |
 | :--- | :--- | :--- |
 | ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "was gepriesen werden soll" |
-|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" | <!-- TODO: Fallback translation -->
+|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" |
 
 :::
 דוגמאות לשורשים מסתיימים בעיצורים (לחוקים ראה קילפורן, דקדוק סעיף 533ff.):
@@ -213,7 +213,7 @@ status: stable
 | | | |
 | :--- | :--- | :--- |
 | ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "sehenswert" |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" | <!-- TODO: Fallback translation -->
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" |
 
 :::
 ::: media
@@ -230,7 +230,7 @@ status: stable
 | | | |
 | :--- | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "zu hassender = Feind" |
-| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" | <!-- TODO: Fallback translation -->
+| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" |
 
 :::
 ::: grammar-box
@@ -246,7 +246,7 @@ status: stable
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" | <!-- TODO: Fallback translation -->
+| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" |
 
 :::
 ::: indent
@@ -274,7 +274,7 @@ status: stable
 | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "zu gehender" |
 | ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "zu hörender" |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" | <!-- TODO: Fallback translation -->
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
 
 :::
 ### 41.2.3. תחביר לגבי "השם הפעול" של הצורך הפסיבי (Gerundivum) (⟪कृत्य⟫)
@@ -369,11 +369,6 @@ PPP **⟪शिष्ट⟫** : מלומד, חכם
 
 ⟪सङ्घ⟫ n.: (ל-⟪सम्⟫-⟪हन्⟫ : להכות יחד): קבוצה, המון, קהילה (למשל בודהיסטית)
 
-::: deleteme-box
-ראה גם:
-
-**פייאר, אלוס (1944–):** וינאיהמוכה: מושגי יסוד של חוקי הסדר ודיני הסדר של תרוואדה. -- חלק I. -- (חומרים למושגי היסוד של הבודהיזם). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: נערה צעירה, בת, בתולה
 
 ⟪अति⟫ קדם-פעל: מעל, מעל - דרך, מעל - מעבר (במרחב, בזמן, במספר, בכמות, בסדר, בכוח, בעוצמה), ביותר מדי
@@ -404,16 +399,3 @@ PPP **⟪अतीत⟫** : n. עבר
 
 ⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
 
-::: deleteme-box
-
-- **תמונה lekt4102.jpg** (איור: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): בובהנשׁוור = ଭୁବନେଶ୍ବର [מקור התמונה: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- נגיש ב-2009-01-02. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
-- **תמונה lekt4103.jpg** (איור: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [מקור התמונה: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- נגיש ב-2009-01-03. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
-- **תמונה lekt4106.jpg** (איור: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): בית תפילה באהאי, דלהי [מקור התמונה: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- נגיש ב-2009-01-03. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
-- **תמונה lekt4107.jpg** (איור: ⟪मान्यः⟫): ד"ר בימראו רמג'י אמבקאר = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [מקור התמונה: ויקיפדיה. תחום הציבור]
-- **תמונה lekt4108.jpg** (איור: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका⟫ ⟪घाट⟫, 1922 [מקור התמונה LoC/ויקיפדיה. תחום הציבור]
-- **תמונה lekt4105.jpg** (איור: ⟪भुजङ्गः⟫): קראי פסים (_Bungarus fasciatus_) [מקור התמונה: J. Ewart. הנחשים הארסיים של הודו, 1878. תחום הציבור]
-- **תמונה lekt4104.jpg** (איור: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): חליבת ארס נחש (קראי), תאילנד [מקור התמונה: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- נגיש ב-2009-01-03. -- רישיון Creative Commons (ייחוס)]
-- **תמונה lekt4109.jpg** (איור: ⟪शासना⟫): ציון אשוקה, דהולי, אוריסה [מקור התמונה: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- נגיש ב-2009-01-03. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
-- **תמונה lekt4110.jpg** (איור: ⟪शास्त्री⟫): מקס מילר (1823 - 1900), כ-1898 [מקור התמונה: ויקיפדיה. תחום הציבור]
-- **תמונה lekt4111.jpg** (איור: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [מקור התמונה: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- נגיש ב-2009-01-04. -- רישיון Creative Commons (ייחוס, ללא עיבוד)]
-:::

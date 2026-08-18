@@ -265,7 +265,7 @@ status: stable
 Рис.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Джерело зображення: [Деталі](/uk/licenses#lekt4802))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  -→
 
 :::
 ::: media
@@ -406,23 +406,3 @@ B) Перекладіть санскритом (використовуючи н�
 Пояснення:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Двоїна до ⟪द्वे⟫ ⟪कुले⟫ "дві родини"
 
-::: deleteme-box
-
-**lekt4801:** [Джерело зображення: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Згадка авторства, некомерційне використання, подібне розповсюдження)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Джерело зображення: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Згадка авторства, некомерційне використання, подібне розповсюдження)]
-
-**lekt4803:** Гравці на ситарах = ⟪सितारवादकः⟫ [Джерело зображення: Wikipedia. Суспільне надбання]
-
-**lekt4804:** [Група самопомочі (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Джерело зображення: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Згадка авторства, некомерційне використання)]
-
-**lekt4805:** Свято Thaipusam = தைப்பூசம், Batu Caves, Малайзія [Джерело зображення: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Згадка авторства)] &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt4806:** ⟪नेपाल⟫ [Джерело зображення: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Згадка авторства, некомерційне використання, без обробки)]
-
-**lekt4807:** ⟪जोधपुर⟫ [Джерело зображення: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Згадка авторства, некомерційне використання, без обробки)]
-
-**lekt4808:** Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Джерело зображення: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Згадка авторства, подібне розповсюдження)] &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt4809:** (Зображення: Пайер)
-:::

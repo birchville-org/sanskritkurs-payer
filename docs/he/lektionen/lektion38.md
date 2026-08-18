@@ -47,7 +47,7 @@ status: stable
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
 | **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung | <!-- TODO: Fallback translation -->
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
 
 **הסיומים סדירים. יחיד נקבה זכר מנומק ללא -n בסוף המילה.**
 :::
@@ -587,20 +587,3 @@ PPP ⟪सृत⟫
 
 ⟪युष्माकम्⟫ תולד, רבים, ל-:sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: איור: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  בנגלור = ಬנגלור \[מקור תמונה: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- תאריך גישה 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)רישיון Creative Commons (ייחוס, שימוש לא מסחרי)\]
-- **lekt3802.jpg**: איור: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, קונארק = ⟪कोनार्क⟫ \[מקור תמונה: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- תאריך גישה 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)רישיון Creative Commons (ייחוס, שימוש לא מסחרי)\]
-- **lekt3803.jpg**: איור: ⟪सीमा⟫  מעבר גבול בין הודו לפקיסטן בואגה (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[מקור תמונה: Vandelizer. -- [http://www.flickr.com/photos/jeremy_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- תאריך גישה 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)\]
-- **lekt3804.jpg**: איור: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  גנדהארה, המאה ה-2/3 לספירה \[מקור תמונה: ויקיפדיה. תחום הציבור\]
-- **lekt3805.jpg**: איור: ⟪उदकम्⟫  כפר דאריוואדי, מחוז אחמד נגאר = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[מקור תמונה: Robin Murphy, מוסד המשאבים העולמי. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- תאריך גישה 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)\]
-- **lekt3806.jpg**: איור: ⟪हस्ती⟫  פארק לאומי נאגרהולה = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[מקור תמונה: gopalarathnam_v. -- [http://www.flickr.com/photos/gopalarathnam_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- תאריך גישה 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)\]
-- **lekt3807.jpg**: איור: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[מקור תמונה: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- תאריך גישה 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)\]
-- **lekt3808.jpg**: איור: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  שנות ה-1930 \[מקור תמונה: ויקיפדיה. תחום הציבור\]
-- **lekt3809.jpg**: איור: ⟪ब्रह्मा⟫  האליבידו = ಹಳೆಬೀಡು \[מקור תמונה: ויקיפדיה. רישיון GNU FDLicense\]
-- **lekt3810.jpg**: איור: עץ אשוקה = _Saraca asoca_ (Roxb.) Wilde קולקטה = কলকাতا \[מקור תמונה: J.M.Garg / ויקיפדיה. רישיון GNU FDLicense\]
-- **lekt3811.jpg**: איור: ההתפשטות הגדולה ביותר של האימפריה של אשוקה, ואתרי מציאת כתובות הסלע והעמודים שלו \[מקור תמונה: ויקיפדיה. רישיון GNU FDLicense\]
-- **lekt3812.jpg**: איור: ⟪विनोदः⟫  משחק קרומ \[מקור תמונה: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- תאריך גישה 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)\]
-- **lekt3813.jpg**: איור: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[מקור תמונה: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- תאריך גישה 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)רישיון Creative Commons (ייחוס, שימוש לא מסחרי)\]
-- **lekt3814.jpg**: איור: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[מקור תמונה: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- תאריך גישה 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)\]
-:::

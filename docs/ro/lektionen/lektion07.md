@@ -5,18 +5,10 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 7
 
-::: deleteme-box
-**În această lecție veți învăța:**
-- Propoziția verbală cu complement direct
-- Acuzativul substantivelor și pronumelor
-- Sandhi-ul pentru -n final
-- Neutru al stemelor în a-
-- Clasele de prezent atematic (exemplificat prin clasa a 5-a)
-:::
 
 ::: center
 **Cuvântul săptămânii**
@@ -131,14 +123,14 @@ Utilizări suplimentare ale acuzativului vor fi tratate mai târziu.
    **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (alături de gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫): „El îi ascultă pe învățători.” „El ascultă învățătorii.”
 
 2. În fața inițială **l-** este înlocuit cu **-l** cu Anunāsika (l nasalizat, în scris **⟪ल्⟫** cu Anunāsika **⟪ँ⟫**):
-   de ex. **paśūn + labhate** » ⟪पशूंल्लभते⟫: „El obține animale de folos.” <!-- TODO: Fallback translation -->
+   de ex. **paśūn + labhate** » ⟪पशूंल्लभते⟫: „El obține animale de folos.”
 
 3. În fața inițială a palatale, retroflexei sau dentale surde este înlocuit cu **Anusvāra** + șibilantul corespunzător acestor sunete:
    - **-n** în fața **c-, ch-** » **-ṃś**
    - **-n** în fața **ṭ-, ṭh-** » **-ṃṣ**
    - **-n** în fața **t-, th-** » **-ṃs**
    de ex. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫: „și zeii (Ac.)”
-   **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫: „dar zeii (Ac.)” <!-- TODO: Fallback translation -->
+   **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫: „dar zeii (Ac.)”
 
 4. În afară de după vocala scurtă (a se vedea mai târziu), finalul **-n** rămâne neschimbat în toate celelalte cazuri.
 :::
@@ -287,7 +279,7 @@ Fig.: **yajati** = ⟪यजति⟫ — Jertfă vedică = **yajña** m. = ⟪�
 6. DOMNUL se mânie.
 7. śikṣā kalpo vyākara�ṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
    ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
-8. Cărui zeu jertfe acest brahman? <!-- TODO: Fallback translation -->
+8. Cărui zeu jertfe acest brahman?
 
 ::: media
 ![](/images/lekt0703.webp)

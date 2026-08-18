@@ -1,10 +1,11 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: "Leçon 47"
+subtitle: "L'impératif (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 47
@@ -253,14 +254,3 @@ B.) Traduisez en sanskrit (utilisez l'impératif) :
 
 34). Qu'il apporte le bonheur (se produise) ! (Vœu de bénédiction)
 
-::: deleteme-box
-
-**lekt4702:** Temple Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Source de l'image : Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Consulté le 2009-01-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribution, pas de travaux dérivés)]
-
-**lekt4701:** [Source de l'image : lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Consulté le 2009-01-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, pas d'utilisation commerciale, partage à l'identique)]
-
-**lekt4703:** [Source de l'image : said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Consulté le 2009-01-10. -- [Licence Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt4704:** [Source de l'image : imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Consulté le 2009-01-10. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.fr) (Attribution, pas d'utilisation commerciale, pas de modification)]
-
-:::

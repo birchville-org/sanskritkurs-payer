@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 55
 
-Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entsprechenden Formen des **a-Aorists**: <!-- TODO: Fallback translation -->
+Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entsprechenden Formen des **a-Aorists**:
 
 ::: grammar-box
 | Nr. | Form | Bestimmung / Bedeutung | a-Aorist |
@@ -50,7 +50,7 @@ Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entspreche
 ![](/images/uebung092.webp)
 Abb.: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Bildquelle: [Details](/licenses#uebung092))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

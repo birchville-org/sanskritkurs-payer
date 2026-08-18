@@ -487,12 +487,3 @@ Beispiel: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-
-::: deleteme-box
-
-**lekt2801:** Jadavpur University Management building. [Bildquelle: noii's Flickr, 2008-12-19, CC BY-SA]
-**lekt2802:** ISKCON Temple Bangalore. [Bildquelle: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Vīṇā-Spielerin. [Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense]
-**lekt2804:** Kṛṣṇa und Rādhā. Gemälde von Rāja Ravi Varmā. [Bildquelle: Wikipedia. Public domain]
-**lekt2805:** Mädchen trägt Last. Bei Ahmedabad. [Bildquelle: m-bot. Flickr, 2008-12-20. CC BY-SA]
-:::

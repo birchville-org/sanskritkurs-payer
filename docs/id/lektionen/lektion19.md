@@ -208,15 +208,3 @@ Penjelasan: ⟪यथाकालम्⟫ Avyayībhāva-kompositum: pada waktu 
 :::
 Penjelasan: ⟪पुमान्⟫ Nom. sg. dari ⟪पुंस्⟫ "pria" ; ⟪लोके⟫ Lok. sg. dari ⟪लोक⟫ m.: di dalam ...
 
-::: deleteme-box
-
-**lekt1809:** Ilustrasi untuk ⟪कामसूत्र⟫ [Sumber gambar: Wikipedia, Domain Publik]
-
-**lekt1901:** Badami (ಬದಾಮಿ) [Sumber gambar: Sudarshan Bhat Khandige / Wikipedia, Domain Publik]
-
-**lekt1902:** Goa (⟪गोंय⟫) [Sumber gambar: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Diakses pada 2008-12-08. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tanpa karya turunan)]
-
-**lekt1903:** ⟪१९५९⟫ [Sumber gambar: Wikipedia, Domain Publik]
-
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), dengan pakaian tradisional, adalah sebuah kebiasaan di bagian selatan Kerala. _Onappottan_ mengunjungi rumah-rumah selama festival _onam_ dan memberikan berkah. Baru-baru ini, _onappottan_ telah menjadi pemandangan yang langka, terbatas pada desa-desa." [Sumber gambar: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Diakses pada 2008-12-08. -- Lisensi Creative Commons (Atribusi)]
-:::

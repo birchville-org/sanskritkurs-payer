@@ -13,7 +13,7 @@ status: stable
 
 ### 49.1.1. ϯⲙⲁϩ ϣⲁϣϥ ⲧⲁⲝⲓⲥ ⲛ̀ⲧⲉ ⲡ̀ⲧⲉⲗⲉⲓⲟⲛ (⟪रुधादि⟫)
 
-⟪युज्⟫ 7U <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -23,7 +23,7 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
 :::
-⟪रुध्⟫ 7U <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -33,12 +33,12 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
 :::
-### 49.1.2. Fünfte Präsensklasse (⟪स्वादि⟫) <!-- TODO: Fallback translation -->
+### 49.1.2. Fünfte Präsensklasse (⟪स्वादि⟫)
 
 ::: grammar-box
-Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden -u des Suffixes nur ein Konsonant vorausgeht. <!-- TODO: Fallback translation -->
+Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden -u des Suffixes nur ein Konsonant vorausgeht.
 :::
-⟪सु⟫ 5U <!-- TODO: Fallback translation -->
+⟪सु⟫ 5U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -48,7 +48,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪सुनु⟫]* | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
 :::
-⟪आप्⟫ 5P <!-- TODO: Fallback translation -->
+⟪आप्⟫ 5P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -58,9 +58,9 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | **2. Person** :br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
 :::
-### 49.1.3. Achte Präsensklasse (⟪तनादि⟫) <!-- TODO: Fallback translation -->
+### 49.1.3. Achte Präsensklasse (⟪तनादि⟫)
 
-⟪तन्⟫ 8U <!-- TODO: Fallback translation -->
+⟪तन्⟫ 8U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -70,7 +70,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪तनु⟫]* | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
 :::
-⟪कृ⟫ 8U <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -82,7 +82,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 :::
 ### 49.1.4. ⲧⲉⲛⲁⲩⲧⲉ ⲛⲡⲣⲁⲉⲥⲉⲛⲥⲕⲗⲁⲥⲥⲉ (⟪क्र्यादि⟫)
 
-⟪क्री⟫ 9U <!-- TODO: Fallback translation -->
+⟪क्री⟫ 9U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -93,9 +93,9 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | **3. Person** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 :::
 ::: grammar-box
-Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi der 2.sg.P Imperativ durch -āna <!-- TODO: Fallback translation -->
+Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi der 2.sg.P Imperativ durch -āna
 :::
-⟪ग्रह्⟫ 9U <!-- TODO: Fallback translation -->
+⟪ग्रह्⟫ 9U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -107,7 +107,7 @@ Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi
 :::
 ## 49.2. ⲇⲉⲕⲗⲓⲛⲁⲧⲓⲟⲛ ⲛ̀ⲛⲓⲛⲟⲙⲓⲛⲁⲗ ⲥⲧⲉⲙ ⲉⲧϫⲱⲕ ⲉ̀ⲃⲟⲗ ϧⲉⲛ -as, -is, -us
 
-#### Neutra (⟪नपुंसक⟫) <!-- TODO: Fallback translation -->
+#### Neutra (⟪नपुंसक⟫)
 
 ::: grammar-box
 | | **⟪मनस्⟫ n.** :br"Gedanke" | **⟪हविस्⟫ n.** :br"Opferspende" | **⟪चक्षुस्⟫ n.** :br"Auge" |
@@ -127,9 +127,9 @@ Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi
 | ⟪षष्ठी⟫ | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
 :::
-#### Maskulina (⟪पुंस्⟫) und Feminina (⟪स्त्री⟫) <!-- TODO: Fallback translation -->
+#### Maskulina (⟪पुंस्⟫) und Feminina (⟪स्त्री⟫)
 
-Die meisten Fälle sind **⟪बहुव्रीहि⟫** mit einem -s-Stamm (ursprünglich Neutrum) im Hinterglied. <!-- TODO: Fallback translation -->
+Die meisten Fälle sind **⟪बहुव्रीहि⟫** mit einem -s-Stamm (ursprünglich Neutrum) im Hinterglied.
 
 ::: grammar-box
 | | **⟪सुमनस्⟫ 3** :br"von gutem Denken, wohlwollend | **⟪दीर्घायुस्⟫ 3** :br"langlebig" |
@@ -140,7 +140,7 @@ Die meisten Fälle sind **⟪बहुव्रीहि⟫** mit einem -s-Stamm
 | ⟪आमन्त्रितम्⟫ | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
 :::
 ::: indent
-Übrige Kasus des Singular wie Neutrum <!-- TODO: Fallback translation -->
+Übrige Kasus des Singular wie Neutrum
 :::
 ::: grammar-box
 | | **⟪सुमनस्⟫ 3** | **⟪दीर्घायुस्⟫ 3** |
@@ -149,15 +149,15 @@ Die meisten Fälle sind **⟪बहुव्रीहि⟫** mit einem -s-Stamm
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
 :::
 ::: indent
-Übrige Kasus des Plural wie Neutrum <!-- TODO: Fallback translation -->
+Übrige Kasus des Plural wie Neutrum
 :::
 ## 49.3. ⲛⲟⲙⲓⲛⲁⲗ ⲃⲓⲗⲇⲩⲛⲅ: ⟪कृत्⟫-ⲥⲩⲫⲫⲓⲝ -as ⲛⲉⲩⲧⲣⲟⲛ
 
-Mit dem ⟪कृत्⟫-Suffix -as Neutrum werden zahlreiche Substantive gebildet. Meist sind es Abstrakta oder Nomina actionis (Wörter, die die Handlung bezeichnen). <!-- TODO: Fallback translation -->
+Mit dem ⟪कृत्⟫-Suffix -as Neutrum werden zahlreiche Substantive gebildet. Meist sind es Abstrakta oder Nomina actionis (Wörter, die die Handlung bezeichnen).
 
-Kurzer Vokal der Wurzel vor einfachem Konsonant sowie auslautender Wurzelvokal erscheinen in der Hochstufe. <!-- TODO: Fallback translation -->
+Kurzer Vokal der Wurzel vor einfachem Konsonant sowie auslautender Wurzelvokal erscheinen in der Hochstufe.
 
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ::: grammar-box
 | Wurzel | Nomen auf -as |
@@ -166,33 +166,33 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪नम्⟫ 1P "beugen" | ⟪नमस्⟫ n. "Verbeugung, Verehrung" |
 | ⟪चित्⟫ 1P "wahrnehmen, denken" | ⟪चेतस्⟫ n. "Einsicht" |
 :::
-Nomina auf -is und -us sind relativ selten. <!-- TODO: Fallback translation -->
+Nomina auf -is und -us sind relativ selten.
 
 ::: media
 ![](/images/lekt4907.webp)
 Abb.: ⟪नमस्ते⟫
-(Bildquelle: [Details](/licenses#lekt4907)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4907))
 :::
 ## 49.4. Wortliste
 
-⟪दीर्घ⟫ 3: lange <!-- TODO: Fallback translation -->
+⟪दीर्घ⟫ 3: lange
 
-⟪ह्रस्व⟫ 3: kurz <!-- TODO: Fallback translation -->
+⟪ह्रस्व⟫ 3: kurz
 
-⟪आयुस्⟫ n.: Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ; <!-- TODO: Fallback translation -->
+⟪आयुस्⟫ n.: Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ;
 
 ::: indent
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪आयुर्वेद⟫ m.: das traditionelle medizinische System Indiens <!-- TODO: Fallback translation -->
+⟪आयुर्वेद⟫ m.: das traditionelle medizinische System Indiens
 
-siehe: <!-- TODO: Fallback translation -->
+siehe:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer \<1944 - \>. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm) <!-- TODO: Fallback translation -->
+**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer \<1944 - \>. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern <!-- TODO: Fallback translation -->
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -202,9 +202,9 @@ Kaus. ⟪क्षेपयति⟫
 PPP ⟪क्षिप्त⟫
 Inf. ⟪क्षेप्तुम्⟫
 Absol. -⟪क्षिप्य⟫
-Gerundiv: ⟪क्षेप्य⟫ <!-- TODO: Fallback translation -->
+Gerundiv: ⟪क्षेप्य⟫
 :::
-⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : eilen <!-- TODO: Fallback translation -->
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : eilen
 
 ::: indent
 Perf. Vc ⟪तत्वरे⟫
@@ -212,9 +212,9 @@ Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
 PPP ⟪त्वरित⟫ ⟪।⟫ ***:sig[⟪तू्र्⟫]***⟪ण⟫
-Inf. ⟪त्वरितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪त्वरितुम्⟫
 :::
-⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schädigen <!-- TODO: Fallback translation -->
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schädigen
 
 ::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
@@ -222,65 +222,65 @@ Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष�
 Pass. ⟪द्रुह्यते⟫
 Kaus. ⟪द्रोहयति⟫
 PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
-Inf. ⟪द्रोग्धुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪द्रोग्धुम्⟫
 :::
-⟪कुलूहल⟫ n.: Neugier, Interesse <!-- TODO: Fallback translation -->
+⟪कुलूहल⟫ n.: Neugier, Interesse
 
 ::: media
 ![](/images/lekt4901.webp)
 Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/licenses#lekt4901)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: ganz, vollständig <!-- TODO: Fallback translation -->
+⟪कृत्स्न⟫ 3: ganz, vollständig
 
-⟪परिचय⟫ m.: Bekanntschaft <!-- TODO: Fallback translation -->
+⟪परिचय⟫ m.: Bekanntschaft
 
-⟪कला⟫ f.: Kunst <!-- TODO: Fallback translation -->
+⟪कला⟫ f.: Kunst
 
 ::: media
 ![](/images/lekt4902.webp)
 Abb.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt.
-(Bildquelle: [Details](/licenses#lekt4902)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: Wunsch <!-- TODO: Fallback translation -->
+⟪वर⟫ m.n.: Wunsch
 
-⟪उत⟫ Indekl.: und, auch, oder <!-- TODO: Fallback translation -->
+⟪उत⟫ Indekl.: und, auch, oder
 
-⟪विहंग⟫ m.: Vogel ("in den Luf⟪स्⟫traum - ⟪विह⟫ - gehend") <!-- TODO: Fallback translation -->
+⟪विहंग⟫ m.: Vogel ("in den Luf⟪स्⟫traum - ⟪विह⟫ - gehend")
 
 ::: media
 ![](/images/lekt4903.jpg)
 Abb.: ⟪विहंगः⟫
-(Bildquelle: [Details](/licenses#lekt4903)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: Kleid, Aussehen, Äußeres <!-- TODO: Fallback translation -->
+⟪वेष⟫ m.: Kleid, Aussehen, Äußeres
 
 ::: media
 ![](/images/lekt4904.webp)
 Abb.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
-(Bildquelle: [Details](/licenses#lekt4904)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: Decke, Versteck <!-- TODO: Fallback translation -->
+⟪छन्न⟫ n.: Decke, Versteck
 
-⟪पञ्जर⟫ n.: Käfig <!-- TODO: Fallback translation -->
+⟪पञ्जर⟫ n.: Käfig
 
 ::: media
 ![](/images/lekt4909.webp)
 Abb.: ⟪पञ्जरम्⟫
 Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore
-(Bildquelle: [Details](/licenses#lekt4909)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit) <!-- TODO: Fallback translation -->
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: selbst, von selbst <!-- TODO: Fallback translation -->
+⟪स्वयम्⟫ Indekl.: selbst, von selbst
 
-⟪अवनि⟫ f.: Erde <!-- TODO: Fallback translation -->
+⟪अवनि⟫ f.: Erde
 
-⟪मुहूर्त⟫ m.,n.: Augenblick, Moment, rechter Augenblick <!-- TODO: Fallback translation -->
+⟪मुहूर्त⟫ m.,n.: Augenblick, Moment, rechter Augenblick
 
-⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : sich vorstellen, denken <!-- TODO: Fallback translation -->
+⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : sich vorstellen, denken
 
 ::: indent
 Perf. IV ⟪दध्यौ⟫
@@ -289,31 +289,31 @@ Pass. ⟪ध्यायते⟫
 Kaus. ⟪ध्यापयति⟫
 PPP ⟪ध्यात⟫
 Inf. ⟪ध्यातुम्⟫
-Gerundiv ⟪ध्येय⟫ <!-- TODO: Fallback translation -->
+Gerundiv ⟪ध्येय⟫
 :::
-⟪आदर⟫ m.: Rücksicht, Beachtung, Respekt <!-- TODO: Fallback translation -->
+⟪आदर⟫ m.: Rücksicht, Beachtung, Respekt
 
 ::: media
 ![](/images/lekt4905.webp)
 Abb.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Bildquelle: [Details](/licenses#lekt4905)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: fernster, höchster ; ⟪पञ्चम्या⟫ : besser als, höher als <!-- TODO: Fallback translation -->
+⟪परम⟫ 3: fernster, höchster ; ⟪पञ्चम्या⟫ : besser als, höher als
 
-⟪शिशु⟫ m.: Kind, Junges <!-- TODO: Fallback translation -->
+⟪शिशु⟫ m.: Kind, Junges
 
 ::: media
 ![](/images/lekt4906.webp)
 Abb.: ⟪गजशिशुः⟫
 Sri Lanka
-(Bildquelle: [Details](/licenses#lekt4906)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4906))
 :::
 ## 49.5. ⲙⲉⲗⲉⲧⲏ ⲛ̀ⲧⲉ ϯⲫⲟⲣⲙⲟⲗⲟⲅⲓⲁ
 
-Bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
+Bestimmen Sie folgende Formen:
 
 1.  ⟪गृहाणि⟫
 2.  ⟪नमानि⟫
@@ -357,9 +357,9 @@ Bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
 
 ## 49.6. ⲥⲡⲟⲩⲇⲏ ⲛ̀ⲧⲉ ⲧⲙⲉⲧⲉⲣⲙⲏⲛⲉⲩⲧⲓⲕⲏ
 
-⟪बान⟫ (7. Jhdt. n. Chr.): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, S. 35f. <!-- TODO: Fallback translation -->
+⟪बान⟫ (7. Jhdt. n. Chr.): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, S. 35f.
 
-Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den Papagei ⟪वैशम्पायन⟫: <!-- TODO: Fallback translation -->
+Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den Papagei ⟪वैशम्पायन⟫:
 
 ⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪।⟫
 
@@ -369,28 +369,6 @@ Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den 
 ![](/images/lekt4908.webp)
 Abb.: ⟪शुकः⟫
 Pflaumenkopfsittich = Psittacula cyanocephala
-(Bildquelle: [Details](/licenses#lekt4908)) <!-- TODO: Fallback translation -->
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Bildquelle: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Zugriff am 2009-01-10. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt4901:** [Bildquelle: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt. [Bildquelle: Vassil / Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt4903:** [Bildquelle: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Bildquelle: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt4909:** Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore [Bildquelle: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Zugriff am 2009-01-12. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Bildquelle: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
-
-**lekt4906:** Sri Lanka [Bildquelle: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt4908:** Pflaumenkopfsittich _= Psittacula cyanocephala_[Bildquelle: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-
+(Bildquelle: [Details](/licenses#lekt4908))
 :::
 

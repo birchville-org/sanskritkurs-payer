@@ -36,7 +36,7 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪।⟫ ⟪त्रयो⟫ ⟪वर्णाद्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (ἐν καλῷ Σανσκριτ: sāmargyajurvedās trayī) <!-- TODO: Fallback translation -->
+3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (ἐν καλῷ Σανσκριτ: sāmargyajurvedās trayī)
 
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫
 
@@ -54,7 +54,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 Ἐπιθυμία, ὀργὴ καὶ πλεονεξία.
 
-kāmaḥ krodho lobhaś ca. <!-- TODO: Fallback translation -->
+kāmaḥ krodho lobhaś ca.
 
 ⟪कामः⟫ ⟪क्रोधो⟫ ⟪लोभश्च⟫ ⟪।⟫
 
@@ -82,7 +82,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Μετὰ Kauṭilīya-arthaśāstra 1.2.1.) <!-- TODO: Fallback translation -->
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Μετὰ Kauṭilīya-arthaśāstra 1.2.1.)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫
 

@@ -214,15 +214,3 @@ B) Forme, para as seguintes raízes da 7ª classe, todas as 3ªs pessoas do sing
 
 ⟪५⟫. ⟪भञ्ज्⟫ (apenas P)
 
-::: deleteme-box
-
-**lekt3101:** Representação de ioga. [Fonte da imagem: Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
-
-**lekt3102:** Preparação para a dança Kathakali, Kochi. [Fonte da imagem: winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**lekt3103:** De um manuscrito Prajñāpāramitā. [Fonte da imagem: zeno.org. Domínio público]
-
-**lekt3105:** Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War. [Fonte da imagem: Hari Singh Deora / Wikipedia. Domínio público]
-
-**lekt3104:** Rāhula, o filho de Buda, Laos. [Fonte da imagem: Sacca / Wikipedia. GNU FDL]
-:::

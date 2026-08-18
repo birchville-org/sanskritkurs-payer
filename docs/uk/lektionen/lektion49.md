@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  -→
 
 # Урок 49
 
@@ -190,7 +190,7 @@ status: stable
 
 :::
 ::: indent
-**Carakasaṃhitā:** Вибрані тексти з Carakasaṃhitā / переклад і коментарі Alois Payer \&lt;1944 - \&gt;. -- 0. Вступ. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Вибрані тексти з Carakasaṃhitā / переклад і коментарі Alois Payer (1944–). -- 0. Вступ. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : кидати, метати
 
@@ -370,27 +370,5 @@ Gerundiv ⟪ध्येय⟫
 Рис.: ⟪शुकः⟫
 Сивоплясковий папуга-довгохвіст = Psittacula cyanocephala
 (Джерело зображення: [Деталі](/uk/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Джерело зображення: Радеш Васудеван. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, Non-commercial, Share Alike)]
-
-**lekt4901:** [Джерело зображення: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Доступ від 2009-01-11. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribution, No Derivative Works)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, XI ст. [Джерело зображення: Vassil / Вікіпедія. Суспільне надбання]
-
-**lekt4903:** [Джерело зображення: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Доступ від 2009-01-11. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial, No Derivative Works)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Джерело зображення: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Доступ від 2009-01-11. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, Non-commercial, Share Alike)]
-
-**lekt4909:** Гадалка з папугою в клітці: папуга витягує папірці, на яких написано долю, Майсор [Джерело зображення: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Доступ від 2009-01-12. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt4905:** Амрітсар = ਅੰਮ੍ਰਿਤਸਰ [Джерело зображення: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Доступ від 2009-01-11. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt4906:** Шрі-Ланка [Джерело зображення: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Доступ від 2009-01-11. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial, No Derivative Works)]
-
-**lekt4908:** Сивоплясковий папуга-довгохвіст _= Psittacula cyanocephala_[Джерело зображення: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Доступ від 2009-01-12. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Згадка імені, некомерційне використання, з тими ж умовами)]
-
 :::
 

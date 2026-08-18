@@ -316,13 +316,3 @@ B) ⟪क्षत्रिया⟫ f. የሚለውን በምታውቋቸው �
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [የምስል ምንጭ: Wikipedia. GNU FDLicense]
-
-**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [የምስል ምንጭ: በ zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- የተገኘው በ 2008-12-13. -- የCreative Commons ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ ምንም ዓይነት ለውጥ ያልተደረገበት)]
-
-**lekt2303:** ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย [የምስል ምንጭ: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- የተገኘው በ 2008-12-13. -- የCreative Commons ፈቃድ (ባለቤትነትን መጥቀስ፣ ምንም ዓይነት ለውጥ ያልተደረገበት)]
-
-**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, ከ2004 ጀምሮ [የምስል ምንጭ: Wikipedia, የህዝብ ንብረት]
-:::

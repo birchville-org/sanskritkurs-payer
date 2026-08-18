@@ -1,10 +1,11 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "ትምህርት 44"
+subtitle: "የሁለተኛ ሰው ቅጦች መዋቅር (⟪मध्यमः⟫) በአልፋቤት የማይመደቡ ስርዓቶች ከሚያልቅ ቃል ጋር"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ትምህርት 44
@@ -200,7 +201,7 @@ status: stable
 ::: media
 ![](/images/lekt4402.webp)
 ምስል: በጀርመንኛ 'ኦ'ን በትክክል ስለመጠቀም: **'ኦ ወንድ!'**
-(የምስል ምንጭ: [ዝርዝሮች](/licenses#lekt4402))
+(የምስል ምንጭ: [ዝርዝሮች](/am/licenses#lekt4402))
 :::
 
 ::: grammar-box
@@ -238,7 +239,7 @@ status: stable
 ::: media
 ![](/images/lekt4403.webp)
 ምስል፦ ⟪रेल्यानम्⟫
-(የምስሉ ምንጭ፦ [ዝርዝሮች](/licenses#lekt4403))
+(የምስሉ ምንጭ፦ [ዝርዝሮች](/am/licenses#lekt4403))
 :::
 ⟪शी⟫ 2Ā ⟪शेते⟫ : መተኛት። ይህ ሥር በሁሉም የአሁን ጊዜ ግንድ ቅርጾች **ከፍተኛ ደረጃ** አለው፡ 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e)። የሚከተሉት ቅርጾች በተለይ ልብ ሊባሉ ይገባል፡ 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
 
@@ -256,7 +257,7 @@ status: stable
 ::: media
 ![](/images/lekt4404.webp)
 ምስል: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(የምስሉ ምንጭ: [ዝርዝሮች](/licenses#lekt4404))
+(የምስሉ ምንጭ: [ዝርዝሮች](/am/licenses#lekt4404))
 :::
 ⟪नन्द्⟫ 1P ⟪नन्दति⟫ : በ(⟪तृतीयया⟫) መደሰት
 
@@ -277,7 +278,7 @@ PPP ⟪नन्दित⟫
 ::: media
 ![](/images/lekt4405.webp)
 ምስል፦ ⟪नन्दी⟫
-(የምስል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4405))
+(የምስል ምንጭ፦ [ዝርዝሮች](/am/licenses#lekt4405))
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : በ(⟪द्वितीयया⟫) መደሰት፣ አንድን ሰው በደስታ መቀበል፣ እንኳን ደህና መጣህ ማለት
 
@@ -300,7 +301,7 @@ PPP ⟪आयत⟫ 3: ረዥም የተዘረጋ
 ::: media
 ![](/images/lekt4406.webp)
 ምስል፦ ⟪आयतो⟫ ⟪मरुः⟫
-(የምስል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4406))
+(የምስል ምንጭ፦ [ዝርዝሮች](/am/licenses#lekt4406))
 :::
 ⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : ማቅረብ፣ ማቅረብ፣ ማስረከብ
 
@@ -323,7 +324,7 @@ Inf. ⟪यतितुम्⟫
 ::: media
 ![](/images/lekt4407.webp)
 ምስል፡ ⟪यत्नेन⟫
-(የምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4407))
+(የምስል ምንጭ፡ [ዝርዝሮች](/am/licenses#lekt4407))
 :::
 ⟪रभ्⟫ 1Ā ⟪रभते⟫ (የ⟪लभ्⟫ አማራጭ ቅርጽ)፡ መያዝ
 
@@ -340,15 +341,10 @@ PPP ⟪रब्ध⟫
 
 ⟪प्रव्रज्या⟫ f. (ከ ⟪प्र⟫-⟪व्रज्⟫)፡ ከቤት ወጥቶ ቤት አልባ መሆን፤ አንድ ሰው የቡድሂስት ጀማሪ የሚሆንበት ሥነ ሥርዓት (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-ይመልከቱ፡
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : የቴራቫዳ የሥርዓት ደንቦችና የሥርዓት ሕግ መሠረታዊ ፅንሰ-ሐሳቦች። -- ክፍል ፩። -- (ስለ ቡድሂዝም መሠረታዊ ፅንሰ-ሐሳቦች የሚገልጹ ጽሑፎች)። -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 ምስል፦ ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(የምስል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4408))
+(የምስል ምንጭ፦ [ዝርዝሮች](/am/licenses#lekt4408))
 :::
 ## 44.6. ልምምድ
 
@@ -410,7 +406,7 @@ PPP ⟪रब्ध⟫
 ::: media
 ![](/images/lekt4409.webp)
 ምስል፦ ⟪कस्माद्रोदिषि⟫
-(የምስል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4409))
+(የምስል ምንጭ፦ [ዝርዝሮች](/am/licenses#lekt4409))
 :::
 ለ) ይተርጉሙ፦
 
@@ -476,25 +472,3 @@ PPP ⟪रब्ध⟫
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
 
-::: deleteme-box
-
-**lekt4301.jpg**: ዝርዝሮች በ licenses.md ውስጥ
-
-**lekt4401.jpg**: በጽሑፉ ውስጥ ምንም ልዩ ፈቃድ/የምስል ምንጭ አልተገኘም
-
-**lekt4402.jpg**: የሄንሪ ገርባልት (1863 - 1930) ስዕል (የህዝብ ንብረት)
-
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- የተገኘው በ 2009-01-08 ነው። -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ ምንም ዓይነት ለውጥ አለማድረግ)
-
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- የተደረሰበት ቀን 2009-01-08። -- ክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ በተመሳሳይ መልኩ ማጋራት)
-
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- የተደረሰበት ቀን 2009-01-08። -- ክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ)
-
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- የተደረሰበት ቀን 2009-01-08። -- ክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ)
-
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- የተደረሰበት ቀን 2009-01-08። -- ክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ በተመሳሳይ መልኩ ማጋራት)
-
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- የተገኘው በ 2009-01-08 ነው። -- ክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ ምንም ዓይነት ለውጥ አለማድረግ)
-
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- የተገኘው በ 2009-01-08 ነው። -- ክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ ምንም ዓይነት ለውጥ አለማድረግ)
-:::

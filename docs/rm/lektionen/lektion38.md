@@ -9,7 +9,7 @@ status: stable
 
 # Lecziun 38
 
-## 38.1. Losung der Woche <!-- TODO: Fallback translation -->
+## 38.1. Losung der Woche
 
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ davart il urinar correct:
 
@@ -21,16 +21,16 @@ status: stable
 :::
 Explicaziuns:
 
-\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. zu ⟪अग्नि⟫ m. <!-- TODO: Fallback translation -->
+\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. zu ⟪अग्नि⟫ m.
 
-\-:sig[⟪गु⟫] Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh" <!-- TODO: Fallback translation -->
+\-:sig[⟪गु⟫] Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh"
 
 ::: media
 ![](/images/lekt3801.webp)
 Imm.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Fonte da l'imagina: [Detagls](/rm/licenses#lekt3801))
 :::
-## 38.2. Midada da sons da nasals en la paraula <!-- TODO: Fallback translation -->
+## 38.2. Midada da sons da nasals en la paraula
 
 ::: grammar-box
 Las nasas en la parola assimilan il consonant suandant, id est, ellas vegnan sustituidas dal nasal correspundent a quel consonant.
@@ -47,7 +47,7 @@ Nomins cun finala **-an** u nomins cun finala **-man** resp. **-van** suenter vo
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
 | **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung | <!-- TODO: Fallback translation -->
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
 
 **Las desinenzas èn regularas. Il nominativ singular masculin e feminin vegn format senza la finala -n.**
 :::
@@ -70,7 +70,7 @@ Exempels:
 *   Stamm fort: ⟪नामान्⟫
 *   Stamm mez: ⟪नाम⟫
 *   Stamm debil: ⟪नाम्न्⟫
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
 | :--- | :---: | :---: | :---: |
@@ -116,7 +116,7 @@ Exempels:
     *   avant consonant: ⟪आत्म⟫
     *   avant vocal: ⟪आत्मन्⟫
 
-⟪ब्रह्मन्⟫ n.: Absolute, Veda, Brahman <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ n.: Absolute, Veda, Brahman
 
 *   Stamm fort: ⟪ब्रह्मान्⟫
 *   Stamm debel:
@@ -149,7 +149,7 @@ Exempels:
 ::: grammar-box
 Quests sustantivs n'han **betg** ina fluctuaziun dal stem.
 
-Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung. <!-- TODO: Fallback translation -->
+Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung.
 
 Il feminin vegn format cun il suffix -ī: per exempel ⟪बलिनी⟫
 :::
@@ -197,7 +197,7 @@ Exempl:
 Fig.: ⟪हस्ती⟫
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : in, ch'ha (umans) mauns <!-- TODO: Fallback translation -->
+⟪हस्तवन्त्⟫ : in, ch'ha (umans) mauns
 
 ::: media
 ![](/images/lekt3807.webp)
@@ -212,7 +212,7 @@ Egempl:
 
 ⟪सत्यवादिन्⟫ a सत्यवाद m. "direr la veritad": "in ch'è caraterisà dal dir la veritad = in ch'è adina a dir la veritad"
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫ <!-- TODO: Fallback translation -->
+## 38.5. Syntaktisches zu ⟪नामन्⟫
 
 ::: grammar-box
 Per exprimer "ina persuna numnada N. N.", construescha si:
@@ -287,7 +287,7 @@ Exempl:
 Fig.: ⟪सूर्यः⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: aua <!-- TODO: Fallback translation -->
+⟪उदक⟫ n.: aua
 
 ::: media
 ![](/images/lekt3805.webp)
@@ -368,7 +368,7 @@ Fig.: ⟪ब्रह्मा⟫
 ::: indent
 ⟪कर्मविपाक⟫ m.: Roda d'act = las consequenzas bonas e malas d'act en existenzas passadas (a ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_) <!-- TODO: Fallback translation -->
+⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
 
 ⟪मनु⟫ m.: persuna, om; num dal bab dal gener uman (a ⟪मन्⟫ 4Ā)
 
@@ -451,7 +451,7 @@ A) Inserir en las sentèncias suventas la furma correspundenta dals pleds en par
 Fig.: ⟪विनोदः⟫
 (Fontana da l'imaginescha: [Detagls](/rm/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : s'envaglar <!-- TODO: Fallback translation -->
+⟪अट्⟫ 1P ⟪अटति⟫ : s'envaglar
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
@@ -496,7 +496,7 @@ Inf. ⟪गणयितुम्⟫
 Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : clamar, lamentar <!-- TODO: Fallback translation -->
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : clamar, lamentar
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
@@ -561,15 +561,15 @@ Inf. ⟪सर्तुम्⟫
 
 Explicaziuns:
 
-:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. da ⟪दशन्⟫ "diesch" <!-- TODO: Fallback translation -->
+:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. da ⟪दशन्⟫ "diesch"
 
 ⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm"
 
-:sig[⟪सर्वे⟫] Nom.pl.m. zu ⟪सर्व⟫ 3 "mintgin, tut" <!-- TODO: Fallback translation -->
+:sig[⟪सर्वे⟫] Nom.pl.m. zu ⟪सर्व⟫ 3 "mintgin, tut"
 
-:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "vuler reconuscher, vuler savair" <!-- TODO: Fallback translation -->
+:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "vuler reconuscher, vuler savair"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. a ⟨�नवन्⟫ "naiv" <!-- TODO: Fallback translation -->
+⟪नव⟫ Nom.Akk.pl.m.f.n. a ⟨�नवन्⟫ "naiv"
 
 :sig[⟪वयम्⟫] Nom.pl. "wir"
 
@@ -587,21 +587,3 @@ Explicaziuns:
 
 ⟪युष्माकम्⟫ Gen.pl. zu :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Abb.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
-- **lekt3802.jpg**: Abb.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Bildquelle: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Zugriff am 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
-- **lekt3803.jpg**: Abb.: ⟪सीमा⟫  Grenzübergang zwischen Indien und Pakistan in Wagah (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Bildquelle: Vandelizer. -- [http://www.flickr.com/photos/jeremy_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
-- **lekt3804.jpg**: Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, 2./3. Jhdt. n. Chr. \[Bildquelle: Wikipedia. Public domain\]
-- **lekt3805.jpg**: Abb.: ⟪उदकम्⟫  Darewadi village, Ahmed Nagar District = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Bildquelle: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
-- **lekt3806.jpg**: Abb.: ⟪हस्ती⟫  Nagarhole National Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Bildquelle: gopalarathnam_v. -- [http://www.flickr.com/photos/gopalarathnam_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Zugriff am 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
-- **lekt3807.jpg**: Abb.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Bildquelle: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-- **lekt3808.jpg**: Abb.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930er Jahre \[Bildquelle: Wikipedia. Public domain\]
-- **lekt3809.jpg**: Abb.: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Bildquelle: Wikipedia. GNU FDLicense\]
-- **lekt3810.jpg**: Abb.: Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde  Kolkata = কলকাতা \[Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense\]
-- **lekt3811.jpg**: Abb.: Größte Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte \[Bildquelle: Wikipedia.GNU FDLicense\]
-- **lekt3812.jpg**: Abb.: ⟪विनोदः⟫  Carrom-Spiel \[Bildquelle: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
-- **lekt3813.jpg**: Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Bildquelle: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
-- **lekt3814.jpg**: Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Bildquelle: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-:::
- <!-- TODO: Fallback translation -->

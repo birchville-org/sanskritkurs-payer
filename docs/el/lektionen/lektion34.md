@@ -90,7 +90,7 @@ status: stable
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
 ### 34.2.5. Αναδιπλασιασμός ριζών που αρχίζουν με φωνήεν
@@ -104,7 +104,7 @@ status: stable
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
+| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
 
 :::
 ::: grammar-box
@@ -117,7 +117,7 @@ status: stable
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
-| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur | <!-- TODO: Fallback translation -->
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
 :::
 ::: grammar-box
@@ -159,7 +159,7 @@ status: stable
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
 ## 34.5. Παρακείμενος Τύπος II: Ισχυρό θέμα μακράς βαθμίδας, ασθενές θέμα βραχείας βαθμίδας
@@ -329,22 +329,5 @@ status: stable
 Εικ.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Ινδουιστικό γάμο.
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt3407))
-:::
-
-::: deleteme-box
-
-**lekt3401:** Άγαλμα ταύρου Νάντι, λόφοι Τσαμούντι, Μάισορ. [Πηγή εικόνας: Luna Park / Flickr. CC BY-NC-ND]
-
-**lekt3402:** Χρυσός Ναός (Χαραντίρ Σαχίμπ), Αμριτσάρ. [Πηγή εικόνας: Wikipedia. GNU FDL]
-
-**lekt3403:** Σουσάμι. [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
-
-**lekt3404:** Ανθοφορία φυτού σουσαμιού. [Πηγή εικόνας: Franz Xaver / Wikipedia. GNU FDL]
-
-**lekt3405:** Χάρτης των Νήσων Λακσαδίπ. [Πηγή εικόνας: CIA World Factbook. Δημόσιο πεδίο]
-
-**lekt3406:** Ρυζώνα στην Ινδία. [Πηγή εικόνας: Ray Witlin / Παγκόσμια Τράπεζα. CC BY-NC-ND]
-
-**lekt3407:** Ινδουιστικό γάμο. [Πηγή εικόνας: BriceFR / Flickr. CC BY-NC-SA]
 :::
 

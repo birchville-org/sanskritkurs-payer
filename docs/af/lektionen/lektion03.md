@@ -9,14 +9,6 @@ status: stable
 
 # Les 3
 
-::: deleteme-box
-**In hierdie les leer u:**
-- die nominatief enkelvoud van die femininum
-- die nominatief meervoud van die maskulinum en femininum
-- die vorming van die femininum uit maskulina
-- Vokaalsandhi
-- Satzsandhi von -ās
-:::
 ## 3.1. Nominatief enkelvoud van die femininum
 
 ### 3.1.1. Nominatief enkelvoud op -s

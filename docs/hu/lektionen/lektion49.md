@@ -5,9 +5,9 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# 49. lecke <!-- TODO: Fallback translation -->
+# 49. lecke
 
 ## 49.1. Az imperativus képzése (⟪लोट्⟫) athémás jelenstámoké (folytatás)
 
@@ -129,7 +129,7 @@ A mássalhangzóra végződő 9. osztály gyökei a -nī-hi kiejtést a 2.sg. pa
 :::
 #### Hímneműek (⟪पुंस्⟫) és Nőneműek (⟪स्त्री⟫)
 
-A legtöbb eset ⟪बहुव्रीहि⟫ -s tövű (eredetileg középnemű) hátsó taggal. <!-- TODO: Fallback translation -->
+A legtöbb eset ⟪बहुव्रीहि⟫ -s tövű (eredetileg középnemű) hátsó taggal.
 
 ::: grammar-box
 | | **⟪सुमनस्⟫ 3** :br"von gutem Denken, wohlwollend | **⟪दीर्घायुस्⟫ 3** :br"langlebig" |
@@ -153,7 +153,7 @@ A többi esetek a többes számban, mint a középneműek
 :::
 ## 49.3. Főnévképzés: ⟪कृत्⟫-képző -as középnemű
 
-A ⟪कृत्⟫ -as képzővel többes számú középnemű főnevek keletkeznek. Általában absztrakt fogalmak vagy cselekvésnevek (a cselekedetet jelző szavak). <!-- TODO: Fallback translation -->
+A ⟪कृत्⟫ -as képzővel többes számú középnemű főnevek keletkeznek. Általában absztrakt fogalmak vagy cselekvésnevek (a cselekedetet jelző szavak).
 
 A gyökér rövid magánhangzója egyszerű mássalhangzó előtt, valamint a szó végi gyökmagánhangzó megjelenik az erős fokban.
 
@@ -179,7 +179,7 @@ A -is és -us végződésű főnevek viszonylag ritkák.
 
 ⟪ह्रस्व⟫ 3: rövid
 
-⟪आयुस्⟫ n.: élettartam (a teljes élettartam, amit meg lehet élni, ha semmi közbe nem lép); <!-- TODO: Fallback translation -->
+⟪आयुस्⟫ n.: élettartam (a teljes élettartam, amit meg lehet élni, ha semmi közbe nem lép);
 
 ::: indent
 ebből:
@@ -245,7 +245,7 @@ Kép: ⟪कुलूहलम्⟫
 :::
 ⟪वर⟫ m.n.: vágy
 
-⟪उत⟫ Indekl.: és, is, vagy <!-- TODO: Fallback translation -->
+⟪उत⟫ Indekl.: és, is, vagy
 
 ⟪विहंग⟫ m.: madár ("a lég⟪स्⟫álmában - ⟪विह⟫ - haladó")
 
@@ -262,7 +262,7 @@ Kép: ⟪कुलूहलम्⟫
 ⟪वाराणस्याम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: takaró, rejtőhely <!-- TODO: Fallback translation -->
+⟪छन्न⟫ n.: takaró, rejtőhely
 
 ⟪पञ्जर⟫ n.: ketrec
 
@@ -299,9 +299,9 @@ Kép: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: legtávolabbi, legmagasabb; ⟪पञ्चम्या⟫ : jobb mint, magasabb mint <!-- TODO: Fallback translation -->
+⟪परम⟫ 3: legtávolabbi, legmagasabb; ⟪पञ्चम्या⟫ : jobb mint, magasabb mint
 
 ⟪शिशु⟫ m.: gyermek, kölyök
 
@@ -357,7 +357,7 @@ Határozza meg az alábbi alakokat:
 
 ## 49.6. Fordítási gyakorlat
 
-⟪बान⟫ (7. sz. e. k.): ⟪कादम्बरी⟫, kiadta M. R. Kale, 1968, 35–36. o. <!-- TODO: Fallback translation -->
+⟪बान⟫ (7. sz. e. k.): ⟪कादम्बरी⟫, kiadta M. R. Kale, 1968, 35–36. o.
 
 A király ⟪शूद्रक⟫ kérdései ⟪विदिशा⟫ felől a papagáj ⟪वैशम्पायन⟫hoz:
 
@@ -370,27 +370,5 @@ A király ⟪शूद्रक⟫ kérdései ⟪विदिशा⟫ felől a 
 Ábr.: ⟪शुकः⟫
 Szilvafejű papagáj = Psittacula cyanocephala
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Képmegjelenítés forrása: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, share alike)]
-
-**lekt4901:** [Képmegjelenítés forrása: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Hozzáférés: 2009-01-11. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Nevesítés, nincs módosítás)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, 11. század [Képmegjelenítés forrása: Vassil / Wikipedia. Közterület]
-
-**lekt4903:** [Képmegjelenítés forrása: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Hozzáférés: 2009-01-11. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Képmegjelenítés forrása: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Hozzáférés: 2009-01-11. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, share alike)]
-
-**lekt4909:** Jós papagájkal ketrecben: a papagáj sorsot jelző cédulákat húz Mysore [Képmegjelenítés forrása: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Hozzáférés: 2009-01-12. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevesítés)]
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Képmegjelenítés forrása: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Hozzáférés: 2009-01-11. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevesítés)]
-
-**lekt4906:** Srí Lanka [Képmegjelenítés forrása: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Hozzáférés: 2009-01-11. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-**lekt4908:** Császárpapagáj _= Psittacula cyanocephala_[Képmegjelenítés: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Hozzáférés: 2009-01-12. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevegyen, nem kereskedelmi célú felhasználás, megosztási kötelezettség)]
-
 :::
 

@@ -281,17 +281,6 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 C) ਅਭਿਆਸ B) ਦੇ ਵਾਕਾਂ ਨੂੰ ਬਦਲੋ, ਜਿੱਥੇ ਪੂਰਨ ਕਾਲ (Perfekta) ਦੀ ਥਾਂ ਅਪੂਰਨ ਕਾਲ (Imperfekta) ਵਰਤੋ।
 
-::: deleteme-box
-
-**lekt3501:** ਮੰਦਰ ਸੰਗੀਤਕਾਰ, ਕਾਡੂ ਮਲੇਸ਼ਵਰ ਮੰਦਰ, ਬੈਂਗਲੁਰੂ। [ਚਿੱਤਰ ਸਰੋਤ: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** ਲੋਕ ਚੱਲ ਰਹੇ ਹਨ, ਸੈਨੇਗਲ। [ਚਿੱਤਰ ਸਰੋਤ: Curt Carnemark / World Bank. CC BY-NC-ND]
-
-**lekt3503:** ਵਡਾਸੇਰੀ, ਤਮਿਲ ਨਾੜੂ ਵਿੱਚ ਬਜ਼ਾਰ। [ਚਿੱਤਰ ਸਰੋਤ: kifo / Flickr. CC BY-SA]
-
-**lekt3504:** ਯੱਜਨ ਰਸਮ, ਸ਼ਿਵ ਆਸਰਮ, ਗਣੇਸ਼ਪੁਰੀ। [ਚਿੱਤਰ ਸਰੋਤ: Dey / Flickr. CC BY-NC-SA]
-
-:::
 ::: media
 ![](/images/uebung044.webp)
 ⟪अभि⟫.: ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫

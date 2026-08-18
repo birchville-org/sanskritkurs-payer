@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lección 36
 
@@ -111,7 +111,7 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3601))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : caminar, ir, irse
 
@@ -132,7 +132,7 @@ Inf. ⟪व्रजितुम्⟫
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3602))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 :::
 ::: indent
@@ -241,7 +241,7 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3604))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 ⟪स्वक⟫ 3: propio (mío, tuyo ...) ; m.: miembro
 
@@ -511,13 +511,3 @@ Determine y traduzca las siguientes formas de palabra de todas las maneras posib
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: Ilustr.: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Fuente de la imagen: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Acceso el  2008-12-28. --   Licencia Creative Commons (Atribución, uso no comercial)]
-- **lekt3604.jpg**: Ilustr.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Fuente de la imagen: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Acceso el  2008-12-28. --   Licencia Creative Commons (Atribución, shere alike)]
-- **lekt3603.jpg**: Ilustr.: ⟪अनगार्यम्⟫ 	Noreste de Tailandia = อีสาน 	[Fuente de la imagen: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Acceso el  	2008-12-28. --  	 	Creative  	Commons License (Atribución, uso no comercial, sin  	Modificaciones)]
-- **lekt3604.jpg**: Ilustr.: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. vello corporal) [Fuente de la imagen: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Acceso el 2008-12-29.  --   Licencia Creative Commons (Atribución, uso no comercial)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ Gandhara, siglos I/II d. C. [Fuente de la imagen: Wikipedia. GNU FDLicense]
-- **lekt3606.jpg**: Ilustr.:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫Mudrā [Fuente de la imagen: Payer]
-- **lekt3607.jpg**: Ilustr.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Fuente de la imagen: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Acceso el  2008-12-29. --   Licencia Creative Commons (Atribución, uso no comercial, share alike)]
-:::

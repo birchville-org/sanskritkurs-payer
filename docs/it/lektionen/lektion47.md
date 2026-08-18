@@ -253,14 +253,3 @@ B.) Tradurre in sanscrito (usare l'imperativo):
 
 34\. Possa essere propizio alla fortuna (accadere)! (Augurio di benedizione)
 
-::: deleteme-box
-
-**lekt4702:** Tempio di Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Fonte dell'immagine: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Accesso il 2009-01-09. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribuzione, nessuna opera derivata)]
-
-**lekt4701:** [Fonte dell'immagine: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Accesso il 2009-01-09. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, share alike)]
-
-**lekt4703:** [Fonte dell'immagine: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
-
-**lekt4704:** [Fonte dell'immagine: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-:::

@@ -5,7 +5,7 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα δʹ5
 
@@ -145,12 +145,5 @@ status: stable
 ![](/images/lekt4502.jpg)
 Εικ.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/grc/licenses#lekt4502))
-:::
-
-::: deleteme-box
-
-**lekt4501.jpg**: Τεκτυλῶν ἀμφορεὺς τύπος, Ἀχέμεδαβον. -- Πηγή εἰκόνος: Δαβείδης. -- http://www.flickr.com/photos/davemorris/316429534/. -- Πρόσβασις ἡμερ. 2009-01-08. -- Ἄδεια Creative Commons (ὀνομασία, οὐκ ἐμπορικὴ χρῆσις, ὁμοία διανομή)
-
-**lekt4502.jpg**: Πηγή εἰκόνος: Ἰωάννης Ἰσαάκις / Κόσμιον Ταμεῖον. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Πρόσβασις ἡμερ. 2009-01-08. -- Ἄδεια Creative Commons (ὀνομασία, οὐκ ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις)
 :::
 

@@ -95,8 +95,3 @@ Fig.: ⟪अजीर्यमिति⟫
 (Image source: [Details](/en/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** 'Inâyat Khân on his deathbed, draft for a miniature of a manuscript for Jahângîr = جهانگير, ca. 1618 [Image source: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accessed on 2009-01-28. Public domain]
-
-:::

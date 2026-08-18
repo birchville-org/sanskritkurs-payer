@@ -1,493 +1,474 @@
 ---
-title: Lektion 28
+title: "Ders 28"
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
---- <!-- TODO: Fallback translation -->
 
-# Lektion 28 <!-- TODO: Fallback translation -->
+---
 
-## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) <!-- TODO: Fallback translation -->
+# Ders 28
 
-::: grammar-box
-**Will man ausdrücken, dass jemand oder etwas veranlasst oder bewirkt, dass jemand anderer oder etwas anderes etwas tut oder erleidet, was durch eine Wurzel (mit oder ohne Präverb) ausgedrückt wird, so verwendet man das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).** <!-- TODO: Fallback translation -->
-
-Beispiel:
-⟪गम्⟫ "gehen" » Kausativ: ⟪गमयति⟫ "er veranlasst, dass jemand geht; er schickt"
-⟪दृश्⟫ "sehen" » Kausativ: ⟪दर्शयति⟫ "er macht sehen = er zeigt" <!-- TODO: Fallback translation -->
-:::
-
-## 28.2. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) <!-- TODO: Fallback translation -->
+## 28.1. Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**Schema 1:** <!-- TODO: Fallback translation -->
+**Birisi veya bir şeyin, kök (edatlı veya edatsız) ile ifade edilen bir eylemi gerçekleştirmesini veya yaşamasını sağladığını veya neden olduğunu ifade etmek isteniyorsa, Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) kullanılır.**
 
-**Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:** <!-- TODO: Fallback translation -->
-
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Ziel der Bewegung, Objekt des Wissens usw. im Akkusativ = ⟪द्वितीया⟫) — Verb im Kausativ** <!-- TODO: Fallback translation -->
+Örnek:
+⟪गम्⟫ "gitmek" » Kausativ: ⟪गमयति⟫ "birisinin gitmesini sağlar; gönderir"
+⟪दृश्⟫ "görmek" » Kausativ: ⟪दर्शयति⟫ "görmesini sağlar = gösterir"
 :::
-Beispiele: <!-- TODO: Fallback translation -->
 
-⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "ein böser Mensch bewirkt, dass Rāma verwirrt ist = verwirrt den Rāma = bewirkt, dass Rāma irrt"
-Ergebnis: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma ist verwirrt / verblendet / irrt." <!-- TODO: Fallback translation -->
+## 28.2. Kausativ ile cümle yapısı (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma macht die Feinde in den Himmel gehen = schickt die Feinde in den Himmel"
-Ergebnis: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "die Feinde gehen zum Himmel / kommen in den Himmel" <!-- TODO: Fallback translation -->
+::: grammar-box
+**Şema 1:**
 
-⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "Der Meister macht Rāma den Sinn des Veda wissen = erklärt / lehrt Rāma den Sinn des Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma kennt / versteht den Sinn des Veda" <!-- TODO: Fallback translation -->
+**Kausative temel kök (edatlı veya edatsız) TRANSİTİF DEĞİLSE (yani kendisiyle bir tümleç alınamaz) veya hareket, bilgi, haber veya yeme içme ifade ediyorsa:**
 
-⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "er lehrt Rāma den Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studiert den Veda" <!-- TODO: Fallback translation -->
+**Kausativin Edeni (⟪कर्ता⟫) Yalın halde (⟪प्रथमा⟩) — Kausatif edilen eylemin Edeni Tümleç halde (⟪द्वितीया⟩) — (Hareketin hedefi, bilginin nesnesi vb. Tümleç halde = ⟪द्वितीया⟩) — Kausativ Fiil**
+:::
+Örnekler:
 
-⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma lässt die Götter Unsterblichkeitsspeise essen = gibt den Göttern Unsterblichkeitsspeise zu essen" (⟪अश्⟫ 9 "essen")
-Ergebnis: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Die Götter essen Unsterblichkeitsspeise" <!-- TODO: Fallback translation -->
+⟪दुर्जनो रामं मोहयति⟫ = "kötü bir insan Rāma'nın şaşırmasını sağlar = Rāma'yı şaşırtır = Rāma'nın sapmasını sağlar"
+Sonuç: ⟪रामो मुह्यति⟫ = "Rāma şaşkın / karanlıkta / sapkındır."
+
+⟪रामः शत्रून्स्वर्गं गमयति⟫ = "Rāma düşmanları göğe gönderir = düşmanları göğe yollar"
+Sonuç: ⟪शत्रवः स्वर्गं गच्छन्ति⟫ = "düşmanlar göğe gider / göğe varır"
+
+⟪गुरू रामं वेदार्थं वेदयति⟫ = "Üstat Rāma'ya Vedanın anlamını bilmesini sağlar = Rāma'ya Vedanın anlamını açıklar / öğretir"
+Sonuç: ⟪रामो वेदार्थं वेत्ति⟫ = "Rāma Vedanın anlamını bilir / anlar"
+
+⟪स रामं वेदमध्यापयति⟫ = "o, Vedayı Rāma'ya öğretir"
+Sonuç: ⟪रामो वेदमधीते⟫ "Rāma Vedayı okur"
+
+⟪रामो देवानामृतमाशयति⟫ = "Rāma, tanrılara ölümsüz yemek yedirir = tanrılara ölümsüz yiyecek verir" (⟪अश्⟫ 9 "yemek yemek")
+Sonuç: ⟪देवा अमृतमश्नन्ति⟫ "Tanrılar ölümsüz yemek yerler"
 
 ::: media
 ![](/images/lekt2802.webp)
-Abb.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
-ISKCON Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt2801)) <!-- TODO: Fallback translation -->
+Resim: ⟪स नरान्प्रबन्धविज्ञानमध्यापयति⟫
+ISKCON Tapınağı Bangalore.
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2801))
 :::
 
 ::: grammar-box
-**Nach Schema 1 konstruiert u.a. auch die Wurzel ⟪दृश्⟫:** <!-- TODO: Fallback translation -->
+**Şema 1'e göre ayrıca ⟪दृश्⟫ kökü de oluşturulmuştur:**
 
-**Ausnahmen zu Schema 1 siehe unter Schema 2** <!-- TODO: Fallback translation -->
+**Şema 1'e istisnalar için Şema 2'ye bakınız**
 
-Beispiel:
-(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "er zeigt dem Rāma den Sohn" <!-- TODO: Fallback translation -->
+Örnek:
+(⟪स⟫) ⟪रामं पुत्रं दर्शयति⟫ = "o, Rāma'ya oğlunu gösterir"
 :::
-Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada): <!-- TODO: Fallback translation -->
+Aşağıdaki şiir, Şema 1'e göre kausatif (nedensel) çekim örneklerini özetler (fiil formları her durumda 3. tekil şahip, imperfectum, parasmaipada kipidir):
 ::: indent
-⟪शत्रूनगमयत्स्वर्गं⟫
-⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
-⟪आशयच्चामृतं⟫ ⟪देवान्⟫
-⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
-⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
-⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪शत्रूनगमयत्स्वर्गं वेदार्थं स्वानवेदयत् । आशयच्चामृतं देवान् वेदमध्यापयद्विधिम् । आसयत्सलिलै पृथ्वीं यः स मे श्रीहरिगतिः ॥⟫
 :::
 
 ::: indent
-Meine Zuflucht und mein Ziel ist Hari,
-Der die Feinde in den Himmel schickte,
-Der die Seinen die Bedeutung des Veda lehrte,
-Der die Götter mit Unsterblichkeitsspeise speiste,
-Der den Schöpfer den Veda lehrte,
-Der die Erde in das Wasser setzte. <!-- TODO: Fallback translation -->
+Sığınağım ve amacım Hari'dir,
+Düşmanları gökyüzüne gönderen,
+Kendi taraftarlarına Vedanın anlamını öğreten,
+Tanrıları ölümsüz yemekle doyuran,
+Yaratıcıya Vedayı öğreten,
+Dünyayı suya yerleştiren.
 :::
 ::: media
 ![](/images/lekt2801.webp)
-Abb.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
-Jadavpur University Management building.
-(Bildquelle: [Details](/licenses#lekt2802)) <!-- TODO: Fallback translation -->
+Resim: ⟪स मे श्रीहरिगतिः⟫
+Jadavpur Üniversitesi Yönetim binası.
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2802))
 :::
 
 ::: grammar-box
-**Schema 2:** <!-- TODO: Fallback translation -->
+**Şema 2:**
 
-**Bei transitiven Verben (ausser den unter Schema 1 genannten). Ebenfalls bei allen Verben, wenn das durch das Kausativ Bezeichnete veranlasst wird (wenn das Kausativ also ein Kausativ zum Kausativ ist):** <!-- TODO: Fallback translation -->
+**Geçişli fiiller için (Şema 1'de belirtilenler hariç). Ayrıca, kausatif tarafından ifade edilen şeyin başlatıldığı tüm fiillerde (yani kausatif, bir kausative yönelik kausatif olduğunda):**
 
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Instrumentalis (⟪तृतीया⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum** <!-- TODO: Fallback translation -->
+**Kausativin özne (⟪कर्ता⟫) Yalın halde (⟪प्रथमा⟫) — Kausatif eylemin özne'si Alet halde (⟪तृतीया⟫) — Kausatif eylemin nesnesi, basit fiil tarafından aldığı halde (yani çoğunlukla Yüklem) — Fiil Kausatif olarak**
 :::
 ::: indent
-Beispiele:
-(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "Er veranlasst den Rāma, seine Frau zu verlassen"
-Ergebnis: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma verlässt seine Frau" <!-- TODO: Fallback translation -->
+Örnekler:
+(⟪स⟫) ⟪रामेण भार्यां त्याजयति⟫ = "Rāma'yı karısını terk etmeye sevk eder"
+Sonuç: ⟪रामो भार्यां त्यजति⟫ = "Rāma karısını terk eder"
 
-⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken"
-Ergebnis: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma schickt den Govinda fort"
-Ergebnis dieses Ergebnisses: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda geht" <!-- TODO: Fallback translation -->
+⟪विष्णुमित्रो रामेण गोविन्दं गमयति⟫ = "Viṣṇumitra, Rāma'nın Govinda'yı gitmeye sevk etmesini sağlar = Viṣṇumitra, Rāma'nın Govinda'yı göndermesini sağlar"
+Sonuç: ⟪रामो गोविन्दं गमयति⟫ = "Rāma Govinda'yı gönderir"
+Bu sonucun sonucu: ⟪गोविन्दो गच्छति⟫ = "Govinda gider"
 :::
 ::: grammar-box
-**Ausnahmen zu Schema 1:** <!-- TODO: Fallback translation -->
+**Şema 1'e istisnalar:**
 
-**Nach Schema 2 konstruieren u.a. auch folgende Verben:** <!-- TODO: Fallback translation -->
+**Şema 2'ye göre ayrıca aşağıdaki fiiller de kurulur:**
 
-**Kausativ zu:** <!-- TODO: Fallback translation -->
-- **⟪नी⟫ "führen"** <!-- TODO: Fallback translation -->
-- **⟪वह्⟫ "fahren" (nur wenn der Agens der veranlassten Handlung kein Fahrer ist)** <!-- TODO: Fallback translation -->
-- **⟪स्मृ⟫ "vergegenwärtigen" (es gibt dazu Ausnahmen)** <!-- TODO: Fallback translation -->
-- **⟪अद्⟫ "essen"** <!-- TODO: Fallback translation -->
-- **⟪खाद्⟫ "kauen"** <!-- TODO: Fallback translation -->
+**Kausatif karşılıkları:**
+**⟪नी⟫ "sürmek"**
+**⟪वह्⟫ "sürmek" (yalnızca kausatif eylemin özne'si sürücü değilse)**
+**⟪स्मृ⟫ "hatırlamak" (buna istisnalar vardır)**
+**⟪अद्⟫ "yemek"**
+**⟪खाद्⟫ "ısırıp yemek"**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma lässt den Diener die Last führen bzw. fahren"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Der Diener führt bzw. fährt die Last" <!-- TODO: Fallback translation -->
+⟪रामो भृत्येन भारं नाययति वाहयति वा⟫ = "Rāma, köleye yükü sürmesini veya taşımasını sağlar"
+Sonuç: ⟪भृत्यो भारं नयति वहति वा⟫ = "Köle yükü sürer veya taşır"
 
-⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = "Rāma lässt den Knaben Speise essen bzw. kauen"
-Ergebnis: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = "der Knabe isst oder kaut Speise" <!-- TODO: Fallback translation -->
+⟪रामो बालेनान्नमादयति खादयति वा⟫ = "Rāma, çocuğa yemek yemesini veya ısırmasını sağlar"
+Sonuç: ⟪बालो ऽन्नमत्ति खादति वा⟫ = "Çocuk yemek yer veya ısırır"
 
-(⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "Er bewirkt, dass Rāma sich erinnert"
-Ergebnis: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma erinnert sich" <!-- TODO: Fallback translation -->
+(⟪स⟫) ⟪रामेण स्मारयति⟫ = "Rāma'nın hatırlamasını sağlar"
+Sonuç: ⟪रामः स्मरति⟫ = "Rāma hatırlar"
 
 ::: grammar-box
-**Folgende Kausative können sowohl nach Schema 1 als auch nach Schema 2 konstruieren:** <!-- TODO: Fallback translation -->
+**Aşağıdaki kausatifler hem Şema 1 hem de Şema 2 uyarınca çekimlenebilir:**
 
-- **⟪हृ⟫ "halten, holen"** <!-- TODO: Fallback translation -->
-- **⟪कृ⟫ "tun, machen"** <!-- TODO: Fallback translation -->
-- **Ātmanepadakausativ zu ⟪दृश्⟫** <!-- TODO: Fallback translation -->
+**⟪हृ⟫ "tutmak, getirmek"**
+**⟪कृ⟫ "yapmak, etmek"**
+**⟪दृश्⟫ için Atmanepadakausativ**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
-⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma lässt den Diener eine Matte (⟪कट⟫ m.) machen bzw. holen"
-oder:
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = "Der Diener macht bzw. holt eine Matte" <!-- TODO: Fallback translation -->
+⟪रामो भृत्यं कटं कारयति हारयति वा⟫ = "Rāma, köleye bir hasır (⟪कट⟫ m.) yaptırmak veya getirtmek"
+ya da:
+⟪रामो भृत्येन कटं कारयति हारयति वा⟫
+Sonuç: ⟪भृत्यः कटं करोति हरति वा⟫ = "Köle bir hasır yapar veya getirir"
 
-⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma lässt den Knaben das Bildnis sehen = zeigt dem Knaben das Bildnis (im eigenen Interesse)"
-oder:
-⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
-Ergebnis: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "der Knabe sieht das Bildnis" <!-- TODO: Fallback translation -->
+⟪रामो बालं प्रतिमां दर्शयते⟫ = "Rāma, oğlana resmi gösterir (kendi çıkarı için) = oğlanın resmi görmesini sağlar"
+ya da:
+⟪रामो बालेन प्रतिमां दर्शयते⟫
+Sonuç: ⟪बालः प्रतिमां पश्यति⟫ = "oğlan resmi görür"
 
-Wird das Kausativum in einer Passivkonstruktion verwendet, so findet fast immer folgendes Schema Anwendung: <!-- TODO: Fallback translation -->
+Kausatif bir edilgen yapıda kullanıldığında, neredeyse her zaman aşağıdaki şema uygulanır:
 
 ::: grammar-box
-**Schema A (Passivkonstruktion):** <!-- TODO: Fallback translation -->
+**Şema A (Edilgen yapı):**
 
-**Agens des Kausativums im Instrumentalis (⟪तृतीया⟫) — Agens der veranlassten Handlung im Nominativ (⟪प्रथमा⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum** <!-- TODO: Fallback translation -->
+**Kausatifin etkeni Enstrümantal'de (⟪तृतीया⟫) — Kışırlandırılan eylemin etkeni Nominatif'te (⟪प्रथमा⟫) — Kışırlandırılan eylemin nesnesi, basit fiil tarafından talep edilen halde (yani genellikle Akkusativ'de) — Fiil Kausatif olarak**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
-⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Der Meister schickt Rāma ins Dorf"
-Ergebnis: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf" <!-- TODO: Fallback translation -->
+⟪गुरुणा रामो ग्रामं गम्यते⟫ = "Üstat, Rāma'yı köye gönderir"
+Sonuç: ⟪रामो ग्रामं गच्छति⟫ = "Rāma köye gider"
 
-⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = "Rāma lässt den Diener eine Matte machen"
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "Der Diener macht eine Matte" <!-- TODO: Fallback translation -->
+⟪रामेण भृत्यः कटं कार्यते⟫ = "Rāma, köleye bir hasır yaptırmak"
+Sonuç: ⟪भृत्यः कटं करोति⟫ = "Köle bir hasır yapar"
 
-⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma lässt den Diener die Last holen"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der Diener holt die Last" <!-- TODO: Fallback translation -->
+⟪रामेण भृत्यो भारं हार्यते⟫ = "Rāma, köleye yükü getirtmek"
+Sonuç: ⟪भृत्यो भारं हरति⟫ = "Köle yükü getirir"
 
-## 28.3. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) <!-- TODO: Fallback translation -->
+
+## 28.3. Kausatifi şimdiki zaman kök türetimi (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**An den Kausativstamm treten die thematischen Endungen des Präsensstamms** <!-- TODO: Fallback translation -->
+**Kausatif köküne, şimdiki zaman kökünün tematik çekim ekleri gelir**
 :::
-Es gibt verschiedene Bildungstypen: <!-- TODO: Fallback translation -->
+Farklı türetim türleri vardır:
 
 ::: grammar-box
-**Bildungstyp 1: (meist) hochstufige Wurzel + -aya-** <!-- TODO: Fallback translation -->
+**Türetim türü 1: (çoğunlukla) güçlü dereceli kök + -aya-**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein | <!-- TODO: Fallback translation -->
-| ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken | <!-- TODO: Fallback translation -->
-| ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen | <!-- TODO: Fallback translation -->
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen | <!-- TODO: Fallback translation -->
+| Kök | Kausatif 3. sg. Şimdiki zaman bildirme kipi | Anlam |
+| :--- | :--- | :--- |
+| ⟪विश्⟫ | ⟪वेशयति⟫ | girmesini sağlamak, içeri sokmak |
+| ⟪लुभ्⟫ | ⟪लोभयति⟫ | arzu ettirmek, istekli kılmak, cazip kılmak |
+| ⟪दृश्⟫ | ⟪दर्शयति⟫ | görmesini sağlamak = göstermek |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | dönmesini sağlamak, çevirmek (geçişli), yuvarlanmak (geçişli), harekete geçirmek |
 
 ::: grammar-box
-**Bildungstyp 2: dehnstufige Wurzel + -aya-** <!-- TODO: Fallback translation -->
+**Türetim türü 2: uzatılmış dereceli kök + -aya-**
 
-**Oft bei Wurzeln, die vokalisch enden, und bei Wurzeln, bei denen auf -a- ein einziger Endkonsonant folgt.** <!-- TODO: Fallback translation -->
+**Özellikle sesle biten kökler ve sonunda tek bir ünsüz harf bulunan -a- ile biten köklerde görülür.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen | <!-- TODO: Fallback translation -->
-| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht | <!-- TODO: Fallback translation -->
-| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen | <!-- TODO: Fallback translation -->
-| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen | <!-- TODO: Fallback translation -->
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen | <!-- TODO: Fallback translation -->
+| Kök | Kausatif 3. sg. Indikativ Şimdiki Zaman | Anlam |
+| :--- | :--- | :--- |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | birinin veya bir şeyin olmasını sağlamak, üretmek |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | birinin gitmesini sağlamak |
+| ⟪नी⟫ | ⟪नाययति⟫:br(nai-aya-ti) | götürmek, yönlendirmek |
+| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | yaptırmak |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | konuşmasını sağlamak, söyletmek, (bir metni okutmak =) sesli okumak |
 
 ::: grammar-box
-**Bildungstyp 3: tiefstufige Wurzel + -aya-** <!-- TODO: Fallback translation -->
+**Oluşum Tipi 3: düşük kademeli kök + -aya-**
 
-**Kommt vor.** <!-- TODO: Fallback translation -->
+**Karşılaşılan Durum.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben | <!-- TODO: Fallback translation -->
+| Kök | Kausatif 3. sg. Indikativ Şimdiki Zaman | Anlam |
+| :--- | :--- | :--- |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (birini) bozmak, çürütmek |
 
 ::: grammar-box
-**Bildungstyp 4: Wurzel + -paya-** <!-- TODO: Fallback translation -->
+**Eğitim Tipi 4: Kök + -paya-**
 
-**Bei Wurzeln auf -ā und einigen anderen Wurzeln.** <!-- TODO: Fallback translation -->
+**-ā ile biten kökler ve bazı diğer kökler için.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen | <!-- TODO: Fallback translation -->
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten | <!-- TODO: Fallback translation -->
+| Kök | Nedensel 3. sg. Bildirilen Kip Şimdiki Zaman | Anlam |
+| :--- | :--- | :--- |
+| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | dikmek, yerleştirmek |
+| ⟪इ⟫ + ⟪अधि⟫:br"çalışmak, okumak" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(daha fazla açıklama için Thumb-Hauschildt Cilt I, s. 341'e bakınız) | çalıştırmak, öğretmek |
 
 ::: grammar-box
-**Unregelmässige Bildungen:** <!-- TODO: Fallback translation -->
+**Düzensiz yapılar:**
 
-**Einheimische Grammatiker betrachten folgende Formen als Kausativa:** <!-- TODO: Fallback translation -->
+**Yerli gramerciler aşağıdaki formları nedensel olarak kabul eder:**
 
-- **han** : Kaus. **ghātayati**¹ "erschlagen lassen, töten lassen" <!-- TODO: Fallback translation -->
-- **pā** 2 "hüten": **pālayati**² "hinüberbringen, retten, schützen" <!-- TODO: Fallback translation -->
+**han** : Ned. **ghātayati**¹ "vurtturmak, öldürtmek"
+**pā** 2 "bakmak": **pālayati**² "geçirmek, kurtarmak, korumak"
 :::
-Anmerkungen: <!-- TODO: Fallback translation -->
-1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. "Schlag" abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird. <!-- TODO: Fallback translation -->
-2. **pālayati** ist ein echtes Kausativum, allerdings zur Wurzel **pṛ** 3 "hinüberbringen, retten, schützen": **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r). <!-- TODO: Fallback translation -->
+Notlar:
+1. **ghātayati** aslında, **han**'ın nedenseli yerine kullanılan ve **ghāta** m. "vuruş" isminden türetilmiş (denominativum) bir fiildir.
+2. **pālayati** gerçek bir nedenseldir, ancak kökü **pṛ** 3 "geçirmek, kurtarmak, korumak": **pārayati** (pār-aya-ti) » **pālayati**'dir (Hindistan'ın bazı bölgelerinde r yerine l gelir, diğerlerinde tam tersi olarak l yerine r gelir).
 
-## 28.4. Bildung des Passivs (⟪यक्⟫) zum Kausativ <!-- TODO: Fallback translation -->
+
+## 28.4. Nedenselin Edilgeni (⟪यक्⟫) Yapımı
 
 ::: grammar-box
-**Das Passiv zum Kausativ wird so gebildet:** <!-- TODO: Fallback translation -->
+**Nedenselin edilgeni şu şekilde oluşturulur:**
 
-**Kausativstamm OHNE -aya- + Passivsuffix -ya-** <!-- TODO: Fallback translation -->
+**-aya- içermeyen nedensel kök + edilgen eki -ya-**
 
-Beispiele:
-**bhāvyate** (bhāv-ya-te) "er/sie/es wird hervorgebracht"
-**sthāpyate** (sthāp-ya-te) "er/sie/es wird aufgestellt" <!-- TODO: Fallback translation -->
+Örnekler:
+**bhāvyate** (bhāv-ya-te) "o/üçüncü şahıs ortaya çıkarılır"
+**sthāpyate** (sthāp-ya-te) "o/üçüncü şahıs yerleştirilir"
 :::
-Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird. <!-- TODO: Fallback translation -->
+Orijinal köke ait edilgen genellikle zayıf basamaklı kökten oluşturulurken, nedenselin edilgeni genellikle güçlü veya uzatmalı basamaklı kökten oluşturulduğundan tanınabilir.
 
-## 28.5. Bildung des Futurs (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ <!-- TODO: Fallback translation -->
+
+## 28.5. Futurumun (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) Kausativ için
 
 ::: grammar-box
-**Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:** <!-- TODO: Fallback translation -->
+**Kausatifin futurumu, kausativ kökünden türetilir; bu süreçte kausatif eki olan son -a- düşer:**
 
-**-ay-iṣya-** <!-- TODO: Fallback translation -->
+**-ay-iṣya-**
 
-Beispiel:
-**budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "er/sie/es wird aufwecken" <!-- TODO: Fallback translation -->
+Örnek:
+**budh** Futurum-Kausatif: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "o/ona/kendisi uyandıracaktır"
 :::
 
-## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ <!-- TODO: Fallback translation -->
+## 28.6. PPP (⟪क्त⟫) Kausatif için
 
 ::: grammar-box
-**Kausativstamm auf -ay- (ohne auslautendes a) + -i- + -ta** <!-- TODO: Fallback translation -->
+**-ay- ile biten kausatif kök (son a olmadan) + -i- + -ta**
 
-Beispiele:
-**gam** — **gamayati** — **gamita** (gam-i-ta) "gesendet" (PPP der einfachen Wurzel: **gata**)
-**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt" <!-- TODO: Fallback translation -->
+Örnekler:
+**gam** — **gamayati** — **gamita** (gam-i-ta) "gönderilmiş" (basit kökün PPP'si: **gata**)
+**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "yerleştirilmiş"
 :::
 
-## 28.7. Bildung des Absolutivs (⟪क्त्वा⟫ . ⟪ल्यप्⟫) zum Kausativ <!-- TODO: Fallback translation -->
+## 28.7. Absolutivumun (⟪क्त्वा⟩ . ⟪ल्यप्⟩) Kausatif için
 
 ::: grammar-box
-**Das Absolutivum auf -tvā wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:** <!-- TODO: Fallback translation -->
+**-tvā ile biten absolutivum, -ay- ile biten kausatif kökten (son a olmadan) türetilir:**
 
-**Kausativstamm auf -ay- + -i- + -tvā** <!-- TODO: Fallback translation -->
+**-ay- ile biten kausatif kök + -i- + -tvā**
 
-Beispiel:
-**sthāpayitvā** (sthā-pay-i-tvā) "nachdem er aufgestellt hat" <!-- TODO: Fallback translation -->
+Örnek:
+**sthāpayitvā** (sthā-pay-i-tvā) "yerleştirdikten sonra"
 :::
 ::: grammar-box
-**Das Absolutivum auf -ya tritt bei Kausativa mit Präverb in der Regel an Kausativstamm OHNE -aya-** <!-- TODO: Fallback translation -->
+**Ön ekli kausatiflerde, -ya ile biten absolutivum genellikle -aya- içermeyen kausatif köke gelir**
 
-Beispiele:
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "nachdem er aufgeweckt hat"
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat" <!-- TODO: Fallback translation -->
+Örnekler:
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "uyandırdıktan sonra"
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "getirdikten sonra, yanına çağırdıktan sonra"
 :::
 ::: grammar-box
-**Enthält jedoch die Wurzelsilbe des Kausativs ein kurzes -a- vor einem einzigen Konsonanten, tritt das -ya des Absolutivums an den Kausativstamm auf -ay- (ohne auslautendes a)** <!-- TODO: Fallback translation -->
+**Ancak kausatifin kök hecesinde tek bir ünsüzden önce kısa -a- varsa, absolutivumun -ya'sı son a olmadan -ay- ile biten kausatif köke gelir**
 
-Beispiel:
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat" <!-- TODO: Fallback translation -->
+Örnek:
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "geldikten sonra"
 :::
 
-## 28.8. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ <!-- TODO: Fallback translation -->
+## 28.8. Kausativ için infinitif türetimi (⟪तुमुन्⟫)
 
 ::: grammar-box
-**Der Infinitiv zum Kausativ wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:** <!-- TODO: Fallback translation -->
+**Kausativ için infinitif, sonundaki 'a' harfi olmadan -ay- ile biten kausativ kökünden türetilir:**
 
-**Kausativstamm auf -ay- + -i- + -tum** <!-- TODO: Fallback translation -->
+**-ay- ile biten kausativ kökü + -i- + -tum**
 
-Beispiel:
-**jan** — **janayati** — **janayitum** (janay-i-tum) "um zu erzeugen" <!-- TODO: Fallback translation -->
+Örnek:
+**jan** — **janayati** — **janayitum** (janay-i-tum) "yaratmak için"
 :::
 
-## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.) <!-- TODO: Fallback translation -->
+## 28.9. Onuncu şimdiki zaman sınıfı (⟪चुरादि⟫ = ⟪चुर्⟫ vb.)
 
 ::: grammar-box
-**In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.** <!-- TODO: Fallback translation -->
+**Kausativler gibi, onuncu şimdiki zaman sınıfının bazı kökleri de kausatif olmayan bir şekilde şimdiki zamanı (ve diğer zamanları) türetir.**
 
-Beispiele: <!-- TODO: Fallback translation -->
-1.  Dehnstufige Wurzel + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "lieben" <!-- TODO: Fallback translation -->
-2.  Hochstufige Wurzel + -aya- : **cur** 10U **corayati** "stehlen"; Futur: **corayiṣyate**; Pass.: **coryate** <!-- TODO: Fallback translation -->
+Örnekler:
+1. Uzun sesli kök + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "sevmek"
+2. Yüksek sesli kök + -aya- : **cur** 10U **corayati** "hırsızlık yapmak"; Gelecek: **corayiṣyate**; Edilgen: **coryate**
 :::
 ::: grammar-box
-**Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein Kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.** <!-- TODO: Fallback translation -->
+**Onuncu şimdiki zaman sınıfındaki fiillere ait kausativ formları, basit fiilin formlarıyla aynıdır. Bir kausatif olup olmadığına karar vermek yalnızca anlamdan veya bazen de yapılandırmadan mümkündür.**
 :::
 
-## 28.10. Wortliste <!-- TODO: Fallback translation -->
+## 28.10. Kelime listesi
 
 ::: indent
-⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: wissen, kennen
-Fut. **vediṣyati**
-Pass. **vidyate**
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: bilmek
+Gelecek **vediṣyati**
+Edilgen **vidyate**
 Kaus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m. <!-- TODO: Fallback translation -->
+bundan: **vidyā** f., **veda** m.
 :::
 ::: indent
-⟪विद्⟫ 6U ⟪विन्दति⟫ (!): finden
-Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!): bulmak
+Gelecek **vediṣyati** / **vetsyat**
+Edilgen **vidyate**: vardır, mevcuttur
 Kaus. **vedayati**
 PPP **vinna** / **vitta**
-Inf. **vediṣtum** / **vettum** <!-- TODO: Fallback translation -->
+Inf. **vediṣtum** / **vettum**
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen) <!-- TODO: Fallback translation -->
+**i + adhi** 2Ā **adhīte**, **adhīyate**: çalışmak, ezberlemek
+Kaus. **adhyāpayati**: çalıştırmak, öğretmek
+bundan: **adhyayana** n.: çalışma (özellikle Veda); **adhyāya** m. ders, bölüm (ezberleme için bölüm)
 :::
 ::: indent
-⟪कम्⟫ 10Ā ⟪कामयते⟫: lieben
+⟪कम्⟫ 10Ā ⟪कामयते⟫: sevmek
 Fut. **kāmayiṣyate** / **kamiṣyate**
-Pass. **kāmyate**
-Kaus. **kāmayati**
+Geç. kln. **kāmyate**
+Sebep kln. **kāmayati**
 PPP **kānta** (!)
-Inf. **kāmayitum** / **kamitum** <!-- TODO: Fallback translation -->
+Inf. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804)) <!-- TODO: Fallback translation -->
+Resim: ⟪कृष्णो राधां कामयति⟫
+Tablo, sanatçı: ⟪राजा रवि वर्मा⟫ (1848 - 1906)
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2804))
 :::
 
 ::: indent
-⟪चुर्⟫ 10 ⟪चोरयति⟫: stehlen
+⟪चुर्⟫ 10. kln. ⟪चोरयति⟫: çalmak, hırsızlık yapmak
 Fut. **corayiṣyati**
-Pass. **coryate**
-Kaus. **corayati**
+Geç kln. **coryate**
+Sebep kln. **corayati**
 PPP **corita**
-Inf. **coritum** <!-- TODO: Fallback translation -->
+Inf. **coritum**
 :::
 ::: indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen <!-- TODO: Fallback translation -->
+**Aşağıdaki fiillerin sebep kln.'larının anlamlarını özellikle unutmayın:**
+**dṛś** — **darśayati**: göstermek
+**man** — **mānayati**: saygı duymak, onurlandırmak (ancak büyük olasılıkla **māna** "onur" kelimeden türemiş bir denominatif fiildir)
+**vac** — **vācayati**: ayrıca: okuyarak seslendirmek (bir metni konuşmasını sağlamak)
+**vad** — **vādayati**: ayrıca: bir müzik aletini konuşturmak = bir müzik aleti çalmak
 :::
 ::: media
 ![](/images/lekt2803.webp)
-Abb.: ⟪वीणां⟫ ⟪वादयति⟫
+Resim: ⟪वीणां वादयति⟫
 Vīṇā-Spielerin.
-(Bildquelle: [Details](/licenses#lekt2803)) <!-- TODO: Fallback translation -->
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2803))
 :::
-⟪भार⟫ m.: Last <!-- TODO: Fallback translation -->
+⟪भार⟫ m.: Yük
 
 ::: media
 ![](/images/lekt2805.webp)
-Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Mädchen trägt Last. Bei Ahmedabad.
-(Bildquelle: [Details](/licenses#lekt2805)) <!-- TODO: Fallback translation -->
+Resm.: ⟪बाला भारं हरति⟫
+Yük taşıyan kız. Ahmedabad yakınlarında.
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2805))
 :::
-⟪भृत्य⟫ m.: Untergebener, Diener <!-- TODO: Fallback translation -->
+⟪भृत्य⟫ m.: Alt görevli, hizmetkâr
 
-## 28.11. Übung <!-- TODO: Fallback translation -->
 
-**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:** <!-- TODO: Fallback translation -->
+## 28.11. Alıştırma
 
-**1. Mit hochstufiger Wurzel:** <!-- TODO: Fallback translation -->
-1. ⟪अर्हन्ति⟫ <!-- TODO: Fallback translation -->
-2. ⟪प्राप्य⟫ <!-- TODO: Fallback translation -->
-3. ⟪एषिष्यन्ति⟫ <!-- TODO: Fallback translation -->
-4. ⟪कुप्यति⟫ <!-- TODO: Fallback translation -->
-5. ⟪कर्क्ष्यति⟫ <!-- TODO: Fallback translation -->
-6. ⟪क्रुध्यन्ती⟫ <!-- TODO: Fallback translation -->
-7. ⟪चोर्यते⟫ <!-- TODO: Fallback translation -->
-8. ⟪गन्तुम्⟫ <!-- TODO: Fallback translation -->
-9. ⟪जातः⟫ <!-- TODO: Fallback translation -->
-10. ⟪देक्ष्यन्ति⟫ <!-- TODO: Fallback translation -->
-11. ⟪दोग्धि⟫ <!-- TODO: Fallback translation -->
-12. ⟪माद्यन्⟫ <!-- TODO: Fallback translation -->
-13. ⟪द्रक्ष्यति⟫ <!-- TODO: Fallback translation -->
-14. ⟪द्वेष्टि⟫ <!-- TODO: Fallback translation -->
-15. ⟪नर्तितुम्⟫ <!-- TODO: Fallback translation -->
-16. ⟪भोत्स्यन्ते⟫ <!-- TODO: Fallback translation -->
-17. ⟪मुञ्चन्ति⟫ <!-- TODO: Fallback translation -->
-18. ⟪पृच्छन्ति⟫ <!-- TODO: Fallback translation -->
-19. ⟪मुह्यति⟫ <!-- TODO: Fallback translation -->
-20. ⟪योत्स्यन्⟫ <!-- TODO: Fallback translation -->
-21. ⟪रक्ष्यते⟫ <!-- TODO: Fallback translation -->
-22. ⟪रोदिति⟫ <!-- TODO: Fallback translation -->
-23. ⟪लुब्धा⟫ <!-- TODO: Fallback translation -->
-24. ⟪प्रविश्य⟫ <!-- TODO: Fallback translation -->
-25. ⟪वर्तते⟫ <!-- TODO: Fallback translation -->
-26. ⟪सिक्त्वा⟫ <!-- TODO: Fallback translation -->
-27. ⟪स्रक्ष्यति⟫ <!-- TODO: Fallback translation -->
-28. ⟪लिम्पन्ति⟫ <!-- TODO: Fallback translation -->
-29. ⟪वृद्धाः⟫ <!-- TODO: Fallback translation -->
+**A) Aşağıdaki fiil formları ve ortaç formlarının kausatiflerini oluşturun ve anlamlarını belirtin:**
 
-**2. Mit dehnstufiger Wurzel:** <!-- TODO: Fallback translation -->
-1. ⟪अत्ति⟫ <!-- TODO: Fallback translation -->
-2. ⟪अस्यन्ति⟫ <!-- TODO: Fallback translation -->
-3. ⟪एष्यति⟫ <!-- TODO: Fallback translation -->
-4. ⟪संस्कृतम्⟫ <!-- TODO: Fallback translation -->
-5. ⟪चरति⟫ <!-- TODO: Fallback translation -->
-6. ⟪तनोति⟫ <!-- TODO: Fallback translation -->
-7. ⟪खाद्यते⟫ <!-- TODO: Fallback translation -->
-8. ⟪धक्ष्यति⟫ <!-- TODO: Fallback translation -->
-9. ⟪उपानैष्यति⟫ <!-- TODO: Fallback translation -->
-10. ⟪पच्यते⟫ <!-- TODO: Fallback translation -->
-11. ⟪पतन्ति⟫ <!-- TODO: Fallback translation -->
-12. ⟪पत्स्यते⟫ <!-- TODO: Fallback translation -->
-13. ⟪भक्तः⟫ <!-- TODO: Fallback translation -->
-14. ⟪भवति⟫ <!-- TODO: Fallback translation -->
-15. ⟪मंस्यन्ते⟫ <!-- TODO: Fallback translation -->
-16. ⟪म्रियते⟫ <!-- TODO: Fallback translation -->
-17. ⟪इज्यते⟫ <!-- TODO: Fallback translation -->
-18. ⟪वक्ति⟫ <!-- TODO: Fallback translation -->
-19. ⟪प्रोद्य⟫ <!-- TODO: Fallback translation -->
-20. ⟪शृणोति⟫ <!-- TODO: Fallback translation -->
-21. ⟪सुन्वन्ति⟫ <!-- TODO: Fallback translation -->
-22. ⟪स्तौति⟫ <!-- TODO: Fallback translation -->
-23. ⟪विस्मृत्य⟫ <!-- TODO: Fallback translation -->
-24. ⟪उषितः⟫ <!-- TODO: Fallback translation -->
-25. ⟪वसिता⟫ <!-- TODO: Fallback translation -->
-26. ⟪अश्नुते⟫ <!-- TODO: Fallback translation -->
-27. ⟪आस्ते⟫ <!-- TODO: Fallback translation -->
-28. ⟪त्यक्ष्यता⟫ <!-- TODO: Fallback translation -->
-29. ⟪धृतेन⟫ <!-- TODO: Fallback translation -->
-30. ⟪म्रियन्ते⟫ <!-- TODO: Fallback translation -->
-31. ⟪यजतः⟫ <!-- TODO: Fallback translation -->
-32. ⟪उक्ते⟫ <!-- TODO: Fallback translation -->
-33. ⟪उद्यन्ते⟫ <!-- TODO: Fallback translation -->
-34. ⟪शक्नुवन्ति⟫ <!-- TODO: Fallback translation -->
-35. ⟪श्रोष्यन्तः⟫ <!-- TODO: Fallback translation -->
-36. ⟪सीदति⟫ <!-- TODO: Fallback translation -->
-37. ⟪सोढायाः⟫ <!-- TODO: Fallback translation -->
-38. ⟪हरन्ती⟫ <!-- TODO: Fallback translation -->
-39. ⟪ऊढया⟫ <!-- TODO: Fallback translation -->
+**1. Yüksek dereceli kök ile:**
+1. ⟪अर्हन्ति⟫
+2. ⟪प्राप्य⟫
+3. ⟪एषिष्यन्ति⟫
+4. ⟪कुप्यति⟫
+5. ⟪कर्क्ष्यति⟫
+6. ⟪क्रुध्यन्ती⟫
+7. ⟪चोर्यते⟫
+8. ⟪गन्तुम्⟫
+9. ⟪जातः⟫
+10. ⟪देक्ष्यन्ति⟫
+11. ⟪दोग्धि⟫
+12. ⟪माद्यन्⟫
+13. ⟪द्रक्ष्यति⟫
+14. ⟪द्वेष्टि⟫
+15. ⟪नर्तितुम्⟫
+16. ⟪भोत्स्यन्ते⟫
+17. ⟪मुञ्चन्ति⟫
+18. ⟪पृच्छन्ति⟫
+19. ⟪मुह्यति⟫
+20. ⟪योत्स्यन्⟫
+21. ⟪रक्ष्यते⟫
+22. ⟪रोदिति⟫
+23. ⟪लुब्धा⟫
+24. ⟪प्रविश्य⟫
+25. ⟪वर्तते⟫
+26. ⟪सिक्त्वा⟫
+27. ⟪स्रक्ष्यति⟫
+28. ⟪लिम्पन्ति⟫
+29. ⟪वृद्धाः⟫
 
-**3. Kausativ auf -⟪पय⟫** <!-- TODO: Fallback translation -->
-1. ⟪स्थित्वा⟫ <!-- TODO: Fallback translation -->
+**2. Kök ünlü uzatmalı:**
+1. ⟪अत्ति⟫
+2. ⟪अस्यन्ति⟫
+3. ⟪एष्यति⟫
+4. ⟪संस्कृतम्⟫
+5. ⟪चरति⟫
+6. ⟪तनोति⟫
+7. ⟪खाद्यते⟫
+8. ⟪धक्ष्यति⟫
+9. ⟪उपानैष्यति⟫
+10. ⟪पच्यते⟫
+11. ⟪पतन्ति⟫
+12. ⟪पत्स्यते⟫
+13. ⟪भक्तः⟫
+14. ⟪भवति⟫
+15. ⟪मंस्यन्ते⟫
+16. ⟪म्रियते⟫
+17. ⟪इज्यते⟫
+18. ⟪वक्ति⟫
+19. ⟪प्रोद्य⟫
+20. ⟪शृणोति⟫
+21. ⟪सुन्वन्ति⟫
+22. ⟪स्तौति⟫
+23. ⟪विस्मृत्य⟫
+24. ⟪उषितः⟫
+25. ⟪वसिता⟫
+26. ⟪अश्नुते⟫
+27. ⟪आस्ते⟫
+28. ⟪त्यक्ष्यता⟫
+29. ⟪धृतेन⟫
+30. ⟪म्रियन्ते⟫
+31. ⟪यजतः⟫
+32. ⟪उक्ते⟫
+33. ⟪उद्यन्ते⟫
+34. ⟪शक्नुवन्ति⟫
+35. ⟪श्रोष्यन्तः⟫
+36. ⟪सीदति⟫
+37. ⟪सोढायाः⟫
+38. ⟪हरन्ती⟫
+39. ⟪ऊढया⟫
 
-**4. Beachten und lernen Sie besonders folgende Kausativbildungen** <!-- TODO: Fallback translation -->
-1. ⟪दुष्⟫ — ⟪दूषयति⟫ <!-- TODO: Fallback translation -->
-2. ⟪पा⟫ 1 ("trinken") — ⟪पाययति⟫ <!-- TODO: Fallback translation -->
-3. ⟪पा⟫ 2 ("schützen") — ⟪पालयति⟫ <!-- TODO: Fallback translation -->
-4. ⟪लभ्⟫ — ⟪लम्भयति⟫ <!-- TODO: Fallback translation -->
-5. ⟪हन्⟫ — ⟪घातयति⟫ <!-- TODO: Fallback translation -->
-6. ⟪जि⟫ — ⟪जापयति⟫ <!-- TODO: Fallback translation -->
-7. ⟪जीव्⟫ — ⟪जीवयति⟫ <!-- TODO: Fallback translation -->
+**3. -⟪पय⟫ ekiyle causative**
+1. ⟪स्थित्वा⟫
 
-**B. Übersetzen Sie folgende Sätze, lösen Sie die Komposita in Sanskrit auf und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird:** <!-- TODO: Fallback translation -->
+**4. Aşağıdaki causative yapılarını özellikle dikkat edin ve öğrenin**
+1. ⟪दुष्⟫ — ⟪दूषयति⟫
+2. ⟪पा⟫ 1 ("içmek") — ⟪पाययति⟫
+3. ⟪पा⟫ 2 ("korumak") — ⟪पालयति⟫
+4. ⟪लभ्⟫ — ⟪लम्भयति⟫
+5. ⟪हन्⟫ — ⟪घातयति⟫
+6. ⟪जि⟫ — ⟪जापयति⟫
+7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-Beispiel: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫ <!-- TODO: Fallback translation -->
+**B. Aşağıdaki cümleleri çevirin, Sanskritçe bileşik sözcükleri ayırın ve basit fiiller kullanarak causative tarafından ifade edilenin gerçekleştiğini belirten cümleler kurun:**
 
-⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫
-⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫
-⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪॥३॥⟫
-⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫
-⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪।⟫ ⟪सुभगः⟫ ⟪पुत्र⟫ ⟪इति⟫ ⟪दासो⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪तच्छ्रुत्वा⟫ ⟪ब्राह्मणो⟫ ⟪सुखतां⟫ ⟪गच्छति⟫ ⟪॥५॥⟫
-⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫
-⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫
-⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪।⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪पूजां⟫ ⟪कृत्वा⟫ ⟪क्षत्रियाया⟫ ⟪धनमेषिष्यति⟫ ⟪॥८॥⟫
-⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
-⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
+Örnek: ⟪रामो दासं भारं हारयति⟫ » ⟪दासो भारं हरति शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥ गुरुर्बालान्वेदमध्याप्य गृहं गतः ॥२॥ गर्भगृहे देवीप्रतिमा दृश्यते ॥३॥ यजन्नग्निनान्नमादयति पानं च पाययति ॥४॥ पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति । ब्राह्मणस्तं दासं गृहं प्रवेश्य पुत्रं पृच्छति । सुभगः पुत्र इति दासो वक्ति । तच्छ्रुत्वा ब्राह्मणो सुखतां गच्छति ॥५॥ स्तुवता नरेण देवा महाकवेः स्तोत्राणि श्राविताः ॥६॥ आर्ययोधैर्महायुद्धे ऽरयो मार्यन्ते ॥७॥ सत्क्षत्रिया ब्राह्मणेनेष्टदेवतापूजां कारयति । स ब्राह्मणः पूजां कृत्वा क्षत्रियाया धनमेषिष्यति ॥८॥ धनं जेतुं महाक्षत्रियो योधव्याघ्रैर्व्रतानि चारयिष्यति ॥९॥ पापान्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥⟫
 
-::: deleteme-box
-
-**lekt2801:** Jadavpur University Management building. [Bildquelle: noii's Flickr, 2008-12-19, CC BY-SA]
-**lekt2802:** ISKCON Temple Bangalore. [Bildquelle: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Vīṇā-Spielerin. [Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense]
-**lekt2804:** Kṛṣṇa und Rādhā. Gemälde von Rāja Ravi Varmā. [Bildquelle: Wikipedia. Public domain]
-**lekt2805:** Mädchen trägt Last. Bei Ahmedabad. [Bildquelle: m-bot. Flickr, 2008-12-20. CC BY-SA] <!-- TODO: Fallback translation -->
-:::

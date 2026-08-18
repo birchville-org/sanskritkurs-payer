@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # 第九课
 
-::: deleteme-box
-**在本课中，您将学习：**
-- 萨玛哈拉德万杜瓦（Samāhāradvandva，“综合复合词”）
-- 带有后缀 **-ka**（taddhita）和 **-aka**（kṛt）的名词词干构成
-- 关于职业和社会角色的词汇
-- 古典法论（Dharmaśāstras）中的引文
-:::
 
 ## 9.1. Samāhāradvandva（⟪समाहारद्वन्द्व⟫ = “总结性双数”）
 

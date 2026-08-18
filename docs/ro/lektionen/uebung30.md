@@ -1,8 +1,9 @@
 ---
 title: "Exercițiul 30"
 uebung_id: 30
-category: "Exercițiu"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -104,72 +105,72 @@ Datoria Vaiśyelor este de a trăi din cumpărare și vânzare. De aceea, Vaiśy
 (⟪कृतं⟫ ⟪पापं⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫ ⟪पुनर्भव⟫ — ⟪पुनः⟫ ⟪भवति⟫ ⟪इति⟫)
 Când un făptuitor de rău este curățat de răutatea sa într-o iad, el se renaște.
 
-⟪७⟫. **⟪ब्राह्मणपुत्रा⟫ ⟪वेदाध्यायांश्च⟫ ⟪स्मृत्यध्यायांश्च⟫ ⟪पुनः⟫ ⟪पुनरधीयीरन्नित्यार्यधर्मः⟫ ⟪॥७॥⟫**
-(⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪।⟫ ⟪वेदानामध्यायांश्च⟫ ⟪स्मृतीनामध्यायांश्च⟫)
-Datoria nobililor este ca fiii Brahmanului să studieze din nou și din nou secțiunile Vedelor și ale tradiției.
+⟪७⟫. **⟪ब्राह्मणपुत्रा वेदाध्यायांश्च स्मृत्यध्यायांश्च पुनः पुनरधीयीरन्नित्यार्यधर्मः ॥७॥⟫**
+(⟪ब्राह्मणानां पुत्राः । वेदानामध्यायांश्च स्मृतीनामध्यायांश्च⟫)
+Datoria nobililor este ca fiii brahmanilor să studieze din nou și din nou secțiunile Vedelor și ale tradiției.
 
-⟪८⟫. **⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫**
+⟪८⟫. **⟪यो ब्राह्मणः शूद्रां कामयेत स सद्ब्राह्मणो न स्यात् । सद्ब्राह्मणो हि ब्राह्मणीं कामयेत ॥८॥⟫**
 (⟪सन्⟫-⟪ब्राह्मणः⟫)
-Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Brahmane liebt eine Brahmanin.
+Un brahman care o iubește pe o śūdră nu este un bun brahman, deoarece un bun brahman iubește o brahmană.
 
-⟪९⟫. **⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫**  
-**⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
-Să se spună adevăruri plăcute, să nu se spună adevăruri neplăcute; să nu se spună minciuni plăcute, acesta este legea veșnică.
+⟪९⟫. **⟪सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् ।⟫**  
+**⟪प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥⟫** (Manu IV.138)  
+Să se spună adevăruri care sunt plăcute, nu să se spună adevăruri neplăcute; să nu se spună minciuni plăcute, aceasta este legea veșnică.
 
 ::: media
 ![](/images/uebung048.webp)
-Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
+Fig.: ⟪श्रीमोहनभोपेन रावणहस्तो वाद्यते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung048))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Determinarea formei cuvântului
 
-Determinați și traduceți următoarele forme de cuvânt:
+Determinați și traduceți următoarele forme de cuvinte:
 
 ::: grammar-box
 | Formă de cuvânt | Determinare | Semnificație |
 | :--- | :--- | :--- |
-| ⟪१⟫. **⟪भारे⟫** | Loc. sg. m. | pe povară |
-| ⟪२⟫. **⟪अध्ययनम्⟫** | Nom./Akk. sg. n. | studiu |
-| ⟪३⟫. **⟪वस्तुतः⟫** | Adv. | în realitate |
-| ⟪४⟫. **⟪वस्त्राणि⟫** | Nom./Akk. pl. n. | haine |
-| ⟪५⟫. **⟪प्रतिमया⟫** | Instr. sg. f. | printr-o imagine |
-| ⟪६⟫. **⟪आचाराय⟫** | Dat. sg. m. | comportamentului |
-| ⟪७⟫. **⟪आचार्यैः⟫** | Instr. pl. m. | prin profesori |
-| ⟪८⟫. **⟪अश्वेषु⟫** | Loc. pl. m. | pe cai |
-| ⟪९⟫. **⟪ताम्⟫** | Akk. sg. f. | acestea |
-| ⟪१०⟫. **⟪वृत्त्यै⟫** | Dat. sg. f. | stilului de viață |
-| ⟪११⟫. **⟪चरितस्य⟫** | Gen. sg. n. | al biografiei |
-| ⟪१२⟫. **⟪अर्हता⟫** | Instr. sg. m. | prin Arhat |
-| ⟪१३⟫. **⟪शक्तीः⟫** | Akk. pl. f. | puterile |
-| ⟪१४⟫. **⟪कामम्⟫** | Adv. | la discreție |
-| ⟪१५⟫. **⟪भिक्षवे⟫** | Dat. sg. m. | călugărului |
-| ⟪१६⟫. **⟪भगवद्गीतायाम्⟫** | Loc. sg. f. | în Bhagavadgītā |
-| ⟪१७⟫. **⟪भगवति⟫** | Loc. sg. m./n. | în Preafericitul |
-| ⟪१८⟫. **⟪भक्त्याः⟫** | Abl./Gen. sg. f. | al iubirii / din iubire |
-| ⟪१९⟫. **⟪स्थानात्⟫** | Abl. sg. n. | din loc |
-| ⟪२०⟫. **⟪स्थित्या⟫** | Instr. sg. f. | prin stabilire |
-| ⟪२१⟫. **⟪मात्रायै⟫** | Dat. sg. f. | măsurii |
-| ⟪२२⟫. **⟪प्रभृतौ⟫** | Loc. sg. f. | la început |
-| ⟪२३⟫. **⟪हस्तेन⟫** | Instr. sg. m. | prin mână |
-| ⟪२४⟫. **⟪आदेः⟫** | Abl./Gen. sg. m. | al/ de la început |
-| ⟪२५⟫. **⟪दिष्टिम्⟫** | Akk. sg. f. | instrucțiunea |
-| ⟪२६⟫. **⟪रुद्रः⟫** | Nom. sg. m. | Rudra |
-| ⟪२७⟫. **⟪मृत्यौ⟫** | Loc. sg. m. | în moarte |
-| ⟪२८⟫. **⟪मृतिः⟫** | Nom. sg. f. | moartea |
-| ⟪२९⟫. **⟪द्विजातये⟫** | Dat. sg. m./f. | celor născuți de două ori |
-| ⟪३०⟫. **⟪जातिभिः⟫** | Instr. pl. f. | prin nașteri |
-| ⟪३१⟫. **⟪व्याघ्रान्⟫** | Akk. pl. m. | tigrii |
-| ⟪३२⟫. **⟪पूजाः⟫** | Nom./Akk. pl. f. | omagiile |
-| ⟪३३⟫. **⟪शत्रोः⟫** | Abl./Gen. sg. m. | al/ de la dușman |
-| ⟪३४⟫. **⟪उक्तिभ्यः⟫** | Dat./Abl. pl. f. | celor/ de la spuse |
-| ⟪३५⟫. **⟪महान्ति⟫** | Nom./Akk. pl. n. | marii |
-| ⟪३६⟫. **⟪महति⟫** | Loc. sg. m./n. | în mare |
-| ⟪३७⟫. **⟪सा⟫** | Nom. sg. f. | ea, aceasta |
-| ⟪३८⟫. **⟪तस्यै⟫** | Dat. sg. f. | ei |
-| ⟪३९⟫. **⟪तस्मिन्⟫** | Loc. sg. m./n. | în acesta, în acest |
-| ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | Ființei / Bunei |
+| ⟪१⟫. ⟪भारे⟫ | Loc. sg. m. | pe povară |
+| ⟪२⟫. ⟪अध्ययनम्⟫ | Nom./Akk. sg. n. | studiu |
+| ⟪३⟫. ⟪वस्तुतः⟫ | Adv. | în realitate |
+| ⟪४⟫. ⟪वस्त्राणि⟫ | Nom./Akk. pl. n. | haine |
+| ⟪५⟫. ⟪प्रतिमया⟫ | Instr. sg. f. | printr-o imagine |
+| ⟪६⟫. ⟪आचाराय⟫ | Dat. sg. m. | comportamentului |
+| ⟪७⟫. ⟪आचार्यैः⟫ | Instr. pl. m. | prin profesori |
+| ⟪८⟫. ⟪अश्वेषु⟫ | Loc. pl. m. | pe cai |
+| ⟪९⟫. ⟪ताम्⟫ | Akk. sg. f. | acestea |
+| ⟪१०⟫. ⟪वृत्त्यै⟫ | Dat. sg. f. | stilului de viață |
+| ⟪११⟫. ⟪चरितस्य⟫ | Gen. sg. n. | al cursului vieții |
+| ⟪१२⟫. ⟪अर्हता⟫ | Instr. sg. m. | prin arhat |
+| ⟪१३⟫. ⟪शक्तीः⟫ | Akk. pl. f. | forțele |
+| ⟪१४⟫. ⟪कामम्⟫ | Adv. | la discreție |
+| ⟪१५⟫. ⟪भिक्षवे⟫ | Dat. sg. m. | călugărului |
+| ⟪१६⟫. ⟪भगवद्गीतायाम्⟫ | Loc. sg. f. | în Bhagavadgītā |
+| ⟪१७⟫. ⟪भगवति⟫ | Loc. sg. m./n. | în venerabilul |
+| ⟪१८⟫. ⟪भक्त्याः⟫ | Abl./Gen. sg. f. | al iubirii / din iubire |
+| ⟪१९⟫. ⟪स्थानात्⟫ | Abl. sg. n. | din loc |
+| ⟪२०⟫. ⟪स्थित्या⟫ | Instr. sg. f. | prin stabilire |
+| ⟪२१⟫. ⟪मात्रायै⟫ | Dat. sg. f. | măsurii |
+| ⟪२२⟫. ⟪प्रभृतौ⟫ | Loc. sg. f. | la început |
+| ⟪२३⟫. ⟪हस्तेन⟫ | Instr. sg. m. | prin mână |
+| ⟪२४⟫. ⟪आदेः⟫ | Abl./Gen. sg. m. | al/ de la început |
+| ⟪२५⟫. ⟪दिष्टिम्⟫ | Akk. sg. f. | instrucțiunea |
+| ⟪२६⟫. ⟪रुद्रः⟫ | Nom. sg. m. | Rudra |
+| ⟪२७⟫. ⟪मृत्यौ⟫ | Loc. sg. m. | în moarte |
+| ⟪२८⟫. ⟪मृतिः⟫ | Nom. sg. f. | moartea |
+| ⟪२९⟫. ⟪द्विजातये⟫ | Dat. sg. m./f. | celor născuți de două ori |
+| ⟪३०⟫. ⟪जातिभिः⟫ | Instr. pl. f. | prin nașteri |
+| ⟪३१⟫. ⟪व्याघ्रान्⟫ | Akk. pl. m. | tigrii |
+| ⟪३२⟫. ⟪पूजाः⟫ | Nom./Akk. pl. f. | venerările |
+| ⟪३३⟫. ⟪शत्रोः⟫ | Abl./Gen. sg. m. | al/ de la dușman |
+| ⟪३४⟫. ⟪उक्तिभ्यः⟫ | Dat./Abl. pl. f. | celor/ de la spuse |
+| ⟪३५⟫. ⟪महान्ति⟫ | Nom./Akk. pl. n. | marii |
+| ⟪३६⟫. ⟪महति⟫ | Loc. sg. m./n. | în mare |
+| ⟪३७⟫. ⟪सा⟫ | Nom. sg. f. | ea, aceasta |
+| ⟪३८⟫. ⟪तस्यै⟫ | Dat. sg. f. | ei |
+| ⟪३९⟫. ⟪तस्मिन्⟫ | Loc. sg. m./n. | în acesta, aici |
+| ⟪४०⟫. ⟪सते⟫ | Dat. sg. m./n. | celui existent / bunului |
 :::: media
 ![](/images/uebung047.webp)
 Fig.: ⟪भक्त्याः⟫

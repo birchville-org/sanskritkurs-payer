@@ -12,14 +12,14 @@ A) Traduceți următoarele propoziții și descompuneți compusele:
 
 ⟪१⟫. **⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫**
 (⟪दुःखस्य⟫ ⟪सम्भवम्⟫ ⟪।⟫ ⟪आर्येण⟫ ⟪बुद्धस्य⟫ / ⟪बुद्धानां⟫ ⟪मार्गेण⟫)
-Pentru ca înțelegerea să prevină nașterii suferinței, un om înțelept ar trebui să urmeze calea nobilă a lui Buddha (sau: a buddhilor). <!-- TODO: Fallback translation -->
+Pentru ca înțelegerea să prevină nașterii suferinței, un om înțelept ar trebui să urmeze calea nobilă a lui Buddha (sau: a buddhilor).
 
 ⟪२⟫. **⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगव्द्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫**
 (⟪भगवतो⟫ ⟪गीतायाम्⟫)
 Învățatul spune în Bhagavadgītā că săbiile pot doar despica corpul, dar sufletul (jīva) nu moare.
 
 ⟪३⟫. **⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫**
-Cine are înțelegere este eliberat de suferință; de aceea, cineva care dorește mântuirea ar trebui să se concentreze prin yoga. <!-- TODO: Fallback translation -->
+Cine are înțelegere este eliberat de suferință; de aceea, cineva care dorește mântuirea ar trebui să se concentreze prin yoga.
 
 ⟪४⟫. **⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫**
 (⟪कुलस्य⟫ ⟪बन्धनम्⟫ ⟪।⟫ ⟪भग्नो⟫ ⟪बन्धो⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫ ⟪मोक्षं⟫ ⟪नयन्तीम्⟫)
@@ -34,9 +34,9 @@ Un neștiutor se bucură de mâncare bună și femei frumoase. Cui i-a dispărut
 Fig.: ⟪कुलबन्धनम्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung049))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Verbparadigmen (7. Klasse) <!-- TODO: Fallback translation -->
+## Verbparadigmen (7. Klasse)
 
 B) Formați pentru următoarele rădăcini din clasa a 7-a persoana a III-a singular și plural (P și Ā) din Indicativul și Optativul Prezent:
 

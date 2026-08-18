@@ -37,7 +37,7 @@ Acuzativul poate fi folosit adverbial:
 :::
 ::: indent
 ⟪कामम्⟫ "după dorință, conform dorinței"
-⟪अर्थम्⟫ "din cauza"   <!-- TODO: Fallback translation -->
+⟪अर्थम्⟫ "din cauza"  
 :::
 
 *   de adjective la neutru  
@@ -173,7 +173,7 @@ adverbe pronominale corespunzătoare.
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -183,7 +183,7 @@ Un alt adverb interogativ este: ⟪क्व⟫ "unde?"
 ![lekt3701.jpg](/images/lekt3701.webp)
 Fig.: ⟪क्व⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3701))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -194,7 +194,7 @@ Fig.: ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Compozite adverbiale
@@ -296,7 +296,7 @@ La întrebările cu cuvinte se întreabă despre un agent (⟪कर्तृ⟫
 *   cum vorbește ea sanscrita?
 *   unde este mama?
 
-La întrebările cu propoziții se întreagă întregul conținut al propoziției, de exemplu <!-- TODO: Fallback translation -->
+La întrebările cu propoziții se întreagă întregul conținut al propoziției, de exemplu
 
 *   merge Rāma astăzi la Ofterdingen?
 *   este corect că ... ?
@@ -321,13 +321,13 @@ Exemple:
 Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3704))
 :::
-### 37.8.2. Întrebări de propoziție <!-- TODO: Fallback translation -->
+### 37.8.2. Întrebări de propoziție
 
 ::: grammar-box
 Uneori, este clar doar din context dacă o propoziție este o întrebare.
 :::
 ::: grammar-box
-Schema I: <!-- TODO: Fallback translation -->
+Schema I:
 
 Verb - restul propoziției
 :::
@@ -336,7 +336,7 @@ Exemplu:
 ⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Va merge băiatul brahman la un maestru?"
 :::
 ::: grammar-box
-Schema II: <!-- TODO: Fallback translation -->
+Schema II:
 
 Particulă de întrebare (de obicei la începutul propoziției) - propoziție
 
@@ -453,7 +453,7 @@ B) Traduceți:
 
 C) Traduceți următoarele ⟪अव्ययीभाव⟫ :
 
-1\. ⟪अति⟫ Postpoziție cu Acuzativul: "peste ..." <!-- TODO: Fallback translation -->
+1\. ⟪अति⟫ Postpoziție cu Acuzativul: "peste ..."
 
 ::: indent
 1.  ⟪अतिमात्रम्⟫
@@ -510,7 +510,7 @@ Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3711))
 :::
-8\. ⟪यथा⟫ <!-- TODO: Fallback translation -->
+8\. ⟪यथा⟫
 
 ::: indent
 1.  ⟪यथास्थानम्⟫
@@ -521,17 +521,3 @@ Traduceți în sanscrită folosind exclusiv forme verbale ale perfectului:
 
 Pe când un bătrân oarecare mergea într-un alt sat, se obosi pe drum. Atunci, ca să se odihnească, se duse la piciorul unui arbore de mango care stătea în parte. Pe acest arbore erau fructe coapte. Bătrânul pofti la aceste fructe. Dar nu se putea urca pe arbore și nu putea apuca fructele. Norocul a fost că pe acest arbore erau niște maimuțe care mâncau fructe. Când le zări, bătrânul se bucură. Ce făcu el? Luă câteva pietre, ținti spre maimuțe și aruncă. Maimuțele, mâniate, culeseră niște fructe și le aruncară asupra bătrânului. Bătrânul luă aceste fructe, bucuros, și se duse în regiunea dorită. Iată, soarta bătrânului!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Abb.: ⟪क्व⟫): [Sursa imaginii: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Accesat la 2008-12-30. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
-- **Image lekt3702.jpg** (Abb.: ⟪यथाशक्ति⟫): [Sursa imaginii: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Accesat la 2008-12-30. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
-- **Image lekt3703.jpg** (Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Sursa imaginii: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Accesat la 2008-12-30. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
-- **Image lekt3704.jpg** (Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Sursa imaginii: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Accesat la 2008-12-30. -- Licență Creative Commons (Atribuire)]
-- **Image lekt3705.jpg** (Abb.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Sursa imaginii: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Accesat la 2008-12-31. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
-- **Image lekt3706.jpg** (Abb.: ⟪वृक्षः⟫): Jaipur [Sursa imaginii: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Accesat la 2008-12-31. -- Licență Creative Commons (Atribuire, Nefinanciar, share alike)]
-- **Image lekt3707.jpg** (Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Pictură de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Sursa imaginii: Wikipedia. Domeniu public]
-- **Image lekt3708.jpg** (Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Sursa imaginii: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Accesat la 2008-12-31. -- Licență Creative Commons (Atribuire)]
-- **Image lekt3709.jpg** (Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Sursa imaginii: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Accesat la 2008-12-31. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
-- **Image lekt3710.jpg** (Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Sursa imaginii: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Accesat la 2008-12-31. -- Licență Creative Commons (Atribuire, Nefinanciar, share alike)]
-- **Image lekt3711.jpg** (Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Sursa imaginii: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Accesat la 2008-12-31. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
-:::

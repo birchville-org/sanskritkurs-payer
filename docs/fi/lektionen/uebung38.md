@@ -10,11 +10,11 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 38
 
-A) Sijoita seuraaviin lauseisiin sulkulausekkeessa olevien sanojen vastaavat muodot ja käännä: <!-- TODO: Fallback translation -->
+A) Sijoita seuraaviin lauseisiin sulkulausekkeessa olevien sanojen vastaavat muodot ja käännä:
 
 ::: grammar-box
 ⟪१⟫. ⟪राज्ञि⟫ (tai: ⟪राजनि⟫) **⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪राजन्⟫)
-Kun kuningas valvoo lakia ja tapaa, kansa on peloton. <!-- TODO: Fallback translation -->
+Kun kuningas valvoo lakia ja tapaa, kansa on peloton.
 
 ⟪२⟫. **⟪आसीद्राजपुत्रो⟫ ⟪गौतमो⟫ ⟪नाम⟫ ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूप्यमितबलः⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫** (⟪नामन्⟫)
 Kertomuksen mukaan oli kuninkaan poika — hänen nimensä oli Gautama — joka hoiti tehtävänsä hyvin, oli täynnä ymmärtämystä, kaunis ja rajattoman voimakas.
@@ -29,19 +29,19 @@ Mitkä ovat vaiśyoiden nimet?
 Mitkä nimet vaiśyat kantavat?
 
 ⟪६⟫. **⟪कर्मण्यकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫** (⟪कर्मन्⟫ — ⟪सप्तमी⟫ ⟪एकवचन⟫)
-"Joka näkee tekemättömyyden teossa ja tekemättömyyden tekemättömyydessä, hän on viisas ihmisten keskuudessa, hän on joogi" — niin Bhagavadgītā sanoo. <!-- TODO: Fallback translation -->
+"Joka näkee tekemättömyyden teossa ja tekemättömyyden tekemättömyydessä, hän on viisas ihmisten keskuudessa, hän on joogi" — niin Bhagavadgītā sanoo.
 
 ⟪७⟫. **⟪किं⟫ ⟪कर्म⟫ ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫** (⟪कर्मन्⟫)
-Myös runoilijat hämmentyvät tästä, mikä on tekoa ja mikä tekemättömyyttä. <!-- TODO: Fallback translation -->
+Myös runoilijat hämmentyvät tästä, mikä on tekoa ja mikä tekemättömyyttä.
 
 ⟪८⟫. **⟪ब्रह्मभूतः⟫ ⟪प्रसन्नात्मा⟫ ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (⟪प्रसन्नात्मन्⟫ — ⟪प्रथमा⟫ ⟪एकवचन⟫)
-Joka on tullut absoluuttiseksi ja jonka sielu on rauhoittunut, ei suruile eikä himoitse. <!-- TODO: Fallback translation -->
+Joka on tullut absoluuttiseksi ja jonka sielu on rauhoittunut, ei suruile eikä himoitse.
 
 ⟪९⟫. **⟪कर्मणः⟫ ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫** (⟪कर्मन्⟫ — ⟪षष्ठी⟫ ⟪एकवचन⟫)
-Sanotaan, että hyvin tehty teko tuo hyvän hedelmän. <!-- TODO: Fallback translation -->
+Sanotaan, että hyvin tehty teko tuo hyvän hedelmän.
 
 ⟪१०⟫. **⟪महीभोगो⟫ ⟪राज्ञां⟫ ⟪धर्मः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫** (⟪राजन्⟫ — ⟪षष्ठी⟫ ⟪बहुवचन⟫)
-Maailman nauttiminen on kuningasten velvollisuus. <!-- TODO: Fallback translation -->
+Maailman nauttiminen on kuningasten velvollisuus.
 
 ⟪११⟫. **⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫** (⟪बलिन्⟫, ⟪हस्तिन्⟫)
 Vahvat norsut tulee antaa kuninkaalle.
@@ -63,9 +63,9 @@ Jos kuninkaat eivät valvo lakia ja tapaa, ihmiset ovat täynnä pelkoa.
 Kuv.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung063))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Tarina: Kymmenet tyhmät (⟪दश⟫ ⟪मूढाः⟫) <!-- TODO: Fallback translation -->
+## Tarina: Kymmenet tyhmät (⟪दश⟫ ⟪मूढाः⟫)
 
 ⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ — ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ ⟪बाहुभ्यां⟫ ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
@@ -73,7 +73,7 @@ Kuv.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫
 
 
 **Käännös:**
-Kymmenet hullut. Hullujen tekemiset ovat yleensä viihdyttäviä. Esimerkiksi: Kerran kymmenen hullua lähtivät liikkeelle, vaeltamaan maassa ympäri. Kun he olleet kävellyt hieman matkan, syvä joki esti tien. Käsillä soutaen he ylittivät joen jotenkin ja pääsivät toiselle rannalle. <!-- TODO: Fallback translation -->
+Kymmenet hullut. Hullujen tekemiset ovat yleensä viihdyttäviä. Esimerkiksi: Kerran kymmenen hullua lähtivät liikkeelle, vaeltamaan maassa ympäri. Kun he olleet kävellyt hieman matkan, syvä joki esti tien. Käsillä soutaen he ylittivät joen jotenkin ja pääsivät toiselle rannalle.
 
-Heistä yksi oli vanha mies. Hän halusi tietää, olivatko kaikki päässeet rantaan, ja laski siksi jokaisen yksitellen. Mutta hän laski vain yhdeksän. Tällöin hän huudahti: "Hei! Me lähdimme kymmenen hengen voimin, nyt meitä on vain yhdeksän! Varmasti yksi on hukuttu jokeen! Etsikää hänet!" Tämän jälkeen jokainen heistä laski itsensä. Mutta joka kerta niitä oli vain yhdeksän! Tällöin he hermostuivat ja syntyi suuri melu. Ei kaukana sieltä oli Ṛṣin erakkoasema. Siellä asuva viisas tarkkaili heidän käytöstään ja nauroi ääneen. Hullut kuulivat hänen naurunsa, juoksivat häneen ja kysyivät syyn. Ṛṣi sanoi: "Haha! Te ette tunne itseänne. Jokainen heistä ei laskenut itseään mukaan. Siksi tämä sekaannus on syntynyt." Kun he kuulivat tämän, hullut lähtivät häpeissään ja pää laskettuna. <!-- TODO: Fallback translation -->
+Heistä yksi oli vanha mies. Hän halusi tietää, olivatko kaikki päässeet rantaan, ja laski siksi jokaisen yksitellen. Mutta hän laski vain yhdeksän. Tällöin hän huudahti: "Hei! Me lähdimme kymmenen hengen voimin, nyt meitä on vain yhdeksän! Varmasti yksi on hukuttu jokeen! Etsikää hänet!" Tämän jälkeen jokainen heistä laski itsensä. Mutta joka kerta niitä oli vain yhdeksän! Tällöin he hermostuivat ja syntyi suuri melu. Ei kaukana sieltä oli Ṛṣin erakkoasema. Siellä asuva viisas tarkkaili heidän käytöstään ja nauroi ääneen. Hullut kuulivat hänen naurunsa, juoksivat häneen ja kysyivät syyn. Ṛṣi sanoi: "Haha! Te ette tunne itseänne. Jokainen heistä ei laskenut itseään mukaan. Siksi tämä sekaannus on syntynyt." Kun he kuulivat tämän, hullut lähtivät häpeissään ja pää laskettuna.
 

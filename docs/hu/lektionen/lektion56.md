@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# 56. lecke <!-- TODO: Fallback translation -->
+# 56. lecke
 
-## 56.1. A reduplikált aoristus <!-- TODO: Fallback translation -->
+## 56.1. A reduplikált aoristus
 
 ::: grammar-box
 **Alakítás:**
@@ -22,7 +22,7 @@ status: stable
 
 **Végződő -ā (-e helyett) kiesik.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
 ⟪श्रि⟫ 1U „megindul valahová, támaszkodik”
 
@@ -33,18 +33,18 @@ Paradigma: <!-- TODO: Fallback translation -->
 | **2. ⟪द्वितीयः⟫** | ⟪अशिश्रियस्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियथास्⟫ | ⟪अशिश्रियध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अशिश्रियत्⟫ | ⟪अशिश्रियन्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियन्त⟫ |
 
-Ezt az aorist formát többek között így képezik: <!-- TODO: Fallback translation -->
+Ezt az aorist formát többek között így képezik:
 
 *   ⟪श्रि⟫ 1U „megindul valahová”
 *   ⟪द्रु⟫ 1P „fut”
 *   ⟪कम्⟫ 1Ā „szeret”: ⟪अचकमत⟫ / ⟪अचीकमत⟫ (lásd lent!)
 *   ⟪पत्⟫ 1P „esik”: ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = mélyfok a pat gyökéből)
-*   ⟪वच्⟫ 2P „mond”: ⟪अवोचत्⟫ (a-va + uc-a-t) <!-- TODO: Fallback translation -->
+*   ⟪वच्⟫ 2P „mond”: ⟪अवोचत्⟫ (a-va + uc-a-t)
 
 ::: grammar-box
 **A 10. jelen időosztály gyökei és minden kausatív mindig képeznek reduplikált aorisztust.**
 :::
-### 56.1.1. A kausatívok és a 10. jelen időosztály gyökeinek aorisztusa <!-- TODO: Fallback translation -->
+### 56.1.1. A kausatívok és a 10. jelen időosztály gyökeinek aorisztusa
 
 Tőhangzó:
 
@@ -57,21 +57,21 @@ Tőhangzó:
 ⟪पॄ⟫ 3P: Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫  
 ⟪द्रु⟫ 1P: Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫  
 :sig[⟪नी⟫] 1U: Kaus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
-⟪ज्ञा⟫ 9U: Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫ <!-- TODO: Fallback translation -->
+⟪ज्ञा⟫ 9U: Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
 
 *   **\-ī-, -e-, -ai- egyszerű mássalhangzó előtt -i-re cserélődik:**
-⟪चित्⟫ 1P: Kaus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫ <!-- TODO: Fallback translation -->
+⟪चित्⟫ 1P: Kaus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫
 
 *   **\-u-, -o-, -au- egyszerű mássalhangzó előtt -u-ra cserélődik:**
-⟪चुर्⟫ 10U: :sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫ <!-- TODO: Fallback translation -->
+⟪चुर्⟫ 10U: :sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫
 
-**Egyes gyököknél a fenti változások opcionálisak, vagy elmaradnak:** <!-- TODO: Fallback translation -->
+**Egyes gyököknél a fenti változások opcionálisak, vagy elmaradnak:**
 
 *   **az utolsó mássalhangzót megelőző, az ar, ār, īr, al helyettesítésére szolgáló ṛ, ṝ, ḷ magánhangzó a szó végén: változatlanul marad vagy ṛ, illetve ḷ helyett áll:**
 ⟪कॢप्⟫ 1Ā: Kaus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत्⟫  
 ⟪कृष्⟫ 1P/6U: Kaus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
 :::
-A replikációs szótag magánhangzója: <!-- TODO: Fallback translation -->
+A replikációs szótag magánhangzója:
 
 Miután a fenti szabályokat alkalmaztuk a szótaggyökérre, a következő szabályokat kell követni a replikációs szótag magánhangzójára:
 
@@ -86,19 +86,19 @@ Miután a fenti szabályokat alkalmaztuk a szótaggyökérre, a következő szab
 
 *   **i, u helyett ī, ū kerül, ha a gyökszótag csak egy mássalhangzóra végződik és metrikusan rövid:**
 ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत्⟫  
-⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫ <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫
 
 *   **a helyett ī kerül, ha a gyökszótag metrikusan rövid és csak egy mássalhangzóra végződik. Ha a gyökszótag metrikusan rövid és több mint egy mássalhangzóra végződik, a reduplikációs szótag a helyett i kerül. Ha a gyökszótag metrikusan hosszú, az a megmarad:**
 :sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, Aor. töve ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
 :sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, Aor. töve ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
 ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Aor. töve ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫  
-⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Aor. töve ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫ <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Aor. töve ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
 
-Különleges esetek egyes gyököknél Kielhorn, Grammatik § 435c ff. <!-- TODO: Fallback translation -->
+Különleges esetek egyes gyököknél Kielhorn, Grammatik § 435c ff.
 
 **A magánhangzóval kezdődő szótagok a következő szabályok szerint duplikálódnak:**
 
-*   **Ha az első magánhangzót csak egy mássalhangzó vagy olyan mássalhangzó-csoport követ, amelynek első tagja sem nasális, sem d, sem r nem, akkor a duplikált szótag így hangzik:** <!-- TODO: Fallback translation -->
+*   **Ha az első magánhangzót csak egy mássalhangzó vagy olyan mássalhangzó-csoport követ, amelynek első tagja sem nasális, sem d, sem r nem, akkor a duplikált szótag így hangzik:**
 
 Magánhangzó - az azt követő első mássalhangzó (vagyis a duplikáló szótagban előírt megfelelője) - **i** \- összes többi mássalhangzó
 
@@ -108,7 +108,7 @@ Magánhangzó - az azt követő első mássalhangzó (vagyis a duplikáló szót
 ⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, duplikált szótag ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
 ⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, duplikált szótag ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
 :::
-*   **Ha az első magánhangzót nasálissal, d-vel vagy r-rel kezdődő mássalhangzó-csoport követ, akkor a csoport második mássalhangzóját (vagy annak helyettesítőjét) az alábbi séma szerint i-vel illesztjük be:** <!-- TODO: Fallback translation -->
+*   **Ha az első magánhangzót nasálissal, d-vel vagy r-rel kezdődő mássalhangzó-csoport követ, akkor a csoport második mássalhangzóját (vagy annak helyettesítőjét) az alábbi séma szerint i-vel illesztjük be:**
 
 Magánhangzó – első mássalhangzó – második mássalhangzó (helyettesítő) - i - második mássalhangzó
 
@@ -135,12 +135,12 @@ Az alapvető munka szerint:
 ::: indent
 Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
 :::
-az injunktív a Védában a következő tulajdonságokkal rendelkezik: <!-- TODO: Fallback translation -->
+az injunktív a Védában a következő tulajdonságokkal rendelkezik:
 
 *   nem beszámolót fejez ki, hanem megemlítést
 *   időszintek nélküli (időtlenné)
 *   az injunktív aoristos a befejezett aspektust jelöli.
-*   der Injunktiv Aorist bezeichnet den vollendeten Aspekt. <!-- TODO: Fallback translation -->
+*   der Injunktiv Aorist bezeichnet den vollendeten Aspekt.
 
 ::: grammar-box
 **A késővédai szanszkritban az injunktív csak a tilalmi partikula ⟪मा⟫ (+ injunktív aoristos) vagy मा ⟪स्म⟫ (+ injunktív jelen idő vagy aoristos) társaságában fordul elő, az eltérő aspektus általában már nem érvényesül.**
@@ -152,7 +152,7 @@ az injunktív a Védában a következő tulajdonságokkal rendelkezik: <!-- TODO
 
 Ezt a különbséget azonban a klasszikus szanszkritban általában nem teszik meg.)
 :::
-## 56.3. A tiltó mondat <!-- TODO: Fallback translation -->
+## 56.3. A tiltó mondat
 
 ::: grammar-box
 **Fő forma:**
@@ -161,10 +161,10 @@ Ezt a különbséget azonban a klasszikus szanszkritban általában nem teszik m
 
 **⟪मा⟫ ⟪स्म⟫ + Injunktív aoristus vagy injunktív jelen idő**
 :::
-Példák: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪मा⟫ ⟪कर्महेतुर्भूः⟫ „Ne légy az, akit cselekedet gyümölcse motivál!” (Injunktív aoristus) (⟪भगवद्गीता⟫ 2,47c) <!-- TODO: Fallback translation -->
+⟪मा⟫ ⟪कर्महेतुर्भूः⟫ „Ne légy az, akit cselekedet gyümölcse motivál!” (Injunktív aoristus) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ „Ne légy erőtlen!” (Injunktív aoristus) (⟪भगवद्गीता⟫ 2,3a)
 :::
@@ -183,7 +183,7 @@ Mindkét példa tiltó értelmű. Az injunktív aoristust itt tehát eredeti jel
 **pl. ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫**
 
 *   ⟪अलम्⟫ vagy ⟪कृतम्⟫  = eszközhatározó eset (instrumentalis) tiltó mondatban
-pl. ⟪अलं⟫  ⟪विषादेन⟫ "Elég a reménytelenségből! = Hagyd abba, hogy kétségbe ess! = Tartsd fel a fejed!" <!-- TODO: Fallback translation -->
+pl. ⟪अलं⟫  ⟪विषादेन⟫ "Elég a reménytelenségből! = Hagyd abba, hogy kétségbe ess! = Tartsd fel a fejed!"
 
 *   ⟪न⟫ + gerundívum (szükségesség ragozott mellékneme)
 
@@ -198,12 +198,12 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 Kép: ⟪अलं⟫  ⟪विषादेन⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
+## 56.4. ⟪स्म⟫
 
 ::: grammar-box
 **⟪स्म⟫ kiemeli: „valóban, bizonyára, biztosan, éppen”**
 
-**Emellett a következő szerkezet rendkívül fontos:** <!-- TODO: Fallback translation -->
+**Emellett a következő szerkezet rendkívül fontos:**
 
 :::
 ::: indent
@@ -211,7 +211,7 @@ Kép: ⟪अलं⟫  ⟪विषादेन⟫
 
 pl. ⟪वसति⟫ ⟪स्म⟫ „élt egyszer valaki” (⟪स्म⟫ néha elhagyható).
 :::
-## 56.5. Gyakorlat <!-- TODO: Fallback translation -->
+## 56.5. Gyakorlat
 
 A) Határozza meg és fordítsa le a következő alakokat segédeszközök nélkül (!):
 
@@ -296,12 +296,3 @@ A) Határozza meg és fordítsa le a következő alakokat segédeszközök nélk
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** Német nyelvű fordítás: Összehasonlító nyelvtudomány professzora, Erlangen-Nürnbergi Egyetem (1955 - 1983) [Képmegjelenítés: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Hozzáférés: 2009-02-27]
-
-**lekt5602:** Poszter (Ernesto Che Guevara) egy politikai pártból Vallachira-ban (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "A feliratra írtak durva fordítása: A mártírhalál lenyűgöző élmény egy forradalmár számára. És ijesztő menedék egy gyáva embernek. Che nem mintakép a gyávák számára." [Képmegjelenítés: Hari\_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Hozzáférés: 2009-02-27. -- [Creative Commons Licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, share alike)]
-
-**lekt5603:** [Képmegjelenítés: Világbank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Hozzáférés: 2009-02-27. -- [Creative Commons Licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, nincs szerkesztés)]
-
-:::

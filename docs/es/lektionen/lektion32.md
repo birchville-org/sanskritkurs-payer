@@ -50,7 +50,7 @@ Ejemplos:
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | &lt;!-- TODO: Fallback translation --&gt;
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | &lt;!--  --&gt;
 
 :::
 ::: grammar-box
@@ -633,26 +633,5 @@ Explicaciones:
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Monos en árboles de mango.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3210))
-:::
-
-::: deleteme-box
-
-**lekt3202:** Árbol de mango, Kanpur. [Fuente de la imagen: AmarChandra / Wikipedia. CC BY-SA]
-
-**lekt3203:** Monos (macacos rhesus) en Delhi. [Fuente de la imagen: dewalt / Flickr. CC BY-NC-SA]
-
-**lekt3204:** Cantera de piedra al sur de Pune, Maharashtra. [Fuente de la imagen: lecercle / Flickr. CC BY-NC-SA]
-
-**lekt3205:** Práctica de tiro / blanco de flechas, Karnataka. [Fuente de la imagen: mattlogelin / Flickr. CC BY-NC]
-
-**lekt3207:** Quema de ladrillos de estiércol de vaca en Rajasthan. [Fuente de la imagen: thebigdurian / Flickr. CC BY-NC-SA]
-
-**lekt3206:** Pintura de mehndi en manos en Mumbai. [Fuente de la imagen: the_gman / Flickr. CC BY-NC-SA]
-
-**lekt3208:** Monje budista en Sri Lanka. [Fuente de la imagen: Trollderella / Wikipedia. GNU FDL]
-
-**lekt3209:** Saludo / despedida india. [Fuente de la imagen: dhyanji / Flickr. CC BY-NC-ND]
-
-**lekt3210:** Monos en árboles de mango. [Fuente de la imagen: Wikipedia. GNU FDL]
 :::
 

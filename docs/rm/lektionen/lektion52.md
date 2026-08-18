@@ -50,7 +50,7 @@ Declinaziun sco las radichas cun -vant resp. f. ⟪देवी⟫
 Exempels:
 
 ::: indent
-⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "in/ina, che ha fatg" <!-- TODO: Fallback translation -->
+⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "in/ina, che ha fatg"
 
 ⟪भिन्नवन्त्⟫ "in chel che ha spartì"
 :::
@@ -88,7 +88,7 @@ Abb.: ⟪अन्नमयम्⟫
 ⟪विवाहः⟫, Chennai = சென்னை
 (font da l'imagines: [detagls](/rm/licenses#lekt5202))
 :::
-### 52.2.3. ⟪तद्धित⟫-finiala -eya <!-- TODO: Fallback translation -->
+### 52.2.3. ⟪तद्धित⟫-finiala -eya
 
 ::: grammar-box
 **Il sufix ⟪तद्धित⟫ -eya / f.: -eyī appar, tranter auters, a feminas en il significà da**
@@ -172,7 +172,7 @@ Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
 Brada da stgallei, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt5209))
 :::
-### 52.4.2. Suffix -sāt <!-- TODO: Fallback translation -->
+### 52.4.2. Suffix -sāt
 
 ::: grammar-box
 **Per exprimer che ina persuna u chos daventa cumplettamain quai, u che inqualcun fa qualchidina u inqual auter cumplettamain quai, ch'è designà tras in num substantiv, po al num substantiv**
@@ -188,7 +188,7 @@ Brada da stgallei, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्र�
 
 **a ina cumpostaziun verbala.**
 :::
-Exempels: <!-- TODO: Fallback translation -->
+Exempels:
 
 ::: indent
 ⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫ "el daventa cumplainamain foc"
@@ -196,7 +196,7 @@ Exempels: <!-- TODO: Fallback translation -->
 ⟪भस्मसात्करोति⟫ "el transfigurescha cumplettamain en tschendra (⟪भस्मन्⟫ n. "tschendra"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person ni Sache** <!-- TODO: Fallback translation -->
+**Manchmal bedeutet das Suffix -sāt, dass eine Person ni Sache**
 
 *   **da quai ch'el dependescha u**
 *   **ch'il vegn en possessiun da quai**
@@ -244,7 +244,7 @@ Cun ils cumposts ditschs ⟪आम्रेडित⟫, nua ch'ins repeta parau
 
 Quai betg tractà qua vesair per ex. en Kielhorn, Grammatik §201ss.
 
-### 52.6.1. Kardinalzahlen <!-- TODO: Fallback translation -->
+### 52.6.1. Kardinalzahlen
 
 #### 52.6.1.1. Numerali adiectivs (per 1 fin a 19)
 
@@ -318,7 +318,7 @@ p.ex. ⟪गोविंशत्या⟫ "travess 20 vacas"
 
 Vedeir per exaimpel en Kielhorn, Grammatica §201s.
 
-### 52.6.3. Zahladverbien <!-- TODO: Fallback translation -->
+### 52.6.3. Zahladverbien
 
 a) "-mal":
 
@@ -329,7 +329,7 @@ trais giadas: ⟪त्रिस्⟫
 quatter giadas: ⟪चतुस्⟫
 quintgiadas e cun sufix ***\-:sig[⟪कृत्वस्⟫]***: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-fach": vegn exprimà cun il sufix ***\-:sig[⟪धा⟫]*** <!-- TODO: Fallback translation -->
+b) "-fach": vegn exprimà cun il sufix ***\-:sig[⟪धा⟫]***
 
 ::: indent
 simpl: ⟪एकधा⟫
@@ -347,7 +347,7 @@ c) "je ...", "a ...": vegn exprimà cun il sufix ***\-:sig[⟪शस्⟫]*** (
 
 ::: indent
 zweifältig, aus duas existent
-dreifältig, da trais parts existent <!-- TODO: Fallback translation -->
+dreifältig, da trais parts existent
 
 a partir da 4 vegn "-fältig" exprimaì dal suffix ***\-:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫])***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "quatterfältig"
 :::
@@ -367,7 +367,7 @@ Exempl:
 ![](/images/lekt5205.webp)
 Abb.: ⟪चतुर्मुखः⟫
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt5205))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -381,7 +381,7 @@ Perquai na dastga per exempel da ⟪उत्तरा⟫ ⟪वृक्षा�
 Abb.: ⟪सप्तर्षयः⟫
 La constellaziun da set stailas = ils set stailas pli clers da l'Ursa maior
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt5206))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -418,14 +418,14 @@ Jalakandapuram = ஜலகண்டபுரம்
 Exemples:
 
 ::: indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "l'aggregat da las trais munds, las trais munds sco unitad, il tri-mund (tschiel-terra-sutmund) <!-- TODO: Fallback translation -->
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "l'aggregat da las trais munds, las trais munds sco unitad, il tri-mund (tschiel-terra-sutmund)
 
 ⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "Dreiwelt"
 :::
 ::: grammar-box
 **Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Significaziun haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi)**
 :::
-Exempl: <!-- TODO: Fallback translation -->
+Exempl:
 
 ::: indent
 ⟪पञ्चगु⟫ 3: "per quatter vuschas gudagnà"
@@ -496,7 +496,7 @@ Abb.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: avidad, lüsternadad <!-- TODO: Fallback translation -->
+⟪लौल्य⟫ n.: avidad, lüsternadad
 
 ⟪वर्ग⟫ m.: sectiun, departiment, gruppa
 
@@ -545,7 +545,7 @@ Inf. ⟪वर्जितुम्⟫
 
 ⟪सूर्य⟫: m. Suna
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫: a inu (⟪द्वितीया⟫) servir, star al servetsch, onorar, amar <!-- TODO: Fallback translation -->
+⟪सेव्⟫ 1Ā ⟪सेवते⟫: a inu (⟪द्वितीया⟫) servir, star al servetsch, onorar, amar
 
 ::: indent
 Perf I ⟪सिषेवे⟫
@@ -599,7 +599,7 @@ Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (sursa d’imagines: [detagls](/rm/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: plantag da bananas (_Musa_ sp.) <!-- TODO: Fallback translation -->
+⟪कदली⟫ f.: plantag da bananas (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -607,7 +607,7 @@ Fig.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Fonte da imagem: [Detalhes](/rm/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: cor, miez, essenza, substanzia <!-- TODO: Fallback translation -->
+⟪सार⟫ m.n.: cor, miez, essenza, substanzia
 
 ⟪दिव्य⟫ 3: celestial, divin
 
@@ -615,7 +615,7 @@ Hampi = ಹಂಪೆ
 
 ⟪आदर्श⟫ m.: specch
 
-⟪मल⟫ m.n.: sursch, defect <!-- TODO: Fallback translation -->
+⟪मल⟫ m.n.: sursch, defect
 
 ::: media
 ![](/images/lekt5215.webp)
@@ -623,7 +623,7 @@ Abb.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (fonte da l'imagines: [Detagls](/rm/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: il tschiel d'Indra <!-- TODO: Fallback translation -->
+⟪त्रिपिष्टप⟫ n.: il tschiel d'Indra
 
 ⟪मार⟫ m.: il mal personifitgà, la seducziun/personificaziun manipulativa, diav
 
@@ -677,14 +677,14 @@ Explicaziun: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvand
 
 Explicaziun: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ davart ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ en la vita dal prinzi <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ davart ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ en la vita dal prinzi
 
 ⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*:sig[⟪मितरौ⟫]* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*:sig[⟪मूलौ⟫]* ⟪हि⟫ ⟪धर्मका⟫*:sig[⟪मावि⟫]*⟪ति⟫ ⟪।७।⟫
 
 ::: indent
 Explicaziuns:
 
-⟪इतरौ⟫ Nom.Akk.Dual.m a ⟪इतर⟫ 3 "auter" <!-- TODO: Fallback translation -->
+⟪इतरौ⟫ Nom.Akk.Dual.m a ⟪इतर⟫ 3 "auter"
 
 ⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ è Dualdvandva)
 :::
@@ -771,49 +771,14 @@ Mahābhārata : L'epos indian / trad. e resumà dal sanscrit da Biren Roy. -- 10
 9.  Finir da tractar:
 **Basham, A. L. (Arthur Llewellyn) (1914–1986)**Il miracel che era l'IndiaPart: Ina survista da la cultura dal subcontinents indian avant l'aventgiment dals musulmans. -- London : Sidgwick & Jackson, 1954.
 10.  Cumenzar cun tractar:
-**Winternitz, Moriz (1863–1937):** Istorgia da la litteratura indiana. Stuttgart : Koehler. -- 3 toms. -- 1908 - 1922 (anc adina la millura istorgia da litteratura dal sanscrit, pali e prakrit) <!-- TODO: Fallback translation -->
+**Winternitz, Moriz (1863–1937):** Istorgia da la litteratura indiana. Stuttgart : Koehler. -- 3 toms. -- 1908 - 1922 (anc adina la millura istorgia da litteratura dal sanscrit, pali e prakrit)
 
 ::: media
 ![](/images/lekt5201.webp)
 Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Imagina: Payer)
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt5201))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Fonta da l'imagines: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Access il 2009-01-15. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuziun, nagina utilizaziun cummerciala, nagina lavur da transformaziun)]
-
-**lekt5203:** Figira Wayang, Java, Indonesia [Fonta da l'imagines: Wikipedia. Dominium public]
-
-**lekt5204:** Coda avant il temple, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം [Fonta da l'imagines: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Access il 2009-01-15. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuziun, nagina utilizaziun cummerciala, share alike)]
-
-**lekt5209:** Brischada cun la fiamma, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Fonta da l'imagines: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Access il 2009-01-15. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuziun, nagina utilizaziun cummerciala, nagina lavur da transformaziun)]
-
-**lekt5205:** [Sursa da l’imagina: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt5206:** Il Septentrion = las setg stailas pli cleras da l’Ursa maior (Osa maiura) [Sursa da l’imagina: Wikipedia, Licenza GNU FDLicense]
-
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Sursa da l’imagina: Wikipedia. Public domain]
-
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Sursa da l’imagina: Dan Tunstall / Persunal dal World Resources Institute. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Access il 2009-01-16. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuziun)]
-
-**lekt5212:** Hyderabad = హైదరాబాద్ [sursaint d’imagina: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Access il 2009-01-16. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (attribuziun, nagina utilizaziun cummerciala, nagina lavur da modificaziun)]
-
-**lekt5213:** ⟪मुंबई⟫ [sursaint d’imagina: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Access il 2009-01-16. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (attribuziun, nagina lavur da modificaziun)]
-
-**lekt5214:** Konark = ⟪कोनार्क⟫ [sursaint d’imagina: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Access il 2009-01-16. --  [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (attribuziun, nagina utilizaziun cummerciala, nagina lavur da modificaziun)]
-
-**lekt5208:** Hampi = ಹಂಪೆ [sursaint d’imagina: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Access il 2009-01-15. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (attribuziun, nagina utilizaziun cummerciala, share alike)]
-
-**lekt5215:** ⟪मुंबई⟫ [sursaint dal dretg: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Access il 2009-01-16. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (attribuziun)]
-
-**lekt5217:** Amaravati = అమరావతి, 2. tschientaner suenter Crist. [sursaint dal dretg: Wikipedia. Licenza GNU FD]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810 [sursaint dal dretg: Wikipedia. Domin public]
-
-**lekt5201:** (imagina: Payer)
 
 :::
 

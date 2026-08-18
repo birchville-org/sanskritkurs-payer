@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 6
 
-A) Bilden Sie mit den in Klammern angegebenen Wurzeln durch Einsetzen Verbalsätze: <!-- TODO: Fallback translation -->
+A) Bilden Sie mit den in Klammern angegebenen Wurzeln durch Einsetzen Verbalsätze:
 
 brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
 
@@ -42,7 +42,7 @@ dhenur viśati. dhenur bhavati.
 
 ⟪धेनुर्विशति⟫ ⟪।⟫ ⟪धेनुर्भवति⟫ ⟪॥⟫
 
-B) Setzen Sie die in Übung A gebildeten Sätze in den Plural <!-- TODO: Fallback translation -->
+B) Setzen Sie die in Übung A gebildeten Sätze in den Plural
 
 brāhmaṇā yajanti / yajante / nṛtyanti / viśanti / manyante / yudhyante / nayanti / nayante / muhyanti.
 
@@ -60,9 +60,9 @@ dhenavo viśanti. dhenavo bhavanti.
 
 ⟪धेनवो⟫ ⟪विशन्ति⟫ ⟪।⟫ ⟪धेनवो⟫ ⟪भवन्ति⟫ ⟪॥⟫
 
-C) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+C) Übersetzen Sie ins Sanskrit:
 
-1\. Er verehrt mit einem Opfer. (Der Opferpriester für einen Opferherrn) <!-- TODO: Fallback translation -->
+1\. Er verehrt mit einem Opfer. (Der Opferpriester für einen Opferherrn)
 
 yajati.
 
@@ -86,19 +86,19 @@ rāmo nayati.
 
 ⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5\. Die Kṣatriyafrauen treten ein. <!-- TODO: Fallback translation -->
+5\. Die Kṣatriyafrauen treten ein.
 
 kṣatriyā viśanti.
 
 ⟪क्षत्रिया⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-6\. Der HERR lässt emanieren. <!-- TODO: Fallback translation -->
+6\. Der HERR lässt emanieren.
 
 īśvaraḥ sṛjati.
 
 ⟪ईश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
 
-7\. Der Kṣatriya verehrt mit einem Opfer. (als Opferherr) <!-- TODO: Fallback translation -->
+7\. Der Kṣatriya verehrt mit einem Opfer. (als Opferherr)
 
 kṣatriyo yajate.
 
@@ -134,7 +134,7 @@ kā nṛtyati?
 
 ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 
-13\. Die (erwähnte) Brahmanin tanzt. <!-- TODO: Fallback translation -->
+13\. Die (erwähnte) Brahmanin tanzt.
 
 sā brāhmaṇī nṛtyati.
 
@@ -147,9 +147,9 @@ Abb.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 :::
 ---
 
-## Wiederholungsübung Lektion 6 <!-- TODO: Fallback translation -->
+## Wiederholungsübung Lektion 6
 
-A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die sie nach folgenden Einsetzübungen bilden, antworten sind: <!-- TODO: Fallback translation -->
+A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die sie nach folgenden Einsetzübungen bilden, antworten sind:
 
 1\. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -239,7 +239,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Setzen Sie in den Plural: <!-- TODO: Fallback translation -->
+B) Setzen Sie in den Plural:
 
 1\. brāhmaṇo yajati.
 
@@ -371,7 +371,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Bilden Sie das Femininum zu: <!-- TODO: Fallback translation -->
+D) Bilden Sie das Femininum zu:
 
 1\. śūdro nayati.
 
@@ -419,7 +419,7 @@ E) Übersetzen Sie:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
+Annapūrṇā ist eine Gottheit.
 
 2\. śūdretarā.
 
@@ -443,7 +443,7 @@ Māgha ist ein Dichter.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin. <!-- TODO: Fallback translation -->
+Umā ist eine Göttin.
 
 6\. śrutirvedaḥ.
 
@@ -455,13 +455,13 @@ Der Veda ist Śruti.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein. <!-- TODO: Fallback translation -->
+Die Kuh tritt ein.
 
 8\. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister. <!-- TODO: Fallback translation -->
+Caitanya ist ein Meister.
 
 9\. devīndrāṇī.
 
@@ -473,15 +473,15 @@ Indrāṇī ist eine Göttin.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger. <!-- TODO: Fallback translation -->
+Der Meister ist ein Heiliger.
 
 11\. gururyajate.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-Der Meister opfert als Opferherr. <!-- TODO: Fallback translation -->
+Der Meister opfert als Opferherr.
 
-F) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+F) Übersetzen Sie ins Sanskrit:
 
 1\. Rāma opfert (als Opferherr).
 
@@ -489,13 +489,13 @@ rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā ist eine Göttin. <!-- TODO: Fallback translation -->
+2\. Durgā ist eine Göttin.
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī ist eine Göttin. <!-- TODO: Fallback translation -->
+3\. Mīnākṣī ist eine Göttin.
 
 devī mīnākṣī.
 
@@ -513,25 +513,25 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Wer ist der HERR? <!-- TODO: Fallback translation -->
+6\. Wer ist der HERR?
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7\. Indra ist der HERR. <!-- TODO: Fallback translation -->
+7\. Indra ist der HERR.
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Die Nutztiere treten ein. <!-- TODO: Fallback translation -->
+8\. Die Nutztiere treten ein.
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9\. Viṣṇu lässt emanieren = Viṣṇu erschafft. <!-- TODO: Fallback translation -->
+9\. Viṣṇu lässt emanieren = Viṣṇu erschafft.
 
 viṣṇuḥ sṛjati.
 
@@ -543,55 +543,55 @@ sādhavo dvijātayaḥ.
 
 ⟪साधवो⟫ ⟪द्विजातयः⟫ ⟪।⟫
 
-11\. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+11\. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten)
 
 sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ ⟪।⟫ ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-12\. Diese Göttin ist gut. <!-- TODO: Fallback translation -->
+12\. Diese Göttin ist gut.
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
 ⟪साध्व्यीयं⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्व्येषा⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्वी⟫ ⟪सा⟫ ⟪देवी⟫ ⟪।⟫
 
-13\. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+13\. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten)
 
 avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo dveṣo 'bhiniveśaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫ ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-14\. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+14\. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten)
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ / maitrī karuṇā muditopekṣā (ca) brahmavihārāḥ.
 
 ⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪।⟫
 
-15\. Diese Brahmanen opfern im Auftrag anderer. <!-- TODO: Fallback translation -->
+15\. Diese Brahmanen opfern im Auftrag anderer.
 
 ete / ime brāhmaṇā yajanti.
 
 ⟪एते⟫ / ⟪इमे⟫ ⟪ब्राह्मणा⟫ ⟪यजन्ति⟫ ⟪।⟫
 
-16\. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+16\. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten)
 
 dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣatriyā vaiśyāś ca.
 
 ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ⟪।⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-17\. Die Wissenschaften (für eine Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+17\. Die Wissenschaften (für eine Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten)
 
 ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ / ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪।⟫ ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-18 .Geht es Ihnen gut? <!-- TODO: Fallback translation -->
+18 .Geht es Ihnen gut?
 
 kiṃ kuśalam?
 
 ⟪किं⟫ ⟪कुशलम्⟫ ⟪।⟫
 
-19\. (Es geht mir) in jeder Hinsicht gut. <!-- TODO: Fallback translation -->
+19\. (Es geht mir) in jeder Hinsicht gut.
 
 sarvathā kuśalam.
 

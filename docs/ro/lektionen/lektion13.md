@@ -1,10 +1,11 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "Lecție 13"
+subtitle: "PPP pe -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 13
@@ -64,20 +65,24 @@ de ex.
 
 Atributele (adițiile) apar în proză în ordinea normală a cuvintelor, înainte de cuvântul pe care îl specifică. Atributele adjectivale se acordă în număr, caz și gen cu substantivul:
 
+::: grammar-box
+
+Atributele (înrudirile) apar în proză, în ordinea normală a cuvintelor, înainte de cuvântul pe care îl determină mai precis. Atributele adjectivale concordă cu substantivul în număr, caz și gen:
+
 Exemplu:
 
 :::
 ::: indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = „Un sfânt vede roada dorită (a faptelor sale).”
+⟪साधुरिष्टं फलं पश्यति⟫ = "Un sfânt vede roada dorită (a faptelor sale)."
 :::
 
-## 13.4. Formarea adjectivelor cu sufixele -mant și -vant (taddhita)
+## 13.4. Formarea adjectivelor în -mant și -vant (taddhita)
 
 ::: grammar-box
 
-Prin intermediul sufixelor taddhita -mant, respectiv -vant, se formează adjective posesive din substantive. Semnificația lor este: "care posedă ceea ce este indicat de substantivul de bază".
+Prin intermediul sufixelor taddhita -mant, respectiv -vant se formează adjectivale posesive de la substantive. Semnificația lor este: "care posedă ceea ce este indicat de substantivul de bază".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
+vant se atașează substantivele ale căror ultim sau penultim sunet este a, ā sau m, precum și substantivele care se termină într-o consoană oclusivă; la celelalte substantive se atașează de obicei -mant.
 
 Exemple:
 
@@ -88,29 +93,29 @@ Exemple:
 ⟪गुणवन्त्⟫ "care posedă calități bune / virtute"
 :::
 
-## 13.5. Declinarea tematică a substantivelor
+## 13.5. Gradarea tematică a substantivelelor
 
-Rădăcinile în -mant, respectiv -vant, fac parte din rădăcinile nominale cu declinare tematică.
+Temele în -mant, respectiv -vant fac parte dintre temele nominale cu gradare.
 
 ::: grammar-box
-La rădăcinile nominale cu declinare tematică, se face distincție între cazurile puternice și cele slabe. În cazurile puternice, sufixul formativ de temă — la substantivul derivat din rădăcină, componenta rădăcinică — prezintă gradul ridicat, respectiv gradul lung; în cazurile slabe, gradul scăzut.
+La temele nominale cu gradare se face distincție între cazurile puternice și cele slabe. În cazurile puternice, sufixul formativ de temă — la substantivele rădăcinale componenta rădicală — are gradul înalt, respectiv gradul lungit; în cazurile slabe este gradul scăzut.
 :::
 **Cazurile puternice sunt:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
-| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
+| **Pentru Masculine și Feminine** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAcuzativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAcuzativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVocativ:br⟪सम्बोधनप्रथमा⟫ |
+| **Pentru Neutre** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAcuzativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ |
 
-**Toate celelalte cazuri sunt slabe.** <!-- TODO: Fallback translation -->
+**Toate celelalte cazuri sunt slabe.**
 
 ::: grammar-box
 În compunere, un substantiv cu declinare tematică stă în prima parte, la forma de temă slabă (la substantivul cu trei rădăcini, la ceea ce se numește „temă medie”).
 :::
 
-## 13.6. Despre sandha cuvântului <!-- TODO: Fallback translation -->
+## 13.6. Despre sandha cuvântului
 
-Pentru înțelegerea formelor individuale ale declinării substantivelor pe -mant și -vant sunt necesare următoarele legi ale sandha cuvântului: <!-- TODO: Fallback translation -->
+Pentru înțelegerea formelor individuale ale declinării substantivelor pe -mant și -vant sunt necesare următoarele legi ale sandha cuvântului:
 
 ::: grammar-box
 1. Numărul de consoane finale ale unui cuvânt: Din două sau mai multe consoane, la care ar termina un cuvânt, rămâne doar prima consoană, celelalte dispar. Este permisă combinația -r- + consoană.
@@ -200,14 +205,14 @@ Fig.: ⟪महिषासुरः⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : urî, invidia
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : mânca, consuma
-- **anna** n. ⟪अन्न⟫ : mâncare (din PPP: *ad-na: ceea ce este mâncat) <!-- TODO: Fallback translation -->
+- **anna** n. ⟪अन्न⟫ : mâncare (din PPP: *ad-na: ceea ce este mâncat)
 
 ::: media
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1304))
 :::
-Formarea cuvintelor: <!-- TODO: Fallback translation -->
+Formarea cuvintelor:
 
 pad 4 Ā:
 
@@ -222,7 +227,7 @@ pad 4 Ā:
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1303))
 :::
-dviṣ 2 U: <!-- TODO: Fallback translation -->
+dviṣ 2 U:
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : ură
@@ -297,7 +302,7 @@ C) Formați o construcție PPP pentru propozițiile din exercițiul A).
 Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1302))
 :::
-D) Din ce combinații de sunete pot fi derivate următoarele forme Sandhi? Dați toate posibilitățile: <!-- TODO: Fallback translation -->
+D) Din ce combinații de sunete pot fi derivate următoarele forme Sandhi? Dați toate posibilitățile:
 
 1. -a înainte de vocală (în afară de a-)
 2. -ā-

@@ -8,9 +8,9 @@ last_reconstructed: 2026-05-15
 
 # Exercício 28
 
-A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen: <!-- TODO: Fallback translation -->
+A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 
-### ⟪१⟫. Mit hochstufiger Wurzel (Guṇa) <!-- TODO: Fallback translation -->
+### ⟪१⟫. Mit hochstufiger Wurzel (Guṇa)
 
 | Form | Kausativ |
 | :--- | :--- |
@@ -98,35 +98,35 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen: <!--
 | ⟪हन्⟫ | ⟪घातयति⟫ | erschlagen lassen, töten |
 | ⟪जि⟫ | ⟪जापयति⟫ | siegen lassen |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | beleben |
-B) Übersetzen Sie folgende Sätze und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird. <!-- TODO: Fallback translation -->
+B) Übersetzen Sie folgende Sätze und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
 Der Kṣatriya hat, um die Feinde zu besiegen, einen Brahmanen Hari und Hara mit einem Opfer verehren lassen und wird die Feinde bekämpfen.
-(Basis: **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
+(Basis: **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**)
 
 ⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫**
 Der Lehrer hat den Knaben den Veda gelehrt und ist dann nach Hause gegangen.
-(Basis: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
+(Basis: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
 
 ⟪३⟫. **⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫ ⟪॥३॥⟫**
 Im innersten Heiligtum wird das Bildnis der Göttin gezeigt.
-(Basis: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
+(Basis: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
 
 ⟪४⟫. **⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫**
 Der Opfernde gibt dem Feuer Speise zu essen und Trank zu trinken.
-(Basis: **⟪अग्निरन्नमत्ति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पिबति⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
+(Basis: **⟪अग्निरन्नमत्ति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पिबति⟫ ⟪।⟫**)
 
 ⟪५⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪॥५॥⟫**
 Sobald der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen. Der Brahmane lässt den Diener ins Haus kommen und fragt nach seinem Sohn.
-(Basis: **⟪दासो⟫ ⟪ब्राह्मणं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪दासो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
+(Basis: **⟪दासो⟫ ⟪ब्राह्मणं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪दासो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫**)
 
 ⟪६⟫. **⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫**
 Der lobsingende Mann bringt den Göttern die Lobeshymnen des grossen Dichters zu Gehör.
-(Basis: **⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪शृण्वन्ति⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
+(Basis: **⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪शृण्वन्ति⟫ ⟪।⟫**)
 
 ⟪७⟫. **⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫**
 Die edlen Krieger töten in der grossen Schlacht die Feinde.
-(Basis: **⟪अरयो⟫ ⟪म्रियन्ते⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
+(Basis: **⟪अरयो⟫ ⟪म्रियन्ते⟫ ⟪।⟫**)
 
 ⟪८⟫. **⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪॥८॥⟫**
 Die gute Kṣatriyā lässt einen Brahmanen ihre persönliche Gottheit verehren.
@@ -134,7 +134,7 @@ Die gute Kṣatriyā lässt einen Brahmanen ihre persönliche Gottheit verehren.
 
 ⟪९⟫. **⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫**
 Um Reichtümer zu erobern, wird der grosse Kṣatriya die tigergleichen Kämpfer Gelübde halten lassen.
-(Basis: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**) <!-- TODO: Fallback translation -->
+(Basis: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
 
 ⟪१०⟫. **⟪पापाद्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫**
 Um sie vom Übel zu befreien, lässt Buddha edle Menschen die edlen Wahrheiten erkennen.

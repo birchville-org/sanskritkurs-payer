@@ -58,7 +58,7 @@ Fig.: ⟪गायी⟫
 (Bildquelle: [Details](/it/licenses#uebung078))
 ::::
 :::
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 ## ⟪बाण⟫ (⟪७⟫. sec. d. C.): ⟪कादम्बरी⟫
 

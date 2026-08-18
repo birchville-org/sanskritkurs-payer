@@ -5,16 +5,16 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Luento 21
 
-## 21.1. Lisää -nt-päätteisiä preesensvartaloita <!-- TODO: Fallback translation -->
+## 21.1. Lisää -nt-päätteisiä preesensvartaloita
 
 ### 21.1.1. Preesenspartisiippi (⟪लडादेशः⟫) Parasmaipada
 
 ::: grammar-box
-Tämä partisiippi on substantivoitu muoto preesensvartalosta, eli aito partisiippi. Se on adjektiivi, joka osoittaa, että joku tai jotkin tekee juuri sitä, mitä verbijuurta (± prefiksi) ilmaisee, kun toinen asia tapahtuu. Myös pysyvä tila voidaan ilmaista sillä. <!-- TODO: Fallback translation -->
+Tämä partisiippi on substantivoitu muoto preesensvartalosta, eli aito partisiippi. Se on adjektiivi, joka osoittaa, että joku tai jotkin tekee juuri sitä, mitä verbijuurta (± prefiksi) ilmaisee, kun toinen asia tapahtuu. Myös pysyvä tila voidaan ilmaista sillä.
 
 **Esimerkit:**
 
@@ -23,7 +23,7 @@ Tämä partisiippi on substantivoitu muoto preesensvartalosta, eli aito partisii
 "Isä lukee, kun hän polttaa = lukija isä polttaa"  
 "oleva (= todellinen, aito) ystävä"
 :::
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
 | **Muodostus des Partizip Preesens Parasmaipada zu thematischen Preesensstämmen:** |||
 | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ Tämä partisiippi on substantivoitu muoto preesensvartalosta, eli aito partisii
 | | **schwacher Vartalo** | Preesensvartalo + **-t-** |
 | **feminiini** | | |
 | | | Preesensvartalo + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Preesensklasse** | Preesensvartalo + **-nt-** + **-ī** :broder::brPreesensvartalo + **-t-** + **-ī** | <!-- TODO: Fallback translation -->
+| | **6. Preesensklasse** | Preesensvartalo + **-nt-** + **-ī** :broder::brPreesensvartalo + **-t-** + **-ī** |
 
 :::
 Esimerkit:
@@ -54,7 +54,7 @@ Esimerkit:
 | **monikko** :br⟪बहुवचन⟫ | **1. nominatiivi** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
 | | **2. akkusatiivi** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
 | | **3. instrumentaali** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
-| | **6. genetiivi** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | | <!-- TODO: Fallback translation -->
+| | **6. genetiivi** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
 
 :::
 Huomaa sanan ⟪यजन्ति⟫ (nominatiivi, monikko, neutri) äänneasun yhtäläisyys 3. persoonan monikon kanssa!
@@ -68,7 +68,7 @@ Huomaa sanan ⟪यजन्ति⟫ (nominatiivi, monikko, neutri) äänneasun
 *   neutrin nominatiivin ja akkusatiivin yksikkö ⟪नृत्यत्⟫
 *   feminiinin nominatiivin yksikkö ⟪नृत्यन्ती⟫
 :::
-6\. Preesensluokka <!-- TODO: Fallback translation -->
+6\. Preesensluokka
 
 ::: indent
 ⟪विशन्त्⟫ "tuleva"
@@ -77,7 +77,7 @@ Huomaa sanan ⟪यजन्ति⟫ (nominatiivi, monikko, neutri) äänneasun
 *   neutri Nom. Akk. sg. ⟪विशत्⟫
 *   feminiini Nom. sg. ⟪विशन्ती⟫ ⟪।⟫ ⟪विशती⟫
 :::
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
 | **Muodostus des Partizip Preesens Parasmaipada zu athematischen Preesensstämmen (ausser 3. Preesensklasse):** |||
 | :--- | :--- | :--- |
@@ -85,7 +85,7 @@ Huomaa sanan ⟪यजन्ति⟫ (nominatiivi, monikko, neutri) äänneasun
 | | **starker Vartalo** | Preesensvartalo + **-ant-** |
 | | **schwacher Vartalo** | Preesensvartalo + **-at-** :br(Der Auslaut des schwachen Preesensvartaloes lautet gleich wie vor der 3. Plur. P.) |
 | **feminiini** | | |
-| | | Preesensvartalo + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | <!-- TODO: Fallback translation -->
+| | | Preesensvartalo + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 
 :::
 2\. preesensluokka:
@@ -104,7 +104,7 @@ Huomaa sanan ⟪यजन्ति⟫ (nominatiivi, monikko, neutri) äänneasun
 | **monikko** :br⟪बहुवचन⟫ | **1. nominatiivi** :br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
 | | **2. akkusatiivi** :br⟪द्वितीया⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सन्ति⟫ | |
 | | **3. instrumentaali** :br⟪तृतीया⟫ | ⟪सद्भिस्⟫ :braus s-at-bhis | ⟪सद्भिस्⟫ | |
-| | **6. genetiivi** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | | <!-- TODO: Fallback translation -->
+| | **6. genetiivi** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | |
 
 :::
 ::: indent
@@ -116,7 +116,7 @@ Kuv.: ⟪सती⟫-muistolaatta
 ⟪सती⟫-muistolaatta Jodhpurin palatsissa - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2101))
 :::
-5\. preesensluokka: <!-- TODO: Fallback translation -->
+5\. preesensluokka:
 
 ::: indent
 ⟪सु⟫ "puristaa": ⟪सुन्वन्त्⟫
@@ -125,7 +125,7 @@ Kuv.: ⟪सती⟫-muistolaatta
 *   neutrin nominatiivin ja akkusatiivin yksikkö ⟪सुन्वत्⟫
 *   feminiinin nominatiivin yksikkö ⟪सुन्वती⟫
 :::
-8\. preesensluokka <!-- TODO: Fallback translation -->
+8\. preesensluokka
 
 ::: indent
 ⟪कृ⟫ "tuntee": ⟪कुर्वन्त्⟫
@@ -134,7 +134,7 @@ Kuv.: ⟪सती⟫-muistolaatta
 *   neutrin nominatiivin ja akkusatiivin yksikkö ⟪कुर्वत्⟫
 *   feminiinin nominatiivin yksikkö ⟪कुर्वती⟫
 :::
-### 21.1.2. ⟪महान्त्⟫ "suuri" <!-- TODO: Fallback translation -->
+### 21.1.2. ⟪महान्त्⟫ "suuri"
 
 ::: no-header
 
@@ -144,7 +144,7 @@ Kuv.: ⟪सती⟫-muistolaatta
 | | **starker Vartalo** | ⟪महान्त्⟫ |
 | | **schwacher Vartalo** | ⟪महत्⟫ |
 | **feminiini** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
 
 :::
 ::: grammar-box
@@ -158,7 +158,7 @@ Kuv.: ⟪सती⟫-muistolaatta
 | **monikko** :br⟪बहुवचन⟫ | **1. nominatiivi** :br⟪प्रथमा⟫ | ⟪महान्तस्⟫ :brmahānt-as | ⟪महान्ति⟫ :brmahānt-i | |
 | | **2. akkusatiivi** :br⟪द्वितीया⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महान्ति⟫ | |
 | | **3. instrumentaali** :br⟪तृतीया⟫ | ⟪महद्भिस्⟫ :braus mahat-bhis | ⟪महद्भिस्⟫ | |
-| | **6. genetiivi** :br⟪षष्ठी⟫ | ⟪महताम्⟫ :brmahat-ām | ⟪महताम्⟫ | | <!-- TODO: Fallback translation -->
+| | **6. genetiivi** :br⟪षष्ठी⟫ | ⟪महताम्⟫ :brmahat-ām | ⟪महताम्⟫ | |
 
 :::
 ::: grammar-box
@@ -184,7 +184,7 @@ Kuv.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 ## 21.2. Sandhi loppunasaaleille
 
 ::: grammar-box
-**Lyhyen vokaalin jälkeen loppunasaalit – paitsi -m – tuplaantuvat, jos seuraava sana alkaa vokaalilla.** <!-- TODO: Fallback translation -->
+**Lyhyen vokaalin jälkeen loppunasaalit – paitsi -m – tuplaantuvat, jos seuraava sana alkaa vokaalilla.**
 
 **Esimerkki:**
 
@@ -195,14 +195,14 @@ Kuv.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 ## 21.3. Kohteliaat puhuttelumuodot
 
 ::: grammar-box
-**Sanskritissa voi puhutella ketään toisessa persoonassa yksikössä ilman, että se olisi epäkunnioittavaa. Jos haluaa olla kohtelias, voi käyttää substantiivia, jonka merkitys on "arvokas" tms., ja taivuttaa verbin kolmannessa persoonassa yksikössä tai monikossa, tai käyttää passiivilauseen rakennetta. Kohteliaisuuden tason kasvu puhuttelussa persoonan käytön suhteen on suunnilleen seuraava:** <!-- TODO: Fallback translation -->
+**Sanskritissa voi puhutella ketään toisessa persoonassa yksikössä ilman, että se olisi epäkunnioittavaa. Jos haluaa olla kohtelias, voi käyttää substantiivia, jonka merkitys on "arvokas" tms., ja taivuttaa verbin kolmannessa persoonassa yksikössä tai monikossa, tai käyttää passiivilauseen rakennetta. Kohteliaisuuden tason kasvu puhuttelussa persoonan käytön suhteen on suunnilleen seuraava:**
 
 :::
 ::: indent
 **2. sg. » 2. pl. » 3. sg. vastaavalla substantiivilla » 3. pl. vastaavalla substantiivilla**
 :::
 **Tärkein tällainen kohteliaisuussubstantiivi on ⟪भवन्त्⟫, fem.: ⟪भवती⟫. Se vastaa käytössään kohteliasta "teitä" (formal you).**
-Tämä ⟪भवन्त्⟫ on lyhenne sanasta ⟪भगवन्त्⟩, ja sen taivutus on -vant-päätteisten substantiivien taivutusta (katso [Lektion 13](lektion13.md)). Tämä ⟪भवन्त्⟫ on erottettava preesenspartisiipista P verbistä ⟪भू⟫ "tulla" ⟪भवन्त्⟫: nominatiivin yksikön maskuliinimuoto sanasta ⟪भवन्त्⟫ "te" on ⟪भवान्⟫, kun taas preesenspartisiipin ⟪भवन्⟫ nominatiivin yksikön maskuliinimuoto on muualla. <!-- TODO: Fallback translation -->
+Tämä ⟪भवन्त्⟫ on lyhenne sanasta ⟪भगवन्त्⟩, ja sen taivutus on -vant-päätteisten substantiivien taivutusta (katso [Lektion 13](lektion13.md)). Tämä ⟪भवन्त्⟫ on erottettava preesenspartisiipista P verbistä ⟪भू⟫ "tulla" ⟪भवन्त्⟫: nominatiivin yksikön maskuliinimuoto sanasta ⟪भवन्त्⟫ "te" on ⟪भवान्⟫, kun taas preesenspartisiipin ⟪भवन्⟫ nominatiivin yksikön maskuliinimuoto on muualla.
 
 **Esimerkit:**
 
@@ -223,17 +223,17 @@ Nainen:
 Sanoja, joita voidaan käyttää samalla tavalla kuin ⟪भवन्त्⟫:
 
 *   ⟪आर्य⟫ (n.: ⟪आर्या⟫) "Jalo". Esim. **⟪यदार्य⟫ ⟪इच्छति⟫** "Mitä haluatte"
-*   ⟪महाभाग⟫ "jonka osuus/onnellisuus on suuri = jalokansalainen". Naisten käyttämä usein puhuteltaessa tai puhuessaan hyvässä asemassa olevista miehistä. Erittäin yleinen nykysanskritissa puhekielessä. <!-- TODO: Fallback translation -->
+*   ⟪महाभाग⟫ "jonka osuus/onnellisuus on suuri = jalokansalainen". Naisten käyttämä usein puhuteltaessa tai puhuessaan hyvässä asemassa olevista miehistä. Erittäin yleinen nykysanskritissa puhekielessä.
 
-Jos halutaan ilmaista ei vain kohteliaisuutta vaan myös kunnioitusta jotakuta kohtaan, käytetään läsnä olevasta tai lähellä olevasta henkilöstä ⟪भवन्त्⟫ ⟪अत्रभवन्त्⟫ sijaan ja poissa olevasta tai kaukana olevasta ⟪तत्रभवन्त्⟫. ⟪अत्रभवन्त्⟫ ja ⟪तत्रभवन्त्⟫ voidaan kääntää "te", "arvoisa herra", "korkean arvon herra" jne.: <!-- TODO: Fallback translation -->
+Jos halutaan ilmaista ei vain kohteliaisuutta vaan myös kunnioitusta jotakuta kohtaan, käytetään läsnä olevasta tai lähellä olevasta henkilöstä ⟪भवन्त्⟫ ⟪अत्रभवन्त्⟫ sijaan ja poissa olevasta tai kaukana olevasta ⟪तत्रभवन्त्⟫. ⟪अत्रभवन्त्⟫ ja ⟪तत्रभवन्त्⟫ voidaan kääntää "te", "arvoisa herra", "korkean arvon herra" jne.:
 
 ::: indent
 **⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = "Onko armollinen (tässä läsnä oleva) vaimo puolisesi?"
 **⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (kirjeessä tai puhelussa) = "Voitko hyvin?"
 :::
-## 21.4. Sanalista <!-- TODO: Fallback translation -->
+## 21.4. Sanalista
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jakaa jollekulle (Ak.) jotakin, toimittaa, rakastaa jotakuta, kunnioittaa, palvella <!-- TODO: Fallback translation -->
+**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jakaa jollekulle (Ak.) jotakin, toimittaa, rakastaa jotakuta, kunnioittaa, palvella
 
 tästä:
 
@@ -248,7 +248,7 @@ tästä:
 Kuva: ⟪भगवान्कृष्णः⟫
 ⟪भगवान्कृष्णः⟫ ⟪जगन्नाथ⟫ (oikealla) puolisisarensa ⟪सुभद्रा⟫ (keskellä) ja vanhemman veljensä ⟪बलराम⟫ kanssa, Orissa = ଓଡ଼ିଶ⟪ा⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2103))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -259,13 +259,13 @@ Kuva: ⟪भगवान्कृष्णः⟫
 Kuv.: ⟪भगवद्गीता⟫
 ⟪भगवद्गीता⟫ - käsikirjoitus, 1800-luku
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2105))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (itse asiassa desideratiivi verbistä ⟪भज्⟫: toivoa, että osallistuu): anoa
 :::
-tästä: <!-- TODO: Fallback translation -->
+tästä:
 
 ::: indent
 **⟪भिक्षु⟫ m.:** kerjäläinen, munkki
@@ -281,11 +281,11 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 ::: indent
 **⟪दोष⟫ m.:** virhe
 :::
-**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (ei PPP:tä, sen sijaan ⟪पक्व⟫ 3: keitetty, haudutettu) Absol. ⟪पक्त्वा⟫ :** hauduttaa (transitiivinen) = keittää, paistaa, paahtaa jne. <!-- TODO: Fallback translation -->
+**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (ei PPP:tä, sen sijaan ⟪पक्व⟫ 3: keitetty, haudutettu) Absol. ⟪पक्त्वा⟫ :** hauduttaa (transitiivinen) = keittää, paistaa, paahtaa jne.
 
 ## 21.5. Harjoitus
 
-A) Käännä seuraavat samasat: <!-- TODO: Fallback translation -->
+A) Käännä seuraavat samasat:
 
 ⟪१⟫. ⟪अनादिकालिकसंसारः⟫
 
@@ -309,16 +309,3 @@ B) Käännä:
 
 ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-::: deleteme-box
-
-**lekt2101:** ⟪सती⟫-muistolaatta Jodhpurin palatsissa - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Kuvälähde: Flicka / Wikipedia. GNU FDLicense]
-
-**lekt2102:** "4.–6. vuosisadan CE sarponyksin sinetti, jossa Vishnu palvottavana. Kursiveerattu baktrianinkielinen kirjoitus kuuluu: "Mihira, Vishnu ja Shiva". [Kuvälähde: PHGCOM / Wikipedia. GNU FDLicense]
-
-**lekt2103:** ⟪भगवान्कृष्णः⟫ ⟪जगन्नाथ⟫-na (oikealla) puolisisarensa ⟪सुभद्रा⟫ (keskellä) ja vanemman veljensä ⟪बलराम⟫ kanssa, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Kuvälähde: Sujitkumar / Wikipedia. GNU FDLicense]
-
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Kuvälähde: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Haettu 12.12.2008. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
-
-**lekt2105:** ⟪भगवद्गीता⟫ - Manuscripti, 1800-luku [Kuvälähde: Wikipedia, Julkinen omaisuus]
-:::
- <!-- TODO: Fallback translation -->

@@ -34,7 +34,7 @@ status: stable
 **قاعده:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### ۳۹.۲.۱. کلاس فعل حال اول (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+### ۳۹.۲.۱. کلاس فعل حال اول (⟪भ्वादि⟫)
 
 ⟪भू⟫ ۱P
 
@@ -110,7 +110,7 @@ status: stable
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### ۳۹.۳.۱. ساخت ⟪अनिट्⟫ <!-- TODO: Fallback translation -->
+### ۳۹.۳.۱. ساخت ⟪अनिट्⟫
 
 ⟪दा⟫ 3U
 

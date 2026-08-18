@@ -1,8 +1,9 @@
 ---
 title: "Exercițiul 60"
 uebung_id: 60
-category: "Exercițiu"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

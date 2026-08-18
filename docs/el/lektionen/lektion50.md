@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα 50
 
@@ -290,24 +290,5 @@ Ganeshpuri, 80 χλμ. από το Μουμπάι (⟪मुंबई⟫)
 
 Εξηγήσεις:
 ⟪निषेकादीनि⟫ : Ονομαστική/Αιτιατική πληθυντικού ουδετέρου
-:::
-::: deleteme-box
-
-**lekt5007:** Απεικ.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Όρος Έβρεστ [Πηγή εικόνας: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Πρόσβαση στις 12-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά συγγραφέα)]
-
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Πηγή εικόνας: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Πρόσβαση στις 12-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά συγγραφέα, μη εμπορική χρήση, απαγόρευση επεξεργασίας)]
-
-**lekt5001:** Kapil Sibal (1948 -), υπουργός Ένωσης στο Υπουργείο Επιστημών και Τεχνολογίας και στο Υπουργείο Επιστήμων Γης (από το 2006) [Πηγή εικόνας: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Πρόσβαση στις 12-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Αναφορά συγγραφέα, κοινόχρηστο)]
-
-**lekt5002:** Άφιξη του μουσώνα, Μπανγκαλόρ ಬೆಂಗಳೂರು [Πηγή εικόνας: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Πρόσβαση στις 12-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγές)]
-
-**lekt5005:** [Πηγή εικόνας: sunder_iyer. -- [http://www.flickr.com/photos/sunder_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Πρόσβαση στις 12-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Αναφορά δημιουργού, ομοίως άδεια)]
-
-**lekt5003:** [Πηγή εικόνας: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Πρόσβαση στις 12-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγές)]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Πηγή εικόνας: Kounosu / Wikipedia. Άδεια GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5008:** Ganeshpuri, 80 χλμ από το Μουμπάι (⟪मुंबई⟫) [πηγή εικόνας: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, κοινόχρηστο)]
-
 :::
 

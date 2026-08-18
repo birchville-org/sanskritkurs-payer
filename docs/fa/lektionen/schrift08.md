@@ -6,7 +6,7 @@
 
 ![](/images/schrift016.jpg)
 
-### Konsonantenligaturen <!-- TODO: Fallback translation -->
+### Konsonantenligaturen
 
 اگر در یک کلمه یا جمله دو یا چند هم‌صدا بلافاصله پشت سر هم بیایند، آن‌ها با لیگاتو (نشانۀ پیوسته) نوشته می‌شوند.
 
@@ -60,7 +60,7 @@ Beispiele:
 
 ⟪स्⟫ s: ⟪स्क⟫ ska, ⟪स्ख⟫ skha, ⟪स्त⟫ sta, ⟪स्त्य⟫ stya, ⟪स्त्र⟫ stra, ⟪स्त्व⟫ stva, ⟪स्थ⟫ stha, ⟪स्न⟫ sna, ⟪स्प⟫ spa, ⟪स्र⟫ sra
 
-Beachten Sie die Schreibung von jña: <!-- TODO: Fallback translation -->
+Beachten Sie die Schreibung von jña:
 
 ![](/images/schrift017.webp)
 
@@ -76,7 +76,7 @@ z.B.
 
 الف) تمام حروف ترکیبی (لیگاتورهای) موجود در فهرست بالا را بنویسید
 
-B) Schreiben und übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Schreiben und übersetzen Sie:
 
 1\. devo viṣṇuḥ.
 

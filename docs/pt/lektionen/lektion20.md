@@ -174,7 +174,7 @@ Fig.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Camboja, séc. IX d.C.
 (Fonte da imagem: [Detalhes](/licenses#lekt2001))
 :::
-## 20.5. Bahuvrīhi com um primeiro membro adverbial <!-- TODO: Fallback translation -->
+## 20.5. Bahuvrīhi com um primeiro membro adverbial
 
 No primeiro membro encontra-se um advérbio, uma preposição, um preverbo ou outro indeclinável; tais compostos são geralmente ⟪नित्यसमास⟫.
 
@@ -470,7 +470,7 @@ Um Kṣatriya que não segura o bastão na mão não protege o povo.
 
 Kālidāsa e os outros poetas são os mestres de sânscrito.
 
-Um Kṣatriya obtém seu sustento por meio de armas. <!-- TODO: Fallback translation -->
+Um Kṣatriya obtém seu sustento por meio de armas.
 
 Também as mulheres Śūdra têm como dharma a não-violência, a verdade, a pureza, a ausência de queixas, a ausência de malícia e a longanimidade.
 
@@ -564,27 +564,5 @@ Outro ⟪सुभाषितम्⟫ :
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
 Explicação: ⟪इच्छताम्⟫ = gen. pl. part. pres. P de ⟪इष्⟫ : dos que desejam
-:::
-::: deleteme-box
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Camboja, séc. IX d.C. [Fonte da imagem: Wikipedia, Domínio público]
-
-**lekt2002:** [Fonte da imagem: Contribuições para a Ciência da Literatura e História Intelectual da Índia. -- Bonn, 1926]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Fonte da imagem: Wikipédia, Domínio público]
-
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [Fonte da imagem: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Acessado em 2008-12-11. -- Licença Creative Commons (Atribuição, Uso não comercial, Sem modificações)]
-
-**lekt2005:** Jesus e os outros deuses, Ahmedabad [Fonte da imagem: de ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Acessado em 2008-12-11. -- Licença Creative Commons (Atribuição, Uso não comercial, Sem modificações)]
-
-**lekt2006:** Madhya Pradesh [Fonte da imagem: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Acessado em 2008-12-11. -- Licença Creative Commons (Atribuição, Uso não comercial, Sem modificações)]
-
-**lekt2007:** Chennai = சென்னை [Fonte da imagem: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Acessado em 2008-12-11. -- Licença Creative Commons (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Fonte da imagem: de ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Acessado em 2008-12-11. -- Licença Creative Commons (Atribuição)]
-
-**lekt2009:** Karnataka [Fonte da imagem: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Acessado em 2008-12-11. -- Licença Creative Commons (Atribuição, Uso Não-Comercial)]
-
-**lekt2010:** Buda como asceta antes de sua visão libertadora, Gandhara, séc. II/III. [Fonte da imagem: Wikipedia, GNU FDLicense]
 :::
 

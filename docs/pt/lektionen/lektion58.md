@@ -31,7 +31,7 @@ Antes de -vas e -vahe, a vogal temática -a- é substituída por -ā-.
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
 ### 58.2.2. Quarta classe do presente (⟪दिवादिगणः⟫)
 
@@ -49,7 +49,7 @@ Fig.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5802))
 :::
-### 58.2.3. Sexta classe do presente (⟪तुदादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.2.3. Sexta classe do presente (⟪तुदादिगणः⟫)
 
 ⟪तुद्⟫ 6U "empurrar, golpear"
 
@@ -275,7 +275,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5801))
 :::
-## 58.6. Aoristo 5: Aoristo em iṣ <!-- TODO: Fallback translation -->
+## 58.6. Aoristo 5: Aoristo em iṣ
 
 ::: grammar-box
 **O aoristo em iṣ é formado a partir de todas as raízes seṭ para as quais não é ensinada, expressa e exclusivamente, outra forma do aoristo.**
@@ -446,16 +446,3 @@ B) Traduza e analise as seguintes formas:
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [Fonte da imagem: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Acedido em 2009-03-02. -- [Licença Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuição)]
-
-**lekt5803:** Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [Fonte da imagem: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). --  Acedido em 2009-03-02. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [Fonte da imagem: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Acedido em 2009-03-02. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não-Comercial, Proibido Obras Derivadas)]
-
-:::

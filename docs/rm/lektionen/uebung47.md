@@ -30,7 +30,7 @@ Calmai, noble signur!
 Binegnì, signura!
 
 ⟪७⟫. **⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Noble signur, per plaschair ordenei quai ch'i jau duess far. <!-- TODO: Fallback translation -->
+Noble signur, per plaschair ordenei quai ch'i jau duess far.
 
 ⟪८⟫. **⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 Arma per la battaglia, alura n'accumpogna nagin malfurtena.
@@ -54,7 +54,7 @@ B) Traduscha en il sanscript sut utilizaziun dal imperativ:
 Jau vegn ad esser conservà.
 
 ⟪२⟫. **⟪तुष्यतु⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-El duai esser cuntent. <!-- TODO: Fallback translation -->
+El duai esser cuntent.
 
 ⟪३⟫. **⟪ह्वयाम⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Nus vulin clamar.
@@ -157,4 +157,3 @@ Che quai duai esser benedicziun! (Vulida da benedicziun)
 Abb.: ⟪माद्यत⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung075))
 :::
- <!-- TODO: Fallback translation -->

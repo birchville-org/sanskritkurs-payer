@@ -220,15 +220,3 @@ davon:
 :::
 解释：⟪पुमान्⟫ 单数主格，对应⟪पुंस्⟫“男人”；⟪लोके⟫ 单数方位格，对应⟪लोक⟫ 阳性：在……
 
-::: deleteme-box
-
-**lekt1809:** ⟪कामसूत्र⟫ 插图 [图片来源：维基百科，公共领域]
-
-**lekt1901:** Badami (ಬದಾಮಿ) [图片来源：Sudarshan Bhat Khandige / 维基百科，公共领域]
-
-**lekt1902:** 果阿（⟪गोंय⟫）[图片来源：pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- 访问日期：2008-12-08. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
-
-**lekt1903:** ⟪१९५९⟫ [图片来源：维基百科，公共领域]
-
-**lekt1904:** “Onappottan”（ഓണപ്പൊട്ടന്⟪‍⟫）身着传统服饰，是喀拉拉邦南部地区的一种习俗。Onappottan 在 Onam 节日期间走访各家并赐予祝福。近来，Onappottan 已变得罕见，仅限于乡村地区。[图片来源：Captain Nidish。-- http://www.flickr.com/photos/captain_nidish/280389572/。-- 访问日期：2008-12-08。-- 知识共享许可协议（署名）]
-:::

@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # درس ۵0
 
@@ -290,24 +290,5 @@ PPP ⟪रिष्ट⟫
 
 توضیحات:
 ⟪निषेकादीनि⟫ : مفرد/مفعولی جمع مذکر/مونث
-:::
-::: deleteme-box
-
-**lekt5007:** تصویر: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = کوه اورست [منبع تصویر: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کامن کرس](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب)]
-
-**lekt5006:** لیسو = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [منبع تصویر: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کامن کرس](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب، استفاده غیرتجاری، بدون تغییر)]
-
-**lekt5001:** کاپیل سیبال (۱۹۴۸ -)، وزیر اتحاد در وزارت علوم و فناوری و وزارت علوم زمین‌شناسی (از ۲۰۰۶) [منبع تصویر: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کامن کرس](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (نسب، اشتراک یکسان)]
-
-**lekt5002:** فرا رسیدن مونسون، بنگالورو ಬೆಂಗಳೂರು [منبع تصویر: وندن دسی. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
-
-**lekt5005:** [منبع تصویر: ساندر ایئر. -- [http://www.flickr.com/photos/sunder_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (نسب‌دهی، اشتراک یکسان)]
-
-**lekt5003:** [منبع تصویر: دیانجی. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- دسترسی در ۲۰۰۹-۰۱-۱۲. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
-
-**lekt5004:** ⟪धारावी⟫، ⟪मुंबई⟫ [منبع تصویر: کونوسو / ویکی‌پدیا. مجوز GNU FDLicense]
-
-**lekt5008:** گنشیپوری، ۸۰ کیلومتر دور از بمبئی (⟪मुंबई⟫) [منبع تصویر: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- دسترسی در ۲۰۰۹-۰۱-۱۳. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
-
 :::
 

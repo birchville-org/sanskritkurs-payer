@@ -42,9 +42,12 @@ def get_top_unfinished_language(skip_langs=None):
     all_rows.sort(key=lambda r: (r["pct"], -r["queue_len"]), reverse=True)
     return all_rows[0]["code"]
 
-def get_next_queued_language(active_code=None):
+def get_next_queued_language(active_code=None, skipped_langs=None):
     """Returns the language code of the next language queued after active_code."""
-    return get_top_unfinished_language(skip_langs=[active_code] if active_code else [])
+    skip = skipped_langs or []
+    if active_code and active_code not in skip:
+        skip.append(active_code)
+    return get_top_unfinished_language(skip_langs=skip)
 
 def load_report_cache():
     if CACHE_FILE.exists():
@@ -269,7 +272,7 @@ def generate_report():
             todo_queue = get_translation_queue(code)
             queue_len = len(todo_queue)
             sauber = max(0, TOTAL_MASTER - queue_len)
-            fallbacks = len([item for item in todo_queue if "DE-" in item[1] or "Fallback" in item[1]])
+            fallbacks = len([item for item in todo_queue if item[1] not in ["Fehlt (neu)", "Veraltet"]])
             pct = round((sauber / TOTAL_MASTER) * 100.0, 1) if queue_len > 0 else 100.0
 
         # Calculate Delta against previous report cache
@@ -386,7 +389,16 @@ def generate_report():
     lines.append("| :--- | :--- | :---: | :---: | :--- | :---: | :---: | :--- |")
     
     active_code = active_proc["lang"] if active_proc else None
-    next_lang_code = get_next_queued_language(active_code)
+    
+    skipped_langs = []
+    skipped_file = Path("/tmp/payer_skipped_langs.txt")
+    if skipped_file.exists():
+        try:
+            skipped_langs = skipped_file.read_text(encoding="utf-8").strip().split()
+        except Exception:
+            pass
+
+    next_lang_code = get_next_queued_language(active_code, skipped_langs)
 
     for idx, r in enumerate(display_rows):
         q = r["todo_queue"]
@@ -407,6 +419,9 @@ def generate_report():
             offen_str = f"{len(q)} ({', '.join([item[0] for item in q])})" if len(q) <= 3 and q else f"{len(q)} Dateien"
         elif r["code"] == next_lang_code:
             status = "🔄 Nächste Sprache"
+            offen_str = f"{len(q)} ({', '.join([item[0] for item in q])})" if len(q) <= 3 and q else f"{len(q)} Dateien"
+        elif r["code"] in skipped_langs:
+            status = "🚧 Maschinelles Limit"
             offen_str = f"{len(q)} ({', '.join([item[0] for item in q])})" if len(q) <= 3 and q else f"{len(q)} Dateien"
         else:
             status = "⌛ In Warteschlange"

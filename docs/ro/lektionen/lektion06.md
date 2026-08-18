@@ -5,19 +5,10 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 6
 
-::: deleteme-box
-**În această lecție veți învăța:**
-- Structura propoziției verbale (agent și formă verbală)
-- Formarea formelor verbale (Parasmaipada, Ātmanepada, Pasiv)
-- Modurile și timpii verbului
-- Indicativul prezent (laṭ) și terminațiile primare ale celei de-a 3-a persoane
-- Formarea temei de prezent (clasele 1, 4 și 6)
-- Gradarea vocalică (Ablaut: Guṇa și Vṛddhi)
-:::
 ## 6.1. Propoziția verbală
 
 ::: grammar-box
@@ -27,7 +18,7 @@ status: stable
 **Schema II: Agent (kartṛ m. = ⟪कर्तृ⟫) – Formă verbală**
 - ex. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma onorează cu un jertfă", "Rāma jertfește"
 :::
-Când agentul (**kartṛ** m. = ⟪कर्तृ⟫) este menționat într-o propoziție verbală care nu este la pasiv, atunci agentul este în **nominativ** (cazul întâi, prathamā = ⟪प्रथमा⟫). În număr (vacana n. = ⟪वचन⟫), agentul și forma verbală se potrivesc. <!-- TODO: Fallback translation -->
+Când agentul (**kartṛ** m. = ⟪कर्तृ⟫) este menționat într-o propoziție verbală care nu este la pasiv, atunci agentul este în **nominativ** (cazul întâi, prathamā = ⟪प्रथमा⟫). În număr (vacana n. = ⟪वचन⟫), agentul și forma verbală se potrivesc.
 
 ## 6.2. Despre formarea formelor verbale
 
@@ -75,7 +66,7 @@ Exemple:
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "el (ea, el) apare" |
 | **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "el (ea, el) dansează" |
 
-## 6.4. Terminationsle de persoana a treia (prathama m. = ⟪प्रथम⟫ = "prima (!) persoană") <!-- TODO: Fallback translation -->
+## 6.4. Terminationsle de persoana a treia (prathama m. = ⟪प्रथम⟫ = "prima (!) persoană")
 
 ::: grammar-box
 | | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |

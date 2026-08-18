@@ -9,14 +9,6 @@ status: stable
 
 # Les 12
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Das Partizip Perfekt Passiv (PPP)
-- Die Bedeutung des PPP
-- Die Bildung des PPP
-- Gesetze der Lautverbindung im Wort
-- Passiv und PPP der bisher gelernten Wurzeln
-:::
 
 ## 12.1. Partizip Perfekt Passiv (PPP)
 
@@ -244,6 +236,4 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 **B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
 
 **C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.**
-
-
 

@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 # Devanāgarī = ⟪देवनागरी⟫
 
 ## Schriftübung 5

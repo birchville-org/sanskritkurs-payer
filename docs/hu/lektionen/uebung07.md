@@ -94,7 +94,7 @@ devī kupyati. devī krudhyati.
 
 ⟪देवी⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪देवी⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-C) Írja át a B) gyakorlat mondatait többes számra, az agenssel, tárggyal és igével együtt. <!-- TODO: Fallback translation -->
+C) Írja át a B) gyakorlat mondatait többes számra, az agenssel, tárggyal és igével együtt.
 
 1\. sādhavaḥ svargān āpnuvanti. sādhavaḥ svargān gacchanti. sādhavaḥ svargān aśnuvate.
 
@@ -146,7 +146,7 @@ yajate.
 
 ⟪यजते⟫ ⟪।⟫
 
-E) Alakítsa ki az eddig tanult főnevek mind akkuzatívusát (dvitīyā) egyes és többes számban. <!-- TODO: Fallback translation -->
+E) Alakítsa ki az eddig tanult főnevek mind akkuzatívusát (dvitīyā) egyes és többes számban.
 
 
 F) Fordítsa le:
@@ -161,7 +161,7 @@ A mennybe és a pokolba mennek.
 
 ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 
-De a mestereket hallgatják. <!-- TODO: Fallback translation -->
+De a mestereket hallgatják.
 
 3\. A śūdrák mennyet érnek el.
 
@@ -187,7 +187,7 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (A Kauṭilīya-arthaṣāstra 1.3.3. alapján.) Magyarázat: chando = Nominativus, Akkusztívusz egyes szám semleges nemű a chandas n.) <!-- TODO: Fallback translation -->
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (A Kauṭilīya-arthaṣāstra 1.3.3. alapján.) Magyarázat: chando = Nominativus, Akkusztívusz egyes szám semleges nemű a chandas n.)
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
@@ -199,13 +199,13 @@ ayaṃ brāhmaṇaḥ kaṃ devaṃ yajati / yajate?
 
 ⟪अयं⟫ ⟪ब्राह्मणः⟫ ⟪कं⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
-9\. Mit rág ez a szent ember? <!-- TODO: Fallback translation -->
+9\. Mit rág ez a szent ember?
 
 ayaṃ sādhuḥ kiṃ khādati?
 
 ⟪अयं⟫ ⟪साधुः⟫ ⟪किं⟫ ⟪खाद⟫ati ⟪।⟫
 
-10\. Mit préselnek ezek (ide)? <!-- TODO: Fallback translation -->
+10\. Mit préselnek ezek (ide)?
 
 ete kiṃ sunvanti / sunvate?
 
@@ -221,5 +221,5 @@ sa guruḥ. enaṃ śṛṇvanti.
 ![](/images/uebung006.jpg)
 Kép: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (Képmegjelölés: [Részletek](/licenses#uebung006))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

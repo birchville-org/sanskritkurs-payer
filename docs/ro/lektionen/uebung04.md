@@ -53,7 +53,7 @@ B) Formați întrebări conform modelului etat kim (⟪एतत्किम्�
 Fig.: ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫ ⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#lekt0401))
 :::
-eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ. <!-- TODO: Fallback translation -->
+eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
 
 ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫
 
@@ -93,5 +93,5 @@ etat kim? eṣā pipīlikā.
 ![](/images/uebung003.webp)
 Fig.: ⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung003))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

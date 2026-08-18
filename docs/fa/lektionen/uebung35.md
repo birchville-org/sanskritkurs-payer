@@ -71,7 +71,7 @@ B) Übersetzen Sie:
 
 ---
 
-## Syntaktische Variation (Perfekt zu Imperfekt) <!-- TODO: Fallback translation -->
+## Syntaktische Variation (Perfekt zu Imperfekt)
 
 C) جملات تمرین B) را با جایگزینی افعال ماضی کامل (Perfekta) با افعال ماضی ناکامل (Imperfekta) تبدیل کنید:
 

@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecziun 27
 
@@ -32,7 +32,7 @@ status: stable
 Imag.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt2701))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -63,7 +63,7 @@ Jaipur, 1875.
 Fig.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rajasthan.
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt2702))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -78,7 +78,7 @@ Rajasthan.
 Fig.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
 (Fontana da l'imagia: [Detagls](/rm/licenses#lekt2703))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -221,7 +221,7 @@ Vastrāṇi. Majuli, Assam.
 **⟪वस्⟫** 6P (⟪उच्छति⟫): splenderar (questa radischa è impurtanta perquai che las furmas nominalas:)
 
 ::: indent
-**⟪वसु⟫** n.: ricchëzza, tesaur, avair, pussess <!-- TODO: Fallback translation -->
+**⟪वसु⟫** n.: ricchëzza, tesaur, avair, pussess
 
 **⟪वसन्त⟫** m.: ("luminus" =) primavaira (marsch fin mai)
 :::
@@ -231,7 +231,7 @@ Abb.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt2707))
 :::
-**⟪हृ⟫** 1U (⟪हरति⟫): mantegnair, purtar; gidar, allonzar, raubar <!-- TODO: Fallback translation -->
+**⟪हृ⟫** 1U (⟪हरति⟫): mantegnair, purtar; gidar, allonzar, raubar
 
 ::: indent
 **Futur:** ⟪हरिष्यति⟫
@@ -269,7 +269,7 @@ Harihara (a sanestra: Viṣṇu, a dextra: Śiva). Godrumdwip, Bengala occidenta
 
 ⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫ (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
 
-**B) Tradurretzis e resvulvischa las cumponids:** <!-- TODO: Fallback translation -->
+**B) Tradurretzis e resvulvischa las cumponids:**
 
 ⟪धर्मं⟫ ⟪वदति⟫ ⟪गुरौ⟫ ⟪दुर्जना⟫ ⟪न⟫ ⟪शृण्वन्ति⟫ ⟪॥१॥⟫
 
@@ -299,7 +299,7 @@ Pictura da Rāja Ravi Varmā (1848 - 1906).
 
 ## 27.7. Paradigmas da declinaziun per imparar a memoria
 
-### 27.7.1. Maskulina auf -a: ⟪नर⟫ <!-- TODO: Fallback translation -->
+### 27.7.1. Maskulina auf -a: ⟪नर⟫
 
 ::: grammar-box
 
@@ -320,7 +320,7 @@ Imag.: ⟪नराः⟫
 Naran. Udaipur.
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt2711))
 :::
-### 27.7.2. Neutras sin -a: ⟪फल⟫ <!-- TODO: Fallback translation -->
+### 27.7.2. Neutras sin -a: ⟪फल⟫
 
 ::: grammar-box
 
@@ -440,7 +440,7 @@ Fig.: ⟪धेनुः⟫
 Vaca en Udaipur.
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt2714))
 :::
-### 27.7.8. Feminas plurisilbicas sin final -ī: ⟪देवी⟫ <!-- TODO: Fallback translation -->
+### 27.7.8. Feminas plurisilbicas sin final -ī: ⟪देवी⟫
 
 ::: grammar-box
 
@@ -482,7 +482,7 @@ Fig.: ⟪सद्गुरुः⟫
 Sai Baba da Shirdi (1835 - 1918).
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫ <!-- TODO: Fallback translation -->
+### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
 
@@ -497,7 +497,7 @@ Sai Baba da Shirdi (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
 :::
-### 27.7.11. Maskulina und Neutra auf -vant / -mant: ⟪गुणवन्त्⟫ <!-- TODO: Fallback translation -->
+### 27.7.11. Maskulina und Neutra auf -vant / -mant: ⟪गुणवन्त्⟫
 
 ::: grammar-box
 
@@ -590,29 +590,7 @@ Sai Baba da Shirdi (1835 - 1918).
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Sursa da l’imagina: [Detagls](/rm/licenses#lekt2717))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt2701:** Giura, 1875. [Sursa d’imagia: Wikipedia. Dominio public]
-**lekt2702:** Rajasthan. [Sursa d’imagia: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** Holi. [Sursa d’imagia: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Harihara (a sanestra: Viṣṇu, a dretga: Śiva). [Sursa d’imagia: Wikipedia. Dominio public]
-**lekt2705:** Harihara (a sanestra: Viṣṇu, a dretga: Śiva). Godrumdwip, Bengal Occidental. [Sursa d’imagia: GourangaUK / Wikipedia. Licenza GNU FD]
-**lekt2706:** Vastrāṇi. Majuli, Assam. [Sursa d’imagia: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Sursa d’imagia: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Rāma-Satz. [Sursa d’imagia: Wikipedia. Dominio public]
-**lekt2709:** Quadres da Rāja Ravi Varmā (1848 - 1906). [Sursa d’imagia: Wikipedia. Dominio public]
-**lekt2710:** Fructs. Bangalore. [Sursa d’imagia: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Naran. Udaipur. [Sursa d’imagia: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Pendiment da dus participants da la rebeliun dal 1857. Fotografia da Felice Beato (1833/1834 - ca. 1907). [Sursa d’imagia: Wikipedia. Dominio public]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Sursa d’imagia: Wikipedia, Licenza GNU FD]
-**lekt2714:** Vaca en Udaipur. [Sursa d’imagia: Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Sursa d’imagia: Wikipedia. Dominio public]
-**lekt2716:** Sai Baba da Shirdi (1835 - 1918). [Sursa d’imagia: Wikipedia. Dominio public]
-**lekt2717:** Tsunami 2005, Sri Lanka. [Sursa d’imagia: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) cun ses nepot il princip Jaya Chamaraja Wadiyar, Mysore. [Sursa d’imagia: Wikipedia. Dominio public]
 
 :::
 

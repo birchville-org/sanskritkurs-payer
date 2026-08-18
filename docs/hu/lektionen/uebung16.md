@@ -36,7 +36,7 @@ A) Alakítsa át a következő kifejezéseket Tatpuruṣává, és fordítsa le 
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫ — ⟪देवस्तुतिः⟫
 
-B) Oldja fel a következő mondatokban az összes összetett szót szanszkrit nyelven, alkosson így ragozott főnevekből álló mondatokat, és fordítsa le őket: <!-- TODO: Fallback translation -->
+B) Oldja fel a következő mondatokban az összes összetett szót szanszkrit nyelven, alkosson így ragozott főnevekből álló mondatokat, és fordítsa le őket:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 ⟪पुण्यवान्वैश्यस्य⟫ ⟪पुत्रो⟫ ⟪देवानामिन्द्रस्य⟫ ⟪लोकं⟫ ⟪गच्छति⟫ ⟪।⟫ (vagy: ⟪पुण्यवतो⟫ ⟪वैश्यस्य⟫ ⟪पुत्रो⟫...)
@@ -87,7 +87,7 @@ Az erős harcosok a brahmanafaluba mentek.
 
 ## Ragozási minták
 
-A) Alkosson az eddig tanult összes esetet a következő szavakból példaként az eddig tanult ragozási osztályokra. <!-- TODO: Fallback translation -->
+A) Alkosson az eddig tanult összes esetet a következő szavakból példaként az eddig tanult ragozási osztályokra.
 
 
 ::: grammar-box
@@ -98,7 +98,7 @@ A) Alkosson az eddig tanult összes esetet a következő szavakból példaként 
 | 1. Nominatívus | ⟪नरस्⟫ (⟪नरः⟫) | ⟪नरास्⟫ (⟪नराः⟫) |
 | 2. Akkusztívus | ⟪नरम्⟫ | ⟪नरान्⟫ |
 | 3. Instrumentális | ⟪नरेण⟫ | ⟪नरैस्⟫ (⟪नरैः⟫) |
-| 6. Genitívus | ⟪नरस्य⟫ | ⟪नराणाम्⟫ | <!-- TODO: Fallback translation -->
+| 6. Genitívus | ⟪नरस्य⟫ | ⟪नराणाम्⟫ |
 
 ⟪२⟫. ⟪फल⟫ (n.)
 
@@ -107,7 +107,7 @@ A) Alkosson az eddig tanult összes esetet a következő szavakból példaként 
 | 1. Nominatívus | ⟪फलम्⟫ | ⟪फलानि⟫ |
 | 2. Akkusztívus | ⟪फलम्⟫ | ⟪फलानि⟫ |
 | 3. Instrumentális | ⟪फलेन⟫ | ⟪फलैस्⟫ (⟪फलैः⟫) |
-| 6. Genitívus | ⟪फलस्य⟫ | ⟪फलानाम्⟫ | <!-- TODO: Fallback translation -->
+| 6. Genitívus | ⟪फलस्य⟫ | ⟪फलानाम्⟫ |
 
 ⟪३⟫. ⟪क्षत्रिया⟫ (f.)
 
@@ -125,7 +125,7 @@ A) Alkosson az eddig tanult összes esetet a következő szavakból példaként 
 | 1. Nominatívus | ⟪अरिस्⟫ (⟪अरिः⟫) | ⟪अरयस्⟫ (⟪अरयः⟫) |
 | 2. Akkusztívus | ⟪अरिम्⟫ | ⟪अरीन्⟫ |
 | 3. Instrumentális | ⟪अरिणा⟫ | ⟪अरिभिस्⟫ (⟪अरिभिः⟫) |
-| 6. Genitívus | ⟪अरेस्⟫ (⟪अरेः⟫) | ⟪अरीणाम्⟫ | <!-- TODO: Fallback translation -->
+| 6. Genitívus | ⟪अरेस्⟫ (⟪अरेः⟫) | ⟪अरीणाम्⟫ |
 
 ⟪५⟫. ⟪मति⟫ (f.)
 
@@ -191,7 +191,7 @@ A) Alkosson az eddig tanult összes esetet a következő szavakból példaként 
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. Nominatívus | ⟪कस्⟫ (⟪कः⟫) | ⟪किम्⟫ | ⟪का⟫ | ⟪के⟫ | ⟪कानि⟫ | ⟪कास्⟫ (⟪काः⟫) |
 | 2. Akkusztívus | ⟪कम्⟫ | ⟪किम्⟫ | ⟪काम्⟫ | ⟪कान्⟫ | ⟪कानि⟫ | ⟪कास्⟫ (⟪काः⟫) |
-| 3. Instrumentális | ⟪केन⟫ | — | ⟪कया⟫ | — | — | ⟪काभिस्⟫ (⟪काभिः⟫) | <!-- TODO: Fallback translation -->
+| 3. Instrumentális | ⟪केन⟫ | — | ⟪कया⟫ | — | — | ⟪काभिस्⟫ (⟪काभिः⟫) |
 
 | 6. Gen. | ⟪कस्य⟫ | — | ⟪कस्यास्⟫ (⟪कस्याः⟫) | ⟪केषाम्⟫ | — | ⟪कासाम्⟫ |
 
@@ -226,7 +226,7 @@ A) Alkosson az eddig tanult összes esetet a következő szavakból példaként 
 
 ## További gyakorlatok
 
-B) Fordítsa le, és oldja fel az összes szanszkrit összetételt: <!-- TODO: Fallback translation -->
+B) Fordítsa le, és oldja fel az összes szanszkrit összetételt:
 
 ⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪२⟫ ⟪॥⟫
 ⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ (vagy: ⟪वृत्तीनां⟫ ⟪निरोधः⟫) ⟪।⟫
@@ -237,11 +237,11 @@ A bráhmana specifikus kötelessége: Védatanulmányozás, védai oktatás, ál
 
 ⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪॥६॥⟫
 ⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शास्त्रेणाजीवो⟫ ⟪भूतानां⟫ ⟪रक्षणं⟫ ⟪च्⟫ ⟪।⟫
-A kṣatriya specifikus kötelessége: Védatanulmányozás, áldozat bemutatása áldozati úrkéntként, adományozás bráhmánoknak, megélhetés a kard által, élőlények védelme. <!-- TODO: Fallback translation -->
+A kṣatriya specifikus kötelessége: Védatanulmányozás, áldozat bemutatása áldozati úrkéntként, adományozás bráhmánoknak, megélhetés a kard által, élőlények védelme.
 
 ⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪॥७॥⟫
 ⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪च⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪।⟫
-A vaiśya specifikus kötelessége: Védatanulmányozás, áldozat bemutatása áldozati úrkéntként, adományozás bráhmánoknak, mezőgazdálkodás és állattartás, kereskedelem. <!-- TODO: Fallback translation -->
+A vaiśya specifikus kötelessége: Védatanulmányozás, áldozat bemutatása áldozati úrkéntként, adományozás bráhmánoknak, mezőgazdálkodás és állattartás, kereskedelem.
 
 ⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫
 ⟪शुड्रस्य⟫ ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारूणां⟫ ⟪कुशीलवानां⟫ ⟪च⟫ ⟪कर्म⟫ ⟪।⟫
@@ -252,11 +252,6 @@ Mindenkinek a kötelessége: erőszakmentesség, igazmondás, tisztaság, sors f
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
 
-::: deleteme-box Erklärungen
-7. mondat: ⟪कृषिपाशुपाल्ये⟫ kettősges szám, alany- és tárgyeset: Dvandva, amely két „dolog” megnevezésére szolgál
-8. mondat: ⟪कर्म⟫ alany- és tárgyeset, egyes szám, középnem a ⟪कर्मन्⟫ „cselekvés” szóból
-13. mondat: ⟪सर्वेषाम्⟫ birtokos eset, többes szám, hímnem a ⟪सर्व⟫ „mindenki, mind” (melléknév, nem a deva szerint ragozott) szóból
-:::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 A bot megszerzést és a filozófia, a védisztika, valamint az ökonómia biztos birtoklását eredményezi. A bot vezetése a politika.

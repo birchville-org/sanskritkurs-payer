@@ -30,7 +30,7 @@ A) Complétez les exemples de déclinaison de la leçon 16 en ajoutant le 4. Dat
 | 4. Dat. | ⟪महते⟫ | ⟪महद्भ्यः⟫ | ⟪महते⟫ | ⟪महद्भ्यः⟫ |
 | 5. Abl. | ⟪महतः⟫ | ⟪महद्भ्यः⟫ | ⟪महतः⟫ | ⟪महद्भ्यः⟫ |
 
-### ⟪३⟫. **⟪यद्⟫** (welcher, wer) <!-- TODO: Fallback translation -->
+### ⟪३⟫. **⟪यद्⟫** (welcher, wer)
 
 | Kasus | m. Sg. | m. Pl. | n. Sg. | n. Pl. | f. Sg. | f. Pl. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -96,7 +96,7 @@ Cela se passe facilement (avec bonheur).
 Arrêtez la peur !
 
 ⟪१७⟫. **⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫**
-(Hari = Viṣṇu / Kṛṣṇa) Plus grand que le monde est Hari. <!-- TODO: Fallback translation -->
+(Hari = Viṣṇu / Kṛṣṇa) Plus grand que le monde est Hari.
 
 ---
 
@@ -125,7 +125,7 @@ Un voleur est libéré de la dette de vol par le châtiment ou par la libératio
 
 ---
 
-## Fragments de sciences politiques (Arthaśāstra) <!-- TODO: Fallback translation -->
+## Fragments de sciences politiques (Arthaśāstra)
 
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 L'économie est utile car elle produit du grain, du bétail, de l'or, des métaux et du travail.

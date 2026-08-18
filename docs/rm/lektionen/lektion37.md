@@ -14,7 +14,7 @@ status: stable
 Adverbien vegnan en il Sanscrit
 
 1.  tras formas casuales da sustantivs e pronomens
-2.  cun agid da sufixs ed finals spezials <!-- TODO: Fallback translation -->
+2.  cun agid da sufixs ed finals spezials
 
 En il prüm cas è la cunfinaziun tranter casus vivents ed avverbis fluida. Quai includa sco cas spezial ils avverbis, ch’èn formas casuales veglias cristallisadas, mentrà che en la declinaziun vegnan duvradas autras formas u che ils numens correspundents n’èn betg pli duvrads sco numens.
 
@@ -46,7 +46,7 @@ L’accusativ po vegnir adina aduprà sco
 ⟪सुखम्⟫ "legier, feliç"
 ⟪नित्यम्⟫ "adina"
 ⟪साधु⟫ "correct, bun"
-::: <!-- TODO: Fallback translation -->
+:::
 
 *   da pronomina en il neutrum  
     Exemples:  
@@ -63,7 +63,7 @@ L'Instrumental (⟪तृतीया⟫) pozz vegnir adoperà adverbialmain sia
 
 *   dals che?
 *   cun tge?
-*   e c. <!-- TODO: Fallback translation -->
+*   e c.
 
 L’instrumental pozz’ esser adoperà sco adverbial:
 
@@ -84,7 +84,7 @@ L’instrumental pozz’ esser adoperà sco adverbial:
 ### 37.2.3. Datīv (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen: <!-- TODO: Fallback translation -->
+Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen:
 
 *   e cetera
 *   e cetera
@@ -97,7 +97,7 @@ Esempel:
 ### 37.2.4. Ablativ (⟪पञ्चमी⟫)
 
 ::: grammar-box
-L’ablativ (⟪पञ्चमी⟫) po vegnir adoperà adverbialmain sün las dumondas: <!-- TODO: Fallback translation -->
+L’ablativ (⟪पञ्चमी⟫) po vegnir adoperà adverbialmain sün las dumondas:
 
 *   perche?
 *   e cetera
@@ -110,7 +110,7 @@ L'ablativ pozz' vegnir aduprà sco avverbial:
     p.ex. ⟪बलात्⟫ "cun violenza, cun forza"
 
 *   da aggettivs  
-    p.ex. ⟪दूरात्⟫ "lunsch" <!-- TODO: Fallback translation -->
+    p.ex. ⟪दूरात्⟫ "lunsch"
 
 *   da pronomina  
     Exemples:  
@@ -126,7 +126,7 @@ Rar vegn il genitiv (⟪षष्ठी⟫) adverbial adoperà per la dumonda "s
 
 z.B. ⟪चिरस्य⟫ "nach langer Zeit" (zu ⟪चिर⟫ 3 "lang (Zeit)")
 :::
-### 37.2.6. Lokativ (⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
+### 37.2.6. Lokativ (⟪सप्तमी⟫)
 
 ::: grammar-box
 Il locativ (⟪सप्तमी⟫) po vegnir adoperà adverbialmain sin las dumondas:
@@ -146,9 +146,9 @@ Ezempels:
 
 Ezempels:
 ::: indent
-⟪जातु⟫ "en tut" (originalmain "per naschientscha, per natira", accusativ singulare neutrum a जातु⟩ \<betg pli usità sco num\>) <!-- TODO: Fallback translation -->
+⟪जातु⟫ "en tut" (originalmain "per naschientscha, per natira", accusativ singulare neutrum a जातु⟩ \<betg pli usità sco num\>)
 
-⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen") <!-- TODO: Fallback translation -->
+⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen")
 
 ⟪एवम्⟫ "uschei" (a inàts da n'atgna radis pronominala ⟪एव⟫ "in, suletta")
 :::
@@ -161,7 +161,7 @@ Dals ils stems pronominala ⟪तद्⟫, ⟪इदम्⟫ resp. ⟪अ⟫-,
 *   \-⟪त्र⟫ (Lokativ)
 *   \-⟪था⟫ (Moda)
 *   \-⟪थम्⟫ (Moda)
-*   \-⟪दा⟫ (Tempus) <!-- TODO: Fallback translation -->
+*   \-⟪दा⟫ (Tempus)
 
 deducir correspondents adverbis pronominala.
 :::
@@ -174,7 +174,7 @@ deducir correspondents adverbis pronominala.
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -194,7 +194,7 @@ Abb.: ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Composita adverbiala
@@ -203,7 +203,7 @@ Abb.: ⟪क्व⟫
 
 Esempel: ⟪सुचिरम्⟫ "mol mult (temp)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫ <!-- TODO: Fallback translation -->
+### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
 
 Esempel: ⟪रक्षार्थम्⟫ "en moda da inu, cun in intent da protecziun, per l'intent da protecziun". Po er vegnir considerà sco apartenent a 5.1.: -⟪अर्थम्⟫ sco part adverbiala posteriora.
 
@@ -260,7 +260,7 @@ Pronomina indefins (pronomins indeterminads) vegnan formads cun l'aggregaziun da
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet. <!-- TODO: Fallback translation -->
+an die Kasus des Fragepronomens ⟪किम्⟫ gebildet.
 
 p.ex.
 :::
@@ -301,7 +301,7 @@ En las preguntas totales se interroga sobre todo el contenido de la oración, po
 *   va Rāma ozendi a Ofterdingen?
 *   è correct, che ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen) <!-- TODO: Fallback translation -->
+### 37.8.1. Wortfragen (Ergänzungsfragen)
 
 ::: grammar-box
 Schema:
@@ -517,21 +517,7 @@ Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 :::
 ## 37.11. Exercizi da repetiziun
 
-Übersetzen Sie ins Sanskrit indem Sie ausschließlich Verbformen des Perfekt verwenden: <!-- TODO: Fallback translation -->
+Übersetzen Sie ins Sanskrit indem Sie ausschließlich Verbformen des Perfekt verwenden:
 
 Cun in vegl umada va en in auter vit, el s’affatgescha sutvia. El va per s’arposar al pied d’in manglier che stat a l’atgna. Sin quest arbul gievan fruits madirs. Al vegl daventa il gust per quels fruits. Ma el na po betg s’arrampiciar sin l’arbul e prender ils fruits. Per sort gievan sin quest arbul quai ch’è affes, che manglian fruits. Cun vesair quels, s’allegra il vegl. Co fa el? El prenda quai ch’è pitschens, mira sin ils affes e lantscha. Ils affes offesos prendan quai ch’è fruits e lantschan sin il vegl. Il vegl prenda quels cuntent e va en ses lieu desiderà. Vede, il destin dal vegl!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Abb.: ⟪क्व⟫): [Qua da l'immaginal: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Access il 2008-12-30. -- Licenza Creative Commons (Attribuziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-- **Image lekt3702.jpg** (Abb.: ⟪यथाशक्ति⟫): [Qua da l'immaginal: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Access il 2008-12-30. -- Licenza Creative Commons (Attribuziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-- **Image lekt3703.jpg** (Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Qua da l'immaginal: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Access il 2008-12-30. -- Licenza Creative Commons (Attribuziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-- **Image lekt3704.jpg** (Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Qua da l'immaginal: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Access il 2008-12-30. -- Licenza Creative Commons (Attribuziun)]
-- **Image lekt3705.jpg** (Abb.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Qua da l'immaginal: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Access il 2008-12-31. -- Licenza Creative Commons (Attribuziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-- **Image lekt3706.jpg** (Abb.: ⟪वृक्षः⟫): Jaipur [Qua da l'immaginal: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Access il 2008-12-31. -- Licenza Creative Commons (Attribuziun, nagina utilizaziun cummerciala, share alike)]
-- **Image lekt3707.jpg** (Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Quadres da ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Qua da l'immaginal: Wikipedia. Public domain]
-- **Image lekt3708.jpg** (Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Qua da l'immaginal: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Access il 2008-12-31. -- Licenza Creative Commons (Attribuziun)]
-- **Image lekt3709.jpg** (Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Qua da l'immaginal: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Access il 2008-12-31. -- Licenza Creative Commons (Attribuziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-- **Image lekt3710.jpg** (Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Qua da l'immaginal: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Access il 2008-12-31. -- Licenza Creative Commons (Attribuziun, nagina utilizaziun cummerciala, share alike)]
-- **Image lekt3711.jpg** (Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Qua da l'immaginal: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Access il 2008-12-31. -- Licenza Creative Commons (Attribuziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-:::

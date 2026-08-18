@@ -647,11 +647,3 @@ B) Transforme las siguientes formas verbales en sus correspondientes formas de p
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
-
-- **Image lekt4005.jpg** (Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Vadaseri, Distrito de Thanjavur = தஞ்சாவூர் மாவட்டam [Fuente de la imagen: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución, Compartir Igual)]
-- **Image lekt4003.jpg** (Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Fuente de la imagen: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución)]
-- **Image lekt4002.jpg** (Fig.: ⟪तीर्थङ्करः⟫): [Fuente de la imagen: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución, No Comercial, Sin Obras Derivadas)]
-- **Image lekt4001.jpg** (Fig.: ⟪विष्णोर्दशावताराः⟫): En sentido horario: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, en el centro: ⟪कृष्ण⟫ [Fuente de la imagen: Wikipedia. Dominio público]
-- **Image lekt4004.jpg** (Fig.: ⟪स्वपन्ति⟫): Murciélagos frugívoros indios (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Fuente de la imagen: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución, No Comercial, Sin Obras Derivadas)]
-:::

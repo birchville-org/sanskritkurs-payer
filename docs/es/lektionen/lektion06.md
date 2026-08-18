@@ -5,19 +5,10 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lección 6
 
-::: deleteme-box
-**En esta lección aprenderá:**
-- La estructura de la oración verbal (Agente y forma verbal)
-- La formación de formas verbales (Parasmaipada, Ātmanepada, Pasivo)
-- Los modos y tiempos del verbo
-- Indicativo presente (laṭ) y las terminaciones primarias de la 3.ª persona
-- La formación de la raíz del presente (clases 1, 4 y 6)
-- La gradación vocálica (Ablaut: Guṇa y Vṛddhi)
-:::
 ## 6.1. La oración verbal
 
 ::: grammar-box
@@ -116,7 +107,7 @@ Ejemplo **yaj** = ⟪यज्⟫ = "honrar con un sacrificio", "sacrificar":
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Sandhi de palabras de e y o
-Ante vocales, en el interior de la palabra, **e** se reemplaza por **ay**, **o** por **av**. &lt;!-- TODO: Fallback translation --&gt;
+Ante vocales, en el interior de la palabra, **e** se reemplaza por **ay**, **o** por **av**. &lt;!--  --&gt;
 
 #### 6.5.2.2. Gradación (Ablaut)
 

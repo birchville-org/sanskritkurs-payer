@@ -58,7 +58,7 @@ Feminin:
 ### 42.1.2. Formaziun da sustantivs: Suffix -⟪तृ⟫ ⟨⟪कृत्⟫-⟫
 
 ::: grammar-box
-Cun il sufix -⟪तृ⟫, che è fitg cumünà cun ⟪कृत्⟫, vegnan formads nomina agentis (designaziuns per il ⟪कर्तृ⟫) a la quasi tut las radischas u stemms causativs. <!-- TODO: Fallback translation -->
+Cun il sufix -⟪तृ⟫, che è fitg cumünà cun ⟪कृत्⟫, vegnan formads nomina agentis (designaziuns per il ⟪कर्तृ⟫) a la quasi tut las radischas u stemms causativs.
 
 **Educaziun:**
 
@@ -114,7 +114,7 @@ Quai cumprendan las suenterdidas relaziuns da parentada:
     *   **avant vocal: -r**
     *   **avant consonant: -ṛ**
 :::
-Exemples: <!-- TODO: Fallback translation -->
+Exemples:
 
 ::: indent
 **⟪पितृ⟫** m. "bà"
@@ -138,11 +138,11 @@ Comè element anterior d'un cumponì, ston sustantivs sin -ṛ natiralmain en lu
 *   **vor Konsonant: -ṛ**
 *   **vor Vokal: -r**
 :::
-## 42.2. Glista da pleds <!-- TODO: Fallback translation -->
+## 42.2. Glista da pleds
 
 ⟪प्रकृति⟫ f.: (a ⟪कृ⟫ + ⟪प्र⟫) furma da basa, stadi natirala, natira; materia primordiala, sustantiv primordial
 
-⟪अर्जुन⟫ m. num propriu: Arjuna, inu da ils tschintg fegls da ⟪पण्डु⟫. Eroi en ⟪महाभारत⟫ (vesei Basham, Wonder p. 409 - 414) <!-- TODO: Fallback translation -->
+⟪अर्जुन⟫ m. num propriu: Arjuna, inu da ils tschintg fegls da ⟪पण्डु⟫. Eroi en ⟪महाभारत⟫ (vesei Basham, Wonder p. 409 - 414)
 
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstinenz da, s'allontanar da, s'astgirar, restar, star
 
@@ -151,7 +151,7 @@ PPP ⟪अवस्थित⟫ 3: stentent, preschent
 :::
 ⟪पुरा⟫ Adv.: ina, avant
 
-⟪अनेक⟫ 3: bler (betg in uer) <!-- TODO: Fallback translation -->
+⟪अनेक⟫ 3: bler (betg in uer)
 
 ⟪कुमार⟫ m.: Prinzi
 
@@ -161,7 +161,7 @@ PPP ⟪अवस्थित⟫ 3: stentent, preschent
 
 ⟪सकाश⟫ m.: Preschientscha, preschaint
 
-⟪शर⟫ m.: tija da fleug, fleug <!-- TODO: Fallback translation -->
+⟪शर⟫ m.: tija da fleug, fleug
 
 ⟪बाण⟫ m.: fleu, object
 
@@ -207,7 +207,7 @@ Inf. ⟪शंसितुम्⟫
 :::
 ⟪हृदय⟫ n.: cor
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen <!-- TODO: Fallback translation -->
+### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
@@ -216,7 +216,7 @@ Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 :::
 ⟪भर्तृ⟫ m. (a ⟪भृ⟫ "portar, mantegnair"): mantegnidor, nutrider, consors
 
-⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte) <!-- TODO: Fallback translation -->
+⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
 
 ⟪पितृ⟫ m.: babb
 
@@ -243,7 +243,7 @@ Ambedue vegnan ritus executads, usitads ⟪श्राद्ध⟫ n. Mintgadi 
 
 ⟪देवृ⟫ m.: frar dal marià (sorella dal marià)
 
-⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns <!-- TODO: Fallback translation -->
+⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns
 
 ⟪ननान्दृ⟫ f.: Sora dal mari
 
@@ -336,11 +336,11 @@ Fig.: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान�
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Sursa da l’imagina: [Detagls](/rm/licenses#lekt4206))
 :::
-⟪जनक⟫ m. num da persuna: re da ⟪विदेह⟫ <!-- TODO: Fallback translation -->
+⟪जनक⟫ m. num da persuna: re da ⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3: Komparativ zu ⟪गुरु⟫ 3: pli ferm, assai ferm
 
-⟪धनुस्⟫ Nom.Akk.sg.n. zu ⟪धनुस्⟫ n. "Arc" <!-- TODO: Fallback translation -->
+⟪धनुस्⟫ Nom.Akk.sg.n. zu ⟪धनुस्⟫ n. "Arc"
 
 ⟪शतशस्⟫ Adv.: a chadasc
 
@@ -353,7 +353,7 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 Abb.: ⟪रावणः⟫
 (Quellbild: [Details](/rm/licenses#lekt4207))
 :::
-⟪अयोध्या⟫ f. num da l’agen: chapitala da ⟪कोसल⟫ (vess la charta sura!) <!-- TODO: Fallback translation -->
+⟪अयोध्या⟫ f. num da l’agen: chapitala da ⟪कोसल⟫ (vess la charta sura!)
 
 ⟪दशरथ⟫ m. num propriu: règ da ⟪कोसल⟫
 
@@ -363,16 +363,5 @@ Abb.: ⟪रावणः⟫
 
 :sig[⟪विश्वामित्र⟫] m. num propriu: ⟪ऋषि⟫, ha strit ⟪राम⟫ e ⟪लक्ष्मन⟫ per serrar demòns; per quai els duan da el armas magicas.
 
-⟪सीतारामयोस्⟫ Genitiv Lokativ Dual zu ⟪सीताराम⟫ <!-- TODO: Fallback translation -->
+⟪सीतारामयोस्⟫ Genitiv Lokativ Dual zu ⟪सीताराम⟫
 
-::: deleteme-box
-
-* **Abb. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Sursa da l’imagina: Wikipedia. Domini public)
-* **Abb. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. Il Diwan I Khas, u l’aula da audiencias privatas al Lal Qila (Fort Ross) a Delhi. (Sursa da l’imagina: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Access il 2009-01-04. -- Licenza Creative Commons (attribuziun, nagina utilisaziun commerziala, share alike))
-* **Abb. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Sursa da l’imagina: Wikipedia. Domini public)
-* **Abb. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. char). (Sursa da l’imagina: Wikipedia. Domini public)
-* **Abb. lekt4205**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17. tschienten onns. (Sursa da l’imagina: Wikipedia. Domini public)
-* **Abb. lekt4206**: Posiziun da ⟪मिथिला⟫ e ⟪विदेह⟫, ⟪अयोध्या⟫ e ⟪कोसल⟫. (Sursa da l’imagina: JIJITH NR / Wikipedia. Licenza GNU FD)
-* **Abb. lekt4207**: ⟪रावणः⟫. Mascara dal schanzi Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Sursa da l’imagina: Manohara Upadhya / Wikipedia. Licenza GNU FD)
-* **Abb. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Imagina da ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Sursa da l’imagina: Wikipedia. Domini public)
-:::

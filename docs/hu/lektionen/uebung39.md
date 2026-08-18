@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 39
 
-A) Alakítsa ki az alábbi igékből az első személyű alakokat, amelyek megfelelnek a szám, idő, mód (indikatív, optativus) és szerkezet (P, Ā, passzív) szempontjából: <!-- TODO: Fallback translation -->
+A) Alakítsa ki az alábbi igékből az első személyű alakokat, amelyek megfelelnek a szám, idő, mód (indikatív, optativus) és szerkezet (P, Ā, passzív) szempontjából:
 
 ::: grammar-box
 | 3. személy | 1. személy |

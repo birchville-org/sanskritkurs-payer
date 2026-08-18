@@ -5,7 +5,7 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # درس ۴5
 
@@ -145,12 +145,5 @@ status: stable
 ![](/images/lekt4502.jpg)
 تصویر: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (منبع تصویر: [جزئیات](/licenses#lekt4502))
-:::
-
-::: deleteme-box
-
-**lekt4501.jpg**: چاپ بلوکی پارچه، احمدآباد. -- منبع تصویر: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- دسترسی در ۲۰۰۹-۰۱-۰۸. -- مجوز کریتیو کامنز (نسب، استفاده غیرتجاری، اشتراک یکسان)
-
-**lekt4502.jpg**: منبع تصویر: John Isaac / بانک جهانی. -- http://www.flickr.com/photos/worldbank/2348425672/. -- دسترسی در ۲۰۰۹-۰۱-۰۸. -- مجوز کریتیو کامنز (نسب، استفاده غیرتجاری، بدون تغییر)
 :::
 

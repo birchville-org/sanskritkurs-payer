@@ -62,7 +62,7 @@ Com o sufixo ⟪कृत्⟫ -⟪तृ⟫, que ocorre com muita frequência,
 
 **Formação:**
 
-*   **raiz em grau forte + -tṛ** <!-- TODO: Fallback translation -->
+*   **raiz em grau forte + -tṛ**
 
 ou
 
@@ -329,14 +329,14 @@ Explicação das expressões destacadas em **vermelho**:
 Fig.: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4205))
 :::
-⟪मिथिला⟫ f. Nome próprio: capital de ⟪विदेह⟫ <!-- TODO: Fallback translation -->
+⟪मिथिला⟫ f. Nome próprio: capital de ⟪विदेह⟫
 
 ::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4206))
 :::
-⟪जनक⟫ m. Nome próprio: rei de ⟪विदेह⟫ <!-- TODO: Fallback translation -->
+⟪जनक⟫ m. Nome próprio: rei de ⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3: Comparativo de ⟪गुरु⟫ 3: mais pesado, muito pesado
 
@@ -365,14 +365,3 @@ Fig.: ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gen.Loc.Dual de ⟪सीताराम⟫
 
-::: deleteme-box
-
-* **Fig. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Fonte da imagem: Wikipedia. Domínio público)
-* **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Fonte da imagem: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Acessado em 2009-01-04. -- Licença Creative Commons (atribuição, uso não comercial, compartilha igual))
-* **Fig. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Fonte da imagem: Wikipedia. Domínio público)
-* **Fig. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ com carro). (Fonte da imagem: Wikipedia. Domínio público)
-* **Fig. lekt4205**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. Séc. XVII. (Fonte da imagem. Wikipedia. Domínio público)
-* **Fig. lekt4206**: Localização de ⟪मिथिला⟫ e ⟪विदेह⟫, ⟪अयोध्या⟫ e ⟪कोसल⟫. (Fonte da imagem: JIJITH NR / Wikipedia. GNU FDLicense)
-* **Fig. lekt4207**: ⟪रावणः⟫. Máscara de dança Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Fonte da imagem: Manohara Upadhya / Wikipedia. GNU FDLicense)
-* **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Pintura de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Fonte da imagem: Wikipedia. Domínio público)
-:::

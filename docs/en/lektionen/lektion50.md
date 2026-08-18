@@ -253,23 +253,4 @@ Explanation:
 Explanations:
 ⟪निषेकादीनि⟫ : Nom.Acc.pl.Neuter
 :::
-::: deleteme-box
-
-**lect5007:** Fig.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Image source: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल प्रदेश⟫ [Image source: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt5001:** Kapil Sibal (1948 -), Union Minister in the Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Image source: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribution, share alike)]
-
-**lekt5002:** Arrival of the Monsoon, Bangalore  ಬೆಂಗಳೂರು [Image source: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt5005:** [Image source: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder\_iyer/2225272284/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribution, share alike)]
-
-**lekt5003:** [Image source: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Image source: Kounosu / Wikipedia. GNU FDL license]
-
-**lekt5008:** Ganeshpuri, 80 km from Mumbai (⟪मुंबई⟫) [Image source: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Accessed on 2009-01-13. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
-:::
 

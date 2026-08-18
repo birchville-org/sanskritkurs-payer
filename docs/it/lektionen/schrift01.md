@@ -2,31 +2,31 @@
 
 ## Esercizio di scrittura 1
 
-Il sanscrito è stato e viene scritto in una varietà di scritture. La seguente panoramica offre una piccola selezione di queste scritture:
+Il sanscrito è stato e viene scritto in una varietà di scritture. La seguente panoramica offre un piccolo estratto da queste scritture:
 
 ![](/images/schrift001.webp)  
-Fig.: Campioni di scrittura sanscrita  
+Fig.: Campioni di scrittura sanscrita
 \[Fonte dell'immagine: Wikipedia, licenza GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: &lt;!-- TODO: Fallback translation --&gt;
+La scrittura sanscrita nordindiana moderna più importante è la Devanāgarī:
 
 ![](/images/schrift002.webp)
 
-Ogni segno consonantico indica anche una "a" che segue la consonante. Se si vuole scrivere la pura consonante (senza vocale successiva), ciò deve essere contrassegnato da una barra obliqua sottostante -- virāma = ⟪विराम⟫ --:
+Ogni segno consonantico indica anche una "a" che segue la consonante. Se si vuole scrivere la pura consonante (senza vocale successiva), bisogna contrassegnarla con una barra obliqua sottostante -- virāma = ⟪विराम⟫ --:
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
-Le vocali che seguono una consonante -- eccetto "a" -- si scrivono così:
+Le vocali successive a una consonante -- eccetto "a" -- si scrivono così:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ &lt;!-- TODO: Fallback translation --&gt;
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau &lt;!-- TODO: Fallback translation --&gt;
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
 L'ordine durante la scrittura di queste combinazioni di consonante + vocale è:
 
 ![](/images/schrift003.jpg)
 
-Durante la scrittura, ogni lettera, inclusa la barra trasversale, viene completata sotto la linea superiore prima che venga scritta la lettera successiva.
+Durante la scrittura, ogni lettera inclusa la barra orizzontale sulla linea superiore viene completata prima che venga scritta la lettera successiva.
 
 ## Esercizio
 
@@ -36,7 +36,7 @@ kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā p�
 
 Leggere e traslitterare:
 
-⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
+⟪तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ⟫
 
 Ulteriore esercizio di lettura:
 

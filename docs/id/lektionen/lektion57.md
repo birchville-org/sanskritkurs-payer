@@ -235,8 +235,3 @@ B) Translate and identify the following forms:
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-::: deleteme-box
-
-**lekt5701:** [Image source: Wikipedia. Public Domain]
-
-:::

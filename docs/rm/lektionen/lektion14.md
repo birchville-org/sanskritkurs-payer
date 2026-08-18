@@ -10,7 +10,7 @@ status: stable
 
 # Lecziun 14
 
-## 14.1. L'exprimi dal rapport tranter designads per substantivs: il genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesc casusfin) <!-- TODO: Fallback translation -->
+## 14.1. L'exprimi dal rapport tranter designads per substantivs: il genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesc casusfin)
 
 ::: grammar-box
 Sche il rapport dal designà per dus substantivs duess esser exprimì, vegn adina il genitiv (ṣaṣṭhī f. "sesc casusfin") duvrà. Il genitiv distinguescha da tut ils ulteriurs casos perquai, ch'el – cun paucs excepziuns – na serva betg per la determinaziun pli detagliada da l'acziun exprimida tras il verb, mabain per exprimer il rapport tranter persunas u cossas, las qualas vegnan designadas tras substantivs. Spessestas stat il genitiv sin la dumonda: A cui appartegna?
@@ -169,7 +169,7 @@ Abb.: ⟪दीपाः⟫
 * **vac-ana n.** (⟪वचन⟫) : il parlar, la parola
 * **vāk-ya n.** (⟪वाक्य⟫) : parola, discurs
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverbis <!-- TODO: Fallback translation -->
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverbis
 
 Traducir ils suventins proverbs ed impara-los a memoria:
 
@@ -242,7 +242,7 @@ Traducir ils suventins proverbs ed impara-los a memoria:
 Abb.: ⟪पुत्रवती⟫
 (Sursa d’imagines: [Detagl](/rm/licenses#lekt1404))
 :::
-⟪२६⟫. ⟪जल⟫ <!-- TODO: Fallback translation -->
+⟪२६⟫. ⟪जल⟫
 
 ⟪२७⟫. ⟪मार्ग⟫
 

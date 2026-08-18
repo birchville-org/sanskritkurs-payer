@@ -17,13 +17,13 @@ Kuva: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
 Jodhpur = ⟪जोधपुर⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2004))
 :::
-⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "joka omistaa paljon riisiä" <!-- TODO: Fallback translation -->
+⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "joka omistaa paljon riisiä"
 
 ::: grammar-box
 
-**Bahuvrīhi-koostumus tarkoittaa erona Tatpuruṣa-kompositumiin jotakin muuta kuin mitä sen osat ilmaisevat: kun ⟪बालपुत्रः⟫ ratkaistaan Tatpuruṣana "nuori poika", eli jotain, mitä ilmaisee koostumuksen pääte (⟪पुत्र⟫), tarkoittaa ⟪बालपुत्रः⟫ Bahuvrīhina ratkaistuna "jonka poika on nuori", eli merkitty ei ole poika (⟪पुत्र⟫) eikä välttämättä nuori (⟪बाल⟫), vaan nuoresta pojasta erillinen henkilö, nimittäin hänen isänsä.** <!-- TODO: Fallback translation -->
+**Bahuvrīhi-koostumus tarkoittaa erona Tatpuruṣa-kompositumiin jotakin muuta kuin mitä sen osat ilmaisevat: kun ⟪बालपुत्रः⟫ ratkaistaan Tatpuruṣana "nuori poika", eli jotain, mitä ilmaisee koostumuksen pääte (⟪पुत्र⟫), tarkoittaa ⟪बालपुत्रः⟫ Bahuvrīhina ratkaistuna "jonka poika on nuori", eli merkitty ei ole poika (⟪पुत्र⟫) eikä välttämättä nuori (⟪बाल⟫), vaan nuoresta pojasta erillinen henkilö, nimittäin hänen isänsä.**
 
-**Posessiivikompositumit ovat aluksi aina adjektiiveja, jotka voidaan kuitenkin substantivoida. Siksi Bahuvrīhin grammatillinen suku riippuu siitä, mihin Bahuvrīhi viittaa, eikä viimeisen koostumusosan suvusta.** <!-- TODO: Fallback translation -->
+**Posessiivikompositumit ovat aluksi aina adjektiiveja, jotka voidaan kuitenkin substantivoida. Siksi Bahuvrīhin grammatillinen suku riippuu siitä, mihin Bahuvrīhi viittaa, eikä viimeisen koostumusosan suvusta.**
 
 :::
 ::: grammar-box
@@ -48,9 +48,9 @@ Nom. pl. ⟪गतपापाः⟫ = ⟪गतानि⟫ ⟪पापान�
 
 jne.
 
-⟪अस्तमोहा⟫ = ⟪अस्तो⟫ ⟪मोहो⟫ ⟪यया⟫ ⟪सा⟫ = "nainen, joka on hylännyt harhaan" <!-- TODO: Fallback translation -->
+⟪अस्तमोहा⟫ = ⟪अस्तो⟫ ⟪मोहो⟫ ⟪यया⟫ ⟪सा⟫ = "nainen, joka on hylännyt harhaan"
 
-⟪प्राप्तोदको⟫ ⟪ग्रामः⟫ = ⟪प्राप्तमुदकं⟫ ⟪यं⟫ s ⟪ग्रामः⟫ = "kylä, johon vesi on yltänyt" = "tulvauhanalainen kylä" <!-- TODO: Fallback translation -->
+⟪प्राप्तोदको⟫ ⟪ग्रामः⟫ = ⟪प्राप्तमुदकं⟫ ⟪यं⟫ s ⟪ग्रामः⟫ = "kylä, johon vesi on yltänyt" = "tulvauhanalainen kylä"
 
 ⟪पुण्यवत्पुत्रः⟫ bahuvrīhina = ⟪पुण्यवान्पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫, tai: ⟪पुण्यवन्तः⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪सः⟫ = "joka omistaa ansion" tai: "jonka pojat omistavat ansion"
 :::
@@ -63,7 +63,7 @@ jne.
 *   **kasuaali**
 *   **adverbiaalinen**
 
-**Kuten Tatpuruṣassa tarkemmin määritetty jäsen on yleensä toisena.** <!-- TODO: Fallback translation -->
+**Kuten Tatpuruṣassa tarkemmin määritetty jäsen on yleensä toisena.**
 
 :::
 Perinteisesti erotetaan:
@@ -116,9 +116,9 @@ Perinteisesti erotetaan:
 
 ⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "joka / joka / joka, jonka pää on tämä" = "tällä päättyvä"
 :::
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
-**Erittäin tärkeitä ovat apposiittiset Bahuvrīhi-yhdyssanat, joiden jälkiosat ovat ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "ensimmäinen, alku", harvemmin ⟪प्रभृति⟫ "alku". Tällaiset yhdyssanat vastaavat "jne.":** <!-- TODO: Fallback translation -->
+**Erittäin tärkeitä ovat apposiittiset Bahuvrīhi-yhdyssanat, joiden jälkiosat ovat ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "ensimmäinen, alku", harvemmin ⟪प्रभृति⟫ "alku". Tällaiset yhdyssanat vastaavat "jne.":**
 
 **Esimerkki:**
 
@@ -149,18 +149,18 @@ Jeesus ja muut jumalat, Ahmedabad
 
 ## 20.4. Bahuvrīhi, jonka etuosassa on kasuusi
 
-d.v.s. Bahuvrīhi, jonka etuliite edustaa muuta käännöstä kuin nominatiivia (⟪प्रथमा⟫). <!-- TODO: Fallback translation -->
+d.v.s. Bahuvrīhi, jonka etuliite edustaa muuta käännöstä kuin nominatiivia (⟪प्रथमा⟫).
 
 Esimerkki:
 
 ::: indent
 ⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "nainen, jonka hahmo on jumalan" "jumalallinen ulkonäkö omaava nainen"
 :::
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
-**Poikkeus yleiseen sääntöön sanaliittomien osien järjestyksestä:** <!-- TODO: Fallback translation -->
+**Poikkeus yleiseen sääntöön sanaliittomien osien järjestyksestä:**
 
-**Kasuaalipääte sijaitsee toisella paikalla, kun se tarkoittaa kehonosaa (erityisesti kättä):** <!-- TODO: Fallback translation -->
+**Kasuaalipääte sijaitsee toisella paikalla, kun se tarkoittaa kehonosaa (erityisesti kättä):**
 
 **Esimerkki:**
 
@@ -174,14 +174,14 @@ Kuva: ⟪इन्द्रो⟩ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Kambodža, 900-luku jaa.
 (Kuvälähde: [Tiedot](/fi/licenses#lekt2001))
 :::
-## 20.5. Bahuvrīhi adverbiaalisella etuosalla <!-- TODO: Fallback translation -->
+## 20.5. Bahuvrīhi adverbiaalisella etuosalla
 
-Etuosassa on adverbialauseke, prepositio, prefiksi tai muu indeklinabii; tällaiset yhdyssanat ovat yleensä ⟪नित्यसमास⟩. <!-- TODO: Fallback translation -->
+Etuosassa on adverbialauseke, prepositio, prefiksi tai muu indeklinabii; tällaiset yhdyssanat ovat yleensä ⟪नित्यसमास⟩.
 
 Esimerkit:
 
 ::: indent
-⟪अपुत्रो⟫ ⟪नरः⟫ = ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪नास्ति⟫ ⟪स⟫ ⟪नरः⟫ = "mies, jolla ei ole poikaa" = "pojaton mies" <!-- TODO: Fallback translation -->
+⟪अपुत्रो⟫ ⟪नरः⟫ = ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪नास्ति⟫ ⟪स⟫ ⟪नरः⟫ = "mies, jolla ei ole poikaa" = "pojaton mies"
 
 ⟪दुर्बल⟫ ⟪३⟫ = "joku tai jokin, jonka voima on huono" = "voimaton, heikko"
 :::
@@ -205,7 +205,7 @@ Madhya Pradesh
 
 ::: grammar-box
 
-**Bahuvrīhin loppupääte taivutetaan sukupuolesta riippumatta monisukupuolisena adjektiivina. Jos yhdyssanan loppupääte on eri sukua kuin alkuperäinen, sen täytyy olla Bahuvrīhi, ellei se ole Samāhāradvanva (neutri yksikkö).** <!-- TODO: Fallback translation -->
+**Bahuvrīhin loppupääte taivutetaan sukupuolesta riippumatta monisukupuolisena adjektiivina. Jos yhdyssanan loppupääte on eri sukua kuin alkuperäinen, sen täytyy olla Bahuvrīhi, ellei se ole Samāhāradvanva (neutri yksikkö).**
 
 **Adjektiivisoinnissa**
 
@@ -216,7 +216,7 @@ Madhya Pradesh
 :::
 ## 20.7. Toinen luokittelu Bahuvrīhi-tyypeistä
 
-Esimerkit on annettu myöhempää käsittelyä varten; joillekin niistä tarvittavaa kielioppia ja sanastoa ei ole vielä käsitelty <!-- TODO: Fallback translation -->
+Esimerkit on annettu myöhempää käsittelyä varten; joillekin niistä tarvittavaa kielioppia ja sanastoa ei ole vielä käsitelty
 
 1.  määrittävä sana etuosassa -- määritetty sana jälkiosassa: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫
 2.  indeklinabi etuosassa: ⟪उच्चैःश्रवस्⟫
@@ -238,9 +238,9 @@ Kuva: ⟪कृतकटा⟫
 Chennai = சென்னை
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt2007))
 :::
-## 20.8. Bahuvrīhin ja suhteellislauseen välinen suhde <!-- TODO: Fallback translation -->
+## 20.8. Bahuvrīhin ja suhteellislauseen välinen suhde
 
-Vaikka jokainen Bahuvrīhi voidaan ratkaista suhteellisella lauseella, ei jokaista suhteellislauseita voida korvata Bahuvrīhilla. Hermann Georg Jacobi (1850 - 1937), joka on tutkinut näiden välistä suhdetta tarkemmin (Compositum und Nebensatz, 1897), kirjoittaa: <!-- TODO: Fallback translation -->
+Vaikka jokainen Bahuvrīhi voidaan ratkaista suhteellisella lauseella, ei jokaista suhteellislauseita voida korvata Bahuvrīhilla. Hermann Georg Jacobi (1850 - 1937), joka on tutkinut näiden välistä suhdetta tarkemmin (Compositum und Nebensatz, 1897), kirjoittaa:
 
 ::: indent
 "Käännettäessä saksasta tai jostakin muusta nykysanskritista sanskritiin, ei kaikkia sivulauseita voida ilmaista yhdyssanoilla, vaan vain koristeelliset ja kuvailevat; ne kuitenkin, jotka sisältävät käsitteellisesti välttämättömän tai tärkeän määritelmän, esiintyvät sanskritissa myös suhteellisina lauseina."
@@ -250,7 +250,7 @@ Vaikka jokainen Bahuvrīhi voidaan ratkaista suhteellisella lauseella, ei jokais
 Kuv.: Hermann Jacobi
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt2002))
 :::
-Tämä voi pitää paikkansa. Intialaiset kuitenkin pitävät monia asioita koristeellisina ja kuvailevina, mitä me pitäisimme "käsitteellisesti välttämättöminä tai tärkeinä." <!-- TODO: Fallback translation -->
+Tämä voi pitää paikkansa. Intialaiset kuitenkin pitävät monia asioita koristeellisina ja kuvailevina, mitä me pitäisimme "käsitteellisesti välttämättöminä tai tärkeinä."
 
 ## 20.9. Sanalista
 
@@ -266,13 +266,13 @@ Rishikesh = ⟪ऋषिकेश⟫. "Tämä on itse asiassa osa Ashramia Rishi
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tekevä, tuottava, aiheuttava
 
-⟪कर⟫ m.: käsi (sanasta ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
+⟪कर⟫ m.: käsi (sanasta ⟪कृ⟫ 8)
 
-⟪कर⟫ m.: maksu, vero, verotus (ei liity sanaan ⟪कृ⟫, vaan todennäköisesti lainasana tamilista - தமிழ்) <!-- TODO: Fallback translation -->
+⟪कर⟫ m.: maksu, vero, verotus (ei liity sanaan ⟪कृ⟫, vaan todennäköisesti lainasana tamilista - தமிழ்)
 
 ⟪क्रिया⟫ f.: toiminta, pyhä toiminta, uhritoiminta, seremonia (sanasta ⟪कृ⟫ 8)
 
-⟪अधि⟫ Prefiksi: yli, ylös, er-, suhteessa jhk <!-- TODO: Fallback translation -->
+⟪अधि⟫ Prefiksi: yli, ylös, er-, suhteessa jhk
 
 ⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : tavata, päästä jhk, saavuttaa
 
@@ -290,27 +290,27 @@ Rishikesh = ⟪ऋषिकेश⟫. "Tämä on itse asiassa osa Ashramia Rishi
 
 ⟪भावना⟫ f.: meditatiivinen kehitys (sanasta ⟪भू⟫ kausatiivi)
 
-⟪मही⟫ f.: maa, perusta ja pohja <!-- TODO: Fallback translation -->
+⟪मही⟫ f.: maa, perusta ja pohja
 
 ⟪लक्षण⟫ n.: merkki, tunnusmerkki, attribuutti
 
-⟪विप्र⟫ m.: "väristäjä" = runoilija, laulaja, pappi, brahmani <!-- TODO: Fallback translation -->
+⟪विप्र⟫ m.: "väristäjä" = runoilija, laulaja, pappi, brahmani
 
-⟪विषय⟫ m.: alue, aluepiiri, kohde, aistinobjekti <!-- TODO: Fallback translation -->
+⟪विषय⟫ m.: alue, aluepiiri, kohde, aistinobjekti
 
 ⟪अपवर्ग⟫ m.: loppu, vapautus
 
-⟪नि⟫ esipuhe: alas, alaspäin, sisään, taaksepäin <!-- TODO: Fallback translation -->
+⟪नि⟫ esipuhe: alas, alaspäin, sisään, taaksepäin
 
 ⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : kääntyä, palata
 
 ⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : istua, asettua
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : asettua, tulla asetetuksi (siirtymämerkityksessä) = rauhoittua, tyyntyä, tulla iloiseksi; olla armollinen jollekulle (genetiivi ⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : asettua, tulla asetetuksi (siirtymämerkityksessä) = rauhoittua, tyyntyä, tulla iloiseksi; olla armollinen jollekulle (genetiivi ⟪षष्ठी⟫)
 
-⟪समाधि⟫ m.: sisäinen kerääntyminen, korkein tarkkaavuus, meditatiivinen "uppoaminen" <!-- TODO: Fallback translation -->
+⟪समाधि⟫ m.: sisäinen kerääntyminen, korkein tarkkaavuus, meditatiivinen "uppoaminen"
 
-⟪स्वाध्याय⟫ m.: "itseopiskelu", recitaatio (erityisesti Vedan), vedatutkimus <!-- TODO: Fallback translation -->
+⟪स्वाध्याय⟫ m.: "itseopiskelu", recitaatio (erityisesti Vedan), vedatutkimus
 
 ⟪परलौकिक⟫ ⟪३⟫ : liittyen tuonpuoleiseen, tuonpuolinen
 
@@ -330,13 +330,13 @@ Rishikesh = ⟪ऋषिकेश⟫. "Tämä on itse asiassa osa Ashramia Rishi
 
 ⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : nähdä
 
-⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : taivuttaa <!-- TODO: Fallback translation -->
+⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : taivuttaa
 
-⟪उद्⟫ Präverb: ylös, ylöspäin, ulos, pois <!-- TODO: Fallback translation -->
+⟪उद्⟫ Präverb: ylös, ylöspäin, ulos, pois
 
 ⟪नाभि⟫ f.: napa
 
-⟪वपुस्⟫ n.: kauneus, muoto, vartalo (taivutus ks. myöhemmin) <!-- TODO: Fallback translation -->
+⟪वपुस्⟫ n.: kauneus, muoto, vartalo (taivutus ks. myöhemmin)
 
 ⟪स्त्री⟫ f.: nainen
 
@@ -442,7 +442,7 @@ Ratkaise seuraavat sandhikombinaatiot bahuvrīhi- ja/tai dvandva- ja/tai tatpuru
 
 ## 20.11. Harjoitus 2
 
-A) Käännä ja ratkaise sanskritinkieliset sandhikombinaatiot: <!-- TODO: Fallback translation -->
+A) Käännä ja ratkaise sanskritinkieliset sandhikombinaatiot:
 
 ⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
 
@@ -464,9 +464,9 @@ A) Käännä ja ratkaise sanskritinkieliset sandhikombinaatiot: <!-- TODO: Fallb
 
 ⟪बुद्धगता⟫ ⟪दुःखादिसत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥१०॥⟫
 
-B) Käännä sanskritiksi käyttämällä yhdyssanoja: <!-- TODO: Fallback translation -->
+B) Käännä sanskritiksi käyttämällä yhdyssanoja:
 
-1\. Sauvaa kädessään pitämätön ksatriya ei suojaa kansaa. <!-- TODO: Fallback translation -->
+1\. Sauvaa kädessään pitämätön ksatriya ei suojaa kansaa.
 
 2\. Kālidāsa ja muut runoilijat ovat sanskritin opettajia.
 
@@ -474,7 +474,7 @@ B) Käännä sanskritiksi käyttämällä yhdyssanoja: <!-- TODO: Fallback trans
 
 4\. Myös śūdra-naiset noudattavat dharmaa: väkivallattomuus, totuus, puhtaus, valittamattomuus, pahuuden puuttuminen ja kärsivällisyys.
 
-## 20.12. Käännösharjoitus <!-- TODO: Fallback translation -->
+## 20.12. Käännösharjoitus
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
 
@@ -498,7 +498,7 @@ Buddha ascetina ennen vapauttavaa ymmärrystä, Gandhara, 2./3. vuosisata
 ::: indent
 Selitys: ⟪त्रिविध⟫ ⟪३⟫ : "kolminkertainen"
 :::
-Vapautuksen määritelmä Nyāja-järjestelmän mukaan: <!-- TODO: Fallback translation -->
+Vapautuksen määritelmä Nyāja-järjestelmän mukaan:
 
 ::: indent
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२१॥⟫
@@ -513,7 +513,7 @@ Materialistien lausunto ⟪सर्वदर्शनसंग्रह⟫ muka
 
 Selitys: ⟪अत्मा⟫ = nom. sg. mask. sanasta ⟪आत्मन्⟫ m. "Itse, sielu; absoluutti, jos se toteutuu yksilössä"
 :::
-Yksi ⟪सुभाषितम्⟫ : <!-- TODO: Fallback translation -->
+Yksi ⟪सुभाषितम्⟫ :
 
 ::: indent
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
@@ -529,7 +529,7 @@ Kuv.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2009))
 :::
-Omistussuhteista: <!-- TODO: Fallback translation -->
+Omistussuhteista:
 
 ::: indent
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
@@ -555,7 +555,7 @@ Kuva: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt2003))
 :::
-Vielä yksi ⟪सुभाषितम्⟫: <!-- TODO: Fallback translation -->
+Vielä yksi ⟪सुभाषितम्⟫:
 
 ::: indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
@@ -564,27 +564,5 @@ Vielä yksi ⟪सुभाषितम्⟫: <!-- TODO: Fallback translation -
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
 Selitys: ⟪इच्छताम्⟫ = gen. pl. part pres. p verbestä ⟪इष्⟫ : toivova
-:::
-::: deleteme-box <!-- TODO: Fallback translation -->
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Kambodža, 900-luku jaa. [Kuvälähde: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt2002:** [Kuvälähde: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926] <!-- TODO: Fallback translation -->
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Kuv lähde Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [Kuv lähde: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Pääsy 2008-12-11. -- Creative Commons -lisensointi (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
-
-**lekt2005:** Jeesus ja muut jumalat, Ahmedabad [Kuv lähde: ganuullulta. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Pääsy 2008-12-11. -- Creative Commons -lisensointi (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)]
-
-**lekt2006:** Madhya Pradesh [Kuv lähde: dhyanjilta. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Pääsy 2008-12-11. -- Creative Commons -lisensointi (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
-
-**lekt2007:** Chennai = சென்னை [Kuvälähde: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Haettu 2008-12-11. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei johdannaisteoksia)] <!-- TODO: Fallback translation -->
-
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "Tämä on itse asiassa osa Rishikeshin ashramista, jossa Beatles asui. Tätä tiettyä osaa ei ollut olemassa heidän ollessaan siellä, mutta se näyttää kivalta." [Kuvälähde: ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Haettu 2008-12-11. -- Creative Commons -lisenssi (Nimittäminen)]
-
-**lekt2009:** Karnataka [Kuvälähde: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Haettu 2008-12-11. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
-
-**lekt2010:** Buddha erakko vapauttavan ymmärryksensä edellä, Gandhara, 2./3. vuosisata [Kuvälähde: Wikipedia, GNU FDLicense]
 :::
 

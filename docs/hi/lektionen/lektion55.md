@@ -94,8 +94,3 @@ status: stable
 (छवि स्रोत: [विवरण](/hi/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** 'इनायत खाँ मृत्युशय्या पर, जहांगीर = جهانگिर के लिए एक पांडुलिपि की मिनीचर चित्र के लिए प्रारूप, लगभग 1618 [छवि स्रोत: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- 2009-01-28 को प्रवेश। सार्वजनिक क्षेत्र]
-
-:::

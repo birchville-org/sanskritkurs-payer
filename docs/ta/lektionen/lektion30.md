@@ -518,12 +518,3 @@ PPP ⟪जीवित⟫ : வாழும்
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** புண்டி = ⟪बुन्दी⟫, ராஜஸ்தான் = ⟪राजस्थान⟫ [படம்: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- 2008-12-21 அன்று அணைக்கப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-**lekt3002:** தரேவாடி, அகமத்நகர் மாவட்டம் = ⟪अहमदनगर⟫, மகாராஷ்டிரா = ⟪महाराष्ट्र⟫ [படம்: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- 2008-12-21 அன்று அணைக்கப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, ஒரே வகை பகிர்வு)]
-**lekt3003:** [படம்: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- 2008-12-21 அன்று அணைக்கப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், ஒரே வகை பகிர்வு)]
-**lekt3005:** ⟪थाली⟫, தென்னிந்தியா [படம்: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- 2008-12-21 அன்று அணைக்கப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, ஒரே வகை பகிர்வு)]
-**lekt3004:** [படம்: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- 2008-12-21 அன்று அணைக்கப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், ஒரே வகை பகிர்வு)]
-**lekt2904:** [படம்: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

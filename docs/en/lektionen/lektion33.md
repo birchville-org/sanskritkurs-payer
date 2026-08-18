@@ -389,17 +389,3 @@ Fig.: ⟪पुरुषा भारं न बिभ्रतीति स्�
 :::
 ⟪क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥ देवदत्तमपि सुखं दुःखमोक्षेष्टिं न पिपर्ति । सेष्टिः प्रज्ञयैव सम्पूर्यते ॥५॥ यः साधुर्भूतेभ्यो ऽभयं ददाति तस्माद्भूतानि न बिभ्यति स च तेभ्यो न बिभेति ॥६॥ मितमतयो नरकभयात्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति । अमितप्रज्ञाबुद्धा हि नरकेभ्यो न बिभीयुः स्वर्गांश्च न लुभ्येयुः । ते भयं च लोभं चारुन्धन् ॥७॥⟫
 
-::: deleteme-box
-
-**Ghee Definition & Details:**
-* Source: http://en.wikipedia.org/wiki/Ghee (Accessed: 2008-12-26)
-
-**Image Index & Licenses:**
-* **Fig. lekt3306 (wedding party, Chennai):** Image source: http://www.pbase.com/chandra/image/62118318 (Accessed on 2008-12-27). Creative Commons License (Attribution, non-commercial use, share alike).
-* **Fig. lekt3307 (Udaipur carrier):** Image source: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Accessed on 2008-12-27). Creative Commons License (Attribution, non-commercial use, no derivatives).
-* **Fig. lekt3305 (Samadhi yogini, Kaveripakkam):** Image source: Quadell / Wikipedia (GNU FDL).
-* **Fig. lekt3304 (bhaya carrier, Mumbai):** Image source: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, Accessed on 2008-12-26). Creative Commons License (Attribution).
-* **Fig. lekt3303 (Hinayana Thailand):** Image source: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Accessed on 2008-12-26). Creative Commons License (Attribution, non-commercial use).
-* **Fig. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Image source: Dey (http://www.flickr.com/photos/dey/466758922/, Accessed on 2008-12-26). Creative Commons License (Attribution, non-commercial use, share alike).
-* **Fig. lekt3308 (woman carrier, Delhi):** Image source: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Accessed on 2008-12-27). Creative Commons License (Attribution, non-commercial use, no derivatives).
-:::

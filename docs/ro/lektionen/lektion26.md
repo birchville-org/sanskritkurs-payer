@@ -1,47 +1,48 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Lecție 26"
+subtitle: "Legea de cerebraizare pentru -s- în interiorul cuvântului"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lecția 26
+---
 
-## 26.1. Lege de cerebralizare pentru -s- în interiorul cuvântului
+# Lecție 26
+
+## 26.1. Legea de cerebraizare pentru -s- în interiorul cuvântului
 
 ::: grammar-box
-**-s-** este înlocuit cu **-ṣ-** atunci când **k, r, l** sau un **vocal** — cu excepția **a, ā** — urmează imediat sau doar prin intermediul **⟪अनुस्वार⟫** sau **⟪विसर्ग⟫** și este urmat de un alt sunet decât **ṛ, r**.
+**-s-** este înlocuit cu **-ṣ-**, dacă **k, r, l** sau un **vocal** — cu excepția lui **a, ā** — precedă imediat sau doar prin intermediul ⟪अनुस्वार⟫ sau ⟪विसर्ग⟫ și este urmat de un alt sunet decât **ṛ, r**.
 
-Acest Sandhi se aplică și **⟪दुस्⟫-** în fața guturalelor și labialelor surde în compuse.
+Acestui Sandhi îi este supus și **⟪दुस्⟫-** în fața guturalelor și labialelor surde în compuse.
 :::
 *Exemple:*
 ::: indent
-**⟪तेषाम्⟫** (din: *te-sām*)
+⟪तेषाम्⟫ (din: *te-sām*)
 
-dar: **⟪तासाम्⟫** (*tā-sām*)
+dar: ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Lege de cerebralizare pentru dentale în interiorul cuvântului
+## 26.2. Legea de cerebraizare pentru dentale în interiorul cuvântului
 
 ::: grammar-box
-Consoanele oclusive dentale sunt înlocuite cu retroflexele corespunzătoare după retroflexe (inclusiv **-ṣ-**):
+Ocluzivele dentale sunt înlocuite de retroflexele corespunzătoare după retroflexe (inclusiv **-ṣ-**):
 
-- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-  *(**ṣ** datorită **i**-lui anterior, **ṭh** datorită **ṣ**-ului care urmează apoi)*
+**iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
+**ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
+*(**ṣ** din cauza **i**-ului anterior, **ṭh** din cauza **ṣ**-ului care urmează)*
 :::
-## 26.3. Wortsandhi pentru palatale, guturale, ṣ, h + -s
+## 26.3. Sandhi de cuvânt pentru Palatal, Gutural, ṣ, h + -s
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
 Exemple vezi mai jos
 :::
-## 26.4. Lege lui disimilarea suflului lui Grassmann
+## 26.4. Legea de disimilare a aspirării a lui Grassmann
 
 ::: grammar-box
-**O consecință imediată a două aspirate (aspirat - vocală - aspirat) este pierderea suflului primului sunet:**
+**O succesiune imediată a două aspirate (aspirată - vocală - aspirată) duce la pierderea aspirării primei sunete:**
 
 Exemplu:
 
@@ -49,42 +50,43 @@ Exemplu:
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**Dacă, în urma legilor fonetice, al doilea sunet își pierde suflul, atunci suflul reapare la primul sunet.**
+**Dacă, în urma legilor fonetice, al doilea sunet își pierde aspirarea, atunci aspirarea reapare la primul sunet.**
 
-Exemple: vezi mai jos viitorul verbului  ⟪दुह्⟫ și  ⟪बुध्⟫
+Exemple: vezi mai jos viitorul pentru  ⟪दुह्⟫ și  ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
-Fig.: Hermann Graßmann
+Fig.: Hermann Grassmann
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi pentru -m, -n în fața sunetelor sibilante <!-- TODO: Fallback translation -->
+>> ## 26.5. Wortsandhi pentru -m, -n în fața sibilantelor
 
 ::: grammar-box
-**În fața sunetelor sibilante, -n și -m sunt înlocuite cu -ṃ-:**
+**În fața sibilantelor, -n și -m sunt înlocuite cu -ṃ-:**
 
-Exemplu: v. mai jos viitorul verbului ⟪मन्⟫
+Exemplu: v. mai jos viitorul lui ⟪मन्⟫
 :::
-## 26.6. Utilizarea viitorului simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. Utilarea viitorului simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
 **Viitorul simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) exprimă:**
 
-- **viitorul**
-- **o acțiune intenționată sau dorită („voi merge”, „vreau să merg”)**
-- **o așteptare („se va întâmpla așa”)**
-- **speranța**
-- **temerea**
-- **probabilitatea**
-- **opinarea vorbitorului**
-- **porunca**
+**viitorul**
+**o acțiune intenționată sau dorită ("voi merge", "vreau să merg")**
+**o așteptare ("se va întâmpla așa")**
+**speranță**
+**temere**
+**probabilitate**
+**opinarea vorbitorului**
+**poruncă**
 
 **Viitorul se află parțial în competiție cu optativul (vezi mai târziu).**
 :::
-de ex. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = „Cine dorește să facă o jurământ, se duce la templu.”
+de ex. ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = "Cine dorește să facă o promisiune, merge la templu."
+
 
 ::: media
 ![](/images/lekt2602.webp)
-Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
+Fig.: ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2602))
 :::
 ## 26.7. Formarea viitorului simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
@@ -94,21 +96,21 @@ Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 
 :::
 ::: indent
-**Tema viitorului + terminații primare**
+**Tema viitorului + terminația primară**
 :::
 ::: grammar-box
 **Tema viitorului:**
 
 :::
 ::: indent
-**(de obicei) rădăcină la gradul maxim + -sya**  
+**(de obicei) rădăcina în gradul maxim + -sya**  
 **sau**  
-**(de obicei) rădăcină la gradul maxim + -i- + -sya (= - iṣya)**
+**(de obicei) rădăcina în gradul maxim + -i- + -sya (= - iṣya)**
 :::
-**Care rădăcină are ce formă de tema viitorului, trebuie învățat cu formele de bază!**  
-**În general, forma rădăcinii și vocala de legătură a viitorului corespund cu infinitivul.**  
+**Ce rădăcină are ce formă de formare a temei viitorului, trebuie învățat împreună cu formele de bază!**  
+**În general, forma rădăcinii și vocala de legătură a viitorului coincid cu infinitivul.**  
 **Unele rădăcini pot forma viitorul opțional cu și fără vocala de legătură -i-.**  
-**Participiul Parasmaipada al viitorului se formează prin adăugarea sufixului -nt la tema viitorului, feminin facultativ pe -ntī sau -tī:**
+**Participul Parasmaipada al viitorului se formează prin adăugarea sufixului -nt- la tema viitorului, femininul facultativ pe -ntī sau -tī:**
 
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫

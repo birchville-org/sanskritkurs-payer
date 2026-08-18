@@ -9,7 +9,7 @@ status: stable
 
 # Lectio 22
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫) <!-- TODO: Fallback translation -->
+## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
 
 ::: grammar-box
 
@@ -50,7 +50,7 @@ Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 
 **Educatio:**
 
-(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**) <!-- TODO: Fallback translation -->
+(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**)
 
 Solum negans **a-** / **an-** cum suffixo **-⟪त्वा⟫** compatitur: **⟪अकृत्वा⟫** "sine facto"
 
@@ -190,7 +190,7 @@ Goa = ⟪गोंय⟫
 :::
 ## 22.4. Exercitatio
 
-**A) Formate et vertite Absolutivum ad verba sequentia:** <!-- TODO: Fallback translation -->
+**A) Formate et vertite Absolutivum ad verba sequentia:**
 
 1.  ⟪आप्⟫
 2.  ⟪प्राप्⟫
@@ -257,16 +257,5 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt2204))
-:::
-
-::: deleteme-box
-
-**lekt2201:** Goa = ⟪गोंय⟫ [Imago auctoris: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accessus die 2008-12-12. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt2202:** Saeculum XIX [Imago: Wikipedia, Dominium publicum] <!-- TODO: Fallback translation -->
-
-**lekt2203:** Collis Nigri = कलकাতा [Fontes imaginis: Aeternitas. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Accessus die 2008-12-12. -- Licentia Creative Commons (Attributio, usus non-commercialis, nulla modificatio)]
-
-**lekt2204:** [Imago fontis: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Accessus die 2008-12-12. -- Licentia Creative Commons (Attributio, usus non-commercialis, nulla operis mutatio)]
 :::
 

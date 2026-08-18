@@ -253,14 +253,3 @@ B.) Перекладіть санскритом (використовуйте н
 
 34). Нехай це принесе щастя (станеться)! (Благословення)
 
-::: deleteme-box
-
-**lekt4702:** Храм Ханумана, Делі = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Джерело зображення: Карол Мітчелл. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Доступ від 2009-01-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Згадка авторства, без обробки)]
-
-**lekt4701:** [Джерело зображення: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Доступ від 2009-01-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Згадка авторства, некомерційне використання, подібне розповсюдження)]
-
-**lekt4703:** [Джерело зображення: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Згадка авторства)]
-
-**lekt4704:** [Джерело зображення: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Доступ від 2009-01-10. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, некомерційне використання, без похідних робіт)] &lt;!-- TODO: Fallback translation --&gt;
-
-:::

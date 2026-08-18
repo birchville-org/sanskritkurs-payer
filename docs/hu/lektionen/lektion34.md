@@ -1,14 +1,15 @@
 ---
-title: Lektion 34
+title: "Lecke 34"
 lesson_id: 34
 status: stable
+
 ---
 
-# 34. lecke <!-- TODO: Fallback translation -->
+# 34. lecke
 
-## 34.1. A perfektum (⟪लिट्⟫) <!-- TODO: Fallback translation -->
+## 34.1. A perfektum (⟪लिट्⟫)
 
-A klasszikus szanszkritban a perfektum tőből csak az indikatív és a participium létezik. <!-- TODO: Fallback translation -->
+A klasszikus szanszkritban a perfektum tőből csak az indikatív és a participium létezik.
 
 ::: grammar-box
 **Két fajta tökéletes képzés létezik:**
@@ -51,29 +52,23 @@ A klasszikus szanszkritban a perfektum tőből csak az indikatív és a particip
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
-
 :::
-### 34.2.3. Bindevokal -i-
+### 34.2.4. A mássalhangzóval kezdődő gyökök ismétlése
 
 ::: grammar-box
-**A 3. plur. Ā (-re) végződés elé mindig a -i- kötőhangzó kerül, a többi mássalhangzóval kezdődő végződés elé a gyökök többségénél.**
-:::
-### 34.2.4. Reduplikation konsonantisch anlautender Tőn <!-- TODO: Fallback translation -->
+**A mássalhangzóval kezdődő gyökök ismétlésére a [34. lecke](lektion34.md)-ban megadott szabályok vonatkoznak.**
 
-::: grammar-box
-**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.** <!-- TODO: Fallback translation -->
+**A mássalhangzóval kezdődő gyökök ismétlő magánhangzójának a rövid gyökmagánhangzó szolgál.**
 
-**A mássalhanggal kezdődő gyököknél a reduplikációs magánhangzó a rövid gyökmagánhangzó.**
+**A mássalhangzók előtt álló diftongusok a megfelelő rövid mélyfokú magánhangzóval redukálódnak.**
 
-**A mássalhangzók előtt álló diftongusok a megfelelő rövid mély fokú magánhangzóval redukálódnak.**
-
-**A ṛ, ṝ, ḷ és a szó végi diftongusok -a- reduplikációval alakulnak.**
+**Az ṛ, ṝ, ḷ és a szóvégi diftongusok -a- ismétléssel képződnek.**
 :::
 Példák:
 
 ::: grammar-box
 
-| Tő | 3. sg. Perf. P. |
+| Gyök | 3. sg. Perf. P. |
 | :--- | :--- |
 | ⟪भिद्⟫ | :sig[⟪बि⟫]⟪भेद⟫ |
 | ⟪मुच्⟫ | :sig[⟪मु⟫]⟪मोच⟫ |
@@ -81,34 +76,43 @@ Példák:
 
 :::
 ::: grammar-box
-**Egyes y- vagy v-hangzóval kezdődő gyökök i- vagy u-reduplikációt képeznek, amely a gyökmagvocal-lal „olvad” a gyenge alakokban.**
-:::
-Példák: <!-- TODO: Fallback translation -->
-
-::: grammar-box
-
-| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. |
-| :--- | :--- | :--- |
-| ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
-
-:::
-### 34.2.5. A magánhangzóval kezdő gyökök reduplikációja
-
-::: grammar-box
-**1. A kezdő a-, ā- magánhangzót a- reduplikációval ábrázoljuk, így ā- jelenik meg.**
+**Egyes y- vagy v-vel kezdődő gyökök i-, illetve u- ismétléssel képződnek, amelyek a gyök magánhangzójával „olvadnak” az erős alakokban.**
 :::
 Példák:
 
 ::: grammar-box
 
-| Tő | 3. sg. Perf. P. |
+| Gyök | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
+
+:::
+### 34.2.5. A magánhangzóval kezdődő gyökök ismétlése
+
+::: grammar-box
+**1. A szóeleji a-, ā- magánhangzók a- ismétléssel képződnek, így az ā- jelenik meg.**
+:::
+Példák:
+
+::: grammar-box
+
+| Gyök | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "létezik" és ⟪अस्⟫ 4 "dobni" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
+| ⟪अस्⟫ 2 „lenni” és ⟪अस्⟫ 4 „dobni” | ⟪आस⟫:bra + as-a |
 
 :::
 ::: grammar-box
-**2. Az i-vel kezdődő gyökök reduplikációs szilábjája az erős tőben iy-, a gyenge tőben i-, amely a gyökmagvocalissal ī-vé "olvad". Ugyanez érvényes az u-val kezdődőkre is.**
+**2. i-vel kezdődő gyökök erős törzsében az iy- ismétlő szótag, a gyenge törzsben pedig az i-, amely a gyökmagánhangzóval ī-vé „olvad”. Hasonló érvényes az u-val kezdődő gyökökre is.**
+:::
+Példák:
+
+::: grammar-box
+
+| Gyök | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| :--- | :--- | :--- |
+| ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 :::
 Példák:
 
@@ -159,84 +163,88 @@ Példák:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
 ## 34.5. Perfektum II. típus: erős tő magas foka, gyenge tő alacsony foka
-
-::: grammar-box
-**Wird gebildet von Tőn der Form:**
-*   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant** <!-- TODO: Fallback translation -->
-
-**Képzés:**
-*   **erős tő: magas fok**
-*   **schwacher Tő: Tiefstufe**
-:::
-Példák: <!-- TODO: Fallback translation -->
-
-::: grammar-box
-
-| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
-| :--- | :--- | :--- | :--- | :--- |
-| ⟪भिद्⟫ | ⟪बिभेद⟫ | ⟪बिभिदुर्⟫ | ⟪बिभिदे⟫ | ⟪बिभिदिरे⟫ |
-| ⟪इष्⟫ | ⟪इयेष⟫ | ⟪ईषुर्⟫ | | |
-| ⟪मुच्⟫ | ⟪मुमोच⟫ | ⟪मुमुचुर्⟫ | ⟪मुमुचे⟫ | ⟪मुमुचिरे⟫ |
-| ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
-| ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 :::
 ## 34.6. Szószedet
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Vetés, termény, gabona
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Vetés, mezőnövény, gabona
 
 ::: media
 ![](/images/lekt3406.webp)
 Kép: ⟪सस्यम्⟫
-Rizsmező Indiában.
-(Képmegjelenítés: [Részletek](/hu/licenses#lekt3406))
+Rice field in India.
+(Képmegjelölés: [Details](/hu/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** mennyi ideig, mekkora <!-- TODO: Fallback translation -->
+**⟪यावत्⟫ :** mennyi ideig, mekkora
 
-**⟪तावत्⟫ :** annyi ideig, akkora
+**⟪तावत्⟫ :** ennyi ideig, ekkora
 
-**⟪उत्तम⟫ 3:** legfelső
+**⟪उत्तम⟫ 3:** legmagasabb
 
-**⟪द्वीप⟫ m.n.:** sziget, kontinens
+**⟪द्वीप⟫ m.n.:** Sziget, kontinens
 
 ::: media
 ![](/images/lekt3405.webp)
 Kép: ⟪लक्षद्वीपाः⟫
-Lakshadweep-szigetek térképe.
-(Képmegjelenítés: [Részletek](/hu/licenses#lekt3405))
+Lakshadweep Islands Map.
+(Képmegjelölés: [Details](/hu/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** halandó (a ⟪मृ⟫ szóból) <!-- TODO: Fallback translation -->
+**⟪मर्त्य⟫ 3:** halandó (a ⟪मृ⟫ szóhoz)
 
-**⟪तिल⟫ m.:** szezámmag (*Sesamum indicum* L.)
+**⟪तिल⟫ m.:** Szemesze (Sesamum indicum L.)
 
 ::: media
 ![](/images/lekt3403.webp)
 Kép: ⟪तिलाः⟫
-Szezámmagok.
-(Képmegjelenítés: [Részletek](/hu/licenses#lekt3403))
+Sesame seeds.
+(Képmegjelölés: [Details](/hu/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.webp)
 Kép: *Sesamum indicum* L.
-Szezámnövény virágzása.
-(Képmegjelenítés: [Részletek](/hu/licenses#lekt3404))
+Sesame plant flowering.
+(Képmegjelölés: [Details](/hu/licenses#lekt3404))
 :::
-**⟪स्वर्ण⟫ n.:** (színpompás =) arany
+**⟪स्वर्ण⟫ n.:** (színpompás =) Arany
 
 ::: media
 ![](/images/lekt3402.webp)
 Kép: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
-(Képmegjelenítés: [Részletek](/hu/licenses#lekt3402))
+(Képmegjelölés: [Details](/hu/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** lakhely, templom <!-- TODO: Fallback translation -->
+**⟪निकेतन⟫ n.:** Lakóhely, templom
+
+**⟪कोटि⟫ f.:** Csúcs; 10 millió
+
+**⟪श्रेष्ठ⟫ 3:** legjobb
+
+**⟪तल⟫ m.n.:** Síkság, felület
+
+**⟪ऋषभ⟫ m.:** Bika
+
+::: media
+![](/images/lekt3401.webp)
+Kép: ⟪ऋषभः⟫
+Nandi Bull statue, Chamundi Hills, Mysore.
+(Képmegjelölés: [Details](/hu/licenses#lekt3401))
+:::
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** visszatart, tart, bemutat, adományoz
+
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** nyújt, felajánl, átad
+
+**⟪या⟫ 2P ⟪याति⟫ :** megy, halad
+
+**⟪कन्या⟫ f.:** Lány, szűz
+:::
+**⟪निकेतन⟫ n.:** lakhely, templom
 
 **⟪कोटि⟫ f.:** csúcs; 10 millió
 
@@ -262,7 +270,7 @@ Nandi bika szobra, Chamundi-hegyek, Mysore.
 
 ## 34.7. Gyakorlat
 
-Alakítsa ki a következő igai formákhoz az személyben, számban és nemben megfelelő tökéletes idő (perfectum) alakokat: <!-- TODO: Fallback translation -->
+Alakítsa ki a következő igai formákhoz az személyben, számban és nemben megfelelő tökéletes idő (perfectum) alakokat:
 
 1. ⟪रक्षिष्यन्ति⟫
 2. ⟪स्रक्ष्यति⟫
@@ -329,25 +337,9 @@ Magyarázatok:
 Kép: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫:sig[⟪र्जन्म⟫] ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Hindu esküvői rituálé.
 (Képforrás: [Részletek](/hu/licenses#lekt3407))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
-::: deleteme-box
-
-**lekt3401:** Nandi bika szobra, Chamundi-hegyek, Mysore. [Képmegjelenítés: Luna Park / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3402:** Arany Templom (Harmandir Sahib), Amritsar. [Képmegjelenítés: Wikipedia. GNU FDL]
-
-**lekt3403:** Tökmagok. [Képmegjelenítés: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt3404:** Tökmag növény virágzása. [Képmegjelenítés: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
-
-**lekt3405:** Lakshadweep-szigetek térképe. [Képmegjelenítés: CIA World Factbook. Közterület] <!-- TODO: Fallback translation -->
-
-**lekt3406:** Rizsmező Indiában. [Képmegjelenítés: Ray Witlin / Világbank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3407:** Hindu esküvői rituálé. [Képmegjelenítés: BriceFR / Flickr. CC BY-NC-SA]
-::: <!-- TODO: Fallback translation -->
 
 
 :::

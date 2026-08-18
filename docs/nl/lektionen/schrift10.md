@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 # Schriftübung 10
 
 ### Zweite Regel zur Bildung von Konsonantenligaturen

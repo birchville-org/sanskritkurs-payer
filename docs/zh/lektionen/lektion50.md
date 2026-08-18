@@ -12,107 +12,107 @@ status: stable
 ## 50.1. 名词构成：规则比较级
 
 ::: grammar-box
-**Die regelmäßige Steigerung erfolgt im Sanskrit mit den ⟪तद्धित⟫-Suffixen** <!-- TODO: Fallback translation -->
-* **-⟪तर⟫ (fem.: ⟪तरा⟫) im "Komparativ"** <!-- TODO: Fallback translation -->
-* **⟪तम⟫ (fem.: ⟪तमा⟫) im "Superlativ"** <!-- TODO: Fallback translation -->
+**Die regelmäßige Steigerung erfolgt im Sanskrit mit den ⟪तद्धित⟫-Suffixen**
+* **-⟪तर⟫ (fem.: ⟪तरा⟫) im "Komparativ"**
+* **⟪तम⟫ (fem.: ⟪तमा⟫) im "Superlativ"**
 
-**Diese Suffixe werden bei Adjektiven an den Maskulinstamm angefügt. Bei Nomina mit Stammabstufung werden sie an den schwachen Stamm angefügt, die die form hat wie vor der Endung -su des Lokativ (⟪पञ्चमी⟫) Plural.** <!-- TODO: Fallback translation -->
+**Diese Suffixe werden bei Adjektiven an den Maskulinstamm angefügt. Bei Nomina mit Stammabstufung werden sie an den schwachen Stamm angefügt, die die form hat wie vor der Endung -su des Lokativ (⟪पञ्चमी⟫) Plural.**
 :::
 ::: media
 ![](/images/lekt5007.webp)
 Abb.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
 ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
-(Bildquelle: [Details](/licenses#lekt5007)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5007))
 :::
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**Bedeutung:**
 
-**Der "Komparativ" bedeutet, wenn kein verglichener Gegenstand ausgedrückt wird: "ziemlich, sehr, zu":** <!-- TODO: Fallback translation -->
+**Der "Komparativ" bedeutet, wenn kein verglichener Gegenstand ausgedrückt wird: "ziemlich, sehr, zu":**
 
 :::
 ::: indent
-z.B. ⟪सुचितर⟫ 3 "ziemlich rein", "sehr rein", "zu rein" <!-- TODO: Fallback translation -->
+z.B. ⟪सुचितर⟫ 3 "ziemlich rein", "sehr rein", "zu rein"
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (⟪पञ्चमी⟫). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen.** <!-- TODO: Fallback translation -->
+**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (⟪पञ्चमी⟫). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen.**
 
 ::: indent
-z.B. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = wörtl.: "von Devadatta aus gesehen ist Rāma einsichtiger" = "Rāma ist einsichtiger als Devadatta" <!-- TODO: Fallback translation -->
+z.B. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = wörtl.: "von Devadatta aus gesehen ist Rāma einsichtiger" = "Rāma ist einsichtiger als Devadatta"
 :::
-**Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äußerst, sehr":** <!-- TODO: Fallback translation -->
+**Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äußerst, sehr":**
 
 ::: indent
-z.B. ⟪सत्तम⟫ 3 (zu ⟪सन्त्⟫) "äußerst gut, sehr gut" <!-- TODO: Fallback translation -->
+z.B. ⟪सत्तम⟫ 3 (zu ⟪सन्त्⟫) "äußerst gut, sehr gut"
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (⟪षष्ठी⟫) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe):** <!-- TODO: Fallback translation -->
+**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (⟪षष्ठी⟫) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe):**
 
 ::: indent
-z.B. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "der beste der Zweimalgeborenen" <!-- TODO: Fallback translation -->
+z.B. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "der beste der Zweimalgeborenen"
 :::
-**Die Suffixe -⟪तर⟫ und -⟪तम⟫ können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen:** <!-- TODO: Fallback translation -->
+**Die Suffixe -⟪तर⟫ und -⟪तम⟫ können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen:**
 
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ::: indent
-⟪गजतम⟫ m. "der beste Elefant" (⟪गज⟫) (auch Bezeichnung Buddhas) <!-- TODO: Fallback translation -->
+⟪गजतम⟫ m. "der beste Elefant" (⟪गज⟫) (auch Bezeichnung Buddhas)
 
-⟪गोतम⟫ m. "der größte Ochse" (⟪गो⟫) oder: "am reichsten an Rindern" <!-- TODO: Fallback translation -->
+⟪गोतम⟫ m. "der größte Ochse" (⟪गो⟫) oder: "am reichsten an Rindern"
 
-⟪उद्⟫ Indekl. "auf", "hinauf" » ⟪उत्तर⟫ 3 "höherer" » ⟪उत्तम⟫ 3 "höchster" <!-- TODO: Fallback translation -->
+⟪उद्⟫ Indekl. "auf", "hinauf" » ⟪उत्तर⟫ 3 "höherer" » ⟪उत्तम⟫ 3 "höchster"
 :::
-**Treten diese Suffixe an eine Verbalform, so erscheinen sie stets in der adverbialen Form:** <!-- TODO: Fallback translation -->
+**Treten diese Suffixe an eine Verbalform, so erscheinen sie stets in der adverbialen Form:**
 
 * **-⟪तराम्⟫**
 * **-⟪तमाम्⟫**
 
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ::: indent
-⟪पचतितराम्⟫ "er/sie/es kocht besser" <!-- TODO: Fallback translation -->
+⟪पचतितराम्⟫ "er/sie/es kocht besser"
 
-⟪पचतितमाम्⟫ "er/sie/es kocht am besten" <!-- TODO: Fallback translation -->
+⟪पचतितमाम्⟫ "er/sie/es kocht am besten"
 :::
-**Diese Form haben diese Suffixe auch, wenn sie an ein Indeklinabile treten und das abgeleitete Wort adverbial gebraucht wird:** <!-- TODO: Fallback translation -->
+**Diese Form haben diese Suffixe auch, wenn sie an ein Indeklinabile treten und das abgeleitete Wort adverbial gebraucht wird:**
 
 ::: indent
-z.B. ⟪सुतराम्⟫ (zu ⟪सु⟫) "auf bessere Weise" (adverbial) <!-- TODO: Fallback translation -->
+z.B. ⟪सुतराम्⟫ (zu ⟪सु⟫) "auf bessere Weise" (adverbial)
 :::
 ::: media
 ![](/images/lekt5006.webp)
 Abb.: ⟪का⟫ ⟪पचतितमाम्⟫
 Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Bildquelle: [Details](/licenses#lekt5006)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5006))
 :::
 ## 50.2. 词汇表
 
-⟪ध्रुव⟫ 3: fest, unveränderlich <!-- TODO: Fallback translation -->
+⟪ध्रुव⟫ 3: fest, unveränderlich
 
-⟪निषेक⟫ m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung <!-- TODO: Fallback translation -->
+⟪निषेक⟫ m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung
 
-⟪पण्डित⟫ 3: klug, weise, gelehrt <!-- TODO: Fallback translation -->
+⟪पण्डित⟫ 3: klug, weise, gelehrt
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : missachten, verachten <!-- TODO: Fallback translation -->
+⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : missachten, verachten
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister <!-- TODO: Fallback translation -->
+⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
 
 ::: media
 ![](/images/lekt5001.jpg)
 Abb.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Bildquelle: [Details](/licenses#lekt5001)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: Geheimnis, Einsamkeit <!-- TODO: Fallback translation -->
+⟪रहस्⟫ n.: Geheimnis, Einsamkeit
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen <!-- TODO: Fallback translation -->
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen
 
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
 Fut. ⟪रेषिष्यति⟫
 Pass. ⟪रिष्यते⟫
 Kaus. ⟪रेषयति⟫
-PPP ⟪रिष्ट⟫ <!-- TODO: Fallback translation -->
+PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U *:sig[⟪लुम्प⟫]*⟪ति⟫** : brechen, zerstören <!-- TODO: Fallback translation -->
+**⟪लुप्⟫ 6U *:sig[⟪लुम्प⟫]*⟪ति⟫** : brechen, zerstören
 
 ::: indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
@@ -121,11 +121,11 @@ Pass. ⟪लुप्यते⟫
 Kaus. ⟪लोपयति⟫
 PPP ⟪लुप्त⟫
 Inf. ⟪लोप्तुम्⟫
-Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫ <!-- TODO: Fallback translation -->
+Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
 :::
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫) <!-- TODO: Fallback translation -->
+⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke) <!-- TODO: Fallback translation -->
+⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke)
 
 ::: indent
 Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
@@ -135,26 +135,26 @@ Kaus. ⟪वर्षयति⟫
 PPP ⟪वृष्ट⟫
 Inf. ⟪वर्षितुम्⟫
 Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
-Absol.-⟪वृष्य⟫ <!-- TODO: Fallback translation -->
+Absol.-⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
 Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5002)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5002))
 :::
-⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig <!-- TODO: Fallback translation -->
+⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
 
-⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse <!-- TODO: Fallback translation -->
+⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse
 
 ::: media
 ![](/images/lekt5005.jpg)
 Abb.: ⟪आदित्यः⟫
-(Bildquelle: [Details](/licenses#lekt5005)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: jeder, alle <!-- TODO: Fallback translation -->
+⟪सर्व⟫ 3: jeder, alle
 
-Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum) <!-- TODO: Fallback translation -->
+Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
 
 ::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
@@ -168,40 +168,40 @@ Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum) <!-- TODO: Fallba
 | **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
 | **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
-⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber <!-- TODO: Fallback translation -->
+⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫ <!-- TODO: Fallback translation -->
+⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
 
-⟪कल्प⟫ m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu ⟪कॢप्⟫) <!-- TODO: Fallback translation -->
+⟪कल्प⟫ m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu ⟪कॢप्⟫)
 
-⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön <!-- TODO: Fallback translation -->
+⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön
 
 ::: media
 ![](/images/lekt5003.webp)
 Abb.: ⟪कल्याणी⟫
-(Bildquelle: [Details](/licenses#lekt5003)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5003))
 :::
-⟪कु⟫- : als Vorderglied von Komposita: schlecht <!-- TODO: Fallback translation -->
+⟪कु⟫- : als Vorderglied von Komposita: schlecht
 
 ::: media
 ![](/images/lekt5004.webp)
 Abb.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5004)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen
 
 ::: indent
 Perf. ⟪चचक्षे⟫
-in den übrigen Tempora nicht verwendet <!-- TODO: Fallback translation -->
+in den übrigen Tempora nicht verwendet
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen
 
-⟪देश⟫ m.: Ort, Platz, Land, Gegend <!-- TODO: Fallback translation -->
+⟪देश⟫ m.: Ort, Platz, Land, Gegend
 
 ## 50.3. 翻译练习
 
-A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.: <!-- TODO: Fallback translation -->
+A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.:
 
 ::: indent
 ⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫
@@ -213,9 +213,9 @@ A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsfo
 ![](/images/lekt5008.webp)
 Abb.: ⟪गुरुमेव⟫ ⟪भजे⟫
 Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt
-(Bildquelle: [Details](/licenses#lekt5008)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5008))
 :::
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie:
 
 ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
 
@@ -241,7 +241,7 @@ B) Übersetzen Sie: <!-- TODO: Fallback translation -->
 ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫
 ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥३॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers <!-- TODO: Fallback translation -->
+⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
 
 ::: indent
 ⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫
@@ -260,9 +260,9 @@ B) Übersetzen Sie: <!-- TODO: Fallback translation -->
 *:sig[⟪द्रष्टृदृश्ययोः⟫]* ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
 
 Erklärung:
-:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Lok.m.n.f.Dual (Dualdvandva) <!-- TODO: Fallback translation -->
+:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Lok.m.n.f.Dual (Dualdvandva)
 :::
-⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs <!-- TODO: Fallback translation -->
+⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
 
 ::: indent
 ⟪न⟫ ⟪किंचिदवमन्येत⟫
@@ -270,7 +270,7 @@ Erklärung:
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫
 ⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥८॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫ <!-- TODO: Fallback translation -->
+⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
 
 ::: indent
 ⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫
@@ -289,25 +289,6 @@ Erklärung:
 ⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥११॥⟫
 
 Erklärungen:
-⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum <!-- TODO: Fallback translation -->
-:::
-::: deleteme-box
-
-**lekt5007:** Abb.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Bildquelle: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
-
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Bildquelle: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt5001:** Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Bildquelle: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt5002:** Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು [Bildquelle: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt5005:** [Bildquelle: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt5003:** [Bildquelle: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Bildquelle: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5008:** Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt [Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-
+⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum
 :::
 

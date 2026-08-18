@@ -9,19 +9,11 @@ status: stable
 
 # 第4課
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Fragepronomina und Demonstrativpronomina im Nominativ <!-- TODO: Fallback translation -->
-- Sandhi von auslautendem -m <!-- TODO: Fallback translation -->
-- Sandhi von auslautendem -e <!-- TODO: Fallback translation -->
-- Sandhi von auslautendem -d <!-- TODO: Fallback translation -->
-- Einfache Frageformeln <!-- TODO: Fallback translation -->
-:::
 ## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
 
 ### 4.1.1. 疑问代词和指示代词
 
-#### 4.1.1.1. 疑问代词 (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫) <!-- TODO: Fallback translation -->
+#### 4.1.1.1. 疑问代词 (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
 ::: grammar-box
 | | Nominativ singular | Nominativ plural |
@@ -30,7 +22,7 @@ status: stable
 | **Maskulinum** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
 | **Feminimum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
 :::
-#### 4.1.1.2. 指示代词 (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫) <!-- TODO: Fallback translation -->
+#### 4.1.1.2. 指示代词 (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 ::: grammar-box
 | **Stämme** ||||
@@ -45,37 +37,37 @@ status: stable
 | **Maskulinum** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
 | **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
 :::
-**Zum Nom. sg. mask.:** <!-- TODO: Fallback translation -->
-- **sa, eṣa** (⟪स⟫ ⟪एष⟫) steht vor allen Lauten außer kurzem **-a** <!-- TODO: Fallback translation -->
-- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) steht vor **-a**, welches mit Avagraha elidiert (ausfällt) <!-- TODO: Fallback translation -->
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) steht nur in Pausa (Satzende, Versende) <!-- TODO: Fallback translation -->
+**Zum Nom. sg. mask.:**
+- **sa, eṣa** (⟪स⟫ ⟪एष⟫) steht vor allen Lauten außer kurzem **-a**
+- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) steht vor **-a**, welches mit Avagraha elidiert (ausfällt)
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) steht nur in Pausa (Satzende, Versende)
 
-Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die Kenntnis folgender Sandhiregeln nötig: <!-- TODO: Fallback translation -->
+Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die Kenntnis folgender Sandhiregeln nötig:
 
 ### 4.1.2. Sandhi von auslautendem -m
 
 ::: grammar-box
-**Auslautendes -m wird vor Konsonanten durch Anusvāra (-ṃ) ersetzt. Am Satz- bzw. Versende und vor Vokalen bleibt -m erhalten.** <!-- TODO: Fallback translation -->
+**Auslautendes -m wird vor Konsonanten durch Anusvāra (-ṃ) ersetzt. Am Satz- bzw. Versende und vor Vokalen bleibt -m erhalten.**
 :::
 ### 4.1.3. Sandhi von auslautendem -e
 
 ::: grammar-box
-1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:** <!-- TODO: Fallback translation -->
-   z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Diese Feuer" <!-- TODO: Fallback translation -->
+1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:**
+   z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Diese Feuer"
 
-2. **Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor:** <!-- TODO: Fallback translation -->
-   z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (selten: imay īśvarāh = ⟪इमयीश्वराः⟫) "Diese HERREN" <!-- TODO: Fallback translation -->
+2. **Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor:**
+   z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (selten: imay īśvarāh = ⟪इमयीश्वराः⟫) "Diese HERREN"
 :::
 ### 4.1.4. Sandhi von auslautendem -d
 
 ::: grammar-box
-**Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.** <!-- TODO: Fallback translation -->
+**Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.**
 
-Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vorläufig solche Lautzusammenstöße! <!-- TODO: Fallback translation -->
+Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vorläufig solche Lautzusammenstöße!
 :::
 ### 4.1.5. Frageformeln
 
-Mittels dieser Pronomina bildet man z.B. folgende Frageformeln: <!-- TODO: Fallback translation -->
+Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
 
 ::: no-header
 | | | | |
@@ -87,23 +79,23 @@ Mittels dieser Pronomina bildet man z.B. folgende Frageformeln: <!-- TODO: Fallb
 | ^^ | **Maskulinum** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
 | ^^ | **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 :::
-Ein Beispiel anderer Fragen: <!-- TODO: Fallback translation -->
+Ein Beispiel anderer Fragen:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Antwort: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hier kann man im Nominalsatz das Subjekt z.B. an den Anfang stellen, um den Anschluss an die Frage zu betonen.) <!-- TODO: Fallback translation -->
+> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Antwort: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hier kann man im Nominalsatz das Subjekt z.B. an den Anfang stellen, um den Anschluss an die Frage zu betonen.)
 
-ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf solche Fragen geben können, entsprechen selbstverständlich noch nicht in jeder Hinsicht idiomatisch gutem Sanskrit. <!-- TODO: Fallback translation -->
+ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf solche Fragen geben können, entsprechen selbstverständlich noch nicht in jeder Hinsicht idiomatisch gutem Sanskrit.
 
 ## 4.2. 练习
 
-**A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) und beantworten Sie die Fragen auf Sanskrit:** <!-- TODO: Fallback translation -->
+**A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) und beantworten Sie die Fragen auf Sanskrit:**
 
-śruti, śiva, brāhmaṇa, dvija (Plural), indrāṇī, dhenu, tulādhara, kālidāsa <!-- TODO: Fallback translation -->
+śruti, śiva, brāhmaṇa, dvija (Plural), indrāṇī, dhenu, tulādhara, kālidāsa
 
 = ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
 
-**B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (⟪एतत्किम्⟫) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):** <!-- TODO: Fallback translation -->
+**B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (⟪एतत्किम्⟫) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):**
 
 ::: media
 ![](/images/lekt0401.webp)
-(Bildquelle: [Details](/licenses#lekt0401)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt0401))
 :::

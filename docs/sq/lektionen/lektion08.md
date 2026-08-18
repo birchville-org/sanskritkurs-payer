@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # Mësimi 8
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Die Bildung von Nomina (kṛt- und taddhita-Suffixe)
-- Wichtige Nominalsuffixe (-a, -ana, -tra, -ti, -tva, -tā)
-- Die 8. Präsensklasse (tanādi)
-- Die Konjugation von **kṛ** (tun, machen)
-:::
 
 ## 8.1. Zur Bildung von Nomina
 

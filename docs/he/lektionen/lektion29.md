@@ -264,12 +264,4 @@ PPP ⟪पूजित⟫
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
 :::
-::: deleteme-box
 
-**lekt2903:** פּוּשְׁקָר = ⟪पुष्कर⟫ [מקור התמונה: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- תאריך גישה: 2008-12-20. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [מקור התמונה: Khalid Mahmood / ויקיפדיה. רישיון GNU FDL]
-**lekt2902:** (ציור: נמקה פייאר, 2002-11)
-::: <!-- TODO: Fallback translation -->
-
-
-:::

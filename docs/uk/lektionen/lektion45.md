@@ -5,7 +5,7 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  -→
 
 # Урок 45
 
@@ -111,7 +111,7 @@ A) Перекладіть санскритською (для минулого ч
 ::: indent
 щодо розколу громади (⟪सङ्घभेद⟫) див.:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Основні поняття чернечих правил і орденського права Тхеравади. -- Частина I. -- (Матеріали до основних понять буддизму). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Основні поняття чернечих правил і орденського права Тхеравади. -- Частина I. -- (Матеріали до основних понять буддизму). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. Чи насолоджувалися ви землею?
 
@@ -145,12 +145,5 @@ B) Перекладіть:
 ![](/images/lekt4502.jpg)
 Рис.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Джерело зображення: [Деталі](/uk/licenses#lekt4502))
-:::
-
-::: deleteme-box
-
-**lekt4501.jpg**: Текстильний блокдрук, Ахмедабад. -- Джерело зображення: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Ім'я автора, некомерційне використання, подібне до оригіналу)
-
-**lekt4502.jpg**: Джерело зображення: John Isaac / Світовий банк. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Ім'я автора, некомерційне використання, без змін)
 :::
 

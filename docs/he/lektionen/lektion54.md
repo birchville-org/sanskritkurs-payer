@@ -269,11 +269,3 @@ metrik-schema
 (מקור התמונה: [פרטים](/he/licenses#lekt5401))
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ טירופטי = తిరుపతి [מקור התמונה: Raji Srinivas / ויקיפדיה. רישיון GNU FD]
-
-**lekt5401:** טמיל נאדו [מקור התמונה: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- נגיש ב-2009-01-28. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, שימוש לא מסחרי, shre alike)]
-
-:::
-

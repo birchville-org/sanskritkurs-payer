@@ -4,11 +4,11 @@
 
 ![](/images/schrift009.webp)
 
-A jha betűhöz a következő alak is elterjedt: <!-- TODO: Fallback translation -->
+A jha betűhöz a következő alak is elterjedt:
 
 ![](/images/schrift010.jpg)
 
-Régebbi, Kalkuttában nyomtatott könyvekben a jha betűhöz az alábbi alakok is előfordulnak: <!-- TODO: Fallback translation -->
+Régebbi, Kalkuttában nyomtatott könyvekben a jha betűhöz az alábbi alakok is előfordulnak:
 
 ![](/images/schrift011.jpg)
 

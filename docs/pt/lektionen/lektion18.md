@@ -426,13 +426,3 @@ D) Traduza:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt1801:** "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya." [Fonte da imagem: Nagesh Rao / Wikipedia, GNU FDLicense]
-
-**lekt1802:** 1770 Print [Fonte da imagem: Wikipedia, Domínio público]
-
-**lekt1803:** ⟪गन्धार⟫ séculos I/II d.C. [Fonte da imagem: Wikipedia, Domínio público]
-
-**lekt1804:** Casamento = ⟪विवाह⟫ m., um importante ⟪संस्कारः⟫ [Fonte da imagem: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Acessado em 2008-12-08. -- Licença Creative Commons (Atribuição, uso não comercial, sem obras derivadas)]
-:::

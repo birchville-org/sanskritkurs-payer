@@ -10,18 +10,10 @@ status: stable
 
 # Lecziun 7
 
-::: deleteme-box
-**En questa lecziun avais Vus:**
-- La frasa verbala cun object direct
-- L'accusativ dals nomens e pronomins
-- Il Sandhi da -n final
-- Il neutrum dals stems a
-- Las classas da prezens senza tema (a l'exemple da la 5. classa)
-:::
 
 ::: center
 **Sprech da la emna**
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::
@@ -146,7 +138,7 @@ p.ex. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "El ottien
 - **-n** davant **ṭ-, ṭh-** » **-ṃṣ**
 - **-n** davant **t-, th-** » **-ṃs**
 p.ex. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "e ils deus (Akk.)"
-**devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "ma ils deus (Akk.)" <!-- TODO: Fallback translation -->
+**devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "ma ils deus (Akk.)"
 
 4. Sche betg suenter vocal curta (vegn tractà pli tard), resta **-n** final en tut ils auters cas senza midada.
 :::
@@ -181,7 +173,7 @@ La quinta classe da präsens furma in cunussì stem da präsens atematic, quai v
 
 **Tut las autras formas han il stem da präsens debel.**
 :::
-### 7.5.1. Desinentas primaras da la terza persuna plural cun stems atematics <!-- TODO: Fallback translation -->
+### 7.5.1. Desinentas primaras da la terza persuna plural cun stems atematics
 
 ::: grammar-box
 **Cun stems da präsens atematics èn las desinentas primaras da la terza persuna plural:**

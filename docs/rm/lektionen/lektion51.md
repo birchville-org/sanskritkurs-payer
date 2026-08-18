@@ -17,7 +17,7 @@ status: stable
 * **-a**
 * **-t**
 
-**formatads. Els èn numna d'agent, id est els designeschan in agent (⟪कर्तृ⟫), che executa l'acziun designada da la radischa suttamessa.** <!-- TODO: Fallback translation -->
+**formatads. Els èn numna d'agent, id est els designeschan in agent (⟪कर्तृ⟫), che executa l'acziun designada da la radischa suttamessa.**
 
 **Tals cumposts vegnan dals commentaturs nativs betg dissolvs per mez da cumbinaziuns nominalas, ma cun furmas verbalas:**
 
@@ -78,13 +78,13 @@ c) ⟪कृत्⟫-suffig -a
 
 \-⟪घ्न⟫ 3 "colpend a mort" p.ex. ⟪कुलघ⟫ 3 "screindend las famiglias"
 
-\-⟪ज⟫ 3 (jña » jā » profund. j + a) "derivà da, naschì en" p.ex. ⟪आत्मज⟫ "figl" <!-- TODO: Fallback translation -->
+\-⟪ज⟫ 3 (jña » jā » profund. j + a) "derivà da, naschì en" p.ex. ⟪आत्मज⟫ "figl"
 
 \-⟪ज्ञ⟫ 3 "savèr" (jñ-a) p.ex. ⟪सर्वज्ञ⟫ 3 "tut-savèr"
 
 \-⟪द⟫ 3 "donà" (d-a) p.ex. ⟪वारिद⟫ m. "nuvla" (⟪वारि⟫ n. "aua")
 
-\-⟪प⟫ 3 "baind" (p-a) p.ex. ⟪द्विप⟫ m. "elefant (dusvies baint)" <!-- TODO: Fallback translation -->
+\-⟪प⟫ 3 "baind" (p-a) p.ex. ⟪द्विप⟫ m. "elefant (dusvies baint)"
 
 \-⟪प⟫ 3 "protectend" (p-a) p.ex. ⟪भूप⟫ "la terra protectend = Re"
 
@@ -172,7 +172,7 @@ Paradigmas cumpletas cun Kielhorn, Grammatica p. 16ss.
 * **-ś » -ṭ u -k**
 * **-ṣ » -ṭ u -k**
 :::
-exempels: <!-- TODO: Fallback translation -->
+exempels:
 
 ⟪सत्यवाच्⟫ 3 "dicend la veritad" (⟪बहुव्रीहि⟫)
 
@@ -226,7 +226,7 @@ Neutrum
 Singular Nom.Akk.Vok. ⟪शेषभुक्⟫
 Plural Nom.Akk.Vok. ⟪शेषभुञ्जि⟫
 :::
-⟪परिव्राज्⟫ m. "Wandermönch" <!-- TODO: Fallback translation -->
+⟪परिव्राज्⟫ m. "Wandermönch"
 
 ::: indent
 Masculin, Feminin:
@@ -252,7 +252,7 @@ Abb.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Sursa da l'imagines: [Detagls](/rm/licenses#lekt5104))
 :::
-### 51.2.3. Stems on -h <!-- TODO: Fallback translation -->
+### 51.2.3. Stems on -h
 
 ::: grammar-box
 **Avant ina desinenza cumenzanta cun vocala resta il -h senza midada.**
@@ -319,7 +319,7 @@ Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 
 ⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
 :::
-## 51.4. Sandhi von anlautendem ch- <!-- TODO: Fallback translation -->
+## 51.4. Sandhi von anlautendem ch-
 
 ::: grammar-box
 **Inlautend ch- vegn suttà da curt vocal, suenter ⟪मा⟫ "betg" e suenter ⟪आ⟫ "a" sustituid cun chch-:**
@@ -348,7 +348,7 @@ p.ex. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 Fig.:
 (Fonte da l'imagia: [Detagls](/rm/licenses#lekt5105))
 :::
-⟪अतिथि⟫ m.: ospit <!-- TODO: Fallback translation -->
+⟪अतिथि⟫ m.: ospit
 
 ⟪अभ्यन्तर⟫ 3: en l'intern, il pli proxima; m. il proxim parent, autocton
 
@@ -376,7 +376,7 @@ Abb.: ⟪जटा⟫
 ⟪ऋषिकेश⟫
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt5107))
 :::
-⟪तुल्य⟫ 3: egal, comparabel (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
+⟪तुल्य⟫ 3: egal, comparabel (⟪तृतीयया⟫)
 
 ⟪तरय⟫ 3 (f.: ⟪तरयी⟫): tripartì, cumpost da trais parts
 
@@ -429,7 +429,7 @@ Kolkata = কলকাতা
 :::
 ⟪उपहार⟫ m.: presentaziun, sacrifici, don
 
-⟪मधु⟫ n.: miel, bevanda dolça, vin da mel (vin da mel) <!-- TODO: Fallback translation -->
+⟪मधु⟫ n.: miel, bevanda dolça, vin da mel (vin da mel)
 
 ::: media
 ![](/images/lekt5109.webp)
@@ -465,7 +465,7 @@ Fig.: ⟪कौशिकः⟫
 Gufl da Brahma (_Athene brama_), Mahesana = મહેસાણા
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: uccel <!-- TODO: Fallback translation -->
+⟪शकुनि⟫ m.: uccel
 
 ⟪श्वन्⟫ m.: chuan
 
@@ -494,7 +494,7 @@ Fig.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Fonte da figura: [Detalls](/rm/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: crud, crudel <!-- TODO: Fallback translation -->
+⟪क्रूर⟫ 3: crud, crudel
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫: unger, smirgiar
 
@@ -513,7 +513,7 @@ Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte da figura: [Detalls](/rm/licenses#lekt5115))
 :::
-⟪भुजंग⟫ m.: serpe <!-- TODO: Fallback translation -->
+⟪भुजंग⟫ m.: serpe
 
 ::: media
 ![](/images/lekt5116.webp)
@@ -549,14 +549,14 @@ Hope Diamond da Guntur = గుంటూరు, oz Museum Smithsonian d’istorg
 :::
 ⟪वन⟫ n.: guaud
 
-⟪मद⟫ m.: er "saff da la bronscha" d’in elefant (en [Musht](http://en.wikipedia.org/wiki/Musth))) <!-- TODO: Fallback translation -->
+⟪मद⟫ m.: er "saff da la bronscha" d’in elefant (en [Musht](http://en.wikipedia.org/wiki/Musth)))
 
 ::: media
 ![](/images/lekt5117.webp)
 Fig.: ⟪मदः⟫
 (Fonta da l'imagia: [Detagls](/rm/licenses#lekt5117))
 :::
-⟪राग⟫ m.: ermaunamain: colur, colur cotschna <!-- TODO: Fallback translation -->
+⟪राग⟫ m.: ermaunamain: colur, colur cotschna
 
 ⟪कालन⟫ n.: guaud
 
@@ -604,40 +604,3 @@ Explicaziun: -⟪अभिषेकौ⟫ Nom.Akk.Voc.Dual.masc. (Dualdvandva)
 
 ⟪आसीच्चेति⟫ ⟪।⟫ ⟪मे⟫ ⟪मम⟫ ⟪मनसि⟫ ⟪चित्त⟫ ⟪आसीद्बभूव⟫ ⟪।⟫ ⟪खेद⟫ ⟪इति⟫ ⟪शेषः⟫ ⟪।⟫ ⟪तदेव⟫ ⟪दर्शयति⟫ -- ⟪अहो⟫ ⟪इत्यादिना⟫ ⟪।⟫ ⟪अहो⟫ ⟪इत्याश्चर्ये⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪भिल्लानां⟫ ⟪जीवितं⟫ ⟪प्राणितं⟫ ⟪मोहो⟫ ⟪ऽज्ञानं⟫ ⟪प्रायं⟫ ⟪प्रचुरं⟫ ⟪यत्र⟫ ⟪तादृशम्⟫ ⟪।⟫ ⟪चः⟫ ⟪पुनरर्थे⟫ ⟪।⟫ ⟪चरितमाचरणं⟫ ⟪साधुजनैः⟫ ⟪सज्जनजनैर्गर्हितं⟫ ⟪निन्दितम्⟫ ⟪।⟫ ⟪तदेव⟫ ⟪विशेषतो⟫ ⟪दर्शयति⟫ -- ⟪तथा⟫ ⟪हीति⟫ ⟪।⟫ ⟪पुरुषेति⟫ ⟪।⟫ ⟪पुरुषस्य⟫ ⟪पुंसो⟫ ⟪यत्पिशितं⟫ ⟪मांसं⟫ ⟪तस्य⟫ ⟪य⟫ ⟪उपहारो⟫ ⟪भगवत्यै⟫ ⟪नैवेद्यदर्शनं⟫ ⟪तस्मिन्धर्मबुद्धिः⟫ ⟪श्रेयोधीः⟫ ⟪।⟫ ⟪आहार⟫ ⟪इति⟫ ⟪।⟫ ⟪आहारः⟫ ⟪प्रत्यवसानं⟫ ⟪साधुजनैर्गर्हितो⟫ ⟪निन्दितो⟫ ⟪मधुमांसादिर्मधुः⟫ ⟪मद्यं⟫ ⟪माक्षिकं⟫ ⟪वा⟫ ⟪।⟫ ⟪मांसं⟫ ⟪प्रतीतम्⟫ ⟪।⟫ ⟪ते⟫ ⟪आदौ⟫ ⟪यस्येति⟫ ⟪बहुव्रीहिः⟫ ⟪।⟫ ⟪आदिशब्दात्कन्दादिपरिग्रहः⟫ ⟪।⟫ ⟪श्रम⟫ ⟪इति⟫ ⟪।⟫ ⟪श्रमः⟫ ⟪शक्तिसाधनायासो⟫ ⟪मृगयाखेटकः⟫ ⟪।⟫ ⟪शास्त्रमिति⟫ ⟪।⟫ ⟪शिवा⟫ ⟪सृगाली⟫ ⟪तस्य⟫ ⟪रुतं⟫ ⟪शब्दितं⟫ ⟪शास्त्रमुच्चस्वरवेदपाठः⟫ ⟪।⟫ ⟪प्रबोधजनकत्वसाम्यात्तदुपमानम्⟫ ⟪।⟫ ⟪सदिति⟫ ⟪।⟫ ⟪सदसतां⟫ ⟪शुभाशुभानां⟫ ⟪समुपदेष्टारो⟫ ⟪बोधकाः⟫ ⟪कौशिका⟫ ⟪उलूकाः⟫ ⟪।⟫ ⟪प्रज्ञेति⟫ ⟪।⟫ ⟪शकुनयः⟫ ⟪पत्त्रिणस्तेषां⟫ ⟪स्थूलमहत्त्वादिना⟫ ⟪ज्ञानं⟫ ⟪तदेव⟫ ⟪प्रज्ञा⟫ ⟪विवेकबुद्धिः⟫ ⟪।⟫ ⟪परीति⟫ ⟪।⟫ ⟪श्वानः⟫ ⟪सारमेयाः⟫ ⟪परिचिता⟫ ⟪विश्वासपालत्राणि⟫ ⟪।⟫ ⟪राज्यमिति⟫ ⟪।⟫ ⟪शून्यासु⟫ ⟪जनरहितासु⟫ ⟪विन्ध्याटवीषु⟫ ⟪राज्यं⟫ ⟪स्वामित्वम्⟫ ⟪।⟫ ⟪आपानकेति⟫ ⟪।⟫ ⟪उत्सवः⟫ ⟪संतुष्टिकार्यं⟫ ⟪तदेवापानमेवापानकम्⟫ ⟪।⟫ ⟪स्वार्थे⟫ ⟪कः⟫ ⟪।⟫ ⟪पानगोष्ठिका⟫ ⟪।⟫ ⟪मित्राणीति⟫ ⟪।⟫ ⟪क्रूरं⟫ ⟪यत्कर्म⟫ ⟪तत्साधनानि⟫ ⟪तद्धेतुभूतानि⟫ ⟪धनूंष्येव⟫ ⟪चापान्येव⟫ ⟪मित्राणि⟫ ⟪सहृदः⟫ ⟪।⟫ ⟪हितचिन्तकानीति⟫ ⟪यावत्⟫ ⟪।⟫ ⟪सहाया⟫ ⟪इति⟫ ⟪।⟫ ⟪विषेण⟫ ⟪दिग्धं⟫ ⟪मुखमाननं⟫ ⟪येषामेवंविधाः⟫ ⟪सायका⟫ ⟪बाणास्त⟫ ⟪एव⟫ ⟪सहाया⟫ ⟪इष्टकार्यकर्तृत्वात्साहाय्यकारिणः⟫ ⟪।⟫ ⟪क⟫ ⟪इव⟫ ⟪।⟫ ⟪भुजंगाः⟫ ⟪सर्पा⟫ ⟪इव⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪विषदिग्धमुखत्वं⟫ ⟪स्वाभाविकम्⟫ ⟪।⟫ ⟪तेषामौपाधिकमिति⟫ ⟪भावः⟫ ⟪।⟫ ⟪गीतमिति⟫ ⟪।⟫ ⟪मुग्धा⟫ ⟪अनभिज्ञा⟫ ⟪ये⟫ ⟪मृगा⟫ ⟪हरिणास्तेषामुत्साहकारि⟫ ⟪स्तब्धताविधायि⟫ ⟪गीतं⟫ ⟪गानम्⟫ ⟪।⟫ ⟪कलत्रेति⟫ ⟪।⟫ ⟪परयोषितो⟫ ⟪ऽन्यस्त्रिय⟫ ⟪एव⟫ ⟪बन्दी⟫ ⟪ग्रहकस्तद्रूपत्वेन⟫ ⟪गृहीताः⟫ ⟪स्त्रीकृताः⟫ ⟪कलत्राणि⟫ ⟪स्वपत्न्यः⟫ ⟪।⟫ ⟪क्रूरेति⟫ ⟪।⟫ ⟪क्रूरात्मभिर्दुष्टात्मभिः⟫ ⟪शार्दुलैश्चित्रकैः⟫ ⟪समं⟫ ⟪संवासः⟫ ⟪सहावस्थानम्⟫ ⟪।⟫ ⟪पश्वेति⟫ ⟪।⟫ ⟪पशवो⟫ ⟪महिषास्तेषां⟫ ⟪रुधिरेण⟫ ⟪रक्तेन⟫ ⟪देवतार्चनं⟫ ⟪देवपूजनम्⟫ ⟪।⟫ ⟪मांसेनेति⟫ ⟪।⟫ ⟪मांसेन⟫ ⟪पिशितेन⟫ ⟪बलिर्हन्तकरस्तत्कर्म⟫ ⟪तत्कृत्यम्⟫ ⟪।⟫ ⟪चौर्येणेति⟫ ⟪।⟫ ⟪चौर्येण⟫ ⟪परद्रव्यापहारेण⟫ ⟪जीवनं⟫ ⟪प्राणधारणम्⟫ ⟪।⟫ ⟪भूषणनीति⟫ ⟪।⟫ ⟪भूषणान्याभरणानि⟫ ⟪भुजंगमणयः⟫ ⟪सर्परत्नानि⟫ ⟪।⟫ ⟪पर्वतवासित्वात्तेषां⟫ ⟪ते⟫ ⟪सुलभा⟫ ⟪इति⟫ ⟪भावः⟫ ⟪।⟫ ⟪वनेति⟫ ⟪।⟫ ⟪वनकरिणामरण्यहस्तिनां⟫ ⟪मदैर्दानवारिभिरङ्गरागो⟫ ⟪विलेपनम्⟫ ⟪।⟫ ⟪यस्मिन्निति⟫ ⟪।⟫ ⟪अनिर्दिष्टनामनि⟫ ⟪कानने⟫ ⟪वने⟫ ⟪निवसन्ति⟫ ⟪निवासं⟫ ⟪कुर्वन्ति⟫ ⟪तदेव⟫ ⟪काननमशेषतः⟫ ⟪समग्रत⟫ ⟪उत्खातमुत्पाटितं⟫ ⟪मूलं⟫ ⟪मध्यभागो⟫ ⟪यस्यैवंभूतं⟫ ⟪कुर्वते⟫ ⟪विदधत⟫ ⟪इति⟫ ⟪पूर्वोक्तप्रकारेण⟫ ⟪मयि⟫ ⟪चन्तयति⟫ ⟪ध्यायति⟫ ⟪सत्येव⟫ ... ⟪॥⟫
 
-::: deleteme-box
-
-**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [Sursa da l'imagines: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Access il 2009-01-13. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuziun)]
-
-**lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [Sursa da l'imagines: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- Access il 2009-01-13. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuziun)]
-
-**lekt5102:** ⟪नेपाल⟫ [Sursa da l'imagines: amanderson2. -- [http://www.flickr.com/photos/amanderson/2420198291/](http://www.flickr.com/photos/amanderson/2420198291/). -- Access il 2009-01-13. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuziun)]
-
-**lekt5104:** ⟪पुष्कर⟫ [Sursa da l'imagines: calamur. -- [http://www.flickr.com/photos/gargi/360186369/](http://www.flickr.com/photos/gargi/360186369/). -- Access il 2009-01-13. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuziun, betg adina comerciala, naginas modificaziuns)]
-
-**lekt5105:** [sursaint da l’imagina: Wikipedia, dominic public]
-
-**lekt5107:** ⟪ऋषिकेश⟫ [sursaint da l’imagina: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Access il 2009-01-13. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (attribuziun, nagina utilisaziun commerziala, share alike)]
-
-**lekt5108:** Kolkata = কলকাতা [sursaint da l’imagina: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- Access il 2009-01-13. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (attribuziun, nagina utilisaziun commerziala, share alike)]
-
-**lekt5109:** City Palace, ⟪उदयपुर⟫ [sursaint da l’imagina: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Access il 2009-01-13. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (attribuziun, nagina utilisaziun commerziala, share alike)]
-
-**lekt5112:** Cusch da ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [sursaint: Wikipedia. Public domain]
-
-**lekt5113:** _Canis aureus_, Kalatop Khajjiar Sanctuary [sursaint: gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- Access il 2009-01-13. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-
-**lekt5114:** Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [sursaint: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Access il 2009-01-13. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-
-**lekt5115:** Karnataka = ಕರ್ನಾಟಕ [sursaint: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Access il 2009-01-13. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribuziun, nagina utilizaziun cummerciala)]
-
-**lekt5114:** ⟪जोधपुर⟫
-
-**lekt5115:** Bangalore = ಬೆಂಗಳೂರು [surs da l'imagina: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/387955362/](http://www.flickr.com/photos/mattlogelin/387955362/). -- Access il 13 da schaner 2009. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (numinaziun, nagina utilisaziun comerciala)]
-
-**lekt5116:** Vipra da caten (Daboia russelii), Bangalore = ಬೆಂಗಳೂರು [surs da l'imagina: teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/). -- Access il 13 da schaner 2009. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (numinaziun, nagina utilisaziun comerciala, cun istessa licenza)]
-
-**lekt5118:** Hope Diamond da Guntur = ಗುಂತೂರು, oz Smithsonian Museum of Natural History, Washington DC [surs da l'imagina: David Bjorgen / Wikipedia. Licenza GNU FDLicense]
-
-**lekt5117:** [Fonta da l'imagines: muzina_shanghai. -- [http://www.flickr.com/photos/muzina_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/). -- Access il 13 da schaner 2009. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nominaziun, nagina utilizaziun commerziala, cumparegliabel)]
-
-:::

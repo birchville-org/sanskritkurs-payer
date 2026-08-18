@@ -145,13 +145,7 @@ B) Tradusci:
 ![](/images/lekt4502.jpg)
 Imag.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Fonte da imagem: [Detalles](/rm/licenses#lekt4502))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
 
-**lekt4501.jpg**: Stampa da blocch da textil, Ahmedabad. -- Sursaint dal maletg: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Access il 2009-01-08. -- Licenza Creative Commons (numinaziun, nagina utilizaziun commerziala, share alike)
-
-**lekt4502.jpg**: Font dal dretg d’imagineschun: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Access il 2009-01-08. -- Licenza Creative Commons (Nominaziun, nagina utilizaziun commerziala, nagina modifitgaziun)
 :::
 

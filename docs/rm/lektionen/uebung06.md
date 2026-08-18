@@ -93,7 +93,7 @@ kṣatriyā viśanti.
 
 ⟪क्षत्रिया⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-6\. Il SIGNUR lascha emanar. <!-- TODO: Fallback translation -->
+6\. Il SIGNUR lascha emanar.
 
 īśvaraḥ sṛjati.
 
@@ -146,11 +146,11 @@ sā brāhmaṇī nṛtyati.
 Abb.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Sursa da l'imagines: [Detagls](/licenses#uebung004))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercizi da repetiziun Lecziun 6
 
-A) Exercizi d'inserziun: Formai dumondas, sin las qualas las frasis, che els formeschan suenter ils exercizis d'inserziun, respundan: <!-- TODO: Fallback translation -->
+A) Exercizi d'inserziun: Formai dumondas, sin las qualas las frasis, che els formeschan suenter ils exercizis d'inserziun, respundan:
 
 1\. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -420,7 +420,7 @@ E) Tradusci:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
+Annapūrṇā ist eine Gottheit.
 
 2\. śūdretarā.
 
@@ -603,4 +603,3 @@ sarvathā kuśalam.
 Abb.: ⟪देवतान्नपूर्णा⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung005))
 :::
- <!-- TODO: Fallback translation -->

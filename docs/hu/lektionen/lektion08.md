@@ -5,20 +5,13 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
-# 8. lecke <!-- TODO: Fallback translation -->
+# 8. lecke
 
-::: deleteme-box
-**Ebben a leckében megtanulja:**
-- A főnevek képzése (kṛt- és taddhita-suffixumok)
-- Fontos főnévi suffixumok (-a, -ana, -tra, -ti, -tva, -tā)
-- A 8. jelen időosztály (tanādi)
-- A **kṛ** ragozása (tun, csinálni)
-::: <!-- TODO: Fallback translation -->
 
 :::
-## 8.1. A főnevek képzéséről <!-- TODO: Fallback translation -->
+## 8.1. A főnevek képzéséről
 
 A hagyományos indiai nyelvtanban a névmástörzsek képzésére szolgáló toldalékok között megkülönböztetünk:
 
@@ -36,7 +29,7 @@ A hagyományos indiai nyelvtanban a névmástörzsek képzésére szolgáló tol
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
   - **kārakakṛt** (⟪कारककृत्⟫) » névszóképzők az elkövetőre (olyan személyt jelölnek, aki a gyökér által kifejezett cselekvést végzi)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » névszóképzők a cselekvésre (a gyökér által kifejezett cselekvést jelölik) illetve absztraktumok <!-- TODO: Fallback translation -->
+  - **kṛtikṛt** (⟪कृतिकृत्⟫) » névszóképzők a cselekvésre (a gyökér által kifejezett cselekvést jelölik) illetve absztraktumok
 
 - **taddhita**
   - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » melléknevek
@@ -45,16 +38,16 @@ A hagyományos indiai nyelvtanban a névmástörzsek képzésére szolgáló tol
   - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » fokozás (komparatív, szuperlatív), összehasonlítás
   - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » sorszámok (első stb.)
   - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » esetragok helyett (pl. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-képzésen ⟪च्वि⟫, **-sāt** -⟪सात्⟫) <!-- TODO: Fallback translation -->
+  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-képzésen ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
 **Osztályozás az ablaut alapján:**
 - **guṇya** (⟪गुण्य⟫): magas fokú képzés
 - **na guṇya** (⟪न⟫ ⟪गुण्य⟫): mély fokú képzés
-- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): nyújtott fokú képzés <!-- TODO: Fallback translation -->
+- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): nyújtott fokú képzés
 
 ## 8.3. Néhány fontos névképző utótag
 
-### 8.3.1. -a m. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
 **A kṛt -a utótag hímes (ritkábban középes) főneveket képez, amelyek egy cselekvést vagy állapotot jelölnek, amelyet a gyökér fejez ki; néha mellékneveket vagy főneveket is, amelyek a cselekvés végzőjét (kartṛ) fejezik ki, amelyet a igegyökér jelöl. A rövid penultima (= magánhangzó mássalhangzóra, amelyre a gyökér végződik) vagy szóvégi gyökmagánhangzó esetén általában magasabb fokú (guṇa) vagy nyújtott fokú (vṛddhi) helyettesítést alkalmazunk.**
@@ -74,7 +67,7 @@ A hagyományos indiai nyelvtanban a névmástörzsek képzésére szolgáló tol
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "a lesz, a (valami) lenni, természet, jellem" |
 | **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "harcos, katona, katonaság" |
 
-### 8.3.2. -ana n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
 **A kṛt -ana képző általában középnemű főneveket alkot, amelyek egy cselekvést, állapotot vagy azt az eszközt/fegyvert jelölik, amelyen keresztül a gyökérből vagy igastámból származó cselekvés megvalósul. A gyökör rövid penultimájára vagy végződő magánhangzójára általában magasabb fokú (guṇa) helyettesítés kerül.**
@@ -94,7 +87,7 @@ A hagyományos indiai nyelvtanban a névmástörzsek képzésére szolgáló tol
 ![](/images/lekt0801.webp)
 Kép: Maa Batakali Darshan, Puri, Orissa
 (Képmegjelenés: [Részletek](/hu/licenses#lekt0801))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: note-box
@@ -104,11 +97,11 @@ Az áhítatos hinduk azért mennek a templomba, hogy elnyerjék Isten látását
 (Forrás: Wikipédia)
 :::
 
-### 8.3.3. -tra n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
 **A -tra kṛt-képző (többnyire) semlegesnemű főneveket képez, amelyek azt az eszközt vagy szerszámot jelölik, amely által a gyök által jelölt cselekvés létrejön. A gyök rövid utolsó előtti magánhangzóját és a szóvégi magánhangzót a guṇa fok helyettesíti.**
-::: <!-- TODO: Fallback translation -->
+:::
 
 **Példák:**
 
@@ -117,11 +110,11 @@ Az áhítatos hinduk azért mennek a templomba, hogy elnyerjék Isten látását
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(A vezetés eszköze =) szem" |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hallóeszköz=) fül" |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Gondolkodás eszköze:) versmondat, 'mágikus' formula (mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "szövőfonat" | <!-- TODO: Fallback translation -->
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "szövőfonat" |
 
 :::
 ::: media
-**Az eredeti mantra Oṃ (⟪ॐ⟫) különböző indiai szövegekben** <!-- TODO: Fallback translation -->
+**Az eredeti mantra Oṃ (⟪ॐ⟫) különböző indiai szövegekben**
 
 | ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
 | :---: | :---: |
@@ -131,15 +124,15 @@ Az áhítatos hinduk azért mennek a templomba, hogy elnyerjék Isten látását
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
 (Képmegjelenések: [Részletek](/hu/licenses#lekt0803))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
-### 8.3.4. -ti f. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
 **A kṛt képző -ti nőnemű főneveket alkot, amelyek általában a gyökér által jelölt cselekvést vagy állapotot fejezik ki. A gyökér alakja mély fokú.**
 :::
-**Példák:** <!-- TODO: Fallback translation -->
+**Példák:**
 
 | Tő:br⟪धातु⟫ | + -ti (kṛt) | Jelentés |
 | :--- | :--- | :--- |
@@ -149,16 +142,16 @@ Az áhítatos hinduk azért mennek a templomba, hogy elnyerjék Isten látását
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanáció, teremtés" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "tekintet, arc, látásmód" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "járás, pálya, a járás célja" (a *gm » ga + -ti-ból) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "gondolkodás, gondolat, vélemény" (a *mn » ma + -ti-ból) | <!-- TODO: Fallback translation -->
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "gondolkodás, gondolat, vélemény" (a *mn » ma + -ti-ból) |
 
-*Megjegyzés: A \* jel egy alak előtt azt jelenti, hogy ez az alak a szanszkritban nem fordul elő, hanem elméletileg levezetett, egy adott képzés feltételeként. A **gam** mély foka gṃ = \*gm, az m-t a úgynevezett nasalis sonans helyettesíti **a** » **ga**. Hasonló érvényes a **man** » **ma** esetében. <!-- TODO: Fallback translation -->
+*Megjegyzés: A \* jel egy alak előtt azt jelenti, hogy ez az alak a szanszkritban nem fordul elő, hanem elméletileg levezetett, egy adott képzés feltételeként. A **gam** mély foka gṃ = \*gm, az m-t a úgynevezett nasalis sonans helyettesíti **a** » **ga**. Hasonló érvényes a **man** » **ma** esetében.
 
 ### 8.3.5. -tva n., -tā f. (taddhita)
 
 ::: grammar-box
 **A taddhita képzők -tva n. és -tā f. absztrakt főneveket képeznek a főnevekhez. Az alapul szolgáló névi tő alakja változatlan marad.**
 :::
-**Példák:** <!-- TODO: Fallback translation -->
+**Példák:**
 
 | Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Jelentés |
 | :--- | :--- | :--- | :--- |
@@ -168,12 +161,12 @@ Az áhítatos hinduk azért mennek a templomba, hogy elnyerjék Isten látását
 
 Ezek a képzések gyakorlatilag bármely főnévhez létrehozhatók, és tudományos szanszkrit művekben nagyon gyakoriak.
 
-## 8.4. A 8. jelen időosztály (tanādi = ⟪तनादि⟫ = "tan stb.") <!-- TODO: Fallback translation -->
+## 8.4. A 8. jelen időosztály (tanādi = ⟪तनादि⟫ = "tan stb.")
 
 ::: grammar-box
 **Tőképzés:**
 - **Erős tő: Tő + -o-**
-- **Gyenge tő: Tő + -u- (magánhangzó előtt: -v-)** <!-- TODO: Fallback translation -->
+- **Gyenge tő: Tő + -u- (magánhangzó előtt: -v-)**
 
 Példa **tan** 8 U (⟪तन्⟫) "nyújt":
 - 3\. sg. P. **tanoti**
@@ -187,7 +180,7 @@ Példa **tan** 8 U (⟪तन्⟫) "nyújt":
 :::
 Megjegyzés: A vitához, hogy a **tan** valójában az 5. osztály gyöke-e (*tn » ta + no-), l. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
-A 8. osztály legfontosabb gyöke a **kṛ** 8 U (⟪कृ⟫) "tenni, csinálni". Ragozása szabálytalan: <!-- TODO: Fallback translation -->
+A 8. osztály legfontosabb gyöke a **kṛ** 8 U (⟪कृ⟫) "tenni, csinálni". Ragozása szabálytalan:
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "tenni, csinálni"**
@@ -203,7 +196,7 @@ A 8. osztály legfontosabb gyöke a **kṛ** 8 U (⟪कृ⟫) "tenni, csináln
 
 ## 8.5. Szószedet
 
-**Tanulják meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulják meg a következő szavakat:**
 
 - **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : diadalmaskodni, legyőzni
 - **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : megfogni, kapni, megszerezni
@@ -221,7 +214,7 @@ A 8. osztály legfontosabb gyöke a **kṛ** 8 U (⟪कृ⟫) "tenni, csináln
 - **śuka** m. ⟪शुक⟫ : papagáj
 - **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : esni, repülni
 - **patrikā** f. ⟪पत्रिका⟫ : levél
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : karcolni, írni (eredetileg a kővel pálmalevélen, később általánosan) <!-- TODO: Fallback translation -->
+- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : karcolni, írni (eredetileg a kővel pálmalevélen, később általánosan)
 
 ::: media
 ![](/images/lekt0809.jpg)
@@ -285,7 +278,7 @@ Kép: **likh** (⟪लिख्⟫) : Batak írópálcika (Szumátra), amely val
 8. Mit tesznek ezek a harcosok?
 9. Kit lát a szem?
 10. Mit kívánnak az istenek?
-11. Mi az ok? <!-- TODO: Fallback translation -->
+11. Mi az ok?
 
 ## 8.7. Olvasási és fordítási gyakorlat
 

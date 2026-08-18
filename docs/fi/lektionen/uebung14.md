@@ -10,14 +10,14 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 14
 
-Käännä seuraavat sananlaskut ja opetelkaa ne ulkoa: <!-- TODO: Fallback translation -->
+Käännä seuraavat sananlaskut ja opetelkaa ne ulkoa:
 
 ⟪निचो⟫ ⟪वदति⟫ ⟪न⟫ ⟪कुरुते⟫
 ⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫
-Matala-arvoinen ihminen ei puhu eikä tee, hyvä ihminen ei puhu vaan tekee. <!-- TODO: Fallback translation -->
+Matala-arvoinen ihminen ei puhu eikä tee, hyvä ihminen ei puhu vaan tekee.
 
 ⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫
-Hyve on ihmisen koriste. <!-- TODO: Fallback translation -->
+Hyve on ihmisen koriste.
 
 ⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫
 Totuudella ihmiset saavat onnea.
@@ -28,7 +28,7 @@ Pahuudellisille ihmisille ei tule taivaaseen.
 ⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫
 Totuus on maailman valo.
 
-A) Muodosta yksikön ja monikon genetiivi seuraaville sanoille. Anna sanojen merkitys ja sukumerkki: <!-- TODO: Fallback translation -->
+A) Muodosta yksikön ja monikon genetiivi seuraaville sanoille. Anna sanojen merkitys ja sukumerkki:
 
 ⟪१⟩. ⟪अनृत⟩ : n. epätosi — ⟪अनृतस्य⟩ ⟪अनृतानाम्⟩
 
@@ -78,7 +78,7 @@ A) Muodosta yksikön ja monikon genetiivi seuraaville sanoille. Anna sanojen mer
 
 ⟪२४⟩. ⟪सुखवन्त्⟩ : 3 onnellinen — ⟪सुखवतः⟩ (⟪सुखवत्याः⟩) ⟪सुखवताम्⟩ (⟪सुखवतीनाम्⟩)
 
-⟪२५⟩. ⟪पुत्रवती⟩ : f. nainen, jolla on yksi tai useampi poika — ⟪पुत्रवत्याः⟩ ⟪पुत्रवतीनाम्⟩ <!-- TODO: Fallback translation -->
+⟪२५⟩. ⟪पुत्रवती⟩ : f. nainen, jolla on yksi tai useampi poika — ⟪पुत्रवत्याः⟩ ⟪पुत्रवतीनाम्⟩
 
 ⟪२६⟩. ⟪जल⟩ : n. vesi — ⟪जलस्य⟩ ⟪जलानाम्⟩
 
@@ -140,7 +140,7 @@ A) Muodosta yksikön ja monikon genetiivi seuraaville sanoille. Anna sanojen mer
 B) Käännä:
 
 ⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 vaihtoehtoa)
-Brahminin poika on mennyt brahminaisten kylään. Brahminin poika on käynyt brahminaisten kanssa kylässä. <!-- TODO: Fallback translation -->
+Brahminin poika on mennyt brahminaisten kylään. Brahminin poika on käynyt brahminaisten kanssa kylässä.
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 Uhrikivi on polttanut ruoan.
@@ -149,7 +149,7 @@ Uhrikivi on polttanut ruoan.
 Buddha vapautui totuuden ymmärryksellä.
 
 ⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫
-Vedaisten viisaat sanovat, että valheen puhuminen on väärin. <!-- TODO: Fallback translation -->
+Vedaisten viisaat sanovat, että valheen puhuminen on väärin.
 
 ⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫
 Ihmisiä ei vapauta uhraaminen jumalille.
@@ -170,17 +170,17 @@ Kaksi kertaa syntyneet toivovat saavansa karjaa.
 Rāma muistelee hyveikkään mestarin mantraa.
 
 ⟪११⟫. ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-Kenen (f.) poika on tämä poika? <!-- TODO: Fallback translation -->
+Kenen (f.) poika on tämä poika?
 
 ⟪१२⟫. ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-Kenelle nämä talot kuuluvat? <!-- TODO: Fallback translation -->
+Kenelle nämä talot kuuluvat?
 
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
-Kenen ruoka on tämä vedaisten viisas uhrannut? <!-- TODO: Fallback translation -->
+Kenen ruoka on tämä vedaisten viisas uhrannut?
 
 ::: media
 ![](/images/uebung017.webp)
 Kuv.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Kuvateksti: [Details](/licenses#uebung017))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

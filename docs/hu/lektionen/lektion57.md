@@ -1,18 +1,19 @@
 ---
-title: Lektion 57
-subtitle: "Aorist 4: s-Aorist"
+title: "Lecke 57"
+subtitle: "Aorista 4: s-Aorista"
 lesson_id: 57
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# 57. lecke <!-- TODO: Fallback translation -->
+# 57. lecke
 
 ## 57.1. Aorista 4: s-aorista
 
 ::: grammar-box
-**Az s-aoristát a legtöbb ⟪अनिट्⟫ gyökhöz képezzük, kivéve ha kizárólag más aoristaalakjuk van. A fakultatív ⟪अनिट्⟫ gyökök általában választhatják ezt vagy az iṣ-aoristát. A ⟪अनिट्⟫ gyökök, amelyek a ⟪परस्मैपद⟫-t képezik az 1., 2. vagy 6. aoristaalak után, szintén képezik a ⟪आत्मनेपद⟫-t az s-aorista alapján.** <!-- TODO: Fallback translation -->
+**Az s-aoristát a legtöbb ⟪अनिट्⟫ gyökhöz képezzük, kivéve ha kizárólag más aoristaalakjuk van. A fakultatív ⟪अनिट्⟫ gyökök általában választhatják ezt vagy az iṣ-aoristát. A ⟪अनिट्⟫ gyökök, amelyek a ⟪परस्मैपद⟫-t képezik az 1., 2. vagy 6. aoristaalak után, szintén képezik a ⟪आत्मनेपद⟫-t az s-aorista alapján.**
 
 **Alkotás: Augment + Tő + s + athematikus másodlagos végződés**
 :::
@@ -28,7 +29,7 @@ Végződések táblázata tőalkotó képzővel
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
 :::
 ::: grammar-box
-**Az általános hangtörvény kerül alkalmazásra, miszerint egy sziszegő mássalhangzó két záró mássalhangzó között kiesik (ld. ⟪उद्⟫ + ⟪स्थित⟩ » ⟪उत्थित⟩), azaz a szóképző képző -s- kiesik azoknak a végződéseinek előtti helyzetben, amelyek -t- vagy -th- betűvel kezdődnek (nem azonban nazálisok vagy r- után).** <!-- TODO: Fallback translation -->
+**Az általános hangtörvény kerül alkalmazásra, miszerint egy sziszegő mássalhangzó két záró mássalhangzó között kiesik (ld. ⟪उद्⟫ + ⟪स्थित⟩ » ⟪उत्थित⟩), azaz a szóképző képző -s- kiesik azoknak a végződéseinek előtti helyzetben, amelyek -t- vagy -th- betűvel kezdődnek (nem azonban nazálisok vagy r- után).**
 
 Példák:
 
@@ -38,12 +39,12 @@ Példák:
 2.sg.Ā a-kṣip + s + thās » ⟪अ:sig[⟪क्षिप्था]⟪स्
 :::
 Ilyen formák tartozhatnak a gyökaoristához is, és valószínűleg részben oda is tartoznak.
-Az indiai grammatikusok olyan formákat, mint ⟪अकृत (3.sg.Ā), a s-aoristához soroltak, amelyek egyértelműen a gyökaoristához tartoznak. E célból az indiai grammatikusok a következő ad-hoc hangszabályt találták ki az s-aoristára: <!-- TODO: Fallback translation -->
+Az indiai grammatikusok olyan formákat, mint ⟪अकृत (3.sg.Ā), a s-aoristához soroltak, amelyek egyértelműen a gyökaoristához tartoznak. E célból az indiai grammatikusok a következő ad-hoc hangszabályt találták ki az s-aoristára:
 
 ::: indent
 "Rövid magánhangzó után azok a „végződések”, amelyek -st- vagy -sth- betűkkel kezdődnek, elveszítik a -s-t."
 :::
-Egyébként figyelembe kell venni a szóvégi mássalhangzók s-vel való kapcsolatára vonatkozó hangszabályokat. <!-- TODO: Fallback translation -->
+Egyébként figyelembe kell venni a szóvégi mássalhangzók s-vel való kapcsolatára vonatkozó hangszabályokat.
 
 A -dhvam-ra vonatkozik:
 
@@ -93,7 +94,7 @@ Példák:
 ::: indent
 ⟪दृश्⟩ 3. sz.P ⟪अ⟩:sig[⟪द्राक्षी⟩]⟪त्⟩
 :::
-Auch der Aorist andere Tőn mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
+Auch der Aorist andere Tőn mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
@@ -114,7 +115,7 @@ Paradigmák:
 Ábra: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
 (Képmeghatározás: [Részletek](/hu/licenses#lekt5701))
 :::
-⟪कृ⟫ 8U "cselekszik" <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U "cselekszik"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -138,17 +139,17 @@ Paradigmák:
 **1.  A magánhangzós gyökök (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) képezik a s-aoristust magas fokú gyökváltozattal:**
 **⟪अगंसि⟫ ⟪।⟫ ⟪अमंसि⟫ ⟪।⟫ ⟪अरंस्त⟫**
 **Mellette a következő gyöknek (⟪गम्⟫) léteznek a szabályos, alacsony fokú gyökváltozatú alakok:**
-**⟪अगसि⟩ (« \*a-gm-si) ⟪।⟩ ⟪अगथास्⟩ ⟪।⟩ ⟪अगत⟩ (az aktusban a ⟨⟪गम्⟩⟩ tőhangzóval ellátott aoristust használja)** <!-- TODO: Fallback translation -->
+**⟪अगसि⟩ (« \*a-gm-si) ⟪।⟩ ⟪अगथास्⟩ ⟪।⟩ ⟪अगत⟩ (az aktusban a ⟨⟪गम्⟩⟩ tőhangzóval ellátott aoristust használja)**
 
 2.  A ⟨⟪पद्⟩⟩ 4Ā rendes (pl. ⟨⟪अपत्सि⟩⟩), de a 3.sg.Ā-ban a passzív tő-aoristus alakját veszi fel:
-⟨⟪अपादि⟩⟩ "ő ment" <!-- TODO: Fallback translation -->
+⟨⟪अपादि⟩⟩ "ő ment"
 
 3.  A ⟨⟪बुध्⟩⟩ Ā a 3.sg.Ā-ban választható módon felveheti a passzív tő-aoristus alakját:
 ⟨⟪अबोधि⟩⟩ / ⟨⟪अबुद्ध⟩⟩ "ő felismerte"
 :::
-## 57.2. Gyakorlat <!-- TODO: Fallback translation -->
+## 57.2. Gyakorlat
 
-A) Fordítsa le és határozza meg segédeszközök nélkül a következő alakokat, majd képezze hozzájuk a megfelelő aoristusformákat. A kausatívok kivételével és azoknak a gyököknek az esetében, amelyek s-aoristust képeznek, zárójelben meg van adva a megfelelő aoristus osztálya: <!-- TODO: Fallback translation -->
+A) Fordítsa le és határozza meg segédeszközök nélkül a következő alakokat, majd képezze hozzájuk a megfelelő aoristusformákat. A kausatívok kivételével és azoknak a gyököknek az esetében, amelyek s-aoristust képeznek, zárójelben meg van adva a megfelelő aoristus osztálya:
 
 1.  ⟪पेचिथ⟫
 2.  ⟪अवक्⟫ (⟪३⟫)
@@ -176,7 +177,7 @@ A) Fordítsa le és határozza meg segédeszközök nélkül a következő alako
 24.  ⟪कर्षन्ति⟫
 25.  ⟪अप्रच्छयन्⟫
 
-B) Fordítsa le és határozza meg a következő alakokat: <!-- TODO: Fallback translation -->
+B) Fordítsa le és határozza meg a következő alakokat:
 
 1.  ⟪चेलुः⟫
 2.  ⟪जन्तुः⟫
@@ -235,8 +236,3 @@ B) Fordítsa le és határozza meg a következő alakokat: <!-- TODO: Fallback t
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-::: deleteme-box
-
-**lekt5701:** [Képmeghatározás: Wikipedia. Közterület.]
-
-:::

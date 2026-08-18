@@ -1,8 +1,9 @@
 ---
-title: "Ejercicio 60"
+title: "[Ejercicio 60]"
 uebung_id: 60
-category: "Ejercicio"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

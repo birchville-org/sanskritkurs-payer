@@ -485,11 +485,3 @@ Example: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-::: deleteme-box
-
-**lekt2801:** Jadavpur University Management building. [Image source: noii's Flickr, 2008-12-19, CC BY-SA]
-**lekt2802:** ISKCON Temple Bangalore. [Image source: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Vīṇā player. [Image source: Kelvin Kay / Wikipedia. GNU FDLicense]
-**lekt2804:** Kṛṣṇa and Rādhā. Painting by Rāja Ravi Varmā. [Image source: Wikipedia. Public domain]
-**lekt2805:** Girl carrying load. Near Ahmedabad. [Image source: m-bot. Flickr, 2008-12-20. CC BY-SA]
-:::

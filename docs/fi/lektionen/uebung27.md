@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 27
 
-A) Sijoita seuraavassa lauseessa sulkulausekkeen ilmaukset lokatiiviin (⟪सप्तमी⟩) yksikköön ja — missä se on järkevää — monikkoon. <!-- TODO: Fallback translation -->
+A) Sijoita seuraavassa lauseessa sulkulausekkeen ilmaukset lokatiiviin (⟪सप्तमी⟩) yksikköön ja — missä se on järkevää — monikkoon.
 
 **⟪रामस्⟩ ... ⟪वसति⟩ ⟪।⟩** (⟪ग्राम⟩ ⟪।⟩ ⟪गुरु⟩ ⟪।⟩ ⟪सत्यवान्कविः⟩ ⟪।⟩ ⟪पुत्रं⟩ ⟪लब्धुकामा⟩ ⟪ब्राह्मणी⟩ ⟪।⟩ ⟪गृह⟩ ⟪।⟩ ⟪तन्नगरम्⟩ ⟪।⟩ ⟪मुह्यञ्छत्रुः⟩)
 
@@ -28,10 +28,10 @@ A) Sijoita seuraavassa lauseessa sulkulausekkeen ilmaukset lokatiiviin (⟪स�
 
 ⟪७⟩. ⟪रामो⟩ **⟪मुह्यति⟩ ⟪शत्रौ⟩** ⟪वसति⟩ ⟪।⟩ (Monikko: ⟪रामो⟩ **⟪मुह्यत्सु⟩ ⟪शत्रुषु⟩** ⟪वसति⟩ ⟪।⟩)
 
-B) Käännä ja purea yhdyssanat auki: <!-- TODO: Fallback translation -->
+B) Käännä ja purea yhdyssanat auki:
 
 ⟪१⟩. **⟪धर्मं⟩ ⟪वदति⟩ ⟪गुरौ⟩ ⟪दुर्जना⟩ ⟪न⟩ ⟪शृण्वन्ति⟩ ⟪॥१॥⟩**
-Huonot ihmiset eivät kuuntele, kun opettaja julistaa dharmman. <!-- TODO: Fallback translation -->
+Huonot ihmiset eivät kuuntele, kun opettaja julistaa dharmman.
 
 ⟪२⟩. **⟪बुद्धकाले⟩ ⟪नरैरार्यसत्यानि⟩ ⟪श्रोतुं⟩ ⟪शक्यन्ते⟩ ⟪॥२॥⟩**
 (⟪बुद्धस्य⟩ ⟪काले⟩)
@@ -43,7 +43,7 @@ Miehet halajavat naista, joka on pukeutunut kauniisti. Siksi hyvät naiset toivo
 
 ⟪४⟩. **⟪पुत्रे⟩ ⟪मृते⟩ ⟪ऽपुत्रा⟩ ⟪ब्राह्मणी⟩ ⟪पुत्रं⟩ ⟪लब्धुं⟩ ⟪व्रतं⟩ ⟪करोति⟩ ⟪॥४॥⟩**
 (⟪पुत्रो⟩ ⟪नास्ति⟩ ⟪यस्याः⟩ ⟪सा⟩)
-Kun hänen poikansa on kuollut, leskiksi jäänyt brahmaninainen tekee lupauksen saadakseen pojan. <!-- TODO: Fallback translation -->
+Kun hänen poikansa on kuollut, leskiksi jäänyt brahmaninainen tekee lupauksen saadakseen pojan.
 
 ⟪५⟩. **⟪उपनीतबालैर्गुरुकुल⟩ ⟪उष्यते⟩ ⟪॥५॥⟩**
 (⟪उपनीतैर्बालैः⟩ ⟪।⟩ ⟪गुरोः⟩ ⟪कुले⟩)
@@ -66,11 +66,11 @@ Kun brahmaninainen saapuu suureen runoilijaan, hänen poikansa saapuu myös.
 
 ⟪१०⟩. **⟪गुरुषूपदिशत्सु⟩ ⟪सुनीतबाला⟩ ⟪वक्तुं⟩ ⟪नार्हन्ति⟩ ⟪॥१०॥⟩**
 (⟪सुष्ठ⟩u ⟪नीता⟩ ⟪बालाः⟩)
-Kun opettajat opettavat, hyvin kasvatetut lapset eivät saa puhua (puhua). <!-- TODO: Fallback translation -->
+Kun opettajat opettavat, hyvin kasvatetut lapset eivät saa puhua (puhua).
 
 ::: media
 ![](/images/uebung044.webp)
 Kuv.: ⟪गुरुषूपदिशत्सु⟩ ⟪सुनीतबाला⟩ ⟪वक्तुं⟩ ⟪नार्हन्ति⟩
-(Kuv lähde: [Yksityiskohdat](/licenses#uebung044)) <!-- TODO: Fallback translation -->
+(Kuv lähde: [Yksityiskohdat](/licenses#uebung044))
 
 :::

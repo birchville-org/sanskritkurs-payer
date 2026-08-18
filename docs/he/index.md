@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "קורס סנסקריט"
   text: "מסלול לימוד מלא"
-  tagline: "מאת אלוויס פאיר (ספריית הכפר הגלובלי של טיפלי)"
+  tagline: "מאת אלוויס פאייר (ספריית הכפר הגלובלי של טיפל)"
   actions:
     - theme: brand
       text: "התחל קורס"
@@ -14,20 +14,21 @@ hero:
       link: /he/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: "הקרנה מושלמת, אינטגרציה טיפוגرافית למ scripts הודיים."
-  - title: Leicht Durchsuchbar
+  - title: "Devanāgarī ready"
+    details: "טיפוגרפיה משולבת ומשופרת עבור כתובות הודיות."
+  - title: "קל לחיפוש"
     details: "חיפוש טקסט מלא מקומי מעמיק שומר על הידע זמין בלחיצת כפתור."
-  - title: Moderne Architektur
-    details: "בנוי על יסודות VitePress למקסימום מהירות."
+  - title: "ארכיטקטורה מודרנית"
+    details: "בנוי על בסיס VitePress למהירות מרבית."
+
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+קורס הסנסקריט מאת אלווויי פאייר הוא מסלול לימוד מקיף ומבוסס מדעית לרכישת שפת הסנסקריט וכתב דוונאג'רי. מהדורה דיגיטלית זו מציגה את כל הקורס בסביבת קריאה מודרנית, רב-לשונית ונידית.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+השפות תורגמו באופן אוטומטי ומלא בעזרת בינה מלאכותית (Qwen3.6-32B) מגרמנית. דיווח על שגיאות תרגום מתקבל בברכה.
+**הערות וצור קשר**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**להשתתף כעורך או כאוצר**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+**עורך קוד פתוח Zentauri**: עורך Markdown עצמאי ב-[GitHub](https://github.com/marcodem/zentauri)
+**ויקי המפתחים וארכיטקטורה**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

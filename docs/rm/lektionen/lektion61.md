@@ -4,11 +4,11 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecziun 61
 
-## 61.1. Deklination der Radisnomina auf -ā, -ī, -ū <!-- TODO: Fallback translation -->
+## 61.1. Deklination der Radisnomina auf -ā, -ī, -ū
 
 ### 61.1.1. Noms da radis cun la desinenza -ā a la fin da ⟪तत्पुरुष⟫
 
@@ -34,7 +34,7 @@ Paradigma:
 ### 61.1.2. Feminine Radisnomina auf -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
 **Nebens las furmas cun las terminaziuns regularas dal casus sa preschentan en il dativ, ablativ, genitiv e locativ singular, sco er en il genitiv plural, era furmas suenter il model da feminins plurisilbics cun -ī (⟪देवी⟫).**
 :::
@@ -107,14 +107,14 @@ Paradigmas:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Radisnomina auf -ū <!-- TODO: Fallback translation -->
+### 61.1.4. Einsilbige, feminine Radisnomina auf -ū
 
 ::: grammar-box
 **Radix avant vocal: -uv**
 
 **Deklination analog zu den femininen Radisnomina auf -ī**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
 ⟪भू⟫ f. "Terra"
 
@@ -203,7 +203,7 @@ Las desinentzas dal futur perifrastic èn donc:
 ::: grammar-box
 **Furma da la radis: La radis ha en general la medema furma sco en il futur simplifitgà. Quai vala er per la vocala da cunvegna -i-.**
 :::
-Exempels: <!-- TODO: Fallback translation -->
+Exempels:
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
 | --- | --- |
@@ -263,7 +263,7 @@ Karnataka = ಕರ್ನಾಟಕ
 :::
 
 ::: grammar-box
-**La furmaziun dal intensivum:** <!-- TODO: Fallback translation -->
+**La furmaziun dal intensivum:**
 
 **Existan duas tipus da furmaziun dal intensivum:**
 
@@ -291,7 +291,7 @@ Ezempels:
 Las reglas en detagl en Kielhorn, Grammatica § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Egimpels: <!-- TODO: Fallback translation -->
+Egimpels:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -377,7 +377,7 @@ Optativ (⟪विधिलिङ्⟫):
 :::
 ## 61.4. Denominativa (⟪नामधातु⟫)
 
-I denominativs (⟪नामधातवः⟫) vegnan, en cumpareglia cun ils verbs tractads fin qua, betg formatads d'ina radis verbala, mabain d'ina radis nominala. Qua existan differents tipps da furmaziun. <!-- TODO: Fallback translation -->
+I denominativs (⟪नामधातवः⟫) vegnan, en cumpareglia cun ils verbs tractads fin qua, betg formatads d'ina radis verbala, mabain d'ina radis nominala. Qua existan differents tipps da furmaziun.
 
 ### 61.4.1. Furmad senza suffix spezial, Parasmaipada
 
@@ -401,7 +401,7 @@ Exemples:
 | ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
 | ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" | <!-- TODO: Fallback translation -->
+| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
 
 ### 61.4.2. Furmad cun sufix -ya, Parasmaipada
 
@@ -433,20 +433,20 @@ Exempels:
 | ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
 | ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
+| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
 
 Assegnescha la significaziun da:
 
 | ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
 
 ::: media
 ![](/images/lekt6105.webp)
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
 ⟪हरिद्वार⟫
 (Imprimà dal dretg: [Detagls](/rm/licenses#lekt6105))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -465,7 +465,7 @@ Exempels:
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" | <!-- TODO: Fallback translation -->
+| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
 
 ::: media
 ![](/images/lekt6109.webp)
@@ -482,7 +482,7 @@ Fig.: ⟪यशस्काम्यन्ति⟫
 ::: indent
 **insatiablem Verlangen nach dem, was durch den Nominalstamm bezeichnet wird.**
 :::
-Ezempels: <!-- TODO: Fallback translation -->
+Ezempels:
 
 ::: grammar-box
 | ⟪मधु⟫ n. "Miel" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "el vòia intensamain miel" |
@@ -510,14 +510,14 @@ Karli
 *   **final -ā bleibt unverändert**
 *   **sonst wie vor -ya, Parasmaipada (siehe oben 4.2.)**
 *   **final -as wahlweise » -ā**
-*   **Femininstamm meist » Maskulinstamm** <!-- TODO: Fallback translation -->
+*   **Femininstamm meist » Maskulinstamm**
 
 Ezempels:
 
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" | <!-- TODO: Fallback translation -->
+| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
 
 ::: grammar-box
 **Per quaias radis nominalas significates quest suffix: insatge vegn sco quai u vegn a quai, che vegn designà per la radis nominala:**
@@ -550,7 +550,7 @@ Exemples:
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -594,7 +594,7 @@ p.ex. ⟪बुध्यासम्⟫ "che jau scuvigliai!"
 
 **oppur:**
 
-**(hochstufige) Radis + ⟪ै⟫ + sī(y) + Sekundäraendung** <!-- TODO: Fallback translation -->
+**(hochstufige) Radis + ⟪ै⟫ + sī(y) + Sekundäraendung**
 
 ::: indent
 p.ex.
@@ -635,7 +635,7 @@ Exempel:
 ::: grammar-box
 **Furmaziun dal cundiziunal (⟪ऌङ्⟫):**
 
-**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung**
 
 d.h. wie ein Imperfect (⟪लङ्⟫) al stem dal futur.
 
@@ -660,12 +660,12 @@ Paradigma:
 
 **⟪गो⟫ m.f. "Ochse, Kuh" ha basa da declinaziun.** Vesa l'explicaziun detagliada en Thumb-Hauschild § 296/7.
 :::
-Paradigmas: Kielhorn, Grammatik § 153: <!-- TODO: Fallback translation -->
+Paradigmas: Kielhorn, Grammatik § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt6115))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -682,7 +682,7 @@ Kielhorn, Grammatik § 177:
 ::: media
 ![](/images/lekt6116.jpg)
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt6116))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -691,7 +691,7 @@ Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 Populaziun Apatani, Arunachal Pradesh
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt6117))
 :::
-### 61.8.2. Pronoms demonstrativs ⟪अदस्⟫ "quel (lunsch)" <!-- TODO: Fallback translation -->
+### 61.8.2. Pronoms demonstrativs ⟪अदस्⟫ "quel (lunsch)"
 
 Maschil (⟪पुंस्⟫)
 
@@ -739,7 +739,7 @@ Su il conclus dal curs da sânscrit cumenza mo il ver "nadar" en l'ocèan da la 
 Fig.: ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), 12./13. tschdt. n. Chr.
 (Bildquelle: [Details](/rm/licenses#lekt6101))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: no-header
@@ -776,39 +776,6 @@ Ofterdingen, 2009-03-09
 *:sig[⟪ॐ⟫]*
 
 FIN DAL CURS DA SANSKRIT
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt6102:** [Fonte da l'imagina: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Access il 2009-03-06. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nominaziun, nagina utisaziun cummerciala, nagina modificaziun)]
-
-**lekt6106:** ⟪काशीपुर⟫ [Qua da l'immagina: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Access il 2009-03-09. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (attribuziun, nagina utisaziun cummerciala, share alike)]]
-
-**lekt6107:** ⟪जोधपुर⟫ [fonte da l'imagines: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- accedì il 2009-03-09. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (attribuziun, nagina utilizaziun commerziala, share alike)]
-
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [fonte da figura: Flickr da Jessica Rabbit. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Consultà il 2009-03-08. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (attribuziun, nagina utisaziun cummerciala, nagina modificaziun)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [fonte da l'imagines: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- consultà il 2009-03-08. -- [licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (attribuziun)]
-
-**lekt6103:** [Fonte da l'imagines: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Access il 2009-03-08. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribuziun, nagina utisaziun cummerciala)]
-
-**lekt6109:** ⟪मुंबई⟫ [Qua da l'immagina: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Access il 2009-03-09. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nominaziun, nagina utilizaziun cumertiala, nagina modificaziun)]
-
-**lekt6110:** Karli [fonte da l'imagines: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- accedì l'2009-03-09. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (numinaziun, nagina utisaziun cummerciala, nagina modificaziun)]
-
-**lekt6111:** [Quella da l’imagines: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Access il 2009-03-09. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (numnominaziun, share alike)]
-
-**lekt6113:** Thailand - เมืองไทย [fonte da l'imagia: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Access il 2009-03-09. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (numinaziun, nagina utisaziun cummerciala, nagina modificaziun)]
-
-**lekt6112:** 1845 - 1878 Professor da filologia indico-orientala a l'Universitad da Copenaghen
-
-**lekt6114:** Basilica da Santa Cruz, Kochi = കൊച്ചി [fonte da imagem: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Acesso em 2009-03-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribuição, uso não comercial)]
-
-**lekt6118:** [Quella da l’imagines: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Access il 2009-03-09. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Nominaziun)]
-
-**lekt6117:** Vop dal Apatani, Arunachal Pradesh [surs da l’immagines: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Access il 2009-03-09. -- [licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (attribuziun)]
-
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]:::: <!-- TODO: Fallback translation -->
 
 :::

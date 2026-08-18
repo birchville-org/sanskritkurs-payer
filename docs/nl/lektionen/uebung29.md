@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: "Übung 29"
 uebung_id: 29
@@ -17,9 +17,6 @@ last_reconstructed: 2026-05-15
 
 Unwissen bedeutet, dass man Unbeständiges, Unreines, Leidvolles und Nicht-Absolutes als beständig, rein, freudvoll bzw. absolut ansieht.
 
-::: deleteme-box Erläuterung
-⟪आत्मसु⟫ = Lok. sg. zu ⟪आत्मन्⟫ m. "Seele; das Absolute, insofern es im Individuum verwirklicht wird"
-:::
 ### ⟪२⟫. Über den rechten Gebrauch des ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
 
 ⟪तीक्ष्णदण्डो⟫ ⟪भूतानामुद्वेजनीयो⟫ ⟪भवति⟫ ⟪।⟫ ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।⟫ ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।⟫ ⟪सुविज्ञातप्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामैर्योजयति⟫ ⟪।⟫ ⟪दुष्प्रणीतः⟫ ⟪कामक्रोधाभ्यामवज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, ⟪किमङ्ग⟫ ⟪पुनर्गृहस्थान्⟫ ⟪।⟫ ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।⟫ ⟪बलीयानबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।⟫ ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।⟫
@@ -36,18 +33,6 @@ Vor einem zu strengen Regiment (daṇḍa) müssen die Wesen schaudern. Ein lasc
 > Froh über die Tätigkeit nach eigenem Recht und eigener Sitte  
 > Bewegt sie sich auf ihren eigenen Bahnen.
 
-::: deleteme-box Glossar & Grammatik
-- ⟪उद्वेजनीय⟫ (3): etwas, vor dem man schaudern muss
-- ⟪विज्ञात⟫ (3): erkannt; n.: Erkennen
-- ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫): anschirren, verbinden mit
-- ⟪कामक्रोधाभ्याम्⟫: Instr./Dat./Abl. Dual mask. von ⟪कामक्रोध⟫
-- ⟪किमङ्ग⟫: um wieviel mehr
-- ⟪बलीयान्⟫: Nom. sg. mask. zu ⟪बलीयस्⟫ (stärker)
-- **⟪चतुर्⟫-**: vier (Vorderglied)
-- ⟪राज्ञा⟫: Instr. sg. mask. zu ⟪राजन्⟫ (König)
-- ⟪स्वेषु⟫: Lok. plur. mask./neutr. zu ⟪स्व⟫ (eigen)
-- ⟪वर्त्मसु⟫: Lok. plur neutr. zu ⟪वर्त्मन्⟫ (Bahn, Pfad)
-:::
 ::: media
 ![](/images/uebung046.webp)
 Abb.: ⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫

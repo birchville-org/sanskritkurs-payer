@@ -1,10 +1,11 @@
 ---
-title: Lektion 1
-subtitle: "Die Laute des Sanskrit"
+title: "שיעור 1"
+subtitle: "הצלילים של סנסקריט"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 # שיעור 1

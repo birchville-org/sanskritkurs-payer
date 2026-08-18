@@ -22,7 +22,7 @@ last_reconstructed: 2026-05-16
 ::: grammar-box
 **Ⲥϫⲉⲣ ⲛ̀ⲧⲙⲁϫⲏⲣ 1:**
 
-**Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:** <!-- TODO: Fallback translation -->
+**Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:**
 
 **Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Ziel der Bewegung, Objekt des Wissens usw. im Akkusativ = ⟪द्वितीया⟫) — Verb im Kausativ**
 :::
@@ -162,7 +162,7 @@ Résultat : ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Le
 ## 28.3. ϫⲓⲛⲉⲥⲓⲥ ⲛ̄ⲧⲉ ⲡⲓⲥⲧⲉⲙ ⲛ̄ⲧⲉ ⲧⲉⲛⲟⲩ ⲛ̄ⲧⲉ ⲡⲓⲕⲁⲩⲥⲁⲧⲓⲃ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**An den Kausativstamm treten die thematischen Endungen des Präsensstamms** <!-- TODO: Fallback translation -->
+**An den Kausativstamm treten die thematischen Endungen des Präsensstamms**
 :::
 Es gibt verschiedene Bildungstypen:
 
@@ -244,7 +244,7 @@ Beispiele:
 ## 28.5. ⲡ̀ϫⲓⲛϣⲱⲡⲓ ⲛ̀ⲧⲉ ⲡⲓⲙⲉⲗⲗⲱⲛ (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) ⲉ̀ⲡⲓⲕⲁⲩⲥⲁⲧⲓⲃ
 
 ::: grammar-box
-**Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:** <!-- TODO: Fallback translation -->
+**Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:**
 
 **-ay-iṣya-**
 
@@ -297,10 +297,10 @@ Beispiel:
 **jan** — **janayati** — **janayitum** (janay-i-tum) "ⲛⲁϧ ⲉⲃⲟⲗ"
 :::
 
-## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.) <!-- TODO: Fallback translation -->
+## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
 
 ::: grammar-box
-**In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.** <!-- TODO: Fallback translation -->
+**In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.**
 
 Beispiele:
 1.  Dehnstufige Wurzel + -aya- : **⟪कम्⟫** 10Ā **⟪कामयते⟫** "lieben"
@@ -382,7 +382,7 @@ Mädchen trägt Last. Bei Ahmedabad.
 
 ## 28.11. Übung
 
-**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:** <!-- TODO: Fallback translation -->
+**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:**
 
 **1. Mit hochstufiger Wurzel:**
 1. ⟪अर्हन्ति⟫
@@ -483,11 +483,3 @@ Mädchen trägt Last. Bei Ahmedabad.
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-::: deleteme-box
-
-**lekt2801:** ⲛⲓⲕⲁϧⲉ ϩⲟⲡ ⲛⲓⲙⲁϫⲉⲣⲱⲛ ⲛⲓⲃⲉⲕ ϩⲙⲁⲛ Ⲓⲁϧⲏⲟⲩⲇⲣ. [ⲁϥⲙⲟⲛ ϩⲉ ⲡⲓϫⲓⲕⲣⲏ: noii's Flickr, 2008-12-19, CC BY-SA]
-**lekt2802:** ⲛⲓⲕⲁϧⲉ ϩⲟⲡ ⲛⲓⲥϫⲱⲛ ϩⲙⲁⲛ ⲒⲤϨⲞⲚ. [ⲁϥⲙⲟⲛ ϩⲉ ⲡⲓϫⲓⲕⲣⲏ: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Ⲛⲓϫⲉⲙⲟⲛ ϩⲡⲓⲥϫⲱⲛ ⲛⲓⲃⲉⲕ ϩⲙⲁⲛ Ⲓⲓⲱϣ. [ⲁϥⲙⲟⲛ ϩⲉ ⲡⲓϫⲓⲕⲣⲏ: Kelvin Kay / Wikipedia. GNU FDLicense]
-**lekt2804:** Ⲛⲓϫⲉⲙⲟⲛ ϩⲡⲓϫⲱⲛ ⲛⲓⲃⲉⲕ ϩⲙⲁⲛ Ⲓⲓⲱϣ. [ⲁϥⲙⲟⲛ ϩⲉ ⲡⲓϫⲓⲕⲣⲏ: Wikipedia. Public domain]
-**lekt2805:** Ⲛⲓϫⲉⲙⲟⲛ ϩⲡⲓϫⲱⲛ ⲛⲓⲃⲉⲕ ϩⲙⲁⲛ Ⲓⲓⲱϣ. [ⲁϥⲙⲟⲛ ϩⲉ ⲡⲓϫⲓⲕⲣⲏ: m-bot. Flickr, 2008-12-20. CC BY-SA]
-:::

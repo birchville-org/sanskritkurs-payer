@@ -291,23 +291,4 @@ B）翻译：
 Erklärungen:
 ⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum
 :::
-::: deleteme-box
-
-**lekt5007:** 图：⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [图片来源：wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/)。-- 访问于 2009-01-12。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
-
-**lekt5006:** 傈僳族 = Lisu, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [图片来源：parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/)。-- 访问日期：2009-01-12。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt5001:** Kapil Sibal（1948年—），自2006年起担任科学与信息技术部及地球科学部联邦部长【图片来源：世界经济论坛。——[http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/)。——访问日期：2009-01-12。——[知识共享许可协议](http://creativecommons.org/licenses/by-sa/2.0/deed.de)（署名，相同方式共享）】
-
-**lekt5002:** 季风抵达，班加罗尔  ಬೆಂಗಳೂರು [图片来源：vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- 访问日期：2009-01-12. -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt5005：**[图片来源：sunder\_iyer。-- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/)。-- 访问日期：2009-01-12。-- [知识共享许可协议](http://creativecommons.org/licenses/by-sa/2.0/deed.de)（署名，相同方式共享）]
-
-**lekt5003:** [图片来源：dhyanji。-- [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/)。-- 访问日期：2009-01-12。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [图片来源：Kounosu / 维基百科。GNU FDLicense]
-
-**lekt5008:** Ganeshpuri，距离孟买80公里（⟪मुंबई⟫）[图片来源：Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/)。 -- 访问日期：2009-01-13。 -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
-
-:::
 

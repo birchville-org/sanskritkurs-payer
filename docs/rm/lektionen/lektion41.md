@@ -5,11 +5,11 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecziun 41
 
-## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter) <!-- TODO: Fallback translation -->
+## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
 
 ::: indent
 ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
@@ -23,7 +23,7 @@ Spiegaziun: ⟪पर⟫ "auter"
 ![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (Sursa d'imaggin: [Details](/rm/licenses#lekt4102))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -34,7 +34,7 @@ Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 :::
 Spiegaziun: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
-## 41.2. Ulteriuras furmaziuns ⟪कृत्⟫ sin -a <!-- TODO: Fallback translation -->
+## 41.2. Ulteriuras furmaziuns ⟪कृत्⟫ sin -a
 
 ### 41.2.1. Particip preschent (⟪laḍādeśaḥ⟫) Ā, particip preschent (⟪laḍādeśaḥ⟫) passiv, particip futur (⟪lṛḍādeśaḥ⟫) Ā
 
@@ -62,7 +62,7 @@ Exemples:
 
 Stema da presens debil (en la furma ch'el ha avant la desinentza -ate da 3.pl.Ā) + -āna (fem. -ānā)
 :::
-Exempels: <!-- TODO: Fallback translation -->
+Exempels:
 
 ::: grammar-box
 | Radischa / Classa | Participi present Ā |
@@ -107,7 +107,7 @@ Exempels:
 | :--- | :--- | :--- |
 | ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | "jemand, der besiegt werden muss; ein zu besiegender" |
 | ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "das, wo man sich befinden soll" |
-| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" | <!-- TODO: Fallback translation -->
+| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" |
 
 :::
 #### 41.2.2.2. Il suffiss -⟪अनीय⟫ / -⟪अनीया⟫
@@ -132,7 +132,7 @@ Exemples:
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "zu tuendes" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "was man sehen muss; sehenswertes" |
 | ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "ein zu weckender" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
 
 :::
 #### 41.2.2.3. Il suffiss -⟪य⟫ / -⟪या⟫
@@ -144,7 +144,7 @@ Radich (en stadi zero, plen u allungì) + -⟪य⟫
 
 Las regulas exactas vesair en Kielhorn, Grammatik der Sanskrit-Sprache, S. 195 - 197!
 :::
-Tractaziun da vocals finals: <!-- TODO: Fallback translation -->
+Tractaziun da vocals finals:
 
 ::: grammar-box
 **1. Radichs cun -ā furman quest gerundiv cun -eya**
@@ -156,7 +156,7 @@ Exemples:
 | | | |
 | :--- | :--- | :--- |
 | ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "zu wissendes; was erkannt werden muss" |
-| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" |
 
 :::
 ::: grammar-box
@@ -168,7 +168,7 @@ Exemplei:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" | <!-- TODO: Fallback translation -->
+| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" |
 
 :::
 ::: grammar-box
@@ -181,14 +181,14 @@ Exemples:
 | | | |
 | :--- | :--- | :--- |
 | ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "zu verkaufen; verkäuflich" |
-| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" | <!-- TODO: Fallback translation -->
+| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" |
 
 :::
 ::: media
 ![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Sursa da l'immaġin: [Detagls](/rm/licenses#lekt4103))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -201,10 +201,10 @@ Ezemplu:
 | | | |
 | :--- | :--- | :--- |
 | ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "was gepriesen werden soll" |
-|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" | <!-- TODO: Fallback translation -->
+|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" |
 
 :::
-Ezempels per radichs finalas cun consonants (reglas cfr. Kielhorn, Grammatica § 533ss.): <!-- TODO: Fallback translation -->
+Ezempels per radichs finalas cun consonants (reglas cfr. Kielhorn, Grammatica § 533ss.):
 
 Formaziun en bassa stadi:
 
@@ -215,7 +215,7 @@ Ezempels:
 | | | |
 | :--- | :--- | :--- |
 | ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "sehenswert" |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" | <!-- TODO: Fallback translation -->
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" |
 
 :::
 ::: media
@@ -223,7 +223,7 @@ Ezempels:
 Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 (fonte da l'imagina: [Details](/rm/licenses#lekt4106))
 :::
-Furmaziun auta: <!-- TODO: Fallback translation -->
+Furmaziun auta:
 
 Exemples:
 
@@ -232,7 +232,7 @@ Exemples:
 | | | |
 | :--- | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "zu hassender = Feind" |
-| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" | <!-- TODO: Fallback translation -->
+| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" |
 
 :::
 ::: grammar-box
@@ -248,7 +248,7 @@ Esempel:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" | <!-- TODO: Fallback translation -->
+| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" |
 
 :::
 ::: indent
@@ -276,7 +276,7 @@ Exemples:
 | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "zu gehender" |
 | ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "zu hörender" |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" | <!-- TODO: Fallback translation -->
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
 
 :::
 ### 41.2.3. Sintacticas davos il "participi" da la necessitad passiva (gerundivum) (⟪कृत्य⟫)
@@ -369,13 +369,8 @@ Illustraz.: ⟪शास्त्री⟫
 :::
 ⟪शरण⟫ 3: protectent, protegint ; n. protecziun, refügi
 
-⟪सङ्घ⟫ n.: (a ⟪सम्⟫-⟪हन्⟫ : cun-schlagar): gruppa, amassada, communitad (p.ex. buddhista) <!-- TODO: Fallback translation -->
+⟪सङ्घ⟫ n.: (a ⟪सम्⟫-⟪हन्⟫ : cun-schlagar): gruppa, amassada, communitad (p.ex. buddhista)
 
-::: deleteme-box
-vesair quai:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : concepts basegals da las regulas monasticas e dal dretg monastic dal Theravāda. -- Part I. -- (Materials davart ils concepts basegals dal Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: giuvna femna, figlia, virginitad
 
 ⟪अति⟫ preverbiu: sur, sur-via, sur-furà (en il spazi, en la tempistica, per numer, per quantitad, en l'ordinaziun, per pussanza, per intensitad), excessivamain
@@ -406,16 +401,3 @@ Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫
 
 ⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
 
-::: deleteme-box
-
-- **Image lekt4102.jpg** (Imaggina: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Sursa da l'imajin: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- consultà il 2009-01-02. -- Licenza Creative Commons (Nominament, nagina utilizaziun comerciala)]
-- **Image lekt4103.jpg** (Imaggina: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [Sursa da l'imajin: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- consultà il 2009-01-03. -- Licenza Creative Commons (Nominament, nagina utilizaziun comerciala, nagina modificaziun)]
-- **Image lekt4106.jpg** (Imaggina: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): Bahá'í House of Worship, Delhi [Sursa da l'imajin: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- consultà il 2009-01-03. -- Licenza Creative Commons (Nominament, nagina utilizaziun comerciala, condividi cun las medemas condiziuns)]
-- **Image lekt4107.jpg** (Imaggina: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [Sursa da l'imajin: Wikipedia. Domin public]
-- **Image lekt4108.jpg** (Imaggina: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका⟫ ⟪घाट⟫, 1922 [Sursa da l'imajin LoC/Wikipedia. Domin public]
-- **Image lekt4105.jpg** (Imaggina: ⟪भुजङ्गः⟫): Culbrà cun bandis (_Bungarus fasciatus_) [Sursa da l'imajin: J. Ewart. The poisonous snakes of India, 1878. Domin public]
-- **Image lekt4104.jpg** (Imaggina: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): Stgaffar da venen da serp (Krait), Thailand [Sursa da l'imajin: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- consultà il 2009-01-03. -- Licenza Creative Commons (Nominament)]
-- **Image lekt4109.jpg** (Imaggina: ⟪शासना⟫): Edict da Ashoka, Dhauli, Orissa [Sursa da l'imajin: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- consultà il 2009-01-03. -- Licenza Creative Commons (Nominament, nagina utilizaziun comerciala)]
-- **Image lekt4110.jpg** (Imaggina: ⟪शास्त्री⟫): Max Müller (1823 - 1900), ca. 1898 [Sursa da l'imajin: Wikipedia. Domin public]
-- **Image lekt4111.jpg** (Imaggina: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Sursa da l'imajin: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- consultà il 2009-01-04. -- Licenza Creative Commons (Nominament, nagina modificaziun)]
-:::

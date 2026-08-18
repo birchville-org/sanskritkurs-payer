@@ -517,12 +517,3 @@ A) Μετατρέψτε τις ακόλουθες ρηματικές μορφέ�
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Μπάντι = ⟪बुन्दी⟫, Ρατζαστάν = ⟪राजस्थान⟫ [Πηγή εικόνας: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση τροποποιήσεων)]
-**lekt3002:** Νταρέβαντι, Περιοχή Άχμεντναγκάρ = ⟪अहमदनगर⟫, Μαχαράστρα = ⟪महाराष्ट्र⟫ [Πηγή εικόνας: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, ομοίως άδεια)]
-**lekt3003:** [Πηγή εικόνας: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, ομοίως άδεια)]
-**lekt3005:** ⟪थाली⟫, Νότια Ινδία [Πηγή εικόνας: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, ομοίως άδεια)]
-**lekt3004:** [Πηγή εικόνας: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Πρόσβαση στις 21-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, ομοίως άδεια)]
-**lekt2904:** [Πηγή εικόνας: Wikipedia / Πνευματικά δικαιώματα στην Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

@@ -1,11 +1,12 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "Lezione 17"
+subtitle: "Seconda classe del presente (⟪अदादि⟫ = ⟪अद्⟫ ecc.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+
+--- &lt;!--  --&gt;
 
 # Lezione 17
 
@@ -81,7 +82,7 @@ Altri esempi:
 | 3\. sg. Pres. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. Pres. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Pres. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) | &lt;!-- TODO: Fallback translation --&gt;
+| 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) | &lt;!--  --&gt;
 
 :::
 ⟪हन्⟫ 2 P "colpire, uccidere, ammazzare"
@@ -230,7 +231,7 @@ Anche ⟪स्तु⟫ 2 U "lodare" ha, accanto alle forme indicate al punto 3
 
 | | |
 | :--- | :--- |
-| 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | &lt;!-- TODO: Fallback translation --&gt;
+| 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | &lt;!--  --&gt;
 
 :::
 ## 17.6. Lista di parole
@@ -377,44 +378,4 @@ Traducete le seguenti forme verbali e indicate la radice corrispondente:
 ⟪२९⟫. ⟪रक्षति⟫
 
 ⟪३०⟫. ⟪रोदिति⟫
-
-⟪३१⟫. ⟪लभते⟫
-
-⟪३२⟫. ⟪वक्ति⟫
-
-⟪३३⟫. ⟪वदति⟫
-
-⟪३४⟫. ⟪शृणोति⟫
-
-⟪३५⟫. ⟪स्तौति⟫
-
-⟪३६⟫. ⟪स्मरति⟫
-
-⟪३७⟫. ⟪हन्ति⟫
-
-⟪३८⟫. ⟪अश्नुवते⟫
-
-⟪३९⟫. ⟪कुप्यते⟫
-
-⟪४०⟫ ⟪कर्षन्ति⟫
-
-⟪४१⟫. ⟪उद्यते⟫
-
-⟪४२⟫. ⟪सहन्ते⟫
-
-⟪४३⟫. ⟪सिच्यन्ते⟫
-
-⟪४४⟫. ⟪आप्नोति⟫
-
-⟪४५⟫. ⟪जीव्यते⟫
-
-⟪४६⟫. ⟪दिश्यन्ते⟫
-
-::: deleteme-box
-
-**lekt1701:** [Fonte dell'immagine: di tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, nessuna opera derivata)]
-
-**lekt1702:** [Fonte dell'immagine: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
-
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Fonte dell'immagine: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
 :::

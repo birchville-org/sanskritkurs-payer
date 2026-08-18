@@ -142,10 +142,3 @@ Fig.: ⟪कन्ये किं लिखसि⟫
 (Image source: [Details](/en/licenses#lekt4502))
 :::
 
-::: deleteme-box
-
-**lekt4501.jpg**: Textile block print, Ahmedabad. -- Image source: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial use, Share Alike)
-
-**lekt4502.jpg**: Image source: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial use, No Derivative Works)
-:::
-

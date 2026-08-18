@@ -55,7 +55,7 @@ B) Muodosta seuraavaan lukuharjoitukseen kysymyksiä kaavan etat kim (⟪एत�
 Kuv.: ⟪एष⟩ ⟪कः⟩ ⟪।⟩ ⟪एष⟩ ⟪गजः⟩ ⟪।⟩ ⟪अयं⟩ ⟪गजः⟩ ⟪।⟩ ⟪स⟩ ⟪गजः⟩ ⟪।⟩ ⟪एषा⟩ ⟪का⟩ ⟪।⟩ ⟪एषा⟩ ⟪बाला⟩ ⟪।⟩ ⟪इयं⟩ ⟪बाला⟩ ⟪।⟩ ⟪सा⟩ ⟪बाला⟩ ⟪।⟩
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt0401))
 :::
-eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ. <!-- TODO: Fallback translation -->
+eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
 
 ⟪एष⟩ ⟪कः⟩ ⟪।⟩ ⟪एष⟩ ⟪गजः⟩ ⟪।⟩ ⟪अयं⟩ ⟪गजः⟩ ⟪।⟩ ⟪स⟩ ⟪गजः⟩ ⟪।⟩
 
@@ -95,5 +95,5 @@ etat kim? eṣā pipīlikā.
 ![](/images/uebung003.webp)
 Kuv.: ⟪एतत्किम्⟩ ⟪।⟩ ⟪एष⟩ ⟪काकः⟩ ⟪।⟩
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung003))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

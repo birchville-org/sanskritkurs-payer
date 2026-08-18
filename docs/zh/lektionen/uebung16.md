@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: "Übung 16"
 uebung_id: 16
@@ -248,11 +248,6 @@ Die spezifische Pflicht eines Śūdra ist gehorsamer Dienst an den Zweimalgebore
 Pflicht aller ist: Gewaltlosigkeit, Wahrhaftigkeit, Reinheit, Nicht über sein Los murren, Freisein von Boshaftigkeit und geduldige Nachsicht.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-::: deleteme-box Erklärungen
-Satz 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet
-Satz 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum zu ⟪कर्मन्⟫ "Tat"
-Satz 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. zu ⟪सर्व⟫ "jeder, alle" (Pronomen, dekliniert nicht wie deva)
-:::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 Der Prügel bewirkt Erwerb und sicheren Besitz von Philosophie, Vedististik und Ökonomie. Die Führung des Prügels ist Politik.

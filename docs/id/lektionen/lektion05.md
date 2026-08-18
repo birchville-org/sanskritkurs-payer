@@ -9,13 +9,6 @@ status: stable
 
 # Pelajaran 5
 
-::: deleteme-box
-**Dalam pelajaran ini Anda akan mempelajari:**
-- Dasar-dasar komposita nominal (samāsa)
-- Terminologi khusus untuk komposita
-- Komposita kopulatif (Dvandva)
-- Urutan anggota dalam Ddvandvas
-:::
 ## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
 
 Pembentukan kata majemuk dalam jumlah yang sangat besar adalah ciri khas bahasa Sanskerta.

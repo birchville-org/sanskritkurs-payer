@@ -1,328 +1,243 @@
 ---
-title: Lektion 23
-subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
+title: "Ders 23"
+subtitle: "Sıfat (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 23 <!-- TODO: Fallback translation -->
+---
 
-## 23.1. Der Infinitiv (⟪तुमुन्⟫) <!-- TODO: Fallback translation -->
+# Ders 23
 
-::: grammar-box
-**Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (⟪तुमुन्⟫) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:** <!-- TODO: Fallback translation -->
-
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma ist gegangen, um die Rede des Meisters zu hören." <!-- TODO: Fallback translation -->
-
-**Beachten Sie, dass der Infinitiv - mit einigen fest definierten Ausnahmen - nicht als Subjekt oder Objekt eines Verbs stehen kann:** <!-- TODO: Fallback translation -->
-
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen"). <!-- TODO: Fallback translation -->
-
-**Der Infinitiv wird auch verwendet mit Verben und Substantiven in der Bedeutung "wünschen" oder "sich sehnen", wenn der Agens (⟪कर्तृ⟫) des Infinitivs und des Verbs identisch sind:** <!-- TODO: Fallback translation -->
-
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wünscht, die Rede des Meisters zu hören." <!-- TODO: Fallback translation -->
-
-**Der Infinitiv wird u.a. auch verwendet bei Verben in den Bedeutungen "fähig sein", "es gibt", "wissen", "beginnen":** <!-- TODO: Fallback translation -->
-
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Ein Heiliger kann kein Unrecht tun."   <!-- TODO: Fallback translation -->
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Es gibt Speise zu essen" (⟪भुज्⟫ 7: Ā: esssen, P: regieren) <!-- TODO: Fallback translation -->
-
-**Der Infinitiv wird auch verwendet mit Wörtern in den Bedeutungen "ausreichend", "fähig" und mit Substantiven in den Bedeutungen "Fähigkeit", "Kraft", "Geschicklichkeit":** <!-- TODO: Fallback translation -->
-
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Feuer hat die Macht, alles zu verbrennen." <!-- TODO: Fallback translation -->
-
-**Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in Ausdrücken wie "Es ist Zeit zu ...":** <!-- TODO: Fallback translation -->
-
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Es ist Zeit, sich dem Essen zu widmen" = "Es ist Zeit zu essen" <!-- TODO: Fallback translation -->
-
-**Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig ⟪शक्⟫ "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.** <!-- TODO: Fallback translation -->
-
-**Bezüglich des Objekts verhält sich der Infinitiv wie eine Verbalform, d.h. das direkte Objekt (⟪कर्मन्⟫) steht bei aktivisch gebrauchtem Infinitiv im Akkusativ (⟪द्वितीया⟫), bzw. dem Kasus, den das betr. Verb verlangt ; bei passivisch gebrauchtem Infinitiv steht das direkte Objekt im Nominativ.** <!-- TODO: Fallback translation -->
-
-z.B. <!-- TODO: Fallback translation -->
-
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Ein Heiliger kann kein Unrecht tun." <!-- TODO: Fallback translation -->
-
-**In der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest".** <!-- TODO: Fallback translation -->
-
-**Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:** <!-- TODO: Fallback translation -->
-
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht". <!-- TODO: Fallback translation -->
-:::
-## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫) <!-- TODO: Fallback translation -->
+## 23.1. Edatgen (⟪तुमुन्⟫)
 
 ::: grammar-box
-**hochstufige Wurzel + -tum** <!-- TODO: Fallback translation -->
+**Sanskrit'te bir eylemin başka bir eylem uğruna gerçekleştiğini ("...mak için") ifade etmek istendiğinde, gerçekleştirilmek üzere olan eylem için edatgen (⟪तुमुन्⟫) kullanılabilir. Edatgen öncelikle amacı veya niyeti belirtir:**
 
-**oder** <!-- TODO: Fallback translation -->
+> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma, üstadın konuşmasını duymak için gitti."
 
-**hochstufige Wurzel + -i- + -tum** <!-- TODO: Fallback translation -->
+**Edatgenin - bazı kesin tanımlı istisnalar dışında - bir fiilin özne veya nesnesi olarak duramayına dikkat ediniz:**
 
-**Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.** <!-- TODO: Fallback translation -->
+> "Dans etmeyi öğrenir" cümlesi bu nedenle edatgen ("dans etmek") ile değil, bir fiil ismi kullanarak çevrilmelidir; örn.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "öğrenmek").
 
-**Verben mit Präverb bilden den Infinitiv in gleicher Weise wie die einfachen Wurzeln.** <!-- TODO: Fallback translation -->
+**Edatgen, ayrıca "dilemek" veya "özlemek" anlamlarındaki fiiller ve isimlerle, edatgenin özne'si (⟪कर्तृ⟫) ile fiilin öznesi aynı olduğunda kullanılır:**
+
+> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma, üstadın konuşmasını duymak ister."
+
+**Edatgen ayrıca "yapabilmek", "var olmak", "bilmek", "başlamak" anlamlarındaki fiillerle de kullanılır:**
+
+> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Bir aziz hata yapamaz."
+> ⟪अस्ति भोक्तुमन्नम्⟫ = "Yenilecek yemek var" (⟪भुज्⟫ 7: Ā: yemek, P: yönetmek)
+
+**Edatgen ayrıca "yeterli", "yetenekli" anlamlarındaki kelimelerle ve "beceri", "güç", "ustalık" anlamlarındaki isimlerle de kullanılır:**
+
+> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Ateş her şeyi yakma gücüne sahiptir."
+
+**Zamân anlamındaki kelimelerle birlikte, "… yapma zamanıdır" gibi ifadelerde infinitif kullanılabilir:**
+
+> ⟪कालो भोजनं सेवितुम्⟫ = "Yemeğe yönelme zamanıdır" = "Yemek yeme zamanıdır"
+
+**Infinitif aktif ve pasif olarak kullanılabilir. Almancadaki bir pasif infinitif, Sanskritçe'de genellikle ⟪शक्⟩ "yapabilmek, yetenekli olmak" fiilinin pasife çekilmesiyle ifade edilir; bu fiilden infinitif türemiştir.**
+
+**Nesne açısından infinitif, bir fiil formu gibi davranır; yani aktif kullanılan infinitifte doğrudan nesne (⟪कर्मन्⟩) akuzatif halde (⟪द्वितीया⟩), ya da ilgili fiilin talep ettiği halde bulunur; pasif kullanılan infinitifte ise doğrudan nesle nominatif halde gelir.**
+
+örn.
+
+> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "Bir aziz haksızlık yapamaz."
+
+**2. şahısta ⟪अर्ह्⟩ + infinitif genellikle yumuşatılmış bir emir olarak kullanılır: "Sen yapmalısın."**
+
+**Infinitif bir isimden türemişse, bu iki kelime bileşik oluşturmak üzere bağlanamaz. İstisna olarak, ikinci bileşeni ⟪काम⟩ veya ⟪मनस्⟩ olan Bahuvrīhi bileşikler vardır:**
+
+> ⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "Konuşmak isteyen; konuşmayı arzulayan biri."
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+## 23.2. Infinitifin Oluşturulması (⟪तुमुन्⟩)
+
+::: grammar-box
+**yüksek dereceli kök + -tum**
+
+**veya**
+
+**yüksek dereceli kök + -i- + -tum**
+
+**Kökün sonundaki ünsüzler, PPP'nin -ta'sından önceki kurallara göre -tum'dan önce değiştirilir.**
+
+**Ön ekli fiiller, basit kökler gibi aynı şekilde infinitif oluşturur.**
+:::
+Örnekler:
 
 ::: indent
-⟪दिश्⟫ : ⟪देष्टुम्⟫  
-⟪रुद्⟫ : ⟪रोदितुम्⟫ <!-- TODO: Fallback translation -->
+⟪दिश्⟫ : ⟪देष्टुम् रुद्⟫ : ⟪रोदितुम्⟫
 :::
-Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein. <!-- TODO: Fallback translation -->
+Bağlayıcı ünlü -i-'nin kullanımı hakkında kesin kurallar koyulamaz. Temel olarak, infinitifteki bağlayıcı ünlünün dağılımı gelecek zamanla uyumludur.
 
-Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten: <!-- TODO: Fallback translation -->
+Şimdiye kadar öğrenilen köklere ek olarak aşağıdaki infinitiflere özellikle dikkat edilmelidir:
 
 ::: indent
-⟪गम्⟫ : ⟪गन्तुम्⟫ <!-- TODO: Fallback translation -->
-
-⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫ <!-- TODO: Fallback translation -->
+⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
+>> -ra- als Hochstufe zu -ṛ- haben im Infinitiv: -> -ra- yüksek ses basamağı olarak -ṛ-'ye sahiptir, infinitifte:
 
 ::: indent
-⟪दृश्⟫ : ⟪द्रष्टुम्⟫ <!-- TODO: Fallback translation -->
-
-⟪सृज्⟫ : ⟪स्रष्टुम्⟫ <!-- TODO: Fallback translation -->
+⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
+Son hecede -ṛ- bulunan diğer kökler, aniṭ olduklarında fakultatif olarak -ra- veya -ar- alır.
 
-## 23.3. Der Infinitiv (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln <!-- TODO: Fallback translation -->
 
-⟪अद्⟫ 2P ⟪अत्तुम्⟫  
-⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
-⟪अस्⟫ 2P —  
-⟪अस्⟫ 4P ⟪असितुम्⟫  
-⟪आप्⟫ 5P ⟪आप्तुम्⟫  
-⟪आस्⟫ 2Ā ⟪आसितुम्⟫  
-⟪इ⟫ 2P ⟪एतुम्⟫  
-⟪इष्⟫ 6P ⟪एष्टुम्⟫ ⟪।⟫ ⟪एषितुम्⟫  
-⟪कुप्⟫ 4P ⟪कोपितुम्⟫  
-⟪कृ⟫ 8U ⟪कर्तुम्⟫  
-⟪कृष्⟫ 1P ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪कृष्⟫ 6U ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪क्रुध्⟫ 4P ⟪कोद्धुम्⟫  
-⟪खाद्⟫ 1P ⟪खादितुम्⟫  
-⟪गम्⟫ 1P ⟪गन्तुम्⟫  
-⟪जन्⟫ 4Ā ⟪जनितुम्⟫  
-⟪जि⟫ 1P ⟪जेतुम्⟫  
-⟪जीव्⟫ 1P ⟪जीवितुम्⟫  
-⟪तन्⟫ 8U ⟪तनितुम्⟫  
-⟪दह्⟫ 1P ⟪दग्धुम्⟫  
-⟪दिश्⟫ 6U ⟪देष्टुम्⟫  
-⟪दुष्⟫ 4P —  
-⟪दुह्⟫ 2U ⟪दोग्धुम्⟫  
-⟪दृश्⟫ ⟪द्रष्टुम्⟫  
-⟪द्विष्⟫ 2U ⟪द्वेष्टुम्⟫  
-⟪नी⟫ 1U ⟪नेतुम्⟫  
-⟪नृत्⟫ 4P ⟪नर्तितुम्⟫  
-⟪पच्⟫ 1U ⟪पक्तुम्⟫  
-⟪पद्⟫ 4Ā ⟪पत्तुम्⟫  
-⟪पा⟫ 1P ⟪पातुम्⟫  
-⟪पा⟫ 2P ⟪पातुम्⟫  
-⟪प्रच्छ्⟫ 6P ⟪प्रष्टुम्⟫  
-⟪बुध्⟫ 1U, 4Ā ⟪बोधितुम्⟫ ⟪।⟫ ⟪बोद्धुम्⟫  
-⟪ब्रू⟫ 2U —  
-⟪भज्⟫ 1U ⟪भक्तुम्⟫  
-⟪भू⟫ 1P ⟪भवितुम्⟫  
-⟪मन्⟫ 4Ā ⟪मन्तुम्⟫  
-⟪मुच्⟫ 6U ⟪मोक्तुम्⟫  
-⟪मुह्⟫ 4P ⟪मोहितुम्⟫ ⟪।⟫ ⟪मोग्धुम्⟫ ⟪।⟫ ⟪मोढुम्⟫  
-⟪मृ⟫ 4Ā ⟪मर्तुम्⟫  
-⟪यज्⟫ 1U ⟪यष्टुम्⟫  
-⟪युध्⟫ 4Ā ⟪योद्धुम्⟫  
-⟪रक्ष्⟫ 1P ⟪रक्षितुम्⟫  
-⟪रुद्⟫ 2P ⟪रोदितुम्⟫  
-⟪लभ्⟫ 1Ā ⟪लब्धुम्⟫  
-⟪लुभ्⟫ 4P ⟪लोभितुम्⟫  
-⟪वच्⟫ 2P ⟪वक्तुम्⟫  
-⟪वद्⟫ 1P ⟪वदितुम्⟫  
-⟪विश्⟫ 6P ⟪वेष्टुम्⟫  
-⟪वृत्⟫ 1Ā ⟪वर्तितुम्⟫  
-⟪श्रु⟫ 5P ⟪श्रोतुम्⟫  
-⟪सद्⟫ 1P ⟪सत्तुम्⟫  
-⟪सह्⟫ 1Ā ⟪सहितुम्⟫ ⟪।⟫ ⟪सोढुम्⟫  
-⟪सिच्⟫ 6U ⟪सेक्तुम्⟫  
-⟪सु⟫ 5U ⟪सोतुम्⟫  
-⟪सृज्⟫ 6P ⟪स्रष्टुम्⟫  
-⟪स्तु⟫ 2U ⟪स्तोतुम्⟫  
-⟪स्था⟫ 1P ⟪स्थातुम्⟫  
-⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
-⟪हन्⟫ 2P ⟪हन्तुम्⟫   <!-- TODO: Fallback translation -->
+## 23.3. Şimdiye kadar öğrenilen köklere ait infinitif (⟪तुमुन्⟫)
 
-## 23.4. Wortliste <!-- TODO: Fallback translation -->
+⟪अद्⟫ 2P ⟪अत्तुम् अश्⟫ 5Ā ⟪अशितुम् । अष्टुम् अस्⟫ 2P —  
+⟪अस्⟫ 4P ⟪असितुम् आप्⟫ 5P ⟪आप्तुम् आस्⟫ 2Ā ⟪आसितुम् इ⟫ 2P ⟪एतुम् इष्⟫ 6P ⟪एष्टुम् । एषितुम् कुप्⟫ 4P ⟪कोपितुम् कृ⟫ 8U ⟪कर्तुम् कृष्⟫ 1P ⟪कर्ष्टुम् । क्राष्टुम् कृष्⟫ 6U ⟪कर्ष्टुम् । क्राष्टुम् क्रुध्⟫ 4P ⟪कोद्धुम् खाद्⟫ 1P ⟪खादितुम् गम्⟫ 1P ⟪गन्तुम् जन्⟫ 4Ā ⟪जनितुम् जि⟫ 1P ⟪जेतुम् जीव्⟫ 1P ⟪जीवितुम् तन्⟫ 8U ⟪तनितुम् दह्⟫ 1P ⟪दग्धुम् दिश्⟫ 6U ⟪देष्टुम् दुष्⟫ 4P —  
+⟪दुह्⟫ 2U ⟪दोग्धुम् दृश् द्रष्टुम् द्विष्⟫ 2U ⟪द्वेष्टुम् नी⟫ 1U ⟪नेतुम् नृत्⟫ 4P ⟪नर्तितुम् पच्⟫ 1U ⟪पक्तुम् पद्⟫ 4Ā ⟪पत्तुम् पा⟫ 1P ⟪पातुम् पा⟫ 2P ⟪पातुम् प्रच्छ्⟫ 6P ⟪प्रष्टुम् बुध्⟫ 1U, 4Ā ⟪बोधितुम् । बोद्धुम् ब्रू⟫ 2U —  
+⟪भज्⟫ 1U ⟪भक्तुम् भू⟫ 1P ⟪भवितुम् मन्⟫ 4Ā ⟪मन्तुम् मुच्⟫ 6U ⟪मोक्तुम् मुह्⟫ 4P ⟪मोहितुम् । मोग्धुम् । मोढुम् मृ⟫ 4Ā ⟪मर्तुम् यज्⟫ 1U ⟪यष्टुम् युध्⟫ 4Ā ⟪योद्धुम् रक्ष्⟫ 1P ⟪रक्षितुम् रुद्⟫ 2P ⟪रोदितुम् लभ्⟫ 1Ā ⟪लब्धुम् लुभ्⟫ 4P ⟪लोभितुम् वच्⟫ 2P ⟪वक्तुम् वद्⟫ 1P ⟪वदितुम् विश्⟫ 6P ⟪वेष्टुम् वृत्⟫ 1Ā ⟪वर्तितुम् श्रु⟫ 5P ⟪श्रोतुम् सद्⟫ 1P ⟪सत्तुम् सह्⟫ 1Ā ⟪सहितुम् । सोढुम् सिच्⟫ 6U ⟪सेक्तुम् सु⟫ 5U ⟪सोतुम् सृज्⟫ 6P ⟪स्रष्टुम् स्तु⟫ 2U ⟪स्तोतुम् स्था⟫ 1P ⟪स्थातुम् स्मृ⟫ 1P ⟪स्मर्तुम् हन्⟫ 2P ⟪हन्तुम्⟫
 
-⟪समान⟫ ⟪३⟫: gleich <!-- TODO: Fallback translation -->
 
-⟪सामान्य⟫ n.: Gleichheit, Übereinstimmung <!-- TODO: Fallback translation -->
 
-⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, grösser, besser, ausserordentlich <!-- TODO: Fallback translation -->
+## 23.4. Kelime Listesi
 
-⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica <!-- TODO: Fallback translation -->
+⟪समान ३⟫: eşit, aynı
 
-## 23.5. Übung <!-- TODO: Fallback translation -->
+⟪सामान्य⟫ n.: eşitlik, uyum
 
-A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu: <!-- TODO: Fallback translation -->
+⟪अधिक ३⟫ : fazla, ek, daha büyük, daha iyi, olağanüstü
 
-1.  ⟪आप्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪इ⟫ <!-- TODO: Fallback translation -->
-3.  ⟪गम्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪कृ⟫ <!-- TODO: Fallback translation -->
-5.  ⟪क्रुध्⟫ <!-- TODO: Fallback translation -->
-6.  ⟪जि⟫ <!-- TODO: Fallback translation -->
-7.  duh (⟪दुह्⟫) <!-- TODO: Fallback translation -->
-8.  ⟪दिश्⟫ <!-- TODO: Fallback translation -->
-9.  ⟪दह्⟫ <!-- TODO: Fallback translation -->
-10.  ⟪सृज्⟫ <!-- TODO: Fallback translation -->
-11.  ⟪द्विष्⟫ <!-- TODO: Fallback translation -->
-12.  ⟪नी⟫ <!-- TODO: Fallback translation -->
-13.  ⟪पद्⟫ <!-- TODO: Fallback translation -->
-14.  ⟪पा⟫ ⟪१⟫ <!-- TODO: Fallback translation -->
-15.  ⟪पा⟫ ⟪२⟫ <!-- TODO: Fallback translation -->
-16.  ⟪भज्⟫ <!-- TODO: Fallback translation -->
-17.  ⟪कृष्⟫ <!-- TODO: Fallback translation -->
-18.  ⟪सु⟫ <!-- TODO: Fallback translation -->
-19.  ⟪मन्⟫ <!-- TODO: Fallback translation -->
-20.  ⟪मुच्⟫ <!-- TODO: Fallback translation -->
-21.  ⟪मृ⟫ <!-- TODO: Fallback translation -->
-22.  ⟪यज्⟫ <!-- TODO: Fallback translation -->
-23.  ⟪युध्⟫ <!-- TODO: Fallback translation -->
-24.  ⟪वच्⟫ <!-- TODO: Fallback translation -->
-25.  ⟪विश्⟫ <!-- TODO: Fallback translation -->
-26.  ⟪श्रु⟫ <!-- TODO: Fallback translation -->
-27.  ⟪प्रच्छ्⟫ <!-- TODO: Fallback translation -->
-28.  ⟪सिच्⟫ <!-- TODO: Fallback translation -->
-29.  ⟪स्तु⟫ <!-- TODO: Fallback translation -->
-30.  ⟪स्था⟫ <!-- TODO: Fallback translation -->
-31.  ⟪स्मृ⟫ <!-- TODO: Fallback translation -->
-32.  ⟪हन्⟫ <!-- TODO: Fallback translation -->
-33.  ⟪लभ्⟫ <!-- TODO: Fallback translation -->
-34.  ⟪अद्⟫ <!-- TODO: Fallback translation -->
-35.  ⟪दृश्⟫ <!-- TODO: Fallback translation -->
-36.  ⟪पच्⟫ <!-- TODO: Fallback translation -->
-37.  ⟪सद्⟫ <!-- TODO: Fallback translation -->
+⟪विशेष⟫ m.: özellik, spesifikasyon, differentia specifica
 
-B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infinitiv zu: <!-- TODO: Fallback translation -->
 
-1.  ⟪आस्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪नृत्⟫ <!-- TODO: Fallback translation -->
-3.  ⟪रक्ष्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪रुद्⟫ <!-- TODO: Fallback translation -->
-5.  ⟪वद्⟫ <!-- TODO: Fallback translation -->
-6.  ⟪वृत्⟫ <!-- TODO: Fallback translation -->
-7.  ⟪कुप्⟫ <!-- TODO: Fallback translation -->
+## 23.5. Alıştırma
 
-C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal: <!-- TODO: Fallback translation -->
+A) Aşağıdaki kökler, bağlayıcı ünlü -i- olmadan infinitif oluşturur. Ses değişikliklerine dikkat ederek aşağıdaki köklerin infinitiflerini oluşturun:
 
-1.  ⟪अश्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪इष्⟫ <!-- TODO: Fallback translation -->
-3.  ⟪बुध्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪मुह्⟫ (3 Formen!) <!-- TODO: Fallback translation -->
-5.  ⟪सह्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪आप्⟫
+2.  ⟪इ⟫
+3.  ⟪गम्⟫
+4.  ⟪कृ⟫
+5.  ⟪क्रुध्⟫
+6.  ⟪जि⟫
+7.  duh (⟪दुह्⟫)
+8.  ⟪दिश्⟫
+9.  ⟪दह्⟫
+10.  ⟪सृज्⟫
+11.  ⟪द्विष्⟫
+12.  ⟪नी⟫
+13.  ⟪पद्⟫
+14.  ⟪पा १⟫
+15.  ⟪पा २⟫
+16.  ⟪भज्⟫
+17.  ⟪कृष्⟫
+18.  ⟪सु⟫
+19.  ⟪मन्⟫
+20.  ⟪मुच्⟫
+21.  ⟪मृ⟫
+22.  ⟪यज्⟫
+23.  ⟪युध्⟫
+24.  ⟪वच्⟫
+25.  ⟪विश्⟫
+26.  ⟪श्रु⟫
+27.  ⟪प्रच्छ्⟫
+28.  ⟪सिच्⟫
+29.  ⟪स्तु⟫
+30.  ⟪स्था⟫
+31.  ⟪स्मृ⟫
+32.  ⟪हन्⟫
+33.  ⟪लभ्⟫
+34.  ⟪अद्⟫
+35.  ⟪दृश्⟫
+36.  ⟪पच्⟫
+37.  ⟪सद्⟫
 
-D) Übersetzen Sie und lösen Sie die Komposita auf: <!-- TODO: Fallback translation -->
+B) Aşağıdaki kökler, bağlayıcı ünlü -i- ile infinitif oluşturur. Aşağıdaki köklerin infinitiflerini oluşturun:
 
-⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+1.  ⟪आस्⟫
+2.  ⟪नृत्⟫
+3.  ⟪रक्ष्⟫
+4.  ⟪रुद्⟫
+5.  ⟪वद्⟫
+6.  ⟪वृत्⟫
+7.  ⟪कुप्⟫
 
-⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+C) Aşağıdaki kökler, isteğe bağlı olarak bağlayıcı ünlü ile veya olmadan:
 
-⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अश्⟫
+2.  ⟪इष्⟫
+3.  ⟪बुध्⟫
+4.  ⟪मुह्⟫ (3 form!)
+5.  ⟪सह्⟫
+
+D) Çevirin ve bileşik kelimeleri (kompozitleri) çözün:
+
+⟪नराः स्वर्गं लब्धुं देवान्यज्ञैर्यष्टुमिच्छन्ति ॥१॥ महापुण्यं कृत्वा गतपापजनेन नरकं गन्तुं न शक्यते ॥२॥ फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥⟫
 
 ::: media
 ![](/images/lekt2303.webp)
-Abb.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
-ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2303)) <!-- TODO: Fallback translation -->
+Resim: ⟪फलवन्ति पुण्यानीति⟫
+ทำบุญ = ⟪पुण्यकरणम्⟫, Tayland = ประเทศไทย
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2303))
 :::
-⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥⟫
 
 ::: media
 ![](/images/lekt2301.webp)
-Abb.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
-Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2301)) <!-- TODO: Fallback translation -->
+Resm.: ⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
+Chiang Mai, Tayland = เชียงใหม่, ประเทศไทย
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt2301))
 :::
-⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪शूद्रजनो ब्राह्मणेन सह अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति ॥५॥ लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥ शूद्रया संगत्य ब्राह्मणो यष्टुं नार्हति ॥७॥ धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥⟫
 
-⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+C) Aşağıdaki ⟪सुभाषितम् आहारनिद्राभयमैथुनं च सामान्यमेतत्पशुभिर्नराणाम् । धर्मे हि तेषामधिको विशेषो धर्मेण हीनाः पशुभिः समानाः ॥⟫ metnini çevirin:
 
-⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
-
-⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
-
-C) Übersetzen Sie folgendes ⟪सुभाषितम्⟫ <!-- TODO: Fallback translation -->
-
-⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
-⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
-⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
-⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
-
-Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..." <!-- TODO: Fallback translation -->
+Açıklama: ⟪हीन ३⟫: 3. çekim हा fiilinin PPP'si (geçmiş zaman ortaç); ⟪धर्मे⟫ = Lokatif tekil, anlamı "... içinde"
 
 ::: media
 ![](/images/lekt2302.webp)
-Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
+Resm.: ⟪आहारनिद्राभयमैथुनं च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
-(Bildquelle: [Details](/licenses#lekt2302)) <!-- TODO: Fallback translation -->
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt2302))
 :::
-## 23.6. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 23.6. Tekrar Alıştırması
 
-Bitte keine Hilfsmittel benutzen! <!-- TODO: Fallback translation -->
+Lütfen yardımcı materyal kullanmayınız!
 
-A) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+A) Aşağıdakileri Sanskritçe çevirin:
 
-1\. Die fünf (⟪पञ्च⟫) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den Leib. <!-- TODO: Fallback translation -->
+1. Beş (⟪पञ्च⟫) "acı" şunlardır: Cehalet, yanlış benlik inancı, sevgi (çekim), nefret ve bedene bağlılık.
 
-2\. Wissen gibt es für Gehorsam gegenüber einem Lehrer oder für viel Geld oder im Austausch gegen Wissen. Eine vierte Art von Wissenserwerb gibt es nicht. <!-- TODO: Fallback translation -->
+2. Bilgi, bir hocaya itaat etmek karşılığında veya çok para ile ya da bilgi takasıyla elde edilir. Bilgi ediniminin dördüncü bir yolu yoktur.
 
-3\. Ein Niedriger spricht, handelt aber nicht ; ein Guter spricht nicht, sondern handelt nur. <!-- TODO: Fallback translation -->
+3. Aşağılık kişi konuşur ama eylemde bulunmaz; iyi insan ise konuşmaz, yalnızca eyleme geçer.
 
-4\. Die Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Bedeutungslehre, Metrik (⟪छन्दस्⟫) und Kalenderlehre. <!-- TODO: Fallback translation -->
+4. Veda'ya yardımcı bilimler şunlardır: Telaffuz bilgisi, ritüel bilgisi, dilbilgisi, anlam bilgisi, metrik (⟪छन्दस्⟫) ve takvim bilgisi.
 
-5\. Yoga ist das Stoppen der Tätigkeiten des Denkorgans. <!-- TODO: Fallback translation -->
+5. Yoga, düşünce organının faaliyetlerinin durdurulmasıdır.
 
-6\. Recht siegt, nicht Unrecht ; Wahrheit siegt, nicht Lüge ; Geduld siegt, nicht Zorn ; Gott siegt, nicht ein Gegengott. (Passiv) <!-- TODO: Fallback translation -->
+6\. Hak, haksızlık üzerinde; hakikat, yalanın üstüne; sabır, öfkenin üzerine; Tanrı, başka bir tanrının üzerinde zafer kazanır. (Edilgen)
 
-7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik. <!-- TODO: Fallback translation -->
+7\. "Asa", felsefe, Veda ve ekonomi alanlarında kazanım ve güvenli mülkiyet sağlar. Bu asanın yönetimi politiktir.
 
 ::: media
 ![](/images/lekt2304.jpg)
-Abb.: ⟪दण्डनीतिः⟫
-Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004
-(Bildquelle: [Details](/licenses#lekt2304)) <!-- TODO: Fallback translation -->
+Resim: ⟪दण्डनीतिः⟫
+Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन सिंह⟫, Hindistan Başbakanı = ⟪भारत के प्रधानमन्त्री⟫, 2004'ten beri
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2304))
 :::
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäss der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören. <!-- TODO: Fallback translation -->
+8\. Eş, oğul ve köle; bu üçü (⟪त्रयस्⟫) geleneklere göre mülksüzdür. Bunlara ne gelirse, bunların (üçünün) sahibi olan o kişiye aittir.
 
-9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden. <!-- TODO: Fallback translation -->
+9\. Sivrisinekler bir yaranın peşinde koşar, hükümdarlar mülkünün peşinden koşar, aşağılık olanlar kavga ister, iyi insanlar barış arzu eder.
 
-10\. Die spezifische Pflicht eines Brahmanen ist: Studium, Lehren, Opfern als Opferherr, Opfern im Auftrag, Geben und Empfangen ; die eines Kṣatriya ist: Studium, Opfern als Opferherr, Geben, Lebensunterhalt durch Waffen, Hüten der Wesen ; die eines Vaiśya: Studium, Opfern als Opferherr, Geben, Ackerbau, Viehhaltung und Handel ; die eines Śūdra: Gehorsam gegenüber den Zweimalgeborenen, Wirtschaftstätigkeit, Tätigkeit (⟪कर्म⟫) von Handwerkern und Schaustellern. <!-- TODO: Fallback translation -->
+10\. Bir Brahman'ın özgün görevi: okumak, öğretmek, ev sahibi olarak kurban kesmek, başkaları adına kurban kesmek, vermek ve almak; bir Kṣatriya'nın görevi: okumak, ev sahibi olarak kurban kesmek, vermek, silahlarla geçim sağlamak ve canlıları korumak; bir Vaiśya'nın görevi: okumak, ev sahibi olarak kurban kesmek, vermek, tarım yapmak, hayvancılık ve ticaret; bir Śūdra'nın görevi: iki kere doğmuşlara itaat etmek, ekonomik faaliyetlerde bulunmak ve ⟪कर्म⟫ zanaatkârların ile göstericilerin faaliyetlerine katılmaktır.
 
-11\. Abklärung des Bewusstseins geschieht aufgrund der meditativen Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die als Objekt Glück und Leid, Gutes und Böses haben. <!-- TODO: Fallback translation -->
+11\. Bilinçli aydınlanma; sevgi, merhamet, şefkat ve denge gibi meditasyonla geliştirilen duyguların nesnesi olarak mutluluk ve acı, iyilik ve kötülük üzerine gerçekleşir.
 
-12\. Arme haben viele Söhne, obwohl sie sie nicht wünschen. Reiche haben keinen Sohn. Seltsam ist die Regung des Schicksals. <!-- TODO: Fallback translation -->
+12\. Fakirlerin çok fazla oğlu vardır, isteseler de. Zenginlerin ise bir tane bile yoktur. Kaderin hareketi ne kadar tuhaftır!
 
-13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten. <!-- TODO: Fallback translation -->
+13\. Kimi kadın bedeni (⟪वपुस्⟫ f.) ince bel, geniş kalça, kırmızı dudaklar, siyah gözler, kavisli göbek, dik memeler ile öldürmez.
 
-B) Deklinieren Sie in allen Ihnen bekannten Kasus ⟪क्षत्रिया⟫ f. <!-- TODO: Fallback translation -->
+B) Tüm bildiğiniz halde ⟪क्षत्रिया⟫ f. kelimesini çekimleyiniz.
 
-C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben: <!-- TODO: Fallback translation -->
+C) Aşağıdaki fiillerin kök formlarını (anlam, şimdiki zaman sınıfı, kip, 3. sg. Şimdiki Zaman Bildirme Kipi, 3. sg. Edilgen, PPP, Mutlak Çatma, Infinitif) veriniz:
 
-⟪१⟫. ⟪सह्⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪सह् २⟫. ⟪पा⟫ (2x)
 
-⟪२⟫. ⟪पा⟫ (2x) <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪वच् ४⟫. ⟪हन् ॥⟫
 
-⟪३⟫. ⟪वच्⟫ <!-- TODO: Fallback translation -->
-
-⟪४⟫. ⟪हन्⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
-
-::: deleteme-box
-
-**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Bildquelle: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Bildquelle: von zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt2303:** ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย [Bildquelle: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004 [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-:::

@@ -1,142 +1,143 @@
 ---
-title: Lektion 22
-subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: "Lecke 22"
+subtitle: "Az abszolútum (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# 22. lecke <!-- TODO: Fallback translation -->
+# Lecke 22
 
-## 22.1. Az abszolútum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. Az abszolútum (⟪क्त्वा । ल्यप्⟫)
 
 ::: grammar-box
 
-Ha a szanszkitban kifejezni akarjuk, hogy az alany (⟪कर्तृ⟩) cselekvése egy másik alany-cselekvésnek előzi meg, vagy azzal együtt jár melléktényezőként, az abszolútumot (⟪क्त्वा⟩ ⟪।⟩ ⟪ल्यप्⟩) használjuk. Tehát <!-- TODO: Fallback translation -->
+Ha szanszkritul azt akarjuk kifejezni, hogy az agens (⟪कर्तृ⟫) cselekvése megelőzi egy másik agenscselekvést, vagy azzal együtt jár kísérő körülményként, az abszolútumot (⟪क्त्वा । ल्यप्⟫) használjuk. Tehát
 
-„miután ezt tette, azt teszi”; „ezt teszi, majd azt teszi”; „ennek következtében ezt teszi”; „jöttem, láttam és győztem” stb. <!-- TODO: Fallback translation -->
+„miután ezt tette, azt teszi”; „ezt teszi, majd azt teszi”; „ennek következtében ezt teszi”; „jöttem, láttam és diadalmaskodtam” stb.
 
-Az abszolútum egy igeképző határozószó, azaz sem ragozható, sem deklinálható, de mindig – néhány kivételtől eltekintve – ugyanazt az alanyt (⟪कर्तृ⟩) jelöli, mint a cselekvést, amelynek az abszolútummal kifejezett cselekvés előzi meg vagy amelyet kísér. Az abszolútum alanya tehát nominativusban (⟪प्रथमा⟩) vagy instrumentalisban (⟪तृतीया⟩) áll. <!-- TODO: Fallback translation -->
+Az abszolútum egy verbális adverbium, azaz nem ragozható és nem deklinálható, de mindig – néhány kivételtől eltekintve – ugyanazt az agenst (⟪कर्तृ⟫) hordozza, mint azt a cselekvést, amelynek az abszolútummal jelölt cselekvés megelőzi vagy kísérőjeként társul. Az abszolútum agense tehát nominatívuszban (⟪प्रथमा⟫) vagy instrumentáliszban (⟪तृतीया⟫) áll.
 
-A összetételek mellett az abszolútum a szanszkrit egyik leggyakoribb kifejező eszköze.
+A kompozitumok mellett az abszolútum a szanszkrit egyik leggyakoribb kifejezőeszköze.
 
-Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung. <!-- TODO: Fallback translation -->
+A németre való fordításkor kerülendő a folyamatos „miután” használat. Ehelyett alkalmazza a németben elterjedt időbeli egymásutánítást kifejező módokat.
 
-**Schema:**
+**Séma:**
 
-(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv) <!-- TODO: Fallback translation -->
+(közelebbi meghatározás az abszolútumhoz: körülménymeghatározás, tárgy stb.) – abszolútum – abszolútum – … – abszolútum – … agens + igemondat (aktív vagy passzív alakban)
 
 :::
 **Példák:**
 
 ::: indent
-**⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = passzív szerkezet: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
-"A férfi belép a házba, meglátja a kislányt, és megszólítja."
+**⟪गृहं प्रविश्य बालां दृष्ट्वा नरो वदति⟫** = passzív szerkezet: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते⟫**
+„A férfi belép a házba, meglátja a kislányt és megszólítja.”
 
-Többes szám: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
+Többes szám: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।⟫**
 :::
-## 22.2. Az absolutivum képzése
+## 22.2. Az abszolutív képzése
 
 ::: grammar-box
-**Az absolutivum képzése**
+**Az abszolutív képzése**
 
-*   Igék igekötő (praeverbium) nélkül: absolutivum -tvā végzettel
-*   Igék igekötővel (praeverbiummal): absolutivum -ya, illetve -tya végzettel
+*   Előtag nélküli igék: abszolutív **-tvā** végződésű
+*   Előtagos igék: abszolutív **-ya** vagy **-tya** végződésű
 :::
-### 22.2.1. Igék igekötő (praeverbium) nélkül: absolutivum -⟪त्वा⟫ végzettel <!-- TODO: Fallback translation -->
+### 22.2.1. Előtag nélküli igék: abszolutív -⟪त्वा⟫ végződésű
 
 ::: grammar-box
 
 **Képzés:**
 
-(általában) mély fokú gyökér a formában, amely az PPP előtt áll + **-tvā** (**-⟪त्वा⟫**)
+(általában) a gyökér alacsony fokú alakja, amelyben az PPP előtt áll + **-tvā** (**-⟪त्वा⟫**)
 
-Csak a tagadó **a-** / **an-** tűri meg a **-⟪त्वा⟫** képzőt: ⟪अकृत्वा⟫ "nem cselekedve"
-
-:::
-**Példák:**
-
-::: indent
-⟪आप्त्वा⟫ "miután elérte / elérte"
-
-⟪आसित्वा⟫ "miután (...) ült / ül"
-
-⟪इत्वा⟫ "miután (...) ment / megy"
-
-⟪स्थित्वा⟫ "miután (...) állt / áll"
-
-⟪जित्वा⟫ "miután (...) diadalmaskodott / győzedelmeskedett"
-
-⟪उक्त्वा⟫ "miután (...) beszélt / beszélgetett"
-:::
-### 22.2.2. Igék előtaggal
-
-#### 22.2.2.1. Gyökök hosszú magánhangzóra (−ā kivételével) vagy mássalhangzóra
-
-::: grammar-box
-
-**(főleg) mély hangzású tő + -ya**
+Csak a tagadó **a-** / **an-** tűri meg a **-⟪त्वा⟫** képzőt: ⟪अकृत्वा⟫ "miután nem tett"
 
 :::
 **Példák:**
 
 ::: indent
-⟪उपनीय⟫ "miután (...) elővezetett / elővezette"
+⟪आप्त्वा⟫ "miután elérte ő / ő (nő) / az / én / te / mi / ti / ők / mi ketten / ti ketten / ők ketten"
 
-⟪प्रभूय⟫ "miután (...) kiemelkedett / volt" "miután (...) hatalma volt"
+⟪आसित्वा⟫ "miután ő (...) ült / ül"
 
-⟪प्राप्य⟫ „miután (...) megszerezte / megszerezte”
+⟪इत्वा⟫ "miután ő (...) ment / megy"
+
+⟪स्थित्वा⟫ "miután ő (...) állt / áll"
+
+⟪जित्वा⟫ "miután ő (...) győzött / győz"
+
+⟪उक्त्वा⟫ "miután ő (...) beszélt / beszél"
 :::
-#### 22.2.2.2. -ā végződésű gyökök <!-- TODO: Fallback translation -->
+### 22.2.2. Előtagos igék
+
+#### 22.2.2.1. Hosszú magánhangzóval (-ā kivételével) vagy mássalhangzóval végződő gyökök
 
 ::: grammar-box
 
-**változatlanul magas szintű gyökér + -ya**
+**(általában) alacsony fokú gyökér + -ya**
+
+:::
+**Példák:**
+
+::: indent
+⟪उपनीय⟫ "miután ő (...) idevezette / vezeti"
+
+⟪प्रभूय⟫ "miután ő (...) kiemelkedett / emelkedik" "miután ő (...) hatalma volt"
+
+⟪प्राप्य⟫ "miután ő (...) megszerzett / szerez"
+:::
+#### 22.2.2.2. -ā-val végződő gyökök
+
+::: grammar-box
+
+**változatlan magas fokú gyökér + -ya**
 
 :::
 **Példa:**
 
 ::: indent
-⟪उपस्थाय⟫ "miután (...) belépett / belep" ; (de előtag nélkül: ⟪स्थित्वा⟫)
+⟪उपस्थाय⟫ "miután ő (...) belépett / lép" ; (de előtag nélkül: ⟪स्थित्वा⟫)
 :::
-#### 22.2.2.3. Gyökök, amelyek a mély fokban rövid -i, -u, -ṛ végződésre végződnek <!-- TODO: Fallback translation -->
+#### 22.2.2.3. Olyan gyökök, amelyek alacsony fokú alakjukban rövid -i, -u, -ṛ végződésűek
 
 ::: grammar-box
 
-**mély szintű gyökér + -tya**
+**mélyfokú gyökér + -tya**
 
 :::
 **Példák:**
 
 ::: indent
-⟪प्रस्तुत्य⟫ "miután (...) hangosan dicsért / dicsérte"
+⟪प्रस्तुत्य⟫ "miután (...) dicsérte / dicstette"
 
-⟪विस्मृत्य⟫ "miután (...) elfelejtett / felejtette el" <!-- TODO: Fallback translation -->
+⟪विस्मृत्य⟫ "miután (...) elfelejtette / felejtette"
 
-⟪संस्कृत्य⟫ „miután (...) az áldozatra előkészítette / előkészített”
+⟪संस्कृत्य⟫ "miután (...) az áldozatra előkészítette / előkészítette"
 :::
-#### 22.2.2.4. -am / -an végződésű gyökök, amelyek a mélyfokban -a-ra végződnek
+#### 22.2.2.4. -am / -an végződésű gyökök, amelyek mélyfokon -a-ra végződnek
 
 ::: grammar-box
 
 **Opcionális:**
 
-Tő **-am** / **-an** végződésű + **-ya**
+**-am** / **-an** végződésű gyökér + **-ya**
 
 vagy:
 
-Tő **-a** végződésű + **-tya**
+**-a** végződésű gyökér + **-tya**
 
 :::
 **Példa:**
 
 ::: indent
-⟪विगम्य⟫ vagy ⟪विगत्य⟫ „miután (...) eltűnt / volt”
+⟪विगम्य⟫ vagy ⟪विगत्य⟫ "miután (...) eltűnt / volt"
 :::
-## 22.3. Szószedet <!-- TODO: Fallback translation -->
+## 22.3. Szószedet
 
-**⟪काम⟫ m.:** vágy, kívánság; kivánatos ajándék, érzéki öröm, szerelem, szerelmes isten
+**⟪काम⟫ m.:** vágy, kívánság; kivánt ajándék, érzéki öröm, szerelem, szerelmi isten
 
 ::: indent
 ⟪कामम्⟫ Akk. adverbialisan: vágy szerint, kedv szerint
@@ -145,16 +146,16 @@ Tő **-a** végződésű + **-tya**
 ![](/images/lekt2202.webp)
 Ábr.: ⟪कामदेवः⟫
 19. szd.
-(Képmagyarázat: [Részletek](/hu/licenses#lekt2202))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P. ⟪शक्नोति⟫ Passzív ⟪शक्यते⟫ PPP ⟪शक्त⟫ Infinitívus ⟪शक्तुम्⟫ :** képes lenni, tudni
+**⟪शक्⟫ 5 P. ⟪शक्नोति⟫ Passz. ⟪शक्यते⟫ PPP ⟪शक्त⟫ Inf. ⟪शक्तुम्⟫ :** képes lenni, tudni
 
-davon:
+ebből:
 
 ::: indent
-**⟪शक्ति⟫ f.:** a képesség, erő, tehetség; továbbá: isteni erő, személyesítve női társaként különösen ⟪शिव⟫ esetében
+**⟪शक्ति⟫ f.:** a tudás, képesség, erő; továbbá: isteni erő, személyesítve női kísérőként különösen ⟪शिव⟫ mellett
 
-**⟪शक्र⟫ m.:** a hatalmas (⟪इन्द्र⟫ mellékneve)
+**⟪शक्र⟫ m.:** a hatalmas ( ⟪इन्द्र⟫ mellékneve)
 :::
 ::: media
 ![](/images/lekt2203.webp)
@@ -162,113 +163,82 @@ davon:
 Kolkatta = কলকাতা
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** megérdemel (valami méltó lenni), szabad, köteles valamire, kell (a 2. személyben a ⟪अर्ह्⟫ + infinitívus gyakran enyhített parancsként hangzik: "Te kellene, hogy...") <!-- TODO: Fallback translation -->
+**⟪अर्ह⟫ 1 P. ⟪अर्हति⟫ Passz. ⟪अर्ह्यते⟫ PPP ⟪अर्हित⟫ Inf. ⟪अर्हितुम्⟫ :** megérdemel valamit (valami méltó lenni), szabad neki, köteles valahhoz, kell (2. személyben ⟪अर्ह्⟫ + infinitivus gyakran enyhített parancsként használható: "Te kellene hogy...")
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Part. Präs. P: egy méltó. Buddhizmusban és dzsainizmusban: az, aki elérte a végső megszabadulást
+**⟪अर्हन्त्⟫ 3** Part. Präs. P: egy méltó személy. A buddhizmusban és dzsainizmusban: valaki, aki elérte a végső megszabadulást
 :::
-**⟪व्रत⟫ n.:** fogadalom, vallási kötelesség, vallási megfigyelés (valaki ígéretet tesz az istenségnek, hogy valamit elérjen tőle. Példa: egy anya megígéri, hogy leányát templomi prostituáltaként (⟪देवदासी⟫) adja oda, ha leánya újra egészséges lesz. Fontos ⟪व्रत⟫ ma: böjt; a kedvelt ételektől való tartózkodás; szexuális önmegtartóztatás; szent írások olvasása; bizonyos rítusok végrehajtása; bráhmanák etetése stb. Röviden a ⟪व्रत⟫-ről: Walker, Hindu World II. kötet, 581–582. oldal. Részletesen: P. V. Kane: History of Dharmaśāstra V. kötet, 1. rész, 1–462. oldal. Ott a 253–462. oldalon ⟪व्रत⟫ és vallási ünnepek listája ("a következő lista ... nem igényel teljes teljességet" !!!)
+**⟪व्रत⟫ n.:** fogadalom, vallási kötelesség, vallási megfigyelés (valaki valamit fogad a istenségnek, hogy valamit elérjen tőle. Példa: egy anya fogadja, hogy leányát templomi prostituáltaként (⟪देवदासी⟫) adja oda, ha a leánya újra meggyógyul. Fontos ⟪व्रत⟫ ma: böjt; az ételtől való tartózkodás, amelyiket szeretünk; szexuális tartózkodás; szent iratok olvasása; bizonyos rítusok végrehajtása; bráhmanák etetése stb. Röviden a ⟪व्रत⟫-ről: Walker, Hindu World II. kötet, 581f. oldal. Részletesen: P. V. Kane: History of Dharmaśāstra 5. kötet, 1 rész, 1-462 oldal. Ott a 253-462 oldalon lista ⟪व्रत⟫ és vallási ünnepekről ("a következő lista ... nem igényel teljes kimerítettségre" !!!)
 
-**⟪चर्⟫ 1 P. charati Pass. charyate PPP charita Inf. charitum (Szanszkrit: ⟪चर्⟫ 1 P. ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫):** legelt, barangol, mozog, cselekszik, gyakorol, véghezvisz (pl. **⟪व्रतं⟫ ⟪चर्⟫**: fogadalmat teljesít, különösen szexuális tartózkodás) <!-- TODO: Fallback translation -->
+**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫):** legeltet, bolyong, mozog, cselekszik, valamit gyakorol, végrehajt (pl. **⟪व्रतं चर्⟫**: fogadalmat gyakorol, különösen szexuális tartózkodás)
 
 ebből:
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** mozgó; n.: a mozgó = állatok (növényektől eltérően)
+**⟪चर ३⟫:** mozgékony; n.: a mozgó = állatok (növényektől eltérően)
 
 **⟪चरण⟫ n., m.:** láb
 
-**⟪चरित⟫ n.:** életszokás, életcselekedetek
+**⟪चरित⟫ n.:** életmód, élettettek
 
-**⟪ब्रह्मचर्य⟫ n.:** a Veda végrehajtása (⟪ब्रह्मन्⟫) = a Veda tanulmányozása az első életfázisban (a ⟪ब्रह्मचारिन्⟫-é), amely szigorú szexuális önmegtartóztatást igényel; ezért: szexuális önmegtartóztatás, cölibátusi életszokás
+**⟪ब्रह्मचर्य⟫ n.:** a Veda végrehajtása (⟪ब्रह्मन्⟫) = Veda tanulmányozása az első életfázisban (a ⟪ब्रह्मचारिन्⟫-é), amely szigorú szexuális tartózkodást igényel; ezért is: szexuális tartózkodás, cölibátusi életmód
 :::
 ::: media
 ![](/images/lekt2201.webp)
-Ábr.: ⟪धेनवश्चरन्ति⟫
+Ábra: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2201))
 :::
 ## 22.4. Gyakorlat
 
-**A) Alakítsa és fordítsa az abszolútumot a következő igékhez:**
+**A) Alakítsa ki és fordítsa le az abszolútumot a következő igékhez:**
 
-1.  ⟪आप्⟫
-2.  ⟪प्राप्⟫
-3.  ⟪समास्⟫
-4.  ⟪आस्⟫
-5.  ⟪समि⟫
-6.  ⟪संस्कृ⟫
-7.  ⟪कृ⟫
-8.  ⟪गम्⟫
-9.  ⟪उपगम्⟫ (2 alak)
-10.  ⟪जि⟫
-11.  ⟪विजि⟫
-12.  ⟪तन्⟫
-13.  ⟪दह्⟫
-14.  ⟪उपदिश्⟫
-15.  ⟪नी⟫
-16.  ⟪पच्⟫
-17.  ⟪उपपद्⟫
-18.  ⟪पा⟫ ⟪१⟫
-19.  ⟪प्रच्छ्⟫
-20.  ⟪बुध्⟫
-21.  ⟪सम्बुध्⟫
-22.  ⟪भज्⟫
-23.  ⟪भू⟫
-24.  ⟪प्रभू⟫
-25.  ⟪मन्⟫
-26.  ⟪मुच्⟫
-27.  ⟪विमुच्⟫
-28.  ⟪मृ⟫
-29.  ⟪यज्⟫
-30.  ⟪लभ्⟫
-31.  ⟪उपलभ्⟫
-32.  ⟪वच्⟫
-33.  ⟪प्रवच्⟫
-34.  ⟪वद्⟫
-35.  ⟪प्रवद्⟫
-36.  ⟪हन्⟫
+1. ⟪आप्⟫
+2. ⟪प्राप्⟫
+3. ⟪समास्⟫
+4. ⟪आस्⟫
+5. ⟪समि⟫
+6. ⟪संस्कृ⟫
+7. ⟪कृ⟫
+8. ⟪गम्⟫
+9. ⟪उपगम्⟫ (2 alak)
+10. ⟪जि⟫
+11. ⟪विजि⟫
+12. ⟪तन्⟫
+13. ⟪दह्⟫
+14. ⟪उपदिश्⟫
+15. ⟪नी⟫
+16. ⟪पच्⟫
+17. ⟪उपपद्⟫
+18. ⟪पा १⟫
+19. ⟪प्रच्छ्⟫
+20. ⟪बुध्⟫
+21. ⟪सम्बुध्⟫
+22. ⟪भज्⟫
+23. ⟪भू⟫
+24. ⟪प्रभू⟫
+25. ⟪मन्⟫
+26. ⟪मुच्⟫
+27. ⟪विमुच्⟫
+28. ⟪मृ⟫
+29. ⟪यज्⟫
+30. ⟪लभ्⟫
+31. ⟪उपलभ्⟫
+32. ⟪वच्⟫
+33. ⟪प्रवच्⟫
+34. ⟪वद्⟫
+35. ⟪प्रवद्⟫
+36. ⟪हन्⟫
 
-**B) Fordítsa le és bontsa fel a szanszkrit összetételeket:** <!-- TODO: Fallback translation -->
+**B) Fordítsa le és bontsa fel a szanszkrit összetételeket:**
 
-⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदासो⟫ ⟪ऽत्ति⟫ ⟪॥१॥⟫
+⟪अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥ इष्टदेवतापूजां कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः स्तुवन्ति ॥२॥ प्रस्थाय रामः सपुत्रः सद्गुरुश्रवणार्थेन ब्राह्मणग्रामं गच्छति ॥३॥ अनिष्ट्वा नरो भगवद्भक्तिमात्रेणापि मोक्षमाप्नोति ॥४॥ गृहगर्भं प्रविश्य ब्राह्मणपुत्रमुपस्थाय क्षत्रियशूरो वक्ति ॥५॥ सम्बुध्य दुःखाद्यार्यसत्यानि प्रोच्य सुगतो मोक्षमार्गेण नरान्नयति ॥६॥ मन्त्रं विस्मृत्य यजन्यज्ञदोषं करोति ॥७॥ धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति ॥८॥ अनार्यशत्रुभिः संगत्य नरसिंहा विजयन्ते ॥९॥ पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥⟫
 
-⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः⟫ ⟪स्तुवन्ति⟫ ⟪॥२॥⟫
-
-⟪प्रस्थाय⟫ ⟪रामः⟫ ⟪सपुत्रः⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छति⟫ ⟪॥३॥⟫
-
-⟪अनिष्ट्वा⟫ ⟪नरो⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्षमाप्नोति⟫ ⟪॥४॥⟫
-
-⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫
-
-⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫
-
-⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫
-
-⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫
-
-⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫
-
-⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫
-
-**C) Alakítsa a fenti mondatokból (8. és 10. kivételével) passzív szerkezeteket**
+**C) Alakítsa ki a fenti mondatokból (8. és 10. kivételével) passzív szerkezeteket**
 
 ::: media
 ![](/images/lekt2204.webp)
-Ábra: ⟪अन्नं⟫ ⟪पक्त्वा⟫
+Ábra: ⟪अन्नं पक्त्वा⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2204))
 :::
 
-::: deleteme-box
-
-**lekt2201:** Goa = ⟪गोंय⟫ [Képmegjelenítés forrása: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Hozzáférés: 2008-12-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-**lekt2202:** 19. század [Képmegjelenítés forrása: Wikipedia, Közterület]
-
-**lekt2203:** Kolkatta = কলকাতা [Képmegjelenítés forrása: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Hozzáférés: 2008-12-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-**lekt2204:** [Képmegjelenítés forrása: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Hozzáférés: 2008-12-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
-::: <!-- TODO: Fallback translation -->
-
-
-:::

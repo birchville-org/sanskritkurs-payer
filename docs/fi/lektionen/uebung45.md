@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 45
 
-A) Käännä sanskritiksi (käytä menneen ajan ilmaisuun imperfekti): <!-- TODO: Fallback translation -->
+A) Käännä sanskritiksi (käytä menneen ajan ilmaisuun imperfekti):
 
 ⟪१⟫. **⟪सङ्घं⟫ ⟪भिनत्सि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 Hajoitat (buddhalaisen) yhteisön.
@@ -22,19 +22,19 @@ Olette nauttinut maasta?
 Oletko saanut kuninkaalta lahjan?
 
 ⟪४⟫. **⟪साधो⟫ ⟪कस्माद्भयेभ्यो⟫ ⟪न⟫ ⟪बिभेषि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Pyhä mies, miksi et pelkää vaaroja? <!-- TODO: Fallback translation -->
+Pyhä mies, miksi et pelkää vaaroja?
 
 ⟪५⟫. **⟪पितः⟫ ⟪कुत्र⟫ ⟪गच्छन्कुलं⟫ ⟪जहासि⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Isä, minne mennessasi jätät perheen? <!-- TODO: Fallback translation -->
+Isä, minne mennessasi jätät perheen?
 
 ⟪६⟫. **⟪शूद्रे⟫ ⟪ऽपि⟫ ⟪धनिनो⟫ ⟪ब्राह्मणस्य⟫ ⟪गृहं⟫ ⟪भारमबिभः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 Śūdra-nainen, toivitko raskauden rikkaan brahminin taloon?
 
 ⟪७⟫. **⟪देवि⟫ ⟪कृतपुण्यस्य⟫ ⟪वैश्यस्य⟫ ⟪सुखेष्टिं⟫ ⟪पिपूर्याः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Jumalatar, sinun tulisi täyttää Vaiśya:n toive onnesta, joka on tehnyt ansioituneita tekoja. <!-- TODO: Fallback translation -->
+Jumalatar, sinun tulisi täyttää Vaiśya:n toive onnesta, joka on tehnyt ansioituneita tekoja.
 
 ⟪८⟫. **⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (Tai: **... ⟪न⟫ ⟪भिन्द्यात⟫ ⟪॥⟫**)
-Norsut, teidän ei tulisi rikkoa kahleita. <!-- TODO: Fallback translation -->
+Norsut, teidän ei tulisi rikkoa kahleita.
 
 ⟪९⟫. **⟪नरसिंह⟫ ⟪कस्माद्ब्रह्मणि⟫ ⟪न⟫ ⟪समादधासि⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 Leijonamainen mies, miksi et kiinnitä huomiota kokonaan absoluuttiseen?
@@ -49,10 +49,10 @@ Oletko, o runoilija, mittanut maailmoja?
 B) Käännä:
 
 ⟪१⟫. **⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Arjuna, joko sinut tapetaan ja pääset taivaaseen, tai voit voittaa ja nauttia maasta. Siksin sinun on taisteltava (sinun täytyy taistella). <!-- TODO: Fallback translation -->
+Arjuna, joko sinut tapetaan ja pääset taivaaseen, tai voit voittaa ja nauttia maasta. Siksin sinun on taisteltava (sinun täytyy taistella).
 
 ⟪२⟫. **⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Arvostettu, miten lopetit äärettömän kärsimyksen? <!-- TODO: Fallback translation -->
+Arvostettu, miten lopetit äärettömän kärsimyksen?
 
 ⟪३⟫. **⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Brahmani, kaadatko ghee:n uhrituleen?
@@ -64,5 +64,5 @@ Vihollinen, et pilko miekalla sielua (elämää).
 ![](/images/uebung074.webp)
 Kuv.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung074))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

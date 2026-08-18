@@ -261,14 +261,3 @@ Goa = ⟪गोंय⟫
 (የምስሉ ምንጭ፡ [ዝርዝሮች](/licenses#lekt2204))
 :::
 
-::: deleteme-box
-
-**lekt2201:** Goa = ⟪गोंय⟫ [የምስል ምንጭ: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- የተገኘው በ 2008-12-12. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ ማሻሻያ የሌለው)]
-
-**lekt2202:** 19ኛው ክፍለ ዘመን [የምስል ምንጭ: Wikipedia, የህዝብ ንብረት]
-
-**lekt2203:** Kolkatta = কলকাতা [የምስል ምንጭ: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- የተገኘው በ 2008-12-12. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ ማሻሻያ የሌለው)]
-
-**lekt2204:** [የምስል ምንጭ: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- የተገኘው በ 2008-12-12. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ ማሻሻያ የሌለው)]
-:::
-

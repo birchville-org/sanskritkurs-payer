@@ -302,12 +302,3 @@ A) Determine and translate the following forms without aids (!):
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** Professor of Comparative Linguistics, University of Erlangen-Nuremberg (1955 - 1983) [Image source: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Accessed on 2009-02-27]
-
-**lekt5602:** Poster (Ernesto Che Guevara) dari sebuah partai politik di Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). "Terjemahan kasar dari apa yang tertulis di atasnya adalah: Martir adalah pengalaman yang menarik bagi seorang revolusioner. Dan pilihan terakhir yang menakutkan bagi pengecut. Che bukan teladan bagi orang-orang pengecut." [Sumber gambar: Hari\_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Diakses pada 2009-02-27. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribusi, penggunaan non-komersial, berbagi serupa)]
-
-**lekt5603:** [Image source: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Accessed on 2009-02-27. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-:::

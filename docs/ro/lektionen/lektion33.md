@@ -1,7 +1,8 @@
 ---
-title: Lektion 33
+title: "Lecție 33"
 lesson_id: 33
 status: stable
+
 ---
 
 # Lecția 33
@@ -73,51 +74,62 @@ Exemple:
 Exemplu:
 
 ::: indent
-**⟪स्था⟫** 1 "a sta"
-* 3.sg.P.Ind.Prés. **⟪तिष्ठति⟫**
+⟪स्था⟫ 1 "a sta"
+* Pers. a III.Sg.Ind.Prez. ⟪तिष्ठति⟫
 :::
 ## 33.2. A treia clasă de prezente (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.")
 
 ::: grammar-box
 **Formare:**
 
-**stam puternic:**  
-**rădăcină cu ton ascens reduplicat, la nivel înalt, + terminație**
+**Tămâie puternică:**  
+**rădăcină reduplicată în gradul maxim + terminație**
 
-**stam slab:**  
-**rădăcină cu ton ascens reduplicat, la nivel coborât, + terminație**
+**Tămâie slabă:**  
+**rădăcină reduplicată în gradul minim + terminație**
 
 **Pentru consoana de reduplicare se aplică regulile date mai sus.**
 :::
-### 33.2.1. Vocalul de reduplicare al celei de-a treia clase de prezente
+### 33.2.1. Vocalica de reduplicare a celei de-a treia clase de prezente
 
 ::: grammar-box
-* **Vocalul de reduplicare regulat este -i-**
-* **Rădăcinile care conțin -u se reduplică cu -u-**
-* **Rădăcinile ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ cu -a-**
+* **Vocalica de reduplicare regulată este -i-**
+* **Rădăcinile care conțin u se reduplică cu -u-**
+* **rădăcinile ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ cu -a-**
 :::
 Exemple:
 
 ::: grammar-box
-**⟪हु⟫** Pers. a 3-a „a turna în foc (ca ofrandă)”
+⟪हु⟫ Pers. a III "a turna (în focul de jertfă)"
 
-* **temă puternică:** ⟪जुहो⟫
-* **temă slabă:** ⟪जुहु⟫ <!-- TODO: Fallback translation -->
+* **Tămâie puternică:** ⟪जुहो⟫
+* **Tămâie slabă:** ⟪जुहु⟫
 
-| | Pers. a 3-a sg. Ind. | Pers. a 3-a pl. Ind. | Pers. a 3-a sg. Med. | Pers. a 3-a pl. Med. |
+| | Pers. a III.Sg. | Pers. a III.Pl. | Pers. a III.Sg. Ā. | Pers. a III.Pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicativ Prezent** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **Indicativ Prezent** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;:brjuhu + ate |
+| **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:bra-juhu + ata |
+| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \&lt;⟪जुह्वीत⟫\&gt;:brjuhu + ī-ta | \&lt;⟪जुह्वीरन्⟫\&gt;:brjuhu + ī-ran |
 :::
-## 33.3. Despre ablautele lui ā
+## 33.3. Referitor la ablația lui ā
 
 ā kann
 
-* pe de o parte, este gradul lung al uneia dintre seriile de ablaute cu -a-
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein <!-- TODO: Fallback translation -->
+* pe de o parte, gradul lung al uneia dintre seriile de ablație cu -a-
+* pe de altă parte, gradul maxim într-o serie de ablație a grupului ā
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
+Cele mai importante două serii de ablație ale grupului ā sunt:
+
+::: grammar-box
+**A.**
+
+* **Gradul minim**
+* **înaintea consoanelor: -i-**  
+ex. ⟪धा⟫ PPP: ⟪हित⟫ (hi-ta)
+* **înaintea vocalelor: Ø**  
+ex. ⟪धा⟫ Pers. a III.Pl.Ind.Prez. ⟪दधति⟫ (dadh-ati)
+* **Gradul maxim: -ā-**  
+ex. ⟪धा⟫ Pers. a III.Sg.Ind.Prez. ⟪दधाति⟫
 
 ::: grammar-box
 **A.**
@@ -276,7 +288,7 @@ Fig.: ⟪समाधि⟫
 3.pl.P **:sig[⟪पिपुरति⟫]**  
 3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (din: \*apipart)  
 3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
-3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]** <!-- TODO: Fallback translation -->
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -365,7 +377,7 @@ Fig.: ⟪हीनयानमेव⟫
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3302))
 :::
-**⟪घृत⟫** n.: unt topit, ghee (⟪घी⟫ / گھی / ঘী) <!-- TODO: Fallback translation -->
+**⟪घृत⟫** n.: unt topit, ghee (⟪घी⟫ / گھی / ঘী)
 
 ::: note-box
 „Ghee se prepară prin fierberea untului nesărat într-o oală mare, până când toată apa a fiert și proteinele s-au depus la fund. Untul gătit și clarificat se ia apoi cu lingura, pentru a nu tulbura reziduurile de lapte de la fundul vasului. Spre deosebire de unt, ghee-ul se poate păstra pe perioade îndelungate fără refrigerare, cu condiția să fie păstrat într-un recipient ermetic, pentru a preveni oxidarea, și să rămână lipsit de umiditate. Textura, culoarea sau gustul ghee-ului depind de sursa laptelui din care a fost preparat untul. În India, ghee-ul se prepară de obicei din lapte de bivol, deoarece tinde să fie mai alb decât laptele de vacă.”
@@ -417,17 +429,3 @@ Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-::: deleteme-box
-
-**Definiție și detalii despre ghee:**
-* Sursă: http://en.wikipedia.org/wiki/Ghee (Accesat: 2008-12-26)
-
-**Lista ilustrărilor și licențe:**
-* **Ilustrarea lekt3306 (petrecere de nuntă, Chennai):** Sursa imaginii: http://www.pbase.com/chandra/image/62118318 (Accesat la 2008-12-27). Licență Creative Commons (Atribuire, non-comercial, share alike).
-* **Ilustrarea lekt3307 (purtaș din Udaipur):** Sursa imaginii: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Accesat la 2008-12-27). Licență Creative Commons (Atribuire, non-comercial, fără modificări).
-* **Ilustrarea lekt3305 (Samadhi yogini, Kaveripakkam):** Sursa imaginii: Quadell / Wikipedia (Licență GNU FDL).
-* **Ilustrarea lekt3304 (purtaș bhaya, Mumbai):** Sursa imaginii: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, Accesat la 2008-12-26). Licență Creative Commons (Atribuire).
-* **Ilustrarea lekt3303 (Hinayana Thailanda):** Sursa imaginii: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Accesat la 2008-12-26). Licență Creative Commons (Atribuire, non-comercial).
-* **Ilustrarea lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Sursa imaginii: Dey (http://www.flickr.com/photos/dey/466758922/, Accesat la 2008-12-26). Licență Creative Commons (Atribuire, non-comercial, share alike).
-* **Ilustrarea lekt3308 (purtaș femeie, Delhi):** Sursa imaginii: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Accesat la 2008-12-27). Licență Creative Commons (Atribuire, non-comercial, fără modificări).
-:::

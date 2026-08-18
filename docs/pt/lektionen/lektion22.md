@@ -147,7 +147,7 @@ Abb.: ⟪कामदेवः⟫
 19. Jhdt
 (Bildquelle: [Details](/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** ser capaz, poder <!-- TODO: Fallback translation -->
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** ser capaz, poder
 
 deles:
 
@@ -257,17 +257,7 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt2204))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
 
-**lekt2201:** Goa = ⟪गोंय⟫ [Fonte da imagem: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Acedido em 2008-12-12. -- Licença Creative Commons (Atribuição, uso não comercial, sem obras derivadas)]
-
-**lekt2202:** Século XIX [Fonte da imagem: Wikipedia, Domínio público]
-
-**lekt2203:** Kolkatta = কলকাতা [Fonte da imagem: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Acedido em 2008-12-12. -- Licença Creative Commons (Atribuição, uso não comercial, sem obras derivadas)]
-
-**lekt2204:** [Fonte da imagem: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Acedido em 2008-12-12. -- Licença Creative Commons (Atribuição, uso não comercial, sem obras derivadas)]
 :::
 

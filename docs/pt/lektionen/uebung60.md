@@ -8,9 +8,9 @@ last_reconstructed: 2026-05-15
 
 # Exercício 60
 
-A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmässigen Desiderativbildungen zu bisher gelernten Verben <!-- TODO: Fallback translation -->
+A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmässigen Desiderativbildungen zu bisher gelernten Verben
 
-B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen: <!-- TODO: Fallback translation -->
+B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
 
 1.  ⟪ददुषोः⟫ - ⟪ददिवांस्⟫ Part.Perf.P zu ⟪दा⟫ 3U Lok.Gen.du.m.n. der beiden / bei den beiden, die gegeben haben
     
@@ -115,6 +115,6 @@ B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen: <!-- TODO: Fa
 51.  ⟪अवाचः⟫ - ⟪अवाञ्च्⟫ 3 Abl.Gen.sg.m.n.Akk.pl.m. des abwärts gerichteten ...
      
 52.  ⟪ईयुषे⟫ - ⟪ईयिवांस्⟫ Part.Perf.P zu ⟪इ⟫ 2P Dat.sg.m.n. dem, der gegangen ist
-  <!-- TODO: Fallback translation -->
+ 
 
 ENDE DER ÜBUNGEN

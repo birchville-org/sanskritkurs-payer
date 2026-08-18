@@ -8,7 +8,7 @@
 Εικ.: Δείγματα γραφής σανσκριτικής  
 \[Πηγή εικόνας: Wikipedia, άδεια GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- T
 
 Τα φωνήεντα που ακολουθούν ένα σύμφωνο -- εκτός από το «a» -- γράφονται ως εξής:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
 Η σειρά γραφής αυτών των συνδυασμών συμφώνου + φωνήεντος είναι:
 

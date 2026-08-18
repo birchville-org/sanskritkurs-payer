@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 21
 
@@ -144,7 +144,7 @@ Tab.: ⟪सती⟫-tabula memoriae
 | | **starker Stamm** | ⟪महान्त्⟫ |
 | | **schwacher Stamm** | ⟪महत्⟫ |
 | **Femininum** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
 
 :::
 ::: grammar-box
@@ -307,16 +307,3 @@ B) Translate:
 
 ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-::: deleteme-box
-
-**lekt2101:** ⟪सती⟫-tabula memoriae in palatio Iodhpurensi - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [fons imaginis: Flicka / Wikipedia. Licentia GNU FDL]
-
-**lekt2102:** "Sigillum e sardonyxo, saeculis IV-VI p.C. confectum, Vishnum cum adoratore repraesentans. Inscriptio in Bactrianis cursivis haec legitur: 'Mihira, Vishnu et Shiva'. [Fons imaginis: PHGCOM / Wikipedia. Licentia GNU FD]"
-
-**lekt2103:** ⟪भगवान्कृष्णः⟫ ut ⟪जगन्नाथ⟫ (dextra) cum sua semisore सुभद्रा⟩ (media) et fratre maiore बलराम⟩, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Fontes imaginis: Sujitkumar / Wikipedia. Licentia GNU FD]
-
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Fontes imaginum: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Accessus die 2008-12-12. -- Licentia Creative Commons (Attributio, usus non-commercialis)]
-
-**lekt2105:** ⟪भगवद्गीता⟫ - Codex, saec. XIX. [Imaginis fontis: Wikipedia, Dominium publicum]
-:::
- <!-- TODO: Fallback translation -->

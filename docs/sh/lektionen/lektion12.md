@@ -9,14 +9,6 @@ status: stable
 
 # Lekcija 12
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Das Partizip Perfekt Passiv (PPP)
-- Die Bedeutung des PPP
-- Die Bildung des PPP
-- Gesetze der Lautverbindung im Wort
-- Passiv und PPP der bisher gelernten Wurzeln
-:::
 
 ## 12.1. Partizip Perfekt Passiv (PPP)
 

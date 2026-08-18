@@ -11,7 +11,7 @@ status: stable
 
 ## 46.1. Formazione delle forme verbali della seconda persona (⟪मध्यमः⟫) del Perfetto (⟪लिट्⟫)
 
-### 46.1.1. Desinenze &lt;!-- TODO: Fallback translation --&gt;
+### 46.1.1. Desinenze &lt;!--  --&gt;
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -654,26 +654,5 @@ B) Tradurre:
 ![](/images/lekt4612.webp)
 Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/it/licenses#lekt4612)
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-Fonti delle immagini dei Navagraha: Redtigerxyz / Wikipedia. Licenza GNU FDL
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870). Fonte: Wikipedia. Dominio pubblico
-
-L4606: ⟪अश्वरोहकः⟫, Pune=⟪पुणे⟫. Fonte: wili_hybrid, Flickr, CC BY 2.0
-
-L4608: Udaipur. Fonte: Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609: Karnataka=ಕರ್ನಾಟಕ. Fonte: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, Kamareddy=⟪कामारैड्डि⟫. Fonte: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, Bangalore=⟪बेंगळूरू⟫. Fonte: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, Kutch=⟪कच्छ⟫. Fonte: orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612: Mumbai=⟪मुंबई⟫ dopo l'attentato, 11 luglio 2006. Fonte: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
 :::
 

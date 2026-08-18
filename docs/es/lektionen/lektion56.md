@@ -308,12 +308,3 @@ A) Determine y traduzca las siguientes formas sin utilizar materiales de ayuda (
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** Profesor de Lingüística Comparada, Universidad de Erlangen-Núremberg (1955 - 1983) [Fuente de la imagen: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Acceso el 27-02-2009]
-
-**lekt5602:** Póster (Ernesto "Che" Guevara) de un partido político en Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). «La traducción aproximada de lo escrito en él sería: El martirio es una experiencia fascinante para un revolucionario. Y un recurso desalentador para un cobarde. Che no es un modelo a seguir para los cobardes.» [Fuente de la imagen: Hari\_Menon. -- [http://www.flickr.com/photos/me\_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Acceso el 27-02-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
-
-**lekt5603:** [Fuente de la imagen: Banco Mundial / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Acceso el 27-02-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, uso no comercial, sin obras derivadas)]
-
-:::

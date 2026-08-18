@@ -9,15 +9,8 @@ last_reconstructed: 2026-05-07
 
 # Lectio 9
 
-::: deleteme-box
-**In hac lectione discetis:**
-- Samāhāradvandva ("Dvandva collectio")
-- Nominalium radicum formationes cum suffixis **-ka** (taddhita) et **-aka** (kṛt)
-- Lexica ad argumentum officia et roles sociales
-- Citationes e textibus classicis iuris (Dharmaśāstras)
-:::
 
-## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva") <!-- TODO: Fallback translation -->
+## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
 
 ::: grammar-box
 **Si Dvandva exprimere vult quod series rerum etc. unitatem constituat, tum in genere neutro numero singulari ponitur:**
@@ -26,7 +19,7 @@ z.B. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम�
 :::
 Praeter hanc regulam primam ad formandos Samāhāradvandvas, aliae quoque regulae sunt, quae apud Pāṇinum 2,4,2-17 vel exempli gratia Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a inveniri possunt. In variis gradibus evolutionis linguae non semper eadem regulae servatae sunt!
 
-## 9.2. De formatione stemmatium nominalium <!-- TODO: Fallback translation -->
+## 9.2. De formatione stemmatium nominalium
 
 ### 9.2.1. -ka (taddhita)
 
@@ -47,7 +40,7 @@ Praeter hanc regulam primam ad formandos Samāhāradvandvas, aliae quoque regula
    **rūpa n. "forma" » rūpaka 3 ⟪रूपक⟩ "formam alicuius habens"**
 :::
 
-### 9.2.2. -aka (kṛt), fem. oft -ikā <!-- TODO: Fallback translation -->
+### 9.2.2. -aka (kṛt), fem. oft -ikā
 
 ::: grammar-box
 **Suffixum kṛt -aka, femininum saepe -ikā, nomina agentis (nomina, quae agentem exprimunt) ad omnes radices format.**
@@ -63,7 +56,7 @@ Vocalis finalis radicis, necnon **-a-** in penultima syllaba radicis, per gradum
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" | <!-- TODO: Fallback translation -->
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
 ::: grammar-box
 **Quaedam horum compositionum angustius significant: "quod per radicem expressum consuetudinarie vel ut officium vel bene faciens".**
@@ -76,9 +69,9 @@ vide supra e.g. **śrāvaka**, **yājaka**, **jayaka**
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" | <!-- TODO: Fallback translation -->
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" |
 
-Praeterea sunt nonnullae usus minus importantes suffixi **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff. <!-- TODO: Fallback translation -->
+Praeterea sunt nonnullae usus minus importantes suffixi **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
 
 ## 9.3. Vocabularium
 
@@ -149,7 +142,7 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 1. Officia bis-natorum:
    **ijyādhyayanadānāni**
    ⟪इज्याध्ययनदानानि⟫
-   (Yājñavalkyadharmaśāstra I, 118) <!-- TODO: Fallback translation -->
+   (Yājñavalkyadharmaśāstra I, 118)
 
 2. Officia specifica Brahmanici:
    **pravacanayājanapratigrahāḥ**
@@ -175,4 +168,3 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
    (secundum Kauṭilīya-Arthaśāstra 1.4.1.)
- <!-- TODO: Fallback translation -->

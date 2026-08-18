@@ -180,13 +180,3 @@ Ayat 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. dari ⟪सर्व�
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** Birla Mandir, Delhi [Sumber gambar: Deepak / Wikipedia ; Lisensi Creative Commons (Atribusi, sama berbagi)]
-
-**lekt1602:** "Ini adalah upacara khusus di sebuah kuil kecil di Satara (⟪सातारा⟫). Upacara ini dilakukan oleh para siswa Swami Muktananda Vedashala pada perayaan Mahāśivarātri. Ini adalah sebuah sekolah Veda, di mana anak-anak menghafal teks-teks suci yang disebut Veda. Sekolah ini mengajarkan Krishna Yajurveda dan beberapa bagian dari Samaveda. Saya sedang mengerjakan tesis master saya tentang sekolah ini." [Sumber gambar: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Diakses pada 2008-12-07. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
-
-**lekt1603:** "Tangan dengan roda di telapak tangan melambangkan Sumpah Jain Ahimsa. Kata di tengah adalah "ahimsa". Roda mewakili dharmacakra yang melambangkan tekad untuk menghentikan siklus reinkarnasi melalui pengejaran kebenaran dan non-kekerasan yang tanpa henti." [Sumber gambar: Wikipedia, Domain publik]
-
-**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Sumber gambar: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Diakses pada 2008-12-07. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tidak ada karya turunan)]
-:::

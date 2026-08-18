@@ -1,8 +1,9 @@
 ---
-title: "अभ्यास 11"
+title: "अभ्यास ११"
 uebung_id: 11
-category: "अभ्यास"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -20,10 +21,10 @@ A) नीचे दिए गए वाक्यों का अनुवाद
 एक संत स्वर्ग में जाता है।
 
 ⟪⟪⟪४⟫⟫⟫. ⟪⟪⟪ब्राह्मणो⟫⟫⟫ ⟪⟪⟪ऽनृतं⟫⟫⟫ ⟪⟪⟪न⟫⟫⟫ ⟪⟪⟪वदतीति⟫⟫⟫ ⟪⟪⟪स्मृतिः⟫⟫⟫ ⟪⟪⟪।⟫⟫⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. <!-- TODO: Fallback translation -->
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
 
 ⟪⟪⟪५⟫⟫⟫. ⟪⟪⟪क्षत्रियो⟫⟫⟫ ⟪⟪⟪ब्राह्मणं⟫⟫⟫ ⟪⟪⟪धर्मं⟫⟫⟫ ⟪⟪⟪पृच्छति⟫⟫⟫ ⟪⟪⟪।⟫⟫⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 इस प्रकार ब्राह्मण देवता को यज्ञ प्रदान करता है।

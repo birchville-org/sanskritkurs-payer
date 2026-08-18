@@ -19,7 +19,7 @@ Cultul lui Gaṇeśa
 ![](/images/lekt0102.webp)
 Ilustr.: Gaṇeśa, Adamspeak, Sri Lanka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0102))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: center
@@ -49,7 +49,7 @@ maṅgalacaraṇam
 ![](/images/lekt0101.webp)
 Ilustr.: Ardhanarīśvara
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0101))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: center
@@ -85,7 +85,7 @@ La început, un curiosum:
 ![](/images/lekt0103.webp)
 Fig.: Coperta unei ediții de buzunar
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0103))
-::: <!-- TODO: Fallback translation -->
+:::
 
 >**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Partea: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- De atunci, multe ediții, inclusiv ediții de buzunar. -- **Citate obligatorii.** O bună prezentare generală a vieții, istoriei și culturii din India preislamică. Prezentare generală a diverselor domenii ale indologiei clasice.
 
@@ -94,44 +94,44 @@ Fig.: Coperta unei ediții de buzunar
 ![](/images/lekt0104.webp)
 Fig.: Pagina de titlu
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0104))
-::: <!-- TODO: Fallback translation -->
+:::
 
 **Cea mai bună gramatică sistematică**
 
-> **Kielhorn**, Franz (1840–1908): Grammatica limbii sanscrite / Tradus din engleză de W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Titlu original: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+> **Kielhorn**, Franz (1840–1908): Grammatica limbii sanscrite / Tradus din engleză de W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Titlu original: A grammar of the Sanscrit language
 
 :::
 ::: media
 ![](/images/lekt0105.webp)
 Fig.: Coperta
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0105))
-::: <!-- TODO: Fallback translation -->
+:::
 
 **O bună gramatică sistematică, bazată pe gramaticienii indigeni și, în același timp, o introducere în Pāṇini:**
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Gramatică sanscrită / Scris inițial în malayalam. Tradus în engleză de K.V.R. Pai. -- Parathode : Autoeditare, 1983. -- 818 p. ; 23 cm. <!-- TODO: Fallback translation -->
+> **Kunnappally, John:** Prakriyā bhāshyam : Gramatică sanscrită / Scris inițial în malayalam. Tradus în engleză de K.V.R. Pai. -- Parathode : Autoeditare, 1983. -- 818 p. ; 23 cm.
 
 :::
 ::: media
 ![](/images/lekt0107.jpg)
 Fig.: Coperta
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0107))
-::: <!-- TODO: Fallback translation -->
+:::
 
 O prezentare bună și concisă a terminologiei lingvistice europene se găsește în:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Editat de Elmar Seebold. -- A 24-a, rev. și ext. ed. -- Berlin [etc.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Broșură. -- P. XIII - XLVII. <!-- TODO: Fallback translation -->
+> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Editat de Elmar Seebold. -- A 24-a, rev. și ext. ed. -- Berlin [etc.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Broșură. -- P. XIII - XLVII.
 
 :::
 ::: media
 ![](/images/lekt0108.jpg)
 Fig.: Coperta
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0108))
-::: <!-- TODO: Fallback translation -->
+:::
 
 Pentru cei curioși, pentru consultare:
 
-> **Lexikon der Sprachwissenschaft** / Editat de Hadumod Bußmann. -- A 4-a, rev. și completată bibliografic. ed. / cu colaborarea lui Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7 <!-- TODO: Fallback translation -->
+> **Lexikon der Sprachwissenschaft** / Editat de Hadumod Bußmann. -- A 4-a, rev. și completată bibliografic. ed. / cu colaborarea lui Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 :::
 ## 1.2. Sunetele sanscrite

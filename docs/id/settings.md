@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: Pengaturan
+title: "[Pengaturan]"
+
 ---
 
 <ClientOnly>

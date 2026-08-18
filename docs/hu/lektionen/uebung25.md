@@ -50,10 +50,10 @@ A tanító utasítására Rāma elhagyja a falut, és belép a városba; bemegy 
 A Veda (śruti) és a hagyomány (smṛti) azt mondják, hogy egy mesterből semmi igazságtalant nem lehet hallani.
 
 ⟪३⟩. **⟪क्षत्रिया⟩ ⟪जनाञ्छत्रुभ्यो⟩ ⟪रक्षितुमर्हन्तीति⟩ ⟪क्षत्रियधर्मः⟩ ⟪॥३॥⟩**
-A Kṣatriyas kötelessége az, hogy a Kṣatriyas megvédjék a népet az ellenségektől. <!-- TODO: Fallback translation -->
+A Kṣatriyas kötelessége az, hogy a Kṣatriyas megvédjék a népet az ellenségektől.
 
 ⟪४⟩. **⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟩ ⟪धनं⟩ ⟪लब्धुं⟩ ⟪नार्ह⟩ti ⟪॥४॥⟩**
-Mivel áldozati hibát követett el, a Brahmane nem kaphat pénzt. <!-- TODO: Fallback translation -->
+Mivel áldozati hibát követett el, a Brahmane nem kaphat pénzt.
 
 ⟪५⟩. **⟪धनलाभहेतोस्ते⟩ ⟪वैश्या⟩ ⟪व्रतं⟩ ⟪कृत्वा⟩ ⟪ब्रह्मचर्यं⟩ ⟪चरन्ति⟩ ⟪॥५॥⟩**
 (⟪धनस्य⟩ ⟪लाभाय⟩)
@@ -63,22 +63,22 @@ Hogy gazdagok legyenek, ezek a Vaiśyas fogadalmat tettek és tartózkodnak szex
 A Buddhas és az Arhants megszabadultak a szenvedéstől. Ők ugyanis elérték a szabadító belátást.
 
 ⟪७⟩. **⟪लोभ⟩en ⟪च⟩ ⟪क्रोधेन⟩ ⟪च⟩ ⟪मोहेन⟩ ⟪च⟩ ⟪जना⟩ ⟪दुष्यन्ति⟩ ⟪।⟩ ⟪ततः⟩ ⟪प्राप्तकाला⟩ ⟪नरकं⟩ ⟪पतन्ति⟩ ⟪॥७॥⟩**
-A kapzsiság, a gyűlölet és a tévelygés miatt az emberek elpusztulnak. Ha elérkezik az idő, akkor egy pokolba esnek. <!-- TODO: Fallback translation -->
+A kapzsiság, a gyűlölet és a tévelygés miatt az emberek elpusztulnak. Ha elérkezik az idő, akkor egy pokolba esnek.
 
 ::: media
 ![](/images/uebung040.webp)
 Ábr.: ⟪लोभेन⟩ ⟪च⟩ ⟪क्रोधेन⟩ ⟪च⟩ ⟪मोहेन⟩ ⟪च⟩ ⟪जना⟩ ⟪दुष्यन्ति⟩
-(Képmegjelenítés: [Részletek](/licenses#uebung040)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Részletek](/licenses#uebung040))
 
 :::
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
-A kṣatriya hős harcosokat hoz a nagyvárosból, hogy megtámadja az ellenségek faluját. <!-- TODO: Fallback translation -->
+A kṣatriya hős harcosokat hoz a nagyvárosból, hogy megtámadja az ellenségek faluját.
 
 ⟪९⟫. **⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫**
 Fiúgyermek megszerzésére a bráhmanasszony fogadalmat tesz (azaz böjtöl).
 
 ⟪१०⟫. **⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫**
-Mivel fiúgyermeket kapott, nagy boldogság övezi a kétszer születettet. <!-- TODO: Fallback translation -->
+Mivel fiúgyermeket kapott, nagy boldogság övezi a kétszer születettet.
 
 ⟪११⟫. **⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫**
 Viṣṇu megóvja hívőit a haláltól.
@@ -87,7 +87,7 @@ Viṣṇu megóvja hívőit a haláltól.
 Ohne Rāma.
 
 ⟪१३⟫. **⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫**
-A szent tanítása erényhez vezet, nem a bűnösé. <!-- TODO: Fallback translation -->
+A szent tanítása erényhez vezet, nem a bűnösé.
 
 ⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
 Rāma wartet auf Kṛṣṇa.
@@ -96,10 +96,10 @@ Rāma wartet auf Kṛṣṇa.
 Könnyen (boldogan) halad.
 
 ⟪१६⟫. **⟪अलं⟫ ⟪भयेन⟫ ⟪॥१६॥⟫**
-Hagyd fel a félelemmel! <!-- TODO: Fallback translation -->
+Hagyd fel a félelemmel!
 
 ⟪१७⟫. **⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫**
-(Hari = Viṣṇu / Kṛṣṇa) Nagyobb a világnál Hari. <!-- TODO: Fallback translation -->
+(Hari = Viṣṇu / Kṛṣṇa) Nagyobb a világnál Hari.
 
 ---
 
@@ -107,7 +107,7 @@ Hagyd fel a félelemmel! <!-- TODO: Fallback translation -->
 
 ⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫ ⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
 ⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫ ⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫  
-Amitől visszahúzódik az ember, attól megszabadul. Ha ugyanis mindenkitől visszahúzódik, akkor nem ismer szenvedést, még ha olyan kicsi is, mint egy atom. <!-- TODO: Fallback translation -->
+Amitől visszahúzódik az ember, attól megszabadul. Ha ugyanis mindenkitől visszahúzódik, akkor nem ismer szenvedést, még ha olyan kicsi is, mint egy atom.
 
 ⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫ ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫ ⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫  
@@ -115,7 +115,7 @@ Ha valaki gőgből, kapzsiságból, haragból vagy félelemből hamis ítéletet
 
 ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫ ⟪पापं⟫ ⟪दारिद्र्यसंभवम्⟫ ⟪।⟫  
 ⟪दारिद्र्यमप्रदानेन⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫  
-A poklok a gonoszság miatt keletkeznek, a gonoszság az szegénységből fakad, a szegénység pedig az adományozás elmulasztásából. <!-- TODO: Fallback translation -->
+A poklok a gonoszság miatt keletkeznek, a gonoszság az szegénységből fakad, a szegénység pedig az adományozás elmulasztásából.
 
 ::: media
 ![](/images/uebung041.webp)
@@ -124,11 +124,11 @@ Kép: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 :::
 ⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
-A tolvajt a lopás bűne alól felmentik büntetéssel vagy szabadon bocsátással. Ha azonban a király nem bünteti meg, akkor átveszi a tolvaj bűnét. <!-- TODO: Fallback translation -->
+A tolvajt a lopás bűne alól felmentik büntetéssel vagy szabadon bocsátással. Ha azonban a király nem bünteti meg, akkor átveszi a tolvaj bűnét.
 
 ---
 
-## Staatswissenschaftliche Fragmente (Arthaśāstra) <!-- TODO: Fallback translation -->
+## Staatswissenschaftliche Fragmente (Arthaśāstra)
 
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 A gazdaság hasznos, mert gabonát, állatokat, aranyat, fémeket és munkát termel.
@@ -139,5 +139,5 @@ Kép: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण�
 (Képmegjelenítés: [Details](/licenses#uebung042))
 :::
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
-Ezért a három tudomány az alapja a botnak (daṇḍa). A bot, amely a jó viselkedés alapja, az élőlényeknek megszerzést és biztonságos birtokot hoz. A jó viselkedés megteremtett vagy veleszületett. A tevékenység ugyanis alkalmas anyagot nevel, nem alkalmatlanat. A tudomány olyan elmét nevel, amely a engedelmesség, hallgatás, megértés, megérzés és gondolkodás révén az igazsághoz jutott, nem másikat. ... A hallottakból ugyanis tudás származik, a tudásból gyakorlat, a gyakorlatból önbirtoklás; így a tudományoknak megfelelnek céljuk. A tudás és a jó viselkedés az ok a győzelemre az érzékek felett. Ez szükséges ahhoz, hogy letegyük a vágyakozást, gyűlöletet, kapzsiságot, gőzt, részegséget és izgalmat. <!-- TODO: Fallback translation -->
+Ezért a három tudomány az alapja a botnak (daṇḍa). A bot, amely a jó viselkedés alapja, az élőlényeknek megszerzést és biztonságos birtokot hoz. A jó viselkedés megteremtett vagy veleszületett. A tevékenység ugyanis alkalmas anyagot nevel, nem alkalmatlanat. A tudomány olyan elmét nevel, amely a engedelmesség, hallgatás, megértés, megérzés és gondolkodás révén az igazsághoz jutott, nem másikat. ... A hallottakból ugyanis tudás származik, a tudásból gyakorlat, a gyakorlatból önbirtoklás; így a tudományoknak megfelelnek céljuk. A tudás és a jó viselkedés az ok a győzelemre az érzékek felett. Ez szükséges ahhoz, hogy letegyük a vágyakozást, gyűlöletet, kapzsiságot, gőzt, részegséget és izgalmat.
 

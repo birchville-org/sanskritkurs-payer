@@ -25,7 +25,7 @@ A) Expliitai ils suandants sustantivs indicond la radis, da la quala è derivà,
 
 7\. lābha: labh 1 Ā "obtener" + -a m.: "avair, gudogn"
 
-8\. kāraṇa: kṛ 8 U "far, far" + -ana n.: "causa, grond" <!-- TODO: Fallback translation -->
+8\. kāraṇa: kṛ 8 U "far, far" + -ana n.: "causa, grond"
 
 9\. gati: gam 1 P "ir" + -ti f.: "pass, 'curs', objectiv"
 
@@ -55,7 +55,7 @@ A) Expliitai ils suandants sustantivs indicond la radis, da la quala è derivà,
 
 22\. śrava: śru 5 P "udir" + -a m.: "udir"
 
-23\. bhavana: bhū 1 P "diventar, esser" + -ana n.: "diventar, naschientscha, oriund" <!-- TODO: Fallback translation -->
+23\. bhavana: bhū 1 P "diventar, esser" + -ana n.: "diventar, naschientscha, oriund"
 
 24\. nīti: nī 1 U "conducir" + -ti f.: "conduccion"
 
@@ -91,7 +91,7 @@ sādhuḥ svargāmś ca narakāmś ca paśyati.
 
 ⟪साधुः⟫ ⟪स्वर्गांश्च⟫ ⟪नरकांश्च⟫ ⟪पश्यति⟫ ⟪।⟫
 
-3. El sconfiga ils Kṣatriyas. <!-- TODO: Fallback translation -->
+3. El sconfiga ils Kṣatriyas.
 
 kṣatriyāñ jayati.
 
@@ -150,9 +150,9 @@ kiṃ kāraṇam?
 Abb.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Sursa da l'imagia: [Detagls](/licenses#uebung007))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Lecziun da lescha <!-- TODO: Fallback translation -->
+## Lecziun da lescha
 
 1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 Il Śūdra ducescha il püvel.
@@ -167,7 +167,7 @@ L'agià mangia fruits.
 Il maister sconfiga ses stizz.
 
 5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-Il div creativescha l'infern. <!-- TODO: Fallback translation -->
+Il div creativescha l'infern.
 
 6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
 La vaca entra en il vitg.
@@ -182,7 +182,7 @@ El sacrifiescha per in signur da sacrifici dal div.
 In püvla nascha.
 
 10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
-In auriga ducescha il char. <!-- TODO: Fallback translation -->
+In auriga ducescha il char.
 
 11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
 Las scimmias mangian ils fruits.
@@ -194,13 +194,13 @@ La püvla scriva u dissegna.
 La virginea entra en la chasa.
 
 14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
 15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Il püvel ducescha l'elefant.
 
 16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ num da persuna Vimalā)
-Vimalā ist traurig. <!-- TODO: Fallback translation -->
+Vimalā ist traurig.
 
 17. ⟪शुकः⟫ ⟪पतति⟫ |
 Il papegagl vola.
@@ -213,4 +213,3 @@ Il püvel scriva in littera.
 Abb.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Sursa da l'imagia: [Detagls](/licenses#uebung008))
 :::
- <!-- TODO: Fallback translation -->

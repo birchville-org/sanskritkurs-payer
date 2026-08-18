@@ -1,11 +1,12 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Lectio 26"
+subtitle: "Lex cerebrale pro -s- in medio verbi"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+
+---
 
 # Lectio 26
 
@@ -202,7 +203,7 @@ B) Cum vocali coniunctiva -i-:
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Futurum optionale cum et sine -i-: <!-- TODO: Fallback translation -->
+C) Futurum optionale cum et sine -i-:
 
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫

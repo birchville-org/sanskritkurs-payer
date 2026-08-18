@@ -8,25 +8,25 @@ last_reconstructed: 2026-05-15
 
 # Exercício 40
 
-A) Übersetzen Sie die ⟪सुभाषितानि⟫ am Beginn der Lektion: <!-- TODO: Fallback translation -->
+A) Übersetzen Sie die ⟪सुभाषितानि⟫ am Beginn der Lektion:
 
 ⟪१⟫. **⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫ ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫**  
 **⟪पात्रत्वाद्धनमाप्नोति⟫ ⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-Wissen ergibt rechtes Betragen, wegen rechten Betragens wird man ehrenswert; wenn man ehrenswert ist, wird man reich; wenn man reich ist, wird man gerecht — und daraus folgt das Glück. <!-- TODO: Fallback translation -->
+Wissen ergibt rechtes Betragen, wegen rechten Betragens wird man ehrenswert; wenn man ehrenswert ist, wird man reich; wenn man reich ist, wird man gerecht — und daraus folgt das Glück.
 
 ⟪२⟫. **⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫ ⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫**  
 **⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫ ⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Wenn man auf der Suche nach Glück das Wissen aufgibt, oder wenn man auf der Suche nach Wissen das Glück aufgibt: Woher sollte dann ein Glücksuchender Wissen haben, und woher ein Wissensuchender Glück? <!-- TODO: Fallback translation -->
+Wenn man auf der Suche nach Glück das Wissen aufgibt, oder wenn man auf der Suche nach Wissen das Glück aufgibt: Woher sollte dann ein Glücksuchender Wissen haben, und woher ein Wissensuchender Glück?
 
 ⟪३⟫. **⟪आचार्यात्पादमादत्ते⟫ ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫**  
 **⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫ ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-Ein Schüler erhält ein Viertel (des Wissens) von seinem Lehrer, ein Viertel durch seinen eigenen Verstand, ein Viertel von seinen Mitschülern und ein Viertel durch den Lauf der Zeit. <!-- TODO: Fallback translation -->
+Ein Schüler erhält ein Viertel (des Wissens) von seinem Lehrer, ein Viertel durch seinen eigenen Verstand, ein Viertel von seinen Mitschülern und ein Viertel durch den Lauf der Zeit.
 
 ---
 
-## Verbale Transformationen (Perfekt) <!-- TODO: Fallback translation -->
+## Verbale Transformationen (Perfekt)
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. Person): <!-- TODO: Fallback translation -->
+B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. Person):
 
 ::: grammar-box
 | Präsens / Imperfekt | Perfekt (1. Person) |
@@ -108,9 +108,9 @@ Abb.: ⟪आशिमेति⟫
 :::
 ---
 
-## Wortformbestimmung <!-- TODO: Fallback translation -->
+## Wortformbestimmung
 
-Bestimmen und übersetzen Sie folgende Wortformen: <!-- TODO: Fallback translation -->
+Bestimmen und übersetzen Sie folgende Wortformen:
 
 ::: grammar-box
 | Wortform | Bestimmung | Bedeutung |
@@ -154,7 +154,7 @@ Bestimmen und übersetzen Sie folgende Wortformen: <!-- TODO: Fallback translati
 ![](/images/uebung066.webp)
 Abb.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
 (Bildquelle: [Details](/licenses#uebung066))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

@@ -1,10 +1,11 @@
 ---
-title: Lektion 40
+title: "Lectio 40"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lectio 40
@@ -73,7 +74,7 @@ Radixibus, quae vocantur facultativae, ⟪अनिट्⟫, vocativa coniuncti
 
 1.sg. = 3.sg.
 
-Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
+Verba, quae huic typi sequuntur:
 
 *   Consonans-vocalus longus-consonans
 *   Consonans-vocalus-consonans-consonans
@@ -106,7 +107,7 @@ Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 :::
 ### 40.2.2. Perfectum Typus II: radix fortis gradus altus, radix infirma gradus bassus
 
-Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
+Verba, quae huic typi sequuntur:
 
 *   (Consonant-)i/u/ṛ/ḷ-Consonant
 
@@ -134,7 +135,7 @@ Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 #### 40.2.3.1. Perfectum Typus IIIa: Robustum radix gradus altus/gradus productus, infirmus radix gradus bassus
 
-Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
+Verba, quae huic typi sequuntur:
 
 *   (Consonant-)(Consonant-)i/ī/u/ū
 *   (Consonant-)-ṛ
@@ -181,7 +182,7 @@ Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 :::
 #### 40.2.3.2. Perfectum Typus IIIb: radix fortis gradus superior/gradus productus, radix infirma gradus superior
 
-Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
+Verba, quae huic typi sequuntur:
 
 *   (Consonant-)(Consonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -236,7 +237,7 @@ Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 
 #### 40.2.5.1. Perfectum Typus Va: Consonans-a-Consonans, gradus infirmus
 
-Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
+Verba, quae huic typi sequuntur:
 
 ::: indent
 1.  etc.
@@ -312,7 +313,7 @@ Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
 :::
 #### 40.2.5.3. Perfectum genus Vc: Consonans-a-Consonans, radix infirma gradu alto
 
-Verba, quae huic typi sequuntur: <!-- TODO: Fallback translation -->
+Verba, quae huic typi sequuntur:
 
 *   Ceterae radices cum medio -a-
 
@@ -454,7 +455,7 @@ ex quo:
 
 ⟪विक्ल्प⟫ m.: Alternativa, dubium
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : colere <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U ⟪तुदति⟫ : colere
 
 ::: indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -606,7 +607,7 @@ B) Verba in formas Perfectorum convertite. Si plures viae adesse possunt, omnes 
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Wiederholungsübung zur Formenlehre <!-- TODO: Fallback translation -->
+## 40.8. Wiederholungsübung zur Formenlehre
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫
@@ -647,11 +648,3 @@ B) Verba in formas Perfectorum convertite. Si plures viae adesse possunt, omnes 
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
-
-- **Image lekt4005.jpg** (Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Vadaseri, District Thanjavur = தஞ்சாவூர் மாவட்டam [Image source: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, share alike)]
-- **Image lekt4003.jpg** (Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Image source: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution)]
-- **Image lekt4002.jpg** (Fig.: ⟪तीर्थङ्करः⟫): [Image source: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-- **Image lekt4001.jpg** (Fig.: ⟪विष्णोर्दशावताराः⟫): Clockwise: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, in the center: ⟪कृष्ण⟫ [Image source: Wikipedia. Public domain]
-- **Image lekt4004.jpg** (Fig.: ⟪स्वपन्ति⟫): Indian flying foxes (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Image source: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-:::

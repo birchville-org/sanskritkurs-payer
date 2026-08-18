@@ -647,11 +647,3 @@ B) Transforme as seguintes formas verbais nas formas de perfeito correspondentes
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
-
-- **Image lekt4005.jpg** (Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Vadaseri, Distrito de Thanjavur = தஞ்சாவூர் மாவட்டம் [Fonte da imagem: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Acessado em 2009-01-02. -- Licença Creative Commons (Atribuição, CompartilhaIgual)]
-- **Image lekt4003.jpg** (Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Fonte da imagem: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Acessado em 2009-01-02. -- Licença Creative Commons (Atribuição)]
-- **Image lekt4002.jpg** (Fig.: ⟪तीर्थङ्करः⟫): [Fonte da imagem: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Acessado em 2009-01-02. -- Licença Creative Commons (Atribuição, Uso Não Comercial, Sem Derivações)]
-- **Image lekt4001.jpg** (Fig.: ⟪विष्णोर्दशावताराः⟫): No sentido horário: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, no centro: ⟪कृष्ण⟫ [Fonte da imagem: Wikipedia. Domínio público]
-- **Image lekt4004.jpg** (Fig.: ⟪स्वपन्ति⟫): Raposas-voadoras-indianas (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Fonte da imagem: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Acessado em 2009-01-02. -- Licença Creative Commons (Atribuição, Uso Não Comercial, Sem Derivações)]
-:::

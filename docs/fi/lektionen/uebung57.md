@@ -12,7 +12,7 @@ last_reconstructed: 2026-05-15
 
 ## A) Aorist-muunnokset
 
-Käännä ja määritä seuraavat muodot sekä muodosta niihin vastaavat **aorist**-muodot. Paitsi kausatiiveissa ja juurissa, jotka muodostavat **s-aoristin**, vastaavan aoristiluokka on annettu sulkulausekkeessa: <!-- TODO: Fallback translation -->
+Käännä ja määritä seuraavat muodot sekä muodosta niihin vastaavat **aorist**-muodot. Paitsi kausatiiveissa ja juurissa, jotka muodostavat **s-aoristin**, vastaavan aoristiluokka on annettu sulkulausekkeessa:
 
 ::: grammar-box
 | Nro. | Muoto | Määritelmä / Merkitys | Aoristi |
@@ -48,16 +48,16 @@ Käännä ja määritä seuraavat muodot sekä muodosta niihin vastaavat **aoris
 Kuv.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung090))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## B) Sanatyypit <!-- TODO: Fallback translation -->
+## B) Sanatyypit
 
-Määritä ja käännä seuraavat muodot: <!-- TODO: Fallback translation -->
+Määritä ja käännä seuraavat muodot:
 
 ::: grammar-box
 | Nro. | Muoto | Määritelmä / Merkitys |
 |:---|:---|:---|
-| ⟪१⟫. | ⟪चेलुः⟫ | :sig[⟪चल्⟫] 1P: 3. pl. perf. akt. (he ovat liikkeellä) | <!-- TODO: Fallback translation -->
+| ⟪१⟫. | ⟪चेलुः⟫ | :sig[⟪चल्⟫] 1P: 3. pl. perf. akt. (he ovat liikkeellä) |
 
 | ⟪२⟫. | ⟪जन्तुः⟫ | :sig[⟪जन्तु⟫] m.: Nom. Sg. (luomakunta, ihmiset) |
 | ⟪३⟫. | ⟪अश्वसीत्⟫ | :sig[⟪श्वस्⟫] 2P: 3. Sg. Impf. P. (hän puhalsi) |
@@ -99,7 +99,7 @@ Määritä ja käännä seuraavat muodot: <!-- TODO: Fallback translation -->
 | ⟪३९⟫. | ⟪अघम्⟫ | :sig[⟪अघ⟫] n.: Nom. Akk. Vok. Sg. (paha); Akk. Sg. m. (pahat) |
 | ⟪४०⟫. | ⟪अभुक्थाः⟫ | :sig[⟪भुज्⟫] 7U: 2. Sg. s-Aor. Ā. (sinä söit) |
 | ⟪४१⟫. | ⟪उत्थानाय⟫ | :sig[⟪उत्थान⟫] n.: Dat. Sg. (nousemiselle) |
-| ⟪४२⟫. | ⟪अलुम्पत⟫ | :sig[⟪लुप्⟫] 6U: 2. Pl. Impf. P. / 3. Sg. Impf. Ā. | <!-- TODO: Fallback translation -->
+| ⟪४२⟫. | ⟪अलुम्पत⟫ | :sig[⟪लुप्⟫] 6U: 2. Pl. Impf. P. / 3. Sg. Impf. Ā. |
 
 | ⟪४३⟫. | ⟪अलुपत⟫ | :sig[⟪लुप्⟫] 6U: 2. Pl. a-Aor. P. (teille) |
 | ⟪४४⟫. | ⟪अलुप्त⟫ | :sig[⟪लुप्⟫] 6U: 3. Sg. s-Aor. Ā. (hakkoi) |
@@ -120,7 +120,7 @@ Määritä ja käännä seuraavat muodot: <!-- TODO: Fallback translation -->
 ![](/images/uebung094.webp)
 Kuv.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung094))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

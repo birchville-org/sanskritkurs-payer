@@ -40,7 +40,7 @@ Melyik széllel engedi a felhő vizet, azzal a széllel mozgatja a tudós a nape
 ⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫
 ⟪धर्मार्थकामसंयोगं⟫
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
-Aki a megfelelő időben az erénynek (dharma), a nyereséges tevékenységnek (artha) vagy a szerelemnek (kāma) hódol, az ebben a világban és a túlvilágon közösségre talál az erénnyel, a nyereséggel és a szerelemmel. <!-- TODO: Fallback translation -->
+Aki a megfelelő időben az erénynek (dharma), a nyereséges tevékenységnek (artha) vagy a szerelemnek (kāma) hódol, az ebben a világban és a túlvilágon közösségre talál az erénnyel, a nyereséggel és a szerelemmel.
 
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫
 ⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫

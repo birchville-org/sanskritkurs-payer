@@ -1,11 +1,12 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Μάθημα 26"
+subtitle: "Νόμος κεντρικοποιήσεως για το -s- εντός της λέξεως"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+
+---
 
 # Μάθημα κϛʹ
 

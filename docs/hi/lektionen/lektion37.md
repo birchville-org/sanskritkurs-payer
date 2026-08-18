@@ -173,7 +173,7 @@ status: stable
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -193,7 +193,7 @@ status: stable
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. क्रियाविशेषण समास
@@ -520,17 +520,3 @@ C) निम्नलिखित ⟪अव्ययीभाव⟫ का अ�
 
 एक बार किसी वृद्ध व्यक्ति किसी अन्य गाँव में गया, वह रास्ते में थक गया। तब वह विश्राम करने के लिए, पास खड़े आम के पेड़ की जड़ में गया। उस पेड़ पर पक्के फल थे। वृद्ध व्यक्ति को उन फलों की इच्छा हुई। लेकिन वह पेड़ पर चढ़ नहीं सका और फलों को तोड़ नहीं सका। किस्मत से उस पेड़ पर कुछ बंदर थे, जो फल खा रहे थे। जब उसने उन्हें देखा, तो वृद्ध व्यक्ति प्रसन्न हुआ। उसने क्या किया? उसने कुछ पत्थर उठाए, बंदरों की ओर निशाना लगाया और फेंक दिया। क्रोधित बंदरों ने कुछ फल तोड़कर वृद्ध व्यक्ति पर फेंक दिए। वृद्ध व्यक्ति ने उन फलों को प्रसन्नता से ले लिया और अपनी इच्छित दिशा में चला गया। देखिए, वृद्ध व्यक्ति का भाग्य!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (आकृति: ⟪क्व⟫): [चित्र स्रोत: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- 30-12-2008 को देखा गया। -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक, कोई संशोधन नहीं)]
-- **Image lekt3702.jpg** (आकृति: ⟪यथाशक्ति⟫): [चित्र स्रोत: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- 30-12-2008 को देखा गया। -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक, कोई संशोधन नहीं)]
-- **Image lekt3703.jpg** (आकृति: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [चित्र स्रोत: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- 30-12-2008 को देखा गया। -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक, कोई संशोधन नहीं)]
-- **Image lekt3704.jpg** (आकृति: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [चित्र स्रोत: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- 30-12-2008 को देखा गया। -- Creative Commons लाइसेंस (नाम देना)]
-- **Image lekt3705.jpg** (आकृति: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [चित्र स्रोत: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- 31-12-2008 को देखा गया। -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक, कोई संशोधन नहीं)]
-- **Image lekt3706.jpg** (आकृति: ⟪वृक्षः⟫): Jaipur [चित्र स्रोत: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- 31-12-2008 को देखा गया। -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक, share alike)]
-- **Image lekt3707.jpg** (आकृति: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) द्वारा चित्र [चित्र स्रोत: Wikipedia. Public domain]
-- **Image lekt3708.jpg** (आकृति: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [चित्र स्रोत: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- 31-12-2008 को देखा गया। -- Creative Commons लाइसेंस (नाम देना)]
-- **Image lekt3709.jpg** (आकृति: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [चित्र स्रोत: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- 31-12-2008 को देखा गया। -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक, कोई संशोधन नहीं)]
-- **Image lekt3710.jpg** (आकृति: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [चित्र स्रोत: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- 31-12-2008 को देखा गया। -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक, share alike)]
-- **Image lekt3711.jpg** (आकृति: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [चित्र स्रोत: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- 31-12-2008 को देखा गया। -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक, कोई संशोधन नहीं)]
-:::

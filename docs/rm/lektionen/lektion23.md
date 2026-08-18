@@ -18,7 +18,7 @@ status: stable
 
 **Notai che l'infinitiv - cun quai ch'ins cumpetidas excepziuns - na po betg figurer sco subject u object d'in verbi:**
 
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen"). <!-- TODO: Fallback translation -->
+> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen").
 
 **L'infinitiv vegn er anuzà cun verbs e sustantivs en il significà «vesser» u «sperar», sche l'agens (⟪कर्तृ⟫) da l'infinitiv e dal verb èn identics:**
 
@@ -58,7 +58,7 @@ p.ex.
 
 **u**
 
-**raditscha auta + -i- + -tum** <!-- TODO: Fallback translation -->
+**raditscha auta + -i- + -tum**
 
 **I consonants finalas da la radis vegnan midadas avant -tum secund las medemas regulas sco avant -ta dal PPP.**
 
@@ -79,14 +79,14 @@ Trai las radis fin ussa emprendidas, èn ils suandants infinitivs specialmain da
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Radisn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- ni -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
+Die anderen Radisn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- ni -ar-, wenn sie aniṭ sind.
 
 ## 23.3. L'infinitiv (⟪तुमुन्⟫) a las ragischs gudidas fin qua
 
@@ -268,7 +268,7 @@ Chittorgarh = ⟪चित्तौडगढ⟫
 :::
 ## 23.6. Exercizi da repetiziun
 
-Per plaschair, na utisar midels! <!-- TODO: Fallback translation -->
+Per plaschair, na utisar midels!
 
 A) Traducì in sanscrit:
 
@@ -302,7 +302,7 @@ Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪�
 
 12\. Ils povers han blers figls, malgrà ch'els na vulan betg. Ils riccs n'han nagin figl. Stransch è il moviment dal destin.
 
-13\. Cun na mortga betg in corp da femna (⟪वपुस्⟫ n.) cun vita stretga, coschlas largias, labras rubias, egls neris, ombelich curvà, mamellas levadas. <!-- TODO: Fallback translation -->
+13\. Cun na mortga betg in corp da femna (⟪वपुस्⟫ n.) cun vita stretga, coschlas largias, labras rubias, egls neris, ombelich curvà, mamellas levadas.
 
 B) Declinai en tut ils cas che ti conuschas ⟪क्षत्रिया⟫ f.
 
@@ -316,13 +316,3 @@ C) Fornì las formas da la radis (significà, classa da present, modi, 3. pers. 
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Fontana da Wikipedia. Licenza GNU FD]
-
-**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [fonte da l’imagina: da zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- accès il 2008-12-13. -- licenza Creative Commons (attribuziun, nagina utisaziun cummerciala, nagina modificaziun)]
-
-**lekt2303:** far nà l'è ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย [surs da l'imagia: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- accès il 2008-12-13. -- Licenza Creative Commons (attribuziun, nagina modificaziun)]
-
-**lekt2304:** Manmohan Singh = ⟪मनमोहन⟫ ⟪सिंह⟫, Primminister da l'India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, dapi 2004 [sursainta da l'imagines: Wikipedia, domin public]
-:::

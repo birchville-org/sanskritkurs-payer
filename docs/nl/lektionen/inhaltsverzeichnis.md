@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 # Inhoudsopgave
 
 ## [Lektion 1](lektion01)

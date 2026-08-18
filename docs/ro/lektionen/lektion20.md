@@ -201,7 +201,7 @@ Fig.: ⟪सपुत्रा⟫
 Madhya Pradesh
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2006))
 :::
-## 20.6. Flexiunea componentei finale a unui Bahuvrīhi <!-- TODO: Fallback translation -->
+## 20.6. Flexiunea componentei finale a unui Bahuvrīhi
 
 ::: grammar-box
 
@@ -266,7 +266,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Aceasta este de fapt o parte din Ashramul
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : făcând, producând, cauzând
 
-⟪कर⟫ m.: mână (la ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
+⟪कर⟫ m.: mână (la ⟪कृ⟫ 8)
 
 ⟪कर⟫ m.: tribut, datorie, impozit (nu la ⟪कृ⟫, ci probabil împrumutat din tamilă - தமிழ்)
 
@@ -274,7 +274,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Aceasta este de fapt o parte din Ashramul
 
 ⟪अधि⟫ prefix verbal: peste, pe, er-, cu referire la 
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : întâlni, ajunge la, obține <!-- TODO: Fallback translation -->
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : întâlni, ajunge la, obține
 
 ⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : reduce, slăbi
 
@@ -466,7 +466,7 @@ A) Traduceți și descompuneți compusele în sanscrită:
 
 B) Traduceți folosind compuse în sanscrită:
 
-1\. Un kṣatriya care nu ține bastonul în mână nu ocrotește poporul. <!-- TODO: Fallback translation -->
+1\. Un kṣatriya care nu ține bastonul în mână nu ocrotește poporul.
 
 2\. Kālidāsa și ceilalți poeți sunt profesorii de sanscrită.
 
@@ -564,27 +564,5 @@ Sanchi = ⟪सांची⟫
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
 Explicație: ⟪इच्छताम्⟫ = genitiv plural Participiu Prezent P la ⟪इष्⟫ : al celor care doresc
-:::
-::: deleteme-box
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Cambodgia, sec. 9 d.Hr. [Sursa imaginii: Wikipedia, Domeniu public] <!-- TODO: Fallback translation -->
-
-**lekt2002:** [Sursa imaginii: Contribuții la filozofia literaturii și gândirii Indiei. -- Bonn, 1926]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Sursa imaginii Wikipedia, Domeniu public] <!-- TODO: Fallback translation -->
-
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [Sursa imaginii: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Accesat la 2008-12-11. -- Licență Creative Commons (Atribuire, fără utilizare comercială, fără modificări)]
-
-**lekt2005:** Iisus și ceilalți zei, Ahmedabad [Sursa imaginii: de ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Accesat la 2008-12-11. -- Licență Creative Commons (Atribuire, fără utilizare comercială, fără modificări)]
-
-**lekt2006:** Madhya Pradesh [Sursa imaginii: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Accesat la 2008-12-11. -- Licență Creative Commons (Numele autorului, utilizare non-comercială, fără modificări)]
-
-**lekt2007:** Chennai = சென்னை [Sursa imaginii: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Accesat la 2008-12-11. -- Licență Creative Commons (Numele autorului, utilizare non-comercială, fără modificări)]
-
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "Acesta este de fapt parte din Ashramul din Rishikesh, unde au stat Beatles. Această parte specifică nu exista când ei erau acolo, dar arată foarte bine." [Sursa imaginii: de ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Accesat la 2008-12-11. -- Licență Creative Commons (Numele autorului)]
-
-**lekt2009:** Karnataka [Sursa imaginii: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Accesat la 2008-12-11. -- Licență Creative Commons (Numele autorului, utilizare non-comercială)]
-
-**lekt2010:** Buddha ca ascet înainte de iluminarea sa eliberatoare, Gandhara, sec. 2./3. [Sursa imaginii: Wikipedia, Licență GNU FD]
 :::
 

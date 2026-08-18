@@ -145,7 +145,7 @@ sā brāhmaṇī nṛtyati.
 Fig.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung004))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exerciții de recapitulare Lection 6
 
@@ -419,7 +419,7 @@ E) Traduceți:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
+Annapūrṇā ist eine Gottheit.
 
 2\. śūdretarā.
 
@@ -443,7 +443,7 @@ Māgha ist ein Dichter.
 
 ⟪देव्युमा⟫
 
-Umā este o zeiță. <!-- TODO: Fallback translation -->
+Umā este o zeiță.
 
 6\. śrutirvedaḥ.
 
@@ -467,7 +467,7 @@ Caitanya este un maestru.
 
 ⟪देवीन्द्राणी⟫
 
-Indrāṇī este o zeiță. <!-- TODO: Fallback translation -->
+Indrāṇī este o zeiță.
 
 10\. sādhurguruḥ.
 
@@ -489,13 +489,13 @@ rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā este o zeiță. <!-- TODO: Fallback translation -->
+2\. Durgā este o zeiță.
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī este o zeiță. <!-- TODO: Fallback translation -->
+3\. Mīnākṣī este o zeiță.
 
 devī mīnākṣī.
 
@@ -549,7 +549,7 @@ sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ ⟪।⟫ ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-12\. Această zeiță este bună. <!-- TODO: Fallback translation -->
+12\. Această zeiță este bună.
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
@@ -591,7 +591,7 @@ kiṃ kuśalam?
 
 ⟪किं⟫ ⟪कुशलम्⟫ ⟪।⟫
 
-19\. (Mie) merge bine în toate privințele. <!-- TODO: Fallback translation -->
+19\. (Mie) merge bine în toate privințele.
 
 sarvathā kuśalam.
 
@@ -601,5 +601,5 @@ sarvathā kuśalam.
 ![](/images/uebung005.webp)
 Fig.: ⟪देवतान्नपूर्णा⟫
 (Sursă imagine: [Detalii](/licenses#uebung005))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

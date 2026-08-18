@@ -1,252 +1,182 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "Ders 16"
+subtitle: "Sözcük sonu ünsüzlerinin Sandhi'si"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 16 <!-- TODO: Fallback translation -->
+---
 
-## 16.1. Zum Sandhi auslautender Konsonanten <!-- TODO: Fallback translation -->
+# Ders 16
 
-Zur Bildung von Komposita, deren Vorderglied konsonantisch auslautende Stämme bilden, benötigt man folgende Regeln: <!-- TODO: Fallback translation -->
+## 16.1. Kelimenin sonunda çıkan ünsüzlerin Sandhi'si hakkında
 
-Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale). <!-- TODO: Fallback translation -->
+Ön bileşeni ünsüzle biten köklerden oluşan bileşik kelimelerin oluşturulması için aşağıdaki kurallar gereklidir:
 
-::: no-header
-
-|   |   | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- | <!-- TODO: Fallback translation -->
-| **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- | <!-- TODO: Fallback translation -->
-| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
-
-:::
-Ausnahme zu obiger Regel: <!-- TODO: Fallback translation -->
-
-Auslautender dentaler Verschlusslaut (nicht Nasal): <!-- TODO: Fallback translation -->
+Sessiz ünsüzler ve palatal olmayan, yani nazal olmayan gutural, retrofleks, dental ve labial pürüzlü ünsüzler.
 
 ::: no-header
 
-|   |   | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- | <!-- TODO: Fallback translation -->
-| **+ ś** | **» -cś- oder -cch-** | <!-- TODO: Fallback translation -->
-| **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- | <!-- TODO: Fallback translation -->
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
+|   |   |
+| :--- | :--- |
+| **Duraklarda ve sessiz ünsüzlerden önce** | **Onlara karşılık gelen sessiz, aspiresiz (üflemeli olmayan) ünsüzle değiştirilir:** :br **örneğin** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **Ünsüz olmayan, nazal olmayan ünlü seslerden önce** | **Onlara karşılık gelen ünsüz, aspiresiz (üflemeli olmayan) ünlü sesle değiştirilir:** :br **örneğin** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **Nazal seslerden önce** | **Onlara karşılık gelen nazal sesle değiştirilir:** :br **örneğin** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Yukarıdaki kuralın istisnası:
 
-⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫ <!-- TODO: Fallback translation -->
+Sessiz dental ünsüz (nazal olmayan):
 
-⟪पुण्यवत्⟫ + ⟪ब्राह्मण⟫ = ⟪पुण्यवद्ब्राह्मण⟫ <!-- TODO: Fallback translation -->
+::: no-header
 
-⟪पुण्यवत्⟫ + ⟪नर⟫ = ⟪पुण्यवन्नर⟫ <!-- TODO: Fallback translation -->
+|   |   |
+| :--- | :--- |
+| **Palatal seslerden önce** | **İlgili aspiresiz (üflemeli olmayan) palatal sesle değiştirilir:** :br **yani** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+| **+ ś** | **» -cś- veya -cch-** |
+| **Retrofleks seslerden önce** | **İlgili aspiresiz (üflemeli olmayan) retrofleks sesle değiştirilir:** :br **yani** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **l- sesinden önce** | **-l ile değiştirilir:** :br **yani** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
-⟪पुण्यवत्⟫ + ⟪पुरुष⟫ = ⟪पुण्यवत्पुरुष⟫ <!-- TODO: Fallback translation -->
+:::
+Örnekler:
 
-⟪सत्यवत्⟫ + ⟪चैतन्य⟫ =⟪सत्यवच्चैतन्य⟫ <!-- TODO: Fallback translation -->
+⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल पुण्यवत्⟫ + ⟪ब्राह्मण⟫ = ⟪पुण्यवद्ब्राह्मण पुण्यवत्⟫ + ⟪नर⟫ = ⟪पुण्यवन्नर पुण्यवत्⟫ + ⟪पुरुष⟫ = ⟪पुण्यवत्पुरुष सत्यवत्⟫ + ⟪चैतन्य⟫ =⟪सत्यवच्चैतन्य सुखवत्⟫ + ⟪लोक⟫ = ⟪सुखवल्लोक पुत्रवत्⟫ + ⟪जन⟫ = ⟪पुत्रवज्जन बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫
 
-⟪सुखवत्⟫ + ⟪लोक⟫ = ⟪सुखवल्लोक⟫ <!-- TODO: Fallback translation -->
+## 16.2. Kelime Listesi
 
-⟪पुत्रवत्⟫ + ⟪जन⟫ = ⟪पुत्रवज्जन⟫ <!-- TODO: Fallback translation -->
-
-⟪बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫ <!-- TODO: Fallback translation -->
-
-## 16.2. Wortliste <!-- TODO: Fallback translation -->
-
-⟪अध्यापन⟫ n.: Unterrichten, Unterricht <!-- TODO: Fallback translation -->
+⟪अध्यापन⟫ n.: Öğretmek, Eğitim
 
 ::: media
 ![](/images/lekt1602.webp)
-Abb.: ⟪अध्यापनम्⟫
-"This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
-(Bildquelle: [Details](/licenses#lekt1602)) <!-- TODO: Fallback translation -->
+Resim: ⟪अध्यापनम्⟫
+"Bu, Satara'daki (⟪सातारा⟫) küçük bir tapınakta düzenlenen özel bir törendir. Swami Muktananda Vedashala'nın öğrencileri tarafından Mahāśivarātri kutlamaları sırasında gerçekleştirilir. Bu, çocukların Vedalar olarak adlandırılan kutsal metinleri ezberlediği bir vedik okuldur. Bu okul Krishna Yajurveda'yı ve Samaveda'nın bazı bölümlerini öğretir. Bu okul hakkında yüksek lisans tezi yapıyorum."
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt1602))
 :::
-⟪अनसूया⟫ f.: Nicht-Murren, Neidlosigkeit <!-- TODO: Fallback translation -->
+⟪अनसूया⟫ f.: Şikâyet etmeme, kıskançsızlık
 
-⟪नृशंस्य⟫ n.: Boshaftigkeit, Niedertracht <!-- TODO: Fallback translation -->
+⟪नृशंस्य⟫ n.: Kötülük, alçaklık
 
-davon: <!-- TODO: Fallback translation -->
+bunlardan:
 
 ::: indent
-⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit <!-- TODO: Fallback translation -->
+⟪अनृशंस्य⟫ n.: Kötülük etmeme
 :::
-⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben <!-- TODO: Fallback translation -->
+⟪जीव्⟫ 1. Şk. ⟪जीवति⟫ ; Edilgen. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : yaşamak
 
-davon: <!-- TODO: Fallback translation -->
+bunlardan:
 
 ::: indent
-⟪आजीव⟫ m.: Lebensunterhalt <!-- TODO: Fallback translation -->
+⟪आजीव⟫ m.: Geçim kaynağı
 :::
-⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht <!-- TODO: Fallback translation -->
+⟪क्षमा⟫ f.: Sabır, hoşgörü, şefkat
 
-⟪क्षेम⟫ n.: Ruhe, Frieden, Wohlergehen, sicherer Besitz <!-- TODO: Fallback translation -->
+⟪क्षेम⟫ n.: Huzur, barış, refah, güvenli mülk
 
-⟪चित्त⟫ n.: Bewusstsein, Denken, Geist <!-- TODO: Fallback translation -->
+⟪चित्त⟫ n.: Bilinç, düşünce, zihin
 
-⟪निरोध⟫ m.: Stoppen, Zum-Stillstand-Bringen <!-- TODO: Fallback translation -->
+⟪निरोध⟫ m.: Durdurma, durdurma
 
-* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): Wesen, Gespenst <!-- TODO: Fallback translation -->
+* **bhūta n.** (⟪भूत⟫) (bhū'nin PPP'si): Varlık, hayalet
 
-⟪योग⟫ m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga <!-- TODO: Fallback translation -->
+⟪योग⟫ m.: Bağlama, birleştirme, kazanım ; Yoga
 
 ::: media
 ![](/images/lekt1601.webp)
-Abb.: ⟪योगी⟫
+Resim: ⟪योगी⟫
 Birla Mandir, Delhi
-(Bildquelle: [Details](/licenses#lekt1601)) <!-- TODO: Fallback translation -->
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt1601))
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen <!-- TODO: Fallback translation -->
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : dönmek, yönelmek, (bir yerde) bulunmak, ikamet etmek
 
-⟪शस्त्र⟫ (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe <!-- TODO: Fallback translation -->
+⟪शस्त्र⟫ (śastra) n.: kesici alet, bıçak silahı, kılıç, silâh
 
-⟪शौच⟫ n.: Reinigung, Reinheit <!-- TODO: Fallback translation -->
+⟪शौच⟫ n.: arınma, saflık
 
-⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: zum Ziel führend, bewirkend <!-- TODO: Fallback translation -->
+⟪साधन⟫ m.,n. ⟪साधनी साधना⟫ f.: hedefe ulaştıran, sonuç doğuran
 
-⟪अहिंसा⟫ f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit <!-- TODO: Fallback translation -->
+⟪अहिंसा⟫ f.: kimsenin zararına dokunmama, incitmeme, şiddetsizlik (ahimse)
 
 ::: media
 ![](/images/lekt1603.jpg)
 Abb.: ⟪अहिंसा⟫
-"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(Bildquelle: [Details](/licenses#lekt1603)) <!-- TODO: Fallback translation -->
+"Avuç içinde bir çark olan el, Jain Ahimsa yeminini simgeler. Ortadaki kelime "ahimse"dır. Çark, doğurganlık döngüsünü gerçek ve şiddetsizlik takıntılı arayışı aracılığıyla durdurma kararını temsil eden dharmacakra'yı (Dharma çarkı) simgeler."
+(Görsel kaynağı: [Details](/tr/licenses#lekt1603))
 :::
-## 16.3. Übung <!-- TODO: Fallback translation -->
+## 16.3. Alıştırma
 
-A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie: <!-- TODO: Fallback translation -->
+A) Aşağıdaki ifadeleri Tatpuruṣa bileşiklerine dönüştürün ve çevirin:
 
-⟪१⟫. ⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
-
-⟪२⟫. ⟪गुणवती⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
-
-⟪३⟫. ⟪सत्यवान्ब्राह्मणः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
-
-⟪४⟫. ⟪पशुमन्तो⟫ ⟪जनाः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪देवस्य पुरुषः । २⟫. ⟪गुणवती ब्राह्मणी । ३⟫. ⟪सत्यवान्ब्राह्मणः । ४⟫. ⟪पशुमन्तो जनाः ।⟫
 
 ::: media
 ![](/images/lekt1604.webp)
-Abb.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
-⟪हरियाणा⟫ / ਹਰਿਆਣਾ
-(Bildquelle: [Details](/licenses#lekt1604)) <!-- TODO: Fallback translation -->
+Abb.: ⟪पशुमन्तो जनाः हरियाणा⟫ / ਹਰਿਆਣਾ
+(Görsel kaynağı: [Details](/tr/licenses#lekt1604))
 :::
-⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪५⟫. ⟪सुखवान्वैश्यायाः पुत्रः । ६⟫.  ⟪सुखवत्या वैश्यायाः पुत्रः । ७⟫. ⟪कवेरुक्त्याः सत्यम् । ८⟫. ⟪शिवेन रक्षिता बाला । ९⟫. ⟪रामेण पीतं जलम् । १०⟫. ⟪फलवांल्लाभः । ११⟫. ⟪इष्टाया देवतायाः पूजा । १२⟫. ⟪देवानां स्तुतिः ।⟫
 
-⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+B) Aşağıdaki cümlelerdeki tüm Sanskrit bileşiklerini çözün, buna göre çekimli isimler içeren cümleler oluşturun ve çevirin:
 
-⟪७⟫. ⟪कवेरुक्त्याः⟫ ⟪सत्यम्⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो देवेन्द्रलोकं गच्छति ।⟫
 
-⟪८⟫. ⟪शिवेन⟫ ⟪रक्षिता⟫ ⟪बाला⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪पुण्यकरणं स्वर्गमार्गः । ३⟫. ⟪न साधुः पशुवन्नरधेनुलोभः । ४⟫. ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति । धर्मयज्ञैस्तु स्वर्गसुखमाप्नुवन्ति । ५⟫. ⟪द्विजदासा इति शूद्रा उच्यन्ते । ६⟫. ⟪बालब्राह्मणपुत्राः सत्यवन्नरं शृण्वन्ति । ७⟫. ⟪बलवत्क्षत्रिया धनवच्छत्रुनगरं जयन्ति । ८⟫. ⟪ऋष्युक्त्या सत्यमुच्यते । ९⟫. ⟪बलवद्योधा ब्राह्मणग्रामं गताः । १०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां करोति ।⟫
 
-⟪९⟫. ⟪रामेण⟫ ⟪पीतं⟫ ⟪जलम्⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+## 16.4. Tekrar Alıştırması
 
-⟪१०⟫. ⟪फलवांल्लाभः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+A) Şimdiye kadar öğrenilen tüm hal (kaza) çekimlerini, şimdiye kadar öğrenilen çekim sınıfları için örnek olarak aşağıdaki kelimeler oluşturun.
 
-⟪११⟫. ⟪इष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजा⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+Bunun için Hint dilbilgicilerinin hal sırasına uygun olan ve avantajları daha sonra ele alınacağından Batı dilbilgicileri tarafından da benimsenen aşağıdaki şemayı kullanın:
 
-⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+| Tekil:br⟪एकवचनम्⟩ | Çoğul:br⟪बहुवचनम्⟩ |
+| :--- | :--- |
+| **⟪१⟩. ⟪प्रथमा⟩** :brYalın (Nominatif) | **⟪१⟩. ⟪प्रथमा⟩** |
+| **⟪२⟩. ⟪द्वितीया⟩** :brBelirtme (Akkusatif) | **⟪२⟩. ⟪द्वितीया⟩** |
+| **⟪३⟩. ⟪तृतीया⟩** :brAraç (Araç) | **⟪३⟩. ⟪तृतीया⟩** |
+| **⟪६⟩. ⟪षष्ठी⟩** :brTamlayan (Tamlayan) | **⟪६⟩. ⟪षष्ठी⟩** |
 
-B) Lösen Sie in folgenden Sätzen alle Komposita in Sanskrit auf, bilden Sie so Sätze mit flektierten Nomina und übersetzen Sie: <!-- TODO: Fallback translation -->
+Bu örneklerden yola çıkarak çekim kalıplarını ezberleyin!!!
 
-⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१⟩. ⟪नर⟩ eril (m.).
 
-⟪२⟫. ⟪पुण्यकरणं⟫ ⟪स्वर्गमार्गः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪२⟩. ⟪फल⟩ dişil (n.).
 
-⟪३⟫. ⟪न⟫ ⟪साधुः⟫ ⟪पशुवन्नरधेनुलोभः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪३⟩. ⟪क्षत्रिया⟩ dişil (f.).
 
-⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪४⟩. ⟪अरि⟩ eril (m.).
 
-⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪५⟩. ⟪मति⟩ dişil (f.).
 
-⟪६⟫. ⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪६⟩. ⟪गुरु⟩ eril (m.).
 
-⟪७⟫. ⟪बलवत्क्षत्रिया⟫ ⟪धनवच्छत्रुनगरं⟫ ⟪जयन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪७⟩. ⟪धेनु⟩ dişil (f.).
 
-⟪८⟫. ⟪ऋष्युक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪८⟩. ⟪देवी⟩ dişil (f.).
 
-⟪९⟫. ⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪९⟩. ⟪गुणवन्त्⟩ eril, dişil ve nötr (m., n., f.).
 
-⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१०⟩. ⟪किम्⟩ eril, dişil ve nötr (m., n., f.).
 
-## 16.4. Wiederholungsübung <!-- TODO: Fallback translation -->
+⟪११⟩. ⟪तद्⟩ eril, dişil ve nötr (m., n., f.).
 
-A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele für die bisher gelernten Deklinationsklassen. <!-- TODO: Fallback translation -->
+⟪१२⟩. ⟪एतद्⟩ eril, dişil ve nötr (m., n., f.).
 
-Verwenden Sie dazu folgendes Schema, das der Reihenfolge der Kasus bei den indischen Grammatikern entspricht und das wegen seiner - später zu besprechenden - Vorzüge auch von den westlichen Grammatikern übernommen wurde: <!-- TODO: Fallback translation -->
+⟪१३⟩. ⟪इदम्⟩ eril, dişil ve nötr (m., n., f.).
 
-| Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **⟪१⟫. ⟪प्रथमा⟫** :brNominativ | **⟪१⟫. ⟪प्रथमा⟫** | <!-- TODO: Fallback translation -->
-| **⟪२⟫. ⟪द्वितीया⟫** :brAkkusativ | **⟪२⟫. ⟪द्वितीया⟫** | <!-- TODO: Fallback translation -->
-| **⟪३⟫. ⟪तृतीया⟫** :brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** | <!-- TODO: Fallback translation -->
-| **⟪६⟫. ⟪षष्ठी⟫** :brGenetiv | **⟪६⟫. ⟪षष्ठी⟫** | <!-- TODO: Fallback translation -->
+B) Çevirin ve tüm bileşik kelimeleri (kompozitleri) Sanskritçe olarak çözün:
 
-Lernen Sie die Deklinationsmuster nach diesen Beispielen auswendig!!! <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः ॥योगसूत्र १⟫.⟪२॥ २⟫. ⟪स्वधर्मो ब्राह्मणस्याध्ययनमध्यापनं यजनं याजनं दानं प्रतिग्रहश्च ॥५॥ क्षत्रियस्याध्ययनं यजनं दानं शस्त्राजीवो भूतरक्षणं च ॥६॥ वैश्यस्याध्ययनं यजनं दानं कृषिपाशुपाल्ये वणिज्या च ॥७॥ शूद्रस्य द्विजातिशुश्रूषा वार्त्ता कारुकुशीलवकर्म च ॥८॥ सर्वेषामहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥१३॥⟫
 
-⟪१⟫. ⟪नर⟫ m. <!-- TODO: Fallback translation -->
-
-⟪२⟫. ⟪फल⟫ n. <!-- TODO: Fallback translation -->
-
-⟪३⟫. ⟪क्षत्रिया⟫ f. <!-- TODO: Fallback translation -->
-
-⟪४⟫. ⟪अरि⟫ m. <!-- TODO: Fallback translation -->
-
-⟪५⟫. ⟪मति⟫ f. <!-- TODO: Fallback translation -->
-
-⟪६⟫. ⟪गुरु⟫ m. <!-- TODO: Fallback translation -->
-
-⟪७⟫. ⟪धेनु⟫ f. <!-- TODO: Fallback translation -->
-
-⟪८⟫. ⟪देवी⟫ f. <!-- TODO: Fallback translation -->
-
-⟪९⟫. ⟪गुणवन्त्⟫ m., n., f. <!-- TODO: Fallback translation -->
-
-⟪१०⟫. ⟪किम्⟫  m., n., f. <!-- TODO: Fallback translation -->
-
-⟪११⟫. ⟪तद्⟫ m., n., f. <!-- TODO: Fallback translation -->
-
-⟪१२⟫. ⟪एतद्⟫ m., n., f. <!-- TODO: Fallback translation -->
-
-⟪१३⟫. ⟪इदम्⟫ m., n., f. <!-- TODO: Fallback translation -->
-
-B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
-
-⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫ <!-- TODO: Fallback translation -->
-
-⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
-
-⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
-
-⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
-
-⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
-
-⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫ <!-- TODO: Fallback translation -->
-
-(⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫) <!-- TODO: Fallback translation -->
+(⟪कौटिलीयार्थशास्त्र १⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
 ::: indent
-Erklärungen; <!-- TODO: Fallback translation -->
+Açıklamalar;
 
-Satz 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet <!-- TODO: Fallback translation -->
+Cümle 7: ⟪कृषिपाशुपाल्ये⟫ Çiftil, Yalın/Tümleç: Dvandva, iki "şeyi" ifade eder
 
-Satz 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum zu ⟪कर्मन्⟫ "Tat" <!-- TODO: Fallback translation -->
+Cümle 8: ⟪कर्म⟫ Yalın/Tümleç. tekil nötr ⟪कर्मन्⟫ "eylem" kelimesine ait
 
-Satz 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. zu ⟪सर्व⟫ "jeder, alle" (Pronomen, dekliniert nicht wie deva) <!-- TODO: Fallback translation -->
+Cümle 13: ⟪सर्वेषाम्⟫ çoğul tamlayan erkek ⟪सर्व⟫ "her biri, tümü" (zamir, deva gibi çekimlenmez)
 :::
-⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫ <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt1602:** "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Bildquelle: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt1603:** "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Bildquelle: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-:::

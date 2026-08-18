@@ -261,16 +261,4 @@ status: stable
 (מקור התמונה: [פרטים](/he/licenses#lekt2204))
 :::
 
-::: deleteme-box
 
-**lekt2201:** גואה = ⟪गोंय⟫ [מקור התמונה: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- נגיש ב־12.12.2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא יצירות נגזרות)]
-
-**lekt2202:** המאה ה-19 [מקור התמונה: ויקיפדיה, רשות ציבורית]
-
-**lekt2203:** קולקטה = কলকাতא [מקור התמונה: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- נגיש ב־2008-12-12. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)] <!-- TODO: Fallback translation -->
-
-**lekt2203:** קולקטה = কলকাতא [מקור התמונה: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- נגיש ב־12 בדצמבר 2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא יצירות נגזרות)]
-::: <!-- TODO: Fallback translation -->
-
-
-:::

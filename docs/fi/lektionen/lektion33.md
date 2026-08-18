@@ -1,23 +1,24 @@
 ---
-title: Lektion 33
+title: "# Oppitunti 33"
 lesson_id: 33
 status: stable
+
 ---
 
 # Luento 33
 
-## 33.1. Reduplikaatio (⟪अभ्यास⟫ m.) <!-- TODO: Fallback translation -->
+## 33.1. Reduplikaatio (⟪अभ्यास⟫ m.)
 
 * Kolmas preesensluokka
 * (sekä jotkut muut preesensluokan verbien muodot),
 * perfekti,
 * reduploitu aoristos,
 * frekventatiivi ja
-* desideratiivi <!-- TODO: Fallback translation -->
+* desideratiivi
 
 muodostetaan redupikaatiolla. Redupikoidussa muodossa juuren edellä oleva osa on redupikaatiotavu.
 
-Redupikaatiotavu koostuu (konsonantista ja) vokaalista. <!-- TODO: Fallback translation -->
+Redupikaatiotavu koostuu (konsonantista ja) vokaalista.
 
 ### 33.1.1. Redupikaatiokonsonantti
 
@@ -70,65 +71,65 @@ Esimerkit:
 ::: grammar-box
 **5. Jos juuri alkaa konsonantiryhmällä sibilantt + äänetön konsonantti, ei sibilanttia vaan sitä seuraavaa ääntöntä konsonanttia reduplikoidaan yllä olevien sääntöjen mukaisesti.**
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ::: indent
 ⟪स्था⟫ 1 "seistä"
 * 3.sg.P.Ind.Präs. ⟪तिष्ठति⟫
 :::
-## 33.2. Kolmas preesensluokka (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ jne.") <!-- TODO: Fallback translation -->
+## 33.2. Kolmas preesensluokka (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ jne.")
 
 ::: grammar-box
 **Muodostus:**
 
 **vahva vartalo:**  
-**punoutettu korkean tason juuri + pääte** <!-- TODO: Fallback translation -->
+**reduplikoitu korkeatasoinen juuri + pääte**
 
 **heikko vartalo:**  
-**punoutettu matalan tason juuri + pääte** <!-- TODO: Fallback translation -->
+**reduplikoitu matalatasoinen juuri + pääte**
 
-**Punoutuskonsonantille pätevät yllä annetut säännöt.**
+**Reduplikointikonsonantille pätevät yllä annetut säännöt.**
 :::
-### 33.2.1. Kolmannen preesensluokan punoutusvokaali <!-- TODO: Fallback translation -->
+### 33.2.1. Kolmannen preesensluokan reduplikointivokaali
 
 ::: grammar-box
 * **Säännöllinen reduplikointivokaali on -i-**
-* **u-päätteiset juuret reduplikoituvat -u:-lla**
-* **juuret ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ reduplikoituvat -a:-lla**
+* **u-vokaalia sisältävät juuret reduplikoituvat -u:lla**
+* **juuret ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ reduplikoituvat -a:lla**
 :::
-Esimerkkejä: <!-- TODO: Fallback translation -->
+Esimerkkejä:
 
 ::: grammar-box
-⟪हु⟫ 3P "(uhriksi) tulittaa"
+⟪हु⟫ 3P "(uhri) kaada tuleen"
 
 * **vahva vartalo:** ⟪जुहो⟫
-* **heikko vartalo:** ⟪जुहु⟫ <!-- TODO: Fallback translation -->
+* **heikko vartalo:** ⟪जुहु⟫
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Preesens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **Imperfekti** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **Optatiivi** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **Indikatiivi preesens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;:brjuhu + ate |
+| **Imperfekti** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:bra-juhu + ata |
+| **Optatiivi** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \&lt;⟪जुह्वीत⟫\&gt;:brjuhu + ī-ta | \&lt;⟪जुह्वीरन्⟫\&gt;:brjuhu + ī-ran |
 :::
-## 33.3. Äänteenvaihdosta ā
+## 33.3. ā:n ablautista
 
 ā kann
 
-* toisaalta vokaalipitkennysaste jossakin konsonanttisarjasta, jossa on -a-
-* toisaalta vokaalipitkennysaste jossakin ā-ryhmän konsonanttisarjassa <!-- TODO: Fallback translation -->
+* toisaalta se voi olla -a:-n sisältävän ablautsarjan vartiovaihe
+* toisaalta se voi olla korkeatasoinen ā-ryhmän ablautsarjassa
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
+Tärkeimmät ā-ryhmän ablautsarjat ovat:
 
 ::: grammar-box
 **A.**
 
-* **Matalleikka**
-  * **Konsonantin edellä: -i-**
-esim. :sig[⟪धा⟫] PPP: :sig[⟪हित⟫] (hi-ta)
-  * **Vokaalin edellä: Ø**
-esim. :sig[⟪धा⟫] 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
-* **Korkea aste: -ā-**
-esim. :sig[⟪धा⟫] 3.sg.P.Ind.Präs. :sig[⟪दधाति⟫]
+* **Matalatasoinen**
+* **konsonantin edellä: -i-**  
+esim. ⟪धा⟫ PPP: ⟪हित⟫ (hi-ta)
+* **vokaalin edellä: Ø**  
+esim. ⟪धा⟫ 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
+* **Korkeatasoinen: -ā-**  
+esim. ⟪धा⟫ 3.sg.P.Ind.Präs. ⟪दधाति⟫
 :::
 Tähän ryhmään kuuluu esim.:
 
@@ -145,12 +146,12 @@ esim. ⟪पा⟫ 1: PPP ⟪पीत⟫ (pī-ta)
 * **Korkea aste: -ā-**
 esim. ⟪पा⟫ 1: Inf. ⟪पातुम्⟫
 :::
-## 33.4. Vartalon -ā päättävät juuret kolmannessa preesensluokassa <!-- TODO: Fallback translation -->
+## 33.4. Vartalon -ā päättävät juuret kolmannessa preesensluokassa
 
 ::: grammar-box
 **Vartalon -ā päättävät juuret (paitsi ⟪दा⟩ ja ⟪धा⟩) ovat heikossa vartlossa yleensä muotoa -ī-** (ks. Thumb-Hauschild, osa 1, s. 271; todennäköisesti yllä mainittu B-tyyppinen ablautisarja toimi esikuvana, vaikka nämä juuret muuten noudattavat A-sarjaa), **vokaalipäätteiden edellä juurivokaali katoaa kokonaan (ks. ablautisarja A).**
 :::
-Esimerkkejä: <!-- TODO: Fallback translation -->
+Esimerkkejä:
 
 ::: grammar-box
 ⟪मा⟫ 3Ā "mitata"
@@ -162,7 +163,7 @@ Esimerkkejä: <!-- TODO: Fallback translation -->
 | **Optatiivi** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 :::
 ::: grammar-box
-⟪हा⟫ 3P "vyā" <!-- TODO: Fallback translation -->
+⟪हा⟫ 3P "vyā"
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
@@ -170,10 +171,10 @@ Esimerkkejä: <!-- TODO: Fallback translation -->
 | **Imperfekti** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optatiivi** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Juuri ⟪हा⟫ hat vor dem Optatiivi-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Juuret ⟪दा⟫ ja :sig[⟪धा⟫] <!-- TODO: Fallback translation -->
+### 33.4.1. Juuret ⟪दा⟫ ja :sig[⟪धा⟫]
 
 ::: grammar-box
-**Juuret ⟪दा⟫ ja :sig[⟪धा⟫] reduplikoituvat vokaalilla -a- ja menettävät heikon varmuuden juurivokaalin.** <!-- TODO: Fallback translation -->
+**Juuret ⟪दा⟫ ja :sig[⟪धा⟫] reduplikoituvat vokaalilla -a- ja menettävät heikon varmuuden juurivokaalin.**
 
 **Huomaa :sig[⟪धा⟫]: hahdottomuussääntö!**
 :::
@@ -186,7 +187,7 @@ Esimerkkejä: <!-- TODO: Fallback translation -->
 | **Imperfekti** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optatiivi** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Muodot ⟪दा⟫ saadaan korvaamalla :sig[⟪धा⟫] paradigmassa **dh** kirjaimella **d**. Eli: <!-- TODO: Fallback translation -->
+Muodot ⟪दा⟫ saadaan korvaamalla :sig[⟪धा⟫] paradigmassa **dh** kirjaimella **d**. Eli:
 
 ::: grammar-box
 ⟪दा⟫ 3U "antaa"
@@ -197,14 +198,14 @@ Muodot ⟪दा⟫ saadaan korvaamalla :sig[⟪धा⟫] paradigmassa **dh** k
 | **Imperfekti** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optatiivi** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
-## 33.5. Preesenspartisiippi Parasmaipada-juurten 3. preesensluokasta <!-- TODO: Fallback translation -->
+## 33.5. Preesenspartisiippi Parasmaipada-juurten 3. preesensluokasta
 
 ::: grammar-box
 **Luokan 3 verbit muodostavat kaikki preesensin partisiippimuodot Parasmaipadassa heikosta varresta.**
 
 **Poikkeus: Nominatiivin/akkusatiivin monikon neutrin muodon voi muodostaa joko vahvasta tai heikosta varresta.**
 :::
-⟪दा⟫ Preesensin partisiippi Parasmaipadassa: <!-- TODO: Fallback translation -->
+⟪दा⟫ Preesensin partisiippi Parasmaipadassa:
 
 ::: grammar-box
 | | maskuliini:br⟪पुंल्लिङ्ग⟫ | neutri:br⟪नपुंसकलिङ्ग⟫ | feminiini:br⟪स्त्रीलिङ्ग⟫ |
@@ -216,7 +217,7 @@ Muodot ⟪दा⟫ saadaan korvaamalla :sig[⟪धा⟫] paradigmassa **dh** k
 | **1. nominatiivi** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
 | **2. akkusatiivi** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
 :::
-Samoin ⟪जुह्वत्⟫ (juhu-at + s) <!-- TODO: Fallback translation -->
+Samoin ⟪जुह्वत्⟫ (juhu-at + s)
 
 ## 33.6. Sanalista
 
@@ -238,7 +239,7 @@ siitä:
 Kuv.: ⟪दानम्⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt3306))
 :::
-⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (vastaanottaa), ottaa haltuun, viedä mukanaan <!-- TODO: Fallback translation -->
+⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (vastaanottaa), ottaa haltuun, viedä mukanaan
 
 ::: indent
 **Absol.** ⟪आदाय⟫: akk. kanssa; seuranaan, mukana
@@ -257,7 +258,7 @@ Kuv.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **PPP** :sig[⟪हित⟫] (!!)  
 **Inf.** :sig[⟪धातुम्⟫]
 :::
-:sig[⟪धा⟫] + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: kiinnittää koko huomionsa jhk, keskittyä <!-- TODO: Fallback translation -->
+:sig[⟪धा⟫] + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: kiinnittää koko huomionsa jhk, keskittyä
 
 ::: indent
 tästä:
@@ -269,7 +270,7 @@ tästä:
 Kuv.: ⟪समाधि⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3305))
 :::
-⟪पॄ⟫ 3P ⟪पिपर्ति⟫: täyttää, vallata <!-- TODO: Fallback translation -->
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫: täyttää, vallata
 
 ::: indent
 Huom:
@@ -303,7 +304,7 @@ siitä:
 Kuv.: ⟪भयम्⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3304))
 :::
-⟪भृ⟫ 3U ⟪बिभर्ति⟫: kantaa, tuoda; ylläpitää, ruokkia <!-- TODO: Fallback translation -->
+⟪भृ⟫ 3U ⟪बिभर्ति⟫: kantaa, tuoda; ylläpitää, ruokkia
 
 ::: indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -342,7 +343,7 @@ siitä:
 **Kaus.** ⟪हापयति⟫  
 **PPP** ⟪हीन⟫: jätetty, puutteellinen
 **Inf.** ⟪हातुम्⟫
-PPP:sta ⟪हीन⟫: <!-- TODO: Fallback translation -->
+PPP:sta ⟪हीन⟫:
 
 ⟪हीनयान⟫ n.: puutteellinen ajoneuvo (buddhalaisuus): halventava nimitys "suuren ajoneuvon" edustajilta, ⟪महायान⟩; puutteellinen tie (⟪यान⟩ → ⟪या⟩ 2: mennä, ajaa). Ilmausta ⟪हीनयान⟩ ei pitäisi enää käyttää. Vanhan buddhalaisuuden nykyinen muoto on nimeltään ⟪थेरवाद⟩.
 :::
@@ -351,7 +352,7 @@ PPP:sta ⟪हीन⟫: <!-- TODO: Fallback translation -->
 Kuva: ⟪हीनयानमेव⟩
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3303))
 :::
-⟪हु⟩ 3P ⟪जुहोति⟩: kaada tuleen (uhrina, erityisesti sulavoini) <!-- TODO: Fallback translation -->
+⟪हु⟩ 3P ⟪जुहोति⟩: kaada tuleen (uhrina, erityisesti sulavoini)
 
 ::: indent
 **Fut.** ⟪होष्यति⟩  
@@ -368,17 +369,17 @@ Kuva: ⟪घृतमग्नौ⟩ ⟪जुहोति⟩
 ⟪घृत⟩ n.: sulavoini, ghee (⟪घी⟩ / گھی / ঘী)
 
 ::: note-box
-"Ghee valmistetaan keittämällä suolatonta voita suurella kattilalla, kunnes kaikki vesi on haihtunut ja proteiinit ovat laskeutuneet pohjalle. Keitetty ja selkeytetty voi kaadetaan sitten lusikalla pois välttääkseen pohjalle jääneiden maidon kiinteiden aineiden häiritsemisen. Toisin kuin voita, ghea voidaan säilyttää pitkään ilman jääkaappia, kunhan sitä pidetään ilmatiiviissä astiassa hapettumisen estämiseksi ja se pysyy kosteudetta. Gheen tekstiuri, väri tai maku riippuvat maidon lähteestä, josta voita on valmistettu. Intiassa ghea valmistetaan yleensä vesipuhvelin maidosta, koska se on valkoisempaa kuin lehmän maito." <!-- TODO: Fallback translation -->
+"Ghee valmistetaan keittämällä suolatonta voita suurella kattilalla, kunnes kaikki vesi on haihtunut ja proteiinit ovat laskeutuneet pohjalle. Keitetty ja selkeytetty voi kaadetaan sitten lusikalla pois välttääkseen pohjalle jääneiden maidon kiinteiden aineiden häiritsemisen. Toisin kuin voita, ghea voidaan säilyttää pitkään ilman jääkaappia, kunhan sitä pidetään ilmatiiviissä astiassa hapettumisen estämiseksi ja se pysyy kosteudetta. Gheen tekstiuri, väri tai maku riippuvat maidon lähteestä, josta voita on valmistettu. Intiassa ghea valmistetaan yleensä vesipuhvelin maidosta, koska se on valkoisempaa kuin lehmän maito."
 
 [Lähde: http://en.wikipedia.org/wiki/Ghee. -- Viitattu 2008-12-26]
 :::
-## 33.7. Harjoitus <!-- TODO: Fallback translation -->
+## 33.7. Harjoitus
 
-A) Täytä seuraava lauserakenne sulkujen vastaavat sanamuodot: <!-- TODO: Fallback translation -->
+A) Täytä seuraava lauserakenne sulkujen vastaavat sanamuodot:
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
-B) Aseta sulkulausekkeessa määritettyjen verbien vastaavat muodot indikatiivin preesensin, imperfektin ja optatiivin mukaisesti: <!-- TODO: Fallback translation -->
+B) Aseta sulkulausekkeessa määritettyjen verbien vastaavat muodot indikatiivin preesensin, imperfektin ja optatiivin mukaisesti:
 
 ⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 
@@ -396,7 +397,7 @@ B) Aseta sulkulausekkeessa määritettyjen verbien vastaavat muodot indikatiivin
 
 ⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ... (⟪पॄ⟫) ⟪॥८॥⟫
 
-C) Käännä ja muuta yksikkölauseet monikkomuotoon ja päinvastoin: <!-- TODO: Fallback translation -->
+C) Käännä ja muuta yksikkölauseet monikkomuotoon ja päinvastoin:
 
 ⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫
 
@@ -417,17 +418,3 @@ Kuva: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-::: deleteme-box
-
-**Ghī-määritelmä ja tiedot:**
-* Lähde: http://en.wikipedia.org/wiki/Ghee (haettu 2008-12-26) <!-- TODO: Fallback translation -->
-
-**Kuvaluettelo ja lisenssit:**
-* **Kuva lekt3306 (häätilaisuus, Chennai):** Kuv lähde: http://www.pbase.com/chandra/image/62118318 (haettu 2008-12-27). Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, sama lupa).
-* **Kuva lekt3307 (Udaipurin kuljettaja):** Kuv lähde: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, haettu 2008-12-27). Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia).
-* **Kuva lekt3305 (Samadhi-yogini, Kaveripakkam):** Kuv lähde: Quadell / Wikipedia (GNU FDLicense).
-* **Kuva lekt3304 (bhaya-kuljettaja, Mumbai):** Kuv lähde: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, haettu 2008-12-26). Creative Commons -lisensointi (Nimeäminen).
-* **Kuva lekt3303 (Hinayana Thaimaa):** Kuv lähde: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, haettu 2008-12-26). Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä).
-* **Kuva lekt3302 (Yajna, Shiva-ashram, Ganeshpuri):** Kuv lähde: Dey (http://www.flickr.com/photos/dey/466758922/, haettu 2008-12-26). Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, sama lupa).
-* **Kuva lekt3308 (nainen kuljettaja, Delhi):** Kuv lähde: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, haettu 2008-12-27). Creative Commons -lisensointi (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia).
-:::

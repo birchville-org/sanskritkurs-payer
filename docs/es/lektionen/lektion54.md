@@ -274,14 +274,7 @@ Traduzca por escrito las siguientes formas y forme las correspondientes formas d
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5401))
-::: &lt;!-- TODO: Fallback translation --&gt;
-
-:::
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Fuente de la imagen: Raji Srinivas / Wikipedia. Licencia GNU FDL]
-
-**lekt5401:** Tamil Nadu [Fuente de la imagen: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Acceso el 28-01-2009. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
+::: &lt;!--  --&gt;
 
 :::
 

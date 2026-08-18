@@ -58,7 +58,7 @@ last_reconstructed: 2026-05-15
 (מקור התמונה: [פרטים](/licenses#uebung078))
 ::::
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## ⟪बाण⟫ (⟪ז⟫. מאה לספירה): ⟪कादम्बरी⟫
 

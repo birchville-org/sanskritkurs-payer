@@ -254,14 +254,3 @@ B.) சமஸ்கிருதத்திற்கு மொழிபெயர
 
 34\. நல்வாழ்வை அளிப்பதாக (நடக்கட்டும்)! (ஆசீர்வாத வாக்கு)
 
-::: deleteme-box
-
-**lekt4702:** ஹனுமான் கோவில், தில்லி = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [பட மூலம்: கரோல் மிட்செல். -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- 2009-01-09 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (நாமக்காரர், மாற்றம் இல்லை)]
-
-**lekt4701:** [பட மூலம்: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- 2009-01-09 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (நாமக்காரர், வணிகரீதியான பயன்பாடு இல்லை, பகிர்வு ஒரே வகை)]
-
-**lekt4703:** [பட மூலம்: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- 2009-01-10 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (நாமக்காரர்)]
-
-**lekt4704:** [பட மூலம்: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- 2009-01-10 அன்று அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (நாமகுத்தல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-:::

@@ -583,16 +583,3 @@ Fig.: ⟪नागदेवाः⟫
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt1509))
 :::
 
-::: deleteme-box
-
-- **Fig.: ⟪लक्ष्मी⟫** (Lakshmi): Dipinto di ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Fonte dell'immagine: Wikipedia, dominio pubblico.
-- **Fig.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Fonte dell'immagine: Wikipedia, dominio pubblico.
-- **Diagramma** (lekt1502.jpg): Diagramma di scomposizione dei composti. Fonte dell'immagine: Alois Payer / Grafica originale del corso.
-- **Fig.: ⟪पूजा⟫** (Puja): Cerimonia di Puja tenuta a Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Fonte dell'immagine: Wikipedia, dominio pubblico.
-- **Fig.:  ⟪इन्द्रः⟫** (Indra): Folio di un Panchakalyanaka, Rajasthan, Amber. Fonte dell'immagine: Wikipedia, dominio pubblico.
-- **Fig.: ⟪सिंहः⟫** (Leone): Panthera leo persica. Fonte dell'immagine: Wikipedia, licenza GNU FDL.
-- **Fig.: ⟪व्याघ्रः⟫** (Tigre): Parco nazionale di Bandhavgarh (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Fonte dell'immagine: U.S. Fish and Wildlife Service / Wikipedia, dominio pubblico.
-- **Fig.: ⟪ग्रामदेवता⟫** (Gramadevata): Signore Virpanath @ villaggio di Pasvadal, Vadgam, Gujarat, India. Fonte dell'immagine: ganuullu (Flickr), licenza Creative Commons.
-- **Fig.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Fonte dell'immagine: Dineshkannambadi / Wikipedia, licenza GNU FDL.
-:::
-

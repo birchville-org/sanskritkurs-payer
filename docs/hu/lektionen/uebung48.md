@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 48
 
-A) Fordítsd le a ⟪सुभाषितानि⟫ a leckelejtésénél: <!-- TODO: Fallback translation -->
+A) Fordítsd le a ⟪सुभाषितानि⟫ a leckelejtésénél:
 
 ⟪१⟫. **⟪सत्यं⟫ ⟪वद⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 Mondd az igazságot!
@@ -31,7 +31,7 @@ Amit holnap meg kell tenni, azt tegyük ma. (Ne halogasd a holnapi dolgokat!)
 A műveletlen ember állat.
 
 ⟪७⟫. **⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-A tömörítés a grammatikus dísze. <!-- TODO: Fallback translation -->
+A tömörítés a grammatikus dísze.
 
 ::: media
 ![](/images/uebung083.webp)
@@ -45,10 +45,10 @@ A tömörítés a grammatikus dísze. <!-- TODO: Fallback translation -->
 B) Fordítsd le szanszkritra az imperativus használatával (előnyben részesítve a 2. és 3. osztályú gyököket):
 
 ⟪१⟫. **⟪पुत्रं⟫ ⟪लब्ध्वा⟫ ⟪कुलं⟫ ⟪जहाहि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (Vagy: **... ⟪जहीहि⟫ / ⟪जहिहि⟫ ⟪॥⟫**)
-Miután fiad született, hagyd el a családot! <!-- TODO: Fallback translation -->
+Miután fiad született, hagyd el a családot!
 
 ⟪२⟫. **⟪पौरवाः⟫ ⟪कृतपापेभ्यो⟫ ⟪बिभीत⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Puru utódai, féljétek azokat, akik rosszat cselekedtek! <!-- TODO: Fallback translation -->
+Puru utódai, féljétek azokat, akik rosszat cselekedtek!
 
 ⟪३⟫. **⟪कन्या⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪ददतु⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 A lányok adjanak ételt a koldusoknak.
@@ -62,10 +62,10 @@ Beszéljünk!
 (Képmegjelenítés: [Részletek](/licenses#uebung085))
 :::
 ⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-A „Gyere, szerzetes!” szavakkal a Buddha felvette az embert a rendbe. <!-- TODO: Fallback translation -->
+A „Gyere, szerzetes!” szavakkal a Buddha felvette az embert a rendbe.
 
 ⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Legyetek igaz emberek (Manu utódai)! <!-- TODO: Fallback translation -->
+Legyetek igaz emberek (Manu utódai)!
 
 ⟪७⟫. **⟪शिवादिदेवान्स्तवानि⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 Dicsérni akarom Śivát és a többi istent.
@@ -74,10 +74,10 @@ Dicsérni akarom Śivát és a többi istent.
 Mesélj!
 
 ⟪९⟫. **⟪नरकान्मिमीष्व⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Mérd fel a poklokat! <!-- TODO: Fallback translation -->
+Mérd fel a poklokat!
 
 ⟪१०⟫. **⟪एतेषु⟫ ⟪शयनेषु⟫ ⟪शेरताम्⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Feküdjenek ezeken a fekhelyeken. <!-- TODO: Fallback translation -->
+Feküdjenek ezeken a fekhelyeken.
 
 ⟪११⟫. **⟪पुरुषव्याघ्रा⟫ ⟪इन्द्रशत्रून्घ्नन्तु⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 A tigrisszerű férfiak öljék meg Indra ellenségeit.
@@ -89,25 +89,25 @@ Koncentrálj!
 Ülj ide!
 
 ⟪१४⟫. **⟪तानि⟫ ⟪फलान्यदाम⟫ ⟪॥⟫ ⟪१४⟫ ⟪॥⟫**
-Meg akarjuk enni ezeket a gyümölcsöket. <!-- TODO: Fallback translation -->
+Meg akarjuk enni ezeket a gyümölcsöket.
 
 ⟪१५⟫. **⟪दासो⟫ ⟪धेनुं⟫ ⟪दोग्धु⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫**
-A szolga fejje meg a tehenet. <!-- TODO: Fallback translation -->
+A szolga fejje meg a tehenet.
 
 ⟪१६⟫. **⟪राजन्धर्मं⟫ ⟪जनांश्च⟫ ⟪पाहि⟫ ⟪॥⟫ ⟪१६⟫ ⟪॥⟫**
 Király, védd a törvényt és az embereket!
 
 ⟪१७⟫. **⟪शिष्याञ्शाधि⟫ ⟪वेदम्⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫** (Vagy: **... ⟪शाधि⟫ ...**)
-Tanítsd a tanítványokat a Véda! <!-- TODO: Fallback translation -->
+Tanítsd a tanítványokat a Véda!
 
 ⟪१८⟫. **⟪नवानि⟫ ⟪वस्त्राणि⟫ ⟪वस्ताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
 Öltözzön új ruhákba.
 
 ⟪१९⟫. **⟪मम⟫ ⟪गृह⟫ ⟪आसताम्⟫ ⟪॥⟫ ⟪१९⟫ ⟪॥⟫**
-Üljönek az én házamban. <!-- TODO: Fallback translation -->
+Üljönek az én házamban.
 
 ⟪२०⟫. **⟪भर्तारो⟫ ⟪भार्या⟫ ⟪बिभ्रतु⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
-A férjek fenntartsák a feleségeiket. <!-- TODO: Fallback translation -->
+A férjek fenntartsák a feleségeiket.
 
 ::: media
 ![](/images/uebung076.webp)
@@ -139,7 +139,7 @@ Különösen a csekély okok előtt kell óvni a nőket; mert ha nem védik őke
 
 **⟪इमं⟩ ⟪हि⟩ ⟪सर्ववर्णानां⟩ ⟪पश्यन्तो⟩ ⟪धर्ममुत्तमम्⟩ ⟪।⟩**
 **⟪यतन्ते⟩ ⟪रक्षितुं⟩ ⟪भार्यां⟩ ⟪भर्तारो⟩ ⟪दुर्बला⟩ ⟪अपि⟩ ⟪॥⟩ ⟪६⟩ ⟪॥⟩**
-Mivel ezt minden rendi hivatás legfőbb kötelességének ismerik fel, még a gyenge férjek is erőlködnek feleségeik védelme érdekében. <!-- TODO: Fallback translation -->
+Mivel ezt minden rendi hivatás legfőbb kötelességének ismerik fel, még a gyenge férjek is erőlködnek feleségeik védelme érdekében.
 
 **⟪स्वां⟩ ⟪प्रसूतिं⟩ ⟪चरित्रं⟩ ⟪च⟩ ⟪कुलमात्मानमेव⟩ ⟪च⟩ ⟪।⟩**
 **⟪स्वं⟩ ⟪च⟩ ⟪धर्मं⟩ ⟪प्रयत्नेन⟩ ⟪जायां⟩ ⟪रक्षन्हि⟩ ⟪रक्षति⟩ ⟪॥⟩ ⟪७⟩ ⟪॥⟩**
@@ -147,7 +147,7 @@ Aki gondosan óvja a feleségét, az valóban óvja utódait, életmódját, csa
 
 **⟪पतिर्भार्यां⟩ ⟪संप्रविश्य⟩ ⟪गर्भो⟩ ⟪भूत्वेह⟩ ⟪जायते⟩ ⟪।⟩**
 **⟪जायायास्तद्धि⟩ ⟪जायात्वं⟩ ⟪यद्⟩ ⟪अस्यां⟩ ⟪जायते⟩ ⟪पुनः⟩ ⟪॥⟩ ⟪८⟩ ⟪॥⟩**
-A férj belép a feleségébe, maggá válik, és aztán itt születik meg; ez a „feleségiség” (⟪जायात्वम्⟩) lényege, hogy a férj újjászületik benne. <!-- TODO: Fallback translation -->
+A férj belép a feleségébe, maggá válik, és aztán itt születik meg; ez a „feleségiség” (⟪जायात्वम्⟩) lényege, hogy a férj újjászületik benne.
 
 ::: media
 ![](/images/uebung084.webp)

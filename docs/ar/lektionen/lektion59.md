@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # الدرس 59
 
@@ -784,10 +784,3 @@ _مساعدة الترجمة:_ الآية 6: ⟪दिदृक्षते⟫ \
 :::
 نص من: أوتو بوختلينك: كريستوماتيا السنسكريتية ص 127ف.
 
-::: deleteme-box
-
-**lekt5902:** [مصدر الصورة: Henryart/Wikipedia. ملكية عامة] <!-- TODO: Fallback translation -->
-
-**lekt5903:** رقص الكيكاج، بالي (إندونيسيا) [مصدر الصورة: Flying Pharmacist / ويكيبيديا. [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-sa/3.0/) (النسبة، التشارك بنفس الرخصة)]
-
-:::

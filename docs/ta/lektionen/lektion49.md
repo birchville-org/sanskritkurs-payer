@@ -372,25 +372,3 @@ PPP ⟪ध्यात⟫
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt4908))
 :::
 
-::: deleteme-box
-
-**lekt4907:** [பட மூலம்: ராஜேஷ் வசுதேவன். -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- 2009-01-10 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, பகிர்வு ஒரே மாதிரி)]
-
-**lekt4901:** [பட மூலம்: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- 2009-01-11 அன்று அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (பெயர் குறிப்பு, மாற்றம் இல்லை)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, 11. நூற்றாண்டு. [பட மூலம்: Vassil / Wikipedia. பொதுத் துறை]
-
-**lekt4903:** [பட மூலம்: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- 2009-01-11 அன்று அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [பட மூலம்: pajama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- 2009-01-11 அன்று அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, share alike)]
-
-**lekt4909:** கவனிப்பாளர் பேரீச்சக்கிளி வலைப்பதிவில்: கிளி துண்டு துண்டாக எடுத்து, அதில் வாழ்க்கை எழுதப்பட்டது மைசூர் [பட மூலம்: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- 2009-01-12 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (பெயர் குறிப்பு)]
-
-**lekt4905:** அமிருதசர = ਅੰਮ੍ਰਿਤਸਰ [பட மூலம்: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- 2009-01-11 அன்று அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (பெயர் குறிப்பு)]
-
-**lekt4906:** இலங்கை [பட மூலம்: கார்மேலோ அக்விலினா. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- 2009-01-11 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt4908:** பிளம் தலைப்பூனை _= Psittacula cyanocephala_[பட மூலம்: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- 2009-01-12 அன்று அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, share alike)]
-
-:::
-

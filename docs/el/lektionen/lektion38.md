@@ -47,7 +47,7 @@ status: stable
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
 | **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung | <!-- TODO: Fallback translation -->
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
 
 **Οι καταλήξεις είναι κανονικές. Η ονοματική ενικού αρσενικού και θηλυκού σχηματίζεται χωρίς τελικό -n.**
 :::
@@ -587,20 +587,3 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪युष्माकम्⟫ Γενική πληθυντικού, προς :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Εικ.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Μπανγκαλόρ = ಬೆಂಗಳೂರು \[Πηγή εικόνας: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Πρόσβαση στις 31-12-2008. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)\]
-- **lekt3802.jpg**: Εικ.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Κονάρκ = ⟪कोनार्क⟫ \[Πηγή εικόνας: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Πρόσβαση στις 31-12-2008.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)\]
-- **lekt3803.jpg**: Εικ.: ⟪सीमा⟫  Σημείο διασυνοριακής διέλευσης μεταξύ Ινδίας και Πακιστάν στο Βάγκαχ (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Πηγή εικόνας: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Πρόσβαση στις 31-12-2008. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)\]
-- **lekt3804.jpg**: Εικ.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Γανδάρα, 2./3ος αι. μ.Χ. \[Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο\]
-- **lekt3805.jpg**: Εικ.: ⟪उदकम्⟫  Χωριό Νταρέουαντί, Περιφέρεια Αχμέντναγκάρ = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Πηγή εικόνας: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Πρόσβαση στις 01-01-2009. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)\]
-- **lekt3806.jpg**: Εικ.: ⟪हस्ती⟫  Εθνικό Πάρκο Ναγκαρχόλε = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Πηγή εικόνας: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Πρόσβαση στις 01-01-2009. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)\]
-- **lekt3807.jpg**: Εικ.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Πηγή εικόνας: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Πρόσβαση στις 01-01-2009. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγικά έργα)\]
-- **lekt3808.jpg**: Εικ.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  Δεκαετία του 1930 \[Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο\]
-- **lekt3809.jpg**: Εικ.: ⟪ब्रह्मा⟫  Χαλεπίδου = ಹಳೆಬೀಡು \[Πηγή εικόνας: Wikipedia. Άδεια GNU FD\]
-- **lekt3810.jpg**: Εικ.: Δέντρο του Άσοκα = _Saraca asoca_ (Roxb.) Wilde Κολκάτα = কলকাতা \[Πηγή εικόνας: J.M.Garg / Wikipedia. Άδεια GNU FD\]
-- **lekt3811.jpg**: Εικ.: Μέγιστη έκταση της αυτοκρατορίας του Άσοκα, καθώς και τόποι εύρεσης των πετρωτών και κιονικών διαταγμάτων του \[Πηγή εικόνας: Wikipedia. Άδεια GNU FD\]
-- **lekt3812.jpg**: Εικ.: ⟪विनोदः⟫  Παιχνίδι Καρόμ \[Πηγή εικόνας: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Πρόσβαση στις 01-01-2009. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)\]
-- **lekt3813.jpg**: Εικ.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Πηγή εικόνας: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Πρόσβαση στις 01-01-2009. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)\]
-- **lekt3814.jpg**: Εικ.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Πηγή εικόνας: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Πρόσβαση στις 01-01-2009. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγικά έργα)\]
-:::

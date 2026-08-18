@@ -14,7 +14,7 @@ status: stable
 ::: grammar-box
 **Educaziun:**
 
-*   Stamm stark: Radisniveau tief + -nā- <!-- TODO: Fallback translation -->
+*   Stamm stark: Radisniveau tief + -nā-
 
 *   stem debole:
 
@@ -96,7 +96,7 @@ Ezempli:
 
 **dargestellt werden soll.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Beispiel:
 
 ::: indent
 ⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Scheu ch'el dal vitg, el na udess il maister"
@@ -104,7 +104,7 @@ Beispiel: <!-- TODO: Fallback translation -->
 ::: grammar-box
 **3. Fratschas relativas cun optativ han a vartas il significà: "Sche in ustra ..."**
 :::
-Esempel: <!-- TODO: Fallback translation -->
+Esempel:
 
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Schei na chaschtaivüna, schei na chaschtaivüna = Schei na chaschtaivüna, schei na chaschtaivüna"
@@ -128,13 +128,13 @@ L'optativ (⟪लिङ्⟫), l'imperfet (⟪लङ्⟫), l'aorist (⟪ल�
 ::: grammar-box
 **avant las finas che cumenzan cun consonantas:**
 
-**Stampa da preschent + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen** <!-- TODO: Fallback translation -->
+**Stampa da preschent + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen**
 
 **davant de sufixes començant per una vocal:**
 
 **Stampa da preschent + -i- (» -e-) + -y- + Sekundärendung**
 :::
-Ezempels: <!-- TODO: Fallback translation -->
+Ezempels:
 
 1\. Classe dal present:
 
@@ -191,7 +191,7 @@ Ezempels: <!-- TODO: Fallback translation -->
 
 **schwacher Stampa da preschent + -ī- + Sekundärendung**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 2\. Classa da present:
 
@@ -245,14 +245,14 @@ Beispiele: <!-- TODO: Fallback translation -->
 | **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
-## 30.5. Sandhi von auslautendem -r <!-- TODO: Fallback translation -->
+## 30.5. Sandhi von auslautendem -r
 
 ::: grammar-box
 **Per -ar valan las medemas reglas da Sandhi per -r final sco per -s final.**
 
 **-ar vor tönenden Lauten bleibt -ar, vor r- aber fällt das -r aus und das -a- vegn sustituì tras -ā- ersetzt.**
 :::
-Exempels: <!-- TODO: Fallback translation -->
+Exempels:
 
 ::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
@@ -294,7 +294,7 @@ Inf. ⟪ज्ञातुम्⟫
 
 daquest:
 
-⟪ज्ञाति⟫ m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!) <!-- TODO: Fallback translation -->
+⟪ज्ञाति⟫ m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
 
 ⟪ज्ञान⟫ n.: cunossientscha, savida, cumprender (specialmainamain las "pliras" veritads en la religiusitad e la filosofia)
 :::
@@ -318,7 +318,7 @@ Inf. ⟪पवितुम्⟫
 Abb.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Bildquelle: [Detagls](/rm/licenses#lekt3003))
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : mangiar, consumar <!-- TODO: Fallback translation -->
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : mangiar, consumar
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
@@ -345,7 +345,7 @@ Fig.: ⟪प्रिया⟫
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : schei n bet
 :::
-⟪यदि⟫ cuncunciun: sche <!-- TODO: Fallback translation -->
+⟪यदि⟫ cuncunciun: sche
 
 ::: indent
 ⟪यद्यपि⟫ : schebbe, schebna, malgrà
@@ -517,12 +517,3 @@ Determinar e traducir las siguientes formas verbales:
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [sursaint d'imagina: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Access il 2008-12-21. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala, nagina modificaziun)]
-**lekt3002:** Darewadi, district Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [sursaint d'imagina: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Access il 2008-12-21. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala, share alike)]
-**lekt3003:** [sursaint d'imagina: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Access il 2008-12-21. -- Licenza Creative Commons (attribuziun, share alike)]
-**lekt3005:** ⟪थाली⟫, India dal sid [sursaint d'imagina: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Access il 2008-12-21. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala, share alike)]
-**lekt3004:** [sursaint d'imagina: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Access il 2008-12-21. -- Licenza Creative Commons (attribuziun, share alike)]
-**lekt2904:** [sursaint d'imagina: Wikipedia / Copyright da Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

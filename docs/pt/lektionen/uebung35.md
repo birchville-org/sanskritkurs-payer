@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 35
 
-A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen: <!-- TODO: Fallback translation -->
+A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 
 ::: grammar-box
 | Präsens / Imperfekt | Perfekt |
@@ -58,22 +58,22 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen: <!--
 B) Übersetzen Sie:
 
 ⟪१⟫. **⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫**
-Einstmals begann ein grosser Kṣatriya zu opfern. Indra entführte (nahm) sein Opfertier. Als aber das Tier verschwunden war, sprach ein böser Brahmane zum Kṣatriya: "Das Tier ist wegen des schlechten Betragens des Kṣatriya verschwunden." <!-- TODO: Fallback translation -->
+Einstmals begann ein grosser Kṣatriya zu opfern. Indra entführte (nahm) sein Opfertier. Als aber das Tier verschwunden war, sprach ein böser Brahmane zum Kṣatriya: "Das Tier ist wegen des schlechten Betragens des Kṣatriya verschwunden."
 
 ⟪२⟫. **⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवू⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫**
-Rāma war sohnlos. Er wünschte sich einen Sohn, bekam aber keinen. Deshalb opferte er den Göttern und vollzog Gelübde wie sexuelle Enthaltsamkeit und dergleichen. Die Götter hörten Rāmas Wunsch und schenkten ihm den gewünschten Sohn. <!-- TODO: Fallback translation -->
+Rāma war sohnlos. Er wünschte sich einen Sohn, bekam aber keinen. Deshalb opferte er den Göttern und vollzog Gelübde wie sexuelle Enthaltsamkeit und dergleichen. Die Götter hörten Rāmas Wunsch und schenkten ihm den gewünschten Sohn.
 
 ⟪३⟫. **⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫**
-Die Brahmaninnen kochten Ghee für das Opfer. Während die Brahmaninnen kochten, bereiteten die Brahmanen den Opferplatz. Dann opferten die Kṣatriyas Śiva und den anderen Göttern als Opferherren, und die Brahmanen vollzogen das Opfer (im Auftrag). <!-- TODO: Fallback translation -->
+Die Brahmaninnen kochten Ghee für das Opfer. Während die Brahmaninnen kochten, bereiteten die Brahmanen den Opferplatz. Dann opferten die Kṣatriyas Śiva und den anderen Göttern als Opferherren, und die Brahmanen vollzogen das Opfer (im Auftrag).
 
 ⟪४⟫. **⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫**
-Arhats haben die Familienbande zerbrochen, Gier, Hass und Verblendung beendet, die Wahrheit erkannt und — vom Leiden befreit — das Glück der Erlösung erreicht. <!-- TODO: Fallback translation -->
+Arhats haben die Familienbande zerbrochen, Gier, Hass und Verblendung beendet, die Wahrheit erkannt und — vom Leiden befreit — das Glück der Erlösung erreicht.
 
 ---
 
-## Syntaktische Variation (Perfekt zu Imperfekt) <!-- TODO: Fallback translation -->
+## Syntaktische Variation (Perfekt zu Imperfekt)
 
-C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen: <!-- TODO: Fallback translation -->
+C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen:
 
 ⟪१⟫. ⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपाक्रामत⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪ऽहरत्⟫ ⟪॥⟫
 

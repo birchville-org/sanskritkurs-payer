@@ -30,7 +30,7 @@ A) Essayez de déterminer les significations possibles des mots suivants :
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 (tout juste) venant de la chaîne de trame / du métier à tisser = nouvellement tissé
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : danseur <!-- TODO: Fallback translation -->
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : danseur
 
 12\. naraka ⟪नरक⟫ : m. enfer
 
@@ -72,7 +72,7 @@ Enseigner, sacrifier sur ordre, accepter des dons.
 
 rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 
-(sarvabhūtānām = génitif (cas possesseur) : "de tous les êtres") <!-- TODO: Fallback translation -->
+(sarvabhūtānām = génitif (cas possesseur) : "de tous les êtres")
 
 (Gautamadharmasūtra X,7)
 

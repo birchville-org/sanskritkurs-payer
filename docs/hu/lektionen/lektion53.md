@@ -3,9 +3,9 @@ title: Lektion 53
 lesson_id: 53
 ---
 
-# 53. lecke <!-- TODO: Fallback translation -->
+# 53. lecke
 
-## 53.1. A kettős szám (⟪द्विवचन⟫ n.) a főnevekben <!-- TODO: Fallback translation -->
+## 53.1. A kettős szám (⟪द्विवचन⟫ n.) a főnevekben
 
 ::: grammar-box
 **A kettős szám (⟪द्विवचनम्⟫) a „két” jelentés kifejezésére szolgál:**
@@ -14,7 +14,7 @@ lesson_id: 53
 ::: indent
 ⟪अश्विनौ⟫ „a két Aśvin”
 :::
-**A kettőst ott kötelező használni, ahol két dologról van szó stb.:** <!-- TODO: Fallback translation -->
+**A kettőst ott kötelező használni, ahol két dologról van szó stb.:**
 
 ::: indent
 ⟪हस्तौ⟫ „a kéz (egy egyén)”
@@ -34,7 +34,7 @@ lesson_id: 53
 ![](/images/lekt5301.webp)
 Ábr.: ⟪मार्जारयुगम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5301))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -54,7 +54,7 @@ lesson_id: 53
 ::: grammar-box
 **A szófajszabályos főneveknél a név-, tárgy- és felszólító kettős számú hím-nőnem erős tövű**
 :::
-## 53.3. A mássalhangzóval végződő tövek kettős száma <!-- TODO: Fallback translation -->
+## 53.3. A mássalhangzóval végződő tövek kettős száma
 
 ### 53.3.1. Tövek szófajszabály nélkül
 
@@ -200,7 +200,7 @@ lesson_id: 53
 **-a végződésű tövek**
 
 ⟪देव⟫ m. "Isten"  
-⟪फल⟫ n. "Gyümölcs" <!-- TODO: Fallback translation -->
+⟪फल⟫ n. "Gyümölcs"
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | semlegesnem :br ⟪नपुंसक⟫ |
@@ -321,7 +321,7 @@ Példák:
 Ábr.: ⟪पितापुत्रौ⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5308))
 :::
-## 53.6. A névmások duális alakja <!-- TODO: Fallback translation -->
+## 53.6. A névmások duális alakja
 
 ::: grammar-box
 |   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ 
@@ -349,13 +349,13 @@ A következő melléknemű határozószavak mindes esetben úgy declineszkálnak
 
 *   ⟪अन्य⟫ 3 "egy másik"
 *   ⟪अन्यतर⟫ 3 "egy a kettő közül"
-*   ⟪इतर⟫ 3 "a másik" <!-- TODO: Fallback translation -->
+*   ⟪इतर⟫ 3 "a másik"
 
 *   ⟪सर्व⟫ 3 „mindenki, mind” minden ragozási esetben a nominatívus és akkusativus egyes szám középnem kivételével (⟪सर्वम्⟫) úgy ragozódik, mint ⟪यद्⟫.
 *   ⟪उभय⟫ 3 „kettő” nincs kettes szám (dualis). Az egyes és többes számban neműsített és semleges alakban úgy ragozódik, mint ⟪सर्व⟫. Női nem: ⟪उभयी⟫ (mint ⟪देवी⟫).
-*   ⟪उभ⟫ 3 „kettő” csak kettes számban (dualis) használatos, és úgy ragozódik, mint ⟪देव⟫ m., ⟪फल⟫ n. illetve ⟪देवता⟫ f. <!-- TODO: Fallback translation -->
+*   ⟪उभ⟫ 3 „kettő” csak kettes számban (dualis) használatos, és úgy ragozódik, mint ⟪देव⟫ m., ⟪फल⟫ n. illetve ⟪देवता⟫ f.
 
-A következő névmási melléknevek úgy ragozódnak, mint ⟪सर्व⟫. Az ablatívus és lokativus egyes szám m.n., valamint a nominativus többes számban az -a- vagy -ā-ragozás szerint is ragozhatók: <!-- TODO: Fallback translation -->
+A következő névmási melléknevek úgy ragozódnak, mint ⟪सर्व⟫. Az ablatívus és lokativus egyes szám m.n., valamint a nominativus többes számban az -a- vagy -ā-ragozás szerint is ragozhatók:
 
 *   ⟪अपर⟫ 3 „egy másik”
 *   ⟪उत्तर⟫ 3 „felső, északi, következő”
@@ -373,11 +373,11 @@ A következő névmási melléknevek úgy ragozódnak, mint ⟪सर्व⟫. 
 
 **Míg a ⟪तद्धित⟫-képzők -⟪तर⟫ és -⟪तम⟫ a melléknem hímnemű tövéhez kapcsolódnak, addig a -⟪ईयस्⟫ és -⟪इष्ठ⟫ képzők a melléknem származtatott gyökeréhez csatolódnak (amennyiben ilyen gyökér létezik!). A gyökvowel magas fokú.**
 
-**-iṣṭha végződésű szuperlatívusok (nőnem: iṣṭhā) az a- vagy ā-törzsek szerint ragozódnak.** <!-- TODO: Fallback translation -->
+**-iṣṭha végződésű szuperlatívusok (nőnem: iṣṭhā) az a- vagy ā-törzsek szerint ragozódnak.**
 
 **Deklination von -īyas siehe unten.**
 :::
-Példák: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: grammar-box
 | Tő | Melléknév | Komparatív | Szuperlatív |
@@ -413,7 +413,7 @@ Példák:
 ::: grammar-box
 **3. szabály:** **-ṛ- esetén, ha azt kezdő magánhangzó követi, és csak egy mássalhangzó következik rá, -ra-ra helyettesítik.**
 :::
-Példa: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: grammar-box
 | Melléknév | Fokozatfokozás (Komparatív) | Legfokozott fok (Szuperlatív) |
@@ -445,7 +445,7 @@ Példa: <!-- TODO: Fallback translation -->
 Ábr.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5309))
 :::
-**Egyes ilyen típusú fokozási formáknak egyáltalán nincs gyökszoros alapformájuk, ezek "defektívek". Ezért a következő sorrendeket különösen meg kell jegyezni:** <!-- TODO: Fallback translation -->
+**Egyes ilyen típusú fokozási formáknak egyáltalán nincs gyökszoros alapformájuk, ezek "defektívek". Ezért a következő sorrendeket különösen meg kell jegyezni:**
 
 ::: grammar-box
 | (Melléknév) | Fokozatfokozás (Komparatív) | Legfokozott fok (Szuperlatív) |
@@ -457,12 +457,12 @@ Példa: <!-- TODO: Fallback translation -->
 | (⟪वृद्ध⟫ 3 "idős") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "idős") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Az -īyas végű komparatívok deklinációja <!-- TODO: Fallback translation -->
+## 53.9. Az -īyas végű komparatívok deklinációja
 
 ::: grammar-box
 **A -īyas végződésű komparatívok képezik a nőnemet -īyasī végződéssel (ragozás mint ⟪देवी⟫). A nemnem és a középnem ragozása az alábbi táblázat szerint történik.**
 :::
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
 |   | ⟪एकवचनम्⟫ || ⟪द्विवचनम्⟫ || ⟪बहुवचनम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -485,7 +485,7 @@ Példa: <!-- TODO: Fallback translation -->
 :::
 Lásd még:
 
-> **Payer, Alois (1944–):** Bevezetés a szanszkrit szövegek exegézisébe : jegyzet. -- 8. fejezet: A valódi exegézis, II. rész: Külön kérdések a szinkronikus megértéshez. -- B függelék: A szanszkrit szövegek metrikájáról. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm) <!-- TODO: Fallback translation -->
+> **Payer, Alois (1944–):** Bevezetés a szanszkrit szövegek exegézisébe : jegyzet. -- 8. fejezet: A valódi exegézis, II. rész: Külön kérdések a szinkronikus megértéshez. -- B függelék: A szanszkrit szövegek metrikájáról. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. A mérték meghatározásának jelentése
 
@@ -495,7 +495,7 @@ A mértékek meghatározása az alábbi okok miatt fontos:
 Egy jó benyomást adó esztétikai hatás például a ⟪शिवताण्डवस्तोत्र⟩ (Śiva táncának dicsérete) recitálása: [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Szövegkritikai szempontból:** a versmértékbeli hibák arra utalhatnak, hogy egy adott helyen a szöveg nem került hűen átadásra. A versmérték segít a szöveghelyesbítések elvégzésében.
 3.  **Kronológiai szempontból:** bizonyos versmértékek történeti folyamat során bizonyos változásokon mentek keresztül. Ez segíthet egy szöveg hozzávetőleges keltezésében. Lásd: **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; uő.: Zur Geschichte des Śloka. -- Mindkettő megtalálható:
-**Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255. <!-- TODO: Fallback translation -->
+**Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -535,10 +535,10 @@ Egy jó benyomást adó esztétikai hatás például a ⟪शिवताण्�
 *   ugyanúgy, ha mássalhangzó-együttes előtt áll
 *   valamint, ha a szótag egy félvers (pāda) végén áll."
 ::: grammar-box
-**Egy szótag** <!-- TODO: Fallback translation -->
+**Egy szótag**
 
 *   vagyis **⟪लघु⟫ = könnyű**
-*   vagy **⟪गुरु⟫ = nehéz** <!-- TODO: Fallback translation -->
+*   vagy **⟪गुरु⟫ = nehéz**
 
 **⟪लघु⟫ = könnyű egy szótag, ha**
 
@@ -547,7 +547,7 @@ Egy jó benyomást adó esztétikai hatás például a ⟪शिवताण्�
 *   nem következik visarga,
 *   nem két mássalhangzó.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
+Kurze Vokale sind a, i, u, ṛ, ḷ
 
 **Minden más szótag ⟪गुरु⟫ = nehéz. Egy versnegyed utolsó szótagja (⟪पाद⟫) mindig ⟪गुरु⟫.**
 
@@ -572,7 +572,7 @@ Példa: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 ::: metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. Az eposzi śloka (⟪श्लोक⟫ m.) <!-- TODO: Fallback translation -->
+### 53.10.4. Az eposzi śloka (⟪श्लोक⟫ m.)
 
 ::: grammar-box
 **Emlékezővers:**
@@ -605,7 +605,7 @@ A legfontosabb versmérték az eposzokban (⟪महाभारत⟫, ⟪र�
 ::: metrik-schema
 × × × ×   **◡ — ◡ —**
 :::
-A második és harmadik szótag egy ⟪पाद⟫ nem lehet egyszerre ⟪लघु⟫. A b és d sávokban a 2–4. szótag nem lehet ¯ ˘ ¯. <!-- TODO: Fallback translation -->
+A második és harmadik szótag egy ⟪पाद⟫ nem lehet egyszerre ⟪लघु⟫. A b és d sávokban a 2–4. szótag nem lehet ¯ ˘ ¯.
 
 **Kiegészítő sémák (⟪विपुला⟩) az a és c számára:**
 
@@ -626,7 +626,7 @@ A második és harmadik szótag egy ⟪पाद⟫ nem lehet egyszerre ⟪ल�
 × × × ×   / — ◡ — —
 :::
 **Minden Śloka-formánál a fő caesura a 2. ⟪पाद⟫ végén található: ott van a szó vége, vagy – hosszú összetételek esetén – egy összetétel tagjának a vége.**
-## 53.11. Gyakorlat <!-- TODO: Fallback translation -->
+## 53.11. Gyakorlat
 
 ::: grammar-box
 **Határozzák meg az eddig tanult versek közül a szlokákat. Készítsék ezekhez írásban a metrikai sémát. Mutassák meg az esetleges szabálytalanságokat vagy Vipulā-formákat.**
@@ -637,20 +637,6 @@ Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
-::: deleteme-box
-**Források**
-
-**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
-
-Finitum feliciter 1984-02-15  
-Editio interretialis feliciter finita 2009-01-19  
-Alois Maria Payer  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-
-**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
-::: <!-- TODO: Fallback translation -->
 
 
 :::

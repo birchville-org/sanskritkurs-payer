@@ -5,19 +5,10 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lezione 6
 
-::: deleteme-box
-**In questa lezione imparate:**
-- La struttura della frase verbale (Agente e forma verbale)
-- La formazione delle forme verbali (Parasmaipada, Ātmanepada, Passivo)
-- I modi e i tempi del verbo
-- Indicativo presente (laṭ) e le desinenze primarie della 3. persona
-- La formazione del tema del presente (classi 1, 4 e 6)
-- La gradazione vocale (Ablaut: Guṇa e Vṛddhi)
-:::
 ## 6.1. La frase verbale
 
 ::: grammar-box
@@ -116,7 +107,7 @@ Esempio **yaj** = ⟪यज्⟫ = "onorare con un sacrificio", "sacrificare":
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Wortsandhi di e e o
-Prima delle vocali, all’interno della parola, **e** viene sostituito da **ay**, **o** da **av**. &lt;!-- TODO: Fallback translation --&gt;
+Prima delle vocali, all’interno della parola, **e** viene sostituito da **ay**, **o** da **av**. &lt;!--  --&gt;
 
 #### 6.5.2.2. Ablaut (gradazione vocale)
 
@@ -129,7 +120,7 @@ Prima delle vocali, all’interno della parola, **e** viene sostituito da **ay**
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verbi della quarta classe del presente (divādi = ⟪दिवादि⟫ = "div ecc.") &lt;!-- TODO: Fallback translation --&gt;
+### 6.5.3. Verbi della quarta classe del presente (divādi = ⟪दिवादि⟫ = "div ecc.") &lt;!--  --&gt;
 
 ::: grammar-box
 **Stema del presente = Radice in grado debole (in cui è elencata) + ya-**

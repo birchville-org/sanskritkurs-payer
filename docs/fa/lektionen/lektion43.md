@@ -369,21 +369,3 @@ status: stable
 (منبع تصویر: [جزئیات](/licenses#lekt4309))
 :::
 
-::: deleteme-box
-
-**lekt4302.jpg**: ریته ویلارت. -- http://www.flickr.com/photos/rietje/324020365/. -- دسترسی در ۲۰۰۹-۰۱-۰۶. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)
-
-**lekt4303.jpg**: آمریتا بی. -- http://www.flickr.com/photos/amrita_b/63071274/. -- دسترسی در ۲۰۰۹-۰۱-۰۶. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)
-
-**lekt4304.jpg**: مک‌کی‌ساوِج. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- دسترسی در ۲۰۰۹-۰۱-۰۶. -- مجوز کریتیو کامنز (نسب‌دهی) <!-- TODO: Fallback translation -->
-
-**lekt4305.jpg**: ویژو. -- http://www.flickr.com/photos/visio/421217297/. -- دسترسی در ۲۰۰۹-۰۱-۰۶. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- دسترسی در ۲۰۰۹-۰۱-۰۶. -- مجوز کریتیو کامنز (نسب، اشتراک یکسان) <!-- TODO: Fallback translation -->
-
-**lekt4307.jpg**: Ray Witlin / بانک جهانی. -- http://www.flickr.com/photos/worldbank/2183198505/. -- دسترسی در ۲۰۰۹-۰۱-۰۶. -- مجوز کریتیو کامنز (نسب، غیرتجاری، بدون تغییر)
-
-**lekt4308.jpg**: G.-U. Tolkiehn / ویکی‌پدیا. مجوز GNU FDLicense <!-- TODO: Fallback translation -->
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- دسترسی در ۲۰۰۹-۰۱-۰۷. -- مجوز کریتیو کامنز (نسب، بدون تغییر)
-:::

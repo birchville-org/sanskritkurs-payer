@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: "Übung 20"
 uebung_id: 20
@@ -254,9 +254,6 @@ Die Abklärung des Geistes geschieht durch die Entfaltung von freundlichem Wohlw
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
 Yoga der Tat ist Askese, Vedastudium und aufmerksamer Dienst am HERRN. Er hat als Ziel die Entfaltung der Sammlung und die Schwächung der "Qualen".
 
-::: deleteme-box Erläuterung
-Die fünf "Qualen" (⟪क्लेश⟫) sind: ⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫ (Yoga-Sūtra 2.3) — Unwissenheit, Ichbezogenheit, Gier, Hass und Anhänglichkeit an den Leib.
-:::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Das höchste Ziel des Menschen ist, dass das dreifache Leid völlig verschwindet. (*Dreifaches Leid: aus einem selbst, von den Objekten, von den Göttern.*)
 

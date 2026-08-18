@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### ۴۶.۱.۳. ماضی نقلی نوع اول: بدون درجه‌بندی پایه <!-- TODO: Fallback translation -->
+### ۴۶.۱.۳. ماضی نقلی نوع اول: بدون درجه‌بندی پایه
 
 افعالی که از این نوع پیروی می‌کنند:
 
@@ -654,26 +654,5 @@ PPP ⟪परिभूत⟫ ۳: شکست‌خورده، تحقیرشده، ذل
 ![](/images/lekt4612.webp)
 تصویر: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/licenses#lekt4612)
 (منبع تصویر: [جزئیات](/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-منبع تصاویر ناگراها: ردتیگرزی / ویکی‌پدیا. مجوز آزاد GNU
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫، حدود ۱۸۷۰). منبع: ویکی‌پدیا. مالکیت عمومی
-
-L4606: ⟪अश्वरोहकः⟫، پونه=⟪पुणे⟫. منبع: wili_hybrid، فلیکر، CC BY 2.0
-
-L4608: اودایپور. منبع: Travel Aficionado، فلیکر، CC BY-NC 2.0
-
-L4609: کارناتاکا=ಕರ್ನಾಟک. منبع: mattlogelin، فلیکر، CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫، کامارِددی=కామారెడ్డి. منبع: Sumanth K. Garakarajula، فلیکر، CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫، بنگالورو=ಬೆಂಗಳೂರು. منبع: mattlogelin، فلیکر، CC BY-NC 2.0
-
-L4611: ⟪भोः⟫، کچ=⟪कच्छ⟫. منبع: orange tuesday، فلیکر، CC BY-NC 2.0
-
-L4612: بمبئی=⟪मुंबई⟫ پس از ترور، ۱۱ ژوئیه ۲۰۰۶. منبع: تصاویر خورشید / لاکشمن، فلیکر، CC BY-NC-SA 2.0
 :::
 

@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 36
 
@@ -20,7 +20,7 @@ Exempla:
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫:sig[⟪गा⟫]⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | | <!-- TODO: Fallback translation -->
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | |
 
 ::: grammar-box
 2\. Radix ⟪विद्⟫ 2P "scire" perfectum habet praesentis temporis significatione.
@@ -63,7 +63,7 @@ Periphrasticum perfectum (⟪अनुप्रयोगलिट्⟫) adhibet
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ et ⟪भू⟫ etiam in verbis Ātmanepadae in Parasmaipada coniugantur.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 Exempla:
 
@@ -111,7 +111,7 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Imaginis fontis: [Detalia](/la/licenses#lekt3601))
-::: <!-- TODO: Fallback translation -->
+:::
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : gradi, ambulo, abeo
 
@@ -240,7 +240,7 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Fons imaginis: [Details](/la/licenses#lekt3604))
-::: <!-- TODO: Fallback translation -->
+:::
 
 ⟪स्वक⟫ 3: proprius (meus, tuus ...) ; m.: adfīnis
 
@@ -424,7 +424,7 @@ Explanationes:
 
 ⟪मातरम्⟫ : Acc. sg. ad ⟪मातृ⟫ f. "Mater"
 
-⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "Absolutum, Veda" <!-- TODO: Fallback translation -->
+⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "Absolutum, Veda"
 
 :sig[⟪सर्वे⟫] : Nom. pl. masc. ad ⟪सर्व⟫ "omnes, quisque"
 
@@ -510,13 +510,3 @@ Determina et versa est formas verborum sequentes omnibus modis possibilibus:
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Imaginis fontis: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Accessus die  2008-12-28. --   Creative  Commons Licentia (Nominatio, usus non commercialis)]
-- **lekt3602.jpg**: Fig.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Imaginis fontis: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accessus die  2008-12-28. --   Creative  Commons Licentia (Nominatio, shere alike)]
-- **lekt3603.jpg**: Fig.: ⟪अनगार्यम्⟫ 	Nordorientale Thailandia = อีสาน 	[Imaginis fontis: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Accessus die  	2008-12-28. --  	 	Creative  	Commons Licentia (Nominatio, usus non commercialis, nulla  	Emendatio)]
-- **lekt3604.jpg**: Fig.: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. pilus corporis) [Imaginis fontis: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Accessus die 2008-12-29.  --   Creative  Commons Licentia (Nominatio, usus non commercialis)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ Gandhara, 1./2. saec. p. Chr. [Imaginis fontis: Wikipedia. GNU FDLicense]
-- **lekt3606.jpg**: Fig.:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫Mudrā [Imaginis fontis: Payer]
-- **lekt3607.jpg**: Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Imaginis fontis: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Accessus die  2008-12-29. --   Creative  Commons Licentia (Nominatio, usus non commercialis, share alike)]
-:::

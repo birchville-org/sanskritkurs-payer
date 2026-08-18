@@ -14,7 +14,7 @@ last_reconstructed: 2026-05-15
 Fig.: ⟪रावणः⟫
 (Fonte da figura: [Detagls](/licenses#uebung098))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## A) Analisa dal text
 
@@ -24,7 +24,7 @@ La traduziun è restada intenziunadamain greva, per servir sco agid da traduziun
 
 _Agid da traduziun:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderativ a ⟪दृश्⟫
 
-Text da: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127sqq. <!-- TODO: Fallback translation -->
+Text da: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127sqq.
 
 ⟪राक्षसेन्द्रस्ततो ऽभैषीदैक्षिष्ट परितः पुरम् । प्रातिष्ठिपच्च बोधार्थं कुम्भकर्णस्य राक्षसान् ॥१॥⟫
 
@@ -134,7 +134,7 @@ Text da: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127sqq. <!-- TODO: Fallback 
 > ⟪ददर्शस्⟫ - ⟪दृश्⟫ Kaus. Injunktiv Aor. 3  
 > ⟪त्रास्थास्⟫ - ⟪त्रै⟫ Ā Injunktiv. Aor. 4  
 > ⟪अद्राक्ष्म⟫ - ⟪दृश्⟫ Aor. 4  
-> ⟪अजैषीस्⟫ - ⟪जि⟫ Aor. 4 <!-- TODO: Fallback translation -->
+> ⟪अजैषीस्⟫ - ⟪जि⟫ Aor. 4
 
 ⟪अवोचत्कुम्भकर्णस्तं वयं मन्त्रे ऽभ्यधाम यत् । न त्वं सर्वं तदश्रौषीः फलं तस्येदमागमत् ॥१३॥⟫
 
@@ -143,7 +143,7 @@ Text da: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127sqq. <!-- TODO: Fallback 
 > ⟪अवोचत्⟫ - ⟪वच्⟫ Aor. 3  
 > ⟪अभ्यधाम⟫ - ⟪अभि⟫-⟪धा⟫ Aor. 1  
 > ⟪अश्रौषीस्⟫ - ⟪श्रु⟫ Aor. 4  
-> ⟪आगमत्⟫ - ⟪आ⟫-⟪गम्⟫ Aor. 2 <!-- TODO: Fallback translation -->
+> ⟪आगमत्⟫ - ⟪आ⟫-⟪गम्⟫ Aor. 2
 
 ⟪प्राज्ञवाक्यान्यवामामंस्था मूर्खवाक्येष्ववास्थिथाः । अध्यगीष्ठाश्च शास्त्राणि प्रत्यपत्था हितं न च ॥१४॥⟫
 
@@ -199,4 +199,3 @@ Text da: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127sqq. <!-- TODO: Fallback 
 Abb.: ⟪रामस्य रावणेन युद्धः⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung099))
 :::
- <!-- TODO: Fallback translation -->

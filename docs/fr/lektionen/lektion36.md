@@ -1,11 +1,12 @@
 ---
-title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
+title: "Leçon 36"
+subtitle: "Formations particulières du parfait"
 lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+
+---
 
 # Leçon 36
 
@@ -45,37 +46,43 @@ Exemples :
 | Wurzel:br⟪धातु⟫ | 3e sg. Parfait P. | 3e pl. Parfait P. |
 | :--- | :--- | :--- |
 | **⟪भू⟫** 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
-:::
-## 36.2. Le parfait périphrastique (⟪अनुप्रयोगलिट्⟫)
 
-::: grammar-box
-Le parfait périphrastique (⟪अनुप्रयोगलिट्⟫) est utilisé :
-
-1. dans les conjugaisons dérivées (causatif, desideratif, fréquentatif, dénominaux)
-2. dans les racines commençant par une voyelle longue (sauf ā-) ou par une voyelle (sauf a-) suivie de deux consonnes
-3. dans certaines autres racines
+1. dans les conjugaisons dérivées (causatif, desideratif, fréquentatif, dénominatifs)
+2. pour les racines commençant par une voyelle longue (sauf ā-) ou par une voyelle (sauf a-) devant deux consonnes
+3. pour certaines autres racines
 :::
 ::: grammar-box
-**Éducation :**
+**Formation :**
 
-(présence faible) radical du présent + -ām + forme correspondante du parfait de ⟪कृ⟫, ⟪अस्⟫ ou ⟪भू⟫
+(faible) thème de présent + -ām + forme correspondante du parfait de ⟪कृ⟫, ⟪अस्⟫ ou ⟪भू⟫
 
-- La voyelle finale du thème subit le guṇa avant -ām.
-- ⟪अस्⟫ et ⟪भू⟫ sont également conjugués avec les verbes Ātmanepada au Parasmaipada.
+La voyelle finale du thème est guṇée devant -ām.
+⟪अस्⟫ et ⟪भू⟫ sont également conjugués au Parasmaipada pour les verbes Ātmanepada.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Le parfait périphrastique est probablement issu de l'accusatif d'un nom verbal en -ā. Cet accusatif est utilisé -- comme c'est souvent le cas ailleurs -- de manière adverbiale.
 
 Exemples :
 
-| Wurzel:br⟪धातु⟫ | 3e sg. Parfait Passif | 3e pl. Parfait Passif | 3e sg. Parfait Moyen | 3e pl. Parfait Moyen |
+| Racine:br⟪धातु⟫ | 3. sg. Parf. P. | 3. pl. Parf. P. | 3. sg. Parf. Ā. | 3. pl. Parf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
-| ⟪बन्ध्⟫ :brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
+| ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां बभूव⟫** | **⟪ईक्षां चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां बभूवुर्⟫** |
+| ⟪बन्ध्⟫ :brCausatif: ⟪बन्धय⟫-:br"faire lier" | **⟪बन्धयां चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां बभूव⟫** | **⟪बन्धयां चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां बभूवुर्⟫** | | |
 
-## 36.3. Passif du parfait
+
+
+
+## 36.3. Parfait Passif
 
 ::: grammar-box
-Au passé, les formes de l'Ātmanepada sont utilisées pour la voix passive. On préfère toutefois l'utilisation du PPP. La construction est dans les deux cas celle des phrases passives :
+Au parfait, on utilise les formes de l'Ātmanepada pour le passif. On préfère toutefois l'utilisation du PPP (participe passé parfait). La construction est dans les deux cas celle des phrases passives :
+
+:::
+::: indent
+⟪तेन पुण्यं चक्रे⟫ = ⟪तेन पुण्यं कृतम्⟫ = "Il accomplit une œuvre méritoire"
+:::
+## 36.4. Liste de mots
+
+⟪अह्⟫ P uniquement au parfait avec sens présentiel ⟪आह⟫, ⟪आहुर्⟫ : dire, parler
 
 :::
 ::: indent
@@ -508,13 +515,3 @@ Déterminez et traduisez les formes de mots suivantes de toutes les manières po
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: Fig. : ⟪गोमयं⟫ ⟪चिकाय⟫  Udaipur = ⟪उदयपुर⟫ [Source de l'image : whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Consulté le  2008-12-28. --   Licence Creative Commons (Attribution, pas d'utilisation commerciale)]
-- **lekt3602.jpg**: Fig. : ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Source de l'image : bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Consulté le  2008-12-28. --   Licence Creative Commons (Attribution, partage à l'identique)]
-- **lekt3603.jpg**: Fig. : ⟪अनगार्यम्⟫ 	Nord-Est de la Thaïlande = อีสาน 	[Source de l'image : Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Consulté le  	2008-12-28. --  	 	Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de modification)]
-- **lekt3604.jpg**: Fig. : ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. poils corporels) [Source de l'image : Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Consulté le 2008-12-29.  --   Licence Creative Commons (Attribution, pas d'utilisation commerciale)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ Gandhāra, 1er/2e s. apr. J.-C. [Source de l'image : Wikipedia. GNU FDLicense]
-- **lekt3606.jpg**: Fig. :⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫ Mudrā [Source de l'image : Payer]
-- **lekt3607.jpg**: Fig. : ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Source de l'image : Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Consulté le  2008-12-29. --   Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)]
-:::

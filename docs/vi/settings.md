@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: Settings
+title: "Cài đặt"
+
 ---
 
 <ClientOnly>

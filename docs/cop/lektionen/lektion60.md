@@ -21,7 +21,7 @@ status: stable
 
 ### 60.2.1. ⲧⲩⲡⲟⲥ 1: ⲟⲩⲏ ⲛ̀ⲥⲧⲉⲙ ⲛ̀ⲁⲃⲥⲧⲩⲫⲟⲩⲛⲅ
 
-⟪बन्ध्⟫ 9P "binden" <!-- TODO: Fallback translation -->
+⟪बन्ध्⟫ 9P "binden"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -30,7 +30,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
 :::
-⟪भाष्⟫ 1Ā "sprechen" <!-- TODO: Fallback translation -->
+⟪भाष्⟫ 1Ā "sprechen"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -41,7 +41,7 @@ status: stable
 :::
 ### 60.2.2. ⲧⲩⲡⲟⲥ 2: ⲣⲟⲩⲧ ⲉⲧϫⲟⲣ ⲛ̀ⲧⲉ ⲧϩⲏⲓ, ⲣⲟⲩⲧ ⲉⲧϭⲁⲥ ⲛ̀ⲧⲉ ⲧⲃⲁⲥⲓⲥ
 
-⟪भिद्⟫ 7U "spalten" <!-- TODO: Fallback translation -->
+⟪भिद्⟫ 7U "spalten"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -52,9 +52,9 @@ status: stable
 :::
 ### 60.2.3. ⲧⲩⲡ 3: ⲛⲟⲩϫ ⲛⲥⲧⲁⲙ ⲛϩⲏⲧ/ⲛⲧⲁⲛϩ
 
-#### 60.2.3.1. ⲧⲩⲡⲟⲥ 3a: ⲥⲧⲉⲙ ⲛ̄ϫⲟⲣ ⲛ̄ⲧⲉ ⲁⲛⲁⲃⲁⲥⲓⲥ/ⲉⲕⲧⲁⲥⲓⲥ, ⲥⲧⲉⲙ ⲛ̄ϭⲟⲗ ⲛ̄ⲧⲉ ⲕⲁⲧⲁⲃⲁⲥⲓⲥ <!-- TODO: Fallback translation -->
+#### 60.2.3.1. ⲧⲩⲡⲟⲥ 3a: ⲥⲧⲉⲙ ⲛ̄ϫⲟⲣ ⲛ̄ⲧⲉ ⲁⲛⲁⲃⲁⲥⲓⲥ/ⲉⲕⲧⲁⲥⲓⲥ, ⲥⲧⲉⲙ ⲛ̄ϭⲟⲗ ⲛ̄ⲧⲉ ⲕⲁⲧⲁⲃⲁⲥⲓⲥ
 
-⟪नी⟫ 1U "führen" <!-- TODO: Fallback translation -->
+⟪नी⟫ 1U "führen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -63,7 +63,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
 :::
-⟪स्तु⟫ 2U (⟪अनिट्⟫) "loben" <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2U (⟪अनिट्⟫) "loben"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -72,7 +72,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
 :::
-⟪कृ⟫ 8U (⟪अनिट्⟫) "tun, machen" <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U (⟪अनिट्⟫) "tun, machen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -81,9 +81,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
 :::
-#### 60.2.3.2. ⲧⲩⲡⲟⲥ 3b: ⲟⲩⲥⲧⲉⲙ ⲉϥϫⲟⲣ ⲛ̀ϩⲏⲧ ⲛ̀ϩⲏⲧ/ⲙⲉⲧⲧⲁⲛϩ, ⲟⲩⲥⲧⲉⲙ ⲉϥⲟⲓ ⲛ̀ⲁⲥⲑⲉⲛⲏⲥ ⲛ̀ϩⲏⲧ <!-- TODO: Fallback translation -->
+#### 60.2.3.2. ⲧⲩⲡⲟⲥ 3b: ⲟⲩⲥⲧⲉⲙ ⲉϥϫⲟⲣ ⲛ̀ϩⲏⲧ ⲛ̀ϩⲏⲧ/ⲙⲉⲧⲧⲁⲛϩ, ⲟⲩⲥⲧⲉⲙ ⲉϥⲟⲓ ⲛ̀ⲁⲥⲑⲉⲛⲏⲥ ⲛ̀ϩⲏⲧ
 
-⟪स्मृ⟫ 1P "vergegenwärtigen" <!-- TODO: Fallback translation -->
+⟪स्मृ⟫ 1P "vergegenwärtigen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -94,7 +94,7 @@ status: stable
 :::
 ### 60.2.4. ⲧⲩⲡⲟⲥ 4: ⲛⲓⲣⲟⲩⲧ ⲉϩⲣⲏⲓ ⲉϫⲛ̀ -ⲁ / -ⲁⲓ
 
-⟪दा⟫ 3U "geben" <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U "geben"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -103,13 +103,13 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪ददथुर्⟫ | ⟪ददाथे⟫ \* |
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
-\* identisch mit den entsprechenden Formen des Indikativ Präsens! <!-- TODO: Fallback translation -->
+\* identisch mit den entsprechenden Formen des Indikativ Präsens!
 :::
 ### 60.2.5. ⲧⲩⲡⲟⲥ 5: ⲕⲟⲛⲥⲟⲛⲁⲛⲧ-ⲁ-ⲕⲟⲛⲥⲟⲛⲁⲛⲧ
 
-#### 60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
+#### 60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
 
-⟪गम्⟫ 1U "gehen" <!-- TODO: Fallback translation -->
+⟪गम्⟫ 1U "gehen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -118,9 +118,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
 :::
-#### 60.2.5.2. ⲧⲩⲡⲟⲥ 5b: ⲕⲟⲛⲥⲟⲛⲁⲛⲧ-ⲁ-ⲕⲟⲛⲥⲟⲛⲁⲛⲧ, ⲡⲓⲁⲣⲭⲏ ⲛ̀ⲕⲟⲛⲥⲟⲛⲁⲛⲧ ⲙ̀ⲡⲉϥϣⲱⲡⲓ ⲛ̀ⲟⲩⲅⲟⲩⲧⲧⲩⲣⲁⲗ, ⲁⲥⲡⲓⲣⲁⲧ, h, ⲟⲩⲥⲧⲉⲙ ⲉϥⲟⲓ ⲛ̀ⲁⲥⲑⲉⲛⲏⲥ ϧⲱⲣⲓⲥ ⲣⲉⲇⲩⲡⲗⲓⲕⲁⲧⲓⲟⲛ, ⲙⲉⲛ -e- <!-- TODO: Fallback translation -->
+#### 60.2.5.2. ⲧⲩⲡⲟⲥ 5b: ⲕⲟⲛⲥⲟⲛⲁⲛⲧ-ⲁ-ⲕⲟⲛⲥⲟⲛⲁⲛⲧ, ⲡⲓⲁⲣⲭⲏ ⲛ̀ⲕⲟⲛⲥⲟⲛⲁⲛⲧ ⲙ̀ⲡⲉϥϣⲱⲡⲓ ⲛ̀ⲟⲩⲅⲟⲩⲧⲧⲩⲣⲁⲗ, ⲁⲥⲡⲓⲣⲁⲧ, h, ⲟⲩⲥⲧⲉⲙ ⲉϥⲟⲓ ⲛ̀ⲁⲥⲑⲉⲛⲏⲥ ϧⲱⲣⲓⲥ ⲣⲉⲇⲩⲡⲗⲓⲕⲁⲧⲓⲟⲛ, ⲙⲉⲛ -e-
 
-⟪पच्⟫ 1U "garen" <!-- TODO: Fallback translation -->
+⟪पच्⟫ 1U "garen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -129,9 +129,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
 :::
-#### 60.2.5.3. Ⲧⲩⲡⲟⲥ 5c: Ⲥⲱⲛ-ⲁ-ⲥⲱⲛ, ⲣⲏⲧ ⲛ̄ϭⲟⲗ ⲛ̄ϩⲏⲧ <!-- TODO: Fallback translation -->
+#### 60.2.5.3. Ⲧⲩⲡⲟⲥ 5c: Ⲥⲱⲛ-ⲁ-ⲥⲱⲛ, ⲣⲏⲧ ⲛ̄ϭⲟⲗ ⲛ̄ϩⲏⲧ
 
-⟪क्रम्⟫ 1U "schreiten" <!-- TODO: Fallback translation -->
+⟪क्रम्⟫ 1U "schreiten"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -142,7 +142,7 @@ status: stable
 :::
 ## 60.3. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
 
-⟪गण्⟫ 10P "zählen" <!-- TODO: Fallback translation -->
+⟪गण्⟫ 10P "zählen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -151,7 +151,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
 :::
-⟪आस्⟫ 2Ā "sitzen" <!-- TODO: Fallback translation -->
+⟪आस्⟫ 2Ā "sitzen"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -163,13 +163,13 @@ status: stable
 ## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-**schwacher Perfektstamm + vāṃs** <!-- TODO: Fallback translation -->
+**schwacher Perfektstamm + vāṃs**
 
-**Besteht der schwache Perfektstamm nur aus einer Silbe, dann wird der Bindevokal -i- angefügt. Bei einigen Perfekta ist der Bindevokal wahlweise.** <!-- TODO: Fallback translation -->
+**Besteht der schwache Perfektstamm nur aus einer Silbe, dann wird der Bindevokal -i- angefügt. Bei einigen Perfekta ist der Bindevokal wahlweise.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "jemand, der gespalten hat" |
 | --- | --- |
@@ -179,121 +179,121 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" |
 
 ::: grammar-box
-**Deklination:** <!-- TODO: Fallback translation -->
+**Deklination:**
 
-*   **starker Stamm: -vāṃs** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm:** <!-- TODO: Fallback translation -->
-    *   **vor Konsonant:** **-vat** **(!)** <!-- TODO: Fallback translation -->
-    *   **vor Vokal: -uṣ** <!-- TODO: Fallback translation -->
+*   **starker Stamm: -vāṃs**
+*   **schwacher Stamm:**
+    *   **vor Konsonant:** **-vat** **(!)**
+    *   **vor Vokal: -uṣ**
 
-**Vor uṣ entfällt der Bindevokal -i-.** <!-- TODO: Fallback translation -->
+**Vor uṣ entfällt der Bindevokal -i-.**
 
-**Feminin:** <!-- TODO: Fallback translation -->
+**Feminin:**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)** <!-- TODO: Fallback translation -->
+**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
 
-Beispiel: ⟪विदुषी⟫ "eine Wissende" <!-- TODO: Fallback translation -->
+Beispiel: ⟪विदुषी⟫ "eine Wissende"
 :::
-Paradigmen siehe Kielhorn, Grammatik § 124: <!-- TODO: Fallback translation -->
+Paradigmen siehe Kielhorn, Grammatik § 124:
 
 ::: media
 ![](/images/lekt6001.webp)
-(Bildquelle: [Details](/licenses#lekt6001)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt6001))
 :::
 
 ::: media
 ![](/images/lekt6002.webp)
-(Bildquelle: [Details](/licenses#lekt6002)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt6002))
 :::
-## 60.5. Deklination der Stämme auf -añc (-ac) <!-- TODO: Fallback translation -->
+## 60.5. Deklination der Stämme auf -añc (-ac)
 
 ::: grammar-box
-**Die Stämme auf -añc/-ac sind Verbindungen von Präverbien usw. mit dem Wurzelnomen der Wurzel ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "sich bewegen".** <!-- TODO: Fallback translation -->
+**Die Stämme auf -añc/-ac sind Verbindungen von Präverbien usw. mit dem Wurzelnomen der Wurzel ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "sich bewegen".**
 :::
-### 60.5.1. Dreistämmige Stämme auf -añc <!-- TODO: Fallback translation -->
+### 60.5.1. Dreistämmige Stämme auf -añc
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-*   **starker Stamm: -añc** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm:** <!-- TODO: Fallback translation -->
-    *   **vor Konsonant: -ac** <!-- TODO: Fallback translation -->
-    *   **vor Vokal:** <!-- TODO: Fallback translation -->
-        *   **das -a- des schwachen Stamms -ac entfällt und für einen vorangehenden Halbvokal wird der diesem entsprechende lange Vokal substituiert:**   <!-- TODO: Fallback translation -->
+*   **starker Stamm: -añc**
+*   **schwacher Stamm:**
+    *   **vor Konsonant: -ac**
+    *   **vor Vokal:**
+        *   **das -a- des schwachen Stamms -ac entfällt und für einen vorangehenden Halbvokal wird der diesem entsprechende lange Vokal substituiert:**  
             ⟪प्रत्यच्⟫ » ⟪प्रतीच्⟫  
             ⟪अन्वच्⟫ » ⟪अनूच्⟫
-        *   **Geht dem -ac kein Halbvokal voraus, wird -ac durch -īc ersetzt:**   <!-- TODO: Fallback translation -->
+        *   **Geht dem -ac kein Halbvokal voraus, wird -ac durch -īc ersetzt:**  
             ⟪उदच्⟫ » ⟪उदीच्⟫
         *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
 
-**Femininum:** <!-- TODO: Fallback translation -->
+**Femininum:**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)** <!-- TODO: Fallback translation -->
+**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
 
-Beispiel: ⟪प्रतीची⟫ <!-- TODO: Fallback translation -->
+Beispiel: ⟪प्रतीची⟫
 :::
-####  Ⲡⲁⲣⲁⲇⲓⲅⲙⲁⲧⲁ ⲃⲗ. Ⲕⲓⲉⲗϩⲟⲣⲛ, Ⲅⲣⲁⲙⲙⲁⲧⲓⲕ § 128: <!-- TODO: Fallback translation -->
+####  Ⲡⲁⲣⲁⲇⲓⲅⲙⲁⲧⲁ ⲃⲗ. Ⲕⲓⲉⲗϩⲟⲣⲛ, Ⲅⲣⲁⲙⲙⲁⲧⲓⲕ § 128:
 
 ::: media
 ![](/images/lekt6003.webp)
-(Bildquelle: [Details](/licenses#lekt6003)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt6003))
 :::
 
 ::: media
 ![](/images/lekt6004.webp)
-(Bildquelle: [Details](/licenses#lekt6004)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt6004))
 :::
-Hierher gehören: <!-- TODO: Fallback translation -->
+Hierher gehören:
 
-*   ⟪प्रत्यञ्च्⟫ 3 "rückwärts, westlich" <!-- TODO: Fallback translation -->
+*   ⟪प्रत्यञ्च्⟫ 3 "rückwärts, westlich"
 
-*   ⟪अन्वञ्च्⟫ 3 "folgend" <!-- TODO: Fallback translation -->
+*   ⟪अन्वञ्च्⟫ 3 "folgend"
 
-*   ⟪उदञ्च्⟫ 3 "nach oben gerichtet, nördlich" <!-- TODO: Fallback translation -->
+*   ⟪उदञ्च्⟫ 3 "nach oben gerichtet, nördlich"
 
-*   ⟪तिर्यञ्च्⟫ 3 "wagrecht gehend (von Tieren" <!-- TODO: Fallback translation -->
+*   ⟪तिर्यञ्च्⟫ 3 "wagrecht gehend (von Tieren"
 
-*   ⟪सम्यञ्च्⟫ 3 "richtig" <!-- TODO: Fallback translation -->
+*   ⟪सम्यञ्च्⟫ 3 "richtig"
 
-*   ⟪न्यञ्च्⟫ 3 "niedrig" <!-- TODO: Fallback translation -->
+*   ⟪न्यञ्च्⟫ 3 "niedrig"
 
-*   ⟪विष्वञ्च्⟫ 3 "nach allen Seiten gehend" <!-- TODO: Fallback translation -->
+*   ⟪विष्वञ्च्⟫ 3 "nach allen Seiten gehend"
 
 ### 60.5.2. ⲛⲓⲣⲟⲩⲧ ⲉⲧⲉ ⲟⲩⲟⲛ ⲥⲛⲁⲩ ⲛ̀ⲣⲟⲩⲧ ⲛ̀ⲧⲟⲟⲩ ⲉϩⲣⲏⲓ ⲉϫⲛ̀ -ⲁⲛϭ
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-*   **starker Stamm: -añc** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm vor Konsonant bzw. Vokal: -ac** <!-- TODO: Fallback translation -->
+*   **starker Stamm: -añc**
+*   **schwacher Stamm vor Konsonant bzw. Vokal: -ac**
 :::
-Hierher gehören: <!-- TODO: Fallback translation -->
+Hierher gehören:
 
-*   ⟪प्राञ्च्⟫ 3 "vorwärts gerichtet, östlich" <!-- TODO: Fallback translation -->
-*   ⟪अवाञ्च्⟫ 3 "abwärts gerichtet" <!-- TODO: Fallback translation -->
+*   ⟪प्राञ्च्⟫ 3 "vorwärts gerichtet, östlich"
+*   ⟪अवाञ्च्⟫ 3 "abwärts gerichtet"
 
-Paradigma ⟪प्राञ्च्⟫ siehe oben! <!-- TODO: Fallback translation -->
+Paradigma ⟪प्राञ्च्⟫ siehe oben!
 
-Die Haupthimmelsrichtungen <!-- TODO: Fallback translation -->
+Die Haupthimmelsrichtungen
 
 |   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
 | :---: | :---: | :---: |
 | ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
 |   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
 
-(Bildquelle: [Details](/licenses#lekt6005)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt6005))
 
 ## 60.6. Ⲡⲓⲇⲉⲥⲓⲇⲉⲣⲁⲧⲓⲃⲟⲩⲙ (⟪सन्⟫)
 
 ::: grammar-box
-**Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (⟪सन्⟫) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen außerhalb des Präsensstamms sind aber sehr selten.** <!-- TODO: Fallback translation -->
+**Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (⟪सन्⟫) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen außerhalb des Präsensstamms sind aber sehr selten.**
 
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**Bedeutung:**
 
-*   **eine Person oder Sache wünscht zu tun oder zu erleiden, was durch die Wurzel oder das Kausativum ausgedrückt wird** <!-- TODO: Fallback translation -->
-*   **seltener: jemand oder etwas ist im Begriffe, zu tun, was durch die Wurzel oder das Kausativum ausgedrückt wird** <!-- TODO: Fallback translation -->
+*   **eine Person oder Sache wünscht zu tun oder zu erleiden, was durch die Wurzel oder das Kausativum ausgedrückt wird**
+*   **seltener: jemand oder etwas ist im Begriffe, zu tun, was durch die Wurzel oder das Kausativum ausgedrückt wird**
 :::
-####  Beispiele: <!-- TODO: Fallback translation -->
+####  Beispiele:
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "er wünscht zu tun" |
 | --- | --- |
@@ -301,141 +301,141 @@ Die Haupthimmelsrichtungen <!-- TODO: Fallback translation -->
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" |
 | ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
 
-### 60.6.1. Bildung des Desiderativstammes <!-- TODO: Fallback translation -->
+### 60.6.1. Bildung des Desiderativstammes
 
 ::: grammar-box
-**Wurzeln der Präsensklassen 1 - 9:** <!-- TODO: Fallback translation -->
+**Wurzeln der Präsensklassen 1 - 9:**
 
-**reduplizierte Wurzel + sa** <!-- TODO: Fallback translation -->
+**reduplizierte Wurzel + sa**
 
-**oder:** <!-- TODO: Fallback translation -->
+**oder:**
 
-**reduplizierte Wurzel + i + ṣa** <!-- TODO: Fallback translation -->
+**reduplizierte Wurzel + i + ṣa**
 
-Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 443 - 445. <!-- TODO: Fallback translation -->
+Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 443 - 445.
 
-**Wurzeln der 10. Präsensklasse und Kausative:** <!-- TODO: Fallback translation -->
+**Wurzeln der 10. Präsensklasse und Kausative:**
 
-**reduplizierter Präsensstamm + i + ṣa** <!-- TODO: Fallback translation -->
+**reduplizierter Präsensstamm + i + ṣa**
 :::
 ::: grammar-box
-**Gestalt der Wurzel:** <!-- TODO: Fallback translation -->
+**Gestalt der Wurzel:**
 
-1.  Die Wurzel ist meist tiefstufig: ⟪जीव्⟫ » ⟪जिजीविष⟫-   <!-- TODO: Fallback translation -->
+1.  Die Wurzel ist meist tiefstufig: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
 
-    1.  auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:   <!-- TODO: Fallback translation -->
+    1.  auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:  
         ⟪जि⟫ » ⟪जि⟫***:sig[⟪गी⟫]***⟪ष⟫- "zu siegen wünschen"  
-        ⟪द्रु⟫ » ⟪दु⟫***:sig[⟪द्रू⟫]***⟪ष⟫- "zu laufen wünschen"   <!-- TODO: Fallback translation -->
+        ⟪द्रु⟫ » ⟪दु⟫***:sig[⟪द्रू⟫]***⟪ष⟫- "zu laufen wünschen"  
 
-    2.  auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:   <!-- TODO: Fallback translation -->
+    2.  auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:  
         ⟪कृ⟫ » ⟪चि⟫***:sig[⟪कीर्ष⟫]***\- "zu tun wünschen"  
         ⟪मृ⟫ » ⟪मु⟫***:sig[⟪मूर्ष⟫]***\- "im Begriff sein, zu sterben"  
-        ⟪पॄ⟫ » ⟪पु⟫***:sig[⟪पूर्ष⟫]***\- "zu füllen wünschen"   <!-- TODO: Fallback translation -->
+        ⟪पॄ⟫ » ⟪पु⟫***:sig[⟪पूर्ष⟫]***\- "zu füllen wünschen"  
 
-    3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ und einige andere Wurzeln auf -ā, -e, -o haben Tiefstufe Ø:   <!-- TODO: Fallback translation -->
+    3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ und einige andere Wurzeln auf -ā, -e, -o haben Tiefstufe Ø:  
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
         ⟪धा⟫ » ⟪धित्स⟫-  
-        ⟪मा⟫ » ⟪मित्स⟫-   <!-- TODO: Fallback translation -->
+        ⟪मा⟫ » ⟪मित्स⟫-  
 
-2.  Hochstufige Wurzel haben im Desiderativ:  <!-- TODO: Fallback translation -->
-    1.  die meisten Wurzeln auf -ā (-e, -ai usw.):   <!-- TODO: Fallback translation -->
+2.  Hochstufige Wurzel haben im Desiderativ: 
+    1.  die meisten Wurzeln auf -ā (-e, -ai usw.):  
         ⟪गै⟫ » ⟪जिगास⟫- "zu singen wünschen"  
-        ⟪पा⟫ » ⟪पिपास⟫- "zu trinken wünschen, dürsten"   <!-- TODO: Fallback translation -->
+        ⟪पा⟫ » ⟪पिपास⟫- "zu trinken wünschen, dürsten"  
 
-    2.  die meisten Wurzeln der Form (Konsonant -) a / ā - Konsonant:   <!-- TODO: Fallback translation -->
+    2.  die meisten Wurzeln der Form (Konsonant -) a / ā - Konsonant:  
         ⟪दह्⟫ » ⟪दिधक्ष⟫- "zu verbrennen wünschen"  
-        ⟪खाद्⟫ » ⟪चिखादिष⟫- "zu kauen wünschen"   <!-- TODO: Fallback translation -->
+        ⟪खाद्⟫ » ⟪चिखादिष⟫- "zu kauen wünschen"  
 
-    3.  bei Antreten des Bindevokals -i-:  <!-- TODO: Fallback translation -->
-        1.  obligatorisch: Wurzeln der Form i/u - Konsonant sowie (Konsonant -) ṛ/ḷ - Konsonant:   <!-- TODO: Fallback translation -->
+    3.  bei Antreten des Bindevokals -i-: 
+        1.  obligatorisch: Wurzeln der Form i/u - Konsonant sowie (Konsonant -) ṛ/ḷ - Konsonant:  
             ⟪इष्⟫ » ⟪एषिषिष⟫- "zu wünschen verlangen"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "passend zu sein wünschen"  
-            ⟪स्मि⟫ » ⟪सि⟫***:sig[⟪स्म⟫]***⟪यिष⟫- "zu lächeln wünschen"   <!-- TODO: Fallback translation -->
+            ⟪स्मि⟫ » ⟪सि⟫***:sig[⟪स्म⟫]***⟪यिष⟫- "zu lächeln wünschen"  
 
-        2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant außer -v\_   <!-- TODO: Fallback translation -->
-            ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen" <!-- TODO: Fallback translation -->
+        2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant außer -v\_  
+            ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen"
 :::
 ::: grammar-box
-**Zur Reduplikation:** <!-- TODO: Fallback translation -->
+**Zur Reduplikation:**
 
-1.  Konsonantisch anlautende Wurzeln: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Wurzeln nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:   <!-- TODO: Fallback translation -->
+1.  Konsonantisch anlautende Wurzeln: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Wurzeln nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:  
 :::
 ::: indent
 ⟪पा⟫ » ⟪पिपास⟫-
 ⟪त्यज्⟫ » ⟪तित्यज⟫-
 ⟪चुर्⟫ » ⟪चुचोरयिष⟫-
 Die Zerebralisierung nach i/u von auslautendem -s der Wurzel unterbleibt, wenn das s des Desiderativsuffixes zerebralisiert wird:
-⟪स्मि⟫ » ⟪सिस्मयिष⟫-   <!-- TODO: Fallback translation -->
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-  
 :::
 
-2.  Vokalisch anlautende Wurzeln werden nach den entsprechenden Regeln für den reduplizierten Aorist ([Lektion 56](lektion56.md)) redupliziert:   <!-- TODO: Fallback translation -->
+2.  Vokalisch anlautende Wurzeln werden nach den entsprechenden Regeln für den reduplizierten Aorist ([Lektion 56](lektion56.md)) redupliziert:  
 ::: indent
 ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
 ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
-⟪ऋ⟫ » ⟪अरिरिष⟫-   <!-- TODO: Fallback translation -->
+⟪ऋ⟫ » ⟪अरिरिष⟫-  
 :::
 
-3.  Die besondere Desiderativbildung bestimmter Wurzeln siehe bei Kielhorn, Grammatik § 451. <!-- TODO: Fallback translation -->
+3.  Die besondere Desiderativbildung bestimmter Wurzeln siehe bei Kielhorn, Grammatik § 451.
 ::: grammar-box
-**Zu einigen Wurzeln werden Desiderative ohne desiderative Bedeutung gebildet. Zu diesen Desiderativen können Desiderative mit desiderativer Bedeutung gebildet werden.** <!-- TODO: Fallback translation -->
+**Zu einigen Wurzeln werden Desiderative ohne desiderative Bedeutung gebildet. Zu diesen Desiderativen können Desiderative mit desiderativer Bedeutung gebildet werden.**
 :::
-Liste bei Kielhorn, Grammatik § 452: <!-- TODO: Fallback translation -->
+Liste bei Kielhorn, Grammatik § 452:
 
 ::: media
 ![](/images/lekt6006.webp)
-(Bildquelle: [Details](/licenses#lekt6006)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt6006))
 :::
 ### 60.6.2. Konjugation des Desiderativs (⟪सन्⟫)
 
 ::: grammar-box
-**Das Desiderativ ist - mit wenigen Ausnahmen - P, Ā bzw. U, je nachdem, ob die zugrundeliegende Wurzel (bzw. der zugrundeligende Verbalstamm) P, Ā oder U ist.** <!-- TODO: Fallback translation -->
+**Das Desiderativ ist - mit wenigen Ausnahmen - P, Ā bzw. U, je nachdem, ob die zugrundeliegende Wurzel (bzw. der zugrundeligende Verbalstamm) P, Ā oder U ist.**
 
-**Präsensstamm: Konjugation wie ein thematischer Stamm:** <!-- TODO: Fallback translation -->
+**Präsensstamm: Konjugation wie ein thematischer Stamm:**
 
-⟪यज्⟫ 1U: <!-- TODO: Fallback translation -->
+⟪यज्⟫ 1U:
 
 :::
 ::: indent
 P: ⟪यियक्षति⟫ "er wünscht, für jemand anderen zu opfern"
 Ā: ⟪यियक्षते⟫ "er wünscht, für sich selbst (als Opferherr) zu opfern"
-Passiv: ⟪यियक्ष्यते⟫ "es wird zu opfern gewünscht" <!-- TODO: Fallback translation -->
+Passiv: ⟪यियक्ष्यते⟫ "es wird zu opfern gewünscht"
 :::
-**Perfekt: periphrastisch:** <!-- TODO: Fallback translation -->
+**Perfekt: periphrastisch:**
 
 ::: indent
-⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "er wünschte zu erlangen" <!-- TODO: Fallback translation -->
+⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "er wünschte zu erlangen"
 :::
-**Aorist: iṣ-Aorist:** <!-- TODO: Fallback translation -->
+**Aorist: iṣ-Aorist:**
 
 ::: indent
-⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am) <!-- TODO: Fallback translation -->
+⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Futur: ⟪सेट्⟫** <!-- TODO: Fallback translation -->
+**Futur: ⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
 :::
-Zur Bildung von Nomina agentis auf -u aus dem Desiderativstamm siehe [Lektion 54](lektion54.md). <!-- TODO: Fallback translation -->
+Zur Bildung von Nomina agentis auf -u aus dem Desiderativstamm siehe [Lektion 54](lektion54.md).
 
 ## 60.7. Übung
 
-A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmäßigen Desiderativbildungen zu bisher gelernten Verben: <!-- TODO: Fallback translation -->
+A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmäßigen Desiderativbildungen zu bisher gelernten Verben:
 
 ::: media
 ![](/images/lekt6007.webp)
-(Bildquelle: [Details](/licenses#lekt6007)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt6007))
 :::
 
 ::: media
 ![](/images/lekt6008.webp)
-(Bildquelle: [Details](/licenses#lekt6008)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt6008))
 :::
 
 ::: media
 ![](/images/lekt6009.webp)
-(Bildquelle: [Details](/licenses#lekt6009)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt6009))
 :::
-B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen: <!-- TODO: Fallback translation -->
+B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
 
 1.  ⟪ददुषोः⟫
 

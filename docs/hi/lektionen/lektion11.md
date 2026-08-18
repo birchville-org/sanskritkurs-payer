@@ -10,13 +10,6 @@ status: stable
 
 # पाठ 11
 
-::: deleteme-box
-**इस पाठ में आप सीखेंगे:**
-- दोगुदा accusative (व्यक्ति का और वस्तु का accusative)
-- **iti**, **evam** और **na** कणों का प्रयोग
-- **dharma**, **adharma** और **putra** जैसे मौलिक शब्द
-- **vad**, **prach** और **iṣ** धातुओं से nominal forms का निर्माण
-:::
 ## 11.1. दोगुदा accusative
 
 ::: grammar-box

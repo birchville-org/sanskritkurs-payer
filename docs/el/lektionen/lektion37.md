@@ -161,7 +161,7 @@ status: stable
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -181,7 +181,7 @@ status: stable
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Επιρρηματικά σύνθετα
@@ -508,17 +508,3 @@ C) Μεταφράστε τα ακόλουθα ⟪अव्ययीभाव⟫ 
 
 Μια φορά, όταν ένας γέροντας πήγε σε ένα άλλο χωριό, κουράστηκε στο δρόμο. Πήγε λοιπόν να ξεκουραστεί κοντά στη ρίζα ενός μανγκοδέντρου που στεκόταν στο πλάι. Σε αυτό το δέντρο υπήχαν ώριμα φρούτα. Ο γέροντας επιθυμησε αυτά τα φρούτα. Όμως δεν μπορούσε να ανέβει στο δέντρο και να πιάσει τα φρούτα. Για τύχη, υπήχαν κάποια μαϊμούς σε αυτό το δέντρο που τρώγαν φρούτα. Όταν τις είδε, χαρήκε ο γέροντας. Τι έκανε; Πήρε μερικές πέτρες, στοχεύσε τις μαϊμούς και ρίξε. Οι εξοργισμένες μαϊμούς έκοψαν κάποια φρούτα και τα ρίξουν στον γέροντα. Ο γέροντας πήρε αυτά με χαρά και πήγε στην επιθυμητή περιοχή του. Ιδού, η μοίρα του γέροντα!
 
-::: deleteme-box
-
-- **Εικόνα lekt3701.jpg** (Σχ.: ⟪क्व⟫): [Πηγή εικόνας: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Πρόσβαση στις 2008-12-30. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, απαγόρευση εξαγωγής)]
-- **Εικόνα lekt3702.jpg** (Σχ.: ⟪यथाशक्ति⟫): [Πηγή εικόνας: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Πρόσβαση στις 2008-12-30. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, απαγόρευση εξαγωγής)]
-- **Εικόνα lekt3703.jpg** (Σχ.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Πηγή εικόνας: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Πρόσβαση στις 2008-12-30. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, απαγόρευση εξαγωγής)]
-- **Εικόνα lekt3704.jpg** (Σχ.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Πηγή εικόνας: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Πρόσβαση στις 2008-12-30. -- Άδεια Creative Commons (Αναφορά)]
-- **Εικόνα lekt3705.jpg** (Σχ.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Πηγή εικόνας: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Πρόσβαση στις 2008-12-31. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, απαγόρευση εξαγωγής)]
-- **Εικόνα lekt3706.jpg** (Σχ.: ⟪वृक्षः⟫): Jaipur [Πηγή εικόνας: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Πρόσβαση στις 2008-12-31. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)]
-- **Εικόνα lekt3707.jpg** (Σχ.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Έργο τέχνης του ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
-- **Εικόνα lekt3708.jpg** (Σχ.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Πηγή εικόνας: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Πρόσβαση στις 2008-12-31. -- Άδεια Creative Commons (Αναφορά)]
-- **Εικόνα lekt3709.jpg** (Σχ.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Πηγή εικόνας: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Πρόσβαση στις 2008-12-31. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, απαγόρευση εξαγωγής)]
-- **Εικόνα lekt3710.jpg** (Σχ.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Πηγή εικόνας: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Πρόσβαση στις 2008-12-31. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)]
-- **Εικόνα lekt3711.jpg** (Σχ.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Πηγή εικόνας: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Πρόσβαση στις 2008-12-31. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, απαγόρευση εξαγωγής)]
-:::

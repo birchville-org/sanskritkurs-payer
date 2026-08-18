@@ -248,11 +248,6 @@ Officium proprium Śūdrae est: obsequens duobis ex ortis servitus, negotium et 
 Omnium est officium: non-violentia, veridicitas, puritas, de sorte sua non murmurare, ab malitia liber esse et patientia toleranter agere.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-::: deleteme-box Erklärungen
-Sententia 7: ⟪कृषिपाशुपाल्ये⟩ Dualis, Nominativus Accusativus: Dvandva, duo "res" significans
-Sententia 8: ⟪कर्म⟩ Nominativus, Accusativus singularis Neutrum ad ⟪कर्मन्⟩ "factum"
-Sententia 13: ⟪सर्वेषाम्⟩ Genitivus pluralis masculinus ad ⟪सर्व⟩ "quisque, omnes" (pronomen, non declinatur ut deva)
-:::
 ⟪३⟩. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟩ ⟪योगक्षेमसाधनो⟩ ⟪दण्डः⟩, ⟪तस्य⟩ ⟪नीतिर्दण्डनीतिः⟩ ⟪॥⟩ ⟪कौटिलीयार्थशास्त्र⟩ ⟪१⟩.⟪४⟩.⟪३⟩ ⟪॥⟩
 ⟪आन्वीक्षिक्याः⟩ ⟪त्रय्याः⟩ ⟪वार्त्ताया⟩ ⟪योगस्य⟩ ⟪क्ष⟩e⟪मस्य⟩ ⟪च⟩ ⟪साधनो⟩ ⟪दण्डः⟩, ⟪तस्य⟩ ⟪नीतिर्दण्डनीतिः⟩ ⟪।⟩
 Fustis efficit acquisitionem et securam possessionem philosophiae, vedologiae et oeconomiae. Ducatus fusti est politica.

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 31
 
-A) Fordítsa le a következő mondatokat, és bontsa fel a szanszkrit összetételeket: <!-- TODO: Fallback translation -->
+A) Fordítsa le a következő mondatokat, és bontsa fel a szanszkrit összetételeket:
 
 ⟪१⟫. **⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫**
 (⟪दुःखस्य⟫ ⟪सम्भवम्⟫ ⟪।⟫ ⟪आर्येण⟫ ⟪बुद्धस्य⟫ / ⟪बुद्धानां⟫ ⟪मार्गेण⟫)
@@ -18,7 +18,7 @@ Mivel a belátás megakadályozza a szenvedés keletkezését, az eszes embernek
 
 ⟪२⟫. **⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगव्द्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫**
 (⟪भगवतो⟫ ⟪गीतायाम्⟫)
-A tiszteletreméltó Bhagavadgītāban azt mondja, hogy a kardok csak a testet hasítják szét, de a lélek (jīva) nem hal meg. <!-- TODO: Fallback translation -->
+A tiszteletreméltó Bhagavadgītāban azt mondja, hogy a kardok csak a testet hasítják szét, de a lélek (jīva) nem hal meg.
 
 ⟪३⟫. **⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫**
 Aki belátással rendelkezik, az megszabadul a szenvedéstől; ezért aki megváltást kíván, annak jógával kell koncentrálnia.
@@ -40,7 +40,7 @@ A tévelygő jó ételeket és szép nőket élvez. Akinek a tévelygése eltűn
 
 ## Igeparadigmák (7. osztály)
 
-B) Alakítsa ki a következő 7. osztályú gyökökből az indikatív és optativum jelen idejű 3. személy egyes és többes számát (P és Ā): <!-- TODO: Fallback translation -->
+B) Alakítsa ki a következő 7. osztályú gyökökből az indikatív és optativum jelen idejű 3. személy egyes és többes számát (P és Ā):
 
 ### ⟪१⟫. ⟪छिद्⟫ (szétvágni)
 
@@ -71,7 +71,7 @@ B) Alakítsa ki a következő 7. osztályú gyökökből az indikatív és optat
 | ⟪विधिलिङ्⟫ (Opt.) | ⟪अञ्ज्यात्⟫ | ⟪अञ्ज्युः⟫ |
 
 
-### ⟪५⟫. ⟪भञ्ज्⟫ (szétzárni — csak P) <!-- TODO: Fallback translation -->
+### ⟪५⟫. ⟪भञ्ज्⟫ (szétzárni — csak P)
 
 | Módus | E. Szám | T. Szám |
 | :--- | :--- | :--- |

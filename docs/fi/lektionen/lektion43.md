@@ -19,23 +19,23 @@ status: stable
 | **Sekundääripäätteet** | -s | -ta | -thās | -dhvam |
 | **Perfektipäätteet** | -tha | -a | -se | -dhve |
 :::
-Huomaa, että toisen persoonan monikon sekundääripäätte on identtinen kolmannen persoonan yksikön aktiivin sekundääripäätteen kanssa. <!-- TODO: Fallback translation -->
+Huomaa, että toisen persoonan monikon sekundääripäätte on identtinen kolmannen persoonan yksikön aktiivin sekundääripäätteen kanssa.
 
-## 43.2. 2. persoonan verbimuotojen muodostus (⟪मध्यमः⟫) <!-- TODO: Fallback translation -->
+## 43.2. 2. persoonan verbimuotojen muodostus (⟪मध्यमः⟫)
 
 2.henkilö:
 
 *   yksikkö: "sinä"
-*   monikko: "te" (yli kaksi!) <!-- TODO: Fallback translation -->
+*   monikko: "te" (yli kaksi!)
 
 ### 43.2.1. Temaattiset vartalot
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
-sg. Ā-imperfekti tai optatiivi on muotonsa puoleen sama kuin 2. pl. P-imperfekti tai optatiivi! <!-- TODO: Fallback translation -->
+sg. Ā-imperfekti tai optatiivi on muotonsa puoleen sama kuin 2. pl. P-imperfekti tai optatiivi!
 
-#### 43.2.1.1. Ensimmäinen preesensluokka (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+#### 43.2.1.1. Ensimmäinen preesensluokka (⟪भ्वादि⟫)
 
 ⟪भू⟫ 1P
 
@@ -57,7 +57,7 @@ sg. Ā-imperfekti tai optatiivi on muotonsa puoleen sama kuin 2. pl. P-imperfekt
 | **Imperfekti** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
 | **Optatiivi** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
 
-#### 43.2.1.3. Neljäs preesensluokka (⟪दिवादि⟫) <!-- TODO: Fallback translation -->
+#### 43.2.1.3. Neljäs preesensluokka (⟪दिवादि⟫)
 
 ⟪नृत्⟫ 4P
 
@@ -112,7 +112,7 @@ sg. Ā-imperfekti tai optatiivi on muotonsa puoleen sama kuin 2. pl. P-imperfekt
 ## 43.3. Toinen persoonan pronomini
 
 *   yksikkö: ⟪त्वद्⟫ "sinä"
-*   monikko: ⟪युष्मद्⟫ "te" <!-- TODO: Fallback translation -->
+*   monikko: ⟪युष्मद्⟫ "te"
 
 ::: grammar-box
 | | ⟪एकवचनम्⟫ (⟪त्वद्⟫) | ⟪बहुवचनम्⟫ (⟪युष्मद्⟫) |
@@ -141,7 +141,7 @@ Muotoja ⟪त्वा⟫, ⟪ते⟫ ja ⟪वस्⟫ ei saa käyttää la
 Kuva: ⟪आपणः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4302))
 :::
-⟪सत्वर⟫ 3: nopea, kiireinen <!-- TODO: Fallback translation -->
+⟪सत्वर⟫ 3: nopea, kiireinen
 
 ⟪पण्य⟫ 3: myytävä; n.: tavara, kauppa
 
@@ -150,7 +150,7 @@ Kuva: ⟪आपणः⟫
 Kuva: ⟪पण्यानि⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4303))
 :::
-⟪आम्⟫ : kyllä <!-- TODO: Fallback translation -->
+⟪आम्⟫ : kyllä
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -158,7 +158,7 @@ Kuva: ⟪पण्यानि⟫
 
 ⟪भद्र⟫ 3: hyvä, onnellinen; vokatiivi: rakas ystäväni!
 
-⟪समय⟫ m. (sanasta ⟪सम्⟫-⟪इ⟫): sopimus, tehtävä, määräaika, ajankohta <!-- TODO: Fallback translation -->
+⟪समय⟫ m. (sanasta ⟪सम्⟫-⟪इ⟫): sopimus, tehtävä, määräaika, ajankohta
 
 ⟪निश्चित⟫ 3: päättäväinen, määrätty
 
@@ -173,25 +173,25 @@ Kuva: ⟪पण्यानि⟫
 Kuva: ⟪विपणिः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: kauppias <!-- TODO: Fallback translation -->
+⟪वणिज्⟫ m.: kauppias
 
 ::: media
 ![](/images/lekt4305.webp)
 Kuva: ⟪वणिक्⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4305))
 :::
-⟪वर⟫ 3: paras <!-- TODO: Fallback translation -->
+⟪वर⟫ 3: paras
 
 ⟪शीघ्र⟫ 3: nopea, kiireinen
 
-⟪वत्स⟫ m: vasikka, poika, lapsi ; vok.: rakas <!-- TODO: Fallback translation -->
+⟪वत्स⟫ m: vasikka, poika, lapsi ; vok.: rakas
 
 ::: media
 ![](/images/lekt4306.webp)
 Kuva: ⟪वत्सः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4306))
 :::
-⟪उत्तम⟫ 3: korkein, paras <!-- TODO: Fallback translation -->
+⟪उत्तम⟫ 3: korkein, paras
 
 ⟪अल्प⟫ 3: pieni, vähäinen
 
@@ -203,7 +203,7 @@ Kuva: ⟪वत्सः⟫
 
 ⟪अधिक⟫ 3: lisäksi, ylimääräinen, poikkeuksellinen
 
-⟪तर्हि⟫ : silloin, sitten; siksi, siis <!-- TODO: Fallback translation -->
+⟪तर्हि⟫ : silloin, sitten; siksi, siis
 
 ⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : punnita
 
@@ -212,9 +212,9 @@ Kuva: ⟪वत्सः⟫
 Kuva: ⟪तोलन्ति⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4307))
 :::
-⟪कर्गल⟫ n.: paperi <!-- TODO: Fallback translation -->
+⟪कर्गल⟫ n.: paperi
 
-⟪संपुट⟫ m.: purkki (tässä: paketti, kimppu) <!-- TODO: Fallback translation -->
+⟪संपुट⟫ m.: purkki (tässä: paketti, kimppu)
 
 ⟪पुरतस्⟫ : edessä, ennen, edellä
 
@@ -241,7 +241,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪पश्चात्ताप⟫ m.: katumus
 
-⟪इत्थम्⟫ Adv.: tällä tavalla, näin <!-- TODO: Fallback translation -->
+⟪इत्थम्⟫ Adv.: tällä tavalla, näin
 
 ⟪दिन⟫ n.: päivä
 
@@ -310,11 +310,11 @@ B) Käännä sanskritiksi:
 
 1\. Miksi istutte, kun opettaja seisoo?
 
-2\. Epäiletkö, että hyvä teko tuottaa hyvän hedelmän? <!-- TODO: Fallback translation -->
+2\. Epäiletkö, että hyvä teko tuottaa hyvän hedelmän?
 
-3\. Näytättekö isänne sisimmän temppelin pyhättön? <!-- TODO: Fallback translation -->
+3\. Näytättekö isänne sisimmän temppelin pyhättön?
 
-4\. Minkä runoilijan ylistyslaulu lauloit? <!-- TODO: Fallback translation -->
+4\. Minkä runoilijan ylistyslaulu lauloit?
 
 5\. Myyttekö nämä hedelmät?
 
@@ -326,14 +326,14 @@ Oletteko te uhripapit palvoneet jumalia uhrilla?
 
 Missä kaupungissa sinut syntyi?
 
-Miten pelastat itsesi (ylität) vihollisen edestä? <!-- TODO: Fallback translation -->
+Miten pelastat itsesi (ylität) vihollisen edestä?
 
 ::: media
 ![](/images/lekt4308.webp)
 Kuva: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4308))
 :::
-## 43.6. ⟪संवादः⟫ = Keskustelu <!-- TODO: Fallback translation -->
+## 43.6. ⟪संवादः⟫ = Keskustelu
 
 | ⟪संवादः⟫ | Selitysen |
 | --- | --- |
@@ -367,25 +367,6 @@ Kuva: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 ![](/images/lekt4309.webp)
 Kuva: ⟪शर्करा⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4309))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
-::: deleteme-box
-
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Viitattu 2009-01-06. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä) <!-- TODO: Fallback translation -->
-
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Viitattu 2009-01-06. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä) <!-- TODO: Fallback translation -->
-
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Viitattu 2009-01-06. -- Creative Commons -lisenssi (Nimittäminen) <!-- TODO: Fallback translation -->
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Viitattu 2009-01-06. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, sama lisenssi) <!-- TODO: Fallback translation -->
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Haettu 2009-001-06. -- Creative Commons -lisensoitu (Nimeä, jakaa samalla ehdoin)
-
-**lekt4307.jpg**: Ray Witlin / Maailmanpankki. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Haettu 2009-01-06. -- Creative Commons -lisensoitu (Nimeä, ei kaupallista käyttöä, ei johdannaisteoksia) <!-- TODO: Fallback translation -->
-
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Haettu 2009-01-07. -- Creative Commons -lisensoitu (Nimeä, ei johdannaisteoksia)
-:::
- <!-- TODO: Fallback translation -->

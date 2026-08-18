@@ -9,14 +9,6 @@ status: stable
 
 # Lecziun 10
 
-::: deleteme-box
-**En questa lecziun avais da aprender:**
-- La frasa passiva (Instrumental dal agent)
-- La declinaziun dal instrumental (tṛtīyā)
-- La lescha da la cerebralisaziun per -n- (sandhi da las paraulas)
-- La furmaziun dal passiv (yak) en l'indicativ present
-- Vocabulari davant sacrifici, veritad e rollas socialas
-:::
 ## 10.1. La frasa passiva
 
 ::: grammar-box
@@ -48,7 +40,7 @@ Al passiv **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्राम�
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Ins po entrar = Per plaschair entrar = Entaifer!"
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = "Ins po s'assidar = Per plaschair s'assidar = Per plaschair pigliar plaz"
 :::
-Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli facil da furmar che per exempel numerus stims da present. <!-- TODO: Fallback translation -->
+Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli facil da furmar che per exempel numerus stims da present.
 
 ::: important
 **Frasas passivas en sanscrit pon esser tradusidas en general en passiv en rätoromanisch, perquai che il passiv en linguas occidentalas ha ina funcziun stilistica differenta.**
@@ -75,7 +67,7 @@ Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli faci
 | :--- | :--- | :--- |
 | **Maskulina auf -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
 | **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
-| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ | <!-- TODO: Fallback translation -->
+| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
 **Masculins e Neutrums sin -a (irregulàrs en il singular e plural):**
 
@@ -101,11 +93,8 @@ Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli faci
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
 | **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-Fatsch dal Nominativ ed il Accusativ èn las formas dals neutris sin -a, dal pronom interrogativ e dals pronomas demonstrativas identicas cun las formas dal respectiv masculin.
+
 :::
 
 ### 10.2.1. Tar l'utilisaziun dal instrumental (tṛtīyā = ⟪तृतीया⟫)
@@ -167,11 +156,11 @@ ex.
 | :--- | :--- | :--- |
 | **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"er wird geführt" | **nīyante** :br(⟪नीयन्ते⟫) |
 | **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
-| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) | <!-- TODO: Fallback translation -->
+| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
 **Nota che per ils verbs da la quarta classa da preschent èn las furmas Ātmanepada e passivas identicas! En quest cas po ins determinar sche i sa tracta da Ātmanepada u passiv mo ord la structura da la frasa.**
 
-### 10.4.1. Reglas spezialas per la furmaziun dal passiv <!-- TODO: Fallback translation -->
+### 10.4.1. Reglas spezialas per la furmaziun dal passiv
 
 1. **Radis cun finala -i u -u** allungeschan lur vocal davant il suffix dal passiv **-ya-**:
 * **ji** 1 P: **jīyate**, **jīyante**
@@ -193,7 +182,7 @@ ex.
 * **smṛ** 1 P: **smaryate**, **smaryante**
 ⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-4. **Livell profund da verbs che cumenzan cun ya, va, ra u en ils quals quels sons sa chattan suenter in auter consonant (Samprasāraṇa = ⟪सम्प्रसारण⟫):** <!-- TODO: Fallback translation -->
+4. **Livell profund da verbs che cumenzan cun ya, va, ra u en ils quals quels sons sa chattan suenter in auter consonant (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
    | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
    | :--- | :--- | :--- |
@@ -217,7 +206,7 @@ z.B. **tan** 8 U.
 * **tan-ya-te**, **tan-ya-nte**
 ⟪तन्यते⟫, ⟪तन्यन्ते⟫
 * **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte) <!-- TODO: Fallback translation -->
+⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
 
 ## 10.5. Glista da pleds
 
@@ -243,7 +232,7 @@ z.B. **tan** 8 U.
 
   ::: note-box
   Tras tge ch'ins sa merita bainesser e bunas renaschientschas.
-  ::: <!-- TODO: Fallback translation -->
+  :::
 
 - **pāpa** n. ⟪पाप⟫ : anṛta, mal (cuntrari a **puṇya**)
 - **satya** n. ⟪सत्य⟫ : vardad
@@ -252,7 +241,7 @@ z.B. **tan** 8 U.
 **satya** n. ⟪सत्य⟫ : veritad (En l'Índia s'attribuiva a la paraula veritabla in pussanza magica.)
 
 Lüders, Heinrich <1869 - 1943>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -260,7 +249,7 @@ Lüders, Heinrich <1869 - 1943>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 Fig.: ⟪वरुणः⟫
 (Sursa d’imagine: [Detagl](/rm/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : na-vardad, manzegna (cuntrari da **satya**) <!-- TODO: Fallback translation -->
+- **anṛta** n. ⟪अनृत⟫ : na-vardad, manzegna (cuntrari da **satya**)
 
   ::: note-box
   formaziun dal pled **an-** («na-») + **ṛta** n.

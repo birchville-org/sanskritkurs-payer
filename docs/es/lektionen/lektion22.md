@@ -176,7 +176,7 @@ de ello:
 ::: indent
 **⟪चर⟫ ⟪३⟫:** móvil; n.: lo móvil = animales (en contraste con las plantas)
 
-**⟪चरण⟫ n., m.:** pie &lt;!-- TODO: Fallback translation --&gt;
+**⟪चरण⟫ n., m.:** pie &lt;!--  --&gt;
 
 **⟪चरित⟫ n.:** conducta de vida, hazañas de vida
 
@@ -257,17 +257,7 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2204))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
-:::
-::: deleteme-box
-
-**lekt2201:** Goa = ⟪गोंय⟫ [Fuente de la imagen: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Acceso el 2008-12-12. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt2202:** Siglo XIX [Fuente de la imagen: Wikipedia, Dominio público]
-
-**lekt2203:** Calcuta = কলকাতা [Fuente de la imagen: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Acceso el 2008-12-12. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt2204:** [Fuente de la imagen: Curt Carnemark / Banco Mundial. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Acceso el 2008-12-12. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
 :::
 

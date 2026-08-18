@@ -1,13 +1,14 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "Lecke 13"
+subtitle: "PPP a -na- végződésen"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# 13. lecke <!-- TODO: Fallback translation -->
+# 13. lecke
 
 ## 13.1. PPP a -na- végződésen
 
@@ -15,7 +16,7 @@ A -ta- vagy -na- végződésű PPP-k eloszlására nem lehetek szigorú szabály
 
 ::: grammar-box
 
-Szinte minden -d végű gyökér képezi a PPP-t -na- végződésben. Ebben az esetben a -d-n- helyett -n-n- lép fel, ami egyébként nem történik meg a szószandhiban, hanem a mondat-szandha utánzásának tekinthető. <!-- TODO: Fallback translation -->
+Szinte minden -d végű gyökér képezi a PPP-t -na- végződésben. Ebben az esetben a -d-n- helyett -n-n- lép fel, ami egyébként nem történik meg a szószandhiban, hanem a mondat-szandha utánzásának tekinthető.
 
 Példa:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
@@ -59,43 +60,47 @@ pl.
 
 A jelzők (melléknevi jelzők) a mondatban a megszokott szórendben állnak az előttük lévő, őket pontosító főnév előtt. A melléknemi jelzők egyeznek a főnévvel szám, eset és nem szerint:
 
+::: grammar-box
+
+A melléknevek (jelzők) a szótagszóban az őket pontosító főnév előtt állnak. A melléknemű jelzők egyeznek a főnévben szám, eset és nem szerint:
+
 Példa:
 
 :::
 ::: indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = „Egy szent látja a kívánt gyümölcsöt (cselekedetei eredményét).”
+⟪साधुरिष्टं फलं पश्यति⟫ = "E szent látja a kívánt gyümölcsöt (cselekedeteinek)."
 :::
 
-## 13.4. -mant és -vant végződésű melléknevek képzése (taddhita)
+## 13.4. A -mant és -vant végződésű melléknevek képzése (taddhita)
 
 ::: grammar-box
 
-A taddhita -mant és -vant képzők segítségével birtokos jelzőket képezünk főnevekből. Jelentésük: „az alapul szolgáló főnévvel jelöltet birtokolva”.
+A taddhita -mant illetve -vant képzők segítségével birtokot jelző mellékneveket képezünk főnevekből. Jelentésük: "az alapul szolgáló főnévvel jelöltet birtokolva".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
+A -vant a főnevekhez kapcsolódik, amelyek utolsó vagy előutolsó hangja a, ā vagy m, valamint azokhoz a főnevekhez, amelyek záróhangra végződnek; más főneveknél általában a -mant kapcsolódik.
 
 Példák:
 
 :::
 ::: indent
-⟪पशुमन्त्⟫ „marhát birtokolva”
+⟪पशुमन्त्⟫ "Marhát birtokolva"
 
-⟪गुणवन्त्⟫ "jó tulajdonságokkal / erényekkel rendelkező"
+⟪गुणवन्त्⟫ "Jó tulajdonságokat / erényt birtokolva"
 :::
 
-## 13.5. Törzsszintezés a főnevi törzseknél <!-- TODO: Fallback translation -->
+## 13.5. A főnevek tőváltozása
 
-A -mant vagy -vant végződésű törzsek a szófaji törzsszintézést alkalmazó főnévi törzsek közé tartoznak.
+A -mant illetve -vant végződésű tövek azok közé a főnévtövekbe tartoznak, amelyek tőváltozással rendelkeznek.
 
 ::: grammar-box
-A szófaji törzsszintézést alkalmazó főnévi törzseknél megkülönböztetünk erős és gyenge eseteket (kaszusokat). Az erős esetekben a törzsképző képző — gyökérfőneveknél a gyöki elem — erős fokot vagy nyújtott fokot mutat, míg a gyenge esetekben alacsony fokot.
+A tőváltozással rendelkező főnévtöveknél erős és gyenge eseteket (kaszusokat) különböztetünk meg. Az erős esetekben a tőképző képző — gyökér-főneveknél a gyöktartalom — erős fokot vagy nyújtott fokot, míg a gyenge esetekben gyengébb fokot mutat.
 :::
 **Az erős esetek:**
 
-| | egyes szám:br⟪एकवचन⟫ | kettes szám (dualis):br⟪द्विवचन⟫ | többes szám:br⟪बहुवचन⟫ |
+| | Egész szám:br⟪एकवचन⟫ | Kettős szám:br⟪द्विवचन⟫ | Többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | alanyeset (nominativus):br⟪प्रथमा⟫:brtárgyeset (accusativus):br⟪द्वितीया⟫:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ | alanyeset (nominativus):br⟪प्रथमा⟫:brtárgyeset (accusativus):br⟪द्वितीया⟫:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ | alanyeset (nominativus):br⟪प्रथमा⟫:br:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ |
-| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | alanyeset (nominativus):br⟪प्रथमा⟫:brtárgyeset (accusativus):br⟪द्वितीया⟫:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ |
+| **Hím és nőneműeknél** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominatív:br⟪प्रथमा⟫:brAkkuzatívszám:br⟪द्वितीया⟫:brVokatív:br⟪सम्बोधनप्रथमा⟫ | Nominatív:br⟪प्रथमा⟫:brAkkuzatívszám:br⟪द्वितीया⟫:brVokatív:br⟪सम्बोधनप्रथमा⟫ | Nominatív:br⟪प्रथमा⟫:br:brVokatív:br⟪सम्बोधनप्रथमा⟫ |
+| **Semleges neműeknél** :br⟪नपुंसक⟫ | — | — | Nominatív:br⟪प्रथमा⟫:brAkkuzatívszám:br⟪द्वितीया⟫:brVokatív:br⟪सम्बोधनप्रथमा⟫ |
 
 **Minden egyéb eset gyenge.**
 
@@ -114,7 +119,7 @@ A -mant és -vant végződésű főnevek ragozásának egyes formáit megértés
 :::
 Példák:
 ::: indent
--t + bh- » -d-bh- ⟪द्भ्⟫ <!-- TODO: Fallback translation -->
+-t + bh- » -d-bh- ⟪द्भ्⟫
 
 -k + bh- » -g-bh- ⟪ग्भ्⟫
 
@@ -134,7 +139,7 @@ Konsonánssal végződő tövek esetén:
 
 :::
 
-## 13.8. A -mant és -vant végződésű tövek ragozása <!-- TODO: Fallback translation -->
+## 13.8. A -mant és -vant végződésű tövek ragozása
 
 ::: grammar-box
 
@@ -152,7 +157,7 @@ Konsonánssal végződő tövek esetén:
 
 Nőnem:
 
-A -mant- és -vant- végződésű tőkhöz tartozó nőnemű alap -mat-ī, illetve -vat-ī végződésű. A ragozás a devī szóéval megegyezik, azaz nincs tőhangzó-változás. <!-- TODO: Fallback translation -->
+A -mant- és -vant- végződésű tőkhöz tartozó nőnemű alap -mat-ī, illetve -vat-ī végződésű. A ragozás a devī szóéval megegyezik, azaz nincs tőhangzó-változás.
 
 Példa:
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
@@ -161,7 +166,7 @@ Példa:
 
 ## 13.9. Szószedet
 
-Tanulják meg a következő szavakat: <!-- TODO: Fallback translation -->
+Tanulják meg a következő szavakat:
 
 - **eva** ⟪एव⟫ : az előző szó hangsúlyozása
 - **asura** m. ⟪असुर⟫ : démon
@@ -176,7 +181,7 @@ Tanulják meg a következő szavakat: <!-- TODO: Fallback translation -->
 >
 > Ebben az értelemben más eredetet találtak rá: a forrás már nem asu, 'lélegzet', hanem az első *a* tagadó előtagként van értelmezve, és az asura jelentése 'nem isten'; ezért egyesek szerint keletkezett a *sura* szó, amelyet általában 'istennek' használnak.”
 >
-> [Forrás: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ] <!-- TODO: Fallback translation -->
+> [Forrás: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -195,7 +200,7 @@ Kép: ⟪महिषासुरः⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : gyűlölni, ellensége lenni
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : enni, elfogyasztani
-- **anna** n. ⟪अन्न⟫ : étel (a PPP-ből: *ad-na: a megevett) <!-- TODO: Fallback translation -->
+- **anna** n. ⟪अन्न⟫ : étel (a PPP-ből: *ad-na: a megevett)
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -217,7 +222,7 @@ pad 4 Ā:
 Ábr.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1303))
 :::
-dviṣ 2 U: <!-- TODO: Fallback translation -->
+dviṣ 2 U:
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : gyűlölet
@@ -266,7 +271,7 @@ B) Fordítás és átalakítás múltbeli passzív mondatokká:
 
 ## 13.11. Ismétlőgyakorlat
 
-A) Fordítsa le a következő mondatokat: <!-- TODO: Fallback translation -->
+A) Fordítsa le a következő mondatokat:
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫

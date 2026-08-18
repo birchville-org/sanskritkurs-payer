@@ -42,7 +42,7 @@ e. g.
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > etc.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
 :::
 ## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
@@ -71,7 +71,7 @@ Fig.: ⟪लक्ष्मी⟫
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
 *   exprimit Karmadhāraya comparationem, tum id, quo comparatur, in posteriori parte compositi statuitur:
 
@@ -225,7 +225,7 @@ e.g.
 *   ⟪गतिसमासः⟫ : cum praepositione in membro anteriore
 *   ⟪प्रथमातत्पुरुषः⟫ et cetera (vide supra)
 
-### 15.7.1. Einteilung der ⟪कर्मधारय⟫ <!-- TODO: Fallback translation -->
+### 15.7.1. Einteilung der ⟪कर्मधारय⟫
 
 1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : pars prior est adiectivum (⟪विशेषण⟫)
 2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : utraque pars sunt adiectiva, ad quae pertinent etiam adiectiva quae successionem temporis exprimunt: "primum lavatus, deinde unctus"
@@ -270,7 +270,7 @@ Abb.: ⟪पूजा⟫
 Tab.: ⟪इन्द्रः⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt1505))
 :::
-⟪दास⟫ m.: Servus, Seruus, Minister <!-- TODO: Fallback translation -->
+⟪दास⟫ m.: Servus, Seruus, Minister
 
 ⟪दासी⟫ f.: ancilla, serva, famula
 
@@ -287,7 +287,7 @@ Tab.: ⟪इन्द्रः⟫
 ex eo:
 
 ::: indent
-⟪स्तुति⟫ f.: laus, carmen laudis <!-- TODO: Fallback translation -->
+⟪स्तुति⟫ f.: laus, carmen laudis
 
 ⟪स्तोत्र⟫ n.: (Medium laudis =) Carmen laudis, hymnus
 :::
@@ -581,18 +581,5 @@ B) Solvite sequentia Tatpuruṣa:
 ![](/images/lekt1509.webp)
 Fig.: ⟪नागदेवाः⟫
 (Fons imaginis: [Details](/la/licenses#lekt1509))
-:::
-
-::: deleteme-box
-
-- **Fig.: ⟪लक्ष्मी⟫** (Lakshmi): Pinxit ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Fons imaginis: Wikipedia, Dominium publicum.
-- **Fig.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Fons imaginis: Wikipedia, Dominium publicum.
-- **Diagramma** (lekt1502.jpg): Diagramma de analysi compositorum. Fons imaginis: Alois Payer / Graphica originalis cursus.
-- **Fig.: ⟪पूजा⟫** (Puja): Cerimonia Puja in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Fons imaginis: Wikipedia, Dominium publicum.
-- **Fig.:  ⟪इन्द्रः⟫** (Indra): Folium e Panchakalyanaka, Rajasthan, Amber. Fons imaginis: Wikipedia, Dominium publicum.
-- **Fig.: ⟪सिंहः⟫** (Leo): Panthera leo persica. Fons imaginis: Wikipedia, Licentia GNU FD.
-- **Fig.: ⟪व्याघ्रः⟫** (Tigris): Parcus Nationalis Bandhavgarh (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Fons imaginis: U.S. Fish and Wildlife Service / Wikipedia, Dominium publicum.
-- **Fig.: ⟪ग्रामदेवता⟫** (Gramadevata): Dominus Virpanath @ vicus Pasvadal, Vadgam, Gujarat, India. Fons imaginis: ganuullu (Flickr), Licentia Creative Commons.
-- **Fig.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Fons imaginis: Dineshkannambadi / Wikipedia, Licentia GNU FD.
 :::
 

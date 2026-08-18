@@ -173,7 +173,7 @@ derivar adverbios pronominales correspondientes.
 | **-⟪त्र⟫** :br(Locativo) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | &lt;!-- TODO: Fallback translation --&gt;
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | &lt;!--  --&gt;
 
 :::
 ::: grammar-box
@@ -193,7 +193,7 @@ Fig.: ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | &lt;!-- TODO: Fallback translation --&gt;
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | &lt;!--  --&gt;
 
 :::
 ## 37.5. Compuestos adverbiales
@@ -520,17 +520,3 @@ Traduzca al sánscrito utilizando exclusivamente formas verbales del perfecto:
 
 Cuando un anciano fue a otro pueblo, se cansó en el camino. Entonces, para descansar, se dirigió a la base de un árbol de mango que estaba al lado. En ese árbol había frutos maduros. Al anciano le entraron ganas de comerlos. Pero no podía subir al árbol ni alcanzar los frutos. Por suerte, había algunos monos en ese árbol que comían frutos. Al verlos, el anciano se alegró. ¿Qué hizo? Tomó algunas piedras, apuntó a los monos y lanzó. Los monos, enfurecidos, recogieron algunos frutos y se los lanzaron al anciano. El anciano, contento, tomó los frutos y se dirigió a su destino. ¡Vean el destino del anciano!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Fig.: ⟪क्व⟫): [Fuente de la imagen: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Acceso el 2008-12-30. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
-- **Image lekt3702.jpg** (Fig.: ⟪यथाशक्ति⟫): [Fuente de la imagen: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Acceso el 2008-12-30. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
-- **Image lekt3703.jpg** (Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Dargah de Chishti (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Fuente de la imagen: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Acceso el 2008-12-30. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
-- **Image lekt3704.jpg** (Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Fuente de la imagen: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Acceso el 2008-12-30. -- Licencia Creative Commons (Atribución)]
-- **Image lekt3705.jpg** (Fig.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Fuente de la imagen: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Acceso el 2008-12-31. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
-- **Image lekt3706.jpg** (Fig.: ⟪वृक्षः⟫): Jaipur [Fuente de la imagen: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Acceso el 2008-12-31. -- Licencia Creative Commons (Atribución, No comercial, Compartir igual)]
-- **Image lekt3707.jpg** (Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Cuadro de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Fuente de la imagen: Wikipedia. Dominio público]
-- **Image lekt3708.jpg** (Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Fuente de la imagen: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Acceso el 2008-12-31. -- Licencia Creative Commons (Atribución)]
-- **Image lekt3709.jpg** (Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Fuente de la imagen: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Acceso el 2008-12-31. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
-- **Image lekt3710.jpg** (Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Fuente de la imagen: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Acceso el 2008-12-31. -- Licencia Creative Commons (Atribución, No comercial, Compartir igual)]
-- **Image lekt3711.jpg** (Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Fuente de la imagen: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Acceso el 2008-12-31. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
-:::

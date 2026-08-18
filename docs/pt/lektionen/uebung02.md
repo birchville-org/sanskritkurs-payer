@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 2
 
-A) Setzen Sie in den folgenden Sätzen unter Beachtung des Sandhi die angegebenen Namen und Nomina ein und bilden Sie Nominalsätze: <!-- TODO: Fallback translation -->
+A) Setzen Sie in den folgenden Sätzen unter Beachtung des Sandhi die angegebenen Namen und Nomina ein und bilden Sie Nominalsätze:
 
 1\. devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra) = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 
@@ -46,7 +46,7 @@ kaviḥ kālidāsaḥ. kavir māghaḥ. kavir bhāraviḥ. kavir harṣadevaḥ.
 
 | ⟪कविः⟫ ⟪कालिदासः⟫ | ⟪कविर्माघः⟫ | ⟪कविर्भारविः⟫ | ⟪कविर्हर्षदेवः⟫ |
 
-B) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie ins Sanskrit:
 
 1\. Rāma ist ein Brahmane.
 
@@ -54,7 +54,7 @@ brāhmaṇo rāmaḥ.
 
 ⟪ब्राह्मणो⟫ ⟪रामः⟫
 
-2\. Der Lehrer ist ein vaiśya. <!-- TODO: Fallback translation -->
+2\. Der Lehrer ist ein vaiśya.
 
 vaiśyo guruḥ.
 
@@ -66,13 +66,13 @@ sādhuḥ śūdraḥ.
 
 ⟪साधुः⟫ ⟪शूद्रः⟫
 
-4\. Der Dichter ist der Lehrer. <!-- TODO: Fallback translation -->
+4\. Der Dichter ist der Lehrer.
 
 guruḥ kaviḥ.
 
 ⟪गुरुः⟫ ⟪कविः⟫
 
-5\. Viṣṇu ist der HERR. <!-- TODO: Fallback translation -->
+5\. Viṣṇu ist der HERR.
 
 īśvaro viṣṇuḥ.
 
@@ -84,19 +84,19 @@ guruḥ kaviḥ.
 
 ⟪शिव⟫ ⟪ईश्वरः⟫
 
-7\. Der Zweimalgeborene ist ein Brahmane. <!-- TODO: Fallback translation -->
+7\. Der Zweimalgeborene ist ein Brahmane.
 
 brāhmaṇo dvijaḥ.
 
 ⟪ब्राह्मणो⟫ ⟪द्विजः⟫
 
-8\. Der heilige Mann ist ein Lehrer. <!-- TODO: Fallback translation -->
+8\. Der heilige Mann ist ein Lehrer.
 
 guruḥ sādhuḥ.
 
 ⟪गुरुः⟫ ⟪साधुः⟫
 
-9\. Der Lehrer ist ein heiliger Mann. <!-- TODO: Fallback translation -->
+9\. Der Lehrer ist ein heiliger Mann.
 
 sādhur guruḥ.
 

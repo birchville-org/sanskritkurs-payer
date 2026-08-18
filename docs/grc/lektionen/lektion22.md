@@ -21,11 +21,11 @@ status: stable
 
 Πλὴν τῶν συνθέτων, τὸ ἀπολυτικόν ἐστιν ἓν τῶν συνηθισμένων μέσων ἐκφράσεως ἐν τῷ Σανσκριτῷ.
 
-Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung. <!-- TODO: Fallback translation -->
+Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung.
 
 **Schema:**
 
-(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv) <!-- TODO: Fallback translation -->
+(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv)
 
 :::
 **Beispiele:**
@@ -259,16 +259,5 @@ Fig.: ⟪कामदेवः⟫
 ![](/images/lekt2204.webp)
 Ἀπικ.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt2204))
-:::
-
-::: deleteme-box
-
-**lekt2201:** Γκοά = ⟪गोंय⟫ [πηγή εικόνας: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- πρόσβαση 2008-12-12. -- άδεια Creative Commons (αναφορά, μη εμπορική χρήση, χωρίς τροποποίηση)]
-
-**lekt2202:** 19ος αι. [πηγή εικόνας: Wikipedia, δημόσιο πεδίο]
-
-**lekt2203:** Κολκάτα = কলকাতা [πηγή εικόνας: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- πρόσβαση 2008-12-12. -- άδεια Creative Commons (αναφορά, μη εμπορική χρήση, χωρίς τροποποίηση)]
-
-**lekt2204:** [πηγή εικόνας: Curt Carnemark / Παγκόσμια Τράπεζα. -- http://www.flickr.com/photos/worldbank/2183558378/. -- πρόσβαση 2008-12-12. -- άδεια Creative Commons (αναφορά, μη εμπορική χρήση, χωρίς τροποποίηση)]
 :::
 

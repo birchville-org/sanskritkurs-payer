@@ -1,22 +1,15 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: "Урок 7"
+subtitle: "Дієслівний речення з прямим додатком"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+
+--- &lt;!--  -→
 
 # Урок 7
 
-::: deleteme-box
-**На цьому уроці ви вивчите:**
-- Речення з присудком та прямим додатком
-- Знак знахідного відмінка іменників та займенників
-- Сандху закінчення -n
-- Середній рід основ на -a
-- Атематичні класи теперішнього часу (на прикладі 5-го класу)
-:::
 
 ::: center
 **Тижневий вислів**

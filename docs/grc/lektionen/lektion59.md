@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα νθʹ
 
@@ -784,10 +784,3 @@ _Βοήθεια μεταφράσεως:_ στίχος 6: ⟪दिदृक्�
 :::
 Κείμενον ἐκ: Ὀττὼν Μποχλίγκ: Σανσκριτικὴ Χρεστομαθία σ. 127ἑξ.
 
-::: deleteme-box
-
-**lekt5902:** [Πηγή εικόνας: Henryart/Wikipedia. Δημόσιος τομέας]
-
-**lekt5903:** Τάγκ Κακέκ, Μπαλί (Ινδονησία) [Πηγή εικόνας: Flying Pharmacist / Wikipedia. [Άδεια Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (Αναφορά, Ομοίως)]
-
-:::

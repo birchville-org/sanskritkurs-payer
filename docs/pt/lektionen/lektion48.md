@@ -152,7 +152,7 @@ Nota: ¹ para a explicação de ⟪जहि⟫, ver Thumb-Hauschild I,2 p. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Terceira classe do presente (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
+### 48.2.4. Terceira classe do presente (⟪जुहोत्यादि⟫)
 
 ::: grammar-box
 **A 3ª pl. P termina em \-atu !**
@@ -191,7 +191,7 @@ Nota: ¹ ⟪धेहि⟫ de *dhazdhi: queda do sibilante indo-europeu z com a
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Sobre a formação nominal: sufixos ⟪तद्धित⟫ -a e -ya <!-- TODO: Fallback translation -->
+## 48.3. Sobre a formação nominal: sufixos ⟪तद्धित⟫ -a e -ya
 
 ::: grammar-box
 Com o sufixo **-a** e (mais raramente) **-ya**, um substantivo pode ser derivado de outro substantivo. Nesse processo, a primeira sílaba do substantivo original recebe o grau de alongamento (⟪वृद्धि⟫). Se o radical da palavra original já termina em **-a**, o ⟪वृद्धि⟫ é o único sinal da derivação, pois nada muda no final do radical.
@@ -228,7 +228,7 @@ Exemplos:
 | **\-a** | Substituição do **\-a** da palavra base pelo novo sufixo **\-a**.:brVer exemplos acima. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **outros radicais de declinação:** | ver Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
+| **outros radicais de declinação:** | ver Wackernagel, Altind. Grammatik II,2 § 38 |
 
 Antes do sufixo **-ya**, a vogal final do radical é tratada de forma semelhante a como é antes do sufixo **-a**.
 :::
@@ -265,7 +265,7 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Fonte da imagem: [Detalhes](/licenses#lekt4802))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -308,7 +308,7 @@ Fig.: ⟪कुमारः⟫
 Festival de Thaipusam = தைப்பூசம், Batu Caves, Malásia
 (Fonte da imagem: [Detalhes](/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: menina, filha <!-- TODO: Fallback translation -->
+⟪कुमारी⟫ f.: menina, filha
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -316,7 +316,7 @@ Fig.: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: infância <!-- TODO: Fallback translation -->
+⟪कौमर⟫ n.: infância
 
 ⟪यौवन⟫ n.: juventude
 
@@ -406,23 +406,3 @@ B) Traduza para o sânscrito (usando o imperativo e, se possível, raízes da 2�
 Explicação:
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual de ⟪द्वे⟫ ⟪कुले⟫ "duas famílias"
 
-::: deleteme-box
-
-**lekt4801:** [Fonte da imagem: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Acessado em 2009-01-10. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, Uso Não-Comercial, Compartilha Igual)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Fonte da imagem: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Acessado em 2009-01-10. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, Uso Não-Comercial, Compartilha Igual)]
-
-**lekt4803:** Tocador de sitar = ⟪सितारवादकः⟫ [Fonte da imagem: Wikipedia. Domínio público]
-
-**lekt4804:** [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Fonte da imagem: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Acessado em 2009-01-10. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribuição, Uso Não-Comercial)]
-
-**lekt4805:** Festival de Thaipusam = தைப்பூசம், Batu Caves, Malásia [Fonte da imagem: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Acessado em 2009-01-10. -- [Licença Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuição)]
-
-**lekt4806:** ⟪नेपाल⟫ [Fonte da imagem: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Acessado em 2009-01-10. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não Comercial, Proibição de Obras Derivadas)]
-
-**lekt4807:** ⟪जोधपुर⟫ [Fonte da imagem: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Acessado em 2009-01-10. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não Comercial, Proibição de Obras Derivadas)]
-
-**lekt4808:** Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ [Fonte da imagem: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Acessado em 2009-01-10. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribuição, Compartilha Igual)]
-
-**lekt4809:** (Imagem: Payer)
-:::

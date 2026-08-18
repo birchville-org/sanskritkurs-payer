@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 32
 
-A) Határozza meg a következő igéket, és alkossa meg az őket illető személyben, számban és nemben megfelelő birtokos idő (imperfektus) alakokat: <!-- TODO: Fallback translation -->
+A) Határozza meg a következő igéket, és alkossa meg az őket illető személyben, számban és nemben megfelelő birtokos idő (imperfektus) alakokat:
 
 ::: grammar-box
 | Jelen idő / Jövő idő | Birtokos idő (Imperfektus) |
@@ -95,7 +95,7 @@ B) Fordítsa le, és bontsa fel a szanszkrit összetételeket:
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
 (⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
-Volt egyszer egy fejedelem, aki minden kívánatos erénnyel bírt, szép termetű volt. Ő kiemelkedett minden más uralkodó közül. Áldozatot mutatott be az isteneknek, legyőzte a ellenségeket, gondoskodott a népről és sok érdemteljes cselekedetet hajtott végre; ezért halála után egy isteni világban újjászületett. <!-- TODO: Fallback translation -->
+Volt egyszer egy fejedelem, aki minden kívánatos erénnyel bírt, szép termetű volt. Ő kiemelkedett minden más uralkodó közül. Áldozatot mutatott be az isteneknek, legyőzte a ellenségeket, gondoskodott a népről és sok érdemteljes cselekedetet hajtott végre; ezért halála után egy isteni világban újjászületett.
 
 
 ⟪२⟫. **⟪ब्राह्मणो⟫ ⟪महानगरे⟫ ⟪ऽवसत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमागमय्यावक्⟫ ⟪।⟫ ⟪ब्राह्मणपुत्रो⟫ ⟪वेदं⟫ ⟪गुरावधीयीतेति⟫ ⟪॥२॥⟫**
@@ -122,7 +122,7 @@ Buddha fiait felismerték az igazságot, megállították a szenvedést, és el�
 
 ## Alakmeghatározás
 
-Határozza meg és fordítsa le a következő szavakat: <!-- TODO: Fallback translation -->
+Határozza meg és fordítsa le a következő szavakat:
 
 ::: grammar-box
 | Alak | Meghatározás | Jelentés |
@@ -146,7 +146,7 @@ Határozza meg és fordítsa le a következő szavakat: <!-- TODO: Fallback tran
 | ⟪१७⟫. ⟪घ्नता⟫ | Instr. sg. m./n. Part. Präs. | a gyilkoló által |
 | ⟪१८⟫. ⟪आययन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | elküldik / elhozatják őket |
 | ⟪१९⟫. ⟪एषिता⟫ | Nom. sg. f. Kaus. PPP | a kívánt |
-| ⟪२०⟫. ⟪आनाय्य⟫ | Absol. Kaus. | miután elhozatott <!-- TODO: Fallback translation -->
+| ⟪२०⟫. ⟪आनाय्य⟫ | Absol. Kaus. | miután elhozatott
 
 | ⟪२१⟫. ⟪अनृताय⟫ | Dat. sg. n. | a hazugságért |
 | ⟪२२⟫. ⟪पूजया⟫ | Instr. sg. f. | a tisztelettel |
@@ -201,7 +201,7 @@ Határozza meg és fordítsa le a következő szavakat: <!-- TODO: Fallback tran
 | ⟪७१⟫. ⟪प्रोद्य⟫ | Absol. | miután bejelentette |
 | ⟪७२⟫. ⟪लम्भयति⟫ | 3. sg. Ind. Präs. Kaus. | fenntartja |
 | ⟪७३⟫. ⟪स्थापिताभिः⟫ | Instr. pl. f. Kaus. PPP | a felállítottakkal |
-| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | (a) erőtől <!-- TODO: Fallback translation -->
+| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | (a) erőtől
 
 | ⟪७५⟫. ⟪अलम्⟫ | Adv. | elég |
 | ⟪७६⟫. ⟪हेतून्⟫ | Akk. pl. m. | az okok |
@@ -219,11 +219,11 @@ Határozza meg és fordítsa le a következő szavakat: <!-- TODO: Fallback tran
 Kép: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Képmegjelölés: [Részletek](/licenses#uebung051))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Gyakorlás a szandhira
 
-Helyezze be az alábbi mondatokba a zárójelben lévő szavakat, és vegye figyelembe a szandha-szabályokat: <!-- TODO: Fallback translation -->
+Helyezze be az alábbi mondatokba a zárójelben lévő szavakat, és vegye figyelembe a szandha-szabályokat:
 
 ⟪१⟫. **⟪रामो⟫ ⟪ग्रामात्⟫ ... ⟪गच्छति⟫ ⟪।⟫** (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪कविगृह⟫)
 - ⟪रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गच्छति⟫ ⟪।⟫
@@ -257,10 +257,10 @@ Helyezze be az alábbi mondatokba a zárójelben lévő szavakat, és vegye figy
 ## További szanszkát fordítások
 
 1. Miután megszületett a fiú, a bráhmanasszony szolgát küld a bráhmanához.
-**⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫** <!-- TODO: Fallback translation -->
+**⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫**
 
 2. A szent elviselte ellene elkövetett rosszat.
-**⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪॥⟫**
 
 3. Az erény a férfi dísze.
 **⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫**
@@ -284,13 +284,13 @@ Helyezze be az alábbi mondatokba a zárójelben lévő szavakat, és vegye figy
 
 
 9. A reinkációk köre nincs kezdet.
-**⟪अनादिकालिकः⟫ ⟪संसारः⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪अनादिकालिकः⟫ ⟪संसारः⟫ ⟪॥⟫**
 
 10. Üdvözlet a királynőnek!
 **⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
 
 11. Istennek kedves cselekedeteket végeznek az emberek.
-**⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫**
 
 12. Viszlát!
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
@@ -321,7 +321,7 @@ Kép: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमगच्छत्⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाती⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 
 **Fordítás:**
-Egeszt egy idős ember egy másik faluba ment, és útközben elfáradt. Pihenni szeretett volna, így a út szélén álló mangafafa tövéhez ment. Ezen a fán érett gyümölcsök lógtak. Az idős ember vágyott rájuk, de nem tudta megmászni a fát, hogy leplükálja őket. Szerencsére néhány majom volt a fán, akik gyümölcsöket ettek. Amikor az idős ember ezt látta, örült neki. Mit tett? Néhány követ vett, célzott a majmokra és eldobta őket. A majmok dühbe gurultak, leplükáltak néhány gyümölcsöt és eldobták azokat az idős emberre. Az idős ember örömmel vette a gyümölcsöket és továbbment az útján. Nagyszerű az idős ember ügyessége! <!-- TODO: Fallback translation -->
+Egeszt egy idős ember egy másik faluba ment, és útközben elfáradt. Pihenni szeretett volna, így a út szélén álló mangafafa tövéhez ment. Ezen a fán érett gyümölcsök lógtak. Az idős ember vágyott rájuk, de nem tudta megmászni a fát, hogy leplükálja őket. Szerencsére néhány majom volt a fán, akik gyümölcsöket ettek. Amikor az idős ember ezt látta, örült neki. Mit tett? Néhány követ vett, célzott a majmokra és eldobta őket. A majmok dühbe gurultak, leplükáltak néhány gyümölcsöt és eldobták azokat az idős emberre. Az idős ember örömmel vette a gyümölcsöket és továbbment az útján. Nagyszerű az idős ember ügyessége!
 
 ::: media
 ![](/images/uebung054.webp)

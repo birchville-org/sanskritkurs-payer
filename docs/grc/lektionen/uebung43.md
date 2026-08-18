@@ -115,7 +115,7 @@ last_reconstructed: 2026-05-15
 Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Imaginis fontis: [Details](/licenses#uebung071))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Sermon (⟪संवादः⟫)
 

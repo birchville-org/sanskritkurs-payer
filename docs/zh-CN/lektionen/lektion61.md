@@ -763,35 +763,3 @@ sig[⟪ॐ⟫]
 梵语课程结束
 :::
 
-::: deleteme-box
-
-**lekt6102:** [图片来源：世界银行 / 柯特·卡内马克。-- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/)。-- 访问日期：2009-03-06。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt6106:** ⟪काशीपुर⟫ [图片来源：Sumit。-- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]]
-
-**lekt6107:** ⟪जोधपुर⟫ [图片来源：thebigdurian。-- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
-
-**lekt6104:** 卡纳塔克邦 = ಕರ್ನಾಟಕ [图片来源：Jessica Rabbit's Flickr。-- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/)。-- 访问日期：2009-03-08。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt6105:** ⟪हरिद्वार⟫ [图片来源：Naresh Dhiman。-- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/)。-- 访问日期：2009-03-08。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de)（署名）]
-
-**lekt6103:** [图片来源：frisse82。-- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/)。-- 访问日期：2009-03-08。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc/2.0/deed.de)（署名，非商业性使用）]
-
-**lekt6109:** ⟪मुंबई⟫ [图片来源：FrogStarB。-- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/)。--- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt6110:** 卡利 [图片来源：Makwa。-- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt6111:** [图片来源：technicolorcavalry。-- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-sa/2.0/deed.de)（署名，相同方式共享）]
-
-**lekt6113:** 泰国 - เมืองไทย [图片来源：帆船“足迹：从现实到银幕”（罗恩靠岸）。-- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt6112:** 1845 - 1878年 哥本哈根大学印度东方语文学教授
-
-**lekt6114:** 圣十字巴西利卡，科钦 = കൊച്ചി [图片来源：monsieur paradis。-- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc/2.0/deed.de)（署名，非商业性使用）]
-
-**lekt6118:** [图片来源：mckaysavage。-- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de)（署名）]
-
-**lekt6117:** 阿帕塔尼族，阿鲁纳恰尔邦 [图片来源：ahinsajain。-- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de)（署名）]
-
-**lekt6101:** 哈莱比杜（ಹಳೆಬೀಡು），公元12/13世纪 [图片来源：Quadell / 维基百科。GNU自由文档许可证]
-:::

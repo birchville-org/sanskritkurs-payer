@@ -5,11 +5,11 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Luento 24
 
-## 24.1. Datiiivi (⟪चतुर्थी⟫ = "neljäs sijapääte") <!-- TODO: Fallback translation -->
+## 24.1. Datiiivi (⟪चतुर्थी⟫ = "neljäs sijapääte")
 
 ::: grammar-box
 **1. Toiminnan tarkoituksen tai aikomuksen ("jotta") ilmaisemiseksi infinitiivin (⟪तुमुन्⟫) sijaan voidaan käyttää substantiivia, jossa on kṛt-jänte, joka kuvaa toimintaa tai tilaa, datiiivissa (⟪चतुर्थी⟫ = "neljäs sijapääte").**
@@ -36,11 +36,11 @@ tai:
 ![](/images/lekt2404.webp)
 Kuva: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2404))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
-**2. Datiiivi (⟪चतुर्थी⟫) voi myös ilmaista täydennettävän tarkoituksen infinitiivin objektia:** <!-- TODO: Fallback translation -->
+**2. Datiiivi (⟪चतुर्थी⟫) voi myös ilmaista täydennettävän tarkoituksen infinitiivin objektia:**
 
 Esimerkki:
 
@@ -48,7 +48,7 @@ Esimerkki:
 ::: indent
 ⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Hän menee kylään hedelmien vuoksi = Hän menee noutamaan hedelmiä."
 :::
-**Samalla tavalla datiivi (⟪चतुर्थी⟫) ilmaisee asian tai toiminnan tarkoituksen:** <!-- TODO: Fallback translation -->
+**Samalla tavalla datiivi (⟪चतुर्थी⟫) ilmaisee asian tai toiminnan tarkoituksen:**
 
 Esimerkki:
 
@@ -60,11 +60,11 @@ Esimerkki:
 Kuv.: ⟪यज्ञायान्नम्⟫
 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] on perinteinen hindutapahtuma, joka järjestetään hindujen uudenvuoden juhlien yhteydessä kaikissa BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] -tempeleissä. Satoja kasvissyöjäruokia tarjotaan Bhagwan Swaminarayanille [સ્વામિનારાયણ] tällä päivänä.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2401))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
-**3. Datiivi (⟪चतुर्थी⟫) ilmaisee myös henkilön tai asian, jolle toiminnan kohde on tarkoitettu (epäsuora objekti; kysymys: kenelle?). (Huomaa kuitenkin kaksoisakkusatiiviset verbit (⟪द्वितीया⟫)!)** <!-- TODO: Fallback translation -->
+**3. Datiivi (⟪चतुर्थी⟫) ilmaisee myös henkilön tai asian, jolle toiminnan kohde on tarkoitettu (epäsuora objekti; kysymys: kenelle?). (Huomaa kuitenkin kaksoisakkusatiiviset verbit (⟪द्वितीया⟫)!)**
 
 Esimerkki:
 
@@ -77,7 +77,7 @@ Esimerkki:
 Kuva: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
 Raksha bandhania juhlitaan innolla ja ilolla kaikkialla Intiassa. Tämä juhla kiteyttää veljien ja sisarusten välisen ehdottoman rakkauden.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2402))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -97,12 +97,12 @@ Kuva: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "Rama (oikealla) istuu Hanumanin harteilla ja taistelee demonikuningas Ravanaa vastaan." n. 1820
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2403))
 :::
-Datiiivin muita käyttötapoja myöhemmin. <!-- TODO: Fallback translation -->
+Datiiivin muita käyttötapoja myöhemmin.
 
 ## 24.2. Datiiivin muodostus (⟪चतुर्थी⟫)
 
 ::: grammar-box
-**Säännölliset datiiivin päätteen ovat:** <!-- TODO: Fallback translation -->
+**Säännölliset datiiivin päätteen ovat:**
 
 * **yksikkö: -e ; vokaalipäätteiset feminiinivartalon muodot: -ai**
 * **monikko: datiivi ja ablatiivi ⟪पञ्चमी⟫: -bhyas**
@@ -126,7 +126,7 @@ Datiiivin muita käyttötapoja myöhemmin. <!-- TODO: Fallback translation -->
 | | maskuliini / neutri | feminiini |
 | :--- | :--- | :--- |
 | **datiivi yksikkö** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
-| **datiivi monikko** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ | <!-- TODO: Fallback translation -->
+| **datiivi monikko** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
 ### 24.2.3. Demonstrativpronomina
@@ -184,11 +184,11 @@ Esimerkki:
 :::
 ## 24.4. Sanalista
 
-⟪अलम्⟫ Adverbi: tarpeeksi, riittävästi, (jollekulle, jollekin) pystyvä; datiivissa: tarpeeksi jollekin, riittävästi jollekin, pystyvä; instrumentaalin kanssa: tarpeeksi jonkun kanssa, lopeta jostakin , esim. ⟪अलं⟫ ⟪क्रोधेन⟫ = "tarpeeksi vihasta = lopeta viha!" <!-- TODO: Fallback translation -->
+⟪अलम्⟫ Adverbi: tarpeeksi, riittävästi, (jollekulle, jollekin) pystyvä; datiivissa: tarpeeksi jollekin, riittävästi jollekin, pystyvä; instrumentaalin kanssa: tarpeeksi jonkun kanssa, lopeta jostakin , esim. ⟪अलं⟫ ⟪क्रोधेन⟫ = "tarpeeksi vihasta = lopeta viha!"
 
 Samalla tavalla kuin ⟪अलम्⟫ instrumentaalin kanssa käytetään:
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "tehty on vihan kanssa = lopeta viha!" <!-- TODO: Fallback translation -->
+⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "tehty on vihan kanssa = lopeta viha!"
 
 ⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : koristella
 
@@ -200,7 +200,7 @@ Samalla tavalla kuin ⟪अलम्⟫ instrumentaalin kanssa käytetään:
 Kuv.: ⟪अलंकारः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt2405))
 :::
-⟪हेतु⟫ m.: kannustin, aihe, syy, perusta; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ genetiivin tai yhdyssanan jälkiosan kanssa = "... vuoksi, takia" <!-- TODO: Fallback translation -->
+⟪हेतु⟫ m.: kannustin, aihe, syy, perusta; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ genetiivin tai yhdyssanan jälkiosan kanssa = "... vuoksi, takia"
 
 ⟪प्रतिमा⟫ f.: kuva, esikuva
 
@@ -210,24 +210,24 @@ Kuv.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt2406))
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : tapahtua, käydä, syntyä <!-- TODO: Fallback translation -->
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : tapahtua, käydä, syntyä
 
 Sanasta ⟪वृत्⟫:
 
 ::: indent
-⟪वृत्ति⟫ f.: käyttäytyminen, toiminta, elämäntapa <!-- TODO: Fallback translation -->
+⟪वृत्ति⟫ f.: käyttäytyminen, toiminta, elämäntapa
 
 ⟪वृत्त⟫ n.: käyttäytyminen
 :::
-⟪अभि⟫ prefiksi:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an <!-- TODO: Fallback translation -->
+⟪अभि⟫ prefiksi:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
 
-⟪नि⟫ prefiksi: alas, alaspäin, sisään, taaksepäin <!-- TODO: Fallback translation -->
+⟪नि⟫ prefiksi: alas, alaspäin, sisään, taaksepäin
 
 ⟪आ⟫ prepositio / postpositio: ennen ablatiivia tai akkusatiivin jälkeen: asti, saakka; ablatiivin kanssa: alusta, lähtien
 
-⟪अतस्⟫ Deklinoimaton: sieltä, sitten, siksi, tästä syystä (pronominalijäämä a- "tämä" + ablatiivipäätteellä -tas) <!-- TODO: Fallback translation -->
+⟪अतस्⟫ Deklinoimaton: sieltä, sitten, siksi, tästä syystä (pronominalijäämä a- "tämä" + ablatiivipäätteellä -tas)
 
-⟪अध्यक्ष⟫ m.: valvoja, osastopäällikkö; silminnäkijä <!-- TODO: Fallback translation -->
+⟪अध्यक्ष⟫ m.: valvoja, osastopäällikkö; silminnäkijä
 
 ⟪इन्द्रिय⟫ n.: voima, aistinelin
 
@@ -236,7 +236,7 @@ Sanasta ⟪वृत्⟫:
 siitä
 
 ::: indent
-⟪अपोह⟫ m.: kieltäminen (⟪अप⟫ + ⟪ऊह⟫) <!-- TODO: Fallback translation -->
+⟪अपोह⟫ m.: kieltäminen (⟪अप⟫ + ⟪ऊह⟫)
 
 ⟪ऊहापोह⟫ m.: puolesta ja vastaan -keskustelu
 :::
@@ -248,9 +248,9 @@ Kuv: ⟪ऊहापोहः⟫
 :::
 ⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : hyödyllinen
 
-⟪कुप्य⟫ n.: metsäntuote, metalli (ei jalometalli) <!-- TODO: Fallback translation -->
+⟪कुप्य⟫ n.: metsäntuote, metalli (ei jalometalli)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : nähdä, tulla näkyväksi; nimetä, selittää, ilmoittaa <!-- TODO: Fallback translation -->
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : nähdä, tulla näkyväksi; nimetä, selittää, ilmoittaa
 
 ::: indent
 ⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : kertoa
@@ -273,11 +273,11 @@ siitä:
 
 ⟪संख्या⟫ f.: laskeminen, luettelo; ⟪सांख्य⟫ n.: yksi kuudesta filosofisesta järjestelmästä (lyhyesti: Basham, Wonder s. 326f.)
 :::
-⟪ग्रहण⟫ n.: tarttuminen <!-- TODO: Fallback translation -->
+⟪ग्रहण⟫ n.: tarttuminen
 
 ⟪चौल⟫ n.: seremonia (⟪संस्कार⟫) hiusten leikkaamisesta (kolmen vuoden iässä)
 
-⟪तत्त्व⟫ n.: todellinen olento, totuus, todellisuus (⟪तद्⟫ + ⟪त्व⟫ = tämä-heit) <!-- TODO: Fallback translation -->
+⟪तत्त्व⟫ n.: todellinen olento, totuus, todellisuus (⟪तद्⟫ + ⟪त्व⟫ = tämä-heit)
 
 ⟪स्वस्ति⟫ f.: onni, pelastus (nominaalijohdos sanasta ⟪सु⟫ ⟪अस्ति⟫ = "se on hyvää")
 
@@ -298,11 +298,11 @@ Käsikirjoitus teoksesta ⟪गीतगोविन्द⟫, 1730 jaa.
 
 ⟪तृण⟫ n.: heinäntiehyt
 
-⟪पुनर्⟫ adverb: jälleen, uudelleen, takaisin, mutta <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ adverb: jälleen, uudelleen, takaisin, mutta
 
 ## 24.5. Harjoitus
 
-A) Muodosta datiivin yksikkö ja datiivi/(ablatiivin) monikko sekä anna substantiivijalan merkitys: <!-- TODO: Fallback translation -->
+A) Muodosta datiivin yksikkö ja datiivi/(ablatiivin) monikko sekä anna substantiivijalan merkitys:
 
 1.  ⟪श्रव⟫
 2.  ⟪भवन⟫
@@ -334,7 +334,7 @@ A) Muodosta datiivin yksikkö ja datiivi/(ablatiivin) monikko sekä anna substan
 28.  ⟪दासी⟫
 29.  ⟪गुरु⟫
 
-B) Käännä ja ratkaise sanskritinkieliset yhdyssanat: <!-- TODO: Fallback translation -->
+B) Käännä ja ratkaise sanskritinkieliset yhdyssanat:
 
 ⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥१॥⟫
 
@@ -354,21 +354,21 @@ B) Käännä ja ratkaise sanskritinkieliset yhdyssanat: <!-- TODO: Fallback tran
 
 ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫
 
-C) Toista lauseet A) 1–4 sanskritiksi korvaamalla daativit infinitiiveillä (⟪तुमुन्⟫). Huomaa, että infinitiivi hallitsee samaa sijamuotoa kuin vastaava verbi. <!-- TODO: Fallback translation -->
+C) Toista lauseet A) 1–4 sanskritiksi korvaamalla daativit infinitiiveillä (⟪तुमुन्⟫). Huomaa, että infinitiivi hallitsee samaa sijamuotoa kuin vastaava verbi.
 
-D) Korvaa lauseessa A) 7 rakenteen -⟪अर्थ⟫ sisältävä muoto vastaavalla daativilla. <!-- TODO: Fallback translation -->
+D) Korvaa lauseessa A) 7 rakenteen -⟪अर्थ⟫ sisältävä muoto vastaavalla daativilla.
 
 E) Korvaa lauseessa A) 6 daatiivilauseke vastaavalla rakenteella, jossa käytetään -⟪अर्थ⟫
 
-## 24.6. Lisäharjoituksia daativin käytöstä <!-- TODO: Fallback translation -->
+## 24.6. Lisäharjoituksia daativin käytöstä
 
 Käännä sanskritiksi:
 
 1\. Jumalatar, jolle ei ole uhrattu, vihastuu ihmisiin.
 
-2\. Hän päästää lehmän kylään. <!-- TODO: Fallback translation -->
+2\. Hän päästää lehmän kylään.
 
-3\. Nyt riittää = kärsivällisyys loppui. <!-- TODO: Fallback translation -->
+3\. Nyt riittää = kärsivällisyys loppui.
 
 4\. Se on hyvä (⟪हित⟫, ⟪सुख⟫) brahmanille.
 
@@ -379,15 +379,15 @@ Käännä sanskritiksi:
 Kuva: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2409))
 :::
-6\. Näkemiin! (= Hyvää menoa (⟪स्वस्ति⟩ f.) teille!) <!-- TODO: Fallback translation -->
+6\. Näkemiin! (= Hyvää menoa (⟪स्वस्ति⟩ f.) teille!)
 
-7\. Tämä hedelmä riittää ruoaksi. <!-- TODO: Fallback translation -->
+7\. Tämä hedelmä riittää ruoaksi.
 
 8\. Taistelija on toista taistelijaa vastaan (⟪शक्त⟫).
 
 9\. Vaikka Viṣṇu ylittääkin (⟪प्र⟫-⟪भू⟩ + datiivi), Śiva ei ole suurempi.
 
-10\. Kun olen kumartanut kolmen viisaan (akkusatiivi) edessä (⟪नमस्कृ⟩)... Hän kumartaa Narasiṃhan (datiivi) edessä. <!-- TODO: Fallback translation -->
+10\. Kun olen kumartanut kolmen viisaan (akkusatiivi) edessä (⟪नमस्कृ⟩)... Hän kumartaa Narasiṃhan (datiivi) edessä.
 
 ::: indent
 Selitys: ⟪मुनित्रयम्⟩ "viisaiden kolminaisuus = kolme viisasta" = grammatikot ⟪पाणिनि⟩, ⟪कात्यायन⟩, ⟪पतञ्जलि⟩
@@ -400,36 +400,11 @@ Kuva: ⟪नरो⟩ ⟪नरसिंहाय⟩ ⟪नमस्करोत
 :::
 11\. Tervetuloa (⟪स्वागतम्⟩) teille. Tervetuloa kuningattarelle.
 
-12\. Toivon sinulle hyvinvointia (⟪कुशल⟫) = hyvinvointia sinulle! <!-- TODO: Fallback translation -->
+12\. Toivon sinulle hyvinvointia (⟪कुशल⟫) = hyvinvointia sinulle!
 
-13\. Hän pitää häntä heinänsuikaleena. <!-- TODO: Fallback translation -->
+13\. Hän pitää häntä heinänsuikaleena.
 
-14\. Yksi hedelmä riittää ruoaksi ja vesi juotavaksi. <!-- TODO: Fallback translation -->
+14\. Yksi hedelmä riittää ruoaksi ja vesi juotavaksi.
 
 15⟪१५⟫. Nähdään myöhemmin! (uussanskri: ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] on perinteinen hindutapahtuma, joka järjestetään hindujen uudenvuoden juhlallisuuksissa kaikilla BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandireilla. Satoja kasvissyöjäruokia tarjotaan Bhagwan Swaminarayanille [સ્વામિનારાયણ] tänä päivänä. [Kuvälähde: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Haettu 2008-12-14. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
-
-**lekt2402:** Raksha bandhania vietetään innolla ja ilolla kaikkialla Intiassa. Tämä juhla on veljien ja sisarten ehdottoman rakkauden ilmentymä. [Kuvälähde: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Haettu 2008-12-14. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
-
-**lekt2403:** "Rama (oikealla) istuu Hanumanin harteilla ja taistelee demonikuningas Ravanaa vastaan." n. 1820 [Kuvälähde: Wikipedia, yleinen omaisuus] <!-- TODO: Fallback translation -->
-
-**lekt2404:** [Kuvälähde: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Haettu 2008-12-14. -- Creative Commons -lisenssi (Nimeäminen, ei muunnoksia)] <!-- TODO: Fallback translation -->
-
-**lekt2405:** [Kuv lähde: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Pääsy 14. joulukuuta 2008. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Kuv lähde: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Pääsy 14. joulukuuta 2008. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
-
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, CNN-IBN-verkoston 18 apulainen ulkoasiatoimittaja, Intia, moderoi paneelikeskustelua World Economic Forumin Intian talouskokouksessa 2008 New Delhissä." [Kuv lähde: World Economic Forum / Kuva Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Pääsy 14. joulukuuta 2008. -- Creative Commons -lisenssi (Nimittäminen, sama lisenssi)]
-
-**lekt2408:** "San Franciscon tarinankertoja Jeff Byers jakaa tarinan Chennerin asukkaiden kanssa, Irula-kylä. Tarinankertoja Jeeva Raghunath kääntää tarinan tamiliksi kyläläisille." [Kuv lähde: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Pääsy 14. joulukuuta 2008. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä)] <!-- TODO: Fallback translation -->
-
-**lekt2409:** [Kuv lähde: Redtigerxyz / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt2410:** ⟪नरसिंह⟫ repii ⟪हिरण्यकशिपु⟫, lehti ⟪भागवतपुराण⟫ käsikirjoituksesta [Kuv lähde: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt2411:** ⟪गीतगोविन्द⟫ käsikirjoitus, 1730 jaa. [Kuv lähde: Wikipedia, Public domain]
-:::
- <!-- TODO: Fallback translation -->

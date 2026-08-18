@@ -31,7 +31,7 @@ Prima di -vas e -vahe, la vocale tematica -a- viene sostituita da -ā-.
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \&lt;⟪भवावहे⟫\&gt; |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \&lt;⟪भवेथे⟫\&gt;:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \&lt;⟪भवेते⟫\&gt; | &lt;!-- TODO: Fallback translation --&gt;
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \&lt;⟪भवेते⟫\&gt; | &lt;!--  --&gt;
 
 ### 58.2.2. Quarta classe del presente (⟪दिवादिगणः⟫)
 
@@ -458,16 +458,3 @@ B) Tradurre e determinare le seguenti forme:
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [Fonte dell'immagine: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Accesso il 2009-03-02. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.it) (Attribuzione)]
-
-**lekt5803:** Parco Nazionale di Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [Fonte dell'immagine: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- Accesso il 2009-03-02. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.it) (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [Fonte dell'immagine: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Accesso il 2009-03-02. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.it) (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-:::

@@ -6,7 +6,7 @@ status: stable
 
 # Lectio 33
 
-## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.) <!-- TODO: Fallback translation -->
+## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
 
 * Tertia classis praesentis
 * (simul verba quaedam aliarum classium praesentis),
@@ -19,7 +19,7 @@ fiunt per reduplicationem. Pars formae reduplicatae, quae ante radicem ponitur, 
 
 Syllaba reduplicativa ex consonante (et) vocali constat.
 
-### 33.1.1. Der Reduplikationskonsonant <!-- TODO: Fallback translation -->
+### 33.1.1. Der Reduplikationskonsonant
 
 ::: grammar-box
 **1. Communiter:**  
@@ -76,7 +76,7 @@ Exemplum:
 **⟪स्था⟫** 1 "stare"
 * 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
 :::
-## 33.2. Tertia classis praesentis (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.") <!-- TODO: Fallback translation -->
+## 33.2. Tertia classis praesentis (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.")
 
 ::: grammar-box
 **Educatio:**
@@ -110,14 +110,14 @@ Exempla:
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. Zum Ablaut von ā <!-- TODO: Fallback translation -->
+## 33.3. Zum Ablaut von ā
 
 ā kann
 
 * ex una parte gradus productus unius series consonanticae cum -a- esse possit
 * ex altera parte gradus productus in una serie apophonicae classis ā esse possit
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 ::: grammar-box
 **A.**
@@ -170,7 +170,7 @@ Exempla:
 | **Imperfectum** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativus** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Radices **⟪दा⟫** et **:sig[⟪धा⟫]** <!-- TODO: Fallback translation -->
+### 33.4.1. Radices **⟪दा⟫** et **:sig[⟪धा⟫]**
 
 ::: grammar-box
 **Radices ⟪दा⟫ et :sig[⟪धा⟫] reduplicantur vocali -a- et in stemmate infirmiori vocalem radicalis amittunt.**
@@ -178,7 +178,7 @@ Exempla:
 **Notate bei :sig[⟪धा⟫] das Hauchdissimilationsgesetz!**
 :::
 ::: grammar-box
-**:sig[⟪धा⟫]** 3U "setzen, festsetzen, zuteilen" <!-- TODO: Fallback translation -->
+**:sig[⟪धा⟫]** 3U "setzen, festsetzen, zuteilen"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Exempla:
 | **Imperfectum** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativus** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Formae **⟪दा⟫** obtinentur, cum in paradigma **:sig[⟪धा⟫]** **dh** per **d** mutatur. Ita: <!-- TODO: Fallback translation -->
+Formae **⟪दा⟫** obtinentur, cum in paradigma **:sig[⟪धा⟫]** **dh** per **d** mutatur. Ita:
 
 ::: grammar-box
 **⟪दा⟫** 3U "dare"
@@ -417,17 +417,3 @@ Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-::: deleteme-box
-
-**Definitio et de Ghee:**
-* Fons: http://en.wikipedia.org/wiki/Ghee (accessus: 2008-12-26)
-
-**Tabula imaginum & Licentiae:**
-* **Imago lekt3306 (nuptiarum comitatus, Chennai):** Fons imaginis: http://www.pbase.com/chandra/image/62118318 (accessus die 2008-12-27). Licentia Creative Commons (nominatio, usus non commercialis, share alike).
-* **Imago lekt3307 (portator Udaipur):** Fons imaginis: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, accessus die 2008-12-27). Licentia Creative Commons (nominatio, usus non commercialis, nulla modificatio).
-* **Imago lekt3305 (Samadhi yogini, Kaveripakkam):** Fons imaginis: Quadell / Wikipedia (GNU FDLicense).
-* **Imago lekt3304 (bhaya portator, Mumbai):** Fons imaginis: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, accessus die 2008-12-26). Licentia Creative Commons (nominatio).
-* **Imago lekt3303 (Hinayana Thailand):** Fons imaginis: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, accessus die 2008-12-26). Licentia Creative Commons (nominatio, usus non commercialis).
-* **Imago lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Fons imaginis: Dey (http://www.flickr.com/photos/dey/466758922/, accessus die 2008-12-26). Licentia Creative Commons (nominatio, usus non commercialis, share alike).
-* **Imago lekt3308 (portatrix mulier, Delhi):** Fons imaginis: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, accessus die 2008-12-27). Licentia Creative Commons (nominatio, usus non commercialis, nulla modificatio).
-:::

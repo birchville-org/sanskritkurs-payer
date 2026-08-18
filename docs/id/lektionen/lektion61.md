@@ -1,25 +1,26 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: "Pelajaran 61"
+subtitle: "Deklinasi kata benda akar yang berakhir dengan -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 61
 
-## 61.1. Deklination  Akarnomina auf -ā, -ī, -ū
+## 61.1. Deklinasi Nomina Akar Berakhiran -ā, -ī, -ū
 
-### 61.1.1. Kata benda akar berakhiran -ā di akhir ⟪तत्पुरुष⟫
+### 61.1.1. Nomina Akar Berakhiran -ā di Akhir ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Sebelum akhiran vokal, vokaal akar dalam kasus lemah memiliki derajat-nol Ø.**
+**Sebelum akhiran vokal, vokal akar dalam kasus-kasus lemah mengalami tahap lenyap Ø.**
 
-**Deklinasi pada maskulin dan feminin adalah identik.**
+**Deklinsi dalam Maskulin dan Feminin adalah identik.**
 :::
 Paradigma:
 
-⟪विश्वपा⟫ m.f. "protecting the all"
+⟪विश्वपा⟫ m.f. "melindungi segala sesuatu"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -31,16 +32,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Akarnomina auf -ī
+### 61.1.2. Nomina Akar Feminin Berakhiran -ī
 
 ::: grammar-box
-**Vor vokalischer Akhiran wird -ī durch -iy ersetzt.**
+**Sebelum akhiran vokal, -ī diganti dengan -iy.**
 
-**Selain pembentukan dengan akhiran kasus reguler, pembentukan yang mengikuti pola kata benda feminin multisuku kata dalam -ī (⟪देवी⟫) juga terjadi pada Dat.Ab.Gen.Loc.sg. dan Gen.pl.**
+**Selain pembentukan dengan akhiran kasus reguler, dalam Dat.Ab.Gen.Lok.sg. dan Gen.pl. juga terdapat pembentukan sesuai pola feminin multisilaba berakhiran -ī (⟪देवी⟫).**
 :::
 Paradigma:
 
-⟪धी⟫ f. "thought"
+⟪धी⟫ f. "pikiran"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -95,7 +96,7 @@ Paradigms:
 | ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
 | ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
 
-⟪यवक्री⟫ m., f. "Buying barley"
+⟪यवक्री⟫ m., f. "membeli jelai"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -107,16 +108,16 @@ Paradigms:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Akarnomina auf -ū
+### 61.1.4. Nomina akar feminin bersuku satu pada -ū
 
 ::: grammar-box
-**Stem before vowel: -uv**
+**Stem sebelum vokal: -uv**
 
-**Deklination analog zu den femininen Akarnomina auf -ī**
+**Deklinasi analog dengan nomina akar feminin pada -ī**
 :::
 Paradigma:
 
-⟪भू⟫ f. "Earth"
+⟪भू⟫ f. "bumi"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -128,16 +129,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Kata benda akar berakhiran -ū di akhir ⟪तत्पुरुष⟫
+### 61.1.5. Nomina akar pada -ū di akhir ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Before vocal endings, -ū is replaced by -v if it is preceded only by a consonant belonging to the root. If several consonants belonging to the root precede, the -ū before a vocal ending is replaced by -uv.**
+**Sebelum akhiran vokal, -ū diganti dengan -v jika hanya diikuti oleh konsonan yang berasal dari akar. Jika beberapa konsonan yang berasal dari akar mendahuluinya, maka -ū sebelum akhiran vokal diganti dengan -uv.**
 
-**Pembentukan kata sifat (declension) sama untuk jenis kelamin maskulin dan feminin.**
+**Deklinasi pada maskulin dan feminin adalah identik.**
 :::
 Paradigma:
 
-⟪खलपू⟫ m., f. "one who sweeps the barn"
+⟪खलपू⟫ m., f. "membersihkan lumbung"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -151,18 +152,17 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6106.webp)
-Fig.: ⟪रथ्याप्वः⟫
-⟪काशीपुर⟫
-(Image source: [Detail](/en/licenses#lekt6106))
+Gambar: ⟪रथ्याप्वः काशीपुर⟫
+(Sumber gambar: [Details](/id/licenses#lekt6106))
 :::
-### 61.1.6. Deklination mehrsilbiger Feminina auf -ū
+### 61.1.6. Deklinasi feminin multi-suku kata berakhiran -ū
 
 ::: grammar-box
-**Kata benda feminin multisilabik yang berakhiran -ū dideklinasikan secara analogis dengan kata benda multisilabik yang berakhiran -ī (⟪देवी⟫), namun mereka berakhir dengan -s pada Nom. sg.**
+**Feminin multi-suku kata berakhiran -ū dideklinasi secara analog dengan batang feminin multi-suku kata berakhiran -ī (⟪देवी⟫), namun mereka berakhir dengan -s dalam Nom. sg.**
 :::
 Paradigma:
 
-⟪वधू⟫ f. "young woman, bride"
+⟪वधू⟫ f. "wanita muda, pengantin"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -177,18 +177,17 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6107.webp)
-Gbr.: ⟪वध्वौ⟫
-⟪जोधपुर⟫
-(Sumber gambar: [Detail](/en/licenses#lekt6107))
+Gambar: ⟪वध्वौ जोधपुर⟫
+(Sumber gambar: [Details](/id/licenses#lekt6107))
 :::
-## 61.2. Futurum Perifrastis (⟪लुट्⟫)
+## 61.2. Masa depan periphrastis (⟪लुट्⟫)
 
 ::: grammar-box
-**Selain masa depan sederhana (⟪ऌत्⟫), terdapat masa depan periphrastik (⟪लुट्⟫). Menurut ajaran para gramatikus asli, masa depan periphrastik digunakan untuk menyatakan masa depan yang jauh ("setelah hari ini"), sedangkan masa depan sederhana menyatakan masa depan yang dekat ("pada hari ini"). Dalam Sanskrit Klasik, tampaknya tidak ada perbedaan dalam penggunaan kedua bentuk masa depan tersebut yang biasanya dibuat.**
+**Selain masa depan sederhana (⟪ऌत्⟫), terdapat juga masa depan periphrastis (⟪लुट्⟫). Menurut ajaran para grammatikus pribumi, masa depan periphrastis digunakan untuk menunjukkan masa depan yang jauh ("setelah hari berjalan"), sedangkan masa depan sederhana menunjukkan masa depan dekat ("pada hari berjalan"). Dalam Sanskrit klasik, tampaknya umumnya tidak ada perbedaan dalam penggunaan kedua bentuk masa depan ini.**
 
-**Formation:**
+**Pembentukan:**
 
-**Masa depan periphrastik dibentuk dengan menghubungkan agen nominal dalam -tṛ dengan bentuk waktu sekarang dari ⟪अस्⟫ 2. Sebagai orang ketiga, kata benda sederhana berfungsi dalam jumlah yang sesuai, tanpa perbedaan jenis kelamin gramatikal. Dalam kombinasi dengan ⟪अस्⟫, kata benda dalam semua orang dan jumlah memiliki bentuk nominatif tunggal dalam -tā.**
+**Masa depan periphrastis dibentuk dengan menghubungkan nomen agentif berakhiran -tṛ dengan bentuk present dari ⟪अस्⟫ 2. Sebagai orang ketiga, digunakan nomen sederhana dalam bilangan yang sesuai, tanpa perbedaan jenis kelamin tata bahasa. Dalam kombinasi dengan ⟪अस्⟫, nomen tersebut dalam semua orang dan bilangan memiliki bentuk Nom.sg. berakhiran -tā.**
 :::
 Akhiran masa depan periphrastik adalah sebagai berikut:
 
@@ -621,20 +620,20 @@ Santa Cruz Basilica, Kochi = കൊച്ചി
 Contoh:
 
 ::: indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Jika hujan turun dengan baik (atau akan turun), maka akan ada makanan yang melimpah. (Tetapi hujan tidak cukup.)"
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Seandainya hujan telah turun dengan baik (atau akan turun), maka makanan akan melimpah. (Namun, hujan tidak turun dengan cukup.)"
 :::
 ::: grammar-box
 **Pembentukan Kondisional (⟪ऌङ्⟫):**
 
-**Augment + stem of the simple future (⟪ऌत्⟫) + secondary ending**
+**Augment + akar dari Futurum Sederhana (⟪ऌत्⟫) + Akhiran Sekunder**
 
-i.e., like an Imperfect (⟪लङ्⟫) to the future stem.
+yaitu seperti Imperfektum (⟪लङ्⟫) terhadap akar Futur.
 
-e.g., ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
+mis. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
 :::
-Paradigm:
+Paradigma:
 
-⟪भू⟫ "to be, to become"
+⟪भू⟫ "menjadi, ada"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -644,26 +643,26 @@ Paradigm:
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Deklination  Nomina auf -ai, -o, -au
+## 61.7. Deklinasi Kata Benda Berakhiran -ai, -o, -au
 
 ::: grammar-box
-**Before consonants, these stems end in -ai, -o, -au; before consonants in -āy, -av, -āv**
+**Sebelum konsonan, akar kata ini berakhir dengan -ai, -o, -au; sebelum vokal berakhir dengan -āy, -av, -āv**
 
-**⟪गो⟫ m.f. "ox, cow" exhibits stem gradation.** See the detailed explanation in Thumb-Hauschild § 296/7.
+**⟪गो⟩ m.f. "kerbau, sapi" memiliki variasi akar.** Lihat penjelasan rinci pada Thumb-Hauschild § 296/7.
 :::
-Paradigms: Kielhorn, Grammar § 153:
+Paradigma: Kielhorn, Grammatik § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
-(Image source: [Detail](/en/licenses#lekt6115))
+(Sumber gambar: [Details](/id/licenses#lekt6115))
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
-Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Image source: [Detail](/en/licenses#lekt6118))
+Ilm.: ⟪हरिद्वारे गावः ॥⟫
+(Sumber gambar: [Details](/id/licenses#lekt6118))
 :::
-## 61.8. Restliche Pronomina
+## 61.8. Sisa Kata Ganti
 
 ### 61.8.1. Personalpronomen  Dual
 
@@ -766,36 +765,7 @@ Ofterdingen, 2009-03-09
 END OF THE SANSKRIT COURSE
 :::
 
-::: deleteme-box
+⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
-**lekt6102:** [Image source: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Accessed on 2009-03-06. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
+C) Transform the sentences from Exercise B) by replacing perfect forms with imperfect forms.
 
-**lekt6106:** ⟪काशीपुर⟫ [Image source: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]]
-
-**lekt6107:** ⟪जोधपुर⟫ [Image source: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Image source: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Accessed on 2009-03-08. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Image source: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Accessed on 2009-03-08. --  [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt6103:** [Image source: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Accessed on 2009-03-08. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribution, non-commercial use)]
-
-**lekt6109:** ⟪मुंबई⟫ [Image source: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt6110:** Karli [Image source: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt6111:** [Image source: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribution, share alike)]
-
-**lekt6113:** Thailand - เมืองไทย [Image source: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt6112:** 1845 - 1878 Profesor Filologi Indologis dan Oriental di Universitas Kopenhagen
-
-**lekt6114:** Santa Cruz Basilica, Kochi = കൊച്ചി [Image source: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribution, non-commercial use)]
-
-**lekt6118:** [Image source: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt6117:** Apatani people, Arunachal Pradesh [Image source: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), 12th/13th century CE [Image source: Quadell / Wikipedia. GNU FDL License]
-
-:::

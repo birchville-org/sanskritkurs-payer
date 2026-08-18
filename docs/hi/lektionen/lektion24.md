@@ -1,6 +1,6 @@
 ---
 title: "पाठ 24"
-subtitle: 'संप्रदान कारक (⟪चतुर्थी⟫ = "चतुर्थ विभक्ति प्रत्यय")'
+subtitle: 'डेटिव (⟪⟪चतुर्थी⟫⟫ = "चतुर्थ विभक्ति")'
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -406,27 +406,3 @@ E) वाक्य A) 6 में डेटिव संरचना को -⟪
 
 15⟪⟪१५⟫⟫। फिर मिलेंगे! (नए संस्कृत: ⟪⟪पुनर्दर्शनाय⟫⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'अन्नकुट' [⟪⟪अन्नकूट⟫⟫ = ⟪⟪गोवर्धन⟫⟫ ⟪⟪पूजा⟫⟫] एक पारंपरिक हिंदू कार्यक्रम है जो सभी BAPS [बोचानासवासी अक्षर पुरुषोत्तम स्वामीनारायण संस्था = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] मंदिरों में हिंदू नव वर्ष के उत्सव के दौरान होता है। इस दिन भगवान स्वामीनारायण [स्वामीनारायण] को सैकड़ों शाकाहारी व्यंजन अर्पित किए जाते हैं। [चित्र स्रोत: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- 2008-12-14 को पहुँचा गया। -- क्रिएटिव कॉमन्स लाइसेंस (नामांकन, गैर-वाणिज्यिक उपयोग)]
-
-**lekt2402:** रक्षाबंधन पूरे भारत में उत्साह और खुशी के साथ मनाया जाता है। यह त्योहार भाइयों और बहनों के बीच निःशर्क प्रेम का प्रतिनिधित्व करता है। [चित्र स्रोत: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- 2008-12-14 को पहुँचा गया। -- क्रिएटिव कॉमन्स लाइसेंस (नामांकन, गैर-वाणिज्यिक उपयोग, समान-साझा)]
-
-**lekt2403:** "राम (दाहिने) हनुमान के कंधों पर बैठे, राक्षस-राज रavana से युद्ध करते हैं।" ca 1820 [चित्रस्रोत: विकिपीडिया, सार्वजनिक क्षेत्र]
-
-**lekt2404:** [चित्रस्रोत: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- 2008-12-14 को प्राप्त। -- Creative Commons लाइसेंस (नाम देना, कोई संशोधन नहीं)]
-
-**lekt2405:** [चित्रस्रोत: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- 2008-12-14 को प्राप्त। -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक उपयोग नहीं, कोई संशोधन नहीं)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [चित्रस्रोत: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- 2008-12-14 को प्राप्त। -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक उपयोग)]
-
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [चित्रस्रोत: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- 2008-12-14 को प्राप्त। -- Creative Commons लाइसेंस (नाम देना, share alike)]
-
-**lekt2408:** "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers." [चित्रस्रोत: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- 2008-12-14 को प्राप्त। -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक उपयोग)]
-
-**lekt2409:** [चित्रस्रोत: Redtigerxyz / विकिपीडिया, GNU FDLicense]
-
-**lekt2410:** ⟪⟪नरसिंह⟫⟫ zerfleischt ⟪⟪हिरण्यकशिपु⟫⟫, Blatt aus einem Manuskript des ⟪⟪भागवतपुराण⟫⟫ [चित्रस्रोत: विकिपीडिया, सार्वजनिक क्षेत्र]
-
-**lekt2411:** Manuskript des ⟪⟪गीतगोविन्द⟫⟫, 1730 n. Chr. [चित्रस्रोत: विकिपीडिया, सार्वजनिक क्षेत्र]
-:::

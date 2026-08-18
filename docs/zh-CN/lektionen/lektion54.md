@@ -286,11 +286,3 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 （图片来源：[详情](/zh-CN/licenses#lekt5401)）
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ 蒂鲁帕蒂 = తిరుపతి [图片来源：Raji Srinivas / 维基百科。GNU FDLicense]
-
-**lekt5401:** 泰米尔纳德邦 [图片来源：driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/)。-- 访问于 2009-01-28。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
-
-:::
-

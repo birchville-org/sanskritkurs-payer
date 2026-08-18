@@ -13,7 +13,7 @@ status: stable
 
 ### 45.1.1. ϯⲙⲁϩ ϣⲟⲙⲧ ⲧⲁⲝⲓⲥ ⲛ̀ⲧⲉ ⲡ̀ⲧⲉⲗⲉⲓⲟⲛ (⟪जुहोत्यादि⟫)
 
-⟪हु⟫ 3P <!-- TODO: Fallback translation -->
+⟪हु⟫ 3P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -23,7 +23,7 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
 :::
-⟪धा⟫ 2U <!-- TODO: Fallback translation -->
+⟪धा⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -33,14 +33,14 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
-### 45.1.2. Siebte Präsensklasse (⟪रुधादि⟫) <!-- TODO: Fallback translation -->
+### 45.1.2. Siebte Präsensklasse (⟪रुधादि⟫)
 
 ::: grammar-box
-**Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen** <!-- TODO: Fallback translation -->
+**Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen**
 
-z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫***:sig[⟪ङ्ते⟫]*** <!-- TODO: Fallback translation -->
+z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫***:sig[⟪ङ्ते⟫]***
 :::
-⟪युज्⟫ 7U <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -50,7 +50,7 @@ z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ ode
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
 :::
-⟪रुध्⟫ 7U <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -63,11 +63,11 @@ z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ ode
 ## 45.2. Der Vokativ Singular (⟪आमन्त्रितमेकवचने⟫)
 
 ::: grammar-box
-**Die meisten Vokative des Singular sind der Stamm mit hochstufigem Auslaut.** <!-- TODO: Fallback translation -->
+**Die meisten Vokative des Singular sind der Stamm mit hochstufigem Auslaut.**
 
-z.B. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** u.s.w. <!-- TODO: Fallback translation -->
+z.B. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** u.s.w.
 
-**Ausnahmen sind die Feminina auf -ā und -ī sowie die Stämme auf -in, deren Vokativ sg. besonders zu merken ist.** <!-- TODO: Fallback translation -->
+**Ausnahmen sind die Feminina auf -ā und -ī sowie die Stämme auf -in, deren Vokativ sg. besonders zu merken ist.**
 :::
 ::: no-header
 | | Vokativ Singular |
@@ -96,42 +96,42 @@ z.B. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 ::: media
 ![](/images/lekt4501.webp)
 Abb.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
-(Bildquelle: [Details](/licenses#lekt4501)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4501))
 :::
 ## 45.3. Wortliste
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder <!-- TODO: Fallback translation -->
+⟪वा⟫ ... ⟪वा⟫ : entweder ... oder
 
 ## 45.4. Übung
 
-A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt \<⟪लङ्⟫\> verwenden): <!-- TODO: Fallback translation -->
+A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt \<⟪लङ्⟫\> verwenden):
 
-1\. Du spaltest die (buddhistische) Gemeinde. <!-- TODO: Fallback translation -->
+1\. Du spaltest die (buddhistische) Gemeinde.
 
 ::: indent
-zur Gemeindespaltung (⟪सङ्घभेद⟫) siehe: <!-- TODO: Fallback translation -->
+zur Gemeindespaltung (⟪सङ्घभेद⟫) siehe:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm) <!-- TODO: Fallback translation -->
+**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-2\. Habt ihr die Erde genossen? <!-- TODO: Fallback translation -->
+2\. Habt ihr die Erde genossen?
 
-3\. Hast du vom König eine Gabe empfangen? <!-- TODO: Fallback translation -->
+3\. Hast du vom König eine Gabe empfangen?
 
-4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren? <!-- TODO: Fallback translation -->
+4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren?
 
-5\. Vater, wohin verlässt du die Familie? <!-- TODO: Fallback translation -->
+5\. Vater, wohin verlässt du die Familie?
 
-6\. Śūdrafrau, hast du die Last ins Haus des reichen Brahmanen getragen? <!-- TODO: Fallback translation -->
+6\. Śūdrafrau, hast du die Last ins Haus des reichen Brahmanen getragen?
 
-7\. Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen. <!-- TODO: Fallback translation -->
+7\. Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen.
 
-8\. Elefanten, ihr solltet die Fesseln nicht zerbrechen. <!-- TODO: Fallback translation -->
+8\. Elefanten, ihr solltet die Fesseln nicht zerbrechen.
 
-9\. Du löwengleicher Mann, warum richtest du nicht deine ganze Aufmerksamkeit auf das Absolute (Brahman)? <!-- TODO: Fallback translation -->
+9\. Du löwengleicher Mann, warum richtest du nicht deine ganze Aufmerksamkeit auf das Absolute (Brahman)?
 
-10\. Hast du, Dichter, die Welten gemessen? <!-- TODO: Fallback translation -->
+10\. Hast du, Dichter, die Welten gemessen?
 
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie:
 
 ⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥१॥⟫
 
@@ -144,13 +144,6 @@ B) Übersetzen Sie: <!-- TODO: Fallback translation -->
 ::: media
 ![](/images/lekt4502.jpg)
 Abb.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
-(Bildquelle: [Details](/licenses#lekt4502)) <!-- TODO: Fallback translation -->
-:::
-
-::: deleteme-box
-
-**lekt4501.jpg**: Textil-Blockdruck, Ahmedabad. -- Bildquelle: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
-
-**lekt4502.jpg**: Bildquelle: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4502))
 :::
 

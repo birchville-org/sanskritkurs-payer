@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecziun 59
 
@@ -674,7 +674,7 @@ Imperativ (⟪लोट्⟫)
 
 **Augment + hochstufige Radis + s + i + ṣ + athematische Sekundärendung (wie iṣ-Aorist)**
 :::
-Stammbildungssuffix + Endungen des siṣ-Aorist lauten also: <!-- TODO: Fallback translation -->
+Stammbildungssuffix + Endungen des siṣ-Aorist lauten also:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |||
@@ -703,7 +703,7 @@ Paradigma:
 
 **Educaziun:**
 
-**Augment + tiefstufige Radis + s + a + thematische Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + tiefstufige Radis + s + a + thematische Sekundärendung**
 
 **La 1.sg.2.3.du.ġ vegnan dal s-aorist, cunzègnidamain formati senza tema.**
 :::
@@ -782,12 +782,5 @@ _Agida per la traductiun:_ Vers 6: ⟪दिदृक्षते⟫ \= Desidera
 ![](/images/lekt5901.webp)
 (Fontana da l'immagiun: [Detagls](/rm/licenses#lekt5901))
 :::
-Text da: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127ss. <!-- TODO: Fallback translation -->
+Text da: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127ss.
 
-::: deleteme-box
-
-**lekt5902:** [Quella da l'imagines: Henryart/Wikipedia. Dominio public]
-
-**lekt5903:** Kecak-danz, Bali (Indonesien) [surs da l'imagia: Flying Pharmacist / Wikipedia. [Licenza da Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (numnament, share alike)]
-
-:::

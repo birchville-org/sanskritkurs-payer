@@ -42,7 +42,7 @@ status: stable
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > κτλ.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
 :::
 ## 15.3. Προσδιοριστικὰ σύνθετα μετὰ ἐπιθετικοῦ / παραθετικοῦ πρώτου μέλους = Karmadhāraya ἀρσ. = ⟪कर्मधारय⟫
@@ -71,7 +71,7 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
 *   ἐὰν Καρμαθάριγια σύγκρισιν ἐκφράζῃ, τότε ὁ συγκρινόμενος ἐν τῷ ὀπίσω μέλει τοῦ συνθέτου τίθεται:
 
@@ -308,7 +308,7 @@ Fig.: ⟪इन्द्रः⟫
 
 ⟪एव⟫ (μετατεθέν): ἰσχυρὸν τὸ προηγούμενον, ἀναλογεῖ τῇ Γερμανικῷ ἰσχύσει, εἶδος ἐμοτικόν `\&lt;!\&gt;`, π.χ. ⟪सत्यमेव⟫ ⟪जयति⟫ "μόνη ἡ ἀλήθεια νικᾷ", "ἀκριβὴς ἡ ἀλήθεια νικᾷ", "ἡ ἀλήθεια νικᾷ"
 
-⟪अरि⟫ μ.: ἐχθρός (κατὰ Thieme, Der Fremdling im Ṛgveda: ἀρχικῶς = ξένος) <!-- TODO: Fallback translation -->
+⟪अरि⟫ μ.: ἐχθρός (κατὰ Thieme, Der Fremdling im Ṛgveda: ἀρχικῶς = ξένος)
 
 ::: indent
 ⟪आर्य⟫ 3: ἀριστός, εὐγενής· ὁ ἀριστεύων (αὑτὸν καλούμενοι οἱ παλαιοὶ Ἰνδοὶ τὰς Σανσκριτὶ λαλοῦντες, κυρίως: φιλόξενος (Thieme))· ὁ εὐγενής, ἀνὴρ τιμιώτατος
@@ -582,18 +582,5 @@ Fig.: ⟪इन्द्रः⟫
 ![](/images/lekt1509.webp)
 Ἀπεικ.: ⟪नागदेवाः⟫
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1509))
-:::
-
-::: deleteme-box
-
-- **Fig.: ⟪लक्ष्मी⟫** (Lakshmi): Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Bildquelle: Wikipedia, Public domain.
-- **Fig.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Bildquelle: Wikipedia, Public domain.
-- **Diagramm** (lekt1502.jpg): Diagramm zur Zerlegung von Komposita. Bildquelle: Alois Payer / Original-Kursgrafik.
-- **Fig.: ⟪पूजा⟫** (Puja): A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Bildquelle: Wikipedia, Public domain.
-- **Fig.:  ⟪इन्द्रः⟫** (Indra): Folio from a Panchakalyanaka, Rajasthan, Amber. Bildquelle: Wikipedia, Public domain.
-- **Fig.: ⟪सिंहः⟫** (Lion): Panthera leo persica. Bildquelle: Wikipedia, GNU FDLicense.
-- **Fig.: ⟪व्याघ्रः⟫** (Tiger): Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain.
-- **Fig.: ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Bildquelle: ganuullu (Flickr), Creative Commons Lizenz.
-- **Fig.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Bildquelle: Dineshkannambadi / Wikipedia, GNU FDLicense.
 :::
 

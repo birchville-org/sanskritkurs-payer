@@ -9,12 +9,12 @@ status: stable
 
 # Luento 30
 
-## 30.1. 9. preesensluokka (⟪क्र्यादि⟫ = "⟪क्री⟫ jne.") <!-- TODO: Fallback translation -->
+## 30.1. 9. preesensluokka (⟪क्र्यादि⟫ = "⟪क्री⟫ jne.")
 
 ::: grammar-box
 **Muodostus:**
 
-*   vahva vartalo: syönnyn juuri + -nā- <!-- TODO: Fallback translation -->
+*   vahva vartalo: syönnyn juuri + -nā-
 
 *   heikko vartalo:
 
@@ -22,7 +22,7 @@ status: stable
 
     *   vokaalin edellä: syönnyn juuri + -n-
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ::: indent
 ⟪क्री⟫ 9U "ostaa"
@@ -35,7 +35,7 @@ Esimerkki: <!-- TODO: Fallback translation -->
 | **3. persoonan:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
-Tässä preesensluokassa on erityisesti huomioitava preesanssivarsan muodostaminen juureen ⟪ज्ञा⟫ 9U "tunnistaa, tietää": <!-- TODO: Fallback translation -->
+Tässä preesensluokassa on erityisesti huomioitava preesanssivarsan muodostaminen juureen ⟪ज्ञा⟫ 9U "tunnistaa, tietää":
 
 ::: grammar-box
 
@@ -69,7 +69,7 @@ Esimerkki:
 ::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
-## 30.2. Optatiivin käyttö (⟪लिङ्⟫) <!-- TODO: Fallback translation -->
+## 30.2. Optatiivin käyttö (⟪लिङ्⟫)
 
 Optatiivia käytetään:
 
@@ -78,17 +78,17 @@ Optatiivia käytetään:
 
 *   **toivetta**
 *   **pyyntöä**
-*   **lievennettyä käskyä** <!-- TODO: Fallback translation -->
+*   **lievennettyä käskyä**
 
 **(tässä optatiivi - ⟪लिङ्⟫ - leikkaa imperatiivin kanssa - ⟪लोट्⟫)**
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ::: indent
 ⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Orja tulkaa kylään"
 :::
 ::: grammar-box
-**2. Jos jotain** <!-- TODO: Fallback translation -->
+**2. Jos jotain**
 
 *   **mahdollisena**
 *   **todennäköisenä**
@@ -104,14 +104,14 @@ Esimerkki:
 ::: grammar-box
 **3. Optatiivisia suhteellislauseita voi joskus tarkoittaa: "Jos joku ..."**
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Jos joku sanoisi epätotuutta, hän lankeaisi helvettiin = Jos joku sanoo epätotuutta, hän langkee helvettiin"
 :::
-## 30.3. Kolmannen persoonan yksikön ja monikon sekundääriset päätteet <!-- TODO: Fallback translation -->
+## 30.3. Kolmannen persoonan yksikön ja monikon sekundääriset päätteet
 
-Optatiivi (⟪लिङ्⟫), imperfekti (⟪लङ्⟫), aoristi (⟪लुङ्⟫), prekatiivi (⟪आशिर्लिङ्⟫) ja konditionaali käyttävät ns. sekundäärisiä päätteitä: <!-- TODO: Fallback translation -->
+Optatiivi (⟪लिङ्⟫), imperfekti (⟪लङ्⟫), aoristi (⟪लुङ्⟫), prekatiivi (⟪आशिर्लिङ्⟫) ja konditionaali käyttävät ns. sekundäärisiä päätteitä:
 
 ::: grammar-box
 
@@ -128,9 +128,9 @@ Optatiivi (⟪लिङ्⟫), imperfekti (⟪लङ्⟫), aoristi (⟪लु
 ::: grammar-box
 **konsonanttialkuisten pääteformien edellä:**
 
-**Preesansivarsi + -i- (yhdistyy vokaalin kanssa muotoon -e-) + primäärisäädökset** <!-- TODO: Fallback translation -->
+**Preesansivarsi + -i- (yhdistyy vokaalin kanssa muotoon -e-) + primäärisäädökset**
 
-**vokaalilla alkavien päätemuotojen edellä:** <!-- TODO: Fallback translation -->
+**vokaalilla alkavien päätemuotojen edellä:**
 
 **Preesansivarsi + -i- (» -e-) + -y- + primäärinen pääte**
 :::
@@ -248,11 +248,11 @@ preesanskoulu
 ## 30.5. Lopun -r:n sandhi
 
 ::: grammar-box
-**Paitsi -ar:n kohdalla, lopun -r:lle pätevät samat sandhisäännöt kuin lopulle -s:lle.** <!-- TODO: Fallback translation -->
+**Paitsi -ar:n kohdalla, lopun -r:lle pätevät samat sandhisäännöt kuin lopulle -s:lle.**
 
 **-ar tönäisten äänneaseiden edellä pysyy -ar, mutta r-:n edessä -r katoaa ja -a- korvautuu -ā:lla.**
 :::
-Esimerkit: <!-- TODO: Fallback translation -->
+Esimerkit:
 
 ::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
@@ -282,7 +282,7 @@ Kuv.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Kuv. lähde: [Tiedot](/fi/licenses#lekt3001))
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : tuntea, tunnistaa, tietää, ymmärtää <!-- TODO: Fallback translation -->
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : tuntea, tunnistaa, tietää, ymmärtää
 
 ::: indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -294,7 +294,7 @@ Inf. ⟪ज्ञातुम्⟫
 
 siitä:
 
-⟪ज्ञाति⟫ m.: (suku)vertainen (sukulaiset ovat niitä, joita tunnetaan!) <!-- TODO: Fallback translation -->
+⟪ज्ञाति⟫ m.: (suku)vertainen (sukulaiset ovat niitä, joita tunnetaan!)
 
 ⟪ज्ञान⟫ n.: tieto, tietämys, tuntemus (erityisesti "korkeampia" totuuksia uskonnoissa ja filosofiassa)
 :::
@@ -304,7 +304,7 @@ Kuv.: ⟪ज्ञातयः⟫
 Darewadi, Ahmed Nagarin piirikunta = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3002))
 :::
-⟪पू⟫ 9U ⟪पुनाति⟫ : puhdistaa <!-- TODO: Fallback translation -->
+⟪पू⟫ 9U ⟪पुनाति⟫ : puhdistaa
 
 ::: indent
 Fut. ⟪पविष्यति⟫  
@@ -318,7 +318,7 @@ Inf. ⟪पवितुम्⟫
 Kuv.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3003))
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : syödä, kuluttaa <!-- TODO: Fallback translation -->
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : syödä, kuluttaa
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
@@ -333,26 +333,26 @@ Kuv.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, Etelä-Intia
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3005))
 :::
-⟪प्रिय⟫ ⟪३⟫: rakas, rakkautta osoittava, ystävällinen <!-- TODO: Fallback translation -->
+⟪प्रिय⟫ ⟪३⟫: rakas, rakkautta osoittava, ystävällinen
 
 ::: media
 ![](/images/lekt3004.webp)
 Kuvaus.: ⟪प्रिया⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3004))
 :::
-⟪चेत्⟫ Konjunktion: jos; edellyttäen, että (ei koskaan lauseen alussa) <!-- TODO: Fallback translation -->
+⟪चेत्⟫ Konjunktion: jos; edellyttäen, että (ei koskaan lauseen alussa)
 
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : jos ei
 :::
-⟪यदि⟫ Konjunktion: jos <!-- TODO: Fallback translation -->
+⟪यदि⟫ Konjunktion: jos
 
 ::: indent
 ⟪यद्यपि⟫ : vaikka, jopa jos, vaikkakin
 
 ⟪यद्येवम्⟫ : jos näin on, näissä olosuhteissa
 :::
-⟪पुनर्⟫ : uudelleen, aina uudestaan, takaisin, vielä kerran, päinvastoin, mutta <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ : uudelleen, aina uudestaan, takaisin, vielä kerran, päinvastoin, mutta
 
 ::: indent
 ⟪पुनः⟫ ⟪पुनर्⟫ : aina uudelleen
@@ -366,7 +366,7 @@ siitä:
 Kuv.: ⟪पुनर्भवः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt2904))
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : elää <!-- TODO: Fallback translation -->
+⟪जीव्⟫ 1P ⟪जीवति⟫ : elää
 
 ::: indent
 Fut. ⟪जीविष्यति⟫  
@@ -379,7 +379,7 @@ siitä:
 
 ⟪जीव⟫ m./n.: elämä, yksilöllinen sielu
 :::
-⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ikuinen, kuolematon, pysyvä <!-- TODO: Fallback translation -->
+⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ikuinen, kuolematon, pysyvä
 
 ## 30.7. Harjoitus
 
@@ -451,7 +451,7 @@ A) Muunna seuraavat verbimuodot vastaaviin optatiivimuotoihin persoonan, numeron
 64.  ⟪अदन्ति⟫
 65.  ⟪अध्यापयन्ति⟫
 
-B) Käännä seuraavat lauseet ja ratkaise sanskritinkieliset yhdyssanat: <!-- TODO: Fallback translation -->
+B) Käännä seuraavat lauseet ja ratkaise sanskritinkieliset yhdyssanat:
 
 ⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫
 
@@ -474,7 +474,7 @@ B) Käännä seuraavat lauseet ja ratkaise sanskritinkieliset yhdyssanat: <!-- T
 
 ## 30.8. Muoto-opin toistoharjoitus
 
-Määritä ja käännä seuraavat sanamuodot: <!-- TODO: Fallback translation -->
+Määritä ja käännä seuraavat sanamuodot:
 
 1.  ⟪भारे⟫
 2.  ⟪अध्ययनम्⟫
@@ -517,12 +517,3 @@ Määritä ja käännä seuraavat sanamuodot: <!-- TODO: Fallback translation --
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Kuvälähde: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Haettu 2008-12-21. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, ei muunnoksia)]
-**lekt3002:** Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Kuvälähde: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Haettu 2008-12-21. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, sama lupa)]
-**lekt3003:** [Kuvälähde: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Haettu 2008-12-21. -- Creative Commons -lupa (Nimeäminen, sama lupa)]
-**lekt3005:** ⟪थाली⟫, Etelä-Intia [Kuvälähde: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Haettu 2008-12-21. -- Creative Commons -lupa (Nimeäminen, ei kaupallista käyttöä, sama lupa)]
-**lekt3004:** [Kuvälähde: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Haettu 2008-12-21. -- Creative Commons -lupa (Nimeäminen, sama lupa)]
-**lekt2904:** [Kuvälähde: Wikipedia / Tekijänoikeus Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

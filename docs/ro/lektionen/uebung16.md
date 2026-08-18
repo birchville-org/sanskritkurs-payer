@@ -81,7 +81,7 @@ El onorează zeitatea personală a Vaiśya-ului meritoriu.
 Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung023))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Modele de declinare
 
@@ -248,11 +248,6 @@ Datoria specifică a unui śūdra este slujirea ascultătoare a celor născuți 
 Datoria tuturor este: non-violența, veridicitatea, puritatea, neplângerea împotriva destinului, lipsa de răutate și răbdarea blândă.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-::: deleteme-box Explicații
-Propoziția 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nominativ Acuzativ: Dvandva, care indică cele două "lucruri"
-Propoziția 8: **⟪कर्म⟫** Nominativ, Acuzativ singular Neutru la ⟪कर्मन्⟫ "faptă"
-Propoziția 13: **⟪सर्वेषाम्⟫** Genitiv plural masculin la ⟪सर्व⟫ "fiecare, toți" (pronume, nu declinat ca deva)
-:::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 Bătaia produce dobândirea și posesia sigură a filosofiei, vedisticii și economiei. Conducerea bătaiei este politica.
@@ -261,5 +256,5 @@ Bătaia produce dobândirea și posesia sigură a filosofiei, vedisticii și eco
 ![](/images/uebung024.webp)
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung024))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

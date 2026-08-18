@@ -9,7 +9,7 @@ status: stable
 
 # Lectio 38
 
-## 38.1. Losung der Woche <!-- TODO: Fallback translation -->
+## 38.1. Losung der Woche
 
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ de urinatione recta:
 
@@ -21,7 +21,7 @@ status: stable
 :::
 Explanationes:
 
-\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. ad ⟪अग्नि⟫ m. <!-- TODO: Fallback translation -->
+\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. ad ⟪अग्नि⟫ m.
 
 \-:sig[⟪गु⟫] Neutrum Nom.Akk.sg. ad ⟪गो⟫ m.f. "bos, vacca"
 
@@ -47,7 +47,7 @@ Nomina in **-an** atque nomina **-man** vel **-van** post vocalem tria habent st
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
 | **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung | <!-- TODO: Fallback translation -->
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
 
 **Fines sunt regulares. Nominativus singularis masculini et feminini sine -n finali formatur.**
 :::
@@ -210,9 +210,9 @@ Adiectiva in **-⟪इन्⟫** facile in composita transeunt.
 :::
 Exemplum:
 
-⟪सत्यवादिन्⟫ ad ⟪सत्यवाद⟫ m. "Verbum veritatis": "aliquis qui veritate loquendi notatur = qui semper verum loquitur" <!-- TODO: Fallback translation -->
+⟪सत्यवादिन्⟫ ad ⟪सत्यवाद⟫ m. "Verbum veritatis": "aliquis qui veritate loquendi notatur = qui semper verum loquitur"
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫ <!-- TODO: Fallback translation -->
+## 38.5. Syntaktisches zu ⟪नामन्⟫
 
 ::: grammar-box
 Ut exprimatur "aliquis nomine N. N.", ita componitur:
@@ -356,7 +356,7 @@ a राज :
 
 ⟪ब्रह्मन्⟫ n.: id absolutum, Veda (secundum Thieme originem: verbum verum, unde ⟪ब्राह्मण⟫ "verba veritatis")
 
-⟪ब्रह्मन्⟫ m.: ille Deus creator Brahmā personaliter cogitatus <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ m.: ille Deus creator Brahmā personaliter cogitatus
 
 ::: media
 ![](/images/lekt3809.webp)
@@ -368,7 +368,7 @@ Fig.: ⟪ब्रह्मा⟫
 ::: indent
 ⟪कर्मविपाक⟫ m.: circulus factorum = bona malaque consequentia factorum in existentiis praecedentibus (ad ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: elephas (_Elephas maximus_) <!-- TODO: Fallback translation -->
+⟪हस्तिन्⟫ m.: elephas (_Elephas maximus_)
 
 ⟪मनु⟫ m.: homo, vir; nomen patris generis humani (ad ⟪मन्⟫ 4Ā)
 
@@ -451,7 +451,7 @@ A) In sequentibus sententiis formam congruentem verborum in parenthesibus posita
 Fig.: ⟪विनोदः⟫
 (Fons imaginis: [Details](/la/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : errare <!-- TODO: Fallback translation -->
+⟪अट्⟫ 1P ⟪अटति⟫ : errare
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
@@ -496,7 +496,7 @@ Inf. ⟪गणयितुम्⟫
 Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Image source: [Details](/la/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : clamare, lugere <!-- TODO: Fallback translation -->
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : clamare, lugere
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
@@ -563,13 +563,13 @@ Explanationes:
 
 :sig[⟪दश⟫] Nom.Akk.pl.m.f.n. ad ⟪दशन्⟫ "decem"
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dualis ad ⟪बाहु⟫ m. "brachium" <!-- TODO: Fallback translation -->
+⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dualis ad ⟪बाहु⟫ m. "brachium"
 
 :sig[⟪सर्वे⟫] Nom.pl.m. ad ⟪सर्व⟫ 3 "quisque, omnes"
 
 :sig[⟪जिज्ञासमान⟫] Part.Præs.A.D. desiderativum ad ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "scire velle, nosse velle"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. ad ⟪नवन्⟫ "novem" <!-- TODO: Fallback translation -->
+⟪नव⟫ Nom.Akk.pl.m.f.n. ad ⟪नवन्⟫ "novem"
 
 :sig[⟪वयम्⟫] Nom.pl. "nos"
 
@@ -587,20 +587,3 @@ Explanationes:
 
 ⟪युष्माकम्⟫ Gen.pl. ad :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Fig.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟩  Bangalore = ಬೆಂಗಳೂರು \[Imaginis auctor: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Accessus die 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licentia Creative Commons (Nominatio, usus non commercialis)\]
-- **lekt3802.jpg**: Fig.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Imaginis auctor: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Accessus die 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licentia Creative Commons (Nominatio, usus non commercialis)\]
-- **lekt3803.jpg**: Fig.: ⟪सीमा⟫  Transitus inter Indiam et Pakistaniam in Wagah (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Imaginis auctor: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Accessus die 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licentia Creative Commons (Nominatio, usus non commercialis, share alike)\]
-- **lekt3804.jpg**: Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, saec. 2./3. p. Chr. \[Imaginis auctor: Wikipedia. Public domain\]
-- **lekt3805.jpg**: Fig.: ⟪उदकम्⟫  Darewadi village, Districtus Ahmed Nagar = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Imaginis auctor: Robin Murphy, Institutum Rerum Mundi. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Accessus die 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licentia Creative Commons (Nominatio, usus non commercialis, share alike)\]
-- **lekt3806.jpg**: Fig.: ⟪हस्ती⟫  Nagarhole National Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Imaginis auctor: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Accessus die 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licentia Creative Commons (Nominatio, usus non commercialis, share alike)\]
-- **lekt3807.jpg**: Fig.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Imaginis auctor: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Accessus die 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licentia Creative Commons (Nominatio, usus non commercialis, nulla modificatio)\]
-- **lekt3808.jpg**: Fig.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  annis 1930 \[Imaginis auctor: Wikipedia. Public domain\]
-- **lekt3809.jpg**: Fig.: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Imaginis auctor: Wikipedia. GNU FDLicense\]
-- **lekt3810.jpg**: Fig.: Arbor Ashoka = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Imaginis auctor: J.M.Garg / Wikipedia. GNU FDLicense\]
-- **lekt3811.jpg**: Fig.: Maxima extensio imperii Aśokae atque loci ubi edicta saxea et columnaria reperta sunt \[Imaginis auctor: Wikipedia.GNU FDLicense\]
-- **lekt3812.jpg**: Fig.: ⟪विनोदः⟫  Ludus Carrom \[Imaginis auctor: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Accessus die 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licentia Creative Commons (Nominatio, usus non commercialis, share alike)\]
-- **lekt3813.jpg**: Fig.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Imaginis auctor: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Accessus die 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licentia Creative Commons (Nominatio, usus non commercialis)\]
-- **lekt3814.jpg**: Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Imaginis auctor: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Accessus die 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licentia Creative Commons (Nominatio, usus non commercialis, nulla modificatio)\]
-:::

@@ -149,7 +149,7 @@ Ut pars prior compositionis nomina in -ṛ stant, quod naturaliter est in suo gr
 ::: indent
 PPP ⟪अवस्थित⟫ 3: stans, existens
 :::
-⟪पुरा⟫ Adv.: olim, ante <!-- TODO: Fallback translation -->
+⟪पुरा⟫ Adv.: olim, ante
 
 ⟪अनेक⟫ 3: multi (non pauci)
 
@@ -207,7 +207,7 @@ Inf. ⟪शंसितुम्⟫
 :::
 ⟪हृदय⟫ n.: cor
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen <!-- TODO: Fallback translation -->
+### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
@@ -216,7 +216,7 @@ Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 :::
 ⟪भर्तृ⟫ m. (ad ⟪भृ⟫ "ferre, sustinere"): Sustentator, Nutritor, Maritus
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Uxor (⟪भार्या⟫ = Gerundivum ad ⟪भृ⟫ : quae ferenda est, quae sustinenda est, ius habens sustentationis) <!-- TODO: Fallback translation -->
+⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Uxor (⟪भार्या⟫ = Gerundivum ad ⟪भृ⟫ : quae ferenda est, quae sustinenda est, ius habens sustentationis)
 
 ⟪पितृ⟫ m.: Pater
 
@@ -259,7 +259,7 @@ Utrisque ritus perficitur, scil. ⟪श्राद्ध⟩ n. Quotidie singuli
 
 ⟪पितामह⟫ m.: avus paternus
 
-⟪पितामही⟫ f.: amita patris (avus mater) <!-- TODO: Fallback translation -->
+⟪पितामही⟫ f.: amita patris (avus mater)
 
 ⟪मातामह⟫ m.: avus maternus
 
@@ -340,7 +340,7 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪गुरुतर⟫ 3: Comparativus ad ⟪गुरु⟫ 3: gravior, valde gravis
 
-⟪धनुस्⟫ Nom.Akk.sg.n. ad ⟪धनुस्⟫ n. "Arcus" <!-- TODO: Fallback translation -->
+⟪धनुस्⟫ Nom.Akk.sg.n. ad ⟪धनुस्⟫ n. "Arcus"
 
 ⟪शतशस्⟫ Adv.: ad centena
 
@@ -365,14 +365,3 @@ Fig.: ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gen.Loc.Dualis ad ⟪सीताराम⟫
 
-::: deleteme-box
-
-* **Fig. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Imaginis auctor: Wikipedia. Dominium publicum)
-* **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. Diwan-i-Khas, sive Aula Privatarum Audientiarum in Lal Qila (Fort Rubrum) Delhii. (Imaginis auctor: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accessus die 2009-01-04. -- Licentia Creative Commons (Attributio, usus non commercialis, share alike))
-* **Fig. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, circiter 1825. (Imaginis auctor: Wikipedia. Dominium publicum)
-* **Fig. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. currus). (Imaginis auctor: Wikipedia. Dominium publicum)
-* **Fig. lekt4205**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. Saeculum XVII. (Imaginis auctor: Wikipedia. Dominium publicum)
-* **Fig. lekt4206**: Situs ⟪मिथिला⟫ et ⟪विदेह⟫, ⟪अयोध्या⟫ et ⟪कोसल⟫. (Imaginis auctor: JIJITH NR / Wikipedia. Licentia GNU FDLicense)
-* **Fig. lekt4207**: ⟪रावणः⟫. Yakṣagaṇa-thesauri maska (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Imaginis auctor: Manohara Upadhya / Wikipedia. Licentia GNU FDLicense)
-* **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Imaginis auctor: ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Imaginis auctor: Wikipedia. Dominium publicum)
-:::

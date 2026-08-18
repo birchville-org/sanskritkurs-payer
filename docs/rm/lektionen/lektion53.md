@@ -34,7 +34,7 @@ lesson_id: 53
 ![](/images/lekt5301.webp)
 Abb.: ⟪मार्जारयुगम्⟫
 (Bildquelle: [Details](/rm/licenses#lekt5301))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -42,7 +42,7 @@ Abb.: ⟪मार्जारयुगम्⟫
 Imm.: ⟪हस्तौ⟫
 (Sursa da l’imagina: [Detagls](/rm/licenses#lekt5302))
 :::
-## 53.2. Desinenzas dal dual dal num <!-- TODO: Fallback translation -->
+## 53.2. Desinenzas dal dual dal num
 
 ::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -343,13 +343,13 @@ Abb.: ⟪पितापुत्रौ⟫
 :::
 ⟪कतर⟫ 3 "tgi dals dus" e ⟪कतम⟫ 3 "tgi dals multples" vegnan declinads en tut ils casus sco ⟪यद्⟫.
 
-## 53.7. Pronominaladjektive <!-- TODO: Fallback translation -->
+## 53.7. Pronominaladjektive
 
 Las suentas agiènts adiectivs pronominal vegnan declinads en tut ils cas uschiglio sco ⟪यद्⟫:
 
 *   ⟪अन्य⟫ 3 "in auter"
 *   ⟪अन्यतर⟫ 3 "in dals els"
-*   ⟪इतर⟫ 3 "l'auter" <!-- TODO: Fallback translation -->
+*   ⟪इतर⟫ 3 "l'auter"
 
 *   ⟪सर्व⟫ 3 "mintgin, tut" vegn declinà en tut ils cas uschè sco en il Nom.Akk.sg.n (⟪सर्वम्⟫) sco ⟪यद्⟫.
 *   ⟪उभय⟫ 3 "dus" n'ha nagin dual. En il singular e plural masc. e neutr. vegn el declinà sco ⟪सर्व⟫. Feminin: ⟪उभयी⟫ (sco ⟪देवी⟫).
@@ -369,7 +369,7 @@ Las suotgiantas adiectivas suan declinadas scoi ⟨⟪सर्व⟩⟩. En l�
 **Ina seria d'agietivs furma il comparativ u il superlativ cun ils suandants sufixs ⟪कृत्⟫ (!):**
 
 *   Komparativ: **-īyas**
-*   Superlativ: **-iṣṭha** <!-- TODO: Fallback translation -->
+*   Superlativ: **-iṣṭha**
 
 **Mentre che i suffissi ⟪तद्धित⟫ -⟪तर⟫ e -⟪तम⟫ s'uniscen al stemma masculin da l'aggettiv, vegnan ils suffiss -⟪ईयस्⟫ e -⟪इष्ठ⟫ agiuntads a la radis, da la quala l'aggettiv derivà è (sch'ei dat ina tala radis!). Il vocal da la radis è elevà.**
 
@@ -377,7 +377,7 @@ Las suotgiantas adiectivas suan declinadas scoi ⟨⟪सर्व⟩⟩. En l�
 
 **Deklination von -īyas siehe unten.**
 :::
-Ezempels: <!-- TODO: Fallback translation -->
+Ezempels:
 
 ::: grammar-box
 | Radix | Adjectiv | Comparativ | Superlativ |
@@ -457,12 +457,12 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "vegl") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "vegl") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declinaziun dals comparativs sin -īyas <!-- TODO: Fallback translation -->
+## 53.9. Declinaziun dals comparativs sin -īyas
 
 ::: grammar-box
 **I comparativs cun la fin -īyas furman il feminin cun la fin -īyasī (declinaziun sco ⟪देवी⟫). Il masculin ed il neutrum vegnan declinads suandent il paradigma.**
 :::
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
 |   | ⟪एकवचनम्⟫ || ⟪द्विवचनम्⟫ || ⟪बहुवचनम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -547,7 +547,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   nagin visarga,
 *   na suian dus consonantas.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
+Kurze Vokale sind a, i, u, ṛ, ḷ
 
 **Tut las autras silbas èn ⟪गुरु⟫ = pesants. L'ultima silba d'in quartet da vers (⟪पाद⟫) vala adina sco ⟪गुरु⟫.**
 
@@ -558,7 +558,7 @@ Nell'analisi metrica significa:
 *   **×** = ⟪लघु⟫ u ⟪गुरु⟫
 *   **/** = Cäsura (divisiun da paraulas)
 :::
-Exempl: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫: <!-- TODO: Fallback translation -->
+Exempl: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
 ::: indent
 ⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
@@ -572,7 +572,7 @@ Distribuziun da ⟪लघु⟫ e ⟪गुरु⟫ :
 ::: metrik-schema
 — ◡ — —   **◡ — — —** ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. Il śloka epic (⟪श्लोक⟫ m.) <!-- TODO: Fallback translation -->
+### 53.10.4. Il śloka epic (⟪श्लोक⟫ m.)
 
 ::: grammar-box
 **Merkvers:**
@@ -636,19 +636,5 @@ Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-**Furmas** <!-- TODO: Fallback translation -->
-
-**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lecziun 53 (Vacanzas dal semester). -- Versiun dal 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
-
-Finitum feliciter 1984-02-15  
-Editio interretialis feliciter finita 2009-01-19  
-Alois Maria Payer  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-
-**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lecziun 53 (Vacanzas dal semester). -- Versiun dal 2009-01-19. -- Sursaint d'imagines da la tabella originala 53.9: Captura da l'originala sursaint (Payer).
 :::
 

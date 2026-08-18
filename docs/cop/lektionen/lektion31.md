@@ -6,12 +6,12 @@ status: stable
 
 # ⲙⲁⲑⲏⲙⲁ 31
 
-## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.") <!-- TODO: Fallback translation -->
+## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
 
 ::: grammar-box
 **ⲁϥⲙⲟⲛⲧⲱ:**
 
-**Vor den auslautenden Konsonanten der tiefstufigen Wurzel wird ein sog. Nasalinfix (-na- bzw. -n-) eingeschoben:** <!-- TODO: Fallback translation -->
+**Vor den auslautenden Konsonanten der tiefstufigen Wurzel wird ein sog. Nasalinfix (-na- bzw. -n-) eingeschoben:**
 
 *   **im starken Stamm: -na-**
 *   **im schwachen Stamm: -n-**
@@ -202,7 +202,7 @@ Rāhula, der Sohn Buddhas, Laos.
 :::
 ⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
-B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und Plural, P und Ā, des Indikativ und Optativ Präsens: <!-- TODO: Fallback translation -->
+B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und Plural, P und Ā, des Indikativ und Optativ Präsens:
 
 ⟪१⟫. ⟪छिद्⟫
 
@@ -214,15 +214,3 @@ B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und P
 
 ⟪५⟫. ⟪भञ्ज्⟫ (only P)
 
-::: deleteme-box
-
-**ⲡⲓϣⲟⲛⲧ: ⲡⲓⲱϣ.** [ⲉⲧⲙⲛⲩⲱϣ: Flickr, 2008-12-25. CC BY]
-
-**ⲡⲓϣⲟⲛⲧ: ⲡⲉⲙϫⲓⲥ ϵⲛ ⲧⲁⲃⲕⲟⲩⲗⲓ, Ⲕⲱϣⲓ.** [ⲉⲧⲙⲛⲩⲱϣ: winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**ⲡⲓϣⲟⲛⲧ: ⲉκ πⲁⲡⲓⲣⲟϥ ϵⲛ ⲧⲉⲙⲛⲩⲕⲓⲣⲉ ⲡⲓⲁⲛⲟⲕ.** [ⲉⲧⲙⲛⲩⲱϣ: zeno.org. Public domain]
-
-**ⲡⲓϣⲟⲛⲧ: Ⲧⲉⲙⲛⲩⲕⲓⲣⲉ ⲡⲓⲁⲛⲟⲕ ϵⲧ ⲡⲓϣⲱⲟⲛ.** [ⲉⲧⲙⲛⲩⲱϣ: Hari Singh Deora / Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**ⲕⲉϫⲓ 3104:** Ⲣⲁⲱⲩⲗⲁ, ⲡϥⲛⲟⲩⲧ ⲛⲧⲡⲉⲙⲏⲓ ⲛⲒⲩϧ, Ⲭⲟⲓ. [ⲡⲉⲕⲱϧ ⲛⲧⲥⲁⲝⲓ: Sacca / Wikipedia. GNU FDL]
-:::

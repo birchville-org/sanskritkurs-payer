@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Eserzitzi 58 <!-- TODO: Fallback translation -->
+# Eserzitzi 58
 
 ## A) Transposiziuns dal aorist cun iṣ
 
@@ -32,14 +32,14 @@ Determinai e traduschai las suandantas furmas ed elaborai las correspundentas fu
 16. ⟪कल्पे⟫ - ⟪कॢप्⟫ 1.sg.Ind.Präs.Ā jau observesch -⟪अकल्पिषि⟫
 17. ⟪आनीत्⟫ - ⟪अन्⟫ 2P 3.sg.Impf.P el ha respirà - ⟪आनीत्⟫
 18. ⟪ऐक्षध्वम्⟫ - ⟪ईक्ष्⟫ 1Ā 2.pl.Impf.ġ vus avais vis - ⟪ऐक्षिध्वम्⟫
-19. ⟪अचेतः⟫ - ⟪चित्⟫ 1P 2.sg.Impf.P ti has perzeptà - ⟪अचेतीः⟫ <!-- TODO: Fallback translation -->
+19. ⟪अचेतः⟫ - ⟪चित्⟫ 1P 2.sg.Impf.P ti has perzeptà - ⟪अचेतीः⟫
 
 ::: media
 ![](/images/uebung095.webp)
 Fig.: ⟪तब्लाः⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung095))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## B) Determinaziuns da parolas
 
@@ -95,4 +95,3 @@ Pune - ⟪पुणे⟫
 Fig.: ⟪श्वा श्वानमघ्रात्⟫
 (Sursa da l’imagina: [Detagls](/licenses#uebung096))
 :::
- <!-- TODO: Fallback translation -->

@@ -1,8 +1,9 @@
 ---
 title: "تمرین ۳۸"
 uebung_id: 38
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -24,10 +25,10 @@ last_reconstructed: 2026-05-15
 Was für Namen haben Vaiśyas?
 
 ⟪५⟫. **⟪वैश्याः⟫ ⟪किंनामानः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫** (⟪किंनामन्⟫)
-Welche Namen tragen die Vaiśyas? <!-- TODO: Fallback translation -->
+Welche Namen tragen die Vaiśyas?
 
 ⟪६⟫. **⟪कर्मण्यकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫** (⟪कर्मन्⟫ — ⟪सप्तमी⟫ ⟪एकवचन⟫)
-"Wer im Tun Nichttun sieht und im Nichttun Tun, der ist weise unter den Menschen, der ist ein Yogi" — so heisst es in der Bhagavadgītā. <!-- TODO: Fallback translation -->
+"Wer im Tun Nichttun sieht und im Nichttun Tun, der ist weise unter den Menschen, der ist ein Yogi" — so heisst es in der Bhagavadgītā.
 
 ⟪७⟫. **⟪किं⟫ ⟪कर्म⟫ ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫** (⟪कर्मन्⟫)
 حتی شاعران نیز در مورد اینکه چه کاری انجام دادن و چه کاری نکردن است، گیج شده‌اند.
@@ -63,7 +64,7 @@ Brahmā hat die Welten erschaffen.
 :::
 ---
 
-## Erzählung: Zehn Toren (⟪दश⟫ ⟪मूढाः⟫) <!-- TODO: Fallback translation -->
+## Erzählung: Zehn Toren (⟪दश⟫ ⟪मूढाः⟫)
 
 ⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ — ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ ⟪बाहुभ्यां⟫ ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 

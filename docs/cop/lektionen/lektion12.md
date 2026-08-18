@@ -9,14 +9,6 @@ status: stable
 
 # ⲙⲁⲑⲏⲙⲁ 12
 
-::: deleteme-box
-**ⲛϫⲟⲥ ⲉⲡⲓⲱⲧⲙ: ⲛⲁϥⲃⲉⲕ**
-- ⲡⲓⲛⲁϥⲃⲉⲕ
-- ⲡⲓⲛⲁϥⲃⲉⲕ
-- ⲡⲓⲛⲁϥⲃⲉⲕ
-- ⲡⲓⲛⲁϥⲃⲉⲕ
-- Passiv und partizip perfekt passivi der bisher gelernten Wurzeln
-:::
 
 ## 12.1. Partizip Perfekt Passiv (PPP)
 

@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # تمرین 58
 
-## A) iṣ-Aorist-Transformationen <!-- TODO: Fallback translation -->
+## A) iṣ-Aorist-Transformationen
 
 اشکال زیر را تعیین و ترجمه کنید و اشکال مربوط به **آوریست iṣ** را بسازید:
 
@@ -40,7 +40,7 @@ last_reconstructed: 2026-05-15
 :::
 ---
 
-## B) Wortbestimmungen <!-- TODO: Fallback translation -->
+## B) Wortbestimmungen
 
 اشکال زیر را تعیین و ترجمه کنید:
 

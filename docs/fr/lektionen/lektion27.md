@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Leçon 27
 
@@ -32,7 +32,7 @@ status: stable
 Fig. : ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Source de l'image : [Détails](/fr/licenses#lekt2701))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -480,7 +480,7 @@ Fig. : ⟪सद्गुरुः⟫
 Sai Baba de Shirdi (1835 - 1918).
 (Source de l'image : [Détails](/fr/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫ <!-- TODO: Fallback translation -->
+### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
 
@@ -588,28 +588,5 @@ Sai Baba de Shirdi (1835 - 1918).
 Fig. : ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Source de l'image : [Détails](/fr/licenses#lekt2717))
-:::
-
-::: deleteme-box
-
-**lekt2701:** Jaipur, 1875. [Source de l'image : Wikipedia. Domaine public]
-**lekt2702:** Rajasthan. [Source de l'image : fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** Holi. [Source de l'image : S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Harihara (à gauche : Viṣṇu, à droite : Śiva). [Source de l'image : Wikipedia. Domaine public]
-**lekt2705:** Harihara (à gauche : Viṣṇu, à droite : Śiva). Godrumdwip, Bengale-Occidental. [Source de l'image : GourangaUK / Wikipedia. GNU FDLicense]
-**lekt2706:** Vastrāṇi. Majuli, Assam. [Source de l'image : deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Source de l'image : dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Rāma-Satz. [Source de l'image : Wikipedia. Domaine public]
-**lekt2709:** Peinture de Rāja Ravi Varmā (1848 - 1906). [Source de l'image : Wikipedia. Domaine public]
-**lekt2710:** Fruits. Bangalore. [Source de l'image : GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Naran. Udaipur. [Source de l'image : Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Pendaison de deux participants de la rébellion de 1857. Photographie de Felice Beato (1833/1834 - ca. 1907). [Source de l'image : Wikipedia. Domaine public]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Source de l'image : Wikipedia, GNU FDLicense]
-**lekt2714:** Vache à Udaipur. [Source de l'image : Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Source de l'image : Wikipedia. Domaine public]
-**lekt2716:** Sai Baba of Shirdi (1835 - 1918). [Source de l'image : Wikipedia. Domaine public]
-**lekt2717:** Tsunami 2005, Sri Lanka. [Source de l'image : Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) avec son petit-fils le prince Jaya Chamaraja Wadiyar, Mysore. [Source de l'image : Wikipedia. Domaine public]
-
 :::
 

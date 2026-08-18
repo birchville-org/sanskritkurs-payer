@@ -82,11 +82,11 @@ anena kavinā mantraḥ smaryate.
 
 8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
 
-anayā devyā kṣatriyā rakṣyante. <!-- TODO: Fallback translation -->
+anayā devyā kṣatriyā rakṣyante.
 
 ⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 pussaivladads) <!-- TODO: Fallback translation -->
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 pussaivladads)
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
@@ -144,7 +144,7 @@ kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
 ⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪॥⟫
 
-Quals soldads combatan (ensetg) cun ils Kṣatriyas? <!-- TODO: Fallback translation -->
+Quals soldads combatan (ensetg) cun ils Kṣatriyas?
 
 D) Tradusì en il Sanscrit:
 
@@ -213,7 +213,7 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 Fig.: ⟪ग्रामः⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung011))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Lecziun da lectura
 
@@ -324,4 +324,3 @@ Il cochier guida il char.
 Abb.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung012))
 :::
- <!-- TODO: Fallback translation -->

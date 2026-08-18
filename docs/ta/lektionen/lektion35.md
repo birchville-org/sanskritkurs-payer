@@ -281,13 +281,3 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 **lekt3501:** கோவில் இசைக்காரர்கள் காடு மல்லேசுவரர் கோவில், பெங்களூர். [படத்தின் மூலம்: Samuelraj / Flickr. CC BY-NC]
 
-::: deleteme-box
-
-**lekt3502:** நடந்து செல்பவர்கள், செனகல். [படத்தின் மூலம்: Curt Carnemark / World Bank. CC BY-NC-ND]
-
-**lekt3503:** வடசேரி, தமிழ்நாட்டில் உள்ள சந்தை. [படத்தின் மூலம்: kifo / Flickr. CC BY-SA]
-
-**lekt3504:** யagna விழா, சிவ ஆசிரமம், கணேஷ்புரி. [படத்தின் மூலம்: Dey / Flickr. CC BY-NC-SA]
-
-**lekt3504:** யாக்ஞ விழா, சிவ ஆசிரமம், கணேஷ்புரி. [பட மூலம்: Dey / Flickr. CC BY-NC-SA]
-:::

@@ -5,9 +5,9 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Oppitunti 59 <!-- TODO: Fallback translation -->
+# Oppitunti 59
 
 ## 59.1. Sekundaaripäätteet ja dualin imperatiivipäätteet (⟪द्विवचनम्⟫)
 
@@ -176,9 +176,9 @@ Imperatiivi (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ |
 :::
-## 59.3. Molekkyylillisten preesensluokkien dualeetti: optatiivi (⟪विधिलिङ्⟩), imperfekti (⟪लङ्⟩), imperatiivi (⟪लोट्⟩) <!-- TODO: Fallback translation -->
+## 59.3. Molekkyylillisten preesensluokkien dualeetti: optatiivi (⟪विधिलिङ्⟩), imperfekti (⟪लङ्⟩), imperatiivi (⟪लोट्⟩)
 
-### 59.3.1. Toinen preesensluokka (⟪अदादिगणः⟩) <!-- TODO: Fallback translation -->
+### 59.3.1. Toinen preesensluokka (⟪अदादिगणः⟩)
 
 ⟪द्विष्⟩ 2U "vihata"
 
@@ -600,7 +600,7 @@ Imperatiivi (⟪लोट्⟫)
 :::
 ## 59.4. Kaksikko (⟪द्विवचनम्⟫) Aoristi (⟪लुङ्⟫)
 
-### 59.4.1. Vartaloaoristi <!-- TODO: Fallback translation -->
+### 59.4.1. Vartaloaoristi
 
 ⟪पा⟫ 1P "juoda"
 
@@ -668,7 +668,7 @@ Imperatiivi (⟪लोट्⟫)
 ## 59.5. Aoristi (⟪लुङ्⟩) 6: siṣ-aoristi (vain P)
 
 ::: grammar-box
-**Siṣ-aoristin muodostavat P:ssä kaikki juuret, jotka päättyvät -ā:han, -e:hen, -o:hon tai -ai:hun eivätkä ole rajoitettuja 1., 2. tai 3. aoristiin, sekä muutamat muut juuret, mm. ⟪नम्⟩, ⟪यम्⟩ ja ⟪रम्⟩. Ā:ssa kaikki nämä juuret muodostavat s-aoristin.** <!-- TODO: Fallback translation -->
+**Siṣ-aoristin muodostavat P:ssä kaikki juuret, jotka päättyvät -ā:han, -e:hen, -o:hon tai -ai:hun eivätkä ole rajoitettuja 1., 2. tai 3. aoristiin, sekä muutamat muut juuret, mm. ⟪नम्⟩, ⟪यम्⟩ ja ⟪रम्⟩. Ā:ssa kaikki nämä juuret muodostavat s-aoristin.**
 
 **Muodostus:**
 
@@ -699,7 +699,7 @@ Paradigma:
 ## 59.6. Aoristi (⟪लुङ्⟫) 7: sa-aoristi (temaattinen s-aoristi)
 
 ::: grammar-box
-**Sa-aoristin muodostavat useimmat ⟪अनिट्⟫-juuret, jotka päättyvät -ś-, -ṣ- tai -h-konsonanttiin ja joiden toiseksi viimeisenä vokaalina on i, u tai ṛ. Näiden muotojen fakultatiivisia ⟪अनिट्⟫-juuria voi muodostaa joko sa-aoristin tai iṣ-aoristin.** <!-- TODO: Fallback translation -->
+**Sa-aoristin muodostavat useimmat ⟪अनिट्⟫-juuret, jotka päättyvät -ś-, -ṣ- tai -h-konsonanttiin ja joiden toiseksi viimeisenä vokaalina on i, u tai ṛ. Näiden muotojen fakultatiivisia ⟪अनिट्⟫-juuria voi muodostaa joko sa-aoristin tai iṣ-aoristin.**
 
 **Muodostus:**
 
@@ -707,7 +707,7 @@ Paradigma:
 
 **1.sg.2.3.du.Ā muodostetaan s-aoristista, eli athemaattisesti.**
 :::
-Vartalonmuodostuspääte + sa-aoristin päätteen ovat siis: <!-- TODO: Fallback translation -->
+Vartalonmuodostuspääte + sa-aoristin päätteen ovat siis:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -752,14 +752,14 @@ A) Käännä seuraava teksti ja määritä kaikki siinä esiintyvät verbin muod
 
 _Esipuhe:_
 
-Seuraava teksti on peräisin ⟪भट्टिकाव्य⟫ ("runoilija Bhaṭtin "taidekuvaelma"). ⟪भट्टिकाव्य⟩ kertoo 22 runossa tarinan ⟪राम⟫:sta, mutta samalla se todistaa kieliopin ja runouden säännöt esimerkeillä. <!-- TODO: Fallback translation -->
+Seuraava teksti on peräisin ⟪भट्टिकाव्य⟫ ("runoilija Bhaṭtin "taidekuvaelma"). ⟪भट्टिकाव्य⟩ kertoo 22 runossa tarinan ⟪राम⟫:sta, mutta samalla se todistaa kieliopin ja runouden säännöt esimerkeillä.
 
-Runo koostuu neljästä osasta: <!-- TODO: Fallback translation -->
+Runo koostuu neljästä osasta:
 
 1.  Laulu 1-5: sekoitetut säännöt
 2.  Laulu 6-9: Pāṇinin grammatikan pääsäännöt
 3.  Laulu 10-13: tärkeimmät runolliset koristeet
-4.  Laulu 14-22: aikamuotojen ja moodien käyttö <!-- TODO: Fallback translation -->
+4.  Laulu 14-22: aikamuotojen ja moodien käyttö
 
 ⟪भट्टिकाव्य⟫ syntyi vuosina 495–641 jaa.
 
@@ -768,7 +768,7 @@ Runo koostuu neljästä osasta: <!-- TODO: Fallback translation -->
 Kuv.: ⟪रावणः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5902))
 :::
-Seuraava kappale on 15. laulun alku, joka omistetaan aoristille. ⟪रावण⟫, demonien kuningas, joka on varastanut ⟪राम⟩n vaimon ⟪सीता⟫, lähettää veljensä ⟪कुम्भकर्ण⟫ ("Kulikkikorva"), joka rangaistuksena teoistaan on syvässä unessa. <!-- TODO: Fallback translation -->
+Seuraava kappale on 15. laulun alku, joka omistetaan aoristille. ⟪रावण⟫, demonien kuningas, joka on varastanut ⟪राम⟩n vaimon ⟪सीता⟫, lähettää veljensä ⟪कुम्भकर्ण⟫ ("Kulikkikorva"), joka rangaistuksena teoistaan on syvässä unessa.
 
 ::: media
 ![](/images/lekt5903.webp)
@@ -776,18 +776,11 @@ Kuv: ⟪कुम्भकर्णः⟫
 Kecak-tanssi, Bali (Indonesia)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5903))
 :::
-_Käännösapu:_ Säe 6: ⟪दिदृक्षते⟫ \= Desideratiivi sanasta ⟪दृश्⟫ <!-- TODO: Fallback translation -->
+_Käännösapu:_ Säe 6: ⟪दिदृक्षते⟫ \= Desideratiivi sanasta ⟪दृश्⟫
 
 ::: media
 ![](/images/lekt5901.webp)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5901))
 :::
-Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127f. <!-- TODO: Fallback translation -->
+Teksti lähteestä: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127f.
 
-::: deleteme-box
-
-**lekt5902:** [Kuv lähde: Henryart/Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
-
-**lekt5903:** Kecak-tanssi, Bali (Indonesia) [Kuv lähde: Flying Pharmacist / Wikipedia. [Creative Commons -lupa](http://creativecommons.org/licenses/by-sa/3.0/) (Nimittäminen, sama lupa)]
-
-:::

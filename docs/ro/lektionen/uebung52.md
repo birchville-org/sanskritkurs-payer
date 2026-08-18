@@ -30,7 +30,7 @@ last_reconstructed: 2026-05-15
 Fig.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung087))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: Despre sursele lui ⟪धर्म⟫
 
@@ -121,5 +121,5 @@ Cunoașterea eliberatoare a Budelor:
 ![](/images/uebung088.webp)
 Fig.: ⟪कदलीगर्भनिःसारः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung088))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

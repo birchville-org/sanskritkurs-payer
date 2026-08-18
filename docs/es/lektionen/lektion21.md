@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lección 21
 
@@ -32,7 +32,7 @@ Este participio es una formación nominal a partir de la raíz del presente, es 
 | | **schwacher Tema** | Tema de presente + **-t-** |
 | **Femenino** | | |
 | | | Tema de presente + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Presenteklasse** | Tema de presente + **-nt-** + **-ī** :broder::brTema de presente + **-t-** + **-ī** | &lt;!-- TODO: Fallback translation --&gt;
+| | **6. Presenteklasse** | Tema de presente + **-nt-** + **-ī** :broder::brTema de presente + **-t-** + **-ī** | &lt;!--  --&gt;
 
 :::
 Ejemplos:
@@ -85,7 +85,7 @@ Ejemplos:
 | | **starker Tema** | Tema de presente + **-ant-** |
 | | **schwacher Tema** | Tema de presente + **-at-** :br(Der Auslaut des schwachen Tema de presentees lautet gleich wie vor der 3. Plur. P.) |
 | **Femenino** | | |
-| | | Tema de presente + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | &lt;!-- TODO: Fallback translation --&gt;
+| | | Tema de presente + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | &lt;!--  --&gt;
 
 :::
 2\. Clase de presente:
@@ -144,7 +144,7 @@ Placa conmemorativa de ⟪सती⟫ en el palacio de Jodhpur - ⟪जोध�
 | | **starker Tema** | ⟪महान्त्⟫ |
 | | **schwacher Tema** | ⟪महत्⟫ |
 | **Femenino** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | &lt;!-- TODO: Fallback translation --&gt;
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | &lt;!--  --&gt;
 
 :::
 ::: grammar-box
@@ -307,15 +307,3 @@ B) Traduzca:
 
 ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-::: deleteme-box
-
-**lekt2101:** Placa conmemorativa de ⟪सती⟫ en el palacio de Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Fuente de la imagen: Flicka / Wikipedia. Licencia GNU FDL]
-
-**lekt2102:** "Sello de sardónica del siglo IV-VI d.C. que representa a Vishnu con un devoto. La inscripción en bactriano cursivo dice: "Mihira, Vishnu y Shiva". [Fuente de la imagen: PHGCOM / Wikipedia. Licencia GNU FDL]
-
-**lekt2103:** ⟪भगवान्कृष्णः⟫ como ⟪जगन्नाथ⟫ (derecha) con su media hermana ⟪सुभद्रा⟫ (centro) y su hermano mayor ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Fuente de la imagen: Sujitkumar / Wikipedia. Licencia GNU FDL]
-
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Fuente de la imagen: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Acceso el 2008-12-12. -- Licencia Creative Commons (Atribución, uso no comercial)]
-
-**lekt2105:** ⟪भगवद्गीता⟫ - Manuscrito, siglo XIX. [Fuente de la imagen: Wikipedia, dominio público]
-:::

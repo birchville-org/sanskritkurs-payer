@@ -3,6 +3,7 @@ title: "[Gyakorlat 6]"
 uebung_id: 6
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -10,7 +11,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 6
 
-A) Alkoss igemondatokat a zárójelben megadott gyökökből az igei elemek behelyettesítésével: <!-- TODO: Fallback translation -->
+A) Alkoss igemondatokat a zárójelben megadott gyökökből az igei elemek behelyettesítésével:
 
 brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
 
@@ -44,7 +45,7 @@ dhenur viśati. dhenur bhavati.
 
 ⟪धेनुर्विशति⟫ ⟪।⟫ ⟪धेनुर्भवति⟫ ⟪॥⟫
 
-B) Alakítsd át az A gyakorlatban képzett mondatokat többes számra <!-- TODO: Fallback translation -->
+B) Alakítsd át az A gyakorlatban képzett mondatokat többes számra
 
 brāhmaṇā yajanti / yajante / nṛtyanti / viśanti / manyante / yudhyante / nayanti / nayante / muhyanti.
 
@@ -151,7 +152,7 @@ sā brāhmaṇī nṛtyati.
 
 ## Ismétlőgyakorlat 6. lecke
 
-A) Helyettesítő gyakorlat: Alkoss kérdéseket, amelyekre a mondatok válaszai azok, amelyeket az alábbi helyettesítő gyakorlatok után képeznek: <!-- TODO: Fallback translation -->
+A) Helyettesítő gyakorlat: Alkoss kérdéseket, amelyekre a mondatok válaszai azok, amelyeket az alábbi helyettesítő gyakorlatok után képeznek:
 
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -374,7 +375,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Alakítsa át a nőneműre: <!-- TODO: Fallback translation -->
+D) Alakítsa át a nőneműre:
 
 1\. śūdro nayati.
 
@@ -423,7 +424,7 @@ E) Fordítás:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
+Annapūrṇā ist eine Gottheit.
 
 2. śūdretarā.
 
@@ -447,7 +448,7 @@ Māgha ist ein Dichter.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin. <!-- TODO: Fallback translation -->
+Umā ist eine Göttin.
 
 6. śrutirvedaḥ.
 
@@ -459,13 +460,13 @@ Der Veda ist Śruti.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein. <!-- TODO: Fallback translation -->
+Die Kuh tritt ein.
 
 8. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister. <!-- TODO: Fallback translation -->
+Caitanya ist ein Meister.
 
 9. devīndrāṇī.
 
@@ -477,15 +478,15 @@ Indrāṇī ist eine Göttin.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger. <!-- TODO: Fallback translation -->
+Der Meister ist ein Heiliger.
 
 11. gururyajate.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-Der Meister opfert als Opferherr. <!-- TODO: Fallback translation -->
+Der Meister opfert als Opferherr.
 
-F) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+F) Übersetzen Sie ins Sanskrit:
 
 1. Rāma opfert (als Opferherr).
 
@@ -493,13 +494,13 @@ rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2. Durgā ist eine Göttin. <!-- TODO: Fallback translation -->
+2. Durgā ist eine Göttin.
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3. Mīnākṣī ist eine Göttin. <!-- TODO: Fallback translation -->
+3. Mīnākṣī ist eine Göttin.
 
 devī mīnākṣī.
 
@@ -517,25 +518,25 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6. Wer ist der HERR? <!-- TODO: Fallback translation -->
+6. Wer ist der HERR?
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7. Indra ist der HERR. <!-- TODO: Fallback translation -->
+7. Indra ist der HERR.
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8. Die Nutztiere treten ein. <!-- TODO: Fallback translation -->
+8. Die Nutztiere treten ein.
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9. Viṣṇu lässt emanieren = Viṣṇu erschafft. <!-- TODO: Fallback translation -->
+9. Viṣṇu lässt emanieren = Viṣṇu erschafft.
 
 viṣṇuḥ sṛjati.
 
@@ -547,44 +548,43 @@ sādhavo dvijātayaḥ.
 
 ⟪साधवो⟫ ⟪द्विजातयः⟫ ⟪।⟫
 
-11. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+11\. A háromszoros (tudás) a Sāmaveda, a Ṛgveda és a Yajurveda. (2 lehetőség)
 
 sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
-⟪सामर्ग्यजुर्वेदास्त्रयी⟫ ⟪।⟫ ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
+⟪सामर्ग्यजुर्वेदास्त्रयी । सामवेद ऋग्वेदो यजुर्वेदश्च त्रयी ।⟫
 
-12. Diese Göttin ist gut. <!-- TODO: Fallback translation -->
+12\. Ez az istennő jó.
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
-⟪साध्व्यीयं⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्व्येषा⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्वी⟫ ⟪सा⟫ ⟪देवी⟫ ⟪।⟫
+⟪साध्व्यीयं देवी । साध्व्येषा देवी । साध्वी सा देवी ।⟫
 
-13. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+13\. Az öt "fájdalom" a következők: tudatlanság, én-hit, vágyakozás (szeretet), gyűlölet, a testhez való ragaszkodás. (2 lehetőség)
 
 avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo dveṣo 'bhiniveśaś ca pañca kleśāḥ.
 
-⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫ ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
+⟪अविद्यास्मितारागद्वेषाभिनिवेशाः पञ्च क्लेशाः । अविद्यास्मिता रागो द्वेषो ऽभिनिवेषश्च पञ्च क्लेशाः ।⟫
 
-14. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+14\. A "Brahma tartózkodási állapotok" a következők: barátságos jóindulat, együttérzés, öröm a mások boldogságában, egyensúly. (2 lehetőség)
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ / maitrī karuṇā muditopekṣā (ca) brahmavihārāḥ.
 
-⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪।⟫
+⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ।⟫
 
-15. Diese Brahmanen opfern im Auftrag anderer. <!-- TODO: Fallback translation -->
+15\. Ezek a bráhmanák mások nevében áldoznak.
 
 ete / ime brāhmaṇā yajanti.
 
-⟪एते⟫ / ⟪इमे⟫ ⟪ब्राह्मणा⟫ ⟪यजन्ति⟫ ⟪।⟫
+⟪एते⟫ / ⟪इमे ब्राह्मणा यजन्ति ।⟫
 
-16. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+16\. A bráhmanák, kṣatriyák és vaiśyák kétszer születtek. (2 lehetőség)
 
 dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣatriyā vaiśyāś ca.
 
-⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ⟪।⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
+⟪द्विजातयो ब्राह्मणक्षत्रियवैश्याः । द्विजातयो ब्राह्मणाः क्षत्रिया वैश्याश्च ।⟫
 
-
-17. A tudományok (egy fejedelem számára): filozófia, a háromszoros (Védaismeret), gazdaságtan és politika. (2 lehetőség)
+17\. A (fejedelem) tudományai a következők: filozófia, a háromszoros (véda-tudás), gazdaságtan és politika. (2 lehetőség)
 
 ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ / ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
 
@@ -596,7 +596,7 @@ kiṃ kuśalam?
 
 ⟪किं⟫ ⟪कुशलम्⟫ ⟪।⟫
 
-19. (Minden tekintetben) jól vagyok. <!-- TODO: Fallback translation -->
+19. (Minden tekintetben) jól vagyok.
 
 sarvathā kuśalam.
 

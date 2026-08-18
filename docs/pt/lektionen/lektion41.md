@@ -5,11 +5,11 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 41
 
-## 41.1. ⟪सुभाषिते⟫  (dois provérbios) <!-- TODO: Fallback translation -->
+## 41.1. ⟪सुभाषिते⟫  (dois provérbios)
 
 ::: indent
 ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
@@ -23,7 +23,7 @@ Explicação: ⟪पर⟫ "outro"
 ![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (Fonte da imagem: [Detalhes](/licenses#lekt4102))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -89,11 +89,11 @@ Exemplos:
 ::: grammar-box
 **O sufixo -⟪तव्य⟫ / -⟪तव्या⟫ é anexado a raízes e a temas verbais derivados (p. ex., causativo) da mesma maneira que o sufixo de infinitivo -⟪तुम्⟫ (v. [Lição 23](lektion23.md)), ou seja,**
 
-* **raiz de grau forte + ⟪तव्य⟫** <!-- TODO: Fallback translation -->
+* **raiz de grau forte + ⟪तव्य⟫**
 
 ou
 
-* **raiz de grau forte + -i- + ⟪तव्य⟫** <!-- TODO: Fallback translation -->
+* **raiz de grau forte + -i- + ⟪तव्य⟫**
 
 **No causativo:**
 
@@ -115,7 +115,7 @@ Exemplos:
 ::: grammar-box
 **Formação:**
 
-Raiz em grau forte + -⟪अनीय⟫ / -⟪अनीया⟫ <!-- TODO: Fallback translation -->
+Raiz em grau forte + -⟪अनीय⟫ / -⟪अनीया⟫
 
 **Causativo e 10ª classe do presente:**
 
@@ -132,7 +132,7 @@ Exemplos:
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "o que deve ser feito" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "o que se deve ver; digno de ser visto" |
 | ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "aquele que deve ser despertado" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "o que se deve mandar dar" | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "o que se deve mandar dar" |
 
 :::
 #### 41.2.2.3. O sufixo -⟪य⟫ / -⟪या⟫
@@ -144,7 +144,7 @@ Raiz (no grau zero, pleno ou alongado) + -⟪य⟫
 
 As regras exatas podem ser consultadas em Kielhorn, Grammatik der Sanskrit-Sprache, p. 195 - 197!
 :::
-Tratamento das vogais finais: <!-- TODO: Fallback translation -->
+Tratamento das vogais finais:
 
 ::: grammar-box
 **1. Raízes em -ā formam este gerundivo em -eya**
@@ -188,7 +188,7 @@ Exemplos:
 ![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4103))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -206,7 +206,7 @@ Exemplo:
 :::
 Exemplos de raízes terminadas em consoante (regras cf. Kielhorn, Gramática § 533ss.):
 
-Formação de grau zero: <!-- TODO: Fallback translation -->
+Formação de grau zero:
 
 Exemplos:
 
@@ -223,7 +223,7 @@ Exemplos:
 Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4106))
 :::
-Formação avançada: <!-- TODO: Fallback translation -->
+Formação avançada:
 
 Exemplos:
 
@@ -331,7 +331,7 @@ Fig.: ⟪भुजङ्गः⟫
 Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4104))
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : repreender, dominar, ordenar, ensinar <!-- TODO: Fallback translation -->
+⟪शास्⟫ 2P ⟪शास्ति⟫ : repreender, dominar, ordenar, ensinar
 
 ::: indent
 tem o tema fraco do presente ⟪शिष्⟫ : ⟪शिष्मस्⟫, mas a 3ª Pl. P. tem o tema forte: ⟪शासति⟫ (!! terminação -ati) juntamente com o ocasional ⟪शासन्ति⟫. ⟪अशासुर्⟫. Também todo o ⟪आत्मनेपद⟫, na medida em que ocorre, tem o tema forte: ⟪शास्ते⟫
@@ -351,7 +351,7 @@ daí:
 ![lekt4109.jpg](/images/lekt4109.webp)
 Fig.: ⟪शासना⟫
 (Fonte da imagem: [Details](/licenses#lekt4109))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -363,7 +363,7 @@ Fig.: ⟪शासना⟫
 ![lekt4110.jpg](/images/lekt4110.webp)
 Fig.: ⟪शास्त्री⟫
 (Fonte da imagem: [Details](/licenses#lekt4110))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -373,11 +373,6 @@ Fig.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (de ⟪सम्⟫-⟪हन्⟫ : golpear junto, reunir): multidão, grupo, comunidade (p. ex., budista)
 
-::: deleteme-box
-v. sobre isso:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Conceitos fundamentais das regras monásticas e do direito monástico do Theravāda. -- Parte I. -- (Materiais sobre os conceitos fundamentais do Budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: jovem, moça, filha, virgem
 
 ⟪अति⟫ Prevérbio: sobre, por cima de, além de (no espaço, no tempo, em número, em quantidade, na ordem, em poder, em intensidade), extremamente, excessivamente
@@ -408,16 +403,3 @@ Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫
 
 ⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
 
-::: deleteme-box
-
-- **Image lekt4102.jpg** (Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Fonte da imagem: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Acedido em 2009-01-02. -- Licença Creative Commons (Atribuição, Uso não comercial)]
-- **Image lekt4103.jpg** (Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [Fonte da imagem: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Acedido em 2009-01-03. -- Licença Creative Commons (Atribuição, Uso não comercial, Proibido Obras Derivadas)]
-- **Image lekt4106.jpg** (Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): Bahá'í House of Worship, Delhi [Fonte da imagem: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Acedido em 2009-01-03. -- Licença Creative Commons (Atribuição, Uso não comercial, Partilha nos Mesmos Termos)]
-- **Image lekt4107.jpg** (Fig.: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [Fonte da imagem: Wikipedia. Domínio público]
-- **Image lekt4108.jpg** (Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका⟫ ⟪घाट⟫, 1922 [Fonte da imagem LoC/Wikipedia. Domínio público]
-- **Image lekt4105.jpg** (Fig.: ⟪भुजङ्गः⟫): Banded Krait (_Bungarus fasciatus_) [Fonte da imagem: J. Ewart. The poisonous snakes of India, 1878. Domínio público]
-- **Image lekt4104.jpg** (Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): Extração de veneno de cobra (Krait), Tailândia [Fonte da imagem: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Acedido em 2009-01-03. -- Licença Creative Commons (Atribuição)]
-- **Image lekt4109.jpg** (Fig.: ⟪शासना⟫): Édito de Ashoka, Dhauli, Orissa [Fonte da imagem: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Acedido em 2009-01-03. -- Licença Creative Commons (Atribuição, Uso não comercial)]
-- **Image lekt4110.jpg** (Fig.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), ca. 1898 [Fonte da imagem: Wikipedia. Domínio público]
-- **Image lekt4111.jpg** (Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Fonte da imagem: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Acedido em 2009-01-04. -- Licença Creative Commons (Atribuição, Proibido Obras Derivadas)]
-:::

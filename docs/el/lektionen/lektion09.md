@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # Μάθημα 9
 
-::: deleteme-box
-**Σε αυτή τη μαθησιακή ενότητα θα μάθετε:**
-- Το Samāhāradvandva ("σύνθετο διπλής σύνοψης")
-- τον σχηματισμό ουσιασικών ριζών με τα επίθετα **-ka** (taddhita) και **-aka** (kṛt)
-- Λεξιλόγιο σχετικά με επαγγέλματα και κοινωνικούς ρόλους
-- Αποσπάσματα από κλασικά νομικά κείμενα (Dharmaśāstras)
-:::
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = «Συνοπτικό dvandva»)
 
@@ -47,7 +40,7 @@ last_reconstructed: 2026-05-07
 **rūpa n. "μορφή" » rūpaka 3 ⟪रूपक⟩ "έχοντας τη μορφή κάτι"**
 :::
 
-### 9.2.2. -aka (kṛt), θηλ. συχνά -ikā <!-- TODO: Fallback translation -->
+### 9.2.2. -aka (kṛt), θηλ. συχνά -ikā
 
 ::: grammar-box
 **Το επίθημα kṛt -aka, με θηλυκό συχνά -ikā, σχηματίζει ονόματα ενεργητικού (ονόματα που εκφράζουν τον δράστη) για κάθε ρίζα.**
@@ -63,7 +56,7 @@ last_reconstructed: 2026-05-07
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" | <!-- TODO: Fallback translation -->
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
 ::: grammar-box
 **Ορισμένες από αυτές τις σχηματισμένες λέξεις έχουν την πιο στενή σημασία: "αυτός που εκτελεί συνήθως ή ως καθήκον ή καλά, μέσω της ρίζας".**
@@ -76,7 +69,7 @@ last_reconstructed: 2026-05-07
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" | <!-- TODO: Fallback translation -->
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" |
 
 Εκτός από αυτά, υπάρχουν μερικές λιγότερο σημαντικές χρήσεις του suffixed **-aka**. Βλ. Wackernagel, Altindische Grammatik, II, §45ff.
 
@@ -149,7 +142,7 @@ last_reconstructed: 2026-05-07
 1. Καθήκοντα όλων των Διγεννημένων:
    **ijyādhyayanadānāni**
 ⟪इज्याध्ययनदानानि⟫
-(Yājñavalkyadharmaśāstra I, 118) <!-- TODO: Fallback translation -->
+(Yājñavalkyadharmaśāstra I, 118)
 
 2. Ειδικά καθήκοντα ενός Βραχμάνου:
    **pravacanayājanapratigrahāḥ**

@@ -5,7 +5,7 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Leçon 45
 
@@ -145,12 +145,5 @@ B) Traduisez :
 ![](/images/lekt4502.jpg)
 Fig. : ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4502))
-:::
-
-::: deleteme-box
-
-**lekt4501.jpg** : Impression sur tissu à blocs, Ahmedabad. -- Source de l'image : Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Consulté le 2009-01-08. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)
-
-**lekt4502.jpg** : Source de l'image : John Isaac / Banque mondiale. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Consulté le 2009-01-08. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de modification)
 :::
 

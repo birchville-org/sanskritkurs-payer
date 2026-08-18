@@ -1,7 +1,8 @@
 ---
-title: "अभ्यास 61"
+title: "अभ्यास ६१"
 uebung_id: 61
-category: "अभ्यास"
+category: "Übung"
+
 ---
 
 # पाठ 61

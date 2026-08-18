@@ -50,7 +50,7 @@ Esempi:
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | &lt;!-- TODO: Fallback translation --&gt;
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | &lt;!--  --&gt;
 
 :::
 ::: grammar-box
@@ -65,7 +65,7 @@ Esempi:
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
-| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) | &lt;!-- TODO: Fallback translation --&gt;
+| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) | &lt;!--  --&gt;
 
 :::
 ## 32.4. Esempi di formazione dell'imperfetto
@@ -177,7 +177,7 @@ Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 -⟪लोक्य⟫
 ⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟫ &lt;!-- TODO: Fallback translation --&gt;
+⟪प्रहर्ष⟫ &lt;!--  --&gt;
 
 ⟪कति⟫
 
@@ -633,26 +633,5 @@ Spiegazioni:
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Scimmie negli alberi di mango. [Fonte immagine: Wikipedia. GNU FDL]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3210))
-:::
-
-::: deleteme-box
-
-**lekt3202:** Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
-
-**lekt3203:** Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
-
-**lekt3204:** Cava di pietra a sud di Pune, Maharashtra. [Fonte immagine: lecercle / Flickr. CC BY-NC-SA]
-
-**lekt3205:** Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlogelin / Flickr. CC BY-NC]
-
-**lekt3207:** Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine: thebigdurian / Flickr. CC BY-NC-SA]
-
-**lekt3206:** Pittura di mehndi sulle mani a Mumbai. [Fonte immagine: the_gman / Flickr. CC BY-NC-SA]
-
-**lekt3208:** Monaco buddhista nello Sri Lanka. [Fonte immagine: Trollderella / Wikipedia. GNU FDL]
-
-**lekt3209:** Saluto indiano / congedo. [Fonte immagine: dhyanji / Flickr. CC BY-NC-ND]
-
-**lekt3210:** Scimmie negli alberi di mango. [Fonte immagine: Wikipedia. GNU FDL]
 :::
 

@@ -5,7 +5,7 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα βʹ
 
@@ -72,7 +72,7 @@ last_reconstructed: 2026-04-30
 
 Ἴδε καὶ τὴν σύνοψιν:
 
-> **Payer, Alois (1944–):** Sandhi τοῦ τελικοῦ -s. -- (Ὕλαι περὶ τῆς Σανσκριτικῆς). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm <!-- TODO: Fallback translation -->
+> **Payer, Alois (1944–):** Sandhi τοῦ τελικοῦ -s. -- (Ὕλαι περὶ τῆς Σανσκριτικῆς). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Τὸ τελικὸν **-s**:
 

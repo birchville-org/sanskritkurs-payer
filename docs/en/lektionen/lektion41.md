@@ -362,11 +362,6 @@ Fig.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (to ⟪सम्⟫-⟪हन्⟫ : to strike together): group, crowd, community (e.g. Buddhist)
 
-::: deleteme-box
-see also:
-
-**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Canon Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
 
 ⟪अति⟫ Prefix: over, across -way, beyond (in space, in time, by number, by quantity, in order, by power, by intensity), exceedingly
@@ -391,16 +386,3 @@ Fig.: ⟪काशीं पत्स्ये गङ्गां द्रक�
 :::
 ⟪कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥३॥ विक्रेयाणि विक्रीयापुत्रवैश्यो भिक्षुभ्यो विक्रयफलमददाद्दानपुण्यं चादत्त । एतत्कर्म स्तुत्यमिति भिक्षवः प्रोचुर्बुद्धिमन्तस्तु विकल्पयन्ति किमेवं कुर्वाणो वश्यः पुण्यं चकारेति ॥४॥ गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥५॥⟫
 
-::: deleteme-box
-
-**Image lekt4102.jpg** (Fig.: ⟪पुस्तकस्था च या विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Image source: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, non-commercial use)]
-**Image lekt4103.jpg** (Fig.: ⟪विक्रेयाणि पुष्पानि⟫): ⟪महाराष्ट⟫re [Image source: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Accessed on 2009-01-03. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-**Image lekt4106.jpg** (Fig.: ⟪दृश्यो मन्दिरः⟫): Bahá'í House of Worship, Delhi [Image source: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Accessed on 2009-01-03. -- Creative Commons License (Attribution, non-commercial use, share alike)]
-**Image lekt4107.jpg** (Fig.: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव रामजी आंबेडकर⟫ (1891 - 1956) [Image source: Wikipedia. Public domain]
-**Image lekt4108.jpg** (Fig.: ⟪दर्शनीयं नगरं काशी⟫): ⟪काशी द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका घाट⟫, 1922 [Image source LoC/Wikipedia. Public domain]
-**Image lekt4105.jpg** (Fig.: ⟪भुजङ्गः⟫): Banded Krait (_Bungarus fasciatus_) [Image source: J. Ewart. The poisonous snakes of India, 1878. Public domain]
-**Image lekt4104.jpg** (Fig.: ⟪भुजङ्गस्य विषम्⟫): Milking snake venom (Krait), Thailand [Image source: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Accessed on 2009-01-03. -- Creative Commons License (Attribution)]
-**Image lekt4109.jpg** (Fig.: ⟪शासना⟫): Ashoka Edict, Dhauli, Orissa [Image source: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Accessed on 2009-01-03. -- Creative Commons License (Attribution, non-commercial use)]
-**Image lekt4110.jpg** (Fig.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), ca. 1898 [Image source: Wikipedia. Public domain]
-**Image lekt4111.jpg** (Fig.: ⟪काशीं पत्स्ये गङ्गां द्रक्ष्या⟫มิ ...): [Image source: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Accessed on 2009-01-04. -- Creative Commons License (Attribution, no derivatives)]
-:::

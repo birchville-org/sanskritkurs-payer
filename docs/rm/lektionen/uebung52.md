@@ -31,7 +31,7 @@ last_reconstructed: 2026-05-15
 Abb.: ⟪सर्वं परवशं दुःखम्⟫
 (Sursainta da l'imaginescha: [Detagls](/licenses#uebung087))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## ⟪२⟫. ⟪मनुस्मृति २⟫, ⟪६⟫: Davart las fontanas dal ⟪धर्म⟫
 
@@ -66,7 +66,7 @@ Abb.: ⟪सर्वं परवशं दुःखम्⟫
 
 ## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫. Sècul d.N.: ⟪बुद्धचरित ४⟫
 
-La cognoschientscha salvadora da Buddha: <!-- TODO: Fallback translation -->
+La cognoschientscha salvadora da Buddha:
 
 **⟪ततो मारबलं जित्वा धैर्येण च शमेन च ।⟫**
 **⟪परमार्थं विजिज्ञासुः स दद्ध्यौ ध्यानकोविदः ॥ १ ॥⟫**
@@ -96,7 +96,7 @@ La cognoschientscha salvadora da Buddha: <!-- TODO: Fallback translation -->
 **⟪इत्येवं स्मरतस्तस्य बभूव नियतात्मनः ।⟫**
 **⟪कदलीगर्भनिःसारः संसार इति निश्चयः ॥ ६ ॥⟫**
 
-> Cun s’esser remartgà uschia cun cor ferm, ha el cuntanschi la ferma percepziun: Il curs da las reinkarnaziuns è senza markas e tschendra sco l’intern d’ina planta da banan. <!-- TODO: Fallback translation -->
+> Cun s’esser remartgà uschia cun cor ferm, ha el cuntanschi la ferma percepziun: Il curs da las reinkarnaziuns è senza markas e tschendra sco l’intern d’ina planta da banan.
 
 **⟪द्वितीये त्वागते यामे सो ऽद्वितीयपराक्रमः ।⟫**
 **⟪दिव्यं लेभे परं चक्षुः सर्वचक्षुष्मतां वरः ॥ ७ ॥⟫**
@@ -123,4 +123,3 @@ La cognoschientscha salvadora da Buddha: <!-- TODO: Fallback translation -->
 Fig.: ⟪कदलीगर्भनिःसारः⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung088))
 :::
- <!-- TODO: Fallback translation -->

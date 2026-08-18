@@ -185,7 +185,7 @@ Fig.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
 
 B.) Traduceți în sanscrită (folosiți imperativul):
 
-1\. Vreau să fiu obținut. <!-- TODO: Fallback translation -->
+1\. Vreau să fiu obținut.
 
 2\. El să fie mulțumit.
 
@@ -203,7 +203,7 @@ B.) Traduceți în sanscrită (folosiți imperativul):
 
 9\. Dați (⟪प्र⟫-⟪यम्⟫) strămoșilor bilete de orez!
 
-10\. Ei să se bucure! <!-- TODO: Fallback translation -->
+10\. Ei să se bucure!
 
 11\. Vreau să privesc în lume.
 
@@ -253,14 +253,3 @@ B.) Traduceți în sanscrită (folosiți imperativul):
 
 34\. Să fie spre noroc (să se întâmple)! (Dorință de binecuvântare)
 
-::: deleteme-box
-
-**lekt4702:** Templul Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Sursa imaginii: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Accesat la 2009-01-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribuire, fără lucrări derivate)]
-
-**lekt4701:** [Sursa imaginii: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Accesat la 2009-01-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, fără utilizare comercială, share alike)]
-
-**lekt4703:** [Sursa imaginii: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
-
-**lekt4704:** [Sursa imaginii: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
-
-:::

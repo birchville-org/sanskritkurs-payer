@@ -21,7 +21,7 @@ status: stable
 :::
 Explicaciones:
 
-\-⟪अग्नि⟫ Neutro Nom.Akk.sg. a ⟪अग्नि⟫ m. &lt;!-- TODO: Fallback translation --&gt;
+\-⟪अग्नि⟫ Neutro Nom.Akk.sg. a ⟪अग्नि⟫ m. &lt;!--  --&gt;
 
 \-:sig[⟪गु⟫] Neutro Nom.Akk.sg. a ⟪गो⟫ m.f. "Buey, Vaca"
 
@@ -47,7 +47,7 @@ Los nombres en **-an** y los nombres **-man** o **-van** tras vocal tienen tres 
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Tema** | **-ān** | **-mān** | **-vān** | Nom., Ac., Voc. sg. m. f.:brNom., Ac., Voc. dual m. f.:brNom., Voc. pl. m. f.:brNom., Ac. pl. n. |
 | **Mittlerer Schwacher Tema** | **-a**:br(de -*n) | **-ma**:br(de -*mn) | **-va**:br(de -*vn) | Übrige Kasus vor konsonantisch anlautender Terminación:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Terminación | &lt;!-- TODO: Fallback translation --&gt;
+| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Terminación | &lt;!--  --&gt;
 
 **Las terminaciones son regulares. El Nominativoooooo Singular m. f. se forma sin -n final.**
 :::
@@ -203,7 +203,7 @@ Fig.: ⟪हस्ती⟫
 ![](/images/lekt3807.webp)
 Fig.: ⟪हस्तवान्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3807))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 :::
 ::: grammar-box
@@ -281,7 +281,7 @@ Ejemplo:
 :::
 ## 38.9. Lista de palabras
 
-⟪सूर्य⟫ m.: Sol, dios del sol Sūrya &lt;!-- TODO: Fallback translation --&gt;
+⟪सूर्य⟫ m.: Sol, dios del sol Sūrya &lt;!--  --&gt;
 
 ::: media
 ![](/images/lekt3802.webp)
@@ -452,7 +452,7 @@ A) Inserten en las siguientes oraciones la forma correspondiente de las palabras
 Fig.: ⟪विनोदः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : vagar &lt;!-- TODO: Fallback translation --&gt;
+⟪अट्⟫ 1P ⟪अटति⟫ : vagar &lt;!--  --&gt;
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
@@ -497,7 +497,7 @@ Inf. ⟪गणयितुम्⟫
 Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : gritar, lamentarse &lt;!-- TODO: Fallback translation --&gt;
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : gritar, lamentarse &lt;!--  --&gt;
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
@@ -588,20 +588,3 @@ Explicaciones:
 
 :sig[⟪यूयम्⟫] Gen.pl. a ⟪युष्माकम्⟫
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Ilustr.: ... :sig[⟪यूयम्⟫] ⟪प्रज्ञा⟫ ⟪नश्यति⟫ Bangalore = ಬೆಂಗಳೂರು \[Fuente de la imagen: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Acceso el 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
-- **lekt3802.jpg**: Ilustr.: ⟪मेहतः⟫  ⟪सूर्यः⟫ ⟪सूर्य⟫, Konark = ⟪मंदिर⟫ \[Fuente de la imagen: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Acceso el 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
-- **lekt3803.jpg**: Ilustr.: ⟪कोनार्क⟫  Cruce fronterizo entre India y Pakistán en Wagah (⟪सीमा⟫ / واہگہ / ਵਾਘਾ) \[Fuente de la imagen: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Acceso el 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
-- **lekt3804.jpg**: Ilustr.: ⟪वाघा⟫ ⟪गौतमबुद्धस्य⟫  Gandhara, siglos II/III d.C. \[Fuente de la imagen: Wikipedia. Dominio público\]
-- **lekt3805.jpg**: Ilustr.: ⟪महापरिनिर्वाणम्⟫  Aldea de Darewadi, Distrito de Ahmed Nagar = ⟪उदकम्⟫, ⟪अहमदनगर⟫ \[Fuente de la imagen: Robin Murphy, Instituto de Recursos Mundiales. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
-- **lekt3806.jpg**: Ilustr.: ⟪महाराष्ट्र⟫  Parque Nacional de Nagarhole = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Fuente de la imagen: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Acceso el 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
-- **lekt3807.jpg**: Ilustr.: ⟪हस्ती⟫  ⟪हस्तवान्⟫ \[Fuente de la imagen: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)\]
-- **lekt3808.jpg**: Ilustr.: ⟪जयपुर⟫ ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫  Años 1930 \[Fuente de la imagen: Wikipedia. Dominio público\]
-- **lekt3809.jpg**: Ilustr.: ⟪नाम⟫  Halebidu = ಹಳೆಬೀಡು \[Fuente de la imagen: Wikipedia. Licencia GNU FDL\]
-- **lekt3810.jpg**: Ilustr.: Árbol de Ashoka = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Fuente de la imagen: J.M.Garg / Wikipedia. Licencia GNU FDL\]
-- **lekt3811.jpg**: Ilustr.: Máxima extensión del Imperio de Aśoka, así como lugares de hallazgo de sus edictos en rocas y columnas \[Fuente de la imagen: Wikipedia.Licencia GNU FDL\]
-- **lekt3812.jpg**: Ilustr.: ⟪ब्रह्मा⟫  Juego de Carrom \[Fuente de la imagen: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
-- **lekt3813.jpg**: Ilustr.: ⟪विनोदः⟫ ⟪वाराणस्यां⟫ \[Fuente de la imagen: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
-- **lekt3814.jpg**: Ilustr.: ⟪गङ्गातीरे⟫ ⟪गणयां⟫  ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫, ⟪मंदिर⟫ \[Fuente de la imagen: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Acceso el 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)\]
-:::

@@ -16,7 +16,7 @@ Finis sententiae in prosa notatur per | (ardhadhaṇḍa m.). In versibus | fine
 
 ### Abbreviatio
 
-Signa abbreviationis (e.g. in indicatione operum) est °, e.g. ⟪पा⟫° = pā(ṇinīye) = "In opere grammatico Pāṇini". <!-- TODO: Fallback translation -->
+Signa abbreviationis (e.g. in indicatione operum) est °, e.g. ⟪पा⟫° = pā(ṇinīye) = "In opere grammatico Pāṇini".
 
 ### Alii vocales in positione initiali
 
@@ -24,13 +24,13 @@ Signa abbreviationis (e.g. in indicatione operum) est °, e.g. ⟪पा⟫° = 
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden. <!-- TODO: Fallback translation -->
+Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
 
 ## Exercitium
 
 A) Scribe in Devanāgarī:
 
-ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha <!-- TODO: Fallback translation -->
+ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
 
 B) Lege et translitera:
 

@@ -1,10 +1,11 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "Μάθημα 16"
+subtitle: "Σχετικά με τον σάντι των τελικών συμφώνων"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα 16
@@ -21,7 +22,7 @@ status: stable
 | :--- | :--- |
 | **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
 | **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
+| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
 Εξαίρεση από τον παραπάνω κανόνα:
@@ -35,7 +36,7 @@ status: stable
 | **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- oder -cch-** |
 | **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
+| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 Παραδείγματα:
@@ -240,13 +241,3 @@ Birla Mandir, Ντελί
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** Ναός Μπίρλα, Νέο Δελχί [Πηγή εικόνας: Deepak / Wikipedia · Άδεια Creative Commons (Αναφορά Δημιουργού, Παρόμοια Διανομή)]
-
-**lekt1602:** «Αυτή είναι μια ειδική τελετή σε έναν μικρό ναό στο Σατάρα (⟪सातारा⟫). Εκτελείται από τους μαθητές της Βεδικής Σχολής Swami Muktananda κατά την εορτή του Mahāśivarātri. Πρόκειται για μια βεδική σχολείο, όπου τα παιδιά απομνημονεύουν τους ιερούς κειμένους που ονομάζονται Βέδες. Η σχολή αυτή διδάσκει το Κρίشنا Yajurveda και ορισμένα τμήματα του Samaveda. Γράφω τη διδακτορική μου διατριβή για αυτή την σχολή.» [Πηγή εικόνας: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Πρόσβαση στις 2008-12-07. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Όχι Παράγωγα Έργα)]
-
-**lekt1603:** «Το χέρι με τον τροχό στην παλάμα συμβολίζει την Τάση της Αहिμσάς των Ινδουιστών. Η λέξη στο κέντρο είναι "ahimsa". Ο τροχός αντιπροσωπεύει το dharmacakra, που συμβολίζει την απόφαση να σταματήσει ο κύκλος της μετενσάρκωσης μέσω της αδιάλειπτης αναζήτησης της αλήθειας και της μη βίας.» [Πηγή εικόνας: Wikipedia, Δημόσιο Τομέα]
-
-**lekt1604:** ⟪हरियाणा⟫ / हरियाणा [Πηγή εικόνας: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Πρόσβαση στις 2008-12-07. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Όχι Παράγωγα Έργα)]
-:::

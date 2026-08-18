@@ -1,10 +1,11 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "ትምህርት 46"
+subtitle: "የሁለተኛ ሰው ቅጥዎች መስራት (⟪मध्यमः⟫) ፐርፌክት (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ትምህርት 46
@@ -376,26 +377,26 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 > **Payer, Alois \<1944 - \>:** Dharmashastra : መግቢያ እና አጠቃላይ እይታ። -- 10. ቅዱስ ሥርዓቶች እና የሽግግር ሥርዓቶች (samskara)። -- አባሪ ሐ: Rahu እና Ketu, የማይታዩት ተንቀሳቃሽ ከዋክብት። -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-ምስል፦ [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
-(የምስል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4602))
+ምስል፦ [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/am/licenses#lekt4602)
+(የምስል ምንጭ፦ [ዝርዝሮች](/am/licenses#lekt4602))
 :::
 
 ::: media
 ![](/images/lekt4603.webp)
-ምስል፦ [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
-(የምስል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4603))
+ምስል፦ [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/am/licenses#lekt4603)
+(የምስል ምንጭ፦ [ዝርዝሮች](/am/licenses#lekt4603))
 :::
 
 ::: media
 ![](/images/lekt4604.webp)
-ምስል፡ [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
-(የምስል ምንጭ: [ዝርዝሮች](/licenses#lekt4604))
+ምስል፡ [⟪शुक्रः⟫, ⟪शनिः⟫](/am/licenses#lekt4604)
+(የምስል ምንጭ: [ዝርዝሮች](/am/licenses#lekt4604))
 :::
 
 ::: media
 ![](/images/lekt4605.webp)
-ምስል፡ [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
-(የምስል ምንጭ: [ዝርዝሮች](/licenses#lekt4605))
+ምስል፡ [⟪राहुः⟫, ⟪केतुः⟫](/am/licenses#lekt4605)
+(የምስል ምንጭ: [ዝርዝሮች](/am/licenses#lekt4605))
 :::
 ⟪तुष्⟫ 4P ⟪तुष्यति⟫ : መርካት፣ በ... ረክቶ መኖር (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
@@ -421,8 +422,8 @@ PPP ⟪तुष्ट⟫
 :::
 ::: media
 ![](/images/lekt4607.webp)
-ምስል፡ [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
-(የምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4607))
+ምስል፡ [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/am/licenses#lekt4607)
+(የምስል ምንጭ፡ [ዝርዝሮች](/am/licenses#lekt4607))
 :::
 ⟪रुह्⟫ 1P ⟪रोहति⟫ : መውጣት፣ ላይ መውጣት
 
@@ -437,8 +438,8 @@ PPP ⟪तुष्ट⟫
 :::
 ::: media
 ![](/images/lekt4606.webp)
-ምስል፡ [⟪अश्वरोहकः⟫](/licenses#lekt4606)
-(የምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4606))
+ምስል፡ [⟪अश्वरोहकः⟫](/am/licenses#lekt4606)
+(የምስል ምንጭ፡ [ዝርዝሮች](/am/licenses#lekt4606))
 :::
 ⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : መጥራት፣ ወደዚህ መጥራት
 
@@ -454,8 +455,8 @@ PPP ⟪तुष्ट⟫
 :::
 ::: media
 ![](/images/lekt4608.webp)
-ምስል፦ [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
-(የምስል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4608))
+ምስል፦ [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/am/licenses#lekt4608)
+(የምስል ምንጭ፦ [ዝርዝሮች](/am/licenses#lekt4608))
 :::
 
 ::: indent
@@ -482,8 +483,8 @@ Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्�
 :::
 ::: media
 ![](/images/lekt4609.webp)
-ምስል፦ [⟪श्रान्तः⟫](/licenses#lekt4609)
-(የምስል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4609))
+ምስል፦ [⟪श्रान्तः⟫](/am/licenses#lekt4609)
+(የምስል ምንጭ፦ [ዝርዝሮች](/am/licenses#lekt4609))
 :::
 ⟪श्रि⟫ 1U ⟪श्रयति⟫ ፡ መደገፍ፣ ድጋፍ ማግኘት፣ ወደ አንድ ሰው መሄድ (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
@@ -511,8 +512,8 @@ Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्�
 :::
 ::: media
 ![](/images/lekt4610.webp)
-ምስል፡ [⟪सङ्गः⟫](/licenses#lekt4610)
-(የምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4610))
+ምስል፡ [⟪सङ्गः⟫](/am/licenses#lekt4610)
+(የምስል ምንጭ፡ [ዝርዝሮች](/am/licenses#lekt4610))
 :::
 ⟪द्रु⟫ 1P ⟪द्रवति⟫ : መሮጥ፣ መቸኮል
 
@@ -553,8 +554,8 @@ Absol. -⟪भ्रम्य⟫
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-ምስል፦ [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
-(የምስሉ ምንጭ፦ [ዝርዝሮች](/licenses#lekt4601))
+ምስል፦ [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/am/licenses#lekt4601)
+(የምስሉ ምንጭ፦ [ዝርዝሮች](/am/licenses#lekt4601))
 :::
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ ፦ መጣበቅ በ (⟪द्वितीयया⟫)
 
@@ -577,8 +578,8 @@ PPP ⟪परिभूत⟫ 3: የተሸነፈ, የተዋረደ, ዝቅ የተ�
 
 ::: media
 ![](/images/lekt4611.webp)
-ምስል፡ [⟪भोः⟫](/licenses#lekt4611)
-(የምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4611))
+ምስል፡ [⟪भोः⟫](/am/licenses#lekt4611)
+(የምስል ምንጭ፡ [ዝርዝሮች](/am/licenses#lekt4611))
 :::
 ## 46.3. ልምምድ
 
@@ -652,28 +653,7 @@ B) ይተርጉሙ፡
 
 ::: media
 ![](/images/lekt4612.webp)
-ምስል፡ [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/licenses#lekt4612)
-(የምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-የነቫግራሃ ምስሎች ምንጭ: Redtigerxyz / Wikipedia. GNU FDLicense
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870). ምንጭ: Wikipedia. የህዝብ ንብረት
-
-L4606: ⟪अश्वरोहकः⟫, Pune=⟪पुणे⟫. ምንጭ: wili_hybrid, Flickr, CC BY 2.0
-
-L4608: Udaipur. ምንጭ: Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609: Karnataka=ಕರ್ನಾಟಕ. Source: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, Kamareddy=కామారెడ్డి. Source: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, Bangalore=ಬೆಂಗಳೂರು. Source: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, Kutch=⟪कच्छ⟫. Source: orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612: ሙምባይ=⟪मुंबई⟫ ከጥቃቱ በኋላ፣ ሐምሌ 11, 2006። ምንጭ: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
+ምስል፡ [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/am/licenses#lekt4612)
+(የምስል ምንጭ፡ [ዝርዝሮች](/am/licenses#lekt4612))
 :::
 

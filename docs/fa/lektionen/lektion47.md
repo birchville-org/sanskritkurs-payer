@@ -253,14 +253,3 @@ status: stable
 
 خجسته باد (رخ دهد)! (آرزوی برکت)
 
-::: deleteme-box
-
-**lekt4702:** معبد هانومان، دهلی = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [منبع تصویر: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- دسترسی در 2009-01-09. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (ذکر نام، بدون ویرایش)]
-
-**lekt4701:** [منبع تصویر: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- دسترسی در 2009-01-09. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ذکر نام، غیرتجاری، اشتراک‌گذاری مشابه)]
-
-**lekt4703:** [منبع تصویر: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- دسترسی در 2009-01-10. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by/2.0/deed.de) (ذکر نام)] <!-- TODO: Fallback translation -->
-
-**lekt4704:** [منبع تصویر: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- دسترسی در 2009-01-10. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ذکر نام، غیرتجاری، بدون ویرایش)]
-
-:::

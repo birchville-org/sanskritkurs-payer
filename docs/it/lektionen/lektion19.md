@@ -220,15 +220,3 @@ Spiegazione: ⟪यथाकालम्⟫ Composto avyayībhāva: al momento g
 :::
 Spiegazione: ⟪पुमान्⟫ Nominativoooooo singolare di ⟪पुंस्⟫ "uomo" ; ⟪लोके⟫ Locativo singolare di ⟪लोक⟫ m.: nella ...
 
-::: deleteme-box
-
-**lekt1809:** Illustrazione per ⟪कामसूत्र⟫ [Fonte dell'immagine: Wikipedia, dominio pubblico]
-
-**lekt1901:** Badami (ಬದಾಮಿ) [Fonte dell'immagine: Sudarshan Bhat Khandige / Wikipedia, dominio pubblico]
-
-**lekt1902:** Goa (⟪गोंय⟫) [Fonte dell'immagine: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Accesso il 2008-12-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-**lekt1903:** ⟪१९५९⟫ [Fonte dell'immagine: Wikipedia, dominio pubblico]
-
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in abito tradizionale è una consuetudine nelle parti meridionali del Kerala. _Onappottan_ visita le case durante l'_onam_ e dà benedizioni. Di recente _onappottan_ è diventato uno spettacolo raro, confinato ai villaggi." [Fonte dell'immagine: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Accesso il 2008-12-08. -- Licenza Creative Commons (Attribuzione)]
-:::

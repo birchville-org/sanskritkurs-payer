@@ -1,543 +1,540 @@
 ---
-title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Ders 60"
+subtitle: "İkilik (Dual) mükemmel çekim ekleri (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 60 <!-- TODO: Fallback translation -->
+---
 
-## 60.1. Die Perfektendungen des Dual (⟪द्विवचनम्⟫) <!-- TODO: Fallback translation -->
+# Ders 60
 
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | \-va | \-vahe | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | \-athur | \-āthe | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | \-atur | \-āte | <!-- TODO: Fallback translation -->
+## 60.1. Çiftin mükemmel çekim ekleri (⟪द्विवचनम्⟫)
 
-## 60.2. Der Dual des reduplizierten Perfekt (⟪द्वित्वलिट्⟫) <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | \-va | \-vahe |
+| 2\. ⟪मध्यमः⟫ | \-athur | \-āthe |
+| 3\. ⟪प्रथमः⟫ | \-atur | \-āte |
 
-### 60.2.1. Typ 1: keine Stammabstufung <!-- TODO: Fallback translation -->
+## 60.2. Çiftin reduplicasyonlu mükemmel hali (⟪द्वित्वलिट्⟫)
 
-⟪बन्ध्⟫ 9P "binden" <!-- TODO: Fallback translation -->
+### 60.2.1. Tip 1: kök derecelendirmesi yok
 
-::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ | <!-- TODO: Fallback translation -->
-:::
-⟪भाष्⟫ 1Ā "sprechen" <!-- TODO: Fallback translation -->
+⟪बन्ध्⟫ 9P "bağlamak"
 
 ::: grammar-box
-|   | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
 :::
-### 60.2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
-
-⟪भिद्⟫ 7U "spalten" <!-- TODO: Fallback translation -->
+⟪भाष्⟫ 1Ā "konuşmak"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪आत्मनेपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
 :::
-### 60.2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe <!-- TODO: Fallback translation -->
+### 60.2.2. Tip 2: güçlü kök yüksek derece, zayıf kök alçak derece
 
-#### 60.2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
-
-⟪नी⟫ 1U "führen" <!-- TODO: Fallback translation -->
+⟪भिद्⟫ 7U "bölümlere ayırmak"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
 :::
-⟪स्तु⟫ 2U (⟪अनिट्⟫) "loben" <!-- TODO: Fallback translation -->
+### 60.2.3. Tip 3: Güçlü kök yüksek derece/genişleme derecesi
+
+#### 60.2.3.1. Tip 3a: Güçlü kök yüksek derece/genişleme derecesi, zayıf kök alçak derece
+
+⟪नी⟫ 1U "yönlendirmek"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
 :::
-⟪कृ⟫ 8U (⟪अनिट्⟫) "tun, machen" <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2U (⟪अनिट्⟫) "övmek"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
 :::
-#### 60.2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
-
-⟪स्मृ⟫ 1P "vergegenwärtigen" <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U (⟪अनिट्⟫) "yapmak, etmek"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
 :::
-### 60.2.4. Typ 4: Wurzeln auf -ā / -ai <!-- TODO: Fallback translation -->
+#### 60.2.3.2. Tip 3b: Güçlü kök yüksek basamak/genleşme basamağı, zayıf kök yüksek basamak
 
-⟪दा⟫ 3U "geben" <!-- TODO: Fallback translation -->
+⟪स्मृ⟫ 1P "hatırlatmak, önüne getirmek"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪ददथुर्⟫ | ⟪ददाथे⟫ \* | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* | <!-- TODO: Fallback translation -->
-
-\* identisch mit den entsprechenden Formen des Indikativ Präsens! <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
 :::
-### 60.2.5. Typ 5: Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
+### 60.2.4. Tip 4: -ā / -ai ile biten kökler
 
-#### 60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
-
-⟪गम्⟫ 1U "gehen" <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U "vermek"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ | <!-- TODO: Fallback translation -->
-:::
-#### 60.2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e- <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪ददथुर्⟫ | ⟪ददाथे⟫ \* |
+| 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
-⟪पच्⟫ 1U "garen" <!-- TODO: Fallback translation -->
+\* ilgili şimdiki zaman bildirme kipi formlarıyla aynıdır!
+:::
+### 60.2.5. Tip 5: Ünsüz-a-Ünsüz
+
+#### 60.2.5.1. Tip 5a: Ünsüz-a-Ünsüz, zayıf kök düşük basamak
+
+⟪गम्⟫ 1U "gitmek"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
 :::
-#### 60.2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
+#### 60.2.5.2. Tip 5b: Ünsüz-a-Ünsüz, baştaki ünsüz gutural değil, aspiratlı değil, h değil, zayıf kök redüplikasyonsuz, -e- ile
 
-⟪क्रम्⟫ 1U "schreiten" <!-- TODO: Fallback translation -->
+⟪पच्⟫ 1U "pişirmek"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
 :::
-## 60.3. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫) <!-- TODO: Fallback translation -->
+#### 60.2.5.3. Tip 5c: Ünsüz-a-Ünsüz, zayıf kök yüksek basamak
 
-⟪गण्⟫ 10P "zählen" <!-- TODO: Fallback translation -->
+⟪क्रम्⟫ 1U "adım atmak"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
 :::
-⟪आस्⟫ 2Ā "sitzen" <!-- TODO: Fallback translation -->
+## 60.3. Periphrastik Mükemmel'in Çift Hali (⟪अनुप्रयोगलिट्⟫)
+
+⟪गण्⟫ 10P "saymak"
 
 ::: grammar-box
-|   | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪गणयां चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां बभूविव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪गणयां चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां बभूवथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪गणयां चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां बभूवतुर्⟫ |
 :::
-## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫) <!-- TODO: Fallback translation -->
+⟪आस्⟫ 2Ā "oturmak"
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
-
-**schwacher Perfektstamm + vāṃs** <!-- TODO: Fallback translation -->
-
-**Besteht der schwache Perfektstamm nur aus einer Silbe, dann wird der Bindevokal -i- angefügt. Bei einigen Perfekta ist der Bindevokal wahlweise.** <!-- TODO: Fallback translation -->
+|   | ⟪आत्मनेपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪आसां चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां बभूविवव्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪आसांव् चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां बभूवथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪आसां चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां बभूवतुर्व्⟫ |
 :::
-Beispiele: <!-- TODO: Fallback translation -->
-
-| ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "jemand, der gespalten hat" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "jemand, der gewesen ist" ; "jemand, der geworfen hat" | <!-- TODO: Fallback translation -->
-| ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "jemand, der gegeben hat" | <!-- TODO: Fallback translation -->
-| ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "jemand, der gegart hat" | <!-- TODO: Fallback translation -->
-| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" | <!-- TODO: Fallback translation -->
+## 60.4. Çoğaltmalı Mükemmel'in परस्मैपद Ortak Adı (⟪द्वित्वलिट्⟫)
 
 ::: grammar-box
-**Deklination:** <!-- TODO: Fallback translation -->
+**Oluşum:**
 
-*   **starker Stamm: -vāṃs** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm:** <!-- TODO: Fallback translation -->
-    *   **vor Konsonant:** **-vat** **(!)** <!-- TODO: Fallback translation -->
-    *   **vor Vokal: -uṣ** <!-- TODO: Fallback translation -->
+**zayıf mükemmel kök + vāṃs**
 
-**Vor uṣ entfällt der Bindevokal -i-.** <!-- TODO: Fallback translation -->
-
-**Feminin:** <!-- TODO: Fallback translation -->
-
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)** <!-- TODO: Fallback translation -->
-
-Beispiel: ⟪विदुषी⟫ "eine Wissende" <!-- TODO: Fallback translation -->
+**Zayıf mükemmel kök yalnızca bir heceden oluşuyorsa, bağlayıcı ünlü -i- eklenir. Bazı mükemmellerde bağlayıcı ünlü isteğe bağlıdır.**
 :::
-Paradigmen siehe Kielhorn, Grammatik § 124: <!-- TODO: Fallback translation -->
+Örnekler:
+
+| ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "bölen kişi" |
+| --- | --- |
+| ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "olan kişi" ; "atan kişi" |
+| ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "veren kişi" |
+| ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "pişiren kişi" |
+| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "giden kişi" |
+
+::: grammar-box
+**Çekimleme:**
+
+*   **Güçlü kök: -vāṃs**
+*   **Zayıf kök:**
+*   **Ünsüzden önce: -vat** **(!)**
+*   **Ünlüden önce: -uṣ**
+
+**-i- bağlayıcı ünlüsü uṢ öncesinde düşer.**
+
+**Dişil:**
+
+**Zayıf kök ünlüden önce + -ī (⟪देवी⟫ gibi çekimlenir)**
+
+Örnek: ⟪विदुषी⟫ "bilgi sahibi olan"
+:::
+Paradigmalar için Kielhorn, Grammatik § 124'e bakınız:
 
 ::: media
 ![](/images/lekt6001.webp)
-(Bildquelle: [Details](/licenses#lekt6001)) <!-- TODO: Fallback translation -->
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt6001))
 :::
 
 ::: media
 ![](/images/lekt6002.webp)
-(Bildquelle: [Details](/licenses#lekt6002)) <!-- TODO: Fallback translation -->
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt6002))
 :::
-## 60.5. Deklination der Stämme auf -añc (-ac) <!-- TODO: Fallback translation -->
+## 60.5. -añc (-ac) kökleriyle biten çekimler
 
 ::: grammar-box
-**Die Stämme auf -añc/-ac sind Verbindungen von Präverbien usw. mit dem Wurzelnomen der Wurzel ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "sich bewegen".** <!-- TODO: Fallback translation -->
+**-añc/-ac ile biten kökler, ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "hareket etmek" kök adıyla ön eklerin vb. birleşimleridir.**
 :::
-### 60.5.1. Dreistämmige Stämme auf -añc <!-- TODO: Fallback translation -->
+### 60.5.1. -añc ile biten üç köklü yapılar
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Oluşum:**
 
-*   **starker Stamm: -añc** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm:** <!-- TODO: Fallback translation -->
-    *   **vor Konsonant: -ac** <!-- TODO: Fallback translation -->
-    *   **vor Vokal:** <!-- TODO: Fallback translation -->
-        *   **das -a- des schwachen Stamms -ac entfällt und für einen vorangehenden Halbvokal wird der diesem entsprechende lange Vokal substituiert:**   <!-- TODO: Fallback translation -->
-            ⟪प्रत्यच्⟫ » ⟪प्रतीच्⟫  
-            ⟪अन्वच्⟫ » ⟪अनूच्⟫ <!-- TODO: Fallback translation -->
-        *   **Geht dem -ac kein Halbvokal voraus, wird -ac durch -īc ersetzt:**   <!-- TODO: Fallback translation -->
-            ⟪उदच्⟫ » ⟪उदीच्⟫ <!-- TODO: Fallback translation -->
-        *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫ <!-- TODO: Fallback translation -->
+*   **Güçlü kök: -añc**
+*   **Zayıf kök:**
+*   **Ünsüzden önce: -ac**
+*   **Ünlüden önce:**
+*   **zayıf kök -ac'nin -a'sı düşer ve öncesindeki yarım ünlü yerine ona karşılık gelen uzun ünlü konur:**  
+⟪प्रत्यच्⟫ » ⟪प्रतीच् अन्वच्⟫ » ⟪अनूच्⟫
+*   **-ac'den önce yarım ünlü yoksa, -ac yerine -īc konur:**  
+⟪उदच्⟫ » ⟪उदीच्⟫
+*   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
 
-**Femininum:** <!-- TODO: Fallback translation -->
+**Dişil:**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)** <!-- TODO: Fallback translation -->
+**Zayıf kök ünlüden önce + -ī (⟪देवी⟫ gibi çekimlenir)**
 
-Beispiel: ⟪प्रतीची⟫ <!-- TODO: Fallback translation -->
+Örnek: ⟪प्रतीची⟫
 :::
-####  Paradigmen siehe Kielhorn, Grammatik § 128: <!-- TODO: Fallback translation -->
+#### Paradigmalar için Kielhorn, Grammatik § 128'e bakınız:
 
 ::: media
 ![](/images/lekt6003.webp)
-(Bildquelle: [Details](/licenses#lekt6003)) <!-- TODO: Fallback translation -->
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt6003))
 :::
 
 ::: media
 ![](/images/lekt6004.webp)
-(Bildquelle: [Details](/licenses#lekt6004)) <!-- TODO: Fallback translation -->
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt6004))
 :::
-Hierher gehören: <!-- TODO: Fallback translation -->
+Bunlara şunlar dahildir:
 
-*   ⟪प्रत्यञ्च्⟫ 3 "rückwärts, westlich" <!-- TODO: Fallback translation -->
+*   ⟪प्रत्यञ्च्⟫ 3 "geriye doğru, batı yönünde"
 
-*   ⟪अन्वञ्च्⟫ 3 "folgend" <!-- TODO: Fallback translation -->
+*   ⟪अन्वञ्च्⟫ 3 "takip eden"
 
-*   ⟪उदञ्च्⟫ 3 "nach oben gerichtet, nördlich" <!-- TODO: Fallback translation -->
+*   ⟪उदञ्च्⟫ 3 "yukarıya doğru, kuzey yönünde"
 
-*   ⟪तिर्यञ्च्⟫ 3 "wagrecht gehend (von Tieren" <!-- TODO: Fallback translation -->
+*   ⟪तिर्यञ्च्⟫ 3 "yatay hareket eden (hayvanlar için)
 
-*   ⟪सम्यञ्च्⟫ 3 "richtig" <!-- TODO: Fallback translation -->
+*   ⟪सम्यञ्च्⟫ 3 "doğru"
 
-*   ⟪न्यञ्च्⟫ 3 "niedrig" <!-- TODO: Fallback translation -->
+*   ⟪न्यञ्च्⟫ 3 "alçak"
 
-*   ⟪विष्वञ्च्⟫ 3 "nach allen Seiten gehend" <!-- TODO: Fallback translation -->
+*   ⟪विष्वञ्च्⟫ 3 "her yöne doğru hareket eden"
 
-### 60.5.2. Zweistämmige Stämme auf -añc <!-- TODO: Fallback translation -->
+
+### 60.5.2. -añc ile biten iki kökenli kökler
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Oluşum:**
 
-*   **starker Stamm: -añc** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm vor Konsonant bzw. Vokal: -ac** <!-- TODO: Fallback translation -->
+*   **güçlü kök: -añc**
+*   **zayıf kök ünsüzden sonra veya sesliden önce: -ac**
 :::
-Hierher gehören: <!-- TODO: Fallback translation -->
+Bunlara şunlar dahildir:
 
-*   ⟪प्राञ्च्⟫ 3 "vorwärts gerichtet, östlich" <!-- TODO: Fallback translation -->
-*   ⟪अवाञ्च्⟫ 3 "abwärts gerichtet" <!-- TODO: Fallback translation -->
+*   ⟪प्राञ्च्⟫ 3 "ileriye doğru, doğu yönünde"
+*   ⟪अवाञ्च्⟫ 3 "aşağıya doğru"
 
-Paradigma ⟪प्राञ्च्⟫ siehe oben! <!-- TODO: Fallback translation -->
+Çekim ⟪प्राञ्च्⟫ yukarıda bakınız!
 
-Die Haupthimmelsrichtungen <!-- TODO: Fallback translation -->
+Ana yönler
 
-|   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" | <!-- TODO: Fallback translation -->
-|   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   | <!-- TODO: Fallback translation -->
+|   | ⟪उदञ्च्⟫ 3:br"yukarıya doğru,:brkuzey yönünde" |   |
+| :---: | :---: | :---: |
+| ⟪प्रत्यञ्च्⟫ 3:br"geriye doğru,:brbatı yönünde" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"ileriye doğru,:brdoğu yönünde" |
+|   | ⟪दक्षिण⟫ 3:brsağ,:brgüney yönünde |   |
 
-(Bildquelle: [Details](/licenses#lekt6005)) <!-- TODO: Fallback translation -->
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt6005))
 
-## 60.6. Das Desiderativum (⟪सन्⟫) <!-- TODO: Fallback translation -->
+## 60.6. Arzu Kipi (⟪सन्⟫)
 
 ::: grammar-box
-**Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (⟪सन्⟫) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen ausserhalb des Präsensstamms sind aber sehr selten.** <!-- TODO: Fallback translation -->
+**Her kökten ve nedensel kipten bir arzu kipi (⟪सन्⟫) türetilebilir. Arzu kipi, P, Ā ve Edilgen'in tüm zamanlarında ve kiplerinde çekimlenebilir. Preterit kökü dışındaki arzu kipi biçimleri çok nadirdir.**
 
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**Anlam:**
 
-*   **eine Person oder Sache wünscht zu tun oder zu erleiden, was durch die Wurzel oder das Kausativum ausgedrückt wird** <!-- TODO: Fallback translation -->
-*   **seltener: jemand oder etwas ist im Begriffe, zu tun, was durch die Wurzel oder das Kausativum ausgedrückt wird** <!-- TODO: Fallback translation -->
+*   **bir kişi veya şey, kök veya nedensel kip tarafından ifade edileni yapmayı veya yaşamayı diler**
+*   **daha az yaygın: birisi veya bir şey, kök veya nedensel kip tarafından ifade edileni yapma aşamasındadır**
 :::
-####  Beispiele: <!-- TODO: Fallback translation -->
+####  Örnekler:
 
-| ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "er wünscht zu tun" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "er ist im Begriffe, zu fallen" | <!-- TODO: Fallback translation -->
-| ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" | <!-- TODO: Fallback translation -->
-| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" | <!-- TODO: Fallback translation -->
+| ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "yapmak ister" |
+| --- | --- |
+| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "düşmek üzere" |
+| ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "hırsızlık yapmak ister" |
+| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "öğretmek ister (bilgiye uyanışa)" |
 
-### 60.6.1. Bildung des Desiderativstammes <!-- TODO: Fallback translation -->
+### 60.6.1. İstek kökünün oluşturulması
 
 ::: grammar-box
-**Wurzeln der Präsensklassen 1 - 9:** <!-- TODO: Fallback translation -->
+**1. - 9. Şimdiki zaman sınıflarının kökleri:**
 
-**reduplizierte Wurzel + sa** <!-- TODO: Fallback translation -->
+**reduplike edilmiş kök + sa**
 
-**oder:** <!-- TODO: Fallback translation -->
+**veya:**
 
-**reduplizierte Wurzel + i + ṣa** <!-- TODO: Fallback translation -->
+**reduplike edilmiş kök + i + ṣa**
 
-Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 443 - 445. <!-- TODO: Fallback translation -->
+i- bağlayıcı sesinin kullanımı için kurallar Kielhorn, Gramer § 443 - 445'te bakınız.
 
-**Wurzeln der 10. Präsensklasse und Kausative:** <!-- TODO: Fallback translation -->
+**10. Şimdiki zaman sınıfının kökleri ve Kausatifler:**
 
-**reduplizierter Präsensstamm + i + ṣa** <!-- TODO: Fallback translation -->
+**reduplike edilmiş şimdiki zaman kökü + i + ṣa**
 :::
 ::: grammar-box
-**Gestalt der Wurzel:** <!-- TODO: Fallback translation -->
+**Kökün biçimi:**
 
-1.  Die Wurzel ist meist tiefstufig: ⟪जीव्⟫ » ⟪जिजीविष⟫-   <!-- TODO: Fallback translation -->
+1. Kök genellikle derin ses basamaklıdır: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
 
-    1.  auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:   <!-- TODO: Fallback translation -->
-        ⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "zu siegen wünschen"  
-        ⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "zu laufen wünschen"   <!-- TODO: Fallback translation -->
+1. Sonunda -i, -u bulunanlar, eğer bağlayıcı ses yoksa -ī veya -ū ile değiştirilir:  
+⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "zafer kazanmak ister"  
+⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "koşmak ister"  
 
-    2.  auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:   <!-- TODO: Fallback translation -->
-        ⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "zu tun wünschen"  
-        ⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "im Begriff sein, zu sterben"  
-        ⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "zu füllen wünschen"   <!-- TODO: Fallback translation -->
+2. Sonunda -ṛ, -ṝ bulunanlar, eğer bağlayıcı ses yoksa -īr ile değiştirilir; dudaklılardan sonra -ūr ile:  
+⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "yapmak ister"  
+⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "ölüm üzere"  
+⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "doldurmak ister"  
 
-    3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ und einige andere Wurzeln auf -ā, -e, -o haben Tiefstufe Ø:   <!-- TODO: Fallback translation -->
-        ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
-        ⟪धा⟫ » ⟪धित्स⟫-  
-        ⟪मा⟫ » ⟪मित्स⟫-   <!-- TODO: Fallback translation -->
+3. ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ ve -ā, -e, -o ile biten bazı diğer kökler derin ses basamağı Ø'ye sahiptir:  
+⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
+⟪धा⟫ » ⟪धित्स⟫-  
+⟪मा⟫ » ⟪मित्स⟫-  
 
-2.  Hochstufige Wurzel haben im Desiderativ:  <!-- TODO: Fallback translation -->
-    1.  die meisten Wurzeln auf -ā (-e, -ai usw.):   <!-- TODO: Fallback translation -->
-        ⟪गै⟫ » ⟪जिगास⟫- "zu singen wünschen"  
-        ⟪पा⟫ » ⟪पिपास⟫- "zu trinken wünschen, dürsten"   <!-- TODO: Fallback translation -->
+2. Yüksek ses basamaklı kökler İsteğe sahip: 
+1. -ā (-e, -ai vb.) ile biten çoğu kök:  
+⟪गै⟫ » ⟪जिगास⟫- "şarkı söylemek ister"  
+⟪पा⟫ » ⟪पिपास⟫- "içmek ister, susamak"
 
-    2.  die meisten Wurzeln der Form (Konsonant -) a / ā - Konsonant:   <!-- TODO: Fallback translation -->
-        ⟪दह्⟫ » ⟪दिधक्ष⟫- "zu verbrennen wünschen"  
-        ⟪खाद्⟫ » ⟪चिखादिष⟫- "zu kauen wünschen"   <!-- TODO: Fallback translation -->
+2.  çoğu (Ünsüz -) a / ā - Ünsüz biçimindeki kökler:  
+⟪दह्⟫ » ⟪दिधक्ष⟫- "yanmayı dilemek"  
+⟪खाद्⟫ » ⟪चिखादिष⟫- "çalmayı dilemek"  
 
-    3.  bei Antreten des Bindevokals -i-:  <!-- TODO: Fallback translation -->
-        1.  obligatorisch: Wurzeln der Form i/u - Konsonant sowie (Konsonant -) ṛ/ḷ - Konsonant:   <!-- TODO: Fallback translation -->
-            ⟪इष्⟫ » ⟪एषिषिष⟫- "zu wünschen verlangen"  
-            ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "passend zu sein wünschen"  
-            ⟪स्मि⟫ » ⟪सि⟫:sig[⟪स्म⟫]⟪यिष⟫- "zu lächeln wünschen"   <!-- TODO: Fallback translation -->
+3.  Bağlayıcı ünlü -i- alındığında: 
+1.  zorunlu: i/u - Ünsüz biçimindeki kökler ile (Ünsüz -) ṛ/ḷ - Ünsüz biçimindeki kökler:  
+⟪इष्⟫ » ⟪एषिषिष⟫- "istemek dilemek"  
+⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "uygun olmak dilemek"  
+⟪स्मि⟫ » ⟪सि⟫:sig[⟪स्म⟫]⟪यिष⟫- "gülmek dilemek"  
 
-        2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant ausser -v\_   <!-- TODO: Fallback translation -->
-            ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen" <!-- TODO: Fallback translation -->
+2.  isteğe bağlı: Ünsüz - (Ünsüz -) i/u - Ünsüz biçimindeki kökler, -v\_ hariç  
+⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "parıldamak dilemek"
 :::
 ::: grammar-box
-**Zur Reduplikation:** <!-- TODO: Fallback translation -->
+**Tekilleştirme (Reduplikasyon) hakkında:**
 
-1.  Konsonantisch anlautende Wurzeln: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Wurzeln nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:   <!-- TODO: Fallback translation -->
-:::
-::: indent
-⟪पा⟫ » ⟪पिपास⟫-
-⟪त्यज्⟫ » ⟪तित्यज⟫-
-⟪चुर्⟫ » ⟪चुचोरयिष⟫-
-Die Zerebralisierung nach i/u von auslautendem -s der Wurzel unterbleibt, wenn das s des Desiderativsuffixes zerebralisiert wird:
-⟪स्मि⟫ » ⟪सिस्मयिष⟫-   <!-- TODO: Fallback translation -->
-:::
+1.  Ünsüzle başlayan kökler: Tekilleştirme, yukarıdaki kurallara göre değiştirilmiş köklere, yaygın kurallara uygun olarak yapılır. Tekilleştirme ünlüsü olarak a yerine i gelir:  
+⟪पा⟫ » ⟪पिपास⟫-  
+⟪त्यज्⟫ » ⟪तित्यज⟫-  
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
+Kökün sonundaki -s'nin i/u sonrası beyinleşmesi (zerebralisasi), eğer dilek eki -s'si beyinleşirse gerçekleşmez:  
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-  
 
-2.  Vokalisch anlautende Wurzeln werden nach den entsprechenden Regeln für den reduplizierten Aorist ([Lektion 56](lektion56.md)) redupliziert:   <!-- TODO: Fallback translation -->
-::: indent
-⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
-⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
-⟪ऋ⟫ » ⟪अरिरिष⟫-   <!-- TODO: Fallback translation -->
-:::
+2.  Ünlüyle başlayan kökler, tekilleştirilmiş Aorist için ilgili kurallara göre ([Ders 56](lektion56.md)) tekilleştirilir:  
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
+⟪ऋ⟫ » ⟪अरिरिष⟫-  
 
-3.  Die besondere Desiderativbildung bestimmter Wurzeln siehe bei Kielhorn, Grammatik § 451. <!-- TODO: Fallback translation -->
+3.  Belirli kökler için özel dilek biçimlenmesi için Kielhorn, Gramer § 451'e bakınız.
+:::
 ::: grammar-box
-**Zu einigen Wurzeln werden Desiderative ohne desiderative Bedeutung gebildet. Zu diesen Desiderativen können Desiderative mit desiderativer Bedeutung gebildet werden.** <!-- TODO: Fallback translation -->
+**Bazı köklere, dilek anlamı taşımayan dilek kipleri (desiderativ) oluşturulur. Bu dilek kiplerine, dilek anlamı taşıyan dilek kipleri de oluşturulabilir.**
 :::
-Liste bei Kielhorn, Grammatik § 452: <!-- TODO: Fallback translation -->
+Kielhorn, Gramer § 452'deki liste:
 
 ::: media
 ![](/images/lekt6006.webp)
-(Bildquelle: [Details](/licenses#lekt6006)) <!-- TODO: Fallback translation -->
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt6006))
 :::
-### 60.6.2. Konjugation des Desiderativs (⟪सन्⟫) <!-- TODO: Fallback translation -->
+### 60.6.2. Dilek Kipi Çekimi (⟪सन्⟫)
 
 ::: grammar-box
-**Das Desiderativ ist - mit wenigen Ausnahmen - P, Ā bzw. U, je nachdem, ob die zugrundeliegende Wurzel (bzw. der zugrundeligende Verbalstamm) P, Ā oder U ist.** <!-- TODO: Fallback translation -->
+**Dilek kipi - az sayıda istisna dışında, temel köke (veya temel fiil gövdesine) P, Ā veya U'dan hangisi aitse ona göre P, Ā veya U olarak çekimlenir.**
 
-**Präsensstamm: Konjugation wie ein thematischer Stamm:** <!-- TODO: Fallback translation -->
+**Şimdiki zaman gövdesi: Temel bir gövde gibi çekimlenir:**
 
-⟪यज्⟫ 1U: <!-- TODO: Fallback translation -->
+⟪यज्⟫ 1U:
 
 :::
 ::: indent
-P: ⟪यियक्षति⟫ "er wünscht, für jemand anderen zu opfern"
-Ā: ⟪यियक्षते⟫ "er wünscht, für sich selbst (als Opferherr) zu opfern"
-Passiv: ⟪यियक्ष्यते⟫ "es wird zu opfern gewünscht" <!-- TODO: Fallback translation -->
+P: ⟪यियक्षति⟫ "başkası için kurban etmek ister"
+Ā: ⟪यियक्षते⟫ "kendi adına (kurban sahibi olarak) kurban etmek ister"
+Edilgen: ⟪यियक्ष्यते⟫ "kurban edilmesi dileği vardır"
 :::
-**Perfekt: periphrastisch:** <!-- TODO: Fallback translation -->
+**Mükemmiyet (Perfekt): periphrastik:**
 
 ::: indent
-⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "er wünschte zu erlangen" <!-- TODO: Fallback translation -->
+⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां चकार⟫ "elde etmeyi dilemişti"
 :::
-**Aorist: iṣ-Aorist:** <!-- TODO: Fallback translation -->
+**Aorist: iṣ-Aorist:**
 
 ::: indent
-⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am) <!-- TODO: Fallback translation -->
+⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Futur: ⟪सेट्⟫** <!-- TODO: Fallback translation -->
+**Gelecek zaman: ⟪सेट्⟫**
 
 ::: indent
-⟪आप्⟫ » ⟪ईप्सिष्यामि⟫ <!-- TODO: Fallback translation -->
+⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
 :::
-Zur Bildung von Nomina agentis auf -u aus dem Desiderativstamm siehe [Lektion 54](lektion54.md). <!-- TODO: Fallback translation -->
+Dilek kipi gövdesinden -u ekiyle yapan isimleri (nomina agentis) oluşturma hakkında bkz. [Ders 54](lektion54.md).
 
-## 60.7. Übung <!-- TODO: Fallback translation -->
+## 60.7. Alıştırma
 
-A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmässigen Desiderativbildungen zu bisher gelernten Verben: <!-- TODO: Fallback translation -->
+A) Kielhorn, Gramer § 451'de daha önce öğrenilen fiillere ait düzensiz dilek kipi oluşumlarını öğrenin:
 
 ::: media
 ![](/images/lekt6007.webp)
-(Bildquelle: [Details](/licenses#lekt6007)) <!-- TODO: Fallback translation -->
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt6007))
 :::
 
 ::: media
 ![](/images/lekt6008.webp)
-(Bildquelle: [Details](/licenses#lekt6008)) <!-- TODO: Fallback translation -->
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt6008))
 :::
 
 ::: media
 ![](/images/lekt6009.webp)
-(Bildquelle: [Details](/licenses#lekt6009)) <!-- TODO: Fallback translation -->
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt6009))
 :::
-B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen: <!-- TODO: Fallback translation -->
+B) Aşağıdaki formları yardımcı materyaller kullanmadan belirleyin ve çevirin:
 
-1.  ⟪ददुषोः⟫ <!-- TODO: Fallback translation -->
+1.  ⟪ददुषोः⟫
 
-2.  ⟪अहिंसीः⟫ <!-- TODO: Fallback translation -->
+2.  ⟪अहिंसीः⟫
 
-3.  ⟪देमथुः⟫ <!-- TODO: Fallback translation -->
+3.  ⟪देमथुः⟫
 
-4.  ⟪वक्त्वा⟫ <!-- TODO: Fallback translation -->
+4.  ⟪वक्त्वा⟫
 
-5.  ⟪अक्षथाः⟫ <!-- TODO: Fallback translation -->
+5.  ⟪अक्षथाः⟫
 
-6.  ⟪मुमुषिषिष्यतः⟫ <!-- TODO: Fallback translation -->
+6.  ⟪मुमुषिषिष्यतः⟫
 
-7.  ⟪अचिक्षंसेथाम्⟫ <!-- TODO: Fallback translation -->
+7.  ⟪अचिक्षंसेथाम्⟫
 
-8.  ⟪अस्नाः⟫ <!-- TODO: Fallback translation -->
+8.  ⟪अस्नाः⟫
 
-9.  ⟪जिहिंसुषि⟫ <!-- TODO: Fallback translation -->
+9.  ⟪जिहिंसुषि⟫
 
-10.  ⟪जिहिंसिषुणा⟫ <!-- TODO: Fallback translation -->
+10.  ⟪जिहिंसिषुणा⟫
 
-11.  ⟪द्युभिः⟫ <!-- TODO: Fallback translation -->
+11.  ⟪द्युभिः⟫
 
-12.  ⟪जग्लिव⟫ <!-- TODO: Fallback translation -->
+12.  ⟪जग्लिव⟫
 
-13.  ⟪अतिस्तीर्षम्⟫ <!-- TODO: Fallback translation -->
+13.  ⟪अतिस्तीर्षम्⟫
 
-14.  ⟪अस्मेष्ठाः⟫ <!-- TODO: Fallback translation -->
+14.  ⟪अस्मेष्ठाः⟫
 
-15.  ⟪ईशिष्व⟫ <!-- TODO: Fallback translation -->
+15.  ⟪ईशिष्व⟫
 
-16.  ⟪रुरुषतुः⟫ <!-- TODO: Fallback translation -->
+16.  ⟪रुरुषतुः⟫
 
-17.  ⟪रुरुषुः⟫ <!-- TODO: Fallback translation -->
+17.  ⟪रुरुषुः⟫
 
-18.  ⟪रुरुषिषुः⟫ <!-- TODO: Fallback translation -->
+18.  ⟪रुरुषिषुः⟫
 
-19.  ⟪अपिप्रीणताम्⟫ <!-- TODO: Fallback translation -->
+19.  ⟪अपिप्रीणताम्⟫
 
-20.  ⟪अपिप्रीषतम्⟫ <!-- TODO: Fallback translation -->
+20.  ⟪अपिप्रीषतम्⟫
 
-21.  ⟪पिप्रियतुः⟫ <!-- TODO: Fallback translation -->
+21.  ⟪पिप्रियतुः⟫
 
-22.  ⟪तिस्रः⟫ <!-- TODO: Fallback translation -->
+22.  ⟪तिस्रः⟫
 
-23.  ⟪अदांक्ष्टाम्⟫ <!-- TODO: Fallback translation -->
+23.  ⟪अदांक्ष्टाम्⟫
 
-24.  ⟪असिसीर्ष्यत⟫ <!-- TODO: Fallback translation -->
+24.  ⟪असिसीर्ष्यत⟫
 
-25.  ⟪बभासाते⟫ <!-- TODO: Fallback translation -->
+25.  ⟪बभासाते⟫
 
-26.  ⟪बिभासिषेथे⟫ <!-- TODO: Fallback translation -->
+26.  ⟪बिभासिषेथे⟫
 
-27.  ⟪अबीभणत⟫ <!-- TODO: Fallback translation -->
+27.  ⟪अबीभणत⟫
 
-28.  ⟪चकर्त⟫ <!-- TODO: Fallback translation -->
+28.  ⟪चकर्त⟫
 
-29.  ⟪चकर्थ⟫ <!-- TODO: Fallback translation -->
+29.  ⟪चकर्थ⟫
 
-30.  ⟪दिद्युते⟫ <!-- TODO: Fallback translation -->
+30.  ⟪दिद्युते⟫
 
-31.  ⟪दिद्युतिषे⟫ <!-- TODO: Fallback translation -->
+31.  ⟪दिद्युतिषे⟫
 
-32.  ⟪चुच्यूषवे⟫ <!-- TODO: Fallback translation -->
+32.  ⟪चुच्यूषवे⟫
 
-33.  ⟪दित्सामि⟫ <!-- TODO: Fallback translation -->
+33.  ⟪दित्सामि⟫
 
-34.  ⟪अचीकृतम्⟫ <!-- TODO: Fallback translation -->
+34.  ⟪अचीकृतम्⟫
 
-35.  ⟪विजिगीषौ⟫ <!-- TODO: Fallback translation -->
+35.  ⟪विजिगीषौ⟫
 
-36.  ⟪पित्सेथे⟫ <!-- TODO: Fallback translation -->
+36.  ⟪पित्सेथे⟫
 
-37.  ⟪उदीचि⟫ <!-- TODO: Fallback translation -->
+37.  ⟪उदीचि⟫
 
-38.  ⟪संगणय्य⟫ <!-- TODO: Fallback translation -->
+38.  ⟪संगणय्य⟫
 
-39.  ⟪अतिस्तराव⟫ <!-- TODO: Fallback translation -->
+39.  ⟪अतिस्तराव⟫
 
-40.  ⟪त्रिलोक्याः⟫ <!-- TODO: Fallback translation -->
+40.  ⟪त्रिलोक्याः⟫
 
-41.  ⟪अहः⟫ <!-- TODO: Fallback translation -->
+41.  ⟪अहः⟫
 
-42.  ⟪जग्मुषः⟫ <!-- TODO: Fallback translation -->
+42.  ⟪जग्मुषः⟫
 
-43.  ⟪अताप्स्व⟫ <!-- TODO: Fallback translation -->
+43.  ⟪अताप्स्व⟫
 
-44.  ⟪ईशिशिषाञ्चक्रे⟫ <!-- TODO: Fallback translation -->
+44.  ⟪ईशिशिषाञ्चक्रे⟫
 
-45.  ⟪ईशाञ्चक्रे⟫ <!-- TODO: Fallback translation -->
+45.  ⟪ईशाञ्चक्रे⟫
 
-46.  ⟪ईशयाञ्चक्रे⟫ <!-- TODO: Fallback translation -->
+46.  ⟪ईशयाञ्चक्रे⟫
 
-47.  ⟪षण्णाम्⟫ <!-- TODO: Fallback translation -->
+47.  ⟪षण्णाम्⟫
 
-48.  ⟪अघुक्षम्⟫ <!-- TODO: Fallback translation -->
+48.  ⟪अघुक्षम्⟫
 
-49.  ⟪अष्टौ⟫ <!-- TODO: Fallback translation -->
+49.  ⟪अष्टौ⟫
 
-50.  ⟪प्साथः⟫ <!-- TODO: Fallback translation -->
+50.  ⟪प्साथः⟫
 
-51.  ⟪अवाचः⟫ <!-- TODO: Fallback translation -->
+51.  ⟪अवाचः⟫
 
-52.  ⟪ईयुषे⟫ <!-- TODO: Fallback translation -->
+52.  ⟪ईयुषे⟫
 

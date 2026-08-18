@@ -9,14 +9,6 @@ status: stable
 
 # Lección 4
 
-::: deleteme-box
-**En esta lección aprenderá:**
-- Pronombres interrogativos y pronombres demostrativos en nominativo
-- Sandhi de -m final
-- Sandhi de -e final
-- Sandhi de -d final
-- Fórmulas de pregunta simples
-:::
 ## 4.1. Preguntas de complemento simples (preguntas de palabras) y respuestas
 
 ### 4.1.1. Pronombres interrogativos y pronombres demostrativos
@@ -107,4 +99,4 @@ NOTA: Las respuestas que puede dar a estas preguntas con sus conocimientos actua
 ![](/images/lekt0401.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0401))
 :::
- &lt;!-- TODO: Fallback translation --&gt;
+ &lt;!--  --&gt;

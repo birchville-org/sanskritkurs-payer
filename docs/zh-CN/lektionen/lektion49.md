@@ -372,25 +372,3 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 （图片来源：[详情](/zh-CN/licenses#lekt4908)）
 :::
 
-::: deleteme-box
-
-**lekt4907:** [图片来源：Ragesh Vasudevan。-- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
-
-**lekt4901:** [图片来源：younee。-- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/)。-- 访问日期：2009-01-11。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nd/2.0/deed.de)（署名，禁止演绎）]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫，11世纪 [图片来源：Vassil / 维基百科。公有领域]
-
-**lekt4903:** [图片来源：Toji Leon。-- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/)。-- 访问日期：2009-01-11。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [图片来源：睡衣。——[http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/)。——访问日期：2009-01-11。——[知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
-
-**lekt4909:** 算命者，笼中鹦鹉：鹦鹉抽取写有命运的纸条 迈索尔 [图片来源：prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- 访问日期 2009-01-12. -- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
-
-**lekt4905:** 阿姆里茨尔 = ਅੰਮ੍ਰਿਤਸਰ [图片来源：Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/)。-- 访问日期：2009-01-11。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de)（署名）]
-
-**lekt4906:** 斯里兰卡 [图片来源：Carmelo Aquilina。-- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/)。-- 访问日期：2009-01-11。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt4908:** 紫头鹦鹉 _= Psittacula cyanocephala_[图片来源：Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- 访问日期：2009-01-12. -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
-
-:::
-

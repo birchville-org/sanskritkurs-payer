@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 34
 
-A) Alakítsa ki a következő igemódokból az személyben, számban és nemben megfelelő tökéletes idő (perfectum) alakokat: <!-- TODO: Fallback translation -->
+A) Alakítsa ki a következő igemódokból az személyben, számban és nemben megfelelő tökéletes idő (perfectum) alakokat:
 
 1.  ⟪रक्षिष्यन्ति⟫ ⟪।⟫ ⟪ररक्षुर्⟫
 2.  ⟪स्रक्ष्यति⟫ ⟪।⟫ ⟪ससर्ज⟫

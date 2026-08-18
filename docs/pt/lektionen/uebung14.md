@@ -8,25 +8,25 @@ last_reconstructed: 2026-05-15
 
 # Exercício 14
 
-Übersetzen Sie folgende Sprichwörter und lernen Sie sie auswendig: <!-- TODO: Fallback translation -->
+Übersetzen Sie folgende Sprichwörter und lernen Sie sie auswendig:
 
 ⟪निचो⟫ ⟪वदति⟫ ⟪न⟫ ⟪कुरुते⟫  
 ⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫  
-Jemand Niedres spricht und handelt nicht, jemand Gutes spricht nicht, sondern handelt. <!-- TODO: Fallback translation -->
+Jemand Niedres spricht und handelt nicht, jemand Gutes spricht nicht, sondern handelt.
 
 ⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫  
-Tugend ist des Menschen Schmuck. <!-- TODO: Fallback translation -->
+Tugend ist des Menschen Schmuck.
 
 ⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫  
-Durch Wahrheit wird den Menschen Glück. <!-- TODO: Fallback translation -->
+Durch Wahrheit wird den Menschen Glück.
 
 ⟪पापा⟫ ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪न⟫ ⟪लभन्ते⟫ ⟪॥४॥⟫  
-Böse Menschen kommen nicht in den Himmel. <!-- TODO: Fallback translation -->
+Böse Menschen kommen nicht in den Himmel.
 
 ⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫  
-Wahrheit ist das Licht der Welt. <!-- TODO: Fallback translation -->
+Wahrheit ist das Licht der Welt.
 
-A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie Bedeutung und Geschlecht der Wörter an: <!-- TODO: Fallback translation -->
+A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie Bedeutung und Geschlecht der Wörter an:
 
 ⟪१⟫. ⟪अनृत⟫ : n. Unwahrheit — ⟪अनृतस्य⟫ ⟪अनृतानाम्⟫
 
@@ -76,7 +76,7 @@ A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie B
 
 ⟪२४⟫. ⟪सुखवन्त्⟫ : 3 glücklich — ⟪सुखवतः⟫ (⟪सुखवत्याः⟫) ⟪सुखवताम्⟫ (⟪सुखवतीनाम्⟫)
 
-⟪२५⟫. ⟪पुत्रवती⟫ : f. eine Frau mit einem oder mehreren Söhnen — ⟪पुत्रवत्याः⟫ ⟪पुत्रवतीनाम्⟫ <!-- TODO: Fallback translation -->
+⟪२५⟫. ⟪पुत्रवती⟫ : f. eine Frau mit einem oder mehreren Söhnen — ⟪पुत्रवत्याः⟫ ⟪पुत्रवतीनाम्⟫
 
 ⟪२६⟫. ⟪जल⟫ : n. Wasser — ⟪जलस्य⟫ ⟪जलानाम्⟫
 
@@ -126,7 +126,7 @@ A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie B
 
 ⟪४९⟫. ⟪गूढा⟫ : f. eine Verborgene — ⟪गूढायाः⟫ ⟪गूढानाम्⟫
 
-⟪५०⟫. ⟪ईष्टा⟫ (2 Bedeutungen): f. eine Erwünschte, eine Geopferte — ⟪इष्टायाः⟫ ⟪इष्टानाम्⟫ <!-- TODO: Fallback translation -->
+⟪५०⟫. ⟪ईष्टा⟫ (2 Bedeutungen): f. eine Erwünschte, eine Geopferte — ⟪इष्टायाः⟫ ⟪इष्टानाम्⟫
 
 ⟪५१⟫. ⟪उदित⟫ : 3 gesagt — ⟪उदितस्य⟫ (⟪उदितायाः⟫) ⟪उदितानाम्⟫
 
@@ -137,47 +137,46 @@ A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie B
 B) Übersetzen Sie:
 
 ⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten)
-Der Sohn des Brahmanen ist ins Dorf der Brahmanin gegangen. Der Sohn des Brahmanen ist mit der Brahmanin ins Dorf gegangen. <!-- TODO: Fallback translation -->
+Der Sohn des Brahmanen ist ins Dorf der Brahmanin gegangen. Der Sohn des Brahmanen ist mit der Brahmanin ins Dorf gegangen.
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
-Das Opferfeuer hat die Speise verbrannt. <!-- TODO: Fallback translation -->
+Das Opferfeuer hat die Speise verbrannt.
 
 ⟪३⟫. ⟪बुद्धः⟫ ⟪स्तयस्य⟫ ⟪बुद्ध्या⟫ ⟪मुक्तः⟫ ⟪।⟫
-Buddha wurde durch die Erkenntnis der Wahrheit erlöst. <!-- TODO: Fallback translation -->
+Buddha wurde durch die Erkenntnis der Wahrheit erlöst.
 
 ⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫
-Die vedischen weisen sagen, dass Unwahrheit sprechen Unrecht ist. <!-- TODO: Fallback translation -->
+Die vedischen weisen sagen, dass Unwahrheit sprechen Unrecht ist.
 
 ⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫
-Die Menschen werden durch Opfer an Götter nicht erllöst. <!-- TODO: Fallback translation -->
+Die Menschen werden durch Opfer an Götter nicht erllöst.
 
 ⟪६⟫. ⟪बलवन्तः⟫ ⟪क्षत्रियाः⟫ ⟪शत्रूणां⟫ ⟪धनवन्ति⟫ ⟪नगराणि⟫ ⟪जयन्ति⟫ ⟪।⟫
-Die mächtigen Kṣatriyas erobern die reichen Städte der Feinde. <!-- TODO: Fallback translation -->
+Die mächtigen Kṣatriyas erobern die reichen Städte der Feinde.
 
 ⟪७⟫. ⟪कवेरुक्तिं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-Sie hören den Spruch des Dichters. <!-- TODO: Fallback translation -->
+Sie hören den Spruch des Dichters.
 
 ⟪८⟫. ⟪कविर्देव्याः⟫ ⟪कृतं⟫ ⟪वद⟫ti ⟪।⟫
-Der Dichter berichtet die Tat der Göttin. <!-- TODO: Fallback translation -->
+Der Dichter berichtet die Tat der Göttin.
 
 ⟪९⟫. ⟪द्विजाः⟫ ⟪पशोर्लाभमिच्छन्ति⟫ ⟪।⟫
-Zweimalgeborene wünschen sich, Vieh zu bekommen. <!-- TODO: Fallback translation -->
+Zweimalgeborene wünschen sich, Vieh zu bekommen.
 
 ⟪१०⟫. ⟪रामः⟫ ⟪पुण्यवतो⟫ ⟪गुरोर्मन्त्रस्य⟫ ⟪स्मरति⟫ ⟪।⟫
-Rāma erinnert sich an das Mantra des tugendreichen Meisters. <!-- TODO: Fallback translation -->
+Rāma erinnert sich an das Mantra des tugendreichen Meisters.
 
 ⟪११⟫. ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-Wessen (f.) Sohn ist diese Bub? <!-- TODO: Fallback translation -->
+Wessen (f.) Sohn ist diese Bub?
 
 ⟪१२⟫. ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-Wem gehören diese Häuser? <!-- TODO: Fallback translation -->
+Wem gehören diese Häuser?
 
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
-Wessen Speise hat dieser vedische Weise geopfert? <!-- TODO: Fallback translation -->
+Wessen Speise hat dieser vedische Weise geopfert?
 
 ::: media
 ![](/images/uebung017.webp)
 Abb.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Bildquelle: [Details](/licenses#uebung017))
 :::
- <!-- TODO: Fallback translation -->

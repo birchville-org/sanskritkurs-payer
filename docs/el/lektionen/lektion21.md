@@ -1,11 +1,12 @@
 ---
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+title: "Μάθημα 21"
+subtitle: "Περαιτέρω ρίζες ενεστώτα με κατάληξη -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+
+---
 
 # Μάθημα 21
 
@@ -32,7 +33,7 @@ status: stable
 | | **schwacher Stamm** | Präsensstamm + **-t-** |
 | **Femininum** | | |
 | | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** | <!-- TODO: Fallback translation -->
+| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** |
 
 :::
 Παραδείγματα:
@@ -85,7 +86,7 @@ status: stable
 | | **starker Stamm** | Präsensstamm + **-ant-** |
 | | **schwacher Stamm** | Präsensstamm + **-at-** :br(Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.) |
 | **Femininum** | | |
-| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | <!-- TODO: Fallback translation -->
+| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 
 :::
 2\. Σύγκληση:
@@ -144,7 +145,7 @@ status: stable
 | | **starker Stamm** | ⟪महान्त्⟫ |
 | | **schwacher Stamm** | ⟪महत्⟫ |
 | **Femininum** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
 
 :::
 ::: grammar-box
@@ -307,15 +308,3 @@ Luang Prabang = ຫລວງພະບາງ, Λάος = ປະເທດລາວ
 
 ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-::: deleteme-box
-
-**lekt2103:** Πίνακας μνήμης ⟪सती⟫ στο παλάτι του Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Πηγή εικόνας: Flicka / Wikipedia. Άδεια GNU FD]
-
-**lekt2104:** "Σφραγίδα από σαρδόνυχα, 4ου-6ου αι. μ.Χ., που απεικονίζει τον Vishnu με έναν προσκυνητή. Η επιγραφή σε καλλιγραφική βακτριανή γλώσσα αναφέρει: "Mihira, Vishnu και Shiva". [Πηγή εικόνας: PHGCOM / Wikipedia. Άδεια GNU FD]
-
-**lekt2105:** ⟪भगवान्कृष्णः⟫ ως ⟪जगन्नाथ⟫ (δεξιά) με την ημιαδελφή του ⟪सुभद्रा⟫ (κέντρο) και τον μεγαλύτερο αδελφό του ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Πηγή εικόνας: Sujitkumar / Wikipedia. Άδεια GNU FD]
-
-**lekt2106:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Πηγή εικόνας: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Πρόσβαση στις 2008-12-12. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)]
-
-**lekt2105:** ⟪भगवद्गीता⟫ - Χειρόγραφο, 19ος αι. [Πηγή εικόνας: Wikipedia, Δημόσιος τομέας]
-:::

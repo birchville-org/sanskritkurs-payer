@@ -4,11 +4,11 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 61
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū <!-- TODO: Fallback translation -->
+## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
 
 ### 61.1.1. Nomina radicalia in -ā ad finem ⟪तत्पुरुष⟫
 
@@ -31,10 +31,10 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī <!-- TODO: Fallback translation -->
+### 61.1.2. Feminine Wurzelnomina auf -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
 **Praeter formationes cum casuum desinentibus regularibus, in dativo, ablativo, genitivo et locativo singularis necnon genitivo plurali quoque formationes secundum exemplar femininum multisyllabicum in -ī (⟪देवी⟫) occurrunt.**
 :::
@@ -107,14 +107,14 @@ Paradigms:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū <!-- TODO: Fallback translation -->
+### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
 
 ::: grammar-box
 **Stirps ante vocalem: -uv**
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
 ⟪भू⟫ f. "terra"
 
@@ -181,7 +181,7 @@ Fig.: ⟪वध्वौ⟫
 ⟪जोधपुर⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt6107))
 :::
-## 61.2. Futurum periphrasticum (⟪लुट्⟫) <!-- TODO: Fallback translation -->
+## 61.2. Futurum periphrasticum (⟪लुट्⟫)
 
 ::: grammar-box
 **Praeter futurum simplex (⟪ऌत्⟫) est etiam futurum periphrasticum (⟪लुट्⟫). Secundum doctrinem grammaticorum indigenarum, adhibetur ut tempus remotum ("post diem currentem") significet, dum futurum simplex tempus proximum ("in die currente") designat. In Sanscrito classico, videtur nullus differentia in usu utriusque futuri fieri.**
@@ -203,7 +203,7 @@ Desinentiae futuri periphrastici igitur sunt:
 ::: grammar-box
 **Formis radicis: Radix in genere eandem formam habet ac in futuro simplici. Idem valet de vocali iunctiva -i-.**
 :::
-Exempla: <!-- TODO: Fallback translation -->
+Exempla:
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
 | --- | --- |
@@ -291,7 +291,7 @@ Exempla:
 Regulae singillatim apud Kielhorn, Grammatica § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Exempla: <!-- TODO: Fallback translation -->
+Exempla:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -401,7 +401,7 @@ Exemplaria:
 | ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
 | ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" | <!-- TODO: Fallback translation -->
+| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
 
 ### 61.4.2. Formatio cum suffixo -ya, Parasmaipada
 
@@ -433,13 +433,13 @@ Exempla:
 | ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
 | ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
+| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
 
 Observa significationem:
 
 | ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
 
 ::: media
 ![](/images/lekt6105.webp)
@@ -464,7 +464,7 @@ Exempla:
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" | <!-- TODO: Fallback translation -->
+| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
 
 ::: media
 ![](/images/lekt6109.webp)
@@ -516,7 +516,7 @@ Exempla:
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" | <!-- TODO: Fallback translation -->
+| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
 
 ::: grammar-box
 **Apud quaedam nomina haec suffixa significant: aliquid fit ut id, vel fit ad id quod per nomen significatur:**
@@ -549,7 +549,7 @@ Exempla:
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -774,36 +774,3 @@ Ofterdingen, 2009-03-09
 FINIS SANSKRITICORUM CURSUS
 :::
 
-::: deleteme-box
-
-**lekt6102:** [Imaginis fontis: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Accessus die 2009-03-06. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt6106:** ⟪काशीपुर⟫ [Imaginis fontis: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, simile)]
-
-**lekt6107:** ⟪जोधपुर⟫ [Imaginis fontis: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, simile)]
-
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Imaginis fontis: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Accessus die 2009-03-08. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Imago fontis: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Accessus die 2009-03-08. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
-
-**lekt6103:** [Imago fontis: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Accessus die 2009-03-08. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attributio, usus non commercialis)]
-
-**lekt6109:** ⟪मुंबई⟫ [Imago fontis: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
-
-**lekt6110:** Karli [Imago fontis: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
-
-**lekt6111:** [Imaginis ex technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Nominatio, simile)]
-
-**lekt6113:** Thailand - เมืองไทย [Imaginis ex Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nominatio, non commercialis usus, nulla mutatio)]
-
-**lekt6112:** 1845 - 1878 Professor philologiae indico-orientalis in Universitate Hafniensi
-
-**lekt6114:** Basilica Santa Cruz, Kochi = കൊച്ചി [Imaginis ex monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nominatio, non commercialis usus)]
-
-**lekt6118:** [Imaginis fontis: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
-
-**lekt6117:** Populus Apatani, Arunachal Pradesh [Imaginis fontis: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Accessus die 2009-03-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)] <!-- TODO: Fallback translation -->
-
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), saec. 12./13. p. Chr. [Imaginis fontis: Quadell / Wikipedia. Licentia GNU FDLicense]::::
-
-:::

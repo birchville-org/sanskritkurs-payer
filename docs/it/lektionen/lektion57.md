@@ -239,8 +239,3 @@ B) Tradurre e determinare le seguenti forme:
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-::: deleteme-box
-
-**lekt5701:** [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-
-:::

@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecziun 21
 
@@ -93,7 +93,7 @@ Notar il son identic da **⟪यजन्ति⟫** (Nom. pl. Neutrum) cun la 3
 ::: indent
 **⟪अस्⟫** "esser": **⟪सन्त्⟫** "essend, veritabel, bun, veritabel"
 :::
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
 | | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
@@ -144,7 +144,7 @@ Abb.: ⟪सती⟫-platta da remembranza
 | | **starker Stamm** | ⟪महान्त्⟫ |
 | | **schwacher Stamm** | ⟪महत्⟫ |
 | **Feminin** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
 
 :::
 ::: grammar-box
@@ -307,15 +307,3 @@ B) Tradusci:
 
 ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-::: deleteme-box
-
-**lekt2101:** ⟪सती⟫-Gedenktafel im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Bildquelle: Flicka / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt2102:** "En sigill da 4.-6. seculer d'era commensala che representa Vishnu cun in adorader. L'inscripziun en Bactrian cursiv di: "Mihira, Vishnu e Shiva". [Sursa da l'imaginescha: PHGCOM / Wikipedia. Licenza GNU FDLicense]"
-
-**lekt2103:** ⟪भगवान्कृष्णः⟫ sco ⟪जगन्नाथ⟫ (a la dretga) cun sia mez-sora ⟪सुभद्रा⟫ (en il center) e sias frad pli vegl ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [sursa da l’imagines: Sujitkumar / Wikipedia. Licenza GNU FD]
-
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [fonte da l'imagina: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- consultà il 2008-12-12. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala)]
-
-**lekt2105:** ⟪भगवद्गीता⟫ - Manuscrip, 19. tschienten [Sursaida da l'imagineschi: Wikipedia, Public domain]
-:::

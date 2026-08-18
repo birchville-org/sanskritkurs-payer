@@ -142,10 +142,3 @@ B) Переведите:
 (Источник изображения: [Подробности](/ru/licenses#lekt4502))
 :::
 
-::: deleteme-box
-
-**lekt4501.jpg**: Текстильный трафаретная печать, Ахмедабад. -- Источник изображения: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Дата обращения: 08.01.2009. -- Лицензия Creative Commons (Attribution, Non-Commercial, Share Alike)
-
-**lekt4502.jpg**: Источник изображения: John Isaac / Всемирный банк. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Дата обращения: 08.01.2009. -- Лицензия Creative Commons (Attribution, Non-Commercial, No Derivative Works)
-:::
-

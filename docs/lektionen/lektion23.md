@@ -320,13 +320,3 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Bildquelle: Wikipedia. GNU FDLicense]
-
-**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Bildquelle: von zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2303:** ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย [Bildquelle: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004 [Bildquelle: Wikipedia, Public domain]
-:::

@@ -10,15 +10,6 @@ status: stable
 
 # Pelajaran 6
 
-::: deleteme-box
-**Dalam pelajaran ini Anda akan mempelajari:**
-Struktur kalimat verbal (agen dan bentuk kata kerja)
-Pembentukan bentuk-bentuk kata kerja (Parasmaipada, Ātmanepada, Pasif)
-Modus dan Tempus kata kerja
-Indikatif Präsens (laṭ) dan akhiran orang ketiga primer
-Pembentukan akar präsens (Kelas 1, 4 dan 6)
-Gradiasi fonem (Ablaut: Guṇa dan Vṛddhi)
-:::
 ## 6.1. Kalimat verbal
 
 ::: grammar-box

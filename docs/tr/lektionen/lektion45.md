@@ -1,156 +1,144 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: "Ders 45"
+subtitle: "2. Kişi fiil çekimlerinin oluşumu (⟪मध्यमः⟫) ünsüz köklü, sesli ile biten eki olmayan kökler için (Devam)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 45 <!-- TODO: Fallback translation -->
+---
 
-## 45.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung) <!-- TODO: Fallback translation -->
+# Ders 45
 
-### 45.1.1. Dritte Präsensklasse (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
+## 45.1. İkinci şahıs fiil formlarının oluşumu (⟪मध्यमः⟫) ünsüz köklerde, sesli ile biten soneç olmadan (Devam)
 
-⟪हु⟫ 3P <!-- TODO: Fallback translation -->
+### 45.1.1. Üçüncü Şimdiki Zaman Sınıfı (⟪जुहोत्यादि⟫)
+
+⟪हु⟫ 3Sg
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Gösterme Kipi Şimdiki Zaman** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \&lt;⟪जुहुषे⟫\&gt; | \&lt;⟪जुहुध्वे⟫\&gt; |
+| **Geçmiş Zaman** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \&lt;⟪अजुहुथास्⟫\&gt; | \&lt;⟪अजुहुध्वम्⟫\&gt; |
+| **Dilek Kipi** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \&lt;⟪जुह्वीथास्⟫\&gt; | \&lt;⟪जुह्वीध्वम्⟫\&gt; |
 :::
-⟪धा⟫ 2U <!-- TODO: Fallback translation -->
+⟪धा⟫ 2T
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Gösterme Kipi Şimdiki Zaman** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
+| **Geçmiş Zaman** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
+| **Dilek Kipi** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
-### 45.1.2. Siebte Präsensklasse (⟪रुधादि⟫) <!-- TODO: Fallback translation -->
+### 45.1.2. Yedinci Şimdiki Zaman Sınıfı (⟪रुधादि⟫)
 
 ::: grammar-box
-**Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen** <!-- TODO: Fallback translation -->
+**Eğer kökün sonunda k/g varsa ve bu, nasal ṅ ile soneçteki bir dişli ünsüz arasında yer alıyorsa, k/g isteğe bağlı olarak düşebilir.**
 
-z.B. ⟪युज्⟫ 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫:sig[⟪ङ्ते⟫] <!-- TODO: Fallback translation -->
+örn. ⟪युज्⟫ 3.sg.Gö.Ki.Şz.Ā ⟪युङ्क्ते⟫ veya ⟪यु⟫:sig[⟪ङ्ते⟫]
 :::
-⟪युज्⟫ 7U <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7T
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Gösterme Kipi Şimdiki Zaman** :br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
+| **Geçmiş Zaman** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
+| **Dilek Kipi** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
 :::
-⟪रुध्⟫ 7U <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br :sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Şimdiki Zaman Bildirme Kipi** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
+| **Kipran Geçmiş Zaman** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br :sig[⟪अरुण्स्⟫] (düzensiz!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
+| **Dilek Kipi** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
-## 45.2. Der Vokativ Singular (⟪आमन्त्रितमेकवचने⟫) <!-- TODO: Fallback translation -->
+## 45.2. Tekil Çağırma Kipi (⟪आमन्त्रितमेकवचने⟫)
 
 ::: grammar-box
-**Die meisten Vokative des Singular sind der Stamm mit hochstufigem Auslaut.** <!-- TODO: Fallback translation -->
+**Çoğu tekil çağırma kipi, yüksek dereceli bir sonla biten köktür.**
 
-z.B. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** u.s.w. <!-- TODO: Fallback translation -->
+Örn. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** vb.
 
-**Ausnahmen sind die Feminina auf -ā und -ī sowie die Stämme auf -in, deren Vokativ sg. besonders zu merken ist.** <!-- TODO: Fallback translation -->
+**İstisnalar, -ā ve -ī ile biten dişil adlar ile kökleri -in olanlardır; bunların tekil çağırma kipi özellikle akılda tutulmalıdır.**
 :::
 ::: no-header
-| | Vokativ Singular | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| Maskulina auf -a | ⟪देव⟫ | <!-- TODO: Fallback translation -->
-| Neutra auf -a | ⟪फल⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -ā | ⟪देवते⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -i | ⟪कवे⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -i | ⟪मते⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -u | ⟪शत्रो⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -u | ⟪धेनो⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -ī | ⟪देवि⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -ṛ | ⟪पितर्⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -ṛ | ⟪मातर्⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -an | ⟪राजन्⟫ | <!-- TODO: Fallback translation -->
-| Neutra auf -an | ⟪नामन्⟫:br⟪नाम⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -man/-van | ⟪आत्मन्⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -in | ⟪बलिन्⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -ant | ⟪बलिन्⟫:br⟪बलि⟫ | <!-- TODO: Fallback translation -->
-| mahānt m. | ⟪महन्⟫ | <!-- TODO: Fallback translation -->
-| mahānt n. | ⟪महत्⟫:br= Nominativ | <!-- TODO: Fallback translation -->
-| Maskulina auf -mant/-vant | ⟪गुणवन्⟫ | <!-- TODO: Fallback translation -->
-| Neutra auf -mant/-vant | ⟪गुणवत्⟫:br= Nominativ | <!-- TODO: Fallback translation -->
-| Pronomina | ein Vokativ wird nicht gebildet | <!-- TODO: Fallback translation -->
+| | Tekil Çağırma Kipi |
+| --- | --- |
+| -a ile biten eril adlar | ⟪देव⟫ |
+| -a ile biten nötr adlar | ⟪फल⟫ |
+| -ā ile biten dişil adlar | ⟪देवते⟫ |
+| -i ile biten eril adlar | ⟪कवे⟫ |
+| -i ile biten dişil adlar | ⟪मते⟫ |
+| -u ile biten eril adlar | ⟪शत्रो⟫ |
+| -u ile biten dişil adlar | ⟪धेनो⟫ |
+| -ī ile biten dişil adlar | ⟪देवि⟫ |
+| -ṛ ile biten eril adlar | ⟪पितर्⟫ |
+| -ṛ ile biten dişil adlar | ⟪मातर्⟫ |
+| -an ile biten eril adlar | ⟪राजन्⟫ |
+| -an ile biten nötr adlar | ⟪नामन्⟫:br⟪नाम⟫ |
+| -man/-van ile biten eril adlar | ⟪आत्मन्⟫ |
+| -in ile biten eril adlar | ⟪बलिन्⟫ |
+| -ant ile biten eril adlar | ⟪बलिन्⟫:br⟪बलि⟫ |
+| mahānt m. | ⟪महन्⟫ |
+| mahānt n. | ⟪महत्⟫:br= Yalın Hal |
+| -mant/-vant ile biten eril adlar | ⟪गुणवन्⟫ |
+| -mant/-vant ile biten nötr adlar | ⟪गुणवत्⟫:br= Yalın Hal |
+| Zamirler | bir çağırma kipi oluşturulmaz
 :::
 ::: media
 ![](/images/lekt4501.webp)
-Abb.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
-(Bildquelle: [Details](/licenses#lekt4501)) <!-- TODO: Fallback translation -->
+Resim: ⟪भवति किं करोषि⟫
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4501))
 :::
-## 45.3. Wortliste <!-- TODO: Fallback translation -->
+## 45.3. Kelime Listesi
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder <!-- TODO: Fallback translation -->
+⟪वा⟫ ... ⟪वा⟫ : ya ... ya da
 
-## 45.4. Übung <!-- TODO: Fallback translation -->
+## 45.4. Alıştırma
 
-A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt \<⟪लङ्⟫\> verwenden): <!-- TODO: Fallback translation -->
+A) Sanskritçe'ye çevirin (geçmiş zamanlar için Lütfen Imperfekt \&lt;⟪लङ्⟫\&gt; kullanın):
 
-1\. Du spaltest die (buddhistische) Gemeinde. <!-- TODO: Fallback translation -->
+1\. Sen (budist) topluluğu bölüyorsun.
 
 ::: indent
-zur Gemeindespaltung (⟪सङ्घभेद⟫) siehe: <!-- TODO: Fallback translation -->
+topluluk bölünmesi (⟪सङ्घभेद⟫) için bkz:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm) <!-- TODO: Fallback translation -->
+**Payer, Alois (1944–):** Vinayamukha : Theravāda'nın rahiplik kuralları ve rahiplik hukukunun temel kavramları. -- Bölüm I. -- (Budizm'in Temel Kavramlarına İlişkin Materyaller). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-2\. Habt ihr die Erde genossen? <!-- TODO: Fallback translation -->
+2\. Yeryüzünden keyif aldınız mı?
 
-3\. Hast du vom König eine Gabe empfangen? <!-- TODO: Fallback translation -->
+3\. Kraldan bir hediye aldın mı?
 
-4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren? <!-- TODO: Fallback translation -->
+4\. Aziz adam, neden tehlikelerden korkmuyorsun?
 
-5\. Vater, wohin verlässt du die Familie? <!-- TODO: Fallback translation -->
+5\. Baba, aileyi nereye bırakıyorsun?
 
-6\. Śūdrafrau, hast du die Last ins Haus des reichen Brahmanen getragen? <!-- TODO: Fallback translation -->
+6\. Śūdra kadını, zengin Brahmana'nın evine yükü taşıdın mı?
 
-7\. Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen. <!-- TODO: Fallback translation -->
+7\. Tanrıça, iyi işler yapmış olan Vaiśya'nın mutluluk arzusu yerine gelmelidir.
 
-8\. Elefanten, ihr solltet die Fesseln nicht zerbrechen. <!-- TODO: Fallback translation -->
+8\. filler, zincirlerinizi kırmamalısınız.
 
-9\. Du löwengleicher Mann, warum richtest du nicht deine ganze Aufmerksamkeit auf das Absolute (Brahman)? <!-- TODO: Fallback translation -->
+9\. Aslan benzeri adam, neden tüm dikkatini Mutlak'a (Brahman) vermiyorsun?
 
-10\. Hast du, Dichter, die Welten gemessen? <!-- TODO: Fallback translation -->
+10\. Şair, dünyaları ölçtün mü?
 
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Çevirin:
 
-⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
-
-⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
-
-⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
-
-⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥१॥ भवति कथमनन्तदुःखमरुणत् ॥२॥ ब्राह्मण किमग्नौ घृतमजुहोः ॥३॥ शत्रो शस्तेण जीवं न छिनत्सि ॥४॥⟫
 
 ::: media
 ![](/images/lekt4502.jpg)
-Abb.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
-(Bildquelle: [Details](/licenses#lekt4502)) <!-- TODO: Fallback translation -->
-:::
-
-::: deleteme-box
-
-**lekt4501.jpg**: Textil-Blockdruck, Ahmedabad. -- Bildquelle: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
-
-**lekt4502.jpg**: Bildquelle: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
+Resim: ⟪कन्ये किं लिखसि⟫
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4502))
 :::
 

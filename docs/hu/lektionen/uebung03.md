@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 3
 
-A) Alakítsa a következő mondatokat többes számra: <!-- TODO: Fallback translation -->
+A) Alakítsa a következő mondatokat többes számra:
 
 1\. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
 
@@ -125,7 +125,7 @@ kṣatriyā sādhvī.
 
 D) Fordítsa szanszkrtba:
 
-1\. Umā ist eine Göttin. <!-- TODO: Fallback translation -->
+1\. Umā ist eine Göttin.
 
 devy umā.
 
@@ -137,13 +137,13 @@ devy umā.
 
 ⟪श्रुतिर्वेदः⟫
 
-3\. Die Lehrerinnen sind Göttinnen. <!-- TODO: Fallback translation -->
+3\. Die Lehrerinnen sind Göttinnen.
 
 devyo gurvyaḥ.
 
 ⟪देव्यो⟫ ⟪गुर्व्यः⟫
 
-4\. Milchkühe sind domestizierte Tiere. <!-- TODO: Fallback translation -->
+4\. Milchkühe sind domestizierte Tiere.
 
 paśavo dhenavaḥ.
 
@@ -161,7 +161,7 @@ dvijāḥ kṣatriyāḥ.
 
 ⟪द्वि्जाः⟫ ⟪क्षत्रियाः⟫
 
-7\. Die heiligen Männer sind Śūdras. <!-- TODO: Fallback translation -->
+7\. Die heiligen Männer sind Śūdras.
 
 śūdrāḥ sādhavaḥ.
 

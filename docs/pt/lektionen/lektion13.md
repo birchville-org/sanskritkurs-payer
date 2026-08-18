@@ -72,7 +72,7 @@ Exemplo:
 
 Por meio dos sufixos taddhita -mant ou -vant, são formados adjetivos possessivos a partir de substantivos. O seu significado é: "possuindo aquilo que é designado pelo substantivo base".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
 Exemplos:
 
@@ -202,7 +202,7 @@ Fig.: ⟪महिषासुरः⟫
 Fig.: ⟪अन्नम्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt1304))
 :::
-Formação de palavras: <!-- TODO: Fallback translation -->
+Formação de palavras:
 
 pad 4 Ā:
 
@@ -217,7 +217,7 @@ pad 4 Ā:
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Fonte da imagem: [Details](/licenses#lekt1303))
 :::
-dviṣ 2 U: <!-- TODO: Fallback translation -->
+dviṣ 2 U:
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : ódio

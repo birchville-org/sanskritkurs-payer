@@ -5,19 +5,10 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Leçon 6
 
-::: deleteme-box
-**Dans cette leçon, vous apprendrez :**
-- La structure de la phrase verbale (Agent et forme verbale)
-- La formation des formes verbales (Parasmaipada, Ātmanepada, Passif)
-- Les modes et les temps du verbe
-- L'indicatif présent (laṭ) et les terminaisons primaires de la 3e personne
-- La formation du radical de présent (classes 1, 4 et 6)
-- L'alternance vocalique (Ablaut : Guṇa et Vṛddhi)
-:::
 ## 6.1. La phrase verbale
 
 ::: grammar-box
@@ -129,7 +120,7 @@ Exemple **yaj** = ⟪यज्⟫ = « vénérer avec un sacrifice », « sacrif
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verbes de la 4e classe de présent (divādi = ⟪दिवादि⟫ = "div etc.") <!-- TODO: Fallback translation -->
+### 6.5.3. Verbes de la 4e classe de présent (divādi = ⟪दिवादि⟫ = "div etc.")
 
 ::: grammar-box
 **Stème de présent = racine au degré affaibli (celui dans lequel elle est répertoriée) + ya-**

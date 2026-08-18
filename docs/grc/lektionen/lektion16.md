@@ -1,10 +1,11 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "Μάθημα 16"
+subtitle: "Περὶ τῆς ἁρμογῆς τελικῶν σύμφωνων"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα αʹ6
@@ -21,7 +22,7 @@ status: stable
 | :--- | :--- |
 | **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
 | **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
+| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
 Ἐξαίρεσις τῷ ἀνωτέρω κανόνι:
@@ -35,7 +36,7 @@ status: stable
 | **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- oder -cch-** |
 | **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
+| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 Παραδείγματα:
@@ -134,7 +135,7 @@ Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / Hariyāṇa
 (Image source: [Details](/grc/licenses#lekt1604))
 :::
-⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
 ⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
@@ -240,13 +241,3 @@ B) Μεταφράστε και λύστε όλα τα σύνθετα στα Σα
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** Ναός Μπίρλα, Νέο Δελχί [Πηγή εικόνας: Deepak / Wikipedia · Άδεια Creative Commons (Αναφορά, Ομοιότυπη διανομή)]
-
-**lekt1602:** «Αὕτη ἐστὶν ἱερὰ τελετὴ ἐν ναΐδιῳ τινὶ Σατάρα (⟪सातारा⟫). ὑπὸ τῶν μαθητῶν τοῦ Σουάμι Μουκτανάνδα Βεδασάλα ἐπιτελεῖται τὴν ἑορτὴν τοῦ Μαχάσιβαράτρι. Εστὶ σχολή Βεδική, ὅπου παῖδες τὰ ἱερὰ κείμενα καλούμενα Βέδα ἐκ μνήμης διδάσκονται. Ἡ σχολὴ ταύτη τὸ Κρίσνα Γιατζουρβέδα καὶ μέρος τινὶ τοῦ Σάμμεβαδιδιδάσκει. Ἐγὼ τὴν διδακτορικήν μου διατριβὴν περὶ τῆς σχολῆς ταύτης συντάσσω.» [Πηγή εικόνας: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Πρόσβασις 2008-12-07. · Ἄδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Όχι εξαλλαγές)]
-
-**lekt1603:** «Ὁ χειρ μὲ τροχὸν ἐπὶ τῆς παλάμης συμβολίζει τὸ ὅρμον τῶν Τζαΐνων περὶ ἀβιμσά. Ὁ λόγος ἐν τῷ μέσῳ “ἀβιμσά”. Ὁ τροχὸς συμβολίζει τὸ δαρμακάρια, ὅπερ σημαίνει τὴν ἀπόφασιν παύσεως τοῦ κύκλου μετοικεσίας διὰ τῆς ἀκαταπαύστου ζητήσεως τῆς ἀληθείας καὶ μὴ βίας.» [Πηγή εικόνας: Wikipedia, Δημόσιον πεδίον]
-
-**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Πηγή εικόνας: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Πρόσβασις 2008-12-07. · Ἄδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Όχι εξαλλαγές)]
-:::

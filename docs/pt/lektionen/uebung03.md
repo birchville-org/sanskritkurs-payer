@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 3
 
-A) Setzen Sie folgende Sätze in den Plural: <!-- TODO: Fallback translation -->
+A) Setzen Sie folgende Sätze in den Plural:
 
 1\. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
 
@@ -69,7 +69,7 @@ paśavo dhenavaḥ.
 gurvyaḥ sādhvyaḥ.
 ⟪गुर्व्यः⟫ ⟪साध्व्यः⟫
 
-B) Bilden Sie durch Einsetzen Nominalsätze: <!-- TODO: Fallback translation -->
+B) Bilden Sie durch Einsetzen Nominalsätze:
 
 1\. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
 
@@ -101,7 +101,7 @@ devatā mīnākṣī. devatānnapūrṇā.
 
 ⟪शूद्रेतरा⟫
 
-C) Übertragen Sie ins Femininum: <!-- TODO: Fallback translation -->
+C) Übertragen Sie ins Femininum:
 
 1\. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 
@@ -121,9 +121,9 @@ kṣatriyā sādhvī.
 
 ⟪क्षत्रिया⟫ ⟪साध्वी⟫
 
-D) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+D) Übersetzen Sie ins Sanskrit:
 
-1\. Umā ist eine Göttin. <!-- TODO: Fallback translation -->
+1\. Umā ist eine Göttin.
 
 devy umā.
 
@@ -135,13 +135,13 @@ devy umā.
 
 ⟪श्रुतिर्वेदः⟫
 
-3\. Die Lehrerinnen sind Göttinnen. <!-- TODO: Fallback translation -->
+3\. Die Lehrerinnen sind Göttinnen.
 
 devyo gurvyaḥ.
 
 ⟪देव्यो⟫ ⟪गुर्व्यः⟫
 
-4\. Milchkühe sind domestizierte Tiere. <!-- TODO: Fallback translation -->
+4\. Milchkühe sind domestizierte Tiere.
 
 paśavo dhenavaḥ.
 
@@ -159,7 +159,7 @@ dvijāḥ kṣatriyāḥ.
 
 ⟪द्वि्जाः⟫ ⟪क्षत्रियाः⟫
 
-7\. Die heiligen Männer sind Śūdras. <!-- TODO: Fallback translation -->
+7\. Die heiligen Männer sind Śūdras.
 
 śūdrāḥ sādhavaḥ.
 

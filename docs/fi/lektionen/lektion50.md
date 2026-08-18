@@ -5,16 +5,16 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Oppitunti 50 <!-- TODO: Fallback translation -->
+# Oppitunti 50
 
-## 50.1. Nominalbildung: säännöllinen vertailuasteet <!-- TODO: Fallback translation -->
+## 50.1. Nominalbildung: säännöllinen vertailuasteet
 
 ::: grammar-box
 **Säännöllinen vertailuaste muodostetaan sanskritissa ⟪तद्धित⟫-päätteillä**
 * **-⟪तर⟫ (naispääte: ⟪तरा⟫) "komparatiivissa"**
-* **⟪तम⟫ (naispääte: ⟪तमा⟫) "superlatiivissa"** <!-- TODO: Fallback translation -->
+* **⟪तम⟫ (naispääte: ⟪तमा⟫) "superlatiivissa"**
 
 **Nämä päätteet liitetään adjektiivien maskuliinivartalon perään. Nomina, joilla on vartalonvaihtelua, liitetään niihin heikon vartalon perään, jolla on muoto kuten lokatiivin monikon -su-päätteen edellä (⟪पञ्चमी⟩) monikko.**
 :::
@@ -23,7 +23,7 @@ status: stable
 Kuva: ⟪लोकस्योत्तमो⟩ ⟪गिरिः⟩
 ⟪सगरमाथा⟩ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5007))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -35,7 +35,7 @@ Kuva: ⟪लोकस्योत्तमो⟩ ⟪गिरिः⟩
 ::: indent
 esim. ⟪सुचितर⟩ 3 "melko puhdas", "erittäin puhdas", "liian puhdas"
 :::
-**Kun verrattava kohde ilmaistaan, tämä on ablatiivissa (⟪पञ्चमी⟩). Komparatiivi + ablatiivi vastaa saksankielistä vertailua "kuin"-rakenteella.** <!-- TODO: Fallback translation -->
+**Kun verrattava kohde ilmaistaan, tämä on ablatiivissa (⟪पञ्चमी⟩). Komparatiivi + ablatiivi vastaa saksankielistä vertailua "kuin"-rakenteella.**
 
 ::: indent
 esim. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = kirjaimellisesti: "Devadatan näkökulmasta Rāma on järkevämpi" = "Rāma on järkevämpi kuin Devadatta"
@@ -45,19 +45,19 @@ esim. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तर�
 ::: indent
 esim. ⟪सत्तम⟫ 3 (kohteeseen ⟪सन्त्⟫) "erittäin hyvä, hyvin"
 :::
-**Jos verrattava kohde ilmaistaan, se on genetiivissä (⟪षष्ठी⟫) ("joka", "keskuudessa") ja superlatiivi vastaa saksalaista superlatiivia (yläaste):** <!-- TODO: Fallback translation -->
+**Jos verrattava kohde ilmaistaan, se on genetiivissä (⟪षष्ठी⟫) ("joka", "keskuudessa") ja superlatiivi vastaa saksalaista superlatiivia (yläaste):**
 
 ::: indent
 esim. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "parhaiten syntyneistä"
 :::
-**Liitteet -⟪तर⟫ ja -⟪तम⟫ voivat liittyä adjektiivien lisäksi myös substantiiveihin, indeklinabeleihin ja jopa verbin muotoihin:** <!-- TODO: Fallback translation -->
+**Liitteet -⟪तर⟫ ja -⟪तम⟫ voivat liittyä adjektiivien lisäksi myös substantiiveihin, indeklinabeleihin ja jopa verbin muotoihin:**
 
 Esimerkit:
 
 ::: indent
 ⟪गजतम⟫ m. "paras elefantti" (⟪गज⟫) (myös Buddhan nimitys)
 
-⟪गोतम⟫ m. "suurin härkä" (⟪गो⟫) tai: "lehmäisin" <!-- TODO: Fallback translation -->
+⟪गोतम⟫ m. "suurin härkä" (⟪गो⟫) tai: "lehmäisin"
 
 ⟪उद्⟫ Indeclinable. "ylös", "ylös" » ⟪उत्तर⟫ 3 "korkeampi" » ⟪उत्तम⟫ 3 "korkein"
 :::
@@ -73,7 +73,7 @@ Esimerkit:
 
 ⟪पचतितमाम्⟫ "hän/se/hän keittää parhaiten"
 :::
-**Nämä päätteet säilyttävät tämän muodon, kun ne liitetään indeklinabliin ja johdettu sana on käytetty adverbina:** <!-- TODO: Fallback translation -->
+**Nämä päätteet säilyttävät tämän muodon, kun ne liitetään indeklinabliin ja johdettu sana on käytetty adverbina:**
 
 ::: indent
 esim. ⟪सुतराम्⟫ (sanasta ⟪सु⟫) "paremmalla tavalla" (adverbina)
@@ -88,13 +88,13 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 
 ⟪ध्रुव⟫ 3: vakaa, muuttumaton
 
-⟪निषेक⟫ m.: kastelu, hedelmöitys, neste, siemenneste, seremonia syntymän yhteydessä <!-- TODO: Fallback translation -->
+⟪निषेक⟫ m.: kastelu, hedelmöitys, neste, siemenneste, seremonia syntymän yhteydessä
 
 ⟪पण्डित⟫ 3: viisas, älykäs, oppinut
 
 ⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : halveksia, loukata
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister <!-- TODO: Fallback translation -->
+⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
 
 ::: media
 ![](/images/lekt5001.jpg)
@@ -102,9 +102,9 @@ Kuva: ⟪मन्त्री⟫
 Kapil Sibal (s. 1948), tiede- ja teknologiaviraston sekä maapintatieteiden ministeriön liittovaltion ministeri (vuodesta 2006)
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: Geheimnis, Einsamkeit <!-- TODO: Fallback translation -->
+⟪रहस्⟫ n.: Geheimnis, Einsamkeit
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen <!-- TODO: Fallback translation -->
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen
 
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
@@ -126,7 +126,7 @@ Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
 :::
 ⟪विधि⟫ m.: myös: kohtalo (sanasta ⟪विधा⟫)
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : sataa (useimmiten sanan ⟪कर्तृ⟫ kanssa -- jumala tai pilvi) <!-- TODO: Fallback translation -->
+⟪वृष्⟫ 1P ⟪वर्षति⟫ : sataa (useimmiten sanan ⟪कर्तृ⟫ kanssa -- jumala tai pilvi)
 
 ::: indent
 Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
@@ -144,7 +144,7 @@ Kuv.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Monsunin saapuminen, Bangalore  ಬೆಂಗಳೂರು
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5002))
 :::
-⟪संयक्⟫ Adv.: oikein, totta, asianmukaisella tavalla ; täysin, kokonaan <!-- TODO: Fallback translation -->
+⟪संयक्⟫ Adv.: oikein, totta, asianmukaisella tavalla ; täysin, kokonaan
 
 ⟪आदित्य⟫ m.: aurinko ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : tietty jumaluusluokka
 
@@ -153,9 +153,9 @@ Monsunin saapuminen, Bangalore  ಬೆಂಗಳೂರು
 Kuva: ⟪आदित्यः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: jokainen, kaikki <!-- TODO: Fallback translation -->
+⟪सर्व⟫ 3: jokainen, kaikki
 
-Taivutus kuten ⟪यद्⟫ (poikkeus: nominatiivin akkusatiivin singularis neutrum) <!-- TODO: Fallback translation -->
+Taivutus kuten ⟪यद्⟫ (poikkeus: nominatiivin akkusatiivin singularis neutrum)
 
 ::: grammar-box
 | | yksikkö:br⟪एकवचनम्⟫ || || monikko:br⟪बहुवचनम्⟫ || ||
@@ -171,9 +171,9 @@ Taivutus kuten ⟪यद्⟫ (poikkeus: nominatiivin akkusatiivin singularis n
 :::
 ⟪वै⟫ : Partikkeli, joka korostaa edellistä sanaa: totta kai, varmasti, mutta
 
-⟪इह⟫ Adv.: täällä, täällä maan päällä, tänne ; nyt. Substantiivien edellä lokatiivissa (⟪षष्ठी⟫) merkitys sama kuin ⟪अस्मिन्⟫, ⟪अस्याम्⟫ <!-- TODO: Fallback translation -->
+⟪इह⟫ Adv.: täällä, täällä maan päällä, tänne ; nyt. Substantiivien edellä lokatiivissa (⟪षष्ठी⟫) merkitys sama kuin ⟪अस्मिन्⟫, ⟪अस्याम्⟫
 
-⟪कल्प⟫ m: säädös, tapa, rituaali ; [maailmankausi](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (katso ⟪कॢप्⟫) <!-- TODO: Fallback translation -->
+⟪कल्प⟫ m: säädös, tapa, rituaali ; [maailmankausi](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (katso ⟪कॢप्⟫)
 
 ⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :kaunis
 
@@ -182,7 +182,7 @@ Taivutus kuten ⟪यद्⟫ (poikkeus: nominatiivin akkusatiivin singularis n
 Kuv.: ⟪कल्याणी⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt5003))
 :::
-⟪कु⟫- : yhdyssanan etuliitteenä: huono <!-- TODO: Fallback translation -->
+⟪कु⟫- : yhdyssanan etuliitteenä: huono
 
 ::: media
 ![](/images/lekt5004.webp)
@@ -190,19 +190,19 @@ Kuv.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : nähdä <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : nähdä
 
 ::: indent
 Perf. ⟪चचक्षे⟫
 ei muissa aikamuodoissa käytetty
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : kertoa, pitää jstk/jknä, nimetä <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : kertoa, pitää jstk/jknä, nimetä
 
-⟪देश⟫ m.: paikka, tila, maa, seutu <!-- TODO: Fallback translation -->
+⟪देश⟫ m.: paikka, tila, maa, seutu
 
-## 50.3. Käännösharjoitus <!-- TODO: Fallback translation -->
+## 50.3. Käännösharjoitus
 
-A) Taivutuksen toistamiseksi: seuraava säe sisältää kaikki taivutusmuodot yksikössä sanalle ⟪गुरु⟫ m.: <!-- TODO: Fallback translation -->
+A) Taivutuksen toistamiseksi: seuraava säe sisältää kaikki taivutusmuodot yksikössä sanalle ⟪गुरु⟫ m.:
 
 ::: indent
 ⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫
@@ -263,7 +263,7 @@ B) Käännä:
 Selitys:
 :sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Lok.m.n.f.duaali (duaalidvandva)
 :::
-⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Kuninkaan neuvonantajista <!-- TODO: Fallback translation -->
+⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Kuninkaan neuvonantajista
 
 ::: indent
 ⟪न⟫ ⟪किंचिदवमन्येत⟫
@@ -291,24 +291,5 @@ Selitys:
 
 Selitykset:
 ⟪निषेकादीनि⟫ : Nom.Akk.pl.neutri
-:::
-::: deleteme-box
-
-**lekt5007:** Kuv.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Kuv lähde: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Haettu 12.1.2009. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimiluetelu)] <!-- TODO: Fallback translation -->
-
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Kuv lähde: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Haettu 12.1.2009. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimiluetelu, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
-
-**lekt5001:** Kapil Sibal (s. 1948), Union ministeri tiede- ja teknologiavirastossa sekä maapintatieteiden virastossa (vuodesta 2006) [Kuv lähde: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Haettu 12.1.2009. -- [Creative Commons -lisensoitu](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Nimiluetelu, jakaa samalla ehdoilla)] <!-- TODO: Fallback translation -->
-
-**lekt5002:** Monsunin saapuminen, Bangalore ಬೆಂಗಳೂರು [Kuvälähde: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Haettu 12.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
-
-**lekt5005:** [Kuvälähde: sunder_iyer. -- [http://www.flickr.com/photos/sunder_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Haettu 12.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Nimittäminen, jakaminen samalla lisensoinnilla)] <!-- TODO: Fallback translation -->
-
-**lekt5003:** [Kuvälähde: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Haettu 12.1.2009. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Kuvälähde: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5008:** Ganeshpuri, 80 km:n päässä Mumbaista (⟪मुंबई⟫) [Kuvälähde: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Haettu 2009-01-13. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, sama lisensointi)] <!-- TODO: Fallback translation -->
-
 :::
 

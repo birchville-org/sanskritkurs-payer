@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα δʹ4
 
@@ -340,11 +340,6 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (πρὸς ⟪प्र⟫-⟪व्रज्⟫): ἡ ἐξοδος ἐκ του οικου εις την απωλειαν · τελετη, η μεν βουδιστικος νεοκοπος γινεται (Παλι: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Βλεπε:
-
-**Payer, Alois (1944–):** Vinayamukha : Θεμελιωδεις εννοιες των κανονων της ταξεως και του δικαίου της ταξεως του Theravāda. -- Μερος I. -- (Υλικα προς τας θεμελιωδεις εννοιας του βουδισμου). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Εικ.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
@@ -476,25 +471,3 @@ Absol. -⟪रभ्य⟫
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
 
-::: deleteme-box
-
-**lekt4301.jpg**: Λεπτομέρειαι ἐν τοῖς licenses.md
-
-**lekt4401.jpg**: Οὐδεμία ἰδιαίτερα ἀδεια/πηγὴ εὑρέθη ἐν τῷ κειμένῳ
-
-**lekt4402.jpg**: Ζωγραφικὴ τοῦ Henri Gerbault (1863 - 1930) (Δημόσιον πεδίον)
-
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Πρόσβασις τῇ 2009-01-08. -- Ἀδεια Creative Commons (Ἀναφορὰ, οὐκ ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις) <!-- TODO: Fallback translation -->
-
-**lekt4404.jpg**: Γουρουμοστοῦκ Σίνγκ. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Πρόσβαση ἐν 2009-01-08. -- Ἄδεια Creative Commons (Ἀναφορά, οὐχ ἐμπορικὴ χρῆσις, ὁμοία διανομή)
-
-**lekt4405.jpg**: ματτολογελιν. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Πρόσβαση ἐν 2009-01-08. -- Ἄδεια Creative Commons (Ἀναφορά, οὐχ ἐμπορικὴ χρῆσις) <!-- TODO: Fallback translation -->
-
-**lekt4406.jpg**: Ἀμρε Γκίμπαν. -- http://www.flickr.com/photos/amre/1476216243/. -- Πρόσβαση ἐν 2009-01-08. -- Ἄδεια Creative Commons (Ἀναφορά, οὐχ ἐμπορικὴ χρῆσις)
-
-**lekt4407.jpg**: Μαλαγιαλάμ. -- http://www.flickr.com/photos/malayalam/35026906/. -- Πρόσβαση ἐν 2009-01-08. -- Ἄδεια Creative Commons (Ἀναφορά, οὐχ ἐμπορικὴ χρῆσις, ὁμοία διανομή)
-
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)
-
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)
-:::

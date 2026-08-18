@@ -159,7 +159,7 @@ status: stable
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
 ## 34.5. Perfect ประเภท II: ฐานศัพท์ระดับสูงแข็งแรง, ฐานศัพท์ระดับต่ำอ่อน
@@ -329,22 +329,5 @@ Golden Temple (Harmandir Sahib), Amritsar.
 ภาพ: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫:sig[⟪र्जन्म⟫] ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 พิธีแต่งงานฮินดู
 (ที่มาของภาพ: [รายละเอียด](/th/licenses#lekt3407))
-:::
-
-::: deleteme-box
-
-**lekt3401:** ประติมากรรมโคหนันดี, เขาจามุนดี, มัยซอร์ [ที่มาของภาพ: Luna Park / Flickr. CC BY-NC-ND]
-
-**lekt3402:** วัดทอง (Harmandir Sahib), อัมริตसर. [ที่มาของภาพ: Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
-
-**lekt3403:** เมล็ดงา. [ที่มาของภาพ: Wikipedia. Public domain]
-
-**lekt3404:** ต้นงาออกดอก. [ที่มาของภาพ: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
-
-**lekt3405:** แผนที่หมู่เกาะลักชดวีป. [ที่มาของภาพ: CIA World Factbook. Public domain]
-
-**lekt3406:** นาข้าวในอินเดีย. [ที่มาของภาพ: Ray Witlin / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3407:** พิธีแต่งงานฮินดู. [ที่มาของภาพ: BriceFR / Flickr. CC BY-NC-SA]
 :::
 

@@ -5,17 +5,10 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα αʹ1
 
-::: deleteme-box
-**Ἐν τούτῃ τῇ μαθήσει μανθάνετε:**
-- Τὴν διπλῆν αἰτιατικήν (αἰτιατικὴ τοῦ προσώπου καὶ τῆς ὑλικῆς)
-- Τὴν χρῆσιν τῶν σωματιδίων **iti**, **evam** καὶ **na**
-- Θεμελιῴδεις ἔννοιας ὡς **dharma**, **adharma** καὶ **putra**
-- Τὴν σύνθεσιν ὀνομάτων ἐκ τῶν ριζῶν **vad**, **prach** καὶ **iṣ**
-:::
 ## 11.1. Διπλῆ αἰτιατική
 
 ::: grammar-box
@@ -145,4 +138,3 @@ status: stable
 Εικ.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/grc/licenses#lekt1103))
 :::
- <!-- TODO: Fallback translation -->

@@ -6,6 +6,7 @@ import os
 import sys
 import time
 import json
+import urllib.request
 import subprocess
 from .config import API_URL, MODEL, LANG_NAMES
 from .protector import (
@@ -245,9 +246,204 @@ def translate_text(text, target_lang):
                         sys.stdout.flush()
                         break
                     else:
-                        sys.stdout.write(f"[{target_lang}] [!] QC REJECTED: {qc_reason} on final attempt {ph_attempt + 1}. Refusing un-QC'd output.\n")
+                        sys.stdout.write(f"[{target_lang}] [!] Local QC REJECTED: {qc_reason} on final attempt {ph_attempt + 1}.\n")
                         sys.stdout.flush()
-                        return f"ERROR: Quality Control Failed - {qc_reason}", ph_attempt
+                        
+                        from .config import GEMINI_API_KEY, GEMINI_API_URL
+                        if not GEMINI_API_KEY:
+                            sys.stdout.write(f"[{target_lang}] [!] GEMINI_API_KEY not set. Refusing un-QC'd output.\n")
+                            sys.stdout.flush()
+                            return f"ERROR: Quality Control Failed - {qc_reason}", ph_attempt
+                            
+                        # Stufe 2: Gemini Fallback
+                        sys.stdout.write(f"[{target_lang}] [Stufe 2] Invoking Gemini Fallback API...\n")
+                        sys.stdout.flush()
+                        
+                        gem_qc_reason = "API request failed or timed out"
+                        for gemini_attempt in range(2):
+                            gem_temp = 0.3 if gemini_attempt == 0 else 0.5
+                            data_gem = {
+                                "contents": [{"role": "user", "parts": [{"text": indexed_protected}]}],
+                                "systemInstruction": {"role": "user", "parts": [{"text": system}]},
+                                "generationConfig": {"temperature": gem_temp}
+                            }
+                            req = urllib.request.Request(
+                                GEMINI_API_URL,
+                                data=json.dumps(data_gem).encode('utf-8'),
+                                headers={'Content-Type': 'application/json'}
+                            )
+                            try:
+                                with urllib.request.urlopen(req, timeout=120) as response:
+                                    res_data_gem = json.loads(response.read().decode('utf-8'))
+                                    gemini_result = res_data_gem['candidates'][0]['content']['parts'][0]['text']
+                            except Exception as e:
+                                sys.stdout.write(f"[{target_lang}] Gemini API Error: {e}\n")
+                                sys.stdout.flush()
+                                gem_qc_reason = f"API Error: {e}"
+                                continue
+                            
+                            # Do a quick structural check on Gemini result
+                            import re
+                            gemini_lines = gemini_result.split('\n')
+                            gem_restored_lines = [None] * len(source_lines)
+                            gem_unmatched_lines = []
+                            for r_line in gemini_lines:
+                                m = re.match(r'^\s*\[?[LЛlл]?\s*(\d+)\s*\]?[\s:\.\-]*\s*(.*)$', r_line, re.IGNORECASE)
+                                if m:
+                                    idx = int(m.group(1))
+                                    content = m.group(2)
+                                    if 0 <= idx < len(source_lines):
+                                        gem_restored_lines[idx] = content
+                                    else:
+                                        gem_unmatched_lines.append(r_line)
+                                else:
+                                    if r_line.strip():
+                                        gem_unmatched_lines.append(r_line)
+
+                            gem_unmatched_idx = 0
+                            gem_line_dropped = False
+                            for idx, src_l in enumerate(source_lines):
+                                if src_l.strip():
+                                    if gem_restored_lines[idx] is None:
+                                        if gem_unmatched_idx < len(gem_unmatched_lines):
+                                            clean_line = re.sub(r'^\s*\[?[LЛlл]?\s*\d+\s*\]?[\s:\.\-]*\s*', '', gem_unmatched_lines[gem_unmatched_idx], flags=re.IGNORECASE)
+                                            gem_restored_lines[idx] = clean_line
+                                            gem_unmatched_idx += 1
+                                        else:
+                                            gem_line_dropped = True
+                                            gem_restored_lines[idx] = src_l
+                                else:
+                                    gem_restored_lines[idx] = ''
+
+                            gem_result_str = '\n'.join(gem_restored_lines)
+                            
+                            gem_qc_failed = False
+                            gem_qc_reason = ""
+                            if gem_line_dropped:
+                                gem_qc_failed = True
+                                gem_qc_reason = "Line dropped by LLM (missing prefix line restoration)"
+                            if not gem_qc_failed and len([l for l in source_lines if l.strip()]) != len([l for l in gem_result_str.split('\n') if l.strip()]):
+                                gem_qc_failed = True
+                                gem_qc_reason = "Line count mismatch"
+                            elif not gem_qc_failed:
+                                gem_missing_struct = [k for k in struct_registry if k not in gem_result_str]
+                                if gem_missing_struct:
+                                    gem_qc_failed = True
+                                    gem_qc_reason = f"Missing structure: {len(gem_missing_struct)} dropped"
+                            
+                            # Also check DE/EN words...
+                            if not gem_qc_failed and target_lang != 'de':
+                                ger_result_count = len(ger_pattern.findall(gem_result_str))
+                                if ger_result_count >= 3:
+                                    ger_source_count = len(ger_pattern.findall(protected))
+                                    if ger_result_count >= (ger_source_count * 0.2):
+                                        gem_qc_failed = True
+                                        gem_qc_reason = "German leak"
+                                        
+                            if not gem_qc_failed and target_lang not in ('de', 'en'):
+                                en_result_count = len(en_pattern.findall(gem_result_str))
+                                if en_result_count >= 3:
+                                    en_source_count = len(en_pattern.findall(protected))
+                                    if en_result_count > en_source_count + 2:
+                                        gem_qc_failed = True
+                                        gem_qc_reason = "English leak"
+                                        
+                            if not gem_qc_failed:
+                                gem_missing_deva = [k for k in deva_registry if k not in gem_result_str]
+                                if not gem_missing_deva:
+                                    sys.stdout.write(f"[{target_lang}] [Stufe 2] Gemini success!\n")
+                                    sys.stdout.flush()
+                                    result = gem_result_str
+                                    result = restore_devanagari(result, deva_registry, _mark_skt)
+                                    result = restore_iast_lines(result, iast_registry)
+                                    result = restore_br(result)
+                                    result = restore_structure(result, struct_registry)
+                                    return result, ph_attempt
+                                else:
+                                    sys.stdout.write(f"[{target_lang}] [Stufe 2] Gemini dropped {len(gem_missing_deva)} Devanagari placeholders. Retrying...\n")
+                                    sys.stdout.flush()
+                            else:
+                                sys.stdout.write(f"[{target_lang}] [Stufe 2] Gemini QC failed ({gem_qc_reason}). Retrying...\n")
+                                sys.stdout.flush()
+                                
+                        # Stufe 3: DeepL Fallback
+                        sys.stdout.write(f"[{target_lang}] [Stufe 3] Invoking DeepL Fallback API...\n")
+                        sys.stdout.flush()
+                        
+                        from .config import DEEPL_API_KEY, DEEPL_API_URL
+                        deepl_lang_map = {
+                            "zh-CN": "ZH-HANS",
+                            "zh": "ZH-HANT",
+                            "sh": "HR", 
+                            "pt": "PT-PT", 
+                            "en": "EN-US"
+                        }
+                        deepl_unsupported = {"rm", "cop", "grc", "akk", "arc", "gez", "am"}
+                        
+                        if target_lang in deepl_unsupported:
+                            sys.stdout.write(f"[{target_lang}] [Stufe 3] Language {target_lang} not supported by DeepL. Failing.\n")
+                            sys.stdout.flush()
+                            return f"ERROR: Quality Control Failed (Stufe 2, Stufe 3 skipped) - {gem_qc_reason or 'Devanagari dropped'}", ph_attempt
+                            
+                        target_deepl = deepl_lang_map.get(target_lang, target_lang.upper())
+                        
+                        import urllib.parse
+                        data_deepl = urllib.parse.urlencode({
+                            "text": protected,
+                            "target_lang": target_deepl,
+                            "preserve_formatting": "1",
+                            "tag_handling": "xml"
+                        }).encode('utf-8')
+                        
+                        req_deepl = urllib.request.Request(
+                            DEEPL_API_URL,
+                            data=data_deepl,
+                            headers={
+                                'Authorization': f'DeepL-Auth-Key {DEEPL_API_KEY}',
+                                'Content-Type': 'application/x-www-form-urlencoded'
+                            }
+                        )
+                        
+                        try:
+                            with urllib.request.urlopen(req_deepl, timeout=60) as response:
+                                res_data_deepl = json.loads(response.read().decode('utf-8'))
+                                deepl_result_str = res_data_deepl['translations'][0]['text']
+                        except Exception as e:
+                            sys.stdout.write(f"[{target_lang}] DeepL API Error: {e}\n")
+                            sys.stdout.flush()
+                            return f"ERROR: Quality Control Failed (Stufe 3 API Error) - {e}", ph_attempt
+                            
+                        deepl_qc_failed = False
+                        deepl_qc_reason = ""
+                        
+                        if len([l for l in source_lines if l.strip()]) != len([l for l in deepl_result_str.split('\n') if l.strip()]):
+                            deepl_qc_failed = True
+                            deepl_qc_reason = "Line count mismatch in DeepL output"
+                            
+                        if not deepl_qc_failed:
+                            deepl_missing_struct = [k for k in struct_registry if k not in deepl_result_str]
+                            if deepl_missing_struct:
+                                deepl_qc_failed = True
+                                deepl_qc_reason = f"Missing structure: {len(deepl_missing_struct)} dropped"
+                                
+                        if not deepl_qc_failed:
+                            deepl_missing_deva = [k for k in deva_registry if k not in deepl_result_str]
+                            if not deepl_missing_deva:
+                                sys.stdout.write(f"[{target_lang}] [Stufe 3] DeepL success!\n")
+                                sys.stdout.flush()
+                                result = deepl_result_str
+                                result = restore_devanagari(result, deva_registry, _mark_skt)
+                                result = restore_iast_lines(result, iast_registry)
+                                result = restore_br(result)
+                                result = restore_structure(result, struct_registry)
+                                return result, ph_attempt
+                            else:
+                                deepl_qc_failed = True
+                                deepl_qc_reason = f"Dropped {len(deepl_missing_deva)} Devanagari placeholders"
+                                
+                        sys.stdout.write(f"[{target_lang}] [Stufe 3] DeepL QC failed ({deepl_qc_reason}). Final Failure.\n")
+                        sys.stdout.flush()
+                        return f"ERROR: Quality Control Failed (Stufe 3) - {deepl_qc_reason}", ph_attempt
 
                 missing = [k for k in deva_registry if k not in result]
                 if len(missing) < len(best_missing):

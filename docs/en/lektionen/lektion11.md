@@ -10,13 +10,6 @@ status: stable
 
 # Lesson 11
 
-::: deleteme-box
-**In this lesson, you will learn:**
-The double accusative (accusative of the person and accusative of the thing)
-The usage of the particles **iti**, **evam**, and **na**
-Basic concepts such as **dharma**, **adharma**, and **putra**
-The formation of nouns from the roots **vad**, **prach**, and **iṣ**
-:::
 ## 11.1. Double Accusative
 
 ::: grammar-box

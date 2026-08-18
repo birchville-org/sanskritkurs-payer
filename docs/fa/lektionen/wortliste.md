@@ -2,10 +2,6 @@
 outline: 2
 ---
 
-::: deleteme-box
-**Zitierweise & Rechte**
-
-:::
 # واژه‌نامه (Gesamtübersicht)
 
 *تمام واژگان جدید از دوره به ترتیب معرفی، همراه با توضیحات موضوعی.*
@@ -21,15 +17,15 @@ outline: 2
 
 **deva** m. -- ⟪देव⟫ : آسمانی، خداوندگار؛ حاکم، پادشاه.
 
-**īśvara** m. -- ⟪ईश्वर⟫ : Herr, Herrscher, Gott (monotheistisch). <!-- TODO: Fallback translation -->
+**īśvara** m. -- ⟪ईश्वर⟫ : Herr, Herrscher, Gott (monotheistisch).
 
 **brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmane (geistlicher Stand).
 
 **kṣatriya** m. -- ⟪क्षत्रिय⟫ : کْشَتَرِیا (طبقهٔ شاهزادگان و جنگاوران).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand). <!-- TODO: Fallback translation -->
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand).
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand). <!-- TODO: Fallback translation -->
+**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
 
 ::: note-box Die vier Stände (varna)
 بر اساس نظریه کلاسیک (به‌طور مثال Manusmṛti I, 88-91)، وظایف به شرح زیر تقسیم شده‌اند:
@@ -76,7 +72,7 @@ outline: 2
 
 سه طبقه، لباس مخصوص هر طبقه را به تن دارند. مسیح بر فراز طبقات — که بدین ترتیب الهی‌الوحی خوانده می‌شوند — تکیه زده است.
 
-Max Weber \<1864 – 1920\> definiert Stand so: <!-- TODO: Fallback translation -->
+Max Weber \<1864 – 1920\> definiert Stand so:
 
 ::: note-box
 «طبقه» باید به معنای گروهی از افراد باشد که درون یک اتحادیه
@@ -102,7 +98,7 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
 
 **kavi** m. -- ⟪कवि⟫ : Dichter.
 
-**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni. <!-- TODO: Fallback translation -->
+**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
@@ -132,9 +128,9 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
 
 
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Lernen Sie folgende Wörter:**
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's). <!-- TODO: Fallback translation -->
+**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
 
 **smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
 - die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
@@ -149,7 +145,7 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
 - **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
 - die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
 - die **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit <!-- TODO: Fallback translation -->
+- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
 
 **smṛti** به‌ویژه نامی برای متون آموزشی دهارما است.
 
@@ -161,11 +157,11 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya. <!-- TODO: Fallback translation -->
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
 
-**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya. <!-- TODO: Fallback translation -->
+**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
 
 **śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra.
 
@@ -182,15 +178,15 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw. <!-- TODO: Fallback translation -->
+**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw.
 
 **ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : فلسفه (علمی که از طریق استدلال‌های منطقی صحیح به نتیجه می‌رسد).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut. <!-- TODO: Fallback translation -->
+**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut.
 
 **karuṇā** f. = ⟪करुणा⟫ : همدلی، دلسوزی.
 
-**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid). <!-- TODO: Fallback translation -->
+**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
 
 ---
 
@@ -202,7 +198,7 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
 
 
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Lernen Sie folgende Wörter:**
 
 **abhiniveṣa** m. = ⟪अभिनिवेष⟫ : تمایل، پافشاری، اصرار؛ به‌طور خاص: دلبستگی به بدن گویی که متعلق به خود است.
 
@@ -227,13 +223,13 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
 
 **maitrī** f. = ⟪मैत्री⟫ : دوستی، مهربانی، نیت خیر دوستانه.
 
-**rāga** m. = ⟪राग⟫ : (rote) Farbe, Leidenschaft, Liebe. <!-- TODO: Fallback translation -->
+**rāga** m. = ⟪राग⟫ : (rote) Farbe, Leidenschaft, Liebe.
 
-**lobha** m. = ⟪लोभ⟫ : Gier, Habsucht. <!-- TODO: Fallback translation -->
+**lobha** m. = ⟪लोभ⟫ : Gier, Habsucht.
 
 **varṇa** m. = ⟪वर्ण⟫ : رنگ، دسته‌بندی، طبقه اجتماعی.
 
-**vārttā** f. = ⟪वार्त्ता⟫ : Erwerb, Ökonomie (Wirtschaft). <!-- TODO: Fallback translation -->
+**vārttā** f. = ⟪वार्त्ता⟫ : Erwerb, Ökonomie (Wirtschaft).
 
 **vidyā** f. = ⟪विद्या⟫ : دانش، علم.
 
@@ -284,7 +280,7 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
 
 
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Lernen Sie folgende Wörter:**
 
 - **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : رسیدن، به دست آوردن
 - **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : رسیدن، به دست آوردن
@@ -318,7 +314,7 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
 
 
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Lernen Sie folgende Wörter:**
 
 - **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : پیروز شدن، غلبه کردن
 - **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : گرفتن، به دست آوردن
@@ -361,9 +357,9 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
 
 
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Lernen Sie folgende Wörter:**
 
-- **adhyayana** n. (⟪अध्ययन⟫) : Lernen, insbes. Vedastudium <!-- TODO: Fallback translation -->
+- **adhyayana** n. (⟪अध्ययन⟫) : Lernen, insbes. Vedastudium
 
 ::: media
 ![](/images/lekt0903.webp)
@@ -403,7 +399,7 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
 
 
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Lernen Sie folgende Wörter:**
 
 - **gṛha** n. ⟪गृह⟫ : Haus
 - **grāma** m. ⟪ग्राम⟫ : Dorf
@@ -418,7 +414,7 @@ c) از طریق **تصرف** طبقه‌ای از اختیارات سیاسی �
   Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit.
   
   Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
-  - **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst <!-- TODO: Fallback translation -->
+  - **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
 
 :::
 ::: note-box
@@ -437,13 +433,13 @@ Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg
 تصویر: ⟪वरुणः⟫
 (منبع تصویر: [جزئیات](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : نادرستی، دروغ (مخالف **satya**) <!-- TODO: Fallback translation -->
+- **anṛta** n. ⟪अनृत⟫ : نادرستی، دروغ (مخالف **satya**)
 
 ::: note-box
   Wortbildung **an-** („un-“) + **ṛta** n.
   
   **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
-  - **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder <!-- TODO: Fallback translation -->
+  - **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
 
 :::
 ::: note-box
@@ -468,7 +464,7 @@ Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg
 
 
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Lernen Sie folgende Wörter:**
 
 - **iti** ⟪इति⟫ : پس
 - *پس* از بیان یک فکر، خواسته، اظهار نظر یا نقل قول می‌آید و گویی نقش گیومه (") را دارد.
@@ -485,7 +481,7 @@ Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg
 - **dharma** m. ⟪धर्म⟫ : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter.
   - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**).
 - **adharma** m. ⟪अधर्म⟫ : Unrecht (Gegensatz zu **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen (**iṣ-ccha-ti**). <!-- TODO: Fallback translation -->
+- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen (**iṣ-ccha-ti**).
 
 **Einige Nominalbildungen:**
 
@@ -502,7 +498,7 @@ Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg
 - **praśna** m. ⟪प्रश्न⟫ : پرسش (پسوند **-na** مانند در **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : wünschen
-  - **iṣṭi** f. ⟪इष्टि⟫ : Wunsch (**iṣ** + **-ti**) <!-- TODO: Fallback translation -->
+  - **iṣṭi** f. ⟪इष्टि⟫ : Wunsch (**iṣ** + **-ti**)
 
 ---
 
@@ -514,7 +510,7 @@ Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg
 
 
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete) <!-- TODO: Fallback translation -->
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
 
 ::: media
 ![](/images/lekt1201.webp)
@@ -553,7 +549,7 @@ Zur Wortbildung:
 
 ---
 
-### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln <!-- TODO: Fallback translation -->
+### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
 
 | Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
@@ -612,7 +608,7 @@ Zur Wortbildung:
 
 
 
-Lernen Sie folgende Wörter: <!-- TODO: Fallback translation -->
+Lernen Sie folgende Wörter:
 
 - **eva** ⟪एव⟫ : کلمه پیشین را تأکید می‌کند
 - **asura** m. ⟪असुर⟫ : دَیو
@@ -646,7 +642,7 @@ Lernen Sie folgende Wörter: <!-- TODO: Fallback translation -->
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : دشمنی ورزیدن، کینه توز بودن
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : خوردن، مصرف کردن
-- **anna** n. ⟪अन्न⟫ : غذا (از PPP: *ad-na: خورده شده) <!-- TODO: Fallback translation -->
+- **anna** n. ⟪अन्न⟫ : غذا (از PPP: *ad-na: خورده شده)
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -684,7 +680,7 @@ dviṣ 2 U:
 
 * **śīla n.** (⟪शील⟫) : (guter) Charakter, Sittlichkeit
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : Schmuck
-* **dīpa m.** (⟪दीप⟫) : Lampe <!-- TODO: Fallback translation -->
+* **dīpa m.** (⟪दीप⟫) : Lampe
 
 ::: media
 ![](/images/lekt1405.webp)
@@ -745,15 +741,15 @@ dviṣ 2 U:
 :::
 ⟪दास⟫ m.: برده، رعیت، خدمتگزار
 
-⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin <!-- TODO: Fallback translation -->
+⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin
 
 ⟪काल⟫ m.: زمان، (زمان) مناسب؛ سرنوشت، مرگ؛ خدای مرگ کالا
 
 ⟪काल⟫ 3: schwarz, blauschwarz, dunkel
 
-⟪पुरुष⟫ m.: Mensch, Mann, Knecht <!-- TODO: Fallback translation -->
+⟪पुरुष⟫ m.: Mensch, Mann, Knecht
 
-\-⟪जन⟫ als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals <!-- TODO: Fallback translation -->
+\-⟪जन⟫ als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals
 
 ⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loben, preisen
 
@@ -780,7 +776,7 @@ davon:
 
 ⟪एव⟫ (پس از اسم): تأکید بر پیشین دارد، در آلمانی اغلب معادل تأکید است، نوعی ایموجی `\<!\>`، مثلاً ⟪सत्यमेव⟫ ⟪जयति⟫ "تنها حقیقت پیروز است"، "همان‌طور که حقیقت پیروز است"، "حقیقت پیروز است"
 
-⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling) <!-- TODO: Fallback translation -->
+⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
 
 ::: indent
 ⟪आर्य⟫ ۳: آریایی، نجیب؛ م. آریا (نام خودِ هندوهای باستانی که به زبان سنسکیت صحبت می‌کردند، به معنای تحت‌اللفظی: مهمان‌نواز (تیمی))؛ نجیب، مرد شریف
@@ -795,7 +791,7 @@ davon:
 davon:
 
 ::: indent
-⟪मरण⟫ n.: Sterben, Tod <!-- TODO: Fallback translation -->
+⟪मरण⟫ n.: Sterben, Tod
 
 ⟪मृति⟫ f.: Sterben, Tod
 
@@ -837,11 +833,11 @@ davon:
 
 ⟪क्षेम⟫ n.: آرامش، صلح، رفاه، دارایی مطمئن
 
-⟪चित्त⟫ n.: Bewusstsein, Denken, Geist <!-- TODO: Fallback translation -->
+⟪चित्त⟫ n.: Bewusstsein, Denken, Geist
 
 ⟪निरोध⟫ m.: Stoppen, Zum-Stillstand-Bringen
 
-* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): Wesen, Gespenst <!-- TODO: Fallback translation -->
+* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): Wesen, Gespenst
 
 ⟪योग⟫ m.: بستن، پیوند، اتحاد، کسب؛ یوگا
 
@@ -853,7 +849,7 @@ davon:
 :::
 ⟪वृत्⟫ ۱ Ā ⟪वर्तते⟫ ; مفعولی ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : چرخیدن، روی آوردن، (در جایی) بودن، ساکن شدن
 
-⟪शस्त्र⟫ (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe <!-- TODO: Fallback translation -->
+⟪शस्त्र⟫ (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe
 
 ⟪शौच⟫ n.: Reinigung, Reinheit
 
@@ -921,7 +917,7 @@ davon:
 davon:
 
 ::: indent
-⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung <!-- TODO: Fallback translation -->
+⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung
 
 ⟪दिष्ट्या⟫ دستورالعمل: (حرفاً: از طریق یک تصادف خوشایند) ای تصادف خوشایند (فریادی از شادی و خرسندی)
 :::
@@ -947,9 +943,9 @@ davon:
 
 ⟪ज्ञान⟫ n.: Erkenntnis
 
-⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held <!-- TODO: Fallback translation -->
+⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held
 
-⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort <!-- TODO: Fallback translation -->
+⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort
 
 ⟪उदक⟫ n.: Wasser
 
@@ -957,9 +953,9 @@ davon:
 
 ⟪आदि⟫ m.: Anfang
 
-⟪दण्ड⟫ m.: Stock, Prügel, Strafe <!-- TODO: Fallback translation -->
+⟪दण्ड⟫ m.: Stock, Prügel, Strafe
 
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung <!-- TODO: Fallback translation -->
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung
 
 ⟪सहित⟫ 3: vereinigt, versehen mit
 
@@ -975,7 +971,7 @@ davon:
 
 
 
-**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. ⟪अर्थम्⟫ (Akk.), ⟪अर्थेन⟫ (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu. <!-- TODO: Fallback translation -->
+**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. ⟪अर्थम्⟫ (Akk.), ⟪अर्थेन⟫ (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
 
 ⟪अर्थ⟫ یکی از سه هدف زندگی (⟪पुरुषार्थ⟫) است، همان‌طور که در ادبیات دنیوی و مذهبی توصیف شده است:
 
@@ -1005,7 +1001,7 @@ von ⟪स्था⟫ :
 
 **⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoss, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B. <!-- TODO: Fallback translation -->
+**⟪गर्भ⟫ m.:** Gebärmutter, Schoss, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
 
 ::: indent
 **⟪धनगर्भ⟫ ۳:** «که درونش طلا است = جایی که طلا وجود دارد»
@@ -1059,11 +1055,11 @@ davon:
 
 **⟪अमुत्र⟫ :** dort, im Jenseits
 
-**⟪इह⟫ :** hier, im Diesseits <!-- TODO: Fallback translation -->
+**⟪इह⟫ :** hier, im Diesseits
 
 **⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden
 
-**⟪भार्या⟫ f.:** zu Erhaltende = Gattin <!-- TODO: Fallback translation -->
+**⟪भार्या⟫ f.:** zu Erhaltende = Gattin
 
 **⟪प्रिय⟫ 3:** lieb, angenehm
 
@@ -1093,7 +1089,7 @@ davon:
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : انجام‌دهنده، سازنده، مؤثر
 
-⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
+⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8)
 
 ⟪कर⟫ m.: مالیات، خراج، عوارض (نه مرتبط با ⟪कृ⟫، بلکه احتمالاً وام‌گرفته از تامیل - தமிழ்)
 
@@ -1101,25 +1097,25 @@ davon:
 
 ⟪अधि⟫ پیش‌فعل: بر، روی، به دست آوردن، با اشاره به
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : antreffen, gelangen zu, erlangen <!-- TODO: Fallback translation -->
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : antreffen, gelangen zu, erlangen
 
 ⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : verringern, schwächen
 
 ⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : gebend, schenkend
 
-⟪नृप⟫ m.: "Beschützer der Männer" = König <!-- TODO: Fallback translation -->
+⟪नृप⟫ m.: "Beschützer der Männer" = König
 
 ⟪प्रणिधान⟫ n.: کاربرد، تلاش، توجه به، خدمتگزاری، تفکر، نذر
 
-⟪बाधना⟫ f.: Bedrängnis, Plage, Pein <!-- TODO: Fallback translation -->
+⟪बाधना⟫ f.: Bedrängnis, Plage, Pein
 
-⟪भार्या⟫ f.: "zu Erhaltende" = Gattin <!-- TODO: Fallback translation -->
+⟪भार्या⟫ f.: "zu Erhaltende" = Gattin
 
 ⟪भावना⟫ f.: گسترش تدبری (به معنای ⟪भू⟫ سببی)
 
-⟪मही⟫ f.: Erde, Grund und Boden <!-- TODO: Fallback translation -->
+⟪मही⟫ f.: Erde, Grund und Boden
 
-⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut <!-- TODO: Fallback translation -->
+⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
 
 ⟪विप्र⟫ m.: «لرزان» = شاعر، خواننده، کشیش، برهمی
 
@@ -1173,7 +1169,7 @@ davon:
 
 ⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : gedeihen
 
-⟪ऋध्⟫ + ⟪सम्⟫ : gedeihen; PPP: gelungen, reich <!-- TODO: Fallback translation -->
+⟪ऋध्⟫ + ⟪सम्⟫ : gedeihen; PPP: gelungen, reich
 
 ⟪विचित्र⟫ ⟪३⟫ : رنگارنگ، متنوع، زیبا، شگفت‌انگیز، عجیب
 
@@ -1283,7 +1279,7 @@ davon:
 ::: indent
 **⟪चर⟫ ⟪३⟫:** متحرک؛ اسم: موجودات متحرک = حیوانات (در تقابل با گیاهان)
 
-**⟪चरण⟫ n., m.:** Fuss <!-- TODO: Fallback translation -->
+**⟪चरण⟫ n., m.:** Fuss
 
 **⟪चरित⟫ n.:** Lebenswandel, Lebenstaten
 
@@ -1309,7 +1305,7 @@ davon:
 
 ⟪अधिक⟫ ⟪३⟫ : اضافی، بیشتر، بزرگ‌تر، بهتر، استثنایی
 
-⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica <!-- TODO: Fallback translation -->
+⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica
 
 ## درس 24
 
@@ -1366,12 +1362,12 @@ Von ⟪वृत्⟫:
 
 ⟪इन्द्रिय⟫ n.: Kraft, Sinnesorgan
 
-⟪ऊह⟫ m.: Überlegung, Argumentation <!-- TODO: Fallback translation -->
+⟪ऊह⟫ m.: Überlegung, Argumentation
 
 davon
 
 ::: indent
-⟪अपोह⟫ m.: Negierung (⟪अप⟫ + ⟪ऊह⟫) <!-- TODO: Fallback translation -->
+⟪अपोह⟫ m.: Negierung (⟪अप⟫ + ⟪ऊह⟫)
 
 ⟪ऊहापोह⟫ m.: بحث درباره مزایا و معایب
 :::
@@ -1486,7 +1482,7 @@ davon:
 :::
 ⟪प्रज्ञा⟫ f.: خرد، شناخت
 
-⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende <!-- TODO: Fallback translation -->
+⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende
 
 ⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : خوشنود شدن، مست غرق شدن در چیزی (ابزاری، مفعولی مکانی)
 
@@ -1535,7 +1531,7 @@ davon:
 
 ⟪स्तेय⟫ n.: Diebstahl
 
-⟪किल्बिष⟫ n.: Schuld, Beleidigung, Sünde <!-- TODO: Fallback translation -->
+⟪किल्बिष⟫ n.: Schuld, Beleidigung, Sünde
 
 ⟪विना⟫ پس‌حرف: بدون، به جز (با حالت‌های مفعولی، ابزاری و ازلی)
 
@@ -1565,7 +1561,7 @@ davon:
 :::
 ⟪वर्ष⟫ n.,m.: باران، فصل بارانی، سال
 
-⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind) <!-- TODO: Fallback translation -->
+⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind)
 
 ::: indent
 Fut. ⟪वक्ष्यति⟫  
@@ -1615,11 +1611,11 @@ davon:
 :::
 ⟪सामर्थ्य⟫ n.: آنچه با هدفش همخوان است
 
-⟪स्वभाव⟫ m.: Wesen, Natur, Charakter <!-- TODO: Fallback translation -->
+⟪स्वभाव⟫ m.: Wesen, Natur, Charakter
 
 ⟪हर्ष⟫ m.: (برجسته شدن موهای بدن)، شادی
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum <!-- TODO: Fallback translation -->
+⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum
 
 ::: media
 ![](/images/lekt2506.webp)
@@ -1676,7 +1672,7 @@ Vastrāṇi. Majuli, Assam.
 ⟪वस्⟫ 6P (⟪उच्छति⟫): درخشیدن، تابش داشتن (این ریشه به دلیل مشتقات اسمی آن مهم است:)
 
 ::: indent
-⟪वसु⟫ n.: Reichtum, Schatz, Habe, Besitz <!-- TODO: Fallback translation -->
+⟪वसु⟫ n.: Reichtum, Schatz, Habe, Besitz
 
 ⟪वसन्त⟫ m.: («درخشان» =) بهار (مارس تا مه)
 :::
@@ -1701,9 +1697,9 @@ davon:
 :::
 مقابل ⟪हर⟫:
 
-⟪हरि⟫ 3: blond, gelb, grün; m. Beiname des Viṣṇu (gehört nicht zur Wurzel ⟪हृ⟫ 1) <!-- TODO: Fallback translation -->
+⟪हरि⟫ 3: blond, gelb, grün; m. Beiname des Viṣṇu (gehört nicht zur Wurzel ⟪हृ⟫ 1)
 
-⟪हरिहर⟫ m.: Viṣṇu und Śiva vereint als eine einzige Gottheit. <!-- TODO: Fallback translation -->
+⟪हरिहर⟫ m.: Viṣṇu und Śiva vereint als eine einzige Gottheit.
 
 ::: media
 ![](/images/lekt2704.webp)
@@ -1830,7 +1826,7 @@ Präverben:
 
 ⟪न्याय⟫ م.: معیار، قانون، روش درست؛ روش، منطق (از ⟪इ⟫ + ⟪नि⟫)
 
-⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger <!-- TODO: Fallback translation -->
+⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger
 
 ::: media
 ![](/images/lekt2903.webp)
@@ -1968,10 +1964,10 @@ PPP ⟪अशित⟫
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : wenn nicht
 :::
-⟪यदि⟫ Konjunktion: wenn <!-- TODO: Fallback translation -->
+⟪यदि⟫ Konjunktion: wenn
 
 ::: indent
-⟪यद्यपि⟫ : wenn auch, selbst wenn, obgleich <!-- TODO: Fallback translation -->
+⟪यद्यपि⟫ : wenn auch, selbst wenn, obgleich
 
 ⟪यद्येवम्⟫ : اگر چنین باشد، در این شرایط
 :::
@@ -2133,7 +2129,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 
 
-**⟪अग्र⟫ n.:** Spitze, äusserstes Ende <!-- TODO: Fallback translation -->
+**⟪अग्र⟫ n.:** Spitze, äusserstes Ende
 
 **⟪मही⟫ f.:** زمین، خاک و قلمرو (حرفاً: بزرگ)
 
@@ -2332,7 +2328,7 @@ davon:
 :::
 ⟪पॄ⟫ + ⟪सम्⟫ فقط **مجهول** ⟪सम्पूर्यते⟫ و **علّی**: کاملاً پر کردن
 
-⟪भी⟫ 3P ⟪बिभेति⟫: sich fürchten vor (Abl., Gen.) <!-- TODO: Fallback translation -->
+⟪भी⟫ 3P ⟪बिभेति⟫: sich fürchten vor (Abl., Gen.)
 
 ::: indent
 **Fut.** ⟪भेष्यति⟫  
@@ -2439,7 +2435,7 @@ davon:
 :::
 **⟪यावत्⟫ :** چقدر، چگونه
 
-**⟪तावत्⟫ :** so lange, so gross <!-- TODO: Fallback translation -->
+**⟪तावत्⟫ :** so lange, so gross
 
 **⟪उत्तम⟫ 3:** höchster
 
@@ -2481,7 +2477,7 @@ davon:
 
 **⟪श्रेष्ठ⟫ 3:** bester
 
-**⟪तल⟫ m.n.:** Ebene, Fläche <!-- TODO: Fallback translation -->
+**⟪तल⟫ m.n.:** Ebene, Fläche
 
 **⟪ऋषभ⟫ m.:** Stier
 
@@ -2754,7 +2750,7 @@ PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫
 
 
 
-⟪सूर्य⟫ m.: Sonne, Sonnengott Sūrya <!-- TODO: Fallback translation -->
+⟪सूर्य⟫ m.: Sonne, Sonnengott Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
@@ -2809,14 +2805,14 @@ davon:
 
 ⟪मेघ⟫ m.: Wolke ("Seicher")
 :::
-⟪सुत⟫ m.: Sohn <!-- TODO: Fallback translation -->
+⟪सुत⟫ m.: Sohn
 
 ⟪राजन्⟫ m.: राजा (भारत में राजशासन के बारे में देखें बशम, अद्भुत पृ. ८२-९४)। एक समास के अंतिम पद के रूप में (विशेषतः ⟪तत्पुरुष⟫) आमतौर पर: -⟪राज⟫ m. (जैसे ⟪देव⟫)
 
 ::: indent
 Femininum:
 
-⟪राज्ञी⟫ f.: Königin, Frau eines Königs <!-- TODO: Fallback translation -->
+⟪राज्ञी⟫ f.: Königin, Frau eines Königs
 
 von ⟪राज⟫ :
 
@@ -2830,7 +2826,7 @@ von ⟪राज⟫ :
 
 ⟪ब्रह्मन्⟫ n.: مطلق، ودا (بر اساس نظریه تیهی در اصل: حقیقت بیان‌شده، از آن ⟪ब्राह्मण⟫ "بیانگر حقیقت")
 
-⟪ब्रह्मन्⟫ m.: der persönlich gedachte Schöpfergott Brahmā <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ m.: der persönlich gedachte Schöpfergott Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
@@ -2887,9 +2883,9 @@ davon:
 
 
 
-⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger <!-- TODO: Fallback translation -->
+⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger
 
-⟪मेधा⟫ f.: Weisheit, Verstand, Gedanke <!-- TODO: Fallback translation -->
+⟪मेधा⟫ f.: Weisheit, Verstand, Gedanke
 
 ⟪पुस्तक⟫ m.n.: Manuskript, Buch
 
@@ -3050,11 +3046,6 @@ davon:
 
 ⟪सङ्घ⟫ n.: (به ⟪सम्⟫-⟪हन्⟫ : به‌هم‌زدن): گروه، توده، جامعه (مثلاً بودایی)
 
-::: deleteme-box
-s. dazu:
-
-**پلیر، آلوئیس \<1944 - \>:** وینایاموخا: مفاهیم بنیادین قوانین و حقوق صومعه‌ای تروادا. -- بخش اول. -- (مواد مربوط به مفاهیم بنیادی بودیسم). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: دختر جوان، دختربچه، باکره
 
 ⟪अति⟫ پیش‌فعل: بر، از - راه، فراتر از (در فضا، در زمان، به تعداد، به مقدار، در ترتیب، به قدرت، به شدت)، بسیار
@@ -3063,11 +3054,6 @@ s. dazu:
 
 ::: indent
 PPP ⟪अतीत⟫ : n. گذشته (ماضی)
-:::
-::: deleteme-box
-بنگرید به:
-
-**پایِر، آلويس \<1944 - \>:** وینایاموخا : مفاهیم بنیادین قوانین و حقوق صومعه‌ای در تروادا. -- بخش اول. -- (مواد مربوط به مفاهیم بنیادی بودیسم). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: دختر جوان، دوشیزه
 
@@ -3078,11 +3064,6 @@ PPP ⟪अतीत⟫ : n. گذشته (ماضی)
 ::: indent
 PPP ⟪अतीत⟫ : n. گذشته (ماضی)
 :::
-::: deleteme-box
-بنگرید به:
-
-**پایِر، آلويس \<1944 - \>:** وینایاموخا : مفاهیم بنیادین قوانین و حقوق صومعه‌ای در تروادا. -- بخش اول. -- (مواد مربوط به مفاهیم بنیادی بودیسم). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: دختر جوان، دختربچه، باکره
 
 ⟪अति⟫ پیش‌واژه: بر، از راهِ بر، فراتر (در فضا، در زمان، از نظر تعداد، از نظر مقدار، در ترتیب، از نظر قدرت، از نظر شدت)، بسیار
@@ -3092,7 +3073,7 @@ PPP ⟪अतीत⟫ : n. گذشته (ماضی)
 ::: indent
 PPP ⟪अतीत⟫ : n. Vergangenheit
 :::
-## درس 42 <!-- TODO: Fallback translation -->
+## درس 42
 
 
 
@@ -3121,7 +3102,7 @@ PPP ⟪अवस्थित⟫ ۳: ایستاده، موجود
 
 ⟪सकाश⟫ m.: Anwesenheit, Gegenwart
 
-⟪शर⟫ m.: Pfeil-Schaft, Pfeil <!-- TODO: Fallback translation -->
+⟪शर⟫ m.: Pfeil-Schaft, Pfeil
 
 ⟪बाण⟫ m.: Pfeil, Ziel
 
@@ -3148,11 +3129,11 @@ Inf. ⟪चलितुम्⟫
 
 ⟪लीला⟫ f.:  Scherz, Spiel
 
-⟪यावत्⟫ Adv.:  wie lange, während <!-- TODO: Fallback translation -->
+⟪यावत्⟫ Adv.:  wie lange, während
 
 ⟪तावत्⟫ Adv.: so lange
 
-⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: zweifach, in zwei Teilen <!-- TODO: Fallback translation -->
+⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: zweifach, in zwei Teilen
 
 ⟪शंस्⟫ 1P ⟪शंसति⟫ : loben, gebieten
 
@@ -3167,7 +3148,7 @@ Inf. ⟪चलितुम्⟫
 :::
 ⟪हृदय⟫ ن.: قلب
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen <!-- TODO: Fallback translation -->
+### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
@@ -3203,9 +3184,9 @@ Inf. ⟪चलितुम्⟫
 
 ⟪देवृ⟫ m.: برادر شوهر (خواهرزاده همسر)
 
-⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns <!-- TODO: Fallback translation -->
+⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes <!-- TODO: Fallback translation -->
+⟪ननान्दृ⟫ f.: Schwester des Mannes
 
 ⟪श्वसुर⟫ f.: پدرزن (در قدیم: فقط به معنای پدر همسر زن)
 
@@ -3233,7 +3214,7 @@ Inf. ⟪चलितुम्⟫
 
 
 
-⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen <!-- TODO: Fallback translation -->
+⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen
 
 ⟪आपण⟫ m.: Markt
 
@@ -3244,7 +3225,7 @@ Inf. ⟪चलितुम्⟫
 :::
 ⟪सत्वर⟫ ۳: سریع، شتاب‌زده
 
-⟪पण्य⟫ 3: käuflich; n.: Ware, Handel <!-- TODO: Fallback translation -->
+⟪पण्य⟫ 3: käuflich; n.: Ware, Handel
 
 ::: media
 ![]/images/lekt4303.webp
@@ -3304,7 +3285,7 @@ Inf. ⟪चलितुम्⟫
 
 ⟪अधिक⟫ ۳: اضافی، مازاد، استثنایی
 
-⟪तर्हि⟫ : damals, dann ; darum, also <!-- TODO: Fallback translation -->
+⟪तर्हि⟫ : damals, dann ; darum, also
 
 ⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : wägen
 
@@ -3315,7 +3296,7 @@ Inf. ⟪चलितुम्⟫
 :::
 ⟪कर्गल⟫ n.: کاغذ
 
-⟪संपुट⟫ m.: Dose (hier: Paket, Bündel) <!-- TODO: Fallback translation -->
+⟪संपुट⟫ m.: Dose (hier: Paket, Bündel)
 
 ⟪पुरतस्⟫ : vorn, davor, vor
 
@@ -3336,13 +3317,13 @@ Inf. ⟪चलितुम्⟫
 :::
 ⟪रे⟫ حرف ندا: ای! تو آنجا!
 
-⟪अन्यद्⟫ 3: ein anderer (Deklination wie ⟪यद्⟫ ) <!-- TODO: Fallback translation -->
+⟪अन्यद्⟫ 3: ein anderer (Deklination wie ⟪यद्⟫ )
 
 ⟪वञ्चक⟫ m.: Betrüger
 
 ⟪पश्चात्ताप⟫ m.: Reue
 
-⟪इत्थम्⟫ Adv.: auf diese Weise, so <!-- TODO: Fallback translation -->
+⟪इत्थम्⟫ Adv.: auf diese Weise, so
 
 ⟪दिन⟫ n.: Tag
 
@@ -3358,7 +3339,7 @@ Inf. ⟪चलितुम्⟫
 
 
 
-⟪प्रति⟫ Präverb: zurück, wider, gegen - hin <!-- TODO: Fallback translation -->
+⟪प्रति⟫ Präverb: zurück, wider, gegen - hin
 
 ::: indent
 z.B.
@@ -3488,30 +3469,15 @@ PPP ⟪रब्ध⟫
 
 ⟪प्रव्रज्या⟫ f. (به ⟪प्र⟫-⟪व्रज्⟫ مربوط): ترک خانه و رفتن به بی‌خانگی؛ آیینی که با آن فرد راهب بودایی جوان می‌شود (پالی: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Siehe:
-
-**پیر، آلوئیس \<1944 - \>:** وینایاموखा : مفاهیم پایه‌ی قوانین و حقوق صومعه‌ای ترواوادا. -- بخش اول. -- (موادی درباره مفاهیم پایه‌ی بودیسم). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 تصویر: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (منبع تصویر: [جزئیات](/licenses#lekt4408))
 :::
-::: deleteme-box
-بنگرید به:
-
-**پیر، آلوئیس \<1944 - \>:** وینایاموखा : مفاهیم پایه‌ی قوانین و حقوق صومعه‌ای ترواوادا. -- بخش اول. -- (موادی درباره مفاهیم پایه‌ی بودیسم). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 تصویر: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (منبع تصویر: [جزئیات](/licenses#lekt4408))
-:::
-::: deleteme-box
-بنگرید به:
-
-**پیر، آلوئیس \<1944 - \>:** وینایاموखा : مفاهیم پایه‌ی قوانین و حقوق صومعه‌ای ترواوادا. -- بخش اول. -- (موادی درباره مفاهیم پایه‌ی بودیسم). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3536,7 +3502,7 @@ Siehe:
 
 
 
-⟪सम⟫ 3: gleich, eben, ähnlich <!-- TODO: Fallback translation -->
+⟪सम⟫ 3: gleich, eben, ähnlich
 
 ::: indent
 از آن:
@@ -3656,7 +3622,7 @@ Absol. -⟪हूय⟫
 ۱ ⟪महामात्र⟫ م. «مهدوان»؛ ⟪चरिष्णु⟫ ۳ «متحرک»، ⟪दूरशब्द⟫ م. «گفتگوی از راه دور، تلفن» » ⟪चरिष्णुदूरशब्द⟫ «تلفن همراه» (واژه‌شناسی: آ. پایر)
 
 :::
-⟪विभ्रम⟫ m.: das Hin- und Hergehen <!-- TODO: Fallback translation -->
+⟪विभ्रम⟫ m.: das Hin- und Hergehen
 
 ⟪भ्रंश⟫ m.: das Entfallen
 
@@ -3830,7 +3796,7 @@ Deklination:
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften
 
-⟪कुमार⟫ m.: Kind, Jüngling, Prinz; Beiname des ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್มಣ್ಯ <!-- TODO: Fallback translation -->
+⟪कुमार⟫ m.: Kind, Jüngling, Prinz; Beiname des ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್มಣ್ಯ
 
 ::: media
 ![](/images/lekt4805.webp)
@@ -3964,7 +3930,7 @@ siehe:
 :::
 ⟪वर⟫ مذکر/مؤنث: خواستن
 
-⟪उत⟫ Indekl.: und, auch, oder <!-- TODO: Fallback translation -->
+⟪उत⟫ Indekl.: und, auch, oder
 
 ⟪विहंग⟫ m.: پرنده («به سوی رویای آسمانی ⟪स्⟫ - ⟪विह⟫ - حرکت‌کننده»)
 
@@ -3993,7 +3959,7 @@ siehe:
 :::
 ⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: پایین‌ترین طبقه از [دالیت‌ها](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: selbst, von selbst <!-- TODO: Fallback translation -->
+⟪स्वयम्⟫ Indekl.: selbst, von selbst
 
 ⟪अवनि⟫ f.: Erde
 
@@ -4150,7 +4116,7 @@ absol.-⟪वृष्य⟫
 :::
 ⟪चक्ष्⟫ + ⟪प्र⟫ ۲آ ⟪प्रचष्टे⟫ : تعریف کردن، گمان بردن، نامیدن
 
-⟪देश⟫ m.: Ort, Platz, Land, Gegend <!-- TODO: Fallback translation -->
+⟪देश⟫ m.: Ort, Platz, Land, Gegend
 
 ## درس 51
 
@@ -4189,7 +4155,7 @@ absol.-⟪वृष्य⟫
 :::
 ⟪एकत्र⟫ قید: در یک مکان
 
-⟪जटा⟫ f.: Haarflechte (Haartracht des Asketen) <!-- TODO: Fallback translation -->
+⟪जटा⟫ f.: Haarflechte (Haartracht des Asketen)
 
 ::: media
 ![](/images/lekt5107.webp)
@@ -4205,7 +4171,7 @@ absol.-⟪वृष्य⟫
 
 ⟪बाह्य⟫ ۳: خارج، بیرون، غریبه
 
-⟪भिक्षा⟫ f.: erbetteltes Almosen, Bettelspeise <!-- TODO: Fallback translation -->
+⟪भिक्षा⟫ f.: erbetteltes Almosen, Bettelspeise
 
 ⟪मार्यादा⟫ f.: Grenze
 
@@ -4350,7 +4316,7 @@ PPP ⟪दिग्ध⟫
 
 ⟪बन्दी⟫ f.: Gefangene, Raub
 
-⟪योषित्⟫ f.: junge Frau, Mädchen <!-- TODO: Fallback translation -->
+⟪योषित्⟫ f.: junge Frau, Mädchen
 
 ⟪शार्दूल⟫ m. = ⟪व्याघ्र⟫ m.
 
@@ -4358,7 +4324,7 @@ PPP ⟪दिग्ध⟫
 
 ⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
 
-⟪बलि⟫ m.:  Abgabe, Spende, Tribut <!-- TODO: Fallback translation -->
+⟪बलि⟫ m.:  Abgabe, Spende, Tribut
 
 ⟪मणि⟫ m.: Juwel
 
@@ -4470,7 +4436,7 @@ davon:
 :::
 ⟪लौल्य⟫ ن.: طمع، شهوت
 
-⟪वर्ग⟫ m.: Abschnitt, Abteilung, Schar <!-- TODO: Fallback translation -->
+⟪वर्ग⟫ m.: Abschnitt, Abteilung, Schar
 
 ::: indent
 ⟪त्रिवर्ग⟫ m.: گروه سه‌تایی (مثلاً ⟪धर्मः⟫، ⟪अर्थः⟫، ⟪कामः⟫؛ یا: ⟪सत्त्वम्⟫، ⟪रजस्⟫، ⟪तमस्⟫؛ یا: ⟪ब्राह्मणाः⟫، ⟪क्षत्रियाः⟫، ⟪वैश्याः⟫)
@@ -4587,7 +4553,7 @@ PPP ⟪च्युत⟫
 
 ⟪आदर्श⟫ m.: Spiegel
 
-⟪मल⟫ m.n.: Schmutz, Makel <!-- TODO: Fallback translation -->
+⟪मल⟫ m.n.: Schmutz, Makel
 
 ::: media
 ![](/images/lekt5215.webp)
@@ -4647,7 +4613,7 @@ PPP ⟪च्युत⟫
 
 **lekt1304**: ⟪अन्नम्⟫، کارناتاکا (ಕರ್ನಾಟಕ)، ۲۰۰۵ [منبع تصویر: ویکی‌پدیا، مالکیت عمومی]
 
-**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [منبع تصویر: ویکی‌پدیا، مجوز GNU FD] <!-- TODO: Fallback translation -->
+**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [منبع تصویر: ویکی‌پدیا، مجوز GNU FD]
 
 **lekt1405**: ⟪दीपाः⟫ [منبع تصویر: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- دسترسی در ۲۰۰۸-۱۲-۰۱. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
@@ -4655,7 +4621,7 @@ PPP ⟪च्युत⟫
 
 **lekt1505**: ایندرا و ساشی در حال سواری بر فیل الهی ایراواتا، برگه‌ای از پانچکلیاناکا (پنج رویداد خوش‌یمن در زندگی جین ریشاباناتها [آدیناتا])، حدود ۱۶۷۰-۱۶۸۰ نقاشی؛ آبرنگ، آبرنگ مات، طلا و نقره روی کاغذ، تصویر: ۹ ۱/۸ x ۱۵ ۱/۸ اینچ (۲۳.۱۸ x ۳۸.۴۲ سانتی‌متر)؛ برگه: ۱۰ ۵/۸ x ۱۶ ۳/۴ اینچ (۲۶.۹۹ x ۴۲.۵۵ سانتی‌متر). ساخته شده در: هند، راجستان، آمبر [منبع تصویر: ویکیپدیا، مالکیت عمومی]
 
-**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [منبع تصویر: ویکیپدیا، مجوز GNU FD] <!-- TODO: Fallback translation -->
+**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [منبع تصویر: ویکیپدیا، مجوز GNU FD]
 
 **lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) پارک ملی بندهاگاره (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [منبع تصویر: سرویس ماهی‌گیری و حیات وحش ایالات متحده / ویکی‌پدیا، مالکیت عمومی]
 
@@ -4715,7 +4681,7 @@ PPP ⟪च्युत⟫
 
 **lekt2505**: ⟪विष्टिः⟫ [منبع تصویر: Ray Witlin / بانک جهانی. -- http://www.flickr.com/photos/worldbank/2182943983/. -- دسترسی در ۲۰۰۸-۱۲-۱۵. -- مجوز کریتیو کامنز (نسب‌دهی، عدم استفاده تجاری، بدون تغییر)]
 
-**lekt2506**: ⟪हिरण्यम्⟫ چنای = சென்னை [منبع تصویر: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- دسترسی در ۲۰۰۸-۱۲-۱۵. -- مجوز کریتیو کامنز (نسب‌دهی)] <!-- TODO: Fallback translation -->
+**lekt2506**: ⟪हिरण्यम्⟫ چنای = சென்னை [منبع تصویر: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- دسترسی در ۲۰۰۸-۱۲-۱۵. -- مجوز کریتیو کامنز (نسب‌دهی)]
 
 **lekt2706**: ⟪वस्त्राणि⟫ ماجولی، آسام [منبع تصویر: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- دسترسی در ۲۰۰۸-۱۲-۱۸. -- مجوز کریتیو کامنز (نسب‌دهی، عدم استفاده تجاری، بدون تغییر)]
 
@@ -4759,7 +4725,7 @@ PPP ⟪च्युत⟫
 
 **lekt3204**: ⟪उपलाः⟫ "سنگ‌های اینجا آنقدر سخت هستند که لاشخورانی که معدن متروکه جنوب مرکز شهر را تصرف کرده‌اند ترجیح می‌دهند مستقیماً با چکش بر آن‌ها ضربه نزنند. آن‌ها ابتدا سنگ‌ها را گرم می‌کنند — با لاستیک‌های شعله‌ور، پلاستیک بازیافتی و حتی چکمه‌های لاستیکی قدیمی — تا سنگ‌ها راحت‌تر شکسته شوند. در غروب، وقتی سه یا چهار شعله ابرهای سیاه خفه‌کننده را در سراسر گود بزرگ می‌پراکنند، معدن شبیه به یک چاپ چوبی از دانته به نظر می‌رسد. در دهانه این معدن سنگ در پونه، مهاراشترا، زنان کوچک‌جثه با ساری به شیفت‌های 14 ساعته مشغول شکستن سنگ‌ها به قطعاتی هم‌اندازه توپ کریکت هستند. چکش‌های سنگین تا هوا بر اثر صدای شکستن سنگ بالا می‌روند. درست پشت سر آن‌ها ماشین‌های بزرگ غرش می‌کردند که سنگ را می‌جوند تا فقط شن و ماسه ساختمانی بیرون دهند. صورت تقریباً همه با گرد سفیدی آلوده بود. گرده‌ای سنگین و خفه‌کننده که مانند مهی همه چیز را پوشانده در هوا معلق بود." [منبع تصویر: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- دسترسی در 25 دسامبر 2008. -- مجوز Creative Commons (با ذکر نام، غیرتجاری، بدون تغییر)]
 
-**lekt3205**: ⟪लक्ष्यम्⟫ کارناتاکا = ಕರ್ನಾಟಕ [منبع تصویر: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- دسترسی در 25 دسامبر 2008. -- مجوز Creative Commons (با ذکر نام، بدون تغییر)] <!-- TODO: Fallback translation -->
+**lekt3205**: ⟪लक्ष्यम्⟫ کارناتاکا = ಕರ್ನಾಟಕ [منبع تصویر: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- دسترسی در 25 دسامبر 2008. -- مجوز Creative Commons (با ذکر نام، بدون تغییر)]
 
 **lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: کود گاو) راجستان [منبع تصویر: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- دسترسی در ۲۰۰۸-۱۲-۲۵. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
 
@@ -4771,7 +4737,7 @@ PPP ⟪च्युत⟫
 
 **lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫، کاوِریپاکّام = காவேரிப்பாக்கம்، تامیل نادو، قرن دهم پس از میلاد [منبع تصویر: کوادل / ویکی‌پدیا. مجوز آزاد GNU FD]
 
-**lekt3304**: ⟪भयम्⟫ بمبئی = ⟪मुंबई⟫، ۲۰۰۸ [منبع تصویر: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- دسترسی در ۲۰۰۸-۱۲-۲۶. -- مجوز کریتیو کامنز (نسب‌دهی)] <!-- TODO: Fallback translation -->
+**lekt3304**: ⟪भयम्⟫ بمبئی = ⟪मुंबई⟫، ۲۰۰۸ [منبع تصویر: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- دسترسی در ۲۰۰۸-۱۲-۲۶. -- مجوز کریتیو کامنز (نسب‌دهی)]
 
 **lekt3303**: ⟪हीनयानमेव⟫ تایلند [منبع تصویر: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- دسترسی در ۲۰۰۸-۱۲-۲۶. -- مجوز کریتیو کامنز (نسب‌دهی، غیرتجاری)]
 
@@ -4805,7 +4771,7 @@ PPP ⟪च्युत⟫
 
 **lekt3604**: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. موی بدن) [منبع تصویر: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- دسترسی در ۲۰۰۸-۱۲-۲۹. -- مجوز کریتیو کامنز (نسب، غیرتجاری)]
 
-**lekt3705**: ⟪शाक्यमुनिः⟫ Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [منبع تصویر: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- دسترسی در ۲۰۰۸-۱۲-۳۱. -- مجوز کریتیو کامنز (نسب، غیرتجاری، بدون تغییر)] <!-- TODO: Fallback translation -->
+**lekt3705**: ⟪शाक्यमुनिः⟫ Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [منبع تصویر: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- دسترسی در ۲۰۰۸-۱۲-۳۱. -- مجوز کریتیو کامنز (نسب، غیرتجاری، بدون تغییر)]
 
 **lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [منبع تصویر: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- دسترسی در ۲۰۰۸-۱۲-۳۱. -- مجوز کریتیو کامنز (نسب، غیرتجاری، اشتراک یکسان)]
 
@@ -4827,7 +4793,7 @@ PPP ⟪च्युत⟫
 
 **lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫، ⟪देशनोके⟫ [منبع تصویر: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- دسترسی در 2009-01-01. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [منبع تصویر: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- دسترسی در 2009-01-02. -- مجوز کریتیو کامنز (نسب‌دهی)] <!-- TODO: Fallback translation -->
+**lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [منبع تصویر: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- دسترسی در 2009-01-02. -- مجوز کریتیو کامنز (نسب‌دهی)]
 
 **lekt4002**: ⟪तीर्थङ्करः⟫ [منبع تصویر: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- دسترسی در 2009-01-02. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
@@ -4849,7 +4815,7 @@ PPP ⟪च्युत⟫
 
 **lekt4303**: ⟪पण्यानि⟫ جامشیدپور = ⟪जमशेदपुर⟫ [منبع تصویر: آمیتا ب. -- http://www.flickr.com/photos/amrita_b/63071274/. -- دسترسی در ۲۰۰۹-۰۱-۰۶. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)]
 
-**lekt4304**: ⟪विपणिः⟫ هاری‌دوآرا = ⟪हरिद्वार⟫ [منبع تصویر: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- دسترسی در ۲۰۰۹-۰۱-۰۶. -- مجوز کریتیو کامنز (نسب‌دهی)] <!-- TODO: Fallback translation -->
+**lekt4304**: ⟪विपणिः⟫ هاری‌دوآرا = ⟪हरिद्वार⟫ [منبع تصویر: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- دسترسی در ۲۰۰۹-۰۱-۰۶. -- مجوز کریتیو کامنز (نسب‌دهی)]
 
 **lekt4305**: ⟪वणिक्⟫ کانچی‌پورام = காஞ்சிபுரம [منبع تصویر: visio. -- http://www.flickr.com/photos/visio/421217297/. -- دسترسی در ۲۰۰۹-۰۱-۰۶. -- مجوز کریتیو کامنز (نسب‌دهی، عدم استفاده تجاری، اشتراک یکسان)]
 
@@ -4861,7 +4827,7 @@ PPP ⟪च्युत⟫
 
 **lekt4404**: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫ [منبع تصویر: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- دسترسی در ۲۰۰۹-۰۱-۰۸. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
 
-**lekt4405**: ⟪नन्दी⟫ Kodagu = ಕೊಡಗು [منبع تصویر: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- دسترسی در ۲۰۰۹-۰۱-۰۸. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)] <!-- TODO: Fallback translation -->
+**lekt4405**: ⟪नन्दी⟫ Kodagu = ಕೊಡಗು [منبع تصویر: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- دسترسی در ۲۰۰۹-۰۱-۰۸. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)]
 
 **lekt4406**: ⟪आयतो⟫ ⟪मरुः⟫ ⟪थार⟫ ⟪मरुस्थल⟫ [منبع تصویر: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- دسترسی در ۲۰۰۹-۰۱-۰۸. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)]
 
@@ -4869,13 +4835,13 @@ PPP ⟪च्युत⟫
 
 **lekt4408**: ⟪प्रव्रज्या⟫ تایلند = ประเทศไทย [منبع تصویر: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- دسترسی در ۲۰۰۹-۰۱-۰۸. -- مجوز کریتیو کامنز (نسب، غیرتجاری، بدون تغییر)]
 
-**lekt4602**: ⟪नवग्रहाः⟫ [منبع تصویر ⟪नवग्रह⟫ : Redtigerxyz / ویکی‌پدیا. مجوز GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4602**: ⟪नवग्रहाः⟫ [منبع تصویر ⟪नवग्रह⟫ : Redtigerxyz / ویکی‌پدیا. مجوز GNU FDLicense]
 
-**lekt4603**: ⟪नवग्रहाः⟫ [منبع تصویر ⟪नवग्रह⟫ : Redtigerxyz / ویکی‌پدیا. مجوز GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4603**: ⟪नवग्रहाः⟫ [منبع تصویر ⟪नवग्रह⟫ : Redtigerxyz / ویکی‌پدیا. مجوز GNU FDLicense]
 
-**lekt4604**: ⟪नवग्रहाः⟫ [منبع تصویر ⟪नवग्रह⟫ : Redtigerxyz / ویکی‌پدیا. مجوز GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4604**: ⟪नवग्रहाः⟫ [منبع تصویر ⟪नवग्रह⟫ : Redtigerxyz / ویکی‌پدیا. مجوز GNU FDLicense]
 
-**lekt4605**: ⟪नवग्रहाः⟫ [منبع تصویر ⟪नवग्रह⟫ : Redtigerxyz / ویکی‌پدیا. مجوز GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4605**: ⟪नवग्रहाः⟫ [منبع تصویر ⟪नवग्रह⟫ : Redtigerxyz / ویکی‌پدیا. مجوز GNU FDLicense]
 
 **lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫، حدود ۱۸۷۰ (⟪अनन्त⟫ = ⟪शेष⟫ = بالاترین پادشاه مارها) [منبع تصویر: ویکی‌پدیا. مالکیت عمومی]
 
@@ -4963,14 +4929,13 @@ PPP ⟪च्युत⟫
 
 **lekt5212**: ⟪पीडिताः⟫ حیدرآباد = حیدرآباد [منبع تصویر: دیوید ای جی ویلسون. -- http://www.flickr.com/photos/dawilson/2912554387/. -- دسترسی در ۲۰۰۹-۰۱-۱۶. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
 
-**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [منبع تصویر: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- دسترسی در 2009-01-16. -- مجوز کریتیو کامنز (نسب، بدون تغییر)] <!-- TODO: Fallback translation -->
+**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [منبع تصویر: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- دسترسی در 2009-01-16. -- مجوز کریتیو کامنز (نسب، بدون تغییر)]
 
 **lekt5214**: ⟪चक्रम्⟫ کونارک = ⟪कोनार्क⟫ [منبع تصویر: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- دسترسی در 2009-01-16. -- مجوز کریتیو کامنز (نسب، استفاده غیرتجاری، بدون تغییر)]
 
 **lekt5208**: ⟪कदली⟫ همپی = ಹಂಪೆ [منبع تصویر: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- دسترسی در 2009-01-15. -- مجوز کریتیو کامنز (نسب، استفاده غیرتجاری، اشتراک یکسان)]
 
-**lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [منبع تصویر: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- دسترسی در 2009-01-16. -- مجوز کریتیو کامنز (نسب)] <!-- TODO: Fallback translation -->
+**lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [منبع تصویر: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- دسترسی در 2009-01-16. -- مجوز کریتیو کامنز (نسب)]
 
-**lekt5217**: Māras Angriff auf Buddha Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
+**lekt5217**: Māras Angriff auf Buddha Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense]
 

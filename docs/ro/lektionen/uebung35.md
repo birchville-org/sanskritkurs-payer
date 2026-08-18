@@ -87,5 +87,5 @@ C) Transformați propozițiile din exercițiul B) înlocuind perfectele cu imper
 ![](/images/uebung058.webp)
 Fig.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
 (Sursă imagine: [Detalii](/licenses#uebung058))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

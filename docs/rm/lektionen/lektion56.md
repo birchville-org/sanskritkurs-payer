@@ -9,7 +9,7 @@ status: stable
 
 # Lecziun 56
 
-## 56.1. L'Aorist reduplitgà <!-- TODO: Fallback translation -->
+## 56.1. L'Aorist reduplitgà
 
 ::: grammar-box
 **Educaziun:**
@@ -22,7 +22,7 @@ status: stable
 
 **-ā final (per -e) svanescha.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
 ⟪श्रि⟫ 1U "s'adressar a, s'appoggiar a"
 
@@ -44,7 +44,7 @@ Questa forma dell’aoristo viene formata, tra gli altri, da:
 ::: grammar-box
 **Tuttas las radis da la 10. classa da prezens, sco era tuttas las causativas, furman adina l'aorist reduplicà.**
 :::
-### 56.1.1. Furmaziun da l'aorist da las causativas e da las radischs da la 10. classa da prescha <!-- TODO: Fallback translation -->
+### 56.1.1. Furmaziun da l'aorist da las causativas e da las radischs da la 10. classa da prescha
 
 Sillaba fundamentala:
 
@@ -113,7 +113,7 @@ Partikularitads da certas radichas tar Kielhorn, Grammatica § 435c ss.
 
 *   **Su che la vocala iniciala è suandada mo da in singul consonant u da in grup da consonants, cun l'emprim element ni nasala ni d u r, alura è la sillaba da reduplicaziun:**
 
-Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - **i** \- alle Konsonanten <!-- TODO: Fallback translation -->
+Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - **i** \- alle Konsonanten
 
 ::: indent
 ⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, silba reduplicada ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
@@ -173,10 +173,10 @@ Quest differenz vegn en il sanscrit classic per ordinari betg fatg.)
 
 **⟪मा⟫ ⟪स्म⟩ + Injunktiv Aorist u Injunktiv Present**
 :::
-Ezempels: <!-- TODO: Fallback translation -->
+Ezempels:
 
 ::: indent
-⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Devien betg in chei chei è motivà tras il fruct d'ina acziun!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,47c) <!-- TODO: Fallback translation -->
+⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Devien betg in chei chei è motivà tras il fruct d'ina acziun!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Na devien esser mascolin!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,3a)
 :::
@@ -210,7 +210,7 @@ Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit sytax. -- Leyden : Brill
 Abb.: ⟪अलं⟫  ⟪विषादेन⟫
 (Bildquelle: [Detagls](/rm/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
+## 56.4. ⟪स्म⟫
 
 ::: grammar-box
 **⟪स्म⟫ emfatizescha: "verameinamain, tutgei, certamain, exactamain"**
@@ -223,7 +223,7 @@ Abb.: ⟪अलं⟫  ⟪विषादेन⟫
 
 z.B. ⟪वसति⟫ ⟪स्म⟫ "es wohnte einmal" (⟪स्म⟫ kann manchmal auch fehlen).
 :::
-## 56.5. Exercizi <!-- TODO: Fallback translation -->
+## 56.5. Exercizi
 
 A) Determinar e traduscher senza agid (!) las suandantas furmas:
 
@@ -308,12 +308,3 @@ A) Determinar e traduscher senza agid (!) las suandantas furmas:
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** Professor per lingvistica comparada, Universitad Erlangen-Nürnberg (1955 - 1983) [sursaint da l’immaige: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- accès il 2009-02-27]
-
-**lekt5602:** Plakat (Ernesto Che Guevara) d'ina partida politica en Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). «La traduziun simplifitgada dal text sin il plakat di: Il martiri è in'experientscha fascinanta per in revolucionari. E per in timid in mez disperà. Che n'è betg in model per timids.» [Sursaint d'imagina: Hari\_Menon. -- [http://www.flickr.com/photos/me\_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Access il 2009-02-27. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nominaziun, nagina utilisaziun commerziala, share alike)]
-
-**lekt5603:** [Sursa da l’imagines: Banca Mundiala / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Access il 2009-02-27. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nominaziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-
-:::

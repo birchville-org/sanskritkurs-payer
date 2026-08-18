@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 36
 
@@ -20,7 +20,7 @@ Exemplos:
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫:sig[⟪गा⟫]⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | | <!-- TODO: Fallback translation -->
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | |
 
 ::: grammar-box
 A raiz ⟪विद्⟫ 2P "saber" tem um perfeito com significado de presente.
@@ -63,7 +63,7 @@ radical do presente (fraco) + -ām + forma perfeita correspondente de ⟪कृ�
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ e ⟪भू⟫ são também conjugados no Parasmaipada para verbos Ātmanepada.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 Exemplos:
 
@@ -111,7 +111,7 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3601))
-::: <!-- TODO: Fallback translation -->
+:::
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : andar, ir, partir
 
@@ -132,7 +132,7 @@ Inf. ⟪व्रजितुम्⟫
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3602))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -200,7 +200,7 @@ PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫
 Inf. ⟪घ्रातुम्⟫
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : deleitar, alegrar; amar, ser afeiçoado a alguém <!-- TODO: Fallback translation -->
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : deleitar, alegrar; amar, ser afeiçoado a alguém
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : alegrar-se
 
@@ -241,7 +241,7 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3604))
-::: <!-- TODO: Fallback translation -->
+:::
 
 ⟪स्वक⟫ 3: próprio (meu, teu ...) ; m.: parente
 
@@ -511,13 +511,3 @@ Analise e traduza as seguintes formas de palavras de todas as maneiras possívei
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫  Udaipur = ⟪उदयपुर⟫ [Fonte da imagem: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Acessado em  2008-12-28. --   Licença  Creative  Commons (Atribuição, Uso Não-Comercial)]
-- **lekt3602.jpg**: Fig.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Fonte da imagem: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Acessado em  2008-12-28. --   Licença  Creative  Commons (Atribuição, CompartilhaIgual)]
-- **lekt3603.jpg**: Fig.: ⟪अनगार्यम्⟫ 	Nordeste da Tailândia = อีสาน 	[Fonte da imagem: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Acessado em  	2008-12-28. --  	 	Licença  	Creative  	Commons (Atribuição, Uso Não-Comercial, Sem  	Derivações)]
-- **lekt3604.jpg**: Fig.: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. pelo do corpo) [Fonte da imagem: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Acessado em 2008-12-29.  --   Licença  Creative  Commons (Atribuição, Uso Não-Comercial)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ Gandhara, séculos I/II d.C. [Fonte da imagem: Wikipedia. GNU FDLicense]
-- **lekt3606.jpg**: Fig.:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫Mudrā [Fonte da imagem: Payer]
-- **lekt3607.jpg**: Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Fonte da imagem: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Acessado em  2008-12-29. --   Licença  Creative  Commons (Atribuição, Uso Não-Comercial, CompartilhaIgual)]
-:::

@@ -9,14 +9,6 @@ status: stable
 
 # Pelajaran 3
 
-::: deleteme-box
-**Dalam pelajaran ini Anda akan mempelajari:**
-- nominatif singular dari kata benda feminin
-- nominatif plural dari kata benda maskulin dan feminin
-- pembentukan kata benda feminin dari kata benda maskulin
-- sandhi vokal
-- Satzsandhi von -ās
-:::
 ## 3.1. Nominatif Tunggal Feminin
 
 ### 3.1.1. Nominatif Tunggal auf -s

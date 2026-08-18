@@ -10,14 +10,6 @@ status: stable
 
 # Ders 3
 
-::: deleteme-box
-**Bu derste şunları öğreneceksiniz:**
-Dişi cinsiyetin tekil durum hali (Nominativ Singular)
-Erkek ve dişi cinsiyetin çoğul durum hali (Nominativ Plural)
-Erkek köklerden dişi isim türetme
-Vokal sandhi (bitişik okuma) kuralı
-ās sonlu cümle içi sandhi kuralları
-:::
 ## 3.1. Dişi cinsiyetin tekil durum hali (Nominativ Singular)
 
 ### 3.1.1. -s ile biten tekil durum hali

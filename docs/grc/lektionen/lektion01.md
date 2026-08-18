@@ -104,7 +104,7 @@ Pārvatī καὶ Śiva,
 
 **Ἀγαθὴ συστηματικὴ γραμματικὴ ἐπὶ τῇ βάσει τῶν ἐντοπίων γραμματικῶν καὶ ταὐτοχρόνως εἰσαγωγὴ εἰς τὸν Pāṇini:**
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : αὐτοέκδοσις, 1983. -- 818 σ. ; 23 ἑκατοστόμετρα. <!-- TODO: Fallback translation -->
+> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : αὐτοέκδοσις, 1983. -- 818 σ. ; 23 ἑκατοστόμετρα.
 
 ::: media
 ![](/images/lekt0107.jpg)

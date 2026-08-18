@@ -1,6 +1,7 @@
 ---
-title: Lektion 18
+title: "Leçon 18"
 lesson_id: 18
+
 ---
 
 # Leçon 18
@@ -165,7 +166,7 @@ Certaines prépositions verbales importantes sont :
 Exemples :
 
 ::: indent
-⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : aller vers, se diriger vers <!-- TODO: Fallback translation -->
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : aller vers, se diriger vers
 
 ⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : indiquer, enseigner, conseiller
 
@@ -233,38 +234,36 @@ Exemples :
 *   Participe passé passif ⟪सम्पन्न⟫ 3 : pourvu de (instrumental)
 :::
 ::: grammar-box
-
-La racine ⟪कृ⟫ "faire" montre, en combinaison avec les prépositions verbales ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫, également la forme ⟪स्कृ⟫
-
 :::
-Exemple :
-
-::: indent
-sam-kṛ 8 ⟪संस्करोति⟫ : préparer, préparer pour le sacrifice, consacrer
-
-*   Participe passé passif ⟪संस्कृत⟫ 3 : préparé pour le sacrifice ; ⟪संस्कृत⟫ n. : sanskrit : la langue appropriée pour le sacrifice ; contraire ⟪प्राकृत⟫ 3 : ordinaire, vulgaire ; ⟪प्राकृत⟫ n. : langue ordinaire, prakrit (désignation des langues populaires et de communication, apparentées au sanskrit)
-:::
-### 18.3.1. Nominalbildungen zu Verbalkomposita
+### 18.3.1. Formations nominales à partir de composés verbaux
 
 ::: grammar-box
 
-Certaines prépositions verbales importantes sont :
+À partir de racines munies de préverbes, on peut former des noms au moyen de suffixes kṛt.
 
 :::
 Exemples :
 
-sam-kṛ + -a = ⟪संस्कार⟫ m. : initiation, préparation ; rites de passage = terme désignant les cérémonies qui accompagnent les différentes étapes de la vie, de la conception à la mort (voir à ce sujet l'excellente synthèse de Basham, Wonder p. 160 - 170 !)
+sam-kṛ + -a = ⟪संस्कार⟫ m. : sacrement, préparation ; rites de passage = désignation des cérémonies qui accompagnent les différentes étapes de la vie, depuis la conception jusqu'à la mort (voir à ce sujet le résumé excellent chez Basham, Wonder p. 160 - 170 !)
 
 ::: media
 ![](/images/lekt1804.webp)
 Fig. : ⟪विवाहः⟫
-Mariage = ⟪विवाह⟫ m., une cérémonie importante ⟪संस्कारः⟫
+Mariage = ⟪विवाह⟫ m., un important ⟪संस्कारः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n. : l'approche (vers le feu de sacrifice) = Cérémonie au cours de laquelle le cordon sacré (⟪यज्ञोपवीत⟫ n.) est attribué aux membres masculins des trois premières castes, ainsi que le verset sacré ⟪सावित्री⟫ est chuchoté à leur oreille, qu'ils réciteront désormais quotidiennement à l'aube et au crépuscule. Pour les Brahmanes, il s'agit du Ṛgveda III.62.10 :
+upa-nī + -ana = ⟪उपनयन⟫ n. : l'accompagnement (vers le feu du sacrifice) = cérémonie au cours de laquelle les membres masculins des trois castes supérieures reçoivent le cordon sacré (⟪यज्ञोपवीत⟫ n.) et se voient chuchoter à l'oreille le verset sacré ⟪सावित्री⟫, qu'ils doivent réciter désormais chaque jour au lever et au coucher du soleil. Pour les Brahmanes, il s'agit de Ṛgveda III.62.10 :
 
 ::: indent
-⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : diriger vers, se diriger vers
+« Puissions-nous recevoir l'éclat éminent du dieu 'Conducteur', qui mette en mouvement nos pensées. »
+:::
+Grâce à l'Upanayana, survient la seconde naissance ; c'est pourquoi : ⟪द्विज । द्विजाति⟫
+
+::: media
+![](/images/lekt1801.webp)
+Fig. : ⟪उपनयनम्⟫
+« Un jeune garçon est visible lors du rituel d'upanayana. Le fil jaune et fin qui passe de l'épaule gauche à la taille est le Yagnopavita. On note également la ceinture d'herbe munja autour de la taille. La brindille dans la main droite (généralement issue d'un arbre pipal) signifie son entrée dans le Brahmacharya. »
+(Source de l'image : [Détails](/fr/licenses#lekt1801))
 :::
 Par l'Upanayana survient la seconde naissance, donc : ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
 
@@ -346,54 +345,6 @@ B) Traduisez les Tatpuruṣa suivants :
 
 ⟪१५⟫. ⟪सुगुरु⟫ 3
 
-⟪१६⟫. ⟪अनाप्त⟫ 3
-
-⟪१७⟫. ⟪अनीति⟫ f.
-
-⟪१८⟫. ⟪अनीश्वरत्व⟫ n.
-
-⟪१९⟫. ⟪सुदुःख⟫ n.
-
-⟪२०⟫. ⟪दुर्जन⟫ m.
-
-⟪२१⟫. ⟪दुर्दग्ध⟫ 3
-
-⟪२२⟫. ⟪अतिकृत⟫ 3
-
-⟪२३⟫. ⟪सुपुत्र⟫ m.
-
-⟪२४⟫. ⟪सुबुद्धि⟫ f.
-
-⟪२५⟫. ⟪दुष्पुत्र⟫ m.
-
-⟪२६⟫. ⟪दुष्प्रणीत⟫ 3
-
-⟪२७⟫. ⟪सुमति⟫ f.
-
-⟪२८⟫. ⟪दुर्लभ⟫ 3
-
-⟪२९⟫. ⟪दुर्वच⟫ 3
-
-⟪३०⟫. ⟪दुर्वचन⟫ n.
-
-⟪३१⟫. ⟪अमृत⟫ n.
-
-## 18.6. Wiederholungsübung <!-- TODO: Fallback translation -->
-
-Veuillez ne pas utiliser d'aides-mémoire !
-
-A) Décomposez les composés suivants en sanskrit et proposez des traductions :
-
-⟪१⟫. ⟪अन्तगत⟫ 3
-
-⟪२⟫. ⟪क्षमाकर⟫ 3
-
-⟪३⟫. ⟪क्षेमेन्द्र⟫ m.
-
-⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m.
-
-⟪५⟫. ⟪सिंहसंहनन⟫ n.
-
 ⟪६⟫. ⟪अरिसिंह⟫ m.
 
 ⟪७⟫. ⟪आहारनिद्राभय⟫ n.
@@ -404,43 +355,32 @@ A) Décomposez les composés suivants en sanskrit et proposez des traductions :
 
 ::: media
 ![](/images/lekt1802.webp)
-Fig. : ⟪मृतिसाधनी⟫ ⟪काली⟫
-Impression de 1770
+Fig. : ⟪मृतिसाधनी काली⟫
+1770 Imprimé
 (Source de l'image : [Détails](/fr/licenses#lekt1802))
 :::
-B) Traduisez en utilisant des verbes de la 2e classe de présent :
+B) Traduisez en utilisant des verbes de la 2e classe du présent :
 
-Le brāhmaṇe loue les déesses.
+1\. Le Brahmane loue les déesses.
 
-Les héros se rendent au village des Āryas sur un chemin difficile à parcourir.
+2\. Les héros se rendent au village des Aryas sur le chemin difficile à parcourir.
 
-La servante traie les vaches.
+3\. La servante traie les vaches.
 
-Les ennemis des Āryas abattent les Kṣatriyas puissants.
+4\. Les ennemis des Aryas tuent les Kṣatriyas puissants.
 
-Un fantôme ne mange aucun fruit.
+5\. Un fantôme ne mange pas de fruits.
 
-Ainsi parle celui qui [a bien parcouru le chemin des réincarnations] à l'élève.
+6\. Ainsi parle celui qui [a bien parcouru le chemin des réincarnations] à l'élève.
 
 ::: media
 ![](/images/lekt1803.webp)
-Fig. : ⟪सुगतः⟫
-⟪गन्धार⟫ 1er/2e siècle apr. J.-C.
+Fig. : ⟪सुगतः गन्धार⟫ Ier/IIe s. apr. J.-C.
 (Source de l'image : [Détails](/fr/licenses#lekt1803))
 :::
 C) Donnez en sanskrit la définition de Yoga de deux manières : une fois en utilisant un composé, une fois en décomposant le composé.
 
 D) Traduisez :
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
 
-::: deleteme-box
-
-**lekt1801 :** « Un jeune garçon est vu pendant le rituel d'upanayana. Le fil jaune, fin, qui va de l'épaule gauche à la taille est Yagnopaivta. Notez également la ceinture d'herbe munja autour de la taille. La brindille dans la main droite (généralement de l'arbre peepa) signifie son entrée dans Brahmacharya. » [Source de l'image : Nagesh Rao / Wikipédia, Licence GNU FDL]
-
-**lekt1802 :** Impression de 1770 [Source de l'image : Wikipédia, Domaine public]
-
-**lekt1803 :** ⟪गन्धार⟫ 1er/2e siècle apr. J.-C. [Source de l'image : Wikipédia, Domaine public]
-
-**lekt1804 :** Mariage = ⟪विवाह⟫ m., un important ⟪संस्कारः⟫ [Source de l'image : Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Consulté le 2008-12-08. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de modification)]
-:::

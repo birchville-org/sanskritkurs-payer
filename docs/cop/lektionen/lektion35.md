@@ -31,7 +31,7 @@ status: stable
 *   (ⲕⲟⲣⲓϫ) - (ⲕⲟⲣⲓϫ) - i/ī/u/ū
 *   (ⲕⲟⲣⲓϫ) - ṛ
 
-Vor vokalisch anlautender Endung wird ersetzt: <!-- TODO: Fallback translation -->
+Vor vokalisch anlautender Endung wird ersetzt:
 *   -i/-ī durch -iy
 *   -u/-ū durch -uv
 *   -ṛ durch r
@@ -157,7 +157,7 @@ Formed from roots of the type (consonant)-consonant-a-consonant
 *   ⲛⲧⲏ ϫⲓϥⲙⲁ ⲛⲧⲉ ϫⲓϥⲙⲁ ⲛⲧⲉ ϫⲓϥⲙⲁ
 *   ⲛⲧⲏ ϫⲓϥⲙⲁ ⲛⲧⲉ ϫⲓϥⲙⲁ ⲛⲧⲉ ϫⲓϥⲙⲁ
 
-ⲛⲧⲏ ϫⲓϥⲙⲁ ⲛⲧⲉ ϫⲓϥⲙⲁ. <!-- TODO: Fallback translation -->
+ⲛⲧⲏ ϫⲓϥⲙⲁ ⲛⲧⲉ ϫⲓϥⲙⲁ.
 :::
 ⲡⲓϫⲱⲙ:
 
@@ -278,15 +278,5 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 :::
 ⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
-C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen. <!-- TODO: Fallback translation -->
+C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen.
 
-::: deleteme-box
-
-**ⲧⲉⲙⲡⲗ ⲛⲁⲓⲟⲕⲱⲣⲏ ⲛⲧⲉ Kaadu Malleswara Temple Bangalore.** [ⲁⲛⲓϧⲟⲕ ⲉⲙ ϫⲱⲥ: Samuelraj / Flickr. CC BY-NC]
-
-**ⲁⲓϧⲟⲕ ⲛⲁⲓⲱⲧⲏ, Senegal.** [ⲁⲛⲓϧⲟⲕ ⲉⲙ ϫⲱⲥ: Curt Carnemark / World Bank. CC BY-NC-ND]
-
-**ⲁⲓϧⲟⲕ ⲛⲑⲱⲙ, Vadaseri, Tamil Nadu.** [ⲁⲛⲓϧⲟⲕ ⲉⲙ ϫⲱⲥ: kifo / Flickr. CC BY-SA]
-
-**ⲁⲓϧⲟⲕ ⲛⲧⲉ Yajña, Shiva ashram, Ganeshpuri.** [ⲁⲛⲓϧⲟⲕ ⲉⲙ ϫⲱⲥ: Dey / Flickr. CC BY-NC-SA]
-:::

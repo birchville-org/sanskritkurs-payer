@@ -54,7 +54,7 @@ Ils ch'èn ids a Buddha audan la veritad davant il suferiment e las autras (nobl
 B) Tradusci sut utilizaziun da cumponiments en sanscrit:
 
 1\. In kṣatriya, ch'na tiena il bastun en la maun, na custodiescha il pievel.
-⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (u: ⟪जनान्रक्षति⟫ ⟪।⟫) <!-- TODO: Fallback translation -->
+⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (u: ⟪जनान्रक्षति⟫ ⟪।⟫)
 
 2\. Kālidāsa e las autras poets èn ils magisters en il sanscrit.
 ⟪संस्कृतगुरवः⟫ ⟪कालिदासादिक्वयः⟫ ⟪।⟫
@@ -70,7 +70,7 @@ B) Tradusci sut utilizaziun da cumponiments en sanscrit:
 Abb.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung031))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Analisa da cumponids
 
@@ -226,7 +226,7 @@ Solvì ils cumponids suventschents sco Bahuvrīhi e/u Dvandva e/u Tatpuruṣa en
 
 ⟪७७⟫. ⟪तदादीनाम्⟫ ⟪।⟫ ⟪सादिर्येषां⟫ ⟪तेषाम्⟫ ⟪।⟫
 
-⟪७८⟫. ⟪जातिस्मरणम्⟫ ⟪।⟫ remembranza da naschientschas passadas <!-- TODO: Fallback translation -->
+⟪७८⟫. ⟪जातिस्मरणम्⟫ ⟪।⟫ remembranza da naschientschas passadas
 
 ⟪७९⟫. ⟪सफलम्⟫ ⟪।⟫ fertila
 
@@ -239,7 +239,7 @@ Solvì ils cumponids suventschents sco Bahuvrīhi e/u Dvandva e/u Tatpuruṣa en
 Abb.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (font dal maletg: [detagls](/licenses#uebung030))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Scholarly Fragments
 
@@ -250,13 +250,6 @@ La schliadad da la ment succedia tras il svilup dal favor amiaivel, cumpassiun, 
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
 Lo yoga da l'acziun è ascetissem, studis dal Veda e servetsch attent al SIGNUR. El ha sco fin il svilup da la concentraziun ed il sfatschament dals "dolars".
 
-::: deleteme-box Erläuterung
-Ils tschintg "dolars" (⟪क्लेश⟫) èn: ⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫ (Yoga-Sūtra 2.3) — ignoranza, egoïssem, avidad, odi e attachament al corp.
-
-:::
-::: deleteme-box Erläuterung
-Las tschintg «dolors» (⟪क्लेश⟫) èn: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — ignoranza, egoïssem, avidad, odi e attachament al corp.
-:::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Il pli aut object da l’uman è che il triplitg dolur sa perda cumplettamain. (*Triplitg dolur: da sez, dals objects, dals deus.*)
 
@@ -290,11 +283,11 @@ En il mez stgir, a las anclias largias, cun labras cotschnas, egls nairs, cun in
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫  
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
-Bratschas che els na vulan, han fitg blers figls, riccs n’han nagin figl. Strusch è il curs da la creaziun. <!-- TODO: Fallback translation -->
+Bratschas che els na vulan, han fitg blers figls, riccs n’han nagin figl. Strusch è il curs da la creaziun.
 
 ::: media
 ![](/images/uebung032.webp)
 Abb.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung032))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

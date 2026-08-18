@@ -1,42 +1,43 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "Pelajaran 46"
+subtitle: "Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) Perfek (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 46
 
-## 46.1. Pembentukan  Verbalformen  2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
+## 46.1. Pembentukan bentuk verbal orang ke-2 (⟪मध्यमः⟫) Perfek (⟪लिट्⟫)
 
 ### 46.1.1. Akhiran
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
-| **Akhiran sempurna** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ^^ \-tha | \-a | \-se | \-dhve | \-dhve |
+| :---: | :---: | :---: | :---: |
+| **Akhiran Perfek** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ^^ | \-tha | \-a | \-se | \-dhve |
 :::
-Perhatikan bahwa akhiran -- sebagian besar, tetapi bukan bentuknya! -- dari 2.pl.P bertepatan dengan yang dari 1. dan 3.sg.P.
+Perhatikan bahwa akhiran -- biasanya bukan bentuk! -- orang ke-2.pl.P sesuai dengan orang ke-1 dan ke-3.sg.P.
 
 ::: grammar-box
-Sebelum -tha, dengan sebagian besar akar yang berakhiran -ṛ, tidak ada vokal penghubung \-i- muncul. Dengan beberapa akar, \-i- sebelum \-tha- bersifat opsional.
+Sebelum -tha, pada sebagian besar akar yang berakhiran -ṛ tidak ada vokal penghubung \-i-. Pada beberapa akar, \-i- sebelum \-tha bersifat opsional.
 :::
-### 46.1.2. Lautveränderung  Akhiran -dhve
+### 46.1.2. Perubahan bunyi pada akhiran -dhve
 
 ::: grammar-box
-The ending -dhve must be replaced by -ḍhve in the perfect when a root-internal -u or -ṛ immediately precedes it. This replacement can optionally occur after the connecting vowel -i- when a semivowel or h immediately precedes that -i-.
+Akhiran -dhve harus diganti dengan -ḍhve dalam Perfek jika didahului secara langsung oleh -u atau -ṛ yang bersifat akar. Penggantian ini dapat dilakukan setelah vokal penghubung -i-, jika sebelumnya terdapat semi-vokal atau h.
 :::
-### 46.1.3. Perfekt Typ I: keine Batangabstufung
+### 46.1.3. Perfek Tipe I: tidak ada gradasi akar
 
-Verbs that follow this type:
+Kata kerja yang mengikuti tipe ini:
 
-*   Consonant-LongVowel-Consonant
-*   Consonant-Vowel-Consonant-Consonant
-*   a-Consonant(-Consonant)
-*   ā-consonant
+*   Konsonan-Vokal Panjang-Konsonan
+*   Konsonan-Vokal-Konsonan-Konsonan
+*   a-Konsonan(-Konsonan)
+*   ā-Konsonant
 
 ::: grammar-box
 1.sg.P = 3.sg.P = 2.pl.P
@@ -47,7 +48,7 @@ Verbs that follow this type:
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪बबन्धिथ⟫:br⟪बबन्द्ध⟫ | ⟪बबन्ध⟫ |
+| ⟪बबन्धिथ⟩:br⟪बबन्द्ध⟫ | ⟪बबन्ध⟫ |
 :::
 ⟪जीव्⟫ 1P
 
@@ -55,7 +56,7 @@ Verbs that follow this type:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \&lt;⟪जिजीविषे⟫\&gt; | \&lt;⟪जिजीविध्वे⟫\&gt;:br\&lt;⟪जिजीविढ्वे⟫\&gt; |
 :::
 ⟪अस्⟫ 2P, 4P
 
@@ -63,13 +64,13 @@ Verbs that follow this type:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
 :::
-### 46.1.4. Perfekt Typ II: starker Batang Hochstufe, schwacher Batang Tiefstufe
+### 46.1.4. Perfekta Tipe II: akar kuat tingkat tinggi, akar lemah tingkat rendah
 
-Verbs that follow this type:
+Kata kerja yang mengikuti tipe ini:
 
-*   (Consonant-)i/u/ṛ/ḷ-consonant
+*   (Konsonan-)i/u/ṛ/ḷ-Konsonan
 
 ⟪भिद्⟫ 7U
 
@@ -79,7 +80,7 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बिभेदिथ⟫ | ⟪बिभिद⟫ | ⟪बिभिदिषे⟫ | ⟪बिभिदिध्वे⟫ |
 :::
-⟪मुह्⟫ 4P optionally ⟪अनिट्⟫
+⟪मुह्⟫ 4P opsional ⟪अनिट्⟫
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -87,14 +88,14 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekt Typ III: Starker Batang Hochstufe/Dehnstufe
+### 46.1.5. Perfekta Tipe III: Akar kuat tingkat tinggi/tingkat panjang
 
-#### 46.1.5.1. Perfekt Typ IIIa: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Tiefstufe
+#### 46.1.5.1. Perfekta Tipe IIIa: Akar kuat tingkat tinggi/tingkat panjang, akar lemah tingkat rendah
 
-Verbs that follow this type:
+Kata kerja yang mengikuti tipe ini:
 
-*   (Consonant-)(Consonant-)i/ī/u/ū
-*   (Consonant-)-ṛ
+*   (Konsonan-)(Konsonan-)i/ī/u/ū
+*   (Konsonan-)-ṛ
 
 ⟪इ⟫ 2P
 
@@ -128,12 +129,12 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfekt Typ IIIb: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Hochstufe
+#### 46.1.5.2. Perfekta Tipe IIIb: Akar kuat tingkat tinggi/pemanjangan, akar lemah tingkat tinggi
 
-Verbs that follow this type:
+Kata kerja yang mengikuti tipe ini:
 
-*   (Consonant-)(Consonant-)-ṝ
-*   consonant-consonant-ṛ
+*   (Konsonan)(Konsonan)-ṝ
+*   Konsonant-Konsonant-ṛ
 
 ⟪पॄ⟫ 3P
 
@@ -151,11 +152,11 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Typ IV: Akarn auf -ā / -ai
+### 46.1.6. Perfekta Tipe IV: Akar berakhiran -ā / -ai
 
-*   Weak stem:
-    *   before consonant: Low-grade-i
-    *   before vowel: Low-grade-ø
+*   Akar lemah:
+*   sebelum konsonan: tingkat rendah-i
+*   sebelum vokal: tingkat rendah-ø
 
 ⟪दा⟫ 3U
 
@@ -173,11 +174,11 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
+### 46.1.7. Perfekta Tipe V: Konsonan-a-Konsonan
 
-#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Batang Tiefstufe
+#### 46.1.7.1. Perfekta Tipe Va: Konsonan-a-Konsonan, akar lemah tingkat rendah
 
-Verbs that follow this type:
+Kata kerja yang mengikuti tipe ini:
 
 ::: indent
 1.  gam "pergi"
@@ -186,7 +187,7 @@ Verbs that follow this type:
 4.  vac "berbicara"
 5.  vad "berbicara"
 6.  yaj "mengorbankan"
-7.  dll.
+7.  dan lain-lain
 :::
 ⟪गम्⟫ 1P
 
@@ -265,11 +266,11 @@ Bentuk 2.sg.P. dibentuk dari stem lemah ketika vokal penghubung -i- muncul.
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
-#### 46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Batang Hochstufe
+#### 46.1.7.3. Perfekta Tipe Vc: Konsonan-a-Konsonan, Tangga Rendah
 
-Verbs that follow this type:
+Kata kerja yang mengikuti tipe ini:
 
-*   All other roots with medial -a-
+*   Semua akar kata lainnya dengan -a- di tengah
 
 ⟪क्रम्⟫ 1U
 
@@ -279,9 +280,9 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Besondere Perfekt-Pembentukanen
+### 46.1.8. Pembentukan Perfekta Khusus
 
-⟪विद्⟫ 2P present perfect
+⟪विद्⟫ 2P perfekta presentik
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -313,20 +314,20 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
-### 46.1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
+### 46.1.9. Perfekta Periphrastis (⟪अनुप्रयोगलिट्⟫)
 
-The periphrastic perfect is formed from:
+Perfekta periphrastis dibentuk dari:
 
-*   akar kata kerja turunan (kausal, desideratif, frekuentatif, denominatif), terutama kausal
-*   akar yang dimulai dengan vokal panjang (kecuali ā)
-*   akar: vokal (kecuali a-)-konsonan-konsonan
+*   akar kata turunan (Kausatif, Desideratif, Frekuentatif, Denominativa), khususnya Kausatif
+*   akar kata yang dimulai dengan vokal panjang (kecuali ā)
+*   akar kata: Vokal (kecuali a-)-Konsonan-Konsonan
 *   beberapa lainnya
-*   untuk beberapa akar, kedua bentuk sempurna dapat dibentuk secara opsional: uṣ "membakar", vid "mengetahui", jāgṛ "bangun", daridrā "miskin"
-*   untuk akar berikut, kedua bentuk sempurna dapat dibentuk secara opsional dan bentuk sempurna periphrastik juga diduplikasi, yaitu dengan suku kata duplikasi dari akar kini:
-    *   bhī "takut"
-    *   bhṛ "membawa"
-    *   hu "mengorbankan"
-    *   hrī "malu"
+*   pada beberapa akar kata, kedua perfekta dapat dibentuk secara opsional: uṣ "membakar", vid "tahu", jāgṛ "berjaga", daridrā "miskin"
+*   pada akar kata berikut, kedua perfekta dapat dibentuk secara opsional dan juga perfekta periphrastis direplikasi, yaitu dengan suku kata replikasi dari akar present:
+*   bhī "takut"
+*   bhṛ "membawa"
+*   hu "mengorbankan"
+*   hrī "malu"
 
 ⟪बन्ध्⟫ Causative
 
@@ -654,26 +655,5 @@ B) Translate:
 ![](/images/lekt4612.webp)
 Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/en/licenses#lekt4612)
 (Image source: [Detail](/en/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-Navagraha images source: Redtigerxyz / Wikipedia. GNU FDLicense
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870). Source: Wikipedia. Public domain
-
-L4606: ⟪अश्वरोहकः⟫, Pune=⟪पुणे⟫. Source: wili_hybrid, Flickr, CC BY 2.0
-
-L4608: Udaipur. Source: Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609: Karnataka=ಕರ್ನಾಟಕ. Source: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, Kamareddy=కామారెడ్డి. Source: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, Bangalore=ಬೆಂಗಳೂರು. Source: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, Kutch=⟪कच्छ⟫. Source: orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612: Mumbai=⟪मुंबई⟫ after the attack, July 11, 2006. Source: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
 :::
 

@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "Leçon 30"
+subtitle: "La 9e classe de présent (⟪क्र्यादि⟫ = « ⟪क्री⟫ etc. »)"
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 30
@@ -134,7 +135,7 @@ L'optatif (⟪लिङ्⟫), l'imparfait (⟪लङ्⟫), l'aoriste (⟪ल
 
 **Präsensstamm + -i- (» -e-) + -y- + Sekundärendung**
 :::
-Exemples : <!-- TODO: Fallback translation -->
+Exemples :
 
 1\. Classe du présent :
 
@@ -245,7 +246,7 @@ Exemples :
 | **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
-## 30.5. Sandhi von auslautendem -r <!-- TODO: Fallback translation -->
+## 30.5. Sandhi von auslautendem -r
 
 ::: grammar-box
 **À l'exception de -ar, les mêmes règles de Sandhi s'appliquent au -r final qu'au -s final.**
@@ -451,78 +452,52 @@ A) Transformez les formes verbales suivantes en formes optatives correspondant �
 64.  ⟪अदन्ति⟫
 65.  ⟪अध्यापयन्ति⟫
 
-B) Traduisez les phrases suivantes et résolvez les composés en sanskrit :
+B) Traduisez les phrases suivantes et décomposez les composés en sanskrit :
 
-⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫
+⟪जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥ ये नरा देवान्न यजेरन्व्रतानि च न चरेयुरनृतं च वदेयुरधर्मं च कुर्युस्ते सुखं नाप्नुयुर्मृत्वा च नरकं पतेयुः ॥२॥ ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो ज्ञातिं दासमाययति ॥३॥ अन्नलोभाद्दुःखं जायेतेति प्राप्तज्ञानः सुफलानि नाश्नाति ॥४॥ क्रयेण च विक्रयेण च वैश्या जीवेयुरिति वैश्यधर्मः । एवं सति वैश्यपुत्राः क्रीणन्ति विक्रीणते च ॥५॥ कृतपापो नरश्चेन्नरके पापात्पूतः स्यात्पुनर्भवं गच्छेत् ॥६॥ ब्राह्मणपुत्रा वेदाध्यायांश्च स्मृत्यध्यायांश्च पुनः पुनरधीयीरन्नित्यार्यधर्मः ॥७॥ यो ब्राह्मणः शूद्रां कामयेत स सद्ब्राह्मणो न स्यात् । सद्ब्राह्मणो हि ब्राह्मणीं कामयेत ॥८॥ सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् । प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥ ॥मनुस्मृति ४⟫.⟪१३८॥⟫
 
-⟪ये⟫ ⟪नरा⟫ ⟪देवान्न⟫ ⟪यजेरन्व्रतानि⟫ ⟪च⟫ ⟪न⟫ ⟪चरेयुरनृतं⟫ ⟪च⟫ ⟪वदेयुरधर्मं⟫ ⟪च⟫ ⟪कुर्युस्ते⟫ ⟪सुखं⟫ ⟪नाप्नुयुर्मृत्वा⟫ ⟪च⟫ ⟪नरकं⟫ ⟪पतेयुः⟫ ⟪॥२॥⟫
+## 30.8. Exercice de révision morphologique
 
-⟪ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो⟫ ⟪ज्ञातिं⟫ ⟪दासमाययति⟫ ⟪॥३॥⟫
+Déterminez et traduisez les formes suivantes :
 
-⟪अन्नलोभाद्दुःखं⟫ ⟪जायेतेति⟫ ⟪प्राप्तज्ञानः⟫ ⟪सुफलानि⟫ ⟪नाश्नाति⟫ ⟪॥४॥⟫
+1. ⟪भारे⟫
+2. ⟪अध्ययनम्⟫
+3. ⟪वस्तुतस्⟫
+4. ⟪वस्त्राणि⟫
+5. ⟪प्रतिमया⟫
+6. ⟪आचाराय⟫
+7. ⟪आचार्यैः⟫
+8. ⟪अश्वेषु⟫
+9. ⟪ताम्⟫
+10. ⟪वृत्त्यै⟫
+11. ⟪चरितस्य⟫
+12. ⟪अर्हता⟫
+13. ⟪शक्तीः⟫
+14. ⟪कामम्⟫
+15. ⟪भिक्षवे⟫
+16. ⟪भगवद्गीतायाम्⟫
+17. ⟪भगवति⟫
+18. ⟪भक्त्याः⟫
+19. ⟪स्थानात्⟫
+20. ⟪स्थित्या⟫
+21. ⟪मात्रायै⟫
+22. ⟪प्रभृतौ⟫
+23. ⟪हस्तेन⟫
+24. ⟪आदेः⟫
+25. ⟪दिष्टिम्⟫
+26. ⟪रुद्रः⟫
+27. ⟪मृत्यौ⟫
+28. ⟪मृतिः⟫
+29. ⟪द्विजातये⟫
+30. ⟪जातिभिः⟫
+31. ⟪व्याघ्रान्⟫
+32. ⟪पूजाः⟫
+33. ⟪शत्रोः⟫
+34. ⟪उक्तिभ्यः⟫
+35. ⟪महान्ति⟫
+36. ⟪महति⟫
+37. ⟪सा⟫
+38. ⟪तस्यै⟫
+39. ⟪तस्मिन्⟫
+40. ⟪सते⟫
 
-⟪क्रयेण⟫ ⟪च⟫ ⟪विक्रयेण⟫ ⟪च⟫ ⟪वैश्या⟫ ⟪जीवेयुरिति⟫ ⟪वैश्यधर्मः⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪वैश्यपुत्राः⟫ ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫ ⟪॥५॥⟫
-
-⟪कृतपापो⟫ ⟪नरश्चेन्नरके⟫ ⟪पापात्पूतः⟫ ⟪स्यात्पुनर्भवं⟫ ⟪गच्छेत्⟫ ⟪॥६॥⟫
-
-⟪ब्राह्मणपुत्रा⟫ ⟪वेदाध्यायांश्च⟫ ⟪स्मृत्यध्यायांश्च⟫ ⟪पुनः⟫ ⟪पुनरधीयीरन्नित्यार्यधर्मः⟫ ⟪॥७॥⟫
-
-⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫
-
-⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
-⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
-
-## 30.8. Wiederholungsübung zur Formenlehre <!-- TODO: Fallback translation -->
-
-Déterminez et traduisez les formes de mots suivantes :
-
-1.  ⟪भारे⟫
-2.  ⟪अध्ययनम्⟫
-3.  ⟪वस्तुतस्⟫
-4.  ⟪वस्त्राणि⟫
-5.  ⟪प्रतिमया⟫
-6.  ⟪आचाराय⟫
-7.  ⟪आचार्यैः⟫
-8.  ⟪अश्वेषु⟫
-9.  ⟪ताम्⟫
-10.  ⟪वृत्त्यै⟫
-11.  ⟪चरितस्य⟫
-12.  ⟪अर्हता⟫
-13.  ⟪शक्तीः⟫
-14.  ⟪कामम्⟫
-15.  ⟪भिक्षवे⟫
-16.  ⟪भगवद्गीतायाम्⟫
-17.  ⟪भगवति⟫
-18.  ⟪भक्त्याः⟫
-19.  ⟪स्थानात्⟫
-20.  ⟪स्थित्या⟫
-21.  ⟪मात्रायै⟫
-22.  ⟪प्रभृतौ⟫
-23.  ⟪हस्तेन⟫
-24.  ⟪आदेः⟫
-25.  ⟪दिष्टिम्⟫
-26.  ⟪रुद्रः⟫
-27.  ⟪मृत्यौ⟫
-28.  ⟪मृतिः⟫
-29.  ⟪द्विजातये⟫
-30.  ⟪जातिभिः⟫
-31.  ⟪व्याघ्रान्⟫
-32.  ⟪पूजाः⟫
-33.  ⟪शत्रोः⟫
-34.  ⟪उक्तिभ्यः⟫
-35.  ⟪महान्ति⟫
-36.  ⟪महति⟫
-37.  ⟪सा⟫
-38.  ⟪तस्यै⟫
-39.  ⟪तस्मिन्⟫
-40.  ⟪सते⟫
-
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Source de l'image : earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Consulté le 2008-12-21. -- Licence Creative Commons (Attribution, utilisation non commerciale, pas de travaux dérivés)]
-**lekt3002:** Darewadi, district d'Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Source de l'image : Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Consulté le 2008-12-21. -- Licence Creative Commons (Attribution, utilisation non commerciale, partage à l'identique)]
-**lekt3003:** [Source de l'image : Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Consulté le 2008-12-21. -- Licence Creative Commons (Attribution, partage à l'identique)]
-**lekt3005:** ⟪थाली⟫, Inde du Sud [Source de l'image : Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Consulté le 2008-12-21. -- Licence Creative Commons (Attribution, utilisation non commerciale, partage à l'identique)]
-**lekt3004:** [Source de l'image : Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Consulté le 2008-12-21. -- Licence Creative Commons (Attribution, partage à l'identique)]
-**lekt2904:** [Source de l'image : Wikipedia / Droits d'auteur détenus par Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

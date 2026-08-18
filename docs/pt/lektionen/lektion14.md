@@ -5,7 +5,7 @@ lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 14
 
@@ -106,7 +106,7 @@ O genitivo singular dos temas de terminação vocálica é formado irregularment
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 **Pronomes interrogativos e demonstrativos:**
@@ -168,7 +168,7 @@ Fig.: ⟪दीपाः⟫
   * **vac-ana n.** (⟪वचन⟫) : o falar, a palavra
   * **vāk-ya n.** (⟪वाक्य⟫) : palavra, discurso
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Provérbios <!-- TODO: Fallback translation -->
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Provérbios
 
 Traduza os seguintes provérbios e memorize-os:
 
@@ -241,7 +241,7 @@ Traduza os seguintes provérbios e memorize-os:
 Fig.: ⟪पुत्रवती⟫
 (Fonte da imagem: [Details](/licenses#lekt1404))
 :::
-⟪२६⟫. ⟪जल⟫ <!-- TODO: Fallback translation -->
+⟪२६⟫. ⟪जल⟫
 
 ⟪२७⟫. ⟪मार्ग⟫
 
@@ -302,7 +302,7 @@ Fig.: ⟪पुत्रवती⟫
 Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt1403))
 :::
-**B) Traduza:** <!-- TODO: Fallback translation -->
+**B) Traduza:**
 
 ⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 possibilidades)
 
@@ -335,4 +335,3 @@ Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt1402))
 :::
- <!-- TODO: Fallback translation -->

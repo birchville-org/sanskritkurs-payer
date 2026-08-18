@@ -342,7 +342,7 @@ Fig. : ⟪पितापुत्रौ⟫
 :::
 ⟪कतर⟫ 3 « lequel des deux » et ⟪कतम⟫ 3 « lequel des plusieurs » se déclinent dans tous les cas comme ⟪यद्⟫.
 
-## 53.7. Pronominaladjektive <!-- TODO: Fallback translation -->
+## 53.7. Pronominaladjektive
 
 Les adjectifs pronominaux suivants se déclinent dans tous les cas comme ⟪यद्⟫ :
 
@@ -368,7 +368,7 @@ Les adjectifs pronominaux suivants se déclinent comme ⟪सर्व⟫. Au ab
 **Un certain nombre d'adjectifs forment le comparatif ou le superlatif avec les suffixes ⟪कृत्⟫ suivants (!) :**
 
 *   Comparatif : **-īyas**
-*   Superlatif : **-iṣṭha** <!-- TODO: Fallback translation -->
+*   Superlatif : **-iṣṭha**
 
 **Alors que les suffixes ⟪तद्धित⟫ -⟪तर⟫ et -⟪तम⟫ s'ajoutent au masculin de l'adjectif, les suffixes -⟪ईयस्⟫ et -⟪इष्ठ⟫ s'ajoutent à la racine dont l'adjectif est dérivé (s'il existe une telle racine !). Le voyelle de la racine est au degré plein.**
 
@@ -376,7 +376,7 @@ Les adjectifs pronominaux suivants se déclinent comme ⟪सर्व⟫. Au ab
 
 **Deklination von -īyas siehe unten.**
 :::
-Exemples : <!-- TODO: Fallback translation -->
+Exemples :
 
 ::: grammar-box
 | Racine | Adjectif | Comparatif | Superlatif |
@@ -456,7 +456,7 @@ Fig. : ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 «vieux») | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 «vieux») | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Déclinaison des comparatifs en -īyas <!-- TODO: Fallback translation -->
+## 53.9. Déclinaison des comparatifs en -īyas
 
 ::: grammar-box
 **Les comparatifs en -īyas forment le féminin en -īyasī (déclinaison comme ⟪देवी⟫). Le masculin et le neutre se déclinent selon le paradigme suivant.**
@@ -548,7 +548,7 @@ Fig. : ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर
 *   pas de visarga,
 *   ne suivent pas deux consonnes.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
+Kurze Vokale sind a, i, u, ṛ, ḷ
 
 **Toutes les autres syllabes sont ⟪गुरु⟫ = lourdes. La dernière syllabe d'un quart de vers (⟪पाद⟫) est toujours considérée comme ⟪गुरु⟫.**
 
@@ -573,7 +573,7 @@ Répartition de ⟪लघु⟫ et ⟪गुरु⟫ :
 ::: metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. Le śloka épique (⟪श्लोक⟫ m.) <!-- TODO: Fallback translation -->
+### 53.10.4. Le śloka épique (⟪श्लोक⟫ m.)
 
 ::: grammar-box
 **Vers mnémotechnique :**
@@ -636,19 +636,5 @@ Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-**Sources**
-
-**Payer, Alois (1944–) :** Cours de sanskrit. -- 53. Leçon 53 (vacances semestrielles). -- Version du 2009-01-19. -- URL : [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
-
-Achevé avec succès 1984-02-15  
-Édition en ligne achevée avec succès 2009-01-19  
-Alois Maria Payer  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-
-**Payer, Alois (1944–):** Cours de sanskrit. -- Leçon 53 (Vacances universitaires). -- Version du 2009-01-19. -- Source de l'image du tableau original 53.9 : Capture d'écran de la source originale (Payer).
 :::
 

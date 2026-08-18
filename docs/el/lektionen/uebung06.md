@@ -3,6 +3,7 @@ title: "Άσκηση 6"
 uebung_id: 6
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -136,7 +137,7 @@ kā nṛtyati?
 
 ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 
-13\. Die (erwähnte) Brahmanin tanzt. <!-- TODO: Fallback translation -->
+13\. Die (erwähnte) Brahmanin tanzt.
 
 sā brāhmaṇī nṛtyati.
 
@@ -149,9 +150,9 @@ Abb.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 :::
 ---
 
-## Wiederholungsübung Lektion 6 <!-- TODO: Fallback translation -->
+## Wiederholungsübung Lektion 6
 
-A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die sie nach folgenden Einsetzübungen bilden, antworten sind: <!-- TODO: Fallback translation -->
+A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die sie nach folgenden Einsetzübungen bilden, antworten sind:
 
 1\. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -423,7 +424,7 @@ devī gurvī.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
+Annapūrṇā ist eine Gottheit.
 
 2\. śūdretarā.
 

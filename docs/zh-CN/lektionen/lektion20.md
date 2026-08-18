@@ -565,26 +565,4 @@ B) 使用复合词翻译成梵语：
 
 解释：⟪इच्छताम्⟫ = gen. Pl. Part Präs. P 对应 ⟪इष्⟫ ：渴望者
 :::
-::: deleteme-box
-
-**lekt2001：** 暹粒（ក្រុងសៀមរាប），柬埔寨，公元9世纪 [图片来源：维基百科，公共领域]
-
-**lekt2002:** [图片来源：《印度文学与思想史研究》。——波恩，1926年]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [图片来源：维基百科，公有领域]
-
-**lekt2004:** 乔德普尔 = ⟪जोधपुर⟫ [图片来源：Jared Zimmerman。-- http://www.flickr.com/photos/spoinknet/35414570/。-- 访问日期：2008-12-11。-- 知识共享许可协议（署名、非商业性使用、禁止演绎）]
-
-**lekt2005：** 耶稣与其他诸神，艾哈迈达巴德 [图片来源：由 ganuullu 提供。-- http://www.flickr.com/photos/ganuullu/373131240/。-- 访问日期：2008-12-11。-- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
-
-**lekt2006:** 中央邦 [图片来源：dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- 访问日期：2008-12-11. -- 知识共享许可协议（署名-非商业性使用-禁止演绎）]
-
-**lekt2007:** Chennai = சென்னை [图片来源：calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- 访问日期：2008-12-11. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
-
-**lekt2008:** 里希凯什 = ⟪ऋषिकेश⟫。“这实际上是里希凯什修道院的一部分，披头士乐队曾在此居住。他们当时这里还没有这个部分，但它看起来确实很酷。”[图片来源：由 ogimogi 提供。-- http://www.flickr.com/photos/ogimogi/284517677/。-- 访问日期：2008-12-11。-- 知识共享许可协议（署名）]
-
-**lekt2009:** 卡纳塔克邦 [图片来源：mattlogelin。-- http://www.flickr.com/photos/mattlogelin/188758072/。-- 访问日期：2008-12-11。-- 知识共享许可协议（署名，非商业性使用）]
-
-**lekt2010:** Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt. [Bildquelle: Wikipedia, GNU FDLicense]
-:::
 

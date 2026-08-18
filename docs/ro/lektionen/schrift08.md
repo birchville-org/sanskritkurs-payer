@@ -40,7 +40,11 @@ Exemple:
 
 ⟪न्⟫ n: ⟪न्त⟫ nta, ⟪न्त्य⟫ ntya, ⟪न्त्र⟫ ntra, ⟪न्द⟫ nda, ⟪न्द्र⟫ ndra, ⟪न्ध⟫ ndha, ⟪न्ध्र⟫ ndhra, ⟪न्न⟫ nna, ⟪न्य⟫ nya
 
-⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
+⟪ध्⟫ dh: ⟪ध्न⟫ dhna, ⟪ध्म⟫ dhma, ⟪ध्र⟫ dhra, ⟪ध्व⟫ dhva
+
+⟪न्⟫ n: ⟪न्त⟫ nta, ⟪न्त्य⟫ ntya, ⟪न्त्र⟫ ntra, ⟪न्द⟫ nda, ⟪न्द्र⟫ ndra, ⟪न्ध⟫ ndha, ⟪न्ध्र⟫ ndhra, ⟪न्न⟫ nna, ⟪न्य⟫ nya
+
+⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
 
 ⟪ब्⟫ b: ⟪ब्ज⟫ bja, ⟪ब्द⟫ bda, ⟪ब्ध⟫ bdha, ⟪ब्ब⟫ bba, ⟪ब्भ⟫ bbha, ⟪ब्र⟫ bra
 
@@ -60,19 +64,19 @@ Exemple:
 
 ⟪स्⟫ s: ⟪स्क⟫ ska, ⟪स्ख⟫ skha, ⟪स्त⟫ sta, ⟪स्त्य⟫ stya, ⟪स्त्र⟫ stra, ⟪स्त्व⟫ stva, ⟪स्थ⟫ stha, ⟪स्न⟫ sna, ⟪स्प⟫ spa, ⟪स्र⟫ sra
 
-[ L 0 ] Beachten Sie die Schreibung von jña: <!-- TODO: Fallback translation -->
+Observați scrierea lui jña:
 
 ![](/images/schrift017.webp)
 
--vocala inițială, care conform regulilor de Sandhi ale propoziției este elidată (-as + a- » -o ' ), este indicată de ceea ce se numește Avagraha:
+Vocala inițială -a, care se elidează conform regulilor de sandhi ale propoziției (-as + a- » -o ' ), este indicată prin ceea ce se numește Avagraha:
 
 ⟪ऽ⟫
 
-de exemplu:
+De exemplu,
 
-⟪देवो⟫ ⟪ऽग्निः⟫ = devo 'gniḥ
+⟪देवो ऽग्निः⟫ \= devo 'gniḥ
 
-## Exercițiu
+## Exerciții
 
 A) Scrieți toate ligaturile care apar în lista de mai sus
 
@@ -101,22 +105,6 @@ B) Scrieți și traduceți:
 11\. devyumā.
 
 12\. devatānnapūrṇā.
-
-13\. sādhvī gurvī.
-
-14\. devyo gurvyaḥ.
-
-15\. devo nṛtyati.
-
-16\. kavirmanyate.
-
-17\. kaviḥ smarati.
-
-18\. devā yudhyante.
-
-C) Scrieți:
-
-agraṃ agniḥ ākāśa ūrdhvaṃ īpsitaḥ āptaṃ udayo īśo āsanno uttamaṃ
 
 D) Citiți, transliterați și traduceți:
 

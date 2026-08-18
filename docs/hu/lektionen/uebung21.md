@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 21
 
-A) Oldja fel a következő szanszkrit összetételeket, és fordítsa le őket: <!-- TODO: Fallback translation -->
+A) Oldja fel a következő szanszkrit összetételeket, és fordítsa le őket:
 
 ⟪१⟫. ⟪अनादिकालिकसंसरः⟫ ⟪।⟫
 ⟪अनादिः⟫ ⟪कालो⟫ ⟪यस्य⟫ ⟪सो⟫ ⟪ऽनादिकालिकः⟫ ⟪संसरः⟫ ⟪।⟫
@@ -34,19 +34,19 @@ B) Fordítsa le:
 Az elhunytat elégető tűz az hűséges feleséget (satī) is elégeti.
 
 ⟪२⟫. ⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं⟫ ⟪स्तौति⟫ ⟪॥⟫
-A jó mester a nagy költők dicséneteivel magasztalja a nagy Istent. <!-- TODO: Fallback translation -->
+A jó mester a nagy költők dicséneteivel magasztalja a nagy Istent.
 
 ⟪३⟫. ⟪महान्ति⟫ ⟪फलान्यदन्तो⟫ ⟪बाला⟫ ⟪जलमापि⟫ ⟪पिबन्ति⟫ ⟪॥⟫
-A fiúk, akik nagy gyümölcsöket esznek, vizet isznak. <!-- TODO: Fallback translation -->
+A fiúk, akik nagy gyümölcsöket esznek, vizet isznak.
 
 ⟪४⟫. ⟪पुजां⟫ ⟪कुर्वञ्जनो⟫ ⟪यजते⟫ ⟪च⟫ ⟪स्तौति⟫ ⟪च⟫ ⟪देवताम्⟫ ⟪॥⟫
 A tiszteletadás során az ember áldozatot hoz és magasztalja a Istenséget.
 
 ⟪५⟫. ⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥⟫
-A kétszer született az a férfi, akit a mester beavatott a Véda tanulmányába. <!-- TODO: Fallback translation -->
+A kétszer született az a férfi, akit a mester beavatott a Véda tanulmányába.
 
 ⟪६⟫. ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥⟫
-Aki legyőzte a haragot, az nem gyűlölik ellenségét, még ha meg is öli. Aki azonban a haragja által legyőzött, az gyűlölik. <!-- TODO: Fallback translation -->
+Aki legyőzte a haragot, az nem gyűlölik ellenségét, még ha meg is öli. Aki azonban a haragja által legyőzött, az gyűlölik.
 
 ::: media
 ![](/images/uebung033.webp)

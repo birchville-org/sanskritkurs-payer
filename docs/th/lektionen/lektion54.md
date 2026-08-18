@@ -264,11 +264,3 @@ c) ⟪उपजाति⟫
 (แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt5401))
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ ทิรุปติ = తిరుపతి [แหล่งที่มาของภาพ: Raji Srinivas / Wikipedia. ใบอนุญาต GNU FDLicense]
-
-**lekt5401:** รัฐทมิฬนาฑู [แหล่งที่มาของภาพ: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- เข้าถึงเมื่อ 2009-01-28. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ระบุชื่อผู้สร้าง ห้ามใช้เพื่อการค้า แบบเดียวกัน)]
-
-:::
-

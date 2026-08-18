@@ -1,75 +1,69 @@
 ---
-title: Lektion 38
-subtitle: "Losung der Woche"
+title: "[Pelajaran 38]"
+subtitle: "Pemecahan Minggu Ini"
 lesson_id: 38
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 38
 
-## 38.1. Losung  Woche
+## 38.1. Pemecahan Minggu Ini
 
-⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ regarding correct urination:
+⟪मनुस्मृति ४⟫.⟪३२⟫ tentang buang air kecil yang benar:
 
 ::: indent
-⟪प्रत्य⟫**:sig[⟪ग्नि⟫]** ⟪प्रतिसूर्यं⟫ ⟪च⟫  
-⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫**:sig[⟪गु⟫]** ⟪प्रतिवातं⟫ ⟪च⟫  
-⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
+⟪प्रत्य⟫:sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं च प्रतिसोमोदकद्विजम् । प्रति⟫:sig[⟪गु⟫] ⟪प्रतिवातं च प्रज्ञा नश्यति मेहतः ॥⟫
 :::
-Explanations:
+Penjelasan:
 
-\-⟪अग्नि⟫ Neuter Nom./Acc. sg. to ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. dari ⟪अग्नि⟫ m.
 
-\-:sig[⟪गु⟫] Neuter Nom./Acc. sg. to ⟪गो⟫ m.f. "cow"
+\-⟪गु⟫ Neutrum Nom.Akk.sg. dari ⟪गो⟫ m.f. "Sapi, Lembu"
 
 ::: media
 ![](/images/lekt3801.webp)
-Gbr.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
-(Sumber gambar: [Detail](/en/licenses#lekt3801))
+Abb.: ⟪प्रज्ञा नश्यति मेहतः⟫
+(Sumber gambar: [Details](/id/licenses#lekt3801))
 :::
-## 38.2. Perubahan bunyi nasal dalam kata
+## 38.2. Perubahan Bunyi Nasal dalam Kata
 
 ::: grammar-box
-Bunyi nasal dalam kata diasimilasikan ke konsonan berikutnya, yaitu diganti dengan bunyi nasal yang sesuai dengan konsonan tersebut.
+Nasal dalam kata diassimilasikan kepada konsonan yang mengikutinya, yaitu mereka diganti dengan nasal yang sesuai dengan konsonan tersebut.
 
-After c- and j-, -n- is replaced by -ñ-.
+Setelah c- dan j-, -n- diganti dengan -ñ-.
 :::
-## 38.3. Deklinasi Kata Benda Berakhiran -n
+## 38.3. Deklinasi Stem Berakhiran -n
 
-### 38.3.1. Nomina yang berakhiran -an serta nomina yang berakhiran -man atau -van setelah vokal
+### 38.3.1. Nomina Berakhiran -an serta Nomina Berakhiran -man atau -van setelah Vokal
 ::: grammar-box
-Nomina yang berakhiran **-an** serta nomina yang berakhiran **-man** atau **-van** setelah vokal memiliki tiga batang:
+Nomina berakhiran **-an** serta nomina **-man** atau **-van** setelah vokal memiliki tiga stem:
 
-| Batang | -an | -man | -van | Usage |
+| Stem | -an | -man | -van | Penggunaan |
 | :--- | :---: | :---: | :---: | :--- |
-| **Starker Batang** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. dual m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
-| **Mittlerer Schwacher Batang** | **-a**:br(from -*n) | **-ma**:br(from -*mn) | **-va**:br(from -*vn) | Übrige Kasus vor konsonantisch anlautender Akhiran:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Batang** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Akhiran |
+| **Stem Kuat** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
+| **Stem Lemah Menengah** | **-a** :br(dari -*n) | **-ma** :br(dari -*mn) | **-va** :br(dari -*vn) | Kasus lainnya sebelum akhiran yang dimulai dengan konsonan:brPilihan juga Lok. sg. m. n. f. |
+| **Stem Terlemah** | **-n** | **-mn** | **-vn** | Kasus lainnya sebelum akhiran yang dimulai dengan vokal |
 
-**Akhirannya teratur. Nominatif Tunggal m. f. dibentuk tanpa akhiran -n.**
+**Akhirannya teratur. Nominatif Singular m. f. dibentuk tanpa -n di akhir.**
 :::
 Contoh:
 
-⟪राजन्⟫ m. "King"
+⟪राजन्⟫ m. "raja"
 
-*   strong stem: ⟪राजान्⟫
-*   medium stem: :sig[⟪राज⟫]
-*   weakest stem: ⟪राज्ञ्⟫
+*   bentuk kuat: ⟪राजान्⟫
+*   bentuk tengah: ⟪राज⟫
+*   bentuk lemah: ⟪राज्ञ् सीमन्⟫ f. "batas"
 
-⟪सीमन्⟫ f. "Boundary"
+*   bentuk kuat: ⟪सीमान्⟫
+*   bentuk tengah: ⟪सीम⟫
+*   bentuk lemah: ⟪सीम्न् नामन्⟫ n. "nama"
 
-*   strong stem: ⟪सीमान्⟫
-*   medium stem: ⟪सीम⟫
-*   weakest stem: ⟪सीम्न्⟫
-
-⟪नामन्⟫ n. "Name"
-
-*   strong stem: ⟪नामान्⟫
-*   medium stem: ⟪नाम⟫
-*   weakest stem: ⟪नाम्न्⟫
+*   bentuk kuat: ⟪नामान्⟫
+*   bentuk tengah: ⟪नाम⟫
+*   bentuk lemah: ⟪नाम्न्⟫
 ::: grammar-box
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
@@ -94,34 +88,32 @@ Contoh:
 :::
 ::: media
 ![](/images/lekt3803.webp)
-Gbr.: ⟪सीमा⟫
-(Sumber gambar: [Detail](/en/licenses#lekt3803))
+Ilm.: ⟪सीमा⟫
+(Sumber gambar: [Rincian](/id/licenses#lekt3803))
 :::
 ### 38.3.2. Nomina berakhiran -man atau -van setelah konsonan
 
 ::: grammar-box
-*   Batang kuat: -mān, -vān
-*   Weak stem:
-    *   before endings beginning with a consonant: -ma, -va (from -\*mn, -\*vn)
-    *   before endings beginning with a vowel: **\-man, -van**
+*   Bentuk kuat: -mān, -vān
+*   Bentuk lemah:
+*   sebelum akhiran yang diawali konsonan: -ma, -va (dari -\*mn, -\*vn)
+*   sebelum akhiran yang diawali vokal: **\-man, -van**
 
-Otherwise, formation as under 3.1.
+Selain itu, pembentukan seperti pada 3.1.
 :::
-Examples:
+Contoh:
 
-⟪आत्मन्⟫ n. "soul"
+⟪आत्मन्⟫ n. "jiwa"
 
-*   strong stem: ⟪आत्मान्⟫
-*   weak stem:
-    *   before consonant: ⟪आत्म⟫
-    *   before vowel: ⟪आत्मन्⟫
+*   bentuk kuat: ⟪आत्मान्⟫
+*   bentuk lemah:
+*   sebelum konsonan: ⟪आत्म⟫
+*   sebelum vokal: ⟪आत्मन् ब्रह्मन्⟫ n.: Absolut, Weda, Brahman
 
-⟪ब्रह्मन्⟫ n.: Absolute, Veda, Brahman
-
-*   strong stem: ⟪ब्रह्मान्⟫
-*   weak stem:
-    *   before consonant: ⟪ब्रह्म⟫
-    *   before vowel: ⟪ब्रह्मन्⟫
+*   bentuk kuat: ⟪ब्रह्मान्⟫
+*   bentuk lemah:
+*   sebelum konsonan: ⟪ब्रह्म⟫
+*   sebelum vokal: ⟪ब्रह्मन्⟫
 ::: grammar-box
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
@@ -144,18 +136,18 @@ Examples:
 | ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
-### 38.3.3. Maskulina dan Neutra auf -in, -min, -vin
+### 38.3.3. Maskulin dan Neutrum pada -in, -min, -vin
 
 ::: grammar-box
-These nouns have **no** stem gradation.
+Nomina-nomina ini **tidak memiliki** ablaut bentuk.
 
-[Nom.sg.m. dan Nom.Akk.pl.n. dibentuk secara analogi terhadap stem -a (pemanjangan -i-), demikian pula akhiran stem yang berakhiran **\-i-** sebelum akhiran konsonantal.
+Nom.sg.m. dan Nom.Akk.pl.n. dibentuk secara analogis dengan bentuk-bentuk -an (pemanjangan -i-), demikian pula bentuk pada **\-i-** sebelum akhiran konsonantal.
 
-Bentuk feminin dibentuk dengan sufiks -ī: mis. ⟪बलिनी⟫
+Feminin dibentuk dengan sufiks -ī: mis. ⟪बलिनी⟫
 :::
 Contoh:
 
-⟪बलिन्⟫ m.n. "strong, powerful (characterized by special ⟪बल⟫, possessing ⟪बल⟫)"
+⟪बलिन्⟫ m.n. "kuat, gagah (ditandai oleh ⟪बल⟫ yang khas, ⟪बल⟫)"
 
 ::: grammar-box
 
@@ -164,327 +156,327 @@ Contoh:
 | ⟪एकवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बली⟫ | ⟪बलि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनम्⟫ | ⟪बलि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिना⟫ ||
-| ⟪चतुर्थी⟫ | ⟪बलिने⟫ ||
-| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫ ||
-| ⟪षष्ठी⟫ | ⟪बलिनस्⟫ ||
-| ⟪सप्तमी⟫ | ⟪बलिनि⟫ ||
+| ⟪तृतीया⟫ | ⟪बलिना⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिने⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनस्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिनि⟫||
 | ⟪बहुवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिभिस्⟫ ||
-| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫ ||
-| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫ ||
-| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫ ||
-| ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
+| ⟪तृतीया⟫ | ⟪बलिभिस्⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिषु⟫||
 
 :::
-## 38.4. Tentang pembentukan nomina: sufiks ⟪तद्धित⟫ -in
+## 38.4. Pembentukan Nomina: Suffix ⟪तद्धित⟫ -in
 
 ::: grammar-box
-Dengan akhiran (sangat penting!) ⟪तद्धित⟫ **-in**, kata sifat dibentuk dari kata benda dengan makna:
+Dengan suffix (sangat penting!) ⟪तद्धित⟫ **-in**, kata sifat dibentuk dari nomina dengan makna:
 
-**characterized by, possessing**
+**ditandai oleh, memiliki**
 
-Awalnya, pembentukan dengan akhiran **-⟪इन्⟫** berbeda dari yang dengan **-⟪मन्त्⟫/-⟪वन्त्⟫** karena **-⟪इन्⟫** menunjukkan karakterisasi oleh sesuatu yang khusus, sedangkan **-⟪मन्त्⟫/-⟪वन्त्⟫** menyatakan kepemilikan, karakterisasi oleh sesuatu yang biasa, umum.
+Awalnya, pembentukan dengan suffix **-⟪इन्⟫** berbeda dari yang menggunakan **-⟪मन्त्⟫/-⟪वन्त्⟫** karena **-⟪इन्⟫** menunjukkan penandaan oleh sesuatu yang istimewa, sedangkan **-⟪मन्त्⟫/-⟪वन्त्⟫** menyatakan kepemilikan atau penandaan oleh sesuatu yang biasa atau umum.
 :::
 Contoh:
 
-⟪हस्तिन्⟫ m.: yang berkarakteristik tangan khusus = gajah (tangannya bukan tangan biasa, melainkan belalai)
+⟪हस्तिन्⟫ m.: yang ditandai oleh tangan istimewa = gajah (tangannya bukan tangan biasa, melainkan belalai)
 
 ::: media
 ![](/images/lekt3806.webp)
-Fig.: ⟪हस्ती⟫
-(Image source: [Detail](/en/licenses#lekt3806))
+Ilustrasi: ⟪हस्ती⟫
+(Sumber gambar: [Detail](/id/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : one who has (human) hands
+⟪हस्तवन्त्⟫ : seseorang yang memiliki (tangan manusia)
 
 ::: media
 ![](/images/lekt3807.webp)
-Fig.: ⟪हस्तवान्⟫
-(Image source: [Detail](/en/licenses#lekt3807))
+Ilustrasi: ⟪हस्तवान्⟫
+(Sumber gambar: [Detail](/id/licenses#lekt3807))
 :::
 
 ::: grammar-box
-Adjectives ending in **-⟪इन्⟫** are often formed into compounds.
+Kata sifat dengan akhiran **-⟪इन्⟫** sering dibentuk menjadi komposita.
 :::
-Example:
+Contoh:
 
-⟪सत्यवादिन्⟫ dari ⟪सत्यवाद⟫ m. "berbicara kebenaran": "seseorang yang dicirikan oleh berbicara kebenaran = seseorang yang selalu berbicara benar"
+⟪सत्यवादिन्⟫ dari ⟪सत्यवाद⟫ m. "berbicara kebenaran": "seseorang yang ditandai oleh berbicara kebenaran = seseorang yang selalu berkata benar"
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫
+## 38.5. Sintaksis untuk ⟪नामन्⟫
 
 ::: grammar-box
-To express "someone named N. N.", one constructs:
+Untuk mengungkapkan "seseorang bernama N. N.", konstruksinya adalah:
 
-**N.N. (in the nominative) ⟪नाम⟫**
+**N.N. (dalam nominatif) ⟪नाम⟫**
 
-Secara harfiah: "namanya adalah/sebelumnya N.N." Dengan demikian, ini merupakan kalimat nominal yang diselipkan.
+Secara harfiah: "namanya adalah/merupakan N.N". Ini merupakan kalimat nomina yang diselipkan.
 :::
 Contoh:
 
 ::: indent
-⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ "Dahulu kala ada seorang raja **bernama Nala**, putra Vīrasena yang perkasa."
+⟪आसीद्राजा नलो नाम वीरसेनसुतो बली ।⟫ "Dahulu kala ada seorang raja **bernama Nala**, putra Vīrasena yang perkasa."
 :::
-Secara alami, hal yang sama dapat dinyatakan dengan ⟪बहुव्रीहि⟫:
+Tentu saja, hal yang sama dapat diungkapkan dengan ⟪बहुव्रीहि⟫:
 
 ::: indent
-⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ "a man whose name is Devadatta"
+⟪देवदत्तनामा पुरुषः⟫ "seorang pria, yang namanya adalah Devadatta"
 
-⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "a girl whose name is Madayantika"
+⟪मदयन्तिकानाम्नी बाला⟫ "seorang gadis, yang namanya adalah Madayantika"
 :::
 ::: media
 ![](/images/lekt3808.jpg)
-Fig.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
-(Image source: [Detail](/en/licenses#lekt3808))
+Ilustrasi: ⟪आसीन्महात्मा गन्धी नाम⟫
+(Sumber gambar: [Details](/id/licenses#lekt3808))
 :::
-## 38.6. Syntaktisches zu ⟪आत्मन्⟫
+## 38.6. Sintaksis terkait ⟪आत्मन्⟫
 
 ::: grammar-box
-**⟪आत्मन्⟫** **maskulin** dapat digunakan dalam **tunggal** sebagai kata ganti refleksif untuk ketiga jenis kelamin, bilangan (termasuk dwitunggal dan jamak), serta orang.
+⟪आत्मन्⟫ **maskulinum** dapat digunakan dalam **tunggal** sebagai kata ganti refleksif untuk ketiga jenis kelamin, bilangan (juga dual dan jamak), serta orang.
 :::
 Contoh:
 
 ::: indent
-⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "She sees no fault in herself"
+⟪आत्मन्येषा दोषं न पश्यति ।⟫ "Ia tidak melihat kesalahan pada dirinya sendiri"
 
-⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "They praise themselves"
+⟪आत्मानं स्तुवन्ति ।⟫ "Mereka memuji diri mereka sendiri"
 :::
 ::: grammar-box
-The genitive (⟪षष्ठी⟫) **⟪आत्मनस्⟫** can therefore stand for "my/your/his/... own"
-:::
-Example:
-
-::: indent
-⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Dia memasuki rumahnya sendiri."
-:::
-## 38.7. Batang Kata Berakhiran Konsonan sebagai Anggota Pertama Kata Majemuk
-
-::: grammar-box
-Kata benda yang berakhiran konsonan muncul sebagai anggota pertama dari majemuk dalam bentuk (lemah) kata dasar yang diambil sebelum akhiran -su untuk kasus lokatif jamak (⟪सप्तमी⟫).
+Genitif (⟪षष्ठी⟫) ⟪आत्मनस्⟫ dapat berdiri untuk "milikku/milikmu/miliknya/... sendiri"
 :::
 Contoh:
 
 ::: indent
-**:sig[⟪राज⟫]**⟪पुत्र⟫ "putra raja"
+⟪आत्मनो गृहं प्रविशति ।⟫ "Ia memasuki rumah miliknya sendiri."
 :::
-## 38.8. Batang kata berakhiran -an sebagai komponen akhir dari sebuah ⟪बहुव्रीहि⟫
+## 38.7. Stamm konsonan sebagai komponen depan dalam kompositum
 
 ::: grammar-box
-Sebagai anggota kedua dari ⟪बहुव्रीहि⟫, stem dalam -an dapat digunakan untuk ketiga jenis kelamin. Namun, bentuk feminin biasanya dibentuk dengan akhiran -ī dari stem maskulin terlemah.
+Stamm yang berakhir dengan konsonan muncul sebagai komponen depan dalam kompositum dalam bentuk (lemah) dari Stamm yang mereka ambil sebelum akhiran -su dari Lokativ (⟪सप्तमी⟫) jamak.
 :::
 Contoh:
 
 ::: indent
-⟪दुर्णाम्नी⟫ "one whose name is evil; a demoness of disease"
+sig[⟪राज⟫]⟪पुत्र⟫ "putra raja"
+:::
+## 38.8. Stamm dengan akhiran -an sebagai komponen belakang dalam ⟪बहुव्रीहि⟫
+
+::: grammar-box
+Sebagai komponen belakang dalam ⟪बहुव्रीहि⟫, sebuah Stamm -an dapat digunakan untuk ketiga jenis kelamin. Namun, secara umum feminin dibentuk dengan sufiks -ī dari bentuk maskulinum terlemah.
+:::
+Contoh:
+
+::: indent
+⟪दुर्णाम्नी⟫ "yang namanya buruk; dewi penyakit"
 :::
 ## 38.9. Daftar Kata
 
-⟪सूर्य⟫ m.: Sun, sun god Sūrya
+⟪सूर्य⟫ m.: Matahari, dewa matahari Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
-Fig.: ⟪सूर्यः⟫
-(Image source: [Detail](/en/licenses#lekt3802))
+Ilustrasi: ⟪सूर्यः⟫
+(Sumber gambar: [Detail](/id/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Water
+⟪उदक⟫ n.: Air
 
 ::: media
 ![](/images/lekt3805.webp)
-Fig.: ⟪उदकम्⟫
-(Image source: [Detail](/en/licenses#lekt3805))
+Ilustrasi: ⟪उदकम्⟫
+(Sumber gambar: [Detail](/id/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : to blow, to breathe
+⟪वा⟫ 2P ⟪वाति⟫ : berhembus, meniup
 
 ::: indent
 Fut. ⟪वास्यति⟫
 Perf. IV ⟪ववौ⟫
 Pass. ⟪वायते⟫
-Caus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+Kaus. ⟪वापयति⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-therefrom:
+dari itu:
 
 ⟪वात⟫ m.: Angin
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : bertiup, menghamburkan, memadamkan
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : berhembus, bertiup hingga padam
 
 ::: indent
-therefrom:
+dari itu:
 
-⟪निर्वाण⟫ n.: Extinguishing, Nirvana
+⟪निर्वाण⟫ n.: Pemadaman, Nirwana
 
-⟪परिनिर्वाण⟫ n.: Pemadaman sempurna, pembebasan sempurna (pada akhir kehidupan Buddha atau Arhat)
+⟪परिनिर्वाण⟫ n.: Pemadaman sempurna, pembebasan sempurna (pada akhir hayat seorang Buddha atau Arhat)
 :::
 ::: media
 ![](/images/lekt3804.webp)
-Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Sumber gambar: [Detail](/en/licenses#lekt3804))
+Ilustrasi: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+(Sumber gambar: [Detail](/id/licenses#lekt3804))
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : kencing, buang air kecil, ejakulasi
+⟪मिह्⟫ 1P ⟪मेहति⟫ : kencing, pipis, ejakulasi
 
 ::: indent
 Fut. ⟪मेक्ष्यति⟫
 Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
 Pass. ⟪मिह्यते⟫
-Caus. ⟪मेहयति⟫
+Kaus. ⟪मेहयति⟫
 PPP ⟪मीढ⟫
 
-therefrom:
+dari itu:
 
-⟪मेघ⟫ m.: Cloud ("seicher")
+⟪मेघ⟫ m.: Awan ("pengeluaran air mani")
 :::
-⟪सुत⟫ m.: Son
+⟪सुत⟫ m.: Anak laki-laki
 
-⟪राजन्⟫ m.: King (on kingship in India see Basham, Wonder pp. 82-94). As a final member of a compound (esp. ⟪तत्पुरुष⟫) usually: -:sig[⟪राज⟫] m. (like ⟪देव⟫)
+⟪राजन्⟫ m.: Raja (lihat tentang kerajaan di India, Basham, Wonder hlm. 82-94). Sebagai unsur akhir dalam kompositum (terutama ⟪तत्पुरुष⟫) biasanya: -⟪राज⟫ m. (seperti ⟪देव⟫)
 
 ::: indent
-Feminine:
+Feminin:
 
-⟪राज्ञी⟫ f.: Queen, wife of a king
+⟪राज्ञी⟫ f.: Ratu, istri seorang raja
 
-from :sig[⟪राज⟫] :
+dari ⟪राज⟫ :
 
-⟪राज्य⟫ 3: royal; n. kingdom, kingship, rule
+⟪राज्य⟫ 3: ke-raj-aan; n. Kerajaan, kekuasaan raja
 :::
-⟪नामन्⟫ n.: Name
+⟪नामन्⟫ n.: Nama
 
-⟪सीमन्⟫ f.: Boundary
+⟪सीमन्⟫ f.: Batas
 
-⟪आत्मन्⟫ m.: Diri, pribadi sendiri, esensi terdalam. Doktrin filosofis dan pembebasan: Yang Mutlak dalam individu, yang kadang-kadang tidak disadari oleh individu (v. Stietencron)
+⟪आत्मन्⟫ m.: Diri, pribadi sendiri, esensi terdalam. Secara filosofis dan dalam ajaran pembebasan: Yang Mutlak di dalam individu, yang tidak selalu disadari oleh individu tersebut (v. Stietencron)
 
-⟪ब्रह्मन्⟫ n.: Yang Mutlak, Veda (menurut Thieme awalnya: kebenaran yang diformulasikan, dari mana ⟪ब्राह्मण⟫ "perumus kebenaran")
+⟪ब्रह्मन्⟫ n.: Yang Mutlak, Weda (menurut Thieme pada awalnya: kebenaran yang diformulasikan, dari ⟪ब्राह्मण⟫ "penyusun kebenaran")
 
-⟪ब्रह्मन्⟫ m.: the personally conceived creator god Brahmā
+⟪ब्रह्मन्⟫ m.: Dewa pencipta Brahmā yang dipersonifikasikan
 
 ::: media
 ![](/images/lekt3809.webp)
-Fig.: ⟪ब्रह्मा⟫
-(Sumber gambar: [Detail](/en/licenses#lekt3809))
+Ilustr.: ⟪ब्रह्मा⟫
+(Sumber gambar: [Details](/id/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n. ke ⟪कृ⟫ 8U: tindakan, perbuatan, karya; pekerjaan suci, upacara pengorbanan; Karma: tindakan masa lalu yang kemudian membawa buahnya (mis. dalam reinkarnasi)
+⟪कर्मन्⟫ n.: terkait dengan ⟪कृ⟫ 8U: tindakan, perbuatan, karya; karya suci, ritual pengorbanan; Karma: perbuatan masa lalu yang kelak menghasilkan buah (misalnya dalam reinkarnasi)
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Pematangan perbuatan = konsekuensi baik dan buruk dari perbuatan dalam kehidupan sebelumnya (ke ⟪वि⟫-⟪पच्⟫)
+⟪कर्मविपाक⟫ m.: Buah perbuatan = konsekuensi baik dan buruk dari perbuatan dalam kehidupan sebelumnya (terkait ⟪वि⟫-⟪पच्⟫)
 :::
 ⟪हस्तिन्⟫ m.: Gajah (_Elephas maximus_)
 
-⟪मनु⟫ m.: Manusia, pria; nama dari ayah ras manusia (ke ⟪मन्⟫ 4Ā)
+⟪मनु⟫ m.: Manusia, pria; nama ayah ras manusia (terkait ⟪मन्⟫ 4Ā)
 
 ::: indent
-therefrom:
+dari itu:
 
 ⟪मनुष्य⟫ m.: Manusia
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (berapi, bersinar); berkabung, meratapi
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (membara, bersinar); berduka, berkabung
 
 ::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
 Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
-Caus. ⟪शोचयति⟫
+Kaus. ⟪शोचयति⟫
 Inf. ⟪शुचितुम्⟫
-Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
+Absol. ⟪शोचित्वा । शुचित्वा⟫
 
-therefrom:
+dari itu:
 
-⟪शुचि⟫ 3: shining, pure, clear
+⟪शुचि⟫ 3: bercahaya, murni, jernih
 
-⟪शोक⟫ m.: Mourning, grief
+⟪शोक⟫ m.: Duka, kesedihan
 
-⟪अशोक⟫ 3: free from grief; Ashoka tree = _Saraca asoca_ (Roxb.) Wilde; name of the emperor Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304  – 232 BCE)
+⟪अशोक⟫ 3: bebas dari duka; Pohon Ashoka = _Saraca asoca_ (Roxb.) Wilde; nama Kaisar Aśoka (⟪देवानांप्रिय प्रियदर्शी⟫) (kurang lebih 304 – 232 SM)
 :::
 ::: media
 ![](/images/lekt3810.webp)
-Fig.: ⟪अशोकवृक्षः⟫
-(Image source: [Detail](/en/licenses#lekt3810))
+Ilustr.: ⟪अशोकवृक्षः⟫
+(Sumber gambar: [Details](/id/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
-Fig.: ⟪अशोकसाम्राज्यम्⟫
-(Image source: [Detail](/en/licenses#lekt3811))
+Ilustr.: ⟪अशोकसाम्राज्यम्⟫
+(Sumber gambar: [Details](/id/licenses#lekt3811))
 :::
 ## 38.10. Latihan
 
-[A] Sisipkan bentuk yang sesuai dari kata-kata dalam kurung pada kalimat berikut dan terjemahkan:
+A) Masukkan bentuk kata yang sesuai dari kata dalam kurung ke dalam kalimat berikut dan terjemahkan:
 
-... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
+(⟪सप्तमी विभक्तिः⟫) ... ⟪धर्मं रक्षत्यभया जनाः ॥१॥⟫ (⟪राजन्⟫)
 
-⟪आसीद्राजपुत्रो⟫ ⟪गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूपामितबलः⟫ ⟪॥२॥⟫ (⟪नामन्⟫)
+⟪आसीद्राजपुत्रो गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो बुद्ध्या रूपामितबलः ॥२॥⟫ (⟪नामन्⟫)
 
-⟪राज्यस्य⟫ ... (⟪सप्तमी⟫ ⟪बहुवचने⟫) ... ⟪अरयो⟫ ⟪राजानं⟫ ⟪योद्धुं⟫ ⟪तिष्ठन्ति⟫ ⟪॥३॥⟫ (⟪सीमन्⟫)
+⟪राज्यस्य⟫ ... (⟪सप्तमी बहुवचने⟫) ... ⟪अरयो राजानं योद्धुं तिष्ठन्ति ॥३॥⟫ (⟪सीमन्⟫)
 
-⟪वैश्यानां⟫ ⟪कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
+⟪वैश्यानां कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
 
 ⟪वैश्यास्⟫ ... ⟪॥५॥⟫ (⟪किंनामन्⟫)
 
-... (⟪सप्तम्येकवचने⟫) ... ⟪अकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥६॥⟫ (⟪कर्मन्⟫)
+(⟪सप्तम्येकवचने⟫) ... ⟪अकर्म यः पश्येदकर्मणि च कर्म यः स बुद्धिमान्मनुष्येषु स युक्त इति भगवद्गीतायाम् ॥६॥⟫ (⟪कर्मन्⟫)
 
-⟪किम्⟫ ... ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥७॥⟫ (⟪कर्मन्⟫)
+⟪किम्⟫ ... ⟪किमकर्मेति कवयो ऽप्यत्र मोहिताः ॥७॥⟫ (⟪कर्मन्⟫)
 
-⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥८॥⟫ (⟪प्रसन्नात्मन्⟫)
+⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न शोचति न लुभ्यति ॥८॥⟫ (⟪प्रसन्नात्मन्⟫)
 
-... (⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥९॥⟫ (⟪कर्मन्⟫)
+(⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य सुफलमाहुः ॥९॥⟫ (⟪कर्मन्⟫)
 
-⟪महीभोगस्⟫ ... (⟪शष्ठी⟫ ⟪बहुवचने⟫) ... ⟪धर्मः⟫ ⟪॥१०॥⟫ (⟪राजन्⟫)
+⟪महीभोगस्⟫ ... (⟪शष्ठी बहुवचने⟫) ... ⟪धर्मः ॥१०॥⟫ (⟪राजन्⟫)
 
-⟪राज्ञे⟫ ... ⟪दीयेरन्⟫ ⟪॥११॥⟫ (⟪बलिन्⟫ ⟪हस्तिन्⟫)
+⟪राज्ञे⟫ ... ⟪दीयेरन् ॥११॥⟫ (⟪बलिन् हस्तिन्⟫)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥१२॥⟫ (⟪ब्रह्मन्⟫ m.)
+(⟪तृतीया विभक्तिः⟫) ... ⟪लोका असृज्यन्त ॥१२॥⟫ (⟪ब्रह्मन्⟫ m.)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪कृतं⟫ ⟪पापं⟫... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪अकृतं⟫ ⟪पापम्⟫ ⟪॥१३॥⟫ (⟪आत्मन्⟫)
+(⟪तृतीया विभक्तिः⟫) ... ⟪कृतं पापं⟫... (⟪तृतीया विभक्तिः⟫) ... ⟪अकृतं पापम् ॥१३॥⟫ (⟪आत्मन्⟫)
 
-⟪सद्भिस्⟫ ... ⟪जनेभ्यो⟫ ⟪ऽभयं⟫ ⟪दीयते⟫ ⟪॥१४॥⟫ (⟪राजन्⟫)
+⟪सद्भिस्⟫ ... ⟪जनेभ्यो ऽभयं दीयते ॥१४॥⟫ (⟪राजन्⟫)
 
-... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
+⟪धर्मं न रक्षत्सु सभया जनाः ॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Daftar Kata untuk Latihan Penerjemahan
+## 38.11. Daftar Kata untuk Latihan Terjemahan
 
-⟪प्राय⟫  m.: main matter, Instr. ⟪प्रायेण⟫ : mostly, usually (to ⟪प्र⟫-⟪इ⟫)
+⟪प्राय⟫  m.: hal utama, Instr. ⟪प्रायेण⟫ : biasanya, umumnya (ke ⟪प्र⟫-⟪इ⟫)
 
-⟪विनोद⟫ m.: pastime, entertainment, pleasure
+⟪विनोद⟫ m.: hiburan, kesenangan, kenikmatan
 
 ::: media
 ![](/images/lekt3812.webp)
-Fig.: ⟪विनोदः⟫
-(Image source: [Detail](/en/licenses#lekt3812))
+Abb.: ⟪विनोदः⟫
+(Sumber gambar: [Details](/id/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : to wander about
+⟪अट्⟫ 1P ⟪अटति⟫ : berkeliaran
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
 Fut. ⟪अटिष्यति⟫
-Caus. ⟪आटयति⟫
+Kaus. ⟪आटयति⟫
 :::
-⟪गाध⟫ 3: shallow
+⟪गाध⟫ 3: dangkal
 
-⟪तॄ⟫ 1P ⟪तरति⟫ : to cross, to save oneself from (Acc.)
+⟪तॄ⟫ 1P ⟪तरति⟫ : menyeberang, menyelamatkan diri dari (Akk.)
 
 ::: indent
 Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
+Fut. ⟪तरिष्यति । तरीष्यति⟫
 Pass. ⟪तीर्यते⟫
-Caus. ⟪टारयति⟫
+Kaus. ⟪टारयति⟫
 PPP ⟪तीर्ण⟫
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+Inf. ⟪तरितुम् । तरीतुम्⟫
 :::
-⟪पार⟫ n.(m.): the far shore, boundary, goal
+⟪पार⟫ n.(m.): pantai seberang, batas, tujuan
 
-⟪तीर⟫ n.: shore
+⟪तीर⟫ n.: pantai
 
 ::: media
 ![](/images/lekt3813.webp)
-Fig.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
-(Image source: [Detail](/en/licenses#lekt3813))
+Ilustr.: ⟪वाराणस्यां गङ्गातीरे⟫
+(Sumber gambar: [Detail](/id/licenses#lekt3813))
 :::
-⟪एकैकशस्⟫ Adv.: each separately
+⟪एकैकशस्⟫ Adv.: masing-masing
 
-⟪गण्⟫ 10P ⟪गणयति⟫ : to count
+⟪गण्⟫ 10P ⟪गणयति⟫ : menghitung
 
 ::: indent
-Perf. ⟪गणयां⟫ ⟪चकार⟫
+Perf. ⟪गणयां चकार⟫
 Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
@@ -493,8 +485,8 @@ Inf. ⟪गणयितुम्⟫
 :::
 ::: media
 ![](/images/lekt3814.webp)
-Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
-(Sumber gambar: [Detail](/en/licenses#lekt3814))
+Ilustr.: ⟪गणयां चक्रुः⟫
+(Sumber gambar: [Detail](/id/licenses#lekt3814))
 :::
 ⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : berteriak, meratap
 
@@ -502,105 +494,88 @@ Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
 Perf. II ⟪चुक्रोश⟫
 Fut. ⟪क्रोक्ष्यति⟫
 Pass. ⟪क्रुश्यते⟫
-Caus. ⟪क्रोशयति⟫
+Kaus. ⟪क्रोशयति⟫
 PPP ⟪क्रुष्ट⟫
 :::
-⟪इदानीम्⟫ Adv.: now
+⟪इदानीम्⟫ Adv.: sekarang
 
-⟪नूनम्⟫ Adv.: now; therefore, thus; certainly, surely
+⟪नूनम्⟫ Adv.: sekarang; maka, oleh karena itu; pasti, tentu saja
 
-⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : to sink, to dive
+⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : tenggelam, menyelam
 
 ::: indent
 PPP ⟪ममज्ज⟫
 Fut. ⟪मङ्क्ष्यति⟫
-Caus. ⟪मज्जयति⟫
+Kaus. ⟪मज्जयति⟫
 PPP ⟪मग्न⟫
-Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
+Absol. ⟪मङ्क्त्वा । मक्त्वा⟫
 :::
-⟪गवेषयति⟫ Denominative: to seek
+⟪गवेषयति⟫ Denominatif: mencari
 
-⟪व्याकुल⟫ 3: dismayed, agitated, confused
+⟪व्याकुल⟫ 3: gelisah, terkejut, bingung
 
-⟪कोलाहल⟫ m.n.: shouting, noise
+⟪कोलाहल⟫ m.n.: keributan, kegaduhan
 
-⟪विवेष्टित⟫ n.: the round-about seeking
+⟪विवेष्टित⟫ n.: pencarian keliling
 
-⟪हस्⟫ 1P ⟪हसति⟫ : to laugh
+⟪हस्⟫ 1P ⟪हसति⟫ : tertawa
 
 ::: indent
 Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
 Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
-Caus. ⟪हासयति⟫
+Kaus. ⟪हासयति⟫
 PPP ⟪हसित⟫
 :::
-⟪सृ⟫ 1P ⟪सरति⟫ : to run
+⟪सृ⟫ 1P ⟪सरति⟫ : berlari
 
 ::: indent
 Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
 Fut. ⟪सरिष्यति⟫
 Pass. ⟪स्रियते⟫
-Caus. ⟪सारयति⟫
+Kaus. ⟪सारयति⟫
 PPP ⟪सृत⟫
 Inf. ⟪सर्तुम्⟫
 :::
-⟪कर्णयति⟫ Denominative: to hear (to ⟪कर्ण⟫ m. "ear")
+⟪कर्णयति⟫ Denominatif: mendengar (dari ⟪कर्ण⟫ m. "telinga")
 
-⟪लज्जा⟫ f.: shame
+⟪लज्जा⟫ f.: rasa malu
 
-⟪अधस्⟫ Adv.: downwards
+⟪अधस्⟫ Adv.: ke bawah
 
-## 38.12. Latihan Penerjemahan
+## 38.12. Latihan Terjemahan
 
-**:sig[⟪दश⟫]** ⟪मूढाः⟫
+sig[⟪दश⟫] ⟪मूढाः मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि⟫ -- ⟪एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी ।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ **:sig[⟪बाहुभ्यां⟫]** ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪आसीत्तेषां मध्ये कश्चन वृद्धः । स किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो गणयामास । परं⟫ :sig[⟪नवै⟫]⟪व परिगणितास्तेन । ततः स आक्रोशत् । अहो⟫ :sig[⟪वयम्⟫] ⟪दश प्रस्थिताः । इदानीं नवैव⟫ :sig[⟪स्मः⟫] ⟪। नूनमस्माकमेको नद्यां निमग्नः ।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति । ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि गणनां चकार । परं नवैव दृश्यन्ते । ततस्तेषां व्याकुलीभूतानां महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪। तत्रैव नातिदूरे कस्यचिदृषेराश्रमो ऽवर्तत । तत्र वसन्नृषिस्तेषां विवेष्टितमवलोक्योच्चैर्जहास । तस्य हासशब्दं श्रुत्वा मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य हासकारणमपृच्छन् । ऋषिराह । अहो । अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको ऽपि नात्मानमगणयत् । तेनायं व्यामोहः संजात इति । तदाकर्ण्य ते मूढाः सलज्जमधोमुखाः प्रययुः ॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ **:sig[⟪सर्वे⟫]** ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ **:sig[⟪जिज्ञासमान⟫]**⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ **:sig[⟪नवै⟫]**⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ **:sig[⟪वयम्⟫]** :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ **:sig[⟪स्मः⟫]** ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ **:sig[⟪गवेषयत⟫]** ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫**:sig[⟪मेकैको⟫]** ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ **:sig[⟪समजनि⟫]** ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫**:sig[⟪स्तरसा⟫]** ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ **:sig[⟪यूयम्⟫]** ⟪।⟫ **:sig[⟪युष्माकमे⟫]**⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+Penjelasan:
 
-Explanations:
+⟪दश⟫ Nom.Akk.pl.m.f.n. untuk ⟪दशन्⟫ "sepuluh"
 
-:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. to ⟪दशन्⟫ "ten"
+⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual untuk ⟪बाहु⟫ m. "Lengan"
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual to ⟪बाहु⟫ m. "arm"
+⟪सर्वे⟫ Nom.pl.m. untuk ⟪सर्व⟫ 3 "setiap, semua"
 
-:sig[⟪सर्वे⟫] Nom.pl.m. to ⟪सर्व⟫ 3 "each, all"
+⟪जिज्ञासमान⟫ Part.Präs.Ā.Desiderativ untuk ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "ingin mengetahui, ingin tahu"
 
-:sig[⟪जिज्ञासमान⟫] Part.Pres.Ā.Desiderative to ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "ingin mengetahui, ingin memahami"
+⟪नव⟫ Nom.Akk.pl.m.f.n. untuk ⟪नवन्⟫ "sembilan"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. to ⟪नवन्⟫ "nine"
+⟪वयम्⟫ Nom.pl. "kami"
 
-:sig[⟪वयम्⟫] Nom.pl. "we"
+⟪स्मस्⟫ 1.pl.Ind.Präs.P untuk ⟪अस्⟫ 2P
 
-⟪स्मस्⟫ 1.pl.Ind.Pres.P to ⟪अस्⟫ 2P
+⟪गवेषयत⟫ 2.pl.Imperativ P
 
-:sig[⟪गवेषयत⟫] 2.pl.Imperatife P
+⟪एकैक⟫ "setiap satu"
 
-⟪एकैक⟫ "each individually"
+⟪समजनि⟫ 3.sg.Passiv Aorist untuk ⟪जन् तरसा⟫ Instr. sg. untuk ⟪तरस्⟫ n. "Energi", digunakan secara adverbial: "cepat, dengan kekuatan"
 
-:sig[⟪समजनि⟫] 3.sg.Passive Aorist to ⟪जन्⟫
+⟪यूयम्⟫ Nom.pl. "kalian"
 
-⟪तरसा⟫ Instr. sg. to ⟪तरस्⟫ n. "energy", used adverbially: "quickly, with force"
+⟪युष्माकम्⟫ Gen.pl. untuk ⟪यूयम्⟫
 
-:sig[⟪यूयम्⟫] Nom.pl. "you"
+⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
-⟪युष्माकम्⟫ Gen.pl. to :sig[⟪यूयम्⟫]
+C) Transform the sentences from Exercise B) by replacing perfect forms with imperfect forms.
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Ilm.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Sumber gambar: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Diakses pada 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial)\]
-- **lekt3802.jpg**: Ilm.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Sumber gambar: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Diakses pada 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial)\]
-- **lekt3803.jpg**: Ilm.: ⟪सीमा⟫  Batas perbatasan antara India dan Pakistan di Wagah (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Sumber gambar: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Diakses pada 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, berbagi serupa)\]
-- **lekt3804.jpg**: Ilm.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, abad ke-2/ke-3 M \[Sumber gambar: Wikipedia. Domain publik\]
-- **lekt3805.jpg**: Ilm.: ⟪उदकम्⟫  Desa Darewadi, Distrik Ahmed Nagar = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Sumber gambar: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, berbagi serupa)\]
-- **lekt3806.jpg**: Ilm.: ⟪हस्ती⟫  Taman Nasional Nagarhole = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Sumber gambar: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Diakses pada 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, berbagi serupa)\]
-- **lekt3807.jpg**: Ilm.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Sumber gambar: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, tanpa turunan)\]
-- **lekt3808.jpg**: Ilm.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  Tahun 1930-an \[Sumber gambar: Wikipedia. Domain publik\]
-- **lekt3809.jpg**: Ilm.: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Sumber gambar: Wikipedia. Lisensi GNU FD\]
-- **lekt3810.jpg**: Ilm.: Pohon Ashoka = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Sumber gambar: J.M.Garg / Wikipedia. Lisensi GNU FD\]
-- **lekt3811.jpg**: Ilm.: Luas terbesar kekaisaran Aśoka dan lokasi edik batu dan tiangnya \[Sumber gambar: Wikipedia. Lisensi GNU FD\]
-- **lekt3812.jpg**: Ilm.: ⟪विनोदः⟫  Permainan Carrom \[Sumber gambar: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, berbagi serupa)\]
-- **lekt3813.jpg**: Ilm.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Sumber gambar: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial)\]
-- **lekt3814.jpg**: Ilm.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Sumber gambar: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, tanpa turunan)\]
-:::

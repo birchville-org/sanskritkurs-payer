@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lezione 49
 
@@ -370,27 +370,5 @@ Domande del re ⟪शूद्रक⟫ di ⟪विदिशा⟫ al pappagall
 Fig.: ⟪शुकः⟫
 Pappagallo dalla testa di prugna = Psittacula cyanocephala
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Fonte dell'immagine: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Consultato il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, share alike)]
-
-**lekt4901:** [Fonte dell'immagine: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Consultato il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribuzione, nessuna opera derivata)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, XI sec. [Fonte dell'immagine: Vassil / Wikipedia. Dominio pubblico]
-
-**lekt4903:** [Fonte dell'immagine: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Consultato il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Fonte dell'immagine: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Consultato il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, share alike)]
-
-**lekt4909:** Indovino con pappagallo in gabbia: il pappagallo estrae bigliettini sui quali è scritto il destino Mysore [Fonte dell'immagine: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Consultato il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Fonte dell'immagine: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Consultato il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
-
-**lekt4906:** Sri Lanka [Fonte dell'immagine: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Consultato il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-**lekt4908:** Pappagallo dalla testa di prugna _= Psittacula cyanocephala_[Fonte dell'immagine: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Accesso il 2009-01-12. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, condividi allo stesso modo)]
-
 :::
 

@@ -1,8 +1,9 @@
 ---
-title: "[ L0 ] Ἀσκησις 49"
+title: "Πρακτική ἄσκησις 49"
 uebung_id: 49
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

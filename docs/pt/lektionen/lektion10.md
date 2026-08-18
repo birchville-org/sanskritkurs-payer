@@ -9,14 +9,6 @@ status: stable
 
 # Lição 10
 
-::: deleteme-box
-**Nesta lição, você aprenderá:**
-- A oração passiva (instrumental do agente)
-- A declinação do instrumental (tṛtīyā)
-- A lei da cerebralização para -n- (sandhi de palavras)
-- A formação da voz passiva (yak) no presente do indicativo
-- Vocabulário sobre sacrifício, verdade e papéis sociais
-:::
 ## 10.1. A Oração Passiva
 
 ::: grammar-box
@@ -103,9 +95,6 @@ As construções passivas em sânscrito são extremamente comuns: a passiva é, 
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-Exceto no nominativo e acusativo, as formas dos neutros em -a, do pronome interrogativo e dos pronomes demonstrativos são idênticas às formas do masculino correspondente.
-:::
 
 ### 10.2.1. Sobre o uso do Instrumental (tṛtīyā = ⟪तृतीया⟫)
 
@@ -371,7 +360,7 @@ Fig.: ⟪तन्तुवायः⟫
 - **mārga** m. ⟪मार्ग⟫ : caminho
 - **evam** ⟪एवम्⟫ : assim
 - **iha** ⟪इह⟫ : aqui
-- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : ser belo, brilhar <!-- TODO: Fallback translation -->
+- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : ser belo, brilhar
 
 ## 10.8. Exercício de leitura e tradução
 

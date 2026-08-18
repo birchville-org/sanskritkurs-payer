@@ -647,11 +647,3 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
-
-- **Image lekt4005.jpg** (Abb.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம் [Bildquelle: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, share alike)]
-- **Image lekt4003.jpg** (Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)]
-- **Image lekt4002.jpg** (Abb.: ⟪तीर्थङ्करः⟫): [Bildquelle: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-- **Image lekt4001.jpg** (Abb.: ⟪विष्णोर्दशावताराः⟫): Im Uhrzeigersinn: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, in der Mitte: ⟪कृष्ण⟫ [Bildquelle: Wikipedia. Public domain]
-- **Image lekt4004.jpg** (Abb.: ⟪स्वपन्ति⟫): Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-:::

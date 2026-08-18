@@ -20,12 +20,12 @@ last_reconstructed: 2026-05-15
 **⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫ ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫**
 **⟪एतद्विद्यात्समासेन⟫ ⟪लक्षणं⟫ ⟪सुखदुःखयोः⟫ ⟪॥⟫ ⟪१६०⟫ ⟪॥⟫**
 
-> Minden, ami más akaratán alapul, szenvedéssel jár; minden, ami a saját akaraton alapul, boldogság. Ezt összefoglalva ismerni kell boldogság és szenvedés jellemzőjeként. <!-- TODO: Fallback translation -->
+> Minden, ami más akaratán alapul, szenvedéssel jár; minden, ami a saját akaraton alapul, boldogság. Ezt összefoglalva ismerni kell boldogság és szenvedés jellemzőjeként.
 
 **⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫**
 **⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫ ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥⟫ ⟪१६१⟫ ⟪॥⟫**
 
-> Amit ha cselekszik, az belső elégedettséghez vezet, azt gyakorolni kell; ellenkezőjét kerülendő. <!-- TODO: Fallback translation -->
+> Amit ha cselekszik, az belső elégedettséghez vezet, azt gyakorolni kell; ellenkezőjét kerülendő.
 
 ::: media
 ![](/images/uebung087.webp)
@@ -61,7 +61,7 @@ last_reconstructed: 2026-05-15
 
 **⟪अर्थमूलौ⟫ ⟪हि⟫ ⟪धर्मकामाविति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> Így tartsa ellenőrzés alatt az érzékeit, kerülje a más nőit, más javait és erőszakot, valamint alvást, vágyakozást, hazugságot, nevetséges viselkedést, haszontalant és helytelen vagy hasztalan üzleteket. Adódjon az örömnek anélkül, hogy ez zavarja a helyességet és célszerű viselkedést; ne legyen örömtelen. Vagy ápolja egyenletesen mindhárom életcél, amelyek összefonódnak. Ha valaki túlzottan adja magát az egyiknek a helyességből és szokásból, célszerű viselkedésből és örömből, akkor az nyomja a lelket és a másik két célt. Kauṭilya azt mondja, hogy a célszerű viselkedés (**Artha**) a legfontosabb. A helyesség és szokás, valamint az öröm gyökere a célszerű cselekvésben van. <!-- TODO: Fallback translation -->
+> Így tartsa ellenőrzés alatt az érzékeit, kerülje a más nőit, más javait és erőszakot, valamint alvást, vágyakozást, hazugságot, nevetséges viselkedést, haszontalant és helytelen vagy hasztalan üzleteket. Adódjon az örömnek anélkül, hogy ez zavarja a helyességet és célszerű viselkedést; ne legyen örömtelen. Vagy ápolja egyenletesen mindhárom életcél, amelyek összefonódnak. Ha valaki túlzottan adja magát az egyiknek a helyességből és szokásból, célszerű viselkedésből és örömből, akkor az nyomja a lelket és a másik két célt. Kauṭilya azt mondja, hogy a célszerű viselkedés (**Artha**) a legfontosabb. A helyesség és szokás, valamint az öröm gyökere a célszerű cselekvésben van.
 
 ---
 
@@ -83,7 +83,7 @@ Buddha megszabadító ismerete:
 **⟪अमुत्राहमयं⟫ ⟪नाम⟫ ⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫**
 **⟪इति⟫ ⟪जन्मसहस्राणि⟫ ⟪सस्मारानुभवन्निव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 
-> „Ott én olyan-való voltam, onnan eltávozva idejöttem” – így emlékezett meg ezrekről a születésekről, mintha éppen most tapasztalná őket. <!-- TODO: Fallback translation -->
+> „Ott én olyan-való voltam, onnan eltávozva idejöttem” – így emlékezett meg ezrekről a születésekről, mintha éppen most tapasztalná őket.
 
 **⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫ ⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫**
 **⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यं⟫ ⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
@@ -103,12 +103,12 @@ Buddha megszabadító ismerete:
 **⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫ ⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫**
 **⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫ ⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> Mivel a második éjszakai őrszem elérkezett, az övé, akinek a hatalma olyan, mint senki másé, megkapta a legmagasabb égi szemet, ő, aki mindazok között a legjobb, akiknek van szemük. <!-- TODO: Fallback translation -->
+> Mivel a második éjszakai őrszem elérkezett, az övé, akinek a hatalma olyan, mint senki másé, megkapta a legmagasabb égi szemet, ő, aki mindazok között a legjobb, akiknek van szemük.
 
 **⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫ ⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫**
 **⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫ ⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 
-> Aztán ezzel a teljesen tiszta égi szemmel látta az egész világot, mint egy tökéletlen tükörben. <!-- TODO: Fallback translation -->
+> Aztán ezzel a teljesen tiszta égi szemmel látta az egész világot, mint egy tökéletlen tükörben.
 
 **⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫ ⟪निकृष्टोत्कृष्टकर्मणाम्⟫ ⟪।⟫**
 **⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫ ⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
@@ -118,7 +118,7 @@ Buddha megszabadító ismerete:
 **⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫ ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫**
 **⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫ ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 
-> „Ezek a lények, akik rossz cselekedeteket követtek el, egy rossz létállapotba mennek; ezek mások, akik jó karmát gyakorolnak, újra Indra mennyében születnek.” <!-- TODO: Fallback translation -->
+> „Ezek a lények, akik rossz cselekedeteket követtek el, egy rossz létállapotba mennek; ezek mások, akik jó karmát gyakorolnak, újra Indra mennyében születnek.”
 
 ::: media
 ![](/images/uebung088.webp)

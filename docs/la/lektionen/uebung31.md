@@ -19,7 +19,7 @@ Ut sapientia generationem doloris impediat, vir prudens viam nobilissimam Buddha
 Venerabilis in Bhagavadgītā dicit gladios tantum corpus scindere, animam autem (jīva) non mori.
 
 ⟪३⟫. **⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫**
-Qui sapientiam habet, a dolore liberatur; ideo qui liberationem vult, per yogam mentem colligat. <!-- TODO: Fallback translation -->
+Qui sapientiam habet, a dolore liberatur; ideo qui liberationem vult, per yogam mentem colligat.
 
 ⟪४⟫. **⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫**
 (⟪कुलस्य⟫ ⟪बन्धनम्⟫ ⟪।⟫ ⟪भग्नो⟫ ⟪बन्धो⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫ ⟪मोक्षं⟫ ⟪नयन्तीम्⟫)
@@ -34,7 +34,7 @@ Stultus bonos cibos et pulchras feminas fruitur. Cui stulta disparuit, nec bonum
 Abb.: ⟪कुलबन्धनम्⟫
 (Fons imaginis: [Details](/licenses#uebung049))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Verbi Paradigmata (7. Classis)
 
@@ -63,13 +63,13 @@ B) Ad sequentes radices 7ae classis personas tertias singularis et pluralis (P e
 
 ### ⟪४⟫. ⟪अञ्ज्⟫ (ungere — tantum P)
 
-| Modus | P Sg. | P Pl. | <!-- TODO: Fallback translation -->
+| Modus | P Sg. | P Pl. |
 
 | :--- | :--- | :--- |
 | ⟪लट्⟫ (Ind.) | ⟪अनक्ति⟫ | ⟪अञ्जन्ति⟫ |
 | ⟪विधिलिङ्⟫ (Opt.) | ⟪अञ्ज्यात्⟫ | ⟪अञ्ज्युः⟫ |
 
-### ⟪५⟫. ⟪भञ्ज्⟫ (frangere — tantum P) <!-- TODO: Fallback translation -->
+### ⟪५⟫. ⟪भञ्ज्⟫ (frangere — tantum P)
 
 | Modus | P Sg. | P Pl. |
 | :--- | :--- | :--- |

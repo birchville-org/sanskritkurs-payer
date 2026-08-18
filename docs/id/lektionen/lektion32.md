@@ -1,7 +1,8 @@
 ---
-title: Lektion 32
+title: "Pelajaran 32"
 lesson_id: 32
 status: stable
+
 ---
 
 # Pelajaran 32
@@ -133,7 +134,7 @@ Contoh:
 ![](/images/lekt3202.webp)
 Gbr.: ⟪चूतः⟫
 Pohon mangga, Kanpur.
-(Sumber gambar: [Rincian](/licenses#lekt3202))
+(Sumber gambar: [Rincian](/id/licenses#lekt3202))
 :::
 ⟪तरु⟫ ⟪वृक्ष⟫
 
@@ -167,7 +168,7 @@ Pohon mangga, Kanpur.
 ![](/images/lekt3203.webp)
 Gbr.: ⟪वानराः⟫
 Monyet (rhesus macaques) di Delhi.
-(Sumber gambar: [Detail](/licenses#lekt3203))
+(Sumber gambar: [Detail](/id/licenses#lekt3203))
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
@@ -187,7 +188,7 @@ Monyet (rhesus macaques) di Delhi.
 ![](/images/lekt3204.webp)
 Gbr.: ⟪उपलाः⟫
 Stone quarry south of Pune, Maharashtra.
-(Sumber gambar: [Detail](/licenses#lekt3204))
+(Sumber gambar: [Detail](/id/licenses#lekt3204))
 :::
 ⟪लक्ष्य⟫
 
@@ -195,7 +196,7 @@ Stone quarry south of Pune, Maharashtra.
 ![](/images/lekt3205.webp)
 Gbr.: ⟪लक्ष्यम्⟫
 Latihan sasaran / sasaran panah, Karnataka.
-(Sumber gambar: [Detail](/licenses#lekt3205))
+(Sumber gambar: [Detail](/id/licenses#lekt3205))
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
 ::: indent
@@ -219,7 +220,7 @@ Latihan sasaran / sasaran panah, Karnataka.
 ![](/images/lekt3207.webp)
 Gbr.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Pembakaran kue kotoran sapi di Rajasthan.
-(Sumber gambar: [Detail](/licenses#lekt3207))
+(Sumber gambar: [Detail](/id/licenses#lekt3207))
 :::
 **⟪चि⟫ ⟪अव⟫**
 
@@ -233,7 +234,7 @@ Pembakaran kue kotoran sapi di Rajasthan.
 ![](/images/lekt3206.webp)
 Gbr.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
-(Sumber gambar: [Detail](/licenses#lekt3206))
+(Sumber gambar: [Detail](/id/licenses#lekt3206))
 :::
 ## 32.6. Latihan
 
@@ -331,7 +332,7 @@ B) Terjemahkanlah dan uraikanlah kata-kata majemuk dalam bahasa Sanskerta:
 ![](/images/lekt3208.webp)
 Gbr.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Biksu Buddha di Sri Lanka.
-(Sumber gambar: [Detail](/licenses#lekt3208))
+(Sumber gambar: [Detail](/id/licenses#lekt3208))
 :::
 ## 32.7. Latihan ulangan selama liburan Natal
 
@@ -554,7 +555,7 @@ C) Terjemahkan ke dalam bahasa Sanskerta:
 ![](/images/lekt3209.webp)
 Gbr.: ⟪पुनर्दर्शनाय⟫
 Salam / ucapan perpisahan India.
-(Sumber gambar: [Detail](/licenses#lekt3209))
+(Sumber gambar: [Detail](/id/licenses#lekt3209))
 :::
 ## 32.8. Latihan Ulangan
 
@@ -632,27 +633,6 @@ Penjelasan:
 ![](/images/lekt3210.webp)
 Gbr.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Monyet-monyet di pohon mangga.
-(Sumber gambar: [Detail](/licenses#lekt3210))
-:::
-
-::: deleteme-box
-
-**lekt3202:** Pohon mangga, Kanpur. [Sumber gambar: AmarChandra / Wikipedia. CC BY-SA]
-
-**lekt3203:** Monyet (rhesus macaques) di Delhi. [Sumber gambar: dewalt / Flickr. CC BY-NC-SA]
-
-**lekt3204:** Stone quarry south of Pune, Maharashtra. [Sumber gambar: lecercle / Flickr. CC BY-NC-SA]
-
-**lekt3205:** Target practice / arrow target, Karnataka. [Sumber gambar: mattlogelin / Flickr. CC BY-NC]
-
-**lekt3207:** Burning cowdung patties in Rajasthan. [Sumber gambar: thebigdurian / Flickr. CC BY-NC-SA]
-
-**lekt3206:** Mehndi painting on hands in Mumbai. [Sumber gambar: the_gman / Flickr. CC BY-NC-SA]
-
-**lekt3208:** Buddhist monk in Sri Lanka. [Sumber gambar: Trollderella / Wikipedia. GNU FDL]
-
-**lekt3209:** Indian greeting / farewell. [Sumber gambar: dhyanji / Flickr. CC BY-NC-ND]
-
-**lekt3210:** Monyet-monyet di pohon mangga. [Sumber gambar: Wikipedia. GNU FDL]
+(Sumber gambar: [Detail](/id/licenses#lekt3210))
 :::
 

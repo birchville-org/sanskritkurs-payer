@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: Lektion 33
 lesson_id: 33
@@ -418,17 +418,3 @@ Abb.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-::: deleteme-box
-
-**Ghee Definition & Details:**
-* Quelle: http://en.wikipedia.org/wiki/Ghee (Zugriff: 2008-12-26)
-
-**Abbildungsverzeichnis & Lizenzen:**
-* **Abb. lekt3306 (wedding party, Chennai):** Bildquelle: http://www.pbase.com/chandra/image/62118318 (Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike).
-* **Abb. lekt3307 (Udaipur carrier):** Bildquelle: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung).
-* **Abb. lekt3305 (Samadhi yogini, Kaveripakkam):** Bildquelle: Quadell / Wikipedia (GNU FDLicense).
-* **Abb. lekt3304 (bhaya carrier, Mumbai):** Bildquelle: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung).
-* **Abb. lekt3303 (Hinayana Thailand):** Bildquelle: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung).
-* **Abb. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Bildquelle: Dey (http://www.flickr.com/photos/dey/466758922/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike).
-* **Abb. lekt3308 (woman carrier, Delhi):** Bildquelle: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung).
-:::

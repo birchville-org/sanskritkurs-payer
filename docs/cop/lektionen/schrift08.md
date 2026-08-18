@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 # Schriftübung 8
 
 Vokalzeichen für den Wortanfang, falls das Wort nicht in der Schreibung mit einem vorhergehenden Wort verbunden ist:

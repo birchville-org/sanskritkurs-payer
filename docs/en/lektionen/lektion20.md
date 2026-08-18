@@ -534,26 +534,4 @@ Another ⟪सुभाषितम्⟫ :
 
 Explanation: ⟪इच्छताम्⟫ = gen. pl. Pres. Part P to ⟪इष्⟫ : desiring
 :::
-::: deleteme-box
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Cambodia, 9th cent. CE [Image source: Wikipedia, Public domain]
-
-**lekt2002:** [Image source: Contributions to Literary Studies and Intellectual History of India. -- Bonn, 1926]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Image source: Wikipedia, Public domain]
-
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [Image source: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-
-**lekt2005:** Jesus and the other gods, Ahmedabad [Image source: by ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-
-**lekt2006:** Madhya Pradesh [Image source: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-
-**lekt2007:** Chennai = சென்னை [Image source: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Image source: by ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution)]
-
-**lekt2009:** Karnataka [Image source: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution, Non-commercial use)]
-
-**lekt2010:** Buddha as an ascetic before his liberating insight, Gandhara, 2nd/3rd century. [Image source: Wikipedia, GNU FDL]
-:::
 

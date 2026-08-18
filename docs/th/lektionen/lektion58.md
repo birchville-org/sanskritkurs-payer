@@ -31,7 +31,7 @@ status: stable
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
 ### 58.2.2. กลุ่มปัจจุบันที่สี่ (⟪दिवादिगणः⟫)
 
@@ -446,16 +446,3 @@ B) จงแปลและระบุรูปต่อไปนี้:
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [แหล่งที่มาของภาพ: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- เข้าถึงเมื่อ 2009-03-02. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by/2.0/deed.de) (ให้เครดิต)]
-
-**lekt5803:** อุทยานแห่งชาติบันดิปุระ -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [แหล่งที่มาของภาพ: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- เข้าถึงเมื่อ 2009-03-02. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต ห้ามใช้เพื่อการค้า ห้ามดัดแปลง)]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [แหล่งที่มาของภาพ: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- เข้าถึงเมื่อ 2009-03-02. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต ห้ามใช้เพื่อการค้า ห้ามดัดแปลง)]
-
-:::

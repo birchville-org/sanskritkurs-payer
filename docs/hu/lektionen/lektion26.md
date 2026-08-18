@@ -1,13 +1,14 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Lecke 26"
+subtitle: "Cerebralisációs szabály a szóbeli -s- esetén"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lecke 26 <!-- TODO: Fallback translation -->
+---
+
+# Lecke 26
 
 ## 26.1. A szó belsejében a -s- cerebraalizációs törvénye
 
@@ -25,13 +26,13 @@ de: ⟪तासाम्⟫ (*tā-sām*)
 ## 26.2. A szó belsejében lévő dentálisok cerebralizálási törvénye
 
 ::: grammar-box
-A dentális zárhangok retroflexek (beleértve a **-ṣ-**ot) után megfelelő retroflexekkel helyettesítődnek: <!-- TODO: Fallback translation -->
+A dentális zárhangok retroflexek (beleértve a **-ṣ-**ot) után megfelelő retroflexekkel helyettesítődnek:
 
 - **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
 *(**ṣ** az előző **i** miatt, **ṭh** pedig a következő **ṣ** miatt)*
 :::
-## 26.3. Palatális, gutturális, ṣ, h + -s szandhina <!-- TODO: Fallback translation -->
+## 26.3. Palatális, gutturális, ṣ, h + -s szandhina
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
@@ -57,58 +58,59 @@ Példák: lásd lent a Jövő időum alakját  ⟪दुह्⟫ és  ⟪ब�
 Ábr.: Hermann Grassmann
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi -m, -n előtt zöngés hangzó <!-- TODO: Fallback translation -->
+>> ## 26.5. Wortsandhi a -m, -n előtt hangzó sziszajegy előtt
 
 ::: grammar-box
-**Zöngés hangzók előtt -n és -m helyett -ṃ- lép fel:** <!-- TODO: Fallback translation -->
+**Hangzó sziszajegy előtt a -n és -m helyett -ṃ- lép:**
 
-Példa: lásd lent a Jövő időum alakját ⟪मन्⟫
+Példa: l. lent a ⟪मन्⟫ jövő idő
 :::
-## 26.6. Egyszerű Jövő időum használata (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) <!-- TODO: Fallback translation -->
+## 26.6. Az egyszerű jövő idő használata (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**A egyszerű jövő idő (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) a következőket fejezi ki:** <!-- TODO: Fallback translation -->
+**Az egyszerű jövő idő (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) kifejezi:**
 
-- **a jövő**
-- **egy szándékolt vagy kívánt cselekvés („megyek”, „akarni megyek”)**
-- **várakozás („így fog történni”)**
-- **remény**
-- **félelem**
-- **valószínűség**
-- **a beszélő véleménye**
-- **parancs**
+**a jövőt**
+**egy szándékolt vagy kívánt cselekvést ("elmegyek", "meg akarok menni")**
+**egy várakozást ("így fog történni")**
+**reményt**
+**aggályt**
+**valószínűséget**
+**a beszélő véleményét**
+**parancsot**
 
-**A jövő idő részben versenytárs az optativusnak (lásd később).**
+**A jövő idő részben verseng az optativusszal (lásd később).**
 :::
-pl. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = „Egy fogadalmat tenni kívánó személy a templomba megy.” <!-- TODO: Fallback translation -->
+pl. ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = "Egy fogadalmat tenni kívánó személy a templomba megy."
+
 
 ::: media
 ![](/images/lekt2602.webp)
-Ábr.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
+Ábr.: ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2602))
 :::
-## 26.7. Az egyszerű jövő idő képzése (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.) <!-- TODO: Fallback translation -->
+## 26.7. Az egyszerű jövő idő képzése (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 
 ::: grammar-box
 **Egyszerű jövő idő:**
 
 :::
 ::: indent
-**Jövő idő töve + elsődleges végződés**
+**Jövő idő alap + elsődleges végződés**
 :::
 ::: grammar-box
-**Jövő idő töve:** <!-- TODO: Fallback translation -->
+**Jövő idő alap:**
 
 :::
 ::: indent
-**(általában) magas fokú gyökér + -sya**  
+**(általában) erősített gyökér + -sya**  
 **vagy**  
-**(általában) magas fokú gyökér + -i- + -sya (= - iṣya)**
+**(általában) erősített gyökér + -i- + -sya (= - iṣya)**
 :::
-**Meg kell tanulni, melyik gyökér milyen jövő idői képzést alkot!**  
-**Általában a gyökérforma és a jövő idői kapcsolómag hangzása megegyezik a határozói névmással.**  
-**Egyes gyökök opcionálisan képezhetik a jövő időt kapcsolómag -i-vel és anélkül.**  
-**A jövő idő parasmaipada igeneve a jövő idői tövhöz -nt- képző csatolásával keletkezik, nőnemben fakultatívan -ntī vagy -tī végződéssel:** <!-- TODO: Fallback translation -->
+**Melyik gyökér milyen jövő idő alapot képez, azt a szóalakokkal együtt kell megtanulni!**  
+**Általában a gyökérforma és a jövő idő kötőmagja megegyezik az infinitivusszal.**  
+**Egyes gyökök opcionálisan képezhetik a jövő idő kötőmaggal és anélkül -i- segítségével.**  
+**A jövő idő Parasmaipada igeneve a jövő idő alapjához fűzött -nt- képzővel képezhető, nőnemben fakultatívan -ntī vagy -tī végződésű:**
 
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
@@ -130,15 +132,15 @@ Példák:
 | ⟪पद्⟫ | ⟪पत्स्यति⟫ |
 | ⟪अद्⟫ | ⟪अत्स्यति⟫ |
 | ⟪दुह्⟫ | ⟪धोक्ष्यति⟫ (⟪दोग्⟫ +  ⟪स्य⟫ + ⟪ति⟫) |
-| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ vor Stimmlosem = ⟪भोत्⟫) |
+| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ szótag előtt = ⟪भोत्⟫) |
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
 ## 26.8. Gyakorlat
 
-Alakítsa ki a szám, személy és nem szerint (Parasmaipada, Ātmanepada) megfelelő jövő idő alakjait:
+Alakítsa ki a szám, személy és nem szerinti megfelelő jövő idői formákat (Parasmaipada, Ātmanepada):  
 
-A) kötőmag -i- nélkül: <!-- TODO: Fallback translation -->
+A) kötőmag -i- nélkül:
 
 1.  ⟪अत्ति⟫
 2.  ⟪प्राप्नुवन्ति⟫
@@ -147,7 +149,7 @@ A) kötőmag -i- nélkül: <!-- TODO: Fallback translation -->
 5.  ⟪दहन्⟫
 6.  ⟪आदिशन्ति⟫
 7.  ⟪दोग्धि⟫
-8.  ⟪पश्यति⟫ (a jövő idő képzése a következőből: ⟪दृश्⟫)
+8.  ⟪पश्यति⟫ (Alakítsa ki a jövő időt ⟪दृश्⟫-ból)
 9.  ⟪उपानयन्ति⟫
 10.  ⟪पचति⟫
 11.  ⟪उपपद्यन्ते⟫
@@ -176,7 +178,7 @@ A) kötőmag -i- nélkül: <!-- TODO: Fallback translation -->
 34.  ⟪स्तौति⟫
 35.  ⟪तिष्ठति⟫
 
-B) -i- kötőmaggal:
+B) kötőmag -i-vel:
 
 1.  ⟪अस्यति⟫
 2.  ⟪आसते⟫
@@ -193,7 +195,7 @@ B) -i- kötőmaggal:
 13.  ⟪पतन्ति⟫
 14.  ⟪रोदिति⟫
 15.  ⟪प्रभवति⟫
-16.  ⟪म्रियन्ते⟫ (a jövő idő parasmaipada alakja)
+16.  ⟪म्रियन्ते⟫ (jövő idő Parasmaipada)
 17.  ⟪जीवन्ति⟫
 18.  ⟪रक्षति⟫
 19.  ⟪वदति⟫

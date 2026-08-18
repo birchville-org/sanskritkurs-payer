@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # الدرس 36
 
@@ -63,7 +63,7 @@ status: stable
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ و ⟪भू⟫ تُصرف أيضًا مع أفعال آتمانيبادا في صيغة باراسمايبادا.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 أمثلة:
 
@@ -167,7 +167,7 @@ Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā
 
 ⟪अनुगम्⟫ : يتبع شخصًا، يمشي على طول
 :::
-⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an <!-- TODO: Fallback translation -->
+⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
 
 ::: indent
 مثلاً
@@ -508,13 +508,3 @@ Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: م.: ⟪गोमयं⟫ ⟪चिकाय⟫ أودايبور = ⟪उदयपुर⟫ [مصدر الصورة: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- تاريخ الوصول:  2008-12-28. --   رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري)]
-- **lekt3602.jpg**: م.: ⟪अगारम्⟫ شيكافاتي = ⟪शेखावाटी⟫ [مصدر الصورة: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- تاريخ الوصول:  2008-12-28. --   رخصة المشاع الإبداعي (النسبة، شبيه بالمشاع)]
-- **lekt3603.jpg**: م.: ⟪अनगार्यम्⟫ 	تايلاند الشمالية الشرقية = อีสาน 	[مصدر الصورة: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- تاريخ الوصول:  	2008-12-28. --  	 	رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، عدم  	التعديل)]
-- **lekt3604.jpg**: م.: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ م. شعر الجسم) [مصدر الصورة: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- تاريخ الوصول: 2008-12-29.  --   رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ غاندارا، القرن الأول/الثاني بعد الميلاد. [مصدر الصورة: ويكيبيديا. رخصة جنو للوثائق الحرة]
-- **lekt3606.jpg**: م.:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫مودرا [مصدر الصورة: Payer]
-- **lekt3607.jpg**: م.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [مصدر الصورة: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- تاريخ الوصول:  2008-12-29. --   رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، شبيه بالمشاع)]
-:::

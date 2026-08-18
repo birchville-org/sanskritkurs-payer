@@ -1,286 +1,268 @@
 ---
-title: Lektion 54
-subtitle: "Vorbemerkung"
+title: "Ders 54"
+subtitle: "Önbilgi"
 lesson_id: 54
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 54 <!-- TODO: Fallback translation -->
+---
 
-## 54.1. Vorbemerkung <!-- TODO: Fallback translation -->
+# Ders 54
 
-Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters grosse Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen. <!-- TODO: Fallback translation -->
+## 54.1. Önbilgi
 
-Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung gestellt. <!-- TODO: Fallback translation -->
+Ders 54 ile üniversite dersinde ikinci yarıyıl başlar. Bundan sonra kurs, bu dönemin ana konusu olan Bhagavadgītā'nın tamamının okunmasının yanı sıra devam eder. Öğrenme hedefi, orta zorlukta bir metni okumada o kadar akıcılık kazanmaktır ki, dönemin son üçte birinde Bhagavadgītā'nın büyük bölümleri ezberden çevrilebilsin. Başlangıçta üniversite dersinde kelime listeleri dağıtılırdı, daha sonra öğrencilerin kendi başlarına ilgili sözlükleri (Monier-Williams, Apte, PW) kullanmaları gerekirdi.
 
-Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bisher noch nicht behandelt wurden. <!-- TODO: Fallback translation -->
+Bhagavadgītā kursu şimdilik çevrimiçi olarak sunulmayacaktır.
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme <!-- TODO: Fallback translation -->
+Sanskrit kursunun dersleri, daha önce işlenmeyen Sanskrit dilbilgisi konularını ele alır.
+
+## 54.2. Kelime Yapımı: ⟪कृत्⟫ Soneki -u'nun Arzu Köklerine Eklenmesi
 
 ::: grammar-box
-**An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.** <!-- TODO: Fallback translation -->
+**Arzu köklerine (⟪इच्छाप्रकृति⟫) ("bir şeyi yapmak istemek"; "bir şey yapmaya hazır olmak") eyleyici isimler oluşturmak için -u soneki eklenir.**
 
-(Bildung der Desiderativstämme folgt später) <!-- TODO: Fallback translation -->
+(Arzu köklerinin oluşturulması daha sonra ele alınacaktır)
 
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 
 :::
 ::: indent
-⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen" <!-- TODO: Fallback translation -->
+⟪युयुत्सु⟫ (yu-yudh + s + u) "savaşmaya hevesli, savaşmaya hazır"
 :::
 ::: media
 ![](/images/lekt5402.webp)
-Abb.: ⟪अयुयुत्सुरर्जुनः⟫
-⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Bildquelle: [Details](/licenses#lekt5402)) <!-- TODO: Fallback translation -->
+Resim: ⟪अयुयुत्सुरर्जुनः भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt5402))
 :::
-## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫ <!-- TODO: Fallback translation -->
+## 54.3. Metrik II: Epik ⟪त्रिष्टुभ्⟫ ve ⟪जगती⟫
 
 ::: grammar-box
-Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren. <!-- TODO: Fallback translation -->
+⟪त्रिष्टुभ्⟫ ("Üç-Yağmur"), epik şiirlerde, genellikle ⟪श्लोक⟫ bölümleri arasında, ruh hali veya eylemin özel bir yükseliş veya kapanış yaşadığı noktalarda ortaya çıkar.
 
-Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden. <!-- TODO: Fallback translation -->
+⟪त्रिष्टुभ्⟫-kıtası, yapı bakımından birbirinden farklılaşmayan dört on bir heceli ⟪पाद⟫'den oluşur.
 
-Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des ⟪पाद⟫ steht. <!-- TODO: Fallback translation -->
+⟪त्रिष्टुभ्⟫, kesme noktası (kelime sonu, kompozisyon sınırı veya -tara, -tama gibi belirli eklerden önce) ⟪पाद⟫'in 4. veya 5. hecesinden sonra geldiğine bağlı olarak iki temel şemaya sahiptir.
 
-Schema I: <!-- TODO: Fallback translation -->
+Şema I:
 
 :::
 ::: metrik-schema
-× — × — / × ◡ — **— ◡ — —** <!-- TODO: Fallback translation -->
+× — × — / × ◡ — **— ◡ — —**
 :::
-Schema II: <!-- TODO: Fallback translation -->
+Şema II:
 
 ::: metrik-schema
-× — × — × / × ◡ **— ◡ — —** <!-- TODO: Fallback translation -->
+× — × — × / × ◡ **— ◡ — —**
 :::
-Die Quantität der vier letzten Silben ist also in beiden Schemata gleich. <!-- TODO: Fallback translation -->
+Dolayısıyla son dört hecenin miktarı her iki şemada da aynıdır.
 
-⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten: <!-- TODO: Fallback translation -->
+⟪जगती⟫-temel form: ⟪त्रिष्टुभ्⟫'de olduğu gibi, ancak 12 heceli. Her Pada'nın son 5 hecesi aşağıdaki miktarları vurgular:
 
 ::: metrik-schema
-**— ◡ — ◡ —** <!-- TODO: Fallback translation -->
+**— ◡ — ◡ —**
 :::
-Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied: <!-- TODO: Fallback translation -->
+Bunun yanı sıra, beş heceli baş parçaya sahip olan ve dört heceli baş parçalı bir ⟪त्रिष्टुभ्⟫ gibi devam eden tipik fazla ⟪त्रिष्टुभ्⟫ da vardır:
 
 ::: metrik-schema
-— × — × / × ◡ — **— ◡ — —** <!-- TODO: Fallback translation -->
+— × — × / × ◡ — **— ◡ — —**
 :::
-In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind: <!-- TODO: Fallback translation -->
+Daha sonraki dönemlerde ⟪त्रिष्टुभ्⟫ formları, uzun ve kısa seslerin sıkı bir şemasına göre belirlenir; kesme noktasının artık önemi yoktur. Önemli sonraki formlar şunlardır:
 
-a) ⟪इन्द्रवज्रा⟫ <!-- TODO: Fallback translation -->
+a) ⟪इन्द्रवज्रा⟫
 
 ::: metrik-schema
-**—** — ◡ — , — ◡ ◡ — ◡ — — <!-- TODO: Fallback translation -->
+**—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
-b) ⟪उपेन्द्रवज्रा⟫ <!-- TODO: Fallback translation -->
+b) ⟪उपेन्द्रवज्रा⟫
 
 ::: metrik-schema
-**◡** — ◡ — , — ◡ ◡ — ◡ — — <!-- TODO: Fallback translation -->
+**◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
-c) ⟪उपजाति⟫ <!-- TODO: Fallback translation -->
+c) ⟪उपजाति⟫
 
 ::: indent
-⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt. <!-- TODO: Fallback translation -->
+⟪पाद⟫ ⟪इन्द्रवज्रा⟫ içinde ve ⟪पाद⟫ ⟪उपेन्द्रवज्रा⟫ içinde karıştırılmış bir kıtadır.
 :::
 ::: grammar-box
-**Merkverse:** <!-- TODO: Fallback translation -->
+**Ezber kıtaları:**
 
-**⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫** <!-- TODO: Fallback translation -->
+**⟪स्यादिन्द्रवज्रा यदि तौ जगौ गः ।⟫**
 
 :::
 ::: indent
-"Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind. <!-- TODO: Fallback translation -->
+"Tüm Pada'lardaki heceler ta ta ja ga ga ise bu bir Indravājrā'dır.
 :::
-⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪उपेन्द्रवज्रा प्रथमे लघौ सा ।⟫
 
 ::: indent
-"Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat" <!-- TODO: Fallback translation -->
+"Bir Upendravajrā, başında hafif bir hece bulunan bir Indravajrā'ya benzer."
 :::
-⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
-⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
-⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
-⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪अनन्तरोदीरितलक्ष्मभाजौ पदौ यदीयावुपजातयस्ताः । इत्थं किलान्यास्वपिमिश्रितासु वदन्ति जातिष्विदमिदमेवनाम ॥⟫
 
 ::: indent
-"Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti." <!-- TODO: Fallback translation -->
+"Bir şiirde, Indravajrā veya Upendravajrā'nın özelliklerine sahip iki Pāda bulunduğunda, bunlar Upajāti olarak adlandırılır. Başka metrik yapıların da bir şiirde karıştırılması Upajāti olarak adlandırılır."
 :::
-## 54.4. Übung zur Metrik <!-- TODO: Fallback translation -->
+## 54.4. Metrik Alıştırması
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs. <!-- TODO: Fallback translation -->
+Bhagavadgītā II'deki Triṣṭubh ve Jagatī'leri belirleyin.
 
-Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28 <!-- TODO: Fallback translation -->
+Bir okuma örneği: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Erişim tarihi: 28.01.2009
 
-## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫) <!-- TODO: Fallback translation -->
+## 54.5. Aorist Oluşturma Türleri (⟪लुङ्⟫)
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.** <!-- TODO: Fallback translation -->
+**Aorist'in (⟪लुङ्⟫) tüm oluşturma türlerinde, Imperfekt'te (⟪लङ्⟫) olduğu gibi aynı kurallara göre öne eklenen Augment a- ortak özelliktir.**
 
-Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich. <!-- TODO: Fallback translation -->
+Sanskrit'te Aorist için yalnızca İndikativ ve Prekativ kullanılır.
 :::
 ::: grammar-box
-**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):** <!-- TODO: Fallback translation -->
+**Aşağıdaki Aorist oluşturma türleri vardır (⟪लुङ्⟫):**
 
-1.  Nichtsibilantische (asigmatische) Aoriste:  <!-- TODO: Fallback translation -->
-    *   54.1. Wurzelaorist: Augment + Wurzel + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.2. Themavokalischer Aorist: Augment + Wurzel + **a** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Wurzel + **a** + Sekundärendung  <!-- TODO: Fallback translation -->
-2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung  <!-- TODO: Fallback translation -->
-    *   54.4. -s-Aorist: Augment + Wurzel + **s** \+ Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.5. -iṣ-Aorist: Augment + Wurzel + **i** + **ṣ** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.6. -siṣ-Aorist: Augment + Wurzel + **siṣ** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.7. -sa-Aorist: Augment + Wurzel + **s** + **a** + Sekundärendung <!-- TODO: Fallback translation -->
+1. Sessiz harfli olmayan (asigmatic) Aoristler:
+*   54.1. Kök Aoristi: Augment + Kök + İkincil Sonluk
+*   54.2. Tema Sesli Aorist: Augment + Kök + **a** + İkincil Sonluk
+*   54.3. Reduplike Aorist: Augment + **reduplike** Kök + **a** + İkincil Sonluk
+2. Sessiz harfli (sigmatic) Aoristler: s veya s (ṣ) içeren bir hece, kişisel sonluktan önce gelir
+*   54.4. -s-Aorist: Augment + Kök + **s** \+ İkincil Sonluk
+*   54.5. -iṣ-Aorist: Augment + Kök + **i** + **ṣ** + İkincil Sonluk
+*   54.6. -siṣ-Aorist: Augment + Kök + **siṣ** + İkincil Sonluk
+*   54.7. -sa-Aorist: Augment + Kök + **s** + **a** + İkincil Sonluk
 
-Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen <!-- TODO: Fallback translation -->
+Köklerin tekil yapı tiplerine dağılımı için bkz. ilgili türler
 :::
-## 54.6. Wurzelaorist <!-- TODO: Fallback translation -->
+## 54.6. Kök Aorist
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Yapılışı:**
 
-**Augment + Wurzel + Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + Kök + İkincil Sonek**
 :::
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich. <!-- TODO: Fallback translation -->
+3.kş.pl. soneki -ur'dir. Ātmanepada kullanımda değildir.
 
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 
-⟪पा⟫ 1P "trinken" <!-- TODO: Fallback translation -->
+⟪पा⟫ 1P "içmek"
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ | <!-- TODO: Fallback translation -->
-| 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ | <!-- TODO: Fallback translation -->
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- |
+| 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
+| 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Güçlü Aşama!) |
 :::
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet: <!-- TODO: Fallback translation -->
+Sadece 12 kökten Kök Aorist türetilir:
 
-1.  ⟪गा⟫ 3 "gehen" <!-- TODO: Fallback translation -->
-2.  ⟪घ्रा⟫ 1P "riechen" <!-- TODO: Fallback translation -->
-3.  ⟪छो⟫ 6 "schneiden" (⟪अच्छात्⟫) <!-- TODO: Fallback translation -->
-4.  ⟪दा⟫ 3U "geben" <!-- TODO: Fallback translation -->
-5.  ⟪दो⟫  1, 4 "schneiden" <!-- TODO: Fallback translation -->
-6.  ⟪धा⟫ 3U "setzen" <!-- TODO: Fallback translation -->
-7.  ⟪धे⟫ 1 "saugen" (⟪अधात्⟫) <!-- TODO: Fallback translation -->
-8.  ⟪पा⟫ 1P "trinken" <!-- TODO: Fallback translation -->
-9.  ⟪शो⟫ 4P "schärfen" <!-- TODO: Fallback translation -->
-10.  ⟪सो⟫ "beendigen" <!-- TODO: Fallback translation -->
-11.  ⟪स्था⟫ 1P "stehen" <!-- TODO: Fallback translation -->
-12.  ⟪भू⟫ 1P "sein <!-- TODO: Fallback translation -->
+1.  ⟪गा⟫ 3 "gitmek"
+2.  ⟪घ्रा⟫ 1P "koku almak"
+3.  ⟪छो⟫ 6 "kesmek" (⟪अच्छात्⟫)
+4.  ⟪दा⟫ 3U "vermek"
+5.  ⟪दो⟫  1, 4 "kesmek"
+6.  ⟪धा⟫ 3U "oturtmak"
+7.  ⟪धे⟫ 1 "emmek" (⟪अधात्⟫)
+8.  ⟪पा⟫ 1P "içmek"
+9.  ⟪शो⟫ 4P "keskinleştirmek"
+10. ⟪सो⟫ "tamamlamak"
+11. ⟪स्था⟫ 1P "durmak"
+12. ⟪भू⟫ 1P "olmak"
 
-Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet: <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P için Kök Aorist şu şekilde oluşturulur:
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) |
 :::
-### 54.6.1. Der Aorist der 3.sg.Passiv <!-- TODO: Fallback translation -->
+### 54.6.1. 3.kş.Geçişli Aorist
 
-Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden. <!-- TODO: Fallback translation -->
+Kök Aoristin özel bir formu 3.kş.Geçişli Aorist'tir. Bu, tüm köklerden türetilebilir.
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Yapılışı:**
 
-**Augment + Wurzel + i** <!-- TODO: Fallback translation -->
+**Augment + Kök + i**
 
-**Die Wurzel hat folgende Gestalt:** <!-- TODO: Fallback translation -->
+**Kök şu şekildedir:**
 
-Hochstufe: <!-- TODO: Fallback translation -->
+Güçlü Aşama:
 
-*   Wurzeln mit kurzem Vokal (ausser a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am   <!-- TODO: Fallback translation -->
-    Beispiele:  
+*   Kısa ünlü ile başlayan (a hariç) basit bir ünsüzden önce ve ⟪जन्⟫ ile -am ile biten çoğu kök
+Örnekler:  
+⟪भिद्⟫ 7U: ⟪अभेदि⟫ "o bölündü"  
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ "o itildi"
+
+Uzama aşaması:
+
+*   Uçta sesli harf içeren kökler  
+Örnekler:  
+⟪नी⟫ 1U: ⟪अनायि⟫ "yönlendirildi"  
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "övüldü"  
+⟪कृ⟫ 8U: ⟪अकारि⟫ "yapıldı"  
+
+
+*   Basit bir ünsüzden önce a içeren kökler (⟪जन्⟫ ve -am ile bitenler hariç)  
+Örnek:  
+⟪वद्⟫ 1P: ⟪अवादि⟫ "söylendi"  
+ancak:  
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ "doğdu"  
+
+
+*   Bazı -am ile biten kökler  
+Örnek:  
+⟪गम् अगामि⟫
+
+
+Ekten önce y ekleme:
+
+*   -ā, -e, -ai, -o ile biten kökler, kökün -ā'sı ile ek arasına bir y yerleştirir:  
+Örnek:  
+⟪दा⟫ 3U: ⟪अदायि⟫ "verildi"
+
+
+Nazal enfix:
+
+*   Bazı kökler bir nazal enfix içerir:  
+Örnek:  
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ yanında ⟪अलाभि⟫ : "alındı"
+
+
+(Passivin diğer formları Aorist'te Ātmanepada formlarıyla karşılanır).
 :::
-::: indent
-⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"
-⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestossen" <!-- TODO: Fallback translation -->
-:::
+## 54.7. Alıştırma
 
-Dehnstufe: <!-- TODO: Fallback translation -->
+Aşağıdaki formları yazılı olarak çevirin ve ilgili Aorist formlarını oluşturun:
 
-*   Wurzeln mit auslautendem Vokal   <!-- TODO: Fallback translation -->
-    Beispiele:  
-::: indent
-⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"
-⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"
-⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"   <!-- TODO: Fallback translation -->
-:::
-
-*   Wurzeln mit a vor einfachem Konsonanten (ausser ⟪जन्⟫ und Wurzeln auf -am)   <!-- TODO: Fallback translation -->
-    Beispiel:  
-::: indent
-⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"
-aber:
-⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"   <!-- TODO: Fallback translation -->
-:::
-
-*   einige Wurzeln auf -am   <!-- TODO: Fallback translation -->
-    Beispiel:  
-::: indent
-⟪गम्⟫ ⟪अगामि⟫ <!-- TODO: Fallback translation -->
-:::
-
-Einschub von y vor Endung: <!-- TODO: Fallback translation -->
-
-*   Wurzeln auf -ā, -e, -ai, -o schieben zwischen das -ā der Wurzel und die Endung ein y ein:   <!-- TODO: Fallback translation -->
-    Beispiel:  
-::: indent
-⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben" <!-- TODO: Fallback translation -->
-:::
-
-Nasalinfix: <!-- TODO: Fallback translation -->
-
-*   einige Wurzeln haben ein Nasalinfix:   <!-- TODO: Fallback translation -->
-    Beispiel:  
-::: indent
-⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen" <!-- TODO: Fallback translation -->
-:::
-
-(Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben). <!-- TODO: Fallback translation -->
-## 54.7. Übung <!-- TODO: Fallback translation -->
-
-Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen: <!-- TODO: Fallback translation -->
-
-1.  ⟪यन्ति⟫ <!-- TODO: Fallback translation -->
-2.  ⟪पिबामि⟫ <!-- TODO: Fallback translation -->
-3.  ⟪ददौ⟫ <!-- TODO: Fallback translation -->
-4.  ⟪बभूव⟫ <!-- TODO: Fallback translation -->
-5.  ⟪दधति⟫ <!-- TODO: Fallback translation -->
-6.  ⟪ऐम⟫ <!-- TODO: Fallback translation -->
-7.  ⟪पपिथ⟫ <!-- TODO: Fallback translation -->
-8.  ⟪तिष्ठति⟫ <!-- TODO: Fallback translation -->
-9.  ⟪इयेथ⟫ <!-- TODO: Fallback translation -->
-10.  ⟪पप⟫ <!-- TODO: Fallback translation -->
-11.  ⟪एष्यथ⟫ <!-- TODO: Fallback translation -->
-12.  ⟪तस्थुः⟫ <!-- TODO: Fallback translation -->
-13.  ⟪अधत्त⟫ <!-- TODO: Fallback translation -->
-14.  ⟪अददाः⟫ <!-- TODO: Fallback translation -->
-15.  ⟪अभवन्⟫ <!-- TODO: Fallback translation -->
-16.  ⟪ददिम⟫ <!-- TODO: Fallback translation -->
-17.  ⟪भिद्यते⟫ <!-- TODO: Fallback translation -->
-18.  ⟪उद्यते⟫ <!-- TODO: Fallback translation -->
-19.  ⟪स्तूयते⟫ <!-- TODO: Fallback translation -->
-20.  ⟪कृष्यते⟫ <!-- TODO: Fallback translation -->
-21.  ⟪जायते⟫ (Pass.) <!-- TODO: Fallback translation -->
-22.  ⟪गीयते⟫ <!-- TODO: Fallback translation -->
-23.  ⟪गम्यते⟫ <!-- TODO: Fallback translation -->
+1.  ⟪यन्ति⟫
+2.  ⟪पिबामि⟫
+3.  ⟪ददौ⟫
+4.  ⟪बभूव⟫
+5.  ⟪दधति⟫
+6.  ⟪ऐम⟫
+7.  ⟪पपिथ⟫
+8.  ⟪तिष्ठति⟫
+9.  ⟪इयेथ⟫
+10.  ⟪पप⟫
+11.  ⟪एष्यथ⟫
+12.  ⟪तस्थुः⟫
+13.  ⟪अधत्त⟫
+14.  ⟪अददाः⟫
+15.  ⟪अभवन्⟫
+16.  ⟪ददिम⟫
+17.  ⟪भिद्यते⟫
+18.  ⟪उद्यते⟫
+19.  ⟪स्तूयते⟫
+20.  ⟪कृष्यते⟫
+21.  ⟪जायते⟫ (Pass.)
+22.  ⟪गीयते⟫
+23.  ⟪गम्यते⟫
 
 ::: media
 ![](/images/lekt5401.webp)
-Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
+Resim: ⟪त्रिचक्रेणेश्वरः स्तूयते⟫
 Tamil Nadu
-(Bildquelle: [Details](/licenses#lekt5401)) <!-- TODO: Fallback translation -->
-:::
-
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Bildquelle: Raji Srinivas / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5401:** Tamil Nadu [Bildquelle: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Zugriff am 2009-01-28. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, shre alike)] <!-- TODO: Fallback translation -->
-
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt5401))
 :::
 

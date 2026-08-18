@@ -9,14 +9,6 @@ status: stable
 
 # Lectio 10
 
-::: deleteme-box
-**In hac lectione discetis:**
-- Sententiam passivam (Instrumentalis agentis)
-- Declinationem Instrumentalis (tṛtīyā)
-- Legem cerebrale pro -n- (Sandhi verborum)
-- Formationem passivi (yak) in Indicativo Praesenti
-- Vocabulum ad sacrificium, veritatem, et roles sociales
-:::
 ## 10.1. Sententia passiva
 
 ::: grammar-box
@@ -54,7 +46,7 @@ Constructiones passivae Sanscriticae valde frequentes sunt: passivum enim facili
 **Propositiones Sanscriticae passivae in lingua Germanica, in genere, per propositionem passivam reddi non possunt, quia passivum Germanicum functionem stilisticam omnino aliam habet.**
 :::
 
-## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung") <!-- TODO: Fallback translation -->
+## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
 
 ::: grammar-box
 **Des instrumentalis (tṛtīyā) terminations regulares:**
@@ -103,9 +95,6 @@ Constructiones passivae Sanscriticae valde frequentes sunt: passivum enim facili
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-Praeter Nominativum et Accusativum, formae Neutrorum in -a, interrogativi pronominis et demonstrativorum, cum formis masculini correspondentis identicae sunt.
-:::
 
 ### 10.2.1. De usu Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
 
@@ -154,7 +143,7 @@ Aliae usus ablativi instrumentalís (tṛtīyā) sequentur postea.
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das Passivum, Indikativ Präsens (yak = ⟪यक्⟫) <!-- TODO: Fallback translation -->
+## 10.4. Das Passivum, Indikativ Präsens (yak = ⟪यक्⟫)
 
 ::: grammar-box
 **Formatio:**
@@ -200,7 +189,7 @@ e.g.
    | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
    | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-Nomen traditionale indigenum pro hac formatione gradus profundi in verbis cum **ya** sive **va** est **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫). <!-- TODO: Fallback translation -->
+Nomen traditionale indigenum pro hac formatione gradus profundi in verbis cum **ya** sive **va** est **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ finale** post unicum consonanten ante suffixum passivum **-ya-** per **-ri-** mutatur:
 * **kṛ** 8 U: **kriyate**, **kriyante**
@@ -216,7 +205,7 @@ z.B. **tan** 8 U.
 * **tan-ya-te**, **tan-ya-nte**
 ⟪तन्यते⟫, ⟪तन्यन्ते⟫
 * **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte) <!-- TODO: Fallback translation -->
+⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
 
 ## 10.5. Vocabularium
 

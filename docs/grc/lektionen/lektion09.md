@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # Μάθημα θʹ
 
-::: deleteme-box
-**Ἐν τῇ μαθήσει ταύτᾳ μανθάνετε:**
-- Τὸ Σαμάχαρδβαντβα ("Συναγωγικὸν δβαντβα")
-- Ἡ σύνταξις τῶν ὀνοματικοπρεπεστῆων μετὰ τῶν καταλήξεων **-κα** (ταδδιθα) καὶ **-ακα** (κρῖτ)
-- Λεξιλόγιον περὶ ἐπαγγελιῶν καὶ κοινωνικῶν ρόλων
-- Ἀποφθέγματα ἐκ τῶν κλασικῶν νομοθετικῶν κειμένων (Δάρμασαστρά)
-:::
 
 ## 9.1. Σαμαχαραδβανδβα (⟪समाहारद्वन्द्व⟫ = "Συνοπτικὸν δβανδβα")
 
@@ -63,7 +56,7 @@ last_reconstructed: 2026-05-07
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" | <!-- TODO: Fallback translation -->
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
 ::: grammar-box
 **Τινὲς τῶν σχημάτων ταύτων ἔχει τὴν ἐγγυτέραν σημασίαν: «τὸ διὰ τῆς ῥίζης ἐκφραζόμενον συνήθως ἢ ὡς καθῆκον ἢ καλῶς ἐνεργούμενον».**
@@ -76,7 +69,7 @@ last_reconstructed: 2026-05-07
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" | <!-- TODO: Fallback translation -->
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" |
 
 Παρὰ ταῦτα δέ ἐστιν ἔτι τινὲς ὀλιγώτερον σημαντικαὶ χρήσεις τοῦ καταλήξεως **-aka**. Σύγκρ. Wackernagel, Altindische Grammatik, II, §45ff.
 
@@ -149,7 +142,7 @@ last_reconstructed: 2026-05-07
 1. Ἔργα πάντων τῶν δὶς γεγενημένων:
    **ijyādhyayanadānāni**
 ⟪इज्याध्ययनदानानि⟫
-(Yājñavalkyadharmaśāstra I, 118) <!-- TODO: Fallback translation -->
+(Yājñavalkyadharmaśāstra I, 118)
 
 2. Ειδικὰ καθήκοντα βραχμάνου:
    **pravacanayājanapratigrahāḥ**

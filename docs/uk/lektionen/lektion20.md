@@ -565,26 +565,4 @@ B) Перекладіть, використовуючи складні слов�
 
 Пояснення: ⟪इच्छताम्⟫ = родовий відмінок, множина, дієприкметник теперішнього часу від дієслова ⟪इष्⟫ : той, що бажає
 :::
-::: deleteme-box
-
-**lekt2001:** Сіамреап (ក្រុងសៀមរាប), Камбоджа, 9 ст. н.е. [Джерело зображення: Вікіпедія, суспільне надбання]
-
-**lekt2002:** [Джерело зображення: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926] &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt2003:** Санчі = ⟪सांची⟫ [Джерело зображення: Вікіпедія, суспільне надбання]
-
-**lekt2004:** Джодхпур = ⟪जोधपुर⟫ [Джерело зображення: Джаред Зіммърман. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Доступ від 2008-12-11. -- Ліцензія Creative Commons (Attribution, NonCommercial, NoDerivs)]
-
-**lekt2005:** Ісус та інші боги, Ахмедабад [Джерело зображення: від ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Доступ від 2008-12-11. -- Ліцензія Creative Commons (Attribution, NonCommercial, NoDerivs)] &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt2006:** Мадх'я-Прадеш [Джерело зображення: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Доступ від 2008-12-11. -- Ліцензія Creative Commons (Attribution, NonCommercial, NoDerivs)]
-
-**lekt2007:** Ченнай = சென்னை [Джерело зображення: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Доступ від 2008-12-11. -- Ліцензія Creative Commons (Attribution, NonCommercial, NoDerivs)]
-
-**lekt2008:** Рішікеш = ⟪ऋषिकेश⟫. "Це насправді частина ашраму в Рішікеші, де зупинялися Бітлз. Ця конкретна частина не існувала в той час, коли вони були там, але виглядає досить круто." [Джерело зображення: від ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Доступ від 2008-12-11. -- Ліцензія Creative Commons (Attribution)]
-
-**lekt2009:** Карнатака [Джерело зображення: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Доступ від 2008-12-11. -- Ліцензія Creative Commons (Attribution, NonCommercial)]
-
-**lekt2010:** Будда як аскет перед своїм визвольним прозрінням, Гандхара, 2./3 ст. н.е. [Джерело зображення: Вікіпедія, GNU FDLicense]
-:::
 

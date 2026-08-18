@@ -73,9 +73,9 @@ last_reconstructed: 2026-05-15
 ⟨ساختار ۳⟩
 ⟨ساختار ۴⟩
 
-## Übersetzungen ins Sanskrit <!-- TODO: Fallback translation -->
+## Übersetzungen ins Sanskrit
 
-B) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie ins Sanskrit:
 
 ⟪१⟫. **⟪कस्माद्गुरौ⟫ ⟪तिष्ठति⟫ ⟪सीदथ⟫ ⟪।⟫** (یا: **... ⟪आध्वे⟫ ⟪।⟫**)
 چرا شما نشسته‌اید، در حالی که معلم ایستاده است؟
@@ -93,7 +93,7 @@ B) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
 آیا می‌خواهید این میوه‌ها را بفروشید؟
 
 ⟪६⟫. **⟪किमाज्ञापयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Was hast du befohlen? <!-- TODO: Fallback translation -->
+Was hast du befohlen?
 
 ⟪७⟫. **⟪कदा⟫ ⟪काश्यामवर्तथाः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 شما در بنارس چه زمانی اقامت داشتید؟
@@ -114,7 +114,7 @@ Was hast du befohlen? <!-- TODO: Fallback translation -->
 :::
 ---
 
-## Gespräch (⟪संवादः⟫) <!-- TODO: Fallback translation -->
+## Gespräch (⟪संवादः⟫)
 
 | ⟪पात्रम्⟫ / ⟪संवादः⟫ | Übersetzung |
 | :--- | :--- |
@@ -141,7 +141,7 @@ Was hast du befohlen? <!-- TODO: Fallback translation -->
 | **⟪अशोकः⟫ : (⟪मनसि⟫ ⟪किंचिद्विचार्याणकचतुष्टयं⟫ ⟪च⟫ ⟪तस्य⟫ ⟪पुरत⟫ ⟪उपस्थाप्य⟫) ⟪भो⟫ ⟪श्रेष्ठिन्गृहाण⟫ ⟪मूल्यम्⟫ ⟪।⟫ ⟪मया⟫ ⟪हि⟫ ⟪शीघ्रं⟫ ⟪गृहं⟫ ⟪गन्तव्यम्⟫ ⟪॥⟫** | Aśoka: (überlegt kurz und legt ihm vier Anna hin): Herr Kaufmann, hier ist der Preis. Ich muss nämlich eilig nach Hause. |
 | **⟪वणिक्⟫ : ⟪रे⟫ ⟪बालक⟫ ⟪।⟫ ⟪एह्येहि⟫ ⟪शृणु⟫ ⟪तावत्⟫ ⟪।⟫ ⟪अल्पमेव⟫ ⟪मूल्यं⟫ ⟪दत्त्वा⟫ ⟪क्व⟫ ⟪व्रजसि⟫ ⟪।⟫ ⟪आणकचतुष्टयमन्यदपि⟫ ⟪देहि⟫ ⟪॥⟫** | Händler: He, Junge! Komm zurück! Hör mal! Wohin gehst du, nachdem du nur so wenig bezahlt hast? Gib mir die restlichen vier Anna! |
 | **⟪अशोकः⟫ : ⟪श्रेष्ठिन्⟫ ⟪।⟫ ⟪किमनेन⟫ ⟪।⟫ ⟪अकिंचित्करमेतत्⟫ ⟪।⟫ ⟪नाणकगणनाक्लेशस्ते⟫ ⟪ऽल्पीयान्भविष्यति⟫ ⟪॥⟫** | Aśoka: Kaufmann! Was macht das schon? Es ist bedeutungslos. So hast du weniger Mühe beim Zählen der Münzen! |
-| **(⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫)** | (Spricht's und rennt eilig davon.) | <!-- TODO: Fallback translation -->
+| **(⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫)** | (Spricht's und rennt eilig davon.) |
 
 **(⟪विपणिस्थो⟫ ⟪वञ्चको⟫ ⟪वणिक्⟫ ⟪किमपि⟫ ⟪कर्तुमशक्नोत्केवलं⟫ ⟪तस्य⟫ ⟪मनसि⟫ ⟪पश्चात्ताप⟫ ⟪एवासीत्⟫ ⟪।⟫ ⟪अशोको⟫ ⟪गृहमागत्य⟫ ⟪सर्वमपीतिवृत्तमकथयत्⟫ ⟪।⟫ ⟪तत्रस्था⟫ ⟪सर्वे⟫ ⟪ऽपि⟫ ⟪बान्धवा⟫ ⟪मित्राणि⟫ ⟪च⟫ ⟪परमानन्दं⟫ ⟪प्रापुः⟫ ⟪।⟫ ⟪इत्थं⟫ ⟪जन्मोत्सवः⟫ ⟪सानन्दं⟫ ⟪समाप्तिं⟫ ⟪यातः⟫ ⟪॥⟫)**
 

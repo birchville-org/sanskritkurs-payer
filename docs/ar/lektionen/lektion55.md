@@ -39,7 +39,7 @@ status: stable
 التشكيلات غير المنتظمة:
 
 ::: indent
-⟪अस्⟫ 4P "يُلقِي": ***:sig[⟪आस्थम्⟫]، :sig[⟪आस्थत्⟫]*** (انظر الشرح في thumb-Hauschild §541,4) <!-- TODO: Fallback translation -->
+⟪अस्⟫ 4P "يُلقِي": ***:sig[⟪आस्थम्⟫]، :sig[⟪आस्थत्⟫]*** (انظر الشرح في thumb-Hauschild §541,4)
 
 ⟪ख्या⟫ + ⟪आ⟫ 2P "يروي": ***:sig[⟪अख्यम्⟫]، :sig[⟪अख्यत्⟫]***
 
@@ -94,8 +94,3 @@ status: stable
 (مصدر الصورة: [تفاصيل](/ar/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** 'إنایات خان على فراش الموت، مخطط لتوضيح مصغر لمخطوطة لجاھانگیر = جهانگير، حوالي 1618 [مصدر الصورة: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- تم الوصول إليه في 2009-01-28. ملكية عامة]
-
-:::

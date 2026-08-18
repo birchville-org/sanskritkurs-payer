@@ -5,11 +5,11 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Leçon 24
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") <!-- TODO: Fallback translation -->
+## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
 
 ::: grammar-box
 **1. Pour rendre le but ou l'intention ("afin de") d'une action, on peut, au lieu de l'infinitif (⟪तुमुन्⟫), utiliser un nom avec un suffixe kṛt, qui désigne une action ou un état, au datif (⟪चतुर्थी⟫ = "quatrième terminaison casuelle").**
@@ -405,27 +405,3 @@ Il suffit d’un fruit pour manger et d’eau pour boire.
 
 15⟪१५⟫. Au revoir ! (Sanskrit moderne : ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] est un événement hindou traditionnel qui a lieu lors des célébrations du Nouvel An hindou dans tous les mandirs BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Des centaines de plats végétariens sont offerts à Bhagwan Swaminarayan [સ્વામિનારાયણ] ce jour-là. [Source de l’image : chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Consulté le 14-12-2008. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale)]
-
-**lekt2402:** Raksha bandhan est célébré avec ferveur et joie dans toute l’Inde. Ce festival incarne l’amour inconditionnel entre frères et sœurs. [Source de l’image : yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Consulté le 14-12-2008. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, partage à l’identique)]
-
-**lekt2403:** "Rama (à droite) assis sur les épaules de Hanuman, combat le roi-démon Ravana." vers 1820 [Source de l’image : Wikipédia, Domaine public]
-
-**lekt2404:** [Source de l’image : sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Consulté le 14-12-2008. -- Licence Creative Commons (Attribution, pas de modification)]
-
-**lekt2405:** [Source de l’image : sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Consulté le 14-12-2008. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, pas de modification)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Source de l’image : thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Consulté le 14-12-2008. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale)]
-
-**lekt2407 :** « NOUVEAU-DÉLI/INDE, 16NOV08 - Suhasini Haidar, rédactrice en sous-directrice des affaires étrangères, réseau CNN-IBN 18, Inde, modère une table ronde lors du Sommet économique de l'Inde 2008 du Forum économique mondial à New Delhi. » [Source de l'image : Forum économique mondial / Photo de Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Consulté le 2008-12-14. -- Licence Creative Commons (Attribution, partage à l'identique)]
-
-**lekt2408 :** « Le conteur de San Francisco, Jeff Byers, partage une histoire avec les résidents de Chenneri, un village irula. Le conteur Jeeva Raghunath traduit en tamoul pour les villageois. » [Source de l'image : ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Consulté le 2008-12-14. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale)]
-
-**lekt2409 :** [Source de l'image : Redtigerxyz / Wikipédia, licence GNU FDL]
-
-**lekt2410 :** ⟪नरसिंह⟫ déchiquette ⟪हिरण्यकशिपु⟫, page d'un manuscrit du ⟪भागवतपुराण⟫ [Source de l'image : Wikipédia, domaine public]
-
-**lekt2411 :** Manuscrit du ⟪गीतगोविन्द⟫, 1730 après J.-C. [Source de l'image : Wikipédia, domaine public]
-:::

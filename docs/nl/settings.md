@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: Instellingen
+title: "Instellingen"
+
 ---
 
 <ClientOnly>

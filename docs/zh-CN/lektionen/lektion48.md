@@ -380,23 +380,3 @@ sig[⟪द्वयोर्हि⟩] :sig[⟪कुलयोः⟩] ⟪शो�
 解释：  
 ⟪द्वयोर्हि कुलयोः⟫ ：属格（⟪षष्ठी⟫）双数形式，对应 ⟪द्वे कुले⟫ “两个家族”
 
-::: deleteme-box
-
-**lekt4801：** [图片来源：Gunnlaugur Þ. Briem。-- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
-
-**lekt4802：** Sualkuchi = সুৱালকুচি，Assam = অসম [图片来源：Ken McChesney。-- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
-
-**lekt4803：** 西塔尔琴演奏者 = ⟪सितारवादकः⟫ [图片来源：维基百科。公有领域]
-
-**lekt4804：** [自助小组（SHG）](http://en.wikipedia.org/wiki/Self-help_group_\(finance\))，泰米尔纳德邦 = தமிழ்நாடு [图片来源：mckaysavage。-- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by/nc/2.0/deed.de)（署名，非商业性使用）]
-
-**lekt4805：** 泰普萨姆节 = தைப்பூசம்，巴图洞，马来西亚 [图片来源：tajai。-- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de)（署名）]
-
-**lekt4806:** ⟪नेपाल⟫ [图片来源：changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt4807:** ⟪जोधपुर⟫ [图片来源：zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt4808:** Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [图片来源：Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-sa/2.0/deed.de)（署名，相同方式共享）]
-
-**lekt4809:** （图片：Payer）
-:::

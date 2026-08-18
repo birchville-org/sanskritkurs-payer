@@ -9,14 +9,6 @@ status: stable
 
 # Μάθημα αʹ2
 
-::: deleteme-box
-**Ἐν τούτῃ τῇ μαθήσει μανθάνετε:**
-- Τὸ μετοχὴ παρακειμένου παθητικοῦ (PPP)
-- Ἡ σημασία τοῦ PPP
-- Ἡ κατασκευὴ τοῦ PPP
-- Νόμοι φωνητικῆς συνθέσεως ἐν τῷ λόγῳ
-- Παθητικὸς καὶ PPP τῶν μέχρι τοῦ ἐδιδάχθησαν ῥιζῶν
-:::
 
 ## 12.1. Μετοχὴ παρακειμένου παθητικῆς φωνῆς (PPP)
 
@@ -86,7 +78,7 @@ status: stable
 Αἱ θηλυκὲς ῥίζαι λέγονται: **-tā**, **-itā**, **-nā**; τὸ οὐδέτερον κλίνεται ὡς **phala** n.
 :::
 
-### 12.3.1. PPP εἰς -ta (kta) <!-- TODO: Fallback translation -->
+### 12.3.1. PPP εἰς -ta (kta)
 
 #### 12.3.1.1. Ἄνευ φωνήεντος συνδετικοῦ -i- (aniṭ)
 
@@ -144,7 +136,7 @@ status: stable
 | **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
 | **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ## 12.5. Λεξιλόγιον
@@ -237,9 +229,9 @@ status: stable
 
 ## 12.6. Ἄσκησις
 
-**A) Formate aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.** <!-- TODO: Fallback translation -->
+**A) Formate aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.**
 
-**B) Formate die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.** <!-- TODO: Fallback translation -->
+**B) Formate die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
 
-**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.** <!-- TODO: Fallback translation -->
+**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.**
 

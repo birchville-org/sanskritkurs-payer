@@ -87,5 +87,5 @@ Pour celui qui n'est pas contrôlé (non-Yogin), il n'y a pas d'intelligence.
 ![](/images/uebung080.webp)
 Fig.: ⟪सक्तः⟫
 (Image source: [Details](/fr/licenses#uebung080))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

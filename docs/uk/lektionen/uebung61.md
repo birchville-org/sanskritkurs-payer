@@ -1,7 +1,8 @@
 ---
 title: "Вправа 61"
 uebung_id: 61
-category: "Вправа"
+category: "Übung"
+
 ---
 
 # Вправа 61

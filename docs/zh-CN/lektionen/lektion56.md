@@ -286,12 +286,3 @@ A) 请在不借助工具的情况下确定并翻译以下形式：
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** 教授，比较语言学，埃尔朗根-纽伦堡大学（1955 - 1983）[图片来源：[http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm)。-- 访问日期：2009-02-27]
-
-**lekt5602:** 海报（欧内斯特·切·格瓦拉）瓦拉奇拉（വാല്ലചിര），特里斯瑟（തൃശ്ശൂര്‍）的一个政党。“上面的文字粗略翻译如下：殉道对革命者来说是一种迷人的体验。而对懦夫而言，则是一种令人畏惧的退路。切不是胆小鬼的榜样。”[图片来源：Hari_Menon。-- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/)。-- 访问日期：2009-02-27。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
-
-**lekt5603:** [图片来源：世界银行 / 柯特·卡内马克。-- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/)。-- 访问日期：2009-02-27。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-:::

@@ -18,7 +18,7 @@ status: stable
 
 **weak stem:** see under the subtypes
 :::
-### 35.1.1. Parakheimenos type Ga': Ishyròn thema pléous/ekteinémēs bathmídos, ashenè thema mēdenikēs bathmídos <!-- TODO: Fallback translation -->
+### 35.1.1. Parakheimenos type Ga': Ishyròn thema pléous/ekteinémēs bathmídos, ashenè thema mēdenikēs bathmídos
 
 ::: grammar-box
 **Formation:**
@@ -84,7 +84,7 @@ status: stable
 
 | Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
 ## 35.3. Παρακείμενος τύπου Εʹ: Ῥίζαι Σύμφωνον-α-Σύμφωνον
 
@@ -142,7 +142,7 @@ status: stable
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ |
 
 ### 35.3.3. Παρακείμενος τύπου Εγʹ: Ῥίζαι Σύμφωνον-α-Σύμφωνον. Ἀσθενὲς θέμα πλήρους βαθμίδος
 
@@ -163,7 +163,7 @@ status: stable
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
 ## 35.4. Λεξιλόγιον
 
@@ -280,13 +280,3 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 Γ) Μετατρέψτε τις προτάσεις της άσκησης Β), αντικαθιστώντας τα παρακείμενα με αόριστα.
 
-::: deleteme-box
-
-**lekt3501:** Ναοί μουσικοί, Ναός Kaadu Malleswara, Μπανγκαλόρ. [Πηγή εικόνας: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** Ἄνθρωποι περιπατοῦντες, Σενεγάλη. [Πηγή εικόνας: Curt Carnemark / Παγκόσμιος Τράπεζα. CC BY-NC-ND]
-
-**lekt3503:** Ἀγορὰ ἐν Βαντασερί, Ταμίλ Ναάντ. [Πηγή εικόνας: kifo / Flickr. CC BY-SA]
-
-**lekt3504:** Ἱερὸν τελετὴ Yajña, ἀσράμ Σίβα, Γκενεσπούρι. [Πηγή εικόνας: Dey / Flickr. CC BY-NC-SA]
-:::

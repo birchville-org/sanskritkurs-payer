@@ -35,13 +35,13 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪।⟫ ⟪त्रयो⟫ ⟪वर्णाद्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (en bun Sanscrit: sāmargyajurvedās trayī) <!-- TODO: Fallback translation -->
+3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (en bun Sanscrit: sāmargyajurvedās trayī)
 
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫
 
 (en bun Sanscrit: ⟪सामर्ग्यजुर्वेदास्त्रयी⟫)
 
-Ils tres Veden èn: Sāmavaeda, Ṛgveda e Yajurveda. <!-- TODO: Fallback translation -->
+Ils tres Veden èn: Sāmavaeda, Ṛgveda e Yajurveda.
 
 sāmaveda ṛgvedo yajurvedaś ca trayī.
 
@@ -53,7 +53,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 Passiun, sdegno e aviditad.
 
-kāmaḥ krodho lobhaś ca. <!-- TODO: Fallback translation -->
+kāmaḥ krodho lobhaś ca.
 
 ⟪कामः⟫ ⟪क्रोधो⟫ ⟪लोभश्च⟫ ⟪।⟫
 
@@ -81,7 +81,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Suenter Kauṭilīya-arthaśāstra 1.2.1.) <!-- TODO: Fallback translation -->
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Suenter Kauṭilīya-arthaśāstra 1.2.1.)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫
 
@@ -96,9 +96,9 @@ Scienzas èn filosofia, vedistica, economia e politica.
 Fig.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (fonta dal maletg: [detagls](/licenses#uebung010))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Esergiz da repetiziun lecziun 5 <!-- TODO: Fallback translation -->
+## Esergiz da repetiziun lecziun 5
 
 A) Traduscha:
 

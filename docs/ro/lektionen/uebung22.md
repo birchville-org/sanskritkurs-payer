@@ -92,7 +92,7 @@ Dacă a făcut fapte meritorii și a vorbit doar adevărul, un om nu ajunge în 
 Fig.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung034))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Construcții la pasiv
 

@@ -5,17 +5,10 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 5
 
-::: deleteme-box
-**În această lecție veți învăța:**
-- Bazele compuselor nominale (samāsa)
-- Terminologia de specialitate pentru compuse
-- Compuse copulative (Dvandva)
-- Ordinea componentelor în Dvandvas
-:::
 ## 5.1. Compuse nominale (samāsa m. = ⟪समास⟫)
 
 Formarea compuselor de cuvinte într-un volum foarte mare este un caracteristic al sanscritei.
@@ -96,14 +89,14 @@ Exemple de Pluraldvandva:
 
 **abhiniveṣa** m. = ⟪अभिनिवेष⟫ : inclinație, tenacitate, insistență; în special: atașament față de corp, considerându-l ca fiind al său.
 
-**kāma** m. = ⟪काम⟫ : dorință, poftă, dar dorit, plăcere senzorială, iubire; zeul iubirii Kāma. <!-- TODO: Fallback translation -->
+**kāma** m. = ⟪काम⟫ : dorință, poftă, dar dorit, plăcere senzorială, iubire; zeul iubirii Kāma.
 
 ::: media
 ![](/images/lekt0501.webp)
 Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 (Sursa imaginii: Wikipedia, Domeniu public)
 :::
-**krodha** m. = ⟪क्रोध⟫ : furie. <!-- TODO: Fallback translation -->
+**krodha** m. = ⟪क्रोध⟫ : furie.
 
 **kleśa** m. = ⟪क्लेश⟫ : suferință, chin.
 
@@ -115,7 +108,7 @@ Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 
 **dveṣa** m. = ⟪द्वेष⟫ : ură.
 
-**maitrī** f. = ⟪मैत्री⟫ : prietenie, amabilitate, bunăvoință prietenoasă. <!-- TODO: Fallback translation -->
+**maitrī** f. = ⟪मैत्री⟫ : prietenie, amabilitate, bunăvoință prietenoasă.
 
 **rāga** m. = ⟪राग⟫ : (culoare) roșie, pasiune, iubire.
 
@@ -141,7 +134,7 @@ Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
    (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
    ⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
-   (Explicație: catvāras = ⟪चत्वारस्⟫ = "patru") <!-- TODO: Fallback translation -->
+   (Explicație: catvāras = ⟪चत्वारस्⟫ = "patru")
 
 2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ.
    (Vāsiṣṭhadharmaśāstra II,1)
@@ -151,7 +144,7 @@ Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / în sanscrită bună: sāmārgyajurvedās trayī)
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (în sanscrită bună: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
+   (în sanscrită bună: ⟪सामार्यजुर्वेदास्त्रयी⟫)
 
 4. Cei trei dușmani ai omului, care formează poarta spre iad (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -159,7 +152,7 @@ Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
    ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Explicație: brahmavihāra: "stări de reședință ale lui Brahman", numite și "Infinituri". Sunt forme de meditație budiste.) <!-- TODO: Fallback translation -->
+   (Explicație: brahmavihāra: "stări de reședință ale lui Brahman", numite și "Infinituri". Sunt forme de meditație budiste.)
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
    (Yogasūtra 2,3)
@@ -168,7 +161,7 @@ Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
    (Conform Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
+   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
 ## 5.6. Exercitiu de repetiție
 

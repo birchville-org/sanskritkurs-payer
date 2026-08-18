@@ -14,7 +14,7 @@ A) Magyarázza meg a következő főneveket azáltal, hogy megadja azt igei gyö
 
 1\. lobha: lubh 4 P "vágyakozik" + -a m.: "vágy, szomjúság"
 
-2\. rakṣa: rakṣ 1 P "őriz" + -a 3.: "védő, oltalmazó"; m.: "őr" <!-- TODO: Fallback translation -->
+2\. rakṣa: rakṣ 1 P "őriz" + -a 3.: "védő, oltalmazó"; m.: "őr"
 
 3\. śrotra: śru 5 P "hall" + -tra n.: "fül"
 
@@ -26,7 +26,7 @@ A) Magyarázza meg a következő főneveket azáltal, hogy megadja azt igei gyö
 
 7\. lābha: labh 1 Ā "megkap" + -a m.: "szerzés, nyereség"
 
-8\. kāraṇa: kṛ 8 U "cselekszik, tesz" + -ana n.: ok, alap <!-- TODO: Fallback translation -->
+8\. kāraṇa: kṛ 8 U "cselekszik, tesz" + -ana n.: ok, alap
 
 9\. gati: gam 1 P "megy" + -ti f.: menet, 'karrier', cél
 
@@ -36,17 +36,17 @@ A) Magyarázza meg a következő főneveket azáltal, hogy megadja azt igei gyö
 
 12\. sṛṣṭi: sṛj 6 P / 4 A "kibocsát, teremt" + -ti: kibocsátás, alkotás
 
-13\. tantra: tan 8 U "kitemesít" + -tra n.: szövőfonat, szövetség <!-- TODO: Fallback translation -->
+13\. tantra: tan 8 U "kitemesít" + -tra n.: szövőfonat, szövetség
 
 14\. bhāva: bhū 1 P "lesz, van" + -a m.: létezés, természet, jellem
 
 15\. darśana: dṛś (4 P: paśyati) "lát" + -ana n-: látás, megjelenés, nézőpont, filozófiai rendszer
 
-16\. netra: nī 1 U "vezet" + -tra n.: szem <!-- TODO: Fallback translation -->
+16\. netra: nī 1 U "vezet" + -tra n.: szem
 
 17\. veśana: viś 6 P "belép" + -ana n.: belépés
 
-18\. kopa: kup 4 P "haragszik" + -a m.: harag <!-- TODO: Fallback translation -->
+18\. kopa: kup 4 P "haragszik" + -a m.: harag
 
 19\. sarga: ṛj 6 P / 4 A "kibocsát, teremt" + -a m.: elengedés, kibocsátás, alkotás
 
@@ -64,7 +64,7 @@ A) Magyarázza meg a következő főneveket azáltal, hogy megadja azt igei gyö
 
 26\. jaya: ji 1 P "győz" + -a m.: győzelem, diadal
 
-27\. nayana: nī 1 U "vezet" + -ana n.: szem <!-- TODO: Fallback translation -->
+27\. nayana: nī 1 U "vezet" + -ana n.: szem
 
 28\. śravaṇa: śru 5 P "hall" + -ana n.: fül
 
@@ -87,7 +87,7 @@ kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / 
 ⟪क्षत्रिया⟫ ⟪ब्राह्मणांश्च⟫ ⟪वैश्यांश्च⟫ ⟪शूद्रांश्च⟫ ⟪रक्षन्ति⟫ ⟪।⟫ ⟪क्षत्रिया⟫ ⟪ब्राह्मणवैश्यशूद्रान्रक्षन्ति⟫ ⟪।⟫
 
 
-2. Egy szent ember mind a mennyországot, mind az alvilágot látja. <!-- TODO: Fallback translation -->
+2. Egy szent ember mind a mennyországot, mind az alvilágot látja.
 
 sādhuḥ svargāmś ca narakāmś ca paśyati.
 
@@ -160,22 +160,22 @@ kiṃ kāraṇam?
 A śūdra vezeti a fiút.
 
 2. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-A költő áldozatot mutat be az istennek. <!-- TODO: Fallback translation -->
+A költő áldozatot mutat be az istennek.
 
 3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-A szent ember gyümölcsöt eszik. <!-- TODO: Fallback translation -->
+A szent ember gyümölcsöt eszik.
 
 4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
-A mester legyőzi a haragját. <!-- TODO: Fallback translation -->
+A mester legyőzi a haragját.
 
 5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-Az isten teremti az alvilágot. <!-- TODO: Fallback translation -->
+Az isten teremti az alvilágot.
 
 6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
 A tehén belép a faluba.
 
 7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
-A vágy, a harag és a kapztság az alvilághoz vezet. <!-- TODO: Fallback translation -->
+A vágy, a harag és a kapztság az alvilághoz vezet.
 
 8. ⟪देवतां⟫ ⟪यजति⟫ |
 Ő áldozatot mutat be egy isteni áldozatúr számára.
@@ -187,7 +187,7 @@ Egy lány születik.
 Egy kocsis irányítja a kocsit.
 
 11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-A majmok megeszik a gyümölcsöket. <!-- TODO: Fallback translation -->
+A majmok megeszik a gyümölcsöket.
 
 12. ⟪बाला⟫ ⟪लिखति⟫ |
 A lány ír vagy rajzol.
@@ -196,13 +196,13 @@ A lány ír vagy rajzol.
 A szűz belép a házba.
 
 14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
 15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 A fiú vezeti az elefántot.
 
 16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Vimalā személynév)
-Vimalā ist traurig. <!-- TODO: Fallback translation -->
+Vimalā ist traurig.
 
 17. ⟪शुकः⟫ ⟪पतति⟫ |
 A papagáj repül.

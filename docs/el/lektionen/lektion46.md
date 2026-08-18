@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Παρακείμενος Τύπος I: καμία διαβάθμιση θέματος <!-- TODO: Fallback translation -->
+### 46.1.3. Παρακείμενος Τύπος I: καμία διαβάθμιση θέματος
 
 Ρήματα που ακολουθούν αυτόν τον τύπο:
 
@@ -654,26 +654,5 @@ PPP ⟪परिभूत⟫ 3: νικημένος, ταπεινωμένος, ε
 ![](/images/lekt4612.webp)
 Εικ.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/el/licenses#lekt4612)
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-Πηγή εικόνων Ναβγκράχα: Redtigerxyz / Wikipedia. Άδεια GNU FDLicense <!-- TODO: Fallback translation -->
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, περ. 1870). Πηγή: Wikipedia. Δημόσιος τομέας
-
-L4606: ⟪अश्वरोहकः⟫, Πούνε=⟪पुणे⟫. Πηγή: wili_hybrid, Flickr, CC BY 2.0
-
-L4608: Ουντάιπουρ. Πηγή: Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609: Καρνάτακα=ಕರ್ನಾಟಕ. Πηγή: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, Καμαρέντι=కామారెడ్డి. Πηγή: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, Μπανγκαλόρ=ಬೆಂಗಳೂರು. Πηγή: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, Κούτς=⟪कच्छ⟫. Πηγή: orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612: Μουμπάι=⟪मुंबई⟩ μετά την επίθεση, 11 Ιουλίου 2006. Πηγή: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
 :::
 

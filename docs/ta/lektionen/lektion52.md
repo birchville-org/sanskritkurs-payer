@@ -709,39 +709,3 @@ Mahābhārata : இந்தியாவின் பெரும் காப�
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5201))
 :::
 
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, சென்னை = Chennai [பட மூலம்: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- 2009-01-15 அணுகப்பட்டது. -- [Creative Commons உரிமம்](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடுதல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt5203:** Wayang பாத்திரம், ஜாவா, இந்தோனேசியா [பட மூலம். விக்கிப்பீடியா. பொது உடைமை]
-
-**lekt5204:** கோயிலுக்கு முன் வரிசையில் நிற்கும் மக்கள், திருவனந்தபுரம் = Trivandrum = തിരുവനന്തപുരം [பட மூலம்: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- 2009-01-15 அணுகப்பட்டது. -- [Creative Commons உரிமம்](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (குறிப்பிடுதல், வணிகரீதியான பயன்பாடு இல்லை, பகிர்வு ஒரே மாதிரியாக)]
-
-**lekt5209:** தீயிட்டு வெட்டும் வேளாண்மை, அருணாச்சல் பிரதேசம் = ⟪अरुणाचल प्रदेश⟫ [பட மூலம்: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- 2009-01-15 அணுகப்பட்டது. -- [Creative Commons உரிமம்](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடுதல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt5205:** [பட மூலம்: விக்கிப்பீடியா. பொது உடைமை]
-
-**lekt5206:** ஒற்றைப்படை நட்சத்திரங்கள் = பெரிய கரடி (Ursa maior) இன் ஏழு மிகவும் பிரகாசமான நட்சத்திரங்கள் [பட மூலம்: விக்கிப்பீடியா, GNU FD உரிமம்]
-
-**lekt5207:** ஜலகண்டபுரம் = ஜலகண்டபுரம் [பட மூலம்: விக்கிப்பீடியா. பொது உரிமை]
-
-**lekt5210:** தம்போல், அகோலே, அஹ்மதநகர் = ⟪अहमदनगर⟫ [பட மூலம்: டான் ஸ்டன்ஸால் / உலக வள நிறுவன பணியாளர்கள். -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- 2009-01-16 அன்று பார்வையிடப்பட்டது. -- [Creative Commons உரிமம்](http://creativecommons.org/licenses/by/2.0/deed.de) (குறிப்பிடுதல்)]
-
-**lekt5212:** ஹைதராபாத் = ஹைதராபாத் [பட மூலம்: டேவிட் ஏ ஜி வில்சன். -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- 2009-01-16 அன்று பார்வையிடப்பட்டது. -- [Creative Commons உரிமம்](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடுதல், வணிகரீதியான பயன்பாடில்லை, மாற்றம் இல்லை)]
-
-**lekt5213:** ⟪मुंबई⟫ [பட மூலம்: சைபோட்ரீகீல். -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- 2009-01-16 அன்று பார்வையிடப்பட்டது. -- [Creative Commons உரிமம்](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (குறிப்பிடுதல், மாற்றம் இல்லை)]
-
-**lekt5214:** கொனார்க் = ⟪कोनार्क⟫ [பட மூலம்: கௌரவ் ஆர்கா. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- 2009-01-16 அன்று பார்வையிடப்பட்டது. --  [Creative Commons உரிமம்](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடுதல், வணிகரீதியான பயன்பாடில்லை, மாற்றம் இல்லை)]
-
-**lekt5208:** ஹம்பி = ஹம்பெ [பட மூலம்: ஒலிவர் ஹில்ட்ப்ருன்னர். -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- 2009-01-15 அன்று பார்வையிடப்பட்டது. -- [Creative Commons உரிமம்](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (குறிப்பிடுதல், வணிகரீதியான பயன்பாடில்லை, ஒரே விதமாக பகிர்வு)]
-
-**lekt5215:** ⟪मुंबई⟫ [பட மூலம்: ஜேம்ஸ் கிரிட்லாண்ட். -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- 2009-01-16 அன்று பார்வையிடப்பட்டது. -- [Creative Commons உரிமம்](http://creativecommons.org/licenses/by/2.0/deed.de) (குறிப்பிடுதல்)]
-
-**lekt5217:** அமராவதி = అమరావతి, கி.பி 2-ஆம் நூற்றாண்டு. [பட மூலம்: விக்கிப்பீடியா. GNU FD உரிமம்]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, சுமார் 1810 [பட மூலம்: விக்கிப்பீடியா. பொது உடைமை]
-
-**lekt5201:** (படம்: பேயர்)
-
-:::
-

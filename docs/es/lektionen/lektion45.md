@@ -5,7 +5,7 @@ lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lección 45
 
@@ -145,13 +145,7 @@ B) Traduzca:
 ![](/images/lekt4502.jpg)
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4502))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
-:::
-::: deleteme-box
-
-**lekt4501.jpg**: Impresión textil en bloque, Ahmedabād. -- Fuente de la imagen: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual)
-
-**lekt4502.jpg**: Fuente de la imagen: John Isaac / Banco Mundial. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)
 :::
 

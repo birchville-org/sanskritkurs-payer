@@ -6,7 +6,7 @@ status: stable
 
 # Lectio 34
 
-## 34.1. Das Perfekt (⟪लिट्⟫) <!-- TODO: Fallback translation -->
+## 34.1. Das Perfekt (⟪लिट्⟫)
 
 In Sanskrito classico tantummodo indicativus et participium a radicā perfectī manent.
 
@@ -29,7 +29,7 @@ In Sanskrito classico tantummodo indicativus et participium a radicā perfectī 
 **Educatio:**
 
 **thema forte:** singularis Parasmaipada
-*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung** <!-- TODO: Fallback translation -->
+*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung**
 
 **stamen infirmum:** omnes reliquae formae
 *   **radix reduplicata cum syllaba profunda + desinens perfecti**
@@ -90,7 +90,7 @@ Exempla:
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
 ### 34.2.5. Reduplicatio radicum vocaliter incipientium
@@ -104,7 +104,7 @@ Exempla:
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
+| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
 
 :::
 ::: grammar-box
@@ -117,7 +117,7 @@ Exempla:
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
-| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur | <!-- TODO: Fallback translation -->
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
 :::
 ::: grammar-box
@@ -138,7 +138,7 @@ Exempla:
 Principium divisionis: proprietates gradus thematis:
 *   Perfectum sine gradu thematis: Typus I
 *   Perfectum cum gradu thematis: Typus II - V
-*   unregelmäßige Perfektbildungen <!-- TODO: Fallback translation -->
+*   unregelmäßige Perfektbildungen
 
 ## 34.4. Perfectum Typus I: Perfectum sine gradatione radicis
 
@@ -159,7 +159,7 @@ Exempla:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
 ## 34.5. Perfectum Typus II: Robustum radix gradus altus, infirmus radix gradus bassus
@@ -329,22 +329,5 @@ Explanationes:
 Fig.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟩***⟪र्जन्म*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Ritus nuptialis Hindu.
 (Fons imaginis: [Detalia](/la/licenses#lekt3407))
-:::
-
-::: deleteme-box
-
-**lekt3401:** Statua tauri Nandis, Colles Chamundi, Mysore. [Fons imaginis: Luna Park / Flickr. CC BY-NC-ND]
-
-**lekt3402:** Aedes Aurata (Harmandir Sahib), Amritsar. [Fons imaginis: Wikipedia. GNU FDL]
-
-**lekt3403:** Semina sesami. [Imago fons: Wikipedia. Dominium publicum] <!-- TODO: Fallback translation -->
-
-**lekt3404:** Florescentia sesami. [Fons imaginis: Franciscus Xaver / Wikipedia. Licentia GNU FDL]
-
-**lekt3405:** Tabula Insularum Lakshadweep. [Fons imaginis: CIA World Factbook. Dominium publicum]
-
-**lekt3406:** Agri campus in India. [Font picture: Ray Witlin / World Bank. CC BY-NC-ND]
-
-**lekt3407:** Ritus matrimonialis Hinduicus. [Imaginis fontis: BriceFR / Flickr. CC BY-NC-SA]
 :::
 

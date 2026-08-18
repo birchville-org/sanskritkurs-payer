@@ -352,7 +352,7 @@ PPP ⟪अशित⟫
 
 ⟪यद्येवम्⟫ : ean houtōs estin, en toutois tois hupokeimenois
 :::
-⟪पुनर्⟫ : palin, aei palin, pisō, eti hapax, antitheton, alla <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ : palin, aei palin, pisō, eti hapax, antitheton, alla
 
 ::: indent
 ek toutou:
@@ -366,7 +366,7 @@ ek toutou:
 Abb.: ⟪पुनर्भवः⟫
 (Bildquelle: [Details](/grc/licenses#lekt2904))
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : zēn <!-- TODO: Fallback translation -->
+⟪जीव्⟫ 1P ⟪जीवति⟫ : zēn
 
 ::: indent
 Μέσ. ⟪जीविष्यति⟫  
@@ -517,12 +517,3 @@ A) Μετατρέψετε τὰς ἑξῆς ρηματικὰς μορφὰς �
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Βούντι = ⟪बुन्दी⟫, Ρατζαστάν = ⟪राजस्थान⟫ [πηγή εικόνας: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- πρόσβαση 2008-12-21. -- άδεια Creative Commons (αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
-**lekt3002:** Νταρέβαντι, περιφέρεια Άχμεντναγκάρ = ⟪अहमदनगर⟫, Μαχαράστρα = ⟪महाराष्ट्र⟫ [πηγή εικόνας: Robin Murphy / Παγκόσμιος Ινστιτούτο Πόρων. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- πρόσβαση 2008-12-21. -- άδεια Creative Commons (αναφορά, μη εμπορική χρήση, ομοίως)]
-**lekt3003:** [πηγή εικόνας: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- πρόσβαση 2008-12-21. -- άδεια Creative Commons (αναφορά, ομοίως)]
-**lekt3005:** ⟪थाली⟫, Νότια Ινδία [πηγή εικόνας: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- πρόσβαση 2008-12-21. -- άδεια Creative Commons (αναφορά, μη εμπορική χρήση, ομοίως)]
-**lekt3004:** [πηγή εικόνας: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- πρόσβαση 2008-12-21. -- άδεια Creative Commons (αναφορά, ομοίως)]
-**lekt2904:** [πηγή εικόνας: Wikipedia / Πνευματικά δικαιώματα στο Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

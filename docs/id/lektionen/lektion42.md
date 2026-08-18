@@ -365,14 +365,3 @@ Fig.: ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gen.Lok.Dual from ⟪सीताराम⟫
 
-::: deleteme-box
-
-* **Fig. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Sumber gambar: Wikipedia. Domain publik)
-* **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. Diwan I Khas, atau Aula Audiensi Pribadi di Lal Qila (Benteng Merah) di Delhi. (Sumber gambar: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Diakses pada 2009-01-04. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi sama))
-* **Fig. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, kira-kira tahun 1825. (Sumber gambar: Wikipedia. Domain publik)
-* **Fig. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. kereta perang). (Sumber gambar: Wikipedia. Domain publik)
-* **Fig. lekt4205**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. Abad ke-17. (Sumber gambar: Wikipedia. Domain publik)
-* **Fig. lekt4206**: Lokasi ⟪मिथिला⟫ dan ⟪विदेह⟫, ⟪अयोध्या⟫ dan ⟪कोसल⟫. (Sumber gambar: JIJITH NR / Wikipedia. GNU FDLicense)
-* **Fig. lekt4207**: ⟪रावणः⟫. Topeng tari Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Sumber gambar: Manohara Upadhya / Wikipedia. GNU FDLicense)
-* **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Gambar ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Sumber gambar: Wikipedia. Domain publik)
-:::

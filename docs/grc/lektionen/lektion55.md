@@ -94,8 +94,3 @@ Note:
 (πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** «Ἰναγὰτ Χάν ἐπὶ θανάτου, πρόχειρον εἰκονογραφίας χειρογράφου ὑπὸ Γιαχάνγīρ = جهانگير, περὶ 1618 [πηγὴ εἰκόνος: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- πρόσβασις 2009-01-28. Δημόσιον]
-
-:::

@@ -94,7 +94,7 @@ Fig.: Frontespizio
 
 Ottima grammatica sistematica:
 
-> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatik der Sanskrit-Sprache / Tradotto dall'inglese da W. Solf [1862 - 1936]. -- Berlino : Dümmler, 1888. -- XIII, 238 p. -- Titolo originale: A grammar of the Sanscrit language &lt;!-- TODO: Fallback translation --&gt;
+> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatik der Sanskrit-Sprache / Tradotto dall'inglese da W. Solf [1862 - 1936]. -- Berlino : Dümmler, 1888. -- XIII, 238 p. -- Titolo originale: A grammar of the Sanscrit language &lt;!--  --&gt;
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +114,7 @@ Fig.: Titolo della copertina
 
 Una buona e concisa esposizione della terminologia linguistica europea si trova in:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. A cura di Elmar Seebold. -- 24., rivista e ampliata ed.. -- Berlino [e alt.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Brossura. -- Pagg. XIII - XLVII. &lt;!-- TODO: Fallback translation --&gt;
+> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. A cura di Elmar Seebold. -- 24., rivista e ampliata ed.. -- Berlino [e alt.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Brossura. -- Pagg. XIII - XLVII. &lt;!--  --&gt;
 
 ::: media
 ![](/images/lekt0108.jpg)

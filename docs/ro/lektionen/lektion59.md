@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 59
 
@@ -782,12 +782,5 @@ _Ajutor pentru traducere:_ Versul 6: ⟪दिदृक्षते⟫ \= Deside
 ![](/images/lekt5901.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5901))
 :::
-Text preluat din: Otto Böhtlingk: Sanskrit-Chrestomathie, p. 127 și urm. <!-- TODO: Fallback translation -->
+Text preluat din: Otto Böhtlingk: Sanskrit-Chrestomathie, p. 127 și urm.
 
-::: deleteme-box
-
-**lekt5902:** [Sursa imaginii: Henryart/Wikipedia. Domeniu public] <!-- TODO: Fallback translation -->
-
-**lekt5903:** Dansul Kecak, Bali (Indonezia) [Sursa imaginii: Flying Pharmacist / Wikipedia. [Licență Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (Atribuire, share alike)]
-
-:::

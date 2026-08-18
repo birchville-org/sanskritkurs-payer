@@ -128,7 +128,7 @@ Abb.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 
 ---
 
-## Staatswissenschaftliche Fragmente (Arthaśāstra) <!-- TODO: Fallback translation -->
+## Staatswissenschaftliche Fragmente (Arthaśāstra)
 
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 ἡ οἰκονομία χρήσιμόν ἐστι, διότι σίτον, κτήνη, χρυσόν, μέταλλα καὶ ἐργασίαν παράγει.

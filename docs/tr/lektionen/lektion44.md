@@ -1,227 +1,226 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "Ders 44"
+subtitle: "İkinci kişi fiil formlarının oluşumu (⟪मध्यमः⟫) ünlü ile biten soneçli, solunumsuz köklerde"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 44 <!-- TODO: Fallback translation -->
+---
 
-## 44.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix <!-- TODO: Fallback translation -->
+# Ders 44
+
+## 44.1. İkinci kişi (⟪मध्यमः⟫) için fiil biçimlerinin oluşturulması, ünlü ile biten soneçli athematik köklerde
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
 ::: grammar-box
-**Die 3.sg.Ā.Imperfekt ist formgleich mit der 2.pl.P.Imperfekt!!!** <!-- TODO: Fallback translation -->
+**3.sg.Ā.Geçmiş Zaman (Imperfekt), 2.pl.P.Geçmiş Zaman ile biçimsel olarak aynıdır!!!**
 :::
-### 44.1.1. Fünfte Präsensklasse (⟪स्वादि⟫) <!-- TODO: Fallback translation -->
+### 44.1.1. Beşinci Şimdiki Zaman Sınıfı (⟪स्वादि⟫)
 
-⟪सु⟫ 5U <!-- TODO: Fallback translation -->
+⟪सु⟫ 5U
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Gösterme Kipi Şimdiki Zaman** :br⟪लट्⟫ | ⟪सुनोषि⟫:brBeyinleşme! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brBeyinleşme! | ⟪सुनुध्वे⟫ |
+| **Geçmiş Zaman** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
+| **Dilek Kipi** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
-### 44.1.2. Achte Präsensklasse (⟪तनादि⟫) <!-- TODO: Fallback translation -->
+### 44.1.2. Sekizinci Şimdiki Zaman Sınıfı (⟪तनादि⟫)
 
-⟪तन्⟫ 8U <!-- TODO: Fallback translation -->
+⟪तन्⟫ 8U
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Gösterme Kipi Şimdiki Zaman** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
+| **Geçmiş Zaman** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
+| **Dilek Kipi** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
 :::
-⟪कृ⟫ 8U <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Gösterme Kipi Şimdiki Zaman** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
+| **Geçmiş Zaman** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
+| **Dilek Kipi** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
-### 44.1.3. Neunte Präsensklasse (⟪क्र्यादि⟫) <!-- TODO: Fallback translation -->
+### 44.1.3. Dokuzuncu Şimdiki Zaman Sınıfı (⟪क्र्यादि⟫)
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **İndikativ Şimdiki Zaman** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
+| **İmperfekt** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
-## 44.2. Zum Wortsandhi <!-- TODO: Fallback translation -->
+## 44.2. Kelime Sandhi Hakkında
 
-Bei konsonantisch auslautenden Präsensstämmen sind die schon behandelten Gesetze des Wortsandhi zu beachten. <!-- TODO: Fallback translation -->
+Ünsüzle biten şimdiki zaman köklerinde, daha önce ele alınan kelime sandhi kurallarına dikkat edilmelidir.
 
-Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung. <!-- TODO: Fallback translation -->
+Ayrıca, aşağıdaki kelime sandhi kuralları da uygulanır.
 
-(Ausführliche Zusammenstellung aller hierher gehörigen Lautveränserungen bei Kielhorn, Grammatik S. 76f.) <!-- TODO: Fallback translation -->
+(Buraya ait tüm ses değişimlerinin kapsamlı bir özeti için Kielhorn, Grammatik s. 76f.)
 
-### 44.2.1. Zum Wortsandhi für dh- <!-- TODO: Fallback translation -->
+### 44.2.1. dh- için Kelime Sandhi Hakkında
 
 ::: grammar-box
-1. **Aspirata wird vor Aspirata durch den entsprechenden Nichtspiraten ersetzt:** <!-- TODO: Fallback translation -->
-   z.B. ⟪रुध्⟫ 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » ⟪रुन्द्ध्वे⟫ (run**ddh**ve) <!-- TODO: Fallback translation -->
-2. **-h + dh- » -gdh-** <!-- TODO: Fallback translation -->
-   z.B. ⟪दुह्⟫ 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » ⟪धुग्ध्वे⟫ (dhu**gdh**ve) <!-- TODO: Fallback translation -->
-3. **-ṣ + dh- » -ḍḍh-** (Diese Regel gilt nur für die Konjugation!) <!-- TODO: Fallback translation -->
-   z.B. ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » ⟪द्विड्ढ्वे⟫ (dvi**ḍḍh**ve) <!-- TODO: Fallback translation -->
-4. **-s + dh- » -dh-** (Wegfall des -s) <!-- TODO: Fallback translation -->
-   z.B. ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve) <!-- TODO: Fallback translation -->
+1. **Aspirat, aspirattan önce uygun olmayan ünsüzle değiştirilir:**
+Örn. ⟪रुध्⟫ 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » ⟪रुन्द्ध्वे⟫ (run**ddh**ve)
+2. **-h + dh- » -gdh-**
+Örn. ⟪दुह्⟫ 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » ⟪धुग्ध्वे⟫ (dhu**gdh**ve)
+3. **-ṣ + dh- » -ḍḍh-** (Bu kural yalnızca çekimleme için geçerlidir!)
+Örn. ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » ⟪द्विड्ढ्वे⟫ (dvi**ḍḍh**ve)
+4. **-s + dh- » -dh-** (-s'in düşmesi)
+Örn. ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve)
 :::
-### 44.2.2. Zum Wortsandhi für s- <!-- TODO: Fallback translation -->
+### 44.2.2. s- için Kelime Sandhi Hakkında
 
 ::: grammar-box
-1. **-s + s- » -ts- oder (nicht wahlweise!) -ss-** (so in 2. Präsensklasse) <!-- TODO: Fallback translation -->
-   Beispiele: <!-- TODO: Fallback translation -->
-   * ⟪वस्⟫ 1P: Futur: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » ⟪वत्स्यति⟫ (va**ts**yati) <!-- TODO: Fallback translation -->
-   * ⟪वस्⟫ 2Ā: ⟪वस्⟫ + ⟪से⟫ » ⟪वस्से⟫ (va**ss**e) <!-- TODO: Fallback translation -->
-2. **-ṣ + s- » -kṣ-** <!-- TODO: Fallback translation -->
-   z.B. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪द्वेक्षि⟫ (dve**kṣ**i) <!-- TODO: Fallback translation -->
+1. **-s + s- » -ts- veya (seçmeli değil!) -ss-** (2. şimdiki zaman sınıfında olduğu gibi)
+Örnekler:
+* ⟪वस्⟫ 1P: Gelecek Zaman: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » ⟪वत्स्यति⟫ (va**ts**yati)
+* ⟪वस्⟫ 2Ā: ⟪वस्⟫ + ⟪से⟫ » ⟪वस्से⟫ (va**ss**e)
+2. **-ṣ + s- » -kṣ-**
+Örn. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪द्वेक्षि⟫ (dve**kṣ**i)
 :::
-## 44.3. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix <!-- TODO: Fallback translation -->
+## 44.3. İkinci kişi (⟪मध्यमः⟫) için fiil formlarının oluşturulması: sesli son eki olmayan ünsüz köklü stemler
 
-### 44.3.1. Zweite Präsensklasse (⟪अदादि⟫) <!-- TODO: Fallback translation -->
-
-::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ | <!-- TODO: Fallback translation -->
-:::
-⟪आस्⟫ 2Ā <!-- TODO: Fallback translation -->
+### 44.3.1. İkinci Şimdiki Zaman Sınıfı (⟪अदादि⟫)
 
 ::: grammar-box
-| | ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Gösterme Kipi Şimdiki Zaman** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
+| **Geçmiş Zaman** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
+| **Dilek Kipi** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
 :::
-⟪दुह्⟫ 2U <!-- TODO: Fallback translation -->
+⟪आस्⟫ 2Ā
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Gösterme Kipi Şimdiki Zaman** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
+| **Geçmiş Zaman** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
+| **Dilek Kipi** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
 :::
-⟪इ⟫ 2P <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2U
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Gösterme Kipi Şimdiki Zaman** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
+| **Geçmiş Zaman** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
+| **Dilek Kipi** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
 :::
-::: grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ | <!-- TODO: Fallback translation -->
-:::
-⟪स्तु⟫ 2U <!-- TODO: Fallback translation -->
+⟪इ⟫ 2P
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ | <!-- TODO: Fallback translation -->
-:::
-⟪अस्⟫ 2P (besonders zu merken!) <!-- TODO: Fallback translation -->
-
-::: grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | :sig[⟪असि⟫] | :sig[⟪स्थ⟫] | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | :sig[⟪आसीस्⟫] | :sig[⟪आस्त⟫] | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | :sig[⟪स्यास्⟫] | :sig[⟪स्यात⟫] | <!-- TODO: Fallback translation -->
-:::
-⟪तत्त्वमसि⟫ <!-- TODO: Fallback translation -->
-
-⟪शास्⟫ 2P <!-- TODO: Fallback translation -->
-
-::: grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Gösterme Kipi Şimdiki Zaman** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
+| **Geçmiş Zaman** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
+| **Dilek Kipi** :br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
 :::
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ ||
+| --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **İndikativ Şimdiki Zaman** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta |
+| **İmperfekt** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
 :::
-## 44.4. Der Vokativ (⟪आमन्त्रितम्⟫) <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2U
 
-Die einheimischen Grammatiker betrachten den Vokativ (⟪आमन्त्रितम्⟫) nicht als eigenen Kasus, sondern nur als Modifikation des Nominativ (⟪प्रथमा⟫). <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **İndikativ Şimdiki Zaman** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
+| **İmperfekt** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
+:::
+⟪अस्⟫ 2P (özellikle akılda tutulmalı!)
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ ||
+| --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **İndikativ Şimdiki Zaman** :br⟪लट्⟫ | :sig[⟪असि⟫] | :sig[⟪स्थ⟫] |
+| **İmperfekt** :br⟪लङ्⟫ | :sig[⟪आसीस्⟫] | :sig[⟪आस्त⟫] |
+| **Optativ** :br⟪विधिलिङ्⟫ | :sig[⟪स्यास्⟫] | :sig[⟪स्यात⟫] |
+:::
+⟪तत्त्वमसि शास्⟫ 2P
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ ||
+| --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **İndikativ Şimdiki Zaman** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
+| **İmperfekt** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
+:::
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ ||
+| --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **İndikativ Şimdiki Zaman** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
+| **İmperfekt** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
+:::
+## 44.4. Vokatif (⟪आमन्त्रितम्⟫)
+
+Yerli gramerciler Vokatifi (⟪आमन्त्रितम्⟫) bağımsız bir hal olarak değil, yalnızca Yalın hâlin (⟪प्रथमा⟫) bir değişimi olarak görürler.
 
 ::: important
-**Der Vokativ dient dem Anruf, dem Ansprechen und steht ausserhalb des Zusammenhangs mit dem übrigen Satz, unterscheidet sich also von den anderen Kasus, die eine Beziehung zum Verb oder zu einem anderen Nomen ausdrücken.** <!-- TODO: Fallback translation -->
+**Vokatif, hitap etme ve seslenmeyi ifade eder; cümlenin geri kalanıyla olan bağlamın dışında yer alır, dolayısıyla bir fiille veya başka bir isimle ilişki kuran diğer hallerden farklıdır.**
 
-**Meist wird der Vokativ an den Beginn des Satzes gestellt:** <!-- TODO: Fallback translation -->
+**Vokatif genellikle cümlenin başına getirilir:**
 
 :::
 ::: indent
-⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Kind, was sagst du?" <!-- TODO: Fallback translation -->
+⟪बाल किं वदसि⟫ = "Çocuk, ne diyorsun?"
 :::
 ::: important
-**Man vermeide die Übersetzung des Vokativ mit "**O** ...". Wir benutzen im Deutschen ständig Vokative, wenn wir z.B. sagen: "Schatz, was kochen wir heute?". Niemand wird in dieser Bedeutung sagen: "**O** Schatz, was kochen wir heute?"** <!-- TODO: Fallback translation -->
+**Vokatifin çevirisinde "**Ey** ..." kalıbından kaçının. Almancada örneğin "Canım, bugün ne pişirelim?" derken sürekli Vokatif kullanırız. Kimse bu anlamda "**Ey** canım, bugün ne pişirelim?" demez.**
 :::
 ::: media
 ![](/images/lekt4402.webp)
-Abb.: Zur richtigen Verwendung von "O" im Deutschen: **"O Mann!"**
-(Bildquelle: [Details](/licenses#lekt4402)) <!-- TODO: Fallback translation -->
+Resm: Almanca "O" kelimesinin doğru kullanımı: **"Ey insan!"**
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4402))
 :::
 
 ::: grammar-box
-**Die Formen des Vokativ Plural und Dual sind identisch mit denen des Nominativ (⟪प्रथमा⟫) Plural bzw. Dual.** <!-- TODO: Fallback translation -->
+**Çoğul ve ikil Vokativ halleri, Nominatif (⟪प्रथमा⟫) çoğul ve ikil halleriyle aynıdır.**
 
-**Die Formen des Vokativ Singular folgen in [Lektion 45](lektion45.md).** <!-- TODO: Fallback translation -->
+**Tekil Vokativ formları [Bölüm 45](lektion45.md)'de ele alınacaktır.**
 :::
-## 44.5. Wortliste <!-- TODO: Fallback translation -->
+## 44.5. Kelime listesi
 
-⟪प्रति⟫ Präverb: zurück, wider, gegen - hin <!-- TODO: Fallback translation -->
+⟪प्रति⟫ Öneki: geri, karşı, aleyhine - doğru
 
 ::: indent
-z.B. <!-- TODO: Fallback translation -->
+örn.
 
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : zurückschlagen <!-- TODO: Fallback translation -->
+**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : geri vurmak
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : zurücksagen = antworten <!-- TODO: Fallback translation -->
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : geri söylemek = cevap vermek
 
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : zurückweisen, verschmähen <!-- TODO: Fallback translation -->
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : geri çevirmek, hor görmek
 :::
-⟪या⟫ 2P ⟪याति⟫ : gehen, fahren <!-- TODO: Fallback translation -->
+⟪या⟫ 2P ⟪याति⟫ : gitmek, sürmek
 
 ::: indent
 Perf. IV ⟪ययौ⟫  
@@ -229,36 +228,36 @@ Fut. ⟪यास्यति⟫
 Pass. ⟪यायते⟫  
 Kaus. ⟪यापयति⟫  
 PPP ⟪यात⟫  
-Inf. ⟪यातुम्⟫   <!-- TODO: Fallback translation -->
+Inf. ⟪यातुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+bundan:
 
-⟪यान⟫ n.: Gehen, Weg, Fahrzeug <!-- TODO: Fallback translation -->
+⟪यान⟫ n.: gitmek, yol, araç
 :::
 ::: media
 ![](/images/lekt4403.webp)
-Abb.: ⟪रेल्यानम्⟫
-(Bildquelle: [Details](/licenses#lekt4403)) <!-- TODO: Fallback translation -->
+Resm.: ⟪रेल्यानम्⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt4403))
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫] <!-- TODO: Fallback translation -->
+⟪शी⟫ 2Ā ⟪शेते⟫ : yatmak. Bu kök, tüm present kök formlarında **Yüksek Ses Basamağı:** 1.sg.Ind.Present.Ā :sig[⟪शेये⟫] (śe + e). Dikkat edilmesi gereken özel formlar şunlardır: 3.pl.Ind.Present.Ā :sig[⟪शेरते⟫], 3.pl.Impast.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
 Fut. ⟪शयिष्यते⟫  
 Kaus. ⟪शापयति⟫  
 PPP ⟪शयित⟫  
-Inf. ⟪शयितुम्⟫   <!-- TODO: Fallback translation -->
+Inf. ⟪शयितुम्⟫  
 
-davon: <!-- TODO: Fallback translation -->
+bundan:
 
-⟪शयन⟫ n.: Liege, Bett <!-- TODO: Fallback translation -->
+⟪शयन⟫ n.: yatak, döşek
 :::
 ::: media
 ![](/images/lekt4404.webp)
-Abb.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Bildquelle: [Details](/licenses#lekt4404)) <!-- TODO: Fallback translation -->
+Resm.: ⟪योगी शयने शेते⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : sich freuen an (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : (⟪तृतीयया⟫) üzerinde sevinmek
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -268,45 +267,45 @@ Kaus. ⟪नन्दयति⟫
 PPP ⟪नन्दित⟫  
 Inf. ⟪नन्दितुम्⟫  
 Absol. -⟪नन्द्य⟫  
-Gerundiv ⟪नन्द्य⟫   <!-- TODO: Fallback translation -->
+Gerundiv ⟪नन्द्य⟫  
 
-davon: <!-- TODO: Fallback translation -->
+bundan:
 
-⟪नन्दिन्⟫ 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (⟪वहन⟫) des ⟪शिव⟫ (ein Stier) <!-- TODO: Fallback translation -->
+⟪नन्दिन्⟫ 3: (özel) sevinçle karakterize, neşeli ; m. ⟪शिव⟫'in (bir boğa) binek hayvanının adı (⟪वहन⟫)
 :::
 ::: media
 ![](/images/lekt4405.webp)
-Abb.: ⟪नन्दी⟫
-(Bildquelle: [Details](/licenses#lekt4405)) <!-- TODO: Fallback translation -->
+Resm.: ⟪नन्दी⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt4405))
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : seine Freude haben an (⟪द्वितीयया⟫), jemanden freudig begrüssen, willkommen heissen <!-- TODO: Fallback translation -->
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : (⟪द्वितीयया⟫) üzerinde sevincini paylaşmak, birini neşeyle karşılamak, hoş geldin demek
 
-⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen <!-- TODO: Fallback translation -->
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : tutmak, taşımak ; sunmak, vermek ; bir arada tutmak, dizginlemek, frenlemek, fethetmek
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ aber: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
+Kaus. ⟪यामयति⟫ ancak: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
-Absol. -⟪यम्य⟫ <!-- TODO: Fallback translation -->
+Absol. -⟪यम्य⟫
 :::
-**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : dehnen, ausstrecken <!-- TODO: Fallback translation -->
+**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : germek, uzatmak
 
 ::: indent
-PPP ⟪आयत⟫ 3: lang gestreckt <!-- TODO: Fallback translation -->
+PPP ⟪आयत⟫ 3: uzun uzatılmış
 :::
 ::: media
 ![](/images/lekt4406.webp)
-Abb.: ⟪आयतो⟫ ⟪मरुः⟫
-(Bildquelle: [Details](/licenses#lekt4406)) <!-- TODO: Fallback translation -->
+Resim: ⟪आयतो मरुः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt4406))
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : darreichen, anbieten, übergeben <!-- TODO: Fallback translation -->
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : sunmak, arz etmek, teslim etmek
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : zusammenbinden, anbinden, bändigen <!-- TODO: Fallback translation -->
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : bağlamak, takmak, dizginlemek
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : streben nach (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫) <!-- TODO: Fallback translation -->
+⟪यत्⟫ 1Ā ⟪यतते⟫ : arzulamak (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
 ::: indent
 Perf. Vb ⟪येते⟫  
@@ -314,18 +313,18 @@ Fut. ⟪यतिष्यते⟫
 Pass. ⟪यत्यते⟫  
 Kaus. ⟪यातयति⟫  
 PPP ⟪यत्त⟫  
-Inf. ⟪यतितुम्⟫   <!-- TODO: Fallback translation -->
+Inf. ⟪यतितुम्⟫  
 
-davon: <!-- TODO: Fallback translation -->
+bunlardan:
 
-⟪यत्न⟫ m.: Bemühung, Anstrengung <!-- TODO: Fallback translation -->
+⟪यत्न⟫ m.: çaba, gayret
 :::
 ::: media
 ![](/images/lekt4407.webp)
-Abb.: ⟪यत्नेन⟫
-(Bildquelle: [Details](/licenses#lekt4407)) <!-- TODO: Fallback translation -->
+Resim: ⟪यत्नेन⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt4407))
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (Nebenform zu ⟪लभ्⟫): fassen <!-- TODO: Fallback translation -->
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (Nebenform zu ⟪लभ्⟫): kavramak
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
@@ -334,167 +333,125 @@ Pass. ⟪रभ्यते⟫
 Kaus. :sig[⟪रम्भ⟫]⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
-Absol. -⟪रभ्य⟫ <!-- TODO: Fallback translation -->
+Absol. -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : anfassen, beginnen, unternehmen <!-- TODO: Fallback translation -->
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : dokunmak, başlamak, girişmek
 
-⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: ⟪पब्बजा⟫) <!-- TODO: Fallback translation -->
+⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): evden çıkıp evsizliğe gitmek ; Budist novis olmak için yapılan tören (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Siehe: <!-- TODO: Fallback translation -->
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm) <!-- TODO: Fallback translation -->
-:::
 ::: media
 ![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408)) <!-- TODO: Fallback translation -->
+Resim: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt4408))
 :::
-## 44.6. Übung <!-- TODO: Fallback translation -->
+## 44.6. Alıştırma
 
-A) Bestimmen und übersetzen Sie folgende Formen: <!-- TODO: Fallback translation -->
+A) Şu formları belirleyin ve çevirin:
 
-1.  ⟪आदेः⟫ <!-- TODO: Fallback translation -->
-2.  ⟪आदः⟫ <!-- TODO: Fallback translation -->
-3.  ⟪अपुनाः⟫ <!-- TODO: Fallback translation -->
-4.  ⟪पुनः⟫ <!-- TODO: Fallback translation -->
-5.  ⟪आसीः⟫ <!-- TODO: Fallback translation -->
-6.  ⟪आसि⟫ <!-- TODO: Fallback translation -->
-7.  ⟪तन्वीथाः⟫ <!-- TODO: Fallback translation -->
-8.  ⟪अध्यैथाः⟫ <!-- TODO: Fallback translation -->
-9.  ⟪वित्थ⟫ <!-- TODO: Fallback translation -->
-10.  ⟪वीतम्⟫ <!-- TODO: Fallback translation -->
-11.  ⟪आध्वम्⟫ <!-- TODO: Fallback translation -->
-12.  ⟪पाथ⟫ <!-- TODO: Fallback translation -->
-13.  ⟪कथम्⟫ <!-- TODO: Fallback translation -->
-14.  ⟪स्वपिषि⟫ <!-- TODO: Fallback translation -->
-15.  ⟪अश्नीयात⟫ <!-- TODO: Fallback translation -->
-16.  ⟪आश्नाः⟫ <!-- TODO: Fallback translation -->
-17.  ⟪आश्नुवत⟫ <!-- TODO: Fallback translation -->
-18.  ⟪यन्ति⟫ <!-- TODO: Fallback translation -->
-19.  ⟪याथ⟫ <!-- TODO: Fallback translation -->
-20.  ⟪यथा⟫ <!-- TODO: Fallback translation -->
-21.  ⟪इयात⟫ <!-- TODO: Fallback translation -->
-22.  ⟪शिष्ठ⟫ <!-- TODO: Fallback translation -->
-23.  ⟪शिष्टः⟫ <!-- TODO: Fallback translation -->
-24.  ⟪आध्वे⟫ <!-- TODO: Fallback translation -->
-25.  ⟪अवक्⟫ <!-- TODO: Fallback translation -->
-26.  ⟪स्थ⟫ <!-- TODO: Fallback translation -->
-27.  ⟪तस्थौ⟫ <!-- TODO: Fallback translation -->
-28.  ⟪बध्नीथ⟫ <!-- TODO: Fallback translation -->
-29.  ⟪अशिष्ट⟫ <!-- TODO: Fallback translation -->
-30.  ⟪धुक्षे⟫ <!-- TODO: Fallback translation -->
-31.  ⟪धोक्ष्ये⟫ <!-- TODO: Fallback translation -->
-32.  ⟪वध्वे⟫ <!-- TODO: Fallback translation -->
-33.  ⟪अहन्⟫ <!-- TODO: Fallback translation -->
-34.  ⟪आख्येयम्⟫ <!-- TODO: Fallback translation -->
-35.  ⟪वदेयम्⟫ <!-- TODO: Fallback translation -->
-36.  ⟪यामः⟫ <!-- TODO: Fallback translation -->
-37.  ⟪येमिम⟫ <!-- TODO: Fallback translation -->
-38.  ⟪शेरते⟫ <!-- TODO: Fallback translation -->
-39.  ⟪द्विषीथाः⟫ <!-- TODO: Fallback translation -->
-40.  ⟪कुरुथ⟫ <!-- TODO: Fallback translation -->
-41.  ⟪आप्नुत⟫ <!-- TODO: Fallback translation -->
-42.  ⟪विक्रीणीध्वम्⟫ <!-- TODO: Fallback translation -->
-43.  ⟪सुन्मः⟫ <!-- TODO: Fallback translation -->
-44.  ⟪रोदिषि⟫ <!-- TODO: Fallback translation -->
-45.  ⟪अस्तवीः⟫ <!-- TODO: Fallback translation -->
-46.  ⟪अशृणुत⟫ <!-- TODO: Fallback translation -->
-47.  ⟪ब्रुवीध्वम्⟫ <!-- TODO: Fallback translation -->
-48.  ⟪द्विड्ढ्वे⟫ <!-- TODO: Fallback translation -->
-49.  ⟪शेकुः⟫ <!-- TODO: Fallback translation -->
-50.  ⟪चिनुथ⟫ <!-- TODO: Fallback translation -->
-51.  ⟪हथ⟫ <!-- TODO: Fallback translation -->
-52.  ⟪हतः⟫ <!-- TODO: Fallback translation -->
+1.  ⟪आदेः⟫
+2.  ⟪आदः⟫
+3.  ⟪अपुनाः⟫
+4.  ⟪पुनः⟫
+5.  ⟪आसीः⟫
+6.  ⟪आसि⟫
+7.  ⟪तन्वीथाः⟫
+8.  ⟪अध्यैथाः⟫
+9.  ⟪वित्थ⟫
+10.  ⟪वीतम्⟫
+11.  ⟪आध्वम्⟫
+12.  ⟪पाथ⟫
+13.  ⟪कथम्⟫
+14.  ⟪स्वपिषि⟫
+15.  ⟪अश्नीयात⟫
+16.  ⟪आश्नाः⟫
+17.  ⟪आश्नुवत⟫
+18.  ⟪यन्ति⟫
+19.  ⟪याथ⟫
+20.  ⟪यथा⟫
+21.  ⟪इयात⟫
+22.  ⟪शिष्ठ⟫
+23.  ⟪शिष्टः⟫
+24.  ⟪आध्वे⟫
+25.  ⟪अवक्⟫
+26.  ⟪स्थ⟫
+27.  ⟪तस्थौ⟫
+28.  ⟪बध्नीथ⟫
+29.  ⟪अशिष्ट⟫
+30.  ⟪धुक्षे⟫
+31.  ⟪धोक्ष्ये⟫
+32.  ⟪वध्वे⟫
+33.  ⟪अहन्⟫
+34.  ⟪आख्येयम्⟫
+35.  ⟪वदेयम्⟫
+36.  ⟪यामः⟫
+37.  ⟪येमिम⟫
+38.  ⟪शेरते⟫
+39.  ⟪द्विषीथाः⟫
+40.  ⟪कुरुथ⟫
+41.  ⟪आप्नुत⟫
+42.  ⟪विक्रीणीध्वम्⟫
+43.  ⟪सुन्मः⟫
+44.  ⟪रोदिषि⟫
+45.  ⟪अस्तवीः⟫
+46.  ⟪अशृणुत⟫
+47.  ⟪ब्रुवीध्वम्⟫
+48.  ⟪द्विड्ढ्वे⟫
+49.  ⟪शेकुः⟫
+50.  ⟪चिनुथ⟫
+51.  ⟪हथ⟫
+52.  ⟪हतः⟫
 
 ::: media
 ![](/images/lekt4409.webp)
-Abb.: ⟪कस्माद्रोदिषि⟫
-(Bildquelle: [Details](/licenses#lekt4409)) <!-- TODO: Fallback translation -->
+Resim: ⟪कस्माद्रोदिषि⟫
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4409))
 :::
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Çevirin:
 
-⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪अक्रोधेन जयेत्क्रोधमसाधुं सधुना जयेज्जयेत्सत्येन चानृतम् ॥१॥ पुत्राः किं पितृभ्यः पिण्डान्प्रायच्छत ॥२॥ कानि शास्त्राणि काश्यामध्यैथाः ॥३॥ बुद्धपुत्राश्चेन्महाशयनेषु शयीरन्प्रव्रज्यायां कृतं व्रतं न चरेयुः ॥४॥ अप्यार्ययुद्धाख्यानमाख्यास्यन्तं गुरुमभ्यनन्दः ॥५॥ द्वेष्यमपि न द्विष्यात लोभनीयं च न लुभ्येतैवं च प्रसन्ना भविष्यथ ॥६॥ न योत्स्य इत्यर्जुन उवाच ॥७॥ अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः । मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥८॥⟫
 
-⟪पुत्राः⟫ ⟪किं⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्प्रायच्छत⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+## 44.7. Şekil Bilgisi Tekrar Alıştırması
 
-⟪कानि⟫ ⟪शास्त्राणि⟫ ⟪काश्यामध्यैथाः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+Aşağıdaki formları belirleyiniz:
 
-⟪बुद्धपुत्राश्चेन्महाशयनेषु⟫ ⟪शयीरन्प्रव्रज्यायां⟫ ⟪कृतं⟫ ⟪व्रतं⟫ ⟪न⟫ ⟪चरेयुः⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+1. ⟪वदिता⟫
+2. ⟪उदिता⟫
+3. ⟪धातुः⟫
+4. ⟪दधुः⟫
+5. ⟪अदधुः⟫
+6. ⟪दध्युः⟫
+7. ⟪रक्षामि⟫
+8. ⟪रक्षाणि⟫
+9. ⟪रक्षीणि⟫
+10. ⟪रक्षिणी⟫
+11. ⟪राजनि⟫
+12. ⟪आसि⟫
+13. ⟪इज्ये⟫
+14. ⟪अयुध्ये⟫
+15. ⟪अयोध्ये⟫
+16. ⟪अयोधये⟫
+17. ⟪शोचनीयायाम्⟫
+18. ⟪वर्त्स्यति⟫
+19. ⟪आसन्⟫
+20. ⟪असन्⟫
+21. ⟪बिभ्यति⟫
+22. ⟪कुत्र⟫
+23. ⟪चेरिम⟫
+24. ⟪योक्ष्ये⟫
+25. ⟪योज्ये⟫
+26. ⟪युज्ये⟫
+27. ⟪चिक्ये⟫
+28. ⟪अजायामहि⟫
+29. ⟪स्मर्येय⟫
+30. ⟪स्मर्याय⟫
+31. ⟪कया⟫
+32. ⟪क्रेया⟫
+33. ⟪आत्मने⟫
+34. ⟪अदानम्⟫
+35. ⟪आददानम्⟫
+36. ⟪सेदिम⟫
+37. ⟪क्व⟫
+38. ⟪पिपूर्मः⟫
+39. ⟪कैः⟫
+40. ⟪कृत्येन⟫
 
-⟪अप्यार्ययुद्धाख्यानमाख्यास्यन्तं⟫ ⟪गुरुमभ्यनन्दः⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
-
-⟪द्वेष्यमपि⟫ ⟪न⟫ ⟪द्विष्यात⟫ ⟪लोभनीयं⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्येतैवं⟫ ⟪च⟫ ⟪प्रसन्ना⟫ ⟪भविष्यथ⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
-
-⟪न⟫ ⟪योत्स्य⟫ ⟪इत्यर्जुन⟫ ⟪उवाच⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
-
-⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
-⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
-
-## 44.7. Wiederholungsübung zur Formenlehre <!-- TODO: Fallback translation -->
-
-Bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
-
-1.  ⟪वदिता⟫ <!-- TODO: Fallback translation -->
-2.  ⟪उदिता⟫ <!-- TODO: Fallback translation -->
-3.  ⟪धातुः⟫ <!-- TODO: Fallback translation -->
-4.  ⟪दधुः⟫ <!-- TODO: Fallback translation -->
-5.  ⟪अदधुः⟫ <!-- TODO: Fallback translation -->
-6.  ⟪दध्युः⟫ <!-- TODO: Fallback translation -->
-7.  ⟪रक्षामि⟫ <!-- TODO: Fallback translation -->
-8.  ⟪रक्षाणि⟫ <!-- TODO: Fallback translation -->
-9.  ⟪रक्षीणि⟫ <!-- TODO: Fallback translation -->
-10.  ⟪रक्षिणी⟫ <!-- TODO: Fallback translation -->
-11.  ⟪राजनि⟫ <!-- TODO: Fallback translation -->
-12.  ⟪आसि⟫ <!-- TODO: Fallback translation -->
-13.  ⟪इज्ये⟫ <!-- TODO: Fallback translation -->
-14.  ⟪अयुध्ये⟫ <!-- TODO: Fallback translation -->
-15.  ⟪अयोध्ये⟫ <!-- TODO: Fallback translation -->
-16.  ⟪अयोधये⟫ <!-- TODO: Fallback translation -->
-17.  ⟪शोचनीयायाम्⟫ <!-- TODO: Fallback translation -->
-18.  ⟪वर्त्स्यति⟫ <!-- TODO: Fallback translation -->
-19.  ⟪आसन्⟫ <!-- TODO: Fallback translation -->
-20.  ⟪असन्⟫ <!-- TODO: Fallback translation -->
-21.  ⟪बिभ्यति⟫ <!-- TODO: Fallback translation -->
-22.  ⟪कुत्र⟫ <!-- TODO: Fallback translation -->
-23.  ⟪चेरिम⟫ <!-- TODO: Fallback translation -->
-24.  ⟪योक्ष्ये⟫ <!-- TODO: Fallback translation -->
-25.  ⟪योज्ये⟫ <!-- TODO: Fallback translation -->
-26.  ⟪युज्ये⟫ <!-- TODO: Fallback translation -->
-27.  ⟪चिक्ये⟫ <!-- TODO: Fallback translation -->
-28.  ⟪अजायामहि⟫ <!-- TODO: Fallback translation -->
-29.  ⟪स्मर्येय⟫ <!-- TODO: Fallback translation -->
-30.  ⟪स्मर्याय⟫ <!-- TODO: Fallback translation -->
-31.  ⟪कया⟫ <!-- TODO: Fallback translation -->
-32.  ⟪क्रेया⟫ <!-- TODO: Fallback translation -->
-33.  ⟪आत्मने⟫ <!-- TODO: Fallback translation -->
-34.  ⟪अदानम्⟫ <!-- TODO: Fallback translation -->
-35.  ⟪आददानम्⟫ <!-- TODO: Fallback translation -->
-36.  ⟪सेदिम⟫ <!-- TODO: Fallback translation -->
-37.  ⟪क्व⟫ <!-- TODO: Fallback translation -->
-38.  ⟪पिपूर्मः⟫ <!-- TODO: Fallback translation -->
-39.  ⟪कैः⟫ <!-- TODO: Fallback translation -->
-40.  ⟪कृत्येन⟫ <!-- TODO: Fallback translation -->
-
-::: deleteme-box
-
-**lekt4301.jpg**: Details in licenses.md <!-- TODO: Fallback translation -->
-
-**lekt4401.jpg**: Keine spezielle Lizenz/Bildquelle im Text gefunden <!-- TODO: Fallback translation -->
-
-**lekt4402.jpg**: Zeichnung von Henri Gerbault (1863 - 1930) (Public domain) <!-- TODO: Fallback translation -->
-
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
-
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
-
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
-
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
-
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
-
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
-
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
-:::

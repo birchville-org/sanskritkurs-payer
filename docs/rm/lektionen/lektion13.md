@@ -1,144 +1,147 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "Lecziun 13"
+subtitle: "PPP sin -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 13
 
-## 13.1. PPP auf -na- <!-- TODO: Fallback translation -->
 
-Per la distribuziun dals PPPs sin -ta- u -na- na pon vegnir formuladas reglas fixas. Ma:
+## 13.1. PPP sin -na-
+
+Per la distribuziun dals PPPs sin -ta- u resp. -na- na pon vegnir stabilidas reglas fermas. Ma:
 
 ::: grammar-box
 
-Quasi tut las radis che finischan cun -d furman il participi dal passet (PPP) cun -na-. En quest cas vegn -d-n- sustituid cun -n-n-, quai che betg ha lieu en il sandha da la parola, ma è ina imitaziun dal sandha da la frasa.
+Quasi tut las radis sin -d furman il PPP sin -na-. En quest cas vegn -d-n- sustituid cun -n-n-, quai che n’accatta betg en il Wortsandhi, mabain è ina imitaziun dal Satzsandhi.
 
-Esempio:
+Exempel:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::
 
-## 13.2. Ulteriur davart dal participi dal passà (PPP)
-
-::: grammar-box
-**1. Il PPP a verbs dal significà "pensar", "vulér", "conuscher", "saber", "adorar" uschè sco ulteriurs verbs, che vegnan marcads en il Dhātupāṭha, il registral da radichas a Pāṇini, cun ñi, ha betg mo significà dal temp passà, ma po era vegnir duvrà cun significà presentic:**
-p.ex.
-:::
-::: indent
-⟪इष्ट⟫ "desiderà" (d.h. betg mo en il passà vulà, ma era en il present)
-⟪त्वरित⟫ "cun hast, eilig" (PPP da tvar 1 Ā "se festinar"; Dhātupāṭha: ñitvárā)
-:::
-
-**2. Il PPP po vegnir duvrà attributivamain sco adjectiv:**
-p.ex.
-::: indent
-⟪इष्टं⟫ ⟪फलम्⟫ "la fructa desiderada (p.ex. quella dals acts)"
-:::
-
-Sche en quest cas ⟪अपि⟫ suonda al PPP, ha ⟪अपि⟫ il significat "benché":
-p.ex.
-::: indent
-⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Benchè quel ch'ha la fructa desiderada, el na l'obtena betg."
-:::
-
-**3. Il neutrum singular dal PPP da mintga verb po era vegnir duvrà sco substantiv verbal abstract:**
-p.ex.
-::: indent
-⟪गत⟫ n.: "il ir, il pass"
-⟪नृत्त⟫ n.: "il ballar, il ball"
-:::
-
-## 13.3. Determinativas attributivas da sustantivs (posiziun da la paraula)
+## 13.2. Ulteriur davart l’adopraziun dal PPP
 
 ::: grammar-box
 
-Attribute (Beifügungen) stehen in Prosa in der normalen Wortfolge vor dem Wort, das sie näher bestimmen. Adjektivische Attribute stimmen mit dem Nomen in Zahl, Fall und Geschlecht überein: <!-- TODO: Fallback translation -->
-
-Esempel:
-
+**1. Il PPP a verbs cun il significà «pensar», «spetgar», «conuscher», «savair», «adorar» sco era d’auters verbs, che èn segnads en il Dhātupāṭha, l’index da radis per Pāṇini, cun ñi, ha betg mo in significà dal temp passà, mabain po era vegnir adoprà cun in significà presential:**
+per ex.
 :::
 ::: indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "In sanctus videt fructum desideratum (operum suorum)."
+⟪इष्ट⟫ «spetgà» (quai na è betg mo en il passà spetgà, mabain era en la presenza)
+⟪त्वरित⟫ «curaind, spert» (PPP a tvar 1 Ā «curair»; Dhātupāṭha: ñitvárā)
 :::
 
-## 13.4. Furmaziun d'agiets sin -mant e -vant (taddhita)
+**2. Il PPP po vegnir adoprà sco adjectiv attributiv:**
+per ex.
+::: indent
+⟪इष्टं फलम्⟫ «la fruit spetgada (p.ex. da las acziuns)»
+:::
+
+Sche en quest cas ⟪अपि⟫ suonda il PPP, ha ⟪अपि⟫ il significà «malgrà che»:
+per ex.
+::: indent
+⟪इष्टमपि फलं न लभते⟫ = «Malgrà che el spetga la fruit, na retschaiva el ella betg.»
+:::
+
+**3. Il neutrum singular dal PPP da mintga verb po era vegnir adoprà sco verbalabstractum:**
+per ex.
+::: indent
+⟪गत⟫ n.: «l’ir, il pass»
+⟪नृत्त⟫ n.: «il ballar, il bal»
+:::
+
+## 13.3. Determinaziuns attributivas da nouns (posiziun da las paraulas)
 
 ::: grammar-box
 
-Mediant las suffixes taddhita -mant resp. -vant vegnan adjetivs possessivs da nomens formads. Lur significaziun è: "quai che vegn designà tras il num da basegna possedend".
+Attributes (adjuntivs) sajan en la prosa en l'ordinaria successiun da pleds avant il pled, ch'els detaglieschan. Adjuntivs adjektivics concordan cun il sustantiv en numer, cas e gener:
 
--vant tritt an Nomina, deren letzter ni vorletzter Laut ein a, ā ni m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
-
-Ezempels:
+Exempel:
 
 :::
 ::: indent
-⟪पशुमन्त्⟫ "possend bestiame"
-
-⟪गुणवन्त्⟫ "cun qualitads / virtus"
+⟪साधुरिष्टं फलं पश्यति⟫ = "In sants vescha la fruita desiderada (da ses lavurs)."
 :::
 
-## 13.5. Gradaziun da la stirp da nums
-
-Las tribus en -mant respectivament en -vant appartegnan als stems nominal cun fluctuaziun dal stem.
+## 13.4. Furmaziun d'adjektivs sin -mant e -vant (taddhita)
 
 ::: grammar-box
-En las radices nominalas cun fluctuaziun da la radis distinghescha ins tranter casus forts e casus debils. En ils casus forts ha il suffix ch’edifiescha la radis — en il cas da nominala da radis la part radicala — il stadi fort u il stadi allungà, en ils casus debils il stadi bass.
+
+Cun ils suffixs taddhita -mant resp. -vant vegnan furmads adjektivs possessivs da sustantivs. Sias significaziuns èn: "possedind quai, ch'è designà tras il sustantiv subjacent".
+
+vant sa attacha a sustantivs, cun l'ultima u la penultima consonanta essend in a, ā u m, uschia era a sustantivs, che fineschan cun in consonanta occlusiva; ad auters sustantivs sa attacha per ordinari -mant.
+
+Exemples:
+
 :::
-**Ils casus forts èn:**
+::: indent
+⟪पशुमन्त्⟫ "possedind bestgiami"
+
+⟪गुणवन्त्⟫ "possedind qualities bunas / virtus"
+:::
+
+## 13.5. Abstensiun da stamms da sustantivs
+
+Ils stamms sin -mant resp. -vant appartegnan als stamms nominals cun abstensiun da stemm.
+
+::: grammar-box
+Tar stamms nominals cun abstensiun da stemm distinguescha ins tranter casus forts e debils (cas). En ils casus forts ha il suffix furmand il stemm — tar sustantivs da radis la part radixenta — stadi alt resp. allungà, en ils casus debils stadi bass.
+:::
+**Casus forts èn:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
 | **Tar masculins e feminins** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAccusativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAccusativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVocativ:br⟪सम्बोधनप्रथमा⟫ |
-| **Tar neutris** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAccusativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ |
+| **Tar neutrals** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAccusativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ |
 
-**Tuts ils auters casus èn faibles.**
-
-::: grammar-box
-Sco dal prefix d’ina cumpunaziun stat in num cun declinaziun dal stem en il stem debel (en il cuntrapè dal num cun trais stems en il cuntrapè ditg «miez»).
-:::
-
-## 13.6. Concerne il sandhi da las paraulas
-
-Per capir las singulas formas da la declinaziun da nomina sin -mant e -vant èn necessarias las suandantas reglas dal sandhi da las paraulas:
+**Tut ils auters cas èn faibles.**
 
 ::: grammar-box
-1. Dumber da consonantas finalas d’ina paraula: Da duas u dapliiras consonantas, sin las qualas ina paraula pudess finir, resta mo la prima consonanta; las autras vegnan eliminadas. Permess è la cumbinaziun -r- + consonanta.
-
-2. Ina plosiva surda vegn sustituida davant ina plosiva sonora (betg nasala) tras la plosiva sonora correspundenta:
+Sco element avant d'in cumpositum stat in num cun declinaziun dal stem en il stem faivel (tar nums trais-stem en il ciamà mez).
 :::
-Esempis:
+
+## 13.6. Al sandha da las paraulas
+
+Per la cumprensiun dals singuls formats da la declinaziun da nums sin -mant e -vant èn necessarias las suandantas leschas dal sandha da las paraulas:
+
+::: grammar-box
+1. Dumber da consonantas finalas d'in pled: Da duas u dapli consonantas, sin las qualas in pled dovess finir, resta mo la prima consonanta, las autras vegnan pers. Permess è la cumbinaziun -r- + consonanta.
+
+2. In sursur surd vegn avant in sursur sonor (betg nasala) remplazzà dal sursur sonor correspundent:
+:::
+Exempels:
 ::: indent
--t + bh- » -d-bh- ⟪द्भ्⟫
+t + bh- » -d-bh- ⟪द्भ्⟫
 
--k + bh- » -g-bh- ⟪ग्भ्⟫
+k + bh- » -g-bh- ⟪ग्भ्⟫
 
--c + bh- » -g-bh- ⟪ग्भ्⟫
+c + bh- » -g-bh- ⟪ग्भ्⟫
 
--c + dh- » -g-dh- ⟪ग्ध्⟫
+c + dh- » -g-dh- ⟪ग्ध्⟫
 :::
 
-## 13.7. Desinenzas casalas da stams consonantics
+## 13.7. Desinenzas da cas da stems consonantics
 
 ::: grammar-box
 
-En cun stins che finescon cun consonant:
-* è la desinenza dal accusativ (dvitīyā) plural masculin e feminin -as.
-* è regularmain format il neutrum en nominativ (prathamā) ed accusativ (dvitīyā) singular sens desinenza.
-* è regularmain format en il neutrum la desinenza dal nominativ ed accusativ plural -i.
+Tar stems cun finala consonantica:
+* è la desinenza da l'accusativ (dvitīyā) plural masculin e feminin -as.
+* è tar stems regulars il neutrum en nominativ (prathamā) e accusativ (dvitīyā) singular senza desinenza.
+* è tar stems regulars en il neutrum la desinenza dal nominativ e accusativ plural -i.
 
 :::
 
-## 13.8. Declinaziun dals stizs sin -mant e -vant
+## 13.8. Declinaziun dals stems sin -mant e -vant
 
 ::: grammar-box
 
-* Stamm fort: Nomen + -mant- / -vant-
-* Stamm debol: Nomen + -mat- / -vat- (da: *-mnt- / *-vnt-)
+* stem fort: num + -mant- / -vant-
+* stem faivel: num + -mat- / -vat- (da: *-mnt- / *-vnt-)
 
 | | | Masculin || Neutrum ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
@@ -151,176 +154,141 @@ En cun stins che finescon cun consonant:
 
 Feminin:
 
-La radisch feminina dals radischs cun -mant- e -vant- finischa cun -mat-ī resp. -vat-ī. La declinaziun va sco tar devī, quai vul dir: n’exista nagina variaziun dal radisch.
+Il stemma feminil da las stamas sin -mant- e -vant- è -mat-ī resp. -vat-ī. La declinaziun va sco per devī, quai dir: nagina variaziun dal stemma.
 
-Esempel:
-* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
+Exempel:
+* paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
 
 :::
 
-## 13.9. Glista da pleds
+## 13.9. Glossari
 
-Imparar las suentas suventas:
+Memorisai las suandantas paraulas:
 
-- **eva** ⟪एव⟫ : accentuescha la paraula precedenta
-- **asura** m. ⟪असुर⟫ : demun
+**eva** ⟪एव⟫ : accentuescha la parola precedenta
+**asura** m. ⟪असुर⟫ : demun
 
-> **ASURA.** «Spiritual, divin.»
->**ASURA.** «Spiritual, divin.»
-> En las partes más antiguas del Ṛgveda este término se utiliza para el espíritu supremo, y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios' se aplicó a varios de los dioses principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado cumpletamain opuesto, y pasó a significar, como ahora, un demonio o enemigo de los dioses.
->Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). El relato del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (Prajāpati's) vientre. *Asu* es declarado por Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras." La palabra ha sido utilizada durante mucho tiempo como un nombre general para los enemigos de los dioses, incluyendo los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo los Rakṣasas descendientes de Pulastya.
-> Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). El relato del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (Prajāpati's) vientre. *Asu* es declarado por Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras." La palabra ha sido utilizada durante mucho tiempo como un nombre general para los enemigos de los dioses, incluyendo los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo los Rakṣasas descendientes de Pulastya.
->En este sentido se ha encontrado una derivación diferente para ello: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura,* comúnmente utilizada para 'un dios.'"
-> Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). El relato del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (Prajāpati's) vientre. *Asu* es declarado por Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras." La palabra ha sido utilizada durante mucho tiempo como un nombre general para los enemigos de los dioses, incluyendo los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo los Rakṣasas descendientes de Pulastya.
+> **ASURA.** 'Spiritual, divin.'
 >
-> En este sentido se ha encontrado una derivación diferente para ello: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura,* comúnmente utilizada para 'un dios.'"
+> En las part veglias dal Ṛgveda questa parola è adoperada per il spirit suprem, ed è la medema sco l'Ahura dals Zoroastrians. En il senn da 'deus' è ella vegnida applicada a blers dals deus principals, sco per Indra, Agni e Varuṇa. Suenter ha ella gudagnà in senn totalmain cuntrari ed è sa sviluppada, sco ussa, a demun u inimic dals deus.
 >
-> [Fuente: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> Questa parola cun quest senn sa chatta en las part pli novs dal Ṛgveda, specialmain en l'ultim chapitel, ed era en l'Atharvaveda. Ils Brāhmaṇas attribueschan il medem senn a questa parola e documenteschan bleras cumbattiments tranter ils Asuras ed ils deus. Cunform al Taittirīya Brāhmaṇa, il spirt *(asu)* da Prajapati è vegnì viv e "cun quest spirt ha el creà nus Asuras." En in'autra part da la medema ovra stat che Prajāpati "è vegnì enstupidà. El ha creà Asuras da ses abdomen." Il Śatapatha Brāhmaṇa è cunform a la decleraziun avant e stat che "el ha creà Asuras da ses spirt inferiur." Il Taittirīya Āraṇyaka rapportescha che Prajāpati ha creà deus, umans, paters, Gandharvas e Apsarases da l'aua, ed che ils Asuras, Rakṣasas e piśācas èn naschids da las guttas ch'èn vegnidas versadas. La decleraziun da Manu è che els èn vegnids creads dals Prajāpatis.
+>
+> Cunform al Viṣṇu Purāṇa èn els naschids dal gremel da Brahma (prajāpati). Il rapport dal Vāyu Purāṇa è: "Asuras èn vegnids creads per emprim sco figls da ses (Prajāpati's) gremel. *Asu* è declerà dal Brāhmaṇa sco spirt. Da quest'idea èn quels essers naschids; perquai èn els Asuras." La parola è dapi lung temp adoperada sco num general per ils inimics dals deus, cunzunt ils Daityas e Danavas ed autras discendents da Kaśyapa, ma betg cunzunt ils Rakṣasas discendents da Pulastya.
+>
+> En quest senn è ina derivaziun differenta chattada per ella: la font n'è betg pli asu, 'spirt', ma l'inizial *a* è prendì sco prefix negativ e *asura* significia 'betg in deus'; perquai, cunform ad auters, è naschida la parola *sura*, adoperada usitadamain per 'in deus.'"
+>
+> [Fonte: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
-Abb.: ⟪महिषासुरः⟫
-(Bildquelle: [Details](/rm/licenses#lekt1301))
+Fig.: ⟪महिषासुरः⟫
+(Fonte da figura: [Detalles](/rm/licenses#lekt1301))
 :::
-- **guṇa** m. ⟪गुण⟫ : fil, corda; proprietad, buna proprietad
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : ir, vegnir en
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : esser, esser là
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : lantsar, (lantsar) via
-- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : ir
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : proteger, custodiar
+**guṇa** m. ⟪गुण⟫ : fil, corda; proprietat, buna proprietad
+**pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ : ir, arrivar en
+**as** 2 P (asti) ⟪अस् अस्ति⟫ : esser, esser là
+**as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस् अस्यति अस्यते अस्त⟫ : lantsar, (lur)gettar
+**i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ एति ईयते इत⟫ : ir
+**pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा पाति पायते पात⟫ : proteger, custodiar
 
 ::: indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : trair (tradizionalmain enta la 1. classa)
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ : bair (tradizionalmain calculà cun la 1. classa)
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : odiar, inimisar
-- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : mangiar, consumar
-- **anna** n. ⟪अन्न⟫ : mangiar (da PPP: *ad-na: quai ch'è stà mangià)
+**dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ : odiar, esser inimic
+**ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ : mangiar, consumar
+**anna** n. ⟪अन्न⟫ : nutriment (da PPP: *ad-na: quai ch'è mangià)
 
 ::: media
 ![](/images/lekt1304.webp)
-Abb.: ⟪अन्नम्⟫
-(Bildquelle: [Detagl](/rm/licenses#lekt1304))
+Fig.: ⟪अन्नम्⟫
+(Fonte da figura: [Detalles](/rm/licenses#lekt1304))
 :::
-pad 4 Ā: <!-- TODO: Fallback translation -->
+Furmaziun da parolas:
 
 pad 4 Ā:
 
 ::: indent
 **pada** n. ⟪पद⟫ : pass, posiziun, lieu
 
-**pāda** m. ⟪पाद⟫ : Pied, in quart, vers
+**pāda** m. ⟪पाद⟫ : pè, in quart, vers
 :::
 
 ::: media
 ![](/images/lekt1303.webp)
-Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Quellbild: [Detagl](/rm/licenses#lekt1303))
+Fig.: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
+(Fonte da figura: [Detalles](/rm/licenses#lekt1303))
 :::
-dviṣ 2 U: <!-- TODO: Fallback translation -->
+dviṣ 2 U:
 
 ::: indent
-**dveṣa** ⟪द्वेष⟫ : Od
+**dveṣa** ⟪द्वेष⟫ : odi
 :::
 
 ## 13.10. Exercizi
 
-A) Tradusci e trasforma en frasi al present activ:
+A) Traducir e midar en frasis da present activ:
 
-⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
-⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
-⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
+⟪१⟫. ⟪अग्निना गृहं दग्धम् । २⟫. ⟪बुद्धेन सत्यं बुद्धम् । ३⟫. ⟪बोध्या गौतमो मुक्तः ।⟫
 
 ::: media
 ![](/images/lekt1305.webp)
-Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
-(Imaggina da: [Detagls](/rm/licenses#lekt1305))
+Fig.: ⟪अत्र गौतमो बुद्धो बोध्या मुक्तः⟫
+(Fonte da figura: [Detalles](/rm/licenses#lekt1305))
 :::
-⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 pussaivladads)
-⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
-⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
-⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
-⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
-⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
-⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
-⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
+⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (2 modalitats)
+⟪५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः । ६⟫. ⟪रामेण पुण्यं कृतम् । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् । ८⟫. ⟪धर्मेण स्वर्गं नीतम् । ९⟫. ⟪साधुनाधर्मो न कृतम् । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
 
-B) Tradusci e trasforma in frasi passive al passato:
+B) Tradusci e transforma en fratschas passivas dal temp passà:
 
-⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
-⟪२⟫. ⟪योद्धा⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
-⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
-⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्⟫ ⟪यजते⟫ ⟪।⟫
-⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
-⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪।⟫
-⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
-⟪११⟫. ⟪कयर्ग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
-⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
-⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
-⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
+⟪१⟫. ⟪राम इष्टमपि मोक्षं न लभते । २⟫. ⟪योद्धा न मुञ्चति । ३⟫. ⟪साधवो देवान्स्मरन्ति । ४⟫. ⟪पुण्यवान्पुत्रो देवान् यजते । ५⟫. ⟪सुखवान्क्षत्रियो धर्मं रक्षति । ६⟫. ⟪पुत्रवान्नरकं न गच्छति । ७⟫. ⟪धर्मवती पापं न करोतीति गुरुर्वदति । ८⟫. ⟪बुद्धिमन्तः सत्यवतो धर्मं पृच्छन्ति । ९⟫. ⟪धर्मवन्तः फलवत्पुण्यं कुर्वन्ति । १०⟫. ⟪ब्राह्मणा गुणवतः पुत्रानिच्छन्ति । ११⟫. ⟪कयर्ग्वेदं शृण्वन्ति । १२⟫. ⟪किमीश्वरः सृजति । १३⟫. ⟪साधुः कृतं पापं सहते । १४⟫. ⟪पार्थिवो धनमिच्छतीति नीचा मन्यन्ते । १५⟫. ⟪नैवासुरो जयतीत्यृषयः पश्यन्ति । १६⟫. ⟪ब्राह्मणाः किं पिबन्ति खादन्ति च ॥⟫
 
-## 13.11. Exercizi da repetiziun
 
-A) Tradusci las suandantas frasis:
+## 13.11. Esercizi da repetiziun
 
-⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
-⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
-⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
-⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
-⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
-⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
-⟪८⟫. ⟪गुणवान्⟫ ⟪द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
-⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
-⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्येन⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
-⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
-⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
+A) Tradusci las suandantas fratschas:
 
-B) Mettai las frasis da l'exercizi A) en il passiv.
+⟪१⟫. ⟪रामो मार्गेण ग्रामं गच्छति । २⟫. ⟪नरा धनेन सुखमिच्छन्ति । ३⟫. ⟪नरः पुत्रेण नगरं पद्यते । ४⟫. ⟪देवो लोकान्सृजति । ५⟫. ⟪बाला जलं पिबति । ६⟫. ⟪कवयो धनं लुभ्यन्ति । ७⟫. ⟪बलवान्क्षत्रियः शूद्राञ्जयति । ८⟫. ⟪गुणवान् द्विष्टमपि शत्रुं न युध्यते । ९⟫. ⟪अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति । १०⟫. ⟪बाला अन्नेन बलमाप्नुवन्ति । ११⟫. ⟪बुद्धिमन्तः सत्येन मोक्षं लभन्ते । १२⟫. ⟪इमाः साध्व्यः पापं सहन्ते । १३⟫. ⟪कां देवतामृषिः पश्यति । १४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।⟫
 
-C) Formai inculcas cunstructiuns PPP a las frasis d'exercizi A).
+B) Mettaì las frasis da l’exercizi A) en il passiv.
+
+C) Creai per las frasis da l’exercizi A) ina construcziun cun participi dal passiv (PPP).
 
 ::: media
 ![](/images/lekt1302.webp)
-Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
-(Fontana da l'imagina: [Detagls](/rm/licenses#lekt1302))
+Abb.: ⟪सत्यमेव जयते⟫
+(Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt1302))
 :::
-D) Da tgeis cumpigns da sons pon esser naschidas las suandantas furmas da Sandhi? Dat tuttas pussaivladads: <!-- TODO: Fallback translation -->
+D) Da tge cumbinaziuns da sons pon esser naschidas las suandantas furmas da Sandhi? Dat tut las pussaivladads:
 
-1. -ṇḍ(h)-
-2. -o-
-3. -ṣṭ-
-4. -st(h)-
-5. -ai-
-6. -au-
-7. -mst-
-8. -ṃśc-
-9. -ṃṣṭ-
-10. -ñj-
-11. -ñś-
-12. -o davant consonants sonads
-13. -ar-
-14. -ñch-
-15. -ṇḍ(h)-
-16. -ṣṭ-
-17. -st(h)-
-18. -mst-
-19. -ṃśc-
-20. -ṃṣṭ-
-21. -ir davant vocal u consonant sonà
-22. -īr davant vocal u consonant sonà
-23. -ur davant vocal u consonant sonà
-24. -ūr davant vocal u consonant sonà
-25. -er davant vocal u consonant sonà
-26. -or davant vocal u consonant sonà
-27. -air davant vocal u consonant sonà
-28. -aur davant vocal u consonant sonà
+1. -a avant vocal (exceptà a-)
+2. -ā-
+3. -ā avant vocal
+4. -ā avant consonants sonads
+5. -ī-
+6. -ū-
+7. -ṝ-
+8. -e-
+9. -e avant Avagraha
+10. -o-
+11. -o avant Avagraha
+12. -o avant consonants sonads
+13. -ai-
+14. -au-
+15. -y avant vocal
+16. -v avant vocal
+17. -ravant vocal
+18. -ay avant vocal
+19. -avavant vocal
+20. -ar-
+21. -iravant vocal u consonant sonà
+22. -īravant vocal u consonant sonà
+23. -uravant vocal u consonant sonà
+24. -ūravant vocal u consonant sonà
+25. -eravant vocal u consonant sonà
+26. -oravant vocal u consonant sonà
+27. -airavant vocal u consonant sonà
+28. -auravant vocal u consonant sonà
 29. -ñj-
 30. -ñś-
 31. -ñch-
@@ -328,21 +296,21 @@ D) Da tgeis cumpigns da sons pon esser naschidas las suandantas furmas da Sandhi
 33. -śc-
 34. -ṣṭ-
 35. -st(h)-
-36. -mst-
+36. Anusvāra avant consonant
 37. -ṃśc-
 38. -ṃṣṭ-
 39. -mst-
 
-E) Traducziun en Sanscrit:
+E) Traducì en il Sanscrit:
 
-1. -mst-
-2. Śūdras èn en in tschiel vegnids.
-3. La dea era sdegnada.
-4. Tramain la dottrina dal Buddha las persunas èn vegnidas liberadas.
-5. Il figl ha ballà.
-6. L'amulet ha protegì il magister.
-7. In brahman ha betg ditg ina falsitad.
-8. Las dunnas śūdra han venerà la dea cun sacrificis.
+1. La deessa era arrabbiada.
+2. Śūdras èn vegnids en in tschainon.
+3. Ils agriculturs èn andads sin il viadi.
+4. La dotrina dal Buddha ha liberà la glieud.
+5. Il figl ha ballarì.
+6. L’amulett ha protegì il magister.
+7. In Brahman n’ha betg ditg ina falsadad.
+8. Femnas Śūdra han venerà la deessa cun sacrificis.
 9. Buddha è vegnì sveglià a la veritad = Buddha ha reconuschì la veritad.
 10. Ils savis vedics han udì la Śruti.
-11. Ils sacrificants han premì il soma.
+11. Ils sacrifizants han premì il Soma.

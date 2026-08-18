@@ -410,11 +410,3 @@ status: stable
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
-::: deleteme-box
-
-**lekt1701:** [பட மூலம்: tlongacre வால். -- http://www.flickr.com/photos/tlongacre/2177187487/. -- 2008-12-07 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (அங்கீகாரம், மாற்றம் இல்லை)]
-
-**lekt1702:** [பட மூலம்: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- 2008-12-07 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (அங்கீகாரம், வணிகரீதியான பயன்பாடு இல்லை, பகிர்வு ஒரே மாதிரியானது)]
-
-**lekt1703:** பெங்களூரு = ಬೆಂಗಳೂರು [பட மூலம்: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- 2008-12-07 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (அங்கீகாரம், வணிகரீதியான பயன்பாடு இல்லை)]
-:::

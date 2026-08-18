@@ -11,9 +11,9 @@ status: stable
 
 ## 16.1. Zum Sandhi auslautender Konsonanten
 
-Zur Bildung von Komposita, deren Vorderglied konsonantisch auslautende Stämme bilden, benötigt man folgende Regeln: <!-- TODO: Fallback translation -->
+Zur Bildung von Komposita, deren Vorderglied konsonantisch auslautende Stämme bilden, benötigt man folgende Regeln:
 
-Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale). <!-- TODO: Fallback translation -->
+Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale).
 
 ::: no-header
 
@@ -24,9 +24,9 @@ Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. kei
 | **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
-Ausnahme zu obiger Regel: <!-- TODO: Fallback translation -->
+Ausnahme zu obiger Regel:
 
-Auslautender dentaler Verschlusslaut (nicht Nasal): <!-- TODO: Fallback translation -->
+Auslautender dentaler Verschlusslaut (nicht Nasal):
 
 ::: no-header
 
@@ -38,7 +38,7 @@ Auslautender dentaler Verschlusslaut (nicht Nasal): <!-- TODO: Fallback translat
 | **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫
 
@@ -58,67 +58,67 @@ Beispiele: <!-- TODO: Fallback translation -->
 
 ## 16.2. 词汇表
 
-⟪अध्यापन⟫ n.: Unterrichten, Unterricht <!-- TODO: Fallback translation -->
+⟪अध्यापन⟫ n.: Unterrichten, Unterricht
 
 ::: media
 ![](/images/lekt1602.webp)
 Abb.: ⟪अध्यापनम्⟫
 "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
-(Bildquelle: [Details](/licenses#lekt1602)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1602))
 :::
-⟪अनसूया⟫ f.: Nicht-Murren, Neidlosigkeit <!-- TODO: Fallback translation -->
+⟪अनसूया⟫ f.: Nicht-Murren, Neidlosigkeit
 
-⟪नृशंस्य⟫ n.: Boshaftigkeit, Niedertracht <!-- TODO: Fallback translation -->
+⟪नृशंस्य⟫ n.: Boshaftigkeit, Niedertracht
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit <!-- TODO: Fallback translation -->
+⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
 :::
-⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben <!-- TODO: Fallback translation -->
+⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-⟪आजीव⟫ m.: Lebensunterhalt <!-- TODO: Fallback translation -->
+⟪आजीव⟫ m.: Lebensunterhalt
 :::
-⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht <!-- TODO: Fallback translation -->
+⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht
 
-⟪क्षेम⟫ n.: Ruhe, Frieden, Wohlergehen, sicherer Besitz <!-- TODO: Fallback translation -->
+⟪क्षेम⟫ n.: Ruhe, Frieden, Wohlergehen, sicherer Besitz
 
-⟪चित्त⟫ n.: Bewusstsein, Denken, Geist <!-- TODO: Fallback translation -->
+⟪चित्त⟫ n.: Bewusstsein, Denken, Geist
 
-⟪निरोध⟫ m.: Stoppen, Zum-Stillstand-Bringen <!-- TODO: Fallback translation -->
+⟪निरोध⟫ m.: Stoppen, Zum-Stillstand-Bringen
 
-* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): Wesen, Gespenst <!-- TODO: Fallback translation -->
+* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): Wesen, Gespenst
 
-⟪योग⟫ m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga <!-- TODO: Fallback translation -->
+⟪योग⟫ m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga
 
 ::: media
 ![](/images/lekt1601.webp)
 Abb.: ⟪योगी⟫
 Birla Mandir, Delhi
-(Bildquelle: [Details](/licenses#lekt1601)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1601))
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen <!-- TODO: Fallback translation -->
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
 
-⟪शस्त्र⟫ (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe <!-- TODO: Fallback translation -->
+⟪शस्त्र⟫ (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe
 
-⟪शौच⟫ n.: Reinigung, Reinheit <!-- TODO: Fallback translation -->
+⟪शौच⟫ n.: Reinigung, Reinheit
 
-⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: zum Ziel führend, bewirkend <!-- TODO: Fallback translation -->
+⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: zum Ziel führend, bewirkend
 
-⟪अहिंसा⟫ f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit <!-- TODO: Fallback translation -->
+⟪अहिंसा⟫ f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit
 
 ::: media
 ![](/images/lekt1603.jpg)
 Abb.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(Bildquelle: [Details](/licenses#lekt1603)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1603))
 :::
 ## 16.3. 练习
 
-A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie: <!-- TODO: Fallback translation -->
+A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie:
 
 ⟪१⟫. ⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫
 
@@ -132,7 +132,7 @@ A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie: <!
 ![](/images/lekt1604.webp)
 Abb.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / ਹਰਿਆਣਾ
-(Bildquelle: [Details](/licenses#lekt1604)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1604))
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
@@ -150,7 +150,7 @@ Abb.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫
 
-B) Lösen Sie in folgenden Sätzen alle Komposita in Sanskrit auf, bilden Sie so Sätze mit flektierten Nomina und übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Lösen Sie in folgenden Sätzen alle Komposita in Sanskrit auf, bilden Sie so Sätze mit flektierten Nomina und übersetzen Sie:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 
@@ -174,9 +174,9 @@ B) Lösen Sie in folgenden Sätzen alle Komposita in Sanskrit auf, bilden Sie so
 
 ## 16.4. Wiederholungsübung
 
-A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele für die bisher gelernten Deklinationsklassen. <!-- TODO: Fallback translation -->
+A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele für die bisher gelernten Deklinationsklassen.
 
-Verwenden Sie dazu folgendes Schema, das der Reihenfolge der Kasus bei den indischen Grammatikern entspricht und das wegen seiner - später zu besprechenden - Vorzüge auch von den westlichen Grammatikern übernommen wurde: <!-- TODO: Fallback translation -->
+Verwenden Sie dazu folgendes Schema, das der Reihenfolge der Kasus bei den indischen Grammatikern entspricht und das wegen seiner - später zu besprechenden - Vorzüge auch von den westlichen Grammatikern übernommen wurde:
 
 | Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
@@ -185,35 +185,35 @@ Verwenden Sie dazu folgendes Schema, das der Reihenfolge der Kasus bei den indis
 | **⟪३⟫. ⟪तृतीया⟫** :brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** |
 | **⟪६⟫. ⟪षष्ठी⟫** :brGenetiv | **⟪६⟫. ⟪षष्ठी⟫** |
 
-Lernen Sie die Deklinationsmuster nach diesen Beispielen auswendig!!! <!-- TODO: Fallback translation -->
+Lernen Sie die Deklinationsmuster nach diesen Beispielen auswendig!!!
 
-⟪१⟫. ⟪नर⟫ m. <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪नर⟫ m.
 
-⟪२⟫. ⟪फल⟫ n. <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪फल⟫ n.
 
-⟪३⟫. ⟪क्षत्रिया⟫ f. <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪क्षत्रिया⟫ f.
 
-⟪४⟫. ⟪अरि⟫ m. <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪अरि⟫ m.
 
-⟪५⟫. ⟪मति⟫ f. <!-- TODO: Fallback translation -->
+⟪५⟫. ⟪मति⟫ f.
 
-⟪६⟫. ⟪गुरु⟫ m. <!-- TODO: Fallback translation -->
+⟪६⟫. ⟪गुरु⟫ m.
 
-⟪७⟫. ⟪धेनु⟫ f. <!-- TODO: Fallback translation -->
+⟪७⟫. ⟪धेनु⟫ f.
 
-⟪८⟫. ⟪देवी⟫ f. <!-- TODO: Fallback translation -->
+⟪८⟫. ⟪देवी⟫ f.
 
-⟪९⟫. ⟪गुणवन्त्⟫ m., n., f. <!-- TODO: Fallback translation -->
+⟪९⟫. ⟪गुणवन्त्⟫ m., n., f.
 
-⟪१०⟫. ⟪किम्⟫  m., n., f. <!-- TODO: Fallback translation -->
+⟪१०⟫. ⟪किम्⟫  m., n., f.
 
-⟪११⟫. ⟪तद्⟫ m., n., f. <!-- TODO: Fallback translation -->
+⟪११⟫. ⟪तद्⟫ m., n., f.
 
-⟪१२⟫. ⟪एतद्⟫ m., n., f. <!-- TODO: Fallback translation -->
+⟪१२⟫. ⟪एतद्⟫ m., n., f.
 
-⟪१३⟫. ⟪इदम्⟫ m., n., f. <!-- TODO: Fallback translation -->
+⟪१३⟫. ⟪इदम्⟫ m., n., f.
 
-B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf:
 
 ⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫
 
@@ -230,23 +230,13 @@ B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf: <!-- TODO: Fal
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
 ::: indent
-Erklärungen; <!-- TODO: Fallback translation -->
+Erklärungen;
 
-Satz 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet <!-- TODO: Fallback translation -->
+Satz 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet
 
-Satz 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum zu ⟪कर्मन्⟫ "Tat" <!-- TODO: Fallback translation -->
+Satz 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum zu ⟪कर्मन्⟫ "Tat"
 
-Satz 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. zu ⟪सर्व⟫ "jeder, alle" (Pronomen, dekliniert nicht wie deva) <!-- TODO: Fallback translation -->
+Satz 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. zu ⟪सर्व⟫ "jeder, alle" (Pronomen, dekliniert nicht wie deva)
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt1602:** "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Bildquelle: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt1603:** "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Bildquelle: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-:::

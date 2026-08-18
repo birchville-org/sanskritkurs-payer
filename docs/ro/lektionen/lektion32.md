@@ -50,7 +50,7 @@ Exemple:
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | <!-- TODO: Fallback translation -->
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
 :::
 ::: grammar-box
@@ -65,7 +65,7 @@ Exemple:
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
-| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) | <!-- TODO: Fallback translation -->
+| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
 ## 32.4. Exemple de formare a imperfectului
@@ -135,7 +135,7 @@ Fig.: ⟪चूतः⟫
 Copac de mango, Kanpur.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3202))
 :::
-⟪तरु⟫ ⟪वृक्ष⟫ <!-- TODO: Fallback translation -->
+⟪तरु⟫ ⟪वृक्ष⟫
 
 ⟪पचेलिम⟫
 
@@ -468,9 +468,9 @@ C) Traduceți în sanscrită:
 
 11. Este timpul să ne dedicăm mâncării.
 
-12. Bine ați venit, regină. <!-- TODO: Fallback translation -->
+12. Bine ați venit, regină.
 
-13. Pentru cer, oamenii fac fapte meritorii. <!-- TODO: Fallback translation -->
+13. Pentru cer, oamenii fac fapte meritorii.
 
 14. Un om care, din mândrie, lăcomie, mânie sau frică, pronunță greșit o sentință, coboară într-o iad.
 
@@ -478,7 +478,7 @@ C) Traduceți în sanscrită:
 
 16. Fie întotdeauna legătura sa cu cei care au crescut în științe, ca educația/bunele sale maniere să crească. (Acest lucru) deoarece educația/bunele maniere au ca rădăcină această (legătură cu cei).
 
-17. În timp ce învățătorul stă, băiatul nu trebuie să stea jos. <!-- TODO: Fallback translation -->
+17. În timp ce învățătorul stă, băiatul nu trebuie să stea jos.
 
 18. Nu există o refugiu mai bun decât Rāma.
 
@@ -486,9 +486,9 @@ C) Traduceți în sanscrită:
 
 20. Govinda îl trimite pe Devadatta să gătească orez.
 
-21. Dharma ariilor este ca tinerii brahmani să studieze din nou și din nou secțiunile Veda și Smṛti. <!-- TODO: Fallback translation -->
+21. Dharma ariilor este ca tinerii brahmani să studieze din nou și din nou secțiunile Veda și Smṛti.
 
-22. Învățătorul i-a învățat pe băieți Veda și apoi a mers în casă. <!-- TODO: Fallback translation -->
+22. Învățătorul i-a învățat pe băieți Veda și apoi a mers în casă.
 
 23. Ce talisman a protejat fata?
 
@@ -522,19 +522,19 @@ C) Traduceți în sanscrită:
 
 38. Înaltul Hari este calea/țelul meu, care (i-a trimis) pe inamicii săi într-un cer, le-a făcut pe ale sale să cunoască sensul Veda, zeilor le-a dat imortalitatea să mănânce, creatorului (⟪विधि⟫) i-a învățat Veda, a așutat pământul în apă (ferme).
 
-39. Viṣṇu se arată devotaților săi. <!-- TODO: Fallback translation -->
+39. Viṣṇu se arată devotaților săi.
 
 40. Un guvern care nu este exercitat produce norma peștilor.
 
-41. Cine deține bogății, are prieteni; cine deține bogății, are rude; cine deține bogății, este un om (⟪पुमान्⟫ Nom. sq.) în lume; cine deține bogății, este anume un învățat. <!-- TODO: Fallback translation -->
+41. Cine deține bogății, are prieteni; cine deține bogății, are rude; cine deține bogății, este un om (⟪पुमान्⟫ Nom. sq.) în lume; cine deține bogății, este anume un învățat.
 
 42. Focul care arde pe mort, arde și pe văduva bună.
 
-43. Slujitoarea brahmanului a gătit mâncarea și o mănâncă (acum). <!-- TODO: Fallback translation -->
+43. Slujitoarea brahmanului a gătit mâncarea și o mănâncă (acum).
 
 44. Ajunge acum!
 
-45. Acest fruct îi ajunge pentru mâncare. <!-- TODO: Fallback translation -->
+45. Acest fruct îi ajunge pentru mâncare.
 
 46. Cel mai interior sanctuar al templului este o casă pentru imaginea zeului.
 
@@ -633,26 +633,5 @@ Explicații:
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Maimuțe în copaci de mango.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3210))
-:::
-
-::: deleteme-box
-
-**lekt3202:** Copac de mango, Kanpur. [Sursa imaginii: AmarChandra / Wikipedia. CC BY-SA]
-
-**lekt3203:** Maimuțe (macaci rhesus) în Delhi. [Sursa imaginii: dewalt / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
-
-**lekt3204:** Carieră de piatră la sud de Pune, Maharashtra. [Sursa imaginii: lecercle / Flickr. CC BY-NC-SA]
-
-**lekt3205:** Exercițiu de tragere / țintă cu săgeți, Karnataka. [Sursa imaginii: mattlogelin / Flickr. CC BY-NC]
-
-**lekt3207:** Foc de gunoi de vacă în Rajasthan. [Sursa imaginii: thebigdurian / Flickr. CC BY-NC-SA]
-
-**lekt3206:** Pictură Mehndi pe mâini în Mumbai. [Sursa imaginii: the_gman / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
-
-**lekt3208:** Monah budist în Sri Lanka. [Sursa imaginii: Trollderella / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
-
-**lekt3209:** Salutare / adio indian. [Sursa imaginii: dhyanji / Flickr. CC BY-NC-ND]
-
-**lekt3210:** Maimuțe în copaci de mango. [Sursa imaginii: Wikipedia. GNU FDL]
 :::
 

@@ -26,7 +26,7 @@ last_reconstructed: 2026-05-15
 
 ---
 
-## B) Übersetzungen <!-- TODO: Fallback translation -->
+## B) Übersetzungen
 
 ### ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
 
@@ -44,7 +44,7 @@ last_reconstructed: 2026-05-15
 **⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
-> Familien werden zu Nichtfamilien durch schlechte Heiraten, durch Unterlassen der Riten, durch Nichtstudium der Veden und durch Vergehen gegen Brahmanen. <!-- TODO: Fallback translation -->
+> Familien werden zu Nichtfamilien durch schlechte Heiraten, durch Unterlassen der Riten, durch Nichtstudium der Veden und durch Vergehen gegen Brahmanen.
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
 
@@ -62,7 +62,7 @@ last_reconstructed: 2026-05-15
 :::
 ---
 
-### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers <!-- TODO: Fallback translation -->
+### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
 
 **⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫**  
 **⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫**  
@@ -93,7 +93,7 @@ last_reconstructed: 2026-05-15
 
 ---
 
-### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs <!-- TODO: Fallback translation -->
+### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
 
 **⟪न⟫ ⟪किंचिदवमन्येत⟫**  
 **⟪सर्वस्य⟫ ⟪शृणुयान्मतम्⟫ ⟪।⟫**  

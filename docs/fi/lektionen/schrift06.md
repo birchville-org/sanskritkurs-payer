@@ -4,7 +4,7 @@
 
 ![](/images/schrift009.webp)
 
-Jhalle on myös seuraava muoto yleinen: <!-- TODO: Fallback translation -->
+Jhalle on myös seuraava muoto yleinen:
 
 ![](/images/schrift010.jpg)
 

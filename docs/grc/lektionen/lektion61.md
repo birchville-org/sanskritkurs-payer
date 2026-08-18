@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα ξαʹ
 
@@ -34,7 +34,7 @@ status: stable
 ### 61.1.2. Θηλυκὰ ῥιζικὰ ὀνόματα εἰς -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
 **Παρὰ τῇ κτήσει μετὰ τῶν κανονικῶν πτώσεων, ἐν τῷ Δοτ.Αβιτ.Γεν.Λεκ.εὐ. καὶ Γεν.πλ. συμβαίνουσι κτήσεις κατὰ τὸν τύπον τῶν πολυσύλλαβων θηλυκῶν ἐπὶ -ī (⟪देवी⟫).**
 :::
@@ -114,7 +114,7 @@ status: stable
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Παράδειγμα: <!-- TODO: Fallback translation -->
+Παράδειγμα:
 
 ⟪भू⟫ f. "γῆ"
 
@@ -203,7 +203,7 @@ status: stable
 ::: grammar-box
 **Form der Wurzel: Die Wurzel hat im allgemeinen dieselbe Form wie im einfachen Futur. Dasselbe gilt für den Bindevokal -i-.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
 | --- | --- |
@@ -283,7 +283,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 Τὰ κανόνες κατ’ ἰδίαν παρὰ Kielhorn, Γραμματική § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Παραδείγματα: <!-- TODO: Fallback translation -->
+Παραδείγματα:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -393,7 +393,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
 | ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" | <!-- TODO: Fallback translation -->
+| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
 
 ### 61.4.2. Σχηματισμὸς διὰ τοῦ ἐπιθήματος -ya, Parasmaipada
 
@@ -425,13 +425,13 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
 | ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
+| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
 
 Σκοπεῖτε τὴν σημασίαν τοῦ:
 
 | ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
 
 ::: media
 ![](/images/lekt6105.webp)
@@ -456,7 +456,7 @@ Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥�
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" | <!-- TODO: Fallback translation -->
+| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
 
 ::: media
 ![](/images/lekt6109.webp)
@@ -508,7 +508,7 @@ Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥�
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" | <!-- TODO: Fallback translation -->
+| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
 
 ::: grammar-box
 **Περὶ τινῶν ὀνομαστοχέων, τοῦτο τὸ ἐπίθημα σημαίνει: τι γίνεται ὡς τοῦτο, ἢ γίνεται εἰς τὸ διὰ τοῦ ὀνομαστοχέου δηλούμενον:**
@@ -541,7 +541,7 @@ Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥�
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -766,36 +766,3 @@ Ofterdingen, 2009-03-09
 ΤΕΛΟΣ ΤΟΥ ΜΑΘΗΜΑΤΟΣ ΣΑΝΣΚΡΙΤ
 :::
 
-::: deleteme-box
-
-**lekt6102:** [Πηγή εικόνας: Παγκόσμιος Τράπεζα / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Πρόσβαση στις 2009-03-06. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση τροποποιήσεων)]
-
-**lekt6106:** ⟪काशीपुर⟫ [Πηγή εικόνας: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Πρόσβαση στις 2009-03-09. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ομοία άδεια)]
-
-**lekt6107:** ⟪जोधपुर⟫ [Πηγή εικόνας: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Πρόσβαση στις 2009-03-09. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ομοία άδεια)]
-
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Πηγή εικόνας: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Πρόσβαση στις 2009-03-08. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση τροποποιήσεων)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Πηγὴ εἰκόνος: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Πρόσβασις ἐν 2009-03-08. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Ἀναγραφή)]
-
-**lekt6103:** [Πηγὴ εἰκόνος: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Πρόσβασις ἐν 2009-03-08. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Ἀναγραφή, οὐκ ἐμπορικὴ χρῆσις)] <!-- TODO: Fallback translation -->
-
-**lekt6109:** ⟪मुंबई⟫ [Πηγὴ εἰκόνος: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Πρόσβασις ἐν 2009-03-09. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ἀναγραφή, οὐκ ἐμπορικὴ χρῆσις, οὐκ τροποποίησις)]
-
-**lekt6110:** Καρλί [Πηγὴ εἰκόνος: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Πρόσβασις ἐν 2009-03-09. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ἀναγραφή, οὐκ ἐμπορικὴ χρῆσις, οὐκ τροποποίησις)]
-
-**lekt6111:** [Πηγὴ εἰκόνος: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Πρόσβασις ἡμερ. 2009-03-09. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Ὁμολογία συγγραφέως, ὁμοίως διανομή)] <!-- TODO: Fallback translation -->
-
-**lekt6113:** Ταϊλανδία - เมืองไทย [Πηγὴ εἰκόνος: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Πρόσβασις ἡμερ. 2009-03-09. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ὁμολογία συγγραφέως, οὐκ ἐμπορικὴ χρῆσις, οὐκ τροποποίησις)]
-
-**lekt6112:** 1845 - 1878 Καθηγητὴς τῆς Ἰνδικῆς καὶ Ἀνατολικῆς Φιλολογίας ἐν τῷ Πανεπιστημίῳ Κοπεγχάγης
-
-**lekt6114:** Basilica Santa Cruz, Kochi = കൊച്ചി [Πηγὴ εἰκόνος: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Πρόσβασις ἡμερ. 2009-03-09. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Ὁμολογία συγγραφέως, οὐκ ἐμπορικὴ χρῆσις)]
-
-**lekt6118:** [πηγὴ εἰκόνος: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- πρόσβασις ἡμερ. 2009-03-09. -- [ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ἀναφορὰ)]
-
-**lekt6117:** λαὸς Apatani, Arunachal Pradesh [πηγὴ εἰκόνος: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- πρόσβασις ἡμερ. 2009-03-09. -- [ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ἀναφορὰ)] <!-- TODO: Fallback translation -->
-
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), 12./13. αἰ. μ.Χ. [πηγὴ εἰκόνος: Quadell / Wikipedia. ἄδεια GNU FDLicense]::::
-
-:::

@@ -1,115 +1,119 @@
 ---
-title: Lektion 35
+title: "[Pelajaran 35]"
 lesson_id: 35
 status: stable
+
 ---
 
 # Pelajaran 35
 
-## 35.1. Perfekt Typ III: Starker Batang Hochstufe/Dehnstufe
+## 35.1. Perfek Tipe III: Stamm Kuat Tingkat Panjang/Tingkat Reguler
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
-**batang kuat:**
-*   3.sg.P: Ḍīrgha grade
-*   2.sg.P: Guṇa grade
-*   1.sg.P: optionally Guṇa grade or Ḍīrgha grade
+**stamm kuat:**
+*   3.sg.P: Tingkat Panjang
+*   2.sg.P: Tingkat Reguler
+*   1.sg.P: pilihan Tingkat Reguler atau Tingkat Panjang
 
-**batang lemah:** lihat subtipe
+**stamm lemah:** lihat pada subtipe
 :::
-### 35.1.1. Perfekt Typ IIIa: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Tiefstufe
+### 35.1.1. Perfek Tipe IIIa: Stamm Kuat Tingkat Panjang/Tingkat Reguler, stamm lemah Tingkat Rendah
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
 :::
 ::: indent
-**batang lemah:** tingkat nol
+**stamm lemah:** Tingkat Rendah
 :::
-Dibentuk dari akar-akar dengan tipe berikut:
-*   (Consonant)-(Consonant) - i/ī/u/ū
-*   (Consonant) - ṛ
+Dibentuk dari akar kata tipe:
+*   (Konsonan)-(Konsonan) - i/ī/u/ū
+*   (Konsonan) - ṛ
 
-Before endings beginning with a vowel, the following replacements occur:
-*   -i/-ī becomes -iy
-*   -u/-ū becomes -uv
-*   -ṛ becomes r
+Sebelum akhiran yang dimulai dengan vokal, diganti:
+*   -i/-ī menjadi -iy
+*   -u/-ū menjadi -uv
+*   -ṛ menjadi r
 Contoh:
 
-| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
+
+| Akar Kata | 3. sg. Perfek P. | 3. pl. Perfek P. | 3. sg. Perfek Ā. | 3. pl. Perfek Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:bri + iy + ur | | |
+| ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:br + iy + ur | | |
 | ⟪नी⟫ 1U | ⟪निनाय⟫ | ⟪निन्युर्⟫:brni-nī + ur | ⟪निन्ये⟫ | ⟪निन्यिरे⟫ |
 | ⟪स्तु⟫ 2U | ⟪तुष्टाव⟫:brtu + stau + a | ⟪तुष्टुवुर्⟫:brtu + stuv-ur | ⟪तुष्टुवे⟫ | ⟪तुष्टुविरे⟫ |
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfekt Typ IIIb: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Hochstufe
+### 35.1.2. Perfek Tipe IIIb: Stamm Kuat Tingkat Panjang/Tingkat Reguler, stamm lemah Tingkat Reguler
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
 :::
 ::: indent
-**batang lemah:** tingkat guṇa
+**stamm lemah:** Tingkat Reguler
 :::
-Dibentuk dari akar-akar dengan tipe berikut:
-*   (Consonant)-(Consonant)-ṝ
-*   Konsonan-Konsonan-ṛ (yaitu, akar yang berakhir dengan -ṛ yang didahului oleh beberapa konsonan)
+Dibentuk dari akar kata tipe:
+*   (Konsonan)-(Konsonan)-ṝ
+*   Konsonan-Konsonan-ṛ (yaitu, akar kata berakhiran -ṛ, jika didahului oleh beberapa konsonan)
 Contoh:
 
-| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
+
+| Akar Kata | 3. sg. Perfek P. | 3. pl. Perfek P. | 3. sg. Perfek Ā. | 3. pl. Perfek Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfekt Typ IV: Akarn auf -ā / -āi
+## 35.2. Perfekta Tipe IV: Akar berakhiran -ā / -āi
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
-**batang kuat:**
-*   3rd/1st sg. P Perfect ends in -au
-*   2nd sg. P : Strengthened grade -ā or Weakened grade -i
+**bentuk kuat (starker Stamm):**
+*   Orang ke-3/singularis dan orang ke-1/pluralis Perfekta Aktif berakhir pada -au
+*   Orang ke-2/singularis Perfekta Aktif: tingkat tinggi -ā atau tingkat rendah -i
 
-**batang lemah:**
-*   before consonant: Weakened grade -i
-*   before vowel: Weakened grade Ø
+**bentuk lemah (schwacher Stamm):**
+*   sebelum konsonan: tingkat rendah -i
+*   sebelum vokal: tingkat rendah Ø (nol)
 
-Dibentuk dari batang yang berakhir dengan -ā / -āi
+Dibentuk dari akar-akar berakhiran -ā / -āi
 :::
 Contoh:
 
-| Akar | 3. tg. Perf. P.:br1. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
+
+| Akar | Orang ke-3 sg. Perf. Akt.:brOrang ke-1 sg. Perf. Akt. | Orang ke-3 pl. Perf. Akt. | Orang ke-3 sg. Perf. Pasif | Orang ke-3 pl. Perf. Pasif |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Akarn Konsonant-a-Konsonant
+## 35.3. Perfekta Tipe V: Akar Konsonan-a-Konsonan
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
-**batang kuat:**
-*   3.sg.P: guṇa grade
-*   2.sg.P: zero grade
-*   1.sg.P: optionally zero grade or guṇa grade
+**bentuk kuat (starker Stamm):**
+*   Orang ke-3/singular Aktif: tingkat panjang (Dehnstufe)
+*   Orang ke-2/singular Aktif: tingkat tinggi (Hochstufe)
+*   Orang ke-1/singularis Aktif: pilihan antara tingkat tinggi atau tingkat panjang
 
-**batang lemah:** lihat subtipe
+**bentuk lemah (schwacher Stamm):** lihat subtipe
 
-Dibentuk dari akar dengan tipe (Konsonan)-Konsonan-a-Konsonan
+Dibentuk dari akar-akar tipe (Konsonan)-Konsonan-a-Konsonan
 :::
-### 35.3.1. Perfekt Typ Va: schwacher Batang Tiefstufe
+### 35.3.1. Perfekta Tipe Va: bentuk lemah tingkat rendah
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
 :::
 ::: indent
-**batang lemah:** Tingkat Guṇa
+**bentuk lemah (schwacher Stamm):** tingkat rendah
 :::
-Dibentuk oleh berbagai akar, termasuk:
+Dibentuk antara lain dari akar-akar:
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
@@ -118,63 +122,64 @@ Dibentuk oleh berbagai akar, termasuk:
 *   ⟪यज्⟫
 Contoh:
 
-| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
+
+| Akar | Orang ke-3 sg. Perf. Akt. | Orang ke-3 pl. Perf. Akt. | Orang ke-3 sg. Perf. Pasif | Orang ke-3 pl. Perf. Pasif |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
-| ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | **:sig[⟪जघ्नुर्⟫]** | | |
+| ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | :sig[⟪जघ्नुर्⟫] | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfekt Typ Vb: schwacher Batang Kontraktion (e-Typ)
+### 35.3.2. Perfekta Tipe Vb: Stamm lemah Kontraksi (tipe-e)
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
 :::
 ::: indent
-**batang lemah:** tanpa reduplikasi. Penggantian -a- akar dengan -e-
-(for explanation, see Thumb-Hauschild 1,2 p. 286f.)
+**stam lemah:** tanpa reduplikasi. Penggantian -a- akar dengan -e-  
+(untuk penjelasan lihat Thumb-Hauschild 1,2 hlm. 286f.)
 :::
-Dibentuk dari akar yang mengandung -a- di antara dua konsonan sederhana, yang konsonan awalnya tetap tidak berubah dalam suku kata reduplikasi (yaitu, yang konsonan awalnya bukan guttural, aspirat, atau h).
+Dibentuk dari akar-akar dengan -a- di antara dua konsonan sederhana, yang konsonan awalnya tidak berubah dalam suku kata reduplikasi (yaitu, konsonan awal mereka bukan gutural, aspirat, atau h).
 Contoh:
 
-| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
+| Akar | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | **:sig[⟪पे⟫]**⟪चुर्⟫ | **:sig[⟪पे⟫]**⟪चे⟫ | **:sig[⟪पे⟫]**⟪चिरे⟫ |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ |
 
-### 35.3.3. Perfekt Typ Vc: Akarn Konsonant-a-Konsonant. Schwacher Batang Hochstufe
+### 35.3.3. Perfekta Tipe Vc: Akar Konsonan-a-Konsonan. Stam lemah Tingkat Tinggi
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
-**batang lemah:** tingkat kuat
+**stam lemah:** Tingkat Tinggi (Guna)
 
-Terbentuk dari semua akar lainnya dengan -a- medial, yaitu, akar dengan -a- medial
+Dibentuk dari semua akar lain dengan -a- tengah, yaitu akar dengan -a- tengah
 *   yang dimulai dengan dua konsonan
 *   yang dimulai dengan gutural
 *   yang dimulai dengan aspirat
 *   yang dimulai dengan h
 
-dengan ketentuan mereka tidak termasuk dalam Perfek Tipe Va.
+selama tidak termasuk dalam Perfekta Tipe Va.
 :::
 Contoh:
 
-| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
+| Akar | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
 ## 35.4. Daftar Kata
 
-**⟪नश्⟫** 4P **⟪नश्यति⟫** : binas, hancur, lenyap
+⟪नश्⟫ 4P ⟪नश्यति⟫ : hilang, binasa, lenyap
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
-**Kaus. ⟪नाशयति⟫**
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
+**Fut. ⟪नशिष्यति । नङ्क्ष्यति⟫** :br
+**Kaus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : lenyap, binas, hancur
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : lenyap, hilang, binasa
 
 **⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : melangkah, pergi
 ::: indent
@@ -280,13 +285,3 @@ Yajña ceremony, Shiva Ashram, Ganeshpuri.
 
 C) Transform the sentences from Exercise B) by replacing perfect forms with imperfect forms.
 
-::: deleteme-box
-
-**lekt3501:** Temple musicians, Kaadu Malleswara Temple, Bangalore. [Image source: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** People walking, Senegal. [Image source: Curt Carnemark / World Bank. CC BY-NC-ND]
-
-**lekt3503:** Market in Vadaseri, Tamil Nadu. [Image source: kifo / Flickr. CC BY-SA]
-
-**lekt3504:** Yajña ceremony, Shiva Ashram, Ganeshpuri. [Image source: Dey / Flickr. CC BY-NC-SA]
-:::

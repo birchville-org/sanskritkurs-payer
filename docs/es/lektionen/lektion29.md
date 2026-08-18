@@ -156,7 +156,7 @@ Explicaciones:
 
 ⟪।११।⟫ ⟪योजयति⟫ (Caus. de ⟪युज्⟫) "engañar, unir con, asociar con"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva) &lt;!-- TODO: Fallback translation --&gt;
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva) &lt;!--  --&gt;
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "cuánto más"
 
@@ -261,9 +261,5 @@ Explicaciones:
 | ⟪हन्⟫ ⟪२⟫ ⟪प⟫ | ⟪हनिष्यति⟫ | ⟪घातयति⟫ |
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
-:::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [Fuente de la imagen: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Acceso el 2008-12-20. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual)]
 :::
 

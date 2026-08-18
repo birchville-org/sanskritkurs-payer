@@ -1,10 +1,11 @@
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "Lectio 37"
+subtitle: "Adverbium (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lectio 37
@@ -173,7 +174,7 @@ pronominia adverbialia correspondia deducere.
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -193,7 +194,7 @@ Fig.: ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Composita adverbialia
@@ -202,7 +203,7 @@ Fig.: ⟪क्व⟫
 
 Exemplum: ⟪सुचिरम्⟫ "diu multum (tempus)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫ <!-- TODO: Fallback translation -->
+### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
 
 Exemplum: ⟪रक्षार्थम्⟫ "in similitudine alicuius, cuius finis est custodia, ad finem custodiendi". Item potest considerari pertinens ad 5.1.: -⟪अर्थम्⟫ ut pars posterior adverbialis.
 
@@ -213,7 +214,7 @@ Exemplum: ⟪रक्षार्थम्⟫ "in similitudine alicuius, cuius 
 ::: grammar-box
 Est ⟪अव्ययीभाव⟫ compositum adverbium, cuius pars prior est indeclinabile (postpositio, particula etc.), et cuius pars posterior est nomen quod terminationem accusativi singularis neutri accipit.
 
-In resolutione compositionis, pars prior regeret partem posteriorem: <!-- TODO: Fallback translation -->
+In resolutione compositionis, pars prior regeret partem posteriorem:
 
 Exempla:
 :::
@@ -259,7 +260,7 @@ Pronomina indefinita (pronomina indefinita) per additionem
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet. <!-- TODO: Fallback translation -->
+an die Kasus des Fragepronomens ⟪किम्⟫ gebildet.
 
 e.g.
 :::
@@ -300,7 +301,7 @@ In quaestionibus enuntiativis totus contentus enuntiati quaeritur, e.g.
 *   abne Rāma hodie Ofterdingen?
 *   estne rectum, quod ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen) <!-- TODO: Fallback translation -->
+### 37.8.1. Wortfragen (Ergänzungsfragen)
 
 ::: grammar-box
 Schema:
@@ -520,17 +521,3 @@ Verte in Sanscritum utendo tantum formis verbalibus Perfectorum:
 
 Cum quidam senex in vicum alium pergeret, itinere fatigatus est. Itaque, ut requiesceret, ad radicem mangiferae arboris, quae ad laterem stabat, accessit. In hac arbore erant fructus maturi. Senescenti libitum erat ex his fructibus. Sed ascendere in arborem et fructus prehendere non potuit. Fortunate autem erant in hac arbore quaedam simiae, quae fructus edebant. Quos ut vidit, senex gavisus est. Quid fecit? Aliquos lapides sumpsit, in simias direxit et iecit. Simiae iratae quosdam fructus decerpserunt et in senem iecerunt. Senex hos gaudens accepit et in regionem voluntariam abiit. Ecce fatum senis!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Abb.: ⟪क्व⟫): [Imaginis fontis: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Accessus die 2008-12-30. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
-- **Image lekt3702.jpg** (Abb.: ⟪यथाशक्ति⟫): [Imaginis fontis: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Accessus die 2008-12-30. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
-- **Image lekt3703.jpg** (Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Imaginis fontis: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Accessus die 2008-12-30. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
-- **Image lekt3704.jpg** (Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Imaginis fontis: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Accessus die 2008-12-30. -- Licentia Creative Commons (Attributio)]
-- **Image lekt3705.jpg** (Abb.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Imaginis fontis: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Accessus die 2008-12-31. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
-- **Image lekt3706.jpg** (Abb.: ⟪वृक्षः⟫): Jaipur [Imaginis fontis: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Accessus die 2008-12-31. -- Licentia Creative Commons (Attributio, usus non commercialis, share alike)]
-- **Image lekt3707.jpg** (Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Pinacotheca ab ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Imaginis fontis: Wikipedia. Public domain]
-- **Image lekt3708.jpg** (Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Imaginis fontis: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Accessus die 2008-12-31. -- Licentia Creative Commons (Attributio)]
-- **Image lekt3709.jpg** (Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Imaginis fontis: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Accessus die 2008-12-31. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
-- **Image lekt3710.jpg** (Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Imaginis fontis: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Accessus die 2008-12-31. -- Licentia Creative Commons (Attributio, usus non commercialis, share alike)]
-- **Image lekt3711.jpg** (Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Imaginis fontis: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Accessus die 2008-12-31. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
-:::

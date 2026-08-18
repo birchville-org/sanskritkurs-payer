@@ -281,13 +281,3 @@ Cerimonia Yajña, ashram Shiva, Ganeshpuri. [Fonte immagine: Dey / Flickr. CC BY
 
 C) Trasformare le frasi dell'esercizio B) sostituendo i Perfetti con gli Imperfetti.
 
-::: deleteme-box
-
-**lekt3501:** Musicisti del tempio Kaadu Malleswara Temple Bangalore. [Fonte immagine: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** Persone che camminano, Senegal. [Fonte immagine: Curt Carnemark / World Bank. CC BY-NC-ND]
-
-**lekt3503:** Mercato a Vadaseri, Tamil Nadu. [Fonte immagine: kifo / Flickr. CC BY-SA]
-
-**lekt3504:** Cerimonia Yajña, ashram Shiva, Ganeshpuri. [Fonte immagine: Dey / Flickr. CC BY-NC-SA]
-:::

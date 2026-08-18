@@ -587,20 +587,3 @@ PPP ⟪सृत⟫
 
 ⟪युष्माकम्⟫ Gen.pl. :sig[⟪यूयम्⟫] के लिए
 
-::: deleteme-box
-
-- **lekt3801.jpg**: चित्र: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  बेंगलुरु = ಬೆಂಗಳೂರು \[चित्र स्रोत: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- 31-12-2008 को देखा गया. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)क्रीएटिव कॉमन्स लाइसेंस (नाम देना, वाणिज्यिक उपयोग नहीं)\]
-- **lekt3802.jpg**: चित्र: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, कोणार्क = ⟪कोनार्क⟫ \[चित्र स्रोत: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- 31-12-2008 को देखा गया.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)क्रीएटिव कॉमन्स लाइसेंस (नाम देना, वाणिज्यिक उपयोग नहीं)\]
-- **lekt3803.jpg**: चित्र: ⟪सीमा⟫  भारत और पाकिस्तान के बीच वाघा (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) में सीमा पार \[चित्र स्रोत: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- 31-12-2008 को देखा गया. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)क्रीएटिव कॉमन्स लाइसेंस (नाम देना, वाणिज्यिक उपयोग नहीं, साझा समान)\]
-- **lekt3804.jpg**: चित्र: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  गंधार, 2./3. शताब्दी ई. \[चित्र स्रोत: विकिपीडिया. सार्वजनिक क्षेत्र\]
-- **lekt3805.jpg**: चित्र: ⟪उदकम्⟫  दरेवाड़ी गाँव, अहमदनगर जिला = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[चित्र स्रोत: रॉबिन मर्फी, विश्व संसाधन संस्थान. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- 01-01-2009 को देखा गया. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)क्रीएटिव कॉमन्स लाइसेंस (नाम देना, वाणिज्यिक उपयोग नहीं, साझा समान)\]
-- **lekt3806.jpg**: चित्र: ⟪हस्ती⟫  नागरहोले राष्ट्रीय उद्यान = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[चित्र स्रोत: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- 01-01-2009 को देखा गया. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)क्रीएटिव कॉमन्स लाइसेंस (नाम देना, वाणिज्यिक उपयोग नहीं, साझा समान)\]
-- **lekt3807.jpg**: चित्र: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[चित्र स्रोत: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- 01-01-2009 को देखा गया. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)क्रीएटिव कॉमन्स लाइसेंस (नाम देना, वाणिज्यिक उपयोग नहीं, कोई संशोधन नहीं)\]
-- **lekt3808.jpg**: चित्र: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930 के दशक \[चित्र स्रोत: विकिपीडिया. सार्वजनिक क्षेत्र\]
-- **lekt3809.jpg**: चित्र: ⟪ब्रह्मा⟫  हलेबीडु = ಹಳೆಬೀಡು \[चित्र स्रोत: विकिपीडिया. GNU FDLicense\]
-- **lekt3810.jpg**: चित्र: अशोक वृक्ष = _Saraca asoca_ (Roxb.) Wilde कोलकाता = কলকাতा \[चित्र स्रोत: J.M.Garg / विकिपीडिया. GNU FDLicense\]
-- **lekt3811.jpg**: चित्र: अशोक के साम्राज्य का अधिकतम विस्तार और उसके शिलालेख और स्तंभों के आदेशों के स्थान \[चित्र स्रोत: विकिपीडिया.GNU FDLicense\]
-- **lekt3812.jpg**: चित्र: ⟪विनोदः⟫  करम खेल \[चित्र स्रोत: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- 01-01-2009 को देखा गया. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)क्रीएटिव कॉमन्स लाइसेंस (नाम देना, वाणिज्यिक उपयोग नहीं, साझा समान)\]
-- **lekt3813.jpg**: चित्र: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[चित्र स्रोत: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- 01-01-2009 को देखा गया. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)क्रीएटिव कॉमन्स लाइसेंस (नाम देना, वाणिज्यिक उपयोग नहीं)\]
-- **lekt3814.jpg**: चित्र: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[चित्र स्रोत: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- 01-01-2009 को देखा गया. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)क्रीएटिव कॉमन्स लाइसेंस (नाम देना, वाणिज्यिक उपयोग नहीं, कोई संशोधन नहीं)\]
-:::

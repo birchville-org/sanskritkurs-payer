@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### الدرس 46.1.3. صيغة التام من النوع الأول: لا تغيير في جذر الفعل <!-- TODO: Fallback translation -->
+### الدرس 46.1.3. صيغة التام من النوع الأول: لا تغيير في جذر الفعل
 
 الأفعال التي تتبع هذا النوع:
 
@@ -654,26 +654,5 @@ PPP ⟪परिभूत⟫ 3: هزم، أذل، حقّر
 ![](/images/lekt4612.webp)
 الصورة: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/ar/licenses#lekt4612)
 (مصدر الصورة: [تفاصيل](/ar/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-مصدر صور نافagraha: Redtigerxyz / ويكيبيديا. رخصة GNU FD
-
-L4607: ⟪नारायण⟧ ⟪तुभ्यं⟧ ⟪नमामि⟧ (⟪नारायनो⟧ ⟪ऽनन्तशयी⟧، حوالي 1870). المصدر: ويكيبيديا. ملكية عامة
-
-L4606: ⟪अश्वरोहकः⟫، بونه=⟪पुणे⟫. المصدر: wili_hybrid، فليكر، CC BY 2.0
-
-L4608: أودايبور. المصدر: Travel Aficionado، فليكر، CC BY-NC 2.0
-
-L4609: كارناتاكا=ಕರ್ನಾಟಕ. المصدر: mattlogelin، فليكر، CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫، كاماريددي=కామారెడ్డి. المصدر: سومانث ك. غاراكراجولا، فليكر، CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫، بنغالور=ಬೆಂಗಳೂರು. المصدر: mattlogelin، فليكر، CC BY-NC 2.0
-
-L4611: ⟪भोः⟫، كوتش=⟪कच्छ⟫. المصدر: orange tuesday، Flickr، CC BY-NC 2.0
-
-L4612: مومباي=⟪मुंबई⟩ بعد الهجوم، 11 يوليو 2006. المصدر: صور الشمس / لاكشمان، فليكر، CC BY-NC-SA 2.0
 :::
 

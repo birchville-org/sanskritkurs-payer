@@ -405,27 +405,3 @@ Satu buah sudah cukup untuk dimakan dan air untuk diminum.
 
 15⟪१५⟫. See you again! (Neo-Sanskrit: ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] adalah acara Hindu tradisional yang berlangsung pada perayaan Tahun Baru Hindu di semua mandir BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Ratusan hidangan vegetarian dipersembahkan kepada Bhagwan Swaminarayan [સ્વામિનારાયણ] pada hari ini. [Sumber gambar: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Diakses pada 2008-12-14. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
-
-**lekt2402:** Raksha bandhan dirayakan dengan semangat dan sukacita di seluruh India. Festival ini merupakan perwujudan cinta tanpa syarat antara saudara laki-laki dan perempuan. [Sumber gambar: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Diakses pada 2008-12-14. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi sama)]
-
-**lekt2403:** "Rama (kanan) duduk di atas bahu Hanuman, berperang melawan raja iblis Ravana." sekitar tahun 1820 [Sumber gambar: Wikipedia, Domain publik]
-
-**lekt2404:** [Image source: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, no derivatives)]
-
-**lekt2405:** [Image source: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Image source: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use)]
-
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [Image source: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, share alike)]
-
-**lekt2408:** "Pencerita San Francisco, Jeff Byers, berbagi cerita dengan penduduk Chenneri, sebuah desa Irula. Pencerita Jeeva Raghunath menerjemahkan ke dalam bahasa Tamil untuk para penduduk desa." [Sumber gambar: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Diakses pada 14-12-2008. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
-
-**lekt2409:** [Image source: Redtigerxyz / Wikipedia, GNU FDL]
-
-**lekt2410:** ⟪नरसिंह⟫ torn apart ⟪हिरण्यकशिपु⟫, page from a manuscript of the ⟪भागवतपुराण⟫ [Image source: Wikipedia, Public domain]
-
-**lekt2411:** Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE. [Image source: Wikipedia, Public domain]
-:::

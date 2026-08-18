@@ -84,7 +84,7 @@ Exemplo:
 
 | Raiz | 3ª sg. Perf. P.:br1ª sg. Perf. P. | 3ª pl. Perf. P. | 3ª sg. Perf. Ā. | 3ª pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
 ## 35.3. Perfeito Tipo V: Raízes Consoante-a-Consoante
 
@@ -142,7 +142,7 @@ Exemplo:
 
 | Raiz | 3ª sg. Perf. P. | 3ª pl. Perf. P. | 3ª sg. Perf. Ā. | 3ª pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ |
 
 ### 35.3.3. Perfeito Tipo Vc: Raízes Consoante-a-Consoante. Tema Fraco Grau Pleno
 
@@ -163,7 +163,7 @@ Exemplo:
 
 | Raiz | 3ª sg. Perf. P. | 3ª pl. Perf. P. | 3ª sg. Perf. Ā. | 3ª pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
 ## 35.4. Lista de vocabulário
 
@@ -280,13 +280,3 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 C) Transforme as frases do exercício B) substituindo os perfeitos pelos imperfeitos.
 
-::: deleteme-box
-
-**lekt3501:** Músicos do Templo Kaadu Malleswara em Bangalore. [Fonte da imagem: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** Pessoas a caminhar, Senegal. [Fonte da imagem: Curt Carnemark / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3503:** Mercado em Vadaseri, Tamil Nadu. [Fonte da imagem: kifo / Flickr. CC BY-SA]
-
-**lekt3504:** Cerimónia de Yajña, ashram de Shiva, Ganeshpuri. [Fonte da imagem: Dey / Flickr. CC BY-NC-SA]
-:::

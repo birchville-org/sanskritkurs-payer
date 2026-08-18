@@ -47,7 +47,7 @@ Far meritabel è il viadi en il tschiel.
 
 ⟪३⟫. ⟪न⟫ ⟪साधुः⟫ ⟪पशुवन्नरधेनुलोभः⟫ ⟪।⟫
 ⟪न⟫ ⟪साधुः⟫ ⟪पशुवतो⟫ ⟪नरस्य⟫ ⟪धेनूनां⟫ ⟪लोभः⟫ ⟪।⟫ (u: ...⟪धेनोर्लोभः⟫ ⟪।⟫)
-La avidad da l'um rich en bestgiament per vatschas / per la vacca n'è betg buna. <!-- TODO: Fallback translation -->
+La avidad da l'um rich en bestgiament per vatschas / per la vacca n'è betg buna.
 
 ⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫
 ⟪न⟫ ⟪पशूनां⟫ ⟪यज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मस्य⟫ ⟪यज्ञैस्तु⟫ ⟪स्वर्गस्य⟫ ⟪सुखमाप्नुवन्ति⟫ ⟪।⟫
@@ -82,7 +82,7 @@ El onurescha la deidad persunala dal meritivel Vaiśya.
 Abb.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (sursainta d'imagines: [Detagls](/licenses#uebung023))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Modells da declinaziun
 
@@ -245,11 +245,6 @@ Il deber spezial d'in vaiśya è: studiar il Veda, offrir sco patrun da sacrific
 ⟪शुड्रस्य⟫ ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारूणां⟫ ⟪कुशीलवानां⟫ ⟪च⟫ ⟪कर्म⟫ ⟪।⟫
 Il deber spezial d'in śūdra è il servetsch obedient envers ils dus naschids nov, activitad economica e lavur sco artesan ed exhibidor.
 
-::: deleteme-box Erklärungen
-Frasa 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, quai designes dus "chosas"
-Frasa 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum a ⟪कर्मन्⟫ "acziun"
-Frasa 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. a ⟪सर्व⟫ "mintgin, tut" (pronomen, declinà betg sco deva)
-:::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫ ⟪तस्य⟫, ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 La verga provi l'acquisiziun ed il possess segir da filosofia, vedistica ed economia. La direcziun da la verga è politica.
@@ -259,4 +254,3 @@ La verga provi l'acquisiziun ed il possess segir da filosofia, vedistica ed econ
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Sursa da l'imagia: [Detagls](/licenses#uebung024))
 :::
- <!-- TODO: Fallback translation -->

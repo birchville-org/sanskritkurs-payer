@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 21
 
@@ -307,15 +307,3 @@ B) Traduza:
 
 ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-::: deleteme-box
-
-**lekt2101:** Placa comemorativa ⟪सती⟫ no palácio de Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Fonte da imagem: Flicka / Wikipedia. GNU FDLicense]
-
-**lekt2102:** "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva". [Fonte da imagem: PHGCOM / Wikipedia. GNU FDLicense]
-
-**lekt2103:** ⟪भगवान्कृष्णः⟫ como ⟪जगन्नाथ⟫ (à direita) com sua meia-irmã ⟪सुभद्रा⟫ (ao centro) e seu irmão mais velho ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Fonte da imagem: Sujitkumar / Wikipedia. GNU FDLicense]
-
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาว [Fonte da imagem: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Acessado em 2008-12-12. -- Licença Creative Commons (Atribuição, Uso Não Comercial)]
-
-**lekt2105:** ⟪भगवद्गीता⟫ - Manuscrito, séc. XIX [Fonte da imagem: Wikipedia, Public domain]
-:::

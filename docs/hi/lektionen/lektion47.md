@@ -1,10 +1,11 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: "पाठ 47"
+subtitle: "आज्ञाकारक (⟪⟪लोट्⟫⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # पाठ ४७
@@ -253,14 +254,3 @@ B.) संस्कृत में अनुवाद करें (आज्�
 
 34\. कल्याण के लिए हो (घटित हो)! (आशीर्वाद की इच्छा)
 
-::: deleteme-box
-
-**lekt4702:** हनुमान मंदिर, दिल्ली = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [चित्र स्रोत: कैरोल मिट्चल. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- 9 जनवरी 2009 को प्राप्त। -- [क्रिएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (नाम उल्लेख, कोई संशोधन नहीं)]
-
-**lekt4701:** [चित्र स्रोत: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- 9 जनवरी 2009 को प्राप्त। -- [क्रिएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (नाम उल्लेख, गैर-वाणिज्यिक उपयोग, समान-साझा)]
-
-**lekt4703:** [चित्र स्रोत: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- 10 जनवरी 2009 को प्राप्त। -- [क्रिएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by/2.0/deed.de) (नाम उल्लेख)]
-
-**lekt4704:** [चित्र स्रोत: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- 10 जनवरी 2009 को प्राप्त। -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (नाम उल्लेख, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
-
-:::

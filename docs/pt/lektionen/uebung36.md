@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 36
 
-A) Bilden Sie zu folgenden Formen sowohl die reduplizierten als auch die periphrastischen Perfektformen: <!-- TODO: Fallback translation -->
+A) Bilden Sie zu folgenden Formen sowohl die reduplizierten als auch die periphrastischen Perfektformen:
 
 ::: grammar-box
 | Präsens | Redupliziert | Periphrastisch |
@@ -26,7 +26,7 @@ B) Bilden Sie das periphrastische Perfekt zur Wurzel ⟪आस्⟫ (sitzen):
 | ⟪१⟫. ⟪आस्ते⟫ | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. ⟪आसते⟫ | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 :::
-C) Bilden Sie das entsprechende Perfekt zu folgenden Formen: <!-- TODO: Fallback translation -->
+C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
 
 ::: grammar-box
 | Präsens / Imperfekt | Perfekt |
@@ -47,29 +47,29 @@ C) Bilden Sie das entsprechende Perfekt zu folgenden Formen: <!-- TODO: Fallback
 :::
 ---
 
-## Übersetzungen <!-- TODO: Fallback translation -->
+## Übersetzungen
 
 ⟪१⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫**
-Als ihm ein Sohn geboren war, verliess der Erleuchtete Familie und Besitz und zog aus dem Heim in die Heimlosigkeit. Er erkannte mit seinem Verstand die Edlen Wahrheiten, wurde durch die Erkenntnis vom Leiden befreit und brachte die edlen Menschen, die Erlösung wünschten, zur Einsicht — so berichten die Mönche. <!-- TODO: Fallback translation -->
+Als ihm ein Sohn geboren war, verliess der Erleuchtete Familie und Besitz und zog aus dem Heim in die Heimlosigkeit. Er erkannte mit seinem Verstand die Edlen Wahrheiten, wurde durch die Erkenntnis vom Leiden befreit und brachte die edlen Menschen, die Erlösung wünschten, zur Einsicht — so berichten die Mönche.
 
 ⟪२⟫. **⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञ⟫en ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫**
-Die Brahmanen schichteten für das grosse Götteropfer ein Feuer auf. Während die Brahmanen Indra und die anderen Götter priesen, verzehrte das Opferfeuer die Speise. So bewirkten die Brahmanen durch das Opfer, dass die grossen Götter assen, und liessen sie Lobeshymnen hören. <!-- TODO: Fallback translation -->
+Die Brahmanen schichteten für das grosse Götteropfer ein Feuer auf. Während die Brahmanen Indra und die anderen Götter priesen, verzehrte das Opferfeuer die Speise. So bewirkten die Brahmanen durch das Opfer, dass die grossen Götter assen, und liessen sie Lobeshymnen hören.
 
 ⟪३⟫. **⟪रक्षितधर्मक्षत्रिययोधा⟫ ⟪महानगरं⟫ ⟪जेतुकामाञ्छत्रून्विजिग्युर्न⟫ ⟪तु⟫ ⟪जघ्नुः⟫ ⟪॥३॥⟫**
-Die Kṣatriyakrieger, die das Recht hüteten, besiegten die Feinde, welche die grosse Stadt erobern wollten, töteten sie aber nicht. <!-- TODO: Fallback translation -->
+Die Kṣatriyakrieger, die das Recht hüteten, besiegten die Feinde, welche die grosse Stadt erobern wollten, töteten sie aber nicht.
 
 ⟪४⟫. **⟪अधीतवेदद्विजो⟫ ⟪द्विजधर्मं⟫ ⟪वेद⟫ ⟪॥४॥⟫**
-Ein Zweimalgeborener, der den Veda studiert hat, kennt Recht und Sitte der Zweimalgeborenen. <!-- TODO: Fallback translation -->
+Ein Zweimalgeborener, der den Veda studiert hat, kennt Recht und Sitte der Zweimalgeborenen.
 
 ⟪५⟫. **⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫**
-Allein von der Wissenschaft kann man nicht leben. Wer das weiss, sollte nicht studieren. <!-- TODO: Fallback translation -->
+Allein von der Wissenschaft kann man nicht leben. Wer das weiss, sollte nicht studieren.
 
 ::: media
 ![](/images/uebung061.webp)
 Abb.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Bildquelle: [Details](/licenses#uebung061))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Scholarly Fragments
 
@@ -79,28 +79,28 @@ Abb.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪�
 **⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫**  
 **⟪सर्वे⟫ ⟪तस्यादृता⟫ ⟪धर्मा⟫ ⟪यस्यैते⟫ ⟪त्रय⟫ ⟪आदृताः⟫ ⟪।⟫**  
 **⟪अनादृतास्तु⟫ ⟪यस्यैते⟫ ⟪सर्वास्तस्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫**  
-Womit man seinen Vater erfreut, damit wird der Schöpfer erfreut; womit man seine Mutter erfreut, damit wird die Erde verehrt; womit man den Lehrer erfreut, damit wird der Veda verehrt. Wer diese drei achtet, der achtet alle Vorschriften; wer diese nicht achtet, dessen Handlungen sind alle fruchtlos. <!-- TODO: Fallback translation -->
+Womit man seinen Vater erfreut, damit wird der Schöpfer erfreut; womit man seine Mutter erfreut, damit wird die Erde verehrt; womit man den Lehrer erfreut, damit wird der Veda verehrt. Wer diese drei achtet, der achtet alle Vorschriften; wer diese nicht achtet, dessen Handlungen sind alle fruchtlos.
 
 ### ⟪२⟫. **⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫** (Verhalten gegenüber Alten)
 **⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫**  
 **⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫**  
-Man grüsse Alte formgerecht, überlasse ihnen seinen Sitz und stehe bei ihnen mit gefalteten Händen. Wenn ein Alter weggeht, folge man ihm. <!-- TODO: Fallback translation -->
+Man grüsse Alte formgerecht, überlasse ihnen seinen Sitz und stehe bei ihnen mit gefalteten Händen. Wenn ein Alter weggeht, folge man ihm.
 
 ### ⟪३⟫. **⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫** (Beherrschung der Sinne)
 **⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫**  
 **⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ⟪विज्ञेयो⟫ ⟪जितेन्द्रियः⟫ ⟪॥⟫**  
-Wenn ein Mann sich weder freut noch verdriesst, wenn er hört, berührt, sieht, schmeckt oder riecht, dann gilt er als einer, der seine Sinne besiegt hat (⟪जितेन्द्रियः⟫). <!-- TODO: Fallback translation -->
+Wenn ein Mann sich weder freut noch verdriesst, wenn er hört, berührt, sieht, schmeckt oder riecht, dann gilt er als einer, der seine Sinne besiegt hat (⟪जितेन्द्रियः⟫).
 
 ::: media
 ![](/images/uebung060.webp)
 Abb.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Bildquelle: [Details](/licenses#uebung060))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Wortformbestimmung <!-- TODO: Fallback translation -->
+## Wortformbestimmung
 
-Bestimmen und übersetzen Sie folgende Wortformen: <!-- TODO: Fallback translation -->
+Bestimmen und übersetzen Sie folgende Wortformen:
 
 ::: grammar-box
 | Wortform | Bestimmung | Bedeutung |
@@ -146,7 +146,7 @@ Bestimmen und übersetzen Sie folgende Wortformen: <!-- TODO: Fallback translati
 ![](/images/uebung059.webp)
 Abb.: ⟪जगौ⟫
 (Bildquelle: [Details](/licenses#uebung059))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

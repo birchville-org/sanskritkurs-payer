@@ -254,14 +254,3 @@ B.) ਸੰਸਕ੍ਰਿਤ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ (ਅਜ�
 
 34\. ਭਾਗ੍ਯ ਦਾ ਕਾਰਨ ਬਣੇ (ਹੋਵੇ)! (ਆਸ਼ੀਰਵਾਦ ਦੀ ਇੱਛਾ)
 
-::: deleteme-box
-
-**lekt4702:** ਹਨੁਮਾਨ ਮੰਦਰ, ਦਿੱਲੀ = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [ਚਿੱਤਰ ਸਰੋਤ: ਕੈਰੋਲ ਮਿਟਚਲ. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- ਪ੍ਰਾਪਤੀ 2009-01-09. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt4701:** [ਚਿੱਤਰ ਸਰੋਤ: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- ਪ੍ਰਾਪਤੀ 2009-01-09. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਾਣੀਜ਼ਿਕ ਵਰਤੋਂ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-**lekt4703:** [ਚਿੱਤਰ ਸਰੋਤ: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- ਪ੍ਰਾਪਤੀ 2009-01-10. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ)]
-
-**lekt4704:** [ਚਿੱਤਰ ਸਰੋਤ: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- 10 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-:::

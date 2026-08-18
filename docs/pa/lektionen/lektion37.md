@@ -520,17 +520,3 @@ C) ਹੇਠ ਲਿਖੇ ⟪अव्ययीभाव⟫ ਦਾ ਅਨੁਵ�
 
 ਜਦੋਂ ਕੋਈ ਬੁਢਾਪਾ ਇੱਕ ਦੂਜੇ ਪਿੰਡ ਵਿੱਚ ਗਿਆ, ਤਾਂ ਉਹ ਰਾਹ ਵਿੱਚ ਥੱਕ ਗਿਆ⟪।⟫ ਉਹ ਆਰਾਮ ਕਰਨ ਲਈ, ਪਾਸੇ ਖੜ੍ਹੇ ਅੰਬ ਦੇ ਰੁੱਖ ਦੇ ਪਾਦਪੁੱਜ ਵਿੱਚ ਗਿਆ⟪।⟫ ਇਸ ਰੁੱਖ ਉੱਤੇ ਪਕੀਆਂ ਫਲ ਸਨ⟪।⟫ ਬੁਢਾਪੇ ਨੂੰ ਇਹਨਾਂ ਉੱਤੇ ਲਾਲਚ ਆਇਆ⟪।⟫ ਪਰ ਉਹ ਰੁੱਖ ਉੱਤੇ ਚੜ੍ਹ ਸਕਿਆ ਨਹੀਂ ਅਤੇ ਫਲ ਫੜ ਸਕਿਆ ਨਹੀਂ⟪।⟫ ਕਿਸਮਤ ਨਾਲ, ਇਸ ਰੁੱਖ ਉੱਤੇ ਕੁਝ ਬਾਂਦਰ ਸਨ, ਜੋ ਫਲ ਖਾਂਦੇ ਸਨ⟪।⟫ ਉਹਨਾਂ ਨੂੰ ਦੇਖਕੇ, ਬੁਢਾਪਾ ਖੁਸ਼ ਹੋਇਆ⟪।⟫ ਉਸਨੇ ਕੀ ਕੀਤਾ? ਉਸਨੇ ਕੁਝ ਪੱਥਰ ਲਏ, ਬਾਂਦਰਾਂ ਵੱਲ ਨਿਸ਼ਾਨਾ ਲਗਾਇਆ ਅਤੇ ਫੇਕ ਦਿੱਤਾ⟪।⟫ ਗੁੱਸੇ ਵਿੱਚ ਆਏ ਬਾਂਦਰਾਂ ਨੇ ਕੁਝ ਫਲ ਤੋੜੇ ਅਤੇ ਬੁਢਾਪੇ ਉੱਤੇ ਫੇਕ ਦਿੱਤੇ⟪।⟫ ਬੁਢਾਪੇ ਨੇ ਇਹ ਖੁਸ਼ੀ ਨਾਲ ਲਏ ਅਤੇ ਆਪਣੀ ਇੱਛਤ ਥਾਂ ਵਿੱਚ ਗਿਆ⟪।⟫ ਦੇਖੋ, ਬੁਢਾਪੇ ਦਾ ਭਾਗ!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (ਚਿੱਤਰ: ⟪क्व⟫): [ਚਿੱਤਰ ਸਰੋਤ: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- 30-12-2008 ਨੂੰ ਪ੍ਰਾਪਤ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਵਿਗਾੜ ਨਹੀਂ)]
-- **Image lekt3702.jpg** (ਚਿੱਤਰ: ⟪यथाशक्ति⟫): [ਚਿੱਤਰ ਸਰੋਤ: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- 30-12-2008 ਨੂੰ ਪ੍ਰਾਪਤ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਵਿਗਾੜ ਨਹੀਂ)]
-- **Image lekt3703.jpg** (ਚਿੱਤਰ: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [ਚਿੱਤਰ ਸਰੋਤ: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- 30-12-2008 ਨੂੰ ਪ੍ਰਾਪਤ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਵਿਗਾੜ ਨਹੀਂ)]
-- **Image lekt3704.jpg** (ਚਿੱਤਰ: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [ਚਿੱਤਰ ਸਰੋਤ: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- 30-12-2008 ਨੂੰ ਪ੍ਰਾਪਤ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ)]
-- **Image lekt3705.jpg** (ਚਿੱਤਰ: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [ਚਿੱਤਰ ਸਰੋਤ: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- 31-12-2008 ਨੂੰ ਪ੍ਰਾਪਤ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਵਿਗਾੜ ਨਹੀਂ)]
-- **Image lekt3706.jpg** (ਚਿੱਤਰ: ⟪वृक्षः⟫): Jaipur [ਚਿੱਤਰ ਸਰੋਤ: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- 31-12-2008 ਨੂੰ ਪ੍ਰਾਪਤ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਸਾਂਝਾ ਕਰੋ)]
-- **Image lekt3707.jpg** (ਚਿੱਤਰ: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) ਦੁਆਰਾ ਚਿੱਤਰ [ਚਿੱਤਰ ਸਰੋਤ: Wikipedia. Public domain]
-- **Image lekt3708.jpg** (ਚਿੱਤਰ: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [ਚਿੱਤਰ ਸਰੋਤ: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- 31-12-2008 ਨੂੰ ਪ੍ਰਾਪਤ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ)]
-- **Image lekt3709.jpg** (ਚਿੱਤਰ: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [ਚਿੱਤਰ ਸਰੋਤ: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- 31-12-2008 ਨੂੰ ਪ੍ਰਾਪਤ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਵਿਗਾੜ ਨਹੀਂ)]
-- **Image lekt3710.jpg** (ਚਿੱਤਰ: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [ਚਿੱਤਰ ਸਰੋਤ: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- 31-12-2008 ਨੂੰ ਪ੍ਰਾਪਤ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਸਾਂਝਾ ਕਰੋ)]
-- **Image lekt3711.jpg** (ਚਿੱਤਰ: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [ਚਿੱਤਰ ਸਰੋਤ: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- 31-12-2008 ਨੂੰ ਪ੍ਰਾਪਤ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਵਿਗਾੜ ਨਹੀਂ)]
-:::

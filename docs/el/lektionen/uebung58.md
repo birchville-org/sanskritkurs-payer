@@ -33,7 +33,7 @@ last_reconstructed: 2026-05-15
 16.  ⟪कल्पे⟫ - ⟪कॢप्⟫ 1.sg.Ind.Präs.Ā ich passe -⟪अकल्पिषि⟫
 17.  ⟪आनीत्⟫ - ⟪अन्⟫ 2P 3.sg.Impf.P er atmete - ⟪आनीत्⟫
 18.  ⟪ऐक्षध्वम्⟫ - ⟪ईक्ष्⟫ 1Ā 2.pl.Impf.Ā ihr saht - ⟪ऐक्षिध्वम्⟫
-19.  ⟪अचेतः⟫ - ⟪चित्⟫ 1P 2.sg.Impf.P du nahmst wahr - ⟪अचेतीः⟫ <!-- TODO: Fallback translation -->
+19.  ⟪अचेतः⟫ - ⟪चित्⟫ 1P 2.sg.Impf.P du nahmst wahr - ⟪अचेतीः⟫
 
 ::: media
 ![](/images/uebung095.webp)
@@ -42,15 +42,15 @@ Abb.: ⟪तब्लाः⟫
 :::
 ---
 
-## B) Wortbestimmungen <!-- TODO: Fallback translation -->
+## B) Wortbestimmungen
 
-Bestimmen und übersetzen Sie die folgenden Formen: <!-- TODO: Fallback translation -->
+Bestimmen und übersetzen Sie die folgenden Formen:
 
 ::: media
 ![](/images/uebung097.webp)
 Abb.: ⟪मातुलङ्गविक्रेतायं⟫ ⟪ना⟫ ⟪॥⟫  
 Pune - ⟪पुणे⟫  
-\[Bildquelle: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Zugriff am 2009-03-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] <!-- TODO: Fallback translation -->
+\[Bildquelle: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Zugriff am 2009-03-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
 
 1.  ⟪अनेढ्वम्⟫ - ⟪नी⟫ 1U 2.pl.Aor(4).Ā ihr führtet im eigenen Interesse
 2.  ⟪एनयोः⟫ - ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫ Gen.Lok.du.m.f.n. dieser beiden / in diesen beiden
@@ -90,11 +90,11 @@ Pune - ⟪पुणे⟫
 36.  ⟪इमे⟫ - ⟪इदम्⟫ 3 Nom.pl.m.Nom.Akk.du.f.n. diese / diese beiden
 37.  ⟪इतः⟫ - ⟪इ⟫ 2P 3.du.Ind.Präs.P ihr beide geht ; ⟪इतस्⟫ Adv. von hier
 38.  ⟪दद⟫ - ⟪दा⟫ 3U 2.pl.Perf.P ihr gabt
-39.  ⟪अञ्ज्वः⟫ - ⟪अञ्ज्⟫ 7P 1.du.Ind.Präs.P wir beide salben <!-- TODO: Fallback translation -->
+39.  ⟪अञ्ज्वः⟫ - ⟪अञ्ज्⟫ 7P 1.du.Ind.Präs.P wir beide salben
 
 
 ![](/images/uebung096.webp)
 Εικ.: ⟪श्वा⟫ ⟪श्वानमघ्रात्⟫
 (Πηγή εικόνας: [Details](/licenses#uebung096))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

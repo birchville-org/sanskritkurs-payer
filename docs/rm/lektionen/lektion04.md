@@ -10,14 +10,6 @@ status: stable
 
 # Lecziun 4
 
-::: deleteme-box
-**En questa lecziun avais a discurrir:**
-- Interrogativpronoms ed demonstrativpronoms en il nominativ
-- Sandhi da final -m
-- Sandhi da final -e
-- Sandhi da final -d
-- Frimas d'interrogaziun simplas
-:::
 ## 4.1. Interrogaziuns da cumplet (interrogaziuns da paraula) e respostas
 
 ### 4.1.1. Interrogativpronoms ed demonstrativpronoms
@@ -109,4 +101,3 @@ NOTIZIA: Las respostas, che Vus pudais dar cun voss savair da sanscrit fin qua a
 ![](/images/lekt0401.webp)
 (fonte da l'imagia: [detagl](/rm/licenses#lekt0401))
 :::
- <!-- TODO: Fallback translation -->

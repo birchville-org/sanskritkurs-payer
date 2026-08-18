@@ -64,7 +64,7 @@ dhenavo viśanti. dhenavo bhavanti.
 
 C) Käännä sanskritiksi:
 
-1. Hän kunnioittaa uhrilla. (Uhripappi uhriemännelle) <!-- TODO: Fallback translation -->
+1. Hän kunnioittaa uhrilla. (Uhripappi uhriemännelle)
 
 yajati.
 
@@ -100,7 +100,7 @@ kṣatriyā viśanti.
 
 ⟪ईश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
 
-7. Kṣatriya kunnioittaa uhrilla. (uhriemäntänä) <!-- TODO: Fallback translation -->
+7. Kṣatriya kunnioittaa uhrilla. (uhriemäntänä)
 
 kṣatriyo yajate.
 
@@ -147,11 +147,11 @@ sā brāhmaṇī nṛtyati.
 Kuv: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung004))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Toistoharjoitus Luento 6
 
-A) Täydennysharjoitus: Muodosta kysymyksiä, joihin vastauksena ovat lauseet, jotka muodostat seuraavien täydennysharjoitusten jälkeen: <!-- TODO: Fallback translation -->
+A) Täydennysharjoitus: Muodosta kysymyksiä, joihin vastauksena ovat lauseet, jotka muodostat seuraavien täydennysharjoitusten jälkeen:
 
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -423,7 +423,7 @@ E) Käännä:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
+Annapūrṇā ist eine Gottheit.
 
 2\. śūdretarā.
 
@@ -547,13 +547,13 @@ sādhavo dvijātayaḥ.
 
 ⟪साधवो⟫ ⟪द्विजातयः⟫ ⟪।⟫
 
-11\. Kolminkertainen (tieto) on Sāmaveda, Ṛgveda ja Yajurveda. (2 vaihtoehtoa) <!-- TODO: Fallback translation -->
+11\. Kolminkertainen (tieto) on Sāmaveda, Ṛgveda ja Yajurveda. (2 vaihtoehtoa)
 
 sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ ⟪।⟫ ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-12\. Tämä jumalatar on hyvä. <!-- TODO: Fallback translation -->
+12\. Tämä jumalatar on hyvä.
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
@@ -565,26 +565,26 @@ avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo 
 
 ⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫ ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-14\. "Brahman oleskelutilat" ovat: ystävällinen myötätunto, myötätunto, iloitseminen ja tasapainoisuus. (2 vaihtoehtoa) <!-- TODO: Fallback translation -->
+14\. "Brahman oleskelutilat" ovat: ystävällinen myötätunto, myötätunto, iloitseminen ja tasapainoisuus. (2 vaihtoehtoa)
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ / maitrī karuṇā muditopekṣā (ca) brahmavihārāḥ.
 
 ⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪।⟫
 
-15\. Nämä brahmanit uhraavat toisten puolesta. <!-- TODO: Fallback translation -->
+15\. Nämä brahmanit uhraavat toisten puolesta.
 
 ete / ime brāhmaṇā yajanti.
 
 ⟪एते⟫ / ⟪इमे⟫ ⟪ब्राह्मणा⟫ ⟪यजन्ति⟫ ⟪।⟫
 
-16\. Brahmanit, kṣatriyat ja vaśyat ovat kaksi kertaa syntyneitä. (2 vaihtoehtoa) <!-- TODO: Fallback translation -->
+16\. Brahmanit, kṣatriyat ja vaśyat ovat kaksi kertaa syntyneitä. (2 vaihtoehtoa)
 
 dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣatriyā vaiśyāś ca.
 
 ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ⟪।⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
 
-17. Valiot (hallitsijalle) ovat: filosofia, kolminkertainen (Veda-tieto), talous ja politiikka. (2 vaihtoehtoa) <!-- TODO: Fallback translation -->
+17. Valiot (hallitsijalle) ovat: filosofia, kolminkertainen (Veda-tieto), talous ja politiikka. (2 vaihtoehtoa)
 
 ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ / ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
 
@@ -606,5 +606,5 @@ sarvathā kuśalam.
 ![](/images/uebung005.webp)
 Kuv.: ⟪देवतान्नपूर्णा⟫
 (Kuv lähde: [Details](/licenses#uebung005))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

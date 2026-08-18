@@ -647,11 +647,3 @@ B) Перетворите наступні дієсловні форми на в
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
-
-- **Image lekt4005.jpg** (Рис.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Вадасері, район Танджавур = தஞ்சாவூர் மாவட்டம் [Джерело зображення: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Доступ від 2009-01-02. -- Ліцензія Creative Commons (Attribution, Share Alike)]
-- **Image lekt4003.jpg** (Рис.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Джерело зображення: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Доступ від 2009-01-02. -- Ліцензія Creative Commons (Attribution)]
-- **Image lekt4002.jpg** (Рис.: ⟪तीर्थङ्करः⟫): [Джерело зображення: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Доступ від 2009-01-02. -- Ліцензія Creative Commons (Attribution, Non-Commercial, No Derivative Works)]
-- **Image lekt4001.jpg** (Рис.: ⟪विष्णोर्दशावताराः⟫): За годинниковою стрілкою: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, у центрі: ⟪कृष्ण⟫ [Джерело зображення: Вікіпедія. Суспільне надбання]
-- **Image lekt4004.jpg** (Рис.: ⟪स्वपन्ति⟫): Індійські літаючі собаки (_Pteropus giganteus_), Ахмедабад = અમદાવાદ [Джерело зображення: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Доступ від 2009-01-02. -- Ліцензія Creative Commons (Attribution, Non-Commercial, No Derivative Works)]
-:::

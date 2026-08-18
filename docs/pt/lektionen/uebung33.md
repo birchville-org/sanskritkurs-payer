@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 33
 
-A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in der Klammer ein: <!-- TODO: Fallback translation -->
+A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in der Klammer ein:
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
@@ -28,7 +28,7 @@ A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in d
 
 ⟪रामो⟫ ⟪धेनवे⟫ ⟪ऽन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेन्वायन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेन्वा⟫ ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेनुभ्यो⟫ ⟪ऽन्नं⟫ ⟪ददाति⟫ ⟪॥⟫
 
-B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein: <!-- TODO: Fallback translation -->
+B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein:
 
 ⟪ब्राह्मनो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 
@@ -62,47 +62,47 @@ B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im In
 
 ⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेनापिपः⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ⟪पिपूर्यात्⟫ ⟪॥८॥⟫
 
-C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekehrt: <!-- TODO: Fallback translation -->
+C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekehrt:
 
 ⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫
 
-Ein Yogin konzentriert seinen Geist auf die Einsicht, die zur Befreiung vom Leiden führt. <!-- TODO: Fallback translation -->
+Ein Yogin konzentriert seinen Geist auf die Einsicht, die zur Befreiung vom Leiden führt.
 
 ⟪योगयुक्ता⟫ ... ⟪समादधते⟫ ⟪॥१॥⟫
 
 ⟪यो⟫ ⟪भिक्षवे⟫ ⟪दानानि⟫ ⟪द्द्यात्सो⟫ ⟪ऽपि⟫ ⟪दानपुण्यमाददीत⟫ ⟪॥२॥⟫
 
-Wer einem Mönch Gaben schenkt, der erhält das Verdienst seines Gebens. <!-- TODO: Fallback translation -->
+Wer einem Mönch Gaben schenkt, der erhält das Verdienst seines Gebens.
 
 ⟪ये⟫ ... ⟪दद्युस्ते⟫ ... ⟪आददीरन्⟫ ⟪॥२॥⟫
 
 ⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
 
-Da Brahmanen keine Last tragen, trug der Diener des Brahmanen die Last nach Hause. <!-- TODO: Fallback translation -->
+Da Brahmanen keine Last tragen, trug der Diener des Brahmanen die Last nach Hause.
 
 ⟪ब्राह्म्णो⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभर्तीति⟫ ⟪ब्राह्मणदासा⟫ ⟪भारं⟫ ⟪गृहमबिभरुः⟫ ⟪॥३॥⟫
 
 ⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हीत्वा⟫ ⟪पनर्भवमैत्⟫ ⟪॥४॥⟫
 
-Der Kṣatriyaheld verliess mit seinem Sohn die Familie, um zu kämpfen. Da er im Kampf vom Feind getötet wurde, verliess er seinen Körper und wurde wiedergeboren. <!-- TODO: Fallback translation -->
+Der Kṣatriyaheld verliess mit seinem Sohn die Familie, um zu kämpfen. Da er im Kampf vom Feind getötet wurde, verliess er seinen Körper und wurde wiedergeboren.
 
 ⟪क्षत्रियशूराः⟫ ⟪पुत्रानादाय⟫ ⟪योद्धुं⟫ ⟪कुलान्यजहुः⟫ ⟪।⟫ ⟪ते⟫ ⟪युद्धे⟫ ⟪शत्रुहत्वाच्छरीराणि⟫ ⟪हीत्वा⟫ ⟪पुनर्भवमायन्⟫ ⟪॥४॥⟫
 
 ⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
 
-Selbst von den Göttern geschenktes Glück erfüllt den Wunsch nach Erlösung vom leiden nicht. Dieser Wunsch wird nur durch erlösende Einsicht voll erfüllt. <!-- TODO: Fallback translation -->
+Selbst von den Göttern geschenktes Glück erfüllt den Wunsch nach Erlösung vom leiden nicht. Dieser Wunsch wird nur durch erlösende Einsicht voll erfüllt.
 
 ⟪देवदत्तान्यपि⟫ ⟪सुखानि⟫ ⟪दुःखमोक्षेष्तीर्न⟫ ⟪पिपुरति⟫ ⟪।⟫ ⟪ता⟫ ⟪इष्टयः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यन्ते⟫ ⟪॥५॥⟫
 
 ⟪यः⟫ ⟪साधुर्भूतेभ्यो⟫ ⟪ऽभयं⟫ ⟪ददाति⟫ ⟪तस्माद्भूतानि⟫ ⟪न⟫ ⟪बिभ्यति⟫ ⟪स⟫ ⟪च⟫ ⟪तेभ्यो⟫ ⟪न⟫ ⟪बिभेति⟫ ⟪॥६॥⟫
 
-Vor einem Heiligen, der den Wesen Furchtlosigkeit schenkt, fürchten sich die Wesen nicht und er fürchtet sich nicht vor ihnen. <!-- TODO: Fallback translation -->
+Vor einem Heiligen, der den Wesen Furchtlosigkeit schenkt, fürchten sich die Wesen nicht und er fürchtet sich nicht vor ihnen.
 
 ⟪ये⟫ ⟪साधवो⟫ ⟪भूताय⟫ ⟪ऽभयं⟫ ⟪ददति⟫ ⟪तेभ्यो⟫ ⟪तन्न⟫ ⟪बिभेति⟫ ⟪ते⟫ ⟪च⟫ ⟪तस्मान्न⟫ ⟪बिभ्यति⟫ ⟪॥६॥⟫
 
 ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-Geistig Beschränkte tun Verdienstvolles und unterlassen Böses, weil sie sich vor Höllen fürchten und Himmel begehren. Solche, die zur unbegrenzten Einsicht erwacht sind, fürchten sich nicht vor Höllen und begehren keine Himmel. Sie haben Furcht und Begier beendet. <!-- TODO: Fallback translation -->
+Geistig Beschränkte tun Verdienstvolles und unterlassen Böses, weil sie sich vor Höllen fürchten und Himmel begehren. Solche, die zur unbegrenzten Einsicht erwacht sind, fürchten sich nicht vor Höllen und begehren keine Himmel. Sie haben Furcht und Begier beendet.
 
 ⟪मितमतिर्नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहाति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धो⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयात्स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येत्⟫ ⟪।⟫ ⟪स⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुणत्⟫ ⟪।⟫ ... ⟪बिभियात्⟫ ... ⟪॥७॥⟫
 

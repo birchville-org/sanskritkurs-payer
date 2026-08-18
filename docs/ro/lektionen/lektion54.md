@@ -13,7 +13,7 @@ status: stable
 
 Cu Lecția 54 începe, în cadrul cursurilor universitare, al doilea semestru. De acum înainte, cursul decurge paralel cu tema principală a acestui semestru: lectura integrală a Bhagavadgītā. Scopul învățării este atingerea unei astfel de fluente în lectura unui text de complexitate medie, încât, în ultima treime a semestrului, părți semnificative din Bhagavadgītā să poată fi traduse spontan. La început, în cadrul cursurilor universitare se distribuiau liste de cuvinte, iar ulterior studenții trebuiau să utilizeze ei înșiși dicționare corespunzătoare (Monier-Williams, Apte, PW).
 
-Cursul despre Bhagavadgītā nu va fi pus, pentru moment, la dispoziție online. <!-- TODO: Fallback translation -->
+Cursul despre Bhagavadgītā nu va fi pus, pentru moment, la dispoziție online.
 
 Lecțiile cursului de sanscrită tratează subiecte de gramatică sanscrită care nu au fost încă abordate.
 
@@ -274,14 +274,7 @@ Traduceți scris următoarele forme și formați corespunzătoarele forme de aor
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5401))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Sursa imaginii: Raji Srinivas / Wikipedia. Licență GNU FDL]
-
-**lekt5401:** Tamil Nadu [Sursa imaginii: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Accesat la 2009-01-28. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, fără scop comercial, la fel de liber)]
 
 :::
 

@@ -36,7 +36,7 @@ Deessa, ti duvessas il desideri da la beletad dal Vaiśya, ch'ha fatg merit, ade
 Elefants, vus duvrais las ligaduras betg disfarciar.
 
 ⟪९⟫. **⟪नरसिंह⟫ ⟪कस्माद्ब्रह्मणि⟫ ⟪न⟫ ⟪समादधासि⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Ti uom simile al lion, perche dirigeschas ti tia attenziun betg cumplettamain sin l'absolut? <!-- TODO: Fallback translation -->
+Ti uom simile al lion, perche dirigeschas ti tia attenziun betg cumplettamain sin l'absolut?
 
 ⟪१०⟫. **⟪कवे⟫ ⟪कच्चिल्लोकानमिमीथाः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 Has ti, o poet, forsa las munds mesirà?
@@ -64,4 +64,3 @@ Enemic, cun la spada dischiras ti betg l'ama (la vita).
 Abb.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung074))
 :::
- <!-- TODO: Fallback translation -->

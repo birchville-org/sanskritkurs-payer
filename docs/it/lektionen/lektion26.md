@@ -1,47 +1,48 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Lezione 26"
+subtitle: "Legge di cerebralizzazione per -s- all'interno della parola"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+
+---
 
 # Lezione 26
 
 ## 26.1. Legge di cerebralizzazione per -s- all'interno della parola
 
 ::: grammar-box
-**-s-** viene sostituito da **-ṣ-**, quando **k, r, l** o una **vocale** — eccetto **a, ā** — precede immediatamente o solo attraverso **⟪अनुस्वार⟫** o **⟪विसर्ग⟫** e segue un altro suono diverso da **ṛ, r**.
+**-s-** viene sostituito da **-ṣ-**, se **k, r, l** o una **vocale** — eccetto **a, ā** — precede immediatamente o solo separata da ⟪अनुस्वार⟫ o ⟪विसर्ग⟫ e segue un altro suono diverso da **ṛ, r**.
 
-A questo Sandhi obbedisce anche **⟪दुस्⟫-** davanti a gutturali e labiali sorde nei composti.
+A questa Sandhi segue anche **⟪दुस्⟫-** davanti a gutturali e labiali sorde nei composti.
 :::
 *Esempi:*
 ::: indent
-**⟪तेषाम्⟫** (da: *te-sām*)
+⟪तेषाम्⟫ (da: *te-sām*)
 
-ma: **⟪तासाम्⟫** (*tā-sām*)
+ma: ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Legge di cerebralizzazione delle dentali all'interno della parola
+## 26.2. Legge di cerebralizzazione per le dentali all'interno della parola
 
 ::: grammar-box
 Le occlusive dentali vengono sostituite dalle corrispondenti retroflesse dopo le retroflesse (incluso **-ṣ-**):
 
-- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-  *(**ṣ** a causa della **i** precedente, **ṭh** a causa della **ṣ** che segue)*
+**iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
+**ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
+*(**ṣ** a causa della precedente **i**, **ṭh** a causa del successivo **ṣ**)*
 :::
-## 26.3. Wortsandhi per Palatali, Guttrurali, ṣ, h + -s
+## 26.3. Sandhi lessicale per Palatale, Gutturale, ṣ, h + -s
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
-Esempi vedi sotto
+Esempi vedere sotto
 :::
-## 26.4. Legge di dissimilazione dell'aspirazione di Grassmann
+## 26.4. Legge di dissimilazione delle aspirate di Grassmann
 
 ::: grammar-box
-**Una conseguenza immediata di due aspirate (aspirata - vocale - aspirata) è la perdita dell'aspirazione della prima consonante:**
+**Una sequenza immediata di due aspirate (aspirata - vocale - aspirata) comporta la perdita dell'aspirazione del primo suono:**
 
 Esempio:
 
@@ -49,48 +50,49 @@ Esempio:
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**Se, a causa di leggi fonetiche, la seconda consonante perde la sua aspirazione, allora l'aspirazione riappare sulla prima consonante.**
+**Se il secondo suono perde la sua aspirazione a causa di leggi fonetiche, l'aspirazione ritorna sul primo suono.**
 
-Esempi: vedi sotto il futuro di  ⟪दुह्⟫ e  ⟪बुध्⟫
+Esempi: vedere sotto Futuro di  ⟪दुह्⟫ e  ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
 Fig.: Hermann Grassmann
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi per -m, -n prima delle sibilanti
+## 26.5. Sandhi lessicale per -m, -n davanti a sibilanti
 
 ::: grammar-box
-**Prima delle sibilanti, -n e -m vengono sostituiti da -ṃ-:**
+**Davanti alle sibilanti, -n e -m vengono sostituiti da -ṃ-:**
 
-Esempio: v. sotto il futuro di ⟪मन्⟫
+Esempio: v. sotto Futuro di ⟪मन्⟫
 :::
 ## 26.6. Uso del futuro semplice (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Il futuro semplice (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) esprime:**
+**Il Futuro Semplice (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) esprime:**
 
-- **il futuro**
-- **un'azione intenzionata o voluta ("andrò", "voglio andare")**
-- **un'aspettativa ("accadrà così")**
-- **speranza**
-- **timore**
-- **probabilità**
-- **opinione del parlante**
-- **ordine**
+**il futuro**
+**un'azione intenzionale o voluta ("andrò", "voglio andare")**
+**un'aspettativa ("accadrà così")**
+**speranza**
+**timore**
+**probabilità**
+**opinione del parlante**
+**ordine**
 
-**Il futuro è in parte in concorrenza con l'ottativo (vedi più avanti).**
+**Il Futuro è in parte in concorrenza con l'ottativo (vedi più avanti).**
 :::
-ad es. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Chi desidera fare un voto, va al tempio."
+ad es. ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = "Qualcuno che desidera fare un voto va al tempio."
+
 
 ::: media
 ![](/images/lekt2602.webp)
-Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
+Fig.: ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2602))
 :::
-## 26.7. Formazione del futuro semplice (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 26.7. Formazione del futuro semplice (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Futuroooooo semplice:**
+**Futuro semplice:**
 
 :::
 ::: indent
@@ -105,10 +107,10 @@ Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 **oppure**  
 **(di solito) radice in grado forte + -i- + -sya (= - iṣya)**
 :::
-**Quali radici formano quale tipo di stemma del futuro deve essere appreso con le forme di stemma!**  
-**In generale, la forma della radice e la vocale di giunzione del futuro coincidono con quelle dell'infinito.**  
-**Alcune radici possono formare il futuro opzionalmente con e senza la vocale di giunzione -i-.**  
-**Il participio Parasmaipada del futuro si forma aggiungendo il suffisso -nt- allo stemma del futuro, il femminile facoltativamente con -ntī o -tī:**
+**Quale radice abbia quale formazione dello stema del futuro, bisogna impararlo con le forme di base!**  
+**In generale la forma della radice e il vocale di giunzione del futuro coincidono con l'infinito.**  
+**Alcune radici possono formare il futuro opzionalmente con e senza vocale di giunzione -i-.**  
+**Il participio Parasmaipada del futuro si forma aggiungendo il suffisso -nt- allo stema del futuro, femminile facoltativamente in -ntī o -tī:**
 
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫

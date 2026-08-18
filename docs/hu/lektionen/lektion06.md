@@ -5,20 +5,11 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# 6. lecke <!-- TODO: Fallback translation -->
+# 6. lecke
 
-::: deleteme-box
-**Ebben a leckében megtanulják:**
-- A mondat szerkezete (alany és igealak)
-- Az igealkotás módjai (Parasmaipada, Ātmanepada, Passzív)
-- Az igemódok és igeidők
-- Jelentő mód, jelen idő (laṭ) és a 3. személy fő végződései
-- A jelen idő alapjának képzése (1., 4. és 6. osztály)
-- A hangváltozás (Ablaut: Guṇa és Vṛddhi)
-:::
-## 6.1. A mondat szerkezete <!-- TODO: Fallback translation -->
+## 6.1. A mondat szerkezete
 
 ::: grammar-box
 **I. vázlat: Igealak**
@@ -31,7 +22,7 @@ Ha az alany (**kartṛ m. = ⟪कर्तृ⟫) egy nem passzív igemondatban
 
 ## 6.2. Az igék képzése
 
-Egy véges (rögzült) igealak, azaz személyes végződésű igemondat a szanszkritban a következőket fejezi ki: <!-- TODO: Fallback translation -->
+Egy véges (rögzült) igealak, azaz személyes végződésű igemondat a szanszkritban a következőket fejezi ki:
 
 1. **Jelentés** (**artha m. ⟪अर्थ⟫)
 2. **Személy** és **szám** (vacana n. = ⟪वचन⟫) (én, te, ő \&lt;ő, az\&gt;, mi ketten, ti ketten, ők ketten, mi, ti, ők)
@@ -58,7 +49,7 @@ Egyes igéket vagy csak a Parasmaipadában, vagy csak az Ātmanepadában haszná
    5. **Jövő idő**: Jövendőidő
    6. **Kondicionális**
 
-Az időket igealakok (törzsek) alkotják: jelen idő törzs, aorist törzs, perfekta törzs, jövő idő törzs. <!-- TODO: Fallback translation -->
+Az időket igealakok (törzsek) alkotják: jelen idő törzs, aorist törzs, perfekta törzs, jövő idő törzs.
 
 ## 6.3. Jelentő mód jelen idő (laṭ = ⟪लट्⟫)
 
@@ -75,7 +66,7 @@ Példák:
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
 | **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
 
-## 6.4. A harmadik személy fő végződése (prathama m. = ⟪प्रथम⟫ = "első (!) személy") <!-- TODO: Fallback translation -->
+## 6.4. A harmadik személy fő végződése (prathama m. = ⟪प्रथम⟫ = "első (!) személy")
 
 ::: grammar-box
 | | egyes szám (Einzahl):brekavacana n.:br⟪एकवचन⟫ | többes szám (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
@@ -92,7 +83,7 @@ Példa **yaj** = ⟪यज्⟫ = "egy áldozattal tisztelni", "áldozni":
 
 ## 6.5. A jelen időstémaképzés
 
-### 6.5.1. A hatodik jelen időosztályba tartozó igék (tudādi = ⟪तुदादि⟫ = „tud stb.”) <!-- TODO: Fallback translation -->
+### 6.5.1. A hatodik jelen időosztályba tartozó igék (tudādi = ⟪तुदादि⟫ = „tud stb.”)
 
 ::: grammar-box
 **Jelen időstéma = gyökér erős fokozatban (ahol felsorolják) + a-**
@@ -116,7 +107,7 @@ Példa **yaj** = ⟪यज्⟫ = "egy áldozattal tisztelni", "áldozni":
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Szóvégi sandhi az e és o hangok között
-Magánhangzó előtt a szó belsejében az **e** helyett **ay**, az **o** helyett pedig **av** áll. <!-- TODO: Fallback translation -->
+Magánhangzó előtt a szó belsejében az **e** helyett **ay**, az **o** helyett pedig **av** áll.
 
 #### 6.5.2.2. Hangfokozás (Ablaut)
 
@@ -129,10 +120,10 @@ Magánhangzó előtt a szó belsejében az **e** helyett **ay**, az **o** helyet
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. A negyedik jelen időosztályba tartozó igék (divādi = ⟪दिवादि⟫ = „div stb.”) <!-- TODO: Fallback translation -->
+### 6.5.3. A negyedik jelen időosztályba tartozó igék (divādi = ⟪दिवादि⟫ = „div stb.”)
 
 ::: grammar-box
-**Jelen időtő = gyökér mély fokozatban (ahol felsorolják) + ya-** <!-- TODO: Fallback translation -->
+**Jelen időtő = gyökér mély fokozatban (ahol felsorolják) + ya-**
 
 | Tő (dhātu m.):br⟪धातु⟫ | Jelen idejű tő |
 | :--- | :--- |
@@ -155,7 +146,7 @@ Az **a** a jelen idő osztályainak szóképző utótagjaiban **témavokálisnak
 - (karoti, kurvanti a **kṛ** = ⟪कृ⟫ 8. osztály: „csinál, készít”)
 - **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = „Jól van? Hogy van?”
 - Válasz: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = „(Nekem) minden tekintetben jól van.”
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ## 6.7. Szószedet
@@ -192,7 +183,7 @@ A szanszkertben az igéket a **tő-alakban** adják meg. A tő után álló szá
 4. dhenus ... (viś, bhū)
    ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
 
-**B) Alkossák meg az A gyakorlatban képzett mondatokat többes számban.** <!-- TODO: Fallback translation -->
+**B) Alkossák meg az A gyakorlatban képzett mondatokat többes számban.**
 
 **C) Fordítsák szanszkritra:**
 1. Áldozattal tisztel. (Áldozati pap egy áldozatúr számára)

@@ -9,14 +9,6 @@ status: stable
 
 # Lição 12
 
-::: deleteme-box
-**Nesta lição, você aprenderá:**
-- O Particípio Perfeito Passivo (PPP)
-- O significado do PPP
-- A formação do PPP
-- Leis da combinação de sons na palavra
-- A voz passiva e o PPP das raízes aprendidas até agora
-:::
 
 ## 12.1. Particípio Perfeito Passivo (PPP)
 
@@ -86,7 +78,7 @@ Ocorrem as seguintes formas de construção (para cada raiz, o seu respetivo PPP
 Os temas femininos são: **-tā**, **-itā**, **-nā**; o neutro flexiona-se como **phala** n.
 :::
 
-### 12.3.1. PPP em -ta (kta) <!-- TODO: Fallback translation -->
+### 12.3.1. PPP em -ta (kta)
 
 #### 12.3.1.1. Sem a vogal de ligação -i- (aniṭ)
 
@@ -144,7 +136,7 @@ Nas formações *aniṭ*, as seguintes leis de sandhi interno devem ser observad
 | **5. jt é substituído por kt ou ṣṭ (não é opcional!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Oclusiva sonora aspirada + oclusiva surda » oclusiva sonora não aspirada + oclusiva sonora aspirada (Lei de Bartholomae):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
 | **7. h-t é substituído por ḍh com alongamento de um i ou u precedente; ou por gdh. Antes de tal ḍh, a é substituído por o, mais raramente por ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ## 12.5. Lista de vocabulário
@@ -166,7 +158,7 @@ Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 Fig.: ⟪मार्गः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : também (posposto) <!-- TODO: Fallback translation -->
+- **api** ⟪अपि⟫ : também (posposto)
 
 Algumas raízes que formam o tema do presente com um infixo nasal e a vogal temática a são contadas pelos gramáticos nativos como pertencentes à 6ª classe do presente, por exemplo:
 

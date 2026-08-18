@@ -5,17 +5,10 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 5
 
-::: deleteme-box
-**In hac lectione discetis:**
-- Fundamenta compositionum nominalium (samāsa)
-- Terminologiam technicam pro compositionibus
-- Compositiones copulativas (Dvandva)
-- Ordinem membrorum in Dvandvis
-:::
 ## 5.1. Compositiones nominales (samāsa m. = ⟪समास⟫)
 
 Multa composita verba formantur, quod Sanscriti proprium est.
@@ -151,7 +144,7 @@ Fig.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, saec. XVIII.
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / in bono Sanskrit: sāmārgyajurvedās trayī)
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (in bono Sanskrit: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
+   (in bono Sanskrit: ⟪सामार्यजुर्वेदास्त्रयी⟫)
 
 4. Tres hominis inimici, qui ianuam inferorum constituunt (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -159,7 +152,7 @@ Fig.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, saec. XVIII.
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
    ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Explicatio: brahmavihāra: "Stati morandi Brahman", etiam "Inmensi" appellati. Sunt formae meditationis Buddhisticae.) <!-- TODO: Fallback translation -->
+   (Explicatio: brahmavihāra: "Stati morandi Brahman", etiam "Inmensi" appellati. Sunt formae meditationis Buddhisticae.)
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
    (Yogasūtra 2,3)
@@ -168,9 +161,9 @@ Fig.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, saec. XVIII.
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
    (Secundum Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
+   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
-## 5.6. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 5.6. Wiederholungsübung
 
 **A) Translate:**
 

@@ -13,13 +13,13 @@ last_reconstructed: 2026-05-15
 A) Fordítsd le:
 
 ⟪१⟫. **⟪यदि⟫ ⟪गच्छसि⟫ ⟪गच्छ⟫ ⟪त्वम्⟫ ⟪।⟫ ⟪अहं⟫ ⟪न⟫ ⟪गमिष्यामि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Ha menni akarsz, akkor menj! Én nem megyek. <!-- TODO: Fallback translation -->
+Ha menni akarsz, akkor menj! Én nem megyek.
 
 ⟪२⟫. **⟪आर्य⟫ ⟪प्रेक्षस्व⟫ ⟪मे⟫ ⟪परिभवम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 Nemes úr, nézd megaláztatásomat!
 
 ⟪३⟫. **⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Hódi Ráma, ha mennem kell, akkor ez a leány legyen a kísérőm. <!-- TODO: Fallback translation -->
+Hódi Ráma, ha mennem kell, akkor ez a leány legyen a kísérőm.
 
 ⟪४⟫. **⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Hölgyem, maradjon meg, maradjon meg. Nem kell félnie.
@@ -64,7 +64,7 @@ Szeretnénk hívni.
 Szeretnék meghajolni előtted.
 
 ⟪५⟫. **⟪एतत्कर्म⟫ ⟪क्रियताम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Ezt a cselekedetet el kell végezni. <!-- TODO: Fallback translation -->
+Ezt a cselekedetet el kell végezni.
 
 ⟪६⟫. **⟪भवता⟫ ⟪सुप्यताम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 Aludjanak. (Passzív szerkezet)
@@ -76,7 +76,7 @@ Fiam, törekedj a gazdagságra!
 Kezdjétek el a tanulást!
 
 ⟪९⟫. **⟪पितृभ्यः⟫ ⟪पिण्डान्प्रयच्छत⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Adjatok élelmáldozatot az ősapóknak! <!-- TODO: Fallback translation -->
+Adjatok élelmáldozatot az ősapóknak!
 
 ⟪१०⟫. **⟪नन्दन्तु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 Örüljenek!
@@ -88,7 +88,7 @@ Szeretnék a világra nézni.
 Szeretnünk Benaresba menni.
 
 ⟪१३⟫. **⟪देवान्यजन्ताम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫**
-Áldozati urakként tiszteljéket az isteneket. <!-- TODO: Fallback translation -->
+Áldozati urakként tiszteljéket az isteneket.
 
 ⟪१४⟫. **⟪स्तोत्रं⟫ ⟪गाय⟫ ⟪॥⟫ ⟪१४⟫ ⟪॥⟫**
 Énekelj dicséretet!
@@ -97,7 +97,7 @@ Szeretnünk Benaresba menni.
 Fiúkat szüljenek nekem!
 
 ⟪१६⟫. **⟪तुभ्यं⟫ ⟪मे⟫ ⟪गृहं⟫ ⟪दिशानि⟫ ⟪॥⟫ ⟪१६⟫ ⟪॥⟫**
-Megmutatom neked a házamat. <!-- TODO: Fallback translation -->
+Megmutatom neked a házamat.
 
 ⟪१७⟫. **⟪मत्प्रव्रज⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫**
 Menj el tőlem!
@@ -119,13 +119,13 @@ Harcoljatok!
 Parancsoljanak!
 
 ⟪२३⟫. **⟪तव⟫ ⟪गृहे⟫ ⟪वसाम⟫ ⟪॥⟫ ⟪२३⟫ ⟪॥⟫**
-Lakni akarunk a te házadban. <!-- TODO: Fallback translation -->
+Lakni akarunk a te házadban.
 
 ⟪२४⟫. **⟪एवं⟫ ⟪भवतु⟫ ⟪॥⟫ ⟪२४⟫ ⟪॥⟫**
 Így legyen!
 
 ⟪२५⟫. **⟪अश्वं⟫ ⟪तुद⟫ ⟪॥⟫ ⟪२५⟫ ⟪॥⟫**
-Üsd meg a lovat! <!-- TODO: Fallback translation -->
+Üsd meg a lovat!
 
 ⟪२६⟫. **⟪भ्रमन्तु⟫ ⟪॥⟫ ⟪२६⟫ ⟪॥⟫**
 Vándoroljanak!
@@ -140,7 +140,7 @@ A lónak kell a terhet hordoznia.
 A világokat akarjuk rendezni.
 
 ⟪३०⟫. **⟪पानं⟫ ⟪पिब⟫ ⟪॥⟫ ⟪३०⟫ ⟪॥⟫**
-Idd meg az italt! <!-- TODO: Fallback translation -->
+Idd meg az italt!
 
 ⟪३१⟫. **⟪मन्यस्व⟫ ⟪॥⟫ ⟪३१⟫ ⟪॥⟫**
 Gondolkozz!
@@ -149,7 +149,7 @@ Gondolkozz!
 Legyőzendők!
 
 ⟪३३⟫. **⟪त्वया⟫ ⟪नीयामहै⟫ ⟪॥⟫ ⟪३३⟫ ⟪॥⟫**
-Tőled akarunk vezetve lenni. <!-- TODO: Fallback translation -->
+Tőled akarunk vezetve lenni.
 
 ⟪३४⟫. **⟪सुखाय⟫ ⟪भवतात्⟫ ⟪॥⟫ ⟪३४⟫ ⟪॥⟫**
 Legyen áldásos! (Áldáskívánság)

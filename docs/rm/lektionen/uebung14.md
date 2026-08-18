@@ -25,7 +25,7 @@ Per la veritad vegn il uman a la feliçitad.
 Persunas malvagias na vegnan betg en il tschiel.
 
 ⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫
-La veritad è la glisch dal mund. <!-- TODO: Fallback translation -->
+La veritad è la glisch dal mund.
 
 A) Formai il genitiv singular e plural a las suandantas paraulas. Dat il significat ed il gener da las paraulas:
 
@@ -138,7 +138,7 @@ A) Formai il genitiv singular e plural a las suandantas paraulas. Dat il signifi
 B) Traduscha:
 
 ⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 pussaivladads)
-Il figl dal brahman è en il vitg da la brahmna. Il figl dal brahman è cun la brahmna en il vitg ì. <!-- TODO: Fallback translation -->
+Il figl dal brahman è en il vitg da la brahmna. Il figl dal brahman è cun la brahmna en il vitg ì.
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 Il foc dal sacrifici ha brischà il mangiativ.
@@ -181,4 +181,3 @@ Da cui mangiativ ha quest savis vedic sacrificà?
 Abb.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (sursa da l'imagini: [detagls](/licenses#uebung017))
 :::
- <!-- TODO: Fallback translation -->

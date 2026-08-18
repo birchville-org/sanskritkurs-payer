@@ -38,7 +38,7 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
 | **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br**כיתה 3: -atu**:br(לשעבר -\*ntu) | \-atām:br(לשעבר: -\*ntām) |
 :::
-הערה: ¹ את הסופיות של אדם 2 ו-3 בגוף יחיד ניתן להחליף ב-\-tāt, אם רוצים לבטל ברכה. -tāt מופיע (גם בגוף 3 יחיד) על השורש החלש. <!-- TODO: Fallback translation -->
+הערה: ¹ את הסופיות של אדם 2 ו-3 בגוף יחיד ניתן להחליף ב-\-tāt, אם רוצים לבטל ברכה. -tāt מופיע (גם בגוף 3 יחיד) על השורש החלש.
 
 ::: grammar-box
 | **לצורת הסופית של אדם 2 בגוף יחיד בציווי:** ||
@@ -122,7 +122,7 @@ status: stable
 
 הערה: ¹ הסבר של **⟪जहि⟫** ראה Thumb-Hauschild I,2 עמ' 253
 :::
-⟪स्तु⟫ 2U <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -265,9 +265,8 @@ status: stable
 איור: ⟪तन्त्रम्⟩
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (מקור התמונה: [פרטים](/he/licenses#lekt4802))
-::: <!-- TODO: Fallback translation -->
-
 :::
+
 ::: media
 ![](/images/lekt4803.webp)
 איור: ⟪तन्त्री⟩
@@ -406,23 +405,3 @@ B) תרגמו לסנסקריט (השתמשו בציווי ובשורשים של 
 הסבר:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : תולד (⟪षष्ठी⟫) שניים ל-⟪द्वे⟫ ⟪कुले⟫ "שתי משפחות"
 
-::: deleteme-box
-
-**lekt4801:** [מקור תמונה: גונלאוגור ת' בריים. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- נגיש ב-2009-01-10. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
-
-**lekt4802:** סואלקוצ'י = সুৱালকুচি, אסאם = অসম [מקור תמונה: קן מקצ'ני. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- נגיש ב-2009-01-10. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
-
-**lekt4803:** נגני סיטאר = ⟪सितारवादकः⟫ [מקור תמונה: ויקיפדיה. תחום הציבור]
-
-**lekt4804:** [קבוצת סיוע עצמי (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), טאמיל נאדו = தமிழ்நாடு [מקור תמונה: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- נגיש ב-2009-01-10. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ייחוס, שימוש לא מסחרי)] <!-- TODO: Fallback translation -->
-
-**lekt4805:** חג תאיפוסאם = தைப்பூசம், מערות באטו, מלזיה [מקור התמונה: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- נגיש ב-2009-01-10. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (יחוס)]
-
-**lekt4806:** ⟪नेपाल⟫ [מקור התמונה: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- נגיש ב-2009-01-10. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (יחוס, לא לשימוש מסחרי, ללא עיבוד)]
-
-**lekt4807:** ⟪जोधपुर⟫ [מקור התמונה: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- נגיש ב-2009-01-10. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (יחוס, לא לשימוש מסחרי, ללא עיבוד)]
-
-**lekt4808:** אגם קרנג'י = ಕಾರಂಜಿ ಕೆರೆ [מקור התמונה: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- נגיש ב-2009-01-10. -- [רישיון Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (יחוס, שיתוף זהה)]
-
-**lekt4809:** (תמונה: פייקר)
-:::

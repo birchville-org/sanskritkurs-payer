@@ -48,7 +48,7 @@ status: stable
 | **\-hi** | alle übrigen Präsensstämme, die auf Vokal oder Halbvokal enden (Ausnahme: **⟪जुहुधि⟫** zu **⟪हु⟫ 3**) |
 | **\-dhi** | Alle übrigen Fälle |
 :::
-### 48.2.2. Μορφή του ενεστωτικού θέματος <!-- TODO: Fallback translation -->
+### 48.2.2. Μορφή του ενεστωτικού θέματος
 
 ::: grammar-box
 **Ισχυρή ρίζα:**
@@ -228,7 +228,7 @@ status: stable
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
+| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
 
 Πριν το επίθεμα **-ya**, η κατάληξη της ρίζας μεταχειρίζεται παρόμοια με πριν το επίθεμα **-a**.
 :::
@@ -265,7 +265,7 @@ status: stable
 Εικ.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt4802))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -406,23 +406,3 @@ B) Μεταφράστε στα Σανσκριτικά (χρησιμοποιήσ�
 Εξήγηση:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Γεν. (⟪षष्ठी⟫) Δυϊκό προς ⟪द्वे⟫ ⟪कुले⟫ "δύο οικογένειες"
 
-::: deleteme-box
-
-**lekt4801:** [Πηγή εικόνας: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Πρόσβαση στις 10-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Πηγή εικόνας: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Πρόσβαση στις 10-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)] <!-- TODO: Fallback translation -->
-
-**lekt4803:** Παίχτης sitar = ⟪सितारवादकः⟫ [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
-
-**lekt4804:** [Ομάδα αυτοβοήθειας (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Πηγή εικόνας: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Πρόσβαση στις 10-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση)]
-
-**lekt4805:** Φεστιβάλ Thaipusam = தைப்பூசம், Batu Caves, Μαλαισία [Πηγή εικόνας: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Πρόσβαση στις 2009-01-10. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)] <!-- TODO: Fallback translation -->
-
-**lekt4806:** ⟪नेपाल⟫ [Πηγή εικόνας: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Πρόσβαση στις 2009-01-10. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση εξαγωγικών έργων)]
-
-**lekt4807:** ⟪जोधपुर⟫ [Πηγή εικόνας: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Πρόσβαση στις 2009-01-10. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση εξαγωγικών έργων)]
-
-**lekt4808:** Λίμνη Karanji = ಕಾರಂಜಿ ಕೆರೆ [Πηγή εικόνας: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Πρόσβαση στις 2009-01-10. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Αναφορά δημιουργού, κοινόχρηστο)] <!-- TODO: Fallback translation -->
-
-**lekt4809:** (Εικόνα: Payer)
-:::

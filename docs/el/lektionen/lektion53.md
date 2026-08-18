@@ -376,7 +376,7 @@ lesson_id: 53
 
 **Deklination von -īyas siehe unten.**
 :::
-Παραδείγματα: <!-- TODO: Fallback translation -->
+Παραδείγματα:
 
 ::: grammar-box
 | Ρίζα | Επίθετο | Συγκριτικό | Υπερθετικό |
@@ -456,7 +456,7 @@ lesson_id: 53
 | (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Κλίση των συγκριτικών σε -īyas <!-- TODO: Fallback translation -->
+## 53.9. Κλίση των συγκριτικών σε -īyas
 
 ::: grammar-box
 Οι συγκριτικοί σε -īyas σχηματίζουν το θηλυκό σε -īyasī (κλίση όπως ⟪देवी⟫). Το αρσενικό και το ουδέτερο κλίνονται σύμφωνα με τον ακόλουθο πίνακα.
@@ -546,7 +546,7 @@ lesson_id: 53
 *   δεν υπάρχει Visarga,
 *   δεν ακολουθούνται δύο σύμφωνα.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
+Kurze Vokale sind a, i, u, ṛ, ḷ
 
 **Όλες οι άλλες συλλαβές είναι ⟪गुरु⟫ = βαριές. Η τελευταία συλλαβή ενός τετάρτου στίχου (⟪पाद⟫) θεωρείται πάντα ⟪गुरु⟫.**
 
@@ -635,19 +635,5 @@ Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-**Πηγές**
-
-**Payer, Alois (1944–):** Σανσκριτικό μάθημα. -- 53. Μάθημα 53 (διακοπές εξαμήνου). -- Έκδοση της 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
-
-Finitum feliciter 1984-02-15  
-Editio interretialis feliciter finita 2009-01-19  
-Alois Maria Payer  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-
-**Payer, Alois (1944–):** Σανσκριτικό μάθημα. -- 53. Μάθημα 53 (διακοπές εξαμήνου). -- Έκδοση της 2009-01-19. -- Πηγή εικόνας του πρωτότυπου πίνακα 53.9: Αποτύπωση οθόνης της πρωτότυπης πηγής (Payer).
 :::
 

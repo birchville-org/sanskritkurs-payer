@@ -5,19 +5,10 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # บทที่ 6
 
-::: deleteme-box
-**ในบทนี้ท่านจะได้เรียนรู้:**
-- โครงสร้างของประโยคกริยา (ผู้กระทำและรูปกริยา)
-- การสร้างรูปกริยา (Parasmaipada, Ātmanepada, Passiv)
-- โหมดและเวลาของกริยา
-- Indikativ ปัจจุบัน (laṭ) และส่วนต่อท้ายบุรุษที่ 3
-- การสร้างรากกริยาปัจจุบัน (ชั้น 1, 4 และ 6)
-- การลดระดับเสียง (Ablaut: Guṇa และ Vṛddhi)
-:::
 ## 6.1. ประโยคกริยา
 
 ::: grammar-box

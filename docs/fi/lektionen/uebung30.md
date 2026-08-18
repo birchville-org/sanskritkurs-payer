@@ -85,14 +85,14 @@ B) Käännä seuraavat lauseet ja ratkaise sanskritinkieliset samāhiti-komposit
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
 (⟪आर्याणि⟫ ⟪सत्यानि⟫)
-Buddha julisti ihmisille opettajansa arvovaltaisten olentojen hyödyksi, jotta he tunnistaisivat arvokkaat totuudet. <!-- TODO: Fallback translation -->
+Buddha julisti ihmisille opettajansa arvovaltaisten olentojen hyödyksi, jotta he tunnistaisivat arvokkaat totuudet.
 
 ⟪२⟫. **⟪ये⟫ ⟪नरा⟫ ⟪देवान्न⟫ ⟪यजेरन्व्रतानि⟫ ⟪च⟫ ⟪न⟫ ⟪चरेयुरनृतं⟫ ⟪च⟫ ⟪वदेयुरधर्मं⟫ ⟪च⟫ ⟪कुर्युस्ते⟫ ⟪सुखं⟫ ⟪नाप्नुयुर्मृत्वा⟫ ⟪च⟫ ⟪नरकं⟫ ⟪पतेयुः⟫ ⟪॥२॥⟫**
 Ihmiset, jotka eivät uhraa jumalille, eivät pidä lupauksia, valehtelevat ja tekevät väärin, eivät tule onnellisiksi ja lankeavat kuolemansa jälkeen helvettiin.
 
 ⟪३⟫. **⟪ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो⟫ ⟪ज्ञातिं⟫ ⟪दासमाययति⟫ ⟪॥३॥⟫**
 (⟪आर्यपुत्रः⟫ — ⟪आर्याणां⟫ ⟪पुत्रः⟫)
-Arvokas poika haluaa, että hänen sukulaisensa tulevat, ja lähettää palvelijan hakemaan sukulaiset. <!-- TODO: Fallback translation -->
+Arvokas poika haluaa, että hänen sukulaisensa tulevat, ja lähettää palvelijan hakemaan sukulaiset.
 
 
 ⟪४⟫. **⟪अन्नलोभाद्दुःखं⟫ ⟪जायेतेति⟫ ⟪प्राप्तज्ञानः⟫ ⟪सुफलानि⟫ ⟪नाश्नाति⟫ ⟪॥४॥⟫**
@@ -124,11 +124,11 @@ Sano totuuksia, jotka ovat miellyttäviä; älä sano epämiellyttäviä totuuks
 Kuv.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Kuv lähde: [Details](/licenses#uebung048))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Sanamuodon määrittäminen <!-- TODO: Fallback translation -->
+## Sanamuodon määrittäminen
 
-Määritä ja käännä seuraavat sanamuodot: <!-- TODO: Fallback translation -->
+Määritä ja käännä seuraavat sanamuodot:
 
 ::: grammar-box
 | Sanamuoto | Määritelmä | Merkitys |
@@ -155,7 +155,7 @@ Määritä ja käännä seuraavat sanamuodot: <!-- TODO: Fallback translation --
 | ⟪२०⟫. ⟪स्थित्या⟫ | Instr. sg. f. | asetuksen kautta |
 | ⟪२१⟫. ⟪मात्रायै⟫ | Dat. sg. f. | mitalle |
 | ⟪२२⟫. ⟪प्रभृतौ⟫ | Lok. sg. f. | alussa |
-| ⟪२३⟫. ⟪हस्तेन⟫ | Instr. sg. m. | käden kautta | <!-- TODO: Fallback translation -->
+| ⟪२३⟫. ⟪हस्तेन⟫ | Instr. sg. m. | käden kautta |
 
 | ⟪२४⟫. ⟪आदेः⟫ | Abl./Gen. sg. m. | alusta/päältä |
 | ⟪२५⟫. ⟪दिष्टिम्⟫ | Akk. sg. f. | ohje |

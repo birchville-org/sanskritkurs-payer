@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # Lição 9
 
-::: deleteme-box
-**Nesta lição, você aprenderá:**
-- O Samāhāradvandva ("dvandva de agregação")
-- A formação de temas nominais com os sufixos **-ka** (taddhita) e **-aka** (kṛt)
-- Vocabulário sobre o tema de profissões e papéis sociais
-- Citações de textos jurídicos clássicos (Dharmaśāstras)
-:::
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "dvandva de agregação")
 
@@ -35,9 +28,9 @@ Além desta regra básica para a formação de Samāhāradvandvas, há uma séri
 
 **putra m. "filho" » putraka m. ⟪पुत्रक⟫ "filhinho"**
 
-**aśva m. "cavalo" » aśvaka m. ⟪अश्वक⟫ "cavalinho, uma coisa semelhante a um cavalo"** <!-- TODO: Fallback translation -->
+**aśva m. "cavalo" » aśvaka m. ⟪अश्वक⟫ "cavalinho, uma coisa semelhante a um cavalo"**
 
-**putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫** <!-- TODO: Fallback translation -->
+**putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
 
 4\. **Nomes que expressam "relacionado ao conceito da palavra base":**
 **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "nativo de Benares, originário de Benares"**
@@ -156,7 +149,7 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 3. Deveres específicos de um Kṣatriya:
    **rakṣaṇaṃ sarvabhūtānām**
 ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(sarvabhūtānām = Genitivo: "de todos os seres"; Gautamadharmasūtra X, 7) <!-- TODO: Fallback translation -->
+(sarvabhūtānām = Genitivo: "de todos os seres"; Gautamadharmasūtra X, 7)
 
 4. Deveres específicos de um Vaiśya:
    **kṛṣivāṇijyapāśupālyakusīdam**
@@ -172,4 +165,3 @@ Explicação: dvijātīnām = Genitivo plural de dvijāti (traduza aqui: "para c
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
 ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
 (segundo o Kauṭilīya-Arthaśāstra 1.4.1.)
- <!-- TODO: Fallback translation -->

@@ -5,11 +5,11 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecziun 36
 
-## 36.1. Furmas spezialas dal perfectum <!-- TODO: Fallback translation -->
+## 36.1. Furmas spezialas dal perfectum
 
 ::: grammar-box
 1\. Certs radis mussan suenter la sillaba da reduplicaziun ina midada dal cumenzament dal radis.
@@ -46,7 +46,7 @@ Exempels:
 | :--- | :--- | :--- |
 | **⟪भू⟫** 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::
-## 36.2. Il perfect perifrastic (⟪अनुप्रयोगलिट्⟫) <!-- TODO: Fallback translation -->
+## 36.2. Il perfect perifrastic (⟪अनुप्रयोगलिट्⟫)
 
 ::: grammar-box
 Il perfett perifrastic (⟪अनुप्रयोगलिट्⟫) vegn duvrà:
@@ -63,7 +63,7 @@ Il perfett perifrastic (⟪अनुप्रयोगलिट्⟫) vegn duvr
 - Auslautender Vocala da stramps wird vor -ām guṇiert.
 - ⟪अस्⟫ e ⟪भू⟫ vegnan era conjugads cun verbs d'Ātmanepada en il Parasmaipada.
 :::
-Das periphrastische Perfekt ist wohl aus dem Accusativ eine Verbalnomens auf -ā entstanden. Dieser Accusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt ist wohl aus dem Accusativ eine Verbalnomens auf -ā entstanden. Dieser Accusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 Ezempels:
 
@@ -111,7 +111,7 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt3601))
-::: <!-- TODO: Fallback translation -->
+:::
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : ir, ir, ir
 
@@ -132,7 +132,7 @@ Inf. ⟪व्रजितुम्⟫
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt3602))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -158,9 +158,9 @@ Imagg.: ⟪अनगार्यम्⟫
 ::: indent
 ⟪पृष्ठम्⟫ : davos
 :::
-⟪प्रजापति⟫ m.: signur dals essers, dieu creatur <!-- TODO: Fallback translation -->
+⟪प्रजापति⟫ m.: signur dals essers, dieu creatur
 
-⟪अनु⟫ Präverb: nach, entlang, über - hin, längs, gemäß, hinzu, hinter - her <!-- TODO: Fallback translation -->
+⟪अनु⟫ Präverb: nach, entlang, über - hin, längs, gemäß, hinzu, hinter - her
 
 ::: indent
 p.ex.
@@ -169,7 +169,7 @@ p.ex.
 
 ⟪अनुगम्⟫ : seguir, passar al costat
 :::
-⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an <!-- TODO: Fallback translation -->
+⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
 
 ::: indent
 p.ex.
@@ -178,7 +178,7 @@ p.ex.
 
 ⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : formal begrüsssen, ansprechen
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : Widerwille empfinde, dahinschwinde <!-- TODO: Fallback translation -->
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : Widerwille empfinde, dahinschwinde
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
@@ -200,7 +200,7 @@ PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : diletgar, alegrar; amar, esser favorabel a ina persuna <!-- TODO: Fallback translation -->
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : diletgar, alegrar; amar, esser favorabel a ina persuna
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : s'allegrar
 
@@ -241,9 +241,9 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Abb.: ⟪लोमहर्षः⟫
 (Bildquelle: [Detagl](/rm/licenses#lekt3604))
-::: <!-- TODO: Fallback translation -->
+:::
 
-⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger <!-- TODO: Fallback translation -->
+⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger
 
 :::
 ## 36.5. Exercizi
@@ -260,7 +260,7 @@ B) La radis ⟪आस्⟫ "seder" ha il perfet perifrastic. Formai quest per l
 1.  ⟪आस्ते⟫
 2.  ⟪आसते⟫
 
-C) Formai il Perfekt correspundent a las suandantas furmas: <!-- TODO: Fallback translation -->
+C) Formai il Perfekt correspundent a las suandantas furmas:
 
 1.  ⟪जीयते⟫
 2.  ⟪विदन्ति⟫
@@ -421,15 +421,15 @@ Traducir:
 
 Explicaziuns:
 
-⟪पितरम्⟫ : Akk. sg. zu ⟪पितृ⟫ m. "Vater" <!-- TODO: Fallback translation -->
+⟪पितरम्⟫ : Akk. sg. zu ⟪पितृ⟫ m. "Vater"
 
-⟪मातरम्⟫ : Akk. sg. zu ⟪मातृ⟫ f. "Mutter" <!-- TODO: Fallback translation -->
+⟪मातरम्⟫ : Akk. sg. zu ⟪मातृ⟫ f. "Mutter"
 
 ⟪ब्रह्म⟫ : Nom./Akk. sg. a ⟨�ब्रह्मन्⟩ n. "Assolut, Veda"
 
-:sig[⟪सर्वे⟫] : Nom. pl. mask. zu ⟪सर्व⟫ "tuts, mintgat" <!-- TODO: Fallback translation -->
+:sig[⟪सर्वे⟫] : Nom. pl. mask. zu ⟪सर्व⟫ "tuts, mintgat"
 
-⟪त्रयस्⟫ : Nom. pl. mask. zu ⟪त्रि⟫ "drei" <!-- TODO: Fallback translation -->
+⟪त्रयस्⟫ : Nom. pl. mask. zu ⟪त्रि⟫ "drei"
 
 ⟪सर्वास्⟫ : Nom./Akk. pl. fem. zu ⟪सर्व⟫ "tuts, mintgins"
 :::
@@ -462,7 +462,7 @@ Explicaziuns:
 
 En quest vers è ⟪ब्रू⟫ construiì cun il genitiv
 
-⟪मेधावी⟫ : Nom. sg. mask. zu ⟪मेधाविन्⟫ ⟪३⟫ "verstandig, intelligent" <!-- TODO: Fallback translation -->
+⟪मेधावी⟫ : Nom. sg. mask. zu ⟪मेधाविन्⟫ ⟪३⟫ "verstandig, intelligent"
 
 ⟪जडवत्⟫ Adv. "Sün il tip d'in starr/stump/düm"
 :::
@@ -511,13 +511,3 @@ Determinar e tradurre las suventas formas linguisticas en tut las pussaivladads 
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Fonte da imagem: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Acesso em  2008-12-28. --   Licença Creative Commons (Atribuição, uso não comercial)]
-- **lekt3602.jpg**: Fig.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Fonte da imagem: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Acesso em  2008-12-28. --   Licença Creative Commons (Atribuição, shere alike)]
-- **lekt3603.jpg**: Fig.: ⟪अनगार्यम्⟫ 	Nordeste da Tailândia = อีสาน 	[Fonte da imagem: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Acesso em  	2008-12-28. --  	 	Licença Creative Commons (Atribuição, uso não comercial, sem  	edição)]
-- **lekt3604.jpg**: Fig.: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. pêlo corporal) [Fonte da imagem: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Acesso em 2008-12-29.  --   Licença Creative Commons (Atribuição, uso não comercial)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ Gandhara, séc. 1/2 d.C. [Fonte da imagem: Wikipedia. GNU FDLicense]
-- **lekt3606.jpg**: Fig.:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫Mudrā [Fonte da imagem: Payer]
-- **lekt3607.jpg**: Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Fonte da imagem: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Acesso em  2008-12-29. --   Licença Creative Commons (Atribuição, uso não comercial, share alike)]
-:::

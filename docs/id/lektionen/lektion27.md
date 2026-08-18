@@ -1,10 +1,11 @@
 ---
-title: Lektion 27
-subtitle: "Gebrauch des Lokativ (⟪सप्तमी⟫ f. = \"siebte Kasusendung\")"
+title: "Pelajaran 27"
+subtitle: 'Penggunaan Lokativ (⟪सप्तमी⟫ f. = \"akhiran kasus ketujuh\")'
 lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 27
@@ -110,47 +111,47 @@ Informasi lebih lanjut mengenai penggunaan Lokatif akan menyusul kemudian.
 | ⟪गुणवन्त्⟫ | ⟪गुणवति⟫ | ⟪गुणवत्सु⟫ |
 
 :::
-### 27.2.2. Frage-, Demonstrativ- dan Relativpronomina
+### 27.2.2. Kata Ganti Tanya, Penunjuk, dan Relatif
 
 ::: grammar-box
 
 | | ⟪किम्⟫ | ⟪यद्⟫ | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Maskulin / Netral:brLokatif Tunggal | ⟪कस्मिन्⟫ | ⟪यस्मिन्⟫ | ⟪तस्मिन्⟫ | ⟪एतस्मिन्⟫ | ⟪अस्मिन्⟫ |
-| Maskulin / Netral:brLokatif Jamak | ⟪केषु⟫ | ⟪येषु⟫ | ⟪तेषु⟫ | ⟪एतेषु⟫ | ⟪एषु⟫ |
-| Feminin:brLokatif Tunggal | ⟪कस्याम्⟫ | ⟪यस्याम्⟫ | ⟪तस्याम्⟫ | ⟪एतस्याम्⟫ | ⟪अस्याम्⟫ |
-| Feminin:brLokatif Jamak | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
+| Maskulinum / Neutrum:brLokativ Singular | ⟪कस्मिन्⟫ | ⟪यस्मिन्⟫ | ⟪तस्मिन्⟫ | ⟪एतस्मिन्⟫ | ⟪अस्मिन्⟫ |
+| Maskulinum / Neutrum:brLokativ Plural | ⟪केषु⟫ | ⟪येषु⟫ | ⟪तेषु⟫ | ⟪एतेषु⟫ | ⟪एषु⟫ |
+| Femininum:brLokativ Singular | ⟪कस्याम्⟫ | ⟪यस्याम्⟫ | ⟪तस्याम्⟫ | ⟪एतस्याम्⟫ | ⟪अस्याम्⟫ |
+| Femininum:brLokativ Plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
-### 27.2.3. Batang Vokal
+### 27.2.3. Stem Vokal
 
 ::: grammar-box
 
-| | Lokatif Tunggal | Lokatif Jamak |
+| | Lokativ Singular | Lokativ Plural |
 | :--- | :--- | :--- |
-| **⟪देव⟫** m. | ⟪देवे⟫ :br(« deva + -i) | ⟪देवेषु⟫ |
-| **⟪कवि⟫** m. | ⟪कवौ⟫ | ⟪कविषु⟫ |
-| **⟪पशु⟫** m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
-| **⟪देवता⟫** f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
-| **⟪देवी⟫** f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
-| **⟪श्रुति⟫** f. | ⟪श्रुतौ⟫ oder ⟪श्रुत्याम्⟫ :br(d.h. entweder wie **kavi** :br⟪कवि⟫ oder wie **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
-| **⟪धेनु⟫** f. | **⟪धेनौ⟫** or **⟪धेन्वाम्⟫** | ⟪धेनुषु⟫ |
+| ⟪देव⟫ m. | ⟪देवे⟫ :br(« deva + -i) | ⟪देवेषु⟫ |
+| ⟪कवि⟫ m. | ⟪कवौ⟫ | ⟪कविषु⟫ |
+| ⟪पशु⟫ m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
+| ⟪देवता⟫ f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
+| ⟪देवी⟫ f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
+| ⟪श्रुति⟫ f. | ⟪श्रुतौ⟫ atau ⟪श्रुत्याम्⟫ :br(yaitu baik seperti **kavi** :br⟪कवि⟫ atau seperti **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
+| ⟪धेनु⟫ f. | ⟪धेनौ⟫ atau ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
-## 27.3. Ringkasan tentang akhiran kasus reguler (⟪विभक्ति⟫)
+## 27.3. Ringkasan Akhiran Kasus Reguler (⟪विभक्ति⟫)
 
 ::: grammar-box
 
-| | Tunggal:br⟪एकवचनम्⟫ || Jamak:br⟪बहुवचनम्⟫ ||
-| | Maskulin / Feminin:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Netral:br⟪नपुंसकम्⟫ | Maskulin / Feminin:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Netral:br⟪नपुंसकम्⟫ |
+| | Singular:br⟪एकवचनम्⟫ || Plural:br⟪बहुवचनम्⟫ ||
+| | Maskulinum / Femininum:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutrum:br⟪नपुंसकम्⟫ | Maskulinum / Femininum:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutrum:br⟪नपुंसकम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Nominatif** :br **⟪१⟫. ⟪प्रथमा⟫** | **-s** | -Ø | **-as** | **-i** |
-| **2. Akusatif** :br **⟪२⟫. ⟪द्वितीया⟫** | **-am** | -Ø | -as | **-i** |
-| **3. Instrumental** :br **⟪३⟫. ⟪तृतीया⟫** | -ā || -bhis ||
-| **4. Datif** :br **⟪४⟫. ⟪चतुर्थी⟫** | -e || -bhyas ||
-| **5. Ablatif** :br **⟪५⟫. ⟪पञ्चमी⟫** | -as || -bhyas ||
-| **6. Genitif** :br **⟪६⟫. ⟪षष्ठी⟫** | -as || -ām ||
-| **7. Lokatif** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
+| **1. Nominativ** :br **⟪१⟫. ⟪प्रथमा⟫** | **-s** | -Ø | **-as** | **-i** |
+| **2. Akkusativ** :br **⟪२⟫. ⟪द्वितीया⟫** | **-am** | -Ø | -as | **-i** |
+| **3. Instrumentalis** :br **⟪३⟫. ⟪तृतीया⟫** | -ā || -bhis ||
+| **4. Dativ** :br **⟪४⟫. ⟪चतुर्थी⟫** | -e || -bhyas ||
+| **5. Ablativ** :br **⟪५⟫. ⟪पञ्चमी⟫** | -as || -bhyas ||
+| **6. Genetiv** :br **⟪६⟫. ⟪षष्ठी⟫** | -as || -ām ||
+| **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
 **Printed in red**: strong cases (with stem gradation).
@@ -587,28 +588,5 @@ Sai Baba dari Shirdi (1835 - 1918).
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Image source: [Detail](/en/licenses#lekt2717))
-:::
-
-::: deleteme-box
-
-**lekt2701:** Jaipur, 1875. [Sumber gambar: Wikipedia. Domain publik]
-**lekt2702:** Rajasthan. [Sumber gambar: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** Holi. [Sumber gambar: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Harihara (kiri: Viṣṇu, kanan: Śiva). [Sumber gambar: Wikipedia. Domain publik]
-**lekt2705:** Harihara (kiri: Viṣṇu, kanan: Śiva). Godrumdwip, Bengal Barat. [Sumber gambar: GourangaUK / Wikipedia. Lisensi GNU FD]
-**lekt2706:** Vastrāṇi. Majuli, Assam. [Sumber gambar: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Sumber gambar: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Rāma-Satz. [Sumber gambar: Wikipedia. Domain publik]
-**lekt2709:** Lukisan oleh Rāja Ravi Varmā (1848 - 1906). [Sumber gambar: Wikipedia. Domain publik]
-**lekt2710:** Buah-buahan. Bangalore. [Sumber gambar: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Naran. Udaipur. [Sumber gambar: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Penggantungan dua peserta Pemberontakan 1857. Foto oleh Felice Beato (1833/1834 - kira-kira 1907). [Sumber gambar: Wikipedia. Domain publik]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Sumber gambar: Wikipedia, Lisensi GNU FD]
-**lekt2714:** Sapi di Udaipur. [Sumber gambar: Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Sumber gambar: Wikipedia. Domain publik]
-**lekt2716:** Sai Baba dari Shirdi (1835 - 1918). [Sumber gambar: Wikipedia. Domain publik]
-**lekt2717:** Tsunami 2005, Sri Lanka. [Sumber gambar: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) bersama cucunya Pangeran Jaya Chamaraja Wadiyar, Mysore. [Sumber gambar: Wikipedia. Domain publik]
-
 :::
 

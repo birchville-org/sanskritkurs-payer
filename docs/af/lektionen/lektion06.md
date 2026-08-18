@@ -9,15 +9,6 @@ status: stable
 
 # Les 6
 
-::: deleteme-box
-**In hierdie les leer jy:**
-- Die struktuur van die verbale sin (Agens en werkwoordvorm)
-- Die vorming van werkwoordvorme (Parasmaipada, Ātmanepada, Passief)
-- Die modusse en tye van die werkwoord
-- Indikatief presens (laṭ) en die primêre uitgange van die 3de persoon
-- Die vorming van die presensstam (Klasse 1, 4 en 6)
-- Die vokaalgradering (Ablaut: Guṇa en Vṛddhi)
-:::
 ## 6.1. Die verbale sin
 
 ::: grammar-box

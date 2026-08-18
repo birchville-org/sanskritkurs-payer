@@ -84,14 +84,14 @@ Para libertar os mundos, Buda ensina as Verdades Nobres.
 
 ⟪५⟫. **⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सहात्⟫tu⟪ं⟫ ⟪नार्हति⟫ ⟪॥५॥⟫**
 (⟪शूद्राणां⟫ ⟪जनः⟫)
-Śūdras dürfen mit einem Brahmanen zusammen nicht essen. <!-- TODO: Fallback translation -->
+Śūdras dürfen mit einem Brahmanen zusammen nicht essen.
 
 ⟪६⟫. **⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫**
 (⟪लोभेन⟫ ⟪सम्पन्ना⟫ ⟪नराः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्ताम्⟫)
 Cheios de cobiça, os homens foram para ver a bela serva dançar.
 
 ⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert. <!-- TODO: Fallback translation -->
+Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
 
 ⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
@@ -112,11 +112,11 @@ Comer, dormir, sentir medo e ter relações sexuais são compartilhados pelos se
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung035))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercícios Adicionais
 
-A) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+A) Übersetzen Sie ins Sanskrit:
 
 1. Os cinco (⟪पञ्च⟫) "sofrimentos" são: ignorância, a falsa crença no eu, apego, aversão e identificação com o corpo.
 **⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫**
@@ -178,7 +178,7 @@ C) Forneça as formas básicas (significado, classe de presente, modo, 3ª pesso
 | PPP | ⟪सोढ⟫ |
 | Absolutiv 1 | ⟪सोढ्वा⟫ / ⟪सहित्वा⟫ |
 | Absolutiv 2 | -⟪सह्य⟫ |
-| Infinitiv | ⟪सोढुम्⟫ / ⟪सहितुम्⟫ | <!-- TODO: Fallback translation -->
+| Infinitiv | ⟪सोढुम्⟫ / ⟪सहितुम्⟫ |
 
 ⟪२⟫. ⟪पा⟫ (trinken / hüten)
 
@@ -189,7 +189,7 @@ C) Forneça as formas básicas (significado, classe de presente, modo, 3ª pesso
 | PPP | ⟪पीत⟫ | ⟪पात⟫ |
 | Absolutiv 1 | ⟪पीत्वा⟫ | ⟪पात्वा⟫ |
 | Absolutiv 2 | -⟪पाय⟫ | -⟪पाय⟫ |
-| Infinitiv | ⟪पातुम्⟫ | ⟪पातुम्⟫ | <!-- TODO: Fallback translation -->
+| Infinitiv | ⟪पातुम्⟫ | ⟪पातुम्⟫ |
 
 ⟪३⟫. ⟪वच्⟫ (2P, sprechen)
 
@@ -200,7 +200,7 @@ C) Forneça as formas básicas (significado, classe de presente, modo, 3ª pesso
 | PPP | ⟪उक्त⟫ |
 | Absolutiv 1 | ⟪उक्त्वा⟫ |
 | Absolutiv 2 | -⟪उच्य⟫ |
-| Infinitiv | ⟪वक्तुम्⟫ | <!-- TODO: Fallback translation -->
+| Infinitiv | ⟪वक्तुम्⟫ |
 
 ⟪४⟫. ⟪हन्⟫ (2P, erschlagen)
 

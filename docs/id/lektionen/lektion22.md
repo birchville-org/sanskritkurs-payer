@@ -242,14 +242,3 @@ Gambar: ⟪अन्नं पक्त्वा⟫
 (Sumber gambar: [Details](/id/licenses#lekt2204))
 :::
 
-::: deleteme-box
-
-**lekt2201:** Goa = ⟪गोंय⟫ [Sumber gambar: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Diakses pada 2008-12-12. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
-
-**lekt2202:** Abad ke-19 [Sumber gambar: Wikipedia, Domain publik]
-
-**lekt2203:** Kolkatta = কলকাতা [Sumber gambar: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Diakses pada 2008-12-12. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
-
-**lekt2204:** [Sumber gambar: Curt Carnemark / Bank Dunia. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Diakses pada 2008-12-12. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
-:::
-

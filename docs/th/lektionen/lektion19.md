@@ -5,7 +5,7 @@ lesson_id: 19
 
 # บทที่ 19
 
-## 19.1. วลีสัมพันธะ (Relativsatz) <!-- TODO: Fallback translation -->
+## 19.1. วลีสัมพันธะ (Relativsatz)
 
 ::: grammar-box
 
@@ -67,7 +67,7 @@ lesson_id: 19
 | **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
 **เมื่อเป็นองค์หน้าของคำประสม รากศัพท์จะปรากฏเป็น ⟪यद्⟫ (โดยคำนึงถึงกฎแซนธิ)**
 
@@ -220,15 +220,3 @@ lesson_id: 19
 :::
 คำอธิบาย: ⟪⟪पुमान्⟫ Nom. sg. ถึง ⟪⟪पुंस्⟫ "ชาย" ; ⟪⟪लोके⟫ Lokativ sg. ถึง ⟪⟪लोक⟫ m.: ใน...
 
-::: deleteme-box
-
-**lekt1809:** ภาพประกอบถึง ⟪⟪कामसूत्र⟫ [แหล่งที่มาของภาพ: Wikipedia, สาธารณสมบัติ]
-
-**lekt1901:** Badami (ಬದಾಮಿ) [แหล่งที่มาของภาพ: Sudarshan Bhat Khandige / Wikipedia, สาธารณสมบัติ] <!-- TODO: Fallback translation -->
-
-**lekt1902:** Goa (⟪⟪गोंय⟫) [แหล่งที่มาของภาพ: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- เข้าถึงเมื่อ 2008-12-08. -- Creative Commons License (Attribution, ไม่ใช้เพื่อการค้า, ไม่มีงานดัดแปลง)] <!-- TODO: Fallback translation -->
-
-**lekt1903:** ⟪⟪१९५९⟫ [แหล่งที่มาของภาพ: Wikipedia, สาธารณสมบัติ]
-
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), ในเครื่องแต่งกายแบบดั้งเดิมเป็นธรรมเนียมในภาคใต้ของเคอราลา _Onappottan_ เยี่ยมชมบ้านในช่วง _onam_ และให้พร ในเวลาต่อมา _onappottan_ กลายเป็นภาพที่หายาก จำกัดอยู่ในหมู่บ้าน" [แหล่งที่มาของภาพ: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- เข้าถึงเมื่อ 2008-12-08. -- Creative Commons License (Attribution)]
-:::

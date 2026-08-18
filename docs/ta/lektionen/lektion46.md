@@ -663,24 +663,3 @@ B) மொழிபெயர்க்கவும்:
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt4612))
 :::
 
-::: deleteme-box
-
-நவகிரகப் படங்களின் மூலம்: Redtigerxyz / Wikipedia. GNU FDLicense
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, சு. 1870). மூலம்: Wikipedia. பொதுத் துறை
-
-L4606: ⟪अश्वरोहकः⟫, புனே=⟪पुणे⟫. மூலம்: wili_hybrid, Flickr, CC BY 2.0
-
-L4608: உதய்ப்பூர். மூலம்: Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609: கர்நாடக=ಕರ್ನಾಟಕ. மூலம்: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, காமாரெட்டி=కామారెడ్డి. மூலம்: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, பெங்களூர்=ಬೆಂಗಳೂರು. மூலம்: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, கச்சு=⟪कच्छ⟫. மூலம்: orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612: மும்பை=⟪मुंबई⟫ தாக்குதலுக்குப் பிறகு, 11 ஜூலை 2006. மூலம்: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
-:::
-

@@ -79,14 +79,14 @@ status: stable
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. Το Απαρέμφατο (⟪तुमुन्⟫) για τις μέχρι τώρα διδαχθείσες ρίζες
 
@@ -258,7 +258,7 @@ Kάνω καλές πράξεις = ⟪पुण्यकरणम्⟫, Ταϊ
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
 
-Εξήγηση: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..." <!-- TODO: Fallback translation -->
+Εξήγηση: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..."
 
 ::: media
 ![](/images/lekt2302.webp)
@@ -316,13 +316,3 @@ Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪�
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt2301:** Τσιάνγκ Μάι, Ταϊλάνδη = เชียงใหม่, ประเทศไทย [Πηγή εικόνας: Wikipedia. Άδεια GNU FDLicense]
-
-**lekt2302:** Τσιτόργκαρ = ⟪चित्तौडगढ⟫ [Πηγή εικόνας: από zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Πρόσβαση στις 13-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαλλαγές)]
-
-**lekt2303:** Ταμπουν = ⟪पुण्यकरणम्⟫, Ταϊλάνδη = ประเทศไทย [Πηγή εικόνας: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Πρόσβαση στις 13-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, χωρίς εξαλλαγές)]
-
-**lekt2304:** Μανμοχάν Σινγκ = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Πρωθυπουργός της Ινδίας = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, από το 2004 [Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο]
-:::

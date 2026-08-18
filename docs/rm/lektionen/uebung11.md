@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 
 # Exercizi 11
 
-A) Traduschar ils suandantas frasis <!-- TODO: Fallback translation -->
+A) Traduschar ils suandantas frasis
 
 ⟪१⟫. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ ⟪।⟫
 Il savis vedic di la veritad.
@@ -21,10 +21,10 @@ In brahman vul avair in figl.
 In sant vegn en il tschiel.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. <!-- TODO: Fallback translation -->
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 Uschia offra il brahman al deus in sacrifici.
@@ -144,7 +144,7 @@ A) Tradusì in sanscrit cun construcziuns passivas:
 
 ⟪गुरुणा⟫ ⟪मन्त्र⟫ ⟪उद्यते⟫ ⟪।⟫
 
-3\. Femnas sgrasavan en in tschiel. <!-- TODO: Fallback translation -->
+3\. Femnas sgrasavan en in tschiel.
 
 ⟪साध्वीभिः⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽश्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫
 

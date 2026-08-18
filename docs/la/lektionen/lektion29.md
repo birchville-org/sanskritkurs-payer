@@ -59,7 +59,7 @@ Kaus. ⟪ग्रासयति⟫
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
 :::
-⟪तीक्ष्ण⟫ 3: "ferox", acris, acutus, severus, vehemens, mordax <!-- TODO: Fallback translation -->
+⟪तीक्ष्ण⟫ 3: "ferox", acris, acutus, severus, vehemens, mordax
 
 ⟪न्याय⟫ m.: norma, regula, recta via et ratio; methodus, logica (a ⟪इ⟫ + ⟪नि⟫)
 
@@ -73,7 +73,7 @@ Pushkar = ⟪पुष्कर⟫
 :::
 ⟪पालयति⟫ : etiam synonymum cum  ⟪पाति⟫
 
-⟪पुनर्⟫ Indekl.: iterum, saepe, retro, rursus; contra, autem (ante sonos sonoros praeter r-: ⟪पुनर्⟫) <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ Indekl.: iterum, saepe, retro, rursus; contra, autem (ante sonos sonoros praeter r-: ⟪पुनर्⟫)
 
 ⟪प्रजा⟫ f.: generatio, natus, progenies
 
@@ -158,11 +158,11 @@ Explanationes:
 
 ⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "adligare, coniungere, unire cum"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva)
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "quanto magis"
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. ad ⟪बलीयस्⟫ ⟪३⟩ "fortior" <!-- TODO: Fallback translation -->
+⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. ad ⟪बलीयस्⟫ ⟪३⟩ "fortior"
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "quattuor" ut pars compositi anterior
 
@@ -170,7 +170,7 @@ Explanationes:
 
 ⟪स्वेषु⟫ : Lok. plur. mask. / neutr. zu ⟪स्व⟫ ⟪३⟫ "proprius (meus, tuus, suus etc.)"
 
-⟪वर्त्मसु⟫ : Lok. plur. neut. ad ⟪वर्त्मन्⟫ n. "iter, via, semita" <!-- TODO: Fallback translation -->
+⟪वर्त्मसु⟫ : Lok. plur. neut. ad ⟪वर्त्मन्⟫ n. "iter, via, semita"
 
 ## 29.4. Futur et causativa radicum hactenus didactarum
 
@@ -263,11 +263,5 @@ Explanationes:
 | ⟪हन्⟫ ⟪२⟫ ⟪प⟫ | ⟪हनिष्यति⟫ | ⟪घातयति⟫ |
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
-:::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [Imago auctoris: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accessus die 2008-12-20. -- Licentia Creative Commons (Attributio, usus non-commercialis, share alike)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Imago auctoris: Khalid Mahmood / Wikipedia. Licentia GNU FD]
-**lekt2902:** (Delineatio: Namcha Payer, 2002-11)
 :::
 

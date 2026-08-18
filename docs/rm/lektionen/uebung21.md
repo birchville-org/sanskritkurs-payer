@@ -42,7 +42,7 @@ Ils giuvens che mangian gronds fructs, bivan er aua.
 Durant la veneraziun offra e lauda l'um la deïtat.
 
 ⟪५⟫. ⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥⟫
-In naschì duas giadas è in um, che è stà initià dal maister en il Veda. <!-- TODO: Fallback translation -->
+In naschì duas giadas è in um, che è stà initià dal maister en il Veda.
 
 ⟪६⟫. ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥⟫
 Quel che ha vinçù l'ira, n'envidia nagin inimis, er sche quest el uccida. Quel che è vinçì da l'ira, envidia.
@@ -52,4 +52,3 @@ Quel che ha vinçù l'ira, n'envidia nagin inimis, er sche quest el uccida. Quel
 Abb.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
 (Sursa da l'imagia: [Detagls](/licenses#uebung033))
 :::
- <!-- TODO: Fallback translation -->

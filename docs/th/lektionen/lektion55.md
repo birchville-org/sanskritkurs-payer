@@ -94,8 +94,3 @@ status: stable
 (แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** 'อินายัต ข่าน ขณะใกล้ตาย, แบบร่างสำหรับจิตรกรรมขนาดเล็กของคัมภีร์สำหรับชะฮันกีร = جهانگير, ประมาณ ค.ศ. 1618 [แหล่งที่มาของภาพ: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- เข้าถึงเมื่อ 2009-01-28.สาธารณสมบัติ]
-
-:::

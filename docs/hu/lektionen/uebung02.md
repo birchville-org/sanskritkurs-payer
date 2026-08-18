@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 2
 
-A) Helyettesítse az alábbi mondatokba a megadott neveket és főneveket a szandhi figyelembevételével, és alkossák az igétlen (névszói) mondatokat: <!-- TODO: Fallback translation -->
+A) Helyettesítse az alábbi mondatokba a megadott neveket és főneveket a szandhi figyelembevételével, és alkossák az igétlen (névszói) mondatokat:
 
 1\. devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra) = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 

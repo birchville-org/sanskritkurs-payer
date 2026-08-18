@@ -5,7 +5,7 @@ lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # الدرس 14
 
@@ -71,7 +71,7 @@ status: stable
 
 يُشكّل المضاف إليه للجمع من الجذور التي تنتهي بحرف متحرك على النحو التالي:
 
-> **-langer auslautender Vokal des Stammes + -nām** <!-- TODO: Fallback translation -->
+> **-langer auslautender Vokal des Stammes + -nām**
 
 :::
 ::: center
@@ -106,7 +106,7 @@ status: stable
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 **ضمائر الاستفهام وضمائر الإشارة:**
@@ -118,7 +118,7 @@ status: stable
 | **مذكر / محايد** | **المجرور المفرد** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
 | | **المجرور الجمع** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
 | **مؤنث** | **المجرور المفرد** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **المجرور الجمع** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ | <!-- TODO: Fallback translation -->
+| | **المجرور الجمع** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
 **تشابه الأشكال:**
@@ -168,7 +168,7 @@ status: stable
   * **vac-ana n.** (⟪वचन⟫) : الكلام، الكلمة
   * **vāk-ya n.** (⟪वाक्य⟫) : كلمة، خطاب
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = أمثال <!-- TODO: Fallback translation -->
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = أمثال
 
 ترجم الأمثال التالية واحفظها عن ظهر قلب:
 

@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lezione 59
 
@@ -784,10 +784,3 @@ _Aiuto alla traduzione:_ Verso 6: ⟪दिदृक्षते⟫ \= Desiderat
 :::
 Testo tratto da: Otto Böhtlingk: Sanskrit-Chrestomathie pag. 127s.
 
-::: deleteme-box
-
-**lekt5902:** [Fonte dell'immagine: Henryart/Wikipedia. Dominio pubblico]
-
-**lekt5903:** Danza Kecak, Bali (Indonesia) [Fonte dell'immagine: Flying Pharmacist / Wikipedia. [Licenza Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (Attribuzione, share alike)]
-
-:::

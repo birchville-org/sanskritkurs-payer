@@ -94,8 +94,3 @@ status: stable
 (منبع تصویر: [جزئیات](/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** «اینایات خان در بستر مرگ»، طرحی برای نگارگری از نسخه‌ای ویژه جهانگیر، حدود ۱۶۱۸ [منبع تصویر: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- دسترسی در ۲۰۰۹-۰۱-۲۸. عمومی]
-
-:::

@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 27
 
@@ -32,7 +32,7 @@ status: stable
 Fig.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2701))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -63,7 +63,7 @@ Jaipur, 1875.
 Fig.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rajasthan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2702))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -78,7 +78,7 @@ Rajasthan.
 Fig.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2703))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -255,7 +255,7 @@ Echivalentul pentru **⟪हर⟫**:
 Fig.: ⟪हरिहरः⟫
 Harihara (stânga: Viṣṇu, dreapta: Śiva).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2704))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -321,7 +321,7 @@ Fig.: ⟪नराः⟫
 Naran. Udaipur.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2711))
 :::
-### 27.7.2. Neutre în -a: ⟪फल⟫ <!-- TODO: Fallback translation -->
+### 27.7.2. Neutre în -a: ⟪फल⟫
 
 ::: grammar-box
 
@@ -483,7 +483,7 @@ Fig.: ⟪सद्गुरुः⟫
 Sai Baba din Shirdi (1835 - 1918).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫ <!-- TODO: Fallback translation -->
+### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
 
@@ -591,29 +591,7 @@ Sai Baba din Shirdi (1835 - 1918).
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2717))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt2701:** Jaipur, 1875. [Sursa imaginii: Wikipedia. Domeniu public]
-**lekt2702:** Rajasthan. [Sursa imaginii: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** Holi. [Sursa imaginii: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Harihara (stânga: Viṣṇu, dreapta: Śiva). [Sursa imaginii: Wikipedia. Domeniu public]
-**lekt2705:** Harihara (stânga: Viṣṇu, dreapta: Śiva). Godrumdwip, Bengalul de Vest. [Sursa imaginii: GourangaUK / Wikipedia. Licență GNU FD]
-**lekt2706:** Vastrāṇi. Majuli, Assam. [Sursa imaginii: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Sursa imaginii: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Arcul lui Rāma. [Sursa imaginii: Wikipedia. Domeniu public]
-**lekt2709:** Pictură de Rāja Ravi Varma (1848 - 1906). [Sursa imaginii: Wikipedia. Domeniu public]
-**lekt2710:** Fructe. Bangalore. [Sursa imaginii: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Naran. Udaipur. [Sursa imaginii: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Spânzurarea a doi participanți la rebeliunea din 1857. Fotografie de Felice Beato (1833/1834 - c. 1907). [Sursa imaginii: Wikipedia. Domeniu public]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Sursa imaginii: Wikipedia, Licență GNU FD]
-**lekt2714:** Vacă în Udaipur. [Sursa imaginii: Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Sursa imaginii: Wikipedia. Domeniu public]
-**lekt2716:** Sai Baba din Shirdi (1835 - 1918). [Sursa imaginii: Wikipedia. Domeniu public]
-**lekt2717:** Tsunami 2005, Sri Lanka. [Sursa imaginii: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) cu nepotul ei Prințul Jaya Chamaraja Wadiyar, Mysore. [Sursa imaginii: Wikipedia. Domeniu public]
 
 :::
 

@@ -6,7 +6,7 @@
 
 Ha a kapcsolandó mássalhangzók elsőike nem függőleges vonallal végződik, akkor a következő mássalhangzót vízszintes vonala elvesztésével az első mássalhangzó alá helyezzük.
 
-Kivételek: Ha ⟪म्⟫ vagy ⟪य्⟫ a ligatúra második tagja, akkor azokat rövidítve írjuk az első jel mögé: <!-- TODO: Fallback translation -->
+Kivételek: Ha ⟪म्⟫ vagy ⟪य्⟫ a ligatúra második tagja, akkor azokat rövidítve írjuk az első jel mögé:
 
 > ⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
 

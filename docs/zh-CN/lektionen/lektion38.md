@@ -587,20 +587,3 @@ PPP ⟪मग्न⟫
 
 ⟪युष्माकम्⟫ Gen.pl. 对应于 :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Abb.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ 班加罗尔 = ಬೆಂಗಳೂರು \[图片来源：mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/)。-- 访问日期：2008-12-31。-- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)知识共享许可协议（署名，非商业性使用）\]
-- **lekt3802.jpg**: Abb.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫，孔纳拉克 = ⟪कोनार्क⟫ \[图片来源：PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/)。-- 访问日期：2008-12-31。 -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)知识共享许可协议（署名，非商业性使用）\]
-- **lekt3803.jpg**: Abb.: ⟪सीमा⟫ 印度与巴基斯坦之间的瓦加（⟪वाघा⟫ / واہگہ / ਵਾਘਾ）过境点 \[图片来源：Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/)。-- 访问日期：2008-12-31。-- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)知识共享许可协议（署名，非商业性使用，相同方式共享）\]
-- **lekt3804.jpg**: Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ 犍陀罗，公元2/3世纪 \[图片来源：维基百科。公有领域\]
-- **lekt3805.jpg**: Abb.: ⟪उदकम्⟫ 达雷瓦迪村，艾哈迈德纳加尔区 = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[图片来源：Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/)。-- 访问日期：2009-01-01。-- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)知识共享许可协议（署名，非商业性使用，相同方式共享）\]
-- **lekt3806.jpg**: Abb.: ⟪हस्ती⟫ 纳加尔霍尔国家公园 = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[图片来源：gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/)。-- 访问日期：2009-01-01。--  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)知识共享许可协议（署名，非商业性使用，相同方式共享）\]
-- **lekt3807.jpg**: Abb.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[图片来源：brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/)。-- 访问日期：2009-01-01。-- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)知识共享许可协议（署名，非商业性使用，禁止演绎）\]
-- **lekt3808.jpg**: Abb.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫ 20世纪30年代 \[图片来源：维基百科。公有领域\]
-- **lekt3809.jpg**: Abb.: ⟪ब्रह्मा⟫ 哈勒比杜 = ಹಳೆಬೀಡು \[图片来源：维基百科。GNU FDLicense\]
-- **lekt3810.jpg**: Abb.: 阿育王树 = _Saraca asoca_ (Roxb.) Wilde 加尔各答 = কলকাতা \[图片来源：J.M.Garg / 维基百科。GNU FDLicense\]
-- **lekt3811.jpg**: Abb.: 阿育王帝国的最大疆域及其岩敕和柱敕的出土地点 \[图片来源：维基百科。GNU FDLicense\]
-- **lekt3812.jpg**: Abb.: ⟪विनोदः⟫ 卡罗姆棋游戏 \[图片来源：nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/)。-- 访问日期：2009-01-01。-- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)知识共享许可协议（署名，非商业性使用，相同方式共享）\]
-- **lekt3813.jpg**: Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[图片来源：nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/)。-- 访问日期：2009-01-01。-- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)知识共享许可协议（署名，非商业性使用）\]
-- **lekt3814.jpg**: Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[图片来源：neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/)。-- 访问日期：2009-01-01。-- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)知识共享许可协议（署名，非商业性使用，禁止演绎）\]
-:::

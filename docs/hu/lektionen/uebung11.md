@@ -3,6 +3,7 @@ title: "[Gyakorlat 11]"
 uebung_id: 11
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -10,7 +11,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 11
 
-A) Fordítsa le az alábbi mondatokat <!-- TODO: Fallback translation -->
+A) Fordítsa le az alábbi mondatokat
 
 ⟪१⟫. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ ⟪।⟫
 A védikus bölcus kimondja az igazságot.
@@ -22,33 +23,33 @@ Egy bráhmanista fiút kíván.
 Egy szent megérkezik az égbe.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. <!-- TODO: Fallback translation -->
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 Így áldozatot mutat be a bráhmanista az istennek.
 
 ⟪७⟫. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ ⟪।⟫
-A vaiśya asszony úgy véli, hogy a fia rosszat cselekszik. <!-- TODO: Fallback translation -->
+A vaiśya asszony úgy véli, hogy a fia rosszat cselekszik.
 
 ⟪८⟫. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪।⟫
 A kṣatriya harcol a kṣatriyával.
 
 ⟪९⟫. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
-Mivel az álhazás igazságtalanság, a fiú nem követ el rosszat. <!-- TODO: Fallback translation -->
+Mivel az álhazás igazságtalanság, a fiú nem követ el rosszat.
 
 ⟪१०⟫. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
 Ez a kṣatriya védi a dharmát.
 
 ⟪११⟫. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ ⟪।⟫
-Ki tiszteli a tüzet (Agni isten) áldozattal? <!-- TODO: Fallback translation -->
+Ki tiszteli a tüzet (Agni isten) áldozattal?
 
 ⟪१२⟫. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪॥⟫
 Ez a tanítvány megkérdezi Buddhát a tanításáról.
 
-B) Alakítsa át az A) rész mondatait passzív szerkezetbe <!-- TODO: Fallback translation -->
+B) Alakítsa át az A) rész mondatait passzív szerkezetbe
 
 ⟪१⟫. ⟪ऋषिणा⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
 
@@ -136,7 +137,7 @@ Abb.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 
 ## További gyakorlatok
 
-A) Fordítsa szanszkritra passzív szerkezetekkel: <!-- TODO: Fallback translation -->
+A) Fordítsa szanszkritra passzív szerkezetekkel:
 
 1. A vaiśya nők a bráhmanákat kérdezik a dharma után.
 
@@ -150,7 +151,7 @@ A) Fordítsa szanszkritra passzív szerkezetekkel: <!-- TODO: Fallback translati
 
 ⟪साध्वीभिः⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽश्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫
 
-4. Egy védikus bölcs nem tesz semmi rosszat. <!-- TODO: Fallback translation -->
+4. Egy védikus bölcs nem tesz semmi rosszat.
 
 ⟪ऋषिणा⟫ ⟪पापं⟫ ⟪न⟫ ⟪क्रियते⟫ ⟪।⟫
 
@@ -179,13 +180,13 @@ B)
 C) Fordítsa:
 
 ⟪१⟫. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ ⟪।⟫
-A fül hall. A füllel hallgatunk. <!-- TODO: Fallback translation -->
+A fül hall. A füllel hallgatunk.
 
 ⟪२⟫. ⟪कर्षकैः⟫ ⟪कृष्यते⟫ ⟪।⟫
 A földművesek szántanak.
 
 ⟪३⟫. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ ⟪।⟫
-Egy buddhista követő nem áldoz URAKNAK. <!-- TODO: Fallback translation -->
+Egy buddhista követő nem áldoz URAKNAK.
 
 ⟪४⟫. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ ⟪।⟫
 A amulett védi a mestert.
@@ -202,7 +203,7 @@ A védához kapcsolódó segédtudományok: a kiejtéstannal, a rituálék tudom
 ⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪॥⟫
 A tudományok: a filozófia, a védológia, az ökonómia és a politikatudomány.
 
-D) Fordítsa le, majd szanszkritban fejezze ki az agenset (cselekvőt), az objektumot és a ige többes számban: <!-- TODO: Fallback translation -->
+D) Fordítsa le, majd szanszkritban fejezze ki az agenset (cselekvőt), az objektumot és a ige többes számban:
 
 ⟪१⟫. ⟪फलमश्नुते⟫ ⟪।⟫
 Ő gyümölcsöt kap.

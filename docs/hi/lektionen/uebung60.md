@@ -1,8 +1,9 @@
 ---
-title: "अभ्यास 60"
+title: "अभ्यास ६०"
 uebung_id: 60
-category: "अभ्यास"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

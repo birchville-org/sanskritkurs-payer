@@ -89,4 +89,3 @@ C) Transfurmà ils frars da l'exercizi B), indem Vus Perfecta sustitueschis cun 
 Fig.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
 (Sursa da l'imagia: [Detagls](/licenses#uebung058))
 :::
- <!-- TODO: Fallback translation -->

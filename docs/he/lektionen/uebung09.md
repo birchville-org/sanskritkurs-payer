@@ -30,7 +30,7 @@ last_reconstructed: 2026-05-15
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 (זה) מגזרת האריג / ממכונת האריג = ארוג חדש
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : רקדן <!-- TODO: Fallback translation -->
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : רקדן
 
 12\. naraka ⟪नरक⟫ : m. גיהנום
 

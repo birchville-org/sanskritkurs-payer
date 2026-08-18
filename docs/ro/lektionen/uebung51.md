@@ -66,7 +66,7 @@ last_reconstructed: 2026-05-15
 
 ## ⟪३⟫. ⟪बाण⟫ (⟪७⟫. Jhdt. n. Chr.): ⟪कादम्बरी⟫
 
-Gândirile papagalului **⟪वैशम्पायन⟫** despre viața de vânător: <!-- TODO: Fallback translation -->
+Gândirile papagalului **⟪वैशम्पायन⟫** despre viața de vânător:
 
 **⟪आसीच्च⟫ ⟪मे⟫ ⟪मनसि⟫ -- ⟪अहो⟫ ⟪मोहप्रायमेतेषां⟫ ⟪जीवितं⟫ ⟪साधुजनगर्हितं⟫ ⟪च⟫ ⟪चरितम्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ ⟪।⟫ ⟪पुरुषपिशितोपहारे⟫ ⟪धर्मबुद्धिः⟫ , ⟪अहारः⟫ ⟪साधुजनगर्हितो⟫ ⟪मधुमांसादिः⟫ , ⟪श्रमो⟫ ⟪मृगया⟫ , ⟪शास्त्रं⟫ ⟪शिवारुतम्⟫ , ⟪समुपदेष्टारः⟫ ⟪सद्सतां⟫ ⟪कौशिकाः⟫ , ⟪प्रज्ञा⟫ ⟪शकुनिज्ञानम्⟫ , ⟪परिचिताः⟫ ⟪श्वानः⟫ , ⟪राज्यं⟫ ⟪शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि⟫ ⟪क्रुरकर्मसाधनानि⟫ ⟪धनूंषि⟫ , ⟪सहाया⟫ ⟪विषदिग्धमुखा⟫ ⟪भुजंगा⟫ ⟪इव⟫ ⟪सायकाः⟫ , ⟪गीतमुत्सादकारि⟫ ⟪मुग्धमृगाणाम्⟫ , ⟪कलत्राणि⟫ ⟪बन्दीगृहीताः⟫ ⟪परयोषितः⟫ , ⟪क्रूरात्मभिः⟫ ⟪शार्दूलैः⟫ ⟪सह⟫ ⟪संवासः⟫ , ⟪पशुरुधिरेण⟫ ⟪देवतार्चनम्⟫ , ⟪मांसेन⟫ ⟪बलिकर्म⟫ , ⟪चौर्येण⟫ ⟪जीवनम्⟫ , ⟪भूषणानि⟫ ⟪भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव⟫ ⟪कानने⟫ ⟪निवसन्ति⟫ ⟪तदेवोत्ख्यातममूलमशेषतः⟫ ⟪कुर्वत⟫ ⟪इति⟫ ⟪चिन्तयत्येव⟫ ⟪मयि⟫ ⟪शबरसेनापतिः⟫ ⟪समुपाविशत्⟫ ⟪॥⟫**
 
@@ -77,7 +77,7 @@ Gândirile papagalului **⟪वैशम्पायन⟫** despre viața de v�
 Fig.: Vânător
 (Sursa imaginii: [Detalii](/licenses#uebung086))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## ⟪४⟫. Comentariul lui ⟪भानुचन्द्र⟫ (⟪१६⟫. sec. al...)
 
@@ -87,11 +87,11 @@ Comentariu la secțiunea anterioară a **⟪कादम्बरी⟫**:
 
 > [!NOTE] Sanscrit școlar
 > Ca introducere inițială în sanscrita comentariilor se recomandă:
-> **Tubb, Gary A. & Boose, Emery R.: Scholastic Sanskrit: A Handbook for Students.** New York: American Institute of Buddhist Studies, 2007. <!-- TODO: Fallback translation -->
+> **Tubb, Gary A. & Boose, Emery R.: Scholastic Sanskrit: A Handbook for Students.** New York: American Institute of Buddhist Studies, 2007.
 
 ::: media
 ![](/images/uebung089.jpg)
 Fig.: Sanscrit școlar
 (Sursa imaginii: [Detalii](/licenses#uebung089))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

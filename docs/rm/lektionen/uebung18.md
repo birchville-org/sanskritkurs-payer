@@ -89,7 +89,7 @@ B) Tradusci suandants Tatpuruṣa:
 Fig.: ⟪नास्ति⟩ ⟪कामसमो⟩ ⟪व्याधिः⟩
 (Sursa da l'imagina: [Detagls](/licenses#uebung027))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercizis supplements
 
@@ -111,7 +111,7 @@ A) Resolv suandants composts en Sanscrit e donai suggeriments da traducziun:
 
 ⟪८⟩. ⟪मृतिसाधनी⟩ f. ⟪।⟩ ⟪मृतेः⟩ ⟪साधनी⟩ ⟪।⟩ — che procuras la mort
 
-⟪९⟩. ⟪कुलोपदेश⟩ m. ⟪।⟩ ⟪कुलस्योपदेशः⟩ ⟪।⟩ — num da famiglia (inditgescha la famiglia) <!-- TODO: Fallback translation -->
+⟪९⟩. ⟪कुलोपदेश⟩ m. ⟪।⟩ ⟪कुलस्योपदेशः⟩ ⟪।⟩ — num da famiglia (inditgescha la famiglia)
 
 B) Tradusci sut utilizaziun da verbs da la 2. classa da prezens:
 
@@ -125,7 +125,7 @@ B) Tradusci sut utilizaziun da verbs da la 2. classa da prezens:
 ⟪गृहदासी⟩ ⟪धेनूर्दोग्धि⟩ ⟪।⟩
 
 4\. Ils inimis dals Arier sconfigeschan ils Kṣatriyas pussants.
-⟪आर्यारयो⟩ ⟪बलवत्क्षत्रियान्घन्ति⟩ ⟪।⟩ (u: ⟪आर्यशत्रवो⟩...) <!-- TODO: Fallback translation -->
+⟪आर्यारयो⟩ ⟪बलवत्क्षत्रियान्घन्ति⟩ ⟪।⟩ (u: ⟪आर्यशत्रवो⟩...)
 
 5. In gieuist mangia nagins.
 ⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫
@@ -147,4 +147,3 @@ Il dover da tut è: nonviolenza, veridicitad, purezza, betg lamentar davart il d
 Abb.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Font dal maletg: [Detagls](/licenses#uebung028))
 :::
- <!-- TODO: Fallback translation -->

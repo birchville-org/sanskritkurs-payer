@@ -308,12 +308,3 @@ status: stable
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** أستاذ اللغويات المقارنة، جامعة إرلنغن-نورنبرغ (1955 - 1983) [مصدر الصورة: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- تم الوصول في 2009-02-27]
-
-**lekt5602:** ملصق (إرنستو تشي غيفارا) لحزب سياسي في فاللاشيرا (വാല്ലചിര)، تريسور (തൃശ്ശൂര്‍). "الترجمة الحرفية لما هو مكتوب عليه ستكون: الاستشهاد تجربة جذابة للمثقف الثوري. وملاذ مرعب للجبان. تشي ليس قدوة للجبناء." [مصدر الصورة: هاري_مينون. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- تم الوصول إليه في 2009-02-27. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب العمل، عدم الاستخدام التجاري، مشاركة بالتساوي)]
-
-**lekt5603:** [مصدر الصورة: البنك الدولي / كورت كارنيمارك. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- تم الوصول إليه في 2009-02-27. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-
-:::

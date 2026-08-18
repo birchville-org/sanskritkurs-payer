@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # الدرس التاسع
 
-::: deleteme-box
-**في هذه الدرس تتعلمون:**
-- ساماهارادفاندا ("دفاندا التلخيص")
-- تشكيل جذور الأسماء باستخدام الملحقين **-كا** (تادّهيتا) و **-اكا** (كريت)
-- مفردات حول الموضوعات المتعلقة بالمهن والأدوار الاجتماعية
-- اقتباسات من نصوص القوانين الكلاسيكية (دارماساسترا)
-:::
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "مركب دڤاندڤا التلخيصي")
 
@@ -63,7 +56,7 @@ last_reconstructed: 2026-05-07
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" | <!-- TODO: Fallback translation -->
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
 ::: grammar-box
 **بعض هذه التراكيب لها المعنى الأضيق: "من يؤدي عادةً أو كواجب أو بشكل جيد ما تعبر عنه الجذر".**
@@ -76,7 +69,7 @@ last_reconstructed: 2026-05-07
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" | <!-- TODO: Fallback translation -->
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" |
 
 إلى جانب ذلك، توجد بعض الاستخدامات الأقل أهمية للاحقة **-aka**. انظر: فاكيرناغل، "القواعد السنسكريتية القديمة"، المجلد الثاني، §45 وما بعده.
 
@@ -84,7 +77,7 @@ last_reconstructed: 2026-05-07
 
 **تعلم الكلمات التالية:**
 
-- **adhyayana** n. (⟪अध्ययन⟫) : Lernen, insbes. Vedastudium <!-- TODO: Fallback translation -->
+- **adhyayana** n. (⟪अध्ययन⟫) : Lernen, insbes. Vedastudium
 
 ::: media
 ![](/images/lekt0903.webp)
@@ -159,7 +152,7 @@ last_reconstructed: 2026-05-07
 3. المهام الخاصة لـ Kṣatriya:
    **rakṣaṇaṃ sarvabhūtānām**
    ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-   (sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7) <!-- TODO: Fallback translation -->
+   (sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7)
 
 4. المهام الخاصة لـ Vaiśya:
    **kṛṣivāṇijyapāśupālyakusīdam**

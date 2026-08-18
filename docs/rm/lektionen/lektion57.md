@@ -94,7 +94,7 @@ Exemples:
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Radisn mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
+Auch der Aorist andere Radisn mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -153,7 +153,7 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 :::
 ## 57.2. Exercizi
 
-A) Tradurretz e determinai senza agidza las suventas formas e crea las correspundentas formas da l’aorist. A l’exceptiun da causativs e radichs che creeschan l’aorist cun s è indicà en parentesa la classa dal aorist correspundent: <!-- TODO: Fallback translation -->
+A) Tradurretz e determinai senza agidza las suventas formas e crea las correspundentas formas da l’aorist. A l’exceptiun da causativs e radichs che creeschan l’aorist cun s è indicà en parentesa la classa dal aorist correspundent:
 
 1.  ⟪पेचिथ⟫
 2.  ⟪अवक्⟫ (⟪३⟫)
@@ -240,8 +240,3 @@ B) Tradurretz e determinai las suventas formas:
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-::: deleteme-box
-
-**lekt5701:** [Quella da l’imagines: Wikipedia. Public Domain]
-
-:::

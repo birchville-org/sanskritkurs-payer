@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: Lektion 49
 subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
@@ -371,27 +371,5 @@ Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den 
 Abb.: ⟪शुकः⟫
 Pflaumenkopfsittich = Psittacula cyanocephala
 (Bildquelle: [Details](/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Bildquelle: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Zugriff am 2009-01-10. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)]
-
-**lekt4901:** [Bildquelle: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt. [Bildquelle: Vassil / Wikipedia. Public domain]
-
-**lekt4903:** [Bildquelle: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Bildquelle: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)]
-
-**lekt4909:** Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore [Bildquelle: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Zugriff am 2009-01-12. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)]
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Bildquelle: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)]
-
-**lekt4906:** Sri Lanka [Bildquelle: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Zugriff am 2009-01-11. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4908:** Pflaumenkopfsittich _= Psittacula cyanocephala_[Bildquelle: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)]
-
 :::
 

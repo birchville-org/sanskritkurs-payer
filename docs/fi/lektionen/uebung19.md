@@ -19,7 +19,7 @@ A) Käännä sanskritiksi:
 ⟪या⟫ ⟪देवता⟫ ⟪रामं⟫ ⟪रक्षति⟫ ⟪तां⟫ ⟪यजते⟫ ⟪।⟫
 
 3. Runoilija ylistää Kṣatriya-heimon jäsentä, jonka rikkautta hän kaipailee.
-⟪यस्य⟫ ⟪क्षत्रियस्य⟫ ⟪धनं⟫ ⟪लुभ्यति⟫ ⟪तं⟫ ⟪कविः⟫ ⟪स्तौति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪यस्य⟫ ⟪क्षत्रियस्य⟫ ⟪धनं⟫ ⟪लुभ्यति⟫ ⟪तं⟫ ⟪कविः⟫ ⟪स्तौति⟫ ⟪।⟫
 
 4. Tuli polttaa miehen talon, joka ei kunnioita Agnia uhrauksella.
 ⟪यो⟫ ⟪नरो⟫ ⟪ऽग्निं⟫ ⟪न⟫ ⟪यजते⟫ ⟪तस्य⟫ ⟪गृहमग्निर्दहति⟫ ⟪।⟫
@@ -40,7 +40,7 @@ Millaista tuulta pilvi käyttää päästääkseen vettä, sillä tuulella oppin
 ⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
 ⟪धर्मार्थकामसंयोगं⟫  
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫  
-Joka harrastaa oikeaan aikaan uskontoa (dharma), tuottoisaa toimintaa (artha) tai rakkautta (kāma), löytää tässä maailmassa ja tuonpuoleisessa yhteisyyden uskonnon, hyödyn ja rakkauden kanssa. <!-- TODO: Fallback translation -->
+Joka harrastaa oikeaan aikaan uskontoa (dharma), tuottoisaa toimintaa (artha) tai rakkautta (kāma), löytää tässä maailmassa ja tuonpuoleisessa yhteisyyden uskonnon, hyödyn ja rakkauden kanssa.
 
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
 ⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
@@ -49,7 +49,7 @@ Joka harrastaa oikeaan aikaan uskontoa (dharma), tuottoisaa toimintaa (artha) ta
 Tämä on hänen vaimonsa, joka puhuu rakkautta,
 Tämä on kuitenkin poika, joka elää,
 Hän elää, jolla on hyveitä,
-Joka omistaa uskonnon, oikeuden ja tavat, hän elää. <!-- TODO: Fallback translation -->
+Joka omistaa uskonnon, oikeuden ja tavat, hän elää.
 
 ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
 ⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
@@ -58,11 +58,11 @@ Joka omistaa uskonnon, oikeuden ja tavat, hän elää. <!-- TODO: Fallback trans
 Jolla on vaurautta, hänellä on ystäviä,
 Jolla on vaurautta, hänellä on sukulaisia,
 Jolla on vaurautta, hän on maailmassa mies,
-Joka nimittäin omistaa vaurautta, hän on oppinut. <!-- TODO: Fallback translation -->
+Joka nimittäin omistaa vaurautta, hän on oppinut.
 
 ::: media
 ![](/images/uebung029.webp)
 Kuv.: ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung029))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

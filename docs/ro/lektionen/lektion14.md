@@ -5,11 +5,11 @@ lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 14
 
-## 14.1. Expresia relației dintre cele denumite prin substantive: genitivul (ṣaṣṭhī f. = ⟪षष्टी⟫ = al șaselea caz) <!-- TODO: Fallback translation -->
+## 14.1. Expresia relației dintre cele denumite prin substantive: genitivul (ṣaṣṭhī f. = ⟪षष्टी⟫ = al șaselea caz)
 
 ::: grammar-box
 Dacă se dorește exprimarea relației dintre cele denumite de două substantive, se utilizează genitivul (ṣaṣṭhī f. "al șaselea caz"). Genitivul se deosebește de toate celelalte cazuri prin aceea că, cu puține excepții, nu servește la determinarea mai precisă a acțiunii exprimate de verb, ci la exprimarea relației dintre persoane sau lucruri, denumite prin substantive. Genitivul se găsește frecvent la întrebarea: Cui?
@@ -106,7 +106,7 @@ Genitivul singular al rădăcinilor care se termină în vocalică se formează 
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 **Pronumele interogative și demonstrative:**
@@ -133,7 +133,7 @@ Rețineți că la temele care se termină în consoană, ablativul și genitivul
 ## 14.3. Mai multe despre utilizarea genitivului (⟪षष्ठी⟫)
 
 ::: grammar-box
-Împotriva regulii generale de mai sus, genitivul este folosit pentru a exprima obiectul unor verbe, de exemplu, verbe ale amintirii: <!-- TODO: Fallback translation -->
+Împotriva regulii generale de mai sus, genitivul este folosit pentru a exprima obiectul unor verbe, de exemplu, verbe ale amintirii:
 
 > ⟪देवानां⟫ ⟪स्मरति⟫ "El își amintește de zei"
 
@@ -168,7 +168,7 @@ Fig.: ⟪दीपाः⟫
   * **vac-ana n.** (⟪वचन⟫) : vorbirea, cuvântul
   * **vāk-ya n.** (⟪वाक्य⟫) : cuvânt, discurs
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = proverbe <!-- TODO: Fallback translation -->
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = proverbe
 
 Traduceți următoarele proverbe și învățați-le pe de rost:
 
@@ -241,7 +241,7 @@ Traduceți următoarele proverbe și învățați-le pe de rost:
 Fig.: ⟪पुत्रवती⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1404))
 :::
-⟪२६⟫. ⟪जल⟫ <!-- TODO: Fallback translation -->
+⟪२६⟫. ⟪जल⟫
 
 ⟪२७⟫. ⟪मार्ग⟫
 
@@ -335,4 +335,3 @@ Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1402))
 :::
- <!-- TODO: Fallback translation -->

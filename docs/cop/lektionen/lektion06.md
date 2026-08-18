@@ -1,23 +1,15 @@
 ---
-title: Lektion 6
-subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
+title: "ⲙⲁⲑⲏⲙⲁ 6"
+subtitle: "ⲡⲓⲱϥ ϧⲉⲛ ⲟⲩⲙⲁϫⲱⲣ ϧⲉⲛ ⲡⲓϫⲟⲩⲱⲧ ϯⲛⲓ ⲁϥⲙⲉⲧⲣⲱⲡ ⲁⲛϥⲉⲙ ϧⲉⲛ ⲡⲓϫⲟⲩⲱⲧ"
 lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # ⲙⲁⲑⲏⲙⲁ 6
 
-::: deleteme-box
-**ⲛⲓⲥⲁϫⲉ ⲡⲓⲛⲟⲩⲧⲉ ⲡⲓⲛⲁϣⲱⲧ:**
-- ⲡⲓⲛⲟϫⲉⲧⲙ ⲡⲓⲛⲁϣⲱⲧ ⲉⲡⲓⲛⲁϣⲱⲧ (ⲡⲓⲛⲁϣⲱⲧ ⲉⲡⲓⲛⲁϣⲱⲧ)
-- ⲡⲓⲛⲟϫⲉⲧⲙ ⲡⲓⲛⲁϣⲱⲧ (Parasmaipada, Ātmanepada, Passiv)
-- ⲡⲓⲛⲟϫⲉⲧⲙ ⲡⲓⲛⲁϣⲱⲧ
-- ⲡⲓⲛⲟϫⲉⲧⲙ ⲡⲓⲛⲁϣⲱⲧ (laṭ) ⲡⲓⲛⲁϣⲱⲧ
-- ⲡⲓⲛⲟϫⲉⲧⲙ ⲡⲓⲛⲁϣⲱⲧ (Klassen 1, 4 und 6)
-- ⲡⲓⲛⲟϫⲉⲧⲙ (Ablaut: Guṇa und Vṛddhi)
-:::
 ## 6.1. ⲡⲓⲛⲁϣⲱⲧ
 
 ::: grammar-box

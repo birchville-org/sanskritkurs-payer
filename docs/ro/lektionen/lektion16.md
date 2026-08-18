@@ -90,7 +90,7 @@ din care:
 
 ⟪निरोध⟫ m.: oprire, aducere la oprire
 
-* **bhūta n.** (⟪भूत⟫) (PPP la bhū): ființă, fantomă <!-- TODO: Fallback translation -->
+* **bhūta n.** (⟪भूत⟫) (PPP la bhū): ființă, fantomă
 
 ⟪योग⟫ m.: legare, conexiune, unire, dobândire; Yoga
 
@@ -116,7 +116,7 @@ Fig.: ⟪अहिंसा⟫
 „Mâna cu un roată pe palmă simbolizează jurământul Jain al Ahimsa. Cuvântul din mijloc este „ahimsa”. Roata reprezintă dharmacakra, care stă pentru rezoluția de a opri ciclul reîncarnării prin urmărirea neobosită a adevărului și non-violeței.”
 (Sursă imagine: [Detalii](/ro/licenses#lekt1603))
 :::
-## 16.3. Exercițiu <!-- TODO: Fallback translation -->
+## 16.3. Exercițiu
 
 A) Transformați următoarele expresii în Tatpuruṣa și traduceți-le:
 
@@ -150,7 +150,7 @@ Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫
 
-B) Rezolvați următoarele propoziții descompunând compusele în sanscrită, formând astfel propoziții cu substantive flexionate și traduceți: <!-- TODO: Fallback translation -->
+B) Rezolvați următoarele propoziții descompunând compusele în sanscrită, formând astfel propoziții cu substantive flexionate și traduceți:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 
@@ -234,19 +234,9 @@ Explicații;
 
 Propoziția 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Acuz.: Dvandva, care denumește două "lucruri"
 
-Propoziția 8: ⟪कर्म⟫ Nom., Acuz. sg. Neutru la ⟪कर्मन्⟫ "faptă" <!-- TODO: Fallback translation -->
+Propoziția 8: ⟪कर्म⟫ Nom., Acuz. sg. Neutru la ⟪कर्मन्⟫ "faptă"
 
 Propoziția 13: ⟪सर्वेषाम्⟫ Gen. pl. masc. la ⟪सर्व⟫ "fiecare, toți" (pronume, nu se declină ca deva)
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** Templul Birla, Delhi [Sursa imaginii: Deepak / Wikipedia ; Licență Creative Commons (atribuire, share alike)]
-
-**lekt1602:** "Aceasta este o ceremonie specială într-un templu mic din Satara (⟪सातारा⟫). Este efectuată de studenții de la Swami Muktananda Vedashala în celebrarea Mahāśivarātri. Aceasta este o școală vedică, unde copiii pe de rost texte sacre numite Vedas. Această școală predă Krishna Yajurveda și unele porțiuni din Samaveda. Îmi fac teza de masterat despre această școală." [Sursa imaginii: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Accesat la 2008-12-07. -- Licență Creative Commons (atribuire, non-comercial, fără modificări)]
-
-**lekt1603:** "Mâna cu un roată pe palmă simbolizează jurământul Jain al Ahimsa. Cuvântul din mijloc este "ahimsa". Roata reprezintă dharmacakra care stă pentru rezoluția de a opri ciclul reîncarnării prin urmărirea neobosită a adevărului și non-violei." [Sursa imaginii: Wikipedia, Domeniu public]
-
-**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Sursa imaginii: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Accesat la 2008-12-07. -- Licență Creative Commons (atribuire, non-comercial, fără modificări)]
-:::

@@ -214,15 +214,3 @@ B) Untuk akar-akar kelas ke-7 berikut, bentuk semua orang ketiga tunggal dan jam
 
 ⟪५⟫. ⟪भञ्ज्⟫ (P only)
 
-::: deleteme-box
-
-**lekt3101:** Yoga depiction. [Image source: Flickr, 2008-12-25. CC BY]
-
-**lekt3102:** Preparation for Kathakali dance, Kochi. [Image source: winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**lekt3103:** From a Prajñāpāramitā manuscript. [Image source: zeno.org. Public domain]
-
-**lekt3105:** Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War. [Image source: Hari Singh Deora / Wikipedia. Public domain]
-
-**lekt3104:** Rāhula, putra Sang Buddha, Laos. [Sumber gambar: Sacca / Wikipedia. GNU FDL]
-:::

@@ -12,6 +12,7 @@ PREV_LANG=""
 PREV_SAUBER=-1
 STUCK_COUNT=0
 SKIP_LANGS=""
+rm -f /tmp/payer_skipped_langs.txt
 
 while true; do
     TOP_LANG=$(python3 -c "
@@ -26,6 +27,7 @@ print(top)
         if [ -n "$SKIP_LANGS" ]; then
             echo "⚠️ Retrying skipped languages: $SKIP_LANGS"
             SKIP_LANGS=""
+            rm -f /tmp/payer_skipped_langs.txt
             continue
         fi
         echo "🎉 All languages are 100% completed with 0 fallbacks!"
@@ -48,6 +50,7 @@ print(TOTAL_MASTER - len(get_translation_queue('$TOP_LANG')))
             else
                 echo "🚨 [MASCHINELLES LIMIT ERREICHT] [$TOP_LANG] Keine weiteren automatischen Fortschritte möglich ($CURR_SAUBER/136). Sprache wird für manuelle Nacharbeit markiert und übersprungen."
                 SKIP_LANGS="$SKIP_LANGS $TOP_LANG"
+                echo "$SKIP_LANGS" > /tmp/payer_skipped_langs.txt
                 PREV_LANG=""
                 EXTRA_FLAGS=""
                 continue

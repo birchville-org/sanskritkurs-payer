@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lezione 27
 
@@ -587,28 +587,5 @@ Sai Baba di Shirdi (1835 - 1918).
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2717))
-:::
-
-::: deleteme-box
-
-**lekt2701:** Jaipur, 1875. [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2702:** Rajasthan. [Fonte dell'immagine: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** Holi. [Fonte dell'immagine: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Harihara (a sinistra: Viṣṇu, a destra: Śiva). [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2705:** Harihara (a sinistra: Viṣṇu, a destra: Śiva). Godrumdwip, Bengala Occidentale. [Fonte dell'immagine: GourangaUK / Wikipedia. Licenza GNU FD]
-**lekt2706:** Vastrāṇi. Majuli, Assam. [Fonte dell'immagine: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Fonte dell'immagine: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Rāma-Satz. [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2709:** Dipinto di Rāja Ravi Varmā (1848 - 1906). [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2710:** Frutti. Bangalore. [Fonte dell'immagine: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Naran. Udaipur. [Fonte dell'immagine: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Impiccagione di due partecipanti alla ribellione del 1857. Fotografia di Felice Beato (1833/1834 - ca. 1907). [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Fonte dell'immagine: Wikipedia, Licenza GNU FD]
-**lekt2714:** Vacca a Udaipur. [Fonte dell'immagine: Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2716:** Sai Baba di Shirdi (1835 - 1918). [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-**lekt2717:** Tsunami 2005, Sri Lanka. [Fonte dell'immagine: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) con suo nipote il Principe Jaya Chamaraja Wadiyar, Mysore. [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-
 :::
 

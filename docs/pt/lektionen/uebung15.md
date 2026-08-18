@@ -16,7 +16,7 @@ A) Traduza o provérbio no início da lição
 ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫
 O conhecimento se obtém por obediência a um professor, ou por muito dinheiro, ou em troca de conhecimento. Não há uma quarta possibilidade.
 
-B) Lösen Sie folgende Tatpuruṣa auf: <!-- TODO: Fallback translation -->
+B) Lösen Sie folgende Tatpuruṣa auf:
 
 ⟪१⟫. ⟪बलकृतः⟫ ⟪।⟫ ⟪बलेन⟫ ⟪कृतः⟫ — ein gewalttätiger
 
@@ -75,7 +75,7 @@ B) Lösen Sie folgende Tatpuruṣa auf: <!-- TODO: Fallback translation -->
 Fig.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung014))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercícios Adicionais
 
@@ -146,4 +146,3 @@ Resolva os seguintes compostos como Tatpuruṣa em sânscrito e forneça uma tra
 Fig.: ⟪गृहकरणम्⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung016))
 :::
- <!-- TODO: Fallback translation -->

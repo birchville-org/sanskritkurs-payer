@@ -10,11 +10,11 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 38
 
-A) Írja be a következő mondatokba a zárójelben megadott szavak megfelelő alakját, és fordítsa le őket: <!-- TODO: Fallback translation -->
+A) Írja be a következő mondatokba a zárójelben megadott szavak megfelelő alakját, és fordítsa le őket:
 
 ::: grammar-box
 ⟪१⟫. ⟪राज्ञि⟫ (vagy: ⟪राजनि⟫) **⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪राजन्⟫)
-Ha a király megőrzi az igazságot és a szokásokat, az emberek félelem nélkül élnek. <!-- TODO: Fallback translation -->
+Ha a király megőrzi az igazságot és a szokásokat, az emberek félelem nélkül élnek.
 
 ⟪२⟫. **⟪आसीद्राजपुत्रो⟫ ⟪गौतमो⟫ ⟪नाम⟫ ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूप्यमितबलः⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫** (⟪नामन्⟫)
 Volt egyszer egy királyfi — Gautama volt a neve — jól ellátta feladatait, teljes bölcsességgel bírt, szép volt és mérhetetlen erővel.
@@ -32,10 +32,10 @@ Milyen neveket viselnek a Vaiśyák?
 „Aki a cselekvésben nemcselekvést lát, és a nemcselekvésben cselekvést, az bölcs az emberek között, ő egy jóga” — így szól a Bhagavadgītā.
 
 ⟪७⟫. **⟪किं⟫ ⟪कर्म⟫ ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫** (⟪कर्मन्⟫)
-Még a költők is zavarban vannak e tekintetben, mi a cselekvés és mi a nemcselekvés. <!-- TODO: Fallback translation -->
+Még a költők is zavarban vannak e tekintetben, mi a cselekvés és mi a nemcselekvés.
 
 ⟪८⟫. **⟪ब्रह्मभूतः⟫ ⟪प्रसन्नात्मा⟫ ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (⟪प्रसन्नात्मन्⟫ — ⟪प्रथमा⟫ ⟪एकवचन⟫)
-Aki az Abszolúttá vált, és akinek a lelke lecsendesedett, az nem gyászol és nem kíván. <!-- TODO: Fallback translation -->
+Aki az Abszolúttá vált, és akinek a lelke lecsendesedett, az nem gyászol és nem kíván.
 
 ⟪९⟫. **⟪कर्मणः⟫ ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫** (⟪कर्मन्⟫ — ⟪षष्ठी⟫ ⟪एकवचन⟫)
 Azt mondják, hogy egy jól elvégzett cselekedet jó gyümölcsöt hoz.
@@ -63,7 +63,7 @@ Ha a királyok nem őrzik az igazságot és a szokásokat, az emberek tele vanna
 Ábr.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung063))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Mesélés: Tíz bolond (⟪दश⟫ ⟪मूढाः⟫)
 
@@ -75,5 +75,5 @@ Ha a királyok nem őrzik az igazságot és a szokásokat, az emberek tele vanna
 **Fordítás:**
 Tíz bolond. A buták viselkedése általában szórakoztató. Például: Tíz bolond útnak indult, hogy kóboroljanak az országban. Miután egy darabig mentek, mély folyó állta útjukat. Karmolva az úszással átkeltek valahogy a folyón, és megérkeztek a másik partra.
 
-Közöttük volt egy idős ember. Ő akarta tudni, hogy mindenki megérkezett-e a partra, ezért megszámolta őket. De csak kilencet számolt meg. Ekkor kiáltotta: "Hé! Tíz főként indultunk, most csak kilencen vagyunk! Biztosan egy valaki a folyóban fulladt meg! Keressétek őt!" Ezután mindenki megszámolta magát. De mindig csak kilencen voltak! Ekkor felháborodtak, és nagy kiáltkozás támadt. Nem messze tőlük egy Ṛṣi remetelakása volt. A helyi bölcs megfigyelte viselkedésüket, és hangosan nevetett. A bolondok meghallották a nevetséget, siettek hozzá, és megkérdezték az okot. A Ṛṣi azt mondta: "Haha! Nem ismeritek önmagatokat. Mindenki elfelejtette megszámolni magát. Ezért keletkezett ez a zavar." Amikor ezt hallották, szégyenletesen és levert fejjel távoztak a bolondok. <!-- TODO: Fallback translation -->
+Közöttük volt egy idős ember. Ő akarta tudni, hogy mindenki megérkezett-e a partra, ezért megszámolta őket. De csak kilencet számolt meg. Ekkor kiáltotta: "Hé! Tíz főként indultunk, most csak kilencen vagyunk! Biztosan egy valaki a folyóban fulladt meg! Keressétek őt!" Ezután mindenki megszámolta magát. De mindig csak kilencen voltak! Ekkor felháborodtak, és nagy kiáltkozás támadt. Nem messze tőlük egy Ṛṣi remetelakása volt. A helyi bölcs megfigyelte viselkedésüket, és hangosan nevetett. A bolondok meghallották a nevetséget, siettek hozzá, és megkérdezték az okot. A Ṛṣi azt mondta: "Haha! Nem ismeritek önmagatokat. Mindenki elfelejtette megszámolni magát. Ezért keletkezett ez a zavar." Amikor ezt hallották, szégyenletesen és levert fejjel távoztak a bolondok.
 

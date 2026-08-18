@@ -58,7 +58,7 @@ Exemple:
 Exemple:
 
 ::: indent
-⟪सुकवि⟫ m.: un poet bun <!-- TODO: Fallback translation -->
+⟪सुकवि⟫ m.: un poet bun
 
 ⟪सुकृत⟫ n.: faptă bună
 
@@ -173,7 +173,7 @@ Exemple:
 
 ⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : a indica, a învăța, a sfătui
 
-⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : a ajunge, a parveni <!-- TODO: Fallback translation -->
+⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : a ajunge, a parveni
 
 *   PPP ⟪उपपन्न⟫ 3: echipat cu (Instrumental)
 
@@ -198,7 +198,7 @@ Exemple:
 
 ⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : a lăuda, a lăuda cu voce tare, a menționa, a începe
 :::
-⟪वि⟫ "împreună, departe, des-, dis-" <!-- TODO: Fallback translation -->
+⟪वि⟫ "împreună, departe, des-, dis-"
 
 Exemple:
 
@@ -244,7 +244,7 @@ Rădăcina ⟪कृ⟫ "a face" arată, în combinație cu prefixele ⟪सम�
 Exemplu:
 
 ::: indent
-sam-kṛ 8 ⟪संस्करोति⟫ : a pregăti, a pregăti pentru jertfă, a consacra <!-- TODO: Fallback translation -->
+sam-kṛ 8 ⟪संस्करोति⟫ : a pregăti, a pregăti pentru jertfă, a consacra
 
 *   PPP ⟪संस्कृत⟫ 3: pregătit pentru jertfă ; ⟪संस्कृत⟫ n.: sanscrită: limba potrivită pentru jertfă ; opus ⟪प्राकृत⟫ 3: obișnuit, vulgar ; ⟪प्राकृत⟫ n.: limbă obișnuită, Prakrit (denumire pentru limbile vorbite și de circulație, înrudite cu sanscrita)
 :::
@@ -296,7 +296,7 @@ Fig.: ⟪उपनयनम्⟫
 
 ⟪शूर⟫ 3: curajos, eroic ; m.: erou
 
-⟪शब्द⟫ m.: sunet, ton, sunet de semnal: cuvânt <!-- TODO: Fallback translation -->
+⟪शब्द⟫ m.: sunet, ton, sunet de semnal: cuvânt
 
 ⟪उदक⟫ n.: apă
 
@@ -412,7 +412,7 @@ Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Imprimat
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1802))
 :::
-B) Traduceți folosind verbe din clasa a II-a de prezent: <!-- TODO: Fallback translation -->
+B) Traduceți folosind verbe din clasa a II-a de prezent:
 
 1\. Brahmanul laudă zeițele.
 
@@ -422,7 +422,7 @@ B) Traduceți folosind verbe din clasa a II-a de prezent: <!-- TODO: Fallback tr
 
 4\. Inamicii arienilor ucid pe kṣatriyas puternici.
 
-5\. Un fantomă nu mănâncă fructe. <!-- TODO: Fallback translation -->
+5\. Un fantomă nu mănâncă fructe.
 
 6\. Așa vorbește cel care [a parcurs bine calea renașterilor] către ucenic.
 
@@ -432,19 +432,9 @@ Fig.: ⟪सुगतः⟫
 ⟪गन्धार⟫ Sec. I/II d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1803))
 :::
-C) Dați în sanscrită definiția yoga în două moduri: o dată folosind un compus, o dată rezolvând compusul. <!-- TODO: Fallback translation -->
+C) Dați în sanscrită definiția yoga în două moduri: o dată folosind un compus, o dată rezolvând compusul.
 
 D) Traduceți:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt1801:** "Se vede un băiat tânăr în timpul ritualului upanayana. Firul galben, subțire, care trece de la umărul stâng la talie este Yagnopaivta. De asemenea, observați centura de iarbă munja de la talie. Crenguța din mâna dreaptă (de obicei din copacul peepa) semnifică intrarea sa în Brahmacharya." [Sursa imaginii: Nagesh Rao / Wikipedia, Licență GNU FDL]
-
-**lekt1802:** 1770 Imprimat [Sursa imaginii: Wikipedia, Domeniu public]
-
-**lekt1803:** ⟪गन्धार⟫ Sec. I/II d.Hr. [Sursa imaginii: Wikipedia, Domeniu public] <!-- TODO: Fallback translation -->
-
-**lekt1804:** Căsătorie = ⟪विवाह⟫ m., o importantă ⟪संस्कारः⟫ [Sursa imaginii: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Accesat la 2008-12-08. -- Licență Creative Commons (Atribuire, utilizare non-comercială, fără modificări)]
-:::

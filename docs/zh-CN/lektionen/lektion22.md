@@ -242,14 +242,3 @@ Kolkata = কলকাতা
 （图片来源：[详情](/zh-CN/licenses#lekt2204)）
 :::
 
-::: deleteme-box
-
-**lekt2201:** 果阿 = ⟪गोंय⟫ [图片来源：Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- 访问日期：2008-12-12. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
-
-**lekt2202:** 19世纪 [图片来源：维基百科，公有领域]
-
-**lekt2203:** 加尔各答 = কলকাতা [图片来源：The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- 访问日期：2008-12-12. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
-
-**lekt2204:** [图片来源：Curt Carnemark / 世界银行. -- http://www.flickr.com/photos/worldbank/2183558378/. -- 访问日期：2008-12-12. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
-:::
-

@@ -1,90 +1,89 @@
 ---
 title: "تمرین ۸"
 uebung_id: 8
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# تمرین 8
+# تمرین ۸
 
-الف) ریشه‌های اسم‌های زیر را با ذکر ریشه، از آن مشتق شده و پسوند اسمی مشخص کنید. جنسیت و معنی را ارائه دهید:
+الف) ریشه‌های اسمی زیر را با ذکر ریشه (Wurzel) که از آن مشتق شده‌اند و پسوند اسمی (Nominalsuffix) توضیح دهید. جنسیت و معنی را مشخص کنید:
 
-۱\. lobha: lubh 4 P "خواستن" + -a مذکر: "هوس‌پرستی/طمع"
+۱\. lobha: lubh 4 P "خواستن" + -a m.: "هوس، تمایل"
 
-2\. rakṣa: rakṣ 1 P "hüten" + -a 3: "hütend, beschützend" ; m.: "Wächter" <!-- TODO: Fallback translation -->
+۲\. rakṣa: rakṣ 1 P "حفاظت کردن" + -a 3: "نگهبان، محافظ"; m.: "حافظ، نگهبان"
 
-3\. śrotra: śru 5 P "hören" + -tra n.: "Ohr"
+۳\. śrotra: śru 5 P "شنیدن" + -tra n.: "گوش"
 
-۴\. mati: man ۴ Ā «تفکر کردن» + -ti f.: «اندیشه، نظر»
+۴\. mati: man 4 Ā "فکر کردن" + -ti f.: "اندیشه، نظر"
 
-5\. savana: su 5 U "auspressen" + -ana n.: "Somapressung" <!-- TODO: Fallback translation -->
+۵\. savana: su 5 U "فشار دادن" + -ana n.: "فشردن soma (سوما)"
 
-[L6] ۶. یودها: یودها (یودھا) از ریشه yudh به معنای «جنگیدن» + -a مذکر: «رزمی‌آور، سرباز»
+۶\. yodha: yudh 4 Ā "جنگیدن" + -a m.: "جنگجو، سرباز"
 
-7\. lābha: labh 1 Ā "erhalten" + -a m.: "Bekommen, Gewinn" <!-- TODO: Fallback translation -->
+۷\. lābha: labh 1 Ā "دریافت کردن" + -a m.: "به دست آوردن، سود"
 
-8\. kāraṇa: kṛ 8 U "machen, tun" + -ana n.: "Ursache, Grund" <!-- TODO: Fallback translation -->
+۸\. kāraṇa: kṛ 8 U "کردن، انجام دادن" + -ana n.: "علت، دلیل"
 
-۹. gati: gam 1 P «رفتن» + -ti f.: «حرکت، «مسیر»، هدف»
+۹\. gati: gam 1 P "رفتن" + -ti f.: "حرکت، 'مسیر زندگی'، هدف"
 
-10\. khādana: khād 1 P "kauen" + -ana n.: "Kauen, Verzehr, Futter"
+۱۰\. khādana: khād 1 P "جویدن" + -ana n.: "جویدن، مصرف، خوراک"
 
-11\. smara: smṛ 1 P "به یاد آوردن" + -a m.: "یادآوری، حافظه، اشتیاق، عشق"
+۱۱\. smara: smṛ 1 P "به یاد آوردن" + -a m.: "یادآوری، حافظه، اشتیاق، عشق"
 
-12\. sṛṣṭi: sṛj 6 P / 4 A "emanieren lassen, erschaffen" + -ti: "Emanation, Schöpfung" <!-- TODO: Fallback translation -->
+۱۲\. sṛṣṭi: sṛj 6 P / 4 A "جاری کردن، آفریدن" + -ti: "تولد (Emanation)، خلقت"
 
-۱۳. تانتر: تَن 8 U «گسترش دادن» + -ترا n.: «تار پارچه، بافت»
+۱۳\. tantra: tan 8 U "گسترش دادن" + -tra n.: "تار (بافت)، بافته‌شده"
 
-14\. bhāva: bhū 1 P "werden, sein" + -a m.: "Werden, natur, Charakter" <!-- TODO: Fallback translation -->
+۱۴\. bhāva: bhū 1 P "شدن، بودن" + -a m.: "شدت‌یافتگی، طبیعت، شخصیت"
 
-15\. darśana: dṛś (4 P: paśyati) "sehen" + -ana n-: "Sehen, Erscheinung, Sichtweise, philosophisches System" <!-- TODO: Fallback translation -->
+۱۵\. darśana: dṛś (4 P: paśyati) "دیدن" + -ana n-: "دیدن، پدیده، دیدگاه، نظام فلسفی"
 
-[L1] ۱۶\. netra: nī 1 U «هدایت کردن» + -tra n.: «چشم»
+۱۶\. netra: nī 1 U "هدایت کردن" + -tra n.: "چشم"
 
-17\. veśana: viś 6 P "eintreten" + -ana n.: "Eintritt"
+۱۷\. veśana: viś 6 P "ورود کردن" + -ana n.: "ورود، دخول"
 
-۱۸\. کوپا: کوپ ۴ پ «خشمگین شدن» + -آ م.: «خشم»
+۱۸\. kopa: kup 4 P "خشمگین شدن" + -a m.: "خشم، غضب"
 
-۱۹\. سارگا: رِج ۶ پ / ۴ آ «به وجود آوردن، خلق کردن» + -آ م.: «رها کردن، تجلی، آفرینش»
+۱۹\. sarga: ṛj 6 P / 4 A "جاری کردن، آفریدن" + -a m.: "رها کردن، تولد (Emanation)، خلقت"
 
-۲۰\. یاجانا: یَج ۱ ا «قربانی کردن» + -آنا ن.: «قربانی کردن، محل قربانی»
+۲۰\. yajana: yaj 1 U "قربانی کردن" + -ana n.: "قربانی، محل قربانی"
 
-۲۱\. موها: مُحْ ۴ پ «مبهوت بودن» + -آ م.: «مبهوتی، جهل، خطا»
+۲۱\. moha: muḥ 4 P «مبهوت بودن» + -a m.: «مبهم بودن، فریب‌دیدگی، خطا»
 
-22\. śrava: śru 5 P "hören" + -a m.: "Hören"
+۲۲\. śrava: śru 5 P «شنیدن» + -a m.: «شنیدن»
 
-23\. bhavana: bhū 1 P "werden, sein" + -ana n.: "Werden, Entstehen, Entstehung" <!-- TODO: Fallback translation -->
+۲۳\. bhavana: bhū 1 P «شدن، بودن» + -ana n.: «شدن، پدید آمدن، زایش»
 
-24\. nīti: nī 1 U "führen" + -ti f.: "Führung" <!-- TODO: Fallback translation -->
+۲۴\. nīti: nī 1 U «هدایت کردن» + -ti f.: «رهبری، هدایت»
 
-25\. nartana: nṛt 4 P "tanzen" + -ana 3: "tanzend, Tänzer" ; n.: "Tanz" <!-- TODO: Fallback translation -->
+۲۵\. nartana: nṛt 4 P «رقصیدن» + -ana 3: «رقصنده، رقص‌کننده» ; n.: «رقص»
 
-26\. jaya: ji 1 P "siegen" + -a m.: "Siegen, Sieg" <!-- TODO: Fallback translation -->
+۲۶\. jaya: ji 1 P «پیروز شدن» + -a m.: «پیروزی، پیروز شدن»
 
-27\. nayana: nī 1 U "führen" + -ana n.: "Auge" <!-- TODO: Fallback translation -->
+۲۷\. nayana: nī 1 U «هدایت کردن» + -ana n.: «چشم»
 
-28\. śravaṇa: śru 5 P "hören" + -ana n.: "Ohr"
+۲۸\. śravaṇa: śru 5 P «شنیدن» + -ana n.: «گوش»
 
-[L1] B) برای همه اسم‌هایی که تاکنون آموخته‌اید، واژگان انتزاعی بسازید و درباره معنای آن‌ها فکر کنید (شفاهی)
+ب) برای تمام اسم‌هایی که تاکنون آموخته‌اید، واژگان انتزاعی بسازید و درباره معنای آن‌ها بیندیشید (شفاهی)
 
-C) Setzen Sie als direktes Objekt im Singular und Plural ein: <!-- TODO: Fallback translation -->
+ج) به عنوان مفعول مستقیم در مفرد و جمع قرار دهید:
 
 kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
 kṣatriyo brāhmaṇaṃ / brāhmaṇān / vaiśyaṃ / vaiśyān rakṣati. kṣatriyaḥ śūdraṃ / śūdrān. kṣatriyo brāhmaṇīṃ / brāhmaṇī rakṣati. kṣatriyaḥ kṣatriyāṃ / kṣatriyā rakṣati.
 
-⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणान्रक्षति⟫ ⟪।⟫ ⟪क्त्रियो⟫ ⟪वैश्यं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪वैश्यान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणीं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणी⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रियां⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रिया⟫ ⟪रक्षति⟫ ⟪॥⟫
+⟪क्षत्रियो ब्राह्मणं रक्षति । क्षत्रियो ब्राह्मणान्रक्षति । क्त्रियो वैश्यं रक्षति । क्षत्रियो वैश्यान्रक्षति । क्षत्रियः शूद्रं रक्षति । क्षत्रियः शूद्रान्रक्षति । क्षत्रियो ब्राह्मणीं रक्षति । क्षत्रियो ब्राह्मणी रक्षति । क्षत्रियः क्षत्रियां रक्षति । क्षत्रियः क्षत्रिया रक्षति ॥⟫
 
-D) Übersetzen Sie
+د) ترجمه کنید
 
-1\. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+۱\. Kṣatriyas هم برهمان‌ها و هم وایسیه‌ها و شودره‌ها پاسداری می‌کنند. (۲ امکان)
 
 kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / kṣatriyā brāhmaṇavaiśyaśūdrān rakṣanti.
 
-⟪क्षत्रिया⟫ ⟪ब्राह्मणांश्च⟫ ⟪वैश्यांश्च⟫ ⟪शूद्रांश्च⟫ ⟪रक्षन्ति⟫ ⟪।⟫ ⟪क्षत्रिया⟫ ⟪ब्राह्मणवैश्यशूद्रान्रक्षन्ति⟫ ⟪।⟫
-
-۲. یک مرد مقدس هم بهشت و هم دوزخ را می‌بیند.
+⟪क्षत्रिया ब्राह्मणांश्च वैश्यांश्च शूद्रांश्च रक्षन्ति । क्षत्रिया ब्राह्मणवैश्यशूद्रान्रक्षन्ति ।⟫
 
 sādhuḥ svargāmś ca narakāmś ca paśyati.
 
@@ -96,7 +95,7 @@ kṣatriyāñ jayati.
 
 ⟪क्षत्रियञ्जयति⟫ ⟪।⟫
 
-4\. Sie spannt die Webkette auf. <!-- TODO: Fallback translation -->
+4\. Sie spannt die Webkette auf.
 
 tantraṃ tanoti.
 
@@ -108,7 +107,7 @@ yodhā yudhyante.
 
 ⟪योधा⟫ ⟪युध्यन्ते⟫ ⟪।⟫
 
-6\. Der Brahmane macht ein Feuer. <!-- TODO: Fallback translation -->
+6\. Der Brahmane macht ein Feuer.
 
 brāhmaṇo 'gniṃ karoti.
 
@@ -120,13 +119,13 @@ brāhmaṇā agniṃ kurvanti.
 
 ⟪ब्राह्मणा⟫ ⟪अग्निं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 
-8\. Was tun diese Kämpfer? <!-- TODO: Fallback translation -->
+8\. Was tun diese Kämpfer?
 
 ime yodhāḥ kiṃ kurvanti?
 
 ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 
-9\. Wen sieht das Auge? <!-- TODO: Fallback translation -->
+9\. Wen sieht das Auge?
 
 netraṃ (nayanaṃ) kaṃ paśyati?
 
@@ -138,7 +137,7 @@ devāḥ kiṃ lubhyanti?
 
 ⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
 
-11\. Was ist der Grund? <!-- TODO: Fallback translation -->
+11\. Was ist der Grund?
 
 kiṃ kāraṇam?
 
@@ -151,7 +150,7 @@ kiṃ kāraṇam?
 :::
 ---
 
-## Leseübung <!-- TODO: Fallback translation -->
+## Leseübung
 
 1\. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 Der Śūdra führt den Knaben.
@@ -160,7 +159,7 @@ Der Śūdra führt den Knaben.
 شاعر به خداوند قربانی می‌کند.
 
 3\. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-Der Heilige isst Früchte. <!-- TODO: Fallback translation -->
+Der Heilige isst Früchte.
 
 ۴\. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
 استاد خشم خود را شکست می‌دهد.
@@ -169,7 +168,7 @@ Der Heilige isst Früchte. <!-- TODO: Fallback translation -->
 خداوند دوزخ را آفرید.
 
 6\. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
-Die Kuh betritt das Dorf. <!-- TODO: Fallback translation -->
+Die Kuh betritt das Dorf.
 
 ۷\. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
 شهوت، خشم و طمع به جهنم می‌انجامند.
@@ -183,32 +182,38 @@ Ein Mädchen entsteht.
 ۱۰\. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
 یک راننده چارپایه، چارپایه را هدایت می‌کند.
 
-۱۱\. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
+9\. ⟪बाला भवति⟫ |
+دختری به وجود می‌آید.
+
+10\. ⟪सारथी रथं नयति⟫ |
+راننده‌ی ارابه، ارابه را هدایت می‌کند.
+
+11\. ⟪कपयः फलानि खादन्ति⟫ |
 میمون‌ها میوه‌ها را می‌خورند.
 
-۱۲\. ⟪बाला⟫ ⟪लिखति⟫ |
-دخترک می‌نویسد یا رسم می‌کند.
+12\. ⟪बाला लिखति⟫ |
+دختر می‌نویسد یا رسم می‌کند.
 
-۱۳\. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
+13\. ⟪कुमारी गृहं विशति⟫ |
 باکره وارد خانه می‌شود.
 
-۱۴\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
+14\. ⟪देवो नागं सृजति⟫ |
+خدا فیل یا مار یا ناکا را آفرید.
 
-۱۵\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
+15\. ⟪बालो गजं नयति⟫ |
 پسر فیل را هدایت می‌کند.
 
-16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā)
-Vimalā ist traurig. <!-- TODO: Fallback translation -->
+16\. ⟪विमला शोचति⟫ | (⟪विमला⟫ نام خاص ویمالا)
+ویمالا غمگین است.
 
-17\. ⟪शुकः⟫ ⟪पतति⟫ |
-Der Papagei fliegt.
+17\. ⟪शुकः पतति⟫ |
+طوطی پرواز می‌کند.
 
-۱۸\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
+18\. ⟪बालः पत्रिकां लिखति⟫ |
 پسر نامه‌ای می‌نویسد.
 
 ::: media
 ![](/images/uebung008.webp)
-تصویر: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
+تصویر: ⟪कपिः फलं खदति⟫
 (منبع تصویر: [جزئیات](/licenses#uebung008))
 :::

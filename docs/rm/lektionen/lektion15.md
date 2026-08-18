@@ -42,31 +42,31 @@ p. ex.
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
 > usv.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
 :::
 ## 15.3. Determinativ:::: grammar-box
 ::: grammar-box
 
-Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus. <!-- TODO: Fallback translation -->
+Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus.
 
 :::
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "ein Sohn mit guten Eigenschaften"  
 Akk. sg. ⟪गुणवत्पुत्रम्⟫  
-Nom pl. ⟪गुणवत्पुत्राः⟫   <!-- TODO: Fallback translation -->
+Nom pl. ⟪गुणवत्पुत्राः⟫  
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine verdienstreiche Kṣatriyafrau"   <!-- TODO: Fallback translation -->
+⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine verdienstreiche Kṣatriyafrau"  
 
-⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "gute Leute"   <!-- TODO: Fallback translation -->
+⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "gute Leute"  
 
-⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat" <!-- TODO: Fallback translation -->
+⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat"
 
 ::: media
 ![](/images/lekt1501.webp)
 Abb.: ⟪लक्ष्मी⟫
-(Bildquelle: [Details](/licenses#lekt1501)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1501))
 :::
 
 ::: grammar-box
@@ -108,13 +108,13 @@ Akk. sg. ⟪क्षत्रियपुत्रम्⟫
 Gen. sg. ⟪क्षत्रियपुत्रस्य⟫  
 u.s.w.
 
-⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "la natira d'in magister" <!-- TODO: Fallback translation -->
+⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "la natira d'in magister"
 
 ⟪धनलोभः⟫ = ⟪धनस्य⟫  ⟪लोभः⟫ = "Gidà da richèzza, avidadad"
 
 ⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "il decurs dal mund, il cumpurtament da la glieud"
 
-Quasi mintga relaziun da genitiv po vegnir sustituida da in Tatpuruṣa. Las paucas excepziuns vesair per ex. en Kale, A higher Sanskrit grammar § 211, là era ils passus correspundents en Pāṇini. <!-- TODO: Fallback translation -->
+Quasi mintga relaziun da genitiv po vegnir sustituida da in Tatpuruṣa. Las paucas excepziuns vesair per ex. en Kale, A higher Sanskrit grammar § 211, là era ils passus correspundents en Pāṇini.
 
 Il segment anterior d'in Tatpuruṣa po principialmain represchentar tut ils casus. Tutgavin na pon betg tut las relaziuns da casus sintacticamain pussaivlas vegnir sustituidas tras in Tatpuruṣa. Las regulas correspundentas chattais Vus en cas da dubi tar Kale, A higher Sanskrit grammar § 203 - 217 resp. Pāṇini 2,1,22 - 2,2,22.
 
@@ -148,7 +148,7 @@ Anche se en sànscrit ponnan esser formatas cumpostas da lunghezza arbitraria e 
 Fig.: ⟪समासविच्छेदः⟫
 (Imàgin: [Detagl](/rm/licenses#lekt1502))
 :::
-u.s.w. fin ch'ins arriva als singulas radis da paraulas. <!-- TODO: Fallback translation -->
+u.s.w. fin ch'ins arriva als singulas radis da paraulas.
 
 p.ex.
 
@@ -304,11 +304,11 @@ Abb.: ⟪सिंहः⟫
 Abb.: ⟪व्याघ्रः⟫
 (Fontana da l'imaginescha: [Detagls](/rm/licenses#lekt1507))
 :::
-⟪इव⟫ (postposiziun): sco, sco che (en cumparegliaziuns: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = 'in um sco in tigir', 'in um sco in tigir') <!-- TODO: Fallback translation -->
+⟪इव⟫ (postposiziun): sco, sco che (en cumparegliaziuns: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = 'in um sco in tigir', 'in um sco in tigir')
 
 ⟪एव⟫ (postposizionà): emfatisescha quai che va avant, correspunda en il tudestg savens a l'emfasa, ina sorta d'emoticon `\<!\>`, per exempel ⟪सत्यमेव⟫ ⟪जयति⟫ "sola la verit gudogna", "exactamain la verit gudogna", "la verit gudogna"
 
-⟪अरि⟫ m.: inimic (secun Thieme, Der Fremdling im Ṛgveda: originalmain = forestir) <!-- TODO: Fallback translation -->
+⟪अरि⟫ m.: inimic (secun Thieme, Der Fremdling im Ṛgveda: originalmain = forestir)
 
 ::: indent
 ⟪आर्य⟫ 3: arian, nobel ; m. Ari (denominaziun da sè da l'indians vegls che parlavan sanscrit, literalmain: ospital (Thieme)) ; nobel, um d'onur
@@ -582,18 +582,5 @@ B) Resolvai las suandantas composiziuns Tatpuruṣa:
 ![](/images/lekt1509.webp)
 Fig.: ⟪नागदेवाः⟫
 (Imàgin: [Detagls](/rm/licenses#lekt1509))
-:::
-
-::: deleteme-box
-
-- **Abb.: ⟪लक्ष्मी⟫** (Lakshmi): Quadern da ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Sursa d’imaginas: Wikipedia, Public domain.
-- **Abb.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Sursa d’imaginas: Wikipedia, Public domain.
-- **Diagramm** (lekt1502.jpg): Diagramm per la decomposiziun da cumponids. Sursa d’imaginas: Alois Payer / Original-Kursgrafik.
-- **Abb.: ⟪पूजा⟫** (Puja): Ina ceremonia da Puja en Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Sursa d’imaginas: Wikipedia, Public domain.
-- **Abb.:  ⟪इन्द्रः⟫** (Indra): Folio d’in Panchakalyanaka, Rajasthan, Amber. Sursa d’imaginas: Wikipedia, Public domain.
-- **Abb.: ⟪सिंहः⟫** (Lion): Panthera leo persica. Sursa d’imaginas: Wikipedia, GNU FDLicense.
-- **Abb.: ⟪व्याघ्रः⟫** (Tiger): Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Sursa d’imaginas: U.S. Fish and Wildlife Service / Wikipedia, Public domain.
-- **Abb.: ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Sursa d’imaginas: ganuullu (Flickr), Creative Commons Lizenz.
-- **Abb.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Sursa d’imaginas: Dineshkannambadi / Wikipedia, GNU FDLicense.
 :::
 

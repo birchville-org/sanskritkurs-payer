@@ -413,13 +413,3 @@ D) Translate:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
 
-::: deleteme-box
-
-**lekt1801:** "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya." [Image source: Nagesh Rao / Wikipedia, GNU FDLicense]
-
-**lekt1802:** 1770 Print [Image source: Wikipedia, Public domain]
-
-**lekt1803:** ⟪गन्धार⟫ 1st/2nd cent. CE [Image source: Wikipedia, Public domain]
-
-**lekt1804:** Wedding = ⟪विवाह⟫ m., an important ⟪संस्कारः⟫ [Image source: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Accessed on 2008-12-08. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-:::

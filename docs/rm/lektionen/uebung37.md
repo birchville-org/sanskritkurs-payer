@@ -88,7 +88,7 @@ B) Traduscher:
 Devent in persuna, cun ina ferma comprensium, ir en la senilitad u restar a chasa cun ses figls?
 
 ⟪२⟫. **⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Conuscha il maister era la veritad? <!-- TODO: Fallback translation -->
+Conuscha il maister era la veritad?
 
 ⟪३⟫. **⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Sian ils Śūdras forsa servitgs da quels naschids duas giadas?
@@ -98,7 +98,7 @@ Ha il Śūdra forsa portà la carga?
 
 ---
 
-## Avyayībhāva (Composits indeclinabels) <!-- TODO: Fallback translation -->
+## Avyayībhāva (Composits indeclinabels)
 
 C) Determinar e traduscher ils suandants composits:
 

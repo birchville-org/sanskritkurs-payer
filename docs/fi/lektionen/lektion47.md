@@ -42,9 +42,9 @@ Esimerkit:
 
 ⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ tai optatiivi:  ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ "Toivon, että he syövät."
 
-⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ tai optatiivi: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ "Pitäisikö minun opiskella Veda?" <!-- TODO: Fallback translation -->
+⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ tai optatiivi: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ "Pitäisikö minun opiskella Veda?"
 
-⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ tai gerundiivi: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ "Tee veitsi!" ; "Sinun on saatava tehdä veitsi." ; "On aika, että teette veitsen." <!-- TODO: Fallback translation -->
+⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ tai gerundiivi: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ "Tee veitsi!" ; "Sinun on saatava tehdä veitsi." ; "On aika, että teette veitsen."
 
 ⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "Toivotan sinulle pitkän elämän!"
 :::
@@ -58,7 +58,7 @@ Esimerkit:
 
 ⟪निषद्यताम्⟫ ⟪।⟫ "Pyydän, istuudu!"
 :::
-Klassillisen sanskritin imperatiivissa ensimmäisen persoonan muodot ovat vanhoja konjunktivimuotoja. Vedinen konjunktivi on ennen kaikkea moodi, joka ilmaisee toivon: "Mennään!" "Lähdetään!" <!-- TODO: Fallback translation -->
+Klassillisen sanskritin imperatiivissa ensimmäisen persoonan muodot ovat vanhoja konjunktivimuotoja. Vedinen konjunktivi on ennen kaikkea moodi, joka ilmaisee toivon: "Mennään!" "Lähdetään!"
 
 ::: grammar-box
 Imperatiivi muodostetaan preesensvartalon varaan.
@@ -78,7 +78,7 @@ Imperatiivi muodostetaan preesensvartalon varaan.
 Huom.: ¹ Toisen ja kolmannen persoonan yksikön päätteen voi korvata -tātilla, jos halutaan ilmaista siunaustoivomus:
 
 ::: indent
-⟪भद्रो⟫ ⟪भवतात्⟫ "Ole onnellinen!" "Hänen olkoon onni!" <!-- TODO: Fallback translation -->
+⟪भद्रो⟫ ⟪भवतात्⟫ "Ole onnellinen!" "Hänen olkoon onni!"
 
 ⟪शुभं⟫ ⟪भवतु⟫ tai ⟪शुभं⟫ ⟪भवतात्⟫ "Olkoon hyvä!" "Kaikki hyvää!"
 :::
@@ -183,17 +183,17 @@ Kuva: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
 
 ⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥११॥⟫
 
-B.) Käännä sanskritiksi (käytä imperatiivia): <!-- TODO: Fallback translation -->
+B.) Käännä sanskritiksi (käytä imperatiivia):
 
 1\. Haluan tulla saatetuksi.
 
-2\. Hänen tulisi olla tyytyväinen. <!-- TODO: Fallback translation -->
+2\. Hänen tulisi olla tyytyväinen.
 
 3\. Halataan huutaa.
 
 4\. Taivutan itseni sinulle (⟪चतुर्थ्या⟫).
 
-5\. Tämän teon tulee tehdä. <!-- TODO: Fallback translation -->
+5\. Tämän teon tulee tehdä.
 
 6\. Heidän tulee nukkua (passiivirakenne).
 
@@ -209,11 +209,11 @@ Minä haluan katsella maailmaan.
 
 Meidän tulee mennä Benaresiin (⟪पद्⟫).
 
-Heidän (pl.) tulee palvoa jumalia uhraamalla uhripäällikköinä. <!-- TODO: Fallback translation -->
+Heidän (pl.) tulee palvoa jumalia uhraamalla uhripäällikköinä.
 
 Laula ylistyslaulu!
 
-15\. Minun tulee synnyttää poikia! <!-- TODO: Fallback translation -->
+15\. Minun tulee synnyttää poikia!
 
 16\. Näytän sinulle taloni.
 
@@ -249,18 +249,7 @@ Hänet tulee vapauttaa!
 
 32\. He (mon.) valloitettakoon!
 
-33\. Meidät johdattakoon sinun kauttasi. <!-- TODO: Fallback translation -->
+33\. Meidät johdattakoon sinun kauttasi.
 
-34\. Olkoon se onnea (tapahtukoon)! (Siunaus) <!-- TODO: Fallback translation -->
+34\. Olkoon se onnea (tapahtukoon)! (Siunaus)
 
-::: deleteme-box
-
-**lekt4702:** Hanumanin temppeli, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Kuvälähde: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Viitattu 9.1.2009. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Nimittäminen, ei muunnoksia)] <!-- TODO: Fallback translation -->
-
-**lekt4701:** [Kuvälähde: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Viitattu 9.1.2009. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
-
-**lekt4703:** [Kuvälähde: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Viitattu 10.1.2009. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimittäminen)] <!-- TODO: Fallback translation -->
-
-**lekt4704:** [Kuvälähde: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Viitattu 10.1.2009. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, ei muunnoksia)] <!-- TODO: Fallback translation -->
-
-:::

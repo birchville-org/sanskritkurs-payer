@@ -370,21 +370,3 @@ B) 翻译成梵语：
 （图片来源：[详情](/zh-CN/licenses#lekt4309)）
 :::
 
-::: deleteme-box
-
-**lekt4302.jpg**：Rita Willaert。-- http://www.flickr.com/photos/rietje/324020365/。-- 访问日期：2009-01-06。-- Creative Commons 许可协议（署名，非商业性使用）
-
-**lekt4303.jpg**：amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/。-- 访问日期：2009-01-06。-- Creative Commons 许可协议（署名，非商业性使用）
-
-**lekt4304.jpg**：mckaysavage。-- http://www.flickr.com/photos/mckaysavage/2085721947/。-- 访问日期：2009-01-06。-- Creative Commons 许可协议（署名）
-
-**lekt4305.jpg**：visio。-- http://www.flickr.com/photos/visio/421217297/。-- 访问日期：2009-01-06。-- Creative Commons 许可协议（署名，非商业性使用，相同方式共享）
-
-**lekt4306.jpg**：wildxplorer。-- http://www.flickr.com/photos/krayker/2123046126/。-- 访问日期：2009-001-06。-- Creative Commons 许可协议（署名，相同方式共享）
-
-**lekt4307.jpg**：Ray Witlin / 世界银行。-- http://www.flickr.com/photos/worldbank/2183198505/。-- 访问日期：2009-01-06。-- Creative Commons 许可协议（署名，非商业性使用，禁止演绎）
-
-**lekt4308.jpg**：G.-U. Tolkiehn / 维基百科。GNU FDLicense
-
-**lekt4309.jpg**：Carol Mitchell。-- http://www.flickr.com/photos/webethere/2178184852/。-- 访问日期：2009-01-07。-- Creative Commons 许可协议（署名，禁止演绎）
-:::

@@ -161,7 +161,7 @@ status: stable
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -181,7 +181,7 @@ status: stable
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. คำประสมวิเศษณ์
@@ -508,17 +508,3 @@ C) จงแปล ⟪अव्ययीभाव⟫ ต่อไปนี้:
 
 ครั้งหนึ่ง ชายชราผู้สูงวัยได้เดินทางไปยังหมู่บ้านอื่น ขณะกำลังเดินทางเขาเกิดเหนื่อยล้า เขาจึงเดินไปเพื่อพักผ่อนใต้ต้นมะม่วงที่ปลูกอยู่ข้างทาง บนต้นไม้นั้นมีผลไม้สุกเต็มไปหมด ชายชราเกิดอยากกินผลไม้นั้น แต่เขาไม่สามารถปีนขึ้นไปบนต้นไม้เพื่อเก็บผลไม้ได้ โชคดีที่บนต้นไม้นี้มีลิงบางตัวที่กำลังกินผลไม้ เมื่อเขาเห็นเช่นนี้ ชายชราจึงดีใจ เขาทำอะไร? เขานำก้อนหินมา beberapaก้อน แล้วเล็งไปยังลิงแล้วขว้างไป ลิงที่โกรธจัดจึงเก็บผลไม้บางชนิดแล้วขว้างลงมาใส่ชายชรา ชายชรารับผลไม้นั้นด้วยความยินดี แล้วเดินทางไปยังพื้นที่ที่เขาต้องการ ดูเถิด ชะตากรรมของชายชรา!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (ภาพประกอบ: ⟪क्व⟫): [แหล่งที่มาของภาพ: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- เข้าถึงเมื่อ 2008-12-30. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, ไม่มีงานดัดแปลง)]
-- **Image lekt3702.jpg** (ภาพประกอบ: ⟪यथाशक्ति⟫): [แหล่งที่มาของภาพ: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- เข้าถึงเมื่อ 2008-12-30. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, ไม่มีงานดัดแปลง)]
-- **Image lekt3703.jpg** (ภาพประกอบ: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [แหล่งที่มาของภาพ: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- เข้าถึงเมื่อ 2008-12-30. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, ไม่มีงานดัดแปลง)]
-- **Image lekt3704.jpg** (ภาพประกอบ: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [แหล่งที่มาของภาพ: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- เข้าถึงเมื่อ 2008-12-30. -- ใบอนุญาต Creative Commons (Attribution)]
-- **Image lekt3705.jpg** (ภาพประกอบ: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [แหล่งที่มาของภาพ: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- เข้าถึงเมื่อ 2008-12-31. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, ไม่มีงานดัดแปลง)]
-- **Image lekt3706.jpg** (ภาพประกอบ: ⟪वृक्षः⟫): Jaipur [แหล่งที่มาของภาพ: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- เข้าถึงเมื่อ 2008-12-31. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, share alike)]
-- **Image lekt3707.jpg** (ภาพประกอบ: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): ภาพวาดโดย ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [แหล่งที่มาของภาพ: Wikipedia. Public domain]
-- **Image lekt3708.jpg** (ภาพประกอบ: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [แหล่งที่มาของภาพ: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- เข้าถึงเมื่อ 2008-12-31. -- ใบอนุญาต Creative Commons (Attribution)]
-- **Image lekt3709.jpg** (ภาพประกอบ: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [แหล่งที่มาของภาพ: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- เข้าถึงเมื่อ 2008-12-31. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, ไม่มีงานดัดแปลง)]
-- **Image lekt3710.jpg** (ภาพประกอบ: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [แหล่งที่มาของภาพ: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- เข้าถึงเมื่อ 2008-12-31. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, share alike)]
-- **Image lekt3711.jpg** (ภาพประกอบ: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [แหล่งที่มาของภาพ: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- เข้าถึงเมื่อ 2008-12-31. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้ในเชิงพาณิชย์, ไม่มีงานดัดแปลง)]
-:::

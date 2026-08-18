@@ -1,10 +1,11 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "Μάθημα 13"
+subtitle: "PPP σε -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα 13
@@ -68,7 +69,7 @@ pad 4 PPP του Ā: panna 3 = ⟪पन्न⟫
 
 Μεταξύ των επιθηκών taddhita -mant και -vant σχηματίζονται επίθετα που δηλώνουν ιδιοκτησία από ουσιαστικά. Η σημασία τους είναι: "έχοντας αυτό που δηλώνεται από το υποκείμενο ουσιαστικό".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
 Παραδείγματα:
 

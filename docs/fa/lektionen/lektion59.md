@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # درس ۵9
 
@@ -784,10 +784,3 @@ _راهنمای ترجمه:_ مصراع ۶: ⟪दिदृक्षते⟫ \=
 :::
 متن از: اوتو بولتلیک، چرستوماتیه سنسکریت، ص ۱۲۷ و بعد
 
-::: deleteme-box
-
-**lekt5902:** [منبع تصویر: Henryart/Wikipedia. مالکیت عمومی] <!-- TODO: Fallback translation -->
-
-**lekt5903:** رقص کچاک، بالی (اندونزی) [منبع تصویر: Flying Pharmacist / Wikipedia. [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-sa/3.0/) (نسب، اشتراک یکسان)]
-
-:::

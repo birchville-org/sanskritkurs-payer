@@ -10,11 +10,11 @@ last_reconstructed: 2026-05-15
 
 # 60. gyakorlat
 
-A) Tanulja meg Kielhorn, Grammatik § 451 alapján az eddig tanult igék szabálytalan dezideratív képzéseit <!-- TODO: Fallback translation -->
+A) Tanulja meg Kielhorn, Grammatik § 451 alapján az eddig tanult igék szabálytalan dezideratív képzéseit
 
 B) Határozza meg és fordítsa le segédeszköz nélkül a következő alakokat:
 
-1.  ⟪ददुषोः⟫ - ⟪ददिवांस्⟫ Part.Perf.P a ⟪दा⟫ 3U-hoz Lok.Gen.du.m.n. a kettő / a kettőnél, akik adtak <!-- TODO: Fallback translation -->
+1.  ⟪ददुषोः⟫ - ⟪ददिवांस्⟫ Part.Perf.P a ⟪दा⟫ 3U-hoz Lok.Gen.du.m.n. a kettő / a kettőnél, akik adtak
 
 2.  ⟪अहिंसीः⟫ - ⟪हिंस्⟫ 7P 2.sg.Aor(5).P te megsebesítettél
 
@@ -24,19 +24,19 @@ B) Határozza meg és fordítsa le segédeszköz nélkül a következő alakokat
 
 5.  ⟪अक्षथाः⟫ - ⟪क्षन्⟫ 8U 2.sg.Aor(5/1).Ā te saját érdekedben megsebesítettél
 
-6.  ⟪मुमुषिषिष्यतः⟫ - ⟪मुष्⟫ 9P Desid. 3.du.Fut.P ők ketten lopni akarnak majd <!-- TODO: Fallback translation -->
+6.  ⟪मुमुषिषिष्यतः⟫ - ⟪मुष्⟫ 9P Desid. 3.du.Fut.P ők ketten lopni akarnak majd
 
-7.  ⟪अचिक्षंसेथाम्⟫ - ⟪क्षम्⟫ 1Ā Desid. 2.du.Ā ti ketten el akartátok viselni <!-- TODO: Fallback translation -->
+7.  ⟪अचिक्षंसेथाम्⟫ - ⟪क्षम्⟫ 1Ā Desid. 2.du.Ā ti ketten el akartátok viselni
 
 8.  ⟪अस्नाः⟫ - ⟪स्ना⟫ 2P 2.sg.Impf.P te fürödtél
 
-9.  ⟪जिहिंसुषि⟫ - ⟪हिंस्⟫ 7P Part.Perf.P Lok.sg.m.n. annál, aki megsebesített <!-- TODO: Fallback translation -->
+9.  ⟪जिहिंसुषि⟫ - ⟪हिंस्⟫ 7P Part.Perf.P Lok.sg.m.n. annál, aki megsebesített
 
-10.  ⟪जिहिंसिषुणा⟫ - ⟪जिहिंसिषु⟫ 3 (a ⟪हिंस्⟫ 7P dezideratívumához) Instr.sg.m.n. az által, aki megsebesíteni akar <!-- TODO: Fallback translation -->
+10.  ⟪जिहिंसिषुणा⟫ - ⟪जिहिंसिषु⟫ 3 (a ⟪हिंस्⟫ 7P dezideratívumához) Instr.sg.m.n. az által, aki megsebesíteni akar
 
-11.  ⟪द्युभिः⟫ - ⟪दिव्⟫ ⟪।⟫ ⟪द्यौ⟫ f. Instr.pl. az egek által <!-- TODO: Fallback translation -->
+11.  ⟪द्युभिः⟫ - ⟪दिव्⟫ ⟪।⟫ ⟪द्यौ⟫ f. Instr.pl. az egek által
 
-12.  ⟪जग्लिव⟫ - ⟪ग्लै⟫ 1P 1.du.Perf.P mi ketten ellenszenvet éreztünk <!-- TODO: Fallback translation -->
+12.  ⟪जग्लिव⟫ - ⟪ग्लै⟫ 1P 1.du.Perf.P mi ketten ellenszenvet éreztünk
 
 13.  ⟪अतिस्तीर्षम्⟫ - ⟪स्तॄ⟫ 5/9U Desid. 1.sg.Impf.P szórni kívántam
 
@@ -48,11 +48,11 @@ B) Határozza meg és fordítsa le segédeszköz nélkül a következő alakokat
 
 17.  ⟪रुरुषुः⟫ - ⟪रुष्⟫ 4/10P 3.pl.Perf.P ők megharagudtak
 
-18.  ⟪रुरुषिषुः⟫ - ⟪रुरुषिषु⟫ (a ⟪रुष्⟫ 4/10P dezideratívumához) Nom.sg.m. olyan, aki haragra akar gerjedni <!-- TODO: Fallback translation -->
+18.  ⟪रुरुषिषुः⟫ - ⟪रुरुषिषु⟫ (a ⟪रुष्⟫ 4/10P dezideratívumához) Nom.sg.m. olyan, aki haragra akar gerjedni
 
-19.  ⟪अपिप्रीणताम्⟫ - ⟪प्री⟫ 9U Kaus. 3.du.Aor(3).P ők ketten szerettettek <!-- TODO: Fallback translation -->
+19.  ⟪अपिप्रीणताम्⟫ - ⟪प्री⟫ 9U Kaus. 3.du.Aor(3).P ők ketten szerettettek
 
-20.  ⟪अपिप्रीषतम्⟫ - ⟪प्री⟫ 9U Desid. 2.du.Impf.P ti ketten szeretni kívántatok <!-- TODO: Fallback translation -->
+20.  ⟪अपिप्रीषतम्⟫ - ⟪प्री⟫ 9U Desid. 2.du.Impf.P ti ketten szeretni kívántatok
 
 21.  ⟪पिप्रियतुः⟫ - ⟪प्री⟫ 9U 3.du.Perf.P ők ketten szerettek
 
@@ -64,7 +64,7 @@ B) Határozza meg és fordítsa le segédeszköz nélkül a következő alakokat
 
 25.  ⟪बभासाते⟫ - ⟪भास्⟫ 1Ā 3.du.Perf.Ā ők ketten fénylettek
 
-26.  ⟪बिभासिषेथे⟫ - ⟪भास्⟫ 1Ā Desid. 2.du.Ind.Präs.Ā ti ketten fényleni akartok <!-- TODO: Fallback translation -->
+26.  ⟪बिभासिषेथे⟫ - ⟪भास्⟫ 1Ā Desid. 2.du.Ind.Präs.Ā ti ketten fényleni akartok
 
 27.  ⟪अबीभणत⟫ - ⟪भण्⟫ 1P Kaus. 2.pl.Aor(3).P ti leíratni engedtétek
 
@@ -76,7 +76,7 @@ B) Határozza meg és fordítsa le segédeszköz nélkül a következő alakokat
 
 31.  ⟪दिद्युतिषे⟫ - ⟪द्युत्⟫ 1Ā Desid. 1.sg.Ind.Präs.Ā fényleni kívánok
 
-32.  ⟪चुच्यूषवे⟫ - ⟪चुच्यूषु⟫ (a ⟪च्यु⟫ 1Ā dezideratívumához) Dat.sg.m.n. annak, aki mozogni kíván <!-- TODO: Fallback translation -->
+32.  ⟪चुच्यूषवे⟫ - ⟪चुच्यूषु⟫ (a ⟪च्यु⟫ 1Ā dezideratívumához) Dat.sg.m.n. annak, aki mozogni kíván
 
 33.  ⟪दित्सामि⟫ - ⟪दा⟫ 3U Desid. 1.sg.Ind.Präs.P adni kívánok
 
@@ -84,7 +84,7 @@ B) Határozza meg és fordítsa le segédeszköz nélkül a következő alakokat
 
 35.  ⟪विजिगीषौ⟫ - ⟪विजिगीषु⟫ (a ⟪वि⟫-⟪जि⟫ dezideratívumához) Lok.sg.m.n. a hódításra vágyónál
 
-36.  ⟪पित्सेथे⟫ -⟪पद्⟫ 4Ā Desid. 2.du.Ind.Präs.Ā ti ketten lépni kívántok <!-- TODO: Fallback translation -->
+36.  ⟪पित्सेथे⟫ -⟪पद्⟫ 4Ā Desid. 2.du.Ind.Präs.Ā ti ketten lépni kívántok
 
 
 37. ⟪उदीचि⟫ - ⟪उदञ्च्⟫ 3 Lok.sg.m.n. az északi
@@ -95,13 +95,13 @@ B) Határozza meg és fordítsa le segédeszköz nélkül a következő alakokat
 
 40. ⟪त्रिलोक्याः⟫ - ⟪त्रिलोकी⟫ f. Abi.Gen.sg. (a) hármas világból
 
-41. ⟪अहः⟫ - ⟪अहन्⟫ n. Nom.Akk.sg. a / nap <!-- TODO: Fallback translation -->
+41. ⟪अहः⟫ - ⟪अहन्⟫ n. Nom.Akk.sg. a / nap
 
 42. ⟪जग्मुषः⟫ - ⟪जग्मिवांस्⟫ ⟪।⟫ ⟪जगन्वांस्⟫ Part.Perf.P a ⟪गम्⟫ 1P Abi.Gen.sg.m.n.Akk.pl.m. annak, aki elment ...
 
 43. ⟪अताप्स्व⟫ - ⟪तप्⟫ 1P 1.duAor(4).P mi ketten izzottunk
 
-44. ⟪ईशिशिषाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Desid. 1.3.sg.PeriphPerf.Ā én / ő kívánta uralkodni <!-- TODO: Fallback translation -->
+44. ⟪ईशिशिषाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Desid. 1.3.sg.PeriphPerf.Ā én / ő kívánta uralkodni
 
 45. ⟪ईशाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā 1.3.sg.PeriphPerf.ġ én / ő uralkodott
 

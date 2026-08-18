@@ -784,10 +784,3 @@ _翻译辅助：_ 第6句：⟪दिदृक्षते⟫ \= 欲求态，源
 :::
 文本出自：奥托·博特林克：《梵文选读》第127-128页
 
-::: deleteme-box
-
-**lekt5902:** [Bildquelle: Henryart/Wikipedia. Gemeinfrei]
-
-**lekt5903:** Kecak舞蹈，巴厘岛（印度尼西亚）[图片来源：Flying Pharmacist / 维基百科。[知识共享许可协议](http://creativecommons.org/licenses/by-sa/3.0/)（署名，相同方式共享）]
-
-:::

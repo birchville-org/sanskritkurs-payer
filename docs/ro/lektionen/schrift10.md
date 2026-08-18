@@ -26,7 +26,7 @@ Exemple (excepțiile sunt subliniate):
 
 ### Exercițiu
 
-Scrieți toate ligaturile menționate mai sus <!-- TODO: Fallback translation -->
+Scrieți toate ligaturile menționate mai sus
 
 ### Lista celor mai frecvente ligaturi în fontul gramaticii lui Kielhorn
 

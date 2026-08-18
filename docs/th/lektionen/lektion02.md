@@ -5,7 +5,7 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
---- <!-- TODO: Fallback translation -->
+---
 
 # บทที่ 2
 
@@ -72,7 +72,7 @@ last_reconstructed: 2026-04-30
 
 ดูสรุปเพิ่มเติม:
 
-> **Payer, Alois (1944–):** สันธิของ -s ที่ออกเสียงท้าย. -- (วัสดุสำหรับภาษาสันสกฤต). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm <!-- TODO: Fallback translation -->
+> **Payer, Alois (1944–):** สันธิของ -s ที่ออกเสียงท้าย. -- (วัสดุสำหรับภาษาสันสกฤต). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 การลงท้ายด้วย **-s**:
 

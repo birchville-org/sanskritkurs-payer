@@ -1,10 +1,11 @@
 ---
-title: Lektion 48
-subtitle: "⟪सुभाषितानि⟫"
+title: "पाठ 48"
+subtitle: "⟪⟪सुभाषितानि⟫⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # पाठ ४८
@@ -405,23 +406,3 @@ B) संस्कृत में अनुवाद करें (इसमे
 व्याख्या:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual to ⟪द्वे⟫ ⟪कुले⟫ "दो परिवार"
 
-::: deleteme-box
-
-**लेखक4801:** [⟪छवि⟫ ⟪स्रोत⟫: गुनलागुर थ. ब्रिएम। -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/)। -- 10 ⟪जनवरी⟫ 2009 ⟪को⟫ ⟪एक्सेस⟫ ⟪किया⟫ ⟪गया⟫। -- [क्रीएटिव कॉमन्स ⟪लाइसेंस⟫](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (⟪नाम⟫ ⟪देना⟫, ⟪गैर⟫-⟪वाणिज्यिक⟫ ⟪उपयोग⟫, शेयर अलाइक)]
-
-**lekt4802:** Sualkuchi = सुवालकुचि, Assam = असम [⟪छवि⟫ ⟪स्रोत⟫: केन मैक्चेस्नी. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- १० ⟪जनवरी⟫ २००९ ⟪को⟫ ⟪एक्सेस⟫ ⟪किया⟫ ⟪गया⟫. -- [Creative Commons ⟪लाइसेंस⟫](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (⟪नाम⟫ ⟪देना⟫, ⟪गैर⟫-⟪वाणिज्यिक⟫ ⟪उपयोग⟫, साझा समान)]
-
-**lekt4803:** सितार वादक = ⟪⟪सितारवादकः⟫⟫ [⟪छवि⟫ ⟪स्रोत⟫: विкиपीडिया। सार्वजनिक क्षेत्र]
-
-**lekt4804:** [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [छवि स्रोत: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- 10 जनवरी 2009 को एक्सेस किया गया. -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (नाम देना, गैर-वाणिज्यिक उपयोग)]
-
-**लेखन4805:** ताइपुसम उत्सव = தைப்பூசम्, बतू कवेस्, मलेशिया [⟪छवि⟫ ⟪स्रोत⟫: तजै। -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/)। -- १० ⟪जनवरी⟫ २००९ ⟪को⟫ ⟪एक्सेस⟫ ⟪किया⟫ ⟪गया⟫। -- [रचनात्मक साझाकरण ⟪लाइसेंस⟫](http://creativecommons.org/licenses/by/2.0/deed.de) (⟪नाम⟫ ⟪देना⟫)]
-
-**lekt4806:** ⟪नेपाल⟫ [छवि स्रोत: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- 10 जनवरी 2009 को एक्सेस किया गया. -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (नाम देना, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
-
-**lekt4807:** ⟪जोधपुर⟫ [छवि स्रोत: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- 10 जनवरी 2009 को एक्सेस किया गया. -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (नाम देना, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
-
-**lekt4808:** करंजी झील = ಕಾರಂಜಿ ಕೆರೆ [⟪छवि⟫ ⟪स्रोत⟫: नागेश कमाथ. -- [http://www.flickr.com/photos/nagesh_kamath/2791791571/](http://www.flickr.com/photos/nagesh_kamath/2791791571/). -- 10 ⟪जनवरी⟫ 2009 ⟪को⟫ ⟪एक्सेस⟫ ⟪किया⟫ ⟪गया⟫. -- [रचनात्मक साझाकरण ⟪लाइसेंस⟫](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (⟪नाम⟫ ⟪देना⟫, समान-अधिकार)]
-
-**lekt4809:** (चित्र: पeyer)
-:::

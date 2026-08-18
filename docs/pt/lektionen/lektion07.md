@@ -5,18 +5,10 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 7
 
-::: deleteme-box
-**Nesta lição, você aprenderá:**
-- A oração verbal com objeto direto
-- O acusativo dos nomes e pronomes
-- O sandhi do -n final
-- O neutro dos temas em -a
-- As classes do presente atemático (usando a 5ª classe como exemplo)
-:::
 
 ::: center
 **Versículo da semana**

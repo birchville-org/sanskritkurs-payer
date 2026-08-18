@@ -176,7 +176,7 @@ z.B.
 
 = "ⲡⲓϧⱦⱫⲙ ⲛⲁⲃⲣⲉⲙⱫⲛ, ⲕϧⲥⲁⲣⲣⱫⲛ ⲉⲑ ⱡⲓϫⱫⲥ"
 :::
-Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen. <!-- TODO: Fallback translation -->
+Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen.
 
 z.B.
 
@@ -582,18 +582,5 @@ B) Lösen Sie folgende Tatpuruṣa auf:
 ![](/images/lekt1509.webp)
 Abb.: ⟪नागदेवाः⟫
 (Bildquelle: [Details](/licenses#lekt1509))
-:::
-
-::: deleteme-box
-
-- **ⲁϥⲃ.:** ⟪लक्ष्मी⟫** (Lakshmi): ⲡⲓϧⲟⲩⲛ ϫⲉ ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Ⲡⲓϧⲟⲩⲛ: Wikipedia, Public domain.
-- **ⲁϥⲃ.:** ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Ⲡⲓϧⲟⲩⲛ: Wikipedia, Public domain.
-- **ϧⲓⲙⲛⲏⲧ** (lekt1502.jpg): ⲡⲓϫⲱⲙ ϫⲉ ⲛⲁⲕⲟϥ. Ⲡⲓϧⲟⲩⲛ: Alois Payer / Original-Kursgrafik.
-- **ⲁϥⲃ.:** ⟪पूजा⟫** (Puja): ⲡⲓϧⲟⲩⲛ ϫⲉ ⲡⲓϣⲟⲡⲛ ϫⲉ Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Ⲡⲓϧⲟⲩⲛ: Wikipedia, Public domain.
-- **ⲁϥⲃ.:**  ⟪इन्द्रः⟫** (Indra): ⲡⲓϧⲟⲩⲛ ϫⲉ Panchakalyanaka, Rajasthan, Amber. Ⲡⲓϧⲟⲩⲛ: Wikipedia, Public domain.
-- **ⲁϥⲃ.:** ⟪सिंहः⟫** (Lion): Panthera leo persica. Ⲡⲓϧⲟⲩⲛ: Wikipedia, GNU FDLicense.
-- **ⲁϥⲃ.:** ⟪व्याघ्रः⟫** (Tiger): Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Ⲡⲓϧⲟⲩⲛ: U.S. Fish and Wildlife Service / Wikipedia, Public domain.
-- **ⲁϥⲃ.:** ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Ⲡⲓϧⲟⲩⲛ: ganuullu (Flickr), Creative Commons Lizenz.
-- **ⲁϥⲃ.:** ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Ⲡⲓϧⲟⲩⲛ: Dineshkannambadi / Wikipedia, GNU FDLicense.
 :::
 

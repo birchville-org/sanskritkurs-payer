@@ -1,4 +1,4 @@
-# Sisällysluettelo <!-- TODO: Fallback translation -->
+# Sisällysluettelo
 
 ## [Luento 1](lektion01)
 
@@ -7,7 +7,7 @@
 *   1\. Kirjallisuutta indologian aloittelijoille
 *   2\. Sanskritin äänteet perinteisen intialaisen luokittelun ja tieteellisen translitteraation mukaan
 *   2.1. Yksittäisten äänteiden lausumisesta
-*   3\. Harjoitus <!-- TODO: Fallback translation -->
+*   3\. Harjoitus
 
 ## [Luento 2](lektion02)
 
@@ -30,7 +30,7 @@
 *   4\. Vokaalisandhi
 *   5\. Lauseensandhi vartalon -ās päätteellä
 *   6\. Sanalista
-*   7\. Harjoitus <!-- TODO: Fallback translation -->
+*   7\. Harjoitus
 
 ## [Luento 4](lektion04)
 
@@ -44,7 +44,7 @@ Puhuttu sanskritti
 *   1.3. Sandhi vartalon -e päätteellä
 *   1.4. Sandhi vartalon -d päätteellä
 *   1.5. Kysymyslauseet
-*   2\. Harjoitus <!-- TODO: Fallback translation -->
+*   2\. Harjoitus
 
 ## [Luento 5](lektion05)
 
@@ -54,7 +54,7 @@ Puhuttu sanskritti
 *   3.1. Kompositumien etuliitteet
 *   3.2. Monikon Itaretaradvandva
 *   4\. Sanalista
-*   5\. Harjoitus <!-- TODO: Fallback translation -->
+*   5\. Harjoitus
 
 ## [Luento 6](lektion06)
 
@@ -89,7 +89,7 @@ Viikon sanonta
 *   5.1. Primääripäätteet kolmannessa persoonassa monikossa atemaattisilla preesensvartaloilla
 *   5.2. Preesensluokka 5 (svādi = ⟪स्वादि⟫ = "su jne."
 *   6\. Sanalista
-*   7\. Harjoitus <!-- TODO: Fallback translation -->
+*   7\. Harjoitus
 
 
 ## [Luento 8](lektion08)
@@ -105,7 +105,7 @@ Viikon sanonta
 *   4\. 8. preesensluokka (tanādi = ⟪तनादि⟫ = "tan jne.")
 *   5\. Sanalista
 *   6\. Harjoitus
-*   7\. Luku- ja käännösharjoitus <!-- TODO: Fallback translation -->
+*   7\. Luku- ja käännösharjoitus
 
 ## [Luento 9](lektion09)
 
@@ -127,7 +127,7 @@ Viikon sanonta
 *   5\. Sanalista
 *   6\. Harjoitus
 *   7\. Sanalista 2
-*   8\. Luku- ja käännösharjoitus <!-- TODO: Fallback translation -->
+*   8\. Luku- ja käännösharjoitus
 
 ## [Luento 11](lektion11)
 
@@ -164,7 +164,7 @@ Viikon sanonta
 *   8\. Vartaloiden -mant ja -vant deklinaatio
 *   9\. Sanalista
 *   10\. Harjoitus
-*   11\. Toistoharjoitus <!-- TODO: Fallback translation -->
+*   11\. Toistoharjoitus
 
 ## [Luento 14](lektion14)
 
@@ -173,7 +173,7 @@ Viikon sanonta
 *   3\. Lisää genetiivin käytöstä (⟪षष्ठी⟩)
 *   4\. Sanalista
 *   5\. Subhāṣitāni = ⟪सुभाषितानि⟩ = Sananlaskut
-*   6\. Harjoitus <!-- TODO: Fallback translation -->
+*   6\. Harjoitus
 
 ## [Luento 15](lektion15)
 
@@ -219,7 +219,7 @@ Viikon sanonta
 *   3.1. Nominaalijohdokset verbiyhdyssanoista
 *   4\. Sanalista
 *   5\. Harjoitus
-*   6\. Toistoharjoitus <!-- TODO: Fallback translation -->
+*   6\. Toistoharjoitus
 
 ## [Luento 19](lektion19)
 
@@ -252,7 +252,7 @@ Viikon sanonta
 *   2\. Lopun nasaalien sandhi
 *   3\. Kohteliaat puhuttelumuodot
 *   4\. Sanalista
-*   5\. Harjoitus <!-- TODO: Fallback translation -->
+*   5\. Harjoitus
 
 ## [Luento 22](lektion22)
 
@@ -287,7 +287,7 @@ Viikon sanonta
 *   3\. Lopun -ai ja -au sandhi
 *   4\. Sanalista
 *   5\. Harjoitus
-*   6\. Lisää harjoituksia datiiivin käytöstä <!-- TODO: Fallback translation -->
+*   6\. Lisää harjoituksia datiiivin käytöstä
 
 ## [Luento 25](lektion25)
 
@@ -301,7 +301,7 @@ Viikon sanonta
 *   8\. Käännösharjoitus
 
 
-## [Lektion 26](lektion26) <!-- TODO: Fallback translation -->
+## [Lektion 26](lektion26)
 
 *   1\. Cerebralisaatiolaki sanan sisäiselle -s:lle
 *   2\. Cerebralisaatiolaki sanan sisäisille dentaalikonsonanteille
@@ -312,7 +312,7 @@ Viikon sanonta
 *   7\. Yksinkertaisen tulevaisuuden muodostus (⟪ऌत्⟫, ⟪भविष्यन्ती⟩  f.)
 *   8\. Harjoitus
 
-## [Lektion 27](lektion27) <!-- TODO: Fallback translation -->
+## [Lektion 27](lektion27)
 
 *   1\. Lokatiivin käyttö (⟪सप्तमी⟫ f. = "seitäs käyntäpäätteet")
 *   2\. Lokatiivin muodostus (⟪सप्तमी⟫)
@@ -337,9 +337,9 @@ Viikon sanonta
 *   7.11. Maskuliinit ja neutrit -vant / -mant-päätteisillä: ⟪गुणवन्त्⟫
 *   7.12. Demonstratiivipronominit: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
 *   7.13. Relatiivipronomi: ⟪यद्⟫
-*   7.14. Kysymyspronomi: ⟪किम्⟫ <!-- TODO: Fallback translation -->
+*   7.14. Kysymyspronomi: ⟪किम्⟫
 
-## [Lektion 28](lektion28) <!-- TODO: Fallback translation -->
+## [Lektion 28](lektion28)
 
 *   1\. Kausatiivi (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 *   2\. Kausatiivin lauserakenne (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
@@ -353,14 +353,14 @@ Viikon sanonta
 *   10\. Sanalista
 *   11\. Harjoitus
 
-## [Lektion 29](lektion29) <!-- TODO: Fallback translation -->
+## [Lektion 29](lektion29)
 
 *   1\. Parasmaipadan ja Ātmanepadan käyttö kausatiivissa
 *   2\. Sanalista
 *   3\. Käännösharjoitus toistoa varten
 *   4\. Tulevaisuus ja kausatiivi aiemmin opetuille juurille
 
-## [Lektion 30](lektion30) <!-- TODO: Fallback translation -->
+## [Lektion 30](lektion30)
 
 *   1\. Yhdeksäs preesensluokka (⟪क्र्यादि⟫ = "⟪क्री⟫ jne.")
 *   2\. Optatiivin käyttö (⟪लिङ्⟫)
@@ -371,15 +371,15 @@ Viikon sanonta
 *   5\. Sanasandhi loppuun tulevalle -r:lle
 *   6\. Sanalista
 *   7\. Harjoitus
-*   8\. Muoto-oppiin liittyvä toistoharjoitus <!-- TODO: Fallback translation -->
+*   8\. Muoto-oppiin liittyvä toistoharjoitus
 
-## [Lektion 31](lektion31) <!-- TODO: Fallback translation -->
+## [Lektion 31](lektion31)
 
 *   1\. Seitsemäs preesensluokka (⟪रुधादि⟫ = "⟪रुध्⟫ jne.")
 *   2\. Sanalista
-*   3\. Harjoitus <!-- TODO: Fallback translation -->
+*   3\. Harjoitus
 
-## [Lektion 32](lektion32) <!-- TODO: Fallback translation -->
+## [Lektion 32](lektion32)
 
 *   1\. Menneisajan aikamuodot
 *   2\. Imperfekti (⟪लङ्⟫)
@@ -389,10 +389,10 @@ Viikon sanonta
 *   4.2. Atemaattiset preesensluokat
 *   5\. Sanalista
 *   6\. Harjoitus
-*   7\. Joululomien aikainen toistoharjoitus <!-- TODO: Fallback translation -->
+*   7\. Joululomien aikainen toistoharjoitus
 
 
-## [Lektion 33](lektion33) <!-- TODO: Fallback translation -->
+## [Lektion 33](lektion33)
 
 *   1\. Reduplikatio (⟪अभ्यास⟫ m.)
 *   1.1. Reduplikationskonsonant
@@ -405,7 +405,7 @@ Viikon sanonta
 *   6\. Lexicon
 *   7\. Exercitatio
 
-## [Lektion 34](lektion34) <!-- TODO: Fallback translation -->
+## [Lektion 34](lektion34)
 
 *   1\. Perfectum (⟪लिट्⟫)
 *   2\. Perfectum reduplicatum (⟪द्वित्वलिट्⟫)
@@ -421,7 +421,7 @@ Viikon sanonta
 *   7\. Exercitatio
 *   8\. Exercitatio translationis
 
-## [Lektion 35](lektion35) <!-- TODO: Fallback translation -->
+## [Lektion 35](lektion35)
 
 *   1\. Perfectum typus III: radix fortis gradu superiori/longiori
 *   1.1. Perfectum typus IIIa: radix fortis gradu superiori/longiori, radix infirma gradu inferiori
@@ -434,7 +434,7 @@ Viikon sanonta
 *   4\. Lexicon
 *   5\. Exercitatio
 
-## [Lektion 36](lektion36) <!-- TODO: Fallback translation -->
+## [Lektion 36](lektion36)
 
 *   1\. Formae speciales perfecti
 *   2\. Perfectum periphrasticum (⟪अनुप्रयोगलिट्⟫)
@@ -445,7 +445,7 @@ Viikon sanonta
 *   7\. Exercitatio translationis
 *   8\. Exercitatio repetitiva morphologiae
 
-## [Lektion 37](lektion37) <!-- TODO: Fallback translation -->
+## [Lektion 37](lektion37)
 
 *   1\. Adverbium (⟪क्रियाविशेषनम्⟫)
 *   2\. Usus adverbialis casuum formis
@@ -470,7 +470,7 @@ Viikon sanonta
 *   10\. Exercitatio
 *   11\. Exercitatio repetitiva
 
-## [Lektion 38](lektion38) <!-- TODO: Fallback translation -->
+## [Lektion 38](lektion38)
 
 *   1\. Solutiones hebdomadis
 *   2\. Mutatio phonetica nasaliun in verbo
@@ -489,7 +489,7 @@ Viikon sanonta
 *   12\. Exercitatio translationis
 
 
-## [Lektion 39](lektion39) <!-- TODO: Fallback translation -->
+## [Lektion 39](lektion39)
 
 *   1\. Ensuffiksien ensimmäisen persoonan muodoissa (⟪तृतीयः⟫ ⟪पुरुषः⟫ = "kolmas persoona")
 *   2\. Ensimmäisen persoonan muotojen muodostaminen temattisissa preesensvartaloissa
@@ -508,9 +508,9 @@ Viikon sanonta
 *   4.4. Kahdeksas preesensluokka (⟪तनादि⟫)
 *   4.5. Seitsemäs preesensluokka (⟪रुधादि⟫)
 *   4.6. Yhdeksäs preesensluokka (⟪क्र्यादि⟫)
-*   5\. Harjoitus <!-- TODO: Fallback translation -->
+*   5\. Harjoitus
 
-## [Lektion 40](lektion40) <!-- TODO: Fallback translation -->
+## [Lektion 40](lektion40)
 
 *   1\. ⟪सुभाषितानि⟫
 *   2\. Ensimmäisen persoonan muotojen muodostaminen perfekti (⟪लिट्⟫)
@@ -530,9 +530,9 @@ Viikon sanonta
 *   5\. Persoonapronominit (⟪पुरुषार्थकसर्वनाम⟩) 1. persoonan yksikkö ja monikko
 *   6\. Sanalista
 *   7\. Harjoitus
-*   8\. Toistoharjoitus muoto-opista <!-- TODO: Fallback translation -->
+*   8\. Toistoharjoitus muoto-opista
 
-## [Lektion 41](lektion41) <!-- TODO: Fallback translation -->
+## [Lektion 41](lektion41)
 
 *   1\. ⟪सुभाषिते⟩ (kaksi sananlaskua)
 *   2\. Lisää ⟪कृत्⟩-muodostuksia päätteellä -a
@@ -548,10 +548,10 @@ Viikon sanonta
 *   2.4. Eroja gerundiumliiteosien käytössä
 *   2.5. Ei yhteyttä ⟪सु⟩- ja ⟪दुस्⟩-
 *   3\. Sanalista
-*   4\. Harjoitus <!-- TODO: Fallback translation -->
+*   4\. Harjoitus
 
 
-## [Lektion 42](lektion42) <!-- TODO: Fallback translation -->
+## [Lektion 42](lektion42)
 
 *   1\. Stammien päättyvät -ṛ
 *   1.1. Stammien, joissa on vahvassa muodossa pidennysaste
@@ -561,9 +561,9 @@ Viikon sanonta
 *   2\. Sanalista
 *   2.1. Joitakin sukulaisuuden ilmaisuja
 *   3\. Harjoitus
-*   4\. Käännösharjoitus <!-- TODO: Fallback translation -->
+*   4\. Käännösharjoitus
 
-## [Lektion 43](lektion43) <!-- TODO: Fallback translation -->
+## [Lektion 43](lektion43)
 
 *   1\. Persoonapäätteet toiselle persoonalle (⟪मध्यमः⟫ = "keski ⟨Person\>")
 *   2\. Toisen persoonan verbin muodostus (⟪मध्यमः⟫)
@@ -581,7 +581,7 @@ Viikon sanonta
 *   5\. Harjoitus
 *   6\. ⟪संवादः⟫ = Keskustelu
 
-## [Lektion 44](lektion44) <!-- TODO: Fallback translation -->
+## [Lektion 44](lektion44)
 
 *   1.  Toisen persoonan verbin muodostus (⟪मध्यमः⟫) atemaattisten Stammien, joissa on vokaalipäätteinen liite
 *   1.1. Viides preesensluokka (⟪स्वादि⟫)
@@ -595,18 +595,18 @@ Viikon sanonta
 *   4\. Vokatiivi (⟪आमन्त्रितम्⟫)
 *   5\. Sanalista
 *   6\. Harjoitus
-*   7\. Toistoharjoitus muoto-opissa <!-- TODO: Fallback translation -->
+*   7\. Toistoharjoitus muoto-opissa
 
-## [Lektion 45](lektion45) <!-- TODO: Fallback translation -->
+## [Lektion 45](lektion45)
 
 *   1\. Toisen persoonan verbin muodostus (⟪मध्यमः⟫) atemaattisten Stammien, joissa ei ole vokaalipäätteistä liitettä (jatkuu)
 *   1.1. Kolmas preesensluokka (⟪जुहोत्यादि⟫)
 *   1.2. Seitsemäs preesensluokka (⟪रुधादि⟫)
 *   2\. Vokatiivin yksikkö (⟪आमन्त्रितमेकवचने⟫)
 *   3\. Sanalista
-*   4\. Harjoitus <!-- TODO: Fallback translation -->
+*   4\. Harjoitus
 
-## [Lektion 46](lektion46) <!-- TODO: Fallback translation -->
+## [Lektion 46](lektion46)
 
 *   1\. Toisen persoonan verbin muodostus (⟪मध्यमः⟫) perfekti (⟪लिट्⟫)
 *   1.1. Päätteet
@@ -624,10 +624,10 @@ Viikon sanonta
 *   1.8. Erityiset perfektimuodostukset
 *   1.9. Perifraattinen perfekti (⟪अनुप्रयोगलिट्⟫)
 *   2\. Sanalista
-*   3\. Harjoitus <!-- TODO: Fallback translation -->
+*   3\. Harjoitus
 
 
-## [Lektion 47](lektion47) <!-- TODO: Fallback translation -->
+## [Lektion 47](lektion47)
 
 *   1\. Imperatiivi (⟪लोट्⟫)
 *   2\. Imperatiivin muodostus (⟪लोट्⟩) temattisten preesensvartalojen osalta
@@ -639,7 +639,7 @@ Viikon sanonta
 *   2.6. Passiivi
 *   3\. Harjoitukset
 
-## [Lektion 48](lektion48) <!-- TODO: Fallback translation -->
+## [Lektion 48](lektion48)
 
 *   1\. ⟪सुभाषितानि⟩
 *   2\. Imperatiivin muodostus (⟪लोट्⟩) atemaattisten preesensvartalojen osalta
@@ -652,7 +652,7 @@ Viikon sanonta
 *   5\. Harjoitukset
 *   6\. Käännösharjoitus
 
-## [Lektion 49](lektion49) <!-- TODO: Fallback translation -->
+## [Lektion 49](lektion49)
 
 *   1\. Imperatiivin muodostus (⟪लोट्⟩) atemaattisten preesensvartalojen osalta (jatkuu)
 *   1.1. Seitsemäs preesensluokka (⟪रुधादि⟩)
@@ -663,15 +663,15 @@ Viikon sanonta
 *   3\. Nominaalinen johdanto: ⟪कृत्⟩-liite -as neutri
 *   4\. Sanalista
 *   5\. Toistoharjoitus muoto-opista
-*   6\. Käännösharjoitus <!-- TODO: Fallback translation -->
+*   6\. Käännösharjoitus
 
-## [Lektion 50](lektion50) <!-- TODO: Fallback translation -->
+## [Lektion 50](lektion50)
 
 *   1\. Nominaalinen johdanto: säännöllinen vertaus
 *   2\. Sanalista
-*   3\. Käännösharjoitus <!-- TODO: Fallback translation -->
+*   3\. Käännösharjoitus
 
-## [Lektion 51](lektion51) <!-- TODO: Fallback translation -->
+## [Lektion 51](lektion51)
 
 *   1\. ⟪उपपद⟩-yhdyssanat
 *   2\. Vartalojen taivutus, jotka päättyvät yksinkertaiseen konsonanttiin (paitsi nasali, puolivokaali, -s)
@@ -682,9 +682,9 @@ Viikon sanonta
 *   4\. Sandhi alussa olevalla ch-:llä
 *   5\. -ch- sanan sisällä
 *   6\. Sanalista
-*   7\. Käännösharjoitus <!-- TODO: Fallback translation -->
+*   7\. Käännösharjoitus
 
-## [Lektion 52](lektion52) <!-- TODO: Fallback translation -->
+## [Lektion 52](lektion52)
 
 *   1\. Neutri vartaloista -i ja -u
 *   2\. Nominaalinen johdanto
@@ -707,9 +707,9 @@ Viikon sanonta
 *   6.5\. Yhdyssanat, joissa kardinaaliluku etuosassa
 *   7\. Sanalista
 *   8\. Käännösharjoitus
-*   9\. Tehtävät lukukauden aikana <!-- TODO: Fallback translation -->
+*   9\. Tehtävät lukukauden aikana
 
-## [Lektion 53](lektion53) (lukukausi) <!-- TODO: Fallback translation -->
+## [Lektion 53](lektion53) (lukukausi)
 
 *   1\. Kaksikko (⟪द्विवचन⟩ n.) substantiiveissa
 *   2\. Substantiivin kaksikon päätökset
@@ -727,10 +727,10 @@ Viikon sanonta
 *   10.2\. Metrien lajit
 *   10.3\. Tavujen metrisen pituuden määrittäminen
 *   10.4\. Epicinen śloka (⟪श्लोक⟩ m.)
-*   11\. Harjoitukset <!-- TODO: Fallback translation -->
+*   11\. Harjoitukset
 
 
-## [Lektion 54](lektion54) <!-- TODO: Fallback translation -->
+## [Lektion 54](lektion54)
 
 *   1\. Alkuperäinen huomautus
 *   2\. Sananmuodostus: ⟪कृत्⟫-liite -u toivejuurten varassa
@@ -741,26 +741,26 @@ Viikon sanonta
 *   6.1. Aoristin 3.sg.passiivin muoto
 *   7\. Harjoitus
 
-## [Lektion 55](lektion55) <!-- TODO: Fallback translation -->
+## [Lektion 55](lektion55)
 
 *   1\. a-Aoristit (aoristit tematiivisella vokaalilla)
 *   2\. Harjoitus
 
-## [Lektion 56](lektion56) <!-- TODO: Fallback translation -->
+## [Lektion 56](lektion56)
 
 *   1\. Reduplikoidut aoristit
 *   1.1. Kausatiivien ja kymmenennen preesensluokan juurten aoristit
 *   2\. Injunktivi
 *   3\. Kielto-lauseet
 *   4\. ⟪स्म⟫
-*   5\. Harjoitus <!-- TODO: Fallback translation -->
+*   5\. Harjoitus
 
-## [Lektion 57](lektion57) <!-- TODO: Fallback translation -->
+## [Lektion 57](lektion57)
 
 *   1\. Aorist 4: s-aoristit
 *   2\. Harjoitus
 
-## [Lektion 58](lektion58) <!-- TODO: Fallback translation -->
+## [Lektion 58](lektion58)
 
 *   1\. Dualin primääriset pääteformit (⟪द्विवचनम्⟫)
 *   2\. Duali tematiivisissa preesensluokissa: indikatiivin preesens (⟪लट्⟫)
@@ -780,9 +780,9 @@ Viikon sanonta
 *   5.5. Seitsemäs preesensluokka (⟪रुधादिगणः⟫)
 *   5.6. Yhdeksäs preesensluokka (⟪क्र्यादिगणः⟫)
 *   6\. Aoristit 5: iṣ-aoristit
-*   7\. Harjoitus <!-- TODO: Fallback translation -->
+*   7\. Harjoitus
 
-## [Lektion 59](lektion59) <!-- TODO: Fallback translation -->
+## [Lektion 59](lektion59)
 
 *   1\. Dualin sekundaariset pääteformit ja imperatiivin päät (⟪द्विवचनम्⟫)
 *   2\. Duali tematiivisissa preesensluokissa: optatiivi (⟪विधिलिङ्⟫), imperfekti (⟪लङ्⟫), imperatiivi (⟪लोट्⟫)
@@ -806,9 +806,9 @@ Viikon sanonta
 *   4.5\. iṣ-Aoristit
 *   5\. Aorist (⟪लुङ्⟫) 6: siṣ-aoristit (vain aktiivi)
 *   6\. Aorist (⟪लुङ्⟫) 7: sa-aoristit (tematiiviset s-aoristit)
-*   7\. Harjoitus <!-- TODO: Fallback translation -->
+*   7\. Harjoitus
 
-## [Lektion 60](lektion60) <!-- TODO: Fallback translation -->
+## [Lektion 60](lektion60)
 
 *   1\. Perfektin dualin päät (⟪द्विवचनम्⟫)
 *   2\. Reduplikoidun perfektin duali (⟪द्वित्वलिट्⟫)
@@ -830,10 +830,10 @@ Viikon sanonta
 *   6\. Toive (⟪सन्⟫)
 *   6.1\. Toivevartalon muodostus
 *   6.2\. Toiveen konjugaatio (⟪सन्⟫)
-*   7\. Harjoitus <!-- TODO: Fallback translation -->
+*   7\. Harjoitus
 
 
-## [Lektion 61](lektion61) <!-- TODO: Fallback translation -->
+## [Lektion 61](lektion61)
 
 *   1\. Juuren substantiivien deklinaatio päättymillä -ā, -ī, -ū
 *   1.1. Juuren substantiivit päättymällä -ā kohdassa ⟪तत्पुरुष⟫
@@ -859,7 +859,7 @@ Viikon sanonta
 *   8\. Loput pronominit
 *   8.1. Henkilöpronominin duali
 *   8.2. Demonstratiivipronomini ⟪अदस्⟫ "tuo (kaukainen)"
-*   9\. Lopetus sanskritinkirjallisuuden valtamereeseen: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ <!-- TODO: Fallback translation -->
+*   9\. Lopetus sanskritinkirjallisuuden valtamereeseen: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 SANSKRITKURSSIN PÄÄTTYminen
 

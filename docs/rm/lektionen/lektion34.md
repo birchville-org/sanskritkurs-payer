@@ -6,7 +6,7 @@ status: stable
 
 # Lecziun 34
 
-## 34.1. Das Perfekt (⟪लिट्⟫) <!-- TODO: Fallback translation -->
+## 34.1. Das Perfekt (⟪लिट्⟫)
 
 En il sanscrit classic n'existan dal tema dal perfect mo l'indicativ ed il particip.
 
@@ -90,7 +90,7 @@ Exemples:
 | Radis | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
 ### 34.2.5. Reduplikaziun da radichs cun cumenzament vocalic
@@ -104,7 +104,7 @@ Exemples:
 
 | Radis | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
+| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
 
 :::
 ::: grammar-box
@@ -159,7 +159,7 @@ Exempels:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
 ## 34.5. Perfect tip II: Stom ferm, nivel aut, stom debel, nivel bass
@@ -189,7 +189,7 @@ Exemples:
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide <!-- TODO: Fallback translation -->
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide
 
 ::: media
 ![](/images/lekt3406.webp)
@@ -211,7 +211,7 @@ Fig.: ⟪लक्षद्वीपाः⟫
 Mappa dals inslas Lakshadweep.
 (Sursa da l’immaġn: [Detagls](/rm/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** mortal (a **⟪मृ⟫**) <!-- TODO: Fallback translation -->
+**⟪मर्त्य⟫ 3:** mortal (a **⟪मृ⟫**)
 
 **⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.)
 
@@ -220,7 +220,7 @@ Mappa dals inslas Lakshadweep.
 Fig.: ⟪तिलाः⟫
 Sesamsemens.
 (Imagenschdrett: [Detagls](/rm/licenses#lekt3403))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -243,7 +243,7 @@ Templ d'Or (Harmandir Sahib), Amritsar.
 
 **⟪श्रेष्ठ⟫ 3:** meglier
 
-**⟪तल⟫ m.n.:** Plan, surfatscha <!-- TODO: Fallback translation -->
+**⟪तल⟫ m.n.:** Plan, surfatscha
 
 **⟪ऋषभ⟫ m.:** Bost
 
@@ -321,7 +321,7 @@ Explicaziuns:
 
 **:sig[⟪सप्त⟫]** set
 
-**⟪जन्म⟫** Nom./Akk. sg. zu **⟪जन्मन्⟫ n.** nasch <!-- TODO: Fallback translation -->
+**⟪जन्म⟫** Nom./Akk. sg. zu **⟪जन्मन्⟫ n.** nasch
 
 **⟪सर्व⟫ 3** "tuts, tutgiont" (declinà sco pronom)
 :::
@@ -330,22 +330,5 @@ Explicaziuns:
 Abb.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟩***⟪र्जन्म*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Ritual da nuzza hindu.
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt3407))
-:::
-
-::: deleteme-box
-
-**lekt3401:** Statua dal bue Nandi, Collinas da Chamundi, Mysore. [Sursa d'imagia: Luna Park / Flickr. CC BY-NC-ND]
-
-**lekt3402:** Tempel da l'aur (Harmandir Sahib), Amistár. [Sursaint da l'imagines: Wikipedia. GNU FDL]
-
-**lekt3403:** Sesam. [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt3404:** Sesamblueme. [Fonta da l’imagine: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
-
-**lekt3405:** Charta dals insul Ladakhdiv. [Sursa da l'imagia: CIA World Factbook. Domin public]
-
-**lekt3406:** Reisfeld in Indien. [Bildquelle: Ray Witlin / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3407:** Ritual da l'emprima da l'uniun hinduista. [Sursaint da l'imaginescha: BriceFR / Flickr. CC BY-NC-SA]
 :::
 

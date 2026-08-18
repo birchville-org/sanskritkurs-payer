@@ -1,50 +1,42 @@
 ---
 title: "Exercițiul 17"
 uebung_id: 17
-category: "Exercițiu"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Lecția 17
+# Exercițiul 17
 
-A) Introduceți verbul în propozițiile următoare și traduceți:
+A) Introduceți verbul în propozițiile de mai jos și traduceți:
 
-⟪१⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) ⟪।⟫
-⟪ब्रवीति⟫ ⟪।⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪वदति⟫ ⟪।⟫
-Un brahman nu spune o minciună.
+⟪१⟫. ⟪ब्राह्मनो ऽनृतं न⟫ ... (⟪ब्रू । वच् । वद्⟫) ⟪। ब्रवीति । वक्ति । वदति ।⟫
+Un brāhmaṇa nu spune niciodată o minciună.
 
-⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫) ⟪।⟫
-⟪पाति⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫
+⟪२⟫. ⟪क्षत्रियो जनान्⟫ ... (⟪पा । रक्ष्⟫) ⟪। पाति । रक्षति ।⟫
 Un kṣatriya păzește oamenii.
 
-⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) ⟪।⟫
-⟪द्विजारीञ्जयति⟫ ⟪।⟫ ⟪द्विजारीन्हन्ति⟫ ⟪।⟫ ⟪युध्यते⟫ ⟪।⟫
+⟪३⟫. ⟪बलवद्योधो द्विजारीन्⟫ ... (⟪जि । हन् । युध्⟫) ⟪। द्विजारीञ्जयति । द्विजारीन्हन्ति । युध्यते ।⟫
 Războinicul puternic învinge / omoară / luptă împotriva dușmanilor celor născuți de două ori.
 
-⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) ⟪।⟫
-⟪स्तौति⟫ ⟪।⟫ ⟪स्तुते⟫ ⟪।⟫ ⟪यजते⟫ ⟪।⟫ ⟪यजति⟫ ⟪।⟫
-Poețul brahmanic laudă pe STĂPÂNUL lumii. (sau: ...jertfește... către STĂPÂNUL lumii)
+⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु । यज्⟫) ⟪। स्तौति । स्तुते । यजते । यजति ।⟫
+Poetul brāhmaṇic laudă STĂPÂNUL lumii. (sau: ...jertfește... către STĂPÂNUL lumii)
 
-⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) ⟪।⟫
-⟪अत्ति⟫ ⟪।⟫ ⟪दहति⟫ ⟪।⟫
+⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫) ⟪। अत्ति । दहति ।⟫
 Focul consumă / arde mâncarea.
 
-⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫) ⟪।⟫
-⟪दोग्धि⟫ ⟪।⟫ ⟪दुग्धे⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪पाति⟫ ⟪।⟫
+⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫) ⟪। दोग्धि । दुग्धे । रक्षति । पाति ।⟫
 Tânărul vaiśya mulge / păzește vaca.
 
-⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
-⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-Un slujitor al celor născuți de două ori merge pe poteca vânatului spre satul brahmanic.
+⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫) ⟪। गच्छति । एति । पद्यते ।⟫
+Un slujitor al celor născuți de două ori merge pe poteca sălbatică spre satul brāhmaṇic.
 
-⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
-⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
-Ein Śūdra ist Knecht der Zweimalgeborenen.
+⟪८⟫. ⟪द्विजदासः शूद्रस्⟫ ... (⟪अस् २ । भू⟫) ⟪। द्विजदासः शूद्रो ऽस्ति ।⟫ ... ⟪शूद्रो भवति ।⟫
+Un śūdra este sclavul celor născuți de două ori.
 
-⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫) ⟪।⟫
-⟪रोदिति⟫ ⟪।⟫ ⟪बालब्राह्मण्याते⟫ ⟪।⟫ ⟪म्रियते⟫ ⟪।⟫
-Micuța brahmană plânge / stă pe loc / moare.
+⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद् । आस् । मृ⟫) ⟪। रोदिति । बालब्राह्मण्याते । म्रियते ।⟫
+Brāhmaṇica mică plânge / stă pe loc / moare.
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫) ⟪।⟫
 ⟪द्वेष्टि⟫ ⟪।⟫ ⟪द्विष्टे⟫ ⟪।⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪।⟫
@@ -77,7 +69,7 @@ B) Introduceți agentul și verbul la plural în propozițiile formate în A)
 Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung025))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exerciții de forme verbale
 

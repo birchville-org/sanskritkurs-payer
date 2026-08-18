@@ -259,17 +259,7 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2204))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
 
-**lekt2201:** Goa = ⟪गोंय⟫ [Sursa imaginii: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accesat la 2008-12-12. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
-
-**lekt2202:** Secolul al XIX-lea [Sursa imaginii: Wikipedia, Domeniu public]
-
-**lekt2203:** Kolkatta = কলকাতা [Sursa imaginii: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Accesat la 2008-12-12. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
-
-**lekt2204:** [Sursa imaginii: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Accesat la 2008-12-12. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
 :::
 

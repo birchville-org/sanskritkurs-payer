@@ -159,7 +159,7 @@ Esempi:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | &lt;!-- TODO: Fallback translation --&gt;
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | &lt;!--  --&gt;
 
 :::
 ## 34.5. Tipo II del Perfetto: Radice forte in grado alto, radice debole in grado basso
@@ -329,22 +329,5 @@ Spiegazioni:
 Fig.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫**:sig[⟪र्जन्म⟫]** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Rituale nuziale indù.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3407))
-:::
-
-::: deleteme-box
-
-**lekt3401:** Statua del toro Nandi, Colline di Chamundi, Mysore. [Fonte dell'immagine: Luna Park / Flickr. CC BY-NC-ND]
-
-**lekt3402:** Tempio d'Oro (Harmandir Sahib), Amritsar. [Fonte dell'immagine: Wikipedia. GNU FDL]
-
-**lekt3403:** Semi di sesamo. [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-
-**lekt3404:** Fioritura della pianta del sesamo. [Fonte dell'immagine: Franz Xaver / Wikipedia. GNU FDL]
-
-**lekt3405:** Mappa delle Isole Lakshadweep. [Fonte dell'immagine: CIA World Factbook. Dominio pubblico]
-
-**lekt3406:** Campo di riso in India. [Fonte dell'immagine: Ray Witlin / World Bank. CC BY-NC-ND]
-
-**lekt3407:** Rituale nuziale indù. [Fonte dell'immagine: BriceFR / Flickr. CC BY-NC-SA]
 :::
 

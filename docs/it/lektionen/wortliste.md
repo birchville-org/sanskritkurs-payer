@@ -330,7 +330,7 @@ Fig.: **likh** (⟪लिख्⟫) : bastoncino da scrittura dei Batak (Sumatra
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram presso Madurai.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artigiano &lt;!-- TODO: Fallback translation --&gt;
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artigiano &lt;!--  --&gt;
 
 ::: media
 ![](/images/lekt0902.webp)
@@ -471,7 +471,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫, distretto di Jamalpur, Banglades
 (Fonte dell'immagine: [Details](/it/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : chiedere
-  - **praśna** m. ⟪प्रश्न⟫ : domanda (suffisso **-na** come in **yaj-ña**) &lt;!-- TODO: Fallback translation --&gt;
+  - **praśna** m. ⟪प्रश्न⟫ : domanda (suffisso **-na** come in **yaj-ña**) &lt;!--  --&gt;
 
 - **iṣ** 6 P ⟪इष्⟫ : desiderare
   - **iṣṭi** f. ⟪इष्टि⟫ : desiderio (**iṣ** + **-ti**)
@@ -1749,7 +1749,7 @@ Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 -⟪लोक्य⟫
 ⟪लोकितुम्⟫
 :::
-**⟪प्रहर्ष⟫** &lt;!-- TODO: Fallback translation --&gt;
+**⟪प्रहर्ष⟫** &lt;!--  --&gt;
 
 **⟪कति⟫**
 
@@ -2554,11 +2554,6 @@ Fig.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (a ⟪सम्⟫-⟪हन्⟫ : battere insieme): schiera, branco, comunità (ad es. buddhista)
 
-::: deleteme-box
-cfr. inoltre:
-
-**Payer, Alois (1944–):** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: giovane ragazza, figlia, vergine
 
 ⟪अति⟫ Prefisso: sopra, oltre, in avanti (nello spazio, nel tempo, in numero, in quantità, nell'ordine, in potenza, in intensità), estremamente
@@ -2948,17 +2943,6 @@ Assol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (a ⟪प्र⟫-⟪व्रज्⟫): l'andare via dalla casa verso l'essere senza casa; cerimonia con cui si diventa novizio buddhista (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Vedere:
-
-**Payer, Alois (1944–):** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-
-:::: media
-![](/images/lekt4408.webp)
-Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4408))
-::::
-:::
 ## Lezione 45
 
 ⟪वा⟫ ... ⟪वा⟫ : oppure ... oppure
@@ -4017,6 +4001,4 @@ Caus. ⟪त्रापयति⟫
 PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
-
-
 

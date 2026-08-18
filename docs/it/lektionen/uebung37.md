@@ -97,7 +97,7 @@ Lo Śūdra ha forse portato il peso?
 
 ---
 
-## Avyayībhāva (composti indeclinabili) &lt;!-- TODO: Fallback translation --&gt;
+## Avyayībhāva (composti indeclinabili) &lt;!--  --&gt;
 
 C) Determinare e tradurre i seguenti composti:
 

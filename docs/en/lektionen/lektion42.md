@@ -336,14 +336,3 @@ Fig.: ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gen.Loc.Dual to ⟪सीताराम⟫
 
-::: deleteme-box
-
-* **Fig. lekt4201**: ⟪अयं बोधयिता⟫. (Image source: Wikipedia. Public domain)
-* **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Image source: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accessed on 2009-01-04. -- Creative Commons License (Attribution, non-commercial use, share alike))
-* **Fig. lekt4203**: ⟪कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Image source: Wikipedia. Public domain)
-* **Fig. lekt4204**: ⟪अर्जुनो रथे सीद⟫ti ⟪। कृष्णो ऽस्य रथवाहो ऽस्ति ।⟫ (⟪रथ⟫ m. chariot). (Image source: Wikipedia. Public domain)
-* **Fig. lekt4205**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17th century. (Image source: Wikipedia. Public domain)
-* **Fig. lekt4206**: Location of ⟪मिथिला⟫ and ⟪विदेह⟫, ⟪अयोध्या⟫ and ⟪कोसल⟫. (Image source: JIJITH NR / Wikipedia. GNU FDLicense)
-* **Fig. lekt4207**: ⟪रावणः⟫. Yakṣagaṇa dance mask (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Image source: Manohara Upadhya / Wikipedia. GNU FDLicense)
-* **Fig. lekt4208**: ⟪धनुर्द्वेधा भग्नं बभूव⟫. Image of ⟪राजा रवि वर्मा⟫ (1848 - 1906). (Image source: Wikipedia. Public domain)
-:::

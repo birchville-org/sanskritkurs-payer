@@ -10,13 +10,6 @@ last_reconstructed: 2026-05-07
 
 # Lesson 8
 
-::: deleteme-box
-**In this lesson, you will learn:**
-The formation of nouns (kṛt and taddhita suffixes)
-Important nominal suffixes (-a, -ana, -tra, -ti, -tva, -tā)
-The 8th present class (tanādi)
-The conjugation of **kṛ** (tun, to do/make)
-:::
 
 
 ## 8.1. On the Formation of Nouns

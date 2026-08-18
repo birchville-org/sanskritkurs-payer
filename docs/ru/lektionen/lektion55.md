@@ -95,8 +95,3 @@ status: stable
 (Источник изображения: [Подробности](/ru/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** «Инаят-хан на смертном одре», эскиз миниатюры для рукописи, созданной для Джахангира = جهانگير, около 1618 г. (Источник изображения: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Дата обращения: 2009-01-28. Общественное достояние)
-
-:::

@@ -67,7 +67,7 @@ Nota: Em orações relativas de conteúdo geral, usa-se frequentemente o optativ
 | **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
 **Como primeiro membro de compostos, aparece o tema ⟪यद्⟫ (com observância do sandhi).**
 
@@ -126,7 +126,7 @@ Fig.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Fonte da imagem: [Detalhes](/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** soprar <!-- TODO: Fallback translation -->
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** soprar
 
 dele:
 
@@ -220,15 +220,3 @@ Explicação: ⟪यथाकालम्⟫ Composto Avyayībhāva: no tempo ce
 :::
 Explicação: ⟪पुमान्⟫ Nom. sg. de ⟪पुंस्⟫ "homem" ; ⟪लोके⟫ Locativo sg. de ⟪लोक⟫ m.: no/na ...
 
-::: deleteme-box
-
-**lekt1809:** Ilustração para ⟪कामसूत्र⟫ [Fonte da imagem: Wikipedia, Domínio público]
-
-**lekt1901:** Badami (ಬದಾಮಿ) [Fonte da imagem: Sudarshan Bhat Khandige / Wikipedia, Domínio público]
-
-**lekt1902:** Goa (⟪गोंय⟫) [Fonte da imagem: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Acessado em 2008-12-08. -- Licença Creative Commons (Atribuição, Uso Não Comercial, Sem Derivações)]
-
-**lekt1903:** ⟪१९५९⟫ [Fonte da imagem: Wikipedia, Domínio público]
-
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages." [Fonte da imagem: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Acessado em 2008-12-08. -- Licença Creative Commons (Atribuição)]
-:::

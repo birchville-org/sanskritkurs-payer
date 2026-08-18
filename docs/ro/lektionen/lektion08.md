@@ -5,17 +5,10 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 8
 
-::: deleteme-box
-**În această lecție veți învăța:**
-- Formarea substantivelor (sufixe kṛt și taddhita)
-- Sufixe nominale importante (-a, -ana, -tra, -ti, -tva, -tā)
-- Clasa a 8-a de prezent (tanādi)
-- Conjugarea verbului **kṛ** (tun, a face)
-:::
 
 ## 8.1. Despre formarea numelor substantive
 
@@ -53,7 +46,7 @@ last_reconstructed: 2026-05-07
 
 ## 8.3. Unele sufixe nominale importante
 
-### 8.3.1. -a m. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
 **Sufixul kṛt -a formează substantive masculine (rar neutre) care denumesc o acțiune sau o stare indicată de rădăcină; uneori și adjective sau substantive care exprimă agentul (kartṛ) acțiunii indicată de rădăcina verbală. Pentru penultima scurtă (= vocală înainte de consoanța pe care se termină rădăcina) sau vocala finală a rădăcinii, se substituie de obicei gradul ridicat (guṇa) sau gradul lungit (vṛddhi).**
@@ -71,9 +64,9 @@ last_reconstructed: 2026-05-07
 | **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "eliberarea, emanarea, creația" (pentru sandhi cuvântului j » g vezi mai târziu) |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "ascultarea" |
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "devenirea, (a fi) ceva, natură, caracter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "luptător, soldat" | <!-- TODO: Fallback translation -->
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "luptător, soldat" |
 
-### 8.3.2. -ana n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
 **Sufixul kṛt -ana formează de obicei substantive neutre care denotă o acțiune, o stare sau mijlocul/unealta prin care acțiunea indicată de rădăcină sau de un temei verbal se realizează. Pentru o penultimă scurtă sau un vocal final al rădăcinii, se substituie de obicei gradul ridicat (guṇa).**
@@ -93,7 +86,7 @@ last_reconstructed: 2026-05-07
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0801))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: note-box
@@ -103,7 +96,7 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 (Sursă: Wikipedia)
 :::
 
-### 8.3.3. -tra n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
 **Sufixul kṛt -tra formează (în majoritate) substantive neutre, care indică mijlocul sau instrumentul prin care se realizează acțiunea indicată de rădăcină. Vocala scurtă penultimă și vocala finală a rădăcinii sunt înlocuite prin etapa superioară (guṇa).**
@@ -131,7 +124,7 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 (Sursele imaginilor: [Detalii](/ro/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti f. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
 **Sufixul kṛt -ti formează substantive feminine care, în general, exprimă acțiunea indicată de rădăcină sau starea indicată de rădăcină. Forma rădăcinii este în grad redus.**
@@ -146,7 +139,7 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "emanare, creație" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "privire, față, perspectivă" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "mers, curs, scopul mersului" (din *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "gândire, gând, opinie" (din *mn » ma + -ti) | <!-- TODO: Fallback translation -->
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "gândire, gând, opinie" (din *mn » ma + -ti) |
 
 *Notă: \* în fața unei forme indică faptul că această formă nu apare în sanscrită, ci este dedusă teoretic ca premisă pentru o anumită formare. Gradul redus al **gam** este gṃ = \*gm, iar m este înlocuit prin **a** ca nasalis sonans » **ga**. Analogie se aplică și pentru **man** » **ma**.
 
@@ -224,7 +217,7 @@ Cea mai importantă rădăcină a celei de-a 8-a clase este **kṛ** 8 U (⟪क
 ![](/images/lekt0809.jpg)
 Fig.: **likh** (⟪लिख्⟫) : instrument de scris indian din oțel pentru gravat pe frunze de palmier
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0809))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -283,7 +276,7 @@ Fig.: **likh** (⟪लिख्⟫) : bețișor de scris al Batak (Sumatra), aș
 8. Ce fac acești luptători?
 9. Pe cine vede ochiul?
 10. Ce doresc zeii?
-11. Care este motivul? <!-- TODO: Fallback translation -->
+11. Care este motivul?
 
 ## 8.7. Exercițiu de citire și traducere
 

@@ -67,7 +67,7 @@ A) Determinar e traduschar las suandantas furmas:
 | ⟪५१⟫. ⟪हथ⟫ | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | vus frappesteschi |
 | ⟪५२⟫. ⟪हतः⟫ | ⟪हन्⟫ (2P) PPP Nom. sg. m. | frapà / uccidì |
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Traduziuns
 
@@ -102,7 +102,7 @@ Ti has lamentà ils betg da lamentar e vulaschi dir pleds da sapienza; ma ils sa
 Abb.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (sursa da l'imagia: [detagls](/licenses#uebung072))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Ulteriuras furmas linguisticas
 
@@ -157,7 +157,7 @@ Determina las suandantas furmas da paraula:
 ![](/images/uebung073.webp)
 Abb.: ⟪वदिता⟫
 (Sursa da l'imagines: [Detagls](/licenses#uebung073))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

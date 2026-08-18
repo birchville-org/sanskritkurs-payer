@@ -51,7 +51,7 @@ Exempla:
 ::: grammar-box
 Imperia civilis per Imperativum Passivum saepe exprimuntur.
 :::
-Exempla: <!-- TODO: Fallback translation -->
+Exempla:
 
 ::: indent
 ⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "I, quaeso, intrate!"
@@ -78,7 +78,7 @@ Imperativus a tema praesentis formatur.
 Nota: ¹ Desinentiae personarum secundae et tertiae singularis per -tāt substitui possunt, cum benedictio exprimenda sit:
 
 ::: indent
-⟪भद्रो⟫ ⟪भवतात्⟫ "Felix esse velis!" "Felix esse velit!" <!-- TODO: Fallback translation -->
+⟪भद्रो⟫ ⟪भवतात्⟫ "Felix esse velis!" "Felix esse velit!"
 
 ⟪शुभं⟫ ⟪भवतु⟫ aut ⟨⟪शुभं⟫ ⟪भवतात्⟫ "Bonum sit!" "Omne bonum!"
 :::
@@ -239,7 +239,7 @@ Equum verbera!
 
 Ebrii estote
 
-Equus onus trahere debet. <!-- TODO: Fallback translation -->
+Equus onus trahere debet.
 
 Mundos ordinare volumus.
 
@@ -253,14 +253,3 @@ A te ducti volumus.
 
 Ad felicitatem eveniat! (Benedictio)
 
-::: deleteme-box
-
-**lekt4702:** Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Imago fontis: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Accessus die 2009-01-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attributio, nulla modificatio)]
-
-**lekt4701:** [Imago fontis: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Accessus die 2009-01-09. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, share alike)]
-
-**lekt4703:** [Imago fontis: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Accessus die 2009-01-10. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
-
-**lekt4704:** [Imago fontis: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Accessus die 2009-01-10. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
-
-:::

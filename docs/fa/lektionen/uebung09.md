@@ -1,112 +1,113 @@
 ---
 title: "تمرین ۹"
 uebung_id: 9
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# تمرین 9
+# تمرین ۹
 
 الف) سعی کنید معانی ممکن کلمات زیر را تعیین نمایید:
 
-1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. einer, der einem Brahmanen nur ähnlich ist = ein schlechter Brahmane
+۱\. brāhmānaka ⟪ब्राह्मणक⟫ : m. کسی که تنها شبیه به یک برهمی است = یک برهمی بد
 
-2\. mati ⟪मति⟫ : f. Meinung
+۲\. mati ⟪मति⟫ : f. نظر
 
-3\. śravaṇa ⟪श्रवण⟫ : n. Ohr
+۳\. śravaṇa ⟪श्रवण⟫ : n. گوش
 
-4\. dhenuka ⟪धेनुक⟫ : m. (Koitus) in der Art einer Kuh <!-- TODO: Fallback translation -->
+۴\. dhenuka ⟪धेनुक⟫ : m. (رابطه جنسی) به سبک یک گاو ماده
 
-5\. jayaka ⟪जयक⟫ : 3 siegreich
+۵\. jayaka ⟪जयक⟫ : ۳ پیروز
 
-6\. rakṣikā ⟪रक्षिका⟫ : f. Wächterin, Amulett <!-- TODO: Fallback translation -->
+۶\. rakṣikā ⟪रक्षिका⟫ : f. نگهبان، تعویذ
 
-۷\. karṣaka ⟪कर्षक⟫ : ۳ پلُیدن ؛ m. کشاور
+۷\. karṣaka ⟪कर्षक⟫ : ۳ شخم زدن ; m. کشاورز
 
-8\. kleśa ⟪क्लेश⟫ : m. Qual
+۸\. kleśa ⟪क्लेश⟫ : m. رنج
 
-9\. nāyikātva ⟪नायिकात्व⟫ : n. Zustand einer Geliebten <!-- TODO: Fallback translation -->
+۹\. nāyikātva ⟪नायिकात्व⟫ : n. حالت یک معشوقه
 
-10\. تانتراکا ⟪तन्त्रक⟫ : ۳ (همین) از زنجیر بافی / از دستگاه بافندگی آمده = تازه بافته شده
+۱۰\. tantraka ⟪तन्त्रक⟫ : ۳ (تازه) از زنجیره بافندگی / ریسندگی آمده = تازه بافته شده
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : Tänzer <!-- TODO: Fallback translation -->
+۱۱\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : رقصنده
 
-12\. naraka ⟪नरक⟫ : m. Hölle <!-- TODO: Fallback translation -->
+۱۲\. naraka ⟪नरक⟫ : m. دوزخ
 
-13\. lābhaka ⟪लाभक⟫ : m. = lābha
+۱۳\. lābhaka ⟪लाभक⟫ : m. = lābha
 
-14\. īśvaratā ⟪ईश्वरता⟫ : f. HERR-Sein
+۱۴\. īśvaratā ⟪ईश्वरता⟫ : f. ارباب بودن
 
-15\. dhenukā ⟪धेनुका⟫ : f. = dhenu
+۱۵\. dhenukā ⟪धेनुका⟫ : f. = dhenu
 
-16\. yodhaka ⟪योधक⟫ : m. Kämpfer
+۱۶\. yodhaka ⟪योधक⟫ : m. جنگجو
 
-17\. kopa ⟪कोप⟫ : m. Zorn
+۱۷\. kopa ⟪कोप⟫ : m. خشم
 
-18\. veśaka ⟪वेशक⟫ : 3 eintretend
+۱۸\. veśaka ⟪वेशक⟫ : ۳ وارد شدن
 
-19\. darśaka ⟪दर्शक⟫ : 3 sehend
+۱۹\. darśaka ⟪दर्शक⟫ : ۳ دیدن
 
-20\. کوپکا ⟪कोपक⟫ : ۳ کسی که به‌آسانی خشمگین می‌شود، زودخشم
+۲۰\. kopaka ⟪कोपक⟫ : ۳ کسی که به راحتی خشمگین می‌شود، زودخشم
 
-B) Übersetzen Sie:
+ب) ترجمه کنید:
 
-۱. وظایف همهٔ دو بار زاده‌ها:
+۱\. وظایف همه دو بار زاده‌شدگان:
 
 ijyādhyayanadānāni ⟪इज्याध्ययनदानानि⟫
 
-(Yājñavalkyadharmaśāstra I, 118)
+(یاجناوالکیادهارماساسترا I, 118)
 
-Opfer, Vedastudium, Gaben geben. <!-- TODO: Fallback translation -->
+قربانی کردن، مطالعه ودای، دادن هدایا.
 
-۲. وظایف خاص یک برهمن:
+۲\. وظایف خاص یک برهمی:
 
 pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 
-(Gautamadharmasūtra X,2)
+(گائوتامادهارماسوتره X,2)
 
-آموزش‌ها، فداکاری به نیابت، پذیرش هدایا.
+آموزش دادن، قربانی کردن به نمایندگی، پذیرش هدایا.
 
-۳\. وظایف خاص یک کْشَتْرِیَا:
+۳\. وظایف خاص یک کشاتریا:
 
-rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
+rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genetiv (Wesfall): "aller Wesen") <!-- TODO: Fallback translation -->
+(sarvabhūtānām = حالت مضاف‌الیه: "همه موجودات")
 
-(Gautamadharmasūtra X,7)
+(گائوتامادهارماسوتره X,7)
 
-Hüten aller Wesen.
+نگهبانی از همه موجودات.
 
-4\. Spezifische Aufgaben eines Vaiśya: <!-- TODO: Fallback translation -->
+۴. وظایف خاص یک ویشیا:
 
 kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 
-(nach Gautamadharmasūtra X,49)
+(بر اساس گوتاما دهارماسوترا، بخش ۱۰، آیه ۴۹)
 
-کشاورزی، تجارت، دامداری و وام‌دهی پول.
+کشاورزی، تجارت، دامداری و وام‌دهی.
 
-5\. Aufgaben eines Śūdra:
+۵. وظایف یک شودرا:
 
-dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं⟫ ⟪शुश्रूषा⟫ ⟪वार्त्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
+dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं शुश्रूषा वार्त्त्ता कारुकुशीलवकर्म च⟫
 
-(nach Kauṭilīya-arthaśāstra 1.3.8.)
+(بر اساس کائوتیلیا آرتهاشاstra، بخش ۱.۳.۸)
 
-Erklärung:
-dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen") <!-- TODO: Fallback translation -->
+توضیح:
+dvijātīnām = حالت مضاف‌الیه (Wesfall) جمع از واژه dvijāti (در اینجا ترجمه کنید: "نسبت به دو بار زائیده‌شدگان")
 
-kārukuśīlavakarma یک تاتپورُشاست با دوندوا (kārukuśīlava) در بخش پیشین. karma = مفرد مرفوع از karman n. «عمل، فعالیت، کارما» به ریشه kṛ 8 U). ترجمه کنید «عمل / فعالیتِ ... (مضاف‌الیه)» (که توسط دوندوا مشخص شده است).
+kārukuśīlavakarma یک تاتپوروشا با یک دواندوا (kārukuśīlava) در بخش پیشین است. karma = مفرد مرفوع از karman n. به معنای "کار، فعالیت، کارما" مربوط به ریشه kṛ 8 U). ترجمه کنید "کار / فعالیتِ ... (مضاف‌الیه)" (که توسط دواندوا مشخص شده است).
 
-اطاعت از دو بار زائیدگان، فعالیت‌های معاشی، فعالیت به عنوان صنعتگر یا نمایشگردندهٔ سیار.
+اطاعت نسبت به دو بار زائیده‌شدگان، فعالیت‌های معاشی، و فعالیت به عنوان صنعتگر یا نمایشگردشگر.
 
-6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫
+۶. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः पाशुपाल्यं वणिज्या च वार्त्ता⟫
 
-(nach Kauṭilīya-arthaśāstra 1.4.1.)
+(بر اساس کائوتیلیا آرتهاشاstra، بخش ۱.۴.۱)
 
 اقتصاد شامل کشاورزی، دامداری و تجارت است.
 
 ::: media
 ![](/images/uebung013.webp)
-تصویر: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
+تصویر: ⟪रक्षणं सर्वभूतानाम्⟫
 (منبع تصویر: [جزئیات](/licenses#uebung013))
 :::

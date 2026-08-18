@@ -1,7 +1,8 @@
 ---
-title: Lektion 31
+title: "Leçon 31"
 lesson_id: 31
 status: stable
+
 ---
 
 # Leçon 31
@@ -214,15 +215,3 @@ B) Formez pour les racines suivantes de la 7e classe toutes les formes de la 3e 
 
 ⟪५⟫. ⟪भञ्ज्⟫ (seulement P)
 
-::: deleteme-box
-
-**lekt3101 :** Représentation du yoga. [Source de l'image : Flickr, 2008-12-25. CC BY]
-
-**lekt3102 :** Préparation à la danse Kathakali, Kochi. [Source de l'image : winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**lekt3103 :** Extrait d'un manuscrit de Prajñāpāramitā. [Source de l'image : zeno.org. Domaine public]
-
-**lekt3105 :** Chars d'assaut du 18e Régiment de Cavalerie (Armée indienne) en mouvement pendant la guerre indo-pakistanaise de 1965. [Source de l'image : Hari Singh Deora / Wikipedia. Domaine public]
-
-**lekt3104 :** Rāhula, le fils de Bouddha, Laos. [Source de l'image : Sacca / Wikipedia. GNU FDL]
-:::

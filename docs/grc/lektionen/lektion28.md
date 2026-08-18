@@ -176,7 +176,7 @@ Jadavpur University Management building.
 | ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein |
 | ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken |
 | ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen | <!-- TODO: Fallback translation -->
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
 
 ::: grammar-box
 **Εἶδος Παιδείας 2: ῥίζη μακρὰ φωνήεντος + -aya-**
@@ -191,7 +191,7 @@ Jadavpur University Management building.
 | ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
 | ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen | <!-- TODO: Fallback translation -->
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
 
 ::: grammar-box
 **Εἶδος Παιδείας 3: ῥίζη βαθυτάτη + -aya-**
@@ -202,7 +202,7 @@ Jadavpur University Management building.
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben | <!-- TODO: Fallback translation -->
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben |
 
 ::: grammar-box
 **Εἶδος Παιδεύσεως 4: Ῥίζη + -paya-**
@@ -214,7 +214,7 @@ Jadavpur University Management building.
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten | <!-- TODO: Fallback translation -->
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
 
 ::: grammar-box
 **Ἀτακὰ σχήματα:**
@@ -483,11 +483,3 @@ Vīṇā-Spielerin.
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-::: deleteme-box
-
-**lekt2801:** Ο κτίριο διοικήσεως του Jadavpur University. [Πηγή εικόνας: το Flickr του noii, 2008-12-19, CC BY-SA]
-**lekt2802:** Ο ναός ISKCON στο Bangalore. [Πηγή εικόνας: οι αναφορές του Ramki στο Flickr, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Η παίκτρια της βίνα. [Πηγή εικόνας: Kelvin Kay / Wikipedia. Άδεια GNU FD]
-**lekt2804:** Ο Kṛṣṇa και η Rādhā. Πίνακας του Rāja Ravi Varmā. [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
-**lekt2805:** Το κορίτσι φέρει φορτίο. Πλησίον του Ahmedabad. [Πηγή εικόνας: m-bot. Flickr, 2008-12-20. CC BY-SA]
-:::

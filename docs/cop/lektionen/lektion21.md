@@ -1,20 +1,21 @@
 ---
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+title: "ⲙⲁⲑⲏⲙⲁ 21"
+subtitle: "Ⲕⲉⲡⲓⲁϧⲱⲛ ⲛ̀ⲧⲉ ϫⲓϣⲱⲡ ⲛ̀ⲧⲉ -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Ϯϣⲓ 21
 
-## 21.1. Weitere Präsensstämme auf -nt <!-- TODO: Fallback translation -->
+## 21.1. Weitere Präsensstämme auf -nt
 
 ### 21.1.1. ⲡⲁⲣⲧⲓⲥⲓⲡ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ (⟪लडादेशः⟫) ⲡⲁⲣⲁⲥⲙⲁⲓⲡⲁⲇⲁ
 
 ::: grammar-box
-Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes Partizip. Es ist ein Adjektiv, das angibt, dass jemand oder etwas das durch die Verbalwurzel (+ Präverb) Ausgedrückte gerade tut, während etwas anderes geschieht. Auch ein dauernder Zustand kann damit ausgedrückt werden. <!-- TODO: Fallback translation -->
+Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes Partizip. Es ist ein Adjektiv, das angibt, dass jemand oder etwas das durch die Verbalwurzel (+ Präverb) Ausgedrückte gerade tut, während etwas anderes geschieht. Auch ein dauernder Zustand kann damit ausgedrückt werden.
 
 **Beispiele:**
 
@@ -114,7 +115,7 @@ Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes P
 ![](/images/lekt2101.webp)
 Fig. : ⟪सती⟫-plaque commémorative
 ⟪सती⟫-plaque commémorative au palais de Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
-(Source de l'image : [Détails](/licenses#lekt2101))
+(Source de l'image : [Détails](/cop/licenses#lekt2101))
 :::
 5\. classe de présent :
 
@@ -175,7 +176,7 @@ Fig. : ⟪सती⟫-plaque commémorative
 ![](/images/lekt2102.webp)
 ⲁⲃϥ: ⟪महादेवो⟫ ⟪विष्णुः⟫
 "ⲛ̀ϧⲟⲩⲏ ⲙ̄ⲡⲓϣⲟⲩ ϫⲉ ⲛ̀ⲧⲙⲁϥ, ϣⲟⲡ ⲛ̀ⲧⲙⲁϥ, ϫⲉ ⲛ̀ⲧⲙⲁϥ."
-"(ⲛ̀ϧⲟⲩⲏ ⲙ̄ⲡⲓϣⲟⲩ: [Details](/licenses#lekt2102))"
+"(ⲛ̀ϧⲟⲩⲏ ⲙ̄ⲡⲓϣⲟⲩ: [Details](/cop/licenses#lekt2102))"
 :::
 
 ::: indent
@@ -247,7 +248,7 @@ Will man nicht nur Höflichkeit, sondern auch Verehrung für jemanden ausdrücke
 ![](/images/lekt2103.webp)
 Abb.: ⟪भगवान्कृष्णः⟫
 ⟪भगवान्कृष्णः⟫ ⲛϭⲓⲙ ⟪जगन्नाथ⟫ (ϣⲁⲧ) ⲛϭⲓⲙ ϯⲉρϣⲁ ⲛϭⲓⲙ ⟪सुभद्रा⟫ (ϣⲁⲧ) ⲛϭⲓⲙ ϯⲉρϣⲁ ⲛϭⲓⲙ ϯⲉρϣⲁ ⲛϭⲓⲙ ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(ϣⲁⲧ: [Details](/licenses#lekt2103))
+(ϣⲁⲧ: [Details](/cop/licenses#lekt2103))
 :::
 
 ::: indent
@@ -257,7 +258,7 @@ Abb.: ⟪भगवान्कृष्णः⟫
 ![](/images/lekt2105.webp)
 Abb.: ⟪भगवद्गीता⟫
 ⟪भगवद्गीता⟫ - ⲙⲉⲛϣⲁ, 19. ϫⲓ
-(ϣⲁⲧ: [Details](/licenses#lekt2105))
+(ϣⲁⲧ: [Details](/cop/licenses#lekt2105))
 :::
 
 ::: indent
@@ -272,7 +273,7 @@ Abb.: ⟪भगवद्गीता⟫
 ![](/images/lekt2104.webp)
 Abb.: ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laos = ⲡⲁⲣⲉⲧⲏϥ
-(Bildquelle: [Details](/licenses#lekt2104))
+(Bildquelle: [Details](/cop/licenses#lekt2104))
 :::
 **⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** ⲛⲟϥⲧ, ⲙⲉⲧⲣⲁϥ
 
@@ -307,15 +308,3 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ⲡⲁⲣⲉⲧⲏϥ
 
 ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-::: deleteme-box
-
-**lekt2101:** ⟪सती⟫-Gedenkplatte im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Bildquelle: Flicka / Wikipedia. GNU FDLicense]
-
-**lekt2102:** "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva". [Bildquelle: PHGCOM / Wikipedia. GNU FDLicense]
-
-**lekt2103:** ⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense]
-
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2105:** ⟪भगवद्गीता⟫ - مَانوسكربت, قرن 19 [مصدر الصورة: ويكيبيديا، ملكية عامة]
-:::

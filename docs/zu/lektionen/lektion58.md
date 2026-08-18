@@ -5,469 +5,456 @@ lesson_id: 58
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 58 <!-- TODO: Fallback translation -->
+# Lektion 58
 
-## 58.1. Die Primärendungen des Dual (⟪द्विवचनम्⟫) <!-- TODO: Fallback translation -->
+## 58.1. Die Primärendungen des Dual (⟪द्विवचनम्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   |   | thematisch | athematisch | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | -vas | -vahe || <!-- TODO: Fallback translation -->
-| **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
+| :--- | :---: | :---: | :---: |
+|   |   | thematisch | athematisch |
+| **1. ⟪तृतीयः⟫** | -vas | -vahe ||
+| **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
+| **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
 :::
-## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫) <!-- TODO: Fallback translation -->
+## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
 
-Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. <!-- TODO: Fallback translation -->
+Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
 
-### 58.2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
 
-⟪भू⟫ 1P "werden, sein" <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P "werden, sein"
 
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> | <!-- TODO: Fallback translation -->
-| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| :--- | :---: | :---: |
+| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
+| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
-### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
 
-⟪नृत्⟫ 4P "tanzen" <!-- TODO: Fallback translation -->
+⟪नृत्⟫ 4P "tanzen"
 
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | ⟪नृत्यावस्⟫ | ⟪नृत्यावहे⟫ | <!-- TODO: Fallback translation -->
-| **2. ⟪मध्यमः⟫** | ⟪नृत्यथस्⟫ | ⟪नृत्येथे⟫ | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | ⟪नृत्यतस्⟫ | ⟪नृत्येते्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| :--- | :---: | :---: |
+| **1. ⟪तृतीयः⟫** | ⟪नृत्यावस्⟫ | ⟪नृत्यावहे⟫ |
+| **2. ⟪मध्यमः⟫** | ⟪नृत्यथस्⟫ | ⟪नृत्येथे⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪नृत्यतस्⟫ | ⟪नृत्येते्⟫ |
 
 ::: media
 ![](/images/lekt5802.webp)
 Abb.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
-(Bildquelle: [Details](/licenses#lekt5802)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5802))
 :::
-### 58.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
 
-⟪तुद्⟫ 6U "stossen, schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U "stossen, schlagen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪तुदावस्⟫ | ⟪तुदावहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪तुदावस्⟫ | ⟪तुदावहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
 :::
-### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫) <!-- TODO: Fallback translation -->
+### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
 
-⟪चुर्⟫ 10U "stehlen" <!-- TODO: Fallback translation -->
+⟪चुर्⟫ 10U "stehlen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪चोरयावस्⟫ | ⟪चोरयावहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪चोरयथस्⟫ | ⟪चोरयेथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪चोरयतस्⟫ | ⟪चोरयेते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪चोरयावस्⟫ | ⟪चोरयावहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪चोरयथस्⟫ | ⟪चोरयेथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪चोरयतस्⟫ | ⟪चोरयेते⟫ |
 :::
 ::: media
 ![](/images/lekt5803.webp)
 Abb.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-(Bildquelle: [Details](/licenses#lekt5803)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5803))
 :::
-## 58.3. Der Dual des einfachen Futurs (⟪ऌत्⟫) <!-- TODO: Fallback translation -->
+## 58.3. Der Dual des einfachen Futurs (⟪ऌत्⟫)
 
-### 58.3.1. ⟪अनिट्⟫ <!-- TODO: Fallback translation -->
+### 58.3.1. ⟪अनिट्⟫
 
-⟪दा⟫ 3U "geben" <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U "geben"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪दास्यावस्⟫ | ⟪दास्यावहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪दास्यथस्⟫ | ⟪दास्येथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪दास्यतस्⟫ | ⟪दास्येते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪दास्यावस्⟫ | ⟪दास्यावहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪दास्यथस्⟫ | ⟪दास्येथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪दास्यतस्⟫ | ⟪दास्येते⟫ |
 :::
-### 58.3.2. ⟪सेट्⟫ <!-- TODO: Fallback translation -->
+### 58.3.2. ⟪सेट्⟫
 
-⟪भू⟫ 1P "werden, sein" <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P "werden, sein"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪भविष्यावस्⟫ | ⟪भविष्यावहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪भविष्यावस्⟫ | ⟪भविष्यावहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
 :::
-## 58.4. Der Dual Passiv (Suffix -⟪यक्⟫) <!-- TODO: Fallback translation -->
+## 58.4. Der Dual Passiv (Suffix -⟪यक्⟫)
 
-⟪तुद्⟫ 6U "stossen, schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U "stossen, schlagen"
 
 ::: grammar-box
-| 1\. ⟪तृतीयः⟫ | ⟪तुद्यवाहे⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ | <!-- TODO: Fallback translation -->
+| 1\. ⟪तृतीयः⟫ | ⟪तुद्यवाहे⟫ |
+| --- | --- |
+| 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫) <!-- TODO: Fallback translation -->
+## 58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
 
-### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
 
-⟪द्विष्⟫ 2U "hassen" <!-- TODO: Fallback translation -->
+⟪द्विष्⟫ 2U "hassen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪द्विष्वस्⟫ | ⟪द्विष्वहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪द्विष्ठस्⟫ | ⟪द्विषाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪द्विष्टस्⟫ | ⟪द्विषाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪द्विष्वस्⟫ | ⟪द्विष्वहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪द्विष्ठस्⟫ | ⟪द्विषाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪द्विष्टस्⟫ | ⟪द्विषाते⟫ |
 :::
-⟪दुह्⟫ 2U "melken" <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2U "melken"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪दुह्वस्⟫ | ⟪दुह्वहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | :sig[⟪दुग्धस्⟫] | ⟪दुहाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | :sig[⟪दुग्धस्⟫] | ⟪दुहाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪दुह्वस्⟫ | ⟪दुह्वहे⟫ |
+| 2\. ⟪मध्यमः⟫ | :sig[⟪दुग्धस्⟫] | ⟪दुहाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | :sig[⟪दुग्धस्⟫] | ⟪दुहाते⟫ |
 :::
-⟪इ⟫ 2P "gehen" <!-- TODO: Fallback translation -->
+⟪इ⟫ 2P "gehen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪इवस्⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪इथस्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪इतस्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪इवस्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪इथस्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪इतस्⟫ |
 :::
 ::: media
 ![](/images/lekt5806.webp)
 Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
-(Bildquelle: [Details](/licenses#lekt5806)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5806))
 :::
-⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren" <!-- TODO: Fallback translation -->
+⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren"
 
 ::: grammar-box
-|   | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अधीवहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अधी⟫:sig[⟪या⟫]⟪थे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अधी⟫:sig[⟪य⟫]⟪ते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪आत्मनेपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अधीवहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अधी⟫:sig[⟪या⟫]⟪थे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अधी⟫:sig[⟪य⟫]⟪ते⟫ |
 :::
 ::: media
 ![](/images/lekt5804.webp)
 Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
-(Bildquelle: [Details](/licenses#lekt5804)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5804))
 :::
-⟪हन्⟫ 2P "erschlagen" <!-- TODO: Fallback translation -->
+⟪हन्⟫ 2P "erschlagen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | ⟪हन्वस्⟫ | <!-- TODO: Fallback translation -->
-| **2. ⟪मध्यमः⟫** | :sig[⟪हथस्⟫] :br*hn-thas | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | :sig[⟪हतस्⟫] | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ |
+| :--- | :---: |
+| **1. ⟪तृतीयः⟫** | ⟪हन्वस्⟫ |
+| **2. ⟪मध्यमः⟫** | :sig[⟪हथस्⟫] :br*hn-thas |
+| **3. ⟪प्रथमः⟫** | :sig[⟪हतस्⟫] |
 :::
-⟪अस्⟫ 2P "sein" <!-- TODO: Fallback translation -->
+⟪अस्⟫ 2P "sein"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | :sig[⟪स्वस्⟫] :brs-vas | <!-- TODO: Fallback translation -->
-| **2. ⟪मध्यमः⟫** | :sig[⟪स्थस्⟫] | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | :sig[⟪स्तस्⟫] | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ |
+| :--- | :---: |
+| **1. ⟪तृतीयः⟫** | :sig[⟪स्वस्⟫] :brs-vas |
+| **2. ⟪मध्यमः⟫** | :sig[⟪स्थस्⟫] |
+| **3. ⟪प्रथमः⟫** | :sig[⟪स्तस्⟫] |
 :::
 ::: media
 ![](/images/lekt5805.webp)
 Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
-(Bildquelle: [Details](/licenses#lekt5805)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5805))
 :::
-### 58.5.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
 
-⟪हु⟫ 3P "ins Opferfeuer giessen" <!-- TODO: Fallback translation -->
+⟪हु⟫ 3P "ins Opferfeuer giessen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \<⟪जुहुवहे⟫\> | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \<⟪जुहुवहे⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> |
 :::
-⟪धा⟫ 3U "setzen, legen, stellen" <!-- TODO: Fallback translation -->
+⟪धा⟫ 3U "setzen, legen, stellen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪दध्वस्⟫ | ⟪दध्वहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪धत्थस्⟫ | ⟪दधाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪धत्तस्⟫ | ⟪दधाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪दध्वस्⟫ | ⟪दध्वहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪धत्थस्⟫ | ⟪दधाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪धत्तस्⟫ | ⟪दधाते⟫ |
 :::
-### 58.5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
 
-⟪सु⟫ 5U "auspressen" <!-- TODO: Fallback translation -->
+⟪सु⟫ 5U "auspressen"
 
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | ⟪सुनुवस्⟫ / ⟪सुन्वस्⟫ | ⟪सुनुवहे⟫ / ⟪सुन्वहे⟫ | <!-- TODO: Fallback translation -->
-| **2. ⟪मध्यमः⟫** | ⟪सुनुथस्⟫ | ⟪सुन्वाथे⟫ | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | ⟪सुनुतस्⟫ | ⟪सुन्वाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| :--- | :---: | :---: |
+| **1. ⟪तृतीयः⟫** | ⟪सुनुवस्⟫ / ⟪सुन्वस्⟫ | ⟪सुनुवहे⟫ / ⟪सुन्वहे⟫ |
+| **2. ⟪मध्यमः⟫** | ⟪सुनुथस्⟫ | ⟪सुन्वाथे⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪सुनुतस्⟫ | ⟪सुन्वाते⟫ |
 
 ::: media
 ![](/images/lekt5807.webp)
 Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
-(Bildquelle: [Details](/licenses#lekt5807)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5807))
 :::
-### 58.5.4. Achte Präsensklasse (⟪तनादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.4. Achte Präsensklasse (⟪तनादिगणः⟫)
 
-⟪तन्⟫ 8U "aufspannen" <!-- TODO: Fallback translation -->
+⟪तन्⟫ 8U "aufspannen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪तनुवस्⟫ / ⟪तन्वस्⟫ | ⟪तनुवहे⟫ / ⟪तन्वहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪तनुथस्⟫ | ⟪तन्वाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪तनुतस्⟫ | ⟪तन्वाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪तनुवस्⟫ / ⟪तन्वस्⟫ | ⟪तनुवहे⟫ / ⟪तन्वहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪तनुथस्⟫ | ⟪तन्वाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪तनुतस्⟫ | ⟪तन्वाते⟫ |
 :::
-⟪कृ⟫ 8U "tun, machen" <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U "tun, machen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪कुर्वस्⟫ | ⟪कुर्वहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪कुरुतस्⟫ | ⟪कुर्वाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪कुर्वस्⟫ | ⟪कुर्वहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪कुरुतस्⟫ | ⟪कुर्वाते⟫ |
 :::
-### 58.5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
 
-⟪रुध्⟫ 7U "stoppen" <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U "stoppen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्वस्⟫ | ⟪रुन्ध्वहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | :sig[⟪रुन्द्धस्⟫] | ⟪रुन्धाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धस्⟫ | ⟪रुन्धाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्वस्⟫ | ⟪रुन्ध्वहे⟫ |
+| 2\. ⟪मध्यमः⟫ | :sig[⟪रुन्द्धस्⟫] | ⟪रुन्धाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धस्⟫ | ⟪रुन्धाते⟫ |
 :::
-⟪युज्⟫ 7U "anschirren" <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U "anschirren"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्वस्⟫ | ⟪युञ्ज्वहे⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪युङ्क्तस्⟫ | ⟪युञ्जाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्वस्⟫ | ⟪युञ्ज्वहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪युङ्क्तस्⟫ | ⟪युञ्जाते⟫ |
 :::
-### 58.5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
 
-⟪क्री⟫ 9U "kaufen" <!-- TODO: Fallback translation -->
+⟪क्री⟫ 9U "kaufen"
 
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | ⟪क्रीणीवस्⟫ | ⟪क्रीणीवहे⟫ | <!-- TODO: Fallback translation -->
-| **2. ⟪मध्यमः⟫** | ⟪क्रीणीथस्⟫ | ⟪क्रीणाथे⟫:brkrī-ṇ-āthe | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | ⟪क्रीणीतस्⟫ | ⟪क्रीणाते⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| :--- | :---: | :---: |
+| **1. ⟪तृतीयः⟫** | ⟪क्रीणीवस्⟫ | ⟪क्रीणीवहे⟫ |
+| **2. ⟪मध्यमः⟫** | ⟪क्रीणीथस्⟫ | ⟪क्रीणाथे⟫:brkrī-ṇ-āthe |
+| **3. ⟪प्रथमः⟫** | ⟪क्रीणीतस्⟫ | ⟪क्रीणाते⟫ |
 
 ::: media
 ![](/images/lekt5801.webp)
 Abb.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
-(Bildquelle: [Details](/licenses#lekt5801)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-Aorist <!-- TODO: Fallback translation -->
+## 58.6. Aorist 5: iṣ-Aorist
 
 ::: grammar-box
-**Der iṣ-Aorist wird von allen seṭ-Wurzeln gebildet, für die nicht ausdrücklich ausschliesslich eine andere Form des Aorist gelehrt wird.** <!-- TODO: Fallback translation -->
+**Der iṣ-Aorist wird von allen seṭ-Wurzeln gebildet, für die nicht ausdrücklich ausschliesslich eine andere Form des Aorist gelehrt wird.**
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-**Augment + Wurzel + i + s + athematische Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + Wurzel + i + s + athematische Sekundärendung**
 
-**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen). <!-- TODO: Fallback translation -->
+**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen).
 :::
-Stammbildungssuffix + Endungen des iṣ-Aorist lauten also: <!-- TODO: Fallback translation -->
+Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
 
 ::: grammar-box
 
-|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** | <!-- TODO: Fallback translation -->
-| **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h oder Halbvokal) | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
+| **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h oder Halbvokal) |
+| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
 :::
 ::: grammar-box
-**Form der Wurzel:** <!-- TODO: Fallback translation -->
+**Form der Wurzel:**
 
-*   **Wurzeln mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā**   <!-- TODO: Fallback translation -->
+*   **Wurzeln mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā**  
     Beispiele:  
 :::
 ::: indent
 ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
-⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫ <!-- TODO: Fallback translation -->
+⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
 :::
 
-*   **Wurzeln mit auslautendem Vokal:** <!-- TODO: Fallback translation -->
-    *   **P: Dehnstufe** <!-- TODO: Fallback translation -->
-    *   **Ā: Hochstufe** <!-- TODO: Fallback translation -->
+*   **Wurzeln mit auslautendem Vokal:**
+    *   **P: Dehnstufe**
+    *   **Ā: Hochstufe**
 
     Beispiele:  
 ::: indent
-⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫ <!-- TODO: Fallback translation -->
+⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
 :::
 
-*   **Wurzeln auf -ar., -al sowie ⟪वद्⟫ 1P "sagen", ⟪व्रज्⟫ 1P "weggehen": P: Dehnstufe**   <!-- TODO: Fallback translation -->
+*   **Wurzeln auf -ar., -al sowie ⟪वद्⟫ 1P "sagen", ⟪व्रज्⟫ 1P "weggehen": P: Dehnstufe**  
     Beispiele:  
 ::: indent
 ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫
-⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫ <!-- TODO: Fallback translation -->
+⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
 :::
 
-*   **Andere Wurzeln der Form (Kons.-)Kons.-a-Kons.: im P wahlweise Dehnstufe (gilt nicht für Wurzeln auf -h, -m, -y sowie einige weitere Wurzeln)**   <!-- TODO: Fallback translation -->
+*   **Andere Wurzeln der Form (Kons.-)Kons.-a-Kons.: im P wahlweise Dehnstufe (gilt nicht für Wurzeln auf -h, -m, -y sowie einige weitere Wurzeln)**  
     Beispiel:  
 ::: indent
 ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
 aber:
-⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫ <!-- TODO: Fallback translation -->
+⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
 :::
-Paradigmen: <!-- TODO: Fallback translation -->
+Paradigmen:
 
-⟪पू⟫ 9U "reinigen" <!-- TODO: Fallback translation -->
+⟪पू⟫ 9U "reinigen"
 
 ::: indent
-|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | ⟪अपाविषम्⟫ | ⟪पाविष्म⟫ | ⟪अपविषि⟫ | ⟪अपविष्महि⟫ | <!-- TODO: Fallback translation -->
-| **2. ⟪द्वितीयः⟫** | ⟪अपावीस्⟫ | ⟪अपाविष्ट⟫ | ⟪अपविष्ठास्⟫ | ⟪अपविध्वम्⟫ / :br⟪अपविढ्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | ⟪अपावीत्⟫ | ⟪अपाविषुर्⟫ | ⟪अपविष्ट⟫ | ⟪पविषत⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अपाविषम्⟫ | ⟪पाविष्म⟫ | ⟪अपविषि⟫ | ⟪अपविष्महि⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अपावीस्⟫ | ⟪अपाविष्ट⟫ | ⟪अपविष्ठास्⟫ | ⟪अपविध्वम्⟫ / :br⟪अपविढ्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अपावीत्⟫ | ⟪अपाविषुर्⟫ | ⟪अपविष्ट⟫ | ⟪पविषत⟫ |
 :::
-⟪बुध्⟫ 1U "erwachen, erkennen" <!-- TODO: Fallback translation -->
+⟪बुध्⟫ 1U "erwachen, erkennen"
 
 ::: indent
-|   | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | ⟪अबोधिषम्⟫ | ⟪अबोधिष्म⟫ | <!-- TODO: Fallback translation -->
-| **2. ⟪द्वितीयः⟫** | ⟪अबोधीस्⟫ | ⟪अबोधिष्ट⟫ | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | ⟪अबोधीत्⟫ | ⟪अबोधिषुर्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ ||
+| :--- | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अबोधिषम्⟫ | ⟪अबोधिष्म⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अबोधीस्⟫ | ⟪अबोधिष्ट⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अबोधीत्⟫ | ⟪अबोधिषुर्⟫ |
 :::
-⟪कॢप्⟫ 1Ā "passend sein" <!-- TODO: Fallback translation -->
+⟪कॢप्⟫ 1Ā "passend sein"
 
 ::: indent
-|   | ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | ⟪अकल्पिषि⟫ | ⟪अकल्पिष्महि⟫ | <!-- TODO: Fallback translation -->
-| **2. ⟪द्वितीयः⟫** | ⟪अकल्पिष्ठास्⟫ | ⟪अकल्पिध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | ⟪अकल्पिष्ट⟫ | ⟪अकल्पिषत⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪आत्मनेपदम्⟫ ||
+| :--- | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अकल्पिषि⟫ | ⟪अकल्पिष्महि⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अकल्पिष्ठास्⟫ | ⟪अकल्पिध्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अकल्पिष्ट⟫ | ⟪अकल्पिषत⟫ |
 :::
 ::: grammar-box
-**Besonderheiten:** <!-- TODO: Fallback translation -->
+**Besonderheiten:**
 
-1.  Bei einigen Wurzeln kann der Bindevokal -i- im ⟪आत्मनेपद⟫ durch -ī- ersetzt werden. Nach ⟪ग्रह्⟫ 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:   <!-- TODO: Fallback translation -->
+1.  Bei einigen Wurzeln kann der Bindevokal -i- im ⟪आत्मनेपद⟫ durch -ī- ersetzt werden. Nach ⟪ग्रह्⟫ 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:  
 :::
 ::: indent
-⟪अग्र⟫:sig[⟪ही⟫]⟪षम्⟫ , ⟪अग्र⟫:sig[⟪ही⟫]⟪षि⟫ <!-- TODO: Fallback translation -->
+⟪अग्र⟫:sig[⟪ही⟫]⟪षम्⟫ , ⟪अग्र⟫:sig[⟪ही⟫]⟪षि⟫
 :::
 
-2.  Wurzeln der 8. Präsensklasse auf -n (oder -ṇ) können in der 2.3.sg.Ā tiefstufig sein:   <!-- TODO: Fallback translation -->
+2.  Wurzeln der 8. Präsensklasse auf -n (oder -ṇ) können in der 2.3.sg.Ā tiefstufig sein:  
 ::: indent
-⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (Wurzelaorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫ <!-- TODO: Fallback translation -->
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (Wurzelaorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 :::
 
-3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā u.a. können statt der 3.sg. Ā auch die Form des Passivaorists annehmen:   <!-- TODO: Fallback translation -->
+3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā u.a. können statt der 3.sg. Ā auch die Form des Passivaorists annehmen:  
 ::: indent
-⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫ <!-- TODO: Fallback translation -->
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
 :::
 
-4.  ⟪विज्⟫ 7P hat keinen Ablaut:   <!-- TODO: Fallback translation -->
+4.  ⟪विज्⟫ 7P hat keinen Ablaut:  
 ::: indent
-⟪अविजीत्⟫ <!-- TODO: Fallback translation -->
+⟪अविजीत्⟫
 :::
 ::: media
 ![](/images/lekt5808.webp)
 Abb.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt5808)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5808))
 :::
-## 58.7. Übung <!-- TODO: Fallback translation -->
+## 58.7. Übung
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist: <!-- TODO: Fallback translation -->
+A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist:
 
-1.  ⟪औहे⟫ <!-- TODO: Fallback translation -->
-2.  ⟪जाग्रति⟫ <!-- TODO: Fallback translation -->
-3.  ⟪जीर्यन्ति⟫ <!-- TODO: Fallback translation -->
-4.  ⟪आनर्च⟫ <!-- TODO: Fallback translation -->
-5.  ⟪खादामः⟫ <!-- TODO: Fallback translation -->
-6.  ⟪नेद⟫ <!-- TODO: Fallback translation -->
-7.  ⟪आश्नीत⟫ <!-- TODO: Fallback translation -->
-8.  ⟪पुनते⟫ <!-- TODO: Fallback translation -->
-9.  ⟪अशेरत⟫ <!-- TODO: Fallback translation -->
-10.  ⟪इयेषिथ⟫ <!-- TODO: Fallback translation -->
-11.  ⟪आर्च्छत्⟫ <!-- TODO: Fallback translation -->
-12.  ⟪अर्हन्ति⟫ <!-- TODO: Fallback translation -->
-13.  ⟪ऊदुः⟫ <!-- TODO: Fallback translation -->
-14.  ⟪इन्त्से⟫ <!-- TODO: Fallback translation -->
-15.  ⟪आध्वे⟫ <!-- TODO: Fallback translation -->
-16.  ⟪कल्पे⟫ <!-- TODO: Fallback translation -->
-17.  ⟪आनीत्⟫ <!-- TODO: Fallback translation -->
-18.  ⟪ऐक्षध्वम्⟫ <!-- TODO: Fallback translation -->
-19.  ⟪अचेतः⟫ <!-- TODO: Fallback translation -->
+1.  ⟪औहे⟫
+2.  ⟪जाग्रति⟫
+3.  ⟪जीर्यन्ति⟫
+4.  ⟪आनर्च⟫
+5.  ⟪खादामः⟫
+6.  ⟪नेद⟫
+7.  ⟪आश्नीत⟫
+8.  ⟪पुनते⟫
+9.  ⟪अशेरत⟫
+10.  ⟪इयेषिथ⟫
+11.  ⟪आर्च्छत्⟫
+12.  ⟪अर्हन्ति⟫
+13.  ⟪ऊदुः⟫
+14.  ⟪इन्त्से⟫
+15.  ⟪आध्वे⟫
+16.  ⟪कल्पे⟫
+17.  ⟪आनीत्⟫
+18.  ⟪ऐक्षध्वम्⟫
+19.  ⟪अचेतः⟫
 
-B) Übersetzen und bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
+B) Übersetzen und bestimmen Sie folgende Formen:
 
-1.  ⟪अनेढ्वम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪एनयोः⟫ <!-- TODO: Fallback translation -->
-3.  ⟪अष्टौ⟫ <!-- TODO: Fallback translation -->
-4.  ⟪चक्रम⟫ <!-- TODO: Fallback translation -->
-5.  ⟪ना⟫ <!-- TODO: Fallback translation -->
-6.  ⟪अत्तः⟫ <!-- TODO: Fallback translation -->
-7.  ⟪अधृत⟫ <!-- TODO: Fallback translation -->
-8.  ⟪ईहेरन्⟫ <!-- TODO: Fallback translation -->
-9.  ⟪अधिजगे⟫ <!-- TODO: Fallback translation -->
-10.  ⟪जग्म⟫ <!-- TODO: Fallback translation -->
-11.  ⟪अघ्रात्⟫ <!-- TODO: Fallback translation -->
-12.  ⟪अद्राक्ष्म⟫ <!-- TODO: Fallback translation -->
-13.  ⟪अस्थाः⟫ <!-- TODO: Fallback translation -->
-14.  ⟪अधमः⟫ <!-- TODO: Fallback translation -->
-15.  ⟪आनर्ध⟫ <!-- TODO: Fallback translation -->
-16.  ⟪पथोः⟫ <!-- TODO: Fallback translation -->
-17.  ⟪जेता⟫ <!-- TODO: Fallback translation -->
-18.  ⟪श्वा⟫ <!-- TODO: Fallback translation -->
-19.  ⟪स्वः⟫ <!-- TODO: Fallback translation -->
-20.  ⟪यदृच्छया⟫ <!-- TODO: Fallback translation -->
-21.  ⟪अकार्षम्⟫ <!-- TODO: Fallback translation -->
-22.  ⟪क्रीणीथः⟫ <!-- TODO: Fallback translation -->
-23.  ⟪क्रीणीथ⟫ <!-- TODO: Fallback translation -->
-24.  ⟪जानानि⟫ <!-- TODO: Fallback translation -->
-25.  ⟪भोः⟫ <!-- TODO: Fallback translation -->
-26.  ⟪अजैष्त⟫ <!-- TODO: Fallback translation -->
-27.  ⟪पुरा⟫ <!-- TODO: Fallback translation -->
-28.  ⟪देवा⟫ <!-- TODO: Fallback translation -->
-29.  ⟪गन्धी⟫ <!-- TODO: Fallback translation -->
-30.  ⟪ईय⟫ <!-- TODO: Fallback translation -->
-31.  ⟪नाना⟫ <!-- TODO: Fallback translation -->
-32.  ⟪देह⟫ <!-- TODO: Fallback translation -->
-33.  ⟪अतत⟫ <!-- TODO: Fallback translation -->
-34.  ⟪आप्स्यावः⟫ <!-- TODO: Fallback translation -->
-35.  ⟪अतौत्त⟫ <!-- TODO: Fallback translation -->
-36.  ⟪इमे⟫ <!-- TODO: Fallback translation -->
-37.  ⟪इतः⟫ <!-- TODO: Fallback translation -->
-38.  ⟪दद⟫ <!-- TODO: Fallback translation -->
-39.  ⟪अञ्ज्वः⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अनेढ्वम्⟫
+2.  ⟪एनयोः⟫
+3.  ⟪अष्टौ⟫
+4.  ⟪चक्रम⟫
+5.  ⟪ना⟫
+6.  ⟪अत्तः⟫
+7.  ⟪अधृत⟫
+8.  ⟪ईहेरन्⟫
+9.  ⟪अधिजगे⟫
+10.  ⟪जग्म⟫
+11.  ⟪अघ्रात्⟫
+12.  ⟪अद्राक्ष्म⟫
+13.  ⟪अस्थाः⟫
+14.  ⟪अधमः⟫
+15.  ⟪आनर्ध⟫
+16.  ⟪पथोः⟫
+17.  ⟪जेता⟫
+18.  ⟪श्वा⟫
+19.  ⟪स्वः⟫
+20.  ⟪यदृच्छया⟫
+21.  ⟪अकार्षम्⟫
+22.  ⟪क्रीणीथः⟫
+23.  ⟪क्रीणीथ⟫
+24.  ⟪जानानि⟫
+25.  ⟪भोः⟫
+26.  ⟪अजैष्त⟫
+27.  ⟪पुरा⟫
+28.  ⟪देवा⟫
+29.  ⟪गन्धी⟫
+30.  ⟪ईय⟫
+31.  ⟪नाना⟫
+32.  ⟪देह⟫
+33.  ⟪अतत⟫
+34.  ⟪आप्स्यावः⟫
+35.  ⟪अतौत्त⟫
+36.  ⟪इमे⟫
+37.  ⟪इतः⟫
+38.  ⟪दद⟫
+39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [Bildquelle: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
-
-**lekt5803:** Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ <!-- TODO: Fallback translation -->
-
-**lekt5806:** [Bildquelle: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). --  Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine Kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt5807:** ⟪पुणेनगरे⟫ <!-- TODO: Fallback translation -->
-
-**lekt5801:** [Bildquelle: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-:::

@@ -9,14 +9,6 @@ status: stable
 
 # Lección 3
 
-::: deleteme-box
-**En esta lección aprenderá:**
-- el nominativo singular del femenino
-- el nominativo plural del masculino y del femenino
-- la formación del femenino a partir de masculinos
-- sandhi vocálico
-- Sandhi de oración de -ās
-:::
 ## 3.1. Nominativoooooo singular del femenino
 
 ### 3.1.1. Nominativoooooo singular en -s
@@ -76,7 +68,7 @@ Nota: **e** es la forma reforzada (**guṇa**) de **i**, **o** es la forma refor
 :::
 p. ej.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā es una deidad" = ⟪देवतान्नपूर्णा⟫ &lt;!-- TODO: Fallback translation --&gt;
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā es una deidad" = ⟪देवतान्नपूर्णा⟫ &lt;!--  --&gt;
 
 > (Annapūrṇā es la diosa de los alimentos y la cocina, se la considera una encarnación de Pārvatī, la esposa de Śiva.)
 
@@ -127,7 +119,7 @@ p. ej.
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-por ejemplo &lt;!-- TODO: Fallback translation --&gt;
+por ejemplo &lt;!--  --&gt;
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Los vaiśyas son dos veces nacidos" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -162,7 +154,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Los vaiśyas son dos veces nacidos"
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : brahmán.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya femenina. &lt;!-- TODO: Fallback translation --&gt;
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya femenina. &lt;!--  --&gt;
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : esposa de un kṣatriya.
 

@@ -5,7 +5,7 @@ lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Luento 14
 
@@ -14,7 +14,7 @@ status: stable
 ::: grammar-box
 Jos kahden substantiivin ilmaisema suhde halutaan ilmaista, käytetään genetiiviä (ṣaṣṭhī f. "kuudes sijapääte"). Genetiivi eroaa muista taivutusmuodoista siten, että se -- harvoin poikkeuksin -- ei palvele verbin ilmaiseman toiminnan tarkempaa määrittämistä, vaan se ilmaisee substantiiveilla merkittyjen henkilöiden tai esineiden välistä suhdetta. Genetiivi vastaa usein kysymykseen: Kenen?
 :::
-Esimerkit: <!-- TODO: Fallback translation -->
+Esimerkit:
 
 ⟪कवेः⟫ ⟪पुत्रः⟫ "Runoilijan poika"
 
@@ -32,7 +32,7 @@ Normaalisanajärjestys on:
 **Genetiivi ja PPP:**
 
 ::: grammar-box
-PPP:n yhteydessä genetiivi voi korvata instrumentaalin (tṛtīyā) agentin (kartṛ) merkkinä; instrumentaalin rakenteessa PPP:tä pidetään passiivisena verbinä (instrumentaalissa oleva ilmaisee agentin), kun taas genetiivin rakenteessa PPP:tä käsitellään substantiivina tai adjektiivina (genetiivin sijassa oleva ei siis ole varsinaisesti agentti). <!-- TODO: Fallback translation -->
+PPP:n yhteydessä genetiivi voi korvata instrumentaalin (tṛtīyā) agentin (kartṛ) merkkinä; instrumentaalin rakenteessa PPP:tä pidetään passiivisena verbinä (instrumentaalissa oleva ilmaisee agentin), kun taas genetiivin rakenteessa PPP:tä käsitellään substantiivina tai adjektiivina (genetiivin sijassa oleva ei siis ole varsinaisesti agentti).
 
 Pāṇinin 2.3.67 mukaan PPP:n yhteydessä genetiivi esiintyy, jos PPP:llä on preesensin merkitys (ks. yllä), ja instrumentaali, jos PPP:llä on menneisyyden merkitys:
 
@@ -42,7 +42,7 @@ Pāṇinin 2.3.67 mukaan PPP:n yhteydessä genetiivi esiintyy, jos PPP:llä on p
 
 Luonnollisesti genetiivi sijaitsee silloin, kun PPP:n neutrin yksikköä käytetään verbalitina eli substantiivina.
 :::
-## 14.2. Genetiivimuotojen muodostus (ṣaṣṭhī f. = ⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
+## 14.2. Genetiivimuotojen muodostus (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 Genetiivi muodostetaan verbijuoressa, jossa on juurivaihtelua (stems with ablaut), heikosta muodosta.
 
@@ -52,7 +52,7 @@ Genetiivi muodostetaan verbijuoressa, jossa on juurivaihtelua (stems with ablaut
 
 Konsonantin jälkeen säännölliset genetiivin päätteen ovat:
 * yksikkö: **-as**
-* monikko: **-ām** <!-- TODO: Fallback translation -->
+* monikko: **-ām**
 
 :::
 ::: center
@@ -60,7 +60,7 @@ Konsonantin jälkeen säännölliset genetiivin päätteen ovat:
 | Nominalstamm | Schwacher Vartalo | genetiivi yksikkö | genetiivi monikko |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
-| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ | <!-- TODO: Fallback translation -->
+| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
 **Genetiivi vokaalipäätteisistä varroista, paitsi yksitavuiset juurinominatiivit ja diftongipäätteiset varrot:**
@@ -71,7 +71,7 @@ Konsonantin jälkeen säännölliset genetiivin päätteen ovat:
 
 Genetiivin monikko vokaalipäätteisten varjojen muodostetaan näin:
 
-> **-pitkä päätteen vokaali + -nām** <!-- TODO: Fallback translation -->
+> **-pitkä päätteen vokaali + -nām**
 
 :::
 ::: center
@@ -88,11 +88,11 @@ Genetiivin monikko vokaalipäätteisten varjojen muodostetaan näin:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genetiivin yksikkö vokaalipäätteisten varsienvuorovaikutus:** <!-- TODO: Fallback translation -->
+**Genetiivin yksikkö vokaalipäätteisten varsienvuorovaikutus:**
 
 ::: grammar-box
 
-Genetiivin yksikkö vokaalipäätteisten varjojen muodostetaan epäsäännöllisesti, ja se on opeteltava ulkoa. <!-- TODO: Fallback translation -->
+Genetiivin yksikkö vokaalipäätteisten varjojen muodostetaan epäsäännöllisesti, ja se on opeteltava ulkoa.
 
 :::
 ::: center
@@ -106,7 +106,7 @@ Genetiivin yksikkö vokaalipäätteisten varjojen muodostetaan epäsäännöllis
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 **Kysymys- ja demonstratiivipronominit:**
@@ -118,14 +118,14 @@ Genetiivin yksikkö vokaalipäätteisten varjojen muodostetaan epäsäännöllis
 | **maskuliini / neutri** | **genetiivi yksikkö** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
 | | **genetiivi monikko** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
 | **feminiini** | **genetiivi yksikkö** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **genetiivi monikko** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ | <!-- TODO: Fallback translation -->
+| | **genetiivi monikko** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
 **Formengleichheit:**
 
 ::: important
 
-Kaikilla substantiivijänteillä paitsi maskuliineilla ja neutreilla, jotka päättyvät -a, sekä pronomineissa genetiivin yksikön muoto on sama kuin ablatiivin (pañcamī "viides kasuspääte") yksikön muoto! <!-- TODO: Fallback translation -->
+Kaikilla substantiivijänteillä paitsi maskuliineilla ja neutreilla, jotka päättyvät -a, sekä pronomineissa genetiivin yksikön muoto on sama kuin ablatiivin (pañcamī "viides kasuspääte") yksikön muoto!
 
 Huomaa, että konsonanttivartaloisissa vartalossa ablatiivin ja genetiivin yksikkö kuulostavat samoin kuin akkusatiivin monikon maskuliini ja feminiini!
 
@@ -133,11 +133,11 @@ Huomaa, että konsonanttivartaloisissa vartalossa ablatiivin ja genetiivin yksik
 ## 14.3. Genetiivin käytöstä edelleen (⟪षष्ठी⟫)
 
 ::: grammar-box
-Yllä olevan perussäännön vastaisesti genetiiviä käytetään ilmaisemaan joitain verbejä, esimerkiksi muistamisverbejä: <!-- TODO: Fallback translation -->
+Yllä olevan perussäännön vastaisesti genetiiviä käytetään ilmaisemaan joitain verbejä, esimerkiksi muistamisverbejä:
 
 > ⟪देवानां⟫ ⟪स्मरति⟫ "Hän muistelee jumalia"
 
-Näiden verbien kohde voi kuitenkin olla myös akkusatiivissa: <!-- TODO: Fallback translation -->
+Näiden verbien kohde voi kuitenkin olla myös akkusatiivissa:
 
 > ⟪देवान्स्मरति⟫ "Hän muistelee jumalia"
 
@@ -168,9 +168,9 @@ Kuv.: ⟪दीपाः⟫
   * **vac-ana n.** (⟪वचन⟫) : puhuminen, sana
   * **vāk-ya n.** (⟪वाक्य⟫) : sana, puhe
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sananlaskut <!-- TODO: Fallback translation -->
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sananlaskut
 
-Käännä seuraavat sananlaskut ja opettele ne ulkoa: <!-- TODO: Fallback translation -->
+Käännä seuraavat sananlaskut ja opettele ne ulkoa:
 
 **⟪नीचो⟫ ⟪वद⟫ati ⟪न⟫ ⟪कुरुते⟫** **⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫**
 
@@ -241,7 +241,7 @@ Käännä seuraavat sananlaskut ja opettele ne ulkoa: <!-- TODO: Fallback transl
 Kuvaus: ⟪पुत्रवती⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1404))
 :::
-⟪२६⟫. ⟪जल⟫ <!-- TODO: Fallback translation -->
+⟪२६⟫. ⟪जल⟫
 
 ⟪२७⟫. ⟪मार्ग⟫
 
@@ -302,7 +302,7 @@ Kuvaus: ⟪पुत्रवती⟫
 Kuva: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Kuvalähde: [Tiedot](/fi/licenses#lekt1403))
 :::
-**B) Käännä:** <!-- TODO: Fallback translation -->
+**B) Käännä:**
 
 ⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 vaihtoehtoa)
 
@@ -335,4 +335,3 @@ Kuva: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 Kuv.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1402))
 :::
- <!-- TODO: Fallback translation -->

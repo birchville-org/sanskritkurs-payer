@@ -1,40 +1,41 @@
 ---
-title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+title: "Lecke 39"
+subtitle: 'Az első személy ragjai (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**harmadik** személy\")'
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# 39. lecke <!-- TODO: Fallback translation -->
+# Lecke 39
 
-## 39.1. Az első személyű végződések (:sig[तृतीयः] ⟪पुरुषः⟫ = "**harmadik** személy") <!-- TODO: Fallback translation -->
+## 39.1. Az első személy ragozóvégződése (:sig[तृतीयः] ⟪पुरुषः⟫ = "**harmadik** személy")
 
-Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**harmadik** személy") a következők: <!-- TODO: Fallback translation -->
+Az első személy végződése (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**harmadik** személy") a következő:
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Tárgyas főnévi származékok** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
-| **Tárgyatlan főnévi származékok** | ^^ | ^^ | **-e** | ^^ |
-| **Másodlagos képzők** | **-m** | **-ma** | **-i** | **-mahi** |
-| **Másodlagos képzők (tárgyatlan)** | **-am** | ^^ | ^^ | ^^ |
-| **Kívánó mód (optativus)endung** | ^^ | ^^ | **-a** | ^^ |
-| **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
+| **Prímár témaalapú tővégződés** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
+| **Prímár atémaalapú tővégződés** | ^^ | ^^ | **-e** | ^^ |
+| **Szekundér témaalapú tővégződés** | **-m** | **-ma** | **-i** | **-mahi** |
+| **Szekundér atémaalapú tővégződés** | **-am** | ^^ | ^^ | ^^ |
+| **Optativus végződés** | ^^ | ^^ | **-a** | ^^ |
+| **Perfektus végződés** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
-¹ Megjegyzés: valójában a tárgyas főnévi származékok Ā képzője -e formában is előfordul, ahol a téma magánhangzója -a- analógia okból kiesik. Az eredmény azonban úgy hangzik, mintha a -i képző kapcsolódna a téma magánhangzójához: a + i » e.
+¹ Megjegyzés: valójában a témaalapú tők prímár végződése Ā, amelyet -e-ként is lehet levezetni, mivel a tőmaghangzó -a- analógia okokból kiesik. Az eredmény azonban úgy hat, mintha az -i végződés a tőmaghangzó -a- elé lépne: a + i » e.
 
-## 39.2. Az első személyű ragozott igék képzése téma szerinti jelen idői alapokból
+## 39.2. Az első személy ragozóformáinak képzése témaalapú jelen idő tőkből
 
 ::: grammar-box
 **Szabály:**
-**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
+**-mi, -mas, -ma, -mahe, -mahi előtt a tőmaghangzó -a- helyett -ā- áll !!!**
 :::
-### 39.2.1. Első jelen idői osztály (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+### 39.2.1. Első jelen idő osztály (⟪भ्वादि⟫)
 
 ⟪भू⟫ 1P
 
@@ -43,9 +44,9 @@ Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुर�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Jelen idő kijelentő mód  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
-| **Múlt idő (imperfektum)  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
-| **Kívánó mód (optativus)  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi | <!-- TODO: Fallback translation -->
+| **Indikatív jelen idő - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\&lt;⟪भवे⟫\&gt;** :brbhava + i:brrichtig: bhav-e | **\&lt;⟪भवामहे⟫\&gt;** |
+| **Imperfektum - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\&lt;⟪अभवे⟫\&gt;** | **\&lt;⟪अभवामहि⟫\&gt;** |
+| **Optativus - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. Hatodik jelenidő-osztály (⟪तुदादि⟫)
@@ -90,7 +91,7 @@ Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुर�
 | **Kívánó mód (optativus)  - ⟪विधिलिङ्⟫** | ⟪चोरयेयम्⟫ | ⟪चोरयेम⟫ | ⟪चोरयेय⟫ | ⟪चोरयेमहि⟫ |
 
 :::
-### 39.2.5. Passzív (Suffix ⟪यक्⟫)
+### 39.2.5. Passzív (képző ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -98,19 +99,19 @@ Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुर�
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: |
-| **Jelen idő indikatívja - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
-| **Múlt idő (imperfektum) - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
-| **Kívánó mód (optativus) - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi | <!-- TODO: Fallback translation -->
+| **Indikativ jelen idő - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
+| **Aorist - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
+| **Optativ - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Az egyszerű jövő idő első személyű ragozott formáinak képzése - ⟪ऌत्⟫
+## 39.3. Az egyszerű jövő idő első személyű igeképzése - ⟪ऌत्⟫
 
 ::: grammar-box
-**A jövő idő tematikus képzésű. Ezért az alábbi szabály is érvényes a témás tövekre:**
+**A jövő idő témavokális képzésű. Ezért érvényes rá a témavokális törzsekre vonatkozó szabály is:**
 
-**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
+**A -mi, -mas, -mahe végződések előtt a témavokális -a- helyett -ā- áll !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫-képzés <!-- TODO: Fallback translation -->
+### 39.3.1. ⟪अनिट्⟫-képzés
 
 ⟪दा⟫ 3U
 
@@ -119,7 +120,7 @@ Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुर�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Jövő idő  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
+| **Jövő idő - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
 ### 39.3.2. ⟪सेट्⟫-képzés
@@ -131,22 +132,24 @@ Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुर�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Jövő idő  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
+| **Jövő idő - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
 
 :::
-## 39.4. Az athémás jelen idői törzsek első személyű ragozott formáinak képzése
+## 39.4. Az athémás jelen idő törzsek első személyű igeképzése
 
 ::: grammar-box
-**Vegye figyelembe, hogy a szó belsejében – ellentétben az mondatsandhival – a végződés előtt, amely**
+**Vegye figyelembe, hogy a szó belsejében – ellentétben az összetétel szabályaival (szandhival) – a végződések előtt, amelyek**
 * **magánhangzóval**
 * **félhangzóval**
 * **nazálissal**
+
+**kezdődnek, a mássalhangzók általában változatlanok maradnak.**
 
 **kezdődik, a mássalhangzók általában változatlanok maradnak.**
 
 pl. ⟪वच्⟫ 1.sg.Ind.Präs.P ⟪व⟫*⟪च्मि⟫***
 :::
-### 39.4.1. Második jelen időosztály (⟪अदादि⟫) <!-- TODO: Fallback translation -->
+### 39.4.1. Második jelen időosztály (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
@@ -177,7 +180,7 @@ pl. ⟪वच्⟫ 1.sg.Ind.Präs.P ⟪व⟫*⟪च्मि⟫***
 Ábra: ⟪सो⟫ ⟪ऽस्मि⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3901))
 :::
-### 39.4.2. Harmadik jelen idő osztály (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
+### 39.4.2. Harmadik jelen idő osztály (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 
@@ -369,4 +372,3 @@ Példa: ⟪गच्छन्ति⟫ » ⟪गच्छामस्⟫
 87.  ⟪जहति⟫
 88.  ⟪अजुहवुः⟫
 89.  ⟪हरति⟫
-

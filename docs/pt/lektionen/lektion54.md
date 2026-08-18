@@ -262,14 +262,7 @@ Traduza por escrito as seguintes formas e forme as correspondentes formas do aor
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Fonte da imagem: [Detalhes](/licenses#lekt5401))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Fonte da imagem: Raji Srinivas / Wikipedia. GNU FDLicense]
-
-**lekt5401:** Tamil Nadu [Fonte da imagem: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Acessado em 2009-01-28. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, Uso Não-Comercial, Compartilhamento pela mesma licença)]
 
 :::
 

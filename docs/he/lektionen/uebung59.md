@@ -1,8 +1,9 @@
 ---
 title: "תרגיל 59"
 uebung_id: 59
-category: "תרגיל"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

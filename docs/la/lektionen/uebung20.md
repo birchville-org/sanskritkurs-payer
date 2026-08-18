@@ -16,15 +16,15 @@ Princeps deorum non-Arios, hostes Indræ, vincit (aut: quorum hoster Indra est).
 
 ⟪२⟫. ⟪शूरबलक्षत्रिययोधः⟫ ⟪शूरपुत्रमिच्छति⟫ ⟪॥२॥⟫
 Kṣatriyæ pugnae cum virium herois optat filium heroicum.
-Der Kṣatriyakrieger mit der Kraft eines Helden wünscht sich einen Heldensohn. <!-- TODO: Fallback translation -->
+Der Kṣatriyakrieger mit der Kraft eines Helden wünscht sich einen Heldensohn.
 
 ⟪३⟫. ⟪सुदुर्गममार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकमार्गः⟫ ⟪॥३॥⟫
 In via valde onerosa ad caelum pervenitur. Via autem ad inferna simplex est.
-Auf einem sehr beschwerlichen Weg kommt man in einen Himmel. Der Weg zu einer Hölle ist aber einfach. <!-- TODO: Fallback translation -->
+Auf einem sehr beschwerlichen Weg kommt man in einen Himmel. Der Weg zu einer Hölle ist aber einfach.
 
 ⟪४⟫. ⟪मृतपुत्रब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥४॥⟫
 Brahmanina, cuius filius mortuus est, plorat.
-Die Brahmanin, deren Sohn gestorben ist, weint. <!-- TODO: Fallback translation -->
+Die Brahmanin, deren Sohn gestorben ist, weint.
 
 ⟪५⟫. ⟪वीतमोहब्राह्मणः⟫ ⟪सम्पन्नरूपामपि⟫ ⟪शूद्रां⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥५॥⟫
 ⟪वीतो⟫ ⟪मोहो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्तामपि⟫ ⟪शूद्रां⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥⟫
@@ -70,7 +70,7 @@ B) Versio facite utentes compositis in Sanscrito:
 Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Imago fontis: [Detalia](/licenses#uebung031))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Analysises Compositorum
 
@@ -256,9 +256,6 @@ Clarificatio mentis fit per evolutionem benevolentiae amicae, misericordiae, gau
 Yoga actionis est ascetismus, studium Vedarum et attentus servitus DOMINO. Finem habet evolutionem collectionis et infirmitatem "dolorum".
 
 
-::: deleteme-box Erläuterung
-Quinque "tormenta" (⟪क्लेश⟫) sunt: ⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫ (Yoga-Sūtra 2.3) — ignorantia, egoismus, cupiditas, odium et corporis adhaesio.
-:::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Summum hominis bonum est ut triplex dolor omnino evanescat. (Triplex dolor: ex seipsis, ab objectis, a dis.)
 

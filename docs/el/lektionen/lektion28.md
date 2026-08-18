@@ -176,7 +176,7 @@ last_reconstructed: 2026-05-16
 | ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein |
 | ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken |
 | ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen | <!-- TODO: Fallback translation -->
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
 
 ::: grammar-box
 **Τύπος Εκπαίδευσης 2: ρίζα με φθόγγο επιμήκυνσης + -aya-**
@@ -191,7 +191,7 @@ last_reconstructed: 2026-05-16
 | ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
 | ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen | <!-- TODO: Fallback translation -->
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
 
 ::: grammar-box
 **Τύπος Εκπαίδευσης 3: βαθιά ρίζα + -aya-**
@@ -202,7 +202,7 @@ last_reconstructed: 2026-05-16
 
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben | <!-- TODO: Fallback translation -->
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben |
 
 ::: grammar-box
 **Τύπος Εκπαίδευσης 4: Ρίζα + -paya-**
@@ -214,7 +214,7 @@ last_reconstructed: 2026-05-16
 | Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten | <!-- TODO: Fallback translation -->
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
 
 ::: grammar-box
 **Ακανόνιστες σχηματισμοί:**
@@ -483,11 +483,3 @@ Vīṇā-Spielerin.
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-::: deleteme-box
-
-**lekt2801:** Κτίριο διοίκησης του Πανεπιστημίου Jadavpur. [Πηγή εικόνας: noii's Flickr, 2008-12-19, CC BY-SA]
-**lekt2802:** Ναός ISKCON Μπανγκαλόρ. [Πηγή εικόνας: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Παίκτρια βίνα. [Πηγή εικόνας: Kelvin Kay / Wikipedia. GNU FDLicense]
-**lekt2804:** Κρίσνα και Ράντα. Πίνακας του Rāja Ravi Varmā. [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
-**lekt2805:** Κορίτσι μεταφέρει φορτίο. Πλησίον του Αχμενταμπάντ. [Πηγή εικόνας: m-bot. Flickr, 2008-12-20. CC BY-SA]
-:::

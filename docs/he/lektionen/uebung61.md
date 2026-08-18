@@ -1,7 +1,8 @@
 ---
 title: "תרגיל 61"
 uebung_id: 61
-category: "תרגיל"
+category: "Übung"
+
 ---
 
 # שיעור 61

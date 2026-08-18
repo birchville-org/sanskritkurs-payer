@@ -9,14 +9,6 @@ status: stable
 
 # Pelajaran 4
 
-::: deleteme-box
-**Dalam pelajaran ini Anda akan mempelajari:**
-- Kata tanya dan kata ganti penunjuk dalam nominatif
-- Sandhi dari akhiran -m
-- Sandhi dari akhiran -e
-- Sandhi dari akhiran -d
-- Frasa pertanyaan sederhana
-:::
 ## 4.1. Pertanyaan Sederhana dengan Kata Tanya dan Jawabannya
 
 ### 4.1.1. Kata Ganti Tanya dan Kata Ganti Penunjuk

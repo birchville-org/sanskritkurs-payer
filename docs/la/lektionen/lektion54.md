@@ -9,7 +9,7 @@ status: stable
 
 # Lectio 54
 
-## 54.1. Vorbemerkung <!-- TODO: Fallback translation -->
+## 54.1. Vorbemerkung
 
 Lecio quinquagesima quarta in schola universitatis incipiente, secundum semestrem cursum. A nunc cursus tantum ad principale huius semestris thema pertinet: lectionem totius Bhagavadgītā. Finis discendi est talis facilitas in lectione textus mediocris, ut in ultimo tertio semestris magnae partes Bhagavadgītā ex tempore traducere possint. In principio in schola universitatis vocabularia distributa sunt, postea studentes ipsi libros vocum (Monier-Williams, Apte, PW) adhibere debent.
 
@@ -17,7 +17,7 @@ Cursus de Bhagavadgītā pro tempore non online praebitur.
 
 Lectiones cursus Sanskritici tractant de argumentis grammaticae Sanscriticae, quae adhuc non tractata sunt.
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme <!-- TODO: Fallback translation -->
+## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
 
 ::: grammar-box
 **Ad desiderativa verba (⟪इच्छाप्रकृति⟫) ("velle aliquid facere"; "paratum esse, ut aliquid fiat") ad formandos nomina agentis suffigitur -u.**
@@ -113,7 +113,7 @@ In Bhagavadgītā II Triṣṭubhs et Jagatīs determinate.
 
 Exemplum recitationis: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Accessus die 2009-01-28
 
-## 54.5. Typi formationis Aoristi (⟪luṅ⟫) <!-- TODO: Fallback translation -->
+## 54.5. Typi formationis Aoristi (⟪luṅ⟫)
 
 ::: grammar-box
 **Commune omnibus typis formationis Aoristi (⟪लुङ्⟫) est Augmentum a-, quod secundum easdem regulas ac in Imperfecto (⟪लङ्⟫) praepositum est.**
@@ -262,13 +262,5 @@ Formas sequentes scripto translate et formas aoristi correspondentes forma:
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Fons imaginis: [Detalia](/la/licenses#lekt5401))
-:::
-
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟩ Tirupati = తిరుపతి [Fontis: Raji Srinivas / Wikipedia. Licentia publica GNU]
-
-**lekt5401:** Tamil Nadu [Fontis: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Accessus die 2009-01-28. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nominatio, usus non commercialis, similitudo)]
-
 :::
 

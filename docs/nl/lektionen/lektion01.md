@@ -1,10 +1,11 @@
 ---
-title: "Lesión 1"
-subtitle: "Die Laute des Sanskrit"
+title: "Les 1"
+subtitle: "De klanken van het Sanskriet"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 
@@ -117,19 +118,17 @@ Afb.: bandtitel
 (Bronafbeelding: [Details](/nl/licenses#lekt0107))
 :::
 
-Een goede, beknopte weergave van de Europese taalkundige terminologie vindt men in:
-
 > **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)
-Afb.: omslagtitel
-(Bronafbeelding: [Details](/nl/licenses#lekt0108))
+Afbeelding: Omslagtitel
+(Bron afbeelding: [Details](/nl/licenses#lekt0108))
 :::
 
-Voor nieuwsgierigen om op te zoeken:
+Voor de nieuwsgierige: ter naslag:
 
-> **Lexikon der Sprachwissenschaft** / hrsg. von Hadumod Bussmann. -- 4., durchges. und bibliogr. erg. Aufl. / unter Mitarb. von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexikon der Sprachwissenschaft** / herausgegeben von Hadumod Bussmann. -- 4., durchges. und bibliogr. erg. Aufl. / unter Mitarb. von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 
 ## 1.2. De klanken van het Sanskriet
@@ -138,17 +137,17 @@ De klanken van het Sanskriet volgens de traditionele Indiase classificatie en hu
 
 ::: media
 ![](/images/lekt0106.webp)
-(Bronafbeelding: [Details](/nl/licenses#lekt0106))
+(Bron afbeelding: [Details](/nl/licenses#lekt0106))
 :::
-Moderne woordenboeken van het Sanskriet zijn gerangschikt volgens deze classificatie. Deze classificatie is essentieel voor het begrijpen van de Sanskriet-grammatica en moet daarom uit het hoofd bekend zijn:
+Moderne woordenboeken van het Sanskriet zijn gerangschikt volgens deze classificatie. Deze classificatie is essentieel voor het begrip van de Sanskriet-grammatica en moet daarom uit het hoofd gekend worden:
 
 ::: note-box
 Classificatie
-- **eenvoudige klinkers** (samānākṣara -- ⟪समानाक्षर⟫):
+**eenvoudige vocalen** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
-- **diftongen** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+**Diftongen** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
 ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
-- **medeklinkers** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
+**Medeklinkers** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
 ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
 ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
 ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
@@ -158,38 +157,37 @@ Classificatie
 ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
 ⟪ह⟫ ha
 :::
-### 1.2.1. Over de uitspraak van individuele klanken
+### 1.2.1. Over de uitspraak van afzonderlijke klanken
 
 ::: laut-table
-| Klank | Beschrijving |
+| Laut | Beschreibung |
 | :--- | :--- |
-| **a - ⟪अ⟫** | "kort a" wordt door de Indiërs -- al sinds oude tijden -- vaak uitgesproken als ə. In Europa spreekt men het uit als kort a, in Bengalen als kort donker o. |
-| **ṛ - ⟪ऋ⟫** | als Tsjechisch vocaal ger. Lichte naslag van i. |
-| **ṝ - ⟪ॠ⟫** | als Tsjechisch vocaal ger. Lichte naslag van u. |
-
-| **jñ - ⟪ज्ञ्⟫** | ook als dny (Marāṭhī) of gy (Noord-Indisch). |
-| **ś - ⟪श्⟫** | sch-klank met een naar beneden gebogen tongpunt. Vergelijkbaar met de sch in het Duitse "mischen". |
-| **ṣ - ⟪ष्⟫** | ach-klank met een teruggebogen tongpunt. Vaak zo ver achter in de keel gearticuleerd, dat het bijna als kh klinkt. |
-| **h - ⟪ह्⟫** | Aangeblazen klank, nooit een verlengingsteken. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Stemloze aangeblazen klank met naklank van de voorgaande klinker of van het tweede deel van de voorgaande tweeklank: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
+| **a - ⟪अ⟫** | "kurzes a" wird bei den Indern -- schon seit alter Zeit -- oft wie ə ausgesprochen. In Europa spricht man es als kurzes a, in Bengalen als kurzes dunkles o. |
+| **ṛ - ⟪ऋ⟫** | wie böhmisches vokalisiertes r. Leichter Nachklang von i. |
+| **ṝ - ⟪ॠ⟫** | wie böhmisches vokalisiertes r. Leichter Nachklang von u. |
+| **jñ - ⟪ज्ञ्⟫** | auch wie dny (Marāṭhī) oder gy (Nordindisch). |
+| **ś - ⟪श्⟫** | sch-Laut mit nach unten gebogener Zungenspitze. Ähnlich wie sch in "mischen". |
+| **ṣ - ⟪ष्⟫** | ach-Laut mit zurückgebogener Zungenspitze. Öfters so weit hinten im Rachen artikuliert, dass es fast wie kh klingt. |
+| **h - ⟪ह्⟫** | Hauchlaut, nie Dehnungszeichen. |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
-Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest.
+De beste uitspraak bereikt men door de zinnen, verzen of woorden vrij langzaam en monotoon te lezen, met nauwkeurige inachtneming van de lengte van de klinkers.
 
 
 ## 1.3. Übung
 
 **A) Lesen Sie folgende Worte:**
 
-1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
-2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫
-3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम⟫ ⟪ब्राह्मचारिन्⟫ ⟪गृहस्थ⟫ ⟪वानप्रस्थ⟫ ⟪संन्यासिन्⟫
-4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद⟫ ⟪सामवेद⟫ ⟪यजुर्वेद⟫ ⟪अथर्ववेद⟫
+1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र⟫
+2. brahmā viṣṇu śiva — ⟪ब्रह्मा विष्णु शिव⟫
+3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्⟫
+4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद सामवेद यजुर्वेद अथर्ववेद⟫
 5. upaniṣad — ⟪उपनिषद्⟫
-6. jaina bauddha — ⟪जैन⟫ ⟪बौद्ध⟫
+6. jaina bauddha — ⟪जैन बौद्ध⟫
 7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫
-8. cakra vajra — ⟪चक्र⟫ ⟪वज्र⟫
+8. cakra vajra — ⟪चक्र वज्र⟫
 9. pitṝn — ⟪पितॄन्⟫
 10. saṃskṛta — ⟪संस्कृत⟫
 
-**B) Lesen Sie die Sanskrit-Ausdrücke in der Lautklassifikation oben.**
+**B) Lees de Sanskrit-uitdrukkingen in de hierboven weergegeven klasklassificatie.**

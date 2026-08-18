@@ -1,10 +1,11 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "Μάθημα 13"
+subtitle: "PPP σε -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα ιγʹ
@@ -68,7 +69,7 @@ pad 4 Ἀπαρέμφατο Παρακειμένου: panna 3 = ⟪पन्न�
 
 διὰ τῶν ταδθιτα-καταλήξεων -mant καὶ -vant ἐκ ὀνομάτων κτήτικὰ ἐπίθετα σχηματίζεται. ἡ σημασία αὐτῶν ἐστι: "τοῦ ὑποκειμένου ὀνόματος δηλούμενον κτῶν".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
 παραδείγματα:
 

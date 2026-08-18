@@ -10,14 +10,6 @@ status: stable
 
 # Pelajaran 10
 
-::: deleteme-box
-**Dalam pelajaran ini Anda akan belajar:**
-Kalimat pasif (Instrumentalis Agens)
-Deklinasi Instrumentalis (tṛtīyā)
-Hukum Serebralisasi untuk -n- (Sandhi kata)
-Pembentukan pasif (yak) dalam Indikatif Present
-Kosakata tentang pengorbanan, kebenaran, dan peran sosial
-:::
 ## 10.1. Kalimat Pasif
 
 ::: grammar-box
@@ -104,9 +96,6 @@ Konstruksi pasif Sanskerta sangat sering digunakan: pasif juga lebih mudah diben
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-Selain pada Nominatif dan Akusativ, bentuk-bentuk Neutrum berakhiran -a, kata tanya, dan kata ganti demonstratif identik dengan bentuk-bentuk Maskulinum yang sesuai.
-:::
 
 
 ### 10.2.1. Tentang Penggunaan Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
@@ -114,15 +103,15 @@ Selain pada Nominatif dan Akusativ, bentuk-bentuk Neutrum berakhiran -a, kata ta
 ::: grammar-box
 **Instrumental (tṛtīyā) terutama menjawab pertanyaan:**
 **Dengan apa?**
-**Oleh siapa/dengan menggunakan apa?**
+**Oleh siapa/sesuatu?**
 **Dengan siapa?**
 
 **Ia digunakan**
 1. **dalam kalimat pasif: Agen (kartṛ) dalam Instrumental**
 2. **untuk menunjukkan alat atau sarana, dengan mana sesuatu dilakukan**
 3. **untuk menunjukkan jalan, di mana seseorang mencapai tujuan**
-4. **untuk menyatakan hubungan, penyatuan, atau pendampingan dengan**
-5. **pada postposisi dalam arti "bersama, dengan"; mis. saha = ⟪सह⟫ = "bersama"** :brmis. :br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "bersama dengan brahmana"
+4. **untuk mengekspresikan hubungan, penyatuan, atau pendampingan dengan**
+5. **pada postposisi dalam arti "bersama, dengan"; mis. saha = ⟪सह⟫ = "bersama"** :brmis. :br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "bersama dengan Brahmana"
 :::
 Penggunaan lain dari Instrumental (tṛtīyā) akan menyusul nanti.
 

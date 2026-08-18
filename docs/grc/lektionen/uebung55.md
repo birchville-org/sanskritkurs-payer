@@ -53,7 +53,7 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung092.webp)
 Fig.: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Image source: [Details](/licenses#uebung092))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

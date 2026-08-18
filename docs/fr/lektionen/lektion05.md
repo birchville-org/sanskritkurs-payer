@@ -5,17 +5,10 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Leçon 5
 
-::: deleteme-box
-**Dans cette leçon, vous apprendrez :**
-- Les bases des composés nominaux (samāsa)
-- La terminologie technique pour les composés
-- Les composés copulatifs (Dvandva)
-- L'ordre des éléments dans les Dvandvas
-:::
 ## 5.1. Composés nominaux (samāsa m. = ⟪समास⟫)
 
 La formation de composés de mots dans une très grande ampleur est une caractéristique du sanskrit.
@@ -151,7 +144,7 @@ Fig. : Dieu Kāma = kāmadeva = ⟪कामदेव⟫, XVIIIe siècle.
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / en bon sanskrit : sāmārgyajurvedās trayī)
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (en bon sanskrit : ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
+   (en bon sanskrit : ⟪सामार्यजुर्वेदास्त्रयी⟫)
 
 4. Les trois ennemis de l’homme, qui forment la porte de l’enfer (Viṣṇusmṛti 33,1+6) :
    kāmakrodhalobhāḥ
@@ -170,7 +163,7 @@ Fig. : Dieu Kāma = kāmadeva = ⟪कामदेव⟫, XVIIIe siècle.
    (D’après Kauṭilīya-arthaśāstra 1.2.1.)
    ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
-## 5.6. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 5.6. Wiederholungsübung
 
 **A) Traduisez :**
 

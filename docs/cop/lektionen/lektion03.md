@@ -9,14 +9,6 @@ status: stable
 
 # ⲙⲁⲑⲏⲙⲁ 3
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- den Nominativ Singular des Femininums
-- den Nominativ Plural des Maskulinums und Femininums
-- die Bildung des Femininums zu Maskulina
-- Vokalsandhi
-- Satzsandhi von -ās
-:::
 ## 3.1. ⲛⲟⲙⲓⲛⲁⲧⲓⲃ ⲥⲓⲛⲅⲟⲩⲋⲁⲣ ⲛ̀ⲧⲉ ϯⲫⲉⲙⲓⲛⲓⲛⲟⲩⲙ
 
 ### 3.1.1. ⲛⲟⲙⲓⲛⲁⲧⲓⲃ ⲥⲓⲛⲅⲟⲩⲗⲁⲣ ⲉϩⲣⲏⲓ ⲉϫⲛ̀ -ⲥ

@@ -10,14 +10,6 @@ status: stable
 
 # Lesson 3
 
-::: deleteme-box
-**In this lesson, you will learn:**
-the nominative singular of feminine nouns
-the nominative plural of masculine and feminine nouns
-the formation of feminines from masculines
-vowel sandhi
-sentence-final sandhi of -ās
-:::
 ## 3.1. Nominative Singular of Feminine Nouns
 
 ### 3.1.1. Nominative Singular ending in -s

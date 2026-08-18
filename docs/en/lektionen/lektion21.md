@@ -291,15 +291,3 @@ B) Translate:
 
 ⟪जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥⟫
 
-::: deleteme-box
-
-**lekt2101:** ⟪सती⟫-memorial plaque in the palace of Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Image source: Flicka / Wikipedia. GNU FDLicense]
-
-**lekt2102:** "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva". [Image source: PHGCOM / Wikipedia. GNU FDLicense]
-
-**lekt2103:** ⟪भगवान्कृष्णः⟫ as ⟪जगन्नाथ⟫ (right) with his half-sister ⟪सुभद्रा⟫ (center) and his older brother ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Image source: Sujitkumar / Wikipedia. GNU FDLicense]
-
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Image source: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Accessed on 2008-12-12. -- Creative Commons License (Attribution, non-commercial use)]
-
-**lekt2105:** ⟪भगवद्गीता⟫ - Manuscript, 19th century. [Image source: Wikipedia, Public domain]
-:::

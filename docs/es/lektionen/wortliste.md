@@ -2,10 +2,6 @@
 outline: 2
 ---
 
-::: deleteme-box
-**Modo de citación y derechos**
-
-:::
 # Lista de palabras (resumen general)
 
 *Todas las palabras nuevas del curso en el orden de su introducción, con explicaciones temáticas.*
@@ -150,7 +146,7 @@ Fig.: Sādhu (⟪साधु⟫), Templo Pashupatinath, Katmandú.
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : brahmán mujer.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya mujer. &lt;!-- TODO: Fallback translation --&gt;
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya mujer. &lt;!--  --&gt;
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : esposa de un kṣatriya.
 
@@ -454,7 +450,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : preguntar
-  - **praśna** m. ⟪प्रश्न⟫ : pregunta (sufijo **-na** como en **yaj-ña**) &lt;!-- TODO: Fallback translation --&gt;
+  - **praśna** m. ⟪प्रश्न⟫ : pregunta (sufijo **-na** como en **yaj-ña**) &lt;!--  --&gt;
 
 - **iṣ** 6 P ⟪इष्⟫ : desear
   - **iṣṭi** f. ⟪इष्टि⟫ : deseo (**iṣ** + **-ti**)
@@ -776,7 +772,7 @@ de ello:
 
 ⟪निरोध⟫ m.: Detener, hacer detenerse
 
-* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, fantasma &lt;!-- TODO: Fallback translation --&gt;
+* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, fantasma &lt;!--  --&gt;
 
 ⟪योग⟫ m.: Enganche, conexión, unión, adquisición; Yoga
 
@@ -1180,7 +1176,7 @@ derivados de ello:
 ::: indent
 **⟪चर⟫ ⟪३⟫:** móvil; n.: lo movible = animales (en contraste con las plantas)
 
-**⟪चरण⟫** n., m.: pie &lt;!-- TODO: Fallback translation --&gt;
+**⟪चरण⟫** n., m.: pie &lt;!--  --&gt;
 
 **⟪चरित⟫** n.: modo de vida, hazañas vitales
 
@@ -1609,7 +1605,7 @@ Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Kaus. **kāmayati**
 PPP **kānta** (!)
-Inf. **kāmayitum** / **kamitum** &lt;!-- TODO: Fallback translation --&gt;
+Inf. **kāmayitum** / **kamitum** &lt;!--  --&gt;
 
 ::: media
 ![](/images/lekt2804.webp)
@@ -1622,7 +1618,7 @@ Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
 PPP **corita**
-Inf. **coritum** &lt;!-- TODO: Fallback translation --&gt;
+Inf. **coritum** &lt;!--  --&gt;
 
 **Recordar especialmente el significado de los causativos de los siguientes verbos:**
 **dṛś** — **darśayati**: mostrar
@@ -1986,7 +1982,7 @@ Fig.: ⟪प्रज्ञापारमिता⟫
 Fig.: ⟪चूतः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt3202))
 :::
-**⟪तरु⟫** **⟪वृक्ष⟫** &lt;!-- TODO: Fallback translation --&gt;
+**⟪तरु⟫** **⟪वृक्ष⟫** &lt;!--  --&gt;
 
 **⟪पचेलिम⟫**
 
@@ -2038,7 +2034,7 @@ Fig.: ⟪वानराः⟫
 Fig.: ⟪उपलाः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt3204))
 :::
-**⟪लक्ष्य⟫** &lt;!-- TODO: Fallback translation --&gt;
+**⟪लक्ष्य⟫** &lt;!--  --&gt;
 
 ::: media
 ![](/images/lekt3205.webp)
@@ -2227,7 +2223,7 @@ Fig.: ⟪हीनयानमेव⟫
 :::: media
 ![](/images/lekt3302.webp)
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Fuente de la imagen: [Detalles](/licenses#lekt3302)) &lt;!-- TODO: Fallback translation --&gt;
+(Fuente de la imagen: [Detalles](/licenses#lekt3302)) &lt;!--  --&gt;
 
 ::::
 :::
@@ -2264,7 +2260,7 @@ Fig.: ⟪सस्यम्⟫
 Fig.: ⟪लक्षद्वीपाः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** mortal (a **⟪मृ⟫**) &lt;!-- TODO: Fallback translation --&gt;
+**⟪मर्त्य⟫ 3:** mortal (a **⟪मृ⟫**) &lt;!--  --&gt;
 
 **⟪तिल⟫ m.:** sésamo (grano) (*Sesamum indicum* L.)
 
@@ -2545,7 +2541,7 @@ Fig.: ⟪वृक्षः⟫
 
 
 
-⟪सूर्य⟫ m.: Sol, dios del sol Sūrya &lt;!-- TODO: Fallback translation --&gt;
+⟪सूर्य⟫ m.: Sol, dios del sol Sūrya &lt;!--  --&gt;
 
 ::: media
 ![](/images/lekt3802.webp)
@@ -2833,11 +2829,6 @@ Fig.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (a ⟪सम्⟫-⟪हन्⟫ : golpear juntos): grupo, multitud, comunidad (por ejemplo, budista)
 
-::: deleteme-box
-ver también:
-
-**Payer, Alois (1944–):** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: joven chica, hija, doncella
 
 ⟪अति⟫ prefijo verbal: sobre, a través de, más allá (en el espacio, en el tiempo, en número, en cantidad, en orden, en poder, en intensidad), sumamente
@@ -3231,17 +3222,6 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (a ⟪प्र⟫-⟪व्रज्⟫): la salida del hogar hacia la vida sin hogar; ceremonia mediante la cual uno se convierte en novicio budista (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Véase:
-
-**Payer, Alois (1944–):** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del Budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-
-:::: media
-![](/images/lekt4408.webp)
-Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Fuente de la imagen: [Detalles](/licenses#lekt4408))
-::::
-:::
 ## Lección 45
 
 
@@ -3714,7 +3694,7 @@ Gerundivo ⟪ध्येय⟫
 Fig.: ⟪सादरः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. &lt;!-- TODO: Fallback translation --&gt;
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. &lt;!--  --&gt;
 
 ⟪परम⟫ 3: más lejano, más alto; ⟪पञ्चम्या⟫ : mejor que, más alto que
 
@@ -3830,7 +3810,7 @@ Fig.: ⟪कल्याणी⟫
 Fig.: ⟪कुनगरम्⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫: ver &lt;!-- TODO: Fallback translation --&gt;
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫: ver &lt;!--  --&gt;
 
 ::: indent
 Perf. ⟪चचक्षे⟫
@@ -3939,7 +3919,7 @@ Abb.: ⟪पिशितम्⟫
 Abb.: ⟪मधु⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt5109))
 :::
-⟪मांस⟫ n.: carne &lt;!-- TODO: Fallback translation --&gt;
+⟪मांस⟫ n.: carne &lt;!--  --&gt;
 
 ⟪मृगया⟫ f.: caza
 
@@ -3964,7 +3944,7 @@ Abb.: ⟪शिवा⟫
 Abb.: ⟪कौशिकः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: ave &lt;!-- TODO: Fallback translation --&gt;
+⟪शकुनि⟫ m.: ave &lt;!--  --&gt;
 
 ⟪श्वन्⟫ m.: perro
 
@@ -4016,7 +3996,7 @@ Abb.: ⟪मूषिकाविषाणि⟫
 Abb.: ⟪भुजंगः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt5116))
 :::
-⟪सायक⟫ m.: flecha &lt;!-- TODO: Fallback translation --&gt;
+⟪सायक⟫ m.: flecha &lt;!--  --&gt;
 
 ⟪उत्साद⟫ m.: destrucción
 
@@ -4531,13 +4511,13 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4408**: ⟪प्रव्रज्या⟫ Tailandia = ประเทศไทย [Fuente de la imagen: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
 
-**lekt4602**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!-- TODO: Fallback translation --&gt;
+**lekt4602**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!--  --&gt;
 
-**lekt4603**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!-- TODO: Fallback translation --&gt;
+**lekt4603**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!--  --&gt;
 
-**lekt4604**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!-- TODO: Fallback translation --&gt;
+**lekt4604**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!--  --&gt;
 
-**lekt4605**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!-- TODO: Fallback translation --&gt;
+**lekt4605**: ⟪नवग्रहाः⟫ [Fuente de la imagen de ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licencia GNU FDL] &lt;!--  --&gt;
 
 **lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = rey de las serpientes supremo) [Fuente de la imagen: Wikipedia. Dominio público]
 
@@ -4634,7 +4614,4 @@ Inf. ⟪त्रातुम्⟫
 **lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Fuente de la imagen: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Acceso el 2009-01-16. -- Licencia Creative Commons (Atribución)]
 
 **lekt5217**: El ataque de Māra a Buda Amaravati = అమరావతి, s. II d. C. [Fuente de la imagen. Wikipedia. Licencia GNU FDL]
-
-
-
 

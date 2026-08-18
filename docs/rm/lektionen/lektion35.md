@@ -14,7 +14,7 @@ status: stable
 **starkes Verb:**
 *   3.sg.P: stgalim da lungiaziun
 *   2.sg.P: stgalim aut
-*   1.sg.P: a libra tscherna stgalim aut u stgalim da lungiaziun <!-- TODO: Fallback translation -->
+*   1.sg.P: a libra tscherna stgalim aut u stgalim da lungiaziun
 
 **stèssel:** vesair als sutatip
 :::
@@ -45,7 +45,7 @@ Exempels:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfekt Tip IIIb: Stom ferm cots/lung, stom debel cots <!-- TODO: Fallback translation -->
+### 35.1.2. Perfekt Tip IIIb: Stom ferm cots/lung, stom debel cots
 
 ::: grammar-box
 **Educaziun:**
@@ -57,7 +57,7 @@ Exempels:
  vegn furmà da radischas dals tipus:
 *   (consonant)-(consonant)-ṝ
 *   consonant-consonant-ṛ (i.e. radischas sin -ṛ, sche quai èn pliras consonants avant)
-Exempels: <!-- TODO: Fallback translation -->
+Exempels:
 
 | Radis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -65,14 +65,14 @@ Exempels: <!-- TODO: Fallback translation -->
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfekti tip IV: Radis cun -ā / -āi <!-- TODO: Fallback translation -->
+## 35.2. Perfekti tip IV: Radis cun -ā / -āi
 
 ::: grammar-box
 **Educaziun:**
 
 **stom ferm:**
 *   3./1. sg. P Perfekt endet auf -au
-*   2. sg. P : stgalim aut -ā u stgalim fonc -i <!-- TODO: Fallback translation -->
+*   2. sg. P : stgalim aut -ā u stgalim fonc -i
 
 **stom debel:**
 *   avant consonant: nivel fonc -i
@@ -80,13 +80,13 @@ Exempels: <!-- TODO: Fallback translation -->
 
 Vegn furmà da ragischs sin -ā / -āi
 :::
-Exempel: <!-- TODO: Fallback translation -->
+Exempel:
 
 | Radis | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Radisn Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
+## 35.3. Perfekt Typ V: Radisn Konsonant-a-Konsonant
 
 ::: grammar-box
 **Educaziun:**
@@ -94,13 +94,13 @@ Exempel: <!-- TODO: Fallback translation -->
 **starkes Verb:**
 *   3.sg.P: stgalim da lungiaziun
 *   2.sg.P: stgalim aut
-*   1.sg.P: a libra tscherna stgalim aut u stgalim da lungiaziun <!-- TODO: Fallback translation -->
+*   1.sg.P: a libra tscherna stgalim aut u stgalim da lungiaziun
 
 **stema debel:** vesair ils sutg-types
 
 Vegn furmà da ragischs dal tip (consonanta)-consonanta-a-consonanta
 :::
-### 35.3.1. Perfekt Tip Va: stom debel stgalim fonc <!-- TODO: Fallback translation -->
+### 35.3.1. Perfekt Tip Va: stom debel stgalim fonc
 
 ::: grammar-box
 **Educaziun:**
@@ -159,7 +159,7 @@ Exempl:
 
 schon sie nicht zu Perfekt Typ Va gehören.
 :::
-Exempel: <!-- TODO: Fallback translation -->
+Exempel:
 
 | Radis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -199,7 +199,7 @@ Persunas che van, Senegal.
 **Pass. ⟪गीयते⟫**
 **Kaus. ⟪गापयति⟫**
 **PPP ⟪गीत⟫**
-**Inf. ⟪गातुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪गातुम्⟫**
 
 davon:
 **⟪गीता⟫ f.:** Lied, Gesang
@@ -210,7 +210,7 @@ Abb.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Bildquelle: [Details](/rm/licenses#lekt3501))
 :::
-## 35.5. Esercitaziun <!-- TODO: Fallback translation -->
+## 35.5. Esercitaziun
 
 A) Formai las formas correspondents dal perfet per las suventas formas verbalas:
 
@@ -280,13 +280,3 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 C) Trasforma le frasi dell'esercizio B) sostituendo i perfetti con gli imperfetti.
 
-::: deleteme-box
-
-**lekt3501:** Musicists dal templ Kaadu Malleswara Temple Bangalore. [Sursa da l'imagines: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** Persunas che van, Senegal. [Sursa da l'imagines: Curt Carnemark / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3503:** Mercat en Vadaseri, Tamil Nadu. [Sursa da l'imagines: kifo / Flickr. CC BY-SA]
-
-**lekt3504:** Ceremonia da Yajña, ashram da Shiva, Ganeshpuri. [Sursa da l'imaginesch: Dey / Flickr. CC BY-NC-SA]
-:::

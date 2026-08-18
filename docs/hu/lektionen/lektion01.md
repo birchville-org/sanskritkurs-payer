@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# 1. lecke <!-- TODO: Fallback translation -->
+# 1. lecke
 
 ::: center
 ⟪गणेशपूजनम्⟫
@@ -36,7 +36,7 @@ Te nagy hasú, te nassoló,
 Legyen mindig neked tisztelet!
 Isten, tedd minden vállalkozásomat
 Akadálymentessé!
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: center
@@ -75,7 +75,7 @@ Kezdésképpen egy kuriózum:
 
 >"Amikor William Jones [1746–1794] és Henry Thomas Colebrooke (1765—1857) először alaposan tanulmányozta, részben lefordította és megállapította, hogy a szanszkrit gazdag irodalommal és jelentős rokonsággal rendelkezik a klasszicista nyelvekkel, nem kis ellenállásba ütköztek. Mivel ez az intím kapcsolat a szanszkrit és a földrajzilag oly távoli európai nyelvek között nem egyeztethető össze a régi felfogásokkal, amelyek vagy minden nyelvet héberből vezettek le, vagy nagy részükben egymástól izolálták őket, ezért a híres filológus Dugald Steward (1753—1828) a legegyszerűbb kiutat választotta, amikor az egész történetet a szanszkrit nyelvvel hazugságnak nyilvánította. Írt egy esszét, amelyben megpróbálta bizonyítani, hogy a ravasz brahmanák a görög és latin mintájára kovácsolták össze, és hogy mind a nyelv, mind az irodalom hamisítvány. Ezt a nézetet még 1840-ben Charles William dublini professzor, Charles William Wall részletesen kifejtette (Göttingische gelehrte Anzeigen 1842, 1888. o.)."
 >
->[Forrás: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Hozzáférés: 2010-01-10] <!-- TODO: Fallback translation -->
+>[Forrás: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Hozzáférés: 2010-01-10]
 
 ## 1.1. Irodalom kezdőknek az indológiában
 
@@ -93,9 +93,9 @@ Kezdésképpen egy kuriózum:
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt0104))
 :::
 
-A legjobb rendszerezett grammatika: <!-- TODO: Fallback translation -->
+A legjobb rendszerezett grammatika:
 
-> **Kielhorn**, Franz (1840–1908): A szanszk nyelv grammatikája / W. Solf [1862 - 1936] angolból fordította. -- Berlin : Dümmler, 1888. -- XIII, 238 old. -- Eredeti cím: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+> **Kielhorn**, Franz (1840–1908): A szanszk nyelv grammatikája / W. Solf [1862 - 1936] angolból fordította. -- Berlin : Dümmler, 1888. -- XIII, 238 old. -- Eredeti cím: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -103,9 +103,9 @@ A legjobb rendszerezett grammatika: <!-- TODO: Fallback translation -->
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt0105))
 :::
 
-Jó rendszeres grammatika a bennszülött nyelvtudósok alapjain, valamint bevezetés Pāṇini művébe: <!-- TODO: Fallback translation -->
+Jó rendszeres grammatika a bennszülött nyelvtudósok alapjain, valamint bevezetés Pāṇini művébe:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : szanszk grammatika / Eredetileg malajálamban írta. K.V.R. Pai angolra fordította. -- Parathode : Saját kiadás, 1983. -- 818 old. ; 23 cm. <!-- TODO: Fallback translation -->
+> **Kunnappally, John:** Prakriyā bhāshyam : szanszk grammatika / Eredetileg malajálamban írta. K.V.R. Pai angolra fordította. -- Parathode : Saját kiadás, 1983. -- 818 old. ; 23 cm.
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -153,7 +153,7 @@ Besorolás
 ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
 ⟪ह⟫ ha
 :::
-### 1.2.1. Az egyes hangok kiejtéséről <!-- TODO: Fallback translation -->
+### 1.2.1. Az egyes hangok kiejtéséről
 
 ::: laut-table
 | Hang | Leírás |
@@ -172,7 +172,7 @@ A legjobb kiejtést akkor érjük el, ha a mondatokat, verseket vagy szavakat vi
 
 ## 1.3. Gyakorlat
 
-**A) Olvassa el a következő szavakat:** <!-- TODO: Fallback translation -->
+**A) Olvassa el a következő szavakat:**
 
 1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
 2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫

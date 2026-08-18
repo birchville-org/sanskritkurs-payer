@@ -2,10 +2,6 @@
 outline: 2
 ---
 
-::: deleteme-box
-**Quelle & Urheberrecht**
-
-:::
 
 # Глосарій Санскрит–Українська
 
@@ -88,7 +84,7 @@ outline: 2
 | ⟪आत्मन्⟫ | [ātman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ātman&filter=roman&accent=no&transLit=roman) | m | Я, власна особа, найглибша суть. Філософське і в вченнях про визволення: Абсолюте в індивідуумі, про який індивід іноді  | [38](/uk/lektionen/lektion38#_38-9-) |
 | ⟪आदर⟫ | [ādara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ādara&filter=roman&accent=no&transLit=roman) | m | увага, дотримання, пошана | [49](/uk/lektionen/lektion49#_49-4-) |
 | ⟪आदर्श⟫ | [ādarśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ādarśa&filter=roman&accent=no&transLit=roman) | m | дзеркало | [52](/uk/lektionen/lektion52#_52-7-) |
-| ⟪आदाय⟫ | Абсол. | — | з акузативом: у супроводі, з | [33](/uk/lektionen/lektion33#_33-6-) |
+| ⟪आदाय⟫ | Абсол. | — | з Акк.: у супроводі, із | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪आदि⟫ | [ādi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ādi&filter=roman&accent=no&transLit=roman) | — | початок | [18](/uk/lektionen/lektion18#_18-4-) |
 | ⟪आदित्य⟫ | [āditya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āditya&filter=roman&accent=no&transLit=roman) | m | Сонце; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya): певний клас богів | [50](/uk/lektionen/lektion50#_50-2-) |
 | ⟪आदृत⟫ | [ādṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ādṛta&filter=roman&accent=no&transLit=roman) | 3 | шанований | [36](/uk/lektionen/lektion36#_36-4-) |
@@ -158,7 +154,7 @@ outline: 2
 | Санскрит | IAST | Рід | Українська | Лекція |
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | на одному місці | [51](/uk/lektionen/lektion51#_51-6-) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | підкреслює попереднє, німецькою мовою часто відповідає наголосу, своєрідний емодзі \&lt;!\&gt;, наприклад, "сама істина перема | [15](/uk/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | підкреслює попереднє, німецькою мовою часто відповідає наголосу, своєрідний емодзі \&lt;!\&gt;, наприклад, "сама істина  | [15](/uk/lektionen/lektion15#_15-8-) |
 
 ## ओ
 
@@ -249,9 +245,7 @@ outline: 2
 | ⟪गै⟫ | [gai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gai&filter=roman&accent=no&transLit=roman) | 1P | співати, декламувати співаючим тоном, проголошувати у віршованій формі | [35](/uk/lektionen/lektion35#_35-4-) |
 | ⟪गोदान⟫ | [godāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=godāna&filter=roman&accent=no&transLit=roman) | — | дарування корів / однієї корови ; друга церемонія стрижки волосся (одне ) | [25](/uk/lektionen/lektion25#_25-5-) |
 | ⟪ग्रस्⟫ | [gras](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gras&filter=roman&accent=no&transLit=roman) | 1Ā | споживати, поїдати | [29](/uk/lektionen/lektion29#_29-2-) |
-| ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | m | хапання, ловитель, крокодил, планета-странник | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | — | захоплення | [24](/uk/lektionen/lektion24#_24-4-) |
-| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : хапати, ловити, брати | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | 1P | відчувати небажання, зникати | [36](/uk/lektionen/lektion36#_36-4-) |
 
 ## घ
@@ -348,7 +342,7 @@ outline: 2
 | ⟪दण्डनीति⟫ | [daṇḍanīti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍanīti&filter=roman&accent=no&transLit=roman) | f | політика (тадпурӯша від daṇḍa m. = "палиця, влада, панування, покарання" і nīti f. = "правильне керівництво") | [5](/uk/lektionen/lektion05#_5-4-) |
 | ⟪दरैद्र⟫ | [daraidra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daraidra&filter=roman&accent=no&transLit=roman) | — | бідний | [20](/uk/lektionen/lektion20#_20-9-) |
 | ⟪दा⟫ | [dā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dā&filter=roman&accent=no&transLit=roman) | 3U | давати | [33](/uk/lektionen/lektion33#_33-6-) |
-| ⟪दान⟫ | [dāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāna&filter=roman&accent=no&transLit=roman) | n | давання, дар, щедрість | [33](/uk/lektionen/lektion33#_33-6-) |
+| ⟪दान⟫ | [dāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāna&filter=roman&accent=no&transLit=roman) | n | дарування, дар, щедрість | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪दायक⟫ | [dāyaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāyaka&filter=roman&accent=no&transLit=roman) | — |  що дає, що дарує | [20](/uk/lektionen/lektion20#_20-9-) |
 | ⟪दार⟫ | [dāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāra&filter=roman&accent=no&transLit=roman) | — | дружина | [25](/uk/lektionen/lektion25#_25-5-) |
 | ⟪दास⟫ | [dāsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāsa&filter=roman&accent=no&transLit=roman) | m | раб, кріпак, слуга | [15](/uk/lektionen/lektion15#_15-8-) |
@@ -384,12 +378,12 @@ outline: 2
 | Санскрит | IAST | Рід | Українська | Лекція |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | — | те, що є міцним і тримає = Дхарма | [25](/uk/lektionen/lektion25#_25-5-) |
-| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | 3U | sig[]: ставити, встановлювати, розподіляти | [33](/uk/lektionen/lektion33#_33-6-) |
+| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | — | спрямовувати всю увагу на щось, збиратися | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪धातुम्⟫ | Інф. | — | sig[] | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | [dhānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhānya&filter=roman&accent=no&transLit=roman) | — | обмолочене зерно | [25](/uk/lektionen/lektion25#_25-5-) |
 | ⟪धापयति⟫ | Кавс. | — | sig[] | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪धास्यति⟫ | Фут. | — | sig[] | [33](/uk/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | Пасс. | — | sig[] | [33](/uk/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | Пас. | — | sig[] | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪धीर⟫ | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhīra&filter=roman&accent=no&transLit=roman) | 3 | міцний, непохитний, безперервний, наполегливий | [52](/uk/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | [dhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhṛ&filter=roman&accent=no&transLit=roman) | 1U | тримати, утримувати | [25](/uk/lektionen/lektion25#_25-5-) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (молочна) корова | [3](/uk/lektionen/lektion03#_3-6-) |
@@ -407,7 +401,6 @@ outline: 2
 | ⟪नमस्⟫ | [namas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=namas&filter=roman&accent=no&transLit=roman) | — | поклін, шанування, привітання (відмінювання пізніше). Привітальна формула | [24](/uk/lektionen/lektion24#_24-4-) |
 | ⟪नम्⟫ | [nam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nam&filter=roman&accent=no&transLit=roman) | — | згинати | [20](/uk/lektionen/lektion20#_20-9-) |
 | ⟪नम्⟫ | [nam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nam&filter=roman&accent=no&transLit=roman) | 1P | схилятися, вклонятися, нахилятися, кланятися | [46](/uk/lektionen/lektion46#_46-2-) |
-| ⟪नवग्रह⟫ | [navagraha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=navagraha&filter=roman&accent=no&transLit=roman) | m | дев’ять планет-странників (не планети!) (див. Basham, Wonder S. 493) | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪नश्⟫ | [naś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naś&filter=roman&accent=no&transLit=roman) | 4P | губитися, гинути, зникати | [35](/uk/lektionen/lektion35#_35-4-) |
 | ⟪नाभि⟫ | [nābhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nābhi&filter=roman&accent=no&transLit=roman) | — | пупок | [20](/uk/lektionen/lektion20#_20-9-) |
 | ⟪नामन्⟫ | [nāman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāman&filter=roman&accent=no&transLit=roman) | n | Ім’я | [38](/uk/lektionen/lektion38#_38-9-) |
@@ -521,7 +514,7 @@ outline: 2
 | ⟪भक्ति⟫ | [bhakti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhakti&filter=roman&accent=no&transLit=roman) | — | любов і повага до особистого Бога. див. Basham, Wonder S. 332f.) | [21](/uk/lektionen/lektion21#_21-4-) |
 | ⟪भञ्ज्⟫ | [bhañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhañj&filter=roman&accent=no&transLit=roman) | 7P | (щось) ламати | [31](/uk/lektionen/lektion31#_31-2-) |
 | ⟪भद्र⟫ | [bhadra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhadra&filter=roman&accent=no&transLit=roman) | 3 | добрий, щасливий; вокатив: мій дорогий! | [43](/uk/lektionen/lektion43#_43-4-) |
-| ⟪भय⟫ | [bhaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhaya&filter=roman&accent=no&transLit=roman) | n | страх, тривога; небезпека (суб’єктивна та об’єктивна сторони) | [33](/uk/lektionen/lektion33#_33-6-) |
+| ⟪भय⟫ | [bhaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhaya&filter=roman&accent=no&transLit=roman) | n | страх, жах; небезпека (суб'єктивний та об'єктивний аспекти) | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪भर्तृ⟫ | [bhartṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhartṛ&filter=roman&accent=no&transLit=roman) | — | Той, хто зберігає, годувальник, чоловік | [42](/uk/lektionen/lektion42#_42-2-) |
 | ⟪भार⟫ | [bhāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhāra&filter=roman&accent=no&transLit=roman) | — | тягар | [28](/uk/lektionen/lektion28#_28-10-) |
 | ⟪भार⟫ | [bhāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhāra&filter=roman&accent=no&transLit=roman) | m | тягар | [33](/uk/lektionen/lektion33#_33-6-) |
@@ -531,7 +524,7 @@ outline: 2
 | ⟪भिक्षा⟫ | [bhikṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhikṣā&filter=roman&accent=no&transLit=roman) | — | благане милостиня, їжа з благання | [51](/uk/lektionen/lektion51#_51-6-) |
 | ⟪भिक्ष्⟫ | [bhikṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhikṣ&filter=roman&accent=no&transLit=roman) | — | благати милостиню | [21](/uk/lektionen/lektion21#_21-4-) |
 | ⟪भिद्⟫ | [bhid](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhid&filter=roman&accent=no&transLit=roman) | 7U | розколювати | [31](/uk/lektionen/lektion31#_31-2-) |
-| ⟪भी⟫ | [bhī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhī&filter=roman&accent=no&transLit=roman) | 3P | боятися (аблатив, генітив) | [33](/uk/lektionen/lektion33#_33-6-) |
+| ⟪भी⟫ | [bhī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhī&filter=roman&accent=no&transLit=roman) | 3P | боятися (Абл., Ген.) | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪भुजंग⟫ | [bhujaṃga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhujaṃga&filter=roman&accent=no&transLit=roman) | m | змія | [51](/uk/lektionen/lektion51#_51-6-) |
 | ⟪भुजङ्ग⟫ | [bhujaṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhujaṅga&filter=roman&accent=no&transLit=roman) | m | Змія | [41](/uk/lektionen/lektion41#_41-3-) |
 | ⟪भुज्⟫ | [bhuj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhuj&filter=roman&accent=no&transLit=roman) | 7U | насолоджуватися (напр. їжею; "насолоджуватися землею" = володіти землею) | [31](/uk/lektionen/lektion31#_31-2-) |
@@ -541,9 +534,9 @@ outline: 2
 | ⟪भू⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | пізнавати, відчувати, сприймати, дізнаватися | [52](/uk/lektionen/lektion52#_52-7-) |
 | ⟪भृ⟫ | [bhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛ&filter=roman&accent=no&transLit=roman) | 3U | нести, приносити; підтримувати, годувати | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪भृत्य⟫ | [bhṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛtya&filter=roman&accent=no&transLit=roman) | — | підлеглий, слуга | [28](/uk/lektionen/lektion28#_28-10-) |
-| ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | вигук звертання, напр.: еге, хей, ох, ах, привіт, хай! часто не перекладається. Ця частка має спеціальний сандхі: перед  | [46](/uk/lektionen/lektion46#_46-2-) |
-| ⟪भ्रंश⟫ | [bhraṃśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhraṃśa&filter=roman&accent=no&transLit=roman) | m | відпадання | [46](/uk/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | sig[]: блукати, мандрувати | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | вигук звертання, наприклад: еге, хей, ох, ой, привіт, гей! часто не перекладається. Ця частка має спеціальний сандхі: пе | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪भ्रंश⟫ | [bhraṃśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhraṃśa&filter=roman&accent=no&transLit=roman) | — | відпадання | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | sig[] : блукати, мандрувати | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | [bhrātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhrātṛ&filter=roman&accent=no&transLit=roman) | — | Брат | [42](/uk/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -637,7 +630,7 @@ outline: 2
 | ⟪रुद्र⟫ | [rudra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rudra&filter=roman&accent=no&transLit=roman) | m | (той, що войне =) бог бурі Рудра | [17](/uk/lektionen/lektion17#_17-6-) |
 | ⟪रुधिर⟫ | [rudhira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rudhira&filter=roman&accent=no&transLit=roman) | n | кров | [51](/uk/lektionen/lektion51#_51-6-) |
 | ⟪रुध्⟫ | [rudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rudh&filter=roman&accent=no&transLit=roman) | 7U | зупиняти, зупинятися, стримувати = закривати, приховувати | [31](/uk/lektionen/lektion31#_31-2-) |
-| ⟪रुह्⟫ | [ruh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ruh&filter=roman&accent=no&transLit=roman) | 1P | підкорювати, підніматися | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪रुह्⟫ | [ruh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ruh&filter=roman&accent=no&transLit=roman) | 1P | підкорювати, завойовувати | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪रे⟫ | [re](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=re&filter=roman&accent=no&transLit=roman) | — | Гей! Ти там! | [43](/uk/lektionen/lektion43#_43-4-) |
 
 ## ल
@@ -646,7 +639,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪लक्षण⟫ | [lakṣaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lakṣaṇa&filter=roman&accent=no&transLit=roman) | — | ознака, характерний знак, атрибут | [20](/uk/lektionen/lektion20#_20-9-) |
 | ⟪लघु⟫ | [laghu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laghu&filter=roman&accent=no&transLit=roman) | 3 | легкий (не важкий, не складний), швидкий, короткий (у вираженні) | [48](/uk/lektionen/lektion48#_48-4-) |
-| ⟪लम्ब्⟫ | [lamb](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lamb&filter=roman&accent=no&transLit=roman) | 1Ā | звисати з (), висіти на () | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪लम्ब्⟫ | [lamb](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lamb&filter=roman&accent=no&transLit=roman) | 1Ā | звисати з (), триматися за () | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪लिप्⟫ | [lip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lip&filter=roman&accent=no&transLit=roman) | 6U | намащувати, мастити | [25](/uk/lektionen/lektion25#_25-5-) |
 | ⟪लिप्ति⟫ | [lipti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lipti&filter=roman&accent=no&transLit=roman) | — | намащування, письмо, писемність | [25](/uk/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | [līlā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=līlā&filter=roman&accent=no&transLit=roman) | — | гра, розвага | [42](/uk/lektionen/lektion42#_42-2-) |
@@ -702,14 +695,13 @@ outline: 2
 | ⟪विना⟫ | [vinā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vinā&filter=roman&accent=no&transLit=roman) | — | без, окрім (з Акк., Інстр., Абл.) | [25](/uk/lektionen/lektion25#_25-5-) |
 | ⟪विपणि⟫ | [vipaṇi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vipaṇi&filter=roman&accent=no&transLit=roman) | f | крамниця | [43](/uk/lektionen/lektion43#_43-4-) |
 | ⟪विप्र⟫ | [vipra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vipra&filter=roman&accent=no&transLit=roman) | — | «трепетний» = поет, співак, жрець, брахман | [20](/uk/lektionen/lektion20#_20-9-) |
-| ⟪विभ्रम⟫ | [vibhrama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vibhrama&filter=roman&accent=no&transLit=roman) | m | ходіння туди-сюди | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪विभ्रम⟫ | [vibhrama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vibhrama&filter=roman&accent=no&transLit=roman) | — | ходіння туди-сюди | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪विलम्ब⟫ | [vilamba](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vilamba&filter=roman&accent=no&transLit=roman) | n | затримка, запізнення | [43](/uk/lektionen/lektion43#_43-4-) |
 | ⟪विवाह⟫ | [vivāha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vivāha&filter=roman&accent=no&transLit=roman) | — | відведення, одруження жінки (Інстр., saha) (щодо одруження див. Basham, Wonder S. 166 -171) | [25](/uk/lektionen/lektion25#_25-5-) |
 | ⟪विशेष⟫ | [viśeṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viśeṣa&filter=roman&accent=no&transLit=roman) | m | особливість, специфікація, differentia specifica | [23](/uk/lektionen/lektion23#_23-4-) |
 | ⟪विशेष⟫ | [viśeṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viśeṣa&filter=roman&accent=no&transLit=roman) | m | відмінність, особливість | [48](/uk/lektionen/lektion48#_48-4-) |
 | ⟪विष⟫ | [viṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣa&filter=roman&accent=no&transLit=roman) | n | Отрута | [41](/uk/lektionen/lektion41#_41-3-) |
 | ⟪विष⟫ | [viṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣa&filter=roman&accent=no&transLit=roman) | n | отрута | [51](/uk/lektionen/lektion51#_51-6-) |
-| ⟪विषम⟫ | [viṣama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣama&filter=roman&accent=no&transLit=roman) | 3 | нерівний, несправедливий, поганий | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪विषय⟫ | [viṣaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣaya&filter=roman&accent=no&transLit=roman) | — | область, сфера, об’єкт, об’єкт чуттів | [20](/uk/lektionen/lektion20#_20-9-) |
 | ⟪विष्टि⟫ | [viṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣṭi&filter=roman&accent=no&transLit=roman) | — | робота, примусова праця | [25](/uk/lektionen/lektion25#_25-5-) |
 | ⟪विहंग⟫ | [vihaṃga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vihaṃga&filter=roman&accent=no&transLit=roman) | m | птах ("той, що летить у повітряному сні - -") | [49](/uk/lektionen/lektion49#_49-4-) |
@@ -773,8 +765,8 @@ outline: 2
 | ⟪शोक⟫ | [śoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śoka&filter=roman&accent=no&transLit=roman) | m | Сум, горе | [38](/uk/lektionen/lektion38#_38-9-) |
 | ⟪शोभन⟫ | [śobhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śobhana&filter=roman&accent=no&transLit=roman) | 3 | блискучий, чудовий, величний, гарний, добрий | [18](/uk/lektionen/lektion18#_18-4-) |
 | ⟪शौच⟫ | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śauca&filter=roman&accent=no&transLit=roman) | n | Очищення, чистота | [16](/uk/lektionen/lektion16#_16-2-) |
-| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : виснажуватися, втомлюватися | [46](/uk/lektionen/lektion46#_46-2-) |
-| ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | спиратися, прилягати, знаходити опору, прягувати до когось (, ) | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : втомлюватися, стомлюватися | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | спиратися, нахилятися, знаходити опору, йти до когось (, ) | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | слухання, вічна традиція (назва для Вед та Брахман) | [3](/uk/lektionen/lektion03#_3-6-) |
 | ⟪श्रेष्ठिन्⟫ | [śreṣṭhin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śreṣṭhin&filter=roman&accent=no&transLit=roman) | m | багатий купець | [43](/uk/lektionen/lektion43#_43-4-) |
 | ⟪श्रोणि⟫ | [śroṇi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śroṇi&filter=roman&accent=no&transLit=roman) | — | стегно | [20](/uk/lektionen/lektion20#_20-9-) |
@@ -791,22 +783,19 @@ outline: 2
 | ⟪संपुट⟫ | [saṃpuṭa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṃpuṭa&filter=roman&accent=no&transLit=roman) | m | банка (тут: пакет, сверток) | [43](/uk/lektionen/lektion43#_43-4-) |
 | ⟪संयक्⟫ | [saṃyak](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṃyak&filter=roman&accent=no&transLit=roman) | Adv | правильно, істинно, належним чином; цілком, повністю | [50](/uk/lektionen/lektion50#_50-2-) |
 | ⟪सकाश⟫ | [sakāśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sakāśa&filter=roman&accent=no&transLit=roman) | — | присутність, наявність | [42](/uk/lektionen/lektion42#_42-2-) |
-| ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | m | прикріплення до, дотик () | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | — | прикріплення до, дотик () | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (до - : разом-битися): натовп, зграя, громада (напр. буддійська) | [41](/uk/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | висіти, прилипати | [48](/uk/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : прикріплювати, прилипати до () | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : прикріплюватися, прилипати до () | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | — | правда | [10](/uk/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | швидко, поспішно | [43](/uk/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | сидіти, оселятися | [20](/uk/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[]: сісти | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : сісти | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪सनातन⟫ | [sanātana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sanātana&filter=roman&accent=no&transLit=roman) | — |  вічний, незгасний, сталий | [30](/uk/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | рівний, однаковий, подібний (з орудним відмінком) | [18](/uk/lektionen/lektion18#_18-4-) |
-| ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | однаковий, той самий, подібний | [46](/uk/lektionen/lektion46#_46-2-) |
-| ⟪समता⟫ | [samatā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samatā&filter=roman&accent=no&transLit=roman) | f | рівновага | [46](/uk/lektionen/lektion46#_46-2-) |
-| ⟪समम्⟫ | [samam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samam&filter=roman&accent=no&transLit=roman) | Adv | однаково, водночас (), рівномірно | [46](/uk/lektionen/lektion46#_46-2-) |
 | ⟪समय⟫ | [samaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samaya&filter=roman&accent=no&transLit=roman) | m | угода, контракт, строк, термін, час | [43](/uk/lektionen/lektion43#_43-4-) |
 | ⟪समाधि⟫ | [samādhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samādhi&filter=roman&accent=no&transLit=roman) | — | внутрішня зібраність, найвища увага, медитативне «занурення» | [20](/uk/lektionen/lektion20#_20-9-) |
-| ⟪समाधि⟫ | [samādhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samādhi&filter=roman&accent=no&transLit=roman) | m | внутрішнє зібрання, найвища увага | [33](/uk/lektionen/lektion33#_33-6-) |
+| ⟪समाधि⟫ | [samādhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samādhi&filter=roman&accent=no&transLit=roman) | m | внутрішня зібраність, найвища уважність | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | — | рівний | [23](/uk/lektionen/lektion23#_23-4-) |
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | 3 | однаковий, рівний, подібний; чол.р.: одноліток | [51](/uk/lektionen/lektion51#_51-6-) |
 | ⟪सर्व⟫ | [sarva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sarva&filter=roman&accent=no&transLit=roman) | 3 | кожен, усі | [50](/uk/lektionen/lektion50#_50-2-) |
@@ -865,14 +854,14 @@ outline: 2
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | — | рука | [18](/uk/lektionen/lektion18#_18-4-) |
 | ⟪हस्तिन्⟫ | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hastin&filter=roman&accent=no&transLit=roman) | m | Слон (_Elephas maximus_) | [38](/uk/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | [hā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hā&filter=roman&accent=no&transLit=roman) | 3P | залишати | [33](/uk/lektionen/lektion33#_33-6-) |
-| ⟪हित⟫ | ППП | — | sig[] (!!) | [33](/uk/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य⟫ | [hiraṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hiraṇya&filter=roman&accent=no&transLit=roman) | — | золотий ; с.р.: золото, гроші, багатство | [25](/uk/lektionen/lektion25#_25-5-) |
-| ⟪हीन⟫ | ППП | — | залишений, позбавлений, недосконалий | [33](/uk/lektionen/lektion33#_33-6-) |
-| ⟪हीनयान⟫ | [hīnayāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hīnayāna&filter=roman&accent=no&transLit=roman) | n | недосконалий транспорт (буддизму): зневажлива назва прихильників «великого транспортного засобу», ; недосконалий шлях (  | [33](/uk/lektionen/lektion33#_33-6-) |
-| ⟪हु⟫ | [hu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hu&filter=roman&accent=no&transLit=roman) | 3P | лити в вогонь (як жертву, особливо розплавлений вершковий масло) | [33](/uk/lektionen/lektion33#_33-6-) |
+| ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | залишений, позбавлений, недосконалий | [33](/uk/lektionen/lektion33#_33-6-) |
+| ⟪हीनयान⟫ | [hīnayāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hīnayāna&filter=roman&accent=no&transLit=roman) | n | недосконалий транспорт (буддизму): зневажлива назва прихильників «Великої колісниці», ; недосконалий шлях ( до 2: йти, ї | [33](/uk/lektionen/lektion33#_33-6-) |
+| ⟪हु⟫ | [hu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hu&filter=roman&accent=no&transLit=roman) | 3P | лити в огонь (як жертвоприношення, зокрема топлене масло) | [33](/uk/lektionen/lektion33#_33-6-) |
 | ⟪हृ⟫ | [hṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛ&filter=roman&accent=no&transLit=roman) | 1U | тримати, нести; брати, забирати, викрадати | [27](/uk/lektionen/lektion27#_27-5-) |
 | ⟪हृदय⟫ | [hṛdaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛdaya&filter=roman&accent=no&transLit=roman) | — | серце | [42](/uk/lektionen/lektion42#_42-2-) |
 | ⟪हृष्⟫ | [hṛṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛṣ&filter=roman&accent=no&transLit=roman) | 4P | ставати нерухомим: підніматися (волосся), радіти з (інстр., акуз., локал.) | [36](/uk/lektionen/lektion36#_36-4-) |
 | ⟪हेतु⟫ | [hetu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hetu&filter=roman&accent=no&transLit=roman) | — | стимул, поштовх, причина, підстава; , , з родовим відмінком або як другий компонент складного слова = " заради ..., чере | [24](/uk/lektionen/lektion24#_24-4-) |
 | ⟪ह्रस्व⟫ | [hrasva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hrasva&filter=roman&accent=no&transLit=roman) | 3 | короткий | [49](/uk/lektionen/lektion49#_49-4-) |
-| ⟪ह्वे⟫ | [hve](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hve&filter=roman&accent=no&transLit=roman) | — | кликати, викликати | [46](/uk/lektionen/lektion46#_46-2-) |
+| ⟪ह्वे । हू⟫ | [hve](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hve&filter=roman&accent=no&transLit=roman) | 1U | кликати, закликувати | [46](/uk/lektionen/lektion46#_46-2-) |

@@ -1,25 +1,26 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: "Lección 61"
+subtitle: "Declinación de los nombres radicales en -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+
+---
 
 # Lección 61
 
-## 61.1. Declinación de los nominales radicales en -ā, -ī, -ū
+## 61.1. Declinación de los nombres radicales en -ā, -ī, -ū
 
 ### 61.1.1. Nombres radicales en -ā al final de ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Ante las terminaciones vocálicas, la vocal del tema en los casos débiles tiene la etapa de reducción Ø.**
+**Ante las terminaciones vocálicas, la vocal del tema en los casos débiles presenta el grado cero Ø.**
 
 **La declinación en masculino y femenino es idéntica.**
 :::
 Paradigma:
 
-⟪विश्वपा⟫ f.m. "que protege todo"
+⟪विश्वपा⟫ m.f. "el que protege todo"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -31,16 +32,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Sustantivos radicales femeninos en -ī
+### 61.1.2. Nombres radicales femeninos en -ī
 
 ::: grammar-box
-**Vor vokalischer Terminación wird -ī durch -iy ersetzt.** &lt;!-- TODO: Fallback translation --&gt;
+**Ante una terminación vocálica, -ī se reemplaza por -iy.**
 
-**Además de las formaciones con las terminaciones casuales regulares, en el Dat.Ab.Gen.Lok.sg. y Gen.pl. también se encuentran formaciones según el modelo de femeninos polisílabos en -ī (⟪देवी⟫).**
+**Además de las formaciones con las terminaciones casuales regulares, en Dat.Ab.Gen.Loc.sg. y Gen.pl. también aparecen formaciones según el patrón de los femeninos polisílabos en -ī (⟪देवी⟫).**
 :::
 Paradigma:
 
-⟪धी⟫ f. "Pensamiento"
+⟪धी⟫ f. "pensamiento"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -107,12 +108,12 @@ Paradigmas:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Sustantivos radicales femeninos monosílabos en -ū
+### 61.1.4. Nominales de raíz monosílabas femeninas en -ū
 
 ::: grammar-box
-**Raíz ante vocal: -uv**
+**Radical ante vocal: -uv**
 
-**Deklination analog zu den femininen Raíznomina auf -ī**
+**Declinación análoga a los nominales de raíz femeninos en -ī**
 :::
 Paradigma:
 
@@ -128,16 +129,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Nombres radicales en -ū al final de ⟪तत्पुरुष⟫
+### 61.1.5. Nominales de raíz en -ū al final de ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Antes de las terminaciones vocálicas, -ū se reemplaza por -v si solo le precede una consonante perteneciente a la raíz. Si le preceden varias consonantes pertenecientes a la raíz, el -ū antes de la terminación vocálica se reemplaza por -uv.**
+**Ante terminaciones vocálicas, -ū se reemplaza por -v si solo le precede una consonante perteneciente a la raíz. Si le preceden varias consonantes pertenecientes a la raíz, el -ū ante terminación vocálica se reemplaza por -uv.**
 
-**La declinación es idéntica en el masculino y el femenino.**
+**La declinación es idéntica en masculino y femenino.**
 :::
 Paradigma:
 
-⟪खलपू⟫, m., f. "que barre el granero"
+⟪खलपू⟫ m., f. "barriendo el granero"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -279,19 +280,18 @@ Karnataka = ಕರ್ನಾಟಕ
 
 **raíz reduplicada + -ya-**
 
-**Forma de la raíz: en general como en el pasivo, es decir, generalmente nivel bajo:**
+**Forma de la raíz: en general como en el pasivo, es decir, generalmente en grado cero:**
 
 Ejemplos:
 
 :::
 ::: indent
-⟪स्वप्⟫ 2P: Pas. ⟪सुप्यते⟫ ; Intensivo. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U: Pas. ⟪दीयते⟫ ; Intensivo. ⟪देदीयते⟫
+⟪स्वप्⟫ 2P: Pas. ⟪सुप्यते⟫ ; Int. ⟪सोषुप्यते दा⟫ 3U: Pas. ⟪दीयते⟫ ; Int. ⟪देदीयते⟫
 :::
-Las reglas en detalle en Kielhorn, Gramática § 461.
+Las reglas en detalle se encuentran en Kielhorn, Grammatik § 461.
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Ejemplos: &lt;!-- TODO: Fallback translation --&gt;
+**Reduplicación: según las reglas generales. Sin embargo, la vocal de reduplicación: en lugar de a,i,u aparece ā, e, o**
+Ejemplos:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -302,29 +302,29 @@ Ejemplos: &lt;!-- TODO: Fallback translation --&gt;
 | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
 ::: grammar-box
-**Las raíces de la forma -a-Nasal no alargan la vocal en la sílaba de reduplicación, sino que repiten la nasal.**
+**Las raíces de la forma -a-Nasal no alargan la vocal en la sílaba de reduplicación, sino que repiten el nasal.**
 
 :::
 ::: indent
-p. ej. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
+p.ej. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 :::
-**En algunas raíces aparece entre la vocal de la sílaba de reduplicación y la consonante inicial de la raíz -nī- o -rī- (-rī- en raíces que contienen un ṛ en el intensivo).**
+**En algunas raíces aparece entre la vocal de la sílaba de reduplicación y el consonante inicial de la raíz -nī- o bien -rī- (-rī- en raíces que contienen un ṛ en el intensivo).**
 
 ::: indent
-por ejemplo
+p.ej.
 ⟪पत्⟫ 1P: ⟪प⟫:sig[⟪नी⟫]⟪पत्य⟫-
 ⟪वृत्⟫ 1Ā: ⟪व⟫:sig[⟪री⟫]⟪वृत्य⟫-
 :::
 ::: grammar-box
 **Conjugación:**
 
-*   **Tema presente: como un Ātmanepada de la 4. clase de presente (⟪दिवादिगण⟫).**
-*   **Voz pasiva y demás temas temporales: si precede una vocal al -ya- del tema intensivo, entonces el -ya- se reemplaza por -y-; si precede una consonante al -ya-, entonces el -ya- se omite:**
-    *   **Presentes pasivos: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
-    *   **Perfecto: perifrástico: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-    *   **Aoristo: aoristo iṣ (Aoristo 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Futuroooooo: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **Futuroooooo perifrástico: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+*   **Tema de presente: como un Ātmanepada de la 4. clase de presentes (⟪दिवादिगण⟫).**
+*   **Pasivo y demás temas temporales: si precede una vocal al -ya- del tema intensivo, entonces el -ya- se reemplaza por -y-, si precede una consonante al -ya-, entonces el -ya- desaparece:**
+*   **Pasivo Presente: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **Perfecto: perifrástico: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **Aoristo: Aoristo iṣ (Aoristo 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **Futuro: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **Futuro perifrástico: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
 ### 61.3.2. Intensivo de Parasmaipada
 
@@ -446,7 +446,7 @@ Observe el significado de:
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
 ⟪हरिद्वार⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6105))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 :::
 ::: media
@@ -664,7 +664,7 @@ Paradigmas: Kielhorn, Grammatik § 153:
 ::: media
 ![](/images/lekt6115.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6115))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 :::
 ::: media
@@ -681,7 +681,7 @@ Kielhorn, Grammatik § 177:
 ::: media
 ![](/images/lekt6116.jpg)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6116))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 :::
 ::: media
@@ -776,36 +776,3 @@ Ofterdingen, 2009-03-09
 FIN DEL CURSO DE SÁNSCRITO
 :::
 
-::: deleteme-box
-
-**lekt6102:** [Fuente de la imagen: Banco Mundial / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Acceso el 2009-03-06. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt6106:** ⟪काशीपुर⟫ [Fuente de la imagen: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Acceso el 2009-03-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]]
-
-**lekt6107:** ⟪जोधपुर⟫ [Fuente de la imagen: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Acceso el 2009-03-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
-
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Fuente de la imagen: Flickr de Jessica Rabbit. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Acceso el 2009-03-08. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Fuente de la imagen: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Acceso el 2009-03-08. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
-
-**lekt6103:** [Fuente de la imagen: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Acceso el 2009-03-08. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribución, uso no comercial)]
-
-**lekt6109:** ⟪मुंबई⟫ [Fuente de la imagen: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Acceso el 2009-03-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt6110:** Karli [Fuente de la imagen: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Acceso el 2009-03-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt6111:** [Fuente de la imagen: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Acceso el 2009-03-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribución, compartir igual)]
-
-**lekt6113:** Tailandia - เมืองไทย [Fuente de la imagen: Navegando "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Acceso el 2009-03-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt6112:** 1845 - 1878 Profesor de filología indio-oriental en la Universidad de Copenhague
-
-**lekt6114:** Basílica de Santa Cruz, Kochi = കൊച്ചി [Fuente de la imagen: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Acceso el 2009-03-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribución, uso no comercial)]
-
-**lekt6118:** [Fuente de la imagen: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Acceso el 2009-03-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
-
-**lekt6117:** Pueblo apatani, Arunachal Pradesh [Fuente de la imagen: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Acceso el 2009-03-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
-
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), s. XII/XIII d. C. [Fuente de la imagen: Quadell / Wikipedia. Licencia GNU FDL]
-
-:::

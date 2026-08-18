@@ -23,7 +23,7 @@ last_reconstructed: 2026-05-15
 
 _راهنمای ترجمه:_ شاعر ۶: ⟪दिदृक्षते⟫ \= تمندی به ⟪दृश्⟫
 
-Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f. <!-- TODO: Fallback translation -->
+Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫
@@ -34,7 +34,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f. <!-- TODO: Fallback t
 > ⟪ऐक्षिष्ट⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā  
 > ⟪प्रातिष्ठिपत्⟫ - ⟪प्र⟫-⟪स्था⟫ unregelm. (siehe Pāṇini 7.4.5) Aor. 3
 >
-> 1 Kumbhkarṇa, der Bruder Rāvaṇas, liegt als Strafe für seine Übeltaten im Dauerschlaf <!-- TODO: Fallback translation -->
+> 1 Kumbhkarṇa, der Bruder Rāvaṇas, liegt als Strafe für seine Übeltaten im Dauerschlaf
 
 ⟪ते⟫ ⟪ऽभ्यगुर्भवनं⟫ ⟪तस्य⟫ ⟪सुप्तं⟫ ⟪चैक्षिषताथ⟫ ⟪तम्⟫ ⟪।⟫  
 ⟪व्याहार्षुस्तुमुलाञ्छब्दान्दण्डैश्चावधिषुर्द्रुतम्⟫ ⟪॥२॥⟫
@@ -44,7 +44,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f. <!-- TODO: Fallback t
 > ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (für ⟪इ⟫) Aor. 1 P  
 > ⟪अक्षिषत⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā (3.pl.)  
 > ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ aussprechen, sagen Aor. 4 P  
-> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (statt ⟪हन्⟫) Aor. 5 <!-- TODO: Fallback translation -->
+> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (statt ⟪हन्⟫) Aor. 5
 
 ⟪केशानलुञ्चिषुस्तस्य⟫ ⟪गजान्गात्रेष्वभिभ्रमन्⟫ ⟪।⟫  
 ⟪शीतैरभ्यषिचंस्तोयैरलातैश्चाप्यदम्भिषुः⟫ ⟪॥३॥⟫
@@ -105,7 +105,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f. <!-- TODO: Fallback t
 > ⟪अतुषत्⟫ - ⟪तुष्⟫ Aor. 2  
 > ⟪निरदिक्षत्⟫ - ⟪निर्⟫-⟪दिश्⟫ Aor. 7  
 > ⟪अस्मेष्ट⟫ - ⟪स्मि⟫ Ā Aor. 4  
-> ⟪उपाविक्षत्⟫ - ⟪उप⟫-⟪विश्⟫ Aor. 7 <!-- TODO: Fallback translation -->
+> ⟪उपाविक्षत्⟫ - ⟪उप⟫-⟪विश्⟫ Aor. 7
 
 ⟪अवादीन्मां⟫ ⟪किमित्याह्वो⟫ ⟪राज्ञा⟫ ⟪च⟫ ⟪प्रत्यवादि⟫ ⟪सः⟫ ⟪।⟫  
 ⟪नाज्ञासीस्त्वं⟫ ⟪सुखी⟫ ⟪रामो⟫ ⟪यदकार्षीत्स⟫ ⟪रक्षसाम्⟫ ⟪॥९॥⟫

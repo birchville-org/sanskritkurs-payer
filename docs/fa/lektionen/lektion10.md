@@ -9,15 +9,7 @@ status: stable
 
 # درس ۱۰
 
-::: deleteme-box
-**در این درس یاد می‌گیرید:**
-- جمله مجهول (ابزارگرِ فاعل)
-- صرف ابزارگر (تریتی‌یا)
-- قانون سیریبرالیزاسیون برای -n- (ساندهای واژگانی)
-- ساخت مجهول (یاک) در حال اخباری
-- واژگان مربوط به قربانی، حقیقت و نقش‌های اجتماعی
-:::
-## 10.1. Der Passivsatz <!-- TODO: Fallback translation -->
+## 10.1. Der Passivsatz
 
 ::: grammar-box
 **الگو:**
@@ -54,7 +46,7 @@ status: stable
 **جملات مجهول سنسکیت معمولاً نباید در آلمانی با یک جمله مجهول بازگردانده شوند، زیرا مجهول آلمانی کارکرد سبک‌شناختی کاملاً متفاوتی دارد.**
 :::
 
-## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung") <!-- TODO: Fallback translation -->
+## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
 
 ::: grammar-box
 **پایه‌های منظم ابزارگر (تریتی‌یا):**
@@ -103,9 +95,6 @@ status: stable
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-به‌جز در حالت‌های فاعلی (Nominativ) و مفعولی مستقیم (Akkusativ)، شکل‌های خنثی‌های ختم‌شده به -a، ضمیر پرسشی و ضمایر اشاره‌ای با شکل‌های مذکر مربوطه یکسان هستند.
-:::
 
 ### 10.2.1. درباره کاربرد اداة‌ساز (tṛtīyā = ⟪तृतीया⟫)
 
@@ -154,7 +143,7 @@ status: stable
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫) <!-- TODO: Fallback translation -->
+## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
 
 ::: grammar-box
 **ساختار:**
@@ -170,7 +159,7 @@ status: stable
 
 **توجه داشته باشید که در افعال کلاس حال چهارم، فرم‌های آत्मनेपد و مجهول یکسان هستند! تشخیص اینکه آیا آत्मनेپد یا مجهول در کار است، تنها از طریق ساختار جمله قابل استخراج است.**
 
-### 10.4.1. Sonderregeln zur Bildung des Passiv <!-- TODO: Fallback translation -->
+### 10.4.1. Sonderregeln zur Bildung des Passiv
 
 1. **ریشه‌های منتهی به -i یا -u** قبل از پسوند مجهول **-ya-**، واکل خود را دراز می‌کنند:
 * **ji** ۱ P: **jīyate**, **jīyante**
@@ -216,7 +205,7 @@ status: stable
 * **tan-ya-te**، **tan-ya-nte**
 ⟪तन्यते⟫, ⟪तन्यन्ते⟫
 * **tā-ya-te**، **tā-ya-nte**
-⟪तायते⟫، ⟪तायन्ते⟫ (از \*tn-ya-nte) <!-- TODO: Fallback translation -->
+⟪तायते⟫، ⟪तायन्ते⟫ (از \*tn-ya-nte)
 
 ## 10.5. فهرست واژگان
 
@@ -346,7 +335,7 @@ status: stable
 9. کشاتریا، خدای بزرگ را با یک قربانی پرستش می‌کند. (ساختار مجهول، بدون استفاده از کلمه **yajña**)
 10. یک پیرو بودا از طریق سخاوتمندی به آسمان می‌رسد.
 
-## 10.7. Wortliste 2 <!-- TODO: Fallback translation -->
+## 10.7. Wortliste 2
 
 - **makṣikā** مؤ. ⟪मक्षिका⟫ : مگس، زنبور
 - **vraṇa** مذ. ⟪व्रण⟫ : زخم، خطا، خسارت
@@ -373,11 +362,11 @@ status: stable
 - **iha** ⟪इह⟫ : اینجا
 - **śubh** ۱ آ (śobhate) ⟪शुभ् शोभते⟫ : زیبا بودن، درخشیدن
 
-## 10.8. Lese- und Übersetzungsübung <!-- TODO: Fallback translation -->
+## 10.8. Lese- und Übersetzungsübung
 
 **بخوانید، ترجمه کنید و به حالت مجهول تبدیل نمایید:**
 
-⟪क⟫ <!-- TODO: Fallback translation -->
+⟪क⟫
 
 ⟪१⟫.
 ::: center
@@ -396,7 +385,7 @@ status: stable
 ⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ | |
 ⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
 
-⟪ख⟫ <!-- TODO: Fallback translation -->
+⟪ख⟫
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ | |
 ⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ | |

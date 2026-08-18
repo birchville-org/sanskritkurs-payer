@@ -220,15 +220,3 @@ Explicación: ⟪यथाकालम्⟫ Compuesto Avyayībhāva: en el mome
 :::
 Explicación: ⟪पुमान्⟫ Nom. sg. de ⟪पुंस्⟫ "hombre" ; ⟪लोके⟫ Loc. sg. de ⟪लोक⟫ m.: en el ...
 
-::: deleteme-box
-
-**lekt1809:** Ilustración para el ⟪कामसूत्र⟫ [Fuente de la imagen: Wikipedia, Dominio público]
-
-**lekt1901:** Badami (ಬದಾಮಿ) [Fuente de la imagen: Sudarshan Bhat Khandige / Wikipedia, Dominio público]
-
-**lekt1902:** Goa (⟪गोंय⟫) [Fuente de la imagen: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Acceso el 2008-12-08. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt1903:** ⟪१९५९⟫ [Fuente de la imagen: Wikipedia, Dominio público]
-
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), con atuendo tradicional, es una costumbre en las partes meridionales de Kerala. _Onappottan_ visita casas durante el _onam_ y otorga bendiciones. En tiempos recientes, _onappottan_ se ha convertido en una vista rara, confinada a pueblos." [Fuente de la imagen: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Acceso el 2008-12-08. -- Licencia Creative Commons (Atribución)]
-:::

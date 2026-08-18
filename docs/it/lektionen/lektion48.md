@@ -152,7 +152,7 @@ Nota: ¹ Spiegazione di **⟪जहि⟫*** vedi Thumb-Hauschild I,2 pag. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Terza classe del presente (⟪जुहोत्यादि⟫) &lt;!-- TODO: Fallback translation --&gt;
+### 48.2.4. Terza classe del presente (⟪जुहोत्यादि⟫) &lt;!--  --&gt;
 
 ::: grammar-box
 **La 3.pl.P termina in \-atu !**
@@ -228,7 +228,7 @@ Esempi:
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brEsempi siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **altri temi declinazionali:** | vedi Wackernagel, Grammatica dell'indico antico II,2 § 38 | &lt;!-- TODO: Fallback translation --&gt;
+| **altri temi declinazionali:** | vedi Wackernagel, Grammatica dell'indico antico II,2 § 38 | &lt;!--  --&gt;
 
 Prima del suffisso **-ya** la terminazione del tema viene trattata in modo simile a quanto avviene prima del suffisso **-a**.
 :::
@@ -405,23 +405,3 @@ B) Tradurre in sanscrito (usando l'imperativo e preferibilmente radici della 2ª
 Spiegazione:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dualeeeeeee di ⟪द्वे⟫ ⟪कुले⟫ "due famiglie"
 
-::: deleteme-box
-
-**lekt4801:** [Fonte dell'immagine: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, share alike)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Fonte dell'immagine: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, share alike)]
-
-**lekt4803:** Musicisti di sitar = ⟪सितारवादकः⟫ [Fonte dell'immagine: Wikipedia. Dominio pubblico]
-
-**lekt4804:** [Gruppo di auto-aiuto (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Fonte dell'immagine: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribuzione, uso non commerciale)]
-
-**lekt4805:** Festival Thaipusam = தைப்பூசம், Batu Caves, Malesia [Fonte dell'immagine: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuzione)]
-
-**lekt4806:** ⟪नेपाल⟫ [Fonte dell'immagine: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna modifica)]
-
-**lekt4807:** ⟪जोधपुर⟫ [Fonte dell'immagine: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna modifica)]
-
-**lekt4808:** Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ [Fonte dell'immagine: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Accesso il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribuzione, share alike)]
-
-**lekt4809:** (Immagine: Payer)
-:::

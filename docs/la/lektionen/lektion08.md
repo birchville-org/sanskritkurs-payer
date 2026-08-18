@@ -5,17 +5,10 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 8
 
-::: deleteme-box
-**In hac lectione discetis:**
-- Nomina formandi (kṛt- et taddhita-suffixa)
-- Nomina suffixa importantia (-a, -ana, -tra, -ti, -tva, -tā)
-- Octava praesentis classis (tanādi)
-- Coniugatio verbi **kṛ** (tun, facere)
-:::
 
 ## 8.1. De formatione nominum
 
@@ -29,14 +22,14 @@ In grammatica Indica traditionali inter suffixa, quibus radices nominalium forma
 **Radix + suffixum kṛt » radix nominalis etc. + suffixum taddhita » nova radix nominalis etc.**
 
 **Stamen nominale + casus desinens » nomen syntaxe fungens**
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
-## 8.2. Einteilung der Nominalsuffixe <!-- TODO: Fallback translation -->
+## 8.2. Einteilung der Nominalsuffixe
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
   - **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (nomina quae eum significant qui id facit quod radix significat)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (nomina quae actionem a radice expressam significant) sive abstracta <!-- TODO: Fallback translation -->
+  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (nomina quae actionem a radice expressam significant) sive abstracta
 
 - **taddhita**
   - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » Adiectiva
@@ -52,9 +45,9 @@ In grammatica Indica traditionali inter suffixa, quibus radices nominalium forma
 - **na guṇya** (⟪न⟫ ⟪गुण्य⟫): formatio gradus humilis
 - **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): formatio gradus producti
 
-## 8.3. Einige wichtige Nominalsuffixe <!-- TODO: Fallback translation -->
+## 8.3. Einige wichtige Nominalsuffixe
 
-### 8.3.1. -a m. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
 **Suffixum kṛt -a substantiva masculina (rarius neutra) format, quae actionem vel statum significant, qui a radice significatur; interdum etiam adiectiva vel substantiva, quae agentem (kartṛm) actionis a radice verbalis significatae exprimunt. Pro penultima brevi (= vocali ante consonantem, qua radix terminatur) vel vocali radicali finali, plerumque gradus altus (guṇa) vel gradus productus (vṛddhi) substituitur.**
@@ -72,9 +65,9 @@ In grammatica Indica traditionali inter suffixa, quibus radices nominalium forma
 | **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" | <!-- TODO: Fallback translation -->
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
 
-### 8.3.2. -ana n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
 **Suffixum kṛt -ana plerumque substantiva neutra format, quae actionem, statum vel medium atque instrumentum significant, per quod ea, quae a radice vel radice verbalis significatur, perficitur. Pro brevi penultima vel vocali finali radicis, gradus superior (guṇa) consuevit substitui.**
@@ -88,7 +81,7 @@ In grammatica Indica traditionali inter suffixa, quibus radices nominalium forma
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
 | **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
 | **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" | <!-- TODO: Fallback translation -->
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
@@ -103,7 +96,7 @@ Pii Hindus ad templum pergunt ut visionem Dei per symbolum aut statuam, in qua p
 (Fons: Wikipedia)
 :::
 
-### 8.3.3. -tra n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
 **Suffixum kṛt -tra substantiva (plerumque) neutra format, quae medium vel instrumentum significant, per quod actio, quam radix significat, efficitur. Penultima brevis et vocalis finalis radices per gradum superiorem (guṇa) mutatur.**
@@ -116,7 +109,7 @@ Pii Hindus ad templum pergunt ut visionem Dei per symbolum aut statuam, in qua p
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" | <!-- TODO: Fallback translation -->
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
 
 ::: media
 **Mantra primordiale Oṃ (⟪ॐ⟫) in variis scripturis Indianis**
@@ -131,7 +124,7 @@ Pii Hindus ad templum pergunt ut visionem Dei per symbolum aut statuam, in qua p
 (Fontes imaginum: [Detalia](/la/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti f. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
 **Suffixum kṛt -ti substantiva feminina format, quae in genere actionem a radice significatam vel statum a radice significatum exprimunt. Forma radicis est gradus profundus.**
@@ -146,7 +139,7 @@ Pii Hindus ad templum pergunt ut visionem Dei per symbolum aut statuam, in qua p
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) | <!-- TODO: Fallback translation -->
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
 
 Nota: \* ante formam significat hanc formam in Sanscrito non occurrere, sed theoretice deduci ut praeconditio pro certa formatione. Gradus profundus **gam** est gṃ = \*gm; m substituitur per **a** ut nasalis sonans dicta » **ga**. Idem valet pro **man** » **ma**.
 
@@ -161,7 +154,7 @@ Nota: \* ante formam significat hanc formam in Sanscrito non occurrere, sed theo
 | :--- | :--- | :--- | :--- |
 | **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
 | **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" | <!-- TODO: Fallback translation -->
+| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
 
 Haec formata ad quodlibet nomen formari possunt et in operibus Sanscriticis scientificis valde frequenter occurrunt.
 
@@ -170,7 +163,7 @@ Haec formata ad quodlibet nomen formari possunt et in operibus Sanscriticis scie
 ::: grammar-box
 **Stammbildung:**
 - **Starker Stamm: Radix + -o-**
-- **Debilis radix: Radix + -u- (ante vocalem: -v-)** <!-- TODO: Fallback translation -->
+- **Debilis radix: Radix + -u- (ante vocalem: -v-)**
 
 Exemplum **tan** 8 U (⟪तन्⟩) "tendere":
 - 3\. sg. P. **tanoti**
@@ -182,7 +175,7 @@ Exemplum **tan** 8 U (⟪तन्⟩) "tendere":
 - 3\. pl. Ā. **tanvate**
 ⟪तन्वते⟫
 :::
-Nota: De controversia, an **tan** radix quintae classis sit (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265. <!-- TODO: Fallback translation -->
+Nota: De controversia, an **tan** radix quintae classis sit (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
 Radix principalis classis octavae est **kṛ** 8 U (⟪कृ⟫) "facere, agere". Coniugatio eius irregularis est:
 

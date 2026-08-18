@@ -1,15 +1,16 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "Lectio 13"
+subtitle: "PPP in -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lectio 13
 
-## 13.1. PPP auf -na- <!-- TODO: Fallback translation -->
+## 13.1. PPP auf -na-
 
 De distributione PPPs in -ta- sive -na- regulae certae constituere non possunt. Sed:
 
@@ -76,7 +77,7 @@ Exemplum:
 
 Mediantibus suffixis taddhita -mant sive -vant adiectiva possessiva ex nominibus formantur. Eorum significatio est: "habens id quod nomine subiecto designatur".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
 Exempla:
 
@@ -107,12 +108,12 @@ In nominibus radicalibus, quae gradum radicis ostendunt, inter casus fortes et i
 Cum parte anteriori compositi, nomen cum gradatione radicis in gradu debili (in nominibus tribus radicibus praeditis in dicto medio).
 :::
 
-## 13.6. Zum Wortsandhi <!-- TODO: Fallback translation -->
+## 13.6. Zum Wortsandhi
 
 Ad intellegendum formas singulares declinationis nominum in -mant et -vant sequentes leges sandhi vocis necessariae sunt:
 
 ::: grammar-box
-1. Numerus consonantium finalium in verbo: Si duo pluresve consonantes verbum claudere deberent, tantum prima consonans manet, caeterae cadunt. Connexio -r- + consonans permittitur. <!-- TODO: Fallback translation -->
+1. Numerus consonantium finalium in verbo: Si duo pluresve consonantes verbum claudere deberent, tantum prima consonans manet, caeterae cadunt. Connexio -r- + consonans permittitur.
 
 2. Sine voce articulatio clausa ante articulatio clausam sonantem (non nasalem) per articulatio clausam sonantem sibi correspondentem mutatur:
 :::
@@ -268,7 +269,7 @@ B) Translate et in passiva praeteriti temporis redige:
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
 
-## 13.11. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 13.11. Wiederholungsübung
 
 A) Versio facite sequentes sententias:
 

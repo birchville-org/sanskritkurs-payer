@@ -214,15 +214,3 @@ B) ለሚከተሉት የ7ኛ ክፍል ሥሮች፣ ሁሉንም የ3ኛ መደ
 
 ⟪५⟫. ⟪भञ्ज्⟫ (P ብቻ)
 
-::: deleteme-box
-
-**lekt3101:** የዮጋ አቀራረብ። [የምስል ምንጭ: Flickr, 2008-12-25. CC BY]
-
-**lekt3102:** ለካታካሊ ዳንስ ዝግጅት፣ ኮቺ። [የምስል ምንጭ: winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**lekt3103:** ከፕራጅናፓራሚታ የእጅ ጽሑፍ። [የምስል ምንጭ: zeno.org. የህዝብ ንብረት]
-
-**lekt3105:** Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War. [የምስል ምንጭ: Hari Singh Deora / Wikipedia. Public domain]
-
-**lekt3104:** ራሁላ፣ የቡድሃ ልጅ፣ ላኦስ። [የምስል ምንጭ፡ ሳካ / ውክፔዲያ። ጂኤንዩ ኤፍዲኤል]
-:::

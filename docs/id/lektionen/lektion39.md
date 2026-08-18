@@ -1,51 +1,52 @@
 ---
-title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+title: "Pelajaran 39"
+subtitle: 'Akhiran orang pertama (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**orang ketiga**\")'
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 39
 
-## 39.1. Akhiran Personal Orang Pertama (:sig[तृतीयः] ⟪पुरुषः⟫ = Orang **ketiga**)
+## 39.1. Akhiran orang pertama (:sig[तृतीयः] ⟪पुरुषः⟫ = "**orang ketiga**")
 
-Akhiran orang pertama (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**orang** ketiga") adalah:
+Akhiran orang pertama (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**orang ketiga**") adalah:
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Primary endings thematic stems** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
-| **Primärendung atematik Stämme** | ^^ | ^^ | **-e** | ^^ |
-| **Secondary endings thematic stems** | **-m** | **-ma** | **-i** | **-mahi** |
-| **Sekundärendung atematik Stämme** | **-am** | ^^ | ^^ | ^^ |
-| **Optative ending** | ^^ | ^^ | **-a** | ^^ |
-| **Perfect ending** | **-a** | ^^ | **-e** | **-mahe** |
+| **Akhiran primer batang tematik** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
+| **Akhiran primer batang atematik** | ^^ | ^^ | **-e** | ^^ |
+| **Akhiran sekunder batang tematik** | **-m** | **-ma** | **-i** | **-mahi** |
+| **Akhiran sekunder batang atematik** | **-am** | ^^ | ^^ | ^^ |
+| **Akhiran optatif** | ^^ | ^^ | **-a** | ^^ |
+| **Akhiran perfek** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
-1 Catatan: sebenarnya, akhiran utama Ā dari stem tematik juga harus diasumsikan sebagai -e, sebelum mana vokal tematik -a- hilang karena alasan analogi. Namun, efeknya seolah-olah akhiran -i melekat pada vokal tematik -a-: a + i » e.
+¹ Catatan: sebenarnya, akhiran primer Ā untuk batang tematik juga seharusnya ditetapkan sebagai -e, di mana vokal tema -a- hilang karena alasan analogi. Namun efeknya seolah-olah akhiran -i bergabung dengan vokal tema -a-: a + i » e.
 
-## 39.2. Pembentukan  Verbformen  ersten Person thematischer Batang Present
+## 39.2. Pembentukan bentuk kata kerja orang pertama untuk batang presentis tematik
 
 ::: grammar-box
 **Aturan:**
-**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Sebelum -mi, -mas, -ma, -mahe, -mahi, vokal tema -a- diganti dengan -ā- !!!**
 :::
-### 39.2.1. Kelas Prezen Pertama (⟪भ्वादि⟫)
+### 39.2.1. Kelas presentis pertama (⟪भ्वादि⟫)
 
-⟪भू⟫ 1P
+⟪भू⟫ Orang Pertama (1P)
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indicative Present  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
-| **Imperfect  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
-| **Optative  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
+| **Indikatif Presentis - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\&lt;⟪भवे⟫\&gt;** :brbhava + i:brrichtig: bhav-e | **\&lt;⟪भवामहे⟫\&gt;** |
+| **Imperfek - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\&lt;⟪अभवे⟫\&gt;** | **\&lt;⟪अभवामहि⟫\&gt;** |
+| **Optatif - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. Kelas Present Keenam (⟪तुदादि⟫)
@@ -94,21 +95,26 @@ Akhiran orang pertama (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः�
 
 ⟪ईक्ष्⟫ 1Ā
 
+:::
+### 39.2.5. Pasif (Sufiks ⟪यक्⟫)
+
+⟪ईक्ष्⟫ 1Ā
+
 ::: grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: |
-| **Indicative Present  - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
-| **Imperfect  - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
-| **Optative  - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
+| **Indikativ Präsens - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
+| **Imperfekt - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
+| **Optativ - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Pembentukan Bentuk Kata Kerja Orang Pertama Futur Sederhana - ⟪ऌत्⟫
+## 39.3. Pembentukan bentuk kata kerja orang pertama dari masa depan sederhana - ⟪ऌत्⟫
 
 ::: grammar-box
-**Masa depan memiliki pembentukan tematik. Oleh karena itu, aturan untuk akar kata tematik juga berlaku:**
+**Masa depan memiliki pembentukan tematik. Oleh karena itu, aturan untuk batang tematik juga berlaku:**
 
-**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Sebelum -mi, -mas, -mahe, vokal tema -a- diganti dengan -ā- !!!**
 :::
 ### 39.3.1. Pembentukan ⟪अनिट्⟫
 
@@ -119,30 +125,30 @@ Akhiran orang pertama (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Future - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
+| **Masa depan - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. ⟪सेट्⟫-Pembentukan
+### 39.3.2. Pembentukan ⟪सेट्⟫
 
-⟪भू⟫ 1st person singular
+⟪भू⟫ 1P
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Future - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
+| **Masa depan - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
 
 :::
-## 39.4. Pembentukan  Verbformen  ersten Person atematik Batang Present
+## 39.4. Pembentukan bentuk kata kerja orang pertama dari batang präsens athematis
 
 ::: grammar-box
-**Perhatikan bahwa dalam kata — berbeda dengan sandhi kalimat — konsonan umumnya tetap tidak berubah sebelum akhiran yang dimulai dengan**
+**Perhatikan bahwa di dalam kata - berbeda dengan Satzsandhi - sebelum akhiran yang dimulai dengan**
 * **Vokal**
 * **Semi-vokal**
 * **Nasal**
 
-**mulai, konsonan umumnya tetap tidak berubah.**
+**konsonan biasanya tetap tidak berubah.**
 
 **e.g. ⟪वच्⟫ 1.sg.Ind.Pres. **⟪व⟫**⟪च्मि⟫**
 :::

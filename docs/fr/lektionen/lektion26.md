@@ -1,60 +1,61 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Leçon 26"
+subtitle: "Loi de cérébralisation pour -s- à l'intérieur du mot"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+
+---
 
 # Leçon 26
 
-## 26.1. Loi de cérébralisation du -s- à l'intérieur du mot
+## 26.1. Loi de cérébralisation pour -s- à l'intérieur du mot
 
 ::: grammar-box
-**-s-** est remplacé par **-ṣ-** lorsque **k, r, l** ou une **voyelle** — sauf **a, ā** — précède immédiatement ou seulement séparée par **⟪अनुस्वार⟫** ou **⟪विसर्ग⟫** et qu’un autre son que **ṛ, r** suit.
+**-s-** est remplacé par **-ṣ-**, lorsque **k, r, l** ou une **voyelle** — sauf **a, ā** — précède immédiatement ou seulement séparée par ⟪अनुस्वार⟫ ou ⟪विसर्ग⟫ et qu'un autre son que **ṛ, r** suit.
 
-Ce sandhi s’applique également à **⟪दुस्⟫-** devant les gutturaux et les labiales sourdes dans les composés.
+Cette sandhi s'applique aussi à **⟪दुस्⟫-** devant les gutturales et labiales sourdes dans les composés.
 :::
 *Exemples :*
 ::: indent
-**⟪तेषाम्⟫** (issu de : *te-sām*)
+⟪तेषाम्⟫ (de : *te-sām*)
 
-mais : **⟪तासाम्⟫** (*tā-sām*)
+mais : ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Loi de cérébralisation des dentales à l'intérieur du mot
+## 26.2. Loi de cérébralisation pour les dentales à l'intérieur du mot
 
 ::: grammar-box
-Les occlusives dentales sont remplacées par les rétroflexes correspondantes après les rétroflexes (y compris **-ṣ-**):
+Les occlusives dentales sont remplacées par les rétroflexes correspondants après des rétroflexes (y compris **-ṣ-**) :
 
-- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-  *(**ṣ** en raison du **i** précédent, **ṭh** en raison du **ṣ** qui le précède ensuite)*
+**iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
+**ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
+*(**ṣ** à cause du **i** précédent, **ṭh** à cause du **ṣ** qui suit ensuite)*
 :::
-## 26.3. Wortsandhi pour les palataux, gutturaux, ṣ, h + -s
+## 26.3. Sandhi lexical pour Palatal, Guttural, ṣ, h + -s
 
 ::: grammar-box
-**-k, -kh, -g, -gh ; -c, -j ; -ś, -ṣ ; -h** + **s-** » **-kṣ**
+**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
-Exemples ci-dessous
+Voir exemples ci-dessous
 :::
-## 26.4. Loi de dissimilation par aspiration de Grassmann
+## 26.4. Loi de dissimilation des aspirées de Grassmann
 
 ::: grammar-box
-**Une conséquence immédiate de deux aspirées (aspirée - voyelle - aspirée) est la perte de l'aspiration du premier son :**
+**Une séquence immédiate de deux aspirées (aspirée - voyelle - aspirée) entraîne la perte de l'aspiration du premier son :**
 
 Exemple :
 
 :::
 ::: indent
-\dhu(gh) » du(g)h
+\*dhu(gh) » du(g)h
 :::
-**Si le second son perd son aspiration en raison des lois phonétiques, l'aspiration réapparaît alors sur le premier son.**
+**Si le deuxième son perd son aspiration en raison de lois phonétiques, l'aspiration réapparaît sur le premier son.**
 
-Exemples : voir ci-dessous le futur de  ⟪दुह्⟫ et  ⟪बुध्⟫
+Exemples : voir ci-dessous futur de  ⟪दुह्⟫ et  ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
-Fig. : Hermann Graßmann
+Légende : Hermann Grassmann
 (Source de l'image : [Détails](/fr/licenses#lekt2601))
 :::
 ## 26.5. Sandhi lexical pour -m, -n devant une sifflante

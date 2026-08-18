@@ -1,25 +1,26 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: "Lecție 61"
+subtitle: "Declinarea substantivelor rădăcinale în -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lecția 61
+---
 
-## 61.1. Declinarea substantivelor radicale în -ā, -ī, -ū
+# Lecție 61
 
-### 61.1.1. Numele de rădăcină cu sufixul -ā la finalul lui ⟪तत्पुरुष⟫
+## 61.1. Declinarea substantivelor rădăcinale în -ā, -ī, -ū
+
+### 61.1.1. Substantive rădăcinale în -ā la finalul lui ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**În fața terminațiilor vocalice, vocala de bază a temei are gradul zero Ø în cazurile slabe.**
+**Înainte de terminările vocalice, vocala tematică din cazurile slabe trece la stadiul de reducere Ø.**
 
-**Declinarea la masculin și feminin este identică.**
+**Declinarea în masculin și feminin este identică.**
 :::
 Paradigmă:
 
-⟪विश्वपा⟫ m.f. "cel care protejează totul"
+⟪विश्वपा⟫ m.f. "cel care protejează tot"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -31,12 +32,12 @@ Paradigmă:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Nume de rădăcină feminine în -ī
+### 61.1.2. Substantive rădăcinale feminine în -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**Înainte de o terminare vocalică, -ī se înlocuiește cu -iy.**
 
-**Pe lângă formele cu terminațiile cazuale regulate, în Dat.Ab.Gen.Lok.sg. și Gen.pl. apar și forme după modelul femininelor polisilabice în -ī (⟪देवी⟫).**
+**Pe lângă formările cu terminări cazuale regulate, în Dat.Abl.Gen.Loc.sg. și Gen.pl. apar și formări după modelul femininelor polisilabice în -ī (⟪देवी⟫).**
 :::
 Paradigmă:
 
@@ -95,7 +96,7 @@ Paradigme:
 | ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
 | ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
 
-⟪यवक्री⟫ m., f. "Cumpărând orz"
+⟪यवक्री⟫ m., f. "cumpărând orz"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -107,16 +108,16 @@ Paradigme:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Nume de rădăcină monosilabice, feminine, în -ū
+### 61.1.4. Nume de rădăcină feminine monosilabice în -ū
 
 ::: grammar-box
 **Stem înaintea vocală: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**Declinare analogică cu numele de rădăcină feminine în -ī**
 :::
-Paradigmă: <!-- TODO: Fallback translation -->
+Paradigmă:
 
-⟪भू⟫ f. "Pământ"
+⟪भू⟫ f. "pământ"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -128,16 +129,16 @@ Paradigmă: <!-- TODO: Fallback translation -->
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Nume de rădăcină cu sufixul -ū la finalul lui ⟪तत्पुरुष⟫
+### 61.1.5. Nume de rădăcină în -ū la finalul unui ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Înainte de terminații vocale, -ū este înlocuit cu -v, dacă este precedat doar de un singur consoană care aparține rădăcinii. Dacă sunt precedate mai multe consoane care aparțin rădăcinii, -ū înainte de terminația vocală este înlocuit cu -uv.**
+**Înainte de terminări vocale, -ū este înlocuit cu -v dacă îi precede doar o consoană aparținând rădăcinii. Dacă urmează mai multe consoane care fac parte din rădăcină, -ū înainte de o terminare vocală este înlocuit cu -uv.**
 
-**Declinarea este identică în masculin și feminin.**
+**Declinarea este identică la masculin și feminin.**
 :::
 Paradigmă:
 
-⟪खलपू⟫ m., f. "cel care curăță grajdul"
+⟪खलपू⟫ m., f. "curățând grajdul"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -162,7 +163,7 @@ Fig.: ⟪रथ्याप्वः⟫
 :::
 Paradigmă:
 
-⟪वधू⟫ f. "femeie tânără, mireasă" <!-- TODO: Fallback translation -->
+⟪वधू⟫ f. "femeie tânără, mireasă"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -279,19 +280,18 @@ Karnataka = ಕರ್ನಾಟಕ
 
 **rădăcină reduplicată + -ya-**
 
-**Forma rădăcinii: în general ca la pasiv, adică de obicei la nivel scăzut:**
+**Forma rădăcinii: în general ca la Passiv, adică de obicei cu gradul slab:**
 
 Exemple:
 
 :::
 ::: indent
-⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
+⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
 :::
-Regulile în detaliu la Kielhorn, Gramatikă § 461. <!-- TODO: Fallback translation -->
+Regulile în detaliu la Kielhorn, Gramatikă § 461.
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Exemple: <!-- TODO: Fallback translation -->
+**Reduplicare: conform regulilor generale. Vocala de reduplicare însă: în loc de a,i,u apare ā, e, o**
+Exemple:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -308,23 +308,23 @@ Exemple: <!-- TODO: Fallback translation -->
 ::: indent
 de ex. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 :::
-**La unele rădăcini apare între vocala silabei de reduplicare și consoana inițială a rădăcinii -nī- respectiv -rī- (-rī- la rădăcinile care conțin un ṛ în intensīv).**
+**La unele rădăcini apare între vocala silabei de reduplicare și consoana inițială a rădăcinii -nī- respectiv -rī- (-rī- la rădăcini care conțin un ṛ în Intensiv).**
 
 ::: indent
 de ex.
-⟪पत्⟫ 1P: ⟪प⟫**:sig[⟪नी⟫]**⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫**:sig[⟪री⟫]**⟪वृत्य⟫-
+⟪पत्⟫ 1P: ⟪प⟫:sig[⟪नी⟫]⟪पत्य⟫-
+⟪वृत्⟫ 1Ā: ⟪व⟫:sig[⟪री⟫]⟪वृत्य⟫-
 :::
 ::: grammar-box
 **Conjugare:**
 
-*   **Stemul prezental: ca un Ātmanepada din a 4-a clasă de prezente (⟪दिवादिगण⟫).**
-*   **Pasiv și celelalte stemuri temporale: dacă un vocal precede -ya- al stemului intensīv, atunci -ya- este înlocuit cu -y-; dacă un consoană precede -ya-, atunci -ya- dispare:**
-    *   **Prezent pasiv: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
-    *   **Perfect: perifrastic: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-    *   **Aorist: aorist iṣ (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Viitor: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **viitor perifrastic: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+*   **Tema de prezent: ca un Ātmanepada din a 4-a clasă de prezență (⟪दिवादिगण⟫).**
+*   **Passiv și celelalte teme temporale: dacă precedă vocala -ya- a temei de intensiv, atunci -ya- este înlocuit cu -y-, dacă precede o consoană, atunci -ya- dispare:**
+*   **Passiv Prezent: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **Perfect: perifrastic: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **Aorist: Aorist iṣ (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **Futur perifrastic: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
 ### 61.3.2. Intensivul Parasmaipada
 
@@ -446,7 +446,7 @@ Aveți în vedere semnificația de:
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ⟪हरिद्वार⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6105))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -454,7 +454,7 @@ Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6103))
 :::
-### 61.4.3. Formare cu sufixul -kāmya, Parasmaipada <!-- TODO: Fallback translation -->
+### 61.4.3. Formare cu sufixul -kāmya, Parasmaipada
 
 ::: grammar-box
 **Semnificație:**
@@ -579,7 +579,7 @@ Fig.:
 ::: indent
 **Dorință de binecuvântare**
 :::
-**Formare:** <!-- TODO: Fallback translation -->
+**Formare:**
 
 **Parasmaipada:**
 
@@ -659,7 +659,7 @@ Paradigmă:
 
 **⟪गो⟫ m.f. "bou, vacă" prezintă alternanță de grad al temei.** Vedeți explicația detaliată la Thumb-Hauschild § 296/7.
 :::
-Paradigme: Kielhorn, Grammatik § 153: <!-- TODO: Fallback translation -->
+Paradigme: Kielhorn, Grammatik § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
@@ -736,7 +736,7 @@ După finalizarea cursului de sanscrită, începe cu adevărat „înotul” pro
 Fig.: ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), sec. al XII-lea/al XIII-lea d. Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6101))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: no-header
@@ -775,36 +775,3 @@ Ofterdingen, 09.03.2009
 Sfârșitul cursului de sanscrită
 :::
 
-::: deleteme-box
-
-**lekt6102:** [Sursa imaginii: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Accesat la data de 06.03.2009. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără opere derivate)]
-
-**lekt6106:** ⟪काशीपुर⟫ [Sursa imaginii: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Accesat la data de 09.03.2009. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, share alike)]]
-
-**lekt6107:** ⟪जोधपुर⟫ [Sursa imaginii: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Accesat la 2009-03-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, share alike)]
-
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Sursa imaginii: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Accesat la 2009-03-08. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Sursa imaginii: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Accesat la 2009-03-08. --  [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
-
-**lekt6103:** [Sursa imaginii: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Accesat la 2009-03-08. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribuire, utilizare non-comercială)]
-
-**lekt6109:** ⟪मुंबई⟫ [Sursa imaginii: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Accesat la 2009-03-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
-
-**lekt6110:** Karli [Sursa imaginii: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Accesat la 2009-03-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
-
-**lekt6111:** [Sursa imaginii: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Accesat la 2009-03-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribuire, share alike)]
-
-**lekt6113:** Thailanda - เมืองไทย [Sursa imaginii: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Accesat la 2009-03-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
-
-**lekt6112:** 1845 - 1878 Profesor de filologie indo-orientală la Universitatea din Copenhaga
-
-**lekt6114:** Bazilica Santa Cruz, Kochi = കൊച്ചി [Sursa imaginii: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Accesat la 2009-03-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribuire, utilizare non-comercială)]
-
-**lekt6118:** [Sursă imagine: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Accesat la 2009-03-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
-
-**lekt6117:** Poporul Apatani, Arunachal Pradesh [Sursă imagine: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Accesat la 2009-03-09. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)] <!-- TODO: Fallback translation -->
-
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), sec. al XII-lea/al XIII-lea d.Hr. [Sursă imagine: Quadell / Wikipedia. Licență GNU FDL]
-
-:::

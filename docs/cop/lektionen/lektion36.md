@@ -12,7 +12,7 @@ status: stable
 ## 36.1. ⲧⲓⲙⲟⲣⲫⲏ ⲉⲧϩⲟⲩⲉ ⲛ̀ⲧⲉ ϯⲡⲉⲣⲫⲉⲕⲧ
 
 ::: grammar-box
-1\. Einige Wurzeln zeigen nach der Reduplikationssilbe eine Veränderung des Wurzelanlauts. <!-- TODO: Fallback translation -->
+1\. Einige Wurzeln zeigen nach der Reduplikationssilbe eine Veränderung des Wurzelanlauts.
 :::
 Beispiele:
 
@@ -52,7 +52,7 @@ Beispiele:
 Ⲛⲓⲕⲁϥ ϯⲙⲉⲧⲣⲟⲩϫ ⲛⲁⲕ⟪अनुप्रयोगलिट्⟫ ⲛⲉⲙ⁌ ϯⲕⲟⲛⱷ:
 
 1. ⲉϥⲙⲁⲕ ϯⲛⲓⲣⲉ ⲛⲁⲕ⟪कृ⟫, ⲛⲁⲕ⟪अस्⟫, ⲛⲁⲕ⟪भू⟫
-2. bei Wurzeln, die mit einem langen Vokal (ausser ā-) beginnen, bzw. mit einem Vokal (ausser a-) vor zwei Konsonanten <!-- TODO: Fallback translation -->
+2. bei Wurzeln, die mit einem langen Vokal (ausser ā-) beginnen, bzw. mit einem Vokal (ausser a-) vor zwei Konsonanten
 3. bei einigen sonstigen Wurzeln
 :::
 ::: grammar-box
@@ -75,7 +75,7 @@ Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā
 ## 36.3. Perfekt Passiv
 
 ::: grammar-box
-Im Perfekt werden für das Passiv die Formen des Ātmanepada verwendet. Bevorzugt wird demgegenüber die Verwendung des PPP. Die Konstruktion ist in beiden Fällen die der Passivsätze: <!-- TODO: Fallback translation -->
+Im Perfekt werden für das Passiv die Formen des Ātmanepada verwendet. Bevorzugt wird demgegenüber die Verwendung des PPP. Die Konstruktion ist in beiden Fällen die der Passivsätze:
 
 :::
 ::: indent
@@ -136,7 +136,7 @@ Abb.: ⟪अगारम्⟫
 ::: indent
 davon:
 
-⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: ⲛⲓϣⲱⲡ ϧⲉⲙ ⲛⲓϣⲱⲡ ϩⲉⲙ ⲛⲓϣⲱⲡ ϩⲉⲙ ⲛⲓϣⲱⲡ ϩⲉⲙ ⲛⲓϣⲱ <!-- TODO: Fallback translation -->
+⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: ⲛⲓϣⲱⲡ ϧⲉⲙ ⲛⲓϣⲱⲡ ϩⲉⲙ ⲛⲓϣⲱⲡ ϩⲉⲙ ⲛⲓϣⲱⲡ ϩⲉⲙ ⲛⲓϣⲱ
 :::
 ::: media
 ![](/images/lekt3603.webp)
@@ -245,7 +245,7 @@ Abb.: ⟪लोमहर्षः⟫
 
 ## 36.5. Übung
 
-A) Folgende Wurzeln haben sowohl redupliziertes wie periphrastisches Perfekt. Bilden Sie zu folgenden Formen die entsprechenden periphrastischen und reduplizierten Perfektformen: <!-- TODO: Fallback translation -->
+A) Folgende Wurzeln haben sowohl redupliziertes wie periphrastisches Perfekt. Bilden Sie zu folgenden Formen die entsprechenden periphrastischen und reduplizierten Perfektformen:
 
 1.  ⟪बिभ्रते⟫
 2.  ⟪बिभ्यति⟫
@@ -257,7 +257,7 @@ B) ⲡⲓϣⲟⲛ⟪आस्⟫ "ⲡⲓϣⲟⲛ" ⲉⲧⲃⲏⲙⲓ ϫⲟⲉ �
 1.  ⟪आस्ते⟫
 2.  ⟪आसते⟫
 
-C) Bilden Sie das entsprechende Perfekt zu folgenden Formen: <!-- TODO: Fallback translation -->
+C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
 
 1.  ⟪जीयते⟫
 2.  ⟪विदन्ति⟫
@@ -508,13 +508,3 @@ D) Übersetzen Sie:
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Zugriff am  2008-12-28. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-- **lekt3602.jpg**: Abb.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Bildquelle: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Zugriff am  2008-12-28. --   Creative  Commons Lizenz (Namensnennung, shere alike)]
-- **lekt3603.jpg**: Abb.: ⟪अनगार्यम्⟫ 	Nordostthailand = อีสาน 	[Bildquelle: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Zugriff am  	2008-12-28. --  	 	Creative  	Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  	Bearbeitung)]
-- **lekt3604.jpg**: Abb.: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. Körperhaar) [Bildquelle: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Zugriff am 2008-12-29.  --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ Gandhara, 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia. GNU FDLicense]
-- **lekt3606.jpg**: Abb.:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫Mudrā [Bildquelle: Payer]
-- **lekt3607.jpg**: Abb.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Bildquelle: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Zugriff am  2008-12-29. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-:::

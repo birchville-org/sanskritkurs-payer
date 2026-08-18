@@ -18,7 +18,7 @@ A) Schreiben Sie in Devanāgarī:
 
 bhavati yudh dhenuḥ sādhavaḥ bhūmiḥ ḍhuḍhi ghaṭa ḍuḍhauke jhālā ḍhola ghoṣaṃ bhṛ jaghajhagāyamāno bhos jhāḍhāmalā bhogaḥ
 
-B) Lesen und transliterieren Sie: <!-- TODO: Fallback translation -->
+B) Lesen und transliterieren Sie:
 
  a) ⟪द⟫ ⟪ध⟫ ⟪त⟫ ⟪फ⟫ ⟪प⟫ ⟪न⟫ ⟪च⟫ ⟪ड⟫ ⟪ग⟫ ⟪क⟫ ⟪भ⟫ ⟪ब⟫ ⟪थ⟫ ⟪छ⟫ ⟪य⟫ ⟪ख⟫ ⟪झ⟫
 

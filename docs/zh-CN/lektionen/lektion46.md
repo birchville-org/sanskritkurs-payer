@@ -656,24 +656,3 @@ B) 翻译：
 （图片来源：[详情](/zh-CN/licenses#lekt4612)）
 :::
 
-::: deleteme-box
-
-Navagraha-Bilderquelle: Redtigerxyz / Wikipedia. GNU FDLicense
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, 约 1870 年)。来源：维基百科。公有领域
-
-L4606: ⟪अश्वरोहकः⟫, 浦那=⟪पुणे⟫。来源：wili_hybrid，Flickr，CC BY 2.0
-
-L4608：乌代浦尔。来源：Travel Aficionado，Flickr，CC BY-NC 2.0
-
-L4609：Karnataka=ಕರ್ನಾಟಕ。来源：mattlogelin，Flickr，CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, Kamareddy=कामारेड्डी。来源：Sumanth K. Garakarajula，Flickr，CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫，班加罗尔=ಬೆಂಗಳೂರು。来源：mattlogelin，Flickr，CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, 古吉拉特邦=⟪कच्छ⟫。来源：orange tuesday，Flickr，CC BY-NC 2.0
-
-L4612：孟买=⟪मुंबई⟫，2006年7月11日，恐怖袭击之后。来源：Sun Pictures / Lakshman，Flickr，CC BY-NC-SA 2.0
-:::
-

@@ -9,14 +9,6 @@ status: stable
 
 # Pelajaran 7
 
-::: deleteme-box
-**Dalam pelajaran ini Anda akan mempelajari:**
-- Kalimat verbal dengan objek langsung
-- Akusatif untuk nomina dan pronomina
-- Sandhi dari akhiran -n
-- Netral untuk stem a-
-- Kelas-kelas present athematic (sebagai contoh kelas 5)
-:::
 
 ::: center
 **Ucapan Mingguan**

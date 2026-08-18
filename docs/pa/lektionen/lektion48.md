@@ -406,23 +406,3 @@ B) ਸੰਸਕ੍ਰਿਤ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ (ਇਸ �
 ਵਿਆਖਿਆ:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : ਜਨ. (⟪षष्ठी⟫) ਦੋਵ. ⟪द्वे⟫ ⟪कुले⟫ "ਦੋ ਪਰਿਵਾਰ"
 
-::: deleteme-box
-
-**lekt4801:** [ਚਿੱਤਰ ਸਰੋਤ: ਗੁਨਲੌਗੁਰ ਥ. ਬ੍ਰੀਮ. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- 10 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-**lekt4802:** ਸੁਆਲਕੁਚੀ = সুৱালকুচি, ਅਸਾਮ = অসম [ਚਿੱਤਰ ਸਰੋਤ: ਕੇਨ ਮੈਕਚੇਸਨੀ. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- 10 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-**lekt4803:** ਸਿਤਾਰ ਵਾਦਕ = ⟪सितारवादकः⟫ [ਚਿੱਤਰ ਸਰੋਤ: ਵਿਕੀਪੀਡੀਆ. ਸਾਰ্বਜਨਿਕ ਖੇਤਰ]
-
-**lekt4804:** [ਸਵੈ-ਸਹਾਇਤਾ ਸਮੂਹ (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), ਤਾਮਿਲਨਾਡੂ = தமிழ்நாடு [ਚਿੱਤਰ ਸਰੋਤ: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- 10 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ)]
-
-**lekt4805:** ਥਾਈਪੁਸਮ ਉਤਸਵ = தைப்பூசம், ਬਾਤੂ ਗੁਫਾਵਾਂ, ਮਲੇਸ਼ੀਆ [ਚਿੱਤਰ ਸਰੋਤ: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- 10 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ)]
-
-**lekt4806:** ⟪नेपाल⟫ [ਚਿੱਤਰ ਸਰੋਤ: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- 10 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt4807:** ⟪जोधपुर⟫ [ਚਿੱਤਰ ਸਰੋਤ: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- 10 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt4808:** ਕਰੰਜੀ ਝੀਲ = ಕಾರಂಜಿ ಕೆರೆ [ਚਿੱਤਰ ਸਰੋਤ: ਨਾਗੇਸ਼ ਕਮਾਥ. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- 10 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-**lekt4809:** (ਚਿੱਤਰ: ਪੇਅਰ)
-:::

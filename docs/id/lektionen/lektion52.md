@@ -780,39 +780,3 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 (Image source: [Detail](/en/licenses#lekt5201))
 :::
 
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Image source: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Accessed on 2009-01-15. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt5203:** Wayang figure, Java, Indonesia [Image source. Wikipedia. Public domain]
-
-**lekt5204:** Queue before temple, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം [Image source: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Accessed on 2009-01-15. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
-**lekt5209:** Slash-and-burn agriculture, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Image source: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Accessed on 2009-01-15. --  [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt5205:** [Image source: Wikipedia. Public domain]
-
-**lekt5206:** Bintang Gembala Besar = tujuh bintang paling terang di Ursa Mayor (Ursa maior) [Sumber gambar: Wikipedia, Lisensi GNU FD]
-
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Image source: Wikipedia. Public domain]
-
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Image source: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Accessed on 2009-01-16. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt5212:** Hyderabad = హైదరాబాద్ [Image source: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Accessed on 2009-01-16. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt5213:** ⟪मुंबई⟫ [Image source: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Accessed on 2009-01-16. -- [Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribution, no derivatives)]
-
-**lekt5214:** Konark = ⟪कोनार्क⟫ [Image source: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Accessed on 2009-01-16. --  [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt5208:** Hampi = ಹಂಪೆ [Image source: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Accessed on 2009-01-15. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
-**lekt5215:** ⟪मुंबई⟫ [Image source: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Accessed on 2009-01-16. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt5217:** Amaravati = అమరావతి, 2nd century CE [Image source. Wikipedia. GNU FDLicense]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810 [Image source: Wikipedia. Public domain]
-
-**lekt5201:** (Image: Payer)
-
-:::
-

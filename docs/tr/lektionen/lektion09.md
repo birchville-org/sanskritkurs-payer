@@ -10,13 +10,6 @@ last_reconstructed: 2026-05-07
 
 # Ders 9
 
-::: deleteme-box
-**Bu derste şunları öğreneceksiniz:**
-Samāhāradvandva ("Toplamalı dvandva")
-**-ka** (taddhita) ve **-aka** (kṛt) sonekleriyle isim köklerinin oluşturulması
-Meslekler ve sosyal roller konusunda kelime dağarcığı
-Klasik Dharmaşāstra metinlerinden alıntılar
-:::
 
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Toplamalı dvandva")

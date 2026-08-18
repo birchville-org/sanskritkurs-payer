@@ -208,15 +208,3 @@ Explanation: ⟪यथाकालम्⟫ Avyayībhāva compound: at the right
 :::
 Explanation: ⟪पुमान्⟫ Nom. sg. of ⟪पुंस्⟫ "man" ; ⟪लोके⟫ Loc. sg. of ⟪लोक⟫ m.: in the ...
 
-::: deleteme-box
-
-**lect1809:** Illustration to ⟪कामसूत्र⟫ [Image source: Wikipedia, Public domain]
-
-**lect1901:** Badami (ಬದಾಮಿ) [Image source: Sudarshan Bhat Khandige / Wikipedia, Public domain]
-
-**lect1902:** Goa (⟪गोंय⟫) [Image source: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Accessed on 2008-12-08. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
-
-**lect1903:** ⟪१९५९⟫ [Image source: Wikipedia, Public domain]
-
-**lect1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages." [Image source: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Accessed on 2008-12-08. -- Creative Commons License (Attribution)]
-:::

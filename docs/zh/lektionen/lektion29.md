@@ -12,116 +12,116 @@ status: stable
 ## 29.1. 使役动词中 Parasmaipada (⟪परस्मैपद⟫) 和 Ātmanepada (⟪आत्मनेपद⟫) 的用法
 
 ::: grammar-box
-**Das Kausativ ist mit wenigen Ausnahmen Ubhayapada (⟪उभयपद⟫)** <!-- TODO: Fallback translation -->
+**Das Kausativ ist mit wenigen Ausnahmen Ubhayapada (⟪उभयपद⟫)**
 :::
 ::: grammar-box
-**Im Kausativum wird das Ātmanepada (⟪आत्मनेपद⟫) verwendet:** <!-- TODO: Fallback translation -->
+**Im Kausativum wird das Ātmanepada (⟪आत्मनेपद⟫) verwendet:**
 
-**1. Wenn die Frucht der veranlassten Handlung dem Veranlasser zugute kommt:** <!-- TODO: Fallback translation -->
+**1. Wenn die Frucht der veranlassten Handlung dem Veranlasser zugute kommt:**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Beispiel:
 
-⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma lässt für sich (im eigenen Interesse) eine Matte machen" <!-- TODO: Fallback translation -->
+⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma lässt für sich (im eigenen Interesse) eine Matte machen"
 
-**2. Wenn das Kausativum transitiver Verben reflexiv gebraucht wird ("sich zeigen" "sich hören lassen" u.ä.), bzw. wenn das Objekt des einfachen Verbs Agens (⟪कर्तृ⟫) des Kausativs ist:** <!-- TODO: Fallback translation -->
+**2. Wenn das Kausativum transitiver Verben reflexiv gebraucht wird ("sich zeigen" "sich hören lassen" u.ä.), bzw. wenn das Objekt des einfachen Verbs Agens (⟪कर्तृ⟫) des Kausativs ist:**
 
-Beispiel: <!-- TODO: Fallback translation -->
+Beispiel:
 
-⟪विष्णुर्भक्तान्दर्शयते⟫ = "Viṣṇu zeigt sich seinen Verehrern" <!-- TODO: Fallback translation -->
+⟪विष्णुर्भक्तान्दर्शयते⟫ = "Viṣṇu zeigt sich seinen Verehrern"
 
-Ergebnis: ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन्ति⟫ = "Die Gläubigen sehen Viṣṇu" <!-- TODO: Fallback translation -->
+Ergebnis: ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन्ति⟫ = "Die Gläubigen sehen Viṣṇu"
 
-Die Regeln entsprechen also i.A. den Regeln für die Verwendung des Ātmanepada (⟪आत्मनेपद⟫) bei Ubhayapada (⟪उभयपद⟫)-Verben. <!-- TODO: Fallback translation -->
+Die Regeln entsprechen also i.A. den Regeln für die Verwendung des Ātmanepada (⟪आत्मनेपद⟫) bei Ubhayapada (⟪उभयपद⟫)-Verben.
 
 ## 29.2. 词汇表
 
-Präverben: <!-- TODO: Fallback translation -->
+Präverben:
 
 ::: indent
-⟪उद्⟫° : auf, hinauf, empor, hinaus, aus, aus- <!-- TODO: Fallback translation -->
+⟪उद्⟫° : auf, hinauf, empor, hinaus, aus, aus-
 
-⟪परि⟫° : herum, um (Ort, Zeit), umher <!-- TODO: Fallback translation -->
+⟪परि⟫° : herum, um (Ort, Zeit), umher
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten <!-- TODO: Fallback translation -->
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
 
-⟪अवज्ञान⟫ n.: Missachtung <!-- TODO: Fallback translation -->
+⟪अवज्ञान⟫ n.: Missachtung
 
-⟪गुप्त⟫ 3: behütet, beschützt <!-- TODO: Fallback translation -->
+⟪गुप्त⟫ 3: behütet, beschützt
 
-⟪गृहस्थ⟫ 3: im Hause befindlich ; m. Hausvater (jemand, der sich im 2. ⟪आश्रम⟫ befindet) <!-- TODO: Fallback translation -->
+⟪गृहस्थ⟫ 3: im Hause befindlich ; m. Hausvater (jemand, der sich im 2. ⟪आश्रम⟫ befindet)
 
-⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : verzehren, fressen <!-- TODO: Fallback translation -->
+⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : verzehren, fressen
 
 ::: indent
 Fut. ⟪ग्रसिष्यते⟫  
 Pass. ⟪ग्रस्यते⟫  
 Kaus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
-Inf. ⟪ग्रसितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪ग्रसितुम्⟫
 :::
-⟪तीक्ष्ण⟫ 3: "wild", scharf, spitz, streng, heftig, scharfzüngig <!-- TODO: Fallback translation -->
+⟪तीक्ष्ण⟫ 3: "wild", scharf, spitz, streng, heftig, scharfzüngig
 
-⟪न्याय⟫ m.: Norm, Regel, rechte Art und Weise; Methode, Logik (von ⟪इ⟫ + ⟪नि⟫) <!-- TODO: Fallback translation -->
+⟪न्याय⟫ m.: Norm, Regel, rechte Art und Weise; Methode, Logik (von ⟪इ⟫ + ⟪नि⟫)
 
-⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger <!-- TODO: Fallback translation -->
+⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger
 
 ::: media
 ![](/images/lekt2903.webp)
 Abb.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
-(Bildquelle: [Details](/licenses#lekt2903)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2903))
 :::
-⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫ <!-- TODO: Fallback translation -->
+⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
 
-⟪पुनर्⟫ Indekl.: wieder, immer wieder, zurück, noch einmal ; dagegen, aber (vor stimmhaften Lauten außer r-: ⟪पुनर्⟫) <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ Indekl.: wieder, immer wieder, zurück, noch einmal ; dagegen, aber (vor stimmhaften Lauten außer r-: ⟪पुनर्⟫)
 
-⟪प्रजा⟫ f.: Zeugung, Geburt, Nachkommenschaft <!-- TODO: Fallback translation -->
+⟪प्रजा⟫ f.: Zeugung, Geburt, Nachkommenschaft
 
-⟪मत्स्य⟫ m.: Fisch <!-- TODO: Fallback translation -->
+⟪मत्स्य⟫ m.: Fisch
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 ::: indent
-⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig <!-- TODO: Fallback translation -->
+⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig
 :::
 ::: media
 ![](/images/lekt2901.webp)
 Abb.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
-(Bildquelle: [Details](/licenses#lekt2901)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2901))
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach <!-- TODO: Fallback translation -->
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
 
-⟪यथा⟫ Adv.: wie, gleichsam <!-- TODO: Fallback translation -->
+⟪यथा⟫ Adv.: wie, gleichsam
 
-⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen <!-- TODO: Fallback translation -->
+⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
 
 ::: indent
 Fut. ⟪रंस्यते⟫  
 Pass. ⟪रम्यते⟫  
 Kaus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
-Inf. ⟪रन्तुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪रन्तुम्⟫
 :::
-⟪वानप्रस्थ⟫ m.: Waldeinsiedler (jemand, der sich im 3. ⟪आश्रम⟫ befindet) <!-- TODO: Fallback translation -->
+⟪वानप्रस्थ⟫ m.: Waldeinsiedler (jemand, der sich im 3. ⟪आश्रम⟫ befindet)
 
-⟪शुचि⟫ 3: leuchtend, glänzend, fein ; m.: Reinheit <!-- TODO: Fallback translation -->
+⟪शुचि⟫ 3: leuchtend, glänzend, fein ; m.: Reinheit
 
-⟪पूज्⟫ 10P ⟪पूजयति⟫ : ehren, verehren <!-- TODO: Fallback translation -->
+⟪पूज्⟫ 10P ⟪पूजयति⟫ : ehren, verehren
 
 ::: indent
-PPP ⟪पूजित⟫ <!-- TODO: Fallback translation -->
+PPP ⟪पूजित⟫
 :::
 ## 29.3. 复习翻译练习
 
-Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig: <!-- TODO: Fallback translation -->
+Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig:
 
-1\. Definition von ⟪अविद्या⟫ : <!-- TODO: Fallback translation -->
+1\. Definition von ⟪अविद्या⟫ :
 
 ⟪अनित्याशुचिदुःखा⟫*:sig[⟪नात्मसु⟫]* ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
 
-Erklärung: ⟪आत्मसु⟫ = Lok. sg. zu ⟪आत्मन्⟫ m. "Seele ; das Absolute, insofern es im Individuum verwirklicht wird" <!-- TODO: Fallback translation -->
+Erklärung: ⟪आत्मसु⟫ = Lok. sg. zu ⟪आत्मन्⟫ m. "Seele ; das Absolute, insofern es im Individuum verwirklicht wird"
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. über den rechten Gebrauch des ⟪दण्ड⟫ : <!-- TODO: Fallback translation -->
+2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. über den rechten Gebrauch des ⟪दण्ड⟫ :
 
 ⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫*:sig[⟪मुद्वेजनीयो⟫]* ⟪भवति⟫ ⟪।८।⟫
 
@@ -148,29 +148,29 @@ Erklärung: ⟪आत्मसु⟫ = Lok. sg. zu ⟪आत्मन्⟫ m. "
 ![](/images/lekt2902.jpg)
 Abb.: ⟪मात्स्यन्याय⟫:
 (Zeichnung: Namcha Payer, 2002-11)
-(Bildquelle: [Details](/licenses#lekt2902)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2902))
 :::
-Erklärungen: <!-- TODO: Fallback translation -->
+Erklärungen:
 
-⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "etwas (jemand), vor dem man schaudern muss" <!-- TODO: Fallback translation -->
+⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "etwas (jemand), vor dem man schaudern muss"
 
-⟪।११।⟫ :sig[⟪विज्ञात⟫] ⟪३⟫ "erkannt" ; n.: Erkennen <!-- TODO: Fallback translation -->
+⟪।११।⟫ :sig[⟪विज्ञात⟫] ⟪३⟫ "erkannt" ; n.: Erkennen
 
-⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "anschirren, verbinden mit, vereinigen mit" <!-- TODO: Fallback translation -->
+⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "anschirren, verbinden mit, vereinigen mit"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva)
 
-⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "um wieviel mehr" <!-- TODO: Fallback translation -->
+⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "um wieviel mehr"
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "stärker" <!-- TODO: Fallback translation -->
+⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "stärker"
 
-⟪।१६।⟫ ⟪चतुर्⟫ "vier" als Vorderglied eines Kompositums <!-- TODO: Fallback translation -->
+⟪।१६।⟫ ⟪चतुर्⟫ "vier" als Vorderglied eines Kompositums
 
-⟪राज्ञा⟫ Instr. sg. mask. zu ⟪राजन्⟫ m. "König" <!-- TODO: Fallback translation -->
+⟪राज्ञा⟫ Instr. sg. mask. zu ⟪राजन्⟫ m. "König"
 
-⟪स्वेषु⟫ : Lok. plur. mask. / neutr. zu ⟪स्व⟫ ⟪३⟫ "eigen (mein, dein, sein usw.)" <!-- TODO: Fallback translation -->
+⟪स्वेषु⟫ : Lok. plur. mask. / neutr. zu ⟪स्व⟫ ⟪३⟫ "eigen (mein, dein, sein usw.)"
 
-⟪वर्त्मसु⟫ : Lok. plur neutr. zu ⟪वर्त्मन्⟫ n. "Bahn, Gleis, Pfad" <!-- TODO: Fallback translation -->
+⟪वर्त्मसु⟫ : Lok. plur neutr. zu ⟪वर्त्मन्⟫ n. "Bahn, Gleis, Pfad"
 
 ## 29.4. Futur und Kausativ zu den bisher gelernten Wurzeln
 
@@ -263,11 +263,5 @@ Erklärungen: <!-- TODO: Fallback translation -->
 | ⟪हन्⟫ ⟪२⟫ ⟪प⟫ | ⟪हनिष्यति⟫ | ⟪घातयति⟫ |
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
-:::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]
-**lekt2902:** (Zeichnung: Namcha Payer, 2002-11) <!-- TODO: Fallback translation -->
 :::
 

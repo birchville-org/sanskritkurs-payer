@@ -238,14 +238,3 @@ B.) 请翻译成梵文（使用祈使语气）：
 
 34\. 愿它带来吉祥！（祝福语）
 
-::: deleteme-box
-
-**lekt4702:** 哈努曼神庙，德里 = ⟪हनुमान् मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [图片来源：Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- 访问日期：2009-01-09. -- [知识共享许可协议](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (署名，禁止演绎)]
-
-**lekt4701:** [图片来源：lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- 访问日期：2009-01-09. -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (署名，非商业性使用，相同方式共享)]
-
-**lekt4703:** [图片来源：said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- 访问日期：2009-01-10. -- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
-
-**lekt4704:** [图片来源：imchaudhry。-- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-:::

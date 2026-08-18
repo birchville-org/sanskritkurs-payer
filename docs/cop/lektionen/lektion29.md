@@ -17,13 +17,13 @@ status: stable
 ::: grammar-box
 **ⲛⲓϧⲟⲃ ⲡⲁⲩⲥⲓⲧⲛ ⲉϫⲟϥ ϩⲓⲕⲁⲧⲁ ⲡⲉⲓⲛϣⲟⲙ (⟪आत्मनेपद⟫) ⲉϥⲙⲛⲧⲣⲉ:**
 
-**1. ⲡⲓϫⲱⲙ ⲛⲧⲉ ϩⲟⲕⲓϫ ⲛⲧⲉ ϩⲁⲕⲓϫ:** <!-- TODO: Fallback translation -->
+**1. ⲡⲓϫⲱⲙ ⲛⲧⲉ ϩⲟⲕⲓϫ ⲛⲧⲉ ϩⲁⲕⲓϫ:**
 :::
 ⲡⲓϫⲱⲙ:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "ⲣⲁⲙⲁ ⲉϥⲛⲟⲩⲱⲧ ⲡⲓϫⲱⲙ ⲛⲧⲉ ϩⲟⲕⲓϫ ⲛⲧⲉ ϩⲁⲕⲓϫ ⲛⲧⲉ ϩⲁⲕⲓϫ"
 
-**2. ⲡⲓϧⲟⲃ ⲛⲁⲕⲉⲓϫ ("ⲡⲓϧⲟⲃ ⲛⲁⲕⲉⲓϫ" "ⲡⲓϧⲟⲃ ⲛⲁⲕⲉⲓϫ" u.ä.), ⲡⲓϧⲟⲃ ⲛⲁⲕⲉⲓϫ (⟪कर्तृ⟫) ⲛⲧⲉ ϩⲟⲕⲓϫ:** <!-- TODO: Fallback translation -->
+**2. ⲡⲓϧⲟⲃ ⲛⲁⲕⲉⲓϫ ("ⲡⲓϧⲟⲃ ⲛⲁⲕⲉⲓϫ" "ⲡⲓϧⲟⲃ ⲛⲁⲕⲉⲓϫ" u.ä.), ⲡⲓϧⲟⲃ ⲛⲁⲕⲉⲓϫ (⟪कर्तृ⟫) ⲛⲧⲉ ϩⲟⲕⲓϫ:**
 
 ⲡⲁⲣⲁⲇⲓⲅⲙⲁ:
 
@@ -111,9 +111,9 @@ Inf. ⟪रन्तुम्⟫
 ::: indent
 PPP ⟪पूजित⟫
 :::
-## 29.3. Übersetzungsübung zur Wiederholung <!-- TODO: Fallback translation -->
+## 29.3. Übersetzungsübung zur Wiederholung
 
-Ϧⲱϧ ⲛⲁϣ ϯⲃⲉⲙ ϧⲛ ⲡϣⲟⲡ ϭⲉⲙⲛ ⲧϫⲓⲥϣ ϭⲉⲙ ⲛⲧⲁⲕϣ ϭⲉⲙ ⲛⲧⲓⲥϣ: <!-- TODO: Fallback translation -->
+Ϧⲱϧ ⲛⲁϣ ϯⲃⲉⲙ ϧⲛ ⲡϣⲟⲡ ϭⲉⲙⲛ ⲧϫⲓⲥϣ ϭⲉⲙ ⲛⲧⲁⲕϣ ϭⲉⲙ ⲛⲧⲓⲥϣ:
 
 ١\. ⲛⲁⲕ ϯϣⲟⲡ ⟪अविद्या⟫ :
 
@@ -263,11 +263,5 @@ Erklärungen:
 | ⟪हन्⟫ ⟪२⟫ ⟪प⟫ | ⟪हनिष्यति⟫ | ⟪घातयति⟫ |
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
-:::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [Source of image: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accessed on 2008-12-20. -- Creative Commons License (Attribution, non-commercial use, share alike)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Source of image: Khalid Mahmood / Wikipedia. GNU FDLicense]
-**lekt2902:** (Drawing: Namcha Payer, 2002-11)
 :::
 

@@ -9,14 +9,6 @@ status: stable
 
 # Leçon 4
 
-::: deleteme-box
-**Dans cette leçon, vous apprendrez :**
-- Les pronoms interrogatifs et les pronoms démonstratifs au nominatif
-- Le sandhi du -m final
-- Le sandhi du -e final
-- Le sandhi du -d final
-- Formules interrogatives simples
-:::
 ## 4.1. Questions partielles simples (questions mot) et réponses
 
 ### 4.1.1. Pronoms interrogatifs et pronoms démonstratifs
@@ -48,11 +40,11 @@ status: stable
 **Pour le N. sg. masc. :**
 - **sa, eṣa** (⟪स⟩ ⟪एष⟩) se place devant tous les sons sauf **-a** bref
 - **so, eṣo** (⟪सो⟩ ⟪एषो⟩) se place devant **-a**, qui est élidé par Avagraha (omission)
-- **saḥ, eṣaḥ** (⟪सः⟩ ⟪एषः⟩) se place uniquement en pause (fin de phrase, fin de vers) <!-- TODO: Fallback translation -->
+- **saḥ, eṣaḥ** (⟪सः⟩ ⟪एषः⟩) se place uniquement en pause (fin de phrase, fin de vers)
 
 Afin de pouvoir former des phrases avec ces pronoms (sarvanāman n.), il est encore nécessaire de connaître les règles de sandhi suivantes :
 
-### 4.1.2. Sandhi von auslautendem -m <!-- TODO: Fallback translation -->
+### 4.1.2. Sandhi von auslautendem -m
 
 ::: grammar-box
 **La finale -m devant une consonne est remplacée par un anusvāra (-ṃ). En fin de phrase ou de vers, et devant une voyelle, le -m est conservé.**

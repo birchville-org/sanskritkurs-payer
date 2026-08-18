@@ -1,8 +1,9 @@
 ---
 title: "Exercice 49"
 uebung_id: 49
-category: "Exercice"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 20
 
-A) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+A) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪१⟫. ⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
 ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪ऽनार्या⟫ ⟪देवानामिन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪।⟫ (oder: ⟪इन्द्रस्य⟫ ⟪शत्रव⟫ ⟪एवानार्या⟫...)
@@ -50,19 +50,19 @@ Der in den Veda initiierte Knabe verehrt Śiva und die anderen Götter.
 ⟪बुद्धं⟫ ⟪गता⟫ ⟪दुःखमादिर्येषां⟫ ⟪तानि⟫ ⟪सत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 Die zu Buddha Gegangenen hören die Wahrheit vom Leiden und die anderen (edlen) Wahrheiten.
 
-B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit:
 
 1\. Ein Kṣatriya, der den Stock nicht in der Hand hält, behütet das Volk nicht.
-⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (oder: ⟪जनान्रक्षति⟫ ⟪।⟫) <!-- TODO: Fallback translation -->
+⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (oder: ⟪जनान्रक्षति⟫ ⟪।⟫)
 
 2\. Kālidāsa und die übrigen Dichter sind die Lehrer im Sanskrit.
-⟪संस्कृतगुरवः⟫ ⟪कालिदासादिक्वयः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪संस्कृतगुरवः⟫ ⟪कालिदासादिक्वयः⟫ ⟪।⟫
 
 3\. Ein Kṣatriya hat seinen Lebensunterhalt durch Waffen.
-⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫ ⟪।⟫
 
 4\. Auch Śūdrafrauen haben als Dharma Gewaltlosigkeit, Wahrheit, Reinheit, Nicht-Murren, Nicht-Boshaftigkeit und Langmut.
-⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः⟫ ⟪शूद्रा⟫ ⟪अपि⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः⟫ ⟪शूद्रा⟫ ⟪अपि⟫ ⟪॥⟫
 
 ::: media
 ![](/images/uebung031.webp)
@@ -73,7 +73,7 @@ Abb.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 
 ## Komposita-Analyse
 
-Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatpuruṣa auf alle Ihnen als möglich erscheinenden Arten in Sanskrit auf. <!-- TODO: Fallback translation -->
+Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatpuruṣa auf alle Ihnen als möglich erscheinenden Arten in Sanskrit auf.
 
 ⟪१⟫. ⟪इन्द्रशत्रवः⟫ ⟪।⟫ ⟪इन्द्रस्य⟫ ⟪शत्रवः⟫ ⟪।⟫ (oder: ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪।⟫)
 
@@ -179,7 +179,7 @@ Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatp
 
 ⟪५२⟫. ⟪हतपुत्रः⟫ ⟪।⟫ ⟪हतः⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
 
-⟪५३⟫. ⟪दुरासितम्⟫ ⟪।⟫ schlechte Art zu sitzen <!-- TODO: Fallback translation -->
+⟪५३⟫. ⟪दुरासितम्⟫ ⟪।⟫ schlechte Art zu sitzen
 
 ⟪५४⟫. ⟪इष्टदेवतया⟫ ⟪।⟫ ⟪इष्टा⟫ ⟪देवता⟫ ⟪यस्यास्तया⟫ ⟪।⟫
 
@@ -197,7 +197,7 @@ Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatp
 
 ⟪६१⟫. ⟪तत्प्रभृतयः⟫ ⟪।⟫ ⟪सा⟫ ⟪प्रभृतिर्येषां⟫ ⟪ते⟫ ⟪।⟫ (das u.s.w.)
 
-⟪६२⟫. ⟪सुदुर्जयः⟫ ⟪।⟫ sehr schwer zu besiegen <!-- TODO: Fallback translation -->
+⟪६२⟫. ⟪सुदुर्जयः⟫ ⟪।⟫ sehr schwer zu besiegen
 
 ⟪६३⟫. ⟪जितक्रोधेन⟫ ⟪।⟫ ⟪जितः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫
 
@@ -221,7 +221,7 @@ Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatp
 
 ⟪७३⟫. ⟪जातक्रोधः⟫ ⟪।⟫ ⟪जातः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
 
-⟪७४⟫. ⟪दृष्टमात्रः⟫ ⟪।⟫ sobald er gesehen wurde <!-- TODO: Fallback translation -->
+⟪७४⟫. ⟪दृष्टमात्रः⟫ ⟪।⟫ sobald er gesehen wurde
 
 ⟪७५⟫. ⟪भूतकालः⟫ ⟪।⟫ Vergangenheit
 
@@ -229,7 +229,7 @@ Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatp
 
 ⟪७७⟫. ⟪तदादीनाम्⟫ ⟪।⟫ ⟪सादिर्येषां⟫ ⟪तेषाम्⟫ ⟪।⟫
 
-⟪७८⟫. ⟪जातिस्मरणम्⟫ ⟪।⟫ Erinnerung an frühere Geburten <!-- TODO: Fallback translation -->
+⟪७८⟫. ⟪जातिस्मरणम्⟫ ⟪।⟫ Erinnerung an frühere Geburten
 
 ⟪७९⟫. ⟪सफलम्⟫ ⟪।⟫ fruchtbar
 
@@ -247,49 +247,46 @@ Abb.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्न�
 ## Scholarly Fragments
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪३३⟫ ⟪॥⟫  
-Die Abklärung des Geistes geschieht durch die Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die Glück und Leid, Verdienstvolles und Nicht-Verdienstvolles als Objekt haben. <!-- TODO: Fallback translation -->
+Die Abklärung des Geistes geschieht durch die Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die Glück und Leid, Verdienstvolles und Nicht-Verdienstvolles als Objekt haben.
 
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪१⟫ ⟪॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
-Yoga der Tat ist Askese, Vedastudium und aufmerksamer Dienst am HERRN. Er hat als Ziel die Entfaltung der Sammlung und die Schwächung der "Qualen". <!-- TODO: Fallback translation -->
+Yoga der Tat ist Askese, Vedastudium und aufmerksamer Dienst am HERRN. Er hat als Ziel die Entfaltung der Sammlung und die Schwächung der "Qualen".
 
-::: deleteme-box Erläuterung
-Die fünf "Qualen" (⟪क्लेश⟫) sind: ⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫ (Yoga-Sūtra 2.3) — Unwissenheit, Ichbezogenheit, Gier, Hass und Anhänglichkeit an den Leib.
-:::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
-Das höchste Ziel des Menschen ist, dass das dreifache Leid völlig verschwindet. (*Dreifaches Leid: aus einem selbst, von den Objekten, von den Göttern.*) <!-- TODO: Fallback translation -->
+Das höchste Ziel des Menschen ist, dass das dreifache Leid völlig verschwindet. (*Dreifaches Leid: aus einem selbst, von den Objekten, von den Göttern.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२२⟫ ⟪॥⟫  
-Leid ist durch Bedrängnis gekennzeichnet. Erlösung ist die völlige Befreiung davon. <!-- TODO: Fallback translation -->
+Leid ist durch Bedrängnis gekennzeichnet. Erlösung ist die völlige Befreiung davon.
 
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫  
 ⟪नैव⟫ ⟪वर्णाश्रमादीनां⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫  
-Es gibt keinen Himmel, keine Erlösung, keine überweltliche Seele, es gibt auch keine fruchtbringenden Rituale und Tätigkeiten für Stände und Lebensstadien. ( ⟪सर्वदर्शनसंग्रह⟫ ) <!-- TODO: Fallback translation -->
+Es gibt keinen Himmel, keine Erlösung, keine überweltliche Seele, es gibt auch keine fruchtbringenden Rituale und Tätigkeiten für Stände und Lebensstadien. ( ⟪सर्वदर्शनसंग्रह⟫ )
 
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
 ⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
 ⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫  
-Brahmanen geben den Göttern Abgaben, den Brahmanen geben Könige Abgaben, den Königen geben die Leute Abgaben, den Leuten gibt die Erde Abgaben. <!-- TODO: Fallback translation -->
+Brahmanen geben den Göttern Abgaben, den Brahmanen geben Könige Abgaben, den Königen geben die Leute Abgaben, den Leuten gibt die Erde Abgaben.
 
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫  
 ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫  
 ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫  
 ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪४१६⟫ ⟪॥⟫  
-Gattin, Sohn und Leibeigener, diese drei sind der Überlieferung nach besitzlos. Was sie erwerben, ist Besitz dessen, dem sie gehören. <!-- TODO: Fallback translation -->
+Gattin, Sohn und Leibeigener, diese drei sind der Überlieferung nach besitzlos. Was sie erwerben, ist Besitz dessen, dem sie gehören.
 
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫  
 ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫  
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫  
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫  
-In der Mitte schlank, an den Hüften breit, mit roten Lippen, schwarzen Augen, mit einem gebogenem Nabel und prallen Brüsten, welchen Mann erschlägt eine solch schöner Frauenkörper nicht? <!-- TODO: Fallback translation -->
+In der Mitte schlank, an den Hüften breit, mit roten Lippen, schwarzen Augen, mit einem gebogenem Nabel und prallen Brüsten, welchen Mann erschlägt eine solch schöner Frauenkörper nicht?
 
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫  
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫  
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
-Arme, die sie nicht wünschen, haben sehr viele Söhne, Reiche haben keinen einzigen Sohn. Seltsam ist der Lauf der Schöpfung. <!-- TODO: Fallback translation -->
+Arme, die sie nicht wünschen, haben sehr viele Söhne, Reiche haben keinen einzigen Sohn. Seltsam ist der Lauf der Schöpfung.
 
 ::: media
 ![](/images/uebung032.webp)

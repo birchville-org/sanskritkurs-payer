@@ -79,14 +79,14 @@ status: stable
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. Τὸ ἀπαρέμφατον (⟪तुमुन्⟫) πρὸς τὰς μέχρι τοῦδε μαθηθείσας ῥίζας
 
@@ -316,13 +316,3 @@ C) δότε τὰς ῥίζας (σημασία, κλάσιν παρατατικ
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**λεκτ2301:** Χιάνγκ Μάι, Ταϊλάνδη = เชียงใหม่, ประเทศไทย [πηγή εικόνας: Βικιπαίδεια. Άδεια GNU FDLicense]
-
-**λεκτ2302:** Τσιτόργκαρ = ⟪चित्तौडगढ⟫ [πηγή εικόνας: από zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- πρόσβαση στις 13-12-2008. -- Άδεια Creative Commons (αναφορά, μη εμπορική χρήση, χωρίς τροποποίηση)]
-
-**λεκτ2303:** Ταμπουν = ⟪पुण्यकरणम्⟫, Ταϊλάνδη = ประเทศไทย [πηγή εικόνας: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- πρόσβαση στις 13-12-2008. -- Άδεια Creative Commons (αναφορά, χωρίς τροποποίηση)]
-
-**λεκτ2304:** Μανμοχάν Σινγκ = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, πρωθυπουργός της Ινδίας = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, από το 2004 [πηγή εικόνας: Βικιπαίδεια, δημόσιο πεδίο]
-:::

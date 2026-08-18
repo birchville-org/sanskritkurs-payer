@@ -269,11 +269,3 @@ c) ⟪उपजाति⟫
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5401))
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ திருபதி = తిరుపతి [பட மூலம்: ராஜி சிறீநிவாஸ் / விகிப்பீடியா. GNU FDLicense]
-
-**lekt5401:** தமிழ்நாடு [பட மூலம்: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- 2009-01-28 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (நிர்வாகம், வணிக அல்லாத பயன்பாடு, shre alike)]
-
-:::
-

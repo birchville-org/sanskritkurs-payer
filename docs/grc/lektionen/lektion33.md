@@ -117,7 +117,7 @@ status: stable
 * ἐξ ἑνὸς πλευρᾶς εἴδησις βαθμοῦ τῆς ἀblaut με -a-
 * ἀφ' ἑτέρου υψηλός βαθμός σε μια σειρά ablaut της ομάδας ā
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 ::: grammar-box
 **A.**
@@ -170,7 +170,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback tran
 | **Ἀόριστος** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Εὐκτικὸς** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Αἱ ῥίζαι ⟪दा⟫ καὶ :sig[⟪धा⟫] <!-- TODO: Fallback translation -->
+### 33.4.1. Αἱ ῥίζαι ⟪दा⟫ καὶ :sig[⟪धा⟫]
 
 ::: grammar-box
 **Αἱ ῥίζαι ⟪दा⟫ καὶ :sig[⟪धा⟫] διπλασιάζουσι μετὰ τοῦ φωνήεντος -a- καὶ ἀποβάλλουσι τὸν φωνήεντα τῆς ῥίζης ἐν τῷ ἀσθενεῖ φωνήεντι.**
@@ -417,17 +417,3 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback tran
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-::: deleteme-box
-
-**Ὁρισμὸς καὶ Λεπτομέρειαι τοῦ Γκί:**
-* Πηγὴ: http://en.wikipedia.org/wiki/Ghee (Πρόσβασις: 2008-12-26)
-
-**Κατάλογος Εικόνων & Άδειες:**
-* **Εικ. lekt3306 (γάμος, Τσέν):** Πηγή εικόνας: http://www.pbase.com/chandra/image/62118318 (πρόσβαση 2008-12-27). Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Share Alike).
-* **Εικ. lekt3307 (φορέας Udaipur):** Πηγή εικόνας: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, πρόσβαση 2008-12-27). Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Όχι εξαγωγές).
-* **Εικ. lekt3305 (Samadhi yogini, Kaveripakkam):** Πηγή εικόνας: Quadell / Wikipedia (GNU FDLicense).
-* **Εικ. lekt3304 (φορέας bhaya, Μουμπάι):** Πηγή εικόνας: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, πρόσβαση 2008-12-26). Άδεια Creative Commons (Αναφορά).
-* **Εικ. lekt3303 (Hinayana Ταϊλάνδη):** Πηγή εικόνας: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, πρόσβαση 2008-12-26). Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση).
-* **Εικ. lekt3302 (Yajna, Ashram Shiva, Ganeshpuri):** Πηγή εικόνας: Dey (http://www.flickr.com/photos/dey/466758922/, πρόσβαση 2008-12-26). Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Share Alike).
-* **Εικ. lekt3308 (φορέας γυναίκα, Δελχί):** Πηγή εικόνας: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, πρόσβαση 2008-12-27). Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Όχι εξαγωγές).
-:::

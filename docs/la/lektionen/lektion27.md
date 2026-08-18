@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 27
 
@@ -32,7 +32,7 @@ status: stable
 Fig.: ⟪जयपुरनगरे⟫
 Iaiapūra, 1875.
 (Fons imaginis: [Details](/la/licenses#lekt2701))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -47,7 +47,7 @@ Iaiapūra, 1875.
 
 > ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "cum tempus sic praeterit..."
 >
-> ⟪तस्मिन्गते⟫ = "cum abiisset..." <!-- TODO: Fallback translation -->
+> ⟪तस्मिन्गते⟫ = "cum abiisset..."
 
 **Saepe agens (⟪कर्ता⟫) non exprimitur:**
 
@@ -69,7 +69,7 @@ Rajasthan.
 
 **3. Casus locativi etiam respondet quaestioni "De quo?" et sim.:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Amorem erga filium suum habet" (verbum ad verbum: "In filio apud eum amor est") <!-- TODO: Fallback translation -->
+> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Amorem erga filium suum habet" (verbum ad verbum: "In filio apud eum amor est")
 
 :::
 ::: media
@@ -179,7 +179,7 @@ Rāma-Satz.
 7. **Locativus:** In Rāma sit (⟪भवतु⟫) semper quies (⟪लय⟫ m.) mei (⟪मे⟫) cordis.
 8. **Vocativus:** Rāma, salva (⟪उद्धर⟫ = Imperativ ad ⟪उद्⟫ + ⟪हृ⟫ vel ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
 
-## 27.5. Index verborum <!-- TODO: Fallback translation -->
+## 27.5. Index verborum
 
 ⟪वस्⟫ 1P (⟪वसति⟫): morari, habitare (cum locativo personae, apud quam habitat)
 
@@ -229,7 +229,7 @@ Fig.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Fons imaginis: [Detalia](/la/licenses#lekt2707))
 :::
-⟪हृ⟫ 1U (⟪हरति⟫): tenere, portare; adferre, auferre, rapere <!-- TODO: Fallback translation -->
+⟪हृ⟫ 1U (⟪हरति⟫): tenere, portare; adferre, auferre, rapere
 
 ::: indent
 **Fut.:** ⟪हरिष्यति⟫
@@ -588,28 +588,5 @@ Sai Baba of Shirdi (1835 - 1918).
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Fons imaginis: [Detalia](/la/licenses#lekt2717))
-:::
-
-::: deleteme-box
-
-**lekt2701:** Iaiapūra, 1875. [Imago: Wikipedia. Res publica.]
-**lekt2702:** Rajasthan. [Imago: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** Holi. [Imago: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Harihara (sinister: Viṣṇu, dextra: Śiva). [Imago: Wikipedia. Res publica.]
-**lekt2705:** Harihara (sinister: Viṣṇu, dextra: Śiva). Godrumdwip, Bengal Occidentalis. [Imago: GourangaUK / Wikipedia. Licentia GNU FD]
-**lekt2706:** Vastrāṇi. Majuli, Assam. [Imago: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Imago: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Sagitta Rāma. [Imago: Wikipedia. Res publica.]
-**lekt2709:** Tabula Rāja Ravi Varmā (1848 - 1906). [Imago: Wikipedia. Res publica.]
-**lekt2710:** Fructus. Bangalore. [Imago: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Naran. Udaipur. [Imago: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Interfectio duorum participantium rebellionis 1857. Photographema Felice Beato (1833/1834 - circiter 1907). [Imago: Wikipedia. Res publica.]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Imago: Wikipedia, Licentia GNU FD]
-**lekt2714:** Bos in Udaipur. [Imago: Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Imago: Wikipedia. Res publica.]
-**lekt2716:** Sai Baba Shirdi (1835 - 1918). [Imago: Wikipedia. Res publica.]
-**lekt2717:** Tsunami 2005, Sri Lanka. [Imago: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) cum nepote suo Principe Jaya Chamaraja Wadiyar, Mysore. [Imago: Wikipedia. Res publica.]
-
 :::
 

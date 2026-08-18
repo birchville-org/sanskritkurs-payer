@@ -1,8 +1,9 @@
 ---
 title: "تمرین ۵"
 uebung_id: 5
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -16,7 +17,7 @@ last_reconstructed: 2026-05-15
 
 Erklärung catvāras = ⟪चत्वारस्⟫ = "vier"
 
-Brahmanen, Kṣatriyas, Vaiśyas und Śūdras sind die vier Stände. <!-- TODO: Fallback translation -->
+Brahmanen, Kṣatriyas, Vaiśyas und Śūdras sind die vier Stände.
 
 catvāro varnā brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca / catvāro varṇā brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca.
 
@@ -34,13 +35,13 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪।⟫ ⟪त्रयो⟫ ⟪वर्णाद्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (in gutem Sanskrit: sāmargyajurvedās trayī) <!-- TODO: Fallback translation -->
+3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (in gutem Sanskrit: sāmargyajurvedās trayī)
 
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫
 
 (in gutem Sanskrit: ⟪सामर्ग्यजुर्वेदास्त्रयी⟫)
 
-Die drei Veden sind: Sāmavaeda, Ṛgveda und Yajurveda. <!-- TODO: Fallback translation -->
+Die drei Veden sind: Sāmavaeda, Ṛgveda und Yajurveda.
 
 sāmaveda ṛgvedo yajurvedaś ca trayī.
 
@@ -50,9 +51,9 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪कामक्रोधलोभाः⟫
 
-Leidenschaft, Zorn und Gier. <!-- TODO: Fallback translation -->
+Leidenschaft, Zorn und Gier.
 
-kāmaḥ krodho lobhaś ca. <!-- TODO: Fallback translation -->
+kāmaḥ krodho lobhaś ca.
 
 ⟪कामः⟫ ⟪क्रोधो⟫ ⟪लोभश्च⟫ ⟪।⟫
 
@@ -80,7 +81,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.) <!-- TODO: Fallback translation -->
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫
 
@@ -97,27 +98,37 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 :::
 ---
 
-## Wiederholungsübung Lektion 5 <!-- TODO: Fallback translation -->
+## تمرین‌های مرور درس ۵
 
-A) Übersetzen Sie:
+الف) ترجمه کنید:
 
 1\. vidyā vārttā.
 
 ⟪विद्या⟫ ⟪वार्त्ता⟫
+:::
+---
 
-Ökonomie ist eine Wissenschaft. <!-- TODO: Fallback translation -->
+## تمرین مرور درس ۵
 
-2\. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
+الف) ترجمه کنید:
 
-⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫
+۱\. vidyā vārttā.
 
-سه طبقهٔ دوباره‌زاده عبارتند از: برهمین، کشتری و ویشتا.
+⟪विद्या वार्त्ता⟫
 
-3\. dvijā vaiśyāḥ. (2 Möglichkeiten)
+اقتصاد یک علم است.
 
-⟪द्विजा⟫ ⟪वैश्याः⟫
+۲\. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
 
-Vaiśyas sind Zweimalgeborene / Vaiśyafrauen sind Zweimalgeborene. <!-- TODO: Fallback translation -->
+⟪ब्राह्मणः क्षत्रियो वैश्यश्च त्रयो वर्णा द्विजातयः⟫
+
+سه طبقهٔ دوباره‌زاده عبارتند از: برهمین، کشتیریای و وایشیای.
+
+۳\. dvijā vaiśyāḥ. (2 امکان)
+
+⟪द्विजा वैश्याः⟫
+
+وایشیایان دوباره‌زاده هستند / زنان وایشیا دوباره‌زاده هستند.
 
 ب) شکل مناسب را جایگذاری کنید:
 
@@ -127,7 +138,7 @@ Vaiśyas sind Zweimalgeborene / Vaiśyafrauen sind Zweimalgeborene. <!-- TODO: F
 
 dvijo rāmaḥ. sādhū rāmaḥ. kavī rāmaḥ.
 
-⟪द्विजो⟫ ⟪रामः⟫ ⟪।⟫ ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫ ⟪कवी⟫ ⟪रामः⟫ ⟪।⟫
+⟪द्विजो रामः । साधू रामः । कवी रामः ।⟫
 
 (devī) ... indrāṇī
 
@@ -135,7 +146,7 @@ dvijo rāmaḥ. sādhū rāmaḥ. kavī rāmaḥ.
 
 devīndrāṇī.
 
-⟪देवीन्द्राणी⟫ ⟪।⟫
+⟪देवीन्द्राणी ।⟫
 
 dvijātayas ... (vaiśyā, kṣatriya)
 
@@ -143,9 +154,9 @@ dvijātayas ... (vaiśyā, kṣatriya)
 
 dvijātayo vaiśyāḥ. dvijātayaḥ kṣatriyāḥ.
 
-⟪द्विजातयो⟫ ⟪वश्याः⟫ ⟪।⟫ ⟪द्विजातयः⟫ ⟪क्षत्रियाः⟫ ⟪॥⟫
+⟪द्विजातयो वश्याः । द्विजातयः क्षत्रियाः ॥⟫
 
-[L1] C) ترکیب (کومپوزیتوم) را در جمله زیر به زبان سانسکریت تجزیه کنید و با این شکل تجزیه‌شده، همان جمله را بسازید:
+ج) ترکیب (کامپوزیت) را در جملهٔ زیر به زبان سانسکریت تجزیه کنید و با این شکل تجزیه‌شده، همان جمله را بسازید:
 
 sāmargyajurvedās trayī.
 
@@ -153,18 +164,13 @@ sāmargyajurvedās trayī.
 
 sāmaveda ṛgvedo yajurvedaś ca trayī / ... yajurvedas trayī
 
-⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫ ... ⟪यजुर्वेदस्त्रयी⟫ ⟪॥⟫
+⟪सामवेद ऋग्वेदो यजुर्वेदश्च त्रयी ।⟫ ... ⟪यजुर्वेदस्त्रयी ॥⟫
 
-د) به دو روش به سانسکریت ترجمه کنید (یک بار با ترکیب، یک بار بدون):
+د) به دو روش به سانسکریت ترجمه کنید (یک بار با یک ترکیب، و یک بار بدون آن):
 
-«حالات سکون برهما» عبارتند از: مهربانی دوستانه، همدردی، شادی مشترک و بی‌طرفی.
+«حالات سکون برهما» عبارتند از: مهربانی، همدردی، شادیِ همراه با دیگران، و بی‌طرفی.
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā (ca) brahmavihārāḥ.
 
-⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪॥⟫
-
-::: media
-![](/images/uebung009.webp)
-تصویر: ⟪ऋग्वेदः⟫
-(منبع تصویر: [جزئیات](/licenses#uebung009))
+⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ॥⟫
 :::

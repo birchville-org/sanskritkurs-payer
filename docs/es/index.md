@@ -2,32 +2,33 @@
 layout: home
 
 hero:
-  name: Curso de sánscrito
-  text: Un curso completo
-  tagline: de Alois Payer (Biblioteca de la Aldea Global de Tüpfli)
+  name: "Curso de sánscrito"
+  text: "Un curso completo"
+  tagline: "de Alois Payer (Biblioteca Global Village de Tüpfli)"
   actions:
     - theme: brand
-      text: Iniciar curso
+      text: "Iniciar curso"
       link: /es/lektionen/lektion01
     - theme: alt
-      text: Temas de gramática
+      text: "Temas de gramática"
       link: /es/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: Tipografía perfecta e integrada para escrituras indias.
-  - title: Fácil de buscar
-    details: Una búsqueda de texto local exhaustiva mantiene el conocimiento al alcance de un botón.
-  - title: Arquitectura moderna
-    details: Construido sobre la base de VitePress para máxima velocidad.
+  - title: "Devanāgarī ready"
+    details: "Tipografía perfecta e integrada para escrituras indias."
+  - title: "Fácil de buscar"
+    details: "Una búsqueda de texto local profunda mantiene el conocimiento disponible al instante."
+  - title: "Arquitectura moderna"
+    details: "Construida sobre la base de VitePress para máxima velocidad."
+
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+El **curso de sánscrito** de Alois Payer es un programa integral y científicamente fundamentado para el aprendizaje del idioma sánscrito y la escritura Devanāgarī. Esta edición digital presenta el curso completo en un entorno de lectura moderno, multilingüe y navegable.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Los idiomas fueron traducidos automáticamente desde el alemán con la ayuda de una IA (Qwen3.6-32B). Los informes sobre errores de traducción son muy bienvenidos.
+**Comentarios y contacto**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Colaborar como corrector o curador**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+**Editor de código abierto Zentauri**: Editor Markdown independiente en [GitHub](https://github.com/marcodem/zentauri)
+**Wiki de desarrolladores y arquitectura**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

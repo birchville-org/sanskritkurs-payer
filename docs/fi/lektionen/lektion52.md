@@ -1,13 +1,14 @@
 ---
-title: Lektion 52
-subtitle: "Neutrum der Stämme auf -i und -u"
+title: "Oppitunti 52"
+subtitle: "Neutritumin varret, jotka päättyvät -i ja -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektio 52 <!-- TODO: Fallback translation -->
+# Lektio 52
 
 ## 52.1. Neutri: i- ja u-vartalot
 
@@ -50,78 +51,77 @@ Taivutus samoin kuin vartalon -vant tai fem. ⟪देवी⟫
 Esimerkit:
 
 ::: indent
-⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "tehty, joka on tehnyt" <!-- TODO: Fallback translation -->
+⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "tehty, joka on tehnyt"
 
 ⟪भिन्नवन्त्⟫ "joka on halunnut"
 :::
-### 52.2.2. ⟪तद्धित⟫-liite -maya / -mayī <!-- TODO: Fallback translation -->
+### 52.2.2. ⟪तद्धित⟫-liite -maya / -mayī
 
 ::: grammar-box
-**⟪तद्धित⟫-liite -maya / f.: -mayī muodostaa substantiiveista adjektiivit, joiden merkitys on** <!-- TODO: Fallback translation -->
+**⟪तद्धित⟫-liite -maya / f.: -mayī muodostaa substantiiveista adjektiivit, joiden merkitys on**
 
 *   **"tehty sanasta"**
 *   **"koostuu sanasta"**
-*   **"rikas sanasta"** <!-- TODO: Fallback translation -->
+*   **"rikas sanasta"**
 
-**Vor -maya müssen (wie vor -⟪मात्र⟫) auslautende Verschlusslaute der Pausaform durch den ihnen entsprechenden Nasal ersetzt werden.**
+**Konsonantit, jotka päättyvät ennen -maya (kuten ennen -⟪मात्र⟫), on vaihdettava paukkamuodossa vastaavaan nasaliin.**
 :::
-Esimerkkejä: <!-- TODO: Fallback translation -->
+Esimerkkejä:
 
 ::: indent
-⟪अन्नमय⟫ 3 "rikas ruoasta"
+⟪अन्नमय⟫ 3 "ruokaa rikas"
 
-⟪चिन्मय⟫ 3 (zu ⟪चित्⟫ f. "Intellekt") "aus Denken / Verstand bestehend" <!-- TODO: Fallback translation -->
+⟪चिन्मय⟫ 3 (sanasta ⟪चित्⟫ f. "intellekti") "ajattelusta / ymmärryksestä koostuva"
 
-⟪वाङ्मय⟫ 3 (zu ⟪वाच्⟫ f. "kieli") "puheesta koostuva"
+⟪वाङ्मय⟫ 3 (sanasta ⟪वाच्⟫ f. "kieli") "puheesta koostuva"
 
 ⟪सोममय⟫ 3 "somasta tehty, somasta koostuva"
 :::
 ::: grammar-box
-**-maya-päätteiset substantiivit käytetään joskus neutraaleina substantiiveina, ja ne tarkoittavat yltäkylläisyyttä siitä, mitä substantiivi, johon -maya liitetään, tarkoittaa.**
+**-maya-päätteiset substantiivit saatetaan joskus käyttää neutraaleina substantiiveina, jolloin ne tarkoittavat runsautta siitä, mistä -maya-liitteisen substantiivin avulla puhutaan.**
 :::
 ::: indent
-esim. ⟪अन्नमय⟫ n. "ruoan yltäkylläisyys"
+esim. ⟪अन्नमय⟫ n. "ruoan runsaus"
 :::
 ::: media
 ![](/images/lekt5202.webp)
-Kuv.: ⟪अन्नमयम्⟫
-⟪विवाहः⟫, Chennai = சென்னை
-(Kuvälähde: [Yksityiskohdat](/fi/licenses#lekt5202))
+Kuv.: ⟪अन्नमयम् विवाहः⟫, Chennai = சென்னை
+(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5202))
 :::
-### 52.2.3. ⟪तद्धित⟫-liite -eya <!-- TODO: Fallback translation -->
+### 52.2.3. ⟪तद्धित⟫-liite -eya
 
 ::: grammar-box
 **⟪तद्धित⟫-liite -eya / f.: -eyī esiintyy muun muassa feminiineissä merkityksessä**
 
-*   **"lapsi"**
-*   **"jälkeläinen"**
+*   **"jonkun lapsi"**
+*   **"jonkin jälkeläinen"**
 
-**Vokaalin pidennysaste (⟪वृद्धि⟫).**
+**Ensimmäisen vokaalin pidennysaste (⟪वृद्धि⟫).**
 
-esim. ⟪कौन्तेय⟫ m. "⟪कुन्ती⟩n poika"
+esim. ⟪कौन्तेय⟫ m. "⟪कुन्ती⟫n poika"
 :::
 ::: media
 ![](/images/lekt5203.webp)
-Kuv.: ⟪भीमः⟩ ⟪कौन्तेयः⟩
+Kuv.: ⟪भीमः कौन्तेयः⟫
 Wayang-figuuri, Java, Indonesia
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5203))
 :::
-## 52.3. Adverbin muodostus: adverbi-jälkiliite -śas
+## 52.3. Adverbien muodostus: adverbiliite -śas
 
 ::: grammar-box
-**Adverbi-jälkiliite -śas muodostaa adverbeja (pääasiassa) jakovaisasta merkitystä varten:**
+**Adverbiliite -śas muodostaa adverbejä (pääasiassa) distributiivisesta merkityksestä:**
 
-*   **Numeraaleista**
-Esimerkit:  
-⟪एकशस्⟩ "yksittäin, yksi kerrallaan"  
-⟪द्विशस्⟩ "kahdesti, kaksi kerrallaan"  
-⟪शतशस्⟩ "sadoittain, sata kerrallaan"
+*   **Numeraaleista**  
+Esimerkkejä:  
+⟪एकशस्⟫ "yksittäin, yksi kerrallaan"  
+⟪द्विशस्⟫ "kahdestaan, kaksi kerrallaan"  
+⟪शतशस्⟫ "sadoittain, sata kerrallaan"
 
-*   **muille sanoille**
-Esimerkit:  
-⟪भागशस्⟫ "osasta osaan"
-⟪सर्वशस्⟫ "kaikkialla, kaikki"
-⟪नित्यशस्⟫ "pysyvä"
+*   **muista sanoista**  
+Esimerkkejä:  
+⟪भागशस्⟫ "osasta toiseen"  
+⟪सर्वशस्⟫ "kaikkialla, kaikki"  
+⟪नित्यशस्⟫ "jatkuvasti"
 :::
 ::: media
 ![](/images/lekt5204.webp)
@@ -129,7 +129,7 @@ Kuv.: ⟪अनुक्रमेणैकशः⟫
 Jono temppelin edessä, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5204))
 :::
-## 52.4. Verbiyhdykset, jotka ilmaisevat, että jostakin tulee tai tehdään jotain, mikä se ei aiemmin ollut (⟪अभुततद्भावः⟫) <!-- TODO: Fallback translation -->
+## 52.4. Verbiyhdykset, jotka ilmaisevat, että jostakin tulee tai tehdään jotain, mikä se ei aiemmin ollut (⟪अभुततद्भावः⟫)
 
 ### 52.4.1. cvi-johdokset
 
@@ -140,7 +140,7 @@ Jono temppelin edessä, Trivandrum = Thiruvananthapuram = തിരുവനന�
 *   **⟪अस्⟫ 2P "olla"**
 *   **⟪भू⟫ 1P "tulla"**
 
-**voivat substantiivit ja adjektiivit toimia preverbienä ilmaistakseen, että joku tekee henkilöstä tai asiasta sen minkälaiseksi substantiivi kuvaa, tai että henkilö tai asia muuttuu kyseisen substantiivin määrittelemäksi.** <!-- TODO: Fallback translation -->
+**voivat substantiivit ja adjektiivit toimia preverbienä ilmaistakseen, että joku tekee henkilöstä tai asiasta sen minkälaiseksi substantiivi kuvaa, tai että henkilö tai asia muuttuu kyseisen substantiivin määrittelemäksi.**
 
 **Substantiivin loppu käsitellään seuraavasti:**
 
@@ -150,7 +150,7 @@ Substantiivin loppu käsitellään seuraavasti:
 Esimerkit:  
 ⟪कृष्णीभवति⟩ "jokin, joka ei ole musta, muuttuu mustaksi"
 ⟪कृष्णीकरोति⟩ "hän tekee jostakin, joka ei ole musta, mustan"
-⟪गङ्गीभवति⟩ "hän/hän muuttuu Gangesiksi" <!-- TODO: Fallback translation -->
+⟪गङ्गीभवति⟩ "hän/hän muuttuu Gangesiksi"
 
 *   **loppuun tulevat -i ja -u korvataan vastaavalla pitkällä vokaalilla**
 Esimerkit:  
@@ -158,63 +158,60 @@ Esimerkit:
 ⟪गुरूभवामि⟫ "minusta tulee mestari"
 
 *   **loppuun tuleva -ṛ korvataan --rī:llä**
-esim. ⟪पित्रीभवति⟫ "joku, joka ei ole isä (⟪पितृ⟩), tulee isäksi = mies saa ensimmäisen lapsensa" <!-- TODO: Fallback translation -->
+esim. ⟪पित्रीभवति⟫ "joku, joka ei ole isä (⟪पितृ⟩), tulee isäksi = mies saa ensimmäisen lapsensa"
 
 *   **loppuun tuleva -n putoaa ja edeltävä vokaali käsitellään yllä mainittujen sääntöjen mukaisesti**
-esim. ⟪राजीबभूव⟩ "joku (joka ei ollut kuningas) tuli kuninkaaksi (⟪राजन्⟩)" <!-- TODO: Fallback translation -->
+esim. ⟪राजीबभूव⟩ "joku (joka ei ollut kuningas) tuli kuninkaaksi (⟪राजन्⟩)"
 
-*   **monivartaloiset muut substantiivit esiintyvät muotona, jonka vartalopääte on lokatiivin monikossa (⟪सप्तमी⟩). Vartalo noudattaa sitten yleisiä sandhisääntöjä. Katso Kielhorn, Grammatik § 489,3.**
-esim. ⟪तिर्यक्करोति⟩ "hän asettaa sivulle (⟪तिर्यच्⟩)"
+*   **monikantaiset muut substantiivit esiintyvät vartalon muodossa, joka on sama kuin lokatiivin monikkomuoto (⟪सप्तमी⟫). Vartalo noudattaa sitten yleisiä sandhisääntöjä. Katso Kielhorn, Grammatik § 489,3. **
+esim. ⟪तिर्यक्करोति⟫ "hän asettaa sivulle (⟪तिर्यच्⟫)"
 :::
 ::: media
 ![](/images/lekt5209.webp)
-Kuv.: ⟪भस्मीकृतं⟩ ⟪वनम्⟩
-Tulokasvatus, Arunachal Pradesh = ⟪अरुणाचल⟩ ⟪प्रदेश⟩
-(Kuvälähde: [Yksityiskohdat](/fi/licenses#lekt5209))
+Kuv.: ⟪भस्मीकृतं वनम्⟫
+Pellojen polttokasvatus, Arunachal Pradesh = ⟪अरुणाचल प्रदेश⟫
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5209))
 :::
-### 52.4.2. Liite -sāt <!-- TODO: Fallback translation -->
+### 52.4.2. Liite -sāt
 
 ::: grammar-box
-**Ilmaiseakseen, että henkilö tai asia muuttuu täysin joksikin tai että joku tekee jostakin tai jostakusta sen, mitä substantiivi tarkoittaa, substantiivin perään** <!-- TODO: Fallback translation -->
+**Ilmaistaksemme, että henkilö tai asia muuttuu kokonaan joksikin tai että joku tekee toisen täysin jonkin substantiivin ilmaisemaksi, voidaan substantiiviin**
 
-**voidaan liittää suffiksi -sāt (joka ei koskaan muutu muotoon -ṣāt)**
+**liittää liite -sāt (joka ei koskaan muutu muotoon -ṣāt)**
 
-**ja näin muodostettu sana taivutetaan verbien** <!-- TODO: Fallback translation -->
+**ja näin muodostettu sana yhdistetään verbin juurten**
 
 *   ⟪कृ⟫ 8U "tehdä"
 *   ⟪अस्⟫ 2P "olla"
 *   ⟪भू⟫ 1P "tulla"
 *   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
-**yhdistettävä verbinen yhdyssanaan.**
+**verbikompositiksi.**
 :::
-Esimerkkejä: <!-- TODO: Fallback translation -->
+Esimerkit:
 
 ::: indent
-⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫ "hän muuttuu täysin tuleksi"
+⟪अग्निसाद्भवति । अग्निसात्संपद्यते⟫ "hän muuttuu täysin tuleksi"
 
-⟪भस्मसात्करोति⟫ "hän muuttuu täysin tuhaksi (⟪भस्मन्⟫ n. "tuhka"))
+⟪भस्मसात्करोति⟫ "hän muuttaa kokonaan tuhaksi (⟪भस्मन्⟩ n. "tuhka"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
+**Joskus liite -sāt tarkoittaa, että henkilö tai asia**
 
-*   **riippuvaiseksi jostakin tai**
-*   **siirtyä jonkin omistukseen**
-*   **tai saada joku riippumaan jostakin**
 
-**mikä substantiivi tarkoittaa**
+*   **riippuu jostakin tai**
+*   **siirtyy jonkin omistukseen**
+*   **tai että joku tekee toisen riippuvaiseksi**
+
+**jostakin, mistä substantiivi puhuu**
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ::: indent
-⟪राजसाद्भवति⟫ "hän riippuu kuninkaasta, hänestä tulee kuninkaan omaisuus"
+⟪राजसाद्भवति⟫ "hänestä tulee kuninkaan riippuvainen, hänestä tulee kuninkaan omaisuutta"
 :::
 ::: grammar-box
-**Muotojen -sāt kanssa juuret eivät käsittele etuliitteiden tavoin, eli absolutiivi:** <!-- TODO: Fallback translation -->
-
-:::
-::: indent
-⟪भस्मसात्कृ⟫:sig[⟪त्वा⟫]
+**-sāt-päätteisten muodostelmien jälkeen juuria ei käsitellä kuten preverbien jälkeisiä, eli absolutiivi:**
 :::
 ## 52.5. Sanatoistot (⟪द्विरुक्तम्⟫)
 
@@ -229,7 +226,7 @@ Esimerkit:
 ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "mikä tahansa ... kaikki tämä"  
 ⟪युगे⟫ ⟪युगे⟫ "jokaisella yksittäisellä maailmankaudella"
 
-**Silloin tällöin tällaisten yhdistelmien perusteella voidaan muodostaa sandhi** <!-- TODO: Fallback translation -->
+**Silloin tällöin tällaisten yhdistelmien perusteella voidaan muodostaa sandhi**
 
 :::
 Esimerkit:
@@ -240,13 +237,13 @@ Esimerkit:
 ⟪नवनव⟫ 3 "aina uusi"
 :::
 Niin kutsuttuihin ⟪आम्रेडित⟫-sandheihin, joissa taivutettuja sanoja toistetaan ja toinen niistä saa klassista edeltäneellä kaudella akcentin, eli kyseessä on sandhi, ks. Wackernagel, Altindische Grammatik II,1 s. 142ff.
-## 52.6. Numeráali (⟪सम्ख्या⟩ f.) <!-- TODO: Fallback translation -->
+## 52.6. Numeráali (⟪सम्ख्या⟩ f.)
 
-Katso esim. Kielhorn, Grammatik §201f., mitä ei käsitellä täällä. <!-- TODO: Fallback translation -->
+Katso esim. Kielhorn, Grammatik §201f., mitä ei käsitellä täällä.
 
 ### 52.6.1. Kardinaaliluvut
 
-#### 52.6.1.1. Lukumääriteadjektiivit (luvut 1–19) <!-- TODO: Fallback translation -->
+#### 52.6.1.1. Lukumääriteadjektiivit (luvut 1–19)
 
 ::: grammar-box
 **Luvut *1–19* ovat adjektiiveja.**
@@ -256,7 +253,7 @@ Katso esim. Kielhorn, Grammatik §201f., mitä ei käsitellä täällä. <!-- TO
 
 **Nämä lukusanat, kuten kaikki adjektit, taivutetaan samassa sijassa, luvussa ja sukuluokassa kuin niihin liittyvä substantiivi (eli yksikössä 1, kaksikossa 2 ja muissa monikossa).**
 :::
-Lukusanat: <!-- TODO: Fallback translation -->
+Lukusanat:
 
 ::: indent
 1 ⟪एक⟫ 3 (taivutus kuten ⟪सर्व⟫, monikossa "jotkut")
@@ -270,11 +267,11 @@ Lukusanat: <!-- TODO: Fallback translation -->
 9 ⟪नवन्⟫ 3
 10 ⟪दशन्⟫ 3
 :::
-Taivutus löytyy myöhemmin sanastoista. <!-- TODO: Fallback translation -->
+Taivutus löytyy myöhemmin sanastoista.
 
 Katso muut lukusanat 19 asti esim. Kielhornin grammatikasta §201.
 
-#### 52.6.1.2. Lukuadjektiivit (sivuista 19 eteenpäin) <!-- TODO: Fallback translation -->
+#### 52.6.1.2. Lukuadjektiivit (sivuista 19 eteenpäin)
 
 ::: grammar-box
 **Luvut *19 (⟪एकोनविंशति⟫* "yksi vähemmän kuin 20") *jopa 99* ovat feminiinisiä substantiiveja, ja ne taivutetaan kuten ⟪मति⟩ f. tai juurimuodot, jotka päättyvät -t (esim. ⟪त्रिंशत् f.).**
@@ -290,7 +287,7 @@ Esimerkkejä:
 ::: grammar-box
 
 **Lukusanat luvuille 100 alkaen ovat keskisukuisia substantiiveja. Ne taivutetaan kuten ⟪फलम्⟫.**
-::: <!-- TODO: Fallback translation -->
+:::
 
 Esimerkkejä:
 
@@ -300,7 +297,7 @@ Esimerkkejä:
 1000 ⟪सहस्र⟫ n.
 :::
 Katso yksittäisiä lukusubstantiiveja esim. Kielhornin, Grammatik §201.
-#### 52.6.1.3. Syntaksista kardinaalilukuihin <!-- TODO: Fallback translation -->
+#### 52.6.1.3. Syntaksista kardinaalilukuihin
 
 ::: grammar-box
 **Ero verbialgebrallisten ja verbinominaalien välillä kardinaaliluvuissa johtaa seuraavaan syntaktiseen seuraukseen:**
@@ -312,14 +309,14 @@ esim. ⟪विंशत्या⟩ ⟪नारीणाम्⟩ "kahdenkymme
     *   ne ovat appositiona samassa käänteessä (mutta yksikössä) kuin laskettava
 esim. ⟪विंशत्या⟩ ⟪नारीभिः⟩ "kahdenkymmenen naisen läpi"
     *   ne ovat ⟪तत्पुरुष⟩n takana oleva osa, jossa laskettava on edessä
-esim. ⟪गोविंशत्या⟩ "kahdenkymmenen lehmän läpi" <!-- TODO: Fallback translation -->
+esim. ⟪गोविंशत्या⟩ "kahdenkymmenen lehmän läpi"
 
 :::
 ### 52.6.2. Järjestysluvut
 
-Katso esim. Kielhorn, Grammatik §201f. <!-- TODO: Fallback translation -->
+Katso esim. Kielhorn, Grammatik §201f.
 
-### 52.6.3. Lukumääräadverbit <!-- TODO: Fallback translation -->
+### 52.6.3. Lukumääräadverbit
 
 a) "-kertainen":
 
@@ -352,14 +349,14 @@ kolminkertainen, kolmesta osasta koostuva
 
 alkaen numerosta 4 "-fältig" ilmaistaan suffiksilla -:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫]): ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "nelinkertainen"
 :::
-Lisäksi muodostelmia koskevia tietoja löytyy sanakirjoista tai kielioppioppikirjoista. <!-- TODO: Fallback translation -->
+Lisäksi muodostelmia koskevia tietoja löytyy sanakirjoista tai kielioppioppikirjoista.
 
 ### 52.6.5. Yhdyssanat, joiden etuosana on kardinaaliluku
 
 ::: grammar-box
 **⟪बहुव्रीहि⟫ näitä muodostetaan erittäin säännöllisesti.**
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ::: indent
 ⟪चतुर्मुख⟫ m. "neljää kasvoa omaava" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (Brahmān nimittä)
@@ -368,7 +365,7 @@ Esimerkki: <!-- TODO: Fallback translation -->
 ![](/images/lekt5205.webp)
 Kuv.: ⟪चतुर्मुखः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5205))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -382,11 +379,11 @@ Siksi esim. ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "pohjoiset puut
 Kuv.: ⟪सप्तर्षयः⟫
 Seitsemän tähden ryhmä = Isomman karhun (Ursa maior) kirkkaimmat seitsemän tähteä
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5206))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
-**Sääntö 2: Poiketen säännöstä 1 sana, joka tarkoittaa ilmansuuntaa tai peruslukua, voi muodostaa muiden substantiivien kanssa Tatpuruṣa-yhdyssanan, jos** <!-- TODO: Fallback translation -->
+**Sääntö 2: Poiketen säännöstä 1 sana, joka tarkoittaa ilmansuuntaa tai peruslukua, voi muodostaa muiden substantiivien kanssa Tatpuruṣa-yhdyssanan, jos**
 
 1.  Sille muodostettuun yhdyssanaan liitetään taddhitapääte
 Esimerkit:  
@@ -410,28 +407,28 @@ Jalakandapuram = ஜலகண்டபுரம்
 :::
 
 ::: grammar-box
-**Kardinaalilukua (mutta ei ilmansuuntaa) merkitsevä sana voi toimia yhdyssanan etuosana toisen substantiivin kanssa muodostaen tatpuruṣa-yhdyssanan, vaikka näin muodostettu yhdyssana tarkoittaa useamman asian aggregaattia eli yhdistää kaksi tai useampia asioita yhteen.** <!-- TODO: Fallback translation -->
+**Kardinaalilukua (mutta ei ilmansuuntaa) merkitsevä sana voi toimia yhdyssanan etuosana toisen substantiivin kanssa muodostaen tatpuruṣa-yhdyssanan, vaikka näin muodostettu yhdyssana tarkoittaa useamman asian aggregaattia eli yhdistää kaksi tai useampia asioita yhteen.**
 
-**Tatpuruṣa, jotka muodostuvat tämän säännön mukaisesti ja joita kutsutaan Dviguiksi (:sig[⟪द्विगु⟫]).** <!-- TODO: Fallback translation -->
+**Tatpuruṣa, jotka muodostuvat tämän säännön mukaisesti ja joita kutsutaan Dviguiksi (:sig[⟪द्विगु⟫]).**
 
 **Dvigu-yhdyssanat, jotka merkitsevät yhtä kokonaisuutta, ovat yleensä keskisukua. Jos toinen jäsen päättyy vokaaliin -a, feminiinisukuun liittyvä suffiksi -ī voi liittyä siihen. Jos toinen jäsen päättyy feminiiniseen muotoon -ā, sen tilalle tulee joko keskisukuinen muoto -a tai feminiininen muoto -ī. Jos toinen jäsen päättyy vokaaliin -an, sen tilalle tulee joko muoto -a tai muoto -ī.**
 :::
-Esimerkkejä: <!-- TODO: Fallback translation -->
+Esimerkkejä:
 
 ::: indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "kolmen maailman yhteys, kolme maailmaa yhtenäisyytenä, kolmimaailma (taivas-maa-ala)" <!-- TODO: Fallback translation -->
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "kolmen maailman yhteys, kolme maailmaa yhtenäisyytenä, kolmimaailma (taivas-maa-ala)"
 
 ⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "kolmimaailma"
 :::
 ::: grammar-box
 **Dvigu-yhdyssanat, joihin ei ole liitetty Taddhita-suffiksia mutta joilla on merkitys, joka vastaa Taddhita-suffiksin merkitsemää merkitystä, mukauttavat sukupuut Bahuvrīhi-yhdyssanojen tapaan sen substantiivin mukaan, jota ne tarkemmin määrittävät (ne ovat todellisuudessa todennäköisesti Bahuvrīhi-yhdyssanoja)**
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ::: indent
 ⟪पञ्चगु⟫ 3: "hankittu viidellä lehmällä"
 :::
-## 52.7. Sanalista <!-- TODO: Fallback translation -->
+## 52.7. Sanalista
 
 ⟪अखिल⟫ 3: saumaton, kokonainen
 
@@ -448,7 +445,7 @@ Kuv.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: sisällä, sisäpuolella ; Postpositio genetiivin tai lokatiivin kanssa (⟪षष्टी⟫, ⟪सप्तमी⟫): sisällä, keskellä ; Postpositio genetiivin tai ablatiivin kanssa (⟪षष्ठी⟫, ⟪पञ्चमी⟫): ... ulkopuolelta <!-- TODO: Fallback translation -->
+⟪अन्तर्⟫ Adv.: sisällä, sisäpuolella ; Postpositio genetiivin tai lokatiivin kanssa (⟪षष्टी⟫, ⟪सप्तमी⟫): sisällä, keskellä ; Postpositio genetiivin tai ablatiivin kanssa (⟪षष्ठी⟫, ⟪पञ्चमी⟫): ... ulkopuolelta
 
 ⟪अन्योन्य⟫ 3: vastakkain, toisilleen
 
@@ -457,7 +454,7 @@ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 ::: indent
 PPP ⟪विपरीत⟫ 3: väärä, virheellinen
 :::
-⟪त्रि⟫ 3: kolme <!-- TODO: Fallback translation -->
+⟪त्रि⟫ 3: kolme
 
 ::: grammar-box
 | | **maskuliini:br⟪पुंस्⟫** | **neutri:br⟪नपुंसकम्⟫** | **feminiini:br⟪स्त्री⟫** |
@@ -470,7 +467,7 @@ PPP ⟪विपरीत⟫ 3: väärä, virheellinen
 | **6. genetiivi:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. lokatiivi:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postpositio ja prefiksi substantiiveissa ja verbeissä: ulos, pois, ulospäin, esiin, ulkoa, poispäin, ilman - from <!-- TODO: Fallback translation -->
+⟪निस्⟫ Postpositio ja prefiksi substantiiveissa ja verbeissä: ulos, pois, ulospäin, esiin, ulkoa, poispäin, ilman - from
 
 ⟪पीड्⟫ 10P ⟪पीडयति⟫ : painaa, kiduttaa; ahdistaa, piirittää, vaivata
 
@@ -480,16 +477,16 @@ Kuv.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
 (Kuvälähde: [Yksityiskohdat](/fi/licenses#lekt5212))
 :::
-⟪पर⟫ 3: (Taivutus kuten ⟪सर्व⟫) kaukana oleva, vieras, korkeampi kuin (⟪पञ्चम्या⟫), äärimmäinen, korkein; toinen, vieras, vihollinen; m.: vieras <!-- TODO: Fallback translation -->
+⟪पर⟫ 3: (Taivutus kuten ⟪सर्व⟫) kaukana oleva, vieras, korkeampi kuin (⟪पञ्चम्या⟫), äärimmäinen, korkein; toinen, vieras, vihollinen; m.: vieras
 
 ::: indent
 siitä:
 
 ⟪परम्⟫ Adv.: korkeassa määrin, siihen, myöhemmin, mutta, kuitenkin
 :::
-⟪प्रति⟫ Postpositio (⟪द्वितीयया⟫): -lle, kohti, suuntaan, nähden <!-- TODO: Fallback translation -->
+⟪प्रति⟫ Postpositio (⟪द्वितीयया⟫): -lle, kohti, suuntaan, nähden
 
-⟪प्रधान⟫ 3: pääasiallinen, paras ; n.: tärkein asia <!-- TODO: Fallback translation -->
+⟪प्रधान⟫ 3: pääasiallinen, paras ; n.: tärkein asia
 
 ::: media
 ![](/images/lekt5213.webp)
@@ -497,7 +494,7 @@ Kuv.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: ahneus, haluttomuus <!-- TODO: Fallback translation -->
+⟪लौल्य⟫ n.: ahneus, haluttomuus
 
 ⟪वर्ग⟫ m.: kohta, osio, joukko
 
@@ -529,7 +526,7 @@ siitä:
 
 ⟪वात⟫ m.: Tuuli
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : kääntää, pyöräyttää; torjua, sulkea pois <!-- TODO: Fallback translation -->
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : kääntää, pyöräyttää; torjua, sulkea pois
 
 ::: indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
@@ -540,9 +537,9 @@ Kaus. PPP ⟪वर्जित⟫ : menettää jstk, olla irrallaan jstk
 PPP ⟪वृक्त⟫
 Inf. ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: toiminta, elämäntapa, yhteys, liikenne, asia, kauppa, (oikeudenkäynti)prosessi <!-- TODO: Fallback translation -->
+⟪व्यवहार⟫ m.: toiminta, elämäntapa, yhteys, liikenne, asia, kauppa, (oikeudenkäynti)prosessi
 
-⟪शील⟫ n.: tapa, tottumus, luonto, karakteri, hyvä tottumus = moraali <!-- TODO: Fallback translation -->
+⟪शील⟫ n.: tapa, tottumus, luonto, karakteri, hyvä tottumus = moraali
 
 ⟪सूर्य⟫ m.: Aurinko
 
@@ -561,7 +558,7 @@ siitä:
 
 ⟪सेवा⟫ f.: palvelus, käynti
 :::
-⟪धीर⟫ 3: vakaa, sitkeä, jatkuva, pitkäjänteinen <!-- TODO: Fallback translation -->
+⟪धीर⟫ 3: vakaa, sitkeä, jatkuva, pitkäjänteinen
 
 ⟪शम्⟫ ⟪शाम्यति⟫
 
@@ -575,7 +572,7 @@ siitä:
 :::
 ⟪कोविद⟫ 3: kokenut (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
 
-⟪याम⟫ m.: yövuoro (kussakin kolme tuntia) <!-- TODO: Fallback translation -->
+⟪याम⟫ m.: yövuoro (kussakin kolme tuntia)
 
 ⟪परंपरा⟫ f.: keskeytymätön sarja
 
@@ -600,7 +597,7 @@ Kuv.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: banaanipuu (_Musa_-laji) <!-- TODO: Fallback translation -->
+⟪कदली⟫ f.: banaanipuu (_Musa_-laji)
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -608,7 +605,7 @@ Kuv.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: ydin, sydän, olennaisuus, substanssi <!-- TODO: Fallback translation -->
+⟪सार⟫ m.n.: ydin, sydän, olennaisuus, substanssi
 
 ⟪दिव्य⟫ 3: taivaallinen, jumalinen
 
@@ -624,7 +621,7 @@ Kuv.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: Indran taivas <!-- TODO: Fallback translation -->
+⟪त्रिपिष्टप⟫ n.: Indran taivas
 
 ⟪मार⟫ m.: personoitu pahuus, personoitu houkutus / manipulointi, piru
 
@@ -634,7 +631,7 @@ Kuv.:
 Amaravati = అమరావతి, 2. jaa. eKr.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: henkilö, joka haluaa tunnistaa täysin <!-- TODO: Fallback translation -->
+⟪विजिज्ञासु⟫ 3: henkilö, joka haluaa tunnistaa täysin
 
 ⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : suojata, pelastaa
 
@@ -668,7 +665,7 @@ Inf. ⟪त्रातुम्⟫
 
 Selitys: ⟪सुखदुःखयोः⟫ Gen.Lok.duaali.m.f.n. (duaalidvandva)
 :::
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Lähteistä ⟪धर्म⟫ <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Lähteistä ⟪धर्म⟫
 
 ::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
@@ -678,14 +675,14 @@ Selitys: ⟪सुखदुःखयोः⟫ Gen.Lok.duaali.m.f.n. (duaalidvand
 
 Selitys:  ⟪स्मृतिशीले⟩ Nom.Akk.duaali.n. (duaalidvandva)
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ hallitsijan elämässä <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ hallitsijan elämässä
 
 ⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि⟫ ⟪धर्मका⟫:sig[⟪मावि⟫]⟪ति⟫ ⟪।७।⟫
 
 ::: indent
 Selitykset:
 
-⟪इतरौ⟫ Nom.Akk.duaali.m zu ⟪इतर⟫ 3 "toinen" <!-- TODO: Fallback translation -->
+⟪इतरौ⟫ Nom.Akk.duaali.m zu ⟪इतर⟫ 3 "toinen"
 
 ⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.duaali.m (⟪धर्मकामौ⟫ on duaalidvandva)
 :::
@@ -696,7 +693,7 @@ Selitykset:
 Kuv.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
 _Ficus religiosa_ L. ⟪बोधगया⟫, n. 1810
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5216))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -752,9 +749,9 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, n. 1810
 :::
 ## 52.9. Tehtävät lukukauden välipäivänä
 
-Luentokerran 52 myötä ensimmäinen lukukausi (13 viikkoa, 4 tuntia oppitunteja) sanskrittikurssista on ohi. <!-- TODO: Fallback translation -->
+Luentokerran 52 myötä ensimmäinen lukukausi (13 viikkoa, 4 tuntia oppitunteja) sanskrittikurssista on ohi.
 
-Lukukauden välipäivänä tulisi suorittaa seuraavat tehtävät: <!-- TODO: Fallback translation -->
+Lukukauden välipäivänä tulisi suorittaa seuraavat tehtävät:
 
 1.  Koko tähän mennessä opetetuun kertausharjoittelu, erityisesti:
     1.  Taivutus- ja konjugaatioparadigmien ulkoaoppiminen
@@ -773,49 +770,14 @@ Mahābhārata : Intian suuri epos / sanskritista käänt. ja tiivist. Biren Roy.
 9.  Valmis läpikäynti:
 **Basham, A. L. (Arthur Llewellyn) (1914–1986)**The wonder that was IndiaOsa: Tutkimus Intian niemimaan kulttuurista ennen muslimien saapumista. -- Lontoo : Sidgwick & Jackson, 1954.
 10.  Aloitus läpikäynnistä:
-**Winternitz, Moriz (1863–1937):** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 osaa. -- 1908 - 1922 (edelleen kaukana paras sanskrit-, pali- ja prakrit-kirjallisuuden historia) <!-- TODO: Fallback translation -->
+**Winternitz, Moriz (1863–1937):** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 osaa. -- 1908 - 1922 (edelleen kaukana paras sanskrit-, pali- ja prakrit-kirjallisuuden historia)
 
 ::: media
 ![](/images/lekt5201.webp)
 Kuv.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Kuva: Payer)
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt5201))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Kuv lähde: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Pääsy 2009-01-15. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
-
-**lekt5203:** Wayang-figuuri, Java, Indonesia [Kuv lähde. Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
-
-**lekt5204:** Jono temppelin edessä, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം [Kuv lähde: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Pääsy 2009-01-15. -- [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, sama lisensointi)] <!-- TODO: Fallback translation -->
-
-**lekt5209:** Tulokasvatus, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Kuv lähde: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Pääsy 2009-01-15. --  [Creative Commons -lisensointi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
-
-**lekt5205:** [Kuv lähde: Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
-
-**lekt5206:** Seitsemän tähden ryhmä = seitsemän kirkkainta tähteä Suurta Karhua (Ursa maior) [Kuv lähde: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Kuv lähde: Wikipedia. Julkinen omaisuus] <!-- TODO: Fallback translation -->
-
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Kuv lähde: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Pääsy 2009-01-16. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimittäminen)] <!-- TODO: Fallback translation -->
-
-**lekt5212:** Hyderabad = హైదరాబాద్ [Kuv lähde: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Pääsy 2009-01-16. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimilupa, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
-
-**lekt5213:** ⟪मुंबई⟫ [Kuv lähde: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Pääsy 2009-01-16. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Nimilupa, ei muokkauksia)] <!-- TODO: Fallback translation -->
-
-**lekt5214:** Konark = ⟪कोनार्क⟫ [Kuv lähde: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Pääsy 2009-01-16. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nimilupa, ei kaupallista käyttöä, ei muokkauksia)] <!-- TODO: Fallback translation -->
-
-**lekt5208:** Hampi = ಹಂಪೆ [Kuv lähde: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Pääsy 2009-01-15. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimilupa, ei kaupallista käyttöä, sama lisenssi)] <!-- TODO: Fallback translation -->
-
-**lekt5215:** ⟪मुंबई⟫ [Kuv lähde: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Haettu 2009-01-16. -- [Creative Commons -lisenssi](http://creativecommons.org/licenses/by/2.0/deed.de) (Nimikehitys)] <!-- TODO: Fallback translation -->
-
-**lekt5217:** Amaravati = అమరావతి, 2. jk. jKr. [Kuv lähde: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, n. 1810 [Kuv lähde: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt5201:** (Kuva: Payer)
 
 :::
 

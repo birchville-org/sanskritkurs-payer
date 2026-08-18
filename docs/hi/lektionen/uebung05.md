@@ -52,7 +52,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 काम, क्रोध और लोभ।
 
-kāmaḥ krodho lobhaś ca. <!-- TODO: Fallback translation -->
+kāmaḥ krodho lobhaś ca.
 
 ⟪कामः⟫ ⟪क्रोधो⟫ ⟪लोभश्च⟫ ⟪।⟫
 

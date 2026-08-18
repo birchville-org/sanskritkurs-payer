@@ -1,536 +1,501 @@
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "Ders 37"
+subtitle: "Zarf (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 37 <!-- TODO: Fallback translation -->
+---
 
-## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫) <!-- TODO: Fallback translation -->
+# Ders 37
 
-Adverbien werden im Sanskrit gebildet <!-- TODO: Fallback translation -->
+## 37.1. Zarf (⟪क्रियाविशेषणम्⟫)
 
-1.  durch Kasusformen von Nomina und Pronomina <!-- TODO: Fallback translation -->
-2.  mit Hilfe besonderer Suffixe und Endungen <!-- TODO: Fallback translation -->
+Sanskrit'te zarflar şu şekilde oluşturulur:
 
-Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden. <!-- TODO: Fallback translation -->
+1. isimlerin ve zamirlerin hâl ekleriyle
+2. özel sonekler ve sonluklar aracılığıyla
 
-## 37.2. Adverbialer Gebrauch von Kasusformen <!-- TODO: Fallback translation -->
+İlk durumda, canlı hâl ile zarf arasındaki sınır akışkandır. Bu kategoriye, çekimdeki diğer formların kullanıldığı veya ilgili isimlerin artık isim olarak kullanılmadığı durumlarda, eski hâl formlarının donmuş (katılaşmış) halini oluşturan zarflar dahildir.
 
-### 37.2.1. Akkusativ (⟪द्वितीया⟫) <!-- TODO: Fallback translation -->
+## 37.2. Hâllerin zarfi kullanımı
 
-::: grammar-box
-Der Akkusativ (⟪द्वितीया⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
-
-*   in welcher Weise? <!-- TODO: Fallback translation -->
-*   wie lange? <!-- TODO: Fallback translation -->
-*   wohin? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
-
-Adverbial gebraucht werden kann der Akkusativ: <!-- TODO: Fallback translation -->
-
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    Beispiele:  
-:::
-::: indent
-⟪कामम्⟫ "wunschgemäss, nach Wunsch"
-⟪अर्थम्⟫ "wegen"   <!-- TODO: Fallback translation -->
-:::
-
-*   von Adjektiven im Neutrum   <!-- TODO: Fallback translation -->
-    Beispiele:  
-::: indent
-⟪सुखम्⟫ "leicht, glücklich"
-⟪नित्यम्⟫ "stets"
-⟪साधु⟫ "richtig, gut"   <!-- TODO: Fallback translation -->
-:::
-
-*   von Pronomina im Neutrum   <!-- TODO: Fallback translation -->
-    Beispiele:  
-::: indent
-⟪तद्⟫ "dann, darum"
-⟪यद्⟫ "wenn, dass"
-⟪एतद्⟫ "so, hier, jetzt" <!-- TODO: Fallback translation -->
-:::
-### 37.2.2. Instrumentalis (⟪तृतीया⟫) <!-- TODO: Fallback translation -->
+### 37.2.1. Yönelme hâli (⟪द्वितीया⟫)
 
 ::: grammar-box
-Der Instrumentalis (⟪तृतीया⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+Yönelme hâli (⟪द्वितीया⟫), şu sorulara cevap vererek zarfi olarak kullanılabilir:
 
-*   wodurch? <!-- TODO: Fallback translation -->
-*   womit? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   nasıl?
+*   ne kadar süreyle?
+*   nereye?
+*   vb.
 
-Adverbial gebraucht werden kann der Instrumentalis: <!-- TODO: Fallback translation -->
+Yönelme hâli zarfi olarak şu türden kelimelerle kullanılabilir:
 
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    Beispiele:  
+*   isimlerden  
+Örnekler:  
+⟪कामम्⟫ "istem üzerine, dilekçe uygun olarak"  
+⟪अर्थम्⟫ "nedeniyle"
+
+*   dişil olmayan sıfatlardan  
+Örnekler:  
+⟪सुखम्⟫ "kolay, mutlu"  
+⟪नित्यम्⟫ "her zaman"  
+⟪साधु⟫ "doğru, iyi"
+
+*   dişil olmayan zamirlerden  
+Örnekler:  
+⟪तद्⟫ "o zaman, bu yüzden"  
+⟪यद्⟫ "eğer, ki"  
+⟪एतद्⟫ "böyle, burada, şimdi"
 :::
-::: indent
-⟪अर्थेन⟫ "wegen"
-⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")   <!-- TODO: Fallback translation -->
-:::
-
-*   von Adjektiven, oft auch in der Pluralform   <!-- TODO: Fallback translation -->
-    Beispiele:  
-::: indent
-⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")
-⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)") <!-- TODO: Fallback translation -->
-:::
-### 37.2.3. Dativ (⟪चतुर्थी⟫) <!-- TODO: Fallback translation -->
+### 37.2.2. Alet hâli (⟪तृतीया⟫)
 
 ::: grammar-box
-Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen: <!-- TODO: Fallback translation -->
+Alet hâli (⟪तृतीया⟫), şu sorulara cevap vererek zarfi olarak kullanılabilir:
 
-*   zu welchem Zweck? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   neyle?
+*   hangi araçla?
+*   vb.
 
-Beispiel: <!-- TODO: Fallback translation -->
+Alet hâli zarfi olarak şu türden kelimelerle kullanılabilir:
+
+*   isimlerden  
+Örnekler:  
+⟪अर्थेन⟫ "nedeniyle"  
+⟪क्षणेन⟫ "o anda, hemen" (⟪क्षण⟩ m. "an" kelimesinden)
+
+*   sıfatlardan, çoğunlukla çoğul formda da
+Örnekler:  
+⟪दूरेण⟫ "uzak, uzaktan" (⟪दूर⟫ 3 "uzak, uzaktan" kelimesine ait)  
+⟪उच्चैस्⟫ "yüksek, gür" (⟪उच्च⟫ 3 "yüksek, yükseltilmiş, gür, tiz (ses için)" kelimesine ait)
 :::
-::: indent
-⟪अर्थाय⟫ "zum Zweck von, um ... willen" <!-- TODO: Fallback translation -->
-:::
-### 37.2.4. Ablativ (⟪पञ्चमी⟫) <!-- TODO: Fallback translation -->
+### 37.2.3. Dativ (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Der Ablativ (⟪पञ्चमी⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+Dativ (⟪चतुर्थी⟫) nadiren olarak şu sorulara cevap vermek için kullanılır:
 
-*   warum? <!-- TODO: Fallback translation -->
-*   aufgrund wessen? <!-- TODO: Fallback translation -->
-*   woher? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   hangi amaçla?
+*   ve benzeri
 
-Adverbial gebraucht werden kann der Ablativ: <!-- TODO: Fallback translation -->
-
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    z.B. ⟪बलात्⟫ "gewaltsam, mit Gewalt"   <!-- TODO: Fallback translation -->
-
-*   von Adjektiven   <!-- TODO: Fallback translation -->
-    z.B. ⟪दूरात्⟫ "von fern"   <!-- TODO: Fallback translation -->
-
-*   von Pronomina   <!-- TODO: Fallback translation -->
-    Beispiele:  
+Örnek:
 :::
 ::: indent
-⟪कस्मात्⟫ "warum"
-⟪अकस्मात्⟫ "unerwartet" <!-- TODO: Fallback translation -->
+⟪अर्थाय⟫ "amacı için, ... uğruna"
 :::
-### 37.2.5. Genetiv (⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
+>> ### 37.2.4. Ablativ (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Selten wird der Genetiv (⟪षष्ठी⟫) adverbial gebraucht auf die Frage "nach wie langer Zeit?" <!-- TODO: Fallback translation -->
+>> Ablativ (⟪पञ्चमी⟫) nadiren şu sorulara cevap vermek için kullanılır:
 
-z.B. ⟪चिरस्य⟫ "nach langer Zeit" (zu ⟪चिर⟫ 3 "lang (Zeit)") <!-- TODO: Fallback translation -->
+*   neden?
+*   neye dayanarak?
+*   nereden?
+*   ve benzeri
+
+>> Ablativ şu şekilde kullanılır:
+
+*   İsimlerden  
+Örn. ⟪बलात्⟫ "şiddetle, zorla"  
+
+*   Sıfatlardan  
+Örn. ⟪दूरात्⟫ "uzaktan"  
+
+*   Zamirlerden  
+Örnekler:  
+⟪कस्मात्⟫ "neden"  
+⟪अकस्मात्⟫ "beklenmedik şekilde"
 :::
-### 37.2.6. Lokativ (⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
+>> ### 37.2.5. Genetiv (⟪षष्ठी⟫)
 
 ::: grammar-box
-Der Lokativ (⟪सप्तमी⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+>> Genetiv (⟪षष्ठी⟫) nadiren "ne kadar süre sonra?" sorusuna cevap vermek için kullanılır.
 
-*   wo? <!-- TODO: Fallback translation -->
-*   unter welchen Umständen? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+Örn. ⟪चिरस्य⟫ "uzun süre sonra" (⟪चिर⟫ 3 "uzun (zaman)" için)
+:::
+### 37.2.6. Lokativ (⟪सप्तमी⟫)
 
-Beispiele: <!-- TODO: Fallback translation -->
+::: grammar-box
+Lokativ (⟪सप्तमी⟫) şu sorulara cevap vermek için kullanılır:
+
+*   nerede?
+*   hangi koşullar altında?
+*   ve benzeri
+
+Örnekler:
 :::
 ::: indent
-\-⟪अर्थे⟫ "wegen"  
-\-⟪कृते⟫ "um willen"  
-⟪दूरे⟫ "fern" <!-- TODO: Fallback translation -->
+\-⟪अर्थे⟫ "nedeniyle"  
+\-⟪कृते⟫ "uğruna"  
+⟪दूरे⟫ "uzak"
 :::
-## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen <!-- TODO: Fallback translation -->
+## 37.3. Artık kullanılmayan hal formlarının zarf olarak kullanımı
 
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 ::: indent
-⟪जातु⟫ "überhaupt" (ursprünglich "von Geburt, von Natur", Akk.sg.n. zu ⟪जातु⟫ \<nicht mehr als Nomen gebräuchlich\>) <!-- TODO: Fallback translation -->
+⟪जातु⟫ "genel olarak" (aslında "doğumdan, doğuştan", Akk.sg.n. ⟪जातु⟫ \&lt;artık isim olarak kullanılmıyor\&gt;)
 
-⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen") <!-- TODO: Fallback translation -->
+⟪तूष्णीम्⟫ "sessizce" (artık kullanılmayan bir ⟪तूष्णी⟫ f. "sessizlik" için Akk.sg.)
 
-⟪एवम्⟫ "so" (zu einem sonst verloren gegangenen Pronominalstamm ⟪एव⟫ "ein, einzig") <!-- TODO: Fallback translation -->
+⟪एवम्⟫ "böyle" (başka yerde kaybolmuş bir zamir kökü ⟪एव⟫ "bir, tek" için)
 :::
-## 37.4. Bildung von Adverbien mit Adverbialsuffixen <!-- TODO: Fallback translation -->
+## 37.4. Fiillerlemelerin Adverbial Sonekleriyle Oluşturulması
 
 ::: grammar-box
-Von den Pronominalstämmen ⟪तद्⟫, ⟪इदम्⟫ bzw. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ bzw. ⟪कु⟫ kann man mit den Adverbialsuffixen <!-- TODO: Fallback translation -->
+⟪तद्⟫, ⟪इदम्⟫ veya ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ veya ⟪कु⟫ zamir köklerinden, adverbial sonekler
 
-*   \-⟪तस्⟫ (Ablativ) <!-- TODO: Fallback translation -->
-*   \-⟪त्र⟫ (Lokativ) <!-- TODO: Fallback translation -->
-*   \-⟪था⟫ (Art und Weise) <!-- TODO: Fallback translation -->
-*   \-⟪थम्⟫ (Art und Weise) <!-- TODO: Fallback translation -->
-*   \-⟪दा⟫ (Zeit) <!-- TODO: Fallback translation -->
+>> *   \-⟪तस्⟫ (Ablativ)
+*   \-⟪त्र⟫ (Lokativ)
+*   \-⟪था⟫ (Biçim ve Şekil)
+*   \-⟪थम्⟫ (Biçim ve Şekil)
+*   \-⟪दा⟫ (Zaman)
 
-entsprechende Pronominaladverbien ableiten. <!-- TODO: Fallback translation -->
+ile uygun zamir edatları türetilebilir.
 :::
 ::: grammar-box
 
-| Suffix | Pronominalstamm | | | | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** | <!-- TODO: Fallback translation -->
-| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? | <!-- TODO: Fallback translation -->
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? | <!-- TODO: Fallback translation -->
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | | <!-- TODO: Fallback translation -->
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? | <!-- TODO: Fallback translation -->
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| Sonek | Zamir Kökü | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
+>> | **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :buradan, buna, bundan dolayı | ⟪इतस्⟫ :br ⟪अतस्⟫ :buradan, buradan dolayı | ⟪यतस्⟫ :brnereden, ne hakkında | ⟪कुतस्⟫ :brnereden?, neden? |
+| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :burada, orada | ⟪अत्र⟫ :bura | ⟪यत्र⟫ :brnerede | ⟪कुत्र⟫ :brnerede? |
+| **-⟪था⟫** :br(Biçim ve Şekil) | ⟪तथा⟫ :brböylece | | ⟪यथा⟫ :brnasıl | |
+| **-⟪थम्⟫** :br(Biçim ve Şekil) | | | | ⟪कथम्⟫ :brnasıl? |
+| **-⟪दा⟫** :br(Zaman) | ⟪तदा⟫ :bro zaman, o vakit | | ⟪यदा⟫ :brken | ⟪कदा⟫ :brne zaman? |
 
 :::
 ::: grammar-box
-Ein weiteres Frageadverb ist: ⟪क्व⟫ "wo?" <!-- TODO: Fallback translation -->
+Başka bir soru edatı şudur: ⟪क्व⟫ "nerede?"
 :::
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
-Abb.: ⟪क्व⟫
-(Bildquelle: [Details](/licenses#lekt3701)) <!-- TODO: Fallback translation -->
+Resim: ⟪क्व⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3701))
 :::
 
 ::: grammar-box
 
-**Weitere Adverbialsuffixe** <!-- TODO: Fallback translation -->
+**Diğer Adverbial Sonekler**
 
-| Suffix | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" | <!-- TODO: Fallback translation -->
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" | <!-- TODO: Fallback translation -->
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| Sonek | |
+| :--- | :--- |
+| **-⟪वत्⟫** | herhangi bir isimden sonra eklenerek "gibi, benzer şekilde" anlamını ifade etmek için kullanılabilir:brörn. ⟪पुत्रवत्⟫ "bir oğul gibi" |
+>> | **-⟪तस्⟫** | isimlere ve zamirlere eklenir. Genellikle ablative anlamında "nereden?" ama ayrıca "nerede?", "nereye?":brörn. ⟪आदितस्⟫ "başlangıçtan beri" |
+| **-⟪धा⟫** | 1. Sayı edatlarında "-li", "-lü" anlamında:brörn. ⟪द्विधा⟫ "iki katlı":br2. "-bu şekilde" anlamında:brörn. ⟪समधा⟫ "aynı şekilde" (⟪सम⟫ 3 "aynı" kelimesine bağlı) |
 
 :::
-## 37.5. Adverbiale Komposita <!-- TODO: Fallback translation -->
+## 37.5. Durumsal Birleşik Sözcükler
 
-### 37.5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied <!-- TODO: Fallback translation -->
+### 37.5.1. Durumsal veya durumsal olarak kullanılan bir hal ile son bileşeni olan birleşik sözcükler
 
-Beispiel: ⟪सुचिरम्⟫ "sehr lange (Zeit)" <!-- TODO: Fallback translation -->
+Örnek: ⟪सुचिरम्⟫ "çok uzun (zaman)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫ <!-- TODO: Fallback translation -->
+### 37.5.2. Durumsal olarak kullanılan ⟪बहुव्रीहि⟫
 
-Beispiel: ⟪रक्षार्थम्⟫ "in der Art von jemandem, dessen Zweck Behüten ist, zum Zweck des Behütens". Kann auch als zu 5.1. gehörig betrachtet werden: -⟪अर्थम्⟫ als adverbiales Hinterglied. <!-- TODO: Fallback translation -->
+Örnek: ⟪रक्षार्थम्⟫ "birinin amacı korumak olan kişi gibi, koruma amacıyla". Ayrıca 5.1'e ait olarak da değerlendirilebilir: -⟪अर्थम्⟫ durumsal son bileşen olarak.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Komposita <!-- TODO: Fallback translation -->
+### 37.5.3. ⟪अव्ययीभाव⟫-Birleşik Sözcükler
 
-⟪अव्ययीभाव⟫ = "unveränderlich/undeklinierbar gewordene" <!-- TODO: Fallback translation -->
+⟪अव्ययीभाव⟫ = "değişmez/sabitleşmiş"
 
 ::: grammar-box
-Ein ⟪अव्ययीभाव⟫ ist ein adverbiales Kompositum, dessen Vorderglied ein Indeklinabile (Postposition, Partikel u. ä.) ist, und dessen Hinterglied ein Nomen ist, das die Endung des Akkusativ Singulars Neutrum annnimmt. <!-- TODO: Fallback translation -->
+Bir ⟪अव्ययीभाव⟫, ön bileşeni bir değişmez sözcük (art arda gelen önekler, parçacıklar vb.) ve son bileşeni nötr tekil tamlayan hal ekini alan bir isim olan durumsal bir birleşik sözcüktür.
 
-Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren: <!-- TODO: Fallback translation -->
+Birleşik sözcüğün çözülmesi durumunda, ön bileşen son bileşeni yönetir:
 
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 :::
 ::: indent
-⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "gegen das Feuer" <!-- TODO: Fallback translation -->
+⟪प्रत्यग्नि⟫ = ⟪अग्निं प्रति⟫ = "ateşe karşı"
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "nach Kräften" <!-- TODO: Fallback translation -->
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "gücünce"
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "nach vorn, entgegen" <!-- TODO: Fallback translation -->
+⟪अभिमुखम्⟫ = ⟪मुखम् अभि⟫ = "öne, karşı"
 :::
-Besonders wichtig sind ⟪अव्ययीभाव⟫ mit ⟪यथा⟫ "wie" als Vorderglied: <!-- TODO: Fallback translation -->
+Özellikle ⟪अव्ययीभाव⟫ ile ⟪यथा⟫ "nasıl" ön bileşeni olarak önemlidir:
 
-z.B. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "wie es der Wunsch ist, nach Wunsch, beliebig" <!-- TODO: Fallback translation -->
+örn. ⟪यथाकामम्⟫ = ⟪कामो यथास्ति⟫ = "dilek gibi, dileğe uygun olarak, keyfi"
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
-Abb.: ⟪यथाशक्ति⟫
-(Bildquelle: [Details](/licenses#lekt3702)) <!-- TODO: Fallback translation -->
+Resim: ⟪यथाशक्ति⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3702))
 :::
-## 37.6. Syntaktisches <!-- TODO: Fallback translation -->
+## 37.6. Sözdizimsel Konular
 
 ::: grammar-box
-Bei den Verben <!-- TODO: Fallback translation -->
+Fiillerde
 
-*   ⟪अस्⟫ 2P "sein" <!-- TODO: Fallback translation -->
-*   ⟪भू⟫ 1P <!-- TODO: Fallback translation -->
-*   ⟪कृ⟫ 8U <!-- TODO: Fallback translation -->
+*   ⟪अस्⟫ 2P "olmak"
+*   ⟪भू⟫ 1P
+*   ⟪कृ⟫ 8U
 
-kann statt eines prädikativen Adjektivs ein prädikatives Adverb stehen: <!-- TODO: Fallback translation -->
+yargısal bir sıfat yerine yargısal bir zarf bulunabilir:
 
-z.B. ⟪तूष्णीं⟫ ⟪बभूव⟫ "er wurde schweigend, er verstummte" <!-- TODO: Fallback translation -->
+örn. ⟪तूष्णीं बभूव⟫ "sessizleşti, sustu"
 :::
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
-Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Bildquelle: [Details](/licenses#lekt3703)) <!-- TODO: Fallback translation -->
+Resim: ⟪तूष्णीं बभूवुः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3703))
 :::
-## 37.7. Indefinitpronomina <!-- TODO: Fallback translation -->
+## 37.7. Belirsiz Zamirler
 
 ::: grammar-box
-Indefinitpronomina (unbestimmte Fürwörter) werden durch Anfügen von <!-- TODO: Fallback translation -->
+Belirsiz zamirler (unspecified pronouns), aşağıdaki eki eklenerek
 
-*   \-⟪चिद्⟫ <!-- TODO: Fallback translation -->
-*   \-⟪चन⟫ <!-- TODO: Fallback translation -->
-*   ⟪अपि⟫ <!-- TODO: Fallback translation -->
+*   \-⟪चिद्⟫
+*   \-⟪चन⟫
+*   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet. <!-- TODO: Fallback translation -->
+soru zamirinin ⟪किम्⟫ hallerine eklenerek oluşturulur.
 
-z.B. <!-- TODO: Fallback translation -->
+örn.
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "irgendeiner, irgendjemand"  
-⟪कस्यचिद्⟫ = irgendjemandes <!-- TODO: Fallback translation -->
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को ऽपि⟫ = "birisi, herhangi biri"  
+⟪कस्यचिद्⟫ = birisinin
 :::
-## 37.8. Der Fragesatz <!-- TODO: Fallback translation -->
+## 37.8. Soru Cümlesi
 
 ::: grammar-box
-"Wer?, wie?, was?, wieso? weshalb?, warum?  
-Wer nicht fragt bleibt dumm." <!-- TODO: Fallback translation -->
+"Kim?, nasıl?, ne?, neden? niçin? neden?  
+Soru sormayan aptal kalır."
 
-⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
-⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
-⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪कः कथं किं केन कस्मात्कस्मै । यो न पृच्छेन् मूर्खस्तिष्ठेत् ॥⟫
 
-Motto der Sesamstrasse, das eine gute Leitlinie fürs Leben und das Sanskritstudium ist <!-- TODO: Fallback translation -->
+Sesame Street'in moto sözü olup, yaşam ve Sanskritçe çalışması için iyi bir rehber niteliğindedir.
 :::
-Siehe auch [Lektion 4](lektion04.md). <!-- TODO: Fallback translation -->
+Ayrıca bkz. [Ders 4](lektion04.md).
 
-Man muss unterscheiden <!-- TODO: Fallback translation -->
+Ayrım yapmak gerekir:
 
-*   Wortfragen (Ergänzungsfragen) <!-- TODO: Fallback translation -->
-*   Satzfragen <!-- TODO: Fallback translation -->
+*   Kelime soruları (tamamlayıcı sorular)
+*   Cümle soruları
 
-Bei Wortfragen wird nach einem Agens (⟪कर्तृ⟫), einem Objekt, einer Tätigkeit, einem Umstand u. ä. gefragt, z.B. <!-- TODO: Fallback translation -->
+Kelime sorularında bir eyleyici (⟪कर्तृ⟫), bir nesne, bir eylem, bir durum vb. hakkında soru sorulur; örn.:
 
-*   wer kommt? <!-- TODO: Fallback translation -->
-*   was tut Rāma? <!-- TODO: Fallback translation -->
-*   wen hört er? <!-- TODO: Fallback translation -->
-*   wie spricht sie Sanskrit? <!-- TODO: Fallback translation -->
-*   wo ist die Mutter? <!-- TODO: Fallback translation -->
+*   kim geliyor?
+*   Rāma ne yapıyor?
+*   onu kim dinliyor?
+*   o Sanskrit'i nasıl konuşuyor?
+*   anne nerede?
 
-Bei Satzfragen wird der ganze Inhalt des Satzes erfragt, z.B. <!-- TODO: Fallback translation -->
+Cümle sorularında cümlenin tüm içeriği sorgulanır; örn.:
 
-*   geht Rāma heute nach Ofterdingen? <!-- TODO: Fallback translation -->
-*   ist es richtig, dass ... ? <!-- TODO: Fallback translation -->
+*   Rāma bugün Ofterdingen'e gidiyor mu?
+*   ... doğru mu?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen) <!-- TODO: Fallback translation -->
+### 37.8.1. Kelime Soruları (Tamamlayıcı Sorular)
 
 ::: grammar-box
-Schema: <!-- TODO: Fallback translation -->
+Şema:
 
-Fragepronomen/Frageadverb - Satz <!-- TODO: Fallback translation -->
+Soru Zamiri/Soru Zarfı - Cümle
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Wer geht ins Dorf?" <!-- TODO: Fallback translation -->
+⟪को ग्रामं गच्छति⟫ =  ⟪केन ग्रामो गम्यते⟫ = "Köye kim gidiyor?"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Was sollten Kinder lernen?" <!-- TODO: Fallback translation -->
+⟪किं बाला अधीयीरन्⟫ = "Çocuklar ne öğrenmeli?"
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Wo wohnt Rāma? <!-- TODO: Fallback translation -->
+⟪क्व रामो वसति⟫ = Rāma nerede yaşıyor?
 :::
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Bildquelle: [Details](/licenses#lekt3704)) <!-- TODO: Fallback translation -->
+Resim: ⟪किं बाला अधीयीरन्⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3704))
 :::
-### 37.8.2. Satzfragen <!-- TODO: Fallback translation -->
+### 37.8.2. Cümle Soruları
 
 ::: grammar-box
-Manchmal ist es nur aus dem Zusammenhang erkennbar, ob ein Satz ein Fragesatz ist. <!-- TODO: Fallback translation -->
+Bazen bir cümlenin soru cümlesi olup olmadığını yalnızca bağlamdan anlayabiliriz.
 :::
 ::: grammar-box
-Schema I: <!-- TODO: Fallback translation -->
+Şema I:
 
-Verb - restlicher Satz <!-- TODO: Fallback translation -->
+Fiil - cümlenin geri kalanı
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Wird der Brahmanenjunge zu einem Meister gehen?" <!-- TODO: Fallback translation -->
+⟪गमिष्यति ब्राह्मणबालो गुरुम् ।⟫ "Brahmana oğul bir ustaya mı gidecek?"
 :::
 ::: grammar-box
-Schema II: <!-- TODO: Fallback translation -->
+Şema II:
 
-Fragepartikel (meist am Satzanfang) - Satz <!-- TODO: Fallback translation -->
+> Soru edatı (genellikle cümlenin başında) - Cümle
 
-Die wichtigsten Fragepartikel sind: <!-- TODO: Fallback translation -->
+En önemli soru edatları şunlardır:
 
-*   ⟪अपि⟫ <!-- TODO: Fallback translation -->
+*   ⟪अपि⟫
 
-*   ⟪किम्⟫ (lässt oft eine negative Antwort erwarten) <!-- TODO: Fallback translation -->
+*   ⟪किम्⟫ (genellikle olumsuz bir yanıt beklentisi yaratır)
 
-*   ⟪कच्चिद्⟫ <!-- TODO: Fallback translation -->
+*   ⟪कच्चिद्⟫
 
-Diese Partikel entsprechen dem Fragezeichen. <!-- TODO: Fallback translation -->
+
+Bu edatlar soru işaretine karşılık gelir.
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Ist es auch wahr?" <!-- TODO: Fallback translation -->
+⟪अपि सत्यम् ।⟫ "Bu da doğru mu?"
 
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Kann er denn?" <!-- TODO: Fallback translation -->
+⟪किं शक्नोति ।⟫ "Acaba o yapabilir mi?"
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Hat etwa der Kṣatriya die Feinde besiegt?" <!-- TODO: Fallback translation -->
+⟪कच्चित्क्षत्रियेण शत्रवो जिताः ।⟫ "Acaba Kṣatriya düşmanları yenmiş midir?"
 :::
-Anmerkung: ⟪किम्⟫ kann ausser "was?" und als Fragepartikel auch "warum?, wozu?" bedeuten. So bes. mit dem Instrumentalis (⟪तृतीया⟫): <!-- TODO: Fallback translation -->
+Not: ⟪किम्⟫ "ne?" anlamının yanı sıra soru edatı olarak "neden?, ne için?" anlamlarını da taşıyabilir. Özellikle alet hal ile (⟪तृतीया⟫):
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Wozu der Zorn? Was nützt der Zorn? Was soll der Zorn?" <!-- TODO: Fallback translation -->
+⟪किं क्रोधेन ।⟫ "Öfkeye ne gerek? Öfke neye yarar? Öfkeden maksat nedir?"
 :::
-## 37.9. Wortliste <!-- TODO: Fallback translation -->
+## 37.9. Kelime Listesi
 
-⟪मूर्ख⟫ 3: stumpfsinnig, blöd, dumm m. Dummkopf <!-- TODO: Fallback translation -->
+⟪मूर्ख⟫ 3: aptal, salak, düm m. Aptal
 
-⟪मुनि⟫ m.: Weiser, (Schweige)asket <!-- TODO: Fallback translation -->
+⟪मुनि⟫ m.: Bilge, (sessizlik) ermiş
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: Asket aus dem Geschlecht der ⟪शाक्य⟫ (Kṣatriyas aus ⟪कपिलवस्तु⟫) = Buddha Gautama <!-- TODO: Fallback translation -->
+⟪शाक्यमुनि⟫ m.: ⟪शाक्य⟫ (Kṣatriyas from ⟪कपिलवस्तु⟫) soyundan ermiş = Buddha Gautama
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
-(Bildquelle: [Details](/licenses#lekt3705)) <!-- TODO: Fallback translation -->
+Resim: ⟪शाक्यमुनिः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: Tag <!-- TODO: Fallback translation -->
+⟪दिन⟫ n.: Gün
 
-⟪वृक्ष⟫ m.: Baum <!-- TODO: Fallback translation -->
+⟪वृक्ष⟫ m.: Ağaç
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3706)) <!-- TODO: Fallback translation -->
+Resim: ⟪वृक्षः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang <!-- TODO: Fallback translation -->
+⟪मुख⟫ n.: Ağız, yüz, ön kısım, başlangıç
 
-## 37.10. Übung <!-- TODO: Fallback translation -->
+## 37.10. Alıştırma
 
-A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter. Übersetzen Sie die Fragesätze. <!-- TODO: Fallback translation -->
+A) Aşağıdaki soruları parantez içinde belirtilen kelimeleri kullanarak Sanskritçe yanıtlayınız. Soru cümlelerini çeviriniz.
 
-Beispiel: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+Örnek: ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम आगच्छति । कस्मै ब्राह्मण्यन्नं ददौ ॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫) <!-- TODO: Fallback translation -->
+⟪क आर्यसत्यान्यजानात् ॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫) <!-- TODO: Fallback translation -->
+⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫) <!-- TODO: Fallback translation -->
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \&lt;Absolutiv\&gt;)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutiv\>) <!-- TODO: Fallback translation -->
+⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫) <!-- TODO: Fallback translation -->
+⟪किमेव शस्त्रं छिनत्ति ॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫) <!-- TODO: Fallback translation -->
+⟪किंकामः शत्रुरार्यैः सह युयुधे ॥७॥⟫ (⟪धनं जि⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫) <!-- TODO: Fallback translation -->
+⟪कया भिक्षुरादितः ॥८॥⟫ (⟪गुणवती शूद्रा⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫) <!-- TODO: Fallback translation -->
+⟪कुतः सुपुनर्भवं गम्यते ॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫) <!-- TODO: Fallback translation -->
+⟪केन शूद्रा न काम्येत ॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫) <!-- TODO: Fallback translation -->
+⟪किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती प्रज्ञा⟫)
 
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫) <!-- TODO: Fallback translation -->
-
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫) <!-- TODO: Fallback translation -->
+⟪कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Bildquelle: [Details](/licenses#lekt3707)) <!-- TODO: Fallback translation -->
+Resim: ⟪कृष्णः बलरामश्च⟫
+(Görsel kaynağı: [Details](/tr/licenses#lekt3707))
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫) <!-- TODO: Fallback translation -->
+⟪क्व मर्तुं सज्जना इच्छन्ति ॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3708)) <!-- TODO: Fallback translation -->
+Resim: ⟪क्व मर्तुं सज्जना इच्छन्ति⟫
+(Görsel kaynağı: [Details](/tr/licenses#lekt3708))
 :::
-⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫) <!-- TODO: Fallback translation -->
+⟪केषां धर्मो वेदाध्ययनम् ॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
-⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫) <!-- TODO: Fallback translation -->
+⟪कैर्वेदः प्रोक्तः ॥१५॥⟫ (⟪ऋषि⟫)
 
-⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫) <!-- TODO: Fallback translation -->
+⟪कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥⟫ (⟪पुत्र⟫)
 
-⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫) <!-- TODO: Fallback translation -->
+⟪का नरा लुभ्यन्ति ॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 
-⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫) <!-- TODO: Fallback translation -->
+⟪के नराः सुरूपा लुभ्यन्ति ॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
 
-⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫) <!-- TODO: Fallback translation -->
+⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Çevirin:
 
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
-⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+C) Aşağıdaki ⟪अव्ययीभाव⟫ çeviriniz:
 
-⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
-
-⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
-
-C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ : <!-- TODO: Fallback translation -->
-
-1\. ⟪अति⟫ Postposition mit Akk.: "über ... hinaus" <!-- TODO: Fallback translation -->
+1\. ⟪अति⟫ Akk. ile kullanılan postpozisyon: "... ötesine"
 
 ::: indent
-1.  ⟪अतिमात्रम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अतिवसन्तम्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अतिमात्रम्⟫
+2.  ⟪अतिवसन्तम्⟫
 :::
-2\. ⟪अधि⟫ "in" <!-- TODO: Fallback translation -->
+2\. ⟪अधि⟫ "içinde"
 
 ::: indent
-1.  ⟪अधिहरि⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अधिकेरलम्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अधिहरि⟫
+2.  ⟪अधिकेरलम्⟫
 :::
 ::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
-Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Bildquelle: [Details](/licenses#lekt3709)) <!-- TODO: Fallback translation -->
+Resim: ⟪अधिकेरलं वर्तन्ते⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "entsprechend, entlang, nach" <!-- TODO: Fallback translation -->
+3\. ⟪अनु⟫ "uygun, boyunca, göre"
 
 ::: indent
-1.  ⟪अनुरूपम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अनुदिनम्⟫ <!-- TODO: Fallback translation -->
-3.  ⟪अनुगङ्गम्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪अनुविष्णुम्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अनुरूपम्⟫
+2.  ⟪अनुदिनम्⟫
+3.  ⟪अनुगङ्गम्⟫
+4.  ⟪अनुविष्णुम्⟫
 :::
-4\. ⟪अप⟫ "ohne" <!-- TODO: Fallback translation -->
+4\. ⟪अप⟫ "olmadan"
 
 ::: indent
-1.  ⟪अपविष्णुम्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अपविष्णुम्⟫
 :::
-5\. ⟪अभि⟫ "in Richtung auf" <!-- TODO: Fallback translation -->
+5\. ⟪अभि⟫ "yönelik"
 
 ::: indent
-1.  ⟪अभिमुखम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अभ्यग्नि⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अभिमुखम्⟫
+2.  ⟪अभ्यग्नि⟫
 :::
-6\. ⟪आ⟫ "seit, bis, einschliesslich" <!-- TODO: Fallback translation -->
+6\. ⟪आ⟫ "beri, kadar, dahil"
 
 ::: indent
-1.  ⟪आबालवृद्धम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪आमरणम्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪आबालवृद्धम्⟫
+2.  ⟪आमरणम्⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Bildquelle: [Details](/licenses#lekt3710)) <!-- TODO: Fallback translation -->
+Resim: ⟪आबालवृद्धं लंदननगरे ववृतिरे⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3710))
 :::
-7\. ⟪उप⟫ "nahe" <!-- TODO: Fallback translation -->
+7\. ⟪उप⟫ "yakın"
 
 ::: indent
-1.  ⟪उपवृक्षम्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪उपवृक्षम्⟫
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3711)) <!-- TODO: Fallback translation -->
+Resim: ⟪उपवृक्षं सीदन्ति⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3711))
 :::
-8\. ⟪यथा⟫ <!-- TODO: Fallback translation -->
+8\. ⟪यथा⟫
 
 ::: indent
-1.  ⟪यथास्थानम्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 37.11. Tekrar Alıştırması
 
-Übersetzen Sie ins Sanskrit indem Sie ausschliesslich Verbformen des Perfekt verwenden: <!-- TODO: Fallback translation -->
+Sadece Perfect (Mükemmel) fiil çekimlerini kullanarak Sanskritçe'ye çevirin:
 
-Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuss eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte frassen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises! <!-- TODO: Fallback translation -->
+Bir zamanlar bir yaşlı adam başka bir köye giderken, yolda yoruldu. Dinlenmek için yanındaki bir mango ağacının dibine gitti. Bu ağaçta olgun meyveler vardı. Yaşlı adam bu meyvelere özlem duydı. Ancak ağaca çıkıp meyveleri alamadı. Neyse ki bu ağaçta meyveler yiyen bazı maymunlar vardı. Bunları görünce yaşlı adam sevindi. Ne yaptı? Birkaç taş aldı, maymunlara nişan aldı ve attı. Öfkelenen maymunlar bazı meyveler koparıp yaşlı adama attı. Yaşlı adam bunları memnuniyetle aldı ve istediği yere gitti. Bakın, yaşlının kaderine!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Abb.: ⟪क्व⟫): [Bildquelle: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3702.jpg** (Abb.: ⟪यथाशक्ति⟫): [Bildquelle: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3703.jpg** (Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Bildquelle: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3704.jpg** (Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt3705.jpg** (Abb.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Bildquelle: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3706.jpg** (Abb.: ⟪वृक्षः⟫): Jaipur [Bildquelle: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt3707.jpg** (Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-- **Image lekt3708.jpg** (Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Bildquelle: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt3709.jpg** (Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Bildquelle: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3710.jpg** (Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Bildquelle: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt3711.jpg** (Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Bildquelle: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-:::

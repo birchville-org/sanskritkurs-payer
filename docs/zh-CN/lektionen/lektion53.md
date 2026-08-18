@@ -636,18 +636,4 @@ Kurze Vokale sind a, i, u, ṛ, ḷ
 阿洛伊斯·玛丽亚·派尔（Alois Maria Payer）
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
-::: deleteme-box
-**资料来源**
-
-**派尔，阿洛伊斯 (1944–):** 梵语课程。 -- 第53课 53（学期假期）。 -- 版本日期为 2009-01-19。 -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
-
-圆满终结于 1984-02-15  
-电子版成功完成于 2009-01-19  
-阿洛伊斯·玛丽亚·派尔（Alois Maria Payer）  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-
-**派尔，阿洛伊斯 (1944–):** 梵语课程。 -- 第53课 53（学期假期）。 -- 原始表格53.9的图片来源：原始来源截图（派尔）。
-:::
 

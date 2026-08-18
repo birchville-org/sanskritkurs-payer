@@ -19,7 +19,7 @@ Veneración de Gaṇeśa
 ![](/images/lekt0102.webp)
 Fig.: Gaṇeśa, Adamspeak, Sri Lanka
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0102))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 :::
 ::: center

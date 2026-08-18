@@ -9,95 +9,87 @@ status: stable
 
 # 第12課
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Das Partizip Perfekt Passiv (PPP) <!-- TODO: Fallback translation -->
-- Die Bedeutung des PPP <!-- TODO: Fallback translation -->
-- Die Bildung des PPP <!-- TODO: Fallback translation -->
-- Gesetze der Lautverbindung im Wort <!-- TODO: Fallback translation -->
-- Passiv und PPP der bisher gelernten Wurzeln <!-- TODO: Fallback translation -->
-:::
 
 ## 12.1. Partizip Perfekt 被动语态 (PPP)
 
-Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktion mit dem sog. Partizip Perfekt Passiv (PPP). <!-- TODO: Fallback translation -->
+Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktion mit dem sog. Partizip Perfekt Passiv (PPP).
 
 ::: grammar-box
-**In Wirklichkeit ist das PPP kein echtes Partizip, da es nicht von einem Tempusstamm gebildet wird. Es ist vielmehr eine Nominalbildung zur Wurzel mit dem Primärsuffix -ta bzw. -na. Deshalb spricht man in der indischen Grammatik vom Suffix kta.** <!-- TODO: Fallback translation -->
+**In Wirklichkeit ist das PPP kein echtes Partizip, da es nicht von einem Tempusstamm gebildet wird. Es ist vielmehr eine Nominalbildung zur Wurzel mit dem Primärsuffix -ta bzw. -na. Deshalb spricht man in der indischen Grammatik vom Suffix kta.**
 :::
 
 ### 12.1.1. 及物动词的图式
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv** <!-- TODO: Fallback translation -->
+**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
 
-Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht überein. <!-- TODO: Fallback translation -->
+Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht überein.
 
-Ein Hilfsverb („sein“) ist nicht nötig. <!-- TODO: Fallback translation -->
+Ein Hilfsverb („sein“) ist nicht nötig.
 
-Beispiele: <!-- TODO: Fallback translation -->
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“ <!-- TODO: Fallback translation -->
-> <!-- TODO: Fallback translation -->
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“ <!-- TODO: Fallback translation -->
+Beispiele:
+> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
+>
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
 :::
 
 ### 12.1.2. 不及物动词和运动动词的图式 I
 
 ::: grammar-box
-**Agens (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv** <!-- TODO: Fallback translation -->
+**Agens (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
 
-In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung. <!-- TODO: Fallback translation -->
+In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung.
 
-Beispiel: <!-- TODO: Fallback translation -->
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“ <!-- TODO: Fallback translation -->
+Beispiel:
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
 :::
 
 ### 12.1.3. 不及物动词和运动动词的方案 II
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum** <!-- TODO: Fallback translation -->
+**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
 
-Beispiel: <!-- TODO: Fallback translation -->
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“ <!-- TODO: Fallback translation -->
+Beispiel:
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“
 
-Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I. <!-- TODO: Fallback translation -->
+Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I.
 :::
 
 ## 12.2. Zur Bedeutung des PPP
 
-Während also das sog. „Partizip Perfekt Passiv“ für transitive Verben in erster Linie passive Bedeutung hat (**āpta** = „erreicht (worden)“) und für intransitive Verben und Verben der Bewegung aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann: <!-- TODO: Fallback translation -->
+Während also das sog. „Partizip Perfekt Passiv“ für transitive Verben in erster Linie passive Bedeutung hat (**āpta** = „erreicht (worden)“) und für intransitive Verben und Verben der Bewegung aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann:
 
-z.B. <!-- TODO: Fallback translation -->
-- **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv) <!-- TODO: Fallback translation -->
-- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv) <!-- TODO: Fallback translation -->
+z.B.
+- **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv)
+- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv)
 
-## 12.3. Bildung des PPP <!-- TODO: Fallback translation -->
+## 12.3. Bildung des PPP
 
 ::: grammar-box
-Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu lernen!): <!-- TODO: Fallback translation -->
+Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu lernen!):
 
-**(meist) tiefstufige Wurzel** <!-- TODO: Fallback translation -->
+**(meist) tiefstufige Wurzel**
 
-- **+ -ta** <!-- TODO: Fallback translation -->
-  - mit Bindevokal **-i-** davor: **-ita** <!-- TODO: Fallback translation -->
-  - **+ -na** <!-- TODO: Fallback translation -->
-- **+ -na** <!-- TODO: Fallback translation -->
+- **+ -ta**
+  - mit Bindevokal **-i-** davor: **-ita**
+  - **+ -na**
+- **+ -na**
 
-Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert wie **phala** n. <!-- TODO: Fallback translation -->
+Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert wie **phala** n.
 :::
 
 ### 12.3.1. PPP auf -ta (kta)
 
-#### 12.3.1.1. Ohne Bindevokal -i- (aniṭ) <!-- TODO: Fallback translation -->
+#### 12.3.1.1. Ohne Bindevokal -i- (aniṭ)
 
-*aniṭ* = „ohne (*an-*) dem Suffix vorangestelltes (*-i-*) *t*“ (d.h. ohne den Bindevokal *i*). <!-- TODO: Fallback translation -->
+*aniṭ* = „ohne (*an-*) dem Suffix vorangestelltes (*-i-*) *t*“ (d.h. ohne den Bindevokal *i*).
 
 ::: grammar-box
-Ohne Bindevokal bildet man das PPP im Allgemeinen von vokalisch auslautenden Wurzeln sowie vielen anderen Wurzeln, ohne dass man eine feste Regel dafür angeben könnte, bei wie strukturierten Wurzeln der Bindevokal auftritt oder nicht. <!-- TODO: Fallback translation -->
+Ohne Bindevokal bildet man das PPP im Allgemeinen von vokalisch auslautenden Wurzeln sowie vielen anderen Wurzeln, ohne dass man eine feste Regel dafür angeben könnte, bei wie strukturierten Wurzeln der Bindevokal auftritt oder nicht.
 
-Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298. <!-- TODO: Fallback translation -->
+Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**Beispiele:**
 
 ::: grammar-box
 | Wurzel | PPP (kta) |
@@ -115,11 +107,11 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298. <!
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
-#### 12.3.1.2. Mit Bindevokal -i- (seṭ) <!-- TODO: Fallback translation -->
+#### 12.3.1.2. Mit Bindevokal -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*). <!-- TODO: Fallback translation -->
+*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
 
-**Beispiele:** <!-- TODO: Fallback translation -->
+**Beispiele:**
 
 ::: grammar-box
 | Wurzel | PPP (kta) |
@@ -132,7 +124,7 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298. <!
 
 ## 12.4. Gesetze der Lautverbindung im Wort
 
-Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beachten. **Diese Gesetze sind für das Verständnis der gesamten Sanskrit-Formenlehre sehr wichtig.** <!-- TODO: Fallback translation -->
+Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beachten. **Diese Gesetze sind für das Verständnis der gesamten Sanskrit-Formenlehre sehr wichtig.**
 
 ::: no-header
 | | |
@@ -148,42 +140,42 @@ Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beach
 
 ## 12.5. 词汇表
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete) <!-- TODO: Fallback translation -->
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
 
 ::: media
 ![](/images/lekt1201.webp)
 Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Bildquelle: [Details](/licenses#lekt1201)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen <!-- TODO: Fallback translation -->
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen <!-- TODO: Fallback translation -->
-- **mṛga** m. ⟪मृग⟫ : Wildtier <!-- TODO: Fallback translation -->
-- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel) <!-- TODO: Fallback translation -->
+- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
+- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
+- **mṛga** m. ⟪मृग⟫ : Wildtier
+- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
 
 ::: media
 ![](/images/lekt1202.webp)
 Abb.: ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#lekt1202)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : auch (nachgestellt) <!-- TODO: Fallback translation -->
+- **api** ⟪अपि⟫ : auch (nachgestellt)
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.: <!-- TODO: Fallback translation -->
+Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen <!-- TODO: Fallback translation -->
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln <!-- TODO: Fallback translation -->
+- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
+- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln
 
-Zur Wortbildung: <!-- TODO: Fallback translation -->
+Zur Wortbildung:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung <!-- TODO: Fallback translation -->
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe <!-- TODO: Fallback translation -->
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt) <!-- TODO: Fallback translation -->
+- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung
+- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe
+- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
 
 ::: media
 ![](/images/lekt1203.webp)
 Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Bildquelle: [Details](/licenses#lekt1203)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan. <!-- TODO: Fallback translation -->
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
 
 ### 12.5.1. 被动语态 und PPP der bisher gelernten Wurzeln
 
@@ -236,9 +228,9 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ## 12.6. 练习
 
-**A) Bilden Sie aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.** <!-- TODO: Fallback translation -->
+**A) Bilden Sie aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.**
 
-**B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.** <!-- TODO: Fallback translation -->
+**B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
 
-**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.** <!-- TODO: Fallback translation -->
+**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.**
 

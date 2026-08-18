@@ -264,11 +264,3 @@ status: stable
 (منبع تصویر: [جزئیات](/licenses#lekt5401))
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ تیروپتی = తిరుపati [منبع تصویر: راجی سرینواس / ویکی‌پدیا. مجوز FD گنو]
-
-**lekt5401:** تامیل نادو [منبع تصویر: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- دسترسی در ۲۰۰۹-۰۱-۲۸. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک مشابه)]
-
-:::
-

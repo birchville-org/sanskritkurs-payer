@@ -31,13 +31,13 @@ status: stable
 ตัวอย่าง:
 
 ::: indent
-⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t) <!-- TODO: Fallback translation -->
+⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t)
 
 ⟪सु⟫
 *   3. sg. Impf. P. ⟪असुनोत्⟫ (a-suno-t)
 *   3. pl. Impf. P. ⟪असुन्वन्⟫ (a + sunu + an)
 :::
-## 32.3. กฎเกณฑ์เกี่ยวกับ Augment <!-- TODO: Fallback translation -->
+## 32.3. กฎเกณฑ์เกี่ยวกับ Augment
 
 ::: grammar-box
 **1. หากอ็อกเมนต์ a- นำหน้ารากศัพท์ที่มีเสียงสระนำ อ็อกเมนต์และเสียงต้นของรากศัพท์จะรวมกันเป็น ⟪वृद्धि⟫ ของเสียงสระรากศัพท์**
@@ -50,7 +50,7 @@ status: stable
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | <!-- TODO: Fallback translation -->
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
 :::
 ::: grammar-box
@@ -65,7 +65,7 @@ status: stable
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
-| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) | <!-- TODO: Fallback translation -->
+| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
 ## 32.4. ตัวอย่างการสร้างรูปอิมเพอร์เฟกต์
@@ -633,26 +633,5 @@ C) จงแปลเป็นภาษาสันสกฤต:
 ภาพประกอบ: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 ลิงในต้นมะม่วง
 (แหล่งที่มาภาพ: [รายละเอียด](/th/licenses#lekt3210))
-:::
-
-::: deleteme-box
-
-**lekt3202:** ต้นมะม่วง คานปุร์. [แหล่งที่มาภาพ: AmarChandra / Wikipedia. CC BY-SA]
-
-**lekt3203:** ลิง (macaque รhesus) ในเดลี. [แหล่งที่มาภาพ: dewalt / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
-
-**lekt3204:** เหมืองหิน ทางใต้ของปุเน มหาราษฏระ. [แหล่งที่มาภาพ: lecercle / Flickr. CC BY-NC-SA]
-
-**lekt3205:** การฝึกเป้าหมาย / เป้าลูกศร กานาตาكا. [แหล่งที่มาภาพ: mattlogelin / Flickr. CC BY-NC]
-
-**lekt3207:** การเผาขี้วัวในราชสถาน. [แหล่งที่มาภาพ: thebigdurian / Flickr. CC BY-NC-SA]
-
-**lekt3206:** ภาพเมห์นดีบนมือในมุมไบ. [แหล่งที่มาภาพ: the_gman / Flickr. CC BY-NC-SA]
-
-**lekt3208:** นักบวชพุทธในศรีลังกา. [แหล่งที่มาภาพ: Trollderella / Wikipedia. GNU FDL]
-
-**lekt3209:** คำทักทาย/คำลาของอินเดีย. [แหล่งที่มาภาพ: dhyanji / Flickr. CC BY-NC-ND]
-
-**lekt3210:** ลิงในต้นมะม่วง. [แหล่งที่มาภาพ: Wikipedia. GNU FDL]
 :::
 

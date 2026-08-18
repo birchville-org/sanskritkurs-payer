@@ -24,11 +24,11 @@ features:
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+**Kursus Sanskerta** karya Alois Payer adalah kursus komprehensif dan berbasis ilmiah untuk mempelajari bahasa Sanskerta dan aksara Devanāgarī. Edisi digital ini menyajikan seluruh kursus dalam lingkungan baca modern, multibahasa, dan dapat dicari.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Bahasa-bahasa telah diterjemahkan sepenuhnya secara otomatis dari bahasa Jerman dengan bantuan AI (Qwen3.6-32B). Laporan mengenai kesalahan terjemahan sangat diterima dengan baik.
+**Catatan & Kontak**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Berpartisipasi sebagai Lektor atau Kurator**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+**Editor Open-Source Zentauri**: Editor Markdown mandiri di [GitHub](https://github.com/marcodem/zentauri)
+**Wiki Pengembang & Arsitektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

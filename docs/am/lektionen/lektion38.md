@@ -587,20 +587,3 @@ PPP ⟪सृत⟫
 
 ⟪युष्माकम्⟫ የባለቤትነት.ብዙ ለ :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: ምስል፡ ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  ባንጋሎር = ಬೆಂಗಳೂರು \[የምስል ምንጭ: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- የተገኘው በ 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)የጋራ ፈጠራ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ)\]
-- **lekt3802.jpg**: ምስል፡ ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, ኮናርክ = ⟪कोनार्क⟫ \[የምስል ምንጭ: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- የተገኘው በ 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)የጋራ ፈጠራ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ)\]
-- **lekt3803.jpg**: ምስል፡ ⟪सीमा⟫  በዋጋህ የሚገኝ በህንድና በፓኪስታን መካከል ያለው የድንበር ማቋረጫ (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[የምስል ምንጭ: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- የተገኘው በ 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)የጋራ ፈጠራ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ በተመሳሳይ መልኩ ማጋራት)\]
-- **lekt3804.jpg**: ምስል፡ ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  ጋንዳራ፣ 2ኛ/3ኛ ክፍለ ዘመን ከክርስቶስ ልደት በኋላ \[የምስል ምንጭ: Wikipedia. የህዝብ ንብረት\]
-- **lekt3805.jpg**: ምስል፡ ⟪उदकम्⟫  የዳሬዋዲ መንደር፣ አህመድ ናጋር ወረዳ = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[የምስል ምንጭ: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- የተገኘው በ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)የጋራ ፈጠራ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ በተመሳሳይ መልኩ ማጋራት)\]
-- **lekt3806.jpg**: ምስል፡ ⟪हस्ती⟫  ናጋርሆሌ ብሔራዊ ፓርክ = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[የምስል ምንጭ: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- የተገኘው በ 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)የጋራ ፈጠራ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ በተመሳሳይ መልኩ ማጋራት)\]
-- **lekt3807.jpg**: ምስል፡ ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[የምስል ምንጭ: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- የተገኘው በ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)የጋራ ፈጠራ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ ምንም ዓይነት ማሻሻያ አለመፍቀድ)\]
-- **lekt3808.jpg**: ምስል፡ ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930ዎቹ \[የምስል ምንጭ: Wikipedia. የህዝብ ንብረት\]
-- **lekt3809.jpg**: ምስል፡ ⟪ब्रह्मा⟫  ሃሌቢዱ = ಹಳೆಬೀಡು \[የምስል ምንጭ: Wikipedia. GNU FDLicense\]
-- **lekt3810.jpg**: ምስል፡ የአሾካ ዛፍ = _Saraca asoca_ (Roxb.) Wilde  ኮልካታ = কলকাতা \[የምስል ምንጭ: J.M.Garg / Wikipedia. GNU FDLicense\]
-- **lekt3811.jpg**: ምስል፡ የአሾካ ግዛት ከፍተኛ መስፋፋት እና የድንጋይና የአምድ ጽሑፎቹ የተገኙባቸው ቦታዎች \[የምስል ምንጭ: Wikipedia.GNU FDLicense\]
-- **lekt3812.jpg**: ምስል፡ ⟪विनोदः⟫  የካሮም ጨዋታ \[የምስል ምንጭ: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- የተገኘው በ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)የጋራ ፈጠራ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ በተመሳሳይ መልኩ ማጋራት)\]
-- **lekt3813.jpg**: ምስል፡ ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[የምስል ምንጭ: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- የተገኘው በ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)የጋራ ፈጠራ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ)\]
-- **lekt3814.jpg**: ምስል፡ ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[የምስል ምንጭ: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- የተገኘው በ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)የጋራ ፈጠራ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ ምንም ዓይነት ማሻሻያ አለመፍቀድ)\]
-:::

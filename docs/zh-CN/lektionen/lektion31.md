@@ -214,15 +214,3 @@ B) 为以下第七类词根，构成第三人称单数和复数，P（Parasmaipa
 
 ⟪५⟫。⟪भञ्ज्⟫（仅P）
 
-::: deleteme-box
-
-**lekt3101:** 瑜伽图示。[图片来源：Flickr，2008-12-25。CC BY]
-
-**lekt3102:** 卡塔克利舞（Kathakali）排练，科钦。[图片来源：winchrisabi。Flickr，2008-12-25。CC BY]
-
-**lekt3103:** 出自《般若波罗蜜多》手稿。[图片来源：zeno.org。公有领域]
-
-**lekt3105:** 18年印度骑兵 regiment（印度军队）在1965年印巴战争期间的装甲车。[图片来源：Hari Singh Deora / 维基百科。公有领域]
-
-**lekt3104:** 佛陀之子罗睺罗，老挝。[图片来源：Sacca / 维基百科。GNU FDL]
-:::

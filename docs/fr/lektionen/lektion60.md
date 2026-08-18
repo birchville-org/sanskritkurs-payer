@@ -19,7 +19,7 @@ status: stable
 
 ## 60.2. Le duel du parfait redoublé (⟪द्वित्वलिट्⟫)
 
-### 60.2.1. Typ 1: keine Stammabstufung <!-- TODO: Fallback translation -->
+### 60.2.1. Typ 1: keine Stammabstufung
 
 ⟪बन्ध्⟫ 9P « lier »
 

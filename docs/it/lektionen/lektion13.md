@@ -1,10 +1,11 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "Lezione 13"
+subtitle: "PPP su -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lezione 13
@@ -51,51 +52,48 @@ ad esempio:
 ::: indent
 ⟪गत⟫ n.: "il camminare, il passo"
 ⟪नृत्त⟫ n.: "il ballare, il ballo"
-:::
-
-## 13.3. Determinazioni attributive dei nomi (ordine delle parole)
 
 ::: grammar-box
 
-Gli attributi (accessori) nella prosa si trovano nell'ordine normale delle parole prima della parola che specificano. Gli attributi aggettivali concordano con il nome in numero, caso e genere:
+Gli attributi (modificatori) nella prosa si collocano nell'ordine normale delle parole prima del termine che specificano. Gli attributi aggettivali concordano con il sostantivo in numero, caso e genere:
 
 Esempio:
 
 :::
 ::: indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Un santo vede il frutto desiderato (dei suoi meriti)."
+⟪साधुरिष्टं फलं पश्यति⟫ = "Un santo vede il frutto desiderato (delle sue opere)."
 :::
 
-## 13.4. Formazione di aggettivi su -mant e -vant (taddhita)
+## 13.4. Formazione di aggettivi in -mant e -vant (taddhita)
 
 ::: grammar-box
 
 Mediante i suffissi taddhita -mant o -vant si formano aggettivi possessivi da sostantivi. Il loro significato è: "che possiede ciò che è designato dal sostantivo sottostante".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. &lt;!-- TODO: Fallback translation --&gt;
+vant si aggiunge a sostantivi la cui ultima o penultima lettera è una a, ā o m, nonché a sostantivi che terminano con un consonante occlusiva; ad altri sostantivi si aggiunge solitamente -mant.
 
 Esempi:
 
 :::
 ::: indent
-⟪पशुमन्त्⟫ "possidente bestiame"
+⟪पशुमन्त्⟫ "che possiede bestiame"
 
-⟪गुणवन्त्⟫ "possidente buone qualità / virtù"
+⟪गुणवन्त्⟫ "che possiede buone qualità / virtù"
 :::
 
-## 13.5. Alternanza di stemma dei sostantivi
+## 13.5. Gradazione della radice dei sostantivi
 
-Gli stemmi su -mant o -vant appartengono agli stemmi nominali con alternanza di stemma.
+I temi in -mant o -vant appartengono ai temi nominali con gradazione della radice.
 
 ::: grammar-box
-Negli stemmi nominali con alternanza di stemma si distingue tra casi forti e casi deboli. Nei casi forti, il suffisso formante lo stemma — negli stemmi radicali la componente radicale — ha il grado pieno o allungato, nei casi deboli il grado ridotto.
+Nei temi nominali con gradazione della radice si distingue tra casi forti e deboli (casi). Nei casi forti il suffisso che forma la radice — nei nomi radicali la componente radicale — ha lo stadio forte o allungato, mentre nei casi deboli ha lo stadio debole.
 :::
 **I casi forti sono:**
 
 | | Singolare:br⟪एकवचन⟫ | Duale:br⟪द्विवचन⟫ | Plurale:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativo:br⟪प्रथमा⟫:brAccusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ | Nominativo:br⟪प्रथमा⟫:brAccusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ | Nominativo:br⟪प्रथमा⟫:br:brVocativo:br⟪सम्बोधनप्रथमा⟫ |
-| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativo:br⟪प्रथमा⟫:brAccusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ |
+| **Per maschili e femminili** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativo:br⟪प्रथमा⟫:brAccusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ | Nominativo:br⟪प्रथमा⟫:brAccusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ | Nominativo:br⟪प्रथमा⟫:br:brVocativo:br⟪सम्बोधनप्रथमा⟫ |
+| **Per neutri** :br⟪नपुंसक⟫ | — | — | Nominativo:br⟪प्रथमा⟫:brAccusativo:br⟪द्वितीया⟫:brVocativo:br⟪सम्बोधनप्रथमा⟫ |
 
 **Tutti gli altri casi sono deboli.**
 

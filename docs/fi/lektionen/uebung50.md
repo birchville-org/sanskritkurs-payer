@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 50
 
-A) Taivutuksen toistamiseen: Seuraava säkeistö sisältää kaikki taivutusmuodot yksikössä sanalle ⟪गुरु⟩ m.: <!-- TODO: Fallback translation -->
+A) Taivutuksen toistamiseen: Seuraava säkeistö sisältää kaikki taivutusmuodot yksikössä sanalle ⟪गुरु⟩ m.:
 
 **⟪गुरुरेव⟩ ⟪गतिर्गुरुमेव⟩ ⟪भजे⟩**
 **⟪गुरुणैव⟩ ⟪सहास्मि⟩ ⟪नमो⟩ ⟪गुरवे⟩ ⟪।⟩**
@@ -24,11 +24,11 @@ A) Taivutuksen toistamiseen: Seuraava säkeistö sisältää kaikki taivutusmuod
 > Ei ole mitään korkeampaa kuin opettaja,
 > Olen opettajani lapsi,
 > Sydämeni on opettajassani,
-> Opettaja, suojelkoon minua! <!-- TODO: Fallback translation -->
+> Opettaja, suojelkoon minua!
 
 ---
 
-## B) Käännökset <!-- TODO: Fallback translation -->
+## B) Käännökset
 
 ### ⟪मनुस्मृति⟩ ⟪४⟩, ⟪१७८⟩
 
@@ -37,7 +37,7 @@ A) Taivutuksen toistamiseen: Seuraava säkeistö sisältää kaikki taivutusmuod
 **⟪तेन⟩ ⟪यायात्सतां⟩ ⟪मार्गम्⟩**
 **⟪तेन⟩ ⟪गच्छन्न⟩ ⟪रिष्यते⟩ ⟪॥⟩ ⟪१⟩ ⟪॥⟩**
 
-> Mene hyvien tie, jota isät ovat käyneet, jota isoisät ovat käyneet. Jos kulkee tällä tiellä, ei kohtaa haittaa. <!-- TODO: Fallback translation -->
+> Mene hyvien tie, jota isät ovat käyneet, jota isoisät ovat käyneet. Jos kulkee tällä tiellä, ei kohtaa haittaa.
 
 ### ⟪मनुस्मृति⟩ ⟪३⟩, ⟪६३⟩
 
@@ -55,7 +55,7 @@ A) Taivutuksen toistamiseen: Seuraava säkeistö sisältää kaikki taivutusmuod
 **⟪यस्मिन्नेव⟩ ⟪कुले⟩ ⟪नित्यम्⟩**
 **⟪कल्याणं⟩ ⟪तत्र⟩ ⟪वै⟩ ⟪ध्रुवम्⟩ ⟪॥⟩ ⟪३⟩ ⟪॥⟩**
 
-> Perhe, jossa mies on aina vaimoonsa tyytyväinen ja vaimo mieheen, sellaisessa perheessä on aina varma onni. <!-- TODO: Fallback translation -->
+> Perhe, jossa mies on aina vaimoonsa tyytyväinen ja vaimo mieheen, sellaisessa perheessä on aina varma onni.
 
 ::: media
 ![](/images/uebung081.webp)
@@ -64,7 +64,7 @@ Kuv.: ⟪संतुष्टो⟩ ⟪भार्यया⟩ ⟪भर्त
 :::
 ---
 
-### ⟪मनुस्मृति⟩ ⟪३⟩, ⟪७५⟩ - ⟪७६⟩: Uhraamisen välttämättömyydestä <!-- TODO: Fallback translation -->
+### ⟪मनुस्मृति⟩ ⟪३⟩, ⟪७५⟩ - ⟪७६⟩: Uhraamisen välttämättömyydestä
 
 **⟪स्वाध्याये⟩ ⟪नित्ययुक्तः⟩ ⟪स्याद्⟩**
 **⟪दैवे⟩ ⟪चैवेह⟩ ⟪कर्मणि⟩ ⟪।⟩**
@@ -76,14 +76,14 @@ Kuv.: ⟪संतुष्टो⟩ ⟪भार्यया⟩ ⟪भर्त
 **⟪आदित्याज्जायते⟩ ⟪वृष्टिर्⟩**
 **⟪वृष्टेरन्नं⟩ ⟪ततः⟩ ⟪प्रजाः⟩ ⟪॥⟩ ⟪५⟩ ⟪॥⟩**
 
-> Pysy vakaasti vedojen opettelussa ja jumalille tarkoitetuissa rituaaleissa. Kuka osallistuu jumalille tarkoitettuihin rituaaleihin, saa tämän maailman elävistä ja elottomista asioista. Uhraus, joka heitetään oikein tuleen, menee aurinkoon, auringosta syntyy sadetta, sateesta ruokaa, siitä olennot. <!-- TODO: Fallback translation -->
+> Pysy vakaasti vedojen opettelussa ja jumalille tarkoitetuissa rituaaleissa. Kuka osallistuu jumalille tarkoitettuihin rituaaleihin, saa tämän maailman elävistä ja elottomista asioista. Uhraus, joka heitetään oikein tuleen, menee aurinkoon, auringosta syntyy sadetta, sateesta ruokaa, siitä olennot.
 
 ::: media
 ![](/images/uebung082.webp)
 Kuv.: ⟪दैवे⟩ ⟪कर्मणि⟩ ⟪युक्तो⟩ ⟪हि⟩ ⟪बिभर्तीदं⟩ ⟪चराचरम्⟩ ⟪॥⟩
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung082))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ### ⟪योगसूत्र⟩ ⟪२⟩, ⟪१६⟩ - ⟪१७⟩
 
@@ -95,7 +95,7 @@ Kuv.: ⟪दैवे⟩ ⟪कर्मणि⟩ ⟪युक्तो⟩ ⟪�
 
 ---
 
-### ⟪कौटिलीयार्थशास्त्र⟩ ⟪१⟩, ⟪१५⟩: Kuninkaan neuvonantajista <!-- TODO: Fallback translation -->
+### ⟪कौटिलीयार्थशास्त्र⟩ ⟪१⟩, ⟪१५⟩: Kuninkaan neuvonantajista
 
 
 **⟪न⟫ ⟪किंचिदवमन्येत⟫**
@@ -103,7 +103,7 @@ Kuv.: ⟪दैवे⟩ ⟪कर्मणि⟩ ⟪युक्तो⟩ ⟪�
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫
 **⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 
-> [Kuningas] ei saa hyljeksiä mitkään asiat, vaan hänen tulee kuunnella kaikkien mielipidettä. Viisas oppii myös pojan sanan, jos se on merkittävä. <!-- TODO: Fallback translation -->
+> [Kuningas] ei saa hyljeksiä mitkään asiat, vaan hänen tulee kuunnella kaikkien mielipidettä. Viisas oppii myös pojan sanan, jos se on merkittävä.
 
 ---
 
@@ -129,4 +129,3 @@ Kuv.: ⟪दैवे⟩ ⟪कर्मणि⟩ ⟪युक्तो⟩ ⟪�
 **⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 
 > **Guru**-nimellä kutsutaan brahmania, joka suorittaa sääntöjen mukaisesti Niṣeka-riittin ja muut rituaalit sekä synnyttää hänet ruoan kautta.
- <!-- TODO: Fallback translation -->

@@ -39,7 +39,7 @@ status: stable
 Ακανόνιστοι σχηματισμοί:
 
 ::: indent
-⟪अस्⟫ 4P "ρίχνω": ***:sig[⟪आस्थम्⟫], ⟪आस्थत्*** (για εξήγηση βλ. Thumb-Hauschild §541,4) <!-- TODO: Fallback translation -->
+⟪अस्⟫ 4P "ρίχνω": ***:sig[⟪आस्थम्⟫], ⟪आस्थत्*** (για εξήγηση βλ. Thumb-Hauschild §541,4)
 
 ⟪ख्या⟫ + ⟪आ⟫ 2P "μιλώ": ***:sig[⟪अख्यम्⟫], ⟪अख्यत्***
 
@@ -94,8 +94,3 @@ status: stable
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** «Ιναγιάτ Χάν στο σταθμό του θανάτου, σχέδιο για μινιατούρα χειρογράφου για τον Τζαχάνγκιρ = جهانگير, περίπου 1618 [Πηγή εικόνας: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Πρόσβαση στις 2009-01-28. Δημόσιο πεδίο]
-
-:::

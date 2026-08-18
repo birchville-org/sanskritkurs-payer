@@ -14,7 +14,7 @@ Traduisez :
 Celui qui voit que les actions sont accomplies par la nature matérielle seule (**⟪प्रकृति⟫**), celui-là voit que le Soi (**⟪आत्मा⟫**) est inactif.
 
 ⟪२⟫. **⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Kṛṣṇa est le Père, la Mère, le Grand-père et le Créateur de ce monde. <!-- TODO: Fallback translation -->
+Kṛṣṇa est le Père, la Mère, le Grand-père et le Créateur de ce monde.
 
 ⟪३⟫. **⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 "Maîtres, pères, fils, grands-pères, beaux-pères et petits-fils se sont disposés pour le combat. Je ne veux pas les tuer !" — ainsi parla Arjuna dans le Bhagavadgītā.

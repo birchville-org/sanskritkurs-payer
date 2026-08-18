@@ -5,7 +5,7 @@ lesson_id: 19
 
 # Luento 19
 
-## 19.1. Suhteellislause <!-- TODO: Fallback translation -->
+## 19.1. Suhteellislause
 
 ::: grammar-box
 
@@ -16,19 +16,19 @@ lesson_id: 19
 **Relatiivilause voi myös olla päälauskeen jälkeen, mutta sitä ei voida sijoittaa päälauskeeseen.**
 
 **Relatiivipronomini ja viitesana, jotka ovat — toisin kuin saksassa — relatiivilauseessa, ovat siinä sijamuodossa, jonka relatiivilause syntaktisesti vaatii. Demonstratiivipronomini on siinä sijamuodossa, jonka päälause syntaktisesti vaatii.**
-::: <!-- TODO: Fallback translation -->
+:::
 
 Esimerkit:
 
-Huomautus: Yleisluonteisissa suhteellisissa lauseissa optatiivia käytetään mielellään indikatiivin sijaan. Monia esimerkeistämme voitaisiin siis mieluummin ilmaista optatiivissa. <!-- TODO: Fallback translation -->
+Huomautus: Yleisluonteisissa suhteellisissa lauseissa optatiivia käytetään mielellään indikatiivin sijaan. Monia esimerkeistämme voitaisiin siis mieluummin ilmaista optatiivissa.
 
-**1. Lauseen subjektia (⟪कर्तृ⟩) määritetään tarkemmin suhteellisella lauseella:** <!-- TODO: Fallback translation -->
+**1. Lauseen subjektia (⟪कर्तृ⟩) määritetään tarkemmin suhteellisella lauseella:**
 
 :::
 ::: indent
 ⟪यो⟩ ⟪नरः⟩ ⟪पुण्यं⟩ ⟪करोति⟩ ⟪स⟩ ⟪स्वर्गं⟩ ⟪गच्छति⟩ =  ⟪यो⟩ ⟪नरः⟩ ⟪पुण्यं⟩ ⟪करोति⟩ ⟪तेन⟩ ⟪स्वर्गं⟩ ⟪गम्यते⟩ = ⟪येन⟩ ⟪नरेण⟩ ⟪पुण्यम्⟩ ⟪क्रियते⟩ ⟪तेन⟩ ⟪स्वर्गं⟩ ⟪गम्यते⟩ jne. = "Mies, joka tekee ansioituneita töitä, tulee taivaaseen."
 :::
-**2. Päälauseen suoraa objektia (⟪कर्म⟩) määritetään tarkemmin suhteellisella lauseella:** <!-- TODO: Fallback translation -->
+**2. Päälauseen suoraa objektia (⟪कर्म⟩) määritetään tarkemmin suhteellisella lauseella:**
 
 ::: indent
 ⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "Jumalat suojelevat brahmania, joka uhraa heille uhrinjohtajana."
@@ -38,7 +38,7 @@ Huomautus: Yleisluonteisissa suhteellisissa lauseissa optatiivia käytetään mi
 ::: indent
 ⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Miesten pojat, jotka tekevät pahaa, eivät saa rikkautta."
 :::
-**4. Suhteellinen pronomini ja viitesana ovat genetiivissä (⟪षष्ठी⟫):** <!-- TODO: Fallback translation -->
+**4. Suhteellinen pronomini ja viitesana ovat genetiivissä (⟪षष्ठी⟫):**
 
 ::: indent
 ⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "Mies ei ole onnellinen, jonka pojat tekevät pahaa."
@@ -57,7 +57,7 @@ Huomautus: Yleisluonteisissa suhteellisissa lauseissa optatiivia käytetään mi
 
 ::: grammar-box
 
-**⟪यद्⟫ "joka, mikä" taivutetaan kuten ⟪तद्⟫, mutta säännöllisellä sandhilla.** <!-- TODO: Fallback translation -->
+**⟪यद्⟫ "joka, mikä" taivutetaan kuten ⟪तद्⟫, mutta säännöllisellä sandhilla.**
 
 | | | **maskuliini** :br ⟪पुंस्⟫ | **neutri** :br ⟪नपुंसक⟫ | **feminiini** :br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
@@ -68,7 +68,7 @@ Huomautus: Yleisluonteisissa suhteellisissa lauseissa optatiivia käytetään mi
 | **monikko** :br ⟪बहुवचन⟫ | **1. nominatiivi** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. akkusatiivi** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. instrumentaali** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. genetiivi** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
+| | **6. genetiivi** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
 **Kokonaissanan etuliitteenä vartalo esiintyy muodossa ⟪यद्⟫ (huomioiden sandhin).**
 
@@ -78,7 +78,7 @@ Huomautus: Yleisluonteisissa suhteellisissa lauseissa optatiivia käytetään mi
 
 **⟪अर्थ⟫ m.:** tarkoitus, päämäärä, merkitys (sanasta), rikkaus, omaisuus, varallisuus. ⟪अर्थम्⟫ (akk.), ⟪अर्थेन⟫ (instr.) genetiivin kanssa tai tatpuruṣa-yhdyssanan jälkiosana: jonkin vuoksi, jotta.
 
-⟪अर्थ⟫ on yksi kolmesta elämän tarkoituksesta (⟪पुरुषार्थ⟫), kuten maallisessa ja uskonnollisessa kirjallisuudessa kuvataan: <!-- TODO: Fallback translation -->
+⟪अर्थ⟫ on yksi kolmesta elämän tarkoituksesta (⟪पुरुषार्थ⟫), kuten maallisessa ja uskonnollisessa kirjallisuudessa kuvataan:
 
 ::: indent
 **⟪धर्म⟫ m.:** ansainten saavuttaminen toimimalla oikein eli vähintään pahan välttäminen, joka seuraisi dharmasta noudattamatta jättämisestä
@@ -97,16 +97,16 @@ Kuvitus teokseen ⟪कामसूत्र⟫
 
 **⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** astua eteen, asettua jollekin kunnioittavassa asennossa
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** lähteä liikkeelle, poistua <!-- TODO: Fallback translation -->
+**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** lähteä liikkeelle, poistua
 
 san ⟪स्था⟫ :
 
 ::: indent
-**⟪स्थान⟫ n.:** paikka, (oikea) sijainti, kohde <!-- TODO: Fallback translation -->
+**⟪स्थान⟫ n.:** paikka, (oikea) sijainti, kohde
 
 **⟪स्थिति⟫ f.:** pysyminen, kestävyyys, jääräpäisyys
 :::
-**⟪गर्भ⟫ m.:** kohtu, lonkero, sisus, alkio / fetuksen. Bahuvrīhin lopussa usein: "sisus", esim. <!-- TODO: Fallback translation -->
+**⟪गर्भ⟫ m.:** kohtu, lonkero, sisus, alkio / fetuksen. Bahuvrīhin lopussa usein: "sisus", esim.
 
 ::: indent
 **⟪धनगर्भ⟫ 3:** "jonka sisus on kultaa = jossa raha sijaitsee"
@@ -119,7 +119,7 @@ Kuva: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** vesikannu = sadepilvi <!-- TODO: Fallback translation -->
+**⟪वारिद⟫ m.:** vesikannu = sadepilvi
 
 ::: media
 ![](/images/lekt1902.jpg)
@@ -127,7 +127,7 @@ Kuva: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** puhaltaa <!-- TODO: Fallback translation -->
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** puhaltaa
 
 siitä:
 
@@ -144,7 +144,7 @@ Kuv.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), perinteisessä asussa, on tapana Keralan eteläosissa. _Onappottan_ vierailee taloissa _onam_-juhlan aikana ja antaa siunausta. Viime aikoina _onappottan_ on harvinainen näky, rajoittuen kyliin."
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** oppinut, viisas ; 3: älykäs, perehtynyt (johonkin) <!-- TODO: Fallback translation -->
+**⟪पण्डित⟫ m.:** oppinut, viisas ; 3: älykäs, perehtynyt (johonkin)
 
 ::: media
 ![](/images/lekt1903.jpg)
@@ -152,7 +152,7 @@ Kuv.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 ⟪१९५९⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** asua jonkun luona, asuttaa (akk., lok.) ; vierailla, saapua johonkin (akk.) ; palvella, hoitaa, kunnioittaa ; harjoittaa, käyttää ; olla läsnä, harrastaa sukupuolisuhteita <!-- TODO: Fallback translation -->
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** asua jonkun luona, asuttaa (akk., lok.) ; vierailla, saapua johonkin (akk.) ; palvella, hoitaa, kunnioittaa ; harjoittaa, käyttää ; olla läsnä, harrastaa sukupuolisuhteita
 
 **⟪नि⟫ Präverb:** alas, sisään
 
@@ -160,7 +160,7 @@ Kuv.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪अमुत्र⟫ :** siellä, tuonpuoleisessa
 
-**⟪इह⟫ :** täällä, tällä puolella <!-- TODO: Fallback translation -->
+**⟪इह⟫ :** täällä, tällä puolella
 
 **⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** löytää
 
@@ -172,7 +172,7 @@ Kuv.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪बान्धव⟫ m.:** sukulainen
 
-**⟪हि⟫ :** denn, nimittäin (ei saa koskaan lauseen alussa) <!-- TODO: Fallback translation -->
+**⟪हि⟫ :** denn, nimittäin (ei saa koskaan lauseen alussa)
 
 ## 19.4. Harjoitus
 
@@ -182,7 +182,7 @@ Kuv.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 2\. Rāma uhraa hänestä huolehtivalle jumaluudelle.
 
-3\. Runoilija ylistää kṣatriyaa, jonka rikkautta hän haluaa. <!-- TODO: Fallback translation -->
+3\. Runoilija ylistää kṣatriyaa, jonka rikkautta hän haluaa.
 
 4\. Tuli polttaa miehen talon, joka ei kunnioita Agnia uhrauksella.
 
@@ -221,16 +221,3 @@ Selitys: ⟪यथाकालम्⟫ avyayībhāva-kompositum: oikeaan aikaan
 :::
 Selitys: ⟪पुमान्⟫ nominatiivin yksikkö sanasta ⟪पुंस्⟫ "mies"; ⟪लोके⟫ lokatiivin yksikkö sanasta ⟪लोक⟫ m.: ...ssa
 
-::: deleteme-box
-
-**lekt1809:** Kuvitus ⟪कामसूत्र⟩:n liitännäiseksi [Kuvälähde: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt1901:** Badami (ಬದಾಮಿ) [Kuvälähde: Sudarshan Bhat Khandige / Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt1902:** Goa (⟪गोंय⟩) [Kuvälähde: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Viitattu 8. joulukuuta 2008. -- Creative Commons -lisensoitu (Nimeäminen, ei kaupallista käyttöä, ei johdannaissuostumuksia)] <!-- TODO: Fallback translation -->
-
-**lekt1903:** ⟪१९५९⟩ [Kuvälähde: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), perinteisessä puvussa, on tapana Keralan eteläosissa. _Onappottan_ käy taloissa Onam-juhlan aikana ja antaa siunauksia. Viime aikoina _onappottan_ on harvinainen näky, rajoittuen kyliin." [Kuvälähde: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Haettu 2008-12-08. -- Creative Commons -lupa (Nimeäminen)]
-:::
- <!-- TODO: Fallback translation -->

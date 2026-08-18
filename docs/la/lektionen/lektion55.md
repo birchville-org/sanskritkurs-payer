@@ -92,11 +92,6 @@ Determina et scripto versa hasce formas, simulque aoristum in a- formam redige:
 Fig.: ⟪अजीर्यमिति⟫
 'Inâyat Khân moriens, consilium pro miniatura codicis Iahangīr = جهانگير circa annum 1618
 (Fons imaginis: [Detalia](/la/licenses#lekt5501))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt5501:** 'Inâyat Khân moriens, schéma pro miniaturam codicis Iahangir = جهانگير circa 1618 [fons imaginis: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accessus 2009-01-28. Res publica]
 
 :::

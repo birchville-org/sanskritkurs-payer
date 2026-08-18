@@ -1,10 +1,11 @@
 ---
-title: Lektion 40
+title: "บทที่ 40"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # บทที่ 40
@@ -405,7 +406,7 @@ Perfectus แบบประกอบสร้างจาก:
 
 :::
 ::: grammar-box
-Die kürzeren Formen, die oben an zweiter Stelle stehen (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden. <!-- TODO: Fallback translation -->
+Die kürzeren Formen, die oben an zweiter Stelle stehen (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden.
 
 ก่อนอนุภาค ⟪च⟫, ⟪वा⟫, ⟪एव⟫ ไม่สามารถใช้รูปแบบที่เรียกว่า enklitischen forms เหล่านี้ได้เช่นกัน:
 
@@ -647,11 +648,5 @@ B) จงเปลี่ยนรูปกริยาต่อไปนี้�
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
+ข้อความจาก: Otto Böhtlingk: Sanskrit-Chrestomathie หน้า 127f.
 
-- **Image lekt4005.jpg** (ภาพ: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): วาดาเซรี, อำเภอธัญจาวูร์ = தஞ்சாவூர் மாவட்டัม [ที่มาภาพ: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- เข้าถึงเมื่อ 2009-01-02. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, แบบเดียวกัน)]
-- **Image lekt4003.jpg** (ภาพ: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [ที่มาภาพ: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- เข้าถึงเมื่อ 2009-01-02. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต)]
-- **Image lekt4002.jpg** (ภาพ: ⟪तीर्थङ्करः⟫): [ที่มาภาพ: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- เข้าถึงเมื่อ 2009-01-02. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
-- **Image lekt4001.jpg** (ภาพ: ⟪विष्णोर्दशावताराः⟫): ตามเข็มนาฬิกา: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, ตรงกลาง: ⟪कृष्ण⟫ [ที่มาภาพ: วิกิพีเดีย. สาธารณสมบัติ]
-- **Image lekt4004.jpg** (ภาพ: ⟪स्वपन्ति⟫): ค้างคาวผลไม้อินเดีย (_Pteropus giganteus_), อห์เมดาบาด = અમદાવાદ [ที่มาภาพ: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- เข้าถึงเมื่อ 2009-01-02. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
-:::

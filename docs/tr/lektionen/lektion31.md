@@ -1,228 +1,207 @@
 ---
-title: Lektion 31
+title: "Ders 31"
 lesson_id: 31
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 31 <!-- TODO: Fallback translation -->
+---
 
-## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.") <!-- TODO: Fallback translation -->
+# Ders 31
 
-::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
-
-**Vor den auslautenden Konsonanten der tiefstufigen Wurzel wird ein sog. Nasalinfix (-na- bzw. -n-) eingeschoben:** <!-- TODO: Fallback translation -->
-
-*   **im starken Stamm: -na-** <!-- TODO: Fallback translation -->
-*   **im schwachen Stamm: -n-** <!-- TODO: Fallback translation -->
-
-**Für die Verbindung der Endkonsonanten der Wurzel mit konsonantisch beginnenden Endungen gelten dieselben Regeln wie für die 2. Präsensklasse.** <!-- TODO: Fallback translation -->
-:::
-Beispiele: <!-- TODO: Fallback translation -->
-
-⟪युज्⟫ 7U "verbinden, anschirren" <!-- TODO: Fallback translation -->
+## 31.1. 7. Şimdiki Zaman Sınıfı (⟪रुधादि⟫ = "⟪रुध्⟫ ve benzerleri")
 
 ::: grammar-box
+**Oluşum:**
 
-| | | Parasmaipada | Ātmanepada | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate | <!-- TODO: Fallback translation -->
-| **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran | <!-- TODO: Fallback translation -->
-| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | | <!-- TODO: Fallback translation -->
+**Derin ton kademeli kökün sonundaki ünsüzlerden önce, sözde bir nasal enflaksiyonu (-na- veya -n-) yerleştirilir:**
 
+*   **Güçlü kök: -na-**
+*   **Zayıf kök: -n-**
+
+**Kökün son ünsüzlerinin, ünsüzle başlayan eklerle birleşmesi için 2. Şimdiki Zaman Sınıfı ile aynı kurallar geçerlidir.**
 :::
-⟪रुध्⟫ 7U "stoppen, zum Stillstand bringen" <!-- TODO: Fallback translation -->
+Örnekler:
+
+⟪युज्⟫ 7U "bağlamak, yüklemek"
 
 ::: grammar-box
 
-| | | Parasmaipada | Ātmanepada | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ** | **3. sg.** | ⟪रुणद्धि⟫:brru + na + dh + ti | ⟪रुन्द्धे⟫:brru-n + dh + te | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate | <!-- TODO: Fallback translation -->
-| **Optativ** | **3. sg.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran | <!-- TODO: Fallback translation -->
-| **Partizip Präsens** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | | <!-- TODO: Fallback translation -->
+| | | Parasmaipada | Ātmanepada |
+| :--- | :--- | :--- | :--- |
+| **Gösterme Kipi** | **3. tekil.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:brr (kelime içindeki gutturallerden önce nasallar -ṅ- ile değiştirilir) |
+| | **3. çoğul.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
+| **Dilek Kipi** | **3. tekil.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
+| | **3. çoğul.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
+| **Şimdiki Zaman Ortak Adı** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brdiş.fem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+
+:::
+⟪रुध्⟫ 7U "durmak, durma noktasına getirmek"
+
+::: grammar-box
+
+| | | Parasmaipada | Ātmanepada |
+| :--- | :--- | :--- | :--- |
+| **Gösterme Kipi** | **3. tekil.** | ⟪रुणद्धि⟫:brru + na + dh + ti | ⟪रुन्द्धे⟫:brru-n + dh + te |
+| | **3. çoğul.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
+| **Dilek Kipi** | **3. tekil.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
+| | **3. çoğul.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
+| **Şimdiki Zaman Ortak Adı** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brdiş.fem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
 :::
 ::: grammar-box
-**Bei einigen Wurzeln ist das -n- des schwachen Präsensstamms auch in ausserpräsentische Tempora eingedrungen, sodass diese Wurzeln mit infigiertem Nasal angesetzt werden.** <!-- TODO: Fallback translation -->
+**Bazı köklerde zayıf geniş zaman kökünün -n- i, dış-zamanlara da sızarak bu köklerin nasal ekli olarak kurulmasını sağlamıştır.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 
-⟪भञ्ज्⟫ 7P "brechen" <!-- TODO: Fallback translation -->
+⟪भञ्ज्⟫ 7P "kırmak"
 
 ::: indent
-*   Indikativ Präsens <!-- TODO: Fallback translation -->
-    *   3.sg.P. ⟪भनक्ति⟫ (bha-na + j + ti) <!-- TODO: Fallback translation -->
-    *   3.pl.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti) <!-- TODO: Fallback translation -->
-*   Futur: ⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti) <!-- TODO: Fallback translation -->
-*   Passiv: ⟪भज्यते⟫ (entweder aus ursprünglicher Wurzel ⟪भज्⟫ oder aus *bhñj-ya-te) <!-- TODO: Fallback translation -->
-*   PPP: ⟪भग्न⟫ (evtl. aus *bhñj + na) <!-- TODO: Fallback translation -->
+*   Şimdiki Zaman Bildirme Kipi
+*   3.tekil.P. ⟪भनक्ति⟫ (bha-na + j + ti)
+*   3.çoğul.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti)
+*   Gelecek Zaman: ⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti)
+*   Edilgen: ⟪भज्यते⟫ (ya da orijinal kök ⟪भज्⟫ veya *bhñj-ya-te'den)
+*   PPP: ⟪भग्न⟫ (muhtemelen *bhñj + na'dan)
 :::
-## 31.2. Wortliste <!-- TODO: Fallback translation -->
+## 31.2. Kelime Listesi
 
-⟪युज्⟫ 7U ⟪युनक्ति⟫ : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, ⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U ⟪युनक्ति⟫ : bağlamak, takmak, yüklemek; Ā ayrıca: kendini zorlamak (= çaba göstermek), kendisini bir şeyle bağlamak, bir şeye odaklanmak (Yerlik Hali, ⟪सप्तमी⟫)
 ::: indent
-**Fut. ⟪योक्ष्यति⟫**
-**Pass. ⟪युज्यते⟫**
-**Kaus. ⟪योजयति⟫**
-**PPP ⟪युक्त⟫**
-**Inf. ⟪योक्तुम्⟫** <!-- TODO: Fallback translation -->
+**Gelecek Zaman: ⟪योक्ष्यति⟫**
+**Edilgen: ⟪युज्यते⟫**
+**Nedensel: ⟪योजयति⟫**
+**PPP: ⟪युक्त⟫**
+**Sıfat-fiil (Inf.): ⟪योक्तुम्⟫**
 
-davon:
-**⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter: <!-- TODO: Fallback translation -->
-1. ⟪कृत⟫ <!-- TODO: Fallback translation -->
-2. ⟪त्रेता⟫ <!-- TODO: Fallback translation -->
-3. ⟪द्वापर⟫ <!-- TODO: Fallback translation -->
-4. ⟪कलि⟫ <!-- TODO: Fallback translation -->
+bunlardan:
+**⟪युग⟫ n. → ⟪युग⟫ n.:** omuzluk, çift, dünya çağı (dört dünya çağı vardır:
+1. ⟪कृत⟫
+2. ⟪त्रेता⟫
+3. ⟪द्वापर⟫
+4. ⟪कलि⟫
 
-Das ⟪कलियुग⟫ begann um 3102 v. Chr., dem Jahr des ⟪महाभारत⟫-Krieges. Näheres bei Basham, Wonder S. 323) <!-- TODO: Fallback translation -->
+Bu ⟪कलियुग⟫ MÖ 3102'de, ⟪महाभारत⟫ savaşının yılında başlamıştır. Daha fazla bilgi için Basham, Wonder s. 323'e bakınız.)
 
-**⟪योग⟫ m.:** "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.) <!-- TODO: Fallback translation -->
+**⟪योग⟫ m.:** "bağlama, germe", çaba, bağlantı, Yoga (bkz. Basham, Wonder s. 327ff.)
 :::
 ::: media
 ![](/images/lekt3101.webp)
-Abb.: ⟪योगः⟫
-Yoga-Darstellung.
-(Bildquelle: [Details](/licenses#lekt3101)) <!-- TODO: Fallback translation -->
+Resim: ⟪योगः⟫
+Yoga temsili.
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3101))
 :::
-⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : stoppen, zum Stillstand bringen, zurückhalten = einschliessen, verdecken <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : durdurmak, hareketsiz bırakmak, geri tutmak = içine almak, örtmek
 ::: indent
-**Fut. ⟪रोत्स्यति⟫**
-**Pass. ⟪रुध्यते⟫**
-**Kaus. ⟪रोधयति⟫**
-**PPP ⟪रुद्ध⟫**
-**Inf. ⟪रोद्धुम्⟫** <!-- TODO: Fallback translation -->
+**Gelecek Zaman: ⟪रोत्स्यति⟫**
+**Edilgen: ⟪रुध्यते⟫**
+**Nedensel: ⟪रोधयति⟫**
+**PPP: ⟪रुद्ध⟫**
+**Sıfat-fiil (Inf.): ⟪रोद्धुम्⟫**
 :::
-⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : abschneiden <!-- TODO: Fallback translation -->
+⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : kesmek
 ::: indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
 **Kaus. ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
-**Inf. ⟪छेत्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪छेत्तुम्⟫**
 :::
-⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (etwas) zerbrechen <!-- TODO: Fallback translation -->
+⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (bir şeyi) kırmak, parçalamak
 ::: indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
-**PPP ⟪भग्न⟫** <!-- TODO: Fallback translation -->
+**PPP ⟪भग्न⟫**
 :::
-⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : salben, beschmieren <!-- TODO: Fallback translation -->
+⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : yağlamak, sürtmek
 ::: indent
-**Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
+**Fut. ⟪अङ्क्ष्यति । अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
-**Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪अञ्जितुम् । अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : auseinanderschmieren = sich schminken, sich unterschieden machen <!-- TODO: Fallback translation -->
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : yaymak = makyaj yapmak, farklılaşmak
 ::: indent
-**PPP ⟪व्यक्त⟫ :** unterschieden, entfaltet <!-- TODO: Fallback translation -->
+**PPP ⟪व्यक्त⟫ :** ayrılmış, yayılmış
 
-davon:
-**⟪व्यञ्जन⟫ n.:** Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden) <!-- TODO: Fallback translation -->
+bundan:
+**⟪व्यञ्जन⟫ n.:** ayırt edici unsur = makyaj, baharat, işaret, ünsüz (anlamları ayırt eden şey)
 :::
 ::: media
 ![](/images/lekt3102.webp)
-Abb.: ⟪व्यञ्जनम्⟫
-Vorbereitung zum Kathakali-Tanz, Kochi.
-(Bildquelle: [Details](/licenses#lekt3102)) <!-- TODO: Fallback translation -->
+Resim: ⟪व्यञ्जनम्⟫
+Kathakali dansı için hazırlık, Kochi.
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3102))
 :::
-⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : spalten <!-- TODO: Fallback translation -->
+⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : bölmek, yarmak
 ::: indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
 **Kaus. ⟪भेदयति⟫**
 **PPP ⟪भिन्न⟫**
-**Inf. ⟪भेत्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪भेत्तुम्⟫**
 :::
-⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : geniessen (z.B. Essen ; "die Erde geniessen" = die Erde beherrschen) <!-- TODO: Fallback translation -->
+⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : tadını çıkarmak (örn. yemek; "yeri tatmak" = yeri yönetmek)
 ::: indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
 **Kaus. ⟪भोजयति⟫**
 **PPP bhukt → PPP ⟪भुक्त⟫**
-**Inf. ⟪भोक्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪भोक्तुम्⟫**
 
-davon:
-**⟪भोग⟫ m.:** Genuss, Essen, Lust, Nutzen, Steuer, Abgabe <!-- TODO: Fallback translation -->
+bundan:
+**⟪भोग⟫ m.:** tad, yemek, zevk, fayda, vergi, haraç
 :::
-⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): binden, anbinden <!-- TODO: Fallback translation -->
+⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): bağlamak, takmak
 ::: indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
 **Kaus. ⟪बन्धयति⟫**
 **PPP ⟪बद्ध⟫**
-**Inf. ⟪बद्धुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪बद्धुम्⟫**
 
-davon:
-**⟪बन्धन⟫ n.:** Binden, Fessel <!-- TODO: Fallback translation -->
+bundan:
+**⟪बन्धन⟫ n.:** bağlama, zincir
 :::
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : erkennen, verstehen <!-- TODO: Fallback translation -->
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : tanımak, anlamak
 ::: indent
-davon:
-**⟪प्रज्ञा⟫ f.:** Weisheit, Erkenntnis <!-- TODO: Fallback translation -->
+bundan:
+**⟪प्रज्ञा⟫ f.:** bilgelik, kavrayış
 :::
 ::: media
 ![](/images/lekt3103.webp)
-Abb.: ⟪प्रज्ञापारमिता⟫
-Aus einem Prajñāpāramitā-Manuskript.
-(Bildquelle: [Details](/licenses#lekt3103)) <!-- TODO: Fallback translation -->
+Resim: ⟪प्रज्ञापारमिता⟫
+Bir Prajñāpāramitā el yazmasından.
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : entstehen, existieren <!-- TODO: Fallback translation -->
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : ortaya çıkmak, var olmak
 
-**⟪शरीर⟫ n.:** Leib, Körper <!-- TODO: Fallback translation -->
+**⟪शरीर⟫ n.:** beden, cisim
 
-## 31.3. Übung <!-- TODO: Fallback translation -->
+## 31.3. Alıştırma
 
-A) Übersetzen Sie folgende Sätze und lösen Sie die Komposita auf: <!-- TODO: Fallback translation -->
+A) Aşağıdaki cümleleri çevirin ve bileşik kelimeleri çözün:
 
-⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
-
-⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪प्रज्ञा दुःखसम्भवं रुन्ध्यादिति बुद्धिमानार्यबुद्धमार्गेण गच्छेत् ॥१॥ शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते ॥२॥⟫
 
 ::: media
 ![](/images/lekt3105.jpg)
-Abb.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
-Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
-(Bildquelle: [Details](/licenses#lekt3105)) <!-- TODO: Fallback translation -->
+Resim: ⟪शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते⟫
+1965 Hint-Pakistan Savaşı sırasında hareket halindeki Hindistan Ordusu'nun 18. Süvari Tugayı tankları.
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt3105))
 :::
-⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
-
-⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪बुद्ध्या युक्तो दुःखान्मुच्यते तस्मान्मोक्षमिच्छन्नरो योगेन युञ्जीत ॥३॥ पुत्रो जातो बन्धनं जातमिति सुगतो मत्वा कुलबन्धनं भिनत्ति । ततो भग्नबन्धो मोक्षनयन्तीं प्रज्ञामाप्तुमर्हति ॥४॥⟫
 
 ::: media
 ![](/images/lekt3104.webp)
-Abb.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
-Rāhula, der Sohn Buddhas, Laos.
-(Bildquelle: [Details](/licenses#lekt3104)) <!-- TODO: Fallback translation -->
+Resim: ⟪राहुलो जातो बन्धनं जातम्⟫
+Buddha'nın oğlu Rāhula, Laos.
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt3104))
 :::
-⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪समोहः स्वन्नानि च सुरूपाश्च भुङ्क्ते वीतमोहस्त्वन्नं च सम्पन्नरूपशरीरां च न लुभ्यति । स हि लोभं च क्रोधं च रुणद्धि प्रज्ञायां च युङ्क्ते ॥५॥⟫
 
-B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und Plural, P und Ā, des Indikativ und Optativ Präsens: <!-- TODO: Fallback translation -->
+B) Aşağıdaki 7. sınıf köklerine ait tüm 3. tekil ve çoğul şahıs, P ve Ā kiplerinde, bildirme (Indikativ) ve dilek (Optativ) kipi şimdiki zamanını oluşturun:
 
-⟪१⟫. ⟪छिद्⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪छिद् २⟫. ⟪भिद् ३⟫. ⟪भुज् ४⟫. ⟪अञ्ज्⟫ (yalnız P)
 
-⟪२⟫. ⟪भिद्⟫ <!-- TODO: Fallback translation -->
+⟪५⟫. ⟪भञ्ज्⟫ (yalnız P)
 
-⟪३⟫. ⟪भुज्⟫ <!-- TODO: Fallback translation -->
-
-⟪४⟫. ⟪अञ्ज्⟫ (nur P) <!-- TODO: Fallback translation -->
-
-⟪५⟫. ⟪भञ्ज्⟫ (nur P) <!-- TODO: Fallback translation -->
-
-::: deleteme-box
-
-**lekt3101:** Yoga-Darstellung. [Bildquelle: Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
-
-**lekt3102:** Vorbereitung zum Kathakali-Tanz, Kochi. [Bildquelle: winchrisabi. Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
-
-**lekt3103:** Aus einem Prajñāpāramitā-Manuskript. [Bildquelle: zeno.org. Gemeinfrei] <!-- TODO: Fallback translation -->
-
-**lekt3105:** Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War. [Bildquelle: Hari Singh Deora / Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt3104:** Rāhula, der Sohn Buddhas, Laos. [Bildquelle: Sacca / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
-:::

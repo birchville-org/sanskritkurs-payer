@@ -438,13 +438,3 @@ D) Traduzca:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt1801:** "Se ve a un joven niño durante el ritual de upanayana. El hilo amarillento y delgado que va del hombro izquierdo a la cintura es el Yagnopaivta. También se observa el cinturón de hierba munja alrededor de la cintura. La ramita en la mano derecha (generalmente del árbol peepa) significa su entrada en el Brahmacharya." [Fuente de la imagen: Nagesh Rao / Wikipedia, Licencia GNU FD]
-
-**lekt1802:** Impresión de 1770 [Fuente de la imagen: Wikipedia, Dominio público]
-
-**lekt1803:** ⟪गन्धार⟫ Siglos I/II d. C. [Fuente de la imagen: Wikipedia, Dominio público]
-
-**lekt1804:** Bodas = ⟪विवाह⟫ m., un importante ⟪संस्कारः⟫ [Fuente de la imagen: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Acceso el 2008-12-08. -- Licencia Creative Commons (Atribución, no uso comercial, sin obras derivadas)]
-:::

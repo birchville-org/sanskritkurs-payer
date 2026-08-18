@@ -122,7 +122,7 @@ status: stable
 
 ملاحظة: ¹ شرح **⟪जहि⟫** انظر thumb-Hauschild I,2 ص 253
 :::
-⟪स्तु⟫ 2U <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -228,7 +228,7 @@ status: stable
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
+| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
 
 قبل اللاحقة **-ya** يُعامل نهاية جذر الكلمة بشكل مشابه لما قبل اللاحقة **-a**.
 :::
@@ -265,7 +265,7 @@ status: stable
 الصورة: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি، Assam = অসম
 (مصدر الصورة: [تفاصيل](/ar/licenses#lekt4802))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -406,23 +406,3 @@ Sualkuchi = সুৱালকুচি، Assam = অসম
 شرح:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : مضاف إليه (⟪षष्ठी⟫) مثنى إلى ⟪द्वे⟫ ⟪कुले⟫ "عائلتان"
 
-::: deleteme-box
-
-**lekt4801:** [مصدر الصورة: غونلاوغور ث. بريمر. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- تم الوصول في 2009-01-10. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب العمل، عدم الاستخدام التجاري، مشاركة بالتساوي)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি، Assam = অসم [مصدر الصورة: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- تم الوصول إليه في 2009-01-10. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب العمل، عدم الاستخدام التجاري، مشاركة بالمثل)]
-
-**lekt4803:** عازف السيتار = ⟪सितारवादकः⟫ [مصدر الصورة: ويكيبيديا. المجال العام]
-
-**lekt4804:** [مجموعة مساعدة ذاتية (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\))، تاميل نادو = தமிழ்நாود [مصدر الصورة: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- تم الوصول إليه في 2009-01-10. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (النسبة، عدم الاستخدام التجاري)]
-
-**lekt4805:** عيد ثايپوسام = தைப்பوسام، باطو كافيس، ماليزيا [مصدر الصورة: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- تم الوصول إليه في 2009-01-10. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب العمل)]
-
-**lekt4806:** ⟪नेपाल⟫ [مصدر الصورة: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- تم الوصول إليه في 2009-01-10. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-
-**lekt4807:** ⟪जोधपुर⟫ [مصدر الصورة: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- تم الوصول في 2009-01-10. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-
-**lekt4808:** بحيرة كارانجي = ಕಾರಂಜಿ ಕೆರೆ [مصدر الصورة: ناغيش كاماث. -- [http://www.flickr.com/photos/nagesh_kamath/2791791571/](http://www.flickr.com/photos/nagesh_kamath/2791791571/). -- تم الوصول في 2009-01-10. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (نسب العمل، بنفس الرخصة)]
-
-**lekt4809:** (صورة: باير)
-:::

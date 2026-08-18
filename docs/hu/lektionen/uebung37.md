@@ -128,9 +128,9 @@ C) Határozza meg és fordítsa le a következő összetételeket:
 Ábr.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung062))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Narratív perfekta (Az öreg története) <!-- TODO: Fallback translation -->
+## Narratív perfekta (Az öreg története)
 
 Fordítsa szanskritra, kizárólag perfekta igealakokat használva:
 

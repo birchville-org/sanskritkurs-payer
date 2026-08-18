@@ -19,7 +19,7 @@ last_reconstructed: 2026-05-15
 آتشی چون خشم نیست،
 خوشبختی‌ای چون دانش نیست.
 
-B) Übersetzen Sie folgende Tatpuruṣa: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie folgende Tatpuruṣa:
 
 ⟪१⟫. ⟪सुकर⟫ ⟪३⟫ — leicht zu tun
 
@@ -104,7 +104,7 @@ B) Übersetzen Sie folgende Tatpuruṣa: <!-- TODO: Fallback translation -->
 
 ⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪।⟫ ⟪सिंहस्य⟫ ⟪संहननम्⟫ ⟪।⟫ — کشتن یک/چند شیر، کشته شدن توسط یک/چند شیر
 
-⟪६⟫. ⟪अरिसिंह⟫ m. ⟪।⟫ ⟪सिंह⟫ ⟪इव⟫ ⟪अरिः⟫ ⟪।⟫ — löwengleicher Feind <!-- TODO: Fallback translation -->
+⟪६⟫. ⟪अरिसिंह⟫ m. ⟪।⟫ ⟪सिंह⟫ ⟪इव⟫ ⟪अरिः⟫ ⟪।⟫ — löwengleicher Feind
 
 ⟪७⟫. ⟪आहारनिद्राभय⟫ n. ⟪।⟫ ⟪आहारो⟫ ⟪निद्रा⟫ ⟪भयं⟫ ⟪च⟫ ⟪।⟫ — غذا خوردن، خوابیدن و ترس
 
@@ -121,7 +121,7 @@ B) Übersetzen Sie folgende Tatpuruṣa: <!-- TODO: Fallback translation -->
 ⟪शूरा⟫ ⟪दुर्गमेण⟫ ⟪मार्गेणार्यग्रामं⟫ ⟪यन्ति⟫ ⟪।⟫
 
 3\. Die Hausmagd melkt die Kühe.
-⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫
 
 ۴\. دشمنان آریایی‌ها، کْشَتْرِیای قدرتمند را شکست می‌دهند.
 ⟪आर्यारयो⟫ ⟪बलवत्क्षत्रियान्घन्ति⟫ ⟪।⟫ (یا: ⟪आर्यशत्रवो⟫...)

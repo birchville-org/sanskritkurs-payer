@@ -54,7 +54,7 @@ brāhmaṇo rāmaḥ.
 
 ⟪ब्राह्मणो⟫ ⟪रामः⟫
 
-2\. Der Lehrer ist ein vaiśya. <!-- TODO: Fallback translation -->
+2\. Der Lehrer ist ein vaiśya.
 
 vaiśyo guruḥ.
 
@@ -72,7 +72,7 @@ guruḥ kaviḥ.
 
 ⟪गुरुः⟫ ⟪कविः⟫
 
-5\. Viṣṇu ist der HERR. <!-- TODO: Fallback translation -->
+5\. Viṣṇu ist der HERR.
 
 īśvaro viṣṇuḥ.
 

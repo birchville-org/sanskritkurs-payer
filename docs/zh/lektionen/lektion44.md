@@ -9,17 +9,17 @@ status: stable
 
 # 第44課
 
-## 44.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix <!-- TODO: Fallback translation -->
+## 44.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
 ::: grammar-box
-**Die 3.sg.Ā.Imperfekt ist formgleich mit der 2.pl.P.Imperfekt!!!** <!-- TODO: Fallback translation -->
+**Die 3.sg.Ā.Imperfekt ist formgleich mit der 2.pl.P.Imperfekt!!!**
 :::
 ### 44.1.1. 第五现在时类 (⟪स्वादि⟫)
 
-⟪सु⟫ 5U <!-- TODO: Fallback translation -->
+⟪सु⟫ 5U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -31,7 +31,7 @@ status: stable
 :::
 ### 44.1.2. 第八现在时类 (⟪तनादि⟫)
 
-⟪तन्⟫ 8U <!-- TODO: Fallback translation -->
+⟪तन्⟫ 8U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -41,7 +41,7 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
 :::
-⟪कृ⟫ 8U <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -63,35 +63,35 @@ status: stable
 :::
 ## 44.2. Zum Wortsandhi
 
-Bei konsonantisch auslautenden Präsensstämmen sind die schon behandelten Gesetze des Wortsandhi zu beachten. <!-- TODO: Fallback translation -->
+Bei konsonantisch auslautenden Präsensstämmen sind die schon behandelten Gesetze des Wortsandhi zu beachten.
 
-Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung. <!-- TODO: Fallback translation -->
+Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 
-(Ausführliche Zusammenstellung aller hierher gehörigen Lautveränserungen bei Kielhorn, Grammatik S. 76f.) <!-- TODO: Fallback translation -->
+(Ausführliche Zusammenstellung aller hierher gehörigen Lautveränserungen bei Kielhorn, Grammatik S. 76f.)
 
 ### 44.2.1. Zum Wortsandhi für dh-
 
 ::: grammar-box
-1. **Aspirata wird vor Aspirata durch den entsprechenden Nichtspiraten ersetzt:** <!-- TODO: Fallback translation -->
-   z.B. **⟪रुध्⟫** 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » **⟪रुन्द्ध्वे⟫** (run**ddh**ve) <!-- TODO: Fallback translation -->
-2. **-h + dh- » -gdh-** <!-- TODO: Fallback translation -->
-   z.B. **⟪दुह्⟫** 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » **⟪धुग्ध्वे⟫** (dhu**gdh**ve) <!-- TODO: Fallback translation -->
-3. **-ṣ + dh- » -ḍḍh-** (Diese Regel gilt nur für die Konjugation!) <!-- TODO: Fallback translation -->
-   z.B. **⟪द्विष्⟫** 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » **⟪द्विड्ढ्वे⟫** (dvi**ḍḍh**ve) <!-- TODO: Fallback translation -->
-4. **-s + dh- » -dh-** (Wegfall des -s) <!-- TODO: Fallback translation -->
-   z.B. **⟪आस्⟫** 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve) <!-- TODO: Fallback translation -->
+1. **Aspirata wird vor Aspirata durch den entsprechenden Nichtspiraten ersetzt:**
+   z.B. **⟪रुध्⟫** 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » **⟪रुन्द्ध्वे⟫** (run**ddh**ve)
+2. **-h + dh- » -gdh-**
+   z.B. **⟪दुह्⟫** 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » **⟪धुग्ध्वे⟫** (dhu**gdh**ve)
+3. **-ṣ + dh- » -ḍḍh-** (Diese Regel gilt nur für die Konjugation!)
+   z.B. **⟪द्विष्⟫** 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » **⟪द्विड्ढ्वे⟫** (dvi**ḍḍh**ve)
+4. **-s + dh- » -dh-** (Wegfall des -s)
+   z.B. **⟪आस्⟫** 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve)
 :::
 ### 44.2.2. Zum Wortsandhi für s-
 
 ::: grammar-box
-1. **-s + s- » -ts- oder (nicht wahlweise!) -ss-** (so in 2. Präsensklasse) <!-- TODO: Fallback translation -->
-   Beispiele: <!-- TODO: Fallback translation -->
-   * **⟪वस्⟫** 1P: Futur: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati) <!-- TODO: Fallback translation -->
-   * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e) <!-- TODO: Fallback translation -->
-2. **-ṣ + s- » -kṣ-** <!-- TODO: Fallback translation -->
-   z.B. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i) <!-- TODO: Fallback translation -->
+1. **-s + s- » -ts- oder (nicht wahlweise!) -ss-** (so in 2. Präsensklasse)
+   Beispiele:
+   * **⟪वस्⟫** 1P: Futur: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
+   * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
+2. **-ṣ + s- » -kṣ-**
+   z.B. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
 :::
-## 44.3. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix <!-- TODO: Fallback translation -->
+## 44.3. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
 
 ### 44.3.1. 第二类现在时词干 (⟪अदादि⟫)
 
@@ -113,7 +113,7 @@ Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung. <!-- TODO: 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
 :::
-⟪दुह्⟫ 2U <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -123,7 +123,7 @@ Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung. <!-- TODO: 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
 :::
-⟪इ⟫ 2P <!-- TODO: Fallback translation -->
+⟪इ⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -141,7 +141,7 @@ Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung. <!-- TODO: 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
 :::
-⟪स्तु⟫ 2U <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -151,7 +151,7 @@ Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung. <!-- TODO: 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
 :::
-⟪अस्⟫ 2P (besonders zu merken!) <!-- TODO: Fallback translation -->
+⟪अस्⟫ 2P (besonders zu merken!)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -163,7 +163,7 @@ Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung. <!-- TODO: 
 :::
 ⟪तत्त्वमसि⟫
 
-⟪शास्⟫ 2P <!-- TODO: Fallback translation -->
+⟪शास्⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -183,45 +183,45 @@ Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung. <!-- TODO: 
 :::
 ## 44.4. Der Vokativ (⟪आमन्त्रितम्⟫)
 
-Die einheimischen Grammatiker betrachten den Vokativ (⟪आमन्त्रितम्⟫) nicht als eigenen Kasus, sondern nur als Modifikation des Nominativ (⟪प्रथमा⟫). <!-- TODO: Fallback translation -->
+Die einheimischen Grammatiker betrachten den Vokativ (⟪आमन्त्रितम्⟫) nicht als eigenen Kasus, sondern nur als Modifikation des Nominativ (⟪प्रथमा⟫).
 
 ::: important
-**Der Vokativ dient dem Anruf, dem Ansprechen und steht außerhalb des Zusammenhangs mit dem übrigen Satz, unterscheidet sich also von den anderen Kasus, die eine Beziehung zum Verb oder zu einem anderen Nomen ausdrücken.** <!-- TODO: Fallback translation -->
+**Der Vokativ dient dem Anruf, dem Ansprechen und steht außerhalb des Zusammenhangs mit dem übrigen Satz, unterscheidet sich also von den anderen Kasus, die eine Beziehung zum Verb oder zu einem anderen Nomen ausdrücken.**
 
-**Meist wird der Vokativ an den Beginn des Satzes gestellt:** <!-- TODO: Fallback translation -->
+**Meist wird der Vokativ an den Beginn des Satzes gestellt:**
 
 :::
 ::: indent
-⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Kind, was sagst du?" <!-- TODO: Fallback translation -->
+⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Kind, was sagst du?"
 :::
 ::: important
-**Man vermeide die Übersetzung des Vokativ mit "**O** ...". Wir benutzen im Deutschen ständig Vokative, wenn wir z.B. sagen: "Schatz, was kochen wir heute?". Niemand wird in dieser Bedeutung sagen: "**O** Schatz, was kochen wir heute?"** <!-- TODO: Fallback translation -->
+**Man vermeide die Übersetzung des Vokativ mit "**O** ...". Wir benutzen im Deutschen ständig Vokative, wenn wir z.B. sagen: "Schatz, was kochen wir heute?". Niemand wird in dieser Bedeutung sagen: "**O** Schatz, was kochen wir heute?"**
 :::
 ::: media
 ![](/images/lekt4402.webp)
 Abb.: Zur richtigen Verwendung von "O" im Deutschen: **"O Mann!"**
-(Bildquelle: [Details](/licenses#lekt4402)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4402))
 :::
 
 ::: grammar-box
-**Die Formen des Vokativ Plural und Dual sind identisch mit denen des Nominativ (⟪प्रथमा⟫) Plural bzw. Dual.** <!-- TODO: Fallback translation -->
+**Die Formen des Vokativ Plural und Dual sind identisch mit denen des Nominativ (⟪प्रथमा⟫) Plural bzw. Dual.**
 
-**Die Formen des Vokativ Singular folgen in [Lektion 45](lektion45.md).** <!-- TODO: Fallback translation -->
+**Die Formen des Vokativ Singular folgen in [Lektion 45](lektion45.md).**
 :::
 ## 44.5. 词汇表
 
-⟪प्रति⟫ Präverb: zurück, wider, gegen - hin <!-- TODO: Fallback translation -->
+⟪प्रति⟫ Präverb: zurück, wider, gegen - hin
 
 ::: indent
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : zurückschlagen <!-- TODO: Fallback translation -->
+**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : zurückschlagen
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : zurücksagen = antworten <!-- TODO: Fallback translation -->
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : zurücksagen = antworten
 
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : zurückweisen, verschmähen <!-- TODO: Fallback translation -->
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : zurückweisen, verschmähen
 :::
-⟪या⟫ 2P ⟪याति⟫ : gehen, fahren <!-- TODO: Fallback translation -->
+⟪या⟫ 2P ⟪याति⟫ : gehen, fahren
 
 ::: indent
 Perf. IV ⟪ययौ⟫  
@@ -229,36 +229,36 @@ Fut. ⟪यास्यति⟫
 Pass. ⟪यायते⟫  
 Kaus. ⟪यापयति⟫  
 PPP ⟪यात⟫  
-Inf. ⟪यातुम्⟫   <!-- TODO: Fallback translation -->
+Inf. ⟪यातुम्⟫  
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-**⟪यान⟫** n.: Gehen, Weg, Fahrzeug <!-- TODO: Fallback translation -->
+**⟪यान⟫** n.: Gehen, Weg, Fahrzeug
 :::
 ::: media
 ![](/images/lekt4403.webp)
 Abb.: ⟪रेल्यानम्⟫
-(Bildquelle: [Details](/licenses#lekt4403)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4403))
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā ***:sig[⟪शेये⟫]*** (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā ***:sig[⟪शेरते⟫]***, 3.pl.Imperf.Ā ***:sig[⟪अशेरत⟫]*** <!-- TODO: Fallback translation -->
+**⟪शी⟫** 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā ***:sig[⟪शेये⟫]*** (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā ***:sig[⟪शेरते⟫]***, 3.pl.Imperf.Ā ***:sig[⟪अशेरत⟫]***
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
 Fut. ⟪शयिष्यते⟫  
 Kaus. ⟪शापयति⟫  
 PPP ⟪शयित⟫  
-Inf. ⟪शयितुम्⟫   <!-- TODO: Fallback translation -->
+Inf. ⟪शयितुम्⟫  
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-**⟪शयन⟫** n.: Liege, Bett <!-- TODO: Fallback translation -->
+**⟪शयन⟫** n.: Liege, Bett
 :::
 ::: media
 ![](/images/lekt4404.webp)
 Abb.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Bildquelle: [Details](/licenses#lekt4404)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : sich freuen an (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : sich freuen an (⟪तृतीयया⟫)
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -268,20 +268,20 @@ Kaus. ⟪नन्दयति⟫
 PPP ⟪नन्दित⟫  
 Inf. ⟪नन्दितुम्⟫  
 Absol. -⟪नन्द्य⟫  
-Gerundiv ⟪नन्द्य⟫   <!-- TODO: Fallback translation -->
+Gerundiv ⟪नन्द्य⟫  
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-**⟪नन्दिन्⟫** 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (⟪वहन⟫) des ⟪शिव⟫ (ein Stier) <!-- TODO: Fallback translation -->
+**⟪नन्दिन्⟫** 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (⟪वहन⟫) des ⟪शिव⟫ (ein Stier)
 :::
 ::: media
 ![](/images/lekt4405.webp)
 Abb.: ⟪नन्दी⟫
-(Bildquelle: [Details](/licenses#lekt4405)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4405))
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : seine Freude haben an (⟪द्वितीयया⟫), jemanden freudig begrüßen, willkommen heißen <!-- TODO: Fallback translation -->
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : seine Freude haben an (⟪द्वितीयया⟫), jemanden freudig begrüßen, willkommen heißen
 
-**⟪यम्⟫** 1P ***:sig[⟪यच्छति⟫]*** : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen <!-- TODO: Fallback translation -->
+**⟪यम्⟫** 1P ***:sig[⟪यच्छति⟫]*** : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
@@ -290,23 +290,23 @@ Pass. ⟪यम्यते⟫
 Kaus. ⟪यामयति⟫ aber: ⟪नि⟫***:sig[⟪यम⟫]***⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
-Absol. -⟪यम्य⟫ <!-- TODO: Fallback translation -->
+Absol. -⟪यम्य⟫
 :::
-**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : dehnen, ausstrecken <!-- TODO: Fallback translation -->
+**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : dehnen, ausstrecken
 
 ::: indent
-PPP ⟪आयत⟫ 3: lang gestreckt <!-- TODO: Fallback translation -->
+PPP ⟪आयत⟫ 3: lang gestreckt
 :::
 ::: media
 ![](/images/lekt4406.webp)
 Abb.: ⟪आयतो⟫ ⟪मरुः⟫
-(Bildquelle: [Details](/licenses#lekt4406)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4406))
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : darreichen, anbieten, übergeben <!-- TODO: Fallback translation -->
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : darreichen, anbieten, übergeben
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : zusammenbinden, anbinden, bändigen <!-- TODO: Fallback translation -->
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : zusammenbinden, anbinden, bändigen
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : streben nach (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫) <!-- TODO: Fallback translation -->
+⟪यत्⟫ 1Ā ⟪यतते⟫ : streben nach (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
 ::: indent
 Perf. Vb ⟪येते⟫  
@@ -314,18 +314,18 @@ Fut. ⟪यतिष्यते⟫
 Pass. ⟪यत्यते⟫  
 Kaus. ⟪यातयति⟫  
 PPP ⟪यत्त⟫  
-Inf. ⟪यतितुम्⟫   <!-- TODO: Fallback translation -->
+Inf. ⟪यतितुम्⟫  
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-**⟪यत्न⟫** m.: Bemühung, Anstrengung <!-- TODO: Fallback translation -->
+**⟪यत्न⟫** m.: Bemühung, Anstrengung
 :::
 ::: media
 ![](/images/lekt4407.webp)
 Abb.: ⟪यत्नेन⟫
-(Bildquelle: [Details](/licenses#lekt4407)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4407))
 :::
-**⟪रभ्⟫** 1Ā ⟪रभते⟫ (Nebenform zu ⟪लभ्⟫): fassen <!-- TODO: Fallback translation -->
+**⟪रभ्⟫** 1Ā ⟪रभते⟫ (Nebenform zu ⟪लभ्⟫): fassen
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
@@ -334,25 +334,20 @@ Pass. ⟪रभ्यते⟫
 Kaus. ***:sig[⟪रम्भ⟫]***⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
-Absol. -⟪रभ्य⟫ <!-- TODO: Fallback translation -->
+Absol. -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : anfassen, beginnen, unternehmen <!-- TODO: Fallback translation -->
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : anfassen, beginnen, unternehmen
 
-⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: ⟪पब्बजा⟫) <!-- TODO: Fallback translation -->
+⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Siehe: <!-- TODO: Fallback translation -->
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm) <!-- TODO: Fallback translation -->
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4408))
 :::
 ## 44.6. 练习
 
-A) Bestimmen und übersetzen Sie folgende Formen: <!-- TODO: Fallback translation -->
+A) Bestimmen und übersetzen Sie folgende Formen:
 
 1.  ⟪आदेः⟫
 2.  ⟪आदः⟫
@@ -410,9 +405,9 @@ A) Bestimmen und übersetzen Sie folgende Formen: <!-- TODO: Fallback translatio
 ::: media
 ![](/images/lekt4409.webp)
 Abb.: ⟪कस्माद्रोदिषि⟫
-(Bildquelle: [Details](/licenses#lekt4409)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4409))
 :::
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie:
 
 ⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
 
@@ -433,7 +428,7 @@ B) Übersetzen Sie: <!-- TODO: Fallback translation -->
 
 ## 44.7. Wiederholungsübung zur Formenlehre
 
-Bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
+Bestimmen Sie folgende Formen:
 
 1.  ⟪वदिता⟫
 2.  ⟪उदिता⟫
@@ -476,25 +471,3 @@ Bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
 
-::: deleteme-box
-
-**lekt4301.jpg**: Details in licenses.md <!-- TODO: Fallback translation -->
-
-**lekt4401.jpg**: Keine spezielle Lizenz/Bildquelle im Text gefunden <!-- TODO: Fallback translation -->
-
-**lekt4402.jpg**: Zeichnung von Henri Gerbault (1863 - 1930) (Public domain) <!-- TODO: Fallback translation -->
-
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
-
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
-
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
-
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
-
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
-
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
-
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
-:::

@@ -154,7 +154,7 @@ Abb.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्व�
 :::
 ---
 
-## Leseübung <!-- TODO: Fallback translation -->
+## Leseübung
 
 1\. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 ὁ Śūdra τὸν παῖδα φέρει.
@@ -196,13 +196,13 @@ Abb.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्व�
 ἡ παρθένος εἰσέρχεται τὸν οἶκον.
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 ὁ παῖς φέρει τὸν ἐλέφαντα.
 
 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟩ ὄνομα Vimalā)
-Vimalā ist traurig. <!-- TODO: Fallback translation -->
+Vimalā ist traurig.
 
 17\. ⟪शुकः⟩ ⟪पतति⟩ |
 ὁ παρράσιος πετόμενος.

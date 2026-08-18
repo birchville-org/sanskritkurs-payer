@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # שיעור 36
 
@@ -20,7 +20,7 @@ status: stable
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫:sig[⟪गा⟫]⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | | <!-- TODO: Fallback translation -->
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | |
 
 ::: grammar-box
 2\. השורש ⟪विद्⟫ 2P "ידע" יש לו בינוני עם משמעות הווה.
@@ -63,7 +63,7 @@ status: stable
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ ו-⟪भू⟫ משמשים גם בפיסוק פעלים של אטמןפדה בפארסמהיפדה.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 דוגמאות:
 
@@ -508,14 +508,3 @@ Abb.: ⟪लोमहर्षः⟫
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: איור: ⟪गोमयं⟫ ⟪चिकाय⟫ אודהפור = ⟪उदयपुर⟫ [מקור התמונה: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- תאריך גישה: 28.12.2008. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
-- **lekt3602.jpg**: איור: ⟪अगारम्⟫ שכאוואטי = ⟪शेखावाटी⟫ [מקור התמונה: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- תאריך גישה: 28.12.2008. -- רישיון Creative Commons (ייחוס, שיתוף זהה)]
-- **lekt3603.jpg**: איור: ⟪अनगार्यम्⟫ צפון־מזרח תאילנד = อีสาน 	[מקור התמונה: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- תאריך גישה: 	28.12.2008. -- 	  רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
-- **lekt3604.jpg**: איור: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ זכר שיער גוף) [מקור התמונה: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- תאריך גישה: 29.12.2008.  --   רישיון Creative Commons (ייחוס, שימוש לא מסחרי)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ גאנדרה, המאה ה־1/2 לספירה [מקור התמונה: ויקיפדיה. רישיון GNU FDLicense]
-- **lekt3606.jpg**: איור:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫ מודרה [מקור התמונה: Payer]
-- **lekt3607.jpg**: איור: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [מקור התמונה: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- תאריך גישה: 29.12.2008. --   רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
-:::
- <!-- TODO: Fallback translation -->

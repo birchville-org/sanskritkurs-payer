@@ -199,7 +199,7 @@ Oameni mergând, Senegal.
 **Pass. ⟪गीयते⟫**
 **Kaus. ⟪गापयति⟫**
 **PPP ⟪गीत⟫**
-**Inf. ⟪गातुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪गातुम्⟫**
 
 din care:
 **⟪गीता⟫ f.:** cânt, imn
@@ -280,13 +280,3 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 C) Transformați propozițiile din exercițiul B) înlocuind perfectele cu imperfecte.
 
-::: deleteme-box
-
-**lekt3501:** Muzicieni de templu, Templul Kaadu Malleswara, Bangalore. [Sursa imaginii: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** Oameni mergând, Senegal. [Sursa imaginii: Curt Carnemark / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3503:** Piață în Vadaseri, Tamil Nadu. [Sursa imaginii: kifo / Flickr. CC BY-SA] <!-- TODO: Fallback translation -->
-
-**lekt3504:** Ceremonie Yajña, ashram Shiva, Ganeshpuri. [Sursa imaginii: Dey / Flickr. CC BY-NC-SA]
-:::

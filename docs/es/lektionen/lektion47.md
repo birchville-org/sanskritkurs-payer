@@ -253,14 +253,3 @@ B.) Traduzca al sánscrito (utilice el imperativo):
 
 34\. ¡Que redunde en felicidad (ocurra)! (Deseo de bendición)
 
-::: deleteme-box
-
-**lekt4702:** Templo de Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Fuente de la imagen: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Acceso el 2009-01-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribución, sin obras derivadas)]
-
-**lekt4701:** [Fuente de la imagen: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Acceso el 2009-01-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
-
-**lekt4703:** [Fuente de la imagen: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
-
-**lekt4704:** [Fuente de la imagen: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, uso no comercial, sin obras derivadas)]
-
-:::

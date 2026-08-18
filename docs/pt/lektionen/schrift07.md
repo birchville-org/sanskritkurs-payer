@@ -4,7 +4,7 @@
 
 ![](/images/schrift012.webp)
 
-Beispiele für r vor Konsonant: <!-- TODO: Fallback translation -->
+Beispiele für r vor Konsonant:
 
 ⟪र्क⟫  rka, ⟪र्च⟫ rca, ⟪र्ट⟫ rṭa, ⟪र्त⟫ rta, ⟪र्प⟫ rpa, ⟪र्श⟫ rśa, ⟪र्ह⟫ rha, ⟪र्का⟫ rkā, ⟪र्कि⟫, rki, ⟪र्की⟫ rkī, ⟪र्कु⟫ rku, ⟪र्के⟫ rke, ⟪र्कै⟫ rkai, ⟪र्को⟫ rko, ⟪र्कौ⟫ rkau, ⟪र्कं⟫ rkaṃ, ⟪र्कां⟫ rkāṃ, ⟪र्किं⟫ rkiṃ, ⟪र्कीं⟫ rkīṃ,  ⟪र्कुं⟫ rkuṃ, ⟪र्कें⟫ rkeṃ, ⟪र्कैं⟫ rkaiṃ, ⟪र्कौं⟫ rkauṃ
 
@@ -52,7 +52,7 @@ A) Escreva em Devanāgarī e forneça a tradução (pressupõe Lição 8):
 
 śravaṇa, darśana, kāraṇa, sarga, krodhaḥ, netram, śruti, kurvate. śudraḥ śṛṇoti. śrutirvedaḥ. dhenurviśati. sādhurguruḥ. gururyajate. kavirmāghaḥ.
 
-[B0] B) Leia, translitere e traduza: <!-- TODO: Fallback translation -->
+[B0] B) Leia, translitere e traduza:
 
 ⟪श्रुतिः⟫ | ⟪गुर्वी⟫ | ⟪क्रुध्⟫ | ⟪शृणोति⟫ | ⟪कविर्भारविः⟫ | ⟪कविर्हर्षदेवः⟫ | ⟪पशुर्धेनुः⟫ | ⟪शूद्रेतरा⟫ | ⟪श्रोत्रम्⟫ ||
 

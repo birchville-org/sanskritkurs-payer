@@ -152,7 +152,7 @@ Nota: ¹ Explicación de **⟪जहि⟫** véase Thumb-Hauschild I,2 p. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Tercera clase de presente (⟪जुहोत्यादि⟫) &lt;!-- TODO: Fallback translation --&gt;
+### 48.2.4. Tercera clase de presente (⟪जुहोत्यादि⟫) &lt;!--  --&gt;
 
 ::: grammar-box
 **La 3.pl.P termina en \-atu.**
@@ -228,7 +228,7 @@ Ejemplos:
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brEjemplos siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **otras raíces declinables:** | ver Wackernagel, Gramática sánscrita antigua II,2 § 38 | &lt;!-- TODO: Fallback translation --&gt;
+| **otras raíces declinables:** | ver Wackernagel, Gramática sánscrita antigua II,2 § 38 | &lt;!--  --&gt;
 
 Antes del sufijo **-ya**, la terminación de la raíz se trata de manera similar a como se hace antes del sufijo **-a**.
 :::
@@ -265,7 +265,7 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4802))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 :::
 ::: media
@@ -406,23 +406,3 @@ B) Traduzca al sánscrito (utilice el imperativo y, si es posible, raíces de la
 Explicación:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual a ⟪द्वे⟫ ⟪कुले⟫ "dos familias"
 
-::: deleteme-box
-
-**lekt4801:** [Fuente de la imagen: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, no comercial, compartir igual)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Fuente de la imagen: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, no comercial, compartir igual)]
-
-**lekt4803:** Tocar sitar = ⟪सितारवादकः⟫ [Fuente de la imagen: Wikipedia. Dominio público]
-
-**lekt4804:** [Grupo de autoayuda (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Fuente de la imagen: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribución, no comercial)]
-
-**lekt4805:** Festival Thaipusam = தைப்பூசம், Batu Caves, Malasia [Fuente de la imagen: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
-
-**lekt4806:** ⟪नेपाल⟫ [Fuente de la imagen: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, no comercial, no obras derivadas)]
-
-**lekt4807:** ⟪जोधपुर⟫ [Fuente de la imagen: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribución, no comercial, no obras derivadas)]
-
-**lekt4808:** Lago Karanji = ಕಾರಂಜಿ ಕೆರೆ [Fuente de la imagen: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribución, compartir igual)]
-
-**lekt4809:** (Imagen: Payer)
-:::

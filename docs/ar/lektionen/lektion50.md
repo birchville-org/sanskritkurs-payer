@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # الدرس الخامس0
 
@@ -290,24 +290,5 @@ status: stable
 
 التوضيحات:
 ⟪निषेकादीनि⟫ : مفعول به جمع مذکر
-:::
-::: deleteme-box
-
-**lekt5007:** صورة: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = جبل إيفرست [مصدر الصورة: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- تم الوصول إليه في 2009-01-12. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب العمل)]
-
-**lekt5006:** لي سو = 傈僳族، ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [مصدر الصورة: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- تم الوصول في 2009-01-12. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب العمل، عدم الاستخدام التجاري، عدم الاشتقاق)]
-
-**lekt5001:** كابيلا سيبال (1948 -)، وزير اتحادي في وزارة العلوم والتكنولوجيا ووزارة علوم الأرض (منذ 2006) [مصدر الصورة: المنتدى الاقتصادي العالمي. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- تم الوصول إليه في 2009-01-12. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (نسبة المصنف، مشاركة بالمثل)]
-
-**lekt5002:** وصول الرياح الموسمية، بنغالور ಬೆಂಗಳೂರು [مصدر الصورة: فندان ديساي. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- تم الوصول إليه في 2009-01-12. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب العمل، عدم الاستخدام التجاري، عدم الاشتقاق)]
-
-**lekt5005:** [مصدر الصورة: sunder_iyer. -- [http://www.flickr.com/photos/sunder_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- تم الوصول إليه في 2009-01-12. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (نسب العمل، مشاركة بالمثل)]
-
-**lekt5003:** [مصدر الصورة: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- تم الوصول إليه في 2009-01-12. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-
-**lekt5004:** ⟪धारावी⟫، ⟪मुंबई⟫ [مصدر الصورة: كونوسو / ويكيبيديا. رخصة جنو للوثائق الحرة]
-
-**lekt5008:** غانيشبوري، على بعد 80 كم من مومباي (⟪मुंबई⟫) [مصدر الصورة: داي. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- تم الوصول إليه في 2009-01-13. -- [رخصة المشاع الإبداعي](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب العمل، عدم الاستخدام التجاري، مشاركة بالمثل)]
-
 :::
 

@@ -1,7 +1,8 @@
 ---
-title: Lektion 33
+title: "Pelajaran 33"
 lesson_id: 33
 status: stable
+
 ---
 
 # Pelajaran 33
@@ -130,50 +131,53 @@ The two most important ablaut series of the ā-group are:
 * **Strong grade: -ā-**  
   e.g. **:sig[⟪धा⟫]** 3.sg.P.Ind.Pres. **:sig[⟪दधाति⟫]**
 :::
-Juga termasuk di sini adalah, misalnya:
+Termasuk ke dalam ini misalnya juga:
 
 ::: indent
 ⟪स्था⟫ 1
-* PPP **⟪स्थित⟫** (sthi-ta)
-* 3.sg.P.Fut. **⟪स्थास्यति⟫** (sthā-sya-ti)
+* PPP ⟪स्थित⟫ (sthi-ta)
+* 3.sg.P.Fut. ⟪स्थास्यति⟫ (sthā-sya-ti)
 :::
 ::: grammar-box
 **B.**
 
-* **Weak grade: -ī-**  
-  e.g. **⟪पा⟫** 1: PPP **⟪पीत⟫** (pī-ta)
-* **Strong grade: -ā-**  
-  e.g. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
+* **Tingkat Rendah: -ī-**  
+misalnya ⟪पा⟫ 1: PPP ⟪पीत⟫ (pī-ta)
+* **Tingkat Tinggi: -ā-**  
+misalnya ⟪पा⟫ 1: Inf. ⟪पातुम्⟫
 :::
-## 33.4. Akarn auf -ā  dritten Kelas Present
+## 33.4. Akar kata berakhiran -ā dari kelas present ketiga
 
 ::: grammar-box
-**Akar yang berakhir dengan -ā (kecuali ⟪दा⟫ dan :sig[⟪धा⟫]) biasanya menunjukkan bentuk batang yang berakhir dengan -ī- dalam batang lemah** (lihat Thumb-Hauschild Vol. 1,1 hlm. 271. Kemungkinan bahwa seri ablaut B yang disebutkan di atas berfungsi sebagai model di sini, meskipun akar-akar ini sebaliknya mengikuti seri A), **sebelum akhiran vokalik vokal akar menghilang sepenuhnya (lihat seri ablaut A).**
+**Akar kata berakhiran -ā (kecuali ⟪दा⟫ dan ⟪धा⟫) biasanya berubah menjadi -ī- pada bentuk akar lemah** (lihat Thumb-Hauschild Jilid 1,1 hlm. 271. Kemungkinan besar deret ablaut B yang disebutkan di atas berfungsi sebagai model, meskipun akar kata ini biasanya mengikuti deret A), **sebelum akhiran vokal, vokal akar menghilang sepenuhnya (lihat deret ablaut A).**
 :::
 Contoh:
 
 ::: grammar-box
-**⟪मा⟫** 3Ā "to measure"
+⟪मा⟫ 3Ā "mengukur"
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
-| **Indikativ Present** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
+| **Indikatif Present** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
 | **Imperfect** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
-| **Optative** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
+| **Optatif** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 :::
 ::: grammar-box
-**⟪हा⟫** 3P "to leave"
+⟪हा⟫ 3P "meninggalkan"
 
-| | 3. org. tunggal | 3. org. jamak |
+| | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
-| **Indikativ Present** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
-| **Imperfek** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optatif** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Akar ⟪हा⟫ hat vor dem Optatif-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
+| **Indikatif Present** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
+| **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
+| **Optatif** | ⟪जह्यात्⟫:brjah-yā-t:br(Akar kata ⟪हा⟫ memiliki bentuk yang sama sebelum Optatif-yā/y seperti sebelum vokal!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Akar-akar ⟪दा⟫ dan :sig[⟪धा⟫]
+### 33.4.1. Akar kata ⟪दा⟫ dan ⟪धा⟫
 
 ::: grammar-box
-**Akar ⟪दा⟫ dan:sig[⟪धा⟫] direduplikasi dengan vokal -a- dan kehilangan vokal akar dalam batang lemah.**
+**Akar kata ⟪दा⟫ dan ⟪धा⟫ menduplikasi dengan vokal -a- dan kehilangan vokal akar pada bentuk akar lemah.**
+
+**Perhatikan hukum dissimilasi aspirasi untuk ⟪धा⟫!**
+:::
 
 **Perhatikan aturan disimilasi aspirasi untuk :sig[⟪धा⟫]!**
 :::
@@ -417,17 +421,3 @@ Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-::: deleteme-box
-
-**Ghee Definition & Detail:**
-* Source: http://en.wikipedia.org/wiki/Ghee (Accessed: 2008-12-26)
-
-**List of Figures & Licenses:**
-* **Fig. lekt3306 (wedding party, Chennai):** Image source: http://www.pbase.com/chandra/image/62118318 (Accessed on 2008-12-27). Creative Commons License (Attribution, Non-commercial, Share Alike).
-* **Fig. lekt3307 (Udaipur carrier):** Image source: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Accessed on 2008-12-27). Creative Commons License (Attribution, Non-commercial, No Derivative Works).
-* **Fig. lekt3305 (Samadhi yogini, Kaveripakkam):** Image source: Quadell / Wikipedia (GNU Free Documentation License).
-* **Fig. lekt3304 (bhaya carrier, Mumbai):** Image source: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, Accessed on 2008-12-26). Creative Commons License (Attribution).
-* **Fig. lekt3303 (Hinayana Thailand):** Image source: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Accessed on 2008-12-26). Creative Commons License (Attribution, Non-commercial).
-* **Fig. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Image source: Dey (http://www.flickr.com/photos/dey/466758922/, Accessed on 2008-12-26). Creative Commons License (Attribution, Non-commercial, Share Alike).
-* **Fig. lekt3308 (woman carrier, Delhi):** Image source: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Accessed on 2008-12-27). Creative Commons License (Attribution, Non-commercial, No Derivative Works).
-:::

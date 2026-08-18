@@ -66,9 +66,9 @@ last_reconstructed: 2026-05-15
 | ⟪५१⟫. ⟪हथ⟫ | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | ihr schlagt |
 | ⟪५२⟫. ⟪हतः⟫ | ⟪हन्⟫ (2P) PPP Nom. sg. m. | geschlagen / getötet |
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Übersetzungen <!-- TODO: Fallback translation -->
+## Übersetzungen
 
 B) Übersetzen Sie:
 
@@ -79,7 +79,7 @@ B) Übersetzen Sie:
 ای پسران، آیا به پیشینیان خود قربانی غذا داده‌اید؟
 
 ⟪३⟫. **⟪कानि⟫ ⟪शास्त्राणि⟫ ⟪काश्यामध्यैथाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Welche Lehrwerke hast du in Benares (Kāśī) studiert? <!-- TODO: Fallback translation -->
+Welche Lehrwerke hast du in Benares (Kāśī) studiert?
 
 ⟪४⟫. **⟪बुद्धपुत्राश्चेन्महाशयनेषु⟫ ⟪शयीरन्प्रव्रज्यायां⟫ ⟪कृतं⟫ ⟪व्रतं⟫ ⟪न⟫ ⟪चरेयुः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 اگر پسران بودا (راهبان) بر تخت‌های مجلل دراز بکشند، سوگندی را که هنگام پذیرش به عنوان راهب گرفته‌اند برقرار نمی‌کنند.
@@ -103,9 +103,9 @@ Welche Lehrwerke hast du in Benares (Kāśī) studiert? <!-- TODO: Fallback tran
 :::
 ---
 
-## Weitere Formbestimmungen <!-- TODO: Fallback translation -->
+## Weitere Formbestimmungen
 
-Bestimmen Sie folgende Wortformen: <!-- TODO: Fallback translation -->
+Bestimmen Sie folgende Wortformen:
 
 ::: grammar-box
 | شکل واژه | تعیین |

@@ -81,9 +81,9 @@ Ele venera a dividade pessoal do Vaiśya meritório.
 Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung023))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Deklinationsmuster <!-- TODO: Fallback translation -->
+## Deklinationsmuster
 
 A) Forme todos os casos aprendidos até agora para as seguintes palavras como exemplos das classes de declinação já estudadas.
 
@@ -241,17 +241,12 @@ O dever específico de um Vaiśya é: estudo dos Vedas, realizar sacrifícios co
 
 ⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫
 ⟪शुड्रस्य⟫ ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारूणां⟫ ⟪कुशीलवानां⟫ ⟪च⟫ ⟪कर्म⟫ ⟪।⟫
-Die spezifische Pflicht eines Śūdra ist gehorsamer Dienst an den Zweimalgeborenen, Wirtschaftstätigkeit und Tätigkeit als Handwerker und Schausteller. <!-- TODO: Fallback translation -->
+Die spezifische Pflicht eines Śūdra ist gehorsamer Dienst an den Zweimalgeborenen, Wirtschaftstätigkeit und Tätigkeit als Handwerker und Schausteller.
 
 ⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
 O dever de todos é: não violência, verdade, pureza, não reclamar do próprio destino, isenção de maldade e tolerância paciente.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-::: deleteme-box Erklärungen
-Frase 7: ⟪कृषिपाशुपाल्ये⟩ Dual, Nominativo Acusativo: Dvandva, que designa duas "coisas"
-Frase 8: ⟪कर्म⟩ Nominativo, Acusativo singular Neutro referente a ⟪कर्मन्⟩ "ação"
-Frase 13: ⟪सर्वेषाम्⟩ Genitivo plural masculino referente a ⟪सर्व⟩ "cada um, todos" (pronomes não declinados como deva)
-:::
 ⟪३⟩. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟩ ⟪योगक्षेमसाधनो⟩ ⟪दण्डः⟩, ⟪तस्य⟩ ⟪नीतिर्दण्डनीतिः⟩ ⟪॥⟩ ⟪कौटिलीयार्थशास्त्र⟩ ⟪१⟩.⟪४⟩.⟪३⟩ ⟪॥⟩
 ⟪आन्वीक्षिक्याः⟩ ⟪त्रय्याः⟩ ⟪वार्त्ताया⟩ ⟪योगस्य⟩ ⟪क्ष⟩e⟪मस्य⟩ ⟪च⟩ ⟪साधनो⟩ ⟪दण्डः⟩, ⟪तस्य⟩ ⟪नीतिर्दण्डनीतिः⟩ ⟪।⟩
 O bastão provoca a aquisição e posse segura de filosofia, vedologia e economia. A condução do bastão é política.
@@ -261,4 +256,3 @@ O bastão provoca a aquisição e posse segura de filosofia, vedologia e economi
 Legenda: ⟪योगश्चित्तवृत्तिनिरोधः⟩
 (Fonte da imagem: [Detalhes](/licenses#uebung024))
 :::
- <!-- TODO: Fallback translation -->

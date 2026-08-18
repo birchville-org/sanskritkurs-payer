@@ -340,7 +340,7 @@ Fig.: ⟪अश्नीयात्⟫
 Fig.: ⟪प्रिया⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3004))
 :::
-⟪चेत्⟫ Conjuncție: dacă; cu condiția ca (nu apare niciodată la începutul unei propoziții) <!-- TODO: Fallback translation -->
+⟪चेत्⟫ Conjuncție: dacă; cu condiția ca (nu apare niciodată la începutul unei propoziții)
 
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : dacă nu
@@ -517,12 +517,3 @@ Determinați și traduceți următoarele forme de cuvânt:
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Sursa imaginii: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accesat la 2008-12-21. -- Licență Creative Commons (Atribuire, fără utilizare comercială, fără opere derivate)]
-**lekt3002:** Darewadi, Districtul Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Sursa imaginii: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accesat la 2008-12-21. -- Licență Creative Commons (Atribuire, fără utilizare comercială, share alike)]
-**lekt3003:** [Sursa imaginii: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Accesat la 2008-12-21. -- Licență Creative Commons (Atribuire, share alike)]
-**lekt3005:** ⟪थाली⟫, India de Sud [Sursa imaginii: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Accesat la 2008-12-21. -- Licență Creative Commons (Atribuire, fără utilizare comercială, share alike)]
-**lekt3004:** [Sursa imaginii: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Accesat la 2008-12-21. -- Licență Creative Commons (Atribuire, share alike)]
-**lekt2904:** [Sursa imaginii: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. סוג הופע I: אין שינוי שורש <!-- TODO: Fallback translation -->
+### 46.1.3. סוג הופע I: אין שינוי שורש
 
 פעלים המתיישרים עם סוג זה:
 
@@ -654,26 +654,5 @@ B) תרגמו:
 ![](/images/lekt4612.webp)
 תמונה: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/he/licenses#lekt4612)
 (מקור התמונה: [פרטים](/he/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-מקור תמונות נבגרהה: Redtigerxyz / ויקיפדיה. רישיון GNU FDLicense
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, כ-1870). מקור: ויקיפדיה. רשות ציבורית
-
-L4606: ⟪अश्वरोहकः⟫, פונה=⟪पुणे⟫. מקור: wili_hybrid, פליקר, CC BY 2.0
-
-L4608: אודהפור. מקור: Travel Aficionado, פליקר, CC BY-NC 2.0
-
-L4609: קרנאטקה=ಕರ್ನಾಟಕ. מקור: mattlogelin, פליקר, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, קמארדדי=కామారెడ్డి. מקור: Sumanth K. Garakarajula, פליקר, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, באנגלור=ಬೆಂಗಳೂರು. מקור: mattlogelin, פליקר, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, קוץ=⟪कच्छ⟫. מקור: orange tuesday, פליקר, CC BY-NC 2.0
-
-L4612: מומבאי=⟪मुंबई⟫ לאחר ההתנקשות, 11 ביולי 2006. מקור: Sun Pictures / Lakshman, פליקר, CC BY-NC-SA 2.0
 :::
 

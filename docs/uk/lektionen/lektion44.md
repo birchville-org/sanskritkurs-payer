@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  -→
 
 # Урок 44
 
@@ -340,11 +340,6 @@ PPP ⟪रब्ध⟫
 
 ⟪प्रव्रज्या⟫ f. (до ⟪प्र⟫-⟪व्रज्⟫): вихід з дому в бездомність ; церемонія, якою стають буддійським новим членом (палі: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Див.:
-
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Основні поняття правил ордену та орденного права Тхеравади. -- Частина I. -- (Матеріали до основних понять буддизму). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Мал.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
@@ -476,25 +471,3 @@ B) Перекладіть:
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
 
-::: deleteme-box
-
-**lekt4301.jpg**: Деталі в licenses.md
-
-**lekt4401.jpg**: Спеціальної ліцензії/джерела зображення в тексті не знайдено
-
-**lekt4402.jpg**: Малюнок Анрі Ґербо (1863 - 1930) (Суспільне надбання)
-
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання, без обробки)
-
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання, з однаковим ліцензуванням)
-
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання) &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання) &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання, з однаковим ліцензуванням)
-
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання, без обробки)
-
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Доступ від 2009-01-08. -- Ліцензія Creative Commons (Згадка про автора, некомерційне використання, без обробки)
-:::

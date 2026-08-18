@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Παρακείμενος τύπου Αʹ: οὐδεμία φωνηεντικὴ ἐναλλαγή <!-- TODO: Fallback translation -->
+### 46.1.3. Παρακείμενος τύπου Αʹ: οὐδεμία φωνηεντικὴ ἐναλλαγή
 
 Ῥήματα, ταῦτα τὸν τύπον ἀκολουθοῦντα:
 
@@ -130,7 +130,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 #### 46.1.5.2. Παρακείμενος τύπου Γβʹ: Ἰσχυρὸν θέμα πλήρους/ἐκτεταμένης βαθμίδος, ἀσθενὲς θέμα πλήρους βαθμίδος
 
-Verba quae hunc typum sequuntur: <!-- TODO: Fallback translation -->
+Verba quae hunc typum sequuntur:
 
 *   (Consonant-)(Consonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -654,26 +654,5 @@ PPP ⟪परिभूत⟫ 3: νικηθείς, ταπεινωθείς, ἐξ�
 ![](/images/lekt4612.webp)
 Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/grc/licenses#lekt4612)
 (Image source: [Details](/grc/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-Πηγή εικόνων Ναβγράχα: Redtigerxyz / Βικιπαίδεια. Άδεια GNU FDLicense
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, περ. 1870). Πηγή: Βικιπαίδεια. Δημόσιος τομέας
-
-L4606: ⟪अश्वरोहकः⟫, Πούνε=⟪पुणे⟫. Πηγή: wili_hybrid, Flickr, CC BY 2.0
-
-L4608: Ουντάιπουρ. Πηγή: Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609: Karnataka=Καρνάτακα. Πηγή: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, Kamareddy=Καμαρέντι. Πηγή: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, Bangalore=Μπανγκαλόρε. Πηγή: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, Kutch=⟪कच्छ⟫. Πηγή: orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612: Μουμπάι=⟪मुंबई⟩ μετά την επίθεση, 11 Ιουλίου 2006. Πηγή: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
 :::
 

@@ -9,7 +9,7 @@ status: stable
 
 # Leçon 22
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫) <!-- TODO: Fallback translation -->
+## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
 
 ::: grammar-box
 
@@ -257,16 +257,5 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Fig. : ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2204))
-:::
-
-::: deleteme-box
-
-**lekt2201 :** Goa = ⟪गोंय⟫ [Source de l'image : Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Consulté le 2008-12-12. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
-
-**lekt2202 :** 19e siècle [Source de l'image : Wikipedia, Domaine public]
-
-**lekt2203 :** Kolkatta = কলকাতা [Source de l'image : The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Consulté le 2008-12-12. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
-
-**lekt2204 :** [Source de l'image : Curt Carnemark / Banque mondiale. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Consulté le 2008-12-12. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
 :::
 

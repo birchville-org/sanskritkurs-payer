@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 50
 
@@ -189,7 +189,7 @@ Fig.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : ver <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : ver
 
 ::: indent
 Perf. ⟪चचक्षे⟫
@@ -290,24 +290,5 @@ Explicação:
 
 Explicações:
 ⟪निषेकादीनि⟫ : Nom.Ac.pl.Neutro
-:::
-::: deleteme-box
-
-**lekt5007:** Fig.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Fonte da imagem: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Acessado em 2009-01-12. -- [Licença Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuição)]
-
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Fonte da imagem: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Acessado em 2009-01-12. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-
-**lekt5001:** Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Fonte da imagem: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Acessado em 2009-01-12. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribuição, CompartilhaIgual)]
-
-**lekt5002:** Chegada da monção, Bangalore ಬೆಂಗಳೂರು [Fonte da imagem: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Acedido em 2009-01-12. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-
-**lekt5005:** [Fonte da imagem: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Acedido em 2009-01-12. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribuição, Partilha nos Mesmos Termos)]
-
-**lekt5003:** [Fonte da imagem: dhyanji. -- [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Acedido em 2009-01-12. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Fonte da imagem: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5008:** Ganeshpuri, a 80 km de Mumbai (⟪मुंबई⟫) [Fonte da imagem: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Acessado em 2009-01-13. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, uso não comercial, Partilha nos Mesmos Termos)]
-
 :::
 

@@ -5,7 +5,7 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 25
 
@@ -201,7 +201,7 @@ de la care:
 Fig.: ⟪धान्यम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : a ține, a reține <!-- TODO: Fallback translation -->
+⟪धृ⟫ 1U ⟪धरति⟫ : a ține, a reține
 
 ::: indent
 Fut. ⟪धरिष्यति⟫  
@@ -272,7 +272,7 @@ de la care:
 
 ⟪किल्बिष⟫ n.: vină, insultă, păcat
 
-⟪विना⟫ Postpoziție: fără, exceptând (cu Akk., Instr., Abl.) <!-- TODO: Fallback translation -->
+⟪विना⟫ Postpoziție: fără, exceptând (cu Akk., Instr., Abl.)
 
 ⟪मूल⟫ n.: rădăcină
 
@@ -281,7 +281,7 @@ de la care:
 Fig.: ⟪मूलानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): a unsge, a unge <!-- TODO: Fallback translation -->
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): a unsge, a unge
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
@@ -361,7 +361,7 @@ din:
 Fig.: ⟪हिरण्यम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : subțire, fin, foarte mic ; m.: atom <!-- TODO: Fallback translation -->
+⟪अणु⟫ ⟪३⟫ : subțire, fin, foarte mic ; m.: atom
 
 ⟪गोदान⟫ n.: dare de vaci / a unei vaci; a doua ceremonie de tundere a părului (un ⟪संस्कार⟫)
 
@@ -470,7 +470,7 @@ Explicație: ⟪राजा⟫ = Nom. sg. la ⟪राजन्⟫ m. = ⟪न�
 
 Explicarea cuvintelor evidențiate în roșu în textul de mai sus:
 
-1.5.1. ⟪तिस्रस्⟫ : substantiv, acuzativ, feminin, derivat din ⟪त्रि⟫ "trei" <!-- TODO: Fallback translation -->
+1.5.1. ⟪तिस्रस्⟫ : substantiv, acuzativ, feminin, derivat din ⟪त्रि⟫ "trei"
 
 1.5.2. ⟪प्राणभृताम्⟫ : genitiv, plural, masculin, derivat din ⟪प्राणभृत्⟫ m. "ființe vii"
 

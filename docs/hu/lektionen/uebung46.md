@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 46
 
-A) Határozzák meg és fordítsák le a következő alakokat: <!-- TODO: Fallback translation -->
+A) Határozzák meg és fordítsák le a következő alakokat:
 
 ::: grammar-box
 | Szóalak | Meghatározás | Jelentés |
@@ -54,7 +54,7 @@ A) Határozzák meg és fordítsák le a következő alakokat: <!-- TODO: Fallba
 | ⟪३७⟫. ⟪जज्ञिषे⟫ | ⟪जन्⟫ (4Ā) / ⟪ज्ञा⟫ (9U) 2. szg. Ā. Perf. | születettél / megértettél |
 | ⟪३८⟫. ⟪चिक्य⟫ | ⟪चि⟫ (5U) 2. sz. P. Perf. | felhalmoztatok |
 | ⟪३९⟫. ⟪अवेक्ष्य⟫ | ⟪अव⟫-⟪ईक्ष्⟫ (1Ā) Abszol. | miután észrevette |
-| ⟪४०⟫. ⟪वक्थ⟫ | ⟪वच्⟫ (2P) 2. sz. P. Ind. Jelen | beszéltek <!-- TODO: Fallback translation -->
+| ⟪४०⟫. ⟪वक्थ⟫ | ⟪वच्⟫ (2P) 2. sz. P. Ind. Jelen | beszéltek
 
 | ⟪४१⟫. ⟪शिष्ठ⟫ | ⟪शास्⟫ (2P) 2. pl. P. Ind. Präs. | tanítotok |
 | ⟪४२⟫. ⟪पेचिथ⟫ | ⟪पच्⟫ (1U) 2. sg. P. Perf. | főztél |
@@ -69,7 +69,7 @@ A) Határozzák meg és fordítsák le a következő alakokat: <!-- TODO: Fallba
 | ⟪५१⟫. ⟪सुषुपुः⟫ | ⟪स्वप्⟫ (2P) 3. pl. P. Perf. | aludtak |
 | ⟪५२⟫. ⟪ऊसु⟫ | ⟪वस्⟫ (1P) 2. pl. P. Perf. | laktatok |
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Képek (⟪सुभाषितानि⟫)
 

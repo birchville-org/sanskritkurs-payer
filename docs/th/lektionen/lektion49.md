@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # บทที่ 49
 
@@ -370,27 +370,5 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 ภาพ: ⟪शुकः⟫
 นกแก้วหัวพลัม = Psittacula cyanocephala
 (แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [แหล่งที่มาของภาพ: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- เข้าถึงเมื่อ 2009-01-10. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ให้เครดิต, ไม่ใช้เพื่อการค้า, แบ่งปันแบบเดียวกัน)]
-
-**lekt4901:** [แหล่งที่มาของภาพ: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- เข้าถึงเมื่อ 2009-01-11. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (ให้เครดิต, ไม่ดัดแปลง)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, ศตวรรษที่ 11 [แหล่งที่มาของภาพ: Vassil / Wikipedia. สาธารณสมบัติ]
-
-**lekt4903:** [แหล่งที่มาของภาพ: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- เข้าถึงเมื่อ 2009-01-11. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต, ไม่ใช้เพื่อการค้า, ไม่ดัดแปลง)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [แหล่งที่มาของภาพ: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- เข้าถึงเมื่อ 2009-01-11. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ให้เครดิต, ไม่ใช้เพื่อการค้า, แบ่งปันแบบเดียวกัน)]
-
-**lekt4909:** หมอดูพร้อมนกแก้วในกรง: นกแก้วดึงกระดาษเล็กๆ ที่เขียนชะตากรรมไว้ Mysore [แหล่งที่มาของภาพ: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- เข้าถึงเมื่อ 2009-01-12. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by/2.0/deed.de) (ให้เครดิต)]
-
-**lekt4905:** อัมริตسر = ਅੰਮ੍ਰਿਤਸਰ [แหล่งที่มาของภาพ: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- เข้าถึงเมื่อ 2009-01-11. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by/2.0/deed.de) (ให้เครดิต)]
-
-**lekt4906:** ศรีลังกา [แหล่งที่มาของภาพ: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- เข้าถึงเมื่อ 2009-01-11. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต ห้ามใช้เพื่อการค้า ห้ามดัดแปลง)]
-
-**lekt4908:** นกแก้วหัวพลัม _= Psittacula cyanocephala_[แหล่งที่มาของภาพ: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- เข้าถึงเมื่อ 2009-01-12. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ให้เครดิต ห้ามใช้เพื่อการค้า แบบเดียวกัน)]
-
 :::
 

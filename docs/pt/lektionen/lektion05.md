@@ -5,17 +5,10 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 5
 
-::: deleteme-box
-**Nesta lição, você aprenderá:**
-- Fundamentos dos compostos nominais (samāsa)
-- Terminologia técnica para compostos
-- Compostos copulativos (Dvandva)
-- A ordem dos membros nos Dvandvas
-:::
 ## 5.1. Compostos Nominais (samāsa m. = ⟪समास⟫)
 
 A formação de palavras compostas em grande escala é uma característica do Sânscrito.
@@ -119,7 +112,7 @@ Fig.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, séc. XVIII.
 
 **rāga** m. = ⟪राग⟫ : Cor (vermelha), paixão, amor.
 
-**lobha** m. = ⟪लोभ⟫ : Ganância, avareza. <!-- TODO: Fallback translation -->
+**lobha** m. = ⟪लोभ⟫ : Ganância, avareza.
 
 **varṇa** m. = ⟪वर्ण⟫ : Cor, gênero, casta.
 
@@ -151,7 +144,7 @@ Fig.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, séc. XVIII.
 3. sāmavedargvedayajurvedās trayī.
 (Kauṭilīya-arthaśāstra 1.3.1. / em bom sânscrito: sāmārgyajurvedās trayī)
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-(em bom sânscrito: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
+(em bom sânscrito: ⟪सामार्यजुर्वेदास्त्रयी⟫)
 
 4. Os três inimigos do homem, que formam o portão para o inferno (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -168,7 +161,7 @@ Fig.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, séc. XVIII.
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
 (Segundo o Kauṭilīya-arthaśāstra 1.2.1.)
-⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
 ## 5.6. Exercício de revisão
 

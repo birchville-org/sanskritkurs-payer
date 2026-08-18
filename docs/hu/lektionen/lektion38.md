@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# 38. lecke <!-- TODO: Fallback translation -->
+# 38. lecke
 
 ## 38.1. A hét üzenete
 
@@ -21,7 +21,7 @@ status: stable
 :::
 Magyarázatok:
 
-\-⟪अग्नि⟫ semlegesnem nominativus/akkuzatívus egyes szám a következőhöz: ⟪अग्नि⟫ m. <!-- TODO: Fallback translation -->
+\-⟪अग्नि⟫ semlegesnem nominativus/akkuzatívus egyes szám a következőhöz: ⟪अग्नि⟫ m.
 
 \-:sig[⟪गु⟫] semlegesnem nominativus/akkuzatívus egyes szám a következőhöz: ⟪गो⟫ m.f. "tehén, szarvasmarha"
 
@@ -37,7 +37,7 @@ A szóban lévő nazálisok a rájuk következő mássalhangzókhoz asszimilál�
 
 A c- és j-előtagok után a -n- helyett -ñ- lép fel.
 :::
-## 38.3. A -n végű tövek ragozása <!-- TODO: Fallback translation -->
+## 38.3. A -n végű tövek ragozása
 
 ### 38.3.1. -an végű főnevek, valamint a magánhangzó után álló -man vagy -van végű főnevek
 ::: grammar-box
@@ -47,7 +47,7 @@ A **-an** végű főnevek, valamint a magánhangzó után álló **-man** és **
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Tő** | **-ān** | **-mān** | **-vān** | Nominativus, Akkusativus, Vokativus egyes szám nemű:brNominativus, Akkusativus, Vokativus kettős szám nemű:brNominativus, Vokativus többes szám nemű:brNominativus, Akkusativus többes szám középnemű |
 | **Mittlerer Schwacher Tő** | **-a** :br(*-n-ből) | **-ma** :br(*-mn-ből) | **-va** :br(*-vn-ből) | Übrige Kasus vor konsonantisch anlautender Végződés:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Tő** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Végződés | <!-- TODO: Fallback translation -->
+| **Schwächster Tő** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Végződés |
 
 **A végződések szabályosak. A nominativus singularis m. f. -n kimenetel nélkül képződik.**
 :::
@@ -114,7 +114,7 @@ Példák:
 *   erős Tő: ⟪आत्मान्⟫
 *   gyenge Tő:
     *   mássalhangzó előtt: ⟪आत्म⟫
-    *   magánhangzó előtt: ⟪आत्मन्⟫ <!-- TODO: Fallback translation -->
+    *   magánhangzó előtt: ⟪आत्मन्⟫
 
 ⟪ब्रह्मन्⟫ n.: Abszolútum, Veda, Brahman
 
@@ -122,7 +122,7 @@ Példák:
 *   gyenge Tő:
     *   mássalhangzó előtt: ⟪ब्रह्म⟫
     *   magánhangzó előtt: ⟪ब्रह्मन्⟫
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
 | :--- | :---: | :---: |
@@ -144,18 +144,18 @@ Példák:
 | ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
-### 38.3.3. Maskulina és Neutra -in, -min, -vin végződésűek <!-- TODO: Fallback translation -->
+### 38.3.3. Maskulina és Neutra -in, -min, -vin végződésűek
 
 ::: grammar-box
-Ezek a főnevek **nem** mutatnak gyökváltozást. <!-- TODO: Fallback translation -->
+Ezek a főnevek **nem** mutatnak gyökváltozást.
 
 A nominativus egyes számú nemnemű és a nominativus-akkuzatívus többes számú semleges alakok az -an gyökökhöz hasonlóan képződtek (az -i- megnyújtása), ugyanígy a mássalhangzós végződés előtt álló **\-i-** gyök.
 
 A nőnemű alakot a -ī képzővel képezzük: pl. ⟪बलिनी⟫
 :::
-Példa: <!-- TODO: Fallback translation -->
+Példa:
 
-⟪बलिन्⟫ m.n. "erős, erős (kifejezetten ⟪बल⟫-szel jellemezve, ⟪बल⟫ birtokában)" <!-- TODO: Fallback translation -->
+⟪बलिन्⟫ m.n. "erős, erős (kifejezetten ⟪बल⟫-szel jellemezve, ⟪बल⟫ birtokában)"
 
 ::: grammar-box
 
@@ -197,7 +197,7 @@ Példa:
 Ábr.: ⟪हस्ती⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : egy olyan, akinek (emberi) keze van <!-- TODO: Fallback translation -->
+⟪हस्तवन्त्⟫ : egy olyan, akinek (emberi) keze van
 
 ::: media
 ![](/images/lekt3807.webp)
@@ -215,7 +215,7 @@ Példa:
 ## 38.5. Szintaktikai megjegyzések ⟪नामन्⟫ kapcsán
 
 ::: grammar-box
-Annak kifejezésére, hogy "N. N. nevű valaki", a következő szerkezetet alkalmazzuk: <!-- TODO: Fallback translation -->
+Annak kifejezésére, hogy "N. N. nevű valaki", a következő szerkezetet alkalmazzuk:
 
 **N.N. (alanyesetben) ⟪नाम⟫**
 
@@ -238,7 +238,7 @@ Természetesen ugyanazt kifejezhetjük egy ⟪बहुव्रीहि⟫ seg
 Ábr.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt3808))
 :::
-## 38.6. Szintaktikai megjegyzések a ⟪आत्मन्⟫ kapcsán <!-- TODO: Fallback translation -->
+## 38.6. Szintaktikai megjegyzések a ⟪आत्मन्⟫ kapcsán
 
 ::: grammar-box
 ⟪आत्मन्⟫ **hímnem** használható a **tőszám**ban visszautaló névmódként (reflexív névmás) mindhárom nemre, számra (kettős és többes szám is), valamint személyekre.
@@ -258,17 +258,17 @@ Példa:
 ::: indent
 ⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Belép a saját házába."
 :::
-## 38.7. Mássalhangzóra végződő tövek mint a összetételek első tagjai <!-- TODO: Fallback translation -->
+## 38.7. Mássalhangzóra végződő tövek mint a összetételek első tagjai
 
 ::: grammar-box
 Azok a tövek, amelyek mássalhangzóra végződnek, az összetétel első tagjaként abban (gyenge) alakban jelennek meg, amelyet a lokativus (-su) többes számú végződés előtt felvennek. (⟪सप्तमी⟫)
 :::
-Példa: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
 :sig[⟪राज⟫]⟪पुत्र⟫ "Királyfi"
 :::
-## 38.8. -an végződésű tövek mint a ⟪बहुव्रीहि⟫ második tagja <!-- TODO: Fallback translation -->
+## 38.8. -an végződésű tövek mint a ⟪बहुव्रीहि⟫ második tagja
 
 ::: grammar-box
 A ⟪बहुव्रीहि⟫ második tagjaként egy -an végződésű tő használható mindhárom nemben. Általában azonban a nőnemet a leggyengébb hímnemű tőből képezik az -ī végződéssel.
@@ -278,9 +278,9 @@ Példa:
 ::: indent
 ⟪दुर्णाम्नी⟫ „egy, akinek a neve rossz; betegségek démonnője”
 :::
-## 38.9. Szószedet <!-- TODO: Fallback translation -->
+## 38.9. Szószedet
 
-⟪सूर्य⟫ m.: Nap, napisten Sūrya <!-- TODO: Fallback translation -->
+⟪सूर्य⟫ m.: Nap, napisten Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
@@ -294,7 +294,7 @@ Példa:
 Ábr.: ⟪उदकम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : fúj, fou <!-- TODO: Fallback translation -->
+⟪वा⟫ 2P ⟪वाति⟫ : fúj, fou
 
 ::: indent
 Jöv. ⟪वास्यति⟫
@@ -337,7 +337,7 @@ ebből:
 :::
 ⟪सुत⟫ m.: fiú
 
-⟪राजन्⟫ m.: király (az indiai királyságról lásd Basham, Wonder old. 82–94). Összetétel végén (különösen ⟪तत्पुरुष⟫) általában: -:sig[⟪राज⟫] m. (mint ⟪देव⟫) <!-- TODO: Fallback translation -->
+⟪राजन्⟫ m.: király (az indiai királyságról lásd Basham, Wonder old. 82–94). Összetétel végén (különösen ⟪तत्पुरुष⟫) általában: -:sig[⟪राज⟫] m. (mint ⟪देव⟫)
 
 ::: indent
 Nem:
@@ -356,7 +356,7 @@ a(z) :sig[⟪राज⟫] :
 
 ⟪ब्रह्मन्⟫ n.: az abszolút, a Védák (Thieme szerint eredetileg: megfogalmazott igazság, ebből ⟪ब्राह्मण⟫ "az igazság megfogalmazója")
 
-⟪ब्रह्मन्⟫ m.: személyes teremtő isten, Brahmā <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ m.: személyes teremtő isten, Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
@@ -368,16 +368,16 @@ a(z) :sig[⟪राज⟫] :
 ::: indent
 ⟪कर्मविपाक⟫ m.: a cselekvések érlelődése = a korábbi létezési állapotokban elkövetett cselekvések jó és rossz következményei (lásd ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: elefánt (_Elephas maximus_) <!-- TODO: Fallback translation -->
+⟪हस्तिन्⟫ m.: elefánt (_Elephas maximus_)
 
-⟪मनु⟫ m.: ember, férfi; az emberi nem atyjának a neve (lásd ⟪मन्⟫ 4Ā) <!-- TODO: Fallback translation -->
+⟪मनु⟫ m.: ember, férfi; az emberi nem atyjának a neve (lásd ⟪मन्⟫ 4Ā)
 
 ::: indent
 ebből:
 
 ⟪मनुष्य⟫ m.: ember
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (lángzik, ragyog); gyászol, sirat <!-- TODO: Fallback translation -->
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (lángzik, ragyog); gyászol, sirat
 
 ::: indent
 Perf. II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -408,7 +408,7 @@ ebből:
 :::
 ## 38.10. Gyakorlat
 
-A) Illessze be a következő mondatokba a zárójelben megadott szavak megfelelő alakját, és fordítsa le őket: <!-- TODO: Fallback translation -->
+A) Illessze be a következő mondatokba a zárójelben megadott szavak megfelelő alakját, és fordítsa le őket:
 
 ... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
 
@@ -442,7 +442,7 @@ A) Illessze be a következő mondatokba a zárójelben megadott szavak megfelel�
 
 ## 38.11. Szószedet a fordítási gyakorláshoz
 
-⟪प्राय⟫  m.: fő dolog, felsz. ⟪प्रायेण⟫ : általában, szokásosan (a ⟪प्र⟫-⟪इ⟫ szavakhoz) <!-- TODO: Fallback translation -->
+⟪प्राय⟫  m.: fő dolog, felsz. ⟪प्रायेण⟫ : általában, szokásosan (a ⟪प्र⟫-⟪इ⟫ szavakhoz)
 
 ⟪विनोद⟫ m.: időtöltés, szórakozás, élvezet
 
@@ -460,7 +460,7 @@ Kaus. ⟪आटयति⟫
 :::
 ⟪गाध⟫ 3: sekély
 
-⟪तॄ⟫ 1P ⟪तरति⟫: átkel, megmenti magát (vki/mtől) (Tárgyeset) <!-- TODO: Fallback translation -->
+⟪तॄ⟫ 1P ⟪तरति⟫: átkel, megmenti magát (vki/mtől) (Tárgyeset)
 
 ::: indent
 Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
@@ -479,7 +479,7 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 Kép: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt3813))
 :::
-⟪एकैकशस्⟫ Hat.: egyesével <!-- TODO: Fallback translation -->
+⟪एकैकशस्⟫ Hat.: egyesével
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : számol
 
@@ -565,9 +565,9 @@ Magyarázatok:
 
 ⟪बाहुभ्याम्⟫ Instrumentális/Datív/Ablatív kettős szám a ⟪बाहु⟫ m. "kar" szóból
 
-:sig[⟪सर्वे⟫] Nominatív többes szám, férfi nem a ⟪सर्व⟫ 3 "minden egyes, mind" szóból <!-- TODO: Fallback translation -->
+:sig[⟪सर्वे⟫] Nominatív többes szám, férfi nem a ⟪सर्व⟫ 3 "minden egyes, mind" szóból
 
-:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "tudni akar, tudni szeret" <!-- TODO: Fallback translation -->
+:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "tudni akar, tudni szeret"
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "kilenc"
 
@@ -581,26 +581,9 @@ Magyarázatok:
 
 :sig[⟪समजनि⟫] 3. személy, egyes szám, közönséges mód, múlt idő, szenvedő szerkezet a következőhöz: ⟪जन्⟫
 
-⟪तरसा⟫ Eszközes eset, egyes szám a következőhöz: ⟪तरस्⟫ n. "energia", határozószói jelentésben: "gyorsan, erővel" <!-- TODO: Fallback translation -->
+⟪तरसा⟫ Eszközes eset, egyes szám a következőhöz: ⟪तरस्⟫ n. "energia", határozószói jelentésben: "gyorsan, erővel"
 
 :sig[⟪यूयम्⟫] Névrag. "ő"
 
 ⟪युष्माकम्⟫ Gen.pl. a következőhöz: :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Kép: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Képmegjelölés: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Hozzáférés: 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)\]
-- **lekt3802.jpg**: Kép: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Képmegjelölés: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Hozzáférés: 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)\]
-- **lekt3803.jpg**: Kép: ⟪सीमा⟫  Határátlpassz India és Pakisztán között Wagahban (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Képmegjelölés: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Hozzáférés: 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)\]
-- **lekt3804.jpg**: Kép: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, i. sz. 2./3. század \[Képmegjelölés: Wikipedia. Közterület\]
-- **lekt3805.jpg**: Kép: ⟪उदकम्⟫  Darewadi falu, Ahmed Nagar kerület = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Képmegjelölés: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Hozzáférés: 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)\]
-- **lekt3806.jpg**: Kép: ⟪हस्ती⟫  Nagarhole Nemzeti Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Képmegjelölés: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Hozzáférés: 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)\]
-- **lekt3807.jpg**: Kép: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Képmegjelölés: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Hozzáférés: 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, no derivatives)\]
-- **lekt3808.jpg**: Kép: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930-as évek \[Képmegjelölés: Wikipedia. Közterület\]
-- **lekt3809.jpg**: Kép: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Képmegjelölés: Wikipedia. GNU FDLicense\]
-- **lekt3810.jpg**: Kép: Ashoka-fa = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Képmegjelölés: J.M.Garg / Wikipedia. GNU FDLicense\]
-- **lekt3811.jpg**: Kép: Aśoka birodalmának legnagyobb kiterjedése, valamint szikla- és oszlopédiktumainak lelőhelyei \[Képmegjelölés: Wikipedia. GNU FDLicense\]
-- **lekt3812.jpg**: Kép: ⟪विनोदः⟫  Carrom játék \[Képmegjelölés: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Hozzáférés: 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)\]
-- **lekt3813.jpg**: Kép: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Képmegjelölés: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Hozzáférés: 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)\]
-- **lekt3814.jpg**: Kép: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Képmegjelölés: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Hozzáférés: 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, no derivatives)\]
-:::

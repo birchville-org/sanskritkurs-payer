@@ -9,15 +9,8 @@ last_reconstructed: 2026-05-07
 
 # Leçon 9
 
-::: deleteme-box
-**Dans cette leçon, vous apprendrez :**
-- Le Samāhāradvandva (« dvandva de résumé »)
-- La formation de stems nominaux avec les suffixes **-ka** (taddhita) et **-aka** (kṛt)
-- Le vocabulaire sur le thème des professions et des rôles sociaux
-- Des citations tirées de textes classiques de loi (Dharmaśāstras)
-:::
 
-## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva") <!-- TODO: Fallback translation -->
+## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
 
 ::: grammar-box
 **Si un dvandva doit exprimer qu’une série de choses, etc., forment une unité, il est généralement au singulier neutre :**
@@ -47,7 +40,7 @@ Outre cette règle fondamentale de formation des Samāhāradvandvas, il existe u
    **rūpa n. "forme" » rūpaka 3 ⟪रूपक⟫ "ayant la forme de quelque chose"**
 :::
 
-### 9.2.2. -aka (kṛt), fem. oft -ikā <!-- TODO: Fallback translation -->
+### 9.2.2. -aka (kṛt), fem. oft -ikā
 
 ::: grammar-box
 **Le suffixe kṛt -aka, au féminin souvent -ikā, forme des noms d'agent (noms exprimant l'exécutant) à partir de n'importe quelle racine.**
@@ -63,7 +56,7 @@ Un vocalisme final de la racine, ainsi que **-a-** à l'avant-dernière position
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" | <!-- TODO: Fallback translation -->
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
 ::: grammar-box
 **Certaines de ces formations ont le sens plus restreint : « celui qui accommode habituellement ou par obligation ou bien ce qui est exprimé par la racine ».**
@@ -76,7 +69,7 @@ voir ci-dessus par ex. **śrāvaka**, **yājaka**, **jayaka**
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" | <!-- TODO: Fallback translation -->
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" |
 
 Il existe également quelques utilisations moins importantes du suffixe **-aka**. Voir Wackernagel, Altindische Grammatik, II, §45ff.
 
@@ -149,7 +142,7 @@ Fig. : **karṣaka** = ⟪कर्षक⟫.
 1. Devoirs de tous les deux fois nés :
    **ijyādhyayanadānāni**
    ⟪इज्याध्ययनदानानि⟫
-   (Yājñavalkyadharmaśāstra I, 118) <!-- TODO: Fallback translation -->
+   (Yājñavalkyadharmaśāstra I, 118)
 
 2. Devoirs spécifiques d'un Brahmane :
    **pravacanayājanapratigrahāḥ**
@@ -175,4 +168,3 @@ Fig. : **karṣaka** = ⟪कर्षक⟫.
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
    (d'après Kauṭilīya-Arthaśāstra 1.4.1.)
- <!-- TODO: Fallback translation -->

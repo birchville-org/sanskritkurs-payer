@@ -35,7 +35,7 @@ Focul care arde pe cei morți arde și pe soția credincioasă (satī).
 Bunul maestru laudă pe marele zeu cu imnuri de la marii poeți.
 
 ⟪३⟫. ⟪महान्ति⟫ ⟪फलान्यदन्तो⟫ ⟪बाला⟫ ⟪जलमापि⟫ ⟪पिबन्ति⟫ ⟪॥⟫
-Băieții care mănâncă fructe mari beau și apă. <!-- TODO: Fallback translation -->
+Băieții care mănâncă fructe mari beau și apă.
 
 ⟪४⟫. ⟪पुजां⟫ ⟪कुर्वञ्जनो⟫ ⟪यजते⟫ ⟪च⟫ ⟪स्तौति⟫ ⟪च⟫ ⟪देवताम्⟫ ⟪॥⟫
 În timpul venerării, bărbatul jertfește și laudă zeitatea.
@@ -50,5 +50,5 @@ Cine a învins mânia nu urăște un dușman, chiar dacă acesta îl omoară. Ci
 ![](/images/uebung033.webp)
 Fig.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung033))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

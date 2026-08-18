@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: Ρυθμίσεις
+title: "Ρυθμίσεις"
+
 ---
 
 <ClientOnly>

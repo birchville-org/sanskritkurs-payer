@@ -1,10 +1,11 @@
 ---
-title: "# Lesjon 2"
-subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
+title: "Les 2"
+subtitle: "De nominale zin en de basis van de deklinatie"
 lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 
@@ -203,6 +204,21 @@ Abb.: Gott Agni, Miniatur, 18. Jh.
 :::
 **sādhu** 3 -- ⟪साधु⟫ : richtig, gut.
 
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+:::
+Varṇas sind demgemäss Geburtsstände.
+
+**kavi** m. -- ⟪कवि⟫ : Dichter.
+
+**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni.
+
+::: media
+![](/images/lekt0203.jpg)
+Abb.: Gott Agni, Miniatur, 18. Jh.
+(Bildquelle: [Details](/nl/licenses#lekt0203))
+:::
+**sādhu** 3 -- ⟪साधु⟫ : richtig, gut.
+
 **sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu.
 
 ::: media
@@ -217,7 +233,7 @@ Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 
 ## 2.6. Übung
 
-**A) Setzen Sie unter Beachtung des Sandhi ein und bilden Sie Nominalsätze:**
+**A) Voeg onder inachtneming van de sandhi in en vorm nominale zinnen:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
    = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
@@ -232,15 +248,14 @@ Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
    = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
+**B) Übersetzen Sie ins Sanskrit:**
 
-**B) Vertaal naar het Sanskriet:**
-
-1. Rāma is een brahmaan.
-2. De leraar is een vaiśya.
-3. De śūdra is een heilige man.
-4. De dichter is de leraar.
-5. Viṣṇu is de HEER.
-6. De HEER is Śiva.
-7. De tweemaalgeborene is een brahmaan.
+1. Rāma ist ein Brahmane.
+2. Der Lehrer ist ein Vaiśya.
+3. Der Śūdra ist ein heiliger Mann.
+4. Der Dichter ist der Lehrer.
+5. Viṣṇu is de HERR.
+6. De HERR is Śiva.
+7. De tweemal geborene is een brahmaan.
 8. De heilige man is een leraar.
 9. De leraar is een heilige man.

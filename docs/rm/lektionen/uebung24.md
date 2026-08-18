@@ -85,7 +85,7 @@ Per morir vegnan essers naschids.
 Abb.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung037))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Variaziuns sintacticas
 
@@ -113,7 +113,7 @@ E) Sostitui en la frasa B) 6 il dativ cun ina construcziun cun **-⟪अर्�
 **⟪अनिष्टदेवी⟫ ⟪नरेभ्यः⟫ ⟪क्रुध्यति⟫ ⟪।⟫ (u: ⟪कुप्यति⟫ ⟪॥⟫)**
 
 2\. El lascha la vacca ir en il vitg.
-**⟪ग्रामाय⟫ ⟪धेनुं⟫ ⟪मुञ्चति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪ग्रामाय⟫ ⟪धेनुं⟫ ⟪मुञ्चति⟫ ⟪॥⟫**
 
 3\. Uschè èn! (Bastà cun la pazienza!)
 **⟪अलं⟫ ⟪क्षमया⟫ ⟪॥⟫**
@@ -146,7 +146,7 @@ E) Sostitui en la frasa B) 6 il dativ cun ina construcziun cun **-⟪अर्�
 **⟪भवद्भ्यः⟫ ⟪कुशलम्⟫ ⟪॥⟫**
 
 13\. El na vescha en el betg sco in chavard.
-**⟪न⟫ ⟪तं⟫ ⟪तृणाय⟫ ⟪मन्यते⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪न⟫ ⟪तं⟫ ⟪तृणाय⟫ ⟪मन्यते⟫ ⟪॥⟫**
 
 14\. In fruit basta per mangiar ed aua per bair.
 **⟪अलं⟫ ⟪फलं⟫ ⟪खादनाय⟫ ⟪पानाय⟫ ⟪जलम्⟫ ⟪॥⟫**
@@ -159,4 +159,3 @@ E) Sostitui en la frasa B) 6 il dativ cun ina construcziun cun **-⟪अर्�
 Abb.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung038))
 :::
- <!-- TODO: Fallback translation -->

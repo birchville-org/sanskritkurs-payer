@@ -241,13 +241,3 @@ B) Decline in all cases known to you ⟪क्षत्रिया⟫ f.
 
 ⟪३⟫. ⟪वच् ४⟫. ⟪हन् ॥⟫
 
-::: deleteme-box
-
-**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Image source: Wikipedia. GNU FDL license]
-
-**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Image source: by zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Accessed on 2008-12-13. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-
-**lekt2303:** ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย [Image source: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Accessed on 2008-12-13. -- Creative Commons License (Attribution, no derivatives)]
-
-**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन सिंह⟫, Prime Minister of India = ⟪भारत के प्रधानमन्त्री⟫, since 2004 [Image source: Wikipedia, Public domain]
-:::

@@ -214,7 +214,7 @@ last_reconstructed: 2026-05-16
 | ราก | คำกริยาทำให้ 3. เอกพจน์ บ่งชี้ ปัจจุบัน | ความหมาย |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | ทำให้ยืน, ตั้งไว้ |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | ให้ศึกษา, สอน | <!-- TODO: Fallback translation -->
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | ให้ศึกษา, สอน |
 
 ::: grammar-box
 **การสร้างที่ผิดปกติ:**
@@ -483,11 +483,3 @@ Vīṇā-Spielerin.
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-::: deleteme-box
-
-**lekt2801:** อาคารบริหารมหาวิทยาลัยเจดาฟปูร์ [แหล่งภาพ: Flickr ของ noii, 2008-12-19, CC BY-SA]
-**lekt2802:** วัด ISKCON เมืองบังคาลอร์ [แหล่งภาพ: Flickr ของ Ramki's reflections, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** นักดนตรีหญิงเล่นวีณา [แหล่งภาพ: Kelvin Kay / Wikipedia. GNU FDLicense]
-**lekt2804:** พระกฤษณะและพระราธา ภาพวาดโดย ราชาราวี วรมา [แหล่งภาพ: Wikipedia. Public domain]
-**lekt2805:** เด็กหญิงแบกภาระ ใกล้เมืองอาห์เมดาบาด [แหล่งภาพ: m-bot. Flickr, 2008-12-20. CC BY-SA]
-:::

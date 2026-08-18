@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 58
 
-## 58.1. Desinențele primare ale dualului (⟪द्विवचनम्⟫) <!-- TODO: Fallback translation -->
+## 58.1. Desinențele primare ale dualului (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
@@ -31,7 +31,7 @@ status: stable
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
 ### 58.2.2. A patra clasă de prezente (⟪दिवादिगणः⟫)
 
@@ -184,7 +184,7 @@ Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5805))
 :::
-### 58.5.2. A treia clasă de prezent (⟪जुहोत्यादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.2. A treia clasă de prezent (⟪जुहोत्यादिगणः⟫)
 
 ⟪हु⟫ 3P "a turna în focul jertfei"
 
@@ -220,7 +220,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5807))
 :::
-### 58.5.4. A optulea clasă de prezente (⟪तनादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.4. A optulea clasă de prezente (⟪तनादिगणः⟫)
 
 ⟪तन्⟫ 8U "a întinde"
 
@@ -275,7 +275,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-Aorist <!-- TODO: Fallback translation -->
+## 58.6. Aorist 5: iṣ-Aorist
 
 ::: grammar-box
 **Aoristul iṣ se formează de la toate rădăcinile seṭ, pentru care nu se învață explicit o altă formă a aoristului.**
@@ -295,7 +295,7 @@ Sufixul de formare a temei + terminațiile aoristului iṣ sunt, așadar:
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
 | **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(opțional după -h sau semivocală) |
-| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** | <!-- TODO: Fallback translation -->
+| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
 :::
 ::: grammar-box
@@ -458,16 +458,3 @@ B) Traduceți și determinați următoarele forme:
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [Sursă imagine: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Accesat la 2009-03-02. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
-
-**lekt5803:** Parcul Național Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [Sursă imagine: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- Accesat la 2009-03-02. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, fără utilizare comercială, fără modificări)]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [Sursă imagine: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Accesat la 2009-03-02. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, fără utilizare comercială, fără modificări)]
-
-:::

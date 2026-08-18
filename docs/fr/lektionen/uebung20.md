@@ -253,9 +253,6 @@ La clarification de l'esprit se fait par le développement de la bienveillance a
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
 Le yoga de l'action est l'ascèse, l'étude des Védas et le service attentif au SEIGNEUR. Il a pour but le développement de la concentration et l'affaiblissement des "souffrances".
 
-::: deleteme-box Explication
-Les cinq "souffrances" (⟪क्लेश⟫) sont : **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — l'ignorance, l'egoïsme, l'avidité, la haine et l'attachement au corps.
-:::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Le plus haut but de l'homme est que la triple souffrance disparaisse complètement. (*Triple souffrance : venant de soi-même, des objets, des dieux.*)
 

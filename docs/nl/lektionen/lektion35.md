@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: Lektion 35
 lesson_id: 35
@@ -285,13 +285,3 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen.
 
-::: deleteme-box
-
-**lekt3501:** Temple musicians Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** People walking, Senegal. [Bildquelle: Curt Carnemark / World Bank. CC BY-NC-ND]
-
-**lekt3503:** Market in Vadaseri, Tamil Nadu. [Bildquelle: kifo / Flickr. CC BY-SA]
-
-**lekt3504:** Yajña ceremony, Shiva ashram, Ganeshpuri. [Bildquelle: Dey / Flickr. CC BY-NC-SA]
-:::

@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: Setări
+title: "Setări"
+
 ---
 
 <ClientOnly>

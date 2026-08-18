@@ -34,7 +34,7 @@ A) הסבר את השמות הבאים על ידי ציון השורש שממנ�
 
 12\. sṛṣṭi: sṛj 6 P / 4 A "לשחרר, ליצור" + -ti: "התהוות, בריאה"
 
-13\. tantra: tan 8 U "למתוח" + -tra n.: "שתי, אריג" <!-- TODO: Fallback translation -->
+13\. tantra: tan 8 U "למתוח" + -tra n.: "שתי, אריג"
 
 14\. bhāva: bhū 1 P "להיות, להיות" + -a m.: "התהוות, טבע, אופי"
 
@@ -135,7 +135,7 @@ devāḥ kiṃ lubhyanti?
 ⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
 
 11\. מהי הסיבה?
-kiṃ kāraṇam? <!-- TODO: Fallback translation -->
+kiṃ kāraṇam?
 
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 ::: media
@@ -187,13 +187,13 @@ kiṃ kāraṇam? <!-- TODO: Fallback translation -->
 הבתולה נכנסת לבית.
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 הילד מוביל את הפיל.
 
 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟩ שם עצם Vimalā)
-Vimalā ist traurig. <!-- TODO: Fallback translation -->
+Vimalā ist traurig.
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
 התוכי מעופף.

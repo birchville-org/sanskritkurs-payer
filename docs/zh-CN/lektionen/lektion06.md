@@ -9,15 +9,6 @@ status: stable
 
 # 第6课
 
-::: deleteme-box
-**在本课中，您将学习：**
-- 动词句的结构（施事者与动词形式）
-- 动词形式的构成（Parasmaipada、Ātmanepada、被动语态）
-- 动词的语式与时态
-- 陈述语气现在时（laṭ）及第三人称的主要词尾
-- 现在词干的构成（第一、第四和第六类）
-- 元音交替（Ablaut：Guṇa 和 Vṛddhi）
-:::
 ## 6.1. 动词句
 
 ::: grammar-box

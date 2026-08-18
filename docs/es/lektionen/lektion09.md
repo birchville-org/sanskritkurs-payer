@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # Lección 9
 
-::: deleteme-box
-**En esta lección aprenderá:**
-- El Samāhāradvandva ("dvandva de resumen")
-- La formación de raíces nominales con los sufijos **-ka** (taddhita) y **-aka** (kṛt)
-- Vocabulario sobre profesiones y roles sociales
-- Citas de textos clásicos de derecho (Dharmaśāstras)
-:::
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Resumen de dvandva")
 
@@ -159,7 +152,7 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 3. Deberes específicos de un kṣatriya:
    **rakṣaṇaṃ sarvabhūtānām**
    ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-   (sarvabhūtānām = genitivo (caso posesivo): "de todos los seres"; Gautamadharmasūtra X, 7) &lt;!-- TODO: Fallback translation --&gt;
+   (sarvabhūtānām = genitivo (caso posesivo): "de todos los seres"; Gautamadharmasūtra X, 7) &lt;!--  --&gt;
 
 4. Deberes específicos de un vaiśya:
    **kṛṣivāṇijyapāśupālyakusīdam**
@@ -175,4 +168,4 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
    (según Kauṭilīya-Arthaśāstra 1.4.1.)
- &lt;!-- TODO: Fallback translation --&gt;
+ &lt;!--  --&gt;

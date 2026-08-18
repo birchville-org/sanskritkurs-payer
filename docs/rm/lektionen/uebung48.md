@@ -36,7 +36,7 @@ La curtadia è l'adurnament dal grammaticher.
 Abb.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#uebung083))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Traduziuns en il sanscrit (Imperativ)
 
@@ -99,7 +99,7 @@ Re, protegia il dretg ed il pievel!
 Instruescha ils scolars il Veda!
 
 ⟪१८⟫. **⟪नवानि⟫ ⟪वस्त्राणि⟫ ⟪वस्ताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
-El duessa vestgir novs chapels. <!-- TODO: Fallback translation -->
+El duessa vestgir novs chapels.
 
 ⟪१९⟫. **⟪मम⟫ ⟪गृह⟫ ⟪आसताम्⟫ ⟪॥⟫ ⟪१९⟫ ⟪॥⟫**
 Els duessan giacer en mia chasa.
@@ -110,7 +110,7 @@ Marids duessan mantegnair lur consortas.
 ::: media
 ![](/images/uebung076.webp)
 Abb.: ⟪तानि⟫ ⟪फलान्यदाम⟫
-(Sursa da l'imaginescha: [Detagls](/licenses#uebung076)) <!-- TODO: Fallback translation -->
+(Sursa da l'imaginescha: [Detagls](/licenses#uebung076))
 
 :::
 ---

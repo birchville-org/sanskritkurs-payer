@@ -21,7 +21,7 @@ L'imperativ (⟪⟪लोट्⟫⟫) designescha
 *   **Bitte**
 *   **Einladung**
 *   **Überlegung**
-*   **Frage** <!-- TODO: Fallback translation -->
+*   **Frage**
 
 Las significaziuns numnadas ha el en cumina cun l'optativ (⟪विधिलिङ्⟫).
 
@@ -187,21 +187,21 @@ B.) Tradusci en Sanscrit (utilisescha l'imperativ):
 
 1\. Jau vegl esser.
 
-2\. El du esser cuntent. <!-- TODO: Fallback translation -->
+2\. El du esser cuntent.
 
 3\. Nus vulain clamar.
 
-4\. Jau veglirai cun ti (⟪चतुर्थ्या⟫). <!-- TODO: Fallback translation -->
+4\. Jau veglirai cun ti (⟪चतुर्थ्या⟫).
 
 5\. Questa acziun duai vegnir fatga.
 
 6\. Els dezan (construcziun passiva).
 
-7\. Figl meu, tschertga la dividas! <!-- TODO: Fallback translation -->
+7\. Figl meu, tschertga la dividas!
 
 8\. Cumenza il studi!
 
-9\. Datei (⟪प्र⟫-⟪यम्⟫) als offrendas a l'antschads sferas da ris! <!-- TODO: Fallback translation -->
+9\. Datei (⟪प्र⟫-⟪यम्⟫) als offrendas a l'antschads sferas da ris!
 
 10\. Els/ellas han da alegrar-si!
 
@@ -241,7 +241,7 @@ B.) Tradusci en Sanscrit (utilisescha l'imperativ):
 
 28\. Il caval duai trair la carga.
 
-29\. Vuleg ordenar las munds. <!-- TODO: Fallback translation -->
+29\. Vuleg ordenar las munds.
 
 30\. Beva la pozion!
 
@@ -253,14 +253,3 @@ B.) Tradusci en Sanscrit (utilisescha l'imperativ):
 
 34\. Ch’el portia feliçitad! (Vot da benedicziun)
 
-::: deleteme-box
-
-**lekt4702:** Hanuman-Tempel, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Fontana da Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Accessiun il 2009-01-09. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Nominaziun, nagina modificaziun)]
-
-**lekt4701:** [Sursa da l’imagina: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Accessi il 2009-01-09. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuziun, nagina utisaziun cummerciala, share alike)]
-
-**lekt4703:** [Bilderquella: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Access il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribuziun)]
-
-**lekt4704:** [surs da l’immagines: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Access il 2009-01-10. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (numna, nagina utilisaziun cummerciala, nagina modificaziun)]
-
-:::

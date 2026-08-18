@@ -94,7 +94,7 @@ last_reconstructed: 2026-05-15
 :::
 ---
 
-## Passiv-Konstruktionen <!-- TODO: Fallback translation -->
+## Passiv-Konstruktionen
 
 [L1] C) از جملات بالا (به جز جملات ۸ و ۱۰) ساختارهای مجهول بسازید:
 

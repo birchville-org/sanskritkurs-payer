@@ -130,7 +130,7 @@ Verbe care urmează acest tip:
 :::
 ### 40.2.3. Tipul III al Perfectului: Rădăcină puternică, nivel înalt/îndelungat
 
-1.sg.P opțional nivel înalt sau îndelungat <!-- TODO: Fallback translation -->
+1.sg.P opțional nivel înalt sau îndelungat
 
 #### 40.2.3.1. Tipul IIIa al Perfectului: Rădăcină puternică, nivel înalt/îndelungat, rădăcină slabă, nivel jos
 
@@ -405,7 +405,7 @@ Forma pronumelui personal (pronumelui personal) este aceeași pentru toate genur
 
 :::
 ::: grammar-box
-Formele mai scurte, care apar pe locul al doilea mai sus (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), nu trebuie niciodată folosite la începutul unei propoziții sau al unui vers. <!-- TODO: Fallback translation -->
+Formele mai scurte, care apar pe locul al doilea mai sus (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), nu trebuie niciodată folosite la începutul unei propoziții sau al unui vers.
 
 Înainte de particulele ⟪च⟫, ⟪वा⟫, ⟪एव⟫, aceste așa-numite forme enclitice nu pot fi, de asemenea, folosite:
 
@@ -482,7 +482,7 @@ din care:
 ![lekt4003.jpg](/images/lekt4003.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4003))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -648,11 +648,3 @@ B) Transformați următoarele forme verbale în formele corespunzătoare de perf
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
-
-- **Imagine lekt4005.jpg** (Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Vadaseri, Districtul Thanjavur = தஞ்சாவூர் மாவட்டam [Sursă imagine: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Accesat la 2009-01-02. -- Licență Creative Commons (Atribuire, share alike)]
-- **Imagine lekt4003.jpg** (Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Sursă imagine: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Accesat la 2009-01-02. -- Licență Creative Commons (Atribuire)]
-- **Imagine lekt4002.jpg** (Fig.: ⟪तीर्थङ्करः⟫): [Sursă imagine: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Accesat la 2009-01-02. -- Licență Creative Commons (Atribuire, non-comercial, fără modificări)]
-- **Imagine lekt4001.jpg** (Fig.: ⟪विष्णोर्दशावताराः⟫): În sensul acelor de ceasornic: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, în mijloc: ⟪कृष्ण⟫ [Sursă imagine: Wikipedia. Domeniu public]
-- **Imagine lekt4004.jpg** (Fig.: ⟪स्वपन्ति⟫): Liliacul frugivor indian (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Sursă imagine: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Accesat la 2009-01-02. -- Licență Creative Commons (Atribuire, non-comercial, fără modificări)]
-:::

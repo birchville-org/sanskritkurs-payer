@@ -72,11 +72,11 @@ Las suandantas stemmas nominalas, che finischan cun in vocala, furman il nominat
 
 La fin d'in pled s'orientescha en il sanscript er tenor l'inizial dal pled suandant. Questa appariziun numnass ins **Sandhi** (m.) = ⟪सन्धि⟫ ("cunexiun").
 
-### 2.4.1. Sandhi da -s finala <!-- TODO: Fallback translation -->
+### 2.4.1. Sandhi da -s finala
 
 Vesa er la survista:
 
-> **Payer, Alois \<1944 - \>:** Sandhi da -s finala. -- (Materials al sanscrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm <!-- TODO: Fallback translation -->
+> **Payer, Alois \<1944 - \>:** Sandhi da -s finala. -- (Materials al sanscrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Finala **-s**:
 
@@ -114,7 +114,7 @@ Finala **-s**:
 
 **brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahman (classa spirituala).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (classa da prinzipes e militar). <!-- TODO: Fallback translation -->
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (classa da prinzipes e militar).
 
 **vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (classa da nutriment e commerziants).
 
@@ -149,7 +149,7 @@ Secund la teoria classica (p.ex. Manusmṛti I, 88-91) èn las activitads distri
 :::
 **dvija** m. -- ⟪द्विज⟫ : "Dusvieschì" (initziads da las trais classas superiuras: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : Colur, classa da naschientscha (tendenz). <!-- TODO: Fallback translation -->
+**varṇa** m. -- ⟪वर्ण⟫ : Colur, classa da naschientscha (tendenz).
 
 Las quatter classes (**varṇa** m.) vegnan spessegiadas cun castas. Ma las quatter classes èn -- en differenza a las castas -- betg spezialmain indianas, er en Europa avain nus (fin parzialamain fin a la Prima Guerra mundiala) ina structura da classes, sco che suandanta illustraziun dal 15avel tschientaner mussa:
 

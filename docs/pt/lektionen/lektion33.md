@@ -115,9 +115,9 @@ Exemplos:
 ā kann
 
 * por um lado, ser o grau alongado de uma das séries de apofonia com -a-
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein <!-- TODO: Fallback translation -->
+* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 ::: grammar-box
 **A.**
@@ -170,7 +170,7 @@ Exemplos:
 | **Imperfeito** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativo** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. As raízes ⟪दा⟫ e :sig[⟪धा⟫] <!-- TODO: Fallback translation -->
+### 33.4.1. As raízes ⟪दा⟫ e :sig[⟪धा⟫]
 
 ::: grammar-box
 **As raízes ⟪दा⟫ e :sig[⟪धा⟫] reduplicam com a vogal -a- e perdem a vogal da raiz no tema fraco.**
@@ -186,7 +186,7 @@ Exemplos:
 | **Imperfeito** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativo** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-As formas de ⟪दा⟫ são obtidas substituindo-se **dh** por **d** no paradigma de :sig[⟪धा⟫]. Assim: <!-- TODO: Fallback translation -->
+As formas de ⟪दा⟫ são obtidas substituindo-se **dh** por **d** no paradigma de :sig[⟪धा⟫]. Assim:
 
 ::: grammar-box
 ⟪दा⟫ 3U "dar"
@@ -417,17 +417,3 @@ Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-::: deleteme-box
-
-**Definição e Detalhes do Ghee:**
-* Fonte: http://en.wikipedia.org/wiki/Ghee (Acesso: 2008-12-26)
-
-**Lista de Ilustrações e Licenças:**
-* **Fig. lekt3306 (festa de casamento, Chennai):** Fonte da imagem: http://www.pbase.com/chandra/image/62118318 (Acesso em 2008-12-27). Licença Creative Commons (Atribuição, Uso não comercial, Compartilhamento pela mesma licença).
-* **Fig. lekt3307 (carregador de Udaipur):** Fonte da imagem: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Acesso em 2008-12-27). Licença Creative Commons (Atribuição, Uso não comercial, Sem derivações).
-* **Fig. lekt3305 (Samadhi yogini, Kaveripakkam):** Fonte da imagem: Quadell / Wikipedia (GNU FDLicense).
-* **Fig. lekt3304 (carregador de bhaya, Mumbai):** Fonte da imagem: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, Acesso em 2008-12-26). Licença Creative Commons (Atribuição).
-* **Fig. lekt3303 (Hinayana Tailândia):** Fonte da imagem: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Acesso em 2008-12-26). Licença Creative Commons (Atribuição, Uso não comercial).
-* **Fig. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Fonte da imagem: Dey (http://www.flickr.com/photos/dey/466758922/, Acesso em 2008-12-26). Licença Creative Commons (Atribuição, Uso não comercial, Compartilhamento pela mesma licença).
-* **Fig. lekt3308 (mulher carregadora, Delhi):** Fonte da imagem: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Acesso em 2008-12-27). Licença Creative Commons (Atribuição, Uso não comercial, Sem derivações).
-:::

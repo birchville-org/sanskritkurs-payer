@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 37
 
-A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter: <!-- TODO: Fallback translation -->
+A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter:
 
 ⟪१⟫. **⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 - **⟪भिक्षवे⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫** (Bzw. Plural: **⟪भिक्षुभ्यो⟫ ...**)
@@ -79,27 +79,27 @@ A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angege
 
 ---
 
-## Interrogativsätze <!-- TODO: Fallback translation -->
+## Interrogativsätze
 
 B) Übersetzen Sie:
 
 ⟪१⟫. **⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्रेषु⟫ ⟪वसेत्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Soll jemand, dessen Einsicht festgegründet ist, in die Heimlosigkeit gehen oder soll er daheim bei seinen Söhnen bleiben? <!-- TODO: Fallback translation -->
+Soll jemand, dessen Einsicht festgegründet ist, in die Heimlosigkeit gehen oder soll er daheim bei seinen Söhnen bleiben?
 
 ⟪२⟫. **⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Kennt der Meister auch die Wahrheit? <!-- TODO: Fallback translation -->
+Kennt der Meister auch die Wahrheit?
 
 ⟪३⟫. **⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Sind die Śūdras etwa Diener der Zweimalgeborenen? <!-- TODO: Fallback translation -->
+Sind die Śūdras etwa Diener der Zweimalgeborenen?
 
 ⟪४⟫. **⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Hat der Śūdra etwa die Last getragen?
 
 ---
 
-## Avyayībhāva (Indeklinable Komposita) <!-- TODO: Fallback translation -->
+## Avyayībhāva (Indeklinable Komposita)
 
-C) Bestimmen und übersetzen Sie folgende Komposita: <!-- TODO: Fallback translation -->
+C) Bestimmen und übersetzen Sie folgende Komposita:
 
 ::: grammar-box
 | Kompositum | Bedeutung | Erläuterung |
@@ -125,11 +125,11 @@ C) Bestimmen und übersetzen Sie folgende Komposita: <!-- TODO: Fallback transla
 Abb.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Bildquelle: [Details](/licenses#uebung062))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Narratives Perfekt (Die Geschichte vom Greis) <!-- TODO: Fallback translation -->
+## Narratives Perfekt (Die Geschichte vom Greis)
 
-Übersetzen Sie ins Sanskrit, indem Sie ausschliesslich Verbformen des Perfekt verwenden: <!-- TODO: Fallback translation -->
+Übersetzen Sie ins Sanskrit, indem Sie ausschliesslich Verbformen des Perfekt verwenden:
 
 **⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪बभूव⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलं⟫ ⟪जगाम⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलानि⟫ ⟪ववृतिरे⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जज्ञे⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪न⟫ ⟪शेकुः⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪तस्थुः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪जगाम⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्रसिसिषे⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्रसिसिषुः⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪जगाम⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫**
 

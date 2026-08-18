@@ -23,7 +23,7 @@ Kṛṣṇa este Tatăl, Mama, Bunicul și Creatorul acestei lumi.
 Poeții au lăudat părinții și mamele pentru obținerea paternității (respectiv părinției).
 
 ⟪५⟫. **⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Soția trebuie întreținută de către soț. De aceea, ea este numită „bhāryā” (cea care trebuie întreținută). <!-- TODO: Fallback translation -->
+Soția trebuie întreținută de către soț. De aceea, ea este numită „bhāryā” (cea care trebuie întreținută).
 
 ⟪६⟫. **⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 Un fiu bun oferă ofrande de hrană strămoșilor săi (**⟪पिण्ड⟫**). Prin intermediul strămoșilor, darul de hrană este consumat, și astfel se poate duce o viață fericită.
@@ -35,7 +35,7 @@ Un frate nu își poate căsători sora. Dacă un frate își dorește sora, zei
 Cum se numește fratele soțului? Fratele soțului trebuie numit „devara” (socrul).
 
 ⟪९⟫. **⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Tatăl a dorit obținerea de nepoți. <!-- TODO: Fallback translation -->
+Tatăl a dorit obținerea de nepoți.
 
 ::: media
 ![](/images/uebung068.webp)
@@ -44,7 +44,7 @@ Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पि
 :::
 ---
 
-## Narațiune: Nunta Sītās (⟪सीताविवाहः⟫) <!-- TODO: Fallback translation -->
+## Narațiune: Nunta Sītās (⟪सीताविवाहः⟫)
 
 ⟪पुरा⟫ ⟪मिथिलायां⟫ ⟪जनको⟫ ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमारा⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
@@ -73,5 +73,5 @@ Inima regelui Janaka era foarte bucuroasă. Apoi, l-a chemat pe Daśaratha și p
 ![](/images/uebung069.webp)
 Fig.: ⟪श्रीसीता⟫ ⟪श्रीरामश्च⟫
 (Sursa imaginii: [Detalii](/licenses#uebung069))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

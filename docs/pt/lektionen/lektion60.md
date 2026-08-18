@@ -199,7 +199,7 @@ Paradigmas, ver Kielhorn, Gramática § 124:
 ::: media
 ![](/images/lekt6001.webp)
 (Fonte da imagem: [Detalhes](/licenses#lekt6001))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -233,19 +233,19 @@ Paradigmas, ver Kielhorn, Gramática § 124:
 
 Exemplo: ⟪प्रतीची⟫
 :::
-#### Para os paradigmas, ver Kielhorn, Grammatik § 128: <!-- TODO: Fallback translation -->
+#### Para os paradigmas, ver Kielhorn, Grammatik § 128:
 
 ::: media
 ![](/images/lekt6003.webp)
 (Fonte da imagem: [Detalhes](/licenses#lekt6003))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
 ![](/images/lekt6004.webp)
 (Fonte da imagem: [Detalhes](/licenses#lekt6004))
 :::
-A este grupo pertencem: <!-- TODO: Fallback translation -->
+A este grupo pertencem:
 
 *   ⟪प्रत्यञ्च्⟫ 3 "para trás, ocidental"
 
@@ -422,13 +422,13 @@ A) Aprenda em Kielhorn, Gramática § 451, as formações desiderativas irregula
 ::: media
 ![](/images/lekt6007.webp)
 (Fonte da imagem: [Detalhes](/licenses#lekt6007))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
 ![](/images/lekt6008.webp)
 (Fonte da imagem: [Detalhes](/licenses#lekt6008))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media

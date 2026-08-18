@@ -5,7 +5,7 @@ lesson_id: 19
 
 # Lecziun 19
 
-## 19.1. Der Relativsatz <!-- TODO: Fallback translation -->
+## 19.1. Der Relativsatz
 
 ::: grammar-box
 
@@ -67,7 +67,7 @@ Nota: En relaziuns cun in cuntegn generalmain valaivel vegn gustà d'utilisar il
 | **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. Accusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumental** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genitiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
+| | **6. Genitiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
 **Comè il prim element da compounds, appariscia la radis ⟪यद्⟫ (sut resguard dal Sandhi).**
 
@@ -220,15 +220,3 @@ Explicaziun: ⟪यथाकालम्⟫ Avyayībhāva-componì: al temp dret
 :::
 Explicaziun: ⟪पुमान्⟫ Nom. sg. a ⟪पुंस्⟫ "um"; ⟪लोके⟫ Loc. sg. a ⟪लोक⟫ m.: en il ...
 
-::: deleteme-box
-
-**lekt1809:** Illustraziun al ⟪कामसूत्र⟫ [sursa da l’imagines: Wikipedia, domin public] <!-- TODO: Fallback translation -->
-
-**lekt1901:** Badami (ಬದಾಮಿ) [sursa da l’imagina: Sudarshan Bhat Khandige / Wikipedia, domin public] <!-- TODO: Fallback translation -->
-
-**lekt1902:** Goa (⟪गोंय⟫) [fonte da l'imagina: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- consultà il 2008-12-08. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala, nagina modificaziun)]
-
-**lekt1903:** ⟪१९५९⟫ [Fontana da la Wikipedia, domin public]
-
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), en vestida tradiziunl, è ina usanza en las parts dal sid da Kerala. _Onappottan_ visitescha chas durant il _onam_ e dat benedicziuns. Dapi paucs onns è _onappottan_ daventà ina vista rara, limitada a vischnancas." [Sursa da l'imagines: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Access il 2008-12-08. -- Licenza Creative Commons (Attribuziun)]
-:::

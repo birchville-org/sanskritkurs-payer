@@ -3,10 +3,6 @@ outline: 2
 
 ---
 
-::: deleteme-box
-**Citation Style & Rights**
-
-:::
 # Vocabulary List (Complete Overview)
 
 *All new words from the course in the order of their introduction, with thematic explanations.*
@@ -3006,11 +3002,6 @@ Fig.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (to ⟪सम्⟫-⟪हन्⟫ : to strike together): group, crowd, community (e.g. Buddhist)
 
-::: deleteme-box
-see also:
-
-**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
 
 ⟪अति⟫ Prefix: over, beyond (in space, in time, by number, by quantity, in order, by power, by intensity), exceedingly
@@ -3020,11 +3011,6 @@ see also:
 ::: indent
 PPP ⟪अतीत⟫ : n. past
 :::
-::: deleteme-box
-see also:
-
-**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
 
 ⟪अति⟫ Preverb: over, across - way, beyond (in space, in time, by number, by quantity, in order, by power, by intensity), exceedingly
@@ -3033,11 +3019,6 @@ see also:
 
 ::: indent
 PPP ⟪अतीत⟫ : n. past tense
-:::
-::: deleteme-box
-see also:
-
-**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Canon Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
 
@@ -3442,30 +3423,15 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (to ⟪प्र⟫-⟪व्रज्⟫): the going forth from home into homelessness; ceremony with which one becomes a Buddhist novice (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-See:
-
-**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Image source: [Details](/licenses#lekt4408))
 :::
-::: deleteme-box
-See:
-
-**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Image source: [Details](/licenses#lekt4408))
-:::
-::: deleteme-box
-See:
-
-**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -4910,5 +4876,4 @@ Inf. ⟪त्रातुम्⟫
 **lekt5215**: ⟪मलम् मुंबई⟫ [Image source: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Accessed on 2009-01-16. -- Creative Commons License (Attribution)]
 
 **lekt5217**: Māra's attack on Buddha Amaravati = అమరావతి, 2nd century CE [Image source: Wikipedia. GNU FDL License]
-
 

@@ -9,14 +9,6 @@ status: stable
 
 # Lecția 3
 
-::: deleteme-box
-**În această lecție veți învăța:**
-- nominativul singular al femininului
-- nominativul plural al masculinului și al femininului
-- formarea femininului din masculin
-- sandhi vocalic
-- Satzsandhi von -ās
-:::
 ## 3.1. Nominativ singular al femininului
 
 ### 3.1.1. Nominativul singular terminat în -s
@@ -76,7 +68,7 @@ Notă: **e** este gradul ridicat (**guṇa**) al lui **i**, **o** este gradul ri
 :::
 de ex.
 
-devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇā este o zeitate” = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
+devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇā este o zeitate” = ⟪देवतान्नपूर्णा⟫
 
 > (Annapūrṇā este zeița mâncării și a gătitului, ea este considerată o întruchipare a Pārvatī, soția lui Śiva.)
 
@@ -122,12 +114,12 @@ de ex.
 
 śūdrā + itarā » śudretarā „Itarā este o femeie śūdrā” = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi de -ās <!-- TODO: Fallback translation -->
+## 3.5. Satzsandhi de -ās
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-de exemplu <!-- TODO: Fallback translation -->
+de exemplu
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaișyș sunt de două ori născuți" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -187,7 +179,7 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filosofie (știința care ajunge la concluziile sale prin argumente logic corecte).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : neasociere, echilibru. <!-- TODO: Fallback translation -->
+**upekṣā** f. = ⟪उपेक्षा⟫ : neasociere, echilibru.
 
 **karuṇā** f. = ⟪करुणा⟫ : compasiune, milă.
 

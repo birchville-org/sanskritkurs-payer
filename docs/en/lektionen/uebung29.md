@@ -17,9 +17,6 @@ Translate faithfully into good German and memorize the Sanskrit texts:
 
 Ignorance means regarding the impermanent, impure, painful, and non-absolute as permanent, pure, joyful, or absolute.
 
-::: deleteme-box Erläuterung
-⟪आत्मसु⟫ = Loc. sg. of ⟪आत्मन्⟫ m. "soul; the absolute, insofar as it is realized in the individual"
-:::
 ### ⟪२⟫. On the proper use of the ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
 
 ⟪तीक्ष्णदण्डो भूतानामुद्वेजनीयो भवति । मृदुदण्डः परिभूयते । यथार्हदण्डः पूज्यते । सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति । दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति⟫, ⟪किमङ्ग पुनर्गृहस्थान् । अप्रणीतस्तु मात्स्यन्यायमुद्भावयति । बलीयानबलं हि ग्रसते दण्डधराभावे । स तेन गुप्तः प्रभवतीति । चतुर्वर्णाश्रमो लोको राज्ञा दण्डेन पालितः । स्वधर्मकर्माभिरतो वर्तते स्वेषु वर्त्मसु ॥१६॥⟫
@@ -31,18 +28,6 @@ Beings must tremble before a too harsh regime (daṇḍa). A lax regime is despi
 > Rejoicing in activity according to its own dharma and custom,  
 > It moves along its own paths.
 
-::: deleteme-box Glossar & Grammatik
-⟪उद्वेजनीय⟫ (3): something that must be feared
-⟪विज्ञात⟫ (3): recognized; n.: recognition
-⟪योजयति⟫ (Caus. to ⟪युज्⟫): to yoke, to connect with
-⟪कामक्रोधाभ्याम्⟫: Instr./Dat./Abl. Dual masc. of ⟪कामक्रोध⟫
-⟪किमङ्ग⟫: how much more
-⟪बलीयान्⟫: Nom. sg. masc. to ⟪बलीयस्⟫ (stronger)
-**⟪चतुर्⟫-**: four (first member)
-⟪राज्ञा⟫: Instr. sg. masc. to ⟪राजन्⟫ (king)
-⟪स्वेषु⟫: Loc. plur. masc./neutr. to ⟪स्व⟫ (own)
-⟪वर्त्मसु⟫: Loc. plur neutr. to ⟪वर्त्मन्⟫ (path, way)
-:::
 ::: media
 ![](/images/uebung046.webp)
 Fig.: ⟪चतुर्वर्णाश्रमो लोको⟫

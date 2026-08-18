@@ -158,11 +158,11 @@ PPP ⟪पूजित⟫
 
 ⟪।११।⟫ ⟪योजयति⟫ (Καυσ. πρὸς ⟪युज्⟫) "ἱπποὺς ὁρμῶν, συνδεῖν μετὰ, συναφίζειν μετά"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva)
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "um wieviel mehr"
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "stärker" <!-- TODO: Fallback translation -->
+⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "stärker"
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "four" as the first member of a compound
 
@@ -264,12 +264,6 @@ PPP ⟪पूजित⟫
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
 :::
-::: deleteme-box
-
-**lekt2903:** Πουκχάρ = ⟪पुष्कर⟫ [Πηγή εικόνας: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Πρόσβαση στις 20-12-2008. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Παρόμοια Άδεια)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Πηγή εικόνας: Khalid Mahmood / Wikipedia. Άδεια GNU FD]
-**lekt2902:** (Σχέδιο: Namcha Payer, 2002-11)
-::: <!-- TODO: Fallback translation -->
 
 
 :::

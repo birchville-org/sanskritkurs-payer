@@ -1,17 +1,18 @@
 ---
-title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+title: "Lección 39"
+subtitle: 'Las terminaciones personales de la primera persona (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**tercera** persona")'
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 39
 
 ## 39.1. Las terminaciones personales de la primera persona (:sig[तृतीयः] ⟪पुरुषः⟫ = "**tercera** persona")
 
-Las terminaciones de la primera persona (:sig[⟪तृतीयः⟩] ⟪पुरुषः⟩ = "**tercera** persona") son:
+Las terminaciones de la primera persona (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**tercera** persona") son:
 
 ::: grammar-box
 
@@ -26,26 +27,26 @@ Las terminaciones de la primera persona (:sig[⟪तृतीयः⟩] ⟪प�
 | **Terminación perfecta** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
-¹ Nota: en realidad, la terminación primaria de los temas árticos también se establece como -e, ante la cual la vocal temática -a- cae por razones de analogía. El efecto es, sin embargo, como si la terminación -i se uniera a la vocal temática -a-: a + i » e.
+¹ Nota: en realidad, la terminación primaria de los temas ā también debería establecerse como -e, ante lo cual la vocal temática -a- cae por razones de analogía. Sin embargo, el efecto es como si la terminación -i se uniera a la vocal temática -a-: a + i » e.
 
-## 39.2. Formación de las formas verbales de la primera persona de temas de presente temático
+## 39.2. Formación de las formas verbales de la primera persona en temas presentes temáticos
 
 ::: grammar-box
 **Regla:**
-**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
+**¡Ante -mi, -mas, -ma, -mahe, -mahi la vocal temática -a- se reemplaza por -ā-!**
 :::
-### 39.2.1. Primera clase de presente (⟪भ्वादि⟩) &lt;!-- TODO: Fallback translation --&gt;
+### 39.2.1. Primera clase de presente (⟪भ्वादि⟫)
 
-⟪भू⟩ 1P
+⟪भू⟫ 1P
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indicativo Presente - ⟪लट्⟩** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\&lt;⟪भवे⟫\&gt;** :brbhava + i:brrichtig: bhav-e | **\&lt;⟪भवामहे⟫\&gt;** |
-| **Imperfecto - ⟪लङ्⟩** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\&lt;⟪अभवे⟫\&gt;** | **\&lt;⟪अभवामहि⟫\&gt;** |
-| **Optativo - ⟪विधिलिङ्⟩** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
+| **Indicativo presente - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\&lt;⟪भवे⟫\&gt;** :brbhava + i:brrichtig: bhav-e | **\&lt;⟪भवामहे⟫\&gt;** |
+| **Imperfecto - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\&lt;⟪अभवे⟫\&gt;** | **\&lt;⟪अभवामहि⟫\&gt;** |
+| **Optativo - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. Sexta clase de presente (⟪तुदादि⟩)
@@ -90,7 +91,7 @@ Las terminaciones de la primera persona (:sig[⟪तृतीयः⟩] ⟪प�
 | **Optativo - ⟪विधिलिङ्⟫** | ⟪चोरयेयम्⟫ | ⟪चोरयेम⟫ | ⟪चोरयेय⟫ | ⟪चोरयेमहि⟫ |
 
 :::
-### 39.2.5. Pasivo (sufijo ⟪यक्⟫)
+### 39.2.5. Pasivo (Sufijo ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -98,19 +99,19 @@ Las terminaciones de la primera persona (:sig[⟪तृतीयः⟩] ⟪प�
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: |
-| **Indicativo presente - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
+| **Indicativo Presente - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
 | **Imperfecto - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
 | **Optativo - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Formación de las formas verbales de primera persona del futuro simple - ⟪ऌत्⟫
+## 39.3. Formación de las formas verbales de la primera persona del futuro simple - ⟪ऌत्⟫
 
 ::: grammar-box
-**El futuro tiene formación temática. Por lo tanto, también se aplica la regla para las raíces temáticas:**
+**El futuro tiene formación temática. Por lo tanto, también rige la regla para las raíces temáticas:**
 
-**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Ante -mi, -mas, -mahe la vocal temática -a- se reemplaza por -ā- !!!**
 :::
-### 39.3.1. Formación ⟪अनिट्⟫ &lt;!-- TODO: Fallback translation --&gt;
+### 39.3.1. Formación ⟪अनिट्⟫
 
 ⟪दा⟫ 3U
 
@@ -134,13 +135,15 @@ Las terminaciones de la primera persona (:sig[⟪तृतीयः⟩] ⟪प�
 | **Futuro - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
 
 :::
-## 39.4. Formación de las formas verbales de primera persona de raíces de presente átemas
+## 39.4. Formación de las formas verbales de la primera persona de raíces presentes atemáticas
 
 ::: grammar-box
-**Tenga en cuenta que en el interior de la palabra, a diferencia del sandhi de oración, antes de las terminaciones que comienzan con**
+**Tenga en cuenta que, a diferencia del sandhi de la oración, dentro de una palabra - antes de las terminaciones que comienzan con**
 * **vocal**
 * **semivocal**
 * **nasal**
+
+**las consonantes permanecen generalmente sin cambios.**
 
 **las consonantes permanecen generalmente sin cambios.**
 

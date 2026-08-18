@@ -9,7 +9,7 @@ status: stable
 
 # Lecziun 43
 
-## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \<Person\>") <!-- TODO: Fallback translation -->
+## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \<Person\>")
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -28,7 +28,7 @@ Notai che la desinenza secundaria da 2.pl.P. è identica a la desinenza secundar
 *   Singular: "du"
 *   Plural: "ihr" (plis che duas!)
 
-### 43.2.1. Temats <!-- TODO: Fallback translation -->
+### 43.2.1. Temats
 
 ::: media
 ![](/images/lekt4301.jpg)
@@ -132,7 +132,7 @@ Las furmas ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ na pon esser adoper
 :::
 ## 43.4. Glossari
 
-⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen <!-- TODO: Fallback translation -->
+⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen
 
 ⟪आपण⟫ m.: martg
 
@@ -141,7 +141,7 @@ Las furmas ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ na pon esser adoper
 Fig.: ⟪आपणः⟫
 (Sursa d'immagis: [Detagls](/rm/licenses#lekt4302))
 :::
-⟪सत्वर⟫ 3: svelt, urgents <!-- TODO: Fallback translation -->
+⟪सत्वर⟫ 3: svelt, urgents
 
 ⟪पण्य⟫ 3: cumpràivel; n.: merkanzía, cumert
 
@@ -150,7 +150,7 @@ Fig.: ⟪आपणः⟫
 Imag.: ⟪पण्यानि⟫
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt4303))
 :::
-⟪आम्⟫ : gea <!-- TODO: Fallback translation -->
+⟪आम्⟫ : gea
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -173,14 +173,14 @@ Imag.: ⟪पण्यानि⟫
 Imagg.: ⟪विपणिः⟫
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: commerziant <!-- TODO: Fallback translation -->
+⟪वणिज्⟫ m.: commerziant
 
 ::: media
 ![](/images/lekt4305.webp)
 Imag.: ⟪वणिक्⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt4305))
 :::
-⟪वर⟫ 3: il meglir <!-- TODO: Fallback translation -->
+⟪वर⟫ 3: il meglir
 
 ⟪शीघ्र⟫ 3: svelt, spert
 
@@ -212,7 +212,7 @@ Fig.: ⟪वत्सः⟫
 Fig.: ⟪तोलन्ति⟫
 (Sursa d'immagis: [Detagls](/rm/licenses#lekt4307))
 :::
-⟪कर्गल⟫ n.: Carta <!-- TODO: Fallback translation -->
+⟪कर्गल⟫ n.: Carta
 
 ⟪संपुट⟫ m.: Dosa (qua: pachet, fasci)
 
@@ -308,7 +308,7 @@ A) Formai la segunda persona correspondenta en temp, numer, modus e.c. als suven
 
 B) Tradusci en Sanscrit:
 
-1\. Perchei sedischa vus mentras il magister stat? <!-- TODO: Fallback translation -->
+1\. Perchei sedischa vus mentras il magister stat?
 
 2\. Dubbias ti sche ina bona acziun ha in bun resultà?
 
@@ -324,9 +324,9 @@ B) Tradusci en Sanscrit:
 
 8\. Avais-vos, en tant que maîtres du sacrifice, honoré les dieux par un sacrifice ?
 
-9\. In tgea nasch es ti naschì? <!-- TODO: Fallback translation -->
+9\. In tgea nasch es ti naschì?
 
-10\. Coam chei ti (suraschentas) avant il inimis? <!-- TODO: Fallback translation -->
+10\. Coam chei ti (suraschentas) avant il inimis?
 
 ::: media
 ![](/images/lekt4308.webp)
@@ -369,22 +369,3 @@ Fig.: ⟪शर्करा⟫
 (Fontana da l'imagia: [Detagls](/rm/licenses#lekt4309))
 :::
 
-::: deleteme-box
-
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Access il 2009-01-06. -- Licenza Creative Commons (Attribuzione, senza utilizzi cummercial)
-
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
-
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Access il 2009-01-06. -- Licenza Creative Commons (Attribuzione)
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Access il 2009-01-06. -- Licenza Creative Commons (Attribuzione, uso non comercial, share alike)
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Accessiun il 2009-001-06. -- Licenza Creative Commons (Nominaziun, share alike)
-
-**lekt4307.jpg**: Ray Witlin / Banca Mondiala. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Access il 2009-01-06. -- Licenza Creative Commons (Attribuzione, uso non comercial, senza obras derivadas)
-
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. Licenza GNU FDL
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Zugriff il 2009-01-07. -- Licenza Creative Commons (Nominament, nagina modifitgaziun)
-:::
- <!-- TODO: Fallback translation -->

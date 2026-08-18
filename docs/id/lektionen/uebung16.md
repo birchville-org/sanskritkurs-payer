@@ -248,11 +248,6 @@ The specific duty of a Śūdra is obedient service to the twice-born, economic a
 Kewajiban semua orang adalah: tidak melakukan kekerasan, kebenaran, kemurnian, tidak menggerutu tentang nasibnya sendiri, bebas dari kebencian, dan kesabuan yang sabar.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-::: deleteme-box Explanations
-Kalimat 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Acc.: Dvandva, menunjukkan dua "hal"
-Kalimat 8: **⟪कर्म⟫** Nom., Acc. sg. Neuter ke ⟪कर्मन्⟫ "tindakan"
-Kalimat 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. ke ⟪सर्व⟫ "masing-masing, semua" (kata ganti, dideklinasikan tidak seperti deva)
-:::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 Tongkat menghasilkan akuisisi dan kepemilikan yang aman dari filsafat, studi Veda, dan ekonomi. Penggunaan tongkat adalah politik.

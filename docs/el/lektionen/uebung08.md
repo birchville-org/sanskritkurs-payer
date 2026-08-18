@@ -196,13 +196,13 @@ kiṃ kāraṇam?
 Η παρθένα εισέρχεται στο σπίτι.
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Το αγόρι οδηγεί τον ελέφαντα.
 
 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ κύριο όνομα Vimalā)
-Vimalā ist traurig. <!-- TODO: Fallback translation -->
+Vimalā ist traurig.
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
 Ο παπαγάλος πετά.

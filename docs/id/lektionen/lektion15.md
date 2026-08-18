@@ -346,16 +346,3 @@ Fig.: ⟪नागदेवाः⟫
 (Sumber gambar: [Details](/id/licenses#lekt1509))
 :::
 
-::: deleteme-box
-
-**Fig.: ⟪लक्ष्मी⟫** (Lakshmi): Lukisan oleh ⟪राजा रवि वर्मा⟫ (1848 - 1906). Sumber gambar: Wikipedia, Domain Publik.
-**Fig.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Sumber gambar: Wikipedia, Domain Publik.
-**Diagram** (lekt1502.jpg): Diagram untuk dekomposisi komposita. Sumber gambar: Alois Payer / Grafik Kursus Asli.
-**Fig.: ⟪पूजा⟫** (Puja): Upacara Puja yang diadakan di Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Sumber gambar: Wikipedia, Domain Publik.
-**Fig.:  ⟪इन्द्रः⟫** (Indra): Folio dari Panchakalyanaka, Rajasthan, Amber. Sumber gambar: Wikipedia, Domain Publik.
-**Fig.: ⟪सिंहः⟫** (Singa): Panthera leo persica. Sumber gambar: Wikipedia, Lisensi GNU FD.
-**Fig.: ⟪व्याघ्रः⟫** (Macan Tutul): Taman Nasional Bandhavgarh (⟪बांधवगढ राष्ट्रीय उद्दान⟫). Sumber gambar: Layanan Ikan dan Satwa Liar AS / Wikipedia, Domain Publik.
-**Fig.: ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ desa Pasvadal, Vadgam, Gujarat, India. Sumber gambar: ganuullu (Flickr), Lisensi Creative Commons.
-**Fig.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Sumber gambar: Dineshkannambadi / Wikipedia, Lisensi GNU FD.
-:::
-

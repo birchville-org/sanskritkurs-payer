@@ -19,7 +19,7 @@ Se, joka näkee, että toiminnot suoritetaan (yksinomaan) materiaalisen luonnon 
 Kṛṣṇa on tämän maailman isä, äiti, isoisä ja luoja.
 
 ⟪३⟫. **⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-"Opettajat, isät, pojat, isoisät, appiukot ja lapsenlapset ovat asettuneet taisteluun. Näitä minä en tapa!" — näin puhui Arjuna Bhagavadgītāssa. <!-- TODO: Fallback translation -->
+"Opettajat, isät, pojat, isoisät, appiukot ja lapsenlapset ovat asettuneet taisteluun. Näitä minä en tapa!" — näin puhui Arjuna Bhagavadgītāssa.
 
 ⟪४⟫. **⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Runoilijat ylistivät isiä ja äitejä isyyden (tai vanhemmuuden) saavuttamisen vuoksi.
@@ -28,13 +28,13 @@ Runoilijat ylistivät isiä ja äitejä isyyden (tai vanhemmuuden) saavuttamisen
 Vaimoa on aviomiehen elätettävä. Sen tähden häntä kutsutaan nimellä "bhāryā" (elätettävä).
 
 ⟪६⟫. **⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Hyvä poika antaa esi-isilleen ruokauhreja (⟪पिण्ड⟫). Esi-isät syövät tämän ruokalahjan, ja siten voi elää onnellista elämää. <!-- TODO: Fallback translation -->
+Hyvä poika antaa esi-isilleen ruokauhreja (⟪पिण्ड⟫). Esi-isät syövät tämän ruokalahjan, ja siten voi elää onnellista elämää.
 
 ⟪७⟫. **⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 Veli ei saa naida sisartaan. Jos veli haluaa sisartaan, jumalat vihastuvat.
 
 ⟪८⟫. **⟪क्थं⟫ ⟪भर्तुर्भ्रातोच्यते⟫ ⟪।⟫ ⟪देवेति⟫ ⟪भर्तुर्भ्राता⟫ ⟪वक्तव्यः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Miten aviomiehen veljeä kutsutaan? Aviomiehen veljeä on kutsuttava nimellä "devara" (lanko). <!-- TODO: Fallback translation -->
+Miten aviomiehen veljeä kutsutaan? Aviomiehen veljeä on kutsuttava nimellä "devara" (lanko).
 
 ⟪९⟫. **⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 Isä toivoi saavansa lapsenlapsia.
@@ -46,7 +46,7 @@ Kuva: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पि
 :::
 ---
 
-## Kertomus: Sītān häät (⟪सीताविवाहः⟫) <!-- TODO: Fallback translation -->
+## Kertomus: Sītān häät (⟪सीताविवाहः⟫)
 
 ⟪पुरा⟫ ⟪मिथिलायां⟫ ⟪जनको⟫ ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमारा⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
@@ -62,11 +62,11 @@ Kuva: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पि
 ⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ⟪सीतरामयोर्विवाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
 **Käännös:**
-Eräajan Mithilāssa asui kuningas nimeltään Janaka. Hänellä oli tytär nimeltään Sītā. Hän oli kauneudeltaan ja hyveiltään vertaansa vailla. Moni prinssi, joka halusi naida hänet, lähetti sanomia Janakalle. <!-- TODO: Fallback translation -->
+Eräajan Mithilāssa asui kuningas nimeltään Janaka. Hänellä oli tytär nimeltään Sītā. Hän oli kauneudeltaan ja hyveiltään vertaansa vailla. Moni prinssi, joka halusi naida hänet, lähetti sanomia Janakalle.
 
-Mutta Janaka halusi antaa hänet voimakkaalle kṣatriya-prinsille. Siksi hän määräsi, että hänen täytyisi "ostaa" sankarillisella voimalla. Näin kävi: hänellä oli erittäin raskas jousi. Janaka lupasi: "Kuka nostaa tämän jousen ja jännittää nuolen siihen, se saa naida tyttäreni." <!-- TODO: Fallback translation -->
+Mutta Janaka halusi antaa hänet voimakkaalle kṣatriya-prinsille. Siksi hän määräsi, että hänen täytyisi "ostaa" sankarillisella voimalla. Näin kävi: hänellä oli erittäin raskas jousi. Janaka lupasi: "Kuka nostaa tämän jousen ja jännittää nuolen siihen, se saa naida tyttäreni."
 
-Kuultuaan tämän lupauksen prinssit saapuivat sadoittain. Kukaan heistä ei kuitenkaan kyennyt edes liikkuttamaan jousia. On tiedossa, että jopa Laṅkän hallitsija Rāvaṇa saapui ylpeänä ja palasi häpeissään. Kun Janaka näki, että kaikki prinssit palasivat, hänestä tuli huolissaan siitä, kuka tulisi tyttärensä puolisoksi. Sillä välin Viśvāmitra johti Daśarathan pojan Rāman, Ayodhyān kuninkaan, sekä Lakṣmaṇan sinne. Suuren Ṛṣi Viśvāmitran käskystä upea Rāma nosti jousen leikkisän kevyesti. Hetken kuluttua kun hän asetti nuolen siihen, jousi murtui kahteen osaan. <!-- TODO: Fallback translation -->
+Kuultuaan tämän lupauksen prinssit saapuivat sadoittain. Kukaan heistä ei kuitenkaan kyennyt edes liikkuttamaan jousia. On tiedossa, että jopa Laṅkän hallitsija Rāvaṇa saapui ylpeänä ja palasi häpeissään. Kun Janaka näki, että kaikki prinssit palasivat, hänestä tuli huolissaan siitä, kuka tulisi tyttärensä puolisoksi. Sillä välin Viśvāmitra johti Daśarathan pojan Rāman, Ayodhyān kuninkaan, sekä Lakṣmaṇan sinne. Suuren Ṛṣi Viśvāmitran käskystä upea Rāma nosti jousen leikkisän kevyesti. Hetken kuluttua kun hän asetti nuolen siihen, jousi murtui kahteen osaan.
 
 "Hyvä, hyvä!" — näin ihmiset ylistivät upean Rāman sankarillista voimaa.
 
@@ -76,5 +76,5 @@ Kuningas Janakan sydän oli erittäin iloinen. Sitten hän kutsui Daśarathan ja
 ![](/images/uebung069.webp)
 Kuv.: ⟪श्रीसीता⟫ ⟪श्रीरामश्च⟫
 (Kuv lähde: [Details](/licenses#uebung069))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: Beállítások
+title: "Beállítások"
+
 ---
 
 <ClientOnly>

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Oppitunti 29 <!-- TODO: Fallback translation -->
+# Oppitunti 29
 
 ## 29.1. Parasmaipadan (⟪परस्मैपद⟩) ja Ātmanepadän (⟪आत्मनेपद⟩) käyttö kausatiivissa
 
@@ -19,30 +19,30 @@ status: stable
 
 **1. Kun syytetyn teon hedelmä hyödyttää syöttäjää:**
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma teettää itselleen (oman edun vuoksi) maton"
 
-**2. Kun transitiivisen verbin kausatiivi käytetään refleksiivisesti ("näyttää itsensä", "kuulla itsensä" jne.) tai kun yksinkertaisen verbin objekti on kausatiivin agenssi (⟪कर्तृ⟫):** <!-- TODO: Fallback translation -->
+**2. Kun transitiivisen verbin kausatiivi käytetään refleksiivisesti ("näyttää itsensä", "kuulla itsensä" jne.) tai kun yksinkertaisen verbin objekti on kausatiivin agenssi (⟪कर्तृ⟫):**
 
 Esimerkki:
 
 ⟪विष्णुर्भक्तान्दर्शयते⟫ = "Viṣṇu ilmestyy palvojilleen"
 
-Tulos: ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन्ति⟫ = "Uskovaiset näkevät Viṣṇun" <!-- TODO: Fallback translation -->
+Tulos: ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन्ति⟫ = "Uskovaiset näkevät Viṣṇun"
 
-Säännöt vastaavat siis yleensä Ātmanepadan (⟪आत्मनेपद⟫) käyttöä Ubhayapada-verbien (⟪उभयपद⟫) kohdalla. <!-- TODO: Fallback translation -->
+Säännöt vastaavat siis yleensä Ātmanepadan (⟪आत्मनेपद⟫) käyttöä Ubhayapada-verbien (⟪उभयपद⟫) kohdalla.
 
 ## 29.2. Sanalista
 
 Preverbien:
 
 ::: indent
-⟪उद्⟫° : ylös, päälle, korkealle, ulos, erä-, pois- <!-- TODO: Fallback translation -->
+⟪उद्⟫° : ylös, päälle, korkealle, ulos, erä-, pois-
 
 ⟪परि⟫° : ympäri, ympärillä (paikka, aika), ympäris
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (tulla jonkun ympärille = saartaa =) valloittaa, voittaa; halveksia, loukata <!-- TODO: Fallback translation -->
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (tulla jonkun ympärille = saartaa =) valloittaa, voittaa; halveksia, loukata
 
 ⟪अवज्ञान⟫ n.: halveksunta
 
@@ -61,9 +61,9 @@ Inf. ⟪ग्रसितुम्⟫
 :::
 ⟪तीक्ष्ण⟫ 3: "vill", terävä, kärkevä, ankara, voimakas, suoraan puhuva
 
-⟪न्याय⟫ m.: normi, sääntö, oikea tapa; menetelmä, logiikka (sanasta ⟪इ⟫ + ⟪नि⟫) <!-- TODO: Fallback translation -->
+⟪न्याय⟫ m.: normi, sääntö, oikea tapa; menetelmä, logiikka (sanasta ⟪इ⟫ + ⟪नि⟫)
 
-⟪परिव्राजक⟫ m.: vaeltaja, vaellusmunkki, pyhiinvaeltaja <!-- TODO: Fallback translation -->
+⟪परिव्राजक⟫ m.: vaeltaja, vaellusmunkki, pyhiinvaeltaja
 
 ::: media
 ![](/images/lekt2903.webp)
@@ -71,9 +71,9 @@ Kuv.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2903))
 :::
-⟪पालयति⟫ : myös merkitykseltään sama kuin  ⟪पाति⟫ <!-- TODO: Fallback translation -->
+⟪पालयति⟫ : myös merkitykseltään sama kuin  ⟪पाति⟫
 
-⟪पुनर्⟫ Indekl.: taas, aina uudelleen, takaisin, vielä kerran ; mutta, kuitenkin (sointuvien konsonanttien edellä paitsi r-: ⟪पुनर्⟫) <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ Indekl.: taas, aina uudelleen, takaisin, vielä kerran ; mutta, kuitenkin (sointuvien konsonanttien edellä paitsi r-: ⟪पुनर्⟫)
 
 ⟪प्रजा⟫ f.: syntyminen, syntymä, jälkeläisyys
 
@@ -89,11 +89,11 @@ Kuv.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2901))
 :::
-⟪मृदु⟫  (f.: ⟪मृद्वी⟫): lempeä, pehmeä; hidas, heikko <!-- TODO: Fallback translation -->
+⟪मृदु⟫  (f.: ⟪मृद्वी⟫): lempeä, pehmeä; hidas, heikko
 
 ⟪यथा⟫ Adv.: kuin, ikäänkuin
 
-⟪रम्⟫ 1Ā ⟪रमते⟫ : seistä edelleen, levätä, viipyä; pitää jostakin, nauttia <!-- TODO: Fallback translation -->
+⟪रम्⟫ 1Ā ⟪रमते⟫ : seistä edelleen, levätä, viipyä; pitää jostakin, nauttia
 
 ::: indent
 Fut. ⟪रंस्यते⟫  
@@ -102,18 +102,18 @@ Kaus. ⟪रमयति⟫
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
 :::
-⟪वानप्रस्थ⟫ m.: eräaskeetikko (joku, joka on 3. ⟪आश्रम⟫) <!-- TODO: Fallback translation -->
+⟪वानप्रस्थ⟫ m.: eräaskeetikko (joku, joka on 3. ⟪आश्रम⟫)
 
-⟪शुचि⟫ 3: loistava, kirkas, hienostunut; m.: puhtaus <!-- TODO: Fallback translation -->
+⟪शुचि⟫ 3: loistava, kirkas, hienostunut; m.: puhtaus
 
 ⟪पूज्⟫ 10P ⟪पूजयति⟫ : kunnioittaa, palvoa
 
 ::: indent
 PPP ⟪पूजित⟫
 :::
-## 29.3. Käännösharjoitus toistoa varten <!-- TODO: Fallback translation -->
+## 29.3. Käännösharjoitus toistoa varten
 
-Kääntäkää sanasta sanaan hyvään saksaan ja opetelkaa sanskrittekstit ulkoa: <!-- TODO: Fallback translation -->
+Kääntäkää sanasta sanaan hyvään saksaan ja opetelkaa sanskrittekstit ulkoa:
 
 1\. Määritelmä sanalle ⟪अविद्या⟫ :
 
@@ -152,11 +152,11 @@ Kuvaus: ⟪मात्स्यन्याय⟩:
 :::
 Selitykset:
 
-⟪।८।⟩ ⟪उद्वेजनीय⟩ ⟪३⟩ "jokin (joku), josta täytyy kauhuta" <!-- TODO: Fallback translation -->
+⟪।८।⟩ ⟪उद्वेजनीय⟩ ⟪३⟩ "jokin (joku), josta täytyy kauhuta"
 
 ⟪।११।⟩ ⟪विज्ञात⟩ ⟪३⟩ "tunnistettu"; n.: Tunnistus
 
-⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "liittää, yhdistää jonkin kanssa" <!-- TODO: Fallback translation -->
+⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "liittää, yhdistää jonkin kanssa"
 
 ⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : instr., dat. abl., du. mask. sanasta ⟪कामक्रोध⟫ (du. dvandva)
 
@@ -166,11 +166,11 @@ Selitykset:
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "neljä" kompositumin etuliitteenä
 
-⟪राज्ञा⟫ instr. sg. mask. sanalle ⟪राजन्⟫ m. "kuninka" <!-- TODO: Fallback translation -->
+⟪राज्ञा⟫ instr. sg. mask. sanalle ⟪राजन्⟫ m. "kuninka"
 
-⟪स्वेषु⟫ : lok. pl. mask./neutr. sanalle ⟪स्व⟫ ⟪३⟫ "oma (minun, sinun, hänen jne.)" <!-- TODO: Fallback translation -->
+⟪स्वेषु⟫ : lok. pl. mask./neutr. sanalle ⟪स्व⟫ ⟪३⟫ "oma (minun, sinun, hänen jne.)"
 
-⟪वर्त्मसु⟫ : lok. pl. neutr. sanalle ⟪वर्त्मन्⟫ n. "reitti, rata, polku" <!-- TODO: Fallback translation -->
+⟪वर्त्मसु⟫ : lok. pl. neutr. sanalle ⟪वर्त्मन्⟫ n. "reitti, rata, polku"
 
 ## 29.4. Futuuri ja kausatiivi aiemmin opetuille juurille
 
@@ -264,12 +264,6 @@ Selitykset:
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
 :::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [Kuv lähde: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Viitattu 20.12.2008. -- Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, sama lisenssi)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Kuv lähde: Khalid Mahmood / Wikipedia. GNU FDLicense]
-**lekt2902:** (Piirros: Namcha Payer, 2002-11)
-::: <!-- TODO: Fallback translation -->
 
 
 :::

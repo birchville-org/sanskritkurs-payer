@@ -339,11 +339,6 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (to ⟪प्र⟫-⟪व्रज्⟫): leaving home for homelessness; ceremony by which one becomes a Buddhist novice (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-See:
-
-**Payer, Alois (1944–):** Vinayamukha : Basic Concepts of the Monastic Rules and Canon Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
@@ -460,26 +455,3 @@ Identify the following forms:
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
 
-
-::: deleteme-box
-
-**lekt4301.jpg**: Details in licenses.md
-
-**lekt4401.jpg**: No specific license/image source found in the text
-
-**lekt4402.jpg**: Drawing by Henri Gerbault (1863 - 1930) (Public domain)
-
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)
-
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial use, Share alike)
-
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial use)
-
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial use)
-
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial use, Share alike)
-
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)
-
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)
-:::

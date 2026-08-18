@@ -72,7 +72,7 @@ Exempla:
 
 **stamen forte:**
 *   3./1. sg. P Perfekt endet auf -au
-*   2. sg. P : gradus plenus -ā vel gradus reductus -i <!-- TODO: Fallback translation -->
+*   2. sg. P : gradus plenus -ā vel gradus reductus -i
 
 **stamen infirmum:**
 *   ante consonantem: gradus profundus -i
@@ -84,9 +84,9 @@ Exemplum:
 
 | Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
+## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
 
 ::: grammar-box
 **Educatio:**
@@ -96,11 +96,11 @@ Exemplum:
 *   2.sg.P: gradus plenus
 *   1.sg.P: vel gradus plenus vel gradus prolatus
 
-**stamen infirmum:** vide subtypos <!-- TODO: Fallback translation -->
+**stamen infirmum:** vide subtypos
 
 Fitur dari akar jenis (Konsonan)-Konsonan-a-Konsonan
 :::
-### 35.3.1. Perfekta Jenis Va: akar lemah tingkat rendah <!-- TODO: Fallback translation -->
+### 35.3.1. Perfekta Jenis Va: akar lemah tingkat rendah
 
 ::: grammar-box
 **Educatio:**
@@ -142,7 +142,7 @@ Exemplum:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ |
 
 ### 35.3.3. Typus Perfectoris Vc: Radices consonantem-a-consonantem. Gradus fortis radicalis
 
@@ -163,7 +163,7 @@ Exemplum:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
 ## 35.4. Vocabularium
 
@@ -280,13 +280,3 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 C) Versa exercitii B) mutare, Perfectorum loco Imperfecta substituens.
 
-::: deleteme-box
-
-**lekt3501:** Musici templi Kaadu Malleswara Temple Bangalore. [Fons imaginis: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** Homines ambulantes, Senegalia. [Imaginis auctor: Curt Carnemark / Bankus Mundanus. CC BY-NC-ND]
-
-**lekt3503:** Forum in Vadaseri, Tamil Nadu. [Imago a kifo / Flickr. CC BY-SA] <!-- TODO: Fallback translation -->
-
-**lekt3504:** Ceremonia Yajña, ashrama Shiva, Ganeshpuri. [Fons imaginis: Dey / Flickr. CC BY-NC-SA]
-:::

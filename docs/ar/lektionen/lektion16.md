@@ -1,41 +1,42 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "الدرس 16"
+subtitle: "حول ساندِ الحروف الساكنة في نهاية الكلمة"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# الدرس الأول6
+# الدرس 16
 
-## 16.1. حول ساندی الحروف الساكنة في آخر الكلمة
+## 16.1. حول ساندهي (الاندماج الصوتي) للمقاطع الساكنة في نهاية الكلمة
 
-لتكوين المركبات (كومبوتا)، التي يتكون جزءها الأمامي من جذور تنتهي بحرف ساكن، نحتاج إلى القواعد التالية:
+لتكوين المركبات (كومبوتا) التي يتكون جزءها الأول من جذور تنتهي بصامت، نحتاج إلى القواعد التالية:
 
-الأصوات المقطعية الخلفية، والحلقية، والسنية، والشفتية (أي ليست أنفية وليست حنكية).
+أصوات الإغلاق (الانسداد) الحلقية، والرجعية، والسنية، والشفتوية في نهاية الكلمة (أي ليست أنفية وليست حنكية).
 
 ::: no-header
 
 |   |   |
 | :--- | :--- |
-| **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
-| **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
+| **في الوقفة وقبل الأصوات الصامتة (غير المنطوقة)** | **استبدالها بالصامت غير المنفوخ المقابل لها:** :br **مثال.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **قبل الأصوات المنطوقة غير الأنفية** | **استبدالها بالصامت المنطوق غير المنفوخ المقابل لها:** :br **مثال.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **قبل الأنفية** | **استبدالها بالأنفي المقابل لها:** :br **مثال.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
-استثناء من القاعدة أعلاه:
+استثناء من القاعدة المذكورة أعلاه:
 
-إغلاق سني في نهاية الكلمة (ليس أنفيًا):
+صوت الإغلاق السني في نهاية الكلمة (وليس أنفيًا):
 
 ::: no-header
 
 |   |   |
 | :--- | :--- |
-| **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
-| **+ ś** | **» -cś- oder -cch-** |
-| **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
+| **قبل الحنكية** | **استبدالها بالحنكية غير المنفوخة المعنية:** :br **أي.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+| **+ ś** | **» -cś- أو -cch-** |
+| **قبل الرجعية** | **استبدالها بالرجعية غير المنفوخة المعنية:** :br **أي.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **قبل l-** | **استبدالها بـ -l:** :br **أي.** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 أمثلة:
@@ -90,7 +91,7 @@ status: stable
 
 ⟪निरोध⟫ م.: إيقاف، جعل يتوقف
 
-* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): كائن، شبح <!-- TODO: Fallback translation -->
+* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): كائن، شبح
 
 ⟪योग⟫ م.: ربط، اتصال، اتحاد، كسب؛ يوغا
 
@@ -240,13 +241,3 @@ A) حوّل العبارات التالية إلى تركيب "تاتبوروش�
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** معبد بيرةلا، دلهي [مصدر الصورة: ديباك / ويكيبيديا؛ رخصة المشاع الإبداعي (نسبة المصنف، المشاركة بالتساوي)]
-
-**lekt1602:** "هذه مراسم خاصة في معبد صغير في ساتارا (⟪सातारा⟫). يؤديها طلاب مدرسة سوامي موكتاناندا الفيدية في احتفال مهاده شيفاراتري. هذه مدرسة فيدية، حيث يحفظ الأطفال النصوص المقدسة المسماة الفيدا. تُدرّس المدرسة ياجورفيدا كريشنا وبعض أجزاء سامافيدا. أكتب رسالة الماجستير الخاصة بي عن هذه المدرسة." [مصدر الصورة: شريمترايا. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- تم الوصول إليه في 2008-12-07. -- رخصة المشاع الإبداعي (نسب العمل، غير تجاري، لا أعمال مشتقة)]
-
-**lekt1603:** "تمثل اليد التي تحمل عجلة على راحة اليد نذر عدم العنف في الديانة الجاينية. الكلمة الموجودة في المنتصف هي "أهيمسا". تمثل العجلة دارما تشاكرا التي تقف على العزم لوقف دورة إعادة الميلاد من خلال السعي الحثيث وراء الحقيقة وعدم العنف." [مصدر الصورة: ويكيبيديا، ملكية عامة]
-
-**lekt1604:** ⟪हरियाणा⟫ / هاريانا [مصدر الصورة: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- تم الوصول إليه في 2008-12-07. -- رخصة المشاع الإبداعي (نسب العمل، عدم الاستخدام التجاري، عدم الاشتقاق)]
-:::

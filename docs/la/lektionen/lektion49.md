@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 49
 
@@ -231,7 +231,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Abb.: ⟪कुलूहलम्⟫
 (Bildquelle: [Details](/la/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: totus, integer <!-- TODO: Fallback translation -->
+⟪कृत्स्न⟫ 3: totus, integer
 
 ⟪परिचय⟫ m.: cognitio
 
@@ -247,7 +247,7 @@ Abb.: ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪उत⟫ Indeclinabile: et, quoque, an
 
-⟪विहंग⟫ m.: avis ("in aerem स्⟫traum - विह⟫ - eunt") <!-- TODO: Fallback translation -->
+⟪विहंग⟫ m.: avis ("in aerem स्⟫traum - विह⟫ - eunt")
 
 ::: media
 ![](/images/lekt4903.jpg)
@@ -370,27 +370,5 @@ Interrogationes Regis ⟪शूद्रक⟫ ex ⟪विदिशा⟫ ad Ps
 Fig.: ⟪शुकः⟫
 Psittacula cyanocephala (Cyanopsitta)
 (Fons imaginis: [Detalia](/la/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Imago a Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Accessus die 2009-01-10. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, share alike)]
-
-**lekt4901:** [Imago a younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attributio, nulla modificatio)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, saec. XI. [Imago a Vassil / Wikipedia. Dominium publicum] <!-- TODO: Fallback translation -->
-
-**lekt4903:** [Imago a Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Imago fontis: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, share alike)]
-
-**lekt4909:** Augur cum psittaco in cavea: psittacus chartulas trahit, quibus fatum scriptum est Mysore [Imago fontis: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Accessus die 2009-01-12. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Imago fontis: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
-
-**lekt4906:** Sri Lanka [Imago fontis: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
-
-**lekt4908:** Psittacus cyanocephala _= Psittacula cyanocephala_[Fontes imaginis: Arbor Candelae. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Accessus die 2009-01-12. -- [Licentia Creative Communis](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, share alike)]
-
 :::
 

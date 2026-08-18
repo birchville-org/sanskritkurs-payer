@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: Asetukset
+title: "[Asetukset]"
+
 ---
 
 <ClientOnly>

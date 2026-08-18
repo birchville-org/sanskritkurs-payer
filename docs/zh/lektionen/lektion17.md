@@ -11,27 +11,27 @@ status: stable
 
 ## 17.1. 第二现在时类 (⟪अदादि⟫ = ⟪अद्⟫ 等)
 
-Die Verbalendungen treten direkt an die Wurzel. Dabei sind die aus dem Wortsandhi resultierenden Lautveränderungen zu beachten. <!-- TODO: Fallback translation -->
+Die Verbalendungen treten direkt an die Wurzel. Dabei sind die aus dem Wortsandhi resultierenden Lautveränderungen zu beachten.
 
 ::: grammar-box
 
-Es gibt folgende Bildungsformen in der zweiten Präsensklasse: <!-- TODO: Fallback translation -->
+Es gibt folgende Bildungsformen in der zweiten Präsensklasse:
 
-1.  Wurzeln mit Stammabstufung  <!-- TODO: Fallback translation -->
-    *   meistens: Hochstufe - Tiefstufe <!-- TODO: Fallback translation -->
-    *   einige Wurzeln: Dehnstufe - Tiefstufe  <!-- TODO: Fallback translation -->
-2.  Wurzeln ohne Stammabstufung  <!-- TODO: Fallback translation -->
-3.  zweisilbige Wurzeln auf -i/-ī mit Stammabstufung <!-- TODO: Fallback translation -->
+1.  Wurzeln mit Stammabstufung 
+    *   meistens: Hochstufe - Tiefstufe
+    *   einige Wurzeln: Dehnstufe - Tiefstufe 
+2.  Wurzeln ohne Stammabstufung 
+3.  zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
 
 :::
 ## 17.2. 第二现在时类词根的词干交替：高阶 - 低阶
 
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
-⟪द्विष्⟫ 2 U "hassen" <!-- TODO: Fallback translation -->
+⟪द्विष्⟫ 2 U "hassen"
 
-*   starker Präsensstamm: dveṣ- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: dviṣ- <!-- TODO: Fallback translation -->
+*   starker Präsensstamm: dveṣ-
+*   schwacher Präsensstamm: dviṣ-
 
 ::: no-header
 
@@ -43,21 +43,21 @@ Beispiele: <!-- TODO: Fallback translation -->
 | 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
-Hierbei wirkt folgendes Wortsandhigesetz: <!-- TODO: Fallback translation -->
+Hierbei wirkt folgendes Wortsandhigesetz:
 
 ::: grammar-box
-Wortsandhi von -ṣ + t(h)- <!-- TODO: Fallback translation -->
+Wortsandhi von -ṣ + t(h)-
 
-\-ṣ + t(h)- » -ṣṭ(h)- <!-- TODO: Fallback translation -->
+\-ṣ + t(h)- » -ṣṭ(h)-
 :::
-Weitere Beispiele: <!-- TODO: Fallback translation -->
+Weitere Beispiele:
 
-⟪इ⟫ 2 P "gehen" (Ā nach bestimmten Präverbien) <!-- TODO: Fallback translation -->
+⟪इ⟫ 2 P "gehen" (Ā nach bestimmten Präverbien)
 
-*   starker Präsensstamm: e- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: i- <!-- TODO: Fallback translation -->
-    *   vor Vokal: y-/iy- <!-- TODO: Fallback translation -->
+*   starker Präsensstamm: e-
+*   schwacher Präsensstamm:
+    *   vor Konsonant: i-
+    *   vor Vokal: y-/iy-
 
 ::: no-header
 
@@ -69,10 +69,10 @@ Weitere Beispiele: <!-- TODO: Fallback translation -->
 | 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
 
 :::
-⟪दुह्⟫ 2 U "melken" <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2 U "melken"
 
-*   starker Präsensstamm: doh- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: duh- <!-- TODO: Fallback translation -->
+*   starker Präsensstamm: doh-
+*   schwacher Präsensstamm: duh-
 
 ::: no-header
 
@@ -84,12 +84,12 @@ Weitere Beispiele: <!-- TODO: Fallback translation -->
 | 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
-⟪हन्⟫ 2 P "schlagen, erschlagen, töten" <!-- TODO: Fallback translation -->
+⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
 
-*   starker Präsensstamm: han- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: ha- (« \*hn-) <!-- TODO: Fallback translation -->
-    *   vor Vokal: ghn-/han- <!-- TODO: Fallback translation -->
+*   starker Präsensstamm: han-
+*   schwacher Präsensstamm:
+    *   vor Konsonant: ha- (« \*hn-)
+    *   vor Vokal: ghn-/han-
 
 ::: no-header
 
@@ -101,10 +101,10 @@ Weitere Beispiele: <!-- TODO: Fallback translation -->
 | 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
-⟪अस्⟫ 2 P "sein" <!-- TODO: Fallback translation -->
+⟪अस्⟫ 2 P "sein"
 
-*   starker Präsensstamm: as- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: s- <!-- TODO: Fallback translation -->
+*   starker Präsensstamm: as-
+*   schwacher Präsensstamm: s-
 
 ::: no-header
 
@@ -116,14 +116,14 @@ Weitere Beispiele: <!-- TODO: Fallback translation -->
 :::
 ## 17.3. 第二类现在时词根的词干交替：增级 - 零级
 
-Beispiel: <!-- TODO: Fallback translation -->
+Beispiel:
 
-⟪स्तु⟫ 2 U "preisen" <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2 U "preisen"
 
-*   starker Präsensstamm: stau- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: stu- <!-- TODO: Fallback translation -->
-    *   vor Vokal: stuv- <!-- TODO: Fallback translation -->
+*   starker Präsensstamm: stau-
+*   schwacher Präsensstamm:
+    *   vor Konsonant: stu-
+    *   vor Vokal: stuv-
 
 ::: no-header
 
@@ -138,11 +138,11 @@ Beispiel: <!-- TODO: Fallback translation -->
 ## 17.4. 第二类现在时词根无词干交替
 
 ::: grammar-box
-Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā <!-- TODO: Fallback translation -->
+Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Beispiel:
 
-⟪पा⟫  2 P "schützen, behüten, hüten" <!-- TODO: Fallback translation -->
+⟪पा⟫  2 P "schützen, behüten, hüten"
 
 ::: no-header
 
@@ -152,11 +152,11 @@ Beispiel: <!-- TODO: Fallback translation -->
 | 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::
-Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung: <!-- TODO: Fallback translation -->
+Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung:
 
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
-⟪अद्⟫ 2 P "essen" <!-- TODO: Fallback translation -->
+⟪अद्⟫ 2 P "essen"
 
 ::: no-header
 
@@ -166,7 +166,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 | 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
-⟪आस्⟫ 2 Ā "sitzen" <!-- TODO: Fallback translation -->
+⟪आस्⟫ 2 Ā "sitzen"
 
 ::: no-header
 
@@ -176,7 +176,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 | 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
-⟪वच्⟫ 2 P "sagen" <!-- TODO: Fallback translation -->
+⟪वच्⟫ 2 P "sagen"
 
 ::: no-header
 
@@ -188,16 +188,16 @@ Beispiele: <!-- TODO: Fallback translation -->
 :::
 ## 17.5. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
 
-Mehrere Wurzeln sind in einer Reihe von Formen zweisilbig, d.h. sie haben vor konsonantischer Endung ein -i (bzw. vor einigen Endungen -ī). Diese Wurzeln werden aber trotzdem von den einheimischen Grammatikern und in Wörterbüchern usw. als einsilbig angesetzt. <!-- TODO: Fallback translation -->
+Mehrere Wurzeln sind in einer Reihe von Formen zweisilbig, d.h. sie haben vor konsonantischer Endung ein -i (bzw. vor einigen Endungen -ī). Diese Wurzeln werden aber trotzdem von den einheimischen Grammatikern und in Wörterbüchern usw. als einsilbig angesetzt.
 
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
-⟪रुद्⟫ 2 P "weinen, heulen" <!-- TODO: Fallback translation -->
+⟪रुद्⟫ 2 P "weinen, heulen"
 
-*   starker Präsensstamm: rodi- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: rudi- <!-- TODO: Fallback translation -->
-    *   vor Vokal: rud- <!-- TODO: Fallback translation -->
+*   starker Präsensstamm: rodi-
+*   schwacher Präsensstamm:
+    *   vor Konsonant: rudi-
+    *   vor Vokal: rud-
 
 ::: no-header
 
@@ -207,12 +207,12 @@ Beispiele: <!-- TODO: Fallback translation -->
 | 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
-⟪ब्रू⟫ 2 U "sprechen" <!-- TODO: Fallback translation -->
+⟪ब्रू⟫ 2 U "sprechen"
 
-*   starker Präsensstamm: bravī- (« bro- + -ī) <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: brū- <!-- TODO: Fallback translation -->
-    *   vor Vokal: bruv- <!-- TODO: Fallback translation -->
+*   starker Präsensstamm: bravī- (« bro- + -ī)
+*   schwacher Präsensstamm:
+    *   vor Konsonant: brū-
+    *   vor Vokal: bruv-
 
 ::: no-header
 
@@ -224,7 +224,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 | 3\. pl. Präs. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
 :::
-Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen nach diesem Muster: <!-- TODO: Fallback translation -->
+Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen nach diesem Muster:
 
 ::: no-header
 
@@ -235,62 +235,62 @@ Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen 
 :::
 ## 17.6. 词汇表
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten <!-- TODO: Fallback translation -->
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-⟪घात⟫ m.: Tötung <!-- TODO: Fallback translation -->
+⟪घात⟫ m.: Tötung
 :::
 
 ::: media
 ![](/images/lekt1703.webp)
 Abb.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen <!-- TODO: Fallback translation -->
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin <!-- TODO: Fallback translation -->
+⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
 :::
 
 ::: media
 ![](/images/lekt1701.webp)
 Abb.: ⟪योगासनम्⟫
-(Bildquelle: [Details](/licenses#lekt1701)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1701))
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen <!-- TODO: Fallback translation -->
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra <!-- TODO: Fallback translation -->
+⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ) <!-- TODO: Fallback translation -->
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
 
-⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken
 
 ::: media
 ![](/images/lekt1702.webp)
 Abb.: ⟪दोग्धि⟫
-(Bildquelle: [Details](/licenses#lekt1702)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : zeigen, anweisen, befehlen <!-- TODO: Fallback translation -->
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : zeigen, anweisen, befehlen
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung <!-- TODO: Fallback translation -->
+⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung
 
-⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung) <!-- TODO: Fallback translation -->
+⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
 :::
 
 ## 17.7. 练习 1
 
-A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie: <!-- TODO: Fallback translation -->
+A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
 
 ⟪१⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫)
 
@@ -312,11 +312,11 @@ A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie: <!-- TODO: 
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫)
 
-B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural <!-- TODO: Fallback translation -->
+B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
 
 ## 17.8. 练习 2
 
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an: <!-- TODO: Fallback translation -->
+Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an:
 
 ⟪१⟫. ⟪अदन्ति⟫
 
@@ -410,11 +410,3 @@ B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural <!-- 
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
-::: deleteme-box
-
-**lekt1701:** [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt1702:** [Bildquelle: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
-:::

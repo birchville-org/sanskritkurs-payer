@@ -483,11 +483,3 @@ Ejemplo: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-::: deleteme-box
-
-**lekt2801:** Edificio de gestión de la Universidad Jadavpur. [Fuente de la imagen: Flickr de noii, 2008-12-19, CC BY-SA]
-**lekt2802:** Templo ISKCON Bangalore. [Fuente de la imagen: Flickr de Ramki's reflections, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Músico de Vīṇā. [Fuente de la imagen: Kelvin Kay / Wikipedia. Licencia GNU FDL]
-**lekt2804:** Kṛṣṇa y Rādhā. Cuadro de Rāja Ravi Varmā. [Fuente de la imagen: Wikipedia. Dominio público]
-**lekt2805:** Niña carga peso. Cerca de Ahmedabad. [Fuente de la imagen: m-bot. Flickr, 2008-12-20. CC BY-SA]
-:::

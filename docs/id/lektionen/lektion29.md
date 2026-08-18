@@ -262,8 +262,4 @@ Explanations:
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
 :::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [Image source: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accessed 2008-12-20. -- Creative Commons License (Attribution, non-commercial use, share alike)]
-:::
 

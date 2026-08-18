@@ -1,10 +1,11 @@
 ---
-title: Lektion 57
-subtitle: "Aorist 4: s-Aorist"
+title: "पाठ 57"
+subtitle: "अतिप्रीत: 4: s-अतिप्रीत"
 lesson_id: 57
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # पाठ ५७
@@ -93,7 +94,7 @@ status: stable
 ::: indent
 ⟪⟪⟪दृश्⟫⟫⟥ 3.⟪एकवचन⟫.⟪पुरुष⟫ ⟪⟪⟪अ⟫⟫⟥***⟪⟪:sig[⟪द्राक्षी⟫]⟫⟥***⟪⟪⟪त्⟫⟫⟥
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
 ⟪⟪कृष्⟫⟫ 1P/6U 3.एकवचन.उत्तमपुरुष ⟪⟪अकार्क्षीत्⟫⟫ / ⟪⟪अ⟫⟫***⟪:sig[⟪क्राक्षी⟫]⟫***⟪⟪त्⟫⟫
@@ -239,8 +240,3 @@ B) निम्नलिखित रूपों को अनुवादि�
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-::: deleteme-box
-
-**lekt5701:** [चित्र स्रोत: विकिपीडिया। सार्वजनिक क्षेत्र]
-
-:::

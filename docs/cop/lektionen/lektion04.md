@@ -9,14 +9,6 @@ status: stable
 
 # ⲙⲁⲑⲏⲙⲁ 4
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Fragepronomina und Demonstrativpronomina im Nominativ
-- Sandhi von auslautendem -m
-- Sandhi von auslautendem -e
-- Sandhi von auslautendem -d
-- Einfache Frageformeln
-:::
 ## 4.1. ⲛⲓⲧⲁⲣⲟ ⲛ̀ⲉⲣⲅⲁⲛⲍⲩⲛⲅ ⲉⲧϩⲁⲣⲏⲩ (ⲛⲓⲧⲁⲣⲟ ⲛ̀ϩⲱⲃ) ⲛⲉⲙ ⲛⲓⲥⲱⲧⲡ
 
 ### 4.1.1. ⲡⲣⲟⲛⲟⲙⲓⲛⲁ ⲛⲥⲱⲧⲡ ⲛⲉⲙ ⲇⲉⲙⲟⲛⲥⲧⲣⲁⲧⲓⲩⲡⲣⲟⲛⲟⲙⲓⲛⲁ

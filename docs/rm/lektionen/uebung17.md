@@ -78,7 +78,7 @@ B) Mettai en las sentenzias formadas en A) l'agent e il verb en plural
 Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (font da l'imaginescha: [detagls](/licenses#uebung025))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercizi cun formas verbalas
 
@@ -181,4 +181,3 @@ Tradusì las suventas formas verbalas e dondà la radis cunvegnenta:
 Abb.: ⟪शृणोति⟫
 (Font dal maletg: [Detagls](/licenses#uebung026))
 :::
- <!-- TODO: Fallback translation -->

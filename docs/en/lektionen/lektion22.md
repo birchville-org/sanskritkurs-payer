@@ -242,14 +242,3 @@ Fig.: ⟪अन्नं पक्त्वा⟫
 (Image source: [Details](/en/licenses#lekt2204))
 :::
 
-::: deleteme-box
-
-**lekt2201:** Goa = ⟪गोंय⟫ [Image source: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accessed on 2008-12-12. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
-
-**lekt2202:** 19th century [Image source: Wikipedia, Public domain]
-
-**lekt2203:** Kolkata = কলকাতা [Image source: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Accessed on 2008-12-12. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
-
-**lekt2204:** [Image source: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Accessed on 2008-12-12. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
-:::
-

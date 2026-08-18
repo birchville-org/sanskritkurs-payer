@@ -198,7 +198,7 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 Εικ.: ⟪अलं⟫  ⟪विषादेन⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
+## 56.4. ⟪स्म⟫
 
 ::: grammar-box
 **⟪स्म⟫ τονίζει: "αληθινά, πράγματι, σίγουρα, ακριβώς"**
@@ -296,12 +296,3 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** Καθηγητής Σύγκρισης Γλωσσολογίας, Πανεπιστήμιο Erlangen-Nürnberg (1955 - 1983) [Πηγή εικόνας: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Πρόσβαση στις 2009-02-27] <!-- TODO: Fallback translation -->
-
-**lekt5602:** Αφίσα (Ernesto Che Guevara) πολιτικού κόμματος στο Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Η χονδρική μετάφραση του γραπτού είναι: Η μαρτυρία είναι μια συναρπαστική εμπειρία για έναν επαναστάτη. Και ένα τρομακτικό καταφύγιο για έναν δόλιο. Ο Che δεν είναι πρότυπο για δειλούς." [Πηγή εικόνας: Hari\_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Πρόσβαση στις 2009-02-27. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, share alike)]
-
-**lekt5603:** [Πηγή εικόνας: Παγκόσμια Τράπεζα / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Πρόσβαση στις 2009-02-27. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
-
-:::

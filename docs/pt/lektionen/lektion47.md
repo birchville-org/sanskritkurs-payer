@@ -1,10 +1,11 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: "Lição 47"
+subtitle: "O Imperativo (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 47
@@ -106,7 +107,7 @@ Nota: ¹ As desinências da 2ª e 3ª p.sg. podem ser substituídas por -tāt qu
 ![](/images/lekt4702.webp)
 Fig.: ⟪प्रविशत⟫
 Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
-(Fonte da imagem: [Details](/licenses#lekt4702))
+(Fonte da imagem: [Details](/pt/licenses#lekt4702))
 :::
 ### 47.2.4. Quarta classe do presente (⟪दिवादि⟫)
 
@@ -121,7 +122,7 @@ Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 ::: media
 ![](/images/lekt4701.webp)
 Fig.: ⟪नृत्यत⟫
-(Fonte da imagem: [Details](/licenses#lekt4701))
+(Fonte da imagem: [Details](/pt/licenses#lekt4701))
 :::
 ### 47.2.5. Décima classe do presente (⟪चुरादि⟫) e causativos
 
@@ -160,7 +161,7 @@ A) Traduza:
 ::: media
 ![](/images/lekt4703.webp)
 Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4703))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4703))
 :::
 ⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
 
@@ -171,7 +172,7 @@ Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्�
 ::: media
 ![](/images/lekt4704.webp)
 Fig.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4704))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4704))
 :::
 ⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
 
@@ -253,14 +254,3 @@ Nós queremos ser guiados por ti.
 
 Que seja para a felicidade (que aconteça)! (desejo de bênção)
 
-::: deleteme-box
-
-**lekt4702:** Templo de Hanuman, Deli = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Fonte da imagem: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Acessado em 2009-01-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribuição, Sem Derivações)]
-
-**lekt4701:** [Fonte da imagem: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Acessado em 2009-01-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, Uso Não-Comercial, Compartilhamento pela mesma Licença)]
-
-**lekt4703:** [Fonte da imagem: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Acessado em 2009-01-10. -- [Licença Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuição)]
-
-**lekt4704:** [Fonte da imagem: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Acessado em 2009-01-10. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não-Comercial, Sem Derivações)]
-
-:::

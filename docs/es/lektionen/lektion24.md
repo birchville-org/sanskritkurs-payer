@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lección 24
 
@@ -405,27 +405,3 @@ Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 15⟪१५⟫. ¡Hasta luego! (Sánscrito moderno: ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] es un evento hindú tradicional que tiene lugar en las celebraciones del Año Nuevo hindú en todos los templos BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Cientos de platos vegetarianos se ofrecen a Bhagwan Swaminarayan [સ્વામિનારાયણ] en este día. [Fuente de la imagen: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial)]
-
-**lekt2402:** Raksha bandhan se celebra con fervor y alegría en toda la India. Este festival epitomiza el amor incondicional entre hermanos y hermanas. [Fuente de la imagen: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial, share alike)]
-
-**lekt2403:** "Rama (derecha) sentado sobre los hombros de Hanuman, batalla contra el rey demonio Ravana." ca 1820 [Fuente de la imagen: Wikipedia, dominio público]
-
-**lekt2404:** [Fuente de la imagen: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, sin modificaciones)]
-
-**lekt2405:** [Fuente de la imagen: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial, sin modificaciones)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Fuente de la imagen: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial)]
-
-**lekt2407:** "NUEVA DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor adjunto de Asuntos Exteriores de la Red CNN-IBN 18, India, modera un panel de discusión en la Cumbre Económica India del Foro Económico Mundial 2008 en Nueva Delhi." [Fuente de la imagen: Foro Económico Mundial / Foto de Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, share alike)]
-
-**lekt2408:** "El narrador de historias de San Francisco, Jeff Byers, comparte una historia con los residentes de Chenneri, una aldea irula. El narrador de historias Jeeva Raghunath traduce al tamil para los aldeanos." [Fuente de la imagen: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Acceso el 2008-12-14. -- Licencia Creative Commons (Atribución, uso no comercial)]
-
-**lekt2409:** [Fuente de la imagen: Redtigerxyz / Wikipedia, Licencia GNU FDL] &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt2410:** ⟪नरसिंह⟫ desgarrado ⟪हिरण्यकशिपु⟫, página de un manuscrito del ⟪भागवतपुराण⟫ [Fuente de la imagen: Wikipedia, Dominio público]
-
-**lekt2411:** Manuscrito del ⟪गीतगोविन्द⟫, 1730 d. C. [Fuente de la imagen: Wikipedia, Dominio público]
-:::

@@ -5,7 +5,7 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
---- <!-- TODO: Fallback translation -->
+---
 
 # שיעור 2
 
@@ -72,7 +72,7 @@ last_reconstructed: 2026-04-30
 
 סיום של מילה בסנסקריט נקבע גם על פי תחילת המילה הבאה. תופעה זו נקראת **סנדהי** (ז') = ⟪सन्धि⟫ ("חיבור").
 
-> **פייאר, אלוויוס (1944–):** סנדי של s בסוף מילה. -- (חומרים לסנסקריט). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm <!-- TODO: Fallback translation -->
+> **פייאר, אלוויוס (1944–):** סנדי של s בסוף מילה. -- (חומרים לסנסקריט). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 s בסוף מילה:
 

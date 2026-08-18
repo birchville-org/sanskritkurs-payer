@@ -173,7 +173,7 @@ status: stable
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -193,7 +193,7 @@ status: stable
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. المركبات الظرفية
@@ -520,17 +520,3 @@ A) أجب عن الأسئلة التالية باللغة السنسكريتية
 
 في مرةٍ ما، عندما ذهب رجلٌ كبيرٌ في السن إلى قريةٍ أخرى، تعب في الطريق. لذا ذهب ليجلس تحت شجرة مانجو كانت تنمو على جانب الطريق ليرتاح. كانت على هذه الشجرة ثمارٌ ناضجة. شعر الرجل الكبير بالرغبة في هذه الثمار. لكنه لم يستطع تسلق الشجرة والتقاط الثمار. ولحسن الحظ، كانت هناك بعض القرود على هذه الشجرة تأكل الثمار. عندما رآها، فرح الرجل الكبير. ماذا فعل؟ أخذ بعض الحجارة، واستهدف القرود ورمى بها. غضبت القرود وقرضت بعض الثمار ورمته بها. أخذ الرجل الكبير هذه الثمار بسعادة ومضى إلى المنطقة التي أرادها. انظر، قدر هذا الرجل الكبير!
 
-::: deleteme-box
-
-- **الصورة lekt3701.jpg** (م: ⟪क्व⟫): [مصدر الصورة: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- تم الوصول إليه في 2008-12-30. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-- **الصورة lekt3702.jpg** (م: ⟪यथाशक्ति⟫): [مصدر الصورة: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- تم الوصول إليه في 2008-12-30. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-- **الصورة lekt3703.jpg** (م: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): تشيشتي (Chishti) درغا (Dargah)، فاتهابور سيكري = فاتهابور سيكري / Fatehpur Sikri [مصدر الصورة: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- تم الوصول إليه في 2008-12-30. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-- **الصورة lekt3704.jpg** (م: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): كانجيبورام = Kanchipuram [مصدر الصورة: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- تم الوصول إليه في 2008-12-30. -- رخصة المشاع الإبداعي (النسبة)]
-- **الصورة lekt3705.jpg** (م: ⟪शाक्यमुनिः⟫): حسين ساغر = Hussain Sagar، حيدر أباد = Hyderabad [مصدر الصورة: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- تم الوصول إليه في 2008-12-31. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-- **الصورة lekt3706.jpg** (م: ⟪वृक्षः⟫): جيبور [مصدر الصورة: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- تم الوصول إليه في 2008-12-31. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، المشاركة بالمثل)]
-- **الصورة lekt3707.jpg** (م: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): لوحة لـ ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [مصدر الصورة: ويكيبيديا. ملكية عامة]
-- **الصورة lekt3708.jpg** (م: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [مصدر الصورة: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- تم الوصول إليه في 2008-12-31. -- رخصة المشاع الإبداعي (النسبة)]
-- **الصورة lekt3709.jpg** (م: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [مصدر الصورة: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- تم الوصول إليه في 2008-12-31. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-- **الصورة lekt3710.jpg** (م: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [مصدر الصورة: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- تم الوصول إليه في 2008-12-31. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، المشاركة بالمثل)]
-- **الصورة lekt3711.jpg** (م: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): دلهي = ⟪दहली⟫ / دہلی [مصدر الصورة: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- تم الوصول إليه في 2008-12-31. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، عدم الاشتقاق)]
-:::

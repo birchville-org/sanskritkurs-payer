@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα 36
 
@@ -20,7 +20,7 @@ status: stable
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫*:sig[⟪गा⟫]*⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫*:sig[⟪घा⟫]*⟪न⟫ | ⟪ज⟫*:sig[⟪घ्नु⟫]*⟪र्⟫ | | | <!-- TODO: Fallback translation -->
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫*:sig[⟪घा⟫]*⟪न⟫ | ⟪ज⟫*:sig[⟪घ्नु⟫]*⟪र्⟫ | | |
 
 ::: grammar-box
 2\. Η ρίζα ⟪विद्⟫ 2P «γινώσκω» έχει παρακείμενο με σημασία ενεστώτα.
@@ -63,7 +63,7 @@ status: stable
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ και ⟪भू⟫ χρησιμοποιούνται επίσης σε ρήματα του Ātmanepada στον Parasmaipada.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 Παραδείγματα:
 
@@ -508,13 +508,3 @@ B) Η ρίζη ⟪आस्⟫ "καθίζω" έχει περιφραστικό 
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: Εικ.: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Πηγή εικόνας: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Πρόσβαση στις  28-12-2008. --   Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)]
-- **lekt3602.jpg**: Εικ.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Πηγή εικόνας: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Πρόσβαση στις 28-12-2008. --   Άδεια Creative Commons (Αναφορά, shere alike)]
-- **lekt3603.jpg**: Εικ.: ⟪अनगार्यम्⟫ 	Northeast Thailand = อีสาน 	[Πηγή εικόνας: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Πρόσβαση στις  	28-12-2008. --  	 	Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
-- **lekt3604.jpg**: Εικ.: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. τριχώματα σώματος) [Πηγή εικόνας: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Πρόσβαση στις 28-12-2008.  --   Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟩ Gandhara, 1./2. αι. μ.Χ. [Πηγή εικόνας: Wikipedia. GNU FDLicense]
-- **lekt3606.jpg**: Εικ.:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫Mudrā [Πηγή εικόνας: Payer]
-- **lekt3607.jpg**: Εικ.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Πηγή εικόνας: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Πρόσβαση στις  28-12-2008. --   Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike)]
-:::

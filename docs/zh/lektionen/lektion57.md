@@ -12,11 +12,11 @@ status: stable
 ## 57.1. Aorist 4: s-不定过去时
 
 ::: grammar-box
-**Der s-Aorist wird zu den meisten ⟪अनिट्⟫-Wurzeln gebildet, sofern sie nicht ausschließlich eine andere Aoristform haben. Fakultative ⟪अनिट्⟫-Wurzeln können im allgemeinen wahlweise diesen oder den iṣ-Aorist bilden. Auch ⟪अनिट्⟫-Wurzeln, die das ⟪परस्मैपद⟫ nach der 1.,2. oder 6. Form des Aorist bilden, bilden das ⟪आत्मनेपद⟫ nach dem s-Aorist.** <!-- TODO: Fallback translation -->
+**Der s-Aorist wird zu den meisten ⟪अनिट्⟫-Wurzeln gebildet, sofern sie nicht ausschließlich eine andere Aoristform haben. Fakultative ⟪अनिट्⟫-Wurzeln können im allgemeinen wahlweise diesen oder den iṣ-Aorist bilden. Auch ⟪अनिट्⟫-Wurzeln, die das ⟪परस्मैपद⟫ nach der 1.,2. oder 6. Form des Aorist bilden, bilden das ⟪आत्मनेपद⟫ nach dem s-Aorist.**
 
-**Bildung: Augment + Wurzel + s + athematische Sekundärendung** <!-- TODO: Fallback translation -->
+**Bildung: Augment + Wurzel + s + athematische Sekundärendung**
 :::
-Tabelle der Endungen mit Stammbildungssuffix <!-- TODO: Fallback translation -->
+Tabelle der Endungen mit Stammbildungssuffix
 
 ::: grammar-box
 
@@ -28,44 +28,44 @@ Tabelle der Endungen mit Stammbildungssuffix <!-- TODO: Fallback translation -->
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
 :::
 ::: grammar-box
-**Es wird das allgemeine Lautgesetz angewendet, dass ein Zischlaut zwischen zwei Verschlusslauten ausfällt (vgl. ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), d.h. das Stammbildungssuffix -s- vor Endungen, die mit -t- oder -th- beginnen, entfällt (nicht aber nach Nasalen oder r-).** <!-- TODO: Fallback translation -->
+**Es wird das allgemeine Lautgesetz angewendet, dass ein Zischlaut zwischen zwei Verschlusslauten ausfällt (vgl. ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), d.h. das Stammbildungssuffix -s- vor Endungen, die mit -t- oder -th- beginnen, entfällt (nicht aber nach Nasalen oder r-).**
 
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 :::
 ::: indent
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***:sig[⟪क्षिप्त⟫]***
-2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***:sig[⟪क्षिप्था⟫]***⟪स्⟫ <!-- TODO: Fallback translation -->
+2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***:sig[⟪क्षिप्था⟫]***⟪स्⟫
 :::
-Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin. <!-- TODO: Fallback translation -->
 Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin.
-Die indischen Grammatiker haben auch Formen wie :sig[⟪अकृत⟫] (3.sg.Ā) zum s-Aorist gerechnet, die eindeutig zum Wurzelaorist gehören. Zu diesem Zweck haben die indischen Grammatiker folgende ad-hoc Lautregel für den s-Aorist erfunden: <!-- TODO: Fallback translation -->
+Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin.
+Die indischen Grammatiker haben auch Formen wie :sig[⟪अकृत⟫] (3.sg.Ā) zum s-Aorist gerechnet, die eindeutig zum Wurzelaorist gehören. Zu diesem Zweck haben die indischen Grammatiker folgende ad-hoc Lautregel für den s-Aorist erfunden:
 
 ::: indent
-"Nach kurzem Vokal verlieren die "Endungen", die mit -st- oder -sth- beginnen, das -s-." <!-- TODO: Fallback translation -->
+"Nach kurzem Vokal verlieren die "Endungen", die mit -st- oder -sth- beginnen, das -s-."
 :::
-Sonst sind die Lautregeln für die Verbindung auslautender Konsonanten mit s- zu beachten. <!-- TODO: Fallback translation -->
+Sonst sind die Lautregeln für die Verbindung auslautender Konsonanten mit s- zu beachten.
 
-Für -dhvam gilt: <!-- TODO: Fallback translation -->
+Für -dhvam gilt:
 
 ::: grammar-box
-**Das -dh- von -dhvam wird nach allen Nicht-a/ā-Vokalen sowie nach -r durch -ḍh- ersetzt.** <!-- TODO: Fallback translation -->
+**Das -dh- von -dhvam wird nach allen Nicht-a/ā-Vokalen sowie nach -r durch -ḍh- ersetzt.**
 
 :::
 ::: indent
-z.B. ***:sig[⟪चि⟫]*** 5U: 2.pl.Ā ***:sig[⟪अचेढ्वम्⟫]*** <!-- TODO: Fallback translation -->
+z.B. ***:sig[⟪चि⟫]*** 5U: 2.pl.Ā ***:sig[⟪अचेढ्वम्⟫]***
 :::
 ::: grammar-box
-**Form der Wurzel:** <!-- TODO: Fallback translation -->
+**Form der Wurzel:**
 
-*   **⟪परस्मैपद⟫ : Dehnstufe** <!-- TODO: Fallback translation -->
+*   **⟪परस्मैपद⟫ : Dehnstufe**
 *   **⟪आत्मनेपद⟫ :**
-    *   **Wurzeln mit auslautendem i/ī/u/ū: Hochstufe** <!-- TODO: Fallback translation -->
-    *   **auslautendes -ṝ wird durch -īr oder -ūr ersetzt** <!-- TODO: Fallback translation -->
-    *   **ablautfähige Wurzeln auf ā/e/o: Tiefstufe** <!-- TODO: Fallback translation -->
-    *   **andere Wurzelvokale: unverändert (d.h. in der Regel tiefstufig)** <!-- TODO: Fallback translation -->
+    *   **Wurzeln mit auslautendem i/ī/u/ū: Hochstufe**
+    *   **auslautendes -ṝ wird durch -īr oder -ūr ersetzt**
+    *   **ablautfähige Wurzeln auf ā/e/o: Tiefstufe**
+    *   **andere Wurzelvokale: unverändert (d.h. in der Regel tiefstufig)**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 |   | **3.sg.P** |
 | --- | --- |
@@ -88,20 +88,20 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟫ und ⟪सृज्⟫ haben im ⟪परस्मैपद⟫ Dehnstufe mit steigendem Diphton -rā-:** <!-- TODO: Fallback translation -->
+**⟪दृश्⟫ und ⟪सृज्⟫ haben im ⟪परस्मैपद⟫ Dehnstufe mit steigendem Diphton -rā-:**
 
 :::
 ::: indent
-⟪दृश्⟫ 3.sg.P ⟪अ⟫***:sig[⟪द्राक्षी⟫]***⟪त्⟫ <!-- TODO: Fallback translation -->
+⟪दृश्⟫ 3.sg.P ⟪अ⟫***:sig[⟪द्राक्षी⟫]***⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
-⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***:sig[⟪क्राक्षी⟫]***⟪त्⟫ <!-- TODO: Fallback translation -->
+⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***:sig[⟪क्राक्षी⟫]***⟪त्⟫
 :::
-Paradigmen: <!-- TODO: Fallback translation -->
+Paradigmen:
 
-⟪नी⟫ 1U "führen" <!-- TODO: Fallback translation -->
+⟪नी⟫ 1U "führen"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -113,9 +113,9 @@ Paradigmen: <!-- TODO: Fallback translation -->
 ::: media
 ![](/images/lekt5701.webp)
 Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt5701)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5701))
 :::
-⟪कृ⟫ 8U "tun" <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U "tun"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -124,7 +124,7 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | *:sig[⟪अकृथास्⟫]* | ⟪अकृढ्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | *:sig[⟪अकृत⟫]* | ⟪अकृषत⟫ |
 
-⟪तुद्⟫ 6U "schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U "schlagen"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -134,26 +134,26 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | **3. ⟪प्रथमः⟫** | ⟪अतौत्सीत्⟫ | ⟪अतौत्सुर्⟫ | ⟪अतुत्त⟫ | ⟪अतुत्सत⟫ |
 
 ::: grammar-box
-**Unregelmäßige Formen:** <!-- TODO: Fallback translation -->
+**Unregelmäßige Formen:**
 
 **1.  Wurzeln auf Nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) bilden den s-Aorist hochstufig:**
 **⟪अगंसि⟫ ⟪।⟫ ⟪अमंसि⟫ ⟪।⟫ ⟪अरंस्त⟫**
 **Daneben gibt es für ⟪गम्⟫ die regelmäßigen tiefstufigen Formen:**
-**⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (im P hat ⟪गम्⟫ den themavokalischen Aorist)** <!-- TODO: Fallback translation -->
+**⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (im P hat ⟪गम्⟫ den themavokalischen Aorist)**
 
-2.  ⟪पद्⟫ 4Ā ist regelmäßig (z.B. ⟪अपत्सि⟫), in der 3.sg.Ā hat es aber die Form des passivischen Wurzelaorist: <!-- TODO: Fallback translation -->
+2.  ⟪पद्⟫ 4Ā ist regelmäßig (z.B. ⟪अपत्सि⟫), in der 3.sg.Ā hat es aber die Form des passivischen Wurzelaorist:
 :::
 ::: indent
-⟪अपादि⟫ "er ging" <!-- TODO: Fallback translation -->
+⟪अपादि⟫ "er ging"
 :::
 
-3.  ⟪बुध्⟫ Ā kann in der 3.sg.Ā wahlweise die Form des passiven Wurzelaorists annehmen: <!-- TODO: Fallback translation -->
+3.  ⟪बुध्⟫ Ā kann in der 3.sg.Ā wahlweise die Form des passiven Wurzelaorists annehmen:
 ::: indent
-⟪अबोधि⟫ / ⟪अबुद्ध⟫ "er erkannte" <!-- TODO: Fallback translation -->
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "er erkannte"
 :::
 ## 57.2. 练习
 
-A) Übersetzen und bestimmen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Aoristformen. Außer bei Kausativen und Wurzeln, die den s-Aorist bilden, ist in Klammer die Klasse des entsprechenden Aorists angegeben: <!-- TODO: Fallback translation -->
+A) Übersetzen und bestimmen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Aoristformen. Außer bei Kausativen und Wurzeln, die den s-Aorist bilden, ist in Klammer die Klasse des entsprechenden Aorists angegeben:
 
 1.  ⟪पेचिथ⟫
 2.  ⟪अवक्⟫ (⟪३⟫)
@@ -181,7 +181,7 @@ A) Übersetzen und bestimmen Sie ohne Hilfsmittel folgende Formen und bilden Sie
 24.  ⟪कर्षन्ति⟫
 25.  ⟪अप्रच्छयन्⟫
 
-B) Übersetzen und bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
+B) Übersetzen und bestimmen Sie folgende Formen:
 
 1.  ⟪चेलुः⟫
 2.  ⟪जन्तुः⟫
@@ -240,8 +240,3 @@ B) Übersetzen und bestimmen Sie folgende Formen: <!-- TODO: Fallback translatio
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-::: deleteme-box
-
-**lekt5701:** [Bildquelle: Wikipedia. Public Domain] <!-- TODO: Fallback translation -->
-
-:::

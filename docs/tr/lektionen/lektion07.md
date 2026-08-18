@@ -10,14 +10,6 @@ status: stable
 
 # Ders 7
 
-::: deleteme-box
-**Bu derste şunları öğreneceksiniz:**
-Doğrudan nesneli yüklem cümlesi
-İsimlerin ve zamirlerin belirtme hali (Akkusativ)
-Sözcük sonunda -n ile biten kelimelerin Sandhi'si
-a-çatılı dişil (Neutrum) kelimeler
-Ünsüz köklü şimdiki zaman sınıfları (5. sınıf örneği üzerinden)
-:::
 
 ::: center
 **Haftanın Sözü**

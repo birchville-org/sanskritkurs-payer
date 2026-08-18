@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Esergizis 7 <!-- TODO: Fallback translation -->
+# Esergizis 7
 
 A) Metter adina mintgin il singular e plural (sch’i n’èn nagins numens propris) l’object direct u l’accusativ da direcziun:
 
@@ -153,13 +153,13 @@ F) Tradusci:
 
 ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫
 
-Elns van en infern. <!-- TODO: Fallback translation -->
+Elns van en infern.
 
 2\. gurūṃs tu śṛṇvanti.
 
 ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 
-Ma els audan ils maisters. <!-- TODO: Fallback translation -->
+Ma els audan ils maisters.
 
 3\. Śūdras erlangen einen Himmel.
 
@@ -167,13 +167,13 @@ Ma els audan ils maisters. <!-- TODO: Fallback translation -->
 
 ⟪शूद्राः⟫ ⟪स्वर्गमाप्नुवन्ति⟫ ⟪।⟫
 
-4\. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern. <!-- TODO: Fallback translation -->
+4\. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
 
 kṣatriyā devīr yajante.
 
 ⟪क्षत्रिया⟫ ⟪देवीर्यजन्ते⟫ ⟪।⟫
 
-5\. Vaiśyafrauen verehren Gottheiten mit Opfern. <!-- TODO: Fallback translation -->
+5\. Vaiśyafrauen verehren Gottheiten mit Opfern.
 
 vaiśyā devatā yajante.
 
@@ -185,31 +185,31 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Explicaziun: chando = Nom,, Akk. sg. zu chandas n.) <!-- TODO: Fallback translation -->
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Explicaziun: chando = Nom,, Akk. sg. zu chandas n.)
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
-Die Hilfswissenschaften der Vedistik sind: Aussprachelehre, Ritualistik, Grammatik, Worterklärung, Metrik, Kalenderlehre. <!-- TODO: Fallback translation -->
+Die Hilfswissenschaften der Vedistik sind: Aussprachelehre, Ritualistik, Grammatik, Worterklärung, Metrik, Kalenderlehre.
 
-8\. Welchem Gott opfert dieser Brahmane? <!-- TODO: Fallback translation -->
+8\. Welchem Gott opfert dieser Brahmane?
 
 ayaṃ brāhmaṇaḥ kaṃ devaṃ yajati / yajate?
 
 ⟪अयं⟫ ⟪ब्राह्मणः⟫ ⟪कं⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
-9\. Was kaut dieser heilige Mann? <!-- TODO: Fallback translation -->
+9\. Was kaut dieser heilige Mann?
 
 ayaṃ sādhuḥ kiṃ khādati?
 
 ⟪अयं⟫ ⟪साधुः⟫ ⟪किं⟫ ⟪खाद⟫ati ⟪।⟫
 
-10\. Was pressen diese (hier) aus? <!-- TODO: Fallback translation -->
+10\. Was pressen diese (hier) aus?
 
 ete kiṃ sunvanti / sunvate?
 
 ⟪एते⟫ ⟪किं⟫ ⟪सुन्वन्ति⟫ / ⟪सुन्वते⟫ ⟪।⟫
 
-11\. Er ist der Lehrer. Auf ihn hört man (= hören sie). <!-- TODO: Fallback translation -->
+11\. Er ist der Lehrer. Auf ihn hört man (= hören sie).
 
 sa guruḥ. enaṃ śṛṇvanti.
 
@@ -220,4 +220,3 @@ sa guruḥ. enaṃ śṛṇvanti.
 Abb.: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung006))
 :::
- <!-- TODO: Fallback translation -->

@@ -1,7 +1,8 @@
 ---
-title: "Ejercicio 61"
+title: "[Ejercicio 61]"
 uebung_id: 61
-category: "Ejercicio"
+category: "Übung"
+
 ---
 
 # Ejercicio 61

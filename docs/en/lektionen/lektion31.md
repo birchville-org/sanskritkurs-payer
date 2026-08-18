@@ -205,15 +205,3 @@ B) Form all 3rd person singular and plural, P and Ā, of the Indicative and Opta
 
 ⟪५⟫. ⟪भञ्ज्⟫ (only P)
 
-::: deleteme-box
-
-**lekt3101:** Yoga depiction. [Image source: Flickr, 2008-12-25. CC BY]
-
-**lekt3102:** Preparation for Kathakali dance, Kochi. [Image source: winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**lekt3103:** From a Prajñāpāramitā manuscript. [Image source: zeno.org. Public domain]
-
-**lekt3105:** Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War. [Image source: Hari Singh Deora / Wikipedia. Public domain]
-
-**lekt3104:** Rāhula, the son of Buddha, Laos. [Image source: Sacca / Wikipedia. GNU FDL]
-:::

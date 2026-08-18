@@ -188,7 +188,7 @@ brāhmaṇā agniṃ kurvanti.
 कन्या घर में प्रवेश करती है।
 
 14. ⟪⟪⟪देवो⟫⟫⟫ ⟪⟪⟪नागं⟫⟫⟫ ⟪⟪⟪सृजति⟫⟫⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 बालक हाथी को ले जाता है।

@@ -60,7 +60,7 @@
 
 ⟪स्⟫ स: ⟪स्क⟫ स्क, ⟪स्ख⟫ स्क्ख, ⟪स्त⟫ स्त, ⟪स्त्य⟫ स्त्य, ⟪स्त्र⟫ स्त्र, ⟪स्त्व⟫ स्त्व, ⟪स्थ⟫ स्था, ⟪स्न⟫ स्न, ⟪स्प⟫ स्प, ⟪स्र⟫ स्त्र
 
-Beachten Sie die Schreibung von jña: <!-- TODO: Fallback translation -->
+Beachten Sie die Schreibung von jña:
 
 ![](/images/schrift017.webp)
 

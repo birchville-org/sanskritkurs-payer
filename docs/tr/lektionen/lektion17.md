@@ -1,420 +1,353 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "Ders 17"
+subtitle: "İkinci Şimdiki Zaman Sınıfı (⟪अदादि⟫ = ⟪अद्⟫ vb.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 17 <!-- TODO: Fallback translation -->
+---
 
-## 17.1. Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.) <!-- TODO: Fallback translation -->
+# Ders 17
 
-Die Verbalendungen treten direkt an die Wurzel. Dabei sind die aus dem Wortsandhi resultierenden Lautveränderungen zu beachten. <!-- TODO: Fallback translation -->
+## 17.1. İkinci Şimdiki Zaman Sınıfı (⟪अदादि⟫ = ⟪अद्⟫ vb.)
 
-::: grammar-box
-
-Es gibt folgende Bildungsformen in der zweiten Präsensklasse: <!-- TODO: Fallback translation -->
-
-1.  Wurzeln mit Stammabstufung  <!-- TODO: Fallback translation -->
-    *   meistens: Hochstufe - Tiefstufe <!-- TODO: Fallback translation -->
-    *   einige Wurzeln: Dehnstufe - Tiefstufe  <!-- TODO: Fallback translation -->
-2.  Wurzeln ohne Stammabstufung  <!-- TODO: Fallback translation -->
-3.  zweisilbige Wurzeln auf -i/-ī mit Stammabstufung <!-- TODO: Fallback translation -->
-
-:::
-## 17.2. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-⟪द्विष्⟫ 2 U "hassen" <!-- TODO: Fallback translation -->
-
-*   starker Präsensstamm: dveṣ- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: dviṣ- <!-- TODO: Fallback translation -->
-
-::: no-header
-
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. P | ⟪द्विषन्ति⟫ (dviṣ-anti) | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) | <!-- TODO: Fallback translation -->
-
-:::
-Hierbei wirkt folgendes Wortsandhigesetz: <!-- TODO: Fallback translation -->
+Fiil ekleri köke doğrudan bağlanır. Bu durumda kelime birleşiminden (Wortsandhi) kaynaklanan ses değişikliklerine dikkat edilmelidir.
 
 ::: grammar-box
-Wortsandhi von -ṣ + t(h)- <!-- TODO: Fallback translation -->
 
-\-ṣ + t(h)- » -ṣṭ(h)- <!-- TODO: Fallback translation -->
+İkinci şimdiki zaman sınıfında aşağıdaki yapı biçimleri mevcuttur:
+
+1. Kök derecelendirmesi (Stammabstufung) olan kökler
+*   çoğunlukla: Güçlü aşama - Zayıf aşama
+*   bazı kökler: Uzunluk aşaması - Zayıf aşama
+2. Kök derecelendirmesi olmayan kökler
+3. -i/-ī ile biten, kök derecelendirmesi olan iki hece kökler
+
 :::
-Weitere Beispiele: <!-- TODO: Fallback translation -->
+## 17.2. Güçlü aşama - Zayıf aşama kök derecelendirmesine sahip ikinci şimdiki zaman sınıfı kökleri
 
-⟪इ⟫ 2 P "gehen" (Ā nach bestimmten Präverbien) <!-- TODO: Fallback translation -->
+Örnekler:
 
-*   starker Präsensstamm: e- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: i- <!-- TODO: Fallback translation -->
-    *   vor Vokal: y-/iy- <!-- TODO: Fallback translation -->
+⟪द्विष्⟫ 2 U "nefret etmek"
+
+*   güçlü şimdiki zaman kökü: dveṣ-
+*   zayıf şimdiki zaman kökü: dviṣ-
 
 ::: no-header
 
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪एति⟫ (e-ti) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. P | ⟪यन्ति⟫ (y-anti) | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) | <!-- TODO: Fallback translation -->
+| | |
+| :--- | :--- |
+| 3\. sg. Şimdiki Zaman Aktif | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
+| 3\. pl. Şimdiki Zaman Aktif | ⟪द्विषन्ति⟫ (dviṣ-anti) |
+| 3\. sg. Şimdiki Zaman Ortak (Ā) | ⟪द्विष्टे⟫ (« dviṣ + -te) |
+| 3\. pl. Şimdiki Zaman Ortak (Ā) | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
-⟪दुह्⟫ 2 U "melken" <!-- TODO: Fallback translation -->
-
-*   starker Präsensstamm: doh- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: duh- <!-- TODO: Fallback translation -->
-
-::: no-header
-
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪दोग्धि⟫ (« doh- + -ti) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. P | ⟪दुहन्ति⟫ (duh-anti) | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
-
-:::
-⟪हन्⟫ 2 P "schlagen, erschlagen, töten" <!-- TODO: Fallback translation -->
-
-*   starker Präsensstamm: han- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: ha- (« \*hn-) <!-- TODO: Fallback translation -->
-    *   vor Vokal: ghn-/han- <!-- TODO: Fallback translation -->
-
-::: no-header
-
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. P | ⟪घ्नन्ति⟫ (ghn-anti) | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) | <!-- TODO: Fallback translation -->
-
-:::
-⟪अस्⟫ 2 P "sein" <!-- TODO: Fallback translation -->
-
-*   starker Präsensstamm: as- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: s- <!-- TODO: Fallback translation -->
-
-::: no-header
-
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) | <!-- TODO: Fallback translation -->
-
-:::
-## 17.3. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe <!-- TODO: Fallback translation -->
-
-Beispiel: <!-- TODO: Fallback translation -->
-
-⟪स्तु⟫ 2 U "preisen" <!-- TODO: Fallback translation -->
-
-*   starker Präsensstamm: stau- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: stu- <!-- TODO: Fallback translation -->
-    *   vor Vokal: stuv- <!-- TODO: Fallback translation -->
-
-::: no-header
-
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) | <!-- TODO: Fallback translation -->
-
-:::
-## 17.4. Wurzeln der zweiten Präsensklasse ohne Stammabstufung <!-- TODO: Fallback translation -->
+Burada aşağıdaki kelime birleşimi kuralı etkilidir:
 
 ::: grammar-box
-Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā <!-- TODO: Fallback translation -->
-:::
-Beispiel: <!-- TODO: Fallback translation -->
+ṣ + t(h)- kelime birleşimi
 
-⟪पा⟫  2 P "schützen, behüten, hüten" <!-- TODO: Fallback translation -->
+\-ṣ + t(h)- » -ṣṭ(h)-
+:::
+Diğer örnekler:
+
+⟪इ⟫ 2 P "gitmek" (belirli öneklerden sonra Ortak/ġ)
+
+*   güçlü şimdiki zaman kökü: e-
+*   zayıf şimdiki zaman kökü:
+*   ünsüzden önce: i-
+*   sesliden önce: y-/iy-
 
 ::: no-header
 
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) | <!-- TODO: Fallback translation -->
+| | |
+| :--- | :--- |
+| 3\. sg. Şimdiki Zaman Aktif | ⟪एति⟫ (e-ti) |
+| 3\. pl. Şimdiki Zaman Aktif | ⟪यन्ति⟫ (y-anti) |
+| 3\. sg. Şimdiki Zaman Ortak (Ā) | ⟪इते⟫ (i-te) |
+| 3\. pl. Şimdiki Zaman Ortak (Ā) | ⟪इयते⟫ (iy-ate) |
 
 :::
-Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung: <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2 U "sağmak"
 
-Beispiele: <!-- TODO: Fallback translation -->
-
-⟪अद्⟫ 2 P "essen" <!-- TODO: Fallback translation -->
+*   güçlü şimdiki zaman kökü: doh-
+*   zayıf şimdiki zaman kökü: duh-
 
 ::: no-header
 
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) | <!-- TODO: Fallback translation -->
+| | |
+| :--- | :--- |
+| 3\. sg. Şimdiki Zaman Aktif | ⟪दोग्धि⟫ (« doh- + -ti) |
+| 3\. pl. Şimdiki Zaman Aktif | ⟪दुहन्ति⟫ (duh-anti) |
+| 3\. sg. Şimdiki Zaman Ortak (Ā) | ⟪दुग्धे⟫ (« duh- + -te) |
+| 3\. pl. Şimdiki Zaman Ortak (Ā) | ⟪दुहते⟫ (duh-ate) |
 
 :::
-⟪आस्⟫ 2 Ā "sitzen" <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2 U "sağmak"
+
+*   güçlü şimdiki zaman kökü: doh-
+*   zayıf şimdiki zaman kökü: duh-
 
 ::: no-header
 
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) | <!-- TODO: Fallback translation -->
+| | |
+| :--- | :--- |
+| 3\. sg. Şimdiki Zaman Aktif | ⟪दोग्धि⟫ (« doh- + -ti) |
+| 3\. pl. Şimdiki Zaman Aktif | ⟪दुहन्ति⟫ (duh-anti) |
+| 3\. sg. Şimdiki Zaman Ortak (Ā) | ⟪दुग्धे⟫ (« duh- + -te) |
+| 3\. pl. Şimdiki Zaman Ortak (Ā) | ⟪दुहते⟫ (duh-ate) |
 
 :::
-⟪वच्⟫ 2 P "sagen" <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2 U "sağmak"
+
+*   güçlü şimdiki zaman kökü: doh-
+*   zayıf şimdiki zaman kökü: duh-
 
 ::: no-header
 
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. P | kommt nicht vor | <!-- TODO: Fallback translation -->
+| | |
+| :--- | :--- |
+| 3\. sg. Şimdiki Zaman Aktif (P) | ⟪दोग्धि⟫ (« doh- + -ti) |
+| 3\. pl. Şimdiki Zaman Aktif (P) | ⟪दुहन्ति⟫ (duh-anti) |
+| 3\. sg. Şimdiki Zaman Yansıtma (Ā) | ⟪दुग्धे⟫ (« duh- + -te) |
+| 3\. pl. Şimdiki Zaman Yansıtma (Ā) | ⟪दुहते⟫ (duh-ate) |
 
 :::
-## 17.5. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung <!-- TODO: Fallback translation -->
+⟪हन्⟫ 2 P "vurmak, dövmek, öldürmek"
 
-Mehrere Wurzeln sind in einer Reihe von Formen zweisilbig, d.h. sie haben vor konsonantischer Endung ein -i (bzw. vor einigen Endungen -ī). Diese Wurzeln werden aber trotzdem von den einheimischen Grammatikern und in Wörterbüchern usw. als einsilbig angesetzt. <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-⟪रुद्⟫ 2 P "weinen, heulen" <!-- TODO: Fallback translation -->
-
-*   starker Präsensstamm: rodi- <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: rudi- <!-- TODO: Fallback translation -->
-    *   vor Vokal: rud- <!-- TODO: Fallback translation -->
+*   Güçlü geniş zaman kökü: han-
+*   Zayıf geniş zaman kökü:
+*   Ünsüzden önce: ha- (« \*hn-)
+*   Ünlüden önce: ghn-/han-
 
 ::: no-header
 
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) | <!-- TODO: Fallback translation -->
+| | |
+| :--- | :--- |
+| 3\. sg. Geniş Zaman P | ⟪हन्ति⟫ (han-ti) |
+| 3\. pl. Geniş Zaman P | ⟪घ्नन्ति⟫ (ghn-anti) |
+| 3\. sg. Geniş Zaman Ā | ⟪हते⟫ (ha-te) |
+| 3\. pl. Geniş Zaman Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
-⟪ब्रू⟫ 2 U "sprechen" <!-- TODO: Fallback translation -->
+⟪अस्⟫ 2 P "olmak"
 
-*   starker Präsensstamm: bravī- (« bro- + -ī) <!-- TODO: Fallback translation -->
-*   schwacher Präsensstamm: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: brū- <!-- TODO: Fallback translation -->
-    *   vor Vokal: bruv- <!-- TODO: Fallback translation -->
+*   Güçlü geniş zaman kökü: as-
+*   Zayıf geniş zaman kökü: s-
 
 ::: no-header
 
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪ब्रवीति⟫ (bravī-ti) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. P | ⟪ब्रुवन्ति⟫ (bruv-anti) | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. Ā | ⟪ब्रूते⟫ (brū-te) | <!-- TODO: Fallback translation -->
-| 3\. pl. Präs. Ā | ⟪ब्रुवते⟫ (bruv-ate) | <!-- TODO: Fallback translation -->
+| | |
+| :--- | :--- |
+| 3\. sg. Geniş Zaman P | ⟪अस्ति⟫ (as-ti) |
+| 3\. pl. Geniş Zaman P | ⟪सन्ति⟫ (s-anti) |
 
 :::
-Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen nach diesem Muster: <!-- TODO: Fallback translation -->
+## 17.3. Kök uzantılı geniş zaman sınıfının ikinci sınıf kökleri
+
+Örnek:
+
+⟪स्तु⟫ 2 U "övmek"
+
+*   Güçlü geniş zaman kökü: stau-
+*   Zayıf geniş zaman kökü:
+*   Ünsüzden önce: stu-
+*   Ünlüden önce: stuv-
 
 ::: no-header
 
-| | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | <!-- TODO: Fallback translation -->
+| | |
+| :--- | :--- |
+| 3\. sg. Geniş Zaman P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
+| 3\. pl. Geniş Zaman P | ⟪स्तुवन्ति⟫ (stuv-anti) |
+| 3\. sg. Geniş Zaman Ā | ⟪स्तुते⟫ (stu-te) |
+| 3\. pl. Geniş Zaman Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
 :::
-## 17.6. Wortliste <!-- TODO: Fallback translation -->
+## 17.4. Kök uzantılı geniş zaman sınıfının ikinci sınıf kökleri
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten <!-- TODO: Fallback translation -->
+::: grammar-box
+Kök uzantılı geniş zaman sınıfının ikinci sınıf kökleri -ā ile biter
+:::
+Örnek:
 
-davon: <!-- TODO: Fallback translation -->
+⟪पा⟫ 2 P "korumak, beklemek"
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. Geniş Zaman P | ⟪पाति⟫ (pā-ti) |
+| 3\. pl. Geniş Zaman P | ⟪पान्ति⟫ (« pā- + -anti) |
+
+:::
+Diğer bazı ikinci sınıf kökler de kök uzantılı değildir:
+
+Örnekler:
+
+⟪अद्⟫ 2 P "yemek"
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. Geniş Zaman P | ⟪अत्ति⟫ (« ad- + -ti) |
+| 3\. pl. Geniş Zaman P | ⟪अदन्ति⟫ (ad-anti) |
+
+:::
+⟪आस्⟫ 2 "oturma" Ā
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. Ārtan P-Şimdi Zamanı | ⟪आस्ते⟫ (ās-te) |
+| 3\. pl. Ārtan P-Şimdi Zamanı | ⟪आसते⟫ (ās-ate) |
+
+:::
+⟪वच्⟫ 2 "söyle" P
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. P-Şimdi Zamanı P | ⟪वक्ति⟫ (« vac- + -ti) |
+| 3\. pl. P-Şimdi Zamanı P | görünmez (gelmiyor)
+
+:::
+## 17.5. Kök-Taban Değişimi Olan -i/-ī Sonlu İki Heceyi Kökler
+
+Bir dizi formda birkaç kök iki hecelidir, yani ünsüz sonlu bir ekten önce -i (ve bazı ekleerden sonra da -ī) bulundururlar. Ancak bu kökler, yerli gramerciler ve sözlükler vb. tarafından yine de tek heceli olarak kabul edilir.
+
+Örnekler:
+
+⟪रुद्⟫ 2 P "ağla, ulu"
+
+*   güçlü Şimdi Zamanı Kökü: rodi-
+*   zayıf Şimdi Zamanı Kökü:
+*   ünsüzden önce rudi-
+*   sesli harften sonra rud-
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. P-Şimdi Zamanı P | ⟪रोदिति⟫ (rodi-ti) |
+| 3\. pl. P-Şimdi Zamanı P | ⟪रुदन्ति⟫ (rud-anti) |
+
+:::
+⟪ब्रू⟫ 2 "konuş" U
+
+*   güçlü Şimdi Zamanı Kökü: bravī- (« bro- + -ī)
+*   zayıf Şimdi Zamanı Kökü:
+*   ünsüzden önce brū-
+*   sesli harften sonra bruv-
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. P-Şimdi Zamanı P | ⟪ब्रवीति⟫ (bravī-ti) |
+| 3\. pl. P-Şimdi Zamanı P | ⟪ब्रुवन्ति⟫ (bruv-anti) |
+| 3\. sg. P-Şimdi Zamanı Ā | ⟪ब्रूते⟫ (brū-te) |
+| 3\. pl. P-Şimdi Zamanı Ā | ⟪ब्रुवते⟫ (bruv-ate) |
+
+:::
+Ayrıca ⟪स्तु⟫ 2 "öv" U da, yukarıda belirtildiği gibi aynı modelde formlar gösterir:
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. P-Şimdi Zamanı P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
+
+:::
+## 17.6. Kelime Listesi
+
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Geç. ⟪हन्यते⟫  PPP ⟪हत⟫ : vurmak, öldürmek
+
+davon:
 
 ::: indent
-⟪घात⟫ m.: Tötung <!-- TODO: Fallback translation -->
+⟪घात⟫ m.: öldürme, katil
 :::
 
 ::: media
 ![](/images/lekt1703.webp)
 Abb.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703)) <!-- TODO: Fallback translation -->
+(Resim kaynağı: [Details](/tr/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen <!-- TODO: Fallback translation -->
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : oturmak
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin <!-- TODO: Fallback translation -->
+⟪आसन⟫ n.: oturma, oturmak; ayrıca: yogininin oturma pozisyonları
 :::
 
 ::: media
 ![](/images/lekt1701.webp)
 Abb.: ⟪योगासनम्⟫
-(Bildquelle: [Details](/licenses#lekt1701)) <!-- TODO: Fallback translation -->
+(Resim kaynağı: [Details](/tr/licenses#lekt1701))
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen <!-- TODO: Fallback translation -->
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : ağlamak, ulumak
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra <!-- TODO: Fallback translation -->
+⟪रुद्र⟫ m.: (uluyan =) fırtına tanrısı Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ) <!-- TODO: Fallback translation -->
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: konuşmak, söylemek (birine bir şeyi belirtme için çift akuzatif)
 
-⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : sağmak
 
 ::: media
 ![](/images/lekt1702.webp)
 Abb.: ⟪दोग्धि⟫
-(Bildquelle: [Details](/licenses#lekt1702)) <!-- TODO: Fallback translation -->
+(Resim kaynağı: [Details](/tr/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : zeigen, anweisen, befehlen <!-- TODO: Fallback translation -->
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : göstermek, emretmek, buyurmak
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung <!-- TODO: Fallback translation -->
+⟪दिष्टि⟫ f.: emir, şanslı durum
 
-⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung) <!-- TODO: Fallback translation -->
+⟪दिष्ट्या⟫ Instr.: (kelimesi kelimesine: şanslı bir durum aracılığıyla) Ey şanslı durum! (Neşe ve mutluluk haykırığı)
 :::
 
-## 17.7. Übung 1 <!-- TODO: Fallback translation -->
+## 17.7. Alıştırma 1
 
-A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie: <!-- TODO: Fallback translation -->
+A) Aşağıdaki cümlelerde fiili kullanarak doldurun ve çevirin:
 
-⟪१⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪ब्राह्मणो ऽनृतं न⟫ ... (⟪ब्रू । वच् । वद्⟫)
 
-⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫) <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪क्षत्रियो जनान्⟫ ... (⟪पा । रक्ष्⟫)
 
-⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪बलवद्योधो द्विजारीन्⟫ ... (⟪जि । हन् । युध्⟫)
 
-⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु । यज्⟫)
 
-⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) <!-- TODO: Fallback translation -->
+⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫)
 
-⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫) <!-- TODO: Fallback translation -->
+⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫)
 
-⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) <!-- TODO: Fallback translation -->
+⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫)
 
-⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) <!-- TODO: Fallback translation -->
+⟪८⟫. ⟪द्विजदासः शूद्रस्⟫ ... (⟪अस् २ । भू⟫)
 
-⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫) <!-- TODO: Fallback translation -->
+⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद् । आस् । मृ⟫)
 
-⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫) <!-- TODO: Fallback translation -->
+⟪१०⟫. ⟪साधुजनो ऽधर्मम्⟫ ... (⟪द्विष् । न कृ⟫)
 
-B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural <!-- TODO: Fallback translation -->
+B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural -> B) A'da oluşturulan cümlelerde özne ve fiili çoğul yapın
 
-## 17.8. Übung 2 <!-- TODO: Fallback translation -->
+## 17.8. Übung 2 -> ## 17.8. Alıştırma 2
 
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an: <!-- TODO: Fallback translation -->
+Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an: -> Aşağıdaki fiil formlarını çevirin ve ilgili kökü belirtin:
 
-⟪१⟫. ⟪अदन्ति⟫ <!-- TODO: Fallback translation -->
-
-⟪२⟫. ⟪सन्ति⟫ <!-- TODO: Fallback translation -->
-
-⟪३⟫. ⟪आसते⟫ <!-- TODO: Fallback translation -->
-
-⟪४⟫. ⟪यन्ति⟫ <!-- TODO: Fallback translation -->
-
-⟪५⟫. ⟪इच्छति⟫ <!-- TODO: Fallback translation -->
-
-⟪६⟫. ⟪कुर्वते⟫ <!-- TODO: Fallback translation -->
-
-⟪७⟫. ⟪गच्छन्ति⟫ <!-- TODO: Fallback translation -->
-
-⟪८⟫. ⟪जायते⟫ <!-- TODO: Fallback translation -->
-
-⟪९⟫. ⟪जयति⟫ <!-- TODO: Fallback translation -->
-
-⟪१०⟫. ⟪तनोति⟫ <!-- TODO: Fallback translation -->
-
-⟪११⟫. ⟪दहति⟫ <!-- TODO: Fallback translation -->
-
-⟪१२⟫. ⟪दोग्धि⟫ <!-- TODO: Fallback translation -->
-
-⟪१३⟫. ⟪पश्यति⟫ <!-- TODO: Fallback translation -->
-
-⟪१४⟫. ⟪द्विष्टे⟫ <!-- TODO: Fallback translation -->
-
-⟪१५⟫. ⟪नयन्ति⟫ <!-- TODO: Fallback translation -->
-
-⟪१६⟫. ⟪नृत्यति⟫ <!-- TODO: Fallback translation -->
-
-⟪१७⟫. ⟪पद्यन्ते⟫ <!-- TODO: Fallback translation -->
-
-⟪१८⟫. ⟪पिबति⟫ <!-- TODO: Fallback translation -->
-
-⟪१९⟫. ⟪पान्ति⟫ <!-- TODO: Fallback translation -->
-
-⟪२०⟫. ⟪पृच्छति⟫ <!-- TODO: Fallback translation -->
-
-⟪२१⟫. ⟪बुध्यन्ते⟫ <!-- TODO: Fallback translation -->
-
-⟪२२⟫. ⟪ब्रवीति⟫ <!-- TODO: Fallback translation -->
-
-⟪२३⟫. ⟪भवन्ति⟫ <!-- TODO: Fallback translation -->
-
-⟪२४⟫. ⟪मन्यते⟫ <!-- TODO: Fallback translation -->
-
-⟪२५⟫. ⟪मुञ्चन्ति⟫ <!-- TODO: Fallback translation -->
-
-⟪२६⟫. ⟪म्रियन्ते⟫ <!-- TODO: Fallback translation -->
-
-⟪२७⟫. ⟪यजते⟫ <!-- TODO: Fallback translation -->
-
-⟪२८⟫. ⟪युध्यन्ते⟫ <!-- TODO: Fallback translation -->
-
-⟪२९⟫. ⟪रक्षति⟫ <!-- TODO: Fallback translation -->
-
-⟪३०⟫. ⟪रोदिति⟫ <!-- TODO: Fallback translation -->
-
-⟪३१⟫. ⟪लभते⟫ <!-- TODO: Fallback translation -->
-
-⟪३२⟫. ⟪वक्ति⟫ <!-- TODO: Fallback translation -->
-
-⟪३३⟫. ⟪वदति⟫ <!-- TODO: Fallback translation -->
-
-⟪३४⟫. ⟪शृणोति⟫ <!-- TODO: Fallback translation -->
-
-⟪३५⟫. ⟪स्तौति⟫ <!-- TODO: Fallback translation -->
-
-⟪३६⟫. ⟪स्मरति⟫ <!-- TODO: Fallback translation -->
-
-⟪३७⟫. ⟪हन्ति⟫ <!-- TODO: Fallback translation -->
-
-⟪३८⟫. ⟪अश्नुवते⟫ <!-- TODO: Fallback translation -->
-
-⟪३९⟫. ⟪कुप्यते⟫ <!-- TODO: Fallback translation -->
-
-⟪४०⟫ ⟪कर्षन्ति⟫ <!-- TODO: Fallback translation -->
-
-⟪४१⟫. ⟪उद्यते⟫ <!-- TODO: Fallback translation -->
-
-⟪४२⟫. ⟪सहन्ते⟫ <!-- TODO: Fallback translation -->
-
-⟪४३⟫. ⟪सिच्यन्ते⟫ <!-- TODO: Fallback translation -->
-
-⟪४४⟫. ⟪आप्नोति⟫ <!-- TODO: Fallback translation -->
-
-⟪४५⟫. ⟪जीव्यते⟫ <!-- TODO: Fallback translation -->
-
-⟪४६⟫. ⟪दिश्यन्ते⟫ <!-- TODO: Fallback translation -->
-
-::: deleteme-box
-
-**lekt1701:** [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt1702:** [Bildquelle: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪अदन्ति २⟫. ⟪सन्ति ३⟫. ⟪आसते ४⟫. ⟪यन्ति ५⟫. ⟪इच्छति ६⟫. ⟪कुर्वते ७⟫. ⟪गच्छन्ति ८⟫. ⟪जायते ९⟫. ⟪जयति १०⟫. ⟪तनोति ११⟫. ⟪दहति १२⟫. ⟪दोग्धि १३⟫. ⟪पश्यति १४⟫. ⟪द्विष्टे १५⟫. ⟪नयन्ति १६⟫. ⟪नृत्यति १७⟫. ⟪पद्यन्ते १८⟫. ⟪पिबति १९⟫. ⟪पान्ति २०⟫. ⟪पृच्छति २१⟫. ⟪बुध्यन्ते २२⟫. ⟪ब्रवीति २३⟫. ⟪भवन्ति २४⟫. ⟪मन्यते २५⟫. ⟪मुञ्चन्ति २६⟫. ⟪म्रियन्ते २७⟫. ⟪यजते २८⟫. ⟪युध्यन्ते २९⟫. ⟪रक्षति ३०⟫. ⟪रोदिति ३१⟫. ⟪लभते ३२⟫. ⟪वक्ति ३३⟫. ⟪वदति ३४⟫. ⟪शृणोति ३५⟫. ⟪स्तौति ३६⟫. ⟪स्मरति ३७⟫. ⟪हन्ति ३८⟫. ⟪अश्नुवते ३९⟫. ⟪कुप्यते ४० कर्षन्ति ४१⟫. ⟪उद्यते ४२⟫. ⟪सहन्ते ४३⟫. ⟪सिच्यन्ते ४४⟫. ⟪आप्नोति ४५⟫. ⟪जीव्यते ४६⟫. ⟪दिश्यन्ते⟫
 :::

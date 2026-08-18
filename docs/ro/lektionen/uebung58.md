@@ -38,7 +38,7 @@ Determinați și traduceți următoarele forme și formați formele corespunzăt
 Fig.: ⟪तब्लाः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung095))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## B) Determinări de cuvinte
 
@@ -93,5 +93,5 @@ Pune - ⟪पुणे⟫
 ![](/images/uebung096.webp)
 Fig.: ⟪श्वा⟫ ⟪श्वानमघ्रात्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung096))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

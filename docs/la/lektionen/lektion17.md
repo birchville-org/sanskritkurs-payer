@@ -5,7 +5,7 @@ lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 17
 
@@ -40,19 +40,19 @@ Exempla:
 | 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
 | 3\. pl. Präs. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
 | 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
 Hoc loco haec lex sandhi operatur:
 
 ::: grammar-box
-Sandhi verborum -ṣ + t(h)- <!-- TODO: Fallback translation -->
+Sandhi verborum -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
 :::
 Exempla alia:
 
-⟪इ⟩ 2 P "ire" (Ā post quasdam praepositiones) <!-- TODO: Fallback translation -->
+⟪इ⟩ 2 P "ire" (Ā post quasdam praepositiones)
 
 *   radix praesentis fortis: e-
 *   radix praesentis infirma:
@@ -66,7 +66,7 @@ Exempla alia:
 | 3\. sg. Präs. P | ⟪एति⟫ (e-ti) |
 | 3\. pl. Präs. P | ⟪यन्ति⟫ (y-anti) |
 | 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
-| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
 
 :::
 ⟪दुह्⟫ 2 U "mulgere"
@@ -81,7 +81,7 @@ Exempla alia:
 | 3\. sg. Präs. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. Präs. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
 ⟪हन्⟫ 2 P "verberare, caedere, interficere"
@@ -98,7 +98,7 @@ Exempla alia:
 | 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) |
 | 3\. pl. Präs. P | ⟪घ्नन्ति⟫ (ghn-anti) |
 | 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
 ⟪अस्⟫ 2 P "esse"
@@ -111,7 +111,7 @@ Exempla alia:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
-| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
 
 :::
 ## 17.3. Radices classis secundae praesentis cum gradatione radicis: gradus longus - gradus brevis
@@ -132,7 +132,7 @@ Exemplum:
 | 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
 | 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
-| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
 :::
 ## 17.4. Radices classis secundae praesentis sine gradatione stemmatis
@@ -149,7 +149,7 @@ Exemplum:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::
 Item aliae radices secundae classis gradum radicalem non habent:
@@ -163,7 +163,7 @@ Exempla:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
 ⟪आस्⟫ 2 Ā "sedere"
@@ -173,7 +173,7 @@ Exempla:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
 ⟪वच्⟫ 2 P "dicunt"
@@ -183,7 +183,7 @@ Exempla:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | kommt nicht vor | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | kommt nicht vor |
 
 :::
 ## 17.5. Radices disyllabae in -i/-ī cum gradatione stemmatis
@@ -204,7 +204,7 @@ Exempla:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
 ⟪ब्रू⟫ 2 U "loqui"
@@ -230,7 +230,7 @@ Etiam ⟪स्तु⟫ 2 U "laudant" habet praeter formas sub 3. indicatas for
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | <!-- TODO: Fallback translation -->
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
 ## 17.6. Vocabularium
@@ -255,7 +255,7 @@ ex eo:
 
 ::: indent
 ⟪आसन⟫ n.: sedere, sedium; etiam: positiones sedendi yoginī
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -411,11 +411,3 @@ Versa formas verborum sequentes et radicem ad eas pertinentem indica:
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
-::: deleteme-box
-
-**lekt1701:** [Imago auctoris: tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Accessus 2008-12-07. -- Licentia Creative Commons (Attributio, nulla modificatio)]
-
-**lekt1702:** [Imago fons: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Accessus die 2008-12-07. -- Licentia Creative Commons (Attributio, usus non-commercialis, share alike)]
-
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Fontes imaginis: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Accessus die 2008-12-07. -- Licentia Creative Commons (Attributio, usus non commercialis)]
-:::

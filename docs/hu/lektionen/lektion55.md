@@ -7,12 +7,12 @@ category: "Grammatik"
 status: stable
 ---
 
-# 55. lecke <!-- TODO: Fallback translation -->
+# 55. lecke
 
 ## 55.1. Az a-aoriszt (témavokállal ellátott aoriszt)
 
 ::: grammar-box
-**Az a-aoriszt úgy képződik, mint egy imperfektum (⟪लङ्⟫) a 6. jelen időosztályból (⟪तुदादि⟫), azaz:** <!-- TODO: Fallback translation -->
+**Az a-aoriszt úgy képződik, mint egy imperfektum (⟪लङ्⟫) a 6. jelen időosztályból (⟪तुदादि⟫), azaz:**
 
 **Augment + mélyrejtett gyökér + a + szekunder toldalék**
 
@@ -20,11 +20,11 @@ status: stable
 
 **Nincs nazális infixum.**
 
-**Az Ātmanepada ritka; az Ubhayapada gyökökhöz általában más aorist osztályok szerint képezik (lásd Kielhorn, Grammatika §340 és lent a megfelelő aorist osztályoknál).** <!-- TODO: Fallback translation -->
+**Az Ātmanepada ritka; az Ubhayapada gyökökhöz általában más aorist osztályok szerint képezik (lásd Kielhorn, Grammatika §340 és lent a megfelelő aorist osztályoknál).**
 
 **A szavak listája, amelyeknek ez az aoristusuk, Kielhorn Grammatikája §340-ban.**
 :::
-Példa: <!-- TODO: Fallback translation -->
+Példa:
 
 ⟪सिच्⟫ 6U "meglocsol"
 
@@ -50,9 +50,9 @@ Megjegyzés:
 ::: indent
 ⟪शास्⟫ 2P "parancsolni": ⟪अशिषत्⟫ (szabályos Alacsony fok!)
 :::
-## 55.2. Gyakorlat <!-- TODO: Fallback translation -->
+## 55.2. Gyakorlat
 
-Határozza meg és fordítsa le írásban a következő alakokat, valamint alkossa meg az ezekhez tartozó a-aorist alakokat: <!-- TODO: Fallback translation -->
+Határozza meg és fordítsa le írásban a következő alakokat, valamint alkossa meg az ezekhez tartozó a-aorist alakokat:
 
 1.  ⟪दोक्ष्यन्ति⟫
 2.  ⟪बुबोध⟫
@@ -92,11 +92,6 @@ Határozza meg és fordítsa le írásban a következő alakokat, valamint alkos
 Kép: ⟪अजीर्यमिति⟫
 „Inâyat Khân halálosan beteg, vázlat egy miniatűr képhez Jahângîr számára = جهانگير, kb. 1618
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5501))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt5501:** „Inâyat Khân am Sterben”, vázlat egy miniaturhoz, kézirat Jahângîr számára = جهانگير, kb. 1618 [Képmegjelenítés: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Letöltés dátuma: 2009-01-28. Közhasznú] <!-- TODO: Fallback translation -->
 
 :::

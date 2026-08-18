@@ -85,12 +85,12 @@ Contoh:
 ⟪गुणवन्त्⟫ "memiliki sifat baik / kebajikan"
 :::
 
->> ## 13.5. Penurunan Nomina Stamm
+## 13.5. Penurunan Stamm Nomina
 
->> Stamm pada -mant atau -vant termasuk ke dalam nomina dengan penurunan Stamm.
+Stamm pada -mant atau -vant termasuk ke dalam nomina dengan penurunan Stamm.
 
 ::: grammar-box
->> Pada nomina dengan penurunan Stamm, kita membedakan antara kasus kuat dan lemah. Dalam kasus kuat, akhiran pembentuk Stamm — pada nomina akar adalah bagian yang bersifat akar — memiliki tingkat tinggi atau perpanjangan, sedangkan dalam kasus lemah memiliki tingkat rendah.
+Pada nomina dengan penurunan Stamm, kita membedakan antara kasus kuat dan lemah. Dalam kasus kuat, akhiran pembentuk Stamm — pada nomina akar adalah bagian yang bersifat akar — memiliki tingkat tinggi atau perpanjangan, sedangkan dalam kasus lemah memiliki tingkat rendah.
 :::
 **Kasus kuat adalah:**
 

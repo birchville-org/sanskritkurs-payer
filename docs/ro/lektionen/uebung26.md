@@ -142,5 +142,5 @@ C) Viitor opțional cu și fără **-i-**:
 ![](/images/uebung043.webp)
 Fig.: ⟪अविपालो⟫ ⟪ऽविं⟫ ⟪रक्षति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung043))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

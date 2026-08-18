@@ -60,7 +60,7 @@ Määritä seuraavat muodot:
 Kuv.: ⟪गायी⟫
 (Kuvälähde: [Yksityiskohdat](/licenses#uebung078))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## ⟪बाण⟫ (⟪७⟫. vrj. jKr.): ⟪कादम्बरी⟫
 
@@ -73,11 +73,10 @@ Kuninkaan ⟪शूद्रक⟫ kuningaalta ⟪विदिशा⟫ papukaij
 
 > Kuninkas sanoi: "Jätetään tämä rauhaan! Tyydyttäkää uteliaisuutemme! Herra, kerro alusta asti: Missä maassa synnyit? Kuka antoi sinulle nimen? Kuka on äitisi? Miten sait Vedit? Miten tutustuit oppeihin? Mistä hankit taidot? Muistatko aiemmat syntymät tai täytätkö toiveita? Vai asutko piilossa, kun puet itsesi linnun vaatteisiin? Tai missä asuit aiemmin? Kuinka vanha olet? Miten joudut häkkiin? Ja miten jouduit cāṇḍala-käsiksi? Tai miten tulit tänne?"
 >
-> Vaiśampāyana, joka oli maan hallitsijan kysynyt spontaanilla uteliaisuudella ja suurella kunnioituksella, mietti hetken ja vastasi sitten täydellä kunnioituksella: "Kuningas, tämä on pitkä tarina. Jos se kiinnostaa sinua, lainaa korvasi!" <!-- TODO: Fallback translation -->
+> Vaiśampāyana, joka oli maan hallitsijan kysynyt spontaanilla uteliaisuudella ja suurella kunnioituksella, mietti hetken ja vastasi sitten täydellä kunnioituksella: "Kuningas, tämä on pitkä tarina. Jos se kiinnostaa sinua, lainaa korvasi!"
 
 ::: media
 ![](/images/uebung079.webp)
 Kuva: ⟪शुकः⟫
 (Kuv lähde: [Details](/licenses#uebung079))
 :::
- <!-- TODO: Fallback translation -->

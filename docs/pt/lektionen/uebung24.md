@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 24
 
-A) Bilden Sie den Dativ Singular und den Dativ (bzw. Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an: <!-- TODO: Fallback translation -->
+A) Bilden Sie den Dativ Singular und den Dativ (bzw. Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
 
 ::: grammar-box
 | Wort | Bedeutung | Dativ Sg. | Dativ Pl. |
@@ -51,22 +51,22 @@ Der Brahmane betritt das innere Heiligtum, um das Götterbildnis zu sehen.
 
 ⟪२⟫. **⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫**
 (⟪धनस्य⟫ ⟪लाभाय⟫)
-Menschen halten Gelübde, um reich zu werden. <!-- TODO: Fallback translation -->
+Menschen halten Gelübde, um reich zu werden.
 
 ⟪३⟫. **⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫**
 (⟪धर्मस्योपदेशाय⟫)
-Der Meister ist in die Stadt gegangen, um Dharma zu unterrichten. <!-- TODO: Fallback translation -->
+Der Meister ist in die Stadt gegangen, um Dharma zu unterrichten.
 
 ⟪४⟫. **⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫**
 (⟪गुरोर्वचनस्य⟫ ⟪श्रुत्यै⟫)
-Auch die Kinder sind in die Stadt gegangen, um die Rede des Meisters zu hören. <!-- TODO: Fallback translation -->
+Auch die Kinder sind in die Stadt gegangen, um die Rede des Meisters zu hören.
 
 ⟪५⟫. **⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫**
 (⟪देवस्य⟫ ⟪प्रतिमायै⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
 Das innere Heiligtum ist ein Gebäude fürs Götterbild.
 
 ⟪६⟫. **⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫**
-Menschen wollen um der Himmel willen Verdienstvolles tun. <!-- TODO: Fallback translation -->
+Menschen wollen um der Himmel willen Verdienstvolles tun.
 
 ⟪७⟫. **⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫**
 (⟪मोक्षस्यार्थम्⟫ ⟪।⟫ ⟪बुद्धं⟫ ⟪गताः⟫ ⟪।⟫ ⟪बुद्धेराप्तिम्⟫)
@@ -77,7 +77,7 @@ Um erlöst zu werden, wollen Einsichtige erlösende Einsicht erlangen.
 Die Götter zürnen diesen Brahmanen, die ihnen keine Verehrung zollten.
 
 ⟪९⟫. **⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫**
-Um zu sterben, werden Lebewesen geboren. <!-- TODO: Fallback translation -->
+Um zu sterben, werden Lebewesen geboren.
 
 ::: media
 ![](/images/uebung037.webp)
@@ -86,9 +86,9 @@ Abb.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 :::
 ---
 
-## Syntaktische Variationen <!-- TODO: Fallback translation -->
+## Syntaktische Variationen
 
-C) Ersetzen Sie in den Sätzen B) 1–4 die Dative durch Infinitive (⟪तुमुन्⟫): <!-- TODO: Fallback translation -->
+C) Ersetzen Sie in den Sätzen B) 1–4 die Dative durch Infinitive (⟪तुमुन्⟫):
 
 ⟪१⟫. ⟪ब्राह्मणो⟫ ⟪देवप्रतिमां⟫ ⟪द्रष्टुं⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥⟫
 
@@ -99,56 +99,56 @@ C) Ersetzen Sie in den Sätzen B) 1–4 die Dative durch Infinitive (⟪तु�
 ⟪४⟫. ⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥⟫
 
 D) Ersetzen Sie in Satz B) 7 die Konstruktion mit **-⟪अर्थ⟫** durch einen Dativ:
-**⟪मोक्षाय⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪मोक्षाय⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥⟫**
 
 E) Ersetzen Sie in Satz B) 6 den Dativ durch eine Konstruktion mit **-⟪अर्थ⟫**:
 **⟪स्वर्गार्थं⟫ (oder: ⟪स्वर्गार्थाय⟫ / ⟪स्वर्गार्थेन⟫) ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥⟫**
 
 ---
 
-## Zusätzliche Übersetzungsübungen <!-- TODO: Fallback translation -->
+## Zusätzliche Übersetzungsübungen
 
 1\. Die Göttin, der man nicht geopfert hat, zürnt den Menschen.
-**⟪अनिष्टदेवी⟫ ⟪नरेभ्यः⟫ ⟪क्रुध्यति⟫ ⟪।⟫ (oder: ⟪कुप्यति⟫ ⟪॥⟫)** <!-- TODO: Fallback translation -->
+**⟪अनिष्टदेवी⟫ ⟪नरेभ्यः⟫ ⟪क्रुध्यति⟫ ⟪।⟫ (oder: ⟪कुप्यति⟫ ⟪॥⟫)**
 
 2\. Er lässt die Kuh ins Dorf los.
-**⟪ग्रामाय⟫ ⟪धेनुं⟫ ⟪मुञ्चति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪ग्रामाय⟫ ⟪धेनुं⟫ ⟪मुञ्चति⟫ ⟪॥⟫**
 
 3\. Jetzt reichts! (Genug mit der Geduld!)
-**⟪अलं⟫ ⟪क्षमया⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪अलं⟫ ⟪क्षमया⟫ ⟪॥⟫**
 
 4\. Das ist gut für einen Brahmanen.
-**⟪एतद्ब्राह्मणाय⟫ ⟪सुखम्⟫ ⟪।⟫ (oder: ⟪हितम्⟫ ⟪॥⟫)** <!-- TODO: Fallback translation -->
+**⟪एतद्ब्राह्मणाय⟫ ⟪सुखम्⟫ ⟪।⟫ (oder: ⟪हितम्⟫ ⟪॥⟫)**
 
 5\. Verehrung sei Śiva! Verehrung sei Śrī Gaṇeśa!
-**⟪शिवाय⟫ ⟪नमः⟫ ⟪।⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪शिवाय⟫ ⟪नमः⟫ ⟪।⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪॥⟫**
 
 6\. Auf Wiedersehen! (Wohlergehen Ihnen!)
-**⟪स्वस्ति⟫ ⟪भवते⟫ ⟪।⟫ (oder: ⟪भवद्भ्यः⟫ / ⟪भवत्यै⟫ / ⟪भवतीभ्यः⟫ ⟪॥⟫)** <!-- TODO: Fallback translation -->
+**⟪स्वस्ति⟫ ⟪भवते⟫ ⟪।⟫ (oder: ⟪भवद्भ्यः⟫ / ⟪भवत्यै⟫ / ⟪भवतीभ्यः⟫ ⟪॥⟫)**
 
 7\. Diese Frucht reicht zum Essen.
-**⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫ ⟪॥⟫**
 
 8\. Ein Kämpfer ist dem (anderen) Kämpfer gewachsen.
-**⟪शक्तो⟫ ⟪योधो⟫ ⟪योधाय⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪शक्तो⟫ ⟪योधो⟫ ⟪योधाय⟫ ⟪॥⟫**
 
 9\. Selbst Viṣṇu übertrifft Śiva nicht.
-**⟪विष्णुरपि⟫ ⟪शिवाय⟫ ⟪न⟫ ⟪प्रभवति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪विष्णुरपि⟫ ⟪शिवाय⟫ ⟪न⟫ ⟪प्रभवति⟫ ⟪॥⟫**
 
 10\. Nachdem ich mich vor den drei Weisen verbeugt habe... Er verbeugt sich vor Narasiṃha.
-**⟪मुनित्रयं⟫ ⟪नमस्कृत्य⟫... ⟪।⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪मुनित्रयं⟫ ⟪नमस्कृत्य⟫... ⟪।⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫ ⟪॥⟫**
 
 11\. Willkommen Ihnen! Willkommen der Königin!
-**⟪स्वागतं⟫ ⟪भवद्भ्यः⟫ ⟪।⟫ ⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪स्वागतं⟫ ⟪भवद्भ्यः⟫ ⟪।⟫ ⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
 
 12\. Ich wünsche Ihnen Wohlergehen!
-**⟪भवद्भ्यः⟫ ⟪कुशलम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪भवद्भ्यः⟫ ⟪कुशलम्⟫ ⟪॥⟫**
 
 13\. Er betrachtet ihn nicht als Grashalm.
-**⟪न⟫ ⟪तं⟫ ⟪तृणाय⟫ ⟪मन्यते⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪न⟫ ⟪तं⟫ ⟪तृणाय⟫ ⟪मन्यते⟫ ⟪॥⟫**
 
 14\. Es reicht eine Frucht zum Essen und Wasser zum Trinken.
-**⟪अलं⟫ ⟪फलं⟫ ⟪खादनाय⟫ ⟪पानाय⟫ ⟪जलम्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪अलं⟫ ⟪फलं⟫ ⟪खादनाय⟫ ⟪पानाय⟫ ⟪जलम्⟫ ⟪॥⟫**
 
 15\. Auf Wiedersehen! (Neusanskrit)
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**

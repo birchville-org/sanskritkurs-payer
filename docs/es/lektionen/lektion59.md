@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lección 59
 
@@ -782,12 +782,5 @@ _Ayuda para la traducción:_ Verso 6: ⟪दिदृक्षते⟫ \= Desid
 ![](/images/lekt5901.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5901))
 :::
-Texto de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s. &lt;!-- TODO: Fallback translation --&gt;
+Texto de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s. &lt;!--  --&gt;
 
-::: deleteme-box
-
-**lekt5902:** [Fuente de la imagen: Henryart/Wikipedia. Dominio público]
-
-**lekt5903:** Danse Kecak, Bali (Indonesia) [Fuente de la imagen: Flying Pharmacist / Wikipedia. [Licencia Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (Atribución, compartir igual)]
-
-:::

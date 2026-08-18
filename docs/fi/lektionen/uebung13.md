@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 13
 
-A) Käännä ja muunna aktiivisiksi preesens-lauseiksi: <!-- TODO: Fallback translation -->
+A) Käännä ja muunna aktiivisiksi preesens-lauseiksi:
 
 ⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
 Tuli on polttanut talon.
@@ -26,7 +26,7 @@ Tieto on vapauttanut Gautaman. Vapauden Gautama sai tiedon kautta.
 
 ⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 vaihtoehtoa)
 Śūdrat / śūdranaiset ovat hämäröityjä.
-⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
 
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
 Brahman halusi vapautusta.
@@ -34,7 +34,7 @@ Brahman halusi vapautusta.
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
 On sanottu, että vedisten viisaiden on vain kerrottava totuus.
@@ -56,7 +56,7 @@ Mantran avulla on saavutettu vapautus.
 Mikä amuletti on suojannut tätä tyttöä?
 ⟪का⟫ ⟪रक्षिका⟫ ⟪बालां⟫ ⟪रक्षति⟫ ⟪॥⟫
 
-B) Käännä ja muunna passiivisiksi menneen ajan lauseiksi <!-- TODO: Fallback translation -->
+B) Käännä ja muunna passiivisiksi menneen ajan lauseiksi
 
 ⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
 Vaikka Rāma haluaa vapautusta, hän ei saavuta sitä.
@@ -128,11 +128,11 @@ Mit brahmanit syövät ja juovat?
 Kuv.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung019))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Lisäharjoitukset <!-- TODO: Fallback translation -->
+## Lisäharjoitukset
 
-A) Käännä seuraavat lauseet. <!-- TODO: Fallback translation -->
+A) Käännä seuraavat lauseet.
 
 B) Muuta harjoituksen A) lauseet passiiviin.
 
@@ -249,7 +249,7 @@ E) Käännä sanskritiksi:
 ⟪कर्षकैर्मार्गो⟫ ⟪गतः⟫ ⟪।⟫ ⟪कर्षका⟫ ⟪मार्गं⟫ ⟪गताः⟫ ⟪।⟫
 
 4. Buddhan opetuksella ihmiset on vapautettu.
-⟪धर्मेण⟫ ⟪जना⟫ ⟪मुक्ताः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪धर्मेण⟫ ⟪जना⟫ ⟪मुक्ताः⟫ ⟪।⟫
 
 5. Poika tanssi.
 ⟪पुत्रेण⟫ ⟪नृत्तम्⟫ ⟪।⟫
@@ -276,5 +276,5 @@ E) Käännä sanskritiksi:
 ![](/images/uebung018.webp)
 Kuv.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung018))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

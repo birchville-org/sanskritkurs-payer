@@ -331,20 +331,3 @@ Hindu wedding ritual.
 (የምስል ምንጭ፦ [ዝርዝሮች](/licenses#lekt3407))
 :::
 
-::: deleteme-box
-
-**lekt3401:** የናንዲ በሬ ሐውልት፣ ቻሙንዲ ኮረብቶች፣ ማይሶር። [የምስል ምንጭ: Luna Park / Flickr. CC BY-NC-ND]
-
-**lekt3402:** ወርቃማው ቤተ መቅደስ (ሀርማንዲር ሳሂብ)፣ አምሪትሳር። [የምስል ምንጭ: Wikipedia. GNU FDL]
-
-**lekt3403:** የሰሊጥ ፍሬዎች። [የምስል ምንጭ: Wikipedia. የህዝብ ንብረት]
-
-**lekt3404:** የሚያብብ የሰሊጥ ተክል። [የምስል ምንጭ: Franz Xaver / Wikipedia. GNU FDL]
-
-**lekt3405:** የላክሻድዊፕ ደሴቶች ካርታ። [የምስል ምንጭ: CIA World Factbook. የህዝብ ንብረት]
-
-**lekt3406:** በህንድ ውስጥ የሩዝ እርሻ። [የምስል ምንጭ: Ray Witlin / World Bank. CC BY-NC-ND]
-
-**lekt3407:** የሂንዱ የጋብቻ ሥነ ሥርዓት። [የምስል ምንጭ: BriceFR / Flickr. CC BY-NC-SA]
-:::
-

@@ -2,32 +2,33 @@
 layout: home
 
 hero:
-  name: Cours de sanskrit
-  text: Un cours complet
-  tagline: de Alois Payer (Bibliothèque du Village Global de Tüpfli)
+  name: "Curs de sanscrită"
+  text: "Un curs complet"
+  tagline: "de Alois Payer (Biblioteca Tüpfli's Global Village)"
   actions:
     - theme: brand
-      text: Lancer le cours
+      text: "Începe cursul"
       link: /ro/lektionen/lektion01
     - theme: alt
-      text: Sujets de grammaire
+      text: "Subiecte de gramatică"
       link: /ro/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: Typographie intégrée parfaite pour les écritures indiennes.
-  - title: Facilement consultable
-    details: Une recherche en texte intégral locale approfondie garde le savoir à portée de clic.
-  - title: Architecture moderne
-    details: Construit sur les fondations de VitePress pour une vitesse maximale.
+  - title: "Devanāgarī ready"
+    details: "Tipografie integrată și perfectă pentru scrierile indiene."
+  - title: "Ușor de căutat"
+    details: "O căutare completă locală profundă pune cunoștințele la îndemână, cu un singur clic."
+  - title: "Arhitectură modernă"
+    details: "Construit pe baza VitePress pentru viteză maximă."
+
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+**Cursul de Sanscrită** al lui Alois Payer este un curs cuprinzător, fundamentat științific, pentru învățarea limbii sanscrite și a scrierii Devanāgarī. Această ediție digitală pune la dispoziție întregul curs într-un mediu de lectură modern, multilingv și căutabil.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Limbile au fost traduse complet automat din germană cu ajutorul unei inteligențe artificiale (Qwen3.6-32B). Sesizările privind erorile de traducere sunt foarte binevenite.
+**Observații și contact**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**Contribuiți ca lector sau curator**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+**Editorul open-source Zentauri**: Editor Markdown standalone pe [GitHub](https://github.com/marcodem/zentauri)
+**Wiki-ul dezvoltatorilor și arhitectura**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

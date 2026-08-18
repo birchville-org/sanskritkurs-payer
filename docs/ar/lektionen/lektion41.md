@@ -1,11 +1,12 @@
 ---
-title: Lektion 41
-subtitle: "⟪सुभाषिते⟫  (zwei Sprichwörter)"
+title: "الدرس 41"
+subtitle: "⟪सुभाषिते⟫ (مثلان)"
 lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+
+---
 
 # الدرس 41
 
@@ -73,7 +74,7 @@ status: stable
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
 | **⟪क्री⟫** 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. "اسم الفاعل" الخاص بالضرورة السلبية (Gerundivum) (⟪कृत्य⟫) <!-- TODO: Fallback translation -->
+### 41.2.2. "اسم الفاعل" الخاص بالضرورة السلبية (Gerundivum) (⟪कृत्य⟫)
 
 ::: grammar-box
 **للتعبير عن الضرورة السلبية ("ما يجب فعله/أن يُفعل")، يمكن تشكيل الصفات المشتقة من الجذور والأصول الفعلية المشتقة إما باستخدام اللاحقات التالية:**
@@ -86,7 +87,7 @@ status: stable
 #### 41.2.2.1. اللاحقة -⟪तव्य⟫ / -⟪तव्या⟫
 
 ::: grammar-box
-**Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫ wird an Wurzeln und abgeleitete Verbalstämme (z.B. Kausativ) auf dieselbe Weise angefügt wie das Infinitivsuffix -⟪तुम्⟫ (s. [Lektion 23](lektion23.md)), d.h.** <!-- TODO: Fallback translation -->
+**Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫ wird an Wurzeln und abgeleitete Verbalstämme (z.B. Kausativ) auf dieselbe Weise angefügt wie das Infinitivsuffix -⟪तुम्⟫ (s. [Lektion 23](lektion23.md)), d.h.**
 
 * **جذر عالي المستوى + ⟪तव्य⟫**
 
@@ -106,7 +107,7 @@ status: stable
 | :--- | :--- | :--- |
 | ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | "jemand, der besiegt werden muss; ein zu besiegender" |
 | ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "das, wo man sich befinden soll" |
-| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" | <!-- TODO: Fallback translation -->
+| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" |
 
 :::
 #### 41.2.2.2. اللاحقة -⟪अनीय⟫ / -⟪अनीया⟫
@@ -131,22 +132,22 @@ status: stable
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "zu tuendes" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "was man sehen muss; sehenswertes" |
 | ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "ein zu weckender" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
 
 :::
 #### 41.2.2.3. اللاحقة -⟪य⟫ / -⟪या⟫
 
 ::: grammar-box
-**التعليم:**
+**التكوين:**
 
-Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫ <!-- TODO: Fallback translation -->
+جذر (في درجة العمق، أو الارتفاع، أو الشد) + -⟪य⟫
 
-انظر القواعد الدقيقة في كيلهورن، قواعد اللغة السنسكريتية، ص 195 - 197!
+انظر القواعد الدقيقة في كيلهورن، قواعد اللغة السنسكريتية، ص. 195 - 197!
 :::
-معالجة حروف العلة في نهاية الكلمة:
+معالجة الحروف المتحركة في نهاية الكلمة:
 
 ::: grammar-box
-**1. الجذور التي تنتهي بـ -ā تُكوّن هذا الاسم المفعول (الاسم المشتق من المصدر) بـ -eya**
+**1. الجذور المنتهية بـ -ā تشكل هذا الاسم المفعولي على -eya**
 :::
 أمثلة:
 
@@ -154,12 +155,12 @@ Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫ <!-- TODO: Fallback transla
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "zu wissendes; was erkannt werden muss" |
-| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" | <!-- TODO: Fallback translation -->
+| ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "ما يجب معرفته؛ ما لا بد من إدراكه" |
+| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "ما لا بد من تقديمه" |
 
 :::
 ::: grammar-box
-**2. الجذور التي تنتهي بـ -i /-ī / -u / -ū /-ṛ لها عادةً درجة عالية أو درجة إطالة، ما لم تكن من تلك الجذور التي تنتهي بـ -i / -u /-ṛ والتي تصنع اسم المفعول (Gerundiv) باللاحقة -⟪त्य⟫ (مؤنث -⟪त्या⟫) (قائمة هذه الجذور لدى كيلهورن، القواعد §537).**
+**2. الجذور المنتهية بـ -i /-ī / -u / -ū /-ṛ لها عادة درجة الارتفاع أو الشد، إلا إذا كانت من تلك الجذور المنتهية بـ -i / -u /-ṛ التي تشكل اسماً مفعولياً باللاحقة -⟪त्य⟫ (مؤنث: -⟪त्या⟫) (قائمة هذه الجذور في كيلهورن، القواعد §537).**
 :::
 مثال:
 
@@ -167,11 +168,11 @@ Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫ <!-- TODO: Fallback transla
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" | <!-- TODO: Fallback translation -->
+| ⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | "ما لا بد من تذكره" |
 
 :::
 ::: grammar-box
-**2أ. الجذور التي تنتهي بـ -i/-ī لها درجة عالية (غُنة)**
+**2a. الجذور المنتهية بـ -i/-ī لها درجة الارتفاع**
 :::
 أمثلة:
 
@@ -179,18 +180,18 @@ Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫ <!-- TODO: Fallback transla
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "zu verkaufen; verkäuflich" |
-| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" | <!-- TODO: Fallback translation -->
+| ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "ما يجب بيعه؛ قابل للبيع" |
+| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "ما لا بد من قيادته" |
 
 :::
 ::: media
 ![lekt4103.jpg](/images/lekt4103.webp)
-الصورة: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
+التوضيح: ⟪विक्रेयाणि पुष्पानि⟫
 (مصدر الصورة: [تفاصيل](/ar/licenses#lekt4103))
 :::
 
 ::: grammar-box
-**2ب. تعويض الجذور المنتهية بـ -u /-ū للحرف -o عالي الدرجة قبل -ya بـ -av، والحرف -au متوسط الدرجة بـ -āv. يشير التشكيل متوسط الدرجة في هذه الحالة إلى الضرورة.**
+**2b. الجذور المنتهية بـ -u /-ū تستبدل الـ-o ذات درجة الارتفاع قبل الـ-yā بـ -av، والـ-au ذات درجة الشد بـ -āv. إن التكوين ذو درجة الشد يعني في هذه الحالة الضرورة.**
 :::
 مثال:
 
@@ -198,8 +199,8 @@ Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫ <!-- TODO: Fallback transla
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "was gepriesen werden soll" |
-|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" | <!-- TODO: Fallback translation -->
+| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "ما يجب الإشادة به" |
+|   | ⟪स्ताव्य⟫ 3 | "ما لا بد من الإشادة به ضرورياً" |
 
 :::
 أمثلة للجذور التي تنتهي بحرف ساكن (انظر القواعد في كيلهورن، القواعد النحوية § 533 وما يليه):
@@ -213,7 +214,7 @@ Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫ <!-- TODO: Fallback transla
 | | | |
 | :--- | :--- | :--- |
 | ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "sehenswert" |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" | <!-- TODO: Fallback translation -->
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" |
 
 :::
 ::: media
@@ -230,7 +231,7 @@ Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫ <!-- TODO: Fallback transla
 | | | |
 | :--- | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "zu hassender = Feind" |
-| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" | <!-- TODO: Fallback translation -->
+| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" |
 
 :::
 ::: grammar-box
@@ -246,7 +247,7 @@ Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫ <!-- TODO: Fallback transla
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" | <!-- TODO: Fallback translation -->
+| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" |
 
 :::
 ::: indent
@@ -274,7 +275,7 @@ Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫ <!-- TODO: Fallback transla
 | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "zu gehender" |
 | ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "zu hörender" |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" | <!-- TODO: Fallback translation -->
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
 
 :::
 ### 41.2.3. جوانب نحوية حول "المفعول المطلق" للضرورة السلبية (Gerundivum) (⟪कृत्य⟫)
@@ -369,11 +370,6 @@ Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫ <!-- TODO: Fallback transla
 
 ⟪सङ्घ⟫ n.: (إلى ⟪सम्⟫-⟪हन्⟫ : ضرب معًا): مجموعة، حشد، جماعة (مثل الجماعة البوذية)
 
-::: deleteme-box
-انظر أيضًا:
-
-**باير، ألويس \<1944 - \>:** فيناموكها: المفاهيم الأساسية لقواعد الرهبنة وقانون الرهبنة في Theravāda. -- الجزء الأول. -- (مواد حول المفاهيم الأساسية للبوذية). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: فتاة صغيرة، ابنة، عذراء
 
 ⟪अति⟫ جارٍ سابق: فوق، فوق - عبر، فوق - خارج (في المكان، في الزمن، في العدد، في الكمية، في الترتيب، في القوة، في الشدة)، بشكل مفرط
@@ -404,16 +400,3 @@ A) اترجم الأمثال الشائعة في بداية الدرس.
 
 ⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
 
-::: deleteme-box
-
-- **صورة lekt4102.jpg** (توضيح: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): بوبانسوار = ଭୁବନେଶ୍ବر [مصدر الصورة: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- تم الوصول إليه في 2009-01-02. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري)]
-- **صورة lekt4103.jpg** (توضيح: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [مصدر الصورة: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- تم الوصول إليه في 2009-01-03. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، عدم التعديل)]
-- **صورة lekt4106.jpg** (توضيح: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): دار عبادة بهائية، دلهي [مصدر الصورة: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- تم الوصول إليه في 2009-01-03. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري، المشاركة بالمثل)]
-- **صورة lekt4107.jpg** (توضيح: ⟪मान्यः⟫): الدكتور بهيم راو رامجي أمبيدكار = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [مصدر الصورة: ويكيبيديا. ملكية عامة]
-- **صورة lekt4108.jpg** (توضيح: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫، ⟪मणिकर्णिका⟫ ⟪घाट⟫، 1922 [مصدر المكتبة الأمريكية/ويكيبيديا. ملكية عامة]
-- **صورة lekt4105.jpg** (توضيح: ⟪भुजङ्गः⟫): كرايت مخطط (_Bungarus fasciatus_) [مصدر الصورة: J. Ewart. الثعابين السامة في الهند، 1878. ملكية عامة]
-- **صورة lekt4104.jpg** (توضيح: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): حلب سم الأفعى (كرايت)، تايلاند [مصدر الصورة: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- تم الوصول إليه في 2009-01-03. -- رخصة المشاع الإبداعي (النسبة)]
-- **صورة lekt4109.jpg** (توضيح: ⟪शासना⟫): مرسوم أشوكا، داهولي، أوديشا [مصدر الصورة: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- تم الوصول إليه في 2009-01-03. -- رخصة المشاع الإبداعي (النسبة، عدم الاستخدام التجاري)]
-- **صورة lekt4110.jpg** (توضيح: ⟪शास्त्री⟫): ماكس مولر (1823 - 1900)، حوالي 1898 [مصدر الصورة: ويكيبيديا. ملكية عامة]
-- **صورة lekt4111.jpg** (توضيح: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [مصدر الصورة: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- تم الوصول إليه في 2009-01-04. -- رخصة المشاع الإبداعي (النسبة، عدم التعديل)]
-:::

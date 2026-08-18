@@ -281,13 +281,3 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 C) Transform the sentences of exercise B by replacing perfects with imperfects.
 
-::: deleteme-box
-
-**lekt3501:** Temple musicians Kaadu Malleswara Temple Bangalore. [Image source: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** People walking, Senegal. [Image source: Curt Carnemark / World Bank. CC BY-NC-ND]
-
-**lekt3503:** Market in Vadaseri, Tamil Nadu. [Image source: kifo / Flickr. CC BY-SA]
-
-**lekt3504:** Yajña ceremony, Shiva ashram, Ganeshpuri. [Image source: Dey / Flickr. CC BY-NC-SA]
-:::

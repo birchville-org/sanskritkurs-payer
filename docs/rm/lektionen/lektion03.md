@@ -10,14 +10,6 @@ status: stable
 
 # Lecziun 3
 
-::: deleteme-box
-**En questa lecziun avais a discurrir:**
-- il nominativ singular dal feminin
-- il nominativ plural dal masculinum e dal feminin
-- la furmaziun dal feminin a partir da masculina
-- sandha vocalic
-- Satzsandhi von -ās
-:::
 ## 3.1. Nominativ singular dal feminin
 
 ### 3.1.1. Nominativ singular cun -s
@@ -78,7 +70,7 @@ Nota: **e** è il grad elevà (**guṇa**) a **i**, **o** è il grad elevà a **
 :::
 p.ex.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇa è ina divinitad" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇa è ina divinitad" = ⟪देवतान्नपूर्णा⟫
 
 > (Annapūrṇa è la dea dal mangiar e da la preparaziun, ella vala sco ina incarnaziun da Pārvatī, la consorta da Śiva.)
 
@@ -130,7 +122,7 @@ p.ex.
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-p.ex. <!-- TODO: Fallback translation -->
+p.ex.
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas èn naschids duas giadas" = ⟪द्विजा वैश्याः⟫
 
@@ -166,7 +158,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas èn naschids duas giadas" 
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : femna da Kṣatriya. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : femna da Kṣatriya.
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : femna d’in Kṣatriya.
 
@@ -187,11 +179,11 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. a guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "esser-essezza", idest il (falsch) credi: **Jeu** ess el che ves etc. <!-- TODO: Fallback translation -->
+**asmitā** f. = ⟪अस्मिता⟫ : "esser-essezza", idest il (falsch) credi: **Jeu** ess el che ves etc.
 
 **ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filosofia (la scienza che arriva a las suas conclusiuns tras argumaints logicamain corrects).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : neglect, equanimitad. <!-- TODO: Fallback translation -->
+**upekṣā** f. = ⟪उपेक्षा⟫ : neglect, equanimitad.
 
 **karuṇā** f. = ⟪करुणा⟫ : compassion, pietad.
 

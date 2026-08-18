@@ -1,32 +1,32 @@
-# Dévanágarí = ⟪देवनागरी⟫
+# Devanāgarī = ⟪देवनागरी⟫
 
-## 1. Írásgyakorlat
+## Írásgyakorlat 1
 
-A szanszkritot sokféle írással írták és írják. A következő áttekintés egy kis részletet mutat be ezekből az írásokból:
+A szanszkitet egy sor írásrendszerben írták és írják ma is. Az alábbi áttekintés egy kis kivonatot mutat ebből az írásrendszerekből:
 
-![](/images/schrift001.webp)
-Ábra: Szanszkrit írásminták
-\[Kép forrása: Wikipedia, GNU FD licenc\] <!-- TODO: Fallback translation -->
+![](/images/schrift001.webp)  
+Ábra: szanszkret írásminták
+\[Képmegjelölés: Wikipedia, GNU FD LIzenz\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
+A legfontosabb modern észak-indiai szanszkret írás a Devanāgarī:
 
 ![](/images/schrift002.webp)
 
-Minden mássalhangzójel egyben egy azt követő „a” hangot is jelöl. Ha a tiszta mássalhangzót kell leírni (követő magánhangzó nélkül), azt egy alulra helyezett ferde vonallal – virāma = ⟪विराम⟫ – kell jelölni:
+Minden mássalhangzó-jel egy a mássalhangzót követő „a” hangot is jelöl. Ha csak a tiszta mássalhangzót kell leírni (következő magánhangzó nélkül), ezt egy aláhúzott perjel -- virāma = ⟪विराम⟫ -- jelöléssel kell megjelölni:
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
-A mássalhangzót követő magánhangzókat – az „a” kivételével – a következőképpen írjuk:
+A mássalhangzót követő magánhangzókat -- kivéve az „a”-t -- így írjuk le:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
-Ezeknek a mássalhangzó + magánhangzó kapcsolatoknak az írási sorrendje a következő:
+A mássalhangzó + magánhangzó kapcsolatok leírásának sorrendje a következő:
 
 ![](/images/schrift003.jpg)
 
-Írás közben minden betűt, beleértve a felső vízszintes vonalat is, teljesen befejezünk, mielőtt a következő betűt leírnánk. <!-- TODO: Fallback translation -->
+Íráskor minden betűt, a felső vonallal együtt, be kell fejezni mielőtt a következő betűt leírnánk.
 
 ## Gyakorlat
 
@@ -34,12 +34,10 @@ Schreiben Sie in Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
-Olvassa el és írja át (transzliterálja):
+Olvassa el és transzliterálja:
 
-⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
+⟪तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ⟫
 
-További olvasási gyakorlat:
-
-⟪पिता⟫ apa, ⟪कपि⟫ majom, ⟪कृत⟫ megtett, ⟪टीका⟫ alkommentár, ⟪तत्⟫ ez, ⟪तट⟫ part, ⟪पत्⟫ ellőni, ⟪पट⟫ szövet, ⟪काच⟫ üveg, ⟪काकुत्⟫ szájpad, ⟪चित्⟫ észlelni, ⟪पृच्⟫ keverni, ⟪पोटक⟫ szolga, ⟪चेतु⟫ szándék, ⟪तौतातित⟫ Kumārila követője (Mīmāṃsā), ⟪तूत⟫ eperfa, ⟪पीत⟫ megivott, ⟪पीति⟫ ital, ⟪कॢप्⟫ illeszkedni, ⟪कृपते⟫ jajgat, ⟪पुटी⟫ ránc, ⟪चापि⟫ hasonlóképpen, ⟪तोक⟫ utódok, ⟪तृपत्⟫ jóllakott, ⟪पॄ⟫ tölteni, ⟪कृकाटी⟫ nyakízület, ⟪पूपौ⟫ két sütemény, ⟪पैतृकी⟫ apai (nőnem), ⟪कौट⟫ csaló, ⟪कच⟫ hajzat, ⟪कुतपे⟫ a kecskeszőr takarón, ⟪कुचौ⟫ kebel, ⟪चकिता⟫ megrémült (nőnem) <!-- TODO: Fallback translation -->
+⟪पिता⟫ apa, ⟪कपि⟫ majom, ⟪कृत⟫ megtett, ⟪टीका⟫ alkommentár, ⟪तत्⟫ ez, ⟪तट⟫ part, ⟪पत्⟫ ellőni, ⟪पट⟫ szövet, ⟪काच⟫ üveg, ⟪काकुत्⟫ szájpad, ⟪चित्⟫ észlelni, ⟪पृच्⟫ keverni, ⟪पोटक⟫ szolga, ⟪चेतु⟫ szándék, ⟪तौतातित⟫ Kumārila követője (Mīmāṃsā), ⟪तूत⟫ eperfa, ⟪पीत⟫ megivott, ⟪पीति⟫ ital, ⟪कॢप्⟫ illeszkedni, ⟪कृपते⟫ jajgat, ⟪पुटी⟫ ránc, ⟪चापि⟫ hasonlóképpen, ⟪तोक⟫ utódok, ⟪तृपत्⟫ jóllakott, ⟪पॄ⟫ tölteni, ⟪कृकाटी⟫ nyakízület, ⟪पूपौ⟫ két sütemény, ⟪पैतृकी⟫ apai (nőnem), ⟪कौट⟫ csaló, ⟪कच⟫ hajzat, ⟪कुतपे⟫ a kecskeszőr takarón, ⟪कुचौ⟫ kebel, ⟪चकिता⟫ megrémült (nőnem)
 
 

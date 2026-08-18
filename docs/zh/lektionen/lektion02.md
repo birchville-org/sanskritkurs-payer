@@ -116,27 +116,27 @@ last_reconstructed: 2026-04-30
 **śūdra** m. -- ⟪शूद्र⟫ : 首陀羅（服務階層）。
 
 ::: note-box Die vier Stände (varna)
-Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt: <!-- TODO: Fallback translation -->
+Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt:
 
 - 根據古典理論（例如《摩奴法典》I, 88-91），職責分配如下：
   - **婆羅門**
   - 學習
-  - Opfer für sich <!-- TODO: Fallback translation -->
-  - Opfer für andere <!-- TODO: Fallback translation -->
+  - Opfer für sich
+  - Opfer für andere
   - 祭祀
-  - Empfangen von Gaben <!-- TODO: Fallback translation -->
-- **der Kṣatriyas** <!-- TODO: Fallback translation -->
-  - das Volk schützen <!-- TODO: Fallback translation -->
-  - Gaben (an Brahmanen) geben <!-- TODO: Fallback translation -->
-  - für sich opfern <!-- TODO: Fallback translation -->
+  - Empfangen von Gaben
+- **der Kṣatriyas**
+  - das Volk schützen
+  - Gaben (an Brahmanen) geben
+  - für sich opfern
   - **剎帝利**
-- **der Vaiśyas** <!-- TODO: Fallback translation -->
+- **der Vaiśyas**
   - **吠舍**
-  - Landwirtschaft <!-- TODO: Fallback translation -->
+  - Landwirtschaft
   - 金融借貸
   - 為己祭祀
   - 贈送（給婆羅門）
-  - Gaben (an Brahmanen) geben <!-- TODO: Fallback translation -->
+  - Gaben (an Brahmanen) geben
   - 為己祭祀
   - 吠陀研習
 - **首陀羅**
@@ -200,37 +200,37 @@ c) 通过等级制对政治或神权统治权力的**占有**作为垄断（**�
 ::: media
 ![](/images/lekt0202.webp)
 Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
-(Bildquelle: [Details](/licenses#lekt0202)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt0202))
 :::
-**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert <!-- TODO: Fallback translation -->
+**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert
 
-**guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister <!-- TODO: Fallback translation -->
+**guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
 
 ## 2.6. 练习
 
-**A) Setzen Sie unter Beachtung des Sandhi ein und bilden Sie Nominalsätze:** <!-- TODO: Fallback translation -->
+**A) Setzen Sie unter Beachtung des Sandhi ein und bilden Sie Nominalsätze:**
 
-1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)** <!-- TODO: Fallback translation -->
+1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
    = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
-2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)** <!-- TODO: Fallback translation -->
+2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
    = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
-3. **gurus ... (brāhmaṇa, Candrakīrti)** <!-- TODO: Fallback translation -->
+3. **gurus ... (brāhmaṇa, Candrakīrti)**
    = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
-4. **vaiśyas ... (Tulādhara)** <!-- TODO: Fallback translation -->
+4. **vaiśyas ... (Tulādhara)**
    = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
-5. **sādhus ... (guru, Rāma)** <!-- TODO: Fallback translation -->
+5. **sādhus ... (guru, Rāma)**
    = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
-6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)** <!-- TODO: Fallback translation -->
+6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
    = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
-**B) Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
+**B) Übersetzen Sie ins Sanskrit:**
 
-1. Rāma ist ein Brahmane. <!-- TODO: Fallback translation -->
-2. Der Lehrer ist ein Vaiśya. <!-- TODO: Fallback translation -->
-3. Der Śūdra ist ein heiliger Mann. <!-- TODO: Fallback translation -->
-4. Der Dichter ist der Lehrer. <!-- TODO: Fallback translation -->
-5. Viṣṇu ist der HERR. <!-- TODO: Fallback translation -->
-6. Der HERR ist Śiva. <!-- TODO: Fallback translation -->
-7. Der Zweimalgeborene ist ein Brahmane. <!-- TODO: Fallback translation -->
-8. Der heilige Mann ist ein Lehrer. <!-- TODO: Fallback translation -->
-9. Der Lehrer ist ein heiliger Mann. <!-- TODO: Fallback translation -->
+1. Rāma ist ein Brahmane.
+2. Der Lehrer ist ein Vaiśya.
+3. Der Śūdra ist ein heiliger Mann.
+4. Der Dichter ist der Lehrer.
+5. Viṣṇu ist der HERR.
+6. Der HERR ist Śiva.
+7. Der Zweimalgeborene ist ein Brahmane.
+8. Der heilige Mann ist ein Lehrer.
+9. Der Lehrer ist ein heiliger Mann.

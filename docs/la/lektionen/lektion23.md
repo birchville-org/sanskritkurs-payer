@@ -79,14 +79,14 @@ Ad has usdoctae radices sequentes infinitivi maxime sunt notandi:
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. De infinitivo (⟪तुमुन्⟫) ad radices usque nunc didictas
 
@@ -251,7 +251,7 @@ Chiang Mai, Thailandia = เชียงใหม่, ประเทศไท�
 
 ⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫
 
-C) Versa verbum sequens ⟪सुभाषितम्⟫ <!-- TODO: Fallback translation -->
+C) Versa verbum sequens ⟪सुभाषितम्⟫
 
 ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
 ⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
@@ -316,13 +316,3 @@ C) Date formae radicis (significatio, classis praesentis, modus, 3. sg. praes. i
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Fontes imaginis: Wikipedia. Licentia GNU FD]
-
-**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Imago a zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Accessus 2008-12-13. -- Licentia Creative Commons (Attributio, usus non-commercialis, nulla operis mutatio)]
-
-**lekt2303:** Meritum facere = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย [Imaginis fontis: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Accessus die 2008-12-13. -- Licentia Creative Commons (Attributio, nulla modificatione)]
-
-**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Primus Minister Indiae = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, ab anno MMIV [fons imaginis: Wikipedia, Dominium publicum]
-:::

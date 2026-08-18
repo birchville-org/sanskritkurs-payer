@@ -30,7 +30,7 @@ A) حاول تحديد المعاني الممكنة للكلمات التالي
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 (مؤخرًا) قادم من سلسلة النسيج / نول النسيج = منسوج حديثًا
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : راقص <!-- TODO: Fallback translation -->
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : راقص
 
 12\. naraka ⟪नरक⟫ : m. جحيم
 
@@ -72,7 +72,7 @@ pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रति�
 
 rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genetiv (Wesfall): "جميع الكائنات") <!-- TODO: Fallback translation -->
+(sarvabhūtānām = Genetiv (Wesfall): "جميع الكائنات")
 
 (Gautamadharmasūtra X,7)
 
@@ -95,7 +95,7 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्वि�
 شرح:
 dvijātīnām = Genetiv (Wesfall) جمع لـ dvijāti (ترجم هنا: "مقابل المولودين مرتين")
 
-kārukuśīlavakarma هو Tatpuruṣa مع Dvandva (kārukuśīlava) في الجزء الأمامي. karma = Nom. sg. من karman n. "فعل، نشاط، كارما" من الجذر kṛ 8 U). ترجم "فعل / نشاط ... (Genetiv)" (المشار إليه بواسطة Dvandva). <!-- TODO: Fallback translation -->
+kārukuśīlavakarma هو Tatpuruṣa مع Dvandva (kārukuśīlava) في الجزء الأمامي. karma = Nom. sg. من karman n. "فعل، نشاط، كارما" من الجذر kṛ 8 U). ترجم "فعل / نشاط ... (Genetiv)" (المشار إليه بواسطة Dvandva).
 
 الطاعة للمولودين مرتين، أنشطة كسب العيش، نشاط كحرفي أو ممثل متنقل.
 

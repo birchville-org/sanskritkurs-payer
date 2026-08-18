@@ -1,10 +1,11 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "Leçon 13"
+subtitle: "PPP en -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 13
@@ -51,51 +52,48 @@ par exemple :
 ::: indent
 ⟪गत⟫ n. : "le fait de marcher, la marche"
 ⟪नृत्त⟫ n. : "le fait de danser, la danse"
-:::
-
-## 13.3. Déterminations attributives des noms (ordre des mots)
 
 ::: grammar-box
 
-Les attributs (ajouts) se placent en prose dans l'ordre normal des mots avant le mot qu'ils précisent. Les attributs adjectivaux concordent avec le nom en nombre, cas et genre :
+Les épithètes (attributs) se placent en prose avant le mot qu’ils déterminent plus précisément. Les épithètes adjectivales s’accordent avec le nom en nombre, cas et genre :
 
 Exemple :
 
 :::
 ::: indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Un saint voit le fruit désiré (de ses œuvres)."
+⟪साधुरिष्टं फलं पश्यति⟫ = « Un saint voit le fruit désiré (de ses œuvres). »
 :::
 
-## 13.4. Formation d'adjectifs en -mant et -vant (taddhita)
+## 13.4. Formation des adjectifs en -mant et -vant (taddhita)
 
 ::: grammar-box
 
-À l'aide des suffixes taddhita -mant ou -vant, on forme des adjectifs possessifs à partir de noms. Leur sens est : "possédant ce qui est désigné par le nom sous-jacent".
+À l’aide des suffixes taddhita -mant ou -vant, on forme à partir de noms des adjectifs possessifs. Leur sens est : « possédant ce qui est désigné par le nom sous-jacent ».
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
+vant s’ajoute aux noms dont la dernière ou l’avant-dernière syllabe est un a, ā ou m, ainsi qu’aux noms se terminant par une consonne occlusive ; aux autres noms s’ajoute généralement -mant.
 
 Exemples :
 
 :::
 ::: indent
-⟪पशुमन्त्⟫ "possédant du bétail"
+⟪पशुमन्त्⟫ « possédant du bétail »
 
-⟪गुणवन्त्⟫ "possédant de bonnes propriétés / vertus"
+⟪गुणवन्त्⟫ « possédant de bonnes qualités / la vertu »
 :::
 
-## 13.5. Alternance vocalique des noms
+## 13.5. Alternance vocalique des racines nominales
 
-Les stems en -mant ou -vant font partie des stems nominaux avec alternance vocalique.
+Les stems en -mant ou -vant appartiennent aux racines nominales présentant une alternance vocalique.
 
 ::: grammar-box
-Pour les stems nominaux avec alternance vocalique, on distingue entre les cas forts et les cas faibles. Dans les cas forts, le suffixe formant le stem — pour les stems racinaux, la partie racine — présente le degré fort ou le degré allongé, tandis que dans les cas faibles, il présente le degré faible.
+Pour les racines nominales présentant une alternance vocalique, on distingue entre cas forts et cas faibles. Dans les cas forts, le suffixe formant la racine — pour les noms radicaux, l’élément radical — est au degré fort ou allongé ; dans les cas faibles, il est au degré faible.
 :::
 **Les cas forts sont :**
 
-| | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| | Singulier : br⟪एकवचन⟫ | Duel : br⟪द्विवचन⟫ | Pluriel : br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
-| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
+| **Pour les masculins et féminins** : br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominatif : br⟪प्रथमा⟫ : brAccusatif : br⟪द्वितीया⟫ : brVocatif : br⟪सम्बोधनप्रथमा⟫ | Nominatif : br⟪प्रथमा⟫ : brAccusatif : br⟪द्वितीया⟫ : brVocatif : br⟪सम्बोधनप्रथमा⟫ | Nominatif : br⟪प्रथमा⟫ : br: brVocatif : br⟪सम्बोधनप्रथमा⟫ |
+| **Pour les neutres** : br⟪नपुंसक⟫ | — | — | Nominatif : br⟪प्रथमा⟫ : brAccusatif : br⟪द्वितीया⟫ : brVocatif : br⟪सम्बोधनप्रथमा⟫ |
 
 **Tous les autres cas sont faibles.**
 

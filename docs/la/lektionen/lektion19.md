@@ -5,7 +5,7 @@ lesson_id: 19
 
 # Lectio 19
 
-## 19.1. Der Relativsatz <!-- TODO: Fallback translation -->
+## 19.1. Der Relativsatz
 
 ::: grammar-box
 
@@ -67,7 +67,7 @@ Nota: In relativis universalibus saepe optativus pro indicativo adhibetur. Itaqu
 | **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ | <!-- TODO: Fallback translation -->
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
 **Ut prior pars compositionis, radix apparet ⟪यद्⟫ (sandhi habito).**
 
@@ -205,7 +205,7 @@ Explicatio: ⟪वारि⟫ Nom., Akk. sg. ad ⟪वारि⟫ n.: aqua
 ⟪धर्मार्थकामसंयोगं⟫  
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
 :::
-Explicatio: ⟪यथाकालम्⟫ Avyayībhāva-compositum: ad tempus rectum; semper, quando tempus rectum praesent est. <!-- TODO: Fallback translation -->
+Explicatio: ⟪यथाकालम्⟫ Avyayībhāva-compositum: ad tempus rectum; semper, quando tempus rectum praesent est.
 
 ::: indent
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
@@ -220,15 +220,3 @@ Explicatio: ⟪यथाकालम्⟫ Avyayībhāva-compositum: ad tempus r
 :::
 Explicatio: ⟪पुमान्⟩ Nominativus singularis ad ⟪पुंस्⟩ "vir" ; ⟪लोके⟩ Locativus singularis ad ⟪लोक⟩ m.: in ...
 
-::: deleteme-box
-
-**lekt1809:** Illustratio ad ⟪कामसूत्र⟫ [Imago auctoritas: Wikipedia, Dominium publicum]
-
-**lekt1901:** Badami (ಬದಾಮಿ) [Fontes imaginis: Sudarshan Bhat Khandige / Wikipedia, Dominium publicum]
-
-**lekt1902:** Goa (⟪गोंय⟫) [Imago auctoris: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Accessus die 2008-12-08. -- Licentia Creative Commons (Attributio, usus non-commercialis, nulla operis mutatio)]
-
-**lekt1903:** ⟪१९५९⟩ [Imago fontis: Wikipedia, Dominium publicum] <!-- TODO: Fallback translation -->
-
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), indumento traditionale, est consuetudo in partibus meridionalibus Keralae. _Onappottan_ domos visitat durante _onam_ et benedictiones praebet. Nuper _onappottan_ visum rarum factum est, in vicis confinium." [Fontes imaginis: Capitaneus Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Accessus die 2008-12-08. -- Licentia Creative Commons (Attributio)]
-:::

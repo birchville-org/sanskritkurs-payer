@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # שיעור 59
 
@@ -784,10 +784,3 @@ _עזרה לתרגום:_ פסוק 6: ⟪दिदृक्षते⟫ \= דסי
 :::
 טקסט מתוך: אוטו בולטלינק: סנסקריט-כרסטומתיה עמ' 127 ואילך.
 
-::: deleteme-box
-
-**lekt5902:** [מקור תמונה: Henryart/Wikipedia. תחום הציבור] <!-- TODO: Fallback translation -->
-
-**lekt5903:** מחול קצק, באלי (אינדונזיה) [מקור תמונה: Flying Pharmacist / Wikipedia. [רישיון Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (ייחוס, שיתוף זהה)]
-
-:::

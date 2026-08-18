@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα γʹ6
 
@@ -20,7 +20,7 @@ status: stable
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫*:sig[⟪गा⟫]*⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫*:sig[⟪घा⟫]*⟪न⟫ | ⟪ज⟫*:sig[⟪घ्नु⟫]*⟪र्⟫ | | | <!-- TODO: Fallback translation -->
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫*:sig[⟪घा⟫]*⟪न⟫ | ⟪ज⟫*:sig[⟪घ्नु⟫]*⟪र्⟫ | | |
 
 ::: grammar-box
 Ἡ ρίζα ⟪विद्⟫ 2P "οἶδα" ἔχει παρακείμενον μετὰ σημασίας ἐνεστώτος.
@@ -63,7 +63,7 @@ status: stable
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ καὶ ⟪भू⟫ ἐπὶ τῶν ἄτμανεπαδα-ῤῥημάτων ἐν τῷ παρασηπαδίᾳ συζυγία.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 παραδείγματα:
 
@@ -294,7 +294,7 @@ Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 
 ⟪ब्राह्मणीभिः⟫ ⟪स्वान्नानि⟫ ⟪पेचिरे⟫ ⟪॥७॥⟫
 
-## 36.6. Ὁ παρακείμενος (⟪लिट्⟫) zu den bisher gelernten Wurzeln <!-- TODO: Fallback translation -->
+## 36.6. Ὁ παρακείμενος (⟪लिट्⟫) zu den bisher gelernten Wurzeln
 
 | Wurzel:br⟪धातु⟫ | Perfektklasse | Perfekt (⟪लिट्⟫) |
 | :--- | :--- | :--- |
@@ -508,13 +508,3 @@ Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Image source: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Accessed on  2008-12-28. --   Creative  Commons License (Attribution, non-commercial use)]
-- **lekt3602.jpg**: Fig.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Image source: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accessed on  2008-12-28. --   Creative  Commons License (Attribution, shere alike)]
-- **lekt3603.jpg**: Fig.: ⟪अनगार्यम्⟫ 	Northeast Thailand = อีสาน 	[Image source: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Accessed on  	2008-12-28. --  	 	Creative  	Commons License (Attribution, non-commercial use, no modification)]
-- **lekt3604.jpg**: Fig.: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. body hair) [Image source: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Accessed on 2008-12-29.  --   Creative  Commons License (Attribution, non-commercial use)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ Gandhara, 1st/2nd century CE. [Image source: Wikipedia. GNU FDLicense]
-- **lekt3606.jpg**: Fig.:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫Mudrā [Image source: Payer]
-- **lekt3607.jpg**: Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Image source: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Accessed on  2008-12-29. --   Creative  Commons License (Attribution, non-commercial use, share alike)]
-:::

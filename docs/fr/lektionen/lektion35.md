@@ -86,7 +86,7 @@ Exemple :
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
+## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
 
 ::: grammar-box
 **Formation :**
@@ -143,7 +143,7 @@ Exemple :
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ |
 
 ### 35.3.3. Type de parfait Vc : Racines Consonne-a-Consonne. Forme faible au degré plein
 
@@ -164,7 +164,7 @@ Exemple :
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
 ## 35.4. Liste de mots
 
@@ -281,13 +281,3 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 **lekt3501 :** Musiciens du temple Kaadu Malleswara Temple Bangalore. [Source de l'image : Samuelraj / Flickr. CC BY-NC]
 
-::: deleteme-box
-
-**lekt3502 :** Personnes marchant, Sénégal. [Source de l'image : Curt Carnemark / Banque mondiale. CC BY-NC-ND]
-
-**lekt3503 :** Marché à Vadaseri, Tamil Nadu. [Source de l'image : kifo / Flickr. CC BY-SA]
-
-**lekt3504 :** Cérémonie Yajña, ashram Shiva, Ganeshpuri. [Source de l'image : Dey / Flickr. CC BY-NC-SA]
-
-**lekt3504:** Cérémonie du Yajña, ashram de Shiva, Ganeshpuri. [Source de l'image : Dey / Flickr. CC BY-NC-SA]
-:::

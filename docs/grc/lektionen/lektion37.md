@@ -161,7 +161,7 @@ status: stable
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -181,7 +181,7 @@ status: stable
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Ἐπιρρηματικὰ σύνθετα
@@ -508,17 +508,3 @@ Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 
 Ἐπεὶ ποτὲ πρεσβύτης εἰς ἄλλην κώμην ἐπορεύετο, ἐκοπίασεν ἐν τῇ ὁδῷ. Τότε πορευθεὶς ἵνα ἀναπαύσηται, πρὸς τὴν ῥίζην ἐλάθου μάνγκου δένδρου τοῦ παρὰ τὴν ὁδὸν ἑστῶτος. Τοῦτο τὸ δένδρον ἔφερε καρποὺς πεπαγκότας. Ὁ πρεσβύτης ἐπιθυμίαν ἔσχεν περὶ τούτων. Ἀλλ’ οὔτε ἐδύνατο εἰς τὸ δένδρον ἀνελθεῖν οὔτε τοὺς καρποὺς λαβεῖν. Τυχόν δέ, ἦσαν ἐπὶ τοῦ δένδρου τινὲς πίθηκοι, οἵτινες τοὺς καρποὺς κατέφαγον. Ὁπτασάμενος δέ, ἐχάρη ὁ πρεσβύτης. Τί ἐποίησε; Λάβων πέτρας τινὰς, κατεῖδεν εἰ τοὺς πίθηκους καὶ ἔβαλεν. Οἱ πίθηκοι, ἐξοργισθέντες, καρποὺς τινὰς ἀπέσπασαν καὶ ἔβαλον ἐπὶ τὸν πρεσβύτην. Ὁ δὲ πρεσβύτης, χαίρων, ἐλάβεν αὐτούς καὶ ἀπῆλθεν εἰς τὴν ἐπιθυμητέραν χώραν. Ἰδού, ὁ τύχος τοῦ πρεσβύτου!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Fig.: ⟪क्व⟫): [Image source: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
-- **Image lekt3702.jpg** (Fig.: ⟪यथाशक्ति⟫): [Image source: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
-- **Image lekt3703.jpg** (Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Image source: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
-- **Image lekt3704.jpg** (Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Image source: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution)]
-- **Image lekt3705.jpg** (Fig.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Image source: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
-- **Image lekt3706.jpg** (Fig.: ⟪वृक्षः⟫): Jaipur [Image source: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial use, share alike)]
-- **Image lekt3707.jpg** (Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Painting by ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Image source: Wikipedia. Public domain]
-- **Image lekt3708.jpg** (Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Image source: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution)]
-- **Image lekt3709.jpg** (Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Image source: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
-- **Image lekt3710.jpg** (Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Image source: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial use, share alike)]
-- **Image lekt3711.jpg** (Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Image source: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
-:::

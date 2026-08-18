@@ -589,26 +589,3 @@ Shirdi 的 Sai Baba（1835 - 1918）。
 （图片来源：[详情](/zh-CN/licenses#lekt2717)）
 :::
 
-::: deleteme-box
-
-**lekt2701：** 斋浦尔，1875年。[图片来源：维基百科。公有领域]
-**lekt2702：** 拉贾斯坦邦。[图片来源：fbloeink Flickr，2008-12-18，CC BY-NC-SA]
-**lekt2703：** 胡里节。[图片来源：S.Raj Flickr，2008-12-18，CC BY-NC-ND]
-**lekt2704：** 哈里哈拉（左：毗湿奴，右：湿婆）。[图片来源：维基百科。公有领域]
-**lekt2705：** 哈里哈拉（左：毗湿奴，右：湿婆）。戈德鲁姆迪普，西孟加拉邦。[图片来源：GourangaUK / 维基百科。GNU FDLicense]
-**lekt2706：** 瓦斯特拉尼。马朱里，阿萨姆邦。[图片来源：deepsan Flickr，2008-12-18，CC BY-NC-ND]
-**lekt2707：** 春神（Vasanta，Schleichera oleosa），科波利，马哈拉施特拉邦，2007-04-07。[图片来源：dinesh_valke Flickr，2008-12-18，CC BY-NC-ND]
-**lekt2708：** 罗摩弓。[图片来源：维基百科。公有领域]
-**lekt2709：** 拉贾·拉维·瓦尔马（1848 - 1906）的画作。[图片来源：维基百科。公有领域]
-**lekt2710：** 水果。班加罗尔。[图片来源：GflaiG Flickr，2008-12-18，CC BY-NC-ND]
-**lekt2711：** 纳兰。乌代浦尔。[图片来源：Dey Flickr，2008-12-18，CC BY-NC-SA]
-**lekt2712：** 1857年叛乱中两名参与者的绞刑。费利克斯·贝托（Felice Beato，1833/1834 - 约1907）拍摄的照片。[图片来源：维基百科。公有领域]
-**lekt2713：** 玛哈里希·玛赫西·约吉（Maharishi Mahesh Yogi，1917 - 2008）古鲁。[图片来源：维基百科，GNU FDLicense]
-**lekt2714：** 乌代浦尔的牛。[图片来源：Dey Flickr，2008-12-19，CC BY-NC-SA]
-**lekt2715：** 三相女神（Lakṣmī，Pārvatī，Sarasvatī）。[图片来源：维基百科。公有领域]
-**lekt2716：** 希尔迪的赛巴巴（Sai Baba of Shirdi，1835 - 1918）。[图片来源：维基百科。公有领域]
-**lekt2717：** 2005年海啸，斯里兰卡。[图片来源：Hjálparstarf Flickr，2008-12-19，CC BY-NC-SA]
-**lekt2718：** 玛哈拉尼瓦尼·维拉萨·桑尼迪哈娜（Maharani Vani Vilasa Sannidhana，1866 - 1934）与她的孙子贾亚·查马拉贾·瓦迪亚亚王子（Prince Jaya Chamaraja Wadiyar），迈索尔。[图片来源：维基百科。公有领域]
-
-:::
-

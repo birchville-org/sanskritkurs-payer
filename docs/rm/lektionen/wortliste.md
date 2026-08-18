@@ -2,10 +2,6 @@
 outline: 2
 ---
 
-::: deleteme-box
-**Moda da citar & Dretgs**
-
-:::
 # Lista da pleds (Transpurt general)
 
 *Tuts ils pleds novs dal curs en l'ordr da lur introducziun, cun explicaziuns tematicas.*
@@ -60,7 +56,7 @@ Tenor la teoria classica (p.ex. Manusmṛti I, 88-91) èn las activitads distrib
 :::
 **dvija** m. -- ⟪द्विज⟫ : "Dusviescha naschì" (initziads da las trais classas superiuras: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : Colur, classa da naschientscha (tendenzia). <!-- TODO: Fallback translation -->
+**varṇa** m. -- ⟪वर्ण⟫ : Colur, classa da naschientscha (tendenzia).
 
 Las quatter classas (**varṇa** m.) vegnan spessegi cun castas confusas. Las quatter classas èn però -- en differenza a las castas – nagut spezial indian, er en Europa avain nus (fin al prim mundgerra) ina structura da classas, sco la suandanta illustraziun dal 15avel tschientaner mussa:
 
@@ -76,7 +72,7 @@ Illustraziun: Representaziun da la structura da classas dal temp medieval europe
 
 Las trais classas portan la vestgadira da lur respectiv-classa. Sur las – uschia designadas sco volidas dal deus – classas trona Christ.
 
-Max Weber (1864–1920) defenischa classa uschia: <!-- TODO: Fallback translation -->
+Max Weber (1864–1920) defenischa classa uschia:
 
 ::: note-box
 »**Classa**« duess esser ina multitudine da persunas, che èn activas en in'organisaziun
@@ -99,7 +95,7 @@ Mintga societad stadiala è convenziunala, ordnada tras regulas da la vita, crea
 
 [**Weber, Max (1864–1920)::** Economia e societad : cunteg da la sociologia comprensiva. – 5., revisida ed. – Tübingen : Mohr, 1976. – P. 625 ss.]
 :::
-Varṇas èn perquai stans da naschientscha. <!-- TODO: Fallback translation -->
+Varṇas èn perquai stans da naschientscha.
 
 **kavi** m. -- ⟪कवि⟫ : poet.
 
@@ -163,7 +159,7 @@ Abb.: Sādhu (⟪साधु⟫), Temple Pashupatinath, Kathmandu.
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : femna Kṣatriya. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : femna Kṣatriya.
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : dunna d'in Kṣatriya.
 
@@ -192,7 +188,7 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **karuṇā** f. = ⟪करुणा⟫ : compassion, cumpassiun.
 
-**muditā** f. = ⟪मुदिता⟫ : gieu, spezialmain cumpagieu (cuntrari a l'envia). <!-- TODO: Fallback translation -->
+**muditā** f. = ⟪मुदिता⟫ : gieu, spezialmain cumpagieu (cuntrari a l'envia).
 
 ---
 
@@ -215,11 +211,11 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 Abb.: dieu Kāma = kāmadeva = ⟪कामदेव⟫, 18. tschientaner
 (Sursa d'imagines: Wikipedia, Public domain)
 :::
-**krodha** m. = ⟪क्रोध⟫ : sdegno. <!-- TODO: Fallback translation -->
+**krodha** m. = ⟪क्रोध⟫ : sdegno.
 
 **kleśa** m. = ⟪क्लेश⟫ : dolur, torment.
 
-**trayī** f. = ⟪त्रयी⟫ : tria; spezialmain las trais Veden (Ṛgveda, Sāmaveda, Yajurveda). <!-- TODO: Fallback translation -->
+**trayī** f. = ⟪त्रयी⟫ : tria; spezialmain las trais Veden (Ṛgveda, Sāmaveda, Yajurveda).
 
 **daṇḍanīti** f. = ⟪दण्डनीति⟫ : politica (in Tatpuruṣa da daṇḍa m. = "stangia, pussanza, dominaziun, sancziun" e nīti f. = "directiva correcta").
 
@@ -374,7 +370,7 @@ Abb.: **likh** (⟪लिख्⟫) : Stgisch da scriver dals Batak (Sumatra), s
 Abb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram en vischinanza da Madurai.
 (Sursa da l'imagines: [Detagls](/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : artesan <!-- TODO: Fallback translation -->
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : artesan
 
 ::: media
 ![](/images/lekt0902.webp)
@@ -441,7 +437,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Publitgà dal testam
 Abb.: ⟪वरुणः⟫
 (Sursa da l'imagines: [Detagls](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : falsitad, mintgaglia (cuntrari a **satya**) <!-- TODO: Fallback translation -->
+- **anṛta** n. ⟪अनृत⟫ : falsitad, mintgaglia (cuntrari a **satya**)
 
 
 ::: note-box
@@ -504,7 +500,7 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 (fonte d’imagia: [detagl](/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : dumandar
-- **praśna** m. ⟪प्रश्न⟫ : dumanda (suffig **-na** sco en **yaj-ña**) <!-- TODO: Fallback translation -->
+- **praśna** m. ⟪प्रश्न⟫ : dumanda (suffig **-na** sco en **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : desiderar
 - **iṣṭi** f. ⟪इष्टि⟫ : desideri (**iṣ** + **-ti**)
@@ -530,7 +526,7 @@ Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (quai) arder
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : dominar, sustegnir, sustegnir cun pazienza = perdonar
 - **mṛga** m. ⟪मृग⟫ : animal selvadi
-- **mārga** m. ⟪मार्ग⟫ : via (las vias eran savens ils sentiers dals animals selvadis) <!-- TODO: Fallback translation -->
+- **mārga** m. ⟪मार्ग⟫ : via (las vias eran savens ils sentiers dals animals selvadis)
 
 ::: media
 ![](/images/lekt1202.webp)
@@ -559,7 +555,7 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ---
 
-### 12.5.1. Passiv e PPP dals radichs emparads fin ussa <!-- TODO: Fallback translation -->
+### 12.5.1. Passiv e PPP dals radichs emparads fin ussa
 
 | Radich:br⟪धातु⟫ | Passiv Prezens 3. sg. Indicativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
@@ -733,7 +729,7 @@ Fig.: ⟪दीपाः⟫
 
 ⟪विद्⟫ "saber" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित⟫
 
-⟪पत्⟫ "volar, chaschar" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫ <!-- TODO: Fallback translation -->
+⟪पत्⟫ "volar, chaschar" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫
 
 ⟪अर्ध⟫ 3: mes, m.n. mez
 
@@ -752,7 +748,7 @@ Fig.: ⟪पूजा⟫
 Abb.: ⟪इन्द्रः⟫
 (Surschainta da l’imagines: [Detagls](/licenses#lekt1505))
 :::
-⟪दास⟫ m.: Schlav, servus da la terra, serv <!-- TODO: Fallback translation -->
+⟪दास⟫ m.: Schlav, servus da la terra, serv
 
 ⟪दासी⟫ f.: schlava, serva da la terra, servanta
 
@@ -789,7 +785,7 @@ Abb.: ⟪व्याघ्रः⟫
 
 ⟪एव⟫ (postposiziun): emfatisescha il precedent, correspunda en tudestg spessamain l'emfase, ina sort emoticon `\&lt;!\&gt;`, p.ex. ⟪सत्यमेव⟫ ⟪जयति⟫ "sola la verit gudogna", "exactamain la verit gudogna", "la verit gudogna"
 
-⟪अरि⟫ m.: inimis (secun Thieme, Der Fremdling im Ṛgveda: originalmain = forestier) <!-- TODO: Fallback translation -->
+⟪अरि⟫ m.: inimis (secun Thieme, Der Fremdling im Ṛgveda: originalmain = forestier)
 
 ::: indent
 ⟪आर्य⟫ 3: ariasic, nobil ; m. Ari (autodesignaziun dals vegls Indians che parlavan sanscrit, literalmain: ospital (Thieme)) ; Nobil, um d'onur
@@ -799,12 +795,12 @@ a ⟪जन्⟫
 ::: indent
 ⟪जाति⟫ f.: naschientscha, tip, casta (a ⟪जाति⟫ sco casta vesair Basham, Wonder, p. 148ss.)
 :::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫: morir (secun grammatics indians: 6 Ā) <!-- TODO: Fallback translation -->
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫: morir (secun grammatics indians: 6 Ā)
 
 da quai:
 
 ::: indent
-⟪मरण⟫ n.: morientscha, mort <!-- TODO: Fallback translation -->
+⟪मरण⟫ n.: morientscha, mort
 
 ⟪मृति⟫ f.: morientscha, mort
 
@@ -846,11 +842,11 @@ da quai:
 
 ⟪क्षेम⟫ n.: pasch, pax, prosperitad, possess segir
 
-⟪चित्त⟫ n.: cuschientscha, pensar, spiert <!-- TODO: Fallback translation -->
+⟪चित्त⟫ n.: cuschientscha, pensar, spiert
 
 ⟪निरोध⟫ m.: fermar, portar al stand
 
-* **bhūta n.** (⟪भूत⟫) (PPP a bhū): esser, fantasmas <!-- TODO: Fallback translation -->
+* **bhūta n.** (⟪भूत⟫) (PPP a bhū): esser, fantasmas
 
 ⟪योग⟫ m.: attachament, connexiun, uniun, acquista ; Yoga
 
@@ -858,7 +854,7 @@ da quai:
 ![](/images/lekt1601.webp)
 Abb.: ⟪योगी⟫
 Birla Mandir, Delhi
-(Surschainta da l’imagines: [Detagls](/licenses#lekt1601)) <!-- TODO: Fallback translation -->
+(Surschainta da l’imagines: [Detagls](/licenses#lekt1601))
 
 :::
 ⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : girar, virar, (s’)trovar en inqueglieu, abitar
@@ -957,9 +953,9 @@ da quai:
 
 ⟪ज्ञान⟫ n.: cognientscha
 
-⟪शूर⟫ 3: coraschi, eroic; m.: erou <!-- TODO: Fallback translation -->
+⟪शूर⟫ 3: coraschi, eroic; m.: erou
 
-⟪शब्द⟫ m.: sun, ton, signal: paraula <!-- TODO: Fallback translation -->
+⟪शब्द⟫ m.: sun, ton, signal: paraula
 
 ⟪उदक⟫ n.: aua
 
@@ -967,7 +963,7 @@ da quai:
 
 ⟪आदि⟫ m.: cumenzament
 
-⟪दण्ड⟫ m.: bastun, verga, sancziun <!-- TODO: Fallback translation -->
+⟪दण्ड⟫ m.: bastun, verga, sancziun
 
 ⟪मात्रा⟫ f. ⟪मात्र⟫ n.: mesira, limitaziun
 
@@ -1029,7 +1025,7 @@ Abb.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
 (Sursa da l’imaginescha: [Detagls](/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** purtader d’aua = nisch da plievgia <!-- TODO: Fallback translation -->
+**⟪वारिद⟫ m.:** purtader d’aua = nisch da plievgia
 
 ::: media
 ![](/images/lekt1902.jpg)
@@ -1037,14 +1033,14 @@ Abb.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Sursa da l’imaginescha: [Detagls](/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** suflar <!-- TODO: Fallback translation -->
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** suflar
 
 da quai:
 
 ::: indent
 **⟪वात⟫ m.:** vent
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** gidar, purtar (trans.) <!-- TODO: Fallback translation -->
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** gidar, purtar (trans.)
 
 **⟪छत्त्र⟫ n.:** parasol, parasol
 
@@ -1105,7 +1101,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Quai chista è ina part dal Ashram en Ris
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : facond, facend, effectond
 
-⟪कर⟫ m.: maun (a ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
+⟪कर⟫ m.: maun (a ⟪कृ⟫ 8)
 
 ⟪कर⟫ m.: contribuziun, tribut, imposta (betg a ⟪कृ⟫, ma probablamain empruntà dal Tamil - தமிழ்)
 
@@ -1123,7 +1119,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Quai chista è ina part dal Ashram en Ris
 
 ⟪प्रणिधान⟫ n.: applicaziun, sforsa, attenziun cunter, servetgivladad, meditaziun, vow
 
-⟪बाधना⟫ f.: anguscha, torment, dolur <!-- TODO: Fallback translation -->
+⟪बाधना⟫ f.: anguscha, torment, dolur
 
 ⟪भार्या⟫ f.: "quella che duai vegnir mantegnida" = spusa
 
@@ -1368,7 +1364,7 @@ Da ⟪वृत्⟫:
 
 ⟪वृत्त⟫ n.: cundut
 :::
-⟪अभि⟫ preverb:  be-, suenter - enavos, a - giu, a - en, cunter, en - dedadur, en relaziun cun, sin, sur, a <!-- TODO: Fallback translation -->
+⟪अभि⟫ preverb:  be-, suenter - enavos, a - giu, a - en, cunter, en - dedadur, en relaziun cun, sin, sur, a
 
 ⟪नि⟫ preverb: en giu, vers il bas, dedadur, enavos
 
@@ -1380,12 +1376,12 @@ Da ⟪वृत्⟫:
 
 ⟪इन्द्रिय⟫ n.: forza, organ sensoric
 
-⟪ऊह⟫ m.: reflexiun, argumentaziun <!-- TODO: Fallback translation -->
+⟪ऊह⟫ m.: reflexiun, argumentaziun
 
 dadof
 
 ::: indent
-⟪अपोह⟫ m.: negaziun (⟪अप⟫ + ⟪ऊह⟫) <!-- TODO: Fallback translation -->
+⟪अपोह⟫ m.: negaziun (⟪अप⟫ + ⟪ऊह⟫)
 
 ⟪ऊहापोह⟫ m.: discussiun dal per e cunter
 :::
@@ -1562,7 +1558,7 @@ da quai:
 Abb.: ⟪मूलानि⟫
 (sursaintg: [detagl](/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): ungiar, smiar <!-- TODO: Fallback translation -->
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): ungiar, smiar
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
@@ -1590,7 +1586,7 @@ PPP ⟪ऊढ⟫
 Inf. ⟪वोढुम्⟫  
 Absol 2: -⟪उह्य⟫
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : ducir via (nämlich la sposa da la chasa parental) = maridar <!-- TODO: Fallback translation -->
+⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : ducir via (nämlich la sposa da la chasa parental) = maridar
 
 davart:
 
@@ -1610,20 +1606,20 @@ davart:
 :::
 ⟪विज्ञान⟫ n.: cognientscha, savida
 
-⟪विष्टि⟫ f.: lavur, servetsch forzas <!-- TODO: Fallback translation -->
+⟪विष्टि⟫ f.: lavur, servetsch forzas
 
 ::: media
 ![](/images/lekt2505.webp)
 Abb.: ⟪विष्टिः⟫
 (sursaintg: [detagl](/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : crescher, vegnir pli grond <!-- TODO: Fallback translation -->
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : crescher, vegnir pli grond
 
 ::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
 PPP ⟪वृद्ध⟫ : creschì, vegl, augmentà  
-Inf. ⟪वर्धितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪वर्धितुम्⟫
 
 davart:
 
@@ -1633,7 +1629,7 @@ davart:
 
 ⟪स्वभाव⟫ m.: esser, natira, caracter
 
-⟪हर्ष⟫ m.: (surschattar ils pil dal corp), gauda <!-- TODO: Fallback translation -->
+⟪हर्ष⟫ m.: (surschattar ils pil dal corp), gauda
 
 ⟪हिरण्य⟫ ⟪३⟫ : aurà ; n.: aur, daners, riczza
 
@@ -1642,7 +1638,7 @@ davart:
 Abb.: ⟪हिरण्यम्⟫
 (sursaintg: [detagl](/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : fin, suttil, fitg pitschen ; m.: atom <!-- TODO: Fallback translation -->
+⟪अणु⟫ ⟪३⟫ : fin, suttil, fitg pitschen ; m.: atom
 
 ⟪गोदान⟫ n.: dar da muondas / d'ina muonda ; segunda ceremonia dal tagliar ils pil (in ⟪संस्कार⟫)
 
@@ -1671,7 +1667,7 @@ davart:
 ::: indent
 ⟪वस्तुतस्⟫: en la realitad, veramein
 :::
-⟪वस्⟫ 2Ā (⟪वस्ते⟫): vestir, purtar (vestgì) <!-- TODO: Fallback translation -->
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): vestir, purtar (vestgì)
 
 ::: indent
 **Fut.:** ⟪वसिष्यते⟫
@@ -1702,7 +1698,7 @@ Abb.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (sursaintg: [detagl](/licenses#lekt2707))
 :::
-⟪हृ⟫ 1U (⟪हरति⟫): tegnair, purtar; prender, allunfar, raubar <!-- TODO: Fallback translation -->
+⟪हृ⟫ 1U (⟪हरति⟫): tegnair, purtar; prender, allunfar, raubar
 
 ::: indent
 **Fut.:** ⟪हरिष्यति⟫
@@ -1858,7 +1854,7 @@ Pushkar = ⟪पुष्कर⟫
 :::
 ⟪पालयति⟫ : er significativamain identic cun  ⟪पाति⟫
 
-⟪पुनर्⟫ Indekl.: puspè, adina puspè, enavos, anc ina giada ; cunter, ma (avant sons sonors extra r-: ⟪पुनर्⟫) <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ Indekl.: puspè, adina puspè, enavos, anc ina giada ; cunter, ma (avant sons sonors extra r-: ⟪पुनर्⟫)
 
 ⟪प्रजा⟫ f.: generaziun, naschientscha, discendenza
 
@@ -1874,7 +1870,7 @@ Abb.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (funtana da l’imagina: [detagl](/licenses#lekt2901))
 :::
-⟪मृदु⟫  (f.: ⟪मृद्वी⟫): doltsch, mitsch, bland; lent, debel <!-- TODO: Fallback translation -->
+⟪मृदु⟫  (f.: ⟪मृद्वी⟫): doltsch, mitsch, bland; lent, debel
 
 ⟪यथा⟫ Adv.: sco, quasi
 
@@ -1923,7 +1919,7 @@ Abb.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (funtana da l’imagina: [detagl](/licenses#lekt3001))
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : conuscher, reconuscher, savair, capir <!-- TODO: Fallback translation -->
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : conuscher, reconuscher, savair, capir
 
 ::: indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -2008,7 +2004,7 @@ da:
 Abb.: ⟪पुनर्भवः⟫
 (sursa d’imagines: [detagl](/licenses#lekt2904))
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : vivair <!-- TODO: Fallback translation -->
+⟪जीव्⟫ 1P ⟪जीवति⟫ : vivair
 
 ::: indent
 Fut. ⟪जीविष्यति⟫  
@@ -2132,7 +2128,7 @@ da:
 **⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : reconuscher, capir
 ::: indent
 da:
-**⟪प्रज्ञा⟫ f.:** sapientscha, cognoschientscha <!-- TODO: Fallback translation -->
+**⟪प्रज्ञा⟫ f.:** sapientscha, cognoschientscha
 
 :::
 ::: media
@@ -2141,7 +2137,7 @@ Fig.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Sursa da l'imagina: [Detagl](/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : nascher, exister <!-- TODO: Fallback translation -->
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : nascher, exister
 
 **⟪शरीर⟫ n.:** corp, corp
 
@@ -2279,7 +2275,7 @@ Fig.: ⟪कौशलम्⟩
 Pingi Mehndi sin mauns a Mumbai.
 (Sursa da l'imagina: [Detagl](/licenses#lekt3206))
 :::
-## Lecziun 33 <!-- TODO: Fallback translation -->
+## Lecziun 33
 
 
 
@@ -2610,7 +2606,7 @@ Inf. ⟪चेतुम्⟫
 Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Font da l'imagines: [Detagls](/licenses#lekt3601))
 :::
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : ir, ir enavon <!-- TODO: Fallback translation -->
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : ir, ir enavon
 
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -2639,7 +2635,7 @@ da quai:
 Abb.: ⟪अनगार्यम्⟫
 (Font da l'imagines: [Detagls](/licenses#lekt3603))
 :::
-⟪अञ्जलि⟫ m.: ils mauns levads e giuntads per onur <!-- TODO: Fallback translation -->
+⟪अञ्जलि⟫ m.: ils mauns levads e giuntads per onur
 
 ⟪आदृत⟫ 3: stimà
 
@@ -2652,9 +2648,9 @@ Abb.: ⟪अनगार्यम्⟫
 ::: indent
 ⟪पृष्ठम्⟫ : davos
 :::
-⟪प्रजापति⟫ m.: signur dals essers, dieu creator <!-- TODO: Fallback translation -->
+⟪प्रजापति⟫ m.: signur dals essers, dieu creator
 
-⟪अनु⟫ Präverb: suenter, lung, sur - enavon, tenor, davos - giu <!-- TODO: Fallback translation -->
+⟪अनु⟫ Präverb: suenter, lung, sur - enavon, tenor, davos - giu
 
 ::: indent
 p.ex.
@@ -2694,7 +2690,7 @@ PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : deliziar, cuntentar; amar, esser favorabel envers <!-- TODO: Fallback translation -->
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : deliziar, cuntentar; amar, esser favorabel envers
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : esser cuntent
 
@@ -2866,7 +2862,7 @@ Abb.: ⟪ब्रह्मा⟫
 ::: indent
 ⟪कर्मविपाक⟫ m.: ring da las acziuns = las consequenzas bonas e malas d'acziuns en existenzias passadas (a ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: elefant (_Elephas maximus_) <!-- TODO: Fallback translation -->
+⟪हस्तिन्⟫ m.: elefant (_Elephas maximus_)
 
 ⟪मनु⟫ m.: uman, um; num dal bab da la spezga umana (a ⟪मन्⟫ 4Ā)
 
@@ -2892,7 +2888,7 @@ da quai:
 ⟪शोक⟫ m.: dolientscha, tristezza
 
 ⟪अशोक⟫ 3: liber da dolientscha; plantà Ashoka = _Saraca asoca_ (Roxb.) Wilde; num da l'imperatur Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 a.C.)
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -2905,7 +2901,7 @@ Abb.: ⟪अशोकवृक्षः⟫
 Abb.: ⟪अशोकसाम्राज्यम्⟫
 (Fonta da l’imagina: [Detagls](/licenses#lekt3811))
 :::
-## Lecziun 40 <!-- TODO: Fallback translation -->
+## Lecziun 40
 
 
 
@@ -2976,7 +2972,7 @@ Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 Abb.: ⟪तीर्थङ्करः⟫
 (Fonta da l’imagina: [Detagls](/licenses#lekt4002))
 :::
-⟪अव⟫ preverb: giu, enavos, lunsch, a- <!-- TODO: Fallback translation -->
+⟪अव⟫ preverb: giu, enavos, lunsch, a-
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : scender
 
@@ -3012,7 +3008,7 @@ da quai:
 Abb.: ⟪स्वपन्ति⟫
 (Fonta da l’imagina: [Detagls](/licenses#lekt4004))
 :::
-## Lecziun 41 <!-- TODO: Fallback translation -->
+## Lecziun 41
 
 
 
@@ -3077,10 +3073,14 @@ Abb.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (a ⟪सम्⟫-⟪हन्⟫ : cun-schlagar): gruppa, cumponiment, communitad (p.ex. buddhistica)
 
-::: deleteme-box
-v. era:
+⟪कन्या⟫ f.: giuvna, figlia, virginitad
 
-**Payer, Alois (1944–):** Vinayamukha : Concepts base da las regulas dal monasteri e dal dretg dal monasteri dal Theravāda. -- Part I. -- (Materials als concepts base dal buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+⟪अति⟫ prefix: sur, sur-via, sur-fuora (en l’spaizi, en il temp, en il dumber, en la massa, en l’ordineganza, en la pussanza, en l’intensitad), excessivamain
+
+⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : passar
+
+::: indent
+PPP ⟪अतीत⟫ : n. passà
 :::
 ⟪कन्या⟫ f.: giuvna, figlia, virginitad
 
@@ -3091,11 +3091,6 @@ v. era:
 ::: indent
 PPP ⟪अतीत⟫ : n. passà
 :::
-::: deleteme-box
-v. era:
-
-**Payer, Alois (1944–):** Vinayamukha : Concepts base da las regulas dal monasteri e dal dretg dal monasteri dal Theravāda. -- Part I. -- (Materials als concepts base dal buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: giuvna, figlia, virginitad
 
 ⟪अति⟫ prefix: sur, sur-via, sur-fuora (en l’spaizi, en il temp, en il dumber, en la massa, en l’ordineganza, en la pussanza, en l’intensitad), excessivamain
@@ -3105,21 +3100,7 @@ v. era:
 ::: indent
 PPP ⟪अतीत⟫ : n. passà
 :::
-::: deleteme-box
-v. era:
-
-**Payer, Alois (1944–):** Vinayamukha : Concepts base da las regulas dal monasteri e dal dretg dal monasteri dal Theravāda. -- Part I. -- (Materials als concepts base dal buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
-⟪कन्या⟫ f.: giuvna, figlia, virginitad
-
-⟪अति⟫ prefix: sur, sur-via, sur-fuora (en l’spaizi, en il temp, en il dumber, en la massa, en l’ordineganza, en la pussanza, en l’intensitad), excessivamain
-
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : passar
-
-::: indent
-PPP ⟪अतीत⟫ : n. passà
-:::
-## Lecziun 42 <!-- TODO: Fallback translation -->
+## Lecziun 42
 
 
 
@@ -3129,7 +3110,7 @@ PPP ⟪अतीत⟫ : n. passà
 
 ⟪प्रकृति⟫ f.: (a ⟪कृ⟫ + ⟪प्र⟫) furma base, stadi natural, natira; materia prima, substanzia primara
 
-⟪अर्जुन⟫ m. num da persuna: Arjuna, in dals tschintg figls dal ⟪पण्डु⟫. Eroi en il ⟪महाभारत⟫ (v. Basham, Wonder S. 409 - 414) <!-- TODO: Fallback translation -->
+⟪अर्जुन⟫ m. num da persuna: Arjuna, in dals tschintg figls dal ⟪पण्डु⟫. Eroi en il ⟪महाभारत⟫ (v. Basham, Wonder S. 409 - 414)
 
 
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstener da, piglir davent, s'allontanar, restar, star
@@ -3271,7 +3252,7 @@ A quels vegnan executads ritgs, cunvegnids ⟪श्राद्ध⟫ n. Mintga
 Abb.: ⟪आपणः⟫
 (sursainta da l’imagines: [detagls](/licenses#lekt4302))
 :::
-⟪सत्वर⟫ 3: svelt, spert <!-- TODO: Fallback translation -->
+⟪सत्वर⟫ 3: svelt, spert
 
 ⟪पण्य⟫ 3: cumenzaivel; n.: mercanzia, commerzi
 
@@ -3280,7 +3261,7 @@ Abb.: ⟪आपणः⟫
 Abb.: ⟪पण्यानि⟫
 (sursainta da l’imagines: [detagls](/licenses#lekt4303))
 :::
-⟪आम्⟫: gi <!-- TODO: Fallback translation -->
+⟪आम्⟫: gi
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -3303,14 +3284,14 @@ Abb.: ⟪पण्यानि⟫
 Abb.: ⟪विपणिः⟫
 (sursainta da l’imagines: [detagls](/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: mercader <!-- TODO: Fallback translation -->
+⟪वणिज्⟫ m.: mercader
 
 ::: media
 ![](/images/lekt4305.webp)
 Abb.: ⟪वणिक्⟫
 (sursainta da l’imagines: [detagls](/licenses#lekt4305))
 :::
-⟪वर⟫ 3: il pli bun <!-- TODO: Fallback translation -->
+⟪वर⟫ 3: il pli bun
 
 ⟪शीघ्र⟫ 3: svelt, spert
 
@@ -3321,7 +3302,7 @@ Abb.: ⟪वणिक्⟫
 Abb.: ⟪वत्सः⟫
 (sursainta da l’imagines: [detagls](/licenses#lekt4306))
 :::
-⟪उत्तम⟫ 3: il pli aut, il meglier <!-- TODO: Fallback translation -->
+⟪उत्तम⟫ 3: il pli aut, il meglier
 
 ⟪अल्प⟫ 3: pitschen, bass
 
@@ -3342,7 +3323,7 @@ Abb.: ⟪वत्सः⟫
 Abb.: ⟪तोलन्ति⟫
 (sursainta da l’imagines: [detagls](/licenses#lekt4307))
 :::
-⟪कर्गल⟫ n.: pè <!-- TODO: Fallback translation -->
+⟪कर्गल⟫ n.: pè
 
 ⟪संपुट⟫ m.: scatla (qua: plic, fascicul)
 
@@ -3387,7 +3368,7 @@ Inf. ⟪द्रोतुम्⟫
 
 
 
-⟪प्रति⟫ preverb: enavos, cunter, cuntra - giu <!-- TODO: Fallback translation -->
+⟪प्रति⟫ preverb: enavos, cunter, cuntra - giu
 
 ::: indent
 p.ex.
@@ -3436,7 +3417,7 @@ dafrom:
 Abb.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (sursa d’imagia: [detagl](/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : s’allegrar da (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : s’allegrar da (⟪तृतीयया⟫)
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -3518,31 +3499,15 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (a ⟪प्र⟫-⟪व्रज्⟫): il sortir da la chasa en l’inaumansadad ; ceremonia cun la quala si deventa noviz buddist (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Vair:
-
-**Payer, Alois (1944–):** Vinayamukha : concepts base dals regulaments da l’ordinaziun e dal dretg da l’ordinaziun dal Theravāda. -- Part I. -- (Materialas als concepts base dal Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (sursa d’imagia: [detagl](/licenses#lekt4408))
 :::
-::: deleteme-box
-Vair:
-
-**Payer, Alois (1944–):** Vinayamukha : concepts base dals regulaments da l’ordinaziun e dal dretg da l’ordinaziun dal Theravāda. -- Part I. -- (Materialas als concepts base dal Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (sursa d’imagia: [detagl](/licenses#lekt4408))
-:::
-::: deleteme-box
-Vair:
-
-**Payer, Alois (1944–):** Vinayamukha : concepts base dals regulaments da l’ordinaziun e dal dretg da l’ordinaziun dal Theravāda. -- Part I. -- (Materialas als concepts base dal Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3685,7 +3650,7 @@ Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 :::
 ::: indent
-1 ⟪महामात्र⟫ m. "Elefantführer"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Furmaziun da pleds: A. Payer) <!-- TODO: Fallback translation -->
+1 ⟪महामात्र⟫ m. "Elefantführer"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Furmaziun da pleds: A. Payer)
 
 :::
 ⟪विभ्रम⟫ m.: s'andir ed irgar
@@ -3711,7 +3676,7 @@ davon:
 Abb.: [⟪श्रान्तः⟫](/licenses#lekt4609)
 (Bildquelle: [Details](/licenses#lekt4609))
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : s'appuyer, se reposer (⟪द्वितीयया⟫, ⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : s'appuyer, se reposer (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
@@ -3740,7 +3705,7 @@ davon:
 Abb.: [⟪सङ्गः⟫](/licenses#lekt4610)
 (Bildquelle: [Details](/licenses#lekt4610))
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : currir, s'accelerar <!-- TODO: Fallback translation -->
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : currir, s'accelerar
 
 ::: indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
@@ -3782,7 +3747,7 @@ Absol. -⟪लम्ब्य⟫
 Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
 (Bildquelle: [Details](/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : s'attacher a (⟪द्वितीयया⟫) <!-- TODO: Fallback translation -->
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : s'attacher a (⟪द्वितीयया⟫)
 
 ⟪यदि⟫ Konjunktion:  wenn
 
@@ -3792,7 +3757,7 @@ Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/lic
 PPP ⟪परिभूत⟫ 3: sconfigì, umilià, abassà
 
 :::
-⟪नि⟫ Präverb: vers il bas, giu, enavos, indaifer <!-- TODO: Fallback translation -->
+⟪नि⟫ Präverb: vers il bas, giu, enavos, indaifer
 
 ::: indent
 p.ex.
@@ -3806,7 +3771,7 @@ p.ex.
 Abb.: [⟪भोः⟫](/licenses#lekt4611)
 (Bildquelle: [Details](/licenses#lekt4611))
 :::
-## Lecziun 48 <!-- TODO: Fallback translation -->
+## Lecziun 48
 
 
 
@@ -3871,7 +3836,7 @@ Fig.: ⟪कुमारः⟫
 Festa da Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 (Fonta da l'imagines: [Detagls](/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: uffanta, figlia <!-- TODO: Fallback translation -->
+⟪कुमारी⟫ f.: uffanta, figlia
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -3919,7 +3884,7 @@ Fig.: ⟪मम⟫ ⟪जाया⟫
 (Imagina: Payer)
 (Fonta da l'imagines: [Detagls](/licenses#lekt4809))
 :::
-## Lecziun 49 <!-- TODO: Fallback translation -->
+## Lecziun 49
 
 
 
@@ -3944,7 +3909,7 @@ vesair:
 ::: indent
 **Carakasaṃhitā:** Texts selecziunads da la Carakasaṃhitā / tradusì e commentà d'Alois Payer (1944–). -- 0. Introducziun. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : lantschar, serrar <!-- TODO: Fallback translation -->
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : lantschar, serrar
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -3984,7 +3949,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Abb.: ⟪कुलूहलम्⟫
 (sursa d’imagines: [detagl](/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: tut, cumpletamain <!-- TODO: Fallback translation -->
+⟪कृत्स्न⟫ 3: tut, cumpletamain
 
 ⟪परिचय⟫ m.: cuschientscha
 
@@ -3996,9 +3961,9 @@ Abb.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, 11. tschientaner
 (sursa d’imagines: [detagl](/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: desideri <!-- TODO: Fallback translation -->
+⟪वर⟫ m.n.: desideri
 
-⟪उत⟫ Indekl.: ed, era, u <!-- TODO: Fallback translation -->
+⟪उत⟫ Indekl.: ed, era, u
 
 ⟪विहंग⟫ m.: uccel («en il स्traum - ⟪विह⟫ - endatast»)
 
@@ -4007,7 +3972,7 @@ Abb.: ⟪उत्तमा⟫ ⟪काला⟫
 Abb.: ⟪विहंगः⟫
 (sursa d’imagines: [detagl](/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: vestgì, aspect, aparientscha <!-- TODO: Fallback translation -->
+⟪वेष⟫ m.: vestgì, aspect, aparientscha
 
 ::: media
 ![](/images/lekt4904.webp)
@@ -4015,7 +3980,7 @@ Abb.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
 (sursa d’imagines: [detagl](/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: stergl, nascondider <!-- TODO: Fallback translation -->
+⟪छन्न⟫ n.: stergl, nascondider
 
 ⟪पञ्जर⟫ n.: gabbia
 
@@ -4025,9 +3990,9 @@ Abb.: ⟪पञ्जरम्⟫
 Profet cun papegaj en gabbia: il papegaj tirà zitschels, sin quai ch’i stat il destins Mysore
 (sursa d’imagines: [detagl](/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: stgala la pli bassa dals [Dalits](http://de.wikipedia.org/wiki/Dalit) <!-- TODO: Fallback translation -->
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: stgala la pli bassa dals [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: sez, da sez <!-- TODO: Fallback translation -->
+⟪स्वयम्⟫ Indekl.: sez, da sez
 
 ⟪अवनि⟫ f.: terra
 
@@ -4052,9 +4017,9 @@ Abb.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (sursa d’imagines: [detagl](/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: il pli lunsch, il pli aut ; ⟪पञ्चम्या⟫ : meglier che, pli aut che <!-- TODO: Fallback translation -->
+⟪परम⟫ 3: il pli lunsch, il pli aut ; ⟪पञ्चम्या⟫ : meglier che, pli aut che
 
 ⟪शिशु⟫ m.: uffant, giuvenil
 
@@ -4064,7 +4029,7 @@ Abb.: ⟪गजशिशुः⟫
 Sri Lanka
 (sursa d’imagines: [detagl](/licenses#lekt4906))
 :::
-## Lecziun 50 <!-- TODO: Fallback translation -->
+## Lecziun 50
 
 
 
@@ -4407,14 +4372,14 @@ Hope Diamond da Guntur = ಗುಂತೂರು, oz Smithsonian Museum of Natural
 :::
 ⟪वन⟫ n.: foresta
 
-⟪मद⟫ m.: er "saff da rutgira" d'in elefant (en il [Musht](http://en.wikipedia.org/wiki/Musth)) <!-- TODO: Fallback translation -->
+⟪मद⟫ m.: er "saff da rutgira" d'in elefant (en il [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
 ![](/images/lekt5117.webp)
 Abb.: ⟪मदः⟫
 (Fonta da l'imagines: [Detagls](/licenses#lekt5117))
 :::
-⟪राग⟫ m.: er: colur, colur cotschna <!-- TODO: Fallback translation -->
+⟪राग⟫ m.: er: colur, colur cotschna
 
 ⟪कालन⟫ n.: foresta
 
@@ -4456,7 +4421,7 @@ Abb.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Fonta da l'imagines: [Detagls](/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: intern, en l'intern ; postposiziun cun Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): entaifer, en mez ; postposiziun cun Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): or da ... <!-- TODO: Fallback translation -->
+⟪अन्तर्⟫ Adv.: intern, en l'intern ; postposiziun cun Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): entaifer, en mez ; postposiziun cun Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): or da ...
 
 ⟪अन्योन्य⟫ 3: reciproc, in a l'auter
 
@@ -4506,7 +4471,7 @@ Abb.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
 (sursa d’imagines: [Detagls](/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: aviditad, lussuria <!-- TODO: Fallback translation -->
+⟪लौल्य⟫ n.: aviditad, lussuria
 
 ⟪वर्ग⟫ m.: sectiun, partizialitad, gruppa
 
@@ -4591,7 +4556,7 @@ da quai:
 
 ⟪अमुत्र⟫ Adv.: là, en quella direcziun
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : sa mover, sa spustar, caschentar <!-- TODO: Fallback translation -->
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : sa mover, sa spustar, caschentar
 
 ::: indent
 Perf. IIIa ⟪चुच्युवे⟫
@@ -4610,7 +4575,7 @@ Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (sursa da l’immaisin: [Detagls](/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: plant da banans (_Musa_ sp.) <!-- TODO: Fallback translation -->
+⟪कदली⟫ f.: plant da banans (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -4618,11 +4583,11 @@ Abb.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (sursa da l’immaisin: [Detagls](/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: tschendra, midolla, essenza, substanzia <!-- TODO: Fallback translation -->
+⟪सार⟫ m.n.: tschendra, midolla, essenza, substanzia
 
 ⟪दिव्य⟫ 3: celestial, divin
 
-⟪वर⟫ 3: il pli bun <!-- TODO: Fallback translation -->
+⟪वर⟫ 3: il pli bun
 
 ⟪आदर्श⟫ m.: mirur
 
@@ -4634,7 +4599,7 @@ Abb.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (sursa da l’immaisin: [Detagls](/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: il tschiel d’Indra <!-- TODO: Fallback translation -->
+⟪त्रिपिष्टप⟫ n.: il tschiel d’Indra
 
 ⟪मार⟫ m.: il mal personifitgà, la seducziun/personificaziun/manipulaziun, diavol
 
@@ -4644,7 +4609,7 @@ Abb.:
 Amaravati = అమరావతి, 2. tschientaner p. Chr.
 (sursa da l’immaisin: [Detagls](/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: in che vul reconuscher cumplettamain <!-- TODO: Fallback translation -->
+⟪विजिज्ञासु⟫ 3: in che vul reconuscher cumplettamain
 
 ⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : proteger, salvar
 
@@ -4660,13 +4625,13 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt0201**: represchentaziun da la partiziun dals estaments dal temp medieval europeic (xilografia dalla fin dal 15. tschientaner). Inscripziun: * Stend da l’eglía (~Brāhmaṇa): Tu supplex ora = Ti pregia cun sottomissiun! * Stend da l’aristocrazia (~Kṣatriya): Tu protege = Ti protegia! * Stend dals purs (~Vaiśya/Śūdra): Tuque labora = Ed ti lavura! Ils trais estaments portan l’abits da lur respectiv stend. Sora dals – uschia designads sco volì da Dieu – estaments trona Christ. [Sursa da l’immaisin: Meyer, Werner: Hirsebrei und Hellebarde : sin las trassas da la vita medievala en Svizra . -- 2. ediziun. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- p. 129]
 
-**lekt0203**: Dieu Agni, miniatura, 18. tschientaner [Sursa da l’immaisin: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt0203**: Dieu Agni, miniatura, 18. tschientaner [Sursa da l’immaisin: Wikipedia, Public domain]
 
 **lekt0202**: Sādhu (⟪साधु⟫), Temple Pashupatinath (⟪पशुपतिनाथ⟫ ⟪मन्दिर⟫), Kathmandu (⟪काठमांडौ⟫), Nepal (⟪नेपाल⟫), 2007 [Sursa da l’immaisin: Peter Akkermans, Wikipedia, Licenza GNU FDL]
 
 **lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Sursa da l’immaisin: Wikipedia, Licenza GNU FDL]
 
-**lekt0501**: Dieu Kāma = kāmadeva = ⟪कामदेव⟫, 18. tschientaner. [Sursa da l’immaisin: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt0501**: Dieu Kāma = kāmadeva = ⟪कामदेव⟫, 18. tschientaner. [Sursa da l’immaisin: Wikipedia, Public domain]
 
 **lekt0701**: Era quai la planta da soma vedica?: Fungus del diavol: Amanita muscaria (L.) Lam. [Sursa da l’immaisin: Wikipedia, Licenza GNU FDL]
 
@@ -4679,7 +4644,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt0902**: kāru = ⟪कारु⟫, Gujarat [Quella da l'imagines: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Access il 2008-11-23. -- Licenza Creative Commons (Attribuziun, nagina utilizaziun cummerciala, nagina modificaziun)]
 
-**lekt1003**: Dieu Varuṇa = ⟪वरुण⟫, 17. tschientaner [Quella da l'imagines: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1003**: Dieu Varuṇa = ⟪वरुण⟫, 17. tschientaner [Quella da l'imagines: Wikipedia, Public domain]
 
 **lekt1002**: In Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / da Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Quella da l'imagines: Wikipedia, Public domain]
 
@@ -4714,7 +4679,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1809**: ⟪कामः⟫ Illustraziun al ⟪कामसूत्र⟫ [Qua da l'imagines: Wikipedia, Public domain]
 
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Qua da l'imagines: Sudarshan Bhat Khandige / Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Qua da l'imagines: Sudarshan Bhat Khandige / Wikipedia, Public domain]
 
 **lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Qua da l'imagines: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Access il 2008-12-08. -- Licenza Creative Commons (Attribuziun, nagina utilisaziun cummerciala, nagina modificaziun)]
 
@@ -4730,7 +4695,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2104**: ⟪भिक्षवः⟫ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Qua da l'imagines: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Access il 2008-12-12. -- Licenza Creative Commons (Attribuziun, nagina utilisaziun cummerciala)]
 
-**lekt2202**: ⟪कामदेवः⟫ , 19avel tschientaner [Qua da l'imagines: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2202**: ⟪कामदेवः⟫ , 19avel tschientaner [Qua da l'imagines: Wikipedia, Public domain]
 
 **lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Qua da l'imagines: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Access il 2008-12-12. -- Licenza Creative Commons (Attribuziun, nagina utilisaziun cummerciala, nagina modificaziun)]
 
@@ -4765,10 +4730,10 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2704**: ⟪हरिहरः⟫ (a sanestra: ⟪विष्णु⟫, a dretga: ⟪शिव⟫) [sursaintgiamna: Wikipedia. Public domain]
 
-**lekt2705**: ⟪हरिहरः⟫ (a sanestra: ⟪विष्णु⟫, a dretga: ⟪शिव⟫) Godrumdwip, West Bengal = পশ্চিমবঙ্গ [sursaintgiamna: GourangaUK / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2705**: ⟪हरिहरः⟫ (a sanestra: ⟪विष्णु⟫, a dretga: ⟪शिव⟫) Godrumdwip, West Bengal = পশ্চিমবঙ্গ [sursaintgiamna: GourangaUK / Wikipedia. GNU FDLicense]
 
 
-**lekt2804**: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫ quadres da ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [surs da l'imagina: Wikipedia. Dominium public] <!-- TODO: Fallback translation -->
+**lekt2804**: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫ quadres da ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [surs da l'imagina: Wikipedia. Dominium public]
 
 **lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [surs da l'imagina: Kelvin Kay / Wikipedia. Licenza GNU FD]
 
@@ -4801,19 +4766,19 @@ Inf. ⟪त्रातुम्⟫
 **lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [surs da l'imagina: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Accessi il 2008-12-25. -- Licenza Creative Commons (attribuziun, betg per finanzas commercialas, share alike)]
 
 
-**lekt3204**: ⟪उपलाः⟫ "Las stailas qua èn qua èn uschè dur che ils scavagners ch’han surpiglià la cava abandonada al sid dal center da citad na vulan betg frappar els directamain cun lur martells. Els scalan ils sasso avant — cun pneus ardents, plastica da sfrid, era vials stivals da goma — uschia che ils sasso safractureschan pli bain. A la stgirada, cura che trais u quatter flammens vomiteschan nischas da füm stgiras tras la gronda cava, paret la cava sco in’incisiun da Dante. A l’entrada da questa cava da sasso en Pune Maharashtra lavuran femnas pitschnas en saris 14 uras per turnus e frappan stailas a pezzedins da sasso gronds sco in pèl de cricket. Martells grondens taclan l’aria al sün da staila frachentada. Directamain suenter els ruggavan gronds machines che mangiavan sasso e vomitavan suletamain gravel da construcziun. Il visadi da quasi mintga persuna era stgargià cun naivla alva. Ina naivla, pesanta e suffocanta, flottanta en l’aria sco la glina che cuvra tut." [Bildquelle: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt3204**: ⟪उपलाः⟫ "Las stailas qua èn qua èn uschè dur che ils scavagners ch’han surpiglià la cava abandonada al sid dal center da citad na vulan betg frappar els directamain cun lur martells. Els scalan ils sasso avant — cun pneus ardents, plastica da sfrid, era vials stivals da goma — uschia che ils sasso safractureschan pli bain. A la stgirada, cura che trais u quatter flammens vomiteschan nischas da füm stgiras tras la gronda cava, paret la cava sco in’incisiun da Dante. A l’entrada da questa cava da sasso en Pune Maharashtra lavuran femnas pitschnas en saris 14 uras per turnus e frappan stailas a pezzedins da sasso gronds sco in pèl de cricket. Martells grondens taclan l’aria al sün da staila frachentada. Directamain suenter els ruggavan gronds machines che mangiavan sasso e vomitavan suletamain gravel da construcziun. Il visadi da quasi mintga persuna era stgargià cun naivla alva. Ina naivla, pesanta e suffocanta, flottanta en l’aria sco la glina che cuvra tut." [Bildquelle: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 
-**lekt3205**: ⟪लक्ष्यम्⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt3205**: ⟪लक्ष्यम्⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Bearbeitung)]
 
-**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: sterc da vacca) Rajasthan [Bildquelle: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: sterc da vacca) Rajasthan [Bildquelle: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 
-**lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Bildquelle: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Bildquelle: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 
 **lekt3306**: ⟪दानम्⟫ "Il 20 d’agost 2005 a Chennai, India han mes proxims gendrets nus dà ina festa d’engaschament formala indiana. Paret sco sche fuss in matrimoni, ma n’è betg, usà fan els las chosas. Uschè extravagant. Quest eveniment era ina gronda benedicziun per mai. Mai avant ma sentì uschè amà d’ina autra famiglia. Jau avess mo giavischà che mia famiglia pudess esser stada qua, ma almain hai jau in video da tut l’eveniment per partilhar. Mes proxims gendrets han fatg tut possible en 3 dis. Tut tranter invitaziuns fin in fotograf profetziunà. Era fantastic, ultra da quai ch’ins po explicar las emoziuns fluindas." [Quelle von Bild und Text: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, share alike)]
 
-**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 
-**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]
 
 
 **lekt3304**: ⟪भयम्⟫ Mumbai = ⟪मुंबई⟫, 2008 [sursa d’imagina: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Accessà il 26.12.2008. -- Licenza Creative Commons (attribuziun)]
@@ -4826,11 +4791,11 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3406**: ⟪सस्यम्⟫ [sursa d’imagina: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183806492/. -- Accessà il 27.12.2008. -- Licenza Creative Commons (attribuziun, betg d’utilisaziun cummerciala, betg da modificar)]
 
-**lekt3405**: ⟪लक्षद्वीपाः⟫ = ലക്ഷദ്വീപ് = las 100.000 (⟪लक्ष⟫ m.n.) inslas (territori d’uniun) [sursa d’imagina: CIA. Dominium public] <!-- TODO: Fallback translation -->
+**lekt3405**: ⟪लक्षद्वीपाः⟫ = ലക്ഷദ്വീപ് = las 100.000 (⟪लक्ष⟫ m.n.) inslas (territori d’uniun) [sursa d’imagina: CIA. Dominium public]
 
-**lekt3403**: ⟪तिलाः⟫ [sursa d’imagina: Wikipedia. Dominium public] <!-- TODO: Fallback translation -->
+**lekt3403**: ⟪तिलाः⟫ [sursa d’imagina: Wikipedia. Dominium public]
 
-**lekt3404**: ⟪तिलाः⟫ [sursa d’imagina: Franz Xaver / Wikipedia. Licenza GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt3404**: ⟪तिलाः⟫ [sursa d’imagina: Franz Xaver / Wikipedia. Licenza GNU FDLicense]
 
 **lekt3402**: ⟪स्वर्णम्⟫ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿਬ, Amritsar = ਅੰਮ੍ਰਿਤਸਰ [sursa d’imagina: Wikipedia. Licenza GNU FDLicense]
 
@@ -4859,7 +4824,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3805**: ⟪उदकम्⟫ Darewadi village, Ahmed Nagar District = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [sursa d’imagia: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- accès il 2009-01-01. -- Licenza Creative Commons (attribuziun, nagina utilisaziun cummerciala, share alike)]
 
-**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, 2./3. s. suenter Crist [sursa d’imagia: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, 2./3. s. suenter Crist [sursa d’imagia: Wikipedia. Public domain]
 
 **lekt3809**: ⟪ब्रह्मा⟫ Halebidu = ಹಳೆಬೀಡು [sursa d’imagia: Wikipedia. GNU FDLicense]
 
@@ -4888,7 +4853,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4109**: ⟪शासना⟫ Edict d’Ashoka, Dhauli, Orissa [Sursa da l’imagina: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Access il di 2009-01-03. -- Licenza Creative Commons (attribuziun, betg per finanzas)]
 
-**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), circa 1898 [Sursa da l’imagina: Wikipedia. Domin public] <!-- TODO: Fallback translation -->
+**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), circa 1898 [Sursa da l’imagina: Wikipedia. Domin public]
 
 **lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ Il Diwan I Khas, u sala d’audienzas privatas al Lal Qila (Fort Rausch) a Delhi. [Sursa da l’imagina: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Access il di 2009-01-04. -- Licenza Creative Commons (attribuziun, betg per finanzas, share alike)]
 
@@ -4917,15 +4882,15 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [sursaint dal foto: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- accedì il 2009-01-08. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala, nagina modificaziun)]
 
-**lekt4602**: ⟪नवग्रहाः⟫ [sursaint dal foto da ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licenza GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4602**: ⟪नवग्रहाः⟫ [sursaint dal foto da ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licenza GNU FDLicense]
 
-**lekt4603**: ⟪नवग्रहाः⟫ [sursaint dal foto da ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licenza GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4603**: ⟪नवग्रहाः⟫ [sursaint dal foto da ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licenza GNU FDLicense]
 
-**lekt4604**: ⟪नवग्रहाः⟫ [sursaint dal foto da ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licenza GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4604**: ⟪नवग्रहाः⟫ [sursaint dal foto da ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licenza GNU FDLicense]
 
-**lekt4605**: ⟪नवग्रहाः⟫ [sursaint dal foto da ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licenza GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4605**: ⟪नवग्रहाः⟫ [sursaint dal foto da ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licenza GNU FDLicense]
 
-**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = il re da serp il pli aut) [sursaint dal foto: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = il re da serp il pli aut) [sursaint dal foto: Wikipedia. Public domain]
 
 **lekt4606**: ⟪अश्वरोहकः⟫ Pune = ⟪पुणे⟫ [sursaint dal foto: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- accedì il 2009-01-08. -- Licenza Creative Commons (attribuziun)]
 
@@ -4979,9 +4944,9 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt5003**: ⟪कल्याणी⟫ [sursa da l’imagines: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- consultà il 2009-01-12. -- Licenza Creative Commons (attribuziun, nagina utilizaziun cummerciala, nagina modificaziun)]
 
-**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [sursa da l’imagines: Kounosu / Wikipedia. Licenza GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [sursa da l’imagines: Kounosu / Wikipedia. Licenza GNU FDLicense]
 
-**lekt5105**: ⟪कृष्णमृगः⟫ Antilopa da cervo -- _Antilope cervicapra_ L., masc [sursa da l’imagines: Wikipedia, public domain] <!-- TODO: Fallback translation -->
+**lekt5105**: ⟪कृष्णमृगः⟫ Antilopa da cervo -- _Antilope cervicapra_ L., masc [sursa da l’imagines: Wikipedia, public domain]
 
 **lekt5106**: ⟪ऋतुः⟫ "Representaziun grafica per il calcular ils dis fertils suenter OGINO cun intervalls da cicla da 26 fin 30 dis... [sursa per text ed imagines: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. consultà il 2003-12-16]
 
@@ -5023,6 +4988,4 @@ Inf. ⟪त्रातुम्⟫
 **lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Fontana da l'immagina: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Access il di 2009-01-16. -- Licenza Creative Commons (Attribuziun)]
 
 **lekt5217**: Atac da Māras sin Buddha Amaravati = అమరావతి, 2. tschientaner p. Chr. [Fontana da l'immagina. Wikipedia. Licenza GNU FDLicense]
-
-
 

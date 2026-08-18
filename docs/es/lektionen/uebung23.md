@@ -1,8 +1,9 @@
 ---
-title: "Ejercicio 23"
+title: "[Ejercicio 23]"
 uebung_id: 23
-category: "Ejercicio"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -60,38 +61,36 @@ B) Las siguientes raíces forman el infinitivo con vocal de unión -i-. Forme el
 
 C) Las siguientes raíces opcionalmente con o sin vocal de unión:
 
-1.  ⟪अश्⟫ — **⟪अशितुम्⟫** / **⟪अष्टुम्⟫**
-2.  ⟪इष्⟫ — **⟪एष्टुम्⟫** / **⟪एषितुम्⟫**
-3.  ⟪बुध्⟫ — **⟪बोधितुम्⟫** / **⟪बोद्धुम्⟫**
-4.  ⟪मुह्⟫ — **⟪मोहितुम्⟫** / **⟪मग्धुम्⟫** / **⟪मोढुम्⟫**
-5.  ⟪सह्⟫ — **⟪सहितुम्⟫** / **⟪सोढुम्⟫**
+D) Traduzca y descomponga los compuestos:
 
-D) Traduzca y resuelva los compuestos:
+⟪१⟫. **⟪नराः स्वर्गं लब्धुं देवान्यज्ञ्नैर्यष्टुमिच्छन्ति ॥१॥⟫**
+Para alcanzar el cielo, los seres desean honrar a los dioses con ofrendas.
 
-⟪१⟫. **⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञ्नैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫**
-Para obtener un cielo, los seres humanos desean honrar a los dioses con ofrendas.
+⟪२⟫. **⟪महापुण्यं कृत्वा गतपापजनेन नरकं गन्तुं न शक्यते ॥२॥⟫**
+(⟪महत्पुण्यम् । गतं पापं यस्य तेन जनेन⟫)
+Si alguien ha realizado muchas acciones meritorias, un ser libre del mal no puede caer en el infierno.
 
-⟪२⟫. **⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫**
-(⟪महत्पुण्यम्⟫ ⟪।⟫ ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪जनेन⟫)
-Si alguien ha realizado muchas acciones meritorias, un ser humano libre del mal no puede caer en un infierno.
-
-⟪३⟫. **⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫**
-(⟪सञ्जनः⟫ ⟪।⟫ ⟪न⟫ ⟪धर्मम्⟫)
+⟪३⟫. **⟪फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥⟫**
+(⟪सञ्जनः । न धर्मम्⟫)
 Dado que las acciones meritorias son fértiles, una buena persona no desea hacer injusticias.
 
-⟪४⟫. **⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫**
+⟪४⟫. **⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥⟫**
 Para liberar los mundos, Buda enseña las verdades nobles.
 
-⟪५⟫. **⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सहात्⟫tu⟪ं⟫ ⟪नार्हति⟫ ⟪॥५॥⟫**
-(⟪शूद्राणां⟫ ⟪जनः⟫)
-Los śūdras no tienen permitido comer junto con un brahmāṇa.
+⟪५⟫. **⟪शूद्रजनो ब्राह्मणेन सहात्⟫tu⟪ं नार्हति ॥५॥⟫**
+(⟪शूद्राणां जनः⟫)
+Los śūdras no deben comer junto con un brahmán.
 
-⟪६⟫. **⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫**
-(⟪लोभेन⟫ ⟪सम्पन्ना⟫ ⟪नराः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्ताम्⟫)
+⟪६⟫. **⟪लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥⟫**
+(⟪लोभेन सम्पन्ना नराः । सम्पन्नं रूपं यस्यास्ताम्⟫)
 Llenos de codicia, los hombres se fueron para ver bailar a la hermosa sirvienta.
 
-⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert. &lt;!-- TODO: Fallback translation --&gt;
+⟪७⟫. **⟪शूद्रया संगत्य ब्राह्मणो यष्टुं नार्हति ॥७॥⟫**
+Si un brahmán tuvo relaciones sexuales con una śūdra, no debe realizar ofrendas.
+
+⟪८⟫. **⟪धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥⟫**
+(⟪श्रोतुं कामो यस्याः सा । पुत्रेण सह । महन्नगरम्⟫)
+Como ella quería escuchar sobre el dharma, la brahmán fue con su hijo a la gran ciudad para encontrar al maestro.
 
 ⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
@@ -112,7 +111,7 @@ Comer, dormir, temer y tener sexo son comunes a los seres humanos y al ganado. L
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung035))
 :::
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 ## Ejercicios adicionales
 

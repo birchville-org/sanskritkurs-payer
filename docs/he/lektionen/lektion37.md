@@ -161,7 +161,7 @@ status: stable
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -182,7 +182,7 @@ status: stable
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. מורכבות תיאוריות (אדוורביאליות)
@@ -518,17 +518,3 @@ C) תרגמו את ⟪अव्ययीभाव⟫ הבאים:
 
 יום אחד זקן כלשהו הלך לכפר אחר, ועייף בדרך. אז הלך לנוח לרגל עץ מנגו שעמד בצד. על עץ זה היו פירות בשלים. הזקן התחשק לו בפירות אלה. אך לא יכל לטפס על העץ ולא לתפוס את הפירות. במזל היו על העץ קופאים כלשהם שאכלו פירות. כשראה אותם, שמח הזקן. מה עשה? לקח כמה אבנים, כיוון אל הקופאים וזרק. הקופאים הכעוסים קטפו פירות כלשהם וזרקו אותם על הזקן. הזקן קיבל אותם בשמחה והלך לאזור הרצוי לו. ראו, גורל הזקן!
 
-::: deleteme-box
-
-- **תמונה lekt3701.jpg** (איור: ⟪क्व⟫): [מקור התמונה: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- נגיש ב-2008-12-30. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
-- **תמונה lekt3702.jpg** (איור: ⟪यथाशक्ति⟫): [מקור התמונה: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- נגיש ב-2008-12-30. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
-- **תמונה lekt3703.jpg** (איור: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [מקור התמונה: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- נגיש ב-2008-12-30. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
-- **תמונה lekt3704.jpg** (איור: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [מקור התמונה: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- נגיש ב-2008-12-30. -- רישיון Creative Commons (ייחוס)]
-- **תמונה lekt3705.jpg** (איור: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [מקור התמונה: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- נגיש ב-2008-12-31. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
-- **תמונה lekt3706.jpg** (איור: ⟪वृक्षः⟫): Jaipur [מקור התמונה: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- נגיש ב-2008-12-31. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, share alike)]
-- **תמונה lekt3707.jpg** (איור: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): ציור מאת ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [מקור התמונה: Wikipedia. Public domain]
-- **תמונה lekt3708.jpg** (איור: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [מקור התמונה: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- נגיש ב-2008-12-31. -- רישיון Creative Commons (ייחוס)]
-- **תמונה lekt3709.jpg** (איור: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [מקור התמונה: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- נגיש ב-2008-12-31. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
-- **תמונה lekt3710.jpg** (איור: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [מקור התמונה: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- נגיש ב-2008-12-31. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, share alike)]
-- **תמונה lekt3711.jpg** (איור: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [מקור התמונה: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- נגיש ב-2008-12-31. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)]
-:::

@@ -1,8 +1,9 @@
 ---
 title: "تمرین ۱۲"
 uebung_id: 12
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

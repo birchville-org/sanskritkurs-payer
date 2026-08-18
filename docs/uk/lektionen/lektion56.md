@@ -144,9 +144,9 @@ status: stable
 :::
 
 ::: indent
-Гоффманн, Карл \&lt;1915 - 1996\&gt;: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
+Гоффманн, Карл (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
 :::
-інжунктив у Веді має такі властивості: &lt;!-- TODO: Fallback translation --&gt;
+інжунктив у Веді має такі властивості: &lt;!--  -→
 
 *   він не повідомляє, а згадує
 *   він поза часовими стадіями
@@ -202,14 +202,14 @@ status: stable
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)
 Рис.: ⟪अलं⟫  ⟪विषादेन⟫
 (Джерело зображення: [Деталі](/uk/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫ &lt;!-- TODO: Fallback translation --&gt;
+## 56.4. ⟪स्म⟫ &lt;!--  -→
 
 ::: grammar-box
 **⟪स्म⟫ підкреслює: "дійсно, справді, певно, саме"**
@@ -307,12 +307,3 @@ A) Визначте та перекладіть без довідкових ма
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** Професор порівняльного мовознавства, Університет Ерланген-Нюрнберг (1955 - 1983) [Джерело зображення: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Доступ отримано 2009-02-27]
-
-**lekt5602:** Плакат (Ернесто Че Гевара) політичної партії в Валлачірі (വാല്ലചിര), Трішур (തൃശ്ശൂര്⟪‍⟫). "Приблизний переклад написаного на ньому: Мучеництво є захопливим досвідом для революціонера. І відчайдушний захід для труса. Че не є зразком для наслідування для трусів." [Джерело зображення: Hari\_Menon. -- [http://www.flickr.com/photos/me\_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Доступ отримано 2009-02-27. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, Non-commercial, Share Alike)]
-
-**lekt5603:** [Джерело зображення: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Доступ отримано 2009-02-27. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial, No Derivative Works)] &lt;!-- TODO: Fallback translation --&gt;
-
-:::

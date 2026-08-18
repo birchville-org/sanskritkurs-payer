@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Esergiz 46 <!-- TODO: Fallback translation -->
+# Esergiz 46
 
 A) Determinar e tradurre las suandantas formas:
 
@@ -86,5 +86,5 @@ Per l'insubordinà (non-yogin) n'exista nagina perscrutaziun.
 ![](/images/uebung080.webp)
 Abb.: ⟪सक्तः⟫
 (Sursa da l'imagines: [Detagls](/licenses#uebung080))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

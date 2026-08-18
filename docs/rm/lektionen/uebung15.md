@@ -25,7 +25,7 @@ B) Resolver il suandant Tatpuruṣa:
 
 ⟪३⟫. ⟪नरकाकम्⟫ ⟪।⟫ ⟪काक⟫ ⟪इव⟫ ⟪नरम्⟫ ⟪।⟫ ⟪नर⟫ ⟪एव⟫ ⟪काकम्⟫ — in um sco ina corvia
 
-⟪४⟫. ⟪लोकगुरोः⟫ ⟪।⟫ ⟪लोकस्य⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪लोकानां⟫ ⟪गुरोः⟫ — dal magister / da la glieud / dal mund / dals mund <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪लोकगुरोः⟫ ⟪।⟫ ⟪लोकस्य⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪लोकानां⟫ ⟪गुरोः⟫ — dal magister / da la glieud / dal mund / dals mund
 
 ⟪५⟫. ⟪जलेश्वरेण⟫ ⟪।⟫ ⟪जलस्येश्वरेण⟫ ⟪।⟫ ⟪जालानामीश्वरेण⟫ — tras il SIGNUR dals aua = tras Varuṇa
 
@@ -51,7 +51,7 @@ B) Resolver il suandant Tatpuruṣa:
 
 ⟪१६⟫. ⟪पुण्यजिताभिः⟫ ⟪।⟫ ⟪पुण्येन⟫ ⟪जिताभिः⟫ — tras merit / bunas fatschentas victurusa (fem.)
 
-⟪१७⟫. ⟪पापलोकम्⟫ ⟪।⟫ ⟪पापस्य⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापानां⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापं⟫ ⟪लोकम्⟫ — ils (Acc.) mund dal mal, mund dals malfatgants, infern, mund malveglent <!-- TODO: Fallback translation -->
+⟪१७⟫. ⟪पापलोकम्⟫ ⟪।⟫ ⟪पापस्य⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापानां⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापं⟫ ⟪लोकम्⟫ — ils (Acc.) mund dal mal, mund dals malfatgants, infern, mund malveglent
 
 ⟪१८⟫. ⟪सत्यवदनस्य⟫ ⟪।⟫ ⟪सत्यस्य⟫ ⟪वदनस्य⟫ — dal dir da la veritad
 
@@ -76,7 +76,7 @@ B) Resolver il suandant Tatpuruṣa:
 Abb.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 (font da l'imagia: [detagls](/licenses#uebung014))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercizis supplementars
 
@@ -147,4 +147,3 @@ Resolver ils suandants cumponiments sco Tatpuruṣa en sanscrit e donar ina trad
 Abb.: ⟪गृहकरणम्⟫
 (sursa da l'imaginescha: [detagls](/licenses#uebung016))
 :::
- <!-- TODO: Fallback translation -->

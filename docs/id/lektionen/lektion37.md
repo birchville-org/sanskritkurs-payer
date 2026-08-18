@@ -1,10 +1,11 @@
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "Pelajaran 37"
+subtitle: "Kata keterangan (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 37
@@ -170,7 +171,7 @@ Sebuah kata tanya adverbia lainnya adalah: ⟪क्व⟫ "di mana?"
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
 Ilm.: ⟪क्व⟫
-(Sumber gambar: [Rincian](/licenses#lekt3701))
+(Sumber gambar: [Rincian](/id/licenses#lekt3701))
 :::
 
 ::: grammar-box
@@ -218,7 +219,7 @@ mis. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्त�
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
 Ilustr.: ⟪यथाशक्ति⟫
-(Sumber gambar: [Detail](/licenses#lekt3702))
+(Sumber gambar: [Detail](/id/licenses#lekt3702))
 :::
 ## 37.6. Sintaksis
 
@@ -236,7 +237,7 @@ mis. ⟪तूष्णीं⟫ ⟪बभूव⟫ "ia menjadi diam, ia terdiam
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
 Ilustrasi: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Sumber gambar: [Rincian](/licenses#lekt3703))
+(Sumber gambar: [Rincian](/id/licenses#lekt3703))
 :::
 ## 37.7. Kata Ganti Tak Tentu
 
@@ -306,7 +307,7 @@ Contoh:
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
 Ilm.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Sumber gambar: [Detail](/licenses#lekt3704))
+(Sumber gambar: [Detail](/id/licenses#lekt3704))
 :::
 ### 37.8.2. Kalimat tanya
 
@@ -361,7 +362,7 @@ Catatan: ⟪किम्⟫ dapat, selain "apa?" dan sebagai partikel tanya, jug
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Ilustr.: ⟪शाक्यमुनिः⟫
-(Sumber gambar: [Detail](/licenses#lekt3705))
+(Sumber gambar: [Detail](/id/licenses#lekt3705))
 :::
 ⟪दिन⟫ n.: hari
 
@@ -370,7 +371,7 @@ Ilustr.: ⟪शाक्यमुनिः⟫
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
 Ilustr.: ⟪वृक्षः⟫
-(Sumber gambar: [Detail](/licenses#lekt3706))
+(Sumber gambar: [Detail](/id/licenses#lekt3706))
 :::
 ⟪मुख⟫ n.: mulut, wajah, bagian depan, awal
 
@@ -407,14 +408,14 @@ Contoh: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
 Gbr.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Sumber gambar: [Detail](/licenses#lekt3707))
+(Sumber gambar: [Detail](/id/licenses#lekt3707))
 :::
 ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
 Gbr.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Sumber gambar: [Detail](/licenses#lekt3708))
+(Sumber gambar: [Detail](/id/licenses#lekt3708))
 :::
 ⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
@@ -455,7 +456,7 @@ C) Terjemahkanlah ⟪अव्ययीभाव⟫ berikut :
 ::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
 Gbr.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Sumber gambar: [Detail](/licenses#lekt3709))
+(Sumber gambar: [Detail](/id/licenses#lekt3709))
 :::
 3\. ⟪अनु⟫ "sesuai, sepanjang, menurut"
 
@@ -485,7 +486,7 @@ Gbr.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
 Gbr.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Sumber gambar: [Detail](/licenses#lekt3710))
+(Sumber gambar: [Detail](/id/licenses#lekt3710))
 :::
 7\. ⟪उप⟫ "dekat"
 
@@ -495,7 +496,7 @@ Gbr.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
 Gbr.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Sumber gambar: [Detail](/licenses#lekt3711))
+(Sumber gambar: [Detail](/id/licenses#lekt3711))
 :::
 8\. ⟪यथा⟫
 
@@ -508,17 +509,7 @@ Terjemahkan ke dalam bahasa Sanskerta dengan menggunakan hanya bentuk kata kerja
 
 Ketika suatu kali seorang orang tua pergi ke desa lain, ia kelelahan di perjalanan. Maka ia pergi untuk beristirahat ke bawah pohon mangga yang berdiri di samping jalan. Di atas pohon itu terdapat buah-buahan yang matang. Orang tua tersebut merasa ingin memakan buah-buah tersebut. Namun ia tidak dapat memanjat pohon itu dan mengambil buah-buahan itu. Untungnya, di atas pohon tersebut terdapat beberapa monyet yang memakan buah-buahan. Ketika ia melihatnya, orang tua itu merasa senang. Apa yang dilakukannya? Ia mengambil beberapa batu, mengarahkan pada monyet-monyet itu dan melemparkannya. Monyet-monyet yang marah memetik buah-buahan tertentu dan melemparkannya ke arah orang tua itu. Orang tua itu menerima dengan senang hati buah-buahan tersebut dan pergi ke daerah yang diinginkannya. Lihatlah nasib orang tua itu!
 
-::: deleteme-box
+⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
-- **Gambar lekt3701.jpg** (Gbr.: ⟪क्व⟫): [Sumber gambar: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Diakses pada 2008-12-30. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
-- **Gambar lekt3702.jpg** (Gbr.: ⟪यथाशक्ति⟫): [Sumber gambar: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Diakses pada 2008-12-30. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
-- **Gambar lekt3703.jpg** (Gbr.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Sumber gambar: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Diakses pada 2008-12-30. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
-- **Gambar lekt3704.jpg** (Gbr.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Sumber gambar: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Diakses pada 2008-12-30. -- Lisensi Creative Commons (Atribusi)]
-- **Gambar lekt3705.jpg** (Gbr.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Sumber gambar: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
-- **Gambar lekt3706.jpg** (Gbr.: ⟪वृक्षः⟫): Jaipur [Sumber gambar: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, Non-komersial, share alike)]
-- **Gambar lekt3707.jpg** (Gbr.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Lukisan oleh ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Sumber gambar: Wikipedia. Domain publik]
-- **Gambar lekt3708.jpg** (Gbr.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Sumber gambar: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi)]
-- **Gambar lekt3709.jpg** (Gbr.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Sumber gambar: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
-- **Gambar lekt3710.jpg** (Gbr.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Sumber gambar: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, Non-komersial, share alike)]
-- **Gambar lekt3711.jpg** (Gbr.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Sumber gambar: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
-:::
+C) Transform the sentences from Exercise B) by replacing perfect forms with imperfect forms.
+

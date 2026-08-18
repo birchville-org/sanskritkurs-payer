@@ -1,0 +1,36 @@
+---
+title: "Alıştırma 29"
+uebung_id: 29
+category: "Übung"
+last_reconstructed: 2026-05-15
+
+---
+
+
+# Alıştırma 29
+
+Metinleri kelimesi kelimesine iyi bir Almanca'ya çevirin ve Sanskrit metinlerini ezberleyin:
+
+### ⟪१⟫. ⟪अविद्या⟫ Tanımı
+
+**⟪अनित्याशुचिदुःखानात्मसु नित्यशुचिस⟫u⟪खात्मख्यातिरविद्या ॥ योगसूत्र २⟫.⟪५ ॥⟫**
+
+Cehalet, kalıcı olmayanı, kirliyi, acı dolu ve mutlak olmayanı; kalıcı, temiz, neşeli veya mutlak olarak görmektir.
+
+### ⟪२⟫. ⟪दण्ड⟫'nın doğru kullanımı hakkında (Kautilya Arthaśāstra 1.4)
+
+⟪तीक्ष्णदण्डो भूतानामुद्वेजनीयो भवति । मृदुदण्डः परिभूयते । यथार्हदण्डः पूज्यते । सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति । दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति⟫, ⟪किमङ्ग पुनर्गृहस्थान् । अप्रणीतस्तु मात्स्यन्यायमुद्भावयति । बलीयानबलं हि ग्रसते दण्डधराभावे । स तेन गुप्तः प्रभवतीति । चतुर्वर्णाश्रमो लोको राज्ञा दण्डेन पालितः । स्वधर्मकर्माभिरतो वर्तते स्वेषु वर्त्मसु ॥१६॥⟫
+
+Aşırı sert bir yönetim (daṇḍa) karşısında varlıklar ürpermelidir. Zayıf bir yönetim hor görülür. Tamamen doğru olan bir yönetim saygı görür. Bilgelikle yönetilen bir yönetim, altındaki halkta adaleti, kazancı ve keyfi teşvik eder. Keyif veya nefret ya da hor görme nedeniyle kötü yönetilen bir yönetim, ormana çekilmiş yaşlıları ve dolaşan azapları bile öfkelendirir, ne kadar da ev sahiplerini! Uygulanmayan yönetim balıklar gibi bir davranışa yol açar (mātsyanayāya). Yönetimi sürdüren kimse yoksa, güçlü olan zayıfı yutar. Zayıf yönetici tarafından korunursa, gelişir.
+
+> Dört kaste ve dört yaşam evresinden oluşan dünya  
+> Kral tarafından yönetimi aracılığıyla korunur:  
+> Kendi haklarına ve kendi geleneklerine göre yaptıklarıyla sevinç duyarak  
+> Kendi yollarında ilerler.
+
+::: media
+![](/images/uebung046.webp)
+Abb.: ⟪चतुर्वर्णाश्रमो लोको⟫
+(Bildquelle: [Details](/licenses#uebung046))
+:::
+

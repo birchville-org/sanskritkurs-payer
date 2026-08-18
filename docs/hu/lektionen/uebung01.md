@@ -2,7 +2,7 @@
 title: "[Gyakorlat 1]"
 uebung_id: 1
 category: "Übung"
---- <!-- TODO: Fallback translation -->
+---
 
 
 

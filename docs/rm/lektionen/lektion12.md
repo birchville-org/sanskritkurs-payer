@@ -9,14 +9,6 @@ status: stable
 
 # Lecziun 12
 
-::: deleteme-box
-**En questa lecziun avais da aprender:**
-- Il participi perfet passiv (PPP)
-- Il significà dal PPP
-- La furmaziun dal PPP
-- Les leschas da la cumpunida da la vusch en la parola
-- Il passiv ed il PPP da las radichas emparadas fin qua
-:::
 
 ## 12.1. Participi dal passà passiv (PPP)
 
@@ -26,7 +18,7 @@ Ina pussaivel da construir frisas dal passiv en il temp passà è la construcziu
 **In realità n’è il PPP betg in ver participi, perquai ch’el na vegn betg format d’in stem temporal. El è pli stgimada ina furmaziun nominala a la radis cun il suffix primari -ta resp. -na. Perquai discurr’ins en la grammatica indiana dal suffix kta.**
 :::
 
-### 12.1.1. Schema per verbs transitivs <!-- TODO: Fallback translation -->
+### 12.1.1. Schema per verbs transitivs
 
 ::: grammar-box
 **Agens (kartṛ) en il instrumental (tṛtīyā) -- object direct (karman) en il nominativ (prathamā) -- participi perfet passiv**
@@ -69,7 +61,7 @@ Dunque, mentr che il cunsecutivamain ditg „participi perfet passiv“ per verb
 
 z.B.
 - **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv)
-- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv) <!-- TODO: Fallback translation -->
+- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv)
 
 ## 12.3. Furmaziun dal PPP
 
@@ -86,7 +78,7 @@ S’presentes las suentas sudivisiuns (per mintga radis è il participi dal pass
 Las stamas feminins han il sufix **-tā**, **-itā**, **-nā**; il neutrum declines sco **phala** n.
 :::
 
-### 12.3.1. PPP auf -ta (kta) <!-- TODO: Fallback translation -->
+### 12.3.1. PPP auf -ta (kta)
 
 #### 12.3.1.1. Senza vocali di legame -i- (aniṭ)
 
@@ -97,7 +89,7 @@ Senza vocali di legame, si forma il PPP generalmente da radici che terminano in 
 
 Ina lista dals radis *aniṭ* sa chatta en Kielhorn, *Grammatik* § 298.
 :::
-**Exempels:** <!-- TODO: Fallback translation -->
+**Exempels:**
 
 ::: grammar-box
 | Radix | PPP (kta) |
@@ -144,12 +136,12 @@ Per las furmasiuns cun *aniṭ* èn da tegnair cont da las suandantas legas dal 
 | **5. jt vegn sustituì tras kt u ṣṭ (betg facultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Plosiva sonora aspirada + plosiva surda » plosiva sonora betg aspirada + plosiva sonora aspirada (Lega d'aspiraziun da Bartholomae):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
 | **7. h-t vegn sustituì tras ḍh cun allungaziun d'in i u u precedent; u tras gdh. Davant in tal ḍh vegn a sustituì tras o, pli rar tras ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „zchoccher alquai”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ## 12.5. Glista da pleds
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्बुध्यतेबोधतिबुद्ध⟪ : sveschlar, sveschlar a la cumprensiun, reconuscher; PPP **buddha** 3 sveschlà, perquai **Buddha** = "el sveschlà" (betg: el illuminà) <!-- TODO: Fallback translation -->
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्बुध्यतेबोधतिबुद्ध⟪ : sveschlar, sveschlar a la cumprensiun, reconuscher; PPP **buddha** 3 sveschlà, perquai **Buddha** = "el sveschlà" (betg: el illuminà)
 
 ::: media
 ![](/images/lekt1201.webp)
@@ -159,21 +151,21 @@ Imag.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (alquai) arder
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : dominar, sustegnir, sustegnir pazientamain = perdonar
 - **mṛga** m. ⟪मृग⟫ : animal selvadi
-- **mārga** m. ⟪मार्ग⟫ : via (las vias eran savens ils sentiers dals animals) <!-- TODO: Fallback translation -->
+- **mārga** m. ⟪मार्ग⟫ : via (las vias eran savens ils sentiers dals animals)
 
 ::: media
 ![](/images/lekt1202.webp)
 Imag.: ⟪मार्गः⟫
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : era (postposì) <!-- TODO: Fallback translation -->
+- **api** ⟪अपि⟫ : era (postposì)
 
 A la 6. classa da prezens cuntschentan ils grammatichers nativs quai che vegn numnà radis, che furman la stgala da prezens cun in infix nasalic ed il vocal tematic a, per exempel:
 
 - **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : liberar, liberar; liberar dal circul da la renaixientscha (**saṃsāra** m.) = redimì
 - **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : asperger
 
-Per la furmaziun da las paraulas: <!-- TODO: Fallback translation -->
+Per la furmaziun da las paraulas:
 
 - **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Distacament, liberaziun, redenziun
 - **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Aspersiun d'in re en il decurs da l'incunaziun regia, incunaziun regia
@@ -184,7 +176,7 @@ Per la furmaziun da las paraulas: <!-- TODO: Fallback translation -->
 Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : cuschientscha, organ da cuschientscha. <!-- TODO: Fallback translation -->
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : cuschientscha, organ da cuschientscha.
 
 ### 12.5.1. Passiv e il PPP dals radis gudìds fin qua
 

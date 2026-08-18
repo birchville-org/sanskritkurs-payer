@@ -8,9 +8,9 @@ last_reconstructed: 2026-05-15
 
 # Exercício 57
 
-## A) Aorist-Transformationen <!-- TODO: Fallback translation -->
+## A) Aorist-Transformationen
 
-Übersetzen und bestimmen Sie die folgenden Formen und bilden Sie die entsprechenden Formen des **Aorists**. Ausser bei Kausativen und Wurzeln, die den **s-Aorist** bilden, ist in Klammern die Klasse des entsprechenden Aorists angegeben: <!-- TODO: Fallback translation -->
+Übersetzen und bestimmen Sie die folgenden Formen und bilden Sie die entsprechenden Formen des **Aorists**. Ausser bei Kausativen und Wurzeln, die den **s-Aorist** bilden, ist in Klammern die Klasse des entsprechenden Aorists angegeben:
 
 ::: grammar-box
 | Nr. | Form | Bestimmung / Bedeutung | Aorist |
@@ -46,11 +46,11 @@ last_reconstructed: 2026-05-15
 Abb.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Bildquelle: [Details](/licenses#uebung090))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## B) Wortbestimmungen <!-- TODO: Fallback translation -->
+## B) Wortbestimmungen
 
-Bestimmen und übersetzen Sie die folgenden Formen: <!-- TODO: Fallback translation -->
+Bestimmen und übersetzen Sie die folgenden Formen:
 
 ::: grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |
@@ -116,7 +116,7 @@ Bestimmen und übersetzen Sie die folgenden Formen: <!-- TODO: Fallback translat
 ![](/images/uebung094.webp)
 Abb.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung094))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

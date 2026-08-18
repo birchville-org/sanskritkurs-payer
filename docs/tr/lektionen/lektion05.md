@@ -10,13 +10,6 @@ status: stable
 
 # Ders 5
 
-::: deleteme-box
-**Bu derste şunları öğreneceksiniz:**
-İsim bileşiklerinin (samāsa) temelleri
-Bileşikler için teknik terminoloji
-Koşullu bileşikler (Dvandva)
-Dvandalarda üyelerin sırası
-:::
 ## 5.1. İsim bileşikleri (samāsa m. = ⟪समास⟫)
 
 Sanskrit'te kelime birleşimlerinin çok büyük ölçüde oluşturulması, dilin karakteristik özelliklerinden biridir.

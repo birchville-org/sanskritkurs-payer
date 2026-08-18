@@ -405,23 +405,3 @@ B) சமஸ்கிருதத்திற்கு மொழிபெயர�
 விளக்கம்:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual to ⟪द्वे⟫ ⟪कुले⟫ "இரு குடும்பங்கள்"
 
-::: deleteme-box
-
-**lekt4801:** [பட மூலம்: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- 2009-01-10 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, share alike)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [பட மூலம்: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- 2009-01-10 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, share alike)]
-
-**lekt4803:** Sitarspieler = ⟪सितारवादकः⟫ [பட மூலம்: Wikipedia. பொதுத் துறை]
-
-**lekt4804:** [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [பட மூலம்: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- 2009-01-10 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை)]
-
-**lekt4805:** Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia [பட மூலம்: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- 2009-01-10 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (நிர்வாகம்)]
-
-**lekt4806:** ⟪नेपाल⟫ [பட மூலம்: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- 2009-01-10 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt4807:** ⟪जोधपुर⟫ [பட மூலம்: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- 2009-01-10 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt4808:** Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [பட மூலம்: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- 2009-01-10 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (நிர்வாகம், share alike)]
-
-**lekt4809:** (படம்: பையர்)
-:::

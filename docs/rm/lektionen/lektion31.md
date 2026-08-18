@@ -30,7 +30,7 @@ Exempels:
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | | <!-- TODO: Fallback translation -->
+| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
 ⟪रुध्⟫ 7U "fermar, fermar en il stadi da quiet"
@@ -76,7 +76,7 @@ davon:
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
-4. ⟪कलि⟫ <!-- TODO: Fallback translation -->
+4. ⟪कलि⟫
 
 Il **⟪कलियुग⟫** cumenzà vers l'onn 3102 a.C., l'onn da la guerra dal **⟪महाभारत⟫**. Detagls cun Basham, Wonder p. 323)
 
@@ -172,7 +172,7 @@ Abb.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Bildquelle: [Details](/rm/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : nascher, exister <!-- TODO: Fallback translation -->
+**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : nascher, exister
 
 **⟪शरीर⟫ n.:** corp, corp
 
@@ -214,15 +214,3 @@ B) Formai per a las suentas radichas da la 7. classa tut las formas da la 3. per
 
 ⟪५⟫. ⟪भञ्ज्⟫ (nur P)
 
-::: deleteme-box
-
-**lekt3101:** Representaziun dal yoga. [Sursa da l’imagines: Flickr, 2008-12-25. CC BY]
-
-**lekt3102:** Preparaziun per il dans da Kathakali, Kochi. [fonte da l’imaginescha: winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**lekt3103:** Da in manuscrit da Prajñāpāramitā. [Sursa da l'imagina: zeno.org. Domini public.]
-
-**lekt3105:** Tanks dal 18. Regiment da cavals (Armada indiana) en moviment durant la guerra indo-pakistana dal 1965. [Sursa da l’imaginesch: Hari Singh Deora / Wikipedia. Dominium public]
-
-**lekt3104:** Rāhula, il figl da Buddha, Laos. [Sursa d'imagia: Sacca / Wikipedia. GNU FDL]
-:::

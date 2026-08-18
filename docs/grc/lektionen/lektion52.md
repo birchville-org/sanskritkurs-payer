@@ -196,7 +196,7 @@ Fig.: ⟪अन्नमयम्⟫
 ⟪भस्मसात्करोति⟫ "μεταβάλλει πᾶν εἰς τέφραν (⟪भस्मन्⟫ n. "τέφρα"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
 
 *   **τοῦ ὑπάρχοντος ἐξ οὗ γίνεται**
 *   **εἰς τὴν κτῆσιν τοῦτο ὑφίσταται**
@@ -597,7 +597,7 @@ Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Bildquelle: [Details](/grc/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: βαλανόδεντρον (_Musa_ sp.) <!-- TODO: Fallback translation -->
+⟪कदली⟫ f.: βαλανόδεντρον (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -776,41 +776,5 @@ Mahābhārata : τὸ μέγα ἔπος τῆς Ἰνδίας / ἐκ Σανσ�
 Ἀπεικ.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Εἰκών: Payer)
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5201))
-:::
-
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, Ἀθήναι = Αθῆναι [Πηγή εικόνας: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Πρόσβαση 2009-01-15. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
-
-**lekt5203:** Φιγούρα Wayang, Ἰαβᾶ, Ἰνδονησία [Πηγή εικόνας. Wikipedia. Δημόσιος τομέας]
-
-**lekt5204:** Ουρά ναού ἐμπρός, Τριβανδράμ = Θιρουβαναμπούραμ = തിരുവനന്തപുരം [Πηγή εικόνας: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Πρόσβαση 2009-01-15. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, share alike)]
-
-**lekt5209:** Καύση δάσους, Ἀρούνναχάλ Πραντές = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Πηγή εικόνας: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Πρόσβαση 2009-01-15. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, χωρίς επεξεργασία)]
-
-**lekt5205:** [Πηγή εικόνας: Βικιπαίδεια. Δημόσιος τομέας]
-
-**lekt5206:** Ἑπτάστερον = οἱ ἑπτὰ λαμπρότατοι ἀστέρες τοῦ Μεγάλου Ἄρκτου (Ursa maior) [Πηγή εικόνας: Βικιπαίδεια, Ἄδεια GNU FDLicense]
-
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Πηγή εικόνας: Βικιπαίδεια. Δημόσιος τομέας]
-
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Πηγή εικόνας: Dan Tunstall / Προσωπικό Παγκόσμιου Ινστιτούτου Πόρων. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Πρόσβαση στις 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά συγγραφέα)] <!-- TODO: Fallback translation -->
-
-**lekt5212:** Ὑδραβᾶδες = హైదరాబాద్ [Πηγὴ εἰκόνος: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Πρόσβασις ἐν 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, οὐδὲ τροποποίησις)]
-
-**lekt5213:** ⟪मुंबई⟫ [Πηγὴ εἰκόνος: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Πρόσβασις ἐν 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Ὁνομασία, οὐδὲ τροποποίησις)] <!-- TODO: Fallback translation -->
-
-**lekt5214:** Κοναρκ = ⟪कोनार्क⟫ [Πηγὴ εἰκόνος: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Πρόσβασις ἐν 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, οὐδὲ τροποποίησις)]
-
-**lekt5208:** Ἁμπὶ = ಹಂಪೆ [Πηγὴ εἰκόνος: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Πρόσβασις ἐν 2009-01-15. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, ὁμοία ἀδειοδότησις)] <!-- TODO: Fallback translation -->
-
-**lekt5215:** ⟪मुंबई⟫ [Πηγὴ εἰκόνος: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Πρόσβασις ἐν 2009-01-16. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Ἀναφορά)]
-
-**lekt5217:** Amaravati = అమరావతి, 2. αἰ. μ.Χ. [Πηγὴ εἰκόνος: Wikipedia. Ἀδεια GNU FDLicense]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, περὶ 1810 [Πηγὴ εἰκόνος: Wikipedia. Δημόσιον πεδίον]
-
-**lekt5201:** (Εἰκών: Payer)
-
 :::
 

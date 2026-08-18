@@ -1,8 +1,9 @@
 ---
 title: "Exercițiul 5"
 uebung_id: 5
-category: "Exercițiu"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -34,13 +35,13 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪।⟫ ⟪त्रयो⟫ ⟪वर्णाद्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (în sanscrită bună: sāmargyajurvedās trayī) <!-- TODO: Fallback translation -->
+3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (în sanscrită bună: sāmargyajurvedās trayī)
 
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫
 
 (în sanscrită bună: ⟪सामर्ग्यजुर्वेदास्त्रयी⟫)
 
-Cele trei Vede sunt: Sāmavaeda, Ṛgveda și Yajurveda. <!-- TODO: Fallback translation -->
+Cele trei Vede sunt: Sāmavaeda, Ṛgveda și Yajurveda.
 
 sāmaveda ṛgvedo yajurvedaś ca trayī.
 
@@ -52,7 +53,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 Pofte, mânie și lăcomie.
 
-kāmaḥ krodho lobhaś ca. <!-- TODO: Fallback translation -->
+kāmaḥ krodho lobhaś ca.
 
 ⟪कामः⟫ ⟪क्रोधो⟫ ⟪लोभश्च⟫ ⟪।⟫
 
@@ -80,7 +81,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Conform Kauṭilīya-arthaśāstra 1.2.1.) <!-- TODO: Fallback translation -->
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Conform Kauṭilīya-arthaśāstra 1.2.1.)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫
 
@@ -95,31 +96,35 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 Fig.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung010))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Wiederholungsübung Lektion 5 <!-- TODO: Fallback translation -->
+## Exercițiu de repetiție Lectiona 5
+:::
+---
 
-A) Übersetzen Sie:
+## Exercițiu de recapitulare Lecția 5
+
+A) Traduceți:
 
 1\. vidyā vārttā.
 
-⟪विद्या⟫ ⟪वार्त्ता⟫
+⟪विद्या वार्त्ता⟫
 
-Ökonomie ist eine Wissenschaft. <!-- TODO: Fallback translation -->
+Economia este o știință.
 
 2\. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
 
-⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫
+⟪ब्राह्मणः क्षत्रियो वैश्यश्च त्रयो वर्णा द्विजातयः⟫
 
-Cele trei caste de două ori născute sunt: Brāhmaṇa, Kṣatriya și Vaiśya.
+Cele trei caste de două nașteri sunt: Brahmin, Kṣatriya și Vaiśya.
 
-3\. dvijā vaiśyāḥ. (2 Möglichkeiten)
+3\. dvijā vaiśyāḥ. (2 posibilități)
 
-⟪द्विजा⟫ ⟪वैश्याः⟫
+⟪द्विजा वैश्याः⟫
 
-Vaiśyas sind Zweimalgeborene / Vaiśyafrauen sind Zweimalgeborene. <!-- TODO: Fallback translation -->
+Vaișyii sunt de două nașteri / femeile vaișya sunt de două nașteri.
 
-B) Completați forma corespunzătoare:
+B) Introduceți forma corespunzătoare:
 
 (dvija, sādhu, kavi) ... rāmaḥ
 
@@ -127,7 +132,7 @@ B) Completați forma corespunzătoare:
 
 dvijo rāmaḥ. sādhū rāmaḥ. kavī rāmaḥ.
 
-⟪द्विजो⟫ ⟪रामः⟫ ⟪।⟫ ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫ ⟪कवी⟫ ⟪रामः⟫ ⟪।⟫
+⟪द्विजो रामः । साधू रामः । कवी रामः ।⟫
 
 (devī) ... indrāṇī
 
@@ -135,7 +140,7 @@ dvijo rāmaḥ. sādhū rāmaḥ. kavī rāmaḥ.
 
 devīndrāṇī.
 
-⟪देवीन्द्राणी⟫ ⟪।⟫
+⟪देवीन्द्राणी ।⟫
 
 dvijātayas ... (vaiśyā, kṣatriya)
 
@@ -143,9 +148,9 @@ dvijātayas ... (vaiśyā, kṣatriya)
 
 dvijātayo vaiśyāḥ. dvijātayaḥ kṣatriyāḥ.
 
-⟪द्विजातयो⟫ ⟪वश्याः⟫ ⟪।⟫ ⟪द्विजातयः⟫ ⟪क्षत्रियाः⟫ ⟪॥⟫
+⟪द्विजातयो वश्याः । द्विजातयः क्षत्रियाः ॥⟫
 
-[C0] C) Rezolvați compusul din următorul propoziție în sanscrită și formați cu această formă rezolvată aceeași propoziție:
+C) Rezolvați compusul în următoarea propoziție în sanscrită și formați cu această formă rezolvată aceeași propoziție:
 
 sāmargyajurvedās trayī.
 
@@ -153,15 +158,15 @@ sāmargyajurvedās trayī.
 
 sāmaveda ṛgvedo yajurvedaś ca trayī / ... yajurvedas trayī
 
-⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫ ... ⟪यजुर्वेदस्त्रयी⟫ ⟪॥⟫
+⟪सामवेद ऋग्वेदो यजुर्वेदश्च त्रयी ।⟫ ... ⟪यजुर्वेदस्त्रयी ॥⟫
 
-D) Traduceți în sanscrită în două moduri (o dată cu un compus, o dată fără):
+D) Traduceți în două moduri în sanscrită (o dată cu un compus, o dată fără):
 
-"Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. <!-- TODO: Fallback translation -->
+„Stările de reședință ale Brahmanului” sunt: afabilitatea, compasiunea, bucuria altruistă, echilibrul.
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā (ca) brahmavihārāḥ.
 
-⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪॥⟫
+⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ॥⟫
 
 ::: media
 ![](/images/uebung009.webp)

@@ -517,12 +517,3 @@ Tentukan dan terjemahkan bentuk-bentuk kata berikut:
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Sumber gambar: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Non-Komersial, Tidak ada Turunan)]
-**lekt3002:** Darewadi, Distrik Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Sumber gambar: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Non-Komersial, Berbagi Sama)]
-**lekt3003:** [Sumber gambar: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Berbagi Sama)]
-**lekt3005:** ⟪थाली⟫, India Selatan [Sumber gambar: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Non-Komersial, Berbagi Sama)]
-**lekt3004:** [Sumber gambar: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Berbagi Sama)]
-**lekt2904:** [Sumber gambar: Wikipedia / Hak Cipta milik Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

@@ -90,7 +90,7 @@ de ello:
 
 ⟪निरोध⟫ m.: Detención, hacer detenerse
 
-* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, fantasma &lt;!-- TODO: Fallback translation --&gt;
+* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, fantasma &lt;!--  --&gt;
 
 ⟪योग⟫ m.: Enganche, conexión, unión, adquisición; Yoga
 
@@ -240,13 +240,3 @@ Oración 13: ⟪सर्वेषाम⟫ Gen. pl. masc. de ⟪सर्व⟫
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** Birla Mandir, Delhi [Fuente de la imagen: Deepak / Wikipedia; Licencia Creative Commons (Atribución, Compartir igual)]
-
-**lekt1602:** «Esta es una ceremonia especial en un pequeño templo de Satara (⟪सातारा⟫). Es realizada por los estudiantes de la Swami Muktananda Vedashala en la celebración de Mahāśivarātri. Esta es una escuela védica, donde los niños memorizan los textos sagrados llamados los Vedas. Esta escuela enseña el Krishna Yajurveda y algunas porciones del Samaveda. Estoy realizando mi tesis de máster sobre esta escuela». [Fuente de la imagen: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Acceso el 2008-12-07. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
-
-**lekt1603:** «La mano con una rueda en la palma simboliza el voto jainista de Ahimsa (no violencia). La palabra en el centro es "ahimsa". La rueda representa el dharmacakra, que simboliza la resolución de detener el ciclo de reencarnación mediante la búsqueda incansable de la verdad y la no violencia». [Fuente de la imagen: Wikipedia, Dominio público]
-
-**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣ⟪ा⟫ [Fuente de la imagen: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Acceso el 2008-12-07. -- Licencia Creative Commons (Atribución, No comercial, Sin obras derivadas)]
-:::

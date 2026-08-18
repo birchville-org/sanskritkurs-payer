@@ -1,37 +1,39 @@
 # Ejercicio de escritura 9
 
-### Separación de palabras
+### Separación silábica
 
-Dentro de una oración (una mitad de verso), la separación de palabras en la escritura solo se produce cuando una palabra termina con
+Dentro de una oración (una mitad de verso), la separación silábica en la escritura solo ocurre cuando una palabra termina con
 
-*   una vocal
-*   Anusvāra (ṃ)
-*   Visarga (ḥ) &lt;!-- TODO: Fallback translation --&gt;
+*   vocal
+*   anusvāra (ṃ)
+*   visarga (ḥ)
 
-y la siguiente palabra comienza con una consonante. Lo mismo ocurre en los casos en que, según las reglas de Sandhi de la oración, se produce un hiato entre vocales.
+y la siguiente palabra comienza con consonante. Igualmente en los casos en que, según las reglas de sandhi oracional, se produce un hiato entre vocales.
 
-### Interpunción
+### Puntuación
 
-El final de una oración se indica en prosa con | (ardhadhaṇḍa m.). En versos, | indica el final de la semiestrofa, mientras que || (daṇḍa m.) indica el final de la estrofa. En prosa, || señala una división mayor (por ejemplo, el final de un párrafo). La numeración de los versos se coloca entre dos ||, por ejemplo, ||⟪१⟫||.
+El final de una oración en prosa se indica con | (ardhadanda m.). En versos, | indica el final de la mitad del verso; || (danda m.) indica el final del verso completo. En prosa, || señala una división mayor (por ejemplo, el final de un párrafo). El conteo de versos se coloca entre dos ||, por ejemplo: ||⟪१⟫||.
 
 ### Abreviaturas
 
-Los signos de abreviatura (p. ej., en referencias a obras) son °, p. ej., ⟪पा⟫° = pā(ṇinīye) = "En la obra gramatical de Pāṇini". &lt;!-- TODO: Fallback translation --&gt;
+El signo de abreviatura (por ejemplo, en referencias a obras) es °, por ejemplo: ⟪पा⟫° = pā(ṇinīye) = "En la obra gramatical de Pāṇini".
 
-### Otros vocales en posición inicial
+### Otras vocales en posición inicial
 
 ![](/images/schrift018.webp)
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden. &lt;!-- TODO: Fallback translation --&gt;
+Tenga en cuenta que a, ā, o y au se escriben según el mismo esquema básico.
 
 ## Ejercicio
 
 A) Escriba en Devanāgarī:
 
-ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha &lt;!-- TODO: Fallback translation --&gt;
+ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
 
 B) Lea y translitere:
 
-⟪ए⟫ ⟪इ⟫ ⟪उ⟫ ⟪अ⟫ ⟪ऋ⟫ ⟪ई⟫ ⟪ऊ⟫ ⟪ओ⟫ ⟪ऐ⟫ ⟪आ⟫ ⟪औ⟫ ⟪ॠ⟫ ⟪अथ⟫ ⟪इष्⟫ ⟪उत्⟫ ⟪एक⟫ ⟪इन्⟫ ⟪ओत्⟫ ⟪अद्⟫ ⟪ऐश⟫ ⟪ऋध्⟫ ⟪ऊह्⟫ ⟪एध्⟫ ⟪ईश्⟫ ⟪उद्य⟫ ⟪औम्⟫ ⟪ऋण⟫ ⟪ऊढ⟫ ⟪इह⟫ ⟪उष्⟫ ⟪अद्⟫ ⟪अल्⟫ ⟪ॐ⟫ ⟪ओख्⟫ ⟪ऋच्⟫ ⟪ऐण⟫ ⟪उदङ्⟫ ⟪ऋणम्⟫ ⟪ईषत्⟫ ⟪ऊहनम्⟫ ⟪ऋषभ⟫ ⟪औषधम्⟫ ⟪ऐषमस्⟫ ⟪उपकरणम्⟫ ||
+⟪ए इ उ अ ऋ ई ऊ ओ ऐ आ औ ॠ अथ इष् उत् एक इन् ओत् अद् ऐश ऋध् ऊह् एध् ईश् उद्य औम् ऋण ऊढ इह उष् अद् अल् ॐ ओख् ऋच् ऐण उदङ् ऋणम् ईषत् ऊहनम् ऋषभ औषधम् ऐषमस् उपकरणम्⟫ ||
+
+

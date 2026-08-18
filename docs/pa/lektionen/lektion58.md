@@ -458,16 +458,3 @@ B) ਹੇਠ ਲਿਖੇ ਰੂਪਾਂ ਦਾ ਅਨੁਵਾਦ ਅਤੇ �
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [ਚਿੱਤਰ ਸਰੋਤ: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- 2009-03-02 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ. -- [Creative Commons ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ)]
-
-**lekt5803:** Bandipur ਰਾਸ਼ਟਰੀ ਉਦਿਆਨ -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [ਚਿੱਤਰ ਸਰੋਤ: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- 2009-03-02 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ. -- [Creative Commons ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [ਚਿੱਤਰ ਸਰੋਤ: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- 2009-03-02 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ. -- [Creative Commons ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-
-:::

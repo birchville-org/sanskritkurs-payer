@@ -6,7 +6,7 @@
 
 ## Exercițiu
 
-A) Scrieți în Devanāgarī: <!-- TODO: Fallback translation -->
+A) Scrieți în Devanāgarī:
 
 chāyā paṭhati chidā phaṭā yathā khanati phalaṃ chādayate khādanīyaṃ tathā pāṭhana chāgalaḥ ṭhaṃsarī phalarāśi mithunā phenaḥ khidira kathaṃ ratho likhati
 

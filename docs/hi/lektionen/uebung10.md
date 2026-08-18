@@ -81,7 +81,7 @@ anena kavinā mantraḥ smaryate.
 
 8\. iyaṃ devī kṣatriyā rakṣati. ⟪⟪इयं⟫⟫ ⟪⟪देवी⟫⟫ ⟪⟪क्त्रिया⟫⟫ ⟪⟪रक्षति⟫⟫
 
-anayā devyā kṣatriyā rakṣyante. <!-- TODO: Fallback translation -->
+anayā devyā kṣatriyā rakṣyante.
 
 ⟪⟪अनया⟫⟫ ⟪⟪देव्या⟫⟫ ⟪⟪क्षत्रिया⟫⟫ ⟪⟪रक्ष्यन्ते⟫⟫ ⟪⟪।⟫⟫
 

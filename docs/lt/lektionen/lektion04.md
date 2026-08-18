@@ -9,14 +9,6 @@ status: stable
 
 # Pamoka 4
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Fragepronomina und Demonstrativpronomina im Nominativ
-- Sandhi von auslautendem -m
-- Sandhi von auslautendem -e
-- Sandhi von auslautendem -d
-- Einfache Frageformeln
-:::
 ## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
 
 ### 4.1.1. Fragepronomina und Demonstrativpronomina

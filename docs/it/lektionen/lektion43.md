@@ -369,21 +369,3 @@ Fig.: ⟪शर्करा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4309))
 :::
 
-::: deleteme-box
-
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Accesso il 2009-01-06. -- Licenza Creative Commons (Attribuzione, uso non commerciale)
-
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Accesso il 2009-01-06. -- Licenza Creative Commons (Attribuzione, uso non commerciale)
-
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Accesso il 2009-01-06. -- Licenza Creative Commons (Attribuzione)
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Accesso il 2009-01-06. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Accesso il 2009-001-06. -- Licenza Creative Commons (Attribuzione, share alike)
-
-**lekt4307.jpg**: Ray Witlin / Banca Mondiale. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Accesso il 2009-01-06. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)
-
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. Licenza GNU FDL
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Accesso il 2009-01-07. -- Licenza Creative Commons (Attribuzione, nessuna opera derivata)
-:::

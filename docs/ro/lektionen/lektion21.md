@@ -5,11 +5,11 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 21
 
-## 21.1. Alte teme de prezent în -nt <!-- TODO: Fallback translation -->
+## 21.1. Alte teme de prezent în -nt
 
 ### 21.1.1. Participul prezent (⟪लडादेशः⟫) Parasmaipada
 
@@ -258,7 +258,7 @@ Fig.: ⟪भगवान्कृष्णः⟫
 Fig.: ⟪भगवद्गीता⟫
 ⟪भगवद्गीता⟫ - manuscris, sec. al XIX-lea.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2105))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -308,15 +308,3 @@ B) Traduceți:
 
 ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-::: deleteme-box
-
-**lekt2101:** Placă comemorativă ⟪सती⟫ în Palatul din Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Sursa imaginii: Flicka / Wikipedia. Licență GNU FDL]
-
-**lekt2102:** "Un sigiliu de sardonyx din secolele IV-VI e.n. care îl reprezintă pe Vișnu împreună cu un închinat. Inscripția în bactrian cursiv spune: "Mihira, Vișnu și Śiva". [Sursa imaginii: PHGCOM / Wikipedia. Licență GNU FDL]
-
-**lekt2103:** ⟪भगवान्कृष्णः⟫ ca ⟪जगन्नाथ⟫ (dreapta) cu sora sa vitregă ⟪सुभद्रा⟫ (mijloc) și fratele său mai mare ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Sursa imaginii: Sujitkumar / Wikipedia. Licență GNU FDL]
-
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Sursa imaginii: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Accesat la 2008-12-12. -- Licență Creative Commons (atribuire, utilizare non-comercială)]
-
-**lekt2105:** ⟪भगवद्गीता⟫ - Manuscris, sec. al XIX-lea. [Sursa imaginii: Wikipedia, Domeniu public]
-:::

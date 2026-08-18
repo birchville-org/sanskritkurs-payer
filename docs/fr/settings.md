@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: Paramètres
+title: "Paramètres"
+
 ---
 
 <ClientOnly>

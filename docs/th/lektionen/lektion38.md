@@ -335,7 +335,7 @@ PPP ⟪मीढ⟫
 
 ⟪मेघ⟫ m.: เมฆ ("Seicher")
 :::
-⟪सुत⟫ m.: ลูกชาย <!-- TODO: Fallback translation -->
+⟪सुत⟫ m.: ลูกชาย
 
 ⟪राजन्⟫ m.: กษัตริย์ (เกี่ยวกับระบอบกษัตริย์ในอินเดีย ดู Basham, Wonder หน้า 82 -94). ในฐานะส่วนท้ายของคำประสม (โดยเฉพาะ ⟪तत्पुरुष⟫) ส่วนใหญ่: -:sig[⟪राज⟫] m. (เช่น ⟪देव⟫)
 
@@ -587,20 +587,3 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪युष्माकम्⟫ สัมพันธ.พ. ของ :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: ภาพ: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  บังกาลอร์ = ಬೆಂಗಳೂರು \[แหล่งภาพ: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- เข้าถึงเมื่อ 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า)\]
-- **lekt3802.jpg**: ภาพ: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, คอนาร์ก = ⟪कोनार्क⟫ \[แหล่งภาพ: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- เข้าถึงเมื่อ 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า)\]
-- **lekt3803.jpg**: ภาพ: ⟪सीमा⟫  จุดผ่านแดนระหว่างอินเดียและปากีสถานที่วาฆะ (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[แหล่งภาพ: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- เข้าถึงเมื่อ 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า, แบ่งปันแบบเดียวกัน)\]
-- **lekt3804.jpg**: ภาพ: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  กานธारा, ศตวรรษที่ 2/3 น.ศ. \[แหล่งภาพ: Wikipedia. สาธารณสมบัติ\]
-- **lekt3805.jpg**: ภาพ: ⟪उदकम्⟫  หมู่ดาวเรวดี, อำเภออห์เมดนาการ์ = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[แหล่งภาพ: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- เข้าถึงเมื่อ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า, แบ่งปันแบบเดียวกัน)\]
-- **lekt3806.jpg**: ภาพ: ⟪हस्ती⟫  อุทยานแห่งชาตินาการ์โฮเล = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[แหล่งภาพ: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- เข้าถึงเมื่อ 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า, แบ่งปันแบบเดียวกัน)\]
-- **lekt3807.jpg**: ภาพ: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[แหล่งภาพ: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- เข้าถึงเมื่อ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)\]
-- **lekt3808.jpg**: ภาพ: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  ค.ศ. 1930 \[แหล่งภาพ: Wikipedia. สาธารณสมบัติ\]
-- **lekt3809.jpg**: ภาพ: ⟪ब्रह्मा⟫  ฮาเลบิดุ = ಹಳೆಬೀಡು \[แหล่งภาพ: Wikipedia. GNU FDLicense\]
-- **lekt3810.jpg**: ภาพ: ต้นอัชกะ = _Saraca asoca_ (Roxb.) Wilde กัลกัตตา = কলকাতা \[แหล่งภาพ: J.M.Garg / Wikipedia. GNU FDLicense\]
-- **lekt3811.jpg**: ภาพ: ขอบเขตสูงสุดของจักรวรรดิอโศก และสถานที่ค้นพบหินสลักและเสาประกาศของพระองค์ \[แหล่งภาพ: Wikipedia.GNU FDLicense\]
-- **lekt3812.jpg**: ภาพ: ⟪विनोदः⟫  เกมคารอม \[แหล่งภาพ: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- เข้าถึงเมื่อ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า, แบ่งปันแบบเดียวกัน)\]
-- **lekt3813.jpg**: ภาพ: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[แหล่งภาพ: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- เข้าถึงเมื่อ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า)\]
-- **lekt3814.jpg**: ภาพ: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[แหล่งภาพ: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- เข้าถึงเมื่อ 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)\]
-:::

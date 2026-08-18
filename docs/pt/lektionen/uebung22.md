@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 22
 
-A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben: <!-- TODO: Fallback translation -->
+A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:
 
 1.  ⟪आप्⟫ — ⟪आप्त्वा⟫ (nachdem er erlangt hat)
 2.  ⟪प्राप्⟫ — ⟪प्राप्य⟫ (nachdem er erreicht hat)
@@ -45,9 +45,9 @@ A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben: <!-- TODO: Fall
 33.  ⟪प्रवच्⟫ — ⟪प्रोच्य⟫ (nachdem er verkündet hat)
 34.  ⟪वद्⟫ — ⟪उदित्वा⟫ (nachdem er gesprochen hat)
 35.  ⟪प्रवद्⟫ — ⟪प्रोद्य⟫ (nachdem er hervorgesagt hat)
-36.  ⟪हन्⟫ — ⟪हत्वा⟫ (nachdem er erschlagen hat) <!-- TODO: Fallback translation -->
+36.  ⟪हन्⟫ — ⟪हत्वा⟫ (nachdem er erschlagen hat)
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪१⟫. **⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदास्यत्ति⟫ ⟪॥१॥⟫**
 (⟪ब्राह्मणस्य⟫ ⟪दासी⟫)
@@ -62,19 +62,19 @@ Die guten Brahmanen verehrten ihre persönliche Gottheit und preisen nun Indra u
 Rāma ist mit seinem Sohn aufgebrochen und geht ins Brahmanendorf, um den guten Meister zu hören.
 
 ⟪४⟫. **⟪अनिष्ट्वा⟫ ⟪नरो⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्षमाप्नोति⟫ ⟪॥४॥⟫**
-Auch wenn er nie geopfert hat, erlangt ein Mensch allein durch Hingabe an den Ehrwürdigen (Kṛṣṇa) Erlösung. <!-- TODO: Fallback translation -->
+Auch wenn er nie geopfert hat, erlangt ein Mensch allein durch Hingabe an den Ehrwürdigen (Kṛṣṇa) Erlösung.
 
 ⟪५⟫. **⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫**
 (⟪गृहस्य⟫ ⟪गर्भम्⟫ ⟪।⟫ ⟪ब्राह्मणस्य⟫ ⟪पुत्रम्⟫ ⟪।⟫ ⟪क्षत्रिय⟫ ⟪एव⟫ ⟪शूरः⟫)
-Der Kṣatriyaheld betritt das Innere des Hauses, stellte sich in ehrerbietiger Haltung vor den Sohn des Brahmanen und spricht. <!-- TODO: Fallback translation -->
+Der Kṣatriyaheld betritt das Innere des Hauses, stellte sich in ehrerbietiger Haltung vor den Sohn des Brahmanen und spricht.
 
 ⟪६⟫. **⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫**
 (⟪दुःखमादिर्येषां⟫ ⟪तान्यार्याणि⟫ ⟪सत्यानि⟫ ⟪।⟫ ⟪सुष्टु⟫ ⟪गतः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪मार्गेण⟫)
-Buddha (Sugata) ist zur Erkenntnis erwacht, hat die Wahrheit vom Leid und die übrigen edlen Wahrheiten verkündet und führt nun die Menschen auf dem Weg zur Erlösung. <!-- TODO: Fallback translation -->
+Buddha (Sugata) ist zur Erkenntnis erwacht, hat die Wahrheit vom Leid und die übrigen edlen Wahrheiten verkündet und führt nun die Menschen auf dem Weg zur Erlösung.
 
 ⟪७⟫. **⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫**
 (⟪यज्ञस्य⟫ ⟪दोषम्⟫)
-Da er den Spruch vergessen hat, macht der Opfernde einen Opferfehler. <!-- TODO: Fallback translation -->
+Da er den Spruch vergessen hat, macht der Opfernde einen Opferfehler.
 
 ⟪८⟫. **⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫**
 (⟪बुद्धस्य⟫ ⟪मार्गो⟫ ⟪मार्गो⟫ ⟪येषां⟫ ⟪ते⟫ ⟪भिक्षवः⟫)
@@ -82,10 +82,10 @@ Wenn sie Geld bekommen, verderben Mönche, die den Weg Buddhas gehen.
 
 ⟪९⟫. **⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫**
 (⟪अनार्यैः⟫ ⟪शत्रुभिः⟫ ⟪।⟫ ⟪नराः⟫ ⟪सिंहा⟫ ⟪इव⟫)
-Die löwengleichen Männer sind mit den Feinden, die keine Ārya sind, zusammengestossen, und siegen vollkommen. <!-- TODO: Fallback translation -->
+Die löwengleichen Männer sind mit den Feinden, die keine Ārya sind, zusammengestossen, und siegen vollkommen.
 
 ⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
-Wenn er Verdienstvolles getan hat und nur die Wahrheit gesprochen hat, kommt ein Mensch in keine Hölle. <!-- TODO: Fallback translation -->
+Wenn er Verdienstvolles getan hat und nur die Wahrheit gesprochen hat, kommt ein Mensch in keine Hölle.
 
 ::: media
 ![](/images/uebung034.jpg)
@@ -94,9 +94,9 @@ Abb.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्
 :::
 ---
 
-## Passiv-Konstruktionen <!-- TODO: Fallback translation -->
+## Passiv-Konstruktionen
 
-C) Machen Sie aus obigen Sätzen (ausser Sätze 8 und 10) Passivkonstruktionen: <!-- TODO: Fallback translation -->
+C) Machen Sie aus obigen Sätzen (ausser Sätze 8 und 10) Passivkonstruktionen:
 
 ⟪१⟫. ⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदास्याद्यते⟫ ⟪॥⟫
 

@@ -1,8 +1,9 @@
 ---
 title: "تمرین ۶"
 uebung_id: 6
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -60,7 +61,7 @@ dhenavo viśanti. dhenavo bhavanti.
 
 ⟪धेनवो⟫ ⟪विशन्ति⟫ ⟪।⟫ ⟪धेनवो⟫ ⟪भवन्ति⟫ ⟪॥⟫
 
-C) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+C) Übersetzen Sie ins Sanskrit:
 
 ۱. او با یک قربانی تعظیم می‌کند. (کشیش قربانی برای صاحب قربانی)
 
@@ -86,13 +87,13 @@ rāmo nayati.
 
 ⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5\. Die Kṣatriyafrauen treten ein. <!-- TODO: Fallback translation -->
+5\. Die Kṣatriyafrauen treten ein.
 
 kṣatriyā viśanti.
 
 ⟪क्षत्रिया⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-6\. Der HERR lässt emanieren. <!-- TODO: Fallback translation -->
+6\. Der HERR lässt emanieren.
 
 īśvaraḥ sṛjati.
 
@@ -147,7 +148,7 @@ sā brāhmaṇī nṛtyati.
 :::
 ---
 
-## Wiederholungsübung Lektion 6 <!-- TODO: Fallback translation -->
+## Wiederholungsübung Lektion 6
 
 الف) تمرین جایگذاری: پرسش‌هایی بسازید که پاسخ جملاتی باشند که پس از تمرین‌های جایگذاری زیر شکل می‌دهند:
 
@@ -239,7 +240,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Setzen Sie in den Plural: <!-- TODO: Fallback translation -->
+B) Setzen Sie in den Plural:
 
 1\. brāhmaṇo yajati.
 
@@ -371,7 +372,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Bilden Sie das Femininum zu: <!-- TODO: Fallback translation -->
+D) Bilden Sie das Femininum zu:
 
 1\. śūdro nayati.
 
@@ -419,7 +420,7 @@ E) Übersetzen Sie:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
+Annapūrṇā ist eine Gottheit.
 
 2\. śūdretarā.
 
@@ -443,7 +444,7 @@ Māgha ist ein Dichter.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin. <!-- TODO: Fallback translation -->
+Umā ist eine Göttin.
 
 6\. śrutirvedaḥ.
 
@@ -455,13 +456,13 @@ Der Veda ist Śruti.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein. <!-- TODO: Fallback translation -->
+Die Kuh tritt ein.
 
 8\. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister. <!-- TODO: Fallback translation -->
+Caitanya ist ein Meister.
 
 9\. devīndrāṇī.
 
@@ -473,15 +474,15 @@ Indrāṇī ist eine Göttin.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger. <!-- TODO: Fallback translation -->
+Der Meister ist ein Heiliger.
 
 11\. gururyajate.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-Der Meister opfert als Opferherr. <!-- TODO: Fallback translation -->
+Der Meister opfert als Opferherr.
 
-F) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+F) Übersetzen Sie ins Sanskrit:
 
 1\. Rāma opfert (als Opferherr).
 
@@ -489,13 +490,13 @@ rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā ist eine Göttin. <!-- TODO: Fallback translation -->
+2\. Durgā ist eine Göttin.
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī ist eine Göttin. <!-- TODO: Fallback translation -->
+3\. Mīnākṣī ist eine Göttin.
 
 devī mīnākṣī.
 
@@ -513,25 +514,25 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Wer ist der HERR? <!-- TODO: Fallback translation -->
+6\. Wer ist der HERR?
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7\. Indra ist der HERR. <!-- TODO: Fallback translation -->
+7\. Indra ist der HERR.
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Die Nutztiere treten ein. <!-- TODO: Fallback translation -->
+8\. Die Nutztiere treten ein.
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9\. Viṣṇu lässt emanieren = Viṣṇu erschafft. <!-- TODO: Fallback translation -->
+9\. Viṣṇu lässt emanieren = Viṣṇu erschafft.
 
 viṣṇuḥ sṛjati.
 
@@ -549,7 +550,7 @@ sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ ⟪।⟫ ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-12\. Diese Göttin ist gut. <!-- TODO: Fallback translation -->
+12\. Diese Göttin ist gut.
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
@@ -585,7 +586,7 @@ dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣa
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪।⟫ ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-18 .Geht es Ihnen gut? <!-- TODO: Fallback translation -->
+18 .Geht es Ihnen gut?
 
 kiṃ kuśalam?
 

@@ -109,7 +109,7 @@ Brahmanae Vedam studuerunt et docuerunt, deis tamquam sacrificiorum domini immol
 
 ⟪५⟫. **⟪बुद्धपुत्राः⟫ ⟪सत्यमजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫**
 (⟪बुद्धस्य⟫ ⟪पुत्राः⟫)
-Filii Buddham veritatem agnoverunt, dolorem ad quietem adduxerunt et liberationem consecuti sunt. "Filius Buddham" monachus appellatur, qui viam Buddhae sequitur. <!-- TODO: Fallback translation -->
+Filii Buddham veritatem agnoverunt, dolorem ad quietem adduxerunt et liberationem consecuti sunt. "Filius Buddham" monachus appellatur, qui viam Buddhae sequitur.
 
 ::: media
 ![](/images/uebung050.webp)
@@ -217,7 +217,7 @@ Sequentes formas verbales determinate et traducite:
 Abb.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Fontes imaginis: [Detalia](/licenses#uebung051))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercitatio de Sandhi
 

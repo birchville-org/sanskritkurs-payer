@@ -13,14 +13,14 @@ lesson_id: 19
 
 **Ⲡⲓⲛϣⲟⲡ ⲉⲧⲥⲁⲛϣⲟⲡ -- Ⲡⲓⲛϣⲟⲡ ⲉⲧⲥⲁⲛϣⲟⲡ ⲉⲧⲙⲛⲕⲓⲥ ⲉⲧⲟⲩϣⲏⲙ -- (Ⲡⲓⲛϣⲟⲡ ⲉⲧⲥⲁⲛϣⲟⲡ) -- Ⲡⲓⲛϣⲟⲡ ⲉⲧⲥⲁⲛϣⲟⲡ**
 
-**Der Relativsatz kann auch nach dem Hauptsatz stehen, er kann aber nicht in den Hauptsatz eingeschoben werden.** <!-- TODO: Fallback translation -->
+**Der Relativsatz kann auch nach dem Hauptsatz stehen, er kann aber nicht in den Hauptsatz eingeschoben werden.**
 
 **Das Relativpronomen und das Beziehungswort, das ja - im Gegensatz zum Deutschen - im Relativsatz steht, stehen in dem Kasus, den der Relativsatz syntaktisch erfordert. Das Demonstrativpronomen steht in dem Kasus, den der Hauptsatz syntaktisch erfordert.**
 :::
 
 ⲡⲓϫⲱⲛ:
 
-Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstelle des Indikativs verwendet. Viele unserer Beispiele würden also bevorzugt im Optativ stehen. <!-- TODO: Fallback translation -->
+Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstelle des Indikativs verwendet. Viele unserer Beispiele würden also bevorzugt im Optativ stehen.
 
 **1. Der Agens (⟪कर्तृ⟫) des Satzes wird durch einen Relativsatz näher bestimmt:**
 
@@ -92,7 +92,7 @@ Abb.: ⟪कामः⟫
 Illustration zum ⟪कामसूत्र⟫
 (Bildquelle: [Details](/licenses#lekt1809))
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫) <!-- TODO: Fallback translation -->
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫)
 
 **⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
 
@@ -183,7 +183,7 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 3\. ⲡⲛⲁⲕⲓϥ ⲛ̀ⲧⲉ ϯⲙⲏⲟϥ ⲛ̀ⲧⲉ ϯⲙⲏⲟϥ ⲛ̀ⲧⲉ ϯⲙⲏⲟϥ ⲛ̀ⲧⲉ ϯⲙⲏⲟϥ.
 
-4\. Feuer verbrennt das Haus des Mannes, der Agni nicht mit einem Opfer verehrt. <!-- TODO: Fallback translation -->
+4\. Feuer verbrennt das Haus des Mannes, der Agni nicht mit einem Opfer verehrt.
 
 5\. Der tigergleiche Mann erschlägt die Kṣatriya-Krieger, die Rāma besiegt haben (Passiv).
 
@@ -220,15 +220,3 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 :::
 ⲟⲩⲱϩⲉⲙⲥⲁϩⲛⲓ: ⟪पुमान्⟫ Nom. sg. ⲛ̀ ⟪पुंस्⟫ "ⲣⲱⲙⲓ" ; ⟪लोके⟫ ⲗⲟⲕⲁⲧⲓⲃⲟⲥ sg. ⲛ̀ ⟪लोक⟫ ⲡ̀ϩ.: ϩⲓ ⲧ...
 
-::: deleteme-box
-
-**lekt1809:** ⲡⲓϣⲟⲧ ϵⲛ ϩⲉⲕϫⲓ ⲡⲓⲱⲧⲉ ϩⲛ ⟪कामसूत्र⟫ [ϣⲱⲡⲟ ϩⲛ ⲧⲥϣⲱⲡⲟ: Wikipedia, ϩⲙ ⲛⲧⲉ Public domain]
-
-**lekt1901:** Badami (ಬದಾಮι) [ϣⲱⲡⲟ ϩⲛ ⲧⲥϣⲱⲡⲟ: Sudarshan Bhat Khandige / Wikipedia, ϩⲙ ⲛⲧⲉ Public domain]
-
-**lekt1902:** Goa (⟪गोंय⟫) [ϣⲱⲡⲟ ϩⲛ ⲧⲥϣⲱⲡⲟ: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- ⲛⲁϧ ϩⲙ 2008-12-08. -- Creative Commons License (ϣⲱⲡⲟ ϩⲛ ⲧⲥϣⲱⲡⲟ, ϩⲙ ⲛⲧⲉ commercial use, ϩⲙ ⲛⲧⲉ modification)]
-
-**lekt1903:** ⟪१९५९⟫ [ϣⲱⲡⲟ ϩⲛ ⲧⲥϣⲱⲡⲟ: Wikipedia, ϩⲙ ⲛⲧⲉ Public domain]
-
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), im traditionellen Kostüm, ist ein Brauch in den südlichen Teilen von Kerala. _Onappottan_ besucht Häuser während des _onam_ und gibt Segen. In letzter Zeit ist _onappottan_ zu einer seltenen Erscheinung geworden, beschränkt auf Dörfer." [Bildquelle: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung)]
-:::

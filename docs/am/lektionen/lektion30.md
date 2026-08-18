@@ -517,12 +517,3 @@ Inf. ⟪जीवितुम्⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [የምስል ምንጭ: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- የተገኘበት ቀን 2008-12-21. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ ምንም ዓይነት ማሻሻያ የለም)]
-**lekt3002:** Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [የምስል ምንጭ: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- የተገኘበት ቀን 2008-12-21. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ በተመሳሳይ ሁኔታ ማጋራት)]
-**lekt3003:** [የምስል ምንጭ: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- የተገኘበት ቀን 2008-12-21. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ በተመሳሳይ ሁኔታ ማጋራት)]
-**lekt3005:** ⟪थाली⟫, ደቡብ ህንድ [የምስል ምንጭ: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- የተገኘበት ቀን 2008-12-21. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ በተመሳሳይ ሁኔታ ማጋራት)]
-**lekt3004:** [የምስል ምንጭ: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- የተገኘበት ቀን 2008-12-21. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ በተመሳሳይ ሁኔታ ማጋራት)]
-**lekt2904:** [የምስል ምንጭ: Wikipedia / የቅጂ መብት የ Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 39
 
-A) Muodosta seuraavista verbimuodoista ensimmäisen persoonan muodot, jotka vastaavat näitä muotoja luvussa, ajassa, moodissa (indikaattivi, optatiivi) ja aktiivisuustavassa (P, Ā, passiivi): <!-- TODO: Fallback translation -->
+A) Muodosta seuraavista verbimuodoista ensimmäisen persoonan muodot, jotka vastaavat näitä muotoja luvussa, ajassa, moodissa (indikaattivi, optatiivi) ja aktiivisuustavassa (P, Ā, passiivi):
 
 ::: grammar-box
 | 3. persoona | 1. persoona |

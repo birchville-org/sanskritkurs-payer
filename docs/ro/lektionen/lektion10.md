@@ -9,14 +9,6 @@ status: stable
 
 # Lecția 10
 
-::: deleteme-box
-**În această lecție veți învăța:**
-- Propoziția pasivă (Instrumental al agentului)
-- Declinarea instrumentalului (tṛtīyā)
-- Legea cerebrale pentru -n- (Wortsandhi)
-- Formarea pasivului (yak) la indicativul prezent
-- Vocabular referitor la jertfă, adevăr și roluri sociale
-:::
 ## 10.1. Propoziția pasivă
 
 ::: grammar-box
@@ -103,9 +95,6 @@ Construcțiile pasive sanscrite sunt extrem de frecvente: pasivul este, de aseme
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-Î afară de Nominativ și Acuzativ, formele Neutrelor în -a, ale pronumelui interogativ și ale pronumelor demonstrative sunt identice cu formele corespunzătoare ale Masculinului.
-:::
 
 ### 10.2.1. Despre utilizarea instrumentalului (tṛtīyā = ⟪तृतीया⟫)
 
@@ -192,7 +181,7 @@ de ex.
 * **smṛ** 1 P: **smaryate**, **smaryante**
 ⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-4. **Gradul redus al verbelor care încep cu ya, va, ra, sau în care aceste sunete se află după o altă consoană (Samprasāraṇa = ⟪सम्प्रसारण⟫):** <!-- TODO: Fallback translation -->
+4. **Gradul redus al verbelor care încep cu ya, va, ra, sau în care aceste sunete se află după o altă consoană (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
    | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
    | :--- | :--- | :--- |
@@ -200,7 +189,7 @@ de ex.
    | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
    | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-   Denumirea tradițională autohtonă pentru această formare a gradului redus la verbele cu **ya** sau **va** este **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫). <!-- TODO: Fallback translation -->
+   Denumirea tradițională autohtonă pentru această formare a gradului redus la verbele cu **ya** sau **va** este **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ** final, după o singură consoană, este înlocuit cu **-ri-** înainte de sufixul pasiv **-ya-**:
 * **kṛ** 8 U: **kriyate**, **kriyante**
@@ -238,7 +227,7 @@ de ex.
   Derivare: **yaj** 1 U + sufixul kṛt **-na-**.
   :::
 
-- **puṇya** n. ⟪पुण्य⟫ : faptă bună, merit <!-- TODO: Fallback translation -->
+- **puṇya** n. ⟪पुण्य⟫ : faptă bună, merit
 
   ::: note-box
   Ceea ce câștigă bunăstare și nașteri bune în reîncarnări.
@@ -279,7 +268,7 @@ Fig.: ⟪विश्वामित्रः⟫
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : a spune, a vorbi
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : a întreba (pe cineva: Acuzativ; despre ceva: Acuzativ)
-- **saha** ⟪सह⟫ : împreună cu, alături de (și în contextul „a lupta cu” etc.) (Postpoziție cu Instrumental) <!-- TODO: Fallback translation -->
+- **saha** ⟪सह⟫ : împreună cu, alături de (și în contextul „a lupta cu” etc.) (Postpoziție cu Instrumental)
 
 ## 10.6. Exercitare
 
@@ -344,7 +333,7 @@ Fig.: ⟪तन्तुवायः⟫
 7. Poetul vede o zeitate. (Construcție pasivă)
 8. Cine (fem.) păzește fata? (Construcție pasivă)
 9. Kṣatriya-l îl onorează pe DOMNUL cu un sacrificiu. (Construcție pasivă, fără a folosi cuvântul **yajña**)
-10. Prin generozitate, un adep al lui Buddha ajunge la cer. <!-- TODO: Fallback translation -->
+10. Prin generozitate, un adep al lui Buddha ajunge la cer.
 
 ## 10.7. Listă de cuvinte 2
 
@@ -371,7 +360,7 @@ Fig.: ⟪तन्तुवायः⟫
 - **mārga** m. ⟪मार्ग⟫ : cale
 - **evam** ⟪एवम्⟫ : așa
 - **iha** ⟪इह⟫ : aici
-- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : a fi frumos, a străluci <!-- TODO: Fallback translation -->
+- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : a fi frumos, a străluci
 
 ## 10.8. Exercițiu de citire și traducere
 

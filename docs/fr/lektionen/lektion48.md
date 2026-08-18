@@ -265,7 +265,7 @@ Fig. : ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig. : ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Source de l'image : [Détails](/fr/licenses#lekt4802))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -406,23 +406,3 @@ B) Traduisez en sanskrit (utilisez l'impératif et de préférence les racines d
 Explication :  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gén. (⟪षष्ठी⟫) duel de ⟪द्वे⟫ ⟪कुले⟫ « deux familles »
 
-::: deleteme-box
-
-**lekt4801:** [Source de l'image : Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Consulté le 2009-01-10. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, pas d'utilisation commerciale, partage à l'identique)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Source de l'image : Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Consulté le 2009-01-10. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, pas d'utilisation commerciale, partage à l'identique)]
-
-**lekt4803:** Joueur de sitar = ⟪सितारवादकः⟫ [Source de l'image : Wikipedia. Domaine public]
-
-**lekt4804:** [Groupe d'entraide (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Source de l'image : mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Consulté le 2009-01-10. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribution, pas d'utilisation commerciale)]
-
-**lekt4805:** Festival Thaipusam = தைப்பூசம், Batu Caves, Malaisie [Source de l'image : tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Consulté le 2009-01-10. -- [Licence Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt4806:** ⟪नेपाल⟫ [Source de l'image : changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Consulté le 2009-01-10. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
-
-**lekt4807:** ⟪जोधपुर⟫ [Source de l'image : zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Consulté le 2009-01-10. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
-
-**lekt4808:** Lac Karanji = ಕಾರಂಜಿ ಕೆರೆ [Source de l'image : Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Consulté le 2009-01-10. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribution, partage à l'identique)]
-
-**lekt4809:** (Image: Payer)
-:::

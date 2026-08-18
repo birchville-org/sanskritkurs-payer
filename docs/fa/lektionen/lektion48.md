@@ -1,10 +1,11 @@
 ---
-title: Lektion 48
+title: "درس ۴۸"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # درس ۴8
@@ -48,7 +49,7 @@ status: stable
 | **\-hi** | alle übrigen Präsensstämme, die auf Vokal oder Halbvokal enden (Ausnahme: **⟪जुहुधि⟫** zu **⟪हु⟫ 3**) |
 | **\-dhi** | Alle übrigen Fälle |
 :::
-### 48.2.2. شکل ستاک زمان حال <!-- TODO: Fallback translation -->
+### 48.2.2. شکل ستاک زمان حال
 
 ::: grammar-box
 **بن قوی:**
@@ -228,7 +229,7 @@ status: stable
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
+| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
 
 پیش از پسوند **-ya**، پایان بن به‌مانند حالتی که پیش از پسوند **-a** است، رفتار می‌شود.
 :::
@@ -246,15 +247,15 @@ z.B. **⟪व्याघ्र⟫** m. "Tiger" » **⟪वैयाघ्र⟫
 ::: media
 ![](/images/lekt4801.webp)
 Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Bildquelle: [Details](/licenses#lekt4801))
+(Bildquelle: [Details](/fa/licenses#lekt4801))
 :::
-## 48.4. فهرست واژگان <!-- TODO: Fallback translation -->
+## 48.4. فهرست واژگان
 
 ⟪श्वस्⟫ : morgen
 
 ⟪अद्य⟫ : heute
 
-⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck) <!-- TODO: Fallback translation -->
+⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck)
 
 ⟪व्याकरण⟫ n.: دستور زبان (به ⟪व्याकृ⟫)
 
@@ -264,15 +265,15 @@ Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 ![](/images/lekt4802.webp)
 تصویر: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি، Assam = অসম
-(منبع تصویر: [جزئیات](/licenses#lekt4802))
-::: <!-- TODO: Fallback translation -->
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4802))
+:::
 
 :::
 ::: media
 ![](/images/lekt4803.webp)
 تصویر: ⟪तन्त्री⟫
 نوازنده سیتار = ⟪सितारवादकः⟫
-(منبع تصویر: [جزئیات](/licenses#lekt4803))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4803))
 :::
 ⟪स्त्री⟫ f.: زن، همسر ; جنس مؤنث
 
@@ -294,7 +295,7 @@ Sualkuchi = সুৱালকুচি، Assam = অসম
 ![](/images/lekt4804.webp)
 تصویر: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [گروه خودیاری (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\))، تامیل نادو = தமிழ்நாடு
-(منبع تصویر: [جزئیات](/licenses#lekt4804))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4804))
 :::
 ⟪दिवानिशम्⟫ قید: در روز و شب
 
@@ -306,7 +307,7 @@ Sualkuchi = সুৱালকুচি، Assam = অসম
 ![](/images/lekt4805.webp)
 تصویر: ⟪कुमारः⟫
 جشن تایپوسام = தைப்பூசم، غارهای باتو، مالزی
-(منبع تصویر: [جزئیات](/licenses#lekt4805))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4805))
 :::
 ⟪कुमारी⟫ مؤنث: دختر، فرزند زن
 
@@ -314,7 +315,7 @@ Sualkuchi = সুৱালকুচি، Assam = অসম
 ![](/images/lekt4806.webp)
 تصویر: ⟪कुमारी⟫
 ⟪नेपाल⟫
-(منبع تصویر: [جزئیات](/licenses#lekt4806))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4806))
 :::
 ⟪कौमर⟫ نر: کودکی
 
@@ -326,7 +327,7 @@ Sualkuchi = সুৱালকুচি، Assam = অসম
 ![](/images/lekt4807.webp)
 تصویر: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
-(منبع تصویر: [جزئیات](/licenses#lekt4807))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4807))
 :::
 ⟪स्थाविर⟫ n.: (بالا) سن
 
@@ -338,7 +339,7 @@ Sualkuchi = সুৱালকুচি، Assam = অসম
 ![](/images/lekt4808.webp)
 تصویر: ⟪सूक्ष्मम्⟫
 دریاچه کارانجی = ಕಾರಂಜಿ ಕೆರೆ
-(منبع تصویر: [جزئیات](/licenses#lekt4808))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4808))
 :::
 ⟪प्रसङ्ग⟫ m.: دلبستگی، گرایش؛ فرصت
 
@@ -354,7 +355,7 @@ Sualkuchi = সুৱালকুচি، Assam = অসম
 ![](/images/lekt4809.webp)
 تصویر: ⟪मम⟫ ⟪जाया⟫
 (تصویر: پایر)
-(منبع تصویر: [جزئیات](/licenses#lekt4809))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4809))
 :::
 ## ۴۸.۵ تمرین
 
@@ -406,23 +407,3 @@ Sualkuchi = সুৱালকুচি، Assam = অসম
 توضیح:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : حالت مفعولی (⟪षष्ठी⟫) دوگانه به ⟪द्वे⟫ ⟪कुले⟫ "دو خانواده"
 
-::: deleteme-box
-
-**lekt4801:** [منبع تصویر: گونلاوگور ت. بریم. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- دسترسی در ۲۰۰۹-۰۱-۱۰. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
-
-**lekt4802:** سواالکوچی = সুৱালকুচি، آسام = অসم [منبع تصویر: کن مک‌چزنی. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- دسترسی در ۲۰۰۹-۰۱-۱۰. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)]
-
-**lekt4803:** نوازنده سیتار = ⟪सितारवादकः⟫ [منبع تصویر: ویکی‌پدیا. مالکیت عمومی]
-
-**lekt4804:** [گروه خودیاری (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\))، تامیل نادو = தமிழ்நாடு [منبع تصویر: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- دسترسی در ۲۰۰۹-۰۱-۱۰. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (نسب‌دهی، استفاده غیرتجاری)]
-
-**lekt4805:** جشن تایپوسام = தைப்பூசم، باتو کوزس، مالزی [منبع تصویر: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- دسترسی در 2009-01-10. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by/2.0/deed.de) (نسب)]
-
-**lekt4806:** ⟪नेपाल⟫ [منبع تصویر: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- دسترسی در 2009-01-10. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب، استفاده غیرتجاری، بدون تغییر)]
-
-**lekt4807:** ⟪जोधपुर⟫ [منبع تصویر: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- دسترسی در 2009-01-10. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (نسب، استفاده غیرتجاری، بدون تغییر)]
-
-**lekt4808:** دریاچه کارانجی = ಕಾರಂಜಿ ಕೆರೆ [منبع تصویر: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- دسترسی در 2009-01-10. -- [مجوز کریتیو کامنز](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (نسب، اشتراک یکسان)]
-
-**lekt4809:** (تصویر: پیتر)
-:::

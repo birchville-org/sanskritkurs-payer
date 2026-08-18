@@ -11,7 +11,7 @@ status: stable
 
 ## 39.1. Die Personalendungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪पुरुषः⟫ = "**dritte** Person")
 
-Die Endungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪पुरुषः⟫ = "**dritte** Person") sind: <!-- TODO: Fallback translation -->
+Die Endungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪पुरुषः⟫ = "**dritte** Person") sind:
 
 ::: grammar-box
 
@@ -26,17 +26,17 @@ Die Endungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪�
 | **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
-1 Anmerkung: eigentlich ist die Primärendung Ā thematischer Stämme auch als -e anzusetzen, vor dem der Themavokal -a- aus Analogiegründen wegfällt. Der Effekt ist aber so, als ob die Endung -i an den Themavokal -a- treten würde: a + i » e. <!-- TODO: Fallback translation -->
+1 Anmerkung: eigentlich ist die Primärendung Ā thematischer Stämme auch als -e anzusetzen, vor dem der Themavokal -a- aus Analogiegründen wegfällt. Der Effekt ist aber so, als ob die Endung -i an den Themavokal -a- treten würde: a + i » e.
 
-## 39.2. Bildung der Verbformen der ersten Person thematischer Präsensstämme <!-- TODO: Fallback translation -->
+## 39.2. Bildung der Verbformen der ersten Person thematischer Präsensstämme
 
 ::: grammar-box
 **Regel:**
-**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!** <!-- TODO: Fallback translation -->
+**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
 ### 39.2.1. 第一现在时类（⟪भ्वादि⟫）
 
-⟪भू⟫ 1P <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P
 
 ::: grammar-box
 
@@ -50,7 +50,7 @@ Die Endungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪�
 :::
 ### 39.2.2. 第六现在时类 (⟪तुदादि⟫)
 
-⟪विश्⟫ 6P <!-- TODO: Fallback translation -->
+⟪विश्⟫ 6P
 
 ::: grammar-box
 
@@ -64,7 +64,7 @@ Die Endungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪�
 :::
 ### 39.2.3. 第四类现在时词干 (⟪दिवादि⟫)
 
-⟪नृत्⟫ 1P <!-- TODO: Fallback translation -->
+⟪नृत्⟫ 1P
 
 ::: grammar-box
 
@@ -78,7 +78,7 @@ Die Endungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪�
 :::
 ### 39.2.4. 第十类现在时词干 (⟪चुरादि⟫) 和使役动词 (⟪णिजन्त⟫)
 
-⟪चुर्⟫ 10U <!-- TODO: Fallback translation -->
+⟪चुर्⟫ 10U
 
 ::: grammar-box
 
@@ -103,16 +103,16 @@ Die Endungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Bildung der Verbformen der ersten Person des einfachen Futur  - ⟪ऌत्⟫ <!-- TODO: Fallback translation -->
+## 39.3. Bildung der Verbformen der ersten Person des einfachen Futur  - ⟪ऌत्⟫
 
 ::: grammar-box
-**Das Futur hat thematische Bildung. Deshalb gilt auch die Regel für thematische Stämme:** <!-- TODO: Fallback translation -->
+**Das Futur hat thematische Bildung. Deshalb gilt auch die Regel für thematische Stämme:**
 
-**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!** <!-- TODO: Fallback translation -->
+**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫-Bildung <!-- TODO: Fallback translation -->
+### 39.3.1. ⟪अनिट्⟫-Bildung
 
-⟪दा⟫ 3U <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U
 
 ::: grammar-box
 
@@ -122,9 +122,9 @@ Die Endungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪�
 | **Futur  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. ⟪सेट्⟫-Bildung <!-- TODO: Fallback translation -->
+### 39.3.2. ⟪सेट्⟫-Bildung
 
-⟪भू⟫ 1P <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P
 
 ::: grammar-box
 
@@ -134,21 +134,21 @@ Die Endungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪�
 | **Futur  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
 
 :::
-## 39.4. Bildung der Verbformen der ersten Person athematischer Präsensstämme <!-- TODO: Fallback translation -->
+## 39.4. Bildung der Verbformen der ersten Person athematischer Präsensstämme
 
 ::: grammar-box
-**Beachten Sie, dass im Wortinnern - im Gegensatz zum Satzsandhi - vor Endungen, die mit** <!-- TODO: Fallback translation -->
-* **Vokal** <!-- TODO: Fallback translation -->
-* **Halbvokal** <!-- TODO: Fallback translation -->
-* **Nasal** <!-- TODO: Fallback translation -->
+**Beachten Sie, dass im Wortinnern - im Gegensatz zum Satzsandhi - vor Endungen, die mit**
+* **Vokal**
+* **Halbvokal**
+* **Nasal**
 
-**beginnen, Konsonanten in der Regel unverändert bleiben.** <!-- TODO: Fallback translation -->
+**beginnen, Konsonanten in der Regel unverändert bleiben.**
 
-z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫***⟪च्मि⟫*** <!-- TODO: Fallback translation -->
+z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫***⟪च्मि⟫***
 :::
 ### 39.4.1. 第二类现在时词干 (⟪अदादि⟫)
 
-⟪द्विष्⟫ 2U <!-- TODO: Fallback translation -->
+⟪द्विष्⟫ 2U
 
 ::: grammar-box
 
@@ -160,7 +160,7 @@ z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫***⟪च्मि⟫*** <!-- 
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪द्विष्याम्⟫ :brdviṣ-yā + m | ⟪द्विष्याम⟫ | ⟪द्विषीय⟫ :brdviṣ-īy-a | ⟪द्विषीमहि⟫ |
 
 :::
-⟪अस्⟫ 2P <!-- TODO: Fallback translation -->
+⟪अस्⟫ 2P
 
 ::: grammar-box
 
@@ -175,11 +175,11 @@ z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫***⟪च्मि⟫*** <!-- 
 ::: media
 ![lekt3901.jpg](/images/lekt3901.jpg)
 Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
-(Bildquelle: [Details](/licenses#lekt3901)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3901))
 :::
 ### 39.4.2. 第三类现在时词干 (⟪जुहोत्यादि⟫)
 
-⟪हु⟫ 3P <!-- TODO: Fallback translation -->
+⟪हु⟫ 3P
 
 ::: grammar-box
 
@@ -191,7 +191,7 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪जुहुयाम्⟫ | ⟪जुहुयाम⟫ | **\<⟪जुह्वीय⟫\>** :brjuhu + īy-a | **\<⟪जुह्वीमहि⟫\>** |
 
 :::
-⟪धा⟫ 3U <!-- TODO: Fallback translation -->
+⟪धा⟫ 3U
 
 ::: grammar-box
 
@@ -206,9 +206,9 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 ### 39.4.3. 第五现在时类 (⟪स्वादि⟫)
 
 ::: grammar-box
-**Bei vokalisch auslautenden Wurzeln kann wahlweise vor mit m- beginnenden Endungen das -u des Stammbildungssuffixes (-nu) wegfallen.** <!-- TODO: Fallback translation -->
+**Bei vokalisch auslautenden Wurzeln kann wahlweise vor mit m- beginnenden Endungen das -u des Stammbildungssuffixes (-nu) wegfallen.**
 :::
-⟪सु⟫ 5U <!-- TODO: Fallback translation -->
+⟪सु⟫ 5U
 
 ::: grammar-box
 
@@ -222,7 +222,7 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 :::
 ### 39.4.4. 第八现在时类 (⟪तनादि⟫)
 
-⟪तन्⟫ 8U <!-- TODO: Fallback translation -->
+⟪तन्⟫ 8U
 
 ::: grammar-box
 
@@ -234,7 +234,7 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪तनुयाम्⟫ | ⟪तनुयाम⟫ | ⟪तन्वीय⟫ | ⟪तन्वीमहि⟫ |
 
 :::
-⟪कृ⟫ 8U <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U
 
 ::: grammar-box
 
@@ -248,7 +248,7 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 :::
 ### 39.4.5. 第七类现在时词干 (⟪रुधादि⟫)
 
-⟪युज्⟫ 7U <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U
 
 ::: grammar-box
 
@@ -262,7 +262,7 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 :::
 ### 39.4.6. 第九现在时类 (⟪क्र्यादि⟫)
 
-⟪क्री⟫ 9U <!-- TODO: Fallback translation -->
+⟪क्री⟫ 9U
 
 ::: grammar-box
 
@@ -276,9 +276,9 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 :::
 ## 39.5. 练习
 
-Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen. <!-- TODO: Fallback translation -->
+Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen.
 
-Beispiel: ⟪गच्छन्ति⟫ » ⟪गच्छामस्⟫ <!-- TODO: Fallback translation -->
+Beispiel: ⟪गच्छन्ति⟫ » ⟪गच्छामस्⟫
 
 1.  ⟪अदन्ति⟫
 2.  ⟪आसन्⟫

@@ -5,7 +5,7 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 24
 
@@ -293,7 +293,7 @@ Manuscript al ⟪गीतगोविन्द⟫, 1730 d.Hr.
 :::
 ⟪स्वागत⟫ n.: Bine ați venit (din su-ā-gata)
 
-⟪तृण⟫ n.: Tulpină de iarbă <!-- TODO: Fallback translation -->
+⟪तृण⟫ n.: Tulpină de iarbă
 
 ⟪पुनर्⟫ Adverb: din nou, din nou, înapoi, dar
 
@@ -367,7 +367,7 @@ Traduceți în sanscrită:
 
 3\. Acum ajunge = Ajunge cu răbdarea.
 
-4\. Acesta este bine (⟪हित⟫, ⟪सुख⟫) pentru un brahman. <!-- TODO: Fallback translation -->
+4\. Acesta este bine (⟪हित⟫, ⟪सुख⟫) pentru un brahman.
 
 5\. Cinstirea (⟪नमस्⟫) fie lui Śiva! Cinstirea fie lui Śrī Gaṇeśa!
 
@@ -378,13 +378,13 @@ Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
 6\. La revedere! (= Sănătate (⟪स्वस्ति⟫ f.) vouă!)
 
-7\. Acest fruct ajunge pentru mâncare. <!-- TODO: Fallback translation -->
+7\. Acest fruct ajunge pentru mâncare.
 
 8\. Un luptător este egal cu (celălalt) luptător (⟪शक्त⟫).
 
 9\. Însuși Viṣṇu nu-l întrece (⟪प्र⟫-⟪भू⟫ + Dat.) pe Śiva.
 
-10\. După ce m-am închinat celor trei înțelepți (Ac.) (⟪नमस्कृ⟫)... El se închină lui Narasiṃha (Dat.) <!-- TODO: Fallback translation -->
+10\. După ce m-am închinat celor trei înțelepți (Ac.) (⟪नमस्कृ⟫)... El se închină lui Narasiṃha (Dat.)
 
 ::: indent
 Explicație: ⟪मुनित्रयम्⟫ "Triplul înțelepților = cei trei înțelepți" = gramaticienii ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
@@ -405,28 +405,3 @@ Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 15⟪१५⟫. La revedere! (Sanskrită nouă: ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] este un eveniment hindus tradițional care are loc în sărbătorile Noului An hindus la toate mandirele BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Sute de feluri de mâncare vegetariene sunt oferite lui Bhagwan Swaminarayan [સ્વામિનારાયણ] în această zi. [Sursa imaginii: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Accesat la 2008-12-14. -- Licență Creative Commons (Atribuire, utilizare non-comercială)]
-
-**lekt2402:** Raksha bandhan este sărbătorit cu entuziasm și bucurie în toată India. Acest festival epitomizează iubirea necondiționată dintre frați și surori. [Sursa imaginii: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Accesat la 2008-12-14. -- Licență Creative Commons (Atribuire, utilizare non-comercială, share alike)]
-
-**lekt2403:** "Rama (dreapta) șezând pe umerii lui Hanuman, se luptă cu regele demon Ravana." circa 1820 [Sursa imaginii: Wikipedia, Domeniu public] <!-- TODO: Fallback translation -->
-
-**lekt2404:** [Sursa imaginii: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Accesat la 2008-12-14. -- Licență Creative Commons (Atribuire, fără modificări)]
-
-**lekt2405:** [Sursa imaginii: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Accesat la 2008-12-14. -- Licență Creative Commons (Atribuire, utilizare non-comercială, fără modificări)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Sursa imaginii: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Accesat la 2008-12-14. -- Licență Creative Commons (Atribuire, utilizare non-comercială)]
-
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [Sursa imaginii: World Economic Forum / Foto de Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Accesat la 2008-12-14. -- Licență Creative Commons (Atribuire, share alike)]
-
-**lekt2408:** "Povestitorul din San Francisco, Jeff Byers, împărtășește o poveste cu locuitorii din Chenneri, un sat Irula. Povestitorul Jeeva Raghunath traduce în tamilă pentru săteni." [Sursa imaginii: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Accesat la 2008-12-14. -- Licență Creative Commons (Atribuire, non-commercial)]
-
-**lekt2409:** [Sursa imaginii: Redtigerxyz / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt2410:** ⟪नरसिंह⟫ sfâșiat ⟪हिरण्यकशिपु⟫, pagină dintr-un manuscris al ⟪भागवतपुराण⟫ [Sursa imaginii: Wikipedia, Domeniu public]
-
-**lekt2411:** Manuscris al ⟪गीतगोविन्द⟫, 1730 d.Hr. [Sursa imaginii: Wikipedia, Domeniu public]
-:::
- <!-- TODO: Fallback translation -->

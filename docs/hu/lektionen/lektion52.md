@@ -1,15 +1,16 @@
 ---
-title: Lektion 52
-subtitle: "Neutrum der Stämme auf -i und -u"
+title: "Lecke 52"
+subtitle: "Neutrum a -i és -u végű töveknél"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# 52. lecke <!-- TODO: Fallback translation -->
+# 52. lecke
 
-## 52.1. A -i és -u végződésű tövek semleges nemű alakjai <!-- TODO: Fallback translation -->
+## 52.1. A -i és -u végződésű tövek semleges nemű alakjai
 
 ::: grammar-box
 **Vokális kezdővégződés előtt -n- betét hang keletkezik; ez az n-tövek (-in) hatása.**
@@ -65,12 +66,12 @@ Példák:
 
 **A -maya előtt (ahogy a -⟪मात्र⟫ előtt) a pausális forma zárhangjait megfelelő nazálissal kell helyettesíteni.**
 :::
-Példák: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
 ⟪अन्नमय⟫ 3 "ételekben gazdag"
 
-⟪चिन्मय⟫ 3 (a ⟪चित्⟫ nőnemben "intellektus") "gondolkodásban/értelemmel rendelkező" <!-- TODO: Fallback translation -->
+⟪चिन्मय⟫ 3 (a ⟪चित्⟫ nőnemben "intellektus") "gondolkodásban/értelemmel rendelkező"
 
 ⟪वाङ्मय⟫ 3 (a ⟪वाच्⟫ f. „nyelv”) „beszédből álló”
 
@@ -91,7 +92,7 @@ Kép: ⟪अन्नमयम्⟫
 ### 52.2.3. ⟪तद्धित⟫-képző -eya
 
 ::: grammar-box
-**A ⟪तद्धित⟫-képző -eya / nőnemben: -eyī főleg az alábbi értelemben jelenik meg a nőnemű szavakon:** <!-- TODO: Fallback translation -->
+**A ⟪तद्धित⟫-képző -eya / nőnemben: -eyī főleg az alábbi értelemben jelenik meg a nőnemű szavakon:**
 
 *   **„a gyermek, aki…”**
 *   **„utódja a(nak)”**
@@ -129,7 +130,7 @@ Példák:
 Szentély előtti sorban állás, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5204))
 :::
-## 52.4. Igeképzők, amelyek kifejezik, hogy valami valamivé válik vagy olyanná lesz, ami előtte nem volt (⟪अभुततद्भावः⟫) <!-- TODO: Fallback translation -->
+## 52.4. Igeképzők, amelyek kifejezik, hogy valami valamivé válik vagy olyanná lesz, ami előtte nem volt (⟪अभुततद्भावः⟫)
 
 ### 52.4.1. cvi képzések
 
@@ -150,7 +151,7 @@ A név végződése a következőképpen kezelendő:
 Példák:  
 ⟪कृष्णीभवति⟫ "ami nem fekete, az feketévé válik"
 ⟪कृष्णीकरोति⟫ "aki nem fekete valamit, azt feketévé teszi"
-⟪गङ्गीभवति⟫ "ő/az Ganges-szé válik" <!-- TODO: Fallback translation -->
+⟪गङ्गीभवति⟫ "ő/az Ganges-szé válik"
 
 *   **a végén álló -i és -u helyét a megfelelő hosszú magánhangzó veszi át**
 Példák:  
@@ -165,69 +166,56 @@ pl. ⟪राजीबभूव⟫ "egy (aki nem király volt), királlyá lett 
 
 *   **több tövű egyéb főnevek a többes számú helyhatározó eset (⟪सप्तमी⟩) tövének formájában állnak. A tő ezután a szokásos szandhi-szabályoknak veti alá magát. Lásd Kielhorn, Grammatik § 489,3.**
 pl. ⟪तिर्यक्करोति⟫ "oldalra fekteti (⟪तिर्यच्⟫)"
+
+*   **Többtönű egyéb főnevek a tőalakban állnak, amelynek lokatívusában (⟪सप्तमी⟫) többes szám van. A tő ezután a szokásos szandhi-szabályoknak veti alá magát. Lásd Kielhorn, Grammatik § 489,3.**
+pl. ⟪तिर्यक्करोति⟫ "oldalra fekteti (⟪तिर्यच्⟫)"
 :::
 ::: media
 ![](/images/lekt5209.webp)
-Kép: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
-Lángoló erdőirtás, Arunácsal Pradés = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Képmagyarázat: [Részletek](/hu/licenses#lekt5209))
+Ábr.: ⟪भस्मीकृतं वनम्⟫
+Lángoló földművelés, Arunachal Pradesh = ⟪अरुणाचल प्रदेश⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5209))
 :::
 ### 52.4.2. -sát képző
 
 ::: grammar-box
-**Annak kifejezésére, hogy egy személy vagy dolog teljesen valamivé válik, vagy hogy valaki mást vagy mást valami olyanná tesz, amit egy főnév jelöl, a következő** <!-- TODO: Fallback translation -->
+**Annak kifejezésére, hogy egy személy vagy dolog teljesen valamivé válik, vagy hogy valaki valami mást vagy valakit egészen olyanná tesz, amit egy főnév jelöl, a következőt tehetjük**
 
-**képző -sāt (sosem lesz -ṣāt)**
+**a -sát képzőt (ami sosem lesz -ṣāt)**
 
-**hozzáadható, és így képzett szó a következő gyökerekkel**
+**hozzá, és így képzett szó a gyökerekkel**
 
-*   ⟪कृ⟫ 8U "tenni"
+*   ⟪कृ⟫ 8U "cselekedni"
 *   ⟪अस्⟫ 2P "lenni"
 *   ⟪भू⟫ 1P "válni"
 *   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
-**egy igekötővel kell összekapcsolni.**
+**igekötővé alakul.**
 :::
-Példák: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫ "teljesen tűzzé válik"
+⟪अग्निसाद्भवति । अग्निसात्संपद्यते⟫ "teljesen tűzzé válik"
 
-⟪भस्मसात्करोति⟫ "teljes mértékben hamuvá alakít (⟪भस्मन्⟩ n. 'hamu'))
+⟪भस्मसात्करोति⟫ "teljesen hamuvá változtat (⟪भस्मन्⟩ n. "hamu"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
+**Néha a -sát képző azt jelenti, hogy egy személy vagy dolog**
 
-*   **attól függővé válik, vagy**
-*   **birtokába kerül annak**
-*   **vagy aki valakit attól függővé tesz**
 
-**a névmással jelölt**
+*   **valamitől függővé válik, vagy**
+*   **birtokába kerül annak,**
+*   **vagy hogy valaki valamitől függővé tesz**
+
+**amit a főnév jelöl**
 :::
 Példa:
 
 ::: indent
-⟪राजसाद्भवति⟫ „ő a királytól függ, a királlyá válik”
+⟪राजसाद्भवति⟫ "a királytól függővé válik, a királynak lesz tulajdona"
 :::
 ::: grammar-box
-**A -sát képzős alakításoknál a gyökereket nem úgy kezelik, mint az előtagok után, tehát abszolútus:**
-
-:::
-::: indent
-⟪भस्मसात्कृ⟫:sig[⟪त्वा⟫]
-:::
-## 52.5. Szóismétlések (⟪द्विरुक्तम्⟫)
-
-::: grammar-box
-**A szóismétlés szanszkritban azt fejezi ki:**
-
-*   **A cselekvés ismétlése**
-pl. ⟪पुनः⟫ ⟪पुनः⟫ "mindig újra"
-*   **Distribúció**
-Példák:  
-⟪पृथक्पृथक्⟫ "külön-külön, egyenként"  
-⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "ami csak... az összes"  
-⟪युगे⟫ ⟪युगे⟫ "minden egyes világkorszakban"
+**A -sát képzés után a gyökereket nem úgy kezeljük, mint az igekötők előtt, tehát abszolút:**
 
 **Időnként ilyen kapcsolatokból összetétel képezhető**
 
@@ -240,9 +228,9 @@ Példák:
 ⟪नवनव⟫ 3 "mindig új"
 :::
 A szóban forgó ⟪आम्रेडित⟫-összetételekhez, ahol inflektált szavak ismétlődnek, de a második klasszikus kor előtti időben akcentust kapott, tehát összetételről van szó, lásd Wackernagel: Altindische Grammatik II,1 142. old. és köv.
-## 52.6. A számnév (⟪सम्ख्या⟩ f.) <!-- TODO: Fallback translation -->
+## 52.6. A számnév (⟪सम्ख्या⟩ f.)
 
-A nem kezelt témákért lásd pl. Kielhorn, Grammatik §201f. <!-- TODO: Fallback translation -->
+A nem kezelt témákért lásd pl. Kielhorn, Grammatik §201f.
 
 ### 52.6.1. Alapszámok
 
@@ -299,7 +287,7 @@ Példák:
 1000 ⟪सहस्र⟫ n.
 :::
 Az egyes számfőneveket lásd pl. Kielhorn, Grammatik §201.
-#### 52.6.1.3. Szintaktikai megjegyzések a kitevő számokról <!-- TODO: Fallback translation -->
+#### 52.6.1.3. Szintaktikai megjegyzések a kitevő számokról
 
 ::: grammar-box
 **A verbális melléknevek és a kitevő számokhoz tartozó verbálfőnevek közötti különbségből az alábbi szintaktikai következmény adódik:**
@@ -316,7 +304,7 @@ pl. ⟪गोविंशत्या⟫ "huszadik tehén"
 :::
 ### 52.6.2. Sorszámnevek
 
-Lásd pl. Kielhorn, Grammatik §201f. <!-- TODO: Fallback translation -->
+Lásd pl. Kielhorn, Grammatik §201f.
 
 ### 52.6.3. Számhatározók
 
@@ -329,14 +317,14 @@ háromszor: ⟪त्रिस्⟫
 négyszer: ⟪चतुस्⟫
 ötször stb. a -:sig[⟪कृत्वस्⟫] képzővel képezhető: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-szoros": a -:sig[⟪धा⟫] képzővel fejeződik ki <!-- TODO: Fallback translation -->
+b) "-szoros": a -:sig[⟪धा⟫] képzővel fejeződik ki
 
 ::: indent
 egyszerű: ⟪एकधा⟫
 kétszeres: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
 stb.
 :::
-c) "mind ...", "...-ként": a -:sig[⟪शस्⟫] képzővel fejeződik ki (lásd fent!) <!-- TODO: Fallback translation -->
+c) "mind ...", "...-ként": a -:sig[⟪शस्⟫] képzővel fejeződik ki (lásd fent!)
 
 ::: indent
 ⟪द्विशस्⟫ "kettesével, mind ketten"
@@ -351,7 +339,7 @@ hármas, három részből álló
 
 4-től kezdve a "-fältig" utótagot a -:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫]) képző fejezi ki: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "négyes"
 :::
-További képzéseket a szótárak vagy grammatikák tartalmazzák. <!-- TODO: Fallback translation -->
+További képzéseket a szótárak vagy grammatikák tartalmazzák.
 
 ### 52.6.5. Összetett szavak alapmennyiségű számnévvel az első tagban
 
@@ -367,11 +355,11 @@ Példa:
 ![](/images/lekt5205.webp)
 Kép: ⟪चतुर्मुखः⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt5205))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
-**⟪तत्पुरुष⟫ alapértékkel az első tagban nem szabad tetszőlegesen képezni:** <!-- TODO: Fallback translation -->
+**⟪तत्पुरुष⟫ alapértékkel az első tagban nem szabad tetszőlegesen képezni:**
 
 **1. szabály: Az égtájakat jelző szavak (mint ⟪पूर्व⟫ 3 "keleti", ⟪उत्तर⟫ 3 "északi"), valamint az alapértékeket jelző szavak más szavakkal csak akkor alkothatnak ⟪कर्मधारय⟫-összetételt, ha az összetétel tulajdonnévként használatos.**
 :::
@@ -414,7 +402,7 @@ Jalakandapuram = ஜலகண்டபுரம்
 
 **Az egységet jelölő Dvigu-kompozitumok általában középneműek. Ha a második tag -a-ra végződik, akkor a nőnemű képző -ī csatolható. Ha a második tag nőnemű -ā-ra végződik, akkor annak helyére középnemű -a vagy nőnemű -ī lép. Ha a második tag -an-ra végződik, akkor annak helyére -a vagy -ī kerül.**
 :::
-Példák: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
 ⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "a három világ aggregátuma, a három világ egységként, a hármas világ (égbolt-föld-alvilág)
@@ -429,7 +417,7 @@ Példa:
 ::: indent
 ⟪पञ्चगु⟫ 3: "öt tehénért szerzett"
 :::
-## 52.7. Szószedet <!-- TODO: Fallback translation -->
+## 52.7. Szószedet
 
 ⟪अखिल⟫ 3: töretlen, egész
 
@@ -468,9 +456,9 @@ PPP ⟪विपरीत⟫ 3: helytelen, hamis
 | **6. birtokos eset (genitivus):br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. lokativus:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von <!-- TODO: Fallback translation -->
+⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen <!-- TODO: Fallback translation -->
+⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen
 
 ::: media
 ![](/images/lekt5212.webp)
@@ -478,7 +466,7 @@ PPP ⟪विपरीत⟫ 3: helytelen, hamis
 Hyderabad = హైదరాబాద్
 (Képforrás: [Részletek](/hu/licenses#lekt5212))
 :::
-⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äusserster, höchster ; anderer, fremder, feindlich ; m.: Fremder <!-- TODO: Fallback translation -->
+⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äusserster, höchster ; anderer, fremder, feindlich ; m.: Fremder
 
 ::: indent
 davon:
@@ -598,7 +586,7 @@ PPP ⟪च्युत⟫
 Konark = ⟪कोनार्क⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: banánfa (_Musa_ sp.) <!-- TODO: Fallback translation -->
+⟪कदली⟫ f.: banánfa (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -622,7 +610,7 @@ Hampi = ಹಂಪೆ
 ⟪मुंबई⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: Indra mennyországa <!-- TODO: Fallback translation -->
+⟪त्रिपिष्टप⟫ n.: Indra mennyországa
 
 ⟪मार⟫ m.: a megtestesített gonosz, a megtestesült csábítás / manipuláció, ördög
 
@@ -632,7 +620,7 @@ Hampi = ಹಂಪೆ
 Amaravati = అమరావతి, 2. század e. Kr.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: az, aki teljesen fel akarja ismerni <!-- TODO: Fallback translation -->
+⟪विजिज्ञासु⟫ 3: az, aki teljesen fel akarja ismerni
 
 ⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : megvédi, megmenti
 
@@ -694,7 +682,7 @@ Magyarázatok:
 Ábra: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
 _Ficus religiosa_ L. ⟪बोधगया⟫, kb. 1810
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5216))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -752,7 +740,7 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, kb. 1810
 
 A 52. leckével lezárul a szanszkit tanfolyam első féléve (13 hét, heti 4 óra).
 
-A félévszünetben a következő feladatokat kell elvégezni: <!-- TODO: Fallback translation -->
+A félévszünetben a következő feladatokat kell elvégezni:
 
 1.  Az eddig tanultak teljes áttekintése, különösen:
     1.  A ragozási és konjugációs táblázatok fejből tanulása
@@ -778,41 +766,5 @@ Mahābhārata : India nagy eposza / Sanskritból lefordítva és összefoglalva 
 Ábra: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Kép: Payer)
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5201))
-:::
-
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Képmegjelenítés forrása: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Hozzáférés: 2009-01-15. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-**lekt5203:** Wayang-báb, Java, Indonézia [Képmegjelenítés forrása: Wikipedia. Közterület]
-
-**lekt5204:** Várakozó sor templom előtt, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം [Képmegjelenítés forrása: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Hozzáférés: 2009-01-15. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, megosztás ugyanazon feltételekkel)]
-
-**lekt5209:** Lángoló erdőirtás, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Képmegjelenítés forrása: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Hozzáférés: 2009-01-15. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-**lekt5205:** [Képmegjelenítés forrása: Wikipedia. Közterület]
-
-**lekt5206:** A Nagy Medve hét legfényesebb csillaga = a Nagy Medve (Ursa maior) [Képmegjelenítés forrása: Wikipedia, GNU FDLicense]
-
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Képmegjelenítés forrása: Wikipedia. Közterület]
-
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Képmegjelenítés forrása: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Hozzáférés: 2009-01-16. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevezz meg)]
-
-**lekt5212:** Hyderabad = హైదరాబాద్ [Képmegjelenítés: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Letöltés dátuma: 2009-01-16. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
-
-**lekt5213:** ⟪मुंबई⟫ [Képmegjelenítés: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Letöltés dátuma: 2009-01-16. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Nevesítés, nincs származékos mű)]
-
-**lekt5214:** Konark = ⟪कोनार्क⟫ [Képmegjelenítés: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Letöltés dátuma: 2009-01-16. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
-
-**lekt5208:** Hampi = ಹಂಪೆ [Képmegjelenítés: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Letöltés dátuma: 2009-01-15. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, megosztás ugyanazon feltételekkel)] <!-- TODO: Fallback translation -->
-
-**lekt5215:** ⟪मुंबई⟫ [Képmegjelenítés: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Hozzáférés: 2009-01-16. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevesítés)]
-
-**lekt5217:** Amaravati = అమరావతి, 2. század e. Kr. [Képmegjelenítés: Wikipedia. GNU FDLicense]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, kb. 1810 [Képmegjelenítés: Wikipedia. Public domain]
-
-**lekt5201:** (Kép: Payer)
-
 :::
 

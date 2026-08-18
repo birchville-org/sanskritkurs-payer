@@ -5,39 +5,32 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
-# Oppitunti 8 <!-- TODO: Fallback translation -->
+# Oppitunti 8
 
-::: deleteme-box
-**Tässä lektiossa opit:**
-- Nomien muodostus (kṛt- ja taddhita-jänteet)
-- Tärkeät nominijätteet (-a, -ana, -tra, -ti, -tva, -tā)
-- 8. preesensluokka (tanādi)
-- Verbin **kṛ** (tun, tehdä) taivutus
-::: <!-- TODO: Fallback translation -->
 
 :::
 ## 8.1. Nomien muodostuksesta
 
-Perinteisessä intialaisessa grammatikassa eritellään substantiivijänteitä muodostavien päätteiden välillä: <!-- TODO: Fallback translation -->
+Perinteisessä intialaisessa grammatikassa eritellään substantiivijänteitä muodostavien päätteiden välillä:
 
 - **kṛt-päätteet (⟪कृत्⟫) (primääripäätteet):** muodostavat verbijuurista (**dhātu** m. = ⟪धातु⟫) ja verbijänteistä substantiivijänteitä, absoliuttiveja ja infinitiivejä.
-- **taddhita-päätteet (⟪तद्धित⟫) (sekundääripäätteet):** liittyvät substantiivijänteisiin ja indeklinablioihin, muodostaen uusia substantiivijänteitä tai indeklinablioita. <!-- TODO: Fallback translation -->
+- **taddhita-päätteet (⟪तद्धित⟫) (sekundääripäätteet):** liittyvät substantiivijänteisiin ja indeklinablioihin, muodostaen uusia substantiivijänteitä tai indeklinablioita.
 
 ::: grammar-box
 **Kaava:**
 **Juuri + kṛt-päätte » substantiivijänne jne. + taddhita-päätte » uusi substantiivijänne jne.**
 
 **Substantiivijänne + kasuspääte » syntaktisesti toimiva substantiivi**
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
-## 8.2. Nominaalijänteiden luokittelu <!-- TODO: Fallback translation -->
+## 8.2. Nominaalijänteiden luokittelu
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
   - **kārakakṛt** (⟪कारककृत्⟫) » agentinominat (merkitsevät henkilöä, joka tekee juurin ilmaiseman toiminnan)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » actionisnominat (merkitsevät juurin ilmaisemaa toimintaa) tai abstraktit käsitteet <!-- TODO: Fallback translation -->
+  - **kṛtikṛt** (⟪कृतिकृत्⟫) » actionisnominat (merkitsevät juurin ilmaisemaa toimintaa) tai abstraktit käsitteet
 
 - **taddhita**
   - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » adjektiivit
@@ -53,14 +46,14 @@ Perinteisessä intialaisessa grammatikassa eritellään substantiivijänteitä m
 - **na guṇya** (⟪न⟫ ⟪गुण्य⟫): matalan asteen muodostus
 - **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): pidennetyn asteen muodostus
 
-## 8.3. Tärkeviä nominipäätteitä <!-- TODO: Fallback translation -->
+## 8.3. Tärkeviä nominipäätteitä
 
-### 8.3.1. -a m. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
 **Kṛt-pääte -a muodostaa maskuliiniset (harvemmin neutraalit) substantiivit, jotka merkitsevät juuren ilmaisemaa toimintaa tai tilaa; joskus myös adjektiiveja tai substantiiveja, jotka ilmaisevat verbin juuren ilmaiseman toiminnan agentin (kartṛ). Lyhyestä paritonvokaalista (= vokaali ennen konsonanttia, johon juuri päättyy) tai loppuvokaalista käytetään yleensä korkeaa astetta (guṇa) tai pidennysastetta (vṛddhi).**
 :::
-**Esimerkit:** <!-- TODO: Fallback translation -->
+**Esimerkit:**
 
 | Juuri:br⟪धातु⟫ | + -a (kṛt) | Merkitys |
 | :--- | :--- | :--- |
@@ -73,9 +66,9 @@ Perinteisessä intialaisessa grammatikassa eritellään substantiivijänteitä m
 | **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "vapauttaminen, emanointi, luominen" (sanayhdistelmä j » g ks. myöhemmin) |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "kuuleminen" |
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "oleminen, (jonkin) olemassaolo, luonne, karakteri" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "taistelija, soturi, sotilas" | <!-- TODO: Fallback translation -->
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "taistelija, soturi, sotilas" |
 
-### 8.3.2. -ana n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
 **Kṛt-jälkiliite -ana muodostaa yleensä keskisukuisia substantiiveja, jotka tarkoittavat toimintaa, tilaa tai välinettä ja jota kautta juuren tai verbijäskeen ilmaisema toiminta toteutuu. Lyhyelle penultimalle tai juuren päätteeksi päättyvälle vokaalille sijoitetaan yleensä korkeatasoinen (guṇa) vaihtoehto.**
@@ -89,28 +82,28 @@ Perinteisessä intialaisessa grammatikassa eritellään substantiivijänteitä m
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(kuulolaitteen =) korva" |
 | **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(jolla jotain tehdään, eli) syy, peruste" |
 | **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "syntyminen, kehittyminen" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "näkeminen, näkökulma, filosofinen järjestelmä, ilmiö, erityisesti: Darśan" | <!-- TODO: Fallback translation -->
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "näkeminen, näkökulma, filosofinen järjestelmä, ilmiö, erityisesti: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
 Kuva: Maa Batakali Darshan, Puri, Orissa
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0801))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: note-box
-**"Darshan"** tai **"Darshana"** on hindulaisuuden käsite pyhän ja jumalallisen näkemisestä ja visiosta. Sanalla *Darshana* tarkoitetaan esimerkiksi virallista tapaamista oppilaan ja mestarin välillä, jossa oppilas on saanut kutsun mestarilta. Se voi tarkoittaa myös *uppoamista* jumalankuvan katsellessa. Viimeksi mainittu merkitys on nykysanskritin yleisin. Mata Amritanamaayn yhteydessä Darshan tarkoittaa Gurun halausta. <!-- TODO: Fallback translation -->
+**"Darshan"** tai **"Darshana"** on hindulaisuuden käsite pyhän ja jumalallisen näkemisestä ja visiosta. Sanalla *Darshana* tarkoitetaan esimerkiksi virallista tapaamista oppilaan ja mestarin välillä, jossa oppilas on saanut kutsun mestarilta. Se voi tarkoittaa myös *uppoamista* jumalankuvan katsellessa. Viimeksi mainittu merkitys on nykysanskritin yleisin. Mata Amritanamaayn yhteydessä Darshan tarkoittaa Gurun halausta.
 
 Vanhurskaat hindut menevät temppeliin saadakseen Jumalan näyn symbolin tai patsaan kautta, johon jumaluuden henkinen läsnäolo uskotaan. Tässä mielessä myös jumalallisen siunaus. Darshan voidaan kuitenkin vastaanottaa myös näkyssä jumaluudesta rukouksen tai meditaation aikana. Myös elävä henkilö, jota pidetään jumaluuden inkarnaationa, kuten avatara, voi antaa Darshanin.
 (Lähde: Wikipedia)
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
-### 8.3.3. -tra n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
 **kṛt-liite -tra muodostaa (useimmiten) neutraaleja substantiiveja, jotka tarkoittavat välinettä tai työkalua, jonka kautta juuren ilmaisema toiminta toteutuu. Lyhyt parasyllable ja vokaalin loppu korvataan guṇa-asteella.**
-::: <!-- TODO: Fallback translation -->
+:::
 
 **Esimerkit:**
 
@@ -119,7 +112,7 @@ Vanhurskaat hindut menevät temppeliin saadakseen Jumalan näyn symbolin tai pat
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Johtamisen väline =) silmä" |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Kuulolaitteen=) korva" |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Ajatteluväline:) säe, 'maaginen' formula (mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "kude" | <!-- TODO: Fallback translation -->
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "kude" |
 
 :::
 ::: media
@@ -133,15 +126,15 @@ Vanhurskaat hindut menevät temppeliin saadakseen Jumalan näyn symbolin tai pat
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
 (Kuvien lähteet: [Yksityiskohdat](/fi/licenses#lekt0803))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
-### 8.3.4. -ti f. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
 **Käytettäessä kṛt-jälkiliitettä -ti muodostetaan naispuolisia substantiiveja, jotka yleensä ilmaisevat juuren tarkoittamaa toimintaa tai tilaa. Juuren muoto on syväsävyinen.**
 :::
-**Esimerkit:** <!-- TODO: Fallback translation -->
+**Esimerkit:**
 
 | Juuri:br⟪धातु⟫ | + -ti (kṛt) | Merkitys |
 | :--- | :--- | :--- |
@@ -151,7 +144,7 @@ Vanhurskaat hindut menevät temppeliin saadakseen Jumalan näyn symbolin tai pat
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "emanointi, luominen" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "katse, näkökenttä, katsantokanta" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "käynti, reitti, käynnin tavoite" (muodosta *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "ajattelu, ajatus, mielipide" (muodosta *mn » ma + -ti) | <!-- TODO: Fallback translation -->
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "ajattelu, ajatus, mielipide" (muodosta *mn » ma + -ti) |
 
 *Huomautus: \* merkin edessä oleva muoto tarkoittaa, että tämä muoto ei esiinny sanskritissa vaan se on teoreettisesti johdettu tietyn muodostelman edellytyksenä. Juuren **gam** syväsävy on gṃ = \*gm, ja m korvataan ns. nasalis sonans -merkillä **a**:lla » **ga**. Vastaava pätee juureen **man** » **ma**.
 
@@ -168,7 +161,7 @@ Vanhurskaat hindut menevät temppeliin saadakseen Jumalan näyn symbolin tai pat
 | **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "brahmanisuus,:brmikä tekee jostakusta brahmanin,:brOlemus / luonne" |
 | **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "jumalatar" |
 
-Näitä muodostelmia voidaan käytännössä muodostaa lähes jokaisesta nominista, ja ne ovat hyvin yleisiä tieteellisissä sanskrititeksteissä. <!-- TODO: Fallback translation -->
+Näitä muodostelmia voidaan käytännössä muodostaa lähes jokaisesta nominista, ja ne ovat hyvin yleisiä tieteellisissä sanskrititeksteissä.
 
 ## 8.4. 8. preesensluokka (tanādi = ⟪तनादि⟫ = "tan jne.")
 
@@ -187,9 +180,9 @@ Esimerkki **tan** 8 U (⟪तन्⟫) "venyttää":
 - 3\. pl. Ā. **tanvate**
 ⟪तन्वते⟫
 :::
-Huomautus: Kiistasta siitä, onko **tan** oikeastaan 5. luokan verbijuuri (*tn » ta + no-), ks. Thumb-Hauschild, Handbuch des Sanskrit II, 265. <!-- TODO: Fallback translation -->
+Huomautus: Kiistasta siitä, onko **tan** oikeastaan 5. luokan verbijuuri (*tn » ta + no-), ks. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
-Tärkein 8. luokan verbijuuri on **kṛ** 8 U (⟪कृ⟫) "tehdä". Sen taivutus on epäsäännöllinen: <!-- TODO: Fallback translation -->
+Tärkein 8. luokan verbijuuri on **kṛ** 8 U (⟪कृ⟫) "tehdä". Sen taivutus on epäsäännöllinen:
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "tehdä, tehdä"**
@@ -201,7 +194,7 @@ Tärkein 8. luokan verbijuuri on **kṛ** 8 U (⟪कृ⟫) "tehdä". Sen taivu
 ⟪कुरुते⟫
 - 3\. pl. Ā. **kurvate**
 ⟪कुर्वते⟫
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ## 8.5. Sanalista
@@ -224,13 +217,13 @@ Tärkein 8. luokan verbijuuri on **kṛ** 8 U (⟪कृ⟫) "tehdä". Sen taivu
 - **śuka** m. ⟪शुक⟫ : papukaija
 - **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : pudota, lentää
 - **patrikā** f. ⟪पत्रिका⟫ : kirje
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : kaivertaa, kirjoittaa (alkujaan piirrossa palmunlehdelle, mutta myöhemmin yleisesti) <!-- TODO: Fallback translation -->
+- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : kaivertaa, kirjoittaa (alkujaan piirrossa palmunlehdelle, mutta myöhemmin yleisesti)
 
 ::: media
 ![](/images/lekt0809.jpg)
 Kuva: **likh** (⟪लिख्⟫) : Intialainen teräskynä palmunlehtien raapimiseen
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0809))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -239,7 +232,7 @@ Kuva: **likh** (⟪लिख्⟫) : Batak-kansan kirjoitustikku (Sumatra), jok
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0809))
 :::
 - **sukha** n. ⟪सुख⟫ : onni, hyvinvointi
-- **duḥkha** n. ⟪दुःख⟫ : onnettomus, kärsimys <!-- TODO: Fallback translation -->
+- **duḥkha** n. ⟪दुःख⟫ : onnettomus, kärsimys
 
 ## 8.6. Harjoitus
 
@@ -289,9 +282,9 @@ Kuva: **likh** (⟪लिख्⟫) : Batak-kansan kirjoitustikku (Sumatra), jok
 8. Mitä nämä taistelijat tekevät?
 9. Ketä silmä näkee?
 10. Mitä jumalat toivovat?
-11. Mikä on syy? <!-- TODO: Fallback translation -->
+11. Mikä on syy?
 
-## 8.7. Luku- ja käännösharjoitus <!-- TODO: Fallback translation -->
+## 8.7. Luku- ja käännösharjoitus
 
 1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 2. ⟪कविर्देवं⟫ ⟪यजते⟫ |

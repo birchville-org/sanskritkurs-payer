@@ -14,16 +14,16 @@ status: stable
 Sanskritissa adverbit muodostetaan
 
 1.  substantiivien ja pronominalien taivutusmuotojen avulla
-2.  erityisten päätteiden ja pääte- <!-- TODO: Fallback translation -->
+2.  erityisten päätteiden ja pääte-
 
-Ensimmäisessä tapauksessa elävän taivutusmuodon ja adverbin välinen raja on liukuva. Tähän kuuluvat erikoistapauksena adverbit, jotka ovat jäykistyneitä vanhoja taivutusmuotoja, kun taas deklinaatiossa käytetään muita muotoja tai vastaavia substantiiveja ei enää käytetä substantiivina. <!-- TODO: Fallback translation -->
+Ensimmäisessä tapauksessa elävän taivutusmuodon ja adverbin välinen raja on liukuva. Tähän kuuluvat erikoistapauksena adverbit, jotka ovat jäykistyneitä vanhoja taivutusmuotoja, kun taas deklinaatiossa käytetään muita muotoja tai vastaavia substantiiveja ei enää käytetä substantiivina.
 
-## 37.2. Taivutusmuotojen adverbiaalinen käyttö <!-- TODO: Fallback translation -->
+## 37.2. Taivutusmuotojen adverbiaalinen käyttö
 
 ### 37.2.1. Akkusatiivi (⟪द्वितीया⟫)
 
 ::: grammar-box
-Akkusatiivi (⟪द्वितीया⟫) voi toimia adverbina seuraaviin kysymyksiin: <!-- TODO: Fallback translation -->
+Akkusatiivi (⟪द्वितीया⟫) voi toimia adverbina seuraaviin kysymyksiin:
 
 *   millä tavalla?
 *   kuinka kauan?
@@ -41,7 +41,7 @@ Esimerkit:
 Esimerkkejä:  
 ⟪सुखम्⟫ "kevyt, onnellinen"  
 ⟪नित्यम्⟫ "aina"  
-⟪साधु⟫ "oikein, hyvä" <!-- TODO: Fallback translation -->
+⟪साधु⟫ "oikein, hyvä"
 
 *   pronomineista neutrin muodossa
 Esimerkkejä:  
@@ -49,28 +49,28 @@ Esimerkkejä:
 ⟪यद्⟫ "jos, että"  
 ⟪एतद्⟫ "näin, täällä, nyt"
 :::
-### 37.2.2. Instrumentaali (⟪तृतीया⟫) <!-- TODO: Fallback translation -->
+### 37.2.2. Instrumentaali (⟪तृतीया⟫)
 
 ::: grammar-box
-Instrumentaalia (⟪तृतीया⟫) voidaan käyttää adverbina seuraaviin kysymyksiin: <!-- TODO: Fallback translation -->
+Instrumentaalia (⟪तृतीया⟫) voidaan käyttää adverbina seuraaviin kysymyksiin:
 
 *   millä?
 *   minkä avulla?
-*   jne. <!-- TODO: Fallback translation -->
+*   jne.
 
-Instrumentaalia voidaan käyttää adverbina: <!-- TODO: Fallback translation -->
+Instrumentaalia voidaan käyttää adverbina:
 
 *   substantiiveista
 Esimerkit:  
 ⟪अर्थेन⟫ "vuoksi"
-⟪क्षणेन⟫ "hetkessä, välittömästi" (sanasta ⟪क्षण⟩ m. "hetki") <!-- TODO: Fallback translation -->
+⟪क्षणेन⟫ "hetkessä, välittömästi" (sanasta ⟪क्षण⟩ m. "hetki")
 
 *   adjektiiveista, usein myös monikkomuodossa
 Esimerkit:  
 ⟪दूरेण⟩ "kaukana, kaukaa" (sanasta ⟪दूर⟩ 3 "kaukana, kaukana")
 ⟪उच्चैस्⟩ "korkealla, äänekkäästi" (sanasta ⟪उच्च⟩ 3 "korkea, korotettu, äänekäs, kirkas (äänestä)")
 :::
-### 37.2.3. Datiiivi (⟪चतुर्थी⟩) <!-- TODO: Fallback translation -->
+### 37.2.3. Datiiivi (⟪चतुर्थी⟩)
 
 ::: grammar-box
 Datiiivia (⟪चतुर्थी⟩) käytetään harvoin adverbina kysymyksiin:
@@ -86,14 +86,14 @@ Esimerkki:
 ### 37.2.4. Ablatiivi (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Ablatiivi (⟪पञ्चमी⟫) voidaan käyttää adverbialtisesti seuraaviin kysymyksiin: <!-- TODO: Fallback translation -->
+Ablatiivi (⟪पञ्चमी⟫) voidaan käyttää adverbialtisesti seuraaviin kysymyksiin:
 
 *   miksi?
 *   minkä vuoksi?
 *   mistä päin?
-*   jne. <!-- TODO: Fallback translation -->
+*   jne.
 
-Ablatiivia voidaan käyttää adverbina: <!-- TODO: Fallback translation -->
+Ablatiivia voidaan käyttää adverbina:
 
 *   substantiiveista
 esim. ⟪बलात्⟫ "väkivaltaisesti, voimalla"
@@ -109,18 +109,18 @@ Esimerkit:
 ### 37.2.5. Genetiivi (⟪षष्ठी⟫)
 
 ::: grammar-box
-Genetiiviä (⟪षष्ठी⟫) käytetään harvinaisesti adverbialtarkoitteessa kysymykseen "kuinka pitkän ajan kuluttua?" <!-- TODO: Fallback translation -->
+Genetiiviä (⟪षष्ठी⟫) käytetään harvinaisesti adverbialtarkoitteessa kysymykseen "kuinka pitkän ajan kuluttua?"
 
 esim. ⟪चिरस्य⟫ "kauan aikaa myöhemmin" (katso ⟪चिर⟫ 3 "pitkä (aika)")
 :::
-### 37.2.6. Lokatiivi (⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
+### 37.2.6. Lokatiivi (⟪सप्तमी⟫)
 
 ::: grammar-box
-Lokatiivia (⟪सप्तमी⟫) voidaan käyttää adverbialtarkoitteessa kysymyksiin: <!-- TODO: Fallback translation -->
+Lokatiivia (⟪सप्तमी⟫) voidaan käyttää adverbialtarkoitteessa kysymyksiin:
 
 *   missä?
 *   millaisissa olosuhteissa?
-*   jne. <!-- TODO: Fallback translation -->
+*   jne.
 
 Esimerkit:
 :::
@@ -129,26 +129,26 @@ Esimerkit:
 \-⟪कृते⟫ "tähden"  
 ⟪दूरे⟫ "kaukana"
 :::
-## 37.3. Adverbialinen käyttö enää käytöstä poistuneissa sijamuodoissa <!-- TODO: Fallback translation -->
+## 37.3. Adverbialinen käyttö enää käytöstä poistuneissa sijamuodoissa
 
 Esimerkit:
 ::: indent
-⟪जातु⟫ "yhtään" (alkuperäisesti "syntymältä, luonnolta", akk.sg.n. sanalle ⟪जातु⟩ \&lt;ei enää substantiivina käytössä\&gt;) <!-- TODO: Fallback translation -->
+⟪जातु⟫ "yhtään" (alkuperäisesti "syntymältä, luonnolta", akk.sg.n. sanalle ⟪जातु⟩ \&lt;ei enää substantiivina käytössä\&gt;)
 
-⟪तूष्णीम्⟫ "vaikenemalla" (akk.sg. sanasta, joka ei enää käytössä oleva ⟪तूष्णी⟩ f. "vaikeneminen") <!-- TODO: Fallback translation -->
+⟪तूष्णीम्⟫ "vaikenemalla" (akk.sg. sanasta, joka ei enää käytössä oleva ⟪तूष्णी⟩ f. "vaikeneminen")
 
 ⟪एवम्⟫ "niin" (muuten kadonneesta pronominaalivartaloista ⟪एव⟩ "yksi, ainoa")
 :::
 ## 37.4. Adverbien muodostaminen adverbijänteillä
 
 ::: grammar-box
-Pronominivijurista ⟪तद्⟫, ⟪इदम्⟫ tai ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ tai ⟪कु⟫ voidaan adverbijänteillä <!-- TODO: Fallback translation -->
+Pronominivijurista ⟪तद्⟫, ⟪इदम्⟫ tai ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ tai ⟪कु⟫ voidaan adverbijänteillä
 
 *   \-⟪तस्⟫ (ablatiivi)
 *   \-⟪त्र⟫ (lokatiivi)
 *   \-⟪था⟫ (tapa)
 *   \-⟪थम्⟫ (tapa)
-*   \-⟪दा⟫ (aika) <!-- TODO: Fallback translation -->
+*   \-⟪दा⟫ (aika)
 
 johtaa vastaavia pronominaaliadverbejä.
 :::
@@ -161,7 +161,7 @@ johtaa vastaavia pronominaaliadverbejä.
 | **-⟪त्र⟫** :br(lokatiivi) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -171,7 +171,7 @@ Toinen kysymysadverbi on: ⟪क्व⟫ "missä?"
 ![lekt3701.jpg](/images/lekt3701.webp)
 Kuva: ⟪क्व⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3701))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -182,27 +182,27 @@ Kuva: ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Adverbialiset yhdyssanat
 
-### 37.5.1. Adverbialisen tai adverbina käytetyn sijamuodon sisältävät yhdyssanat <!-- TODO: Fallback translation -->
+### 37.5.1. Adverbialisen tai adverbina käytetyn sijamuodon sisältävät yhdyssanat
 
-Esimerkki: ⟪सुचिरम्⟩ "erittäin pitkä (aika)" <!-- TODO: Fallback translation -->
+Esimerkki: ⟪सुचिरम्⟩ "erittäin pitkä (aika)"
 
-### 37.5.2. Adverbina käytetyt ⟪बहुव्रीहि⟩ <!-- TODO: Fallback translation -->
+### 37.5.2. Adverbina käytetyt ⟪बहुव्रीहि⟩
 
-Esimerkki: ⟪रक्षार्थम्⟩ "jonkun kaltaisesti, jonka tarkoitus on suojelu, suojelun tarkoituksella". Sitä voidaan pitää myös kuuluvana kohtaan 5.1.: -⟪अर्थम्⟩ adverbina jälkiosana. <!-- TODO: Fallback translation -->
+Esimerkki: ⟪रक्षार्थम्⟩ "jonkun kaltaisesti, jonka tarkoitus on suojelu, suojelun tarkoituksella". Sitä voidaan pitää myös kuuluvana kohtaan 5.1.: -⟪अर्थम्⟩ adverbina jälkiosana.
 
 ### 37.5.3. ⟪अव्ययीभाव⟩-yhdyssanat
 
 ⟪अव्ययीभाव⟫ = "muuttumaton/taivutumaton"
 
 ::: grammar-box
-Ein ⟪अव्ययीभाव⟫ on adverbiaalinen yhdyssana, jonka etuliite on taivutumaton (postpositio, partikkeli jne.) ja jonka jälkiosa on substantiivi, joka saa akkusatiivin yksikön neutrin pääkkeen. <!-- TODO: Fallback translation -->
+Ein ⟪अव्ययीभाव⟫ on adverbiaalinen yhdyssana, jonka etuliite on taivutumaton (postpositio, partikkeli jne.) ja jonka jälkiosa on substantiivi, joka saa akkusatiivin yksikön neutrin pääkkeen.
 
-Yhdyssanan ratkaisemisessa etuliite hallitsee jälkiosaa: <!-- TODO: Fallback translation -->
+Yhdyssanan ratkaisemisessa etuliite hallitsee jälkiosaa:
 
 Esimerkkejä:
 :::
@@ -213,7 +213,7 @@ Esimerkkejä:
 
 ⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "eteen, kohti"
 :::
-Erityisen tärkeitä ovat ⟪अव्ययीभाव⟫, joissa on ⟪यथा⟫ "kuinka" etuosana: <!-- TODO: Fallback translation -->
+Erityisen tärkeitä ovat ⟪अव्ययीभाव⟫, joissa on ⟪यथा⟫ "kuinka" etuosana:
 
 esim. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "kuten toivotus, toivomuksen mukaan, mielivaltaisesti"
 ::: media
@@ -221,7 +221,7 @@ esim. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्त�
 Kuv.: ⟪यथाशक्ति⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3702))
 :::
-## 37.6. Syntaktinen <!-- TODO: Fallback translation -->
+## 37.6. Syntaktinen
 
 ::: grammar-box
 Verbeissä
@@ -230,7 +230,7 @@ Verbeissä
 *   ⟪भू⟫ 1P
 *   ⟪कृ⟫ 8U
 
-predikatiivisen adjektiivin sijaan voi olla predikatiivinen adverb: <!-- TODO: Fallback translation -->
+predikatiivisen adjektiivin sijaan voi olla predikatiivinen adverb:
 
 esim. ⟪तूष्णीं⟫ ⟪बभूव⟫ "hän tuli hiljaiseksi, hän vaieti"
 :::
@@ -239,10 +239,10 @@ esim. ⟪तूष्णीं⟫ ⟪बभूव⟫ "hän tuli hiljaiseksi, hä
 Kuv.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3703))
 :::
-## 37.7. Epämääräiset pronominit <!-- TODO: Fallback translation -->
+## 37.7. Epämääräiset pronominit
 
 ::: grammar-box
-Epämääräiset pronominit (epämääräiset pronominisana) muodostetaan liittämällä <!-- TODO: Fallback translation -->
+Epämääräiset pronominit (epämääräiset pronominisana) muodostetaan liittämällä
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
@@ -256,11 +256,11 @@ esim.
 ⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "jokin, joku"  
 ⟪कस्यचिद्⟫ = jonkun
 :::
-## 37.8. Kysymyslause <!-- TODO: Fallback translation -->
+## 37.8. Kysymyslause
 
 ::: grammar-box
 "Kuka?, miten?, mitä, miksi? minkä vuoksi? miksi?  
-Kysymättä pysyy tyhmänä." <!-- TODO: Fallback translation -->
+Kysymättä pysyy tyhmänä."
 
 ⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
 ⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
@@ -269,14 +269,14 @@ Kysymättä pysyy tyhmänä." <!-- TODO: Fallback translation -->
 
 Sesamstrassan motto, joka on hyvä elämän ja sanskritin opiskelun ohje
 :::
-Katso myös [Lektion 4](lektion04.md). <!-- TODO: Fallback translation -->
+Katso myös [Lektion 4](lektion04.md).
 
 On eritettävä
 
 *   Sanakysymykset (täydennyskysymykset)
 *   Lausetekstikysymykset
 
-Sanakysymyksissä kysytään toimijalta (⟪कर्तृ⟩), kohteelta, toiminnalta, olosuhteelta jne., esim. <!-- TODO: Fallback translation -->
+Sanakysymyksissä kysytään toimijalta (⟪कर्तृ⟩), kohteelta, toiminnalta, olosuhteelta jne., esim.
 
 *   kuka tulee?
 *   mitä Rāma tekee?
@@ -284,12 +284,12 @@ Sanakysymyksissä kysytään toimijalta (⟪कर्तृ⟩), kohteelta, toim
 *   miten hän puhuu sanskritia?
 *   missä äiti on?
 
-Lausuntokysymyksessä kysytään koko lauseen sisältöä, esim. <!-- TODO: Fallback translation -->
+Lausuntokysymyksessä kysytään koko lauseen sisältöä, esim.
 
 *   meneekö Rāma tänään Ofterdingeniin?
-*   onko se oikein, että ... ? <!-- TODO: Fallback translation -->
+*   onko se oikein, että ... ?
 
-### 37.8.1. Sanakysymykset (täydennyskysymykset) <!-- TODO: Fallback translation -->
+### 37.8.1. Sanakysymykset (täydennyskysymykset)
 
 ::: grammar-box
 Kaava:
@@ -298,9 +298,9 @@ Kysymyssana/kysymysadverbi – lause
 :::
 Esimerkit:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Kuka menee kylään?" <!-- TODO: Fallback translation -->
+⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Kuka menee kylään?"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Mitä lasten tulisi oppia?" <!-- TODO: Fallback translation -->
+⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Mitä lasten tulisi oppia?"
 
 ⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Missä Rāma asuu?
 :::
@@ -309,13 +309,13 @@ Esimerkit:
 Kuva: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3704))
 :::
-### 37.8.2. Kysymyslauseet <!-- TODO: Fallback translation -->
+### 37.8.2. Kysymyslauseet
 
 ::: grammar-box
 Joskus vain kontekstista näkyy, onko lause kysymyslause.
 :::
 ::: grammar-box
-Kaavio I: <!-- TODO: Fallback translation -->
+Kaavio I:
 
 Verbi - loput lauseesta
 :::
@@ -324,15 +324,15 @@ Esimerkki:
 ⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟩ "Meneekö brahmanipoika mestarin luo?"
 :::
 ::: grammar-box
-Kaavio II: <!-- TODO: Fallback translation -->
+Kaavio II:
 
-Kysymyssana (yleensä lauseen alussa) - lause <!-- TODO: Fallback translation -->
+Kysymyssana (yleensä lauseen alussa) - lause
 
 Tärkeimmät kysymyspartikkelit ovat:
 
 *   ⟪अपि⟫
 
-*   ⟪किम्⟫ (jättää usein odottamaan kielteistä vastausta) <!-- TODO: Fallback translation -->
+*   ⟪किम्⟫ (jättää usein odottamaan kielteistä vastausta)
 
 *   ⟪कच्चिद्⟫
 
@@ -340,7 +340,7 @@ Nämä partikkelit vastaavat kysymysmerkkiä.
 :::
 Esimerkki:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Onko sekin totta?" <!-- TODO: Fallback translation -->
+⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Onko sekin totta?"
 
 ⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Voiko hän sitten?"
 
@@ -350,9 +350,9 @@ Huomautus: ⟪किम्⟫ voi merkityksen "mitä?" ja kysymyspartikkelin ohe
 ::: indent
 ⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Mihin vihaan? Mitä hyötyä vihasta on? Miksi vihan?"
 :::
-## 37.9. Sanalista <!-- TODO: Fallback translation -->
+## 37.9. Sanalista
 
-⟪मूर्ख⟫ 3: tyhmä, idiootti, pöyristyttävä m. tyhmi <!-- TODO: Fallback translation -->
+⟪मूर्ख⟫ 3: tyhmä, idiootti, pöyristyttävä m. tyhmi
 
 ⟪मुनि⟫ m.: viisas, (vaikenemis)asketi
 
@@ -364,7 +364,7 @@ Huomautus: ⟪किम्⟫ voi merkityksen "mitä?" ja kysymyspartikkelin ohe
 Kuv.: ⟪शाक्यमुनिः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: päivä <!-- TODO: Fallback translation -->
+⟪दिन⟫ n.: päivä
 
 ⟪वृक्ष⟫ m.: puu
 
@@ -373,11 +373,11 @@ Kuv.: ⟪शाक्यमुनिः⟫
 Kuv.: ⟪वृक्षः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: suu, kasvot, etuosa, alku <!-- TODO: Fallback translation -->
+⟪मुख⟫ n.: suu, kasvot, etuosa, alku
 
 ## 37.10. Harjoitus
 
-A) Vastaa seuraaviin kysymyksiin sanskritiksi käyttämällä sulkuihin merkittyjä sanoja. Käännä kysymyslauseet. <!-- TODO: Fallback translation -->
+A) Vastaa seuraaviin kysymyksiin sanskritiksi käyttämällä sulkuihin merkittyjä sanoja. Käännä kysymyslauseet.
 
 Esimerkki: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟩ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
 
@@ -458,7 +458,7 @@ C) Käännä seuraavat ⟪अव्ययीभाव⟫ :
 Kuv.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "mukaisesti, pitkin, mukaan" <!-- TODO: Fallback translation -->
+3\. ⟪अनु⟫ "mukaisesti, pitkin, mukaan"
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -505,21 +505,7 @@ Kuva: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 :::
 ## 37.11 Toistoharjoitus
 
-Käännä sanskritiksi käyttäen yksinomaan perfekti-verbimuotoja: <!-- TODO: Fallback translation -->
+Käännä sanskritiksi käyttäen yksinomaan perfekti-verbimuotoja:
 
-Kertakerrallaan eräs vanhus meni toiseen kylään, ja hän väsyi matkan varrella. Hän meni levähtämään viereisen mangopuun juurelle. Tässä puussa oli kypsiä hedelmiä. Vanhus halusi näitä hedelmiä. Mutta hän ei voinut kiivetä puuhun ja ottaa hedelmät. Onneksi tässä puussa oli apinoita, jotka söivät hedelmiä. Kun hän näki nämä, vanhus iloitui. Mitä hän teki? Hän otti muutamia kiviä, tähtäsi apinoihin ja heitti. Suuttuneet apinat poimivat joitakin hedelmiä ja heittivät ne vanhukselle. Vanhus otti nämä iloisesti ja meni haluttuun paikkaansa. Katso, vanhuksen kohtalo! <!-- TODO: Fallback translation -->
+Kertakerrallaan eräs vanhus meni toiseen kylään, ja hän väsyi matkan varrella. Hän meni levähtämään viereisen mangopuun juurelle. Tässä puussa oli kypsiä hedelmiä. Vanhus halusi näitä hedelmiä. Mutta hän ei voinut kiivetä puuhun ja ottaa hedelmät. Onneksi tässä puussa oli apinoita, jotka söivät hedelmiä. Kun hän näki nämä, vanhus iloitui. Mitä hän teki? Hän otti muutamia kiviä, tähtäsi apinoihin ja heitti. Suuttuneet apinat poimivat joitakin hedelmiä ja heittivät ne vanhukselle. Vanhus otti nämä iloisesti ja meni haluttuun paikkaansa. Katso, vanhuksen kohtalo!
 
-::: deleteme-box
-
-- **Kuva lekt3701.jpg** (Kuva: ⟪क्व⟫): [Kuvansihteeri: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Haettu 30.12.2008. -- Creative Commons -lisensoitu (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
-- **Kuva lekt3702.jpg** (Kuva: ⟪यथाशक्ति⟫): [Kuvansihteeri: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Haettu 30.12.2008. -- Creative Commons -lisensoitu (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
-- **Kuva lekt3703.jpg** (Kuva: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Kuvansihteeri: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Haettu 30.12.2008. -- Creative Commons -lisensoitu (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
-- **Kuva lekt3704.jpg** (Kuva: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Kuvansihteeri: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Haettu 30.12.2008. -- Creative Commons -lisensoitu (Nimeäminen)]
-- **Kuva lekt3705.jpg** (Kuva: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Kuvansihteeri: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Haettu 31.12.2008. -- Creative Commons -lisensoitu (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
-- **Kuva lekt3706.jpg** (Kuva: ⟪वृक्षः⟫): Jaipur [Kuvansihteeri: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Haettu 31.12.2008. -- Creative Commons -lisensoitu (Nimeäminen, ei kaupallista käyttöä, share alike)]
-- **Kuva lekt3707.jpg** (Kuva: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Maalaus tekijältä ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Kuvansihteeri: Wikipedia. Julkinen omaisuus]
-- **Kuva lekt3708.jpg** (Kuva: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Kuvansihteeri: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Haettu 31.12.2008. -- Creative Commons -lisensoitu (Nimeäminen)]
-- **Kuva lekt3709.jpg** (Kuva: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Kuvansihteeri: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Haettu 31.12.2008. -- Creative Commons -lisensoitu (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
-- **Kuva lekt3710.jpg** (Kuva: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Kuvansihteeri: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Haettu 31.12.2008. -- Creative Commons -lisensoitu (Nimeäminen, ei kaupallista käyttöä, share alike)]
-- **Kuva lekt3711.jpg** (Kuva: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Kuvansihteeri: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Haettu 31.12.2008. -- Creative Commons -lisensoitu (Nimeäminen, ei kaupallista käyttöä, ei johdannaisteoksia)]
-:::

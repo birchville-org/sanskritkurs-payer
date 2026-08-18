@@ -23,18 +23,18 @@ Formae primae personae (***:sig[⟪तृतीयः⟫]⟫ ⟪पुरुष�
 | **Sekundärendung thematische Stämme** | **-m** | **-ma** | **-i** | **-mahi** |
 | **Sekundärendung athematische Stämme** | **-am** | ^^ | ^^ | ^^ |
 | **Optativendung** | ^^ | ^^ | **-a** | ^^ |
-| **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
+| **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
 1 Nota: proprie desinitio primaria Ā radicum thematicarum quoque -e constituenda est, ante quam vocalis thematicae -a- propter analogiam cadit. Effectus tamen est, quasi desinitio -i ad vocalem thematicam -a- adveniat: a + i » e.
 
-## 39.2. Formatio formarum verbalium primae personae stematum thematicorum praesentis <!-- TODO: Fallback translation -->
+## 39.2. Formatio formarum verbalium primae personae stematum thematicorum praesentis
 
 ::: grammar-box
 **Regula:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. Prima classis praesentis (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+### 39.2.1. Prima classis praesentis (⟪भ्वादि⟫)
 
 ⟪भू⟫ 1P
 
@@ -45,7 +45,7 @@ Formae primae personae (***:sig[⟪तृतीयः⟫]⟫ ⟪पुरुष�
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indikativ Präsens  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
 | **Imperfekt  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi | <!-- TODO: Fallback translation -->
+| **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. Classis sexta praesentis (⟪tudādi⟫)
@@ -110,7 +110,7 @@ Formae primae personae (***:sig[⟪तृतीयः⟫]⟫ ⟪पुरुष�
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. Formatio ⟨अनिट्⟩ <!-- TODO: Fallback translation -->
+### 39.3.1. Formatio ⟨अनिट्⟩
 
 ⟪दा⟫ 3U
 
@@ -134,7 +134,7 @@ Formae primae personae (***:sig[⟪तृतीयः⟫]⟫ ⟪पुरुष�
 | **Futur  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
 
 :::
-## 39.4. Formationes verborum primae personae stemmatum praesentium athematicorum <!-- TODO: Fallback translation -->
+## 39.4. Formationes verborum primae personae stemmatum praesentium athematicorum
 
 ::: grammar-box
 **Cave: In interiore vocabulo, contra quam in sandhi sententiae, ante desinentias, quae**

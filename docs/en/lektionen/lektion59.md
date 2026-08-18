@@ -785,9 +785,3 @@ _Translation aid:_ Verse 6: ⟪दिदृक्षते⟫ \= Desiderative of
 :::
 Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 
-::: deleteme-box
-
-**lekt5902:** [Image source: Henryart/Wikipedia. Public domain]
-
-**lekt5903:** Kecak dance, Bali (Indonesia) [Image source: Flying Pharmacist / Wikipedia. [Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/) (Attribution, share alike)]
-:::

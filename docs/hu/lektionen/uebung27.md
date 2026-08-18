@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 27
 
-A) Helyezze be az alábbi mondatban a zárójelben lévő kifejezéseket Lokativus (⟪सप्तमी⟫) egyes számban, és — ahol célszerű — többes számban. <!-- TODO: Fallback translation -->
+A) Helyezze be az alábbi mondatban a zárójelben lévő kifejezéseket Lokativus (⟪सप्तमी⟫) egyes számban, és — ahol célszerű — többes számban.
 
 **⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫** (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
 
@@ -28,7 +28,7 @@ A) Helyezze be az alábbi mondatban a zárójelben lévő kifejezéseket Lokativ
 
 ⟪७⟫. ⟪रामो⟫ **⟪मुह्यति⟫ ⟪शत्रौ⟫** ⟪वसति⟫ ⟪।⟫ (Többes szám: ⟪रामो⟫ **⟪मुह्यत्सु⟫ ⟪शत्रुषु⟫** ⟪वसति⟫ ⟪।⟫)
 
-B) Fordítsa le, és bontsa fel a szanszkrit összetételeket: <!-- TODO: Fallback translation -->
+B) Fordítsa le, és bontsa fel a szanszkrit összetételeket:
 
 ⟪१⟫. **⟪धर्मं⟫ ⟪वदति⟫ ⟪गुरौ⟫ ⟪दुर्जना⟫ ⟪न⟫ ⟪शृण्वन्ति⟫ ⟪॥१॥⟫**
 A gonosz emberek nem figyelnek oda, amikor a tanító hirdeti a Dharma-t.
@@ -66,7 +66,7 @@ Amikor a bráhmani megérkezik a nagy költőhöz, fia is megérkezik.
 
 ⟪१०⟫. **⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫ ⟪॥१०॥⟫**
 (⟪सुष्ठ⟫u ⟪नीता⟫ ⟪बालाः⟫)
-Amikor a tanítók tanítanak, a jól nevelt gyerekek nem beszélhetnek (beszélgethetnek). <!-- TODO: Fallback translation -->
+Amikor a tanítók tanítanak, a jól nevelt gyerekek nem beszélhetnek (beszélgethetnek).
 
 ::: media
 ![](/images/uebung044.webp)

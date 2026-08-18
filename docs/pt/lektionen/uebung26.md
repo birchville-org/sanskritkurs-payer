@@ -8,9 +8,9 @@ last_reconstructed: 2026-05-15
 
 # Exercício 26
 
-Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen: <!-- TODO: Fallback translation -->
+Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen:
 
-A) ohne Bindevokal **-i-**: <!-- TODO: Fallback translation -->
+A) ohne Bindevokal **-i-**:
 
 ⟪१⟫. ⟪अत्ति⟫ — ⟪अत्स्यति⟫
 
@@ -82,7 +82,7 @@ A) ohne Bindevokal **-i-**: <!-- TODO: Fallback translation -->
 
 ⟪३५⟫. ⟪तिष्ठति⟫ — ⟪स्थास्यति⟫
 
-B) Mit Bindevokal **-i-**: <!-- TODO: Fallback translation -->
+B) Mit Bindevokal **-i-**:
 
 ⟪१⟫. ⟪अस्यति⟫ — ⟪असिष्यति⟫
 
@@ -130,7 +130,7 @@ B) Mit Bindevokal **-i-**: <!-- TODO: Fallback translation -->
 
 ⟪२३⟫. ⟪कुप्यन्ति⟫ — ⟪कोपिष्यन्ति⟫
 
-C) Futur optional mit und ohne **-i-**: <!-- TODO: Fallback translation -->
+C) Futur optional mit und ohne **-i-**:
 
 ⟪१⟫. ⟪मुह्यन्ति⟫ — ⟪मोहितुम्⟫ / ⟪मोक्ष्यन्ति⟫
 

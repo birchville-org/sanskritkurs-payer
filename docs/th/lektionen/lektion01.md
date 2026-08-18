@@ -94,7 +94,7 @@ Pārvatī และ Śiva,
 
 ไวยากรณ์เชิงระบบที่ดีที่สุด:
 
-> **Kielhorn**, Franz (1840–1908): ไวยากรณ์ภาษาสันสกฤต / แปลจากภาษาอังกฤษโดย W. Solf [1862 - 1936]. -- เบอร์ลิน : Dümmler, 1888. -- XIII, 238 หน้า. -- ชื่อเดิม: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+> **Kielhorn**, Franz (1840–1908): ไวยากรณ์ภาษาสันสกฤต / แปลจากภาษาอังกฤษโดย W. Solf [1862 - 1936]. -- เบอร์ลิน : Dümmler, 1888. -- XIII, 238 หน้า. -- ชื่อเดิม: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)

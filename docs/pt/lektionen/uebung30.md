@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 30
 
-A) Wandeln Sie folgende Verbalformen in die in Person, Zahl und Genus verbi entsprechende Optativformen um: <!-- TODO: Fallback translation -->
+A) Wandeln Sie folgende Verbalformen in die in Person, Zahl und Genus verbi entsprechende Optativformen um:
 
 ::: grammar-box
 | Präsens | Optativ |
@@ -83,14 +83,14 @@ B) Übersetzen Sie die folgenden Sätze und lösen Sie die Komposita auf Sanskri
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
 (⟪आर्याणि⟫ ⟪सत्यानि⟫)
-Buddha hat den Menschen zum Heil der Edlen seine Lehre verkündet, damit sie die edlen Wahrheiten erkennen. <!-- TODO: Fallback translation -->
+Buddha hat den Menschen zum Heil der Edlen seine Lehre verkündet, damit sie die edlen Wahrheiten erkennen.
 
 ⟪२⟫. **⟪ये⟫ ⟪नरा⟫ ⟪देवान्न⟫ ⟪यजेरन्व्रतानि⟫ ⟪च⟫ ⟪न⟫ ⟪चरेयुरनृतं⟫ ⟪च⟫ ⟪वदेयुरधर्मं⟫ ⟪च⟫ ⟪कुर्युस्ते⟫ ⟪सुखं⟫ ⟪नाप्नुयुर्मृत्वा⟫ ⟪च⟫ ⟪नरकं⟫ ⟪पतेयुः⟫ ⟪॥२॥⟫**
-Menschen, die den Göttern nicht opfern, keine Gelübde halten, lügen und Unrecht tun, werden nicht glücklich und fallen nach ihrem Tod in eine Hölle. <!-- TODO: Fallback translation -->
+Menschen, die den Göttern nicht opfern, keine Gelübde halten, lügen und Unrecht tun, werden nicht glücklich und fallen nach ihrem Tod in eine Hölle.
 
 ⟪३⟫. **⟪ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो⟫ ⟪ज्ञातिं⟫ ⟪दासमाययति⟫ ⟪॥३॥⟫**
 (⟪आर्यपुत्रः⟫ — ⟪आर्याणां⟫ ⟪पुत्रः⟫)
-Der edle Sohn will, dass seine Verwandten kommen, und lässt einen Diener die Verwandten holen. <!-- TODO: Fallback translation -->
+Der edle Sohn will, dass seine Verwandten kommen, und lässt einen Diener die Verwandten holen.
 
 ⟪४⟫. **⟪अन्नलोभाद्दुःखं⟫ ⟪जायेतेति⟫ ⟪प्राप्तज्ञानः⟫ ⟪सुफलानि⟫ ⟪नाश्नाति⟫ ⟪॥४॥⟫**
 (⟪अन्नस्य⟫ ⟪लोभात्⟫ ⟪।⟫ ⟪प्राप्तं⟫ ⟪ज्ञानं⟫ ⟪येन⟫ ⟪सः⟫)
@@ -114,7 +114,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 
 ⟪९⟫. **⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫**  
 **⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
-Man sage Wahrheiten, die angenehm sind, unangenehme Wahrheiten sage man nicht; nicht sage man angenehme Unwahrheiten, dies ist das ewige Gesetz. <!-- TODO: Fallback translation -->
+Man sage Wahrheiten, die angenehm sind, unangenehme Wahrheiten sage man nicht; nicht sage man angenehme Unwahrheiten, dies ist das ewige Gesetz.
 
 ::: media
 ![](/images/uebung048.webp)
@@ -123,9 +123,9 @@ Abb.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्त�
 :::
 ---
 
-## Wortformbestimmung <!-- TODO: Fallback translation -->
+## Wortformbestimmung
 
-Bestimmen und übersetzen Sie folgende Wortformen: <!-- TODO: Fallback translation -->
+Bestimmen und übersetzen Sie folgende Wortformen:
 
 ::: grammar-box
 | Wortform | Bestimmung | Bedeutung |
@@ -175,7 +175,7 @@ Bestimmen und übersetzen Sie folgende Wortformen: <!-- TODO: Fallback translati
 ![](/images/uebung047.webp)
 Abb.: ⟪भक्त्याः⟫
 (Bildquelle: [Details](/licenses#uebung047))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

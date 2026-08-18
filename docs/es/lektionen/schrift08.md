@@ -38,9 +38,11 @@ En la tipografía utilizada en este script:
 
 ⟪ध्⟫ dh: ⟪ध्न⟫ dhna, ⟪ध्म⟫ dhma, ⟪ध्र⟫ dhra, ⟪ध्व⟫ dhva
 
+⟪ध्⟫ dh: ⟪ध्न⟫ dhna, ⟪ध्म⟫ dhma, ⟪ध्र⟫ dhra, ⟪ध्व⟫ dhva
+
 ⟪न्⟫ n: ⟪न्त⟫ nta, ⟪न्त्य⟫ ntya, ⟪न्त्र⟫ ntra, ⟪न्द⟫ nda, ⟪न्द्र⟫ ndra, ⟪न्ध⟫ ndha, ⟪न्ध्र⟫ ndhra, ⟪न्न⟫ nna, ⟪न्य⟫ nya
 
-⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
+⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
 
 ⟪ब्⟫ b: ⟪ब्ज⟫ bja, ⟪ब्द⟫ bda, ⟪ब्ध⟫ bdha, ⟪ब्ब⟫ bba, ⟪ब्भ⟫ bbha, ⟪ब्र⟫ bra
 
@@ -60,21 +62,21 @@ En la tipografía utilizada en este script:
 
 ⟪स्⟫ s: ⟪स्क⟫ ska, ⟪स्ख⟫ skha, ⟪स्त⟫ sta, ⟪स्त्य⟫ stya, ⟪स्त्र⟫ stra, ⟪स्त्व⟫ stva, ⟪स्थ⟫ stha, ⟪स्न⟫ sna, ⟪स्प⟫ spa, ⟪स्र⟫ sra
 
-Beachten Sie die Schreibung von jña: &lt;!-- TODO: Fallback translation --&gt;
+Observe la escritura de jña:
 
 ![](/images/schrift017.webp)
 
-La -a inicial, que según las reglas de sandhi de frase se elide (-as + a- » -o ' ) se indica mediante el llamado Avagraha:
+La -a inicial, que según las reglas de Sandhi oracional se elide (-as + a- » -o ' ), se indica mediante lo que se denomina Avagraha:
 
 ⟪ऽ⟫
 
-por ejemplo
+Por ejemplo:
 
-⟪देवो⟫ ⟪ऽग्निः⟫ \= devo 'gniḥ
+⟪देवो ऽग्निः⟫ \= devo 'gniḥ
 
 ## Ejercicio
 
-A) Escriba todas las ligaduras que aparecen en la lista anterior
+A) Escriba todas las ligaduras que aparecen en la lista anterior.
 
 B) Escriba y traduzca:
 
@@ -101,10 +103,6 @@ B) Escriba y traduzca:
 11\. devyumā.
 
 12\. devatānnapūrṇā.
-
-13\. sādhvī gurvī.
-
-14\. devyo gurvyaḥ.
 
 15\. devo nṛtyati.
 

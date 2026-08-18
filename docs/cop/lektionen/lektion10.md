@@ -9,14 +9,6 @@ status: stable
 
 # ⲙⲁⲑⲏⲙⲁ 10
 
-::: deleteme-box
-**ⲛⲉ ⲡⲓⲱϣ ϯⲥⲁϫⲉ ⲛⲧⲉ ϯⲙⲁϫⲏⲙⲁ:**
-- ⲡⲓϫⲱⲙ ϯⲛⲁⲕ ⲡⲓⲥⲁϫⲉ ϯⲛⲧⲙⲟⲕ ⲡⲓⲁϫⲱⲛ (ⲡⲓⲥⲁϫⲉ ϯⲛⲧⲙⲟⲕ ⲡⲓⲁϫⲱⲛ)
-- ⲡⲓⲥⲁϫⲉ ϯⲛⲧⲙⲟⲕ ⲡⲓⲥⲁϫⲉ ϯⲛⲧⲙⲟⲕ (tṛtīyā)
-- ⲡⲓϫⱱⲟⲙ ϯⲛⲁⲕ ⲡⲓϫⱱⲟⲙ -n- (Wortsandhi)
-- ⲡⲓϫⱱⲟⲙ ϯⲛⲁⲕ ⲡⲓϫⱱⲟⲙ (yak) ϯⲛⲧⲉ ⲡⲓϫⱱⲟⲙ ϯⲛⲁⲕ
-- ⲡⲓϫⱱⲟⲙ ϯⲛⲁⲕ ⲡⲓϫⱱⲟⲙ, ⲡⲓϫⱱⲟⲙ ϯⲛⲁⲕ ⲡⲓϫⱱⲟⲙ
-:::
 ## 10.1. ⲡⲓⲡⲁⲥⲥⲓⲩⲥⲁⲧⲍ
 
 ::: grammar-box
@@ -103,9 +95,6 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-ⲙⲡⲓⲛⲟϥ ϧⲉⲙ ⲡⲓⲛⲁϩⲟⲥ ϫⲉ ⲡⲓⲛⲁϣⲟⲥ ϩⲉⲓ ⲛⲧⲉ ⲡⲓϫⲟⲙ ϩⲛ -a, ⲡⲓϫⲟⲙ ϩⲛ ⲡⲓⲃⲏⲧ ϫⲉ ⲡⲓϣⲟⲙ ϩⲛ ⲡⲓⲃⲏⲧ.
-:::
 
 ### 10.2.1. ⲙⲡⲓⲛⲟϥ ϧⲉⲙ ⲡⲓⲛⲁϣⲟⲥ (tṛtīyā = ⟪तृतीया⟫)
 
@@ -168,7 +157,7 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 | **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
 | **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
-**Beachten Sie, dass bei Verben der 4. Präsensklasse das Ātmanepada und das Passiv identische Formen haben! Ob Ātmanepada oder Passiv vorliegt, lässt sich in diesem Fall nur aus der Satzkonstruktion erschliessen.** <!-- TODO: Fallback translation -->
+**Beachten Sie, dass bei Verben der 4. Präsensklasse das Ātmanepada und das Passiv identische Formen haben! Ob Ātmanepada oder Passiv vorliegt, lässt sich in diesem Fall nur aus der Satzkonstruktion erschliessen.**
 
 ### 10.4.1. ⲛⲓⲕⲁⲛⲱⲛ ⲉⲧⲥⲉⲙⲛⲓ ⲛ̀ⲧⲉ ⲡ̀ϫⲓⲛϣⲱⲡⲓ ⲛ̀ⲧⲉ ⲡⲓⲡⲁⲥⲥⲓⲃ
 

@@ -33,11 +33,11 @@ Explanations:
 ## 38.2. ⲡ̀ϣⲓⲃϯ ⲛ̀ⲥ̀ⲙⲏ ⲛ̀ⲛⲓⲛⲁⲥⲁⲗ ϧⲉⲛ ⲡ̀ⲥⲁϫⲓ
 
 ::: grammar-box
-Nasale im Wort werden darauffolgenden Konsonanten assimiliert, d. h. sie werden durch den diesen Konsonanten entsprechenden Nasal ersetzt. <!-- TODO: Fallback translation -->
+Nasale im Wort werden darauffolgenden Konsonanten assimiliert, d. h. sie werden durch den diesen Konsonanten entsprechenden Nasal ersetzt.
 
 Nach c- und j- wird -n- durch -ñ- ersetzt.
 :::
-## 38.3. Deklination der Stämme auf -n <!-- TODO: Fallback translation -->
+## 38.3. Deklination der Stämme auf -n
 
 ### 38.3.1. ⲛⲓⲛⲟⲙⲓⲛⲁ ⲉⲧϫⲓⲛϫⲱⲕ ⲉϫⲛ̀ -an ⲛⲉⲙ ⲛⲓⲛⲟⲙⲓⲛⲁ ⲉϫⲛ̀ -man ⲏ -van ⲙⲉⲛⲉⲛⲥⲁ ⲟⲩⲟⲩⲁⲓ
 ::: grammar-box
@@ -149,7 +149,7 @@ Beispiele:
 ::: grammar-box
 ⲡⲓϧⲁϫ ϯⲛⲉ ⲇⲓⲕⲧⲟϥ ϯⲛ ⳡⲙ.
 
-Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung. <!-- TODO: Fallback translation -->
+Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung.
 
 Das Femininum wird mit dem Suffix -ī gebildet: z.B. ⟪बलिनी⟫
 :::
@@ -241,7 +241,7 @@ Abb.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪ना
 ## 38.6. ⲥⲩⲛⲧⲁⲝⲓⲕⲟⲥ zu ⟪आत्मन्⟫
 
 ::: grammar-box
-⟪आत्मन्⟫ **maskulinum** kann im **Singular** als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden. <!-- TODO: Fallback translation -->
+⟪आत्मन्⟫ **maskulinum** kann im **Singular** als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden.
 :::
 Beispiele:
 
@@ -258,7 +258,7 @@ Beispiele:
 ::: indent
 ⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।ⲛ ⲉϥ ϯⲃⲏⲣ.
 :::
-## 38.7. ⲛⲓϫⲟⲩ ϧⲉⲃ ⲛⲓϫⲟⲩ ϧⲉⲃ ⲛⲓϫ <!-- TODO: Fallback translation -->
+## 38.7. ⲛⲓϫⲟⲩ ϧⲉⲃ ⲛⲓϫⲟⲩ ϧⲉⲃ ⲛⲓϫ
 
 ::: grammar-box
 Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schwachen) Stamm, den sie vor der Endung -su des Lokativ (⟪सप्तमी⟫) Plural annehmen.
@@ -352,7 +352,7 @@ Feminine:
 
 ⟪सीमन्⟫ ⲧ.: ⲑⲱϣ
 
-⟪आत्मन्⟫ n.: ⲡⲓϣⲟⲩ, ϯⲙⲉⲧⲣⲱϥ, ⲡⲓⲙⲉⲧⲁϫⲱⲛ. ⲙⲡⲓⲥϣⲱⲧ: ⲛⲁⲩ ϯⲙϫⲱⲥ ⲛⲧⲉ ϯⲙϫⲱⲥ ⲛⲁⲩ ϯⲙϫⲱⲥ ⲛⲧⲉ ϯⲙϫⲱ <!-- TODO: Fallback translation -->
+⟪आत्मन्⟫ n.: ⲡⲓϣⲟⲩ, ϯⲙⲉⲧⲣⲱϥ, ⲡⲓⲙⲉⲧⲁϫⲱⲛ. ⲙⲡⲓⲥϣⲱⲧ: ⲛⲁⲩ ϯⲙϫⲱⲥ ⲛⲧⲉ ϯⲙϫⲱⲥ ⲛⲁⲩ ϯⲙϫⲱⲥ ⲛⲧⲉ ϯⲙϫⲱ
 
 ⟪ब्रह्मन्⟫ n.: das Absolute, der Veda (laut Thieme ursprünglich: die formulierte Wahrheit, davon ⟪ब्राह्मण⟫ "Wahrheitsformulierer")
 
@@ -366,18 +366,18 @@ Abb.: ⟪ब्रह्मा⟫
 ⟪कर्मन्⟫ n.: zu ⟪कृ⟫ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt)
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu ⟪वि⟫-⟪पच्⟫) <!-- TODO: Fallback translation -->
+⟪कर्मविपाक⟫ m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_) <!-- TODO: Fallback translation -->
+⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
 
-⟪मनु⟫ m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu ⟪मन्⟫ 4Ā) <!-- TODO: Fallback translation -->
+⟪मनु⟫ m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu ⟪मन्⟫ 4Ā)
 
 ::: indent
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪मनुष्य⟫ m.: Mensch <!-- TODO: Fallback translation -->
+⟪मनुष्य⟫ m.: Mensch
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (flammen, leuchten) ; trauern, betrauern <!-- TODO: Fallback translation -->
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (flammen, leuchten) ; trauern, betrauern
 
 ::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -385,30 +385,30 @@ Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
 Kaus. ⟪शोचयति⟫
 Inf. ⟪शुचितुम्⟫
-Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫ <!-- TODO: Fallback translation -->
+Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪शुचि⟫ 3: leuchtend, rein, klar <!-- TODO: Fallback translation -->
+⟪शुचि⟫ 3: leuchtend, rein, klar
 
-⟪शोक⟫ m.: Trauer, Gram <!-- TODO: Fallback translation -->
+⟪शोक⟫ m.: Trauer, Gram
 
-⟪अशोक⟫ 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 v.Chr.) <!-- TODO: Fallback translation -->
+⟪अशोक⟫ 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 v.Chr.)
 :::
 ::: media
 ![](/images/lekt3810.webp)
 Abb.: ⟪अशोकवृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3810)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
 Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3811)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3811))
 :::
 ## 38.10. Übung
 
-A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie: <!-- TODO: Fallback translation -->
+A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie:
 
 ... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
 
@@ -432,7 +432,7 @@ A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammer
 
 ⟪राज्ञे⟫ ... ⟪दीयेरन्⟫ ⟪॥११॥⟫ (⟪बलिन्⟫ ⟪हस्तिन्⟫)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥१२॥⟫ (⟪ब्रह्मन्⟫ m.) <!-- TODO: Fallback translation -->
+... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥१२॥⟫ (⟪ब्रह्मन्⟫ m.)
 
 ... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪कृतं⟫ ⟪पापं⟫... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪अकृतं⟫ ⟪पापम्⟫ ⟪॥१३॥⟫ (⟪आत्मन्⟫)
 
@@ -442,25 +442,25 @@ A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammer
 
 ## 38.11. Wortliste zur ⲥⲡⲟⲩⲇⲏ ⲛ̀ⲧⲉ ⲧⲙⲉⲧⲉⲣⲙⲏⲛⲉⲩⲧⲓⲕⲏ
 
-⟪प्राय⟫  m.: Hauptsache, Instr. ⟪प्रायेण⟫ : meist, gewöhnlich (zu ⟪प्र⟫-⟪इ⟫) <!-- TODO: Fallback translation -->
+⟪प्राय⟫  m.: Hauptsache, Instr. ⟪प्रायेण⟫ : meist, gewöhnlich (zu ⟪प्र⟫-⟪इ⟫)
 
-⟪विनोद⟫ m.: Zeitvertreib, Unterhaltung, Vergnügen <!-- TODO: Fallback translation -->
+⟪विनोद⟫ m.: Zeitvertreib, Unterhaltung, Vergnügen
 
 ::: media
 ![](/images/lekt3812.webp)
 Abb.: ⟪विनोदः⟫
-(Bildquelle: [Details](/licenses#lekt3812)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : herumschweifen <!-- TODO: Fallback translation -->
+⟪अट्⟫ 1P ⟪अटति⟫ : herumschweifen
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
 Fut. ⟪अटिष्यति⟫
-Kaus. ⟪आटयति⟫ <!-- TODO: Fallback translation -->
+Kaus. ⟪आटयति⟫
 :::
-⟪गाध⟫ 3: seicht <!-- TODO: Fallback translation -->
+⟪गाध⟫ 3: seicht
 
-⟪तॄ⟫ 1P ⟪तरति⟫ : überqueren, sich retten vor (Akk.) <!-- TODO: Fallback translation -->
+⟪तॄ⟫ 1P ⟪तरति⟫ : überqueren, sich retten vor (Akk.)
 
 ::: indent
 Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
@@ -468,20 +468,20 @@ Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
 Pass. ⟪तीर्यते⟫
 Kaus. ⟪टारयति⟫
 PPP ⟪तीर्ण⟫
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 :::
-⟪पार⟫ n.(m.): jenseitiges Ufer, Grenze, Ziel <!-- TODO: Fallback translation -->
+⟪पार⟫ n.(m.): jenseitiges Ufer, Grenze, Ziel
 
-⟪तीर⟫ n.: Ufer <!-- TODO: Fallback translation -->
+⟪तीर⟫ n.: Ufer
 
 ::: media
 ![](/images/lekt3813.webp)
 Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
-(Bildquelle: [Details](/licenses#lekt3813)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3813))
 :::
-⟪एकैकशस्⟫ Adv.: je einzeln <!-- TODO: Fallback translation -->
+⟪एकैकशस्⟫ Adv.: je einzeln
 
-⟪गण्⟫ 10P ⟪गणयति⟫ : zählen <!-- TODO: Fallback translation -->
+⟪गण्⟫ 10P ⟪गणयति⟫ : zählen
 
 ::: indent
 Perf. ⟪गणयां⟫ ⟪चकार⟫
@@ -489,53 +489,53 @@ Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
 Absol. -⟪गणय्य⟫
-Inf. ⟪गणयितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪गणयितुम्⟫
 :::
 ::: media
 ![](/images/lekt3814.webp)
 Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫
-(Bildquelle: [Details](/licenses#lekt3814)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : schreien, wehklagen <!-- TODO: Fallback translation -->
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : schreien, wehklagen
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
 Fut. ⟪क्रोक्ष्यति⟫
 Pass. ⟪क्रुश्यते⟫
 Kaus. ⟪क्रोशयति⟫
-PPP ⟪क्रुष्ट⟫ <!-- TODO: Fallback translation -->
+PPP ⟪क्रुष्ट⟫
 :::
-⟪इदानीम्⟫ Adv.: jetzt <!-- TODO: Fallback translation -->
+⟪इदानीम्⟫ Adv.: jetzt
 
-⟪नूनम्⟫ Adv.: jetzt; also, darum; gewiss, sicherlich <!-- TODO: Fallback translation -->
+⟪नूनम्⟫ Adv.: jetzt; also, darum; gewiss, sicherlich
 
-⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : sinken, tauchen <!-- TODO: Fallback translation -->
+⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : sinken, tauchen
 
 ::: indent
 PPP ⟪ममज्ज⟫
 Fut. ⟪मङ्क्ष्यति⟫
 Kaus. ⟪मज्जयति⟫
 PPP ⟪मग्न⟫
-Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫ <!-- TODO: Fallback translation -->
+Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
 :::
-⟪गवेषयति⟫ Denominativ: suchen <!-- TODO: Fallback translation -->
+⟪गवेषयति⟫ Denominativ: suchen
 
-⟪व्याकुल⟫ 3: bestürzt, aufgeregt, verwirrt <!-- TODO: Fallback translation -->
+⟪व्याकुल⟫ 3: bestürzt, aufgeregt, verwirrt
 
-⟪कोलाहल⟫ m.n.: Geschrei, Lärm <!-- TODO: Fallback translation -->
+⟪कोलाहल⟫ m.n.: Geschrei, Lärm
 
-⟪विवेष्टित⟫ n.: das Rundherum-Suchen <!-- TODO: Fallback translation -->
+⟪विवेष्टित⟫ n.: das Rundherum-Suchen
 
-⟪हस्⟫ 1P ⟪हसति⟫ : lachen <!-- TODO: Fallback translation -->
+⟪हस्⟫ 1P ⟪हसति⟫ : lachen
 
 ::: indent
 Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
 Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
 Kaus. ⟪हासयति⟫
-PPP ⟪हसित⟫ <!-- TODO: Fallback translation -->
+PPP ⟪हसित⟫
 :::
-⟪सृ⟫ 1P ⟪सरति⟫ : laufen <!-- TODO: Fallback translation -->
+⟪सृ⟫ 1P ⟪सरति⟫ : laufen
 
 ::: indent
 Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
@@ -543,13 +543,13 @@ Fut. ⟪सरिष्यति⟫
 Pass. ⟪स्रियते⟫
 Kaus. ⟪सारयति⟫
 PPP ⟪सृत⟫
-Inf. ⟪सर्तुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪सर्तुम्⟫
 :::
-⟪कर्णयति⟫ Denominativ: hören (zu ⟪कर्ण⟫ m. "Ohr") <!-- TODO: Fallback translation -->
+⟪कर्णयति⟫ Denominativ: hören (zu ⟪कर्ण⟫ m. "Ohr")
 
-⟪लज्जा⟫ f.: Scham <!-- TODO: Fallback translation -->
+⟪लज्जा⟫ f.: Scham
 
-⟪अधस्⟫ Adv.: nach unten <!-- TODO: Fallback translation -->
+⟪अधस्⟫ Adv.: nach unten
 
 ## 38.12. ⲥⲡⲟⲩⲇⲏ ⲛ̀ⲧⲉ ⲧⲙⲉⲧⲉⲣⲙⲏⲛⲉⲩⲧⲓⲕⲏ
 
@@ -559,48 +559,31 @@ Inf. ⟪सर्तुम्⟫ <!-- TODO: Fallback translation -->
 
 ⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ *:sig[⟪सर्वे⟫]* ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ *:sig[⟪जिज्ञासमान⟫]*⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ *:sig[⟪नवै⟫]*⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ *:sig[⟪वयम्⟫]* :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ *:sig[⟪स्मः⟫]* ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ *:sig[⟪गवेषयत⟫]* ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫*:sig[⟪मेकैको⟫]* ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ *:sig[⟪समजनि⟫]* ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫*:sig[⟪स्तरसा⟫]* ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ *:sig[⟪यूयम्⟫]* ⟪।⟫ *:sig[⟪युष्माकमे⟫]*⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
-Erklärungen: <!-- TODO: Fallback translation -->
+Erklärungen:
 
-:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. zu ⟪दशन्⟫ "zehn" <!-- TODO: Fallback translation -->
+:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. zu ⟪दशन्⟫ "zehn"
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm" <!-- TODO: Fallback translation -->
+⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm"
 
-:sig[⟪सर्वे⟫] Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle" <!-- TODO: Fallback translation -->
+:sig[⟪सर्वे⟫] Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle"
 
-:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen" <!-- TODO: Fallback translation -->
+:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "neun" <!-- TODO: Fallback translation -->
+⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "neun"
 
-:sig[⟪वयम्⟫] Nom.pl. "wir" <!-- TODO: Fallback translation -->
+:sig[⟪वयम्⟫] Nom.pl. "wir"
 
-⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P <!-- TODO: Fallback translation -->
+⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P
 
-:sig[⟪गवेषयत⟫] 2.pl.Imperativ P <!-- TODO: Fallback translation -->
+:sig[⟪गवेषयत⟫] 2.pl.Imperativ P
 
-⟪एकैक⟫ "jeder einzeln" <!-- TODO: Fallback translation -->
+⟪एकैक⟫ "jeder einzeln"
 
-:sig[⟪समजनि⟫] 3.sg.Passiv Aorist zu ⟪जन्⟫ <!-- TODO: Fallback translation -->
+:sig[⟪समजनि⟫] 3.sg.Passiv Aorist zu ⟪जन्⟫
 
-⟪तरसा⟫ Instr. sg. zu ⟪तरस्⟫ n. "Energie", adverbial gebraucht: "rasch, mit Gewalt" <!-- TODO: Fallback translation -->
+⟪तरसा⟫ Instr. sg. zu ⟪तरस्⟫ n. "Energie", adverbial gebraucht: "rasch, mit Gewalt"
 
-:sig[⟪यूयम्⟫] Nom.pl. "ihr" <!-- TODO: Fallback translation -->
+:sig[⟪यूयम्⟫] Nom.pl. "ihr"
 
-⟪युष्माकम्⟫ Gen.pl. zu :sig[⟪यूयम्⟫] <!-- TODO: Fallback translation -->
+⟪युष्माकम्⟫ Gen.pl. zu :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Abb.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] <!-- TODO: Fallback translation -->
-- **lekt3802.jpg**: Abb.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Bildquelle: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Zugriff am 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] <!-- TODO: Fallback translation -->
-- **lekt3803.jpg**: Abb.: ⟪सीमा⟫  Grenzübergang zwischen Indien und Pakistan in Wagah (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Bildquelle: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3804.jpg**: Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, 2./3. Jhdt. n. Chr. \[Bildquelle: Wikipedia. Public domain\] <!-- TODO: Fallback translation -->
-- **lekt3805.jpg**: Abb.: ⟪उदकम्⟫  Darewadi village, Ahmed Nagar District = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Bildquelle: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3806.jpg**: Abb.: ⟪हस्ती⟫  Nagarhole National Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Bildquelle: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Zugriff am 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3807.jpg**: Abb.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Bildquelle: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] <!-- TODO: Fallback translation -->
-- **lekt3808.jpg**: Abb.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930er Jahre \[Bildquelle: Wikipedia. Public domain\] <!-- TODO: Fallback translation -->
-- **lekt3809.jpg**: Abb.: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Bildquelle: Wikipedia. GNU FDLicense\] <!-- TODO: Fallback translation -->
-- **lekt3810.jpg**: Abb.: Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde  Kolkata = কলকাতা \[Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense\] <!-- TODO: Fallback translation -->
-- **lekt3811.jpg**: Abb.: Größte Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte \[Bildquelle: Wikipedia.GNU FDLicense\] <!-- TODO: Fallback translation -->
-- **lekt3812.jpg**: Abb.: ⟪विनोदः⟫  Carrom-Spiel \[Bildquelle: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3813.jpg**: Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Bildquelle: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] <!-- TODO: Fallback translation -->
-- **lekt3814.jpg**: Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Bildquelle: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] <!-- TODO: Fallback translation -->
-:::

@@ -5,7 +5,7 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # บทที่ 41
 
@@ -73,7 +73,7 @@ status: stable
 | ⟪तन्⟫ 8U | ⟪तन्वान⟫:brtan-u + āna |
 | ⟪क्री⟫ 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. "ปูรณนาม" ของความจำเป็นเชิงรับ (Gerundivum) (⟪कृत्य⟫) <!-- TODO: Fallback translation -->
+### 41.2.2. "ปูรณนาม" ของความจำเป็นเชิงรับ (Gerundivum) (⟪कृत्य⟫)
 
 ::: grammar-box
 **เพื่อแสดงถึงความจำเป็นเชิงรับ ("สิ่งที่ควร/ต้องถูกกระทำ") สามารถสร้างคำคุณศัพท์จากรากและรากกริยาอนุพันธ์โดยเลือกต่อท้ายด้วยส่วนท้ายต่อไปนี้:**
@@ -369,11 +369,6 @@ PPP ⟪शिष्ट⟫ : ผู้รู้, ผู้มีปัญญา
 
 ⟪सङ्घ⟫ น.: (จาก ⟪सम्⟫-⟪हन्⟫ : รวมกันตี): กลุ่ม, กอง, สังคม (เช่น พุทธศาสนา)
 
-::: deleteme-box
-ดูเพิ่มเติม:
-
-**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุสำหรับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ น.: เด็กผู้หญิง, ลูกสาว, หญิงพรหมจรรย์
 
 ⟪अति⟫ คำนำหน้า: เหนือ, ผ่านไป, เกินไป (ในอวกาศ, ในเวลา, จำนวน, ปริมาณ, ลำดับ, อำนาจ, ความเข้มข้น), มากมาย
@@ -404,16 +399,3 @@ B) จงแปล:
 
 ⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
 
-::: deleteme-box
-
-- **ภาพ lekt4102.jpg** (ภาพ: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [แหล่งที่มา: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- เข้าถึงเมื่อ 2009-01-02. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า)]
-- **ภาพ lekt4103.jpg** (ภาพ: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [แหล่งที่มา: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- เข้าถึงเมื่อ 2009-01-03. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, ไม่ดัดแปลง)]
-- **ภาพ lekt4106.jpg** (ภาพ: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): Bahá'í House of Worship, Delhi [แหล่งที่มา: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- เข้าถึงเมื่อ 2009-01-03. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike)]
-- **ภาพ lekt4107.jpg** (ภาพ: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [แหล่งที่มา: Wikipedia. Public domain]
-- **ภาพ lekt4108.jpg** (ภาพ: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका⟫ ⟪घाट⟫, 1922 [แหล่งที่มา LoC/Wikipedia. Public domain]
-- **ภาพ lekt4105.jpg** (ภาพ: ⟪भुजङ्गः⟫): Banded Krait (_Bungarus fasciatus_) [แหล่งที่มา: J. Ewart. The poisonous snakes of India, 1878. Public domain]
-- **ภาพ lekt4104.jpg** (ภาพ: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): การรีดพิษงู (Krait), ไทย [แหล่งที่มา: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- เข้าถึงเมื่อ 2009-01-03. -- ใบอนุญาต Creative Commons (Attribution)]
-- **ภาพ lekt4109.jpg** (ภาพ: ⟪शासना⟫): Ashoka-Edikt, Dhauli, Orissa [แหล่งที่มา: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- เข้าถึงเมื่อ 2009-01-03. -- ใบอนุญาต Creative commons (Attribution, ไม่ใช้เพื่อการค้า)]
-- **ภาพ lekt4110.jpg** (ภาพ: ⟪शास्त्री⟫): Max Müller (1823 - 1900), ประมาณปี 1898 [แหล่งที่มา: Wikipedia. Public domain]
-- **ภาพ lekt4111.jpg** (ภาพ: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [แหล่งที่มา: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- เข้าถึงเมื่อ 2009-01-04. -- ใบอนุญาต Creative Commons (Attribution, ไม่ดัดแปลง)]
-:::

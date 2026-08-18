@@ -20,16 +20,16 @@ Um brâmane deseja ter um filho.
 Um santo vai para o céu.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. <!-- TODO: Fallback translation -->
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 Assim, o brâmane oferece um sacrifício ao deus.
 
 ⟪७⟫. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ ⟪।⟫
-Die Vaiśyafrau meint, dass ihr Sohn Böses tut. <!-- TODO: Fallback translation -->
+Die Vaiśyafrau meint, dass ihr Sohn Böses tut.
 
 ⟪८⟫. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪।⟫
 O Kṣatriya luta com o Kṣatriya.
@@ -38,7 +38,7 @@ O Kṣatriya luta com o Kṣatriya.
 Como a mentira é injusta, o filho não comete nenhuma transgressão.
 
 ⟪१०⟫. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-Este Kṣatriya protege o Dharma. <!-- TODO: Fallback translation -->
+Este Kṣatriya protege o Dharma.
 
 ⟪११⟫. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ ⟪।⟫
 Quem venera o fogo (Deus Agni) com um sacrifício?
@@ -98,7 +98,7 @@ C) Insira nas frases A), onde for apropriado, sujeito, objeto e predicativo no p
 
 ⟪१२⟫. ⟪ते⟫ ⟪श्रावका⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪॥⟫
 
-D) Forme die nach C) gebildeten Sätze in Passivkonstruktionen um <!-- TODO: Fallback translation -->
+D) Forme die nach C) gebildeten Sätze in Passivkonstruktionen um
 
 ⟪१⟫. ⟪ऋषिभिः⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
 
@@ -129,17 +129,17 @@ D) Forme die nach C) gebildeten Sätze in Passivkonstruktionen um <!-- TODO: Fal
 Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung022))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercícios Adicionais
 
 A) Traduza para o sânscrito usando construções passivas:
 
-1\. Vaiśyafrauen fragen Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
+1\. Vaiśyafrauen fragen Brahmanen nach dem Dharma.
 
 ⟪वैश्याभिर्ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪।⟫
 
-2\. Der Lehrer spricht ein Mantra. <!-- TODO: Fallback translation -->
+2\. Der Lehrer spricht ein Mantra.
 
 ⟪गुरुणा⟫ ⟪मन्त्र⟫ ⟪उद्यते⟫ ⟪।⟫
 
@@ -159,7 +159,7 @@ A) Traduza para o sânscrito usando construções passivas:
 
 ⟪शूद्रया⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 
-7\. Wer sieht die Wahrheit? <!-- TODO: Fallback translation -->
+7\. Wer sieht die Wahrheit?
 
 ⟪केन⟫ ⟪सत्यं⟫ ⟪दृश्यते⟫ ⟪॥⟫
 
@@ -234,4 +234,3 @@ E) Transforme as frases C)1-5 em construções ativas.
 Fig.: ⟪फलान्यश्नुते⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung021))
 :::
- <!-- TODO: Fallback translation -->

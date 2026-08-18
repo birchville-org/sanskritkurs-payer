@@ -76,7 +76,7 @@ Beispiel:
 **⟪स्था⟫** 1 "stand"
 * 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
 :::
-## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.") <!-- TODO: Fallback translation -->
+## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
 
 ::: grammar-box
 **Bildung:**
@@ -87,7 +87,7 @@ Beispiel:
 **schwacher Stamm:**  
 **reduplizierte tiefstufige Wurzel + Endung**
 
-**Für den Reduplikationskonsonanten gelten die oben gegebenen Regeln.** <!-- TODO: Fallback translation -->
+**Für den Reduplikationskonsonanten gelten die oben gegebenen Regeln.**
 :::
 ### 33.2.1. ⲡⲓⲫⲟⲕⲁⲗ ⲛ̄ⲧⲉ ⲧⲉⲣⲉⲧⲩⲡⲗⲓⲕⲁⲧⲓⲟⲛ ⲛ̄ⲧⲉ ⲡⲓⲕⲗⲁⲥⲥ ⲛ̄ⲧⲉ ⲧⲉⲛⲟⲩ ⲛ̄ϣⲟⲙⲧ
 
@@ -197,10 +197,10 @@ Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **:sig[�
 | **Imperfekt** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optativ** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
-## 33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse <!-- TODO: Fallback translation -->
+## 33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
 
 ::: grammar-box
-**Die Verben der 3. Klasse bilden alle Formen des Partizip Präsens Parasmaipada vom schwachen Stamm.** <!-- TODO: Fallback translation -->
+**Die Verben der 3. Klasse bilden alle Formen des Partizip Präsens Parasmaipada vom schwachen Stamm.**
 
 **Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.**
 :::
@@ -368,7 +368,7 @@ Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 **⟪घृत⟫** n.: κριβάνιον, γhee (⟪घी⟫ / گھی / ঘী)
 
 ::: note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk." <!-- TODO: Fallback translation -->
+"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
 
 [Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
 :::
@@ -378,7 +378,7 @@ A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in d
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
-B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein: <!-- TODO: Fallback translation -->
+B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein:
 
 ⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 
@@ -417,17 +417,3 @@ Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-::: deleteme-box
-
-**ⲙⲁⲑⲏⲙⲁ ⲛ̀ⲧⲥⲟϫⲓ ⲉⲡⲓⲛⲁⲕ:**
-* ⲫⲓⲥ: http://en.wikipedia.org/wiki/Ghee (ϣⲁⲡ 2008-12-26)
-
-**ⲧⲥϫⲓ ⲛ̀ⲙⲁⲑⲏⲙⲁ ⲉⲡⲓⲛⲁⲕ:**
-* **ⲙⲁⲑⲏⲙ 3306 (ϫⲉⲛⲟⲩϧ ⲛ̀ⲙⲉⲧⲣⲱϥ, Chennai):** ⲫⲓⲥ: http://www.pbase.com/chandra/image/62118318 (ϣⲁⲡ 2008-12-27). Creative Commons ⲛ̀ⲧⲥϫⲓ (ⲙⲉⲛⲧⲁϥ, ⲛⲏⲙ ⲉⲧⲃⲟⲗ, share alike).
-* **ⲙⲁⲑⲏⲙ 3307 (Udaipur carrier):** ⲫⲓⲥ: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, ϣⲁⲡ 2008-12-27). Creative Commons ⲛ̀ⲧⲥϫⲓ (ⲙⲉⲛⲧ⁎, ⲛⲏⲙ ⲉⲧⲃⲟⲗ, ⲛⲏⲙ ⲉⲧϫⲱⲥ).
-* **ⲙⲁⲑⲏⲙ 3305 (Samadhi yogini, Kaveripakkam):** ⲫⲓⲥ: Quadell / Wikipedia (GNU FDLicense).
-* **ⲙⲁⲑⲏⲙ 3304 (bhaya carrier, Mumbai):** ⲫⲓⲥ: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, ϣⲁⲡ 2008-12-26). Creative Commons ⲛ̀ⲧⲥϫⲓ (ⲙⲉⲛⲧ⁎).
-* **ⲙⲁⲑⲏⲙ 3303 (Hinayana Thailand):** ⲫⲓⲥ: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, ϣⲁⲡ 2008-12-26). Creative Commons ⲛ̀ⲧⲥϫⲓ (ⲙⲉⲛⲧ⁎, ⲛⲏⲙ ⲉⲧⲃⲟⲗ).
-* **ⲙⲁⲑⲏⲙ 3302 (Yajna, Shiva Ashram, Ganeshpuri):** ⲫⲓⲥ: Dey (http://www.flickr.com/photos/dey/466758922/, ϣⲁⲡ 2008-12-26). Creative Commons ⲛ̀ⲧⲥϫⲓ (ⲙⲉⲛⲧ⁎, ⲛⲏⲙ ⲉⲧⲃⲟⲗ, share alike).
-* **ⲙⲁⲑⲏⲙ 3308 (woman carrier, Delhi):** ⲫⲓⲥ: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, ϣⲁⲡ 2008-12-27). Creative Commons ⲛ̀ⲧⲥϫⲓ (ⲙⲉⲛⲧ⁎, ⲛⲏⲙ ⲉⲧⲃⲟⲗ, ⲛⲏⲙ ⲉⲧϫⲱⲥ).
-:::

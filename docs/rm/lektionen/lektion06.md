@@ -5,19 +5,10 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecziun 6
 
-::: deleteme-box
-**En questa lecziun imparais Vus:**
-- La structura da la frasa verbala (agent e forma verbala)
-- La furmaziun da formas verbals (Parasmaipada, Ātmanepada, Passiv)
-- Ils modi e tempos dal verb
-- L'indicativ presens (laṭ) e las desinenzas primaras da la 3. persuna
-- La furmaziun dal stam presens (classas 1, 4 e 6)
-- La graduaziun vocalica (Ablaut: Guṇa e Vṛddhi)
-:::
 ## 6.1. La frasa verbala
 
 ::: grammar-box
@@ -90,7 +81,7 @@ Esempel **yaj** = ⟪यज्⟫ = "venerar cun in sacrifici", "sacrifitgar":
   - 3. sg. Ā. **yajate** = ⟪यजते⟫
   - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. Furmaziun dal preschents <!-- TODO: Fallback translation -->
+## 6.5. Furmaziun dal preschents
 
 ### 6.5.1. Verb da la 6avla classa da prescha (tudādi = ⟪तुदादि⟫ = "tud e.u.v.")
 
@@ -129,7 +120,7 @@ Avant vocals vegn en l'intern da la parola **e** sustituid cun **ay**, **o** cun
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verb da la 4. classa dal temp preschent (divādi = ⟪divādi⟫ = "div e.u.v.") <!-- TODO: Fallback translation -->
+### 6.5.3. Verb da la 4. classa dal temp preschent (divādi = ⟪divādi⟫ = "div e.u.v.")
 
 ::: grammar-box
 **stam dal presens = radich en grad bass (en la quala ella è enaquadrada) + ya-**
@@ -147,7 +138,7 @@ Avant vocals vegn en l'intern da la parola **e** sustituid cun **ay**, **o** cun
 Il **a** en las suffissas da furmaziun dal stem da las classes da present vegnes numnà **vocal temaic**. Classes da present cun **a** en il suffiss da furmaziun dal stem vegnes perquai numnadas "classes da present temaicas".
 :::
 
-## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫) <!-- TODO: Fallback translation -->
+## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
 - **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Tge fa N. N.?"

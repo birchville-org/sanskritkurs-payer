@@ -1,11 +1,12 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "Lección 17"
+subtitle: "Segunda clase de presente (⟪अदादि⟫ = ⟪अद्⟫, etc.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+
+--- &lt;!--  --&gt;
 
 # Lección 17
 
@@ -81,7 +82,7 @@ Otros ejemplos:
 | 3\. sg. Pres. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. Pres. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Pres. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) | &lt;!-- TODO: Fallback translation --&gt;
+| 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) | &lt;!--  --&gt;
 
 :::
 ⟪हन्⟫ 2 P "golpear, matar, dar muerte"
@@ -230,7 +231,7 @@ También ⟪स्तु⟫ 2 U "alabar" tiene, además de las formas indicadas 
 
 | | |
 | :--- | :--- |
-| 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | &lt;!-- TODO: Fallback translation --&gt;
+| 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | &lt;!--  --&gt;
 
 :::
 ## 17.6. Lista de palabras
@@ -403,18 +404,4 @@ Traduzca las siguientes formas verbales e indique la raíz correspondiente:
 ⟪४२⟫. ⟪सहन्ते⟫
 
 ⟪४३⟫. ⟪सिच्यन्ते⟫
-
-⟪४४⟫. ⟪आप्नोति⟫
-
-⟪४५⟫. ⟪जीव्यते⟫
-
-⟪४६⟫. ⟪दिश्यन्ते⟫
-
-::: deleteme-box
-
-**lekt1701:** [Fuente de la imagen: de tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Acceso el 2008-12-07. -- Licencia Creative Commons (Atribución, sin obras derivadas)]
-
-**lekt1702:** [Fuente de la imagen: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Acceso el 2008-12-07. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual)]
-
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Fuente de la imagen: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Acceso el 2008-12-07. -- Licencia Creative Commons (Atribución, uso no comercial)]
 :::

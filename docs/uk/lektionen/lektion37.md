@@ -173,7 +173,7 @@ status: stable
 | **-⟪त्र⟫** :br(Місцевий відмінок) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | &lt;!-- TODO: Fallback translation --&gt;
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | &lt;!--  -→
 
 :::
 ::: grammar-box
@@ -193,7 +193,7 @@ status: stable
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | &lt;!-- TODO: Fallback translation --&gt;
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | &lt;!--  -→
 
 :::
 ## 37.5. Прислівні складні прикметники
@@ -520,17 +520,3 @@ C) Перекладіть наступні ⟪अव्ययीभाव⟫ :
 
 Колись один старий пішов до іншого села і втомився в дорозі. Тоді він пішов відпочити до підніжжя мангового дерева, що стояло збоку. На цьому дереві були стиглі плоди. Старий захотів цих плодів. Але він не міг піднятися на дерево і дістати плоди. На щастя, на цьому дереві були мавпи, які їли плоди. Коли він побачив їх, старий зраділи. Що він зробив? Він взяв кілька каменів, прицілився в мавп і кинув. Розгнівані мавпи зірвали плоди і кинули їх у старого. Старий взяв ці плоди з радістю і пішов у бажане йому місце. Ось доля старого!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Зображення: ⟪क्व⟫): [Джерело зображення: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Доступ від 2008-12-30. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
-- **Image lekt3702.jpg** (Зображення: ⟪यथाशक्ति⟫): [Джерело зображення: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Доступ від 2008-12-30. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
-- **Image lekt3703.jpg** (Зображення: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Чішті (Чішті) Дарга (Дарга), Фатехпур Сікрі = Фатехпур Сікрі / Фатехпур Сікрі [Джерело зображення: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Доступ від 2008-12-30. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
-- **Image lekt3704.jpg** (Зображення: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Канчипурам = Канчипурам [Джерело зображення: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Доступ від 2008-12-30. -- Ліцензія Creative Commons (Attribution)]
-- **Image lekt3705.jpg** (Зображення: ⟪शाक्यमुनिः⟫): Хуссейн Сагар = Хуссейн Сагар, Гайдарабад = Гайдарабад [Джерело зображення: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
-- **Image lekt3706.jpg** (Зображення: ⟪वृक्षः⟫): Джайпур [Джерело зображення: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution, Non-commercial, Share Alike)]
-- **Image lekt3707.jpg** (Зображення: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Картина ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Джерело зображення: Вікіпедія. Суспільне надбання]
-- **Image lekt3708.jpg** (Зображення: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Джерело зображення: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution)]
-- **Image lekt3709.jpg** (Зображення: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Джерело зображення: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
-- **Image lekt3710.jpg** (Зображення: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Джерело зображення: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution, Non-commercial, Share Alike)]
-- **Image lekt3711.jpg** (Зображення: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Делі = ⟪दहली⟫ / دہلی [Джерело зображення: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Доступ від 2008-12-31. -- Ліцензія Creative Commons (Attribution, Non-commercial, No Derivative Works)]
-:::

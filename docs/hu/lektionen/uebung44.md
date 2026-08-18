@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 44
 
-A) Határozza meg és fordítsa le a következő alakokat: <!-- TODO: Fallback translation -->
+A) Határozza meg és fordítsa le a következő alakokat:
 
 ::: grammar-box
 | Tőalak | Meghatározás | Jelentés |
@@ -59,7 +59,7 @@ A) Határozza meg és fordítsa le a következő alakokat: <!-- TODO: Fallback t
 | ⟪४२⟫. ⟪विक्रीणीध्वम्⟫ | ⟪वि⟫-⟪क्री⟫ (9Ā) 2. pl. Ā. Opt. | ti adtátok volna el |
 | ⟪४३⟫. ⟪सुन्मः⟫ | ⟪सु⟫ (5U) 1. pl. P. Ind. Präs. | mi préselünk |
 | ⟪४४⟫. ⟪रोदिषि⟫ | ⟪रुद्⟫ (2P) 2. sg. P. Ind. Präs. | te sírsz |
-| ⟪४५⟫. ⟪अस्तवीः⟫ | ⟪स्तु⟫ (2U) 2. sg. P. Impf. | te dicsértél volna | <!-- TODO: Fallback translation -->
+| ⟪४५⟫. ⟪अस्तवीः⟫ | ⟪स्तु⟫ (2U) 2. sg. P. Impf. | te dicsértél volna |
 
 | ⟪४६⟫. ⟪अशृणुत⟫ | ⟪श्रु⟫ (5P) 2. pl. P. Impf. | hallgattatok |
 | ⟪४७⟫. ⟪ब्रुवीध्वम्⟫ | ⟪ब्रू⟫ (2U) 2. pl. Ā. Opt. | beszélnéltek |
@@ -69,14 +69,14 @@ A) Határozza meg és fordítsa le a következő alakokat: <!-- TODO: Fallback t
 | ⟪५१⟫. ⟪हथ⟫ | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | ütnétek / csapnátok |
 | ⟪५२⟫. ⟪हतः⟫ | ⟪हन्⟫ (2P) PPP Nom. sg. m. | megütve / megölve |
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Fordítások
 
 B) Fordítsd le:
 
 ⟪१⟫. **⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪साधुना⟫ ⟪जयेत्⟫ ⟪।⟫ ⟪जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-A haragot a dühítetlenséggel győzd le, a rosszat az jósággal; az hazugságot az igazsággal. <!-- TODO: Fallback translation -->
+A haragot a dühítetlenséggel győzd le, a rosszat az jósággal; az hazugságot az igazsággal.
 
 ⟪२⟫. **⟪पुत्राः⟫ ⟪किं⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्प्रायच्छत⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 Fiaim, adtatok élelmáldozatot a felmenőknek?
@@ -91,7 +91,7 @@ Ha a Buddha fiait (apácákat) dús ágyakon feküdnének, nem tartanák be a re
 Üdvözölted azt a tanárt, aki el fogja mondani az nemesek harci történetét?
 
 ⟪६⟫. **⟪द्वेष्यमपि⟫ ⟪न⟫ ⟪द्विष्यात⟫ ⟪लोभनीयं⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्येतैवं⟫ ⟪च⟫ ⟪प्रसन्ना⟫ ⟪भविष्यथ⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Még a gyűlöleteset sem kell gyűlölni, és a vágyott után nem szabad mohón lenni; így benned belső nyugalom lesz. <!-- TODO: Fallback translation -->
+Még a gyűlöleteset sem kell gyűlölni, és a vágyott után nem szabad mohón lenni; így benned belső nyugalom lesz.
 
 ⟪७⟫. **⟪न⟫ ⟪योत्स्य⟫ ⟪इत्यर्जुन⟫ ⟪उवाच⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 „Nem fogok harcolni” — így beszélt Arjuna.
@@ -104,7 +104,7 @@ A nem sirandókat sirattad, és bölcs szavakat akartál mondani; de a bölk nem
 Kép: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Képmegjelölés: [Részletek](/licenses#uebung072))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## További alaki meghatározások
 
@@ -128,7 +128,7 @@ Határozd meg a következő szóalakokat:
 | ⟪१३⟫. ⟪इज्ये⟫ | ⟪यज्⟫ (1U) 1. személy egyes szám Passivus Indikativus Jelen idő |
 | ⟪१४⟫. ⟪अयुध्ये⟫ | ⟪युध्⟫ (4Ā) 1. személy egyes szám Átmédzsa Imperfektum |
 | ⟪१५⟫. ⟪अयोध्ये⟫ | ⟪युध्⟫ (4Ā) Gerundium + ⟪अ⟫ Lokativus egyes szám férfi nem |
-| ⟪१६⟫. ⟪अयोधये⟫ | ⟪युध्⟫ (4Ā) 1. személy egyes szám Kausztívum Imperfektum | <!-- TODO: Fallback translation -->
+| ⟪१६⟫. ⟪अयोधये⟫ | ⟪युध्⟫ (4Ā) 1. személy egyes szám Kausztívum Imperfektum |
 
 | ⟪१७⟫. ⟪शोचनीयायाम्⟫ | ⟪शुच्⟫ (1P) Gerundívum Lok. sg. f. |
 | ⟪१८⟫. ⟪वर्त्स्यति⟫ | ⟪वृत्⟫ (1Ā) 3. sg. P. Fut. |
@@ -159,7 +159,7 @@ Határozd meg a következő szóalakokat:
 ![](/images/uebung073.webp)
 Kép: ⟪वदिता⟫
 (Képmegjelölés: [Részletek](/licenses#uebung073))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

@@ -97,7 +97,7 @@ A purtat oare Śūdra povara?
 
 ---
 
-## Avyayībhāva (Compozite indeclinabile) <!-- TODO: Fallback translation -->
+## Avyayībhāva (Compozite indeclinabile)
 
 C) Determinați și traduceți următoarele compozite:
 

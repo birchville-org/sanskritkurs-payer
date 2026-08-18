@@ -238,14 +238,3 @@ B.) Переведите на санскрит (используйте пове�
 
 34\. Пусть это принесёт благополучие! (Пожелание счастья)
 
-::: deleteme-box
-
-**lekt4702:** Храм Ханумана, Дели = ⟪हनुमान् मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Источник изображения: Кэрол Митчелл. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Дата обращения: 2009-01-09. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Указание авторства, без производных произведений)]
-
-**lekt4701:** [Источник изображения: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Дата обращения: 2009-01-09. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Указание авторства, некоммерческое использование, с сохранением условий)]
-
-**lekt4703:** [Источник изображения: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Дата обращения: 2009-01-10. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Указание авторства)]
-
-**lekt4704:** [Источник изображения: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Дата обращения: 2009-01-10. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Указание авторства, некоммерческое использование, без производных произведений)]
-
-:::

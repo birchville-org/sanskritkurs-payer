@@ -5,7 +5,7 @@ lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα 17
 
@@ -40,7 +40,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
 | 3\. pl. Präs. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
 | 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
 Εδώ ισχύει ο ακόλουθος κανόνας σύνθεσης λέξεων:
@@ -66,7 +66,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪एति⟫ (e-ti) |
 | 3\. pl. Präs. P | ⟪यन्ति⟫ (y-anti) |
 | 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
-| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
 
 :::
 ⟪दुह्⟫ 2 U "αποκτώ"
@@ -81,7 +81,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. Präs. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
 ⟪हन्⟫ 2 P "χτυπώ, σκοτώνω"
@@ -98,7 +98,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) |
 | 3\. pl. Präs. P | ⟪घ्नन्ति⟫ (ghn-anti) |
 | 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
 ⟪अस्⟫ 2 P "είναι"
@@ -111,7 +111,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
-| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
 
 :::
 ## 17.3. Ρίζες της δεύτερης τάξης ενεστώτα με κλιμάκωση θέματος: μακρά βαθμίδα - βραχεία βαθμίδα
@@ -132,7 +132,7 @@ status: stable
 | 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
 | 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
-| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
 :::
 ## 17.4. Ρίζες της δεύτερης τάξης ενεστώτα χωρίς κλιμάκωση θέματος
@@ -149,7 +149,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::
 Επίσης, ορισμένες άλλες ρίζες της δεύτερης τάξης δεν έχουν κλιτική βαθμίδα:
@@ -163,7 +163,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
 ⟪आस्⟫ 2 Ā "καθίζω"
@@ -173,7 +173,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
 ⟪वच्⟫ 2 P «λέγουν»
@@ -183,7 +183,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | kommt nicht vor | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | kommt nicht vor |
 
 :::
 ## 17.5. Δισύλλαβες ρίζες σε -i/-ī με κλιμάκωση στελέχους
@@ -204,7 +204,7 @@ status: stable
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
 ⟪ब्रू⟫ 2 U «μιλώ»
@@ -230,7 +230,7 @@ status: stable
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | <!-- TODO: Fallback translation -->
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
 ## 17.6. Λεξιλόγιο
@@ -410,12 +410,3 @@ status: stable
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
-::: deleteme-box
-
-**lekt1701:** [Πηγή εικόνας: από tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Πρόσβαση στις 07-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, απαγόρευση τροποποίησης)]
-
-**lekt1702:** [Πηγή εικόνας: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Πρόσβαση στις 07-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)]
-
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Πηγή εικόνας: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Πρόσβαση στις 07-12-2008. -- Άδεια Creative Commons (Αναφορά δημιουργού, μη εμπορική χρήση)]
-:::
- <!-- TODO: Fallback translation -->

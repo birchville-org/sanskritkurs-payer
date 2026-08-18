@@ -22,13 +22,13 @@ status: stable
 ## 59.2. ⲡⲓⲇⲩⲁⲗ ⲛ̀ⲧⲉ ⲛⲓⲕⲗⲁⲥⲥⲏ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ ⲉⲧⲥⲉⲙⲛⲁⲧⲓⲕⲏ: ⲟⲡⲧⲁⲧⲓⲃ (⟪विधिलिङ्⟫), ⲓⲙⲡⲉⲣⲫⲉⲕⲧ (⟪लङ्⟫), ⲓⲙⲡⲉⲣⲁⲧⲓⲃ (⟪लोट्⟫)
 
 ::: grammar-box
-**Vor -va und -vahi wird der Themavokal -a- durch -ā- ersetzt.** <!-- TODO: Fallback translation -->
+**Vor -va und -vahi wird der Themavokal -a- durch -ā- ersetzt.**
 :::
 ### 59.2.1. ⲡⲓⲕⲗⲁⲥⲥ ⲛ̄ⲧⲉ ⲧⲉⲛⲟⲩ ⲛ̄ϣⲟⲣⲡ (⟪भ्वादिगणः⟫)
 
-⟪भू⟫ 1P "werden, sein" <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P "werden, sein"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -37,7 +37,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪भवेतम्⟫ | \<⟪भवेयाथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪भवेताम्⟫ | \<⟪भवेयाताम्⟫\> |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -46,7 +46,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अभवतम्⟫ | \<⟪अभवेथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪अभवताम्⟫ | \<⟪भभवेताम्⟫\> |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -55,11 +55,11 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | \<⟪भवेथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | \<⟪भवेताम्⟫\> |
 :::
-### 59.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫) <!-- TODO: Fallback translation -->
+### 59.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
 
-⟪नृत्⟫ 4P "tanzen" <!-- TODO: Fallback translation -->
+⟪नृत्⟫ 4P "tanzen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -68,7 +68,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪नृत्येतम्⟫ | \<⟪नृत्येयाथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪नृत्येताम्⟫ | \<⟪नृत्येयाताम्⟫\> |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -77,7 +77,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अनृत्यतम्⟫ | \<⟪अनृत्येथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪अनृत्यताम्⟫ | \<⟪नृत्येताम्⟫\> |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -88,9 +88,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ### 59.2.3. ϯⲙⲁϩ ⲥⲟⲟⲩ ⲛ̀ⲕⲗⲁⲥⲥⲏ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ (⟪तुदादिगणः⟫)
 
-⟪तुद्⟫ 6U "stoßen, schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U "stoßen, schlagen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -99,7 +99,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪तुदेतम्⟫ | ⟪तुदेयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदेताम्⟫ | ⟪तुदेयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -108,7 +108,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अतुदतम्⟫ | ⟪अतुदेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अतुदताम्⟫ | ⟪अतुदेताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -117,11 +117,11 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪तुदतम्⟫ | ⟪तुदेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदताम्⟫ | ⟪तुदेताम्⟫ |
 :::
-### 59.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫) <!-- TODO: Fallback translation -->
+### 59.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
 
-⟪चुर्⟫ 10U "stehlen" <!-- TODO: Fallback translation -->
+⟪चुर्⟫ 10U "stehlen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -130,7 +130,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयेतम्⟫ | ⟪चोरयेयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चोरयेताम्⟫ | ⟪चोरयेयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -139,7 +139,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अचोरयतम्⟫ | ⟪अचोरयेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अचोरयताम्⟫ | ⟪अचोरयेताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -150,9 +150,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ### 59.2.5. ⲡⲓⲡⲁⲥⲥⲓⲃ (ⲥⲩⲫⲫⲓⲝ -⟪यक्⟫)
 
-⟪तुद्⟫ 6U "stoßen, schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U "stoßen, schlagen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪तुद्येवहि⟫ |
@@ -160,7 +160,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪अतुद्यावहि⟫ |
@@ -168,7 +168,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अतुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अतुद्येताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪तुद्यावहै⟫ |
@@ -178,11 +178,11 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ## 59.3. ⲧⲉⲩⲥⲏⲧ ⲛ̀ⲧⲉ ⲧⲙⲁϩ ⲥⲛⲁⲩ ⲛ̀ⲧⲉ ⲛⲓⲕⲗⲁⲥⲥⲉⲥ ⲛ̀ⲧⲉ ⲧⲡⲣⲁⲉⲥⲉⲛⲥ ⲉⲧⲁⲑⲉⲙⲁⲧⲓⲕⲟⲥ: ⲟⲡⲧⲁⲧⲓⲃ, ⲓⲙⲡⲉⲣⲫⲉⲕⲧ, ⲓⲙⲡⲉⲣⲁⲧⲓⲃ
 
-### 59.3.1. Zweite Präsensklasse (⟪अदादिगणः⟫) <!-- TODO: Fallback translation -->
+### 59.3.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
 
-⟪द्विष्⟫ 2U "hassen" <!-- TODO: Fallback translation -->
+⟪द्विष्⟫ 2U "hassen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -191,7 +191,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्यातम्⟫ | ⟪द्विषीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪द्विष्याताम्⟫ | ⟪द्विषीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -200,7 +200,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अद्विष्टम्⟫ | ⟪अद्विषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अद्विष्टाम्⟫ | ⟪अद्विषाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -209,9 +209,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्टम्⟫ | ⟪द्विषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषाताम्⟫ |
 :::
-⟪दुह्⟫ 2U "melken" <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2U "melken"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -220,7 +220,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪दुह्यातम्⟫ | ⟪दुहीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दुह्याताम्⟫ | ⟪दुहीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -229,7 +229,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अदुग्धम्⟫ | ⟪अदुहाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अदुग्धाम्⟫ | ⟪अदुहाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -238,9 +238,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪दुग्धम्⟫ | ⟪दुहाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दुग्धाम्⟫ | ⟪दुहाताम्⟫ |
 :::
-⟪इ⟫ 2P "gehen" <!-- TODO: Fallback translation -->
+⟪इ⟫ 2P "gehen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -249,7 +249,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪इयातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪इयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -258,7 +258,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪ऐतम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪ऐताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -267,9 +267,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪इतम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪इताम्⟫ |
 :::
-⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren" <!-- TODO: Fallback translation -->
+⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -278,7 +278,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अधीयीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अधीयीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -287,7 +287,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अध्यैयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अध्यैयाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -296,9 +296,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अधीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अधीयाताम्⟫ |
 :::
-⟪हन्⟫ 2P "erschlagen" <!-- TODO: Fallback translation -->
+⟪हन्⟫ 2P "erschlagen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -307,7 +307,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪हन्यातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪हन्याताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -317,7 +317,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | \*a-hn-tam | | |
 | 3\. ⟪प्रथमः⟫ | ⟪अहताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -326,9 +326,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪हतम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪हताम्⟫ |
 :::
-⟪अस्⟫ 2P "sein" <!-- TODO: Fallback translation -->
+⟪अस्⟫ 2P "sein"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -337,7 +337,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪स्यातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪स्याताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -346,7 +346,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪आस्तम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आस्ताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -357,9 +357,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ### 59.3.2. ⲡⲓⲕⲗⲁⲥⲥ ⲛ̄ⲧⲉ ⲧⲉⲛⲟⲩ ⲛ̄ϣⲟⲙⲧ (⟪जुहोत्यादिगणः⟫)
 
-⟪हु⟫ 3P "ins Opferfeuer gießen" <!-- TODO: Fallback translation -->
+⟪हु⟫ 3P "ins Opferfeuer gießen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -368,7 +368,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुयातम्⟫ | \<⟪जुह्वीयाथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुयाताम्⟫ | \<⟪जुह्वीयाताम्⟫\> |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -377,7 +377,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अजुहुतम्⟫ | \<⟪अजुह्वाथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪अजुहुताम्⟫ | \<⟪अजुह्वाताम्⟫\> |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -386,9 +386,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुतम्⟫ | \<⟪जुह्वाथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुताम्⟫ | \<⟪जुह्वाताम्⟫\> |
 :::
-⟪धा⟫ 3U "setzen, legen, stellen" <!-- TODO: Fallback translation -->
+⟪धा⟫ 3U "setzen, legen, stellen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -397,7 +397,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪दध्यातम्⟫ | ⟪दधीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दध्याताम्⟫ | ⟪दधीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -406,7 +406,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अधत्तम्⟫ | ⟪अदधाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अधत्ताम्⟫ | ⟪अदधाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -418,9 +418,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ### 59.3.3. ϯⲙⲁϩ ϯ ⲛ̀ⲕⲗⲁⲥⲥⲏ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ (⟪स्वादिगणः⟫)
 
-⟪सु⟫ 5U "auspressen" <!-- TODO: Fallback translation -->
+⟪सु⟫ 5U "auspressen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -429,7 +429,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪सुनुयातम्⟫ | ⟪सुन्वीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सुनुयाताम्⟫ | ⟪सुन्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -438,7 +438,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪असुनुतम्⟫ | ⟪असुन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असुनुताम्⟫ | ⟪असुन्वाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -449,9 +449,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ### 59.3.4. ⲧⲙⲁϩ ϩⲙⲉ ⲛ̀ⲧⲉ ⲧⲡⲣⲁⲉⲥⲉⲛⲥ ⲕⲗⲁⲥⲥ
 
-⟪तन्⟫ 8U "aufspannen" <!-- TODO: Fallback translation -->
+⟪तन्⟫ 8U "aufspannen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -460,7 +460,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪तनुयातम्⟫ | ⟪तन्वीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुयाताम्⟫ | ⟪तन्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -469,7 +469,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अतनुतम्⟫ | ⟪अतन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अतनुताम्⟫ | ⟪अतन्वताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -478,9 +478,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪तनुतम्⟫ | ⟪तन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुताम्⟫ | ⟪तन्वाताम्⟫ |
 :::
-⟪कृ⟫ 8U "tun, machen" <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U "tun, machen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -489,7 +489,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪कुर्यातम्⟫ | ⟪कुर्वीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुर्याताम्⟫ | ⟪कुर्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -498,7 +498,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अकुरुतम्⟫ | ⟪अकुर्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अकुरुताम्⟫ | ⟪अकुर्वाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -509,9 +509,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ### 59.3.5. ⲧⲉϩⲉⲡⲧⲟⲙⲟⲥ ⲛⲡⲣⲁⲉⲥⲉⲛⲥⲕⲗⲁⲥⲥⲉ (⟪रुधादिगणः⟫)
 
-⟪रुध्⟫ 7U "stoppen" <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U "stoppen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -520,7 +520,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪रुन्ध्यातम्⟫ | ⟪रुन्धीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्ध्याताम्⟫ | ⟪रुन्धीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -529,7 +529,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अरुन्द्धम्⟫ | ⟪अरुन्धाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अरुन्द्धाम्⟫ | ⟪अरुन्धाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -538,9 +538,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪रुन्द्धम्⟫ | ⟪रुन्धाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धाताम्⟫ |
 :::
-⟪युज्⟫ 7U "anschirren" <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U "anschirren"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -549,7 +549,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪युञ्ज्यातम्⟫ | ⟪युञ्जीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युञ्ज्याताम्⟫ | ⟪युञ्जीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -558,7 +558,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अयुङ्क्तम्⟫ | ⟪अयुञ्जाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अयुङ्क्ताम्⟫ | ⟪युञ्जाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -569,9 +569,9 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ### 59.3.6. ϯⲙⲁϩ ⲧⲓⲥ ⲛ̀ⲕⲗⲁⲥⲥⲏ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ (⟪क्र्यादिगणः⟫)
 
-⟪क्री⟫ 9U "kaufen" <!-- TODO: Fallback translation -->
+⟪क्री⟫ 9U "kaufen"
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -580,7 +580,7 @@ Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीयातम्⟫ | ⟪क्रीणीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीयाताम्⟫ | ⟪क्रीणीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -589,7 +589,7 @@ Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अक्रीणीतम्⟫ | ⟪अक्रीणाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अक्रीणीताम्⟫ | ⟪अक्रीणाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -602,7 +602,7 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 
 ### 59.4.1. Wurzelaorist
 
-⟪पा⟫ 1P "trinken" <!-- TODO: Fallback translation -->
+⟪पा⟫ 1P "trinken"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -613,7 +613,7 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ### 59.4.2. ⲁ-Ⲁⲟⲣⲓⲥⲧ
 
-⟪सिच्⟫ 6U "beträufeln" <!-- TODO: Fallback translation -->
+⟪सिच्⟫ 6U "beträufeln"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -624,7 +624,7 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ### 59.4.3. ⲁⲟⲣⲓⲥⲧⲟⲥ ⲉϥⲟⲓ ⲛ̀ⲣⲉⲇⲟⲩⲡⲗⲓⲕⲁⲧⲟⲥ
 
-⟪श्रि⟫ 1U "sich begeben zu" <!-- TODO: Fallback translation -->
+⟪श्रि⟫ 1U "sich begeben zu"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -635,7 +635,7 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ### 59.4.4. ⲥ-ⲁⲟⲣⲓⲥⲧ
 
-⟪नी⟫ 1U "führen" <!-- TODO: Fallback translation -->
+⟪नी⟫ 1U "führen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -644,7 +644,7 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪अनैष्टम्⟫ | ⟪अनेषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अनैष्टाम्⟫ | ⟪अनेषाताम्⟫ |
 :::
-⟪तुद्⟫ 6U "stoßen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U "stoßen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -656,7 +656,7 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 :::
 ### 59.4.5. iṣ-Aorist
 
-⟪पू⟫ 9U "reinigen" <!-- TODO: Fallback translation -->
+⟪पू⟫ 9U "reinigen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -668,13 +668,13 @@ Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 ## 59.5. ⲁⲟⲣⲓⲥⲧ (⟪लुङ्⟫) 6: siṣ-ⲁⲟⲣⲓⲥⲧ (ⲙⲟⲛⲟⲛ P)
 
 ::: grammar-box
-**Den siṣ-Aorist bilden im P alle Wurzeln auf -ā, -e, -o, -ai, die nicht auf den 1.,2. oder 3. Aorist beschränkt sind, sowie einige weitere Wurzeln, u.a. ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. Im Ā bilden alle diese Wurzeln den s-Aorist.** <!-- TODO: Fallback translation -->
+**Den siṣ-Aorist bilden im P alle Wurzeln auf -ā, -e, -o, -ai, die nicht auf den 1.,2. oder 3. Aorist beschränkt sind, sowie einige weitere Wurzeln, u.a. ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. Im Ā bilden alle diese Wurzeln den s-Aorist.**
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-**Augment + hochstufige Wurzel + s + i + ṣ + athematische Sekundärendung (wie iṣ-Aorist)** <!-- TODO: Fallback translation -->
+**Augment + hochstufige Wurzel + s + i + ṣ + athematische Sekundärendung (wie iṣ-Aorist)**
 :::
-Stammbildungssuffix + Endungen des siṣ-Aorist lauten also: <!-- TODO: Fallback translation -->
+Stammbildungssuffix + Endungen des siṣ-Aorist lauten also:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |||
@@ -684,9 +684,9 @@ Stammbildungssuffix + Endungen des siṣ-Aorist lauten also: <!-- TODO: Fallback
 | **2. ⟪द्वितीयः⟫** | **-sīs** | **-siṣṭam** | **-siṣṭa** |
 | **3. ⟪प्रथमः⟫** | **-sīt** | **-siṣṭām** | **-siṣur** |
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
-⟪या⟫ 2P "gehen" <!-- TODO: Fallback translation -->
+⟪या⟫ 2P "gehen"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ |||
@@ -699,15 +699,15 @@ Paradigma: <!-- TODO: Fallback translation -->
 ## 59.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer ⲥ-ⲁⲟⲣⲓⲥⲧ)
 
 ::: grammar-box
-**Den sa-Aorist bilden die meisten ⟪अनिट्⟫-Wurzeln, die auf -ś, -ṣ oder -h auslauten und an deren vorletzter Stelle i, u oder ṛ steht. Fakultative ⟪अनिट्⟫-Wurzeln dieser Gestalt bilden wahlweise den sa-Aorist oder den iṣ-Aorist.** <!-- TODO: Fallback translation -->
+**Den sa-Aorist bilden die meisten ⟪अनिट्⟫-Wurzeln, die auf -ś, -ṣ oder -h auslauten und an deren vorletzter Stelle i, u oder ṛ steht. Fakultative ⟪अनिट्⟫-Wurzeln dieser Gestalt bilden wahlweise den sa-Aorist oder den iṣ-Aorist.**
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-**Augment + tiefstufige Wurzel + s + a + thematische Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + tiefstufige Wurzel + s + a + thematische Sekundärendung**
 
-**Die 1.sg.2.3.du.Ā werden vom s-Aorist, d.h. athematisch gebildet.** <!-- TODO: Fallback translation -->
+**Die 1.sg.2.3.du.Ā werden vom s-Aorist, d.h. athematisch gebildet.**
 :::
-Stammbildungssuffix + Endungen des sa-Aorist lauten also: <!-- TODO: Fallback translation -->
+Stammbildungssuffix + Endungen des sa-Aorist lauten also:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -717,9 +717,9 @@ Stammbildungssuffix + Endungen des sa-Aorist lauten also: <!-- TODO: Fallback tr
 | **2. ⟪द्वितीयः⟫** | **-sas** | **-satam** | **-sata** | **-sathās** | **-sāthām** | **-sadhvam** |
 | **3. ⟪प्रथमः⟫** | **-sat** | **-satām** | **-san** | **-sata** | **-sātām** | **-santa** |
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
-⟪दिश्⟫ 6U "zeigen" <!-- TODO: Fallback translation -->
+⟪दिश्⟫ 6U "zeigen"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -730,13 +730,13 @@ Paradigma: <!-- TODO: Fallback translation -->
 | **3. ⟪प्रथमः⟫** | ⟪अदिक्षत्⟫ | ⟪अदिक्षताम्⟫ | ⟪अदिक्षन्⟫ | ⟪अदिक्षत⟫ | *:sig[⟪अदिक्षाताम्⟫]* | ⟪अदिक्षन्त⟫ |
 :::
 ::: grammar-box
-**Besonderheiten:** <!-- TODO: Fallback translation -->
+**Besonderheiten:**
 
-**Winige wurzeln auf -h (⟪गुह्⟫, ⟪दिह्⟫, ⟪दुह्⟫, ⟪लिह्⟫) können im Ā die 2.3.sg.1.du.2.pl. wahlweise ohne -sa- bilden.** <!-- TODO: Fallback translation -->
+**Winige wurzeln auf -h (⟪गुह्⟫, ⟪दिह्⟫, ⟪दुह्⟫, ⟪लिह्⟫) können im Ā die 2.3.sg.1.du.2.pl. wahlweise ohne -sa- bilden.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
-⟪दिह्⟫ 2U "bestreichen" <!-- TODO: Fallback translation -->
+⟪दिह्⟫ 2U "bestreichen"
 
 ::: indent
 |   | ⟪आत्मनेपदम्⟫ |||
@@ -748,46 +748,39 @@ Paradigma: <!-- TODO: Fallback translation -->
 :::
 ## 59.7. Übung
 
-A) Übersetzen Sie den folgenden Text und bestimmen Sie alle darin vorkommenden Verbalformen. <!-- TODO: Fallback translation -->
+A) Übersetzen Sie den folgenden Text und bestimmen Sie alle darin vorkommenden Verbalformen.
 
-_Vorbemerkung:_ <!-- TODO: Fallback translation -->
+_Vorbemerkung:_
 
-Der folgende Text stammt aus dem ⟪भट्टिकाव्य⟫ ("Kunstgedicht des \[Dichters\] Bhaṭṭi"). Das ⟪भट्टिकाव्य⟫ erzählt in 22 Gesängen die Geschichte von ⟪राम⟫, belegt aber gleichzeitig die Regeln der Grammatik und Poetik durch Beispiele. <!-- TODO: Fallback translation -->
+Der folgende Text stammt aus dem ⟪भट्टिकाव्य⟫ ("Kunstgedicht des \[Dichters\] Bhaṭṭi"). Das ⟪भट्टिकाव्य⟫ erzählt in 22 Gesängen die Geschichte von ⟪राम⟫, belegt aber gleichzeitig die Regeln der Grammatik und Poetik durch Beispiele.
 
-Das Gedicht hat vier Abschnitte: <!-- TODO: Fallback translation -->
+Das Gedicht hat vier Abschnitte:
 
-1.  Gesang 1-5: vermischte Regeln <!-- TODO: Fallback translation -->
-2.  Gesang 6-9: Hauptregeln von Pāṇinis Grammatik <!-- TODO: Fallback translation -->
-3.  Gesang 10-13: die wichtigsten poetischen Schmuckmittel <!-- TODO: Fallback translation -->
-4.  Gesang 14-22: Gebrauch der Tempora und Modi <!-- TODO: Fallback translation -->
+1.  Gesang 1-5: vermischte Regeln
+2.  Gesang 6-9: Hauptregeln von Pāṇinis Grammatik
+3.  Gesang 10-13: die wichtigsten poetischen Schmuckmittel
+4.  Gesang 14-22: Gebrauch der Tempora und Modi
 
-Das ⟪भट्टिकाव्य⟫ ist in der Zeit zwischen 495 und 641 n. Chr. entstanden. <!-- TODO: Fallback translation -->
+Das ⟪भट्टिकाव्य⟫ ist in der Zeit zwischen 495 und 641 n. Chr. entstanden.
 
 ::: media
 ![](/images/lekt5902.webp)
 Abb.: ⟪रावणः⟫
-(Bildquelle: [Details](/licenses#lekt5902)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5902))
 :::
-Der folgende Abschnitt ist der Beginn des 15. Gesangs, der dem Aorist gewidmet ist. ⟪रावण⟫, der Dämonenkönig, der dem ⟪राम⟫ dessen Frau ⟪सीता⟫ geraubt hat, schickt nach seinem Bruder ⟪कुम्भकर्ण⟫ ("Topfohr"), der als Strafe für seine Übeltaten in einer Art Dauerschlaf liegt. <!-- TODO: Fallback translation -->
+Der folgende Abschnitt ist der Beginn des 15. Gesangs, der dem Aorist gewidmet ist. ⟪रावण⟫, der Dämonenkönig, der dem ⟪राम⟫ dessen Frau ⟪सीता⟫ geraubt hat, schickt nach seinem Bruder ⟪कुम्भकर्ण⟫ ("Topfohr"), der als Strafe für seine Übeltaten in einer Art Dauerschlaf liegt.
 
 ::: media
 ![](/images/lekt5903.webp)
 Abb.: ⟪कुम्भकर्णः⟫
 Kecak-Tanz, Bali (Indonesien)
-(Bildquelle: [Details](/licenses#lekt5903)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5903))
 :::
-_Übersetzungshilfe:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderativ zu ⟪दृश्⟫ <!-- TODO: Fallback translation -->
+_Übersetzungshilfe:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderativ zu ⟪दृश्⟫
 
 ::: media
 ![](/images/lekt5901.webp)
-(Bildquelle: [Details](/licenses#lekt5901)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5901))
 :::
-Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f. <!-- TODO: Fallback translation -->
+Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 
-::: deleteme-box
-
-**lekt5902:** [Bildquelle: Henryart/Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt5903:** Kecak-Tanz, Bali (Indonesien) [Bildquelle: Flying Pharmacist / Wikipedia. [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/3.0/) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
-
-:::

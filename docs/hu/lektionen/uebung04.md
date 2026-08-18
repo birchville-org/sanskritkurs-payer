@@ -95,5 +95,5 @@ etat kim? eṣā pipīlikā.
 ![](/images/uebung003.webp)
 Ábr.: ⟪एतत्किम्⟩ ⟪।⟩ ⟪एष⟩ ⟪काकः⟩ ⟪।⟩
 (Képmegjelölés: [Részletek](/licenses#uebung003))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

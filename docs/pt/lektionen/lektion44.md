@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 44
 
@@ -258,7 +258,7 @@ dele:
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : alegrar-se com (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : alegrar-se com (⟪तृतीयया⟫)
 
 ::: indent
 Perf. I ⟪ननन्द⟫
@@ -325,7 +325,7 @@ disto:
 Fig.: ⟪यत्नेन⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4407))
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (forma secundária de ⟪लभ्⟫): agarrar, segurar <!-- TODO: Fallback translation -->
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (forma secundária de ⟪लभ्⟫): agarrar, segurar
 
 ::: indent
 Perf. Vb ⟪रेभे⟫
@@ -340,11 +340,6 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (de ⟪प्र⟫-⟪व्रज्⟫): a saída do lar para a vida sem lar; cerimónia pela qual alguém se torna um noviço budista (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Ver:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Conceitos fundamentais das regras monásticas e do direito monástico do Theravāda. -- Parte I. -- (Materiais sobre os conceitos fundamentais do Budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
@@ -412,7 +407,7 @@ A) Analise e traduza as seguintes formas:
 Fig.: ⟪कस्माद्रोदिषि⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4409))
 :::
-B) Traduza: <!-- TODO: Fallback translation -->
+B) Traduza:
 
 ⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
 
@@ -476,25 +471,3 @@ Analise as seguintes formas:
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
 
-::: deleteme-box
-
-**lekt4301.jpg**: Detalhes em licenses.md
-
-**lekt4401.jpg**: Nenhuma licença/fonte de imagem específica encontrada no texto
-
-**lekt4402.jpg**: Desenho de Henri Gerbault (1863 - 1930) (Domínio público)
-
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Acessado em 2009-01-08. -- Licença Creative Commons (Atribuição, Uso Não Comercial, Sem Derivações)
-
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Acessado em 2009-01-08. -- Licença Creative Commons (Atribuição, Uso não comercial, Compartilhamento pela mesma licença)
-
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Acessado em 2009-01-08. -- Licença Creative Commons (Atribuição, Uso não comercial)
-
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Acessado em 2009-01-08. -- Licença Creative Commons (Atribuição, Uso não comercial)
-
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Acessado em 2009-01-08. -- Licença Creative Commons (Atribuição, Uso não comercial, Compartilhamento pela mesma licença)
-
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Acessado em 2009-01-08. -- Licença Creative Commons (Atribuição, Uso Não Comercial, Sem Derivações)
-
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Acessado em 2009-01-08. -- Licença Creative Commons (Atribuição, Uso Não Comercial, Sem Derivações)
-:::

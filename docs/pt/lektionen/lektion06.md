@@ -5,19 +5,10 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 6
 
-::: deleteme-box
-**Nesta lição, você aprenderá:**
-- A estrutura da oração verbal (Agente e forma verbal)
-- A formação das formas verbais (Parasmaipada, Ātmanepada, Passivo)
-- Os modos e tempos do verbo
-- O presente do indicativo (laṭ) e as desinências primárias da 3ª pessoa
-- A formação do tema do presente (classes 1, 4 e 6)
-- A gradação vocálica (Ablaut: Guṇa e Vṛddhi)
-:::
 ## 6.1. A oração verbal
 
 ::: grammar-box

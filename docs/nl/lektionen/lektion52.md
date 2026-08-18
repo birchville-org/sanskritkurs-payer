@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: Lektion 52
 subtitle: "Neutrum der Stämme auf -i und -u"
@@ -791,41 +791,5 @@ Während der Semesterferien sollten folgende Aufgaben erfüllt werden:
 Abb.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Bild: Payer)
 (Bildquelle: [Details](/licenses#lekt5201))
-:::
-
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Bildquelle: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5203:** Wayang-Figur, Java, Indonesien [Bildquelle. Wikipedia. Public domain]
-
-**lekt5204:** Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം [Bildquelle: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5209:** Brandrodung, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Bildquelle: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Zugriff am 2009-01-15. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5205:** [Bildquelle: Wikipedia. Public domain]
-
-**lekt5206:** Das Siebengestirn = die sieben hellsten Sterne des Grossen Bären (Ursa maior) [Bildquelle: Wikipedia, GNU FDLicense]
-
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Bildquelle: Wikipedia. Public domain]
-
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Bildquelle: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)]
-
-**lekt5212:** Hyderabad = హైదరాబాద్ [Bildquelle: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5213:** ⟪मुंबई⟫ [Bildquelle: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)]
-
-**lekt5214:** Konark = ⟪कोनार्क⟫ [Bildquelle: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Zugriff am 2009-01-16. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5208:** Hampi = ಹಂಪೆ [Bildquelle: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5215:** ⟪मुंबई⟫ [Bildquelle: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)]
-
-**lekt5217:** Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810 [Bildquelle: Wikipedia. Public domain]
-
-**lekt5201:** (Bild: Payer)
-
 :::
 

@@ -91,7 +91,7 @@ Forma de 3.sg.Ā.Imperfekt, respectiv Optativ este identică cu forma de 2.pl.P.
 
 #### 43.2.1.6. Viitor (⟪ऌट्⟫)
 
-#### 43.2.1.6.1. Forme ⟨⟪अनिट्⟫-Bildungen⟩ <!-- TODO: Fallback translation -->
+#### 43.2.1.6.1. Forme ⟨⟪अनिट्⟫-Bildungen⟩
 
 ⟪दा⟫ 3U
 
@@ -143,14 +143,14 @@ Fig.: ⟪आपणः⟫
 :::
 ⟪सत्वर⟫ 3: rapid, grăbit
 
-⟪पण्य⟫ 3: vândut; n.: marfă, comerț <!-- TODO: Fallback translation -->
+⟪पण्य⟫ 3: vândut; n.: marfă, comerț
 
 ::: media
 ![](/images/lekt4303.webp)
 Fig.: ⟪पण्यानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4303))
 :::
-⟪आम्⟫ : da <!-- TODO: Fallback translation -->
+⟪आम्⟫ : da
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -180,7 +180,7 @@ Fig.: ⟪विपणिः⟫
 Fig.: ⟪वणिक्⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4305))
 :::
-⟪वर⟫ 3: cel mai bun <!-- TODO: Fallback translation -->
+⟪वर⟫ 3: cel mai bun
 
 ⟪शीघ्र⟫ 3: rapid, repede
 
@@ -191,7 +191,7 @@ Fig.: ⟪वणिक्⟫
 Fig.: ⟪वत्सः⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4306))
 :::
-⟪उत्तम⟫ 3: suprem, cel mai bun <!-- TODO: Fallback translation -->
+⟪उत्तम⟫ 3: suprem, cel mai bun
 
 ⟪अल्प⟫ 3: mic, puțin
 
@@ -367,24 +367,6 @@ Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 ![](/images/lekt4309.webp)
 Fig.: ⟪शर्करा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4309))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
 
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Accesat la 2009-01-06. -- Licență Creative Commons (Atribuire, fără scop comercial)
-
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Accesat la 2009-01-06. -- Licență Creative Commons (Atribuire, fără scop comercial)
-
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Accesat la 2009-01-06. -- Licență Creative Commons (Atribuire)
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Accesat la 2009-01-06. -- Licență Creative Commons (Atribuire, fără scop comercial, share alike)
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Accesat la 2009-001-06. -- Licență Creative Commons (Atribuire, share alike)
-
-**lekt4307.jpg**: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Accesat la 2009-01-06. -- Licență Creative Commons (Atribuire, fără scop comercial, fără modificări)
-
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Accesat la 2009-01-07. -- Licență Creative Commons (Atribuire, fără modificări)
 :::

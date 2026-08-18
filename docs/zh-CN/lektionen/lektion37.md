@@ -499,17 +499,3 @@ C) 翻译以下 ⟪अव्ययीभाव⟫ ：
 
 从前，一位老人在前往另一个村庄的路上行走时，途中感到疲惫。于是他去到路边一棵芒果树下休息。这棵树上结满了成熟的果实。老人很想吃这些果实。但他无法爬上树去摘取果子。幸运的是，这棵树上有一些猴子在吃果实。当他看到这些猴子时，老人很高兴。他做了什么？他捡起几块石头，瞄准猴子并扔了过去。愤怒的猴子摘下一些果实扔向老人。老人高兴地接过这些果实，然后前往他想去的地方。看啊，这位老人的命运！
 
-::: deleteme-box
-
-**Image lekt3701.jpg**（图：⟪क्व⟫）：[图片来源：Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- 访问日期：2008-12-30. -- Creative Commons 许可协议（署名，非商业性使用，禁止演绎）]
-**Image lekt3702.jpg**（图：⟪यथाशक्ति⟫）：[图片来源：Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- 访问日期：2008-12-30. -- Creative Commons 许可协议（署名，非商业性使用，禁止演绎）]
-**Image lekt3703.jpg**（图：⟪तूष्णीं बभूवुः⟫）：Chishti（契斯提）Dargah（达尔嘎，苏菲派圣墓），法塔赫布尔西格里 = Fatehpur Sikri / 法塔赫布尔西格里 [图片来源：Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- 访问日期：2008-12-30. -- Creative Commons 许可协议（署名，非商业性使用，禁止演绎）]
-**Image lekt3704.jpg**（图：⟪किं बाला अधीयीरन्⟫）：Kanchipuram = 坎奇普拉姆 [图片来源：mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- 访问日期：2008-12-30. -- Creative Commons 许可协议（署名）]
-**Image lekt3705.jpg**（图：⟪शाक्यमुनिः⟫）：Hussain Sagar = 侯赛因萨加尔湖，海得拉巴 = Hyderabad [图片来源：.krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- 访问日期：2008-12-31. -- Creative Commons 许可协议（署名，非商业性使用，禁止演绎）]
-**Image lekt3706.jpg**（图：⟪वृक्षः⟫）：Jaipur [图片来源：counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- 访问日期：2008-12-31. -- Creative Commons 许可协议（署名，非商业性使用，相同方式共享）]
-**Image lekt3707.jpg**（图：⟪कृष्णः बलरामश्च⟫）：⟪राजा रवि वर्मा⟫（1848 - 1906）的画作 [图片来源：Wikipedia. Public domain]
-**Image lekt3708.jpg**（图：⟪क्व मर्तुं सज्जना इच्छन्ति⟫）：⟪काशी⟫ = ⟪वाराणसी⟫ [图片来源：amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- 访问日期：2008-12-31. -- Creative Commons 许可协议（署名）]
-**Image lekt3709.jpg**（图：⟪अधिकेरलं वर्तन्ते⟫）：[图片来源：Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- 访问日期：2008-12-31. -- Creative Commons 许可协议（署名，非商业性使用，禁止演绎）]
-**Image lekt3710.jpg**（图：⟪आबालवृद्धं लंदननगरे ववृतिरे⟫）：[图片来源：saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- 访问日期：2008-12-31. -- Creative Commons 许可协议（署名，非商业性使用，相同方式共享）]
-**Image lekt3711.jpg**（图：⟪उपवृक्षं सीदन्ति⟫）：Delhi = ⟪दहली⟫ / دہلی [图片来源：Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- 访问日期：2008-12-31. -- Creative Commons 许可协议（署名，非商业性使用，禁止演绎）]
-:::

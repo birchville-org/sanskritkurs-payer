@@ -1,10 +1,11 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "Leçon 16"
+subtitle: "Sur le sandha des consonnes finales"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 16
@@ -156,36 +157,22 @@ B) Résolvez les composés suivants en sanskrit, formez des phrases avec des nom
 
 ⟪२⟫. ⟪पुण्यकरणं⟫ ⟪स्वर्गमार्गः⟫ ⟪।⟫
 
-⟪३⟫. ⟪न⟫ ⟪साधुः⟫ ⟪पशुवन्नरधेनुलोभः⟫ ⟪।⟫
+⟪२⟫. ⟪पुण्यकरणं स्वर्गमार्गः । ३⟫. ⟪न साधुः पशुवन्नरधेनुलोभः । ४⟫. ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति । धर्मयज्ञैस्तु स्वर्गसुखमाप्नुवन्ति । ५⟫. ⟪द्विजदासा इति शूद्रा उच्यन्ते । ६⟫. ⟪बालब्राह्मणपुत्राः सत्यवन्नरं शृण्वन्ति । ७⟫. ⟪बलवत्क्षत्रिया धनवच्छत्रुनगरं जयन्ति । ८⟫. ⟪ऋष्युक्त्या सत्यमुच्यते । ९⟫. ⟪बलवद्योधा ब्राह्मणग्रामं गताः । १०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां करोति ।⟫
 
-⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫
+## 16.4. Exercice de révision
 
-⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
+A) Formez tous les cas appris jusqu'à présent pour les mots suivants, comme exemples des classes de déclinaison apprises jusqu'ici.
 
-⟪६⟫. ⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
+Utilisez pour cela le schéma suivant, qui correspond à l'ordre des cas chez les grammairiens indiens et qui a également été adopté par les grammairiens occidentaux en raison de ses avantages - à discuter plus tard :
 
-⟪७⟫. ⟪बलवत्क्षत्रिया⟫ ⟪धनवच्छत्रुनगरं⟫ ⟪जयन्ति⟫ ⟪।⟫
-
-⟪८⟫. ⟪ऋष्युक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫
-
-⟪९⟫. ⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪।⟫
-
-⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
-
-## 16.4. Wiederholungsübung <!-- TODO: Fallback translation -->
-
-A) Formez tous les cas appris jusqu'à présent pour les mots suivants, comme exemples des classes de déclinaison apprises jusqu'à présent.
-
-Utilisez à cet effet le schéma suivant, qui correspond à l'ordre des cas chez les grammairiens indiens et qui a été également adopté par les grammairiens occidentaux en raison de ses avantages — à discuter plus tard — :
-
-| Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
+| Singulier:br⟪एकवचनम्⟫ | Pluriel:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
-| **⟪१⟫. ⟪प्रथमा⟫** :brNominativ | **⟪१⟫. ⟪प्रथमा⟫** |
-| **⟪२⟫. ⟪द्वितीया⟫** :brAkkusativ | **⟪२⟫. ⟪द्वितीया⟫** |
-| **⟪३⟫. ⟪तृतीया⟫** :brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** |
-| **⟪६⟫. ⟪षष्ठी⟫** :brGenetiv | **⟪६⟫. ⟪षष्ठी⟫** |
+| **⟪१⟫. ⟪प्रथमा⟫** :brNominatif | **⟪१⟫. ⟪प्रथमा⟫** |
+| **⟪२⟫. ⟪द्वितीया⟫** :brAccusatif | **⟪२⟫. ⟪द्वितीया⟫** |
+| **⟪३⟫. ⟪तृतीया⟫** :brInstrumental | **⟪३⟫. ⟪तृतीया⟫** |
+| **⟪६⟫. ⟪षष्ठी⟫** :brGénitif | **⟪६⟫. ⟪षष्ठी⟫** |
 
-Apprenez par cœur les modèles de déclinaison à partir de ces exemples!!!
+Apprenez par cœur les modèles de déclinaison d'après ces exemples !!!
 
 ⟪१⟫. ⟪नर⟫ m.
 
@@ -205,7 +192,7 @@ Apprenez par cœur les modèles de déclinaison à partir de ces exemples!!!
 
 ⟪९⟫. ⟪गुणवन्त्⟫ m., n., f.
 
-⟪१०⟫. ⟪किम्⟫  m., n., f.
+⟪१०⟫. ⟪किम्⟫ m., n., f.
 
 ⟪११⟫. ⟪तद्⟫ m., n., f.
 
@@ -213,9 +200,7 @@ Apprenez par cœur les modèles de déclinaison à partir de ces exemples!!!
 
 ⟪१३⟫. ⟪इदम्⟫ m., n., f.
 
-B) Traduisez et résolvez en sanskrit tous les composés :
-
-⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫
+B) Traduisez et résolvez tous les composés en sanskrit :
 
 ⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
 
@@ -240,13 +225,3 @@ Phrase 13 : ⟪सर्वेषाम्⟫ Gén. pl. masc. à ⟪सर्व
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601 :** Temple Birla, Delhi [Source de l'image : Deepak / Wikipedia ; Licence Creative Commons (Attribution, partage à l'identique)]
-
-**lekt1602 :** "Il s'agit d'une cérémonie spéciale dans un petit temple de Satara (⟪सातारा⟫). Elle est accomplie par les étudiants de la Swami Muktananda Vedashala lors de la célébration de Mahāśivarātri. Il s'agit d'une école védique, où les enfants par cœur les textes sacrés appelés les Vedas. Cette école enseigne le Krishna Yajurveda et certaines parties du Samaveda. Je rédige mon mémoire de master sur cette école." [Source de l'image : Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Consulté le 2008-12-07. -- Licence Creative Commons (Attribution, utilisation non commerciale, pas de modification)]
-
-**lekt1603 :** "La main avec une roue sur la paume symbolise le vœu jaïn d'Ahiṃsā. Le mot au milieu est "ahimsa". La roue représente le dharmacakra, qui symbolise la résolution d'arrêter le cycle de la réincarnation par une poursuite implacable de la vérité et de la non-violence." [Source de l'image : Wikipedia, Domaine public]
-
-**lekt1604 :** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Source de l'image : mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Consulté le 2008-12-07. -- Licence Creative Commons (Attribution, utilisation non commerciale, pas de modification)]
-:::

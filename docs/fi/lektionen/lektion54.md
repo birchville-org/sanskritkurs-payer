@@ -1,28 +1,29 @@
 ---
-title: Lektion 54
-subtitle: "Vorbemerkung"
+title: "Oppitunti 54"
+subtitle: "Esipuhe"
 lesson_id: 54
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Luento 54
 
-## 54.1. Esipuhe <!-- TODO: Fallback translation -->
+## 54.1. Esipuhe
 
 Luentokauden 54 alussa yliopistokurssi siirtyy toiselle puoliskolle. Tämän jälkeen kurssi etenee vain sivussa tämän lukukauden pääaiheesta: Bhagavadgītā:n kokonaan lukemisesta. Oppimistavoitteena on sellainen sujuvuus keskitason tekstin lukemisessa, että kurssin viimeisen kolmanneksen aikana Bhagavadgītā:n laajoja osia voidaan kääntää suoraan sanasta sanaan. Kurssin alussa yliopistokurssilla jaettiin sanastoja, mutta myöhemmin opiskelijoiden tuli käyttää itse vastaavia sanakirjoja (Monier-Williams, Apte, PW).
 
-Kurssi Bhagavadgītā:sta ei toistaiseksi saatavilla verkossa. <!-- TODO: Fallback translation -->
+Kurssi Bhagavadgītā:sta ei toistaiseksi saatavilla verkossa.
 
-Sanskrit-kurssin oppitunnit käsittelevät sanskritinkielisen grammatikan aiheita, joita ei ole aiemmin käsitelty. <!-- TODO: Fallback translation -->
+Sanskrit-kurssin oppitunnit käsittelevät sanskritinkielisen grammatikan aiheita, joita ei ole aiemmin käsitelty.
 
-## 54.2. Sananmuodostus: ⟪कृत्⟫-liite -u toivotustevokseen <!-- TODO: Fallback translation -->
+## 54.2. Sananmuodostus: ⟪कृत्⟫-liite -u toivotustevokseen
 
 ::: grammar-box
-**Toivotusteveisiin (⟪इच्छाप्रकृति⟫) ("haluta tehdä jotakin"; "olla tekemässä jotakin") liitetään toimijan substantiivien muodostamiseksi -u-liite.** <!-- TODO: Fallback translation -->
+**Toivotusteveisiin (⟪इच्छाप्रकृति⟫) ("haluta tehdä jotakin"; "olla tekemässä jotakin") liitetään toimijan substantiivien muodostamiseksi -u-liite.**
 
-(Desideratiivijänteiden muodostaminen seuraa myöhemmin) <!-- TODO: Fallback translation -->
+(Desideratiivijänteiden muodostaminen seuraa myöhemmin)
 
 Esimerkki:
 
@@ -36,14 +37,14 @@ Kuv.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5402))
 :::
-## 54.3. Metriikka II: eepillinen ⟪त्रिष्टुभ्⟫ ja ⟪जगती⟫ <!-- TODO: Fallback translation -->
+## 54.3. Metriikka II: eepillinen ⟪त्रिष्टुभ्⟫ ja ⟪जगती⟫
 
 ::: grammar-box
 ⟪त्रिष्टुभ्⟫ ("kolmen huudahduksen mitta") esiintyy eepoksissa tavallisten ⟪श्लोक⟫-osien keskellä juuri niissä kohdissa, joissa tunnelma tai toiminta kokevat erityisen nousun tai päättymisen.
 
-⟪त्रिष्टुभ्⟫-runo koostuu neljästä yhdeksän tavusta sisältävästä ⟪पाद⟫-runosäkeestä, jotka eivät eroa rakenteeltaan toisistaan. <!-- TODO: Fallback translation -->
+⟪त्रिष्टुभ्⟫-runo koostuu neljästä yhdeksän tavusta sisältävästä ⟪पाद⟫-runosäkeestä, jotka eivät eroa rakenteeltaan toisistaan.
 
-⟪त्रिष्टुभ्⟫:llä on kaksi peruskaavaa riippuen siitä, sijoittuuko katkos (sanaraja, yhdistelmärako tai ennen tiettyjä päätteitä kuten -tara, -tama jne.) ⟪पाद⟫:n 4. vai 5. tavun jälkeen. <!-- TODO: Fallback translation -->
+⟪त्रिष्टुभ्⟫:llä on kaksi peruskaavaa riippuen siitä, sijoittuuko katkos (sanaraja, yhdistelmärako tai ennen tiettyjä päätteitä kuten -tara, -tama jne.) ⟪पाद⟫:n 4. vai 5. tavun jälkeen.
 
 Kaava I:
 
@@ -56,9 +57,9 @@ Kaava II:
 ::: metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
-Neljän viimeisen tavun kvantiteetti on siis sama molemmissa malleissa. <!-- TODO: Fallback translation -->
+Neljän viimeisen tavun kvantiteetti on siis sama molemmissa malleissa.
 
-⟪जगती⟫-päämuoto: kuten ⟪त्रिष्टुभ्⟫, mutta 12-tavuinen. Jokaisen padan viimeiset viisi tavua nousevat seuraaviin kvantiteetteihin: <!-- TODO: Fallback translation -->
+⟪जगती⟫-päämuoto: kuten ⟪त्रिष्टुभ्⟫, mutta 12-tavuinen. Jokaisen padan viimeiset viisi tavua nousevat seuraaviin kvantiteetteihin:
 
 ::: metrik-schema
 **— ◡ — ◡ —**
@@ -68,7 +69,7 @@ Sen lisäksi on olemassa ns. tyypillisesti ylimääräinen ⟪त्रिष्
 ::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
-Myöhemmin ⟪त्रिष्टुभ्⟫-muodot vakiintuvat tiukan pituuksien ja lyhyiden välien kaavan mukaan; katkapaikka ei enää ole merkittävä. Tärkeimmät myöhemmät muodot ovat: <!-- TODO: Fallback translation -->
+Myöhemmin ⟪त्रिष्टुभ्⟫-muodot vakiintuvat tiukan pituuksien ja lyhyiden välien kaavan mukaan; katkapaikka ei enää ole merkittävä. Tärkeimmät myöhemmät muodot ovat:
 
 a) ⟪इन्द्रवज्रा⟫
 
@@ -107,21 +108,21 @@ c) ⟪उपजाति⟫
 ::: indent
 "Kun kaksi pādasiin, jotka ovat ominaispiirteiltään Indravajrā tai Upendravajrā, osallistuvat runoon, ne ovat upajāti. Myös kun muita metrejä sekoitetaan yhteen runoon, sitä kutsutaan upajātiiksi."
 :::
-## 54.4. Harjoitus metriikasta <!-- TODO: Fallback translation -->
+## 54.4. Harjoitus metriikasta
 
-Määritä Bhagavadgītā II:n triṣṭubh- ja jagatī-säkeet. <!-- TODO: Fallback translation -->
+Määritä Bhagavadgītā II:n triṣṭubh- ja jagatī-säkeet.
 
 Esimerkki recitaatiosta: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Viitattu 28.1.2009
 
 ## 54.5. Aoristin muodostustyypit (⟪लुङ्⟫)
 
 ::: grammar-box
-**Kaikille aoristin muodostustyypeille (⟪लुङ्⟫) on yhteistä augmenti a-, joka lisätään samoin säännöin kuin imperfektissa (⟪लङ्⟫).** <!-- TODO: Fallback translation -->
+**Kaikille aoristin muodostustyypeille (⟪लुङ्⟫) on yhteistä augmenti a-, joka lisätään samoin säännöin kuin imperfektissa (⟪लङ्⟫).**
 
 Aoristista sanskritissa käytetään vain indikatiivia ja prekatiivia.
 :::
 ::: grammar-box
-**Aoristin seuraavat muodostustyypit (⟪लुङ्⟫):** <!-- TODO: Fallback translation -->
+**Aoristin seuraavat muodostustyypit (⟪लुङ्⟫):**
 
 1.  Asibanttiset (asigmaattiset) aoristit:
     *   54.1. Juuri-aoristi: Augmentti + juuri + sekundääripäätteet
@@ -131,71 +132,71 @@ Aoristista sanskritissa käytetään vain indikatiivia ja prekatiivia.
     *   54.4. -s-aoristi: Augmentti + juuri + **s** \+ sekundääripäätteet
     *   54.5. -iṣ-aoristi: Augmentti + juuri + **i** + **ṣ** + sekundääripäätteet
     *   54.6. -siṣ-aoristi: Augmentti + juuri + **siṣ** + sekundääripäätteet
-    *   54.7. -sa-aoristi: Augmentti + juuri + **s** + **a** + sekundääripäätteet <!-- TODO: Fallback translation -->
+    *   54.7. -sa-aoristi: Augmentti + juuri + **s** + **a** + sekundääripäätteet
 
-Varsien jakautuminen eri muodostustyypeihin ks. kunkin tyypin kohdalta
+Juurten jakautuminen yksittäisiin muodostustyyppeihin ks. kunkin tyypin kohdalta
 :::
-## 54.6. Varsaoristi
+## 54.6. Juurtaoristi
 
 ::: grammar-box
 **Muodostus:**
 
-**Augment + Root + Sekundärendung**
+**Augment + juuri + sekundääripäätteet**
 :::
-Die Pääte der 3. monikko ist -ur. Ātmanepada ist nicht gebräuchlich. <!-- TODO: Fallback translation -->
+3.pl.p. päätteenä on -ur. Ātmanepada ei ole yleinen.
 
 Esimerkki:
 
-⟪पा⟫ 1. Person yksikkö "trinken"
+⟪पा⟫ 1P "juoda"
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (taso!) |
 :::
-Nur von 12 Juurin wird der Juuri-Aorist gebildet:
+Vain 12 juuresta muodostetaan juurtaoristia:
 
 1.  ⟪गा⟫ 3 "mennä"
-2.  ⟪घ्रा⟫ 1P "haistaa"
+2.  ⟪घ्रा⟫ 1P "haista"
 3.  ⟪छो⟫ 6 "leikata" (⟪अच्छात्⟫)
 4.  ⟪दा⟫ 3U "antaa"
-5.  ⟪दो⟫ 1, 4 "leikata"
+5.  ⟪दो⟫   1, 4 "leikata"
 6.  ⟪धा⟫ 3U "asettaa"
 7.  ⟪धे⟫ 1 "imeä" (⟪अधात्⟫)
 8.  ⟪पा⟫ 1P "juoda"
 9.  ⟪शो⟫ 4P "terävöittää"
-10.  ⟪सो⟫ "päättää"
-11.  ⟪स्था⟫ 1P "seistä"
-12.  ⟪भू⟫ 1P "olla" <!-- TODO: Fallback translation -->
+10. ⟪सो⟫ "päättää"
+11. ⟪स्था⟫ 1P "seistä"
+12. ⟪भू⟫ 1P "olla"
 
-⟪भू⟫ 1P:n juuressa vartalotempus muodostetaan seuraavasti:
+Juureen ⟪भू⟫ 1P liittyvä juurtaoristi muodostetaan seuraavasti:
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) |
+| 1. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
+| 2. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
+| 3. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) |
 :::
-### 54.6.1. Passiivin preteritin 3.pv.muoto
+### 54.6.1. Passiivin 3.sg.aoristi
 
-Vartalotempuksen erikoismuoto on passiivin preterinin 3.pv.muoto. Se voidaan muodostaa kaikista juurista.
+Juurtaoristin erityismuoto on passiivin 3.sg.aoristi. Se voidaan muodostaa kaikista juurista.
 
 ::: grammar-box
 **Muodostus:**
 
-**Lisä + vartalo + i**
+**Augment + juuri + i**
 
-**Vartalolla on seuraava muoto:**
+**Juurten muoto on seuraava:**
 
-Korkeatasoinen:
+Korkea aste:
 
-*   Juurin, joissa on lyhyt vokaali (paitsi a) yksinkertaisen konsonantin edellä, sekä ⟪जन्⟫ ja useimmat juurin muodossa -am
+*   Lyhyen vokaalin (paitsi a) omaavat juuret yksinkertaisen konsonantin edellä sekä ⟪जन्⟫ ja useimmat juuret, jotka päättyvät -am  
 Esimerkit:  
 ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "hän halkeili"  
-⟪तुद्⟫ 6U: ⟪अतोदि⟫ "hän työntyi" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ "hän sai potkun"
 
 Pituusaste:
 
@@ -215,7 +216,7 @@ mutta:
 Esimerkki:  
 ⟪गम्⟫ ⟪अगामि⟫
 
-Pääkkeen eteen lisätään y: <!-- TODO: Fallback translation -->
+Pääkkeen eteen lisätään y:
 
 *   Juurten -ā, -e, -ai ja -o kohdalle lisätään y:n ja juuren välillä -ā pääkkeen edelle:
 Esimerkki:  
@@ -231,7 +232,7 @@ Esimerkiksi:
 :::
 ## 54.7. Harjoitus
 
-Käännä kirjallisesti seuraavat muodot ja muodosta niihin vastaavat aoristimuodot: <!-- TODO: Fallback translation -->
+Käännä kirjallisesti seuraavat muodot ja muodosta niihin vastaavat aoristimuodot:
 
 1.  ⟪यन्ति⟫
 2.  ⟪पिबामि⟫
@@ -262,14 +263,7 @@ Käännä kirjallisesti seuraavat muodot ja muodosta niihin vastaavat aoristimuo
 Kuv.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5401))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Kuv lähde: Raji Srinivas / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5401:** Tamil Nadu [Kuv lähde: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Pääsy 2009-01-28. -- [Creative Commons -lupa](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nimittäminen, ei kaupallista käyttöä, shre alike)] <!-- TODO: Fallback translation -->
 
 :::
 

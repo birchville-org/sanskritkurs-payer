@@ -9,14 +9,6 @@ status: stable
 
 # Mësimi 10
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Den Passivsatz (Instrumentalis des Agens)
-- Die Deklination des Instrumentalis (tṛtīyā)
-- Das Cerebralisationsgesetz für -n- (Wortsandhi)
-- Die Bildung des Passivs (yak) im Indikativ Präsens
-- Vokabular zu Opfer, Wahrheit und gesellschaftlichen Rollen
-:::
 ## 10.1. Der Passivsatz
 
 ::: grammar-box
@@ -103,9 +95,6 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-Ausser im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepronomens und der Demonstrativpronomina mit den Formen des entsprechenden Maskulinums identisch.
-:::
 
 ### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
 

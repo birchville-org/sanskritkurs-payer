@@ -30,7 +30,7 @@ status: stable
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | | <!-- TODO: Fallback translation -->
+| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
 ⟪रुध्⟫ 7U "stopping, bringing to a standstill"
@@ -214,15 +214,3 @@ Rāhula, der Sohn Buddhas, Laos.
 
 ⟪५⟫. ⟪भञ्ज्⟫ (μόνον ἐν τῷ Π)
 
-::: deleteme-box
-
-**lekt3101:** Παράστασις γιόγκα. [πηγὴ εἰκόνος: Flickr, 2008-12-25. CC BY]
-
-**lekt3102:** Προετοιμασία χοροῦ καθακάλι, Κοτσί. [πηγὴ εἰκόνος: winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**lekt3103:** Ἐκ χειρογράφου Πrajñāpāramitā. [πηγὴ εἰκόνος: zeno.org. Δημόσιον]
-
-**lekt3105:** Ἄρματα μάχης 18ου Ιππικού (Ινδικὸς Στρατός) ἐν κινήσει κατὰ τὸν πόλεμον Ἰνδίας-Πακιστανῶν 1965. [πηγὴ εἰκόνος: Hari Singh Deora / Wikipedia. Δημόσιον]
-
-**Ἐκμάθησις 3104:** Ῥάχουλα, τοῦ Βούδδα υἱός, Λαοτία. [Πηγὴ εἰκόνος: Sacca / Wikipedia. Ἀδελφότης GNU FDL]
-:::

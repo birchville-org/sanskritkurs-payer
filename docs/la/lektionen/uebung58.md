@@ -94,5 +94,5 @@ Pune - ⟪पुणे⟫
 ![](/images/uebung096.webp)
 Fig.: ⟪श्वा⟫ ⟪श्वानमघ्रात्⟫
 (Imago fontis: [Detalia](/licenses#uebung096))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

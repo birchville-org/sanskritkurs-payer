@@ -7,15 +7,8 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# 9. lecke <!-- TODO: Fallback translation -->
+# 9. lecke
 
-::: deleteme-box
-**Ebben a leckében megtanulja:**
-- A Samāhāradvandva ("összefoglaló dvandva")
-- A névi alapok képzése a **-ka** (taddhita) és **-aka** (kṛt) utótagokkal
-- Szókincs a foglalkozások és társadalmi szerepek témaköréből
-- Idézetek klasszikus törvényes szövegekből (Dharmaśāstras)
-:::
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "összefoglaló dvandva")
 
@@ -24,7 +17,7 @@ last_reconstructed: 2026-05-07
 
 pl. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ nem egyszerűen "étel (āhāra m.), alvás (nidrā f.), párosodás (maithuna n.) és félelem (bhaya n.)"-t jelent, hanem ez a négy mint **egység**, amely jellemzi az állati életet.
 :::
-Ezen alapvető szabályon kívül a Samāhāradvandvas képzésére még számos további szabály létezik, amelyek Pāṇini 2,4,2-17-ben vagy pl. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. alatt találhatók. A nyelvi fejlődés különböző szakaszaiban nem mindig tartották be ugyanazokat a szabályokat! <!-- TODO: Fallback translation -->
+Ezen alapvető szabályon kívül a Samāhāradvandvas képzésére még számos további szabály létezik, amelyek Pāṇini 2,4,2-17-ben vagy pl. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. alatt találhatók. A nyelvi fejlődés különböző szakaszaiban nem mindig tartották be ugyanazokat a szabályokat!
 
 ## 9.2. A némi alapok képzéséről
 
@@ -40,17 +33,17 @@ Ezen alapvető szabályon kívül a Samāhāradvandvas képzésére még számos
 **aśva m. "ló" » aśvaka m. ⟪अश्वक⟫ "kiskocsi, lószerű tárgy"**
 
 3\. **Főneveket, amelyek jelentése nem különbözik az alapfőnévtől:**
-**putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫** <!-- TODO: Fallback translation -->
+**putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
 
 4\. **A „az alapszó fogalmával kapcsolatban álló” jelentést kifejező főnevek:**
 **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "benaresi származású, Benarestől eredő"**
 **rūpa n. "forma" » rūpaka 3 ⟪रूपक⟫ "valaminek a formáját birtokoló"**
 :::
 
-### 9.2.2. -aka (kṛt), nőnem gyakran -ikā <!-- TODO: Fallback translation -->
+### 9.2.2. -aka (kṛt), nőnem gyakran -ikā
 
 ::: grammar-box
-**A kṛt -aka képző, a nőnem gyakran -ikā, cselekvőt kifejező főneveket (a végzést kifejező főneveket) képez minden gyökből.** <!-- TODO: Fallback translation -->
+**A kṛt -aka képző, a nőnem gyakran -ikā, cselekvőt kifejező főneveket (a végzést kifejező főneveket) képez minden gyökből.**
 
 A gyök végén álló magánhangzó, valamint a gyök előutolsó helyén álló **-a-** kiejtésfokozattal (**vṛddhi**) helyettesíthető (kivételek vannak), a többi magánhangzó pedig magas fokozattal (**guṇa**) helyettesíthető.
 :::
@@ -63,7 +56,7 @@ A gyök végén álló magánhangzó, valamint a gyök előutolsó helyén áll�
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Vezető, úr, férj,:brszerető / szeretett hölgy" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Áldozó, áldozópap" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Táncos / táncoslány" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "győztes" | <!-- TODO: Fallback translation -->
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "győztes" |
 
 ::: grammar-box
 **Egyes képzések szűkebb jelentéssel bírnak: "a gyökér által kifejezett cselekvést szokásszerűen, kötelességként vagy kiválóan végző"**.
@@ -78,11 +71,11 @@ lásd fent pl. **śrāvaka**, **yājaka**, **jayaka**
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "kínzó" |
 | **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "evő, falatozó" |
 
-Emellett még néhány kevésbé fontos használata van az **-aka** képzőnek. Ld. Wackernagel, Altindische Grammatik, II, §45ff. <!-- TODO: Fallback translation -->
+Emellett még néhány kevésbé fontos használata van az **-aka** képzőnek. Ld. Wackernagel, Altindische Grammatik, II, §45ff.
 
 ## 9.3. Szószedet
 
-**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
 - **adhyayana** n. (⟪अध्ययन⟫) : Tanulás, különösen a Védák tanulmányozása
 
@@ -149,7 +142,7 @@ Kép: **kāru** = ⟪कारु⟫, Gujarat.
 1. A kétszer születettek minden feladata:
    **ijyādhyayanadānāni**
 ⟪इज्याध्ययनदानानि⟫
-(Yājñavalkyadharmaśāstra I, 118) <!-- TODO: Fallback translation -->
+(Yājñavalkyadharmaśāstra I, 118)
 
 2. A bráhmana specifikus feladatai:
    **pravacanayājanapratigrahāḥ**
@@ -159,7 +152,7 @@ Kép: **kāru** = ⟪कारु⟫, Gujarat.
 3. A Kṣatriya specifikus feladatai:
    **rakṣaṇaṃ sarvabhūtānām**
 ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(sarvabhūtānām = Genitiv: "minden lényeké"; Gautamadharmasūtra X, 7) <!-- TODO: Fallback translation -->
+(sarvabhūtānām = Genitiv: "minden lényeké"; Gautamadharmasūtra X, 7)
 
 4. A Vaiśya specifikus feladatai:
    **kṛṣivāṇijyapāśupālyakusīdam**
@@ -170,9 +163,8 @@ Kép: **kāru** = ⟪कारु⟫, Gujarat.
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
 ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
 (a Kauṭilīya-Arthaśāstra 1.3.8. szerint)
-Magyarázat: dvijātīnām = Genitiv, többes szám a dvijāti szóból (fordítsa itt: "a kétszer születettekkel szemben"); kārukuśīlavakarma egy Tatpuruṣa, amelynek előtagja egy Dvandva (kārukuśīlava). karma = karman n. "cselekedet, tevékenység, Karma" főnévi igenév (tő: kṛ 8 U). Fordítsa "cselekedet / tevékenység ...-é (Genitivus)" (a Dvandva által jelölt személyeké). <!-- TODO: Fallback translation -->
+Magyarázat: dvijātīnām = Genitiv, többes szám a dvijāti szóból (fordítsa itt: "a kétszer születettekkel szemben"); kārukuśīlavakarma egy Tatpuruṣa, amelynek előtagja egy Dvandva (kārukuśīlava). karma = karman n. "cselekedet, tevékenység, Karma" főnévi igenév (tő: kṛ 8 U). Fordítsa "cselekedet / tevékenység ...-é (Genitivus)" (a Dvandva által jelölt személyeké).
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
 ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
 (a Kauṭilīya-Arthaśāstra 1.4.1. szerint)
- <!-- TODO: Fallback translation -->

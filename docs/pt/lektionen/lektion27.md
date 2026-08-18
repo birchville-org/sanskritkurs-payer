@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 27
 
@@ -32,7 +32,7 @@ status: stable
 Fig.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Fonte da imagem: [Detalhes](/licenses#lekt2701))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -63,7 +63,7 @@ Jaipur, 1875.
 Fig.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rajasthan.
 (Fonte da imagem: [Detalhes](/licenses#lekt2702))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -78,7 +78,7 @@ Rajasthan.
 Fig.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
 (Fonte da imagem: [Detalhes](/licenses#lekt2703))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -320,7 +320,7 @@ Fig.: ⟪नराः⟫
 Naran. Udaipur.
 (Fonte da imagem: [Detalhes](/licenses#lekt2711))
 :::
-### 27.7.2. Neutros em -a: ⟪फल⟫ <!-- TODO: Fallback translation -->
+### 27.7.2. Neutros em -a: ⟪फल⟫
 
 ::: grammar-box
 
@@ -341,7 +341,7 @@ Fig.: ⟪फलानि⟫
 Frutas. Bangalore.
 (Fonte da imagem: [Detalhes](/licenses#lekt2710))
 :::
-### 27.7.3. Femininos em -ā: ⟪क्षत्रिया⟫ <!-- TODO: Fallback translation -->
+### 27.7.3. Femininos em -ā: ⟪क्षत्रिया⟫
 
 ::: grammar-box
 
@@ -482,7 +482,7 @@ Fig.: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
 (Fonte da imagem: [Detalhes](/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫ <!-- TODO: Fallback translation -->
+### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
 
@@ -590,29 +590,7 @@ Sai Baba of Shirdi (1835 - 1918).
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Fonte da imagem: [Detalhes](/licenses#lekt2717))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt2701:** Jaipur, 1875. [Fonte da imagem: Wikipedia. Domínio público]
-**lekt2702:** Rajasthan. [Fonte da imagem: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** Holi. [Fonte da imagem: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Harihara (esquerda: Viṣṇu, direita: Śiva). [Fonte da imagem: Wikipedia. Domínio público]
-**lekt2705:** Harihara (esquerda: Viṣṇu, direita: Śiva). Godrumdwip, Bengala Ocidental. [Fonte da imagem: GourangaUK / Wikipedia. GNU FDLicense]
-**lekt2706:** Vastrāṇi. Majuli, Assam. [Fonte da imagem: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Fonte da imagem: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Rāma Setu. [Fonte da imagem: Wikipedia. Domínio público]
-**lekt2709:** Pintura de Rāja Ravi Varmā (1848 - 1906). [Fonte da imagem: Wikipedia. Domínio público]
-**lekt2710:** Frutas. Bangalore. [Fonte da imagem: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Naran. Udaipur. [Fonte da imagem: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Enforcamento de dois participantes da Rebelião de 1857. Fotografia de Felice Beato (1833/1834 - c. 1907). [Fonte da imagem: Wikipedia. Domínio público]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Fonte da imagem: Wikipedia, GNU FDLicense]
-**lekt2714:** Vaca em Udaipur. [Fonte da imagem: Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Fonte da imagem: Wikipedia. Domínio público]
-**lekt2716:** Sai Baba de Shirdi (1835 - 1918). [Fonte da imagem: Wikipedia. Domínio público]
-**lekt2717:** Tsunami 2005, Sri Lanka. [Fonte da imagem: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) com seu neto, o Príncipe Jaya Chamaraja Wadiyar, Mysore. [Fonte da imagem: Wikipedia. Domínio público]
 
 :::
 

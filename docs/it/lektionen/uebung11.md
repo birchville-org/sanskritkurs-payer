@@ -1,8 +1,9 @@
 ---
-title: "Esercizio 11"
+title: "[Esercizio 11]"
 uebung_id: 11
-category: "Esercizio"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -20,10 +21,10 @@ Un brāhmaṇa desidera un figlio.
 Un santo sale al cielo.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. &lt;!-- TODO: Fallback translation --&gt;
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht. &lt;!--  --&gt;
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma. &lt;!-- TODO: Fallback translation --&gt;
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma. &lt;!--  --&gt;
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 Così il brāhmaṇa offre un sacrificio al dio.

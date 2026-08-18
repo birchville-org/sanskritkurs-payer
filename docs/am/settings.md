@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: ቅንብሮች
+title: "ቅንብሮች"
+
 ---
 
 <ClientOnly>

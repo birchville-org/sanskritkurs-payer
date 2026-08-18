@@ -276,11 +276,3 @@ c) ⟪उपजाति⟫
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt5401))
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ ਤਿਰੁਪਤੀ = తిరుపతి [ਚਿੱਤਰ ਸਰੋਤ: ਰਾਜੀ ਸ਼੍ਰੀਨਿਵਾਸ / ਵਿਕੀਪੀਡੀਆ. GNU FDLicense]
-
-**lekt5401:** ਤਾਮਿਲ ਨਾਡੂ [ਚਿੱਤਰ ਸਰੋਤ: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- ਪ੍ਰਾਪਤੀ ਦਿਨ 2009-01-28. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਐਟਰੀਬਿਊਸ਼ਨ, ਗੈਰ-ਵਪਾਰਕ, ਸ਼ੇਅਰ ਅਲਾਈਕ)]
-
-:::
-

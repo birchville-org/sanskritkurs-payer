@@ -9,14 +9,6 @@ status: stable
 
 # Leçon 3
 
-::: deleteme-box
-**Dans cette leçon, vous apprendrez :**
-- le nominatif singulier du féminin
-- le nominatif pluriel du masculin et du féminin
-- la formation du féminin à partir des masculins
-- le sandhi vocalique
-- Satzsandhi von -ās
-:::
 ## 3.1. Nominatif singulier du féminin
 
 ### 3.1.1. Nominatif singulier en -s
@@ -65,7 +57,7 @@ La terminaison du nominatif pluriel au masculin et au féminin est **-as**.
 :::
 Remarque : **e** est le degré renforcé (**guṇa**) de **i**, **o** est le degré renforcé de **u**.
 
-## 3.4. Vokalsandhi <!-- TODO: Fallback translation -->
+## 3.4. Vokalsandhi
 
 ::: grammar-box
 **Les voyelles simples qui ne diffèrent pas ou seulement par leur longueur « fusionnent » en la voyelle longue correspondante :**
@@ -76,7 +68,7 @@ Remarque : **e** est le degré renforcé (**guṇa**) de **i**, **o** est le deg
 :::
 p. ex.
 
-devatā + annapūrṇā » devatānnapūrṇā « Annapūrṇā est une divinité » = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
+devatā + annapūrṇā » devatānnapūrṇā « Annapūrṇā est une divinité » = ⟪देवतान्नपूर्णा⟫
 
 > (Annapūrṇā est la déesse des aliments et de la cuisine ; elle est considérée comme une incarnation de Pārvatī, l’épouse de Śiva.)
 
@@ -122,12 +114,12 @@ p. ex.
 
 śūdrā + itarā » śudretarā « Itarā est une femme śūdra » = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās <!-- TODO: Fallback translation -->
+## 3.5. Satzsandhi von -ās
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-par exemple <!-- TODO: Fallback translation -->
+par exemple
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ « Les Vaiśyas sont des deux fois nés » = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -162,7 +154,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ « Les Vaiśyas sont des deux fois n
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmane femme.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : Kṣatriya femme. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : Kṣatriya femme.
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : épouse d'un Kṣatriya.
 

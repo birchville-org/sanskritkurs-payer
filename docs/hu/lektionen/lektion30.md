@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# 30. lecke <!-- TODO: Fallback translation -->
+# 30. lecke
 
-## 30.1. A 9. jelen időosztály (⟪क्र्यादि⟫ = "⟪क्री⟫ stb.") <!-- TODO: Fallback translation -->
+## 30.1. A 9. jelen időosztály (⟪क्र्यादि⟫ = "⟪क्री⟫ stb.")
 
 ::: grammar-box
 **Alakítás:**
@@ -35,7 +35,7 @@ Példa:
 | **3. Person:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
-Ezen jelen időosztály esetén különösen figyelembe veendő a ज्ञा 9U "ismerni, tudni" gyökérhez tartozó jelen időstám képzése: <!-- TODO: Fallback translation -->
+Ezen jelen időosztály esetén különösen figyelembe veendő a ज्ञा 9U "ismerni, tudni" gyökérhez tartozó jelen időstám képzése:
 
 ::: grammar-box
 
@@ -88,7 +88,7 @@ Példa:
 ⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = „A szolga jöjjön a faluba”
 :::
 ::: grammar-box
-**2. Ha valamit mint** <!-- TODO: Fallback translation -->
+**2. Ha valamit mint**
 
 *   **lehetőnek**
 *   **valószínűnek**
@@ -109,7 +109,7 @@ Példa:
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Ha valaki hazugságot mondana, a pokolba esne = Ha valaki hazudik, a pokolba esik"
 :::
-## 30.3. A harmadik személy egyes és többes számának másodlagos végződései <!-- TODO: Fallback translation -->
+## 30.3. A harmadik személy egyes és többes számának másodlagos végződései
 
 Az optatív (⟪लिङ्⟫), az imperfectum (⟪लङ्⟫), az aorisztus (⟪लुङ्⟫), a prekativum (⟪आशिर्लिङ्⟫) és a kondicionális birtokában vannak az úgynevezett másodlagos végződések:
 
@@ -118,7 +118,7 @@ Az optatív (⟪लिङ्⟫), az imperfectum (⟪लङ्⟫), az aorisztus
 | | 3. Person egyes szám | 3. Person többes szám |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-t** | athematische Klassen: **-an** oder **-ur** :brKívánó mód (optativus): **-ur** |
-| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brKívánó mód (optativus): **-ran** | <!-- TODO: Fallback translation -->
+| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brKívánó mód (optativus): **-ran** |
 
 :::
 ## 30.4. Az optativus jelen idő képzése (⟪लिङ्⟫)
@@ -128,13 +128,13 @@ Az optatív (⟪लिङ्⟫), az imperfectum (⟪लङ्⟫), az aorisztus
 ::: grammar-box
 **mássalhangzóval kezdődő végződéseknél:**
 
-**Jelen idő alap + -i- (az -a-val egyesülve -e-) + másodlagos végződések** <!-- TODO: Fallback translation -->
+**Jelen idő alap + -i- (az -a-val egyesülve -e-) + másodlagos végződések**
 
 **magánhangzóval kezdődő végződéseknél:**
 
 **Jelen idő alap + -i- (» -e-) + -y- + másodlagos végződés**
 :::
-Példák: <!-- TODO: Fallback translation -->
+Példák:
 
 1\. jelen idő osztály:
 
@@ -185,7 +185,7 @@ jelen időosztály és kausatívumok
 ::: grammar-box
 **Parasmaipada:**
 
-**gyenge jelenlegi törzs + -yā- (-ur előtt: -y-) + másodlagos végződés** <!-- TODO: Fallback translation -->
+**gyenge jelenlegi törzs + -yā- (-ur előtt: -y-) + másodlagos végződés**
 
 **Ātmanepada:**
 
@@ -252,7 +252,7 @@ jelen időosztály
 
 **-r hangzó mássalhangzók előtt -ar marad, de r- előtt az -r kiesik és az -a helyett -ā áll.**
 :::
-Példák: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
@@ -294,7 +294,7 @@ Inf. ⟪ज्ञातुम्⟫
 
 ebből:
 
-⟪ज्ञाति⟫ m.: (vér)rokonság (a rokonok azok, akiket ismerünk!) <!-- TODO: Fallback translation -->
+⟪ज्ञाति⟫ m.: (vér)rokonság (a rokonok azok, akiket ismerünk!)
 
 ⟪ज्ञान⟫ n.: tudat, tudás, megismerés (különösen a „magasabb” igazságoké vallásban és filozófiában)
 :::
@@ -383,7 +383,7 @@ abból:
 
 ## 30.7. Gyakorlat
 
-A) Alakítsa át a következő igemódokat az személy, szám és nem szerint megfelelő optativus alakokra: <!-- TODO: Fallback translation -->
+A) Alakítsa át a következő igemódokat az személy, szám és nem szerint megfelelő optativus alakokra:
 
 1.  ⟪ह्रियते⟫
 2.  ⟪ध्नन्ति⟫
@@ -451,7 +451,7 @@ A) Alakítsa át a következő igemódokat az személy, szám és nem szerint me
 64.  ⟪अदन्ति⟫
 65.  ⟪अध्यापयन्ति⟫
 
-B) Fordítsa le a következő mondatokat, és oldja fel a szanszkrit összetételeket: <!-- TODO: Fallback translation -->
+B) Fordítsa le a következő mondatokat, és oldja fel a szanszkrit összetételeket:
 
 ⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫
 
@@ -517,12 +517,3 @@ Határozza meg és fordítsa le a következő szóalakokat:
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Képmeghatározás: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Hozzáférés: 2008-12-21. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás, származékos művek tilalma)]
-**lekt3002:** Darewadi, Ahmed Nagar kerület = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Képmeghatározás: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Hozzáférés: 2008-12-21. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás, share alike)]
-**lekt3003:** [Képmeghatározás: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Hozzáférés: 2008-12-21. -- Creative Commons licenc (nevesítés, share alike)]
-**lekt3005:** ⟪थाली⟫, Dél-India [Képmeghatározás: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Hozzáférés: 2008-12-21. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás, share alike)]
-**lekt3004:** [Képmeghatározás: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Hozzáférés: 2008-12-21. -- Creative Commons licenc (nevesítés, share alike)]
-**lekt2904:** [Képmeghatározás: Wikipedia / Szerzői jog a Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

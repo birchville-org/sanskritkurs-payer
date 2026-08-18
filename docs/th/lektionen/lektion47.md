@@ -63,9 +63,9 @@ status: stable
 ::: grammar-box
 คำสั่งสร้างจาก Präsensstamm
 :::
-## 47.2. การสร้างคำสั่ง (⟪लोट्⟫) Präsensstamm แบบ thematischer <!-- TODO: Fallback translation -->
+## 47.2. การสร้างคำสั่ง (⟪लोट्⟫) Präsensstamm แบบ thematischer
 
-### 47.2.1. Endings ของคำสั่งใน Präsensstamm แบบ thematischer <!-- TODO: Fallback translation -->
+### 47.2.1. Endings ของคำสั่งใน Präsensstamm แบบ thematischer
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -253,14 +253,3 @@ B) จงแปลข้อความต่อไปนี้เป็นภ�
 
 34\. จงเป็นมงคล (จงเกิดขึ้น)! (คำอวยพร)
 
-::: deleteme-box
-
-**lekt4702:** วัดฮานุมาน, นิวเดลี = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [แหล่งที่มาของภาพ: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- เข้าถึงเมื่อ 2009-01-09. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (ระบุชื่อผู้สร้าง, ห้ามดัดแปลง)]
-
-**lekt4701:** [แหล่งที่มาของภาพ: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- เข้าถึงเมื่อ 2009-01-09. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ระบุชื่อผู้สร้าง, ห้ามใช้เพื่อการค้า, แบ่งปันแบบเดียวกัน)]
-
-**lekt4703:** [แหล่งที่มาของภาพ: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- เข้าถึงเมื่อ 2009-01-10. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by/2.0/deed.de) (ระบุชื่อผู้สร้าง)]
-
-**lekt4704:** [แหล่งที่มาของภาพ: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- เข้าถึงเมื่อ 2009-01-10. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ระบุชื่อผู้สร้าง, ห้ามใช้เพื่อการค้า, ห้ามดัดแปลง)]
-
-:::

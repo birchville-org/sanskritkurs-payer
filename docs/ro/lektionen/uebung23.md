@@ -1,8 +1,9 @@
 ---
 title: "Exercițiul 23"
 uebung_id: 23
-category: "Exercițiu"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -58,40 +59,36 @@ B) Următoarele rădăcini formează infinitivul cu vocala de legătură -i-. Fo
 6.  ⟪वृत्⟫ — **⟪वर्तितुम्⟫**
 7.  ⟪कुप्⟫ — **⟪कोपितुम्⟫**
 
-C) Următoarele rădăcini, opțional, cu sau fără vocala de legătură:
-
-1.  ⟪अश्⟫ — **⟪अशितुम्⟫** / **⟪अष्टुम्⟫**
-2.  ⟪इष्⟫ — **⟪एष्टुम्⟫** / **⟪एषितुम्⟫**
-3.  ⟪बुध्⟫ — **⟪बोधितुम्⟫** / **⟪बोद्धुम्⟫**
-4.  ⟪मुह्⟫ — **⟪मोहितुम्⟫** / **⟪मग्धुम्⟫** / **⟪मोढुम्⟫**
-5.  ⟪सह्⟫ — **⟪सहितुम्⟫** / **⟪सोढुम्⟫**
-
 D) Traduceți și descompuneți compusele:
 
-⟪१⟫. **⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञ्नैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫**
-Pentru a obține un cer, oamenii doresc să onoreze zeii cu jertfe. <!-- TODO: Fallback translation -->
+⟪१⟫. **⟪नराः स्वर्गं लब्धुं देवान्यज्ञ्नैर्यष्टुमिच्छन्ति ॥१॥⟫**
+Pentru a obține un cer, oamenii doresc să onoreze zeii cu jertfe.
 
-⟪२⟫. **⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫**
-(⟪महत्पुण्यम्⟫ ⟪।⟫ ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪जनेन⟫)
-Dacă cineva a făcut multe fapte meritorii, un om, care este lipsit de rău, nu poate ajunge într-o iad.
+⟪२⟫. **⟪महापुण्यं कृत्वा गतपापजनेन नरकं गन्तुं न शक्यते ॥२॥⟫**
+(⟪महत्पुण्यम् । गतं पापं यस्य तेन जनेन⟫)
+Dacă cineva a făcut fapte meritorii, un om liber de rău nu poate ajunge în iad.
 
-⟪३⟫. **⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫**
-(⟪सञ्जनः⟫ ⟪।⟫ ⟪न⟫ ⟪धर्मम्⟫)
+⟪३⟫. **⟪फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥⟫**
+(⟪सञ्जनः । न धर्मम्⟫)
 Deoarece faptele meritorii sunt fertile, un om bun nu vrea să facă nedreptate.
 
-⟪४⟫. **⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫**
-Pentru a răscumpăra lumi, Buddha învață adevărurile noble.
+⟪४⟫. **⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥⟫**
+Pentru a răscumpăra lumi, Buddha învață adevărurile nobile.
 
-⟪५⟫. **⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सहात्⟫tu⟪ं⟫ ⟪नार्हति⟫ ⟪॥५॥⟫**
-(⟪शूद्राणां⟫ ⟪जनः⟫)
+⟪५⟫. **⟪शूद्रजनो ब्राह्मणेन सहात्⟫tu⟪ं नार्हति ॥५॥⟫**
+(⟪शूद्राणां जनः⟫)
 Śūdras nu au voie să mănânce împreună cu un brahman.
 
-⟪६⟫. **⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫**
-(⟪लोभेन⟫ ⟪सम्पन्ना⟫ ⟪नराः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्ताम्⟫)
-Plini de lăcomie, bărbații au mers pentru a vedea dansând frumoasa slujnică.
+⟪६⟫. **⟪लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥⟫**
+(⟪लोभेन सम्पन्ना नराः । सम्पन्नं रूपं यस्यास्ताम्⟫)
+Plini de lăcomie, bărbații au mers să vadă dansul frumoasei slujitoare.
 
-⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert. <!-- TODO: Fallback translation -->
+⟪७⟫. **⟪शूद्रया संगत्य ब्राह्मणो यष्टुं नार्हति ॥७॥⟫**
+Dacă un brahman a avut relații sexuale cu o śūdră, nu are voie să jertfească.
+
+⟪८⟫. **⟪धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥⟫**
+(⟪श्रोतुं कामो यस्याः सा । पुत्रेण सह । महन्नगरम्⟫)
+Deoarece voia să audă despre dharma, brahmana a mers în orașul mare cu fiul ei pentru a-l întâlni pe maestru.
 
 ⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
@@ -112,7 +109,7 @@ Mâncatul, somnul, frica și sexul sunt comune oamenilor cu animalele. Diferenț
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Sursa imaginii: [Detalii](/licenses#uebung035))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exerciții suplimentare
 
@@ -131,7 +128,7 @@ A) Traduceți în sanscrită:
 **⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫**
 
 5\. Yoga este oprirea activităților organelor de gândire.
-**⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫**
 
 6\. Dreptatea triumfă, nu nedreptatea; adevărul triumfă, nu minciuna; răbdarea triumfă, nu mânia; Dumnezeu triumfă, nu un zeu opus. (Pasiv)
 **⟪धर्मो⟫ ⟪जयति⟫ ⟪नाधर्मः⟫ ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪।⟫ ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫ ⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪॥⟫**

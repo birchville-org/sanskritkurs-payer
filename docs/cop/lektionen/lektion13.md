@@ -1,10 +1,11 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "ⲙⲁⲑⲏⲙⲁ 13"
+subtitle: "PPP ⲉϥ -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Ⲙⲉⲗⲉⲧⲏ 13
@@ -126,7 +127,7 @@ Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und sc
 
 ϯⲃ ⲛϧⲟⲡ ⲛⲓⲙⲉⲧⲃⲏ ⲛϣⲟⲡ:
 * ⲉⲥⲧⱫⲛ ϯⲃ ⲛϣⲟⲡ ⲛⲓⲙⲉⲧⲃⲏ ⲛϣⲟⲡ (dvitīyā) ϯⲙⲉϥ ⲛⲓⱫⲧⲃ ⲛⲓⲙⲉⲧⲃⲏ ⲛϣⲟⲡ -as.
-* ist bei regelmässig bildenden Stämmen das Neutrum in Nominativ (prathamā) und Akkusativ (dvitīyā) Singular endungslos. <!-- TODO: Fallback translation -->
+* ist bei regelmässig bildenden Stämmen das Neutrum in Nominativ (prathamā) und Akkusativ (dvitīyā) Singular endungslos.
 * ist bei regelmäßig bildenden Stämmen im Neutrum die Endung des Nominativ und Akkusativ Plural -i.
 
 :::
@@ -178,7 +179,7 @@ Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und sc
 ::: media
 ![](/images/lekt1301.webp)
 Abb.: ⟪महिषासुरः⟫
-(Bildquelle: [Details](/licenses#lekt1301))
+(Bildquelle: [Details](/cop/licenses#lekt1301))
 :::
 - **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : gehen, geraten in
@@ -197,7 +198,7 @@ Abb.: ⟪महिषासुरः⟫
 ::: media
 ![](/images/lekt1304.webp)
 Abb.: ⟪अन्नम्⟫
-(Bildquelle: [Details](/licenses#lekt1304))
+(Bildquelle: [Details](/cop/licenses#lekt1304))
 :::
 pad 4 Ā:
 
@@ -212,7 +213,7 @@ pad 4 Ā:
 ::: media
 ![](/images/lekt1303.webp)
 Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Bildquelle: [Details](/licenses#lekt1303))
+(Bildquelle: [Details](/cop/licenses#lekt1303))
 :::
 dviṣ 2 U:
 
@@ -231,7 +232,7 @@ dviṣ 2 U:
 ::: media
 ![](/images/lekt1305.webp)
 Abb.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
-(Bildquelle: [Details](/licenses#lekt1305))
+(Bildquelle: [Details](/cop/licenses#lekt1305))
 :::
 ⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
@@ -287,7 +288,7 @@ C) ⲑⲁⲙⲓⲟ ⲛ̀ⲟⲩⲥⲩⲥⲧⲁⲥⲓⲥ ⲛ̀PPP ⲉ̀ⲃⲟⲗ �
 ::: media
 ![](/images/lekt1302.webp)
 ⲥⲭ.: ⟪सत्यमेव⟫ ⟪जयते⟫
-(ⲧⲁⲣⲭⲏ ⲛ̀ⲧⲉ ϯϩⲓⲕⲱⲛ: [ⲛⲓⲥⲉⲡⲏ](/licenses#lekt1302))
+(ⲧⲁⲣⲭⲏ ⲛ̀ⲧⲉ ϯϩⲓⲕⲱⲛ: [ⲛⲓⲥⲉⲡⲏ](/cop/licenses#lekt1302))
 :::
 D) ⲛⲓⲙⲟⲣⲫⲏ ⲛ̀Sandhi ⲉⲧⲑⲏ ⲁⲩϣⲱⲡⲓ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲁ
 

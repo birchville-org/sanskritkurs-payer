@@ -12,7 +12,7 @@ last_reconstructed: 2026-05-15
 
 Alakítsa ki a szám, személy és nem szerint megfelelő jövő időt (Parasmaipada, Ātmanepada):
 
-A) kötőmag **-i-** nélkül: <!-- TODO: Fallback translation -->
+A) kötőmag **-i-** nélkül:
 
 ⟪१⟫. ⟪अत्ति⟫ — ⟪अत्स्यति⟫
 

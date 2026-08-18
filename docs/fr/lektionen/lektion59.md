@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Leçon 59
 
@@ -600,7 +600,7 @@ Impératif (⟪लोट्⟫)
 :::
 ## 59.4. Duel (⟪dvivacanam⟫) Aoriste (⟪luṅ⟫)
 
-### 59.4.1. Wurzelaorist <!-- TODO: Fallback translation -->
+### 59.4.1. Wurzelaorist
 
 ⟪पा⟫ 1P «boire»
 
@@ -782,12 +782,5 @@ _Aide à la traduction :_ Vers 6 : ⟪दिदृक्षते⟫ \= Désidé
 ![](/images/lekt5901.webp)
 (Source de l’image : [Détails](/fr/licenses#lekt5901))
 :::
-Texte tiré de : Otto Böhtlingk : Sanskrit-Chrestomathie, p. 127s. <!-- TODO: Fallback translation -->
+Texte tiré de : Otto Böhtlingk : Sanskrit-Chrestomathie, p. 127s.
 
-::: deleteme-box
-
-**lekt5902 :** [Source de l’image : Henryart/Wikipedia. Domaine public] <!-- TODO: Fallback translation -->
-
-**lekt5903 :** Danse Kecak, Bali (Indonésie) [Source de l’image : Flying Pharmacist / Wikipedia. [Licence Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (Attribution, partage à l’identique)]
-
-:::

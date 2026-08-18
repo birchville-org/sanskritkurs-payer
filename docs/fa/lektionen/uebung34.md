@@ -65,7 +65,7 @@ Erklärungen:
 
 ⟪सप्त⟫ sieben
 
-⟪जन्म⟫ Nom./Akk. sg. zu ⟪जन्मन्⟫ n. Geburt <!-- TODO: Fallback translation -->
+⟪जन्म⟫ Nom./Akk. sg. zu ⟪जन्मन्⟫ n. Geburt
 
 ⟪सर्व⟫ ۳ «همه، تمام» (بر اساس صرف ضمیری)
 

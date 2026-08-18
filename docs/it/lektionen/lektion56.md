@@ -308,12 +308,3 @@ A) Determinare e tradurre le seguenti forme senza ausili (!):
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** Professore di Linguistica Comparata, Università di Erlangen-Norimberga (1955 - 1983) [Fonte dell'immagine: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Accesso il 27-02-2009]
-
-**lekt5602:** Poster (Ernesto Che Guevara) di un partito politico a Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). "La traduzione approssimativa di ciò che vi è scritto è: 'Il martirio è un'esperienza affascinante per un rivoluzionario. E un ripiego spaventoso per un codardo. Che non è un modello da seguire per i vigliacchi.'" [Fonte dell'immagine: Hari\_Menon. -- [http://www.flickr.com/photos/me\_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Accesso il 27-02-2009. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, condividi allo stesso modo)]
-
-**lekt5603:** [Fonte dell'immagine: Banca Mondiale / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Accesso il 27-02-2009. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribuzione, uso non commerciale, nessuna opera derivata)]
-
-:::

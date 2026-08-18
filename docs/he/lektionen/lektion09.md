@@ -9,13 +9,6 @@ last_reconstructed: 2026-05-07
 
 # שיעור 9
 
-::: deleteme-box
-**בשיעור זה תלמדו:**
-- הֶסָּמַהָרַדְוַנְדְוַ ("צֵרוּף דְוַנְדְוַ מְקוֹרֵב")
-- יצירת שורשים שמיים עם הסופיות **-קה** (טַדְהִיתָ) ו-**אקַה** (כְּרִת')
-- אוצר מילים בנושא מקצועות ותפקידים חברתיים
-- ציטוטים מטקסטי המשפט הדַרְמִים הקלאסיים (דַהַרְמָשַׁסְטְרוֹת)
-:::
 
 ## 9.1. סמאהארהדוואנדווה (⟪סמאהארהדוואנדווה⟫ = "דוואנדווה מסכם")
 
@@ -63,7 +56,7 @@ last_reconstructed: 2026-05-07
 | **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" |
 | **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" |
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" | <!-- TODO: Fallback translation -->
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
 ::: grammar-box
 **חלק מהצורות הללו נושאות את המשמעות הצרה: "הפועל באופן שגרתי או כחובה, מתוך ביצוע ראוי".**
@@ -76,7 +69,7 @@ last_reconstructed: 2026-05-07
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" | <!-- TODO: Fallback translation -->
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" |
 
 בנוסף קיימות עוד כמה שימושים פחות חשובים של הסיומת **-aka**. ראה וקרנגל, דקדוק הודי עתיקה, כרך II, סעיף 45ff.
 

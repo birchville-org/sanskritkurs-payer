@@ -1,22 +1,15 @@
 ---
-title: Lektion 10
-subtitle: "Den Passivsatz (Instrumentalis des Agens)"
+title: "Lezione 10"
+subtitle: "La frase passiva (Instrumentale dell'agente)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lezione 10
 
-::: deleteme-box
-**In questa lezione imparate:**
-- La frase passiva (Instrumentale dell'agente)
-- La declinazione dell'Instrumentale (tṛtīyā)
-- La legge della cerebralizzazione per -n- (Sandhi delle parole)
-- La formazione del passivo (yak) nell'indicativo presente
-- Vocabolario su sacrificio, verità e ruoli sociali
-:::
 ## 10.1. La frase passiva
 
 ::: grammar-box
@@ -103,38 +96,34 @@ Le costruzioni passive sanscrite sono estremamente frequenti: il passivo è infa
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-Fuori dal Nominativooooooo e dall'Accusativo, le forme dei Neutri in -a, del pronome interrogativo e dei pronomi dimostrativi sono identiche alle forme del corrispondente Maschile.
-:::
 
 ### 10.2.1. Sull'uso dello strumentale (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
-**Lo strumentale (tṛtīyā) risponde principalmente alle domande:**
-- **Da cosa?**
-- **Con cosa?**
-- **Con chi?**
+**L’ablativo (tṛtīyā) si usa principalmente per rispondere alle domande:**
+**Da cosa?**
+**Con che cosa?**
+**Con chi?**
 
-**Esso si usa**
-1. **nelle frasi passive: l'agente (kartṛ) è allo strumentale**
-2. **per indicare il mezzo o lo strumento con cui viene compiuta un'azione**
-3. **per indicare la via, attraverso cui qualcuno raggiunge una destinazione**
-4. **per esprimere l'unione, l'associazione, la compagnia con**
-5. **con le posposizioni nel significato di "insieme con, con"; ad es. saha = ⟪सह⟫ = "con"**
-ad es.
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "insieme con il brāhmaṇa"
+**Si usa**
+1. **nelle frasi passive: l’agente (kartṛ) all’ablativo**
+2. **per indicare il mezzo o lo strumento con cui viene compiuta un’azione**
+3. **per indicare la via, attraverso cui qualcuno arriva da qualche parte**
+4. **per esprimere la connessione, l’unione, la compagnia con**
+5. **dopo le posposizioni nel significato di "insieme a, con"; ad es. saha = ⟪सह⟫ = "con"** :brad es.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "insieme al brahmano"
 :::
-Ulteriori usi dello strumentale (tṛtīyā) seguiranno più avanti.
+Altri usi dell’ablativo (tṛtīyā) seguiranno più avanti.
 
-## 10.3. La cosiddetta legge di cerebralizzazione per -n- (un Wortsandhi)
+
+## 10.3. La cosiddetta legge della cerebralizzazione per -n- (un sandhi lessicale)
 
 ::: grammar-box
-Una **-n-**, seguita da una vocale o da **n, m, y, v**, viene sostituita da **-ṇ-**, se **ṛ, ṝ, r, ṣ** precedono il **-n-** nella parola o se tra questi suoni e il **-n-** seguente nella parola non vi è altro suono che vocali, gutturali, labiali, **y, v, h** o Anusvāra.
+Un **-n-**, seguito da una vocale o da **n, m, y, v**, viene sostituito con **-ṇ-**, se **ṛ, ṝ, r, ṣ** precedono il **-n-** nella parola o se non c’è nessun altro suono diverso da vocali, gutturali, labiali, **y, v, h** o anusvāra tra questi suoni e il **-n-** seguente nella parola.
 :::
 **Perciò:**
 
 ::: grammar-box
-| | Strumentale Singolare |
+| | Ablativo Singolare |
 | :--- | :--- |
 | **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
 | **śūdra** :br⟪शूद्र⟫ | **śūdreṇa** :br⟪शूद्रेण⟫ |
@@ -142,7 +131,7 @@ Una **-n-**, seguita da una vocale o da **n, m, y, v**, viene sostituita da **-�
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
 :::
-**Così va spiegato anche il -ṇ- in:**
+**Così si spiega anche la presenza di -ṇ- in:**
 
 ::: indent
 **śravaṇa** ⟪श्रवण⟫
@@ -152,6 +141,7 @@ Una **-n-**, seguita da una vocale o da **n, m, y, v**, viene sostituita da **-�
 **kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
+:::
 :::
 
 ## 10.4. Il passivo, indicativo presente (yak = ⟪यक्⟫)
@@ -192,42 +182,40 @@ ad esempio
 * **smṛ** 1 P: **smaryate**, **smaryante**
 ⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-4. **Forma di basso livello di verbi che iniziano con ya, va, ra, o in cui questi suoni seguono un'altra consonante (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
+4. **Grado profondo dei verbi che iniziano con ya, va, ra oppure in cui questi suoni seguono un’altra consonante (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
-   | Radice:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
-   | :--- | :--- | :--- |
-   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
-   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
-   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
+| Radice:br⟪धातु⟫ | Grado profondo:br⟪सम्प्रसारण⟫ | Passivo:br⟪यक्⟫ |
+| :--- | :--- | :--- |
+| **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+| **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+| **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-   La denominazione tradizionale indigena per questa formazione della forma di basso livello nei verbi con **ya** o **va** è **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
+La denominazione tradizionale indigena per questa formazione del grado profondo nei verbi con **ya** o **va** è **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
-5. **-ṛ finale** dopo una singola consonante viene sostituito da **-ri-** prima del suffisso passivo **-ya-**:
-* **kṛ** 8 U: **kriyate**, **kriyante**
-⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Ma: **smṛ** 1 P: **smaryate**
-⟪स्मर्यते⟫
+5. **-ṛ finale** dopo un’unica consonante viene sostituito da **-ri-** prima del suffisso passivo **-ya-**:
+* **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Ma: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
 
-6. **Alcune radici in -an hanno alternativamente due formazioni dello stema del passivo:**
-   * una **-an-ya**
-   * una **-ā-ya-** (il lungo **ā** è un rappresentante di un ipotetico nasale lungo)
+6. **Alcune radici in -an hanno alternativamente due formazioni del tema passivo:**
+* una in **-an-ya**
+* una in **-ā-ya-** (il lungo **ā** è un rappresentante di un ipotetico nasale lungo)
 
-   Es. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte**
-⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (da \*tn-ya-nte)
+p.es. **tan** 8 U.
+* **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (da \*tn-ya-nte)
 
-## 10.5. Elenco di parole
+
+
+## 10.5. Elenco lessicale
 
 **Imparate le seguenti parole:**
 
-- **gṛha** n. ⟪गृह⟫ : Casa
-- **grāma** m. ⟪ग्राम⟫ : Villaggio
-- **nagara** n. ⟪नगर⟫ : Città
+**gṛha** n. ⟪गृह⟫ : casa
+**grāma** m. ⟪ग्राम⟫ : villaggio
+**nagara** n. ⟪नगर⟫ : città
 
   ::: note-box
-  **yajña** m. ⟪यज्ञ⟫ : sacrificio
+  Per la vita urbana e rurale si veda Basham, *Wonder*, cap. 6.
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : sacrificio

@@ -1,20 +1,21 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+title: "Lecke 50"
+subtitle: "Főnévképzés: szabályos fokozás"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# 50. lecke <!-- TODO: Fallback translation -->
+---
+
+# 50. lecke
 
 ## 50.1. Főnévképzés: szabályos fokozás
 
 ::: grammar-box
 **A szabályos fokozás a szanszkritban a ⟪तद्धित⟫-képzőkkel történik**
 * **-⟪तर⟫ (nemek: ⟪तरा⟫) a "komparatívban"**
-* **⟪तम⟫ (nemek: ⟪तमा⟫) a "szuperlatívban"** <!-- TODO: Fallback translation -->
+* **⟪तम⟫ (nemek: ⟪तमा⟫) a "szuperlatívban"**
 
 **Ezek a képzők mellékneveknél a hímnemű tövhez csatolódnak. Tövidüléses főneveknél a gyenge tövhöz csatolódnak, amely alakja ugyanaz, mint a lokatívusz -su végződése előtt (⟪पञ्चमी⟩) többes szám.**
 :::
@@ -49,7 +50,7 @@ pl. ⟪सत्तम⟫ 3 (a ⟪सन्त्⟫-hoz) "nagyon jó, igen jó"
 ::: indent
 pl. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "a kétszer születettek legjobbja"
 :::
-**A -⟪तर⟫ és a -⟪तम⟫ képzők nem csak melléknevekhez, hanem főnevekhez, határozószavakhoz és még igeképzésekhez is kapcsolódhatnak:** <!-- TODO: Fallback translation -->
+**A -⟪तर⟫ és a -⟪तम⟫ képzők nem csak melléknevekhez, hanem főnevekhez, határozószavakhoz és még igeképzésekhez is kapcsolódhatnak:**
 
 Példák:
 
@@ -60,7 +61,7 @@ Példák:
 
 ⟪उद्⟫ Indekl. "fent", "fel" » ⟪उत्तर⟫ 3 "magasabb" » ⟪उत्तम⟫ 3 "legmagasabb"
 :::
-**Ha ezek a képzők igeképhez kapcsolódnak, mindig határozói alakban jelennek meg:** <!-- TODO: Fallback translation -->
+**Ha ezek a képzők igeképhez kapcsolódnak, mindig határozói alakban jelennek meg:**
 
 * **-⟪तराम्⟫**
 * **-⟪तमाम्⟫**
@@ -103,7 +104,7 @@ Kapil Sibal (1948 -), uniós miniszter a Tudomány és Technológia Minisztériu
 :::
 ⟪रहस्⟫ n.: titok, magányosság
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : megsérülni, kudarcot vallni, károsodni <!-- TODO: Fallback translation -->
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : megsérülni, kudarcot vallni, károsodni
 
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
@@ -143,7 +144,7 @@ Absol.-⟪वृष्य⟫
 A Monsun érkezése, Bangalore  ಬೆಂಗಳೂರು
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5002))
 :::
-⟪संयक्⟫ Adv.: helyes, igazán, a megfelelő módon; teljes mértékben <!-- TODO: Fallback translation -->
+⟪संयक्⟫ Adv.: helyes, igazán, a megfelelő módon; teljes mértékben
 
 ⟪आदित्य⟫ m.: nap; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : egy bizonyos isteni osztály
 
@@ -152,7 +153,7 @@ A Monsun érkezése, Bangalore  ಬೆಂಗಳೂರು
 Ábra: ⟪आदित्यः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: mindenki, mind <!-- TODO: Fallback translation -->
+⟪सर्व⟫ 3: mindenki, mind
 
 Ragozás mint ⟪यद्⟫ (kivétel: alanyeset (nominativus)us/Accusativus singularis neutrum)
 
@@ -170,7 +171,7 @@ Ragozás mint ⟪यद्⟫ (kivétel: alanyeset (nominativus)us/Accusativus s
 :::
 ⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im lokativus (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫ <!-- TODO: Fallback translation -->
+⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im lokativus (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
 
 ⟪कल्प⟫ m: rend, szokás, rituálé ; [Világkor](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (hozzá ⟪कॢप्⟫)
 
@@ -181,7 +182,7 @@ Ragozás mint ⟪यद्⟫ (kivétel: alanyeset (nominativus)us/Accusativus s
 Ábr.: ⟪कल्याणी⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5003))
 :::
-⟪कु⟫- : összetett szavak első tagjaként: rossz <!-- TODO: Fallback translation -->
+⟪कु⟫- : összetett szavak első tagjaként: rossz
 
 ::: media
 ![](/images/lekt5004.webp)
@@ -189,13 +190,13 @@ Ragozás mint ⟪यद्⟫ (kivétel: alanyeset (nominativus)us/Accusativus s
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : látni <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : látni
 
 ::: indent
 Perf. ⟪चचक्षे⟫
 a többi ragozott időben nem használt
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : mesél, tart valaminek, nevez <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : mesél, tart valaminek, nevez
 
 ⟪देश⟫ m.: hely, tér, ország, vidék
 
@@ -290,24 +291,5 @@ Magyarázat:
 
 Magyarázatok:
 ⟪निषेकादीनि⟫ : alanyeset (nominativus)/Akkuzatív, többes szám, középnem
-:::
-::: deleteme-box
-
-**lekt5007:** Ábra: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Képmegjelölés: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Hozzáférés: 2009-01-12. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevegyék meg)]
-
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Képmegjelölés: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Hozzáférés: 2009-01-12. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevegyék meg, nem kereskedelmi célú felhasználás, nincs módosítás)]
-
-**lekt5001:** Kapil Sibal (1948 -), uniós miniszter a Tudomány és Technológia Minisztériumában, valamint a Földtudományok Minisztériumában (2006 óta) [Képmegjelölés: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Hozzáférés: 2009-01-12. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Nevegyék meg, share alike)]
-
-**lekt5002:** A monszun érkezése, Bangalore ಬೆಂಗಳೂರು [Képmegjelölés: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Hozzáférés: 2009-01-12. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Neveletés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-**lekt5005:** [Képmegjelölés: sunder_iyer. -- [http://www.flickr.com/photos/sunder_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Hozzáférés: 2009-01-12. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Neveletés, share alike)]
-
-**lekt5003:** [Képmegjelölés: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Hozzáférés: 2009-01-12. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Neveletés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Képmegjelölés: Kounosu / Wikipedia. GNU FDLicense]
-
-**lekt5008:** Ganeshpuri, Mumbai-tól (⟪मुंबई⟫) 80 km-re [Képmegjelenítés: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Hozzáférés: 2009-01-13. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, share alike)]
-
 :::
 

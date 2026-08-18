@@ -8,7 +8,7 @@ status: stable
 
 ## 34.1. Das Perfekt (⟪लिट्⟫)
 
-Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip. <!-- TODO: Fallback translation -->
+Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 
 ::: grammar-box
 **Es gibt zwei Arten der Perfektbildung:**
@@ -29,7 +29,7 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip. <!-
 **ⲧⲙⲛⲣⲉⲕⲥ:**
 
 **ⲛⲓϣⲟⲡ ⲧⲁⲃⲏ:** ⲥⲩⲛⲉϫⲓ Ϯⲙⲟⲕ ⲛⲁϥ
-*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung** <!-- TODO: Fallback translation -->
+*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung**
 
 **schwacher Stamm:** alle übrigen Formen
 *   **reduplizierte tiefstufige Wurzel + Perfektendung**
@@ -262,7 +262,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 ## 34.7. Übung
 
-Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden Perfektformen: <!-- TODO: Fallback translation -->
+Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden Perfektformen:
 
 1. ⟪रक्षिष्यन्ति⟫
 2. ⟪स्रक्ष्यति⟫
@@ -329,22 +329,5 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 ⲥⲭ.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***:sig[⟪र्जन्म⟫]*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 ⲡⲓⲣⲓⲧⲟⲩⲁⲗ ⲛ̀ⲧⲉ ⲡ̀ⲅⲁⲙⲟⲥ ⲛ̀ϩⲓⲛⲇⲟⲩ.
 (ⲧⲁⲣⲭⲏ ⲛ̀ⲧⲉ ϯⲉⲓⲕⲱⲛ: [ⲛⲓⲗⲉⲡⲧⲟⲙⲉⲣⲓⲁ](/licenses#lekt3407))
-:::
-
-::: deleteme-box
-
-**ⲛⲁⲛⲧⲉ ⲡⲓⲙⲟⲩϫⲛ:** Ⲥⲧⲁⲟⲩⲣⲉ ⲛⲧⲡⲓⲙⲟⲩϫⲛ ⲛⲁⲛⲇⲓ, Ⲭⲁⲙⲟⲩⲛⲇⲓ Ⲡⲉⲣⲟⲕ, Ⲙⲩϫⲱ. [ⲙⲁⲑⲏⲙⲁ ⲛⲧⲡⲓⲱϣ: Luna Park / Flickr. CC BY-NC-ND]
-
-**ⲛⲁⲛⲧⲉ ⲡⲓⲙⲟⲩϫⲛ:** Ⲡⲓⲙⲉⲑⲏⲣ ⲛⲁⲙⲣⲓ, Ⲁⲙⲣⲧⲥⲁⲣ. [ⲙⲁⲑⲏⲙⲁ ⲛⲧⲡⲓⲱϣ: Wikipedia. GNU FDL]
-
-**ⲛⲁⲛⲧⲉ ⲡⲓⲙⲟⲩϫⲛ:** Ⲥⲉⲥⲁⲙⲏ. [ⲙⲁⲑⲏⲙⲁ ⲛⲧⲡⲓⲱϣ: Wikipedia. Public domain]
-
-**ⲛⲁⲛⲧⲉ ⲡⲓⲙⲟⲩϫⲛ:** Ⲥⲉⲥⲁⲙⲏ ⲛⲧⲡⲓⲱϣ. [ⲙⲁⲑⲏⲙⲁ ⲛⲧⲡⲓⲱϣ: Franz Xaver / Wikipedia. GNU FDL]
-
-**ⲧⲉⲙⲛⲭⲏⲙⲓ 3405:** Ⲧⲁⲃⲉⲗⲟⲛ ⲧⲏⵔ Lakshadweep. [Ⲁⲝⲓⲁ: CIA World Factbook. Public domain]
-
-**ⲧⲉⲙⲛⲭⲏⲙⲓ 3406:** Ⲧⲁⲃⲉⲗⲟⲛ ⲧⲏⵔ rice field. [Ⲁⲝⲓⲁ: Ray Witlin / World Bank. CC BY-NC-ND]
-
-**ⲧⲉⲙⲛⲭⲏⲙⲓ 3407:** Ⲧⲁⲃⲉⲗⲟⲛ ⲧⲏⵔ Hindu wedding ritual. [Ⲁⲝⲓⲁ: BriceFR / Flickr. CC BY-NC-SA]
 :::
 

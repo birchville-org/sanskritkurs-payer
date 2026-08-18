@@ -100,7 +100,7 @@ Rezultat: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति�
 Rezultatul acestui rezultat: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda merge"
 :::
 ::: grammar-box
-**Excepții de la Schema 1:** <!-- TODO: Fallback translation -->
+**Excepții de la Schema 1:**
 
 **Construite conform Schemei 2 sunt, de asemenea, următoarele verbe:**
 
@@ -347,7 +347,7 @@ Inf. **kāmayitum** / **kamitum**
 Fig.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 Pictură de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2804))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -467,7 +467,7 @@ Fetiță poartă povara. Lângă Ahmedabad.
 4. ⟪लभ्⟫ — ⟪लम्भयति⟫
 5. ⟪हन्⟫ — ⟪घातयति⟫
 6. ⟪जि⟫ — ⟪जापयति⟫
-7. ⟪जीव्⟫ — ⟪जीवयति⟫ <!-- TODO: Fallback translation -->
+7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
 **B. Traduceți următoarele propoziții, descompuneți compusele în sanscrită și formați, folosind verbele simple, propoziții care exprimă ceea ce se întâmplă atunci când este realizat ceea ce este exprimat prin cauzativ:**
 
@@ -484,11 +484,3 @@ Exemplu: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-::: deleteme-box
-
-**lekt2801:** Clădirea de management a Universității Jadavpur. [Sursa imaginii: Flickr-ul lui noii, 2008-12-19, CC BY-SA]
-**lekt2802:** Templul ISKCON din Bangalore. [Sursa imaginii: Flickr-ul „Ramki's reflections”, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Muziciană la vīṇā. [Sursa imaginii: Kelvin Kay / Wikipedia. Licență GNU FDL]
-**lekt2804:** Kṛṣṇa și Rādhā. Pictură de Rāja Ravi Varma. [Sursa imaginii: Wikipedia. Domeniu public]
-**lekt2805:** Femeie purtând povară. Lângă Ahmedabad. [Sursa imaginii: m-bot. Flickr, 2008-12-20. CC BY-SA]
-:::

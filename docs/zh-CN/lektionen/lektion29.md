@@ -264,10 +264,4 @@ PPP ⟪पूजित⟫
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
 :::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [图片来源：pyjama。-- http://www.flickr.com/photos/rpt/387636532/。-- 访问日期：2008-12-20。-- 知识共享许可协议（署名，非商业性使用，相同方式共享）]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [图片来源：Khalid Mahmood / 维基百科。GNU FDLicense]
-**lekt2902:** (绘图：Namcha Payer，2002-11)
-:::
 

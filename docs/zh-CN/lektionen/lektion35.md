@@ -280,13 +280,3 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 C) 将练习B)中的句子进行转换，用未完成过去时（Imperfekta）替换完成过去时（Perfekta）。
 
-::: deleteme-box
-
-**lekt3501:** Tempelmusiker Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC]
-
-**lekt3502:** Menschen, die gehen，塞内加尔。[图片来源：Curt Carnemark / 世界银行。CC BY-NC-ND]
-
-**lekt3503:** 瓦达塞里的市场，泰米尔纳德邦。[图片来源：kifo / Flickr。CC BY-SA]
-
-**lekt3504:** 祭祀仪式，湿婆林栖地，迦尼什普里。[图片来源：Dey / Flickr. CC BY-NC-SA]
-:::

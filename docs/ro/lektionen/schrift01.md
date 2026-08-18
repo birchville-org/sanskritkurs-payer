@@ -1,32 +1,32 @@
-# Devanāgarī = ⟪देवनागरी⟫
+# Devanagari = ⟪देवनागरी⟫
 
 ## Exercițiu de scriere 1
 
-Sanskrita a fost și este scrisă într-o varietate de scripturi. Următoarea prezentare generală oferă un mic eșantion din aceste scripturi:
+Sanscrita a fost și este scrisă într-o varietate de scripturi. Următoarea prezentare oferă o mică selecție din aceste scrieri:
 
 ![](/images/schrift001.webp)  
-Fig.: Probe de scriere sanscrită  
-\[Sursa imaginii: Wikipedia, Licență GNU FDL\] <!-- TODO: Fallback translation -->
+Fig.: Probe de scriere sanscrită
+\[Sursa imaginii: Wikipedia, licență GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
+Cea mai importantă scriere modernă nord-indiană pentru sanscrită este Devanagari:
 
 ![](/images/schrift002.webp)
 
-Fiecare semn consoantă indică și un „a” care urmează consoanei. Dacă se dorește scrierea consoanei pure (fără vocala următoare), acest lucru trebuie marcat printr-o bară oblică subliniată — virāma = ⟪विराम⟫ —:
+Fiecare semn de consoană indică și un "a" care urmează consoanei. Dacă se dorește scrierea pură a consoanei (fără vocala următoare), aceasta trebuie marcată printr-o bară oblică subliniată -- virāma = ⟪विराम⟫ -- pentru a fi identificată:
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
-Vocalele care urmează unei consoane — cu excepția „a” — se scriu astfel:
+Vocalele care urmează unei consoane -- în afară de "a" -- se scriu astfel:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
-Ordinea de scriere a acestor combinații de consoană + vocală este:
+Ordinea în scrierea acestor combinații de consoană + vocală este:
 
 ![](/images/schrift003.jpg)
 
-La scriere, fiecare literă, inclusiv linia transversală, este completată pe linia superioară înainte de a se scrie următoarea literă.
+În timpul scrierii, fiecare literă, inclusiv linia transversală de sus, este completată înainte ca următoarea literă să fie scrisă.
 
 ## Exercițiu
 
@@ -36,7 +36,7 @@ kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā p�
 
 Citiți și transliterați:
 
-⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
+⟪तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ⟫
 
 Exercițiu suplimentar de citire:
 

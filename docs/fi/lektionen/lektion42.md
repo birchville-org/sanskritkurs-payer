@@ -17,7 +17,7 @@ status: stable
 Kaikki maskuliinit -ṛ-päätteisillä sanalla lukuun ottamatta 1.3 kohdassa mainittuja sukulaisnimityksiä. Tähän ryhmään kuuluvat myös seuraavat sukulaisnimitykset:
 
 *   ⟪नप्तृ⟫ m. "pojanpoika"
-*   ⟪भर्तृ⟫ m. "puoliso (sanm. ylläpitäjä)" <!-- TODO: Fallback translation -->
+*   ⟪भर्तृ⟫ m. "puoliso (sanm. ylläpitäjä)"
 
 Tähän ryhmään kuuluvien substantiivien valtaosan muodostavat agenttisubstantiivit ⟪कृत्⟫-liitteellä -⟪तृ⟫.
 
@@ -26,11 +26,11 @@ Tähän ryhmään kuuluvien substantiivien valtaosan muodostavat agenttisubstant
 *   **Vahva vartalo: -ār**
 *   **Heikko vartalo**
     *   **vokaalin edellä: -r**
-    *   **konsonantin edellä: -ṛ** <!-- TODO: Fallback translation -->
+    *   **konsonantin edellä: -ṛ**
 
 Huomioi epäsäännölliset muodot (merkitty **punaisella**)!
 :::
-Maskuliini: <!-- TODO: Fallback translation -->
+Maskuliini:
 
 ::: indent
 ⟪दातृ⟫ m. "Antaja"
@@ -58,7 +58,7 @@ Naispuolinen:
 ### 42.1.2. Nominaalinen muodostus: ⟪कृत्⟫-liite -⟪तृ⟫
 
 ::: grammar-box
-Erittäin yleisen ⟪कृत्⟫-liitteen -⟪तृ⟫ avulla muodostetaan toimijan nominit (nimitykset ⟪कर्तृ⟫) lähes jokaisesta verbijuuresta tai kausatiivista. <!-- TODO: Fallback translation -->
+Erittäin yleisen ⟪कृत्⟫-liitteen -⟪तृ⟫ avulla muodostetaan toimijan nominit (nimitykset ⟪कर्तृ⟫) lähes jokaisesta verbijuuresta tai kausatiivista.
 
 **Muodostus:**
 
@@ -85,17 +85,17 @@ Esimerkit:
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Kuva: ⟪अयं⟫ ⟪बोधयिता⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4201))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
-Harvinaiset -⟪तृ⟫ päätteiset neutrumit taivaltavat osittain omalla tavallaan (ks. Kielhorn, Grammatik § 148). <!-- TODO: Fallback translation -->
+Harvinaiset -⟪तृ⟫ päätteiset neutrumit taivaltavat osittain omalla tavallaan (ks. Kielhorn, Grammatik § 148).
 
-Nämä vartalon -⟪तृ⟫ päätteiset feminiinit ovat muotoa **-⟪त्री⟫** (kuten ⟪देवी⟫). <!-- TODO: Fallback translation -->
+Nämä vartalon -⟪तृ⟫ päätteiset feminiinit ovat muotoa **-⟪त्री⟫** (kuten ⟪देवी⟫).
 
 esim. ⟪कर्त्री⟫ f. "tekijä"
 :::
-### 42.1.3. Vartalon vahva muoto <!-- TODO: Fallback translation -->
+### 42.1.3. Vartalon vahva muoto
 
 ::: grammar-box
 Näihin kuuluvat seuraavat sukulaisnimitykset:
@@ -141,11 +141,11 @@ Nomituvat, jonka vartalo päättyy -ṛ, on kompositumin etuosassa luonnollisest
 :::
 ## 42.2. Sanalista
 
-⟪प्रकृति⟫ f.: (sanasta ⟪कृ⟫ + ⟪प्र⟫) perusmuoto, luonnollinen tila, luonto; alkuperäisaine, alkuaine <!-- TODO: Fallback translation -->
+⟪प्रकृति⟫ f.: (sanasta ⟪कृ⟫ + ⟪प्र⟫) perusmuoto, luonnollinen tila, luonto; alkuperäisaine, alkuaine
 
 ⟪अर्जुन⟫ m. Omana nimenä: Arjuna, yksi ⟪पण्डु⟫n viidestä pojasta. Sankari teoksessa ⟪महाभारत⟫ (katso Basham, Ihme s. 409–414)
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : pidättäytyä, pitää etäisyyttä, välttää, jäädä, pysyä paikallaan <!-- TODO: Fallback translation -->
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : pidättäytyä, pitää etäisyyttä, välttää, jäädä, pysyä paikallaan
 
 ::: indent
 PPP ⟪अवस्थित⟫ 3: oleva, sijaitseva
@@ -215,18 +215,18 @@ Inf. ⟪शंसितुम्⟫
 Kuva: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4202))
 :::
-⟪भर्तृ⟫ m. (sanasta ⟪भृ⟫ "kantaa, ylläpitää"): ylläpitäjä, elättäjä, puoliso <!-- TODO: Fallback translation -->
+⟪भर्तृ⟫ m. (sanasta ⟪भृ⟫ "kantaa, ylläpitää"): ylläpitäjä, elättäjä, puoliso
 
 ⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: puoliso (⟪भार्या⟫ = gerundiivi sanasta ⟪भृ⟫ : kannettava, ylläpidettävä, elatusoikeutettu)
 
 ⟪पितृ⟫ m.: isä
 
-⟪पितृ⟫ m. monikko: kuolleet miespuoliset esi-isät, ts. <!-- TODO: Fallback translation -->
+⟪पितृ⟫ m. monikko: kuolleet miespuoliset esi-isät, ts.
 
 1.  isä, isoisä, isoisoisä
-2.  ihmiskunnan esi-isät <!-- TODO: Fallback translation -->
+2.  ihmiskunnan esi-isät
 
-Heidälle suoritetaan rituaaleja, ns. ⟪श्राद्ध⟫ n. Päittäin tuodaan kullekin kolmelle miespuoliselle esi-isälle (isälinjan ja äitilinjan puolelta) vettä ja tietyissä tilanteissa riisipalloja tai jauhopalloja (⟪पिण्ड⟫ m. "pallo"). Näin esi-isille annetaan ravintoa. Tämän seremonian suorittaminen on yksi syy, miksi miehen tulisi saada poika. Nämä, jotka ovat yhdistyneet tämän ⟪पिण्ड⟫-lahjan kautta, kutsutaan nimellä ⟪सपिण्ड⟫ (joille ⟪पिण्ड⟫ on yhteistä). ⟪सपिण्ड⟫ käsittää kuusi sukupolvea: kolme taaksepäin (isoisoisään asti) ja kolme eteenpäin (isoispoikaan asti). <!-- TODO: Fallback translation -->
+Heidälle suoritetaan rituaaleja, ns. ⟪श्राद्ध⟫ n. Päittäin tuodaan kullekin kolmelle miespuoliselle esi-isälle (isälinjan ja äitilinjan puolelta) vettä ja tietyissä tilanteissa riisipalloja tai jauhopalloja (⟪पिण्ड⟫ m. "pallo"). Näin esi-isille annetaan ravintoa. Tämän seremonian suorittaminen on yksi syy, miksi miehen tulisi saada poika. Nämä, jotka ovat yhdistyneet tämän ⟪पिण्ड⟫-lahjan kautta, kutsutaan nimellä ⟪सपिण्ड⟫ (joille ⟪पिण्ड⟫ on yhteistä). ⟪सपिण्ड⟫ käsittää kuusi sukupolvea: kolme taaksepäin (isoisoisään asti) ja kolme eteenpäin (isoispoikaan asti).
 
 ⟪तात⟫ m.: isä
 
@@ -242,7 +242,7 @@ Heidälle suoritetaan rituaaleja, ns. ⟪श्राद्ध⟫ n. Päittäin 
 
 ⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: sisar
 
-⟪देवृ⟫ m.: aviomiehen veli (vaimon käly) <!-- TODO: Fallback translation -->
+⟪देवृ⟫ m.: aviomiehen veli (vaimon käly)
 
 ⟪यातृ⟫ m.: Vaimon veljen puolija
 
@@ -250,7 +250,7 @@ Heidälle suoritetaan rituaaleja, ns. ⟪श्राद्ध⟫ n. Päittäin 
 
 ⟪श्वसुर⟫ f.: Appivanhempi (vanhassa ajassa: vain vaimolle)
 
-⟪श्वस्रू⟫ f.: Appivanhempi (taivutus myöhemmin) <!-- TODO: Fallback translation -->
+⟪श्वस्रू⟫ f.: Appivanhempi (taivutus myöhemmin)
 
 ⟪मातुल⟫ m.: äidinveli (äitipuolen veli)
 
@@ -298,7 +298,7 @@ Kuva: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
 
-## 42.4. Käännösharjoitus <!-- TODO: Fallback translation -->
+## 42.4. Käännösharjoitus
 
 :sig[⟪सीता⟫]⟪विवाहः⟫
 
@@ -321,31 +321,31 @@ Kuva: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभू
 
 (⟪संस्कृतप्रथमादर्शे⟫)
 
-Punaisesti korostettujen ilmausten selitys: <!-- TODO: Fallback translation -->
+Punaisesti korostettujen ilmausten selitys:
 
-:sig[⟪सीता⟫] f. Oikonymi: kuningas ⟪जनक⟫ tytar, kuninkaan ⟪विदेह⟫. Hän tuli maasta ulos, kun kuningas kerran arki lapioi, joten hänen nimensä: :sig[⟪सीता⟫] f. "Arkiurhe" <!-- TODO: Fallback translation -->
+:sig[⟪सीता⟫] f. Oikonymi: kuningas ⟪जनक⟫ tytar, kuninkaan ⟪विदेह⟫. Hän tuli maasta ulos, kun kuningas kerran arki lapioi, joten hänen nimensä: :sig[⟪सीता⟫] f. "Arkiurhe"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
 Kuva: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4205))
 :::
-⟪मिथिला⟫ f. Oikonymi: pääkaupunki ⟪विदेह⟫ <!-- TODO: Fallback translation -->
+⟪मिथिला⟫ f. Oikonymi: pääkaupunki ⟪विदेह⟫
 
 ::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Kuva: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4206))
 :::
-⟪जनक⟫ m. Oikonymi: kuninkaan ⟪विदेह⟫ <!-- TODO: Fallback translation -->
+⟪जनक⟫ m. Oikonymi: kuninkaan ⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3: vertailuaste ⟪गुरु⟫ 3: raskaampi, erittäin raskas
 
-⟪धनुस्⟫ Nom.Akk.sg.n. zu ⟪धनुस्⟫ n. "jousi" <!-- TODO: Fallback translation -->
+⟪धनुस्⟫ Nom.Akk.sg.n. zu ⟪धनुस्⟫ n. "jousi"
 
 ⟪शतशस्⟫ Adv.: sadoittain
 
-:sig[⟪लङ्का⟫] f. Omana nimenä: yhdistetään nykyiseen Sri Lankaan (ශ්‍රී ලංකාව / இலங்கை) <!-- TODO: Fallback translation -->
+:sig[⟪लङ्का⟫] f. Omana nimenä: yhdistetään nykyiseen Sri Lankaan (ශ්‍රී ලංකාව / இலங்கை)
 
 ⟪रावण⟫ m. Omana nimenä; :sig[⟪लङ्का⟫] hallitsija, ⟪राक्षस⟫ hallitsijat.
 
@@ -354,26 +354,15 @@ Kuva: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 Kuva: ⟪रावणः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4207))
 :::
-⟪अयोध्या⟫ f. Oik.: ⟪कोसल⟫ pääkaupunki (katso yllä oleva kartta!) <!-- TODO: Fallback translation -->
+⟪अयोध्या⟫ f. Oik.: ⟪कोसल⟫ pääkaupunki (katso yllä oleva kartta!)
 
-⟪दशरथ⟫ m. Oik.: ⟪कोसल⟫ kuningas <!-- TODO: Fallback translation -->
+⟪दशरथ⟫ m. Oik.: ⟪कोसल⟫ kuningas
 
-⟪राम⟫ m. Oik.: ⟪दशरथ⟫ poika <!-- TODO: Fallback translation -->
+⟪राम⟫ m. Oik.: ⟪दशरथ⟫ poika
 
 ⟪लक्ष्मन⟫ m. Oik.: ⟪दशरथ⟫ poika
 
-:sig[⟪विश्वामित्र⟫] m. Omana: ⟪ऋषि⟫, vetäytyi ⟪राम⟫ ja ⟪लक्ष्मन⟫ kanssa tappamaan demoneja; tämän vuoksi hän saa nuo kaksi taikaseitsemästä. <!-- TODO: Fallback translation -->
+:sig[⟪विश्वामित्र⟫] m. Omana: ⟪ऋषि⟫, vetäytyi ⟪राम⟫ ja ⟪लक्ष्मन⟫ kanssa tappamaan demoneja; tämän vuoksi hän saa nuo kaksi taikaseitsemästä.
 
 ⟪सीतारामयोस्⟫ Gen.Lok.duaali sanasta ⟪सीताराम⟫
 
-::: deleteme-box
-
-* **Kuv. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Kuv lähde: Wikipedia. Julkisen omistuksen kuva)
-* **Kuv. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. Diwan-i-Khas eli yksityisten kuuntelujen sali Lal Qila (Punainen linna) Delhissä. (Kuv lähde: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Viitattu 2009-01-04. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi))
-* **Kuv. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளി, n. 1825. (Kuv lähde: Wikipedia. Julkisen omistuksen kuva)
-* **Kuv. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. vaunu). (Kuv lähde: Wikipedia. Julkisen omistuksen kuva)
-* **Kuv. lekt4205**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 1700-luku. (Kuv lähde: Wikipedia. Julkisen omistuksen kuva)
-* **Kuv. lekt4206**: Sijainti ⟪मिथिला⟫ ja ⟪विदेह⟫, ⟪अयोध्या⟫ ja ⟪कोसल⟫. (Kuv lähde: JIJITH NR / Wikipedia. GNU FDLicense)
-* **Kuv. lekt4207**: ⟪रावणः⟫. Yakṣagaṇa-tanssimaski (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟക). (Kuv lähde: Manohara Upadhya / Wikipedia. GNU FDLicense)
-* **Kuv. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Kuva ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫:sta (1848 - 1906). (Kuv lähde: Wikipedia. Julkisen omistuksen kuva)
-:::

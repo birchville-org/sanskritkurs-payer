@@ -239,8 +239,3 @@ B) Übersetzen und bestimmen Sie folgende Formen:
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-::: deleteme-box
-
-**lekt5701:** [Bildquelle: Wikipedia. Public Domain]
-
-:::

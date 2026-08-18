@@ -1,41 +1,42 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "Lezione 16"
+subtitle: "Sul Sandhi delle consonanti finali"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lezione 16
 
 ## 16.1. Sul Sandhi delle consonanti finali
 
-Per la formazione di composti il cui primo membro è costituito da stemmi con uscita consonantica, sono necessarie le seguenti regole:
+Per la formazione di composti, il cui primo membro è costituito da radici che terminano in consonante, sono necessarie le seguenti regole:
 
-Consonanti occlusive finali gutturali, retroflesse, dentali e labiali (cioè non nasali e non palatali).
+Occlusivi finali gutturali, retroflessi, dentali e labiali (cioè non nasali e non palatali).
 
 ::: no-header
 
 |   |   |
 | :--- | :--- |
-| **in pausa e davanti a suoni sordi** | **Sostituzione con l'occlusivo sordo non aspirato corrispondente:** :br **Esempio:** :br [[indent]] -g + p- » -kp- :br [[indent]] -d + ph- » -tph- :br [[indent]] -dh + p- » -tp- |
-| **davanti a suoni sonori non nasali** | **Sostituzione con l'occlusivo sonoro non aspirato corrispondente:** :br **Esempio:** :br [[indent]] -t + g- » -dg- :br [[indent]] -k + b- » -gb- :br [[indent]] -dh + d- » -dd- :br [[indent]] -k + a- » -ga- |
-| **davanti a nasali** | **Sostituzione con la nasale corrispondente:** :br **Esempio:** :br [[indent]] -t + n- » -nn- :br [[indent]] -p + n- » -mn- |
+| **in pausa e davanti a suoni sordi** | **Sostituzione con il corrispondente suono sordo non aspirato:** :br **ad esempio** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **davanti a suoni sonori non nasali** | **Sostituzione con il corrispondente suono sonoro non aspirato:** :br **ad esempio** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **davanti alle nasali** | **Sostituzione con la nasale corrispondente:** :br **ad esempio** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
-Eccezione alla regola precedente:
+Eccezione alla regola sopra:
 
-Occlusiva dentale finale (non nasale):
+Occlusivo dentale finale (non nasale):
 
 ::: no-header
 
 |   |   |
 | :--- | :--- |
-| **davanti a palatali** | **Sostituzione con la palatale non aspirata corrispondente:** :br **Cioè:** :br [[indent]] -t + c- » -cc- :br [[indent]] -d + c- » -cc- :br [[indent]] -th + c- » -cc- :br [[indent]] -dh + c- » -cc- :br [[indent]] -t/-th/-d/-dh + ch- » -cch- :br [[indent]] -t/-th/-d/-dh + j- » -jj- :br [[indent]] -t/-th/-d/-dh + jh- » -jjh- |
-| **+ ś** | **» -cś- o -cch-** |
-| **davanti a retroflesse** | **Sostituzione con la retroflessa non aspirata corrispondente:** :br **Cioè:** :br [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **davanti a l-** | **Sostituzione con -l:** :br **Cioè:** :br [[indent]] -t/-th/-d/-dh + l- » -ll- |
+| **davanti a un palatale** | **Sostituzione con il rispettivo palatale non aspirato:** :br **cioè** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+**+ ś** | **» -cś- o -cch-** |
+| **davanti a un retroflesso** | **Sostituzione con il rispettivo retroflesso non aspirato:** :br **cioè** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **davanti a l-** | **Sostituzione con -l:** :br **cioè** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 Esempi:
@@ -90,7 +91,7 @@ da ciò:
 
 ⟪निरोध⟫ m.: Arresto, far cessare
 
-* **bhūta n.** (⟪भूत⟫) (PPP di bhū): Essere, spirito &lt;!-- TODO: Fallback translation --&gt;
+* **bhūta n.** (⟪भूत⟫) (PPP di bhū): Essere, spirito &lt;!--  --&gt;
 
 ⟪योग⟫ m.: Attacco, connessione, unione, acquisizione; Yoga
 
@@ -240,13 +241,3 @@ Frase 13: ⟪सर्वेषाम⟫ Gen. pl. masc. derivato da ⟪सर्
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** Birla Mandir, Delhi [Fonte dell'immagine: Deepak / Wikipedia ; Licenza Creative Commons (Attribuzione, Condividi allo stesso modo)]
-
-**lekt1602:** "Questa è una cerimonia speciale in un piccolo tempio di Satara (⟪सातारा⟫). Viene eseguita dagli studenti della Swami Muktananda Vedashala in occasione della celebrazione di Mahāśivarātri. Si tratta di una scuola vedica, dove i bambini imparano a memoria i testi sacri chiamati Veda. Questa scuola insegna il Krishna Yajurveda e alcune porzioni del Samaveda. Sto svolgendo la mia tesi di master su questa scuola." [Fonte dell'immagine: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, Uso non commerciale, Nessuna opera derivata)]
-
-**lekt1603:** "La mano con una ruota sul palmo simboleggia il Voto giainista di Ahimsa. La parola al centro è 'ahimsa'. La ruota rappresenta il dharmacakra, che sta per la determinazione a interrompere il ciclo di reincarnazione attraverso la ricerca implacabile della verità e della non violenza." [Fonte dell'immagine: Wikipedia, Dominio pubblico]
-
-**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣ⟪ा⟫ [Fonte dell'immagine: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, Uso non commerciale, Nessuna opera derivata)]
-:::

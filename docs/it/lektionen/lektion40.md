@@ -647,11 +647,3 @@ B) Trasformare le seguenti forme verbali nelle corrispondenti forme del perfetto
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
-
-- **Image lekt4005.jpg** (Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Vadaseri, Distretto di Thanjavur = தஞ்சாவூர் மாவட்டam [Fonte immagine: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Accesso il 2009-01-02. -- Licenza Creative Commons (Attribuzione, share alike)]
-- **Image lekt4003.jpg** (Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Fonte immagine: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Accesso il 2009-01-02. -- Licenza Creative Commons (Attribuzione)]
-- **Image lekt4002.jpg** (Fig.: ⟪तीर्थङ्करः⟫): [Fonte immagine: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Accesso il 2009-01-02. -- Licenza Creative Commons (Attribuzione, non commerciale, nessuna opera derivata)]
-- **Image lekt4001.jpg** (Fig.: ⟪विष्णोर्दशावताराः⟫): In senso orario: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, al centro: ⟪कृष्ण⟫ [Fonte immagine: Wikipedia. Dominio pubblico]
-- **Image lekt4004.jpg** (Fig.: ⟪स्वपन्ति⟫): Pipistrelli della frutta indiani (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Fonte immagine: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Accesso il 2009-01-02. -- Licenza Creative Commons (Attribuzione, non commerciale, nessuna opera derivata)]
-:::

@@ -5,19 +5,10 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα ϛʹ
 
-::: deleteme-box
-**ἐν τῇ μαθήσει ταύτᾳ μανθάνετε:**
-- τὴν κατασκευὴν τῆς ῥηματικῆς προτάσεως (ἀγὼν καὶ ῥηματικὴ μορφή)
-- τὸν σχηματισμὸν τῶν ῥημάτων (Parasmaipada, Ātmanepada, Παθητικόν)
-- τὰ εἴδη καὶ τοὺς χρόνους τοῦ ῥήματος
-- Εὐκτικὸν Παρατατικοῦ (laṭ) καὶ τὰ πρωτότυπα καταλήξεις τῆς γ' προσώπου
-- τὸν σχηματισμὸν τοῦ σταθεροῦ παρατατικοῦ (κλάσεις 1, 4 καὶ 6)
-- τὴν φωνητικὴν μεταβολήν (Ablaut: Guṇa καὶ Vṛddhi)
-:::
 ## 6.1. Ἡ ῥηματικὴ πρότασις
 
 ::: grammar-box
@@ -73,7 +64,7 @@ status: stable
 | :--- | :--- | :--- |
 | **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" |
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
-| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" | <!-- TODO: Fallback translation -->
+| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
 
 ## 6.4. Πρωτογενεῖς καταλήξεις τοῦ τρίτου προσώπου (prathama ἀρσ. = ⟪प्रथम⟫ = "πρῶτον (!) πρόσωπον")
 
@@ -129,7 +120,7 @@ status: stable
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Ῥήματα τῆς 4ης ἐνεστωτικῆς κλίσεως (διβάδι = ⟪दिवादि⟫ = "διβ κτλ.") <!-- TODO: Fallback translation -->
+### 6.5.3. Ῥήματα τῆς 4ης ἐνεστωτικῆς κλίσεως (διβάδι = ⟪दिवादि⟫ = "διβ κτλ.")
 
 ::: grammar-box
 **Ῥίζα ἐνεστῶτος = ἡ ῥίζα ἐν τῇ βαθείᾳ φωνῇ (ἐν ᾗ παρατίθεται) + ya-**
@@ -189,9 +180,9 @@ status: stable
 3. kavis ... (man, smṛ, viś)
    ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
 4. dhenus ... (viś, bhū)
-   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫ <!-- TODO: Fallback translation -->
+   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
 
-**B) Setzt die in Übung A gebildeten Sätze in den Plural.** <!-- TODO: Fallback translation -->
+**B) Setzt die in Übung A gebildeten Sätze in den Plural.**
 
 **C) Übersetzt ins Sanskrit:**
 1. Er verehrt mit einem Opfer. (Der Opferpriester für einen Opferherrn)
@@ -206,7 +197,7 @@ status: stable
 10. Kṣatriyas kämpfen.
 11. Heilige Männer führen.
 12. Sie erinnern sich.
-13. Wer (fem.) tanzt? <!-- TODO: Fallback translation -->
+13. Wer (fem.) tanzt?
 
 ::: media
 ![](/images/lekt0601.webp)

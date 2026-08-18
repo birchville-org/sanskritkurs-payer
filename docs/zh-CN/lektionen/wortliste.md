@@ -2,10 +2,6 @@
 outline: 2
 ---
 
-::: deleteme-box
-**引用规范与版权**
-
-:::
 # 词汇表（总览）
 
 *课程中出现的所有新词，按引入顺序排列，并附有主题解释。*
@@ -3076,11 +3072,6 @@ PPP ⟪ईक्षित⟫
 
 ⟪सङ्घ⟫ 中性名词：（源自 ⟪सम्⟫-⟪हन्⟫ ：集合）群体，人群，社团（例如佛教团体）
 
-::: deleteme-box
-参见：
-
-**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念资料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ 阴性名词：年轻女子，女儿，处女
 
 ⟪अति⟫ 前缀：超过，越过（在空间、时间、数量、规模、秩序、权力、强度方面），极其
@@ -3090,11 +3081,6 @@ PPP ⟪ईक्षित⟫
 ::: indent
 过去分词 ⟪अतीत⟫ ：中性名词 过去
 :::
-::: deleteme-box
-参见：
-
-**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念资料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ 阴性名词：年轻女子，女儿，处女
 
 ⟪अति⟫ 前缀：超过，越过（在空间、时间、数量、规模、秩序、权力、强度方面），极其
@@ -3103,11 +3089,6 @@ PPP ⟪ईक्षित⟫
 
 ::: indent
 过去分词 ⟪अतीत⟫ ：中性名词 过去
-:::
-::: deleteme-box
-参见：
-
-**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念资料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ 阴性名词：年轻女子，女儿，处女
 
@@ -3516,31 +3497,15 @@ davon:
 
 ⟪प्रव्रज्या⟫ 阴性名词（源自 ⟪प्र⟫-⟪व्रज्⟫）：离开家庭走向无家可归；成为佛教新人的仪式（巴利语：⟪पब्बजा⟫）
 
-::: deleteme-box
-参见：
-
-**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念材料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 图： ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 （图片来源：[详情](/licenses#lekt4408)）
 :::
-::: deleteme-box
-参见：
-
-**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念材料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 图： ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 （图片来源：[详情](/licenses#lekt4408)）
-:::
-::: deleteme-box
-参见：
-
-**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念材料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -5021,6 +4986,4 @@ Inf. ⟪त्रातुम्⟫
 **lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [图片来源：James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- 访问日期：2009-01-16. -- 知识共享许可协议（署名）]
 
 **lekt5217**: 玛拉袭击佛陀，阿马拉瓦蒂 = అమరావతి，公元2世纪 [图片来源：维基百科。GNU自由文档许可证]
-
-
 

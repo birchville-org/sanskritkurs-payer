@@ -198,7 +198,7 @@ Speyer, Jacob S. (Jacob Samuel) <1849-1913>: Sanskrit sytax. -- Leyden : Brill, 
 Fig.: ⟪अलं⟫  ⟪विषादेन⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
+## 56.4. ⟪स्म⟫
 
 ::: grammar-box
 **⟪स्म⟫ enfatiza: "verdadeiramente, de facto, certamente, precisamente"**
@@ -296,12 +296,3 @@ A) Determine e traduza as seguintes formas sem ajuda (!):
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** Professor de Linguística Comparada, Universidade de Erlangen-Nuremberg (1955 - 1983) [Fonte da imagem: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Acesso em 2009-02-27]
-
-**lekt5602:** Pôster (Ernesto Che Guevara) de um partido político em Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards." [Fonte da imagem: Hari\_Menon. -- [http://www.flickr.com/photos/me\_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Acesso em 2009-02-27. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, uso não comercial, compartilhar igual)]
-
-**lekt5603:** [Fonte da imagem: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Acesso em 2009-02-27. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, uso não comercial, sem obras derivadas)]
-
-:::

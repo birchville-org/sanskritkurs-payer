@@ -7,21 +7,13 @@ category: "Grammatik"
 status: stable
 ---
 
-# Oppitunti 3 <!-- TODO: Fallback translation -->
+# Oppitunti 3
 
-::: deleteme-box
-**Tässä lektiossa opit:**
-- nominatiivin yksikkö naispuolisessa sukuvaihtelussa
-- nominatiivin monikko maskuliinisessa ja naispuolisessa sukuvaihtelussa
-- naispuolisen muodon muodostaminen maskuliinisesta sanasta
-- vokaalisandhi
-- Satzsandhi von -ās
-:::
-## 3.1. Nominatiivin yksikkö naispuolisessa sukuvaihtelussa <!-- TODO: Fallback translation -->
+## 3.1. Nominatiivin yksikkö naispuolisessa sukuvaihtelussa
 
-### 3.1.1. Nominatiivin yksikkö päättymällä -s <!-- TODO: Fallback translation -->
+### 3.1.1. Nominatiivin yksikkö päättymällä -s
 
-Myös seuraavat vokaalilla päättyvät substantiivinvartalo muodostavat nominatiivin yksikössä pääte **-s**: <!-- TODO: Fallback translation -->
+Myös seuraavat vokaalilla päättyvät substantiivinvartalo muodostavat nominatiivin yksikössä pääte **-s**:
 
 ::: grammar-box
 - **Naispuoliset substantiivit päättelyllä -i**: esim. **śruti** f. "kuuleminen" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
@@ -51,7 +43,7 @@ Nominatiivin yksikkö muodostetaan ilman päätettä:
 (**-u-** muuttuu vokaalin edellä muodoksi **-v-**, joten **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Maskuliinin ja feminiinin nominatiivin monikko <!-- TODO: Fallback translation -->
+## 3.3. Maskuliinin ja feminiinin nominatiivin monikko
 
 ::: grammar-box
 Maskulinin ja feminiinin nominatiivin monikon pääte on **-as**.
@@ -65,7 +57,7 @@ Maskulinin ja feminiinin nominatiivin monikon pääte on **-as**.
 :::
 Huomautus: **e** on korkeampi aste (**guṇa**) vokaalille **i**, ja **o** on korkeampi aste vokaalille **u**.
 
-## 3.4. Vokalisandhi <!-- TODO: Fallback translation -->
+## 3.4. Vokalisandhi
 
 ::: grammar-box
 **Yksinkertaiset vokaalit, jotka eroavat vain pituudeltaan tai eivät lainkaan, "sulautuvat" vastaavaksi pitkäksi vokaaliksi:**
@@ -74,9 +66,9 @@ Huomautus: **e** on korkeampi aste (**guṇa**) vokaalille **i**, ja **o** on ko
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
 :::
-Esim. <!-- TODO: Fallback translation -->
+Esim.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā on jumalatar" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā on jumalatar" = ⟪देवतान्नपूर्णा⟫
 
 > (Annapūrṇā on ruokien ja keittämisen jumalatar, häntä pidetään Pārvatīn, Śivan vaimon, ilmentymänä.)
 
@@ -97,7 +89,7 @@ Kuv.: Indra ja Indrāṇī norsu Airavatan päällä, miniatyyri, Rājasthān, 1
 - -ṛ » **-r-**
 (!! Tälle säännölle on erityisesti kaksikkomuodoissa poikkeuksia !!)
 :::
-esim. <!-- TODO: Fallback translation -->
+esim.
 
 devī + umā » devy umā "Umā on jumalatar" = ⟪देव्युमा⟫
 
@@ -110,24 +102,24 @@ devī + umā » devy umā "Umā on jumalatar" = ⟪देव्युमा⟫
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
 :::
-Tälle sandhille pätee siis seuraava kaava: <!-- TODO: Fallback translation -->
+Tälle sandhille pätee siis seuraava kaava:
 
 ::: media
 ![](/images/lekt0302.jpg)
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0302))
 :::
-Katso myöhemmin tätä ns. klaaniluokitusta! <!-- TODO: Fallback translation -->
+Katso myöhemmin tätä ns. klaaniluokitusta!
 
 esim.
 
 śūdrā + itarā » śudretarā "Itarā on śūdra-nainen" = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi -ās:lla <!-- TODO: Fallback translation -->
+## 3.5. Satzsandhi -ās:lla
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-esim. <!-- TODO: Fallback translation -->
+esim.
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaišyat ovat kaksinkertaisesti syntyneet" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
@@ -150,21 +142,21 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaišyat ovat kaksinkertaisesti syn
 - **dharmasūtra** n. (⟪धर्मसूत्र⟫) ja **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : opukset oikeudesta ja tavasta (oikea käytös)
 - suuret eepokset **mahābhārata** n. (⟪महाभारत⟫) ja **rāmāyaṇa** n. (⟪रामायण⟫)
 - **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : elämänviisauden opukset <!-- TODO: Fallback translation -->
+- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : elämänviisauden opukset
 
-**smṛti** on erityisesti myös nimitys dharmaopeille. <!-- TODO: Fallback translation -->
+**smṛti** on erityisesti myös nimitys dharmaopeille.
 
 **dhenu** f. = ⟪धेनु⟫ : (maitoa antava) lehmä.
 
-**paśu** m. = ⟪पशु⟫ : domesticoidtu kotieläin, karja (kollektiivi). <!-- TODO: Fallback translation -->
+**paśu** m. = ⟪पशु⟫ : domesticoidtu kotieläin, karja (kollektiivi).
 
-**devatā** f. = ⟪देवता⟫ : jumaluus (abstrakti ja konkreetinen). <!-- TODO: Fallback translation -->
+**devatā** f. = ⟪देवता⟫ : jumaluus (abstrakti ja konkreetinen).
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : brāhmaṇi (nainen).
 
 **kṣatriyā** f. = ⟪क्षत्रिया⟫ : naispuolinen kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Kṣatriyan vaimmainen. <!-- TODO: Fallback translation -->
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Kṣatriyan vaimmainen.
 
 **vaiśyā** f. = ⟪वैश्या⟫ : naispuolinen vaiśya.
 
@@ -183,15 +175,15 @@ Kuv.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. sanasta guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "minä-olo", ts. (väärä) usko: **Minä** olen se, joka näkee jne. <!-- TODO: Fallback translation -->
+**asmitā** f. = ⟪अस्मिता⟫ : "minä-olo", ts. (väärä) usko: **Minä** olen se, joka näkee jne.
 
 **ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filosofia (tiede, joka päättelynsä johtopäätöksiin loogisesti oikeutetuilla perusteluilla).
 
 **upekṣā** f. = ⟪उपेक्षा⟫ : huomioimatta jättäminen, tasapainoisuus.
 
-**karuṇā** f. = ⟪करुणा⟫ : myötätunto, sääli. <!-- TODO: Fallback translation -->
+**karuṇā** f. = ⟪करुणा⟫ : myötätunto, sääli.
 
-**muditā** f. = ⟪मुदिता⟫ : ilo, erityisesti iloitseminen (vastakohta kateudelle). <!-- TODO: Fallback translation -->
+**muditā** f. = ⟪मुदिता⟫ : ilo, erityisesti iloitseminen (vastakohta kateudelle).
 
 ## 3.7. Harjoitus
 
@@ -230,5 +222,5 @@ Kuv.: Durgā = ⟪दुर्गा⟫, Orissa
 4. Maitolehmät ovat kesytettyjä eläimiä.
 5. Runoilijat ovat opettajia.
 6. Kṣatriyas ovat kaksinkertaisesti syntyneitä.
-7. Pyhät miehet ovat śūdras. <!-- TODO: Fallback translation -->
+7. Pyhät miehet ovat śūdras.
 

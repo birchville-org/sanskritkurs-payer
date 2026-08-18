@@ -1,10 +1,11 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "ⲙⲁⲑⲏⲙⲁ 17"
+subtitle: "ⲡⲓⲛϧⲟⲥ ϫⲉ ⲡⲓⲙⲁϣⲟⲩⲱ ⲛⲧⲉ ⲡⲓϣⲟⲙⲛⲧⲉ ⲡⲓϫⲱⲙ (⟪अदादि⟫ = ⟪अद्⟫ ⲕⲓ.ⲧ.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Ⲙⲉⲗⲉⲧⲏ 17
@@ -247,7 +248,7 @@ Beispiele:
 ![](/images/lekt1703.webp)
 Abb.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703))
+(Bildquelle: [Details](/cop/licenses#lekt1703))
 :::
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : ⲛⲟϣ
 
@@ -260,7 +261,7 @@ Bangalore = ಬೆಂಗಳೂರು
 ::: media
 ![](/images/lekt1701.webp)
 Abb.: ⟪योगासनम्⟫
-(ⲛⲁϣⲟⲡ ⲙⲉⲧⲥⲁϫ: [Details](/licenses#lekt1701))
+(ⲛⲁϣⲟⲡ ⲙⲉⲧⲥⲁϫ: [Details](/cop/licenses#lekt1701))
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : ⲛⲓϣⲟⲡ, ⲛⲓϫⲱⲙ
 
@@ -276,7 +277,7 @@ Abb.: ⟪योगासनम्⟫
 ::: media
 ![](/images/lekt1702.webp)
 Abb.: ⟪दोग्धि⟫
-(ⲛϣⲟⲩ: [Details](/licenses#lekt1702))
+(ⲛϣⲟⲩ: [Details](/cop/licenses#lekt1702))
 :::
 ⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : ⲁⲃ, ⲛϣⲟⲩ (ⲙⲡⲓ: ⲛϫⲉ ϯⲙⲏ):
 
@@ -410,11 +411,3 @@ Abb.: ⟪दोग्धि⟫
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
-::: deleteme-box
-
-**ⲁϥⲙⲟⲛ 17:** [ⲉⲧϫⲓⲙⲟⲣϩ ⲛⲧⲉ ϫⲓⲙⲟⲣϩ: ⲛⲁⲛ ϫⲓⲙⲟⲣϩ ⲉⲧⲛⲁⲓ. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- ⲛⲁϥⲙⲟⲛ 2008-12-07. -- ⲉⲧϫⲓⲙⲟⲣϩ Creative Commons (ⲛⲁⲛ ⲉⲧⲙⲏⲥ, ⲛⲁϥⲧⲉⲣϫⲓⲙⲟⲣϩ)]
-
-**ⲁϥⲙⲟⲛ 17:** [ⲉⲧϫⲓⲙⲟⲣϩ ⲛⲧⲉ ϫⲓⲙⲟⲣϩ: ⲛⲁⲛ ϫⲓⲙⲟⲣϩ ⲉⲧⲛⲁⲓ. -- http://www.flickr.com/photos/roshnii/110086482/. -- ⲛⲁϥⲙⲟⲛ 2008-12-07. -- ⲉⲧϫⲓⲙⲟⲣϩ Creative Commons (ⲛⲁⲛ ⲉⲧⲙⲏⲥ, ⲛⲁϥⲧⲉⲣϫⲓⲙⲟⲣϩ, ⲛⲁϥⲧⲉⲣϫⲓⲙⲟⲣϩ)]
-
-**ⲁϥⲙⲟⲛ 17:** Bangalore = ಬೆಂಗಳೂರು [ⲉⲧϫⲓⲙⲟⲣϩ ⲛⲧⲉ ϫⲓⲙⲟⲣϩ: ⲛⲁⲛ ϫⲓⲙⲟⲣϩ ⲉⲧⲛⲁⲓ. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- ⲛⲁϥⲙⲟⲛ 2008-12-07. -- ⲉⲧϫⲓⲙⲟⲣϩ Creative Commons (ⲛⲁⲛ ⲉⲧⲙⲏⲥ, ⲛⲁϥⲧⲉⲣϫⲓⲙⲟⲣϩ)]
-:::

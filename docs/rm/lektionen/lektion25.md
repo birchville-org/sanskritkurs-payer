@@ -5,7 +5,7 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecziun 25
 
@@ -177,7 +177,7 @@ Exempl:
 :::
 ## 25.5. Lista da paraulas
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫ laschar, bandunar, laschar en il maun <!-- TODO: Fallback translation -->
+⟪त्यज्⟫ 1P ⟪त्यजति⟫ laschar, bandunar, laschar en il maun
 
 ::: indent
 Fut. ⟪त्यक्ष्यति⟫  
@@ -281,7 +281,7 @@ davon:
 Fig.: ⟪मूलानि⟫
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): unger, smatgar <!-- TODO: Fallback translation -->
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): unger, smatgar
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
@@ -342,7 +342,7 @@ Fig.: ⟪विष्टिः⟫
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
 PPP ⟪वृद्ध⟫ : creschì, vegl, augmentà  
-Inf. ⟪वर्धितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪वर्धितुम्⟫
 
 davon:
 
@@ -361,7 +361,7 @@ davon:
 Fig.: ⟪हिरण्यम्⟫
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : fin, suttil, fitg pitschen; m.: Atom <!-- TODO: Fallback translation -->
+⟪अणु⟫ ⟪३⟫ : fin, suttil, fitg pitschen; m.: Atom
 
 ⟪गोदान⟫ n.: dar da vatschas / d'in vatscha; segunda ceremonia dal tagli da crêp (in ⟪संस्कार⟫)
 
@@ -450,7 +450,7 @@ Explicaziun: ⟪राजा⟫ = Nom. sg. a ⟪राजन्⟫ m. = ⟪न�
 
 ⟪वार्त्ता⟫ ⟪धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. davart la furmaziun d'in prinzip <!-- TODO: Fallback translation -->
+2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. davart la furmaziun d'in prinzip
 
 ⟪तस्माद्दण्डमूला⟫*:sig[⟪स्तिस्रो⟫]* ⟪विद्याः⟫ ⟪॥१॥⟫  
 ⟪विनयमूलो⟫ ⟪दण्डः⟫ *:sig[⟪प्राणभृतां⟫]* ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
@@ -468,21 +468,21 @@ Explicaziun: ⟪राजा⟫ = Nom. sg. a ⟪राजन्⟫ m. = ⟪न�
 ... ⟪॥⟫  
 ⟪कामक्रोधलोभमानमदहर्षत्यागा⟫*:sig[⟪त्कार्यः⟫]* ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-Explicaziun dals pleds en il text da surmarcads en cotschen: <!-- TODO: Fallback translation -->
+Explicaziun dals pleds en il text da surmarcads en cotschen:
 
 1.5.1. ⟪तिस्रस्⟫ : Nominativ, Accusativ, feminin zu ⟪त्रि⟫ "drei"
 
 1.5.2. ⟪प्राणभृताम्⟫ : Gen. pl. m. zu ⟪प्राणभृत्⟫ m. "Lebewesen"
 
-1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "anderer" <!-- TODO: Fallback translation -->
+1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "anderer"
 
-1.5.7. :sig[⟪कर्मा⟫] : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "Tat, Werk" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen" <!-- TODO: Fallback translation -->
+1.5.7. :sig[⟪कर्मा⟫] : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "Tat, Werk" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen"
 
 1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. zu ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "Teoretichers e practicaders"
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sieschaintesim"
 
-1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Tat" <!-- TODO: Fallback translation -->
+1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Tat"
 
 1.5.16. ⟪धि⟫ Sandhiform zu ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "Autopossessiun"
 

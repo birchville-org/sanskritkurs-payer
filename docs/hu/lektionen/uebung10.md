@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Gyakorlat 10
 
-A) Alakítsa ki a következő igemódusok passzívját (az igealak fordításával), azaz azt a passzív alakot, amely személyben és számban megfelel az igealaknak: <!-- TODO: Fallback translation -->
+A) Alakítsa ki a következő igemódusok passzívját (az igealak fordításával), azaz azt a passzív alakot, amely személyben és számban megfelel az igealaknak:
 
 1. sṛjati ⟪सृजति⟫ : sṛjyate ⟪सृज्यते⟫
 2. yudhyate ⟪युध्यते⟫ : yudhyate ⟪युध्यते⟫
@@ -35,9 +35,9 @@ A) Alakítsa ki a következő igemódusok passzívját (az igealak fordításáv
 21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
 22. tanvanti ⟪तन्वन्ति⟫ (2 alak!) : tanyante / tāyante ⟪तन्यन्ते⟫ ⟪तायन्ते⟫
 
-B) Alakítsa ki az eddig tanult összes főnév egyes és többes számú instrumentalisát <!-- TODO: Fallback translation -->
+B) Alakítsa ki az eddig tanult összes főnév egyes és többes számú instrumentalisát
 
-C) Alakítsa át a következő mondatokat passzívba, és fordítsa le őket: <!-- TODO: Fallback translation -->
+C) Alakítsa át a következő mondatokat passzívba, és fordítsa le őket:
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 
@@ -83,11 +83,11 @@ anena kavinā mantraḥ smaryate.
 
 8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
 
-anayā devyā kṣatriyā rakṣyante. <!-- TODO: Fallback translation -->
+anayā devyā kṣatriyā rakṣyante.
 
 ⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 lehetőség) <!-- TODO: Fallback translation -->
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 lehetőség)
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
@@ -113,7 +113,7 @@ etair guravas tu śrūyante.
 
 ⟪एतैर्गुरवस्तु⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
 
-De ők hallgatnak a mestereikre. <!-- TODO: Fallback translation -->
+De ők hallgatnak a mestereikre.
 
 
 13\. sādhuḥ svargamāpnoti. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
@@ -192,7 +192,7 @@ kavinā devatā dṛśyate.
 
 ⟪कविना⟫ ⟪देवता⟫ ⟪दृश्यते⟫ ⟪।⟫
 
-8\. Ki (nőnemű) őriz a leányt? (Passzív szerkezet) <!-- TODO: Fallback translation -->
+8\. Ki (nőnemű) őriz a leányt? (Passzív szerkezet)
 
 kayā bālā rakṣyate.
 
@@ -204,7 +204,7 @@ kṣatriyeṇeśvara ijyate.
 
 ⟪क्षत्रियेनेश्वर⟫ ⟪इज्यते⟫ ⟪।⟫
 
-10\. A nagylelkűség révén egy buddhista követő elér egy mennyországot. <!-- TODO: Fallback translation -->
+10\. A nagylelkűség révén egy buddhista követő elér egy mennyországot.
 
 dānena śrāvakaḥ svargam āpnoti / aśnute.
 

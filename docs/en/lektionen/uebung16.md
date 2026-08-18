@@ -212,11 +212,6 @@ The specific duty of a Śūdra is obedient service to the twice-born, economic a
 The duty of all is: non-violence, truthfulness, purity, not grumbling about one's lot, freedom from malice, and patient forbearance.
 (⟪कौटिलीयार्थशास्त्र १⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-::: deleteme-box Erklärungen
-Sentence 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Acc.: Dvandva, denoting the two "things"
-Sentence 8: ⟪कर्म⟫ Nom., Acc. sg. Neuter to ⟪कर्मन्⟫ "action"
-Sentence 13: ⟪सर्वेषाम्⟫ Gen. pl. masc. to ⟪सर्व⟫ "each, all" (pronoun, not declined like deva)
-:::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ॥ कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪३ ॥ आन्वीक्षिक्याः त्रय्याः वार्त्ताया योगस्य क्ष⟫e⟪मस्य च साधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ।⟫
 The staff brings about the acquisition and secure possession of philosophy, Vedic studies, and economics. The wielding of the staff is politics.
 

@@ -10,33 +10,33 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 60
 
-A) Opettele Kielhornin grammatikassa § 451 epäsäännölliset desideratiivimuodot aiemmin opetuista verbien taivutuksista <!-- TODO: Fallback translation -->
+A) Opettele Kielhornin grammatikassa § 451 epäsäännölliset desideratiivimuodot aiemmin opetuista verbien taivutuksista
 
 B) Määritä ja käännä seuraavat muodot ilman apuvälineitä:
 
-1. ⟪ददुषोः⟫ - ⟪ददिवांस्⟫ Part.Perf.P Lok.Gen.du.m.n. kaksi / kahden kesken, jotka ovat antaneet <!-- TODO: Fallback translation -->
+1. ⟪ददुषोः⟫ - ⟪ददिवांस्⟫ Part.Perf.P Lok.Gen.du.m.n. kaksi / kahden kesken, jotka ovat antaneet
 
 2. ⟪अहिंसीः⟫ - ⟪हिंस्⟫ 7P 2.sg.Aor(5).P sinä haavoitit
 
-3. ⟪देमथुः⟫ - ⟪दम्⟫ 4P 2.du.Perf.P te kaksi olette hillinneet <!-- TODO: Fallback translation -->
+3. ⟪देमथुः⟫ - ⟪दम्⟫ 4P 2.du.Perf.P te kaksi olette hillinneet
 
-4. ⟪वक्त्वा⟫ - ⟪वञ्च्⟫ 1P Absol. kun hän oli horjunut <!-- TODO: Fallback translation -->
+4. ⟪वक्त्वा⟫ - ⟪वञ्च्⟫ 1P Absol. kun hän oli horjunut
 
 5. ⟪अक्षथाः⟫ - ⟪क्षन्⟫ 8U 2.sg.Aor(5/1).Ā sinä haavoitit itseäsi
 
 6. ⟪मुमुषिषिष्यतः⟫ - ⟪मुष्⟫ 9P Desid. 3.du.Fut.P he kaksi haluavat varastaa
 
-7. ⟪अचिक्षंसेथाम्⟫ - ⟪क्षम्⟫ 1Ā Desid. 2.du.Ā te kaksi olette halunneet kestää <!-- TODO: Fallback translation -->
+7. ⟪अचिक्षंसेथाम्⟫ - ⟪क्षम्⟫ 1Ā Desid. 2.du.Ā te kaksi olette halunneet kestää
 
 8. ⟪अस्नाः⟫ - ⟪स्ना⟫ 2P 2.sg.Impf.P sinä olet uinut
 
-9. ⟪जिहिंसुषि⟫ - ⟪हिंस्⟫ 7P Part.Perf.P Lok.sg.m.n. sen, joka on haavoittanut <!-- TODO: Fallback translation -->
+9. ⟪जिहिंसुषि⟫ - ⟪हिंस्⟫ 7P Part.Perf.P Lok.sg.m.n. sen, joka on haavoittanut
 
-10. ⟪जिहिंसिषुणा⟫ - ⟪जिहिंसिषु⟫ 3 (desideratiivista verbistä ⟪हिंस्⟫ 7P) Instr.sg.m.n. sen kautta, joka haluaa haavoittaa <!-- TODO: Fallback translation -->
+10. ⟪जिहिंसिषुणा⟫ - ⟪जिहिंसिषु⟫ 3 (desideratiivista verbistä ⟪हिंस्⟫ 7P) Instr.sg.m.n. sen kautta, joka haluaa haavoittaa
 
-11. ⟪द्युभिः⟫ - ⟪दिव्⟫ ⟪।⟫ ⟪द्यौ⟫ f. Instr.pl. taivasten kautta <!-- TODO: Fallback translation -->
+11. ⟪द्युभिः⟫ - ⟪दिव्⟫ ⟪।⟫ ⟪द्यौ⟫ f. Instr.pl. taivasten kautta
 
-12. ⟪जग्लिव⟫ - ⟪ग्लै⟫ 1P 1.du.Perf.P me kaksi olemme kokeneet vastenmielisyyttä <!-- TODO: Fallback translation -->
+12. ⟪जग्लिव⟫ - ⟪ग्लै⟫ 1P 1.du.Perf.P me kaksi olemme kokeneet vastenmielisyyttä
 
 13. ⟪अतिस्तीर्षम्⟫ - ⟪स्तॄ⟫ 5/9U Desid. 1.sg.Impf.P toivon levittää
 
@@ -50,9 +50,9 @@ B) Määritä ja käännä seuraavat muodot ilman apuvälineitä:
 
 18. ⟪रुरुषिषुः⟫ - ⟪रुरुषिषु⟫ (desideratiivista verbistä ⟪रुष्⟫ 4/10P) Nom.sg.m. yksi, joka haluaa vihastua
 
-19. ⟪अपिप्रीणताम्⟫ - ⟪प्री⟫ 9U Kaus. 3.du.Aor(3).P he kaksi saattoivat rakastaa <!-- TODO: Fallback translation -->
+19. ⟪अपिप्रीणताम्⟫ - ⟪प्री⟫ 9U Kaus. 3.du.Aor(3).P he kaksi saattoivat rakastaa
 
-20. ⟪अपिप्रीषतम्⟫ - ⟪प्री⟫ 9U Desid. 2.du.Impf.P te kaksi toivoitte rakastaa <!-- TODO: Fallback translation -->
+20. ⟪अपिप्रीषतम्⟫ - ⟪प्री⟫ 9U Desid. 2.du.Impf.P te kaksi toivoitte rakastaa
 
 21. ⟪पिप्रियतुः⟫ - ⟪प्री⟫ 9U 3.du.Perf.P he kaksi ovat rakastaneet
 
@@ -64,27 +64,27 @@ B) Määritä ja käännä seuraavat muodot ilman apuvälineitä:
 
 25. ⟪बभासाते⟫ - ⟪भास्⟫ 1Ā 3.du.Perf.Ā he kaksi loistivat
 
-26. ⟪बिभासिषेथे⟫ - ⟪भास्⟫ 1Ā Desid. 2.du.Ind.Präs.Ā te kaksi haluatte loistaa <!-- TODO: Fallback translation -->
+26. ⟪बिभासिषेथे⟫ - ⟪भास्⟫ 1Ā Desid. 2.du.Ind.Präs.Ā te kaksi haluatte loistaa
 
 27. ⟪अबीभणत⟫ - ⟪भण्⟫ 1P Kaus. 2.pl.Aor(3).P te olette saattaneet kuvata
 
-28. ⟪चकर्त⟫ - ⟪कृत्⟫ 6P 1.3.sg.Perf.P minä olen / hän on leikannut <!-- TODO: Fallback translation -->
+28. ⟪चकर्त⟫ - ⟪कृत्⟫ 6P 1.3.sg.Perf.P minä olen / hän on leikannut
 
 29. ⟪चकर्थ⟫ - ⟪कृ⟫ 8U 2.sg.Perf.P sinä olet tehnyt
 
-30. ⟪दिद्युते⟫ - ⟪द्युत्⟫ 1Ā 1.3.sg.Perf.Ā minä olen / hän on loistanut <!-- TODO: Fallback translation -->
+30. ⟪दिद्युते⟫ - ⟪द्युत्⟫ 1Ā 1.3.sg.Perf.Ā minä olen / hän on loistanut
 
-31. ⟪दिद्युतिषे⟫ - ⟪द्युत्⟫ 1Ā Desid. 1.sg.Ind.Präs.Ā minä toivon loistaa <!-- TODO: Fallback translation -->
+31. ⟪दिद्युतिषे⟫ - ⟪द्युत्⟫ 1Ā Desid. 1.sg.Ind.Präs.Ā minä toivon loistaa
 
 32. ⟪चुच्यूषवे⟫ - ⟪चुच्यूषु⟫ (desideratiivista verbistä ⟪च्यु⟫ 1Ā) Dat.sg.m.n. sille, joka haluaa liikkua
 
-33. ⟪दित्सामि⟫ - ⟪दा⟫ 3U Desid. 1.sg.Ind.Präs.P minä toivon antaa <!-- TODO: Fallback translation -->
+33. ⟪दित्सामि⟫ - ⟪दा⟫ 3U Desid. 1.sg.Ind.Präs.P minä toivon antaa
 
-34. ⟪अचीकृतम्⟫ - ⟪कॄत्⟫ 10P 1.sg.Aor(3).P minä olen ylistänyt ; ⟪कृत्⟫ 6P Kaus. 1.sg.Aor(3).P minä saattoin leikata <!-- TODO: Fallback translation -->
+34. ⟪अचीकृतम्⟫ - ⟪कॄत्⟫ 10P 1.sg.Aor(3).P minä olen ylistänyt ; ⟪कृत्⟫ 6P Kaus. 1.sg.Aor(3).P minä saattoin leikata
 
 35. ⟪विजिगीषौ⟫ - ⟪विजिगीषु⟫ (desideratiivista verbistä ⟪वि⟫-⟪जि⟫) Lok.sg.m.n. valloittajan toivon äärellä
 
-36. ⟪पित्सेथे⟫ -⟪पद्⟫ 4Ā Desid. 2.du.Ind.Präs.Ā te kaksi toivotte astua <!-- TODO: Fallback translation -->
+36. ⟪पित्सेथे⟫ -⟪पद्⟫ 4Ā Desid. 2.du.Ind.Präs.Ā te kaksi toivotte astua
 
 
 37. ⟪उदीचि⟫ - ⟪उदञ्च्⟫ 3 Lok.sg.m.n. pohjoisella
@@ -93,19 +93,19 @@ B) Määritä ja käännä seuraavat muodot ilman apuvälineitä:
 
 39. ⟪अतिस्तराव⟫ - ⟪स्तॄ⟫ 5/9U Kaus. 1.kk.Aor(3).P me kaksi annamme kylvää
 
-40. ⟪त्रिलोक्याः⟫ - ⟪त्रिलोकी⟫ f. Ab.Gen.sg. (kolmesta) maailmasta <!-- TODO: Fallback translation -->
+40. ⟪त्रिलोक्याः⟫ - ⟪त्रिलोकी⟫ f. Ab.Gen.sg. (kolmesta) maailmasta
 
 41. ⟪अहः⟫ - ⟪अहन्⟫ n. Nom.Akk.sg. päivä
 
-42. ⟪जग्मुषः⟫ - ⟪जग्मिवांस्⟫ ⟪।⟫ ⟪जगन्वांस्⟫ Part.Perf.P verbille ⟪गम्⟫ 1P Ab.Gen.sg.m.n.Akk.pl.m. joka on mennyt ... <!-- TODO: Fallback translation -->
+42. ⟪जग्मुषः⟫ - ⟪जग्मिवांस्⟫ ⟪।⟫ ⟪जगन्वांस्⟫ Part.Perf.P verbille ⟪गम्⟫ 1P Ab.Gen.sg.m.n.Akk.pl.m. joka on mennyt ...
 
 43. ⟪अताप्स्व⟫ - ⟪तप्⟫ 1P 1.kkAor(4).P me kaksi loistimme
 
-44. ⟪ईशिशिषाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Desid. 1.3.sg.PeriphPerf.Ā minä / hän toivoi hallita <!-- TODO: Fallback translation -->
+44. ⟪ईशिशिषाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Desid. 1.3.sg.PeriphPerf.Ā minä / hän toivoi hallita
 
 45. ⟪ईशाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā 1.3.sg.PeriphPerf.ġ minä / hän hallitsi
 
-46. ⟪ईशयाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Kaus. 1.3.sg.PeriphPerf.ġ minä / hän antoi hallita oman edun nimissä <!-- TODO: Fallback translation -->
+46. ⟪ईशयाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Kaus. 1.3.sg.PeriphPerf.ġ minä / hän antoi hallita oman edun nimissä
 
 47. ⟪षण्णाम्⟫ - ⟪षष्⟫ Gen. kuusi
 

@@ -5,7 +5,7 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 2
 
@@ -72,7 +72,7 @@ Em sânscrito, o final de uma palavra também depende do início da palavra segu
 
 Consulte também a visão geral:
 
-> **Payer, Alois \<1944 - \>:** Sandhi do -s final. -- (Materiais para o Sânscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm <!-- TODO: Fallback translation -->
+> **Payer, Alois \<1944 - \>:** Sandhi do -s final. -- (Materiais para o Sânscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 **-s** final:
 

@@ -42,7 +42,7 @@ status: stable
 > Ον. πληθ. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > κ.ο.κ.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
 :::
 ## 15.3. Προσδιοριστικά σύνθετα με επιθετικό / παραθετικό πρώτο συνθετικό = Karmadhāraya αρσ. = ⟪कर्मधारय⟫
@@ -71,7 +71,7 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
 *   εάν ένα Κarmadhāraya εκφράζει μια ΣΥΓΚΡΙΣΗ, τότε αυτό με το οποίο γίνεται η σύγκριση βρίσκεται στο δεύτερο μέρος της σύνθετης λέξης:
 
@@ -582,18 +582,5 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 ![](/images/lekt1509.webp)
 Εικ.: ⟪नागदेवाः⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt1509))
-:::
-
-::: deleteme-box
-
-- **Εικ.: ⟪लक्ष्मी⟫** (Λάξμι): Πίνακας του ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο.
-- **Εικ.: ⟪नरसिंहः⟫** (Ναράσιμχα): Μπελούρ (ಬೇಲೂರು), Καρνάτακα (ಕರ್ನಾಟಕ). Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο.
-- **Διάγραμμα** (lekt1502.jpg): Διάγραμμα ανάλυσης σύνθετων λέξεων. Πηγή εικόνας: Alois Payer / Αρχική γραφική παράσταση μαθήματος.
-- **Εικ.: ⟪पूजा⟫** (Πούτζα): Απονομή τελετής Πούτζα στο Κακινάντα (కాకినాడ), Άντρα Πραντές (ఆంధ్ర ప్రదేశ్), Ινδία. Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο.
-- **Εικ.:  ⟪इन्द्रः⟫** (Ίντρα): Φύλλο από ένα Παντσκαλιανάκα, Ρατζαστάν, Άμπερ. Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο.
-- **Εικ.: ⟪सिंहः⟫** (Λέοντας): Panthera leo persica. Πηγή εικόνας: Wikipedia, GNU FDLicense.
-- **Εικ.: ⟪व्याघ्रः⟫** (Τίγρης): Εθνικό Πάρκο Μπαντχάγκαρ (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Πηγή εικόνας: U.S. Fish and Wildlife Service / Wikipedia, Δημόσιο πεδίο.
-- **Εικ.: ⟪ग्रामदेवता⟫** (Γκαραντεβάτα): Κύριος Βιρπανάθ @ χωριό Πασβαντάλ, Βάνταγκμ, Γκουτζαράτ, Ινδία. Πηγή εικόνας: ganuullu (Flickr), Άδεια Creative Commons.
-- **Εικ.: ⟪नागदेवाः⟫** (Ναγκαδεβάτα): Χάμπι (ಹಂಪೆ), Καρνάτακα (ಕರ್ನಾಟಕ). Πηγή εικόνας: Dineshkannambadi / Wikipedia, GNU FDLicense.
 :::
 

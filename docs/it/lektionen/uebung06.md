@@ -419,7 +419,7 @@ E) Tradurre:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. &lt;!-- TODO: Fallback translation --&gt;
+Annapūrṇā ist eine Gottheit. &lt;!--  --&gt;
 
 2\. śūdretarā.
 

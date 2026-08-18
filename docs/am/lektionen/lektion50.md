@@ -291,23 +291,4 @@ B) ይተርጉሙ፡
 ማብራሪያዎች:
 ⟪निषेकादीनि⟫ : ስም.ተሳቢ.ብዙ.ገለልተኛ
 :::
-::: deleteme-box
-
-**lekt5007:** ምስል: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [የምስል ምንጭ: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- የተገኘው በ 2009-01-12. -- [የክሪኤቲቭ ኮመንስ ፈቃድ](http://creativecommons.org/licenses/by/2.0/deed.de) (ባለቤትነትን መጥቀስ)]
-
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [የምስል ምንጭ: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- የተገኘው በ 2009-01-12. -- [የክሪኤቲቭ ኮመንስ ፈቃድ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ ምንም ዓይነት ማሻሻያ የሌለበት)]
-
-**lekt5001:** Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [የምስል ምንጭ: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- የተገኘው በ 2009-01-12. -- [የክሪኤቲቭ ኮመንስ ፈቃድ](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ባለቤትነትን መጥቀስ፣ በተመሳሳይ መልኩ አጋራ)]
-
-**lekt5002:** የክረምት መምጣት፣ ባንጋሎር ಬೆಂಗಳೂರು [የምስል ምንጭ: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- የተገኘበት ቀን 2009-01-12. -- [የክሬቲቭ ኮመንስ ፈቃድ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ስም መጥቀስ፣ ለንግድ ያልሆነ፣ ምንም አይነት ለውጥ አለማድረግ)]
-
-**lekt5005:** [የምስል ምንጭ: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- የተገኘበት ቀን 2009-01-12. -- [የክሬቲቭ ኮመንስ ፈቃድ](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ስም መጥቀስ፣ በተመሳሳይ መልኩ ማጋራት)]
-
-**lekt5003:** [የምስል ምንጭ: dhyanji. -- [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- የተገኘበት ቀን 2009-01-12. -- [የክሬቲቭ ኮመንስ ፈቃድ](http.creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ስም መጥቀስ፣ ለንግድ ያልሆነ፣ ምንም አይነት ለውጥ አለማድረግ)]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [የምስል ምንጭ: Kounosu / Wikipedia. GNU FDLicense]
-
-**lekt5008:** Ganeshpuri፣ ከሙምባይ (⟪मुंबई⟫) 80 ኪ.ሜ. ርቀት ላይ [የምስል ምንጭ፦ ዴይ። -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- የተገኘው በ2009-01-13 ነው። -- [ክሪኤቲቭ ኮመንስ ፈቃድ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ በተመሳሳይ መልኩ ማጋራት)]
-
-:::
 

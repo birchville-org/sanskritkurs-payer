@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: "Configuraziuns"
+title: "Impostaziuns"
 
 ---
 

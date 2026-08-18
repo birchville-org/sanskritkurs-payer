@@ -636,24 +636,3 @@ C) 翻译成梵文：
 （图片来源：[详情](/zh-CN/licenses#lekt3210)）
 :::
 
-::: deleteme-box
-
-**lekt3202:** Mangobaum, Kanpur。[图片来源：AmarChandra / 维基百科。CC BY-SA]
-
-**lekt3203:** 猴子（恒河猴）在德里。[图片来源：dewalt / Flickr。CC BY-NC-SA]
-
-**lekt3204:** 浦那南部的采石场，马哈拉施特拉邦。[图片来源：lecercle / Flickr. CC BY-NC-SA]
-
-**lekt3205:** 靶场练习 / 箭靶，卡纳塔克邦。[图片来源：mattlogelin / Flickr。CC BY-NC]
-
-**lekt3207:** 在拉贾斯坦邦燃烧的牛粪饼。[图片来源：thebigdurian / Flickr。CC BY-NC-SA]
-
-**lekt3206:** 孟买的 Mehndi（海娜）手绘。[图片来源：the_gman / Flickr. CC BY-NC-SA]
-
-**lekt3208:** 斯里兰卡的佛教僧侣。[图片来源：Trollderella / Wikipedia。GNU FDL]
-
-**lekt3209：** 印度问候/告别。[图片来源：dhyanji / Flickr。CC BY-NC-ND]
-
-**lekt3210:** 芒果树上的猴子。[图片来源：维基百科。GNU FDL]
-:::
-

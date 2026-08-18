@@ -2,10 +2,6 @@
 outline: 2
 ---
 
-::: deleteme-box
-**Quelle & Urheberrecht**
-
-:::
 
 # Glossar Sanskrit–EL
 
@@ -101,7 +97,7 @@ outline: 2
 | ⟪आयुर्वेद⟫ | [āyurveda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āyurveda&filter=roman&accent=no&transLit=roman) | — | το παραδοσιακό ιατρικό σύστημα της Ινδίας | [49](/el/lektionen/lektion49#_49-4-) |
 | ⟪आयुस्⟫ | [āyus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āyus&filter=roman&accent=no&transLit=roman) | — | διάρκεια ζωής (η πλήρης διάρκεια ζωής, που μπορεί κανείς να ζήσει, εφόσον δεν συμβεί κάτι ενδιάμεσο)  | [49](/el/lektionen/lektion49#_49-4-) |
 | ⟪आर्य⟫ | [ārya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ārya&filter=roman&accent=no&transLit=roman) | 3 | αριακός, ευγενικός· m. Άριος (αυτοπροσδιορισμός των αρχικών Ινδών που μιλούσαν σανσκρίτα, κυριολεκτικά: φιλόξενος (Thiem | [15](/el/lektionen/lektion15#_15-8-) |
-| ⟪आश्रम⟫ | [āśrama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āśrama&filter=roman&accent=no&transLit=roman) | m | Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als , , und evtl. als ; siehe Basham, Wonder S. 159f.) <!-- TODO: F | [20](/el/lektionen/lektion20#_20-9-) |
+| ⟪आश्रम⟫ | [āśrama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āśrama&filter=roman&accent=no&transLit=roman) | m | Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als , , und evtl. als ; siehe Basham, Wonder S. 159f.) | [20](/el/lektionen/lektion20#_20-9-) |
 | ⟪आसन⟫ | [āsana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āsana&filter=roman&accent=no&transLit=roman) | — | η καθιστική θέση, έδρα· επίσης: θέσεις καθίσματος του γιόγκι | [17](/el/lektionen/lektion17#_17-6-) |
 | ⟪आस्⟫ | [ās](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ās&filter=roman&accent=no&transLit=roman) | — | κάθομαι | [17](/el/lektionen/lektion17#_17-6-) |
 

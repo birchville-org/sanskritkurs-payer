@@ -86,7 +86,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 :::
 ---
 
-## Syntaktische Variationen <!-- TODO: Fallback translation -->
+## Syntaktische Variationen
 
 [C) در جملات B) ۱-۴، حالت‌های مفعولی را با مصدرها جایگزین کنید (⟪तुमुन्⟫):
 
@@ -106,7 +106,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ---
 
-## Zusätzliche Übersetzungsübungen <!-- TODO: Fallback translation -->
+## Zusätzliche Übersetzungsübungen
 
 ۱. خدایی که به او قربانی نشده باشد، از مردم خشمگین می‌شود.
 **⟪अनिष्टदेवी⟫ ⟪नरेभ्यः⟫ ⟪क्रुध्यति⟫ ⟪।⟫ (یا: ⟪कुप्यति⟫ ⟪॥⟫)**
@@ -121,7 +121,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 **⟪एतद्ब्राह्मणाय⟫ ⟪सुखम्⟫ ⟪।⟫ (یا: ⟪हितम्⟫ ⟪॥⟫)**
 
 5\. Verehrung sei Śiva! Verehrung sei Śrī Gaṇeśa!
-**⟪शिवाय⟫ ⟪नमः⟫ ⟪।⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪शिवाय⟫ ⟪नमः⟫ ⟪।⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪॥⟫**
 
 ۶. خداحافظ! (برایتان خیر باشد!)
 **⟪स्वस्ति⟫ ⟪भवते⟫ ⟪।⟫ (یا: ⟪भवद्भ्यः⟫ / ⟪भवत्यै⟫ / ⟪भवतीभ्यः⟫ ⟪॥⟫)**
@@ -133,7 +133,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 **⟪शक्तो⟫ ⟪योधो⟫ ⟪योधाय⟫ ⟪॥⟫**
 
 9\. Selbst Viṣṇu übertrifft Śiva nicht.
-**⟪विष्णुरपि⟫ ⟪शिवाय⟫ ⟪न⟫ ⟪प्रभवति⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪विष्णुरपि⟫ ⟪शिवाय⟫ ⟪न⟫ ⟪प्रभवति⟫ ⟪॥⟫**
 
 ۱۰. پس از آنکه به سه حکیم تعظیم کردم... او در برابر ناراسیما تعظیم می‌کند.
 **⟪मुनित्रयं⟫ ⟪नमस्कृत्य⟫... ⟪।⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫ ⟪॥⟫**

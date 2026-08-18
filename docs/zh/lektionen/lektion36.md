@@ -12,9 +12,9 @@ status: stable
 ## 36.1. Besondere Bildungen des Perfekts
 
 ::: grammar-box
-1\. Einige Wurzeln zeigen nach der Reduplikationssilbe eine Veränderung des Wurzelanlauts. <!-- TODO: Fallback translation -->
+1\. Einige Wurzeln zeigen nach der Reduplikationssilbe eine Veränderung des Wurzelanlauts.
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 | Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫*:sig[⟪घा⟫]*⟪न⟫ | ⟪ज⟫*:sig[⟪घ्नु⟫]*⟪र्⟫ | | |
 
 ::: grammar-box
-2\. Die Wurzel ⟪विद्⟫ 2P "wissen" hat ein Perfekt mit präsentischer Bedeutung. <!-- TODO: Fallback translation -->
+2\. Die Wurzel ⟪विद्⟫ 2P "wissen" hat ein Perfekt mit präsentischer Bedeutung.
 :::
 ::: grammar-box
 | Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
@@ -31,7 +31,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 | **⟪विद्⟫** 2P | ⟪वेद⟫ :brer/sie/es weiss | ⟪विदुर्⟫ :brsie wissen |
 :::
 ::: grammar-box
-3\. Die Wurzel ⟪अह्⟫ "sagen" hat nur Perfektformen (Perfekt I). Diese haben präsentische Bedeutung. <!-- TODO: Fallback translation -->
+3\. Die Wurzel ⟪अह्⟫ "sagen" hat nur Perfektformen (Perfekt I). Diese haben präsentische Bedeutung.
 :::
 ::: grammar-box
 | Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
@@ -39,7 +39,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brer/sie/es sagt | ⟪आहुर्⟫ :brsie sagen |
 :::
 ::: grammar-box
-4\. Die Wurzel ⟪भू⟫ 1P hat den Perfektstamm ⟪बभू⟫, vor Vokalen ⟪बभूव्⟫. <!-- TODO: Fallback translation -->
+4\. Die Wurzel ⟪भू⟫ 1P hat den Perfektstamm ⟪बभू⟫, vor Vokalen ⟪बभूव्⟫.
 :::
 ::: grammar-box
 | Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
@@ -49,23 +49,23 @@ Beispiele: <!-- TODO: Fallback translation -->
 ## 36.2. Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫)
 
 ::: grammar-box
-Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫) wird gebraucht: <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫) wird gebraucht:
 
-1. bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa) <!-- TODO: Fallback translation -->
-2. bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten <!-- TODO: Fallback translation -->
-3. bei einigen sonstigen Wurzeln <!-- TODO: Fallback translation -->
+1. bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)
+2. bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten
+3. bei einigen sonstigen Wurzeln
 :::
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-(schwacher) Präsensstamm + -ām + entsprechende Perfektform von ⟪कृ⟫, ⟪अस्⟫ oder ⟪भू⟫ <!-- TODO: Fallback translation -->
+(schwacher) Präsensstamm + -ām + entsprechende Perfektform von ⟪कृ⟫, ⟪अस्⟫ oder ⟪भू⟫
 
-- Auslautender Stammvokal wird vor -ām guṇiert. <!-- TODO: Fallback translation -->
-- ⟪अस्⟫ und ⟪भू⟫ werden auch bei Ātmanepada-Verben im Parasmaipada konjugiert. <!-- TODO: Fallback translation -->
+- Auslautender Stammvokal wird vor -ām guṇiert.
+- ⟪अस्⟫ und ⟪भू⟫ werden auch bei Ātmanepada-Verben im Parasmaipada konjugiert.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 | Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -75,19 +75,19 @@ Beispiele: <!-- TODO: Fallback translation -->
 ## 36.3. Perfekt 被动语态
 
 ::: grammar-box
-Im Perfekt werden für das Passiv die Formen des Ātmanepada verwendet. Bevorzugt wird demgegenüber die Verwendung des PPP. Die Konstruktion ist in beiden Fällen die der Passivsätze: <!-- TODO: Fallback translation -->
+Im Perfekt werden für das Passiv die Formen des Ātmanepada verwendet. Bevorzugt wird demgegenüber die Verwendung des PPP. Die Konstruktion ist in beiden Fällen die der Passivsätze:
 
 :::
 ::: indent
-⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = "Er tat ein verdienstvolles Werk" <!-- TODO: Fallback translation -->
+⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = "Er tat ein verdienstvolles Werk"
 :::
 ## 36.4. 词汇表
 
-⟪अह्⟫ P nur Perfekt mit Präsensbedeutung ⟪आह⟫, ⟪आहुर्⟫ : sagen, sprechen <!-- TODO: Fallback translation -->
+⟪अह्⟫ P nur Perfekt mit Präsensbedeutung ⟪आह⟫, ⟪आहुर्⟫ : sagen, sprechen
 
-⟪अह्⟫ ⟪प्र⟫ P nur Perfekt mit Präsensbedeutung ⟪प्राह⟫ : sagen, sprechen <!-- TODO: Fallback translation -->
+⟪अह्⟫ ⟪प्र⟫ P nur Perfekt mit Präsensbedeutung ⟪प्राह⟫ : sagen, sprechen
 
-⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : sehen, (er)blicken, betrachten <!-- TODO: Fallback translation -->
+⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : sehen, (er)blicken, betrachten
 
 ::: indent
 Perf. ⟪ईक्षां⟫ ⟪चक्रे⟫  
@@ -95,9 +95,9 @@ Fut. ⟪ईक्षिष्यते⟫
 Pass. ⟪ईक्ष्यते⟫  
 Kaus. ⟪ईक्षयति⟫  
 PPP ⟪ईक्षित⟫  
-Inf. ⟪ईक्षितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪ईक्षितुम्⟫
 :::
-⟪चि⟫ 5U ⟪चिनोति⟫ : aufschichten, sammeln <!-- TODO: Fallback translation -->
+⟪चि⟫ 5U ⟪चिनोति⟫ : aufschichten, sammeln
 
 ::: indent
 Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
@@ -105,15 +105,15 @@ Fut. ⟪चेष्यति⟫
 Pass. ⟪चीयते⟫  
 Kaus. ⟪चाययति⟫ ⟪।⟫ ⟪चापयति⟫  
 PPP ⟪चित⟫  
-Inf. ⟪चेतुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3601.webp)
 Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫
-(Bildquelle: [Details](/licenses#lekt3601)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3601))
 :::
 
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : schreiten, gehen, weggehen <!-- TODO: Fallback translation -->
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : schreiten, gehen, weggehen
 
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -121,62 +121,62 @@ Fut. ⟪व्रजिष्यति⟫
 Pass. ⟪व्रज्यते⟫  
 Kaus. ⟪व्राजयति⟫  
 PPP ⟪व्रजित⟫  
-Inf. ⟪व्रजितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪व्रजितुम्⟫
 :::
-⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : weggehen (insbes. aus dem Heim in die Heimlosigkeit als Asket = ein Mönch werden) <!-- TODO: Fallback translation -->
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : weggehen (insbes. aus dem Heim in die Heimlosigkeit als Asket = ein Mönch werden)
 
-⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: Haus, Heim <!-- TODO: Fallback translation -->
+⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: Haus, Heim
 
 ::: media
 ![](/images/lekt3602.webp)
 Abb.: ⟪अगारम्⟫
-(Bildquelle: [Details](/licenses#lekt3602)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3602))
 :::
 
 ::: indent
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: Heimlosigkeit eines buddhistischen Mönchs oder Novizen <!-- TODO: Fallback translation -->
+⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: Heimlosigkeit eines buddhistischen Mönchs oder Novizen
 :::
 ::: media
 ![](/images/lekt3603.webp)
 Abb.: ⟪अनगार्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3603)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3603))
 :::
-⟪अञ्जलि⟫ m.: Die beiden zur Ehrerbietung hoch zusammengelegten Hände <!-- TODO: Fallback translation -->
+⟪अञ्जलि⟫ m.: Die beiden zur Ehrerbietung hoch zusammengelegten Hände
 
-⟪आदृत⟫ 3: geachtet <!-- TODO: Fallback translation -->
+⟪आदृत⟫ 3: geachtet
 
-⟪उपाध्याय⟫ m.: Lehrer <!-- TODO: Fallback translation -->
+⟪उपाध्याय⟫ m.: Lehrer
 
-⟪पृथिवी⟫ f.: Erde <!-- TODO: Fallback translation -->
+⟪पृथिवी⟫ f.: Erde
 
-⟪पृष्ठ⟫ n: Rücken, Rückseite <!-- TODO: Fallback translation -->
+⟪पृष्ठ⟫ n: Rücken, Rückseite
 
 ::: indent
-⟪पृष्ठम्⟫ : hinter <!-- TODO: Fallback translation -->
+⟪पृष्ठम्⟫ : hinter
 :::
-⟪प्रजापति⟫ m.: Herr der Geschöpfe, Schöpfergott <!-- TODO: Fallback translation -->
+⟪प्रजापति⟫ m.: Herr der Geschöpfe, Schöpfergott
 
-⟪अनु⟫ Präverb: nach, entlang, über - hin, längs, gemäß, hinzu, hinter - her <!-- TODO: Fallback translation -->
+⟪अनु⟫ Präverb: nach, entlang, über - hin, längs, gemäß, hinzu, hinter - her
 
 ::: indent
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 
-⟪अनुकृ⟫ : nachahmen, nachmachen <!-- TODO: Fallback translation -->
+⟪अनुकृ⟫ : nachahmen, nachmachen
 
-⟪अनुगम्⟫ : jemandem nachgehen, entlanggehen <!-- TODO: Fallback translation -->
+⟪अनुगम्⟫ : jemandem nachgehen, entlanggehen
 :::
-⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an <!-- TODO: Fallback translation -->
+⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
 
 ::: indent
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 
-⟪अभिगम्⟫ : hingehen, sich nähern <!-- TODO: Fallback translation -->
+⟪अभिगम्⟫ : hingehen, sich nähern
 
-⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : formell begrüßen, anreden <!-- TODO: Fallback translation -->
+⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : formell begrüßen, anreden
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : Widerwillen empfinden, dahinschwinden <!-- TODO: Fallback translation -->
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : Widerwillen empfinden, dahinschwinden
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
@@ -185,9 +185,9 @@ Pass. ⟪ग्लायते⟫
 Kaus. ⟪ग्लापयति⟫ ⟪।⟫ ⟪ग्लपयति⟫  
 PPP ⟪ग्लान⟫  
 Inf. ⟪ग्लातुम्⟫  
-Absol. -⟪ग्लाय⟫ <!-- TODO: Fallback translation -->
+Absol. -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P ***:sig[⟪जिघ्रति⟫]*** : etwas riechen <!-- TODO: Fallback translation -->
+⟪घ्रा⟫ 1P ***:sig[⟪जिघ्रति⟫]*** : etwas riechen
 
 ::: indent
 Perf. IV ⟪जघ्रौ⟫  
@@ -196,11 +196,11 @@ Pass. ⟪घ्रायते⟫
 Kaus. ⟪घ्रापयति⟫  
 PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫  
 Inf. ⟪घ्रातुम्⟫  
-Absol. -⟪घ्राय⟫ <!-- TODO: Fallback translation -->
+Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : ergötzen, erfreuen; lieben, jemandem geneigt sein <!-- TODO: Fallback translation -->
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : ergötzen, erfreuen; lieben, jemandem geneigt sein
 
-⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : sich freuen <!-- TODO: Fallback translation -->
+⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : sich freuen
 
 ::: indent
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
@@ -208,9 +208,9 @@ Fut. ⟪प्रेष्यति⟫
 Pass. ⟪प्रीयते⟫  
 Kaus. ***:sig[⟪प्रीणयति⟫]***  
 PPP ⟪प्रीत⟫  
-Inf. ⟪प्रेतुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪प्रेतुम्⟫
 :::
-⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : berühren <!-- TODO: Fallback translation -->
+⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : berühren
 
 ::: indent
 Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
@@ -219,45 +219,45 @@ Pass. ⟪स्पृश्यते⟫
 Kaus. ⟪स्पर्शयति⟫  
 PPP ⟪स्पृष्ट⟫  
 Inf. ⟪स्पर्ष्तुम्⟫ ⟪।⟫ ⟪स्प्रष्तुम्⟫  
-Absol. -⟪स्पृश्य⟫ <!-- TODO: Fallback translation -->
+Absol. -⟪स्पृश्य⟫
 :::
 ::: media
 ![](/images/lekt3606.webp)
 Abb.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
-(Bildquelle: [Details](/licenses#lekt3606)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3606))
 :::
-⟪हृष्⟫ 4P ⟪हृष्यति⟫ : starr werden: sich sträuben (Haare), sich freuen über (Instr., Akk., Lok.) <!-- TODO: Fallback translation -->
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : starr werden: sich sträuben (Haare), sich freuen über (Instr., Akk., Lok.)
 
 ::: indent
 Perf II ⟪जहर्ष⟫  
 Fut. ⟪हर्षिष्यति⟫  
 Pass. ⟪हृष्यते⟫  
 Kaus. ⟪हर्षयति⟫  
-PPP ⟪हृषित⟫ <!-- TODO: Fallback translation -->
+PPP ⟪हृषित⟫
 :::
 ::: media
 ![](/images/lekt3604.webp)
 Abb.: ⟪लोमहर्षः⟫
-(Bildquelle: [Details](/licenses#lekt3604)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3604))
 :::
 
-⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger <!-- TODO: Fallback translation -->
+⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger
 
 ## 36.5. 练习
 
-A) Folgende Wurzeln haben sowohl redupliziertes wie periphrastisches Perfekt. Bilden Sie zu folgenden Formen die entsprechenden periphrastischen und reduplizierten Perfektformen: <!-- TODO: Fallback translation -->
+A) Folgende Wurzeln haben sowohl redupliziertes wie periphrastisches Perfekt. Bilden Sie zu folgenden Formen die entsprechenden periphrastischen und reduplizierten Perfektformen:
 
 1.  ⟪बिभ्रते⟫
 2.  ⟪बिभ्यति⟫
 3.  ⟪जुहोति⟫
 4.  ⟪वेत्ति⟫
 
-B) Die Wurzel ⟪आस्⟫ "sitzen" hat periphrastisches Perfekt. Bilden sie dieses zu folgenden Formen: <!-- TODO: Fallback translation -->
+B) Die Wurzel ⟪आस्⟫ "sitzen" hat periphrastisches Perfekt. Bilden sie dieses zu folgenden Formen:
 
 1.  ⟪आस्ते⟫
 2.  ⟪आसते⟫
 
-C) Bilden Sie das entsprechende Perfekt zu folgenden Formen: <!-- TODO: Fallback translation -->
+C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
 
 1.  ⟪जीयते⟫
 2.  ⟪विदन्ति⟫
@@ -266,21 +266,21 @@ C) Bilden Sie das entsprechende Perfekt zu folgenden Formen: <!-- TODO: Fallback
 5.  ⟪ऐक्षन्त⟫
 6.  ⟪अगापयत्⟫
 7.  ⟪अपद्यन्त⟫
-8.  ⟪चिनोति⟫ (2 Formen) <!-- TODO: Fallback translation -->
+8.  ⟪चिनोति⟫ (2 Formen)
 9.  ⟪हन्ति⟫
 10.  ⟪प्रभविष्यन्ति⟫
 11.  ⟪क्रामन्ति⟫
 12.  ⟪प्राव्रजन्⟫
 13.  ⟪त्यक्ष्यति⟫
 
-D) Übersetzen Sie: <!-- TODO: Fallback translation -->
+D) Übersetzen Sie:
 
 ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫
 
 ::: media
 ![](/images/lekt3605.webp)
 Abb.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫
-(Bildquelle: [Details](/licenses#lekt3605)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3605))
 :::
 ⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञेन⟫ ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫
 
@@ -400,7 +400,7 @@ Abb.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 
 ## 36.7. 翻译练习
 
-Übersetzen Sie: <!-- TODO: Fallback translation -->
+Übersetzen Sie:
 
 1\. ⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
 
@@ -416,56 +416,56 @@ Abb.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 ⟪अनादृतास्तु⟫ ⟪यस्यैते⟫
 *:sig[⟪सर्वास्त⟫]*⟪स्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫
 
-Erklärungen: <!-- TODO: Fallback translation -->
+Erklärungen:
 
-⟪पितरम्⟫ : Akk. sg. zu ⟪पितृ⟫ m. "Vater" <!-- TODO: Fallback translation -->
+⟪पितरम्⟫ : Akk. sg. zu ⟪पितृ⟫ m. "Vater"
 
-⟪मातरम्⟫ : Akk. sg. zu ⟪मातृ⟫ f. "Mutter" <!-- TODO: Fallback translation -->
+⟪मातरम्⟫ : Akk. sg. zu ⟪मातृ⟫ f. "Mutter"
 
-⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "Absolutes, Veda" <!-- TODO: Fallback translation -->
+⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "Absolutes, Veda"
 
-:sig[⟪सर्वे⟫] : Nom. pl. mask. zu ⟪सर्व⟫ "alle, jeder" <!-- TODO: Fallback translation -->
+:sig[⟪सर्वे⟫] : Nom. pl. mask. zu ⟪सर्व⟫ "alle, jeder"
 
-⟪त्रयस्⟫ : Nom. pl. mask. zu ⟪त्रि⟫ "drei" <!-- TODO: Fallback translation -->
+⟪त्रयस्⟫ : Nom. pl. mask. zu ⟪त्रि⟫ "drei"
 
-⟪सर्वास्⟫ : Nom./Akk. pl. fem. zu ⟪सर्व⟫ "alle, jeder" <!-- TODO: Fallback translation -->
+⟪सर्वास्⟫ : Nom./Akk. pl. fem. zu ⟪सर्व⟫ "alle, jeder"
 :::
 ::: media
 ![](/images/lekt3607.webp)
 Abb.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt3607)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3607))
 :::
-2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ über der rechte Verhalten gegenüber Alten: <!-- TODO: Fallback translation -->
+2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ über der rechte Verhalten gegenüber Alten:
 
 ::: indent
 ⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫
 ⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫
 :::
-3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Wer ein ⟪जितेन्द्रिय⟫ ist: <!-- TODO: Fallback translation -->
+3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Wer ein ⟪जितेन्द्रिय⟫ ist:
 
 ::: indent
 ⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
 ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ *:sig[⟪विज्ञेयो⟫]* ⟪जितेन्द्रियः⟫ ⟪॥⟫
 
-Erklärung: ⟪विज्ञेय⟫ ⟪३⟫: einer, der zu erkennen ist; einer, der zu wissen ist (als) <!-- TODO: Fallback translation -->
+Erklärung: ⟪विज्ञेय⟫ ⟪३⟫: einer, der zu erkennen ist; einer, der zu wissen ist (als)
 :::
-4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ über rechte Verhalten eines Brahmanen: <!-- TODO: Fallback translation -->
+4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ über rechte Verhalten eines Brahmanen:
 
 ::: indent
 ⟪नापृष्टः⟫ ⟪कस्यचिद्ब्रूयान्न⟫ ⟪चान्यायेन⟫ ⟪पृच्छतः⟫ ⟪।⟫
 ⟪जानन्नपि⟫ ⟪हि⟫ ⟪मेधावी⟫ ⟪जडवल्लोक⟫ ⟪आचरेत्⟫ ⟪॥⟫
 
-Erklärungen: <!-- TODO: Fallback translation -->
+Erklärungen:
 
-In diesem Vers ist ⟪ब्रू⟫ mit dem Genetiv konstruiert <!-- TODO: Fallback translation -->
+In diesem Vers ist ⟪ब्रू⟫ mit dem Genetiv konstruiert
 
-⟪मेधावी⟫ : Nom. sg. mask. zu ⟪मेधाविन्⟫ ⟪३⟫ "verständig, klug" <!-- TODO: Fallback translation -->
+⟪मेधावी⟫ : Nom. sg. mask. zu ⟪मेधाविन्⟫ ⟪३⟫ "verständig, klug"
 
-⟪जडवत्⟫ Adv. "In der Art eines Starren/Stumpfen/Dummen" <!-- TODO: Fallback translation -->
+⟪जडवत्⟫ Adv. "In der Art eines Starren/Stumpfen/Dummen"
 :::
 ## 36.8. Wiederholungsübung zur Formenlehre
 
-Bestimmen und übersetzen Sie folgende Wortformen auf alle möglichen Weisen: <!-- TODO: Fallback translation -->
+Bestimmen und übersetzen Sie folgende Wortformen auf alle möglichen Weisen:
 
 1.  ⟪नयति⟫
 2.  ⟪समस्कुर्वन्⟫
@@ -508,13 +508,3 @@ Bestimmen und übersetzen Sie folgende Wortformen auf alle möglichen Weisen: <!
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫  Udaipur = ⟪उदयपुर⟫ [Bildquelle: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Zugriff am  2008-12-28. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
-- **lekt3602.jpg**: Abb.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Bildquelle: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Zugriff am  2008-12-28. --   Creative  Commons Lizenz (Namensnennung, shere alike)] <!-- TODO: Fallback translation -->
-- **lekt3603.jpg**: Abb.: ⟪अनगार्यम्⟫ 	Nordostthailand = อีสาน 	[Bildquelle: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Zugriff am  	2008-12-28. --  	 	Creative  	Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine  	Bearbeitung)] <!-- TODO: Fallback translation -->
-- **lekt3604.jpg**: Abb.: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. Körperhaar) [Bildquelle: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Zugriff am 2008-12-29.  --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ Gandhara, 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-- **lekt3606.jpg**: Abb.:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫Mudrā [Bildquelle: Payer] <!-- TODO: Fallback translation -->
-- **lekt3607.jpg**: Abb.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Bildquelle: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Zugriff am  2008-12-29. --   Creative  Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-:::

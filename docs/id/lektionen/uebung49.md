@@ -1,8 +1,9 @@
 ---
 title: "Latihan 49"
 uebung_id: 49
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

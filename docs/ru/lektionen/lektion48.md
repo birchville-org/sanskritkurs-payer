@@ -380,23 +380,3 @@ B) Переведите на санскрит (используйте повел
 Пояснение:  
 ⟪द्वयोर्हि कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual к ⟪द्वे कुले⟫ "две семьи"
 
-::: deleteme-box
-
-**lekt4801:** [Источник изображения: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Дата обращения: 10.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, NonCommercial, ShareAlike)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Источник изображения: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Дата обращения: 10.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, NonCommercial, ShareAlike)]
-
-**lekt4803:** Игрок на ситаре = ⟪सितारवादकः⟫ [Источник изображения: Википедия. Общественное достояние]
-
-**lekt4804:** [Группа самопомощи (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Тамилнад = தமிழ்நாடு [Источник изображения: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Дата обращения: 10.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Указание авторства, некоммерческое использование)]
-
-**lekt4805:** Праздник Тайпусам = தைப்பூசம், Бату-Кавес, Малайзия [Источник изображения: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Дата обращения: 10.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Указание авторства)]
-
-**lekt4806:** ⟪नेपाल⟫ [Источник изображения: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Дата обращения: 10.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Указание авторства, некоммерческое использование, без производных произведений)]
-
-**lekt4807:** ⟪जोधपुर⟫ [Источник изображения: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Дата обращения: 10.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Указание авторства, некоммерческое использование, без производных произведений)]
-
-**lekt4808:** Озеро Каранджи = ಕಾರಂಜಿ ಕೆರೆ [Источник изображения: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Дата обращения: 10.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Указание авторства, сохранение условий)]
-
-**lekt4809:** (Изображение: Пайер)
-:::

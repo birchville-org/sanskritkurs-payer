@@ -1,11 +1,8 @@
 ---
-ዝርዝር: 2
+outline: 2
+
 ---
 
-::: deleteme-box
-**Zitierweise & Rechte**
-
-:::
 # የቃላት ዝርዝር (Gesamtübersicht)
 
 *Alle neuen Wörter aus dem Kurs in der Reihenfolge ihrer Einführung, mit thematischen Erläuterungen.*
@@ -66,57 +63,57 @@ Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier St
 
 ::: media
 ![](/images/lekt0201.webp)
-Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
-(Bildquelle: [Details](/licenses#lekt0201))
+ስዕል፡ የአውሮፓ መካከለኛ ዘመን የሶስት ምድብ ስርዓት ምስል (ከ15ኛው ክፍለ ዘመን መጨረሻ የዛፍ ስዕል)።
+(የድምጽ ምንጭ፡ [ዝርዝር](/licenses#lekt0201))
 :::
-**Beschriftung:**
-- **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend!
-- **Adelsstand** (~Kṣatriya): Tu protege = Du schütze!
-- **Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite!
+**መግለጫ፡**
+**የአባቶች ምድብ** (~Brāhmaṇa)፡ Tu supplex ora = አምልክ!
+**የወርድ ምድብ** (~Kṣatriya)፡ Tu protege = ጠብቅ!
+**የገበሬ ምድብ** (~Vaiśya/Śūdra)፡ Tuque labora = ሥራ ሥራ!
 
-Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
+ሶስቱ ምድቦች የራሳቸውን የምድብ ልብስ ይዘዋል። ከላይ - በዚህም እንደ ጌታ ምክር የተጠቀሰው - ክርስቶስ ይቀመጣል።
 
-Max Weber \<1864 – 1920\> definiert Stand so:
+ማክስ ቬበር (1864–1920) ምድብን እንደሚከተለው ይገልጻል፡
 
 ::: note-box
-»**Stand**« soll eine Vielheit von Menschen heissen, die innerhalb eines Verbandes wirksam
-a) eine ständische Sonderschätzung, - eventuell also auch
-b) ständische Sondermonopole in Anspruch nehmen.
+»**ምድብ**« የሚለው ቃል የሰዎች ብዛት ማለት ነው፣ በአንድ ማህበር ውስጥ
+a) የምድብ ልዩ ግምት፣ - ምናልባትም
+b) የምድብ ልዩ ሞኖፖሊዎችን ለመጠቀም ይሞክራል።
 
-Stände können entstehen
-a) primär, durch eigene ständische Lebensführung, darunter insbesondere durch die Art des **Berufs** (**Lebensführungs- bzw. Berufsstände**),
-b) sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer **Abstammung** (**Geburtsstände**),
-c) durch ständische **Appropriation** von politischen oder hierokratischen Herrengewalten als Monopole (**politische bzw. hierokratische Stände**).
+ምድቦች ሊፈጠሩ ይችላሉ
+a) በመጀመሪያ፣ በራሳቸው የምድብ ሕይወት ስርዓት፣ በዚህም በተለይ በ**ሙያ** (**የሕይወት ስርዓት ወይም የሙያ ምድቦች**)፣
+b) በሁለተኛ ደረጃ፣ በወርድ ባህሪ፣ በተሳካ የግምት ጥያቄ በምድብ **የወረደ** (**የልደት ምድቦች**)፣
+c) በምድብ **የመያዝ** ስርዓት በፖለቲካ ወይም በሃይማኖታዊ ገዥ ስልጣን ሞኖፖሊዎች (**ፖለቲካ ወይም ሃይማኖታዊ ምድቦች**)።
 
-Die geburtsständische Entwicklung ist regelmässig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen.
+የልደት ምድብ ልማት በተለምዶ የፕሪቪሌጅ ማግኘት ስርዓት ነው። ማንኛውም የተረጋጋ የዕድል ማግኘት፣ በተለይ [የ] ገዥ [ስልጣን ወይም የሥራ] ዕድል፣ ወደ ምድብ ልማት ይመራል። ማንኛውም የምድብ ልማት ወደ ሞኖፖሊስ የገዥ ስልጣን እና የሥራ ዕድል ማግኘት ይመራል።
 
-Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden.
+በገበያ ላይ የተመሰረተ ኢኮኖሚ መዋቅር ስር ያሉ የፍትህ ክፍሎች ሲያድጉ፣ የክፍለ-ሕዝብ ስርዓቶች በተለይም በሞኖፖሊስቲክ ሌትዩርጂካል ወይም በፊውዳላዊ ወይም በክፍለ-ሕዝብ ግልጋሎት የተመሰረተ የማስፈጻም ስርዓት ላይ ይኖራሉ።
 
-»**Ständisch**« soll eine Gesellschaft heissen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmässig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet.
+»**ክፍለ-ሕዝብ**« ማለት አንድ ማህበረሰብ በክፍለ-ሕዝብ ስርዓት የተከፋፈለ ከሆነ ሲሆን »**ክፍል**« ማለት በክፍሎች የተከፋፈለ ከሆነ ማለት ነው። «ክፍለ-ሕዝብ» ከ«ክፍሎች» ጋር በተያያዘ «ማህበራዊ» ክፍል በጣም ቀርቦ ይገኛል፣ «የፍትህ ክፍል» ግን በጣም ርቆ ይገኛል። ክፍለ-ሕዝቦች ብዙውን ጊዜ በመኖሪያ ክፍሎች ይፈጠራሉ።
 
-Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
+ማንኛውም ክፍለ-ሕዝብ ማህበረሰብ በመግባቢያ ሕጎች የተደራጀ ነው፣ ስለዚህ በኢኮኖሚያዊ አገልግሎት ላይ የማይመች ንብርብር ይፈጥራል እና በዚህ መንገድ በሞኖፖሊስቲክ ማጣመር እና በነፃ የማስተዳደር መብት ማጣል ነፃ የገበያ መዋቅርን ያስተካክላል።
 
-[**Weber, Max \<1864 – 1920\>:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**ዌበር, ማክስ (1864–1920):** ኢኮኖሚ እና ማህበረሰብ : መሠረተ ንድፈ ሀሳብ የማስተዋል ማህበራዊ ጥናት. – 5., የተመረጠ መደብ. – ቱቢንገን : ሞር, 1976. – ግ. 625 f.]
 :::
-Varṇas sind demgemäss Geburtsstände.
+ቫርኖስ በዚህ መሠረት የልጅነት ክፍለ-ሕዝቦች ናቸው።
 
-**kavi** m. -- ⟪कवि⟫ : Dichter.
+**kavi** m. -- ⟪कवि⟫ : ግጥም ነክ።
 
-**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni.
+**agni** m. -- ⟪अग्नि⟫ : እሳት፣ አምላክ አግኒ።
 
 ::: media
 ![](/images/lekt0203.jpg)
-Abb.: Gott Agni, Miniatur, 18. Jh.
-(Bildquelle: [Details](/licenses#lekt0203))
+ስዕል: አምላክ አግኒ, ቅንጣት, 18. ክፍለ ዘመን።
+(ምስል ምንጭ: [ዝርዝሮች](/licenses#lekt0203))
 :::
-**sādhu** 3 -- ⟪साधु⟫ : richtig, gut.
+**sādhu** 3 -- ⟪साधु⟫ : ትክክለኛ, ጥሩ።
 
-**sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu.
+**sādhu** m. -- ⟪साधु⟫ : "ቅዱስ" ሰው, ሳዱ።
 
 ::: media
 ![](/images/lekt0202.webp)
-Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
-(Bildquelle: [Details](/licenses#lekt0202))
+ስዕል: ሳዱ (⟪साधु⟫), ፓሽፑቲናት መስጊድ, ካትማንዱ።
+(ምስል ምንጭ: [ዝርዝሮች](/licenses#lekt0202))
 :::
 **guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert
 
@@ -410,44 +407,44 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 - **nagara** n. ⟪नगर⟫ : Stadt
 
 ::: note-box
-  Zum Stadt- und Dorfleben siehe Basham, *Wonder*, Kap. 6.
-  - **yajña** m. ⟪यज्ञ⟫ : Opfer
+ስለ ከተማ እና ደሴት ሕይወት ባሻምን *Wonder*፣ ክፍል 6 ያስተውሉ።
+**yajña** m. ⟪यज्ञ⟫ : ቅዳሽ
 
 :::
 ::: note-box
-  Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit.
-  
-  Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
-  - **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
+ቅዳሽ በኢንዲያ ዋነኛው ሀብት እንደ አገር የሚከበር ነው። ይህም ሀብትን እንደ አገር ይሸከማል።
+
+ቃል ማዕቀብ፡ **yaj** 1 U + kṛt-Suffix **-na-**።
+**puṇya** n. ⟪पुण्य⟫ : ጥሩ ስራ፣ ተስፋ
 
 :::
 ::: note-box
-  Wodurch man sich Wohlergehen und gute Wiedergeburten verdient.
-  - **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
-- **satya** n. ⟪सत्य⟫ : Wahrheit
+ይህም ሀብትን እና ተስፋን ያሸከማል።
+**pāpa** n. ⟪पाप⟫ : ስህተት፣ ክብደት (ከ **puṇya** ጋር)
+**satya** n. ⟪सत्य⟫ : እውነት
 
 :::
 ::: note-box
-In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
+በኢንዲያ እውነተኛ ቃል ላይ ከፍተኛ ኃይል ይሰጣል። ሁሉም የዓለም አቀማመጥ በእውነተኛ ቃል ይደረጋል እና ይፈጠራል። ስለዚህም ይህንን አስተሳሰብ ማየት ያስፈልጋል፡
 
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
 Abb.: ⟪वरुणः⟫
 (Bildquelle: [Details](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+**anṛta** n. ⟪अनृत⟫ : እውነት፣ ስህተት (ከ **satya** ጋር)
 
 ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n.
-  
-  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
-  - **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+ቃል ማዕቀብ **an-** („un-“) + **ṛta** n.
+
+**ṛta** በቤዳ ውስጥ ማዕከላዊ ቃል ነው፣ የትርጉም ላይ ይወያያል፡ „እውነት“ (Lüders, Thieme)፣ „ስርዓት“ (Renou)።
+**ṛṣi** m. ⟪ऋषि⟫ : ቤዳ ሰው፣ የቤዳ ዜማ አስተላላፊ
 
 :::
 ::: note-box
-  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
+የእነዚህ **ṛṣi**s ስም በብራህማናስ እና በተለይ የቤዳ ሰው ዝርዝሮች ውስጥ ይጠቀሳል። ሁሉም ብራማና እነዚህን **ṛṣi**s ያስተውላል። ስም **gotra** (⟪गोत्र⟫) ይሰጣል። ስለ **gotra** ቃል ባሻምን *Wonder*፣ ክፍል 5 ያስተውሉ።
 :::
 ::: media
 ![](/images/lekt1002.jpg)
@@ -851,20 +848,20 @@ Abb.: ⟪योगी⟫
 Birla Mandir, Delhi
 (Bildquelle: [Details](/licenses#lekt1601))
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : መዞር፣ መቀየር፣ (በአንድ ቦታ) መኖር/መገኘት
 
-⟪शस्त्र⟫ (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe
+⟪शस्त्र⟫ (śastra) n.: የመቁረጫ መሣሪያ፣ ሸማጋች ቁስል/መሳሪያ፣ ሽምግለት፣ ቁስል
 
-⟪शौच⟫ n.: Reinigung, Reinheit
+⟪शौच⟫ n.: ማጽዳት፣ ንጹህነት
 
-⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: zum Ziel führend, bewirkend
+⟪साधन⟫ m.,n. ⟪साधनी साधना⟫ f.: ወደ ግብ የሚመራ፣ ውጤት የሚያስከትል
 
-⟪अहिंसा⟫ f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit
+⟪अहिंसा⟫ f.: ማንም ሰው አለመጎዳት/አለማህተት፣ ማንምን አለመቀጠል/አለማህተት፣ ሰላምታ (Ahimsa)
 
 ::: media
 ![](/images/lekt1603.jpg)
 Abb.: ⟪अहिंसा⟫
-"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
+"በእጅ ላይ ያለው ቀለበት የጃይን አሂምসা (Ahimsa) ቅዳን ይወክላል። በመሃል ላይ ያለው ቃል "አሂምসা" ነው። ቀለበቱ ዳርማቻክራን (dharmacakra) ይወክላል፣ ይህም በእውነት እና ሰላምታ (non-violence) ቀጣይነት ያለው ፈቃድ በኩል የእንቅስቃሴ ዑደት (cycle of reincarnation) ለማቆም የሚያመለክት ነው።"
 (Bildquelle: [Details](/licenses#lekt1603))
 :::
 ## ትምህርት 17
@@ -875,12 +872,12 @@ Abb.: ⟪अहिंसा⟫
 
 
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ PPP ⟪हत⟫ : ማጥቃት፣ መምታት/መሞተት
 
-davon:
+ከዚያ:
 
 ::: indent
-⟪घात⟫ m.: Tötung
+⟪घात⟫ m.: ማጥቃት/ማረፊያ
 :::
 ::: media
 ![](/images/lekt1703.webp)
@@ -888,28 +885,28 @@ Abb.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Bildquelle: [Details](/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : መቀመጥ
 
-davon:
+ከዚያ:
 
 ::: indent
-⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
+⟪आसन⟫ n.: መቀመጥ/እረፍት ; እንዲሁም: የዮጊና ስልት/አቀማመጥ (Sitzpositionen)
 :::
 ::: media
 ![](/images/lekt1701.webp)
 Abb.: ⟪योगासनम्⟫
 (Bildquelle: [Details](/licenses#lekt1701))
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : መታገስ/መሰዋት
 
-davon:
+ከዚያ:
 
 ::: indent
-⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra
+⟪रुद्र⟫ m.: (የሚያጮህ =) የድንገተኛ አምላክ ሩድራ (Rudra)
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: መናገር/መናገር (ለአንድ ሰው: double accusative)
 
-⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken
+⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : ማጥለቅ/ማረስ
 
 ::: media
 ![](/images/lekt1702.webp)
@@ -985,55 +982,50 @@ davon:
 **⟪अर्थ⟫ m.:** zweckrationales Verhalten, Erlangung von Wohlstand
 
 **⟪काम⟫ m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet
+
+**⟪काम⟫ m.:** ስሜታዊ ደስታ፣ በተለይም በመንፈሳዊ ዘርፉ
 :::
 ::: media
 ![](/images/lekt1809.webp)
-Abb.: ⟪कामः⟫
-Illustration zum ⟪कामसूत्र⟫
-(Bildquelle: [Details](/licenses#lekt1809))
+ስዕል፡ ⟪कामः⟫
+ስዕል ከ ⟪कामसूत्र⟫
+(ምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt1809))
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** ማለ፣ መቆየት፣ ተስተካክሎ ማለ፣ መገኘት። (በባህል እንደ 1ኛው የ Present ክፍል ይቆጠራል፣ ምንም እንኳን ተደጋግሞ የሚመስል ርዕሰ ቃል ከሆነም፣ እንደ ⟪पा⟫ 1 ⟪पिबति⟫)
 
-**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
+**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** ማቅረብ፣ በክብር እና በአደን ወደ ማንም ግለሰብ መጋበዝ
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** aufbrechen, davongehen
+**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** መነሳት፣ ማምለቅ
 
-von ⟪स्था⟫ :
+ከ ⟪स्था⟫ ጋር፡
 
 ::: indent
-**⟪स्थान⟫ n.:** Stelle, (rechter) Ort, Standort
+**⟪स्थान⟫ n.:** ቦታ፣ (ትክክለኛ) ቦታ፣ የመዋቅር ነጥብ
 
-**⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
+**⟪स्थिति⟫ f.:** መቆየት፣ ተረጋጋ ማለት፣ መቆየት
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoss, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+**⟪गर्भ⟫ m.:** ማህጸን፣ ደመና፣ ውስጥ፣ ሕንፃ / ፎቱስ። በአንድ Bahuvrīhi መጨረሻ ላይ ብዙውን ጊዜ "ውስጣዊ" ማለት ነው፣ ምሳሌ
 
 ::: indent
-**⟪धनगर्भ⟫ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet"
+**⟪धनगर्भ⟫ 3:** "ውስጣዊው ማለት ብር ነው = በውስጡ ብር ያለበት"
 
-**⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
+**⟪गर्भगृह⟫ n.:** የሃይማኖት ቤተ መቅደስ ውስጣዊው ማለት ክፍል፣ ዋናውን የእግዚአብሔር ምስል ይይዛል (ለሃይማኖት ቤተ መቅደስ ግንባታ እይ፡ Volwahsen, A.: India : Hindu, Buddhist and Jain Buildings. -- Munich, 1968)
 :::
 ::: media
 ![](/images/lekt1901.webp)
-Abb.: ⟪गर्भगृहम्⟫
+ስዕል፡ ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Bildquelle: [Details](/licenses#lekt1901))
+(ምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** Wassergeber = Regenwolke
+**⟪वारिद⟫ m.:** የውሃ አቅሪያ = ዝናብ ጋዜጣ
 
 ::: media
 ![](/images/lekt1902.jpg)
-Abb.: ⟪वारिदः⟫
+ስዕል፡ ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
-(Bildquelle: [Details](/licenses#lekt1902))
+(ምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** wehen
-
-davon:
-
-::: indent
-**⟪वात⟫ m.:** Wind
-:::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** መንፈስ ማለት
 
 **⟪छत्त्र⟫ n.:** Sonnenschirm, Schirm
 
@@ -1554,79 +1546,77 @@ Pass. ⟪लिप्यते⟫
 PPP ⟪लिप्त⟫  
 Inf. ⟪लेप्तुम्⟫
 
-davon:
+ከዚህ:
 
-⟪लिप्ति⟫ f.: Bestreichen, Schreiben, Schrift
+⟪लिप्ति⟫ ፓ.: መታጠብ፣ መጻፍ፣ ጽሑፍ
 :::
 ::: media
 ![](/images/lekt2503.webp)
-Abb.: ⟪लिप्तिः⟫
-(Bildquelle: [Details](/licenses#lekt2503))
+ስዕል: ⟪लिप्तिः⟫
+(ምንጭ ስዕል: [ዝርዝሮች](/licenses#lekt2503))
 :::
-⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr
+⟪वर्ष⟫ ና.,ም.: ዝናብ፣ የዝናብ ሳምንት፣ ዓመት
 
-⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind)
+⟪वह्⟫ 1U ⟪वहति⟫ : መመራት፣ መንዳት፣ መነፍስ (አየር)
 
 ::: indent
-Fut. ⟪वक्ष्यति⟫  
-Pass. ⟪उह्यते⟫  
+ፉት. ⟪वक्ष्यति⟫  
+ፓስ. ⟪उह्यते⟫  
 PPP ⟪ऊढ⟫  
-Inf. ⟪वोढुम्⟫  
-Absol 2: -⟪उह्य⟫
+ኢንፍ. ⟪वोढुम्⟫  
+አብሶል 2: -⟪उह्य वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : መውሰድ (ማለትም ከቤተሰብ ገነት ያለችውን ትዳር) = መተዋወቅ
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten
+ከዚህ:
 
-davon:
-
-⟪विवाह⟫ m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+⟪विवाह⟫ ም.: መውሰድ፣ የእንስት ትዳር (ኢንስት.፣ ሳሃ) (ለትዳር እይቱ ባሻም፣ ዓስጃር ገ. 166 -171)
 :::
 ::: media
 ![](/images/lekt2504.webp)
-Abb.: ⟪विवाहः⟫
-(Bildquelle: [Details](/licenses#lekt2504))
+ስዕል: ⟪विवाहः⟫
+(ምንጭ ስዕል: [ዝርዝሮች](/licenses#lekt2504))
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : መውሰድ፣ ማስተማር፣ ማሳደግ
 
 ::: indent
-davon:
+ከዚህ:
 
-⟪विनय⟫ m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
+⟪विनय⟫ ም.: መሰደድ፣ ማሳደግ፣ ቅርጽ፣ ቡድኒስት.: የሙሉ ሕይወት ቅርጽ፣ የሙሉ ሕይወት ሕግ
 :::
-⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis
+⟪विज्ञान⟫ ና.: ግንዛቤ፣ እውቀት
 
-⟪विष्टि⟫ f.: Arbeit, Frondienst
+⟪विष्टि⟫ ፓ.: ሥራ፣ የግዴታ ሥራ
 
 ::: media
 ![](/images/lekt2505.webp)
-Abb.: ⟪विष्टिः⟫
-(Bildquelle: [Details](/licenses#lekt2505))
+ስዕል: ⟪विष्टिः⟫
+(ምንጭ ስዕል: [ዝርዝሮች](/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, grösser werden
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : መጨመር፣ ትልቅ መሆን
 
 ::: indent
-Fut. ⟪वर्धिष्यते⟫  
-Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : erwachsen, alte, vermehrt  
-Inf. ⟪वर्धितुम्⟫
+ፉት. ⟪वर्धिष्यते⟫  
+ፓስ. ⟪वृध्यते⟫  
+PPP ⟪वृद्ध⟫ : ትልቅ መሆን፣ አርጋች፣ ተጨምሯል  
+ኢንፍ. ⟪वर्धितुम्⟫
 
-davon:
+ከዚህ:
 
-⟪वृद्धि⟫ f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
+⟪वृद्धि⟫ ፓ.: መጨመር፣ እድገት፣ ዴህንስታፌ (ከ: vṛdh-ti)
 :::
-⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen
+⟪सामर्थ्य⟫ ና.: ለምርጫው የሚስማማ
 
-⟪स्वभाव⟫ m.: Wesen, Natur, Charakter
+⟪स्वभाव⟫ ም.: ባህርይ፣ ተፈጥሮ፣ ካራክተር
 
-⟪हर्ष⟫ m.: (Aufrichten der Körperhärchen), Freude
+⟪हर्ष⟫ ም.: (የሰውነት ቅብ መድገም)፣ ደስታ
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum
+⟪हिरण्य ३⟫ : ብርሃን ; ና.: ወርቅ፣ ገንዘብ፣ ንብረት
 
 ::: media
 ![](/images/lekt2506.webp)
-Abb.: ⟪हिरण्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2506))
+ስዕል: ⟪हिरण्यम्⟫
+(ምንጭ ስዕል: [ዝርዝሮች](/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom
+⟪अणु ३⟫ : ቀጭን፣ ረጅም፣ በጣም ትንሽ ; ም.: አቶም
 
 ⟪गोदान⟫ n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein ⟪संस्कार⟫)
 
@@ -1707,15 +1697,15 @@ Gegenstück zu ⟪हर⟫:
 
 ::: media
 ![](/images/lekt2704.webp)
-Abb.: ⟪हरिहरः⟫
-Harihara (links: Viṣṇu, rechts: Śiva).
-(Bildquelle: [Details](/licenses#lekt2704))
+ምስል፡ ⟪हरिहरः⟫
+ሃሪሐራ (ግራ፡ ቪṣሬዩን፣ ቀኝ፡ ሺቫ)።
+(ምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt2704))
 :::
 ::: media
 ![](/images/lekt2705.webp)
-Abb.: ⟪हरिहरः⟫
-Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
-(Bildquelle: [Details](/licenses#lekt2705))
+ምስል፡ ⟪हरिहरः⟫
+ሃሪሐራ (ግራ፡ ቪṣሬዩን፣ ቀኝ፡ ሺቫ)። ጎድሩምድዊፕ፣ ምዕራብ ቤንጋል።
+(ምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt2705))
 :::
 ## ትምህርት 28
 
@@ -1726,55 +1716,55 @@ Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
 
 
 ::: indent
-⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: wissen, kennen
-Fut. **vediṣyati**
-Pass. **vidyate**
-Kaus. **vedayati**
+⟪विद्⟫ 2P ⟪वेत्ति⟫፣ ⟪विदन्ति⟫፡ ማወቅ
+ዓተር **vediṣyati**
+ስምዒት **vidyate**
+ካውስ. **vedayati**
 PPP **vidita**
-Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m.
+ኢንፊ. **vediṣyum**
+ከዚህ፡ **vidyā** ሴት፣ **veda** ወንድ
 :::
 ::: indent
-⟪विद्⟫ 6U ⟪विन्दति⟫ (!): finden
-Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
-Kaus. **vedayati**
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!)፡ ማግኘት
+ዓተር **vediṣyati** / **vetsyat**
+ስምዒት **vidyate**፡ አለ፣ ተገኝቷል
+ካውስ. **vedayati**
 PPP **vinna** / **vitta**
-Inf. **vediṣtum** / **vettum**
+ኢንፊ. **vediṣtum** / **vettum**
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+**i + adhi** 2Ā **adhīte**፣ **adhīyate**፡ ማጥናት
+ካውስ. **adhyāpayati**፡ ማጥናት ማድረግ
+ከዚህ፡ **adhyayana** ገንዘብ፡ ጥናት (በተለይ የቤዳ)። **adhyāya** ወንድ፡ ትምህርት
 :::
 ::: indent
-⟪कम्⟫ 10Ā ⟪कामयते⟫: lieben
-Fut. **kāmayiṣyate** / **kamiṣyate**
-Pass. **kāmyate**
-Kaus. **kāmayati**
+⟪कम्⟫ 10Ā ⟪कामयते⟫፡ ማዘን
+ዓተር **kāmayiṣyate** / **kamiṣyate**
+ስምዒት **kāmyate**
+ካውስ. **kāmayati**
 PPP **kānta** (!)
-Inf. **kāmayitum** / **kamitum**
+ኢንፊ. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804))
+ምስል፡ ⟪कृष्णो राधां कामयति⟫
+ስዕል ከ ⟪राजा रवि वर्मा⟫ (1848 - 1906)
+(ምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt2804))
 :::
 ::: indent
-⟪चुर्⟫ 10 ⟪चोरयति⟫: stehlen
-Fut. **corayiṣyati**
-Pass. **coryate**
-Kaus. **corayati**
+⟪चुर्⟫ 10 ⟪चोरयति⟫፡ መሰርቅ
+ዓተር **corayiṣyati**
+ስምዒት **coryate**
+ካውስ. **corayati**
 PPP **corita**
-Inf. **coritum**
+ኢንፊ. **coritum**
 :::
 ::: indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+**በተለይ ትርጉሙን ያስታውሱ ከካውሴቲቭ ጋር የተያያዙ ቃላት፡**
+**dṛś** — **darśayati**፡ ማሳየት
+**man** — **mānayati**፡ ማክበር (እንደ **māna** "ክብር" ዲነሚናቲቭ ሊሆን ይችላል)
+**vac** — **vācayati**፡ በድምጽ ማንበብ (መጽሐፍ በድምጽ ማንበብ)
+**vad** — **vādayati**፡ የሙዚቃ መሳሪያ ማውጣት = የሙዚቃ መሳሪያ ማጫወት
 :::
 ::: media
 ![](/images/lekt2803.webp)
@@ -2020,24 +2010,24 @@ davon:
 **PPP ⟪युक्त⟫**
 **Inf. ⟪योक्तुम्⟫**
 
-davon:
-**⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+ከዚህ፡-
+**⟪युग⟫ n. → ⟪युग⟫ n.:** ጅሮ፣ ማዕቀፍ፣ የዓለም ዘመን (አራት የዓለም ዘመናት አሉ፡-
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
 4. ⟪कलि⟫
 
-Das ⟪कलियुग⟫ begann um 3102 v. Chr., dem Jahr des ⟪महाभारत⟫-Krieges. Näheres bei Basham, Wonder S. 323)
+ይህ ⟪कलियुग⟫ በከ.ኤ. 3102 ዓመት፣ ማለትም በ⟪महाभारत⟫ ጦርነት ዓመት ተጀምሯል። ማብራሪያን እንደ Basham, Wonder ግጥም 323 ይመልከቱ)
 
-**⟪योग⟫ m.:** "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.)
+**⟪योग⟫ m.:** "ማገናኘት፣ ማሰራጨት"፣ ጥረት፣ ትስስር፣ ዮጋ (እዚህ ላይ Basham, Wonder ግጥም 327ff. ይመልከቱ)
 :::
 ::: media
 ![](/images/lekt3101.webp)
-Abb.: ⟪योगः⟫
-Yoga-Darstellung.
-(Bildquelle: [Details](/licenses#lekt3101))
+ስዕል፡- ⟪योगः⟫
+የዮጋ ምስል።
+(የስዕሉ ምንጭ፡ [Details](/licenses#lekt3101))
 :::
-⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : stoppen, zum Stillstand bringen, zurückhalten = einschliessen, verdecken
+⟪रुध्⟫ 7U ⟪रुणद्धि⟫ ፡ መቆም፣ ወደ ቦታው ማስቀመጥ፣ መያዝ = መሸፈን፣ ማጥበቅ
 ::: indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
@@ -2045,7 +2035,7 @@ Yoga-Darstellung.
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
 :::
-⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : abschneiden
+⟪छिद्⟫ 7U ⟪छिनत्ति⟫ ፡ መቁረጥ
 ::: indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
@@ -2053,32 +2043,32 @@ Yoga-Darstellung.
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
 :::
-⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (etwas) zerbrechen
+⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ ፡ (ምንም) መሰባበር
 ::: indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
 :::
-⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : salben, beschmieren
+⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ ፡ መቅለጥ፣ መደበኛ ማድረግ
 ::: indent
-**Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
+**Fut. ⟪अङ्क्ष्यति । अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
-**Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
+**Inf. ⟪अञ्जितुम् । अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : auseinanderschmieren = sich schminken, sich unterschieden machen
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ ፡ መለያየት = ማስዋብ፣ ራሱን መለየት
 ::: indent
-**PPP ⟪व्यक्त⟫ :** unterschieden, entfaltet
+**PPP ⟪व्यक्त⟫ ፡** የተለያየ፣ የተሰራጨ
 
-davon:
-**⟪व्यञ्जन⟫ n.:** Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden)
+ከዚህ፡-
+**⟪व्यञ्जन⟫ n.:** የመለየት መሳሪያ = ማስዋብ፣ ቅመም፣ መለያ ምልክት፣ ኮንሶናንት (ምንነቱ የሚለያይበት)
 :::
 ::: media
 ![](/images/lekt3102.webp)
-Abb.: ⟪व्यञ्जनम्⟫
-Vorbereitung zum Kathakali-Tanz, Kochi.
-(Bildquelle: [Details](/licenses#lekt3102))
+ስዕል፡- ⟪व्यञ्जनम्⟫
+ለካታካሊ ዘውድ ቅድመ-ዝግጅት፣ ኮቺ።
+(የስዕሉ ምንጭ፡ [Details](/licenses#lekt3102))
 :::
 ⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : spalten
 ::: indent
@@ -2417,7 +2407,7 @@ Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 ::: note-box
 "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
 
-[Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
+[ምንጭ: http://en.wikipedia.org/wiki/Ghee. -- ማግኘት በ 2008-12-26]
 :::
 ## ትምህርት 34
 
@@ -2429,71 +2419,71 @@ Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** ዘር፣ ሰብል፣ አትክልት
 
 ::: media
 ![](/images/lekt3406.webp)
-Abb.: ⟪सस्यम्⟫
-Rice field in India.
-(Bildquelle: [Details](/licenses#lekt3406))
+ስዕል: ⟪सस्यम्⟫
+በኢንዲያ ውስጥ የአሞላ ሜዳ።
+(የስዕል ምንጭ: [ዝርዝሮች](/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** wie lange, wie gross
+**⟪यावत्⟫ :** ምን ያህል ጊዜ፣ ምን ያህል ትልቅ
 
-**⟪तावत्⟫ :** so lange, so gross
+**⟪तावत्⟫ :** እንዲህ ያህል ጊዜ፣ እንዲህ ያህል ትልቅ
 
-**⟪उत्तम⟫ 3:** höchster
+**⟪उत्तम⟫ 3:** ከፍተኛው
 
-**⟪द्वीप⟫ m.n.:** Insel, Kontinent
+**⟪द्वीप⟫ m.n.:** ደሴት፣ ንዑስ ስዓይ
 
 ::: media
 ![](/images/lekt3405.webp)
-Abb.: ⟪लक्षद्वीपाः⟫
-Lakshadweep Islands Map.
-(Bildquelle: [Details](/licenses#lekt3405))
+ስዕል: ⟪लक्षद्वीपाः⟫
+የላክሽድዊፕ ደሴቶች ካርታ።
+(የስዕል ምንጭ: [ዝርዝሮች](/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** sterblich (zu ⟪मृ⟫)
+**⟪मर्त्य⟫ 3:** ሞታል (ወደ ⟪मृ⟫)
 
-**⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.)
+**⟪तिल⟫ m.:** ሴሳም (ዘር) (*Sesamum indicum* L.)
 
 ::: media
 ![](/images/lekt3403.webp)
-Abb.: ⟪तिलाः⟫
-Sesame seeds.
-(Bildquelle: [Details](/licenses#lekt3403))
+ስዕል: ⟪तिलाः⟫
+የሴሳም ዘር።
+(የስዕል ምንጭ: [ዝርዝሮች](/licenses#lekt3403))
 :::
 ::: media
 ![](/images/lekt3404.webp)
-Abb.: *Sesamum indicum* L.
-Sesame plant flowering.
-(Bildquelle: [Details](/licenses#lekt3404))
+ስዕል: *Sesamum indicum* L.
+የሴሳም ተክል ፀድቷል።
+(የስዕል ምንጭ: [ዝርዝሮች](/licenses#lekt3404))
 :::
-**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
+**⟪स्वर्ण⟫ n.:** (ቀለማት ያሉ =) ብርሃን
 
 ::: media
 ![](/images/lekt3402.webp)
-Abb.: ⟪स्वर्णम्⟫
-Golden Temple (Harmandir Sahib), Amritsar.
-(Bildquelle: [Details](/licenses#lekt3402))
+ስዕል: ⟪स्वर्णम्⟫
+ብርሃን መቅደስ (Harmandir Sahib)፣ አምሪትሳር።
+(የስዕል ምንጭ: [ዝርዝሮች](/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
+**⟪निकेतन⟫ n.:** መኖሪያ፣ ቤተመቅደስ
 
-**⟪कोटि⟫ f.:** Spitze; 10 Millionen
+**⟪कोटि⟫ f.:** ጫፍ; 10 ሚሊዮን
 
-**⟪श्रेष्ठ⟫ 3:** bester
+**⟪श्रेष्ठ⟫ 3:** ምርጥ
 
-**⟪तल⟫ m.n.:** Ebene, Fläche
+**⟪तल⟫ m.n.:** ሜዳ፣ ቦታ
 
-**⟪ऋषभ⟫ m.:** Stier
+**⟪ऋषभ⟫ m.:** ዘበዳ
 
 ::: media
 ![](/images/lekt3401.webp)
-Abb.: ⟪ऋषभः⟫
-Nandi Bull statue, Chamundi Hills, Mysore.
-(Bildquelle: [Details](/licenses#lekt3401))
+ስዕል: ⟪ऋषभः⟫
+የናንዲ ዘበዳ ምስላ፣ ቻማንድሪ ኮከብ፣ ሚሶር።
+(የስዕል ምንጭ: [ዝርዝሮች](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** መያዝ፣ ማቆም፣ መስጠት፣ መሰጠት
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** ማቅረብ፣ መስጠት፣ ማስረከብ
 
 **⟪या⟫ 2P ⟪याति⟫ :** gehen, fahren
 
@@ -3050,11 +3040,6 @@ Abb.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (zu ⟪सम्⟫-⟪हन्⟫ : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
 
-::: deleteme-box
-s. dazu:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
 ⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
@@ -3064,11 +3049,6 @@ s. dazu:
 ::: indent
 PPP ⟪अतीत⟫ : n. Vergangenheit
 :::
-::: deleteme-box
-s. dazu:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
 ⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
@@ -3077,11 +3057,6 @@ s. dazu:
 
 ::: indent
 PPP ⟪अतीत⟫ : n. Vergangenheit
-:::
-::: deleteme-box
-s. dazu:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
@@ -3127,65 +3102,63 @@ PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
 
 ⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : billigen, versprechen; Ā: antworten, bestätigen, behaupten, erkennen
 
-⟪चल्⟫ 1P ⟪चलति⟫ : in Bewegung geraten
+⟪चल्⟫ 1P ⟪चलति⟫ : እንቅስቃሴ ውስጥ መግባት
 
 ::: indent
-Fut. ⟪चलिष्यति⟫  
-Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
-Pass. ⟪चल्यते⟫  
-Kaus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫  
+ሀዋ. ⟪चलिष्यति⟫  
+ፐርፌክት ተ. ⟪चचाल⟫, ⟪चेलुर्⟫  
+ፓስ. ⟪चल्यते⟫  
+ኬውዝ. ⟪चलयति । चालयति⟫  
 PPP ⟪चलित⟫  
-Absol. -⟪चल्य⟫  
-Inf. ⟪चलितुम्⟫
+አብሶል. -⟪चल्य⟫  
+ኢንፍ. ⟪चलितुम्⟫
 :::
-⟪अधिपति⟫ m. = ⟪राजन्⟫
+⟪अधिपति⟫ ማ. = ⟪राजन् आटोप⟫ ማ.: ባዶነት፣ ድንቅነት
 
-⟪आटोप⟫ m.: Eitelkeit, Stolz
+⟪चिन्तापर⟫ 3: በአስተሳሰብ ውስጥ የተጠመደ
 
-⟪चिन्तापर⟫ 3: gedankenversunken
+⟪अन्तरे⟫ አስተ.፡ በዚህ ጊዜ
 
-⟪अन्तरे⟫ Adv.: inzwischen
+⟪लीला⟫ ሴ.:  ግብረ-መልስ፣ ጨዋታ
 
-⟪लीला⟫ f.:  Scherz, Spiel
+⟪यावत्⟫ አስተ.፡  ምን ያህል ጊዜ፣ እስከ
 
-⟪यावत्⟫ Adv.:  wie lange, während
+⟪तावत्⟫ አስተ.፡ እንደ ይህ ጊዜ
 
-⟪तावत्⟫ Adv.: so lange
+⟪द्विधा । द्वेधा⟫ አስተ.፡ ሁለት እጥፍ፣ በሁለት ክፍል
 
-⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: zweifach, in zwei Teilen
-
-⟪शंस्⟫ 1P ⟪शंसति⟫ : loben, gebieten
+⟪शंस्⟫ 1P ⟪शंसति⟫ : ማመስገን፣ መደበኛ
 
 ::: indent
-Fut. ⟪शंसिष्यति⟫  
-Perf. I ⟪शशंस⟫  
-Pass. ⟪शस्यते⟫  
-Kaus. ⟪शंसयति⟫  
+ሀዋ. ⟪शंसिष्यति⟫  
+ፐርፌክት I ⟪शशंस⟫  
+ፓስ. ⟪शस्यते⟫  
+ኬውዝ. ⟪शंसयति⟫  
 PPP ⟪शस्त⟫  
-Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
-Inf. ⟪शंसितुम्⟫
+አብሶል. ⟪शसित्वा । शस्त्वा⟫  
+ኢንፍ. ⟪शंसितुम्⟫
 :::
-⟪हृदय⟫ n.: Herz
+⟪हृदय⟫ ኒ.: ልብ
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+### 42.2.1. አንዳንድ የቅርበት ግንኙነት መጥሪያዎች
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
-Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Bildquelle: [Details](/licenses#lekt4202))
+ስዕል: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+(ምስል ምንጭ: [ዝርዝሮች](/licenses#lekt4202))
 :::
-⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte
+⟪भर्तृ⟫ ማ. (ወደ ⟪भृ⟫ "መሸከም፣ መያዝ"): ጠባቂ፣ አመላካች፣ ተወዳጅ
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
+⟪भार्या⟫ ሴ.,  ⟪जाया⟫ ሴ.  ⟪पत्नी⟫ ሴ.: ተወዳጅ (⟪भार्या⟫ = ጀርንዲቭ ወደ ⟪भृ⟫ : መሸኘት ያለባት፣ ማስተናገድ ያለባት፣ የመኖሪያ መብት ያላት)
 
-⟪पितृ⟫ m.: Vater
+⟪पितृ⟫ ማ.: አባት
 
-⟪पितृ⟫ m. Plural: die verstorbenen männlichen Vorfahren, d.h.
+⟪पितृ⟫ ማ. ብዙ: የሞቱ ወንድ አያት፣ ማለትም
 
-1.  Vater, Grossvater, Urgrossvater
-2.  die Ahnväter der Menschheit
+1.  አባት፣ ዳዊት፣ ትልቅ ዳዊት
+2.  የሰው ልጅ ቀዳሚ አያት
 
-Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werden je drei männlichen  Vorfahren (väterlicherseits (und mütterlicherseits) Wasser und bei bestimmten Gelegenheiten Reisbällchen bzw. Mehlbällchen (⟪पिण्ड⟫ m. "Bällchen") dargebracht. So sollen die Vorfahren Nahrung bekommen. Der Vollzug dieser Zeremonie ist mit ein Grund, warum man als Mann einen Sohn zeugen soll. Diejenigen, die durch diese ⟪पिण्ड⟫-Gabe verbunden sind heissen ⟪सपिण्ड⟫ (denen ⟪पिण्ड⟫ gemeinsam ist). ⟪सपिण्ड⟫ umfasst sechs Generationen: drei Rückwärts (bis zum Urgrossvater) und drei vorwärts (bis zum Grossenkel).
+ሁለቱም በአካል ይፈጸማሉ፣ እንደ ⟪श्राद्ध⟫ ኒ. በየቀኑ ሶስት ወንድ አያት (በአባት በኩል እና በእናት በኩል) ውሃ እና በተወሰነ ጊዜ የአትም ኳስ ወይም የፋሚና ኳስ (⟪पिण्ड⟫ ማ. "ኳስ") ይቀርባል። እንዲሁም አያት ምግብ ይኖራቸዋል። የዚህ ሥነ-ርእስት መከናወን አንዱ ምክንያት ነው፣ ወንድ እንደሆነ ልጅ መውለድ አለበት። እነዚህ በዚህ ⟪पिण्ड⟫-ገበያ የተሳኩ ስም ይባላሉ ⟪सपिण्ड⟫ (እነዚያ पिण्ड፡ ማለትም)። ⟪सपिण्ड⟫ ስድስት ትውልዶችን ይጨምራል: ሦስት ከኋላ (እስከ ትልቅ ዳዊት) እና ሦስት ከፊት (እስከ ትልቅ ልጅ)።
 
 ⟪तात⟫ m.: Papa
 
@@ -3365,11 +3338,11 @@ z.B.
 
 **⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : zurückschlagen
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : zurücksagen = antworten
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : መልስ ማለት = መመለስ
 
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : zurückweisen, verschmähen
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : መግታት፣ ማስወገድ
 :::
-⟪या⟫ 2P ⟪याति⟫ : gehen, fahren
+⟪या⟫ 2P ⟪याति⟫ : መሄድ፣ መጓዝ
 
 ::: indent
 Perf. IV ⟪ययौ⟫  
@@ -3379,16 +3352,16 @@ Kaus. ⟪यापयति⟫
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
 
-davon:
+ከዚህ፡-
 
-⟪यान⟫ n.: Gehen, Weg, Fahrzeug
+⟪यान⟫ n.: መሄድ፣ ጎዳና፣ ተሽከርካሪ
 :::
 ::: media
 ![](/images/lekt4403.webp)
 Abb.: ⟪रेल्यानम्⟫
 (Bildquelle: [Details](/licenses#lekt4403))
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
+⟪शी⟫ 2Ā ⟪शेते⟫ : መደብስ። ይህ ሥር በሁሉም የአሁን ቋት መልኮች **ከፍተኛ ደረጃ:** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). የሚከተሉት መልኮች በፍላጎት ይታዩ፡ 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫]፣ 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -3397,16 +3370,16 @@ Kaus. ⟪शापयति⟫
 PPP ⟪शयित⟫  
 Inf. ⟪शयितुम्⟫  
 
-davon:
+ከዚህ፡-
 
-⟪शयन⟫ n.: Liege, Bett
+⟪शयन⟫ n.: የመደብስ ቦታ፣ ሸክላ
 :::
 ::: media
 ![](/images/lekt4404.webp)
-Abb.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
+Abb.: ⟪योगी शयने शेते⟫
 (Bildquelle: [Details](/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : sich freuen an (⟪तृतीयया⟫)
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : በ (⟪तृतीयया⟫) ላይ ደስ ብሎት
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -3418,18 +3391,18 @@ Inf. ⟪नन्दितुम्⟫
 Absol. -⟪नन्द्य⟫  
 Gerundiv ⟪नन्द्य⟫  
 
-davon:
+ከዚህ፡-
 
-⟪नन्दिन्⟫ 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (⟪वहन⟫) des ⟪शिव⟫ (ein Stier)
+⟪नन्दिन्⟫ 3: በ (በፍላጎት) ደስ ብሏል፣ ደስተኛ ; m. ስም የመራቅ ተሽከርካሪ (⟪वहन⟫) የ ⟪शिव⟫ (አንድ ዘመናዊ)
 :::
 ::: media
 ![](/images/lekt4405.webp)
 Abb.: ⟪नन्दी⟫
 (Bildquelle: [Details](/licenses#lekt4405))
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : seine Freude haben an (⟪द्वितीयया⟫), jemanden freudig begrüssen, willkommen heissen
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : ደስታውን በ (⟪द्वितीयया⟫) ላይ ማድረግ፣ አንድን ሰው በደስታ መቀበል፣ እንኳን ወደ ተላለፈ
 
-⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : መያዝ፣ መሸከም ; ማቅረብ፣ መስጠት ; አንድ ላይ ማቆም፣ መያዝ፣ መቆጣጠር፣ ማሸነፍ
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
@@ -3488,30 +3461,15 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Siehe:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Bildquelle: [Details](/licenses#lekt4408))
 :::
-::: deleteme-box
-Siehe:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Bildquelle: [Details](/licenses#lekt4408))
-:::
-::: deleteme-box
-Siehe:
-
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3569,65 +3527,65 @@ davon:
 9.  ⟪केतुः⟫
 
 :::
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+ለ ⟪राहु⟫ እና ለ ⟪केतु⟫ ይመልከቱ፡
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **ፓይየር, አሎይስ (1944–)፡ ዳርማሻስትራ ፦ መእተዊ እና አጠቃላይ ዕውቀት። -- 10. ሳክራመንቶች እና የግድያ ሥነ-ሥርዓቶች (samṣkāra)። -- ተያያዥ ማስታወሻ C፡ ሬሁ እና ኬቱ፣ ያልተመለከቱ የሚንቀሳቀሱ ኮከቦች ። -- URL፡ [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
-(Bildquelle: [Details](/licenses#lekt4602))
+ስዕል፡ [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
+(የስዕል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4602))
 :::
 ::: media
 ![](/images/lekt4603.webp)
-Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
-(Bildquelle: [Details](/licenses#lekt4603))
+ስዕል፡ [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
+(የስዕል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4603))
 :::
 ::: media
 ![](/images/lekt4604.webp)
-Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
-(Bildquelle: [Details](/licenses#lekt4604))
+ስዕል፡ [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
+(የስዕል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4604))
 :::
 ::: media
 ![](/images/lekt4605.webp)
-Abb.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
-(Bildquelle: [Details](/licenses#lekt4605))
+ስዕል፡ [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
+(የስዕል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sich zufrieden geben, zufrieden sein mit (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ ፡ በእርስዎ ውስጥ መረጋገጥ፣ ከ (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫) ጋር መረጋገጥ
 
 ::: indent
-Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
-Fut. ⟪तोक्ष्यति⟫  
-Pass. ⟪तुष्यते⟫  
-Kaus. ⟪तोषयति⟫  
+ፐርፌክት II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
+ፉቱር ⟪तोक्ष्यति⟫  
+ፓሲቭ ⟪तुष्यते⟫  
+ኩዋዚቲ፡ ⟪तोषयति⟫  
 PPP ⟪तुष्ट⟫  
-Inf. ⟪तोष्टुम्⟫
+ኢንፊኒቲቭ ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : sich beugen, sich verbeugen, sich neigen, sich verneigen
+⟪नम्⟫ 1P ⟪नमति⟫ ፡ መጥምቅ፣ መዝረዝ፣ መዘርጋት፣ መታዘዝ
 
 ::: indent
-Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
-Fut. ⟪नंस्यति⟫  
-Pass. ⟪नम्यते⟫  
-Kaus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
+ፐርፌክት Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
+ፉቱር ⟪नंस्यति⟫  
+ፓሲቭ ⟪नम्यते⟫  
+ኩዋዚቲ፡ ⟪नमयति । नामयति⟫  
 PPP ⟪नत⟫  
-Inf. ⟪नन्तुम्⟫
+ኢንፊኒቲቭ ⟪नन्तुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4607.webp)
-Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
-(Bildquelle: [Details](/licenses#lekt4607))
+ስዕል፡ [⟪नारायण तुभ्यं नमामि⟫](/licenses#lekt4607)
+(የስዕል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4607))
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : ersteigen, besteigen
+⟪रुह्⟫ 1P ⟪रोहति⟫ ፡ መድረስ፣ መምታት
 
 ::: indent
-Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
-Fut. ⟪रोक्ष्यति⟫  
-Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫:sig[⟪प⟫]⟪यति⟫  
-PPP. :sig[⟪रूढ⟫]  
-Inf. ⟪रोढुम्⟫
+ፐርፌክት II ⟪रुरोह⟫, ⟪रुरुहे⟫  
+ፉቱር ⟪रोक्ष्यति⟫  
+ፓሲቭ ⟪रुह्यते⟫  
+ኩዋዚቲ፡ ⟪रोहयति । रो⟫:sig[⟪प⟫]⟪यति⟫  
+PPP. ፡sig[⟪रूढ⟫]  
+ኢንፊኒቲቭ ⟪रोढुम्⟫
 
 :::
 ::: media
@@ -3911,85 +3869,83 @@ siehe:
 ::: indent
 **Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer \<1944 - \>. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : ማጥለል፣ መደብር
 
 ::: indent
-Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
-Fut. ⟪क्षेप्स्यति⟫
-Pass. ⟪क्षिप्यते⟫
-Kaus. ⟪क्षेपयति⟫
+ፐርፌክት II ⟪चिक्षेप⟫፣ ⟪चिक्षेपिथ⟫፣ ⟪चिक्षिपुर्⟫
+ፉቱር ⟪क्षेप्स्यति⟫
+ፓሲቭ ⟪क्षिप्यते⟫
+ኩዋሲቲቭ ⟪क्षेपयति⟫
 PPP ⟪क्षिप्त⟫
-Inf. ⟪क्षेप्तुम्⟫
-Absol. -⟪क्षिप्य⟫
-Gerundiv: ⟪क्षेप्य⟫
+ኢንፊኒቲቭ ⟪क्षेप्तुम्⟫
+አብሶሉት -⟪क्षिप्य⟫
+ጀርንዲቭ: ⟪क्षेप्य⟫
 :::
-⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : eilen
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : ማፋጠን
 
 ::: indent
-Perf. Vc ⟪तत्वरे⟫
-Fut. ⟪त्वरिष्यते⟫
-Pass. ⟪त्वर्यते⟫
-Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
-Inf. ⟪त्वरितुम्⟫
+ፐርፌክት Vc ⟪तत्वरे⟫
+ፉቱር ⟪त्वरिष्यते⟫
+ፓሲቭ ⟪त्वर्यते⟫
+ኩዋሲቲቭ ⟪त्वरयति⟫
+PPP ⟪त्वरित ।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
+ኢንፊኒቲቭ ⟪त्वरितुम्⟫
 :::
-⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schädigen
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : ማጉደል
 
 ::: indent
-Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
-Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
-Pass. ⟪द्रुह्यते⟫
-Kaus. ⟪द्रोहयति⟫
-PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
-Inf. ⟪द्रोग्धुम्⟫
+ፐርፌክት II ⟪दुद्रोह⟫፣ ⟪दुद्रुहुर्⟫
+ፉቱር ⟪द्रोहिष्यति । ध्रोक्ष्यति⟫
+ፓሲቭ ⟪द्रुह्यते⟫
+ኩዋሲቲቭ ⟪द्रोहयति⟫
+PPP ⟪द्रुग्ध । द्रूढ⟫
+ኢንፊኒቲቭ ⟪द्रोग्धुम्⟫
 :::
-⟪कुलूहल⟫ n.: Neugier, Interesse
+⟪कुलूहल⟫ n.: ፈላጭነት፣ ትዕልተኝ
 
 ::: media
 ![](/images/lekt4901.webp)
-Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/licenses#lekt4901))
+ስዕረ: ⟪कुलूहलम्⟫
+(ምስል ምንጭ: [ዝርዝሮች](/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: ganz, vollständig
+⟪कृत्स्न⟫ 3: ሙሉ፣ ሁሉን አቀፍ
 
-⟪परिचय⟫ m.: Bekanntschaft
+⟪परिचय⟫ m.: ግንኙነት
 
-⟪कला⟫ f.: Kunst
+⟪कला⟫ f.: ጥበብ
 
 ::: media
 ![](/images/lekt4902.webp)
-Abb.: ⟪उत्तमा⟫ ⟪काला⟫
-⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt.
-(Bildquelle: [Details](/licenses#lekt4902))
+ስዕል፦ ⟪उत्तमा काला शिवो नटराजा⟫፣ 11ኛው ክፍለ ዘመን
+(የስዕል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: Wunsch
+⟪वर⟫ m.n.: ፈቃድ
 
-⟪उत⟫ Indekl.: und, auch, oder
+⟪उत⟫ Indekl.: እና፣ ወይም
 
-⟪विहंग⟫ m.: Vogel ("in den Luf⟪स्⟫traum - ⟪विह⟫ - gehend")
+⟪विहंग⟫ m.: ወንድ ("አየር स् ጥልቀት ውስጥ - ⟪विह⟫ - በሚያልፍበት ጊዜ")
 
 ::: media
 ![](/images/lekt4903.jpg)
-Abb.: ⟪विहंगः⟫
-(Bildquelle: [Details](/licenses#lekt4903))
+ስዕል፦ ⟪विहंगः⟫
+(የስዕል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: Kleid, Aussehen, Äusseres
+⟪वेष⟫ m.: ልብስ፣ ቅርጽ፣ ውጫዊ መልክ
 
 ::: media
 ![](/images/lekt4904.webp)
-Abb.: ⟪वेषः⟫
-⟪वाराणस्याम्⟫
-(Bildquelle: [Details](/licenses#lekt4904))
+ስዕል፦ ⟪वेषः वाराणस्याम्⟫
+(የስዕል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: Decke, Versteck
+⟪छन्न⟫ n.: ሽፋን፣ ቦታ
 
-⟪पञ्जर⟫ n.: Käfig
+⟪पञ्जर⟫ n.: ማሰር
 
 ::: media
 ![](/images/lekt4909.webp)
-Abb.: ⟪पञ्जरम्⟫
-Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore
-(Bildquelle: [Details](/licenses#lekt4909))
+ስዕል፦ ⟪पञ्जरम्⟫
+ጸሎተኛ ከአንባ በስት ውስጥ፦ አንቡ ማዕረጎች ይስበዋል፣ በእነርሱ ላይ የታጠረው ዕድል ነው ሚሶር
+(የስዕል ምንጭ፦ [ዝርዝሮች](/licenses#lekt4909))
 :::
 ⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
@@ -4121,36 +4077,33 @@ Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
 | **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
 | **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
-⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
+⟪वै⟫ : ቃላት፣ ነዚንኡ ዝቀደመ ቃል የግላ፦ እውነት፣ በእርግጥ።
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
+⟪इह⟫ ቃላት፦ እዚህ፣ በምድር ላይ ይሄንኡ። ከአሁን በቀደመ ቃል (⟪षष्ठी⟫) ጋር እኩል ነው። ⟪अस्मिन्⟫ ማለት ትዕግሥቱን መከተል ማለት ነው። (ዓለም)
 
-⟪कल्प⟫ m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu ⟪कॢप्⟫)
-
-⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön
+⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :ደሚ
 
 ::: media
 ![](/images/lekt5003.webp)
-Abb.: ⟪कल्याणी⟫
-(Bildquelle: [Details](/licenses#lekt5003))
+ስዕላ፦ ⟪कल्याणी⟫
+(ስዕል ምንጭ: [Details](/licenses#lekt5003))
 :::
-⟪कु⟫- : als Vorderglied von Komposita: schlecht
+⟪कु⟫- : እንደ ቀጣይነት ይሁኑ ሲታዩ: አስተማምነ
 
 ::: media
 ![](/images/lekt5004.webp)
-Abb.: ⟪कुनगरम्⟫
-⟪धारावी⟫, ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5004))
+ስዕላ፦ ⟪कुनगरम् धारावी⟫, ⟪मुंबई⟫
+(ስዕል ምንጭ: [Details](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ :ይዘሁ
 
 ::: indent
 Perf. ⟪चचक्षे⟫
-in den übrigen Tempora nicht verwendet
+በሌሎች ቃላት ውስጥ አይደለም
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ :ይዘሁ፣ ይነጋገሩ
 
-⟪देश⟫ m.: Ort, Platz, Land, Gegend
+⟪देश⟫ m.: ቦታ፣ መደረጊያ
 
 ## ትምህርት 51
 
@@ -4160,36 +4113,36 @@ in den übrigen Tempora nicht verwendet
 
 
 
-⟪अजिन⟫ n.: Antilopenfell, bes. das Fell der schwarzen Antilope (Hirschziegenantilope : _Antilope cervicapra_ L. ). Kam ursprünglich auf dem ganzen indischen Subkontinent vor von Punjab und Sind bis Bengalen und von Nepal bis Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Siehe:
+⟪अजिन⟫ n.: ሰላፊዎች ትክክለኛውን ሰላፊዎች (Antilope cervicapra L. ) በመነሻው ላይ ነበር። (Tamil: கன்னியாகுமரி) ማየት
 
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
 ::: media
 ![](/images/lekt5105.webp)
-Abb.:
-(Bildquelle: [Details](/licenses#lekt5105))
+ስዕላ፦ 
+(ስዕል ምንጭ: [Details](/licenses#lekt5105))
 :::
-⟪अतिथि⟫ m.: Gast
+⟪अतिथि⟫ m.: አገልጋይ
 
-⟪अभ्यन्तर⟫ 3: im Inneren befindlich, nächster ; m. der nächste Angehörige, Eingeborener
+⟪अभ्यन्तर⟫ 3: በውስጡ ይሁኑ ሲታዩ; m. አንጻራዊ
 
-⟪अरण्य⟫ n.: Wildnis, Wald
+⟪अरण्य⟫ n.: ሰማያዊ ቦታ፣ ዱር
 
-⟪ऋतु⟫ m.: periodischer Vorgang, Jahreszeit, Zeitabschnitt, Menstruation, Zeit, in der die Frau empfängnisbereit ist und ein Anrecht auf Beischlaf ihres Gatten hat.
+⟪ऋतु⟫ m.: ዑደታዊ ሂደት፣ ወቅት፣ የጊዜ ክፍል፣ ወርሃዊ ጥምቀት (ማስተንፈስ)፣ ጊዜ፣ እቂት ያላት ከተማ ገበያ ትዳር እንግሊዝ ከማለት ይቀየራል።
 
 ::: indent
-Zu ⟪ऋतु⟫ siehe Manu III, 45-48: danach dauert ⟪ऋतु⟫ 16 Tage (nach der alternativen Übersetzung: 20 Tage) ab Beginn der Monatsblutung, an den ersten vier Tagen nach Beginn der Blutung ist Geschlechtsverkehr verboten (Nach der alternativen Übersetzung: an den ersten acht (4 + 4) Tagen), ebenso am 11. (bzw. 15.) und 13. (bzw. 18.) Tag. An geraden Tagen empfängt die Frau Söhne, an ungeraden Töchter. Für das Folgende wird ein ⟪ऋतु⟫ von insgesamt 16 Tagen (nicht die Alternativübersetzung) angenommen, wie es auch die meisten einheimischen Kommentare tun, und was also die vorherrschende Auffassung gewesen ist.
+ስለ ⟪ऋतु⟫ ይዩ ማኑ III፣ 45-48: ከዚያ በኋላ ⟪ऋतु⟫ 16 ቀናት (በአማራጭ ምክንያታዊነት: 20 ቀናት) ከወርሃዊ ጥምቀት መጀመሪያ ይቆያል፣ በመጀመሪያዎቹ አራት ቀናት ከጥምቀት መጀመሪያ ማንኛውም ዕድል የለም (በአማራጭ ምክንያታዊነት: በመጀመሪያዎቹ ዘጠኝ (4 + 4) ቀናት)፣ በ11. (ወይም 15.) እና 13. (ወይም 18.) ቀን። በእኩል ቀናት ሴቶች ይወለዳሉ፣ በማይመስል ቀናት ገበያዎች። ይህንን ከቀጣይ ስለ እርስዎ ይህንን ⟪ऋतु⟫ በአጠቃላይ 16 ቀናት (ማለትም አማራጭ ምክንያታዊነት) እንደሚገመተው ይታያል፣ እንደ አብዛኞቹ የአውሮፓ ምስረታዎች ይመስለኛል፣ እና ስለሆነም ይህ ከቀጣይ አስተያየት ሆኖ ይታወቃል።
 
-Da der Eisprung 14 Tage vor dem Beginn der Monatsblutung liegt, ist bei dieser Bestimmung der fruchtbaren Periode Fruchtbarkeit beinahe "garantiert" für einen Abstand der Monatsblutungen von 19 bis 30 Tagen. Die verbotenen Tage (11. und 13.) verbessern die Wahrscheinlichkeit für Geschlechtsverkehr am 12. und 14. Tag, d.h. die Empfängniswahrscheinlichkeit bei einem Zyklus von 28. Tagen (die Lebensdauer der Spermien in der Frau beträgt ca. 3 Tage). Diese Bestimmungen sind als sozusagen positiver Einsatz von Knaus-Ogino.
+ጥምቀት 14 ቀናት ከወርሃዊ ጥምቀት መጀመሪያ በኋላ ከዚያ ይቆያል፣ ስለዚህ በዚህ ዕቂት የተገመተው ፀንቶ መደረጉ "የተገመተ" ነው ማለት ይቻላል፣ በዚያን ቀን ከ19 እስከ 30 ቀናት ድረስ። የተከለኩቱ ቀናት (11. እና 13.) ዕድልን ማሻሻያ ነው፣ በ12. እና 14. ቀን ማለት ይቻላል፣ በዚያን ቀን ከ28. ቀናት ጋር (የወንድ ዕቂት በሴት ውስጥ ማለት ይቻላል 3 ቀናት)። እነዚህ ዕቂቶች ማለት ይቻላል ከካውናስ-ዎጂኖ ማለት ይቻላል ከዚያ በኋላ።
 :::
 ::: media
 ![](/images/lekt5106.jpg)
-Abb.: ⟪ऋतुः⟫
-(Bildquelle: [Details](/licenses#lekt5106))
+ምስል፡ ⟪ऋतुः⟫
+(ምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt5106))
 :::
-⟪एकत्र⟫ Adv.: an einer Stelle
+⟪एकत्र⟫ Adv.: በአንድ ቦታ
 
-⟪जटा⟫ f.: Haarflechte (Haartracht des Asketen)
+⟪जटा⟫ f.: የጅብ ስም (የአስኬት ዕድል)
 
 ::: media
 ![](/images/lekt5107.webp)
@@ -4621,27 +4574,27 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt0201**: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts). Beschriftung: * Priesterstand (~Brāhmaṇa): Tu supplex ora = Du bete flehend! * Adelsstand (~Kṣatriya): Tu protege = Du schütze! * Bauernstand (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! Die drei Stände tragen die jeweilige Standestracht. Über den - damit als gottgewollt bezeichneten - Ständen trohnt Christus. [Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129]
 
-**lekt0203**: Gott Agni, Miniatur, 18. Jhdt [Bildquelle: Wikipedia, Public domain]
+**lekt0203**: ግዕዝ ኣግኒ፣ ትንሽ ስእል፣ 18ኛው ክፍለ ዘመን [ምስረታ ምንጭ: ዊኪፔዲያ፣ ህዝባዊ ክልል]
 
-**lekt0202**: Sādhu (⟪साधु⟫), Pashupatinath Tempel (⟪पशुपतिनाथ⟫ ⟪मन्दिर⟫), Kathmandu (⟪काठमांडौ⟫), Nepal (⟪नेपाल⟫), 2007 [Bildquelle: Peter Akkermans, Wikipedia, GNU FDLizenz]
+**lekt0202**: ሳዱ (⟪साधु⟫)፣ ሳዱ (⟪पशुपतिनाथ मन्दिर⟫)፣ ሳዱ (⟪काठमांडौ⟫)፣ ሳዱ (⟪नेपाल⟫)፣ 2007 [ምስረታ ምንጭ: ፒተር አኬርማንስ፣ ዊኪፔዲያ፣ GNU FDLizenz]
 
-**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Bildquelle: Wikipedia, GNU FDLizenz]
+**lekt0303**: ዱርጋ = ⟪दुर्गा⟫፣ ኦሪስሳ (ଓଡ଼ିଶା) [ምስረታ ምንጭ: ዊኪፔዲያ፣ GNU FDLizenz]
 
-**lekt0501**: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt. [Bildquelle: Wikipedia, Public domain]
+**lekt0501**: ግዕዝ ካማ = kāmadeva = ⟪कामदेव⟫፣ 18ኛው ክፍለ ዘመን [ምስረታ ምንጭ: ዊኪፔዲያ፣ ህዝባዊ ክልል]
 
-**lekt0701**: War das die vedische Somapflanze?: Fliegenpilz: Amanita muscaria (L.) Lam. [Bildquelle: Wikipedia, GNU FDLizenz]
+**lekt0701**: ይህ የቬዳ ሶማ ተኽል ነበር? ፊንጋስ: Amanita muscaria (L.) Lam. [ምስረታ ምንጭ: ዊኪፔዲያ፣ GNU FDLizenz]
 
-**lekt0809**: ⟪लिख्⟫ : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
+**lekt0809**: ⟪लिख्⟫ : ኢንዲያዊ የጽሕፈት ጥቅል ከብረንድ የተሰራ ለፓልም ቅጠሎች ላይ ለመቀዳት [ምስረታ ምንጭ: መይየርስ ትልቁ የማዕከላዊ ማጣቀሻ መዝገበ ቃላት 1905. ህዝባዊ ክልል]
 
-**lekt0810**: ⟪लिख्⟫ : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
+**lekt0810**: ⟪लिख्⟫ : የባታክ (ሱማትራ) ጽሕፈት ጥቅል እንደ ኢንዲያ ውስጥም ሊሆን ይችል ነበር [ምስረታ ምንጭ: መይየርስ ትልቁ የማዕከላዊ ማጣቀሻ መዝገበ ቃላት 1905. ህዝባዊ ክልል]
 
-**lekt0903**: adhyayana = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai [Bildquelle: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
+**lekt0903**: adhyayana = ⟪अध्ययन⟫፣ ስሪ ስካንዳጉሩ ቪዲያላያም፣ ሽርጉንድራም በማዱራ [ምስረታ ምንጭ: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- መገባኛ በ 2008-11-23. -- Creative Commons ፈቃድ (የተሰጠ መለያ፣ ማስተካከያ የለም)]
 
-**lekt0902**: kāru = ⟪कारु⟫, Gujarat [Bildquelle: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt0902**: kāru = ⟪कारु⟫፣ ጉጃራት [ምስረታ ምንጭ: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- መገባኛ በ 2008-11-23. -- Creative Commons ፈቃድ (የተሰጠ መለያ፣ ለኮመርስ አይደለም፣ ማስተካከያ የለም)]
 
-**lekt1003**: Gott Varuṇa = ⟪वरुण⟫, 17. Jhdt. [Bildquelle. Wikipedia, Public domain]
+**lekt1003**: ግዕዝ ቫሩጋ = ⟪वरुण⟫፣ 17ኛው ክፍለ ዘመን [ምስረታ ምንጭ. ዊኪፔዲያ፣ ህዝባዊ ክልል]
 
-**lekt1002**: Ein Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / von Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \<1848 - 1906\> [Bildquelle: Wikipedia, Public domain]
+**lekt1002**: አንድ ሩሲ: ቪስቫሚትራ (⟪विश्वामित्र⟫) / ከ ራጃ ራቪ ቫርማ (⟪राज रवि वर्मा⟫) (1848–1906) [ምስረታ ምንጭ: ዊኪፔዲያ፣ ህዝባዊ ክልል]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Bildquelle: Prakash Subbarao / Wikipedia. -- Public domain]
 
@@ -4972,5 +4925,4 @@ Inf. ⟪त्रातुम्⟫
 **lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Bildquelle: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
 
 **lekt5217**: Māras Angriff auf Buddha Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense]
-
 

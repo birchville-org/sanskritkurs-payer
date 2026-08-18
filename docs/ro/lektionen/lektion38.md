@@ -30,7 +30,7 @@ Explicații:
 Fig.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3801))
 :::
-## 38.2. Schimbarea fonetică a nazalelor în cuvânt <!-- TODO: Fallback translation -->
+## 38.2. Schimbarea fonetică a nazalelor în cuvânt
 
 ::: grammar-box
 Nazalele din interiorul cuvântului se asimilează consoanelor care le urmează, adică sunt înlocuite de nazala corespunzătoare acelui consoană.
@@ -197,13 +197,13 @@ Exemplu:
 Fig.: ⟪हस्ती⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫: unul care are (mâini) umane <!-- TODO: Fallback translation -->
+⟪हस्तवन्त्⟫: unul care are (mâini) umane
 
 ::: media
 ![](/images/lekt3807.webp)
 Fig.: ⟪हस्तवान्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3807))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
@@ -288,14 +288,14 @@ Exemplu:
 Fig.: ⟪सूर्यः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Apă <!-- TODO: Fallback translation -->
+⟪उदक⟫ n.: Apă
 
 ::: media
 ![](/images/lekt3805.webp)
 Fig.: ⟪उदकम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : a sufla, a bate vântul <!-- TODO: Fallback translation -->
+⟪वा⟫ 2P ⟪वाति⟫ : a sufla, a bate vântul
 
 ::: indent
 Fut. ⟪वास्यति⟫
@@ -343,7 +343,7 @@ din care:
 ::: indent
 Feminin:
 
-⟪राज्ञी⟫ f.: Regină, soție a unui rege <!-- TODO: Fallback translation -->
+⟪राज्ञी⟫ f.: Regină, soție a unui rege
 
 de la :sig[⟪राज⟫] :
 
@@ -452,7 +452,7 @@ A) Introduceți în propozițiile următoare forma corespunzătoare a cuvintelor
 Fig.: ⟪विनोदः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : a umbla în cerc, a se plimba <!-- TODO: Fallback translation -->
+⟪अट्⟫ 1P ⟪अटति⟫ : a umbla în cerc, a se plimba
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
@@ -480,7 +480,7 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 Fig.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3813))
 :::
-⟪एकैकशस्⟫ Adv.: fiecare în parte <!-- TODO: Fallback translation -->
+⟪एकैकशस्⟫ Adv.: fiecare în parte
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : a număra
 
@@ -564,9 +564,9 @@ Explicații:
 
 :sig[⟪दश⟫] Nom.Akk.pl.m.f.n. pentru ⟪दशन्⟫ "zece"
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual pentru ⟪बाहु⟫ m. "braț" <!-- TODO: Fallback translation -->
+⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual pentru ⟪बाहु⟫ m. "braț"
 
-:sig[⟪सर्वे⟫] Nom.pl.m. pentru ⟪सर्व⟫ 3 "fiecare, toți" <!-- TODO: Fallback translation -->
+:sig[⟪सर्वे⟫] Nom.pl.m. pentru ⟪सर्व⟫ 3 "fiecare, toți"
 
 :sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ pentru ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "a vrea să cunoască, a vrea să știe"
 
@@ -582,26 +582,9 @@ Explicații:
 
 :sig[⟪समजनि⟫] 3.sg.Passiv Aorist pentru ⟪जन्⟫
 
-⟪तरसा⟫ Instr. sg. pentru ⟪तरस्⟫ n. "energie", folosit adverbial: "rapid, cu forță" <!-- TODO: Fallback translation -->
+⟪तरसा⟫ Instr. sg. pentru ⟪तरस्⟫ n. "energie", folosit adverbial: "rapid, cu forță"
 
 :sig[⟪यूयम्⟫] Nom.pl. "voi"
 
 ⟪युष्माकम्⟫ Gen.pl. pentru :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Ilustr.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ Bangalore = ಬೆಂಗಳೂರು \[Sursă imagine: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Accesat la 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licență Creative Commons (Atribuire, utilizare non-comercială)\]
-- **lekt3802.jpg**: Ilustr.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Sursă imagine: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Accesat la 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licență Creative Commons (Atribuire, utilizare non-comercială)\]
-- **lekt3803.jpg**: Ilustr.: ⟪सीमा⟫  punct de trecere a frontierei dintre India și Pakistan în Wagah (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Sursă imagine: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Accesat la 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licență Creative Commons (Atribuire, utilizare non-comercială, partajare identică)\]
-- **lekt3804.jpg**: Ilustr.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, sec. 2./3. d.Hr. \[Sursă imagine: Wikipedia. Domeniu public\]
-- **lekt3805.jpg**: Ilustr.: satul Darewadi, Districtul Ahmed Nagar = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Sursă imagine: Robin Murphy, Institutul pentru Resursele Mondiale. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Accesat la 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licență Creative Commons (Atribuire, utilizare non-comercială, partajare identică)\]
-- **lekt3806.jpg**: Ilustr.: Parcul Național Nagarhole = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Sursă imagine: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Accesat la 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licență Creative Commons (Atribuire, utilizare non-comercială, partajare identică)\]
-- **lekt3807.jpg**: Ilustr.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Sursă imagine: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Accesat la 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licență Creative Commons (Atribuire, utilizare non-comercială, fără modificări)\]
-- **lekt3808.jpg**: Ilustr.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  anii 1930 \[Sursă imagine: Wikipedia. Domeniu public\]
-- **lekt3809.jpg**: Ilustr.: Halebidu = ಹಳೆಬೀಡು \[Sursă imagine: Wikipedia. Licență GNU FDL\]
-- **lekt3810.jpg**: Ilustr.: Arborele Ashoka = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Sursă imagine: J.M.Garg / Wikipedia. Licență GNU FDL\]
-- **lekt3811.jpg**: Ilustr.: Cea mai mare extindere a Imperiului lui Aśoka, precum și locurile de descoperire ale edictelor sale pe stânci și coloane \[Sursă imagine: Wikipedia.Licență GNU FDL\]
-- **lekt3812.jpg**: Ilustr.: ⟪विनोदः⟫  joc Carrom \[Sursă imagine: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Accesat la 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licență Creative Commons (Atribuire, utilizare non-comercială, partajare identică)\]
-- **lekt3813.jpg**: Ilustr.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Sursă imagine: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Accesat la 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licență Creative Commons (Atribuire, utilizare non-comercială)\]
-- **lekt3814.jpg**: Ilustr.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Sursă imagine: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Accesat la 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licență Creative Commons (Atribuire, utilizare non-comercială, fără modificări)\]
-:::

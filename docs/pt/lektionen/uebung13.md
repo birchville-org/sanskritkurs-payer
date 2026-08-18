@@ -24,7 +24,7 @@ O conhecimento libertou Gautama. Por meio do conhecimento, Gautama foi liberto.
 
 ⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
 Die Śūdras / Śūdrafrauen sind verblendet.
-⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
 
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
 O brâmane desejava a libertação.
@@ -32,7 +32,7 @@ O brâmane desejava a libertação.
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
 Diz-se que os sábios védicos apenas disseram a verdade.
@@ -125,11 +125,11 @@ O que os brâmanes comem e bebem?
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung019))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Exercícios Adicionais
 
-A) Übersetzen Sie folgende Sätze. <!-- TODO: Fallback translation -->
+A) Übersetzen Sie folgende Sätze.
 
 B) Transforme as frases do Exercício A) para a voz passiva.
 
@@ -231,9 +231,9 @@ D) De quais combinações fonéticas podem ter surgido as seguintes formas de Sa
 36. Anusvara vor Konsonant: -m
 37. -ṃśc-: -n + c-
 38. -ṃṣṭ-: -n + ṭ-
-39. -mst-: -n + t- <!-- TODO: Fallback translation -->
+39. -mst-: -n + t-
 
-E) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+E) Übersetzen Sie ins Sanskrit:
 
 1\. Die Göttin war erzürnt.
 ⟪देवी⟫ ⟪कुपिता⟫ ⟪।⟫ ⟪देव्या⟫ ⟪कुपितम्⟫
@@ -257,13 +257,13 @@ E) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
 ⟪ब्राह्मणेनानृतं⟫ ⟪नोदितम्⟫ ⟪।⟫
 
 8\. Śūdrafrauen haben die Göttin mit Opfern verehrt.
-⟪शूद्राभिर्देवीष्टा⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪शूद्राभिर्देवीष्टा⟫ ⟪।⟫
 
 9\. O Buda despertou para a verdade = o Buda reconheceu a verdade.
 ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫ ⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुद्धः⟫ ⟪।⟫
 
 10\. Die vedischen Weisen haben die Śruti gehört.
-⟪ऋषिभिः⟫ ⟪श्रुतिः⟫ ⟪श्रुता⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪ऋषिभिः⟫ ⟪श्रुतिः⟫ ⟪श्रुता⟫ ⟪।⟫
 
 11. Os sacerdotes sacrificadores espremeram o soma.
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
@@ -273,4 +273,3 @@ E) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung018))
 :::
- <!-- TODO: Fallback translation -->

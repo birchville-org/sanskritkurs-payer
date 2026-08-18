@@ -94,8 +94,3 @@ Fig.: ⟪अजीर्यमिति⟫
 (Sumber gambar: [Detail](/en/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** 'Inâyat Khân di tempat tidur kematiannya, sketsa untuk miniatur naskah untuk Jahângîr = جهانگير, kira-kira 1618 [Sumber gambar: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Diakses pada 2009-01-28. Domain publik]
-
-:::

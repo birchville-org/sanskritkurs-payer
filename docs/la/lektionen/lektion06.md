@@ -5,19 +5,10 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 6
 
-::: deleteme-box
-**In hac lectione discetis:**
-- Structuram sententiae verbalis (agens et forma verbalis)
-- Formationem formarum verbalium (Parasmaipada, Ātmanepada, Passivum)
-- Modos et tempora verbi
-- Indicativum praesens (laṭ) et terminationes primarias tertiae personae
-- Formationem radicis praesentis (classibus 1, 4 et 6)
-- Mutationem vocalem (Ablaut: Guṇa et Vṛddhi)
-:::
 ## 6.1. Sententia verbalis
 
 ::: grammar-box
@@ -29,7 +20,7 @@ status: stable
 :::
 Si agens (**kartṛ m. = ⟪कर्तृ⟫) in propositione verbalis nominatur, quae non est passiva, tum agens in **Nominativo** (casus primus, prathamā = ⟪प्रथमा⟫) ponitur. In numero (vacana n. = ⟪वचन⟫) agens et forma verbalis congruunt.
 
-## 6.2. De formatione verborum <!-- TODO: Fallback translation -->
+## 6.2. De formatione verborum
 
 Verbum finitum, id est forma verbalis cum desinentia personali, Sanscritice hoc significat:
 
@@ -58,9 +49,9 @@ Quaedam verba aut solum Parasmaipadae aut solum Ātmanepadae adhibentur. In his 
    5. **Futurum**: Futurum
    6. **Conditionalis**
 
-Tempora a stemmatibus temporalibus constituuntur: praesens, aoristus, perfectum, futurum. <!-- TODO: Fallback translation -->
+Tempora a stemmatibus temporalibus constituuntur: praesens, aoristus, perfectum, futurum.
 
-## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫) <!-- TODO: Fallback translation -->
+## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫)
 
 Praesens est tempus praesentiae, praesertim etiam durationis.
 
@@ -73,7 +64,7 @@ Exempla:
 | :--- | :--- | :--- |
 | **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" |
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
-| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" | <!-- TODO: Fallback translation -->
+| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
 
 ## 6.4. Primae terminationes tertiae personae (prathama m. = ⟪प्रथम⟫ = "prima (!) persona")
 
@@ -129,7 +120,7 @@ Ante vocales, in medio verbi, **e** per **ay**, **o** per **av** mutatur.
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verba classis quartae praesentis (divādi = ⟪divādi⟫ = "div etc.") <!-- TODO: Fallback translation -->
+### 6.5.3. Verba classis quartae praesentis (divādi = ⟪divādi⟫ = "div etc.")
 
 ::: grammar-box
 **Radix praesentis = radix in gradu profundo (in qua enuntiatur) + ya-**
@@ -147,7 +138,7 @@ Ante vocales, in medio verbi, **e** per **ay**, **o** per **av** mutatur.
 Vocale tematisum in suffixis formationis radicis classium praesentium appellatur. Praesentes classes, quae **a** in suffixo formationis radicis habent, ideo "praesentes classes tematicae" vocantur.
 :::
 
-## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫) <!-- TODO: Fallback translation -->
+## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
 - **N. N. quid facit?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Quid N. N. facit?"
@@ -215,7 +206,7 @@ In Sanscrito verba per **formam radicis** indicantur. Numerus post radicem **cla
 (Fons imaginis: Wikipedia, CC-BY-SA 2.5)
 :::
 
-## 6.9. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 6.9. Wiederholungsübung
 
 **A) Exercitium insertionis: Formate quaestiones, ad quas sententiae, quas post sequentia exercitia insertionis formabitis, responsa sunt:**
 1. deī ... (dominus, saltare, creare, ignis, Indra)

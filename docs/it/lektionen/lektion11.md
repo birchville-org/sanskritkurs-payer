@@ -5,17 +5,10 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lezione 11
 
-::: deleteme-box
-**In questa lezione imparerete:**
-- L'accusativo doppio (accusativo della persona e della cosa)
-- L'uso delle particelle **iti**, **evam** e **na**
-- Concetti fondamentali come **dharma**, **adharma** e **putra**
-- La formazione di nominali dalle radici **vad**, **prach** e **iṣ**
-:::
 ## 11.1. Accusativo doppio
 
 ::: grammar-box
@@ -71,7 +64,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫, distretto di Jamalpur, Banglades
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : chiedere
-  - **praśna** m. ⟪प्रश्न⟫ : domanda (suffisso **-na** come in **yaj-ña**) &lt;!-- TODO: Fallback translation --&gt;
+  - **praśna** m. ⟪प्रश्न⟫ : domanda (suffisso **-na** come in **yaj-ña**) &lt;!--  --&gt;
 
 - **iṣ** 6 P ⟪इष्⟫ : desiderare
   - **iṣṭi** f. ⟪इष्टि⟫ : desiderio (**iṣ** + **-ti**)

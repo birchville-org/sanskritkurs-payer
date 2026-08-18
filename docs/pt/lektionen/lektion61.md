@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 61
 
@@ -34,7 +34,7 @@ Paradigma:
 ### 61.1.2. Substantivos-raiz femininos em -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
 **Além das formações com as desinências de caso regulares, também ocorrem no Dat.Ab.Gen.Loc.sg. e no Gen.pl. formações segundo o padrão dos femininos polissilábicos em -ī (⟪देवी⟫).**
 :::
@@ -114,7 +114,7 @@ Paradigmas:
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
 ⟪भू⟫ f. "terra"
 
@@ -203,7 +203,7 @@ As terminações do futuro perifrástico são, portanto, as seguintes:
 ::: grammar-box
 **Forma da raiz: A raiz geralmente tem a mesma forma que no futuro simples. O mesmo se aplica à vogal de ligação -i-.**
 :::
-Exemplos: <!-- TODO: Fallback translation -->
+Exemplos:
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ etc. |
 | --- | --- |
@@ -280,10 +280,10 @@ Exemplos:
 ⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
 ⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
 :::
-As regras em detalhe em Kielhorn, Grammatik § 461. <!-- TODO: Fallback translation -->
+As regras em detalhe em Kielhorn, Grammatik § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Exemplos: <!-- TODO: Fallback translation -->
+Exemplos:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -438,7 +438,7 @@ Observe o significado de:
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ⟪हरिद्वार⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt6105))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -446,7 +446,7 @@ Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt6103))
 :::
-### 61.4.3. Formação com o sufixo -kāmya, Parasmaipada <!-- TODO: Fallback translation -->
+### 61.4.3. Formação com o sufixo -kāmya, Parasmaipada
 
 ::: grammar-box
 **Significado:**
@@ -465,7 +465,7 @@ Fig.: ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt6109))
 :::
-### 61.4.4. Formação com o sufixo -sya ou -asya, Parasmaipada <!-- TODO: Fallback translation -->
+### 61.4.4. Formação com o sufixo -sya ou -asya, Parasmaipada
 
 ::: grammar-box
 **Significado:**
@@ -656,7 +656,7 @@ Paradigmas: Kielhorn, Grammatik § 153:
 ::: media
 ![](/images/lekt6115.webp)
 (Fonte da imagem: [Details](/licenses#lekt6115))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -664,7 +664,7 @@ Paradigmas: Kielhorn, Grammatik § 153:
 Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 (Fonte da imagem: [Details](/licenses#lekt6118))
 :::
-## 61.8. Pronomes Restantes <!-- TODO: Fallback translation -->
+## 61.8. Pronomes Restantes
 
 ### 61.8.1. Pronomes Pessoais do Dual
 
@@ -673,7 +673,7 @@ Kielhorn, Gramática § 177:
 ::: media
 ![](/images/lekt6116.jpg)
 (Fonte da imagem: [Details](/licenses#lekt6116))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -682,7 +682,7 @@ Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 Povo Apatani, Arunachal Pradesh
 (Fonte da imagem: [Detalhes](/licenses#lekt6117))
 :::
-### 61.8.2. Pronome demonstrativo ⟪अदस्⟫ "aquele (distante)" <!-- TODO: Fallback translation -->
+### 61.8.2. Pronome demonstrativo ⟪अदस्⟫ "aquele (distante)"
 
 Masculino (⟪पुंस्⟫)
 
@@ -768,36 +768,3 @@ Ofterdingen, 2009-03-09
 FIM DO CURSO DE SÂNSCRITO
 :::
 
-::: deleteme-box
-
-**lekt6102:** [Fonte da imagem: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Acessado em 2009-03-06. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, uso não comercial, sem derivações)]
-
-**lekt6106:** ⟪काशीपुर⟫ [Fonte da imagem: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Acessado em 2009-03-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, uso não comercial, compartilhamento pela mesma licença)]]
-
-**lekt6107:** ⟪जोधपुर⟫ [Fonte da imagem: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Acessado em 2009-03-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuição, uso não comercial, compartilhamento pela mesma licença)]
-
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Fonte da imagem: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Acessado em 2009-03-08. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, uso não comercial, sem derivações)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Fonte da imagem: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Acedido em 2009-03-08. --  [Licença Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuição)]
-
-**lekt6103:** [Fonte da imagem: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Acedido em 2009-03-08. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribuição, Uso Não-Comercial)]
-
-**lekt6109:** ⟪मुंबई⟫ [Fonte da imagem: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Acedido em 2009-03-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-
-**lekt6110:** Karli [Fonte da imagem: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Acedido em 2009-03-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não-Comercial, Proibição de Obras Derivadas)]
-
-**lekt6111:** [Fonte da imagem: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Acessado em 2009-03-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribuição, CompartilhaIgual)]
-
-**lekt6113:** Tailândia - เมืองไทย [Fonte da imagem: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Acessado em 2009-03-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuição, Uso Não Comercial, Proibição de Obras Derivadas)]
-
-**lekt6112:** 1845 - 1878 Professor de Filologia Indo-Oriental na Universidade de Copenhague
-
-**lekt6114:** Basílica de Santa Cruz, Kochi = കൊച്ചി [Fonte da imagem: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Acessado em 2009-03-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribuição, Uso Não Comercial)]
-
-**lekt6118:** [Fonte da imagem: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Acessado em 2009-03-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuição)]
-
-**lekt6117:** Povo Apatani, Arunachal Pradesh [Fonte da imagem: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Acessado em 2009-03-09. -- [Licença Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuição)]
-
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), séc. XII/XIII d.C. [Fonte da imagem: Quadell / Wikipedia. GNU FDLicense]
-
-:::

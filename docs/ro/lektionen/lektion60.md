@@ -194,7 +194,7 @@ Exemple:
 
 Exemplu: ⟪विदुषी⟫ "o înțeleaptă"
 :::
-Paradigme vezi Kielhorn, Gramatică § 124: <!-- TODO: Fallback translation -->
+Paradigme vezi Kielhorn, Gramatică § 124:
 
 ::: media
 ![](/images/lekt6001.webp)
@@ -232,7 +232,7 @@ Paradigme vezi Kielhorn, Gramatică § 124: <!-- TODO: Fallback translation -->
 
 Exemplu: ⟪प्रतीची⟫
 :::
-####  Vezi paradigmă la Kielhorn, Gramatikă § 128: <!-- TODO: Fallback translation -->
+####  Vezi paradigmă la Kielhorn, Gramatikă § 128:
 
 ::: media
 ![](/images/lekt6003.webp)
@@ -243,7 +243,7 @@ Exemplu: ⟪प्रतीची⟫
 ![](/images/lekt6004.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6004))
 :::
-Aici apar: <!-- TODO: Fallback translation -->
+Aici apar:
 
 *   ⟪प्रत्यञ्च्⟫ 3 "înapoi, spre vest"
 
@@ -405,7 +405,7 @@ Pasiv: ⟪यियक्ष्यते⟫ "se dorește sacrificarea"
 ::: indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "el dorise să obțină"
 :::
-**Aorist: iṣ-Aorist:** <!-- TODO: Fallback translation -->
+**Aorist: iṣ-Aorist:**
 
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)

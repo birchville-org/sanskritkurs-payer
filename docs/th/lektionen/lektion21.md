@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # บทที่ 21
 
@@ -307,15 +307,3 @@ B) จงแปล:
 
 ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-::: deleteme-box
-
-**lekt2101:** แผ่นหินอนุสรณ์ ⟪सती⟫ ในพระราชวัง Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [แหล่งที่มาของภาพ: Flicka / Wikipedia. GNU FDLicense]
-
-**lekt2102:** "ตราหิน Sardonyx จากศตวรรษที่ 4-6 CE แสดงรูป Vishnu พร้อมผู้สักการะ ข้อความอักษร Bactrian แบบเขียนอ่านว่า: "Mihira, Vishnu และ Shiva". [แหล่งที่มาของภาพ: PHGCOM / Wikipedia. GNU FDLicense]
-
-**lekt2103:** ⟪भगवान्कृष्णः⟫ ในฐานะ ⟪जगन्नाथ⟫ (ทางขวา) ด้วยน้องสาวต่างบิดา ⟪सुभद्रा⟫ (ตรงกลาง) และพี่ชายผู้โตกว่า ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [แหล่งที่มาของภาพ: Sujitkumar / Wikipedia. GNU FDLicense]
-
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [แหล่งที่มาของภาพ: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- เข้าถึงเมื่อ 2008-12-12. -- Creative Commons License (Attribution, ไม่ใช้เพื่อการค้า)]
-
-**lekt2105:** ⟪भगवद्गीता⟫ - มานิยคริต, ศตวรรษที่ 19 [แหล่งที่มาของภาพ: Wikipedia, Public domain]
-:::

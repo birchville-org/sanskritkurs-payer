@@ -10,11 +10,11 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 21
 
-A) Ratkaise seuraavat sanskritinkieliset yhdyssanat ja käännä ne: <!-- TODO: Fallback translation -->
+A) Ratkaise seuraavat sanskritinkieliset yhdyssanat ja käännä ne:
 
 ⟪१⟫. ⟪अनादिकालिकसंसरः⟫ ⟪।⟫
 ⟪अनादिः⟫ ⟪कालो⟫ ⟪यस्य⟫ ⟪सो⟫ ⟪ऽनादिकालिकः⟫ ⟪संसरः⟫ ⟪।⟫
-Alku- ja päättymätön kiertokulku uudelleensyntymisissä. <!-- TODO: Fallback translation -->
+Alku- ja päättymätön kiertokulku uudelleensyntymisissä.
 
 ⟪२⟫. ⟪अनादिमध्यान्तः⟫ ⟪।⟫
 ⟪न⟫ ⟪आदिश्च⟫ ⟪मध्यं⟫ ⟪च⟫ ⟪अन्तश्च⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
@@ -34,7 +34,7 @@ B) Käännä:
 Kuolleita polttava tuli polttaa myös uskollisen vaimon (satī).
 
 ⟪२⟫. ⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं⟫ ⟪स्तौति⟫ ⟪॥⟫
-Hyvä mestari ylistää suurta jumalaa suurten runoilijoiden ylistyslauluilla. <!-- TODO: Fallback translation -->
+Hyvä mestari ylistää suurta jumalaa suurten runoilijoiden ylistyslauluilla.
 
 ⟪३⟫. ⟪महान्ति⟫ ⟪फलान्यदन्तो⟫ ⟪बाला⟫ ⟪जलमापि⟫ ⟪पिबन्ति⟫ ⟪॥⟫
 Pojat, jotka syövät suuria hedelmiä, juovat myös vettä.
@@ -43,7 +43,7 @@ Pojat, jotka syövät suuria hedelmiä, juovat myös vettä.
 Palvunnan aikana mies uhraa ja ylistää jumaluutta.
 
 ⟪५⟫. ⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥⟫
-Kaksinkertaisesti syntynen on mies, joka on saanut vedakirjojen aloitusrituaalin opettajaltaan. <!-- TODO: Fallback translation -->
+Kaksinkertaisesti syntynen on mies, joka on saanut vedakirjojen aloitusrituaalin opettajaltaan.
 
 ⟪६⟫. ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥⟫
 Hän, joka on voittanut vihan, ei vihaa vihollistaan, vaikka tämä tappaisikin hänet. Mutta hän, jonka viha on voittanut, vihkaa.
@@ -52,5 +52,5 @@ Hän, joka on voittanut vihan, ei vihaa vihollistaan, vaikka tämä tappaisikin 
 ![](/images/uebung033.webp)
 Kuv.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung033))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

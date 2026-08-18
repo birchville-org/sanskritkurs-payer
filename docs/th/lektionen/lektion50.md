@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # บทที่ 50
 
@@ -290,24 +290,5 @@ B) จงแปล:
 
 คำอธิบาย:
 ⟪निषेकादीनि⟫ : นาม/อรรถพหูพจน์ neutrum
-:::
-::: deleteme-box
-
-**lekt5007:** ภาพประกอบ: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_  = ภูเขาเอเวอเรสต์ [แหล่งที่มาของภาพ: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- เข้าถึงเมื่อ 12 มกราคม 2009. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by/2.0/deed.de) (ให้เครดิต)]
-
-**lekt5006:** ล = , ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [แหล่งที่มาของภาพ: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- เข้าถึงเมื่อ 12 มกราคม 2009. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
-
-**lekt5001:** Kapil Sibal (1948 -), รัฐมนตรีสหภาพในกระทรวงวิทยาศาสตร์และเทคโนโลยีและกระทรวงธรณีศาสตร์ (ตั้งแต่ปี 2006) [แหล่งที่มาของภาพ: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- เข้าถึงเมื่อ 12 มกราคม 2009. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ให้เครดิต, แบ่งปันแบบเดียวกัน)]
-
-**lekt5002:** การมาถึงของมรสุม, บังกาลอร์ ಬೆಂಗಳೂರು [แหล่งที่มาของภาพ: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- เข้าถึงเมื่อ 2009-01-12. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต ไม่ใช้เพื่อการค้า ไม่ดัดแปลง)]
-
-**lekt5005:** [แหล่งที่มาของภาพ: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- เข้าถึงเมื่อ 2009-01-12. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ให้เครดิต แบบเดียวกัน)]
-
-**lekt5003:** [แหล่งที่มาของภาพ: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- เข้าถึงเมื่อ 2009-01-12. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต ไม่ใช้เพื่อการค้า ไม่ดัดแปลง)]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [แหล่งที่มาของภาพ: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5008:** Ganeshpuri, อยู่ห่างจากมุมไบ (⟪मुंबई⟫) 80 กม. [แหล่งที่มาของภาพ: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- เข้าถึงเมื่อ 2009-01-13. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ให้เครดิต ไม่ใช้เพื่อการค้า แบบเดียวกัน)]
-
 :::
 

@@ -606,7 +606,7 @@ B) המירו את צורות הפועל הבאות לצורות Perfect המת�
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. תרגיל חזרה zur Formenlehre <!-- TODO: Fallback translation -->
+## 40.8. תרגיל חזרה zur Formenlehre
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫
@@ -647,11 +647,3 @@ B) המירו את צורות הפועל הבאות לצורות Perfect המת�
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
-
-- **Image lekt4005.jpg** (תמונה: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): ודאסרי, מחוז ת'אנג'אפור = தஞ்சாவூர் மாவட்டם [מקור תמונה: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- תאריך גישה 2009-01-02. -- רישיון Creative Commons (ייחוס, שיתוף זהה)]
-- **Image lekt4003.jpg** (תמונה: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [מקור תמונה: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- תאריך גישה 2009-01-02. -- רישיון Creative Commons (ייחוס)]
-- **Image lekt4002.jpg** (תמונה: ⟪तीर्थङ्करः⟫): [מקור תמונה: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- תאריך גישה 2009-01-02. -- רישיון Creative Commons (ייחוס, לא מסחרי, ללא עיבוד)]
-- **Image lekt4001.jpg** (תמונה: ⟪विष्णोर्दशावताराः⟫): עם כיוון השעון: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, במרכז: ⟪कृष्ण⟫ [מקור תמונה: Wikipedia. Public domain]
-- **Image lekt4004.jpg** (תמונה: ⟪स्वपन्ति⟫): עטלפי פרי הודיים (_Pteropus giganteus_), אמדאבאד = અમદાવાદ [מקור תמונה: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- תאריך גישה 2009-01-02. -- רישיון Creative Commons (ייחוס, לא מסחרי, ללא עיבוד)]
-:::

@@ -144,4 +144,3 @@ C) Futur opziunal cun e senza **-i-**:
 Fig.: ⟪अविपालो⟫ ⟪ऽविं⟫ ⟪रक्षति⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung043))
 :::
- <!-- TODO: Fallback translation -->

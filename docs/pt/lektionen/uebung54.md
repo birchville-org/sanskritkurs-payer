@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 54
 
-Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aoristformen: <!-- TODO: Fallback translation -->
+Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aoristformen:
 
 ::: grammar-box
 | Nr. | Form | Bestimmung / Bedeutung | Aorist |
@@ -41,7 +41,7 @@ Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aori
 ![](/images/uebung093.webp)
 Abb.: ⟪अगायि⟫
 (Bildquelle: [Details](/licenses#uebung093))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

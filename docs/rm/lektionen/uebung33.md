@@ -103,7 +103,7 @@ Davant in sants che dat a las creatiras la senza-paura, na han las creatiras nag
 
 ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-Persunas limitadas spiritualmain fan merituvas e s'astgan da mal, perquai ch'ellas han paura d'inferns ed aspiran a paradisis. Tals, che èn vegnids svegliads a la perscriziun illimitada, na han nagina paura d'inferns ed aspiran a nagins paradisis. Els han finì la paura e il desideri. <!-- TODO: Fallback translation -->
+Persunas limitadas spiritualmain fan merituvas e s'astgan da mal, perquai ch'ellas han paura d'inferns ed aspiran a paradisis. Tals, che èn vegnids svegliads a la perscriziun illimitada, na han nagina paura d'inferns ed aspiran a nagins paradisis. Els han finì la paura e il desideri.
 
 ⟪मितमतिर्नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहाति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धो⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयात्स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येत्⟫ ⟪।⟫ ⟪स⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुणत्⟫ ⟪।⟫ ... ⟪बिभियात्⟫ ... ⟪॥७॥⟫
 

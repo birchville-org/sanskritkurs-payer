@@ -47,7 +47,7 @@ Desinenzas da la emprim persuna (⟪तृतीयः⟫) en il perfetg (⟪ल
 ::: grammar-box
 Notai che las desinenzas da la 1. persuna singulara P,Ā èn identicas cun quellas da la 3. persuna singulara. Perquai èn en tut ils tipps da perfetg, exceptà ils tipps III(a,b) e V(a,b,c), las furmas da la 1. singulara P resp. Ā adina identicas cun quellas da la 3. singulara P resp. Ā.
 
-En il tip IV finischa la 1. pers. sg. pres. sco la 3. pers. sg. pres. cun -au. <!-- TODO: Fallback translation -->
+En il tip IV finischa la 1. pers. sg. pres. sco la 3. pers. sg. pres. cun -au.
 
 Tar ils tipus da perfect III e V è la 1. singulara Ā identica cun la 3. singulara Ā.
 
@@ -73,12 +73,12 @@ En radischas ⟨⟪अनिट्⟨⟩⟩-sogen. facultativas poa il vocal da 
 
 1.sg. = 3.sg.
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 *   Konsonant-Langvokal-Konsonant
 *   Konsonant-Vokal-Konsonant-Konsonant
 *   a-Konsonant(-Konsonant)
-*   ā-Konsonant <!-- TODO: Fallback translation -->
+*   ā-Konsonant
 
 ⟪बन्ध्⟫ 9P
 
@@ -104,9 +104,9 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfekti Tip II: stem fort, stem bass <!-- TODO: Fallback translation -->
+### 40.2.2. Perfekti Tip II: stem fort, stem bass
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 *   (Konsonant-)i/u/ṛ/ḷ-Konsonant
 
@@ -128,13 +128,13 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
 :::
-### 40.2.3. Perfekti Tip III: Forts stgir/forts lungir <!-- TODO: Fallback translation -->
+### 40.2.3. Perfekti Tip III: Forts stgir/forts lungir
 
-1.sg.P a lè da sèlta u da lung <!-- TODO: Fallback translation -->
+1.sg.P a lè da sèlta u da lung
 
 #### 40.2.3.1. Tip da perfetg IIIa: radisch ferm cun nivel superiur/lungìr, radisch debel cun nivel inferior
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 *   (Konsonant-)(Konsonant-)i/ī/u/ū
 *   (Konsonant-)-ṛ
@@ -179,9 +179,9 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfekt Tip IIIb: Stamm fort cots/lung, stem bler cots <!-- TODO: Fallback translation -->
+#### 40.2.3.2. Perfekt Tip IIIb: Stamm fort cots/lung, stem bler cots
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 *   (Konsonant-)(Konsonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -211,13 +211,13 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfekt Tip IV: Radichas cun -ā / -ai <!-- TODO: Fallback translation -->
+### 40.2.4. Perfekt Tip IV: Radichas cun -ā / -ai
 
 *   Stamm fort:
     *   Stamm fort:
 *   1.,3. sg. Parasamaip.: -au
     *   Stamm fiabel:
-    *   avant vocal: Tiefstufe-ø <!-- TODO: Fallback translation -->
+    *   avant vocal: Tiefstufe-ø
 
 ⟪दा⟫ 3U
 
@@ -232,11 +232,11 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 :::
 ### 40.2.5. Tip da perfet: Consonant-a-Consonant
 
-1.sg.P. alternativ altstufig o. dehnstufig <!-- TODO: Fallback translation -->
+1.sg.P. alternativ altstufig o. dehnstufig
 
 #### 40.2.5.1. Perfekt Tip Va: Konsonant-a-Konsonant, stem debole livell bass
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 ::: indent
 1.  tra auters
@@ -310,9 +310,9 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   1.pl.Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfekti tip Vc: Konsonant-a-Konsonant, stem debole nivel alt <!-- TODO: Fallback translation -->
+#### 40.2.5.3. Perfekti tip Vc: Konsonant-a-Konsonant, stem debole nivel alt
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+Verben, die diesem Typ folgen:
 
 *   Tut las autras radis cun -a- intermediar
 
@@ -426,7 +426,7 @@ En qual da prim da cumponids statan per quests pronomins ils stems:
 
 z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्पुस्तकानि⟫ "unsere Bücher"
 :::
-## 40.6. Glista da pleds <!-- TODO: Fallback translation -->
+## 40.6. Glista da pleds
 
 ⟪पात्र⟫ n.: Reverenziabel, Maister, Degno
 
@@ -492,7 +492,7 @@ Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 Fig.: ⟪तीर्थङ्करः⟫
 (font dal maletg: [detagls](/rm/licenses#lekt4002))
 :::
-⟪अव⟫ prefix: giu, enbas, lunsch, a- <!-- TODO: Fallback translation -->
+⟪अव⟫ prefix: giu, enbas, lunsch, a-
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : ab
 
@@ -506,7 +506,7 @@ davon:
 Fig.: ⟪विष्णोर्दशावताराः⟫
 (font da l'imagina: [detagls](/rm/licenses#lekt4001))
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : durmir, sa metter a durmir <!-- TODO: Fallback translation -->
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : durmir, sa metter a durmir
 
 ::: indent
 Impf. ⟪⟪अस्वपीत्⟫⟫ ⟪⟪।⟫⟫ ⟪⟪अस्वपत्⟫⟫  
@@ -528,13 +528,13 @@ dai quai:
 Abb.: ⟪स्वपन्ति⟫
 (fontana da l’imagina: [detagls](/rm/licenses#lekt4004))
 :::
-## 40.7. Exercizi <!-- TODO: Fallback translation -->
+## 40.7. Exercizi
 
 A) Traducì la ⟪सुभाषितानि⟫ al cumenzament da la lecziun.
 
 B) Convertir las formas verbales siguientes en formas de perfecto correspondientes. En caso de haber múltiples posibilidades, indicar por favor todas las posibilidades.
 
-(Zeichenerklärung: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = fakultativ ⟪अनिट्⟫) <!-- TODO: Fallback translation -->
+(Zeichenerklärung: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = fakultativ ⟪अनिट्⟫)
 
 1.  ⟪अश्नीमः⟫
 2.  ⟪स्मः⟫
@@ -647,11 +647,3 @@ B) Convertir las formas verbales siguientes en formas de perfecto correspondient
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-::: deleteme-box
-
-- **Image lekt4005.jpg** (Abb.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Vadaseri, District Thanjavur = தஞ்சாவூர் மாவட்டam [Fotografia: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Access il di 2009-01-02. -- Licenza Creative Commons (Attribuzione, share alike)]
-- **Image lekt4003.jpg** (Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Fotografia: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Access il di 2009-01-02. -- Licenza Creative Commons (Attribuzione)]
-- **Image lekt4002.jpg** (Abb.: ⟪तीर्थङ्करः⟫): [Fotografia: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Access il di 2009-01-02. -- Licenza Creative Commons (Attribuzione, betg per finanzas comercialas, betg da modificar)]
-- **Image lekt4001.jpg** (Abb.: ⟪विष्णोर्दशावताराः⟫): En il senn da l'urlo: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, en il center: ⟪कृष्ण⟫ [Fotografia: Wikipedia. Public domain]
-- **Image lekt4004.jpg** (Abb.: ⟪स्वपन्ति⟫): Vespertilions indians (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Fotografia: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Access il di 2009-01-02. -- Licenza Creative Commons (Attribuzione, betg per finanzas comercialas, betg da modificar)]
-:::

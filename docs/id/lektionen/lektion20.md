@@ -534,26 +534,4 @@ Satu lagi ⟪सुभाषितम्⟫ :
 
 Penjelasan: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P zu ⟪इष्⟫ : yang menginginkan
 :::
-::: deleteme-box
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Kamboja, abad ke-9 M. [Sumber gambar: Wikipedia, Domain Publik]
-
-**lekt2002:** [Sumber gambar: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Sumber gambar Wikipedia, Domain Publik]
-
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [Sumber gambar: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Diakses pada 2008-12-11. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
-
-**lekt2005:** Yesus dan para dewa lainnya, Ahmedabad [Sumber gambar: oleh ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Diakses pada 2008-12-11. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
-
-**lekt2006:** Madhya Pradesh [Sumber gambar: oleh dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Diakses pada 2008-12-11. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
-
-**lekt2007:** Chennai = சென்னை [Sumber gambar: oleh calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Diakses pada 2008-12-11. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
-
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "Ini sebenarnya bagian dari Ashram di Rishikesh tempat para Beatles tinggal. Bagian spesifik ini tidak ada saat mereka berada di sana, tetapi memang terlihat keren." [Sumber gambar: oleh ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Diakses pada 2008-12-11. -- Lisensi Creative Commons (Atribusi)]
-
-**lekt2009:** Karnataka [Sumber gambar: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Diakses pada 2008-12-11. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
-
-**lekt2010:** Buddha sebagai pertapa sebelum pencerahan pembebasannya, Gandhara, abad ke-2/ke-3. [Sumber gambar: Wikipedia, GNU FDLicense]
-:::
 

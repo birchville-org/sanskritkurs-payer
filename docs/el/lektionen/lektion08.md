@@ -5,17 +5,10 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα 8
 
-::: deleteme-box
-**Σε αυτή τη μαθησιακή ενότητα θα μάθετε:**
-- τον σχηματισμό ουσιαστικών (κριτ- και ταδχίτα-καταλήξεις)
-- σημαντικές ουσιαστικές καταλήξεις (-a, -ana, -tra, -ti, -tva, -tā)
-- την 8η τάση παραγωγής ρήματος (τανάδι)
-- τη κλίση του **kṛ** (tun, κάνω)
-:::
 
 ## 8.1. Για τον σχηματισμό ονομάτων
 
@@ -44,7 +37,7 @@ last_reconstructed: 2026-05-07
   - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » κλίση (συγκριτικός, υπερθετικός), σύγκριση
   - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » αριθμητικά επίθετα τάξης (πρώτος κ.ο.κ.)
   - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » αντί περιπτώσεων (π.χ. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (σχηματισμοί cvī ⟪च्वि⟫, **-sāt** -⟪सात्⟫) <!-- TODO: Fallback translation -->
+  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (σχηματισμοί cvī ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
 **Ταξινόμηση βάσει του ablaut:**
 - **guṇya** (⟪गुण्य⟫): σχηματισμός βαθμού guṇa
@@ -53,7 +46,7 @@ last_reconstructed: 2026-05-07
 
 ## 8.3. Μερικά σημαντικά ονοματικά επιθήματα
 
-### 8.3.1. -a αρσ. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.1. -a αρσ. (kṛt)
 
 ::: grammar-box
 **Το επίθημα kṛt -a σχηματίζει αρσενικά (σπανιότερα ουδέτερα) ουσιαστικά, που δηλώνουν μια πράξη ή κατάσταση η οποία υποδηλώνεται από τη ρίζα· μερικές φορές επίσης επίθετα ή ουσιαστικά, που εκφράζουν το υποκείμενο (kartṛ) της πράξης που δηλώνεται από τη ρητική ρίζα. Για σύνθετη προτελευταία (= φωνήεν πριν από σύμφωνο, στο οποίο καταλήγει η ρίζα) ή καταληκτικό φωνήεν ρίζας, συνήθως υποκαθίσταται η υψηλή βαθμίδα (guṇa) ή ο εκτεταμένος βαθμός (vṛddhi).**
@@ -71,9 +64,9 @@ last_reconstructed: 2026-05-07
 | **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" | <!-- TODO: Fallback translation -->
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
 
-### 8.3.2. -ana ουδ. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.2. -ana ουδ. (kṛt)
 
 ::: grammar-box
 **Το επίθημα kṛt -ana σχηματίζει συνήθως ουδέτερα ουσιαστικά, που δηλώνουν μια πράξη, μια κατάσταση ή το μέσο/εργαλείο μέσω του οποίου επιτελείται η πράξη που δηλώνεται από τη ρίζα ή τον ρηματικό ιστό. Για μια σύντομη προτελευταία συλλαβή ή έναν καταληκτικό φθόγγο της ρίζας, συνήθως υποκαθίσταται με βαθμίδα guṇa.**
@@ -87,7 +80,7 @@ last_reconstructed: 2026-05-07
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
 | **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
 | **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" | <!-- TODO: Fallback translation -->
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
@@ -102,7 +95,7 @@ last_reconstructed: 2026-05-07
 (Πηγή: Wikipedia)
 :::
 
-### 8.3.3. -tra ουδ. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.3. -tra ουδ. (kṛt)
 
 ::: grammar-box
 **Το επίθημα kṛt -tra σχηματίζει (συνήθως) ουδέτερα ουσιαστικά, τα οποία δηλώνουν το μέσο ή το όργανο μέσω του οποίου πραγματοποιείται η πράξη που δηλώνει η ρίζα. Η σύντομη προπαροξύτονη και ο τελικός φθόγγος της ρίζας αντικαθίστανται από την υψηλή βαθμίδα (guṇa).**
@@ -115,7 +108,7 @@ last_reconstructed: 2026-05-07
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" | <!-- TODO: Fallback translation -->
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
 
 ::: media
 **Το Πρωτόγονο Μάντρα Oṃ (⟪ॐ⟫) σε διάφορα ινδικά κείμενα**
@@ -130,7 +123,7 @@ last_reconstructed: 2026-05-07
 (Πηγές εικόνας: [Λεπτομέρειες](/el/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti θ. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.4. -ti θ. (kṛt)
 
 ::: grammar-box
 **Το επίθημα kṛt -ti σχηματίζει θηλυκά ουσιαστικά, που γενικά εκφράζουν την ενέργεια ή την κατάσταση που δηλώνει η ρίζα. Η μορφή της ρίζας είναι βαθύκλιτη.**
@@ -145,7 +138,7 @@ last_reconstructed: 2026-05-07
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) | <!-- TODO: Fallback translation -->
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
 
 *Σημείωση: Το \* πριν από μια μορφή σημαίνει ότι αυτή η μορφή δεν εμφανίζεται στα Σανσκριτικά, αλλά έχει θεωρητικά εξαχθεί ως προϋπόθεση για μια συγκεκριμένη σύνταξη. Η βαθιά κλίση του **gam** είναι gṃ = \*gm, το m αντικαθίσταται από αυτό που ονομάζεται nasalis sonans με **a** » **ga**. Το ίδιο ισχύει για το **man** » **ma**.
 
@@ -160,7 +153,7 @@ last_reconstructed: 2026-05-07
 | :--- | :--- | :--- | :--- |
 | **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
 | **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" | <!-- TODO: Fallback translation -->
+| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
 
 Αυτές οι σχηματισμοί μπορούν να παραχθούν πρακτικά για κάθε ουσιαστικό και είναι πολύ συνηθισμένα στα επιστημονικά κείμενα των Σανσκριτικών
 
@@ -181,7 +174,7 @@ last_reconstructed: 2026-05-07
 - 3\. pl. Ā. **tanvate**
 ⟪तन्वते⟫
 :::
-Σημείωση: Όσον αφορά τη διαμάχη, αν η **tan** είναι πράγματι ρίζα της 5ης κλάσης (*tn » ta + no-), βλ. Thumb-Hauschild, Handbuch des Sanskrit II, 265. <!-- TODO: Fallback translation -->
+Σημείωση: Όσον αφορά τη διαμάχη, αν η **tan** είναι πράγματι ρίζα της 5ης κλάσης (*tn » ta + no-), βλ. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
 Η σημαντικότερη ρίζα της 8ης κλάσης είναι η **kṛ** 8 U (⟪कृ⟫) "κάνω, επιτελώ". Η κλίση της είναι ακανόνιστη:
 

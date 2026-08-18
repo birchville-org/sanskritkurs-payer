@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα εʹ0
 
@@ -290,24 +290,5 @@ Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 
 Ἐξηγήσεις:
 ⟪निषेकादीनि⟫ : ὀνομαστικὴ/αἰτιατικὴ πληθυντικοῦ ουδέτερον
-:::
-::: deleteme-box
-
-**lekt5007:** Ἀπεικ.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Ὄρος Ἐβρεστ [Πηγή εἰκόνος: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Πρόσβασις τῇ 12-01-2009. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Ἀναφορὰ)] <!-- TODO: Fallback translation -->
-
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Πηγή εἰκόνος: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Πρόσβασις τῇ 12-01-2009. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ἀναφορὰ, οὐκ ἐμπορικὴ χρῆσις, οὐδὲ τροποποίησις)]
-
-**lekt5001:** Kapil Sibal (1948 -), ὁμότιμος ὑπουργὸς ἐν τῷ Υπουργίῳ Ἐπιστημῶν καὶ Τεχνολογίας καὶ τῷ Υπουργίῳ Ἐπιστημῆς Γῆς (ἀπὸ 2006) [Πηγή εἰκόνος: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Πρόσβασις τῇ 12-01-2009. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Ἀναφορὰ, ὁμοία ἀδειοδότησις)]
-
-**lekt5002:** ἡ τῆς μονσόνου ἐπιβολή, Βανγκόρης  ಬೆಂಗಳೂರು [πηγὴ εἰκόνος: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- πρόσβασις ἡμερομηνίας 2009-01-12. -- [ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ἀναφορά συγγραφέως, οὐκ ἐμπορικὴ χρῆσις, οὐδὲ τροποποίησις)]
-
-**lekt5005:** [πηγὴ εἰκόνος: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- πρόσβασις ἡμερομηνίας 2009-01-12. -- [ἄδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ἀναφορά συγγραφέως, ὁμοία ἀδειοδότησις)]
-
-**lekt5003:** [πηγὴ εἰκόνος: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- πρόσβασις ἡμερομηνίας 2009-01-12. -- [ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ἀναφορά συγγραφέως, οὐκ ἐμπορικὴ χρῆσις, οὐδὲ τροποποίησις)]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [πηγὴ εἰκόνος: Kounosu / Wikipedia. ἄδεια GNU FDLicense] <!-- TODO: Fallback translation -->
-
-**lekt5008:** Γανέσπουρι, 80 χιλιόμετρα από το Μουμπάι (⟪मुंबई⟫) [πηγή εικόνας: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- πρόσβαση στις 2009-01-13. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, share alike)]
-
 :::
 

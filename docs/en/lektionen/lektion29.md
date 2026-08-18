@@ -247,10 +247,4 @@ Explanations:
 |⟪हृ १ उ⟫|⟪हरिष्यति⟫|⟪हारयति⟫|
 
 :::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [Image source: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accessed on 2008-12-20. -- Creative Commons License (Attribution, non-commercial use, share alike)]
-**lekt2901:** ⟪रोहू मछली⟫ = Labeo rohita Hamilton [Image source: Khalid Mahmood / Wikipedia. GNU FDL License]
-**lekt2902:** (Drawing: Namcha Payer, 2002-11)
-:::
 

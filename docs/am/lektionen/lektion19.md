@@ -220,15 +220,3 @@ Goa (⟪गोंय⟫)
 :::
 ማብራሪያ፡ ⟪पुमान्⟫ የነጠላ ስም መደብ ለ ⟪पुंस्⟫ "ሰው"፤ ⟪लोके⟫ የነጠላ ቦታ መደብ ለ ⟪लोक⟫ ተ.፡ በ... ውስጥ
 
-::: deleteme-box
-
-**lekt1809:** ለ⟪कामसूत्र⟫ ሥዕላዊ መግለጫ [የምስል ምንጭ: Wikipedia, የሕዝብ ንብረት]
-
-**lekt1901:** Badami (ಬದಾಮಿ) [የምስል ምንጭ: Sudarshan Bhat Khandige / Wikipedia, የሕዝብ ንብረት]
-
-**lekt1902:** Goa (⟪गोंय⟫) [የምስል ምንጭ: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- የታየበት ቀን 2008-12-08. -- ክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ, ለንግድ ሥራ መጠቀም አይቻልም, ማሻሻያ ማድረግ አይቻልም)]
-
-**lekt1903:** ⟪१९५९⟫ [የምስል ምንጭ: Wikipedia, የሕዝብ ንብረት]
-
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages." [የምስል ምንጭ: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- የተደረሰበት ቀን 2008-12-08 ነው። -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ)]
-:::

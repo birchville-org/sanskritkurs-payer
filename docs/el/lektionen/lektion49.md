@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα 49
 
@@ -370,27 +370,5 @@ PPP ⟪ध्यात⟫
 Εικ.: ⟪शुकः⟫
 Λαγοκέφαλος παπαγάλος = Psittacula cyanocephala
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Πηγή εικόνας: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Πρόσβαση στις 10-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)]
-
-**lekt4901:** [Πηγή εικόνας: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Πρόσβαση στις 11-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Αναφορά δημιουργού, χωρίς εξαγωγικά έργα)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, 11ος αι. [Πηγή εικόνας: Vassil / Wikipedia. Δημόσιο πεδίο]
-
-**lekt4903:** [Πηγή εικόνας: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Πρόσβαση στις 11-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγικά έργα)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Πηγή εικόνας: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Πρόσβαση στις 2009-01-11. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)]
-
-**lekt4909:** Μάντης με παπαγάλο σε κλουβί: ο παπαγάλος τραβάει χαρτάκια, στα οποία γράφεται το πεπρωμένο Μυσορέ [Πηγή εικόνας: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Πρόσβαση στις 2009-01-12. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)]
-
-**lekt4905:** Αμριτσάρ = ਅੰਮ੍ਰਿਤਸਰ [Πηγή εικόνας: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Πρόσβαση στις 2009-01-11. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)]
-
-**lekt4906:** Σρι Λάνκα [Πηγή εικόνας: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Πρόσβαση στις 2009-01-11. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση επεξεργασίας)]
-
-**lekt4908:** Πλατυκέφαλος ιάκκος _= Psittacula cyanocephala_[Πηγή εικόνας: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Πρόσβαση στις 2009-01-12. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, share alike)] <!-- TODO: Fallback translation -->
-
 :::
 

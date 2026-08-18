@@ -5,18 +5,10 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Leçon 7
 
-::: deleteme-box
-**Dans cette leçon, vous apprendrez :**
-- La phrase verbale avec un objet direct
-- L'accusatif des noms et des pronoms
-- Le sandhi du -n final
-- Le neutre des thèmes en a
-- Les classes de présent athématiques (exemple de la 5e classe)
-:::
 
 ::: center
 **Proverbe de la semaine**
@@ -51,7 +43,7 @@ p. ex.
 :::
 Lorsque le verbe est au Parasmaipada ou au Ātmanepada, l’objet direct (**karman** n. = ⟪कर्मन्⟫) se trouve généralement à l’**accusatif** (cas direct, dvitīyā f. = ⟪द्वितीया⟫).
 
-## 7.2. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung") <!-- TODO: Fallback translation -->
+## 7.2. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
 
 ::: grammar-box
 **Terminaison de l’accusatif singulier masculin et féminin après une voyelle : -m**
@@ -118,7 +110,7 @@ par exemple.
 :::
 D'autres utilisations du accusatif seront traitées plus tard.
 
-## 7.3. Sandhi von auslautendem -n <!-- TODO: Fallback translation -->
+## 7.3. Sandhi von auslautendem -n
 
 ::: grammar-box
 **-n final :**
@@ -195,7 +187,7 @@ La 5e classe de présent forme ce qu'on appelle un radical de présent athémati
 | **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
 | **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
 | **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) | <!-- TODO: Fallback translation -->
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
 ## 7.6. Liste de mots
 

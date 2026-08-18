@@ -656,24 +656,3 @@ Abb.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪�
 (Bildquelle: [Details](/licenses#lekt4612))
 :::
 
-::: deleteme-box
-
-Navagraha images source: Redtigerxyz / Wikipedia. GNU FDLicense
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870). Source: Wikipedia. Public domain
-
-L4606: ⟪अश्वरोहकः⟫, Pune=⟪पुणे⟫. Source: wili_hybrid, Flickr, CC BY 2.0
-
-L4608: Udaipur. Source: Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609: Karnataka=ಕರ್ನಾಟಕ. Source: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, Kamareddy=కామారెడ్డి. Source: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, Bangalore=ಬೆಂಗಳೂರು. Source: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, Kutch=⟪कच्छ⟫. Source: orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612: Mumbai=⟪मुंबई⟫ nach dem Attentat, 11. Juli 2006. Source: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
-:::
-

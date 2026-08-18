@@ -635,11 +635,3 @@ B) Преобразуйте следующие глагольные формы �
 37. ⟪आह⟫
 38. ⟪आहन्⟫
 
-::: deleteme-box
-
-- **Image lekt4005.jpg** (Рис.: ⟪पादं सब्रह्मचारिभ्यः⟫): Вадасери, район Танджавур = தஞ்சாவூர் மாவட்டам [Источник изображения: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Дата обращения: 2009-01-02. -- Лицензия Creative Commons (Attribution, ShareAlike)]
-- **Image lekt4003.jpg** (Рис.: ⟪हरिद्वारे तीर्थम्⟫): [Источник изображения: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Дата обращения: 2009-01-02. -- Лицензия Creative Commons (Attribution)]
-- **Image lekt4002.jpg** (Рис.: ⟪तीर्थङ्करः⟫): [Источник изображения: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Дата обращения: 2009-01-02. -- Лицензия Creative Commons (Attribution, NonCommercial, NoDerivs)]
-- **Image lekt4001.jpg** (Рис.: ⟪विष्णोर्दशावताराः⟫): По часовой стрелке: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, в центре: ⟪कृष्ण⟫ [Источник изображения: Wikipedia. Public domain]
-- **Image lekt4004.jpg** (Рис.: ⟪स्वपन्ति⟫): Индийские летучие лисицы (_Pteropus giganteus_), Ахмедабад = અમદાવાદ [Источник изображения: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Дата обращения: 2009-01-02. -- Лицензия Creative Commons (Attribution, NonCommercial, NoDerivs)]
-:::

@@ -1,10 +1,11 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: "Μάθημα 47"
+subtitle: "Η imperative (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα δʹ7
@@ -253,14 +254,3 @@ Fig.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
 
 [L5] 34. εὐτυχῶς γένοιτο! (εὐχὴ εὐλογίας)
 
-::: deleteme-box
-
-**lekt4702:** Ναός τοῦ Ἁνούμαντος, Δελχὶ = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Πηγὴ εἰκόνος: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Πρόσβασις ἐν 2009-01-09. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Ἀναφορὰ, οὐδεμία τροποποίησις)]
-
-**lekt4701:** [Πηγὴ εἰκόνος: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Πρόσβασις ἐν 2009-01-09. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Ἀναφορὰ, οὐκ ἐμπορικὴ χρῆσις, ὁμοία κοινοποίηση)]
-
-**lekt4703:** [Πηγὴ εἰκόνος: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Πρόσβασις ἐν 2009-01-10. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Ἀναφορὰ)]
-
-**lekt4704:** [Πηγὴ εἰκόνος: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Πρόσβασις ἐν 2009-01-10. -- [Ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ἀναφορὰ, οὐκ ἐμπορικὴ χρῆσις, οὐδεμία τροποποίησις)]
-
-:::

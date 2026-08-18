@@ -134,10 +134,10 @@ pārvatīparameśvarau |**
 ![](/images/lekt0106.webp)
 現代的梵語詞典皆依此分類順序編排。理解梵語文法必須掌握此分類與音素順序，因此務必熟記：
 :::
-Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden: <!-- TODO: Fallback translation -->
+Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden:
 
 ::: note-box
-Klassifikation <!-- TODO: Fallback translation -->
+Klassifikation
 - **單元音**（samānākṣara -- ⟪समानाक्षर⟫）：
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
 - **雙元音**（sandhyakṣara -- ⟪सन्ध्यक्षर⟫）：

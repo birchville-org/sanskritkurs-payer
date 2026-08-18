@@ -90,7 +90,7 @@ status: stable
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
 ### 34.2.5. تكرار الجذور التي تبدأ بحرف متحرك
@@ -104,7 +104,7 @@ status: stable
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
+| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
 
 :::
 ::: grammar-box
@@ -117,7 +117,7 @@ status: stable
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
-| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur | <!-- TODO: Fallback translation -->
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
 :::
 ::: grammar-box
@@ -159,7 +159,7 @@ status: stable
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
 ## 34.5. صيغة التام النوع الثاني: جذع قوي بصيغة عالية، جذع ضعيف بصيغة منخفضة
@@ -331,22 +331,6 @@ status: stable
 (مصدر الصورة: [تفاصيل](/ar/licenses#lekt3407))
 :::
 
-::: deleteme-box
-
-**lekt3401:** تمثال ثور ناندي، تلال تشاموندي، ميسور. [مصدر الصورة: بارن لونا / فليكر. رخصة CC BY-NC-ND]
-
-**lekt3402:** المعبد الذهبي (هارمندير صاحب)، أمريتسار. [مصدر الصورة: ويكيبيديا. رخصة GNU FDL]
-
-**lekt3403:** بذور السمسم. [مصدر الصورة: ويكيبيديا. ملكية عامة]
-
-**lekt3404:** إزهار نبات السمسم. [مصدر الصورة: فرانس زافير / ويكيبيديا. رخصة GNU FDL]
-
-**lekt3405:** خريطة جزر لاكشادويب. [مصدر الصورة: كتاب حقائق العالم لوكالة المخابرات المركزية. ملكية عامة]
-
-**lekt3406:** حقل أرز في الهند. [مصدر الصورة: رايت ويلتن / البنك الدولي. CC BY-NC-ND]
-
-**lekt3407:** طقس زواج هندوسي. [مصدر الصورة: BriceFR / Flickr. CC BY-NC-SA]
-::: <!-- TODO: Fallback translation -->
 
 
 :::

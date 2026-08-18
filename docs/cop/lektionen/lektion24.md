@@ -96,7 +96,7 @@ Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 :::
 ⲡⲓϫⲟⲩⲱⲧ ⲛⲁⲕ ⲉϥⲙⲏⲓ.
 
-## 24.2. Bildung des ⲇⲁⲧⲓⲃ (⟪चतुर्थी⟫) <!-- TODO: Fallback translation -->
+## 24.2. Bildung des ⲇⲁⲧⲓⲃ (⟪चतुर्थी⟫)
 
 ::: grammar-box
 **ⲡⲓϣⲟⲛ ⲧⲃⲏ ϩⲙⲁϫⲣⲱⲙ ⲛ̀ⲧⲉ ϫⲟϥ:**
@@ -138,7 +138,7 @@ Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme <!-- TODO: Fallback translation -->
+### 24.2.4. Vokalische Stämme
 
 ::: grammar-box
 **ⲧⲛⲟϥ ⲡⲓⲙⲉⲧⲣⲟϥ ⲛⲧⲉ ϯⲙⲏⲣⲓ**
@@ -299,7 +299,7 @@ from it:
 
 ## 24.5. Übung
 
-A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an: <!-- TODO: Fallback translation -->
+A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
 
 1.  ⟪श्रव⟫
 2.  ⟪भवन⟫
@@ -331,7 +331,7 @@ A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie di
 28.  ⟪दासी⟫
 29.  ⟪गुरु⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥१॥⟫
 
@@ -357,7 +357,7 @@ D) Ⲓⲃϥⲁⲕ ϩⲛ ⲧⲉϫⲟⲙ A) 7 ϯⲛ ⲡⲉϥⲱⲧ -⟪अर्�
 
 E) Ⲓⲃϥⲁⲕ ϩⲛ ⲧⲉϫⲟⲙ A) 6 ϯⲛ ⲡⲉϥⲱⲧ Dative ϯⲛ ⲡⲉϥⲱⲧ -⟪अर्थ⟫
 
-## 24.6. Weitere Übungen zum Gebrauch des Dativ <!-- TODO: Fallback translation -->
+## 24.6. Weitere Übungen zum Gebrauch des Dativ
 
 ⲁⲛⲧⲉⲗϥⲓ ϫⲟⲩⲛ ⲉⲙ Σανϣϣⲣⲓⲧ:
 
@@ -399,33 +399,9 @@ E) Ⲓⲃϥⲁⲕ ϩⲛ ⲧⲉϫⲟⲙ A) 6 ϯⲛ ⲡⲉϥⲱⲧ Dative ϯⲛ �
 
 12\. ⲁⲓϥⲛⲟⲩⲧ ϭⲉ ⲡⲓϫⲟⲕ (⟪कुशल⟫) = ⲡⲓϫⲟⲕ ϭⲉ ⲁⲓϥⲛⲟⲩⲧ!
 
-13\. ⲡϣⲟⲛⲧⲉ ϯⲙⲏⲣϥ ⲛⲁⲕ. <!-- TODO: Fallback translation -->
+13\. ⲡϣⲟⲛⲧⲉ ϯⲙⲏⲣϥ ⲛⲁⲕ.
 
-14\. ⲡϣⲟⲛⲧⲉ ϯⲙⲏⲣϥ ⲛⲁⲕ. <!-- TODO: Fallback translation -->
+14\. ⲡϣⲟⲛⲧⲉ ϯⲙⲏⲣϥ ⲛⲁⲕ.
 
 15⟪१५⟫. ⲁⲓϥⲛⲟⲩⲧ ϭⲉ ⲡⲓϫⲟⲕ! (Neusanskrit: ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] ἔστιν ἐθνικὸς Ὀρθόδοξος Ἀράβων ἑορτὴ ὅστις συμβαίνει ἐπὶ τῇ Ἀράβων Νέας Χρονιὰς ἐορτασμοῖς παρὰ πᾶσι τοῖς BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] μανδύροις. Ἑκατοντάδες χορτοφαγικὰ σιτία προσφέρεται τῷ Βαγκουάν Σβαμιναράγιαν [સ્વામિનારાયણ] ἐπὶ ταύτῃ τῇ ἡμέρᾳ. [Πηγὴ εἰκόνος: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Πρόσβασις ἐν 2008-12-14. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις)]
-
-**lekt2402:** Ἡ Ράκσα Μπάνταν ἐορτάζεται μετὰ ζήλου καὶ χαρᾶς καθ' ὅλην τὴν Ἰνδίαν. Αὕτη ἡ ἐορτὴ ἀπεικονίζει τὸν ἀσυνήθιστον ἔρωτα μεταξὶ ἀδελφῶν καὶ ἀδελφῶν. [Πηγὴ εἰκόνος: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Πρόσβασις ἐν 2008-12-14. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐμπορικὴ χρῆσις, ὁμοία διανομή)]
-
-**lekt2403:** "Ῥάμα (δεξιὰ) καθήμενος ἐπὶ τῶν ὤμων τοῦ Χανουμάν, πολεμεῖ τὸν δαιμονικὸν βασιλέα Ράβανα." περὶ 1820 [Πηγὴ εἰκόνος: Wikipedia, Δημόσιον Διάθεσιν]
-
-**lekt2404:** [Πηγὴ εἰκόνος: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Πρόσβασις ἐν 2008-12-14. -- Ἄδεια Creative Commons (Ὁνομασία, οὐκ ἐπεξεργασία)]
-
-**lekt2405:** [ⲙⲁⲧⲉⲣⲟⲥ ⲛⲁϫⲱⲕ: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- ⲛⲁϫⲱⲕ 14/12/2008. -- ⲛⲓϫⲉⲣⲏ Creative Commons (ⲧⲁⲃϫ ⲛⲓⲙⲉⲩ, ⲛⲏϥⲓⲱϯ ⲛⲁⲕ, ⲛⲏϥⲓⲱϯ ⲛⲁⲕ)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [ⲙⲁⲧⲉⲣⲟⲥ ⲛⲁϫⲱⲕ: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- ⲛⲁϫⲱⲕ 14/12/2008. -- ⲛⲓϫⲉⲣⲏ Creative Commons (ⲧⲁⲃϫ ⲛⲓⲙⲉⲩ, ⲛⲏϥⲓⲱϯ ⲛⲁⲕ)]
-
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [ⲙⲁⲧⲉⲣⲟⲥ ⲛⲁϫⲱⲕ: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- ⲛⲁϫⲱⲕ 14/12/2008. -- ⲛⲓϫⲉⲣⲏ Creative Commons (ⲧⲁⲃϫ ⲛⲓⲙⲉⲩ, share alike)]
-
-**lekt2408:** "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers." [ⲙⲁⲧⲉⲣⲟⲥ ⲛⲁϫⲱⲕ: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- ⲛⲁϫⲱⲕ 14/12/2008. -- ⲛⲓϫⲉⲣⲏ Creative Commons (ⲧⲁⲃϫ ⲛⲓⲙⲉⲩ, ⲛⲏϥⲓⲱϯ ⲛⲁⲕ)]
-
-**lekt2409:** [ⲁⲝⲓⲟⲩⲧⲏⲥ ⲛⲁ ⲡⲓϭⲱⲧⲉ: Redtigerxyz / Ⲡⲓⲁⲛⲏⲙⲟϥ, GNU FDLicense]
-
-**lekt2410:** ⟪नरसिंह⟫ ⲛⲉϥⲙⲟⲕ ϯⲧⲛⲁϣ ⲙⲡⲓ⟪हिरण्यकशिपु⟫, ⲛⲁϣ ϲⲧⲟⲕ ⲙⲡⲓ⟪भागवतपुराण⟫ [ⲁⲝⲓⲟⲩⲧⲏⲥ ⲛⲁ ⲡⲓϭⲱⲧⲉ: Wikipedia, Public domain]
-
-**lekt2411:** ⲛⲁϣ ϲⲧⲟⲕ ⲙⲡⲓ⟪गीतगोविन्द⟫, 1730 ⲡⲣⲟⲥ ϯⲙⲉⲧⲱⲣⲟⲛ [ⲁⲝⲓⲟⲩⲧⲏⲥ ⲛⲁ ⲡⲓϭⲱⲧⲉ: Wikipedia, Public domain]
-:::

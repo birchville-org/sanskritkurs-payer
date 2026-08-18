@@ -5,18 +5,10 @@ lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 7
 
-::: deleteme-box
-**In hac lection discitis:**
-- Verbum cum obiecto directo
-- Casum accusativum nominum et pronomina
-- Sandhi finalis -n
-- Neutrum a-stematum
-- Classes athematicas praesentis (exemplum quintae classis)
-:::
 
 ::: center
 **Sententia hebdomadis**
@@ -43,13 +35,13 @@ Deus vincit, non deus adversarius.
 
 ::: grammar-box
 **Schema:**
-**(Agens = kartṛ m. = ⟪कर्तृ⟫) – Objectum directum (karman n. = ⟪कर्मन्⟫) – Verbum** <!-- TODO: Fallback translation -->
+**(Agens = kartṛ m. = ⟪कर्तृ⟫) – Objectum directum (karman n. = ⟪कर्मन्⟫) – Verbum**
 
 z.B.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma isst (kaut) eine Frucht."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Der Brahmane verehrt einen Gott mit einem Opfer (für jemand anderes)."
 :::
-Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**karman** n. = ⟪कर्मन्⟫) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫). <!-- TODO: Fallback translation -->
+Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**karman** n. = ⟪कर्मन्⟫) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫).
 
 ## 7.2. Accusativus (dvitīyā f. = ⟪द्वितीया⟫ = "casus secundus")
 
@@ -118,7 +110,7 @@ Ablativus (dvitīyā f. = ⟪द्वितीया⟫) significat:
 :::
 Uti alia accusativi adhibentur postea tractabuntur.
 
-## 7.3. Sandhi von auslautendem -n <!-- TODO: Fallback translation -->
+## 7.3. Sandhi von auslautendem -n
 
 ::: grammar-box
 **-n finale:**
@@ -195,7 +187,7 @@ Quinta praesentis classis athematicum praesentis radicem constituit, id est, pra
 | **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
 | **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
 | **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) | <!-- TODO: Fallback translation -->
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
 ## 7.6. Vocabularium
 

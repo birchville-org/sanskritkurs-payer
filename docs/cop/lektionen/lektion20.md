@@ -30,7 +30,7 @@ Jodhpur = ⟪जोधपुर⟫
 
 **ⲛⲓϧⲟⲩⲱⲡ ⲛⲧⲉ ϣⲟⲡⲓⲥ ⲛⲁϩⲱⲙ Bahuvrīhi:**
 
-**1. ⲛⲓϧⲟⲩⲱⲡ ⲙⲛⲧⲁϣ ϭⲉ ⲡⲓⲛⲟⲩϣ (⟪प्रथमा⟫) ⲛⲓϣⲟⲡ, ⲙⲉⲧⲁϣ ϭⲉ ⲡⲓⲛⲟⲩϣ, ϭⲉ ⲡⲓⲛⲟⲩϣ -- 2. ⲛⲓϧⲟⲩⲱⲡ ⲙⲛⲧⲁϣ ϭⲉ ⲡⲓⲛⲟⲩϣ, ⲙⲉⲧⲁϣ ϭⲉ ⲡⲓⲛⲟⲩϣ, ϭⲉ ⲡⲓⲛⲟⲩϣ -- ⲛⲓⲥⲁϫⲉ ϭⲉ ⲛⲓⲙⲟϥ ⲛⲧⲉ ϣⲟⲡⲓⲥ ⲛⲁϩⲱⲙ (ⲙⲛⲧⲁϣ ⲛⲓⲥⲁϫⲉ - ⟪षष्ठी⟫) ϭⲉ ⲛⲓϧⲟⲩⲱⲡ -- ⲛⲓϫⲟⲩⲱⲡ ϭⲉ ⲛⲓϧⲟⲩⲱⲡ.** <!-- TODO: Fallback translation -->
+**1. ⲛⲓϧⲟⲩⲱⲡ ⲙⲛⲧⲁϣ ϭⲉ ⲡⲓⲛⲟⲩϣ (⟪प्रथमा⟫) ⲛⲓϣⲟⲡ, ⲙⲉⲧⲁϣ ϭⲉ ⲡⲓⲛⲟⲩϣ, ϭⲉ ⲡⲓⲛⲟⲩϣ -- 2. ⲛⲓϧⲟⲩⲱⲡ ⲙⲛⲧⲁϣ ϭⲉ ⲡⲓⲛⲟⲩϣ, ⲙⲉⲧⲁϣ ϭⲉ ⲡⲓⲛⲟⲩϣ, ϭⲉ ⲡⲓⲛⲟⲩϣ -- ⲛⲓⲥⲁϫⲉ ϭⲉ ⲛⲓⲙⲟϥ ⲛⲧⲉ ϣⲟⲡⲓⲥ ⲛⲁϩⲱⲙ (ⲙⲛⲧⲁϣ ⲛⲓⲥⲁϫⲉ - ⟪षष्ठी⟫) ϭⲉ ⲛⲓϧⲟⲩⲱⲡ -- ⲛⲓϫⲟⲩⲱⲡ ϭⲉ ⲛⲓϧⲟⲩⲱⲡ.**
 
 :::
 ⲛⲓϫⲟⲩⲱⲡ:
@@ -56,7 +56,7 @@ etc.
 :::
 ::: grammar-box
 
-**Das Verhältnis von Vorderglied zu Hinterglied kann bei einem Bahuvrīhi sein:** <!-- TODO: Fallback translation -->
+**Das Verhältnis von Vorderglied zu Hinterglied kann bei einem Bahuvrīhi sein:**
 
 *   **attributiv**
 *   **appositionell**
@@ -87,7 +87,7 @@ Traditionell unterscheidet man:
 ::: indent
 ⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "ⲛⲓϣⲱⲡ ⲉⲧⲃⲏ ⲛⲓϣⲱⲡ / ⲉⲧⲃⲏⲓ ⲛⲓϣⲱⲡ"
 :::
-**ⲛⲓϫⲱⲙ ⲉⲧⲃⲏ ⲛⲓϣⲱⲡ. ⲛⲓϫⲱⲙ ⲉⲧⲃⲏ ⲛⲓϣⲱⲡ (⟪तृतीया⟫) (ⲛⲓϫⲱⲙ ⲉⲧⲃⲏ ⲛⲓϣⲱⲡ / ⟪षष्ठी⟫).** <!-- TODO: Fallback translation -->
+**ⲛⲓϫⲱⲙ ⲉⲧⲃⲏ ⲛⲓϣⲱⲡ. ⲛⲓϫⲱⲙ ⲉⲧⲃⲏ ⲛⲓϣⲱⲡ (⟪तृतीया⟫) (ⲛⲓϫⲱⲙ ⲉⲧⲃⲏ ⲛⲓϣⲱⲡ / ⟪षष्ठी⟫).**
 
 **ⲛⲓϫⲱⲙ:**
 
@@ -216,7 +216,7 @@ Madhya Pradesh
 :::
 ## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
 
-Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind bisher die nötige Grammatik und der Wortschatz noch nicht besprochen <!-- TODO: Fallback translation -->
+Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind bisher die nötige Grammatik und der Wortschatz noch nicht besprochen
 
 1.  `"nordöstlich"` -> "northeasterly" -> "ⲉ̀ⲡⲓⲥⲁ ⲛ̀ⲓⲁⲃⲧ ⲛⲉⲙ ⲡⲓⲙⲏϣ" (This is a bit tricky. "North-east" is ⲡⲓⲙⲏϣ-ⲓⲁⲃⲧ. The adjectival form is what's needed. Let's just translate the German word) -> "ⲉ̀ⲡⲓⲥⲁ-ⲙⲏϣ-ⲓⲁⲃⲧ"
 2.  Translation: 11. ⲛⲓⲥⲁϫⲓ ⲛ̀ⲧⲉ ⲛⲓⲙⲁ ⲉⲑⲣⲉⲩⲥⲏⲙⲁⲓⲛⲉⲓⲛ ⲛ̀ⲛⲓⲙⲁ ⲛ̀ⲙⲉⲥⲟⲥ: ⟪⟨DEVA_
@@ -356,7 +356,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ## 20.10. Übung 1
 
-Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatpuruṣa auf alle Ihnen als möglich erscheinenden Arten in Sanskrit auf (Ausnahme: Komposita mit adverbiellem Vorderglied). Übersetzen Sie diese verschieden aufgelösten Komposita ins Deutsche, geben Sie Geschlecht, Fall und Zahl des Gesamtkompositums an. <!-- TODO: Fallback translation -->
+Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatpuruṣa auf alle Ihnen als möglich erscheinenden Arten in Sanskrit auf (Ausnahme: Komposita mit adverbiellem Vorderglied). Übersetzen Sie diese verschieden aufgelösten Komposita ins Deutsche, geben Sie Geschlecht, Fall und Zahl des Gesamtkompositums an.
 
 1.  ⟪इन्द्रशत्रवः⟫
 2.  ⟪दुष्कुलायाः⟫
@@ -442,7 +442,7 @@ Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatp
 
 ## 20.11. Übung 2
 
-A) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+A) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
 
@@ -564,27 +564,5 @@ Sanchi = ⟪सांची⟫
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
 ⲁⲛϧⲱⲕ: ⟪इच्छताम्⟫ = gen. pl. part pres. p ⲕⲉ ρϥ⟪इष्⟫ : ⲛⲧⲉ ϩⲙ
-:::
-::: deleteme-box
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), ⲕⲁϥρⲟϧ, 9. ϩⲃ ⳉⲙρⲟϧ [ⲁⲛⲱⲥ ϩⲙ ⲧϫⲉⲛⲓⲁⲩⲱⲧ: Wikipedia, Public domain]
-
-**lekt2002:** [ⲁⲛⲱⲥ ϩⲙ ⲧϫⲉⲛⲓⲁⲩⱦ: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [ⲁⲛⲱⲥ ϩⲙ ⲧϫⲉⲛⲓⲁⲩⱦ Wikipedia, Public domain]
-
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [ⲁϥⲃⲓⲕⲟϧ: Ⲓⲁⲣⲉⲇ Ⲥⲓⲱⲣⲙⲁⲛ. -- http://www.flickr.com/photos/spoinknet/35414570/. -- ⲁⲛⲟⲕϧ ⲉⲡ 2008-12-11. -- ⲛⲁϥⲟⲩⲱⲃ Creative Commons (ⲛⲁϥⲙⲉⲧⲣⲟⲩⲃ, ⲛⲁϥⲙⲉⲧⲣⲟⲩⲃ ⲛⲁϥⲙⲉⲧⲣⲟⲩⲃ, ⲛⲁϥⲙⲉⲧⲣⲟⲩⲃ)]
-
-**lekt2005:** Jesus und die übrigen Götter, Ahmedabad [Bildquelle: von ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt2006:** Madhya Pradesh [Bildquelle: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2007:** Chennai = சென்னை [Bildquelle: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2008:** Ⲣⲓϣⲏⲕⲥ = ⟪ऋषिकेश⟫. "Αὐτὸ ἐστὶν μέρος τοῦ Ἀσράμου ἐν τῷ Ρισήκεθ, οὗ οἱ Βιτλῆς ἐκατοίκησαν. Τοῦτο τὸ μέρος οὐκ ἦν ἐπὶ τοῦ χρόνου αὐτῶν, ἀλλὰ φαίνεται καλόν." [Πηγὴ εἰκόνος: ὑπὸ ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Πρόσβασις 2008-12-11. -- Ἄδεια Creative Commons (Ἀναφορά)]
-
-**lekt2009:** Καρνάτακ [Πηγὴ εἰκόνος: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Πρόσβασις 2008-12-11. -- Ἄδεια Creative Commons (Ἀναφορά, οὐχ ἐμπορική χρῆσις)]
-
-**lekt2010:** Βούδας ὡς ἀσκητὴν πρὸ τῆς σωτήριας γνώσεως, Γανδάρα, 2./3. αἰ. [Πηγὴ εἰκόνος: Wikipedia, GNU FDLicense]
 :::
 

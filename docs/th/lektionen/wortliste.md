@@ -4,10 +4,6 @@ outline: 2
 
 
 
-::: deleteme-box
-**วิธีการอ้างอิง & สิทธิ์**
-
-:::
 # รายการคำศัพท์ (ภาพรวมทั้งหมด)
 
 *คำศัพท์ใหม่ทั้งหมดจากหลักสูตรตามลำดับการแนะนำ พร้อมคำอธิบายเชิงธีม*
@@ -101,7 +97,7 @@ outline: 2
 
 [**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-วรณะจึงเป็นชนชั้นที่เกิดจากการกำเนิด <!-- TODO: Fallback translation -->
+วรณะจึงเป็นชนชั้นที่เกิดจากการกำเนิด
 
 **kavi** m. -- ⟪कवि⟫ : กวี
 
@@ -443,7 +439,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. ตีพิมพ�
 ภาพประกอบ: ⟪वरुणः⟫
 (ที่มาภาพ: [รายละเอียด](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : ความไม่จริง, คำโกหก (ตรงข้ามกับ **satya**) <!-- TODO: Fallback translation -->
+- **anṛta** n. ⟪अनृत⟫ : ความไม่จริง, คำโกหก (ตรงข้ามกับ **satya**)
 
 
 ::: note-box
@@ -506,7 +502,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. ตีพิมพ�
 (ที่มาภาพ: [รายละเอียด](/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : ถาม
-- **praśna** m. ⟪प्रश्न⟫ : คำถาม (suffix **-na** เช่นใน **yaj-ña**) <!-- TODO: Fallback translation -->
+- **praśna** m. ⟪प्रश्न⟫ : คำถาม (suffix **-na** เช่นใน **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : ต้องการ
 - **iṣṭi** f. ⟪इष्टि⟫ : ความปรารถนา (**iṣ** + **-ti**)
@@ -656,7 +652,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. ตีพิมพ�
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : เกลียดชัง, เป็นศัตรู
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : กิน, รับประทาน
-- **anna** n. ⟪अन्न⟫ : อาหาร (มาจาก PPP: *ad-na: สิ่งที่ถูกกิน) <!-- TODO: Fallback translation -->
+- **anna** n. ⟪अन्न⟫ : อาหาร (มาจาก PPP: *ad-na: สิ่งที่ถูกกิน)
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -791,7 +787,7 @@ dviṣ 2 U:
 
 ⟪एव⟫ (วางไว้หลัง): เน้นสิ่งที่กล่าวถึงก่อนหน้า ในภาษาเยอรมันมักสอดคล้องกับการเน้นเสียง เป็นรูปแบบหนึ่งของ Emoticon `\&lt;!\&gt;`, ตัวอย่างเช่น ⟪सत्यमेव⟫ ⟪जयति⟫ "ความจริงเพียงอย่างเดียวชนะ", "โดยเฉพาะความจริงที่ชนะ", "ความจริงชนะ"
 
-⟪अरि⟫ m.: ศัตรู (ตาม Thieme, Der Fremdling im Ṛgveda: ในต้นฉบับ = คนแปลกหน้า) <!-- TODO: Fallback translation -->
+⟪अरि⟫ m.: ศัตรู (ตาม Thieme, Der Fremdling im Ṛgveda: ในต้นฉบับ = คนแปลกหน้า)
 
 ::: indent
 ⟪आर्य⟫ 3: อารยัน, หรูหรา ; m. อาเรียน (ชื่อเรียกตนเองของชาวอินเดียโบราณที่พูดภาษาสันสกฤต ความหมายตามตัวอักษร: ผู้มีน้ำใจเป็นเจ้าบ้าน (Thieme)) ; บุคคลที่มีเกียรติ
@@ -2143,7 +2139,7 @@ Inf. ⟪अशितुम्⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (แหล่งที่มาของภาพ: [รายละเอียด](/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : เกิดขึ้น, มีอยู่ <!-- TODO: Fallback translation -->
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : เกิดขึ้น, มีอยู่
 
 **⟪शरीर⟫ น.:** ร่างกาย, กาย
 
@@ -3078,11 +3074,6 @@ Abb.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (to ⟪सम्⟫-⟪हन्⟫ : รวมกัน): กลุ่ม, กอง, สังคม (เช่น พุทธ)
 
-::: deleteme-box
-ดูเพิ่มเติม:
-
-**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: เด็กผู้หญิง, ลูกสาว, หญิงพรหมจรรย์
 
 ⟪अति⟫ Präverb: เหนือ, ผ่านไป, เกิน (ในอวกาศ, ในเวลา, จำนวน, ปริมาณ, ลำดับ, อำนาจ, ความเข้มข้น), มากมาย
@@ -3092,11 +3083,6 @@ Abb.: ⟪शास्त्री⟫
 ::: indent
 PPP ⟪अतीत⟫ : n. อดีต
 :::
-::: deleteme-box
-ดูเพิ่มเติม:
-
-**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: เด็กผู้หญิง, ลูกสาว, หญิงพรหมจรรย์
 
 ⟪अति⟫ Präverb: เหนือ, ผ่านไป, เกิน (ในอวกาศ, ในเวลา, จำนวน, ปริมาณ, ลำดับ, อำนาจ, ความเข้มข้น), มากมาย
@@ -3105,11 +3091,6 @@ PPP ⟪अतीत⟫ : n. อดีต
 
 ::: indent
 PPP ⟪अतीत⟫ : n. อดีต
-:::
-::: deleteme-box
-ดูเพิ่มเติม:
-
-**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: เด็กผู้หญิง, ลูกสาว, หญิงพรหมจรรย์
 
@@ -3519,31 +3500,15 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (จาก ⟪प्र⟫-⟪व्रज्⟫): การออกจากบ้านสู่ความเป็นอนาถะ; พิธีกรรมที่กลายเป็นสามเณรในพุทธศาสนา (ภาษาบาลี: ⟪पब्बजा⟫)
 
-::: deleteme-box
-ดู:
-
-**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 ภาพประกอบ: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (แหล่งที่มาของภาพ: [รายละเอียด](/licenses#lekt4408))
 :::
-::: deleteme-box
-ดู:
-
-**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 ภาพประกอบ: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (แหล่งที่มาของภาพ: [รายละเอียด](/licenses#lekt4408))
-:::
-::: deleteme-box
-ดู:
-
-**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -4611,7 +4576,7 @@ Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (แหล่งภาพ: [รายละเอียด](/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: ต้นกล้วย (_Musa_ sp.) <!-- TODO: Fallback translation -->
+⟪कदली⟫ f.: ต้นกล้วย (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -4665,7 +4630,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt0202**: สัทธู (⟪साधु⟫), วัดปาศุปตินาถ (⟪पशुपतिनाथ⟫ ⟪मन्दिर⟫), กาฐมาณฑุ (⟪काठमांडौ⟫), เนปาล (⟪नेपाल⟫), ค.ศ. 2007 [แหล่งภาพ: Peter Akkermans, Wikipedia, ใบอนุญาต GNU FDL]
 
-**lekt0303**: ดurga = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [แหล่งภาพ: Wikipedia, ใบอนุญาต GNU FDL] <!-- TODO: Fallback translation -->
+**lekt0303**: ดurga = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [แหล่งภาพ: Wikipedia, ใบอนุญาต GNU FDL]
 
 **lekt0501**: เทพเจ้ากาม = kāmadeva = ⟪कामदेव⟫, ศตวรรษที่ 18 [แหล่งภาพ: Wikipedia, สาธารณสมบัติ]
 
@@ -4715,7 +4680,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1809**: ⟪कामः⟫ ภาพประกอบของ ⟪कामसूत्र⟫ [แหล่งที่มาของภาพ: Wikipedia, สาธารณสมบัติ]
 
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [แหล่งที่มาของภาพ: Sudarshan Bhat Khandige / Wikipedia, สาธารณสมบัติ] <!-- TODO: Fallback translation -->
+**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [แหล่งที่มาของภาพ: Sudarshan Bhat Khandige / Wikipedia, สาธารณสมบัติ]
 
 **lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [แหล่งที่มาของภาพ: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- เข้าถึงเมื่อ 2008-12-08. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง, ห้ามใช้เพื่อการค้า, ห้ามดัดแปลง)]
 
@@ -4773,19 +4738,19 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [แหล่งที่มาของภาพ: Kelvin Kay / Wikipedia. GNU FDLicense]
 
-**lekt2805**: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫ ใกล้เมือง Ahmedabad [แหล่งที่มาของภาพ: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- เข้าถึงเมื่อ 2008-12-20. -- ใบอนุญาต Creative Commons (Attribution, share alike)] <!-- TODO: Fallback translation -->
+**lekt2805**: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫ ใกล้เมือง Ahmedabad [แหล่งที่มาของภาพ: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- เข้าถึงเมื่อ 2008-12-20. -- ใบอนุญาต Creative Commons (Attribution, share alike)]
 
 **lekt2903**: ⟪परिव्राजकाः⟫ Pushkar = ⟪पुष्कर⟫ [แหล่งที่มาของภาพ: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- เข้าถึงเมื่อ 2008-12-20. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike)]
 
-**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ Hamilton [แหล่งที่มาของภาพ: Khalid Mahmood / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ Hamilton [แหล่งที่มาของภาพ: Khalid Mahmood / Wikipedia. GNU FDLicense]
 
-**lekt3001**: ⟪क्रीणन्ति⟫ ⟪विक्रीनते⟫ ⟪च⟫ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [แหล่งที่มาของภาพ: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, ไม่มีงานดัดแปลง)] <!-- TODO: Fallback translation -->
+**lekt3001**: ⟪क्रीणन्ति⟫ ⟪विक्रीनते⟫ ⟪च⟫ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [แหล่งที่มาของภาพ: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, ไม่มีงานดัดแปลง)]
 
 **lekt3002**: ⟪ज्ञातयः⟫ Darewadi, อำเภอ Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [แหล่งที่มาของภาพ: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike)]
 
 **lekt3003**: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫ [แหล่งที่มาของภาพ: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาต Creative Commons (Attribution, share alike)]
 
-**lekt3005**: ⟪अश्नीयात्⟫ ⟪थाली⟫, ใต้ของอินเดีย [แหล่งที่มาของภาพ: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike)] <!-- TODO: Fallback translation -->
+**lekt3005**: ⟪अश्नीयात्⟫ ⟪थाली⟫, ใต้ของอินเดีย [แหล่งที่มาของภาพ: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike)]
 
 **lekt3004**: ⟪प्रिया⟫ [แหล่งที่มาของภาพ: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาต Creative Commons (Attribution, share alike)]
 
@@ -4799,7 +4764,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3202**: ⟪चूतः⟫ ⟪कानपुर⟫, / کان پور [แหล่งที่มาของภาพ: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Attribution, share alike)]
 
-**lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [แหล่งที่มาของภาพ: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- เข้าถึงเมื่อ 2008-12-25. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike)] <!-- TODO: Fallback translation -->
+**lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [แหล่งที่มาของภาพ: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- เข้าถึงเมื่อ 2008-12-25. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike)]
 
 
 **lekt3204**: ⟪उपलाः⟫ "หินก้อนใหญ่ที่นี่แข็งพอที่สัตว์ซากซึ่งเข้ายึดเหมืองร้างทางใต้ของใจกลางเมืองกลางไม่ชอบตีพวกมันโดยตรงด้วยค้อนของพวกเขา พวกเขาเผาหินก่อน — ด้วยยางรถยนต์ติดไฟ พลาสติกเหลือใช้ bahkanรองเท้าบูทเก่า — เพื่อให้หินแตกง่ายขึ้น เมื่อพลบค่ำ เมื่อสามหรือสี่กองไฟพ่นเมฆดำอึกอัดข้ามหลุมขนาดใหญ่ เหมืองหินดูเหมือนภาพตัดไม้จากดันเต้ ที่ปากของเหมืองหินนี้ในปุเน มหาราษฏรา สตรีตัวเล็กในชุดสาหรี ทำงาน 14 ชั่วโมงแตกหินก้อนใหญ่เป็นชิ้นหินขนาดลูกคริกเก็ต ค้อนยักษ์ตัดผ่านอากาศไปยังเสียงของหินแตก ทันทีเบื้องหลังพวกเขาเครื่องจักรขนาดใหญ่ที่เคี้ยวหินเพียงเพื่อคายกรวดก่อสร้างออกมา เกือบทุกหน้าถูกทาด้วยฝุ่นสีขาว ฝุ่นหนักและอึกอัด ลอยในอากาศเหมือนหมอกคลุมทุกอย่าง" [แหล่งภาพ: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- เข้าถึงเมื่อ 2008-12-25. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อ ห้ามใช้เพื่อการค้า แบ่งปันแบบเดียวกัน)]
@@ -4831,7 +4796,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3403**: ⟪तिलाः⟫ [แหล่งที่มาของภาพ: วิกิพีเดีย. Public domain]
 
-**lekt3404**: ⟪तिलाः⟫ [แหล่งที่มาของภาพ: Franz Xaver / วิกิพีเดีย. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt3404**: ⟪तिलाः⟫ [แหล่งที่มาของภาพ: Franz Xaver / วิกิพีเดีย. GNU FDLicense]
 
 **lekt3402**: ⟪स्वर्णम्⟩ ฮารมันดिर ซาहिब = ਹਰਿਮੰਦਰ ਸਾਹਿਬ, อัมฤตसर = ਅੰਮ੍ਰਿਤਸਰ [แหล่งที่มาของภาพ: วิกิพีเดีย. GNU FDLicense]
 
@@ -4862,7 +4827,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ คันธาระ, ศตวรรษที่ 2/3 หลังคริสตกาล [ภาพจาก: Wikipedia. สัมพันธสาธารณะ]
 
-**lekt3809**: ⟪ब्रह्मा⟫ ฮาลีเบดู = ಹಳೆಬೀಡು [ภาพจาก: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt3809**: ⟪ब्रह्मा⟫ ฮาลีเบดู = ಹಳೆಬೀಡು [ภาพจาก: Wikipedia. GNU FDLicense]
 
 **lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) วัยเด็ก Kolkata = কলকাতা [ภาพจาก: J.M.Garg / Wikipedia. GNU FDLicense]
 
@@ -4889,7 +4854,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4109**: ⟪शासना⟫ จารึกอโศก, Dhauli, Orissa [แหล่งที่มาของภาพ: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- เข้าถึงเมื่อ 2009-01-03. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (Attribution, ไม่ใช้ในเชิงพาณิชย์)]
 
-**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), ประมาณปี ค.ศ. 1898 [แหล่งที่มาของภาพ: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), ประมาณปี ค.ศ. 1898 [แหล่งที่มาของภาพ: Wikipedia. Public domain]
 
 **lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ The Diwan I Khas หรือ Hall of Private Audiences ที่ Lal Qila (Red Fort) ในเดลี [แหล่งที่มาของภาพ: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- เข้าถึงเมื่อ 2009-01-04. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (Attribution, ไม่ใช้ในเชิงพาณิชย์, share alike)]
 
@@ -4901,7 +4866,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4305**: ⟪वणिक्⟫ Kanchipuram = காஞ்சிபுரம [แหล่งที่มาของภาพ: visio. -- http://www.flickr.com/photos/visio/421217297/. -- เข้าถึงเมื่อ 2009-01-06. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (Attribution, ไม่ใช้ในเชิงพาณิชย์, share alike)]
 
-**lekt4306**: ⟪वत्सः⟫ ควายน้ำ (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [แหล่งที่มาของภาพ: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- เข้าถึงเมื่อ 2009-001-06. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (Attribution, share alike)] <!-- TODO: Fallback translation -->
+**lekt4306**: ⟪वत्सः⟫ ควายน้ำ (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [แหล่งที่มาของภาพ: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- เข้าถึงเมื่อ 2009-001-06. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (Attribution, share alike)]
 
 
 **lekt4307**: ⟪तोलन्ति⟫ [ที่มาของภาพ: Ray Witlin / ธนาคารโลก. -- http://www.flickr.com/photos/worldbank/2183198505/. -- เข้าถึงเมื่อ 2009-01-06. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
@@ -4918,13 +4883,13 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [ที่มาของภาพ: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- เข้าถึงเมื่อ 2009-01-08. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
 
-**lekt4602**: ⟪नवग्रहाः⟫ [ที่มาของภาพของ ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4602**: ⟪नवग्रहाः⟫ [ที่มาของภาพของ ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4603**: ⟪नवग्रहाः⟫ [ที่มาของภาพของ ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4603**: ⟪नवग्रहाः⟫ [ที่มาของภาพของ ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4604**: ⟪नवग्रहाः⟫ [ที่มาของภาพของ ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4604**: ⟪नवग्रहाः⟫ [ที่มาของภาพของ ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4605**: ⟪नवग्रहाः⟫ [ที่มาของภาพของ ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4605**: ⟪नवग्रहाः⟫ [ที่มาของภาพของ ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
 **lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ประมาณ ค.ศ. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = พญานาคสูงสุด) [ที่มาของภาพ: Wikipedia. สาธารณสมบัติ]
 
@@ -4980,9 +4945,9 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt5003**: ⟪कल्याणी⟫ [แหล่งที่มาของภาพ: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- เข้าถึงเมื่อ 2009-01-12. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
 
-**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [แหล่งที่มาของภาพ: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [แหล่งที่มาของภาพ: Kounosu / Wikipedia. GNU FDLicense]
 
-**lekt5105**: ⟪कृष्णमृगः⟫ กวางantilope -- _Antilope cervicapra_ L., ตัวผู้ [แหล่งที่มาของภาพ: Wikipedia, สาธารณสมบัติ] <!-- TODO: Fallback translation -->
+**lekt5105**: ⟪कृष्णमृगः⟫ กวางantilope -- _Antilope cervicapra_ L., ตัวผู้ [แหล่งที่มาของภาพ: Wikipedia, สาธารณสมบัติ]
 
 **lekt5106**: ⟪ऋतुः⟫ "แผนภาพสำหรับการคำนวณวัน fertile ตาม OGINO สำหรับรอบเดือน 26 ถึง 30 วัน... [แหล่งที่มาของข้อความและภาพ: Roche Lexikon Medizin. ออนไลน์: http://www.gesundheit.de/roche/ro20000/r20172.html. เข้าถึงเมื่อ 2003-12-16]
 
@@ -5011,7 +4976,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt5117**: ⟪मदः⟫ [แหล่งที่มาของภาพ: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- เข้าถึงเมื่อ 2009-01-13. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง, ไม่ใช้เพื่อการค้า, แบ่งปันแบบเดียวกัน)]
 
-**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [แหล่งที่มาของภาพ: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- เข้าถึงเมื่อ 2009-01-16. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง)] <!-- TODO: Fallback translation -->
+**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [แหล่งที่มาของภาพ: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- เข้าถึงเมื่อ 2009-01-16. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง)]
 
 **lekt5212**: ⟪पीडिताः⟫ เมืองไฮเดอราบাদ = హైదరాబాద్ [แหล่งที่มาของภาพ: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- เข้าถึงเมื่อ 2009-01-16. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
 
@@ -5024,5 +4989,4 @@ Inf. ⟪त्रातुम्⟫
 **lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [แหล่งที่มาของภาพ: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- เข้าถึงเมื่อ 2009-01-16. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง)]
 
 **lekt5217**: การโจมตีของมารต่อพระพุทธเจ้า Amaravati = అమరావతి, ศตวรรษที่ 2 น.ศ. [แหล่งที่มาของภาพ. Wikipedia. GNU FDLicense]
-
 

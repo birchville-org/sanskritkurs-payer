@@ -54,7 +54,7 @@ B) Formai dumondas per la suandanta exercitaziun da leger suenter il model etat 
 Abb.: ⟪एष⟩ ⟪कः⟩ ⟪।⟩ ⟪एष⟩ ⟪गजः⟩ ⟪।⟩ ⟪अयं⟩ ⟪गजः⟩ ⟪।⟩ ⟪स⟩ ⟪गजः⟩ ⟪।⟩ ⟪एषा⟩ ⟪का⟩ ⟪।⟩ ⟪एषा⟩ ⟪बाला⟩ ⟪।⟩ ⟪इयं⟩ ⟪बाला⟩ ⟪।⟩ ⟪सा⟩ ⟪बाला⟩ ⟪।⟩
 (Sursa d’imagines: [Detagls](/licenses#lekt0401))
 :::
-eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ. <!-- TODO: Fallback translation -->
+eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
 
 ⟪एष⟩ ⟪कः⟩ ⟪।⟩ ⟪एष⟩ ⟪गजः⟩ ⟪।⟩ ⟪अयं⟩ ⟪गजः⟩ ⟪।⟩ ⟪स⟩ ⟪गजः⟩ ⟪।⟩
 
@@ -95,4 +95,3 @@ etat kim? eṣā pipīlikā.
 Abb.: ⟪एतत्किम्⟩ ⟪।⟩ ⟪एष⟩ ⟪काकः⟩ ⟪।⟩
 (Sursa d’imagines: [Detagls](/licenses#uebung003))
 :::
- <!-- TODO: Fallback translation -->

@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  -→
 
 # Урок 50
 
@@ -288,24 +288,5 @@ B) Перекладіть:
 
 Пояснення:
 ⟪निषेकादीनि⟫ : Ном.Акл.мн.серед.рід
-:::
-::: deleteme-box
-
-**lekt5007:** Рис.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Гора Еверест [Джерело зображення: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Доступ отримано 2009-01-12. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Атрибуція)]
-
-**lekt5006:** Лису = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Джерело зображення: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Доступ отримано 2009-01-12. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Атрибуція, некомерційне використання, без обробки)]
-
-**lekt5001:** Капіл Сібал (1948 -), міністр союзу в Міністерстві науки і технологій та Міністерстві наук про Землю (з 2006 року) [Джерело зображення: Світовий економічний форум. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Доступ отримано 2009-01-12. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Атрибуція, поділитися на тих самих умовах)]
-
-**lekt5002:** Прихід мусону, Бангалор  ಬೆಂಗಳೂರು [Джерело зображення: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Доступ отримано 2009-01-12. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Атрибуція, некомерційне використання, без обробки)]
-
-**lekt5005:** [Джерело зображення: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Доступ від 2009-01-12. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Згадка про автора, подібне до оригіналу)]
-
-**lekt5003:** [Джерело зображення: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Доступ від 2009-01-12. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Згадка про автора, некомерційне використання, без переробки)]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Джерело зображення: Kounosu / Wikipedia. GNU FDLicense] &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt5008:** Ганешпурі, за 80 км від Мумбаї (⟪मुंबई⟫) [Джерело зображення: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Доступ від 2009-01-13. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Згадка про автора, некомерційне використання, подібне до оригіналу)]
-
 :::
 

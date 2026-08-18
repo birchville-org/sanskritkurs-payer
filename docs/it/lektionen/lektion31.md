@@ -214,15 +214,3 @@ B) Formare per le seguenti radici della 7ª classe tutte le forme di 3ª persona
 
 ⟪५⟫. ⟪भञ्ज्⟫ (solo P)
 
-::: deleteme-box
-
-**lekt3101:** Rappresentazione dello Yoga. [Fonte dell'immagine: Flickr, 25-12-2008. CC BY]
-
-**lekt3102:** Preparazione alla danza Kathakali, Kochi. [Fonte dell'immagine: winchrisabi. Flickr, 25-12-2008. CC BY]
-
-**lekt3103:** Da un manoscritto della Prajñāpāramitā. [Fonte dell'immagine: zeno.org. Di pubblico dominio]
-
-**lekt3105:** Carri armati del 18º Reggimento Cavalleria (Esercito indiano) in movimento durante la guerra indo-pakistana del 1965. [Fonte dell'immagine: Hari Singh Deora / Wikipedia. Di pubblico dominio]
-
-**lekt3104:** Rāhula, figlio del Buddha, Laos. [Fonte dell'immagine: Sacca / Wikipedia. GNU FDL]
-:::

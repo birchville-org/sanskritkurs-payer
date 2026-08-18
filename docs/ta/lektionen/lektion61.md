@@ -786,29 +786,3 @@ center
 சமஸ்கிருத பாடத்திட்டத்தின் முடிவு
 :::
 
-::: deleteme-box
-
-**lekt6102:** [பட மூலம்: உலக வங்கி / கர்ட் கார்னெமார்க். -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- 2009-03-06 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (நaming, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt6106:** ⟪काशीपुर⟫ [பட மூலம்: சுமித். -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- 2009-03-09 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (நaming, வணிகரீதியான பயன்பாடு இல்லை, பகிர்வு ஒத்த])]]
-
-**lekt6107:** ⟪जोधपुर⟫ [படத்தின் மூலம்: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை, share alike)]
-
-**lekt6104:** கர்நாடகா = ಕರ್ನಾಟಕ [படத்தின் மூலம்: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- 2009-03-08 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [படத்தின் மூலம்: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- 2009-03-08 அன்று அணுகப்பட்டது. --  [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (குறிப்பிடல்)]
-
-**lekt6103:** [படத்தின் மூலம்: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- 2009-03-08 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை)]
-
-**lekt6109:** ⟪मुंबई⟫ [படத்தின் மூலம்: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt6110:** கார்லி [படத்தின் மூலம்: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt6111:** [படத்தின் மூலம்: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (குறிப்பிடல், share alike)]
-
-**lekt6113:** தாய்லாந்து - เมืองไทย [படத்தின் மூலம்: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt6112:** 1845 - 1878 கோபன்ஹேகன் பல்கலைக்கழகத்தில் இந்திய-கிழக்கிய மொழியியல் பேராசிரியர்
-
-**lekt6114:** சான்டா க்ரூஸ் பேராலயம், கோச்சி = കൊച്ചി [படத்தின் மூலம்: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை)]
-:::

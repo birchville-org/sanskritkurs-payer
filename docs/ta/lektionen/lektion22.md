@@ -259,14 +259,3 @@ status: stable
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt2204))
 :::
 
-::: deleteme-box
-
-**lekt2201:** கோவா = ⟪गोंय⟫ [பட மூலம்: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- 2008-12-12 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt2202:** 19. நூற்றாண்டு [பட மூலம்: Wikipedia, பொதுத்துறை]
-
-**lekt2203:** கொல்கத்தா = কলকাতা [பட மூலம்: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- 2008-12-12 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-
-**lekt2204:** [பட மூலம்: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- 2008-12-12 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
-:::
-

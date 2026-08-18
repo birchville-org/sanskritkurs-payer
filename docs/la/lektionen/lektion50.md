@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 50
 
@@ -181,7 +181,7 @@ Declinatio ut ⟪यद्⟫ (exceptio: Nom.Akk.sg.Neutrum)
 Fig.: ⟪कल्याणी⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5003))
 :::
-⟪कु⟫- : ut pars prior compositionum: malus <!-- TODO: Fallback translation -->
+⟪कु⟫- : ut pars prior compositionum: malus
 
 ::: media
 ![](/images/lekt5004.webp)
@@ -290,24 +290,5 @@ Explicatio:
 
 Explanationes:
 ⟪निषेकादीनि⟫ : Nominativus/Accusativus pluralis Neutrum
-:::
-::: deleteme-box
-
-**lekt5007:** Imago: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mons Everest [Fontes imaginis: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Accessus die 2009-01-12. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
-
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Fontes imaginis: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Accessus die 2009-01-12. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
-
-**lekt5001:** Kapil Sibal (1948 -), minister unionis in Ministerio Scientiae et Technologiae ac Ministerio Terrae Scientiarum (ab anno 2006) [Fontes imaginis: Forum Economicum Mundiale. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Accessus die 2009-01-12. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attributio, simile distributum)]
-
-**lekt5002:** Adventus monsonis, Bangalorenensis  बेंगळूरु [Imaginis auctor: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Accessus die 2009-01-12. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt5005:** [Imaginis auctor: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder\_iyer/2225272284/). -- Accessus die 2009-01-12. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attributio, simile distributum)]
-
-**lekt5003:** [Imaginis auctor: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Accessus die 2009-01-12. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Imaginis auctor: Kounosu / Wikipedia. Licentia GNU FDLicense]
-
-**lekt5008:** Ganeshpuri, 80 km a Mumbai (⟪मुंबई⟫) distans [Fontes imaginis: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Accessus 2009-01-13. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (attributio, usus non commercialis, simile)]
-
 :::
 

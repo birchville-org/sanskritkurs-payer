@@ -22,7 +22,7 @@ Arvoisa, katso nöyryyttäni!
 Herra Rāma, jos minun on lähdettävä, tämän neidon tulee olla seurassani.
 
 ⟪४⟫. **⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Arvoisa rouva, pysykää paikallanne, pysykää paikallanne. Teidän ei tarvitse pelätä. <!-- TODO: Fallback translation -->
+Arvoisa rouva, pysykää paikallanne, pysykää paikallanne. Teidän ei tarvitse pelätä.
 
 ⟪५⟫. **⟪प्रसीदत्वार्यः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 Rauhoittukaa, arvoisa herra!
@@ -31,13 +31,13 @@ Rauhoittukaa, arvoisa herra!
 Tervetuloa, arvoisa rouva!
 
 ⟪७⟫. **⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Arvoisa herra, käskähäthän mitä minun tulee tehdä. <!-- TODO: Fallback translation -->
+Arvoisa herra, käskähäthän mitä minun tulee tehdä.
 
 ⟪८⟫. **⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Varustaudu taisteluun, niin sinulle ei käy paha. <!-- TODO: Fallback translation -->
+Varustaudu taisteluun, niin sinulle ei käy paha.
 
 ⟪९⟫. **⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Kysymys: "Mistä sinä pelkäät?" Vastaus: "Tämän Rāman ansioista." Kysyjä: "Mitkä ovat tämän miehen ansiot, jonka talossa ei ole mitään syötävää astuttaessa sisään?" <!-- TODO: Fallback translation -->
+Kysymys: "Mistä sinä pelkäät?" Vastaus: "Tämän Rāman ansioista." Kysyjä: "Mitkä ovat tämän miehen ansiot, jonka talossa ei ole mitään syötävää astuttaessa sisään?"
 
 ⟪१०⟫. **⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 Miekka pysyköön kädessäsi!
@@ -47,15 +47,15 @@ Arvoisa rouva, nöyryyttäsi ei tule kertoa herralle Rāmalle.
 
 ---
 
-## Käännökset sanskritiksi (Imperatiivi) <!-- TODO: Fallback translation -->
+## Käännökset sanskritiksi (Imperatiivi)
 
-B) Käännä sanskritiksi käyttäen imperatiivia: <!-- TODO: Fallback translation -->
+B) Käännä sanskritiksi käyttäen imperatiivia:
 
 ⟪१⟫. **⟪भ्रियै⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 Haluan tulla otetuksi vastaan.
 
 ⟪२⟫. **⟪तुष्यतु⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Hänen tulee olla tyytyväinen. <!-- TODO: Fallback translation -->
+Hänen tulee olla tyytyväinen.
 
 ⟪३⟫. **⟪ह्वयाम⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Meidän tulee kutsua.
@@ -64,7 +64,7 @@ Meidän tulee kutsua.
 Haluan kumartua sinulle.
 
 ⟪५⟫. **⟪एतत्कर्म⟫ ⟪क्रियताम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Tämän teon tulee tehdä. <!-- TODO: Fallback translation -->
+Tämän teon tulee tehdä.
 
 ⟪६⟫. **⟪भवता⟫ ⟪सुप्यताम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 Heidän tulee nukkua. (Passiivirakenne)
@@ -97,7 +97,7 @@ Laula ylistyslaulu!
 Minun tulee syntyä poikia!
 
 ⟪१६⟫. **⟪तुभ्यं⟫ ⟪मे⟫ ⟪गृहं⟫ ⟪दिशानि⟫ ⟪॥⟫ ⟪१६⟫ ⟪॥⟫**
-Haluan näyttää sinulle taloni. <!-- TODO: Fallback translation -->
+Haluan näyttää sinulle taloni.
 
 ⟪१७⟫. **⟪मत्प्रव्रज⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫**
 Poistu minusta!
@@ -122,7 +122,7 @@ Heidän tulee käskyttää.
 Haluamme asua talossasi.
 
 ⟪२४⟫. **⟪एवं⟫ ⟪भवतु⟫ ⟪॥⟫ ⟪२४⟫ ⟪॥⟫**
-Niin sen tulee tapahtua! <!-- TODO: Fallback translation -->
+Niin sen tulee tapahtua!
 
 ⟪२५⟫. **⟪अश्वं⟫ ⟪तुद⟫ ⟪॥⟫ ⟪२५⟫ ⟪॥⟫**
 Lyö hevosta!
@@ -134,7 +134,7 @@ Heidän vaeltamaan ympäri.
 Juopu!
 
 ⟪२८⟫. **⟪अश्वो⟫ ⟪भारं⟫ ⟪कर्षतु⟫ ⟪॥⟫ ⟪२८⟫ ⟪॥⟫**
-Hevosen tulee vetää taakka. <!-- TODO: Fallback translation -->
+Hevosen tulee vetää taakka.
 
 ⟪२९⟫. **⟪लोकान्कल्पयाम⟫ ⟪॥⟫ ⟪२९⟫ ⟪॥⟫**
 Haluamme järjestää maailmankaikkeuden.
@@ -158,5 +158,5 @@ Sen tulee tuottaa onnea! (Siunaus)
 ![](/images/uebung075.webp)
 Kuv.: ⟪माद्यत⟫
 (Kuv lähde: [Details](/licenses#uebung075))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

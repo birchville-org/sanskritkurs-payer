@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  -→
 
 # Урок 61
 
@@ -34,7 +34,7 @@ status: stable
 ### 61.1.2. Жіночі кореневі іменники на -ī
 
 ::: grammar-box
-**Vor vokalischer Закінчення wird -ī durch -iy ersetzt.** &lt;!-- TODO: Fallback translation --&gt;
+**Vor vokalischer Закінчення wird -ī durch -iy ersetzt.** &lt;!--  -→
 
 **Окрім утворень із регулярними відмінковими закінченнями, у Дав.Від.Род.Міс.одн. та Род.множ. трапляються також утворення за зразком багатоскладних жіночих іменників на -ī (⟪देवी⟫).**
 :::
@@ -114,7 +114,7 @@ status: stable
 
 **Deklination analog zu den femininen Коріньnomina auf -ī**
 :::
-Парадигма: &lt;!-- TODO: Fallback translation --&gt;
+Парадигма: &lt;!--  -→
 
 ⟪भू⟫ f. "Земля"
 
@@ -201,7 +201,7 @@ status: stable
 ::: grammar-box
 **Форма кореня: Корінь зазвичай має ту саму форму, що й у простому майбутньому часі. Те саме стосується сполучного голосного -i-.**
 :::
-Приклади: &lt;!-- TODO: Fallback translation --&gt;
+Приклади: &lt;!--  -→
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ тощо |
 | --- | --- |
@@ -288,7 +288,7 @@ status: stable
 Правила докладно у Кільгорна, Граматика § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Приклади: &lt;!-- TODO: Fallback translation --&gt;
+Приклади: &lt;!--  -→
 
 | ⟪दा⟫ 3-я особа | ⟪देदीय⟫- |
 | --- | --- |
@@ -561,7 +561,7 @@ status: stable
 :::
 
 ::: indent
-**Вестергаард**, Нільс Людвіг \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- С. 335 - 341.
+**Вестергаард**, Нільс Людвіг (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- С. 335 - 341.
 :::
 ## 61.5. Бенедиктив (⟪आशीर्लिङ्⟫)
 
@@ -765,36 +765,3 @@ status: stable
 КІНЕЦЬ КУРСУ САНСКРИТУ
 :::
 
-::: deleteme-box
-
-**lekt6102:** [Джерело зображення: Світовий банк / Керт Карнемарк. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Доступ від 2009-03-06. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Ім'я автора, некомерційне використання, без обробки)]
-
-**lekt6106:** ⟪काशीपुर⟫ [Джерело зображення: Суміт. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Ім'я автора, некомерційне використання, з тією ж ліцензією)]]
-
-**lekt6107:** ⟪जोधपुर⟫ [Джерело зображення: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Ім'я автора, некомерційне використання, з тією ж ліцензією)]
-
-**lekt6104:** Карнатака = ಕರ್ನಾಟಕ [Джерело зображення: Flickr Джессі Рейбіт. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Доступ від 2009-03-08. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Зазначення авторства, некомерційне використання, без обробки)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Джерело зображення: Нареш Дхіман. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Доступ від 2009-03-08. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Зазначення авторства)]
-
-**lekt6103:** [Джерело зображення: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Доступ від 2009-03-08. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Зазначення авторства, некомерційне використання)]
-
-**lekt6109:** ⟪मुंबई⟫ [Джерело зображення: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Зазначення авторства, некомерційне використання, без обробки)]
-
-**lekt6110:** Карлі [Джерело зображення: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Зазначення авторства, некомерційне використання, без обробки)]
-
-**lekt6111:** [Джерело зображення: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Зазначення авторства, поділіться аналогічно)] &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt6113:** Таїланд - เมืองไทย [Джерело зображення: Подорож «Відбитки: Від реальності до екрану» (Ронн на березі). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Зазначення авторства, некомерційне використання, без обробки)]
-
-**lekt6112:** 1845 - 1878 Професор індійської східної філології в Копенгагенському університеті
-
-**lekt6114:** Базилика Святого Креста, Кочі = കൊച്ചി [Джерело зображення: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Зазначення авторства, некомерційне використання)]
-
-**lekt6118:** [Джерело зображення: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Зазначення авторства)]
-
-**lekt6117:** Народ апатані, Аруначал-Прадеш [Джерело зображення: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Доступ від 2009-03-09. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)] &lt;!-- TODO: Fallback translation --&gt;
-
-**lekt6101:** Халбід (ಹಳೆಬೀಡು), XII/XIII ст. н. е. [Джерело зображення: Quadell / Вікіпедія. GNU FDLicense]
-
-:::

@@ -413,13 +413,3 @@ D) Terjemahkan:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
 
-::: deleteme-box
-
-**lekt1801:** "Seorang anak laki-laki muda terlihat selama ritual upanayana. Benang kuning tipis yang berjalan dari bahu kiri ke pinggang adalah Yagnopaivta. Perhatikan juga ikat pinggang dari rumput munja di sekitar pinggang. Cabang kecil di tangan kanan (biasanya dari pohon peepa) menandakan masuknya dia ke dalam Brahmacharya." [Sumber gambar: Nagesh Rao / Wikipedia, GNU FDLicense]
-
-**lekt1802:** Cetak 1770 [Sumber gambar: Wikipedia, Domain publik]
-
-**lekt1803:** ⟪गन्धार⟫ Abad ke-1/2 M. [Sumber gambar: Wikipedia, Domain publik]
-
-**lekt1804:** Pernikahan = ⟪विवाह⟫ m., sebuah ⟪संस्कारः⟫ yang penting [Sumber gambar: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Diakses pada 2008-12-08. -- Lisensi Creative Commons (Atribusi, non-komersial, tanpa karya turunan)]
-:::

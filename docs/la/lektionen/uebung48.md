@@ -115,7 +115,7 @@ Abb.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 :::
 ---
 
-## Dharma mulierum (⟪स्त्रीधर्मः⟫) <!-- TODO: Fallback translation -->
+## Dharma mulierum (⟪स्त्रीधर्मः⟫)
 
 Ex **⟪मनुस्मृति⟫ ⟪९⟫**:
 

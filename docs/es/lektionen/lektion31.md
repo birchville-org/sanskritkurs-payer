@@ -214,15 +214,3 @@ B) Forme para las siguientes raíces de la 7. clase todas las formas de tercera 
 
 ⟪५⟫. ⟪भञ्ज्⟫ (solo P)
 
-::: deleteme-box
-
-**lekt3101:** Representación del yoga. [Fuente de la imagen: Flickr, 2008-12-25. CC BY]
-
-**lekt3102:** Preparación para el baile Kathakali, Kochi. [Fuente de la imagen: winchrisabi. Flickr, 2008-12-25. CC BY]
-
-**lekt3103:** De un manuscrito de Prajñāpāramitā. [Fuente de la imagen: zeno.org. Dominio público]
-
-**lekt3105:** Tanques del 18.º Regimiento de Caballería (Ejército indio) en movimiento durante la guerra indo-pakistaní de 1965. [Fuente de la imagen: Hari Singh Deora / Wikipedia. Dominio público]
-
-**lekt3104:** Rāhula, hijo de Buda, Laos. [Fuente de la imagen: Sacca / Wikipedia. GNU FDL]
-:::

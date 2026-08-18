@@ -587,20 +587,3 @@ Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
 
 ⟪युष्माकम्⟫ جمع، مضاف‌الیه: مربوط به :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: تصویر: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  بنگالورو = ಬೆಂಗಳೂರು \[منبع تصویر: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- دسترسی در ۲۰۰۸-۱۲-۳۱. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)\]
-- **lekt3802.jpg**: تصویر: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫، کونارک = ⟪कोनार्क⟫ \[منبع تصویر: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- دسترسی در ۲۰۰۸-۱۲-۳۱.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)\]
-- **lekt3803.jpg**: تصویر: ⟪सीमा⟫  مرز بین هند و پاکستان در واگه (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[منبع تصویر: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- دسترسی در ۲۰۰۸-۱۲-۳۱. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)\]
-- **lekt3804.jpg**: تصویر: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  گاندارا، قرن دوم/سوم پس از میلاد \[منبع تصویر: ویکی‌پدیا. مالکیت عمومی\]
-- **lekt3805.jpg**: تصویر: ⟪उदकम्⟫  روستاره‌دِوادی، منطقه احمدنگر = ⟪अहमदनगर⟫، ⟪महाराष्ट्र⟫ \[منبع تصویر: Robin Murphy، موسسه منابع جهان. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- دسترسی در ۲۰۰۹-۰۱-۰۱. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)\]
-- **lekt3806.jpg**: تصویر: ⟪हस्ती⟫  پارک ملی ناگاروله = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[منبع تصویر: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- دسترسی در ۲۰۰۹-۰۱-۰۱. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)\]
-- **lekt3807.jpg**: تصویر: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[منبع تصویر: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- دسترسی در ۲۰۰۹-۰۱-۰۱. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)\]
-- **lekt3808.jpg**: تصویر: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  دهه ۱۹۳۰ \[منبع تصویر: ویکی‌پدیا. مالکیت عمومی\]
-- **lekt3809.jpg**: تصویر: ⟪ब्रह्मा⟫  هالبدی = ಹಳೆಬೀಡು \[منبع تصویر: ویکی‌پدیا. مجوز GNU FD\]
-- **lekt3810.jpg**: تصویر: درخت آشوکا = _Saraca asoca_ (Roxb.) Wilde کولکاتا = কলকাতا \[منبع تصویر: J.M.Garg / ویکی‌پدیا. مجوز GNU FD\]
-- **lekt3811.jpg**: تصویر: بزرگ‌ترین گستره امپراتوری آشوکا و محل‌های یافتن مناجیق‌ها و ستون‌های او \[منبع تصویر: ویکی‌پدیا. مجوز GNU FD\]
-- **lekt3812.jpg**: تصویر: ⟪विनोदः⟫  بازی کاروم \[منبع تصویر: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- دسترسی در ۲۰۰۹-۰۱-۰۱. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، اشتراک یکسان)\]
-- **lekt3813.jpg**: تصویر: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[منبع تصویر: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- دسترسی در ۲۰۰۹-۰۱-۰۱. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)\]
-- **lekt3814.jpg**: تصویر: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫، ⟪देशनोके⟫ \[منبع تصویر: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- دسترسی در ۲۰۰۹-۰۱-۰۱. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)\]
-:::

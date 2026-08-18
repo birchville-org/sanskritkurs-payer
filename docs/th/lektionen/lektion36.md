@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # บทที่ 36
 
@@ -20,7 +20,7 @@ status: stable
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫:sig[⟪गा⟫]⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | | <!-- TODO: Fallback translation -->
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | |
 
 ::: grammar-box
 2\. รากศัพท์ ⟪विद्⟫ 2P "รู้" มี Perfect ที่มีความหมายแบบ Present
@@ -46,7 +46,7 @@ status: stable
 | :--- | :--- | :--- |
 | ⟪भू⟫ 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::
-## 36.2. Perfect แบบ Periphrastic (⟪अनुप्रयोगलिट्⟫) <!-- TODO: Fallback translation -->
+## 36.2. Perfect แบบ Periphrastic (⟪अनुप्रयोगलिट्⟫)
 
 ::: grammar-box
 Perfect แบบ Periphrastic (⟪अनुप्रयोगलिट्⟫) ใช้ในกรณี:
@@ -63,7 +63,7 @@ Perfect แบบ Periphrastic (⟪अनुप्रयोगलिट्⟫) �
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ และ ⟪भू⟫ ยังถูกผันใน Parasmaipada สำหรับกริยา Ātmanepada ด้วย
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 ตัวอย่าง:
 
@@ -508,13 +508,3 @@ Abb.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: ภาพ: ⟪गोमयं⟫ ⟪चिकाय⟫ อุไดปูร์ = ⟪उदयपुर⟫ [ที่มาของภาพ: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- เข้าถึงเมื่อ 28 ธันวาคม 2008. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า)]
-- **lekt3602.jpg**: ภาพ: ⟪अगारम्⟫ เชกาواتี = ⟪शेखावाटी⟫ [ที่มาของภาพ: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- เข้าถึงเมื่อ 28 ธันวาคม 2008. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, เหมือนกัน)]
-- **lekt3603.jpg**: ภาพ: ⟪अनगार्यम्⟫ ภาคตะวันออกเฉียงเหนือของประเทศไทย = อีสาน [ที่มาของภาพ: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- เข้าถึงเมื่อ 28 ธันวาคม 2008. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า, ไม่ดัดแปลง)]
-- **lekt3604.jpg**: ภาพ: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ นาม ขนร่างกาย) [ที่มาของภาพ: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- เข้าถึงเมื่อ 29 ธันวาคม 2008. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ กานธาระ, ศตวรรษที่ 1/2 น.ศ. [ที่มาของภาพ: Wikipedia. GNU FDLicense]
-- **lekt3606.jpg**: ภาพ:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫ มุทรา [ที่มาของภาพ: Payer]
-- **lekt3607.jpg**: ภาพ: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [ที่มาของภาพ: Dey. -- http://www.flickr.com/photos/dey/481184329/in/photostream/. -- เข้าถึงเมื่อ 29 ธันวาคม 2008. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต, ไม่ใช้เพื่อการค้า, เหมือนกัน)]
-:::

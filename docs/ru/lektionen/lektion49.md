@@ -369,25 +369,3 @@ PPP ⟪ध्यात⟫
 (Источник изображения: [Details](/ru/licenses#lekt4908))
 :::
 
-::: deleteme-box
-
-**lekt4907:** [Источник изображения: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Дата обращения: 10.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, NonCommercial, ShareAlike)]
-
-**lekt4901:** [Источник изображения: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Дата обращения: 11.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribution, NoDerivs)]
-
-**lekt4902:** ⟪शिवो नटराजा⟫, XI век. [Источник изображения: Vassil / Wikipedia. Общественное достояние]
-
-**lekt4903:** [Источник изображения: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Дата обращения: 11.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Указание авторства, некоммерческое использование, без производных произведений)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Источник изображения: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Дата обращения: 11.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Указание авторства, некоммерческое использование, с сохранением условий)]
-
-**lekt4909:** Гадалка с попугаем в клетке: попугай вытаскивает бумажечки, на которых написано предсказание. Майсор [Источник изображения: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Дата обращения: 12.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Указание авторства)]
-
-**lekt4905:** Амритсар = ਅੰਮ੍ਰਿਤਸਰ [Источник изображения: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Дата обращения: 11.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Указание авторства)]
-
-**lekt4906:** Шри-Ланка [Источник изображения: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Дата обращения: 11.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Указание авторства, некоммерческое использование, без производных произведений)]
-
-**lekt4908:** Розовоголовый попугай _= Psittacula cyanocephala_[Источник изображения: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Дата обращения: 2009-01-12. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, Non-commercial Use, Share Alike)]
-
-:::
-

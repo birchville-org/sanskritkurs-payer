@@ -106,5 +106,5 @@ B) Σχηματίστε τα αντίστοιχα PPP για τους ρηματ
 ![](/images/uebung020.webp)
 Εικ.: ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 (Πηγή εικόνας: [Details](/licenses#uebung020))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

@@ -12,21 +12,21 @@ status: stable
 ## 55.1. ⲧⲁ-ⲁⲟⲣⲓⲥⲧ (ⲁⲟⲣⲓⲥⲧ ⲉⲧⲉ ⲟⲩⲟⲛ ⲟⲩⲑⲉⲙⲁⲩⲟⲕⲁⲗ ⲛ̀ⲧⲟϥ)
 
 ::: grammar-box
-**Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:** <!-- TODO: Fallback translation -->
+**Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:**
 
-**Augment + tiefstufige Wurzel + a + Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + tiefstufige Wurzel + a + Sekundärendung**
 
-**Das -a- wird in den gleichen Fällen wie im Imperfekt durch -ā- ersetzt.** <!-- TODO: Fallback translation -->
+**Das -a- wird in den gleichen Fällen wie im Imperfekt durch -ā- ersetzt.**
 
-**Keine Nasalinfixe.** <!-- TODO: Fallback translation -->
+**Keine Nasalinfixe.**
 
-**Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).** <!-- TODO: Fallback translation -->
+**Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).**
 
-**Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.** <!-- TODO: Fallback translation -->
+**Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Beispiel:
 
-⟪सिच्⟫ 6U "beträufeln" <!-- TODO: Fallback translation -->
+⟪सिच्⟫ 6U "beträufeln"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -36,23 +36,23 @@ Beispiel: <!-- TODO: Fallback translation -->
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
 :::
-Unregelmäßige Bildungen: <!-- TODO: Fallback translation -->
+Unregelmäßige Bildungen:
 
 ::: indent
-⟪अस्⟫ 4P "werfen": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (Erklärung siehe Thumb-Hauschild §541,4) <!-- TODO: Fallback translation -->
+⟪अस्⟫ 4P "werfen": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (Erklärung siehe Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": ***:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]*** <!-- TODO: Fallback translation -->
+⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": ***:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]***
 
-⟪दृश्⟫ "sehen": ***:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]*** (Hochstufe!) <!-- TODO: Fallback translation -->
+⟪दृश्⟫ "sehen": ***:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]*** (Hochstufe!)
 :::
-Beachte: <!-- TODO: Fallback translation -->
+Beachte:
 
 ::: indent
-⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmäßige Tiefstufe!) <!-- TODO: Fallback translation -->
+⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmäßige Tiefstufe!)
 :::
 ## 55.2. Übung
 
-Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist: <!-- TODO: Fallback translation -->
+Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist:
 
 1.  ⟪दोक्ष्यन्ति⟫
 2.  ⟪बुबोध⟫
@@ -74,16 +74,16 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 18.  ⟪श्राम्यन्ति⟫
 19.  ⟪विन्दथ⟫
 20.  ⟪असीदन्⟫
-21.  ⟪वर्तामहे⟫ (a-Aor.: P) <!-- TODO: Fallback translation -->
+21.  ⟪वर्तामहे⟫ (a-Aor.: P)
 22.  ⟪अशात्⟫
 23.  ⟪सेक्ष्यसे⟫
 24.  ⟪अयुनक्⟫
 25.  ⟪आरिथ⟫
 26.  ⟪अक्लिद्यन्⟫
-27.  ⟪अजीर्यम्⟫ (Aor.: hochstufig) <!-- TODO: Fallback translation -->
+27.  ⟪अजीर्यम्⟫ (Aor.: hochstufig)
 28.  ⟪लुम्पति⟫
 29.  ⟪अशाम्यत⟫
-30.  ⟪अशोभथाः⟫  (a-Aor.: P) <!-- TODO: Fallback translation -->
+30.  ⟪अशोभथाः⟫  (a-Aor.: P)
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
@@ -91,11 +91,6 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 ![](/images/lekt5501.webp)
 Abb.: ⟪अजीर्यमिति⟫
 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
-(Bildquelle: [Details](/licenses#lekt5501)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618 [Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei] <!-- TODO: Fallback translation -->
-
-:::

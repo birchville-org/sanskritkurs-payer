@@ -31,7 +31,7 @@ Ezempels:
 ⟪द्विष्⟫ 2 U "odiar"
 
 *   starker Stampa da preschent: dveṣ-
-*   schwacher Stampa da preschent: dviṣ- <!-- TODO: Fallback translation -->
+*   schwacher Stampa da preschent: dviṣ-
 
 ::: no-header
 
@@ -40,13 +40,13 @@ Ezempels:
 | 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
 | 3\. pl. Präs. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
 | 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
 Qua quai vala la suandanta regla da sandhi:
 
 ::: grammar-box
-sandhi da las paraulas da -ṣ + t(h)- <!-- TODO: Fallback translation -->
+sandhi da las paraulas da -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
 :::
@@ -66,7 +66,7 @@ Exemples ulteriurs:
 | 3\. sg. Präs. P | ⟪एति⟫ (e-ti) |
 | 3\. pl. Präs. P | ⟪यन्ति⟫ (y-anti) |
 | 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
-| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
 
 :::
 ⟪दुह्⟫ 2 U "mular"
@@ -81,15 +81,15 @@ Exemples ulteriurs:
 | 3\. sg. Präs. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. Präs. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
-⟪हन्⟫ 2 P "schlagen, erschlagen, töten" <!-- TODO: Fallback translation -->
+⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
 
 *   starker Stampa da preschent: han-
 *   schwacher Stampa da preschent:
     *   vor Konsonant: ha- (« \*hn-)
-    *   vor Vokal: ghn-/han- <!-- TODO: Fallback translation -->
+    *   vor Vokal: ghn-/han-
 
 ::: no-header
 
@@ -98,20 +98,20 @@ Exemples ulteriurs:
 | 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) |
 | 3\. pl. Präs. P | ⟪घ्नन्ति⟫ (ghn-anti) |
 | 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
 ⟪अस्⟫ 2 P "esser"
 
 *   fortstärker Stampa da preschent: as-
-*   schwacher Stampa da preschent: s- <!-- TODO: Fallback translation -->
+*   schwacher Stampa da preschent: s-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
-| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
 
 :::
 ## 17.3. Radisch da la segunda classa da prezens cun declinaziun dal stemma: nivel da lungida – nivel bass
@@ -123,7 +123,7 @@ Esempel:
 *   starker Stampa da preschent: stau-
 *   schwacher Stampa da preschent:
     *   vor Konsonant: stu-
-    *   vor Vokal: stuv- <!-- TODO: Fallback translation -->
+    *   vor Vokal: stuv-
 
 ::: no-header
 
@@ -132,7 +132,7 @@ Esempel:
 | 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
 | 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
-| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
 :::
 ## 17.4. Radixs da la segunda classa da presentis senza declinaziun dal stem
@@ -149,7 +149,7 @@ Esempio:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::
 Anch auter radis da la segunda classa n'han nagina declinaziun dal stem:
@@ -163,7 +163,7 @@ Ezempels:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
 ⟪आस्⟫ 2 Ā "seder"
@@ -173,7 +173,7 @@ Ezempels:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
 ⟪वच्⟫ 2 P "dir"
@@ -183,7 +183,7 @@ Ezempels:
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | kommt nicht vor | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | kommt nicht vor |
 
 :::
 ## 17.5. Radis bilsilbics cun -i/-ī cun fluctuaziun dal stem
@@ -197,14 +197,14 @@ Ezempels:
 *   starker Stampa da preschent: rodi-
 *   schwacher Stampa da preschent:
     *   vor Konsonant: rudi-
-    *   vor Vokal: rud- <!-- TODO: Fallback translation -->
+    *   vor Vokal: rud-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) | <!-- TODO: Fallback translation -->
+| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
 ⟪ब्रू⟫ 2 U "dir"
@@ -212,7 +212,7 @@ Ezempels:
 *   starker Stampa da preschent: bravī- (« bro- + -ī)
 *   schwacher Stampa da preschent:
     *   vor Konsonant: brū-
-    *   vor Vokal: bruv- <!-- TODO: Fallback translation -->
+    *   vor Vokal: bruv-
 
 ::: no-header
 
@@ -230,7 +230,7 @@ Aunch ⟪स्तु⟫ 2 U "preisan" ha cunzè las sut 3. inditgadas formas su
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | <!-- TODO: Fallback translation -->
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
 ## 17.6. Glista da pleds
@@ -410,11 +410,3 @@ Traducir las siguientes formas verbales e indicar la raíz correspondiente:
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
-::: deleteme-box
-
-**lekt1701:** [Fonte da l'imaginesch: da tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Access il 2008-12-07. -- Licenza Creative Commons (Nominament, naginas modificaziuns)]
-
-**lekt1702:** [Quella da l’imagines: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Access il 2008-12-07. -- Licenza Creative Commons (Nominament, nagina utilizaziun commerziala, share alike)]
-
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [fonte da immaġina: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- consultà il 2008-12-07. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala)]
-:::

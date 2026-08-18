@@ -1,653 +1,631 @@
 ---
-title: Lektion 53
+title: "Ders 53"
 lesson_id: 53
---- <!-- TODO: Fallback translation -->
 
-# Lektion 53 <!-- TODO: Fallback translation -->
+---
 
-## 53.1. Der Dual (⟪द्विवचन⟫ n.) der Nomina <!-- TODO: Fallback translation -->
+# Ders 53
+
+## 53.1. Çift (⟪द्विवचन⟫ n.) isimler
 
 ::: grammar-box
-**Der Dual (⟪द्विवचनम्⟫) wird verwendet, um "zwei" zu bezeichnen:** <!-- TODO: Fallback translation -->
+**Çift (⟪द्विवचनम्⟫), "iki"yi belirtmek için kullanılır:**
 
 :::
 ::: indent
-⟪अश्विनौ⟫ "die beiden Aśvin" <!-- TODO: Fallback translation -->
+⟪अश्विनौ⟫ "iki Aśvin"
 :::
-**Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:** <!-- TODO: Fallback translation -->
+**Çift kullanımı, iki şey veya benzeri durumlar söz konusu olduğunda zorunludur:**
 
 ::: indent
-⟪हस्तौ⟫ "die Hände (eines Individuums)"
-⟪पादौ⟫ "die Füsse (eines Menschen, Affen oder sonstigen Zweifüssers)" <!-- TODO: Fallback translation -->
+⟪हस्तौ⟫ "eller (bir bireyin)"
+⟪पादौ⟫ "ayaklar (bir insanın, maymunun veya diğer iki ayaklı bir canlının)"
 :::
-**Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):** <!-- TODO: Fallback translation -->
+**Bazen çift, aynı sınıfa (tür, cins) ait bir erkek ve bir dişi bireyi belirtir:**
 
 ::: indent
-⟪पितरौ⟫ "Vater und Mutter = Eltern" <!-- TODO: Fallback translation -->
+⟪पितरौ⟫ "baba ve anne = ebeveynler"
 :::
-**Wörter, die "ein Paar" bedeuten - z.B. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:** <!-- TODO: Fallback translation -->
+**"Bir çift" anlamına gelen kelimeler - örneğin ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - ancak iki veya daha fazla çift söz konusu olmadıkça her zaman tekil olarak kullanılır:**
 
 ::: indent
-⟪बाहुद्वयम्⟫ "ein Paar Arme" <!-- TODO: Fallback translation -->
+⟪बाहुद्वयम्⟫ "bir çift kol"
 :::
 ::: media
 ![](/images/lekt5301.webp)
-Abb.: ⟪मार्जारयुगम्⟫
-(Bildquelle: [Details](/licenses#lekt5301)) <!-- TODO: Fallback translation -->
+Resim: ⟪मार्जारयुगम्⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt5301))
 :::
 
 ::: media
 ![](/images/lekt5302.webp)
-Abb.: ⟪हस्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5302)) <!-- TODO: Fallback translation -->
+Resim: ⟪हस्तौ⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt5302))
 :::
-## 53.2. Dualendungen des Nomen <!-- TODO: Fallback translation -->
+## 53.2. İsimlerin çift ekleri
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os || <!-- TODO: Fallback translation -->
+|   | Eril/Diil :br ⟪पुंस्⟫/⟪स्त्री⟫ | Nötr :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 :::
 ::: grammar-box
-**Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm** <!-- TODO: Fallback translation -->
+**Kök derecelendirmesi olan isimlerde, Eril/Diil Çift (Yal./Sn./Çağ.) güçlü kökü alır**
 :::
-## 53.3. Der Dual konsonantisch auslautender Stämme <!-- TODO: Fallback translation -->
+## 53.3. Ünsüzle biten köklerin çift hali
 
-### 53.3.1. Stämme ohne Stammabstufung <!-- TODO: Fallback translation -->
+### 53.3.1. Kök derecelendirmesi olmayan kökler
 
-⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend" <!-- TODO: Fallback translation -->
+⟪सत्यवाच्⟫ 3 "doğruluğu söyleyen"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Eril/Cinsiyet :br ⟪पुंस्⟫/⟪स्त्री⟫ | Dişil :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
 :::
-⟪बलिन⟫ 3 "(besonders) stark" <!-- TODO: Fallback translation -->
+⟪बलिन⟫ 3 "(özellikle) güçlü"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Eril/Cinsiyet :br ⟪पुंस्⟫ | Dişil :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ ||
 :::
-⟪सुमनस्⟫ 3 "wohlgesinnt" <!-- TODO: Fallback translation -->
+⟪सुमनस्⟫ 3 "hoşgörülü"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Eril/Cinsiyet :br ⟪पुंस्⟫/⟪स्त्री⟫ | Dişil :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ ||
 :::
-⟪हविस्⟫ n. "Opfergabe" <!-- TODO: Fallback translation -->
+⟪हविस्⟫ n. "Adak hediyesi"
 
 ::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Dişil :br ⟪नपुंसक⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ |
 :::
-⟪दीर्घायुस्⟫ 3 "langlebig" <!-- TODO: Fallback translation -->
+⟪दीर्घायुस्⟫ 3 "uzun ömürlü"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Eril/Cinsiyet :br ⟪पुंस्⟫/⟪स्त्री⟫ | Dişil :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stämme mit Stammabstufung <!-- TODO: Fallback translation -->
+### 53.3.2. Kök dereceli kökler
 
-**Partizip Präsens Parasmaipada** <!-- TODO: Fallback translation -->
+**Şimdiki Zaman Ortadan Kaldırma Fiilimsi**
 
-⟪भरन्त्⟫ 3 "tragend" <!-- TODO: Fallback translation -->
+⟪भरन्त्⟫ 3 "taşıyan"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | :sig[⟪भरन्ती⟫] (!) <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Eril :br ⟪पुंस्⟫ | Dişi :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | :sig[⟪भरन्ती⟫] (!)
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
 :::
 ::: media
 ![](/images/lekt5305.webp)
-Abb.: ⟪भरन्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5305)) <!-- TODO: Fallback translation -->
+Resim: ⟪भरन्तौ⟫
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt5305))
 :::
-⟪ददत्⟫ 3 "gebend" <!-- TODO: Fallback translation -->
+⟪ददत्⟫ 3 "veren"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Eril :br ⟪पुंस्⟫ | Dişi :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
 :::
-**Stämme auf -mant/-vant** <!-- TODO: Fallback translation -->
+**-mant/-vant ekiyle biten kökler**
 
-⟪पशुमन्त्⟫ 3 "Vieh besitzend" <!-- TODO: Fallback translation -->
+⟪पशुमन्त्⟫ 3 "hayvan sahibi"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Eril :br ⟪पुंस्⟫ | Dişi :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ ||
 :::
-⟪महान्त्⟫ 3 "gross" <!-- TODO: Fallback translation -->
+⟪महान्त्⟫ 3 "büyük"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Eril :br ⟪पुंस्⟫ | Dişi :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ ||
 :::
-⟪आत्मन्⟫ m. <!-- TODO: Fallback translation -->
+⟪आत्मन्⟫ er.
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪आत्मनोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Eril :br ⟪पुंस्⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪आत्मनोस्⟫ |
 :::
-⟪ब्रह्मन्⟫ n. <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ di.
 
 ::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Dişi :br ⟪नपुंसक⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ |
 :::
-⟪राजन्⟫ m. "König" <!-- TODO: Fallback translation -->
+⟪राजन्⟫ m. "Kral"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Maskulininum :br ⟪पुंस्⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ |
 :::
-⟪सीमन्⟫ f. "Grenze" <!-- TODO: Fallback translation -->
+⟪सीमन्⟫ f. "Sınır"
 
 ::: grammar-box
-|   | Femininum :br ⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Femininum :br ⟪स्त्री⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ |
 :::
-⟪नामन्⟫ n. "Name" <!-- TODO: Fallback translation -->
+⟪नामन्⟫ n. "İsim"
 
 ::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br :sig[⟪नामानी⟫] | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Neutrum :br ⟪नपुंसक⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br :sig[⟪नामानी⟫] |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. Der Dual vokalisch auslautender Stämme <!-- TODO: Fallback translation -->
+## 53.4. Çift sesli sonlanan kökler
 
-**Stämme auf -a** <!-- TODO: Fallback translation -->
+**-a ile biten kökler**
 
-⟪देव⟫ m. "Gott"  
-⟪फल⟫ n. "Frucht" <!-- TODO: Fallback translation -->
+⟪देव⟫ m. "Tanrı"  
+⟪फल⟫ n. "Meyve"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | :sig[⟪देवाभ्याम्⟫] | :sig[⟪फलाभ्याम्⟫] | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | :sig[⟪देवयोस्⟫] | :sig[⟪फलयोस्⟫] | <!-- TODO: Fallback translation -->
+|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
+| :---: | :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | :sig[⟪देवाभ्याम्⟫] | :sig[⟪फलाभ्याम्⟫] |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | :sig[⟪देवयोस्⟫] | :sig[⟪फलयोस्⟫] |
 :::
 ::: media
 ![](/images/lekt5306.webp)
-Abb.: ⟪फले⟫
-(Bildquelle: [Details](/licenses#lekt5306)) <!-- TODO: Fallback translation -->
+Resim: ⟪फले⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt5306))
 :::
-**Stämme auf -i** <!-- TODO: Fallback translation -->
+**-i ile biten kökler**
 
-⟪अग्नि⟫ m. "Feuer"  
-⟪वारि⟫ n. "Wasser"  
-⟪मति⟫ f. "Gedanke" <!-- TODO: Fallback translation -->
+⟪अग्नि⟫ m. "Ateş"  
+⟪वारि⟫ n. "Su"  
+⟪मति⟫ f. "Düşünce"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪अग्नी⟫] | :sig[⟪मती⟫] | ⟪वारिणी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
+| :---: | :---: | :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪अग्नी⟫] | :sig[⟪मती⟫] | ⟪वारिणी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
-**Stämme auf -u** <!-- TODO: Fallback translation -->
+**-u ile biten kökler**
 
-⟪शत्रु⟫ m.  
-⟪धिनु⟫ f.  
-⟪मधु⟫ n. <!-- TODO: Fallback translation -->
+⟪शत्रु⟫ eril.  
+⟪धिनु⟫ dişil.  
+⟪मधु⟫ nötr.
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪शत्रू⟫] | :sig[⟪धेनू⟫] | ⟪मधुनी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Eril :br ⟪पुंस्⟫ | Dişil :br ⟪स्त्री⟫ | Nötr :br ⟪नपुंसक⟫ |
+| :---: | :---: | :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪शत्रू⟫] | :sig[⟪धेनू⟫] | ⟪मधुनी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ |
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Abb.: ⟪धेनू⟫
-(Bildquelle: [Details](/licenses#lekt5307)) <!-- TODO: Fallback translation -->
+Resim: ⟪धेनू⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt5307))
 :::
-**Stämme auf -ā** <!-- TODO: Fallback translation -->
+**-ā ile biten kökler**
 
-⟪कन्या⟫ f. "Mädchen" <!-- TODO: Fallback translation -->
+⟪कन्या⟫ dişil. "Kız"
 
 ::: grammar-box
-|   | Femininum :br ⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪कन्ये⟫] | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | :sig[⟪कन्ययोस्⟫] | <!-- TODO: Fallback translation -->
+|   | Dişil :br ⟪स्त्री⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪कन्ये⟫] |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | :sig[⟪कन्ययोस्⟫] |
 :::
-**Mehrsilbige Stämme auf -ī** <!-- TODO: Fallback translation -->
+**-ī ile biten çok heceli kökler**
 
-⟪देवी⟫ f. "Göttin" <!-- TODO: Fallback translation -->
+⟪देवी⟫ dişil. "Tanrıça"
 
 ::: grammar-box
-|   | Femininum :br ⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ | <!-- TODO: Fallback translation -->
+|   | Dişil :br ⟪स्त्री⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ |
 :::
-**Stämme auf -ṛ** <!-- TODO: Fallback translation -->
+**-ṛ ile biten kökler**
 
-⟪दातृ⟫ 3 "Geber" <!-- TODO: Fallback translation -->
+⟪दातृ⟫ 3 "Verici"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | :sig[⟪दातृणी⟫] <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Eril/Dişil :br ⟪पुंस्⟫/⟪स्त्री⟫ | Nötr :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | :sig[⟪दातृणी⟫]
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
-⟪पितृ⟫ m. "Vater" <!-- TODO: Fallback translation -->
+⟪पितृ⟫ eril. "Baba"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Eril :br ⟪पुंस्⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
 :::
-## 53.5. Dualdvandva <!-- TODO: Fallback translation -->
+## 53.5. Dualdvandva
 
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
 ::: indent
-⟪अर्थधर्मौ⟫ "Nutzen (⟪अर्थ⟫) und Dharma"
-⟪युधिष्ठिरार्जुनौ⟫ "Yudhiṣṭhira und Arjuna"
-⟪सुखदुःखे⟫ (neben: ⟪सुखदुःखम्⟫) "Glück und Leid"
-⟪शीतोष्णे⟫ "Kälte und Wärme" <!-- TODO: Fallback translation -->
+⟪अर्थधर्मौ⟫ "Fayda (⟪अर्थ⟫) ve Dharma"
+⟪युधिष्ठिरार्जुनौ⟫ "Yudhiṣṭhira ve Arjuna"
+⟪सुखदुःखे⟫ (yanı sıra: ⟪सुखदुःखम्⟫) "Şans ve bela"
+⟪शीतोष्णे⟫ "Soğuk ve sıcak"
 :::
 ::: grammar-box
-**Werden zwei Verwandtschaftswörter auf -ṛ (oder zwei Substantive auf -ṛ, die Bezeichnungen für Opferpriester sind) zu einem Dvandva komponiert, so steht das erste Glied in der Form des Nominativ Singular:** <!-- TODO: Fallback translation -->
+**İki akrabalık kelimesi -ṛ ile biterse (veya iki -ṛ ile biten ve kurban kestiği rahipleri ifade eden isimler), Dvandva oluşturulduğunda ilk ünite Nominal Tekil hâlindedir:**
 
 :::
 ::: indent
-⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ "Mutter und Vater" <!-- TODO: Fallback translation -->
+⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ "Anne ve Baba"
 :::
-**Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -⟪पुत्र⟫ :** <!-- TODO: Fallback translation -->
+**Aynı durum, -⟪पुत्र⟫ ile biten bir Dvandva içindeki bu tür akrabalık kelimesi için de geçerlidir:**
 
 ::: indent
-⟪पितापुत्रौ⟫ "Vater und Sohn" <!-- TODO: Fallback translation -->
+⟪पितापुत्रौ⟫ "Baba ve Oğul"
 :::
-**Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:** <!-- TODO: Fallback translation -->
+**Kurban törenlerinde genellikle anılan iki tanrının isimleri bir Dvandva oluşturduğunda, ilk ünite sonundaki ses genellikle uzatılır:**
 
 ::: indent
-⟪मि⟫:sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra und Varuṇa"
-⟪अग्नीसोमौ⟫ "Agni und Soma" <!-- TODO: Fallback translation -->
+⟪मि⟫:sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra ve Varuṇa"
+⟪अग्नीसोमौ⟫ "Agni ve Soma"
 :::
-**Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.** <!-- TODO: Fallback translation -->
+**Diğer Dvandvalarda da bu ses uzatması görülür.**
 ::: media
 ![](/images/lekt5308.webp)
-Abb.: ⟪पितापुत्रौ⟫
-(Bildquelle: [Details](/licenses#lekt5308)) <!-- TODO: Fallback translation -->
+Resim: ⟪पितापुत्रौ⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt5308))
 :::
-## 53.6. Der Dual von Pronomina <!-- TODO: Fallback translation -->
+## 53.6. Zamirlerin Çift Hâli
 
 ::: grammar-box
-|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **Maskulinum** |   |   |   |   |   <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫ <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫ <!-- TODO: Fallback translation -->
-|   |   |   |   |   |   <!-- TODO: Fallback translation -->
-| **Neutrum** |   |   |   |   |   <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-|   | Rest wie Maskulinum |||||||| <!-- TODO: Fallback translation -->
-| **Femininum** |   |   |   |   |   <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-|   | Rest wie Maskulinum |||||||| <!-- TODO: Fallback translation -->
+|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
+| :--- | :---: | :---: | :---: | :---: | :---:
+| **Eril Cinsiyet** |   |   |   |   |   
+| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
+|   |   |   |   |   |   
+| **Nötr Cinsiyet** |   |   |   |   |   
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   | Gerisi Eril Cinsiyet gibi ||||||||
+| **Dişil Cinsiyet** |   |   |   |   |   
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   | Gerisi Eril Cinsiyet gibi ||||||||
 :::
-⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Kasus wie ⟪यद्⟫ dekliniert. <!-- TODO: Fallback translation -->
+⟪कतर⟫ 3 "ikisi" ve ⟪कतम⟫ 3 "birkaçı" tüm hallerde ⟪यद्⟫ gibi çekimlenir.
 
-## 53.7. Pronominaladjektive <!-- TODO: Fallback translation -->
+## 53.7. Sıfat Zamirleri
 
-Folgende Pronominaladjektive werden in allen Kasus wie ⟪यद्⟫ dekliniert: <!-- TODO: Fallback translation -->
+Aşağıdaki sıfat zamirler tüm hallerde ⟪यद्⟫ gibi çekimlenir:
 
-*   ⟪अन्य⟫ 3 "ein anderer" <!-- TODO: Fallback translation -->
-*   ⟪अन्यतर⟫ 3 "einer von zweien" <!-- TODO: Fallback translation -->
-*   ⟪इतर⟫ 3 "der andere" <!-- TODO: Fallback translation -->
+*   ⟪अन्य⟫ 3 "başka bir"
+*   ⟪अन्यतर⟫ 3 "ikiden biri"
+*   ⟪इतर⟫ 3 "diğer"
 
-*   ⟪सर्व⟫ 3 "jeder, alle" wird in allen Kasus ausser dem Nom.Akk.sg.n (⟪सर्वम्⟫) wie ⟪यद्⟫ dekliniert. <!-- TODO: Fallback translation -->
-*   ⟪उभय⟫ 3 "beide" hat keinen Dual. Im Singular und Plural mask. und neutr. wird es wie ⟪सर्व⟫ dekliniert. Femininum: ⟪उभयी⟫ (wie ⟪देवी⟫). <!-- TODO: Fallback translation -->
-*   ⟪उभ⟫ 3 "beide" wird nur im Dual gebraucht und wird wie ⟪देव⟫ m., ⟪फल⟫ n. bzw. ⟪देवता⟫ f. dekliniert. <!-- TODO: Fallback translation -->
+*   ⟪सर्व⟫ 3 "her, tüm" Nom.Akk.sg.n dışındaki (⟪सर्वम्⟫) tüm hallerde ⟪यद्⟫ gibi çekimlenir.
+*   ⟪उभय⟫ 3 "ikisi"çift sayı (dual) çekimi yapmaz. Tekil ve çoğulda eril ve nötr hallerde ⟪सर्व⟫ gibi çekimlenir. Diil: ⟪उभयी⟫ (⟪देवी⟫ gibi).
+*   ⟪उभ⟫ 3 "ikisi" yalnızca çift sayı (dual) için kullanılır ve ⟪देव⟫ eril, ⟪फल⟫ nötr ve ⟪देवता⟫ dişil olarak çekimlenir.
 
-Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n sowie in im Nom.pl. können sie nach der -a- bzw. -ā-Deklination dekliniert werden: <!-- TODO: Fallback translation -->
+Aşağıdaki sıfat zamirler ⟪सर्व⟫ gibi çekimlenir. Abl.Lok.sg.m.n ve Nom.pl.'de -a veya -ā çekim kuralına göre de çekimlenebilirler:
 
-*   ⟪अपर⟫ 3 "ein anderer" <!-- TODO: Fallback translation -->
-*   ⟪उत्तर⟫ 3 "der obere, nördliche, nachfolgende" <!-- TODO: Fallback translation -->
-*   ⟪पर⟫ 3 "der folgende, spätere" <!-- TODO: Fallback translation -->
-*   ⟪पूर्व⟫ 3 "der vorausgehende, östliche" <!-- TODO: Fallback translation -->
-*   ⟪स्व⟫ 3 "eigen (mein, dein, sein ...)" <!-- TODO: Fallback translation -->
+*   ⟪अपर⟫ 3 "başka bir"
+*   ⟪उत्तर⟫ 3 "üst, kuzeydeki, sonraki"
+*   ⟪पर⟫ 3 "sonraki, daha geç"
+*   ⟪पूर्व⟫ 3 "önceki, doğudaki"
+*   ⟪स्व⟫ 3 "kendi (benim, senin, onun ...)"
 
-## 53.8. Unregelmässige Steigerung <!-- TODO: Fallback translation -->
+## 53.8. Düzensiz Derecelendirme
 
 ::: grammar-box
-**Eine Anzahl von Adjektiven bildet den Komparativ bzw. Superlativ mit folgenden ⟪कृत्⟫-Suffixen (!):** <!-- TODO: Fallback translation -->
+**Bir dizi sıfat, karşılaştırma ve en üstünlük derecelerini aşağıdaki ⟪कृत्⟫ sonekleriyle oluşturur (!):**
 
-*   Komparativ: **-īyas** <!-- TODO: Fallback translation -->
-*   Superlativ: **-iṣṭha** <!-- TODO: Fallback translation -->
+*   Karşılaştırma: **-īyas**
+*   En üstünlük: **-iṣṭha**
 
-**Während die ⟪तद्धित⟫-Suffixe -⟪तर⟫ und -⟪तम⟫ an den Maskulinstamm des Adjektivs treten, werden die Suffixe -⟪ईयस्⟫ und -⟪इष्ठ⟫ an die Wurzel angefügt, von der das Adjektiv abgeleitet ist (sofern es eine solche Wurzel gibt!). Der Wurzelvokal ist hochstufig.** <!-- TODO: Fallback translation -->
+**⟪तद्धित⟫ sonekleri -⟪तर⟫ ve -⟪तम⟫ sıfatın eril köküne eklenirken, -⟪ईयस्⟫ ve -⟪इष्ठ⟫ sonekleri sıfatın türetildiği köke eklenir (eğer böyle bir kök varsa!). Kök ünlüsü yüksek derecelidir.**
 
-**Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.** <!-- TODO: Fallback translation -->
+**-iṣṭha ile biten en üstünlük dereceleri (Diil: iṣṭhā) a- veya ā-kök çekim kuralına göre çekimlenir.**
 
-**Deklination von -īyas siehe unten.** <!-- TODO: Fallback translation -->
+**-īyas çekimi için aşağıya bakınız.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
 ::: grammar-box
-| Wurzel | Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- | --- <!-- TODO: Fallback translation -->
-| ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | :sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 | <!-- TODO: Fallback translation -->
-| ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | :sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 | <!-- TODO: Fallback translation -->
+| Kök | Sıfat | Karşılaştırma | Üstünlük |
+| --- | --- | ---
+| ⟪क्षिप्⟫ 6P "atmak" | ⟪क्षिप्र⟫ 3 "hızlı" | :sig[⟪क्षेपीयस्⟫] 3 "daha hızlı" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "en hızlı" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "durmak" | ⟪स्थिर⟫ 3 "sabit, sağlam" | :sig[⟪स्थेयस्⟫] 3 "daha sağlam" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "en sağlam" :br ⟪स्थिरतम⟫ 3 |
 :::
-**Besondere Regeln für die Anfügung dieser Suffixe:** <!-- TODO: Fallback translation -->
+**Bu eklerin eklenmesine ilişkin özel kurallar:**
 
 ::: grammar-box
-**Regel 1:** **Der auslautende Vokal eines mehrsilbigen Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.** <!-- TODO: Fallback translation -->
+**Kural 1:** Çok heceli bir erkek kökünün sonundaki ünlü veya sondaki ünlü ve onu izleyen ünlü düşer.
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪पाप⟫ 3 "böse" | ⟪पा⟫:sig[⟪पी⟫]⟪यस्⟫ | ⟪पा⟫:sig[⟪पि⟫]⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪महान्त्⟫ 3 "gross" | ⟪म⟫:sig[⟪ही⟫]⟪यस्⟫ | ⟪म⟫:sig[⟪हि⟫]⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
+| Sıfat | Karşılaştırma | Üstünlük |
+| --- | ---
+| ⟪पाप⟫ 3 "kötü" | ⟪पा⟫:sig[⟪पी⟫]⟪यस्⟫ | ⟪पा⟫:sig[⟪पि⟫]⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "büyük" | ⟪म⟫:sig[⟪ही⟫]⟪यस्⟫ | ⟪म⟫:sig[⟪हि⟫]⟪ष्ठ⟫ |
 :::
 ::: grammar-box
-**Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.** <!-- TODO: Fallback translation -->
+**Kural 2:** Tamlık ekleri (-mant, vant, -vin, -in vb.) düşer. Geriye kalan kısım yalnızca bir heceden oluşuyorsa, daha fazla değiştirilmez; yalnızca tamlık ekle birleşmeden kaynaklanan ses değişiklikleri geri alınır. Ancak kalan kısım birden fazla heceden oluşuyorsa, Kural 1 geçerli olur.
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪ध⟫:sig[⟪नी⟫]⟪यस्⟫ | ⟪ध⟫:sig[⟪नि⟫]⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪ब⟫:sig[⟪ली⟫]⟪यस्⟫ | ⟪ब⟫:sig[⟪लि⟫]⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫:sig[⟪सी⟫]⟪यस्⟫ | ⟪व⟫:sig[⟪सि⟫]⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
+| Sıfat | Karşılaştırma | Üstünlük |
+| --- | ---
+| ⟪धनवन्त्⟫ 3 "zengin" | ⟪ध⟫:sig[⟪नी⟫]⟪यस्⟫ | ⟪ध⟫:sig[⟪नि⟫]⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(özellikle) güçlü" | ⟪ब⟫:sig[⟪ली⟫]⟪यस्⟫ | ⟪ब⟫:sig[⟪लि⟫]⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "mal varlığına sahip" | ⟪व⟫:sig[⟪सी⟫]⟪यस्⟫ | ⟪व⟫:sig[⟪सि⟫]⟪ष्ठ⟫ |
 :::
 ::: grammar-box
-**Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.** <!-- TODO: Fallback translation -->
+**Kural 3:** **-ṛ- için, önünde bir başlangıç ünlüsü varsa ve ardından yalnızca tek bir ünsüz geliyorsa, -ra- ile değiştirilir.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ | <!-- TODO: Fallback translation -->
+| Sıfat | Karşılaştırma derecesi (Komparatif) | Üstünlük derecesi (Süperlatif) |
+| --- | ---
+| ⟪पृथु⟫ 3 "geniş" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
 :::
-**Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:** <!-- TODO: Fallback translation -->
+**Şimdiye kadar öğrenilen sıfatlar arasında bu türden en sık karşılaşılan derece formu listesi:**
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪अल्प⟫ 3 "klein, wenig" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪क्षिप्र⟫ 3 "schnell" :br (zu ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪गुरु⟫ 3 "schwer" :br (zu *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪दीर्घ⟫ 3 "lang" :br (zu *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪दूर⟫ 3 "fern" :br (zu *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪पाप⟫ 3 "böse" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪प्रिय⟫ 3 "lieb" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪महान्त्⟫ 3 "gross" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪युवन्⟫ 3 "jung" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪ह्रस्व⟫ 3 "kurz" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ | <!-- TODO: Fallback translation -->
+| Sıfat | Karşılaştırma derecesi (Komparatif) | Üstünlük derecesi (Süperlatif) |
+| --- | ---
+| ⟪अल्प⟫ 3 "küçük, az" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
+| ⟪क्षिप्र⟫ 3 "hızlı" :br (⟪क्षिप्⟫'den türemiştir) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
+| ⟪गुरु⟫ 3 "zor" :br (*⟪गृ⟫'den türemiştir) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
+| ⟪दीर्घ⟫ 3 "uzun" :br (*⟪दृघ्⟫'den türemiştir) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
+| ⟪दूर⟫ 3 "uzak" :br (*⟪दु⟫/*⟪दू⟫'den türemiştir) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 "zengin" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
+| ⟪पाप⟫ 3 "kötü" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
+| ⟪पृथु⟫ 3 "geniş" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
+| ⟪प्रिय⟫ 3 "sevimli" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(özellikle) güçlü" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "büyük" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
+| ⟪युवन्⟫ 3 "genç" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
+| ⟪स्थिर⟫ 3 "sağlam" :br (⟪स्था⟫'den türemiştir) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
+| ⟪ह्रस्व⟫ 3 "kısa" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
 :::
 ::: media
 ![](/images/lekt5309.webp)
-Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
-(Bildquelle: [Details](/licenses#lekt5309)) <!-- TODO: Fallback translation -->
+Resim: ⟪द्राघीयो लिङ्गम्⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt5309))
 :::
-**Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:** <!-- TODO: Fallback translation -->
+**Bu türden bazı derece formlarının kök ile akraba olan temel formu hiç yoktur; bunlar "eksik" (defektif) sayılır. Bu nedenle aşağıdaki diziler özellikle akılda tutulmalıdır:**
 
 ::: grammar-box
-| (Adjektiv) | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| (⟪अल्प⟫ 3 "klein, wenig") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" | <!-- TODO: Fallback translation -->
-| (⟪बहु⟫ 3 "viel") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" | <!-- TODO: Fallback translation -->
+| (Sıfat) | Karşılaştırma derecesi (Komparatif) | Üstünlük derecesi (Süperlatif) |
+| --- | ---
+| (⟪अल्प⟫ 3 "küçük, az") | ⟪कनीयस्⟫ :bkz. ⟪कन्या⟫ f. "kız çocuğu = küçük olan" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "övülmeye değer, iyi") | ⟪श्रेयस्⟫ :br ⟪श्री⟫ f. "parıltı" kelimesinden türemiştir | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "övülmeye değer, iyi") | ⟪ज्यायस्⟫ :bkz. ayrıca: "daha yaşlı" :br ⟪ज्या⟫ f. "üstünlük" kelimesinden türemiştir | ⟪ज्येष्ठ⟫ :bkz. ayrıca: "en yaşlı" |
+| (⟪बहु⟫ 3 "çok") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "yaşlı") | ⟪वर्षीयस्⟫ :br ⟪वर्ष⟫ n.m. "yağmuk mevsimi, yıl" kelimesinden türemiştir | ⟪वर्षिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "yaşlı") | ⟪ज्यायस्⟫ :bkz. ayrıca: "daha iyi" :br ⟪ज्या⟫ f. "üstünlük" kelimesinden türemiştir | ⟪ज्येष्ठ⟫ :bkz. ayrıca: "en iyi" |
 :::
-## 53.9. Deklination der Komparative auf -īyas <!-- TODO: Fallback translation -->
+## 53.9. -īyas sonu sıfatların çekimi
 
 ::: grammar-box
-**Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie ⟪देवी⟫). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.** <!-- TODO: Fallback translation -->
+**-īyas sonu sıfatlar dişil için -īyasī çekimini oluşturur (⟪देवी⟫ gibi çekilir). Eril ve nötr ise aşağıdaki tabloya göre çekilir.**
 :::
 ::: grammar-box
 
-|   | ⟪एकवचनम्⟫ || ⟪द्विवचनम्⟫ || ⟪बहुवचनम्⟫ || <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪गरीयान्⟫ | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪गरीयांसम्⟫ | ⟪गरीयस्⟫ | ^^ | ^^ | ⟪गरीयसस्⟫ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪गरीयसा⟫ || ⟪गरीयोभ्याम्⟫ || ⟪गरीयोभिस्⟫ || <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪गरीयसे⟫ || ^^ || ⟪गरीयोभ्यस्⟫ || <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ || <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ || <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ || <!-- TODO: Fallback translation -->
-| ⟪आमन्त्रितम्⟫ | :sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ || ⟪द्विवचनम्⟫ || ⟪बहुवचनम्⟫ ||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ |
+| ⟪प्रथमा⟫ | ⟪गरीयान्⟫ | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| ⟪द्वितीया⟫ | ⟪गरीयांसम्⟫ | ⟪गरीयस्⟫ | ^^ | ^^ | ⟪गरीयसस्⟫ | ^^ |
+| ⟪तृतीया⟫ | ⟪गरीयसा⟫ || ⟪गरीयोभ्याम्⟫ || ⟪गरीयोभिस्⟫ ||
+| ⟪चतुर्थी⟫ | ⟪गरीयसे⟫ || ^^ || ⟪गरीयोभ्यस्⟫ ||
+| ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ ||
+| ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
+| ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
+| ⟪आमन्त्रितम्⟫ | :sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
-## 53.10. Metrik (Lehre von den Versmassen) <!-- TODO: Fallback translation -->
+## 53.10. Metrik (Kafiye ve ölçü bilgisi)
 
 ::: media
 ![](/images/lekt5303.jpg)
-Abb.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
-(Bildquelle: [Details](/licenses#lekt5303)) <!-- TODO: Fallback translation -->
+Resim: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt5303))
 :::
-Siehe auch: <!-- TODO: Fallback translation -->
+Ayrıca bakınız:
 
-> **Payer, Alois \<1944 - \>:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm) <!-- TODO: Fallback translation -->
+> **Payer, Alois (1944–):** Sanskrit metinlerinin tefsirine giriş : El yazısı. -- Bölüm 8: Asıl tefsir, Kısım II: Senkronik anlamlandırma ile ilgili tekil sorunlara. -- Ek B: Sanskrit metinlerinin metriğine dair. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
-### 53.10.1. Bedeutung der Bestimmung des Metrums <!-- TODO: Fallback translation -->
+### 53.10.1. Ölçünün belirlenmesinin önemi
 
-Die Bestimmung des Metrums ist aus folgenden Gründen wichtig: <!-- TODO: Fallback translation -->
+Ölçünün belirlenmesi aşağıdaki nedenlerden dolayı önemlidir:
 
-1.  **Ästhetisch:** das Versmass macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmasse u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmasse werden je verschieden rezitiert. <!-- TODO: Fallback translation -->
-Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58) <!-- TODO: Fallback translation -->
-2.  **Textkritisch:** Fehler im Versmass können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmass hilft, Textverbesserungen vorzunehmen. <!-- TODO: Fallback translation -->
-3.  **Chronologisch:** gewisse Versmasse gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: <!-- TODO: Fallback translation -->
-**Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255. <!-- TODO: Fallback translation -->
+1. **Estetik:** Şiir ölçüsü, bir ifadenin güzelliğini oluşturan unsurlardan biridir. Ayrıca belirli şiir ölçüleri, belli ruh hallerini ifade etmek için kullanılır veya belli sınıflara (⟪वर्ण⟫) atanır. Farklı şiir ölçüleri farklı şekillerde okunur. :br Estetik etki hakkında iyi bir izlenim vermek için, örneğin ⟪शिवताण्डवस्तोत्र⟫'ın (Şiva'nın dansının övgüsü) okunuşu dinlenebilir: [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2. **Metin eleştirisi:** Şiir ölçüsündeki hatalar, metnin bir yerde doğru aktarılmadığının göstergesi olabilir. Şiir ölçüsü, metin düzeltmeleri yapmaya yardımcı olur.
+3. **Kronolojik:** Belirli şiir ölçüleri, tarih boyunca belirli değişiklikler geçirmiştir. Bu durum, bir metnin yaklaşık olarak tarihlendirilmesine yardımcı olabilir. Bununla ilgili olarak bakınız: **Oldenberg, Hermann (1854–1920):** Triṣṭhubh'nin Tarihi Üzerine ; aynı yazar: Śloka'nın Tarihi Üzerine. -- Her ikisi de basılmıştır: :br **Oldenberg, Hermann (1854–1920):** Küçük Yazılar / Hermann Oldenberg. Ed.: Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 cilt. -- (Glasenapp Vakfı ; ...). -- Cilt 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
-Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
-(Bildquelle: [Details](/licenses#lekt5304)) <!-- TODO: Fallback translation -->
+Resim: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt5304))
 :::
-### 53.10.2. Arten von Metren <!-- TODO: Fallback translation -->
+### 53.10.2. Ölçü türleri
 
 ::: grammar-box
-**Die Inder unterscheiden:** <!-- TODO: Fallback translation -->
+**Hintliler şunları ayırt eder:**
 
-*   **⟪वृत्त⟫ n.:** Metren, bei denen die Zahl der Silben (⟪अक्षर⟫) festgelegt ist <!-- TODO: Fallback translation -->
-*   **⟪जाति⟫ f.:** Metren, bei denen die Summe der metrischen Längeneinheiten (⟪मात्रा⟫) (Moren) festgelegt ist (zu diesen später) <!-- TODO: Fallback translation -->
+*   **⟪वृत्त⟩ n.:** Hece sayısının (⟪अक्षर⟩) sabitlendiği ölçüler
+*   **⟪जाति⟩ f.:** Metrik birimlerin (⟪मात्रा⟩) (Moren) toplamının sabitlendiği ölçüler (bunlar hakkında daha sonra)
 
-**Bei den Metren, bei denen die Zahl der Silben festgelegt ist (⟪वृत्त⟫) kann man zunächst weiter unterscheiden:** <!-- TODO: Fallback translation -->
+**Belirli sayıda heceye sahip olan metrik birimlerde (⟪वृत्त⟫) ilk olarak daha ayrıntılı bir ayrım yapılabilir:**
 
-*   Metren, bei denen die Zahl der Silben festgelegt ist, die Quantität dieser Silben aber nur teilweise <!-- TODO: Fallback translation -->
-*   Metren, bei denen die Zahl der Silben and deren Quantität festgelegt ist <!-- TODO: Fallback translation -->
+*   Sayısı belirli olan, ancak bu hecelerin uzunluk/kısalık (quantitas) özelliklerinin yalnızca kısmen belirlendiği metrik birimler
+*   Sayısı ve hecelerin uzunluk/kısalık (quantitas) özelliklerinin tamamen belirlendiği metrik birimler
 :::
-### 53.10.3. Die metrische Quantität von Silben <!-- TODO: Fallback translation -->
+### 53.10.3. Hece metrik uzunlukları
 
 ::: grammar-box
-**Merkvers** <!-- TODO: Fallback translation -->
+**Ezberleme dizesi**
 
 :::
 ::: indent
-⟪सानुस्वारश्च⟫ ⟪दीर्घश्च⟫
-⟪विसर्गी⟫ ⟪च⟫ ⟪गुरुर्भवेत्⟫ ⟪।⟫
-⟪वर्णः⟫ ⟪संयोगपूर्वश्च⟫
-⟪तथा⟫ ⟪पादान्तगो⟫ ⟪ऽपि⟫ ⟪वा⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪सानुस्वारश्च दीर्घश्च विसर्गी च गुरुर्भवेत् । वर्णः संयोगपूर्वश्च तथा पादान्तगो ऽपि वा ॥⟫
 :::
-"Eine Silber ist schwer, <!-- TODO: Fallback translation -->
+"Bir hece ağırdır,
 
-*   wenn ihr Vokal einen Anusvāra hat, <!-- TODO: Fallback translation -->
-*   lang ist, <!-- TODO: Fallback translation -->
-*   einen Visarga hat, <!-- TODO: Fallback translation -->
-*   ebenso wenn er vor einer Konsonantenverbindung steht <!-- TODO: Fallback translation -->
-*   sowie wenn die Silbe am Schluss eines Viertelverses (Pāda) steht." <!-- TODO: Fallback translation -->
+*   eğer sesli harfi bir anusvāra içeriyorsa,
+*   uzunsa,
+*   bir visarga içeriyorsa,
+*   ayrıca bir ünsüz grubundan önce geliyorsa
+*   ve dördüncü bir kıtanın (pāda) sonunda duruyorsa."
 ::: grammar-box
-**Eine Silbe ist** <!-- TODO: Fallback translation -->
+**Bir hece**
 
-*   entweder **⟪लघु⟫ = leicht** <!-- TODO: Fallback translation -->
-*   oder **⟪गुरु⟫ = schwer** <!-- TODO: Fallback translation -->
+*   ya da **⟪लघु⟫ = hafif**
+*   ya da **⟪गुरु⟫ = ağır**
 
-**⟪लघु⟫ = leicht ist eine Silbe, wenn** <!-- TODO: Fallback translation -->
+**⟪लघु⟫ = hafif bir hece, eğer**
 
-*   ihr Vokal kurz ist und auf diesen Vokal <!-- TODO: Fallback translation -->
-*   kein Anusvāra, <!-- TODO: Fallback translation -->
-*   kein Visarga, <!-- TODO: Fallback translation -->
-*   nicht zwei Konsonanten folgen. <!-- TODO: Fallback translation -->
+*   sesli harfi kısa ise ve bu sesli harfe
+*   kein Anusvāra,
+*   Visarga yoksa,
+*   ardından iki ünsüz gelmiyorsa.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
+Kısa sesliler a, i, u, ṛ, ḷ'dir
 
-**Alle anderen Silben sind ⟪गुरु⟫ = schwer. Die letzte Silbe eines Versviertels (⟪पाद⟫) gilt immer als ⟪गुरु⟫.** <!-- TODO: Fallback translation -->
+**Diğer tüm heceler ⟪गुरु⟫ = ağırdır. Bir dize çeyreğinin (⟪पाद⟫) son hecesi her zaman ⟪गुरु⟫ olarak kabul edilir.**
 
-In der metrischen Analyse bedeutet: <!-- TODO: Fallback translation -->
+Metrik analizde şu anlama gelir:
 
-*   **◡** = ⟪ल⟫ = ⟪लघु⟫ <!-- TODO: Fallback translation -->
-*   **—** = ⟪ग⟫ = ⟪गुरु⟫ <!-- TODO: Fallback translation -->
-*   **×** = ⟪लघु⟫ oder ⟪गुरु⟫ <!-- TODO: Fallback translation -->
-*   **/** = Zäsur (Worttrennung) <!-- TODO: Fallback translation -->
+*   **◡** = ⟪ल⟫ = ⟪लघु⟫
+*   **—** = ⟪ग⟫ = ⟪गुरु⟫
+*   **×** = ⟪लघु⟫ veya ⟪गुरु⟫
+*   **/** = Kesme (kelime ayrımı)
 :::
-Beispiel: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫: <!-- TODO: Fallback translation -->
+Örnek: ⟪भगवद्गीता १⟫,⟪१⟫:
 
 ::: indent
-⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
-⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किम् अकुर्वत संजय ॥१॥⟫
 :::
-Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ : <!-- TODO: Fallback translation -->
+⟪लघु⟫ ve ⟪गुरु⟫ dağılımı:
 
 ::: metrik-schema
-— — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —** <!-- TODO: Fallback translation -->
+— — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
 ::: metrik-schema
-— ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —** <!-- TODO: Fallback translation -->
+— ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. Der epische Śloka (⟪श्लोक⟫ m.) <!-- TODO: Fallback translation -->
+### 53.10.4. Epik Şlokası (⟪श्लोक⟫ m.)
 
 ::: grammar-box
-**Merkvers:** <!-- TODO: Fallback translation -->
+**Hatırlatma Dizesi:**
 
 :::
 ::: indent
-⟪श्लोके⟫ ⟪षष्ठं⟫ ⟪गुरु⟫ ⟪ज्ञेयं⟫
-⟪सर्वत्र⟫ ⟪लघु⟫ ⟪पञ्चमम्⟫ ⟪।⟫
-⟪द्विचतुष्पादयोर्ह्रस्वं⟫
-⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪श्लोके षष्ठं गुरु ज्ञेयं सर्वत्र लघु पञ्चमम् । द्विचतुष्पादयोर्ह्रस्वं सप्तमं दीर्घमन्ययोः ॥⟫
 :::
-"Im Śloka ist die sechste Silbe eines Pāda schwer,  
-die fünfte in allen Pādas leicht  
-Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden anderen."
-Das wichtigste Versmass in den Epen (⟪महाभारत⟫, ⟪रामायण⟫) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu ⟪श्रु⟫ "hören"). <!-- TODO: Fallback translation -->
+"Şloka'da bir Pāda'nın altıncı hecesi ağır,
+beşincisi tüm Pādalarda hafiftir.
+Yedinci hece ikinci ve dördüncü Pāda'da kısa, diğer ikisinde uzundur."
+Epiklerde (⟪महाभारत⟫, ⟪रामायण⟫) ve sayısız başka eserlerde en önemli kafiye ölçüsü Şloka'dır ("duymak" anlamına gelen ⟪श्रु⟫ kökünden "çağrı", "ses", "dize").
 
 ::: grammar-box
-**Der ⟪श्लोक⟫ ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (⟪पाद⟫) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (⟪पद्य⟫ n.) besteht also aus vier ⟪पाद⟫ (m. "Fuss, Viertel"). Die vier ⟪पाद⟫ werden mit a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) durchgezählt.** <!-- TODO: Fallback translation -->
+**⟪श्लोक⟫, 16 hecelik yarı dizelerden oluşan bir çift dizedir. Her yarı dize, 8 hecelik iki çeyrek dizeye (⟪पाद⟫) ayrılır. Her çeyrek dize, 4 hecelik iki parçaya bölünür. Tüm dize (⟪पद्य⟫ n.) dolayısıyla dört ⟪पाद⟫ (m. "ayak, çeyrek")'ten oluşur. Dört ⟪पाद⟫ a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) ile numaralandırılır.**
 
-**Aufbau des Śloka:** <!-- TODO: Fallback translation -->
+**Şloka'nın Yapısı:**
 
-**Grundschema (⟪पथ्या⟫):** <!-- TODO: Fallback translation -->
+**Temel Şema (⟪पथ्या⟫):**
 
-**a = c:** <!-- TODO: Fallback translation -->
+**a = c:**
 :::
 ::: metrik-schema
-× × × ×   **◡ — — —** <!-- TODO: Fallback translation -->
+× × × ×   **◡ — — —**
 :::
-**b = d:** <!-- TODO: Fallback translation -->
+**b = d:**
 ::: metrik-schema
-× × × ×   **◡ — ◡ —** <!-- TODO: Fallback translation -->
+× × × ×   **◡ — ◡ —**
 :::
-Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein. <!-- TODO: Fallback translation -->
+Bir ⟪पाद⟫'in ikinci ve üçüncü heceleri aynı anda ⟪लघु⟫ olmamalıdır. b ve d'de 2-4. heceler ¯ ˘ ¯ olamaz.
 
-**Nebenschemata (⟪विपुला⟫) für a und c:** <!-- TODO: Fallback translation -->
+**Yan Şemalar (⟪विपुला⟫) a ve c için:**
 
-**⟪विपुला⟫ 1:** <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 1:**
 ::: metrik-schema
-× × × —   ◡ ◡ ◡ — <!-- TODO: Fallback translation -->
+× × × —   ◡ ◡ ◡ —
 :::
-**⟪विपुला⟫ 2:** <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 2:**
 ::: metrik-schema
-× — ◡ —   — ◡ ◡ — <!-- TODO: Fallback translation -->
+× — ◡ —   — ◡ ◡ —
 :::
-**⟪विपुला⟫ 3:** <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 3:**
 ::: metrik-schema
-× — ◡ —   — / — — — <!-- TODO: Fallback translation -->
+× — ◡ —   — / — — —
 :::
-**⟪विपुला⟫ 4:** <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 4:**
 ::: metrik-schema
-× × × ×   / — ◡ — — <!-- TODO: Fallback translation -->
+× × × ×   / — ◡ — —
 :::
-**Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.** <!-- TODO: Fallback translation -->
-## 53.11. Übung <!-- TODO: Fallback translation -->
+**Tüm Śloka formlarında ana kesim, 2. ⟪पाद⟫ :nın sonunda yer alır; burada ya kelime sonu vardır veya (uzun bileşiklerde) bir kompozisyon parçasının sonu bulunur.**
+## 53.11. Alıştırma
 
 ::: grammar-box
-**Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmässigkeiten bzw. Vipulāformen hin.** <!-- TODO: Fallback translation -->
+**Şimdiye kadar öğrenilen tüm şiirler arasında Ślokaları belirleyin. Bu şiirlere ilişkin olarak metrik şemayı yazılı olarak hazırlayın. Olası düzensizlikleri veya Vipulā formlarını belirtin.**
 :::
 ::: center
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
-⟪श्रीगणेशाय⟫ ⟪नमः⟫ <!-- TODO: Fallback translation -->
-:::
-::: deleteme-box
-**Quellen** <!-- TODO: Fallback translation -->
-
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
-
-Finitum feliciter 1984-02-15  
-Editio interretialis feliciter finita 2009-01-19  
-Alois Maria Payer  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫ <!-- TODO: Fallback translation -->
-:::
-::: deleteme-box
-
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer). <!-- TODO: Fallback translation -->
+⟪श्रीगणेशाय नमः⟫
 :::
 

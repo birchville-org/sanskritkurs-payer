@@ -19,25 +19,25 @@ status: stable
 | **Sekundärendungen** | -s | -ta | -thās | -dhvam |
 | **Perfektendungen** | -tha | -a | -se | -dhve |
 :::
-Beachten Sie, dass die Sekundärendung der 2.pl.P. identisch ist mit der Sekundärendung der 3.sg.Ā. <!-- TODO: Fallback translation -->
+Beachten Sie, dass die Sekundärendung der 2.pl.P. identisch ist mit der Sekundärendung der 3.sg.Ā.
 
 ## 43.2. Ⲧⲁⲡⲗⲁⲥⲓⲥ ⲛ̄ⲛⲓⲙⲟⲣϥⲏ ⲛ̄ⲧⲉ ⲡⲓⲃⲉⲣⲃ ⲛ̄ⲧⲉ ⲡⲓⲡⲣⲟⲥⲱⲡⲟⲛ ⲛ̄ⲥⲛⲁⲩ (⟪मध्यमः⟫)
 
-2.Person: <!-- TODO: Fallback translation -->
+2.Person:
 
-*   Singular: "du" <!-- TODO: Fallback translation -->
-*   Plural: "ihr" (mehr als zwei!) <!-- TODO: Fallback translation -->
+*   Singular: "du"
+*   Plural: "ihr" (mehr als zwei!)
 
 ### 43.2.1. Ⲛⲓⲣⲏⲧ ⲛ̄ⲧⲉ ⲡⲧⲟⲡⲟⲥ
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
-Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. Optativ! <!-- TODO: Fallback translation -->
+Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. Optativ!
 
-#### 43.2.1.1. Erste Präsensklasse (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+#### 43.2.1.1. Erste Präsensklasse (⟪भ्वादि⟫)
 
-⟪भू⟫ 1P <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
@@ -46,9 +46,9 @@ Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \<⟪भवेथास्⟫\> | \<⟪भवेध्वम्⟫\> |
 
-#### 43.2.1.2. Sechste Präsensklasse (⟪तुदादि⟫) <!-- TODO: Fallback translation -->
+#### 43.2.1.2. Sechste Präsensklasse (⟪तुदादि⟫)
 
-⟪विश्⟫ 6P <!-- TODO: Fallback translation -->
+⟪विश्⟫ 6P
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
@@ -57,9 +57,9 @@ Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
 
-#### 43.2.1.3. Vierte Präsensklasse (⟪दिवादि⟫) <!-- TODO: Fallback translation -->
+#### 43.2.1.3. Vierte Präsensklasse (⟪दिवादि⟫)
 
-⟪नृत्⟫ 4P <!-- TODO: Fallback translation -->
+⟪नृत्⟫ 4P
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
@@ -68,9 +68,9 @@ Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \<⟪अनृत्यथास्⟫\> | \<⟪अनृत्यध्वम्⟫\> |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \<⟪नृत्येथास्⟫\> | \<⟪नृत्येध्वम्⟫\> |
 
-#### 43.2.1.4. ϯⲙⲁϩ ⲙⲏⲧ ⲛ̀ⲕⲗⲁⲥⲥⲏ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ (⟪चुरादि⟫) ⲛⲉⲙ ⲛⲓⲕⲁⲩⲥⲁⲧⲓⲃ <!-- TODO: Fallback translation -->
+#### 43.2.1.4. ϯⲙⲁϩ ⲙⲏⲧ ⲛ̀ⲕⲗⲁⲥⲥⲏ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ (⟪चुरादि⟫) ⲛⲉⲙ ⲛⲓⲕⲁⲩⲥⲁⲧⲓⲃ
 
-⟪चुर्⟫ 10U <!-- TODO: Fallback translation -->
+⟪चुर्⟫ 10U
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
@@ -79,7 +79,7 @@ Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अचोरयस्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयथास्⟫ | ⟪अचोरयध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪चोरयेस्⟫ | ⟪चोरयेत⟫ | ⟪चोरयेथास्⟫ | ⟪चोरयेध्वम्⟫ |
 
-#### 43.2.1.5. Passiv <!-- TODO: Fallback translation -->
+#### 43.2.1.5. Passiv
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -89,20 +89,20 @@ Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. 
 | **Imperfekt** ⟪लङ्⟫ | ⟪ऐक्ष्यथास्⟫ | ⟪ऐक्ष्यध्वम्⟫ |
 | **Optativ** ⟪विधिलिङ्⟫ | ⟪ईक्ष्येथास्⟫ | ⟪ईक्ष्येध्वम्⟫ |
 
-#### 43.2.1.6. Ⲡⲉⲧⲛⲁϣⲱⲡⲓ (⟪ऌट्⟫) <!-- TODO: Fallback translation -->
+#### 43.2.1.6. Ⲡⲉⲧⲛⲁϣⲱⲡⲓ (⟪ऌट्⟫)
 
-#### 43.2.1.6.1. ⟪अनिट्⟫-ⲃⲓⲗⲇⲩⲛⲅ <!-- TODO: Fallback translation -->
+#### 43.2.1.6.1. ⟪अनिट्⟫-ⲃⲓⲗⲇⲩⲛⲅ
 
-⟪दा⟫ 3U <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U
 
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪दास्यसि⟫ | ⟪दास्यथ⟫ | ⟪दास्यसे⟫ | ⟪दास्यध्वे⟫ |
 
-#### 43.2.1.6.2. ⟪सेट्⟫-ϫⲓⲛⲉⲥⲓⲥ <!-- TODO: Fallback translation -->
+#### 43.2.1.6.2. ⟪सेट्⟫-ϫⲓⲛⲉⲥⲓⲥ
 
-⟪भू⟫ 1P <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P
 
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
@@ -111,8 +111,8 @@ Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. 
 
 ## 43.3. Das Personalpronomen der zweiten Person
 
-*   Singular: ⟪त्वद्⟫ "du" <!-- TODO: Fallback translation -->
-*   Plural: ⟪युष्मद्⟫ "ihr" <!-- TODO: Fallback translation -->
+*   Singular: ⟪त्वद्⟫ "du"
+*   Plural: ⟪युष्मद्⟫ "ihr"
 
 ::: grammar-box
 | | ⟪एकवचनम्⟫ (⟪त्वद्⟫) | ⟪बहुवचनम्⟫ (⟪युष्मद्⟫) |
@@ -125,104 +125,104 @@ Die 3.sg.Ā.Imperfekt bzw. Optativ ist formgleich mit der 2.pl.P.Imperfekt bzw. 
 | ⟪षष्ठी⟫ | ⟪तव⟫ ⟪ते⟫ | ⟪युष्माकम्⟫ ⟪वस्⟫ |
 | ⟪सप्तमी⟫ | ⟪त्वयि⟫ | ⟪युष्मासु⟫ |
 :::
-Die Formen ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ dürfen nicht an erster Stelle eines Satzes oder einer Vershälfte gebraucht werden. Auch vor ⟪च⟫, ⟪वा⟫, ⟪एव⟫ und einigen anderen Partikeln dürfen sie nicht verwendet werden: <!-- TODO: Fallback translation -->
+Die Formen ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ dürfen nicht an erster Stelle eines Satzes oder einer Vershälfte gebraucht werden. Auch vor ⟪च⟫, ⟪वा⟫, ⟪एव⟫ und einigen anderen Partikeln dürfen sie nicht verwendet werden:
 
 ::: indent
-⟪त्वां⟫ ⟪मां⟫ ⟪च⟫ "dich und mich" <!-- TODO: Fallback translation -->
+⟪त्वां⟫ ⟪मां⟫ ⟪च⟫ "dich und mich"
 :::
 ## 43.4. Wortliste
 
-⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen <!-- TODO: Fallback translation -->
+⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen
 
-⟪आपण⟫ m.: Markt <!-- TODO: Fallback translation -->
+⟪आपण⟫ m.: Markt
 
 ::: media
 ![](/images/lekt4302.webp)
 Abb.: ⟪आपणः⟫
-(Bildquelle: [Details](/licenses#lekt4302)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4302))
 :::
-⟪सत्वर⟫ 3: schnell, eilig <!-- TODO: Fallback translation -->
+⟪सत्वर⟫ 3: schnell, eilig
 
-⟪पण्य⟫ 3: käuflich; n.: Ware, Handel <!-- TODO: Fallback translation -->
+⟪पण्य⟫ 3: käuflich; n.: Ware, Handel
 
 ::: media
 ![](/images/lekt4303.webp)
 Abb.: ⟪पण्यानि⟫
-(Bildquelle: [Details](/licenses#lekt4303)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4303))
 :::
-⟪आम्⟫ : ja <!-- TODO: Fallback translation -->
+⟪आम्⟫ : ja
 
-⟪सम⟫ m. = ⟪वर्ष⟫ n. <!-- TODO: Fallback translation -->
+⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
-\-⟪आयुत⟫ 3: versehen mit <!-- TODO: Fallback translation -->
+\-⟪आयुत⟫ 3: versehen mit
 
-⟪भद्र⟫ 3: gut, glücklich; Vokativ: mein Lieber! <!-- TODO: Fallback translation -->
+⟪भद्र⟫ 3: gut, glücklich; Vokativ: mein Lieber!
 
-⟪समय⟫ m. (zu ⟪सम्⟫-⟪इ⟫): Übereinkunft, Vertrag, Frist, Termin, Zeit <!-- TODO: Fallback translation -->
+⟪समय⟫ m. (zu ⟪सम्⟫-⟪इ⟫): Übereinkunft, Vertrag, Frist, Termin, Zeit
 
-⟪निश्चित⟫ 3: entschieden, festgesetzt <!-- TODO: Fallback translation -->
+⟪निश्चित⟫ 3: entschieden, festgesetzt
 
-⟪नोचेत्⟫ : wenn nicht, sonst <!-- TODO: Fallback translation -->
+⟪नोचेत्⟫ : wenn nicht, sonst
 
-⟪विलम्ब⟫ n.m.: Verzögerung, Verspätung <!-- TODO: Fallback translation -->
+⟪विलम्ब⟫ n.m.: Verzögerung, Verspätung
 
-⟪विपणि⟫ f.: Laden <!-- TODO: Fallback translation -->
+⟪विपणि⟫ f.: Laden
 
 ::: media
 ![](/images/lekt4304.webp)
 Abb.: ⟪विपणिः⟫
-(Bildquelle: [Details](/licenses#lekt4304)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: Kaufmann <!-- TODO: Fallback translation -->
+⟪वणिज्⟫ m.: Kaufmann
 
 ::: media
 ![](/images/lekt4305.webp)
 Abb.: ⟪वणिक्⟫
-(Bildquelle: [Details](/licenses#lekt4305)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4305))
 :::
-⟪वर⟫ 3: bester <!-- TODO: Fallback translation -->
+⟪वर⟫ 3: bester
 
-⟪शीघ्र⟫ 3: schnell, rasch <!-- TODO: Fallback translation -->
+⟪शीघ्र⟫ 3: schnell, rasch
 
-⟪वत्स⟫ m.: Kalb, Junges, Kind ; Vok.: mein Lieber <!-- TODO: Fallback translation -->
+⟪वत्स⟫ m.: Kalb, Junges, Kind ; Vok.: mein Lieber
 
 ::: media
 ![](/images/lekt4306.webp)
 Abb.: ⟪वत्सः⟫
-(Bildquelle: [Details](/licenses#lekt4306)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4306))
 :::
-⟪उत्तम⟫ 3: oberster, bester <!-- TODO: Fallback translation -->
+⟪उत्तम⟫ 3: oberster, bester
 
-⟪अल्प⟫ 3: klein, gering <!-- TODO: Fallback translation -->
+⟪अल्प⟫ 3: klein, gering
 
-⟪मूल्य⟫ n.: Wert, Preis <!-- TODO: Fallback translation -->
+⟪मूल्य⟫ n.: Wert, Preis
 
-⟪कियत्⟫ 3: wie groß <!-- TODO: Fallback translation -->
+⟪कियत्⟫ 3: wie groß
 
-⟪शर्करा⟫ f.: Zucker (das deutsche "Zucker" geht über italienisch zucchero, von dort über arabisch sukkar - سكر und persisch äkär - شکر auf das Sanskrit ⟪शर्करा⟫ zurück!) <!-- TODO: Fallback translation -->
+⟪शर्करा⟫ f.: Zucker (das deutsche "Zucker" geht über italienisch zucchero, von dort über arabisch sukkar - سكر und persisch äkär - شکر auf das Sanskrit ⟪शर्करा⟫ zurück!)
 
-⟪अधिक⟫ 3: zusätzlich, überschüssig, ausserordendlich <!-- TODO: Fallback translation -->
+⟪अधिक⟫ 3: zusätzlich, überschüssig, ausserordendlich
 
-⟪तर्हि⟫ : damals, dann ; darum, also <!-- TODO: Fallback translation -->
+⟪तर्हि⟫ : damals, dann ; darum, also
 
-⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : wägen <!-- TODO: Fallback translation -->
+⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : wägen
 
 ::: media
 ![](/images/lekt4307.webp)
 Abb.: ⟪तोलन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4307)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4307))
 :::
-⟪कर्गल⟫ n.: Papier <!-- TODO: Fallback translation -->
+⟪कर्गल⟫ n.: Papier
 
-⟪संपुट⟫ m.: Dose (hier: Paket, Bündel) <!-- TODO: Fallback translation -->
+⟪संपुट⟫ m.: Dose (hier: Paket, Bündel)
 
-⟪पुरतस्⟫ : vorn, davor, vor <!-- TODO: Fallback translation -->
+⟪पुरतस्⟫ : vorn, davor, vor
 
-⟪श्रेष्ठिन्⟫ m.: reicher Kaufmann <!-- TODO: Fallback translation -->
+⟪श्रेष्ठिन्⟫ m.: reicher Kaufmann
 
-⟪जव⟫ 3: schnell, eilig <!-- TODO: Fallback translation -->
+⟪जव⟫ 3: schnell, eilig
 
-⟪द्रु⟫ 1P ⟪द्रवति⟫ rennen <!-- TODO: Fallback translation -->
+⟪द्रु⟫ 1P ⟪द्रवति⟫ rennen
 
 ::: indent
 Perf. IIIa ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
@@ -231,27 +231,27 @@ Pass. ⟪द्रूयते⟫
 Kaus. ⟪द्रावयति⟫  
 PPP ⟪द्रुत⟫  
 Absol. -⟪द्रुत्य⟫  
-Inf. ⟪द्रोतुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪द्रोतुम्⟫
 :::
-⟪रे⟫ Interjektion: He! Du da! <!-- TODO: Fallback translation -->
+⟪रे⟫ Interjektion: He! Du da!
 
-⟪अन्यद्⟫ 3: ein anderer (Deklination wie ⟪यद्⟫ ) <!-- TODO: Fallback translation -->
+⟪अन्यद्⟫ 3: ein anderer (Deklination wie ⟪यद्⟫ )
 
-⟪वञ्चक⟫ m.: Betrüger <!-- TODO: Fallback translation -->
+⟪वञ्चक⟫ m.: Betrüger
 
-⟪पश्चात्ताप⟫ m.: Reue <!-- TODO: Fallback translation -->
+⟪पश्चात्ताप⟫ m.: Reue
 
-⟪इत्थम्⟫ Adv.: auf diese Weise, so <!-- TODO: Fallback translation -->
+⟪इत्थम्⟫ Adv.: auf diese Weise, so
 
-⟪दिन⟫ n.: Tag <!-- TODO: Fallback translation -->
+⟪दिन⟫ n.: Tag
 
-⟪जन्मन्⟫ n.: Geburt <!-- TODO: Fallback translation -->
+⟪जन्मन्⟫ n.: Geburt
 
-⟪आनन्द⟫ m.: Wonne, Freude <!-- TODO: Fallback translation -->
+⟪आनन्द⟫ m.: Wonne, Freude
 
 ## 43.5. Übung
 
-A) Bilden Sie die in Zeit, Zahl, Modus u. s. w. entsprechende 2. Person zu folgenden Verbformen: <!-- TODO: Fallback translation -->
+A) Bilden Sie die in Zeit, Zahl, Modus u. s. w. entsprechende 2. Person zu folgenden Verbformen:
 
 1.  ⟪आर्हम्⟫
 2.  ⟪कुप्येम⟫
@@ -306,32 +306,32 @@ A) Bilden Sie die in Zeit, Zahl, Modus u. s. w. entsprechende 2. Person zu folge
 51.  ⟪तिष्ठन्ति⟫
 52.  ⟪आहरत्⟫
 
-B) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+B) Übersetzen Sie ins Sanskrit:
 
-1\. Warum sitzt ihr während der Lehrer steht? <!-- TODO: Fallback translation -->
+1\. Warum sitzt ihr während der Lehrer steht?
 
-2\. Bezweifelst du, ob eine gute Tat eine gute Frucht  hat? <!-- TODO: Fallback translation -->
+2\. Bezweifelst du, ob eine gute Tat eine gute Frucht  hat?
 
-3\. Werdet ihr dem Vater den innersten Tempelschrein zeigen? <!-- TODO: Fallback translation -->
+3\. Werdet ihr dem Vater den innersten Tempelschrein zeigen?
 
-4\. Das Preislied welches Dichters hast du gesungen? <!-- TODO: Fallback translation -->
+4\. Das Preislied welches Dichters hast du gesungen?
 
-5\. Werdet ihr diese Früchte verkaufen? <!-- TODO: Fallback translation -->
+5\. Werdet ihr diese Früchte verkaufen?
 
-6\. Was hast du befohlen? <!-- TODO: Fallback translation -->
+6\. Was hast du befohlen?
 
-7\. Wann hast du dich in Benares aufgehalten (⟪वृत्⟫)? <!-- TODO: Fallback translation -->
+7\. Wann hast du dich in Benares aufgehalten (⟪वृत्⟫)?
 
-8\. Habt ihr als Opferherren die Götter mit einem Opfer verehrt? <!-- TODO: Fallback translation -->
+8\. Habt ihr als Opferherren die Götter mit einem Opfer verehrt?
 
-9\. In welcher Stadt wurdest du geboren? <!-- TODO: Fallback translation -->
+9\. In welcher Stadt wurdest du geboren?
 
-10\. Wie rettest du dich (überschreitest) vor dem Feind? <!-- TODO: Fallback translation -->
+10\. Wie rettest du dich (überschreitest) vor dem Feind?
 
 ::: media
 ![](/images/lekt4308.webp)
 Abb.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt4308)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4308))
 :::
 ## 43.6. ⟪संवादः⟫ = Gespräch
 
@@ -366,24 +366,6 @@ Abb.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 ::: media
 ![](/images/lekt4309.webp)
 Abb.: ⟪शर्करा⟫
-(Bildquelle: [Details](/licenses#lekt4309)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt4309))
 :::
 
-::: deleteme-box
-
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
-
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
-
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung) <!-- TODO: Fallback translation -->
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Zugriff am 2009-001-06. -- Creative Commons Lizenz (Namensnennung, share alike) <!-- TODO: Fallback translation -->
-
-**lekt4307.jpg**: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
-
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Zugriff am 2009-01-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung) <!-- TODO: Fallback translation -->
-:::

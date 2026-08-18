@@ -458,16 +458,3 @@ B) 翻译并确定以下形式：
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [图片来源：Iqbal Saggu。-- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/)。-- 访问日期：2009-03-02。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
-
-**lekt5803:** Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [图片来源：stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- 访问日期：2009-03-02. -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [图片来源：Prato9x。-- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/)。-- 访问日期：2009-03-02。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
-
-:::

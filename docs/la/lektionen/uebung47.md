@@ -53,7 +53,7 @@ B) Versa in Sanscritum utendo Imperativo:
 Volo conservari.
 
 ⟪२⟫. **⟪तुष्यतु⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Ipse contentus esse debet. <!-- TODO: Fallback translation -->
+Ipse contentus esse debet.
 
 ⟪३⟫. **⟪ह्वयाम⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Nos vocare volumus.
@@ -62,7 +62,7 @@ Nos vocare volumus.
 Me tibi flectere volo.
 
 ⟪५⟫. **⟪एतत्कर्म⟫ ⟪क्रियताम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Hoc factum fieri debet. <!-- TODO: Fallback translation -->
+Hoc factum fieri debet.
 
 ⟪६⟫. **⟪भवता⟫ ⟪सुप्यताम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 Dormire debent. (Constructio passiva)
@@ -132,7 +132,7 @@ Errare debeant.
 Ebriamini!
 
 ⟪२८⟫. **⟪अश्वो⟫ ⟪भारं⟫ ⟪कर्षतु⟫ ⟪॥⟫ ⟪२८⟫ ⟪॥⟫**
-Equus onus trahere debet. <!-- TODO: Fallback translation -->
+Equus onus trahere debet.
 
 ⟪२९⟫. **⟪लोकान्कल्पयाम⟫ ⟪॥⟫ ⟪२९⟫ ⟪॥⟫**
 Mundos ordinare volumus.

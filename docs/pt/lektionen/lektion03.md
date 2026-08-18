@@ -9,14 +9,6 @@ status: stable
 
 # Lição 3
 
-::: deleteme-box
-**Nesta lição, você aprenderá:**
-- o nominativo singular do feminino
-- o nominativo plural do masculino e do feminino
-- a formação do feminino a partir de substantivos masculinos
-- sandhi vocálico
-- Satzsandhi von -ās
-:::
 ## 3.1. Nominativo singular do feminino
 
 ### 3.1.1. Nominativo singular em -s
@@ -76,7 +68,7 @@ Nota: **e** é o grau vocálico forte (**guṇa**) de **i**, **o** é o grau voc
 :::
 p. ex.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā é uma divindade" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā é uma divindade" = ⟪देवतान्नपूर्णा⟫
 
 > (Annapūrṇā é a deusa dos alimentos e da culinária, ela é considerada uma encarnação de Pārvatī, a esposa de Śiva.)
 
@@ -127,7 +119,7 @@ p. ex.
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-p. ex. <!-- TODO: Fallback translation -->
+p. ex.
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Os Vaiśyas são nascidos duas vezes" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

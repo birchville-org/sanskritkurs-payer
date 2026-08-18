@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 34
 
-A) Muodosta seuraavista verbimuodoista perfektimuodot, jotka vastaavat persoonaa, lukua ja verbin genusia: <!-- TODO: Fallback translation -->
+A) Muodosta seuraavista verbimuodoista perfektimuodot, jotka vastaavat persoonaa, lukua ja verbin genusia:
 
 1. ⟪रक्षिष्यन्ति⟫ ⟪।⟫ ⟪ररक्षुर्⟫
 2. ⟪स्रक्ष्यति⟫ ⟪।⟫ ⟪ससर्ज⟫
@@ -44,7 +44,7 @@ A) Muodosta seuraavista verbimuodoista perfektimuodot, jotka vastaavat persoonaa
 30. ⟪कुप्यन्ति⟫ ⟪।⟫ ⟪चुकुपुर्⟫
 31. ⟪इच्छन्ति⟫ ⟪।⟫ ⟪ईषुर्⟫
 
-Käännä seuraava teksti ⟪पद्मपुराण⟫: lahjoitukset brahmaneille. <!-- TODO: Fallback translation -->
+Käännä seuraava teksti ⟪पद्मपुराण⟫: lahjoitukset brahmaneille.
 
 > ⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजोत्तम⟫ ⟪।⟫
 > ⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्राश्चतुर्दश⟫ ⟪॥१॥⟫
@@ -57,11 +57,11 @@ Käännä seuraava teksti ⟪पद्मपुराण⟫: lahjoitukset brahma
 > ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तम्⟫ ⟪महीतले⟫ ⟪।⟫
 > ⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
-Paras kahdesti syntynistä! Joka antaa brahmanille maan yhdessä sen viljankasvusteiden kanssa, nauttii Viṣṇun maailmaa niin kauan kuin neljätoista Indrata. Kahdesti syntynyt! Ansio, jonka ihminen saa, joka antaa koko maailman seitsemine mantereineen, sen saa kuolevainen, joka antaa brahmanille lehmän. Joka antaa brahmanille kultaa niin pienenä kuin seesaminsiemen, se tulee Harin (Viṣṇun) asuinkaupunkiin miljoonan perheen kanssa. Paras kahdesti syntynistä! Mies, joka antaa tyttären yhdessä koristeiden kanssa (brahmanille), tulee Brahmān istuimelle eikä hänellä ole enää uudelleensyntymistä. Paras kahdesti syntynistä! Joka on antanut ruokaa ja vettä maan pinnalla, se on antanut kaikki lahjat, härkä kahdesti syntyneiden joukossa! <!-- TODO: Fallback translation -->
+Paras kahdesti syntynistä! Joka antaa brahmanille maan yhdessä sen viljankasvusteiden kanssa, nauttii Viṣṇun maailmaa niin kauan kuin neljätoista Indrata. Kahdesti syntynyt! Ansio, jonka ihminen saa, joka antaa koko maailman seitsemine mantereineen, sen saa kuolevainen, joka antaa brahmanille lehmän. Joka antaa brahmanille kultaa niin pienenä kuin seesaminsiemen, se tulee Harin (Viṣṇun) asuinkaupunkiin miljoonan perheen kanssa. Paras kahdesti syntynistä! Mies, joka antaa tyttären yhdessä koristeiden kanssa (brahmanille), tulee Brahmān istuimelle eikä hänellä ole enää uudelleensyntymistä. Paras kahdesti syntynistä! Joka on antanut ruokaa ja vettä maan pinnalla, se on antanut kaikki lahjat, härkä kahdesti syntyneiden joukossa!
 
 Selitykset:
 
-Vokatiivin yksikkö maskuliineille / neutreille päättymällä -a on päättyen -a: esim. ⟪देव⟩ "Jumala!" <!-- TODO: Fallback translation -->
+Vokatiivin yksikkö maskuliineille / neutreille päättymällä -a on päättyen -a: esim. ⟪देव⟩ "Jumala!"
 
 ⟪चतुर्दश⟩ neljätoista
 
@@ -75,5 +75,5 @@ Vokatiivin yksikkö maskuliineille / neutreille päättymällä -a on päättyen
 ![](/images/uebung057.jpg)
 Kuv.: ⟪तिलप्रमाणम्⟩
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung057))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

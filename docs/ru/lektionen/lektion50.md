@@ -253,23 +253,4 @@ B) Переведите:
 Пояснения:
 ⟪निषेकादीनि⟫ : им. или вин. падеж, множественное число, средний род
 :::
-::: deleteme-box
-
-**lekt5007:** Изобр.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = гора Эверест [Источник изображения: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Дата обращения: 12.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (с указанием авторства)]
-
-**lekt5006:** Лису = 傈僳族, ⟪अरुणाचल प्रदेश⟫ [Источник изображения: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Дата обращения: 12.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (с указанием авторства, некоммерческое использование, без производных произведений)]
-
-**lekt5001:** Капиль Сибал (род. 1948), министр Союза в Министерстве науки и технологий и Министерстве наук о Земле (с 2006 года) [Источник изображения: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Дата обращения: 12.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (с указанием авторства, с сохранением условий)]
-
-**lekt5002:** Приход муссона, Бангалор ಬೆಂಗಳೂರು [Источник изображения: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Дата обращения: 12.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Указание авторства, некоммерческое использование, без производных произведений)]
-
-**lekt5005:** [Источник изображения: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder\_iyer/2225272284/). -- Дата обращения: 12.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Указание авторства, аналогичное распространение)]
-
-**lekt5003:** [Источник изображения: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Дата обращения: 12.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Указание авторства, некоммерческое использование, без производных произведений)]
-
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Источник изображения: Kounosu / Wikipedia. Лицензия GNU FDL]
-
-**lekt5008:** Ганешпури, в 80 км от Мумбаи (⟪मुंबई⟫) [Источник изображения: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Дата обращения: 13.01.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Указание авторства, некоммерческое использование, аналогичное распространение)]
-
-:::
 

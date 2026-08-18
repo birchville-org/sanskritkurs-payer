@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 44
 
-A) Määritä ja käännä seuraavat muodot: <!-- TODO: Fallback translation -->
+A) Määritä ja käännä seuraavat muodot:
 
 ::: grammar-box
 | Sanamuoto | Määritelmä | Merkitys |
@@ -59,7 +59,7 @@ A) Määritä ja käännä seuraavat muodot: <!-- TODO: Fallback translation -->
 | ⟪४२⟫. ⟪विक्रीणीध्वम्⟫ | ⟪वि⟫-⟪क्री⟫ (9Ā) 2. pl. Ā. Opt. | myisitte |
 | ⟪४३⟫. ⟪सुन्मः⟫ | ⟪सु⟫ (5U) 1. pl. P. Ind. Präs. | puristamme |
 | ⟪४४⟫. ⟪रोदिषि⟫ | ⟪रुद्⟫ (2P) 2. sg. P. Ind. Präs. | itket |
-| ⟪४५⟫. ⟪अस्तवीः⟫ | ⟪स्तु⟫ (2U) 2. sg. P. Impf. | ylistit | <!-- TODO: Fallback translation -->
+| ⟪४५⟫. ⟪अस्तवीः⟫ | ⟪स्तु⟫ (2U) 2. sg. P. Impf. | ylistit |
 
 | ⟪४६⟫. ⟪अशृणुत⟫ | ⟪श्रु⟫ (5P) 2. pl. P. Impf. | te kuulitte |
 | ⟪४७⟫. ⟪ब्रुवीध्वम्⟫ | ⟪ब्रू⟫ (2U) 2. pl. Ā. Opt. | te puhuisitte |
@@ -69,9 +69,9 @@ A) Määritä ja käännä seuraavat muodot: <!-- TODO: Fallback translation -->
 | ⟪५१⟫. ⟪हथ⟫ | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | te lyötte |
 | ⟪५२⟫. ⟪हतः⟫ | ⟪हन्⟫ (2P) PPP Nom. sg. m. | lyöty / tapettu |
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Käännökset <!-- TODO: Fallback translation -->
+## Käännökset
 
 B) Kääntäkää:
 
@@ -79,7 +79,7 @@ B) Kääntäkää:
 Vihamattomuudella voitetaan viha, hyvyydellä pahuus; totuudella valhe.
 
 ⟪२⟫. **⟪पुत्राः⟫ ⟪किं⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्प्रायच्छत⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Pojat, oletteko antaneet esivanhemmille ruoka-uhreja? <!-- TODO: Fallback translation -->
+Pojat, oletteko antaneet esivanhemmille ruoka-uhreja?
 
 ⟪३⟫. **⟪कानि⟫ ⟪शास्त्राणि⟫ ⟪काश्यामध्यैथाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Mitä oppikirjoja olet opiskellut Benaresissa (Kāśī)?
@@ -94,19 +94,19 @@ Oletteko tervehdineet myös opettajaa, joka lukee jaloväen taistelusta kertovan
 Myös vastenmielisiä ei tule vihata, eikä haluttomia tulee himoita; näin olette sisäisesti rauhallisia.
 
 ⟪७⟫. **⟪न⟫ ⟪योत्स्य⟫ ⟪इत्यर्जुन⟫ ⟪उवाच⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-"En taistele" — näin Arjuna puhui. <!-- TODO: Fallback translation -->
+"En taistele" — näin Arjuna puhui.
 
 ⟪८⟫. **⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫ ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Olette surrutte niitä, joita ei tule surra, ja halunneet puhua viisaiden sanoja; mutta viisaat eivät surra kumpaakaan, kuolleita eikä eläviä. <!-- TODO: Fallback translation -->
+Olette surrutte niitä, joita ei tule surra, ja halunneet puhua viisaiden sanoja; mutta viisaat eivät surra kumpaakaan, kuolleita eikä eläviä.
 
 ::: media
 ![](/images/uebung072.webp)
 Kuv.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Kuv lähde: [Details](/licenses#uebung072))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Lisämuotojen määrittelyt <!-- TODO: Fallback translation -->
+## Lisämuotojen määrittelyt
 
 Määrätään seuraavat sanamuodot:
 
@@ -159,7 +159,7 @@ Määrätään seuraavat sanamuodot:
 ![](/images/uebung073.webp)
 Kuv.: ⟪वदिता⟩
 (Kuvan lähde: [Tiedot](/licenses#uebung073))
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

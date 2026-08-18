@@ -147,10 +147,3 @@ A) 翻译成梵文（对于过去时态，请使用未完成体 \&lt;⟪लङ�
 （图片来源：[详情](/zh-CN/licenses#lekt4502)）
 :::
 
-::: deleteme-box
-
-**lekt4501.jpg**: 纺织品木版印刷，艾哈迈达巴德。-- 图片来源：Daveybot。-- http://www.flickr.com/photos/davemorris/316429534/。-- 访问日期：2009-01-08。-- 知识共享许可协议（署名，非商业性使用，相同方式共享）
-
-**lekt4502.jpg**: 图片来源：John Isaac / 世界银行。 -- http://www.flickr.com/photos/worldbank/2348425672/. -- 访问日期：2009-01-08。 -- 知识共享许可协议（署名，非商业性使用，禁止演绎）
-:::
-

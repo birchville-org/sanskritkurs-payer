@@ -264,12 +264,6 @@ PPP ⟪पूजित⟫
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
 :::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [Πηγή εικόνας: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Πρόσβαση στις 20-12-2008. -- Άδεια Creative Commons (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Παρόμοια Διανομή)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Πηγή εικόνας: Khalid Mahmood / Wikipedia. Άδεια GNU FDLicense]
-**lekt2902:** (Σχέδιο: Namcha Payer, 2002-11)
-::: <!-- TODO: Fallback translation -->
 
 
 :::

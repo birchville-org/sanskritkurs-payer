@@ -25,12 +25,12 @@ Comglia adverbiala (non declinabla)
 ::: indent
 vennir aduprà. Talsas Tatpuruṣa appartegnan per la mai part a la classa dals Nityasamāsa = ⟪नित्यसमास⟫ (m. "cumpost permanent"), è a dir dals cumposts che n'è betg pussaivel u betg mo da resolvers cun las paraulas che sa chatta en il cumpost sez.
 :::
-Exempels: <!-- TODO: Fallback translation -->
+Exempels:
 
 ⟪अति⟫ "darüber hinaus":
 
 ::: indent
-⟪अतिगुरु⟫ 3: extrem schwer, extrem gewichtig <!-- TODO: Fallback translation -->
+⟪अतिगुरु⟫ 3: extrem schwer, extrem gewichtig
 
 ⟪अतिपुरुष⟫ m.: umna uman, Superman, eroi
 
@@ -45,7 +45,7 @@ Las preposiziuns adverbialas pli impurtantas èn a-/an-, su-, dus-.
 Ezempels:
 
 ::: indent
-⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): falschadad, mendacium <!-- TODO: Fallback translation -->
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): falschadad, mendacium
 
 ⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: betg fatg, betg disfatg
 
@@ -58,7 +58,7 @@ Ezempels:
 Ezempels:
 
 ::: indent
-⟪सुकवि⟫ m.: in bun poet <!-- TODO: Fallback translation -->
+⟪सुकवि⟫ m.: in bun poet
 
 ⟪सुकृत⟫ n.: buna acziun
 
@@ -75,7 +75,7 @@ Ezempels:
 
 ⟪दुष्करण⟫ n.: acṛta, duṣkṛta
 :::
-Quai vala la lescha suandanta: <!-- TODO: Fallback translation -->
+Quai vala la lescha suandanta:
 
 ::: grammar-box
 
@@ -164,7 +164,7 @@ Verbs pònan esser colliads cun prefixas (⟪उपसर्ग⟩ m.) en il San
 :::
 Qualche preverb impurtant è:
 
-⟪उप⟫ "a, vers, cunter" <!-- TODO: Fallback translation -->
+⟪उप⟫ "a, vers, cunter"
 
 Ezempels:
 
@@ -190,7 +190,7 @@ Ezempels:
 
 ⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : svegliar, reconuscher
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.) <!-- TODO: Fallback translation -->
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.)
 
 ⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : explicar, communiticar, exprimer
 
@@ -238,7 +238,7 @@ Ezempels:
 :::
 ::: grammar-box
 
-La radis ⟪कृ⟫ "far" mussa en connexiun cun ils preverbs ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ era la furma ⟪स्कृ⟫ <!-- TODO: Fallback translation -->
+La radis ⟪कृ⟫ "far" mussa en connexiun cun ils preverbs ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ era la furma ⟪स्कृ⟫
 
 :::
 Esempel:
@@ -296,7 +296,7 @@ Fig.: ⟪उपनयनम्⟫
 
 ⟪शूर⟫ 3: coragiuss, eroic; m.: ero
 
-⟪शब्द⟫ m.: son, ton, signal da vusch: pled <!-- TODO: Fallback translation -->
+⟪शब्द⟫ m.: son, ton, signal da vusch: pled
 
 ⟪उदक⟫ n.: Aua
 
@@ -304,7 +304,7 @@ Fig.: ⟪उपनयनम्⟫
 
 ⟪आदि⟫ m.: cumenzament
 
-⟪दण्ड⟫ m.: bastun, stangas, sancziun <!-- TODO: Fallback translation -->
+⟪दण्ड⟫ m.: bastun, stangas, sancziun
 
 ⟪मात्रा⟫ f. ⟪मात्र⟫ n.: mesira, limitaziun
 
@@ -318,7 +318,7 @@ Fig.: ⟪उपनयनम्⟫
 
 A) Tradusci il ⟪सुभाषित⟫ al cumenzament da la lecziun.
 
-B) Tradusci suventscha Tatpuruṣa: <!-- TODO: Fallback translation -->
+B) Tradusci suventscha Tatpuruṣa:
 
 ⟪१⟫. ⟪सुकर⟫ ⟪३⟫
 
@@ -412,7 +412,7 @@ Imag.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Impressiun
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt1802))
 :::
-B) Traduscha usondà verbs da la 2. classa da present: <!-- TODO: Fallback translation -->
+B) Traduscha usondà verbs da la 2. classa da present:
 
 1\. Il Brahman loda le dee.
 
@@ -420,11 +420,11 @@ B) Traduscha usondà verbs da la 2. classa da present: <!-- TODO: Fallback trans
 
 3\. La serva da chasa munta las muertas.
 
-4\. Ils inimis dals Arians sglatschan ils Kṣatriyas pussants. <!-- TODO: Fallback translation -->
+4\. Ils inimis dals Arians sglatschan ils Kṣatriyas pussants.
 
 5\. In fantasma mangia betga fruits.
 
-6\. Uscheina quai, che ha [il passadi per las reinkarnaziuns] bain fatg, al dischipel. <!-- TODO: Fallback translation -->
+6\. Uscheina quai, che ha [il passadi per las reinkarnaziuns] bain fatg, al dischipel.
 
 ::: media
 ![](/images/lekt1803.webp)
@@ -438,13 +438,3 @@ D) Tradusci:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt1801:** "Inna giuvna veglia vegniva visibil durant il ritual da l'upanayana. Il filgial, fin, che va da la spalla sanestra fin a la vita è il Yagnopaivta. Notar er la cinghia d'erba munja enturn la vita. La stizz in maun dretg (normalmain da l'arvur peepa) signiescha ses entirar en il Brahmacharya." [Sursa da l'imaginescha: Nagesh Rao / Wikipedia, Licenza GNU FDLicense]
-
-**lekt1802:** 1770 Print [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt1803:** ⟪गन्धार⟫ 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt1804:** Matrimoni = ⟪विवाह⟫ m., in impurtant ⟪संस्कारः⟫ [sursainta da l'imagines: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Access il 2008-12-08. -- Licenza Creative Commons (Nominaziun, nagina utisaziun cummerciala, nagina modificaziun)]
-:::

@@ -1,8 +1,9 @@
 ---
 title: "Latihan 10"
 uebung_id: 10
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

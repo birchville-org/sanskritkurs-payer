@@ -39,7 +39,7 @@ status: stable
 Нерегулярні утворення:
 
 ::: indent
-⟪अस्⟫ 4P "кидати": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (пояснення див. Thumb-Hauschild §541,4) &lt;!-- TODO: Fallback translation --&gt;
+⟪अस्⟫ 4P "кидати": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (пояснення див. Thumb-Hauschild §541,4) &lt;!--  -→
 
 ⟪ख्या⟫ + ⟪आ⟫ 2P "розповідати": ***:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]***
 
@@ -94,8 +94,3 @@ status: stable
 (Джерело зображення: [Деталі](/uk/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** «Інаят-хан на смертному ложі», ескіз мініатюри до рукопису для Джахангіра = جهانگير, близько 1618 року [Джерело зображення: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Доступ отримано 2009-01-28. Суспільне надбання]
-
-:::

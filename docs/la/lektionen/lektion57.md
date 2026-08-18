@@ -9,7 +9,7 @@ status: stable
 
 # Lectio 57
 
-## 57.1. Aorist 4: s-Aoristus <!-- TODO: Fallback translation -->
+## 57.1. Aorist 4: s-Aoristus
 
 ::: grammar-box
 **Radix s-aoristus ad radices plures ⟪अनिट्⟫ formatur, nisi quae aliam aoristi formam tantum habent. Radices facultativae ⟪अनिट्⟫ communiter vel hunc vel aoristem iṣ- formare possunt. Item radices ⟪अनिट्⟫, quae post formam primam, secundam vel sextam aoristi ⟪परस्मैपद⟫ formant, radices ⟪आत्मनेपद⟫ secundum aoristem s- formant.**
@@ -94,7 +94,7 @@ Exempla:
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -239,8 +239,3 @@ B) Translate et determina sequentes formas:
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-::: deleteme-box
-
-**lekt5701:** [Imago fontis: Wikipedia. Dominium publicum.] <!-- TODO: Fallback translation -->
-
-:::

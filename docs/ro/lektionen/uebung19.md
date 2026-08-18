@@ -56,11 +56,11 @@ Cine are religie, dreptate și obicei, acela trăiește.
 Cine are prosperitate, acela are prieteni,  
 Cine are prosperitate, acela are rude,  
 Cine are prosperitate, acela este în lume un bărbat,  
-Cine anume are prosperitate, acela este un învățat. <!-- TODO: Fallback translation -->
+Cine anume are prosperitate, acela este un învățat.
 
 ::: media
 ![](/images/uebung029.webp)
 Fig.: ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫
 (Sursa imaginii: [Detalii](/licenses#uebung029))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

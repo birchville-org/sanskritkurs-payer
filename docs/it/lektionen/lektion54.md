@@ -276,11 +276,3 @@ Tamil Nadu
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt5401))
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Fonte dell’immagine: Raji Srinivas / Wikipedia. Licenza GNU FDL]
-
-**lekt5401:** Tamil Nadu [Fonte dell’immagine: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Accesso il 2009-01-28. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuzione, uso non commerciale, shre alike)]
-
-:::
-

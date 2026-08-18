@@ -109,14 +109,14 @@ status: stable
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. Για τον αλλαγή φωνήεντος του ā <!-- TODO: Fallback translation -->
+## 33.3. Για τον αλλαγή φωνήεντος του ā
 
 ā kann
 
 * από την μία πλευρά, βαθμός έκτασης μιας από τις σειρές ριζών με -a-
 * από την άλλη πλευρά, να είναι βαθμός έκτασης σε μια σειρά αντηχηίας της ομάδας -ā-
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 ::: grammar-box
 **Α.**
@@ -169,7 +169,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback tran
 | **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Οι ρίζες **⟪दा⟫** και **:sig[⟪धा⟫]** <!-- TODO: Fallback translation -->
+### 33.4.1. Οι ρίζες **⟪दा⟫** και **:sig[⟪धा⟫]**
 
 ::: grammar-box
 **Οι ρίζες ⟪दा⟫ και :sig[⟪धा⟫] διπλασιάζονται με το φθόγγο -a- και χάνουν τον φθόγγο της ρίζας στον αδύναμο λόγο.**
@@ -416,17 +416,3 @@ C) Μεταφράστε και μετατρέψτε προτάσεις στον 
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-::: deleteme-box
-
-**Ορισμός και λεπτομέρειες για το Ghee:**
-* Πηγή: http://en.wikipedia.org/wiki/Ghee (Πρόσβαση: 2008-12-26)
-
-**Κατάλογος εικόνων και άδειες:**
-* **Εικ. lekt3306 (γαμήλια τελετή, Τσεννάι):** Πηγή εικόνας: http://www.pbase.com/chandra/image/62118318 (Πρόσβαση στις 2008-12-27). Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike).
-* **Εικ. lekt3307 (φορέας Udaipur):** Πηγή εικόνας: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Πρόσβαση στις 2008-12-27). Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς τροποποιήσεις).
-* **Εικ. lekt3305 (Samadhi yogini, Kaveripakkam):** Πηγή εικόνας: Quadell / Wikipedia (GNU FDLicense).
-* **Εικ. lekt3304 (φορέας bhaya, Μουμπάι):** Πηγή εικόνας: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, Πρόσβαση στις 2008-12-26). Άδεια Creative Commons (Αναφορά).
-* **Εικ. lekt3303 (Hinayana Ταϊλάνδη):** Πηγή εικόνας: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Πρόσβαση στις 2008-12-26). Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση).
-* **Εικ. lekt3302 (Yajna, Ashram Shiva, Ganeshpuri):** Πηγή εικόνας: Dey (http://www.flickr.com/photos/dey/466758922/, Πρόσβαση στις 2008-12-26). Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, share alike).
-* **Εικ. lekt3308 (φορέας γυναίκας, Νέο Δελχί):** Πηγή εικόνας: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Πρόσβαση στις 2008-12-27). Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς τροποποιήσεις).
-:::

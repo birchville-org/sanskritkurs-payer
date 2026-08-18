@@ -1,11 +1,12 @@
 ---
-title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
+title: "Lecție 36"
+subtitle: "Formări speciale ale perfectului"
 lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+
+---
 
 # Lecția 36
 
@@ -20,7 +21,7 @@ Exemple:
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫**:sig[⟪गा⟫]**⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫**:sig[⟪घा⟫]**⟪न⟫ | ⟪ज⟫**:sig[⟪घ्नु⟫]**⟪र्⟫ | | | <!-- TODO: Fallback translation -->
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫**:sig[⟪घा⟫]**⟪न⟫ | ⟪ज⟫**:sig[⟪घ्नु⟫]**⟪र्⟫ | | |
 
 ::: grammar-box
 2\. Rădăcina ⟪विद्⟫ 2P "a ști" are un perfect cu sens prezentic.
@@ -58,32 +59,35 @@ Perfektul perifrastic (⟪अनुप्रयोगलिट्⟫) este folos
 ::: grammar-box
 **Formare:**
 
-timp prezent (slab) + -ām + forma corespunzătoare de perfect a lui ⟪कृ⟫, ⟪अस्⟫ sau ⟪भू⟫
+(slab) temă de prezent + -ām + forma corespunzătoare de perfect a ⟪कृ⟫, ⟪अस्⟫ sau ⟪भू⟫
 
-- Vocala finală a temei devine guṇa înainte de -ām.
-- ⟪अस्⟫ și ⟪भू⟫ sunt, de asemenea, conjugate la Parasmaipada pentru verbele Ātmanepada.
+Vocala finală a temei se guṇizează în fața lui -ām.
+⟪अस्⟫ și ⟪भू⟫ se conjugă, de asemenea, la Parasmaipada pentru verbele Ātmanepada.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Perfectul periphrastic provine probabil din acuzativul unui substantiv verbal în -ā. Acest acuzativ este folosit adverbial, așa cum se întâmplă adesea în alte contexte.
 
 Exemple:
 
-| Wurzel:br⟪धातु⟫ | Pers. 3 sg. Perf. P. | Pers. 3 pl. Perf. P. | Pers. 3 sg. Perf. Ā. | Pers. 3 pl. Perf. Ā. |
+| Rădăcină:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
-| ⟪बन्ध्⟫ :brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
+| ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां बभूव⟫** | **⟪ईक्षां चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां बभूवुर्⟫** |
+| ⟪बन्ध्⟫ :brCauzativ: ⟪बन्धय⟫-:br"a lega" | **⟪बन्धयां चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां बभूव⟫** | **⟪बन्धयां चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां बभूवुर्⟫** | | |
 
-## 36.3. Perfect Pasiv
+
+
+
+## 36.3. Perfectul Pasiv
 
 ::: grammar-box
-În Perfect, pentru Pasiv se folosesc formele Ātmanepadei. În contrast, se preferă utilizarea PPP. Construcția este în ambele cazuri cea a propozițiilor pasive:
+La perfect, pentru pasiv se folosesc formele Ātmanepada. În schimb, se preferă utilizarea PPP-ului (participiul trecut pasiv). Construcția este în ambele cazuri cea a propozițiilor passive:
 
 :::
 ::: indent
-⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = "El a făcut o faptă meritorie"
+⟪तेन पुण्यं चक्रे⟫ = ⟪तेन पुण्यं कृतम्⟫ = "El a făcut o lucrare demnă de laudă"
 :::
 ## 36.4. Listă de cuvinte
 
-⟪अह्⟫ P doar Perfect cu sens de Prezent ⟪आह⟫, ⟪आहुर्⟫ : a spune, a vorbi
+⟪अह्⟫ P doar perfect cu sens de prezent ⟪आह⟫, ⟪आहुर्⟫ : a spune, a vorbi
 
 ⟪अह्⟫ ⟪प्र⟫ P doar Perfect cu sens de Prezent ⟪प्राह⟫ : a spune, a vorbi
 
@@ -131,7 +135,7 @@ Inf. ⟪व्रजितुम्⟫
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3602))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
@@ -152,7 +156,7 @@ Fig.: ⟪अनगार्यम्⟫
 
 ⟪पृथिवी⟫ f.: pământ
 
-⟪पृष्ठ⟫ n: spate, parte din spate <!-- TODO: Fallback translation -->
+⟪पृष्ठ⟫ n: spate, parte din spate
 
 ::: indent
 ⟪पृष्ठम्⟫ : în spate
@@ -425,9 +429,9 @@ Explicații:
 
 ⟪ब्रह्म⟫ : Nom./Ac. sg. la ⟪ब्रह्मन्⟫ n. "Absolut, Veda"
 
-:sig[⟪सर्वे⟫] : Nom. pl. masc. la ⟪सर्व⟫ "toți, fiecare" <!-- TODO: Fallback translation -->
+:sig[⟪सर्वे⟫] : Nom. pl. masc. la ⟪सर्व⟫ "toți, fiecare"
 
-⟪त्रयस्⟫ : Nom. pl. masc. la ⟪त्रि⟫ "trei" <!-- TODO: Fallback translation -->
+⟪त्रयस्⟫ : Nom. pl. masc. la ⟪त्रि⟫ "trei"
 
 ⟪सर्वास्⟫ : Nom./Ac. pl. fem. la ⟪सर्व⟫ "toți, fiecare"
 :::
@@ -460,7 +464,7 @@ Explicații:
 
 În acest vers, ⟪ब्रू⟫ este construit cu genitivul
 
-⟪मेधावी⟫ : Nom. sg. masc. la ⟪मेधाविन्⟫ ⟪३⟫ "înțelept, isteț" <!-- TODO: Fallback translation -->
+⟪मेधावी⟫ : Nom. sg. masc. la ⟪मेधाविन्⟫ ⟪३⟫ "înțelept, isteț"
 
 ⟪जडवत्⟫ Adv. "În felul unui obtuz/întârziat/moș"
 :::
@@ -509,13 +513,3 @@ Determinați și traduceți următoarele forme de cuvânt în toate modurile pos
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Sursă imagine: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Accesat la  2008-12-28. --   Licență Creative Commons (Atribuire, utilizare non-comercială)]
-- **lekt3602.jpg**: Fig.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Sursă imagine: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accesat la  2008-12-28. --   Licență Creative Commons (Atribuire, similar cu anteriorul)]
-- **lekt3603.jpg**: Fig.: ⟪अनगार्यम्⟫ 	Nord-estul Thailandei = อีสาน 	[Sursă imagine: Midpath. -- 	 	http://www.flickr.com/photos/midpath/298555436/. -- Accesat la  	2008-12-28. --  	 	Licență Creative Commons (Atribuire, utilizare non-comercială, fără  	modificări)]
-- **lekt3604.jpg**: Fig.: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. păr corporal) [Sursă imagine: Socceraholic. --  http://www.flickr.com/photos/7amanito/2995353459/. -- Accesat la 2008-12-29.  --   Licență Creative Commons (Atribuire, utilizare non-comercială)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ Gandhara, sec. I/II d.Hr. [Sursă imagine: Wikipedia. Licență GNU FDL]
-- **lekt3606.jpg**: Fig.:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫ Mudrā [Sursă imagine: Payer]
-- **lekt3607.jpg**: Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [Sursă imagine: Dey. --  http://www.flickr.com/photos/dey/481184329/in/photostream/. -- Accesat la  2008-12-29. --   Licență Creative Commons (Atribuire, utilizare non-comercială, similar cu anteriorul)]
-:::

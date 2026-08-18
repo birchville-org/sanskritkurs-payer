@@ -1,266 +1,240 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: "Ders 47"
+subtitle: "Emir Kipi (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 47 <!-- TODO: Fallback translation -->
+---
 
-## 47.1. Der Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+# Ders 47
+
+## 47.1. Emir Kipi (⟪लोट्⟫)
 
 ::: grammar-box
-Der Imperativ (⟪लोट्⟫) bezeichnet <!-- TODO: Fallback translation -->
+Emir kipi (⟪लोट्⟫) şunları ifade eder:
 
-*   **Befehl** (wird auch durch das Gerundivum (⟪कृत्य⟫) ausgedrückt) <!-- TODO: Fallback translation -->
-*   **Vorschrift** <!-- TODO: Fallback translation -->
-*   **Forderung** <!-- TODO: Fallback translation -->
-*   **Wunsch** <!-- TODO: Fallback translation -->
-*   **Bitte** <!-- TODO: Fallback translation -->
-*   **Einladung** <!-- TODO: Fallback translation -->
-*   **Überlegung** <!-- TODO: Fallback translation -->
-*   **Frage** <!-- TODO: Fallback translation -->
+*   **Emir** (ayrıca Gerundivum (⟪कृत्य⟫) ile de ifade edilir)
+*   **Yönetmelik**
+*   **Talep**
+*   **Dilek**
+*   **İstek**
+*   **Davet**
+*   **Düşünce**
+*   **Soru**
 
-Die genannten Bedeutungen hat er mit dem Optativ (⟪विधिलिङ्⟫) gemeinsam. <!-- TODO: Fallback translation -->
+Belirtilen anlamlar, Optativ (⟪विधिलिङ्⟫) ile ortaktır.
 
-Mit dem Imperativ drückt man auch aus: <!-- TODO: Fallback translation -->
+Emir kipiyle ayrıca şunlar da ifade edilir:
 
-*   **Erlaubnis** <!-- TODO: Fallback translation -->
-*   **dass eine Handlung an der Zeit ist** (wird auch durch das Gerundivum (⟪कृत्य⟫) ausgedrückt) <!-- TODO: Fallback translation -->
-*   **Segenswunsch** <!-- TODO: Fallback translation -->
+*   **İzin**
+*   **Bir eylemin zamanının geldiği** (ayrıca Gerundivum (⟪कृत्य⟫) ile de ifade edilir)
+*   **Dua**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
 ::: indent
-⟪एहि⟫ ⟪।⟫ "Komm!" <!-- TODO: Fallback translation -->
+⟪एहि ।⟫ "Gel!"
 
-⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ oder Optativ : ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ "Kommen Sie zum Dorf!" <!-- TODO: Fallback translation -->
+⟪ग्रामं भवानागच्छतु ।⟫ veya Optativ : ⟪ग्रामं भवानगच्छेत् ।⟫ "Köye gelin!"
 
-⟪वेदमध्ययै⟫ ⟪।⟫ oder Optativ: ⟪वेदमधीयीय⟫ ⟪।⟫ "Ich möchte den Veda studieren." <!-- TODO: Fallback translation -->
+⟪वेदमध्ययै ।⟫ veya Optativ: ⟪वेदमधीयीय ।⟫ "Veda'yı okumak istiyorum."
 
-⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ oder Optativ:  ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ "Ich wünsche, sie mögen essen." <!-- TODO: Fallback translation -->
+⟪इच्छामि भुङ्क्तां भवान् ।⟫ veya Optativ:  ⟪इच्छामि भुञ्जीत भवान् ।⟫ "Yemelerini dilerim."
 
-⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ oder Optativ: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ "Sollte ich den Veda studieren?" <!-- TODO: Fallback translation -->
+⟪किं वेदमध्ययै ।⟫ veya Optativ: ⟪किं वेदमधीयीय ।⟫ "Veda'yı okumalı mıyım?"
 
-⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ oder Gerundiv: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ "Machen Sie ein Messer!" ; "Sie dürfen ein Messer machen." ; "Es ist an der Zeit, dass Sie ein Messer machen." <!-- TODO: Fallback translation -->
+⟪करोतु शस्त्रं भवान् ।⟫ veya Gerundiv: ⟪भवता शस्त्रं कर्तव्यम् ।⟫ "Bir bıçak yapın!" ; "Bir bıçak yapabilirsiniz." ; "Bir bıçak yapmanın zamanı geldi."
 
-⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "Lange mögen Sie leben!" <!-- TODO: Fallback translation -->
+⟪चिरं जीवतु भवान् ।⟫ "Uzun yaşayın!"
 :::
 ::: grammar-box
-Höfliche Befehle werden gerne durch Passiv-Imperative ausgedrückt. <!-- TODO: Fallback translation -->
+Nazik emirler genellikle Edilgen Emir kipleri ile ifade edilir.
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
 ::: indent
-⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "Treten Sie **bitte** ein!" <!-- TODO: Fallback translation -->
+⟪भवता प्रविश्यताम् ।⟫ "Lütfen **içeri** girin!"
 
-⟪निषद्यताम्⟫ ⟪।⟫ "Bitte, setzen Sie sich!" <!-- TODO: Fallback translation -->
+⟪निषद्यताम् ।⟫ "Lütfen oturun!"
 :::
-Im Imperativ des klassischen Sanskrit sind die Formen der 1. Personen alte Konjunktivformen. Der vedische Konjunktiv ist vor allem der Modus, der einen Wunsch ausdrückt: "Wir wollen gehen!" "Lasst uns gehen!" <!-- TODO: Fallback translation -->
+Klasik Sanskrit'teki Emir kipinde, 1. şahıs halleri eski Konjunktiv formlarıdır. Vedik Konjunktiv öncelikle bir dilek ifade eden kiptir: "Gidelim!" "Gitmeye ne dersiniz!"
 
 ::: grammar-box
-Der Imperativ wird vom Präsensstamm gebildet. <!-- TODO: Fallback translation -->
+Emir kipi, genişleme eki olarak çekimlenen fiil kökünden türetilir.
 :::
-## 47.2. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme <!-- TODO: Fallback translation -->
+## 47.2. İmperatif Oluşturması (⟪लोट्⟫) tematik genişleme eki kökleri
 
-### 47.2.1. Endungen des Imperativ an thematischen Präsensstämmen <!-- TODO: Fallback translation -->
+### 47.2.1. Tematik genişleme eki köklerine ait imparatorluk sonları
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **Endungen** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: |
+| **Sonlar** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Kişi** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **2. Kişi** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **3. Kişi** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
-Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll: <!-- TODO: Fallback translation -->
+Not: ¹ 2. ve 3. sg.P sonları, bir dilek ifadesi ifade etmek istendiğinde -tāt ile değiştirilebilir:
 
 ::: indent
-⟪भद्रो⟫ ⟪भवतात्⟫ "Mögest du glücklich sein!" "Er möge glücklich sein!" <!-- TODO: Fallback translation -->
+⟪भद्रो भवतात्⟫ "Mutlu ol!" "O mutlu olsun!"
 
-⟪शुभं⟫ ⟪भवतु⟫ oder ⟪शुभं⟫ ⟪भवतात्⟫ "Möge es gut sein!" "Alles Gute!" <!-- TODO: Fallback translation -->
+⟪शुभं भवतु⟫ veya ⟪शुभं भवतात्⟫ "İyi olsun!" "Her şey iyi olsun!"
 :::
-### 47.2.2. Erste Präsensklasse (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+### 47.2.2. Birinci genişleme sınıfı (⟪भ्वादि⟫)
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \<⟪भवै⟫\> | \<⟪भवामहै⟫\> | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: |
+| **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Kişi** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \&lt;⟪भवै⟫\&gt; | \&lt;⟪भवामहै⟫\&gt; |
+| **2. Kişi** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \&lt;⟪भवस्व⟫\&gt; | \&lt;⟪भवध्वम्⟫\&gt; |
+| **3. Kişi** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \&lt;⟪भ्वताम्⟫\&gt; | \&lt;⟪भवन्ताम्⟫\&gt; |
 :::
-### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫) <!-- TODO: Fallback translation -->
+### 47.2.3. Altıncı genişleme sınıfı (⟪तुदादि⟫)
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \<⟪विशै⟫\>:br(viś-a + ai) | \<⟪विशामहै⟫\> | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \<⟪विशस्व⟫\> | \<⟪विशध्वम्⟫\> | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \<⟪विशताम्⟫\> | \<⟪विशन्ताम्⟫\> | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: |
+| **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Kişi** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \&lt;⟪विशै⟫\&gt;:br(viś-a + ai) | \&lt;⟪विशामहै⟫\&gt; |
+| **2. Kişi** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \&lt;⟪विशस्व⟫\&gt; | \&lt;⟪विशध्वम्⟫\&gt; |
+| **3. Kişi** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \&lt;⟪विशताम्⟫\&gt; | \&lt;⟪विशन्ताम्⟫\&gt; |
 :::
 ::: media
 ![](/images/lekt4702.webp)
-Abb.: ⟪प्रविशत⟫
-Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
-(Bildquelle: [Details](/licenses#lekt4702)) <!-- TODO: Fallback translation -->
+Res.: ⟪प्रविशत⟫
+Hanuman Tempeli, Delhi = ⟪हनुमान् मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt4702))
 :::
-### 47.2.4. Vierte Präsensklasse (⟪दिवादि⟫) <!-- TODO: Fallback translation -->
+### 47.2.4. Dördüncü Şimdiki Zaman Sınıfı (⟪दिवादि⟫)
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \<⟪नृत्यै⟫\> | \<⟪नृत्यामहै⟫\> | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \<⟪नृत्यस्व⟫\> | \<⟪नृत्यध्वम्⟫\> | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \<⟪नृत्यताम्⟫\> | \<⟪नृत्यन्ताम्⟫\> | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Kişi** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \&lt;⟪नृत्यै⟫\&gt; | \&lt;⟪नृत्यामहै⟫\&gt; |
+| **2. Kişi** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \&lt;⟪नृत्यस्व⟫\&gt; | \&lt;⟪नृत्यध्वम्⟫\&gt; |
+| **3. Kişi** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \&lt;⟪नृत्यताम्⟫\&gt; | \&lt;⟪नृत्यन्ताम्⟫\&gt; |
 :::
 ::: media
 ![](/images/lekt4701.webp)
-Abb.: ⟪नृत्यत⟫
-(Bildquelle: [Details](/licenses#lekt4701)) <!-- TODO: Fallback translation -->
+Res.: ⟪नृत्यत⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt4701))
 :::
-### 47.2.5. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative <!-- TODO: Fallback translation -->
+### 47.2.5. Onuncu Şimdiki Zaman Sınıfı (⟪चुरादि⟫) ve Nedensel Çekimler
 
-⟪चुर्⟫ 10U <!-- TODO: Fallback translation -->
+⟪चुर्⟫ 10U
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Kişi** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
+| **2. Kişi** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
+| **3. Kişi** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::
-### 47.2.6. Passiv <!-- TODO: Fallback translation -->
+>> ### 47.2.6. Edilgen Çekim (Passive)
 
-⟪ईक्ष्⟫ 1Ā <!-- TODO: Fallback translation -->
+⟪ईक्ष्⟫ 1Ā
 
 ::: grammar-box
-| | ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Kişi** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
+| **2. Kişi** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
+| **3. Kişi** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Übung <!-- TODO: Fallback translation -->
+## 47.3. Alıştırma
 
-A) Übersetzen Sie: <!-- TODO: Fallback translation -->
+A) Çevirin:
 
-⟪यदि⟫ ⟪गच्छसि⟫ ⟪गच्छ⟫ ⟪त्वम्⟫ ⟪।⟫ ⟪अहं⟫ ⟪न⟫ ⟪गमिष्यामि⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
-
-⟪आर्य⟫ ⟪प्रेक्षस्व⟫ ⟪मे⟫ ⟪परिभवम्⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
-
-⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪यदि गच्छसि गच्छ त्वम् । अहं न गमिष्यामि ॥१॥ आर्य प्रेक्षस्व मे परिभवम् ॥२॥ भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥३॥⟫
 
 ::: media
 ![](/images/lekt4703.webp)
-Abb.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
-(Bildquelle: [Details](/licenses#lekt4703)) <!-- TODO: Fallback translation -->
+Resim: ⟪भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु⟫
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4703))
 :::
-⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
-
-⟪प्रसीदत्वार्यः⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
-
-⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥४॥ प्रसीदत्वार्यः ॥५॥ आर्ये स्वागतं ते ॥६॥⟫
 
 ::: media
 ![](/images/lekt4704.webp)
-Abb.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
-(Bildquelle: [Details](/licenses#lekt4704)) <!-- TODO: Fallback translation -->
+Resim: ⟪आर्ये स्वागतं ते⟫
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4704))
 :::
-⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪आज्ञापयत्वार्यः किं मया क्रियतामिति ॥७॥ युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥८॥ प्रश्नः⟫ : ⟪कस्मात्त्वं भीतः । प्रतिवचनम्⟫ : ⟪तस्य रामस्य गुणेभ्यः । प्रष्टा⟫ : ⟪के तस्य गुणा यस्य गृहं प्रविश्याशितव्यमपि नास्ति ॥९॥ तवैव हस्ते शस्त्रं तिष्ठतु ॥१०॥ भवति न ते परिभवस्तत्रभवतो रामस्य निवेदयितव्यः ॥११॥⟫
 
-⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+B.) Sanskritçe çevirin (emir kipi kullanın):
 
-⟪प्रश्नः⟫ : ⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
+1. Alınmak istiyorum.
 
-⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
+2. Memnun olsun.
 
-⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥११॥⟫ <!-- TODO: Fallback translation -->
+3. Çağırmak istiyoruz.
 
-B.) Übersetzen Sie ins Sanskrit (verwenden Sie den Imperativ): <!-- TODO: Fallback translation -->
+4. Sana (⟪चतुर्थ्या⟫) eğilmek istiyorum.
 
-1\. Ich will erhalten werden. <!-- TODO: Fallback translation -->
+5. Bu eylem yapılsın.
 
-2\. Er soll zufrieden sein. <!-- TODO: Fallback translation -->
+6. Uyuşunlar (edilgen yapı).
 
-3\. Wir wollen rufen. <!-- TODO: Fallback translation -->
+Oğlum zenginlik peşinde koşsun!
 
-4\. Ich will mich dir (⟪चतुर्थ्या⟫) beugen. <!-- TODO: Fallback translation -->
+Çalışmaya başlayın!
 
-5\. Diese Tat soll getan werden. <!-- TODO: Fallback translation -->
+(⟪प्र⟫-⟪यम्⟫) Atalara pirinç topları verin!
 
-6\. Sie sollen schlafen (Passivkonstruktion). <!-- TODO: Fallback translation -->
+Sevinç duysunlar!
 
-7\. Mein Sohn strebe nach Reichtum! <!-- TODO: Fallback translation -->
+Dünyaya bakmak istiyorum.
 
-8\. Beginnt das Studium! <!-- TODO: Fallback translation -->
+Benares'e gidelim (⟪पद्⟫).
 
-9\. Gebt (⟪प्र⟫-⟪यम्⟫) den Ahnvätern Reisbällchen! <!-- TODO: Fallback translation -->
+Onlar (çoğul) kurban sahipleri olarak tanrıları bir sunakla onurlandırsınlar.
 
-10\. Sie sollen sich freuen! <!-- TODO: Fallback translation -->
+14\. Bir övgü şiiri söyle!
 
-11\. Ich will auf die Welt hinabblicken. <!-- TODO: Fallback translation -->
+15\. Bana oğullar doğulsun!
 
-12\. Wir wollen nach Benares gehen (⟪पद्⟫). <!-- TODO: Fallback translation -->
+16\. Sana evimi göstereceğim.
 
-13\. Sie (pl.) sollen als Opferherren die Götter mit einem Opfer verehren. <!-- TODO: Fallback translation -->
+17\. Benden uzaklaş!
 
-14\. Singe ein Loblied! <!-- TODO: Fallback translation -->
+18\. O kurtarılsın!
 
-15\. Söhne sollen mir geboren werden! <!-- TODO: Fallback translation -->
+19\. Sen eşini koruyacağım.
 
-16\. Ich will dir mein Haus zeigen. <!-- TODO: Fallback translation -->
+20\. Ey düşman, öl!
 
-17\. Gehe von mir weg! <!-- TODO: Fallback translation -->
+21\. Savaşın!
 
-18\. Er soll befreit werden! <!-- TODO: Fallback translation -->
+22\. Onlar (çoğul) emretmek istesin.
 
-19\. Ich will deine Gattin behüten. <!-- TODO: Fallback translation -->
+23\. Senin evinde yaşamak istiyoruz.
 
-20\. Stirb, Feind! <!-- TODO: Fallback translation -->
+24\. Böyle olsun!
 
-21\. Kämpft! <!-- TODO: Fallback translation -->
+25\. Atı vur!
 
-22\. Sie (pl.) mögen befehlen. <!-- TODO: Fallback translation -->
+26\. Onlar (çoğul) dolaşsın.
 
-23\. Wir wollen in deinem Haus wohnen. <!-- TODO: Fallback translation -->
+27\. Kendinizi sarhoş edin!
 
-24\. So soll es geschehen! <!-- TODO: Fallback translation -->
+28\. Yükü çekmek için at olsun.
 
-25\. Schlage das Pferd! <!-- TODO: Fallback translation -->
+29\. Dünyaları düzenlemek istiyoruz.
 
-26\. Sie (pl.) sollen umherirren. <!-- TODO: Fallback translation -->
+30\. İksiri iç!
 
-27\. Berauscht euch! <!-- TODO: Fallback translation -->
+31\. Düşün!
 
-28\. Das Pferd soll die Last ziehen. <!-- TODO: Fallback translation -->
+32\. Onlar (çoğul) yenilgiye uğratsın!
 
-29\. Wir wollen die Welten in Ordnung bringen. <!-- TODO: Fallback translation -->
+33\. Senin tarafından kılınmak istiyoruz.
 
-30\. Trinke den Trank! <!-- TODO: Fallback translation -->
+34\. Bereket olsun! (Dilek)
 
-31\. Denke! <!-- TODO: Fallback translation -->
-
-32\. Sie (pl.) sollen besiegt werden! <!-- TODO: Fallback translation -->
-
-33\. Wir wollen von dir geführt werden. <!-- TODO: Fallback translation -->
-
-34\. Es möge zum Glück gereichen (geschehen)! (Segenswunsch) <!-- TODO: Fallback translation -->
-
-::: deleteme-box
-
-**lekt4702:** Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Bildquelle: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Zugriff am 2009-01-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt4701:** [Bildquelle: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Zugriff am 2009-01-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt4703:** [Bildquelle: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
-
-**lekt4704:** [Bildquelle: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-:::

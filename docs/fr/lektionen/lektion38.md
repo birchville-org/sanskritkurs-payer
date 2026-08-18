@@ -9,7 +9,7 @@ status: stable
 
 # Leçon 38
 
-## 38.1. Losung der Woche <!-- TODO: Fallback translation -->
+## 38.1. Losung der Woche
 
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ sur l’urination correcte :
 
@@ -212,7 +212,7 @@ Exemple :
 
 ⟪सत्यवादिन्⟫ de ⟪सत्यवाद⟫ m. "parole de vérité" : "celui qui est marqué par la parole de vérité = celui qui dit toujours la vérité"
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫ <!-- TODO: Fallback translation -->
+## 38.5. Syntaktisches zu ⟪नामन्⟫
 
 ::: grammar-box
 Pour exprimer « quelqu’un nommé N. N. », on construit :
@@ -587,20 +587,3 @@ Explications :
 
 :sig[⟪यूयम्⟫] Gen.pl. de ⟪युष्माकम्⟫
 
-::: deleteme-box
-
-- **lekt3801.jpg** : Fig. : ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Source de l'image : mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Consulté le 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale)\]
-- **lekt3802.jpg** : Fig. : ⟪मेहतः⟫  ⟪सूर्यः⟫ ⟪सूर्य⟫, Konark = ⟪मंदिर⟫ \[Source de l'image : PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Consulté le 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale)\]
-- **lekt3803.jpg** : Fig. : ⟪कोनार्क⟫  Point de passage entre l'Inde et le Pakistan à Wagah (⟪सीमा⟫ / واہگہ / ਵਾਘਾ) \[Source de l'image : Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Consulté le 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)\]
-- **lekt3804.jpg** : Fig. : ⟪वाघा⟫ ⟪गौतमबुद्धस्य⟫  Gandhara, 2e/3e siècle apr. J.-C. \[Source de l'image : Wikipedia. Domaine public\]
-- **lekt3805.jpg** : Fig. : ⟪उदकम्⟫  Village de Darewadi, district d'Ahmed Nagar = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Source de l'image : Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)\]
-- **lekt3805.jpg** : Fig. : ⟪महापरिनिर्वाणम्⟫  Village de Darewadi, district d'Ahmed Nagar = ⟪उदकम्⟫, ⟪अहमदनगर⟫ \[Source de l'image : Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)\]
-- **lekt3807.jpg** : Fig. : ⟪हस्ती⟫  ⟪हस्तवान्⟫ \[Source de l'image : brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de modification)\]
-- **lekt3808.jpg** : Fig. : ⟪जयपुर⟫ ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫  Années 1930 \[Source de l'image : Wikipedia. Domaine public\]
-- **lekt3809.jpg** : Fig. : ⟪नाम⟫  Halebidu = ಹಳೆಬೀಡು \[Source de l'image : Wikipedia. Licence GNU FDL\]
-- **lekt3812.jpg** : Fig. : ⟪ब्रह्मा⟫  Jeu de carrom \[Source de l'image : nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)\]
-- **lekt3810.jpg** : Fig. : Arbre d'Aśoka = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাত⟪ा⟫ \[Source de l'image : J.M.Garg / Wikipedia. Licence GNU FDL\]
-- **lekt3813.jpg** : Fig. : ⟪विनोदः⟫ ⟪वाराणस्यां⟫ \[Source de l'image : nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale)\]
-- **lekt3814.jpg** : Fig. : ⟪गङ्गातीरे⟫ ⟪गणयां⟫  ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫, ⟪मंदिर⟫ \[Source de l'image : neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de modification)\]
-- **lekt3811.jpg** : Fig. : Plus grande extension de l'empire d'Aśoka ainsi que lieux de découverte de ses édits sur pierre et sur colonne \[Source de l'image : Wikipedia.Licence GNU FDL\]
-:::

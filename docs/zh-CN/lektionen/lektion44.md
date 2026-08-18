@@ -339,11 +339,6 @@ PPP ⟪रब्ध⟫
 
 ⟪प्रव्रज्या⟫ 阴性名词（源自 ⟪प्र⟫-⟪व्रज्⟫）：离开家庭走向无家可归的状态；成为佛教沙弥的仪式（巴利语：⟪पब्बजा⟫）
 
-::: deleteme-box
-参见：
-
-**Payer, Alois (1944–)：**《Vinayamukha：上座部佛教戒律与僧团法的基本概念》。-- 第一部分。-- （佛教基本概念资料）。-- _网址_：[http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 图：⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
@@ -460,26 +455,3 @@ B) 请翻译：
 39. ⟪कैः⟫
 40. ⟪कृत्येन⟫
 
-
-::: deleteme-box
-
-**lekt4301.jpg**：详见 licenses.md
-
-**lekt4401.jpg**：未在文本中找到特定许可/图片来源
-
-**lekt4402.jpg**：Henri Gerbault（1863 - 1930）的绘图（公有领域）
-
-**lekt4403.jpg**：danielguip。-- http://www.flickr.com/photos/danielguip/118349247/。-- 访问日期：2009-01-08。-- Creative Commons 许可协议（署名，非商业性使用，禁止演绎）
-
-**lekt4404.jpg**：Gurumustuk Singh。-- http://www.flickr.com/photos/mrsikhnet/218757195/。-- 访问日期：2009-01-08。-- Creative Commons 许可协议（署名，非商业性使用，相同方式共享）
-
-**lekt4405.jpg**：mattlogelin。-- http://www.flickr.com/photos/mattlogelin/377335641/。-- 访问日期：2009-01-08。-- Creative Commons 许可协议（署名，非商业性使用）
-
-**lekt4406.jpg**：Amre Ghiba。-- http://www.flickr.com/photos/amre/1476216243/。-- 访问日期：2009-01-08。-- Creative Commons 许可协议（署名，非商业性使用）
-
-**lekt4407.jpg**：MalayalaM。-- http://www.flickr.com/photos/malayalam/35026906/。-- 访问日期：2009-01-08。-- Creative Commons 许可协议（署名，非商业性使用，相同方式共享）
-
-**lekt4408.jpg**：Midpath。-- http://www.flickr.com/photos/midpath/342678518/。-- 访问日期：2009-01-08。-- Creative Commons 许可协议（署名，非商业性使用，禁止演绎）
-
-**lekt4409.jpg**：bartpogoda。-- http://www.flickr.com/photos/bartpogoda/2068996900/。-- 访问日期：2009-01-08。-- Creative Commons 许可协议（署名，非商业性使用，禁止演绎）
-:::

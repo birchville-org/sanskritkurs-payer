@@ -1,17 +1,18 @@
 ---
-title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+title: "Lezione 39"
+subtitle: 'Le desinenze personali della prima persona (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**terza** persona\")'
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lezione 39
 
-## 39.1. Le desinenze della prima persona (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**terza** persona")
+## 39.1. Le desinenze personali della prima persona (:sig[तृतीयः] ⟪पुरुषः⟫ = "**terza** persona")
 
-Le desinenze della prima persona (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**terza** persona") sono:
+Le desinenze della prima persona (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**terza** persona") sono:
 
 ::: grammar-box
 
@@ -26,15 +27,15 @@ Le desinenze della prima persona (**:sig[⟪तृतीयः⟫]** ⟪पु�
 | **Desinenza perfettiva** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
-1 Nota: in realtà la desinenza primaria dei temi ā è anch'essa da ricostruire come -e, davanti alla quale la vocale tematica -a- cade per motivi analogici. L'effetto è però come se la desinenza -i si unisse alla vocale tematica -a-: a + i » e.
+¹ Nota: in realtà la desinenza primaria Ā dei temi tematici dovrebbe essere stabilita anche come -e, davanti alla quale la vocale tematica -a- cade per motivi di analogia. L'effetto è però come se la desinenza -i si unisse alla vocale tematica -a-: a + i » e.
 
-## 39.2. Formazione delle forme verbali della prima persona dei temi di presente tematico
+## 39.2. Formazione delle forme verbali della prima persona dei temi di presente tematici
 
 ::: grammar-box
 **Regola:**
-**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Prima di -mi, -mas, -ma, -mahe, -mahi la vocale tematica -a- viene sostituita da -ā- !!!**
 :::
-### 39.2.1. Prima classe del presente (⟪भ्वादि⟫) &lt;!-- TODO: Fallback translation --&gt;
+### 39.2.1. Prima classe di presente (⟪भ्वादि⟫)
 
 ⟪भू⟫ 1P
 
@@ -45,7 +46,7 @@ Le desinenze della prima persona (**:sig[⟪तृतीयः⟫]** ⟪पु�
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indicativo Presente - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\&lt;⟪भवे⟫\&gt;** :brbhava + i:brrichtig: bhav-e | **\&lt;⟪भवामहे⟫\&gt;** |
 | **Imperfetto - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\&lt;⟪अभवे⟫\&gt;** | **\&lt;⟪अभवामहि⟫\&gt;** |
-| **Optativo - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
+| **Ottativo - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. Sesta classe del presente (⟪तुदादि⟫)
@@ -98,19 +99,19 @@ Le desinenze della prima persona (**:sig[⟪तृतीयः⟫]** ⟪पु�
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: |
-| **Indicativo Presente - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
-| **Imperfetto - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
-| **Ottativo - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
+| **Indicativo Presente  - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
+| **Imperfetto  - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
+| **Ottativo  - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Formazione delle forme verbali della prima persona del futuro semplice - ⟪ऌत्⟫
+## 39.3. Formazione delle forme verbali della prima persona del futuro semplice  - ⟪ऌत्⟫
 
 ::: grammar-box
 **Il futuro ha una formazione tematica. Pertanto, vale anche la regola per le radici tematiche:**
 
-**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Prima di -mi, -mas, -mahe la vocale tematica -a- viene sostituita da -ā- !!!**
 :::
-### 39.3.1. Formazione di ⟪अनिट्⟫ &lt;!-- TODO: Fallback translation --&gt;
+### 39.3.1. Formazione ⟪अनिट्⟫
 
 ⟪दा⟫ 3U
 
@@ -119,10 +120,10 @@ Le desinenze della prima persona (**:sig[⟪तृतीयः⟫]** ⟪पु�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Futuro - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
+| **Futuro  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. Formazione di ⟪सेट्⟫
+### 39.3.2. Formazione ⟪सेट्⟫
 
 ⟪भू⟫ 1P
 
@@ -131,16 +132,18 @@ Le desinenze della prima persona (**:sig[⟪तृतीयः⟫]** ⟪पु�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Futuro - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
+| **Futuro  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
 
 :::
-## 39.4. Formazione delle forme verbali della prima persona dei temi di presente atematici
+## 39.4. Formazione delle forme verbali della prima persona di radici presentali atematiche
 
 ::: grammar-box
-**Si noti che all'interno della parola — a differenza del sandhi di frase — le consonanti rimangono invariante di fronte alle desinenze che iniziano con**
+**Si noti che all'interno della parola - a differenza del Sandhi di frase - prima delle desinenze che iniziano con**
 * **vocale**
 * **semivocale**
 * **nasale**
+
+**le consonanti di solito rimangono invariate.**
 
 **iniziare, le consonanti di solito rimangono invariate.**
 

@@ -1,10 +1,11 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "Pelajaran 49"
+subtitle: "Pembentukan Imperatif (⟪लोट्⟫) pada stem presentum athematic (lanjutan)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 49
@@ -93,7 +94,7 @@ Imperatif 2.sg.P berakhiran nol untuk akar kelas ke-5 dan ke-8, di mana hanya ko
 | **3. Person** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 :::
 ::: grammar-box
-Akar kelas 9 yang berakhir dengan konsonan mengganti akhir -nī-hi Imperatif ke-2.sg. dengan -āna
+Akar kelas 9 yang berakhir dengan konsonan, mengganti -nī-hi akhir dari Imperatif 2.sg. kelas 2 dengan -āna
 :::
 ⟪ग्रह्⟫ 9U
 
@@ -101,16 +102,16 @@ Akar kelas 9 yang berakhir dengan konsonan mengganti akhir -nī-hi Imperatif ke-
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | **:sig[⟪गृहाण⟫]** | ⟪गृह्णीत⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
+| **Orang ke-1** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
+| **Orang ke-2** :br⟪मध्यमः⟫ | :sig[⟪गृहाण⟫] | ⟪गृह्णीत⟫ |
+| **Orang ke-3** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
 :::
-## 49.2. Deklination  Nominalstämme auf -as, -is, -us
+## 49.2. Deklinasi Stamm Nomina Berakhiran -as, -is, -us
 
-#### Neutra (⟪नपुंसक⟫)
+#### Neutrum (⟪नपुंसक⟫)
 
 ::: grammar-box
-| | **⟪मनस्⟫ n.** :br"Gedanke" | **⟪हविस्⟫ n.** :br"Opferspende" | **⟪चक्षुस्⟫ n.** :br"Auge" |
+| | **⟪मनस्⟫ n.** :br"Pikiran" | **⟪हविस्⟫ n.** :br"Sesajen" | **⟪चक्षुस्⟫ n.** :br"Mata" |
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪मनस्⟫ | ⟪हविस्⟫ | ⟪चक्षुस्⟫ |
@@ -127,9 +128,9 @@ Akar kelas 9 yang berakhir dengan konsonan mengganti akhir -nī-hi Imperatif ke-
 | ⟪षष्ठी⟫ | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
 :::
-#### Maskulina (⟪पुंस्⟫) dan Feminina (⟪स्त्री⟫)
+#### Maskulin (⟪पुंस्⟫) dan Feminin (⟪स्त्री⟫)
 
-Sebagian besar kasus adalah **⟪बहुव्रीहि⟫** dengan akhiran -s (asalnya netral) pada anggota kedua.
+Sebagian besar kasus adalah ⟪बहुव्रीहि⟫ dengan Stamm -s (asalnya Neutrum) di komponen kedua.
 
 ::: grammar-box
 | | **⟪सुमनस्⟫ 3** :br"von gutem Denken, wohlwollend | **⟪दीर्घायुस्⟫ 3** :br"langlebig" |
@@ -370,27 +371,5 @@ Pertanyaan Raja ⟪शूद्रक⟫ dari ⟪विदिशा⟫ kepada Bu
 Fig.: ⟪शुकः⟫
 Plum-headed parakeet = Psittacula cyanocephala
 (Image source: [Detail](/en/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Image source: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
-**lekt4901:** [Image source: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribution, no derivatives)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, 11th cent. [Image source: Vassil / Wikipedia. Public domain]
-
-**lekt4903:** [Image source: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Image source: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
-**lekt4909:** Peramal dengan burung beo dalam sangkar: burung beo mengundi kertas-kertas tempat takdir tertulis Mysore [Sumber gambar: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Diakses pada 2009-01-12. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribusi)]
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Image source: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt4906:** Sri Lanka [Image source: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
-
-**lekt4908:** Plum-headed parakeet _= Psittacula cyanocephala_[Image source: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
 :::
 

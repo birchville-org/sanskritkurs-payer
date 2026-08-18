@@ -210,7 +210,7 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913) : Syntaxe sanskrite. -- Leyde : Br
 Fig. : ⟪अलं⟫  ⟪विषादेन⟫
 (Source de l’image : [Détails](/fr/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
+## 56.4. ⟪स्म⟫
 
 ::: grammar-box
 **⟪स्म⟫ souligne : « véritablement, certes, assurément, précisément »**
@@ -308,12 +308,3 @@ A) Déterminez et traduisez sans outils auxiliaires (!) les formes suivantes :
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** Professeur de linguistique comparée, Université d'Erlangen-Nuremberg (1955 - 1983) [Source de l'image : [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Consulté le 2009-02-27]
-
-**lekt5602:** Affiche (Ernesto Che Guevara) d'un parti politique à Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). "La traduction approximative de ce qui est écrit dessus serait : Le martyre est une expérience fascinante pour un révolutionnaire. Et une ressource intimidante pour un lâche. Che n'est pas un modèle à suivre pour les lâches." [Source de l'image : Hari\_Menon. -- [http://www.flickr.com/photos/me\_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Consulté le 2009-02-27. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, pas d'utilisation commerciale, partage à l'identique)]
-
-**lekt5603:** [Source de l'image : Banque mondiale / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Consulté le 2009-02-27. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de modification)]
-
-:::

@@ -116,7 +116,7 @@ Traditionem distinguunt:
 
 ⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "qui / quae / quod, cuius finis hic est" = "ita finiens"
 :::
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
 **Maximi momenti sunt appositionalia Bahuvrīhi cum finibus ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "primus, initium", rarius ⟪प्रभृति⟫ "initium". Talia composita respondent "et cetera":**
 
@@ -214,7 +214,7 @@ Madhya Pradesh
 *   **-ī-stemmas (f.) debent in fine Bahuvrīhionum suffixum -ka, -kā, -ka (n.) assumere; hoc suffixum etiam multae aliae Bahuvrīhiones possunt vel debent assumere**
 
 :::
-## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis <!-- TODO: Fallback translation -->
+## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
 
 Exempla hic data sunt ad postmodum exercitanda; quibusdam nondum necessaria grammatica et vocabula tractata sunt.
 
@@ -272,7 +272,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Haec pars est Ashram in Rishikesh ubi Bea
 
 ⟪क्रिया⟫ f.: actio, actio sacra, sacrificium, caerimonia (ad ⟪कृ⟫ 8)
 
-⟪अधि⟫ Praeverbium: super, super, ex, cum relatione ad <!-- TODO: Fallback translation -->
+⟪अधि⟫ Praeverbium: super, super, ex, cum relatione ad
 
 ⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : occur, reach, attain
 
@@ -300,7 +300,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Haec pars est Ashram in Rishikesh ubi Bea
 
 ⟪अपवर्ग⟫ m.: finis, liberatio
 
-⟪नि⟫ Praeverbium: deorsum, sursum, introrsum, retrorsum <!-- TODO: Fallback translation -->
+⟪नि⟫ Praeverbium: deorsum, sursum, introrsum, retrorsum
 
 ⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : reverttere, redeas
 
@@ -332,7 +332,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Haec pars est Ashram in Rishikesh ubi Bea
 
 ⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : flectere
 
-⟪उद्⟫ Praeverbium: sursum, deorsum, foras, e, ex- <!-- TODO: Fallback translation -->
+⟪उद्⟫ Praeverbium: sursum, deorsum, foras, e, ex-
 
 ⟪नाभि⟫ f.: umbilicus
 
@@ -470,7 +470,7 @@ B) Versa in Sanscritum per composita:
 
 2\. Kālidāsa et reliqui poetae sunt magistri in Sanscrito.
 
-3\. Kṣatriya vitam suum armis sustentat. <!-- TODO: Fallback translation -->
+3\. Kṣatriya vitam suum armis sustentat.
 
 4\. Etiam mulieres Śūdrae, ut Dharma, habent non-violentiam, veritatem, puritatem, non-murmurationem, non-malitiam et patientiam.
 
@@ -555,7 +555,7 @@ Fig.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt2003))
 :::
-Aliud quoddam ⟪सुभाषितम्⟫ : <!-- TODO: Fallback translation -->
+Aliud quoddam ⟪सुभाषितम्⟫ :
 
 ::: indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
@@ -564,27 +564,5 @@ Aliud quoddam ⟪सुभाषितम्⟫ : <!-- TODO: Fallback translatio
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
 Explicatio: ⟪इच्छताम्⟫ = gen. Pl. Part. Praes. P a ⟪इष्⟫ : optantis
-:::
-::: deleteme-box
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Cambodia, 9th century AD. [Image source: Wikipedia, Public domain]
-
-**lekt2002:** [Imago fons: Contributiones ad litteraturam scientiamque spiritus Indiae. -- Bonn, 1926]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Imago fons Wikipedia, Dominium publicum] <!-- TODO: Fallback translation -->
-
-**lekt2004:** Iodupur = ⟪जोधपुर⟫ [Imago a Iared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Accessus die 2008-12-11. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt2005:** Iesus et ceteri dii, Ahmedabad [fons imaginis: a ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Accessus die 2008-12-11. -- Licentia Creative Commons (attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt2006:** Madhya Pradesh [Imago a dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Accessus 2008-12-11. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt2007:** Chennai = சென்னை [fons imaginis: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- accessus 2008-12-11. -- Licentia Creative Commons (attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "Hoc revera pars est Ashram in Rishikesh ubi Beatnes manserunt. Haec pars specifica non erat ibi cum illi essent, sed tamen pulchra videtur." [Fons imaginis: ab ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Accessus die 2008-12-11. -- Licentia Creative Commons (Attributio)]
-
-**lekt2009:** Karnataka [Imago a Matt Logelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Accessus 2008-12-11. -- Licentia Creative Commons (Attributio, usus non commercialis)]
-
-**lekt2010:** Buddha uti asceta ante suam redemptionis intuitionem, Gandhara, saeculum II/III. [Fontes imagines: Wikipedia, Licentia Publica GNU]
 :::
 

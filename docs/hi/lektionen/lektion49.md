@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # पाठ 49
 
@@ -370,27 +370,5 @@ PPP ⟪⟪ध्यात⟫⟫
 अभ.: ⟪⟪शुकः⟫⟫
 ब्लूहेड पैराकेट = Psittacula cyanocephala
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [चित्र स्रोत: रगेश वसुदेवन. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- 10 जनवरी 2009 को प्राप्त. -- [क्रीएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (नाम उल्लेख, गैर-वाणिज्यिक उपयोग, समान-साझा)]
-
-**lekt4901:** [चित्र स्रोत: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- 2009-01-11 को प्राप्त। -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (नाम उल्लेख, कोई संशोधन नहीं)]
-
-**lekt4902:** ⟪⟪शिवो⟫⟫ ⟪⟪नटराजा⟫⟫, 11वीं शताब्दी [चित्र स्रोत: Vassil / Wikipedia. सार्वजनिक क्षेत्र]
-
-**lekt4903:** [चित्र स्रोत: तोजी लेओन। -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/)। -- 11 जनवरी 2009 को प्राप्त। -- [क्रीएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (नाम देना, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
-
-**lekt4904:** ⟪⟪वाराणस्याम्⟫⟫ [चित्र स्रोत: पाजामा। -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/)। -- 11 जनवरी 2009 को प्राप्त। -- [रचनात्मक सामान्य लाइसेंस](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (नाम उल्लेख, कोई वाणिज्यिक उपयोग नहीं, समान-साझा)]
-
-**lekt4909:** पिंजरे में तोते के साथ भविष्यवक्ता: तोता चिट्ठियाँ निकालता है, जिनपर भाग्य लिखा होता है। मयूर [चित्र स्रोत: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- 2009-01-12 को पहुँचा गया। -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by/2.0/deed.de) (नाम उल्लेख)]
-
-**lekt4905:** अमृतसर = ਅੰਮ੍ਰਿਤਸਰ [चित्र स्रोत: कोश्यक. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- 11 जनवरी 2009 को प्राप्त. -- [रचनात्मक सामान्य लाइसेंस](http://creativecommons.org/licenses/by/2.0/deed.de) (नाम उल्लेख)]
-
-**lekt4906:** श्रीलंका [चित्र स्रोत: कार्मेलो अक्विना। -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/)। -- 11 जनवरी 2009 को प्राप्त। -- [क्रीएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (नाम उल्लेख, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
-
-**lekt4908:** प्लमहेड सित्तिक = Psittacula cyanocephala[चित्रस्रोत: कैंडल ट्री. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- 2009-01-12 को पहुँचा गया. -- [क्रीएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (नाम उल्लेख, कोई वाणिज्यिक उपयोग नहीं, शेयर अलाइक)]
-
 :::
 

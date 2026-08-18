@@ -1,10 +1,11 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: "Pelajaran 45"
+subtitle: "Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) dari akar non-atmatik yang tidak berakhiran vokal (lanjutan)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 45
@@ -145,12 +146,5 @@ B) Translate:
 ![](/images/lekt4502.jpg)
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Image source: [Detail](/en/licenses#lekt4502))
-:::
-
-::: deleteme-box
-
-**lekt4501.jpg**: Textile block print, Ahmedabad. -- Image source: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, non-commercial use, share alike)
-
-**lekt4502.jpg**: Image source: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, non-commercial use, no derivatives)
 :::
 

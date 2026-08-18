@@ -5,230 +5,222 @@ lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 3 <!-- TODO: Fallback translation -->
+# Lektion 3
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- den Nominativ Singular des Femininums <!-- TODO: Fallback translation -->
-- den Nominativ Plural des Maskulinums und Femininums <!-- TODO: Fallback translation -->
-- die Bildung des Femininums zu Maskulina <!-- TODO: Fallback translation -->
-- Vokalsandhi <!-- TODO: Fallback translation -->
-- Satzsandhi von -ās <!-- TODO: Fallback translation -->
-:::
-## 3.1. Nominativ Singular des Femininums <!-- TODO: Fallback translation -->
+## 3.1. Nominativ Singular des Femininums
 
-### 3.1.1. Nominativ Singular auf -s <!-- TODO: Fallback translation -->
+### 3.1.1. Nominativ Singular auf -s
 
-Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**: <!-- TODO: Fallback translation -->
+Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
 
 ::: grammar-box
-- **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫ <!-- TODO: Fallback translation -->
+- **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
+- **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativ Singular ohne Endung <!-- TODO: Fallback translation -->
+### 3.1.2. Nominativ Singular ohne Endung
 
-Den Nominativ Singular bilden ohne Endung: <!-- TODO: Fallback translation -->
+Den Nominativ Singular bilden ohne Endung:
 
 ::: grammar-box
-- **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = ⟪देवता⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = ⟪देवी⟫ <!-- TODO: Fallback translation -->
+- **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = ⟪देवता⟫
+- **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
 ::: important
-**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Auch lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "Boot" und tantrī (⟪तन्त्री⟫) f. "Saite" bilden unregelmässig den Nominativ Singular auf -s: lakṣmīs = ⟪लक्ष्मीस्⟫. <!-- TODO: Fallback translation -->
+**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Auch lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "Boot" und tantrī (⟪तन्त्री⟫) f. "Saite" bilden unregelmässig den Nominativ Singular auf -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
-## 3.2. Bildung der Feminina zu Maskulina <!-- TODO: Fallback translation -->
+## 3.2. Bildung der Feminina zu Maskulina
 
 ::: grammar-box
-**Maskulina auf -a:** <!-- TODO: Fallback translation -->
-- **Femininum auf -ā**: z.B. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriyafrau" = ⟪क्षत्रिया⟫ <!-- TODO: Fallback translation -->
-- **Femininum auf -ī**: z.B. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫ <!-- TODO: Fallback translation -->
+**Maskulina auf -a:**
+- **Femininum auf -ā**: z.B. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriyafrau" = ⟪क्षत्रिया⟫
+- **Femininum auf -ī**: z.B. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫
 
-**Maskulina auf -u:** <!-- TODO: Fallback translation -->
-- **Femininum auf -ī**: z.B. **sādhu** m. » **sādhvī** f. (gut, Heilige) = ⟪साध्वी⟫ <!-- TODO: Fallback translation -->
-  (**-u-** wird vor Vokal zu **-v-**, daher **-u- + -ī** » **-vī**) <!-- TODO: Fallback translation -->
+**Maskulina auf -u:**
+- **Femininum auf -ī**: z.B. **sādhu** m. » **sādhvī** f. (gut, Heilige) = ⟪साध्वी⟫
+  (**-u-** wird vor Vokal zu **-v-**, daher **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativ Plural Maskulinum und Femininum <!-- TODO: Fallback translation -->
+## 3.3. Nominativ Plural Maskulinum und Femininum
 
 ::: grammar-box
-Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**. <!-- TODO: Fallback translation -->
-- **Maskulina auf -a**: **deva- + -as** » **devās** = ⟪देवास्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫ <!-- TODO: Fallback translation -->
-- **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫ <!-- TODO: Fallback translation -->
-- **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫ <!-- TODO: Fallback translation -->
+Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**.
+- **Maskulina auf -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+- **Feminina auf -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+- **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+- **Feminina auf -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+- **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+- **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
-Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**. <!-- TODO: Fallback translation -->
+Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**.
 
-## 3.4. Vokalsandhi <!-- TODO: Fallback translation -->
+## 3.4. Vokalsandhi
 
 ::: grammar-box
-**Einfache Vokale, die sich nicht oder nur in ihrer Länge unterscheiden, "verschmelzen" zum entsprechenden langen Vokal:** <!-- TODO: Fallback translation -->
-- -a / -ā + a- / ā- » **-ā-** <!-- TODO: Fallback translation -->
-- -i / -ī + i- / ī- » **-ī-** <!-- TODO: Fallback translation -->
-- -u / -ū + u- / ū- » **-ū-** <!-- TODO: Fallback translation -->
-- (-ṛ + ṛ- » **-ṝ-**) <!-- TODO: Fallback translation -->
+**Einfache Vokale, die sich nicht oder nur in ihrer Länge unterscheiden, "verschmelzen" zum entsprechenden langen Vokal:**
+- -a / -ā + a- / ā- » **-ā-**
+- -i / -ī + i- / ī- » **-ī-**
+- -u / -ū + u- / ū- » **-ū-**
+- (-ṛ + ṛ- » **-ṝ-**)
 :::
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.) <!-- TODO: Fallback translation -->
+> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪देवीन्द्राणी⟫ <!-- TODO: Fallback translation -->
+devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī ist die Gattin des Gottes Indra.) <!-- TODO: Fallback translation -->
+> (Indrāṇī ist die Gattin des Gottes Indra.)
 
 ::: media
 ![](/images/lekt0301.webp)
 Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80
-(Bildquelle: [Details](/licenses#lekt0301)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt0301))
 :::
 
 ::: grammar-box
-**Einfache Vokale (ausser -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:** <!-- TODO: Fallback translation -->
-- -i / -ī » **-y-** <!-- TODO: Fallback translation -->
-- -u / -ū » **-v-** <!-- TODO: Fallback translation -->
-- -ṛ » **-r-** <!-- TODO: Fallback translation -->
-(!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!) <!-- TODO: Fallback translation -->
+**Einfache Vokale (ausser -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:**
+- -i / -ī » **-y-**
+- -u / -ū » **-v-**
+- -ṛ » **-r-**
+(!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!)
 :::
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 
-devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫ <!-- TODO: Fallback translation -->
+devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫
 
-> (Umā ist ein Name für Pārvatī, die Gattin Śivas) <!-- TODO: Fallback translation -->
+> (Umā ist ein Name für Pārvatī, die Gattin Śivas)
 
 ::: grammar-box
-**-a / -ā vor unähnlichem Vokal:** <!-- TODO: Fallback translation -->
-- -a / -ā + i- / ī- » **-e-** <!-- TODO: Fallback translation -->
-- -a / -ā + ṛ- » **-ar-** <!-- TODO: Fallback translation -->
-- -a / -ā + e- / ai- » **-ai-** <!-- TODO: Fallback translation -->
-- -a / -ā + o- / au- » **-au-** <!-- TODO: Fallback translation -->
+**-a / -ā vor unähnlichem Vokal:**
+- -a / -ā + i- / ī- » **-e-**
+- -a / -ā + ṛ- » **-ar-**
+- -a / -ā + e- / ai- » **-ai-**
+- -a / -ā + o- / au- » **-au-**
 :::
-Für diesen Sandhi gilt also folgendes Schema: <!-- TODO: Fallback translation -->
+Für diesen Sandhi gilt also folgendes Schema:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Bildquelle: [Details](/licenses#lekt0302)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt0302))
 :::
-Zu dieser sog. Stammabstufung siehe später! <!-- TODO: Fallback translation -->
+Zu dieser sog. Stammabstufung siehe später!
 
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫ <!-- TODO: Fallback translation -->
+śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās <!-- TODO: Fallback translation -->
+## 3.5. Satzsandhi von -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.** <!-- TODO: Fallback translation -->
+**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा⟫ ⟪वैश्याः⟫ <!-- TODO: Fallback translation -->
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
-## 3.6. Wortliste <!-- TODO: Fallback translation -->
+## 3.6. Wortliste
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Lernen Sie folgende Wörter:**
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's). <!-- TODO: Fallback translation -->
+**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst: <!-- TODO: Fallback translation -->
-- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫) <!-- TODO: Fallback translation -->
-  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache <!-- TODO: Fallback translation -->
-  2. **chandas** n. (⟪छन्दस्⟫): Metrum <!-- TODO: Fallback translation -->
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik <!-- TODO: Fallback translation -->
-  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie <!-- TODO: Fallback translation -->
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre <!-- TODO: Fallback translation -->
-  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell <!-- TODO: Fallback translation -->
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer <!-- TODO: Fallback translation -->
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens <!-- TODO: Fallback translation -->
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten) <!-- TODO: Fallback translation -->
-- die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫) <!-- TODO: Fallback translation -->
-- die **purāṇa** n. (⟪पुराण⟫) <!-- TODO: Fallback translation -->
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit <!-- TODO: Fallback translation -->
+**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
+- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
+  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache
+  2. **chandas** n. (⟪छन्दस्⟫): Metrum
+  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik
+  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie
+  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre
+  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell
+- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer
+- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
+- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
+- die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
+- die **purāṇa** n. (⟪पुराण⟫)
+- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
 
-**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke. <!-- TODO: Fallback translation -->
+**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke.
 
-**dhenu** f. = ⟪धेनु⟫ : (Milch-)kuh. <!-- TODO: Fallback translation -->
+**dhenu** f. = ⟪धेनु⟫ : (Milch-)kuh.
 
-**paśu** m. = ⟪पशु⟫ : domestiziertes Nutztier, Vieh (Kollektivum). <!-- TODO: Fallback translation -->
+**paśu** m. = ⟪पशु⟫ : domestiziertes Nutztier, Vieh (Kollektivum).
 
-**devatā** f. = ⟪देवता⟫ : Gottheit (abstrakt und konkret). <!-- TODO: Fallback translation -->
+**devatā** f. = ⟪देवता⟫ : Gottheit (abstrakt und konkret).
 
-**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin. <!-- TODO: Fallback translation -->
+**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya. <!-- TODO: Fallback translation -->
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
 
-**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya. <!-- TODO: Fallback translation -->
+**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
 
-**śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra. <!-- TODO: Fallback translation -->
+**śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra. <!-- TODO: Fallback translation -->
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫. <!-- TODO: Fallback translation -->
+**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
 
 ::: media
 ![](/images/lekt0303.webp)
 Abb.: Durgā = ⟪दुर्गा⟫, Orissa
-(Bildquelle: [Details](/images/lekt0303)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/images/lekt0303))
 :::
-**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu. <!-- TODO: Fallback translation -->
+**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu.
 
-**gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru. <!-- TODO: Fallback translation -->
+**gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw. <!-- TODO: Fallback translation -->
+**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw.
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt). <!-- TODO: Fallback translation -->
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut. <!-- TODO: Fallback translation -->
+**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut.
 
-**karuṇā** f. = ⟪करुणा⟫ : Mitgefühl, Mitleid. <!-- TODO: Fallback translation -->
+**karuṇā** f. = ⟪करुणा⟫ : Mitgefühl, Mitleid.
 
-**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid). <!-- TODO: Fallback translation -->
+**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
 
-## 3.7. Übung <!-- TODO: Fallback translation -->
+## 3.7. Übung
 
-**A) Setzen Sie folgende Sätze in den Plural:** <!-- TODO: Fallback translation -->
+**A) Setzen Sie folgende Sätze in den Plural:**
 
-1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫ <!-- TODO: Fallback translation -->
-3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫ <!-- TODO: Fallback translation -->
-4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-5. sādhur guruḥ = ⟪साधुर्गुरुः⟫ <!-- TODO: Fallback translation -->
-6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫ <!-- TODO: Fallback translation -->
-7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫ <!-- TODO: Fallback translation -->
-8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫ <!-- TODO: Fallback translation -->
-9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫ <!-- TODO: Fallback translation -->
-10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫ <!-- TODO: Fallback translation -->
+1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫
+4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫
+9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
+10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫
 
-**B) Bilden Sie durch Einsetzen Nominalsätze:** <!-- TODO: Fallback translation -->
+**B) Bilden Sie durch Einsetzen Nominalsätze:**
 
-1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫ <!-- TODO: Fallback translation -->
-2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫ <!-- TODO: Fallback translation -->
-3. devī ... (durgā, umā, indrāṇī) = ⟪देवी⟫ ... ⟪दुर्गा⟫, ⟪उमा⟫, ⟪इन्द्राणी⟫ <!-- TODO: Fallback translation -->
-4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫ <!-- TODO: Fallback translation -->
-5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫ <!-- TODO: Fallback translation -->
+1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
+2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
+3. devī ... (durgā, umā, indrāṇī) = ⟪देवी⟫ ... ⟪दुर्गा⟫, ⟪उमा⟫, ⟪इन्द्राणी⟫
+4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
+5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
 
-**C) Übertragen Sie ins Femininum:** <!-- TODO: Fallback translation -->
+**C) Übertragen Sie ins Femininum:**
 
-1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-2. sādhur guruḥ = ⟪साधुर्गुरुः⟫ <!-- TODO: Fallback translation -->
-3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫ <!-- TODO: Fallback translation -->
+1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫
 
-**D) Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
+**D) Übersetzen Sie ins Sanskrit:**
 
-1. Umā ist eine Göttin. <!-- TODO: Fallback translation -->
-2. Der Veda ist śruti. <!-- TODO: Fallback translation -->
-3. Die Lehrerinnen sind Göttinnen. <!-- TODO: Fallback translation -->
-4. Milchkühe sind domestizierte Tiere. <!-- TODO: Fallback translation -->
-5. Dichter sind Lehrer. <!-- TODO: Fallback translation -->
-6. Kṣatriyas sind Zweimalgeborene. <!-- TODO: Fallback translation -->
-7. Die heiligen Männer sind Śūdras. <!-- TODO: Fallback translation -->
+1. Umā ist eine Göttin.
+2. Der Veda ist śruti.
+3. Die Lehrerinnen sind Göttinnen.
+4. Milchkühe sind domestizierte Tiere.
+5. Dichter sind Lehrer.
+6. Kṣatriyas sind Zweimalgeborene.
+7. Die heiligen Männer sind Śūdras.
 

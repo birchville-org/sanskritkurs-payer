@@ -3,56 +3,42 @@ title: "Harjoitus 17"
 uebung_id: 17
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
-
-
 
 
 # Harjoitus 17
 
-A) Lisää seuraaviin lauseisiin verbi ja käännä ne: <!-- TODO: Fallback translation -->
+A) Lisää seuraaviin lauseisiin verbi ja käännä:
 
-⟪१⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) ⟪।⟫
-⟪ब्रवीति⟫ ⟪।⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪वदति⟫ ⟪।⟫
-Brahmana ei puhu valheita.
+⟪१⟫. ⟪ब्राह्मनो ऽनृतं न⟫ ... (⟪ब्रू । वच् । वद्⟫) ⟪। ब्रवीति । वक्ति । वदति ।⟫
+Brahmana ei puhu valhetta.
 
-⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫) ⟪।⟫
-⟪पाति⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫
-Kṣatriya vartioi ihmisiä.
+⟪२⟫. ⟪क्षत्रियो जनान्⟫ ... (⟪पा । रक्ष्⟫) ⟪। पाति । रक्षति ।⟫
+Kṣatriya suojaa ihmisiä.
 
-⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) ⟪।⟫
-⟪द्विजारीञ्जयति⟫ ⟪।⟫ ⟪द्विजारीन्हन्ति⟫ ⟪।⟫ ⟪युध्यते⟫ ⟪।⟫
-Voimakas taistelija voittaa / tappaa / taistelee kaksinkertaisesti syntyneiden vihollisia vastaan.
+⟪३⟫. ⟪बलवद्योधो द्विजारीन्⟫ ... (⟪जि । हन् । युध्⟫) ⟪। द्विजारीञ्जयति । द्विजारीन्हन्ति । युध्यते ।⟫
+Mahtava taistelija voittaa / tappaa / taistelee kahdesti syntyneiden vihollisia vastaan.
 
-⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) ⟪।⟫
-⟪स्तौति⟫ ⟪।⟫ ⟪स्तुते⟫ ⟪।⟫ ⟪यजते⟫ ⟪।⟫ ⟪यजति⟫ ⟪।⟫
-Brahmana-pappi ylistää MAAILMAN HERRAA. (tai: ...uhraa... MAAILMAN HERRALLE) <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु । यज्⟫) ⟪। स्तौति । स्तुते । यजते । यजति ।⟫
+Brahmana-poit laulaa ylistystä MAAILMAN HERRALLE. (tai: ...uhraa... MAAILMAN HERRALLE)
 
-⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) ⟪।⟫
-⟪अत्ति⟫ ⟪।⟫ ⟪दहति⟫ ⟪।⟫
+⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫) ⟪। अत्ति । दहति ।⟫
 Tuli kuluttaa / polttaa ruoan.
 
-⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫) ⟪।⟫
-⟪दोग्धि⟫ ⟪।⟫ ⟪दुग्धे⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪पाति⟫ ⟪।⟫
-Nuori Vaiṣya lypsetään / karjaa lehmää.
+⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫) ⟪। दोग्धि । दुग्धे । रक्षति । पाति ।⟫
+Nuori vaiṣya lypsee / hoitaa lehmää.
 
-⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
-⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-Kaksinkertaisesti syntyneen palvelija kävelee villieläinten polulla brahmanakylään. <!-- TODO: Fallback translation -->
+⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫) ⟪। गच्छति । एति । पद्यते ।⟫
+Kahdesti syntyneen palvelija käy villieläinten kulkureitillä brahmanakylään.
 
-⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
-⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
-Ein Śūdra ist Knecht der Zweimalgeborenen.
+⟪८⟫. ⟪द्विजदासः शूद्रस्⟫ ... (⟪अस् २ । भू⟫) ⟪। द्विजदासः शूद्रो ऽस्ति ।⟫ ... ⟪शूद्रो भवति ।⟫
+Śūdra on kahdesti syntyneen orja.
 
-⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫) ⟪।⟫
-⟪रोदिति⟫ ⟪।⟫ ⟪बालब्राह्मण्याते⟫ ⟪।⟫ ⟪म्रियते⟫ ⟪।⟫
-Pieni brahmananainen itkee / istuu / kuolee.
+⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद् । आस् । मृ⟫) ⟪। रोदिति । बालब्राह्मण्याते । म्रियते ।⟫
+Pieni brahmaninainen itkee / istuu / kuolee.
 
-⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫) ⟪।⟫
-⟪द्वेष्टि⟫ ⟪।⟫ ⟪द्विष्टे⟫ ⟪।⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪।⟫
-Hyvä ihminen vihaa väärinkäytöksiä. (tai: ...ei tee väärinkäytöksiä.)
-
-B) Lisää osassa A muodostettuihin lauseisiin agentti ja verbi monikossa <!-- TODO: Fallback translation -->
+B) Lisää osassa A muodostettuihin lauseisiin agentti ja verbi monikossa
 
 ⟪१⟫. ⟪ब्राह्मणा⟫ ⟪अनृतं⟫ ⟪न⟫ ⟪ब्रुवन्ति⟫ ⟪।⟫ (Monikko sanasta ⟪वच्⟫ ei esiinny) ⟪।⟫ ⟪वदन्ति⟫ ⟪।⟫
 
@@ -79,11 +65,11 @@ B) Lisää osassa A muodostettuihin lauseisiin agentti ja verbi monikossa <!-- T
 Kuv.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung025))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Verbilausekkeet-harjoitus
 
-Käännä seuraavat verbilausekkeet ja anna niihin liittyvä vartalo: <!-- TODO: Fallback translation -->
+Käännä seuraavat verbilausekkeet ja anna niihin liittyvä vartalo:
 
 ⟪१⟫. ⟪अदन्ति⟫ (⟪अद्⟫ 2P): he syövät
 
@@ -182,5 +168,5 @@ Käännä seuraavat verbilausekkeet ja anna niihin liittyvä vartalo: <!-- TODO:
 ![](/images/uebung026.webp)
 Kuv.: ⟪शृणोति⟫
 (Kuv lähde: [Details](/licenses#uebung026))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

@@ -61,7 +61,7 @@ B) Fordítsa le szanszkritra összetételek felhasználásával:
 ⟪संस्कृतगुरवः⟫ ⟪कालिदासादिक्वयः⟫ ⟪।⟫
 
 3. Egy kṣatriya fegyvereiből szerzi a megélhetését.
-⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫ ⟪।⟫
 
 4. A śūdraasszonyok dharmaja között van az erőszakmentesség, az igazság, a tisztaság, a panaszmentesség, a gonoszságmentesség és a türelem.
 ⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः⟫ ⟪शूद्रा⟫ ⟪अपि⟫ ⟪॥⟫
@@ -74,9 +74,9 @@ B) Fordítsa le szanszkritra összetételek felhasználásával:
 :::
 ---
 
-## Összetett szavak elemzése <!-- TODO: Fallback translation -->
+## Összetett szavak elemzése
 
-Oldja fel a következő összetett szavakat Bahuvrīhi és/vagy Dvandva és/vagy Tatpuruṣa típusként, minden Ön számára lehetséges módon szanszkrit nyelven. <!-- TODO: Fallback translation -->
+Oldja fel a következő összetett szavakat Bahuvrīhi és/vagy Dvandva és/vagy Tatpuruṣa típusként, minden Ön számára lehetséges módon szanszkrit nyelven.
 
 ⟪१⟫. ⟪इन्द्रशत्रवः⟫ ⟪।⟫ ⟪इन्द्रस्य⟫ ⟪शत्रवः⟫ ⟪।⟫ (vagy: ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪।⟫)
 
@@ -175,7 +175,7 @@ Oldja fel a következő összetett szavakat Bahuvrīhi és/vagy Dvandva és/vagy
 
 ⟪४८⟫. ⟪सकारणः⟫ ⟪।⟫ egy okkal
 
-⟪४९⟫. ⟪तनादयः⟫ ⟪।⟫ ⟪तन्⟫ stb. (= 8. jelen idő osztály) <!-- TODO: Fallback translation -->
+⟪४९⟫. ⟪तनादयः⟫ ⟪।⟫ ⟪तन्⟫ stb. (= 8. jelen idő osztály)
 
 ⟪५०⟫. ⟪जातमात्राम्⟫ ⟪।⟫ ⟪जातमेव⟫ ⟪मात्रं⟫ ⟪यस्यस्ताम्⟫ ⟪।⟫ (éppen keletkezett)
 
@@ -257,12 +257,8 @@ Az elme tisztázása a barátságos jóindulat, az együttérzés, az öröm és
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
 A cselekvés jógája aszkézis, védastudomány és figyelmese szolgálat ÚR. Célja a koncentráció kibontakozása és az " szenvedések" gyengítése.
 
-::: deleteme-box Erläuterung
-Az öt " szenvedés" (⟪क्लेश⟫) a következők: ⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫ (Jóga-szútra 2.3) — tudatlanság, én-központúság, kapzsiság, gyűlölet és a testhez való ragaszkodás.
-
-:::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
-Az ember legfőbb célja az, hogy a háromféle szenvedés teljesen megszűnjön. (*Háromféle szenvedés: önmagunktól, a tárgyaktól, az istenektől.*) <!-- TODO: Fallback translation -->
+Az ember legfőbb célja az, hogy a háromféle szenvedés teljesen megszűnjön. (*Háromféle szenvedés: önmagunktól, a tárgyaktól, az istenektől.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२२⟫ ⟪॥⟫  
@@ -276,13 +272,13 @@ Nincs mennyország, nincs megszabadulás, nincs transzcendens lélek, nincsenek 
 ⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
 ⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫  
-A bráhmanák adót fizetnek az isteneknek, a bráhmanáknak királyok fizetnek adót, a királyoknak az emberek fizetnek adót, az embereknek a föld fizet adót. <!-- TODO: Fallback translation -->
+A bráhmanák adót fizetnek az isteneknek, a bráhmanáknak királyok fizetnek adót, a királyoknak az emberek fizetnek adót, az embereknek a föld fizet adót.
 
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫  
 ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫  
 ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫  
 ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪४१६⟫ ⟪॥⟫  
-Feleség, fiú és rabszolga – ezek a hagyomány szerint tulajdon nélküliek. Amit ők szereznek, az annak a birtoka, akinek tartoznak. <!-- TODO: Fallback translation -->
+Feleség, fiú és rabszolga – ezek a hagyomány szerint tulajdon nélküliek. Amit ők szereznek, az annak a birtoka, akinek tartoznak.
 
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫  
 ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫  

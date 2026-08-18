@@ -118,7 +118,7 @@ status: stable
 | | 3. Person Однина | 3. Person Множина |
 | :--- | :--- | :--- |
 | **Парасмаїпада** | **-t** | athematische Klassen: **-an** oder **-ur** :brОптатив: **-ur** |
-| **Āтманепада** | **-ta** | athematische Klassen: **-ata** (aus *nta):brОптатив: **-ran** | &lt;!-- TODO: Fallback translation --&gt;
+| **Āтманепада** | **-ta** | athematische Klassen: **-ata** (aus *nta):brОптатив: **-ran** | &lt;!--  -→
 
 :::
 ## 30.4. Утворення оптива теперішнього часу (⟪लिङ्⟫)
@@ -517,12 +517,3 @@ B) Перекладіть наведені речення та розберіт�
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Бунді = ⟪बुन्दी⟫, Раджастан = ⟪राजस्थान⟫ [Джерело зображення: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Доступ від 2008-12-21. -- Ліцензія Creative Commons (Attribution, Non-commercial, No derivatives)]
-**lekt3002:** Дареваді, район Ахмедагаар = ⟪अहमदनगर⟫, Махараштра = ⟪महाराष्ट्र⟫ [Джерело зображення: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Доступ від 2008-12-21. -- Ліцензія Creative Commons (Attribution, Non-commercial, Share Alike)]
-**lekt3003:** [Джерело зображення: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Доступ від 2008-12-21. -- Ліцензія Creative Commons (Attribution, Share Alike)]
-**lekt3005:** ⟪थाली⟫, Південна Індія [Джерело зображення: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Доступ від 2008-12-21. -- Ліцензія Creative Commons (Attribution, Non-commercial, Share Alike)]
-**lekt3004:** [Джерело зображення: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Доступ від 2008-12-21. -- Ліцензія Creative Commons (Attribution, Share Alike)]
-**lekt2904:** [Джерело зображення: Wikipedia / Авторське право належить Himalayan Academy Publications, Каапа, Кауаї, Гаваї. -- Ліцензія Creative Commons Attribution ShareAlike 2.5]
-:::

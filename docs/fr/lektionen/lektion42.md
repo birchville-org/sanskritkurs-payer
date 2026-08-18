@@ -207,7 +207,7 @@ Inf. ⟪शंसितुम्⟫
 :::
 ⟪हृदय⟫ n. : cœur
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen <!-- TODO: Fallback translation -->
+### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
@@ -365,14 +365,3 @@ Fig. : ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gén.Loc.Dual de ⟪सीताराम⟫
 
-::: deleteme-box
-
-* **Fig. lekt4201** : ⟪अयं⟫ ⟪बोधयिता⟫. (Source de l'image : Wikipédia. Domaine public)
-* **Fig. lekt4202** : ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. Le Diwan I Khas, ou Salle des audiences privées au Lal Qila (Fort Rouge) à Delhi. (Source de l'image : Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Consulté le 2009-01-04. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique))
-* **Fig. lekt4203** : ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Source de l'image : Wikipédia. Domaine public)
-* **Fig. lekt4204** : ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. char). (Source de l'image : Wikipédia. Domaine public)
-* **Fig. lekt4205** : :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17e s. (Source de l'image. Wikipédia. Domaine public)
-* **Fig. lekt4206** : Emplacement de ⟪मिथिला⟫ et ⟪विदेह⟫, ⟪अयोध्या⟫ et ⟪कोसल⟫. (Source de l'image : JIJITH NR / Wikipédia. Licence GNU FD)
-* **Fig. lekt4207** : ⟪रावणः⟫. Masque de danse Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Source de l'image : Manohara Upadhya / Wikipédia. Licence GNU FD)
-* **Fig. lekt4208** : ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Image de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Source de l'image : Wikipédia. Domaine public)
-:::

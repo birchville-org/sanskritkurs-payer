@@ -50,7 +50,7 @@ status: stable
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | <!-- TODO: Fallback translation -->
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
 :::
 ::: grammar-box
@@ -65,7 +65,7 @@ status: stable
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
-| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) | <!-- TODO: Fallback translation -->
+| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
 ## 32.4. أمثلة على صياغة الماضي المستمر
@@ -633,26 +633,5 @@ A) حدد تصريفات الأفعال التالية، وصيغ صيغ الم�
 الصورة: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 قردة في أشجار المانجو.
 (مصدر الصورة: [تفاصيل](/ar/licenses#lekt3210))
-:::
-
-::: deleteme-box
-
-**lekt3202:** شجرة المانجو، كانبور. [مصدر الصورة: AmarChandra / ويكيبيديا. رخصة CC BY-SA]
-
-**lekt3203:** قرود (ماكاك ريزوس) في دلهي. [مصدر الصورة: dewalt / Flickr. CC BY-NC-SA]
-
-**lekt3204:** محجر حجارة جنوب بونه، ماهاراشترا. [مصدر الصورة: lecercle / Flickr. CC BY-NC-SA]
-
-**lekt3205:** تمرين الهدف / هدف السهم، كارناتاكا. [مصدر الصورة: mattlogelin / Flickr. CC BY-NC]
-
-**lekt3207:** حرق كعك روث البقر في راجستان. [مصدر الصورة: thebigdurian / Flickr. CC BY-NC-SA]
-
-**lekt3206:** رسم mehndi على اليدين في مومباي. [مصدر الصورة: the_gman / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
-
-**lekt3208:** راهب بوذي في سريلانكا. [مصدر الصورة: Trollderella / ويكيبيديا. رخصة GNU FDL]
-
-**lekt3209:** تحية/وداع هندي. [مصدر الصورة: dhyanji / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3210:** قرود في أشجار المانجو. [مصدر الصورة: ويكيبيديا. رخصة GNU FDL]
 :::
 

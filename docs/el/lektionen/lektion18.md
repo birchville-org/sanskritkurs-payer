@@ -81,9 +81,9 @@ lesson_id: 18
 
 Φωνητική αλλαγή του -s σε σύνθετα
 
-Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita: <!-- TODO: Fallback translation -->
+Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita:
 
-\-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ <!-- TODO: Fallback translation -->
+\-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ
 
 Deshalb: ⟪दुष्करण⟫
 
@@ -426,13 +426,3 @@ D) Μεταφράστε:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt1801:** «Ένας νεαρός αγόρι φαίνεται κατά τη διάρκεια της τελετής upanayana. Το κιτρινωπό, λεπτό νήμα που τρέχει από τον αριστερό ώμο μέχρι τη μέση είναι το Yagnopaivta. Σημειώστε επίσης την ζώνη από γρασίδι munja γύρω από τη μέση. Το κλαδί στο δεξί χέρι (συνήθως από το δέντρο peepa) συμβολίζει την είσοδό του στο Brahmacharya.» [Πηγή εικόνας: Nagesh Rao / Wikipedia, GNU FDLicense]
-
-**lekt1802:** Εκτύπωση του 1770 [Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο]
-
-**lekt1803:** ⟪गन्धार⟫ 1./2. αι. μ.Χ. [Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο]
-
-**lekt1804:** Γάμος = ⟪विवाह⟫ m., μια σημαντική ⟪संस्कारः⟫ [Πηγή εικόνας: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Πρόσβαση στις 2008-12-08. -- Άδεια Creative Commons (Αναφορά, μη εμπορική χρήση, χωρίς εξαγωγή)]
-:::

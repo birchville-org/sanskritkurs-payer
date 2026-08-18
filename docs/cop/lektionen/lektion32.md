@@ -71,7 +71,7 @@ Beispiele:
 ## 32.4. ⲛⲓⲡⲁⲣⲁⲇⲉⲓⲅⲙⲁ ⲛ̀ⲧⲉ ⲡ̀ϫⲓⲛϣⲱⲡⲓ ⲛ̀ⲧⲉ ⲡⲓⲓⲙⲡⲉⲣⲫⲉⲕⲧ
 
 ::: important
-**Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen \< \>.** <!-- TODO: Fallback translation -->
+**Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen \< \>.**
 :::
 ### 32.4.1. ⲛⲓⲕⲗⲁⲥⲥⲏⲥ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ ⲉⲧⲥⲉⲙⲛⲁⲧⲓⲕⲏ
 
@@ -86,7 +86,7 @@ Beispiele:
 | Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Athematische Präsensklassen <!-- TODO: Fallback translation -->
+### 32.4.2. Athematische Präsensklassen
 
 ::: grammar-box
 
@@ -232,12 +232,12 @@ Burning cowdung patties in Rajasthan.
 ::: media
 ![](/images/lekt3206.webp)
 ⲁⲃⲅ.: ⟪कौशलम्⟫
-ⲡⲓϣⲟⲛⲧ ϵⲛ ⲡⲓϣⲟⲛⲧ. <!-- TODO: Fallback translation -->
-(ⲡⲓϣⲟⲛⲧ ϵⲛ ⲡⲓϣⲟⲛⲧ: [ⲁⲃⲅ](/licenses#lekt3206)) <!-- TODO: Fallback translation -->
+ⲡⲓϣⲟⲛⲧ ϵⲛ ⲡⲓϣⲟⲛⲧ.
+(ⲡⲓϣⲟⲛⲧ ϵⲛ ⲡⲓϣⲟⲛⲧ: [ⲁⲃⲅ](/licenses#lekt3206))
 :::
 ## 32.6. ⲡⲓϣⲟⲛⲧ
 
-A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen: <!-- TODO: Fallback translation -->
+A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen:
 
 1. ⟪हरि्ष्यन्ते⟫
 2. ⟪घातयति⟫
@@ -452,7 +452,7 @@ A) Bestimmen und übersetzen Sie folgende Wörter:
 
 3. ⲡⲓϣⲱⲧ ϫⲉ ⲡⲓⲙⲉⲧⲣⲱϥ ⲛⲁⲕ.
 
-4. Die mächtigen Krieger sind ins Brahmanendorf gegangen. <!-- TODO: Fallback translation -->
+4. Die mächtigen Krieger sind ins Brahmanendorf gegangen.
 
 5. Das Mädchen weint.
 
@@ -470,13 +470,13 @@ A) Bestimmen und übersetzen Sie folgende Wörter:
 
 12. ⲡⲓⲱⲛϥ ϩⲙⲟⲕ ⲉⲧⲃⲏ ϩⲛ ⲡⲓϣⲟⲡ.
 
-13. Um der Himmel Willen tun die Menschen Verdienstvolles. <!-- TODO: Fallback translation -->
+13. Um der Himmel Willen tun die Menschen Verdienstvolles.
 
 14. Rāma ging auf Anweisung der Lehrers aus dem Dorf in die Stadt, betrat das Haus des heiligen Mannes, trat ehrerbietig vor den Heiligen und spricht: "Lass ab vom Zorn!"
 
 15. Ⲧⲓϣⲟⲡ (ⲛ̄ⲧⲉ) ⲁϥⲙⲟⲕ ϯⲛⲓⲱϣ ⲉⲧⲃⲏ, ϯⲛⲓϣⲱ ⲉⲧⲃⲏ, ϯⲛⲓϣⲱ ⲉⲧⲃⲏ. (Ⲧⲓϣⲟⲡ) ⲛ̄ⲧⲉ ϯϣⲱ ⲁⲛ̄ⲧⲉ ϯϣⲱ ⲁⲛ̄ⲧⲉ.
 
-16. Immer (sei seine) Verbindung mit solchen, die in den Wissenschaften gewachsen sind, auf dass seine Erziehung/gutes Verhalten wachse. (Dies) weil die Erziehung/gutes Verhalten als Wurzel dieses (die Verbindung mit solchen) hat. <!-- TODO: Fallback translation -->
+16. Immer (sei seine) Verbindung mit solchen, die in den Wissenschaften gewachsen sind, auf dass seine Erziehung/gutes Verhalten wachse. (Dies) weil die Erziehung/gutes Verhalten als Wurzel dieses (die Verbindung mit solchen) hat.
 
 17. Ⲧⲓϣⲟⲡ ϯⲛⲉⲙ, ⲁϥⲱⲕ ϯⲛⲓⲙ ⲉϫⲱ.
 
@@ -486,7 +486,7 @@ A) Bestimmen und übersetzen Sie folgende Wörter:
 
 20. Ⲁⲃⲟⲕ Ϧⲱⲡⲓⲛⲧⲁ ⲇⲉⲩⲁϦⲡⲃⲏ ⲛⲧⲉ ϣⲟⲡⲓ.
 
-21. Dharma der Arier ist, dass junge Brahmanen die Abschnitte des Veda und der Smṛti immer wieder studieren. <!-- TODO: Fallback translation -->
+21. Dharma der Arier ist, dass junge Brahmanen die Abschnitte des Veda und der Smṛti immer wieder studieren.
 
 22. Der Lehrer lehrte die Knaben den Veda und ging dann ins Haus.
 
@@ -496,7 +496,7 @@ A) Bestimmen und übersetzen Sie folgende Wörter:
 
 25. Ⲧⲛⲟϥ ϩⲓⲧⲉ ⲡⲓⲛϣⲟⲙ?
 
-26. Dharma aller ist: Nichtverletzen, Wahrheit, Reinheit, Neidlosigkeit, Nicht-Boshaftigkeit und Geduld. <!-- TODO: Fallback translation -->
+26. Dharma aller ist: Nichtverletzen, Wahrheit, Reinheit, Neidlosigkeit, Nicht-Boshaftigkeit und Geduld.
 
 27. Die Kṣatriyas, die die Feinde besiegt haben, sitzen im Haus.
 
@@ -512,7 +512,7 @@ A) Bestimmen und übersetzen Sie folgende Wörter:
 
 33. ⲡⲓⲙⲉⲧϣ ϯⲛⲁⲕ ⲙ̄ⲡⲓϣⲱⲧ. ϯⲛⲁⲕ ⲙ̄ϣⲱⲧ ϯⲛⲁⲕ ⲙ̄ϣⲱⲧ. ϯⲛⲁⲕ ⲙ̄ϣⲱⲧ ϯⲛⲁⲕ ⲙ̄ϣⲱⲧ.
 
-34. Es ist Dharma der Kṣatriyas, dass die Kṣatriyas die Leute vor den Feinden schützen. <!-- TODO: Fallback translation -->
+34. Es ist Dharma der Kṣatriyas, dass die Kṣatriyas die Leute vor den Feinden schützen.
 
 35. Deshalb haben die drei (tisras) Wissenschaften das Regiment als Wurzel. Das Regiment, das Erziehung/gutes Verhalten als Wurzel hat, bringt den Lebewesen (⟪प्राणभृत्⟫) Gewinn und sicheren Besitz.
 
@@ -524,7 +524,7 @@ A) Bestimmen und übersetzen Sie folgende Wörter:
 
 39. Viṣṇu ϥⲟⲩⲱⲛϩ ⲙ̀ⲙⲟϥ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲉϥⲣⲉϥϣⲉⲙϣⲓ.
 
-40. Ein Regiment, das nicht ausgeübt wird, bewirkt die Norm der Fische. <!-- TODO: Fallback translation -->
+40. Ein Regiment, das nicht ausgeübt wird, bewirkt die Norm der Fische.
 
 41. Wer Reichtümer besitzt, der hat Freunde; wer Reichtümer besitzt, der hat Verwandte; wer Reichtümer besitzt, der ist ein Mann (⟪पुमान्⟫ Nom. sq.) in der Welt; wer Reichtümer besitzt, der ist nämlich ein Gelehrter.
 
@@ -633,26 +633,5 @@ Indian greeting / farewell.
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Monkeys in mango trees.
 (Image source: [Details](/licenses#lekt3210))
-:::
-
-::: deleteme-box
-
-**ⲛⲓϧⲁⲃ ⲡⲉⲙⲛⲭⲏⲙⲓ 3202:** ⲡⲛⲟⲩϧⲁⲃ ⲉⲙⲛⲕⲟⲡⲱⲣ. [ⲙⲉ ⲛⲧⲥϫⲓⲟⲕ: AmarChandra / Wikipedia. CC BY-SA]
-
-**ⲛⲓϧⲁⲃ ⲡⲉⲙⲛⲭⲏⲙⲓ 3203:** ⲛⲁϣⲧⲉ (rhesus macaques) ⲉⲙⲛⲇⲏⲗⲓ. [ⲙⲉ ⲛⲧⲥϫⲓⲟⲕ: dewalt / Flickr. CC BY-NC-SA]
-
-**ⲛⲓϧⲁⲃ ⲡⲉⲙⲛⲭⲏⲙⲓ 3204:** Ⲧⲛⲟⲩϫⲁⲣⲓ ⲉⲙⲛⲕⲟⲡⲱⲣ ⲉⲙϫⲓⲛⲁⲕⲡⲟⲣ ⲉⲙⲛⲧⲁϩⲱⲣ. [ⲙⲉ ⲛⲧⲥϫⲓⲟⲕ: lecercle / Flickr. CC BY-NC-SA]
-
-**ⲛⲓϧⲁⲃ ⲡⲉⲙⲛⲭⲏⲙⲓ 3205:** Ⲧⲛⲟⲩϫⲁⲣⲓ ⲉⲙⲛⲕⲟⲡⲱⲣ / ⲧⲛⲟⲩϫⲁⲣⲓ ⲉⲙⲛⲕⲟⲡⲱⲣ, ⲕⲁⲣⲛⲧⲓⲕ. [ⲙⲉ ⲛⲧⲥϫⲓⲟⲕ: mattlogelin / Flickr. CC BY-NC]
-
-**ⲕⲉϫⲓ 3207:** Ⲛⲁⲛⲟϥ ϧⲡⲉ ⲕⲱⲙⲟϥ ϧⲡⲉ ⲣⲁⲫⲓⲟⲛ. [Ϧⲉⲣⲁ: thebigdurian / Flickr. CC BY-NC-SA]
-
-**ⲕⲉϫⲓ 3206:** Ⲙⲏⲛⲑⲓ ϩⲙⲁϥ ⲉⲃⲟⲗ ϩⲙⲛⲁⲕ. [Ϧⲉⲣⲁ: the_gman / Flickr. CC BY-NC-SA]
-
-**ⲕⲉϫⲓ 3208:** Ⲓⲛⲟⲩϧ Ϧⲡⲉ ⲥⲣⲓ Ⲑⲁⲗⲁ. [Ϧⲉⲣⲁ: Trollderella / Wikipedia. GNU FDL]
-
-**ⲕⲉϫⲓ 3209:** Ⲓⲛⲟⲩϧ ϫⲉⲙⲡⲓ ⲛⲁϥⲟⲩⲃⲏ / ⲛⲁϥⲟⲩⲃⲏ. [Ϧⲉⲣⲁ: dhyanji / Flickr. CC BY-NC-ND]
-
-**ⲙⲁⲑⲏⲙⲁ 3210:** Ⲧⲛⲟⲩϧ ϵⲓⲥ ⲉⲙⲁⲛϧⲟⲩ. [Ⲡⲓⲱϣ ϵⲧⲟⲩⲃ ⲛ: Wikipedia. GNU FDL]
 :::
 

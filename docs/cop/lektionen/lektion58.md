@@ -21,11 +21,11 @@ status: stable
 :::
 ## 58.2. ⲡⲓⲧⲱⲟⲩ ⲛ̄ⲧⲉ ⲧⲉⲛⲟⲩ ⲛ̄ⲧⲉ ⲡⲓⲕⲗⲁⲥⲥ ⲛ̄ⲑⲉⲙⲁⲧⲓⲕⲟⲥ: ⲓⲛⲧⲓⲕⲁⲧⲓⲃ ⲛ̄ⲧⲉ ⲧⲉⲛⲟⲩ (⟪लट्⟫)
 
-Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. <!-- TODO: Fallback translation -->
+Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
 
 ### 58.2.1. ⲡⲓⲕⲗⲁⲥⲥ ⲛ̄ⲧⲉ ⲧⲉⲛⲟⲩ ⲛ̄ϣⲟⲣⲡ (⟪भ्वादिगणः⟫)
 
-⟪भू⟫ 1P "werden, sein" <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P "werden, sein"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -33,9 +33,9 @@ Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. <!-- TODO: Fallba
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
 | **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
-### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
 
-⟪नृत्⟫ 4P "tanzen" <!-- TODO: Fallback translation -->
+⟪नृत्⟫ 4P "tanzen"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -47,11 +47,11 @@ Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. <!-- TODO: Fallba
 ![](/images/lekt5802.webp)
 Abb.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
-(Bildquelle: [Details](/licenses#lekt5802)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5802))
 :::
 ### 58.2.3. ϯⲙⲁϩ ⲥⲟⲟⲩ ⲛ̀ⲕⲗⲁⲥⲥⲏ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ (⟪तुदादिगणः⟫)
 
-⟪तुद्⟫ 6U "stoßen, schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U "stoßen, schlagen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -60,9 +60,9 @@ Abb.: ⟪नृत्यतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
 :::
-### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫) <!-- TODO: Fallback translation -->
+### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
 
-⟪चुर्⟫ 10U "stehlen" <!-- TODO: Fallback translation -->
+⟪चुर्⟫ 10U "stehlen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -75,13 +75,13 @@ Abb.: ⟪नृत्यतः⟫
 ![](/images/lekt5803.webp)
 Abb.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-(Bildquelle: [Details](/licenses#lekt5803)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5803))
 :::
 ## 58.3. ⲡⲓⲇⲩⲁⲗ ⲛ̀ⲧⲉ ⲡⲓⲙⲉⲗⲗⲱⲛ ⲉⲧⲥⲱⲧⲡ (⟪ऌत्⟫)
 
 ### 58.3.1. ⟪अनिट्⟫
 
-⟪दा⟫ 3U "geben" <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U "geben"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -92,7 +92,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 ### 58.3.2. ⟪सेट्⟫
 
-⟪भू⟫ 1P "werden, sein" <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P "werden, sein"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -103,7 +103,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 ## 58.4. ⲡⲓⲇⲩⲁⲗ ⲛ̀ⲡⲁⲥⲥⲓⲃ (ⲥⲩⲫⲫⲓⲝ -⟪यक्⟫)
 
-⟪तुद्⟫ 6U "stoßen, schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U "stoßen, schlagen"
 
 ::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪तुद्यवाहे⟫ |
@@ -111,11 +111,11 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫) <!-- TODO: Fallback translation -->
+## 58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
 
-### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
 
-⟪द्विष्⟫ 2U "hassen" <!-- TODO: Fallback translation -->
+⟪द्विष्⟫ 2U "hassen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -124,7 +124,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्ठस्⟫ | ⟪द्विषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪द्विष्टस्⟫ | ⟪द्विषाते⟫ |
 :::
-⟪दुह्⟫ 2U "melken" <!-- TODO: Fallback translation -->
+⟪दुह्⟫ 2U "melken"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -133,7 +133,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | *:sig[⟪दुग्धस्⟫]* | ⟪दुहाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | *:sig[⟪दुग्धस्⟫]* | ⟪दुहाते⟫ |
 :::
-⟪इ⟫ 2P "gehen" <!-- TODO: Fallback translation -->
+⟪इ⟫ 2P "gehen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -145,9 +145,9 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 ::: media
 ![](/images/lekt5806.webp)
 Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
-(Bildquelle: [Details](/licenses#lekt5806)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5806))
 :::
-⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren" <!-- TODO: Fallback translation -->
+⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -159,9 +159,9 @@ Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 ::: media
 ![](/images/lekt5804.webp)
 Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
-(Bildquelle: [Details](/licenses#lekt5804)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5804))
 :::
-⟪हन्⟫ 2P "erschlagen" <!-- TODO: Fallback translation -->
+⟪हन्⟫ 2P "erschlagen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -170,7 +170,7 @@ Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 | **2. ⟪मध्यमः⟫** | :sig[⟪हथस्⟫] :br*hn-thas |
 | **3. ⟪प्रथमः⟫** | *:sig[⟪हतस्⟫]* |
 :::
-⟪अस्⟫ 2P "sein" <!-- TODO: Fallback translation -->
+⟪अस्⟫ 2P "sein"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -182,11 +182,11 @@ Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 ::: media
 ![](/images/lekt5805.webp)
 Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
-(Bildquelle: [Details](/licenses#lekt5805)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5805))
 :::
 ### 58.5.2. ⲡⲓⲕⲗⲁⲥⲥ ⲛ̄ⲧⲉ ⲧⲉⲛⲟⲩ ⲛ̄ϣⲟⲙⲧ (⟪जुहोत्यादिगणः⟫)
 
-⟪हु⟫ 3P "ins Opferfeuer gießen" <!-- TODO: Fallback translation -->
+⟪हु⟫ 3P "ins Opferfeuer gießen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -195,7 +195,7 @@ Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> |
 :::
-⟪धा⟫ 3U "setzen, legen, stellen" <!-- TODO: Fallback translation -->
+⟪धा⟫ 3U "setzen, legen, stellen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -206,7 +206,7 @@ Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 :::
 ### 58.5.3. ϯⲙⲁϩ ϯ ⲛ̀ⲕⲗⲁⲥⲥⲏ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ (⟪स्वादिगणः⟫)
 
-⟪सु⟫ 5U "auspressen" <!-- TODO: Fallback translation -->
+⟪सु⟫ 5U "auspressen"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -218,11 +218,11 @@ Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 ![](/images/lekt5807.webp)
 Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
-(Bildquelle: [Details](/licenses#lekt5807)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5807))
 :::
 ### 58.5.4. ⲧⲙⲁϩ ϩⲙⲉ ⲛ̀ⲧⲉ ⲧⲡⲣⲁⲉⲥⲉⲛⲥ ⲕⲗⲁⲥⲥ
 
-⟪तन्⟫ 8U "aufspannen" <!-- TODO: Fallback translation -->
+⟪तन्⟫ 8U "aufspannen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -231,7 +231,7 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪तनुथस्⟫ | ⟪तन्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुतस्⟫ | ⟪तन्वाते⟫ |
 :::
-⟪कृ⟫ 8U "tun, machen" <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U "tun, machen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -242,7 +242,7 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 :::
 ### 58.5.5. ⲧⲉϩⲉⲡⲧⲟⲙⲟⲥ ⲛⲡⲣⲁⲉⲥⲉⲛⲥⲕⲗⲁⲥⲥⲉ (⟪रुधादिगणः⟫)
 
-⟪रुध्⟫ 7U "stoppen" <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U "stoppen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -251,7 +251,7 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | *:sig[⟪रुन्द्धस्⟫]* | ⟪रुन्धाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धस्⟫ | ⟪रुन्धाते⟫ |
 :::
-⟪युज्⟫ 7U "anschirren" <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U "anschirren"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -262,7 +262,7 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 :::
 ### 58.5.6. ϯⲙⲁϩ ⲧⲓⲥ ⲛ̀ⲕⲗⲁⲥⲥⲏ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ (⟪क्र्यादिगणः⟫)
 
-⟪क्री⟫ 9U "kaufen" <!-- TODO: Fallback translation -->
+⟪क्री⟫ 9U "kaufen"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -273,20 +273,20 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ::: media
 ![](/images/lekt5801.webp)
 Abb.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
-(Bildquelle: [Details](/licenses#lekt5801)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5801))
 :::
 ## 58.6. Aorist 5: iṣ-Aorist
 
 ::: grammar-box
-**Der iṣ-Aorist wird von allen seṭ-Wurzeln gebildet, für die nicht ausdrücklich ausschließlich eine andere Form des Aorist gelehrt wird.** <!-- TODO: Fallback translation -->
+**Der iṣ-Aorist wird von allen seṭ-Wurzeln gebildet, für die nicht ausdrücklich ausschließlich eine andere Form des Aorist gelehrt wird.**
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-**Augment + Wurzel + i + s + athematische Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + Wurzel + i + s + athematische Sekundärendung**
 
-**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen). <!-- TODO: Fallback translation -->
+**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen).
 :::
-Stammbildungssuffix + Endungen des iṣ-Aorist lauten also: <!-- TODO: Fallback translation -->
+Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
 
 ::: grammar-box
 
@@ -299,42 +299,42 @@ Stammbildungssuffix + Endungen des iṣ-Aorist lauten also: <!-- TODO: Fallback 
 
 :::
 ::: grammar-box
-**Form der Wurzel:** <!-- TODO: Fallback translation -->
+**Form der Wurzel:**
 
-*   **Wurzeln mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā**   <!-- TODO: Fallback translation -->
+*   **Wurzeln mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā**  
     Beispiele:  
 :::
 ::: indent
 ⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
-⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫ <!-- TODO: Fallback translation -->
+⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
 :::
 
-*   **Wurzeln mit auslautendem Vokal:** <!-- TODO: Fallback translation -->
-    *   **P: Dehnstufe** <!-- TODO: Fallback translation -->
-    *   **Ā: Hochstufe** <!-- TODO: Fallback translation -->
+*   **Wurzeln mit auslautendem Vokal:**
+    *   **P: Dehnstufe**
+    *   **Ā: Hochstufe**
 
     Beispiele:  
 ::: indent
-⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫ <!-- TODO: Fallback translation -->
+⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
 :::
 
-*   **Wurzeln auf -ar., -al sowie ⟪वद्⟫ 1P "sagen", ⟪व्रज्⟫ 1P "weggehen": P: Dehnstufe**   <!-- TODO: Fallback translation -->
+*   **Wurzeln auf -ar., -al sowie ⟪वद्⟫ 1P "sagen", ⟪व्रज्⟫ 1P "weggehen": P: Dehnstufe**  
     Beispiele:  
 ::: indent
 ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫
-⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫ <!-- TODO: Fallback translation -->
+⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
 :::
 
-*   **Andere Wurzeln der Form (Kons.-)Kons.-a-Kons.: im P wahlweise Dehnstufe (gilt nicht für Wurzeln auf -h, -m, -y sowie einige weitere Wurzeln)**   <!-- TODO: Fallback translation -->
+*   **Andere Wurzeln der Form (Kons.-)Kons.-a-Kons.: im P wahlweise Dehnstufe (gilt nicht für Wurzeln auf -h, -m, -y sowie einige weitere Wurzeln)**  
     Beispiel:  
 ::: indent
 ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
 aber:
-⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫ <!-- TODO: Fallback translation -->
+⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
 :::
-Paradigmen: <!-- TODO: Fallback translation -->
+Paradigmen:
 
-⟪पू⟫ 9U "reinigen" <!-- TODO: Fallback translation -->
+⟪पू⟫ 9U "reinigen"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -344,7 +344,7 @@ Paradigmen: <!-- TODO: Fallback translation -->
 | **2. ⟪द्वितीयः⟫** | ⟪अपावीस्⟫ | ⟪अपाविष्ट⟫ | ⟪अपविष्ठास्⟫ | ⟪अपविध्वम्⟫ / :br⟪अपविढ्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अपावीत्⟫ | ⟪अपाविषुर्⟫ | ⟪अपविष्ट⟫ | ⟪पविषत⟫ |
 :::
-⟪बुध्⟫ 1U "erwachen, erkennen" <!-- TODO: Fallback translation -->
+⟪बुध्⟫ 1U "erwachen, erkennen"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ ||
@@ -354,7 +354,7 @@ Paradigmen: <!-- TODO: Fallback translation -->
 | **2. ⟪द्वितीयः⟫** | ⟪अबोधीस्⟫ | ⟪अबोधिष्ट⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अबोधीत्⟫ | ⟪अबोधिषुर्⟫ |
 :::
-⟪कॢप्⟫ 1Ā "passend sein" <!-- TODO: Fallback translation -->
+⟪कॢप्⟫ 1Ā "passend sein"
 
 ::: indent
 |   | ⟪आत्मनेपदम्⟫ ||
@@ -365,36 +365,36 @@ Paradigmen: <!-- TODO: Fallback translation -->
 | **3. ⟪प्रथमः⟫** | ⟪अकल्पिष्ट⟫ | ⟪अकल्पिषत⟫ |
 :::
 ::: grammar-box
-**Besonderheiten:** <!-- TODO: Fallback translation -->
+**Besonderheiten:**
 
-1.  Bei einigen Wurzeln kann der Bindevokal -i- im ⟪आत्मनेपद⟫ durch -ī- ersetzt werden. Nach ⟪ग्रह्⟫ 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:   <!-- TODO: Fallback translation -->
+1.  Bei einigen Wurzeln kann der Bindevokal -i- im ⟪आत्मनेपद⟫ durch -ī- ersetzt werden. Nach ⟪ग्रह्⟫ 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:  
 :::
 ::: indent
 ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
 :::
 
-2.  Wurzeln der 8. Präsensklasse auf -n (oder -ṇ) können in der 2.3.sg.Ā tiefstufig sein:   <!-- TODO: Fallback translation -->
+2.  Wurzeln der 8. Präsensklasse auf -n (oder -ṇ) können in der 2.3.sg.Ā tiefstufig sein:  
 ::: indent
-⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (Wurzelaorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫ <!-- TODO: Fallback translation -->
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (Wurzelaorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 :::
 
-3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā u.a. können statt der 3.sg. Ā auch die Form des Passivaorists annehmen:   <!-- TODO: Fallback translation -->
+3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā u.a. können statt der 3.sg. Ā auch die Form des Passivaorists annehmen:  
 ::: indent
 ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
 :::
 
-4.  ⟪विज्⟫ 7P hat keinen Ablaut:   <!-- TODO: Fallback translation -->
+4.  ⟪विज्⟫ 7P hat keinen Ablaut:  
 ::: indent
 ⟪अविजीत्⟫
 :::
 ::: media
 ![](/images/lekt5808.webp)
 Abb.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt5808)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt5808))
 :::
 ## 58.7. Übung
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist: <!-- TODO: Fallback translation -->
+A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist:
 
 1.  ⟪औहे⟫
 2.  ⟪जाग्रति⟫
@@ -416,7 +416,7 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie
 18.  ⟪ऐक्षध्वम्⟫
 19.  ⟪अचेतः⟫
 
-B) Übersetzen und bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
+B) Übersetzen und bestimmen Sie folgende Formen:
 
 1.  ⟪अनेढ्वम्⟫
 2.  ⟪एनयोः⟫
@@ -458,16 +458,3 @@ B) Übersetzen und bestimmen Sie folgende Formen: <!-- TODO: Fallback translatio
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [Bildquelle: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
-
-**lekt5803:** Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ <!-- TODO: Fallback translation -->
-
-**lekt5806:** [Bildquelle: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). --  Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine Kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-**lekt5807:** ⟪पुणेनगरे⟫ <!-- TODO: Fallback translation -->
-
-**lekt5801:** [Bildquelle: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Zugriff am 2009-03-02. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-
-:::

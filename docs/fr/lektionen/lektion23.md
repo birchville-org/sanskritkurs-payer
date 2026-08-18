@@ -1,10 +1,11 @@
 ---
-title: Lektion 23
-subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
+title: "Leçon 23"
+subtitle: "L'infinitif (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 23
@@ -86,7 +87,7 @@ Parmi les racines apprises jusqu'à présent, les infinitifs suivants méritent 
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. L'infinitif (⟪तुमुन्⟫) pour les racines apprises jusqu'à présent
 
@@ -234,39 +235,26 @@ D) Traduisez et résolvez les composés :
 Fig. : ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thaïlande = ประเทศไทย
 (Source de l'image : [Détails](/fr/licenses#lekt2303))
-:::
-⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
 ::: media
 ![](/images/lekt2301.webp)
-Fig. : ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
+Fig. : ⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thaïlande = เชียงใหม่, ประเทศไทย
 (Source de l'image : [Détails](/fr/licenses#lekt2301))
 :::
-⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
+⟪शूद्रजनो ब्राह्मणेन सह अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति ॥५॥ लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥ शूद्रया संगत्य ब्राह्मणो यष्टुं नार्हति ॥७॥ धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥⟫
 
-⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
+C) Traduisez le suivant ⟪सुभाषितम् आहारनिद्राभयमैथुनं च सामान्यमेतत्पशुभिर्नराणाम् । धर्मे हि तेषामधिको विशेषो धर्मेण हीनाः पशुभिः समानाः ॥⟫
 
-⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫
-
-⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫
-
-C) Traduisez le ⟪सुभाषितम्⟫ suivant
-
-⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
-⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
-⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
-⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
-
-Explication : ⟪हीन⟫ ⟪३⟫ : PPP de ⟪हा⟫ 3 : quitter ; ⟪धर्मे⟫ = locatif sg. "dans le ..."
+Explication : ⟪हीन ३⟫ : PPP de ⟪हा⟫ 3: quitter ; ⟪धर्मे⟫ = Locatif sg. "dans le ..."
 
 ::: media
 ![](/images/lekt2302.webp)
-Fig. : ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
+Fig. : ⟪आहारनिद्राभयमैथुनं च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2302))
 :::
-## 23.6. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 23.6. Exercice de révision
 
 Veuillez ne pas utiliser d'aides !
 
@@ -274,11 +262,13 @@ A) Traduisez en sanskrit :
 
 1\. Les cinq (⟪पञ्च⟫) "souffrances" sont : l'ignorance, le faux croyance en le moi, l'affection, l'aversion et l'attachement au corps.
 
-2\. La connaissance existe pour l'obéissance envers un enseignant ou pour beaucoup d'argent ou en échange contre la connaissance. Une quatrième sorte d'acquisition de connaissance n'existe pas.
+La connaissance existe pour l'obéissance envers un enseignant ou pour beaucoup d'argent ou en échange contre la connaissance. Une quatrième sorte de acquisition de connaissance n'existe pas.
 
-3\. Un inférieur parle, mais n'agit pas ; un bon ne parle pas, mais agit seulement.
+Un bas parle, mais agit non ; un bon ne parle pas, mais agit seulement.
 
-4\. Les sciences auxiliaires du Veda sont : la phonétique, la rituelle, la grammaire, la sémantique, la métrique (⟪छन्दस्⟫) et l'astronomie.
+Les sciences auxiliaires du Veda sont : la phonétique, le rituel, la grammaire, la sémantique, la métrique (⟪छन्दस्⟫) et l'astronomie.
+
+Le yoga est l'arrêt des activités de l'organe pensant.
 
 5\. Le yoga est l'arrêt des activités de l'organe de pensée.
 
@@ -316,13 +306,3 @@ C) Donnez les formes de base (signification, classe de présent, mode, 3. sg. pr
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt2301 :** Chiang Mai, Thaïlande = เชียงใหม่, ประเทศไทย [Source de l'image : Wikipédia. Licence GNU FDL]
-
-**lekt2302 :** Chittorgarh = ⟪चित्तौडगढ⟫ [Source de l'image : par zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Accès le 2008-12-13. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de modification)]
-
-**lekt2303 :** ทำบุญ = ⟪पुण्यकरणम्⟫, Thaïlande = ประเทศไทย [Source de l'image : Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Accès le 2008-12-13. -- Licence Creative Commons (Attribution, pas de modification)]
-
-**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Premier ministre de l’Inde = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, depuis 2004 [source de l’image : Wikipédia, domaine public]
-:::

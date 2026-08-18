@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 3
 
-A) Muuttakaa seuraavat lauseet monikkoon: <!-- TODO: Fallback translation -->
+A) Muuttakaa seuraavat lauseet monikkoon:
 
 1\. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
 
@@ -143,7 +143,7 @@ devyo gurvyaḥ.
 
 ⟪देव्यो⟫ ⟪गुर्व्यः⟫
 
-4\. Maitolehmät ovat kesy eläimiä. <!-- TODO: Fallback translation -->
+4\. Maitolehmät ovat kesy eläimiä.
 
 paśavo dhenavaḥ.
 
@@ -155,7 +155,7 @@ guravaḥ kavayaḥ.
 
 ⟪गुरवः⟫ ⟪कवयः⟫
 
-6\. Kṣatriyat ovat kaksinkertaisesti syntyneitä. <!-- TODO: Fallback translation -->
+6\. Kṣatriyat ovat kaksinkertaisesti syntyneitä.
 
 dvijāḥ kṣatriyāḥ.
 
@@ -171,5 +171,5 @@ dvijāḥ kṣatriyāḥ.
 ![](/images/uebung001.webp)
 Kuv.: ⟪पशुर्धेनुः⟫
 (Kuv lähde: [Details](/licenses#uebung001))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

@@ -7,16 +7,8 @@ category: "Grammatik"
 status: stable
 ---
 
-# 10. lecke <!-- TODO: Fallback translation -->
+# 10. lecke
 
-::: deleteme-box
-**Ebben a leckében megtanulják:**
-- Az igemódú passzívmondat (az agens eszközhatározói esete)
-- Az eszközhatározó eset (tṛtīyā) ragozása
-- A cerebraleszközösítési szabály az -n- számára (szóvégi sandhi)
-- A passzív képzése (yak) az indikatív jelen időben
-- Szókincs áldozat, igazság és társadalmi szerepek témakörében
-:::
 ## 10.1. Az igemódú passzívmondat
 
 ::: grammar-box
@@ -77,7 +69,7 @@ A szanszkrit passzív konstrukciók kifejezetten gyakoriak: a passzív ugyanis k
 | **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
 | **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
-**-a tövű hímnemű és semlegesnemű szavak (szabálytalan egyes és többes számban):** <!-- TODO: Fallback translation -->
+**-a tövű hímnemű és semlegesnemű szavak (szabálytalan egyes és többes számban):**
 
 | | eszközhatározó eset (instrumentalis) egyes szám | eszközhatározó eset (instrumentalis) többes szám |
 | :--- | :--- | :--- |
@@ -103,9 +95,6 @@ A szanszkrit passzív konstrukciók kifejezetten gyakoriak: a passzív ugyanis k
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-A nominatívus és akkuzatívus kivételével a -a végű középnemű kérdő- és mutatónévmások alakjai megegyeznek a megfelelő hímnemű alakokkal.
-:::
 
 ### 10.2.1. Az instrumentális (tṛtīyā = ⟪तृतीया⟫) használata
 
@@ -113,7 +102,7 @@ A nominatívus és akkuzatívus kivételével a -a végű középnemű kérdő- 
 **Az instrumentális (tṛtīyā) főként a következő kérdésekre áll:**
 - **Mivel?**
 - **Mi által?**
-- **Kivel?** <!-- TODO: Fallback translation -->
+- **Kivel?**
 
 **Az instrumentális**
 1. **passzív mondatokban áll: az agens (kartṛ) eszközhatározó esetben (instrumentalis)**
@@ -154,7 +143,7 @@ Egy **-n-**, amely után magánhangzó vagy **n, m, y, v** következik, **-ṇ-*
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. A passzív, indikativum jelen idő (yak = ⟪यक्⟫) <!-- TODO: Fallback translation -->
+## 10.4. A passzív, indikativum jelen idő (yak = ⟪यक्⟫)
 
 ::: grammar-box
 **Alakítás:**
@@ -168,7 +157,7 @@ pl.
 | **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
 | **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
-**Vegye figyelembe, hogy a 4. jelen időosztályba tartozó igéknél az Ātmanepada és a passzív identikus alakokat képeznek! Az, hogy Ātmanepada vagy passív áll-e fenn, ebben az esetben csak a mondat szerkezetéből következtethető ki.** <!-- TODO: Fallback translation -->
+**Vegye figyelembe, hogy a 4. jelen időosztályba tartozó igéknél az Ātmanepada és a passzív identikus alakokat képeznek! Az, hogy Ātmanepada vagy passív áll-e fenn, ebben az esetben csak a mondat szerkezetéből következtethető ki.**
 
 ### 10.4.1. Különleges szabályok a passzív képzéséhez
 
@@ -192,7 +181,7 @@ pl.
 * **smṛ** 1 P: **smaryate**, **smaryante**
 ⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-4. **Tiefstufe von Verben, die mit ya, va, ra beginnen, bzw. bei denen diese Laute nach einem anderen Konsonanten stehen (Samprasāraṇa = ⟪सम्प्रसारण⟫):** <!-- TODO: Fallback translation -->
+4. **Tiefstufe von Verben, die mit ya, va, ra beginnen, bzw. bei denen diese Laute nach einem anderen Konsonanten stehen (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
    | Tő:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
    | :--- | :--- | :--- |
@@ -210,17 +199,17 @@ A mély szintű képzés hagyományos belföldi megnevezése az **ya** vagy **va
 
 6. **Egyes -an végű alapok alternatívan két passzív képzést mutatnak:**
    * egy **-an-ya**
-   * egy **-ā-ya-** (a hosszú **ā** egy hipotetikus hosszú nazális helyettesítője) <!-- TODO: Fallback translation -->
+   * egy **-ā-ya-** (a hosszú **ā** egy hipotetikus hosszú nazális helyettesítője)
 
 pl. **tan** 8 U.
 * **tan-ya-te**, **tan-ya-nte**
 ⟪तन्यते⟫, ⟪तन्यन्ते⟫
 * **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (a \*tn-ya-nte-ből) <!-- TODO: Fallback translation -->
+⟪तायते⟫, ⟪तायन्ते⟫ (a \*tn-ya-nte-ből)
 
 ## 10.5. Szószedet
 
-**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
 - **gṛha** n. ⟪गृह⟫ : ház
 - **grāma** m. ⟪ग्राम⟫ : falu
@@ -238,7 +227,7 @@ pl. **tan** 8 U.
   Szóképzés: **yaj** 1 U + kṛt-suffix **-na-**.
   :::
 
-- **puṇya** n. ⟪पुण्य⟫ : jó cselekedet, érdem <!-- TODO: Fallback translation -->
+- **puṇya** n. ⟪पुण्य⟫ : jó cselekedet, érdem
 
   ::: note-box
   Amellyel boldogulást és jó újjászületéseket érdemel ki az ember.
@@ -266,7 +255,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hátralevő kézir
   A **ṛta** a Véda központi fogalma, melynek fordítása vitatott: „igazság” (Lüders, Thieme), „rend” (Renou).
   :::
 
-- **ṛṣi** m. ⟪ऋषि⟫ : védikus bölcs, védikus ének szerzője <!-- TODO: Fallback translation -->
+- **ṛṣi** m. ⟪ऋषि⟫ : védikus bölcs, védikus ének szerzője
 
   ::: note-box
   Ezeknek a **ṛṣi**knak a neveit a Brāhmaṇákban, valamint külön, a Védákhoz tartozó jegyzékekben is megemlítik. Minden bráhmana eredetét olyan **ṛṣi**kra vezeti vissza, akikről a **gotra** (⟪गोत्र⟫) elnevezése származik. A **gotra** fogalommal kapcsolatban lásd Basham, *Wonder*, 5. fejezet.
@@ -308,7 +297,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hátralevő kézir
 21. **pṛcchanti** (⟪पृच्छन्ति⟫)
 22. **tanvanti** (⟪तन्वन्ति⟫) (2 alak!)
 
-**B) Képezze az eddig tanult főnevek instrumentális egyes és többes számát.** <!-- TODO: Fallback translation -->
+**B) Képezze az eddig tanult főnevek instrumentális egyes és többes számát.**
 
 **C) Alakítsa át a következő mondatokat passzívba, és fordítsa le őket:**
 1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫)
@@ -344,7 +333,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hátralevő kézir
 7. A költő egy istenséget lát. (Passzív szerkezet)
 8. Ki (nőnemű) őriz a leányt? (Passzív szerkezet)
 9. A kṣatriya imádja az ÚR-t egy áldozattal. (Passzív szerkezet, a **yajña** szó használata nélkül)
-10. A nagylelkűség révén egy buddhista követő elér egy mennyországot. <!-- TODO: Fallback translation -->
+10. A nagylelkűség révén egy buddhista követő elér egy mennyországot.
 
 ## 10.7. Szószedet 2
 
@@ -371,7 +360,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hátralevő kézir
 - **mārga** m. ⟪मार्ग⟫ : út
 - **evam** ⟪एवम्⟫ : így
 - **iha** ⟪इह⟫ : itt
-- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : szép lenni, ragyogni <!-- TODO: Fallback translation -->
+- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : szép lenni, ragyogni
 
 ## 10.8. Olvasási és fordítási gyakorlat
 

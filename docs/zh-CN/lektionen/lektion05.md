@@ -9,13 +9,6 @@ status: stable
 
 # 第五课
 
-::: deleteme-box
-复合名词（samāsa）的基础知识
-- 复合名词的专业术语
-- 并列复合词（Dvandva）
-- Dvandva 中各组成部分的顺序
-- 并列复合词（Dvandvas）中各成分的顺序
-:::
 ## 5.1. 复合名词（samāsa m. = ⟪समास⟫）
 
 在极大程度上形成复合词是梵语的一个特征。

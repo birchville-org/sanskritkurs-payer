@@ -1,8 +1,9 @@
 ---
 title: "تمرین ۷"
 uebung_id: 7
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -60,105 +61,103 @@ dhenuṃ labhate. dhenūr labhate. paśuṃ labhate. paśūṃḷ labhate. phala
 
 [B] افعال مناسب را در جای خالی قرار دهید:
 
-1\. sādhuḥ svargam ... (āp, gam, aś)
+ب) شکل‌های فعلی مناسب را جایگذاری کنید:
 
-⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
+۱\. sādhuḥ svargam ... (āp, gam, aś)
+
+⟪साधुः स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
 
 sādhuḥ svargam āpnoti. sādhuḥ svargaṃ gacchati. sādhuḥ svragam aśnute.
 
-⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫ ⟪।⟫ ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪साधुः⟫ ⟪स्व्रगमश्नुते⟫ ⟪।⟫
+⟪साधुः स्वर्गमाप्नोति । साधुः स्वर्गं गच्छति । साधुः स्व्रगमश्नुते ।⟫
 
-2\. brāhmaṇaḥ somam ... (su) (2 Formen)
+۲\. brāhmaṇaḥ somam ... (su) (2 Formen)
 
-⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
+⟪ब्राह्मणः सोमम्⟫ ... (⟪सु⟫)
 
 brāhmaṇaḥ somaṃ sunoti / sunute.
 
-⟪ब्राह्मणः⟫ ⟪सोमं⟫ ⟪सुनोति⟫ ⟪।⟫ ⟪ब्राह्मणः⟫ ⟪सोमं⟫ ⟪सुनुते⟫ ⟪।⟫
+⟪ब्राह्मणः सोमं सुनोति । ब्राह्मणः सोमं सुनुते ।⟫
 
-3\. sādhur gurum ... (śru)
+۳\. sādhur gurum ... (śru)
 
 ⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
 
 sādhur guruṃ śṛṇoti.
 
-⟪साधुर्गुरुं⟫ ⟪शृणोति⟫ ⟪।⟫
+⟪साधुर्गुरुं शृणोति ।⟫
 
-4\. devī ... (kup, krudh)
+۴\. devī ... (kup, krudh)
 
 ⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
 
 devī kupyati. devī krudhyati.
 
-⟪देवी⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪देवी⟫ ⟪क्रुध्यति⟫ ⟪।⟫
+⟪देवी कुप्यति । देवी क्रुध्यति ।⟫
 
-C) در جملات تمرین B)، فاعل، مفعول و فعل را به جمع تبدیل کنید.
+ج) در جمله‌های تمرین ب)، فاعل، مفعول و فعل را به جمع تبدیل کنید.
 
-1\. sādhavaḥ svargān āpnuvanti. sādhavaḥ svargān gacchanti. sādhavaḥ svargān aśnuvate.
+۱\. sādhavaḥ svargān āpnuvanti. sādhavaḥ svargān gacchanti. sādhavaḥ svargān aśnuvate.
 
-⟪साधवः⟫ ⟪स्वर्गानाप्नुवन्ति⟫ ⟪।⟫ ⟪साधवः⟫ ⟪स्वर्गान्गच्छन्ति⟫ ⟪।⟫ ⟪साधवः⟫ ⟪स्वर्गानश्नुवते⟫ ⟪।⟫
+⟪साधवः स्वर्गानाप्नुवन्ति । साधवः स्वर्गान्गच्छन्ति । साधवः स्वर्गानश्नुवते ।⟫
 
-2\. brāhmanāḥ somaṃ sunvanti.
+۲\. brāhmanāḥ somaṃ sunvanti.
 
-⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫ ⟪।⟫
+⟪ब्राह्मणाः सोमं सुन्वन्ति ।⟫
 
-3\. sādhavo gurūñ chrṇvanti / śṛṇvanti.
+۳\. sādhavo gurūñ chrṇvanti / śṛṇvanti.
 
-⟪साधवो⟫ ⟪गुरूञ्छृण्वन्ति⟫ ⟪।⟫ ⟪साधवो⟫ ⟪गुरूञ्शृण्वन्ति⟫ ⟪।⟫
+⟪साधवो गुरूञ्छृण्वन्ति । साधवो गुरूञ्शृण्वन्ति ।⟫
 
-4\. devyaḥ kupyanti. devyaḥ krudhyanti.
+۴\. devyaḥ kupyanti. devyaḥ krudhyanti.
 
-⟪देव्यः⟫ ⟪कुप्यन्ति⟫ ⟪।⟫ ⟪देव्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪।⟫
+⟪देव्यः कुप्यन्ति । देव्यः क्रुध्यन्ति ।⟫
 
-D) Setzen Sie ins Ātmanepada:
+د) به حالت آتم‌نپدا تبدیل کنید:
 
-1\. sunvanti.
+۱\. sunvanti.
 
 ⟪सुन्वन्ति⟫
 
 sunvate.
 
-⟪सुन्वते⟫ ⟪।⟫
+⟪सुन्वते ।⟫
 
-2\. nayanti.
+۲\. nayanti.
 
 ⟪नयन्ति⟫
 
 nayante.
 
-⟪नयन्ते⟫ ⟪।⟫
+⟪नयन्ते ।⟫
 
-3\. sunoti.
+۳\. sunoti.
 
 ⟪सुनोति⟫
 
 sunute.
 
-⟪सुनुते⟫ ⟪।⟫
+⟪सुनुते ।⟫
 
-4\. yajati.
+۴\. yajati.
 
 ⟪यजति⟫
 
 yajate.
 
-⟪यजते⟫ ⟪।⟫
+⟪यजते ।⟫
 
-E) Bilden Sie zu allen bisher gelernten Nomina den Akkusativ (dvitīyā) sg. und pl. <!-- TODO: Fallback translation -->
-
-F) Übersetzen Sie:
-
-1\. narakāṃś ca svargāṃś ca gacchanti.
+ه) برای تمام اسم‌هایی که تاکنون آموخته‌اید، حالت مفعولی (دیتییا) مفرد و جمع را بسازید.
 
 ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫
 
-Sie gehen in Himmel und Höllen. <!-- TODO: Fallback translation -->
+Sie gehen in Himmel und Höllen.
 
 2\. gurūṃs tu śṛṇvanti.
 
 ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 
-Sie hören aber auf die Meister. <!-- TODO: Fallback translation -->
+Sie hören aber auf die Meister.
 
 3\. Śūdras erlangen einen Himmel.
 
@@ -184,7 +183,7 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Erklärung: chando = Nom,, Akk. sg. zu chandas n.) <!-- TODO: Fallback translation -->
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Erklärung: chando = Nom,, Akk. sg. zu chandas n.)
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
@@ -196,13 +195,13 @@ ayaṃ brāhmaṇaḥ kaṃ devaṃ yajati / yajate?
 
 ⟪अयं⟫ ⟪ब्राह्मणः⟫ ⟪कं⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
-9\. Was kaut dieser heilige Mann? <!-- TODO: Fallback translation -->
+9\. Was kaut dieser heilige Mann?
 
 ayaṃ sādhuḥ kiṃ khādati?
 
 ⟪अयं⟫ ⟪साधुः⟫ ⟪किं⟫ ⟪खाद⟫ati ⟪।⟫
 
-10\. Was pressen diese (hier) aus? <!-- TODO: Fallback translation -->
+10\. Was pressen diese (hier) aus?
 
 ete kiṃ sunvanti / sunvate?
 
@@ -218,4 +217,6 @@ sa guruḥ. enaṃ śṛṇvanti.
 ![](/images/uebung006.jpg)
 تصویر: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (منبع تصویر: [جزئیات](/licenses#uebung006))
+
 :::
+

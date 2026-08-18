@@ -14,9 +14,9 @@ status: stable
 ⲙϫⲉ ϩⲁϥⲛⲓⲕ ⲙⲉⲧⲣϥ ϯⲛ ϩⲙⲓ ⲉⲧϫⲟⲣ ϩⲛ ϡⲙⲓ
 
 1.  ⲧϫⲉ ϩⲁϥⲛⲓ ⳙⲟⲕ ϩⲉϥⲛⲓ ⳙⲟⲕ ϩⲉϥⲛⲓ ⳙⲟⲕ
-2.  Ϩⲛ ϯϥ ⲙⲉⲧⲣϥ, ϩⲓⲛ ⲙⲉⲧⲣϥ. ϩⲓⲛ ⲙⲉⲧⲣϥ. <!-- TODO: Fallback translation -->
+2.  Ϩⲛ ϯϥ ⲙⲉⲧⲣϥ, ϩⲓⲛ ⲙⲉⲧⲣϥ. ϩⲓⲛ ⲙⲉⲧⲣϥ.
 
-Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden. <!-- TODO: Fallback translation -->
+Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden.
 
 ## 37.2. ⲭⲣⲏⲥⲓⲥ ⲛ̄ⲁⲧⲫⲉⲣⲃⲓⲁⲗ ⲛ̄ⲧⲉ ⲧⲉⲫⲟⲣⲙⲏ ⲛ̄ⲕⲁⲥⲟⲥ
 
@@ -37,14 +37,14 @@ Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hi
 ⟪कामम्⟫ "ⲡⲓϣⲟⲙⲧ ⲛⲁϣ"
 ⟪अर्थम्⟫ "ⲛⲁϣ"
 
-*   von Adjektiven im Neutrum   <!-- TODO: Fallback translation -->
+*   von Adjektiven im Neutrum  
 ⲁⲡⲟ̀ ⲛⲧⲉ ϯⲙⲁϥⲟⲛ ⲛⲉⲧϣⲏⲙ
 ⲡⲓⲕⲱϥ:  
 ⟪सुखम्⟫ "ⲕⲉϥ, ⲛⲁⲓ"  
 ⟪नित्यम्⟫ "ⲛϣⲟⲡ"  
 ⟪साधु⟫ "ⲛϣⲟⲡ, ⲛⲁⲓ"
 
-*   von Pronomina im Neutrum   <!-- TODO: Fallback translation -->
+*   von Pronomina im Neutrum  
 ⲁⲡⲟ̀ ⲛⲧⲉ ϯϣⲁϥⲙⲟⲛ ⲛⲉⲧϣⲏⲙ
 ⲡⲓⲕⲱϥ:  
 ⟪तद्⟫ "ⲛϣⲟⲡ, ⲛⲁⲓ"  
@@ -57,10 +57,10 @@ Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hi
 Ⲧⲉϣⲁⲥⲡⲓ (⟪तृतीया⟫) ⲛⲁϥⲙⲟⲛ ⲉⲧϣⲏⲙ ⲁⲡⲟ̀:
 
 *   ⲉϣⲟⲡ.
-*   womit? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   womit?
+*   u. ä.
 
-ⲡⲓϣⲟⲛⲧⲉ ϩⲙ ⲡϣⲟⲛⲧⲉ: <!-- TODO: Fallback translation -->
+ⲡⲓϣⲟⲛⲧⲉ ϩⲙ ⲡϣⲟⲛⲧⲉ:
 
 *   ϩⲙ ⲛϣⲟⲛⲧⲉ
 ϩⲙ ⲡϣⲟⲛⲧⲉ:
@@ -80,7 +80,7 @@ Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hi
 *   ⲛⲓⲙⲉϥ ϩⲕⲏ ⲛⲓⲙⲉϥ
 *   Ϧⲱⲧ:
 
-Beispiel: <!-- TODO: Fallback translation -->
+Beispiel:
 :::
 ::: indent
 ⟪अर्थाय⟫ "ⲛϣⲟⲡ ⲙ̀ⲧⲉ, ϩⲛϣⲟⲡ ⲙ̀ⲧⲉ"
@@ -95,7 +95,7 @@ Beispiel: <!-- TODO: Fallback translation -->
 *   ⲛⲓϣⲟⲡ;
 *   ⲛⲓⲙⲉϥ ϩⲕⲏ
 
-Adverbial gebraucht werden kann der Ablativ: <!-- TODO: Fallback translation -->
+Adverbial gebraucht werden kann der Ablativ:
 
 *   von Substantiven
     z.B. ⟪बलात्⟫ "gewaltsam, mit Gewalt"
@@ -123,7 +123,7 @@ Adverbial gebraucht werden kann der Ablativ: <!-- TODO: Fallback translation -->
 Ⲧⲛ ϩⲟϫⲣⲉ (⟪सप्तमी⟫) ⲛⲁϥ ϯⲙⲉτⲣⱧ ⲛⲁ ϯϫⲟⲉ:
 
 *   ϩ.π.
-*   unter welchen Umständen? <!-- TODO: Fallback translation -->
+*   unter welchen Umständen?
 *   ϩ.π.
 
 ϩⲉⲛⲡⲁⲣⲁⲇⲓⲅⲙⲁ:
@@ -146,7 +146,7 @@ Adverbial gebraucht werden kann der Ablativ: <!-- TODO: Fallback translation -->
 ## 37.4. ⲡⲥⲱⲛⲧ ⲛ̀ϩⲉⲛⲁⲇⲃⲉⲣⲃⲓⲟⲛ ⲛⲉⲙ ϩⲉⲛⲥⲩⲫⲫⲓⲝ ⲛ̀ⲁⲇⲃⲉⲣⲃⲓⲟⲛ
 
 ::: grammar-box
-ⲁⲝ ⲛⲧⲉ ϯϣⲟⲡⲓ ⲛⲧⲉ ϯϣⲟⲡⲓ ⟪तद्⟫, ⟪इदम्⟫ ⲛⲉϥ ϯϣⲟⲡⲓ ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ ⲛⲉϥ ϯϣⲟⲡⲓ ⲛⲉϥ ϯϣⲟⲡⲓ ⟪कु⟫ ⲛⲉϥ ϯϣⲟⲡⲓ ⲛⲉϥ ϯϣⲟⲡⲓ ⲛⲉϥ ϯϣⲟⲡ <!-- TODO: Fallback translation -->
+ⲁⲝ ⲛⲧⲉ ϯϣⲟⲡⲓ ⲛⲧⲉ ϯϣⲟⲡⲓ ⟪तद्⟫, ⟪इदम्⟫ ⲛⲉϥ ϯϣⲟⲡⲓ ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ ⲛⲉϥ ϯϣⲟⲡⲓ ⲛⲉϥ ϯϣⲟⲡⲓ ⟪कु⟫ ⲛⲉϥ ϯϣⲟⲡⲓ ⲛⲉϥ ϯϣⲟⲡⲓ ⲛⲉϥ ϯϣⲟⲡ
 
 *   \-⟪तस्⟫ (Ablativ)
 *   \-⟪त्र⟫ (Lokativ)
@@ -297,7 +297,7 @@ Indefinitpronomina (unbestimmte Fürwörter) werden durch Anfügen von
 ::: grammar-box
 ⲤⲰⲘⲐ:
 
-Fragepronomen/Frageadverb - Satz <!-- TODO: Fallback translation -->
+Fragepronomen/Frageadverb - Satz
 :::
 ⲤⲰⲘⲐ:
 ::: indent
@@ -510,19 +510,5 @@ Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 
 ⲧⲉϥⲛⲁϣ ϫⲓ ⲡⲉⲥⲛⲏϧ ϫⲓ ⲡⲉⲙⲛⲭⲏⲙⲓ ⲉϥⲃⲟⲗ ϫⲓ ⲡⲉϥϣⲱⲙ ϧⲛ ⲡⲉⲕⲩⲃⲟϧ ϫⲓ ⲡⲉⲛⲁⲕⲟϧ:
 
-Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuss eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte frassen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises! <!-- TODO: Fallback translation -->
+Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuss eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte frassen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises!
 
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Abb.: ⟪क्व⟫): [ⲙⲁⲧⲣⲉ ⲛ̀ⲧⲥⲟⲩⲣⲝ: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- ⲛⲁϧ 2008-12-30. -- Creative Commons ⲛⲁϧⲓⲥ (ⲙⲉⲛⲟⲩϧ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ)]
-- **Image lekt3702.jpg** (Abb.: ⟪यथाशक्ति⟫): [ⲙⲁⲧⲣⲉ ⲛ̀ⲧⲥⲟⲩⲣⲝ: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- ⲛⲁϧ 2008-12-30. -- Creative Commons ⲛⲁϧⲓⲥ (ⲙⲉⲛⲟⲩϧ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ)]
-- **Image lekt3703.jpg** (Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [ⲙⲁⲧⲣⲉ ⲛ̀ⲧⲥⲟⲩⲣⲝ: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- ⲛⲁϧ 2008-12-30. -- Creative Commons ⲛⲁϧⲓⲥ (ⲙⲉⲛⲟⲩϧ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ)]
-- **Image lekt3704.jpg** (Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [ⲙⲁⲧⲣⲉ ⲛ̀ⲧⲥⲟⲩⲣⲝ: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- ⲛⲁϧ 2008-12-30. -- Creative Commons ⲛⲁϧⲓⲥ (ⲙⲉⲛⲟⲩϧ)]
-- **Image lekt3705.jpg** (Abb.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [ⲙⲁⲧⲣⲉ ⲛ̀ⲧⲥⲟⲩⲣⲝ: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- ⲛⲁϧ 2008-12-31. -- Creative Commons ⲛⲁϧⲓⲥ (ⲙⲉⲛⲟⲩϧ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ)]
-- **Image lekt3706.jpg** (Abb.: ⟪वृक्षः⟫): Jaipur [ⲙⲁⲧⲣⲉ ⲛ̀ⲧⲥⲟⲩⲣⲝ: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- ⲛⲁϧ 2008-12-31. -- Creative Commons ⲛⲁϧⲓⲥ (ⲙⲉⲛⲟⲩϧ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ, share alike)]
-- **Image lekt3707.jpg** (Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): ⲛⲁϧⲓⲥ ⲛ̀ ⲙⲉⲧⲁϫⲱⲣⲙ ⲛ̀ ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [ⲙⲁⲧⲣⲉ ⲛ̀ⲧⲥⲟⲩⲣⲝ: Wikipedia. Public domain]
-- **Image lekt3708.jpg** (Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [ⲙⲁⲧⲣⲉ ⲛ̀ⲧⲥⲟⲩⲣⲝ: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- ⲛⲁϧ 2008-12-31. -- Creative Commons ⲛⲁϧⲓⲥ (ⲙⲉⲛⲟⲩϧ)]
-- **Image lekt3709.jpg** (Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [ⲙⲁⲧⲣⲉ ⲛ̀ⲧⲥⲟⲩⲣⲝ: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- ⲛⲁϧ 2008-12-31. -- Creative Commons ⲛⲁϧⲓⲥ (ⲙⲉⲛⲟⲩϧ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ)]
-- **Image lekt3710.jpg** (Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [ⲙⲁⲧⲣⲉ ⲛ̀ⲧⲥⲟⲩⲣⲝ: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- ⲛⲁϧ 2008-12-31. -- Creative Commons ⲛⲁϧⲓⲥ (ⲙⲉⲛⲟⲩϧ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ, share alike)]
-- **Image lekt3711.jpg** (Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [ⲙⲁⲧⲣⲉ ⲛ̀ⲧⲥⲟⲩⲣⲝ: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- ⲛⲁϧ 2008-12-31. -- Creative Commons ⲛⲁϧⲓⲥ (ⲙⲉⲛⲟⲩϧ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ, ⲛⲏϥϫⲉ ϯⲙⲉⲧⲁⲃⲟⲗ)]
-:::

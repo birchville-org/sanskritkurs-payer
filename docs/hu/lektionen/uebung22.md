@@ -77,7 +77,7 @@ Buddha (Sugata) felismerésre ébredt, kihirdette a szenvedésről szóló igazs
 
 ⟪७⟫. **⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫**
 (⟪यज्ञस्य⟫ ⟪दोषम्⟫)
-Mivel elfelejtette a mondást, az áldozó áldozati hibát követ el. <!-- TODO: Fallback translation -->
+Mivel elfelejtette a mondást, az áldozó áldozati hibát követ el.
 
 ⟪८⟫. **⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫**
 (⟪बुद्धस्य⟫ ⟪मार्गो⟫ ⟪मार्गो⟫ ⟪येषां⟫ ⟪ते⟫ ⟪भिक्षवः⟫)
@@ -85,7 +85,7 @@ Ha pénzt kapnak, megromlanak azok a szerzetesek, akik Buddha útját járják.
 
 ⟪९⟫. **⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫**
 (⟪अनार्यैः⟫ ⟪शत्रुभिः⟫ ⟪।⟫ ⟪नराः⟫ ⟪सिंहा⟫ ⟪इव⟫)
-Az oroszlánhoz hasonló férfiak összecsaptak az ellenségekkel, akik nem Ārya-k, és teljes győzelmet arattak. <!-- TODO: Fallback translation -->
+Az oroszlánhoz hasonló férfiak összecsaptak az ellenségekkel, akik nem Ārya-k, és teljes győzelmet arattak.
 
 ⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
 Ha érdemeket cselekedett és csak igazságot beszélt, az ember nem kerül pokolba.
@@ -95,7 +95,7 @@ Ha érdemeket cselekedett és csak igazságot beszélt, az ember nem kerül poko
 Ábra: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Kép forrása: [Részletek](/licenses#uebung034))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Passzív konstrukciók
 

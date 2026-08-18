@@ -158,15 +158,15 @@ Explications :
 
 ⟪।११।⟫ ⟪योजयति⟫ (Caus. de ⟪युज्⟫) "atteler, relier à, unir à"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva)
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "d'autant plus"
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. de ⟪बलीयस्⟫ ⟪३⟫ "plus fort" <!-- TODO: Fallback translation -->
+⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. de ⟪बलीयस्⟫ ⟪३⟫ "plus fort"
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "quatre" comme premier membre d'un composé
 
-⟪राज्ञा⟫ Instr. sg. masc. de ⟪राजन्⟫ m. "Roi" <!-- TODO: Fallback translation -->
+⟪राज्ञा⟫ Instr. sg. masc. de ⟪राजन्⟫ m. "Roi"
 
 ⟪स्वेषु⟫ : Loc. plur. masc. / neutr. de ⟪स्व⟫ ⟪३⟫ "propre (mien, tien, sien, etc.)"
 
@@ -263,11 +263,5 @@ Explications :
 | ⟪हन्⟫ ⟪२⟫ ⟪प⟫ | ⟪हनिष्यति⟫ | ⟪घातयति⟫ |
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
-:::
-::: deleteme-box
-
-**lekt2903 :** Pushkar = ⟪पुष्कर⟫ [Source de l'image : pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Consulté le 2008-12-20. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)]
-**lekt2901 :** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Source de l'image : Khalid Mahmood / Wikipedia. GNU FDLicense]
-**lekt2902 :** (Dessin : Namcha Payer, 2002-11)
 :::
 

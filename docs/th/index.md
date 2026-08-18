@@ -2,32 +2,33 @@
 layout: home
 
 hero:
-  name: "คอร์สภาษาสันสกฤต"
+  name: "หลักสูตรภาษาสันสกฤต"
   text: "หลักสูตรที่สมบูรณ์"
-  tagline: "โดย Alois Payer (ห้องสมุดหมู่บ้านโลกของ Tüpfli)"
+  tagline: "โดย Alois Payer (Tüpfli's Global Village Library)"
   actions:
     - theme: brand
-      text: "เริ่มคอร์ส"
+      text: "เริ่มหลักสูตร"
       link: /th/lektionen/lektion01
     - theme: alt
       text: "หัวข้อไวยากรณ์"
       link: /th/grammatik
 
 features:
-  - title: Devanāgarī ready
+  - title: "Devanāgarī ready"
     details: "การพิมพ์ที่สมบูรณ์แบบและบูรณาการสำหรับอักษรอินเดีย"
-  - title: Leicht Durchsuchbar
-    details: "ระบบค้นหาข้อความเต็มรูปแบบในท้องถิ่นที่ล้ำลึกทำให้ความรู้พร้อมใช้งานเพียงคลิกปุ่ม"
-  - title: Moderne Architektur
-    details: "สร้างบนพื้นฐานของ VitePress เพื่อความเร็วสูงสุด"
+  - title: "ค้นหาได้ง่าย"
+    details: "การค้นหาข้อความเต็มรูปแบบในเครื่องที่ล้ำลึกทำให้ความรู้พร้อมใช้งานเพียงคลิกปุ่ม"
+  - title: "สถาปัตยกรรมสมัยใหม่"
+    details: "สร้างขึ้นบนพื้นฐานของ VitePress เพื่อความเร็วสูงสุด"
+
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+**หลักสูตรภาษาสันสกฤต** ของ Alois Payer เป็นหลักสูตรที่ครอบคลุมและได้รับการสนับสนุนทางวิทยาศาสตร์สำหรับการเรียนรู้ภาษาสันสกฤตและอักษรเทวนาครี ฉบับดิจิทัลนี้จัดเตรียมหลักสูตรทั้งหมดในสภาพแวดล้อมการอ่านที่ทันสมัย รองรับหลายภาษา และค้นหาได้
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+ภาษาต่างๆ ถูกแปลจากภาษาเยอรมันเป็นภาษาเป้าหมายอย่างสมบูรณ์โดยอัตโนมัติด้วยความช่วยเหลือของ AI (Qwen3.6-32B) ยินดีรับรายงานข้อผิดพลาดในการแปล
+**หมายเหตุและการติดต่อ**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**มีส่วนร่วมในฐานะบรรณาธิการหรือภัณฑารักษ์**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+**ตัวแก้ไขโอเพนซอร์ส Zentauri**: ตัวแก้ไข Markdown แบบสแตนด์อโลนบน [GitHub](https://github.com/marcodem/zentauri)
+**วิกิและสถาปัตยกรรมสำหรับนักพัฒนา**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

@@ -9,14 +9,6 @@ status: stable
 
 # Les 4
 
-::: deleteme-box
-**In hierdie les leer u:**
-- Vraag- en aanwysende voornaamwoorde in die nominatief
-- Sandhi van uitgaande -m
-- Sandhi van uitgaande -e
-- Sandhi van uitgaande -d
-- Eenvoudige vraagformules
-:::
 ## 4.1. Eenvoudige aanvullingsvrae (woordvrae) en antwoorde
 
 ### 4.1.1. Vraag- en aanwysende voornaamwoorde

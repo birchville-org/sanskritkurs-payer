@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercitatio 22
 
-A) Formate et vertite Absolutivum ad haec verba: <!-- TODO: Fallback translation -->
+A) Formate et vertite Absolutivum ad haec verba:
 
 1.  ⟪आप्⟫ — ⟪आप्त्वा⟫ (postquam adeptus est)
 2.  ⟪प्राप्⟫ — ⟪प्राप्य⟫ (postquam pervenit)

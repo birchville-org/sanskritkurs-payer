@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # تمرین 49
 
-Bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
+Bestimmen Sie folgende Formen:
 
 ::: grammar-box
 | ش. | شکل | تعیین |
@@ -58,7 +58,7 @@ Bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
 تصویر: ⟪गायी⟫
 (منبع تصویر: [جزئیات](/licenses#uebung078))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## ⟪बाण⟫ (⟪७⟫. Jhdt. n. Chr.): ⟪कादम्बरी⟫
 

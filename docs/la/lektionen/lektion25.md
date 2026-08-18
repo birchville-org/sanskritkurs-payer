@@ -5,7 +5,7 @@ lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 25
 
@@ -214,7 +214,7 @@ ex eo:
 
 ⟪धर्म⟫ m.: id quod firmum est et tenet = Dharma
 :::
-⟪नित्य⟫ ⟪३⟫ : semper, constans, aeternus <!-- TODO: Fallback translation -->
+⟪नित्य⟫ ⟪३⟫ : semper, constans, aeternus
 
 ::: indent
 ⟪नित्यम्⟫ Adv.: semper, constanter semper
@@ -352,7 +352,7 @@ ex eo:
 
 ⟪स्वभाव⟫ m.: essentia, natura, character
 
-⟪हर्ष⟫ m.: (erigere pilos corporis), gaudium <!-- TODO: Fallback translation -->
+⟪हर्ष⟫ m.: (erigere pilos corporis), gaudium
 
 ⟪हिरण्य⟫ ⟪३⟫ : aureus ; n.: aurum, pecunia, divitiae
 
@@ -482,7 +482,7 @@ Explicatio verborum in texto superiore rubro colore distinctorum:
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sedecimus"
 
-1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Factum" <!-- TODO: Fallback translation -->
+1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Factum"
 
 1.5.16. ⟪धि⟫ Sandhiform ad ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "possessio sui ipsius"
 

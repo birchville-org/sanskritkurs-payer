@@ -196,7 +196,7 @@ PPP + -vant / θηλ.: vatī
 ⟪भस्मसात्करोति⟫ «μεταβάλλει πλήρως σε στάχτη (⟪भस्मन्⟫ n. «στάχτη»))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
 
 *   **από το οποίο εξαρτάται ή**
 *   **περνά στην κατοχή του οποίου**
@@ -776,41 +776,5 @@ Mahābhārata : Το μεγάλο έπος της Ινδίας / μετάφρα�
 Εικ.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Εικόνα: Payer)
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt5201))
-:::
-
-::: deleteme-box
-
-**lekt5202:** ⟪विवाहः⟫, Τσενάι = சென்னை [Πηγή εικόνας: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Πρόσβαση στις 2009-01-15. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγές)]
-
-**lekt5203:** Φιγούρα Wayang, Ιάβα, Ινδονησία [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
-
-**lekt5204:** Ουρά ναού, Τριβανδράμ = Thiruvananthapuram = തിരുവനന്തപുരം [Πηγή εικόνας: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Πρόσβαση στις 2009-01-15. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ομοίως άδεια)]
-
-**lekt5209:** Καλλιέργεια με κάψιμο, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Πηγή εικόνας: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Πρόσβαση στις 2009-01-15. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαγωγές)]
-
-**lekt5205:** [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
-
-**lekt5206:** Το Ωρίων = οι επτά πιο λαμπροί αστέρες του Μεγάλου Άρκτου (Ursa maior) [Πηγή εικόνας: Wikipedia, GNU FDLicense]
-
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
-
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Πηγή εικόνας: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά πηγής)] <!-- TODO: Fallback translation -->
-
-**lekt5212:** Χαϊντεραμπάντ = హైదరాబాద్ [Πηγή εικόνας: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαλλαγές)]
-
-**lekt5213:** ⟪मुंबई⟫ [Πηγή εικόνας: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Αναφορά δημιουργού, χωρίς εξαλλαγές)] <!-- TODO: Fallback translation -->
-
-**lekt5214:** Κοναρκ = ⟪कोनार्क⟫ [Πηγή εικόνας: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, χωρίς εξαλλαγές)]
-
-**lekt5208:** Χάμπι = ಹಂಪೆ [Πηγή εικόνας: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Πρόσβαση στις 2009-01-15. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ομοία άδεια)] <!-- TODO: Fallback translation -->
-
-**lekt5215:** ⟪मुंबई⟫ [Πηγή εικόνας: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Πρόσβαση στις 2009-01-16. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά)]
-
-**lekt5217:** Amaravati = అమరావతి, 2ος αι. μ.Χ. [Πηγή εικόνας: Wikipedia. Άδεια GNU FDLicense]
-
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, περίπου 1810 [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
-
-**lekt5201:** (Εικόνα: Payer)
-
 :::
 

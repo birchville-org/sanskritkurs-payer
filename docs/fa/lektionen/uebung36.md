@@ -26,7 +26,7 @@ B) Bilden Sie das periphrastische Perfekt zur Wurzel ⟪आस्⟫ (sitzen):
 | ⟪१⟫. ⟪आस्ते⟫ | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. ⟪आसते⟫ | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 :::
-C) Bilden Sie das entsprechende Perfekt zu folgenden Formen: <!-- TODO: Fallback translation -->
+C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
 
 ::: grammar-box
 | Präsens / Imperfekt | Perfekt |
@@ -47,7 +47,7 @@ C) Bilden Sie das entsprechende Perfekt zu folgenden Formen: <!-- TODO: Fallback
 :::
 ---
 
-## Übersetzungen <!-- TODO: Fallback translation -->
+## Übersetzungen
 
 ⟪१⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫**
 وقتی پسرش به دنیا آمد، بیدار شده از خانواده و دارایی خود دور شد و از خانه‌داری به بیابانروی رفت. او با ذهنش حقایق شریف را شناخت، از طریق آگاهی از رنج آزاد شد و مردم شریفی که رهایی را می‌خواستند به بینش رساند — این را راهبان گزارش می‌دهند.
@@ -79,17 +79,17 @@ C) Bilden Sie das entsprechende Perfekt zu folgenden Formen: <!-- TODO: Fallback
 **⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫**  
 **⟪सर्वे⟫ ⟪तस्यादृता⟫ ⟪धर्मा⟫ ⟪यस्यैते⟫ ⟪त्रय⟫ ⟪आदृताः⟫ ⟪।⟫**  
 **⟪अनादृतास्तु⟫ ⟪यस्यैते⟫ ⟪सर्वास्तस्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫**  
-Womit man seinen Vater erfreut, damit wird der Schöpfer erfreut; womit man seine Mutter erfreut, damit wird die Erde verehrt; womit man den Lehrer erfreut, damit wird der Veda verehrt. Wer diese drei achtet, der achtet alle Vorschriften; wer diese nicht achtet, dessen Handlungen sind alle fruchtlos. <!-- TODO: Fallback translation -->
+Womit man seinen Vater erfreut, damit wird der Schöpfer erfreut; womit man seine Mutter erfreut, damit wird die Erde verehrt; womit man den Lehrer erfreut, damit wird der Veda verehrt. Wer diese drei achtet, der achtet alle Vorschriften; wer diese nicht achtet, dessen Handlungen sind alle fruchtlos.
 
 ### ⟪२⟫. **⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫** (Verhalten gegenüber Alten)
 **⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫**  
 **⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫**  
-Man grüsse Alte formgerecht, überlasse ihnen seinen Sitz und stehe bei ihnen mit gefalteten Händen. Wenn ein Alter weggeht, folge man ihm. <!-- TODO: Fallback translation -->
+Man grüsse Alte formgerecht, überlasse ihnen seinen Sitz und stehe bei ihnen mit gefalteten Händen. Wenn ein Alter weggeht, folge man ihm.
 
 ### ⟪३⟫. **⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫** (Beherrschung der Sinne)
 **⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫**  
 **⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ⟪विज्ञेयो⟫ ⟪जितेन्द्रियः⟫ ⟪॥⟫**  
-Wenn ein Mann sich weder freut noch verdriesst, wenn er hört, berührt, sieht, schmeckt oder riecht, dann gilt er als einer, der seine Sinne besiegt hat (⟪जितेन्द्रियः⟫). <!-- TODO: Fallback translation -->
+Wenn ein Mann sich weder freut noch verdriesst, wenn er hört, berührt, sieht, schmeckt oder riecht, dann gilt er als einer, der seine Sinne besiegt hat (⟪जितेन्द्रियः⟫).
 
 ::: media
 ![](/images/uebung060.webp)
@@ -98,7 +98,7 @@ Wenn ein Mann sich weder freut noch verdriesst, wenn er hört, berührt, sieht, 
 :::
 ---
 
-## Wortformbestimmung <!-- TODO: Fallback translation -->
+## Wortformbestimmung
 
 شکل‌های کلمه زیر را تعیین و ترجمه کنید:
 

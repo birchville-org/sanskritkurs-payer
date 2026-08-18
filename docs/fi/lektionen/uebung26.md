@@ -144,5 +144,5 @@ C) Tulevaisuuden muoto valinnaisesti sekä muodolla että ilman **-i-**:
 ![](/images/uebung043.webp)
 Kuv.: ⟪अविपालो⟫ ⟪ऽविं⟫ ⟪रक्षति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung043))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

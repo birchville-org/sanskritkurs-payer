@@ -31,7 +31,7 @@ status: stable
 Exemplos:
 
 ::: indent
-⟪भू⟫ 3.ª p. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t) <!-- TODO: Fallback translation -->
+⟪भू⟫ 3.ª p. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t)
 
 ⟪सु⟫
 *   3.ª p. sg. Impf. P. ⟪असुनोत्⟫ (a-suno-t)
@@ -50,7 +50,7 @@ Exemplos:
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | <!-- TODO: Fallback translation -->
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
 :::
 ::: grammar-box
@@ -65,7 +65,7 @@ Exemplos:
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
-| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) | <!-- TODO: Fallback translation -->
+| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
 ## 32.4. Exemplos para a formação do imperfeito
@@ -177,7 +177,7 @@ Macacos (macacos rhesus) em Deli.
 -⟪लोक्य⟫
 ⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟫ <!-- TODO: Fallback translation -->
+⟪प्रहर्ष⟫
 
 ⟪कति⟫
 
@@ -633,26 +633,5 @@ Explicações:
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Macacos em mangueiras.
 (Fonte da imagem: [Detalhes](/licenses#lekt3210))
-:::
-
-::: deleteme-box
-
-**lekt3202:** Mangueira, Kanpur. [Fonte da imagem: AmarChandra / Wikipedia. CC BY-SA]
-
-**lekt3203:** Macacos (macacos-rhesus) em Deli. [Fonte da imagem: dewalt / Flickr. CC BY-NC-SA]
-
-**lekt3204:** Stone quarry south of Pune, Maharashtra. [Fonte da imagem: lecercle / Flickr. CC BY-NC-SA]
-
-**lekt3205:** Target practice / arrow target, Karnataka. [Fonte da imagem: mattlogelin / Flickr. CC BY-NC]
-
-**lekt3207:** Burning cowdung patties in Rajasthan. [Fonte da imagem: thebigdurian / Flickr. CC BY-NC-SA]
-
-**lekt3206:** Mehndi painting on hands in Mumbai. [Fonte da imagem: the_gman / Flickr. CC BY-NC-SA]
-
-**lekt3208:** Buddhist monk in Sri Lanka. [Fonte da imagem: Trollderella / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
-
-**lekt3209:** Indian greeting / farewell. [Fonte da imagem: dhyanji / Flickr. CC BY-NC-ND]
-
-**lekt3210:** Macacos em mangueiras. [Fonte da imagem: Wikipedia. GNU FDL]
 :::
 

@@ -1,22 +1,15 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: "Lección 7"
+subtitle: "La oración verbal con objeto directo"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+
+--- &lt;!--  --&gt;
 
 # Lección 7
 
-::: deleteme-box
-**En esta lección aprenderá:**
-- La oración verbal con objeto directo
-- El acusativo de los sustantivos y pronombres
-- El sandhi de la -n final
-- El neutro de las raíces en a
-- Las clases de presente atemático (como ejemplo, la 5.ª clase)
-:::
 
 ::: center
 **Frase de la semana**

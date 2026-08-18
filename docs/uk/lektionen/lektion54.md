@@ -276,11 +276,3 @@ c) ⟪उपजाति⟫
 (Джерело зображення: [Деталі](/uk/licenses#lekt5401))
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Тірупаті = తిరుపతి [Джерело зображення: Raji Srinivas / Вікіпедія. GNU FDLicense]
-
-**lekt5401:** Тамілнад [Джерело зображення: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Доступ від 2009-01-28. -- [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
-
-:::
-

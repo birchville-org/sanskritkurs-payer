@@ -1,10 +1,11 @@
 ---
-title: Lektion 57
-subtitle: "Aorist 4: s-Aorist"
+title: "Leçon 57"
+subtitle: "Aoriste 4 : aoriste en s"
 lesson_id: 57
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 57
@@ -93,7 +94,7 @@ Exemples :
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -239,8 +240,3 @@ B) Traduisez et identifiez les formes suivantes :
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-::: deleteme-box
-
-**lekt5701 :** [Source de l'image : Wikipédia. Domaine public]
-
-:::

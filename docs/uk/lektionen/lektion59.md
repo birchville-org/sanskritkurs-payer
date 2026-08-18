@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  -→
 
 # Урок 59
 
@@ -784,10 +784,3 @@ _Допомога при перекладі:_ Вірш 6: ⟪दिदृक्�
 :::
 Текст взято з: Отто Бёхлінк: Санскритська хрестоматія, с. 127-128.
 
-::: deleteme-box
-
-**lekt5902:** [Джерело зображення: Henryart/Wikipedia. Суспільне надбання]
-
-**lekt5903:** Танець Кечак, Бали (Індонезія) [Джерело зображення: Flying Pharmacist / Wikipedia. [Ліцензія Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (Ім'я автора, похідні твори)]
-
-:::

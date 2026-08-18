@@ -11,14 +11,6 @@ status: stable
 
 # Lesjon 3
 
-::: deleteme-box
-**I denne leksjonen lærer du:**
-- nominativ entall av hunkjønn
-- nominativ flertall av hankjønn og hunkjønn
-- danning av hunkjønnsord fra hankjønnsstammer
-- vokal-sandhi (sammensmelting av vokaler)
-- Satzsandhi von -ās
-:::
 ## 3.1. Nominativ entall av hunkjønn
 
 ### 3.1.1. Nominativ entall på -s

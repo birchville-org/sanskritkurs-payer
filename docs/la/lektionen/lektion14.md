@@ -5,7 +5,7 @@ lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lectio 14
 
@@ -71,7 +71,7 @@ Post consonantes, des sunt regulae casus genetivi:
 
 Genetivus pluralis stemmatim vocaliter desinentium sic formatur:
 
-> **-langer auslautender Vokal des Stammes + -nām** <!-- TODO: Fallback translation -->
+> **-langer auslautender Vokal des Stammes + -nām**
 
 :::
 ::: center
@@ -106,7 +106,7 @@ Genetivus singularis stemmatium vocaliter desinentium irregulariter formatur et 
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 **Interrogativa et demonstrativa:**
@@ -241,7 +241,7 @@ Versa haec proverbia et memoriter disc:
 Fig.: ⟪पुत्रवती⟫
 (Fons imaginis: [Details](/la/licenses#lekt1404))
 :::
-⟪२६⟫. ⟪जल⟫ <!-- TODO: Fallback translation -->
+⟪२६⟫. ⟪जल⟫
 
 ⟪२७⟫. ⟪मार्ग⟫
 
@@ -335,4 +335,3 @@ Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 Tab.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Fons imaginis: [Details](/la/licenses#lekt1402))
 :::
- <!-- TODO: Fallback translation -->

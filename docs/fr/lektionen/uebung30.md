@@ -1,8 +1,9 @@
 ---
 title: "Exercice 30"
 uebung_id: 30
-category: "Exercice"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -104,72 +105,72 @@ Le devoir des Vaiśyas est de vivre du commerce et de la vente. C’est pourquoi
 (⟪कृतं⟫ ⟪पापं⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫ ⟪पुनर्भव⟫ — ⟪पुनः⟫ ⟪भवति⟫ ⟪इति⟫)
 Lorsqu’un malfaiteur, dans un enfer, est purifié de sa méchanceté, il est réincarné.
 
-⟪७⟫. **⟪ब्राह्मणपुत्रा⟫ ⟪वेदाध्यायांश्च⟫ ⟪स्मृत्यध्यायांश्च⟫ ⟪पुनः⟫ ⟪पुनरधीयीरन्नित्यार्यधर्मः⟫ ⟪॥७॥⟫**
-(⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪।⟫ ⟪वेदानामध्यायांश्च⟫ ⟪स्मृतीनामध्यायांश्च⟫)
-Le devoir des nobles est que les fils des Brahmanes étudient constamment les sections des Védas et de la tradition.
+⟪७⟫. **⟪ब्राह्मणपुत्रा वेदाध्यायांश्च स्मृत्यध्यायांश्च पुनः पुनरधीयीरन्नित्यार्यधर्मः ॥७॥⟫**
+(⟪ब्राह्मणानां पुत्राः । वेदानामध्यायांश्च स्मृतीनामध्यायांश्च⟫)
+Le devoir des nobles est que les fils de Brāhmaṇa étudient constamment les sections des Védas et la tradition.
 
-⟪८⟫. **⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫**
+⟪८⟫. **⟪यो ब्राह्मणः शूद्रां कामयेत स सद्ब्राह्मणो न स्यात् । सद्ब्राह्मणो हि ब्राह्मणीं कामयेत ॥८॥⟫**
 (⟪सन्⟫-⟪ब्राह्मणः⟫)
-Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Brahmane liebt eine Brahmanin.
+Un Brāhmaṇa qui aime un Śūdra n'est pas un bon Brāhmaṇa, car un bon Brāhmaṇa aime une femme de caste brāhmanique.
 
-⟪९⟫. **⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫**  
-**⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
-On doit dire des vérités agréables, on ne doit pas dire des vérités désagréables ; on ne doit pas dire de fausses paroles agréables, telle est la loi éternelle.
+⟪९⟫. **⟪सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् ।⟫**  
+**⟪प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥⟫** (Manu IV.138)  
+On doit dire des vérités agréables, on ne doit pas dire de vérités désagréables ; on ne doit pas dire des mensonges agréables, telle est la loi éternelle.
 
 ::: media
 ![](/images/uebung048.webp)
-Fig. : ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
-(Source de l’image : [Détails](/fr/licenses#uebung048))
+Légende : ⟪श्रीमोहनभोपेन रावणहस्तो वाद्यते⟫
+(Source de l'image : [Détails](/licenses#uebung048))
 :::
 ---
 
-## Détermination de la forme du mot
+## Détermination des formes lexicales
 
-Déterminez et traduisez les formes de mot suivantes :
+Déterminez et traduisez les formes lexicales suivantes :
 
 ::: grammar-box
-| Forme du mot | Détermination | Signification |
+| Forme lexicale | Détermination | Signification |
 | :--- | :--- | :--- |
-| ⟪१⟫. **⟪भारे⟫** | Loc. sg. m. | sur la charge |
-| ⟪२⟫. **⟪अध्ययनम्⟫** | Nom./Acc. sg. n. | Étude |
-| ⟪३⟫. **⟪वस्तुतः⟫** | Adv. | en réalité |
-| ⟪४⟫. **⟪वस्त्राणि⟫** | Nom./Acc. pl. n. | Vêtements |
-| ⟪५⟫. **⟪प्रतिमया⟫** | Instr. sg. f. | par une image |
-| ⟪६⟫. **⟪आचाराय⟫** | Dat. sg. m. | à la conduite |
-| ⟪७⟫. **⟪आचार्यैः⟫** | Instr. pl. m. | par les enseignants |
-| ⟪८⟫. **⟪अश्वेषु⟫** | Loc. pl. m. | sur des chevaux |
-| ⟪९⟫. **⟪ताम्⟫** | Acc. sg. f. | ces |
-| ⟪१०⟫. **⟪वृत्त्यै⟫** | Dat. sg. f. | au mode de vie |
-| ⟪११⟫. **⟪चरितस्य⟫** | Gén. sg. n. | de la vie |
-| ⟪१२⟫. **⟪अर्हता⟫** | Instr. sg. m. | par l'Arhat |
-| ⟪१३⟫. **⟪शक्तीः⟫** | Acc. pl. f. | les forces |
-| ⟪१४⟫. **⟪कामम्⟫** | Adv. | à volonté |
-| ⟪१५⟫. **⟪भिक्षवे⟫** | Dat. sg. m. | au moine |
-| ⟪१६⟫. **⟪भगवद्गीतायाम्⟫** | Loc. sg. f. | dans la Bhagavadgītā |
-| ⟪१७⟫. **⟪भगवति⟫** | Loc. sg. m./n. | dans le Vénérable |
-| ⟪१८⟫. **⟪भक्त्याः⟫** | Abl./Gén. sg. f. | de l'amour / par amour |
-| ⟪१९⟫. **⟪स्थानात्⟫** | Abl. sg. n. | de l'endroit |
-| ⟪२०⟫. **⟪स्थित्या⟫** | Instr. sg. f. | par la fixation |
-| ⟪२१⟫. **⟪मात्रायै⟫** | Dat. sg. f. | à la mesure |
-| ⟪२२⟫. **⟪प्रभृतौ⟫** | Loc. sg. f. | au début |
-| ⟪२३⟫. **⟪हस्तेन⟫** | Instr. sg. m. | par la main |
-| ⟪२४⟫. **⟪आदेः⟫** | Abl./Gén. sg. m. | du/depuis le début |
-| ⟪२५⟫. **⟪दिष्टिम्⟫** | Acc. sg. f. | l'instruction |
-| ⟪२६⟫. **⟪रुद्रः⟫** | Nom. sg. m. | Rudra |
-| ⟪२७⟫. **⟪मृत्यौ⟫** | Loc. sg. m. | dans la mort |
-| ⟪२८⟫. **⟪मृतिः⟫** | Nom. sg. f. | la mort |
-| ⟪२९⟫. **⟪द्विजातये⟫** | Dat. sg. m./f. | à celui qui est né deux fois |
-| ⟪३०⟫. **⟪जातिभिः⟫** | Instr. pl. f. | par les naissances |
-| ⟪३१⟫. **⟪व्याघ्रान्⟫** | Acc. pl. m. | les tigres |
-| ⟪३२⟫. **⟪पूजाः⟫** | Nom./Acc. pl. f. | les vénération |
-| ⟪३३⟫. **⟪शत्रोः⟫** | Abl./Gén. sg. m. | du/depuis l'ennemi |
-| ⟪३४⟫. **⟪उक्तिभ्यः⟫** | Dat./Abl. pl. f. | aux/depuis les paroles |
-| ⟪३५⟫. **⟪महान्ति⟫** | Nom./Acc. pl. n. | les grands |
-| ⟪३६⟫. **⟪महति⟫** | Loc. sg. m./n. | dans les grands |
-| ⟪३७⟫. **⟪सा⟫** | Nom. sg. f. | elle, ces |
-| ⟪३८⟫. **⟪तस्यै⟫** | Dat. sg. f. | à elle |
-| ⟪३९⟫. **⟪तस्मिन्⟫** | Loc. sg. m./n. | là-dedans, dans celui-ci |
-| ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | à l'Être / au Bien |
+| ⟪१⟫. ⟪भारे⟫ | Loc. sg. m. | sur la charge |
+| ⟪२⟫. ⟪अध्ययनम्⟫ | Nom./Acc. sg. n. | Étude |
+| ⟪३⟫. ⟪वस्तुतः⟫ | Adv. | en réalité |
+| ⟪४⟫. ⟪वस्त्राणि⟫ | Nom./Acc. pl. n. | Vêtements |
+| ⟪५⟫. ⟪प्रतिमया⟫ | Instr. sg. f. | par une image |
+| ⟪६⟫. ⟪आचाराय⟫ | Dat. sg. m. | au comportement |
+| ⟪७⟫. ⟪आचार्यैः⟫ | Instr. pl. m. | par les enseignants |
+| ⟪८⟫. ⟪अश्वेषु⟫ | Loc. pl. m. | sur les chevaux |
+| ⟪९⟫. ⟪ताम्⟫ | Acc. sg. f. | ces |
+| ⟪१०⟫. ⟪वृत्त्यै⟫ | Dat. sg. f. | du mode de vie |
+| ⟪११⟫. ⟪चरितस्य⟫ | Gen. sg. n. | du parcours de vie |
+| ⟪१२⟫. ⟪अर्हता⟫ | Instr. sg. m. | par l'Arhat |
+| ⟪१३⟫. ⟪शक्तीः⟫ | Acc. pl. f. | les forces |
+| ⟪१४⟫. ⟪कामम्⟫ | Adv. | à volonté |
+| ⟪१५⟫. ⟪भिक्षवे⟫ | Dat. sg. m. | au moine |
+| ⟪१६⟫. ⟪भगवद्गीतायाम्⟫ | Loc. sg. f. | dans la Bhagavadgītā |
+| ⟪१७⟫. ⟪भगवति⟫ | Loc. sg. m./n. | dans le Vénérable |
+| ⟪१८⟫. ⟪भक्त्याः⟫ | Abl./Gen. sg. f. | de l'amour / par amour |
+| ⟪१९⟫. ⟪स्थानात्⟫ | Abl. sg. n. | de l'endroit |
+| ⟪२०⟫. ⟪स्थित्या⟫ | Instr. sg. f. | par la fixation |
+| ⟪२१⟫. ⟪मात्रायै⟫ | Dat. sg. f. | à la mesure |
+| ⟪२२⟫. ⟪प्रभृतौ⟫ | Loc. sg. f. | au début |
+| ⟪२३⟫. ⟪हस्तेन⟫ | Instr. sg. m. | par la main |
+| ⟪२४⟫. ⟪आदेः⟫ | Abl./Gen. sg. m. | du/depuis le début |
+| ⟪२५⟫. ⟪दिष्टिम्⟫ | Acc. sg. f. | l'instruction |
+| ⟪२६⟫. ⟪रुद्रः⟫ | Nom. sg. m. | Rudra |
+| ⟪२७⟫. ⟪मृत्यौ⟫ | Loc. sg. m. | dans la mort |
+| ⟪२८⟫. ⟪मृतिः⟫ | Nom. sg. f. | la mort |
+| ⟪२९⟫. ⟪द्विजातये⟫ | Dat. sg. m./f. | au double-né |
+| ⟪३०⟫. ⟪जातिभिः⟫ | Instr. pl. f. | par les naissances |
+| ⟪३१⟫. ⟪व्याघ्रान्⟫ | Acc. pl. m. | les tigres |
+| ⟪३२⟫. ⟪पूजाः⟫ | Nom./Acc. pl. f. | les vénéractions |
+| ⟪३३⟫. ⟪शत्रोः⟫ | Abl./Gen. sg. m. | du/de l'ennemi |
+| ⟪३४⟫. ⟪उक्तिभ्यः⟫ | Dat./Abl. pl. f. | aux/des paroles |
+| ⟪३५⟫. ⟪महान्ति⟫ | Nom./Acc. pl. n. | les grands |
+| ⟪३६⟫. ⟪महति⟫ | Loc. sg. m./n. | dans l'ensemble / au grand |
+| ⟪३७⟫. ⟪सा⟫ | Nom. sg. f. | elles, ces |
+| ⟪३८⟫. ⟪तस्यै⟫ | Dat. sg. f. | à elles |
+| ⟪३९⟫. ⟪तस्मिन्⟫ | Loc. sg. m./n. | là-dedans, en ceci |
+| ⟪४०⟫. ⟪सते⟫ | Dat. sg. m./n. | à l'Être / au Bon |
 :::: media
 ![](/images/uebung047.webp)
 Fig. : ⟪भक्त्याः⟫

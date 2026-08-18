@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: Lektion 29
 subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
@@ -266,11 +266,5 @@ Erklärungen:
 |⟪हन्⟫ ⟪२⟫ ⟪प⟫|⟪हनिष्यति⟫|⟪घातयति⟫|
 |⟪हृ⟫ ⟪१⟫ ⟪उ⟫|⟪हरिष्यति⟫|⟪हारयति⟫|
 
-:::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]
-**lekt2902:** (Zeichnung: Namcha Payer, 2002-11)
 :::
 

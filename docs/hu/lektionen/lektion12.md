@@ -7,16 +7,8 @@ category: "Grammatik"
 status: stable
 ---
 
-# 12. lecke <!-- TODO: Fallback translation -->
+# 12. lecke
 
-::: deleteme-box
-**Ebben a leckében megtanulják:**
-- A múlt idejű ragozat passzív alakja (PPP)
-- A PPP jelentése
-- A PPP képzése
-- Hangzás törvényei a szóban
-- A passzív és a PPP eddig tanult gyökei alapján
-:::
 
 ## 12.1. Múlt idejű ragozat passzív alak (PPP)
 
@@ -58,7 +50,7 @@ Példa:
 **Agens (kartṛ) az eszközhatározó eset (instrumentalis)ban (tṛtīyā) -- PPP a alanyeset (nominativus)us egyes számis semlegesnemban**
 
 Példa:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(A kṣatriya által (a városba) ment el) = A kṣatriya (a városba) ment.“ <!-- TODO: Fallback translation -->
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(A kṣatriya által (a városba) ment el) = A kṣatriya (a városba) ment.“
 
 A II. sémára épülő szerkezet sokkal ritkább, mint az I. sémára épülő.
 :::
@@ -74,27 +66,27 @@ pl.
 ## 12.3. A PPP képzése
 
 ::: grammar-box
-A következő képzési módok fordulnak elő (minden egyes gyökhöz meg kell tanulni a megfelelő PPP-t!): <!-- TODO: Fallback translation -->
+A következő képzési módok fordulnak elő (minden egyes gyökhöz meg kell tanulni a megfelelő PPP-t!):
 
 **(általában) mély hangzású gyökér**
 
 - **+ -ta**
   - kötőmag hanggal **-i-** előtte: **-ita**
   - kötőmag hang nélkül: **-ta**
-- **+ -na** <!-- TODO: Fallback translation -->
+- **+ -na**
 
 A nőnemű tövek: **-tā**, **-itā**, **-nā**; az semleges nem a **phala** n. szerint ragozódik.
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ### 12.3.1. PPP -ta (kta) végződésű
 
-#### 12.3.1.1. Kötőmaghang nélkül (-i-) (aniṭ) <!-- TODO: Fallback translation -->
+#### 12.3.1.1. Kötőmaghang nélkül (-i-) (aniṭ)
 
-*aniṭ* = „kötőmaghang nélküli (*an-*) a toldalék elé helyezett (*-i-*) *t*“ (azaz kötőmaghang nélküli *i*). <!-- TODO: Fallback translation -->
+*aniṭ* = „kötőmaghang nélküli (*an-*) a toldalék elé helyezett (*-i-*) *t*“ (azaz kötőmaghang nélküli *i*).
 
 ::: grammar-box
-Kötőmaghang nélkül a PPP-t általában maggal végződő gyökökből, valamint számos más gyökből képezik, anélkül hogy egy szigorú szabályt lehetne megfogalmazni arra nézve, hogy a kötőmaghang mikor jelenik meg vagy hiányzik jól strukturált gyököknél. <!-- TODO: Fallback translation -->
+Kötőmaghang nélkül a PPP-t általában maggal végződő gyökökből, valamint számos más gyökből képezik, anélkül hogy egy szigorú szabályt lehetne megfogalmazni arra nézve, hogy a kötőmaghang mikor jelenik meg vagy hiányzik jól strukturált gyököknél.
 
 Az *aniṭ* gyökök listája Kielhorn, *Grammatik* § 298. alatt található.
 :::
@@ -145,7 +137,7 @@ Az *aniṭ* képzések esetén az alábbi szóbelső hangkapcsolási törvények
 | **5. jt helyett kt vagy ṣṭ lép fel (nem fakultatív!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Hangzó aspirált zárhang + hangtalan zárhang » hangzó, aspirálatlan zárhang + hangzó aspirált zárhang (Bartholomew-aspirációs törvény):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
 | **7. h-t helyett ḍh lép fel, ha előtte i vagy u van; vagy gdh. Egy ilyen ḍh előtt az a helyett o, ritkábban ā lép fel:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ## 12.5. Szószedet
@@ -178,16 +170,16 @@ Szóképzés:
 
 - **muc**: **mokṣa** m. ⟪मोक्ष⟫ : elszakadás, felszabadítás, megváltás
 - **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : egy király meglocsolása a koronázási szertartás során, királykoronázás
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : az ébredés (amellyel egy Buddha vagy Jina a megváltó felismerésre jut) <!-- TODO: Fallback translation -->
+- **budh**: **bodhi** m./f. ⟪बोधि⟫ : az ébredés (amellyel egy Buddha vagy Jina a megváltó felismerésre jut)
 
 ::: media
 ![](/images/lekt1203.webp)
 Kép: ⟪महावीरो⟫ ⟪जिनः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : felismerés, tudás szerve. <!-- TODO: Fallback translation -->
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : felismerés, tudás szerve.
 
-### 12.5.1. A passív és a PPP eddig tanult gyökökből <!-- TODO: Fallback translation -->
+### 12.5.1. A passív és a PPP eddig tanult gyökökből
 
 | Tő:br⟪धातु⟫ | Passiv Jelen idő 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
@@ -240,7 +232,7 @@ Kép: ⟪महावीरो⟫ ⟪जिनः⟫
 
 **A) Képezze a [Lektion 7](/lektionen/lektion07) A gyakorlatának aktív mondataiból a múlt idő passzív mondatait PPP-vel, intranszitív igéknél és mozgást kifejező igéknél pedig a múlt idő aktív mondatait.**
 
-**B) Alakítsa ki a megfelelő PPP-ket az [Lektion 10](/lektionen/lektion10) A. gyakorlatának igéihez. Vegye figyelembe, hogy az olyan alakhoz mint sṛjati PPP-k felelnek meg mindhárom nemben.** <!-- TODO: Fallback translation -->
+**B) Alakítsa ki a megfelelő PPP-ket az [Lektion 10](/lektionen/lektion10) A. gyakorlatának igéihez. Vegye figyelembe, hogy az olyan alakhoz mint sṛjati PPP-k felelnek meg mindhárom nemben.**
 
-**C) Alakítsa passívba az [Lektion 10](/lektionen/lektion10) C. gyakorlatának mondatait múlt időben.** <!-- TODO: Fallback translation -->
+**C) Alakítsa passívba az [Lektion 10](/lektionen/lektion10) C. gyakorlatának mondatait múlt időben.**
 

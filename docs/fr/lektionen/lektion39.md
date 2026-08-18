@@ -1,40 +1,41 @@
 ---
-title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+title: "Leçon 39"
+subtitle: "Les désinences personnelles de la première personne (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = « **troisième** personne »)"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 39
 
-## 39.1. Les désinences personnelles de la première personne (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**troisième** personne")
+## 39.1. Les désinences personnelles de la première personne (:sig[तृतीयः] ⟪पुरुषः⟫ = "**troisième** personne")
 
-Les désinences de la première personne (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**troisième** personne") sont :
+Les désinences de la première personne (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**troisième** personne") sont :
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Désinences primaires des thèmes thématiques** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
-| **Désinences primaires des thèmes athématiques** | ^^ | ^^ | **-e** | ^^ |
-| **Désinences secondaires des thèmes thématiques** | **-m** | **-ma** | **-i** | **-mahi** |
-| **Désinences secondaires des thèmes athématiques** | **-am** | ^^ | ^^ | ^^ |
-| **Désinative optative** | ^^ | ^^ | **-a** | ^^ |
-| **Désinences parfaites** | **-a** | ^^ | **-e** | **-mahe** |
+| **Désinence primaire des thèmes thématiques** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
+| **Désinence primaire des thèmes athématiques** | ^^ | ^^ | **-e** | ^^ |
+| **Désinence secondaire des thèmes thématiques** | **-m** | **-ma** | **-i** | **-mahi** |
+| **Désinence secondaire des thèmes athématiques** | **-am** | ^^ | ^^ | ^^ |
+| **Désinence optative** | ^^ | ^^ | **-a** | ^^ |
+| **Désinence parfaite** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
-1 Note : en réalité, la désinative primaire des thèmes ā est aussi à établir comme -e, devant laquelle la voyelle thématique -a- disparaît pour des raisons d'analogie. L'effet est cependant tel que si la désinative -i s'ajoutait à la voyelle thématique -a- : a + i » e.
+¹ Remarque : en réalité, la désinence primaire des thèmes ā est également à établir comme -e, devant laquelle la voyelle thématique -a- tombe pour des raisons d'analogie. L'effet est cependant comme si la désinence -i s'ajoutait à la voyelle thématique -a- : a + i » e.
 
-## 39.2. Formation des formes verbales de la première personne des thèmes de présent thématiques
+## 39.2. Formation des formes verbales de la première personne à partir des thèmes présents thématiques
 
 ::: grammar-box
 **Règle :**
-**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Avant -mi, -mas, -ma, -mahe, -mahi, la voyelle thématique -a- est remplacée par -ā- !!!**
 :::
-### 39.2.1. Première classe de présent (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+### 39.2.1. Première classe de présent (⟪भ्वादि⟫)
 
 ⟪भू⟫ 1P
 
@@ -43,9 +44,9 @@ Les désinences de la première personne (**:sig[⟪तृतीयः⟫]** ⟪
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi | <!-- TODO: Fallback translation -->
+| **Indicatif présent - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\&lt;⟪भवे⟫\&gt;** :brbhava + i:brrichtig: bhav-e | **\&lt;⟪भवामहे⟫\&gt;** |
+| **Imparfait - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\&lt;⟪अभवे⟫\&gt;** | **\&lt;⟪अभवामहि⟫\&gt;** |
+| **Optatif - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. Sixième classe de présent (⟪tudādi⟫)
@@ -92,15 +93,18 @@ Les désinences de la première personne (**:sig[⟪तृतीयः⟫]** ⟪
 :::
 ### 39.2.5. Passif (Suffix ⟪यक्⟫)
 
+:::
+### 39.2.5. Passif (Suffix ⟪यक्⟫)
+
 ⟪ईक्ष्⟫ 1Ā
 
 ::: grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
+| **Indicatif Présent - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
+| **Imparfait - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
+| **Optatif - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
 ## 39.3. Formation des formes verbales de la première personne du futur simple - ⟪ऌत्⟫
@@ -108,9 +112,9 @@ Les désinences de la première personne (**:sig[⟪तृतीयः⟫]** ⟪
 ::: grammar-box
 **Le futur a une formation thématique. Par conséquent, la règle pour les thèmes thématiques s'applique également :**
 
-**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Avant -mi, -mas, -mahe, la voyelle thématique -a- est remplacée par -ā- !!!**
 :::
-### 39.3.1. Formation de ⟪अनिट्⟫ <!-- TODO: Fallback translation -->
+### 39.3.1. Formation ⟪अनिट्⟫
 
 ⟪दा⟫ 3U
 
@@ -119,10 +123,10 @@ Les désinences de la première personne (**:sig[⟪तृतीयः⟫]** ⟪
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Futur  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
+| **Futur - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. Formation de ⟪सेट्⟫
+### 39.3.2. Formation ⟪सेट्⟫
 
 ⟪भू⟫ 1P
 
@@ -131,16 +135,18 @@ Les désinences de la première personne (**:sig[⟪तृतीयः⟫]** ⟪
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Futur  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
+| **Futur - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
 
 :::
-## 39.4. Formation des formes verbales de la première personne des racines de présent athématiques
+## 39.4. Formation des formes verbales de la première personne des thèmes présents athématiques
 
 ::: grammar-box
-**Notez qu’à l’intérieur du mot — par opposition au sandhi de phrase — les consonnes restent généralement inchangées avant les désinences qui commencent par**
+**Notez qu'à l'intérieur du mot - par opposition au sandhi de phrase - avant les terminaisons qui commencent par**
+* **voyelle**
 * **semi-voyelle**
-* **Halbvokal**
-* **Nasal**
+* **nasale**
+
+**les consonnes restent généralement inchangées.**
 
 **commencer, les consonnes restent généralement inchangées.**
 

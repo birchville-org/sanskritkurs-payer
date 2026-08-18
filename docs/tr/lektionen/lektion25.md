@@ -1,490 +1,428 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: "Ders 25"
+subtitle: 'Ablativin oluşumu (⟪पञ्चमी⟫ = "beşinci hal eki")'
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
 
-# Lektion 25 <!-- TODO: Fallback translation -->
+---
 
-## 25.1. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung") <!-- TODO: Fallback translation -->
+# Ders 25
 
-::: grammar-box
-Ausser bei Maskulina / Neutra auf -a sowie den Pronomina sind im Singular in allen Deklinationsklassen die Formen des Ablativ (⟪पञ्चमी⟫) mit denen des Genetiv (⟪षष्ठी⟫) identisch. <!-- TODO: Fallback translation -->
-
-Ausser bei den Personalpronomina sind in allen Deklinationen im Plural die Formen des Ablativ mit denen des Dativ (⟪चतुर्थी⟫) identisch. <!-- TODO: Fallback translation -->
-:::
-Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (⟪विभक्ति⟫) im Sanskrit: sie sind so angeordnet, dass gleichlautende Formen möglichst beieinander - bzw. untereinander - stehen. <!-- TODO: Fallback translation -->
+## 25.1. Ablativin Oluşturulması (⟪पञ्चमी⟫ = "beşinci hal eki")
 
 ::: grammar-box
-**Ablativ Singular der Maskulina / Neutra auf -a** <!-- TODO: Fallback translation -->
+a ile biten maskulinler / neutralar ve zamirler dışında, tekil hâlde tüm çekim sınıflarında Ablativ (⟪पञ्चमी⟫) formları, Genetiv (⟪षष्ठी⟫) formları ile aynıdır.
 
-- **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫) <!-- TODO: Fallback translation -->
+Kişisel zamirler dışında, çoğul hâlde tüm çekimlerde Ablativ formları Dativ (⟪चतुर्थी⟫) formları ile aynıdır.
 :::
-Frage-, Relativ- und Demonstrativpronomina: <!-- TODO: Fallback translation -->
+Şimdi Sanskrit'teki hâllerin (⟪विभक्ति⟫) sıralanmasının nedenini anlıyorsunuz: aynı sesli formlar mümkün olduğunca yan yana - veya üst üste - duracak şekilde düzenlenmişlerdir.
+
+::: grammar-box
+**Maskulinler / Neutralar için Ablativ Tekil (-a ile biten)**
+
+**deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
+:::
+Soru, ilgi ve gösterge zamirleri:
 
 ::: grammar-box
 
-| | Ablativ Singular:brMaskulinum / Neutrum | Ablativ Singular:brFemininum | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) | <!-- TODO: Fallback translation -->
-| ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) | <!-- TODO: Fallback translation -->
-| ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) | <!-- TODO: Fallback translation -->
-| ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) | <!-- TODO: Fallback translation -->
-| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) | <!-- TODO: Fallback translation -->
+| | Ablativ Tekil:brMaskulin / Neutr | Ablativ Tekil:brDişil |
+| :--- | :--- | :--- |
+| ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
+| ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
+| ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
+| ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
+| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫) <!-- TODO: Fallback translation -->
+## 25.2. Ablativ Kullanımı (⟪पञ्चमी⟫)
 
-"Der Ablativ bezeichnet dasjenige, das fest bleibt, wenn etwas davon weggeht." <!-- TODO: Fallback translation -->
+"Ablativ, bir şeyin ayrıldığı halde sabit kalanı belirtir."
 
-Pāṇini 2,3,28 + 1,4,24 <!-- TODO: Fallback translation -->
+Pāṇini 2,3,28 + 1,4,24
 
-Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?". <!-- TODO: Fallback translation -->
+Ablativ öncelikle "Nereden?", "Neden?" sorularına cevap verir.
 
 ::: grammar-box
-1\. Der Ablativ bezeichnet also den Ausgangspunkt, die Herkunft und den Stoff. <!-- TODO: Fallback translation -->
+1\. Ablativ dolayısıyla hareket noktasını, kökeni ve maddeyi belirtir.
 
-Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hört, wünscht usw. <!-- TODO: Fallback translation -->
+Bu nedenle Ablativ, bir şey satın alınan, duyulan, istenen vb. kişiyi de belirtebilir.
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
 ::: indent
-⟪ग्रमादागच्छति⟫ = "Er kommt aus dem Dorf" <!-- TODO: Fallback translation -->
+⟪ग्रमादागच्छति⟫ = "Köyden geliyor"
 
-⟪अश्वात्पतितः⟫ = "vom Pferde gefallen" <!-- TODO: Fallback translation -->
+⟪अश्वात्पतितः⟫ = "atdan düştü"
 
-⟪तेभ्यो⟫ ⟪लब्धम्⟫ = "von ihnen (her) empfangen" <!-- TODO: Fallback translation -->
+⟪तेभ्यो लब्धम्⟫ = "onlardan (gelerek) aldı"
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
 ::: indent
-⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "er hört vom Lehrer über den Dharma" <!-- TODO: Fallback translation -->
+⟪गुरोर्धर्मं शृणोति⟫ = "öğretmenden Dharma hakkında duyar"
 
-⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "der Brahmane wünscht sich vom Kṣatriya eine Milchkuh" <!-- TODO: Fallback translation -->
+⟪ब्राह्मणः क्षत्रियाद्धेनुमिच्छति⟫ = "Brahman, Kṣatriya'dan bir süt ineği diler"
 :::
 ::: grammar-box
-2\. Der Ablativ steht bei Verben mit den Bedeutungen "abhalten von", "schützen vor", "verteidigen gegen", "sich fürchten vor": <!-- TODO: Fallback translation -->
+2\. Ablativ, "engellemek", "korumak", "savunmak", "korkmak" anlamlı fiillerle kullanılır:
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 
 ::: indent
-⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "er schützt vor den Feinden" <!-- TODO: Fallback translation -->
+⟪अरिभ्यो रक्षति⟫ = "düşmanlardan korur"
 :::
 ::: grammar-box
-3\. Der Ablativ bezeichnet den Grund oder die Ursache: <!-- TODO: Fallback translation -->
+3\. Ablativ, nedeni veya sebebi belirtir:
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
 ::: indent
-⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn" <!-- TODO: Fallback translation -->
+⟪क्रोधात्पुत्रं हन्ति⟫ = "Öfke nedeniyle oğlunu öldürür"
 
-⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses getan hat, kommt er in die Hölle" (« Weil er einer ist, durch den Böses getan wurde) <!-- TODO: Fallback translation -->
+⟪कृतपापत्वान्नरकं गच्छति⟫ = "Kötülük yaptığı için cehenneme gider" (« Kötülüğün işlendiği kişi olduğu için)
 
-⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses tut / tat, kommt er in die Hölle" <!-- TODO: Fallback translation -->
+⟪पापकरणान्नरकं गच्छति⟫ = "Kötülük yaptığı/için cehenneme gider"
 :::
-Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (⟪तृतीया⟫) oder Ablativ (⟪पञ्चमी⟫) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen. <!-- TODO: Fallback translation -->
+Dişi cinsiyet dışındaki isimler, bir eylemin nedenini belirtmek için Karan (⟪तृतीया⟫) veya Ablativ (⟪पञ्चमी⟫) halinde bulunabilir. Dişi cinsiyetliler bu anlamda genellikle Karan halindedir, ancak bazen Ablativ halinde de olabilirler.
 
-## 25.3. Das Suffix -⟪तस्⟫ <!-- TODO: Fallback translation -->
+## 25.3. -⟪तस्⟫ Soneki
 
 ::: grammar-box
-Will man im Singular (eindeutig) ausdrücken, dass das Wort in ablativischer Bedeutung verwendet wird, kann man an den Wortstamm das Suffix -⟪तस्⟫ anhängen, das Adverbien mit meist ablativischer Bedeutung bildet (auf die Frage "Woher?"): <!-- TODO: Fallback translation -->
+Tekilde kelimenin ablative anlamda kullanıldığını açıkça ifade etmek istendiğinde, kelime köküne genellikle ablative anlamı taşıyan zarflar oluşturan -⟪तस्⟫ soneki eklenebilir ("Nereden?" sorusuna cevap olarak):
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Örnekler:
 
 ::: indent
-⟪आदितस्⟫ = "von Anfang an" <!-- TODO: Fallback translation -->
+⟪आदितस्⟫ = "başından beri"
 
-⟪धर्मतस्⟫ = "wegen des Dharma, aufgrund des Dharma" <!-- TODO: Fallback translation -->
+⟪धर्मतस्⟫ = "dharma nedeniyle, dharma yüzünden"
 :::
 ::: grammar-box
-Das Suffix -⟪तस्⟫ tritt auch an Pronominalstämme: <!-- TODO: Fallback translation -->
+⟪तस्⟫ eki, zamir köklerine de eklenir:
 :::
 ::: indent
-⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "von dort, dort, dorthin, darauf, dann, darum" <!-- TODO: Fallback translation -->
+⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "oradan, orada, oraya, üzerine, sonra, bu yüzden"
 
-⟪यद्⟫ : ⟪यतस्⟫ "von welchem, wovon, woher, wo, wohin, weshalb, weil" (relativ) <!-- TODO: Fallback translation -->
+⟪यद्⟫ : ⟪यतस्⟫ "hangi, nereden, nerede, nereye, neden" (ilgi)
 
-⟪किम्⟫ :  ⟪कुतस्⟫ "woher?" "warum?" <!-- TODO: Fallback translation -->
+⟪किम्⟫ :  ⟪कुतस्⟫ "nereden?" "neden?"
 :::
-## 25.4. Andere Möglichkeiten, Begründungen auszudrücken <!-- TODO: Fallback translation -->
+## 25.4. Nedenleri ifade etmenin diğer yolları
 
 ::: grammar-box
-**1\. Relativsätze** <!-- TODO: Fallback translation -->
+**1\. İlişki Cümleleri**
 
-Relativsätze drücken oft eine kausale (begründende), konsekutive (folgernde) oder finale (bezweckende) Beziehung zum Hauptsatz aus. <!-- TODO: Fallback translation -->
+İlişki cümleleri, genellikle ana cümleye neden-sonuç (nedensel), sonuç (takip eden) veya amaç (amaçlı) bir ilişki ifade eder.
 
-Formen des Relativpronomens, die als kausale Konjunktion dienen: <!-- TODO: Fallback translation -->
+Nedensel bağlaç olarak görev yapan ilgi zamiri formları:
 
-*   ablativisch: <!-- TODO: Fallback translation -->
-    *   ⟪यतस्⟫ ... Nebensatz ... ⟪ततस्⟫ ... Hauptsatz ... = "weil ..., deshalb ..." <!-- TODO: Fallback translation -->
-    *   ⟪यस्मात्⟫ ... Nebensatz ... ⟪तस्मात्⟫ ... Hauptsatz ... = "weil ..., deshalb ..." <!-- TODO: Fallback translation -->
-*   instrumental: <!-- TODO: Fallback translation -->
-    *   ⟪येन⟫ ... Nebensatz ... ⟪तेन⟫ ... Hauptsatz ... = "wodurch/weil ..., dadurch / deswegen ..." <!-- TODO: Fallback translation -->
+*   ablative:
+*   ⟪यतस्⟫ ... yan cümle ... ⟪ततस्⟫ ... ana cümle ... = "çünkü ..., bu yüzden ..."
+*   ⟪यस्मात्⟫ ... yan cümle ... ⟪तस्मात्⟫ ... ana cümle ... = "çünkü ..., bu yüzden ..."
+*   instrumental:
+*   ⟪येन⟫ ... yan cümle ... ⟪तेन⟫ ... ana cümle ... = "neyle/çünkü ..., bununla / bu yüzden ..."
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 
 ::: indent
-⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde" <!-- TODO: Fallback translation -->
+⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो व्रतं चरति⟫ = "Rāma refah dilediği için, yemini uygular"
 :::
 ::: grammar-box
-**2\. ⟪हि⟫** <!-- TODO: Fallback translation -->
+**2\. ⟪हि⟫**
 
-Hauptsätze kann man mittels der Partikel ⟪हि⟫ "denn, weil" miteinander verknüpfen. Ein Satz mit ⟪हि⟫ (das nicht an erster Stelle stehen darf, sondern in Prosa an zweiter Stelle stehen muss) gibt eine Begründung an entweder für den vorhergehenden Satz oder für den darauffolgenden Satz: <!-- TODO: Fallback translation -->
+Ana cümleler, ⟪हि⟫ "çünkü" parçacığı ile birbirine bağlanabilir. ⟪हि⟫ içeren bir cümle (ilk sırada yer alamaz, ancak düz yazıda ikinci sırada yer almalıdır), önceki cümle veya sonraki cümle için bir gerekçe belirtir:
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 
 ::: indent
-⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Die Leute tun Verdienstliches. Sie wollen nämlich in den Himmel kommen." <!-- TODO: Fallback translation -->
+⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "İnsanlar hayırlı işler yapar. Çünkü cennete girmek isterler."
 :::
 ::: grammar-box
-**3\. Instrumentalis (⟪तृतीया⟫)** <!-- TODO: Fallback translation -->
+**3\. Aletlik (⟪तृतीया⟫)**
 
-Neben dem Ablativ (⟪पञ्चमी⟫) wird der Instrumentalis (⟪तृतीया⟫) zur Angabe des Grundes oder der Ursache verwendet. Bei femininen Nomina ist der Instrumentalis im Allgemeinen obligatorisch. <!-- TODO: Fallback translation -->
+Ablatifin (⟪पञ्चमी⟫) yanı sıra, Aletlik (⟪तृतीया⟫) neden veya sebep belirtmek için kullanılır. Dişi isimlerde Aletlik genel olarak zorunludur.
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 
 ::: indent
-⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn" = "Er erschlägt seinen Sohn im Zorn" <!-- TODO: Fallback translation -->
+⟪क्रोधेन पुत्रं हन्ति⟫ = "Öfke nedeniyle oğlunu öldürür" = "Öfkede oğlunu öldürür"
 :::
 ::: grammar-box
-**4\. Nomina** <!-- TODO: Fallback translation -->
+**4\. İsimler**
 
-Daneben kann man selbstverständlich Begründungen auch ausdrücken durch Konstruktionen mit <!-- TODO: Fallback translation -->
+Tabii ki gerekçeler ayrıca aşağıdaki yapılarla da ifade edilebilir:
 
-*   ⟪कारण⟫ n. "Ursache": ⟪कारणात्⟫ ⟪।⟫ ⟪कारणेन⟫ <!-- TODO: Fallback translation -->
-*   ⟪हेतु⟫ m. <!-- TODO: Fallback translation -->
-*   andere Nomina in der Bedeutung "Ursache" <!-- TODO: Fallback translation -->
+*   ⟪कारण⟫ n. "Neden": ⟪कारणात् । कारणेन⟫
+*   ⟪हेतु⟫ m.
+*   "Neden" anlamındaki diğer isimler
 
-\+ Genetiv (⟪षष्ठी⟫) oder als Hinterglied von Komposita: <!-- TODO: Fallback translation -->
+\+ Genitif (⟪षष्ठी⟫) veya bileşik kelimelerin ikinci elemanı olarak:
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 
 ::: indent
-⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ u.s.w.) = "wegen des Verdienstes" <!-- TODO: Fallback translation -->
+⟪पुण्यस्य कारणात्⟫ (⟪हेतोः⟫ vb.) = "sevap nedeniyle"
 :::
 ::: grammar-box
-**5\. ⟪इति⟫** <!-- TODO: Fallback translation -->
+**5\. ⟪इति⟫**
 
-Das Motiv für eine Tätigkeit kann man als Gedanken mit ⟪इति⟫ angeben: <!-- TODO: Fallback translation -->
+Bir eylemin motivasyonu, ⟪इति⟫ ile bir düşünce olarak belirtilebilir:
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Örnek:
 
 ::: indent
-⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...) <!-- TODO: Fallback translation -->
+⟪सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति⟫  = "Sugata gerçeğe tam olarak uyanmış olduğundan, Ānanda Gautama'dan öğretileri hakkında sorar" (« "Sugata gerçeğe tam olarak uyanmış" diye düşünerek ...)
 :::
-## 25.5. Wortliste <!-- TODO: Fallback translation -->
+## 25.5. Kelime Listesi
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  verlassen, aufgeben, im Stich lassen <!-- TODO: Fallback translation -->
+⟪त्यज्⟫ 3. Tekil Şahıs ⟪त्यजति⟫  terk etmek, bırakmak, yolda bırakmak
 
 ::: indent
-Fut. ⟪त्यक्ष्यति⟫  
-Pass. ⟪त्यज्यते⟫  
-PPP ⟪त्यक्त⟫  
-Inf. ⟪त्यक्तुम्⟫  
-Absol. 2: -⟪त्यज्य⟫ <!-- TODO: Fallback translation -->
+Gelecek Zaman: ⟪त्यक्ष्यति⟫  
+Edilgen: ⟪त्यज्यते⟫  
+PPP (Geçmiş Zaman Ortak Sıfat): ⟪त्यक्त⟫  
+Fiilimsi: ⟪त्यक्तुम्⟫  
+Mutlak Çekim: 2: -⟪त्यज्य⟫
 
-davon: <!-- TODO: Fallback translation -->
+bunlardan:
 
-⟪त्याग⟫ m.: Aufgeben, Verzicht, Meiden <!-- TODO: Fallback translation -->
+⟪त्याग⟫ m.: Terk etme, vazgeçme, kaçınma
 :::
-⟪दार⟫ m. pl. (!!!): Ehefrau <!-- TODO: Fallback translation -->
+⟪दार⟫ m. pl. (!!!): eş
 
-⟪द्रव्य⟫ n.: Gegenstand, Habe, materieller Besitz, Geld <!-- TODO: Fallback translation -->
+⟪द्रव्य⟫ n.: nesne, mal-varlık, maddi sahip olma, para
 
-⟪धान्य⟫ n.:  gedroschenes Getreide <!-- TODO: Fallback translation -->
+⟪धान्य⟫ n.: ezilmiş tahıl
 
 ::: media
 ![](/images/lekt2501.webp)
-Abb.: ⟪धान्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2501)) <!-- TODO: Fallback translation -->
+Resim: ⟪धान्यम्⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : halten, festhalten <!-- TODO: Fallback translation -->
+⟪धृ⟫ 1U ⟪धरति⟫ : tutmak, sıkıca tutmak
 
 ::: indent
 Fut. ⟪धरिष्यति⟫  
 Pass. ⟪ध्रियते⟫  
 PPP ⟪धृत⟫  
 Inf. ⟪धर्तुम्⟫  
-Absol. 2: -⟪धृत्य⟫ <!-- TODO: Fallback translation -->
+Absol. 2: -⟪धृत्य⟫
 
-davon: <!-- TODO: Fallback translation -->
+bundan:
 
-⟪धर्म⟫ m.: das, was fest ist und fest hält = Dharma <!-- TODO: Fallback translation -->
+⟪धर्म⟫ m.: sağlam olan ve sıkıca tutan = Dharma
 :::
-⟪नित्य⟫ ⟪३⟫ : ständig, beständig, ewig <!-- TODO: Fallback translation -->
+⟪नित्य ३⟫ : sürekli, daimi, ebedî
 
 ::: indent
-⟪नित्यम्⟫ Adv.: stets, beständig immer <!-- TODO: Fallback translation -->
+⟪नित्यम्⟫ Adv.: daima, sürekli olarak her zaman
 :::
-⟪प्रज्ञा⟫ f.:  Weisheit, Erkenntnis <!-- TODO: Fallback translation -->
+⟪प्रज्ञा⟫ f.: bilgelik, bilgi
 
-⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende <!-- TODO: Fallback translation -->
+⟪प्रदान⟫ n.: verme, bağış ; hediye, bağış
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen <!-- TODO: Fallback translation -->
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : sevinmek, bir şeyden (İs., Yt., Lk.) haz duymak
 
 ::: indent
 Fut. ⟪मदिष्यति⟫  
 Pass. ⟪मद्यते⟫  
 PPP ⟪मत्त⟫  
-Inf. ⟪मदितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪मदितुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+bundan:
 
-⟪मद⟫ m.: Rausch, Sinnenrausch = Sinneslust <!-- TODO: Fallback translation -->
+⟪मद⟫ m.: haz, duygu-hazı = duygu-havası
 :::
-⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen) <!-- TODO: Fallback translation -->
+⟪मान⟫ m.: değerlendirme, itibar, şöhret, onur, gurur, kibir, aşağılık kompleksi ; (başkalarıyla ölçüşürsünüz)
 
-⟪यदि⟫ Konjunktion: wenn <!-- TODO: Fallback translation -->
+⟪यदि⟫ Bağlaç: eğer
 
-⟪न्याय⟫ m.: Regel, Prinzip, Methode, Urteil (jurist.), Logik (aus ni + i +a) <!-- TODO: Fallback translation -->
+⟪न्याय⟫ m.: kural, ilke, yöntem, yargı (hukuki), mantık (ni + i + a'dan)
 
-⟪अन्यथा⟫ Adv.: anders, sonst, fälschlich, unrichtig <!-- TODO: Fallback translation -->
+⟪अन्यथा⟫ Adv.: farklı, aksi halde, yanlışlıkla, hatalı
 
-⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫ <!-- TODO: Fallback translation -->
+⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
 ::: indent
 Pass. ⟪यायते⟫  
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
-Absol. 2: -⟪याय⟫ <!-- TODO: Fallback translation -->
+Absol. 2: -⟪याय⟫
 :::
-⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫ <!-- TODO: Fallback translation -->
-
-⟪प्रदान⟫ n. = ⟪दान⟫ <!-- TODO: Fallback translation -->
-
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : befehlen, lehren, bestrafen <!-- TODO: Fallback translation -->
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य भावः प्रदान⟫ n. = ⟪दान शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. çoğul) : emretmek, öğretmek, cezalandırmak
 
 ::: indent
 Pass. ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ ⟪३⟫ : gelehrt  
-Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫ <!-- TODO: Fallback translation -->
+PPP ⟪शिष्ट ३⟫ : öğretilmiş  
+Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 
-davon: <!-- TODO: Fallback translation -->
+bundan:
 
-⟪शिक्षा⟫ f.: Wissenschaft, Unterricht ; Phonetik <!-- TODO: Fallback translation -->
+⟪शिक्षा⟫ f.: bilim, öğretim ; fonetik
 :::
-⟪स्तेन⟫ m.: Dieb <!-- TODO: Fallback translation -->
+⟪स्तेन⟫ m.: hırsız
 
-⟪स्तेय⟫ n.: Diebstahl <!-- TODO: Fallback translation -->
+⟪स्तेय⟫ n.: hırsızlık
 
-⟪किल्बिष⟫ n.: Schuld, Beleidigung, Sünde <!-- TODO: Fallback translation -->
+⟪किल्बिष⟫ n.: suç, hakaret, günah
 
-⟪विना⟫ Postposition: ohne, ausser (mit  Akk., Instr., Abl.) <!-- TODO: Fallback translation -->
+⟪विना⟫ Postpozisyon: olmadan, hariç (Akk., Instr., Abl. ile)
 
-⟪मूल⟫ n.: Wurzel <!-- TODO: Fallback translation -->
+⟪मूल⟫ n.: kök
 
 ::: media
 ![](/images/lekt2502.webp)
-Abb.: ⟪मूलानि⟫
-(Bildquelle: [Details](/licenses#lekt2502)) <!-- TODO: Fallback translation -->
+Resim: ⟪मूलानि⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren <!-- TODO: Fallback translation -->
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): sürtmek, yağlamak
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
 Pass. ⟪लिप्यते⟫  
 PPP ⟪लिप्त⟫  
-Inf. ⟪लेप्तुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪लेप्तुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+bundan:
 
-⟪लिप्ति⟫ f.: Bestreichen, Schreiben, Schrift <!-- TODO: Fallback translation -->
+⟪लिप्ति⟫ f.: sürme, yazma, yazı
 :::
 ::: media
 ![](/images/lekt2503.webp)
-Abb.: ⟪लिप्तिः⟫
-(Bildquelle: [Details](/licenses#lekt2503)) <!-- TODO: Fallback translation -->
+Resim: ⟪लिप्तिः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2503))
 :::
-⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr <!-- TODO: Fallback translation -->
+⟪वर्ष⟫ n.,m.: yağmur, yağmur mevsimi, yıl
 
-⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind) <!-- TODO: Fallback translation -->
+⟪वह्⟫ 1U ⟪वहति⟫ : sürüklemek, gitmek, esmek (rüzgar)
 
 ::: indent
 Fut. ⟪वक्ष्यति⟫  
 Pass. ⟪उह्यते⟫  
 PPP ⟪ऊढ⟫  
 Inf. ⟪वोढुम्⟫  
-Absol 2: -⟪उह्य⟫ <!-- TODO: Fallback translation -->
+Absol 2: -⟪उह्य वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : sürüklemek (yani gelini ailesinden almak) = evlenmek
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten <!-- TODO: Fallback translation -->
+bundan:
 
-davon: <!-- TODO: Fallback translation -->
-
-⟪विवाह⟫ m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171) <!-- TODO: Fallback translation -->
+⟪विवाह⟫ m.: sürüklenme, bir kadının evlenmesi (Instr., saha) (evlilik için bkz. Basham, Wonder S. 166 -171)
 :::
 ::: media
 ![](/images/lekt2504.webp)
-Abb.: ⟪विवाहः⟫
-(Bildquelle: [Details](/licenses#lekt2504)) <!-- TODO: Fallback translation -->
+Resim: ⟪विवाहः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2504))
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen <!-- TODO: Fallback translation -->
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : sürüklemek, öğretmek, yetiştirmek
 
 ::: indent
-davon: <!-- TODO: Fallback translation -->
+bundan:
 
-⟪विनय⟫ m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht <!-- TODO: Fallback translation -->
+⟪विनय⟫ m.: uzaklaştırma, yetiştirme, terbiye, budist: rahiplik disiplini, rahiplik hukuku
 :::
-⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis <!-- TODO: Fallback translation -->
+⟪विज्ञान⟫ n.: bilgi, kavrayış
 
-⟪विष्टि⟫ f.: Arbeit, Frondienst <!-- TODO: Fallback translation -->
+⟪विष्टि⟫ f.: iş, zorla çalışma
 
 ::: media
 ![](/images/lekt2505.webp)
-Abb.: ⟪विष्टिः⟫
-(Bildquelle: [Details](/licenses#lekt2505)) <!-- TODO: Fallback translation -->
+Resim: ⟪विष्टिः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, grösser werden <!-- TODO: Fallback translation -->
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : büyümek, daha büyük olmak
 
 ::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : erwachsen, alte, vermehrt  
-Inf. ⟪वर्धितुम्⟫ <!-- TODO: Fallback translation -->
+PPP ⟪वृद्ध⟫ : yetişkin, yaşlı, artmış  
+Inf. ⟪वर्धितुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+bundan:
 
-⟪वृद्धि⟫ f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti) <!-- TODO: Fallback translation -->
+⟪वृद्धि⟫ f.: büyüme, gelişim, vṛdh-ti'den: uzama derecesi
 :::
-⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen <!-- TODO: Fallback translation -->
+⟪सामर्थ्य⟫ n.: amacına uygunluk
 
-⟪स्वभाव⟫ m.: Wesen, Natur, Charakter <!-- TODO: Fallback translation -->
+⟪स्वभाव⟫ m.: varlık, doğa, karakter
 
-⟪हर्ष⟫ m.: (Aufrichten der Körperhärchen), Freude <!-- TODO: Fallback translation -->
+⟪हर्ष⟫ m.: (vücudun tüylerinin dikilmesi), sevinç
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum <!-- TODO: Fallback translation -->
+⟪हिरण्य ३⟫ : altın ; n.: altın, para, zenginlik
 
 ::: media
 ![](/images/lekt2506.webp)
-Abb.: ⟪हिरण्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2506)) <!-- TODO: Fallback translation -->
+Resim: ⟪हिरण्यम्⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom <!-- TODO: Fallback translation -->
+⟪अणु ३⟫ : ince, kibar, çok küçük ; m.: atom
 
-⟪गोदान⟫ n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein ⟪संस्कार⟫) <!-- TODO: Fallback translation -->
+⟪गोदान⟫ n.: ineklere / bir ineğe verme ; ikinci saç kesme töreni (bir ⟪संस्कार⟫)
 
-## 25.6. Übung <!-- TODO: Fallback translation -->
+## 25.6. Alıştırma
 
-A) Ergänzen Sie die Deklinationsbeispiele von [Lektion 16](lektion16.md), Wiederholungsübung A durch Hinzufügen von 4. Dativ (⟪चतुर्थी⟫) und 5. Ablativ (⟪पञ्चमी⟫). Bilden Sie ausserdem Deklinationsreihen mit allen bisher gelernten Formen zu <!-- TODO: Fallback translation -->
+>> A) [Lektion 16](lektion16.md)'dan Deklinasyon örneklerini, Tekrar alıştırması A'yı 4. Dativ (⟪चतुर्थी⟫) ve 5. Ablativ (⟪पञ्चमी⟫) ekleyerek tamamlayın. Ayrıca daha önce öğrenilen tüm formlarla Deklinasyon dizileri oluşturun
 
-⟪१⟫. ⟪सन्त्⟫ (m., n.) <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪सन्त्⟫ (m., n.)
 
-⟪२⟫. ⟪महान्त्⟫ (m., n.) <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪महान्त्⟫ (m., n.)
 
-⟪३⟫. ⟪यद्⟫ (m., n., f.) <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪यद्⟫ (m., n., f.)
 
-Lernen Sie diese Deklinationsparadigmen auswendig! <!-- TODO: Fallback translation -->
+Bu Deklinationsparadigmen'ı ezberleyin!
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+B) Çevirin ve Sanskrit'te Komposita'yı çözün:
 
-⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪गुर्वादेशाद्रामो ग्रामान्नगरं गत्वा साधुगृहं प्रविश्य साधुमुपस्थायालं क्रोधेनेति वक्ति ॥१॥ गुरोरधर्मः श्रोतुं न शक्यत इति श्रुत्या च स्मृतिभिश्चोद्यते ॥२॥ क्षत्रिया जनाञ्छत्रुभ्यो रक्षितुमर्हन्तीति क्षत्रियधर्मः ॥३॥ कृतयज्ञदोषत्वाद्ब्राह्मणो धनं लब्धुं नार्हति ॥४॥ धनलाभहेतोस्ते वैश्या व्रतं कृत्वा ब्रह्मचर्यं चरन्ति ॥५॥ बुद्द्धाश्चार्हन्तश्च दुःखान्मुक्ताः । मुञ्चन्ती बुद्धिर्हि तैः प्राप्ता ॥६॥ लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति । ततः प्राप्तकाला नरकं पतन्ति ॥७॥ क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫
 
-⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
-
-⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
-
-⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪नार्हति⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
-
-⟪धनलाभहेतोस्ते⟫ ⟪वैश्या⟫ ⟪व्रतं⟫ ⟪कृत्वा⟫ ⟪ब्रह्मचर्यं⟫ ⟪चरन्ति⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
-
-⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
-
-⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
-
-⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
-
-⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
-
-⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
-
-⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫ <!-- TODO: Fallback translation -->
-
-⟪रामाद्विना⟫ =  ⟪रामं⟫ ⟪विना⟫ = ⟪रामेण⟫ ⟪विना⟫ ⟪॥१२॥⟫ <!-- TODO: Fallback translation -->
-
-⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫ <!-- TODO: Fallback translation -->
-
-⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫ <!-- TODO: Fallback translation -->
-
-⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫ <!-- TODO: Fallback translation -->
-
-⟪अलं⟫ ⟪भयेन⟫ ⟪॥१६॥⟫ <!-- TODO: Fallback translation -->
-
-⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫) <!-- TODO: Fallback translation -->
+⟪पुत्रलाभकारणाद्ब्राह्मणी व्रतं चरति ॥९॥ लब्धपुत्रत्वाद्द्विजेन महासुखमाप्तम् ॥१०॥ विष्णुर्भक्तान्मरणात्पाति ॥११॥ रामाद्विना⟫ =  ⟪रामं विना⟫ = ⟪रामेण विना ॥१२॥ साधोः शिक्षा गुणाय संपद्यते नासाधोः ॥१३॥ रामः कृष्णाय तिष्ठति ॥१४॥ सुखेन गच्छति ॥१५॥ अलं भयेन ॥१६॥ लोकादधिको हरिः ॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫)
 
 ::: media
 ![](/images/lekt2507.webp)
-Abb.: ⟪लोकादधिको⟫ ⟪हरिः⟫ <!-- TODO: Fallback translation -->
+Abb.: ⟪लोकादधिको हरिः⟫
 :::
-## 25.7. ⟪सुभाषितानि⟫ <!-- TODO: Fallback translation -->
-
-⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫  
-⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
-⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫  
-⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+## 25.7. ⟪सुभाषितानि यतो यतो निवर्तते ततस्ततो विमुच्यते । निवर्तनाद्धि सर्वतो न वेत्ति दुःखमण्वपि ॥१॥⟫
 
 ::: indent
-Erklärung: ⟪सर्वतस्⟫ = sarva "jeder, alle" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr. <!-- TODO: Fallback translation -->
+Açıklama: ⟪सर्वतस्⟫ = sarva "her, tüm" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr.
 :::
-⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
-⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
-⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫  
-⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
-
-⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫  
-⟪पापं⟫ ⟪दारिद्र्यसंभवम्⟫ ⟪।⟫  
-⟪दारिद्र्यमप्रदानेन⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
-
-⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫  
-⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
-⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫  
-⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪३१६॥⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪मानाद्वा यदि वा लोभात् क्रोधाद्वा यदि वा भयात् । यो न्यायमन्यथा ब्रूते स याति नरकं नरः ॥२॥ भवन्ति नरकाः पापात् पापं दारिद्र्यसंभवम् । दारिद्र्यमप्रदानेन ॥३॥ शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥मनुस्मृति ८⟫.⟪३१६॥ ॥४॥⟫
 
 ::: indent
-Erklärung: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪नृप⟫ <!-- TODO: Fallback translation -->
+Açıklama: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪नृप⟫
 :::
-## 25.8. Übersetzungsübung <!-- TODO: Fallback translation -->
+## 25.8. Çeviri Alıştırması
 
-1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. über den Nutzen der Ökonomie: <!-- TODO: Fallback translation -->
+1\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪१⟫. Ekonomiğin faydası hakkında:
 
-⟪वार्त्ता⟫ ⟪धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪वार्त्ता धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी ॥⟫
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. über die Ausbildung eines Fürsten: <!-- TODO: Fallback translation -->
+2\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪५⟫. Bir prensin eğitimi hakkında:
 
-⟪तस्माद्दण्डमूला⟫:sig[⟪स्तिस्रो⟫] ⟪विद्याः⟫ ⟪॥१॥⟫  
-⟪विनयमूलो⟫ ⟪दण्डः⟫ :sig[⟪प्राणभृतां⟫] ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
-⟪कृतकः⟫ ⟪स्वाभाविकश्च⟫ ⟪विनयः⟫ ⟪॥३॥⟫  
-⟪क्रिया⟫ ⟪हि⟫ ⟪द्रव्यं⟫ ⟪विनयति⟫ ⟪नाद्रव्यम्⟫ ⟪॥४॥⟫  
-⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ :sig[⟪नेतरम्⟫] ⟪॥५॥⟫  
-... ⟪॥⟫  
-⟪वृत्तचौल⟫:sig[⟪कर्मा⟫] ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫:sig[⟪पयुन्ञ्जीत⟫] ⟪॥७॥⟫  
-⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ :sig[⟪वक्तृप्रयोक्तृभ्यः⟫] ⟪॥८॥⟫  
-⟪ब्रह्मचर्यं⟫ ⟪चा⟫ :sig[⟪षोडशाद्व⟫]⟪र्षाद्⟫ ⟪॥९॥⟫  
-⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫:sig[⟪कर्म⟫] ⟪चास्य⟫ ⟪॥१०॥⟫  
-⟪नित्यश्च⟫ ⟪विद्यावृद्धसंयोगो⟫ ⟪विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य⟫ ⟪॥११॥⟫  
-... ⟪॥⟫  
-⟪श्रुता⟫:sig[⟪द्धि⟫] ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫:sig[⟪दात्मवत्ते⟫]⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
-... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫:sig[⟪त्कार्यः⟫] ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪तस्माद्दण्डमूला⟫:sig[⟪स्तिस्रो⟫] ⟪विद्याः ॥१॥ विनयमूलो दण्डः⟫ :sig[⟪प्राणभृतां⟫] ⟪योगक्षेमावहः ॥२॥ कृतकः स्वाभाविकश्च विनयः ॥३॥ क्रिया हि द्रव्यं विनयति नाद्रव्यम् ॥४॥ शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं विद्या विनयति⟫ :sig[⟪नेतरम्⟫] ⟪॥५॥⟫  
+⟪॥ वृत्तचौल⟫:sig[⟪कर्मा⟫] ⟪लिपिं संख्यानं चो⟫:sig[⟪पयुन्ञ्जीत⟫] ⟪॥७॥ वृत्तोपनयस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्त्तामध्यक्षेभ्यो दण्डनीतिं⟫ :sig[⟪वक्तृप्रयोक्तृभ्यः⟫] ⟪॥८॥ ब्रह्मचर्यं चा⟫ :sig[⟪षोडशाद्व⟫]⟪र्षाद् ॥९॥ अतो गोदानं दार⟫:sig[⟪कर्म⟫] ⟪चास्य ॥१०॥ नित्यश्च विद्यावृद्धसंयोगो विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य ॥११॥⟫  
+⟪॥ श्रुता⟫:sig[⟪द्धि⟫] ⟪प्रज्ञोपजायते प्रज्ञाया योगो योगा⟫:sig[⟪दात्मवत्ते⟫]⟪ति विद्यानां सामर्थ्यम् ॥१६॥⟫  
+⟪॥ कामक्रोधलोभमानमदहर्षत्यागा⟫:sig[⟪त्कार्यः⟫] ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-Erklärung der im obigen Text rot hervorgehobenen Wörter: <!-- TODO: Fallback translation -->
 
-1.5.1. ⟪तिस्रस्⟫ : Nom, Akk, fem. zu ⟪त्रि⟫ "drei" <!-- TODO: Fallback translation -->
+Yukarıdaki metinde kırmızı renkle vurgulanan kelimelerin açıklaması:
 
-1.5.2. ⟪प्राणभृताम्⟫ : Gen. pl. m. zu ⟪प्राणभृत्⟫ m. "Lebewesen" <!-- TODO: Fallback translation -->
+1.5.1. ⟪तिस्रस्⟫ : İsim, Belirtili Nesne, dişil. ⟪त्रि⟫ "üç" kelimesinin çekimi
 
-1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "anderer" <!-- TODO: Fallback translation -->
+1.5.2. ⟪प्राणभृताम्⟫ : Çoğul, Tamlayan, eril. ⟪प्राणभृत्⟫ m. "canlı" kelimesinin çekimi
 
-1.5.7. ⟪कर्मा⟫ : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "Tat, Werk" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen" <!-- TODO: Fallback translation -->
+1.5.5.  ⟪इतरम्⟫ Belirtili Nesne, tekil, eril. ⟪इतर ३⟫ "başka" kelimesinin çekimi
 
-1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. zu ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "Theoretiker und Praktiker" <!-- TODO: Fallback translation -->
+1.5.7. ⟪कर्मा⟫ : Yalın, tekil, eril. ⟪कर्मन्⟫ nötr. "eylem, iş" ; ⟪उपयुञ्जीत⟫ : Dilek Kipi 3. tekil Ā kolu upa-yuj 7 "kendine özelleştirmek" için: "kendi özelleştirmesi dileğiyle"
 
-1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sechzehnter" <!-- TODO: Fallback translation -->
+1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Çıkma, Yönelme, çoğul. ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "kuramcı ve uygulamacı" kelimesinin çekimi
 
-1.5.10. ⟪कर्म⟫ Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Tat" <!-- TODO: Fallback translation -->
+1.5.9. ⟪षोडश ३⟫ : "on altıncı"
 
-1.5.16. ⟪धि⟫ Sandhiform zu ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "Selbstbesitz" <!-- TODO: Fallback translation -->
+1.5.10. ⟪कर्म⟫ Yalın, Belirtili Nesne, tekil. ⟪कर्मन्⟫ n. "eylem" kelimesinin çekimi
 
-1.6.1. ⟪कार्य⟫ ⟪३⟫ "zu tuendes, was getan werden muss" <!-- TODO: Fallback translation -->
+1.5.16. ⟪धि⟫ Sandhi biçimi ⟪हि⟫ için ; ⟪आत्मवत्ता⟫ f.: "kendi kendine sahip olma"
+
+1.6.1. ⟪कार्य ३⟫ "yapılması gereken, yapılması zorunlu olan"
 

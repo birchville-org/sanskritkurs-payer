@@ -1,32 +1,32 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Exercice d’écriture 1
+## Exercice d'écriture 1
 
-Le sanskrit a été et est écrit dans une multitude de scripts. Le résumé suivant présente un petit extrait de ces scripts :
+Le sanskrit a été et est écrit dans une multitude de scripts. La vue d'ensemble suivante présente un petit échantillon de ces écritures :
 
 ![](/images/schrift001.webp)  
-Fig. : Échantillons d’écriture sanskrite  
-\[Source de l’image : Wikipédia, licence GNU FD\]
+Fig. : Échantillons d'écriture sanskrits
+\[Source de l'image : Wikipédia, licence GNU FDL\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
+Le script sanskrit nord-indien moderne le plus important est le Devanāgarī :
 
 ![](/images/schrift002.webp)
 
-Chaque signe consonantique inclut un « a » suivant la consonne. Si l’on souhaite écrire la consonne pure (sans voyelle suivante), il faut le marquer par une barre oblique inférieure -- virāma = ⟪विराम⟫ -- :
+Chaque signe consonantique indique également un "a" qui suit la consonne. Si l'on souhaite écrire la consonne pure (sans voyelle suivante), cela doit être indiqué par une barre oblique inférieure -- virāma = ⟪विराम⟫ -- :
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
-Les voyelles suivantes une consonne -- sauf « a » -- s’écrivent ainsi :
+Les voyelles suivantes une consonne -- sauf "a" -- s'écrivent ainsi :
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
-L’ordre lors de l’écriture de ces combinaisons consonne + voyelle est le suivant :
+L'ordre lors de l'écriture de ces combinaisons consonne + voyelle est le suivant :
 
 ![](/images/schrift003.jpg)
 
-Lors de l’écriture, chaque lettre, y compris la barre transversale, est achevée sur la ligne supérieure avant que la lettre suivante ne soit écrite.
+Lors de l'écriture, chaque lettre y compris la barre horizontale supérieure doit être achevée avant que la lettre suivante ne soit écrite.
 
 ## Exercice
 
@@ -36,7 +36,7 @@ kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā p�
 
 Lisez et translitérez :
 
-⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
+⟪तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ⟫
 
 Exercice de lecture supplémentaire :
 

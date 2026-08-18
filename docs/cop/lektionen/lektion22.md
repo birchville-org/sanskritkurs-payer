@@ -13,7 +13,7 @@ status: stable
 
 ::: grammar-box
 
-Will man in Sanskrit ausdrücken, dass eine Handlung des Agens (⟪कर्तृ⟫) einer anderen Handlung des Agens vorausgeht oder mit ihr als begleitender Umstand einhergeht, verwendet man das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Also <!-- TODO: Fallback translation -->
+Will man in Sanskrit ausdrücken, dass eine Handlung des Agens (⟪कर्तृ⟫) einer anderen Handlung des Agens vorausgeht oder mit ihr als begleitender Umstand einhergeht, verwendet man das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Also
 
 "nachdem er das getan hat, tut er jenes" ; "er tut das, dann tut er jenes" ; "als Folge von diesem tut er jenes" ; "ich kam, sah und siegte" u. ä.
 
@@ -100,7 +100,7 @@ Beim Übersetzen ins Deutsche vermeide man, ständig „nachdem“ zu sagen. Man
 ::: indent
 **⟪उपस्थाय⟫** "ⲛⲁϣ ⲉⲃⲟⲗ ϯⲙⲛϭⲓ ⲡⲉⲧⲣⲁⲛ" ; (ϫⲟⲩ ⲙⲡⲓⲥⲣⲉϫⲟⲃ: **⟪स्थित्वा⟫**)
 :::
-#### 22.2.2.3. ⲧⲉⲕⲱⲙⲟⲩ ⲛⲉϥⲧⲱⲙⲟⲩ ⲛⲉϥⲣⲱⲙ ϯⲕ ⲛⲉϥⲧⲱⲙⲟ <!-- TODO: Fallback translation -->
+#### 22.2.2.3. ⲧⲉⲕⲱⲙⲟⲩ ⲛⲉϥⲧⲱⲙⲟⲩ ⲛⲉϥⲣⲱⲙ ϯⲕ ⲛⲉϥⲧⲱⲙⲟ
 
 ::: grammar-box
 
@@ -229,7 +229,7 @@ Goa = ⟪गोंय⟫
 35.  ⟪प्रवद्⟫
 36.  ⟪हन्⟫
 
-**B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:** <!-- TODO: Fallback translation -->
+**B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:**
 
 ⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदासो⟫ ⟪ऽत्ति⟫ ⟪॥१॥⟫
 
@@ -257,16 +257,5 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Abb.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Bildquelle: [Details](/licenses#lekt2204))
-:::
-
-::: deleteme-box
-
-**lekt2201:** Ⲕⲟⲱϫ = ⟪गोंय⟫ [ⲁⲛϣⲱⲡ ⲧⲉ ϩⲓⲥϣⲱⲡ: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- ⲛⲁϣⲱⲡ 2008-12-12. -- Creative Commons ⲛⲓϣⲱⲡ (ⲁⲛϥⲧⲉⲙⲏ, ⲁⲛϥⲧⲉⲙⲏ ϩⲓⲛϣⲱⲡ, ⲁⲛϥⲧⲉⲙⲏ ϩⲓⲛϣⲱⲡ)]
-
-**lekt2202:** 19. ⲛⲓϣⲱⲡ [ⲁⲛϣⲱⲡ ⲧⲉ ϩⲓⲥϣⲱⲡ: Wikipedia, Public domain]
-
-**lekt2203:** Ⲕⲟⲗϫⲁⲧⲁ = কলকাতা [ⲁⲛϣⲱⲡ ⲧⲉ ϩⲓⲥϣⲱⲡ: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- ⲛⲁϣⲱⲡ 2008-12-12. -- Creative Commons ⲛⲓϣⲱⲡ (ⲁⲛϥⲧⲉⲙ⏣, ⲁⲛϥⲧⲉⲙ⏣ ϩⲓⲛϣⲱⲡ, ⲁⲛϥⲧⲉⲙ⏣ ϩⲓⲛϣⲱⲡ)]
-
-**lekt2204:** [ⲁⲛϣⲱⲡ ⲧⲉ ϩⲓⲥϣⲱⲡ: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- ⲛⲁϣⲱⲡ 2008-12-12. -- Creative Commons ⲛⲓϣⲱⲡ (ⲁⲛϥⲧⲉⲙ⏣, ⲁⲛϥⲧⲉⲙ⏣ ϩⲓⲛϣⲱⲡ, ⲁⲛϥⲧⲉⲙ⏣ ϩⲓⲛϣⲱⲡ)]
 :::
 

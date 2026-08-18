@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 12
 
-A) Bilden Sie aus den Aktivsätzen von [Lektion 7](lektion07.md), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit. <!-- TODO: Fallback translation -->
+A) Bilden Sie aus den Aktivsätzen von [Lektion 7](lektion07.md), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.
 
 ⟪१⟫. ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इष्टः⟫ ⟪।⟫ ⟪देवीष्टा⟫ ⟪।⟫ ⟪विष्णुरिष्टः⟫ ⟪।⟫ ⟪ब्राह्मणेनाग्निरिष्टः⟫ ⟪।⟫ ⟪देवतेष्टा⟫ ⟪।⟫
 
@@ -24,7 +24,7 @@ A) Bilden Sie aus den Aktivsätzen von [Lektion 7](lektion07.md), Übung A mit d
 ⟪५⟫. śūdro jitaḥ ⟪॥⟫
 ⟪शूद्रो⟫ ⟪जितः⟫ ⟪॥⟫
 
-B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](lektion10.md), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen. <!-- TODO: Fallback translation -->
+B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](lektion10.md), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.
 
 1. sṛjati ⟪सृजति⟫ : ⟪सृष्टः⟫ ⟪३⟫ (⟪सृष्टः⟫ ⟪।⟫ ⟪सृष्टा⟫ ⟪।⟫ ⟪सृष्टम्⟫)
 2. yudhyate ⟪युध्यते⟫ : ⟪युद्धः⟫ ⟪३⟫
@@ -49,7 +49,7 @@ B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](lektion
 21. pṛcchanti ⟪पृच्छन्ति⟫ : ⟪पृष्टाः⟫ ⟪३⟫
 22. tanvanti ⟪तन्वन्ति⟫ : ⟪तताः⟫ ⟪३⟫
 
-C) Setzen Sie die Sätze von [Lektion 10](lektion10.md), Übung C passiv in die Vergangenheit. <!-- TODO: Fallback translation -->
+C) Setzen Sie die Sätze von [Lektion 10](lektion10.md), Übung C passiv in die Vergangenheit.
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 ⟪ब्रामणेन⟫ ⟪देवीष्टा⟫ ⟪।⟫

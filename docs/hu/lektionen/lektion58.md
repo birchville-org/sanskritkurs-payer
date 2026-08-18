@@ -1,15 +1,16 @@
 ---
-title: Lektion 58
-subtitle: "Die Primärendungen des Dual (⟪द्विवचनम्⟫)"
+title: "58. lecke"
+subtitle: "A kettős szám elsődges végződése (⟪द्विवचनम्⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# 58. lecke <!-- TODO: Fallback translation -->
+# 58. lecke
 
-## 58.1. A duális elsődges végződések (⟪द्विवचनम्⟫) <!-- TODO: Fallback translation -->
+## 58.1. A duális elsődges végződések (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
@@ -23,7 +24,7 @@ status: stable
 
 A -vas és -vahe végződés előtt a téma magánhangzót -a- helyett -ā- írjuk.
 
-### 58.2.1. Első jelen idő osztály (⟪भ्वादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.2.1. Első jelen idő osztály (⟪भ्वादिगणः⟫)
 
 ⟪भू⟩ 1. személy "lesz, van"
 
@@ -31,9 +32,9 @@ A -vas és -vahe végződés előtt a téma magánhangzót -a- helyett -ā- írj
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
-### 58.2.2. Negyedik jelen időosztály (⟪दिवादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.2.2. Negyedik jelen időosztály (⟪दिवादिगणः⟫)
 
 ⟪नृत्⟫ 4P "táncolni"
 
@@ -49,7 +50,7 @@ A -vas és -vahe végződés előtt a téma magánhangzót -a- helyett -ā- írj
 ⟪ओडिसी⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5802))
 :::
-### 58.2.3. Hatodik jelen időosztály (⟪तुदादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.2.3. Hatodik jelen időosztály (⟪तुदादिगणः⟫)
 
 ⟪तुद्⟫ 6U „tolni, verni“
 
@@ -111,7 +112,7 @@ Bandipur Nemzeti Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. A kettős athémata jelen osztályok: Jelentő mód, jelen idő (⟪लट्⟫) <!-- TODO: Fallback translation -->
+## 58.5. A kettős athémata jelen osztályok: Jelentő mód, jelen idő (⟪लट्⟫)
 
 ### 58.5.1. Második jelen osztály (⟪अदादिगणः⟫)
 
@@ -184,7 +185,7 @@ Bandipur Nemzeti Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 Ábra: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5805))
 :::
-### 58.5.2. Harmadik jelen időosztály (⟪जुहोत्यादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.2. Harmadik jelen időosztály (⟪जुहोत्यादिगणः⟫)
 
 ⟪हु⟫ 3P "áldozati tűzbe önt"
 
@@ -220,7 +221,7 @@ Bandipur Nemzeti Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 ⟪पुणेनगरे⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5807))
 :::
-### 58.5.4. Nyolcadik jelen időosztály (⟪तनादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.4. Nyolcadik jelen időosztály (⟪तनादिगणः⟫)
 
 ⟪तन्⟫ 8U "megfeszít"
 
@@ -260,9 +261,9 @@ Bandipur Nemzeti Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्तस्⟫ | ⟪युञ्जाते⟫ |
 :::
-### 58.5.6. Kilencedik jelen időosztály (⟪क्र्यादिगणः⟫)
+### 58.5.6. Kilencedik jelen idő osztály (⟪क्र्यादिगणः⟫)
 
-⟪क्री⟫ 9U "megvenni"
+⟪क्री⟫ 9U "vásárol"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -272,21 +273,21 @@ Bandipur Nemzeti Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
 ::: media
 ![](/images/lekt5801.webp)
-Ábra: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
-(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5801))
+Ábra: ⟪स्त्रियौ शाकं क्रीणाते⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-aorist <!-- TODO: Fallback translation -->
+## 58.6. Aoristosz: iṣ-aoristos
 
 ::: grammar-box
-**Az iṣ-aoristot minden seṭ gyökér képezi, amelyre kifejezetten kizárólag más aoristforma van tanítva.** <!-- TODO: Fallback translation -->
+**Az iṣ-aoristost minden seṭ gyök képezi, amelyekre nem tanítják kifejezetten kizárólag más aoristos formát.**
 
 **Képzés:**
 
-**Augment + Tő + i + s + athematische Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + gyök + i + s + athematikus másodlagos végződés**
 
-**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Múlt idő (imperfektum)s von Tőn des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Tőaorist-Formen).
+**!!!** A 2. szg.P és a 3. szg.P **-**īs illetve -īt alakból ered **!!!** (Ez egy átvitelből származik az imperfectumról olyan gyökökből, mint ⟪अब्रवीत्⟫; tehát valójában gyökaoristos formák).
 :::
-Tőbildungssuffix + Végződésen des iṣ-Aorist lauten also: <!-- TODO: Fallback translation -->
+A tőképzési utótag + az iṣ-aoristos végződései tehát:
 
 ::: grammar-box
 
@@ -294,17 +295,16 @@ Tőbildungssuffix + Végződésen des iṣ-Aorist lauten also: <!-- TODO: Fallba
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
-| **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h vagy fényhangzó) |
-| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** | <!-- TODO: Fallback translation -->
+| **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(választható -h vagy félmagánhangzó után) |
+| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
 :::
 ::: grammar-box
-**A gyök formája:**
+**A gyök alakja:**
 
-*   **Rövid magánhangzós gyök egyszerű mássalhangzó előtt: emelt fok P-ben és Ā-ban**
+*   **Rövid magánhangzós gyökök egyszerű mássalhangzó előtt: magas fok a P-ben és az Ā-ban**  
 Példák:  
-⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫  
-⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫ <!-- TODO: Fallback translation -->
+⟪बुध्⟫ 1U: 1.szg.P ⟪अबोधिषम् कॢप्⟫ 1Ā: 1.szg.Ā ⟪अकल्पिषि⟫
 
 *   **Kiejtésben végződő magánhangzós gyök:**
     *   **P: Hosszúsított fok**
@@ -324,7 +324,7 @@ Példa:
 de:  
 ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
 :::
-Paradigmák: <!-- TODO: Fallback translation -->
+Paradigmák:
 
 ⟪पू⟫ 9U "tisztít"
 
@@ -360,7 +360,7 @@ Paradigmák: <!-- TODO: Fallback translation -->
 **Különleges esetek:**
 
 1.  Néhány tőnél a kapcsolómagánhangzó -i- helyett ⟪आत्मनेपद⟫ esetén előfordulhat -ī- is. A ⟪ग्रह्⟫ 9U "megragadni" esetén ezt a helyettesítést az P és Ā alakokban el kell végezni:
-⟪अग्र⟫:sig[⟪ही⟫]⟪षम्⟫ , ⟪अग्र⟫:sig[⟪ही⟫]⟪षि⟫ <!-- TODO: Fallback translation -->
+⟪अग्र⟫:sig[⟪ही⟫]⟪षम्⟫ , ⟪अग्र⟫:sig[⟪ही⟫]⟪षि⟫
 
 2.  A 8. osztályú igék jelen idejű -n (vagy -ṇ) végződésű alakjai a 2.3.sg.Ā-ban mély fokúak lehetnek:
 ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (gyökaorista) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
@@ -380,9 +380,9 @@ Paradigmák: <!-- TODO: Fallback translation -->
 Ábr.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5808))
 :::
-## 58.7. Gyakorlat <!-- TODO: Fallback translation -->
+## 58.7. Gyakorlat
 
-A) Határozza meg és fordítsa le segédeszközök nélkül a következő alakokat, valamint alkossa meg az i-aorista megfelelő alakjait: <!-- TODO: Fallback translation -->
+A) Határozza meg és fordítsa le segédeszközök nélkül a következő alakokat, valamint alkossa meg az i-aorista megfelelő alakjait:
 
 1.  ⟪औहे⟫
 2.  ⟪जाग्रति⟫
@@ -404,7 +404,7 @@ A) Határozza meg és fordítsa le segédeszközök nélkül a következő alako
 18.  ⟪ऐक्षध्वम्⟫
 19.  ⟪अचेतः⟫
 
-B) Fordítsa le és határozza meg a következő alakokat: <!-- TODO: Fallback translation -->
+B) Fordítsa le és határozza meg a következő alakokat:
 
 1.  ⟪अनेढ्वम्⟫
 2.  ⟪एनयोः⟫
@@ -446,16 +446,3 @@ B) Fordítsa le és határozza meg a következő alakokat: <!-- TODO: Fallback t
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [Képmegjelölés: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Hozzáférés: 2009-03-02. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevesítés)]
-
-**lekt5803:** Bandipur Nemzeti Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [Képmegjelölés: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- Hozzáférés: 2009-03-02. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [Képmegjelenítés forrása: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Hozzáférés: 2009-03-02. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Megnevezés, nem kereskedelmi felhasználás, nincs módosítás)]
-
-:::

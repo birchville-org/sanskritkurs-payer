@@ -9,14 +9,6 @@ status: stable
 
 # Lección 12
 
-::: deleteme-box
-**En esta lección aprenderá:**
-- El participio perfecto pasivo (PPP)
-- El significado del PPP
-- La formación del PPP
-- Las leyes de la unión fonética en la palabra
-- Voz pasiva y PPP de las raíces aprendidas hasta ahora
-:::
 
 ## 12.1. Participio perfecto pasivo (PPP)
 
@@ -50,7 +42,7 @@ En este caso, el PPP concuerda con el agente en número, caso y género. El Part
 
 Ejemplo:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "La mujer kṣatriya ha ido a la ciudad."
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 :::
 ### 12.1.3. Esquema II para verbos intransitivos y verbos de movimiento
@@ -87,7 +79,7 @@ Se presentan las siguientes formas de formación (¡para cada raíz se debe apre
 Las raíces femeninas se forman con: **-tā**, **-itā**, **-nā**; el neutro se declina como **phala** n.
 :::
 
-### 12.3.1. PPP en -ta (kta) &lt;!-- TODO: Fallback translation --&gt;
+### 12.3.1. PPP en -ta (kta) &lt;!--  --&gt;
 
 #### 12.3.1.1. Sin vocal de unión -i- (aniṭ)
 

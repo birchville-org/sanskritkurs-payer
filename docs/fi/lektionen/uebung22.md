@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 22
 
-A) Muodosta ja käännä absolutiivi seuraaville verbeille: <!-- TODO: Fallback translation -->
+A) Muodosta ja käännä absolutiivi seuraaville verbeille:
 
 1. ⟪आप्⟫ — ⟪आप्त्वा⟫ (sen jälkeen, kun hän on saavuttanut)
 2. ⟪प्राप्⟫ — ⟪प्राप्य⟫ (sen jälkeen, kun hän on saavuttanut)
@@ -47,9 +47,9 @@ A) Muodosta ja käännä absolutiivi seuraaville verbeille: <!-- TODO: Fallback 
 33. ⟪प्रवच्⟫ — ⟪प्रोच्य⟫ (sen jälkeen, kun hän on julistanut)
 34. ⟪वद्⟫ — ⟪उदित्वा⟫ (sen jälkeen, kun hän on puhunut)
 35. ⟪प्रवद्⟫ — ⟪प्रोद्य⟫ (sen jälkeen, kun hän on sanonut esiin)
-36. ⟪हन्⟫ — ⟪हत्वा⟫ (sen jälkeen, kun hän on surmannut) <!-- TODO: Fallback translation -->
+36. ⟪हन्⟫ — ⟪हत्वा⟫ (sen jälkeen, kun hän on surmannut)
 
-B) Käännä ja ratkaise sanskritinkieliset yhdyssanat: <!-- TODO: Fallback translation -->
+B) Käännä ja ratkaise sanskritinkieliset yhdyssanat:
 
 ⟪१⟫. **⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदास्यत्ति⟫ ⟪॥१॥⟫**
 (⟪ब्राह्मणस्य⟫ ⟪दासी⟫)
@@ -64,7 +64,7 @@ Hyvät brahmanit kunnioittivat henkilökohtaista jumaluuttaan ja ylistävät nyt
 Rāma on lähtenyt poikansa kanssa ja kävelee brahmanikyliin kuullakseen hyvää mestaria.
 
 ⟪४⟫. **⟪अनिष्ट्वा⟫ ⟪नरो⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्षमाप्नोति⟫ ⟪॥४॥⟫**
-Vaikka hän ei olisi koskaan uhrautunut, ihminen saa vapautuksen yksinomaan antautumalla kunnioitettavalle (Kṛṣṇa). <!-- TODO: Fallback translation -->
+Vaikka hän ei olisi koskaan uhrautunut, ihminen saa vapautuksen yksinomaan antautumalla kunnioitettavalle (Kṛṣṇa).
 
 ⟪५⟫. **⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫**
 (⟪गृहस्य⟫ ⟪गर्भम्⟫ ⟪।⟫ ⟪ब्राह्मणस्य⟫ ⟪पुत्रम्⟫ ⟪।⟫ ⟪क्षत्रिय⟫ ⟪एव⟫ ⟪शूरः⟫)
@@ -85,17 +85,17 @@ Kun munkit, jotka kulkevat Buddhan tietä, saavat rahaa, he pilaantuvat.
 
 ⟪९⟫. **⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫**
 (⟪अनार्यैः⟫ ⟪शत्रुभिः⟫ ⟪।⟫ ⟪नराः⟫ ⟪सिंहा⟫ ⟪इव⟫)
-Leijonanvoimaiset miehet ovat kohdanneet viholliset, jotka eivät ole āryoja, ja voittavat täydellisesti. <!-- TODO: Fallback translation -->
+Leijonanvoimaiset miehet ovat kohdanneet viholliset, jotka eivät ole āryoja, ja voittavat täydellisesti.
 
 ⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
-Kun ihminen on tehnyt ansioita ja puhunut vain totuutta, hän ei joudu mihinkään helvettiin. <!-- TODO: Fallback translation -->
+Kun ihminen on tehnyt ansioita ja puhunut vain totuutta, hän ei joudu mihinkään helvettiin.
 
 ::: media
 ![](/images/uebung034.jpg)
 Kuv: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung034))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Passiivilauseet
 

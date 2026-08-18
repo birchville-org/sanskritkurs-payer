@@ -369,21 +369,3 @@ B) แปลเป็นภาษาสันสกฤต:
 (แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt4309))
 :::
 
-::: deleteme-box
-
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- เข้าถึงเมื่อ 2009-01-06. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า)
-
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- เข้าถึงเมื่อ 2009-01-06. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า)
-
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- เข้าถึงเมื่อ 2009-01-06. -- ใบอนุญาต Creative Commons (Attribution)
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- เข้าถึงเมื่อ 2009-01-06. -- ใบอนุญาต Creative Commons (Attribution, ไม่ใช้เพื่อการค้า, share alike)
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- เข้าถึงเมื่อ 2009-001-06. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อ, แบบเดียวกัน)
-
-**lekt4307.jpg**: Ray Witlin / ธนาคารโลก. -- http://www.flickr.com/photos/worldbank/2183198505/. -- เข้าถึงเมื่อ 2009-01-06. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อ, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)
-
-**lekt4308.jpg**: G.-U. Tolkiehn / วิกิพีเดีย. GNU FDLicense <!-- TODO: Fallback translation -->
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- เข้าถึงเมื่อ 2009-01-07. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อ, ห้ามดัดแปลง)
-:::

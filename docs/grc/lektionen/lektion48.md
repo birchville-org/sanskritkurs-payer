@@ -38,7 +38,7 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
 | **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.Kl.: -atu** :br(aus. -\*ntu) | \-atām:br(aus: -\*ntām) |
 :::
-Σημ.: ¹ Τα καταλήξεις της 2. και 3. εν. πρ. μπορούν να αντικατασταθούν από -tāt, όταν εκφράζεται ευχή. Το -tāt εμφανίζεται (και στην 3. εν. πρ.) στο αδύναμο ρίζα. <!-- TODO: Fallback translation -->
+Σημ.: ¹ Τα καταλήξεις της 2. και 3. εν. πρ. μπορούν να αντικατασταθούν από -tāt, όταν εκφράζεται ευχή. Το -tāt εμφανίζεται (και στην 3. εν. πρ.) στο αδύναμο ρίζα.
 
 ::: grammar-box
 | **Zur Form der Endung der 2.sg.Imperativ.P:** ||
@@ -48,7 +48,7 @@ status: stable
 | **\-hi** | alle übrigen Präsensstämme, die auf Vokal oder Halbvokal enden (Ausnahme: **⟪जुहुधि⟫** zu **⟪हु⟫ 3**) |
 | **\-dhi** | Alle übrigen Fälle |
 :::
-### 48.2.2. Μορφὴ τοῦ ἐνεστωτικοῦ θέματος <!-- TODO: Fallback translation -->
+### 48.2.2. Μορφὴ τοῦ ἐνεστωτικοῦ θέματος
 
 ::: grammar-box
 **Ισχυρὸς ρίζα:**
@@ -228,7 +228,7 @@ Schol.: ¹ Ἐξήγησις τοῦ **⟪जहि⟫** ἴδε Thumb-Hauschild
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
+| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
 
 Πρὸ τοῦ ἐνδόμου **-ya** ὁ τέρμα τῆς ρίζης μεταχειρίζεται ὡς πρὸ τοῦ ἐνδόμου **-a**.
 :::
@@ -355,7 +355,7 @@ Fig.: ⟪मम⟫ ⟪जाया⟫
 (Bild: Payer)
 (Quelle des Bildes: [Details](/grc/licenses#lekt4809))
 :::
-## 48.5. Ἄσκησις <!-- TODO: Fallback translation -->
+## 48.5. Ἄσκησις
 
 A) Μεταφράσατε τὰ ⟪सुभाषितानि⟫ ἀρχὴν τῆς μαθήσεως.
 
@@ -405,23 +405,3 @@ B) Μεταφράσατε εἰς Σανσκριτὶ (χρησιμοποιήσ�
 Ἑρμηνεία:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Γεν. (⟪षष्ठी⟫) Δυϊκὸς πρὸς ⟪द्वे⟫ ⟪कुले⟫ "δύο οἶκοι"
 
-::: deleteme-box
-
-**lekt4801:** [Πηγή εικόνας: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Πρόσβαση στις 10-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Πηγή εικόνας: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Πρόσβαση στις 10-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, ίδια άδεια)] <!-- TODO: Fallback translation -->
-
-**lekt4803:** Παίχτης sitar = ⟪सितारवादकः⟫ [Πηγή εικόνας: Wikipedia. Δημόσιο πεδίο]
-
-**lekt4804:** [Ομάδα αυτοβοήθειας (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Πηγή εικόνας: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Πρόσβαση στις 10-01-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση)]
-
-**lekt4805:** ἑορτὴ Ταϊποῦσαμ = தைப்பூசம், Βατοὺ Καβές, Μαλαισία [πηγὴ εἰκόνος: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- πρόσβασις 2009-01-10. -- [ἄδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (ἀναφορά)]
-
-**lekt4806:** ⟪नेपाल⟫ [πηγὴ εἰκόνος: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- πρόσβασις 2009-01-10. -- [ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ἀναφορά, οὐκ ἐμπορικὴ χρῆσις, οὐδὲ τροποποίησις)]
-
-**lekt4807:** ⟪जोधपुर⟫ [πηγὴ εἰκόνος: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- πρόσβασις 2009-01-10. -- [ἄδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ἀναφορά, οὐκ ἐμπορικὴ χρῆσις, οὐδὲ τροποποίησις)]
-
-**lekt4808:** Λίμνη Καρανῆι = காரಂஜி கெரே [πηγὴ εἰκόνος: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- πρόσβασις 2009-01-10. -- [ἄδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ἀναφορά, ὁμοία ἀδειοδότησις)] <!-- TODO: Fallback translation -->
-
-**lekt4809:** (Εἰκών: Παϊέρ)
-:::

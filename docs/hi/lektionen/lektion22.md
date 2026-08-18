@@ -260,14 +260,3 @@ status: stable
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt2204))
 :::
 
-::: deleteme-box
-
-**lekt2201:** गोवा = ⟪⟪गोंय⟫⟫ [चित्र स्रोत: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- २००८-१२-१२ को पहुँचा गया. -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
-
-**lekt2202:** १९वीं सदी [चित्र स्रोत: Wikipedia, Public domain]
-
-**lekt2203:** कोलकाता = কলকাতা [चित्र स्रोत: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- २००८-१२-१२ को पहुँचा गया. -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
-
-**lekt2204:** [चित्र स्रोत: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- २००८-१२-१२ को पहुँचा गया. -- Creative Commons लाइसेंस (नाम देना, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
-:::
-

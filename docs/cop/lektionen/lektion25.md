@@ -36,18 +36,18 @@ Frage-, Relativ- und Demonstrativpronomina:
 | ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫) <!-- TODO: Fallback translation -->
+## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫)
 
 "ⲡⲓϣⲟⲡ ⲛⲧⲉ ϯⲙⲏⲧ ⲡⲓϣⲟⲡ ϯⲛⲁⲕ ⲉϥⲙⲟⲧⲛⲁⲕ ⲉϥⲙⲟⲧⲛⲁⲕ."
 
 Pāṇini 2,3,28 + 1,4,24
 
-Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?". <!-- TODO: Fallback translation -->
+Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?".
 
 ::: grammar-box
 1\. Der Ablativ bezeichnet also den Ausgangspunkt, die Herkunft und den Stoff.
 
-ⲡⲓϧⲟⲃ ϩⲛ ⲡⲉⲙϫⲓⲥ ϩⲛ ⲡⲉⲙϣⲱⲃ. <!-- TODO: Fallback translation -->
+ⲡⲓϧⲟⲃ ϩⲛ ⲡⲉⲙϫⲓⲥ ϩⲛ ⲡⲉⲙϣⲱⲃ.
 :::
 ⲡⲓϫⲱⲙ:
 
@@ -85,7 +85,7 @@ Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?". <!-- TODO: Fallba
 
 ⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "ⲡⲓϣⲟⲛ ⲉϥⲃⱧⲓ / ϫⲟⲛ ⲉϥϣⱧⲓ ϫⲓⲛ ⲉⲃϥⲙⲟⲧ"
 :::
-Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (⟪तृतीया⟫) oder Ablativ (⟪पञ्चमी⟫) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen. <!-- TODO: Fallback translation -->
+Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (⟪तृतीया⟫) oder Ablativ (⟪पञ्चमी⟫) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen.
 
 ## 25.3. Das Suffix -⟪तस्⟫
 
@@ -468,7 +468,7 @@ Explanation: ⟪सर्वतस्⟫ = sarva "every, all" + -tas ; ⟪अण
 ... ⟪॥⟫  
 ⟪कामक्रोधलोभमानमदहर्षत्यागा⟫*:sig[⟪त्कार्यः⟫]* ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-Erklärung der im obigen Text rot hervorgehobenen Wörter: <!-- TODO: Fallback translation -->
+Erklärung der im obigen Text rot hervorgehobenen Wörter:
 
 1.5.1. ⟪तिस्रस्⟫ : Nom, Akk, fem. zu ⟪त्रि⟫ "drei"
 

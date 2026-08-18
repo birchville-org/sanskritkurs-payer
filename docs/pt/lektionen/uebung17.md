@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercício 17
 
-A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie: <!-- TODO: Fallback translation -->
+A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
 
 ⟪१⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) ⟪।⟫
 ⟪ब्रवीति⟫ ⟪।⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪वदति⟫ ⟪।⟫
@@ -20,15 +20,15 @@ Ein Kṣatriya hütet die Leute.
 
 ⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) ⟪।⟫
 ⟪द्विजारीञ्जयति⟫ ⟪।⟫ ⟪द्विजारीन्हन्ति⟫ ⟪।⟫ ⟪युध्यते⟫ ⟪।⟫
-Der mächtige Kämpfer besiegt / tötet / bekämpft die Feinde der Zweimalgeborenen. <!-- TODO: Fallback translation -->
+Der mächtige Kämpfer besiegt / tötet / bekämpft die Feinde der Zweimalgeborenen.
 
 ⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) ⟪।⟫
 ⟪स्तौति⟫ ⟪।⟫ ⟪स्तुते⟫ ⟪।⟫ ⟪यजते⟫ ⟪।⟫ ⟪यजति⟫ ⟪।⟫
-Der brahmanische Dichter preist den HERRN der Welt. (oder: ...opfert... dem HERRN der Welt) <!-- TODO: Fallback translation -->
+Der brahmanische Dichter preist den HERRN der Welt. (oder: ...opfert... dem HERRN der Welt)
 
 ⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) ⟪।⟫
 ⟪अत्ति⟫ ⟪।⟫ ⟪दहति⟫ ⟪।⟫
-Das Feuer verzehrt / verbrennt die Speise. <!-- TODO: Fallback translation -->
+Das Feuer verzehrt / verbrennt die Speise.
 
 ⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫) ⟪।⟫
 ⟪दोग्धि⟫ ⟪।⟫ ⟪दुग्धे⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪पाति⟫ ⟪।⟫
@@ -36,7 +36,7 @@ Der junge Vaiṣya melkt / hütet die Kuh.
 
 ⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
 ⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-Ein Diener der Zweimalgeborenen geht auf dem Wildwechsel ins Brahmanendorf. <!-- TODO: Fallback translation -->
+Ein Diener der Zweimalgeborenen geht auf dem Wildwechsel ins Brahmanendorf.
 
 ⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
 ⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
@@ -50,7 +50,7 @@ Die kleine Brahmanin weint / sitzt / stirbt.
 ⟪द्वेष्टि⟫ ⟪।⟫ ⟪द्विष्टे⟫ ⟪।⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪।⟫
 Eine gute Person hasst das Unrecht. (oder: ...tut kein Unrecht.)
 
-B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural <!-- TODO: Fallback translation -->
+B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
 
 ⟪१⟫. ⟪ब्राह्मणा⟫ ⟪अनृतं⟫ ⟪न⟫ ⟪ब्रुवन्ति⟫ ⟪।⟫ (Plural von ⟪वच्⟫ kommt nicht vor) ⟪।⟫ ⟪वदन्ति⟫ ⟪।⟫
 
@@ -79,9 +79,9 @@ Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 :::
 ---
 
-## Verbformen-Übung <!-- TODO: Fallback translation -->
+## Verbformen-Übung
 
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an: <!-- TODO: Fallback translation -->
+Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an:
 
 ⟪१⟫. ⟪अदन्ति⟫ (⟪अद्⟫ 2P): sie essen
 
@@ -93,7 +93,7 @@ Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 
 ⟪५⟫. ⟪इच्छति⟫ (⟪इष्⟫ 6P): er wünscht
 
-⟪६⟫. ⟪कुर्वते⟫ (⟪कृ⟫ 8U): sie tun (im eigenen Interesse) <!-- TODO: Fallback translation -->
+⟪६⟫. ⟪कुर्वते⟫ (⟪कृ⟫ 8U): sie tun (im eigenen Interesse)
 
 ⟪७⟫. ⟪गच्छन्ति⟫ (⟪गम्⟫ 1P): sie gehen
 
@@ -135,7 +135,7 @@ Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 
 ⟪२६⟫. ⟪म्रियन्ते⟫ (⟪मृ⟫ 4Ā): sie sterben
 
-⟪२७⟫. ⟪यजते⟫ (⟪यज्⟫ 1U): er opfert als Opferherr <!-- TODO: Fallback translation -->
+⟪२७⟫. ⟪यजते⟫ (⟪यज्⟫ 1U): er opfert als Opferherr
 
 ⟪२८⟫. ⟪युध्यन्ते⟫ (⟪युध्⟫ 4Ā): sie kämpfen
 

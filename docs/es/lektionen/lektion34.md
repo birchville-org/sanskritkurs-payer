@@ -159,7 +159,7 @@ Ejemplos:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | &lt;!-- TODO: Fallback translation --&gt;
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | &lt;!--  --&gt;
 
 :::
 ## 34.5. Tipo de perfecto II: raíz fuerte en grado pleno, raíz débil en grado reducido
@@ -331,22 +331,3 @@ Ritual de boda hindú.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3407))
 :::
 
-::: deleteme-box
-
-**lekt3401:** Estatua del toro Nandi, Colinas de Chamundi, Mysore. [Fuente de la imagen: Luna Park / Flickr. CC BY-NC-ND]
-
-**lekt3402:** Templo Dorado (Harmandir Sahib), Amritsar. [Fuente de la imagen: Wikipedia. GNU FDL]
-
-**lekt3403:** Semillas de sésamo. [Fuente de la imagen: Wikipedia. Dominio público]
-
-**lekt3404:** Floración de la planta de sésamo. [Fuente de la imagen: Franz Xaver / Wikipedia. GNU FDL]
-
-**lekt3405:** Mapa de las Islas Lakshadweep. [Fuente de la imagen: CIA World Factbook. Dominio público]
-
-**lekt3406:** Campo de arroz en la India. [Fuente de la imagen: Ray Witlin / Banco Mundial. CC BY-NC-ND]
-
-**lekt3407:** Ritual de boda hindú. [Fuente de la imagen: BriceFR / Flickr. CC BY-NC-SA]
-::: &lt;!-- TODO: Fallback translation --&gt;
-
-
-:::

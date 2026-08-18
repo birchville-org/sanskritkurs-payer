@@ -517,12 +517,3 @@ B) 翻译以下句子，并用梵语解析复合词：
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [图片来源：earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- 访问日期：2008-12-21. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
-**lekt3002:** Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [图片来源：Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- 访问日期：2008-12-21. -- 知识共享许可协议（署名，非商业性使用，相同方式共享）]
-**lekt3003:** [图片来源：Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- 访问日期：2008-12-21. -- 知识共享许可协议（署名，相同方式共享）]
-**lekt3005:** ⟪थाली⟫, 南印度 [图片来源：Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- 访问日期：2008-12-21. -- 知识共享许可协议（署名，非商业性使用，相同方式共享）]
-**lekt3004:** [图片来源：Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- 访问日期：2008-12-21. -- 知识共享许可协议（署名，相同方式共享）]
-**lekt2904:** [图片来源：Wikipedia / 版权归喜马拉雅学院出版物所有，Kapaa, Kauai, Hawaii. -- 知识共享署名-相同方式共享 2.5]
-:::

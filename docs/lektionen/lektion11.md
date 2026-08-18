@@ -9,13 +9,6 @@ status: stable
 
 # Lektion 11
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Den doppelten Akkusativ (Akkusativ der Person und der Sache)
-- Den Gebrauch der Partikel **iti**, **evam** und **na**
-- Grundlegende Begriffe wie **dharma**, **adharma** und **putra**
-- Die Bildung von Nomina zu den Wurzeln **vad**, **prach** und **iṣ**
-:::
 ## 11.1. Doppelter Akkusativ
 
 ::: grammar-box

@@ -53,7 +53,7 @@ C) Formați perfectul corespunzător pentru următoarele forme:
 Când i s-a născut un fiu, Iluminatul a părăsit familia și proprietatea, a părăsit căminul și a intrat în viața de renunțare. El a înțeles cu mintea sa Adevărurile Nobile, s-a eliberat prin cunoașterea suferinței și i-a adus pe oamenii nobili, care doreau eliberarea, la înțelegere — așa raportează monahii.
 
 ⟪२⟫. **⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञ⟫en ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫**
-Brahmanii au construit un foc pentru marele jertfă zeilor. În timp ce brahmanii îl lăudau pe Indra și pe ceilalți zei, focul jertfei consuma mâncarea. Astfel, brahmanii, prin jertfă, au făcut ca marii zei să mănânce și i-au lăsat să audă imnuri de laudă. <!-- TODO: Fallback translation -->
+Brahmanii au construit un foc pentru marele jertfă zeilor. În timp ce brahmanii îl lăudau pe Indra și pe ceilalți zei, focul jertfei consuma mâncarea. Astfel, brahmanii, prin jertfă, au făcut ca marii zei să mănânce și i-au lăsat să audă imnuri de laudă.
 
 ⟪३⟫. **⟪रक्षितधर्मक्षत्रिययोधा⟫ ⟪महानगरं⟫ ⟪जेतुकामाञ्छत्रून्विजिग्युर्न⟫ ⟪तु⟫ ⟪जघ्नुः⟫ ⟪॥३॥⟫**
 Războinicii kṣatriya, care păzeau dreptul, i-au învins pe inamici, care voiau să cucerească marele oraș, dar nu i-au ucis.
@@ -69,7 +69,7 @@ Nu se poate trăi doar din știință. Cine știe acest lucru, nu ar trebui să 
 Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung061))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Fragmente Școlare
 
@@ -96,9 +96,9 @@ Dacă un bărbat nu se bucură și nu se întristează, când aude, atinge, vede
 Fig.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Sursa imaginii: [Detalii](/licenses#uebung060))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
-## Bestimmung der Wortform <!-- TODO: Fallback translation -->
+## Bestimmung der Wortform
 
 Determinați și traduceți următoarele forme de cuvânt:
 

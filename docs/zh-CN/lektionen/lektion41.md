@@ -369,11 +369,6 @@ davon:
 
 ⟪सङ्घ⟫ n.：（源自 ⟪सम्⟫-⟪हन्⟫ ：“击打在一起”）：群、众、团体（例如佛教团体）
 
-::: deleteme-box
-参见：
-
-**Payer, Alois (1944–):** Vinayamukha：上座部佛教戒律与僧团法的基本概念。-- 第一部分。-- (佛教基本概念资料)。-- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.：年轻女子，女儿，处女
 
 ⟪अति⟫ 前缀：在……之上，越过，超过（在空间、时间、数量、程度、秩序、权力、强度方面），极其
@@ -404,16 +399,3 @@ B) 翻译：
 
 ⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
 
-::: deleteme-box
-
-- **Image lekt4102.jpg** (Abb.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...):布巴内斯瓦尔 = ଭୁବନେଶ୍ବର [图片来源：souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- 访问日期：2009-01-02. -- 知识共享许可协议（署名，非商业性使用）]
-- **Image lekt4103.jpg** (Abb.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [图片来源：Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- 访问日期：2009-01-03. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
-- **Image lekt4106.jpg** (Abb.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫):巴哈伊灵曦堂，德里 [图片来源：Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- 访问日期：2009-01-03. -- 知识共享许可协议（署名，非商业性使用，相同方式共享）]
-- **Image lekt4107.jpg** (Abb.: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [图片来源：Wikipedia. 公有领域]
-- **Image lekt4108.jpg** (Abb.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका⟫ ⟪घाट⟫, 1922 [图片来源 LoC/Wikipedia. 公有领域]
-- **Image lekt4105.jpg** (Abb.: ⟪भुजङ्गः⟫): 环纹海蛇 (_Bungarus fasciatus_) [图片来源：J. Ewart. The poisonous snakes of India, 1878. 公有领域]
-- **Image lekt4104.jpg** (Abb.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): 泰国提取海蛇毒液 [图片来源：TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- 访问日期：2009-01-03. -- 知识共享许可协议（署名）]
-- **Image lekt4109.jpg** (Abb.: ⟪शासना⟫): 阿育王敕令，Dhauli, Orissa [图片来源：vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- 访问日期：2009-01-03. -- 知识共享许可协议（署名，非商业性使用）]
-- **Image lekt4110.jpg** (Abb.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), 约 1898 [图片来源：Wikipedia. 公有领域]
-- **Image lekt4111.jpg** (Abb.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [图片来源：jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- 访问日期：2009-01-04. -- 知识共享许可协议（署名，禁止演绎）]
-:::

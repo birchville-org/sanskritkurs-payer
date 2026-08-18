@@ -5,7 +5,7 @@ lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lección 44
 
@@ -340,11 +340,6 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (a ⟪प्र⟫-⟪व्रज्⟫): la salida del hogar hacia la vida sin hogar; ceremonia mediante la cual uno se convierte en novicio budista (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Véase:
-
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del Budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
@@ -476,25 +471,3 @@ Determine las siguientes formas:
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
 
-::: deleteme-box
-
-**lekt4301.jpg**: Detalles en licenses.md
-
-**lekt4401.jpg**: No se encontró licencia/origen de imagen específico en el texto
-
-**lekt4402.jpg**: Dibujo de Henri Gerbault (1863 - 1930) (Dominio público)
-
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)
-
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual)
-
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial)
-
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial)
-
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual)
-
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)
-
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)
-:::

@@ -1,11 +1,12 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "Lectio 44"
+subtitle: "Formationes verbi personae secundae (⟪मध्यमः⟫) stemmatum athematicorum cum suffixo vocali terminato"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+
+---
 
 # Lectio 44
 
@@ -65,11 +66,11 @@ status: stable
 
 In praesentium radicalibus consonantem terminantibus, leges iam tractatae sandhi verbi observandae sunt.
 
-Praeterea sequentes leges sandhi verbi adhibentur. <!-- TODO: Fallback translation -->
+Praeterea sequentes leges sandhi verbi adhibentur.
 
-(Completa collatio omnium hic pertinentium mutationum phoneticarum apud Kielhorn, Grammatica p. 76s.) <!-- TODO: Fallback translation -->
+(Completa collatio omnium hic pertinentium mutationum phoneticarum apud Kielhorn, Grammatica p. 76s.)
 
-### 44.2.1. Zum Wortsandhi für dh- <!-- TODO: Fallback translation -->
+### 44.2.1. Zum Wortsandhi für dh-
 
 ::: grammar-box
 1. **Aspirata ante aspiratam a correspondente non spirato substituitur:**
@@ -208,7 +209,7 @@ Abb.: De recta usu "O" in lingua Germanica: **"O vir!"**
 
 **Formae vocativi singularis in [Lektion 45](lektion45.md) sequuntur.**
 :::
-## 44.5. Lexicon <!-- TODO: Fallback translation -->
+## 44.5. Lexicon
 
 ⟪प्रति⟫ Praefixum: retro, contra, adversus - huc
 
@@ -302,7 +303,7 @@ PPP ⟪आयत⟫ 3: longius extentus
 Abb.: ⟪आयतो⟫ ⟪मरुः⟫
 (Fons imaginis: [Details](/la/licenses#lekt4406))
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : praebere, offerre, tradere <!-- TODO: Fallback translation -->
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : praebere, offerre, tradere
 
 ⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : colligare, alligare, frenare
 
@@ -340,11 +341,6 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (ad ⟪प्र⟫-⟪व्रज्⟫): egressio domo ad sine domum; caerimonia, qua monachus novitius fit (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Vide:
-
-**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regulorum ordinis et iuris canonici Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
@@ -412,7 +408,7 @@ A) Determina et versa formas sequentes:
 Fig.: ⟪कस्माद्रोदिषि⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4409))
 :::
-B) Vertite: <!-- TODO: Fallback translation -->
+B) Vertite:
 
 ⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
 
@@ -431,7 +427,7 @@ B) Vertite: <!-- TODO: Fallback translation -->
 ⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
 ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
 
-## 44.7. Wiederholungsübung zur Formenlehre <!-- TODO: Fallback translation -->
+## 44.7. Wiederholungsübung zur Formenlehre
 
 Determina sequentes formas:
 
@@ -476,25 +472,3 @@ Determina sequentes formas:
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
 
-::: deleteme-box
-
-**lekt4301.jpg**: Detalia in licenses.md
-
-**lekt4401.jpg**: Nulla specialis licentia/fontes imaginum in texto inventus
-
-**lekt4402.jpg**: Descriptio ab Henrico Gerbault (1863 - 1930) (Dominium publicum)
-
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Accessus die 2009-01-08. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla modificatio)
-
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Accessus die 2009-01-08. -- Licentia Creative Commons (Nominatio, usus non commercialis, share alike)
-
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Accessus die 2009-01-08. -- Licentia Creative Commons (Nominatio, usus non commercialis)
-
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Accessus die 2009-01-08. -- Licentia Creative Commons (Nominatio, usus non commercialis)
-
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Accessus die 2009-01-08. -- Licentia Creative Commons (Nominatio, usus non commercialis, share alike)
-
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Accessus die 2009-01-08. -- Licentia Creative Commons (Nominatio, usus non commercialis, nulla modificatio)
-
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Accessus die 2009-01-08. -- Licentia Creative Commons (Nominatio, usus non commercialis, nulla modificatio)
-:::

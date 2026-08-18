@@ -6,7 +6,7 @@ status: stable
 
 # Lectio 32
 
-## 32.1. Die Vergangenheitstempora <!-- TODO: Fallback translation -->
+## 32.1. Die Vergangenheitstempora
 
 ::: grammar-box
 **In litteratura Sanscrita antiquiore et a grammaticis indigenis tria tempora praeteriti in usu clare distinguuntur:**
@@ -31,7 +31,7 @@ status: stable
 Exempla:
 
 ::: indent
-**⟪भू⟫** 3. sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t) <!-- TODO: Fallback translation -->
+**⟪भू⟫** 3. sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t)
 
 ⟪सु⟫
 *   3. sg. Impf. P. **⟪असुनोत्⟫** (a-suno-t)
@@ -50,7 +50,7 @@ Exempla:
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | <!-- TODO: Fallback translation -->
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
 :::
 ::: grammar-box
@@ -65,7 +65,7 @@ Exempla:
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
-| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) | <!-- TODO: Fallback translation -->
+| ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
 ## 32.4. Exemplaria formationis imperfecti
@@ -478,7 +478,7 @@ C) Versio in Sanscritum:
 
 16. Semper (sit) eius coniunctio cum talibus, qui in scientiis creverunt, ut eius eruditio/bonus mos crescat. (Id) quia eruditio/bonus mos radix huius (coniunctionis cum talibus) est.
 
-17. Dum magister stet, puer sedere non debet. <!-- TODO: Fallback translation -->
+17. Dum magister stet, puer sedere non debet.
 
 18. Nulla melior refugium est quam Rāma.
 
@@ -486,7 +486,7 @@ C) Versio in Sanscritum:
 
 20. Govinda iubet ut Devadatta oryza coquatur.
 
-21. Dharma Arianorum est ut iuvenes Brahmanae sectiones Vedarum et Smṛtium iterum atque iterum studient. <!-- TODO: Fallback translation -->
+21. Dharma Arianorum est ut iuvenes Brahmanae sectiones Vedarum et Smṛtium iterum atque iterum studient.
 
 22. Magister pueros Veda docuit, deinde in domum abiit.
 
@@ -633,26 +633,5 @@ Explanationes:
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Macaques in arboribus mangiferis.
 (Fons imaginis: [Detalia](/la/licenses#lekt3210))
-:::
-
-::: deleteme-box
-
-**lekt3202:** Arbor mangifera, Kanpur. [Fons imaginis: AmarChandra / Wikipedia. CC BY-SA]
-
-**lekt3203:** Simiae (macacus rhesus) in Dēlhi. [Fons imaginis: dewalt / Flickr. CC BY-NC-SA]
-
-**lekt3204:** Saxum fossa ad meridiem Poona, Maharashtra. [Fons imaginis: lecercle / Flickr. CC BY-NC-SA]
-
-**lekt3205:** Exercitium pro sagittis / scutum sagittarum, Karnataka. [Fons imaginis: mattlogelin / Flickr. CC BY-NC]
-
-**lekt3207:** Arida stercoris bovinī in Rājasthāne ardēntia. [Fons imaginis: thebigdurian / Flickr. CC BY-NC-SA]
-
-**lekt3206:** Pinxitur mehendi in manibus in Mumbai. [Fons imaginis: the_gman / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
-
-**lekt3208:** Monachus Buddhisticus in Sri Lanka. [Fons imaginis: Trollderella / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
-
-**lekt3209:** Salūtātiō / salūtiō Indica. [Fons imaginis: dhyanji / Flickr. CC BY-NC-ND]
-
-**lekt3210:** Maimonae in arboribus mangiferis. [Imaginis fons: Wikipedia. GNU FDL]
 :::
 

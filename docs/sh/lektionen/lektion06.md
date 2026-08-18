@@ -9,15 +9,6 @@ status: stable
 
 # Lekcija 6
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Den Aufbau des Verbalsatzes (Agens und Verbalform)
-- Die Bildung von Verbalformen (Parasmaipada, Ātmanepada, Passiv)
-- Die Modi und Tempi des Verbs
-- Indikativ Präsens (laṭ) und die Primärendungen der 3. Person
-- Die Bildung des Präsensstamms (Klassen 1, 4 und 6)
-- Die Lautabstufung (Ablaut: Guṇa und Vṛddhi)
-:::
 ## 6.1. Der Verbalsatz
 
 ::: grammar-box

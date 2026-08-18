@@ -1,23 +1,24 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "Lezione 44"
+subtitle: "Formazione delle forme verbali della seconda persona (⟪मध्यमः⟫) di temi atematici con suffisso terminante in vocale"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+
+---
 
 # Lezione 44
 
-## 44.1. Formazione delle forme verbali della 2. persona (⟪मध्यमः⟫) di temi atematici con suffisso terminante in vocale
+## 44.1. Formazione delle forme verbali della seconda persona (⟪मध्यमः⟫) di radici atematiche con suffisso terminante in vocale
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
 ::: grammar-box
-**La 3.sg. dell’Imperfetto Ā è formalmente identica alla 2.pl. dell’Imperfetto P!!!**
+**La 3.sg. dell'Imperfetto Indicativo è formalmente identica alla 2.pl. dell'Imperfetto Indicativo!!!**
 :::
-### 44.1.1. Quinta classe del presente (⟪स्वादि⟫)
+### 44.1.1. Quinta classe di presente (⟪स्वादि⟫)
 
 ⟪सु⟫ 5U
 
@@ -25,11 +26,11 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralizzazione! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralizzazione! | ⟪सुनुध्वे⟫ |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
-| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
-### 44.1.2. Ottava classe del presente (⟪तनादि⟫)
+### 44.1.2. Ottava classe di presente (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -37,9 +38,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
-| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
 :::
 ⟪कृ⟫ 8U
 
@@ -47,9 +48,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
-| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
 ### 44.1.3. Nona classe del presente (⟪क्र्यादि⟫)
 
@@ -57,41 +58,41 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
+| **Indicativo presente** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralizzazione! | ⟪क्रीणीध्वे⟫ |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
-| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
-## 44.2. Sul Wortsandhi
+>> ## 44.2. Sul Wortsandhi
 
-Nei tema di parole con finali consonantiche, si devono osservare le leggi del Wortsandhi già trattate.
+>> Nei temi del presente che terminano con una consonante, si devono osservare le leggi già trattate del Wortsandhi.
 
-Inoltre, si applicano le seguenti leggi del Wortsandhi.
+>> Inoltre, si applicano le seguenti leggi del Wortsandhi.
 
-(Una raccolta completa di tutte le variazioni fonetiche pertinenti si trova in Kielhorn, Grammatik pag. 76s.)
+(Raccolta dettagliata di tutte le variazioni fonetiche pertinenti in Kielhorn, Grammatik pag. 76s.)
 
-### 44.2.1. Sul Wortsandhi per dh- &lt;!-- TODO: Fallback translation --&gt;
+>> ### 44.2.1. Sul Wortsandhi per dh-
 
 ::: grammar-box
-1. **L'aspirata viene sostituita dalla corrispondente non spirata davanti a un'altra aspirata:**
-   ad es. **⟪रुध्⟫** 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » **⟪रुन्द्ध्वे⟫** (run**ddh**ve)
+1. **L'aspirata viene sostituita dalla corrispondente non aspirata davanti a un'altra aspirata:**
+ad es. ⟪रुध्⟫ 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » ⟪रुन्द्ध्वे⟫ (run**ddh**ve)
 2. **-h + dh- » -gdh-**
-   ad es. **⟪दुह्⟫** 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » **⟪धुग्ध्वे⟫** (dhu**gdh**ve)
+ad es. ⟪दुह्⟫ 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » ⟪धुग्ध्वे⟫ (dhu**gdh**ve)
 3. **-ṣ + dh- » -ḍḍh-** (Questa regola vale solo per la coniugazione!)
-   ad es. **⟪द्विष्⟫** 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » **⟪द्विड्ढ्वे⟫** (dvi**ḍḍh**ve)
-4. **-s + dh- » -dh-** (Cadenza della -s)
-   ad es. **⟪आस्⟫** 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve)
+ad es. ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » ⟪द्विड्ढ्वे⟫ (dvi**ḍḍh**ve)
+4. **-s + dh- » -dh-** (Caduta della -s)
+ad es. ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve)
 :::
-### 44.2.2. Sul Wortsandhi per s-
+>> ### 44.2.2. Sul Wortsandhi per s-
 
 ::: grammar-box
-1. **-s + s- » -ts- oppure (non facoltativo!) -ss-** (così nella 2ª classe del presente)
-   Esempi:
-   * **⟪वस्⟫** 1P: Futuroooooo: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
-   * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
+1. **-s + s- » -ts- oppure (non facoltativo!) -ss-** (così nella seconda classe del presente)
+Esempi:
+* ⟪वस्⟫ 1P: Futuro: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » ⟪वत्स्यति⟫ (va**ts**yati)
+* ⟪वस्⟫ 2Ā: ⟪वस्⟫ + ⟪से⟫ » ⟪वस्से⟫ (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
-   ad esempio **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
+ad es. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪द्वेक्षि⟫ (dve**kṣ**i)
 :::
-## 44.3. Formazione delle forme verbali della 2ª persona (⟪मध्यमः⟫) di temi atematici senza suffisso con finale vocalico
+## 44.3. Formazione delle forme verbali della seconda persona (⟪मध्यमः⟫) di stemmi atematici senza suffisso terminante in vocale
 
 ### 44.3.1. Seconda classe del presente (⟪अदादि⟫)
 
@@ -99,7 +100,7 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
 | **Ottativo** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
 :::
@@ -109,7 +110,7 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 | | ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
 | **Ottativo** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
 :::
@@ -119,7 +120,7 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
 | **Ottativo** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
 :::
@@ -129,15 +130,15 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
-| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
+| **Ottativo** :br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
 :::
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta |
 | **Ottativo** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
 :::
@@ -147,7 +148,7 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
 | **Ottativo** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
 :::
@@ -157,19 +158,17 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | *:sig[⟪असि⟫]* | *:sig[⟪स्थ⟫]* |
-| **Imperfetto** :br⟪लङ्⟫ | *:sig[⟪आसीस्⟫]* | *:sig[⟪आस्त⟫]* |
-| **Ottativo** :br⟪विधिलिङ्⟫ | *:sig[⟪स्यास्⟫]* | *:sig[⟪स्यात⟫]* |
+| **Indicativo Presente** :br⟪लट्⟫ | :sig[⟪असि⟫] | :sig[⟪स्थ⟫] |
+| **Imperfetto** :br⟪लङ्⟫ | :sig[⟪आसीस्⟫] | :sig[⟪आस्त⟫] |
+| **Ottativo** :br⟪विधिलिङ्⟫ | :sig[⟪स्यास्⟫] | :sig[⟪स्यात⟫] |
 :::
-⟪तत्त्वमसि⟫
-
-⟪शास्⟫ 2P
+⟪तत्त्वमसि शास्⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
 | **Ottativo** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
 :::
@@ -177,25 +176,25 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
 | **Imperfetto** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
 | **Ottativo** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
 :::
 ## 44.4. Il vocativo (⟪आमन्त्रितम्⟫)
 
-I grammatici indigeni considerano il vocativo (⟪आमन्त्रितम्⟫) non come un caso autonomo, ma solo come una modifica del nominativo (⟪प्रथमा⟫).
+I grammatici indigeni non considerano il vocativo (⟪आमन्त्रितम्⟫) come un caso autonomo, ma solo come una modifica del nominativo (⟪प्रथमा⟫).
 
 ::: important
-**Il vocativo serve per l'invocazione, l'interpellazione e sta al di fuori del contesto con il resto della frase, differenziandosi quindi dagli altri casi che esprimono una relazione con il verbo o con un altro sostantivo.**
+**Il vocativo serve per l'invocazione, il chiamare e si trova al di fuori del contesto con il resto della frase, differenziandosi quindi dagli altri casi che esprimono una relazione rispetto al verbo o a un altro sostantivo.**
 
-**Di solito il vocativo viene posto all'inizio della frase:**
+**Solitamente il vocativo viene posto all'inizio della frase:**
 
 :::
 ::: indent
-⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Figlio, cosa dici?"
+⟪बाल किं वदसि⟫ = "Figlio, cosa dici?"
 :::
 ::: important
-**Si eviti la traduzione del vocativo con "**O** ...". In tedesco usiamo costantemente i vocativi, quando diciamo ad esempio: "Tesoro, cosa cuciniamo oggi?". Nessuno direbbe in questo significato: "**O** tesoro, cosa cuciniamo oggi?"**
+**Evitare la traduzione del vocativo con "**O** ...". In tedesco usiamo costantemente i vocativi, ad esempio quando diciamo: "Tesoro, cosa cuciniamo oggi?". Nessuno direbbe in questo senso: "**O** tesoro, cosa cuciniamo oggi?"**
 :::
 ::: media
 ![](/images/lekt4402.webp)
@@ -204,20 +203,20 @@ Fig.: Per un corretto uso di "O" in tedesco: **"O uomo!"**
 :::
 
 ::: grammar-box
-**Le forme del vocativo plurale e duale sono identiche a quelle del nominativo (⟪प्रथमा⟫) plurale o duale.**
+**Le forme del vocativo plurale e duale sono identiche a quelle del nominativo (⟪प्रथमा⟫) plurale e duale.**
 
-**Le forme del vocativo singolare sono trattate nella [Lezione 45](lektion45.md).**
+**Le forme del vocativo singolare seguiranno nella [Lezione 45](lektion45.md).**
 :::
-## 44.5. Elenco di parole
+## 44.5. Lista di parole
 
-⟪प्रति⟫ Prefisso: indietro, contro, verso - avanti
+⟪प्रति⟫ Prefisso: indietro, contro, verso - in direzione di
 
 ::: indent
 ad esempio
 
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : respingere, battere indietro
+**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : respingere
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : rispondere = rispondere
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : rispondere = replicare
 
 **⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : respingere, disprezzare
 :::
@@ -227,36 +226,36 @@ ad esempio
 Perf. IV ⟪ययौ⟫  
 Fut. ⟪यास्यति⟫  
 Pass. ⟪यायते⟫  
-Kaus. ⟪यापयति⟫  
+Caus. ⟪यापयति⟫  
 PPP ⟪यात⟫  
-Inf. ⟪यातुम्⟫  
+Inf. ⟪यातुम्⟫
 
-di cui:
+da:
 
-**⟪यान⟫** n.: andare, via, veicolo
+⟪यान⟫ n.: andare, via, veicolo
 :::
 ::: media
 ![](/images/lekt4403.webp)
 Fig.: ⟪रेल्यानम्⟫
-(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4403))
+(Fonte immagine: [Dettagli](/it/licenses#lekt4403))
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : giacere. Questa radice ha in tutte le forme del tema presente **grado alto:** 1.sg.Ind.Pres.Ā **:sig[⟪शेये⟫]** (śe + e). Le seguenti forme sono particolarmente da notare: 3.pl.Ind.Pres.Ā **:sig[⟪शेरते⟫]**, 3.pl.Impf.Ā **:sig[⟪अशेरत⟫]**
+⟪शी⟫ 2Ā ⟪शेते⟫ : giacere. Questa radice ha in tutte le forme della base del presente **grado pieno:** 1.sg.Ind.Pres.Ā :sig[⟪शेये⟫] (śe + e). Le seguenti forme sono particolarmente da notare: 3.pl.Ind.Pres.Ā :sig[⟪शेरते⟫], 3.pl.Impf.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
 Fut. ⟪शयिष्यते⟫  
-Kaus. ⟪शापयति⟫  
+Caus. ⟪शापयति⟫  
 PPP ⟪शयित⟫  
 Inf. ⟪शयितुम्⟫  
 
-di cui:
+da:
 
-**⟪शयन⟫** n.: giaciglio, letto
+⟪शयन⟫ n.: giaciglio, letto
 :::
 ::: media
 ![](/images/lekt4404.webp)
-Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4404))
+Fig.: ⟪योगी शयने शेते⟫
+(Fonte immagine: [Dettagli](/it/licenses#lekt4404))
 :::
 ⟪नन्द्⟫ 1P ⟪नन्दति⟫ : rallegrarsi di (⟪तृतीयया⟫)
 
@@ -264,47 +263,47 @@ Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 Perf. I ⟪ननन्द⟫  
 Fut. ⟪नन्दिष्यति⟫  
 Pass.: ⟪नन्द्यते⟫  
-Kaus. ⟪नन्दयति⟫  
+Caus. ⟪नन्दयति⟫  
 PPP ⟪नन्दित⟫  
 Inf. ⟪नन्दितुम्⟫  
-Assol. -⟪नन्द्य⟫  
+Absol. -⟪नन्द्य⟫  
 Gerundivo ⟪नन्द्य⟫  
 
-di cui:
+da:
 
-**⟪नन्दिन्⟫** 3: caratterizzato da (particolare) gioia, gioioso; m. nome del cavallo (⟪वहन⟫) di ⟪शिव⟫ (un toro)
+⟪नन्दिन्⟫ 3: caratterizzato da (speciale) gioia, gioioso ; m. nome del cavallo (⟪वहन⟫) di ⟪शिव⟫ (un toro)
 :::
 ::: media
 ![](/images/lekt4405.webp)
 Fig.: ⟪नन्दी⟫
-(Fonte dell'immagine: [Dettagli](/it/licenses#lekt4405))
+(Fonte immagine: [Dettagli](/it/licenses#lekt4405))
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : avere la propria gioia in (⟪द्वितीयया⟫), salutare con gioia qualcuno, dare il benvenuto
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : avere la propria gioia in (⟪द्वितीयया⟫), salutare con gioia qualcuno, accogliere favorevolmente
 
-**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : tenere, portare; offrire, concedere; tenere insieme, domare, frenare, sottomettere
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : tenere, portare ; offrire, concedere ; mantenere insieme, domare, frenare, sottomettere
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ ma: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
+Caus. ⟪यामयति⟫ ma: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
-Assol. -⟪यम्य⟫
+Absol. -⟪यम्य⟫
 :::
 **⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : allungare, stendere
 
 ::: indent
-PPP ⟪आयत⟫ 3: disteso a lungo
+PPP ⟪आयत⟫ 3: allungato
 :::
 ::: media
 ![](/images/lekt4406.webp)
-Fig.: ⟪आयतो⟫ ⟪मरुः⟫
+Fig.: ⟪आयतो मरुः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4406))
 :::
 ⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : offrire, presentare, consegnare
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : legare insieme, legare, domare
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : legare insieme, annodare, domare
 
 ⟪यत्⟫ 1Ā ⟪यतते⟫ : aspirare a (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
@@ -312,45 +311,40 @@ Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 Perf. Vb ⟪येते⟫  
 Fut. ⟪यतिष्यते⟫  
 Pass. ⟪यत्यते⟫  
-Kaus. ⟪यातयति⟫  
+Caus. ⟪यातयति⟫  
 PPP ⟪यत्त⟫  
 Inf. ⟪यतितुम्⟫  
 
-di cui:
+da ciò:
 
-**⟪यत्न⟫** m.: sforzo, fatica
+⟪यत्न⟫ m.: sforzo, fatica
 :::
 ::: media
 ![](/images/lekt4407.webp)
 Fig.: ⟪यत्नेन⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4407))
 :::
-**⟪रभ्⟫** 1Ā ⟪रभते⟫ (forma alternativa a ⟪लभ्⟫): afferrare
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (forma variante per ⟪लभ्⟫): afferrare
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
+Caus. :sig[⟪रम्भ⟫]⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
-Assol. -⟪रभ्य⟫
+Absol. -⟪रभ्य⟫
 :::
 ⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : toccare, iniziare, intraprendere
 
-⟪प्रव्रज्या⟫ f. (a ⟪प्र⟫-⟪व्रज्⟫): l'andare via dalla casa verso l'essere senza casa; cerimonia con cui si diventa novizio buddhista (Pali: ⟪पब्बजा⟫)
+⟪प्रव्रज्या⟫ f. (da ⟪प्र⟫-⟪व्रज्⟫): l'andare via dalla casa verso la non-casa; cerimonia con cui si diventa novizio buddhista (Pāli: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Vedere:
-
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4408))
 :::
-## 44.6. Esercitazione
+## 44.6. Esercizio
 
 A) Determinare e tradurre le seguenti forme:
 
@@ -414,22 +408,7 @@ Fig.: ⟪कस्माद्रोदिषि⟫
 :::
 B) Tradurre:
 
-⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
-
-⟪पुत्राः⟫ ⟪किं⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्प्रायच्छत⟫ ⟪॥२॥⟫
-
-⟪कानि⟫ ⟪शास्त्राणि⟫ ⟪काश्यामध्यैथाः⟫ ⟪॥३॥⟫
-
-⟪बुद्धपुत्राश्चेन्महाशयनेषु⟫ ⟪शयीरन्प्रव्रज्यायां⟫ ⟪कृतं⟫ ⟪व्रतं⟫ ⟪न⟫ ⟪चरेयुः⟫ ⟪॥४॥⟫
-
-⟪अप्यार्ययुद्धाख्यानमाख्यास्यन्तं⟫ ⟪गुरुमभ्यनन्दः⟫ ⟪॥५॥⟫
-
-⟪द्वेष्यमपि⟫ ⟪न⟫ ⟪द्विष्यात⟫ ⟪लोभनीयं⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्येतैवं⟫ ⟪च⟫ ⟪प्रसन्ना⟫ ⟪भविष्यथ⟫ ⟪॥६॥⟫
-
-⟪न⟫ ⟪योत्स्य⟫ ⟪इत्यर्जुन⟫ ⟪उवाच⟫ ⟪॥७॥⟫
-
-⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
-⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
+⟪अक्रोधेन जयेत्क्रोधमसाधुं सधुना जयेज्जयेत्सत्येन चानृतम् ॥१॥ पुत्राः किं पितृभ्यः पिण्डान्प्रायच्छत ॥२॥ कानि शास्त्राणि काश्यामध्यैथाः ॥३॥ बुद्धपुत्राश्चेन्महाशयनेषु शयीरन्प्रव्रज्यायां कृतं व्रतं न चरेयुः ॥४॥ अप्यार्ययुद्धाख्यानमाख्यास्यन्तं गुरुमभ्यनन्दः ॥५॥ द्वेष्यमपि न द्विष्यात लोभनीयं च न लुभ्येतैवं च प्रसन्ना भविष्यथ ॥६॥ न योत्स्य इत्यर्जुन उवाच ॥७॥ अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः । मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥८॥⟫
 
 ## 44.7. Esercizio di ripasso sulla morfologia
 
@@ -476,25 +455,3 @@ Determinare le seguenti forme:
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
 
-::: deleteme-box
-
-**lekt4301.jpg**: Dettagli in licenses.md
-
-**lekt4401.jpg**: Nessuna licenza/sorgente immagine specifica trovata nel testo
-
-**lekt4402.jpg**: Disegno di Henri Gerbault (1863 - 1930) (Dominio pubblico)
-
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Accesso il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)
-
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Accesso il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)
-
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Accesso il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale)
-
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Accesso il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale)
-
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Accesso il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)
-
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Accesso il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)
-
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Accesso il 2009-01-08. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)
-:::

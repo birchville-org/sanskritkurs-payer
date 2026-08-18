@@ -331,20 +331,3 @@ Hindu wedding ritual.
 (Image source: [Detail](/en/licenses#lekt3407))
 :::
 
-::: deleteme-box
-
-**lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Image source: Luna Park / Flickr. CC BY-NC-ND]
-
-**lekt3402:** Golden Temple (Harmandir Sahib), Amritsar. [Image source: Wikipedia. GNU FDL]
-
-**lekt3403:** Sesame seeds. [Image source: Wikipedia. Public domain]
-
-**lekt3404:** Bunga tanaman wijen. [Sumber gambar: Franz Xaver / Wikipedia. GNU FDL]
-
-**lekt3405:** Lakshadweep Islands Map. [Image source: CIA World Factbook. Public domain]
-
-**lekt3406:** Rice field in India. [Image source: Ray Witlin / World Bank. CC BY-NC-ND]
-
-**lekt3407:** Hindu wedding ritual. [Image source: BriceFR / Flickr. CC BY-NC-SA]
-:::
-

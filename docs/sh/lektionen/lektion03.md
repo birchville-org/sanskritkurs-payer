@@ -9,14 +9,6 @@ status: stable
 
 # Lekcija 3
 
-::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- den Nominativ Singular des Femininums
-- den Nominativ Plural des Maskulinums und Femininums
-- die Bildung des Femininums zu Maskulina
-- Vokalsandhi
-- Satzsandhi von -ās
-:::
 ## 3.1. Nominativ Singular des Femininums
 
 ### 3.1.1. Nominativ Singular auf -s

@@ -458,16 +458,3 @@ B) பின்வரும் வடிவங்களை மொழிபெய
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [பட மூலம்: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- 2009-03-02 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (நிர்வாகம்)]
-
-**lekt5803:** Bandipur தேசிய பூங்கா -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [பட மூலம்: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). --  2009-03-02 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, செயல்திறன் இல்லை)]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [பட மூலம்: Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- 2009-03-02 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, செயல்திறன் இல்லை)]
-
-:::

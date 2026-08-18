@@ -1,10 +1,11 @@
 ---
-title: Lektion 1
-subtitle: "Die Laute des Sanskrit"
+title: "Μάθημα 1"
+subtitle: "Τα φωνήεντα του Σανσκριτ"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 # Μάθημα 1

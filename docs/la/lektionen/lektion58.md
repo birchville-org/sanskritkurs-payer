@@ -31,7 +31,7 @@ Ante -vas et -vahe, tema vocalis -a- per -ā- substituitur.
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
 ### 58.2.2. Classis praesentis quarta (⟪दिवादिगणः⟫)
 
@@ -49,7 +49,7 @@ Fig.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
 (Fons imaginis: [Details](/la/licenses#lekt5802))
 :::
-### 58.2.3. Sexta classis praesentis (⟪तुदादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.2.3. Sexta classis praesentis (⟪तुदादिगणः⟫)
 
 ⟪तुद्⟫ 6U "pulsare, percutere"
 
@@ -220,7 +220,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5807))
 :::
-### 58.5.4. Octava classis praesentium (⟪तनादिगणः⟫) <!-- TODO: Fallback translation -->
+### 58.5.4. Octava classis praesentium (⟪तनादिगणः⟫)
 
 ⟪तन्⟫ 8U "tendere"
 
@@ -275,7 +275,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5801))
 :::
-## 58.6. Aoristus: iṣ-Aoristus <!-- TODO: Fallback translation -->
+## 58.6. Aoristus: iṣ-Aoristus
 
 ::: grammar-box
 **Aoristus iṣ a radicibus seṭ omnibus formatur, pro quibus non expresse alia forma aoristi sola docetur.**
@@ -295,7 +295,7 @@ La formation du thème + les terminaisons de l'aoriste iṣ sont donc :
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
 | **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h oder Halbvokal) |
-| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** | <!-- TODO: Fallback translation -->
+| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
 :::
 ::: grammar-box
@@ -458,16 +458,3 @@ B) Translate et determina sequentes formas:
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [Imago fontis: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Accessus die 2009-03-02. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
-
-**lekt5803:** Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [Imago fontis: stewils. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- Accessus die 2009-03-02. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatione)]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [Imago a Prato9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- Accessus die 2009-03-02. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
-
-:::

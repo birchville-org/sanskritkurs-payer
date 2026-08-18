@@ -419,7 +419,7 @@ E) Traduisez :
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
+Annapūrṇā ist eine Gottheit.
 
 2\. śūdretarā.
 
@@ -489,7 +489,7 @@ rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā est une déesse. <!-- TODO: Fallback translation -->
+2\. Durgā est une déesse.
 
 devī durgā.
 

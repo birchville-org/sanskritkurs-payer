@@ -1,10 +1,11 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "पाठ 46"
+subtitle: "द्वितीय पुरुष के क्रिया रूपों का निर्माण (⟪⟪मध्यमः⟫⟫) पूर्णकाल (⟪⟪लिट्⟫⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # पाठ ४६
@@ -29,7 +30,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. ⟪पूर्णकाल⟫ ⟪प्रकार⟫ ⟪१⟫: ⟪कोई⟫ ⟪मूल⟫ ⟪स्तर⟫-⟪अवरोह⟫ ⟪नहीं⟫ <!-- TODO: Fallback translation -->
+### 46.1.3. ⟪पूर्णकाल⟫ ⟪प्रकार⟫ ⟪१⟫: ⟪कोई⟫ ⟪मूल⟫ ⟪स्तर⟫-⟪अवरोह⟫ ⟪नहीं⟫
 
 वह क्रियाएँ जो इस प्रकार का अनुसरण करती हैं:
 
@@ -654,26 +655,5 @@ B) अनुवाद करें:
 ![](/images/lekt4612.webp)
 अभ.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/hi/licenses#lekt4612)
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-नवग्रह छवियों का स्रोत: रेड्टाइगरज़ / विकिपीडिया. GNU FDLicense
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, लगभग 1870). स्रोत: विकिपीडिया. सार्वजनिक क्षेत्र
-
-L4606: ⟪अश्वरोहकः⟫, पुणे=⟪पुणे⟫. स्रोत: wili_hybrid, फ्लिकर, CC BY 2.0
-
-L4608: उदयपुर. स्रोत: ट्रैवल एफिसिएडो, फ्लिकर, CC BY-NC 2.0
-
-L4609: कर्नाटक=ಕರ್ನಾಟಕ. स्रोत: mattlogelin, फ्लिकर, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, कामारेड्डी=కామారెడ్డి. स्रोत: सुमंत के. गारकराजुला, फ्लिकर, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, बेंगलुरु=ಬೆಂಗಳೂರು. स्रोत: mattlogelin, फ्लिकर, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, कच्छ=⟪कच्छ⟫. स्रोत: ऑरेंज ट्यूडे, फ्लिकर, CC BY-NC 2.0
-
-L4612: मुंबई=⟪मुंबई⟫ हमले के बाद, 11 जुलाई 2006. स्रोत: सन पिक्चर्स / लक्ष्मण, फ्लिकर, CC BY-NC-SA 2.0
 :::
 

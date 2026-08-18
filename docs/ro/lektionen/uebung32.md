@@ -115,7 +115,7 @@ Fiii lui Buddha au recunoscut adevărul, au oprit suferința și au atins eliber
 Fig.: ⟪सम्पन्नरूपा⟫
 (Sursa imaginii: [Detalii](/licenses#uebung050))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Determinarea formei cuvântului
 
@@ -272,7 +272,7 @@ Completați următoarele propoziții cu cuvintele din paranteze, respectând reg
 **⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫**
 
 7\. Un bărbat protejat de zeiță este fericit.
-**⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखवान्⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखवान्⟫ ⟪॥⟫**
 
 8\. Cu orice vânt ar lăsa o noroc apă, cu vântul acela un învățat își mișcă umbrela.
 **⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫ ⟪वारिदो⟫ ⟪वारिं⟫ ⟪मुञ्चति⟫ ⟪।⟫**
@@ -285,7 +285,7 @@ Completați următoarele propoziții cu cuvintele din paranteze, respectând reg
 **⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
 
 11\. Pentru cer, oamenii fac fapte meritorii.
-**⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫** <!-- TODO: Fallback translation -->
+**⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫**
 
 12\. La revedere!
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
@@ -295,7 +295,7 @@ Completați următoarele propoziții cu cuvintele din paranteze, respectând reg
 Fig.: ⟪पुनर्दर्शनाय⟫
 (Sursa imaginii: [Detalii](/licenses#uebung052))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Fragment Școlar (Stotra)
 
@@ -308,7 +308,7 @@ Fig.: ⟪पुनर्दर्शनाय⟫
 Fig.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung053))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Narațiune: Bătrânul și maimuțele (Sanskrit-Bālādarśa)
 
@@ -321,5 +321,5 @@ Fig.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 ![](/images/uebung054.webp)
 Fig.: ⟪वानरः⟫ ⟪कुपितः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung054))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

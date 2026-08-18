@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecziun 49
 
@@ -173,7 +173,7 @@ Sostantivs cun -is e -us èn relativamain rares.
 Abb.: ⟪नमस्ते⟫
 (Fontana da l'imagia: [Detagls](/rm/licenses#lekt4907))
 :::
-## 49.4. Lista da vuschs <!-- TODO: Fallback translation -->
+## 49.4. Lista da vuschs
 
 ⟪दीर्घ⟫ 3: lung
 
@@ -192,7 +192,7 @@ veglia:
 ::: indent
 **Carakasaṃhitā:** Testus selecziuns da la Carakasaṃhitā / tradusì e commentà da Alois Payer \<1944 - \>. -- 0. Introducziun. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : lantschar, lantschar <!-- TODO: Fallback translation -->
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : lantschar, lantschar
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -231,7 +231,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Imm.: ⟪कुलूहलम्⟫
 (Fontana da l'immagina: [Detagls](/rm/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: intgier, cumplet <!-- TODO: Fallback translation -->
+⟪कृत्स्न⟫ 3: intgier, cumplet
 
 ⟪परिचय⟫ m.: cunosschensa
 
@@ -243,9 +243,9 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, 11. tsch.
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: desideri <!-- TODO: Fallback translation -->
+⟪वर⟫ m.n.: desideri
 
-⟪उत⟫ Indekl.: e, era, u <!-- TODO: Fallback translation -->
+⟪उत⟫ Indekl.: e, era, u
 
 ⟪विहंग⟫ m.: uagl ("en l'⟪स्⟫a - ⟪विह⟫ - endendo")
 
@@ -274,7 +274,7 @@ Indovinar cun papegaid en la stgalla: il papegaid tirat bilittins, sin quai ch�
 :::
 ⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: il pli bas tier dal [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: sez, da sez <!-- TODO: Fallback translation -->
+⟪स्वयम्⟫ Indekl.: sez, da sez
 
 ⟪अवनि⟫ f.: Terra
 
@@ -301,7 +301,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: pli lunsch, pli aut ; ⟪पञ्चम्या⟫ : meglier che, pli aut che <!-- TODO: Fallback translation -->
+⟪परम⟫ 3: pli lunsch, pli aut ; ⟪पञ्चम्या⟫ : meglier che, pli aut che
 
 ⟪शिशु⟫ m.: uffant, giuven
 
@@ -357,7 +357,7 @@ Determinai las suentas formas:
 
 ## 49.6. Exercizi da traductiun
 
-⟪बान⟫ (7. Jhdt. n. Chr.): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, S. 35f. <!-- TODO: Fallback translation -->
+⟪बान⟫ (7. Jhdt. n. Chr.): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, S. 35f.
 
 Fatschas dal re ⟪शूद्रक⟫ da ⟪विदिशा⟫ al papegaj ⟪वैशम्पायन⟫:
 
@@ -370,27 +370,5 @@ Fatschas dal re ⟪शूद्रक⟫ da ⟪विदिशा⟫ al papegaj 
 Fig.: ⟪शुकः⟫
 Cacatua a testa gialla = Psittacula cyanocephala
 (Fonta da l’imagina: [Detagls](/rm/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Fonte da figura: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Access il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribuziun, nagina utilizaziun commerziala, share alike)]
-
-**lekt4901:** [Fonta da l’imagina: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Access il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (numinaziun, naginas modificaziuns)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt. [Bildquelle: Vassil / Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt4903:** [Sursa da l’imaginesch: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Access il 2009-01-11. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nominaziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [sursa da l’imagina: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Access il 2009-01-11. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (attribuziun, nagina utilizaziun commerziala, share alike)]
-
-**lekt4909:** Auguri dal papegaj en la stgala: il papegaj tirà zutgels, sin quai ch'è scrit il destin Mysore [sursa da l'imagines: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Access il 2009-01-12. -- [licenza da Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (numnà)]
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [fonte da l’imagina: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- accedì il 2009-01-11. -- [licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (attribuziun)]
-
-**lekt4906:** Sri Lanka [fonte da l’imagines: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- consultà il 2009-01-11. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (attribuziun, nagina utilizaziun commerziala, nagina modificaziun)]
-
-**lekt4908:** Pflaumenkopfsittich _= Psittacula cyanocephala_[Bildquelle: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung,  keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-
 :::
 

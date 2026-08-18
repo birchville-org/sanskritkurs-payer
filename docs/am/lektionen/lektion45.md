@@ -1,10 +1,11 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: "ትምህርት 45"
+subtitle: "የሁለተኛ ሰው ቅጦች መዋቅር (⟪मध्यमः⟫) በሰውነት ላይ የማይጠቀሙ እና በድምፅ ላይ የማያልቁ ቅርጾች (ቀጣይ)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ትምህርት 45
@@ -96,7 +97,7 @@ status: stable
 ::: media
 ![](/images/lekt4501.webp)
 ምስል: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
-(የምስል ምንጭ: [ዝርዝሮች](/licenses#lekt4501))
+(የምስል ምንጭ: [ዝርዝሮች](/am/licenses#lekt4501))
 :::
 ## 45.3. የቃላት ዝርዝር
 
@@ -144,13 +145,6 @@ A) ወደ ሳንስክሪት ተርጉሙ (ለኃላፊ ጊዜ ቅርጾች እ�
 ::: media
 ![](/images/lekt4502.jpg)
 ምስል፡ ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
-(የምስል ምንጭ፡ [ዝርዝሮች](/licenses#lekt4502))
-:::
-
-::: deleteme-box
-
-**lekt4501.jpg**: የጨርቅ ብሎክ ህትመት፣ አህመዳባድ። -- የምስል ምንጭ: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- የተገኘው በ 2009-01-08። -- ክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ንግዳዊ ያልሆነ አጠቃቀም፣ በተመሳሳይ መልኩ ማጋራት)
-
-**lekt4502.jpg**: የምስል ምንጭ: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- የተገኘው በ 2009-01-08። -- ክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ንግዳዊ ያልሆነ አጠቃቀም፣ ምንም አይነት ለውጥ አለማድረግ)
+(የምስል ምንጭ፡ [ዝርዝሮች](/am/licenses#lekt4502))
 :::
 

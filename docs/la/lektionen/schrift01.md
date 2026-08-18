@@ -2,13 +2,13 @@
 
 ## Exercitium Scripturae 1
 
-Sanskritum scriptum est et scribitur in plurimis scripturis. Haec tabula parvam partem harum scripturarum ostendit: <!-- TODO: Fallback translation -->
+Sanskritum scriptum est et scribitur in plurimis scripturis. Haec tabula parvam partem harum scripturarum ostendit:
 
 ![](/images/schrift001.webp)  
 Fig.: Specimina Scripturae Sanscriticae  
 \[Fons Imaginis: Wikipedia, Licentia GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī: <!-- TODO: Fallback translation -->
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ Signum cuiusque consonantis "a" sequens cum consonante significat. Si puram cons
 
 Vocales sequentes consonantem -- praeter "a" -- ita scribuntur:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ <!-- TODO: Fallback translation -->
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau <!-- TODO: Fallback translation -->
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
 Ordo scribendi has coniunctiones consonantis + vocalis est:
 

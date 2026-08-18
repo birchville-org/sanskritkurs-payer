@@ -9,7 +9,7 @@ status: stable
 
 # ⲙⲁⲑⲏⲙⲁ 30
 
-## 30.1. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.") <!-- TODO: Fallback translation -->
+## 30.1. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
 
 ::: grammar-box
 **ⲧⲙⲟⲕ:**
@@ -121,7 +121,7 @@ Example:
 | **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran** |
 
 :::
-## 30.4. Bildung des Optativ Präsens (⟪लिङ्⟫) <!-- TODO: Fallback translation -->
+## 30.4. Bildung des Optativ Präsens (⟪लिङ्⟫)
 
 ### 30.4.1. ⲛⲓⲕⲗⲁⲥⲥⲏⲥ ⲛ̀ⲧⲉ ϯⲡⲣⲟⲥⲧⲁⲕⲧⲓⲕⲏ ⲉⲧⲥⲉⲙⲛⲁⲧⲓⲕⲏ
 
@@ -180,7 +180,7 @@ Examples:
 | **3. Person:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
-### 30.4.2. Athematische Präsensklassen <!-- TODO: Fallback translation -->
+### 30.4.2. Athematische Präsensklassen
 
 ::: grammar-box
 **Parasmaipada:**
@@ -294,9 +294,9 @@ Inf. ⟪ज्ञातुम्⟫
 
 ⲁⲡⲟ̀:
 
-⟪ज्ञाति⟫ m.: (ⲃⲗⱦ)ϣⲁⲛⲧ (ϫⲉ ⲟⲩϣⲁⲛⲧ!) <!-- TODO: Fallback translation -->
+⟪ज्ञाति⟫ m.: (ⲃⲗⱦ)ϣⲁⲛⲧ (ϫⲉ ⲟⲩϣⲁⲛⲧ!)
 
-⟪ज्ञान⟫ n.: ⲛⲓϣⲁⲧ, ϯⲙⲉⲩⲱϥ, ⲛⲓϣⲁⲧ (ⲃⲉⲥ. ⲛⲓϣⲁⲧ ϯⲙⲉⲩⱦϥ ⲛⲓϣⲁⲧ ϯⲙⲉⱦϥ ⲛⲓϣⲁⲧ ϯⲙⲉⱦϥ ⲛⲓϣⲁⲧ ϯⲙⲉⱦϥ <!-- TODO: Fallback translation -->
+⟪ज्ञान⟫ n.: ⲛⲓϣⲁⲧ, ϯⲙⲉⲩⲱϥ, ⲛⲓϣⲁⲧ (ⲃⲉⲥ. ⲛⲓϣⲁⲧ ϯⲙⲉⲩⱦϥ ⲛⲓϣⲁⲧ ϯⲙⲉⱦϥ ⲛⲓϣⲁⲧ ϯⲙⲉⱦϥ ⲛⲓϣⲁⲧ ϯⲙⲉⱦϥ
 :::
 ::: media
 ![](/images/lekt3002.webp)
@@ -383,7 +383,7 @@ PPP ⟪अशित⟫
 
 ## 30.7. Übung
 
-A) Wandeln Sie folgende Verbalformen in die in Person, Zahl und Genus verbi entsprechende Optativformen um: <!-- TODO: Fallback translation -->
+A) Wandeln Sie folgende Verbalformen in die in Person, Zahl und Genus verbi entsprechende Optativformen um:
 
 1.  ⟪ह्रियते⟫
 2.  ⟪ध्नन्ति⟫
@@ -517,12 +517,3 @@ A) Wandeln Sie folgende Verbalformen in die in Person, Zahl und Genus verbi ents
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** ⲃⲟⲩⲛⲇⲓ = ⟪बुन्दी⟫, ⲣⲁϧⲥⲧⲁⲛ = ⟪राजस्थान⟫ [ϩⲓⲙⲁⲧⲉ ⲛⲧⲥϩⲟⲡ: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- ⲡⲓⲛⲁϩⲥ ⲉⲃ 2008-12-21. -- Creative Commons ⲛⲧⲥϩⲟⲡ (ⲙⲛⲧⲣⲉ ⲛⲁⲙⲓ, ⲇⲩϧⲉ ϯⲥⲱⲕⲓⲁϫⲉ, ⲇⲩϧⲉ ϯⲥⲱⲕⲓⲁϫⲉ)]
-**lekt3002:** ⲇⲁⲣⲉⲩⲁⲇⲓ, ⲁϩⲙⲉⲇ ⲛⲃⲓⲥⲧⲣⲕτ = ⟪अहमदनगर⟫, ⲙⲁϩⲣⲁⲥⲧⲭⲣⲟ = ⟪महाराष्ट्र⟫ [ϩⲓⲙⲁⲧⲉ ⲛⲧⲥϩⲟⲡ: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- ⲡⲓⲛⲁϩⲥ ⲉⲃ 2008-12-21. -- Creative Commons ⲛⲧⲥϩⲟⲡ (ⲙⲛⲧⲣⲉ ⲛⲁⲙⲓ, ⲇⲩϧⲉ ϯⲥⲱⲕⲓⲁϫⲉ, share alike)]
-**lekt3003:** [ϩⲓⲙⲁⲧⲉ ⲛⲧⲥϩⲟⲡ: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- ⲡⲓⲛⲁϩⲥ ⲉⲃ 2008-12-21. -- Creative Commons ⲛⲧⲥϩⲟⲡ (ⲙⲛⲧⲣⲉ ⲛⲁⲙⲓ, share alike)]
-**lekt3005:** ⟪थाली⟫, ⲥⲟϩ ϯⲙⲉⲣⲓ ⲕⲁⲛⲟⲛ [ϩⲓⲙⲁⲧⲉ ⲛⲧⲥϩⲟⲡ: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- ⲡⲓⲛⲁϩⲥ ⲉⲃ 2008-12-21. -- Creative Commons ⲛⲧⲥϩⲟⲡ (ⲙⲛⲧⲣⲉ ⲛⲁⲙⲓ, ⲇⲩϧⲉ ϯⲥⲱⲕⲓⲁϫⲉ, share alike)]
-**lekt3004:** [ϩⲓⲙⲁⲧⲉ ⲛⲧⲥϩⲟⲡ: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- ⲡⲓⲛⲁϩⲥ ⲉⲃ 2008-12-21. -- Creative Commons ⲛⲧⲥϩⲟⲡ (ⲙⲛⲧⲣⲉ ⲛⲁⲙⲓ, share alike)]
-**lekt2904:** [ϩⲓⲙⲁⲧⲉ ⲛⲧⲥϩⲟⲡ: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

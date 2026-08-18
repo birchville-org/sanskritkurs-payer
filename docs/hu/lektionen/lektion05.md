@@ -5,25 +5,18 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# 5. lecke <!-- TODO: Fallback translation -->
+# 5. lecke
 
-::: deleteme-box
-**Ebben a leckében megtanulja:**
-- A névszóösszetételek (samāsa) alapjai
-- Szakkifejezések az összetételekhez
-- Koppulatív összetételek (Dvandva)
-- A tagok sorrendje a Dvandváknál
-:::
-## 5.1. Névszóösszetételek (samāsa m. = ⟪समास⟫) <!-- TODO: Fallback translation -->
+## 5.1. Névszóösszetételek (samāsa m. = ⟪समास⟫)
 
 A szóösszetételek képzése rendkívül nagy mértékben a szanszkrit jellemzője.
 
 A legfontosabb összetételek képzési módjai a következők:
 - **kopulatív összetételek** (dvandva n. = ⟪द्वन्द्व⟫)
 - **determinatív összetételek** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
-- **birtokos összetételek** (bahuvrīhi m. = ⟪बहुव्रीहि⟫) <!-- TODO: Fallback translation -->
+- **birtokos összetételek** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
 
 (A két utóbbi említett típusról lásd később!)
 
@@ -34,14 +27,14 @@ A legfontosabb összetételek képzési módjai a következők:
 - **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : olyan összetétel, amelynek nincs vigrahavākya, vagy amelynek vigrahavākya nem lehetséges az összetétel szavaival.
 - **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : olyan összetétel, amelynek első tagja megtartja a esetszuffixumot
 - **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : olyan összetétel, amelynek első tagjai esetszuffixumok nélkül vannak (az általános eset)
-- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : olyan összetétel, amelyben egy vagy több középső tag elhagyásra kerül <!-- TODO: Fallback translation -->
+- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : olyan összetétel, amelyben egy vagy több középső tag elhagyásra kerül
 
 ## 5.3. Kopulatív összetételek (Dvandva n. = ⟪द्वन्द्व⟫)
 
 A kopulatív összetételek grammatikailag egyenértékű, koordinált tagok (főnevek vagy melléknevek) összekapcsolását szolgálják.
 
 ::: grammar-box
-**Egy Dvandva azt jelöli:** <!-- TODO: Fallback translation -->
+**Egy Dvandva azt jelöli:**
 
 1. **vagy a benne szereplő egyes tagok által jelölt személyek, dolgok, tulajdonságok összegző kapcsolatát:**
 Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
@@ -50,7 +43,7 @@ Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
 Samāhāradvandva ("összefoglaló dvandva") = ⟪समाहारद्वन्द्व⟫
 
 **Az első esetben (Itaretaradvandva):**
-A dvandva a legutolsó tag nyelvtani nemét veszi fel, és a kettős szám (két dolog esetén) vagy többes szám (több mint két dolog esetén) végződéseit viseli. Az egyes számú végződések is megengedettek. <!-- TODO: Fallback translation -->
+A dvandva a legutolsó tag nyelvtani nemét veszi fel, és a kettős szám (két dolog esetén) vagy többes szám (több mint két dolog esetén) végződéseit viseli. Az egyes számú végződések is megengedettek.
 
 **A második esetben (Samāhāradvandva):**
 A dvandva általában középnemű (függetlenül a legutolsó tag nemétől), és egyes számban áll.
@@ -60,7 +53,7 @@ A dvandva általában középnemű (függetlenül a legutolsó tag nemétől), �
 :::
 A kettős számú dvandvákra később kerül sor!
 
-### 5.3.1. A összetett szavak első tagjai <!-- TODO: Fallback translation -->
+### 5.3.1. A összetett szavak első tagjai
 
 Az összetett szavak (nem csak a Dvandva) első tagjai általában **névi alap** formájában jelennek meg, változatlanul. Az összetett szavak tagjait a **mondati sandhi** szabályai szerint kapcsoljuk össze (azaz az eddig ismertett sandhit, szemben a szóbeli sandhival, amely a szó belsejében, képzői elemek előtt alkalmazandó).
 
@@ -86,13 +79,13 @@ Példák a többes számú Dvandvára:
 - Általában a fontosabb szót kell az elejére helyezni.
 - **-i** vagy **-u** végződésű szavak előbbre kerüljenek.
 - **-a** végződésű, magánhangzóval kezdődő szavak előbbre kerüljenek.
-- Kevesebb szótagot tartalmazó szavak előbbre kerüljenek. <!-- TODO: Fallback translation -->
+- Kevesebb szótagot tartalmazó szavak előbbre kerüljenek.
 
-Ha a fenti három szabály közül kettő egyszerre merül fel, mindig a később megadott szabályt kell követni. (Példák ezekre a kettes szám (dualis)dvandvára Kielhorn, Grammatik § 570). <!-- TODO: Fallback translation -->
+Ha a fenti három szabály közül kettő egyszerre merül fel, mindig a később megadott szabályt kell követni. (Példák ezekre a kettes szám (dualis)dvandvára Kielhorn, Grammatik § 570).
 
 ## 5.4. Szószedet
 
-**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
 **abhiniveṣa** m. = ⟪अभिनिवेष⟫ : hajlam, makósság, ragaszkodás; különösen: a testhez való ragaszkodás, mintha az valami saját lenne.
 
@@ -103,15 +96,15 @@ Ha a fenti három szabály közül kettő egyszerre merül fel, mindig a későb
 Ábra: Kāma ist = kāmadeva = ⟪कामदेव⟫, 18. század
 (Képmegjelenítés forrása: Wikipedia, Közterület)
 :::
-**krodha** m. = ⟪क्रोध⟫ : Harag. <!-- TODO: Fallback translation -->
+**krodha** m. = ⟪क्रोध⟫ : Harag.
 
 **kleśa** m. = ⟪क्लेश⟫ : Kín, csapás.
 
-**trayī** f. = ⟪त्रयी⟫ : Háromas szám; különösen a három Veda (Ṛgveda, Sāmaveda, Yajurveda). <!-- TODO: Fallback translation -->
+**trayī** f. = ⟪त्रयी⟫ : Háromas szám; különösen a három Veda (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politika (egy Tatpuruṣa a daṇḍa m. = "bot, hatalom, uralkodás, büntetés" és nīti f. = "helyes irányítás" szavakból). <!-- TODO: Fallback translation -->
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politika (egy Tatpuruṣa a daṇḍa m. = "bot, hatalom, uralkodás, büntetés" és nīti f. = "helyes irányítás" szavakból).
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Kétszer született. <!-- TODO: Fallback translation -->
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Kétszer született.
 
 **dveṣa** m. = ⟪द्वेष⟫ : Gyűlölet.
 
@@ -121,7 +114,7 @@ Ha a fenti három szabály közül kettő egyszerre merül fel, mindig a későb
 
 **lobha** m. = ⟪लोभ⟫ : Kapzokság, mohóság.
 
-**varṇa** m. = ⟪वर्ण⟫ : Szín, fajta, rend. <!-- TODO: Fallback translation -->
+**varṇa** m. = ⟪वर्ण⟫ : Szín, fajta, rend.
 
 **vārttā** f. = ⟪वार्त्ता⟫ : Megélés, gazdaság (közgazdaságtan).
 
@@ -136,7 +129,7 @@ Ha a fenti három szabály közül kettő egyszerre merül fel, mindig a későb
 
 ## 5.5. Gyakorlat
 
-**A) Fordítsa le a következő mondatokat és összetéteket, valamint oldja fel bennük előforduló dvandvákat szanszkritra:** <!-- TODO: Fallback translation -->
+**A) Fordítsa le a következő mondatokat és összetéteket, valamint oldja fel bennük előforduló dvandvákat szanszkritra:**
 
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
 (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
@@ -151,7 +144,7 @@ Ha a fenti három szabály közül kettő egyszerre merül fel, mindig a későb
 3. sāmavedargvedayajurvedās trayī.
 (Kauṭilīya-arthaśāstra 1.3.1. / jó szanszkritban: sāmārgyajurvedās trayī)
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-(jó szanszkritban: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
+(jó szanszkritban: ⟪सामार्यजुर्वेदास्त्रयी⟫)
 
 4. A három emberi ellenség, amelyek a pokol kapuját képezik (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -168,7 +161,7 @@ Ha a fenti három szabály közül kettő egyszerre merül fel, mindig a későb
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
 (Kauṭilīya-arthaśāstra 1.2.1 alapján.)
-⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
 ## 5.6. Ismétlőgyakorlat
 
@@ -183,7 +176,7 @@ Ha a fenti három szabály közül kettő egyszerre merül fel, mindig a későb
 3. dvijā vaiśyāḥ. (2 lehetőség)
    ⟪द्विजा⟫ ⟪वैश्याः⟫ |
 
-**B) Írja be a megfelelő alakot:** <!-- TODO: Fallback translation -->
+**B) Írja be a megfelelő alakot:**
 
 1. (dvija, sādhu, kavi) ... rāmaḥ
    (⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |

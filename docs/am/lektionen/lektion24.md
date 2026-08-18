@@ -405,27 +405,3 @@ Viṣṇu እንኳን Śivaን አይበልጠውም (⟪प्र⟫-⟪भू
 
 15⟪१५⟫. ደህና ሁኑ! (ዘመናዊ ሳንስክሪት፡ ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [የምስል ምንጭ: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- የተደረሰበት ቀን 2008-12-14. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ላልሆነ አገልግሎት)]
-
-**lekt2402:** Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters. [የምስል ምንጭ: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- የተደረሰበት ቀን 2008-12-14. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ላልሆነ አገልግሎት፣ በተመሳሳይ ሁኔታ ማጋራት)]
-
-**lekt2403:** "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820 [የምስል ምንጭ: Wikipedia, የህዝብ ንብረት]
-
-**lekt2404:** [የምስል ምንጭ: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- የተደረሰበት ቀን 2008-12-14. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ምንም ዓይነት ለውጥ አለመደረግ)]
-
-**lekt2405:** [የምስል ምንጭ: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- የተገኘው በ 2008-12-14. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ, ለንግድ ያልሆነ አጠቃቀም, ምንም ዓይነት ማሻሻያ የለም)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [የምስል ምንጭ: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- የተገኘው በ 2008-12-14. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ, ለንግድ ያልሆነ አጠቃቀም)]
-
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [የምስል ምንጭ: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- የተገኘው በ 2008-12-14. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ, በተመሳሳይ መልኩ ማጋራት)]
-
-**lekt2408:** "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers." [የምስል ምንጭ: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- የተገኘው በ 2008-12-14. -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ, ለንግድ ያልሆነ አጠቃቀም)]
-
-**lekt2409:** [የምስል ምንጭ: Redtigerxyz / Wikipedia, GNU FDLicense]
-
-**lekt2410:** ⟪नरसिंह⟫ ⟪हिरण्यकशिपु⟫ን ሲቦጫጭቅ፣ ከ⟪भागवतपुराण⟫ የእጅ ጽሑፍ የተወሰደ ገጽ [የምስል ምንጭ: Wikipedia, Public domain]
-
-**lekt2411:** የ⟪गीतगोविन्द⟫ የእጅ ጽሑፍ፣ 1730 ዓ.ም. [የምስል ምንጭ: Wikipedia, Public domain]
-:::

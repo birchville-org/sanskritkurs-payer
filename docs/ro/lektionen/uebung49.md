@@ -76,5 +76,5 @@ Fig.: ⟪गायी⟫
 ![](/images/uebung079.webp)
 Fig.: ⟪शुकः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung079))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

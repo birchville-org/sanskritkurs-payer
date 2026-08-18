@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lezione 21
 
@@ -32,7 +32,7 @@ Questo participio è una formazione nominale dalla radice del presente, quindi u
 | | **schwacher Tema** | Tema del presente + **-t-** |
 | **Femminile** | | |
 | | | Tema del presente + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Presenteklasse** | Tema del presente + **-nt-** + **-ī** :broder::brTema del presente + **-t-** + **-ī** | &lt;!-- TODO: Fallback translation --&gt;
+| | **6. Presenteklasse** | Tema del presente + **-nt-** + **-ī** :broder::brTema del presente + **-t-** + **-ī** | &lt;!--  --&gt;
 
 :::
 Esempi:
@@ -85,7 +85,7 @@ Si noti l'identità di **⟪यजन्ति⟫** (Nom. pl. Neutro) con la 3. 
 | | **starker Tema** | Tema del presente + **-ant-** |
 | | **schwacher Tema** | Tema del presente + **-at-** :br(Der Auslaut des schwachen Tema del presentees lautet gleich wie vor der 3. Plur. P.) |
 | **Femminile** | | |
-| | | Tema del presente + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | &lt;!-- TODO: Fallback translation --&gt;
+| | | Tema del presente + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | &lt;!--  --&gt;
 
 :::
 2\. classe di presente:
@@ -307,15 +307,3 @@ B) Tradurre:
 
 ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-::: deleteme-box
-
-**lekt2101:** Targa commemorativa di ⟪सती⟫ nel palazzo di Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Fonte immagine: Flicka / Wikipedia. Licenza GNU FDL]
-
-**lekt2102:** "Sigillo in sardonice del IV-VI secolo d.C. raffigurante Viṣṇu con un devoto. L'iscrizione in bactriano corsivo recita: "Mihira, Viṣṇu e Śiva". [Fonte immagine: PHGCOM / Wikipedia. Licenza GNU FDL]
-
-**lekt2103:** ⟪भगवान्कृष्णः⟫ come ⟪जगन्नाथ⟫ (a destra) con sua sorellastra ⟪सुभद्रा⟫ (al centro) e suo fratello maggiore ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Fonte immagine: Sujitkumar / Wikipedia. Licenza GNU FDL]
-
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Fonte immagine: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
-
-**lekt2105:** ⟪भगवद्गीता⟫ - Manoscritto, XIX secolo. [Fonte immagine: Wikipedia, Dominio pubblico]
-:::

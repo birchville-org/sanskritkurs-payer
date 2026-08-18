@@ -495,12 +495,3 @@ Determine and translate the following word forms:
 39. ⟪तस्मिन्⟫
 40. ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Image source: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
-**lekt3002:** Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Image source: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-commercial use, Share alike)]
-**lekt3003:** [Image source: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Share alike)]
-**lekt3005:** ⟪थाली⟫, South India [Image source: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-commercial use, Share alike)]
-**lekt3004:** [Image source: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Share alike)]
-**lekt2904:** [Image source: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

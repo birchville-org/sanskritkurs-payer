@@ -10,13 +10,6 @@ last_reconstructed: 2026-05-07
 
 # درس ۹
 
-::: deleteme-box
-**در این درس یاد می‌گیرید:**
-- ساماهارادواندوا («دواندوای خلاصه»)
-- ساختن بن‌های اسمی با پسوند **-ka** (تاددیتا) و **-aka** (کرت)
-- واژگان مربوط به موضوع مشاغل و نقش‌های اجتماعی
-- نقل قول‌هایی از متون کلاسیک قانونی (دارماساسترا)
-:::
 
 
 ## ۹.۱. ساماهارادواندوا (⟪समाहारद्वन्द्व⟫ = «دواندوای خلاصه»)
@@ -95,7 +88,7 @@ last_reconstructed: 2026-05-07
 تصویر: **adhyayana** = ⟪अध्ययन⟫، Sri Skandaguru Vidyalayam، Tiruparankundram نزدیک مادورای.
 (منبع تصویر: [جزئیات](/fa/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : صنعتگر <!-- TODO: Fallback translation -->
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : صنعتگر
 
 ::: media
 ![](/images/lekt0902.webp)
@@ -164,7 +157,7 @@ last_reconstructed: 2026-05-07
 ۳. وظایف خاص یک کْشَتْرِیَا:
    **rakṣaṇaṃ sarvabhūtānām**
 ⟪रक्षणं सर्वभूतानाम्⟫
-(sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7) <!-- TODO: Fallback translation -->
+(sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7)
 
 ۴. وظایف خاص یک وایْشْیَا:
    **kṛṣivāṇijyapāśupālyakusīdam**
@@ -175,9 +168,8 @@ last_reconstructed: 2026-05-07
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
 ⟪द्विजातीनां शुश्रूषा वार्त्ता कारुकुशीलवकर्म च⟫
 (nach Kauṭilīya-Arthaśāstra 1.3.8.)
-Explanation: dvijātīnām = Genitiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen"); kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten). <!-- TODO: Fallback translation -->
+Explanation: dvijātīnām = Genitiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen"); kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
 
 ۶. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
 ⟪कृषिः पाशुपाल्यं वाणिज्या च वार्त्ता⟫ |
 (nach Kauṭilīya-Arthaśāstra 1.4.1.)
- <!-- TODO: Fallback translation -->

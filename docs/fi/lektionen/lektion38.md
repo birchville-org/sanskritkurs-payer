@@ -9,7 +9,7 @@ status: stable
 
 # Luento 38
 
-## 38.1. Viikon ratkaisu <!-- TODO: Fallback translation -->
+## 38.1. Viikon ratkaisu
 
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ oikeasta virtsaamisesta:
 
@@ -23,21 +23,21 @@ Selitykset:
 
 \-⟪अग्नि⟫ Nominatiivi/akkusatiivin yksikkö neutrinä sanalle ⟪अग्नि⟫ mask.
 
-\-:sig[⟪गु⟫] Nominatiivi/akkusatiivin yksikkö neutrinä sanoille ⟪गो⟫ mask./fem. "lehmä" <!-- TODO: Fallback translation -->
+\-:sig[⟪गु⟫] Nominatiivi/akkusatiivin yksikkö neutrinä sanoille ⟪गो⟫ mask./fem. "lehmä"
 
 ::: media
 ![](/images/lekt3801.webp)
 Kuv.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3801))
 :::
-## 38.2. Nasaalien äänteellinen muutos sanassa <!-- TODO: Fallback translation -->
+## 38.2. Nasaalien äänteellinen muutos sanassa
 
 ::: grammar-box
-Sanaiset sanassa assimiloituvat seuraaviin konsonantteihin, ts. ne korvataan näitä konsonantteja vastaavilla nasaleilla. <!-- TODO: Fallback translation -->
+Sanaiset sanassa assimiloituvat seuraaviin konsonantteihin, ts. ne korvataan näitä konsonantteja vastaavilla nasaleilla.
 
 c- ja j-kirjainten jälkeen -n- korvataan -ñ-:llä.
 :::
-## 38.3. -n-päätteisten vartalojen taivutus <!-- TODO: Fallback translation -->
+## 38.3. -n-päätteisten vartalojen taivutus
 
 ### 38.3.1. -an-päätteiset substantiivit sekä vokaalin jälkeiset -man- ja -van-päätteiset substantiivit
 ::: grammar-box
@@ -47,30 +47,30 @@ c- ja j-kirjainten jälkeen -n- korvataan -ñ-:llä.
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Vartalo** | **-ān** | **-mān** | **-vān** | Nominatiivi, akkusatiivi, vokatiivi sg. m. f.:brNominatiivi, akkusatiivi dual. m. f.:brNominatiivi, vokatiivi pl. m. f.:brNominatiivi, akkusatiivi pl. n. |
 | **Mittlerer Schwacher Vartalo** | **-a** :br(alunperin -*n) | **-ma** :br(alunperin -*mn) | **-va** :br(alunperin -*vn) | Übrige Kasus vor konsonantisch anlautender Pääte:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Vartalo** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Pääte | <!-- TODO: Fallback translation -->
+| **Schwächster Vartalo** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Pääte |
 
 **Päätteet ovat säännölliset. Nominatiivin yksikkö maskulinum ja feminiinum muodostetaan ilman loppun -n.**
 :::
-Esimerkit: <!-- TODO: Fallback translation -->
+Esimerkit:
 
 ⟪राजन्⟫ m. "kuningas"
 
 *   vahva vartalo: ⟪राजान्⟫
 *   keskitaso vartalo: :sig[⟪राज⟫]
-*   heikoin vartalo: ⟪राज्ञ्⟫ <!-- TODO: Fallback translation -->
+*   heikoin vartalo: ⟪राज्ञ्⟫
 
 ⟪सीमन्⟫ f. "raja"
 
 *   vahva vartalo: ⟪सीमान्⟫
 *   keskitason vartalo: ⟪सीम⟫
-*   heikoin vartalo: ⟪सीम्न्⟫ <!-- TODO: Fallback translation -->
+*   heikoin vartalo: ⟪सीम्न्⟫
 
 ⟪नामन्⟫ n. "Nimi"
 
 *   vahva vartalo: ⟪नामान्⟫
 *   keskitason vartalo: ⟪नाम⟫
 *   heikoin vartalo: ⟪नाम्न्⟫
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
 | :--- | :---: | :---: | :---: |
@@ -114,7 +114,7 @@ Esimerkit:
 *   vahva vartalo: ⟪आत्मान्⟫
 *   heikko vartalo:
     *   ennen konsonanttia: ⟪आत्म⟫
-    *   ennen vokaalia: ⟪आत्मन्⟫ <!-- TODO: Fallback translation -->
+    *   ennen vokaalia: ⟪आत्मन्⟫
 
 ⟪ब्रह्मन्⟫ n.: Absoluuttinen, Veda, Brahman
 
@@ -122,7 +122,7 @@ Esimerkit:
 *   heikko vartalo:
     *   ennen konsonanttia: ⟪ब्रह्म⟫
     *   ennen vokaalia: ⟪ब्रह्मन्⟫
-::: grammar-box <!-- TODO: Fallback translation -->
+::: grammar-box
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
 | :--- | :---: | :---: |
@@ -147,9 +147,9 @@ Esimerkit:
 ### 38.3.3. Maskuliinit ja neutrumit päättelyllä -in, -min, -vin
 
 ::: grammar-box
-Nämä substantiivit eivät tunne **mitään** vartalon astevaihtelua. <!-- TODO: Fallback translation -->
+Nämä substantiivit eivät tunne **mitään** vartalon astevaihtelua.
 
-Nominatiivin yksikön maskuliini ja akkusatiivin monikon neutrum on muodostettu analogiassa -an-vartalojen kanssa (vokaalin -i- pidennys), samoin vartalo **\-i-** ennen konsonanttista pääte. <!-- TODO: Fallback translation -->
+Nominatiivin yksikön maskuliini ja akkusatiivin monikon neutrum on muodostettu analogiassa -an-vartalojen kanssa (vokaalin -i- pidennys), samoin vartalo **\-i-** ennen konsonanttista pääte.
 
 Naispuolinen muoto muodostetaan suffiksilla -ī: esim. ⟪बलिनी⟫
 :::
@@ -190,39 +190,39 @@ Alkuperäisesti **-⟪इन्⟫**-päätteisen muodostelman ja **-⟪मन�
 :::
 Esimerkki:
 
-⟪हस्तिन्⟫ m.: erityisellä toiminnolla merkitty = elefantti (sen käsi ei ole tavallinen käsi, vaan lyhythuone) <!-- TODO: Fallback translation -->
+⟪हस्तिन्⟫ m.: erityisellä toiminnolla merkitty = elefantti (sen käsi ei ole tavallinen käsi, vaan lyhythuone)
 
 ::: media
 ![](/images/lekt3806.webp)
 Kuv.: ⟪हस्ती⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : jolla on (ihmisen) kädet <!-- TODO: Fallback translation -->
+⟪हस्तवन्त्⟫ : jolla on (ihmisen) kädet
 
 ::: media
 ![](/images/lekt3807.webp)
 Kuv.: ⟪हस्तवान्⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3807))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: grammar-box
 Adjektiivit, jotka päättyvät **-⟪इन्⟫**, muodostetaan mielellään yhdyssanoiksi.
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ⟪सत्यवादिन्⟫ sanasta ⟪सत्यवाद⟫ m. "totuuden puhuminen": "joku, joka on tunnusomaista totuuden puheesta = joku, joka aina puhuu totta"
 
 ## 38.5. Syntaktisia huomioita sanasta ⟪नामन्⟫
 
 ::: grammar-box
-Ilmaistaksemme "joku nimeltään N. N.", konstruoimme: <!-- TODO: Fallback translation -->
+Ilmaistaksemme "joku nimeltään N. N.", konstruoimme:
 
 **N.N. (nominatiivi) ⟪नाम⟫**
 
 Sananmukaisesti: "nimi on/oli N.N.". Kyseessä on siis väliosana.
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ::: indent
 ⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟩ "Eräällä kuninkaalla **nimeltään Nala**, Vīrasenan voimakkaalla pojalla."
@@ -239,7 +239,7 @@ Luonnollisesti saman voi ilmaista myös ⟪बहुव्रीहि⟩ avulla
 Kuva: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3808))
 :::
-## 38.6. Syntaktista huomiota ⟪आत्मन्⟫:n suhteen <!-- TODO: Fallback translation -->
+## 38.6. Syntaktista huomiota ⟪आत्मन्⟫:n suhteen
 
 ::: grammar-box
 ⟪आत्मन्⟫ **maskuliini** voi **yksikössä** toimita takautuvana pronominaalina (refleksiivipronomini) kaikkien kolmen sukun, lukujen (myös kaksikko ja monikko) ja persoonoiden osalta.
@@ -247,19 +247,19 @@ Kuva: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪ना
 Esimerkkejä:
 
 ::: indent
-⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Hän ei näke virhettä itsestään" <!-- TODO: Fallback translation -->
+⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Hän ei näke virhettä itsestään"
 
 ⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "He ylistävät itseään"
 :::
 ::: grammar-box
 Genetiivi (⟪षष्ठी⟫) ⟪आत्मनस्⟫ voi tässä yhteydessä tarkoittaa "oma/minun/sinun/hänen..."
 :::
-Esimerkki: <!-- TODO: Fallback translation -->
+Esimerkki:
 
 ::: indent
 ⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Hän astuu omaan kotiinsa."
 :::
-## 38.7. Konsonanttien varassa päättyvät vartalot kompositumien etuosina <!-- TODO: Fallback translation -->
+## 38.7. Konsonanttien varassa päättyvät vartalot kompositumien etuosina
 
 ::: grammar-box
 Konsonantin varassa päättyvät vartalot esiintyvät kompositumin etuosana heikossa muodossaan, jonka ne saavat ennen lokatiivin monikon päättettä -su (⟪सप्तमी⟫).
@@ -269,7 +269,7 @@ Esimerkki:
 ::: indent
 :sig[⟪राज⟫]⟪पुत्र⟫ "Kuninkaanpoika"
 :::
-## 38.8. -an-päätteiset vartalot ⟪बहुव्रीहि⟫ osana <!-- TODO: Fallback translation -->
+## 38.8. -an-päätteiset vartalot ⟪बहुव्रीहि⟫ osana
 
 ::: grammar-box
 -an-päätteinen vartalo voidaan käyttää ⟪बहुव्रीहि⟫ osana kaikissa kolmessa sukua. Yleensä feminiinin muodostaa kuitenkin heikoin maskuliinivartalo suffiksilla -ī.
@@ -281,21 +281,21 @@ Esimerkki:
 :::
 ## 38.9. Sanalista
 
-⟪सूर्य⟫ m.: Aurinko, auringonjumala Sūrya <!-- TODO: Fallback translation -->
+⟪सूर्य⟫ m.: Aurinko, auringonjumala Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
 Kuv.: ⟪सूर्यः⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Vesi <!-- TODO: Fallback translation -->
+⟪उदक⟫ n.: Vesi
 
 ::: media
 ![](/images/lekt3805.webp)
 Kuv.: ⟪उदकम्⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : puhaltaa, puhaltua <!-- TODO: Fallback translation -->
+⟪वा⟫ 2P ⟪वाति⟫ : puhaltaa, puhaltua
 
 ::: indent
 Fut. ⟪वास्यति⟫
@@ -309,7 +309,7 @@ siitä:
 
 ⟪वात⟫ m.: tuuli
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : puhaltaa, kuljettaa tuulella, sammua <!-- TODO: Fallback translation -->
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : puhaltaa, kuljettaa tuulella, sammua
 
 ::: indent
 siitä:
@@ -323,7 +323,7 @@ siitä:
 Kuv.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Kuvälähde: [Tiedot](/fi/licenses#lekt3804))
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : virtsata, pissata, siittää <!-- TODO: Fallback translation -->
+⟪मिह्⟫ 1P ⟪मेहति⟫ : virtsata, pissata, siittää
 
 ::: indent
 Fut. ⟪मेक्ष्यति⟫
@@ -336,9 +336,9 @@ siitä:
 
 ⟪मेघ⟫ m.: Pilvi ("sateen tuottaja")
 :::
-⟪सुत⟫ m.: Poika <!-- TODO: Fallback translation -->
+⟪सुत⟫ m.: Poika
 
-⟪राजन्⟫ m.: Kuninkaan valta (Intian kuninkaudesta ks. Basham, Ihme s. 82–94). Kompositumin päätteenä (erityisesti ⟪तत्पुरुष⟫) yleensä: -:sig[⟪राज⟫] m. (kuten ⟪देव⟫) <!-- TODO: Fallback translation -->
+⟪राजन्⟫ m.: Kuninkaan valta (Intian kuninkaudesta ks. Basham, Ihme s. 82–94). Kompositumin päätteenä (erityisesti ⟪तत्पुरुष⟫) yleensä: -:sig[⟪राज⟫] m. (kuten ⟪देव⟫)
 
 ::: indent
 Nainenpääte:
@@ -355,30 +355,30 @@ von :sig[⟪राज⟫] :
 
 ⟪आत्मन्⟫ m.: itse, oma henkilö, sisin olento. Filosofisessa ja vapautusopin kontekstissa: absoluuttinen yksilössä, josta yksilö ei ole joskus tietoinen (v. Stietencron)
 
-⟪ब्रह्मन्⟫ n.: absoluutti, Veda (Thiemen mukaan alun perin: muotoiltu totuus, josta ⟪ब्राह्मण⟫ "totuuden muotoilija") <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ n.: absoluutti, Veda (Thiemen mukaan alun perin: muotoiltu totuus, josta ⟪ब्राह्मण⟫ "totuuden muotoilija")
 
-⟪ब्रह्मन्⟫ m.: henkilöitynä ajiteltu luoja Jumala Brahmā <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ m.: henkilöitynä ajiteltu luoja Jumala Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
 Kuv.: ⟪ब्रह्मा⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n.: liittyen kohtaan ⟪कृ⟫ 8U: toiminta, teko, teos; pyhä teos, uhritoiminta; karma: aiempi tekeminen, joka myöhemmin tuo hedelmäänsä (esim. uudelleensyntymässä) <!-- TODO: Fallback translation -->
+⟪कर्मन्⟫ n.: liittyen kohtaan ⟪कृ⟫ 8U: toiminta, teko, teos; pyhä teos, uhritoiminta; karma: aiempi tekeminen, joka myöhemmin tuo hedelmäänsä (esim. uudelleensyntymässä)
 
 ::: indent
 ⟪कर्मविपाक⟫ m.: teosten kypsyminen = hyvien ja pahojen tekojen seuraukset aiemmissa olemassaoloissa (liittyen kohtaan ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: elefantti (_Elephas maximus_) <!-- TODO: Fallback translation -->
+⟪हस्तिन्⟫ m.: elefantti (_Elephas maximus_)
 
-⟪मनु⟫ m.: ihminen, mies; ihmismuotoisen sukupolven isän nimi (katso ⟪मन्⟫ 4Ā) <!-- TODO: Fallback translation -->
+⟪मनु⟫ m.: ihminen, mies; ihmismuotoisen sukupolven isän nimi (katso ⟪मन्⟫ 4Ā)
 
 ::: indent
 siitä:
 
 ⟪मनुष्य⟫ m.: ihminen
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (liekittää, loistaa); surra, valittaa <!-- TODO: Fallback translation -->
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (liekittää, loistaa); surra, valittaa
 
 ::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -400,7 +400,7 @@ siitä:
 ![](/images/lekt3810.webp)
 Kuv.: ⟪अशोकवृक्षः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3810))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -408,9 +408,9 @@ Kuv.: ⟪अशोकवृक्षः⟫
 Kuva: ⟪अशोकसाम्राज्यम्⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3811))
 :::
-## 38.10. Harjoitus <!-- TODO: Fallback translation -->
+## 38.10. Harjoitus
 
-A) Täytä seuraavissa lauseissa sulkulausekkeessa olevien sanojen vastaavat muodot ja käännä: <!-- TODO: Fallback translation -->
+A) Täytä seuraavissa lauseissa sulkulausekkeessa olevien sanojen vastaavat muodot ja käännä:
 
 ... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
 
@@ -442,7 +442,7 @@ A) Täytä seuraavissa lauseissa sulkulausekkeessa olevien sanojen vastaavat muo
 
 ... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Sanalista käännösharjoitusta varten <!-- TODO: Fallback translation -->
+## 38.11. Sanalista käännösharjoitusta varten
 
 ⟪प्राय⟫ m.: pääasia, instr. ⟪प्रायेण⟫ : useimmiten, tavallisesti (sanasta ⟪प्र⟫-⟪इ⟫)
 
@@ -453,7 +453,7 @@ A) Täytä seuraavissa lauseissa sulkulausekkeessa olevien sanojen vastaavat muo
 Kuva: ⟪विनोदः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : kulkea ympäri <!-- TODO: Fallback translation -->
+⟪अट्⟫ 1P ⟪अटति⟫ : kulkea ympäri
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
@@ -481,7 +481,7 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 Kuva: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3813))
 :::
-⟪एकैकशस्⟫ Adv.: kerrallaan <!-- TODO: Fallback translation -->
+⟪एकैकशस्⟫ Adv.: kerrallaan
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : laskea, luetella
 
@@ -498,7 +498,7 @@ Inf. ⟪गणयितुम्⟫
 Kuva: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫: huutaa, valittaa <!-- TODO: Fallback translation -->
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫: huutaa, valittaa
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
@@ -553,7 +553,7 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪अधस्⟫ Adv.: alas
 
-## 38.12. Käännösharjoitus <!-- TODO: Fallback translation -->
+## 38.12. Käännösharjoitus
 
 :sig[⟪दश⟫] ⟪मूढाः⟫
 
@@ -563,15 +563,15 @@ Inf. ⟪सर्तुम्⟫
 
 Selitykset:
 
-:sig[⟪दश⟫] Nominatiivi-akkusatiivin monikko maskuliini-nainen-neutraali. Sanaan ⟪दशन्⟫ "kymmenen" <!-- TODO: Fallback translation -->
+:sig[⟪दश⟫] Nominatiivi-akkusatiivin monikko maskuliini-nainen-neutraali. Sanaan ⟪दशन्⟫ "kymmenen"
 
-⟪बाहुभ्याम्⟫ Instrumentaali-datiivi-ablatiivin duali. Sanaan ⟪बाहु⟫ maskuliini. "Käsi" <!-- TODO: Fallback translation -->
+⟪बाहुभ्याम्⟫ Instrumentaali-datiivi-ablatiivin duali. Sanaan ⟪बाहु⟫ maskuliini. "Käsi"
 
-:sig[⟪सर्वे⟫] Nominatiivin monikko maskuliini. Sanaan ⟪सर्व⟫ 3 "jokainen, kaikki" <!-- TODO: Fallback translation -->
+:sig[⟪सर्वे⟫] Nominatiivin monikko maskuliini. Sanaan ⟪सर्व⟫ 3 "jokainen, kaikki"
 
 :sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "tunnustaa haluavaksi, tietää haluavaksi"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "yhdeksän" <!-- TODO: Fallback translation -->
+⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "yhdeksän"
 
 :sig[⟪वयम्⟫] Nom.pl. "me"
 
@@ -583,27 +583,9 @@ Selitykset:
 
 :sig[⟪समजनि⟫] 3.sg.passiivi aoristus verbistä ⟪जन्⟫
 
-⟪तरसा⟫ instr. sg. verbistä ⟪तरस्⟫ n. "energia", adverbialinen käyttö: "nopeasti, voimakkaalla tavalla" <!-- TODO: Fallback translation -->
+⟪तरसा⟫ instr. sg. verbistä ⟪तरस्⟫ n. "energia", adverbialinen käyttö: "nopeasti, voimakkaalla tavalla"
 
 :sig[⟪यूयम्⟫] Nom.pl. "he"
 
 ⟪युष्माकम्⟫ Gen.pl. sanan :sig[⟪यूयम्⟫]
 
-::: deleteme-box
-
-- **lekt3801.jpg**: Kuva: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Kuv lähde: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Pääsy 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä)\]
-- **lekt3802.jpg**: Kuva: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Kuv lähde: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Pääsy 2008-12-31.  – [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä)\]
-- **lekt3803.jpg**: Kuva: ⟪सीमा⟫  Rajanylityspaikka Intian ja Pakistanin välillä Wagahissa (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Kuv lähde: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Pääsy 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, jakaa samalla)\]
-- **lekt3804.jpg**: Kuva: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, 2./3. jaa \[Kuv lähde: Wikipedia. Julkinen omaisuus\]
-- **lekt3805.jpg**: Kuva: ⟪उदकम्⟫  Darewadin kylä, Ahmed Nagarin piirikunta = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Kuv lähde: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Pääsy 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, jakaa samalla)\]
-- **lekt3806.jpg**: Kuva: ⟪हस्ती⟫  Nagarholen kansallispuisto = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Kuv lähde: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Pääsy 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, jakaa samalla)\]
-- **lekt3807.jpg**: Kuva: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Kuv lähde: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Pääsy 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei muunnoksia)\]
-- **lekt3808.jpg**: Kuva: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930-luku \[Kuv lähde: Wikipedia. Julkinen omaisuus\]
-- **lekt3809.jpg**: Kuva: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Kuv lähde: Wikipedia. GNU FDLicense\]
-- **lekt3810.jpg**: Kuva: Ashoka-puu = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Kuv lähde: J.M.Garg / Wikipedia. GNU FDLicense\]
-- **lekt3811.jpg**: Kuva: Aśokan valtakunnan suurin laajenema sekä hänen kallio- ja pylväasdiktien löytöpaikat \[Kuv lähde: Wikipedia.GNU FDLicense\]
-- **lekt3812.jpg**: Kuva: ⟪विनोदः⟫  Carrom-peli \[Kuv lähde: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Pääsy 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, jakaa samalla)\]
-- **lekt3813.jpg**: Kuva: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Kuv lähde: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Pääsy 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä)\]
-- **lekt3814.jpg**: Kuva: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Kuv lähde: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Pääsy 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons -lisenssi (Nimittäminen, ei kaupallista käyttöä, ei muunnoksia)\]
-:::
- <!-- TODO: Fallback translation -->

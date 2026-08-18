@@ -499,17 +499,3 @@ Translate into Sanskrit using exclusively perfect tense verb forms:
 
 Once, when an old man was going to another village, he became tired on the way. So he went to rest at the foot of a mango tree standing by the side. On this tree there were ripe fruits. The old man desired these. But he could not climb the tree and reach for the fruits. Fortunately, there were some monkeys on this tree that ate fruits. When he saw them, the old man rejoiced. What did he do? He took some stones, aimed at the monkeys and threw them. The enraged monkeys picked up some fruits and threw them on the old man. The old man joyfully took these and went to his desired place. Behold, the fate of the old man!
 
-::: deleteme-box
-
-**Image lekt3701.jpg** (Fig.: ⟪क्व⟫): [Image source: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-**Image lekt3702.jpg** (Fig.: ⟪यथाशक्ति⟫): [Image source: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-**Image lekt3703.jpg** (Fig.: ⟪तूष्णीं बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Image source: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-**Image lekt3704.jpg** (Fig.: ⟪किं बाला अधीयीरन्⟫): Kanchipuram = Kanchipuram [Image source: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution)]
-**Image lekt3705.jpg** (Fig.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Image source: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-**Image lekt3706.jpg** (Fig.: ⟪वृक्षः⟫): Jaipur [Image source: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, non-commercial use, share alike)]
-**Image lekt3707.jpg** (Fig.: ⟪कृष्णः बलरामश्च⟫): Painting by ⟪राजा रवि वर्मा⟫ (1848 - 1906) [Image source: Wikipedia. Public domain]
-**Image lekt3708.jpg** (Fig.: ⟪क्व मर्तुं सज्जना इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Image source: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution)]
-**Image lekt3709.jpg** (Fig.: ⟪अधिकेरलं वर्तन्ते⟫): [Image source: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-**Image lekt3710.jpg** (Fig.: ⟪आबालवृद्धं लंदननगरे ववृतिरे⟫): [Image source: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, non-commercial use, share alike)]
-**Image lekt3711.jpg** (Fig.: ⟪उपवृक्षं सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Image source: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-:::

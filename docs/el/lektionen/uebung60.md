@@ -97,15 +97,15 @@ B) Προσδιορίστε και μεταφράστε χωρίς βοηθητ�
 
 41. ⟪अहः⟫ - ⟪अहन्⟫ ουδ. Ονοσ./Α
 
-42.  ⟪जग्मुषः⟫ - ⟪जग्मिवांस्⟫ ⟪।⟫ ⟪जगन्वांस्⟫ Part.Perf.P zu ⟪गम्⟫ 1P Ab.Gen.sg.m.n.Akk.pl.m. dessen, der gegangen ist ... <!-- TODO: Fallback translation -->
+42.  ⟪जग्मुषः⟫ - ⟪जग्मिवांस्⟫ ⟪।⟫ ⟪जगन्वांस्⟫ Part.Perf.P zu ⟪गम्⟫ 1P Ab.Gen.sg.m.n.Akk.pl.m. dessen, der gegangen ist ...
 
 43.  ⟪अताप्स्व⟫ - ⟪तप्⟫ 1P 1.duAor(4).P wir beide glühten
 
-44.  ⟪ईशिशिषाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Desid. 1.3.sg.PeriphPerf.Ā ich / er wünschte zu herrschen <!-- TODO: Fallback translation -->
+44.  ⟪ईशिशिषाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Desid. 1.3.sg.PeriphPerf.Ā ich / er wünschte zu herrschen
 
 45.  ⟪ईशाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā 1.3.sg.PeriphPerf.Ā ich / er herrschte
 
-46.  ⟪ईशयाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Kaus. 1.3.sg.PeriphPerf.Ā ich / er liess im eigenen Interesse herrschen <!-- TODO: Fallback translation -->
+46.  ⟪ईशयाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Kaus. 1.3.sg.PeriphPerf.Ā ich / er liess im eigenen Interesse herrschen
 
 47.  ⟪षण्णाम्⟫ - ⟪षष्⟫ Gen. der sechs
 
@@ -115,9 +115,9 @@ B) Προσδιορίστε και μεταφράστε χωρίς βοηθητ�
 
 50.  ⟪प्साथः⟫ - ⟪प्सा⟫ 2P 2.du.Ind.Präs.P ihr beide verschlingt
 
-51.  ⟪अवाचः⟫ - ⟪अवाञ्च्⟫ 3 Abl.Gen.sg.m.n.Akk.pl.m. des abwärts gerichteten ... <!-- TODO: Fallback translation -->
+51.  ⟪अवाचः⟫ - ⟪अवाञ्च्⟫ 3 Abl.Gen.sg.m.n.Akk.pl.m. des abwärts gerichteten ...
 
-52.  ⟪ईयुषे⟫ - ⟪ईयिवांस्⟫ Part.Perf.P zu ⟪इ⟫ 2P Dat.sg.m.n. dem, der gegangen ist <!-- TODO: Fallback translation -->
+52.  ⟪ईयुषे⟫ - ⟪ईयिवांस्⟫ Part.Perf.P zu ⟪इ⟫ 2P Dat.sg.m.n. dem, der gegangen ist
 
 
 ENDE DER ÜBUNGEN

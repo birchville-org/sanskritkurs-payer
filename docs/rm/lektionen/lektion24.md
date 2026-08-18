@@ -5,11 +5,11 @@ lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecziun 24
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") <!-- TODO: Fallback translation -->
+## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
 
 ::: grammar-box
 **1. Per exprimir in intent u in fin ("per far") d'ina acziun, po in adina adina al infinitiv (⟪तुमुन्⟫) era adina nom cun sufix kṛt, che designescha ina acziun u in stadi, en il dativ (⟪चतुर्थी⟫ = "quart casus").**
@@ -104,7 +104,7 @@ Ulteriuras utilisaziuns dal dativ pli tard.
 * **Singulär: -e ; vokalischi endendi Femininstämm: -ai**
 * **Plural: Dativ und Ablativ ⟪पञ्चमी⟫: -bhyas**
 :::
-### 24.2.1. Konsonantischi Stämm <!-- TODO: Fallback translation -->
+### 24.2.1. Konsonantischi Stämm
 
 ::: grammar-box
 
@@ -216,9 +216,9 @@ Da ⟪वृत्⟫:
 
 ⟪वृत्त⟫ n.: cumportament
 :::
-⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an <!-- TODO: Fallback translation -->
+⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
 
-⟪नि⟫ Präverb: ned, giu, en, indret <!-- TODO: Fallback translation -->
+⟪नि⟫ Präverb: ned, giu, en, indret
 
 ⟪आ⟫ Preposiziun / posposiziun: avant ablativ u suenter accusativ: fin a, fin a ; cun ablativ: da qua, da lura, dapi
 
@@ -228,12 +228,12 @@ Da ⟪वृत्⟫:
 
 ⟪इन्द्रिय⟫ n.: pussa, orgán da sens
 
-⟪ऊह⟫ m.: reflexiun, argumentaziun <!-- TODO: Fallback translation -->
+⟪ऊह⟫ m.: reflexiun, argumentaziun
 
 davon
 
 ::: indent
-⟪⟪अपोह⟫⟫ m.: Negaziun (⟪⟪अप⟫⟫ + ⟪⟪ऊह⟫⟫) <!-- TODO: Fallback translation -->
+⟪⟪अपोह⟫⟫ m.: Negaziun (⟪⟪अप⟫⟫ + ⟪⟪ऊह⟫⟫)
 
 ⟪ऊहापोह⟫ m.: Discussiun dal per ed cunter
 :::
@@ -276,7 +276,7 @@ davon:
 
 ⟪तत्त्व⟫ n.: essenza vera, veritad, realitad (⟪तद्⟫ + ⟪त्व⟫ = questa-
 
-⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut") <!-- TODO: Fallback translation -->
+⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut")
 
 ⟪नमस्⟫ n.: inchinaziun, veneraziun, salut (declinaziun pli tard). Formula da salidaziun: ⟪नमो⟩ ⟪नमः⟫
 
@@ -363,7 +363,7 @@ Traducir al sánscrito:
 
 1\. La deessa, cun la quala n'è betg sacrificà, s'ira contra la glieud.
 
-2\. El lascha la vaca ir en il vitg. <!-- TODO: Fallback translation -->
+2\. El lascha la vaca ir en il vitg.
 
 3\. Us èn avunda = Abastà cun la pazienza.
 
@@ -395,7 +395,7 @@ Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 ⟪नरसिंह⟫ dilanià ⟪हिरण्यकशिपु⟫, pagina d'in manuscrit dal ⟪भागवतपुराण⟫
 (font da l'imaginescha: [detagls](/rm/licenses#lekt2410))
 :::
-11\. Benvegni (⟪स्वागतम्⟫) a Vus. Benvegni a la regina. <!-- TODO: Fallback translation -->
+11\. Benvegni (⟪स्वागतम्⟫) a Vus. Benvegni a la regina.
 
 12\. Io augur a Vus prosperitad (⟪कुशल⟫) = prosperitad a Vus!
 
@@ -405,27 +405,3 @@ Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 15⟪१५⟫. Arrivederci! (Neusanskrit: ⟪पुनर्दर्शनाय⟫)
 
-::: deleteme-box
-
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] è in eveniment hindu tradiziunal che ha lieu durant las festivitads da l'onn nov hindu en tut ils mandirs da BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Centenas da platsas vegetarianas vegnan offertas a Bhagwan Swaminarayan [સ્વામિનારાયણ] en quest di. [Bildquelle: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
-
-**lekt2402:** Il Raksha Bandhan vegn celebrà cun passion e gaiozza en tut l'India. Quest festival epitomisescha l'amur incondiziunada tranfratgs e soras. [Fonte da l'imaginescha: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Access il 2008-12-14. -- Licenza Creative Commons (Attribuziun, nagina utilisaziun comerciala, share alike)]
-
-**lekt2403:** "Rama (dretg) sedend sin las spallas da Hanuman, combatta il demon-re Ravana." ca 1820 [sursainta d'imagina: Wikipedia, domin public]
-
-**lekt2404:** [Sursa da l’imagines: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Access il di 2008-12-14. -- Licenza Creative Commons (Nominament, naginas modificaziuns)]
-
-**lekt2405:** [fonte da l’imaginesch: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- consultà il 2008-12-14. -- Licenza Creative Commons (numinaziun, nagina utisaziun cummerciala, nagina modificaziun)]
-
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [fonte da imàgina: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- consultà il 2008-12-14. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala)]
-
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, mniates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [Bildquelle: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2408:** «Il narratôr da istorgias Jeff Byers da San Francisco preschenta ina istorgia als abitants da Chenneri, in vitg Irula. Il narratôr da istorgias Jeeva Raghunath traduscha en tamil per ils abitants dal vitg.» [Sursa d’imagia: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Access il 2008-12-14. -- Licenza Creative Commons (attribuziun, nagina utilisaziun comerciala)]
-
-**lekt2409:** [Qua da l'imagines: Redtigerxyz / Wikipedia, Licenza GNU FD] <!-- TODO: Fallback translation -->
-
-**lekt2410:** ⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫ [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt2411:** Manuscript dal ⟪गीतगोविन्द⟫, 1730 n. Chr. [Sursa da l'imagines: Wikipedia, Public domain]
-:::

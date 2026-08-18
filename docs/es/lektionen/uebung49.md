@@ -76,5 +76,5 @@ Preguntas del rey **⟪शूद्रक⟫** de **⟪विदिशा⟫** a
 ![](/images/uebung079.webp)
 Fig.: ⟪शुकः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung079))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 :::

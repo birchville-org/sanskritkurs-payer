@@ -152,7 +152,7 @@ Nota: ¹ Explicatio de **⟪जहि⟫** vide Thumb-Hauschild I,2 p. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Tertia classis praesentis (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
+### 48.2.4. Tertia classis praesentis (⟪जुहोत्यादि⟫)
 
 ::: grammar-box
 **Terminus 3.pl.P finitur in \-atu !**
@@ -181,7 +181,7 @@ Nota: ¹ Dissimilatio, quo minus duae syllabae cum **⟪ह्⟫** se sequantur
 
 Anm.: ¹ **⟪धेहि⟫** aus \*dhazdhi: Wegfall des indogermanischen Zischlauts z unter Ersatzdehnung; s. Thumb-Hauschild I,1 S. 302
 :::
-⟪हा⟫ 3P <!-- TODO: Fallback translation -->
+⟪हा⟫ 3P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -228,7 +228,7 @@ Exempla:
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
+| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
 
 Ante suffixum **-ya** terminatio radicis similiter ac ante suffixum **-a** tractatur.
 :::
@@ -265,7 +265,7 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Fons imaginis: [Detalia](/la/licenses#lekt4802))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -308,7 +308,7 @@ Fig.: ⟪कुमारः⟫
 Thaipusam Festival = தைப்பூசம், Batu Caves, Malaysia
 (Image source: [Details](/la/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: puella, filia <!-- TODO: Fallback translation -->
+⟪कुमारी⟫ f.: puella, filia
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -316,7 +316,7 @@ Fig.: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Image source: [Details](/la/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: pueritia <!-- TODO: Fallback translation -->
+⟪कौमर⟫ n.: pueritia
 
 ⟪यौवन⟫ n.: iuventus
 
@@ -328,7 +328,7 @@ Fig.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ m.: (altum) aetas <!-- TODO: Fallback translation -->
+⟪स्थाविर⟫ m.: (altum) aetas
 
 ⟪वाच्य⟫ 3: etiam: reprehensibilis
 
@@ -406,23 +406,3 @@ B) Versio facite in Sanscritum (imperativum utere et radices 2ae et 3ae classis 
 Explicatio:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dualis ad ⟪द्वे⟫ ⟪कुले⟫ "duo familiae"
 
-::: deleteme-box
-
-**lekt4801:** [Imago fontis: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Accessus die 2009-01-10. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nominatio, usus non commercialis, share alike)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Imago fontis: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Accessus die 2009-01-10. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nominatio, usus non commercialis, share alike)]
-
-**lekt4803:** Sitarcantor = ⟪सितारवादकः⟫ [Imago fontis: Wikipedia. Dominium publicum]
-
-**lekt4804:** [Fratres auxiliares (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Imago fontis: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Accessus die 2009-01-10. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nominatio, usus non commercialis)]
-
-**lekt4805:** Festival Thaipusam = தைப்பூசम्, Batu Caves, Malaysia [Fontes imaginis: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Accessus die 2009-01-10. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
-
-**lekt4806:** ⟪नेपाल⟫ [Fontes imaginis: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Accessus die 2009-01-10. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt4807:** ⟪जोधपुर⟫ [Fontes imaginis: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Accessus die 2009-01-10. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt4808:** Lacus Karanji = ಕಾರಂಜಿ ಕೆರೆ [Fontes imaginis: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Accessus die 2009-01-10. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attributio, simile distribui)]
-
-**lekt4809:** (Imago: Payer)
-:::

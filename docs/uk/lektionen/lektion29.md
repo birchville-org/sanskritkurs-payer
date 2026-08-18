@@ -264,10 +264,4 @@ PPP ⟪पूजित⟫
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
 :::
-::: deleteme-box
-
-**lekt2903:** Пушкар = ⟪पुष्कर⟫ [Джерело зображення: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Доступ 2008-12-20. -- Ліцензія Creative Commons (Attribution, non-commercial use, share alike)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Джерело зображення: Khalid Mahmood / Wikipedia. GNU FDLicense]
-**lekt2902:** (Малюнок: Namcha Payer, 2002-11)
-:::
 

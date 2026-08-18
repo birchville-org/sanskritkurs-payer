@@ -9,14 +9,6 @@ status: stable
 
 # Lezione 3
 
-::: deleteme-box
-**In questa lezione imparate:**
-- il nominativo singolare del femminile
-- il nominativo plurale del maschile e del femminile
-- la formazione del femminile a partire dai maschili
-- il sandha vocalico
-- Sandhi di frase di -ās
-:::
 ## 3.1. Nominativoooooo singolare del femminile
 
 ### 3.1.1. Nominativoooooo singolare in -s
@@ -76,7 +68,7 @@ Nota: **e** è il grado pieno (**guṇa**) di **i**, **o** è il grado pieno di 
 :::
 ad esempio
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā è una divinità" = ⟪देवतान्नपूर्णा⟫ &lt;!-- TODO: Fallback translation --&gt;
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā è una divinità" = ⟪देवतान्नपूर्णा⟫ &lt;!--  --&gt;
 
 > (Annapūrṇā è la dea del cibo e della cucina, è considerata un'incarnazione di Pārvatī, la consorte di Śiva.)
 
@@ -127,7 +119,7 @@ ad esempio
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-ad esempio &lt;!-- TODO: Fallback translation --&gt;
+ad esempio &lt;!--  --&gt;
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "I Vaiśya sono i due volte nati" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 

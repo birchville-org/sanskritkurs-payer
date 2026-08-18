@@ -31,7 +31,7 @@ status: stable
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
 ### 58.2.2. चौथा वर्तमानकाल श्रेणी (⟪⟪दिवादिगणः⟫⟫)
 
@@ -458,16 +458,3 @@ B) निम्नलिखित रूपों का अनुवाद औ�
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-::: deleteme-box
-
-**lekt5802:** ⟪ओडिसी⟫ [छवि स्रोत: इक्बाल सागु. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- 2009-03-02 को पहुँचा गया. -- [क्रीएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by/2.0/deed.de) (नामकरण)]
-
-**lekt5803:** बंडीपुर राष्ट्रीय उद्यान -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-
-**lekt5806:** [छवि स्रोत: स्टीविल्स. -- [http://www.flickr.com/photos/stewils/2231579675/](http://www.flickr.com/photos/stewils/2231579675/). -- 2009-03-02 को पहुँचा गया. -- [क्रीएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (नामकरण, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
-
-**lekt5807:** ⟪पुणेनगरे⟫
-
-**lekt5801:** [छवि स्रोत: प्रतो9x. -- [http://www.flickr.com/photos/55163494@N00/262793331/](http://www.flickr.com/photos/55163494@N00/262793331/). -- 2009-03-02 को पहुँचा गया. -- [क्रीएटिव कॉमन्स लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (नामकरण, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
-
-:::

@@ -367,24 +367,6 @@ Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 ![](/images/lekt4309.webp)
 Fig.: ⟪शर्करा⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4309))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
-:::
-::: deleteme-box
-
-**lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Acceso el 2009-01-06. -- Licencia Creative Commons (Atribución, sin uso comercial)
-
-**lekt4303.jpg**: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Acceso el 2009-01-06. -- Licencia Creative Commons (Atribución, sin uso comercial)
-
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Acceso el 2009-01-06. -- Licencia Creative Commons (Atribución)
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Acceso el 2009-01-06. -- Licencia Creative Commons (Atribución, no uso comercial, compartir igual)
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Acceso el 2009-001-06. -- Licencia Creative Commons (Atribución, compartir igual)
-
-**lekt4307.jpg**: Ray Witlin / Banco Mundial. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Acceso el 2009-01-06. -- Licencia Creative Commons (Atribución, no uso comercial, sin obras derivadas)
-
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. Licencia GNU FDL
-
-**lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- Acceso el 2009-01-07. -- Licencia Creative Commons (Atribución, sin obras derivadas)
 :::

@@ -9,13 +9,6 @@ status: stable
 
 # 第11课
 
-::: deleteme-box
-**在本课中，您将学习：**
-- 双宾语（人称宾语与事物宾语）
-- 小品词 **iti**、**evam** 和 **na** 的用法
-- 基本概念如 **dharma**、**adharma** 和 **putra**
-- 由词根 **vad**、**prach** 和 **iṣ** 构成名词的方法
-:::
 ## 11.1. 双宾语
 
 ::: grammar-box

@@ -6,7 +6,7 @@ status: stable
 
 # Lecziun 33
 
-## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.) <!-- TODO: Fallback translation -->
+## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
 
 * La terza classa dal present
 * (ed erma verbs da autras classes dal present),
@@ -19,13 +19,13 @@ vegnescha tras la reduplicaziun. La part d'ina forma reduplicada, che vegn posad
 
 La sillaba di riduplicaziun cumpiglia (in cunsonant ed) ina vocala.
 
-### 33.1.1. Der Reduplikationskonsonant <!-- TODO: Fallback translation -->
+### 33.1.1. Der Reduplikationskonsonant
 
 ::: grammar-box
 **1. Usitau:**  
 **Repetiziun dal prim consonant da la radischa**
 :::
-Exempels: <!-- TODO: Fallback translation -->
+Exempels:
 
 ::: indent
 **⟪दा⟫** 3 "dar"
@@ -76,7 +76,7 @@ Exempl:
 **⟪स्था⟫** 1 "stah"
 * 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
 :::
-## 33.2. La terza classa da prezens (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ e c.") <!-- TODO: Fallback translation -->
+## 33.2. La terza classa da prezens (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ e c.")
 
 ::: grammar-box
 **Educaziun:**
@@ -170,7 +170,7 @@ Exemplas:
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Las radis **⟪दा⟫** e **:sig[⟪धा⟫]** <!-- TODO: Fallback translation -->
+### 33.4.1. Las radis **⟪दा⟫** e **:sig[⟪धा⟫]**
 
 ::: grammar-box
 **Las radichas ⟪दा⟫ e :sig[⟪धा⟫] redupliceschan cun il vocal -a- e pierd en il Stamm fiac il vocal da la radicha.**
@@ -178,7 +178,7 @@ Exemplas:
 **Beachten Sie bei :sig[⟪धा⟫] das Hauchdissimilationsgesetz!**
 :::
 ::: grammar-box
-**:sig[⟪धा⟫]** 3U "setzar, fixar, distribuir" <!-- TODO: Fallback translation -->
+**:sig[⟪धा⟫]** 3U "setzar, fixar, distribuir"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Exemplas:
 | **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Las furmas da **⟪दा⟫** s’obtien, sche en il paradigma da **:sig[⟪धा⟫]** **dh** vegn sustituid cun **d**. Uschia: <!-- TODO: Fallback translation -->
+Las furmas da **⟪दा⟫** s’obtien, sche en il paradigma da **:sig[⟪धा⟫]** **dh** vegn sustituid cun **d**. Uschia:
 
 ::: grammar-box
 **⟪दा⟫** 3U "dar"
@@ -238,7 +238,7 @@ daquest:
 Abb.: ⟪दानम्⟫
 (fontana da l’imaginescha: [detagls](/rm/licenses#lekt3306))
 :::
-**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (en l’empègn) prender, s’appropriar, emportar <!-- TODO: Fallback translation -->
+**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (en l’empègn) prender, s’appropriar, emportar
 
 ::: indent
 **Absol.** ⟪आदाय⟫: cun accusativ: en cumpagnia da, cun
@@ -342,7 +342,7 @@ davon:
 **Kaus.** ⟪हापयति⟫  
 **PPP** ⟪हीन⟫: bandunà, privà, difettus  
 **Inf.** ⟪हातुम्⟫
-da PPP **⟪हीन⟫**: <!-- TODO: Fallback translation -->
+da PPP **⟪हीन⟫**:
 
 **⟪हीनयान⟫** n.: il mez da transport imperfect (dal Buddhismus): designaziun dispreziusa dals represchentants dal "grand mez da transport", dal **⟪महायान⟫**; la via imperfecta (**⟪यान⟫** a **⟪या⟫** 2: ir, viandar). L'expressiun ⟪हीनयान⟫ na duess betg pli vegnir duvrada. La forma che exista oz anc dal vegl Buddhismus numnescha **⟪थेरवाद⟫**.
 :::
@@ -365,7 +365,7 @@ Abb.: ⟪हीनयानमेव⟫
 Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Bildquelle: [Detagl](/rm/licenses#lekt3302))
 :::
-**⟪घृत⟫** n.: Burra da fundida, Ghee (⟪घी⟫ / گھی / ঘী) <!-- TODO: Fallback translation -->
+**⟪घृत⟫** n.: Burra da fundida, Ghee (⟪घी⟫ / گھی / ঘী)
 
 ::: note-box
 «Ghee vegn fatg cun stizzar butira senza sal en in grisch calder fin che tutta l'aua è evapurada e las proteïnas èn sa stabilidas al fund. La butira cotta e clarifitgada vegn alura levada cun in cucurà per evitar da disturbiar las residuas da latg al fund dal vas. A differenza da la butira po ghee vegnir stgischà per in temp pli lung senza refrigiraziun, sch'el vegn tegnì en in vas ermetic per evitar l'oxidaziun e restar senza umiditad. La textura, il colur u il gust da ghee dependa da la sura dal latg dal qual la butira è vegnida fatga. En l'India vegn ghee usitadamain fatg cun latg da bufalas, perquai ch'el è usitadamain pli cler che latg da vacca.»
@@ -417,17 +417,3 @@ Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-::: deleteme-box
-
-**Definizion e detagls da Ghee:**
-* Fonte: http://en.wikipedia.org/wiki/Ghee (access: 2008-12-26)
-
-**Lista d’imaginas & licenzas:**
-* **Im. lekt3306 (convidads da nozzas, Chennai):** Fonte da imagen: http://www.pbase.com/chandra/image/62118318 (access il 2008-12-27). Licenza Creative Commons (attribuziun, nagina utilizaziun commerziala, share alike).
-* **Im. lekt3307 (portatur da Udaipur):** Fonte da imagen: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, access il 2008-12-27). Licenza Creative Commons (attribuziun, nagina utilizaziun commerziala, nagina modificaziun).
-* **Im. lekt3305 (yogini Samadhi, Kaveripakkam):** Fonte da imagen: Quadell / Wikipedia (licenza GNU FDL).
-* **Im. lekt3304 (portatur bhaya, Mumbai):** Fonte da imagen: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, access il 2008-12-26). Licenza Creative Commons (attribuziun).
-* **Im. lekt3303 (Hinayana Thailand):** Fonte da imagen: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, access il 2008-12-26). Licenza Creative Commons (attribuziun, nagina utilizaziun commerziala).
-* **Im. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Fonte da imagen: Dey (http://www.flickr.com/photos/dey/466758922/, access il 2008-12-26). Licenza Creative Commons (attribuziun, nagina utilizaziun commerziala, share alike).
-* **Im. lekt3308 (portatura femina, Delhi):** Fonte da imagen: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, access il 2008-12-27). Licenza Creative Commons (attribuziun, nagina utilizaziun commerziala, nagina modificaziun).
-:::

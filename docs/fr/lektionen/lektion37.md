@@ -1,10 +1,11 @@
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "Leçon 37"
+subtitle: "L'adverbe (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 37
@@ -173,7 +174,7 @@ dériver les adverbes pronominaux correspondants.
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
 | **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
 | **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -193,7 +194,7 @@ Fig. : ⟪क्व⟫
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Composés adverbiaux
@@ -202,7 +203,7 @@ Fig. : ⟪क्व⟫
 
 Exemple : ⟪सुचिरम्⟩ « très longue (période) »
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫ <!-- TODO: Fallback translation -->
+### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
 
 Exemple : ⟪रक्षार्थम्⟩ « de la manière de quelqu’un dont le but est la protection, dans le but de protéger ». Peut également être considéré comme appartenant à 5.1. : -⟪अर्थम्⟩ comme complément adverbial.
 
@@ -245,12 +246,7 @@ au lieu d'un adjectif predicatif, un adverbe predicatif peut se trouver :
 
 par ex. ⟪तूष्णीं⟫ ⟪बभूव⟫ "il devint silencieux, il se tut"
 :::
-::: media
-![lekt3703.jpg](/images/lekt3703.webp)
-Fig. : ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Source de l'image : [Détails](/fr/licenses#lekt3703))
-:::
-## 37.7. Indefinitpronomina
+## 37.7. Pronoms indéfinis
 
 ::: grammar-box
 Les pronoms indéfinis (pronomina indefinita) se forment en ajoutant
@@ -259,35 +255,32 @@ Les pronoms indéfinis (pronomina indefinita) se forment en ajoutant
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-aux cas du pronom interrogatif ⟪किम्⟫.
+au cas du pronom interrogatif ⟪किम्⟫.
 
-par ex.
+Par exemple :
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = « quelqu'un, quelqu'un quelconque »  
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को ऽपि⟫ = "quelqu'un, n'importe qui"  
 ⟪कस्यचिद्⟫ = de quelqu'un
 :::
 ## 37.8. La phrase interrogative
 
 ::: grammar-box
-« Qui ?, comment ?, quoi, pourquoi ?  
-Celui qui ne demande reste stupide. »
+"Qui ?, comment ?, quoi ?, pourquoi ?  
+Qui ne demande reste ignorant."
 
-⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
-⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
-⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
+⟪कः कथं किं केन कस्मात्कस्मै । यो न पृच्छेन् मूर्खस्तिष्ठेत् ॥⟫
 
-Devise de la Rue Sésame, qui constitue une bonne ligne directrice pour la vie et l'étude du sanskrit
+Devise de Sesamstrasse, qui constitue une bonne ligne directrice pour la vie et l'étude du sanskrit
 :::
 Voir aussi [Leçon 4](lektion04.md).
 
 Il faut distinguer
 
-*   Les questions par mots (questions complémentaires)
-*   Les questions de phrase
+*   Les questions par mot (questions complémentaires)
+*   Les phrases interrogatives
 
-Dans les questions par mots, on demande un agent (⟪कर्तृ⟫), un objet, une action, une circonstance, etc., par exemple
+Dans les questions par mot, on demande un agent (⟪कर्तृ⟫), un objet, une action, une circonstance, etc., par exemple :
 
 *   qui vient ?
 *   que fait Rāma ?
@@ -295,22 +288,30 @@ Dans les questions par mots, on demande un agent (⟪कर्तृ⟫), un obj
 *   comment parle-t-elle le sanskrit ?
 *   où est la mère ?
 
-Dans les questions de phrase, tout le contenu de la phrase est interrogé, par exemple
+Dans les phrases interrogatives, c'est le contenu entier de la phrase qui est questionné, par exemple :
 
 *   Rāma va-t-il aujourd'hui à Ofterdingen ?
-*   est-il correct que ... ?
+*   est-ce vrai que ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen) <!-- TODO: Fallback translation -->
+### 37.8.1. Questions par mot (questions complémentaires)
 
 ::: grammar-box
 Schéma :
 
-« Qui ?, comment ?, quoi, pourquoi ?  
-Celui qui ne demande reste stupide. »
+Pronom interrogatif/adverbe interrogatif - Phrase
 :::
 Exemples :
 ::: indent
-Devise de la Rue Sésame, qui constitue une bonne ligne directrice pour la vie et l'étude du sanskrit
+⟪को ग्रामं गच्छति⟫ =  ⟪केन ग्रामो गम्यते⟫ = "Qui va au village ?"
+
+⟪किं बाला अधीयीरन्⟫ = "Que devraient apprendre les enfants ?"
+
+⟪क्व रामो वसति⟫ = Où habite Rāma ?
+:::
+::: media
+![lekt3704.jpg](/images/lekt3704.webp)
+Légende : ⟪किं बाला अधीयीरन्⟫
+(Source de l'image : [Détails](/fr/licenses#lekt3704))
 
 Voir aussi [Leçon 4](lektion04.md).
 
@@ -507,29 +508,4 @@ Fig. : ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪�
 ![lekt3711.jpg](/images/lekt3711.webp)
 Fig. : ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3711))
-:::
-8\. ⟪यथा⟫
 
-::: indent
-1.  ⟪यथास्थानम्⟫
-:::
-## 37.11. Wiederholungsübung
-
-Traduisez en sanskrit en utilisant exclusivement des formes verbales du parfait :
-
-Comme un jour un vieillard se rendit dans un autre village, il se fatigua en chemin. Alors il alla, pour se reposer, au pied d’un manguier qui se trouvait sur le côté. Sur cet arbre il y avait des fruits mûrs. Le vieillard eut envie de ces fruits. Mais il ne put grimper à l’arbre et saisir les fruits. Par chance, il y avait sur cet arbre des singes qui mangeaient des fruits. Lorsqu’il les aperçut, le vieillard se réjouit. Que fit-il ? Il prit quelques pierres, visa les singes et lança. Les singes, furieux, cueillirent des fruits et les jetèrent sur le vieillard. Le vieillard prit ces fruits avec joie et se rendit dans la région qu’il souhaitait. Voyez, le destin du vieillard !
-
-::: deleteme-box
-
-- **Image lekt3701.jpg** (Abb. : ⟪क्व⟫) : [Source de l’image : Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Consulté le 2008-12-30. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, pas de travaux dérivés)]
-- **Image lekt3702.jpg** (Abb. : ⟪यथाशक्ति⟫) : [Source de l’image : Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Consulté le 2008-12-30. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, pas de travaux dérivés)]
-- **Image lekt3703.jpg** (Abb. : ⟪तूष्णीं⟫ ⟪बभूवुः⟫) : Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Source de l’image : Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Consulté le 2008-12-30. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, pas de travaux dérivés)]
-- **Image lekt3704.jpg** (Abb. : ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫) : Kanchipuram = Kanchipuram [Source de l’image : mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Consulté le 2008-12-30. -- Licence Creative Commons (Attribution)]
-- **Image lekt3705.jpg** (Abb. : ⟪शाक्यमुनिः⟫) : Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Source de l’image : .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Consulté le 2008-12-31. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, pas de travaux dérivés)]
-- **Image lekt3706.jpg** (Abb. : ⟪वृक्षः⟫) : Jaipur [Source de l’image : counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Consulté le 2008-12-31. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, partage à l’identique)]
-- **Image lekt3707.jpg** (Abb. : ⟪कृष्णः⟫ ⟪बलरामश्च⟫) : Peinture de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Source de l’image : Wikipedia. Domaine public]
-- **Image lekt3708.jpg** (Abb. : ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫) : ⟪काशी⟫ = ⟪वाराणसी⟫ [Source de l’image : amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Consulté le 2008-12-31. -- Licence Creative Commons (Attribution)]
-- **Image lekt3709.jpg** (Abb. : ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫) : [Source de l’image : Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Consulté le 2008-12-31. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, pas de travaux dérivés)]
-- **Image lekt3710.jpg** (Abb. : ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫) : [Source de l’image : saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Consulté le 2008-12-31. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, partage à l’identique)]
-- **Image lekt3711.jpg** (Abb. : ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫) : Delhi = ⟪दहली⟫ / دہلی [Source de l’image : Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Consulté le 2008-12-31. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, pas de travaux dérivés)]
-:::

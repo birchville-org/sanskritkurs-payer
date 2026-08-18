@@ -5,7 +5,7 @@ lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lección 41
 
@@ -369,11 +369,6 @@ Fig.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (de ⟪सम्⟫-⟪हन्⟫ : golpear juntos): grupo, multitud, comunidad (por ejemplo, budista)
 
-::: deleteme-box
-véase también:
-
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho canónico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: joven chica, hija, doncella
 
 ⟪अति⟫ Prefijo verbal: sobre, por encima de, más allá (en el espacio, en el tiempo, en número, en cantidad, en orden, en poder, en intensidad), sumamente
@@ -404,16 +399,3 @@ Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫
 
 ⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
 
-::: deleteme-box
-
-- **Image lekt4102.jpg** (Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Fuente de la imagen: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución, uso no comercial)]
-- **Image lekt4103.jpg** (Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [Fuente de la imagen: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Acceso el 2009-01-03. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)]
-- **Image lekt4106.jpg** (Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): Templo Bahá'í de la Adoración, Delhi [Fuente de la imagen: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Acceso el 2009-01-03. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual)]
-- **Image lekt4107.jpg** (Fig.: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [Fuente de la imagen: Wikipedia. Dominio público]
-- **Image lekt4108.jpg** (Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, muelle de Manikarnika, 1922 [Fuente de la imagen: Biblioteca del Congreso de EE. UU./Wikipedia. Dominio público]
-- **Image lekt4105.jpg** (Fig.: ⟪भुजङ्गः⟫): Krait de bandas (_Bungarus fasciatus_) [Fuente de la imagen: J. Ewart. *The poisonous snakes of India*, 1878. Dominio público]
-- **Image lekt4104.jpg** (Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): ordeño de veneno de serpiente (krait), Tailandia [Fuente de la imagen: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Acceso el 2009-01-03. -- Licencia Creative Commons (Atribución)]
-- **Image lekt4109.jpg** (Fig.: ⟪शासना⟫): Edicto de Ashoka, Dhauli, Orissa [Fuente de la imagen: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Acceso el 2009-01-03. -- Licencia Creative Commons (Atribución, uso no comercial)]
-- **Image lekt4110.jpg** (Fig.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), ca. 1898 [Fuente de la imagen: Wikipedia. Dominio público]
-- **Image lekt4111.jpg** (Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ...): [Fuente de la imagen: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Acceso el 2009-01-04. -- Licencia Creative Commons (Atribución, sin obras derivadas)]
-:::

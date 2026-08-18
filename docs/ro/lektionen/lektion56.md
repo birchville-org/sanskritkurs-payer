@@ -142,13 +142,13 @@ Conform lucrării fundamentale:
 Fig.:
 Profesor de Lingvistică Comparată, Universitatea Erlangen-Nürnberg (1955 - 1983)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5601))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent
 Hoffmann, Karl \<1915 - 1996\>: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
 :::
-injunctivul în Veda are următoarele proprietăți: <!-- TODO: Fallback translation -->
+injunctivul în Veda are următoarele proprietăți:
 
 *   nu este narativ, ci menționativ
 *   este atemporal
@@ -211,7 +211,7 @@ Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit sytax. -- Leyden : Brill
 Fig.: ⟪अलं⟫  ⟪विषादेन⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
+## 56.4. ⟪स्म⟫
 
 ::: grammar-box
 **⟪स्म⟫ subliniază: "adevărat, cu adevărat, sigur, chiar"**
@@ -309,12 +309,3 @@ A) Determinați și traduceți fără instrumente de ajutor (!) următoarele for
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** Profesor de lingvistică comparată, Universitatea Erlangen-Nürnberg (1955 - 1983) [Sursa imaginii: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Accesat la 2009-02-27]
-
-**lekt5602:** Poster (Ernesto Che Guevara) al unui partid politic în Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). "Traducerea aproximativă a ceea ce este scris pe acesta ar fi: Martiriul este o experiență fascinantă pentru un revoluționar. Și o resursă înfricoșătoare pentru un laș. Che nu este un model de urmat pentru lași." [Sursa imaginii: Hari\_Menon. -- [http://www.flickr.com/photos/me\_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Accesat la 2009-02-27. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, share alike)]
-
-**lekt5603:** [Sursa imaginii: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Accesat la 2009-02-27. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
-
-:::

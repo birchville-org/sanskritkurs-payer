@@ -90,7 +90,7 @@ Exemplos:
 | Raiz | 3ª sg. Perf. P. | 3ª pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
 ### 34.2.5. Reduplicação de raízes que começam com vogal
@@ -104,7 +104,7 @@ Exemplos:
 
 | Raiz | 3ª sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "ser" e ⟪अस्⟫ 4 "lançar" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
+| ⟪अस्⟫ 2 "ser" e ⟪अस्⟫ 4 "lançar" | ⟪आस⟫:bra + as-a |
 
 :::
 ::: grammar-box
@@ -117,7 +117,7 @@ Exemplos:
 | Raiz | 3ª sg. Perf. P. | 3ª pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
-| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur | <!-- TODO: Fallback translation -->
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
 :::
 ::: grammar-box
@@ -159,7 +159,7 @@ Exemplos:
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
 | ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
 ## 34.5. Perfeito Tipo II: Tema forte grau guṇa, tema fraco grau zero
@@ -189,7 +189,7 @@ Exemplos:
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. e pl.:** semente, colheita, cereal <!-- TODO: Fallback translation -->
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. e pl.:** semente, colheita, cereal
 
 ::: media
 ![](/images/lekt3406.webp)
@@ -220,7 +220,7 @@ Lakshadweep Islands Map.
 Fig.: ⟪तिलाः⟫
 Sesame seeds.
 (Fonte da imagem: [Detalhes](/licenses#lekt3403))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -330,22 +330,5 @@ Explicações:
 Fig.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫:sig[⟪र्जन्म⟫] ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Ritual de casamento hindu.
 (Fonte da imagem: [Detalhes](/licenses#lekt3407))
-:::
-
-::: deleteme-box
-
-**lekt3401:** Estátua do Touro Nandi, Colinas de Chamundi, Mysore. [Fonte da imagem: Luna Park / Flickr. CC BY-NC-ND]
-
-**lekt3402:** Templo Dourado (Harmandir Sahib), Amritsar. [Fonte da imagem: Wikipedia. GNU FDL]
-
-**lekt3403:** Sementes de gergelim. [Fonte da imagem: Wikipedia. Domínio público]
-
-**lekt3404:** Planta de gergelim em floração. [Fonte da imagem: Franz Xaver / Wikipedia. GNU FDL]
-
-**lekt3405:** Lakshadweep Islands Map. [Fonte da imagem: CIA World Factbook. Domínio público]
-
-**lekt3406:** Rice field in India. [Fonte da imagem: Ray Witlin / World Bank. CC BY-NC-ND]
-
-**lekt3407:** Hindu wedding ritual. [Fonte da imagem: BriceFR / Flickr. CC BY-NC-SA]
 :::
 

@@ -9,96 +9,96 @@ status: stable
 
 # 第27課
 
-## 27.1. Gebrauch des Lokativ (⟪सप्तमी⟫ f. = "siebte Kasusendung") <!-- TODO: Fallback translation -->
+## 27.1. Gebrauch des Lokativ (⟪सप्तमी⟫ f. = "siebte Kasusendung")
 
 ::: grammar-box
 
-**Der Lokativ (⟪सप्तमी⟫) steht auf die Fragen:** <!-- TODO: Fallback translation -->
-*   **wo?** <!-- TODO: Fallback translation -->
-*   **wo?** <!-- TODO: Fallback translation -->
-*   **wann?** <!-- TODO: Fallback translation -->
-*   **in Bezug auf was?** <!-- TODO: Fallback translation -->
+**Der Lokativ (⟪सप्तमी⟫) steht auf die Fragen:**
+*   **wo?**
+*   **wo?**
+*   **wann?**
+*   **in Bezug auf was?**
 
 :::
 ::: grammar-box
 
-**1. Der Lokativ (⟪सप्तमी⟫) bezeichnet auf die Frage "Wo?" den Raum, in (an, auf, bei) welchem der Agens (⟪कर्ता⟫) oder das Objekt einer Handlung sich befindet oder wo die Handlung selbst vor sich geht.** <!-- TODO: Fallback translation -->
+**1. Der Lokativ (⟪सप्तमी⟫) bezeichnet auf die Frage "Wo?" den Raum, in (an, auf, bei) welchem der Agens (⟪कर्ता⟫) oder das Objekt einer Handlung sich befindet oder wo die Handlung selbst vor sich geht.**
 
-> ⟪नगरे⟫ ⟪वसति⟫ = "Er wohnt in der Stadt" <!-- TODO: Fallback translation -->
+> ⟪नगरे⟫ ⟪वसति⟫ = "Er wohnt in der Stadt"
 
 :::
 ::: media
 ![](/images/lekt2701.webp)
 Abb.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
-(Bildquelle: [Details](/licenses#lekt2701)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2701))
 :::
 
 ::: grammar-box
 
-**2. Der Lokativ bezeichnet auf die Frage "Wann?" den Zeitpunkt oder die äußeren Umstände:** <!-- TODO: Fallback translation -->
+**2. Der Lokativ bezeichnet auf die Frage "Wann?" den Zeitpunkt oder die äußeren Umstände:**
 
-> ⟪तस्मिन्काले⟫ = "zu jenem Zeitpunkt, zu dieser Zeit" <!-- TODO: Fallback translation -->
+> ⟪तस्मिन्काले⟫ = "zu jenem Zeitpunkt, zu dieser Zeit"
 
-**Hierher gehört auch der sog. Locativus Absolutus:** <!-- TODO: Fallback translation -->
+**Hierher gehört auch der sog. Locativus Absolutus:**
 
-**Bestimmt die Handlung oder der Zustand einer Person oder Sache die Zeit, zu welcher - oder die Umstände, unter denen - eine ANDERE Person oder Sache eine Handlung vollbringt oder sich in einem bestimmten Zustand befindet, so tritt das die erste Person oder Sache bezeichnende Wort zusammen mit dem dasselbe näher bestimmenden Wort (das häufig ein Partizip ist) in den Lokativ (⟪सप्तमी⟫):** <!-- TODO: Fallback translation -->
+**Bestimmt die Handlung oder der Zustand einer Person oder Sache die Zeit, zu welcher - oder die Umstände, unter denen - eine ANDERE Person oder Sache eine Handlung vollbringt oder sich in einem bestimmten Zustand befindet, so tritt das die erste Person oder Sache bezeichnende Wort zusammen mit dem dasselbe näher bestimmenden Wort (das häufig ein Partizip ist) in den Lokativ (⟪सप्तमी⟫):**
 
-> ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "während die Zeit so vergeht..." <!-- TODO: Fallback translation -->
-><!-- TODO: Fallback translation -->
-> ⟪तस्मिन्गते⟫ = "als er gegangen war..." <!-- TODO: Fallback translation -->
+> ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "während die Zeit so vergeht..."
+>
+> ⟪तस्मिन्गते⟫ = "als er gegangen war..."
 
-**Manchmal wird der Agens (⟪कर्ता⟫) nicht extra bezeichnet:** <!-- TODO: Fallback translation -->
+**Manchmal wird der Agens (⟪कर्ता⟫) nicht extra bezeichnet:**
 
-> ⟪एवं⟫ ⟪सति⟫ = "da es sich so verhält" <!-- TODO: Fallback translation -->
+> ⟪एवं⟫ ⟪सति⟫ = "da es sich so verhält"
 
-**Der Locativus absolutus muss je nach Zusammenhang übersetzt werden mit "während" (z.B. Partizip Präsens), "nachdem", "als" (z.B. PPP), "da", "weil", "obwohl", "wenn" u.s.w.** <!-- TODO: Fallback translation -->
+**Der Locativus absolutus muss je nach Zusammenhang übersetzt werden mit "während" (z.B. Partizip Präsens), "nachdem", "als" (z.B. PPP), "da", "weil", "obwohl", "wenn" u.s.w.**
 
-**Merke: beim Absolutivum muss Agens des Absolutivums und Agens der Hauptvers identisch sein, beim Locativus absolutus müssen der Agens des Locativus absolutus und der Agens des Hauptverbs verschieden sein.** <!-- TODO: Fallback translation -->
+**Merke: beim Absolutivum muss Agens des Absolutivums und Agens der Hauptvers identisch sein, beim Locativus absolutus müssen der Agens des Locativus absolutus und der Agens des Hauptverbs verschieden sein.**
 
 :::
 ::: media
 ![](/images/lekt2702.webp)
 Abb.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rajasthan.
-(Bildquelle: [Details](/licenses#lekt2702)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2702))
 :::
 
 ::: grammar-box
 
-**3. Der Lokativ steht auch auf die Frage "In Bezug auf was?" u.ä.:** <!-- TODO: Fallback translation -->
+**3. Der Lokativ steht auch auf die Frage "In Bezug auf was?" u.ä.:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Er hat Liebe zu seinem Sohn" (wörtl. "In Bezug auf den Sohn ist bei ihm Liebe") <!-- TODO: Fallback translation -->
+> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Er hat Liebe zu seinem Sohn" (wörtl. "In Bezug auf den Sohn ist bei ihm Liebe")
 
 :::
 ::: media
 ![](/images/lekt2703.webp)
 Abb.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
-(Bildquelle: [Details](/licenses#lekt2703)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2703))
 :::
 
 ::: grammar-box
 
-**4. Der Lokativ dient in den einheimischen Lexika und bei Kommentatoren zur Angabe der Bedeutung eines Worts:** <!-- TODO: Fallback translation -->
+**4. Der Lokativ dient in den einheimischen Lexika und bei Kommentatoren zur Angabe der Bedeutung eines Worts:**
 
-> ⟪भू⟫ ⟪सत्तायाम्⟫ = "die Wurzel ⟪भू⟫ in der Bedeutung 'Seiendheit' (sat-tā)" <!-- TODO: Fallback translation -->
+> ⟪भू⟫ ⟪सत्तायाम्⟫ = "die Wurzel ⟪भू⟫ in der Bedeutung 'Seiendheit' (sat-tā)"
 
 :::
-Weiteres zum Gebrauch des Lokativ später. <!-- TODO: Fallback translation -->
+Weiteres zum Gebrauch des Lokativ später.
 
-## 27.2. Bildung des Lokativ (⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
+## 27.2. Bildung des Lokativ (⟪सप्तमी⟫)
 
 ::: grammar-box
 
-**Die regulären Endungen des Lokativ (⟪सप्तमी⟫) sind:** <!-- TODO: Fallback translation -->
-*   **Singular: -i** <!-- TODO: Fallback translation -->
-*   **Plural: -su** <!-- TODO: Fallback translation -->
+**Die regulären Endungen des Lokativ (⟪सप्तमी⟫) sind:**
+*   **Singular: -i**
+*   **Plural: -su**
 
-**Beachten Sie die Lautveränderungen vor -su sowie die eventuelle Cerebralisation von -su zu -ṣu!** <!-- TODO: Fallback translation -->
+**Beachten Sie die Lautveränderungen vor -su sowie die eventuelle Cerebralisation von -su zu -ṣu!**
 
 :::
-### 27.2.1. Konsonantische Stämme <!-- TODO: Fallback translation -->
+### 27.2.1. Konsonantische Stämme
 
 ::: grammar-box
 
@@ -122,7 +122,7 @@ Weiteres zum Gebrauch des Lokativ später. <!-- TODO: Fallback translation -->
 | Femininum:brLokativ Plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
-### 27.2.3. Vokalische Stämme <!-- TODO: Fallback translation -->
+### 27.2.3. Vokalische Stämme
 
 ::: grammar-box
 
@@ -153,7 +153,7 @@ Weiteres zum Gebrauch des Lokativ später. <!-- TODO: Fallback translation -->
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
-**Signalrot gedruckt**: starke Kasus (bei Stammabstufung). <!-- TODO: Fallback translation -->
+**Signalrot gedruckt**: starke Kasus (bei Stammabstufung).
 
 ## 27.4. 包含 :sig[⟪राम⟫] 所有变格形式 (单数) 的诗句
 
@@ -161,112 +161,112 @@ Weiteres zum Gebrauch des Lokativ später. <!-- TODO: Fallback translation -->
 ![](/images/lekt2708.webp)
 Abb.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
-(Bildquelle: [Details](/licenses#lekt2708)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2708))
 :::
 *:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫
 *:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
 *:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫
 *:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
 
-**Übersetzung:** <!-- TODO: Fallback translation -->
-1. **Nominativ:** Rāma, das Juwel (⟪मणि⟫ m.) unter den Königen (⟪राजन्⟫ m.) siegt immer (⟪सदा⟫). <!-- TODO: Fallback translation -->
-2. **Akkusativ:** Ich liebe (⟪भज्⟫ 1U) den Rāma, den Gebieter und Gatten (⟪ईश⟫ m.) der Ramā (= Lakṣmī). <!-- TODO: Fallback translation -->
-3. **Instrumentalis:** Rāma hat das Heer (⟪चमू⟫ f.) der Nachtstreuner (= Dämonen) (⟪निशा⟫ f. = Nacht) getötet. <!-- TODO: Fallback translation -->
-4. **Dativ:** Diesem Rāma sei Verehrung! <!-- TODO: Fallback translation -->
-5. **Ablativ:** Es gibt keine bessere (⟪परतर⟫ 3) Zuflucht (⟪परायण⟫ n.) als Rāma. <!-- TODO: Fallback translation -->
-6. **Genetiv:** Ich (⟪अहम्⟫) bin (⟪अस्मि⟫) ein Knecht Rāmas. <!-- TODO: Fallback translation -->
-7. **Lokativ:** In Rāma sei (⟪भवतु⟫) immer die Ruhe (⟪लय⟫ m.) meines (⟪मे⟫) Herzens. <!-- TODO: Fallback translation -->
-8. **Vokativ:** Rāma, errette (⟪उद्धर⟫ = Imperativ zu ⟪उद्⟫ + ⟪हृ⟫ bzw. ⟪उद्⟫ + ⟪धृ⟫) mich (⟪माम्⟫)! <!-- TODO: Fallback translation -->
+**Übersetzung:**
+1. **Nominativ:** Rāma, das Juwel (⟪मणि⟫ m.) unter den Königen (⟪राजन्⟫ m.) siegt immer (⟪सदा⟫).
+2. **Akkusativ:** Ich liebe (⟪भज्⟫ 1U) den Rāma, den Gebieter und Gatten (⟪ईश⟫ m.) der Ramā (= Lakṣmī).
+3. **Instrumentalis:** Rāma hat das Heer (⟪चमू⟫ f.) der Nachtstreuner (= Dämonen) (⟪निशा⟫ f. = Nacht) getötet.
+4. **Dativ:** Diesem Rāma sei Verehrung!
+5. **Ablativ:** Es gibt keine bessere (⟪परतर⟫ 3) Zuflucht (⟪परायण⟫ n.) als Rāma.
+6. **Genetiv:** Ich (⟪अहम्⟫) bin (⟪अस्मि⟫) ein Knecht Rāmas.
+7. **Lokativ:** In Rāma sei (⟪भवतु⟫) immer die Ruhe (⟪लय⟫ m.) meines (⟪मे⟫) Herzens.
+8. **Vokativ:** Rāma, errette (⟪उद्धर⟫ = Imperativ zu ⟪उद्⟫ + ⟪हृ⟫ bzw. ⟪उद्⟫ + ⟪धृ⟫) mich (⟪माम्⟫)!
 
 ## 27.5. 词汇表
 
-**⟪वस्⟫** 1P (⟪वसति⟫): verweilen, wohnen (mit Lokativ der Person, bei der man wohnt) <!-- TODO: Fallback translation -->
+**⟪वस्⟫** 1P (⟪वसति⟫): verweilen, wohnen (mit Lokativ der Person, bei der man wohnt)
 
 ::: indent
 **Fut.:** ⟪वत्स्यति⟫
 **Pass.:** ⟪उष्यते⟫
 **PPP:** ⟪उषित⟫
-**Inf.:** ⟪वस्तुम्⟫ <!-- TODO: Fallback translation -->
+**Inf.:** ⟪वस्तुम्⟫
 :::
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-**⟪वस्तु⟫** n.: Sitz, Ort; Realie, reales Ding, Wirklichkeit, Gegenstand <!-- TODO: Fallback translation -->
+**⟪वस्तु⟫** n.: Sitz, Ort; Realie, reales Ding, Wirklichkeit, Gegenstand
 
 :::
 ::: indent
-**⟪वस्तुतस्⟫**: in Wirklichkeit, wirklich <!-- TODO: Fallback translation -->
+**⟪वस्तुतस्⟫**: in Wirklichkeit, wirklich
 :::
-**⟪वस्⟫** 2Ā (⟪वस्ते⟫): anziehen (Kleidung), tragen (Kleidung) <!-- TODO: Fallback translation -->
+**⟪वस्⟫** 2Ā (⟪वस्ते⟫): anziehen (Kleidung), tragen (Kleidung)
 
 ::: indent
 **Fut.:** ⟪वसिष्यते⟫
 **PPP:** ⟪वसित⟫
-**Inf.:** ⟪वसितुम्⟫ <!-- TODO: Fallback translation -->
+**Inf.:** ⟪वसितुम्⟫
 :::
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-**⟪वस्त्र⟫** n.: Mittel, um sich anzuziehen = Kleid, Gewand, Stoff <!-- TODO: Fallback translation -->
+**⟪वस्त्र⟫** n.: Mittel, um sich anzuziehen = Kleid, Gewand, Stoff
 :::
 ::: media
 ![](/images/lekt2706.webp)
 Abb.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
-(Bildquelle: [Details](/licenses#lekt2706)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2706))
 :::
-**⟪वस्⟫** 6P (⟪उच्छति⟫): aufleuchten (diese Wurzel ist wichtig wegen der Nominalbildungen:) <!-- TODO: Fallback translation -->
+**⟪वस्⟫** 6P (⟪उच्छति⟫): aufleuchten (diese Wurzel ist wichtig wegen der Nominalbildungen:)
 
 ::: indent
-**⟪वसु⟫** n.: Reichtum, Schatz, Habe, Besitz <!-- TODO: Fallback translation -->
+**⟪वसु⟫** n.: Reichtum, Schatz, Habe, Besitz
 
-**⟪वसन्त⟫** m.: ("leuchtend" =) Frühling (März bis Mai) <!-- TODO: Fallback translation -->
+**⟪वसन्त⟫** m.: ("leuchtend" =) Frühling (März bis Mai)
 :::
 ::: media
 ![](/images/lekt2707.webp)
 Abb.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Bildquelle: [Details](/licenses#lekt2707)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2707))
 :::
-**⟪हृ⟫** 1U (⟪हरति⟫): halten, tragen; holen, wegnehmen, rauben <!-- TODO: Fallback translation -->
+**⟪हृ⟫** 1U (⟪हरति⟫): halten, tragen; holen, wegnehmen, rauben
 
 ::: indent
 **Fut.:** ⟪हरिष्यति⟫
 **Pass.:** ⟪ह्रियते⟫
 **PPP:** ⟪हृत⟫
-**Inf.:** ⟪हर्तुम्⟫ <!-- TODO: Fallback translation -->
+**Inf.:** ⟪हर्तुम्⟫
 :::
-davon: <!-- TODO: Fallback translation -->
+davon:
 
 ::: indent
-**⟪हर⟫** 3: wegnehmend; m.: der Zerstörer = Beiname von Śiva <!-- TODO: Fallback translation -->
+**⟪हर⟫** 3: wegnehmend; m.: der Zerstörer = Beiname von Śiva
 :::
-Gegenstück zu **⟪हर⟫**: <!-- TODO: Fallback translation -->
+Gegenstück zu **⟪हर⟫**:
 
-**⟪हरि⟫** 3: blond, gelb, grün; m. Beiname des Viṣṇu (gehört nicht zur Wurzel ⟪हृ⟫ 1) <!-- TODO: Fallback translation -->
+**⟪हरि⟫** 3: blond, gelb, grün; m. Beiname des Viṣṇu (gehört nicht zur Wurzel ⟪हृ⟫ 1)
 
-**⟪हरिहर⟫** m.: Viṣṇu und Śiva vereint als eine einzige Gottheit. <!-- TODO: Fallback translation -->
+**⟪हरिहर⟫** m.: Viṣṇu und Śiva vereint als eine einzige Gottheit.
 
 ::: media
 ![](/images/lekt2704.webp)
 Abb.: ⟪हरिहरः⟫
 Harihara (links: Viṣṇu, rechts: Śiva).
-(Bildquelle: [Details](/licenses#lekt2704)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.webp)
 Abb.: ⟪हरिहरः⟫
 Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
-(Bildquelle: [Details](/licenses#lekt2705)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2705))
 :::
 ## 27.6. 练习
 
-**A) Setzen Sie im folgenden Satz die Ausdrücke in der Klammer im Lokativ (⟪सप्तमी⟫) Singular und - wo es sinnvoll ist - Plural ein. Beachten Sie den verschiedenen Sandhi, d.h. schreiben Sie jedesmal den vollen Satz aus!** <!-- TODO: Fallback translation -->
+**A) Setzen Sie im folgenden Satz die Ausdrücke in der Klammer im Lokativ (⟪सप्तमी⟫) Singular und - wo es sinnvoll ist - Plural ein. Beachten Sie den verschiedenen Sandhi, d.h. schreiben Sie jedesmal den vollen Satz aus!**
 
 ⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫ (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
 
-**B) Übersetzen Sie und lösen Sie die Komposita auf:** <!-- TODO: Fallback translation -->
+**B) Übersetzen Sie und lösen Sie die Komposita auf:**
 
 ⟪धर्मं⟫ ⟪वदति⟫ ⟪गुरौ⟫ ⟪दुर्जना⟫ ⟪न⟫ ⟪शृण्वन्ति⟫ ⟪॥१॥⟫
 
@@ -278,7 +278,7 @@ Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
 ![](/images/lekt2709.webp)
 Abb.: ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥⟫
 Gemälde von Rāja Ravi Varmā (1848 - 1906).
-(Bildquelle: [Details](/licenses#lekt2709)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2709))
 :::
 ⟪पुत्रे⟫ ⟪मृतेऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫
 
@@ -315,7 +315,7 @@ Gemälde von Rāja Ravi Varmā (1848 - 1906).
 ![](/images/lekt2711.webp)
 Abb.: ⟪नराः⟫
 Naran. Udaipur.
-(Bildquelle: [Details](/licenses#lekt2711)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2711))
 :::
 ### 27.7.2. Neutra auf -a: ⟪फल⟫
 
@@ -336,7 +336,7 @@ Naran. Udaipur.
 ![](/images/lekt2710.webp)
 Abb.: ⟪फलानि⟫
 Früchte. Bangalore.
-(Bildquelle: [Details](/licenses#lekt2710)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2710))
 :::
 ### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
 
@@ -357,7 +357,7 @@ Früchte. Bangalore.
 ![](/images/lekt2718.webp)
 Abb.: ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore.
-(Bildquelle: [Details](/licenses#lekt2718)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2718))
 :::
 ### 27.7.4. Maskulina auf -i: ⟪अरि⟫
 
@@ -378,7 +378,7 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Cham
 ![](/images/lekt2712.webp)
 Abb.: ⟪अरयः⟫
 Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Beato (1833/1834 - ca. 1907).
-(Bildquelle: [Details](/licenses#lekt2712)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2712))
 :::
 ### 27.7.5. Feminina auf -i: ⟪मति⟫
 
@@ -414,7 +414,7 @@ Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Bea
 ![](/images/lekt2713.webp)
 Abb.: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
-(Bildquelle: [Details](/licenses#lekt2713)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2713))
 :::
 ### 27.7.7. Feminina auf -u: ⟪धेनु⟫
 
@@ -435,7 +435,7 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 ![](/images/lekt2714.webp)
 Abb.: ⟪धेनुः⟫
 Kuh in Udaipur.
-(Bildquelle: [Details](/licenses#lekt2714)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2714))
 :::
 ### 27.7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫
 
@@ -456,7 +456,7 @@ Kuh in Udaipur.
 ![](/images/lekt2715.webp)
 Abb.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
-(Bildquelle: [Details](/licenses#lekt2715)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2715))
 :::
 ### 27.7.9. 以 -ant 结尾的⟪परस्मैपद⟫现在分词：⟪सन्त्⟫
 
@@ -477,7 +477,7 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 ![](/images/lekt2716.webp)
 Abb.: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
-(Bildquelle: [Details](/licenses#lekt2716)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt2716))
 :::
 ### 27.7.10. ⟪महान्त्⟫
 
@@ -586,29 +586,6 @@ Sai Baba of Shirdi (1835 - 1918).
 ![](/images/lekt2717.webp)
 Abb.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
-(Bildquelle: [Details](/licenses#lekt2717)) <!-- TODO: Fallback translation -->
-:::
-
-::: deleteme-box
-
-**lekt2701:** Jaipur, 1875. [Bildquelle: Wikipedia. Public domain]
-**lekt2702:** Rajasthan. [Bildquelle: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** Holi. [Bildquelle: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Harihara (links: Viṣṇu, rechts: Śiva). [Bildquelle: Wikipedia. Public domain]
-**lekt2705:** Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal. [Bildquelle: GourangaUK / Wikipedia. GNU FDLicense]
-**lekt2706:** Vastrāṇi. Majuli, Assam. [Bildquelle: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Bildquelle: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Rāma-Satz. [Bildquelle: Wikipedia. Public domain]
-**lekt2709:** Gemälde von Rāja Ravi Varmā (1848 - 1906). [Bildquelle: Wikipedia. Public domain]
-**lekt2710:** Früchte. Bangalore. [Bildquelle: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Naran. Udaipur. [Bildquelle: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Beato (1833/1834 - ca. 1907). [Bildquelle: Wikipedia. Public domain]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Bildquelle: Wikipedia, GNU FDLicense]
-**lekt2714:** Kuh in Udaipur. [Bildquelle: Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Bildquelle: Wikipedia. Public domain]
-**lekt2716:** Sai Baba of Shirdi (1835 - 1918). [Bildquelle: Wikipedia. Public domain]
-**lekt2717:** Tsunami 2005, Sri Lanka. [Bildquelle: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore. [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
+(Bildquelle: [Details](/licenses#lekt2717))
 :::
 

@@ -771,35 +771,3 @@ sig[⟪ॐ⟫]
 КОНЕЦ КУРСА САНСКРИТА
 :::
 
-::: deleteme-box
-
-**lekt6102:** [Источник изображения: Всемирный банк / Керт Карнемарк. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Дата обращения: 2009-03-06. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Указание авторства, некоммерческое использование, без производных произведений)]
-
-**lekt6106:** ⟪काशीपुर⟫ [Источник изображения: Сумит. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Дата обращения: 2009-03-09. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Указание авторства, некоммерческое использование, с сохранением лицензии)]
-
-**lekt6107:** ⟪जोधपुर⟫ [Источник изображения: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Дата обращения: 2009-03-09. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Указание авторства, некоммерческое использование, с сохранением лицензии)]
-
-**lekt6104:** Карнатака = ಕರ್ನಾಟಕ [Источник изображения: Flickr Джессики Рэббит. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Дата обращения: 2009-03-08. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Указание авторства, некоммерческое использование, без производных произведений)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Источник изображения: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Дата обращения: 08.03.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (с указанием авторства)]
-
-**lekt6103:** [Источник изображения: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Дата обращения: 08.03.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (с указанием авторства, некоммерческое использование)]
-
-**lekt6109:** ⟪मुंबई⟫ [Источник изображения: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Дата обращения: 09.03.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (с указанием авторства, некоммерческое использование, без производных произведений)]
-
-**lekt6110:** Карли [Источник изображения: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Дата обращения: 09.03.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (с указанием авторства, некоммерческое использование, без производных произведений)]
-
-**lekt6111:** [Источник изображения: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Дата обращения: 09.03.2009. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (с указанием авторства, с сохранением условий)]
-
-**lekt6113:** Таиланд - เมืองไทย [Источник изображения: Парусник "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Дата обращения: 2009-03-09. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Указание авторства, некоммерческое использование, без производных произведений)]
-
-**lekt6112:** 1845 - 1878 Профессор индийской и восточной филологии в Копенгагенском университете
-
-**lekt6114:** Базилика Святого Креста, Кочи = കൊച്ചി [Источник изображения: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Дата обращения: 2009-03-09. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Указание авторства, некоммерческое использование)]
-
-**lekt6118:** [Источник изображения: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Дата обращения: 2009-03-09. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Указание авторства)]
-
-**lekt6117:** Народ апатани, Аруначал-Прадеш [Источник изображения: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Дата обращения: 2009-03-09. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Указание авторства)]
-
-**lekt6101:** Халебиду (ಹಳೆಬೀಡು), XII/XIII вв. н. э. [Источник изображения: Quadell / Wikipedia. Лицензия GNU FDL]
-:::

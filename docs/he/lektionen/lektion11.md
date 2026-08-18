@@ -5,17 +5,10 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # שיעור 11
 
-::: deleteme-box
-**בשיעור זה תלמדו:**
-- את האקוזטיב הכפול (אקוזטיב של אדם ואקוזטיב של דבר)
-- את השימוש בחלקיקים **iti**, **evam** ו-**na**
-- מושגים בסיסיים כמו **dharma**, **adharma** ו-**putra**
-- יצירת שמות עצם מהשורשים **vad**, **prach** ו-**iṣ**
-:::
 ## 11.1. אקוזטיב כפול
 
 ::: grammar-box
@@ -71,7 +64,7 @@ status: stable
 מקור התמונה: [פרטים](/he/licenses#lekt1102)
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : לשאול
-  - **praśna** m. ⟪प्रश्न⟫ : שאלה (סיומת **-na** כמו ב-**yaj-ña**) <!-- TODO: Fallback translation -->
+  - **praśna** m. ⟪प्रश्न⟫ : שאלה (סיומת **-na** כמו ב-**yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : לרצות
   - **iṣṭi** f. ⟪इष्टि⟫ : רצון (**iṣ** + **-ti**)
@@ -145,4 +138,3 @@ status: stable
 איור: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (מקור התמונה: [פרטים](/he/licenses#lekt1103))
 :::
- <!-- TODO: Fallback translation -->

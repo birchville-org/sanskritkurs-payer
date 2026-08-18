@@ -54,7 +54,7 @@ Jaipur, 1875.
 
 **ⲛⲧⲉ ϫⲓϥⲙⲟⲗ ⲛⲧⲉ ϫⲓϥⲙⲟⲗ ⲛϣⲟⲡ "ⲛϣⲟⲡ" (ⲉ.g. ⲛⲧⲉ ϫⲓϥⲙⲟⲗ ⲛⲧⲉ ϫⲓϥⲙⲟⲗ), "ⲛϣⲟⲡ", "ⲉϥϣⱧ" (ⲉ.g. ⲛⲧⲉ ϫⲓϥⲙⲟⲗ ⲛⲧⲉ ϫⲓϥⲙⲟⲗ), "ⲛϣⲟⲡ", "ⲛϣⲟⲡ", "ⲛϣⲟⲡ" ⲉ.g.w.**
 
-**ⲧⲉϫⲓ: ⲛⲁⲕ ϩⲙ ⲡⲓϭⲉⲛⲟⲩⲃ ⲡⲓⲁϫⲉⲛ ϩⲙ ⲡⲓϭⲉⲛⲟⲩⲃ ⲡⲓⲁϫⲉⲛ ϩⲙ ⲡⲓⲁϫⲉⲛ ϩⲙ ⲡⲓⲁϫⲉⲛ ϩⲙ ⲡⲓⲁϫⲉⲛ.** <!-- TODO: Fallback translation -->
+**ⲧⲉϫⲓ: ⲛⲁⲕ ϩⲙ ⲡⲓϭⲉⲛⲟⲩⲃ ⲡⲓⲁϫⲉⲛ ϩⲙ ⲡⲓϭⲉⲛⲟⲩⲃ ⲡⲓⲁϫⲉⲛ ϩⲙ ⲡⲓⲁϫⲉⲛ ϩⲙ ⲡⲓⲁϫⲉⲛ ϩⲙ ⲡⲓⲁϫⲉⲛ.**
 
 :::
 ::: media
@@ -80,14 +80,14 @@ Holi.
 
 ::: grammar-box
 
-**4. Der Lokativ dient in den einheimischen Lexika und bei Kommentatoren zur Angabe der Bedeutung eines Worts:** <!-- TODO: Fallback translation -->
+**4. Der Lokativ dient in den einheimischen Lexika und bei Kommentatoren zur Angabe der Bedeutung eines Worts:**
 
 > ⟪भू⟫ ⟪सत्तायाम्⟫ = "die Wurzel ⟪भू⟫ in der Bedeutung 'Seiendheit' (sat-tā)"
 
 :::
 Weiteres zum Gebrauch des Lokativ später.
 
-## 27.2. Bildung des ⲗⲟⲕⲁⲧⲓⲃ (⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
+## 27.2. Bildung des ⲗⲟⲕⲁⲧⲓⲃ (⟪सप्तमी⟫)
 
 ::: grammar-box
 
@@ -122,7 +122,7 @@ Weiteres zum Gebrauch des Lokativ später.
 | Femininum:brLokativ Plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
-### 27.2.3. Vokalische Stämme <!-- TODO: Fallback translation -->
+### 27.2.3. Vokalische Stämme
 
 ::: grammar-box
 
@@ -587,28 +587,5 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 Abb.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Bildquelle: [Details](/licenses#lekt2717))
-:::
-
-::: deleteme-box
-
-**lekt2701:** Ⲓⲁⲓⲡⲟⲣ, 1875. [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
-**lekt2702:** ⲣⲁϫⲓⲥⲧⲁⲛ. [Πηγή εικόνας: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** ⲭⲟⲗⲓ. [Πηγή εικόνας: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Ⲑⲏⲣⲁⲭⲣⲉ (αριστερά: Ⲡⲓϫⲛⲟⲩ, δεξιά: Ⲥⲓϫ). [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
-**lekt2705:** Ⲑⲏⲣⲁϫⲣⲉ (αριστερά: Ⲡⲓϫⲛⲟⲩ, δεξιά: Ⲥⲓϫ). Γκοδρουντβίπ, Δυτικό Μπέγκαλ. [Πηγή εικόνας: GourangaUK / Wikipedia. GNU FDLicense]
-**lekt2706:** Ⲱⲥτⲁⲣⲛⲓ. ΜοϿούλι, Ⲁσάμ. [Πηγή εικόνας: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Ⲱⲥⲁⲛτⲁ (Schleichera oleosa), ⲭⲟⲡⲱⲗⲓ, Μαχαράστρα, 2007-04-07. [Πηγή εικόνας: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Ⲥⲁτ ϣⲉⲙ. [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
-**lekt2709:** Ζωγραφικό έργο του Ράτζα Ράβι Βάρμα (1848 - 1906). [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
-**lekt2710:** Φρούτα. Μπανγκαλόρ. [Πηγή εικόνας: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Ναραν. Ουντάιπⲣ. [Πηγή εικόνας: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Εκτέλεση δύο συμμετεχόντων στην εξέγερση του 1857. Φωτογραφία του Felice Beato (1833/1834 - περ. 1907). [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
-**lekt2713:** Μαχάρισι Μάχεσ Γιόγκι (1917 - 2008) Γκούρου. [Πηγή εικόνας: Wikipedia, GNU FDLicense]
-**lekt2714:** Αγελάδα στο Ουντάιπⲣ. [Πηγή εικόνας: Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Τριδέβι (Λακσμί, Παρβάτι, Σαρασβάτι). [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
-**lekt2716:** Σάι Μπάμπα του Σίρντι (1835 - 1918). [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
-**lekt2717:** Τσουνάμι 2005, Σρι Λάνκα. [Πηγή εικόνας: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Μαχαρανί Βάνι Βιλάσα Σαννιδάνα (1866 - 1934) με τον εγγονό της πρίγκιπα Τζάγια Τσαμαράτζα Βαντιάρ, Μύσορ. [Πηγή εικόνας: Wikipedia. Δημόσιος τομέας]
-
 :::
 

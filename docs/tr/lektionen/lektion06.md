@@ -10,15 +10,6 @@ status: stable
 
 # Ders 6
 
-::: deleteme-box
-**Bu derste şunları öğreneceksiniz:**
-Fiil cümlesinin yapısı (Özne ve fiil biçimi)
-Fiil biçimlerinin oluşturulması (Parasmaipada, Ātmanepada, Edilgen)
-Fiilin kipleri ve zamanları
-Şimdiki zaman bildirme kipi (laṭ) ve 3. şahıs için birincil ekler
-Şimdiki zaman kökünün oluşturulması (Sınıflar 1, 4 ve 6)
-Ünlü değişimi (Ablaut: Guṇa ve Vṛddhi)
-:::
 ## 6.1. Fiil Cümlesi
 
 ::: grammar-box

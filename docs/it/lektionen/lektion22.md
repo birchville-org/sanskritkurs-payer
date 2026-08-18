@@ -261,14 +261,3 @@ Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2204))
 :::
 
-::: deleteme-box
-
-**lekt2201:** Goa = ⟪गोंय⟫ [Fonte dell'immagine: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
-
-**lekt2202:** Secolo XIX [Fonte dell'immagine: Wikipedia, dominio pubblico]
-
-**lekt2203:** Kolkatta = কলকাতা [Fonte dell'immagine: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
-
-**lekt2204:** [Fonte dell'immagine: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
-:::
-

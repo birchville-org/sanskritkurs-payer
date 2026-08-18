@@ -38,7 +38,7 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
 | **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.Kl.: -atu** :br(aus. -\*ntu) | \-atām:br(da: -\*ntām) |
 :::
-Obs.: ¹ Las desinenzas da la 2. e la 3. sg.P ponnan vegnir sustituidas cun -tāt, sche in desideri da benedicziun duess esser exprimmà. -tāt apparisc (era en la 3. sg.P) al stem faivel. <!-- TODO: Fallback translation -->
+Obs.: ¹ Las desinenzas da la 2. e la 3. sg.P ponnan vegnir sustituidas cun -tāt, sche in desideri da benedicziun duess esser exprimmà. -tāt apparisc (era en la 3. sg.P) al stem faivel.
 
 ::: grammar-box
 | **Per la furma dal desinentza dal 2.sg.Imperativ.P:** ||
@@ -152,7 +152,7 @@ Nota: ¹ Explicaziun da **⟪जहि⟫** vesai Thumb-Hauschild I,2 p. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Terza classa da prezens (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
+### 48.2.4. Terza classa da prezens (⟪जुहोत्यादि⟫)
 
 ::: grammar-box
 **La finis 3.pl.P en -atu !**
@@ -191,7 +191,7 @@ Nota: ¹ **⟪धेहि⟫** da \*dhazdhi: perdita da la sibilante indoeurope
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Concerne la furmaziun nominala: sufixs ⟪तद्धित⟫ -a e -ya <!-- TODO: Fallback translation -->
+## 48.3. Concerne la furmaziun nominala: sufixs ⟪तद्धित⟫ -a e -ya
 
 ::: grammar-box
 Cun il suffix **-a** e (raramain) **-ya** po in num derivar in auter num. En questa cundiziun, la emprimasilba dal num original riceva il stadi da distensiun (**⟪वृद्धि⟫**). Sche la radis dal num original finischa gia cun **-a**, alura è la **⟪वृद्धि⟫** l’unic sign da la derivaziun, perquai che nagina midada n’avien sin la fin da la radis.
@@ -207,7 +207,7 @@ p.ex.
 
 Las paraulas uschei formadas èn adiectivs, ma pon esser substantivadas, per exempel sco patronyms (furma da num suenter il bab: "figl dal N.N.") u abstracts (per la mai part neutras).
 :::
-Exempels: <!-- TODO: Fallback translation -->
+Exempels:
 
 ::: indent
 | Grundwort | Ableitung |
@@ -228,7 +228,7 @@ Exempels: <!-- TODO: Fallback translation -->
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
+| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
 
 Avant il sufix **-ya** vegn la fin dal stem tractada similmaint sco avant il sufix **-a**.
 :::
@@ -237,7 +237,7 @@ Vesair ils exempels sutvart!
 ::: grammar-box
 **Mediant questas suffissas ponan er anque derivaziuns da cumponiments.**
 
-z.B. **⟪स्वश्व⟫** m. "der, dessen Pferde gut sind" Eigenname » **⟪सौवश्व⟫** m. "Nachkomme des Svaśva" <!-- TODO: Fallback translation -->
+z.B. **⟪स्वश्व⟫** m. "der, dessen Pferde gut sind" Eigenname » **⟪सौवश्व⟫** m. "Nachkomme des Svaśva"
 
 **Per cumposts, nua ch’il sandhi en la part avantala -i u -u final vegn sustituid cun -y u -v e uschia precedeschan il prim vocal dal pled fundamental (p.ex. cumposts cun ni-, vi-, su-), vegn la ⟪वृद्धि⟫ formà sco sche -iy u -uv stuessan esser.**
 
@@ -248,7 +248,7 @@ z.B. **⟪व्याघ्र⟫** m. "Tiger" » **⟪वैयाघ्र⟫
 Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Bildquelle: [Details](/rm/licenses#lekt4801))
 :::
-## 48.4. Glista da pleds <!-- TODO: Fallback translation -->
+## 48.4. Glista da pleds
 
 ⟪श्वस्⟫ : damain
 
@@ -265,7 +265,7 @@ Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Sursa d’imagina: [Detagls](/rm/licenses#lekt4802))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: media
@@ -308,7 +308,7 @@ Imagg.: ⟪कुमारः⟫
 Festa da Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 (Sursa da l'imaggin: [Detagls](/rm/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: giuvna, figlia <!-- TODO: Fallback translation -->
+⟪कुमारी⟫ f.: giuvna, figlia
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -328,7 +328,7 @@ Imag.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (alt) vegl <!-- TODO: Fallback translation -->
+⟪स्थाविर⟫ n.: (alt) vegl
 
 ⟪वाच्य⟫ 3: anque: blamabel
 
@@ -356,7 +356,7 @@ Fig.: ⟪मम⟫ ⟪जाया⟫
 (Imagin: Payer)
 (Sursa d’imagin: [Detagls](/rm/licenses#lekt4809))
 :::
-## 48.5. Exercizi <!-- TODO: Fallback translation -->
+## 48.5. Exercizi
 
 A) Traducì la ⟨सुभाषितानि⟩ al cumenzament da la lecziun.
 
@@ -406,23 +406,3 @@ B) Traducì in Sanscrit (utilisar il imperativ ed usar perquam radis da la 2. e 
 Explicaziun:  
 :sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual a ⟪द्वे⟫ ⟪कुले⟫ "duas famiglias"
 
-::: deleteme-box
-
-**lekt4801:** [Quella da l’imagines: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Access il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (numinaziun, nagina utilisaziun commerziala, cumparegliaivel)]
-
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Font dal dretg d'imaggin: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Access il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (numinaziun, nagina utilisaziun cummerciala, cun istessa licenza)]
-
-**lekt4803:** Sitarspieler = ⟪सितारवादकः⟫ [Quellbild: Wikipedia. Gemeinfrei] <!-- TODO: Fallback translation -->
-
-**lekt4804:** [Gruppa d’autoadiutanza (GAA)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [fonte da l’imagine: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- consultà il 2009-01-10. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (numinaziun, nagina utisaziun cummerciala)]
-
-**lekt4805:** Fest da Thaipusam = தைப்பூசம், Batu Caves, Malaysia [fonte da figura: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- consultà il 2009-01-10. -- [licenza Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (attribuziun)]
-
-**lekt4806:** ⟪नेपाल⟫ [Quella da l’imagina: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Access il 2009-01-10. -- [Licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (numnada, nagina utilisaziun cummerciala, nagina modificaziun)]
-
-**lekt4807:** ⟪जोधपुर⟫ [fonte da l'imagines: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- consultà il 2009-01-10. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (attribuziun, nagina utilizaziun cummerciala, nagina modificaziun)]
-
-**lekt4808:** Karanji-See = ಕಾರಂಜಿ ಕೆರೆ [fonte da imagem: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Acziun il 2009-01-10. -- [licenza Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (numnag, share alike)] <!-- TODO: Fallback translation -->
-
-**lekt4809:** (Bilder: Payer)
-:::

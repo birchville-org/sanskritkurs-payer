@@ -517,12 +517,3 @@ B) จงแปลประโยคต่อไปนี้และแยก�
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [แหล่งที่มาของภาพ: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต ห้ามใช้เพื่อการค้า ห้ามดัดแปลง)]
-**lekt3002:** Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [แหล่งที่มาของภาพ: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต ห้ามใช้เพื่อการค้า แบ่งปันแบบเดียวกัน)]
-**lekt3003:** [แหล่งที่มาของภาพ: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต แบ่งปันแบบเดียวกัน)]
-**lekt3005:** ⟪थाली⟫, ใต้ของอินเดีย [แหล่งที่มาของภาพ: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต ห้ามใช้เพื่อการค้า แบ่งปันแบบเดียวกัน)]
-**lekt3004:** [แหล่งที่มาของภาพ: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- เข้าถึงเมื่อ 2008-12-21. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ให้เครดิต แบ่งปันแบบเดียวกัน)]
-**lekt2904:** [แหล่งที่มาของภาพ: Wikipedia / สงวนลิขสิทธิ์โดย Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

@@ -1,25 +1,26 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: "Leçon 61"
+subtitle: "Déclinaison des noms radicaux en -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+
+---
 
 # Leçon 61
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū <!-- TODO: Fallback translation -->
+## 61.1. Déclinaison des noms radicaux en -ā, -ī, -ū
 
 ### 61.1.1. Noms radicaux en -ā à la fin de ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Devant les terminations vocaliques, la voyelle radicale de la racine prend la forme réduite Ø dans les cas faibles.**
+**Devant les terminaisons vocaliques, la voyelle radicale de la racine prend le degré zéro Ø dans les cas faibles.**
 
 **La déclinaison au masculin et au féminin est identique.**
 :::
 Paradigme :
 
-⟪विश्वपा⟫ f.m. "celui qui protège l'univers"
+⟪विश्वपा⟫ m.f. "celui qui protège tout"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -31,16 +32,16 @@ Paradigme :
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī <!-- TODO: Fallback translation -->
+### 61.1.2. Noms radicaux féminins en -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**Devant une terminaison vocalique, -ī est remplacé par -iy.**
 
-**Outre les formations avec les terminaisons casuelles régulières, il existe également des formations selon le modèle des féminins polysyllabiques en -ī (⟪देवी⟫) au Dat.Ab.Gen.Lok.sg. et au Gen.pl.**
+**Outre les formes avec les terminaisons casuelles régulières, on trouve au Dat.Abl.Gen.Loc.sg. et Gen.pl. également des formes suivant le modèle des féminins polysyllabiques en -ī (⟪देवी⟫).**
 :::
 Paradigme :
 
-⟪धी⟫ f. « Pensée »
+⟪धी⟫ f. "pensée"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -95,7 +96,7 @@ Paradigmes :
 | ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
 | ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
 
-⟪यवक्री⟫, m., f. « achetant de l'orge »
+⟪यवक्री⟫ m., f. "achetant de l'orge"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -107,16 +108,16 @@ Paradigmes :
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū <!-- TODO: Fallback translation -->
+### 61.1.4. Noms radicaux féminins monosyllabiques en -ū
 
 ::: grammar-box
-**Stamm vor Vokal: -uv** <!-- TODO: Fallback translation -->
+**Stème devant voyelle : -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**Déclinaison analogue aux noms radicaux féminins en -ī**
 :::
-Paradigme : <!-- TODO: Fallback translation -->
+Paradigme :
 
-⟪भू⟫ f. « Terre »
+⟪भू⟫ f. "Terre"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -131,13 +132,13 @@ Paradigme : <!-- TODO: Fallback translation -->
 ### 61.1.5. Noms radicaux en -ū à la fin de ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Les terminaisons en -ū sont remplacées par -v lorsque seul un consonne appartenant à la racine le précède. Si plusieurs consonnes appartenant à la racine le précèdent, le -ū devant une terminaison vocalique est remplacé par -uv.**
+**Devant les terminaisons vocaliques, -ū est remplacé par -v si un seul consonne appartenant à la racine le précède. Si plusieurs consonnes de la racine le précèdent, -ū est remplacé par -uv devant une terminaison vocalique.**
 
 **La déclinaison est identique au masculin et au féminin.**
 :::
 Paradigme :
 
-⟪खलपू⟫, m., f. « qui retourne la grange »
+⟪खलपू⟫ m., f. "balayant la grange"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -203,7 +204,7 @@ Les terminaisons du futur périphrastique sont donc :
 ::: grammar-box
 **Forme de la racine : La racine a généralement la même forme que dans le futur simple. Il en va de même pour la voyelle d’union -i-.**
 :::
-Exemples : <!-- TODO: Fallback translation -->
+Exemples :
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ etc. |
 | --- | --- |
@@ -440,7 +441,7 @@ Veuillez noter l'importance de :
 
 | ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
 
 ::: media
 ![](/images/lekt6105.webp)
@@ -495,7 +496,7 @@ Fig. : ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 Karli
 (Source de l'image : [Détails](/fr/licenses#lekt6110))
 :::
-### 61.4.5. Formation avec le suffixe -ya, Ātmanepada <!-- TODO: Fallback translation -->
+### 61.4.5. Formation avec le suffixe -ya, Ātmanepada
 
 ::: grammar-box
 **Signification :**
@@ -517,7 +518,7 @@ Exemples :
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ «il se comporte comme Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 «célèbre» | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ «il se comporte comme un Célèbre» |
-| ⟪कुमारी⟫ f. «fille» | ⟪कुमारायते⟫ «il se comporte comme une Fille» | <!-- TODO: Fallback translation -->
+| ⟪कुमारी⟫ f. «fille» | ⟪कुमारायते⟫ «il se comporte comme une Fille» |
 
 ::: grammar-box
 **Pour certaines bases nominales, ce suffixe signifie : quelque chose devient comme ce qui est désigné par la base nominale, ou devient ce qui est désigné par la base nominale :**
@@ -550,7 +551,7 @@ Exemples :
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -670,7 +671,7 @@ Paradigmes : Kielhorn, Grammatik § 153 :
 Fig. : ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 (Source de l'image : [Détails](/fr/licenses#lekt6118))
 :::
-## 61.8. Restliche Pronomina <!-- TODO: Fallback translation -->
+## 61.8. Restliche Pronomina
 
 ### 61.8.1. Pronoms personnels du duel
 
@@ -774,36 +775,3 @@ Ofterdingen, 2009-03-09
 FIN DU COURS DE SANSKRIT
 :::
 
-::: deleteme-box
-
-**lekt6102 :** [Source de l'image : Banque mondiale / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Consulté le 2009-03-06. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
-
-**lekt6106 :** ⟪काशीपुर⟫ [Source de l'image : Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Consulté le 2009-03-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, pas d'utilisation commerciale, partage à l'identique)]]
-
-**lekt6107 :** ⟪जोधपुर⟫ [Source de l'image : thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Consulté le 2009-03-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, pas d'utilisation commerciale, partage à l'identique)]
-
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Source de l'image : Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Consulté le 2009-03-08. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Source de l'image : Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Consulté le 2009-03-08. --  [Licence Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt6103:** [Source de l'image : frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Consulté le 2009-03-08. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribution, pas d'utilisation commerciale)]
-
-**lekt6109:** ⟪मुंबई⟫ [Source de l'image : FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Consulté le 2009-03-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
-
-**lekt6110:** Karli [Source de l'image : Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Consulté le 2009-03-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
-
-**lekt6111:** [Source de l'image : technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Consulté le 2009-03-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribution, partage à l'identique)]
-
-**lekt6113:** Thaïlande - เมืองไทย [Source de l'image : Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Consulté le 2009-03-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
-
-**lekt6112:** 1845 - 1878 Professeur de philologie indo-orientale à l'Université de Copenhague
-
-**lekt6114:** Basilique Santa Cruz, Kochi = കൊച്ചി [Source de l'image : monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Consulté le 2009-03-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribution, pas d'utilisation commerciale)]
-
-**lekt6118:** [Source de l'image : mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Consulté le 2009-03-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt6117:** Peuple Apatani, Arunachal Pradesh [Source de l'image : ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Consulté le 2009-03-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), XIIe/XIIIe s. apr. J.-C. [Source de l'image : Quadell / Wikipedia. Licence GNU FDL]
-
-:::

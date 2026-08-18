@@ -94,8 +94,3 @@ status: stable
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt5501))
 :::
 
-::: deleteme-box
-
-**lekt5501:** 'இனாயத் கான் மரண அடைவது, ஜஹாங்கீர் = جهانگிற க்கான ஒரு கையெழுத்துப் பிரதியின் மினியேட்சர் வரைவு, சுமார் 1618 [பட மூலம்: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- 2009-01-28 அன்று அணுகப்பட்டது. பொதுவுடைமை]
-
-:::

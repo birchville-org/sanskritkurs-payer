@@ -2,10 +2,6 @@
 outline: 2
 ---
 
-::: deleteme-box
-**Citationis Ratio & Iura**
-
-:::
 # Tabula Verborum (Conspectus Generalis)
 
 *Omnes novae voces ex cursu in ordine introductionis, cum explanationibus thematicis.*
@@ -76,7 +72,7 @@ Fons imaginis: [Detalia](/licenses#lekt0201)
 
 Tres ordines vestes proprias portant. Super eos -- ut a deo voluti dicti -- Christus sedet.
 
-Max Weber (1864–1920) statum definit sic: <!-- TODO: Fallback translation -->
+Max Weber (1864–1920) statum definit sic:
 
 ::: note-box
 »**Status**« multitudo hominum appellari debet, quae intra consortium efficax
@@ -103,7 +99,7 @@ Varṇa igitur sunt status nati.
 
 **kavi** m. -- ⟪कवि⟫ : Poeta.
 
-**agni** m. -- ⟪अग्नि⟫ : Ignis, Deus Agni. <!-- TODO: Fallback translation -->
+**agni** m. -- ⟪अग्नि⟫ : Ignis, Deus Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
@@ -163,7 +159,7 @@ Abb.: Sādhu (⟪साधु⟫), Templum Pashupatinath, Kathmandu.
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanina.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya femina. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya femina.
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : uxor kṣatriyae.
 
@@ -184,11 +180,11 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. ad guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "egoitas", id est (falsus) credulitas: **Ego** sum qui videt etc. <!-- TODO: Fallback translation -->
+**asmitā** f. = ⟪अस्मिता⟫ : "egoitas", id est (falsus) credulitas: **Ego** sum qui videt etc.
 
 **ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : philosophia (scientia quae per rationes logice correctas ad suas conclusiones pervenit).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : neglectus, aequanimitas. <!-- TODO: Fallback translation -->
+**upekṣā** f. = ⟪उपेक्षा⟫ : neglectus, aequanimitas.
 
 **karuṇā** f. = ⟪करुणा⟫ : misericordia, pietas.
 
@@ -441,7 +437,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ex testamento edidit
 Fig.: ⟪वरुणः⟫
 (Fons imaginis: [Details](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : falsitas, mendacium (contrarium ad **satya**) <!-- TODO: Fallback translation -->
+- **anṛta** n. ⟪अनृत⟫ : falsitas, mendacium (contrarium ad **satya**)
 
 
 ::: note-box
@@ -504,7 +500,7 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 (Fons imaginis: [Details](/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : interrogare
-- **praśna** m. ⟪प्रश्न⟫ : quaestio (suffixum **-na** ut in **yaj-ña**) <!-- TODO: Fallback translation -->
+- **praśna** m. ⟪प्रश्न⟫ : quaestio (suffixum **-na** ut in **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : velle
 - **iṣṭi** f. ⟪इष्टि⟫ : voluntas (**iṣ** + **-ti**)
@@ -537,7 +533,7 @@ Tab.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 Tab.: ⟪मार्गः⟫
 (Imago fontis: [Detalia](/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : etiam (postpositum) <!-- TODO: Fallback translation -->
+- **api** ⟪अपि⟫ : etiam (postpositum)
 
 Ad sextam praesentis classem a grammaticis indigenis radices quaedam referuntur, quae praesentis stemma cum nasalis infixu et vocali tematica a formant, exempli gratia:
 
@@ -555,7 +551,7 @@ De compositione verborum:
 Tab.: ⟪महावीरो⟫ ⟪जिनः⟫
 (Imago fontis: [Detalia](/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : cognitio, organum cognitionis. <!-- TODO: Fallback translation -->
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : cognitio, organum cognitionis.
 
 ---
 
@@ -661,7 +657,7 @@ Fig.: ⟪महिषासुरः⟫
 Fig.: ⟪अन्नम्⟫
 (Imago fontis: [Detalia](/licenses#lekt1304))
 :::
-Derivatio verborum: <!-- TODO: Fallback translation -->
+Derivatio verborum:
 
 pad 4 Ā:
 
@@ -785,11 +781,11 @@ Abb.: ⟪सिंहः⟫
 Abb.: ⟪व्याघ्रः⟫
 (Imago fontis: [Detalia](/licenses#lekt1507))
 :::
-⟪इव⟫ (postpositum): quasi, ut (in comparationibus: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "vir ut tigris", "tigrinus vir" <!-- TODO: Fallback translation -->
+⟪इव⟫ (postpositum): quasi, ut (in comparationibus: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "vir ut tigris", "tigrinus vir"
 
 ⟪एव⟫ (postpositum): praecedens emphaticum reddit, in Germanico saepe emphasi respondet, genus emoticon `\&lt;!\&gt;`, e.g. ⟪सत्यमेव⟫ ⟪जयति⟫ "sola veritas vincit", "ipsa veritas vincit", "veritas vincit"
 
-⟪अरि⟫ m.: hostis (secundum Thieme, Peregrinus in Ṛgveda: originem = peregrinus) <!-- TODO: Fallback translation -->
+⟪अरि⟫ m.: hostis (secundum Thieme, Peregrinus in Ṛgveda: originem = peregrinus)
 
 ::: indent
 ⟪आर्य⟫ 3: aricus, nobilis ; m. Arus (ipsa appellatio Sanscriticorum antiquorum Indorum, verbum: hospes amicus (Thieme)) ; nobilis, vir honestus
@@ -850,7 +846,7 @@ unde:
 
 ⟪निरोध⟫ m.: sistere, ad quietem redigere
 
-* **bhūta n.** (⟪भूत⟫) (PPP ad bhū): ens, larva <!-- TODO: Fallback translation -->
+* **bhūta n.** (⟪भूत⟫) (PPP ad bhū): ens, larva
 
 ⟪योग⟫ m.: iugum, coniunctio, unio, acquisitio ; Yoga
 
@@ -959,7 +955,7 @@ unde:
 
 ⟪शूर⟫ 3: fortis, heroicus ; m.: heros
 
-⟪शब्द⟫ m.: vox, sonus, signum: verbum <!-- TODO: Fallback translation -->
+⟪शब्द⟫ m.: vox, sonus, signum: verbum
 
 ⟪उदक⟫ n.: aqua
 
@@ -1246,7 +1242,7 @@ Luang Prabang = ຫລວງພະບາງ, Laosia = ປະເທດລⲁວ
 ::: indent
 **⟪दोष⟫ m.:** Error
 :::
-**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (nullum PPP, pro quo est ⟪पक्व⟫ 3: coctum, maturatum) Absol. ⟪पक्त्वा⟫ :** coquere (transitivum) = cocinare, torrēre, arsare etc. <!-- TODO: Fallback translation -->
+**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (nullum PPP, pro quo est ⟪पक्व⟫ 3: coctum, maturatum) Absol. ⟪पक्त्वा⟫ :** coquere (transitivum) = cocinare, torrēre, arsare etc.
 
 ## Lectio 22
 
@@ -1447,7 +1443,7 @@ Manuscriptum ⟪गीतगोविन्द⟫, anno 1730 post Christum natum
 
 ⟪तृण⟫ n.: culmus herbae
 
-⟪पुनर्⟫ Adverbium: iterum, rursus, retro, sed <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ Adverbium: iterum, rursus, retro, sed
 
 ## Lectiones 25
 
@@ -1521,7 +1517,7 @@ unde:
 
 ⟪न्याय⟫ m.: regula, principium, methodus, iudicium (iuridicum), logica (ex ni + i +a)
 
-⟪अन्यथा⟫ Adverbium: aliter, aliud, falsum, inrite <!-- TODO: Fallback translation -->
+⟪अन्यथा⟫ Adverbium: aliter, aliud, falsum, inrite
 
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
@@ -1874,7 +1870,7 @@ Abb.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (Fons imaginis: [Detalia](/licenses#lekt2901))
 :::
-⟪मृदु⟫ 3 (f.: ⟪मृद्वी⟫): mitis, blanda, mollis; tardus, debilis <!-- TODO: Fallback translation -->
+⟪मृदु⟫ 3 (f.: ⟪मृद्वी⟫): mitis, blanda, mollis; tardus, debilis
 
 ⟪यथा⟫ Adv.: ut, quasi
 
@@ -2141,7 +2137,7 @@ Fig.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Imaginis fontis: [Detalia](/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : oriri, existere <!-- TODO: Fallback translation -->
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : oriri, existere
 
 **⟪शरीर⟫ n.:** corpus, corporeitas
 
@@ -2315,7 +2311,7 @@ Fig.: ⟪दानम्⟩
 Fig.: ⟪सा⟩ ⟪पुत्रमादाय⟩ ⟪भारं⟩ ⟪बिभ्रती⟩ ⟪गच्छति⟩
 (Imaginis fontis: [Detalia](/licenses#lekt3307))
 :::
-:sig[⟪धा⟩] 3U :sig[⟪दधाति⟩]: ponere, constituere, dividere <!-- TODO: Fallback translation -->
+:sig[⟪धा⟩] 3U :sig[⟪दधाति⟩]: ponere, constituere, dividere
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟩]  
@@ -2630,7 +2626,7 @@ Abb.: ⟪अगारम्⟫
 (Fontis: [Details](/licenses#lekt3602))
 :::
 ::: indent
-unde: <!-- TODO: Fallback translation -->
+unde:
 
 ⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: inopia monachi buddhistici vel novitii
 :::
@@ -2654,7 +2650,7 @@ Abb.: ⟪अनगार्यम्⟫
 :::
 ⟪प्रजापति⟫ m.: dominus creaturarum, deus creator
 
-⟪अनु⟫ praefixum: post, per, super - trans, secundum, adde, retro - de <!-- TODO: Fallback translation -->
+⟪अनु⟫ praefixum: post, per, super - trans, secundum, adde, retro - de
 
 ::: indent
 exempli gratia
@@ -2846,7 +2842,7 @@ ex ⟪राज⟫ :
 
 ⟪राज्य⟫ 3: regalis; n. regnum, regium, imperium
 :::
-⟪नामन्⟫ n.: nomen <!-- TODO: Fallback translation -->
+⟪नामन्⟫ n.: nomen
 
 ⟪सीमन्⟫ f.: finis
 
@@ -3076,11 +3072,6 @@ Abb.: ⟪शास्त्री⟫
 
 ⟪सङ्घ⟫ n.: (ad ⟪सम्⟫-⟪हन्⟫ : simul-concutere): turba, coetus, communitas (e.g. buddhistica)
 
-::: deleteme-box
-v. ad id:
-
-**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regulorum monasticorum et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: puella iuvenis, filia, virgo
 
 ⟪अति⟫ praeverbium: super, per trans, ultra (in loco, in tempore, numero, quantitate, ordine, potestate, intensitate), nimis
@@ -3090,11 +3081,6 @@ v. ad id:
 ::: indent
 PPP ⟪अतीत⟫ : n. praeteritum
 :::
-::: deleteme-box
-v. ad id: <!-- TODO: Fallback translation -->
-
-**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regulorum monasticorum et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ⟪कन्या⟫ f.: puella iuvenis, filia, virgo
 
 ⟪अति⟫ praeverbium: super, per trans, ultra (in loco, in tempore, numero, quantitate, ordine, potestate, intensitate), nimis
@@ -3103,11 +3089,6 @@ v. ad id: <!-- TODO: Fallback translation -->
 
 ::: indent
 PPP ⟪अतीत⟫ : n. praeteritum
-:::
-::: deleteme-box
-v. ad id: <!-- TODO: Fallback translation -->
-
-**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regulorum monasticorum et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: puella iuvenis, filia, virgo
 
@@ -3136,7 +3117,7 @@ PPP ⟪अतीत⟫ : n. praeteritum
 ::: indent
 PPP ⟪अवस्थित⟫ 3: stans, existens
 :::
-⟪पुरा⟫ Adv.: olim, ante <!-- TODO: Fallback translation -->
+⟪पुरा⟫ Adv.: olim, ante
 
 ⟪अनेक⟫ 3: multi (non pauci)
 
@@ -3479,7 +3460,7 @@ PPP ⟪आयत⟫ 3: longe distensus
 Abb.: ⟪आयतो⟫ ⟪मरुः⟫
 (Imago fontis: [Detalia](/licenses#lekt4406))
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : praebere, offerre, tradere <!-- TODO: Fallback translation -->
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : praebere, offerre, tradere
 
 ⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : simul ligare, alligare, frenare
 
@@ -3517,31 +3498,15 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (ad ⟪प्र⟫-⟪व्रज्⟫): egressio domo ad sine domum; caerimonia, qua buddhisticus novitius fit (Pali: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Vide:
-
-**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regularum ordinis et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Imago fontis: [Detalia](/licenses#lekt4408))
 :::
-::: deleteme-box
-Vide:
-
-**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regularum ordinis et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Imago fontis: [Detalia](/licenses#lekt4408))
-:::
-::: deleteme-box
-Vide:
-
-**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regularum ordinis et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3680,11 +3645,11 @@ Absol. -⟪हूय⟫
 ::: media
 ![](/images/lekt4608.webp)
 Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
-(Imago fontis: [Detalia](/licenses#lekt4608)) <!-- TODO: Fallback translation -->
+(Imago fontis: [Detalia](/licenses#lekt4608))
 
 :::
 ::: indent
-1 ⟪महामात्र⟫ m. "Elefantenführer"; ⟪चरिष्णु⟫ 3 "movibilis", ⟪दूरशब्द⟫ m. "longinquum colloquium, telephonum" » ⟪चरिष्णुदूरशब्द⟫ "telephonicum mobile" (verborum compositio: A. Payer) <!-- TODO: Fallback translation -->
+1 ⟪महामात्र⟫ m. "Elefantenführer"; ⟪चरिष्णु⟫ 3 "movibilis", ⟪दूरशब्द⟫ m. "longinquum colloquium, telephonum" » ⟪चरिष्णुदूरशब्द⟫ "telephonicum mobile" (verborum compositio: A. Payer)
 
 :::
 ⟪विभ्रम⟫ m.: hinc inde ambulatio
@@ -3781,7 +3746,7 @@ Absol. -⟪लम्ब्य⟫
 Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
 (Imaginis fons: [Detalia](/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : se adnectere (⟪द्वितीयया⟫) <!-- TODO: Fallback translation -->
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : se adnectere (⟪द्वितीयया⟫)
 
 ⟪यदि⟫ coniunctio:  si
 
@@ -3870,7 +3835,7 @@ Tab.: ⟪कुमारः⟫
 Festum Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 (Fontes imaginum: [Detalia](/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: puella, filia <!-- TODO: Fallback translation -->
+⟪कुमारी⟫ f.: puella, filia
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -3890,7 +3855,7 @@ Tab.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Fontes imaginum: [Detalia](/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (altum) aetas <!-- TODO: Fallback translation -->
+⟪स्थाविर⟫ n.: (altum) aetas
 
 ⟪वाच्य⟫ 3: etiam: reprehensibilis
 
@@ -3983,7 +3948,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Abb.: ⟪कुलूहलम्⟫
 (Fontis imago: [Details](/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: totus, integre <!-- TODO: Fallback translation -->
+⟪कृत्स्न⟫ 3: totus, integre
 
 ⟪परिचय⟫ m.: notitia
 
@@ -3995,7 +3960,7 @@ Abb.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, saec. XI
 (Fontis imago: [Details](/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: voluntas <!-- TODO: Fallback translation -->
+⟪वर⟫ m.n.: voluntas
 
 ⟪उत⟫ Indekl.: et, quoque, an
 
@@ -4006,7 +3971,7 @@ Abb.: ⟪उत्तमा⟫ ⟪काला⟫
 Abb.: ⟪विहंगः⟫
 (Fontis imago: [Details](/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: vestis, species, exterius <!-- TODO: Fallback translation -->
+⟪वेष⟫ m.: vestis, species, exterius
 
 ::: media
 ![](/images/lekt4904.webp)
@@ -4014,7 +3979,7 @@ Abb.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
 (Fontis imago: [Details](/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: tegmen, latebra <!-- TODO: Fallback translation -->
+⟪छन्न⟫ n.: tegmen, latebra
 
 ⟪पञ्जर⟫ n.: cavea
 
@@ -4051,7 +4016,7 @@ Abb.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fontis imago: [Details](/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
 ⟪परम⟫ 3: extremus, summus ; ⟪पञ्चम्या⟫ : melior quam, altius quam
 
@@ -4063,7 +4028,7 @@ Abb.: ⟪गजशिशुः⟫
 Sri Lanka
 (Fontis imago: [Details](/licenses#lekt4906))
 :::
-## Lektio 50 <!-- TODO: Fallback translation -->
+## Lektio 50
 
 
 
@@ -4168,7 +4133,7 @@ Declinatio ut ⟪यद्⟫ (exceptio: Nom.Akk.sg.Neutrum)
 Fig.: ⟪कल्याणी⟫
 (Fons imaginis: [Detalia](/licenses#lekt5003))
 :::
-⟪कु⟫- : ut pars prior compositionum: malus <!-- TODO: Fallback translation -->
+⟪कु⟫- : ut pars prior compositionum: malus
 
 ::: media
 ![](/images/lekt5004.webp)
@@ -4455,7 +4420,7 @@ Abb.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Fons imaginis: [Detalia](/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: intus, in interno ; postpositio cum Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): intra, in medio ; postpositio cum Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): ex ... foras <!-- TODO: Fallback translation -->
+⟪अन्तर्⟫ Adv.: intus, in interno ; postpositio cum Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): intra, in medio ; postpositio cum Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): ex ... foras
 
 ⟪अन्योन्य⟫ 3: mutuus, inter se
 
@@ -4507,7 +4472,7 @@ Abb.: ⟪प्रधानः⟫
 :::
 ⟪लौल्य⟫ n.: libido, concupiscentia
 
-⟪वर्ग⟫ m.: pars, turma, grex <!-- TODO: Fallback translation -->
+⟪वर्ग⟫ m.: pars, turma, grex
 
 ::: indent
 ⟪त्रिवर्ग⟫ m.: tris (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; vel: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; vel: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
@@ -4531,7 +4496,7 @@ Futurum. ⟪वास्यति⟫
 Passivum. ⟪वायते⟫
 Causativum. ⟪वापयति⟫
 PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
-Infinitivus. ⟪वातुम्⟫ <!-- TODO: Fallback translation -->
+Infinitivus. ⟪वातुम्⟫
 
 inde:
 
@@ -4633,7 +4598,7 @@ Abb.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (Fontes imagines: [Detalia](/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: caelum Indrī <!-- TODO: Fallback translation -->
+⟪त्रिपिष्टप⟫ n.: caelum Indrī
 
 ⟪मार⟫ m.: malum personificatum, seductio/personificata manipulationes, diabolus
 
@@ -4678,7 +4643,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt0902**: kāru = ⟪कारु⟫, Gujarat [Fontis imaginis: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Accessus die 2008-11-23. -- Licentia Creative Commons (Nominatio, usus non commercialis, nulla modificatio)]
 
-**lekt1003**: Deus Varuṇa = ⟪वरुण⟫, saeculum XVII. [Fontis imaginis: Wikipedia, Dominium publicum] <!-- TODO: Fallback translation -->
+**lekt1003**: Deus Varuṇa = ⟪वरुण⟫, saeculum XVII. [Fontis imaginis: Wikipedia, Dominium publicum]
 
 **lekt1002**: Ṛṣi unus: Viśvāmitra (⟪विश्वामित्र⟫) / a Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Fontis imaginis: Wikipedia, Dominium publicum]
 
@@ -4713,13 +4678,13 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1809**: ⟪कामः⟫ Illustratio ad ⟪कामसूत्र⟫ [Imago fontis: Wikipedia, Dominium publicum]
 
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Imago fontis: Sudarshan Bhat Khandige / Wikipedia, Dominium publicum] <!-- TODO: Fallback translation -->
+**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Imago fontis: Sudarshan Bhat Khandige / Wikipedia, Dominium publicum]
 
 **lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Imago fontis: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Accessus die 2008-12-08. -- Licentia Creative Commons (Nominatio, nulla usus commercialis, nulla mutatio)]
 
 **lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), in costume traditionale est consuetudo in partibus australibus Kerala. Onappottan domos visitat durante onam et benedictiones dat. Nuper onappottan visus rarior factus est, in villis confinis." [Imago fontis: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Accessus die 2008-12-08. -- Licentia Creative Commons (Nominatio)]
 
-**lekt1903**: ⟪पण्डीतः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫, ⟪१९५९⟫ [Imago fontis: Wikipedia, Dominium publicum] <!-- TODO: Fallback translation -->
+**lekt1903**: ⟪पण्डीतः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫, ⟪१९५९⟫ [Imago fontis: Wikipedia, Dominium publicum]
 
 **lekt2008**: ⟪आश्रमाः⟫ Rishikesh = ⟪ऋषिकेश⟫ "Haec pars est Ashram in Rishikesh ubi Beatles manserunt. Haec pars specifica non erat cum ibi essent, sed videtur pulchre." [Imago fontis: ab ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Accessus die 2008-12-11. -- Licentia Creative Commons (Nominatio)]
 
@@ -4729,7 +4694,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2104**: ⟪भिक्षवः⟫ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Imago fontis: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Accessus die 2008-12-12. -- Licentia Creative Commons (Nominatio, nulla usus commercialis)]
 
-**lekt2202**: ⟪कामदेवः⟫ , saeculum 19 [Imago fontis: Wikipedia, Dominium publicum] <!-- TODO: Fallback translation -->
+**lekt2202**: ⟪कामदेवः⟫ , saeculum 19 [Imago fontis: Wikipedia, Dominium publicum]
 
 **lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Imago fontis: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Accessus die 2008-12-12. -- Licentia Creative Commons (Nominatio, nulla usus commercialis, nulla mutatio)]
 
@@ -4802,17 +4767,17 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3204**: ⟪उपलाः⟫ "Saxa hic satis dura sunt ut vopatores qui fossam arenariam derelictam ad australem partem urbis occupaverunt, nolint malleis ipsis percutere. Lapides prius calefaciunt — cum rotis ardentibus, plastica inutili, etiam veteribus calceamentis gummatis — ut saxa facilius frangantur. Vespero, cum tres vel quattuor flammae nigros caliginosos fumos in ingenti fossa emittunt, fossa lapidea quasi tabula lignea ex Dante videtur. Ad os huius fossae lapideae in Pune Maharashtra, feminae parvae in sariis laborant per horas quattuordecim saxa frangentes in fragmenta lapidis magnitudinis pilae cricket. Mallei ingentes aerem usque ad sonum fracturae lapidis feriant. Iuxta eos machinae magnae rugiebant quae saxum manducabant ut gravia aedificatoria spuerent. Facies fere omnium pulvere albo obducta erat. Pulvis gravis et suffocans, in aere fluitans quasi nebula omnia operiens." [Bildquelle: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 
-**lekt3205**: ⟪लक्ष्यम्⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt3205**: ⟪लक्ष्यम्⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Bearbeitung)]
 
-**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: Kuhmist) Rajasthan [Bildquelle: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: Kuhmist) Rajasthan [Bildquelle: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 
-**lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Bildquelle: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Bildquelle: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 
 **lekt3306**: ⟪दानम्⟫ "Die 20. Augusti, anno 2005 in Chennai, India, nupturi mei mihi et familia mea formalem celebrationem engagementis Indicae dedere. Videtur quasi matrimonium esset, sed non est; ita res aguntur. Valde extravagans. Hoc eventus mihi magna benedictio fuit. Nunquam ita amatus a familia aliena sensus sum. Solum vellem familiam meam ibi fuisse, sed saltem video totius rei communicandae habeo. Nupturi mei rem omnem tribus diebus confecerunt. Omnia ab invitationibus usque ad photographum mercenarium. Fuit fantasticum, ultra verba quae emota fluunt explicare possint." [Quelle von Bild und Text: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, share alike)]
 
-**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 
-**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]
 
 
 **lekt3304**: ⟪भयम्⟫ Mumbai = ⟪मुंबई⟫, 2008 [Imago fontem: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Accessus 2008-12-26. -- Licentia Creative Commons (Nominatio)]
@@ -4827,9 +4792,9 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3405**: ⟪लक्षद्वीपाः⟫ = ലക്ഷദ്വീപ് = centum milia (⟪लक्ष⟫ m.n.) insulae (territorium unionis) [Imago fontem: CIA. Public domain]
 
-**lekt3403**: ⟪तिलाः⟫ [Imago fontem: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt3403**: ⟪तिलाः⟫ [Imago fontem: Wikipedia. Public domain]
 
-**lekt3404**: ⟪तिलाः⟫ [Imago fontem: Franz Xaver / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt3404**: ⟪तिलाः⟫ [Imago fontem: Franz Xaver / Wikipedia. GNU FDLicense]
 
 **lekt3402**: ⟪स्वर्णम्⟫ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿਬ, Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Imago fontem: Wikipedia. GNU FDLicense]
 
@@ -4842,7 +4807,7 @@ Inf. ⟪त्रातुम्⟫
 **lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Imago fontem: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Accessus 2008-12-28. -- Licentia Creative Commons (Nominatio, usus non commercialis)]
 
 
-**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Imago a bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accessus die 2008-12-28. -- Licentia Creative Commons (Nominatio, shere alike)] <!-- TODO: Fallback translation -->
+**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Imago a bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accessus die 2008-12-28. -- Licentia Creative Commons (Nominatio, shere alike)]
 
 **lekt3802**: ⟪अनगार्यम्⟫ Nororientale Thailand = อีสาน [Imago a Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Accessus die 2008-12-28. -- Licentia Creative Commons (Nominatio, usus non commercialis, nulla modificatio)]
 
@@ -4858,13 +4823,13 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3805**: ⟪उदकम्⟩ Darewadi vicus, District Ahmed Nagar = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [Imago a Robin Murphy, Institutum Rerum Naturalium. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Accessus die 2009-01-01. -- Licentia Creative Commons (Nominatio, usus non commercialis, share alike)]
 
-**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, saec. 2./3. p.Chr. [Imago a Wikipedia. Dominium publicum] <!-- TODO: Fallback translation -->
+**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, saec. 2./3. p.Chr. [Imago a Wikipedia. Dominium publicum]
 
 **lekt3809**: ⟪ब्रह्मा⟫ Halebidu = ಹಳೆಬೀಡು [Imago a Wikipedia. Licentia GNU FD]
 
 **lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Imago a J.M.Garg / Wikipedia. Licentia GNU FD]
 
-**lekt3811**: ⟪अशोकः⟫ Maxima extensio imperii Aśokae atque loci inventionis edictorum rupeorum et columnarum eius [Imago a Wikipedia. Licentia GNU FD] <!-- TODO: Fallback translation -->
+**lekt3811**: ⟪अशोकः⟫ Maxima extensio imperii Aśokae atque loci inventionis edictorum rupeorum et columnarum eius [Imago a Wikipedia. Licentia GNU FD]
 
 **lekt3812**: ⟪विनोदः⟫ Ludus Carrom [Imago a nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Accessus die 2009-01-01. -- Licentia Creative Commons (Nominatio, usus non commercialis, share alike)]
 
@@ -4887,7 +4852,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4109**: ⟪शासना⟫ Edictum Ashokae, Dhauli, Orissa [Imago fontis: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Accessus die 2009-01-03. -- Licentia Creative Commons (Nominatio, usus non commercialis)]
 
-**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), circiter 1898 [Imago fontis: Wikipedia. Dominium publicum] <!-- TODO: Fallback translation -->
+**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), circiter 1898 [Imago fontis: Wikipedia. Dominium publicum]
 
 **lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ Diwan I Khas, sive Aula Privatarum Audientiarum apud Lal Qila (Fort Rubrum) in Delhi. [Imago fontis: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accessus die 2009-01-04. -- Licentia Creative Commons (Nominatio, usus non commercialis, share alike)]
 
@@ -4899,7 +4864,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4305**: ⟪वणिक्⟫ Kanchipuram = காஞ்சிபுரம [Imago fontis: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Accessus die 2009-01-06. -- Licentia Creative Commons (Nominatio, usus non commercialis, share alike)]
 
-**lekt4306**: ⟪वत्सः⟫ Bubalus aquarum (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Imago fontis: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Accessus die 2009-001-06. -- Licentia Creative Commons (Nominatio, share alike)] <!-- TODO: Fallback translation -->
+**lekt4306**: ⟪वत्सः⟫ Bubalus aquarum (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Imago fontis: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Accessus die 2009-001-06. -- Licentia Creative Commons (Nominatio, share alike)]
 
 
 **lekt4307**: ⟪तोलन्ति⟫ [Imago a Ray Witlin / Banco Mundial. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Accessus die 2009-01-06. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
@@ -4916,13 +4881,13 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4408**: ⟪प्रव्रज्या⟫ Thailandia = ประเทศไทย [Imago a Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Accessus die 2009-01-08. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
 
-**lekt4602**: ⟪नवग्रहाः⟫ [Imago auctoris ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licentia GNU FD] <!-- TODO: Fallback translation -->
+**lekt4602**: ⟪नवग्रहाः⟫ [Imago auctoris ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licentia GNU FD]
 
-**lekt4603**: ⟪नवग्रहाः⟫ [Imago auctoris ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licentia GNU FD] <!-- TODO: Fallback translation -->
+**lekt4603**: ⟪नवग्रहाः⟫ [Imago auctoris ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licentia GNU FD]
 
-**lekt4604**: ⟪नवग्रहाः⟫ [Imago auctoris ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licentia GNU FD] <!-- TODO: Fallback translation -->
+**lekt4604**: ⟪नवग्रहाः⟫ [Imago auctoris ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licentia GNU FD]
 
-**lekt4605**: ⟪नवग्रहाः⟫ [Imago auctoris ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licentia GNU FD] <!-- TODO: Fallback translation -->
+**lekt4605**: ⟪नवग्रहाः⟫ [Imago auctoris ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. Licentia GNU FD]
 
 **lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, circiter 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = rex serpentium supremus) [Imago a Wikipedia. Dominium publicum]
 
@@ -4941,7 +4906,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4802**: ⟪तन्त्रम्⟫ Sualkuchi = সুৱালকুচি, Assam = অসম [Imago fontis: Ken McChesney. -- http://www.flickr.com/photos/kenmak/2083565996/. -- Accessus die 2009-01-10. -- Licentia Creative Commons (Nominatio, usus non commercialis, share alike)]
 
-**lekt4803**: ⟪तन्त्री⟫ Citharista = ⟪सितारवादकः⟫ [Imago fontis: Wikipedia. Dominium publicum] <!-- TODO: Fallback translation -->
+**lekt4803**: ⟪तन्त्री⟫ Citharista = ⟪सितारवादकः⟫ [Imago fontis: Wikipedia. Dominium publicum]
 
 **lekt4804**: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫ [Fratres auxiliares (SHG)], Tamil Nadu = தமிழ்நாடு [Imago fontis: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- Accessus die 2009-01-10. -- Licentia Creative Commons (Nominatio, usus non commercialis)]
 
@@ -4957,7 +4922,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4901**: ⟪कुलूहलम्⟫ [Imago fontis: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- Accessus die 2009-01-11. -- Licentia Creative Commons (Nominatio, sine modificatione)]
 
-**lekt4902**: ⟪कला⟫ ⟪शिवो⟫ ⟪नटराजा⟫, saeculum undecimum [Imago fontis: Vassil / Wikipedia. Dominium publicum] <!-- TODO: Fallback translation -->
+**lekt4902**: ⟪कला⟫ ⟪शिवो⟫ ⟪नटराजा⟫, saeculum undecimum [Imago fontis: Vassil / Wikipedia. Dominium publicum]
 
 **lekt4903**: ⟪विहंगः⟫ [Imago fontis: Toji Leon. -- http://www.flickr.com/photos/tojileon/295384395/. -- Accessus die 2009-01-11. -- Licentia Creative Commons (Nominatio, usus non commercialis, sine modificatione)]
 
@@ -5022,6 +4987,4 @@ Inf. ⟪त्रातुम्⟫
 **lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Imago auctoris: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Accessus die 2009-01-16. -- Licentia Creative Commons (Nominatio auctoris)]
 
 **lekt5217**: Impetus Māras in Buddha Amaravati = అమరావతి, saeculum II p.C. [Imago auctoris: Wikipedia. Licentia GNU FD]
-
-
 

@@ -368,7 +368,7 @@ Os seguintes adjetivos pronominais são declinados como ⟪सर्व⟫. No A
 **Um certo número de adjetivos forma o comparativo e o superlativo com os seguintes sufixos ⟪कृत्⟫ (!):**
 
 *   Comparativo: **-īyas**
-*   Superlativo: **-iṣṭha** <!-- TODO: Fallback translation -->
+*   Superlativo: **-iṣṭha**
 
 **Enquanto os sufixos ⟪तद्धित⟫ -⟪तर⟫ e -⟪तम⟫ se anexam ao tema masculino do adjetivo, os sufixos -⟪ईयस्⟫ e -⟪इष्ठ⟫ são anexados à raiz da qual o adjetivo é derivado (se tal raiz existir!). A vogal da raiz está no grau forte.**
 
@@ -376,7 +376,7 @@ Os seguintes adjetivos pronominais são declinados como ⟪सर्व⟫. No A
 
 **Deklination von -īyas siehe unten.**
 :::
-Exemplos: <!-- TODO: Fallback translation -->
+Exemplos:
 
 ::: grammar-box
 | Raiz | Adjetivo | Comparativo | Superlativo |
@@ -456,7 +456,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "velho") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "velho") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declinação dos comparativos em -īyas <!-- TODO: Fallback translation -->
+## 53.9. Declinação dos comparativos em -īyas
 
 ::: grammar-box
 **Os comparativos em -īyas formam o feminino em -īyasī (declinação como ⟪देवी⟫). O masculino e o neutro são declinados segundo o paradigma seguinte.**
@@ -482,7 +482,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5303))
 :::
-Ver também: <!-- TODO: Fallback translation -->
+Ver também:
 
 > **Payer, Alois \<1944 - \>:** Introdução à exegese de textos sânscritos : Apostila. -- Cap. 8: A exegese propriamente dita, Parte II: Sobre questões individuais da compreensão sincrônica. -- Apêndice B: Sobre a métrica dos textos sânscritos. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
@@ -501,7 +501,7 @@ Uma boa impressão do efeito estético é dada, por exemplo, pela recitação do
 Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt5304))
 :::
-### 53.10.2. Tipos de metros <!-- TODO: Fallback translation -->
+### 53.10.2. Tipos de metros
 
 ::: grammar-box
 **Os indianos distinguem:**
@@ -546,7 +546,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   não se seguir um Visarga,
 *   nem duas consoantes.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
+Kurze Vokale sind a, i, u, ṛ, ḷ
 
 **Todas as outras sílabas são ⟪गुरु⟫ = pesadas. A última sílaba de um quarto de verso (⟪पाद⟫) é sempre considerada ⟪गुरु⟫.**
 
@@ -571,7 +571,7 @@ Distribuição de ⟪लघु⟫ e ⟪गुरु⟫ :
 ::: metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. O Śloka épico (⟪श्लोक⟫ m.) <!-- TODO: Fallback translation -->
+### 53.10.4. O Śloka épico (⟪श्लोक⟫ m.)
 
 ::: grammar-box
 **Verso mnemônico:**
@@ -635,19 +635,5 @@ Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-**Fontes**
-
-**Payer, Alois \<1944 - \>:** Curso de Sânscrito. -- 53. Lição 53 (Férias semestrais). -- Versão de 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
-
-Finitum feliciter 1984-02-15
-Editio interretialis feliciter finita 2009-01-19
-Alois Maria Payer
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-
-**Payer, Alois \<1944 - \>:** Curso de Sânscrito. -- 53. Lição 53 (Férias semestrais). -- Versão de 2009-01-19. -- Fonte da imagem da tabela original 53.9: Captura de tela da fonte original (Payer).
 :::
 

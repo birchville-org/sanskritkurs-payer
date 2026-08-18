@@ -34,7 +34,7 @@ A bráhmana megszabadulást kívánt.
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
 Azt mondják, hogy a védikus bölcsek csak az igazságot mondták.
@@ -46,7 +46,7 @@ A dharma egy mennybe vezetett.
 
 ⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
 Egy szent nem követett el semmi helytelenet.
-⟪साधुरधर्मं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪साधुरधर्मं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
 
 ⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
 A mantra segítségével megszerezte a megszabadulást.
@@ -132,11 +132,11 @@ Mit esznek és isznak a bráhmanák?
 
 ## További gyakorlatok
 
-A) Fordítsa le a következő mondatokat. <!-- TODO: Fallback translation -->
+A) Fordítsa le a következő mondatokat.
 
 B) Alakítsa ki az A) gyakorlatban szereplő mondatokat passzívba
 
-C) Alakítsa ki az A) gyakorlatban szereplő mondatokhoz PPP-konstrukciót <!-- TODO: Fallback translation -->
+C) Alakítsa ki az A) gyakorlatban szereplő mondatokhoz PPP-konstrukciót
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 Rāma geht auf dem Weg ins Dorf.
@@ -194,7 +194,7 @@ Melyik istenséget látja a ṛṣi?
 Melyik isteneknek áldoznak a bráhmanák, kṣatriyák és vaiśyák?
 ⟪के⟫ ⟪देवा⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिष्टाः⟫ ⟪॥⟫
 
-D) Mely hangkapcsolatokból eredhettek a következő szandhi-formák? Adja meg az összes lehetőséget: <!-- TODO: Fallback translation -->
+D) Mely hangkapcsolatokból eredhettek a következő szandhi-formák? Adja meg az összes lehetőséget:
 
 1. -a magánhangzó előtt (kivéve a-): -as
 2. -ā- : -a + -a/-ā -ā + a-/ā-
@@ -237,7 +237,7 @@ D) Mely hangkapcsolatokból eredhettek a következő szandhi-formák? Adja meg a
 39. -mst-: -n + t-
 
 
-E) Fordítsa le szanszkritra: <!-- TODO: Fallback translation -->
+E) Fordítsa le szanszkritra:
 
 1. Az istennő felháborodott.
 ⟪देवी⟫ ⟪कुपिता⟫ ⟪।⟫ ⟪देव्या⟫ ⟪कुपितम्⟫

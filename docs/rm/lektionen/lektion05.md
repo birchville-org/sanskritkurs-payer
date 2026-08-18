@@ -10,13 +10,6 @@ status: stable
 
 # Lecziun 5
 
-::: deleteme-box
-**En questa lecziun avais Vus:**
-- Fundaments da cumponiments nominalis (samāsa)
-- Terminologia tecnica per cumponiments
-- Cumponiments copulativs (Dvandva)
-- L'ordine dals elements en Dvandvas
-:::
 ## 5.1. Cumponiments nominalis (samāsa m. = ⟪समास⟫)
 
 La furmaziun da cumponiments da paraulas en in grond emprim plan è in caracteristic dal sanscrit.
@@ -65,7 +58,7 @@ Vesair pli tard davart Dvandvas dal dual!
 
 ### 5.3.1. Elements avant da cumponiments
 
-Ils elements avant da cumponiments (betg mo Dvandvas) han en general la furma dal **stemma nominala** immutada. Ils singels elements da cumponiments vegnan colliads secund las regulas dal **Satzsandhi** (id est dal Sandhi, che nus avain fin uss enconuschì, cuntrari al sandhi da las paraulas, che s'applitgescha internamain a la paraula avant elements formativs). <!-- TODO: Fallback translation -->
+Ils elements avant da cumponiments (betg mo Dvandvas) han en general la furma dal **stemma nominala** immutada. Ils singels elements da cumponiments vegnan colliads secund las regulas dal **Satzsandhi** (id est dal Sandhi, che nus avain fin uss enconuschì, cuntrari al sandhi da las paraulas, che s'applitgescha internamain a la paraula avant elements formativs).
 
 ### 5.3.2. Plural-Itaretaradvandva
 
@@ -107,11 +100,11 @@ Cunzont dus dals trais ultims prescripziuns pon vegnir en dumonda simultanamain,
 Abb.: diev Kāma = kāmadeva = ⟪कामदेव⟫, 18. tschientaner
 (Sursa d'imagia: Wikipedia, Public domain)
 :::
-**krodha** m. = ⟪क्रोध⟫ : ira, collera. <!-- TODO: Fallback translation -->
+**krodha** m. = ⟪क्रोध⟫ : ira, collera.
 
 **kleśa** m. = ⟪क्लेश⟫ : torment, plagia.
 
-**trayī** f. = ⟪त्रयी⟫ : trina; spezialmain ils tschient Veds (Ṛgveda, Sāmaveda, Yajurveda). <!-- TODO: Fallback translation -->
+**trayī** f. = ⟪त्रयी⟫ : trina; spezialmain ils tschient Veds (Ṛgveda, Sāmaveda, Yajurveda).
 
 **daṇḍanīti** f. = ⟪दण्डनीति⟫ : politica (in Tatpuruṣa da daṇḍa m. = "bacul, pussanza, dominaziun, pena" e nīti f. = "directiva recta").
 
@@ -156,15 +149,15 @@ Abb.: diev Kāma = kāmadeva = ⟪कामदेव⟫, 18. tschientaner
 3. sāmavedargvedayajurvedās trayī.
 (Kauṭilīya-arthaśāstra 1.3.1. / en bun Sanscrit: sāmārgyajurvedās trayī)
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-(en bun Sanscrit: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
+(en bun Sanscrit: ⟪सामार्यजुर्वेदास्त्रयी⟫)
 
 4. Ils trais inimis dals umans, che furman la porta a l'infer (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
-⟪कामक्रोधलोभाः⟫ || <!-- TODO: Fallback translation -->
+⟪कामक्रोधलोभाः⟫ ||
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
 ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-(Explicaziun: brahmavihāra: "stads da dimora dal Brahma", er numnà "ils immens". Els èn furmas da meditaziun buddhistas.) <!-- TODO: Fallback translation -->
+(Explicaziun: brahmavihāra: "stads da dimora dal Brahma", er numnà "ils immens". Els èn furmas da meditaziun buddhistas.)
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
 (Yogasūtra 2,3)
@@ -173,7 +166,7 @@ Abb.: diev Kāma = kāmadeva = ⟪कामदेव⟫, 18. tschientaner
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
 (Suenter Kauṭilīya-arthaśāstra 1.2.1.)
-⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
 
 ## 5.6. Exercizi da repetiziun

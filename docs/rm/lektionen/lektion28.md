@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-16
 
 # Lecziun 28
 
-## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) <!-- TODO: Fallback translation -->
+## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
 **Ves da exprimir che inu u quaicosa incit or causa che inu auter u quaicosa fa u suffa quai ch'è exprimmì da na radis (cun u senza preverb), alura s'utilisescha il causativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
@@ -38,7 +38,7 @@ Resultadi: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छ�
 Resultat: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rama conosscha / entenda il senn dal Veda"
 
 ⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "el emparla a Rama dal Vedas"
-Resultadi: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rama studegescha il Vedas" <!-- TODO: Fallback translation -->
+Resultadi: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rama studegescha il Vedas"
 
 ⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma lascha als deis debs immortels = dat als deis debs immortels a mangiar" (⟪अश्⟫ 9 "mangiar")
 Resultat: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Las debs immortels"
@@ -53,7 +53,7 @@ Templi ISCON Bangalore.
 ::: grammar-box
 **Conform al schema 1 è construida era radis ⟪दृश्⟫:**
 
-**Eccepziuns al Schema 1 vesair sut Schema 2** <!-- TODO: Fallback translation -->
+**Eccepziuns al Schema 1 vesair sut Schema 2**
 
 Esempel:
 (⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "el mussa al fegl a Rama"
@@ -144,7 +144,7 @@ Resultat: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यत�
 Quand il caussatiu è adoperà en ina construcziun passiva, alura vegn quasi adina applicà il suandant schema:
 
 ::: grammar-box
-**Schema A (construcziun dal passìv):** <!-- TODO: Fallback translation -->
+**Schema A (construcziun dal passìv):**
 
 **Agens dal causativ en instrumental (⟪तृतीया⟫) — Agens da l’acziun incitada en nominativ (⟪प्रथमा⟫) — Object da l’acziun incitada en il casus ch’el avess suenter il verb simpel (i.e. per ordinari en accusativ) — Verb en causativ**
 :::
@@ -176,7 +176,7 @@ Exempels:
 | ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein |
 | ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken |
 | ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen | <!-- TODO: Fallback translation -->
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
 
 ::: grammar-box
 **Tip da furmaziun 2: radis cun lungida + -aya-**
@@ -191,7 +191,7 @@ Exempels:
 | ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
 | ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen | <!-- TODO: Fallback translation -->
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
 
 ::: grammar-box
 **Tip da furmaziun 3: radis a bassissim nivell + -aya-**
@@ -214,7 +214,7 @@ Exemplas:
 | Radis | Kausativ 3. sg. Indicativ preschent | Significaziun |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten | <!-- TODO: Fallback translation -->
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
 
 ::: grammar-box
 **Furmaziuns irregularas:**
@@ -483,11 +483,3 @@ Ezempli: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-::: deleteme-box
-
-**lekt2801:** Edifiz da gestiun da l'Universitad da Jadavpur. [Sursa da l'imaginescha: Flickr da noii, 2008-12-19, CC BY-SA]
-**lekt2802:** Templ ISKCON Bangalore. [Sursa da l'imaginescha: reflections da Ramki Flickr, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Dama da la Vīṇā. [Sursa da l'imaginescha: Kelvin Kay / Wikipedia. Licenza GNU FD]
-**lekt2804:** Kṛṣṇa e Rādhā. Quadern da Rāja Ravi Varmā. [Sursa da l'imaginescha: Wikipedia. Domini public]
-**lekt2805:** Femna porta pes. A l'envirsada d'Ahmedabad. [Sursa da l'imaginescha: m-bot. Flickr, 2008-12-20. CC BY-SA]
-:::

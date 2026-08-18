@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Leçon 49
 
@@ -370,27 +370,5 @@ Questions du roi ⟪शूद्रक⟫ de ⟪विदिशा⟫ au perroqu
 Fig. : ⟪शुकः⟫
 Perroquet à calotte prune = Psittacula cyanocephala
 (Source de l'image : [Détails](/fr/licenses#lekt4908))
-:::
-
-::: deleteme-box
-
-**lekt4907:** [Source de l'image : Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Consulté le 2009-01-10. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, pas d'utilisation commerciale, partage à l'identique)]
-
-**lekt4901:** [Source de l'image : younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Consulté le 2009-01-11. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribution, pas de travaux dérivés)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, XIe siècle. [Source de l'image : Vassil / Wikipedia. Domaine public]
-
-**lekt4903:** [Source de l'image : Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Consulté le 2009-01-11. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.fr) (Attribution, pas d'utilisation commerciale, pas de modification)]
-
-**lekt4904:** ⟪वाराणस्याम्⟩ [Source de l'image : pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Consulté le 2009-01-11. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, utilisation non commerciale, partage à l'identique)]
-
-**lekt4909:** Devins avec perroquet dans cage : le perroquet tire des petits papiers sur lesquels est écrit le destin Mysore [Source de l'image : prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Consulté le 2009-01-12. -- [Licence Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.fr) (Attribution)]
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Source de l'image : Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Consulté le 2009-01-11. -- [Licence Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
-
-**lekt4906:** Sri Lanka [Source de l'image : Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Consulté le 2009-01-11. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de modification)]
-
-**lekt4908:** Perruche à tête prune _= Psittacula cyanocephala_[Source de l'image : Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Consulté le 2009-01-12. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, utilisation non commerciale, partage à l'identique)]
-
 :::
 

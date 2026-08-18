@@ -1,10 +1,11 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "Lectio 16"
+subtitle: "De Sandhi consonantium finalium"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lectio 16
@@ -13,7 +14,7 @@ status: stable
 
 Ad compositiones, quarum prima pars stipes consonanti desinens est, sequentes regulae requiruntur:
 
-Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale). <!-- TODO: Fallback translation -->
+Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale).
 
 ::: no-header
 
@@ -21,12 +22,12 @@ Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. kei
 | :--- | :--- |
 | **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
 | **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
+| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
 Exceptionem ad regulam praecedentem:
 
-Auslautender dentaler Verschlusslaut (nicht Nasal): <!-- TODO: Fallback translation -->
+Auslautender dentaler Verschlusslaut (nicht Nasal):
 
 ::: no-header
 
@@ -35,7 +36,7 @@ Auslautender dentaler Verschlusslaut (nicht Nasal): <!-- TODO: Fallback translat
 | **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- oder -cch-** |
 | **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
+| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 Exempla:
@@ -90,7 +91,7 @@ ex eo:
 
 ⟪निरोध⟫ m.: Stare, Ad-stare
 
-* **bhūta n.** (⟪भूत⟫) (PPP a bhū): ens, spiritus <!-- TODO: Fallback translation -->
+* **bhūta n.** (⟪भूत⟫) (PPP a bhū): ens, spiritus
 
 ⟪योग⟫ m.: adiungo, connectio, unio, acquisitio; Yoga
 
@@ -172,7 +173,7 @@ B) Solvite in sequentibus sententiis omnia composita Sanscritice, formate ita se
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 
-## 16.4. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 16.4. Wiederholungsübung
 
 A) Formate omnes hucusque casus didictos ad verba sequentia, ut exempla classium declinationis hucusque didictarum.
 
@@ -240,13 +241,3 @@ Satz 13: ⟪सर्वेषाम्⟫ Gen. pl. masc. ad ⟪सर्व⟫ 
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-::: deleteme-box
-
-**lekt1601:** Templum Birla, Delhi [Fontes imaginis: Deepak / Wikipedia ; Licentia Creative Commons (Attributio, ShareAlike)]
-
-**lekt1602:** "Haec est ceremonia specialis in templo parvo Satarae (⟪सातारा⟫). A discipulis Swami Muktananda Vedashala perficitur in celebratione Mahāśivarātri. Haec est schola vedica, ubi pueri sacros textus, qui Vedae vocantur, memoria tenent. Haec schola Krishna Yajurvedam et aliquas partes Samavedae docet. Meum thesis magistralis de hac schola est." [Fontes imaginis: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Accessus die 2008-12-07. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla operis mutatio)]
-
-**lekt1603:** "Manus cum rota in palma Iainicum Ahimsae votum significat. Verbum in medio est 'ahimsa'. Rota dharmacakra repraesentat, quod propositum sistendi circulum reincarnationis per infatigabilem veritatis et non-violentiae studium statuit." [Fontes imaginis: Wikipedia, Dominium publicum]
-
-**lekt1604:** ⟪हरियाणा⟫ / Harīāṇā [Imago auctoris: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Accessus die 2008-12-07. -- Licentia Creative Commons (Attributio, usus non commercialis, nulla modificatio)]
-:::

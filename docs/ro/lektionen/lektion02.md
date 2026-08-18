@@ -1,236 +1,242 @@
 ---
-title: Lektion 2
-subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
+title: "Lecție 2"
+subtitle: "Propoziția nominală și bazele declinării"
 lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
---- <!-- TODO: Fallback translation -->
 
-# Lecția 2
+---
 
-## 2.1. Propoziția nominală <!-- TODO: Fallback translation -->
+# Lecție 2
+
+
+## 2.1. Propoziția nominală
 
 ::: grammar-box
 **Schema: Nume predicativ - Subiect**
 
-de ex. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu este un zeu."
+ex. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu este un zeu."
 :::
-O copulă verbală ("este", "sunt", "sunt", "ești", "sunteți") nu este necesară, dar poate apărea uneori.
+O copulă verbală ("este", "sunt", "sunt eu", "ești", "sunteți") nu este necesară, dar poate apărea uneori.
 
 Nu există **articole**: **devaḥ** -- ⟪देवः⟫ poate însemna "zeul" sau "un zeu".
 
-Deși în sanscrită ordinea cuvintelor în propoziție este destul de liberă (în special în versuri), la traducerea unei propoziții nominale trebuie întotdeauna să se ia în considerare în primul rând o traducere conform schemei standard de mai sus.
+Deși în sanscrită ordinea cuvintelor este destul de liberă (în special în versuri), la traducerea unei propoziții nominale trebuie întotdeauna să luăm în considerare mai întâi o traducere conform schemei standard de mai sus.
 
-În propoziția nominală, subiectul este la nominativ (primul caz = **prathamā** f. = ⟪प्रथमा⟫). Numele predicativ se acordă cu subiectul în număr și caz; dacă numele predicativ este un adjectiv, se acordă și în gen.
+În propoziția nominală, subiectul este la nominativ (cazul I = **prathamā** f. = ⟪प्रथमा⟫). Numele predicativ se acordă cu subiectul în număr și caz; dacă numele predicativ este un adjectiv, se acordă și la gen.
 
-## 2.2. Despre declinare (flexiunea substantivelor)
+
+## 2.2. Despre declinare (flexiunea numelor)
 
 În sanscrită există:
 
-- **trei numere** (forme de număr) = **vacana** n. -- ⟪वचन⟫
-  - Singular (numărul unu) = **ekavacana** n. -- ⟪एकवचन⟫
-  - Dual (numărul doi) = **dvivacana** n. -- ⟪द्विवचन⟫
-  - Plural (numărul plural) = **bahuvacana** n. -- ⟪बहुवचन⟫
-- **trei genuri** (genuri gramaticale) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
-  - Masculin (genul masculin) = **puṃs** m. -- ⟪पुंस्⟫
-  - Feminin (genul feminin) = **strī** f. -- ⟪स्त्री⟫
-  - Neutru (genul neutru) = **napuṃsaka** n. -- ⟪नपुंसक⟫
-- **opt cazuri** (cazuri gramaticale) = **sup** -- ⟪सुप्⟫ (= terminații de caz)
+**trei numere** (forme de număr) = **vacana** n. -- ⟪वचन⟫
+Singular (număr singular) = **ekavacana** n. -- ⟪एकवचन⟫
+Dual (număr dual) = **dvivacana** n. -- ⟪द्विवचन⟫
+Plural (număr plural) = **bahuvacana** n. -- ⟪बहुवचन⟫
+**trei genuri** (genuri gramaticale) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
+Masculin = **puṃs** m. -- ⟪पुंस्⟫
+Feminin = **strī** f. -- ⟪स्त्री⟫
+Neutru = **napuṃsaka** n. -- ⟪नपुंसक⟫
+**opt cazuri** (cazuri gramaticale) = **sup** -- ⟪सुप्⟫ (= terminații casuale)
 
-La declinare se adaugă terminațiile de caz (**sup** = ⟪सुप्⟫) la ceea ce se numește **tulpina nominală** (forma substantivului fără terminațiile de caz).
+La declinare se adaugă terminațiile casale (**sup** = ⟪सुप्⟫) la ceea ce se numește **tulpina nominală** (forma numelui fără terminații casale).
 
-Exemplu: **devas** = ⟪देवस्⟫ (Nominativ Singular Masculin) "zeul/un zeu" = **deva-** -- ⟪देव⟫- (tulpina nominală) + **-s** -- -⟪स्⟫ (terminație de caz).
+Exemplu: **devas** = ⟪देवस्⟫ (Nominativ Singular Masculin) „zeul/Un zeu“ = **deva-** -- ⟪देव⟫- (tematică nominală) + **-s** -- -⟪स्⟫ (terminație de caz).
 
-În dicționarele de sanscrită, substantivele sunt indicate în **tulpina nominală**:
-- **deva** m. -- ⟪देव⟫ m. (masculin)
-- **vacana** n. -- ⟪वचन⟫ n. (neutru)
-- **vyakti** f. -- ⟪व्यक्ति⟫ f. (feminin)
+În dicționarele sanscrite, substantivele sunt citate la forma de **tematică nominală**:
+**deva** m. -- ⟪देव⟫ m. (masculin)
+**vacana** n. -- ⟪वचन⟫ n. (neutru)
+**vyakti** f. -- ⟪व्यक्ति⟫ f. (feminin)
 
-## 2.3. Nominativul singular
 
-**Nominativul singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
+## 2.3. Nominativul Singular
+
+**Nominativul Singular = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫**
 
 ::: grammar-box
-**Nominativul singular se termină în -s = -⟪स्⟫ sau este lipsit de terminație.**
+**Nominativul Singular se termină în -s = -⟪स्⟫ sau este fără terminație.**
 :::
-### 2.3.1. Nominativul singular terminat în -s
+### 2.3.1. Nominativul Singular în -s
 
-Următoarele rădăcini nominale, care se termină cu o vocală, formează nominativul singular în **-s**:
+Următoarele tematici nominale, care se termină într-o vocală, formează Nominativul Singular în **-s**:
 
 ::: grammar-box
-**Masculine pe -a:** ex. deva m. = ⟪देव⟫ "zeu" -- Nom. sg.: devas = ⟪देवस्⟫
-**Masculine pe -i:** ex. kavi m. = ⟪कवि⟫ "poet" -- Nom. sg.: kavis = ⟪कविस्⟫
-**Masculine pe -u:** ex. guru m. = ⟪गुरु⟫ "profesor" -- Nom. sg.: gurus = ⟪गुरुस्⟫
+**Masculine în -a:** ex. deva m. = ⟪देव⟫ „zeu“ -- Nom. sg.: devas = ⟪देवस्⟫
+**Masculine în -i:** ex. kavi m. = ⟪कवि⟫ „poet“ -- Nom. sg.: kavis = ⟪कविस्⟫
+**Masculine în -u:** ex. guru m. = ⟪गुरु⟫ „profesor“ -- Nom. sg.: gurus = ⟪गुरुस्⟫
 :::
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
-În sanscrită, finalul unui cuvânt este determinat, de asemenea, de inițialul cuvântului următor. Acest fenomen se numește **Sandhi** (m.) = ⟪सन्धि⟫ ("legătură").
+În sanscrită, finalul unui cuvânt este influențat și de inițialul cuvântului următor. Acest fenomen se numește **Sandhi** (m.) = ⟪सन्धि⟫ („conexiune“).
 
-### 2.4.1. Sandhi al sunetului -s
+### 2.4.1. Sandhi pentru -s final
 
-Vedeți, de asemenea, rezumatul:
+Consultați, de asemenea, rezumatul:
 
-> **Payer, Alois (1944–):** Sandhi al sunetului final -s. -- (Materiale pentru sanscrită). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi pentru -s final. -- (Materiale de sanscrită). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Sunetul final **-s**:
+**-s final:**
 
-- **în poziție absolut finală** (sfârșit de propoziție) devine **Visarga (-ḥ)**:
-  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
-  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
-  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
+**în poziție absolută** (sfârșit de propoziție) devine **Visarga (-ḥ)**:
+**devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
+**kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
+**gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
-- **înaintea sunetelor surde**:
-  - înaintea **k, kh, p, ph** și **ś, ṣ, s**: devine **Visarga (-ḥ)**
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva este un zeu")
-  - înaintea **c, ch**: devine **-ś**
-  - înaintea **ṭ, ṭh**: devine **-ṣ**
-  - înaintea **t, th**: rămâne **-s**
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya este un sfânt")
+**înaintea sunetelor mute**:
+în fața lui **k, kh, p, ph** și **ś, ṣ, s**: devine **Visarga (-ḥ)**
+**devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः शिवः⟫ ("Śiva este un zeu")
+în fața lui **c, ch**: devine **-ś**
+în fața lui **ṭ, ṭh**: devine **-ṣ**
+în fața lui **t, th**: rămâne **-s**
+**sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya este un sfânt")
 
-- **înaintea sunetelor sonore**:
-  - după vocalele care nu sunt 'a': devine **-r**
-    - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha este un poet")
-  - după vocalele care nu sunt 'a' înaintea **r-**: **-s** dispare, vocala se prelungește.
-    - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma este un învățător")
-  - după **a-**: **-as**
-    - înaintea consoanelor sonore/a: devine **-o** (vocala inițială 'a' dispare » ⟪ऽ⟫)
-      - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
-      - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
-    - înaintea altor vocale: devine **-a** (hiat)
-      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫ <!-- TODO: Fallback translation -->
+**înaintea sunetelor sonore**:
+după vocalele non-a: devine **-r**
+**kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha este un poet")
+după vocalele non-a în fața lui **r-**: **-s** dispare, vocala se prelungește.
+**gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू रामः⟫ ("Rāma este un profesor")
+după **a-**: **-as**
+în fața consoanelor sonore/a: devine **-o** (a inițial dispare » ⟪ऽ⟫)
+**devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो विष्णुः⟫
+**devas agnis** » **devo 'gniḥ** = ⟪देवो ऽग्निः⟫
+în fața altor vocale: devine **-a** (Hiatus)
+**devas + indras** » **deva indraḥ** = ⟪देव इन्द्रः⟫
+
 
 ## 2.5. Listă de cuvinte
 
-**deva** m. -- ⟪देव⟫ : Cerească, zeu; prinț, rege. <!-- TODO: Fallback translation -->
+**deva** m. -- ⟪देव⟫ : Cel ceresc, zeu; prinț, rege.
 
 **īśvara** m. -- ⟪ईश्वर⟫ : Stăpân, conducător, zeu (monoteist).
 
-**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahman (clericală).
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahman (rang preoțesc).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (clasa nobilimii și a apărării).
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (rang al prinților și militar).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (clasa producătorilor și a comercianților).
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaișya (rang al agricultorilor și comercianților).
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (clasa serviciilor).
+**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (rang al serviciilor).
 
 ::: note-box Die vier Stände (varna)
 Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuite:
 
-- **a brahmanilor**
-  - studierea Vedelor
-  - predarea învățăturilor
-  - sacrificiu pentru ei înșiși
-  - sacrificiu pentru alții
-  - donații
-  - primirea donațiilor
-- **a kṣatriyelor**
-  - protejarea poporului
-  - donații (către brahmani)
-  - sacrificiu pentru ei înșiși
-  - studierea Vedelor
-- **a vaișyelor**
-  - creșterea animalelor
-  - agricultură
-  - comerț
-  - împrumuturi cu dobândă
-  - sacrificiu pentru ei înșiși
-  - donații (către brahmani)
-  - sacrificiu pentru ei înșiși
-  - studierea Vedelor
-- **a șudrelor**
-  - slujirea celor trei clase superioare
+**a brahmanilor**
+studierea Vedei
+învățătură
+jertfă pentru sine
+jertfă pentru alții
+dare
+primirea de daruri
+**a kṣatriyelor**
+protejarea poporului
+darea de daruri (către brahmani)
+jertfirea pentru sine
+studierea Vedei
+**a vaișyelor**
+creșterea animalelor
+agricultură
+comerț
+împrumuturi cu dobândă
+jertfirea pentru sine
+darea de daruri (către brahmani)
+jertfirea pentru sine
+studierea Vedei
+**a șudrelor**
+slujirea celor trei clase superioare
 :::
-**dvija** m. -- ⟪द्विज⟫ : "De două ori născut" (inițiații celor trei caste superioare: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "Dublu născut" (inițiații celor trei clase superioare: brāhmaṇa, kṣatriya, vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : Culoare, caste de naștere (tendință).
+**varṇa** m. -- ⟪वर्ण⟫ : Culoare, stare de naștere (tendință).
 
-Cele patru caste (**varṇa** m.) sunt adesea confundate cu castele. Dar cele patru caste, spre deosebire de caste, nu sunt ceva specific indienilor; și în Europa am avut (parțial până la Primul Război Mondial) o ordine de caste, așa cum atestă următoarea imagine din secolul al XV-lea:
+Cele patru stări sociale (**varṇa** m.) sunt adesea confundate cu castele. Totuși, cele patru stări sociale -- spre deosebire de castele -- nu sunt ceva specific indienilor; și în Europa am avut (parțial până la Primul Război Mondial) o ordine a stărilor sociale, așa cum atestă următoarea imagine din secolul al XV-lea:
 
 ::: media
 ![](/images/lekt0201.webp)
-Fig.: Reprezentarea diviziunii pe caste a Europei medievale (gravură pe lemn din sfârșitul secolului al XV-lea).
+Ilustr.: Reprezentarea împărțirii pe stări sociale a Europei medievale (gravură în lemn de la sfârșitul secolului al XV-lea).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0201))
 :::
 **Etichetare:**
-- **Clera** (~Brāhmaṇa): Tu supplex ora = Tu roagă-te cu umilință!
-- **Nobilimea** (~Kṣatriya): Tu protege = Tu protejează!
-- **Țărănimii** (~Vaiśya/Śūdra): Tuque labora = Și tu muncește!
+**Starea preoțească** (~brāhmaṇa): Tu supplex ora = Tu roagă-te cu umilință!
+**Starea nobilimii** (~kṣatriya): Tu protege = Tu protejează!
+**Starea țăranilor** (~vaișya/șudra): Tuque labora = Și tu muncă!
 
-Cele trei caste poartă vestimentația specifică fiecărei caste. Deasupra – astfel numite ca fiind voia divină – castele, domnește Hristos.
+Cele trei stări poartă fiecare hainele specifice stării sale. Deasupra -- considerate astfel ca fiind voia divină -- se află Hristos pe tron.
 
-Max Weber (1864–1920) definește castea astfel:
+Max Weber (1864–1920) definește starea astfel:
 
 ::: note-box
-»**Casta**« ar trebui să însemne o mulțime de oameni care, în interiorul unei asociații, exercită
-a) o apreciere specială de castă, - eventual, de asemenea,
-b) monopoluri speciale de castă.
+»**Stare**« trebuie să însemne o mulțime de oameni care, într-un corp social,
+a) exercită o apreciere specială de stare -- eventual deci și
+b) revendică monopoluri speciale de stare.
 
-Castele pot apărea
-a) primar, prin propria lor conduită de viață de castă, inclusiv, în special, prin natura **profesiei** (**caste de conduită de viață sau profesionale**),
-b) secundar, prin carismă ereditară, prin cereri de prestigiu reușite, în virtutea **descendenței** de castă (**caste de naștere**),
-c) prin **apropiere** de castă a puterilor politice sau ierarhice ale stăpânilor, ca monopoluri (**caste politice sau ierarhice**).
+Clasele pot apărea
+a) primar, prin propria conduită de viață de clasă, inclusiv în special prin natura **profesiei** (**clase profesionale sau de conduită**),
+b) secundar, prin carismă ereditară, prin pretenții de prestigiu reușite datorită **descendenței** de clasă (**clase nobile**),
+c) prin **apropiere** de clasă a puterilor politice sau ierarhice ale stăpânilor ca monopole (**clase politice sau ierarhice**).
 
-Dezvoltarea castei de naștere este, în mod regulat, o formă de apropiere (ereditară) a privilegiilor către o asociație sau către indivizi calificați. Fiecare apropiere fermă a șanselor, în special [de] puteri [ale stăpânilor sau șanse de câștig], tinde să ducă la formarea de caste. Fiecare formare de caste tinde să ducă la apropierea monopolistică a puterilor stăpânilor și a șanselor de câștig.
+Dezvoltarea de clasă nobilă este în mod regulat o formă de (moștenire) apropiere a privilegiilor unui grup sau a unor indivizi calificați. Orice apropriere fermă de șanse, în special [de] puteri [ale stăpânilor sau șanse de câștig], tinde să ducă la formarea claselor. Orice formare a claselor tinde să ducă la apropierea monopolistică a puterilor stăpânilor și a șanselor de câștig.
 
-În timp ce clasele de ocupație se dezvoltă pe baza economiei orientate spre piață, castele apar și persistă, în mod preferențial, pe baza acoperirii nevoilor de către asociații, prin conducere monopolistă liturgică, feudală sau patrimonială de tip casta.
+În timp ce clasele economice cresc pe baza unei economii orientate spre piață, clasele nobile apar și persistă în principal pe baza acoperirii nevoilor de grupuri prin monopol, feudal sau patrimonial.
 
-»**Castal**« se referă la o societate în care structurarea socială se face, în mod preferențial, pe baza castelelor, »**clasa**«, atunci când se face, în mod preferențial, pe baza claselor. Conceptul de »castă« este cel mai apropiat de clasa »socială« dintre »clase«, iar clasa »de ocupație« este cea mai îndepărtată. Castele sunt adesea formate, în funcție de punctul lor de greutate, de clase de proprietate.
+»**De clasă nobilă**« ar trebui să însemne o societate dacă structura socială se face preponderent după clase, »**de clasă economică**«, dacă se face preponderent după clase. »Clasa nobilă« este cea mai apropiată de clasa socială, iar clasa economică este cea mai îndepărtată. Clasele nobile sunt adesea formate în funcție de clasele de proprietate.
 
-Orice societate castală este convențională, ordonată prin reguli de conduită, creează, prin urmare, condiții economice de consum irationale și, în acest fel, prin aproprierea monopolistă și prin excluderea dispoziției libere asupra capacității proprii de câștig, împiedică formarea liberă a pieței.
+Orice societate nobilă este convențională, ordonată prin reguli de conduită, creează astfel condiții economice irationale de consum și împiedică în acest fel prin apropieri monopoliste și prin eliminarea dispoziției libere asupra capacității proprii de câștig formarea liberă a pieței.
 
-[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Economie și societate : Schiță de sociologie înțeleasă. – A 5-a ed., revizuită. – Tübingen : Mohr, 1976. – p. 625 s.]
 :::
-Varṇas sunt, în consecință, caste de naștere. <!-- TODO: Fallback translation -->
+Varṇas sunt, în consecință, caste de naștere.
 
-**kavi** m. -- ⟪कवि⟫: poet.
+**kavi** m. -- ⟪कवि⟫ : poet.
 
-**agni** m. -- ⟪अग्नि⟫: foc, zeul Agni.
+**agni** m. -- ⟪अग्नि⟫ : foc, zeul Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
 Fig.: Zeul Agni, miniatură, sec. al XVIII-lea.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0203))
 :::
-**sādhu** 3 -- ⟪साधु⟫: corect, bun.
+**sādhu** 3 -- ⟪साधु⟫ : corect, bun.
 
-**sādhu** m. -- ⟪साधु⟫: om »sfânt«, Sādhu.
+**sādhu** m. -- ⟪साधु⟫ : om "sfânt", Sādhu.
 
 ::: media
 ![](/images/lekt0202.webp)
 Fig.: Sādhu (⟪साधु⟫), Templul Pashupatinath, Kathmandu.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0202))
 :::
-**guru** 3 -- ⟪गुरु⟫: greu, important, demn de venerare
+**guru** 3 -- ⟪गुरु⟫ : greu, important, demn de venerat
 
-**guru** m. -- ⟪गुरु⟫: persoană demnă de venerare: tată, mamă, rudă mai în vârstă, în special învățător, maestru
+**guru** m. -- ⟪गुरु⟫ : persoană demnă de venerat: tată, mamă, rudă mai în vârstă, îndeosebi învățător, maestru
+
 
 ## 2.6. Exercițiu
 
-**A) Introduceți ținând cont de Sandhi și formați propoziții nominale:** <!-- TODO: Fallback translation -->
+**A) Completați, respectând Sandhi-ul și formați propoziții nominale:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
-   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
+= ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
-   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
+= ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
 3. **gurus ... (brāhmaṇa, Candrakīrti)**
-   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
+= ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
 4. **vaiśyas ... (Tulādhara)**
-   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
+= ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
 5. **sādhus ... (guru, Rāma)**
-   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
+= ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
 6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
-   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
+= ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
-**B) Traduceți în sanscrită:**
+**B) Traduceți în Sanscrită:**
 
 1. Rāma este un brahman.
 2. Învățătorul este un vaișya.
-3. Śūdra este un om sfânt.
+3. Śūdra-ul este un om sfânt.
 4. Poetul este învățătorul.
 5. Viṣṇu este DOMNUL.
 6. DOMNUL este Śiva.
-7. Născut de două ori este un brahman.
+7. Născutul de două ori este un brahman.
 8. Omul sfânt este un învățător.
 9. Învățătorul este un om sfânt.

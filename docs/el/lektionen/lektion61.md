@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα 61
 
@@ -34,7 +34,7 @@ status: stable
 ### 61.1.2. Θηλυκά ριζικά ουσιαστικά σε -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
 **Εκτός από τους σχηματισμούς με τις κανονικές καταλήξεις πτώσεων, απαντούν στον Δοτ./Αφρ./Γεν./Οδ. ενικού και Γεν. πληθυντικού επίσης σχηματισμοί κατά το πρότυπο πολυσύλλαβων θηλυκών σε -ī (⟪देवी⟫).**
 :::
@@ -114,7 +114,7 @@ status: stable
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Παράδειγμα: <!-- TODO: Fallback translation -->
+Παράδειγμα:
 
 ⟪भू⟫ θηλ. «Γη»
 
@@ -203,7 +203,7 @@ status: stable
 ::: grammar-box
 **Μορφή της ρίζας: Η ρίζα έχει γενικά την ίδια μορφή όπως στο απλό μέλλοντα. Ισχύει το ίδιο και για τον συνδετικό φθόγγο -i-.**
 :::
-Παραδείγματα: <!-- TODO: Fallback translation -->
+Παραδείγματα:
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
 | --- | --- |
@@ -283,7 +283,7 @@ Karnataka = ಕರ್ನಾಟಕ
 Οι κανόνες αναλυτικότερα στο Kielhorn, Γραμματική § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Παραδείγματα: <!-- TODO: Fallback translation -->
+Παραδείγματα:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -393,7 +393,7 @@ Karnataka = ಕರ್ನಾಟಕ
 | ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
 | ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" | <!-- TODO: Fallback translation -->
+| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
 
 ### 61.4.2. Σχηματισμός με επίθημα -ya, Παρασμαιπάδα
 
@@ -425,13 +425,13 @@ Karnataka = ಕರ್ನಾಟಕ
 | ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
 | ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
+| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
 
 Σημειώστε τη σημασία των:
 
 | ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
 
 ::: media
 ![](/images/lekt6105.webp)
@@ -456,7 +456,7 @@ Karnataka = ಕರ್ನಾಟಕ
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" | <!-- TODO: Fallback translation -->
+| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
 
 ::: media
 ![](/images/lekt6109.webp)
@@ -464,7 +464,7 @@ Karnataka = ಕರ್ನಾಟಕ
 ⟪मुंबई⟫
 (Πηγή εικόνας: [Details](/el/licenses#lekt6109))
 :::
-### 61.4.4. Σχηματισμός με την κατάληξη -sya ή -asya, Parasmaipada <!-- TODO: Fallback translation -->
+### 61.4.4. Σχηματισμός με την κατάληξη -sya ή -asya, Parasmaipada
 
 ::: grammar-box
 **Σημασία:**
@@ -508,7 +508,7 @@ Karli
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" | <!-- TODO: Fallback translation -->
+| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
 
 ::: grammar-box
 **Σε ορισμένες ρίζες ουσιαστικών, αυτό το επίθεμα σημαίνει: κάτι γίνεται όμοιο με αυτό ή αποκτά τη φύση του, δηλαδή εκείνο που δηλώνει η ρίζα του ουσιαστικού:**
@@ -541,7 +541,7 @@ Karli
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -766,36 +766,3 @@ Ofterdingen, 2009-03-09
 ΤΕΛΟΣ ΤΟΥ ΜΑΘΗΜΑΤΟΣ ΣΑΝΣΚΡΙΤΙΚΗΣ
 :::
 
-::: deleteme-box
-
-**lekt6102:** [Πηγή εικόνας: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Πρόσβαση στις 2009-03-06. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση επεξεργασίας)]
-
-**lekt6106:** ⟪काशीपुर⟫ [Πηγή εικόνας: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Πρόσβαση στις 2009-03-09. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, κοινοποίηση με ίδια άδεια)]]
-
-**lekt6107:** ⟪जोधपुर⟫ [Πηγή εικόνας: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Πρόσβαση στις 2009-03-09. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, κοινοποίηση με ίδια άδεια)]
-
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Πηγή εικόνας: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Πρόσβαση στις 2009-03-08. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά δημιουργού, μη εμπορική χρήση, απαγόρευση επεξεργασίας)]
-
-**lekt6105:** ⟪हरिद्वार⟫ [Πηγή εικόνας: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Πρόσβαση στις 08-03-2009. --  [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά)]
-
-**lekt6103:** [Πηγή εικόνας: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Πρόσβαση στις 08-03-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Αναφορά, μη εμπορική χρήση)] <!-- TODO: Fallback translation -->
-
-**lekt6109:** ⟪मुंबई⟫ [Πηγή εικόνας: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Πρόσβαση στις 09-03-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, απαγόρευση τροποποίησης)]
-
-**lekt6110:** Karli [Πηγή εικόνας: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Πρόσβαση στις 09-03-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά, μη εμπορική χρήση, απαγόρευση τροποποίησης)]
-
-**lekt6111:** [Πηγή εικόνας: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Πρόσβαση στις 2009-03-09. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Αναφορά Δημιουργού, Παρόμοια Διανομή)] <!-- TODO: Fallback translation -->
-
-**lekt6113:** Ταϊλάνδη - เมืองไทย [Πηγή εικόνας: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Πρόσβαση στις 2009-03-09. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Αναφορά Δημιουργού, Μη Εμπορική Χρήση, Όχι Παράγωγα Έργα)]
-
-**lekt6112:** 1845 - 1878 Καθηγητής Ινδοανατολικής Φιλολογίας στο Πανεπιστήμιο του Κοπεγχάγης
-
-**lekt6114:** Βασιλική του Αγίου Σταυρού, Κότσι = കൊച്چي [Πηγή εικόνας: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Πρόσβαση στις 2009-03-09. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Αναφορά Δημιουργού, Μη Εμπορική Χρήση)]
-
-**lekt6118:** [Πηγή εικόνας: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Πρόσβαση στις 09-03-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)]
-
-**lekt6117:** Λαός Απατάνι, Αρούνάχαλ Πραντές [Πηγή εικόνας: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Πρόσβαση στις 09-03-2009. -- [Άδεια Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Αναφορά δημιουργού)]
-
-**lekt6101:** Χαλεπίδου (ಹಳೆಬೀಡು), 12./13ος αι. μ.Χ. [Πηγή εικόνας: Quadell / Wikipedia. Άδεια GNU FDLicense]:::: <!-- TODO: Fallback translation -->
-
-:::

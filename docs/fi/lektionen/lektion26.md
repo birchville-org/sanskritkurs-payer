@@ -1,28 +1,29 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Oppitunti 26"
+subtitle: "Cerebralisaatiolaki -s:lle sanan sisällä"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+
+---
 
 # Luento 26
 
-## 26.1. Sanojen sisäisen -s:n cerebralisointilaki <!-- TODO: Fallback translation -->
+## 26.1. Sanojen sisäisen -s:n cerebralisointilaki
 
 ::: grammar-box
-**-s-** korvataan **-ṣ:**lla, jos **k, r, l** tai **Vokaali** — paitsi **a, ā** — edeltää välittömästi tai vain ⟪अनुस्वार⟫ tai ⟪विसर्ग⟫ erottamana, ja seuraava äänne on muu kuin **ṛ, r**. <!-- TODO: Fallback translation -->
+**-s-** korvataan **-ṣ:**lla, jos **k, r, l** tai **Vokaali** — paitsi **a, ā** — edeltää välittömästi tai vain ⟪अनुस्वार⟫ tai ⟪विसर्ग⟫ erottamana, ja seuraava äänne on muu kuin **ṛ, r**.
 
 Tähän sandhiin liittyy myös **⟪दुस्⟫-** äänettömien kitalautakonsonanttien ja huulikonsonanttien edellä yhdyssanoissa.
 :::
 *Esimerkit:*
 ::: indent
-⟪तेषाम्⟫ (lähteestä: *te-sām*) <!-- TODO: Fallback translation -->
+⟪तेषाम्⟫ (lähteestä: *te-sām*)
 
 mutta: ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Sisäsanadentaalien cerebralisointilaki <!-- TODO: Fallback translation -->
+## 26.2. Sisäsanadentaalien cerebralisointilaki
 
 ::: grammar-box
 Dentaalit tukkeutumisäänteet korvautuvat vastaavilla retrofleksillä retrofleksien (myös **-ṣ-**) jälkeen:
@@ -31,7 +32,7 @@ Dentaalit tukkeutumisäänteet korvautuvat vastaavilla retrofleksillä retroflek
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
 *(**ṉ** edellisen **i:n** vuoksi, **ṭh** seuraavan **ṣ:n** vuoksi)*
 :::
-## 26.3. Palataalien, kitalautakonsonanttien, ṣ:n ja h:n + -s sanaloppusandhi <!-- TODO: Fallback translation -->
+## 26.3. Palataalien, kitalautakonsonanttien, ṣ:n ja h:n + -s sanaloppusandhi
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
@@ -41,7 +42,7 @@ Katso esimerkit alta
 ## 26.4. Grassmannin henkiassimilaatiolaki
 
 ::: grammar-box
-**Kahden aspiroidun konsonantin (aspiroitu konsonantti - vokaali - aspiroitu konsonantti) välitön seuraus on ensimmäisen äänteen henkittymisen menetys:** <!-- TODO: Fallback translation -->
+**Kahden aspiroidun konsonantin (aspiroitu konsonantti - vokaali - aspiroitu konsonantti) välitön seuraus on ensimmäisen äänteen henkittymisen menetys:**
 
 Esimerkki:
 
@@ -49,7 +50,7 @@ Esimerkki:
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**Jos toinen äänne menettää hengityksen ääntelakien vuoksi, hengitys palaa ensimmäiseen äänneeseen.** <!-- TODO: Fallback translation -->
+**Jos toinen äänne menettää hengityksen ääntelakien vuoksi, hengitys palaa ensimmäiseen äänneeseen.**
 
 Esimerkit: ks. alla tulevaisuuden muoto sanasta  ⟪दुह्⟫ ja  ⟪बुध्⟫
 ::: media
@@ -57,58 +58,59 @@ Esimerkit: ks. alla tulevaisuuden muoto sanasta  ⟪दुह्⟫ ja  ⟪ब
 Kuv.: Hermann Grassmann
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi -m:n ja -n:n kohdalla ennen sibilanttia <!-- TODO: Fallback translation -->
+>> ## 26.5. Wortsandhi -m:n edellä olevien kitisäänteiden kohdalla
 
 ::: grammar-box
-**Sibilanttien edellä -n ja -m korvautuvat muodolla -ṃ-:**
+**Kitisäänteiden edellä -n ja -m korvautuvat muodolla -ṃ-:**
 
-Esimerkki: ks. alla tulevaisuuden muoto sanasta ⟪मन्⟫
+Esimerkki: ks. alla tulevaisuuden aikamuoto sanasta ⟪मन्⟫
 :::
-## 26.6. Yksinkertaisen tulevaisuuden käyttö (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) <!-- TODO: Fallback translation -->
+## 26.6. Yksinkertaisen tulevaisuuden aikamuodon käyttö (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Yksinkertainen tulevaisuuden aikamuodon (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) merkitys on:**
+**Yksinkertainen tulevaisuuden aikamuoto (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) ilmaisee:**
 
-- **tulevaisuus**
-- **tarkoitettu tai haluttu toiminta ("minä aion mennä", "minä tahdon mennä")**
-- **odotus ("niin tulee käymään")**
-- **toivo**
-- **pelko**
-- **todennäköisyys**
-- **puhujan mielipide**
-- **käsky**
+**tulevaisuuden**
+**aiottua tai haluttua toimintaa ("minä aion mennä", "minä tahdon mennä")**
+**odotusta ("niin tulee käymään")**
+**toivoa**
+**pelkoa**
+**todennäköisyyttä**
+**puhujan mielipidettä**
+**käskyä**
 
-**Tulevaisuuden aikamuoto kilpailee osittain optatiivin kanssa (katso myöhemmin).**
+**Tulevaisuuden aikamuoto kilpailee osittain optatiivin kanssa (ks. myöhemmin).**
 :::
-esim. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Henkilö, joka haluaa tehdä lupauksen, menee temppeliin." <!-- TODO: Fallback translation -->
+esim. ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = "Joku, joka haluaa tehdä lupauksen, menee temppeliin."
+
 
 ::: media
 ![](/images/lekt2602.webp)
-Kuv.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
-(Kuv lähde: [Tiedot](/fi/licenses#lekt2602))
+Kuv.: ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt2602))
 :::
-## 26.7 Yksinkertaisen tulevaisuuden aikamuodon muodostaminen (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.) <!-- TODO: Fallback translation -->
+## 26.7. Yksinkertaisen tulevaisuuden aikamuodon muodostaminen (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Yksinkertainen tulevaisuusaika:**
+**Yksinkertainen tulevaisuuden aikamuoto:**
 
 :::
 ::: indent
-**Tulevaisuuden vartalo + primäärinen pääte**
+**Tulevaisuuden varren pääte + primaaripääte**
 :::
 ::: grammar-box
-**Tulevaisuuden vartalo:**
+**Tulevaisuuden varsi:**
 
 :::
 ::: indent
-**(useimmiten) korkean asteen juuri + -sya**  
+**(yleensä) korkean asteen juuri + -sya**  
 **tai**  
-**(useimmiten) korkean asteen juuri + -i- + -sya (= - iṣya)**
+**(yleensä) korkean asteen juuri + -i- + -sya (= - iṣya)**
 :::
-**Minkä juuren tulevaisuuden vartalo muodostuu, on opeteltava taivutusmuodoista!**  
-**Yleensä tulevaisuuden vartalon muoto ja liitainvokaali vastaavat infinitiiviä.**  
-**Jotkut juuret voivat muodostaa tulevaisuuden aikavälin valinnaisesti liitainvokaalilla -i- tai ilman sitä.**  
-**Tulevaisuuden parasmaipadan partisiippi muodostetaan liittämällä -nt-pääte tulevaisuuden vartaloon, naissuku valinnaisesti päättymällä -ntī tai -tī:**
+**Mikä juuri muodostaa minkäkin tulevaisuuden varren, on opeteltava vartalomuodoista!**  
+**Yleensä juuren muoto ja tulevaisuuden liitinvokaali vastaavat infinitiiviä.**  
+**Jotkut juuret voivat muodostaa tulevaisuuden aikamuodon valinnaisesti liitinvokaalilla -i- tai ilman sitä.**  
+**Tulevaisuuden aikamuodon parasmaipadan partisiippi muodostetaan liittämällä -nt-pääte tulevaisuuden varteen; feminiinissä valinnaisesti päätteellä -ntī tai -tī:**
 
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
@@ -176,7 +178,7 @@ A) ilman liitinvokaalia -i-:
 34.  ⟪स्तौति⟫
 35.  ⟪तिष्ठति⟫
 
-B) Yhdyttävällä vokaalilla -i-: <!-- TODO: Fallback translation -->
+B) Yhdyttävällä vokaalilla -i-:
 
 1.  ⟪अस्यति⟫
 2.  ⟪आसते⟫

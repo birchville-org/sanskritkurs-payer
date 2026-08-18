@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # درس 36
 
@@ -63,7 +63,7 @@ status: stable
 - Auslautender Stammvokal wird vor -ām guṇiert.
 - ⟪अस्⟫ و ⟪भू⟫ همچنین در افعال Ātmanepada در Parasmaipada صرف می‌شوند.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 مثال‌ها:
 
@@ -508,13 +508,3 @@ D) ترجمه کنید:
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-::: deleteme-box
-
-- **lekt3601.jpg**: تصویر: ⟪गोमयं⟫ ⟪चिकाय⟫ اودایپور = ⟪उदयपुर⟫ [منبع تصویر: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- دسترسی در ۲۰۰۸-۱۲-۲۸. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)]
-- **lekt3602.jpg**: تصویر: ⟪अगारम्⟫ شِکاواتی = ⟪शेखावाटी⟫ [منبع تصویر: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- دسترسی در ۲۰۰۸-۱۲-۲۸. -- مجوز کریتیو کامنز (نسب‌دهی، مشابه)]
-- **lekt3603.jpg**: تصویر: ⟪अनगार्यम्⟫ شمال شرق تایلند = อีสาน [منبع تصویر: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- دسترسی در ۲۰۰۸-۱۲-۲۸. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، بدون تغییر)]
-- **lekt3604.jpg**: تصویر: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ m. موی بدن) [منبع تصویر: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- دسترسی در ۲۰۰۸-۱۲-۲۹. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری)]
-- **lekt3605.jpg**: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ گاندارا، قرن ۱/۲ پس از میلاد [منبع تصویر: ویکی‌پدیا. مجوز GNU FDLicense]
-- **lekt3606.jpg**: تصویر:⟪स्⟫ ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्श⟫ مُدرا [منبع تصویر: Payer]
-- **lekt3607.jpg**: تصویر: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫ [منبع تصویر: Dey. -- http://www.flickr.com/photos/dey/481184329/in/photostream/. -- دسترسی در ۲۰۰۸-۱۲-۲۹. -- مجوز کریتیو کامنز (نسب‌دهی، استفاده غیرتجاری، مشابه)]
-:::

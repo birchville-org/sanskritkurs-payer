@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Μάθημα 59
 
@@ -782,12 +782,5 @@ _Βοήθεια μετάφρασης:_ Στίχος 6: ⟪दिदृक्ष�
 ![](/images/lekt5901.webp)
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt5901))
 :::
-Κείμενο από: Otto Böhtlingk: Sanskrit-Chrestomathie σ. 127f. <!-- TODO: Fallback translation -->
+Κείμενο από: Otto Böhtlingk: Sanskrit-Chrestomathie σ. 127f.
 
-::: deleteme-box
-
-**lekt5902:** [Πηγή εικόνας: Henryart/Wikipedia. Δημόσιος τομέας]
-
-**lekt5903:** Χορός Kecak, Μπαλί (Ινδονησία) [Πηγή εικόνας: Flying Pharmacist / Wikipedia. [Άδεια Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (Αναφορά δημιουργού, κοινόχρηστο)]
-
-:::

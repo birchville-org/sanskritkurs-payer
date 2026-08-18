@@ -10,15 +10,6 @@ status: stable
 
 # Lesson 6
 
-::: deleteme-box
-**In this lesson, you will learn:**
-The structure of the verbal sentence (agent and verb form)
-The formation of verb forms (Parasmaipada, Ātmanepada, Passive)
-The moods and tenses of the verb
-Indicative Present (laṭ) and the primary endings of the 3rd person
-The formation of the present stem (Classes 1, 4 and 6)
-The gradation of vowels (Ablaut: Guṇa and Vṛddhi)
-:::
 ## 6.1. The Verbal Sentence
 
 ::: grammar-box

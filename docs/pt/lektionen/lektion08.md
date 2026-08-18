@@ -5,17 +5,10 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 8
 
-::: deleteme-box
-**Nesta lição, você aprenderá:**
-- A formação de substantivos (sufixos kṛt e taddhita)
-- Sufixos nominais importantes (-a, -ana, -tra, -ti, -tva, -tā)
-- A 8ª classe do presente (tanādi)
-- A conjugação de **kṛ** (fazer)
-:::
 
 ## 8.1. Sobre a formação de substantivos
 
@@ -44,7 +37,7 @@ Na gramática indiana tradicional, distingue-se, entre os sufixos com os quais o
   - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » Gradação (comparativo, superlativo), comparação
   - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » Numerais ordinais (primeiro, etc.)
   - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » em vez de desinências de caso (p. ex. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (formações cvi ⟪च्वि⟫, **-sāt** -⟪सात्⟫) <!-- TODO: Fallback translation -->
+  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (formações cvi ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
 **Classificação segundo o apofonia (Ablaut):**
 - **guṇya** (⟪गुण्य⟫): formação de grau forte
@@ -53,7 +46,7 @@ Na gramática indiana tradicional, distingue-se, entre os sufixos com os quais o
 
 ## 8.3. Alguns sufixos nominais importantes
 
-### 8.3.1. -a m. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
 **O sufixo kṛt -a forma substantivos masculinos (mais raramente neutros) que denotam uma ação ou um estado indicado pela raiz; às vezes também adjetivos ou substantivos que expressam o agente (kartṛ) da ação indicada pela raiz verbal. Para uma penúltima breve (= vogal antes da consoante com que a raiz termina) ou para uma vogal final da raiz, geralmente é substituído o grau guṇa ou o grau vṛddhi.**
@@ -71,9 +64,9 @@ Na gramática indiana tradicional, distingue-se, entre os sufixos com os quais o
 | **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "a soltura, a emanação, a criação" (sobre o sandhi de palavra j » g, veja mais tarde) |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "o ouvir" |
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "o devir, o ser (algo), natureza, caráter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "lutador, guerreiro, soldado" | <!-- TODO: Fallback translation -->
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "lutador, guerreiro, soldado" |
 
-### 8.3.2. -ana n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
 **O sufixo kṛt -ana forma geralmente substantivos neutros que designam uma ação, um estado ou o meio ou instrumento pelo qual a ação designada pela raiz ou por um tema verbal é realizada. Para uma penúltima breve ou uma vogal final da raiz, geralmente se substitui o grau pleno (guṇa).**
@@ -93,7 +86,7 @@ Na gramática indiana tradicional, distingue-se, entre os sufixos com os quais o
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Fonte da imagem: [Detalhes](/licenses#lekt0801))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: note-box
@@ -103,7 +96,7 @@ Hindus devotos vão ao templo para obter a visão de Deus através de um símbol
 (Fonte: Wikipedia)
 :::
 
-### 8.3.3. -tra n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
 **O sufixo kṛt -tra forma (geralmente) substantivos neutros, que designam o meio ou o instrumento pelo qual a ação designada pela raiz é realizada. A penúltima breve e a vogal final da raiz são substituídas pelo grau guṇa.**
@@ -131,7 +124,7 @@ Hindus devotos vão ao templo para obter a visão de Deus através de um símbol
 (Fontes das imagens: [Detalhes](/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti f. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
 **O sufixo kṛt -ti forma substantivos femininos que geralmente expressam a ação ou o estado denotado pela raiz. A forma da raiz está no grau zero.**
@@ -146,7 +139,7 @@ Hindus devotos vão ao templo para obter a visão de Deus através de um símbol
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanação, criação" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Olhar, visão, ponto de vista" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Andar, curso, destino da jornada" (de *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Pensamento, ideia, opinião" (de *mn » ma + -ti) | <!-- TODO: Fallback translation -->
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Pensamento, ideia, opinião" (de *mn » ma + -ti) |
 
 *Nota: \* antes de uma forma significa que essa forma não ocorre em sânscrito, mas é reconstruída teoricamente como pré-requisito para uma determinada formação. O grau zero de **gam** é gṃ = \*gm, o m, como a chamada *nasalis sonans*, é substituído por **a** » **ga**. O mesmo se aplica a **man** » **ma**.
 

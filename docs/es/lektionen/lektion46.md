@@ -384,14 +384,14 @@ Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गल
 ![](/images/lekt4603.webp)
 Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/es/licenses#lekt4603)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4603))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 :::
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/es/licenses#lekt4604)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4604))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 :::
 ::: media
@@ -458,7 +458,7 @@ Absol. -⟪हूय⟫
 ![](/images/lekt4608.webp)
 Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/es/licenses#lekt4608)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4608))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 
 :::
 ::: indent
@@ -657,26 +657,5 @@ B) Traduzca:
 ![](/images/lekt4612.webp)
 Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/es/licenses#lekt4612)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4612))
-:::
-
-::: deleteme-box
-
-Fuente de las imágenes de Navagraha: Redtigerxyz / Wikipedia. Licencia GNU FDL
-
-L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870). Fuente: Wikipedia. Dominio público
-
-L4606: ⟪अश्वरोहकः⟫, Pune=⟪पुणे⟫. Fuente: wili_hybrid, Flickr, CC BY 2.0
-
-L4608: Udaipur. Fuente: Travel Aficionado, Flickr, CC BY-NC 2.0
-
-L4609: Karnataka=ಕರ್ನಾಟಕ. Fuente: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4610: ⟪सङ्गः⟫, Kamareddy=⟪कामारैड्डि⟫. Fuente: Sumanth K. Garakarajula, Flickr, CC BY-NC 2.0
-
-L4601: ⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫, Bangalore=ಬೆಂಗಳೂರು. Fuente: mattlogelin, Flickr, CC BY-NC 2.0
-
-L4611: ⟪भोः⟫, Kutch=⟪कच्छ⟫. Fuente: orange tuesday, Flickr, CC BY-NC 2.0
-
-L4612: Mumbai=⟪मुंबई⟫ tras el atentado, 11 de julio de 2006. Fuente: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
 :::
 

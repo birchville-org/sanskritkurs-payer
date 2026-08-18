@@ -183,9 +183,6 @@ The clarification of the mind occurs through the unfolding of friendly goodwill,
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः ॥ योगसूत्र २⟫.⟪१ ॥ समाधिभावनार्थः क्लेशतनूकरणार्थश्च ॥ योगसूत्र २⟫.⟪२ ॥⟫  
 Yoga of action is asceticism, Vedic study, and attentive service to the LORD. Its goal is the unfolding of concentration and the weakening of "torments".
 
-::: deleteme-box Erläuterung
-The five "torments" (⟪क्लेश⟫) are: ⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫ (Yoga-Sūtra 2.3) — ignorance, egoism, greed, hatred, and attachment to the body.
-:::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः ॥ सांख्यसूत्र १⟫.⟪१ ॥⟫  
 The highest goal of man is that the triple suffering disappears completely. (*Triple suffering: from oneself, from objects, from the gods.*)
 

@@ -9,7 +9,7 @@ status: stable
 
 # Lecziun 22
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫) <!-- TODO: Fallback translation -->
+## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
 
 ::: grammar-box
 
@@ -44,7 +44,7 @@ Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 *   Verbs senza preverb: Absolutiv sin **-tvā**
 *   Verbs cun preverb: Absolutiv sin **-ya** bzw. **-tya**
 :::
-### 22.2.1. Verbs senza preverb: Absolutiv sin -⟪त्वा⟫ <!-- TODO: Fallback translation -->
+### 22.2.1. Verbs senza preverb: Absolutiv sin -⟪त्वा⟫
 
 ::: grammar-box
 
@@ -147,7 +147,7 @@ Abb.: ⟪कामदेवः⟫
 19. Jhdt
 (fontana d’imagines: [Detagls](/rm/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** esser abel, pudair <!-- TODO: Fallback translation -->
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** esser abel, pudair
 
 daquest:
 
@@ -190,7 +190,7 @@ Goa = ⟪गोंय⟫
 :::
 ## 22.4. Exercizi
 
-**A) Formatez e traduscha il absolutiv als suandants verba:** <!-- TODO: Fallback translation -->
+**A) Formatez e traduscha il absolutiv als suandants verba:**
 
 1.  ⟪आप्⟫
 2.  ⟪प्राप्⟫
@@ -257,16 +257,5 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Abb.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Fonte da l'imagina: [Detagls](/rm/licenses#lekt2204))
-:::
-
-::: deleteme-box
-
-**lekt2201:** Goa = ⟪गोंय⟫ [fonte da l'imagina: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- accedì il 2008-12-12. -- Licenza Creative Commons (attribuziun, nagina utilizaziun commerziala, nagina modificaziun)]
-
-**lekt2202:** 19. Jhdt [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt2203:** Kolkatta = কলকাতা [surs da l'imagina: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- accès il 2008-12-12. -- Licenza Creative Commons (numinaziun, nagina utisaziun cummerciala, nagina modificaziun)]
-
-**lekt2204:** [Font da l'imagines: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Access il 2008-12-12. -- Licenza Creative Commons (numinaziun, nagina utilisaziun commerziala, nagina modificaziun)]
 :::
 

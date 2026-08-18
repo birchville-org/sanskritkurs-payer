@@ -264,10 +264,4 @@ PPP ⟪पूजित⟫
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
 :::
-::: deleteme-box
-
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [የምስል ምንጭ: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- የተገኘው በ 2008-12-20 ነው። -- የክሪኤቲቭ ኮመንስ ፈቃድ (ባለቤትነትን መጥቀስ፣ ለንግድ ያልሆነ፣ በተመሳሳይ መጋራት)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [የምስል ምንጭ: Khalid Mahmood / Wikipedia. GNU FDLicense]
-**lekt2902:** (ስዕል: Namcha Payer, 2002-11)
-:::
 

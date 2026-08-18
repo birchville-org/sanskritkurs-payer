@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 # Schriftübung 11
 
 ### Ziffern

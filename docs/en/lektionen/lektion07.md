@@ -10,14 +10,6 @@ status: stable
 
 # Lesson 7
 
-::: deleteme-box
-**In this lesson, you will learn:**
-The verbal sentence with a direct object
-The accusative of nouns and pronouns
-Sandhi for final -n
-The neuter of a-stems
-The athematic present classes (using the 5th class as an example)
-:::
 
 ::: center
 **Weekly Saying**

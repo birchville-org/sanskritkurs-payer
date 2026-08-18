@@ -278,11 +278,3 @@ c) ⟪उपजाति⟫
 (Источник изображения: [Details](/ru/licenses#lekt5401))
 :::
 
-::: deleteme-box
-
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Тирупати = తిరుపతి [Источник изображения: Raji Srinivas / Wikipedia. GNU FDLicense]
-
-**lekt5401:** Тамилнад [Источник изображения: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Дата обращения: 2009-01-28. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (с указанием авторства, некоммерческое использование, shre alike)]
-
-:::
-

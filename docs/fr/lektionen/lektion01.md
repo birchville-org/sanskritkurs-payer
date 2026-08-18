@@ -19,7 +19,7 @@ Vénération de Gaṇeśa
 ![](/images/lekt0102.webp)
 Fig. 1.2 : Gaṇeśa, Adamspeak, Sri Lanka
 (Source de l'image : [Détails](/fr/licenses#lekt0102))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: center
@@ -95,7 +95,7 @@ Fig. : Page de titre
 
 Meilleure grammaire systématique :
 
-> **Kielhorn**, Franz (1840–1908): Grammaire de la langue sanskrite / Traduit de l'anglais par W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Titre original : A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+> **Kielhorn**, Franz (1840–1908): Grammaire de la langue sanskrite / Traduit de l'anglais par W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Titre original : A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -105,7 +105,7 @@ Fig. : Couverture
 
 Bonne grammaire systématique fondée sur les grammairiens indigènes et en même temps une introduction à Pāṇini :
 
-> **Kunnappally, John :** Prakriyā bhāshyam : grammaire sanskrite / Écrit à l'origine en malayalam. Traduit en anglais par K.V.R. Pai. -- Parathode : Auto-édition, 1983. -- 818 p. ; 23 cm. <!-- TODO: Fallback translation -->
+> **Kunnappally, John :** Prakriyā bhāshyam : grammaire sanskrite / Écrit à l'origine en malayalam. Traduit en anglais par K.V.R. Pai. -- Parathode : Auto-édition, 1983. -- 818 p. ; 23 cm.
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -127,7 +127,7 @@ Pour les curieux à consulter :
 
 > **Lexique de linguistique** / dir. par Hadumod Bussmann. -- 4e éd., revue et complétée bibliogr. / avec la collab. de Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
-## 1.2. Les sons du sanskrit <!-- TODO: Fallback translation -->
+## 1.2. Les sons du sanskrit
 
 Les sons du sanskrit selon la classification indienne traditionnelle et leur transcription scientifique.
 

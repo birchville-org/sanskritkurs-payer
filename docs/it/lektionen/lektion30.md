@@ -517,12 +517,3 @@ Determinare e tradurre le seguenti forme verbali:
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-::: deleteme-box
-
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Fonte dell'immagine: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
-**lekt3002:** Darewadi, Distretto di Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Fonte dell'immagine: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
-**lekt3003:** [Fonte dell'immagine: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, share alike)]
-**lekt3005:** ⟪थाली⟫, Sud dell'India [Fonte dell'immagine: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
-**lekt3004:** [Fonte dell'immagine: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Accesso il 2008-12-21. -- Licenza Creative Commons (Attribuzione, share alike)]
-**lekt2904:** [Fonte dell'immagine: Wikipedia / Copyright di Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-:::

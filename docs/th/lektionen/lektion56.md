@@ -135,7 +135,7 @@ status: stable
 ::: indent
 Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / โดย Karl Hoffmann. -- ไฮเดลแบร์ก : Winter, 1967. -- 298 หน้า. -- (Indogermanische Bibliothek : ลำดับที่ 3, การศึกษา)
 :::
-ในพระเวท คำกริยาเชิงคำสั่ง (Injunktive) มีลักษณะดังนี้: <!-- TODO: Fallback translation -->
+ในพระเวท คำกริยาเชิงคำสั่ง (Injunktive) มีลักษณะดังนี้:
 
 *   ไม่ใช้เพื่อรายงาน แต่ใช้เพื่อกำกับ
 *   ไม่มีระดับเวลา
@@ -198,7 +198,7 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 ภาพ: ⟪अलं⟫ ⟪विषादेन⟫
 (แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫ <!-- TODO: Fallback translation -->
+## 56.4. ⟪स्म⟫
 
 ::: grammar-box
 **⟪स्म⟫ เน้นความหมาย: "แน่นอน, แท้จริง, แน่นอน, โดยเฉพาะ"**
@@ -296,12 +296,3 @@ A) จงระบุและแปลรูปต่อไปนี้โด�
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-::: deleteme-box
-
-**lekt5601:** ศาสตราจารย์สาขาวิชาภาษาศาสตร์เปรียบเทียบ มหาวิทยาลัยเออร์ลังเงิน-เนือร์นแบร์ค (1955 - 1983) [แหล่งที่มาของภาพ: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- เข้าถึงเมื่อ 2009-02-27]
-
-**lekt5602:** โปสเตอร์ (เออร์เนสโต “เช” เกบารา) ของพรรคการเมืองในวาลลาคิรา (വാല്ലചിര), ทริชเชอร์ (തൃശ്ശൂര്‍) “คำแปลอย่างหยาบของข้อความที่เขียนไว้คือ: การพลีชีพเป็นประสบการณ์ที่น่าหลงใหลสำหรับนักปฏิวัติ และเป็นที่พึ่งที่ท้าทายสำหรับผู้ขี้ขลาด เชไม่ใช่แบบอย่างของผู้ขี้ขลาด” [แหล่งที่มาของภาพ: Hari_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- เข้าถึงเมื่อ 2009-02-27. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ระบุชื่อผู้สร้าง ห้ามใช้เพื่อการค้า แบบเดียวกัน)]
-
-**lekt5603:** [แหล่งที่มาของภาพ: ธนาคารโลก / คอร์ท แคนเนมาร์ค. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- เข้าถึงเมื่อ 2009-02-27. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ระบุชื่อผู้สร้าง ห้ามใช้เพื่อการค้า ห้ามดัดแปลง)]
-
-:::

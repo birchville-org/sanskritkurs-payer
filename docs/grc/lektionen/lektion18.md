@@ -108,7 +108,7 @@ lesson_id: 18
 :::
 ### 18.2.2. Σημασίαι τοῦ nañ-Tatpuruṣa (a- / an-)
 
-Tatpuruṣa mit a- / an- können folgende Bedeutungen haben: <!-- TODO: Fallback translation -->
+Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
 
 1.  ὁμοιότης (⟪तत्सादृश्यम्⟫):
 ⟪अब्राह्मणः⟫ = ἄρρηκτος Βραχμάνης, ὃς τὴν ἱερὰν γραμμὴν (⟪यज्ञोपवीत⟫ n.) φέρει, καὶ οὕτω Βραχμάνῃ ὁμοιοῦται, μὴ ὢν τοιοῦτος
@@ -426,14 +426,3 @@ D) Μετάφρασε:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt1801:** "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya." [Bildquelle: Nagesh Rao / Wikipedia, GNU FDLicense]
-
-**lekt1802:** 1770 Print [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt1803:** ⟪गन्धार⟫ 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt1804:** Wedding = ⟪विवाह⟫ m., an important ⟪संस्कारः⟫ [Bildquelle: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-:::
- <!-- TODO: Fallback translation -->

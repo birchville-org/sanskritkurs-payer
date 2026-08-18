@@ -70,6 +70,6 @@ Sche ils magisters instrueschan, na dastgan uffans beneducids betg chaffidar (pa
 ::: media
 ![](/images/uebung044.webp)
 Abb.: ⟪गुरुषूपदिशत्सु⟩ ⟪सुनीतबाला⟩ ⟪वक्तुं⟩ ⟪नार्हन्ति⟩
-(Sursa da l’imagia: [Detagls](/licenses#uebung044)) <!-- TODO: Fallback translation -->
+(Sursa da l’imagia: [Detagls](/licenses#uebung044))
 
 :::

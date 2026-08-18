@@ -1,8 +1,9 @@
 ---
-title: "Ejercicio 30"
+title: "[Ejercicio 30]"
 uebung_id: 30
-category: "Ejercicio"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -104,72 +105,72 @@ El deber de los vaiśyas es vivir del comercio y la venta. Por eso, los vaiśyas
 (⟪कृतं⟫ ⟪पापं⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫ ⟪पुनर्भव⟫ — ⟪पुनः⟫ ⟪भवति⟫ ⟪इति⟫)
 Cuando un culpable ha sido purificado de su maldad en un infierno, renace.
 
-⟪७⟫. **⟪ब्राह्मणपुत्रा⟫ ⟪वेदाध्यायांश्च⟫ ⟪स्मृत्यध्यायांश्च⟫ ⟪पुनः⟫ ⟪पुनरधीयीरन्नित्यार्यधर्मः⟫ ⟪॥७॥⟫**
-(⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪।⟫ ⟪वेदानामध्यायांश्च⟫ ⟪स्मृतीनामध्यायांश्च⟫)
-El deber de los nobles es que los hijos de los brāhmaṇas estudien una y otra vez los pasajes de los Vedas y de la tradición.
+⟪७⟫. **⟪⟪ब्राह्मणपुत्रा वेदाध्यायांश्च स्मृत्यध्यायांश्च पुनः पुनरधीयीरन्नित्यार्यधर्मः ॥७॥⟫**
+(⟪ब्राह्मणानां पुत्राः । वेदानामध्यायांश्च स्मृतीनामध्यायांश्च⟫)
+El deber de los nobles es que los hijos de los brahmanes estudien una y otra vez las secciones doctrinales de los Vedas y la tradición.
 
-⟪८⟫. **⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫**
+⟪८⟫. **⟪यो ब्राह्मणः शूद्रां कामयेत स सद्ब्राह्मणो न स्यात् । सद्ब्राह्मणो हि ब्राह्मणीं कामयेत ॥८॥⟫**
 (⟪सन्⟫-⟪ब्राह्मणः⟫)
-Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Brahmane liebt eine Brahmanin.
+Un brahmán que ama a un śūdra no es un buen brahmán, pues un buen brahmán ama a una brahmánica.
 
-⟪९⟫. **⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫**  
-**⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
-Diganse verdades que sean agradables, no se digan verdades desagradables; no se digan falsedades agradables, esa es la ley eterna.
+⟪९⟫. **⟪सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् ।⟫**  
+**⟪प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥⟫** (Manu IV.138)  
+Que se digan verdades agradables, no se digan verdades desagradables; que no se digan mentiras agradables, este es el eterno dharma.
 
 ::: media
 ![](/images/uebung048.webp)
-Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
+Fig.: ⟪श्रीमोहनभोपेन रावणहस्तो वाद्यते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung048))
 :::
---- &lt;!-- TODO: Fallback translation --&gt;
+---
 
-## Determinación de formas verbales
+## Determinación de formas verbales y nominales
 
 Determine y traduzca las siguientes formas:
 
 ::: grammar-box
 | Forma | Determinación | Significado |
 | :--- | :--- | :--- |
-| ⟪१⟫. **⟪भारे⟫** | Loc. sg. m. | sobre la carga |
-| ⟪२⟫. **⟪अध्ययनम्⟫** | Nom./Akk. sg. n. | estudio |
-| ⟪३⟫. **⟪वस्तुतः⟫** | Adv. | en realidad |
-| ⟪४⟫. **⟪वस्त्राणि⟫** | Nom./Akk. pl. n. | ropas |
-| ⟪५⟫. **⟪प्रतिमया⟫** | Instr. sg. f. | mediante una imagen |
-| ⟪६⟫. **⟪आचाराय⟫** | Dat. sg. m. | a la conducta |
-| ⟪७⟫. **⟪आचार्यैः⟫** | Instr. pl. m. | mediante maestros |
-| ⟪८⟫. **⟪अश्वेषु⟫** | Lok. pl. m. | sobre caballos |
-| ⟪९⟫. **⟪ताम्⟫** | Akk. sg. f. | estas |
-| ⟪१०⟫. **⟪वृत्त्यै⟫** | Dat. sg. f. | a la forma de vida |
-| ⟪११⟫. **⟪चरितस्य⟫** | Gen. sg. n. | del curso de la vida |
-| ⟪१२⟫. **⟪अर्हता⟫** | Instr. sg. m. | mediante el Arhat |
-| ⟪१३⟫. **⟪शक्तीः⟫** | Akk. pl. f. | las fuerzas |
-| ⟪१४⟫. **⟪कामम्⟫** | Adv. | a voluntad |
-| ⟪१५⟫. **⟪भिक्षवे⟫** | Dat. sg. m. | al monje |
-| ⟪१६⟫. **⟪भगवद्गीतायाम्⟫** | Lok. sg. f. | en la Bhagavadgītā |
-| ⟪१७⟫. **⟪भगवति⟫** | Lok. sg. m./n. | en el Venerable |
-| ⟪१८⟫. **⟪भक्त्याः⟫** | Abl./Gen. sg. f. | del amor / por amor |
-| ⟪१९⟫. **⟪स्थानात्⟫** | Abl. sg. n. | del lugar |
-| ⟪२०⟫. **⟪स्थित्या⟫** | Instr. sg. f. | mediante la fijación |
-| ⟪२१⟫. **⟪मात्रायै⟫** | Dat. sg. f. | a la medida |
-| ⟪२२⟫. **⟪प्रभृतौ⟫** | Lok. sg. f. | al comienzo |
-| ⟪२३⟫. **⟪हस्तेन⟫** | Instr. sg. m. | mediante la mano |
-| ⟪२४⟫. **⟪आदेः⟫** | Abl./Gen. sg. m. | del/inicio |
-| ⟪२५⟫. **⟪दिष्टिम्⟫** | Akk. sg. f. | la instrucción |
-| ⟪२६⟫. **⟪रुद्रः⟫** | Nom. sg. m. | Rudra |
-| ⟪२७⟫. **⟪मृत्यौ⟫** | Lok. sg. m. | en la muerte |
-| ⟪२८⟫. **⟪मृतिः⟫** | Nom. sg. f. | la muerte |
-| ⟪२९⟫. **⟪द्विजातये⟫** | Dat. sg. m./f. | al dos veces nacido |
-| ⟪३०⟫. **⟪जातिभिः⟫** | Instr. pl. f. | mediante los nacimientos |
-| ⟪३१⟫. **⟪व्याघ्रान्⟫** | Akk. pl. m. | los tigres |
-| ⟪३२⟫. **⟪पूजाः⟫** | Nom./Akk. pl. f. | las veneraciones |
-| ⟪३३⟫. **⟪शत्रोः⟫** | Abl./Gen. sg. m. | del/inimigo |
-| ⟪३४⟫. **⟪उक्तिभ्यः⟫** | Dat./Abl. pl. f. | a/de las sentencias |
-| ⟪३५⟫. **⟪महान्ति⟫** | Nom./Akk. pl. n. | los grandes |
-| ⟪३६⟫. **⟪महति⟫** | Lok. sg. m./n. | en lo grande |
-| ⟪३७⟫. **⟪सा⟫** | Nom. sg. f. | ella, esta |
-| ⟪३८⟫. **⟪तस्यै⟫** | Dat. sg. f. | a ella |
-| ⟪३९⟫. **⟪तस्मिन्⟫** | Lok. sg. m./n. | en ello, en esto |
-| ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | al Ser / al Bueno |
+| ⟪१⟫. ⟪भारे⟫ | Loc. sg. m. | sobre la carga |
+| ⟪२⟫. ⟪अध्ययनम्⟫ | Nom./Akk. sg. n. | Estudio |
+| ⟪३⟫. ⟪वस्तुतः⟫ | Adv. | en realidad |
+| ⟪४⟫. ⟪वस्त्राणि⟫ | Nom./Akk. pl. n. | Ropa |
+| ⟪५⟫. ⟪प्रतिमया⟫ | Instr. sg. f. | mediante una imagen |
+| ⟪६⟫. ⟪आचाराय⟫ | Dat. sg. m. | a la conducta |
+| ⟪७⟫. ⟪आचार्यैः⟫ | Instr. pl. m. | mediante maestros |
+| ⟪८⟫. ⟪अश्वेषु⟫ | Lok. pl. m. | sobre caballos |
+| ⟪९⟫. ⟪ताम्⟫ | Akk. sg. f. | estas |
+| ⟪१०⟫. ⟪वृत्त्यै⟫ | Dat. sg. f. | a la forma de vida |
+| ⟪११⟫. ⟪चरितस्य⟫ | Gen. sg. n. | del curso de la vida |
+| ⟪१२⟫. ⟪अर्हता⟫ | Instr. sg. m. | mediante el Arhat |
+| ⟪१३⟫. ⟪शक्तीः⟫ | Akk. pl. f. | las fuerzas |
+| ⟪१४⟫. ⟪कामम्⟫ | Adv. | a voluntad |
+| ⟪१५⟫. ⟪भिक्षवे⟫ | Dat. sg. m. | al monje |
+| ⟪१६⟫. ⟪भगवद्गीतायाम्⟫ | Lok. sg. f. | en la Bhagavadgītā |
+| ⟪१७⟫. ⟪भगवति⟫ | Lok. sg. m./n. | en el Reverendo |
+| ⟪१८⟫. ⟪भक्त्याः⟫ | Abl./Gen. sg. f. | del amor / por amor |
+| ⟪१९⟫. ⟪स्थानात्⟫ | Abl. sg. n. | del lugar |
+| ⟪२०⟫. ⟪स्थित्या⟫ | Instr. sg. f. | mediante la fijación |
+| ⟪२१⟫. ⟪मात्रायै⟫ | Dat. sg. f. | a la medida |
+| ⟪२२⟫. ⟪प्रभृतौ⟫ | Lok. sg. f. | al principio |
+| ⟪२३⟫. ⟪हस्तेन⟫ | Instr. sg. m. | mediante la mano |
+| ⟪२४⟫. ⟪आदेः⟫ | Abl./Gen. sg. m. | del/comienzo |
+| ⟪२५⟫. ⟪दिष्टिम्⟫ | Akk. sg. f. | la instrucción |
+| ⟪२६⟫. ⟪रुद्रः⟫ | Nom. sg. m. | Rudra |
+| ⟪२७⟫. ⟪मृत्यौ⟫ | Lok. sg. m. | en la muerte |
+| ⟪२८⟫. ⟪मृतिः⟫ | Nom. sg. f. | la muerte |
+| ⟪२९⟫. ⟪द्विजातये⟫ | Dat. sg. m./f. | al dos veces nacido |
+| ⟪३०⟫. ⟪जातिभिः⟫ | Instr. pl. f. | mediante los nacimientos |
+| ⟪३१⟫. ⟪व्याघ्रान्⟫ | Akk. pl. m. | los tigres |
+| ⟪३२⟫. ⟪पूजाः⟫ | Nom./Akk. pl. f. | las veneraciones |
+| ⟪३३⟫. ⟪शत्रोः⟫ | Abl./Gen. sg. m. | del/como enemigo |
+| ⟪३४⟫. ⟪उक्तिभ्यः⟫ | Dat./Abl. pl. f. | a/de los dichos |
+| ⟪३५⟫. ⟪महान्ति⟫ | Nom./Akk. pl. n. | los grandes |
+| ⟪३६⟫. ⟪महति⟫ | Lok. sg. m./n. | en lo grande |
+| ⟪३७⟫. ⟪सा⟫ | Nom. sg. f. | ellos, estas |
+| ⟪३८⟫. ⟪तस्यै⟫ | Dat. sg. f. | a ellas |
+| ⟪३९⟫. ⟪तस्मिन्⟫ | Lok. sg. m./n. | en ello, en esto |
+| ⟪४०⟫. ⟪सते⟫ | Dat. sg. m./n. | al Ser / al Bueno |
 :::: media
 ![](/images/uebung047.webp)
 Fig.: ⟪भक्त्याः⟫

@@ -5,17 +5,10 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  -→
 
 # Урок 11
 
-::: deleteme-box
-**На цьому уроці ви вивчите:**
-- Подивний знахідний відмінок (знахідний відмінок особи та речі)
-- Вживання часток **iti**, **evam** та **na**
-- Основні поняття, такі як **dharma**, **adharma** та **putra**
-- Утворення іменників від коренів **vad**, **prach** та **iṣ**
-:::
 ## 11.1. Подвійний знахідний відмінок
 
 ::: grammar-box
@@ -145,4 +138,4 @@ status: stable
 Рис.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Джерело зображення: [Деталі](/uk/licenses#lekt1103))
 :::
- &lt;!-- TODO: Fallback translation --&gt;
+ &lt;!--  -→

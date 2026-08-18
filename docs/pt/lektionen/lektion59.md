@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lição 59
 
@@ -782,12 +782,5 @@ _Auxílio de tradução:_ Verso 6: ⟪दिदृक्षते⟫ \= Desidera
 ![](/images/lekt5901.webp)
 (Fonte da imagem: [Detalhes](/licenses#lekt5901))
 :::
-Texto de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f. <!-- TODO: Fallback translation -->
+Texto de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 
-::: deleteme-box
-
-**lekt5902:** [Fonte da imagem: Henryart/Wikipedia. Domínio público]
-
-**lekt5903:** Dança Kecak, Bali (Indonésia) [Fonte da imagem: Flying Pharmacist / Wikipedia. [Licença Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) (Atribuição, Compartilha Igual)]
-
-:::

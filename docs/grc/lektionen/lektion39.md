@@ -23,7 +23,7 @@ status: stable
 | **Sekundärendung thematische Stämme** | **-m** | **-ma** | **-i** | **-mahi** |
 | **Sekundärendung athematische Stämme** | **-am** | ^^ | ^^ | ^^ |
 | **Optativendung** | ^^ | ^^ | **-a** | ^^ |
-| **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
+| **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
 1 Σημείωσις: οὐσιαχῶς ἡ πρωτογενικὴ κατάληξις τῶν θεματικῶν ῥιζῶν ἐστι τὸ Ā, ἀλλὰ καὶ ὡς -ε πρέπει τιθέσθαι· πρὸ δὲ τούτου ὁ θεματικὸς φθόγγος -a- δι’ ἀναλογίαν ἐκπίπτει. Ὁ δὲ ἐφικτὸς τρόπος ἐστίν, ὡς ἂν ἡ κατάληξις -i πρὸ τοῦ θεματικοῦ φθόγγου -a- ἐπιγινομένη εἴη: a + i » e.
@@ -34,7 +34,7 @@ status: stable
 **Κανών:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. Πρώτη τάξις τοῦ ἐνεστῶτος (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+### 39.2.1. Πρώτη τάξις τοῦ ἐνεστῶτος (⟪भ्वादि⟫)
 
 ⟪भू⟫ 1P
 
@@ -45,7 +45,7 @@ status: stable
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indikativ Präsens  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
 | **Imperfekt  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi | <!-- TODO: Fallback translation -->
+| **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. Ἕκτη ἐνεστωτικὴ κλίσις (⟪तुदादि⟫)
@@ -110,7 +110,7 @@ status: stable
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫Σχηματισμὸς εἰς - <!-- TODO: Fallback translation -->
+### 39.3.1. ⟪अनिट्⟫Σχηματισμὸς εἰς -
 
 ⟪दा⟫ 3U
 
@@ -177,7 +177,7 @@ status: stable
 Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 (Image source: [Details](/grc/licenses#lekt3901))
 :::
-### 39.4.2. Τρίτη τάξις τοῦ ἐνεστῶτος (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
+### 39.4.2. Τρίτη τάξις τοῦ ἐνεστῶτος (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 
@@ -276,7 +276,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 :::
 ## 39.5. Ἄσκησις
 
-Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen. <!-- TODO: Fallback translation -->
+Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen.
 
 Beispiel: ⟪गच्छन्ति⟫ » ⟪गच्छामस्⟫
 

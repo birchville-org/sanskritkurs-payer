@@ -1,4 +1,4 @@
-<!-- TODO: Fallback translation -->
+
 ---
 title: Lektion 26
 subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"

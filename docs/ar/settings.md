@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: الإعدادات
+title: "الإعدادات"
+
 ---
 
 <ClientOnly>

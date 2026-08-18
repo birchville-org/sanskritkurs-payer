@@ -5,17 +5,10 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 # Lección 11
 
-::: deleteme-box
-**En esta lección aprenderá:**
-- El doble acusativo (acusativo de persona y cosa)
-- El uso de las partículas **iti**, **evam** y **na**
-- Conceptos básicos como **dharma**, **adharma** y **putra**
-- La formación de nombres a partir de las raíces **vad**, **prach** e **iṣ**
-:::
 ## 11.1. Acusativo doble
 
 ::: grammar-box
@@ -71,7 +64,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : preguntar
-  - **praśna** m. ⟪प्रश्न⟫ : pregunta (sufijo **-na** como en **yaj-ña**) &lt;!-- TODO: Fallback translation --&gt;
+  - **praśna** m. ⟪प्रश्न⟫ : pregunta (sufijo **-na** como en **yaj-ña**) &lt;!--  --&gt;
 
 - **iṣ** 6 P ⟪इष्⟫ : desear
   - **iṣṭi** f. ⟪इष्टि⟫ : deseo (**iṣ** + **-ti**)
@@ -145,4 +138,4 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 Fig.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1103))
 :::
- &lt;!-- TODO: Fallback translation --&gt;
+ &lt;!--  --&gt;

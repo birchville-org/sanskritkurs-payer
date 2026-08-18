@@ -148,5 +148,5 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung028.webp)
 Εικ.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Πηγή εικόνας: [Details](/licenses#uebung028))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

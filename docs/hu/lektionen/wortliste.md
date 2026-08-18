@@ -4,16 +4,12 @@ outline: 2
 
 
 
-::: deleteme-box
-**Hivatkozási mód és jogok**
-
-:::
 # Szólista (Teljes áttekintés)
 
 *Az összes új szó a kurzusból bevezetésük sorrendjében, témaköri magyarázatokkal.*
 
 
-## 2. lecke <!-- TODO: Fallback translation -->
+## 2. lecke
 
 
 
@@ -21,7 +17,7 @@ outline: 2
 
 
 
-**deva** m. -- ⟪देव⟫ : Mennyei, isten; fejedelem, király. <!-- TODO: Fallback translation -->
+**deva** m. -- ⟪देव⟫ : Mennyei, isten; fejedelem, király.
 
 **īśvara** m. -- ⟪ईश्वर⟫ : Úr, uralkodó, isten (monoteista értelemben).
 
@@ -34,7 +30,7 @@ outline: 2
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (szolgálati rend).
 
 ::: note-box Die vier Stände (varna)
-A klasszikus elmélet szerint (pl. Manusmṛti I, 88-91) a feladatok megoszlása: <!-- TODO: Fallback translation -->
+A klasszikus elmélet szerint (pl. Manusmṛti I, 88-91) a feladatok megoszlása:
 
 - **a bráhmanáké**
 - Védastudomány
@@ -95,7 +91,7 @@ A születési rend szerinti fejlődés rendszeresen az (öröklött) kiváltság
 
 Míg a piaci gazdaság talaján növekvő foglalkozási osztályok mellett, a rendek inkább az monopólisos leitur-gikus vagy feudális, illetve rendi patrimonium jellegű ellátás talaján jönnek létre és léteznek.
 
-A »rendi« társadalom azt jelenti, hogy a társadalmi tagozódás elsősorban rendek szerint történik, »osztályos« pedig akkor, ha az osztályok szerint. A »rend« fogalmához a »társadalmi« osztás áll legközelebb, az »érdeklődési osztály« pedig a legtávolabb. A rendeket gyakran birtokosztályok alkotják, súlypontjuk szerint. <!-- TODO: Fallback translation -->
+A »rendi« társadalom azt jelenti, hogy a társadalmi tagozódás elsősorban rendek szerint történik, »osztályos« pedig akkor, ha az osztályok szerint. A »rend« fogalmához a »társadalmi« osztás áll legközelebb, az »érdeklődési osztály« pedig a legtávolabb. A rendeket gyakran birtokosztályok alkotják, súlypontjuk szerint.
 
 Minden rendi társadalom konvencionális, az életvitel szabályai szerint rendezett, ezért gazdaságilag irracionális fogyasztási viszonyokat teremt, és ezen keresztül a monopóliumos appropriációk és a saját munkaképesség feletti szabad rendelkezés kizárása révén gátolja a szabad piaci képződést.
 
@@ -105,7 +101,7 @@ A varṇák ennek megfelelően születési rendek.
 
 **kavi** m. -- ⟪कवि⟫ : költő.
 
-**agni** m. -- ⟪अग्नि⟫ : tűz, Agni isten. <!-- TODO: Fallback translation -->
+**agni** m. -- ⟪अग्नि⟫ : tűz, Agni isten.
 
 ::: media
 ![](/images/lekt0203.jpg)
@@ -123,11 +119,11 @@ A varṇák ennek megfelelően születési rendek.
 :::
 **guru** 3 -- ⟪गुरु⟫ : nehéz, jelentős, tiszteletre méltó
 
-**guru** m. -- ⟪गुरु⟫ : tiszteletre méltó személy: apa, anya, idősebb rokon, különösen tanár, mester <!-- TODO: Fallback translation -->
+**guru** m. -- ⟪गुरु⟫ : tiszteletre méltó személy: apa, anya, idősebb rokon, különösen tanár, mester
 
 ---
 
-## 3. lecke <!-- TODO: Fallback translation -->
+## 3. lecke
 
 
 
@@ -135,7 +131,7 @@ A varṇák ennek megfelelően születési rendek.
 
 
 
-**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
 **śruti** f. = ⟪श्रुति⟫ : a hallás, az örökös hagyomány (a Védák és Brāhmaṇa-k megnevezése).
 
@@ -154,18 +150,18 @@ A varṇák ennek megfelelően születési rendek.
 - a **purāṇa** n. (⟪पुराण⟫)
 - **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : az életbölcsesség kézikönyvei
 
-A **smṛti** kifejezés különösen a dharma-kézikönyvekre is utal. <!-- TODO: Fallback translation -->
+A **smṛti** kifejezés különösen a dharma-kézikönyvekre is utal.
 
 **dhenu** f. = ⟪धेनु⟫ : (tejszarvas) tehén.
 
 **paśu** m. = ⟪पशु⟫ : háziasított haszonállat, állatok (kollektívum).
 
 
-**devatā** f. = ⟪देवता⟫ : isten (absztrakt és konkrét). <!-- TODO: Fallback translation -->
+**devatā** f. = ⟪देवता⟫ : isten (absztrakt és konkrét).
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : bráhmaninő.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya nő. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya nő.
 
 **kṣatriyī** f. = ⟪क्षत्रियी⟫ : kṣatriya felesége.
 
@@ -175,7 +171,7 @@ A **smṛti** kifejezés különösen a dharma-kézikönyvekre is utal. <!-- TOD
 
 **śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : śúdra felesége.
 
-**devī** f. = ⟪देवी⟫ : istennő, különösen Durgā f. = ⟪दुर्गा⟫, Śiva felesége = ⟪शिव⟫. <!-- TODO: Fallback translation -->
+**devī** f. = ⟪देवी⟫ : istennő, különösen Durgā f. = ⟪दुर्गा⟫, Śiva felesége = ⟪शिव⟫.
 
 ::: media
 ![](/images/lekt0303.webp)
@@ -190,15 +186,15 @@ Kép: Durgā = ⟪दुर्गा⟫, Orissa
 
 **ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filozófia (az a tudomány, amely logikailag helyes érvelésekkel jut következtetésekhez).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : figyelmen kívül hagyás, közöny. <!-- TODO: Fallback translation -->
+**upekṣā** f. = ⟪उपेक्षा⟫ : figyelmen kívül hagyás, közöny.
 
 **karuṇā** f. = ⟪करुणा⟫ : együttérzés, részvét.
 
-**muditā** f. = ⟪मुदिता⟫ : öröm, különösen részvétel az örömben (a irigységgel szemben). <!-- TODO: Fallback translation -->
+**muditā** f. = ⟪मुदिता⟫ : öröm, különösen részvétel az örömben (a irigységgel szemben).
 
 ---
 
-## 5. lecke <!-- TODO: Fallback translation -->
+## 5. lecke
 
 
 
@@ -206,7 +202,7 @@ Kép: Durgā = ⟪दुर्गा⟫, Orissa
 
 
 
-**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
 **abhiniveṣa** m. = ⟪अभिनिवेष⟫ : hajlam, makósság, ragaszkodás; különösen: a testhez való ragaszkodás, mintha az valami saját lenne.
 
@@ -217,15 +213,15 @@ Kép: Durgā = ⟪दुर्गा⟫, Orissa
 Kép: Kāma isten = kāmadeva = ⟪कामदेव⟫, 18. század
 (Képmegjelölés: Wikipedia, Közterület)
 :::
-**krodha** m. = ⟪क्रोध⟫ : harag. <!-- TODO: Fallback translation -->
+**krodha** m. = ⟪क्रोध⟫ : harag.
 
 **kleśa** m. = ⟪क्लेश⟫ : szenvedés, csapás.
 
 **trayī** f. = ⟪त्रयी⟫ : hármas; különösen a három véda (Ṛgvéda, Számavéda, Jajurvéd).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politika (egy tatpuruṣa a daṇḍa m. = „bot, hatalom, uralkodás, büntetés” és nīti f. = „helyes irányítás” szavakból). <!-- TODO: Fallback translation -->
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politika (egy tatpuruṣa a daṇḍa m. = „bot, hatalom, uralkodás, büntetés” és nīti f. = „helyes irányítás” szavakból).
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : kétszer született. <!-- TODO: Fallback translation -->
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : kétszer született.
 
 **dveṣa** m. = ⟪द्वेष⟫ : gyűlölet.
 
@@ -235,7 +231,7 @@ Kép: Kāma isten = kāmadeva = ⟪कामदेव⟫, 18. század
 
 **lobha** m. = ⟪लोभ⟫ : kapzsiság, mohóság.
 
-**varṇa** m. = ⟪वर्ण⟫ : szín, fajta, rend. <!-- TODO: Fallback translation -->
+**varṇa** m. = ⟪वर्ण⟫ : szín, fajta, rend.
 
 **vārttā** f. = ⟪वार्त्ता⟫ : megélés, közgazdaságtan (közgazdálkodás).
 
@@ -250,7 +246,7 @@ Kép: Kāma isten = kāmadeva = ⟪कामदेव⟫, 18. század
 
 ---
 
-## 6. lecke <!-- TODO: Fallback translation -->
+## 6. lecke
 
 
 
@@ -281,7 +277,7 @@ A szanszkritban az igék **tő-alakban** szerepelnek. A tő után álló szám a
 
 ---
 
-## 7. lecke <!-- TODO: Fallback translation -->
+## 7. lecke
 
 
 
@@ -289,7 +285,7 @@ A szanszkritban az igék **tő-alakban** szerepelnek. A tő után álló szám a
 
 
 
-**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
 - **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : elérni, eljutni, birtokba venni
 - **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : elérni, birtokba venni
@@ -315,7 +311,7 @@ Kép: Ez volt-e a védikus szomanövény?: lúdbögő: *Amanita muscaria* (L.) L
 
 ---
 
-## 8. lecke <!-- TODO: Fallback translation -->
+## 8. lecke
 
 
 
@@ -323,7 +319,7 @@ Kép: Ez volt-e a védikus szomanövény?: lúdbögő: *Amanita muscaria* (L.) L
 
 
 
-**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
 - **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : diadalmaskodni, legyőzni
 - **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : megfogni, kapni, megszerezni
@@ -341,7 +337,7 @@ Kép: Ez volt-e a védikus szomanövény?: lúdbögő: *Amanita muscaria* (L.) L
 - **śuka** m. ⟪शुक⟫ : papagáj
 - **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : esni, repülni
 - **patrikā** f. ⟪पत्रिका⟫ : levél
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : karcolni, írni (eredetileg a pálmalevélen egy szúróeszközzel, majd általánosan) <!-- TODO: Fallback translation -->
+- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : karcolni, írni (eredetileg a pálmalevélen egy szúróeszközzel, majd általánosan)
 
 
 ::: media
@@ -359,7 +355,7 @@ Kép: **likh** (⟪लिख्⟫) : Batak írópálcika (Sumatra), amely való
 
 ---
 
-## 9. Lecke <!-- TODO: Fallback translation -->
+## 9. Lecke
 
 
 
@@ -367,7 +363,7 @@ Kép: **likh** (⟪लिख्⟫) : Batak írópálcika (Sumatra), amely való
 
 
 
-**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
 - **adhyayana** n. (⟪अध्ययन⟫) : tanulás, különösen a Védák tanulmányozása
 
@@ -376,7 +372,7 @@ Kép: **likh** (⟪लिख्⟫) : Batak írópálcika (Sumatra), amely való
 Kép: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram Madurai közelében.
 (Képmegjelenítés: [Details](/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : kézműves <!-- TODO: Fallback translation -->
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : kézműves
 
 ::: media
 ![](/images/lekt0902.webp)
@@ -401,7 +397,7 @@ Kép: **kāru** = ⟪कारु⟫, Gujarat.
 
 ---
 
-## 10. Lecke <!-- TODO: Fallback translation -->
+## 10. Lecke
 
 
 
@@ -409,7 +405,7 @@ Kép: **kāru** = ⟪कारु⟫, Gujarat.
 
 
 
-**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
 - **gṛha** n. ⟪गृह⟫ : ház
 - **grāma** m. ⟪ग्राम⟫ : falu
@@ -443,14 +439,14 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hátrahagyott anya
 Kép: ⟪वरुणः⟫
 (Képmegjelenítés: [Details](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : hamisság, hazugság (a **satya** ellentéte) <!-- TODO: Fallback translation -->
+- **anṛta** n. ⟪अनृत⟫ : hamisság, hazugság (a **satya** ellentéte)
 
 
 ::: note-box
-Wortbildung **an-** („un-“) + **ṛta** n. <!-- TODO: Fallback translation -->
+Wortbildung **an-** („un-“) + **ṛta** n.
 
 **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
-- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder <!-- TODO: Fallback translation -->
+- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
 
 :::
 ::: note-box
@@ -463,11 +459,11 @@ Abb.: ⟪विश्वामित्रः⟫
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
-- **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis) <!-- TODO: Fallback translation -->
+- **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
 
 ---
 
-## 11. lecke <!-- TODO: Fallback translation -->
+## 11. lecke
 
 
 
@@ -475,7 +471,7 @@ Abb.: ⟪विश्वामित्रः⟫
 
 
 
-**Tanulja meg a következő szavakat:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
 - **iti** ⟪इति⟫ : így
 - *Utána* áll egy gondolat, kívánság, kijelentés vagy idézet megfogalmazása után, mintha idézőjel („") lenne.
@@ -509,11 +505,11 @@ Kép: **vadanāni** = ⟪वदनानि⟫
 - **praśna** m. ⟪प्रश्न⟫ : kérdés (Suffix **-na** mint **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : kívánni
-- **iṣṭi** f. ⟪इष्टि⟫ : kívánság (**iṣ** + **-ti**) <!-- TODO: Fallback translation -->
+- **iṣṭi** f. ⟪इष्टि⟫ : kívánság (**iṣ** + **-ti**)
 
 ---
 
-## 12. lecke <!-- TODO: Fallback translation -->
+## 12. lecke
 
 
 
@@ -532,14 +528,14 @@ Kép: ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (valamit) eléget
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : leküzdeni, elviselni, türelmesen elviselni = bocsánatot adni
 - **mṛga** m. ⟪मृग⟫ : vadállat
-- **mārga** m. ⟪मार्ग⟫ : út (az utak gyakran a vadösvények voltak) <!-- TODO: Fallback translation -->
+- **mārga** m. ⟪मार्ग⟫ : út (az utak gyakran a vadösvények voltak)
 
 ::: media
 ![](/images/lekt1202.webp)
 Kép: ⟪मार्गः⟫
 (Képmegjelenítés: [Details](/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : is (utólagos) <!-- TODO: Fallback translation -->
+- **api** ⟪अपि⟫ : is (utólagos)
 
 A 6. jelen idő osztályba a bennszülött grammatikusok néhány gyökérrendszert sorolnak, amelyek a jelen időtőkéjét nasális infixussal és témahanggal a-val képezik, például:
 
@@ -557,11 +553,11 @@ Szóképzés:
 Kép: ⟪महावीरो⟫ ⟪जिनः⟫
 (Képmegjelenítés: [Details](/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : felismerés, felismerő szerv. <!-- TODO: Fallback translation -->
+- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : felismerés, felismerő szerv.
 
 ---
 
-### 12.5.1. A eddig tanult gyökerek passzívja és PPP-je <!-- TODO: Fallback translation -->
+### 12.5.1. A eddig tanult gyökerek passzívja és PPP-je
 
 | Gyökér:br⟪धातु⟫ | Passzív jelen idő 3. sg. indikatív:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
@@ -613,7 +609,7 @@ Kép: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ---
 
-## 13. Lecke <!-- TODO: Fallback translation -->
+## 13. Lecke
 
 
 
@@ -621,7 +617,7 @@ Kép: ⟪महावीरो⟫ ⟪जिनः⟫
 
 
 
-Tanulják meg a következő szavakat: <!-- TODO: Fallback translation -->
+Tanulják meg a következő szavakat:
 
 - **eva** ⟪एव⟫ : előző szót hangsúlyozza
 - **asura** m. ⟪असुर⟫ : démon
@@ -636,7 +632,7 @@ Tanulják meg a következő szavakat: <!-- TODO: Fallback translation -->
 >
 > Ebben az értelemben más eredetet találtak rá: a forrás már nem asu, 'lélegzet', hanem az első *a* tagadó előtagként van értelmezve, és az asura jelentése 'nem isten'; ezért egyesek szerint keletkezett a *sura* szó, amelyet általában 'istennek' használnak."
 >
-> [Forrás: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ] <!-- TODO: Fallback translation -->
+> [Forrás: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 
 ::: media
@@ -656,7 +652,7 @@ Tanulják meg a következő szavakat: <!-- TODO: Fallback translation -->
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : gyűlölni, ellenségeskedni
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : enni, fogyasztani
-- **anna** n. ⟪अन्न⟫ : étel (a PPP-ből: *ad-na: a megevett) <!-- TODO: Fallback translation -->
+- **anna** n. ⟪अन्न⟫ : étel (a PPP-ből: *ad-na: a megevett)
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -677,14 +673,14 @@ pad 4 Ā:
 Ábra: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt1303))
 :::
-dviṣ 2 U: <!-- TODO: Fallback translation -->
+dviṣ 2 U:
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : gyűlölet
 :::
 ---
 
-## 14. lecke <!-- TODO: Fallback translation -->
+## 14. lecke
 
 
 
@@ -694,7 +690,7 @@ dviṣ 2 U: <!-- TODO: Fallback translation -->
 
 * **śīla n.** (⟪शील⟫) : (jó) karakter, erkölcsösség
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : ékszer
-* **dīpa m.** (⟪दीप⟫) : lámpa <!-- TODO: Fallback translation -->
+* **dīpa m.** (⟪दीप⟫) : lámpa
 
 ::: media
 ![](/images/lekt1405.webp)
@@ -715,7 +711,7 @@ dviṣ 2 U: <!-- TODO: Fallback translation -->
 * **vac-ana n.** (⟪वचन⟫) : a beszéd, a szó
 * **vāk-ya n.** (⟪वाक्य⟫) : szó, beszéd
 
-## 15. lecke <!-- TODO: Fallback translation -->
+## 15. lecke
 
 
 
@@ -754,7 +750,7 @@ dviṣ 2 U: <!-- TODO: Fallback translation -->
 Abb.: ⟪इन्द्रः⟫
 (Bildquelle: [Details](/licenses#lekt1505))
 :::
-⟪दास⟫ m.: Szolga, hűbérúr szolgája, szolga <!-- TODO: Fallback translation -->
+⟪दास⟫ m.: Szolga, hűbérúr szolgája, szolga
 
 ⟪दासी⟫ f.: Szolgaleány, hűbérúr szolgaasszonya, szolgáló
 
@@ -762,9 +758,9 @@ Abb.: ⟪इन्द्रः⟫
 
 ⟪काल⟫ 3: fekete, kékesfekete, sötét
 
-⟪पुरुष⟫ m.: Ember, férfi, szolga <!-- TODO: Fallback translation -->
+⟪पुरुष⟫ m.: Ember, férfi, szolga
 
-\-⟪जन⟫ mint a Tatpuruṣa második tagja gyakran a többes szám kifejezője <!-- TODO: Fallback translation -->
+\-⟪जन⟫ mint a Tatpuruṣa második tagja gyakran a többes szám kifejezője
 
 ⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : dicsér, magasztal
 
@@ -787,11 +783,11 @@ Abb.: ⟪सिंहः⟫
 Abb.: ⟪व्याघ्रः⟫
 (Bildquelle: [Details](/licenses#lekt1507))
 :::
-⟪इव⟫ (következő): mintha, mint (hasonlatokban: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = „egy ember, mint egy tigris”, „egy tigrisszerű ember” <!-- TODO: Fallback translation -->
+⟪इव⟫ (következő): mintha, mint (hasonlatokban: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = „egy ember, mint egy tigris”, „egy tigrisszerű ember”
 
-⟪एव⟫ (következő): hangsúlyozza az előtte állót, a németben gyakran a hangsúlynak felel meg, egyfajta érzelmi jelző `\&lt;!\&gt;`, pl. ⟪सत्यमेव⟫ ⟪जयति⟫ „csak az igazság győz”, „pontosan az igazság győz”, „az igazság győz” <!-- TODO: Fallback translation -->
+⟪एव⟫ (következő): hangsúlyozza az előtte állót, a németben gyakran a hangsúlynak felel meg, egyfajta érzelmi jelző `\&lt;!\&gt;`, pl. ⟪सत्यमेव⟫ ⟪जयति⟫ „csak az igazság győz”, „pontosan az igazság győz”, „az igazság győz”
 
-⟪अरि⟫ m.: Ellenség (Thiem szerint, Der Fremdling im Ṛgveda: eredetileg = idegen) <!-- TODO: Fallback translation -->
+⟪अरि⟫ m.: Ellenség (Thiem szerint, Der Fremdling im Ṛgveda: eredetileg = idegen)
 
 ::: indent
 ⟪आर्य⟫ 3: áriai, nemes ; m. Ária (a szanszkritot beszélő ókori indiaiak önmegnevezése, szó szerint: vendégszerető (Thieme)) ; Nemes, becsületes ember
@@ -852,7 +848,7 @@ ebből:
 
 ⟪निरोध⟫ m.: Megállás, leállítás
 
-* **bhūta n.** (⟪भूत⟫) (PPP a bhū-tól): Lény, szellem <!-- TODO: Fallback translation -->
+* **bhūta n.** (⟪भूत⟫) (PPP a bhū-tól): Lény, szellem
 
 ⟪योग⟫ m.: Fogatolás, kapcsolat, egyesülés, szerzés ; Jóga
 
@@ -860,7 +856,7 @@ ebből:
 ![](/images/lekt1601.webp)
 Abb.: ⟪योगी⟫
 Birla Mandir, Delhi
-(Bildquelle: [Details](/licenses#lekt1601)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1601))
 
 :::
 ⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : forgás, fordul, (valahol) tartózkodik, lakik
@@ -871,7 +867,7 @@ Birla Mandir, Delhi
 
 ⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: célhoz vezető, okozó
 
-⟪अहिंसा⟫ f.: senkinek semmit nem ártani, sértetlenség, erőszakmentesség <!-- TODO: Fallback translation -->
+⟪अहिंसा⟫ f.: senkinek semmit nem ártani, sértetlenség, erőszakmentesség
 
 ::: media
 ![](/images/lekt1603.jpg)
@@ -887,7 +883,7 @@ Kép: ⟪अहिंसा⟫
 
 
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : ütni, megölni, megsemmisíteni <!-- TODO: Fallback translation -->
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : ütni, megölni, megsemmisíteni
 
 ebből:
 
@@ -900,7 +896,7 @@ Kép: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Képmegjelölés: [Details](/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : ülni <!-- TODO: Fallback translation -->
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : ülni
 
 ebből:
 
@@ -919,7 +915,7 @@ ebből:
 ::: indent
 ⟪रुद्र⟫ m.: (a nyögő =) a viharisten Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ nincs passzív és PPP: beszélni, mondani (valamit valakinek: kétszeres akkuzatívus) <!-- TODO: Fallback translation -->
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ nincs passzív és PPP: beszélni, mondani (valamit valakinek: kétszeres akkuzatívus)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : fejelni
 
@@ -928,7 +924,7 @@ ebből:
 Kép: ⟪दोग्धि⟫
 (Képmegjelölés: [Details](/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mutatni, utasítani, parancsolni <!-- TODO: Fallback translation -->
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mutatni, utasítani, parancsolni
 
 ebből:
 
@@ -949,7 +945,7 @@ ebből:
 
 ⟪शोभन⟫ 3: ragyogó, pompás, csodálatos, szép, jó
 
-⟪सम⟫ 3: egyenlő, azonos, hasonló (instrumentálissal) <!-- TODO: Fallback translation -->
+⟪सम⟫ 3: egyenlő, azonos, hasonló (instrumentálissal)
 
 ⟪व्याधि⟫ m.: betegség
 
@@ -961,7 +957,7 @@ ebből:
 
 ⟪शूर⟫ 3: bátor, hősies; m.: hős
 
-⟪शब्द⟫ m.: hang, jelhang: szó <!-- TODO: Fallback translation -->
+⟪शब्द⟫ m.: hang, jelhang: szó
 
 ⟪उदक⟫ n.: víz
 
@@ -979,7 +975,7 @@ ebből:
 
 ⟪प्रभृति⟫ f.: kezdet
 
-## 19. lecke <!-- TODO: Fallback translation -->
+## 19. lecke
 
 
 
@@ -992,7 +988,7 @@ ebből:
 ⟪अर्थ⟫ az élet három célja (⟪पुरुषार्थ⟫) egyike, ahogy a világi és vallási irodalom leírja:
 
 ::: indent
-**⟪धर्म⟫ m.:** érdem szerzése a helyes cselekvés által, vagy legalábbis a rossz elkerülése, amely a dharma nem követéséből adódna <!-- TODO: Fallback translation -->
+**⟪धर्म⟫ m.:** érdem szerzése a helyes cselekvés által, vagy legalábbis a rossz elkerülése, amely a dharma nem követéséből adódna
 
 **⟪अर्थ⟫ m.:** célszerű viselkedés, jólét szerzése
 
@@ -1031,7 +1027,7 @@ tőle ⟪स्था⟫ :
 Badami (ಬದಾಮಿ)
 (Képmegjelenítés: [Részletek](/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** vízhozó = esőfelhő <!-- TODO: Fallback translation -->
+**⟪वारिद⟫ m.:** vízhozó = esőfelhő
 
 ::: media
 ![](/images/lekt1902.jpg)
@@ -1039,7 +1035,7 @@ Badami (ಬದಾಮಿ)
 Goa (⟪गोंय⟫)
 (Képmegjelenítés: [Részletek](/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** fúj <!-- TODO: Fallback translation -->
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** fúj
 
 tőle:
 
@@ -1064,15 +1060,15 @@ tőle:
 ⟪१९५९⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** lakik valakinél, megszáll (Akuszatívus, Lokatívus) ; felkeres, odalép valakihez (Akuszatívus) ; szolgál, gondoskodik, tisztel ; gyakorol, használ ; lakik együtt, nemi kapcsolatot létesít <!-- TODO: Fallback translation -->
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** lakik valakinél, megszáll (Akuszatívus, Lokatívus) ; felkeres, odalép valakihez (Akuszatívus) ; szolgál, gondoskodik, tisztel ; gyakorol, használ ; lakik együtt, nemi kapcsolatot létesít
 
 **⟪नि⟫ előtag:** le, be
 
-**⟪सेव्⟫ + ⟪नि⟫ 1 Ā ⟪निषेवते⟫ :** lakik valakinél, megszáll, felkeres <!-- TODO: Fallback translation -->
+**⟪सेव्⟫ + ⟪नि⟫ 1 Ā ⟪निषेवते⟫ :** lakik valakinél, megszáll, felkeres
 
 **⟪अमुत्र⟫ :** ott, a túlvilágon
 
-**⟪इह⟫ :** itt, a ezen a világon <!-- TODO: Fallback translation -->
+**⟪इह⟫ :** itt, a ezen a világon
 
 **⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** talál
 
@@ -1086,7 +1082,7 @@ tőle:
 
 **⟪हि⟫ :** mert, nevezetesen (soha nem állhat mondat elején)
 
-## 20. lecke <!-- TODO: Fallback translation -->
+## 20. lecke
 
 
 
@@ -1115,7 +1111,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy r
 
 ⟪अधि⟫ előtag: felül, fent, -, vonatkozással
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : megtalál, eljut, megszerez <!-- TODO: Fallback translation -->
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : megtalál, eljut, megszerez
 
 ⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : csökkent, gyengít
 
@@ -1133,7 +1129,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy r
 
 ⟪मही⟫ nőm.: föld, talaj
 
-⟪लक्षण⟫ n.: jellemző, jelzés, attribútum <!-- TODO: Fallback translation -->
+⟪लक्षण⟫ n.: jellemző, jelzés, attribútum
 
 ⟪विप्र⟫ hím.: "remegő" = költő, énekes, pap, bráhmana
 
@@ -1173,7 +1169,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy r
 
 ⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : meghajolni
 
-⟪उद्⟫ előtag: fel, felfelé, ki-, kifelé <!-- TODO: Fallback translation -->
+⟪उद्⟫ előtag: fel, felfelé, ki-, kifelé
 
 ⟪नाभि⟫ nőm.: köldök
 
@@ -1195,7 +1191,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy r
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : mozognak
 
-## 21. lecke <!-- TODO: Fallback translation -->
+## 21. lecke
 
 
 
@@ -1203,7 +1199,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy r
 
 
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** valakinek (Tárgyes.) valamit juttat, megad, valakit szeretni, tisztelni, imádni <!-- TODO: Fallback translation -->
+**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** valakinek (Tárgyes.) valamit juttat, megad, valakit szeretni, tisztelni, imádni
 
 ebből:
 
@@ -1243,14 +1239,14 @@ Kép: ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laosz = ປະເທດລາວ
 (Képmegjelenítés: [Részletek](/licenses#lekt2104))
 :::
-**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** romlani (intransztív), rosszul lenni, szégyenbe jutni <!-- TODO: Fallback translation -->
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** romlani (intransztív), rosszul lenni, szégyenbe jutni
 
 ::: indent
 **⟪दोष⟫ m.:** hiba
 :::
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (nincs PPP, helyette ⟪पक्व⟫ 3: főtt, párolt) Abszol. ⟪पक्त्वा⟫ :** főzni (transztív) = főz, süti, pirít stb.
 
-## 22. lecke <!-- TODO: Fallback translation -->
+## 22. lecke
 
 
 
@@ -1284,20 +1280,20 @@ Kép: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (Képmegjelenítés: [Részletek](/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P ⟪अर्हति⟫ Pass. ⟪अर्ह्यते⟫ PPP ⟪अर्हित⟫ Inf. ⟪अर्हितुम्⟫ :** megérdemelni valamit (valami méltó lenni), szabad, köteles lenni valahoz, kell (a 2. személyben a ⟪अर्ह्⟫ + infinitívus gyakran enyhített parancsként hangzik: "Te kellene hogy...") <!-- TODO: Fallback translation -->
+**⟪अर्ह⟫ 1 P ⟪अर्हति⟫ Pass. ⟪अर्ह्यते⟫ PPP ⟪अर्हित⟫ Inf. ⟪अर्हितुम्⟫ :** megérdemelni valamit (valami méltó lenni), szabad, köteles lenni valahoz, kell (a 2. személyben a ⟪अर्ह्⟫ + infinitívus gyakran enyhített parancsként hangzik: "Te kellene hogy...")
 
 ::: indent
 **⟪अर्हन्त्⟫ 3** Part. Präs. P: egy méltó. Buddhizmus és dzsainizmusban: az, aki elérte a végső megszabadulást
 :::
-**⟪व्रत⟫ n.:** fogadalom, vallási kötelesség, vallási megfigyelés (valaki ígéretet tesz az istenségnek, hogy valamit elérjen tőle. Példa: egy anya ígéretet tesz, hogy leányát templomi prostituálttá (⟪देवदासी⟫) adja, ha leánya újra egészséges lesz. Fontos ⟪व्रत⟫ ma: böjt; azoktól az ételektől való tartózkodás, amelyeket szeretünk; szexuális tartózkodás; szent írások olvasása; bizonyos rítusok végrehajtása; brahmanák etetése stb. Röviden a ⟪व्रत⟫-ról: Walker, Hindu World II. kötet, 581. oldal; Részletesen: P. V. Kane: History of Dharmaśāstra V. kötet, 1. rész, 1-462. oldal. Ott 253-462. oldal: ⟪व्रत⟫ és vallási ünnepek listája ("a következő lista ... nem igényel teljes teljességet" !!!) <!-- TODO: Fallback translation -->
+**⟪व्रत⟫ n.:** fogadalom, vallási kötelesség, vallási megfigyelés (valaki ígéretet tesz az istenségnek, hogy valamit elérjen tőle. Példa: egy anya ígéretet tesz, hogy leányát templomi prostituálttá (⟪देवदासी⟫) adja, ha leánya újra egészséges lesz. Fontos ⟪व्रत⟫ ma: böjt; azoktól az ételektől való tartózkodás, amelyeket szeretünk; szexuális tartózkodás; szent írások olvasása; bizonyos rítusok végrehajtása; brahmanák etetése stb. Röviden a ⟪व्रत⟫-ról: Walker, Hindu World II. kötet, 581. oldal; Részletesen: P. V. Kane: History of Dharmaśāstra V. kötet, 1. rész, 1-462. oldal. Ott 253-462. oldal: ⟪व्रत⟫ és vallási ünnepek listája ("a következő lista ... nem igényel teljes teljességet" !!!)
 
-**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Szanszkrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫) :** legeltetni, bolyongani, mozogni, cselekedni, valamit gyakorolni, végrehajtani (pl. **⟪व्रतं⟫ ⟪चर्⟫**: egy fogadalmat gyakorolni, különösen szexuális tartózkodás) <!-- TODO: Fallback translation -->
+**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Szanszkrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫) :** legeltetni, bolyongani, mozogni, cselekedni, valamit gyakorolni, végrehajtani (pl. **⟪व्रतं⟫ ⟪चर्⟫**: egy fogadalmat gyakorolni, különösen szexuális tartózkodás)
 
 
 ebből:
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** mozgó; n.: a mozgató = állatok (növényekkel szemben) <!-- TODO: Fallback translation -->
+**⟪चर⟫ ⟪३⟫:** mozgó; n.: a mozgató = állatok (növényekkel szemben)
 
 **⟪चरण⟫ n., m.:** láb
 
@@ -1327,7 +1323,7 @@ Goa = ⟪गोंय⟫
 
 ⟪विशेष⟫ m.: különlegesség, specifikáció, differentia specifica
 
-## 24. lecke <!-- TODO: Fallback translation -->
+## 24. lecke
 
 
 
@@ -1335,7 +1331,7 @@ Goa = ⟪गोंय⟫
 
 
 
-⟪अलम्⟫ határozószó: elég, elegendő, (valakinek/valaminek) megfelel; datívussal: elég valamire, elegendő valahova; instrumentálissal: elég valamihez, hagyd abba a ...-t, pl. ⟪अलं⟫ ⟪क्रोधेन⟫ = "elég a haragból = hagyd abba a haraggal!" <!-- TODO: Fallback translation -->
+⟪अलम्⟫ határozószó: elég, elegendő, (valakinek/valaminek) megfelel; datívussal: elég valamire, elegendő valahova; instrumentálissal: elég valamihez, hagyd abba a ...-t, pl. ⟪अलं⟫ ⟪क्रोधेन⟫ = "elég a haragból = hagyd abba a haraggal!"
 
 Ugyanúgy, mint ⟪अलम्⟫ az instrumentálissal használva:
 
@@ -1370,7 +1366,7 @@ A ⟪वृत्⟫-ból:
 
 ⟪वृत्त⟫ n.: viselkedés
 :::
-⟪अभि⟫ előtag:  be-, után - felé, hozzá - oda, ellen, be - bele, tekintetben, ról, fölött, mellett <!-- TODO: Fallback translation -->
+⟪अभि⟫ előtag:  be-, után - felé, hozzá - oda, ellen, be - bele, tekintetben, ról, fölött, mellett
 
 ⟪नि⟫ előtag: lefelé, alá, bele, hátra
 
@@ -1445,13 +1441,13 @@ Kép: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्�
 A ⟪गीतगोविन्द⟫ kézirata, i. sz. 1730
 (Kép forrása: [Részletek](/licenses#lekt2411))
 :::
-⟪स्वागत⟫ n.: Üdvözlet (a su-ā-gata szóból) <!-- TODO: Fallback translation -->
+⟪स्वागत⟫ n.: Üdvözlet (a su-ā-gata szóból)
 
 ⟪तृण⟫ n.: fűszál
 
 ⟪पुनर्⟫ határozószó: ismét, újra, vissza, de
 
-## 25. lecke <!-- TODO: Fallback translation -->
+## 25. lecke
 
 
 
@@ -1459,7 +1455,7 @@ A ⟪गीतगोविन्द⟫ kézirata, i. sz. 1730
 
 
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫ : elhagyni, feladni, cserben hagyni <!-- TODO: Fallback translation -->
+⟪त्यज्⟫ 1P ⟪त्यजति⟫ : elhagyni, feladni, cserben hagyni
 
 ::: indent
 Fut. ⟪त्यक्ष्यति⟫  
@@ -1523,7 +1519,7 @@ ebből:
 
 ⟪न्याय⟫ m.: szabály, elv, módszer, ítélet (jogi), logika (a ni + i + a szóból)
 
-⟪अन्यथा⟫ határozószó: másképp, különben, tévesen, helytelenül <!-- TODO: Fallback translation -->
+⟪अन्यथा⟫ határozószó: másképp, különben, tévesen, helytelenül
 
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
@@ -1537,7 +1533,7 @@ Absol. 2: -⟪याय⟫
 
 ⟪प्रदान⟫ n. = ⟪दान⟫
 
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : parancsolni, tanítani, büntetni <!-- TODO: Fallback translation -->
+⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : parancsolni, tanítani, büntetni
 
 ::: indent
 Pass. ⟪शिष्यते⟫  
@@ -1564,7 +1560,7 @@ ebből:
 Ábra: ⟪मूलानि⟫
 (Képmegjelenítés: [Details](/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bekenni, bekenyőzni <!-- TODO: Fallback translation -->
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bekenni, bekenyőzni
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
@@ -1581,7 +1577,7 @@ ebből:
 Ábra: ⟪लिप्तिः⟫
 (Képmegjelenítés: [Details](/licenses#lekt2503))
 :::
-⟪वर्ष⟫ n.,m.: eső, esős évszak, év <!-- TODO: Fallback translation -->
+⟪वर्ष⟫ n.,m.: eső, esős évszak, év
 
 ⟪वह्⟫ 1U ⟪वहति⟫ : vezet, halad, fúj (szél)
 
@@ -1592,7 +1588,7 @@ PPP ⟪ऊढ⟫
 Inf. ⟪वोढुम्⟫  
 Absol 2: -⟪उह्य⟫
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : elvezet (nevezetesen a menyasszonyt az szülői házból) = megházasodik <!-- TODO: Fallback translation -->
+⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : elvezet (nevezetesen a menyasszonyt az szülői házból) = megházasodik
 
 ebből:
 
@@ -1603,7 +1599,7 @@ ebből:
 Ábra: ⟪विवाहः⟫
 (Képmegjelenítés: [Details](/licenses#lekt2504))
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : elvezet, oktat, nevel <!-- TODO: Fallback translation -->
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : elvezet, oktat, nevel
 
 ::: indent
 ebből:
@@ -1619,7 +1615,7 @@ ebből:
 Ábra: ⟪विष्टिः⟫
 (Képmegjelenítés: [Details](/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : nő, nagyobb lesz <!-- TODO: Fallback translation -->
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : nő, nagyobb lesz
 
 ::: indent
 Fut. ⟪वर्धिष्यते⟫  
@@ -1631,7 +1627,7 @@ ebből:
 
 ⟪वृद्धि⟫ f.: növekedés, növekedés, hangfok (ebből: vṛdh-ti)
 :::
-⟪सामर्थ्य⟫ n.: a céljának megfelelő <!-- TODO: Fallback translation -->
+⟪सामर्थ्य⟫ n.: a céljának megfelelő
 
 ⟪स्वभाव⟫ m.: lény, természet, karakter
 
@@ -1644,11 +1640,11 @@ ebből:
 Ábra: ⟪हिरण्यम्⟫
 (Képmegjelenítés: [Details](/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : vékony, finom, nagyon kicsi; m.: atom <!-- TODO: Fallback translation -->
+⟪अणु⟫ ⟪३⟫ : vékony, finom, nagyon kicsi; m.: atom
 
 ⟪गोदान⟫ n.: tehenek / egy tehén adása; második hajvágási ceremónia (egy ⟪संस्कार⟫)
 
-## 27. lecke <!-- TODO: Fallback translation -->
+## 27. lecke
 
 
 
@@ -1691,7 +1687,7 @@ ebből:
 Vastrāṇi. Majuli, Assam.
 (Képmegjelenítés: [Details](/licenses#lekt2706))
 :::
-⟪वस्⟫ 6P (⟪उच्छति⟫): felragyog (ez a gyökér fontos a névszóképzések miatt:) <!-- TODO: Fallback translation -->
+⟪वस्⟫ 6P (⟪उच्छति⟫): felragyog (ez a gyökér fontos a névszóképzések miatt:)
 
 ::: indent
 ⟪वसु⟫ n.: gazdagság, kincs, vagyon, birtok
@@ -1720,7 +1716,7 @@ ebből:
 :::
 Ellentéte ⟪हर⟫:
 
-⟪हरि⟫ 3: szőke, sárga, zöld; m. Viṣṇu mellékneve (nem tartozik a ⟪हृ⟫ 1 gyökérhez) <!-- TODO: Fallback translation -->
+⟪हरि⟫ 3: szőke, sárga, zöld; m. Viṣṇu mellékneve (nem tartozik a ⟪हृ⟫ 1 gyökérhez)
 
 ⟪हरिहर⟫ m.: Viṣṇu és Śiva egyesülve egyetlen istenségként.
 
@@ -1801,7 +1797,7 @@ Kép: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā-Spielerin.
 (Képmegjelölés: [Részletek](/licenses#lekt2803))
 :::
-⟪भार⟫ m.: teher <!-- TODO: Fallback translation -->
+⟪भार⟫ m.: teher
 
 ::: media
 ![](/images/lekt2805.webp)
@@ -1813,7 +1809,7 @@ Lány teherrel. Ahmedabad közelében.
 
 ---
 
-## 29. lecke <!-- TODO: Fallback translation -->
+## 29. lecke
 
 
 
@@ -1824,17 +1820,17 @@ Lány teherrel. Ahmedabad közelében.
 Előtagok:
 
 ::: indent
-⟪उद्⟫° : fel, felfelé, emelkedő, kifelé, ki-, kiv- <!-- TODO: Fallback translation -->
+⟪उद्⟫° : fel, felfelé, emelkedő, kifelé, ki-, kiv-
 
 ⟪परि⟫° : körül, körüli (hely, idő), szerte
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (valaki körül lenni = bekeríteni =) uralkodni, legyőzni; megvetni, lenézni <!-- TODO: Fallback translation -->
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (valaki körül lenni = bekeríteni =) uralkodni, legyőzni; megvetni, lenézni
 
 ⟪अवज्ञान⟫ n.: megvetés
 
 ⟪गुप्त⟫ 3: óvott, védett
 
-⟪गृहस्थ⟫ 3: házban lévő; m. háztartásfeje (valaki, aki a 2. ⟪आश्रम⟫ állapotban van) <!-- TODO: Fallback translation -->
+⟪गृहस्थ⟫ 3: házban lévő; m. háztartásfeje (valaki, aki a 2. ⟪आश्रम⟫ állapotban van)
 
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : elfogyasztani, falni
 
@@ -1845,7 +1841,7 @@ Kaus. ⟪ग्रासयति⟫
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
 :::
-⟪तीक्ष्ण⟫ 3: "vad", éles, hegyes, szigorú, heves, nyelvtörő <!-- TODO: Fallback translation -->
+⟪तीक्ष्ण⟫ 3: "vad", éles, hegyes, szigorú, heves, nyelvtörő
 
 
 ⟪न्याय⟫ m.: norma, szabály, helyes mód; módszer, logika (a ⟪इ⟫ + ⟪नि⟫ szavakból)
@@ -1858,7 +1854,7 @@ Kép: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Képmegjelenés: [Részletek](/licenses#lekt2903))
 :::
-⟪पालयति⟫ : jelentése megegyezik a  ⟪पाति⟫ szavéval <!-- TODO: Fallback translation -->
+⟪पालयति⟫ : jelentése megegyezik a  ⟪पाति⟫ szavéval
 
 ⟪पुनर्⟫ Indekl.: újra, mindig újra, vissza, még egyszer; ellenben, de (zöngés hangok előtt az r- kivételével: ⟪पुनर्⟫)
 
@@ -1876,7 +1872,7 @@ Kép: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (Képmegjelenés: [Részletek](/licenses#lekt2901))
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): lágy, kedves, puha; lassú, gyenge <!-- TODO: Fallback translation -->
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): lágy, kedves, puha; lassú, gyenge
 
 ⟪यथा⟫ Hatószó: mint, mintha
 
@@ -1961,7 +1957,7 @@ Infinitívus ⟪पवितुम्⟫
 Kép: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Képmegjelenés: [Részletek](/licenses#lekt3003))
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : enni, elfogyaszt <!-- TODO: Fallback translation -->
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : enni, elfogyaszt
 
 ::: indent
 Jöv. ⟪अशिष्यति⟫  
@@ -2025,7 +2021,7 @@ ebből:
 :::
 ⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : örök, halhatatlan, állandó
 
-## 31. lecke <!-- TODO: Fallback translation -->
+## 31. lecke
 
 
 
@@ -2039,7 +2035,7 @@ ebből:
 **Pass. ⟪युज्यते⟫**
 **Kaus. ⟪योजयति⟫**
 **PPP ⟪युक्त⟫**
-**Inf. ⟪योक्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪योक्तुम्⟫**
 
 ebből:
 **⟪युग⟫ n. → ⟪युग⟫ n.:** igásállat, pár, világkorszak (négy világkorszak létezik:
@@ -2048,7 +2044,7 @@ ebből:
 3. ⟪द्वापर⟫
 4. ⟪कलि⟫
 
-A ⟪कलियुग⟫ i. e. 3102-ben kezdődött, a ⟪महाभारत⟫-háború évében. Részletek: Basham, Wonder S. 323) <!-- TODO: Fallback translation -->
+A ⟪कलियुग⟫ i. e. 3102-ben kezdődött, a ⟪महाभारत⟫-háború évében. Részletek: Basham, Wonder S. 323)
 
 **⟪योग⟫ m.:** "nyergbe szegés, megfeszítés", erőlködés, kapcsolat, jóga (lásd Basham, Wonder S. 327ff.)
 :::
@@ -2090,7 +2086,7 @@ Jógaábrázolás.
 :::
 **⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : szétken = riaszkozik, elkülönít
 ::: indent
-**PPP ⟪व्यक्त⟫ :** elkülönített, kibontakoztatott <!-- TODO: Fallback translation -->
+**PPP ⟪व्यक्त⟫ :** elkülönített, kibontakoztatott
 
 ebből:
 **⟪व्यञ्जन⟫ n.:** megkülönböztető eszköz = riasz, fűszer, jellegzetesség, mássalhangzó (ami megkülönbözi a jelentéseket)
@@ -2115,7 +2111,7 @@ Kathakali-tánc előkészítése, Kochi.
 **Pass. ⟪भुज्यते⟫**
 **Kaus. ⟪भोजयति⟫**
 **PPP bhukt → PPP ⟪भुक्त⟫**
-**Inf. ⟪भोक्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪भोक्तुम्⟫**
 
 ebből:
 **⟪भोग⟫ m.:** élvezet, étel, öröm, haszon, adó, illeték
@@ -2143,11 +2139,11 @@ Kép: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Képmegjelenítés: [Részletek](/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : keletkezik, létezik <!-- TODO: Fallback translation -->
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : keletkezik, létezik
 
 **⟪शरीर⟫ n.:** test, test
 
-## 32. lecke <!-- TODO: Fallback translation -->
+## 32. lecke
 
 
 
@@ -2157,7 +2153,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪अग्र⟫ n.:** csúcs, legkülső vég
 
-**⟪मही⟫ f.:** föld, talaj (szó szerint: a Nagy) <!-- TODO: Fallback translation -->
+**⟪मही⟫ f.:** föld, talaj (szó szerint: a Nagy)
 
 ⟪एकदा⟫
 
@@ -2181,7 +2177,7 @@ Kép: ⟪चूतः⟩
 Mangófa, Kanpur.
 (Képmegjelenítés: [Részletek](/licenses#lekt3202))
 :::
-⟪तरु⟩ ⟪वृक्ष⟩ <!-- TODO: Fallback translation -->
+⟪तरु⟩ ⟪वृक्ष⟩
 
 ⟪पचेलिम⟩
 
@@ -2267,7 +2263,7 @@ Kép: ⟪चितं⟩ ⟪गोमयं⟩ ⟪दहति⟩
 Égett tehéntrágya-tégla Rádzsasztánban.
 (Képmegjelenítés: [Részletek](/licenses#lekt3207))
 :::
-**⟪चि⟩ ⟪अव⟩** <!-- TODO: Fallback translation -->
+**⟪चि⟩ ⟪अव⟩**
 
 ⟪प्रति⟩
 
@@ -2281,7 +2277,7 @@ Kép: ⟪कौशलम्⟩
 Mehndi festés a kezeken Mumbajban.
 (Képmegjelenítés: [Részletek](/licenses#lekt3206))
 :::
-## 33. lecke <!-- TODO: Fallback translation -->
+## 33. lecke
 
 
 
@@ -2307,7 +2303,7 @@ ebből:
 Kép: ⟪दानम्⟩
 (Képmegjelenítés: [Részletek](/licenses#lekt3306))
 :::
-⟪दा⟩ + ⟪आ⟩ 3Ā ⟪अदत्ते⟩: (átveszi), birtokba vesz, magával visz <!-- TODO: Fallback translation -->
+⟪दा⟩ + ⟪आ⟩ 3Ā ⟪अदत्ते⟩: (átveszi), birtokba vesz, magával visz
 
 ::: indent
 **Abszol.** ⟪आदाय⟩: Akk. esetén: kíséretében, együtt
@@ -2317,7 +2313,7 @@ Kép: ⟪दानम्⟩
 Kép: ⟪सा⟩ ⟪पुत्रमादाय⟩ ⟪भारं⟩ ⟪बिभ्रती⟩ ⟪गच्छति⟩
 (Képmegjelenítés: [Részletek](/licenses#lekt3307))
 :::
-:sig[⟪धा⟩] 3U :sig[⟪दधाति⟩]: elhelyez, meghatároz, kioszt <!-- TODO: Fallback translation -->
+:sig[⟪धा⟩] 3U :sig[⟪दधाति⟩]: elhelyez, meghatároz, kioszt
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟩]  
@@ -2331,7 +2327,7 @@ Kép: ⟪सा⟩ ⟪पुत्रमादाय⟩ ⟪भारं⟩ ⟪�
 ::: indent
 ebből:
 
-⟪समाधि⟩ m.: belső összpontosítás, legmagasabb figyelem <!-- TODO: Fallback translation -->
+⟪समाधि⟩ m.: belső összpontosítás, legmagasabb figyelem
 
 :::
 ::: media
@@ -2339,7 +2335,7 @@ ebből:
 Kép: ⟪समाधि⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt3305))
 :::
-⟪पॄ⟫ 3P ⟪पिपर्ति⟫: megtölteni, beteljesíteni <!-- TODO: Fallback translation -->
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫: megtölteni, beteljesíteni
 
 ::: indent
 Jegyzet:
@@ -2355,7 +2351,7 @@ Jegyzet:
 :::
 ⟪पॄ⟫ + ⟪सम्⟫ csak **Pass.** ⟪सम्पूर्यते⟫ és **Kaus.**: teljesen megtölteni
 
-⟪भी⟫ 3P ⟪बिभेति⟫: félni valakitől (Abl., Gen.) <!-- TODO: Fallback translation -->
+⟪भी⟫ 3P ⟪बिभेति⟫: félni valakitől (Abl., Gen.)
 
 ::: indent
 **Fut.** ⟪भेष्यति⟫  
@@ -2412,7 +2408,7 @@ ebből:
 **Kaus.** ⟪हापयति⟫  
 **PPP** ⟪हीन⟫: elhagyott, nélkülöző, hiányos  
 **Inf.** ⟪हातुम्⟫
-a PPP-ből ⟪हीन⟫: <!-- TODO: Fallback translation -->
+a PPP-ből ⟪हीन⟫:
 
 ⟪हीनयान⟫ n.: a hiányos jármű (a buddhizmusé): megvető elnevezés a "nagy jármű" képviselői által, az ⟪महायान⟫; a hiányos út (⟪यान⟫ a ⟪या⟫ 2: menni, haladni). Az ⟪हीनयान⟫ kifejezést nem szabad tovább használni. A régi buddhizmus ma még létező formája ⟪थेरवाद⟫.
 :::
@@ -2461,7 +2457,7 @@ Kép: ⟪सस्यम्⟫
 Rice field in India.
 (Képmegjelölés: [Details](/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** mennyi ideig, mekkora <!-- TODO: Fallback translation -->
+**⟪यावत्⟫ :** mennyi ideig, mekkora
 
 **⟪तावत्⟫ :** ennyi ideig, ekkora
 
@@ -2475,7 +2471,7 @@ Kép: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
 (Képmegjelölés: [Details](/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** halandó (a ⟪मृ⟫ szóból) <!-- TODO: Fallback translation -->
+**⟪मर्त्य⟫ 3:** halandó (a ⟪मृ⟫ szóból)
 
 **⟪तिल⟫ m.:** szezmum (mag) (*Sesamum indicum* L.)
 
@@ -2499,7 +2495,7 @@ Kép: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
 (Képmegjelölés: [Details](/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** lakhely, templom <!-- TODO: Fallback translation -->
+**⟪निकेतन⟫ n.:** lakhely, templom
 
 **⟪कोटि⟫ f.:** csúcs; 10 millió
 
@@ -2515,7 +2511,7 @@ Kép: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Képmegjelölés: [Details](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** visszatart, tart, bemutat, biztosít <!-- TODO: Fallback translation -->
+**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** visszatart, tart, bemutat, biztosít
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** nyújt, kínál, átad
 
@@ -2523,7 +2519,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** lány, szűz
 
-## Lecke 35 <!-- TODO: Fallback translation -->
+## Lecke 35
 
 
 
@@ -2538,7 +2534,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 **Kaus. ⟪नाशयति⟫**
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : eltűnik, elveszik, elpusztul <!-- TODO: Fallback translation -->
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : eltűnik, elveszik, elpusztul
 
 ⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : lépdel, megy
 ::: indent
@@ -2574,7 +2570,7 @@ Kép: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Képmegjelölés: [Details](/licenses#lekt3501))
 :::
-## Lecke 36 <!-- TODO: Fallback translation -->
+## Lecke 36
 
 
 
@@ -2582,9 +2578,9 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 
 
 
-⟪अह्⟫ P csak Perfekt jelenlegi jelentéssel ⟪आह⟫, ⟪आहुर्⟫ : mond, beszél <!-- TODO: Fallback translation -->
+⟪अह्⟫ P csak Perfekt jelenlegi jelentéssel ⟪आह⟫, ⟪आहुर्⟫ : mond, beszél
 
-⟪अह्⟫ ⟪प्र⟫ P csak Perfekt jelenlegi jelentéssel ⟪प्राह⟫ : mond, beszél <!-- TODO: Fallback translation -->
+⟪अह्⟫ ⟪प्र⟫ P csak Perfekt jelenlegi jelentéssel ⟪प्राह⟫ : mond, beszél
 
 ⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : lát, (meg)pillant, vizsgál
 
@@ -2612,7 +2608,7 @@ Inf. ⟪चेतुम्⟫
 Kép: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Képmegjelölés: [Details](/licenses#lekt3601))
 :::
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : lépni, menni, elmenni <!-- TODO: Fallback translation -->
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : lépni, menni, elmenni
 
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -2622,7 +2618,7 @@ Kaus. ⟪व्राजयति⟫
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
 :::
-⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : elmenni (különösen a házból a hajléktalanságba, mint aszkéta = szerzetesnek lenni) <!-- TODO: Fallback translation -->
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : elmenni (különösen a házból a hajléktalanságba, mint aszkéta = szerzetesnek lenni)
 
 ⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: ház, otthon
 
@@ -2632,7 +2628,7 @@ Kép: ⟪अगारम्⟫
 (Képmegjelölés: [Details](/licenses#lekt3602))
 :::
 ::: indent
-ebből: <!-- TODO: Fallback translation -->
+ebből:
 
 ⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: buddhista szerzetes vagy novícius hajléktalansága
 :::
@@ -2654,7 +2650,7 @@ Kép: ⟪अनगार्यम्⟫
 ::: indent
 ⟪पृष्ठम्⟫ : mögött
 :::
-⟪प्रजापति⟫ m.: a lények ura, teremtőisten <!-- TODO: Fallback translation -->
+⟪प्रजापति⟫ m.: a lények ura, teremtőisten
 
 ⟪अनु⟫ előtag: után, mentén, át - re, hosszában, szerint, hozzá, mögött - felé
 
@@ -2665,7 +2661,7 @@ pl.
 
 ⟪अनुगम्⟫ : utánamenni, végigmegy
 :::
-⟪अभि⟫ : be-, után - felé, hozzá - felé, ellen, be - re, tekintetben, rá, fölött, mellett <!-- TODO: Fallback translation -->
+⟪अभि⟫ : be-, után - felé, hozzá - felé, ellen, be - re, tekintetben, rá, fölött, mellett
 
 ::: indent
 pl.
@@ -2740,7 +2736,7 @@ Kép: ⟪लोमहर्षः⟫
 :::
 ⟪स्वक⟫ 3: saját (enyém, tied ...) ; m.: tag
 
-## 37. Lecke <!-- TODO: Fallback translation -->
+## 37. Lecke
 
 
 
@@ -2748,12 +2744,12 @@ Kép: ⟪लोमहर्षः⟫
 
 
 
-⟪मूर्ख⟫ 3: tompaelmű, buta, bolond m. Bolondfej <!-- TODO: Fallback translation -->
+⟪मूर्ख⟫ 3: tompaelmű, buta, bolond m. Bolondfej
 
 ⟪मुनि⟫ m.: bölcs, (hallgató) aszkéta
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: aszkéta a ⟪शाक्य⟫ nemzetségéből (Kṣatriyas a ⟪कपिलवस्तु⟫-ból) = Buddha Gautama <!-- TODO: Fallback translation -->
+⟪शाक्यमुनि⟫ m.: aszkéta a ⟪शाक्य⟫ nemzetségéből (Kṣatriyas a ⟪कपिलवस्तु⟫-ból) = Buddha Gautama
 
 :::
 ::: media
@@ -2761,7 +2757,7 @@ Kép: ⟪लोमहर्षः⟫
 Kép: ⟪शाक्यमुनिः⟫
 (Képmegjelenítés: [Details](/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: nap <!-- TODO: Fallback translation -->
+⟪दिन⟫ n.: nap
 
 ⟪वृक्ष⟫ m.: fa
 
@@ -2770,9 +2766,9 @@ Kép: ⟪शाक्यमुनिः⟫
 Kép: ⟪वृक्षः⟫
 (Képmegjelenítés: [Details](/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: száj, arc, elülső rész, kezdet <!-- TODO: Fallback translation -->
+⟪मुख⟫ n.: száj, arc, elülső rész, kezdet
 
-## 38. lecke <!-- TODO: Fallback translation -->
+## 38. lecke
 
 
 
@@ -2787,14 +2783,14 @@ Kép: ⟪वृक्षः⟫
 Kép: ⟪सूर्यः⟫
 (Képmegjelenítés: [Details](/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: víz <!-- TODO: Fallback translation -->
+⟪उदक⟫ n.: víz
 
 ::: media
 ![](/images/lekt3805.webp)
 Kép: ⟪उदकम्⟫
 (Képmegjelenítés: [Details](/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : fúj, áramlik <!-- TODO: Fallback translation -->
+⟪वा⟫ 2P ⟪वाति⟫ : fúj, áramlik
 
 ::: indent
 Jöv. ⟪वास्यति⟫
@@ -2822,7 +2818,7 @@ ebből:
 Kép: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Képmegjelenítés: [Details](/licenses#lekt3804))
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : vizel, pisilni, ejakulálni <!-- TODO: Fallback translation -->
+⟪मिह्⟫ 1P ⟪मेहति⟫ : vizel, pisilni, ejakulálni
 
 ::: indent
 Jöv. ⟪मेक्ष्यति⟫
@@ -2835,7 +2831,7 @@ ebből:
 
 ⟪मेघ⟫ m.: felhő („vizelõ”)
 :::
-⟪सुत⟫ m.: fiú <!-- TODO: Fallback translation -->
+⟪सुत⟫ m.: fiú
 
 ⟪राजन्⟫ m.: király (az indiai királyságról lásd Basham, Wonder S. 82 -94). Összetétel végén (fõleg ⟪तत्पुरुष⟫) általában: -⟪राज⟫ m. (mint ⟪देव⟫)
 
@@ -2856,7 +2852,7 @@ Nem:
 
 ⟪ब्रह्मन्⟫ n.: az abszolútum, a Védák (Thiemie szerint eredetileg: megfogalmazott igazság, ebből ⟪ब्राह्मण⟫ „igazságfogalmazó”)
 
-⟪ब्रह्मन्⟫ m.: személyes teremtõisten Brahmā <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ m.: személyes teremtõisten Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
@@ -2868,7 +2864,7 @@ Kép: ⟪ब्रह्मा⟫
 ::: indent
 ⟪कर्मविपाक⟫ m.: a cselekvések köre = a korábbi létezési állapotokban tett jó és rossz cselekvések következményei (⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: elefánt (_Elephas maximus_) <!-- TODO: Fallback translation -->
+⟪हस्तिन्⟫ m.: elefánt (_Elephas maximus_)
 
 ⟪मनु⟫ m.: ember, férfi; az emberi faj atyjának neve (⟪मन्⟫ 4Ā)
 
@@ -2877,7 +2873,7 @@ ebből:
 
 ⟪मनुष्य⟫ m.: ember
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (lobog, ragyog); gyászol, bánkódik <!-- TODO: Fallback translation -->
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (lobog, ragyog); gyászol, bánkódik
 
 ::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -3030,7 +3026,7 @@ Kép: ⟪स्वपन्ति⟫
 Kép: ⟪भुजङ्गः⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: csak, egyedül, teljesen <!-- TODO: Fallback translation -->
+⟪केवलम्⟫ Adv.: csak, egyedül, teljesen
 
 ⟪विष⟫ n.: Méreg
 
@@ -3043,14 +3039,14 @@ Kép: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 ⟪शास्⟫ 2P ⟪शास्ति⟫ : korrigál, uralkodik, parancsol, tanít
 
 ::: indent
-rendelkezik a gyenge jelenlegi igei tövvel ⟪शिष्⟫ : ⟪शिष्मस्⟫, a 3. Pl. P. azonban erős tövvel rendelkezik: ⟪शासति⟫ (!! végződés -ati) mellett alkalmanként ⟪शासन्ति⟫. ⟪अशासुर्⟫. Maga a teljes ⟪आत्मनेपद⟫ is, amennyiben előfordul, erős tövvel rendelkezik: ⟪शास्ते⟫ <!-- TODO: Fallback translation -->
+rendelkezik a gyenge jelenlegi igei tövvel ⟪शिष्⟫ : ⟪शिष्मस्⟫, a 3. Pl. P. azonban erős tövvel rendelkezik: ⟪शासति⟫ (!! végződés -ati) mellett alkalmanként ⟪शासन्ति⟫. ⟪अशासुर्⟫. Maga a teljes ⟪आत्मनेपद⟫ is, amennyiben előfordul, erős tövvel rendelkezik: ⟪शास्ते⟫
 
 Perfektum I ⟪शशास⟫, ⟪शशासुर्⟫  
 Jövő idő ⟪शासिष्यति⟫  
 Passzív **-⟪शास्यते⟫** ⟪।⟫ ⟪शिष्यते⟫  
 PPP ⟪शिष्ट⟫ : tanított, bölcs  
 Infinitív ⟪शासितुम्⟫  
-Abszolútum **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫** <!-- TODO: Fallback translation -->
+Abszolútum **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 
 ebből:
 
@@ -3076,14 +3072,9 @@ Kép: ⟪शास्त्री⟫
 :::
 ⟪शरण⟫ 3: védő, oltalmazó; n. védelem, menedék, a menedékhöz fordulás
 
-⟪सङ्घ⟫ n.: (a ⟪सम्⟫-⟪हन्⟫ : együttes-csapás szóból): csoport, tömeg, közösség (pl. buddhista) <!-- TODO: Fallback translation -->
+⟪सङ्घ⟫ n.: (a ⟪सम्⟫-⟪हन्⟫ : együttes-csapás szóból): csoport, tömeg, közösség (pl. buddhista)
 
-::: deleteme-box
-lásd még:
-
-**Payer, Alois (1944–):** Vinayamukha : A Theravāda rendszabályainak és a szerzetesi jog alapfogalmai. -- I. rész. -- (Anyagok a buddhizmus alapfogalmairól). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
-⟪कन्या⟫ n.: fiatal lány, leány, szűz <!-- TODO: Fallback translation -->
+⟪कन्या⟫ n.: fiatal lány, leány, szűz
 
 ⟪अति⟫ előtag: fölött, tovább, túlnyomó (térben, időben, számban, mennyiségben, sorrendben, erőben, intenzitásban), rendkívül
 
@@ -3092,12 +3083,7 @@ lásd még:
 ::: indent
 PPP ⟪अतीत⟫ : n. múltidő
 :::
-::: deleteme-box
-lásd még:
-
-**Payer, Alois (1944–):** Vinayamukha : A Theravāda rendszabályainak és a szerzetesi jog alapfogalmai. -- I. rész. -- (Anyagok a buddhizmus alapfogalmairól). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
-⟪कन्या⟫ n.: fiatal lány, leány, szűz <!-- TODO: Fallback translation -->
+⟪कन्या⟫ n.: fiatal lány, leány, szűz
 
 ⟪अति⟫ előtag: fölött, tovább, túlnyomó (térben, időben, számban, mennyiségben, sorrendben, erőben, intenzitásban), rendkívül
 
@@ -3106,12 +3092,7 @@ lásd még:
 ::: indent
 PPP ⟪अतीत⟫ : n. múltidő
 :::
-::: deleteme-box
-lásd még:
-
-**Payer, Alois (1944–):** Vinayamukha : A Theravāda rendszabályainak és a szerzetesi jog alapfogalmai. -- I. rész. -- (Anyagok a buddhizmus alapfogalmairól). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
-⟪कन्या⟫ n.: fiatal lány, leány, szűz <!-- TODO: Fallback translation -->
+⟪कन्या⟫ n.: fiatal lány, leány, szűz
 
 ⟪अति⟫ előtag: fölött, tovább, túlnyomó (térben, időben, számban, mennyiségben, sorrendben, erőben, intenzitásban), rendkívül
 
@@ -3130,7 +3111,7 @@ PPP ⟪अतीत⟫ : n. múltidő
 
 ⟪प्रकृति⟫ n.: (a ⟪कृ⟫ + ⟪प्र⟫ szóból): alapforma, természetes állapot, természet; ősanyag, eredeti anyag
 
-⟪अर्जुन⟫ m. sajátnév: Ardzsuna, a ⟪पण्डु⟫ öt fiának egyike. Hős a ⟪महाभारत⟫-ben (lásd Basham, Csodák old. 409 - 414) <!-- TODO: Fallback translation -->
+⟪अर्जुन⟫ m. sajátnév: Ardzsuna, a ⟪पण्डु⟫ öt fiának egyike. Hős a ⟪महाभारत⟫-ben (lásd Basham, Csodák old. 409 - 414)
 
 
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : tartózkodni, távolságot tartani, kerülni, maradni, állni
@@ -3240,11 +3221,11 @@ Mindkettőjüknek rítusokat végeznek, úgynevezett ⟪श्राद्ध⟫
 
 ⟪श्वस्रू⟫ f.: sógornő (a ragozás később következik)
 
-⟪मातुल⟫ m.: anyai testvér (anyai nagybácsi) <!-- TODO: Fallback translation -->
+⟪मातुल⟫ m.: anyai testvér (anyai nagybácsi)
 
-⟪मातुलानी⟫ f.: az anyai testvér felesége (anyai nagybácsi felesége) <!-- TODO: Fallback translation -->
+⟪मातुलानी⟫ f.: az anyai testvér felesége (anyai nagybácsi felesége)
 
-⟪पितृव्य⟫ m.: apai testvér (apai nagybácsi) <!-- TODO: Fallback translation -->
+⟪पितृव्य⟫ m.: apai testvér (apai nagybácsi)
 
 ⟪पितामह⟫ m.: apai nagyapa
 
@@ -3255,7 +3236,7 @@ Mindkettőjüknek rítusokat végeznek, úgynevezett ⟪श्राद्ध⟫
 ⟪मातामही⟫ f.: anyai nagyanya
 
 
-## 43. lecke <!-- TODO: Fallback translation -->
+## 43. lecke
 
 
 
@@ -3272,7 +3253,7 @@ Mindkettőjüknek rítusokat végeznek, úgynevezett ⟪श्राद्ध⟫
 Kép: ⟪आपणः⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4302))
 :::
-⟪सत्वर⟫ 3: gyors, siets <!-- TODO: Fallback translation -->
+⟪सत्वर⟫ 3: gyors, siets
 
 ⟪पण्य⟫ 3: kapható; n.: áru, kereskedelem
 
@@ -3281,7 +3262,7 @@ Kép: ⟪आपणः⟫
 Kép: ⟪पण्यानि⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4303))
 :::
-⟪आम्⟫ : igen <!-- TODO: Fallback translation -->
+⟪आम्⟫ : igen
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
@@ -3304,14 +3285,14 @@ Kép: ⟪पण्यानि⟫
 Kép: ⟪विपणिः⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: kereskedő <!-- TODO: Fallback translation -->
+⟪वणिज्⟫ m.: kereskedő
 
 ::: media
 ![](/images/lekt4305.webp)
 Kép: ⟪वणिक्⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4305))
 :::
-⟪वर⟫ 3: legjobb <!-- TODO: Fallback translation -->
+⟪वर⟫ 3: legjobb
 
 ⟪शीघ्र⟫ 3: gyors, siets
 
@@ -3322,7 +3303,7 @@ Kép: ⟪वणिक्⟫
 Kép: ⟪वत्सः⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4306))
 :::
-⟪उत्तम⟫ 3: legfelsőbb, legjobb <!-- TODO: Fallback translation -->
+⟪उत्तम⟫ 3: legfelsőbb, legjobb
 
 ⟪अल्प⟫ 3: kicsi, alacsony
 
@@ -3345,7 +3326,7 @@ Kép: ⟪तोलन्ति⟫
 :::
 ⟪कर्गल⟫ n.: papír
 
-⟪संपुट⟫ m.: doboz (itt: csomag, köteg) <!-- TODO: Fallback translation -->
+⟪संपुट⟫ m.: doboz (itt: csomag, köteg)
 
 ⟪पुरतस्⟫ : elöl, előtte, előtt
 
@@ -3380,7 +3361,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: boldogság, öröm
 
-## 44. lecke <!-- TODO: Fallback translation -->
+## 44. lecke
 
 
 
@@ -3388,7 +3369,7 @@ Inf. ⟪द्रोतुम्⟫
 
 
 
-⟪प्रति⟫ előtag: vissza, ellen, szembe - felé <!-- TODO: Fallback translation -->
+⟪प्रति⟫ előtag: vissza, ellen, szembe - felé
 
 ::: indent
 pl.
@@ -3418,7 +3399,7 @@ ebből:
 Kép: ⟪रेल्यानम्⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4403))
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : fekszik. Ez a gyökér minden jelenlegi tőformában **magas fokú:** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Különösen figyelembe veendő formák: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫] <!-- TODO: Fallback translation -->
+⟪शी⟫ 2Ā ⟪शेते⟫ : fekszik. Ez a gyökér minden jelenlegi tőformában **magas fokú:** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Különösen figyelembe veendő formák: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -3437,7 +3418,7 @@ ebből:
 Kép: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : örül (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : örül (⟪तृतीयया⟫)
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -3458,9 +3439,9 @@ ebből:
 Kép: ⟪नन्दी⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4405))
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : örömét leli (⟪द्वितीयया⟫), valakit örömmel üdvözöl, szeretettel fogad <!-- TODO: Fallback translation -->
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : örömét leli (⟪द्वितीयया⟫), valakit örömmel üdvözöl, szeretettel fogad
 
-⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : tart, visel; adományoz, biztosít; összetart, megfékez, kordában tart, leküzd <!-- TODO: Fallback translation -->
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : tart, visel; adományoz, biztosít; összetart, megfékez, kordában tart, leküzd
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
@@ -3504,7 +3485,7 @@ ebből:
 Kép: ⟪यत्नेन⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4407))
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (mellékforma a következőhöz: ⟪लभ्⟫): megragad <!-- TODO: Fallback translation -->
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (mellékforma a következőhöz: ⟪लभ्⟫): megragad
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
@@ -3515,42 +3496,26 @@ PPP ⟪रब्ध⟫
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : megérint, kezd, vállalkozik <!-- TODO: Fallback translation -->
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : megérint, kezd, vállalkozik
 
 ⟪प्रव्रज्या⟫ f. (a következőhöz: ⟪प्र⟫-⟪व्रज्⟫): a hazából való távozás az otthontalanságba; ceremónia, amelynek során buddhista novíciussá válik (páli: ⟪पब्बजा⟫)
 
-::: deleteme-box
-Lásd:
-
-**Payer, Alois (1944–):** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda irányzatában. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Kép: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4408))
 :::
-::: deleteme-box
-Lásd:
-
-**Payer, Alois (1944–):** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda irányzatában. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-:::
 ::: media
 ![](/images/lekt4408.webp)
 Kép: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4408))
-:::
-::: deleteme-box
-Lásd:
-
-**Payer, Alois (1944–):** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda irányzatában. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-
 :::
 ::: media
 ![](/images/lekt4408.webp)
 Kép: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Képmegjelölés: [Részletek](/licenses#lekt4408))
 :::
-## 45. lecke <!-- TODO: Fallback translation -->
+## 45. lecke
 
 
 
@@ -3560,7 +3525,7 @@ Kép: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 ⟪वा⟫ ... ⟪वा⟫ : vagy... vagy
 
-## 46. lecke <!-- TODO: Fallback translation -->
+## 46. lecke
 
 
 
@@ -3574,7 +3539,7 @@ Kép: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ebből:
 ⟪समम्⟫ Hatószó: ugyanolyan módon, egyszerre (⟪तृतीयया⟫), egyenletesen
 ⟪समता⟫ nőnemű: egyenlőlelkűség
-⟪विषम⟫ 3: egyenlőtlen, egyenetlen, gonosz <!-- TODO: Fallback translation -->
+⟪विषम⟫ 3: egyenlőtlen, egyenetlen, gonosz
 
 :::
 ⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : megragad, megkaparint, elfog
@@ -3643,7 +3608,7 @@ Jövő idő ⟪नंस्यति⟫
 Képző ⟪नम्यते⟫  
 Okozó. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
 PPP ⟪नत⟫  
-Főnévi igenév ⟪नन्तुम्⟫ <!-- TODO: Fallback translation -->
+Főnévi igenév ⟪नन्तुम्⟫
 
 :::
 ::: media
@@ -3659,7 +3624,7 @@ Jövő idő ⟪रोक्ष्यति⟫
 Képző ⟪रुह्यते⟫  
 Okozó. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫:sig[⟪प⟫]⟪यति⟫  
 PPP. :sig[⟪रूढ⟫]  
-Főnévi igenév ⟪रोढुम्⟫ <!-- TODO: Fallback translation -->
+Főnévi igenév ⟪रोढुम्⟫
 
 :::
 ::: media
@@ -3807,7 +3772,7 @@ pl.
 Kép: [⟪भोः⟫](/licenses#lekt4611)
 (Képmegjelölés: [Részletek](/licenses#lekt4611))
 :::
-## 48. Lecke <!-- TODO: Fallback translation -->
+## 48. Lecke
 
 
 
@@ -3819,7 +3784,7 @@ Kép: [⟪भोः⟫](/licenses#lekt4611)
 
 ⟪अद्य⟫ : ma
 
-⟪लघु⟫ 3: könnyű (nem nehéz, nem bonyolult), gyors, rövid (kifejezésben) <!-- TODO: Fallback translation -->
+⟪लघु⟫ 3: könnyű (nem nehéz, nem bonyolult), gyors, rövid (kifejezésben)
 
 ⟪व्याकरण⟫ n.: grammatika (a ⟪व्याकृ⟫-hoz)
 
@@ -3872,7 +3837,7 @@ Kép: ⟪कुमारः⟫
 Thaipusam-ünnep = தைப்பூசம், Batu Caves, Malajzia
 (Képmegjelenítés: [Részletek](/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: lány, leány <!-- TODO: Fallback translation -->
+⟪कुमारी⟫ f.: lány, leány
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -3880,7 +3845,7 @@ Kép: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: gyermekkor <!-- TODO: Fallback translation -->
+⟪कौमर⟫ n.: gyermekkor
 
 ⟪यौवन⟫ n.: ifjúság
 
@@ -3892,7 +3857,7 @@ Kép: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (magas) kor <!-- TODO: Fallback translation -->
+⟪स्थाविर⟫ n.: (magas) kor
 
 ⟪वाच्य⟫ 3: emellett: kifogásolható
 
@@ -3904,7 +3869,7 @@ Kép: ⟪सूक्ष्मम्⟫
 Karanji-tó = ಕಾರಂಜಿ ಕೆರೆ
 (Képmegjelenítés: [Részletek](/licenses#lekt4808))
 :::
-⟪प्रसङ्ग⟫ m.: tapadás, hajlam; alkalom <!-- TODO: Fallback translation -->
+⟪प्रसङ्ग⟫ m.: tapadás, hajlam; alkalom
 
 ⟪विशेष⟫ m.: különbség, sajátosság
 
@@ -3920,7 +3885,7 @@ Kép: ⟪मम⟫ ⟪जाया⟫
 (Kép: Payer)
 (Képmegjelenítés: [Részletek](/licenses#lekt4809))
 :::
-## 49. lecke <!-- TODO: Fallback translation -->
+## 49. lecke
 
 
 
@@ -3932,7 +3897,7 @@ Kép: ⟪मम⟫ ⟪जाया⟫
 
 ⟪ह्रस्व⟫ 3: rövid
 
-⟪आयुस्⟫ n.: élettartam (a teljes élettartam, amit lehetne élni, ha semmi közbe nem jön); <!-- TODO: Fallback translation -->
+⟪आयुस्⟫ n.: élettartam (a teljes élettartam, amit lehetne élni, ha semmi közbe nem jön);
 
 ::: indent
 ebből:
@@ -3985,7 +3950,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Kép: ⟪कुलूहलम्⟫
 (Képmegjelölés: [Részletek](/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: egész, teljes <!-- TODO: Fallback translation -->
+⟪कृत्स्न⟫ 3: egész, teljes
 
 ⟪परिचय⟫ m.: ismeretség
 
@@ -3999,7 +3964,7 @@ Kép: ⟪उत्तमा⟫ ⟪काला⟫
 :::
 ⟪वर⟫ m.n.: vágy
 
-⟪उत⟫ Indekl.: és, is, vagy <!-- TODO: Fallback translation -->
+⟪उत⟫ Indekl.: és, is, vagy
 
 ⟪विहंग⟫ m.: madár ("a légi स्álmában - ⟪विह⟫ - haladó")
 
@@ -4008,7 +3973,7 @@ Kép: ⟪उत्तमा⟫ ⟪काला⟫
 Kép: ⟪विहंगः⟫
 (Képmegjelölés: [Részletek](/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: ruha, megjelenés, külső <!-- TODO: Fallback translation -->
+⟪वेष⟫ m.: ruha, megjelenés, külső
 
 ::: media
 ![](/images/lekt4904.webp)
@@ -4053,9 +4018,9 @@ Kép: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Képmegjelölés: [Részletek](/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: legtávolabbi, legmagasabb ; ⟪पञ्चम्या⟫ : jobb mint, magasabb mint <!-- TODO: Fallback translation -->
+⟪परम⟫ 3: legtávolabbi, legmagasabb ; ⟪पञ्चम्या⟫ : jobb mint, magasabb mint
 
 ⟪शिशु⟫ m.: gyermek, utód
 
@@ -4065,7 +4030,7 @@ Kép: ⟪गजशिशुः⟫
 Srí Lanka
 (Képmegjelölés: [Részletek](/licenses#lekt4906))
 :::
-## 50. lecke <!-- TODO: Fallback translation -->
+## 50. lecke
 
 
 
@@ -4132,16 +4097,16 @@ Kép: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 A monszun érkezése, Bangalore  ಬೆಂಗಳೂರು
 (Képmegjelenítés: [Részletek](/licenses#lekt5002))
 :::
-⟪संयक्⟫ Hatószó: helyesen, igazán, a megfelelő módon; alaposan, teljesen <!-- TODO: Fallback translation -->
+⟪संयक्⟫ Hatószó: helyesen, igazán, a megfelelő módon; alaposan, teljesen
 
-⟪आदित्य⟫ m.: Nap; többes szám: [Āditya](http://en.wikipedia.org/wiki/Aditya): egy bizonyos istenekből álló osztály <!-- TODO: Fallback translation -->
+⟪आदित्य⟫ m.: Nap; többes szám: [Āditya](http://en.wikipedia.org/wiki/Aditya): egy bizonyos istenekből álló osztály
 
 ::: media
 ![](/images/lekt5005.jpg)
 Kép: ⟪आदित्यः⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: mindenki, mind <!-- TODO: Fallback translation -->
+⟪सर्व⟫ 3: mindenki, mind
 
 Ragozás mint ⟪यद्⟫ (kivétel: Nominatívus/Akkuzativus egyes szám, középnem)
 
@@ -4159,7 +4124,7 @@ Ragozás mint ⟪यद्⟫ (kivétel: Nominatívus/Akkuzativus egyes szám, k
 :::
 ⟪वै⟫ : Hatószó, amely az előző szót hangsúlyozza: bizony, igazán, de
 
-⟪इह⟫ Hatószó: itt, ezen a földön, ide; most. Főnevek előtt lokativusban (⟪षष्ठी⟫) jelentése ⟪अस्मिन्⟫, ⟪अस्याम्⟫ <!-- TODO: Fallback translation -->
+⟪इह⟫ Hatószó: itt, ezen a földön, ide; most. Főnevek előtt lokativusban (⟪षष्ठी⟫) jelentése ⟪अस्मिन्⟫, ⟪अस्याम्⟫
 
 ⟪कल्प⟫ m: rend, szokás, rituálé; [világkor](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (⟪कॢप्⟫-ból)
 
@@ -4178,17 +4143,17 @@ Kép: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.többes szám Ā ⟪चड्ढ्वे⟫ : látni <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.többes szám Ā ⟪चड्ढ्वे⟫ : látni
 
 ::: indent
 Perfektum ⟪चचक्षे⟫
 a többi időben nem használatos
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : mesélni, tartani valamineknek, nevezni <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : mesélni, tartani valamineknek, nevezni
 
 ⟪देश⟫ m.: hely, tér, ország, vidék
 
-## Lecke 51 <!-- TODO: Fallback translation -->
+## Lecke 51
 
 
 
@@ -4196,9 +4161,9 @@ a többi időben nem használatos
 
 
 
-⟪अजिन⟫ n.: antilopbőr, különösen a fekete antilop (szarvasantilop: _Antilope cervicapra_ L.) bőre. Eredetileg az egész indiai szubkontinensen előfordult, Pandzsáb és Sindh-től Bengáliáig, valamint Nepáltól Kanyakumariig (Tamil: கன்னியாகுமரி) Lásd még: <!-- TODO: Fallback translation -->
+⟪अजिन⟫ n.: antilopbőr, különösen a fekete antilop (szarvasantilop: _Antilope cervicapra_ L.) bőre. Eredetileg az egész indiai szubkontinensen előfordult, Pandzsáb és Sindh-től Bengáliáig, valamint Nepáltól Kanyakumariig (Tamil: கன்னியாகுமரி) Lásd még:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. kiadás. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 kötet. -- ISBN 0-8018-5789-9. -- 2. kötet. -- 1193f. oldal <!-- TODO: Fallback translation -->
+> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. kiadás. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 kötet. -- ISBN 0-8018-5789-9. -- 2. kötet. -- 1193f. oldal
 
 ::: media
 ![](/images/lekt5105.webp)
@@ -4207,7 +4172,7 @@ Kép:
 :::
 ⟪अतिथि⟫ m.: vendég
 
-⟪अभ्यन्तर⟫ 3: belül található, legközelebbi; m. a legközelebbi tag, bennszülött <!-- TODO: Fallback translation -->
+⟪अभ्यन्तर⟫ 3: belül található, legközelebbi; m. a legközelebbi tag, bennszülött
 
 
 ⟪अरण्य⟫ n.: vadon, erdő
@@ -4215,7 +4180,7 @@ Kép:
 ⟪ऋतु⟫ m.: ciklikus folyamat, évszak, időszakrazszak, menstruáció, időszak, amikor a nő fogamzóképes és joga van férje közösüléséhez.
 
 ::: indent
-A ⟪ऋतु⟫ vonatkozásában lásd Manu III, 45-48: ezután ⟪ऋतु⟫ 16 napig tart (az alternatív fordítás szerint: 20 nap) a menstruáció kezdetétől, az első négy napon tilos a közösülés (az alternatív fordítás szerint: az első nyolc (4 + 4) napon), továbbá a 11. (illetve 15.) és 13. (illetve 18.) napon. Páros napokon a nő fiúgyermeket fogant, páratlan napokon leánygyermeket. A következőkhöz 16 napos ⟪ऋतु⟫-t feltételezünk (nem az alternatív fordítást), ahogy a legtöbb belföldi kommentár is teszi, és ami tehát a domináns felfogás volt. <!-- TODO: Fallback translation -->
+A ⟪ऋतु⟫ vonatkozásában lásd Manu III, 45-48: ezután ⟪ऋतु⟫ 16 napig tart (az alternatív fordítás szerint: 20 nap) a menstruáció kezdetétől, az első négy napon tilos a közösülés (az alternatív fordítás szerint: az első nyolc (4 + 4) napon), továbbá a 11. (illetve 15.) és 13. (illetve 18.) napon. Páros napokon a nő fiúgyermeket fogant, páratlan napokon leánygyermeket. A következőkhöz 16 napos ⟪ऋतु⟫-t feltételezünk (nem az alternatív fordítást), ahogy a legtöbb belföldi kommentár is teszi, és ami tehát a domináns felfogás volt.
 
 Mivel az ovuláció 14 nappal a menstruáció kezdete előtt következik be, ez az termékeny időszak meghatározása esetén a termékenység szinte „garantált” 19 és 30 napos menstruációs ciklusok esetén. A tiltott napok (11. és 13.) javítják a valószínűséget a közösülésre a 12. és 14. napon, azaz a fogamzás valószínűsége egy 28 napos ciklus esetén (a spermiumok élettartama a nőben kb. 3 nap). Ezek a rendelkezések úgynegyen pozitív Knaus-Ogino alkalmazásnak tekinthetők.
 :::
@@ -4242,7 +4207,7 @@ Kép: ⟪जटा⟫
 
 ⟪बाह्य⟫ 3: kívül, kint lévő, idegen
 
-⟪भिक्षा⟫ n.: könyörögetett adomány, koldusszolgálat <!-- TODO: Fallback translation -->
+⟪भिक्षा⟫ n.: könyörögetett adomány, koldusszolgálat
 
 ⟪मार्यादा⟫ n.: határ
 
@@ -4293,7 +4258,7 @@ Kolkata = কলকাতা
 ![](/images/lekt5109.webp)
 Kép: ⟪मधु⟫
 City Palace, ⟪उदयपुर⟫
-(Képmegjelenítés: [Részletek](/licenses#lekt5109)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Részletek](/licenses#lekt5109))
 
 :::
 ⟪मांस⟫ n.: hús
@@ -4324,7 +4289,7 @@ Kép: ⟪कौशिकः⟫
 Brahma-bagoly (_Athene brama_), Mahesana = મહેસાણા
 (Képmegjelenítés: [Részletek](/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: madár <!-- TODO: Fallback translation -->
+⟪शकुनि⟫ m.: madár
 
 ⟪श्वन्⟫ m.: kutya
 
@@ -4353,7 +4318,7 @@ Kép: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: nyers, kegyetlen <!-- TODO: Fallback translation -->
+⟪क्रूर⟫ 3: nyers, kegyetlen
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : bekenni, megken
 
@@ -4372,7 +4337,7 @@ Kép: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Képmegjelenítés: [Részletek](/licenses#lekt5115))
 :::
-⟪भुजंग⟫ m.: kígyó <!-- TODO: Fallback translation -->
+⟪भुजंग⟫ m.: kígyó
 
 ::: media
 ![](/images/lekt5116.webp)
@@ -4380,7 +4345,7 @@ Kép: ⟪भुजंगः⟫
 Lánchaddis (Daboia russelii), Bangalore = ಬೆಂಗಳೂರು
 (Képmegjelenítés: [Részletek](/licenses#lekt5116))
 :::
-⟪सायक⟫ m.: nyíl <!-- TODO: Fallback translation -->
+⟪सायक⟫ m.: nyíl
 
 ⟪उत्साद⟫ m.: pusztulás
 
@@ -4430,9 +4395,9 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 :::
 ⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : gondol, elmélkedik
 
-⟪शबर⟫ .:  nem-árja törzs neve <!-- TODO: Fallback translation -->
+⟪शबर⟫ .:  nem-árja törzs neve
 
-## Lecke 52 <!-- TODO: Fallback translation -->
+## Lecke 52
 
 
 
@@ -4525,7 +4490,7 @@ PPP ⟪उशित⟫
 Infinitivus ⟪वशितुम्⟫
 Absolutivum -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : fúj, áramlik <!-- TODO: Fallback translation -->
+⟪वा⟫ 2P ⟪वाति⟫ : fúj, áramlik
 
 ::: indent
 Perfektum IV ⟪ववौ⟫
@@ -4556,7 +4521,7 @@ Infinitivus ⟪वर्जितुम्⟫
 
 ⟪सूर्य⟫ n.: Nap
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : valakinek (⟪द्वितीया⟫) szolgálni, felszolgálni, tisztelni, szeretni <!-- TODO: Fallback translation -->
+⟪सेव्⟫ 1Ā ⟪सेवते⟫ : valakinek (⟪द्वितीया⟫) szolgálni, felszolgálni, tisztelni, szeretni
 
 ::: indent
 Perfektum I ⟪सिषेवे⟫
@@ -4565,7 +4530,7 @@ Passivus ⟪सेव्यते⟫
 Kausativus ⟪सेवयति⟫
 PPP ⟪सेवित⟫
 Infinitivus ⟪सेवितुम्⟫
-Absolutivum -⟪सेव्य⟫ <!-- TODO: Fallback translation -->
+Absolutivum -⟪सेव्य⟫
 
 ebből:
 
@@ -4611,7 +4576,7 @@ Kép: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Képmegjelölés: [Részletek](/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: banánfa (_Musa_ sp.) <!-- TODO: Fallback translation -->
+⟪कदली⟫ f.: banánfa (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
@@ -4627,7 +4592,7 @@ Hampi = ಹಂಪೆ
 
 ⟪आदर्श⟫ m.: tükör
 
-⟪मल⟫ m.n.: kosz, folt <!-- TODO: Fallback translation -->
+⟪मल⟫ m.n.: kosz, folt
 
 ::: media
 ![](/images/lekt5215.webp)
@@ -4635,7 +4600,7 @@ Kép: ⟪मलम्⟫
 ⟪मुंबई⟫
 (Képmegjelölés: [Részletek](/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: Indra mennyországa <!-- TODO: Fallback translation -->
+⟪त्रिपिष्टप⟫ n.: Indra mennyországa
 
 ⟪मार⟫ m.: a megtestesített gonosz, a megtestesült csábítás / manipuláció, ördög
 
@@ -4645,7 +4610,7 @@ Kép:
 Amaravati = అమరావతి, 2. sz. e. u.
 (Képmegjelölés: [Részletek](/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: az, aki teljesen fel akar ismerni <!-- TODO: Fallback translation -->
+⟪विजिज्ञासु⟫ 3: az, aki teljesen fel akar ismerni
 
 ⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : megvéd, megment
 
@@ -4665,9 +4630,9 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt0202**: Sādhu (⟪साधु⟫), Pashupatinath templom (⟪पशुपतिनाथ⟫ ⟪मन्दिर⟫), Kathmandu (⟪काठमांडौ⟫), Nepál (⟪नेपाल⟫), 2007 [Képmegjelölés: Peter Akkermans, Wikipedia, GNU FDLizenz]
 
-**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Képmegjelölés: Wikipedia, GNU FDLizenz] <!-- TODO: Fallback translation -->
+**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Képmegjelölés: Wikipedia, GNU FDLizenz]
 
-**lekt0501**: Kāma isten = kāmadeva = ⟪कामदेव⟫, 18. sz. [Képmegjelölés: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt0501**: Kāma isten = kāmadeva = ⟪कामदेव⟫, 18. sz. [Képmegjelölés: Wikipedia, Public domain]
 
 **lekt0701**: Ez volt-e a védikus szomaplanta?: Légrótagomba: Amanita muscaria (L.) Lam. [Képmegjelölés: Wikipedia, GNU FDLizenz]
 
@@ -4682,13 +4647,13 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: Varuṇa isten = ⟪वरुण⟫, 17. század [Képmegjelenítés forrása: Wikipedia, közterület]
 
-**lekt1002**: Egy Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / Rāja Ravi Varmától (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Képmegjelenítés forrása: Wikipedia, közterület] <!-- TODO: Fallback translation -->
+**lekt1002**: Egy Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / Rāja Ravi Varmától (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Képmegjelenítés forrása: Wikipedia, közterület]
 
-**lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi-hegyek, Mysor (ಮೈಸೂರು) [Képmegjelenítés forrása: Prakash Subbarao / Wikipedia. -- Közterület] <!-- TODO: Fallback translation -->
+**lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi-hegyek, Mysor (ಮೈಸೂರು) [Képmegjelenítés forrása: Prakash Subbarao / Wikipedia. -- Közterület]
 
-**lekt1304**: ⟪अन्नम्⟫, Karnataka (ಕರ್ನಾಟಕ), 2005 [Képmegjelenítés forrása: Wikipedia, közterület] <!-- TODO: Fallback translation -->
+**lekt1304**: ⟪अन्नम्⟫, Karnataka (ಕರ್ನಾಟಕ), 2005 [Képmegjelenítés forrása: Wikipedia, közterület]
 
-**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Képmegjelenítés forrása: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Képmegjelenítés forrása: Wikipedia, GNU FDLicense]
 
 **lekt1405**: ⟪दीपाः⟫ [Képmegjelenítés forrása: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Hozzáférés: 2008-12-01. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
@@ -4696,17 +4661,17 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1505**: Indra és Sachi a mennyei elefánt, Airavata hátán, levél egy Panchakalyanaka (öt áldott esemény Jina Rishabhanatha [Adinatha] életéből) műből, kb. 1670-1680 festmény; Vízfesték, fedő vízfesték, arany és ezüst papíron, Kép: 9 1/8 x 15 1/8 in. (23,18 x 38,42 cm); Lap: 10 5/8 x 16 3/4 in. (26,99 x 42,55 cm). Készítve: India, Rajasthan, Amber [Képmegjelenítés forrása: Wikipedia, közterület]
 
-**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Képmegjelenítés forrása: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Képmegjelenítés forrása: Wikipedia, GNU FDLicense]
 
-**lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Bandhavgarh Nemzeti Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [Képmegjelenítés forrása: U.S. Fish and Wildlife Service / Wikipedia, közterület] <!-- TODO: Fallback translation -->
+**lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Bandhavgarh Nemzeti Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [Képmegjelenítés forrása: U.S. Fish and Wildlife Service / Wikipedia, közterület]
 
 **lekt1602**: ⟪अध्यापनम्⟫ "Ez egy különleges szertartás egy kis templomban Satarában (⟪सातारा⟫). A Swami Muktananda Vedashala diákjai végzik a Mahāśivarātri ünnepén. Ez egy védikus iskola, ahol a gyermekek kívülről tanulják a Védák nevű szent szövegeket. Az iskola a Krishna Yajurvedát és a Samaveda egyes részeit tanítja. Jelenleg erről az iskoláról írom mesterképzésem disszertációját." [Képmegjelenítés forrása: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Hozzáférés: 2008-12-07. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt1601**: ⟪योगी⟫ Birla Mandir, Delhi [Képmegjelenítés forrása: Deepak / Wikipedia ; Creative Commons licenc (nevesítés, share alike)] <!-- TODO: Fallback translation -->
+**lekt1601**: ⟪योगी⟫ Birla Mandir, Delhi [Képmegjelenítés forrása: Deepak / Wikipedia ; Creative Commons licenc (nevesítés, share alike)]
 
 **lekt1603**: ⟪अहिंसा⟫ "A tenyérben kerékkel ellátott kéz a dzsainista Ahimsa fogadalmat szimbolizálja. A középső szó 'ahimsa'. A kerék a dharmacakrát jelképezi, amely az elszántságot testesíti meg, hogy a valóság és az erőszakmentesség kitartó követésén keresztül megszakítsa a reinkáció körforgását." [Képmegjelenítés forrása: Wikipedia, közterület]
 
-**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Képmegjelenítés forrása: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Hozzáférés: 2008-12-07. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás)] <!-- TODO: Fallback translation -->
+**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Képmegjelenítés forrása: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Hozzáférés: 2008-12-07. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás)]
 
 
 **lekt1701**: ⟪योगासनम्⟫ [Képmeghatározás: tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Hozzáférés: 2008-12-07. -- Creative Commons licenc (Nevesítés, nincs módosítás)]
@@ -4715,17 +4680,17 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1809**: ⟪कामः⟫ illusztráció a ⟪कामसूत्र⟫-hoz [Képmeghatározás: Wikipedia, közterület]
 
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Képmeghatározás: Sudarshan Bhat Khandige / Wikipedia, közterület] <!-- TODO: Fallback translation -->
+**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Képmeghatározás: Sudarshan Bhat Khandige / Wikipedia, közterület]
 
-**lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Képmeghatározás: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Hozzáférés: 2008-12-08. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)] <!-- TODO: Fallback translation -->
+**lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Képmeghatározás: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Hozzáférés: 2008-12-08. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), hagyományos öltözetben, szokás Kerala déli részein. Az Onappottan látogatja a házakat az onam idején, és áldást ad. Az utóbbi időben az Onappottan ritka látvány, falvakra korlátozódik." [Képmeghatározás: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Hozzáférés: 2008-12-08. -- Creative Commons licenc (Nevesítés)] <!-- TODO: Fallback translation -->
+**lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), hagyományos öltözetben, szokás Kerala déli részein. Az Onappottan látogatja a házakat az onam idején, és áldást ad. Az utóbbi időben az Onappottan ritka látvány, falvakra korlátozódik." [Képmeghatározás: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Hozzáférés: 2008-12-08. -- Creative Commons licenc (Nevesítés)]
 
 **lekt1903**: ⟪पण्डीतः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫, ⟪१९५९⟫ [Képmeghatározás: Wikipedia, közterület]
 
 **lekt2008**: ⟪आश्रमाः⟫ Rishikesh = ⟪ऋषिकेश⟫ "Ez valójában a Rishikesh-i ashram része, ahol a Beatles tartózkodott. Ez a konkrét rész nem létezett akkoriban, de mégis menőnek tűnik." [Képmeghatározás: ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Hozzáférés: 2008-12-11. -- Creative Commons licenc (Nevesítés)]
 
-**lekt2103**: ⟪भगवान्कृष्णः⟫ mint ⟪जगन्नाथ⟫ (jobbra) a féltestvérével ⟪सुभद्रा⟫ (középen) és idősebb testvérével ⟪बलराम⟫ Orissa = ଓଡ଼ିଶା [Képmeghatározás: Sujitkumar / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2103**: ⟪भगवान्कृष्णः⟫ mint ⟪जगन्नाथ⟫ (jobbra) a féltestvérével ⟪सुभद्रा⟫ (középen) és idősebb testvérével ⟪बलराम⟫ Orissa = ଓଡ଼ିଶା [Képmeghatározás: Sujitkumar / Wikipedia. GNU FDLicense]
 
 **lekt2105**: ⟪भगवद्गीता⟫ - kézirat, 19. század [Képmeghatározás: Wikipedia, közterület]
 
@@ -4733,14 +4698,14 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2202**: ⟪कामदेवः⟫ , 19. század [Képmeghatározás: Wikipedia, közterület]
 
-**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Képmeghatározás: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Hozzáférés: 2008-12-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)] <!-- TODO: Fallback translation -->
+**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Képmeghatározás: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Hozzáférés: 2008-12-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt2201**: ⟪धेनवश्चरन्ति⟫ Goa = ⟪गोंय⟫ [Képmeghatározás: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Hozzáférés: 2008-12-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)] <!-- TODO: Fallback translation -->
+**lekt2201**: ⟪धेनवश्चरन्ति⟫ Goa = ⟪गोंय⟫ [Képmeghatározás: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Hozzáférés: 2008-12-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
 **lekt2405**: ⟪अलंकारः⟫ [Képmeghatározás: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
 
-**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Képmegjelenítés forrása: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)] <!-- TODO: Fallback translation -->
+**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Képmegjelenítés forrása: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)]
 
 **lekt2407**: ⟪ऊहापोहः⟫ "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, a CNN-IBN Network 18 Indiai Külgazdasági Főszerkesztője, moderál egy panelbeszélgetést a Világgazdasági Fórum Indiai Gazdasági Csúcsértekezletén 2008-ban Újdelhiben, 2008. november 16-18." [Képmegjelenítés forrása: World Economic Forum / Dana Smillie fotója. --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (Nevesítés, share alike)]
 
@@ -4760,24 +4725,24 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2506**: ⟪हिरण्यम्⟫ Chennai = சென்னை [Képmegjelenítés forrása: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Hozzáférés: 2008-12-15. -- Creative Commons licenc (Nevesítés)]
 
-**lekt2706**: ⟪वस्त्राणि⟫ Majuli, Assam [Képmegjelenítés forrása: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- Hozzáférés: 2008-12-18. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)] <!-- TODO: Fallback translation -->
+**lekt2706**: ⟪वस्त्राणि⟫ Majuli, Assam [Képmegjelenítés forrása: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- Hozzáférés: 2008-12-18. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt2707**: ⟪वसन्तः⟫ ⟪कुसुम्भ⟫ = Schleichera oleosa (Lour.) Oken, Khopoli = ⟪खोपोली⟫, Maharashtra = ⟪महाराष्ट्र⟫, 2007-04-07[Képmegjelenítés forrása: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Hozzáférés: 2008-12-18. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)] <!-- TODO: Fallback translation -->
+**lekt2707**: ⟪वसन्तः⟫ ⟪कुसुम्भ⟫ = Schleichera oleosa (Lour.) Oken, Khopoli = ⟪खोपोली⟫, Maharashtra = ⟪महाराष्ट्र⟫, 2007-04-07[Képmegjelenítés forrása: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Hozzáférés: 2008-12-18. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt2704**: ⟪हरिहरः⟫ (balra: ⟪विष्णु⟫, jobbra: ⟪शिव⟫) [Képmegjelenítés forrása: Wikipedia. Közterület] <!-- TODO: Fallback translation -->
+**lekt2704**: ⟪हरिहरः⟫ (balra: ⟪विष्णु⟫, jobbra: ⟪शिव⟫) [Képmegjelenítés forrása: Wikipedia. Közterület]
 
-**lekt2705**: ⟪हरिहरः⟫ (balra: ⟪विष्णु⟫, jobbra: ⟪शिव⟫) Godrumdwip, Nyugat-Bengál = পশ্চিমবঙ্গ [Képmegjelenítés forrása: GourangaUK / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2705**: ⟪हरिहरः⟫ (balra: ⟪विष्णु⟫, jobbra: ⟪शिव⟫) Godrumdwip, Nyugat-Bengál = পশ্চিমবঙ্গ [Képmegjelenítés forrása: GourangaUK / Wikipedia. GNU FDLicense]
 
 
-**lekt2804**: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫ festőművészéről ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Képmegjelenítés: Wikipedia. Közterület] <!-- TODO: Fallback translation -->
+**lekt2804**: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫ festőművészéről ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Képmegjelenítés: Wikipedia. Közterület]
 
-**lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [Képmegjelenítés: Kelvin Kay / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [Képmegjelenítés: Kelvin Kay / Wikipedia. GNU FDLicense]
 
 **lekt2805**: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫ Ahmedabad közelében [Képmegjelenítés: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- Hozzáférés: 2008-12-20. -- Creative Commons licenc (Nevesítés, share alike)]
 
 **lekt2903**: ⟪परिव्राजकाः⟫ Pushkar = ⟪पुष्कर⟫ [Képmegjelenítés: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Hozzáférés: 2008-12-20. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
 
-**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ Hamilton [Képmegjelenítés: Khalid Mahmood / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ Hamilton [Képmegjelenítés: Khalid Mahmood / Wikipedia. GNU FDLicense]
 
 **lekt3001**: ⟪क्रीणन्ति⟫ ⟪विक्रीनते⟫ ⟪च⟫ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Képmegjelenítés: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Hozzáférés: 2008-12-21. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
@@ -4789,7 +4754,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3004**: ⟪प्रिया⟫ [Képmegjelenítés: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Hozzáférés: 2008-12-21. -- Creative Commons licenc (Nevesítés, share alike)]
 
-**lekt2904**: ⟪पुनर्भवः⟫ [Képmegjelenítés: Wikipedia / Szerzői jog a Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5] <!-- TODO: Fallback translation -->
+**lekt2904**: ⟪पुनर्भवः⟫ [Képmegjelenítés: Wikipedia / Szerzői jog a Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
 
 **lekt3101**: ⟪योगः⟫ [Képmegjelenítés: http://www.flickr.com/photos/wricontest/294029791/. -- Hozzáférés: 2008-12-25. -- Creative Commons licenc (Nevesítés)]
 
@@ -4797,7 +4762,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3103**: Egy ⟪प्रज्ञापारमिता⟫-kéziratból [Képmegjelenítés: zeno.org. -- közterület]
 
-**lekt3202**: ⟪चूतः⟫ ⟪कानपुर⟫, / کان پور [Képmegjelenítés: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Nevesítés, share alike)] <!-- TODO: Fallback translation -->
+**lekt3202**: ⟪चूतः⟫ ⟪कानपुर⟫, / کان پور [Képmegjelenítés: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Nevesítés, share alike)]
 
 **lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [Képmegjelenítés: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Hozzáférés: 2008-12-25. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
 
@@ -4810,7 +4775,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Képmegjelenítés: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Hozzáférés: 2008-12-25. -- Creative Commons Licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
 
-**lekt3306**: ⟪दानम्⟫ "2005. augusztus 20-án, Chennai-ben, Indiában a leendő sógoraim hivatalos indiai eljegyzési partit adtak nekünk. Úgy nézett ki, mint egy esküvő, de nem az volt, így csinálják. Nagyon extragátus. Ez az esemény hatalmas áldás volt számomra. Soha nem éreztem magam ennyire szeretve egy másik család által. Csak kívánom, hogy a családom is ott lehetett volna, de legalább van egy videóm az egészről megosztásra. Leendő sógoraim mindent 3 nap alatt megszerveztek. Minden az meghívóktól a bérelt fotósig. Fantasztikus volt, szavak nélkül magyarázhatatlan az áramló érzelmek." [Kép és szöveg forrása: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Hozzáférés: 2008-12-26. -- Creative Commons Licenc (Nevesítés, share alike)] <!-- TODO: Fallback translation -->
+**lekt3306**: ⟪दानम्⟫ "2005. augusztus 20-án, Chennai-ben, Indiában a leendő sógoraim hivatalos indiai eljegyzési partit adtak nekünk. Úgy nézett ki, mint egy esküvő, de nem az volt, így csinálják. Nagyon extragátus. Ez az esemény hatalmas áldás volt számomra. Soha nem éreztem magam ennyire szeretve egy másik család által. Csak kívánom, hogy a családom is ott lehetett volna, de legalább van egy videóm az egészről megosztásra. Leendő sógoraim mindent 3 nap alatt megszerveztek. Minden az meghívóktól a bérelt fotósig. Fantasztikus volt, szavak nélkül magyarázhatatlan az áramló érzelmek." [Kép és szöveg forrása: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Hozzáférés: 2008-12-26. -- Creative Commons Licenc (Nevesítés, share alike)]
 
 **lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Képmegjelenítés: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Hozzáférés: 2008-12-27. -- Creative Commons Licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
@@ -4837,14 +4802,14 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3401**: ⟪ऋषभः⟫ Chamundi-hegyek [Képmagyarázat: Luna Park. -- http://www.flickr.com/photos/lunapark/2124083737/. -- Hozzáférés: 2008-12-27. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt3502**: ⟪क्रामन्ति⟫ [Képmagyarázat: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2182732473/. -- Hozzáférés: 2008-12-28. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)] <!-- TODO: Fallback translation -->
+**lekt3502**: ⟪क्रामन्ति⟫ [Képmagyarázat: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2182732473/. -- Hozzáférés: 2008-12-28. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
 **lekt3501**: ⟪जगुः⟫ Kaadu Malleswara Templom, Bangalore = ಬೆಂಗಳೂರು [Képmagyarázat: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- Hozzáférés: 2008-12-28. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)]
 
 **lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Képmagyarázat: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Hozzáférés: 2008-12-28. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)]
 
 
-**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Képmegjelenítés forrása: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Hozzáférés: 2008-12-28. -- Creative Commons licenc (Nevesítés, share alike)] <!-- TODO: Fallback translation -->
+**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Képmegjelenítés forrása: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Hozzáférés: 2008-12-28. -- Creative Commons licenc (Nevesítés, share alike)]
 
 **lekt3603**: ⟪अनगार्यम्⟫ Északkelet-Thaiföld = อีสาน [Képmegjelenítés forrása: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Hozzáférés: 2008-12-28. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
@@ -4866,13 +4831,13 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Képmegjelenítés forrása: J.M.Garg / Wikipedia. GNU FDLicense]
 
-**lekt3811**: ⟪अशोकः⟫ Aśoka birodalmának legnagyobb kiterjedése valamint szikla- és oszlopédiktumainak lelőhelyei [Képmegjelenítés forrása: Wikipedia.GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt3811**: ⟪अशोकः⟫ Aśoka birodalmának legnagyobb kiterjedése valamint szikla- és oszlopédiktumainak lelőhelyei [Képmegjelenítés forrása: Wikipedia.GNU FDLicense]
 
 **lekt3812**: ⟪विनोदः⟫ Carrom-játék [Képmegjelenítés forrása: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Hozzáférés: 2009-01-01. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
 
 **lekt3813**: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ [Képmegjelenítés forrása: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Hozzáférés: 2009-01-01. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)]
 
-**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Képmegjelenítés forrása: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Hozzáférés: 2009-01-01. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)] <!-- TODO: Fallback translation -->
+**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Képmegjelenítés forrása: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Hozzáférés: 2009-01-01. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
 
 **lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [Képmegjelenítés forrása: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Hozzáférés: 2009-01-02. -- Creative Commons licenc (Nevesítés)]
@@ -4881,27 +4846,27 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4001**: ⟪विष्णोर्दशावताराः⟫ Óramutató járásával megegyezően: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪प्रशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, középen: ⟪कृष्ण⟫ [Képmegjelenítés forrása: Wikipedia. Közterület]
 
-**lekt4004**: ⟪स्वपन्ति⟫ Indiai repülőkutyák (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Képmegjelenítés forrása: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Hozzáférés: 2009-01-02. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs átdolgozás)] <!-- TODO: Fallback translation -->
+**lekt4004**: ⟪स्वपन्ति⟫ Indiai repülőkutyák (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Képmegjelenítés forrása: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Hozzáférés: 2009-01-02. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs átdolgozás)]
 
-**lekt4105**: ⟪भुजङ्गः⟫ Öves krait (_Bungarus fasciatus_) [Képmegjelenítés forrása: J. Ewart. The poisonous snakes of India, 1878. Közterület] <!-- TODO: Fallback translation -->
+**lekt4105**: ⟪भुजङ्गः⟫ Öves krait (_Bungarus fasciatus_) [Képmegjelenítés forrása: J. Ewart. The poisonous snakes of India, 1878. Közterület]
 
 **lekt4104**: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫ Kígyóméreg (krait) melése, Thaiföld [Képmegjelenítés forrása: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Hozzáférés: 2009-01-03. -- Creative Commons licenc (Nevesítés)]
 
-**lekt4109**: ⟪शासना⟫ Ashoka-ediktum, Dhauli, Orissa [Képmegjelenítés forrása: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Hozzáférés: 2009-01-03. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)] <!-- TODO: Fallback translation -->
+**lekt4109**: ⟪शासना⟫ Ashoka-ediktum, Dhauli, Orissa [Képmegjelenítés forrása: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Hozzáférés: 2009-01-03. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)]
 
 **lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), kb. 1898 [Képmegjelenítés forrása: Wikipedia. Közterület]
 
-**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ A Diwan I Khas, vagyis a magánhallgatások terme a delhi Lal Qila (Vörös Erőd) épületében. [Képmegjelenítés forrása: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Hozzáférés: 2009-01-04. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)] <!-- TODO: Fallback translation -->
+**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ A Diwan I Khas, vagyis a magánhallgatások terme a delhi Lal Qila (Vörös Erőd) épületében. [Képmegjelenítés forrása: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Hozzáférés: 2009-01-04. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
 
 **lekt4302**: ⟪आपणः⟫ Orissa = ଓଡ଼ିଶା [Képmegjelenítés forrása: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Hozzáférés: 2009-01-06. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)]
 
-**lekt4303**: ⟪पण्यानि⟫ Jamshedpur = ⟪जमशेदपुर⟫ [Képmegjelenítés forrása: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Hozzáférés: 2009-01-06. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)] <!-- TODO: Fallback translation -->
+**lekt4303**: ⟪पण्यानि⟫ Jamshedpur = ⟪जमशेदपुर⟫ [Képmegjelenítés forrása: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Hozzáférés: 2009-01-06. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)]
 
 **lekt4304**: ⟪विपणिः⟫ Haridwar = ⟪हरिद्वार⟫ [Képmegjelenítés forrása: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Hozzáférés: 2009-01-06. -- Creative Commons licenc (Nevesítés)]
 
 **lekt4305**: ⟪वणिक्⟫ Kanchipuram = காஞ்சிபுரம [Képmegjelenítés forrása: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Hozzáférés: 2009-01-06. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
 
-**lekt4306**: ⟪वत्सः⟫ Vízibivaly (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Képmegjelenítés forrása: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Hozzáférés: 2009-001-06. -- Creative Commons licenc (Nevesítés, share alike)] <!-- TODO: Fallback translation -->
+**lekt4306**: ⟪वत्सः⟫ Vízibivaly (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Képmegjelenítés forrása: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Hozzáférés: 2009-001-06. -- Creative Commons licenc (Nevesítés, share alike)]
 
 
 **lekt4307**: ⟪तोलन्ति⟫ [Képmegjelenítés: Ray Witlin / Világbank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Hozzáférés: 2009-01-06. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
@@ -4918,15 +4883,15 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4408**: ⟪प्रव्रज्या⟫ Thaiföld = ประเทศไทย [Képmegjelenítés: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Hozzáférés: 2009-01-08. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt4602**: ⟪नवग्रहाः⟫ [Képmegjelenítés forrás a ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4602**: ⟪नवग्रहाः⟫ [Képmegjelenítés forrás a ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4603**: ⟪नवग्रहाः⟫ [Képmegjelenítés forrás a ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4603**: ⟪नवग्रहाः⟫ [Képmegjelenítés forrás a ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4604**: ⟪नवग्रहाः⟫ [Képmegjelenítés forrás a ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4604**: ⟪नवग्रहाः⟫ [Képmegjelenítés forrás a ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4605**: ⟪नवग्रहाः⟫ [Képmegjelenítés forrás a ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4605**: ⟪नवग्रहाः⟫ [Képmegjelenítés forrás a ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, kb. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = legfelsőbb kígyókirály) [Képmegjelenítés: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, kb. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = legfelsőbb kígyókirály) [Képmegjelenítés: Wikipedia. Public domain]
 
 **lekt4606**: ⟪अश्वरोहकः⟫ Pune = ⟪पुणे⟫ [Képmegjelenítés: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- Hozzáférés: 2009-01-08. -- Creative Commons licenc (Nevesítés)]
 
@@ -4959,7 +4924,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4901**: ⟪कुलूहलम्⟫ [Képmegjelenítés: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- Hozzáférés: 2009-01-11. -- Creative Commons licenc (nevesítés, nincs módosítás)]
 
-**lekt4902**: ⟪कला⟫ ⟪शिवो⟫ ⟪नटराजा⟫, 11. század [Képmegjelenítés: Vassil / Wikipedia. Közterület] <!-- TODO: Fallback translation -->
+**lekt4902**: ⟪कला⟫ ⟪शिवो⟫ ⟪नटराजा⟫, 11. század [Képmegjelenítés: Vassil / Wikipedia. Közterület]
 
 **lekt4903**: ⟪विहंगः⟫ [Képmegjelenítés: Toji Leon. -- http://www.flickr.com/photos/tojileon/295384395/. -- Hozzáférés: 2009-01-11. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
@@ -4967,24 +4932,24 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4909**: ⟪पञ्जरम्⟫ Jósó papagájkal ketrecben: a papagáj sorsjegyeket húz. Majsúr. [Képmegjelenítés: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- Hozzáférés: 2009-01-12. -- Creative Commons licenc (nevesítés)]
 
-**lekt4905**: ⟪सादरः⟫ Amritszár = ਅੰਮ੍ਰਿਤਸਰ [Képmegjelenítés: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Hozzáférés: 2009-01-11. -- Creative Commons licenc (nevesítés)] <!-- TODO: Fallback translation -->
+**lekt4905**: ⟪सादरः⟫ Amritszár = ਅੰਮ੍ਰਿਤਸਰ [Képmegjelenítés: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Hozzáférés: 2009-01-11. -- Creative Commons licenc (nevesítés)]
 
 
 **lekt4906**: ⟪गजशिशुः⟫ Srí Lanka [Képmegjelenítés forrása: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- Hozzáférés: 2009-01-11. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
 **lekt5001**: ⟪मन्त्री⟫ Kapil Sibal (1948 -), uniós miniszter a Tudomány és Technológia, valamint a Földtudományok Minisztériumában (2006 óta) [Képmegjelenítés forrása: World Economic Forum. -- http://www.flickr.com/photos/worldeconomicforum/3038328904/. -- Hozzáférés: 2009-01-12. -- Creative Commons licenc (Nevesítés, share alike)]
 
-**lekt5002**: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫ A monszun érkezése, Bangalore  ಬೆಂಗಳೂರು [Képmegjelenítés forrása: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- Hozzáférés: 2009-01-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)] <!-- TODO: Fallback translation -->
+**lekt5002**: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫ A monszun érkezése, Bangalore  ಬೆಂಗಳೂರು [Képmegjelenítés forrása: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- Hozzáférés: 2009-01-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt5005**: ⟪आदित्यः⟫ [Képmegjelenítés forrása: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- Hozzáférés: 2009-01-12. -- Creative Commons licenc (Nevesítés, share alike)] <!-- TODO: Fallback translation -->
+**lekt5005**: ⟪आदित्यः⟫ [Képmegjelenítés forrása: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- Hozzáférés: 2009-01-12. -- Creative Commons licenc (Nevesítés, share alike)]
 
 **lekt5003**: ⟪कल्याणी⟫ [Képmegjelenítés forrása: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- Hozzáférés: 2009-01-12. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
 **lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [Képmegjelenítés forrása: Kounosu / Wikipedia. GNU FDLicense]
 
-**lekt5105**: ⟪कृष्णमृगः⟫ Antilop -- _Antilope cervicapra_ L., bikaa [Képmegjelenítés forrása: Wikipedia, közterület] <!-- TODO: Fallback translation -->
+**lekt5105**: ⟪कृष्णमृगः⟫ Antilop -- _Antilope cervicapra_ L., bikaa [Képmegjelenítés forrása: Wikipedia, közterület]
 
-**lekt5106**: ⟪ऋतुः⟫ "Grafikus ábrázolás a termékeny napok számításához az OGINO-módszer szerint 26-30 napos ciklusok esetén... [Szöveg és kép forrása: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Hozzáférés: 2003-12-16] <!-- TODO: Fallback translation -->
+**lekt5106**: ⟪ऋतुः⟫ "Grafikus ábrázolás a termékeny napok számításához az OGINO-módszer szerint 26-30 napos ciklusok esetén... [Szöveg és kép forrása: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Hozzáférés: 2003-12-16]
 
 **lekt5107**: ⟪जटा⟫ ⟪ऋषिकेश⟫ [Képmegjelenítés forrása: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
 
@@ -4992,24 +4957,24 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt5109**: ⟪मधु⟫ City Palace, ⟪उदयपुर⟫ [Képmegjelenítés forrása: abrinsky. -- http://www.flickr.com/photos/abrinsky/457940260/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
 
-**lekt5110**: ⟪मृगया⟫ Vadászat ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Képmegjelenítés forrása: Wikipedia. Közterület] <!-- TODO: Fallback translation -->
+**lekt5110**: ⟪मृगया⟫ Vadászat ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Képmegjelenítés forrása: Wikipedia. Közterület]
 
 **lekt5111**: ⟪शिवा⟫ _Canis aureus_, Kalatop Khajjiar Sanctuary [Képmegjelenítés forrása: gautamnguitar. -- http://www.flickr.com/photos/gautamnguitar/2181211040/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt5112**: ⟪कौशिकः⟫ Brahma-bagoly (_Athene brama_), Mahesana = મહેસાણા [Képmegjelenítés forrása: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)] <!-- TODO: Fallback translation -->
+**lekt5112**: ⟪कौशिकः⟫ Brahma-bagoly (_Athene brama_), Mahesana = મહેસાણા [Képmegjelenítés forrása: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
 
-**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟫ Karnataka = ಕರ್ನಾಟಕ [Képmegjelenítés forrása: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)] <!-- TODO: Fallback translation -->
+**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟫ Karnataka = ಕರ್ನಾಟಕ [Képmegjelenítés forrása: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)]
 
-**lekt5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. „Ezek az emberek egy hindu isten szentélye előtt ültek és ittak (elfelejtettem a nevét). Amikor megkérdeztem tőlük, hogy hentesek, és az ő foglalkozásuk istene csak az alkohol áldozatait fogadta el.” [Kép és szöveg forrása: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)] <!-- TODO: Fallback translation -->
+**lekt5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. „Ezek az emberek egy hindu isten szentélye előtt ültek és ittak (elfelejtettem a nevét). Amikor megkérdeztem tőlük, hogy hentesek, és az ő foglalkozásuk istene csak az alkohol áldozatait fogadta el.” [Kép és szöveg forrása: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt5115**: ⟪मूषिकाविषाणि⟫ Bangalore = ಬೆಂಗಳೂರು [Képmegjelenítés forrása: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)] <!-- TODO: Fallback translation -->
+**lekt5115**: ⟪मूषिकाविषाणि⟫ Bangalore = ಬೆಂಗಳೂರು [Képmegjelenítés forrása: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)]
 
 **lekt5116**: ⟪भुजङ्गः⟫ Lánchaddes (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Képmegjelenítés forrása: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
 
 **lekt5118**: ⟪मणिः⟫ Hope Diamond Gunturból = ಗುಂತೂರು, ma Smithsonian Természettörténeti Múzeum, Washington DC [Képmegjelenítés forrása: David Bjorgen / Wikipedia. GNU FDLicense]
 
-**lekt5117**: ⟪मदः⟫ [Képmegjelenítés forrása: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)] <!-- TODO: Fallback translation -->
+**lekt5117**: ⟪मदः⟫ [Képmegjelenítés forrása: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Hozzáférés: 2009-01-13. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
 
 **lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Képmegjelenítés forrása: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- Hozzáférés: 2009-01-16. -- Creative Commons licenc (Nevesítés)]
 
@@ -5019,11 +4984,9 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt5214**: ⟪चक्रम्⟫ Konark = ⟪कोनार्क⟫ [Képmegjelenítés forrása: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- Hozzáférés: 2009-01-16. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt5208**: ⟪कदली⟫ Hampi = ಹಂಪೆ [Képmegjelenítés forrása: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Hozzáférés: 2009-01-15. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)] <!-- TODO: Fallback translation -->
+**lekt5208**: ⟪कदली⟫ Hampi = ಹಂಪೆ [Képmegjelenítés forrása: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Hozzáférés: 2009-01-15. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
 
 **lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Képmegjelenítés forrása: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Hozzáférés: 2009-01-16. -- Creative Commons licenc (Nevesítés)]
 
 **lekt5217**: Māras támadása Buddha ellen Amaravati = అమరావతి, 2. század e. Kr. [Képmegjelenítés forrása: Wikipedia. GNU FDLicense]
-
-
 

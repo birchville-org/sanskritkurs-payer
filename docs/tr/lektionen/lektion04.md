@@ -10,14 +10,6 @@ status: stable
 
 # Ders 4
 
-::: deleteme-box
-**Bu derste şunları öğreneceksiniz:**
-Yalın halde soru zamirleri ve gösterge zamirleri
-Sözcük sonunda -m ile biten kelimelerde sandhi
-Sözcük sonunda -e ile biten kelimelerde sandhi
-Sözcük sonunda -d ile biten kelimelerde sandhi
-Basit soru kalıpları
-:::
 ## 4.1. Basit tamamlama soruları (sözcük soruları) ve yanıtlar
 
 ### 4.1.1. Soru zamirleri ve gösterge zamirleri

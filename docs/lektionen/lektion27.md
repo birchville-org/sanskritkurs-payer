@@ -578,27 +578,3 @@ Tsunami 2005, Sri Lanka.
 (Bildquelle: [Details](/licenses#lekt2717))
 :::
 
-::: deleteme-box
-
-
-**lekt2701:** Jaipur, 1875. [Bildquelle: Wikipedia. Public domain]
-**lekt2702:** Rajasthan. [Bildquelle: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** Holi. [Bildquelle: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Harihara (links: Viṣṇu, rechts: Śiva). [Bildquelle: Wikipedia. Public domain]
-**lekt2705:** Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal. [Bildquelle: GourangaUK / Wikipedia. GNU FDLicense]
-**lekt2706:** Vastrāṇi. Majuli, Assam. [Bildquelle: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Bildquelle: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Rāma-Satz. [Bildquelle: Wikipedia. Public domain]
-**lekt2709:** Gemälde von Rāja Ravi Varmā (1848 - 1906). [Bildquelle: Wikipedia. Public domain]
-**lekt2710:** Früchte. Bangalore. [Bildquelle: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Naran. Udaipur. [Bildquelle: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Beato (1833/1834 - ca. 1907). [Bildquelle: Wikipedia. Public domain]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Bildquelle: Wikipedia, GNU FDLicense]
-**lekt2714:** Kuh in Udaipur. [Bildquelle: Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Bildquelle: Wikipedia. Public domain]
-**lekt2716:** Sai Baba of Shirdi (1835 - 1918). [Bildquelle: Wikipedia. Public domain]
-**lekt2717:** Tsunami 2005, Sri Lanka. [Bildquelle: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore. [Bildquelle: Wikipedia. Public domain]
-
-:::
-

@@ -9,7 +9,7 @@ status: stable
 
 # שיעור 43
 
-## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \&lt;Person\&gt;") <!-- TODO: Fallback translation -->
+## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \&lt;Person\&gt;")
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -369,21 +369,3 @@ B) תרגמו לסנסקריט:
 (מקור תמונה: [פרטים](/he/licenses#lekt4309))
 :::
 
-::: deleteme-box
-
-**lekt4302.jpg**: ריטה וילארט. -- http://www.flickr.com/photos/rietje/324020365/. -- נגיש ב-2009-01-06. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי) <!-- TODO: Fallback translation -->
-
-**lekt4303.jpg**: אמריטה ב. -- http://www.flickr.com/photos/amrita_b/63071274/. -- נגיש ב-2009-01-06. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי)
-
-**lekt4304.jpg**: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- נגיש ב-2009-01-06. -- רישיון Creative Commons (ייחוס)
-
-**lekt4305.jpg**: visio. -- http://www.flickr.com/photos/visio/421217297/. -- נגיש ב-2009-01-06. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, שיתוף זהה)
-
-**lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- נגיש ב-2009-001-06. -- רישיון Creative Commons (ייחוס, שיתוף זהה)
-
-**lekt4307.jpg**: ריי ויטלין / הבנק העולמי. -- http://www.flickr.com/photos/worldbank/2183198505/. -- נגיש ב-2009-01-06. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא עיבוד)
-
-**lekt4308.jpg**: G.-U. טולקיהן / ויקיפדיה. רישיון GNU FDLicense <!-- TODO: Fallback translation -->
-
-**lekt4309.jpg**: קרול מית'ל. -- http://www.flickr.com/photos/webethere/2178184852/. -- נגיש ב-2009-01-07. -- רישיון Creative Commons (ייחוס, ללא עיבוד)
-:::

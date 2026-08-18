@@ -152,7 +152,7 @@ F) Traducite:
 
 ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫
 
-Ii ad caelum et inferna vadunt. <!-- TODO: Fallback translation -->
+Ii ad caelum et inferna vadunt.
 
 2\. gurūṃs tu śṛṇvanti.
 
@@ -184,7 +184,7 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Secundum Kauṭilīya-arthaṣāstra 1.3.3.) Explicatio: chando = Nom., Akk. sg. ad chandas n.) <!-- TODO: Fallback translation -->
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Secundum Kauṭilīya-arthaṣāstra 1.3.3.) Explicatio: chando = Nom., Akk. sg. ad chandas n.)
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 

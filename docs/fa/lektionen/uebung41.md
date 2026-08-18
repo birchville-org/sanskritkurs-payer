@@ -20,7 +20,7 @@ last_reconstructed: 2026-05-15
 
 ---
 
-## Übungstexte <!-- TODO: Fallback translation -->
+## Übungstexte
 
 B) Übersetzen Sie:
 
@@ -28,7 +28,7 @@ B) Übersetzen Sie:
 «من به بودا پناه می‌برم، من به دارما پناه می‌برم، من به سانگها پناه می‌برم» — این را باید گفت کسانی که به بودا رفته‌اند.
 
 ### Exkurs: Die drei Zufluchten
-Diese dreifache Zuflucht ist entscheidend, um auf dem Weg zur Erlösung die nötige Motivation und Ausdauer zu besitzen. Da es zahllose Weisheitslehrer gibt, ist es unmöglich, allen einzeln zu folgen. Man muss eine Auswahl treffen. Die Persönlichkeit eines Lehrers muss vertrauenswürdig erscheinen (**Zuflucht zu Buddha**). <!-- TODO: Fallback translation -->
+Diese dreifache Zuflucht ist entscheidend, um auf dem Weg zur Erlösung die nötige Motivation und Ausdauer zu besitzen. Da es zahllose Weisheitslehrer gibt, ist es unmöglich, allen einzeln zu folgen. Man muss eine Auswahl treffen. Die Persönlichkeit eines Lehrers muss vertrauenswürdig erscheinen (**Zuflucht zu Buddha**).
 
 با این حال، نکته اساسی شخصیت منجی نیست، بلکه آموزه‌ی رهایی است که به فرد امکان می‌دهد خود مسیر را طی کند. باید از آموزه چنان مطمئن بود که انرژی لازم برای آزمایش آن بر اساس میزان حقیقت بودنش به کار گیرد (**پناه بردن به دهارما**).
 

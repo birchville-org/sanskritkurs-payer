@@ -201,7 +201,7 @@ B) Μεταφράστε στα Σανσκριτικά χρησιμοποιώντ
 
 ⟪६१⟫. ⟪तत्प्रभृतयः⟫ ⟪।⟫ ⟪सा⟫ ⟪प्रभृतिर्येषां⟫ ⟪ते⟫ ⟪।⟫ (das u.s.w.)
 
-⟪६२⟫. ⟪सुदुर्जयः⟫ ⟪।⟫ sehr schwer zu besiegen <!-- TODO: Fallback translation -->
+⟪६२⟫. ⟪सुदुर्जयः⟫ ⟪।⟫ sehr schwer zu besiegen
 
 ⟪६३⟫. ⟪जितक्रोधेन⟫ ⟪।⟫ ⟪जितः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫
 
@@ -225,7 +225,7 @@ B) Μεταφράστε στα Σανσκριτικά χρησιμοποιώντ
 
 ⟪७३⟫. ⟪जातक्रोधः⟫ ⟪।⟫ ⟪जातः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
 
-⟪७४⟫. ⟪दृष्टमात्रः⟫ ⟪।⟫ sobald er gesehen wurde <!-- TODO: Fallback translation -->
+⟪७४⟫. ⟪दृष्टमात्रः⟫ ⟪।⟫ sobald er gesehen wurde
 
 ⟪७५⟫. ⟪भूतकालः⟫ ⟪।⟫ Vergangenheit
 
@@ -233,7 +233,7 @@ B) Μεταφράστε στα Σανσκριτικά χρησιμοποιώντ
 
 ⟪७७⟫. ⟪तदादीनाम्⟫ ⟪।⟫ ⟪सादिर्येषां⟫ ⟪तेषाम्⟫ ⟪।⟫
 
-⟪७८⟫. ⟪जातिस्मरणम्⟫ ⟪।⟫ Erinnerung an frühere Geburten <!-- TODO: Fallback translation -->
+⟪७८⟫. ⟪जातिस्मरणम्⟫ ⟪।⟫ Erinnerung an frühere Geburten
 
 ⟪७९⟫. ⟪सफलम्⟫ ⟪।⟫ fruchtbar
 
@@ -251,16 +251,12 @@ Abb.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्न�
 ## Scholarly Fragments
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪३३⟫ ⟪॥⟫  
-Die Abklärung des Geistes geschieht durch die Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die Glück und Leid, Verdienstvolles und Nicht-Verdienstvolles als Objekt haben. <!-- TODO: Fallback translation -->
+Die Abklärung des Geistes geschieht durch die Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die Glück und Leid, Verdienstvolles und Nicht-Verdienstvolles als Objekt haben.
 
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪१⟫ ⟪॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
-Yoga der Tat ist Askese, Vedastudium und aufmerksamer Dienst am HERRN. Er hat als Ziel die Entfaltung der Sammlung und die Schwächung der "Qualen". <!-- TODO: Fallback translation -->
+Yoga der Tat ist Askese, Vedastudium und aufmerksamer Dienst am HERRN. Er hat als Ziel die Entfaltung der Sammlung und die Schwächung der "Qualen".
 
-::: deleteme-box Erläuterung
-Die fünf "Qualen" (⟪क्लेश⟫) sind: ⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫ (Yoga-Sūtra 2.3) — Unwissenheit, Ichbezogenheit, Gier, Hass und Anhänglichkeit an den Leib. <!-- TODO: Fallback translation -->
-
-:::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Ο ύψιστος σκοπός του ανθρώπου είναι να εξαφανιστεί πλήρως ο τριπλός πόνος. (*Τριπλός πόνος: από τον εαυτό, από τα αντικείμενα, από τους θεούς.*)
 

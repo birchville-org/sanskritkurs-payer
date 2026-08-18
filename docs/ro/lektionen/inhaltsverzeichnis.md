@@ -2,808 +2,855 @@
 
 ## [Lecție 1](lektion01)
 
-*   1\.1. Literatur pentru începători în studii indiene
-*   1\.2. Sunetele sanscrite
-    *   1\.2.1. Despre pronunția unor sunete individuale
-*   1\.3. Exercițiu
+*   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Închinarea lui Gaṇeśa
+*   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Început auspicios"
+*   1\. Literatur pentru începători în Indologie
+*   2\. Sunetele limbii sanscrite conform clasificării tradiționale indiene și transcrierea lor științifică
+*   2.1. Despre pronunția sunetelor individuale
+*   3\. Exerciții
 
 ## [Lecție 2](lektion02)
 
-*   2\.1. Propoziția nominală
-*   2\.2. Despre declinare (flexiunea substantivelor)
-*   2\.3. Nominativul singular
-    *   2\.3.1. Nominativul singular terminat în -s
-*   2\.4. Sandhi -- ⟪सन्धि⟫
-    *   2\.4.1. Sandhi al sunetului -s
-*   2\.5. Listă de cuvinte
-*   2\.6. Exercițiu
+*   1\. Propoziția nominală
+*   2\. Despre declinare (flexiunea substantivelor)
+*   3\. Nominativul singular = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫
+*   3.1. Nominativ singular în -s
+*   4\. Sandhi -- ⟪सन्धि⟫
+*   4.1. Sandhi pentru -s final
+*   5\. Listă de cuvinte
+*   6\. Exerciții
 
 ## [Lecție 3](lektion03)
 
-*   3\.1. Nominativ singular al femininului
-    *   3\.1.1. Nominativul singular terminat în -s
-    *   3\.1.2. Nominativ Singular fără sufix
-*   3\.2. Formarea femininelor la masculine
-*   3\.3. Nominativ plural masculin și feminin
-*   3\.4. Sandhi vocalic
-*   3\.5. Satzsandhi de -ās
-*   3\.6. Listă de cuvinte
-*   3\.7. Exerciiu
+*   1\. Nominativ singular = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫ (continuare)
+*   1.1. Nominativ singular în -s (continuare)
+*   1.2. Nominativ singular fără sufix
+*   2\. Formarea femininelor din masculine (adjective și substantive)
+*   3\. Nominativ plural = prathamā bahuvacanam = ⟪प्रथमा बहुचनम्⟫
+*   4\. Sandhi vocalic
+*   5\. Sandhi propozițional pentru -ās
+*   6\. Listă de cuvinte
+*   7\. Exerciții
 
 ## [Lecție 4](lektion04)
 
-*   4\.1. Întrebări simple de completare (întrebări cu cuvinte) și răspunsuri
-    *   4\.1.1. Pronume interogative și pronume demonstrative
-    *   4\.1.2. Sandhi al sunetului -m
-    *   4\.1.3. Sandhi de -e final
-    *   4\.1.4. Sandhi al sunetului -d
-    *   4\.1.5. Formule de întrebare
-*   4\.2. Exercițiu
+Sanscrita vorbită
 
-## [Lecție 5](lektion05)
+*   1\. Întrebări simple de completare (întrebări cu cuvinte) și răspunsuri
+*   1.1. Pronume interogative (praśnārthakasarvanāma n.) și pronume demonstrative (nidarśakasarvanāma n.) = ⟪प्रश्नार्थकसर्वनाम निदर्शकसर्वनामानि च⟫
+*   1.1.1.Pronume interogative (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+*   1.1.2. Pronume demonstrative (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+*   1.2. Sandhi pentru -m final
+*   1.3. Sandhi pentru -e final
+*   1.4. Sandhi pentru -d final
+*   1.5. Formule de întrebare
+*   2\. Exerciții
 
-*   5\.1. Compuse nominale (samāsa m. = ⟪समास⟫)
-*   5\.2. Despre terminologia sanscrită pentru compuse
-*   5\.3. Compuse copulative (Dvandva n. = ⟪द्वन्द्व⟫)
-    *   5\.3.1. Elemente anterioare de compuse
-    *   5\.3.2. Plural-Itaretaradvandva
-*   5\.4. Listă de cuvinte
-*   5\.5. Exercițiu
-*   5\.6. Exercitiu de repetiție
+## [Lecția 5](lektion05)
 
-## [Lecție 6](lektion06)
+*   1\. Compozite nominale = samāsa m. = ⟪समास⟫
+*   2\. Cuvinte cheie în sanscrită pentru compozite
+*   3\. Compozitive copulative = Dvandva n. ("pereche") = ⟪द्वन्द्व⟫
+*   3.1. Primele elemente ale compozitelor
+*   3.2. Pluralul Itaretaradvandva
+*   4\. Listă de cuvinte
+*   5\. Exerciții
 
-*   6\.1. Propoziția verbală
-*   6\.2. Despre formarea formelor verbale
-*   6\.3. Indicativ Prezent (laṭ = ⟪लट्⟫)
-*   6\.4. Terminationsle de persoana a treia (prathama m. = ⟪प्रथम⟫ = "prima (!) persoană")
-*   6\.5. Formarea temei prezentului
-    *   6\.5.1. Verben de a 6-a clasă de prezent (tudādi = ⟪तुदादि⟫ = "tud etc.")
-    *   6\.5.2. Verbe ale clasei de prezent I (bhādi / bhuvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = „bhū etc.“)
-    *   6\.5.3. Verbele clasei a IV-a de prezent (divādi = ⟪दिवादि⟫ = "div etc.")
-    *   6\.5.4. Vocalul tematic, clasele de prezent tematice
-*   6\.6. Sanscrit vorbal: Întrebări suplimentare (praśna m. = ⟪प्रश्न⟫)
-*   6\.7. Listă de cuvinte
-*   6\.8. Exercitiu
-*   6\.9. Exercitiu de repetiție
+## [Lecția 6](lektion06)
 
-## [Lecție 7](lektion07)
+*   1\. Propoziția verbală
+*   2\. Formarea formelor verbale
+*   3\. Indicativul prezent (laṭ = ⟪लट्⟫)
+*   4\. Desinențele primare pentru persoana a III-a (prathama m. = ⟪प्रथम⟫ = "prima (!) persoană")
+*   5\. Formarea temei de prezent
+*   5.1. Verbe din clasa a șasea de prezent (tudādi = ⟪तुदादि⟫ = "tud etc.")
+*   5.2. Verbe din prima clasă de prezent (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū etc.")
+*   5.2.1. Sandhi-ul cuvintelor cu e și o
+*   5.2.2. Gradarea vocalică (Ablaut)
+*   5.3. Verbe din clasa a patra de prezent (divādi = ⟪दिवादि⟫ = "div etc.")
+*   5.4. Vocala tematică, clasele tematice de prezent
+*   6\. Sanscrita vorbită: Întrebări suplimentare (praśna m. = ⟪प्रश्न⟫)
+*   7\. Listă de cuvinte
+*   8\. Exerciții
+*   9\. Exerciții de recapitulare
 
-*   Proverbul săptămânii
-*   7\.1. Propoziția verbală cu complement direct
-*   7\.2. Acuzativul (Cazul al patrulea, dvitīyā f. = ⟪द्वितीया⟫ = "a doua terminație de caz")
-    *   7\.2.1. Acuzativul singular și plural al pronumelor interogative și demonstrative
-    *   7\.2.2. Utilizarea acuzativului (cazul al doilea, dvitīyā f. = ⟪द्वितीया⟫ = "a doua terminație de caz")
-*   7\.3. Sandhi de finalul -n
-*   7\.4. Neutru (napuṃsaka n. = ⟪नपुंसक⟫)
-    *   7\.4.1. Neutrule stemurilor în -a
-*   7\.5. Clase de prezente atematice
-    *   7\.5.1. Terminațiile primare ale persoanei a III-a plural la rădăcini neaspirate
-    *   7\.5.2. Cea de-a 5-a clasă de prezent (svādi = ⟪स्वादि⟫ = "su etc.")
-*   7\.6. Listă de cuvinte
-*   7\.7. Exercitiu
+## [Lecția 7](lektion07)
 
-## [Lecție 8](lektion08)
+Proverbul săptămânii
 
-*   8\.1. Despre formarea numelor substantive
-*   8\.2. Clasificarea sufixelor nominale
-*   8\.3. Unele sufixe nominale importante
-    *   8\.3.1. -a m. (kṛt)
-    *   8\.3.2. -ana n. (kṛt)
-    *   8\.3.3. -tra n. (kṛt)
-    *   8\.3.4. -ti f. (kṛt)
-    *   8\.3.5. -tva n., -tā f. (taddhita)
-*   8\.4. Clasa a 8-a de prezens (tanādi = ⟪तनादि⟫ = „tan și altele”)
-*   8\.5. Listă de cuvinte
-*   8\.6. Exercitiu
-*   8\.7. Exercițiu de citire și traducere
+*   1\. Propoziția verbală cu complement direct
+*   2\. Acuzativul (cazul al patrulea, dvitīyā f. = ⟪द्वितीया⟫ = "terminația cazului al doilea")
+*   2.1. Acuzativul singular și plural al pronumelor interogative și demonstrative
+*   2.2. Utilizarea acuzativului (cazul al patrulea, dvitīyā f. = ⟪द्वितीया⟫ = "terminația cazului al doilea")
+*   3\. Sandhi-ul pentru -n final
+*   4\. Neutru (napuṃsaka n. = ⟪नपुंसक⟫)
+*   4.1. Neutru al temelor în -a
+*   5\. Clasele atematice de prezent
+*   5.1. Desinențele primare pentru persoana a III-a plural la temele de prezent atematice
+*   5.2. Clasa a cincea de prezent (svādi = ⟪स्वादि⟫ = "su etc.")
+*   6\. Listă de cuvinte
+*   7\. Exerciții
 
-## [Lecție 9](lektion09)
+## [Lecția 8](lektion08)
 
-*   9\.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Sumarizare-dvandva")
-*   9\.2. Despre formarea stemelor nominale
-    *   9\.2.1. -ka (taddhita)
-    *   9\.2.2. -aka (kṛt), fem. adesea -ikā
-*   9\.3. Listă de cuvinte
-*   9\.4. Exercitiu
+*   1\. Formarea substantivelor
+*   2\. Clasificarea sufixelor nominale
+*   3\. Câteva sufixe nominale importante
+*   3.1. -a m. (kṛt)
+*   3.2. -ana n. (kṛt)
+*   3.3. -tra n. (kṛt)
+*   3.4. -ti f. (kṛt)
+*   3.5. -tva n., tā f. (taddhita)
+*   4\. A opta clasă de prezent (tanādi = ⟪तनादि⟫ = "tan etc.")
+*   5\. Listă de cuvinte
+*   6\. Exerciții
+*   7\. Exercițiu de lectură și traducere
 
-## [Lecție 10](lektion10)
+## [Lecția 9](lektion09)
 
-*   10\.1. Propoziția pasivă
-*   10\.2. Instrumentalul (tṛtīyā f. = ⟪तृतीया⟫ = "a trecea terminație de caz")
-    *   10\.2.1. Despre utilizarea instrumentalului (tṛtīyā = ⟪तृतीया⟫)
-*   10\.3. Legeul așa-numit de cerebraizare pentru -n- (un Wortsandhi)
-*   10\.4. Pasivul, Indicativ Prezent (yak = ⟪यक्⟫)
-    *   10\.4.1. Reguli speciale pentru formarea pasivului
-*   10\.5. Listă de cuvinte
-*   10\.6. Exercitare
-*   10\.7. Listă de cuvinte 2
-*   10\.8. Exercițiu de citire și traducere
+*   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("dvandva de sinteză")
+*   2\. Formarea rădăcinilor nominale
+*   2.1. -ka (taddhita)
+*   2.2. -aka (kṛt), fem. adesea -ikā
+*   3\. Listă de cuvinte
+*   4\. Exerciții
 
-## [Lecție 11](lektion11)
+## [Lecția 10](lektion10)
 
-*   11\.1. Dublu acuzativ
-*   11\.2. Listă de cuvinte
-*   11\.3. Exercițiu
-*   11\.4. Exerciții de repetiție
+*   1\. Propoziția pasivă
+*   2\. Instrumentalul = tṛtīyā f. = ⟪तृतीया⟫ = "a treia terminație cazuală"
+*   2.1. Referitor la utilizarea instrumentalului (tṛtīyā = ⟪तृतीया⟫)
+*   3\. Legea cunoscută a cerebralizării pentru -n- (un sandhi lexical)
+*   4\. Pasivul, Indicativ Prezent (yak = ⟪यक्⟫)
+*   4.1. Reguli speciale pentru formarea pasivului
+*   5\. Listă de cuvinte
+*   6\. Exerciții
+*   7\. Lista de cuvinte 2
+*   8\. Exercițiu de lectură și traducere
 
-## [Lecție 12](lektion12)
+## [Lecția 11](lektion11)
 
-*   12\.1. Participiul Perfect Pasiv (PPP)
-    *   12\.1.1. Schema pentru verbe tranzitive
-    *   12\.1.2. Schema I pentru verbe intranzitive și verbe de mișcare
-    *   12\.1.3. Schema II pentru verbe intranzitive și verbe de mișcare
-*   12\.2. Despre semnificatul PPP
-*   12\.3. Formarea PPP-ului
-    *   12\.3.1. PPP pe -ta (kta)
-*   12\.4. Legile combinațiilor fonetice în cuvânt
-*   12\.5. Listă de cuvinte
-    *   12\.5.1. Pasivul și PPP-urile rădăcinilor învățate până acum
-*   12\.6. Exerciții
+*   1\. Acuzativ dublu
+*   2\. Listă de cuvinte
+*   3\. Exerciții
+*   4\. Exercițiu de recapitulare
+
+## [Lecția 12](lektion12)
+
+*   1\. Participiul Perfecțiv Pasiv (PPP)
+*   1.1. Schema pentru verbele tranzitive
+*   1.2. Schema I pentru verbele intranzitive și verbele de mișcare
+*   1.3. Schema II pentru verbele intranzitive și verbele de mișcare
+*   2\. Referitor la semnificația PPP-ului
+*   3\. Formarea PPP-ului
+*   3.1. PPP în -ta (kta)
+*   3.1.1. Fără vocală de legătură -i- (aniṭ)
+*   3.1.2. Cu vocală de legătură -i- (seṭ)
+*   4\. Legile combinației fonetice în cuvânt
+*   5\. Listă de cuvinte
+*   5.1. Pasivul și PPP-ul rădăcinilor învățate până acum
+*   6\. Exerciții
 
 ## [Lecție 13](lektion13)
 
-*   13\.1. PPP pe sufixul -na-
-*   13\.2. Mai multe despre utilizarea PPP-ului
-*   13\.3. Determinative atributive ale substantivel (poziția cuvântului)
-*   13\.4. Formarea adjectivelor cu sufixele -mant și -vant (taddhita)
-*   13\.5. Declinarea tematică a substantivelor
-*   13\.6. Despre sandha cuvântului
-*   13\.7. Desinenzele de caz ale rădăcinilor consonantice
-*   13\.8. Declinarea rădăcinilor în -mant și -vant
-*   13\.9. Listă de cuvinte
-*   13\.10. Exercițiu
-*   13\.11. Exercițiu de recapitulare
+*   1\. PPP pe -na-
+*   2\. Alte informații despre utilizarea PPP
+*   3\. Determinative atributive ale substantivelor (ordinea cuvintelor)
+*   4\. Formarea adjectivelor pe -mant și -vant (taddhita)
+*   5\. Gradarea rădăcinilor substantivelor
+*   6\. Despre sandhiul cuvintelor
+*   7\. Terminațiile cazurilor ale rădăcinilor consonantice
+*   8\. Declinarea rădăcinilor pe -mant și -vant
+*   9\. Listă de cuvinte
+*   10\. Exerciții
+*   11\. Exerciții de recapitulare
 
 ## [Lecție 14](lektion14)
 
-*   14\.1. Expresia relației dintre cele denumite prin substantive: genitivul (ṣaṣṭhī f. = ⟪षष्टी⟫ = al șaselea caz)
-*   14\.2. Formarea genitivelor (ṣaṣṭhī f. = ⟪षष्ठी⟫)
-*   14\.3. Mai multe despre utilizarea genitivului (⟪षष्ठी⟫)
-*   14\.4. Listă de cuvinte
-*   14\.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = proverbe
-*   14\.6. Exerciții <!-- TODO: Fallback translation -->
+*   1\. Exprimarea relației dintre cele denumite prin substantive: genitivul (ṣaṣṭhī f. = ⟪षष्टी⟫ = a șasea terminație de caz)
+*   2\. Formarea formelor genitivului (ṣāṣṭhī f. = ⟪षष्ठी⟫)
+*   3\. Alte informații despre utilizarea genitivului (⟪षष्ठी⟫)
+*   4\. Listă de cuvinte
+*   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = proverbe
+*   6\. Exerciții
 
 ## [Lecție 15](lektion15)
 
-*   15\.1. ⟪सुभाषितम्⟫
-*   15\.2. Compuse determinative = Tatpuruṣa m. = ⟪तत्पुरुष⟫
-*   15\.3. Compuse determinative cu elementul anterior atributiv / apositional = Karmadhāraya m. = ⟪कर्मधारय⟫
-*   15\.4. Compuse determinative cu un prim element care se află în raport cu al doilea element într-o relație de caz non-atributiv/apozițional = Tatpuruṣa în sensul strict
-*   15\.5. Descompunerea compuselor (în afară de Dvandvas)
-*   15\.6. Forma componentei anterioare în compuse (⟪समास⟫ m.)
-*   15\.7. Clasificarea ⟪तत्पुरुष⟫
-    *   15\.7.1. Clasificarea ⟪कर्मधारय⟫
-*   15\.8. Listă de cuvinte
-*   15\.9. Exercițiul 1
-*   15\.10. Exercițiul 2
-*   15\.11. Exercițiul 3
+*   ⟪१⟫. ⟪सुभाषितम्⟫
+*   2\. Compuse determinative = Tatpuruṣa m. = ⟪तत्पुरुष⟫
+*   3\. Compuse determinative cu un prim element atributiv / apositional = Karmadhāraya m. = ⟪कर्मधारय⟫
+*   4\. Compuse determinative cu un prim element care se află în raport de caz non-atributiv/non-apositional față de al doilea element = Tatpuruṣa în sens strict
+*   5\. Descompunerea compuselor (în afară de Dvandvas)
+*   6\. Forma primului element în compuse (⟪समास⟫ m.)
+*   7\. Clasificarea ⟪तत्पुरुष⟫
+*   7.1. Clasificarea ⟪कर्मधारय⟫
+*   8\. Listă de cuvinte
+*   9\. Exercițiul 1
+*   10\. Exercițiul 2
+*   11\. Exercițiul 3
 
 ## [Lecție 16](lektion16)
 
-*   16\.1. Despre Sandhi consoanelor finale
-*   16\.2. Listă de cuvinte
-*   16\.3. Exercițiu
-*   16\.4. Exerciții de recapitulare
+*   1\. Despre sandhiul consonantelor finale
+*   2\. Listă de cuvinte
+*   3\. Exerciții
+*   4\. Exerciții de recapitulare
 
 ## [Lecție 17](lektion17)
 
-*   17\.1. A doua clasă de prezent (⟪अदादि⟫ = ⟪अद्⟫ etc.)
-*   17\.2. Rădăcinile celei de-a doua clase de prezente cu alternanță de stemă: nivel înalt – nivel scăzut
-*   17\.3. Rădăcinile celei de-a doua clase de prezente cu alternanță de stemă: gradul lung - gradul redus
-*   17\.4. Rădăcinile celei de-a doua clase de prezente fără abstracțiune de stemă
-*   17\.5. Rădăcini disilabice în -i/-ī cu alternanță de stemă
-*   17\.6. Listă de cuvinte
-*   17\.7. Exercițiul 1
-*   17\.8. Exercițiul 2
+*   1\. A doua clasă de prezent (⟪अदादि⟫ = ⟪अद्⟫ etc.)
+*   2\. Rădăcinile celei de-a doua clase de prezent cu variație a temei nivel înalt - nivel scăzut
+*   3\. Rădăcinile celei de-a doua clase de prezent cu variație a temei nivel prelungit - nivel scăzut
+*   4\. Rădăcinile celei de-a doua clase de prezent fără variație a temei
+*   5\. Rădăcini disilabice pe -i/-ī cu variație a temei
+*   6\. Listă de cuvinte
+*   7\. Exercițiul 1
+*   8\. Exercițiul 2
 
 ## [Lecție 18](lektion18)
 
-*   18\.1. ⟪सुभाषितम्⟫
-*   18\.2. Compuse determinative (⟪तत्पुरुष⟫) cu element anterior adverbial
-    *   18\.2.1. Compuse de tipul ⟪सुकर⟫ / ⟪दुष्कर⟫
-    *   18\.2.2. Semantici ai Tatpuruṣa cu a- / an-
-*   18\.3. Compuși verbalici
-    *   18\.3.1. Formarea substantivelor din compusele verbale
-*   18\.4. Listă de cuvinte
-*   18\.5. Exercițiu
-*   18\.6. Rețetă de repetiție
+*   ⟪१⟫. ⟪सुभाषितम्⟫
+*   2\. Compozite determinative (⟪तत्पुरुष⟫) cu element anterior adverbial
+*   2.1. Compozite de tipul ⟪सुकर⟫ / ⟪दुष्कर⟫
+*   2.2. Semnificațiile Tatpuruṣa-ului negativ (a- / an-)
+*   3\. Compozite verbale
+*   3.1. Formări nominale din compozite verbale
+*   4\. Listă de cuvinte
+*   5\. Exercițiu
+*   6\. Exercițiu de recapitulare
 
 ## [Lecție 19](lektion19)
 
-*   19\.1. Propoziția relativă
-*   19\.2. Pronumele relativ = ⟪व्यपेक्षकसर्वनाम⟫ n.
-*   19\.3. Listă de cuvinte
-*   19\.4. Exerciții
-*   19\.5. ⟪सुभाषितानि⟫
+*   1\. Propoziția relativă
+*   2\. Pronumele relativ = ⟪व्यपेक्षकसर्वनाम⟫ n.
+*   3\. Listă de cuvinte
+*   4\. Exercițiu
+*   ⟪५⟫. ⟪सुभाषितानि⟫
 
 ## [Lecție 20](lektion20)
 
-*   20\.1. Compuse posesive = ⟪बहुव्रीहि⟫ m.
-*   20\.2. Bahuvrīhi cu un component anterior atributiv
-*   20\.3. Bahuvrīhi cu un component anterior apositional
-*   20\.4. Bahuvrīhi cu un prim element cauzal
-*   20\.5. Bahuvrīhi cu element anterior adverbial
-*   20\.6. Flexiunea componentei finale a unui Bahuvrīhi
-*   20\.7. O altă clasificare a tipurilor de Bahuvrīhi
-*   20\.8. Relația dintre Bahuvrīhi și propoziția relativă
-*   20\.9. Listă de cuvinte
-*   20\.10. Exercițiul 1
-*   20\.11. Exercițiul 2
-*   20\.12. Exercițiu de traducere
+*   1\. Compozite posesive = ⟪बहुव्रीहि⟫ m.
+*   2\. Bahuvrīhi cu element anterior atributiv
+*   3\. Bahuvrīhi cu element anterior apositional
+*   4\. Bahuvrīhi cu element anterior cauzal
+*   5\. Bahuvrīhi cu element anterior adverbial
+*   6\. Declinarea elementului final al unui Bahuvrīhi
+*   7\. O altă clasificare a tipurilor de Bahuvrīhi
+*   8\. Relația dintre Bahuvrīhi și propoziția relativă
+*   9\. Listă de cuvinte
+*   10\. Exercițiul 1
+*   11\. Exercițiul 2
+*   12\. Exercițiu de traducere
 
 ## [Lecție 21](lektion21)
 
-*   21\.1. Alte teme de prezent în -nt
-    *   21\.1.1. Participul prezent (⟪लडादेशः⟫) Parasmaipada
-    *   21\.1.2. ⟪महान्त्⟫ "mare"
-*   21\.2. Sandhi pentru nasalele finale
-*   21\.3. Forme politice de adresare
-*   21\.4. Listă de cuvinte
-*   21\.5. Exerciții
+*   1\. Alte teme de prezent pe -nt
+*   1.1. Participiul la prezent (⟪लडादेशः⟫) Parasmaipada
+*   1.2. ⟪महान्त्⟫ "mare"
+*   2\. Sandhi pentru nazale finale
+*   3\. Forme de politețe ale adresării
+*   4\. Listă de cuvinte
+*   5\. Exercițiu
 
 ## [Lecție 22](lektion22)
 
-*   22\.1. Ablativul absolut (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
-*   22\.2. Formarea ablativului
-    *   22\.2.1. Verbe fără prefix: Absolutiv în -⟪त्वा⟫
-    *   22\.2.2. Verbe cu prepozitii
-*   22\.3. Listă de cuvinte
-*   22\.4. Exercițiu
+*   1\. Absolutivul (⟪क्त्वा । ल्यप्⟫)
+*   2\. Formarea Absolutivului
+*   2.1. Verbe fără prefix: Absolutiv în -⟪त्वा⟫
+*   2.2. Verbe cu prefix
+*   2.2.1. Rădăcini cu vocală lungă (în afară de -ā) sau cu consoană la final
+*   2.2.2. Rădăcini în -ā
+*   2.2.3. Rădăcini care în gradul redus se termină cu -i scurt, -u, -ṛ
+*   2.2.4. Rădăcini în -am / -an, care în gradul redus se termină cu -a
+*   3\. Listă de cuvinte
+*   4\. Exerciții
 
 ## [Lecție 23](lektion23)
 
-*   23\.1. Infinitivul (⟪तुमुन्⟫)
-*   23\.2. Formarea infinitivului (⟪तुमुन्⟫)
-*   23\.3. Infinitivul (⟪तुमुन्⟫) pentru rădăcinile învățate până acum
-*   23\.4. Listă de cuvinte
-*   23\.5. Exercițiu
-*   23\.6. Exercițiu de recapitulare
+*   1\. Infinitivul (⟪तुमुन्⟫)
+*   2\. Formarea infinitivului (⟪तुमुन्⟫)
+*   3\. Infinitivul (⟪तुमुन्⟫) pentru rădăcinile învățate până acum
+*   4\. Listă de cuvinte
+*   5\. Exerciții
+*   6\. Exerciții de recapitulare
 
 ## [Lecție 24](lektion24)
 
-*   24\.1. Dativul (⟪चतुर्थी⟫ = "a patra declinație")
-*   24\.2. Formarea dativului (⟪चतुर्थी⟫)
-    *   24\.2.1. Teme consonantice
-    *   24\.2.2. Pronume interogative
-    *   24\.2.3. Pronume demonstrative
-    *   24\.2.4. Teme vocale
-*   24\.3. Sandhi al final -ai și -au
-*   24\.4. Listă de cuvinte
-*   24\.5. Exercițiu
-*   24\.6. Alte exerciții privind folosirea dativului
+*   1\. Dativul (⟪चतुर्थी⟫ = "a cincea terminație cazuală")
+*   2\. Formarea dativului (⟪चतुर्थी⟫)
+*   2.1. Steme consonantice
+*   2.2. Pronume interogative
+*   2.3. Pronume demonstrative
+*   2.4. Steme vocaice
+*   3\. Sandhi pentru -ai și -au la final de cuvânt
+*   4\. Listă de cuvinte
+*   5\. Exerciții
+*   6\. Alte exerciții privind utilizarea dativului
 
 ## [Lecție 25](lektion25)
 
-*   25\.1. Formarea ablativului (⟪पञ्चमी⟫ = "cinciua terminație cazială")
-*   25\.2. Utilizarea ablativului (⟪पञ्चमी⟫)
-*   25\.3. Suffixul -⟪तस्⟫
-*   25\.4. Alte modalități de a exprima motivele
-*   25\.5. Listă de cuvinte
-*   25\.6. Exercitiu
-*   25\.7. ⟪सुभाषितानि⟫
-*   25\.8. Exercițiu de traducere
+*   1\. Formarea ablativului (⟪पञ्चमी⟫ = "a șasea terminație cazuală")
+*   2\. Utilizarea ablativului (⟪पञ्चमी⟫)
+*   3\. Suffixul -⟪तस्⟫
+*   4\. Alte modalități de a exprima motivele
+*   5\. Listă de cuvinte
+*   6\. Exerciții
+*   7\. ⟪सुभाषितानि⟫
+*   8\. Exerciții de traducere
 
 ## [Lecție 26](lektion26)
 
-*   26\.1. Lege de cerebralizare pentru -s- în interiorul cuvântului
-*   26\.2. Lege de cerebralizare pentru dentale în interiorul cuvântului
-*   26\.3. Wortsandhi pentru palatale, guturale, ṣ, h + -s
-*   26\.4. Lege lui disimilarea suflului lui Grassmann
-*   26\.5. Wortsandhi pentru -m, -n în fața sunetelor sibilante
-*   26\.6. Utilizarea viitorului simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
-*   26\.7. Formarea viitorului simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
-*   26\.8. Exercițiu
+*   1\. Legea cerebralezării pentru -s- în interiorul cuvântului
+*   2\. Legea cerebralezării pentru dentale în interiorul cuvântului
+*   3\. Sandhi lexical pentru palatale, guturale, ṣ, h + -s
+*   4\. Legea de disimilare a aspirării a lui Grassmann
+*   5\. Sandhi lexical pentru -m, -n înainte de sibilante
+*   6\. Utilizarea viitorului simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+*   7\. Formarea viitorului simplu (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+*   8\. Exerciții
 
-## [Lecție 27](lektion27)
+## [Lecția 27](lektion27)
 
-*   27\.1. Utilizarea cazului locativ (⟪सप्तमी⟫ f. = "a șaptea terminație de caz")
-*   27\.2. Formarea locativului (⟪सप्तमी⟫)
-    *   27\.2.1. Steme consonantice
-    *   27\.2.2. Pronume interogative, demonstrative și relative
-    *   27\.2.3. Steme vocale
-*   27\.3. Prezentare generală a sufixelor regulate ale cazurilor (⟪विभक्ति⟫)
-*   27\.4. Un vers cu toate formele de declinare (singular) la ⟪राम⟫
-*   27\.5. Listă de cuvinte
-*   27\.6. Exercițiu
-*   27\.7. Paradigme de declinare pentru memorare
-    *   27\.7.1. Masculine în -a: ⟪नर⟫
-    *   27\.7.2. Neutre în -a: ⟪फल⟫
-    *   27\.7.3. Feminine în -ā: ⟪क्षत्रिया⟫
-    *   27\.7.4. Masculine ending in -i: ⟪अरि⟫
-    *   27\.7.5. Feminine în -i: ⟪मति⟫
-    *   27\.7.6. Masculine în -u: ⟪गुरु⟫
-    *   27\.7.7. Feminine în -u: ⟪धेनु⟫
-    *   27\.7.8. Feminine plurisilabice terminata in -ī: ⟪देवी⟫
-    *   27\.7.9. Participiul prezent Parasmaipada în -ant: ⟪सन्त्⟫
-    *   27\.7.10. ⟪महान्त्⟫
-    *   27\.7.11. Masculine și Neutre în -vant / -mant: ⟪गुणवन्त्⟫
-    *   27\.7.12. Pronume demonstrative: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
-    *   27\.7.13. Pronume relativ: ⟪यद्⟫
-    *   27\.7.14. Pronume interogative: ⟪किम्⟫
+*   1\. Utilizarea cazului locativ (⟪सप्तमी⟫ f. = "a șaptea terminație de caz")
+*   2\. Formarea locativului (⟪सप्तमी⟫)
+*   2.1. Teme consonantice
+*   2.2. Pronume interogative, demonstrative și relative
+*   2.3. Teme vocalice
+*   3\. Prezentare generală a terminațiilor regulate ale cazurilor (⟪विभक्ति⟫) la singular și plural
+*   4\. Un vers cu toate formele de declinare la singular pentru ⟪राम⟫
+*   5\. Listă de cuvinte
+*   6\. Exerciții
+*   7\. Paradigme de declinare pentru memorare
+*   7.1. Neutru în -a: ⟪नर⟫
+*   7.2. Neutru în -a: ⟪फल⟫
+*   7.3. Feminin în -ā: ⟪क्षत्रिया⟫
+*   7.4. Neutru în -i: ⟪अरि⟫
+*   7.5. Feminin în -i: ⟪मति⟫
+*   7.6. Neutru în -u: ⟪गुरु⟫
+*   7.7. Feminin în -u: ⟪धेनु⟫#
+*   7.8. Feminine polisilabice în -ī: ⟪देवी⟫
+*   7.9. Participiul prezent parasmaipada în -ant: ⟪सन्त्⟫
+*   7.10. ⟪महान्त्⟫
+*   7.11. Neutru și neutru în -vant / -mant: ⟪गुणवन्त्⟫
+*   7.12. Pronume demonstrative: ⟪तद् । एतद् । इदम्⟫
+*   7.13. Pronume relative: ⟪यद्⟫
+*   7.14. Pronume interogative: ⟪किम्⟫
 
-## [Lecție 28](lektion28)
+## [Lecția 28](lektion28)
 
-*   28\.1. Cauzalul (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   28\.2. Construcția propoziției cu causativul (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   28\.3. Formarea rădăcinii prezente la cauzativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   28\.4. Formarea pasivului (⟪यक्⟫) la cauzativ
-*   28\.5. Formarea viitorului (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) la cauzativ
-*   28\.6. Formarea PPP (⟪क्त⟫) la Causativ
-*   28\.7. Formarea abstractivei (⟪क्त्वा⟫ . ⟪ल्यप्⟫) la cauzativ
-*   28\.8. Formarea infinitivului (⟪तुमुन्⟫) la cauzativ
-*   28\.9. A zecea clasă de prezent (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
-*   28\.10. Listă de cuvinte
-*   28\.11. Exercițiu
+*   1\. Cauzativul (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   2\. Construcția propozițională cu cauzativul (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   3\. Formarea temei de prezent pentru cauzativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   4\. Formarea pasivului (⟪यक्⟫) pentru cauzativ
+*   5\. Formarea viitorului (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) pentru cauzativ
+*   6\. Formarea PPP (⟪क्त⟫) pentru cauzativ
+*   7\. Formarea ablativului (⟪क्त्वा । ल्यप्⟫) pentru cauzativ
+*   8\. Formarea infinitivului (⟪तुमुन्⟫) pentru cauzativ
+*   9\. A zecea clasă de prezent (⟪चुरादि⟫ = ⟪चुर्⟫ și așa mai departe)
+*   10\. Listă de cuvinte
+*   11\. Exerciții
 
-## [Lecție 29](lektion29)
+## [Lecția 29](lektion29)
 
-*   29\.1. Utilizarea Parasmaipada (⟪परस्मैपद⟫) și Ātmanepada (⟪आत्मनेपद⟫) în Causativ
-*   29\.2. Listă de cuvinte
-*   29\.3. Exercițiu de traducere pentru recapitulare
-*   29\.4. Viitorul și cauzativul pentru rădăcinile învățate până acum
+*   1\. Utilizarea Parasmaipada și Ātmanepada în Kausativum
+*   2\. Listă de cuvinte
+*   3\. Exercițiu de traducere pentru recapitulare
+*   4\. Viitor și Kausativ pentru rădăcinile învățate până acum
 
-## [Lecție 30](lektion30)
+## [Lecția 30](lektion30)
 
-*   30\.1. Clasa a 9-a de prezintă (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")
-*   30\.2. Utilizarea optativului (⟪लिङ्⟫)
-*   30\.3. Desinențe secundare ale persoanei a III-a singular și plural
-*   30\.4. Formarea Optativului la Prezent (⟪लिङ्⟫)
-    *   30\.4.1. Clase tematice de prezent
-    *   30\.4.2. Clase de prezent atematic
-*   30\.5. Sandhi al sunetelor finale -r
-*   30\.6. Listă de cuvinte
-*   30\.7. Exercițiu
-*   30\.8. Exercițiu de repetiție privind morfologia
+*   1\. A noua clasă de prezent (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")
+*   2\. Utilizarea Optativului (⟪लिङ्⟫)
+*   3\. Terminații secundare pentru persoana a III-a singular și plural
+*   4\. Formarea Optativului de prezent (⟪लिङ्⟫)
+*   4.1. Clase tematice de prezent
+*   4.2. Clase atematice de prezent
+*   5\. Sandhi pentru -r final
+*   6\. Listă de cuvinte
+*   7\. Exercițiu
+*   8\. Exercițiu de recapitulare pentru morfologie
 
-## [Lecție 31](lektion31)
+## [Lecția 31](lektion31)
 
-*   31\.1. Cea de-a 7-a clasă de prezent (⟪रुधादि⟫ = "⟪रुध्⟫ etc.")
-*   31\.2. Listă de cuvinte
-*   31\.3. Exercițiu
+*   1\. A șaptea clasă de prezent (⟪रुधादि⟫ = "⟪रुध्⟫ etc.")
+*   2\. Listă de cuvinte
+*   3\. Exercițiu
 
-## [Lecție 32](lektion32)
+## [Lecția 32](lektion32)
 
-*   32\.1. Timpurile trecutului
-*   32\.2. Imperfectul (⟪लङ्⟫)
-*   32\.3. Reguli pentru augment
-*   32\.4. Exemple de formare a imperfectului
-    *   32\.4.1. Clase tematice de prezent
-    *   32\.4.2. Clase de prezent atematice
-*   32\.5. Listă de cuvinte
-*   32\.6. Exerciții
-*   32\.7. Exercițiu de recapitulare pentru vacanțele de Crăciun
-*   32\.8. Exercițiu de recapitulare
-*   32\.9. Exercițiu de traducere
+*   1\. Timpurile trecutului
+*   2\. Imperfectul (⟪लङ्⟫)
+*   3\. Reguli pentru Augment
+*   4\. Exemple de formare a Imperfectului pentru fiecare clasă de prezent
+*   4.1. Clase tematice de prezent
+*   4.2. Clase atematice de prezent
+*   5\. Listă de cuvinte
+*   6\. Exercițiu
+*   7\. Exercițiu de recapitulare peste vacanțele de Crăciun
 
-## [Lecție 33](lektion33)
+## [Lecția 33](lektion33)
 
-*   33\.1. Reduplicarea (⟪अभ्यास⟫ m.)
-    *   33\.1.1. Consonantul de reduplicare
-*   33\.2. A treia clasă de prezente (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.")
-    *   33\.2.1. Vocalul de reduplicare al celei de-a treia clase de prezente
-*   33\.3. Despre ablautele lui ā
-*   33\.4. Rădăcini cu sufixul -ā din a treia clasă de prezente
-    *   33\.4.1. Rădăcinile **⟪दा⟫** și **⟪धा⟫**
-*   33\.5. Participiul prezent Parasmaipada al rădăcinilor clasei a 3-a de prezent
-*   33\.6. Listă de cuvinte
-*   33\.7. Exerciții
+*   1\. Reduplicarea (⟪अभ्यास⟫ m.)
+*   1.1. Consoana de reduplicare
+*   2\. A treia clasă de prezent (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.")
+*   2.1. Vocala de reduplicare a celei de-a treia clase de prezent
+*   3\. Despre Ablaut-ul lui ā
+*   4\. Rădăcini în -ā din a treia clasă de prezent
+*   4.1. Rădăcinile ⟪दा⟫ și ⟪धा⟫
+*   5\. Participiul de prezent Parasmaipada al rădăcinilor din a treia clasă de prezent
+*   6\. Listă de cuvinte
+*   7\. Exercițiu
 
-## [Lecție 34](lektion34)
+## [Lecția 34](lektion34)
 
-*   34\.1. Perfectul (⟪लिट्⟫)
-*   34\.2. Perfectul cu reduplicare (⟪द्वित्वलिट्⟫)
-    *   34\.2.1. Gradarea rădăcinii
-    *   34\.2.2. Formele perfectului
-    *   34\.2.3. Voca de legătură -i-
-    *   34\.2.4. Reduplicarea rădăcinilor care încep cu consoană
-    *   34\.2.5. Reduplicarea rădăcinilor care încep cu vocală
-*   34\.3. Tipuri ale perfectului cu reduplicare
-*   34\.4. Tipul I al Perfectului: Perfect fără reducere a temei
-*   34\.5. Tipul II al Perfectului: Rădăcină puternică la treapta superioară, rădăcină slabă la treapta inferioară
-*   34\.6. Listă de cuvinte
-*   34\.7. Exercițiu
-*   34\.8. Exercițiu de traducere
+*   1\. Perfectul (⟪लिट्⟫)
+*   2\. Perfectul reduplicat (⟪द्वित्वलिट्⟫)
+*   2.1. Gradarea tematică
+*   2.2. Desinențele perfectului
+*   2.3. Vocala de legătură -i-
+*   2.4. Reduplicarea rădăcinilor care încep cu consoană
+*   2.5. Reduplicarea rădăcinilor care încep cu vocală
+*   3\. Tipuri de perfect reduplicat
+*   4\. Perfect Tipul I: Perfect fără gradare tematică
+*   5\. Perfectul II: tema puternică în grad ridicat, tema slabă în grad scăzut
+*   6\. Listă de cuvinte
+*   7\. Exerciții
+*   8\. Exercițiu de traducere
 
-## [Lecție 35](lektion35)
+## [Lecția 35](lektion35)
 
-*   35\.1. Perfect Tip III: Rădăcină puternică, nivel înalt/nivel alungit
-    *   35\.1.1. Perfect Tipul IIIa: Rădăcină puternică, nivel ridicat/îndreptat, rădăcină slabă, nivel scăzut
-    *   35\.1.2. Perfect Tipul IIIb: Rădăcină puternică la nivelul înalt/lungit, rădăcină slabă la nivelul înalt
-*   35\.2. Tipul IV al Perfectului: Rădăcini cu -ā / -āi
-*   35\.3. Tipul V al Perfectului: Rădăcini cu modelul Consonant-a-Consonant
-    *   35\.3.1. Tipul Perfect: rădăcină slabă, gradul profund
-    *   35\.3.2. Tipul Perfect Vb: rădăcină slabă, contractie (tipul e)
-    *   35\.3.3. Tipul Vc al Perfectului: Rădăcini Consonant-a-Consonant. Tăria slabă, gradul ridicat
-*   35\.4. Listă de cuvinte
-*   35\.5. Exercițiu
+*   1\. Perfectul Tipul III: Tema puternică în grad ridicat/grad lung
+*   1.1. Perfectul Tipul IIIa: Tema puternică în grad ridicat/grad lung, tema slabă în grad scăzut
+*   1.2. Perfectul Tipul IIIb: Tema puternică în grad ridicat/grad lung, tema slabă în grad ridicat
+*   2\. Perfectul Tipul IV: Rădăcini în -ā / -ai
+*   3\. Perfectul Tipul V: Rădăcini Consoană-a-Consoană
+*   3.1. Perfectul Tipul Va: tema slabă în grad scăzut
+*   3.2. Perfectul Tipul Vb: Rădăcini Consoană-a-Consoană, consoana inițială nu este guturală, aspirată sau h. Tema slabă fără reduplicare, cu -e-
+*   3.3. Perfectul Tipul Vc: Rădăcini Consoană-a-Consoană. Tema slabă în grad ridicat
+*   4\. Listă de cuvinte
+*   5\. Exerciții
 
-## [Lecție 36](lektion36)
+## [Lecția 36](lektion36)
 
-*   36\.1. Formări speciale ale perfectului
-*   36\.2. Perfektul perifrastic (⟪अनुप्रयोगलिट्⟫)
-*   36\.3. Perfect Pasiv
-*   36\.4. Listă de cuvinte
-*   36\.5. Exercițiu
-*   36\.6. Perfectul (⟪लिट्⟫) pentru rădăcinile învățate până acum
-*   36\.7. Exercițiu de traducere
-*   36\.8. Exercițiu de repetiție privind morfologia
+*   1\. Formări speciale ale perfectului
+*   2\. Perfectul periphrastic (⟪अनुप्रयोगलिट्⟫)
+*   3\. Perfectul pasiv
+*   4\. Listă de cuvinte
+*   5\. Exerciții
+*   6\. Perfectul (⟪लिट्⟫) pentru rădăcinile învățate până acum
+*   7\. Exercițiu de traducere
+*   8\. Exerciții de recapitulare pentru morfologie
 
 ## [Lecție 37](lektion37)
 
-*   37\.1. Adverbulul (⟪क्रियाविशेषणम्⟫)
-*   37\.2. Utilizarea adverbială a formelor cazuale
-    *   37\.2.1. Acuzativul (⟪द्वितीया⟫)
-    *   37\.2.2. Instrumentalul (⟪तृतीया⟫)
-    *   37\.2.3. Dativul (⟪चतुर्थी⟫)
-    *   37\.2.4. Ablativul (⟪पञ्चमी⟫)
-    *   37\.2.5. Genitivul (⟪षष्ठी⟫)
-    *   37\.2.6. Locativul (⟪सप्तमी⟫)
-*   37\.3. Utilizare adverbială a formelor de caz care nu mai sunt uzuale
-*   37\.4. Formarea adverbelor cu sufixe adverbiale
-*   37\.5. Compozite adverbiale
-    *   37\.5.1. Compozite cu un adverb sau un caz cu funcție adverbială ca element posterior
-    *   37\.5.2. Utilizare adverbială a ⟪बहुव्रीहि⟫
-    *   37\.5.3. Compozite ⟪अव्ययीभाव⟫
-*   37\.6. Sintactic
-*   37\.7. Pronume nehotărâte
-*   37\.8. Propoziția interogativă
-    *   37\.8.1. Întrebări despre cuvinte (întrebări de completare)
-    *   37\.8.2. Întrebări de propoziție
-*   37\.9. Listă de cuvinte
-*   37\.10. Exerciții
-*   37\.11. Exercițiu de recapitulare
+*   1\. Adverbul (⟪क्रियाविशेषनम्⟫)
+*   2\. Utilizarea adverbială a formelor cazuale
+*   2.1. Acuzativul (⟪द्वितीया⟫)
+*   2.2. Instrumentalul (⟪तृतीया⟫)
+*   2.3. Dativul (⟪चतुर्थी⟫)
+*   2.4. Ablativul (⟪पञ्चमी⟫)
+*   2.5. Genitivul (⟪षष्ठी⟫)
+*   2.6. Locativul (⟪सप्तमी⟫)
+*   3\. Utilizarea adverbială a formelor cazuale care nu mai sunt în uz
+*   4\. Formarea adverbelor cu sufixe adverbiale
+*   5\. Compuse adverbiale
+*   5.1. Compuse cu un adverb sau o formă cauzală folosită adverbial ca element posterior
+*   5.2. ⟪बहुव्रीहि⟫ folosite adverbial
+*   5.3. Compuse de tipul ⟪अव्ययीभाव⟫
+*   6\. Aspecte sintactice
+*   7\. Pronumele nehotărâte
+*   8\. Propoziția interogativă
+*   8.1. Întrebări cu cuvinte (întrebări de completare)
+*   8.2. Întrebări cu propoziția
+*   9\. Listă de cuvinte
+*   10\. Exerciții
+*   11\. Exerciții de repetiție
 
 ## [Lecție 38](lektion38)
 
-*   38\.1. Soluția săptămânii
-*   38\.2. Schimbarea fonetică a nazalelor în cuvânt
-*   38\.3. Declinarea stemelor în -n
-    *   38\.3.1. Nume substantive pe -an, precum și nume substantive pe -man, respectiv -van, după vocală
-    *   38\.3.2. Nume substantive pe -man respectiv -van după consoană
-    *   38\.3.3. Masculine și Neutru pe -in, -min, -vin
-*   38\.4. Formarea substantivelor: sufixul ⟪तद्धित⟫ -in
-*   38\.5. Aspecte sintactice privind ⟪नामन्⟫
-*   38\.6. Aspecte sintactice despre ⟪आत्मन्⟫
-*   38\.7. Steme consonantice finale ca elemente compuse anterioare
-*   38\.8. Temele pe -an ca element posterior al unui ⟪बहुव्रीहि⟫
-*   38\.9. Listă de cuvinte
-*   38\.10. Exercițiu
-*   38\.11. Listă de cuvinte pentru exercițiul de traducere
-*   38\.12. Exercițiu de traducere
+*   1\. Rezolvarea săptămânii
+*   2\. Schimbarea fonetică a nazalelor în cuvânt
+*   3\. Declinarea rădăcinilor în -n
+*   3.1. Substantivele în -an, precum și substantivul -man respectiv -van după vocală
+*   3.2. Substantivele în -man respectiv -van după consoană
+*   3.3. Masculinele și neutrele în -in, -min, -vin
+*   4\. Cu privire la formarea nominală: sufixul -in al ⟪तद्धित⟫
+*   5\. Aspecte sintactice legate de ⟪नामन्⟫
+*   6\. Aspecte sintactice legate de ⟪आत्मन्⟫
+*   7\. Rădăcinile care se termină în consoană ca elemente anterioare ale compuselor
+*   8\. Rădăcinile în -an ca element posterior al unui ⟪बहुव्रीहि⟫
+*   9\. Listă de cuvinte
+*   10\. Exerciții
+*   11\. Listă de cuvinte pentru exercițiul de traducere
+*   12\. Exercițiu de traducere
 
 ## [Lecție 39](lektion39)
 
-*   39\.1. Desinențele persoanei primei persoane (**⟪तृतीयः⟫** ⟪पुरुषः⟫ = "**a treia** persoană")
-*   39\.2. Formarea formelor verbale ale primei persoane, teme de prezent tematic
-    *   39\.2.1. Prima clasă de prezent (⟪भ्वादि⟫)
-    *   39\.2.2. A șasea clasă de prezente (⟪तुदादि⟫)
-    *   39\.2.3. A patra clasă de prezent (⟪दिवादि⟫)
-    *   39\.2.4. A zecea clasă de prezent (⟪चुरादि⟫) și cauzative (⟪णिजन्त⟫)
-    *   39\.2.5. Pasivul (Sufixul ⟪यक्⟫)
-*   39\.3. Formarea formelor verbale pentru persoana I a viitorului simplu - ⟪ऌत्⟫
-    *   39\.3.1. Formarea ⟪अनिट्⟫
-    *   39\.3.2. Formarea ⟪सेट्⟫
-*   39\.4. Formarea formelor verbale ale primei persoane a temelor de prezent atematic
-    *   39\.4.1. A doua clasă de prezent (⟪अदादि⟫)
-    *   39\.4.2. A treia clasă de prezent (⟪जुहोत्यादि⟫)
-    *   39\.4.3. A cincea clasă de prezente (⟪स्वादि⟫)
-    *   39\.4.4. A opta clasă de prezent (⟪तनादि⟫)
-    *   39\.4.5. A șaptea clasă de prezent (⟪रुधादि⟫)
-    *   39\.4.6. A noua clasă de prezent (⟪क्र्यादि⟫)
-*   39\.5. Exercițiu
+*   1\. Terminațiile personale ale persoanei I (⟪तृतीयः पुरुषः⟫ = „a treia persoană”)
+*   2\. Formarea formelor verbale ale persoanei I pentru rădăcinile prezente tematice
+*   2.1. Prima clasă de prezent (⟪भ्वादि⟫)
+*   2.2. A șasea clasă de prezent (⟪तुदादि⟫)
+*   2.3. A patra clasă de prezent (⟪दिवादि⟫)
+*   2.4. A zecea clasă de prezent (⟪चुरादि⟫) și causativele (⟪णिजन्त⟫)
+*   2.5. Pasivul (sufixul ⟪यक्⟫)
+*   3\. Formarea formelor verbale ale persoanei I pentru viitorul simplu (⟪ऌत्⟫)
+*   3.1. Formarea ⟪अनिट्⟫
+*   3.2. Formarea ⟪सेट्⟫
+*   4\. Formarea formelor verbale ale persoanei I pentru rădăcinile prezente atematice
+*   4.1. A doua clasă de prezent (⟪अदादि⟫)
+*   4.2. A treia clasă de prezent (⟪जुहोत्यादि⟫)
+*   4.3. A cincea clasă de prezent (⟪स्वादि⟫)
+*   4.4. A opta clasă de prezent (⟪तनादि⟫)
+*   4.5. A șaptea clasă de prezent (⟪रुधादि⟫)
+*   4.6. A noua clasă de prezent (⟪क्र्यादि⟫)
+*   5\. Exerciții
 
-## [Lecție 40](lektion40)
+## [Lecția 40](lektion40)
 
-*   40\.1. ⟪सुभाषितानि⟫
-*   40\.2. Formarea formelor verbale ale persoanei I Perfect (⟪लिट्⟫)
-    *   40\.2.1. Tipul Perfectului I: fără alternanța de stemă
-    *   40\.2.2. Tipul Perfectului II: rădăcină puternică la treapta superioară, rădăcină slabă la treapta inferioară
-    *   40\.2.3. Tipul III al Perfectului: Rădăcină puternică, nivel înalt/îndelungat
-    *   40\.2.4. Tipul IV de Perfect: Rădăcini cu -ā / -ai
-    *   40\.2.5. Tipul Perfectului V: Consonant-a-Consonant
-    *   40\.2.6. Formări speciale ale Perfectului
-*   40\.3. Formarea formelor verbale a primei persoane a perfectului perifrastic (⟪अनुप्रयोगलिट्⟫)
-*   40\.4. Aspecte sintactice privind prima persoană (⟪तृतीयः⟫)
-*   40\.5. Pronume personale (⟪पुरुषार्थकसर्वनाम⟫) ale persoanei I, singular și plural
-*   40\.6. Listă de cuvinte
-*   40\.7. Exercițiu
-*   40\.8. Exercițiu de repetiție despre morfologie
+*   1\. ⟪सुभाषितानि⟫
+*   2\. Formarea formelor verbale ale persoanei I pentru perfect (⟪लिट्⟫)
+*   2.1. Tipul I de perfect: fără gradarea rădăcinii
+*   2.2. Tipul II de perfect: gradul puternic al rădăcinii în formă intensă, gradul slab în formă redusă
+*   2.3. Tipul III de perfect: gradul puternic al rădăcinii în formă intensă/lungită
+*   2.3.1. Tipul IIIa de perfect: gradul puternic al rădăcinii în formă intensă/lungită, gradul slab în formă redusă
+*   2.3.2. Tipul IIIb de perfect: gradul puternic al rădăcinii în formă intensă/lungită, gradul slab în formă intensă
+*   2.4. Tipul IV de perfect: rădăcini în -ā / -ai
+*   2.5. Tipul V de perfect: Consonant-a-Consonant
+*   2.5.1. Tipul Va de perfect: Consonant-a-Consonant, gradul slab în formă redusă
+*   2.5.2. Tipul Vb de perfect: Consonant-a-Consonant, consonanta inițială nu este guturală, aspirată sau h, gradul slab fără reduplicare, cu -e-
+*   2.5.3. Tipul Vc de perfect: Consonant-a-Consonant, gradul slab în formă intensă
+*   2.6. Formări speciale de perfect
+*   3\. Formarea formelor verbale ale persoanei I pentru perfectul periphrastic (⟪अनुप्रयोगलिट्⟫)
+*   4\. Aspecte sintactice ale persoanei I (⟪तृतीयः⟫)
+*   5\. Pronume personale (⟪पुरुषार्थकसर्वनाम⟫) ale persoanei I la singular și plural
+*   6\. Listă de cuvinte
+*   7\. Exerciții
+*   8\. Exercițiu de recapitulare pentru morfologie
 
-## [Lecție 41](lektion41)
+## [Lecția 41](lektion41)
 
-*   41\.1. ⟪सुभाषिते⟫  (două proverbe)
-*   41\.2. Alte forme de ⟪कृत्⟫ cu sufixul -a
-    *   41\.2.1. Participul prezent (⟪लडादेशः⟫) Ā, Participul prezent (⟪लडादेशः⟫) pasiv, Participul viitor (⟪ऌडादेशः⟫) Ā
-    *   41\.2.2. „Participiul“ al necesității pasive (Gerundivum) (⟪कृत्य⟫)
-    *   41\.2.3. Aspecte sintactice despre „participiul” necesității pasive (Gerundivum) (⟪कृत्य⟫)
-    *   41\.2.4. Diferențe în utilizarea sufixelor gerundivale
-    *   41\.2.5. Nicio legătură cu ⟪सु⟫- și ⟪दुस्⟫-
-*   41\.3. Listă de cuvinte
-*   41\.4. Exerciții
+*   1\. ⟪सुभाषिते⟫  (două proverbe)
+*   2\. Alte formațiuni ⟪कृत्⟫ pe -a
+*   2.1. Participiul prezent (⟪लडादेशः⟫) Ā, participiul prezent pasiv (⟪लडादेशः⟫), participiul viitor (⟪ऌडादेशः⟫) Ā
+*   2.1.1. Teme de prezent tematic, pasiv și viitor
+*   2.1.2. Clase de prezent atematic
+*   2.2. „Participiul” necesității pasive (gerundivum) (⟪कृत्य⟫)
+*   2.2.1. Suffixul -⟪तव्य⟫ / -⟪तव्या⟫
+*   2.2.2. Suffixul -⟪अनीय⟫ / -⟪अनीया⟫
+*   2.2.3. Suffixul -⟪य⟫ / -⟪या⟫
+*   2.2.4. Suffixul -⟪त्य⟫ / ⟪त्या⟫ (în loc de -⟪य⟫ / -⟪या⟫)
+*   2.3. Aspecte sintactice ale „participiului” necesității pasive (gerundivum) (⟪कृत्य⟫)
+*   2.4. Diferențe în utilizarea sufixelor gerundivum
+*   2.5. Nicio legătură cu ⟪सु⟫- și ⟪दुस्⟫-
+*   3\. Listă de cuvinte
+*   4\. Exerciții
 
-## [Lecție 42](lektion42)
+## [Lecția 42](lektion42)
 
-*   42\.1. Tulpile pe -ṛ
-    *   42\.1.1. Treci cu grad lung în tema puternică
-    *   42\.1.2. Formarea substantivelor: sufixul ⟪कृत्⟫ -⟪तृ⟫
-    *   42\.1.3. Treci cu grad ridicat în rădăcina puternică
-    *   42\.1.4. Tulpuri pe -ṛ în compuse
-*   42\.2. Listă de cuvinte
-    *   42\.2.1. Unele denumiri de rudenie
-*   42\.3. Exercițiu
-*   42\.4. Exercițiu de traducere
+*   1\. Teme pe -ṛ
+*   1.1. Teme cu gradul lung în tema puternică
+*   1.2. Formațiune nominală: sufixul ⟪कृत्⟫ -⟪तृ⟫
+*   1.3. Teme cu gradul întreg în tema puternică
+*   1.4. Teme pe -ṛ în compuse
+*   2\. Listă de cuvinte
+*   2.1. Unele termeni de rudenie
+*   3\. Exerciții
+*   4\. Exercițiu de traducere
 
-## [Lecție 43](lektion43)
+## [Lecția 43](lektion43)
 
-*   43\.1. Terminări personale ale celei de-a 2-a persoane (⟪मध्यमः⟫ = "persoana a treia \<mijlocie\>")
-*   43\.2. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫)
-    *   43\.2.1.1. Teme tematice
-*   43\.3. Pronumele personal de a doua persoană
-*   43\.4. Listă de cuvinte
-*   43\.5. Exerciții
-*   43\.6. ⟪संवादः⟫ = Discuție
+*   1\. Terminații personale ale persoanei a II-a (⟪मध्यमः⟫ = „persoana a II-a”)
+*   2\. Formarea formelor verbale ale persoanei a II-a (⟪मध्यमः⟫)
+*   2.1. Teme tematice
+*   2.1.1. Prima clasă de prezent (⟪भ्वादि⟫)
+*   2.1.2. A șasea clasă de prezent (⟪तुदादि⟫)
+*   2.1.3. A patra clasă de prezent (⟪दिवादि⟫)
+*   2.1.4. A zecea clasă de prezent (⟪चुरादि⟫) și causative
+*   2.1.5. Pasiv
+*   2.1.6. Viitor (⟪ऌट्⟫)
+*   2.1.6.1. Formațiuni ⟪अनिट्⟫
+*   2.1.6.2. Formațiuni ⟪सेट्⟫
+*   3\. Pronumele personal al persoanei a II-a
+*   4\. Listă de cuvinte
+*   5\. Exerciții
+*   6\. ⟪संवादः⟫ = conversație
 
-## [Lecție 44](lektion44)
+## [Lecția 44](lektion44)
 
-*   44\.1. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) ale rădăcinilor neatomice cu sufix cu final vocalică
-    *   44\.1.1. Cincia clasă de prezenț (⟪स्वादि⟫)
-    *   44\.1.2. A opta clasă de prezent (⟪तनादि⟫)
-    *   44\.1.3. A noua clasă de prezent (⟪क्र्यादि⟫)
-*   44\.2. Despre Wortsandhi
-    *   44\.2.1. Despre sandhi-ul de cuvinte pentru dh-
-    *   44\.2.2. Despre sandhi-ul de cuvinte pentru s-
-*   44\.3. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) a rădăcinilor neatomice, fără sufix cu finală vocalică
-    *   44\.3.1. A doua clasă de prezent (⟪अदादि⟫)
-*   44\.4. Vocativul (⟪आमन्त्रितम्⟫)
-*   44\.5. Listă de cuvinte
-*   44\.6. Exercițiu
-*   44\.7. Exercițiu de repetiție despre morfologie
+*   1. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) ale rădăcinilor atematice cu sufix care se termină în vocală
+*   1.1. Clasa a cincea de prezent (⟪स्वादि⟫)
+*   1.2. Clasa a opta de prezent (⟪तनादि⟫)
+*   1.3. Clasa a noua de prezent (⟪क्र्यादि⟫)
+*   2. Despre sandhi-ul cuvintelor
+*   2.1. Sandhi-ul cuvintelor pentru dh-
+*   2.2. Sandhi-ul cuvintelor pentru s-
+*   3. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) ale rădăcinilor atematice fără sufix care se termină în vocală
+*   3.1. Clasa a doua de prezent (⟪अदादि⟫)
+*   4. Vocativul (⟪आमन्त्रितम्⟫)
+*   5. Listă de cuvinte
+*   6. Exerciții
+*   7. Exercițiu de repetare pentru morfologie
 
-## [Lecție 45](lektion45)
+## [Lecția 45](lektion45)
 
-*   45\.1. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) a rădăcinilor neatomice fără sufix cu final vocalic (continuare)
-    *   45\.1.1. A treia clasă de prezente (⟪जुहोत्यादि⟫)
-    *   45\.1.2. A șaptea clasă de prezintă (⟪रुधादि⟫)
-*   45\.2. Vocativul singular (⟪आमन्त्रितमेकवचने⟫)
-*   45\.3. Listă de cuvinte
-*   45\.4. Exercitiu
+*   1. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) ale rădăcinilor atematice fără sufix care se termină în vocală (continuare)
+*   1.1. Clasa a treia de prezent (⟪जुहोत्यादि⟫)
+*   1.2. Clasa a șaptea de prezent (⟪रुधादि⟫)
+*   2. Vocativul singular (⟪आमन्त्रितमेकवचने⟫)
+*   3. Listă de cuvinte
+*   4. Exerciții
 
-## [Lecție 46](lektion46)
+## [Lecția 46](lektion46)
 
-*   46\.1. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) Perfect (⟪लिट्⟫)
-    *   46\.1.1. Desinențe
-    *   46\.1.2. Modificarea fonetică a sufixului -dhve
-    *   46\.1.3. Tipul Perfect: fără inflexiune de stemă
-    *   46\.1.4. Tipul Perfectului II: rădăcină puternică la nivel înalt, rădăcină slabă la nivel scăzut
-    *   46\.1.5. Tipul III al Perfectului: Rădăcină puternică, nivel înalt/lungit
-    *   46\.1.6. Tipul IV al Perfectului: Rădăcini cu -ā / -ai
-    *   46\.1.7. Tipul Perfect V: Consonant-a-Consonant
-    *   46\.1.8. Formări speciale ale Perfectului
-    *   46\.1.9. Perfecitul perifrastic (⟪अनुप्रयोगलिट्⟫)
-*   46\.2. Listă de cuvinte
-*   46\.3. Exercitiu
+*   1. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) Perfectul (⟪लिट्⟫)
+*   1.1. Desinențe
+*   1.2. Modificarea fonetică a desinenței -dhve
+*   1.3. Tipul Perfect I: fără gradare a rădăcinii
+*   1.4. Tipul Perfect II: rădăcina puternică în gradul ridicat, rădăcina slabă în gradul scăzut
+*   1.5. Tipul Perfect III: Rădăcina puternică în gradul ridicat/gradul lung
+*   1.5.1. Tipul Perfect IIIa: Rădăcina puternică în gradul ridicat/gradul lung, rădăcina slabă în gradul scăzut
+*   1.5.2. Tipul Perfect IIIb: Rădăcina puternică în gradul ridicat/gradul lung, rădăcina slabă în gradul ridicat
+*   1.6. Tipul Perfect IV: Rădăcini în -ā / -ai
+*   1.7. Tipul Perfect V: Consoană-a-Consoană
+*   1.7.1. Tipul Perfect Va: Consoană-a-Consoană, rădăcina slabă în gradul scăzut
+*   1.7.2. Tipul Perfect Vb: Consoană-a-Consoană, consoana inițială nu este guturală, aspirată sau h, rădăcina slabă fără reduplicare, cu -e-
+*   1.7.3. Tipul Perfect Vc: Consoană-a-Consoană, rădăcina slabă în gradul ridicat
+*   1.8. Formări speciale ale Perfectului
+*   1.9. Perfectul periphrastic (⟪अनुप्रयोगलिट्⟫)
+*   2. Listă de cuvinte
+*   3. Exerciții
 
 ## [Lecție 47](lektion47)
 
-*   47\.1. Imperativul (⟪लोट्⟫)
-*   47\.2. Formarea imperativului (⟪लोट्⟫) la rădăcinile tematic de prezent
-    *   47\.2.1. Sufixele imperativului la teme de prezent tematic
-    *   47\.2.2. Prima clasă de prezent (⟪भ्वादि⟫)
-    *   47\.2.3. A șasea clasă de prezens (⟪तुदादि⟫)
-    *   47\.2.4. A patra clasă de prezente (⟪दिवादि⟫)
-    *   47\.2.5. A zecea clasă de prezent (⟪चुरादि⟫) și cauzativele
-    *   47\.2.6. Pasivul
-*   47\.3. Exercițiu
+*   1\. Imperativul (⟪लोट्⟫)
+*   2\. Formarea imperativului (⟪लोट्⟫) la rădăcinile de prezent tematic
+*   2.1. Terminațiile imperativului la rădăcinile de prezent tematic
+*   2.2. Prima clasă de prezent (⟪भ्वादि⟫)
+*   2.3. A șasea clasă de prezent (⟪तुदादि⟫)
+*   2.4. A patra clasă de prezent (⟪दिवादि⟫)
+*   2.5. A zecea clasă de prezent (⟪चुरादि⟫) și causativele
+*   2.6. Pasivul
+*   3\. Exerciții
 
 ## [Lecție 48](lektion48)
 
-*   48\.1. ⟪सुभाषितानि⟫
-*   48\.2. Formarea imperativului (⟪लोट्⟫) la rădăcinile de prezent neatematic
-    *   48\.2.1. Desinențele imperativului la rădăcini de prezent atematic
-    *   48\.2.2. Forma rădăcinii la prezent
-    *   48\.2.3. A doua clasă de prezent (⟪अदादि⟫)
-    *   48\.2.4. A treia clasă de prezintă (⟪जुहोत्यादि⟫)
-*   48\.3. Despre formarea substantivelor: sufixele -a și -ya de tipul ⟪तद्धित⟫
-*   48\.4. Listă de cuvinte
-*   48\.5. Exerciții
-*   48\.6. Exercițiu de traducere
+*   1\. ⟪सुभाषितानि⟫
+*   2\. Formarea imperativului (⟪लोट्⟫) la rădăcinile de prezent atematic
+*   2.1. Terminațiile imperativului la rădăcinile de prezent atematic
+*   2.2. Forma rădăcinii de prezent
+*   2.3. A doua clasă de prezent (⟪अदादि⟫)
+*   2.4. A treia clasă de prezent (⟪जुहोत्यादि⟫)
+*   3\. Referitor la formarea nominală: sufixele -a și -ya ale ⟪तद्धित⟫
+*   4\. Listă de cuvinte
+*   5\. Exerciții
+*   6\. Exercițiu de traducere
 
 ## [Lecție 49](lektion49)
 
-*   49\.1. Formarea imperativului (⟪लोट्⟫) la rădăcinile de prezent atematic (continuare)
-    *   49\.1.1. A șaptea clasă de prezent (⟪रुधादि⟫)
-    *   49\.1.2. A cincea clasă de prezenta (⟪स्वादि⟫)
-    *   49\.1.3. A opta clasă de prezent (⟪तनादि⟫)
-    *   49\.1.4. A noua clasă de prezent (⟪क्र्यादि⟫)
-*   49\.2. Declinarea stemelor nominale în -as, -is, -us
-*   49\.3. Formarea substantivelor: sufixul ⟪कृत्⟫ -as Neutru
-*   49\.4. Listă de cuvinte
-*   49\.5. Exercițiu de repetiție despre morfologie
-*   49\.6. Exercițiu de traducere
+*   1\. Formarea imperativului (⟪लोट्⟫) la rădăcinile de prezent atematic (continuare)
+*   1.1. A șaptea clasă de prezent (⟪रुधादि⟫)
+*   1.2. A cincea clasă de prezent (⟪स्वादि⟫)
+*   1.3. A opta clasă de prezent (⟪तनादि⟫)
+*   1.4. A noua clasă de prezent (⟪क्र्यादि⟫)
+*   2\. Declinarea rădăcinilor nominale în -as, -is, -us
+*   3\. Formarea nominală: sufixul neutru -as al ⟪कृत्⟫
+*   4\. Listă de cuvinte
+*   5\. Exercițiu de recapitulare a morfologiei
+*   6\. Exercițiu de traducere
 
-## [Lecție 50](lektion50)
+## [Lecție 50](lektion47)
 
-*   50\.1. Formarea substantivelor: intensificare regulată
-*   50\.2. Listă de cuvinte
-*   50\.3. Exercițiu de traducere
+*   1\. Formarea nominală: intensificare regulată
+*   2\. Listă de cuvinte
+*   3\. Exercițiu de traducere
 
-## [Lecție 51](lektion51)
+## [Lecție 51](lektion47)
 
-*   51\.1. Compozite ⟪उपपद⟫
-*   51\.2. Declinarea stemelor care se termină într-o consoană simplă (în afară de nazală, semivocală, -s)
-    *   51\.2.1. Trible pe consoane ocluzive nepalatale
-    *   51\.2.2. Tulpuri pe consoane de închidere palatale (c, ch, j), ś, ṣ
-    *   51\.2.3. Teme pe -h
-*   51\.3. Sandhi de h- inițial
-*   51\.4. Sandhi al ch- inițial
-*   51\.5. -ch- în interiorul cuvântului
-*   51\.6. Listă de cuvinte
-*   51\.7. Exercițiu de traducere
+*   1\. Compuse ale ⟪उपपद⟫
+*   2\. Declinarea rădăcinilor care se termină într-o consoanță simplă (cu excepția nazalei, semivocalei și -s)
+*   2.1. Rădăcini care se termină într-un oclusiv nepalatal
+*   2.2. Rădăcini care se termină într-un oclusiv palatal (c, ch, j), ś, ṣ
+*   2.3. Rădăcini care se termină în -h
+*   3\. Sandhi pentru h- inițial
+*   4\. Sandhi pentru ch- inițial
+*   5\. -ch- în interiorul cuvântului
+*   6\. Listă de cuvinte
+*   7\. Exercițiu de traducere
 
 ## [Lecție 52](lektion52)
 
-*   52\.1. Neutrule temelor în -i și -u
-*   52\.2. Formarea substantivelor
-    *   52\.2.1. PPP + -vant: Participiul trecut al Parasmaipada
-    *   52\.2.2. Suffixul ⟪तद्धित⟫ -maya / -mayī
-    *   52\.2.3. Sufixul ⟪तद्धित⟫ -eya
-*   52\.3. Formarea adverbelor: sufixul adverbial -śas
-*   52\.4. Compuse verbale care exprimă că ceva devine sau este făcut ceva ce nu era înainte (⟪अभुततद्भावः⟫)
-    *   52\.4.1. Formări cu cvi
-    *   52\.4.2. Suffixul -sāt
-*   52\.5. Repetiții de cuvinte (⟪द्विरुक्तम्⟫)
-*   52\.6. Numeralul (⟪सम्ख्या⟫ f.)
-    *   52\.6.1. Numere cardinale
-    *   52\.6.2. Numere ordinale
-    *   52\.6.3. Adverbe numerice
-    *   52\.6.4. Adjective numerale
-    *   52\.6.5. Compuse cu numere cardinale în primul component
-*   52\.7. Listă de cuvinte
-*   52\.8. Exercițiu de traducere
-*   52\.9. Sarcini în timpul vacanțelor semestriale
+*   1\. Neutrumul rădăcinilor în -i și -u
+*   2\. Formarea nominală
+*   2.1. PPP + -vant: Participiul trecutului Parasmaipada
+*   2.2. ⟪तद्धित⟫-sufixul -maya / -mayī
+*   2.3. ⟪तद्धित⟫-sufixul -eya
+*   3\. Formarea adverbială: sufixul adverbial -śas
+*   4\. Compusele verbale care exprimă că ceva devine sau este făcut ceea ce nu era înainte (⟪अभुततद्भावः⟫)
+*   4.1. Formări cu cvi-
+*   4.2. Sufixul -sāt
+*   5\. Repetarea cuvintelor (⟪द्विरुक्तम्⟫)
+*   6\. Numeralul (⟪सम्ख्या⟫ f.)
+*   6.1. Numere cardinale
+*   6.1.1. Adjective numerale (pentru 1 până la 19)
+*   6.1.2. Substantive numerale (pentru de la 19 în sus)
+*   6.1.3. Aspecte sintactice ale numerelor cardinale
+*   6.2. Numere ordinale
+*   6.3. Adverbe numerale
+*   6.4. Adjective numerale
+*   6.5. Compuse cu numere cardinale în primul element
+*   7\. Listă de cuvinte
+*   8\. Exercițiu de traducere
+*   9\. Sarcini în timpul vacanțelor de semestru
 
-## [Lecție 53](lektion53)
+## [Lecție 53](lektion53)  (Vacanțe de semestru)
 
-*   53\.1. Dualul (⟪द्विवचन⟫ n.) substantivelor
-*   53\.2. Terminări de dual pentru substantive
-*   53\.3. Dualul stemelor care se termină cu consoană
-    *   53\.3.1. Triburi fără ierarhie tribală
-    *   53\.3.2. Treci cu stratificare tribală
-*   53\.4. Dualul stemelor vocale care se termină
-*   53\.5. Dualdvandva
-*   53\.6. Dualul pronumelor
-*   53\.7. Adjective pronominale
-*   53\.8. Forme neregulate de comparație
-*   53\.9. Declinarea comparativelor în -īyas
-*   53\.10. Metrică (învățământ despre măsurile versurilor)
-    *   53\.10.1. Semnificația stabilirii metricii
-    *   53\.10.2. Tipuri de metre
-    *   53\.10.3. Cantitatea metrică a silabelor
-    *   53\.10.4. El śloka epic (⟪श्लोक⟫ m.)
-*   53\.11. Exercițiu
+*   1\. Dualul (⟪द्विवचन⟫ n.) substantivelor
+*   2\. Terminațiile de dual ale substantivului
+*   3\. Dualul rădăcinilor care se termină în consoană
+*   3.1. Rădăcini fără alternanță vocalică
+*   3.2. Rădăcini cu alternanță vocalică
+*   4\. Dualul rădăcinilor care se termină în vocală
+*   5\. Dualdvandva
+*   6\. Dualul pronumelor
+*   7\. Adjective pronominalе
+*   8\. Comparare neregulată
+*   9\. Declinarea comparativelor în -īyas
+*   10\. Metrică (teoria măsurilor versurilor)
+*   10.1. Semnificația determinării metricii
+*   10.2. Tipuri de metre
+*   10.3. Cantitatea metrică a silabelor
+*   10.4. Śloka epic (⟪श्लोक⟫ m.)
+*   11\. Exercițiu
 
-## [Lecție 54](lektion54)
+## [Lecția 54](lektion54)
 
-*   54\.1. Notă preliminară
-*   54\.2. Formarea cuvintelor: sufixul -u al temelor desiderative ⟪कृत्⟫
-*   54\.3. Metrika II: epica ⟪त्रिष्टुभ्⟫ și ⟪जगती⟫
-*   54\.4. Exercițiu de metrică
-*   54\.5. Tipuri de formare a aoristului (⟪लुङ्⟫)
-*   54\.6. Aoristul radical
-    *   54\.6.1. Aoristul la persoana a III-a singular, vocea pasivă
-*   54\.7. Exercițiu
+*   1\. Notă preliminară
+*   2\. Formarea cuvintelor: sufixul ⟪कृत्⟫-u la rădăcinile desiderativ
+*   3\. Metrica II: epicul ⟪त्रिष्टुभ्⟫ și ⟪जगती⟫
+*   4\. Exercițiu de metrică
+*   5\. Tipuri de formare a Aoristului (⟪लुङ्⟫)
+*   6\. Aoristul de rădăcină
+*   6.1. Aoristul de la persoana a III-a singular pasiv
+*   7\. Exercițiu
 
-## [Lecție 55](lektion55)
+## [Lecția 55](lektion55)
 
-*   55\.1. Aoristul cu tema vocală a (Aoristul cu vocala de temă)
-*   55\.2. Exercițiu
+*   1\. Aoristul în a- (Aorist cu vocală tematică)
+*   2\. Exercițiu
 
-## [Lecție 56](lektion56)
+## [Lecția 56](lektion56)
 
-*   56\.1. Aoristul reduplicat
-    *   56\.1.1. Formarea aoristului cauzativelor și a rădăcinilor clasei de prezenț a 10-a
-*   56\.2. Injunctivul
-*   56\.3. Propoziția de interdicție
-*   56\.4. ⟪स्म⟫
-*   56\.5. Exerciții
+*   1\. Aoristul reduplicat
+*   1.1. Formarea Aoristului pentru Cauzative și rădăcinile clasei a X-a de prezent
+*   2\. Injunctivul
+*   3\. Propoziția interzicătoare
+*   4\. ⟪स्म⟫
+*   5\. Exercițiu
 
-## [Lecție 57](lektion57)
+## [Lecția 57](lektion57)
 
-*   57\.1. Aorist 4: s-Aorist
-*   57\.2. Exercițiu
+*   1\. Aoristul 4: s-Aorist
+*   2\. Exercițiu
 
-## [Lecție 58](lektion58)
+## [Lecția 58](lektion58)
 
-*   58\.1. Desinențele primare ale dualului (⟪द्विवचनम्⟫)
-*   58\.2. Dualul claselor de prezent tematic: Indicativ prezent (⟪लट्⟫)
-    *   58\.2.1. Prima clasă de prezent (⟪भ्वादिगणः⟫)
-    *   58\.2.2. A patra clasă de prezente (⟪दिवादिगणः⟫)
-    *   58\.2.3. A șasea clasă de prezent (⟪तुदादिगणः⟫)
-    *   58\.2.4. A zecea clasă de prezent (⟪चुरादिगणः⟫) și cauzative (⟪णिजन्त⟫)
-*   58\.3. Dualul viitorului simplu (⟪ऌत्⟫)
-    *   58\.3.1. ⟪अनिट्⟫
-    *   58\.3.2. ⟪सेट्⟫
-*   58\.4. Dualul pasiv (Sufixul -⟪यक्⟫)
-*   58\.5. Dualul claselor de prezent atematic: Indicativ prezent (⟪लट्⟫)
-    *   58\.5.1. A doua clasă de prezent (⟪अदादिगणः⟫)
-    *   58\.5.2. A treia clasă de prezent (⟪जुहोत्यादिगणः⟫)
-    *   58\.5.3. Cincia a cincea clasă de prezens (⟪स्वादिगणः⟫)
-    *   58\.5.4. A optulea clasă de prezente (⟪तनादिगणः⟫)
-    *   58\.5.5. A șaptea clasă de prezent (⟪रुधादिगणः⟫)
-    *   58\.5.6. A noua clasă de prezent (⟪क्र्यादिगणः⟫)
-*   58\.6. Aorist 5: iṣ-Aorist
-*   58\.7. Exerciții
+*   1\. Desinențele primare ale Dualului (⟪द्विवचनम्⟫)
+*   2\. Dualul claselor tematice de prezent: Indicativ Prezent (⟪लट्⟫)
+*   2.1. Clasa I de prezent (⟪भ्वादिगणः⟫)
+*   2.2. Clasa a IV-a de prezent (⟪दिवादिगणः⟫)
+*   2.3. Clasa a VI-a de prezent (⟪तुदादिगणः⟫)
+*   2.4. Clasa a X-a de prezent (⟪चुरादिगणः⟫) și Cauzativele (⟪णिजन्त⟫)
+*   3\. Dualul viitorului simplu (⟪ऌत्⟫)
+*   3.1. ⟪अनिट्⟫
+*   3.2. ⟪सेट्⟫
+*   4\. Dualul pasiv (sufixul -⟪यक्⟫)
+*   5\. Dualul claselor atematice de prezent: Indicativ Prezent (⟪लट्⟫)
+*   5.1. Clasa a II-a de prezent (⟪अदादिगणः⟫)
+*   5.2. Clasa a III-a de prezent (⟪जुहोत्यादिगणः⟫)
+*   5.3. Clasa a V-a de prezent (⟪स्वादिगणः⟫)
+*   5.4. Clasa a VIII-a de prezent (⟪तनादिगणः⟫)
+*   5.5. Clasa a VII-a de prezent (⟪रुधादिगणः⟫)
+*   5.6. Clasa a IX-a de prezent (⟪क्र्यादिगणः⟫)
+*   6\. Aoristul 5: iṣ-Aorist
+*   7\. Exercițiu
 
-## [Lecție 59](lektion59)
+## [Lecția 59](lektion59)
 
-*   59\.1. Terminările secundare și terminările imperativului la dual (⟪द्विवचनम्⟫)
-*   59\.2. Dualul claselor de prezent tematic: Optativul (⟪विधिलिङ्⟫), Imperfectul (⟪लङ्⟫), Imperativul (⟪लोट्⟫)
-    *   59\.2.1. Prima clasă de prezent (⟪भ्वादिगणः⟫)
-    *   59\.2.2. A patra clasă de prezent (⟪दिवादिगणः⟫)
-    *   59\.2.3. A șasea clasă de prezent (⟪तुदादिगणः⟫)
-    *   59\.2.4. A zecea clasă de prezent (⟪चुरादिगणः⟫) și cauzative (⟪णिजन्त⟫)
-    *   59\.2.5. Pasivul (Sufixul -⟪यक्⟫)
-*   59\.3. Dualul claselor de prezent atematic: Optativul (⟪विधिलिङ्⟫), Imperfectul (⟪लङ्⟫), Imperativul (⟪लोट्⟫)
-    *   59\.3.1. A doua clasă de prezent (⟪अदादिगणः⟫)
-    *   59\.3.2. A treia clasă de prezente (⟪जुहोत्यादिगणः⟫)
-    *   59\.3.3. A cincea clasă de prezente (⟪स्वादिगणः⟫)
-    *   59\.3.4. A optima clasă de prezente (⟪तनादिगणः⟫)
-    *   59\.3.5. A șaptea clasă de prezent (⟪रुधादिगणः⟫)
-    *   59\.3.6. A noua clasă de prezente (⟪क्र्यादिगणः⟫)
-*   59\.4. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
-    *   59\.4.1. Aoristul rădăcinii
-    *   59\.4.2. a-aorist
-    *   59\.4.3. Aorist cu reduplicare
-    *   59\.4.4. s-aorist
-    *   59\.4.5. Aoristul iṣ
-*   59\.5. Aoristul (⟪लुङ्⟫) 6: Aoristul siṣ- (doar P)
-*   59\.6. Aoristul (⟪लुङ्⟫) 7: aoristul sa- (aorist tematic cu s)
-*   59\.7. Exerciții
+*   1\. Terminațiile secundare și terminatiile de imperativ ale dualului (⟪द्विवचनम्⟫)
+*   2\. Dualul claselor de prezent tematice: Optativ (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+*   2.1. Prima clasă de prezent (⟪भ्वादिगणः⟫)
+*   2.2. A patra clasă de prezent (⟪दिवादिगणः⟫)
+*   2.3. A șasea clasă de prezent (⟪तुदादिगणः⟫)
+*   2.4. A zecea clasă de prezent (⟪चुरादिगणः⟫) și Cauzativele (⟪णिजन्त⟫)
+*   2.5. Pasivul (sufixul -⟪यक्⟫)
+*   3\. Dualul claselor de prezent atematice: Optativ (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+*   3.1. A doua clasă de prezent (⟪अदादिगणः⟫)
+*   3.2. A treia clasă de prezent (⟪जुहोत्यादिगणः⟫)
+*   3.3. A cincea clasă de prezent (⟪स्वादिगणः⟫)
+*   3.4. A opta clasă de prezent (⟪तनादिगणः⟫)
+*   3.5. A șaptea clasă de prezent (⟪रुधादिगणः⟫)
+*   3.6. A noua clasă de prezent (⟪क्र्यादिगणः⟫)
+*   4\. Dualul (⟪द्विवचनम्⟫) Aoristul (⟪लुङ्⟫)
+*   4.1. Aoristul radical
+*   4.2. a-Aoristul
+*   4.3. Aoristul reduplicat
+*   4.4. s-Aoristul
+*   4.5. iṣ-Aoristul
+*   5\. Aoristul (⟪लुङ्⟫) 6: siṣ-Aoristul (doar P)
+*   6\. Aoristul (⟪लुङ्⟫) 7: sa-Aoristul (s-Aorist tematic)
+*   7\. Exerciții
 
-## [Lecție 60](lektion60)
+## [Lecția 60](lektion60)
 
-*   60\.1. Desinențele dualului la perfect (⟪द्विवचनम्⟫)
-*   60\.2. Dualul perfectului cu reduplicare (⟪द्वित्वलिट्⟫)
-    *   60\.2.1. Tipul 1: fără gradarea rădăcinii
-    *   60\.2.2. Tipul 2: rădăcină puternică la nivel ridicat, rădăcină slabă la nivel scăzut
-    *   60\.2.3. Tipul 3: Stăvân puternic, nivel înalt/nivel alungit
-    *   60\.2.4. Tipul 4: Rădăcini în -ā / -ai
-    *   60\.2.5. Tipul 5: Consonant-a-Consonant
-*   60\.3. Dualul perfectului periphrastic (⟪अनुप्रयोगलिट्⟫)
-*   60\.4. Participiul ⟪परस्मैपद⟫ al perfectului reduplicat (⟪द्वित्वलिट्⟫)
-*   60\.5. Declinarea stemelor în -añc (-ac)
-    *   60\.5.1. Stamuri cu trei silabe în -añc
-    *   60\.5.2. Stame cu două rădăcini în -añc
-*   60\.6. Desiderativul (⟪सन्⟫)
-    *   60\.6.1. Formarea rădăcinii desiderative
-    *   60\.6.2. Conjugarea desiderativului (⟪सन्⟫)
-*   60\.7. Exercițiu
+*   1\. Terminațiile de perfect ale dualului (⟪द्विवचनम्⟫)
+*   2\. Dualul perfectului reduplicat (⟪द्वित्वलिट्⟫)
+*   2.1. Tipul 1: fără abateri ale rădăcinii
+*   2.2. Tipul 2: rădăcina puternică în gradul superior, rădăcina slabă în gradul inferior
+*   2.3. Tipul 3: Rădăcina puternică în gradul superior/gratul de lungire
+*   2.3.1. Tipul 3a: Rădăcina puternică în gradul superior/gratul de lungire, rădăcina slabă în gradul inferior
+*   2.3.2. Tipul 3b: Rădăcina puternică în gradul superior/gratul de lungire, rădăcina slabă în gradul superior
+*   2.4. Tipul 4: Rădăcini în -ā / -ai
+*   2.5. Tipul 5: Consoană-a-Consoană
+*   2.5.1. Tipul 5a: Consoană-a-Consoană, rădăcina slabă în gradul inferior
+*   2.5.2. Tipul 5b: Consoană-a-Consoană, consoana inițială nu este guturală, aspirată, h, Rădăcina slabă fără reduplicare, cu -e-
+*   2.5.3. Tipul 5c: Consoană-a-Consoană, rădăcina slabă în gradul superior
+*   3\. Dualul perfectului periphrastic (⟪अनुप्रयोगलिट्⟫)
+*   4\. Participiul ⟪परस्मैपद⟫ al perfectului reduplicat (⟪द्वित्वलिट्⟫)
+*   5\. Declinarea rădăcinilor în -añc (-ac)
+*   5.1. Rădăcini trisilabice în -añc
+*   5.2. Rădăcini disilabice în -añc
+*   6\. Desiderativul (⟪सन्⟫)
+*   6.1. Formarea rădăcinii desiderative
+*   6.2. Conjugarea desiderativului (⟪सन्⟫)
+*   7\. Exerciții
 
-## [Lecție 61](lektion61)
+## [Lecția 61](lektion61)
 
-*   61\.1. Declinarea substantivelor radicale în -ā, -ī, -ū
-    *   61\.1.1. Numele de rădăcină cu sufixul -ā la finalul lui ⟪तत्पुरुष⟫
-    *   61\.1.2. Nume de rădăcină feminine în -ī
-    *   61\.1.3. Nume de rădăcină cu sufixul -ī la finalul lui ⟪तत्पुरुष⟫
-    *   61\.1.4. Nume de rădăcină monosilabice, feminine, în -ū
-    *   61\.1.5. Nume de rădăcină cu sufixul -ū la finalul lui ⟪तत्पुरुष⟫
-    *   61\.1.6. Declinarea femininelor polisilabice în -ū
-*   61\.2. Viitorul perifrastic (⟪लुट्⟫)
-*   61\.3. Intensivul (Frecventativul) (⟪चर्करीतम्⟫)
-    *   61\.3.1. Intensivul Ātmanepada
-    *   61\.3.2. Intensivul Parasmaipada
-*   61\.4. Denominative (⟪नामधातु⟫)
-    *   61\.4.1. Formare fără sufix special, Parasmaipada
-    *   61\.4.2. Formare cu sufixul -ya, Parasmaipada
-    *   61\.4.3. Formare cu sufixul -kāmya, Parasmaipada
-    *   61\.4.4. Formare cu sufixul -sya sau -asya, Parasmaipada
-    *   61\.4.5. Formare cu sufixul -ya, Ātmanepada
-    *   61\.4.6. Formarea cu sufixul -aya, -āpaya
-*   61\.5. Benedictivul (⟪आशीर्लिङ्⟫)
-*   61\.6. Condiționalul (⟪ऌङ्⟫)
-*   61\.7. Declinarea substantivelor cu sufixul -ai, -o, -au
-*   61\.8. Pronume rămase
-    *   61\.8.1. Pronume personale la dual
-    *   61\.8.2. Pronume demonstrative ⟪अदस्⟫ "acel (îndepărtat)"
-*   61\.9. Eliberarea în oceanul literaturii sanscrite: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+*   1\. Declinarea substantivelor rădăcinale în -ā, -ī, -ū
+*   1.1. Substantive rădăcinale în -ā la finalul lui ⟪तत्पुरुष⟫
+*   1.2. Substantive rădăcinale feminine în -ī
+*   1.3. Substantive rădăcinale în -ī la finalul lui ⟪तत्पुरुष⟫
+*   1.4. Substantive rădăcinale monosilabice feminine în -ū
+*   1.5. Substantive rădăcinale în -ū la finalul lui ⟪तत्पुरुष⟫
+*   1.6. Declinarea substantivelor feminine polisilabice în -ū
+*   2\. Viitorul periphrastic (⟪लुट्⟫)
+*   3\. Intensivul (Frequentativul) (⟪चर्करीतम्⟫)
+*   3.1. Intensivul în Ātmanepada
+*   3.2. Intensivul în Parasmaipada
+*   4\. Denominativele (⟪नामधातु⟫)
+*   4.1. Formare fără sufix special, Parasmaipada
+*   4.2. Formare cu sufixul -ya, Parasmaipada
+*   4.3. Formare cu sufixul -kāmya, Parasmaipada
+*   4.4. Formare cu sufixul -sya sau -asya, Parasmaipada
+*   4.5. Formare cu sufixul -ya, Ātmanepada
+*   4.6. Formare cu sufixul -aya, -āpaya
+*   5\. Benedictivul (⟪आशीर्लिङ्⟫)
+*   6\. Condiționalul (⟪ऌङ्⟫)
+*   7\. Declinarea substantivelor în -ai, -o, -au
+*   8\. Alte pronume
+*   8.1. Pronume personale la dual
+*   8.2. Pronume demonstrative ⟪अदस्⟫ "acel (îndepărtat)"
+*   9\. Licențierea în oceanul literaturii sanscrite: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+
+SFÂRȘITUL CURSULUI DE SANSKRIT
+

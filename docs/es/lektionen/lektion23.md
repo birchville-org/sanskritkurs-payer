@@ -1,10 +1,11 @@
 ---
-title: Lektion 23
-subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
+title: "Lección 23"
+subtitle: "El infinitivo (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 23
@@ -86,7 +87,7 @@ Entre las raíces aprendidas hasta ahora, se deben tener en cuenta especialmente
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Raízn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. &lt;!-- TODO: Fallback translation --&gt;
+Die anderen Raízn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. &lt;!--  --&gt;
 
 ## 23.3. El infinitivo (⟪तुमुन्⟫) de las raíces aprendidas hasta ahora
 
@@ -316,13 +317,3 @@ C) Proporcione las formas raíz (significado, clase de presente, modo, 3. sg. pr
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-::: deleteme-box
-
-**lekt2301:** Chiang Mai, Tailandia = เชียงใหม่, ประเทศไทย [Fuente de la imagen: Wikipedia. Licencia GNU FDL]
-
-**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Fuente de la imagen: por zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Acceso el 2008-12-13. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
-
-**lekt2303:** ทำบุญ = ⟪पुण्यकरणम्⟫, Tailandia = ประเทศไทย [Fuente de la imagen: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Acceso el 2008-12-13. -- Licencia Creative Commons (Atribución, sin obras derivadas)]
-
-**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Primer Ministro de la India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, desde 2004 [Fuente de la imagen: Wikipedia, dominio público]
-:::

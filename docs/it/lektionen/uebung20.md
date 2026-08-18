@@ -253,9 +253,6 @@ La chiarificazione della mente avviene attraverso lo sviluppo della benevolenza 
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
 Lo yoga dell'azione è ascesi, studio dei Veda e servizio attento al SIGNORE. Ha come obiettivo lo sviluppo della concentrazione e l'attenuazione delle "sofferenze".
 
-::: deleteme-box Spiegazione
-Le cinque "sofferenze" (⟪क्लेश⟫) sono: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — ignoranza, egoismo, avidità, odio e attaccamento al corpo.
-:::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Il più alto obiettivo dell'essere umano è che il triplice dolore scompaia completamente. (*Triplice dolore: da sé stessi, dagli oggetti, dagli dèi.*)
 

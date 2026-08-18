@@ -9,14 +9,6 @@ status: stable
 
 # Μάθημα ιʹ
 
-::: deleteme-box
-**Ἐν τῇ παρούσῃ μαθησιακῇ ἐνότητι μανθάνετε:**
-- Τὴν παθητικὴν πρότασιν (Ἐργαλείου Ὀργανοῦ)
-- Τὴν κλίση τοῦ Ἐργαλείου (τृतीयά)
-- Τὸ νόμον τῆς κερβραλιστικῆς μεταβολῆς διὰ τὸ -n- (Σανδχί λέξεων)
-- Τὴν σύνταξιν τοῦ παθητικοῦ (yak) ἐν τῷ ὁριστικῇ παρόντι
-- Λεξιλόγιον περὶ θυσιῶν, ἀληθείας καὶ κοινωνικῶν ρόλων
-:::
 ## 10.1. Ἡ παθητικὴ πρότασις
 
 ::: grammar-box
@@ -103,9 +95,6 @@ status: stable
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-πλὴν τῆς ὀνομαστικῆς καὶ αἰτιατικῆς, τὰ σχήματα τῶν οὐδετέρων ἐπὶ -α, τοῦ ἑρωτηματικοῦ καὶ τῶν ἐκθετικῶν ἀντωνυμιῶν ταὐτὰ τοῖς σχήμασι τῶν ἀντιστοίχων ἁρμονικῶν ἐστι.
-:::
 
 ### 10.2.1. Περὶ τῆς χρήσεως τῆς ὀργανικῆς (τṛτīyā = ⟪तृतीया⟫)
 
@@ -154,13 +143,13 @@ z.B.
 **βραχμάνα** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das Παθητικὴ φωνή, Indikativ Präsens (yak = ⟪यक्⟫) <!-- TODO: Fallback translation -->
+## 10.4. Das Παθητικὴ φωνή, Indikativ Präsens (yak = ⟪यक्⟫)
 
 ::: grammar-box
 **Bildung:**
 **(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung**
 :::
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 
 | Wurzel:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
@@ -216,7 +205,7 @@ z.B. <!-- TODO: Fallback translation -->
 * **tan-ya-te**, **tan-ya-nte**
 ⟪तन्यते⟫, ⟪तन्यन्ते⟫
 * **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (ἐκ \*tn-ya-nte) <!-- TODO: Fallback translation -->
+⟪तायते⟫, ⟪तायन्ते⟫ (ἐκ \*tn-ya-nte)
 
 ## 10.5. Λεξιλόγιον
 
@@ -261,12 +250,12 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ex τῶν ἐκ δ�
 - **anṛta** n. ⟪अनृत⟫ : ψεῦδος, ἀλήθεια (ἀντίθεσις πρὸς **satya**)
 
   ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n. <!-- TODO: Fallback translation -->
+  Wortbildung **an-** („un-“) + **ṛta** n.
 
   **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
   :::
 
-- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder <!-- TODO: Fallback translation -->
+- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
 
   ::: note-box
   Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.

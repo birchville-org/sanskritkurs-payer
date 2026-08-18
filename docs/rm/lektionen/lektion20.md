@@ -112,7 +112,7 @@ Tradizionalmain distinghescha si:
 **Ezempels:**
 
 ::: indent
-⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" <!-- TODO: Fallback translation -->
+⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls" = "in umsch, ch'jè ch'ls ch'ls ch'ls ch'ls ch'ls ch'ls"
 
 ⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "il / la / il, il cui fin è quest" = "finente cun quest"
 :::
@@ -214,7 +214,7 @@ Madhya Pradesh
 *   **-ī-stems (f.) duan pigiar il suffix -ka, -kā, -ka (n.) a la fin da Bahuvrīhis; quest suffix po u duan era pigiar blers auters Bahuvrīhis**
 
 :::
-## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis <!-- TODO: Fallback translation -->
+## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
 
 Las exempels èn quai per la lavur subsequenta, per qualas èn la grammatica necessaria ed il vocabulari anc betg tractads.
 
@@ -266,25 +266,25 @@ Rishikesh = ⟪ऋषिकेश⟫. «Quai chessa fa part dal Ashram en Rishik
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : fa, producend, causond
 
-⟪कर⟫ m.: maun (a ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
+⟪कर⟫ m.: maun (a ⟪कृ⟫ 8)
 
 ⟪कर⟫ m.: contrib, tribut, imposta (non da ⟪कृ⟫, ma probabile prestito dal tamil - தமிழ்)
 
 ⟪क्रिया⟫ f.: acțiune, acțiune sacră, acțiune de sacrificiu, ceremonie (la ⟪कृ⟫ 8)
 
-⟪अधि⟫ Präverb: über, auf, er-, mit Bezug auf <!-- TODO: Fallback translation -->
+⟪अधि⟫ Präverb: über, auf, er-, mit Bezug auf
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : chattar, vegnir a, cuntanscher <!-- TODO: Fallback translation -->
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : chattar, vegnir a, cuntanscher
 
 ⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : reducir, debilitar
 
 ⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : donond, donond
 
-⟪नृप⟫ m.: "protetgar dals umans" = re <!-- TODO: Fallback translation -->
+⟪नृप⟫ m.: "protetgar dals umans" = re
 
 ⟪प्रणिधान⟫ n.: applicaziun, sforsa, attenziun cunter, servetschusadad, meditaziun, vart
 
-⟪बाधना⟫ f.: anguscha, plaga, dolur <!-- TODO: Fallback translation -->
+⟪बाधना⟫ f.: anguscha, plaga, dolur
 
 ⟪भार्या⟫ f.: "quai ch'è da mantegnair" = muglier
 
@@ -300,7 +300,7 @@ Rishikesh = ⟪ऋषिकेश⟫. «Quai chessa fa part dal Ashram en Rishik
 
 ⟪अपवर्ग⟫ m.: fin, liberaziun
 
-⟪नि⟫ Präverb: ned, giu, en, indriret <!-- TODO: Fallback translation -->
+⟪नि⟫ Präverb: ned, giu, en, indriret
 
 ⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : umkehren, zurückkehren
 
@@ -332,7 +332,7 @@ Rishikesh = ⟪ऋषिकेश⟫. «Quai chessa fa part dal Ashram en Rishik
 
 ⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : curvar
 
-⟪उद्⟫ Präverb: su, sù, fòra, ora, ora- <!-- TODO: Fallback translation -->
+⟪उद्⟫ Präverb: su, sù, fòra, ora, ora-
 
 ⟪नाभि⟫ f.: Navel
 
@@ -466,7 +466,7 @@ A) Tradusci e resòlv las composiziuns en sanscrit:
 
 B) Tradusci suttasch da usar da cumponids en Sanscrit:
 
-1\. In Kṣatriya, che na mantena il bastun en la maun, protegia il pievel betg. <!-- TODO: Fallback translation -->
+1\. In Kṣatriya, che na mantena il bastun en la maun, protegia il pievel betg.
 
 2\. Kālidāsa ed ils ulteriurs poetas èn ils magisters en sanscrit.
 
@@ -513,7 +513,7 @@ Discurs dals materialists suenter il ⟪सर्वदर्शनसंग्�
 
 Explicaziun: ⟪अत्मा⟫ = Nom.sg. mask. zu ⟪आत्मन्⟫ m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
 :::
-Ein ⟪सुभाषितम्⟫ : <!-- TODO: Fallback translation -->
+Ein ⟪सुभाषितम्⟫ :
 
 ::: indent
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
@@ -529,7 +529,7 @@ Abb.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
 (Bildquelle: [Details](/rm/licenses#lekt2009))
 :::
-Über Besitzverhältnisse: <!-- TODO: Fallback translation -->
+Über Besitzverhältnisse:
 
 ::: indent
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
@@ -555,7 +555,7 @@ Fig.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt2003))
 :::
-Anc in ⟪सुभाषितम्⟫ : <!-- TODO: Fallback translation -->
+Anc in ⟪सुभाषितम्⟫ :
 
 ::: indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
@@ -564,27 +564,5 @@ Anc in ⟪सुभाषितम्⟫ : <!-- TODO: Fallback translation -->
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
 Explicaziun: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P a ⟪इष्⟫ : da quel che vesa
-:::
-::: deleteme-box <!-- TODO: Fallback translation -->
-
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Camboscha, 9. tschdt. n. Chr. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
-
-**lekt2002:** [Font dal sursatg: Contribuziuns a la litteratura e a la istorgia da l'idea en l'India. -- Bonn, 1926]
-
-**lekt2003:** Sanchi = ⟪सांची⟫ [Quella da l'imagines Wikipedia, domin public]
-
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [fonte da l’imagina: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- consultà il 2008-12-11. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala, nagina modificaziun)]
-
-**lekt2005:** Jesus e las autras divinitads, Ahmedabad [fonte da l’imaginesch: da ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- consultà il 2008-12-11. -- Licenza Creative Commons (attribuziun, nagina utilizaziun commerziala, nagina modificaziun)]
-
-**lekt2006:** Madhya Pradesh [fonte da l'imagines: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- consultà il 2008-12-11. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala, nagina modificaziun)]
-
-**lekt2007:** Chennai = சென்னை [funtana da l'imagines: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Access il 2008-12-11. -- Licenza Creative Commons (numnominaziun, nagina utilizaziun commerziala, nagina modificaziun)]
-
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. «Quai ch’è ina part dal Ashram en Rishikesh nua che ils Beatles han restà. Quai spezial n’era betg là cura ch’els eran là, ma el para fresc.» [Sursa d’imagina: da ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Access il 2008-12-11. -- Licenza Creative Commons (Attribuziun)]
-
-**lekt2009:** Karnataka [fonte da l'immagina: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- consultà il 2008-12-11. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala)]
-
-**lekt2010:** Buddha scoiàtich avant sia revelaziun salvadora, Gandhara, 2./3. tschientaner [sursainta da l’imagineschi: Wikipedia, licenza GNU FDLicense]
 :::
 

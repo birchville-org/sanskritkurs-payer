@@ -1,22 +1,15 @@
 ---
-title: Lektion 10
-subtitle: "Den Passivsatz (Instrumentalis des Agens)"
+title: "Leçon 10"
+subtitle: "La phrase passive (Instrumental de l'agent)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 10
 
-::: deleteme-box
-**Dans cette leçon, vous apprendrez :**
-- La phrase passive (Instrumental de l'agent)
-- La déclinaison de l'instrumental (tṛtīyā)
-- La loi de cérébralisation pour -n- (sandhi lexical)
-- La formation de la voix passive (yak) à l'indicatif présent
-- Vocabulaire relatif aux sacrifices, à la vérité et aux rôles sociaux
-:::
 ## 10.1. La phrase passive
 
 ::: grammar-box
@@ -104,9 +97,6 @@ important
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-::: deleteme-box
-À l’exception du Nominatif et de l’Accusatif, les formes des Neutres en -a, du pronom interrogatif et des pronoms démonstratifs sont identiques à celles des masculins correspondants.
-:::
 
 ### 10.2.1. Sur l'utilisation de l'instrumental (tṛtīyā = ⟪तृतीया⟫)
 
@@ -193,42 +183,40 @@ par ex.
 * **smṛ** 1 P: **smaryate**, **smaryante**
 ⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-4. **Niveau profond des verbes commençant par ya, va, ra, ou lorsque ces sons se trouvent après une autre consonne (Samprasāraṇa = ⟪सम्प्रसारण⟫) :**
+4. **Niveau profond des verbes, commençant par ya, va, ra ou lorsque ces sons se trouvent après une autre consonne (Samprasāraṇa = ⟪सम्प्रसारण⟫) :**
 
-   | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
-   | :--- | :--- | :--- |
-   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
-   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
-   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
+| Racine:br⟪धातु⟫ | Niveau profond:br⟪सम्प्रसारण⟫ | Passif:br⟪यक्⟫ |
+| :--- | :--- | :--- |
+| **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+| **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+| **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-La désignation traditionnelle autochtone pour cette formation du niveau profond des verbes avec **ya** ou **va** est **Samprasāraṇa** (⟪नपुंसकम्⟩ = ⟪सम्प्रसारण⟫).
+La désignation traditionnelle indigène pour cette formation du niveau profond des verbes avec **ya** ou **va** est **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
-5. **La finale -ṛ** après une seule consonne est remplacée par **-ri-** devant le suffixe passif **-ya- :**
-* **kṛ** 8 V : **kriyate**, **kriyante**
-⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Mais : **smṛ** 1 P : **smaryate**
-⟪स्मर्यते⟫
+5. **-ṛ final** après une seule consonne est remplacé par **-ri-** devant le suffixe passif **-ya-**:
+* **kṛ** 8 U : **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Mais : **smṛ** 1 P : **smaryate** :br⟪स्मर्यते⟫
 
 6. **Certaines racines en -an ont alternativement deux formations de radical passif :**
-   * une **-an-ya**
-   * une **-ā-ya-** (le **ā** long est un représentant d'un hypothétique nasale longue)
+* une **-an-ya**
+* une **-ā-ya-** (le **ā** long est un représentant d'un nasal hypothétique long)
 
-p. ex. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte**
-⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
+Par exemple, **tan** 8 U.
+* **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
+
+
 
 ## 10.5. Liste de mots
 
-**gṛha** n. ⟪गृह⟫ : Maison
+**Apprenez les mots suivants :**
 
-- **gṛha** n. ⟪गृह⟫ : maison
-- **grāma** m. ⟪ग्राम⟫ : village
-- **nagara** n. ⟪नगर⟫ : ville
+**gṛha** n. ⟪गृह⟫ : maison
+**grāma** m. ⟪ग्राम⟫ : village
+**nagara** n. ⟪नगर⟫ : ville
 
   ::: note-box
-  Pour la vie urbaine et rurale, voir Basham, *Wonder*, chap. 6.
+  Pour la vie urbaine et villageoise, voir Basham, *Wonder*, chap. 6.
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : Sacrifice

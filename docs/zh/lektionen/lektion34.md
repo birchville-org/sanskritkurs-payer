@@ -8,40 +8,40 @@ status: stable
 
 ## 34.1. Das Perfekt (⟪लिट्⟫)
 
-Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip. <!-- TODO: Fallback translation -->
+Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
 
 ::: grammar-box
-**Es gibt zwei Arten der Perfektbildung:** <!-- TODO: Fallback translation -->
-*   **das reduplizierte Perfekt = ⟪द्वित्वलिट्⟫** <!-- TODO: Fallback translation -->
-*   **das periphrastische Perfekt = ⟪अनुप्रयोगलिट्⟫** <!-- TODO: Fallback translation -->
+**Es gibt zwei Arten der Perfektbildung:**
+*   **das reduplizierte Perfekt = ⟪द्वित्वलिट्⟫**
+*   **das periphrastische Perfekt = ⟪अनुप्रयोगलिट्⟫**
 :::
 ::: grammar-box
-**Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫) wird gebraucht:** <!-- TODO: Fallback translation -->
-1. **bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)** <!-- TODO: Fallback translation -->
-2. **bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten** <!-- TODO: Fallback translation -->
-3. **bei einigen sonstigen Wurzeln** <!-- TODO: Fallback translation -->
+**Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫) wird gebraucht:**
+1. **bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)**
+2. **bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten**
+3. **bei einigen sonstigen Wurzeln**
 :::
 ## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
 
 ### 34.2.1. Stammabstufung
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Bildung:**
 
-**starker Stamm:** Singular Parasmaipada <!-- TODO: Fallback translation -->
-*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung** <!-- TODO: Fallback translation -->
+**starker Stamm:** Singular Parasmaipada
+*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung**
 
-**schwacher Stamm:** alle übrigen Formen <!-- TODO: Fallback translation -->
-*   **reduplizierte tiefstufige Wurzel + Perfektendung** <!-- TODO: Fallback translation -->
+**schwacher Stamm:** alle übrigen Formen
+*   **reduplizierte tiefstufige Wurzel + Perfektendung**
 :::
 ::: grammar-box
-**Generell (auch außerhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant** <!-- TODO: Fallback translation -->
+**Generell (auch außerhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:**
+*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
+*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
 
-**Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:** <!-- TODO: Fallback translation -->
-*   **a-Konsonant** <!-- TODO: Fallback translation -->
-*   **ā-Konsonant** <!-- TODO: Fallback translation -->
+**Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:**
+*   **a-Konsonant**
+*   **ā-Konsonant**
 :::
 ### 34.2.2. Die Perfektendungen
 
@@ -56,20 +56,20 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip. <!-
 ### 34.2.3. Bindevokal -i-
 
 ::: grammar-box
-**Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.** <!-- TODO: Fallback translation -->
+**Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.**
 :::
 ### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
 
 ::: grammar-box
-**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.** <!-- TODO: Fallback translation -->
+**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
 
-**Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.** <!-- TODO: Fallback translation -->
+**Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.**
 
-**Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.** <!-- TODO: Fallback translation -->
+**Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.**
 
-**ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.** <!-- TODO: Fallback translation -->
+**ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ::: grammar-box
 
@@ -81,9 +81,9 @@ Beispiele: <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
-**Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".** <!-- TODO: Fallback translation -->
+**Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ::: grammar-box
 
@@ -96,9 +96,9 @@ Beispiele: <!-- TODO: Fallback translation -->
 ### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
 
 ::: grammar-box
-**1. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.** <!-- TODO: Fallback translation -->
+**1. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ::: grammar-box
 
@@ -108,9 +108,9 @@ Beispiele: <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
-**2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.** <!-- TODO: Fallback translation -->
+**2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ::: grammar-box
 
@@ -121,9 +121,9 @@ Beispiele: <!-- TODO: Fallback translation -->
 
 :::
 ::: grammar-box
-**3. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-** <!-- TODO: Fallback translation -->
+**3. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ::: grammar-box
 
@@ -135,21 +135,21 @@ Beispiele: <!-- TODO: Fallback translation -->
 :::
 ## 34.3. Typen des reduplizierten Perfekts
 
-Einteilungsprinzip: Besonderheiten der Stammabstufung: <!-- TODO: Fallback translation -->
-*   Perfekt ohne Stammabstufung: Typ I <!-- TODO: Fallback translation -->
-*   Perfekt mit Stammabstufung: Typ II - V <!-- TODO: Fallback translation -->
-*   unregelmäßige Perfektbildungen <!-- TODO: Fallback translation -->
+Einteilungsprinzip: Besonderheiten der Stammabstufung:
+*   Perfekt ohne Stammabstufung: Typ I
+*   Perfekt mit Stammabstufung: Typ II - V
+*   unregelmäßige Perfektbildungen
 
 ## 34.4. Perfekt Typ I: Perfekt ohne Stammabstufung
 
 ::: grammar-box
-**Perfekt Typ I (ohne Stammabstufung) haben Wurzeln der Typen:** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant** <!-- TODO: Fallback translation -->
-*   **a-Konsonant** <!-- TODO: Fallback translation -->
-*   **ā-Konsonant** <!-- TODO: Fallback translation -->
+**Perfekt Typ I (ohne Stammabstufung) haben Wurzeln der Typen:**
+*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
+*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
+*   **a-Konsonant**
+*   **ā-Konsonant**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ::: grammar-box
 
@@ -165,14 +165,14 @@ Beispiele: <!-- TODO: Fallback translation -->
 ## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
 ::: grammar-box
-**Wird gebildet von Wurzeln der Form:** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant** <!-- TODO: Fallback translation -->
+**Wird gebildet von Wurzeln der Form:**
+*   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant**
 
-**Bildung:** <!-- TODO: Fallback translation -->
-*   **starker Stamm: Hochstufe** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm: Tiefstufe** <!-- TODO: Fallback translation -->
+**Bildung:**
+*   **starker Stamm: Hochstufe**
+*   **schwacher Stamm: Tiefstufe**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
 ::: grammar-box
 
@@ -187,82 +187,82 @@ Beispiele: <!-- TODO: Fallback translation -->
 :::
 ## 34.6. 词汇表
 
-**⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫** <!-- TODO: Fallback translation -->
+**⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide <!-- TODO: Fallback translation -->
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide
 
 ::: media
 ![](/images/lekt3406.webp)
 Abb.: ⟪सस्यम्⟫
 Rice field in India.
-(Bildquelle: [Details](/licenses#lekt3406)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3406))
 :::
-**⟪तावत्⟫ :** so lange, so groß <!-- TODO: Fallback translation -->
+**⟪तावत्⟫ :** so lange, so groß
 
-**⟪उत्तम⟫ 3:** höchster <!-- TODO: Fallback translation -->
+**⟪उत्तम⟫ 3:** höchster
 
-**⟪उत्तम⟫ 3:** höchster <!-- TODO: Fallback translation -->
+**⟪उत्तम⟫ 3:** höchster
 
-**⟪द्वीप⟫ m.n.:** Insel, Kontinent <!-- TODO: Fallback translation -->
+**⟪द्वीप⟫ m.n.:** Insel, Kontinent
 
 ::: media
 ![](/images/lekt3405.webp)
 Abb.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
-(Bildquelle: [Details](/licenses#lekt3405)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** sterblich (zu **⟪मृ⟫**) <!-- TODO: Fallback translation -->
+**⟪मर्त्य⟫ 3:** sterblich (zu **⟪मृ⟫**)
 
-**⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.) <!-- TODO: Fallback translation -->
+**⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.)
 
 ::: media
 ![](/images/lekt3403.webp)
 Abb.: ⟪तिलाः⟫
 Sesame seeds.
-(Bildquelle: [Details](/licenses#lekt3403)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.webp)
 Abb.: *Sesamum indicum* L.
 Sesame plant flowering.
-(Bildquelle: [Details](/licenses#lekt3404)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3404))
 :::
-**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold <!-- TODO: Fallback translation -->
+**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
 
 ::: media
 ![](/images/lekt3402.webp)
 Abb.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
-(Bildquelle: [Details](/licenses#lekt3402)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** Wohnstatt, Tempel <!-- TODO: Fallback translation -->
+**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
 
-**⟪कोटि⟫ f.:** Spitze; 10 Millionen <!-- TODO: Fallback translation -->
+**⟪कोटि⟫ f.:** Spitze; 10 Millionen
 
-**⟪श्रेष्ठ⟫ 3:** bester <!-- TODO: Fallback translation -->
+**⟪श्रेष्ठ⟫ 3:** bester
 
-**⟪तल⟫ m.n.:** Ebene, Fläche <!-- TODO: Fallback translation -->
+**⟪तल⟫ m.n.:** Ebene, Fläche
 
-**⟪ऋषभ⟫ m.:** Stier <!-- TODO: Fallback translation -->
+**⟪ऋषभ⟫ m.:** Stier
 
 ::: media
 ![](/images/lekt3401.webp)
 Abb.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
-(Bildquelle: [Details](/licenses#lekt3401)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren <!-- TODO: Fallback translation -->
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern <!-- TODO: Fallback translation -->
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern
 
-**⟪या⟫ 2P ⟪याति⟫ :** gehen, fahren <!-- TODO: Fallback translation -->
+**⟪या⟫ 2P ⟪याति⟫ :** gehen, fahren
 
-**⟪कन्या⟫ f.:** Mädchen, Jungfrau <!-- TODO: Fallback translation -->
+**⟪कन्या⟫ f.:** Mädchen, Jungfrau
 
 ## 34.7. 练习
 
-Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden Perfektformen: <!-- TODO: Fallback translation -->
+Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden Perfektformen:
 
 1. ⟪रक्षिष्यन्ति⟫
 2. ⟪स्रक्ष्यति⟫
@@ -272,7 +272,7 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 6. ⟪भनक्ति⟫
 7. ⟪लुभ्यन्ति⟫
 8. ⟪रुन्धते⟫
-9. ⟪रोदित⟫i → ⟪रोदिति⟫ <!-- TODO: Fallback translation -->
+9. ⟪रोदित⟫i → ⟪रोदिति⟫
 10. ⟪बध्नाति⟫
 11. ⟪युध्यन्ते⟫
 12. ⟪युङ्क्ते⟫
@@ -298,7 +298,7 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 
 ## 34.8. 翻译练习
 
-Übersetzen Sie folgenden Text aus dem ⟪पद्मपुराण⟫ über Gaben an Brahmanen: <!-- TODO: Fallback translation -->
+Übersetzen Sie folgenden Text aus dem ⟪पद्मपुराण⟫ über Gaben an Brahmanen:
 
 ⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫*:sig[⟪त्तम⟫]* ⟪।⟫  
 ⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫*:sig[⟪श्चतुर्दश⟫]* ⟪॥१॥⟫  
@@ -311,40 +311,23 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तं⟫ ⟪महीतले⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
-Erklärungen: <!-- TODO: Fallback translation -->
+Erklärungen:
 
 ::: indent
-**Vokativ sg.** der Maskulina / Neutra auf -a lautet auf -a: z.B. **⟪देव⟫** "Gott!" <!-- TODO: Fallback translation -->
+**Vokativ sg.** der Maskulina / Neutra auf -a lautet auf -a: z.B. **⟪देव⟫** "Gott!"
 
-**⟪चतुर्दश⟫** vierzehn <!-- TODO: Fallback translation -->
+**⟪चतुर्दश⟫** vierzehn
 
-**:sig[⟪सप्त⟫]** sieben <!-- TODO: Fallback translation -->
+**:sig[⟪सप्त⟫]** sieben
 
-**⟪जन्म⟫** Nom./Akk. sg. zu **⟪जन्मन्⟫ n.** Geburt <!-- TODO: Fallback translation -->
+**⟪जन्म⟫** Nom./Akk. sg. zu **⟪जन्मन्⟫ n.** Geburt
 
-**⟪सर्व⟫ 3** "alle, ganz" (dekliniert nach Pronominaldeklination) <!-- TODO: Fallback translation -->
+**⟪सर्व⟫ 3** "alle, ganz" (dekliniert nach Pronominaldeklination)
 :::
 ::: media
 ![](/images/lekt3407.webp)
 Abb.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***:sig[⟪र्जन्म⟫]*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Hindu wedding ritual.
-(Bildquelle: [Details](/licenses#lekt3407)) <!-- TODO: Fallback translation -->
-:::
-
-::: deleteme-box
-
-**lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Bildquelle: Luna Park / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3402:** Golden Temple (Harmandir Sahib), Amritsar. [Bildquelle: Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
-
-**lekt3403:** Sesame seeds. [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt3404:** Sesame plant flowering. [Bildquelle: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
-
-**lekt3405:** Lakshadweep Islands Map. [Bildquelle: CIA World Factbook. Public domain] <!-- TODO: Fallback translation -->
-
-**lekt3406:** Rice field in India. [Bildquelle: Ray Witlin / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
-
-**lekt3407:** Hindu wedding ritual. [Bildquelle: BriceFR / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt3407))
 :::
 

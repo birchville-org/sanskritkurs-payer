@@ -580,16 +580,3 @@ Abb.: ⟪नागदेवाः⟫
 (Bildquelle: [Details](/licenses#lekt1509))
 :::
 
-::: deleteme-box
-
-- **Abb.: ⟪लक्ष्मी⟫** (Lakshmi): Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Bildquelle: Wikipedia, Public domain.
-- **Abb.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Bildquelle: Wikipedia, Public domain.
-- **Diagramm** (lekt1502.jpg): Diagramm zur Zerlegung von Komposita. Bildquelle: Alois Payer / Original-Kursgrafik.
-- **Abb.: ⟪पूजा⟫** (Puja): A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Bildquelle: Wikipedia, Public domain.
-- **Abb.:  ⟪इन्द्रः⟫** (Indra): Folio from a Panchakalyanaka, Rajasthan, Amber. Bildquelle: Wikipedia, Public domain.
-- **Abb.: ⟪सिंहः⟫** (Lion): Panthera leo persica. Bildquelle: Wikipedia, GNU FDLicense.
-- **Abb.: ⟪व्याघ्रः⟫** (Tiger): Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain.
-- **Abb.: ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Bildquelle: ganuullu (Flickr), Creative Commons Lizenz.
-- **Abb.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Bildquelle: Dineshkannambadi / Wikipedia, GNU FDLicense.
-:::
-

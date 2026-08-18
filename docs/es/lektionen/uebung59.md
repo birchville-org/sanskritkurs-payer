@@ -13,7 +13,7 @@ last_reconstructed: 2026-05-15
 Fig.: ⟪रावणः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung098))
 :::
---- &lt;!-- TODO: Fallback translation --&gt;
+--- &lt;!--  --&gt;
 
 ## A) Análisis del texto
 
@@ -23,7 +23,7 @@ La traducción se ha dejado intencionadamente torpe para servir como ayuda de tr
 
 _Ayuda de traducción:_ Verso 6: ⟪दिदृक्षते⟫ \= Desiderativo de ⟪दृश्⟫
 
-Texto de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s. &lt;!-- TODO: Fallback translation --&gt;
+Texto de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s. &lt;!--  --&gt;
 
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫
@@ -215,5 +215,5 @@ Texto de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s. &lt;!-- TODO: Fallbac
 ![](/images/uebung099.webp)
 Fig.: ⟪रामस्य⟫ ⟪रावणेन⟫ ⟪युद्धः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung099))
-::: &lt;!-- TODO: Fallback translation --&gt;
+::: &lt;!--  --&gt;
 :::

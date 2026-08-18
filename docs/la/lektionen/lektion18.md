@@ -1,6 +1,7 @@
 ---
-title: Lektion 18
+title: "Lectio 18"
 lesson_id: 18
+
 ---
 
 # Lectio 18
@@ -8,237 +9,216 @@ lesson_id: 18
 ## 18.1. ⟪सुभाषितम्⟫
 
 ::: indent
-⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
-⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
+⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫
 :::
 ## 18.2. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
 
-Ut adverbialis (nondeclinabilis) pars prior
+Ut membri anterioris adverbialis (indeclinabilis) possunt
 
-*   Particula
-*   Particula
-*   Particula
-*   alia indeclinabilia
+*   Adverbia
+*   Praepositiones
+*   Particulae
+*   Alii indeclinabilia
 
 ::: indent
-uti possint. Huiusmodi Tatpuruṣa plerumque ad classem Nityasamāsa pertinent = ⟪नित्यसमास⟫ (m. "compositum perpetuum"), id est, composita quae omnino aut non solum per verba in ipso composito occurrentia resolvi possunt.
+adhiberi. Huiusmodi Tatpuruṣa plerumque ad classem Nityasamāsa = ⟪नित्यसमास⟫ (m. "compositum perpetuum") pertinent, id est composita quae omnino vel non solum verbis in ipso composito occurrentibus solvi possunt.
 :::
 Exempla:
 
-⟪अति⟩ "praeterea":
+⟪अति⟫ "praeterea":
 
 ::: indent
-⟪अतिगुरु⟫ 3: valde difficilis, valde gravis
+⟪अतिगुरु⟫ 3: nimis gravis, nimis ponderosus
 
-⟪अतिपुरुष⟫ m.: vir excellens, Supermanes, heros
+⟪अतिपुरुष⟫ m.: vir excellens, Superman, heros
 
-⟪अतिस्तुति⟫ f.: laus extorta
+⟪अतिस्तुति⟫ f.: laus nimia
 
 ⟪अत्युक्ति⟫ f.: loquacitas nimia, exaggeratio
 :::
-Particulae adverbiales principales sunt a-/an-, su-, dus-.
+Principalia membri anterioris adverbialis sunt a-/an-, su-, dus-.
 
-⟪अ⟫ (ante consonantem), ⟪अन्⟫ (ante vocalem): un-: stat in compositis pro ⟪न⟫ "non".
+⟪अ⟫ (ante consonantem), ⟪अन्⟫ (ante vocalem): un-: in composito pro ⟪न⟫ "non" stat.
 
 Exempla:
 
 ::: indent
-⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): falsitas, mendacium
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): mendacium, falsitas
 
-⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: non factum, inefficax
+⟪अकृत⟫ 3 = ⟪न कृत⟫ 3: non factum, ineffabile
 
-⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : mulier non Brahmana, non Brahmana <!-- TODO: Fallback translation -->
+⟪अब्राह्मणी⟫ f. = ⟪न ब्राह्मणी⟫ : femina non Brahmana, infelix
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : deus non, sine deo
+⟪अदेव⟫ m. = ⟪न देवः⟫ : deus non, infelix
 :::
-⟪सु⟫ "bene, bonum"; in resolutione compositi a commentariis adiectivo cum sensu "bonum" (e.g. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) mutatur.
+⟪सु⟫ "bene, bene"; in resolutione compositi a commentariis adiectivo cum significato "bono" (ex. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) substituitur.
 
 Exempla:
 
 ::: indent
 ⟪सुकवि⟫ m.: poeta bonus
 
-⟪सुकृत⟫ n.: bona actio
+⟪सुकृत⟫ n.: res bona
 
 ⟪सुखादित⟫ 3: bene manducatum
 
 ⟪सुदुःख⟫ n.: magnum malum
 :::
-⟪दुस्⟫ "malus, pessimus" (Sandhi observato!).
+⟪दुस्⟫ "malum, pessimus" (Sandhi observare!).
 
-Exempla:
+Exemplaria:
 
 ::: indent
-⟪दुर्नय⟫ m.: mala ductio, mala conducta
+⟪दुर्नय⟫ m.: pravum ductus, pravum mores
 
-⟪दुष्करण⟫ n.: mala actio, ardua actio
+⟪दुष्करण⟫ n.: mala actio, difficilis actio
 :::
-Quod sequitur lex haec:
+Hoc tamen lege valere:
 
 ::: grammar-box
 
 Mutatio phonetica -s in compositis
 
-Contrā regulam sandhi vocum coniunctārum, in fine partis prioris compositionum:
+Contra Sandhi sententiae, in fine prioris membri compositi:
 
--s post -i- vel -u- ante gutturale aut labiale sordida » -ṣ
+\-s post -i- vel -u- ante gutturalem aut labialem mutam » -ṣ
 
-Quapropter: ⟪दुष्करण⟫
+Ideo: ⟪दुष्करण⟫
 
 :::
-### 18.2.1. Composita typi ⟪सुकर⟫ / ⟪दुष्कर⟫
+### 18.2.1. Composita generis ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::: grammar-box
 
 Composita generis ⟪सुकर⟫ / ⟪दुष्कर⟫ praecipue significatum possibilitatis passivae habent:
 
-Exempla:
+Exemplaria:
 
 :::
 ::: indent
-⟪सुकर⟩ 3: facile factu
+⟪सुकर⟫ 3: facile factu
 
-⟪सुगम⟫ 3: facilem
+⟪सुगम⟫ 3: facile gradi
 
-⟪दुर्गम⟫ 3: difficilis est
+⟪दुर्गम⟫ 3: difficile gradi
 
-⟪सुदुर्गम⟫ 3: valde difficilis ad eundum
+⟪सुदुर्गम⟫ 3: valde difficile gradi
 :::
-### 18.2.2. Significationes Tatpuruṣa nañ (a- / an-)
+### 18.2.2. Significationes nañ-Tatpuruṣa (a- / an-)
 
-Tatpuruṣa cum a- / an- haec significata habere possunt:
+Tatpuruṣa cum a- / an- has significationes habere possunt:
 
-1.  Similitudo (⟪तत्सादृश्यम्⟫):
-::: indent
-⟪अब्राह्मणः⟫ = Kṣatriya vel Vaiśya, qui sacrum filum (⟪यज्ञोपवीत⟫ n.) gerit et ita Brahmanae similis est, quamvis non sit
-:::
-2.  Defectus, absentia (⟪तदभावः⟫):
-::: indent
-⟪अज्ञानम्⟫ = Ignorantia (defectus scientiae)
-:::
-3.  Diversitas (⟪तदन्यत्वम्⟫):
-::: indent
-⟪अपटम्⟫ = aliquid quod non est vestis (⟪पट⟫ m: textum, vestis)
-:::
-4.  Parvitas (⟪तदल्पता⟫):
-::: indent
-⟪अनुदरम्⟫ = parvus ventris (ventris non)
-:::
-5.  Repraesentatio (⟪अप्राशास्त्यम्⟫):
-::: indent
-⟪अकालः⟫ = tempus inopportunum
-:::
-6.  Inimicitia (⟪निरोधः⟫):
-::: indent
-⟪असुरः⟫ = Deus adversarius (secus falsam etymologiam a-sura)
-:::
+1. Similitudo (⟪तत्सादृश्यम्⟫):
+⟪अब्राह्मणः⟫ = Kṣatriya vel Vaiśya, qui sacrum filum (⟪यज्ञोपवीत⟫ n.) gerit et ita Brahmanae similis est, non tamen Brahma
+2. Defectus, absentia (⟪तदभावः⟫):
+⟪अज्ञानम्⟫ = ignorantia (defectus scientiae)
+3. Diversitas (⟪तदन्यत्वम्⟫):
+⟪अपटम्⟫ = aliquid quod non est textus / vestis (⟪पट⟫ m: telae, vestes)
+4. Parvitas (⟪तदल्पता⟫):
+⟪अनुदरम्⟫ = parvus venter (non-venter)
+5. Reprobatio (⟪अप्राशास्त्यम्⟫):
+⟪अकालः⟫ = intempestivitas
+6. Inimicitia (⟪निरोधः⟫):
+⟪असुरः⟫ = deus adversarius (secundum falsam etymologiam a-sura)
 
-Versus sequens has haec significata complectitur:
+Sequens versus has significations colligit:
 
 ::: indent
-⟪तत्सादृश्यमभावश्च⟫  
-⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
-⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
-⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
+⟪तत्सादृश्यमभावश्च तदन्यत्वं तदल्पता । अप्राशास्त्यं निरोधश्च नजर्थाः षट्प्रकीर्तिताः ॥⟫
 
-Sex significatioines vocis nañ (= a-/an-) enarrantur ....
+Sex significatio nañ (= a-/an-) nominantur ....
 :::
-## 18.3. Composita verbalia
+## 18.3. Verbalia composita
 
 ::: indent
-⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
-⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
-⟪गङ्गासलिलमाधुर्यं⟫  
-⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
+⟪उपसर्गेण धात्वर्थो बलादन्यत्र नीयते । गङ्गासलिलमाधुर्यं सागरेण यथाम्भसा ॥⟫
 :::
-⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ S. 2 Zl. 14f.
+⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ p. 2 l. 14f.
 
-Praeverbium significatiam radicis violentius mutatur, sicut dulcedo aquae Gangis per aquam marinam.
+Praeverbum significatio radicis violento modo mutat, sicut dulcedo aquae Gangis per mare.
 
 ::: grammar-box
 
-Verba Sanscritica cum praepositionibus (⟪उपसर्ग⟩ m.) coniungi possunt. Saepius Satzsandhi valet. Praepositiones significatum radicis interdum valde mutare possunt, ita ut in multis casibus significatum verbi cum praepositione separate discendum sit. Verba cum praepositione alium modum (P, Ā) habere possunt quam radix simplex. Una radix plures praepositiones simul accipere potest.
+Verba in Sanscrito cum praeverbis (⟪उपसर्ग⟫ m.) coniungi possunt. Hic fere valent sandhi sententiae. Praeverba significatio radicis interdum magnopere modificare possunt, ita ut in multis casibus significatio verbi cum praeverbo separatim discenda sit. Verba cum praeverbo alium modum (P, Ā) habere possunt quam radix simplex. Ante radicem simul plura praeverba poni possunt.
 
 :::
-Quaedam praefixia importantia sunt:
+Quaedam praeverba importantia sunt:
 
-⟪उप⟫ "ad, ad, contra"
+⟪उप⟫ "ad, versus"
 
 Exempla:
 
 ::: indent
 ⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : adire, aggredi
 
-⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : monere, docere, suadere
+⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : indicare, docere, monere
 
-⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : advenire
+⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : pervenire
 
-*   PPP ⟪उपपन्न⟫ 3: ornatus (Instrumentalis)
+*   PPP ⟪उपपन्न⟫ 3: instructus (Instrumentalis)
 
-⟪उपलभ्⟫ 1 A ⟪उपलभते⟫ : comprehendere, adipisci
+⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : comprehendere, adipisci
 :::
-⟪प्र⟫ "in ante, efferre"
+⟪प्र⟫ "profecto, efferre"
 
 Exempla:
 
 ::: indent
-⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : adipiscor
+⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : adipisci
 
-⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : ostendere
+⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : monstrare
 
 ⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : evigilare, cognoscere
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : exsistere, eminere, potestatem habere (Gen., Loc. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : exire, eminere, potestatem habere super (Gen., Lok. Dat.)
 
-⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : explicare, nuntiare, enuntiare
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : explicare, communicare, proferre
 
-⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : pronuntiare, designare ut, explicare pro
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : proferre, designare ut, explicare
 
-⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : praecellere, voce laudare, in aliquam rem incidere, incipere
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : laudare ante, voce laudare, in rem aliquam incidere, incipere
 :::
-⟪वि⟫ "separat, procul, dis-, conf-"
+⟪वि⟫ "separatim, procul, dis-, conf-"
 
-Exempla:
+Exemplaria:
 
 ::: indent
-⟪विगम्⟫ 1 ⟪विगच्छति⟫ : discedere, evanescere, disparere
+⟪विगम्⟫ 1 ⟪विगच्छति⟫ : discedere, transire, evanescere
 
 ⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : vincere
 
-⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : liberare, solvere
+⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : solvere, liberare
 
-⟪विवद्⟫ 1 ⟪विवदति⟫ : disputare, disceptare, narrare
+⟪विवद्⟫ 1 ⟪विवदति⟫ : disputare, exponere, narrare
 
 ⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : oblivisci
 
-⟪विहन्⟫ 2 ⟪विहन्ति⟫ : frango, deleo, perdo
+⟪विहन्⟫ 2 ⟪विहन्ति⟫ : frangere, destruere, perimere
 :::
-⟪सम्⟫ "cum, simul"
+⟪सम्⟫ "simul, cum"
 
-Exempla:
+Exemplaria:
 
 ::: indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : considere, morari, habitare
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : simul sedere, morari, habitare
 
 ⟪समि⟫ 2 ⟪समेति⟫ : convenire, coniungi
 
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : convenire, occurere (amicabiliter vel ostiliter), cum (Acc.) coitum habere
+⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : convenire, occurare (amicabiliter vel ostiliter), coire cum (Acc.)
 
-⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : nascuntur
+⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : oriri
 
 *   PPP ⟪संजात⟫ 3: natus, ortus, factus
 
-⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : pleniter evigilare (ad veritatem)
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : perfecte evigilare (ad veritatem)
 
-⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : cui evenit, prodest
+⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : alicui contingere, succedere
 
-*   PPP ⟪सम्पन्न⟫ 3: ornatus (Instrumentalis)
+*   PPP ⟪सम्पन्न⟫ 3: instructus (Instr.)
 :::
 ::: grammar-box
 
-Radix ⟪कृ⟫ "facere" cum praeverbis ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ etiam formam ⟪स्कृ⟫ ostendit.
+Radix ⟪कृ⟫ "facere" monstrat in coniunctione cum praepositionibus ⟪सम् । उप । अप । परि⟫ etiam formam ⟪स्कृ⟫
 
 :::
 Exemplum:
@@ -246,57 +226,55 @@ Exemplum:
 ::: indent
 sam-kṛ 8 ⟪संस्करोति⟫ : parare, pro sacrificio parare, dedicare
 
-*   PPP ⟪संस्कृत⟫ 3: pro sacrificio paratum ; ⟪संस्कृत⟫ n.: Sanscritice: lingua pro sacrificio apta ; Contrarium ⟪प्राकृत⟫ 3: usitatum, vulgare ; ⟪प्राकृत⟫ n.: lingua usitata, Prakrita (nomen pro linguis popularibus et negotiatoriis, quae Sanscritice cognatae sunt)
+*   PPP ⟪संस्कृत⟫ 3: pro sacrificio paratum ; ⟪संस्कृत⟫ n.: Sanscritice: lingua pro sacrificio apta ; contrarium ⟪प्राकृत⟫ 3: consuetus, vulgaris ; ⟪प्राकृत⟫ n.: lingua consueta, Prakrit (nomen pro linguis popularibus et negotiatoriis, quae Sanscrito affines sunt)
 :::
-### 18.3.1. Nomina ex compositionibus verbalibus derivata
+### 18.3.1. Formationes nominalium ex compositionibus verbalibus
 
 ::: grammar-box
 
-Ex radicibus cum praefixis nomina per suffixa kṛt formari possunt.
+Ex radicibus cum praeverbiis nomina per suffixa kṛt formari possunt.
 
 :::
 Exempla:
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: consecratio, praeparatio ; Ritua transitoria = appellatio ceremoniarum, quae diversos vitae gradus ab conceptione usque ad mortem comitantur (vide summam excellentem apud Basham, Mirabilia pag. 160 - 170!)
+sam-kṛ + -a = ⟪संस्कार⟫ m.: consecratio, praeparatio ; Ritus transitus = nomen ceremoniarum quae diversos vitae gradus a conceptione usque ad mortem comitantur (de qua re excellentem summam vide apud Basham, Wonder pp. 160 - 170!)
 
 ::: media
 ![](/images/lekt1804.webp)
 Fig.: ⟪विवाहः⟫
-Nuptiae = ⟪विवाह⟫ m., momenti plēna ⟪संस्कारः⟫
-(Fons imaginis: [Dēnōtiātiōnēs](/la/licenses#lekt1804))
+Nuptiae = ⟪विवाह⟫ m., gradus insignis ⟪संस्कारः⟫
+(Fons imaginis: [Detalia](/la/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: adlātiō (ad ignem sacrificialem) = cēremonia, qua filiīs virīs tribus ordinibus superioribus sacrā fīla (⟪यज्ञोपवीत⟫ n.) induuntur atque vērbum sacrānctum ⟪सावित्री⟫ in aurēs susurrātur, quod inde ab hōc diē quotiē sūrgentē ac cadentē sōle recitābunt. Prae Brahmanīs est Ṛgveda III.62.10:
+upa-nī + -ana = ⟪उपनयन⟫ n.: adductio (ad ignem sacrificalem) = caerimonia in qua viris ordinum trium superiorum filius sacrae filae (⟪यज्ञोपवीत⟫ n.) imponitur atque versus sacri ⟪सावित्री⟫ in aurem susurratur, quem deinceps cotidie ad ortum et occasum solis recitare debent. Pro Brahmanis Ṛgveda III.62.10 est:
 
 ::: indent
-"Optimum Dei 'Agitatoris' splendorem accipere possimus, qui cogitationes nostras movere velit."
+"Accipiamus clarissimam gloriam dei 'Agitatoris', qui cogitationes nostras in motum impellat."
 :::
-Per Upanayana fit secunda nativitas, ideo: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+Per Upanayanam secunda nascitur vita, ideo: ⟪द्विज । द्विजाति⟫
 
 ::: media
 ![](/images/lekt1801.webp)
-Tab.: ⟪उपनयनम्⟫
-"Adolescentem in ritus initiationis visum. Filum flavum tenue, a sinistra humero ad lumbos ductum, Yagnopaivta est. Cingulum quoque ex herba munja circa lumbos notetur. Ramusculus in dextra manu (ex arbre peepa fere), signum est eius ingressus in Brahmacharya."
+Fig.: ⟪उपनयनम्⟫
+"Puer videtur in ritu upanayana. Filum flavescens, tenue, a sinistro humero ad lumbos tendens est Yagnopaivta. Item notare cingulum ex herba munja circa lumbos. Ramusculus in dextra manu (solite arboris peepa) significat ingressum ad Brahmacharya."
 (Fons imaginis: [Detalia](/la/licenses#lekt1801))
 :::
-## 18.4. Lexicon verborum
+## 18.4. Vocabularium
 
 ⟪सुष्टु⟫ 3: laudatus, excellens, bonus
 
-⟪शोभन⟫ 3: splendidus, magnificus, pulcher, formosus, bonus
+⟪शोभन⟫ 3: nitens, pulcher, magnificus, formosus, bonus
 
-⟪सम⟫ 3: aequalis, idem, similis (caso instrumental)
+⟪सम⟫ 3: aequalis, similis (cum Instrumentali)
 
 ⟪व्याधि⟫ m.: morbus
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫ , fictor
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , fallax
 
-⟪वह्नि⟫ m. = ⟪अग्नि⟫
-
-⟪ज्ञान⟫ n.: cognitio
+⟪वह्नि⟫ m. = ⟪अग्नि ज्ञान⟫ n.: cognitio
 
 ⟪शूर⟫ 3: fortis, heroicus ; m.: heros
 
-⟪शब्द⟫ m.: vox, sonus, sonus significativus: verbum
+⟪शब्द⟫ m.: vox, sonus, signum: verbum
 
 ⟪उदक⟫ n.: aqua
 
@@ -304,25 +282,23 @@ Tab.: ⟪उपनयनम्⟫
 
 ⟪आदि⟫ m.: initium
 
-⟪दण्ड⟫ m.: baculus, virga, poena
+⟪दण्ड⟫ m.: baculus, verbera, poena
 
 ⟪मात्रा⟫ f. ⟪मात्र⟫ n.: mensura, terminatio
 
 ⟪सहित⟫ 3: coniunctus, ornatus
 
-⟪हस्त⟫ m.: Manus
+⟪हस्त⟫ m.: manus
 
 ⟪प्रभृति⟫ f.: initium
 
-## 18.5. Exercitium
+## 18.5. Exercitatio
 
-A) Versione ⟪सुभाषित⟫ initium lectionis.
+A) Traducite ⟪सुभाषित⟫ ad initium lectionis positum.
 
-B) Versa Tatpuruṣa sequentia:
+B) Traducite haec Tatpuruṣa:
 
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫
-
-⟪२⟫. ⟪सुकुल⟫ n.
+⟪१⟫. ⟪सुकर ३ २⟫. ⟪सुकुल⟫ n.
 
 ⟪३⟫. ⟪सुकृती⟫ f.
 
@@ -382,11 +358,11 @@ B) Versa Tatpuruṣa sequentia:
 
 ⟪३१⟫. ⟪अमृत⟫ n.
 
-## 18.6. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 18.6. Exercitatio repetitiva
 
 Nihil adiutorii utere!
 
-A) Solvite haec composita in Sanscrito et date versiones:
+A) Haec composita in Sanscrito resolve et versiones propone:
 
 ⟪१⟫. ⟪अन्तगत⟫ 3
 
@@ -408,43 +384,32 @@ A) Solvite haec composita in Sanscrito et date versiones:
 
 ::: media
 ![](/images/lekt1802.webp)
-Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
-1770 Impressum
+Abb.: ⟪मृतिसाधनी काली⟫
+1770 Printum
 (Fons imaginis: [Detalia](/la/licenses#lekt1802))
 :::
-B) Versiones facite, utentes verbis classis secundae praesentis:
+B) Translate sub usu verborum classis praesentis secundae:
 
 1\. Brahmana deas laudat.
 
-2\. Heroēs per viam arduam in vicum Āryānōrum pergunt.
+2\. Heroes in vicum Ariorum per viam arduam ambulant.
 
-3\. Ancilla domus vaccae mulget.
+3\. Ancilla vaccas mulget.
 
-4\. Hostes Ariorum Kṣatriyas potentes caedunt. <!-- TODO: Fallback translation -->
+4\. Hostes Ariorum potentis Kṣatriyas caedunt.
 
-5\. Spectrum fructus non ed
+5\. Spectrum nullam frugem comedit.
 
-6\. Ita loquitur is, qui [iter per redivivam vitam bene egressus est] ad discipulum.
+6\. Ita loquitur qui [iter per regenerations bene abiit] ad discipulum.
 
 ::: media
 ![](/images/lekt1803.webp)
-Fig.: ⟪सुगतः⟫
-⟪गन्धार⟫ saec. I/II p. Chr.
+Abb.: ⟪सुगतः गन्धार⟫ 1./2. saec. p.Chr.n.
 (Fons imaginis: [Detalia](/la/licenses#lekt1803))
 :::
-C) Dicitis Sanscritice definitionem Yoga per duo modis: semper per compositum, semper soluto composito.
+C) Da Sanscritice definitionem Yoga duabus modis: semel sub usu compositi, semit dum compositum resolvitis.
 
 D) Translate:
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
 
-::: deleteme-box
-
-**lekt1801:** "Puer iuvenis in ritū upanayana visus est. Filum flavum, tenue, a sinistra humero ad ventrem extendens, Yagnopaivta est. Cingulum quoque ex herba munja circa ventrem notetur. Ramusculus in dextra manu (ex arbre peepa fere), signum est introitus eius in Brahmacharya." [Fontes imaginis: Nagesh Rao / Wikipedia, Licentia GNU FD]
-
-**lekt1802:** 1770 Impressum [Fontes imaginis: Wikipedia, Dominium publicum]
-
-**lekt1803:** ⟪गन्धार⟫ saec. I./II. p. Chr. [Imago: Wikipedia, dominio publico]
-
-**lekt1804:** Nuptiae = ⟪विवाह⟫ m., eventus momenti संस्कारः [Imago: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Accessus 2008-12-08. -- Licentia Creative Commons (Attributio, usus non-commercialis, nulla modificatio)]
-:::

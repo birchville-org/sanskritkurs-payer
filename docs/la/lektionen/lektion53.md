@@ -342,13 +342,13 @@ Tab.: ⟪पितापुत्रौ⟫
 :::
 ⟪कतर⟫ 3 "qui uterque" et ⟪कतम⟫ 3 "qui plures" in omnibus casibus ut ⟪यद्⟫ declinantur.
 
-## 53.7. Pronominaladjektive <!-- TODO: Fallback translation -->
+## 53.7. Pronominaladjektive
 
 Quae adiectiva pronominalia omnibus casibus declinantur ut ⟪यद्⟫:
 
 *   ⟪अन्य⟫ 3 "alter"
 *   ⟪अन्यतर⟫ 3 "uterque (ex duobus)"
-*   ⟪इतर⟫ 3 "alter" <!-- TODO: Fallback translation -->
+*   ⟪इतर⟫ 3 "alter"
 
 *   ⟪सर्व⟫ 3 "quisque, omnis" omnibus casibus declinatur praeter Nom.Akk.sg.n (⟪सर्वम्⟫) ut ⟪यद्⟫.
 *   ⟪उभय⟫ 3 "uterque" non habet Dualis. In singulari et plurali masculini et neutralis ut ⟪सर्व⟫ declinatur. Femininum: ⟪उभयी⟫ (ut ⟪देवी⟫).
@@ -368,7 +368,7 @@ Quae adiectiva pronominalia ut ⟪सर्व⟫ declinantur. In Abl.Lok.sg.m.n
 **Numerus adiectivorum comparativum vel superlativum hisce ⟪कृत्⟫-suffixis format:**
 
 *   Comparativum: **-īyas**
-*   Superlativus: **-iṣṭha** <!-- TODO: Fallback translation -->
+*   Superlativus: **-iṣṭha**
 
 **Quum suffixa ⟪तद्धित⟫ -⟪तर⟫ et -⟪तम⟫ ad radicem masculinam adiectivi adiungantur, suffixa -⟪ईयस्⟫ et -⟪इष्ठ⟫ ad radicem adiunguntur, ex qua adiectivum derivatur (si talis radix existat!). Vocalis radicalis est accentu alta.**
 
@@ -376,7 +376,7 @@ Quae adiectiva pronominalia ut ⟪सर्व⟫ declinantur. In Abl.Lok.sg.m.n
 
 **Deklination von -īyas siehe unten.**
 :::
-Exempla: <!-- TODO: Fallback translation -->
+Exempla:
 
 ::: grammar-box
 | Radix | Adiectivum | Comparativus | Superlativus |
@@ -456,7 +456,7 @@ Imāgō: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "antīquus") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "antīquus") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declinātiō comparatīvōrum in -īyas <!-- TODO: Fallback translation -->
+## 53.9. Declinātiō comparatīvōrum in -īyas
 
 ::: grammar-box
 **Comparativa in -īyas formant femininum in -īyasī (declinatio ut ⟪देवी⟫). Masculinum et Neutrum secundum sequens paradigma declinantur.**
@@ -534,7 +534,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   item si ante consonantium copiam stat
 *   atque si syllaba in fine quarti versus (Pāda) ponitur."
 ::: grammar-box
-**Syllaba est** <!-- TODO: Fallback translation -->
+**Syllaba est**
 
 *   aut **⟪लघु⟫ = levis**
 *   aut **⟪गुरु⟫ = gravis**
@@ -544,9 +544,9 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   eius vocalis brevis est et huic vocale
 *   kein Anusvāra,
 *   nullus Visargah,
-*   non duae consonantes sequuntur. <!-- TODO: Fallback translation -->
+*   non duae consonantes sequuntur.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
+Kurze Vokale sind a, i, u, ṛ, ḷ
 
 **Ceterae syllabae sunt ⟪गुरु⟫ = graves. Ultima syllaba dimetris (⟪पाद⟫) semper habetur pro ⟪गुरु⟫.**
 
@@ -635,19 +635,5 @@ Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-**Fontes**
-
-**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
-
-Finitum feliciter 1984-02-15  
-Editio interretialis feliciter finita 2009-01-19  
-Alois Maria Payer  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
-:::
-::: deleteme-box
-
-**Payer, Alois (1944–):** Sanskritcursus. -- 53. Lectiones 53 (Vacationes semestriales). -- Versio diei 2009-01-19. -- Fons imaginis tabulae originalis 53.9: Screenshot fontis originalis (Payer).
 :::
 

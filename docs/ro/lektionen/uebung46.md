@@ -78,7 +78,7 @@ Cineva care renunță la dorințe și este mulțumit de sine, prin sine, este nu
 
 ⟪२⟫. **⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫**  
 **⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Din mânie provine orbirea, din orbire, confuzia atenției (amintirii); din pierderea atenției urmează distrugerea înțelepciunii, iar prin distrugerea înțelepciunii se pierde. <!-- TODO: Fallback translation -->
+Din mânie provine orbirea, din orbire, confuzia atenției (amintirii); din pierderea atenției urmează distrugerea înțelepciunii, iar prin distrugerea înțelepciunii se pierde.
 
 ⟪३⟫. **⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Pentru cel necontrolat (non-yogin) nu există înțelepciune.
@@ -87,5 +87,5 @@ Pentru cel necontrolat (non-yogin) nu există înțelepciune.
 ![](/images/uebung080.webp)
 Fig.: ⟪सक्तः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung080))
-::: <!-- TODO: Fallback translation -->
+:::
 :::

@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lecția 49
 
@@ -173,7 +173,7 @@ Substantivele cu -is și -us sunt relativ rare.
 Fig.: ⟪नमस्ते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4907))
 :::
-## 49.4. Listă de cuvinte <!-- TODO: Fallback translation -->
+## 49.4. Listă de cuvinte
 
 ⟪दीर्घ⟫ 3: lung
 
@@ -231,7 +231,7 @@ Inf. ⟪द्रोग्धुम्⟫
 Fig.: ⟪कुलूहलम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: întreg, complet <!-- TODO: Fallback translation -->
+⟪कृत्स्न⟫ 3: întreg, complet
 
 ⟪परिचय⟫ m.: cunoaștere, familiaritate
 
@@ -243,7 +243,7 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, sec. al XI-lea
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: dorință <!-- TODO: Fallback translation -->
+⟪वर⟫ m.n.: dorință
 
 ⟪उत⟫ Indekl.: și, de asemenea, sau
 
@@ -274,7 +274,7 @@ Văzător cu papagal în cușcă: papagalul scoate bilețele pe care este scris 
 :::
 ⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: cel mai jos nivel al [Dalitilor](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: însuși, de la sine <!-- TODO: Fallback translation -->
+⟪स्वयम्⟫ Indekl.: însuși, de la sine
 
 ⟪अवनि⟫ f.: pământ
 
@@ -299,7 +299,7 @@ Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. <!-- TODO: Fallback translation -->
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
 ⟪परम⟫ 3: cel mai îndepărtat, cel mai înalt ; ⟪पञ्चम्या⟫ : mai bun decât, mai sus decât
 
@@ -370,28 +370,7 @@ Determinați următoarele forme:
 Fig.: ⟪शुकः⟫
 Papagal cu cap de prună = Psittacula cyanocephala
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4908))
-::: <!-- TODO: Fallback translation -->
-
 :::
-::: deleteme-box
-
-**lekt4907:** [Sursa imaginii: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, share alike)]
-
-**lekt4901:** [Sursa imaginii: younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Accesat la 2009-01-11. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribuire, fără modificări)]
-
-**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, secolul al XI-lea. [Sursa imaginii: Vassil / Wikipedia. Domeniu public]
-
-**lekt4903:** [Sursa imaginii: Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Accesat la 2009-01-11. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
-
-**lekt4904:** ⟪वाराणस्याम्⟫ [Sursa imaginii: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Accesat la 2009-01-11. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, share alike)]
-
-**lekt4909:** Vrăjitor cu papagal în cușcă: papagalul extrage bilețele pe care este scris destinul Mysore [Sursa imaginii: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Accesat la 2009-01-12. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
-
-**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Sursa imaginii: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Accesat la 2009-01-11. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
-
-**lekt4906:** Sri Lanka [Sursa imaginii: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Accesat la 2009-01-11. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, utilizare non-comercială, fără modificări)]
-
-**lekt4908:** Papagal cu cap de prună _= Psittacula cyanocephala_[Sursa imaginii: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Accesat la 2009-01-12. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, partajare identică)]
 
 :::
 

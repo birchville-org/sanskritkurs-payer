@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 20
 
-A) Käännä ja ratkaise sanskritinkieliset yhdyssanat: <!-- TODO: Fallback translation -->
+A) Käännä ja ratkaise sanskritinkieliset yhdyssanat:
 
 ⟪१⟫. ⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
 ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪ऽनार्या⟫ ⟪देवानामिन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪।⟫ (tai: ⟪इन्द्रस्य⟫ ⟪शत्रव⟫ ⟪एवानार्या⟫...)
@@ -52,10 +52,10 @@ Vedoihin vihitty poika kunnioittaa Śivaa ja muita jumalia.
 ⟪बुद्धं⟫ ⟪गता⟫ ⟪दुःखमादिर्येषां⟫ ⟪तानि⟫ ⟪सत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 Buddhan luo menneet kuulevat kärsimyksen totuuden ja muut (jalot) totuudet.
 
-B) Käännä sanskritiksi käyttäen yhdyssanoja: <!-- TODO: Fallback translation -->
+B) Käännä sanskritiksi käyttäen yhdyssanoja:
 
 1\. Kṣatriya, joka ei pidä sauva kädessään, ei suojella kansaa.
-⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (tai: ⟪जनान्रक्षति⟫ ⟪।⟫) <!-- TODO: Fallback translation -->
+⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (tai: ⟪जनान्रक्षति⟫ ⟪।⟫)
 
 2\. Kālidāsa ja muut runoilijat ovat sanskritin opettajia.
 ⟪संस्कृतगुरवः⟫ ⟪कालिदासादिक्वयः⟫ ⟪।⟫
@@ -69,12 +69,12 @@ B) Käännä sanskritiksi käyttäen yhdyssanoja: <!-- TODO: Fallback translatio
 ::: media
 ![](/images/uebung031.webp)
 Kuv.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
-(Kuv lähde: [Yksityiskohdat](/licenses#uebung031)) <!-- TODO: Fallback translation -->
+(Kuv lähde: [Yksityiskohdat](/licenses#uebung031))
 
 :::
 ---
 
-## Yhdistelmien analyysi <!-- TODO: Fallback translation -->
+## Yhdistelmien analyysi
 
 Ratkaise seuraavat yhdistelmät bahuvrīhi- ja/tai dvandva- ja/tai tatpuruṣa-yhdistelminä kaikilla sinusta mahdollisilta tavoittain sanskritiksi.
 
@@ -225,7 +225,7 @@ Ratkaise seuraavat yhdistelmät bahuvrīhi- ja/tai dvandva- ja/tai tatpuruṣa-y
 
 ⟪७३⟫. ⟪जातक्रोधः⟫ ⟪।⟫ ⟪जातः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
 
-⟪७४⟫. ⟪दृष्टमात्रः⟫ ⟪।⟫ kun hän on nähty <!-- TODO: Fallback translation -->
+⟪७४⟫. ⟪दृष्टमात्रः⟫ ⟪।⟫ kun hän on nähty
 
 ⟪७५⟫. ⟪भूतकालः⟫ ⟪।⟫ menneisyys
 
@@ -246,7 +246,7 @@ Ratkaise seuraavat yhdistelmät bahuvrīhi- ja/tai dvandva- ja/tai tatpuruṣa-y
 Kuva: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung030))
 :::
---- <!-- TODO: Fallback translation -->
+---
 
 ## Scholarly Fragments
 
@@ -257,16 +257,12 @@ Mielen selvittäminen tapahtuu ystävällisen hyvän tahdon, myötätunnon, ilon
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
 Teon jooga on asketismia, vedatutkimusta ja tarkkaavaisuutta HERRALLE. Sen tavoitteena on keskittymisen kehittäminen ja "kivun" heikentäminen.
 
-::: deleteme-box Erläuterung
-Viisi "kivua" (⟪क्लेश⟫) ovat: ⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫ (Yoga-Sūtra 2.3) — tiedon puute, minäkeskeisyys, ahneus, viha ja kehoon kiinnittyminen.
-
-:::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 Ihmisen korkein päämäärä on, että kolminkertainen kärsimys katoaa täysin. (*Kolminkertainen kärsimys: itsestä, esineistä, jumalilta.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२२⟫ ⟪॥⟫  
-Kärsimystä merkitsee ahdistus. Vapautuminen on täydellinen vapautuminen siitä. <!-- TODO: Fallback translation -->
+Kärsimystä merkitsee ahdistus. Vapautuminen on täydellinen vapautuminen siitä.
 
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫  
 ⟪नैव⟫ ⟪वर्णाश्रमादीनां⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫  
@@ -294,11 +290,11 @@ Keskeltä hoikka, lantiolta leveä, punaiset huulet, mustat silmät, kaareva nav
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫  
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
-Köyhät, joita hän ei halua, saavat hyvin paljon poikia; rikkailla ei ole yhtään poikaa. Luomakunnan kulku on outoa. <!-- TODO: Fallback translation -->
+Köyhät, joita hän ei halua, saavat hyvin paljon poikia; rikkailla ei ole yhtään poikaa. Luomakunnan kulku on outoa.
 
 ::: media
 ![](/images/uebung032.webp)
 Kuv.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung032))
-::: <!-- TODO: Fallback translation -->
+:::
 :::
