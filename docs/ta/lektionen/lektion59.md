@@ -5,7 +5,7 @@ lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # பாடம் 59
 

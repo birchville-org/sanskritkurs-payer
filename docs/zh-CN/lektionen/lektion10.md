@@ -217,7 +217,7 @@ status: stable
 * **tan-ya-te**, **tan-ya-nte**
 ⟪तन्यते⟫, ⟪तन्यन्ते⟫
 * **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (源自 \*tn-ya-nte) <!-- TODO: Fallback translation -->
+⟪तायते⟫, ⟪तायन्ते⟫ (源自 \*tn-ya-nte)
 
 ## 10.5. 词汇表
 
@@ -262,7 +262,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 - **anṛta** n. ⟪अनृत⟫ ：不真实，谎言（与 **satya** 相对）
 
   ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n. <!-- TODO: Fallback translation -->
+  Wortbildung **an-** („un-“) + **ṛta** n.
 
   **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
   :::
@@ -284,7 +284,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 
 ## 10.6. 练习
 
-**A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform):** <!-- TODO: Fallback translation -->
+**A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform):**
 
 1. **sṛjati** (⟪सृजति⟫)
 2. **yudhyate** (⟪युध्यते⟫)

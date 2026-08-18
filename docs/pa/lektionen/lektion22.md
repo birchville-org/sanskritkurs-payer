@@ -268,7 +268,7 @@ status: stable
 **lekt2203:** ਕੋਲਕਾਤਾ = কলকাতা [ਚਿੱਤਰ ਸਰੋਤ: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- 2008-12-12 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
 
 **lekt2204:** [ਚਿੱਤਰ ਸਰੋਤ: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- 2008-12-12 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
-::: <!-- TODO: Fallback translation -->
+:::
 
 
 :::

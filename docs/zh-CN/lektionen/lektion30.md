@@ -96,7 +96,7 @@ status: stable
 
 **dargestellt werden soll.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Beispiel:
 
 ::: indent
 ⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = “如果他离开村庄，他就听不到老师的话”

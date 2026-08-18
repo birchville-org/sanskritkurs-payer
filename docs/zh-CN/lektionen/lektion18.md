@@ -284,7 +284,7 @@ upa-nī + -ana = ⟪उपनयन⟫ 中性名词：引导（至祭火旁）= 
 
 ⟪शोभन⟫ 3: 光辉，壮丽，辉煌，美丽，良好
 
-⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis) <!-- TODO: Fallback translation -->
+⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis)
 
 ⟪व्याधि⟫ m.: 疾病
 

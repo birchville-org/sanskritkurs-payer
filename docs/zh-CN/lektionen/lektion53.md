@@ -376,7 +376,7 @@ lesson_id: 53
 
 **Deklination von -īyas siehe unten.**
 :::
-示例： <!-- TODO: Fallback translation -->
+示例：
 
 ::: grammar-box
 | 词根 | 形容词 | 比较级 | 最高级 |
@@ -456,7 +456,7 @@ lesson_id: 53
 | （⟪वृद्ध⟫ 3 “老”） | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | （⟪वृद्ध⟫ 3 “老”） | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 第53课 9. 以 -īyas 结尾的比较级的变格 <!-- TODO: Fallback translation -->
+## 第53课 9. 以 -īyas 结尾的比较级的变格
 
 ::: grammar-box
 **以 -īyas 结尾的比较级，其阴性形式为 -īyasī（变格同 ⟪देवी⟫）。阳性与中性按以下范式变格。**
@@ -546,7 +546,7 @@ lesson_id: 53
 *   无 visarga（火点），
 *   不跟两个辅音。
 
-Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
+Kurze Vokale sind a, i, u, ṛ, ḷ
 
 **所有其他音节均为 ⟪गुरु⟫ = 重。诗节四分之一处的最后一个音节（⟪पाद⟫）始终视为 ⟪गुरु⟫。**
 

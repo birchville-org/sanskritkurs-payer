@@ -5,7 +5,7 @@ lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # பாடம் 17
 
@@ -81,7 +81,7 @@ status: stable
 | 3\. sg. பிரேச. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. பிரேச. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. பிரேச. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. பிரேச. Ā | ⟪दुहते⟫ (duh-ate) | <!-- TODO: Fallback translation -->
+| 3\. pl. பிரேச. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
 ⟪हन्⟫ 2 P "அடி, அடித்துக் கொல்ல, கொல்ல"
@@ -230,7 +230,7 @@ status: stable
 
 | | |
 | :--- | :--- |
-| 3\. sg. பெயர்ச்சொல். P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | <!-- TODO: Fallback translation -->
+| 3\. sg. பெயர்ச்சொல். P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
 ## 17.6. சொற்களஞ்சியம்

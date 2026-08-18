@@ -441,7 +441,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 图：⟪वरुणः⟫
 （图片来源：[详情](/licenses#lekt1003)）
 :::
-- **anṛta** n. ⟪अनृत⟫：虚假，谎言（与 **satya** 相对） <!-- TODO: Fallback translation -->
+- **anṛta** n. ⟪अनृत⟫：虚假，谎言（与 **satya** 相对）
 
 
 ::: note-box
@@ -3816,7 +3816,7 @@ PPP ⟪परिभूत⟫ 3：被击败，受辱，贬低
 
 ⟪अद्य⟫ : heute
 
-⟪लघु⟩ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz（在表达中） <!-- TODO: Fallback translation -->
+⟪लघु⟩ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz（在表达中）
 
 ⟪व्याकरण⟫ n.: Grammatik (zu ⟪व्याकृ⟫)
 
@@ -4774,7 +4774,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2903**: ⟪परिव्राजकाः⟫ Pushkar = ⟪पुष्कर⟫ [图片来源：pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- 访问日期：2008-12-20. -- Creative Commons 许可（署名，非商业性使用，相同方式共享）]
 
-**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ Hamilton [图片来源：Khalid Mahmood / 维基百科。GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ Hamilton [图片来源：Khalid Mahmood / 维基百科。GNU FDLicense]
 
 **lekt3001**: ⟪क्रीणन्ति⟫ ⟪विक्रीनते⟫ ⟪च⟫ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [图片来源：earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- 访问日期：2008-12-21. -- Creative Commons 许可（署名，非商业性使用，禁止演绎）]
 
@@ -4979,7 +4979,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [图片来源：Kounosu / Wikipedia. GNU FDLicense]
 
-**lekt5105**: ⟪कृष्णमृगः⟫ 黑羚 -- _Antilope cervicapra_ L., 雄性 [图片来源：Wikipedia, public domain] <!-- TODO: Fallback translation -->
+**lekt5105**: ⟪कृष्णमृगः⟫ 黑羚 -- _Antilope cervicapra_ L., 雄性 [图片来源：Wikipedia, public domain]
 
 **lekt5106**: ⟪ऋतुः⟫ “根据OGINO方法计算26至30天周期内易孕期的图表表示... [文本与图片来源：Roche Lexikon Medizin. 在线地址：http://www.gesundheit.de/roche/ro20000/r20172.html. 访问日期：2003-12-16]
 

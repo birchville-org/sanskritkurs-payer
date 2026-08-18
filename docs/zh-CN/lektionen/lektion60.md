@@ -169,7 +169,7 @@ status: stable
 
 **Wenn der schwache Perfektstamm nur aus einer Silbe besteht, wird der Bindevokal -i- angehängt. Bei einigen Perfektformen ist der Bindevokal optional.**
 :::
-例如： <!-- TODO: Fallback translation -->
+例如：
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ “分裂者” |
 | --- | --- |

@@ -381,9 +381,9 @@ B) ਸੰਸਕ੍ਰਿਤ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ:
 
 **lekt4306.jpg**: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- 6 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਸਾਂਝਾ ਕਰੋ)
 
-**lekt4307.jpg**: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- 6 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਤਬਦੀਲੀ ਨਹੀਂ) <!-- TODO: Fallback translation -->
+**lekt4307.jpg**: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- 6 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਤਬਦੀਲੀ ਨਹੀਂ)
 
-**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
+**lekt4308.jpg**: G.-U. Tolkiehn / Wikipedia. GNU FDLicense
 
 **lekt4309.jpg**: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2178184852/. -- 7 ਜਨਵਰੀ 2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ। -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਕੋਈ ਤਬਦੀਲੀ ਨਹੀਂ)
 :::

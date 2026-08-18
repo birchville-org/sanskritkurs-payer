@@ -1429,7 +1429,7 @@ Abb.: ⟪मूलानि⟫
 > ![](/images/lekt2503.webp)
 > Abb.: ⟪लिप्तिः⟫
 > (Bildquelle: [Details](/licenses#lekt2503))
-> ::: <!-- TODO: Fallback translation -->
+> :::
 
 
 ⟪वर्ष⟫ n.,m.: மழை, மழைக்காலம், ஆண்டு
@@ -1603,7 +1603,7 @@ PPP **vinna** / **vitta**
 சாரணை **kāmyate**
 காரணை **kāmayati**
 PPP **kānta** (!)
-வினைநிலை **kāmayitum** / **kamitum** <!-- TODO: Fallback translation -->
+வினைநிலை **kāmayitum** / **kamitum**
 
 ::: media
 ![](/images/lekt2804.webp)
@@ -4292,7 +4292,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt1304**: ⟪अन्नम्⟫, கர்நாடகா (கர்நாடக), 2005 [படத்தின் மூலம்: விக்கிப்பீடியா, பொது உடைமை]
 
-**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [படத்தின் மூலம்: விக்கிப்பீடியா, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [படத்தின் மூலம்: விக்கிப்பீடியா, GNU FDLicense]
 
 **lekt1405**: ⟪दीपाः⟫ [படத்தின் மூலம்: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- 2008-12-01 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
@@ -4300,7 +4300,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt1505**: இந்திரா மற்றும் சாசி தெய்வீக யானை அயிராவதத்தை ஏற்றிச் செல்வது, பஞ்சகல்யானகாவிலிருந்து ஒரு பக்கம் (ஜீன ரிஷபநாதா [அதிநாதா] வாழ்க்கையில் ஐந்து அருமையான நிகழ்வுகள்), தோராயமாக 1670-1680 வரை வரைபடம்; நீர்வண்ணம், ஒளிர்வு நீர்வண்ணம், பொன், மற்றும் வெள்ளி, காகிதத்தில், படிமம்: 9 1/8 x 15 1/8 அங்குலம் (23.18 x 38.42 செ.மீ); தாள்: 10 5/8 x 16 3/4 அங்குலம் (26.99 x 42.55 செ.மீ. செய்யப்பட்டது: இந்தியா, ராஜஸ்தான், அம்பர் [படத்தின் மூலம்: விக்கிப்பீடியா, பொது உடைமை]
 
-**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [படத்தின் மூலம்: விக்கிப்பீடியா, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [படத்தின் மூலம்: விக்கிப்பீடியா, GNU FDLicense]
 
 **lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) பந்தவகர் தேசியப் பூங்கா (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [படத்தின் மூலம்: அமெரிக்க மீன் மற்றும் வனவிலங்கு சேவை / விக்கிப்பீடியா, பொது உடைமை]
 
@@ -4312,13 +4312,13 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt1703**: ⟪घाताः⟫ பெங்களூரு = பெங்களூரு [படத்தின் மூலம்: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- 2008-12-07 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை)]
 
-**lekt1701**: ⟪योगासनम्⟫ [பட மூலம்: tlongacre வால். -- http://www.flickr.com/photos/tlongacre/2177187487/. -- 2008-12-07 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், திருத்தம் இல்லை)] <!-- TODO: Fallback translation -->
+**lekt1701**: ⟪योगासनम्⟫ [பட மூலம்: tlongacre வால். -- http://www.flickr.com/photos/tlongacre/2177187487/. -- 2008-12-07 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், திருத்தம் இல்லை)]
 
 **lekt1702**: ⟪दोग्धि⟫ [பட மூலம்: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- 2008-12-07 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, பகிர்வு ஒரே மாதிரியானது)]
 
 **lekt1809**: ⟪कामः⟫ ⟪कामसूत्र⟫ க்கான வரைவு [பட மூலம்: Wikipedia, பொது துறை]
 
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [பட மூலம்: Sudarshan Bhat Khandige / Wikipedia, பொது துறை] <!-- TODO: Fallback translation -->
+**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [பட மூலம்: Sudarshan Bhat Khandige / Wikipedia, பொது துறை]
 
 **lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [பட மூலம்: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- 2008-12-08 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, திருத்தம் இல்லை)]
 
@@ -4342,7 +4342,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt2405**: ⟪अलंकारः⟫ [பட மூலம்: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- 2008-12-14 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, திருத்தம் இல்லை)]
 
-**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [பட மூலம்: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- 2008-12-14 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை)] <!-- TODO: Fallback translation -->
+**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [பட மூலம்: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- 2008-12-14 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை)]
 
 **lekt2407**: ⟪ऊहापोहः⟫ "நியூ டெல்லி/இந்தியா, 16நவ08 - சுஹாசினி ஹைதர், CNN-IBN வலயத்தின் துணை வெளிவிவகார ஆசிரியர் 18, இந்தியா, 2008 நவம்பர் 16-18 அன்று நியூ டெல்லியில் நடைபெற்ற உலக பொருளாதார மன்றத்தின் இந்திய பொருளாதார உச்சிமாநாட்டில் ஒரு கலந்துரையாடல் மேடைக்குத் தலைமை வகிக்கிறார்." [படத்தொகுப்பு: உலக பொருளாதார மன்றம் / டானா ஸ்மிலியின் புகைப்படம். --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- 2008-12-14 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், பகிர்வு ஒரே மாதிரி)]
 
@@ -4430,7 +4430,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt3403**: ⟪तिलाः⟫ [படத்தின் மூலம்: Wikipedia. பொது உரிமை]
 
-**lekt3404**: ⟪तिलाः⟫ [படத்தின் மூலம்: Franz Xaver / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt3404**: ⟪तिलाः⟫ [படத்தின் மூலம்: Franz Xaver / Wikipedia. GNU FDLicense]
 
 **lekt3402**: ⟪स्वर्णम्⟫ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿਬ, Amritsar = ਅੰਮ੍ਰਿਤਸਰ [படத்தின் மூலம்: Wikipedia. GNU FDLicense]
 
@@ -4438,11 +4438,11 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt3502**: ⟪क्रामन्ति⟫ [படத்தின் மூலம்: Curt Carnemark / உலக வங்கி. -- http://www.flickr.com/photos/worldbank/2182732473/. -- 2008-12-28 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
-**lekt3501**: ⟪जगुः⟫ Kaadu Malleswara Temple, Bangalore = ಬೆಂಗಳೂರು [படத்தின் மூலம்: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- 2008-12-28 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை)] <!-- TODO: Fallback translation -->
+**lekt3501**: ⟪जगुः⟫ Kaadu Malleswara Temple, Bangalore = ಬೆಂಗಳೂರು [படத்தின் மூலம்: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- 2008-12-28 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை)]
 
-**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [படத்தின் மூலம்: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- 2008-12-28 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை)] <!-- TODO: Fallback translation -->
+**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [படத்தின் மூலம்: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- 2008-12-28 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை)]
 
-**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [படத்தின் மூலம்: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- 2008-12-28 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, ஒத்த அனுமதி)] <!-- TODO: Fallback translation -->
+**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [படத்தின் மூலம்: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- 2008-12-28 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, ஒத்த அனுமதி)]
 
 **lekt3603**: ⟪अनगार्यम्⟫ வடகிழக்கு தாய்லாந்து = อีสาน [படத்தின் மூலம்: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- 2008-12-28 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
@@ -4516,11 +4516,11 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt4602**: ⟪नवग्रहाः⟫ [⟪नवग्रह⟫ இன் படத்தின் மூலம்: ரெட்டிக்கர்எக்ஸ்வி / விக்கிப்பீடியா. ஜிஎன்யூ எஃப்டிஎல் அனுமதிப்பத்திரம்]
 
-**lekt4603**: ⟪नवग्रहाः⟫ [⟪नवग्रह⟫-இன் பட மூலம்: Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4603**: ⟪नवग्रहाः⟫ [⟪नवग्रह⟫-இன் பட மூலம்: Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4604**: ⟪नवग्रहाः⟫ [⟪नवग्रह⟫-இன் பட மூலம்: Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4604**: ⟪नवग्रहाः⟫ [⟪नवग्रह⟫-இன் பட மூலம்: Redtigerxyz / Wikipedia. GNU FDLicense]
 
-**lekt4605**: ⟪नवग्रहाः⟫ [⟪नवग्रह⟫-இன் பட மூலம்: Redtigerxyz / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt4605**: ⟪नवग्रहाः⟫ [⟪नवग्रह⟫-இன் பட மூலம்: Redtigerxyz / Wikipedia. GNU FDLicense]
 
 **lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, சு. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = உயர்ந்த பாம்பு அரசர்) [பட மூலம்: Wikipedia. பொது உடை]
 
@@ -4528,11 +4528,11 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt4608**: ⟪महामात्रः⟫ ⟪उदयपुर⟫ [பட மூலம்: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- 2009-01-08 அணுகல். -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை)]
 
-**lekt4609**: ⟪श्रान्तः⟫ கர்நாடகா = ಕರ್ನಾಟಕ [பட மூலம்: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- 2009-01-09 அணுகல். -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை)] <!-- TODO: Fallback translation -->
+**lekt4609**: ⟪श्रान्तः⟫ கர்நாடகா = ಕರ್ನಾಟಕ [பட மூலம்: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- 2009-01-09 அணுகல். -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை)]
 
-**lekt4610**: ⟪सङ्गः⟫ காமாரெட்டி = కామారెడ్డి [பட மூலம்: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- 2009-01-09 அணுகல். -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை)] <!-- TODO: Fallback translation -->
+**lekt4610**: ⟪सङ्गः⟫ காமாரெட்டி = కామారెడ్డి [பட மூலம்: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- 2009-01-09 அணுகல். -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை)]
 
-**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, பெங்களூரு = ಬೆಂಗಳೂರು [பட மூலம்: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- 2009-01-08 அணுகல். -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை)] <!-- TODO: Fallback translation -->
+**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, பெங்களூரு = ಬೆಂಗಳೂರು [பட மூலம்: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- 2009-01-08 அணுகல். -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை)]
 
 **lekt4611**: ⟪भोः⟫ கச்சு = ⟪कच्छ⟫ [பட மூலம்: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- 2009-01-09 அணுகல். -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை)]
 
@@ -4548,7 +4548,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt4807**: ⟪स्थविराः⟫ ⟪जोधपुर⟫ [பட மூலம்: zz77. -- http://www.flickr.com/photos/zz77/2256414024/. -- 2009-01-10 அணுகல். -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
-**lekt4808**: ⟪सूक्ष्मम्⟫ கரஞ்சி ஏரி = ಕಾರಂಜಿ ಕೆರೆ [பட மூலம்: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- 2009-01-10 அணுகல். -- Creative Commons அனுமதி (நிர்வாகம், பகிர்வு ஒத்த)] <!-- TODO: Fallback translation -->
+**lekt4808**: ⟪सूक्ष्मम्⟫ கரஞ்சி ஏரி = ಕಾರಂಜಿ ಕೆರೆ [பட மூலம்: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- 2009-01-10 அணுகல். -- Creative Commons அனுமதி (நிர்வாகம், பகிர்வு ஒத்த)]
 
 **lekt4809**: ⟪जाया⟫ [படம்: பையர்]
 
@@ -4562,7 +4562,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt4909**: ⟪पञ्जरम्⟫ வரலாற்றவாதி கிளி கிரீவத்தில்: கிளி விதி எழுதப்பட்ட காகிதங்களை இழுக்கிறது. மைசூர். [பட மூலம்: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- 2009-01-12 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு)]
 
-**lekt4905**: ⟪सादरः⟫ அம்ரித்சர் = ਅੰਮ੍ਰਿਤਸਰ [பட மூலம்: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- 2009-01-11 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு)] <!-- TODO: Fallback translation -->
+**lekt4905**: ⟪सादरः⟫ அம்ரித்சர் = ਅੰਮ੍ਰਿਤਸਰ [பட மூலம்: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- 2009-01-11 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு)]
 
 **lekt4906**: ⟪गजशिशुः⟫ இலங்கை [பட மூலம்: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- 2009-01-11 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
@@ -4570,13 +4570,13 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt5002**: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫ மான்சூன் வருகை, பெங்களூர் ಬೆಂಗಳೂರು [பட மூலம்: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- 2009-01-12 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
-**lekt5005**: ⟪आदित्यः⟫ [பட மூலம்: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- 2009-01-12 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, share alike)] <!-- TODO: Fallback translation -->
+**lekt5005**: ⟪आदित्यः⟫ [பட மூலம்: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- 2009-01-12 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, share alike)]
 
 **lekt5003**: ⟪कल्याणी⟫ [பட மூலம்: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- 2009-01-12 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
-**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [பட மூலம்: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [பட மூலம்: Kounosu / Wikipedia. GNU FDLicense]
 
-**lekt5105**: ⟪कृष्णमृगः⟫ மான்-புலி -- _Antilope cervicapra_ L., ஆண் [பட மூலம்: Wikipedia, பொது உரிமை] <!-- TODO: Fallback translation -->
+**lekt5105**: ⟪कृष्णमृगः⟫ மான்-புலி -- _Antilope cervicapra_ L., ஆண் [பட மூலம்: Wikipedia, பொது உரிமை]
 
 **lekt5106**: ⟪ऋतुः⟫ "26-30 நாள் சுழற்விடைவெளிகளுக்கு OGINO முறையின்படி கருவுற்ற நாட்களைக் கணக்கிட கணித வரைபடம்... [உரை மற்றும் படத்திற்கான மூலம்: Roche Lexikon Medizin. ஆன்லைன்: http://www.gesundheit.de/roche/ro20000/r20172.html. 2003-12-16 அன்று அணுகப்பட்டது]
 
@@ -4602,9 +4602,9 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt5118**: ⟪मणिः⟫ Hope Diamond Guntur = ಗುಂತூರು இலிருந்து, இன்று Smithsonian Museum of Natural History, Washington DC [படத்தொகுப்பு: David Bjorgen / Wikipedia. GNU FDLicense]
 
-**lekt5117**: ⟪मदः⟫ [படத்தொகுப்பு: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- 2009-01-13 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, share alike)] <!-- TODO: Fallback translation -->
+**lekt5117**: ⟪मदः⟫ [படத்தொகுப்பு: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- 2009-01-13 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, share alike)]
 
-**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [படத்தொகுப்பு: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- 2009-01-16 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு)] <!-- TODO: Fallback translation -->
+**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [படத்தொகுப்பு: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- 2009-01-16 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு)]
 
 **lekt5212**: ⟪पीडिताः⟫ ஹைதராபாத் = హైదరాబాద్ [படத்தொகுப்பு: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- 2009-01-16 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (பெயர் குறிப்பு, வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
@@ -4614,7 +4614,7 @@ PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 
 **lekt5208**: ⟪कदली⟫ ஹம்பி = ಹಂಪೆ [படத்தின் மூலம்: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- 2009-01-15 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம், வணிகரீதியான பயன்பாடு இல்லை, பகிர்வு ஒரே மாதிரியானது)]
 
-**lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [படத்தின் மூலம்: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- 2009-01-16 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம்)] <!-- TODO: Fallback translation -->
+**lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [படத்தின் மூலம்: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- 2009-01-16 அன்று அணுகப்பட்டது. -- Creative Commons அனுமதி (நிர்வாகம்)]
 
 **lekt5217**: மாரனின் புத்தர் அமராவதி மீதான தாக்குதல் = அமராவதி, கி.பி. 2. நூற்றாண்டு [படத்தின் மூலம். விகிப்பீடியா. GNU FDLicense]
 

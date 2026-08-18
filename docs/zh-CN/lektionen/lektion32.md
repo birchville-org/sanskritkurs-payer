@@ -523,7 +523,7 @@ C) 翻译成梵文：
 
 38. 崇高的哈里是我的道路/目标，他将敌人送入天堂，让他的追随者知晓吠陀的真义，赐予众神不朽的食物，教导创造者（⟪विधि⟫）吠陀，并将大地稳固于水中。
 
-39. Viṣṇu zeigt sich seinen Anhängern。 <!-- TODO: Fallback translation -->
+39. Viṣṇu zeigt sich seinen Anhängern。
 
 40. 未予行使的统治，会产生鱼类的规范。
 

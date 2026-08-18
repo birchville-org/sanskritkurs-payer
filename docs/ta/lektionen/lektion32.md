@@ -1,7 +1,8 @@
 ---
-title: Lektion 32
+title: "பாடம் 32"
 lesson_id: 32
 status: stable
+
 ---
 
 # பாடம் 32

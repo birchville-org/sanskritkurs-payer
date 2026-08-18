@@ -282,7 +282,7 @@ C) 将练习B)中的句子进行转换，用未完成过去时（Imperfekta）�
 
 ::: deleteme-box
 
-**lekt3501:** Tempelmusiker Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC] <!-- TODO: Fallback translation -->
+**lekt3501:** Tempelmusiker Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC]
 
 **lekt3502:** Menschen, die gehen，塞内加尔。[图片来源：Curt Carnemark / 世界银行。CC BY-NC-ND]
 

@@ -93,7 +93,7 @@ status: stable
 ::: indent
 ⟪दृश्⟫ 第三人称单数 ⟨⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
 ⟪कृष्⟫ 第一人称/第六类 第三人称单数现在时 ⟨�अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫

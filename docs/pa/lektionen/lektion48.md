@@ -1,10 +1,11 @@
 ---
-title: Lektion 48
+title: "ਪਾਠ 48"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 48

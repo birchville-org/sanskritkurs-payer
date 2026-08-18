@@ -34,7 +34,7 @@ status: stable
 **规则：**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. 第一现在时类（⟪भ्वादि⟫） <!-- TODO: Fallback translation -->
+### 39.2.1. 第一现在时类（⟪भ्वादि⟫）
 
 ⟪भू⟫ 1P
 
@@ -110,7 +110,7 @@ status: stable
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫形式的构成 <!-- TODO: Fallback translation -->
+### 39.3.1. ⟪अनिट्⟫形式的构成
 
 ⟪दा⟫ 3U
 

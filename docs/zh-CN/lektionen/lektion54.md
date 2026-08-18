@@ -117,7 +117,7 @@ c) ⟪उपजाति⟫
 ::: indent
 „Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā aufweisen, an einem Vers beteiligt sind, dann handelt es sich um Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti.“
 :::
-## 54.4. 练习 zur Metrik <!-- TODO: Fallback translation -->
+## 54.4. 练习 zur Metrik
 
 Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 

@@ -31,7 +31,7 @@ status: stable
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | <!-- TODO: Fallback translation -->
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
 ### 58.2.2. 第四类现在时 (⟪दिवादिगणः⟫)
 
@@ -286,7 +286,7 @@ status: stable
 
 **!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen).  
 :::
-词干构成后缀加上 iṣ-Aorist 的词尾，具体如下： <!-- TODO: Fallback translation -->
+词干构成后缀加上 iṣ-Aorist 的词尾，具体如下：
 
 ::: grammar-box
 

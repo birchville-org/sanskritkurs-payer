@@ -1,41 +1,42 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "பாடம் 16"
+subtitle: "இறுதி ஒலிப்புகளின் சந்தி"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # பாடம் 16
 
-## 16.1. வெளிச்சீர் சந்தி பற்றி
+## 16.1. ஓசை இணைப்பு (Sandhi) - கடைசி ஒலியாக வரும் உயிர்மெய் எழுத்துகள்
 
-ஒருமைச் சொற்களை உருவாக்க, அவற்றின் முன்சொல் ஒலிநிலை கொண்ட மூலச்சொற்களை உருவாக்க, பின்வரும் விதிகளைப் பயன்படுத்த வேண்டும்:
+முன் பகுதி உயிர்மெய் எழுத்துகளால் முடிவடையும் சொற்றொடர்களை உருவாக்க, பின்வரும் விதிகளைப் பயன்படுத்த வேண்டும்:
 
-கழிசொல் கழுத்து, மொழி, பல், உதடு ஒலிநிலை (அதாவது, மூக்கொலி அல்லது கீழ்நிலை அல்ல).
+கடைசியாக வரும் உயிர்மெய் எழுத்துகள் (குரல், மூக்கொலி அல்லது உதிர்பெயர் எழுத்துகள் அல்ல).
 
 ::: no-header
 
 |   |   |
 | :--- | :--- |
-| **நிறுத்தம் மற்றும் ஒலிநிலைக்கு முன்** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
-| **ஒலிநிலைக்கு முன்** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **மூக்கொலிக்கு முன்** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
+| **இடைநிலை மற்றும் மெல்லொலி எழுத்துகளுக்கு முன்** | **அவற்றிற்கு ஏற்பான மெல்லொலி அல்லாத ஒலியாக மாற்றுதல்:** :br **எடுத்துக்காட்டு:** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **குரல் உள்ள மூக்கொலி அல்லாத எழுத்துகளுக்கு முன்** | **அவற்றிற்கு ஏற்பான குரல் உள்ள அல்லாத ஒலியாக மாற்றுதல்:** :br **எடுத்துக்காட்டு:** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **மூக்கொலி எழுத்துகளுக்கு முன்** | **அவற்றிற்கு ஏற்பான மூக்கொலியாக மாற்றுதல்:** :br **எடுத்துக்காட்டு:** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
 மேலே உள்ள விதிக்கு விலக்கு:
 
-ஒலிநிலை கொண்ட ஒலிநிலை (மூக்கொலி அல்ல):
+கடைசியாக வரும் பல்வரிசை உயிர்மெய் எழுத்து (மூக்கொலி அல்ல):
 
 ::: no-header
 
 |   |   |
 | :--- | :--- |
-| **கீழ்நிலைக்கு முன்** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
-| **+ ś** | **» -cś- oder -cch-** |
-| **ஒலிநிலைக்கு முன்** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
+| **நுண்ணொலி எழுத்துகளுக்கு முன்** | **அதற்கேற்பான நுண்ணொலியாக மாற்றுதல்:** :br **அதாவது:** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+| **+ ś** | **» -cś- அல்லது -cch-** |
+| **பின்னொலி எழுத்துகளுக்கு முன்** | **அதற்கேற்பான பின்னொலியாக மாற்றுதல்:** :br **அதாவது:** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **l- க்கு முன்** | **-லாக மாற்றுதல்:** :br **அதாவது:** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 எடுத்துக்காட்டுகள்:

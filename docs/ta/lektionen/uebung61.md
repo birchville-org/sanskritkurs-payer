@@ -1,7 +1,8 @@
 ---
 title: "பயிற்சி 61"
 uebung_id: 61
-category: "பயிற்சி"
+category: "Übung"
+
 ---
 
 # பயிற்சி 61

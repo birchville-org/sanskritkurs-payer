@@ -1,7 +1,8 @@
 ---
-title: "ਅਭਿਆਸ 61"
+title: "ਅਭਿਆਸ ੬੧"
 uebung_id: 61
-category: "ਅਭਿਆਸ"
+category: "Übung"
+
 ---
 
 # ਅਭਿਆਸ 61

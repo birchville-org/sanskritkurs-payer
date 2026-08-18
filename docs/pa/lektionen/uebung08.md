@@ -188,7 +188,7 @@ kiṃ kāraṇam?
 ਕੁੜੀ ਘਰ ਵਿੱਚ ਦਾਖ਼ਲ ਹੁੰਦੀ ਹੈ⟪।⟫
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. <!-- TODO: Fallback translation -->
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 ਕੁੜਾ ਹਾਥੀ ਨੂੰ ਲੈ ਜਾਂਦਾ ਹੈ⟪।⟫

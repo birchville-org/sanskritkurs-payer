@@ -65,7 +65,7 @@ II型结构的构造比I型结构的构造罕见得多。
 
 ## 12.2. 关于PPP的意义
 
-Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in erster Linie eine passive Bedeutung hat (**āpta** = „erreicht (worden)“) und bei intransitiven Verben sowie Bewegungsverben eine aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann: <!-- TODO: Fallback translation -->
+Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in erster Linie eine passive Bedeutung hat (**āpta** = „erreicht (worden)“) und bei intransitiven Verben sowie Bewegungsverben eine aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann:
 
 例如：
 - **gata** = ⟪गत⟫ = “已去”（主动）；此外：**gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = “一条被走过的路”（被动）

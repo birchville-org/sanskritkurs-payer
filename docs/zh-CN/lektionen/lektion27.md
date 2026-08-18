@@ -5,7 +5,7 @@ lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # 第27课
 

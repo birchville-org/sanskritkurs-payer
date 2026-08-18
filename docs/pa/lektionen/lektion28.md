@@ -214,7 +214,7 @@ ISKCON ਮੰਦਰ ਬੈਂਗਲੌਰ।
 | ਜੜ੍ਹ | ਕਾਰਕ 3. ਸਿੰਗ. ਇੰਡੀਕੇਟਿਵ ਵਰਤਮਾਨ | ਅਰਥ |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | ਖੜ੍ਹਾ ਕਰਨਾ, ਲਗਾਉਣਾ |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | ਪੜ੍ਹਾਉਣ ਦਿੰਦਾ ਹੈ, ਸਿਖਲਾਈ ਦਿੰਦਾ ਹੈ | <!-- TODO: Fallback translation -->
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | ਪੜ੍ਹਾਉਣ ਦਿੰਦਾ ਹੈ, ਸਿਖਲਾਈ ਦਿੰਦਾ ਹੈ |
 
 ::: grammar-box
 **ਅਨਿਯਮਿਤ ਨਿਰਮਾਣ:**
@@ -347,7 +347,7 @@ Inf. **kāmayitum** / **kamitum**
 ਚਿੱਤਰ: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ ਦੁਆਰਾ ਚਿੱਤਰ (1848 - 1906)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt2804))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ::: indent

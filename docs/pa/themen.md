@@ -1,17 +1,18 @@
 ---
 aside: false
 outline: false
+
 ---
 
-# Grammatik Index
+# ਵਿਆਕਰਣ ਸੂਚੀਪਤ੍ਰ
 
-ਵਿਆਕਰਣ ਸੂਚੀ ਸੰਸਕ੍ਰਿਤ ਕੋਰਸ ਤੋਂ ਸਾਰੇ ਵਿਆਕਰਣਕ ਮੁੱਦਿਆਂ ਅਤੇ ਘਟਨਾਵਾਂ ਨੂੰ ਸੂਚੀਬੱਧ ਕਰਦੀ ਹੈ ਅਤੇ ਖਾਸ ਪਾਠਾਂ ਤੇ ਤੁਰੰਤ ਪਹੁੰਚ ਸਕਦੀ ਹੈ।
+ਵਿਆਕਰਣ ਸੂਚੀਪਤ੍ਰ ਸੰਸਕ੍ਰਿਤ ਕੋਰਸ ਤੋਂ ਸਾਰੇ ਵਿਆਕਰਣਕ ਥੀਮਾਂ ਅਤੇ ਵਰਤਾਰਿਆਂ ਨੂੰ ਸੂਚੀਬੱਧ ਕਰਦਾ ਹੈ ਅਤੇ ਖਾਸ ਪਾਠਾਂ ਤੇ ਜਲਦੀ ਪਹੁੰਚ ਦੀ ਸਹੂਲਤ ਦਿੰਦਾ ਹੈ।
 
 <PayerTopicIndex />
 
 <style>
-/* Adjust layout for full width index */
-.VPDoc {
-  padding: 32px 48px 64px !important;
+/* ਪੂਰੀ ਚੌੜਾਈ ਵਾਲੇ ਸੂਚੀਪਤ੍ਰ ਲਈ ਵਿਵਸਥਾ ਨੂੰ ਠੀਕ ਕਰੋ */
+VPDoc {
+padding: 32px 48px 64px !important;
 }
 </style>

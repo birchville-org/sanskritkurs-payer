@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. முழுமை வகை I: மூலச்சொல் மாற்றம் இல்லை <!-- TODO: Fallback translation -->
+### 46.1.3. முழுமை வகை I: மூலச்சொல் மாற்றம் இல்லை
 
 இந்த வகையைப் பின்பற்றும் வினைச்சொற்கள்:
 
@@ -665,7 +665,7 @@ B) மொழிபெயர்க்கவும்:
 
 ::: deleteme-box
 
-நவகிரகப் படங்களின் மூலம்: Redtigerxyz / Wikipedia. GNU FDLicense <!-- TODO: Fallback translation -->
+நவகிரகப் படங்களின் மூலம்: Redtigerxyz / Wikipedia. GNU FDLicense
 
 L4607: ⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫ (⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, சு. 1870). மூலம்: Wikipedia. பொதுத் துறை
 

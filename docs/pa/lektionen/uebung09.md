@@ -95,7 +95,7 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्वि�
 ਵਿਆਖਿਆ:
 dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "ਦੋ ਵਾਰ ਜੰਮੇ ਹੋਏਆਂ ਦੇ ਸਾਹਮਣੇ")
 
-kārukuśīlavakarma ਇੱਕ Tatpuruṣa ਹੈ ਜਿਸਦੇ ਅਗਲੇ ਹਿੱਸੇ ਵਿੱਚ ਇੱਕ Dvandva (kārukuśīlava) ਹੈ⟪।⟫ karma = Nom. sg. zu karman n. "ਕੰਮ, ਗਤੀਵਿਧੀ, ਕਰਮ" zur Wurzel kṛ 8 U). "ਕੰਮ / ਗਤੀਵਿਧੀ ... (Genetiv)" ਦਾ ਅਨੁਵਾਦ ਕਰੋ (Dvandva ਦੁਆਰਾ ਦਰਸਾਏ ਗਏ)⟪।⟫ <!-- TODO: Fallback translation -->
+kārukuśīlavakarma ਇੱਕ Tatpuruṣa ਹੈ ਜਿਸਦੇ ਅਗਲੇ ਹਿੱਸੇ ਵਿੱਚ ਇੱਕ Dvandva (kārukuśīlava) ਹੈ⟪।⟫ karma = Nom. sg. zu karman n. "ਕੰਮ, ਗਤੀਵਿਧੀ, ਕਰਮ" zur Wurzel kṛ 8 U). "ਕੰਮ / ਗਤੀਵਿਧੀ ... (Genetiv)" ਦਾ ਅਨੁਵਾਦ ਕਰੋ (Dvandva ਦੁਆਰਾ ਦਰਸਾਏ ਗਏ)⟪।⟫
 
 ਦੋ ਵਾਰ ਜੰਮੇ ਹੋਏਆਂ ਦੇ ਸਾਹਮਣੇ ਅਧੀਨਤਾ, ਜੀਵਨ ਯਾਤਰਾ ਲਈ ਗਤੀਵਿਧੀਆਂ, ਕਾਰੀਗਰ ਵਜੋਂ ਗਤੀਵਿਧੀ ਜਾਂ ਘੁੰਮਣ ਵਾਲੇ ਪ੍ਰਦਰਸ਼ਕ⟪।⟫
 

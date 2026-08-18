@@ -1,8 +1,9 @@
 ---
-title: "ਅਭਿਆਸ 59"
+title: "ਅਭਿਆਸ ੫੯"
 uebung_id: 59
-category: "ਅਭਿਆਸ"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

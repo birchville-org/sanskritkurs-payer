@@ -419,7 +419,7 @@ E) மொழிபெயர்க்கவும்:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. <!-- TODO: Fallback translation -->
+Annapūrṇā ist eine Gottheit.
 
 2\. śūdretarā.
 
@@ -489,13 +489,13 @@ rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā ist eine Göttin. <!-- TODO: Fallback translation -->
+2\. Durgā ist eine Göttin.
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī ist eine Göttin. <!-- TODO: Fallback translation -->
+3\. Mīnākṣī ist eine Göttin.
 
 devī mīnākṣī.
 
@@ -513,19 +513,19 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Wer ist der HERR? <!-- TODO: Fallback translation -->
+6\. Wer ist der HERR?
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7\. Indra ist der HERR. <!-- TODO: Fallback translation -->
+7\. Indra ist der HERR.
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Die Nutztiere treten ein. <!-- TODO: Fallback translation -->
+8\. Die Nutztiere treten ein.
 
 paśavo viśanti.
 
@@ -549,7 +549,7 @@ sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ ⟪।⟫ ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-12\. Diese Göttin ist gut. <!-- TODO: Fallback translation -->
+12\. Diese Göttin ist gut.
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
@@ -561,7 +561,7 @@ avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo 
 
 ⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫ ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-14\. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+14\. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten)
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ / maitrī karuṇā muditopekṣā (ca) brahmavihārāḥ.
 
@@ -585,7 +585,7 @@ dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣa
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪।⟫ ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-18 .Geht es Ihnen gut? <!-- TODO: Fallback translation -->
+18 .Geht es Ihnen gut?
 
 kiṃ kuśalam?
 

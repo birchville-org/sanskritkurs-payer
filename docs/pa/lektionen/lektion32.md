@@ -31,7 +31,7 @@ status: stable
 ਉਦਾਹਰਣਾਂ:
 
 ::: indent
-**⟪भू⟫** 3. sg. ਅਭਵਤ ਕਾਲ ਪ. **⟪अभवत्⟫** (a-bhava-t) <!-- TODO: Fallback translation -->
+**⟪भू⟫** 3. sg. ਅਭਵਤ ਕਾਲ ਪ. **⟪अभवत्⟫** (a-bhava-t)
 
 ⟪सु⟫
 *   3. sg. ਅਭਵਤ ਕਾਲ ਪ. **⟪असुनोत्⟫** (a-suno-t)
@@ -50,7 +50,7 @@ status: stable
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
-| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | | <!-- TODO: Fallback translation -->
+| ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
 :::
 ::: grammar-box

@@ -1,8 +1,9 @@
 ---
-title: "பயிற்சி 49"
+title: "[ L0 ] பயிற்சி 49"
 uebung_id: 49
-category: "பயிற்சி"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

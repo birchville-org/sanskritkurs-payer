@@ -5,7 +5,7 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # 第五课
 

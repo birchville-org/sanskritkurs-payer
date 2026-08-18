@@ -5,7 +5,7 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
 # பாடம் 8
 
@@ -44,7 +44,7 @@ last_reconstructed: 2026-05-07
   - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » மேம்பாடு (ஒப்பீடு, மிகைப்படுத்தல்), ஒப்பீடு
   - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » வரிசை எண்கள் (முதலாவது முதலியன)
   - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » விளிப்புச் சொற்களுக்கு மாற்றாக (எ.கா. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi- வடிவங்கள் ⟪च्वि⟫, **-sāt** -⟪सात्⟫) <!-- TODO: Fallback translation -->
+  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi- வடிவங்கள் ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
 **ஒலி மாற்றத்தின் அடிப்படையில் வகைப்பாடு:**
 - **guṇya** (⟪गुण्य⟫): உயர் நிலை வடிவம்
@@ -71,7 +71,7 @@ last_reconstructed: 2026-05-07
 | **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" | <!-- TODO: Fallback translation -->
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
 
 ### 8.3.2. -அன ந. (கிருத்)
 
@@ -116,7 +116,7 @@ note-box
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" | <!-- TODO: Fallback translation -->
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
 
 ::: media
 **ஆதி மந்திரமான ஓம் (⟪ॐ⟫) பல்வேறு இந்திய சாத்திரங்களில்**
@@ -129,7 +129,7 @@ note-box
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
 (பட மூலங்கள்: [Details](/ta/licenses#lekt0803))
-::: <!-- TODO: Fallback translation -->
+:::
 
 :::
 ### 8.3.4. -ti பெண்பால் (kṛt)
@@ -147,7 +147,7 @@ note-box
 | **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) | <!-- TODO: Fallback translation -->
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
 
 *குறிப்பு: ஒரு வடிவத்திற்கு முன் \* என்பது, அந்த வடிவம் சமஸ்கிருதத்தில் தோன்றவில்லை, மாறாக ஒரு குறிப்பிட்ட உருவாக்கத்திற்கான முன்னோடியாகக் கோட்பாட்டளவில் மீட்டெடுக்கப்படுகிறது என்பதைக் குறிக்கிறது. **gam** இன் ஆழநிலை gṃ = \*gm ஆகும்; m என்பது nasalis sonans என்ற அமைப்பின் மூலம் **a** ஆல் மாற்றப்படுகிறது » **ga**. இதுவே **man** » **ma** க்கும் பொருந்தும்.
 
@@ -162,7 +162,7 @@ note-box
 | :--- | :--- | :--- | :--- |
 | **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
 | **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" | <!-- TODO: Fallback translation -->
+| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
 
 இந்த உருவாக்கங்கள் கிட்டத்தட்ட எல்லாப் பெயர்ச்சொற்களுக்கும் உருவாக்கப்படுகின்றன மற்றும் அறிவியல் சார்ந்த சமஸ்கிருத நூல்களில் மிகவும் பொதுவானவை.
 

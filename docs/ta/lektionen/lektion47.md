@@ -1,10 +1,11 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: "பாடம் 47"
+subtitle: "கட்டளை (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # பாடம் 47

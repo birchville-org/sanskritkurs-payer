@@ -155,7 +155,7 @@ important
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das செயப்பாட்டு வினை, Indikativ Präsens (yak = ⟪यक्⟫) <!-- TODO: Fallback translation -->
+## 10.4. Das செயப்பாட்டு வினை, Indikativ Präsens (yak = ⟪यक्⟫)
 
 ::: grammar-box
 **உருவாக்கம்:**
@@ -217,7 +217,7 @@ important
 * **tan-ya-te**, **tan-ya-nte**
 ⟪तन्यते⟫, ⟪तन्यन्ते⟫
 * **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (\*tn-ya-nte இலிருந்து) <!-- TODO: Fallback translation -->
+⟪तायते⟫, ⟪तायन्ते⟫ (\*tn-ya-nte இலிருந்து)
 
 ## 10.5. சொற்களஞ்சியம்
 
@@ -262,7 +262,7 @@ important
 - **anṛta** n. ⟪अनृत⟫ : உண்மைக்கு எதிரானது, பொய் (சத்தியத்திற்கு எதிரானது)
 
   ::: note-box
-  சொல் உருவாக்கம் **an-** ("un-") + **ṛta** n. <!-- TODO: Fallback translation -->
+  சொல் உருவாக்கம் **an-** ("un-") + **ṛta** n.
 
   **ṛta** என்பது வேதத்தில் ஒரு மைய கருப்பொருள், அதன் மொழிபெயர்ப்பு விவாதத்திற்குரியது: "உண்மை" (Lüders, Thieme), "வரிசை" (Renou).
   :::

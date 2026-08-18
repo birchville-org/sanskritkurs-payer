@@ -199,7 +199,7 @@ kiṃ kāraṇam?
 男孩带领大象。
 
 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ 专有名词 Vimalā)
-Vimalā ist traurig. <!-- TODO: Fallback translation -->
+Vimalā ist traurig.
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
 鹦鹉飞翔。

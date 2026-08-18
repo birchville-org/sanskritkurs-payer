@@ -34,7 +34,7 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪।⟫ ⟪त्रयो⟫ ⟪वर्णाद्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (சிறந்த சமசுகிருதத்தில்: sāmargyajurvedās trayī) <!-- TODO: Fallback translation -->
+3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (சிறந்த சமசுகிருதத்தில்: sāmargyajurvedās trayī)
 
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫
 
@@ -52,7 +52,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 காமம், கோபம் மற்றும் லோபம்.
 
-kāmaḥ krodho lobhaś ca. <!-- TODO: Fallback translation -->
+kāmaḥ krodho lobhaś ca.
 
 ⟪कामः⟫ ⟪क्रोधो⟫ ⟪लोभश्च⟫ ⟪।⟫
 

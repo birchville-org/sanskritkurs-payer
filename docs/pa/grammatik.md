@@ -1,107 +1,108 @@
 ---
 aside: true
 outline: [2, 3]
+
 ---
 
-# Grammatik Themen
+# ਵਿਆਕਰਣ ਥੀਮਾਂ
 
-ਇਹ ਸਫਾ ਸੰਸਕ੍ਰਿਤ ਕੋਰਸ ਦੇ ਸਾਰੇ ਵਿਆਕਰਣਕ ਮੁੱਦਿਆਂ ਬਾਰੇ ਇੱਕ ਸਿਸਟਮੈਟਿਕ ਝਲਕ ਪ੍ਰਦਾਨ ਕਰਦੀ ਹੈ। 61 ਵਿੱਚੋਂ ਹਰੇਕ ਪਾਠ ਇੱਥੇ ਵਿਸ਼ਾ ਅਨੁਸਾਰ ਸ਼੍ਰੇਣੀਬੱਧ ਹੈ।
+ਇਹ ਸਫ਼ਾ ਸੰਸਕ੍ਰਿਤ ਕੋਰਸ ਦੇ ਸਾਰੇ ਵਿਆਕਰਣ ਥੀਮਾਂ ਬਾਰੇ ਇੱਕ ਤਰਤੀਬਵਾਰ ਸਮੀਖਿਆ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ। 61 ਲੈਕਸ਼ਣਾਂ ਵਿੱਚੋਂ ਹਰੇਕ ਨੂੰ ਇੱਥੇ ਥੀਮ ਦੇ ਅਧਾਰ 'ਤੇ ਵੰਡਿਆ ਗਿਆ ਹੈ।
 
-## 1. Lautlehre & Schrift (Saṃhitā & Lipi)
+## 1. ਧੁਨੀ ਵਿਗਿਆਨ ਅਤੇ ਲਿਪੀ (ਸੰਝਿਆ & ਲਿਪੀ)
 
-*   **ਧ्वਨੀਆਂ ਦਾ ਪਰਿਚਯ**: ਸ਼੍ਰੇਣੀਬੱਧਤਾ ਅਤੇ ਉਚਾਰਨ -\> [ਪਾਠ 1](/lektionen/lektion01)
+*   **ਧੁਨੀਆਂ ਦਾ ਪਰਿਚਯ**: ਸਿਸਟਮ ਅਤੇ ਉਚਾਰਨ -\> [ਲੈਕਸ਼ਣ 1](/pa/lektionen/lektion01)
 *   **ਲਿਪੀ ਪਰਿਚਯ (ਦੇਵਨਾਗਰੀ)**:
-*   ਸਵਰ ਅਤੇ ਸਧਾਰਨ ਵਿਅੰਜਕ -\> [ਪਾਠ 40](/lektionen/lektion40)
-*   ਸੰਯੁਕਤ ਵਿਅੰਜਕ (ਲਿਗੇਚਰ) -\> [ਪਾਠ 41](/lektionen/lektion41) ਅਤੇ [ਪਾਠ 42](/lektionen/lektion42)
-*   **ਸੰਧਿ (ਧਵਨੀ ਸੰਜੋਗ)**:
-*   ਵਿਸਰਜ਼ਨ **-s/ਵਿਸਰਗ** ਤੋਂ ਸੰਧਿ -\> [ਪਾਠ 2](/lektionen/lektion02), [ਪਾਠ 3](/lektionen/lektion03), [ਪਾਠ 30](/lektionen/lektion30)
-*   **-m, -e, -d** ਤੋਂ ਸੰਧਿ -\> [ਪਾਠ 4](/lektionen/lektion04)
-*   **ਸਵਰ ਸੰਧਿ** -\> [ਪਾਠ 3](/lektionen/lektion03), [ਪਾਠ 24](/lektionen/lektion24)
-*   **-n** ਤੋਂ ਸੰਧਿ -\> [ਪਾਠ 7](/lektionen/lektion07)
-*   **ਨਾਸਿਕ** ਲਈ ਸੰਧਿ -\> [ਪਾਠ 21](/lektionen/lektion21), [ਪਾਠ 26](/lektionen/lektion26)
-*   ਤਾਲਵੀਕਰਨ (**n -\> ṇ / s -\> ṣ**) -\> [ਪਾਠ 10](/lektionen/lektion10), [ਪਾਠ 26](/lektionen/lektion26)
-*   ਸ਼ਬਦ-ਸੰਧਿ (h-, ch-) -\> [ਪਾਠ 44](/lektionen/lektion44), [ਪਾਠ 51](/lektionen/lektion51)
-*   **ਵਿਅੰਜਕ ਸੰਧਿ** (ਸਾਰਾਂਸ਼) -\> [ਪਾਠ 16](/lektionen/lektion16), [ਪਾਠ 43](/lektionen/lektion43)
+*   ਸਵਰ ਅਤੇ ਸਧਾਰਣ ਵਿਅੰਜਨ -\> [ਲੈਕਸ਼ਣ 40](/pa/lektionen/lektion40)
+*   ਸੰਯੁਕਤ ਵਿਅੰਜਨ (ਲਿਗੇਚਰ) -\> [ਲੈਕਸ਼ਣ 41](/pa/lektionen/lektion41) ਅਤੇ [ਲੈਕਸ਼ਣ 42](/pa/lektionen/lektion42)
+*   **ਸੰਝਿਆ (ਧੁਨੀ ਸੰਯੋਗ)**:
+*   ਅੰਤਿਮ **-s/ਵਿਸਰਗ** ਦੀ ਸੰਝਿਆ -\> [ਲੈਕਸ਼ਣ 2](/pa/lektionen/lektion02), [ਲੈਕਸ਼ਣ 3](/pa/lektionen/lektion03), [ਲੈਕਸ਼ਣ 30](/pa/lektionen/lektion30)
+*   **-m, -e, -d** ਦੀ ਸੰਝਿਆ -\> [ਲੈਕਸ਼ਣ 4](/pa/lektionen/lektion04)
+*   **ਸਵਰ ਸੰਝਿਆ** -\> [ਲੈਕਸ਼ਣ 3](/pa/lektionen/lektion03), [ਲੈਕਸ਼ਣ 24](/pa/lektionen/lektion24)
+*   **-n** ਦੀ ਸੰਝਿਆ -\> [ਲੈਕਸ਼ਣ 7](/pa/lektionen/lektion07)
+*   **ਨਾਸਿਕ** ਲਈ ਸੰਝਿਆ -\> [ਲੈਕਸ਼ਣ 21](/pa/lektionen/lektion21), [ਲੈਕਸ਼ਣ 26](/pa/lektionen/lektion26)
+*   ਮੂਰਧਨੀਕਰਣ (**n -\> ṇ / s -\> ṣ**) -\> [ਲੈਕਸ਼ਣ 10](/pa/lektionen/lektion10), [ਲੈਕਸ਼ਣ 26](/pa/lektionen/lektion26)
+*   ਸ਼ਬਦ-ਸੰਝਿਆ (h-, ch-) -\> [ਲੈਕਸ਼ਣ 44](/pa/lektionen/lektion44), [ਲੈਕਸ਼ਣ 51](/pa/lektionen/lektion51)
+*   **ਵਿਅੰਜਨ ਸੰਝਿਆ** (ਸਾਰ-ਅੰਕ) -\> [ਲੈਕਸ਼ਣ 16](/pa/lektionen/lektion16), [ਲੈਕਸ਼ਣ 43](/pa/lektionen/lektion43)
 
-## 2. Wortkunde (Morphologie)
+## 2. ਸ਼ਬਦ ਵਿਗਿਆਨ (ਰੂਪ ਵਿਗਿਆਨ)
 
-### 2.1 Substantive und Adjektive (Deklination)
+### 2.1 ਨਾਂਵ ਅਤੇ ਸਿਫ਼ਤ (ਸੰਖਿਆ)
 
-*   **ਮੂਲ ਸਿਧਾਂਤ**: ਕੇਸ ਵਿਗਿਆਨ -\> [ਪਾਠ 1](/lektionen/lektion01), [ਪਾਠ 2](/lektionen/lektion02)
-*   **A-ਪ੍ਰਤੀਕ** (ਪੁਲਿੰਗ ਅਤੇ ਨਪੁੰਸਕ ਲਿੰਗ) -\> [ਪਾਠ 2](/lektionen/lektion02), [ਪਾਠ 7](/lektionen/lektion07)
-*   **I ਅਤੇ U-ਪ੍ਰਤੀਕ** -\> [ਪਾਠ 3](/lektionen/lektion03), [ਪਾਠ 27](/lektionen/lektion27), [ਪਾਠ 52](/lektionen/lektion52)
-*   **ਵਿਆਜਨਾਤਮਕ ਪ੍ਰਤੀਕ**:
-*   **-mant / -vant** 'ਤੇ ਸਮਾਪਤ ਹੋਣ ਵਾਲੇ ਪ੍ਰਤੀਕ -\> [ਪਾਠ 13](/lektionen/lektion13)
-*   **-n** 'ਤੇ ਸਮਾਪਤ ਹੋਣ ਵਾਲੇ ਪ੍ਰਤੀਕ (Rājan, Ātman) -\> [ਪਾਠ 38](/lektionen/lektion38)
-*   ਸਰਲ ਵਿਆਜਨਾਤਮਕ ਪ੍ਰਤੀਕ -\> [ਪਾਠ 51](/lektionen/lektion51), [ਪਾਠ 54](/lektionen/lektion54)
-*   **-ā, -ī, -ū** 'ਤੇ ਸਮਾਪਤ ਹੋਣ ਵਾਲੇ ਮੂਲ ਨਾਂਵ -\> [ਪਾਠ 61](/lektionen/lektion61)
-*   **ਦੋਵੰਤ (ਦੁਵਿਚ)** ਨਾਂਵਾਂ ਦਾ -\> [ਪਾਠ 49](/lektionen/lektion49), [ਪਾਠ 50](/lektionen/lektion50), [ਪਾਠ 53](/lektionen/lektion53)
+*   **ਮੂਲ ਤੱਥ**: ਕੇਸ ਵਿਗਿਆਨ -\> [ਪਾਠ 1](/pa/lektionen/lektion01), [ਪਾਠ 2](/pa/lektionen/lektion02)
+*   **A-ਵਿਗਤ** (ਪੁਲਿੰਗ ਅਤੇ ਨਪੁੰਸਕ ਲਿੰਗ) -\> [ਪਾਠ 2](/pa/lektionen/lektion02), [ਪਾਠ 7](/pa/lektionen/lektion07)
+*   **I ਅਤੇ U-ਵਿਗਤ** -\> [ਪਾਠ 3](/pa/lektionen/lektion03), [ਪਾਠ 27](/pa/lektionen/lektion27), [ਪਾਠ 52](/pa/lektionen/lektion52)
+*   **ਵਿਆਜਨਿਕ ਵਿਗਤ**:
+*   **-mant / -vant** 'ਤੇ ਸਮਾਪਤ ਹੋਣ ਵਾਲੀਆਂ ਵਿਗਤਾਂ -\> [ਪਾਠ 13](/pa/lektionen/lektion13)
+*   **-n** 'ਤੇ ਸਮਾਪਤ ਹੋਣ ਵਾਲੀਆਂ ਵਿਗਤਾਂ (ਰਾਜਨ, ਆਤਮਨ) -\> [ਪਾਠ 38](/pa/lektionen/lektion38)
+*   ਸਧਾਰਨ ਵਿਆਜਨਿਕ ਵਿਗਤਾਂ -\> [ਪਾਠ 51](/pa/lektionen/lektion51), [ਪਾਠ 54](/pa/lektionen/lektion54)
+*   ਮੂਲ ਨਾਮਾਂ 'ਤੇ **-ā, -ī, -ū** -\> [ਪਾਠ 61](/pa/lektionen/lektion61)
+*   **ਦੋਵਚਨ (ਡੂਅਲ)** ਨਾਮਾਂ ਦਾ -\> [ਪਾਠ 49](/pa/lektionen/lektion49), [ਪਾਠ 50](/pa/lektionen/lektion50), [ਪਾਠ 53](/pa/lektionen/lektion53)
 *   **ਸੰਖਿਆਵਾਂ ਅਤੇ ਤੁਲਨਾ**:
-*   ਸੰਖਿਆ ਪਦ (ਕਾਰਡੀਨਲ/ਆਰਡੀਨਲ) -\> [ਪਾਠ 52](/lektionen/lektion52)
-*   ਤੁਲਨਾ (ਤੁਲਨਾਤਮਕ/ਅਧਿਕਤਮ) -\> [ਪਾਠ 53](/lektionen/lektion53)
+*   ਸੰਖਿਆ ਬੋਧਕ (ਕਾਰਡੀਨਲ/ਆਰਡੀਨਲ) -\> [ਪਾਠ 52](/pa/lektionen/lektion52)
+*   ਤੁਲਨਾ (ਕੰਪੈਰੇਟਿਵ/ਸੂਪਰਲੇਟਿਵ) -\> [ਪਾਠ 53](/pa/lektionen/lektion53)
 
-### 2.2 Pronomina & Adverbien
+### 2.2 ਸਰਵਨਾਮ ਅਤੇ ਕਿਰਿਆ ਵਿਸ਼ੇਸ਼ਣ
 
 *   **ਸਰਵਨਾਮ**:
-*   ਪ੍ਰਸ਼ਨ ਅਤੇ ਪ੍ਰਦਰਸ਼ਕ ਸਰਵਨਾਮ -\> [ਪਾਠ 4](/lektionen/lektion04)
-*   ਸੰਬੰਧਕ ਸਰਵਨਾਮ (yad) -\> [ਪਾਠ 19](/lektionen/lektion19)
-*   ਵਿਅਕਤੀਗਤ ਸਰਵਨਾਮ (ਪਹਿਲੀ ਅਤੇ ਦੂਜੀ ਪੁਰਖ) -\> [ਪਾਠ 46](/lektionen/lektion46), [ਪਾਠ 47](/lektionen/lektion47)
-*   ਅਨਿਸ਼ਚਿਤ ਸਰਵਨਾਮ -\> [ਪਾਠ 37](/lektionen/lektion37)
-*   **ਕਿਰਿਆਵਿਸ਼ੇਸ਼ਣ ਅਤੇ ਸੰਬੋਧਨ**:
-*   ਕਿਰਿਆਵਿਸ਼ੇਸ਼ਣਾਂ ਦੀ ਬਣਤਰ -\> [ਪਾਠ 37](/lektionen/lektion37), [ਪਾਠ 52](/lektionen/lektion52)
-*   ਸ਼ਿਸਟਾਚਾਰਪੂਰਨ ਸੰਬੋਧਨ ਅਤੇ ਵੋਕੇਟਿਵ -\> [ਪਾਠ 21](/lektionen/lektion21), [ਪਾਠ 44](/lektionen/lektion44)
+*   ਪ੍ਰਸ਼ਨ ਅਤੇ ਪ੍ਰਦਰਸ਼ਕ ਸਰਵਨਾਮ -\> [ਪਾਠ 4](/pa/lektionen/lektion04)
+*   ਸੰਬੰਧਕ ਸਰਵਨਾਮ (yad) -\> [ਪਾਠ 19](/pa/lektionen/lektion19)
+*   ਵਿਅਕਤੀਗਤ ਸਰਵਨਾਮ (ਪਹਿਲਾਂ ਅਤੇ ਦੂਜੇ ਪੁਰਖ) -\> [ਪਾਠ 46](/pa/lektionen/lektion46), [ਪਾਠ 47](/pa/lektionen/lektion47)
+*   ਅਨਿਸ਼ਚਿਤ ਸਰਵਨਾਮ -\> [ਪਾਠ 37](/pa/lektionen/lektion37)
+*   **ਕਿਰਿਆ ਵਿਸ਼ੇਸ਼ਣ ਅਤੇ ਸੰਬੋਧਨ**:
+*   ਕਿਰਿਆ ਵਿਸ਼ੇਸ਼ਣਾਂ ਦਾ ਨਿਰਮਾਣ -\> [ਪਾਠ 37](/pa/lektionen/lektion37), [ਪਾਠ 52](/pa/lektionen/lektion52)
+*   ਸਤਿਕਾਰਯੋਗ ਸੰਬੋਧਨ ਅਤੇ ਵੋਕੇਟਿਵ -\> [ਪਾਠ 21](/pa/lektionen/lektion21), [ਪਾਠ 44](/pa/lektionen/lektion44)
 
-### 2.3 Verben (Konjugation)
+### 2.3 ਕਿਰਿਆਪਦ (ਸੰਯੁਕਤ ਰੂਪ)
 
-*   **ਪ੍ਰੇਸੰਸ ਪ੍ਰਣਾਲੀ (ਇੰਡਿਕੇਟਿਵ)**:
-*   ਵਿਅਕਤੀਗਤ ਅੰਤਿਮਾ (3., 2., 1. ਪੁਰਖ) -\> [ਪਾਠ 6](/lektionen/lektion06), [ਪਾਠ 44](/lektionen/lektion44), [ਪਾਠ 39](/lektionen/lektion39)
-*   ਵਿਸ਼ੇਸ਼ ਵਰਗ (1, 4, 6, 10) -\> [ਪਾਠ 6](/lektionen/lektion06), [ਪਾਠ 28](/lektionen/lektion28)
-*   ਅਥੇਮੈਟਿਕ ਵਰਗ -\> [ਪਾਠ 17](/lektionen/lektion17), [ਪਾਠ 33](/lektionen/lektion33), [ਪਾਠ 7](/lektionen/lektion07), [ਪਾਠ 31](/lektionen/lektion31), [ਪਾਠ 8](/lektionen/lektion08), [ਪਾਠ 30](/lektionen/lektion30)
+*   **ਵਰਤਮਾਨ ਕਾਲ ਪ੍ਰਣਾਲੀ (ਇੰਡਿਕੇਟਿਵ)**:
+*   ਵਿਅਕਤੀਗਤ ਅੰਤਿਮ ਸ਼ਬਦ (3., 2., 1. ਵਿਅਕਤੀ) -\> [ਪਾਠ 6](/pa/lektionen/lektion06), [ਪਾਠ 44](/pa/lektionen/lektion44), [ਪਾਠ 39](/pa/lektionen/lektion39)
+*   ਵਿਸ਼ੇਸ਼ ਵਰਗ (1, 4, 6, 10) -\> [ਪਾਠ 6](/pa/lektionen/lektion06), [ਪਾਠ 28](/pa/lektionen/lektion28)
+*   ਅਥੇਮੈਟਿਕ ਵਰਗ -\> [ਪਾਠ 17](/pa/lektionen/lektion17), [ਪਾਠ 33](/pa/lektionen/lektion33), [ਪਾਠ 7](/pa/lektionen/lektion07), [ਪਾਠ 31](/pa/lektionen/lektion31), [ਪਾਠ 8](/pa/lektionen/lektion08), [ਪਾਠ 30](/pa/lektionen/lektion30)
 *   **ਹੋਰ ਕਾਲ ਅਤੇ ਮੋਡ**:
-*   **ਇੰਪੀਰਫੈਕਟ** (ਭੂਤ ਕਾਲ) -\> [ਪਾਠ 32](/lektionen/lektion32)
-*   **ਓਪਟੇਟਿਵ ਅਤੇ ਇੰਪੀਰੇਟਿਵ** -\> [ਪਾਠ 30](/lektionen/lektion30), [ਪਾਠ 48](/lektionen/lektion48)
-*   **ਪਰਫੈਕਟ** (ਇਕਵਚਨ/ਬਹੁਵਚਨ) -\> [ਪਾਠ 34](/lektionen/lektion34), [ਪਾਠ 35](/lektionen/lektion35), [ਪਾਠ 36](/lektionen/lektion36)
-*   **ਪਰਫੈਕਟ (ਦਵਿਵਚਨ)** -\> [ਪਾਠ 60](/lektionen/lektion60)
-*   **ਭਵਿੱਖ** (ਸਰਲ ਅਤੇ ਪੈਰੀਪ੍ਰਾਸਟਿਕ) -\> [ਪਾਠ 26](/lektionen/lektion26), [ਪਾਠ 61](/lektionen/lektion61)
-*   **ਔਰਿਸਟ** (ਭੂਤ ਕਾਲ) -\> [ਪਾਠ 54](/lektionen/lektion54), [ਪਾਠ 55](/lektionen/lektion55), [ਪਾਠ 56](/lektionen/lektion56), [ਪਾਠ 57](/lektionen/lektion57), [ਪਾਠ 58](/lektionen/lektion58)
-*   **ਨਿਕਾਸੀਆਂ ਕ੍ਰਿਆ ਰੂਪ**:
-*   **ਪੈਸਿਵ ਅਤੇ ਕੌਜੇਟਿਵ** -\> [ਪਾਠ 10](/lektionen/lektion10), [ਪਾਠ 28](/lektionen/lektion28), [ਪਾਠ 29](/lektionen/lektion29)
-*   **ਇੰਟੈਂਸਿਵਮ ਅਤੇ ਡੇਨੋਮੀਨੇਟਿਵਾ** -\> [ਪਾਠ 61](/lektionen/lektion61)
-*   **ਦਵਿਵਚਨ ਵਿੱਚ ਕ੍ਰਿਆਵਾਂ** -\> [ਪਾਠ 59](/lektionen/lektion59), [ਪਾਠ 60](/lektionen/lektion60)
+*   **ਅਪੂਰਣ ਕਾਲ** (ਭੂਤਕਾਲ) -\> [ਪਾਠ 32](/pa/lektionen/lektion32)
+*   **ਓਪਟੇਟਿਵ ਅਤੇ ਇੰਪੈਰੇਟਿਵ** -\> [ਪਾਠ 30](/pa/lektionen/lektion30), [ਪਾਠ 48](/pa/lektionen/lektion48)
+*   **ਪਰਫੈਕਟ** (ਇੱਕ ਵਚਨ/ਬਹੁਵਚਨ) -\> [ਪਾਠ 34](/pa/lektionen/lektion34), [ਪਾਠ 35](/pa/lektionen/lektion35), [ਪਾਠ 36](/pa/lektionen/lektion36)
+*   **ਪਰਫੈਕਟ (ਦੋ ਵਚਨ)** -\> [ਪਾਠ 60](/pa/lektionen/lektion60)
+*   **ਭਵਿੱਖ ਕਾਲ** (ਸਰਲ ਅਤੇ ਪੈਰੀਫ੍ਰਾਸਟਿਕ) -\> [ਪਾਠ 26](/pa/lektionen/lektion26), [ਪਾਠ 61](/pa/lektionen/lektion61)
+*   **ਓਰਿਸਟ** (ਭੂਤਕਾਲ) -\> [ਪਾਠ 54](/pa/lektionen/lektion54), [ਪਾਠ 55](/pa/lektionen/lektion55), [ਪਾਠ 56](/pa/lektionen/lektion56), [ਪਾਠ 57](/pa/lektionen/lektion57), [ਪਾਠ 58](/pa/lektionen/lektion58)
+*   **ਨਿੱਘੇ ਕਿਰਿਆਪਦ ਰੂਪ**:
+*   **ਪੈਸਿਵ ਅਤੇ ਕੌਜੇਟਿਵ** -\> [ਪਾਠ 10](/pa/lektionen/lektion10), [ਪਾਠ 28](/pa/lektionen/lektion28), [ਪਾਠ 29](/pa/lektionen/lektion29)
+*   **ਇੰਟੈਂਸਿਵਮ ਅਤੇ ਡੇਨੋਮੀਨੇਟਿਵਾ** -\> [ਪਾਠ 61](/pa/lektionen/lektion61)
+*   **ਦੋ ਵਚਨ ਵਿੱਚ ਕਿਰਿਆਪਦ** -\> [ਪਾਠ 59](/pa/lektionen/lektion59), [ਪਾਠ 60](/pa/lektionen/lektion60)
 
-### 2.4 Nominalbildungen & Komposita
+### 2.4 ਨਾਮ-ਰੂਪ ਬਣਤਰ ਅਤੇ ਸੰਯੁਕਤ ਸ਼ਬਦ (Komposita)
 
-*   **Komposita (Samāsa)**:
-    *   **Dvandva** (Kopulativkomposita) -\> [Lektion 5](/lektionen/lektion05), [Lektion 9](/lektionen/lektion09)
-    *   **Tatpuruṣa** (Determinativ) -\> [Lektion 15](/lektionen/lektion15), [Lektion 18](/lektionen/lektion18)
-    *   Upapada-Komposita -\> [Lektion 51](/lektionen/lektion51)
-    *   **Bahuvrīhi** (Possessiv) -\> [Lektion 20](/lektionen/lektion20)
-*   **Suffixe & Partizipien**:
-    *   Wichtige Suffixe (-a, -ana, -tra, etc.) -\> [Lektion 8](/lektionen/lektion08), [Lektion 9](/lektionen/lektion09)
-    *   **PPP** (Partizip Perfekt Passiv) -\> [Lektion 12](/lektionen/lektion12), [Lektion 13](/lektionen/lektion13)
-    *   **PPA** (Partizip Perfekt Aktiv) -\> [Lektion 52](/lektionen/lektion52)
-    *   **Absolutivum & Infinitiv** -\> [Lektion 22](/lektionen/lektion22), [Lektion 23](/lektionen/lektion23)
+*   **ਸੰਯੁਕਤ ਸ਼ਬਦ (Samāsa)**:
+*   **Dvandva** (ਸਹ-ਯੋਗ ਸੰਯੁਕਤ) -\> [ਪਾਠ 5](/pa/lektionen/lektion05), [ਪਾਠ 9](/pa/lektionen/lektion09)
+*   **Tatpuruṣa** (ਨਿਰਧਾਰਕ ਸੰਯੁਕਤ) -\> [ਪਾਠ 15](/pa/lektionen/lektion15), [ਪਾਠ 18](/pa/lektionen/lektion18)
+*   Upapada-ਸੰਯੁਕਤ ਸ਼ਬਦ -\> [ਪਾਠ 51](/pa/lektionen/lektion51)
+*   **Bahuvrīhi** (ਸੰਪੱਤੀ-ਬੋਧਕ) -\> [ਪਾਠ 20](/pa/lektionen/lektion20)
+*   **ਪਿੱਛੇ ਲੱਗਣ ਵਾਲੇ ਸ਼ਬਦ (Suffixes) ਅਤੇ ਵਿਸ਼ੇਸ਼ ਨਾਮ (Partizipien)**:
+*   ਮਹੱਤਵਪੂਰਨ ਪਿੱਛੇ ਲੱਗਣ ਵਾਲੇ ਸ਼ਬਦ (-a, -ana, -tra, ਆਦਿ) -\> [ਪਾਠ 8](/pa/lektionen/lektion08), [ਪਾਠ 9](/pa/lektionen/lektion09)
+*   **PPP** (ਕਰਮ ਕਾਰਕ ਵਿੱਚ ਪੂਰਨ ਭਾਵ ਦਾ ਵਾਕੰਸ਼) -\> [ਪਾਠ 12](/pa/lektionen/lektion12), [ਪਾਠ 13](/pa/lektionen/lektion13)
+*   **PPA** (ਕਰਤਾ ਕਾਰਕ ਵਿੱਚ ਪੂਰਨ ਭਾਵ ਦਾ ਵਾਕੰਸ਼) -\> [ਪਾਠ 52](/pa/lektionen/lektion52)
+*   **Absolutivum ਅਤੇ Infinitiv** -\> [ਪਾਠ 22](/pa/lektionen/lektion22), [ਪਾਠ 23](/pa/lektionen/lektion23)
 
-## 3. Satzlehre (Syntax)
+## 3. ਵਾਕ ਬਣਤਰ (Syntax)
 
-*   **ਨਾਂਮਵਾਚਕ ਵਾਕ্য** -\> [ਪਾਠ 2](/lektionen/lektion02)
-*   **ਪ੍ਰਸ਼ਨ ਵਾਕ্য** -\> [ਪਾਠ 37](/lektionen/lektion37)
+*   **ਨਾਂਵ ਵਾਕ** -\> [ਪਾਠ 2](/pa/lektionen/lektion02)
+*   **ਪ੍ਰਸ਼ਨ ਵਾਕ** -\> [ਪਾਠ 37](/pa/lektionen/lektion37)
 *   **ਕਾਰਕਾਂ ਦੀ ਵਰਤੋਂ**:
-*   ਨਾਂਮਵਾਚਕ ਵਾਕ্য ਅਤੇ ਸਰਵਨਾਮ -\> [ਪਾਠ 2](/lektionen/lektion02)
-*   ਕਰਤਾ (ਦੋਹਾਂ ਰੂਪਾਂ ਵਿੱਚ) -\> [ਪਾਠ 7](/lektionen/lektion07), [ਪਾਠ 11](/lektionen/lektion11)
-*   ਕਰਣ -\> [ਪਾਠ 10](/lektionen/lektion10)
-*   ਸੰਬੰਧ -\> [ਪਾਠ 14](/lektionen/lektion14)
-*   ਸੰਦਰਭ -\> [ਪਾਠ 24](/lektionen/lektion24)
-*   ਵਿਭਵ -\> [ਪਾਠ 25](/lektionen/lektion25)
-*   ਸਥਾਨ -\> [ਪਾਠ 27](/lektionen/lektion27)
-*   **ਉਪਵਾਕ**:
-*   ਸੰਬੰਧਿਤ ਉਪਵਾਕ -\> [ਪਾਠ 19](/lektionen/lektion19)
-*   ਵਿਸ਼ੇਸਣਾਂ ਦੀ ਵਰਤੋਂ -\> [ਪਾਠ 12](/lektionen/lektion12), [ਪਾਠ 44](/lektionen/lektion44)
+*   ਨਾਂਵ ਵਾਕ ਅਤੇ ਕਰਤਾ ਕਾਰਕ -\> [ਪਾਠ 2](/pa/lektionen/lektion02)
+*   ਕਰਮ ਕਾਰਕ (ਦੋਹਾਂ ਤਰੀਕਿਆਂ ਨਾਲ) -\> [ਪਾਠ 7](/pa/lektionen/lektion07), [ਪਾਠ 11](/pa/lektionen/lektion11)
+*   ਕਰਣ ਕਾਰਕ -\> [ਪਾਠ 10](/pa/lektionen/lektion10)
+*   ਸੰਬੰਧ ਕਾਰਕ -\> [ਪਾਠ 14](/pa/lektionen/lektion14)
+*   ਸਾਪੇਖ ਕਾਰਕ -\> [ਪਾਠ 24](/pa/lektionen/lektion24)
+*   ਵਿਭਾਵ ਕਾਰਕ -\> [ਪਾਠ 25](/pa/lektionen/lektion25)
+*   ਅਧਿਕਰਣ ਕਾਰਕ -\> [ਪਾਠ 27](/pa/lektionen/lektion27)
+*   **ਉਪ ਵਾਕ**:
+*   ਵਿਸ਼ੇਸ਼ਣ ਉਪ ਵਾਕ -\> [ਪਾਠ 19](/pa/lektionen/lektion19)
+*   ਵਿਸ਼ੇਸ਼ ਨਾਮਾਂ ਦੀ ਵਰਤੋਂ -\> [ਪਾਠ 12](/pa/lektionen/lektion12), [ਪਾਠ 44](/pa/lektionen/lektion44)
 
-## 4. Metrik (Verslehre)
+## ੪. ਮੀਤਰਿਕ (ਵਿਆਖਿਆ)
 
-ਸੰਸਕ੍ਰਿਤ-ਦਾਰਸ਼ਨ ਅਤੇ ਸਾਹਿਤ ਅਕਸਰ ਛੰਦਾਂ ਵਿੱਚ ਲਿਖੇ ਜਾਂਦੇ ਹਨ। ਛੰਦਸ਼ਾਸਤਰ ਇਹਨਾਂ ਛੰਦਾਂ ਦੀ ਤਾਲ ਅਤੇ ਬਣਤਰ ਸਿਖਾਉਂਦਾ ਹੈ।
+ਸੰਸਕ੍ਰਿਤ-ਦਾਰਸ਼ਨਿਕ ਅਤੇ ਸਾਹਿਤਕ ਰਚਨਾਵਾਂ ਅਕਸਰ ਛੰਦਾਂ ਵਿੱਚ ਲਿਖੀਆਂ ਜਾਂਦੀਆਂ ਹਨ। ਮੀਤਰਿਕ ਇਹਨਾਂ ਛੰਦਾਂ ਦੀ ਤਾਲ ਅਤੇ ਬਣਤਰ ਸਿਖਾਉਂਦੀ ਹੈ।
 
-*   **Einführung & Śloka** -\> [Lektion 45](/lektionen/lektion45), [Lektion 53](/lektionen/lektion53)
-*   **Fortgeschrittene Metren** (Trīṣṭubh, Jāgatī) -\> [Lektion 54](/lektionen/lektion54)
+*   **ਭੂਮਿਕਾ ਅਤੇ ਸ਼ਲੋਕ** -\> [ਪਾਠ ੪੫](/pa/lektionen/lektion45), [ਪਾਠ ੫੩](/pa/lektionen/lektion53)
+*   **ਉੱਨਤ ਛੰਦ** (ਤ੍ਰੀਸ਼ਟੁਭ, ਜਾਗਤੀ) -\> [ਪਾਠ ੫੪](/pa/lektionen/lektion54)
 

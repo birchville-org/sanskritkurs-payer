@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # 第6课
 
@@ -129,7 +129,7 @@ status: stable
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. 第四类现在时动词 (divādi = ⟪दिवादि⟫ = "div 等") <!-- TODO: Fallback translation -->
+### 6.5.3. 第四类现在时动词 (divādi = ⟪दिवादि⟫ = "div 等")
 
 ::: grammar-box
 **现在词干 = 词根在弱级形式（即其列出的形式）+ ya-**

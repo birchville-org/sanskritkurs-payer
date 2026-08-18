@@ -34,7 +34,7 @@ status: stable
 **⟪नियम⟫:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. ਪਹਿਲੀ ਵਰਤਮਾਨ ਕਲਾ (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+### 39.2.1. ਪਹਿਲੀ ਵਰਤਮਾਨ ਕਲਾ (⟪भ्वादि⟫)
 
 ⟪भू⟫ 1P
 
@@ -110,7 +110,7 @@ status: stable
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫-ਬਣਾਉਣਾ <!-- TODO: Fallback translation -->
+### 39.3.1. ⟪अनिट्⟫-ਬਣਾਉਣਾ
 
 ⟪दा⟫ 3U
 

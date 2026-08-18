@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # 第36课
 
@@ -63,7 +63,7 @@ status: stable
 - 词干末元音在 -ām 之前进行 guṇa 变化。
 - ⟪अस्⟫ 和 ⟪भू⟫ 也用于 Ātmanepada 动词的 Parasmaipada 变位。
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet. <!-- TODO: Fallback translation -->
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 示例：
 

@@ -19,7 +19,7 @@ status: stable
 
 **1. Wenn der Nutzen der veranlassten Handlung dem Veranlasser zugutekommt:**
 :::
-示例： <!-- TODO: Fallback translation -->
+示例：
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = “罗摩为自己（出于自身利益）制作了一张垫子”
 

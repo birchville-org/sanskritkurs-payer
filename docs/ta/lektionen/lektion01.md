@@ -1,10 +1,11 @@
 ---
-title: Lektion 1
-subtitle: "Die Laute des Sanskrit"
+title: "பாடம் 1"
+subtitle: "சமஸ்கிருதத்தின் ஒலிகள்"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 # பாடம் 1

@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # ਪਾਠ 50
 
@@ -293,7 +293,7 @@ B) ਅਨੁਵਾਦ ਕਰੋ:
 :::
 ::: deleteme-box
 
-**lekt5007:** ਚਿੱਤਰ: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [ਚਿੱਤਰ ਸਰੋਤ: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- ਪ੍ਰਾਪਤੀ 2009-01-12. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ)] <!-- TODO: Fallback translation -->
+**lekt5007:** ਚਿੱਤਰ: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [ਚਿੱਤਰ ਸਰੋਤ: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- ਪ੍ਰਾਪਤੀ 2009-01-12. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ)]
 
 **lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [ਚਿੱਤਰ ਸਰੋਤ: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- ਪ੍ਰਾਪਤੀ 2009-01-12. -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੈਂਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਬਦਲਾਅ ਨਹੀਂ)]
 
@@ -305,7 +305,7 @@ B) ਅਨੁਵਾਦ ਕਰੋ:
 
 **lekt5003:** [ਚਿੱਤਰ ਸਰੋਤ: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- 12-01-2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [ਚਿੱਤਰ ਸਰੋਤ: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [ਚਿੱਤਰ ਸਰੋਤ: Kounosu / Wikipedia. GNU FDLicense]
 
 **lekt5008:** ਗਣੇਸ਼ਪੁਰੀ, ਮੁੰਬਈ (⟪मुंबई⟫) ਤੋਂ 80 ਕਿ.ਮੀ. ਦੂਰ [ਚਿੱਤਰ ਸਰੋਤ: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- 13-01-2009 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ -- [ਕ੍ਰੀਏਟਿਵ ਕਾਮਨਸ ਲਾਇਸੰਸ](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ਨਾਮ ਦਿੱਤਾ, ਗੈਰ-ਵਪਾਰਕ, ਸਾਂਝਾ ਕਰੋ)]
 

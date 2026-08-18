@@ -1,25 +1,26 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: "பாடம் 61"
+subtitle: "ā, -ī, -ū ஆகியவற்றால் முடிவடையும் மூலப்பெயர்ச்சொற்களின் விகாரம்"
 next: false
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+
+---
 
 # பாடம் 61
 
-## 61.1. -ஆ, -ஈ, -ஊ இல் முடியும் மூலப் பெயர்ச்சொற்களின் வேற்றுமை உருபு
+## 61.1. -ā, -ī, -ū ஆகியவற்றால் முடியும் மூலப்பெயர்ச்சொற்களின் விகாரம்
 
-### 61.1.1. -ā க்கு இறுதியில் உள்ள மூலப்பெயர்ச்சொற்கள் ⟪तत्पुरुष⟫
+### 61.1.1. ⟪तत्पुरुष⟫ இன் முடிவில் -ā ஆகியவற்றால் முடியும் மூலப்பெயர்ச்சொற்கள்
 
 ::: grammar-box
-**ஒலிக்கு முன் வரும் இறுதிச்சொற்களில், பலவீனமான வார்ப்புருக்களில் மூல ஒலி Ø குறைந்த நிலையைப் பெறுகிறது.**
+**ஒலிமுடிச்சுகளுக்கு முன், பலவீனான விபாகங்களில் மூலஒலி இழப்பு நிலையான Ø ஆகும்.**
 
-**பாலினப் பாலினப் பெண்கள் மற்றும் பெண்கள் ஒரே மாதிரியானவை.**
+**ஆண்பால் மற்றும் பெண்பாலில் விகாரம் ஒன்றாகவே உள்ளது.**
 :::
-பாரடிக்மா:
+மாதிரி:
 
-⟪विश्वपा⟫ பெண்பால்/பால் "அனைத்தையும் பாதுகாக்கும்"
+⟪विश्वपा⟫ ஆ.பெ. "அனைத்தையும் பாதுகாப்பவர்"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -31,16 +32,16 @@ status: stable
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. -ī இல் பெண்பால் வேர் பெயர்ச்சொற்கள்
+### 61.1.2. -ī ஆகியவற்றால் முடியும் பெண்பாலான மூலப்பெயர்ச்சொற்கள்
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**ஒலிமுடிச்சிற்கு முன், -ī என்பது -iy ஆக மாற்றப்படுகிறது.**
 
-**வழக்கமான விபக்க முடிப்புகளுடன் கூடிய உருவாக்கங்களுக்கு அப்பால், த.ஒ.ப.ல.ஒ. மற்றும் ப.ப.ஒ. ஆகியவற்றில், -ī (⟪देवी⟫) என்ற பலசொற்றொடர் பெண்பால் சொற்களின் மாதிரியைப் பின்பற்றிய உருவாக்கங்களும் காணப்படுகின்றன.**
+**இயல்பான விபாக முடிச்சுகளுடன் கூடிய உருவாக்கங்களுக்கு அப்பால், ஒருமை தர/கொடு/உடை/இட விபாகங்களிலும், பன்மை உடைமையிலும், -ī ஆகியவற்றால் முடியும் பலசீர் பெண்பெயர்களுக்கான (⟪देवी⟫) மாதிரியில் உருவாக்கங்களும் காணப்படுகின்றன.**
 :::
-படிமம்:
+மாதிரி:
 
-⟪धी⟫ f. "எண்ணம்"
+⟪धी⟫ பெ. "கருத்து"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -95,7 +96,7 @@ status: stable
 | ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
 | ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
 
-⟪यवक्री⟫, ஆண்பால், பெண்பால் "நெல் வாங்குபவர்"
+⟪यवक्री⟫ ஆண்பால், பெண்மையியல் "நெல்லு வாங்கும்"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -107,16 +108,16 @@ status: stable
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. ஒற்றை அசை, பெண்பால் -ஊ இல் முடியும் மூலப் பெயர்ச்சொற்கள்
+### 61.1.4. ஒலிப்பு, பெண்மையியல் மூலப்பெயர்ச்சொற்கள் -ū உடன்
 
 ::: grammar-box
-**ஒலிக்கு முன் மூலம்: -uv**
+**ஒலிப்பு முன்: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**பெண்மையியல் மூலப்பெயர்ச்சொற்கள் -ī உடன் ஒத்த வடிவம்**
 :::
-வடிவமைப்பு: <!-- TODO: Fallback translation -->
+மாதிரி:
 
-⟪भू⟫ f. "பூமி"
+⟪भू⟫ பெண்மையியல் "பூமி"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -128,16 +129,26 @@ status: stable
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. -ū இறுதியில் வரும் மூலப்பெயர்ச்சொற்கள் ⟪तत्पुरुष⟫
+### 61.1.5. மூலப்பெயர்ச்சொற்கள் -ū உடன் ⟪तत्पुरुष⟫ இறுதியில்
 
 ::: grammar-box
-**ஒலியியல் இறுதிகளுக்கு முன், -ū என்பது வடிமத்துடன் தொடர்புடைய ஒலியை மட்டும் முன்னொட்டாகக் கொண்டிருந்தால் -v ஆல் மாற்றப்படும். பல வடிம ஒலிகள் முன்னொட்டாக இருந்தால், -ū என்பது ஒலியியல் இறுதிக்கு முன் -uv ஆல் மாற்றப்படும்.**
+**ஒலிப்பு முன் -ū என்பது -v ஆக மாறும், அதற்கு முன் மூலப்பெயர்ச்சொல்லின் ஒலிப்பு இருந்தால். பல ஒலிப்புகள் முன் இருந்தால், -ū என்பது -uv ஆக மாறும்.**
 
-**பாலினம் ஆண்பால் மற்றும் பெண்பால் ஆகியவற்றில் ஒரே மாதிரியானது.**
+**ஆண்பால் மற்றும் பெண்மையியல் வடிவம் ஒன்றாகும்.**
 :::
-வடிவமைப்பு:
+மாதிரி:
 
-⟪खलपू⟫, ஆண்பால், பெண்பால் "கதிரைத் திருப்புவது"
+⟪खलपू⟫ ஆண்பால், பெண்மையியல் "கதிரை சுத்தம் செய்யும்"
+
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪खलपूस्⟫ | ⟪खलप्वौ⟫ | ⟪खलप्वस्⟫ |
+| ⟪द्वितीया⟫ | ⟪खलप्वम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪खलप्वा⟫ | ⟪खलपूभ्याम्⟫ | ⟪खलपूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪खलप्वे⟫ | ^^ | ⟪खलपूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪खलप्वस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪खलप्वोस्⟫ | ⟪खलप्वाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ |
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -402,7 +413,7 @@ status: stable
 | ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
 | ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" | <!-- TODO: Fallback translation -->
+| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
 
 ### 61.4.2. -ya என்ற முற்சொல்பகுதியுடன் கூடிய பாரமசபதம்
 
@@ -434,13 +445,13 @@ status: stable
 | ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
 | ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
+| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
 
 அவற்றின் பொருளைக் கவனிக்கவும்:
 
 | ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
 
 ::: media
 ![](/images/lekt6105.webp)
@@ -465,7 +476,7 @@ status: stable
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" | <!-- TODO: Fallback translation -->
+| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
 
 ::: media
 ![](/images/lekt6109.webp)
@@ -517,7 +528,7 @@ status: stable
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
 | ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" | <!-- TODO: Fallback translation -->
+| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
 
 ::: grammar-box
 **சில பெயர் மூலங்களுக்கு, இந்த உரிச்சொல் பொருள்: ஒரு பொருள், அது பெயர் மூலத்தால் குறிக்கப்படும் அந்தப் பொருளைப் போல ஆகிறது அல்லது அந்தப் பொருளாக மாறுகிறது:**
@@ -550,7 +561,7 @@ status: stable
 
 | ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -781,11 +792,11 @@ center
 
 **lekt6106:** ⟪काशीपुर⟫ [பட மூலம்: சுமித். -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- 2009-03-09 அணுகல். -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (நaming, வணிகரீதியான பயன்பாடு இல்லை, பகிர்வு ஒத்த])]]
 
-**lekt6107:** ⟪जोधपुर⟫ [படத்தின் மூலம்: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை, share alike)] <!-- TODO: Fallback translation -->
+**lekt6107:** ⟪जोधपुर⟫ [படத்தின் மூலம்: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை, share alike)]
 
 **lekt6104:** கர்நாடகா = ಕರ್ನಾಟಕ [படத்தின் மூலம்: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- 2009-03-08 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
-**lekt6105:** ⟪हरिद्वार⟫ [படத்தின் மூலம்: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- 2009-03-08 அன்று அணுகப்பட்டது. --  [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (குறிப்பிடல்)] <!-- TODO: Fallback translation -->
+**lekt6105:** ⟪हरिद्वार⟫ [படத்தின் மூலம்: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- 2009-03-08 அன்று அணுகப்பட்டது. --  [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (குறிப்பிடல்)]
 
 **lekt6103:** [படத்தின் மூலம்: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- 2009-03-08 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை)]
 
@@ -793,18 +804,11 @@ center
 
 **lekt6110:** கார்லி [படத்தின் மூலம்: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
-**lekt6111:** [படத்தின் மூலம்: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (குறிப்பிடல், share alike)] <!-- TODO: Fallback translation -->
+**lekt6111:** [படத்தின் மூலம்: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (குறிப்பிடல், share alike)]
 
 **lekt6113:** தாய்லாந்து - เมืองไทย [படத்தின் மூலம்: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை, மாற்றம் இல்லை)]
 
 **lekt6112:** 1845 - 1878 கோபன்ஹேகன் பல்கலைக்கழகத்தில் இந்திய-கிழக்கிய மொழியியல் பேராசிரியர்
 
 **lekt6114:** சான்டா க்ரூஸ் பேராலயம், கோச்சி = കൊച്ചി [படத்தின் மூலம்: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (குறிப்பிடல், வணிகரீதியான பயன்பாடு இல்லை)]
-
-**lekt6118:** [பட மூலம்: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (நிர்வாகம்)]
-
-**lekt6117:** அபதானி மக்கள், அருணாசல பிரதேசம் [பட மூலம்: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- 2009-03-09 அன்று அணுகப்பட்டது. -- [Creative Commons அனுமதி](http://creativecommons.org/licenses/by/2.0/deed.de) (நிர்வாகம்)]
-
-**lekt6101:** ஹலேபிடூ (ಹಳೆಬೀಡು), 12./13. நூற்றாண்டு கி.பி. [பட மூலம்: Quadell / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
-
 :::

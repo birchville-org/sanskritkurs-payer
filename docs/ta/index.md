@@ -2,32 +2,33 @@
 layout: home
 
 hero:
-  name: சமஸ்கிருத பாடம்
-  text: ஒரு முழுமையான பயிற்சி
-  tagline: அலோய்ஸ் பையர் (டூப்ஃப்ளியின் உலக கிராம நூலகம்)
+  name: Sanskritkurs
+  text: Ein vollständiger Lehrgang
+  tagline: "von Alois Payer (Tüpfli's Global Village Library)"
   actions:
     - theme: brand
-      text: பாடத்தைத் தொடங்கு
+      text: Kurs Starten
       link: /ta/lektionen/lektion01
     - theme: alt
-      text: இலக்கண தலைப்புகள்
+      text: Grammatik Themen
       link: /ta/grammatik
 
 features:
   - title: Devanāgarī ready
-    details: இந்திய எழுத்துக்களுக்கான துல்லியமான, ஒருங்கிணைந்த வடிவமைப்பு.
-  - title: எளிதாகத் தேடக்கூடியது
-    details: ஆழமான உள்ளூர் முழு உரை தேடல், அறிவை ஒரு தட்டச்சில் கிடைக்கச் செய்கிறது.
-  - title: நவீன கட்டமைப்பு
-    details: அதிகபட்ச வேகத்திற்காக VitePress-ன் அடிப்படையில் கட்டப்பட்டது.
+    details: Perfekte, integrierte Typografie für indische Schriften.
+  - title: Leicht Durchsuchbar
+    details: Eine tiefgreifende lokale Volltextsuche hält das Wissen auf Knopfdruck bereit.
+  - title: Moderne Architektur
+    details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
+
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+அலாய்ஸ் பையரின் **சமஸ்கிருத பாடம்** என்பது சமஸ்கிருத மொழி மற்றும் தேவநாகரி எழுத்துக்களைக் கற்றுக்கொள்வதற்கான விரிவான, அறிவியல் ரீதியாக ஆதரிக்கப்பட்ட கற்பித்தல் நிகழ்வு. இந்த டிஜிட்டல் பதிப்பு முழு பாடத்தையும் நவீன, பலமொழி மற்றும் தேடுதல் சாத்தியமான வாசிப்பு சூழலில் வழங்குகிறது.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+மொழிகள் ஒரு செயற்கை நுண்ணறிவு (Qwen3.6-32B) உதவியுடன் முழுமையாக தானாக ஜெர்மன் மொழியிலிருந்து மொழிபெயர்க்கப்பட்டுள்ளன. மொழிபெயர்ப்பு பிழைகள் குறித்த தகவல்கள் மிகவும் வரவேற்கப்படுகின்றன.
+**குறிப்புகள் & தொடர்பு**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**ஒரு திருத்தநூலாளர் அல்லது கண்காணிப்பாளராக பங்களிக்க**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+**திறந்த மூல திருத்தி சென்டௌரி**: [GitHub](https://github.com/marcodem/zentauri) இல் தனிநபர் Markdown திருத்தி
+**அமைப்பாளர் விக்கி & கட்டமைப்பு**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

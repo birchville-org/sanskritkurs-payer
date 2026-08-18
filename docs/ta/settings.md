@@ -1,6 +1,7 @@
 ---
 layout: doc
-title: அமைப்புகள்
+title: "அமைப்புகள்"
+
 ---
 
 <ClientOnly>
