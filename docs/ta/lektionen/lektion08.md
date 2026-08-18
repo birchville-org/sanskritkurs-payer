@@ -131,7 +131,6 @@ note-box
 (பட மூலங்கள்: [Details](/ta/licenses#lekt0803))
 :::
 
-:::
 ### 8.3.4. -ti பெண்பால் (kṛt)
 
 ::: grammar-box

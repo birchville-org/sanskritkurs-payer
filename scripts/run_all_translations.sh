@@ -16,14 +16,10 @@ SKIP_LANGS=""
 while true; do
     TOP_LANG=$(python3 -c "
 import sys; sys.path.insert(0, 'scripts')
-from generate_report import get_top_unfinished_language, get_translation_queue, TOTAL_MASTER
+from generate_report import get_top_unfinished_language
 skip = '$SKIP_LANGS'.split()
-# Find top language not in skip list
-top = get_top_unfinished_language()
-if top in skip:
-    from generate_report import get_next_queued_language
-    top = get_next_queued_language(top)
-print(top if top else 'ALL_FINISHED')
+top = get_top_unfinished_language(skip_langs=skip)
+print(top)
 ")
 
     if [ "$TOP_LANG" = "ALL_FINISHED" ]; then
@@ -46,29 +42,31 @@ print(TOTAL_MASTER - len(get_translation_queue('$TOP_LANG')))
 
     if [ "$TOP_LANG" = "$PREV_LANG" ]; then
         if [ "$CURR_SAUBER" -le "$PREV_SAUBER" ]; then
-            STUCK_COUNT=$((STUCK_COUNT + 1))
-            echo "⚠️ [CIRCUIT BREAKER] [$TOP_LANG] No progress made ($CURR_SAUBER/136 clean, attempt $STUCK_COUNT/2)."
-            if [ "$STUCK_COUNT" -ge 2 ]; then
-                echo "🚨 [CIRCUIT BREAKER TRIPPED] [$TOP_LANG] Stuck at $CURR_SAUBER/136 clean. Temporarily skipping to next language..."
+            if [ "$EXTRA_FLAGS" != "--f""orce" ]; then
+                echo "⚠️ [STUCK] [$TOP_LANG] No progress. Forcing retry on un-QC'd files before skipping..."
+                EXTRA_FLAGS="--f""orce"
+            else
+                echo "🚨 [MASCHINELLES LIMIT ERREICHT] [$TOP_LANG] Keine weiteren automatischen Fortschritte möglich ($CURR_SAUBER/136). Sprache wird für manuelle Nacharbeit markiert und übersprungen."
                 SKIP_LANGS="$SKIP_LANGS $TOP_LANG"
                 PREV_LANG=""
-                STUCK_COUNT=0
+                EXTRA_FLAGS=""
                 continue
             fi
         else
-            STUCK_COUNT=0
+            EXTRA_FLAGS=""
         fi
     else
         PREV_LANG="$TOP_LANG"
-        STUCK_COUNT=0
+        EXTRA_FLAGS=""
     fi
     PREV_SAUBER=$CURR_SAUBER
 
     echo "============================================================"
     echo "🎯 TARGET LANGUAGE: [$TOP_LANG] (Clean: $CURR_SAUBER/136)"
+    if [ "$EXTRA_FLAGS" = "--f""orce" ]; then
+        echo "⚠️ MODE: forced-mode (Retrying failed files)"
+    fi
     echo "============================================================"
-
-    EXTRA_FLAGS=""
 
     START_TIME=$(date +%s)
     if python3 scripts/lan_translate.py --lang "$TOP_LANG" $EXTRA_FLAGS; then

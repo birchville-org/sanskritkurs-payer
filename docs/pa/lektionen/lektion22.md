@@ -270,5 +270,3 @@ status: stable
 **lekt2204:** [ਚਿੱਤਰ ਸਰੋਤ: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- 2008-12-12 ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤਾ⟪।⟫ -- Creative Commons ਲਾਇਸੈਂਸ (ਨਾਮ ਦਿੱਤਾ ਜਾਣਾ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ, ਕੋਈ ਸੋਧ ਨਹੀਂ)]
 :::
 
-
-:::

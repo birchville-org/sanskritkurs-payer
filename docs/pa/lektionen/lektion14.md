@@ -1,6 +1,6 @@
 ---
 title: "ਪਾਠ 14"
-subtitle: "ਨਾਮਾਂ ਦੁਆਰਾ ਦਰਸਾਏ ਗਏ ਵਸਤੂਆਂ ਦੇ ਵਿਚਕਾਰ ਸੰਬੰਧ ਦਾ ਪ੍ਰਗਟਾਵਾ: ਷ੱਥੀ (ṣaṣṭhī f. = ⟪षष्टी⟫ = ਛੇਵਾਂ ਵਿਭਕਤੀ ਅੰਤ)"
+subtitle: "ਨਾਂਵਾਂ ਦੁਆਰਾ ਸੰਕੇਤ ਕੀਤੇ ਗਏ ਵਸਤੂਆਂ ਦੇ ਵਿਚਕਾਰ ਸੰਬੰਧ ਦਾ ਪ੍ਰਗਟਾਵਾ: ਷ੱਸ਼ਠੀ (ṣaṣṭhī f. = ⟪षष्टी⟫ = ਛੇਵਾਂ ਵਿਭਕਤੀ ਅੰਤ)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -118,8 +118,8 @@ status: stable
 | :--- | :br ⟪तस्य⟫ | kasya:br ⟪एतस्य⟫ | tasya:br ⟪अस्य⟫ | etasya:br ⟪केषाम्⟫ | asya:br ⟪तेषाम्⟫ |
 | **ਪੁਲਿੰਗ / ਨਪੁੰਸਕਲਿੰਗ** | **ਇਕਵਚਨ ਵਿੱਚ ਐਸ਼ਟਕ (Genetiv Singular)** | kasya:br ⟪एतेषाम्⟫ | tasya:br ⟪एषाम्⟫ | etasya:br ⟪कस्यास्⟫ | asya:br ⟪तस्यास्⟫ |
 | | **ਬਹੁਵਚਨ ਵਿੱਚ ਐਸ਼ਟਕ (Genetiv Plural)** | keṣām:br ⟪एतस्यास्⟫ | teṣām:br ⟪अस्यास्⟫ | eteṣām:br ⟪कासाम्⟫ | eṣām:br ⟪तासाम्⟫ |
-| **ਸਤਰਿੰਗ** | **ਇਕਵਚਨ ਵਿੱਚ ਐਸ਼ਟਕ (Genetiv Singular)** | kasyās:br ⟪एतासाम्⟫ | tasyās:br ⟪आसाम्⟫ | etasyās:br ⟪⟨DEVA_34⟩⟫ | asyās:br ⟪⟨DEVA_35⟩⟫ |
-| | **ਬਹੁਵਚਨ ਵਿੱਚ ਐਸ਼ਟਕ (Genetiv Plural)** | kāsām:br ⟪⟨DEVA_36⟩⟫ | tāsām:br ⟪⟨DEVA_37⟩⟫ | etāsām:br ⟪⟨DEVA_38⟩⟫ | āsām:br ⟪⟨DEVA_39⟩⟫ |
+| **ਸਤਰਿੰਗ** | **ਇਕਵਚਨ ਵਿੱਚ ਐਸ਼ਟਕ (Genetiv Singular)** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **ਬਹੁਵਚਨ ਵਿੱਚ ਐਸ਼ਟਕ (Genetiv Plural)** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
 **ਰੂਪ-ਸਮਾਨਤਾ:**
